@@ -29,17 +29,17 @@ In osu!taiko wird die Genauigkeit berechnet, indem man die Summe der Notengenaui
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
-![Genauigkeit = (Anzahl der gefangenen Früchte + Anzahl der gefangenen Drops + Anzahl der gefangenen Droplets) / (Anzahl aller Fruits + Anzahl aller Drops + Anzahl aller Droplets)](img/accuracy_catch_updated.png "Genauigkeitsformel für osu!catch")
+![Genauigkeit = (Anzahl der gefangenen Fruits + Anzahl der gefangenen Drops + Anzahl der gefangenen Droplets) / (Anzahl aller Fruits + Anzahl aller Drops + Anzahl aller Droplets)](img/accuracy_catch_updated.png "Genauigkeitsformel für osu!catch")
 
 In osu!catch wird die Genauigkeit berechnet, indem die Gesamtzahl der gesammelten Hit-Objekte, die keine Spinner sind, durch die Gesamtzahl der Objekte, die keine Spinner sind, geteilt wird. Alle Hit-Objekte haben den gleichen Wert, mit der Ausnahme von Bananen, da diese Teil der Spinner-Objekte sind.
 
 *Hinweise für [API](/wiki/osu!api)-Benutzer:*
 
-- Die Anzahl der Gefangenen Drops wird als `count100` zurückgegeben.
-- Die Anzahl der Gefangenen Droplets wird als `count50` zurückgegeben.
+- Die Anzahl der gefangenen Drops wird als `count100` zurückgegeben.
+- Die Anzahl der gefangenen Droplets wird als `count50` zurückgegeben.
 - Die Anzahl der verfehlten Fruits *und* Drops zusammen wird als `CountMiss` zurückgegeben.
 - Die Anzahl der verfehlten Droplets wird als `countKatu` zurückgegeben.
-- `countGeki` sollte zur Berechnung der Genauigkeit nicht verwendet werden. Es ist die Anzahl der gefangenen Combo-beendenden Früchte.
+- `countGeki` sollte zur Berechnung der Genauigkeit nicht verwendet werden. Es ist die Anzahl der gefangenen Combo-beendenden Fruits.
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 
