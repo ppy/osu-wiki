@@ -8,14 +8,14 @@ tags:
 
 ![TWC 2015 logo](img/logo.png)
 
-Das **osu! Taiko World Cup 2015** (***TWC 2015***) war ein länderbasiertes Taiko-Turnier, das vom [osu! Team](/wiki/People/The_Team) ausgerichtet wurde. Es war die 5. Austragung des osu! Taiko World Cup.
+Der **osu! Taiko World Cup 2015** (***TWC 2015***) war ein länderbasiertes Taiko-Turnier, das vom [osu! Team](/wiki/People/The_Team) ausgerichtet wurde. Es war die 5. Austragung des osu! Taiko World Cup.
 
 ## Turnierzeitplan
 
 | Event | Zeitstempel |
 | :-- | :-- |
 | Registrierungsphase | 12.01.2015 bis 22.02.2015 |
-| Live-Ziehungen | 28.02.2015 (14:00 UTC) |
+| Live-Auslosung | 28.02.2015 (14:00 UTC) |
 | Gruppenphase | 07.03.2015 bis 08.03.2015 |
 | Achtelfinale | 14.03.2015 bis 15.03.2015 |
 | Viertelfinale | 21.03.2015 bis 22.03.2015 |
@@ -27,17 +27,17 @@ Das **osu! Taiko World Cup 2015** (***TWC 2015***) war ein länderbasiertes Taik
 
 | Platzierung | Preis(e) |
 | :-- | :-- |
-| ![Goldene Krone](/wiki/shared/crown-gold.png "1. Platz") | 6 Monate Supporter Tag, Profilabzeichen, "Taiko Champion"-Benutzertitel für 1 Jahr, osu! Merchandise |
-| ![Silberne Krone](/wiki/shared/crown-silver.png "2. Platz") | 3 Monate Supporter Tag, Profilabzeichen |
-| ![Bronzene Krone](/wiki/shared/crown-bronze.png "3. Platz") | 1 Monat Supporter Tag, Profilabzeichen |
+| ![Goldkrone](/wiki/shared/crown-gold.png "1. Platz") | 6 Monate Supporter Tag, Profilabzeichen, "Taiko Champion"-Benutzertitel für 1 Jahr, osu! Merchandise |
+| ![Silberkrone](/wiki/shared/crown-silver.png "2. Platz") | 3 Monate Supporter Tag, Profilabzeichen |
+| ![Bronzekrone](/wiki/shared/crown-bronze.png "3. Platz") | 1 Monat Supporter Tag, Profilabzeichen |
 
-![](img/badge.jpg "TWC 2015 Gewinnerabzeichen") ![](img/badge2.jpg "TWC 2015 Zweitplatziertenabzeichen") ![](img/badge3.jpg "TWC 2015 Drittplatziertenabzeichen")
+![](img/badge.jpg "TWC 2015 Gewinner-Abzeichen") ![](img/badge2.jpg "TWC 2015 2. Platz-Abzeichen") ![](img/badge3.jpg "TWC 2015 3. Platz-Abzeichen")
 
 ## Organisation
 
 Der osu! Taiko World Cup 2015 wurde von verschiedenen Mitgliedern der Community organisiert.
 
-| Position | Mitglied(er) |
+| Tätigkeit | Person(en) |
 | :-- | :-- |
 | Manager | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) // ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) // ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) |
 | Mappool-Auswahl | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) |
@@ -90,7 +90,7 @@ Der osu! Taiko World Cup 2015 wurde von verschiedenen Mitgliedern der Community 
 | ::{ flag=KR }:: Südkorea | ::{ flag=DE }:: Deutschland | ::{ flag=FR }:: Frankreich | ::{ flag=HK }:: Hongkong |
 | ::{ flag=TW }:: Taiwan | ::{ flag=CN }:: China | ::{ flag=JP }:: Japan | ::{ flag=US }:: Vereinigte Staaten |
 
-![](img/bracket.jpg "TWC 2015 Spielplan")
+![](img/bracket.jpg "TWC 2015 Turnierbaum")
 
 ## Podium
 
@@ -108,7 +108,7 @@ Dieser Wettkampf ist abgeschlossen und hat zum folgenden Podium geführt:
 
 **Dieser Mappol wurde während der Finalwochen 1 und 2 verwendet.**
 
-**[Lade das Beatmappaket hier herunter! (103 MB)](https://www.mediafire.com/download/z5uccj5aai47335/TWC_2015_Finals.rar)**
+**[Downloade das Mappack hier! (103 MB)](https://www.mediafire.com/download/z5uccj5aai47335/TWC_2015_Finals.rar)**
 
 - NoMod
   1. [MuryokuP - Frozen World (c36098651) \[Firce777's North Pole\]](https://osu.ppy.sh/beatmapsets/194955#taiko/465192)
@@ -138,7 +138,7 @@ Dieser Wettkampf ist abgeschlossen und hat zum folgenden Podium geführt:
 
 ### Halbfinale
 
-**[Lade das Beatmappaket hier herunter! (160 MB)](https://www.mediafire.com/download/p6aujpf5ogp3boy/TWC_2015_Semi_Finals.rar)**
+**[Downloade das Mappack hier! (160 MB)](https://www.mediafire.com/download/p6aujpf5ogp3boy/TWC_2015_Semi_Finals.rar)**
 
 - NoMod
   1. [Renard - Terminal (nold\_1702) \[mint's Inner Oni\]](https://osu.ppy.sh/beatmapsets/102282#taiko/291218)
@@ -168,7 +168,7 @@ Dieser Wettkampf ist abgeschlossen und hat zum folgenden Podium geführt:
 
 ### Viertelfinale
 
-**[Lade das Beatmappaket hier herunter! (113 MB)](https://www.mediafire.com/download/z12avi4i656s5yl/TWC_2015_Quarter_Finals.rar)**
+**[Downloade das Mappack hier! (113 MB)](https://www.mediafire.com/download/z12avi4i656s5yl/TWC_2015_Quarter_Finals.rar)**
 
 - NoMod
   1. [44teru-k - F.I (AngelHoney) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/beatmapsets/25828#taiko/125530)
@@ -198,7 +198,7 @@ Dieser Wettkampf ist abgeschlossen und hat zum folgenden Podium geführt:
 
 ### Achtelfinale
 
-**[Lade das Beatmappaket hier herunter! (152 MB)](https://www.mediafire.com/download/ep42t826268v1ra/TWC_2015_Round_of_16.rar)**
+**[Downloade das Mappack hier! (152 MB)](https://www.mediafire.com/download/ep42t826268v1ra/TWC_2015_Round_of_16.rar)**
 
 - NoMod
   1. [M2U feat. Guriri - Magnolia (JUDYDANNY) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/140418#taiko/350721)
@@ -228,7 +228,7 @@ Dieser Wettkampf ist abgeschlossen und hat zum folgenden Podium geführt:
 
 ### Gruppenphase
 
-**[Lade das Beatmappaket hier herunter! (75 MB)](https://www.mediafire.com/download/zyyc0ec65q9pp22/TWC_2015_Group_Stage.rar)**
+**[Downloade das Mappack hier! (75 MB)](https://www.mediafire.com/download/zyyc0ec65q9pp22/TWC_2015_Group_Stage.rar)**
 
 - NoMod
   1. [Hige Driver join. SELEN - Dadadadadadadadadada (qoot8123) \[Oni\]](https://osu.ppy.sh/beatmapsets/237306#taiko/549277)
@@ -256,7 +256,7 @@ Dieser Wettkampf ist abgeschlossen und hat zum folgenden Podium geführt:
 - Tiebreaker
   1. **[EastNewSound - Lucid Dream (Natteke) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/beatmapsets/20826#taiko/75296)**
 
-## Matchergebnisse
+## Ergebnisse aller Partien
 
 ### Finalwoche 2
 
@@ -419,12 +419,12 @@ Sonntag, 8. März 2015:
 
 ### Turnierregeln
 
-1. Das osu! Taiko World Cup ist ein länderbasiertes Team-Turnier.
-2. Die Beatmaps werden vom Mappool Wähler für jede Runde im Vorhinein am Sonntag angekündigt, bevor die eigentliche Partie stattfindet. Nur diese werden dann während den enstsprechenden Partien zur Verfügung stehen.
-   - Eine Beatmap wird als Tiebreaker-Map angegeben. Diese Beatmap wird nur gespielt falls es zum Gleichstand kommt.
+1. Der osu! Taiko World Cup ist ein länderbasiertes Team-Turnier.
+2. Die Beatmaps werden von der Mappool-Auswahl für jede Runde im Vorhinein am Sonntag angekündigt, bevor die eigentliche Partie stattfindet. Nur diese werden dann während den enstsprechenden Partien zur Verfügung stehen.
+   - Eine Beatmap wird als Tiebreaker-Map angegeben. Diese Beatmap wird nur bei einem Punktegleichstand gespielt.
    - Es wird auch eine [Hidden-](/wiki/Game_modifier/Hidden), [HardRock-](/wiki/Game_modifier/Hard_Rock), [DoubleTime-](/wiki/Game_modifier/Double_Time) und FreeMod-Klasse geben.
 3. Der Turnierzeitplan wird vom Turniermanagement festgelegt (siehe unten).
-4. Scores von Spielern, die gescheitert sind, werden zum Teamscore hinzugerechnet. 
+4. Ergebnisse von Spielern, die gescheitert sind, werden zum Teamergebnis hinzugerechnet. 
 5. Wenn kein Schiedsrichter oder Personal vorhanden sein sollte, wird die Partie verschoben.
 6. Das Benutzen der [visuellen Einstellungen](/wiki/Client/Interface/Visual_settings) ist erlaubt.
 7. Wenn es bei einer Beatmap zum Unentschieden kommen sollte, wird das Ergebnis als nichtig erklärt.
@@ -432,8 +432,8 @@ Sonntag, 8. März 2015:
 9. Beatmaps können nicht mehrmals in einer Partie gespielt werden, es sei denn, das vorherige Ergebnis derselben Beatmap war nichtig.
 10. Wenn weniger als als das Minimum an benötigten Spielern eines Teams anwesend ist, kann die Partie um maximal 10 Minuten verschoben werden.
 11. Das Austauschen von Spielern während der Partie ist erlaubt.
-12. Lag ist kein gültiger Grund, um das Ergebnis einer Beatmap zu nichtigen.
-13. In der Gruppenphase wird das 'Win by default' (zu deutsch 'kampflos gewonnen') als ein Sieg mit 4:0 und +1.0 Score-Difference-Ratio gewertet.
+12. Lag ist kein gültiger Grund, um das Ergebnis einer Beatmap zu annulieren.
+13. In der Gruppenphase wird das 'Win by default' (zu deutsch 'kampflos gewonnen') als ein Sieg mit 4:0 und +1.0 Score-Unterschiedsverhältnis angesehen.
 14. Unerwartete Vorkommnisse werden vom Turnier Management behandelt.
 15. Jede Veränderung dieser Regeln wird bekannt gegeben.
 
@@ -482,7 +482,7 @@ Sonntag, 8. März 2015:
    | Finalwoche 1 | O & AB, AC, AD, AE |
    | Finalwoche 2 | P, Q |
 
-7. **Gewinnbedingungen:**
+7. **Bedingugen, um zu gewinnen:**
    - In der Gruppenphase musst du 4 Maps gewinnen, um die Partie zu gewinnen. (Best-of-7)
    - Im Achtel- und Viertelfinale musst du 5 Maps gewinnen, um die Partie zu gewinnen. (Best-of-9)
    - Im Halbfinale und im Finale musst du 6 Maps gewinnen, um die Partie zu gewinnen. (Best-of-11)
@@ -509,14 +509,14 @@ Sonntag, 8. März 2015:
 2. Jeder Mappool besteht aus 5 Klassen: NoMod, HardRock, Hidden, DoubleTime und FreeMod
 3. Jeder Mappool besteht aus insgesamt 19 Maps.
 4. Jeder Mappool beinhaltet einen Tiebreaker.
-5. Die NoMod-Klasse wird ohne aktiven Mods gespielt.
-6. Die Hidden-, HardRock- und DoubleTime-Klasse wird mit dem entsprechenden, aktivierten Mod gespielt.
-7. In der FreeMod-Gruppe steht FreeMod zur Verfügung. Jeder einzelne Spieler kann dann mit Hidden, HardRock, Flashlight oder gar keinen Mods spielen.
-   - Wenn eine FreeMod-Map gespielt wird, muss mindestens 1 Spieler jedes Teams einen Mod aktiviert haben.
+5. Der NoMod-Stapel wird ohne aktiven Mods gespielt.
+6. Die Hidden-, HardRock- und DoubleTime-Stapel werden mit dem entsprechenden, aktivierten Mod gespielt.
+7. Der FreeMod-Stapel schaltet den FreeMod frei. Jeder einzelne Spieler kann dann mit Hidden, HardRock, Flashlight oder gar keinen Mods spielen.
+   - Wenn eine FreeMod-Map gespielt wird, muss mindestens 1 Spieler jedes Teams eine Mod aktiviert haben.
 8. Die Tiebreaker-Map wird mit denselben Bedingungen wie beim FreeMod gespielt.
-   1. Wenn die Tiebreaker-Map gespielt wird, muss niemand einen Mod aktiviert haben.
-9. Die Größe der NoMod-Gruppe besteht in allen Etappen aus 6 Maps.
-10. Die Größe der mod-spezifischen Gruppen besteht in allen Etappen aus 3 Maps.
+   - Wenn die Tiebreaker-Map gespielt wird, muss niemand einen Mod aktiviert haben.
+9. Die Größe des NoMod-Stapels besteht in allen Etappen aus 6 Maps.
+10. Die Größe der mod-spezifischen Stapel besteht in allen Etappen aus 3 Maps.
 
 ### Zeitplananweisungen
 
