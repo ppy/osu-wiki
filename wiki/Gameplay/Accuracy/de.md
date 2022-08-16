@@ -35,8 +35,8 @@ In osu!catch wird die Genauigkeit berechnet, indem die Gesamtzahl der gesammelte
 
 *Hinweise für [API](/wiki/osu!api)-Benutzer:*
 
-- Die Anzahl der Gefangenen drops wird als `count100` zurückgegeben.
-- Die Anzahl der Gefangenen droplets wird als `count50` zurückgegeben.
+- Die Anzahl der Gefangenen Drops wird als `count100` zurückgegeben.
+- Die Anzahl der Gefangenen Droplets wird als `count50` zurückgegeben.
 - Die Anzahl der verfehlten Fruits *und* Drops zusammen wird als `CountMiss` zurückgegeben.
 - Die Anzahl der verfehlten Droplets wird als `countKatu` zurückgegeben
 - `countGeki` sollte zur Berechnung der Genauigkeit nicht verwendet werden. Es ist die Anzahl der gefangenen Combo-beendenden Früchte.
