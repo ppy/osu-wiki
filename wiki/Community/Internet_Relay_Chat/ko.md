@@ -1,3 +1,8 @@
+---
+outdated_since: cf0ddf848ad418ee3a61282b7e83aa437082021d
+outdated_translation: true
+---
+
 # Internet Relay Chat
 
 *IRC가 무엇인지 자세히 알고 싶으시면, 다음 문서를 확인해주세요: [Internet Relay Chat (Wikipedia)](https://ko.wikipedia.org/wiki/%EC%9D%B8%ED%84%B0%EB%84%B7_%EB%A6%B4%EB%A0%88%EC%9D%B4_%EC%B1%97)*
