@@ -509,8 +509,8 @@ Sonntag, 8. März 2015:
 2. Jeder Mappool besteht aus 5 Klassen: NoMod, HardRock, Hidden, DoubleTime und FreeMod
 3. Jeder Mappool besteht aus insgesamt 19 Maps.
 4. Jeder Mappool beinhaltet einen Tiebreaker.
-5. Der NoMod-Stapel wird ohne aktiven Mods gespielt.
-6. Die Hidden-, HardRock- und DoubleTime-Stapel werden mit dem entsprechenden, aktivierten Mod gespielt.
+5. Der NoMod-Stapel wird ohne aktive Mods gespielt.
+6. Die Hidden-, HardRock- und DoubleTime-Stapel werden mit der entsprechenden, aktivierten Mod gespielt.
 7. Der FreeMod-Stapel schaltet den FreeMod frei. Jeder einzelne Spieler kann dann mit Hidden, HardRock, Flashlight oder gar keinen Mods spielen.
    - Wenn eine FreeMod-Map gespielt wird, muss mindestens 1 Spieler jedes Teams eine Mod aktiviert haben.
 8. Die Tiebreaker-Map wird mit denselben Bedingungen wie beim FreeMod gespielt.
