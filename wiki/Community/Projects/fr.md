@@ -1,7 +1,5 @@
 ---
 outdated: true
-outdated_since: 67f8f354473eb71ba376ad16a2756455611355d0
-outdated_translation: true
 ---
 
 # Projets
@@ -53,25 +51,30 @@ Outils et/ou services créés par la communauté d'osu!. Vous êtes libres d'ajo
 
 ### Gameplay
 
+- Circleguard—Un programme d'analyse de replays généralement utilisé pour vérifier les cas de tricherie.
+  - [GitHub](https://github.com/circleguard/circleguard)
 - [Desktop Composition Disabler](https://osu.ppy.sh/community/forums/topics/177218)—Désactive la composition du bureau sur Windows pour réduire la latence d'entrée pour les joueurs en fenêtré.
-- [Huion Area Setting Helper](https://osu.ppy.sh/community/forums/topics/504343)—Aide à configurer la zone active pour les tablettes Huion.
 - [Key presses per second](https://osu.ppy.sh/community/forums/topics/552405)—Compte et affiche combien de fois une certaine touche a été appuyée.
   - [GitHub](https://github.com/RoanH/KeysPerSecond)
+- OpenTabletDriver—Pilotes de tablette open source, multiplateforme et en mode utilisateur.
+  - [GitHub](https://github.com/OpenTabletDriver/OpenTabletDriver) | [Site web](https://opentabletdriver.net/)
 - [osu! Replayer](https://osu.ppy.sh/community/forums/topics/563282)—Permet de voir et sauvegarder les replays après être sorti de l'écran de résultat.
   - [GitHub](https://github.com/jkapi/Osu-Replays)
 - [osr2mp4](https://osu.ppy.sh/community/forums/topics/1104243)—Une application qui convertit les replays en vidéos.
-  - [Github](https://github.com/uyitroa/osr2mp4-app)
+  - [GitHub](https://github.com/uyitroa/osr2mp4-app)
 - [osu! Miss Analyzer](https://osu.ppy.sh/community/forums/topics/613143)—Un programme qui prend un replay et analyse chaque miss pour déterminer comment et pourquoi il s'est produit. Il est simple à utiliser et présente des données intéressantes.
-  - [Github](https://github.com/ThereGoesMySanity/osuMissAnalyzer/)
+  - [GitHub](https://github.com/ThereGoesMySanity/osuMissAnalyzer/)
 
 #### osu!
 
+- danser-go—Outil de visualisation en CLI pour les beatmaps du mode osu!. Peut également être utilisé pour transformer les replays en vidéos.
+  - [GitHub](https://github.com/Wieku/danser-go)
 - osu!speed—Détermine la vitesse de frappe de l'utilisateur.
   - [Site](https://osu-speed.simo.sh/)
 - [osu!Tapspeed-Meter](https://osu.ppy.sh/community/forums/topics/247716)—Détermine la vitesse à laquelle le joueur clique.
   - [Pastebin source](https://pastebin.com/h2nK5JvX)
 - you suck at streaming v2—Détermine la vitesse à laquelle le joueur clique.
-  - [Github](https://github.com/ckrisirkc/osuStreamSpeed.js) | [Site](https://ckrisirkc.github.io/osuStreamSpeed.js/newindex.html)
+  - [GitHub](https://github.com/ckrisirkc/osuStreamSpeed.js) | [Site](https://ckrisirkc.github.io/osuStreamSpeed.js/newindex.html)
 
 #### osu!taiko
 
@@ -82,14 +85,16 @@ Outils et/ou services créés par la communauté d'osu!. Vous êtes libres d'ajo
 
 - gosumemory—Lecteur de mémoire multiplateforme pour osu!.
   - [GitHub](https://github.com/l3lackShark/gosumemory)
+- JKPS — Un programme de touches par secondes qui peut être utilisé comme overlay d'entrées avec beaucoup de personnalisation.
+  - [GitHub](https://github.com/JekiTheMonkey/JKPS)
 - Mikuia—Un robot Twitch qui peut suivre les demandes de musiques et envoyer des mises à jour sur les changements de rang ou les parties que vous réalisez dans le tchat.
   - [Site](https://mikuia.tv/)
-- [osu!Keys](https://osu.ppy.sh/community/forums/topics/497467)—Affiche un overlay d'entrée des touches dans votre stream.
-  - [GitHub](https://github.com/TheRedCoderGit/Osu-Keys/)
 - [osu!RequestBot](https://osu.ppy.sh/community/forums/topics/175723)—Suit les requêtes de beatmaps pendant votre stream.
   - [GitHub](https://github.com/RedbackThomson/OsuRequestBot)
 - [osu!StreamCompanion](https://osu.ppy.sh/community/forums/topics/209616)—Extracteur d'informations pour osu! pour les live streamers.
   - [GitHub](https://github.com/Piotrekol/StreamCompanion)
+- Ronnia—Une alternative à Mikuia avec un ensemble de fonctionnalités similaire.
+  - [GitHub](https://github.com/aticie/ronnia) | [Site web](https://ronnia.me/)
 
 ### Beatmapping
 
@@ -97,9 +102,11 @@ Outils et/ou services créés par la communauté d'osu!. Vous êtes libres d'ajo
   - [Site](http://maxime.delaby.free.fr/THEFIXER.html)
 - [Hitsounds copier 2.1.1](https://osu.ppy.sh/community/forums/topics/131540)—Copie et colle les hitsounds d'une difficulté à une autre.
 - [Local Osu! NPS-Calculator](https://osu.ppy.sh/community/forums/topics/459779)—Un calculateur de notes par seconde.
+- [Mapping Tools](https://osu.ppy.sh/community/forums/topics/940368)—Une énorme compilation d'outils pour faciliter le mapping.
+  - [GitHub](https://github.com/OliBomby/Mapping_Tools) | [Website](https://mappingtools.github.io/)
 - [New Hitsound Copier](https://osu.ppy.sh/community/forums/topics/353638)—Un autre programme qui copie et colle les hitsounds d'une difficulté à une autre.
 - Osu! Storyboarder Banquet—Un site web consacré au storyboarding
-  - [Github](https://github.com/osb-group/osb.moe/) | [Site](https://osb.moe/)
+  - [GitHub](https://github.com/osb-group/osb.moe/) | [Site](https://osb.moe/)
 - [osu!tp's difficulty calculator](https://osu.ppy.sh/community/forums/topics/164057)—Une intégration AiMod du calculateur de difficulté osu!tp.
   - [GitHub](https://github.com/Tom94/AiModtpDifficultyCalculator)
 - [Variable BPM Slider Velocity Stabilizer](https://osu.ppy.sh/community/forums/topics/567059)—Un outil qui stabilise la vitesse de slider après les changements de BPM.
@@ -123,7 +130,7 @@ Outils et/ou services créés par la communauté d'osu!. Vous êtes libres d'ajo
   2. Hit Object to Storyboard—Permet de copier des hitsounds et de les coller dans le storyboard.
   3. Note Density calculator—Liste la distribution des keys dans les difficultés d'osu!mania.
   4. Hitsound Detective—Vérifie la présence de hitsounds inutilisés dans d'autres difficultés (en fonction de la difficulté sélectionnée).
-     - [Github](https://github.com/dudehacker/Hitsound-Detective)
+     - [GitHub](https://github.com/dudehacker/Hitsound-Detective)
   5. Keysound Maker—Crée des keysounds pour osu!mania.
      - [GitHub](https://github.com/dudehacker/Osu-Keysound-Maker)
 - [o2jam to osu!mania converter](https://osu.ppy.sh/community/forums/topics/121149)—Un convertisseur de o2jam à osu!mania.
@@ -140,6 +147,8 @@ Outils et/ou services créés par la communauté d'osu!. Vous êtes libres d'ajo
   - [GitHub](https://github.com/Qwby/osu-sgl)
 - [Taiko Mod Generator](https://osu.ppy.sh/community/forums/topics/605656)—Modifie le storyboard d'osu!taiko pour vous permettre de faire des choses intéressantes avec les Dons et les Kats.
   - [GitHub](https://github.com/Chiyozel/TaikoStoryboardGen)
+- Storybrew—Éditeur de storyboard facile à utiliser.
+  - [GitHub](https://github.com/Damnae/storybrew)
 
 ### Modding
 
@@ -159,12 +168,13 @@ Outils et/ou services créés par la communauté d'osu!. Vous êtes libres d'ajo
 - [Mania Column Centering](https://osu.ppy.sh/community/forums/topics/581972)—Calcule le positionnement du stage osu!mania pour le placer au centre.
   - [GitHub](https://github.com/RoanH/ManiaColumnCentering)
 - [osu! Skin Manager](https://osu.ppy.sh/community/forums/topics/231747)—Programme qui vous permet de créer et modifier un skin.
+- osu! skin mixer — Un programme qui vous permet de mélanger facilement des éléments d'autres skins déjà présents dans vos dossiers de skins.
+  - [GitHub](https://github.com/rednir/OsuSkinMixer)
 - [Skin Checker](https://osu.ppy.sh/community/forums/topics/617168)—Vérifie les éléments manquants dans votre skin.
   - [GitHub](https://github.com/RoanH/osuSkinChecker)
 
 ### Gestion des beatmaps
 
-- [Auto-downloader for Bloodcat](https://osu.ppy.sh/community/forums/topics/166347)—Télécharge automatiquement les beatmaps en utilisant le miroir Bloodcat.
 - [Batch script to delete maps](https://osu.ppy.sh/community/forums/topics/682907)—Un script Windows Batch pour supprimer toutes les beatmaps.
 - [Beatmap Version Checker](https://osu.ppy.sh/community/forums/topics/636199)—Recherche les beatmaps non classés et obsolète et les met à jour automatiquement (ou manuellement).
   - [GitHub](https://github.com/RoanH/osuBeatmapVersionChecker)
@@ -250,8 +260,6 @@ Outils et/ou services créés par la communauté d'osu!. Vous êtes libres d'ajo
 - Aiess—Fournit des suivis pour les événements liés au mapping dans osu! (par exemple, les rangs, les qualifications, les nominations, les suggestions, les messages d'information, les changements de groupe, etc.)
   - [GitHub](https://github.com/Naxesss/Aiess)
 - [AR/OD calculator \[Android\]](https://osu.ppy.sh/community/forums/topics/227510)—Calcule les temps AR et la précision de la hit window OD.
-- danser—Un outil de visualisation pour les beatmaps osu!
-  - [GitHub](https://github.com/Wieku/danser-go)
 - [Detect the osu! folder easily](https://osu.ppy.sh/community/forums/topics/381311)—Trouve le dossier osu! et rapporte son chemin. Destiné aux développeurs travaillant sur des tâches liées à l'IO dans leurs applications.
 - hwchr's pick'em—Un site qui héberge des pickems pour les tournois osu! avec la possibilité de demander un pickem pour un tournoi.
   - [Site](https://pickem.hwc.hr/tournaments)
