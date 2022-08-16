@@ -120,7 +120,6 @@ tags:
 | ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) | Шведский, испанский | Модерация чата |
 | ::{ flag=IT }:: [Seijiro](https://osu.ppy.sh/users/2581696) | Итальянский, румынский | Модерация чата |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | Французский, испанский | Модерация чата |
-| ::{ flag=SG }:: [Shoegazer](https://osu.ppy.sh/users/2520707) | Португальский | Модерация маппинг-сообщества |
 | ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) | Индонезийский | Модерация чата |
 | ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | Индонезийский, частично вьетнамский | Модерация чата |
 | ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) | Китайский | Модерация чата |
