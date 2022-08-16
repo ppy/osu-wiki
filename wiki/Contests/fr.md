@@ -324,7 +324,7 @@ Bien que la Pending Cup ait été initialement destinée principalement aux memb
 
 | Musique | Mode de jeu | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne en bronze][BCrown] | Résultats |
 | :-- | :-: | :-- | :-- | :-- | :-- |
-| kamome sano - archive::zip | ![osu!][osu!] | ::{ flag=FR }:: [Realazy](https://osu.ppy.sh/users/873961) | ::{ flag=RU }:: [Senseabel](https://osu.ppy.sh/users/6184386) | ::{ flag=US }:: [Axarious](https://osu.ppy.sh/users/2614511) | [#1](https://osu.ppy.sh/community/forums/topics/982516) |
+| kamome sano - archive\:\:zip | ![osu!][osu!] | ::{ flag=FR }:: [Realazy](https://osu.ppy.sh/users/873961) | ::{ flag=RU }:: [Senseabel](https://osu.ppy.sh/users/6184386) | ::{ flag=US }:: [Axarious](https://osu.ppy.sh/users/2614511) | [#1](https://osu.ppy.sh/community/forums/topics/982516) |
 | EmoCo. - This Club is not 4 U | ![osu!][osu!] | ::{ flag=CN }:: [Ellyu](https://osu.ppy.sh/users/4438154) | ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613) | ::{ flag=RS }:: [Seolv](https://osu.ppy.sh/users/8067876) | [#1](https://osu.ppy.sh/community/forums/topics/982516) |
 | BEMANI Sound Team "Nekomata Master" - The last of world music | ![osu!][osu!] | ::{ flag=PL }:: [Kalibe](https://osu.ppy.sh/users/3376777) | ::{ flag=CA }:: [J1\_](https://osu.ppy.sh/users/5918561) | ::{ flag=KR }:: [Heilia](https://osu.ppy.sh/users/9823042) | [#1](https://osu.ppy.sh/community/forums/topics/982516) |
 

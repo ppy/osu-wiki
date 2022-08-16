@@ -120,7 +120,6 @@ La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la
 | ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) | Suédois, espagnol | Modération du tchat |
 | ::{ flag=IT }:: [Seijiro](https://osu.ppy.sh/users/2581696) | Italien, roumain | Modération du tchat |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | Français, espagnol | Modération du tchat |
-| ::{ flag=SG }:: [Shoegazer](https://osu.ppy.sh/users/2520707) | Portugais | Modération de la communauté modding/mapping |
 | ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) | Indonésien | Modération du tchat |
 | ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | Indonésien, un peu de vietnamien | Modération du tchat |
 | ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) | Chinois | Modération du tchat |

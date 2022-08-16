@@ -48,7 +48,7 @@ The osu!mania 4K World Cup 2022 is run by the [osu! team](/wiki/People/The_Team)
 | Mappool helper | ::{ flag=SG }:: [Abraxos](https://osu.ppy.sh/users/5025064), ::{ flag=SG }:: [aeoliancarp](https://osu.ppy.sh/users/1027529), ::{ flag=PH }:: [arccat](https://osu.ppy.sh/users/4848294), ::{ flag=CA }:: [guden](https://osu.ppy.sh/users/11626065), ::{ flag=DK }:: [Jole](https://osu.ppy.sh/users/2883132), ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656), ::{ flag=US }:: [lemonguy](https://osu.ppy.sh/users/4693052), ::{ flag=US }:: [Matthia](https://osu.ppy.sh/users/19804607), ::{ flag=ID }:: [Mipha-](https://osu.ppy.sh/users/5767941), ::{ flag=TH }:: [MyZterioN-](https://osu.ppy.sh/users/8521723), ::{ flag=GB }:: [Pope Gadget](https://osu.ppy.sh/users/2288341), ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767), ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811), ::{ flag=KR }:: [Transcendence](https://osu.ppy.sh/users/903155), ::{ flag=US }:: [\_Seth](https://osu.ppy.sh/users/8111953) |
 | SV mapper/consultant | ::{ flag=CN }:: [AlexDunk](https://osu.ppy.sh/users/9194799), ::{ flag=PH }:: [arccat](https://osu.ppy.sh/users/4848294), ::{ flag=FR }:: [BlackyDay](https://osu.ppy.sh/users/5724831), ::{ flag=US }:: [Ciel](https://osu.ppy.sh/users/1455309), ::{ flag=NL }:: [DannyPX](https://osu.ppy.sh/users/11253722), ::{ flag=US }:: [FullCombro](https://osu.ppy.sh/users/12045149), ::{ flag=CA }:: [guden](https://osu.ppy.sh/users/11626065), ::{ flag=GB }:: [H1Pur](https://osu.ppy.sh/users/15756120), ::{ flag=BR }:: [Halo-](https://osu.ppy.sh/users/7572142), ::{ flag=KR }:: [Jakads](https://osu.ppy.sh/users/259972), ::{ flag=PH }:: [notapplicable](https://osu.ppy.sh/users/7170536), ::{ flag=US }:: [NovaSagittarii](https://osu.ppy.sh/users/11664177), ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061), ::{ flag=TH }:: [RuleBlazing](https://osu.ppy.sh/users/7312402), ::{ flag=PL }:: [Tidek](https://osu.ppy.sh/users/743282), ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416), ::{ flag=HK }:: [zero2snow](https://osu.ppy.sh/users/7751516) |
 | Referee | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=IN }:: [Speshimen](https://osu.ppy.sh/users/7720204), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=US }:: [\[K\]](https://osu.ppy.sh/users/16551387) |
-| Commentator | ::{ flag=SE }:: [Davvy](https://osu.ppy.sh/users/10047413), ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656), ::{ flag=ID }:: [Mipha\-](https://osu.ppy.sh/users/5767941), ::{ flag=US }:: [Orca\-](https://osu.ppy.sh/users/7958845), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=AU }:: [PotassiumF](https://osu.ppy.sh/users/4247722), ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767), ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811), ::{ flag=US }:: [\-Sparky\-](https://osu.ppy.sh/users/3187959) |
+| Commentator | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656), ::{ flag=ID }:: [Mipha\-](https://osu.ppy.sh/users/5767941), ::{ flag=US }:: [Orca\-](https://osu.ppy.sh/users/7958845), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=AU }:: [PotassiumF](https://osu.ppy.sh/users/4247722), ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767), ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811), ::{ flag=US }:: [\-Sparky\-](https://osu.ppy.sh/users/3187959) |
 | Statistician | ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899) |
 
 ## Links
@@ -104,7 +104,82 @@ The osu!mania 4K World Cup 2022 is run by the [osu! team](/wiki/People/The_Team)
 | ::{ flag=VE }:: | **Venezuela** | **[Edvo](https://osu.ppy.sh/users/8301758)**, [xXShyzDy0133Xx](https://osu.ppy.sh/users/13545528), [calvingarrix666](https://osu.ppy.sh/users/17881051), [YuyukoFangirl](https://osu.ppy.sh/users/10336332) |
 | ::{ flag=VN }:: | **Vietnam** | **[Lott](https://osu.ppy.sh/users/13821222)**, [magnifestio](https://osu.ppy.sh/users/22725724), [CPT\_Sivelia](https://osu.ppy.sh/users/12562107), [TriDoanGaming](https://osu.ppy.sh/users/14009758), [Micleak](https://osu.ppy.sh/users/16140674), [Frostleaf](https://osu.ppy.sh/users/11863174) |
 
+## Match schedule: Round of 16
+
+### Saturday, 20 August 2022
+
+| Team A | Team B | Match time |
+| --: | :-- | :-- |
+| Taiwan ::{ flag=TW }:: | ::{ flag=HK }:: Hong Kong | [Aug 20 (Sat) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220820T090000&p1=1440&p2=241&p3=102) |
+| Poland ::{ flag=PL }:: | ::{ flag=AU }:: Australia | [Aug 20 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220820T100000&p1=1440&p2=262&p3=57) |
+| United Kingdom ::{ flag=GB }:: | ::{ flag=CN }:: China | [Aug 20 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220820T110000&p1=1440&p2=136&p3=33) |
+| Romania ::{ flag=RO }:: | ::{ flag=NL }:: Netherlands | [Aug 20 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220820T140000&p1=1440&p2=49&p3=16) |
+| Finland ::{ flag=FI }:: | ::{ flag=RU }:: Russian Federation | [Aug 20 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220820T150000&p1=1440&p2=101&p3=166) |
+| Czech Republic ::{ flag=CZ }:: | ::{ flag=DE }:: Germany | [Aug 20 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220820T160000&p1=1440&p2=204&p3=37) |
+| Norway ::{ flag=NO }:: | ::{ flag=ES }:: Spain | [Aug 20 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220820T170000&p1=1440&p2=187&p3=141) |
+
+### Sunday, 21 August 2022
+
+| Team A | Team B | Match time |
+| --: | :-- | :-- |
+| New Zealand ::{ flag=NZ }:: | ::{ flag=AR }:: Argentina | [Aug 21 (Sun) 01:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220821T010000&p1=1440&p2=264&p3=51) |
+| Singapore ::{ flag=SG }:: | ::{ flag=US }:: United States | [Aug 21 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220821T030000&p1=1440&p2=236&p3=263) |
+| Philippines ::{ flag=PH }:: | ::{ flag=PE }:: Peru | [Aug 21 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220821T040000&p1=1440&p2=145&p3=131) |
+| South Korea ::{ flag=KR }:: | ::{ flag=CA }:: Canada | [Aug 21 (Sun) 05:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220821T050000&p1=1440&p2=235&p3=188) |
+| Japan ::{ flag=JP }:: | ::{ flag=VN }:: Vietnam | [Aug 21 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220821T100000&p1=1440&p2=248&p3=95) |
+| Thailand ::{ flag=TH }:: | ::{ flag=ID }:: Indonesia | [Aug 21 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220821T110000&p1=1440&p2=28&p3=108) |
+| Malaysia ::{ flag=MY }:: | ::{ flag=FR }:: France | [Aug 21 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220821T120000&p1=1440&p2=122&p3=195) |
+| Brazil ::{ flag=BR }:: | ::{ flag=CL }:: Chile | [Aug 21 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220821T160000&p1=1440&p2=45&p3=232) |
+
 ## Mappools
+
+### Round of 16
+
+**[Download the mappack here (165 MB)](https://drive.google.com/u/0/uc?id=16MT6Ott0ZElqFoqPGVJqSLX33pCSJHf_)**
+
+- Rice
+  1. [E-Type - Set The World On Fire (Sped Up Ver.) (Jole) \[this is fine\]](https://osu.ppy.sh/beatmapsets/1456779#mania/3435284)
+  2. [Yuaru - Streaming Heart (hna) \[Ubiquity 1.1x (231bpm)\]](https://osu.ppy.sh/beatmapsets/1716737#mania/3508135)
+  3. [Spongebob Squarewave - Free L-Town (-mint-) \[PEANUT BUTTER JELLY 1.1x (220BPM)\]](https://osu.ppy.sh/beatmapsets/1781753#mania/3648794)
+  4. [Se-U-Ra - Traveler \~Stand Aloof\~ (aeoliancarp) \[Distances \[1.1x\]\]](https://osu.ppy.sh/beatmapsets/1414239#mania/3005987)
+  5. [August Burns Red - Rationalist (Shoegazer) \[Dissonance 1.15x (247bpm)\]](https://osu.ppy.sh/beatmapsets/1606988#mania/3734253)
+  6. [xi - Double Helix (Mipha-) \[bmah's Challenge 1.05x (164bpm)\]](https://osu.ppy.sh/beatmapsets/1828626#mania/3753063)
+- Hybrid
+  1. [MisomyL feat. Haxchi - Atashi no Juuoumujin Chou Jiyuu Yuugiki Sekai Keikaku (Murumoo) \[guden's Extra\]](https://osu.ppy.sh/beatmapsets/1709691#mania/3714248)
+  2. [AAAA vs. Morimori Atsushi - Xrocus (Cut Ver.) (-mint-) \[Xrimson\]](https://osu.ppy.sh/beatmapsets/1825537#mania/3746373)
+  3. [xi - Angel's Ladder (Toaph Daddy) \[Insane x1.05\]](https://osu.ppy.sh/beatmapsets/1768657#mania/3750393)
+- LN
+  1. [Hommarju - slluuddggee (CrewK) \[hedoro\]](https://osu.ppy.sh/beatmapsets/1671903#mania/3414825)
+  2. [DJ TOTTO - DORNWALD \~Junge\~ (arccat) \[stupud man's Anima 1.1x (edit)\]](https://osu.ppy.sh/beatmapsets/1828596#mania/3752979)
+  3. [Toromaru - Formless Canvas (-mint-) \[Abstract\]](https://osu.ppy.sh/beatmapsets/1796612#mania/3682794)
+- SV
+  1. [Yooh - Butterfly Twist (Extended Mix) (Cut Ver.) (notapplicable) \[Cosmic\]](https://osu.ppy.sh/beatmapsets/1828593#mania/3752972)
+  2. [siqlo - Me & U (zero2snow) \[Bilateral (SV)\]](https://osu.ppy.sh/beatmapsets/1828601#mania/3752992)
+- Tiebreaker
+  1. **[Camellia - Dyscontrolled Galaxy ("Apoptosis" Long ver.) (Toaph Daddy) \[Collapse\]](https://osu.ppy.sh/beatmapsets/1738595#mania/3553471)**
+
+### Round of 32
+
+**[Download the mappack here (103 MB)](https://drive.google.com/u/0/uc?id=1-2h7e2iKFWQnQbFqfY4-ltlzUsygpoSO)**
+
+- Rice
+  1. [Reol - Asymmetry (Cut Ver.) (-mint-) \[Disparity\]](https://osu.ppy.sh/beatmapsets/1817007#mania/3727610)
+  2. [WALKUERE - Ikenai Borderline (Speed Up Ver.) (-mint-) \[Can I get a Large Wintermelon Drink 1.15x (222bpm)\]](https://osu.ppy.sh/beatmapsets/1802034#mania/3695172)
+  3. [Renard - Gai Runs at 300KM/h (feat. Adraen) (Phil) \[Chasing Cars\]](https://osu.ppy.sh/beatmapsets/1510469#mania/3291841)
+  4. [The Flashbulb - Black Lawn Finale (Shoegazer) \[Restoration 1.3x (237bpm)\]](https://osu.ppy.sh/beatmapsets/1573293#mania/3348891)
+  5. [EmoCosine - Cutter (aeoliancarp) \[fast snip snip \[1.1x\]\]](https://osu.ppy.sh/beatmapsets/1587416#mania/3242036)
+- Hybrid
+  1. [Se-U-Ra - QSHELL -Kyoshoku no Shell- (guden) \[Atrophic\]](https://osu.ppy.sh/beatmapsets/1822586#mania/3739900)
+  2. [ck - Souhait bleu (arpia97) \[Blessing (edit)\]](https://osu.ppy.sh/beatmapsets/1507111#mania/3734906)
+- LN
+  1. [An - Axeria (\[Crz\]Crysarlene) \[Stage 3: Luminous\]](https://osu.ppy.sh/beatmapsets/1349415#mania/2793968)
+  2. [Galderia - Almagest (stupud man) \[Constellar\]](https://osu.ppy.sh/beatmapsets/1739656#mania/3555653)
+  3. [Red Velvet - Feel My Rhythm (fvrex) \[Celebration\]](https://osu.ppy.sh/beatmapsets/1724966#mania/3525373)
+- SV
+  1. [Tanger - FireStarter (H1Pur) \[Strike A Match\]](https://osu.ppy.sh/beatmapsets/1823962#mania/3742642)
+  2. [linear ring with RNAcid - Gypsophila (NovaSagittarii) \[carnation\]](https://osu.ppy.sh/beatmapsets/1823945#mania/3742608)
+- Tiebreaker
+  1. **[USAO - Big Daddy (Toaph Daddy) \[Rapture\]](https://osu.ppy.sh/beatmapsets/1822992#mania/3740717)**
 
 ### Qualifiers
 
@@ -118,6 +193,93 @@ The osu!mania 4K World Cup 2022 is run by the [osu! team](/wiki/People/The_Team)
 6. [Hino Isuka - Wonderful Paradise (lemonguy) \[Stage 6: Utopia\]](https://osu.ppy.sh/beatmapsets/1818125#mania/3730163)
 7. [breakchild - nachmancore (Cut Ver.) (-mint-) \[Stage 7: konatacore\]](https://osu.ppy.sh/beatmapsets/1818002#mania/3729917)
 8. [xi - The End of Dreams (Sped Up Ver.) (aeoliancarp) \[Stage 8: Dawn\]](https://osu.ppy.sh/beatmapsets/1817980#mania/3729876)
+
+## Match results
+
+### Round of 16
+
+Saturday, 21 August 2022:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Sweden ::{ flag=SE }:: | -1 | **0** | ::{ flag=IT }:: **Italy** | *win by default* |
+
+### Round of 32
+
+Saturday, 13 August 2022:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Japan** ::{ flag=JP }:: | **5** | 0 | ::{ flag=FI }:: Finland | [#1](https://osu.ppy.sh/community/matches/103034679) |
+| **Singapore** ::{ flag=SG }:: | **5** | 0 | ::{ flag=PL }:: Poland | [#1](https://osu.ppy.sh/community/matches/103034704) |
+| **Thailand** ::{ flag=TH }:: | **5** | 0 | ::{ flag=SE }:: Sweden | [#1](https://osu.ppy.sh/community/matches/103037438) |
+| **Indonesia** ::{ flag=ID }:: | **5** | 0 | ::{ flag=IT }:: Italy | [#1](https://osu.ppy.sh/community/matches/103038786) |
+| **Peru** ::{ flag=PE }:: | **5** | 2 | ::{ flag=AR }:: Argentina | [#1](https://osu.ppy.sh/community/matches/103038761) |
+| **Brazil** ::{ flag=BR }:: | **5** | 0 | ::{ flag=NO }:: Norway | [#1](https://osu.ppy.sh/community/matches/103041409) |
+| Spain ::{ flag=ES }:: | 4 | **5** | ::{ flag=CL }:: **Chile** | [#1](https://osu.ppy.sh/community/matches/103042703) |
+
+Sunday, 14 August 2022:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **United States** ::{ flag=US }:: | **5** | 0 | ::{ flag=AU }:: Australia | [#1](https://osu.ppy.sh/community/matches/103052851) |
+| **South Korea** ::{ flag=KR }:: | **5** | 0 | ::{ flag=TW }:: Taiwan | [#1](https://osu.ppy.sh/community/matches/103058969) |
+| **Philippines** ::{ flag=PH }:: | **5** | 0 | ::{ flag=NZ }:: New Zealand | [#1](https://osu.ppy.sh/community/matches/103059723) |
+| **France** ::{ flag=FR }:: | **5** | 1 | ::{ flag=DE }:: Germany | [#1](https://osu.ppy.sh/community/matches/103060522) |
+| **China** ::{ flag=CN }:: | **5** | 0 | ::{ flag=NL }:: Netherlands | [#1](https://osu.ppy.sh/community/matches/103061529) |
+| **Malaysia** ::{ flag=MY }:: | **5** | 0 | ::{ flag=CZ }:: Czech Republic | [#1](https://osu.ppy.sh/community/matches/103062579) |
+| **Vietnam** ::{ flag=VN }:: | **5** | 2 | ::{ flag=RU }:: Russian Federation | [#1](https://osu.ppy.sh/community/matches/103064003) |
+| **United Kingdom** ::{ flag=GB }:: | **5** | 0 | ::{ flag=RO }:: Romania | [#1](https://osu.ppy.sh/community/matches/103065278) |
+| Hong Kong ::{ flag=HK }:: | 2 | **5** | ::{ flag=CA }:: **Canada** | [#1](https://osu.ppy.sh/community/matches/103065326) |
+
+### Qualifiers
+
+The final standings for the Qualifier stage can be found at the following [spreadsheet](https://docs.google.com/spreadsheets/d/1hPht7gXYOOUZW_IdwhhvnYXrRky3UGOMFP7-oItM13Y/edit?rm=minimal). Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1WgDvTw6TDu3D0Z4Ipw8Qc8CCnmW-k_7G5oG_h9SPHOA).
+
+| Seed | Country | Rating |
+| :-: | :-- | :-- |
+| 1 | ::{ flag=BR }:: Brazil | 1.1 |
+| 2 | ::{ flag=PH }:: Philippines | 4.425 |
+| 3 | ::{ flag=KR }:: South Korea | 5.375 |
+| 4 | ::{ flag=MY }:: Malaysia | 6.3625 |
+| 5 | ::{ flag=JP }:: Japan | 6.6625 |
+| 6 | ::{ flag=SG }:: Singapore | 7.075 |
+| 7 | ::{ flag=GB }:: United Kingdom | 7.2625 |
+| 8 | ::{ flag=TH }:: Thailand | 8.8125 |
+| 9 | ::{ flag=ID }:: Indonesia | 9.625 |
+| 10 | ::{ flag=CN }:: China | 10.1375 |
+| 11 | ::{ flag=US }:: United States | 10.6125 |
+| 12 | ::{ flag=VN }:: Vietnam | 12 |
+| 13 | ::{ flag=FR }:: France | 13.875 |
+| 14 | ::{ flag=HK }:: Hong Kong | 13.9125 |
+| 15 | ::{ flag=PE }:: Peru | 13.9375 |
+| 16 | ::{ flag=ES }:: Spain | 15.5625 |
+| 17 | ::{ flag=CL }:: Chile | 17.2 |
+| 18 | ::{ flag=AR }:: Argentina | 18.0625 |
+| 19 | ::{ flag=CA }:: Canada | 18.6125 |
+| 20 | ::{ flag=DE }:: Germany | 19.1875 |
+| 21 | ::{ flag=RU }:: Russian Federation | 20.95 |
+| 22 | ::{ flag=AU }:: Australia | 21.8 |
+| 23 | ::{ flag=NL }:: Netherlands | 22.6875 |
+| 24 | ::{ flag=IT }:: Italy | 22.7375 |
+| 25 | ::{ flag=SE }:: Sweden | 26.2625 |
+| 26 | ::{ flag=RO }:: Romania | 26.425 |
+| 27 | ::{ flag=PL }:: Poland | 26.525 |
+| 28 | ::{ flag=FI }:: Finland | 27.8 |
+| 29 | ::{ flag=CZ }:: Czech Republic | 29.925 |
+| 30 | ::{ flag=TW }:: Taiwan | 30.4875 |
+| 31 | ::{ flag=NZ }:: New Zealand | 30.9125 |
+| 32 | ::{ flag=NO }:: Norway | 31.525 |
+| 33 | ::{ flag=TR }:: Turkey | 33.0875 |
+| 34 | ::{ flag=CO }:: Colombia | 33.1125 |
+| 35 | ::{ flag=UA }:: Ukraine | 33.3375 |
+| 36 | ::{ flag=MX }:: Mexico | 35.3625 |
+| 37 | ::{ flag=BE }:: Belgium | 35.4125 |
+| 38 | ::{ flag=PT }:: Portugal | 35.6 |
+| 39 | ::{ flag=DO }:: Dominican Republic | 38.2375 |
+| 40 | ::{ flag=PA }:: Panama | 38.875 |
+| 41 | ::{ flag=EC }:: Ecuador | 40.1375 |
+| 42 | ::{ flag=VE }:: Venezuela | *DNP* |
 
 ## Ruleset
 
