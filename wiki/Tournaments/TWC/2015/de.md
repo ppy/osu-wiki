@@ -262,7 +262,7 @@ Dieser Wettkampf ist abgeschlossen und hat zum folgenden Podium geführt:
 
 Sonntag, 12. April 2015:
 
-| Team 1 |  |  | Team 2 | Spiellink |
+| Team 1 |  |  | Team 2 | Match-Link |
 | --: | :-: | :-: | :-- | :-- |
 | **Japan** ::{ flag=JP }:: | **6** | 3 | ::{ flag=TW }:: Taiwan | [#1](https://osu.ppy.sh/community/matches/15407376) |
 
@@ -270,7 +270,7 @@ Sonntag, 12. April 2015:
 
 Samstag, 4. April 2015:
 
-| Team 1 |  |  | Team 2 | Spiellink |
+| Team 1 |  |  | Team 2 | Match-Link |
 | --: | :-: | :-: | :-- | :-- |
 | **Taiwan** ::{ flag=TW }:: | **6** | 4 | ::{ flag=US }:: Vereinigte Staaten | [#1](https://osu.ppy.sh/community/matches/15204870) |
 | ::{ flag=KR }:: Südkorea | 0 | **6** | ::{ flag=HK }:: **Hongkong** | [#1](https://osu.ppy.sh/community/matches/15206617) |
@@ -279,7 +279,7 @@ Samstag, 4. April 2015:
 
 Samstag, 5. April 2015:
 
-| Team 1 |  |  | Team 2 | Spiellink |
+| Team 1 |  |  | Team 2 | Match-Link |
 | --: | :-: | :-: | :-- | :-- |
 | **Taiwan** ::{ flag=TW }:: | **6** | 0 | ::{ flag=HK }:: Hongkong | [#1](https://osu.ppy.sh/community/matches/15233261) |
 
@@ -287,7 +287,7 @@ Samstag, 5. April 2015:
 
 Samstag, 28. März 2015:
 
-| Team 1 |  |  | Team 2 | Spiellink |
+| Team 1 |  |  | Team 2 | Match-Link |
 | --: | :-: | :-: | :-- | :-- |
 | Polen ::{ flag=PL }:: | 1 | **6** | ::{ flag=HK }:: **Hongkong** | [#1](https://osu.ppy.sh/community/matches/15037749) |
 | Argentinien ::{ flag=AR }:: | 2 | **6** | ::{ flag=CN }:: **China** | [#1](https://osu.ppy.sh/community/matches/15040695) |
@@ -296,7 +296,7 @@ Samstag, 28. März 2015:
 
 Sonntag, 29. März 2015:
 
-| Team 1 |  |  | Team 2 | Spiellink |
+| Team 1 |  |  | Team 2 | Match-Link |
 | --: | :-: | :-: | :-- | :-- |
 | Kanada ::{ flag=CA }:: | 2 | **6** | ::{ flag=HK }:: **Hongkong** | [#1](https://osu.ppy.sh/community/matches/15060059) |
 | China ::{ flag=CN }:: | 4 | **6** | ::{ flag=US }:: **Vereinigte Staaten** | [#1](https://osu.ppy.sh/community/matches/15062240) |
@@ -307,7 +307,7 @@ Sonntag, 29. März 2015:
 
 Samstag, 21. März 2015:
 
-| Team 1 |  |  | Team 2 | Spiellink |
+| Team 1 |  |  | Team 2 | Match-Link |
 | --: | :-: | :-: | :-- | :-- |
 | ::{ flag=FI }:: **Finnland** | **5** | 0 | Ukraine ::{ flag=UA }:: | *win by default* |
 | ::{ flag=PH }:: Philippinen | 0 | **5** | **Polen** ::{ flag=PL }:: | [#1](https://osu.ppy.sh/community/matches/14871909) |
@@ -316,7 +316,7 @@ Samstag, 21. März 2015:
 
 Sonntag, 22. März 2015:
 
-| Team 1 |  |  | Team 2 | Spiellink |
+| Team 1 |  |  | Team 2 | Match-Link |
 | --: | :-: | :-: | :-- | :-- |
 | Hongkong ::{ flag=HK }:: | 2 | **5** | ::{ flag=JP }:: **Japan** | [#1](https://osu.ppy.sh/community/matches/14901856) |
 | **Südkorea** ::{ flag=KR }:: | **5** | 1 | ::{ flag=CN }:: China | [#1](https://osu.ppy.sh/community/matches/14903787) |
@@ -327,7 +327,7 @@ Sonntag, 22. März 2015:
 
 Sonntag, 14. März 2015:
 
-| Team 1 |  |  | Team 2 | Spiellink |
+| Team 1 |  |  | Team 2 | Match-Link |
 | --: | :-: | :-: | :-- | :-- |
 | Finnland ::{ flag=FI }:: | 1 | **5** | **Hongkong** ::{ flag=HK }:: | [#1](https://osu.ppy.sh/community/matches/14707422) |
 | Ukraine ::{ flag=UA }:: | 0 | **5** | **Japan** ::{ flag=JP }:: | [#1](https://osu.ppy.sh/community/matches/14708468) |
@@ -337,7 +337,7 @@ Sonntag, 14. März 2015:
 
 Sonntag, 15. März 2015:
 
-| Team 1 |  |  | Team 2 | Spiellink |
+| Team 1 |  |  | Team 2 | Match-Link |
 | --: | :-: | :-: | :-- | :-- |
 | Kanada ::{ flag=CA }:: | 3 | **5** | ::{ flag=CN }:: **China** | [#1](https://osu.ppy.sh/community/matches/14731480) |
 | ::{ flag=US }:: **Vereinigte Staaten** | **5** | 0 | ::{ flag=PH }:: Philippinen | [#1](https://osu.ppy.sh/community/matches/14732731) |
@@ -347,7 +347,7 @@ Sonntag, 15. März 2015:
 
 Samstag, 7. März 2015:
 
-| Team 1 |  |  | Team 2 | Spiellink |
+| Team 1 |  |  | Team 2 | Match-Link |
 | --: | :-: | :-: | :-- | :-- |
 | Australien ::{ flag=AU }:: | 2 | **4** | ::{ flag=KR }:: **Südkorea** | [#1](https://osu.ppy.sh/community/matches/14545441) |
 | Singapur ::{ flag=SG }:: | 0 | **4** | ::{ flag=PH }:: **Philippinen** | *win by default* |
@@ -383,7 +383,7 @@ Samstag, 7. März 2015:
 
 Sonntag, 8. März 2015:
 
-| Team 1 |  |  | Team 2 | Spiellink |
+| Team 1 |  |  | Team 2 | Match-Link |
 | --: | :-: | :-: | :-- | :-- |
 | Indonesien ::{ flag=ID }:: | 0 | **4** | ::{ flag=US }:: **Vereinigte Staaten** | [#1](https://osu.ppy.sh/community/matches/14569915) |
 | Argentinien ::{ flag=AR }:: | 0 | **4** | ::{ flag=JP }:: **Japan** | [#1](https://osu.ppy.sh/community/matches/14569921) |
