@@ -12,16 +12,16 @@ Das **osu! Taiko World Cup 2015** (***TWC 2015***) war ein länderbasiertes Taik
 
 ## Turnierzeitplan
 
-| Event | Zeitstempel|
+| Event | Zeitstempel |
 | :-- | :-- |
 | Registrierungsphase | 12.01.2015 bis 22.02.2015 |
 | Live-Ziehungen | 28.02.2015 (14:00 UTC) |
-| Gruppenphase |07.03.2015 bis 08.03.2015 |
+| Gruppenphase | 07.03.2015 bis 08.03.2015 |
 | Achtelfinale | 14.03.2015 bis 15.03.2015 |
 | Viertelfinale | 21.03.2015 bis 22.03.2015 |
 | Halbfinale | 28.03.2015 bis 29.03.2015 |
-| Finalwoche 1 | 04.04.2015 bis 05.04.2015|
-| Finalwoche 2| 12.04.2015 |
+| Finalwoche 1 | 04.04.2015 bis 05.04.2015 |
+| Finalwoche 2 | 12.04.2015 |
 
 ## Preise
 
