@@ -404,7 +404,7 @@ Saturday, 23 April 2022:
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Endless Paradox** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: mikey677 | *win by default* |
-| Dika312 ::{ flag=ID }:: | 2 | **4** | ::{ flag=ID }:: **Konami-Kun** | [#1](https://osu.ppy.sh/community/matches/100017272) |
+| Dika312 ::{ flag=ID }:: | 2 | **4** | ::{ flag=ID }:: **Kinora** | [#1](https://osu.ppy.sh/community/matches/100017272) |
 | **-Reuto-** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: -SJ- | *win by default* |
 
 Sunday, 24 April 2022:

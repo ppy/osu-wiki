@@ -37,7 +37,7 @@ Alles über das Klicken von Kreisen, das Schlagen der Trommeln, das Schnappen vo
 
 [Spielmodi](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Beatmap](/wiki/Beatmap) • [Schwierigkeitsgrad](/wiki/Beatmap/Difficulty) • [Hit-Objekte](/wiki/Hit_object) • [Mods](/wiki/Game_modifier) • [Punktzahl](/wiki/Gameplay/Score) • [Wiederholung](/wiki/Gameplay/Replay) • [Medaillen](/wiki/Medals) • [Multi](/wiki/Client/Interface/Multiplayer)
+[Beatmap](/wiki/Beatmap) • [Schwierigkeitsgrad](/wiki/Beatmap/Difficulty) • [Hit-Objekte](/wiki/Hit_object) • [Mods](/wiki/Game_modifier) • [Score](/wiki/Gameplay/Score) • [Replay](/wiki/Gameplay/Replay) • [Medaillen](/wiki/Medals) • [Multi](/wiki/Client/Interface/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -46,7 +46,7 @@ Alles über das Klicken von Kreisen, das Schlagen der Trommeln, das Schnappen vo
 
 Alle Beatmaps in osu! werden von kreativen Teilnehmern seiner aktiven Community erstellt. Wolltest du schon immer deine Lieblingsmusik mit anderen teilen, hast aber nie gewusst wie? Mache dich vertraut mit dem eingebauten Editor und den Möglichkeiten, die dieser bietet.
 
-Abschnitte: [Zusammenstellung](/wiki/Client/Beatmap_editor/Compose) • [Design](/wiki/Client/Beatmap_editor/Design) • [Timing](/wiki/Client/Beatmap_editor/Timing) • [Song-Einstellung](/wiki/Client/Beatmap_editor/Song_Setup)
+Abschnitte: [Komposition](/wiki/Client/Beatmap_editor/Compose) • [Design](/wiki/Client/Beatmap_editor/Design) • [Timing](/wiki/Client/Beatmap_editor/Timing) • [Song-Setup](/wiki/Client/Beatmap_editor/Song_Setup)
 
 Komponenten: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Taktteiler](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) • [Distance Snap](/wiki/Client/Beatmap_editor/Distance_snap) • [Menü](/wiki/Client/Beatmap_editor/Menu) • [SB-Belastung](/wiki/Client/Beatmap_editor/SB_Load) • [Zeitleisten](/wiki/Client/Beatmap_editor/Timelines)
 
@@ -94,7 +94,7 @@ Was du tun kannst: [Wie und mit was helfen](/wiki/Community/How_you_can_help!) �
 
 # Community und Projekte
 
-Eine aktive Community sind eines der Dinge, die osu! voranbringen. Entdecke die Aktivitätan und Veranstaltungen, freunde dich mit anderen an oder helfe, das nächste Event zu organisieren!
+Eine aktive Community ist eines der Dinge, die osu! voranbringen. Entdecke die Aktivitäten und Veranstaltungen, freunde dich mit anderen an oder helfe, das nächste Event zu organisieren!
 
 [Turniere](/wiki/Tournaments) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Wettbewerbe](/wiki/Contests) • [Mentorenprogramm](/wiki/Community/Community_Mentorship_Program)
 

@@ -50,14 +50,15 @@ Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7). Sebaga
 | :-- | :-- | :-- |
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) |  | Evaluasi, moderasi |
 | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Kanton, Tionghoa | Evaluasi |
+| ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | Evaluasi |
 | ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Tionghoa | Evaluasi |
+| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Jerman | Evaluasi |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Swedia | Struktural, komunikasi |
 | ::{ flag=GB }:: [NexusQI](https://osu.ppy.sh/users/13822800) |  | Evaluasi |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | Struktural |
 | ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | Evaluasi |
 | ::{ flag=AT }:: [Stixy](https://osu.ppy.sh/users/9000308) | Jerman, Serbia | Evaluasi |
 | ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) |  | Evaluasi |
-| ::{ flag=CL }:: [Uberzolik](https://osu.ppy.sh/users/1314547) | Spanyol, Perancis | Evaluasi |
 | ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | Belanda | Evaluasi |
 | ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | Polski | Evaluasi |
 
