@@ -8,7 +8,7 @@ Die Genauigkeit ist ein prozentualer Messwert für die Fertigkeit eines Spielers
 
 ### ![](/wiki/shared/mode/osu.png) osu!
 
-![Genauigkeit = (300 \* Anzahl der 300er + 100 \* Anzahl der 100er + 50 \* Anzahl der 50er) / 300(Anzahl der 300er + Anzahl der 100er + Anzahl der 50er + Anzahl der Misses)](img/accuracy_osu.png "Genauigkeitsformel für osu!")
+![Genauigkeit = (300 \* Anzahl der 300er + 100 \* Anzahl der 100er + 50 \* Anzahl der 50er) / (300 \* (Anzahl der 300er + Anzahl der 100er + Anzahl der 50er + Anzahl der Misses))](img/accuracy_osu_updated.png "Genauigkeitsformel für osu!")
 
 In osu! wird die Genauigkeit berechnet, indem die [Bewertung](/wiki/Gameplay/Judgement) jedes Hit-Objekts nach seinem Wert gewichtet und durch den maximal möglichen Wert geteilt wird.
 
@@ -23,13 +23,13 @@ Referenz für einen Hit-Circle:
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
-![Genauigkeit = (Anzahl an GREATs + 0.5 \* Anzahl an GOODs) / (Anzahl an GREATs + Anzahl an GOODs + Anzahl an Misses)](img/accuracy_taiko.png "Genauigkeitsformel für osu!taiko")
+![Genauigkeit = (Anzahl an GREATs + 0.5 \* Anzahl an GOODs) / (Anzahl an GREATs + Anzahl an GOODs + Anzahl an Misses)](img/accuracy_taiko_updated.png "Genauigkeitsformel für osu!taiko")
 
 In osu!taiko wird die Genauigkeit berechnet, indem man die Summe der Notengenauigkeit (wie präzise man die Note getroffen hat) durch die Anzahl der bisher getroffenen Noten teilt. Die Notengenauigkeit wird als GREAT (良) (zählt als 100%), GOOD (可) (zählt als 50%) (halb) und MISS/BAD (不可) (zählt als 0%, was auch die Combo beendet) bezeichnet. Trommelwirbel und Spinner haben keinen Einfluss auf die Genauigkeit.
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
-![Genauigkeit = (Anzahl der gefangenen Früchte + Anzahl der gefangenen Drops + Anzahl der gefangenen Droplets) / (Anzahl aller Fruits + Anzahl aller Drops + Anzahl aller Droplets)](img/accuracy_catch.png "Genauigkeitsformel für osu!catch")
+![Genauigkeit = (Anzahl der gefangenen Früchte + Anzahl der gefangenen Drops + Anzahl der gefangenen Droplets) / (Anzahl aller Fruits + Anzahl aller Drops + Anzahl aller Droplets)](img/accuracy_catch_updated.png "Genauigkeitsformel für osu!catch")
 
 In osu!catch wird die Genauigkeit berechnet, indem die Gesamtzahl der gesammelten Hit-Objekte, die keine Spinner sind, durch die Gesamtzahl der Objekte, die keine Spinner sind, geteilt wird. Alle Hit-Objekte haben den gleichen Wert, mit der Ausnahme von Bananen, da diese Teil der Spinner-Objekte sind.
 
@@ -38,7 +38,7 @@ In osu!catch wird die Genauigkeit berechnet, indem die Gesamtzahl der gesammelte
 - Die Anzahl der Gefangenen Drops wird als `count100` zurückgegeben.
 - Die Anzahl der Gefangenen Droplets wird als `count50` zurückgegeben.
 - Die Anzahl der verfehlten Fruits *und* Drops zusammen wird als `CountMiss` zurückgegeben.
-- Die Anzahl der verfehlten Droplets wird als `countKatu` zurückgegeben
+- Die Anzahl der verfehlten Droplets wird als `countKatu` zurückgegeben.
 - `countGeki` sollte zur Berechnung der Genauigkeit nicht verwendet werden. Es ist die Anzahl der gefangenen Combo-beendenden Früchte.
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania
@@ -47,11 +47,11 @@ In osu!mania wird Genauigkeit ähnlich wie bei [osu!](#osu!) berechnet. Allerdin
 
 Ohne ScoreV2 werden Regenbogen-300er und Gold-300er mit 300 gewichtet:
 
-![Genauigkeit = (300 \* (Anzahl der MAXs + Anzahl der 300er) + 200 \* Anzahl der 200er + 100 \* Anzahl der 100er + 50 \* Anzahl der 50er) / (300 \* (Anzahl der MAXs + Anzahl der 300er + Anzahl der 200er + Anzahl der 100er + Anzahl der 50er + Anzahl der Misses))](img/accuracy_mania_updated_score_v1.png "Genauigkeitsformel für osu!Mania unter ScoreV1")
+![Genauigkeit = (300 \* (Anzahl der MAXs + Anzahl der 300er) + 200 \* Anzahl der 200er + 100 \* Anzahl der 100er + 50 \* Anzahl der 50er) / (300 \* (Anzahl der MAXs + Anzahl der 300er + Anzahl der 200er + Anzahl der 100er + Anzahl der 50er + Anzahl der Misses))](img/accuracy_mania_updated_score_v1.png "Genauigkeitsformel für osu!mania unter ScoreV1")
 
 ScoreV2 erhöht die Gewichtung von Regenbogen-300ern zu 305:
 
-![Genauigkeit = (305 \* (Anzahl der MAXs) + 300 \* (Anzahl der 300er) + 200 \* Anzahl der 200er + 100 \* Anzahl der 100er + 50 \* Anzahl der 50er) / (300 \* (Anzahl der MAXs + Anzahl der 300er + Anzahl der 200er + Anzahl der 100er + Anzahl der 50er + Anzahl der Misses))](img/accuracy_mania_updated_score_v2.png "Genauigkeitsformel für osu!Mania unter ScoreV2")
+![Genauigkeit = (305 \* (Anzahl der MAXs) + 300 \* (Anzahl der 300er) + 200 \* Anzahl der 200er + 100 \* Anzahl der 100er + 50 \* Anzahl der 50er) / (305 \* (Anzahl der MAXs + Anzahl der 300er + Anzahl der 200er + Anzahl der 100er + Anzahl der 50er + Anzahl der Misses))](img/accuracy_mania_updated_score_v2.png "Genauigkeitsformel für osu!mania unter ScoreV2")
 
 *Hinweise für [API](/wiki/osu!api)-Benutzer:*
 
