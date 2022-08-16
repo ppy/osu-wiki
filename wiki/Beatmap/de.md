@@ -28,7 +28,7 @@ Ein *Schwierigkeitsgrad* ist eine Datei mit [der Dateierweiterung `.osu`](/wiki/
 
 Beatmap-Autoren können ihre Kreationen auf die öffentliche [Beatmap-Auflistung](https://osu.ppy.sh/beatmapsets) [hochladen](/wiki/Submission). Auch wenn jede Schöpfung [einer einzelnen Person](/wiki/Beatmap/Beatmap_host) zugeschrieben wird, handelt es sich doch oft um eine gemeinschaftliche Arbeit: einige Schwierigkeitsgrade können von anderen Leuten innerhalb einer [Kollaboration](/wiki/Beatmap/Beatmap_collaborations) oder [separat](/wiki/Beatmap/Guest_difficulty) erstellt werden.
 
-Nach dem Einreichen erlangt eine Beatmap weitere Felder für Metadaten, wie z. B. Beschreibung, Sprache, Genre und die explizite Inhaltsmarkierung, die von den Beatmap-Autoren selbst auf der Webseite geändert werden kann. Die Beatmap bekommt außerdem einen [Titeltext](/wiki/Beatmap/Title_text), dessen Aussehen mit Hilfe des [Nomination Assessment Teams](/wiki/People/The_Team/Nomination_Assessment_Team) verändert werden kann.
+Nach dem Einreichen erlangt eine Beatmap weitere Felder für Metadaten, wie z. B. Beschreibung, Sprache, Genre und die Markierung für explizite Inhalte, die von den Beatmap-Autoren selbst auf der Webseite geändert werden kann. Die Beatmap bekommt außerdem einen [Titeltext](/wiki/Beatmap/Title_text), dessen Aussehen mit Hilfe des [Nomination Assessment Teams](/wiki/People/The_Team/Nomination_Assessment_Team) verändert werden kann.
 
 ### Identifizierung
 
@@ -76,7 +76,7 @@ Beatmaps, die im selben Monat gerankt wurden oder dasselbe Thema verfolgen (z. B
 Es gibt auch sekundäre Quellen für Beatmaps, die **vom osu!-Team weder überprüft noch betrieben werden**. Jedoch sind sie in den Foren verfügbar und von der Community geschätzt. Solche Quellen beinhalten:
 
 - Drittanbieter für Beatmap-Spiegel, die auf einer Plattform gehostet werden
-- Pakete und Zusammenstellungen, die von Spielern gemacht und via [P2P-Netzwerke](https://de.wikipedia.org/wiki/Peer-to-Peer) geteilt werden, wie z. B. BitTorrent.
+- Pakete und Zusammenstellungen, die von Spielern gemacht und über [P2P-Netzwerke](https://de.wikipedia.org/wiki/Peer-to-Peer) geteilt werden, wie z. B. BitTorrent.
 
 ## Beatmaps und Community
 
@@ -95,7 +95,7 @@ Für die 500 besten Scores auf jedem Schwierigkeitsgrad einer Beatmap werden [Re
 
 *Hauptartikel: [Beatmap Spotlights](/wiki/Beatmap_Spotlights)*
 
-Seit ihrem Anfang hatte die Community verschiedene Mittel, um einzigartige und exzellente Beatmaps zu zeigen. Einer der ersten dokumentierten Ansätze waren monatliche und saisonale Charts, die aus einer kleinen Teilmenge an gerankten Beatmaps bestanden. Top-Spieler, die in den Ranglisten Scores in all diesen Beatmaps erreichten, wurden hierbei mit [osu!supporter](/wiki/osu!supporter) belohnt.
+Seit ihrem Anfang hatte die Community verschiedene Mittel, um einzigartige und exzellente Beatmaps zur Schau zu stellen. Einer der ersten dokumentierten Ansätze waren monatliche und saisonale Charts, die aus einer kleinen Teilmenge an gerankten Beatmaps bestanden. Top-Spieler, die in den Ranglisten Scores in all diesen Beatmaps erreichten, wurden hierbei mit [osu!supporter](/wiki/osu!supporter) belohnt.
 
 Das Chart-System entwickelte sich später weiter in das Projekt [Beatmap Spotlights](/wiki/Beatmap_Spotlights), welches jetzt unter ähnlichen Bedingungen betrieben wird, aber stattdessen in Playlists von osu!(lazer) stattfindet.
 
@@ -109,4 +109,4 @@ Die osu!-Community betreibt regelmäßig verschiedene Wettbewerbe, um Kreativit�
 
 *Hauptseite: [Featured Artists](/wiki/Featured_Artists)*
 
-Featured Artists ist ein Community-Programm des [osu!-Teams](/wiki/People/The_Team), das sich auf die Musiklizenzierung von verschiedenen Künstlern konzentriert und die Musik für Mapping verfügbar macht. Die [Liste der Featured Artists](https://osu.ppy.sh/beatmaps/artists) auf der Webseite zeigt jeden beteiligten Künstler und bietet vorgefertigte Templates für das Mapping.
+Featured Artists ist ein Community-Programm des [osu!-Teams](/wiki/People/The_Team), das sich auf die Musiklizenzierung von verschiedenen Künstlern konzentriert und die Musik für Mapping zur Verfügung stellt. Die [Liste der Featured Artists](https://osu.ppy.sh/beatmaps/artists) auf der Webseite zeigt jeden beteiligten Künstler und bietet vorgefertigte Templates für das Mapping.
