@@ -84,7 +84,7 @@ osu! bietet eine Lockerung der Grenzwerte für verschiedene Online-Features für
 
 | Wert | Normales Limit | osu!supporter-Limit |
 | :-- | :-: | :-: |
-| [Ausstehende Beatmaps](/wiki/Beatmap/Category#work-in-progress-and-pending) | `2 + min(gerankte Beatmaps, 6)`, bis zu **8**[^pending-beatmaps-ref] | `8 + min(gerankte Beatmaps, 12)`, bis zu **20**[^pending-beatmaps-ref] |
+| [Ausstehende Beatmaps](/wiki/Beatmap/Category#work-in-progress-und-ausstehend) | `2 + min(gerankte Beatmaps, 6)`, bis zu **8**[^pending-beatmaps-ref] | `8 + min(gerankte Beatmaps, 12)`, bis zu **20**[^pending-beatmaps-ref] |
 | Online-Beatmap-Favoriten | 100 | 1000 |
 | Anzahl der Freunde | 250 | 500 |
 

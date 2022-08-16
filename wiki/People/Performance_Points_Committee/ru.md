@@ -3,8 +3,6 @@ tags:
   - pp committee
   - комитет по пп
   - пп комитет
-outdated_since: ead5b487acab4f9c7446891b3f88f92e152db8c1
-outdated_translation: true
 ---
 
 # Комитет по очкам производительности
@@ -15,7 +13,7 @@ outdated_translation: true
 
 Группу по osu!mania сформировали 22 апреля 2022 г. в ответ на [ещё один опрос](https://osu.ppy.sh/home/news/2022-01-14-taiko-mania-pp-sr-survey) по поводу pp и звёзд сложности в osu!taiko и osu!mania, проведённый ранее. Кроме того, группа была собрана для помощи в активной разработке osu!mania, первым этапом которой стал [пересчёт сложности холдов](https://github.com/ppy/osu/pull/17913).
 
-Группа по osu!taiko была образована 1 мая 2022 г. по итогам всё того же опроса, с прицелом на [масштабные изменения в подсчёте звёздах сложности](https://docs.google.com/document/d/1Z5GC4DMqOVzeIERMSK3qpQaqjq-sVnhbuoxAwy9qxDs/edit).
+Группа по osu!taiko была образована 1 мая 2022 г. по итогам всё того же опроса для [масштабных изменений в подсчёте звёзд сложности](https://docs.google.com/document/d/1Z5GC4DMqOVzeIERMSK3qpQaqjq-sVnhbuoxAwy9qxDs/edit).
 
 ## Участники
 
