@@ -84,7 +84,7 @@ Es gibt auch sekundäre Quellen für Beatmaps, die **vom osu!-Team weder überpr
 
 osu!-Spieler benutzen in allen Spielmodi Beatmaps, um [global im Rang aufzusteigen](/wiki/Performance_points) und [gegeneinander anzutreten](/wiki/Ranking). osu! hat unterschiedliche Arten von beatmapspezifischen Ranglisten, die alle, außer der ersten, nur für [osu!supporter](/wiki/osu!supporter) zur Verfügung stehen:
 
-- Globale Ranglisten, die in der gesamten aktiven Spielerbasis funktionieren
+- Globale Ranglisten, die die gesamte aktive Spielerbasis miteinbeziehen
 - Globale Ranglisten für jede Kombination an [Spielmodifikationen](/wiki/Game_modifier)
 - Länder-spezifische Ranglisten mit Spielern, die dieselben Flaggen tragen
 - Freundesranglisten, die die Position eines Spielers auf einer Beatmap verglichen mit seinen Freunden zeigen
