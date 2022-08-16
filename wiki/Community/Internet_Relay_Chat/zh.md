@@ -1,6 +1,6 @@
 # 互联网中继聊天
 
-*如果要了解更多，请参见[互联网中继聊天](https://baike.baidu.com/item/%E5%9B%A0%E7%89%B9%E7%BD%91%E4%B8%AD%E7%BB%A7%E8%81%8A%E5%A4%A9)<!-- 这里使用百度百科的内容，因为中国大陆无法访问维基百科 The content of Baidu Baike is used here, because Wikipedia cannot be accessed in mainland China-->
+*如果要了解更多，请参见[互联网中继聊天](https://zh.wikipedia.org/wiki/IRC)
 
 **互联网中继聊天**, 简称 IRC, 是一种用于群体聊天的协议。
 
@@ -20,7 +20,7 @@
 - 用户名：你的 osu! 用户名。使用下划线代替空格（例如，`beppy master 1000` 应该填写为 `beppy_master_1000`）
 - 密码：从 [IRC 验证页面](https://osu.ppy.sh/p/irc)获取
 
-*警告：你的 IRC 密码不同于你的账户密码。**不要把你的密码分享给别人**。*
+*警告：你的 IRC 密码与账户密码不同。**不要把你的密码分享给别人**。*
 
 ### 基础的 IRC 指令
 
@@ -60,10 +60,10 @@ osu!Bancho 使用纯文本身份验证——确保在您的 IRC 客户端设置�
 
 或者你可以尝试连接到 `cho.ppy.sh`（你仍然会连接至 osu!Bancho）
 
-### 我收到了 "Bad Authentication Token" 错误 <!-- Bad Authentication Token是由 Bancho 发送的固定字符串，与客户端语言设置无关，故保留英文 -->
+### 我收到了 "Bad Authentication Token" （身份验证令牌）错误
 
 1. 检查你使用的密码是否和 [IRC 验证页面](https://osu.ppy.sh/p/irc) 上的一致。
-2. 如果你的用户名中有空格，用下划线替代它（例如，`This Username` 应该是 `This_Username`）
+2. 应使用下划线替代用户名中的空格（例如，`This Username` 应按 `This_Username` 的格式来输入）。
 
 ### 我能使用其他的昵称么?
 
@@ -78,10 +78,10 @@ osu!Bancho 使用纯文本身份验证——确保在您的 IRC 客户端设置�
 IRC 标准有一个 IRC 模式的概念，可以理解为每个用户的权限或状态。在 osu!Bancho 中，有两种模式被用于特殊的用户组
 
 - `+`，或者“语音状态”：用户通过外部 IRC 客户端连接
-- `@`，或者“聊天管理员状态”：用户是聊天室管理员（[GMT](/wiki/People/The_Team/Global_Moderation_Team) 或者 [NAT](/wiki/People/The_Team/Nomination_Assessment_Team)）
+- `@`，或者“聊天管理员状态”：用户是聊天室管理员（[GMT（全局管理团队）](/wiki/People/The_Team/Global_Moderation_Team) 或者 [NAT（审核评估团队）](/wiki/People/The_Team/Nomination_Assessment_Team)）
 
 通过游戏或网站连接到 osu!Bancho 的用户将没有用户名前缀。
 
-### 有人给我发送了私信，但是他们并没有在频道用户列表中
+### 有人给我发送了私信，但是他们并没有在频道用户列表中！
 
 他们要么在使用[网页聊天](https://osu.ppy.sh/community/chat)或者使用[osu!(lazer)](https://github.com/ppy/osu)来连接 osu!Bancho。
