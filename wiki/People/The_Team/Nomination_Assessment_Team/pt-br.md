@@ -50,14 +50,15 @@ A [página do grupo de usuário da Equipe de Avaliação de Nomeação](https://
 | :-- | :-- | :-- |
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) |  | Avaliação, moderação |
 | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonês, chinês | Avaliação |
+| ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | Avaliação |
 | ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Chinês | Avaliação |
+| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Alemão | Avaliação |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Sueco | Estrutural, comunicação |
 | ::{ flag=GB }:: [NexusQI](https://osu.ppy.sh/users/13822800) |  | Avaliação |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | Estrutural |
 | ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | Avaliação |
 | ::{ flag=AT }:: [Stixy](https://osu.ppy.sh/users/9000308) | Alemão, sérvio | Avaliação |
 | ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) |  | Avaliação |
-| ::{ flag=CL }:: [Uberzolik](https://osu.ppy.sh/users/1314547) | Espanhol, francês | Avaliação |
 | ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | Holandês | Avaliação |
 | ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | Polonês | Avaliação |
 

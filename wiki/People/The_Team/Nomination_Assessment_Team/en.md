@@ -52,14 +52,15 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | :-- | :-- | :-- |
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) |  | Evaluation, moderation |
 | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonese, Chinese | Evaluation |
+| ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | Evaluation |
 | ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Chinese | Evaluation |
+| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | German | Evaluation |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Swedish | Structural, communication |
 | ::{ flag=GB }:: [NexusQI](https://osu.ppy.sh/users/13822800) |  | Evaluation |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | Structural |
 | ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | Evaluation |
 | ::{ flag=AT }:: [Stixy](https://osu.ppy.sh/users/9000308) | German, Serbian | Evaluation |
 | ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) |  | Evaluation |
-| ::{ flag=CL }:: [Uberzolik](https://osu.ppy.sh/users/1314547) | Spanish, French | Evaluation |
 | ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | Dutch | Evaluation |
 | ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | Polish | Evaluation |
 
