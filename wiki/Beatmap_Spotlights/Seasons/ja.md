@@ -3,6 +3,8 @@ tags:
   - チャート
   - ランキングチャート
   - 季節別スポットライト
+outdated_since: 8c02866257b6dbfeaee1d114a905c0bd8e5e3828
+outdated_translation: true
 ---
 
 # ビートマップ スポットライト シーズン

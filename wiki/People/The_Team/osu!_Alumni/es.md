@@ -1,12 +1,10 @@
----
-outdated_translation: true
----
-
 # osu! Alumni
 
-Los **osu! Alumni** son miembros retirados o inactivos que realizaron importantes contribuciones durante su estancia. Si se tuviesen recursos disponibles, erigiríamos estatuas para cada miembro en la plaza de la ciudad. [Link](https://osu.ppy.sh/groups/16)
+Los **osu! Alumni** son miembros retirados o inactivos que realizaron importantes contribuciones durante su estancia. Si se tuviesen recursos disponibles, erigiríamos estatuas para cada miembro en la plaza de la ciudad.
 
-| Nombre | Epitafio |
+La [pagina del grupo osu! Alumni](https://osu.ppy.sh/groups/16) menciona a todos los miembros.
+
+| Nombre | Funciones pasadas |
 | :-- | :-- |
 | ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596) | BAT, GMT |
 | ::{ flag=ID }:: [-SiN-](https://osu.ppy.sh/users/10560) | Moderador del chat |
@@ -197,6 +195,7 @@ Los **osu! Alumni** son miembros retirados o inactivos que realizaron importante
 | ::{ flag=FR }:: [shARPII](https://osu.ppy.sh/users/776257) | Moderador del chat, GMT |
 | ::{ flag=US }:: [Shinde](https://osu.ppy.sh/users/103282) | MAT |
 | ::{ flag=CA }:: [Shinxyn](https://osu.ppy.sh/users/13996) | BAT |
+| ::{ flag=SG }:: [Shoegazer](https://osu.ppy.sh/users/2520707) | GMT |
 | ::{ flag=AR }:: [Shockwave](https://osu.ppy.sh/users/251631) | GMT |
 | ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | GMT |
 | ::{ flag=US }:: [Skyripper](https://osu.ppy.sh/users/31803) | GMT |
@@ -223,6 +222,7 @@ Los **osu! Alumni** son miembros retirados o inactivos que realizaron importante
 | ::{ flag=FR }:: [Tommay](https://osu.ppy.sh/users/3132818) | GMT |
 | ::{ flag=AU }:: [tsububu](https://osu.ppy.sh/users/61) | BAT |
 | ::{ flag=TH }:: [Tyistiana](https://osu.ppy.sh/users/1421452) | NAT |
+| ::{ flag=CL }:: [Uberzolik](https://osu.ppy.sh/users/1314547) | NAT |
 | ::{ flag=PL }:: [Ukami](https://osu.ppy.sh/users/820865) | Moderador del chat, GMT |
 | ::{ flag=TR }:: [UnderminE](https://osu.ppy.sh/users/444223) | Moderador del chat |
 | ::{ flag=NL }:: [Uni](https://osu.ppy.sh/users/617106) | GMT |

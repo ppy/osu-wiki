@@ -128,7 +128,7 @@ However, there is one important thing to mention. Having this feature enabled on
 
 If you are unsure about whether or not the content you want to include in your beatmap line up with the rules, feel free to submit a content case on the [Beatmap Nominator website](https://bn.mappersguild.com/discussionvote).
 
-<a id="conclusion"></a>
+{#conclusion}
 
 ---
 
