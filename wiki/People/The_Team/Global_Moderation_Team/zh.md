@@ -107,7 +107,6 @@ outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
 | ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) | 瑞典语，西班牙语 | 聊天管理员 |
 | ::{ flag=IT }:: [Seijiro](https://osu.ppy.sh/users/2581696) | 意大利语，罗马尼亚语 | 聊天管理员 |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | 法语，西班牙语 | 聊天管理员 |
-| ::{ flag=SG }:: [Shoegazer](https://osu.ppy.sh/users/2520707) | 葡萄牙语 | 作图、摸图社群管理员 |
 | ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) | 印度尼西亚语 | 聊天管理员 |
 | ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | 印度尼西亚语，一部分越南语 | 聊天管理员 |
 | ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) | 汉语 | 聊天管理员 |
