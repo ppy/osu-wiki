@@ -131,7 +131,7 @@ osu! бы не было без многих пользователей, учас
 
 osu! wiki, как и почти всё, связанное с игрой, написана и поддерживается добровольцами. Если вы хотите предложить идею, сообщить о проблеме, или даже написать собственную статью, загляните в [репозиторий osu-wiki](https://github.com/ppy/osu-wiki) на GitHub.
 
-[История osu!](/wiki/History_of_osu!) • [История osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [История развития моддинга и маппинга](/wiki/Mapping_and_Modding_Timeline) • [Первоапрельские шутки](/wiki/History_of_osu!/April_Fools)
+[История osu!](/wiki/History_of_osu!) • [История osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [История развития моддинга и маппинга](/wiki/History_of_osu!/Mapping_and_Modding_Timeline) • [Первоапрельские шутки](/wiki/History_of_osu!/April_Fools)
 
 [Карта сайта](/wiki/Sitemap) • [Руководство по работе с osu! wiki](/wiki/osu!_wiki/Contribution_guide) • [Критерии оформления статей](/wiki/Article_styling_criteria) • [Критерии оформления новостей](/wiki/News_styling_criteria)
 
