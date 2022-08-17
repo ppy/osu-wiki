@@ -114,12 +114,12 @@ If you're craving for some details, [this newspost](https://osu.ppy.sh/home/news
 Next up, the April edition of Monthly Beatmapping Contest greets us with a few novelties. For the first time ever, the contest will entertain osu!catch submissions in addition to osu! and osu!taiko. The submission period has since ended, but for those interested, the limitations for April were as follows:
 
 - **osu!**:
-    - All sliders must use red anchors.
-    - Red anchors must form clear corners in the slidershape.
+  - All sliders must use red anchors.
+  - Red anchors must form clear corners in the slidershape.
 - **osu!taiko**:
-    - No more than 3 of the same note colours in a row.
+  - No more than 3 of the same note colours in a row.
 - **osu!catch**:
-    - Sliders cannot be used.
+  - Sliders cannot be used.
 
 If you're excited to see the results, we suggest you take few minutes to look through [this newspost](https://osu.ppy.sh/home/news/2021-04-08-monthly-beatmapping-contest-april-2021) to keep yourself up-to-date with the details.
 
@@ -157,7 +157,7 @@ The winning entry hosting the runner-ups' guest difficulties will be speed-carri
 
 If you're an anime fan, don't let this opportunity pass you by! Have a thorough look at this [forum thread](https://osu.ppy.sh/community/forums/topics/1308172) and you're good to go!
 
-<a id="conclusion"></a>
+{#conclusion}
 
 ---
 

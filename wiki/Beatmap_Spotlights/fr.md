@@ -65,14 +65,14 @@ Chaque publication du Beatmap Spotlights est assemblée par une équipe de conse
 - ::{ flag=CA }:: **[SadEgg](https://osu.ppy.sh/users/10278243)**
 - ::{ flag=RU }:: [Nelly](https://osu.ppy.sh/users/4741164)
 - ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)
+- ::{ flag=CA }:: [WadBot](https://osu.ppy.sh/users/14571181)
 - ::{ flag=US }:: [wonjae](https://osu.ppy.sh/users/5032045)
+- ::{ flag=CA }:: [wwwww](https://osu.ppy.sh/users/8434466)
 
 ### Curateurs osu!mania
 
 - ::{ flag=AU }:: **[Crumpey](https://osu.ppy.sh/users/3518705)**
 - ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773)
-- ::{ flag=KR }:: [Aruel](https://osu.ppy.sh/users/3984370)
-- ::{ flag=TH }:: [HowToPlayLN](https://osu.ppy.sh/users/10879600)
 - ::{ flag=GB }:: [Hydria](https://osu.ppy.sh/users/808176)
 - ::{ flag=MY }:: [Kibitz](https://osu.ppy.sh/users/7418493)
 - ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573)
@@ -117,14 +117,14 @@ Pendant la saison, chaque participant reçoit un **badge** temporaire qui reflè
 
 | Badges | Palier de bracket | Placement |
 | :-: | :-- | :-- |
-| ![](img/badges/spring_2022/osu/ri_1.png) ![](img/badges/spring_2022/osu/ri_2.png) | Rhythm Incarnate | Les meilleurs des meilleurs |
-| ![](img/badges/spring_2022/osu/diamond_1.png) ![](img/badges/spring_2022/osu/diamond_2.png) | Diamond | Top 3% |
-| ![](img/badges/spring_2022/osu/platinum_1.png) ![](img/badges/spring_2022/osu/platinum_2.png) | Platinum | 3% – 10% |
-| ![](img/badges/spring_2022/osu/gold_1.png) ![](img/badges/spring_2022/osu/gold_2.png) | Gold | 10% – 25% |
-| ![](img/badges/spring_2022/osu/silver_1.png) ![](img/badges/spring_2022/osu/silver_2.png) | Silver | 25% – 50% |
-| ![](img/badges/spring_2022/osu/bronze_1.png) ![](img/badges/spring_2022/osu/bronze_2.png) | Bronze | 50% – 70% |
-| ![](img/badges/spring_2022/osu/copper_1.png) ![](img/badges/spring_2022/osu/copper_2.png) | Copper | 70% – 95% |
-| ![](img/badges/spring_2022/osu/iron_1.png) ![](img/badges/spring_2022/osu/iron_2.png) | Iron | 95% – 100% |
+| ![](img/badges/summer_2022/osu/ri_1.png) ![](img/badges/summer_2022/osu/ri_2.png) | Rhythm Incarnate | Les meilleurs des meilleurs |
+| ![](img/badges/summer_2022/osu/diamond_1.png) ![](img/badges/summer_2022/osu/diamond_2.png) | Diamond | Top 3% |
+| ![](img/badges/summer_2022/osu/platinum_1.png) ![](img/badges/summer_2022/osu/platinum_2.png) | Platinum | 3% – 10% |
+| ![](img/badges/summer_2022/osu/gold_1.png) ![](img/badges/summer_2022/osu/gold_2.png) | Gold | 10% – 25% |
+| ![](img/badges/summer_2022/osu/silver_1.png) ![](img/badges/summer_2022/osu/silver_2.png) | Silver | 25% – 50% |
+| ![](img/badges/summer_2022/osu/bronze_1.png) ![](img/badges/summer_2022/osu/bronze_2.png) | Bronze | 50% – 70% |
+| ![](img/badges/summer_2022/osu/copper_1.png) ![](img/badges/summer_2022/osu/copper_2.png) | Copper | 70% – 95% |
+| ![](img/badges/summer_2022/osu/iron_1.png) ![](img/badges/summer_2022/osu/iron_2.png) | Iron | 95% – 100% |
 
 Le seuil du niveau Rhythm Incarnate est choisi manuellement en fonction du nombre de participants de la saison et de la taille générale des autres niveaux, bien qu'il s'agisse d'un nombre absolu qui se situe entre le top 2 et le top 50 dans la plupart des cas.
 
