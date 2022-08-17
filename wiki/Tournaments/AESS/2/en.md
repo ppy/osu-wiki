@@ -44,7 +44,7 @@ The Aetherian's Summer Singles 2 was run by various community members.
 | :-- | :-- |
 | Host | ::{ flag=FI }:: [Aetherian](https://osu.ppy.sh/users/6263040) |
 | Moderator | ::{ flag=US }:: [Varler](https://osu.ppy.sh/users/2504750), ::{ flag=US }:: [Sohlayce](https://osu.ppy.sh/users/17649736) |
-| Mappool selector | ::{ flag=FI }:: [Pickxarro](https://osu.ppy.sh/users/3786620), ::{ flag=FI }:: [Amasetic](https://osu.ppy.sh/users/11375251), []::{ flag=PL }:: [Tutka](https://osu.ppy.sh/users/8170022) |
+| Mappool selector | ::{ flag=FI }:: [Pickxarro](https://osu.ppy.sh/users/3786620), ::{ flag=FI }:: [Amasetic](https://osu.ppy.sh/users/11375251), ::{ flag=PL }:: [Tutka](https://osu.ppy.sh/users/8170022) |
 | Mappool tester | ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275), ::{ flag=KR }:: [Nopekjk](https://osu.ppy.sh/users/4585186), ::{ flag=NO }:: [Naigo](https://osu.ppy.sh/users/10640486), ::{ flag=UA }:: [dench](https://osu.ppy.sh/users/10073635), ::{ flag=PL }:: [Mastasz](https://osu.ppy.sh/users/1876565), ::{ flag=FI }:: [Eliaasi](https://osu.ppy.sh/users/9690571), ::{ flag=MY }:: [Zeph2003](https://osu.ppy.sh/users/10343292), ::{ flag=SE }:: [scylla](https://osu.ppy.sh/users/9405745), ::{ flag=FI }:: [Haadez](https://osu.ppy.sh/users/8925266), ::{ flag=DE }:: [criller](https://osu.ppy.sh/users/8116659), ::{ flag=RU }:: [gamer228666](https://osu.ppy.sh/users/5981005), ::{ flag=PL }:: [HEDAYO](https://osu.ppy.sh/users/9323821) |
 | Custom mapper | ::{ flag=AU }:: [VP757](https://osu.ppy.sh/users/9451871), ::{ flag=US }:: [Kurashina Asuka](https://osu.ppy.sh/users/7476493) |
 | Streamer | ::{ flag=CA }:: [Drou](https://osu.ppy.sh/users/415932), ::{ flag=DE }:: [Dragoncurve](https://osu.ppy.sh/users/6675367) |
