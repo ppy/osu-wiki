@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Mascotas
 
 *Véase también: [Galería de Mascotas](/wiki/Mascots/Gallery).*
