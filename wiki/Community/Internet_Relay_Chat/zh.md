@@ -60,6 +60,8 @@ osu!Bancho 使用纯文本身份验证——确保在您的 IRC 客户端设置�
 
 ### 我收到了 "Bad Authentication Token" （身份验证令牌）错误
 
+尝试这样做：
+
 1. 检查你使用的密码是否和 [IRC 验证页面](https://osu.ppy.sh/p/irc) 上的一致。
 2. 应使用下划线替代用户名中的空格（例如，`This Username` 应按 `This_Username` 的格式来输入）。
 
