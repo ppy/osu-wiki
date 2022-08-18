@@ -50,7 +50,7 @@ Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7). Sebaga
 | :-- | :-- | :-- |
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) |  | Evaluasi, moderasi |
 | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Kanton, Tionghoa | Evaluasi |
-| ::{ flag=AU }:: [elizc1](https://osu.ppy.sh/users/8039342) |  | Evaluasi |
+| ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | Evaluasi |
 | ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Tionghoa | Evaluasi |
 | ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Jerman | Evaluasi |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Swedia | Struktural, komunikasi |
