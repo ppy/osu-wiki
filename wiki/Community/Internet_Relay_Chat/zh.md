@@ -84,4 +84,4 @@ IRC 标准有一个 IRC 模式的概念，可以理解为每个用户的权限�
 
 ### 有人给我发送了私信，但是他们并没有在频道用户列表中！
 
-他们要么在使用[网页聊天](https://osu.ppy.sh/community/chat)或者使用[osu!(lazer)](https://github.com/ppy/osu)来连接 osu!Bancho。
+他们可能在使用[网页聊天](https://osu.ppy.sh/community/chat)或者[osu!(lazer)](https://github.com/ppy/osu)来连接 osu!Bancho。
