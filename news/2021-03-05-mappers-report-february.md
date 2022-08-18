@@ -107,7 +107,7 @@ To participate, you will need to join the [Discord server](https://discord.gg/fV
 
 May the best and the fastest mapper win!
 
-<a id="conclusion"></a>
+{#conclusion}
 
 ---
 

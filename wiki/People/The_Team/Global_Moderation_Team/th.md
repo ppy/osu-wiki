@@ -116,7 +116,6 @@ tags:
 | ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) | สวีเดน, สเปน | ผู้ดูแลแชท |
 | ::{ flag=IT }:: [Seijiro](https://osu.ppy.sh/users/2581696) | อิตาลี, โรมาเนีย | ผู้ดูแลแชท |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | ฝรั่งเศส, สเปน | ผู้ดูแลแชท |
-| ::{ flag=SG }:: [Shoegazer](https://osu.ppy.sh/users/2520707) | โปรตุเกส | ผู้ดูแลชุมชนการแมป/การ mod |
 | ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) | อินโดนีเซีย | ผู้ดูแลแชท |
 | ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | อินโดนีเซีย, เวียดนาม บ้าง | ผู้ดูแลแชท |
 | ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) | จีน | ผู้ดูแลแชท |
