@@ -6,7 +6,7 @@ date: 2022-08-15 12:00:00 +0000
 
 With osu!'s 15th anniversary approaching this September, it's time to take a look back at the past from the future with our latest art contest!
 
-![](https://assets.ppy.sh/contests/153/header.jpg)
+![](https://assets.ppy.sh/contests/153/header.jpg?1)
 
 On a balmy September evening (the 16th, to be exact) back in 2007, some dude by the name of Dean "peppy" Herbert released the first build of a niche rhythm game designed to emulate the gameplay of the recent cult hit *osu! Tatakae! Ouendan!* to the public.
 
