@@ -72,7 +72,7 @@ osu!direct ist das Such- und Downloadmodul für Beatmaps im Spiel, welches nur f
 
 ### Erweiterte Ranglisten
 
-Unterstützer haben Zugriff auf mehrere beatmapspezifische [Ranglisten](/wiki/Beatmap#leaderboards), die sowohl im Spiel als auch auf der Webseite verfügbar sind:
+Unterstützer haben Zugriff auf mehrere beatmapspezifische [Ranglisten](/wiki/Beatmap#ranglisten), die sowohl im Spiel als auch auf der Webseite verfügbar sind:
 
 - Globale Ranglisten für jede Kombination an [Spielmodifikationen](/wiki/Gameplay/Game_modifier)
 - Länderspezifische Ranglisten von Spielern, die die gleiche Flagge tragen
