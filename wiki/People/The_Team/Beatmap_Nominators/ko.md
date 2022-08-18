@@ -50,13 +50,11 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 | :-- | :-- |
 | ::{ flag=PH }:: [-Aqua](https://osu.ppy.sh/users/7150015) | 필리핀어 |
 | ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548) |  |
-| ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) |  |
-| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | 벨라루스어, 러시아어 |
 | ::{ flag=GB }:: [Aistre](https://osu.ppy.sh/users/4879380) |  |
 | ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083) |  |
 | ::{ flag=KR }:: [Amamya](https://osu.ppy.sh/users/1997633) | 한국어 |
 | ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599) | 이탈리아어 |
-| ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549) | |
+| ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549) |  |
 | ::{ flag=KR }:: [Beomsan](https://osu.ppy.sh/users/3626063) | 한국어 |
 | ::{ flag=TW }:: [bossandy](https://osu.ppy.sh/users/360437) | 중국어 |
 | ::{ flag=KR }:: [Cellina](https://osu.ppy.sh/users/2490770) | 한국어 |
@@ -74,7 +72,6 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 | ::{ flag=AU }:: [Iceluin](https://osu.ppy.sh/users/3558897) |  |
 | ::{ flag=CA }:: [jonathanlfj](https://osu.ppy.sh/users/270377) | 중국어, 일부 프랑스어 |
 | ::{ flag=KR }:: [KeyWee](https://osu.ppy.sh/users/10476879) | 한국어 |
-| ::{ flag=SG }:: [Kotoha](https://osu.ppy.sh/users/7823498) |  |
 | ::{ flag=HK }:: [Kyle Y](https://osu.ppy.sh/users/3565813) | 중국어, 광둥어 |
 | ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613) | 독일어 |
 | ::{ flag=GB }:: [Log Off Now](https://osu.ppy.sh/users/4378277) |  |
@@ -83,7 +80,6 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 | ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009) | 러시아어 |
 | ::{ flag=GB }:: [mnyui](https://osu.ppy.sh/users/14261540) |  |
 | ::{ flag=SG }:: [Mocaotic](https://osu.ppy.sh/users/9487458) |  |
-| ::{ flag=GB }:: [Mokobe](https://osu.ppy.sh/users/10374819) |  |
 | ::{ flag=DK }:: [Morrighan](https://osu.ppy.sh/users/12042090) | 덴마크어 |
 | ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | 러시아어 |
 | ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) |  |
@@ -105,7 +101,7 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 | ::{ flag=CL }:: [Uberzolik](https://osu.ppy.sh/users/1314547) | 스페인어, 프랑스어 |
 | ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) |  |
 | ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) |  |
-| ::{ flag=US }:: [wafer](https://osu.ppy.sh/users/9416836) | |
+| ::{ flag=US }:: [wafer](https://osu.ppy.sh/users/9416836) |  |
 | ::{ flag=FR }:: [Xahlt](https://osu.ppy.sh/users/13466351) | 프랑스어 |
 | ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  |
 | ::{ flag=CN }:: [Yugu](https://osu.ppy.sh/users/3161834) | 중국어, 일본어 |
@@ -141,7 +137,7 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 
 #### osu!catch
 
-| 닉네임 | 추가적으로 가능한 언어 |
+| 닉네임 | 추가 언어 |
 | :-- | :-- |
 | ::{ flag=TH }:: [-Luminate](https://osu.ppy.sh/users/4778689) | 태국어 |
 | ::{ flag=KR }:: [Amamya](https://osu.ppy.sh/users/1997633) | 한국어 |
@@ -160,7 +156,7 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 
 #### osu!mania
 
-| 닉네임 | 추가적으로 가능한 언어 |
+| 닉네임 | 추가 언어 |
 | :-- | :-- |
 | ::{ flag=AU }:: [[ Decku ]](https://osu.ppy.sh/users/13360768) |  |
 | ::{ flag=CN }:: [[RT]Alleyne](https://osu.ppy.sh/users/11279273) | 중국어 |
@@ -200,7 +196,7 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 
 #### osu!
 
-| 닉네임 | 추가적으로 가능한 언어 |
+| 닉네임 | 추가 언어 |
 | :-- | :-- |
 | ::{ flag=IT }:: [-Syncro](https://osu.ppy.sh/users/4338923) | 이탈리아어 |
 | ::{ flag=KR }:: [Len](https://osu.ppy.sh/users/1686145) | 한국어 |
@@ -210,7 +206,7 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 
 #### osu!taiko
 
-| 닉네임 | 추가적으로 가능한 언어 |
+| 닉네임 | 추가 언어 |
 | :-- | :-- |
 | ::{ flag=TR }:: [Burak](https://osu.ppy.sh/users/13213075) | 터키어 |
 | ::{ flag=US }:: [Lumenite-](https://osu.ppy.sh/users/6256027) |  |
@@ -218,15 +214,17 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 
 #### osu!catch
 
-| 닉네임 | 추가적으로 가능한 언어 |
-| :-- | :-- |
-
-#### osu!mania
-
-| 닉네임 | 추가적으로 가능한 언어 |
+| 닉네임 | 추가 언어 |
 | :-- | :-- |
 | ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | 중국어, 광둥어 |
 | ::{ flag=FR }:: [R-34](https://osu.ppy.sh/users/8266817) | 프랑스어 |
+
+#### osu!mania
+
+| 닉네임 | 추가 언어 |
+| :-- | :-- |
+| ::{ flag=KR }:: [-Ming-](https://osu.ppy.sh/users/20127755) | 한국어 |
+| ::{ flag=ID }:: [Syadow-](https://osu.ppy.sh/users/3484485) | 인도네시아어 |
 
 ## 역사
 
