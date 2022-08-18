@@ -1,14 +1,14 @@
 # 互联网中继聊天
 
-*如果要了解更多，请参见[互联网中继聊天](https://zh.wikipedia.org/wiki/IRC)
+*如果要了解更多，请参见[互联网中继聊天](https://zh.wikipedia.org/wiki/IRC)*
 
-**互联网中继聊天**, 简称 IRC, 是一种用于群体聊天的协议。
+**互联网中继聊天**, 简称 **IRC**, 是一种用于群体聊天的协议。
 
 ## osu!Bancho
 
 *注意：这个服务器仅提供 IRC 协议的部分内容。你使用的客户端（例如 [HexChat](https://hexchat.github.io/))）上的部分非原生特性可能无法正常工作或者根本无法工作*
 
-*osu!Bancho（有的时候被称为 *Bancho*）为 IRC 协议提供网关。你可以使用任何现代 IRC 客户端来连接（最流行的客户端列表在文章下方）*
+*osu!Bancho*（有的时候被称为 *Bancho*）为 IRC 协议提供网关。你可以使用任何现代 IRC 客户端来连接（最流行的客户端列表在文章下方）*
 
 ### 如何连接
 
@@ -32,7 +32,7 @@
 | `/ignore <用户名>` | 忽略一个用户的消息（隐藏他们的消息） |
 | `/away <消息>` | 设置一条离开消息，它会被发送给想要私信你的任何人 |
 | `/away` | 清空离开信息 |
-| `/query` <用户名> | 使用用户名与其他人私信（使用下划线代替空格） |
+| `/query <用户名>` | 使用用户名与其他人私信（使用下划线代替空格） |
 
 ## 停用加入/退出通知
 
@@ -49,8 +49,6 @@
 | [mIRC](https://www.mirc.com/) | 前往 mIRC 设置 （`Tools` -> `Options`，或者按下 `Alt` + `O`），点击 `Event...` 按钮然后在 `Joins` 和 `Parts` 下拉栏中选择 `Hide`<!-- 这个软件没有中文，所以用户界面字段使用英文 This software has no translation for Chinese, so use English for user interface string --> |
 | [Quassel IRC](https://quassel-irc.org/) | 在聊天界面右键，在`Hide Events` 菜单中选择 `joins and parts` <!-- 同上 Same as above --> |
 | [XChat](http://xchat.org/) | 输入 `/set irc_conf_mode 1` |
-
-其他的 IRC 客户端用户可以参阅对应客户端的文档。
 
 ## 常见问题
 
