@@ -110,13 +110,10 @@ The osu!mania 4K World Cup 2022 is run by the [osu! team](/wiki/People/The_Team)
 
 | Team A | Team B | Match time |
 | --: | :-- | :-- |
-| Taiwan ::{ flag=TW }:: | ::{ flag=HK }:: Hong Kong | [Aug 20 (Sat) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220820T090000&p1=1440&p2=241&p3=102) |
-| Poland ::{ flag=PL }:: | ::{ flag=AU }:: Australia | [Aug 20 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220820T100000&p1=1440&p2=262&p3=57) |
-| United Kingdom ::{ flag=GB }:: | ::{ flag=CN }:: China | [Aug 20 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220820T110000&p1=1440&p2=136&p3=33) |
+| Thailand ::{ flag=TH }:: | ::{ flag=ID }:: Indonesia | [Aug 20 (Sat) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220820T133000&p1=1440&p2=28&p3=108) |
 | Romania ::{ flag=RO }:: | ::{ flag=NL }:: Netherlands | [Aug 20 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220820T140000&p1=1440&p2=49&p3=16) |
-| Finland ::{ flag=FI }:: | ::{ flag=RU }:: Russian Federation | [Aug 20 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220820T150000&p1=1440&p2=101&p3=166) |
-| Czech Republic ::{ flag=CZ }:: | ::{ flag=DE }:: Germany | [Aug 20 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220820T160000&p1=1440&p2=204&p3=37) |
 | Norway ::{ flag=NO }:: | ::{ flag=ES }:: Spain | [Aug 20 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220820T170000&p1=1440&p2=187&p3=141) |
+| Brazil ::{ flag=BR }:: | ::{ flag=CL }:: Chile | [Aug 20 (Sat) 22:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220820T220000&p1=1440&p2=45&p3=232) |
 
 ### Sunday, 21 August 2022
 
@@ -125,11 +122,14 @@ The osu!mania 4K World Cup 2022 is run by the [osu! team](/wiki/People/The_Team)
 | New Zealand ::{ flag=NZ }:: | ::{ flag=AR }:: Argentina | [Aug 21 (Sun) 01:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220821T010000&p1=1440&p2=264&p3=51) |
 | Singapore ::{ flag=SG }:: | ::{ flag=US }:: United States | [Aug 21 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220821T030000&p1=1440&p2=236&p3=263) |
 | Philippines ::{ flag=PH }:: | ::{ flag=PE }:: Peru | [Aug 21 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220821T040000&p1=1440&p2=145&p3=131) |
-| South Korea ::{ flag=KR }:: | ::{ flag=CA }:: Canada | [Aug 21 (Sun) 05:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220821T050000&p1=1440&p2=235&p3=188) |
+| South Korea ::{ flag=KR }:: | ::{ flag=CA }:: Canada | [Aug 21 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220821T040000&p1=1440&p2=235&p3=188) |
+| Poland ::{ flag=PL }:: | ::{ flag=AU }:: Australia | [Aug 21 (Sun) 09:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220821T093000&p1=1440&p2=262&p3=57) |
+| Malaysia ::{ flag=MY }:: | ::{ flag=FR }:: France | [Aug 21 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220821T100000&p1=1440&p2=122&p3=195) |
 | Japan ::{ flag=JP }:: | ::{ flag=VN }:: Vietnam | [Aug 21 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220821T100000&p1=1440&p2=248&p3=95) |
-| Thailand ::{ flag=TH }:: | ::{ flag=ID }:: Indonesia | [Aug 21 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220821T110000&p1=1440&p2=28&p3=108) |
-| Malaysia ::{ flag=MY }:: | ::{ flag=FR }:: France | [Aug 21 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220821T120000&p1=1440&p2=122&p3=195) |
-| Brazil ::{ flag=BR }:: | ::{ flag=CL }:: Chile | [Aug 21 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220821T160000&p1=1440&p2=45&p3=232) |
+| United Kingdom ::{ flag=GB }:: | ::{ flag=CN }:: China | [Aug 21 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220821T120000&p1=1440&p2=136&p3=33) |
+| Finland ::{ flag=FI }:: | ::{ flag=RU }:: Russian Federation | [Aug 21 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220821T140000&p1=1440&p2=101&p3=166) |
+| Taiwan ::{ flag=TW }:: | ::{ flag=HK }:: Hong Kong | [Aug 21 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220821T150000&p1=1440&p2=241&p3=102) |
+| Czech Republic ::{ flag=CZ }:: | ::{ flag=DE }:: Germany | [Aug 21 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220821T170000&p1=1440&p2=204&p3=37) |
 
 ## Mappools
 
