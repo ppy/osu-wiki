@@ -495,7 +495,7 @@ Sonntag, 8. März 2015:
 2. Den Spielern steht es zu 2 Beatmaps für die Aufwärmphase zu spielen. Beatmaps mit fragwürdigem Inhalt sind verboten.
 3. Jeder Kapitän kann 2 Beatmaps aus dem Pool verbannen. Diese Beatmaps können während der gesamten Partie von keinem Team gewählt werden.
    - Beide Vetos müssen immer benutzt werden.
-4. Die Auswahl wechselt zwischen den Kapitänen, die immer eine Beatmap aus dem Pool wählen.
+4. Die Beatmaps werden aus dem jeweiligen Pool abwechselnd von den beiden Kapitänen ausgewählt.
 5. Beide Kapitäne müssen einmal `!roll` im `#multiplayer`-Kanal eingeben.
    - Der Gewinner beim `!roll` wählt die erste Map der Partie aus.
    - Der Verlierer beim `!roll` beginnt mit dem Bannen von 2 Beatmaps.
