@@ -79,7 +79,7 @@ NAT uzun zaman periyodlarıyla potansiyel NAT üyelerini gözetler, ve genellikl
 | :-- | :-- | :-- |
 | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | İspanyolca, Almanca | Değerlendirme, moderasyon |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Felemenkçe | Değerlendirme, yapısal |
-| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) | | Değerlendirme |
+| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  | Değerlendirme |
 
 ### osu!mania
 

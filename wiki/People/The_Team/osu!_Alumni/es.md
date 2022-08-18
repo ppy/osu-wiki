@@ -86,7 +86,7 @@ La [pagina del grupo osu! Alumni](https://osu.ppy.sh/groups/16) menciona a todos
 | ::{ flag=JP }:: [Guy](https://osu.ppy.sh/users/91738) | BAT, moderador del chat, QAT |
 | ::{ flag=RU }:: [h3k1ru](https://osu.ppy.sh/users/291211) | GMT |
 | ::{ flag=NL }:: [happy30](https://osu.ppy.sh/users/27767) | BAT |
-| ::{ flag=US }:: [HappyStick](https://osu.ppy.sh/users/256802) | Torneos |
+| ::{ flag=US }:: [HappyStick](https://osu.ppy.sh/users/256802) | Gestor de torneos |
 | ::{ flag=MY }:: [HeatKai](https://osu.ppy.sh/users/332555) | BAT, moderador del chat |
 | ::{ flag=TR }:: [heyronii](https://osu.ppy.sh/users/5642779) | GMT |
 | ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323) | GMT |
@@ -104,7 +104,7 @@ La [pagina del grupo osu! Alumni](https://osu.ppy.sh/groups/16) menciona a todos
 | ::{ flag=US }:: [James2250](https://osu.ppy.sh/users/16978) | GMT |
 | ::{ flag=GB }:: [jericho2442](https://osu.ppy.sh/users/88904) | BAT |
 | ::{ flag=CA }:: [jonathanlfj](https://osu.ppy.sh/users/270377) | BAT |
-| ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | Torneos |
+| ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | Gestor de torneos |
 | ::{ flag=MX }:: [Kai](https://osu.ppy.sh/users/4537) | BAT |
 | ::{ flag=CA }:: [karterfreak](https://osu.ppy.sh/users/1031958) | GMT, creador de osu!media |
 | ::{ flag=KR }:: [Kawayi Rika](https://osu.ppy.sh/users/596298) | BAT |
@@ -228,7 +228,7 @@ La [pagina del grupo osu! Alumni](https://osu.ppy.sh/groups/16) menciona a todos
 | ::{ flag=NL }:: [Uni](https://osu.ppy.sh/users/617106) | GMT |
 | ::{ flag=BE }:: [VeilStar](https://osu.ppy.sh/users/4255720) | GMT, equipo de soporte |
 | ::{ flag=PH }:: [vytalibus](https://osu.ppy.sh/users/10028) | BAT |
-| ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | GMT, torneos |
+| ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | GMT, gestor de torneos |
 | ::{ flag=KR }:: [Where](https://osu.ppy.sh/users/549172) | GMT |
 | ::{ flag=US }:: [whymeman](https://osu.ppy.sh/users/51994) | GMT |
 | ::{ flag=ID }:: [Winshley](https://osu.ppy.sh/users/864895) | Moderador del chat |

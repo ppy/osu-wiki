@@ -79,7 +79,7 @@ Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7). Sebaga
 | :-- | :-- | :-- |
 | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | Spanyol, Jerman | Evaluasi, moderasi |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Belanda | Evaluasi, struktural |
-| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) | | Evaluasi |
+| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  | Evaluasi |
 
 ### osu!mania
 

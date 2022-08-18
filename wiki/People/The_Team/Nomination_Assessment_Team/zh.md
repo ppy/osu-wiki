@@ -73,7 +73,7 @@ NAT 会长期关注潜在的 NAT 候选人，并偶尔进行讨论已决定是�
 | :-- | :-- | :-- |
 | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | 西班牙语，德语 | 评估，管理 |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | 荷兰语 | 评估，结构 |
-| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) | | 评估 |
+| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  | 评估 |
 
 ### osu!mania
 
