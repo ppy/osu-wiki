@@ -127,7 +127,7 @@ Cuộc thi **Community Mapping Contest** là một cuộc thi map mà những th
 
 ### Best of/Community Choice (Tạm dịch: Lựa chọn Cộng đồng)
 
-Cuộc thi **Best of/Community Choice** là cuộc thi bình chọn công khai được tổ chức hằng năm để vinh danh những map nổi danhcontest is a public voting contest that is being held annually to determine the most popular beatmaps <!-- https://osu.ppy.sh/home/news/2021-02-05-community-choice-2020-results --> in the eyes of the osu! community at each given year.
+Cuộc thi **Best of/Community Choice** là cuộc thi bình chọn công khai được tổ chức hằng năm để vinh danh những map nổi danh nhất <!-- https://osu.ppy.sh/home/news/2021-02-05-community-choice-2020-results --> dựa trên ý kiến của cộng đồng osu! vào mỗi năm.
 
 At its launch, the contest was named "Best of", as the initial premise and expectation of the contest was to encourage members of the community to vote for what they consider as "the best beatmaps of the year"; however, as the game's playerbase continued to grow in number over time, the contest was inevitably shifting more and more into a popularity contest each year which prompted the contest to be relaunched as "Community Choice" in 2017.
 
