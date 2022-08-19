@@ -5,3 +5,54 @@ date: 2022-09-01 10:00:00 +0000
 ---
 
 assets folder: /wiki/shared/news/2022-09-01-osumonthly-2
+
+![](/wiki/shared/news/2022-09-01-osumonthly-2/banner.png)
+
+## Starting word
+
+## lazer:
+Boo, another set of lazer updates! Got ya, huh?
+
+The full coverage of the updates can be found on the official osu! [YouTube channel](https://www.youtube.com/c/osugame). One of the updates include changes to the slider animations for osu!, which will now match the stable version of the game and hopefully remove the "weird feeling" players have reported when playing lazer. Another great update that has been released this month is the optimization work that’s been done in order to provide the best osu! experience on a wider range of systems.
+
+If you missed it, a post covering the work that went into the sound design of osu!(lazer) was [released on the osu! website](https://osu.ppy.sh/home/news/2022-08-31-the-sound-design-of-lazer)!
+
+![](/wiki/shared/news/2022-08-31-lazer-sound-design/banner.jpg)
+
+The post goes in-depth about the design process of sound effects for lazer and includes snippets of an interview with [nekodex](https://osu.ppy.sh/users/102), the mastermind behind it all!
+
+As per usual, here's another lazer feature showcase!
+Some people say humans can only see up to 60 hz, well now you can test that yourself with the brand new **latency certifier!** Test your skills and see up to what refresh rate you can spot the difference by opening the settings and pressing on “Run latency certifier” (`General` > `Debug` > `Run latency certifier`). Feel free to let us know how far you got below, or if you are lazy you can just watch [Willy](https://osu.ppy.sh/users/3521482), an osu! content creator perform the test themselves!
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/g6wKMiCwSC8" frameborder="0" allowfullscreen></iframe>
+
+If you are interested in all previous and future patch notes, you can find them here (or just click on `Home` > `Changelog` on the top-left corner of the site).
+
+
+**The images will be stored in the shared folder of osu-wiki once done, and the icons are on osu-wiki so don't worry if it doesn't appear.**
+
+
+
+## Table of Contents
+- [What's new in osu!](#what's-new-in-osu!?)
+- [Top scores of the month](#top-scores-of-the-month)
+- [New features in osu!(lazer)](#new-features-in-osu!(lazer))
+- [osu! community fact (or a thing like that)](#osu-community-fact)
+- [Monthly community quiz](#monthly-community-quiz)
+- [End word](#end-word)
+
+## Community Recap
+
+Scores for all gamemodes + events go here
+
+- MWC2022
+- COE
+- Scores + events
+
+## osu! "did you know" fact
+osu! did not support any keyboard inputs when it was released, it was only after a suggestion was made on the forums that it was added! Another cool fact, originally you could only press circles with the space bar until a suggestion was made to have "Z" and "X" as the default bindings. [Source](https://osu.ppy.sh/community/forums/topics/431?n=8)
+
+## Monthly community quiz
+
+## End word
+—0x84f, Blushing (TBD)
