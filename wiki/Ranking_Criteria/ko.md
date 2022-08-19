@@ -62,9 +62,9 @@ outdated_since: 7b5392b2431adcb81b085063ca0375ce3c992f7b
 - **각 난이도는 반드시 그 모드의 난이도별 ranking criteria를 따라야 합니다.** 더 많은 정보를 위해선 [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch)와 [osu!mania](osu!mania) ranking criteria를 참조하세요.
 - **비트맵의 모든 난이도들은 최소 30초 이상의 [드레인 타임](/wiki/Gameplay/Drain_time)이 있어야 합니다.**
 - **만약 각 난이도의 [드레인 타임](/wiki/Gameplay/Drain_time)이...**
-  - ...**3분 30초보다 적다면,** 포함된 각 게임 모드의 가장 낮은 난이도는 Normal보다 어려워서는 안 됩니다.
-  - ...**3분 30초에서 4분 15초 사이라면,** 포함된 각 게임 모드의 가장 낮은 난이도는 Hard보다 어려워서는 안 됩니다.
-  - ...**4분 15초에서 5분 사이라면,** 포함된 각 게임 모드의 가장 낮은 난이도는 Insane보다 어려워서는 안 됩니다.
+  - ...**3분 30초보다 적다면,** 각 게임 모드의 가장 낮은 난이도는 Normal이어야 합니다.
+  - ...**3분 30초에서 4분 15초 사이라면,** 각 게임 모드의 가장 낮은 난이도는 Hard이어야 합니다.
+  - ...**4분 15초에서 5분 사이라면,** 각 게임 모드의 가장 낮은 난이도는 Insane이어야 합니다.
   - **가장 높은 난이도보다 낮은 난이도들은 드레인 타임에 브레이크 시간을 더해서 위의 기준을 맞춰도 됩니다.** 이것은 30초 미만의 드레인 타임을 가진 난이도에는 적용되지 않습니다. 가장 낮은 난이도로 사용되는 하드와 인세인 난이도의 게임 플레이 요소의 적합성은 해당 게임 모드를 담당하는 [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators)와 [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) 멤버의 판단에 달려 있습니다.
   - **osu!mania 비트맵은 [osu!mania ranking criteria](/wiki/Ranking_Criteria/osu!mania)에 정의된 별도의 드레인 타임 기준치를 따릅니다.**
 - **비트맵의 난이도 이름들은 명확한 진행을 보여야 하며 각각의 난이도를 정확하게 나타내야 하지만, 다음의 경우는 예외로 합니다:**
