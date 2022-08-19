@@ -8,7 +8,7 @@ tags:
 
 ![TWC 2015 logo](img/logo.png)
 
-Der **osu! Taiko World Cup 2015** (***TWC 2015***) war ein länderbasiertes Taiko-Turnier, das vom [osu! Team](/wiki/People/The_Team) ausgerichtet wurde. Es war die 5. Austragung des osu! Taiko World Cup.
+Der **osu! Taiko World Cup 2015** (***TWC 2015***) war ein länderbasiertes Taiko-Turnier, das vom [osu!-Team](/wiki/People/The_Team) ausgerichtet wurde. Es war die 5. Austragung des osu! Taiko World Cup.
 
 ## Turnierzeitplan
 
@@ -39,10 +39,10 @@ Der osu! Taiko World Cup 2015 wurde von verschiedenen Mitgliedern der Community 
 
 | Tätigkeit | Person(en) |
 | :-- | :-- |
-| Manager | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) // ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) // ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) |
+| Manager | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366), ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703), ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) |
 | Mappool-Auswahl | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) |
 | Streamer | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) // ::{ flag=PL }:: [Marcin](https://osu.ppy.sh/users/722665) // ::{ flag=FR }:: [shARPII](https://osu.ppy.sh/users/776257) |
-| Kommentator | ::{ flag=FR }:: [Mr Color](https://osu.ppy.sh/users/116078) // ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) |
+| Kommentator | ::{ flag=FR }:: [Mr Color](https://osu.ppy.sh/users/116078), ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) |
 | Statistiker | ::{ flag=PL }:: [Marcin](https://osu.ppy.sh/users/722665) |
 
 ## Links
@@ -98,9 +98,9 @@ Dieser Wettkampf ist abgeschlossen und hat zum folgenden Podium geführt:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=JP }:: **Japan** (**[sobatsuyu100](https://osu.ppy.sh/users/2076374)**, [1RoHa\_](https://osu.ppy.sh/users/4632503), [cagalin](https://osu.ppy.sh/users/2586173), [coDMo2ooo](https://osu.ppy.sh/users/3644233), [Rydan72261](https://osu.ppy.sh/users/5309575), [tasuke912](https://osu.ppy.sh/users/2774767)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=TW }:: **Taiwan** (**[-\[ ix Ishida xi \]-](https://osu.ppy.sh/users/242910)**, [howar5041](https://osu.ppy.sh/users/584411), [jordan\_sur](https://osu.ppy.sh/users/2960947), [mliencheng](https://osu.ppy.sh/users/586659), [monkeydluffy3u4](https://osu.ppy.sh/users/2277798), [zx\_baka\_0502442](https://osu.ppy.sh/users/457766)) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=FR }:: **Frankreich** (**[Nashmun](https://osu.ppy.sh/users/49031)**, [\_Gezo\_](https://osu.ppy.sh/users/481582), [Fraolinch](https://osu.ppy.sh/users/205257), [Jinyan](https://osu.ppy.sh/users/669531), [omegaflo](https://osu.ppy.sh/users/83291), [TimmyAkmed](https://osu.ppy.sh/users/1799973)) |
+| ![Goldkrone](/wiki/shared/crown-gold.png "1. Platz") | ::{ flag=JP }:: **Japan** (**[sobatsuyu100](https://osu.ppy.sh/users/2076374)**, [1RoHa\_](https://osu.ppy.sh/users/4632503), [cagalin](https://osu.ppy.sh/users/2586173), [coDMo2ooo](https://osu.ppy.sh/users/3644233), [Rydan72261](https://osu.ppy.sh/users/5309575), [tasuke912](https://osu.ppy.sh/users/2774767)) |
+| ![Silberkrone](/wiki/shared/crown-silver.png "2. Platz") | ::{ flag=TW }:: **Taiwan** (**[-\[ ix Ishida xi \]-](https://osu.ppy.sh/users/242910)**, [howar5041](https://osu.ppy.sh/users/584411), [jordan\_sur](https://osu.ppy.sh/users/2960947), [mliencheng](https://osu.ppy.sh/users/586659), [monkeydluffy3u4](https://osu.ppy.sh/users/2277798), [zx\_baka\_0502442](https://osu.ppy.sh/users/457766)) |
+| ![Bronzekrone](/wiki/shared/crown-bronze.png "3. Platz") | ::{ flag=FR }:: **Frankreich** (**[Nashmun](https://osu.ppy.sh/users/49031)**, [\_Gezo\_](https://osu.ppy.sh/users/481582), [Fraolinch](https://osu.ppy.sh/users/205257), [Jinyan](https://osu.ppy.sh/users/669531), [omegaflo](https://osu.ppy.sh/users/83291), [TimmyAkmed](https://osu.ppy.sh/users/1799973)) |
 
 ## Mappools
 
@@ -309,7 +309,7 @@ Samstag, 21. März 2015:
 
 | Team 1 |  |  | Team 2 | Match-Link |
 | --: | :-: | :-: | :-- | :-- |
-| ::{ flag=FI }:: **Finnland** | **5** | 0 | Ukraine ::{ flag=UA }:: | *win by default* |
+| ::{ flag=FI }:: **Finnland** | **5** | 0 | Ukraine ::{ flag=UA }:: | *kampflos gewonnen* |
 | ::{ flag=PH }:: Philippinen | 0 | **5** | **Polen** ::{ flag=PL }:: | [#1](https://osu.ppy.sh/community/matches/14871909) |
 | ::{ flag=ES }:: Spanien | 1 | **5** | **Argentinien** ::{ flag=AR }:: | [#1](https://osu.ppy.sh/community/matches/14876376) |
 | ::{ flag=ID }:: Indonesien | 0 | **5** | **Kanada** ::{ flag=CA }:: | [#1](https://osu.ppy.sh/community/matches/14878188) |
@@ -350,22 +350,22 @@ Samstag, 7. März 2015:
 | Team 1 |  |  | Team 2 | Match-Link |
 | --: | :-: | :-: | :-- | :-- |
 | Australien ::{ flag=AU }:: | 2 | **4** | ::{ flag=KR }:: **Südkorea** | [#1](https://osu.ppy.sh/community/matches/14545441) |
-| Singapur ::{ flag=SG }:: | 0 | **4** | ::{ flag=PH }:: **Philippinen** | *win by default* |
+| Singapur ::{ flag=SG }:: | 0 | **4** | ::{ flag=PH }:: **Philippinen** | *kampflos gewonnen* |
 | Indonesien ::{ flag=ID }:: | 1 | **4** | ::{ flag=HK }:: **Hongkong** | [#1](https://osu.ppy.sh/community/matches/14545446) |
-| Singapur ::{ flag=SG }:: | 0 | **4** | ::{ flag=FI }:: **Finnland** | *win by default* |
+| Singapur ::{ flag=SG }:: | 0 | **4** | ::{ flag=FI }:: **Finnland** | *kampflos gewonnen* |
 | Ukraine ::{ flag=UA }:: | 2 | **4** | ::{ flag=CN }:: China | [#1](https://osu.ppy.sh/community/matches/14546205) |
 | Südkorea ::{ flag=KR }:: | 1 | **4** | ::{ flag=TW }:: **Taiwan** | [#1](https://osu.ppy.sh/community/matches/14546208) |
 | Australien ::{ flag=AU }:: | 0 | **4** | ::{ flag=PH }:: **Philippinen** | [#1](https://osu.ppy.sh/community/matches/14546210) |
 | Deutschland ::{ flag=DE }:: | 1 | **4** | ::{ flag=CN }:: **China** | [#1](https://osu.ppy.sh/community/matches/14547310) |
 | Finnland ::{ flag=FI }:: | 0 | **4** | ::{ flag=TW }:: **Taiwan** | [#1](https://osu.ppy.sh/community/matches/14547314) |
 | Italien ::{ flag=IT }:: | 0 | **4** | ::{ flag=JP }:: **Japan** | [#1](https://osu.ppy.sh/community/matches/14547317) |
-| Ungarn ::{ flag=HU }:: | 0 | **4** | ::{ flag=ID }:: **Indonesien** | *win by default* |
+| Ungarn ::{ flag=HU }:: | 0 | **4** | ::{ flag=ID }:: **Indonesien** | *kampflos gewonnen* |
 | Spanien ::{ flag=ES }:: | 1 | **4** | ::{ flag=HK }:: **Hongkong** | [#1](https://osu.ppy.sh/community/matches/14547324) |
 | Norwegen ::{ flag=NO }:: | 3 | **4** | ::{ flag=UA }:: Ukraine | [#1](https://osu.ppy.sh/community/matches/14548494) |
-| Singapur ::{ flag=SG }:: | 0 | **4** | ::{ flag=KR }:: **Südkorea** | *win by default* |
+| Singapur ::{ flag=SG }:: | 0 | **4** | ::{ flag=KR }:: **Südkorea** | *kampflos gewonnen* |
 | **Indonesien** ::{ flag=ID }:: | **4** | 2 | ::{ flag=ES }:: Spanien | [#1](https://osu.ppy.sh/community/matches/14548501) |
 | Schweden ::{ flag=SE }:: | 0 | **4** | ::{ flag=JP }:: **Japan** | [#1](https://osu.ppy.sh/community/matches/14548506) |
-| Ungarn ::{ flag=HU }:: | 0 | **4** | ::{ flag=HK }:: **Hongkong** | *win by default* |
+| Ungarn ::{ flag=HU }:: | 0 | **4** | ::{ flag=HK }:: **Hongkong** | *kampflos gewonnen* |
 | Chile ::{ flag=CL }:: | 0 | **4** | ::{ flag=ES }:: **Spanien** | [#1](https://osu.ppy.sh/community/matches/14558945) |
 | Norwegen ::{ flag=NO }:: | 0 | **4** | ::{ flag=DE }:: **Deutschland** | [#1](https://osu.ppy.sh/community/matches/14559005) |
 | Italien ::{ flag=IT }:: | 0 | **4** | ::{ flag=AR }:: **Argentinien** | [#1](https://osu.ppy.sh/community/matches/14559011) |
@@ -377,9 +377,9 @@ Samstag, 7. März 2015:
 | Dänemark ::{ flag=DK }:: | 1 | **4** | ::{ flag=DE }:: **Deutschland** | [#1](https://osu.ppy.sh/community/matches/14560685) |
 | Spanien ::{ flag=ES }:: | 1 | **4** | ::{ flag=US }:: **Vereinigte Staaten** | [#1](https://osu.ppy.sh/community/matches/14563829) |
 | Italien ::{ flag=IT }:: | 0 | **4** | ::{ flag=CA }:: **Kanada** | [#1](https://osu.ppy.sh/community/matches/14563841) |
-| Schweden ::{ flag=SE }:: | 0 | **4** | ::{ flag=AR }:: **Argentinien** | *win by default* |
+| Schweden ::{ flag=SE }:: | 0 | **4** | ::{ flag=AR }:: **Argentinien** | *kampflos gewonnen* |
 | Kanada ::{ flag=CA }:: | 0 | **4** | ::{ flag=FR }:: **Frankreich** | [#1](https://osu.ppy.sh/community/matches/14565653) |
-| Ungarn ::{ flag=HU }:: | 0 | **4** | ::{ flag=US }:: **Vereinigte Staaten** | *win by default* |
+| Ungarn ::{ flag=HU }:: | 0 | **4** | ::{ flag=US }:: **Vereinigte Staaten** | *kampflos gewonnen* |
 
 Sonntag, 8. März 2015:
 
@@ -393,19 +393,19 @@ Sonntag, 8. März 2015:
 | **Indonesien** ::{ flag=ID }:: | **4** | 2 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/14571285) |
 | Australien ::{ flag=AU }:: | 2 | **4** | ::{ flag=SG }:: **Singapur** | [#1](https://osu.ppy.sh/community/matches/14571288) |
 | Australien ::{ flag=AU }:: | 0 | **4** | ::{ flag=TW }:: **Taiwan** | [#1](https://osu.ppy.sh/community/matches/14578652) |
-| Philippinen ::{ flag=PH }:: | 0 | **4** | ::{ flag=KR }:: **Südkorea** | *win by default* |
+| Philippinen ::{ flag=PH }:: | 0 | **4** | ::{ flag=KR }:: **Südkorea** | *kampflos gewonnen* |
 | Australien ::{ flag=AU }:: | 1 | **4** | ::{ flag=FI }:: **Finnland** | [#1](https://osu.ppy.sh/community/matches/14579505) |
 | Polen ::{ flag=PL }:: | 3 | **4** | ::{ flag=CN }:: **China** | [#1](https://osu.ppy.sh/community/matches/14579508) |
 | Frankreich ::{ flag=FR }:: | 1 | **4** | ::{ flag=JP }:: **Japan** | [#1](https://osu.ppy.sh/community/matches/14579513) |
 | Singapur ::{ flag=SG }:: | 0 | **4** | ::{ flag=TW }:: **Taiwan** | [#1](https://osu.ppy.sh/community/matches/14579517) |
 | Finnland ::{ flag=FI }:: | 0 | **4** | ::{ flag=KR }:: **Südkorea** | [#1](https://osu.ppy.sh/community/matches/14580453) |
-| Norwegen ::{ flag=NO }:: | 0 | **4** | ::{ flag=PL }:: **Polen** | *win by default* |
+| Norwegen ::{ flag=NO }:: | 0 | **4** | ::{ flag=PL }:: **Polen** | *kampflos gewonnen* |
 | Dänemark ::{ flag=DK }:: | 0 | **4** | ::{ flag=CN }:: **China** | [#1](https://osu.ppy.sh/community/matches/14580459) |
 | Ukraine ::{ flag=UA }:: | 1 | **4** | ::{ flag=DE }:: **Deutschland** | [#1](https://osu.ppy.sh/community/matches/14580461) |
 | Philippinen ::{ flag=PH }:: | 0 | **4** | ::{ flag=TW }:: **Taiwan** | [#1](https://osu.ppy.sh/community/matches/14581346) |
-| Ungarn ::{ flag=HU }:: | 0 | **4** | ::{ flag=ES }:: **Spanien** | *win by default* |
+| Ungarn ::{ flag=HU }:: | 0 | **4** | ::{ flag=ES }:: **Spanien** | *kampflos gewonnen* |
 | **Italien** ::{ flag=IT }:: | **4** | 0 | ::{ flag=SE }:: Schweden | [#1](https://osu.ppy.sh/community/matches/14581351) |
-| Norwegen ::{ flag=NO }:: | 0 | **4** | ::{ flag=DK }:: **Dänemark** | *win by default* |
+| Norwegen ::{ flag=NO }:: | 0 | **4** | ::{ flag=DK }:: **Dänemark** | *kampflos gewonnen* |
 | **Finnland** ::{ flag=FI }:: | **4** | 0 | ::{ flag=PH }:: Philippinen | [#1](https://osu.ppy.sh/community/matches/14582413) |
 | Dänemark ::{ flag=DK }:: | 0 | **4** | ::{ flag=UA }:: **Ukraine** | [#1](https://osu.ppy.sh/community/matches/14582415) |
 | Schweden ::{ flag=SE }:: | 0 | **4** | ::{ flag=FR }:: **Frankreich** | [#1](https://osu.ppy.sh/community/matches/14582418) |
