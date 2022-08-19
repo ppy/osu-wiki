@@ -253,7 +253,7 @@ Notes :
   - Pour que cet underlay soit le numéro du combo, mettez `HitCircleOverlayAboveNumber` à `0`.
 - Également utilisé pour `sliderstartcircleoverlay` et/ou `sliderendcircleoverlay` si non skinné.
 - Cela devrait être un cercle.
-- Cet élément animable dans le passé. Pour plus de détails, voir [l'histoire du skinning](/wiki/Skinning/History)
+- Cet élément était animable dans le passé. Pour plus de détails, voir [l'histoire du skinning](/wiki/Skinning/History)
 
 ---
 
@@ -342,7 +342,7 @@ Notes :
 - Remplace l'image `hitcircle.png` pour le début du slider.
 - `sliderstartcircle.png` est nécessaire pour que cela fonctionne.
 - Cela devrait être un cercle.
-- Cet élément animable dans le passé. Pour plus de détails, voir [l'histoire du skinning](/wiki/Skinning/History)
+- Cet élément était animable dans le passé. Pour plus de détails, voir [l'histoire du skinning](/wiki/Skinning/History)
 
 ---
 
@@ -377,7 +377,7 @@ Notes :
 - Remplace l'image `hitcircle.png` pour le début du slider.
 - `sliderendcircle.png` est nécessaire pour que cela fonctionne.
 - Cela devrait être un cercle.
-- Cet élément animable dans le passé. Pour plus de détails, voir [l'histoire du skinning](/wiki/Skinning/History)
+- Cet élément était animable dans le passé. Pour plus de détails, voir [l'histoire du skinning](/wiki/Skinning/History)
 
 ---
 
