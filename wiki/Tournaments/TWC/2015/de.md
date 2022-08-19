@@ -41,7 +41,7 @@ Der osu! Taiko World Cup 2015 wurde von verschiedenen Mitgliedern der Community 
 | :-- | :-- |
 | Manager | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366), ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703), ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) |
 | Mappool-Auswahl | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) |
-| Streamer | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) // ::{ flag=PL }:: [Marcin](https://osu.ppy.sh/users/722665) // ::{ flag=FR }:: [shARPII](https://osu.ppy.sh/users/776257) |
+| Streamer | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2), ::{ flag=PL }:: [Marcin](https://osu.ppy.sh/users/722665), ::{ flag=FR }:: [shARPII](https://osu.ppy.sh/users/776257) |
 | Kommentator | ::{ flag=FR }:: [Mr Color](https://osu.ppy.sh/users/116078), ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) |
 | Statistiker | ::{ flag=PL }:: [Marcin](https://osu.ppy.sh/users/722665) |
 
@@ -96,7 +96,7 @@ Der osu! Taiko World Cup 2015 wurde von verschiedenen Mitgliedern der Community 
 
 Dieser Wettkampf ist abgeschlossen und hat zum folgenden Podium geführt:
 
-| Placing | Team |
+| Platzierung | Team |
 | :-: | :-- |
 | ![Goldkrone](/wiki/shared/crown-gold.png "1. Platz") | ::{ flag=JP }:: **Japan** (**[sobatsuyu100](https://osu.ppy.sh/users/2076374)**, [1RoHa\_](https://osu.ppy.sh/users/4632503), [cagalin](https://osu.ppy.sh/users/2586173), [coDMo2ooo](https://osu.ppy.sh/users/3644233), [Rydan72261](https://osu.ppy.sh/users/5309575), [tasuke912](https://osu.ppy.sh/users/2774767)) |
 | ![Silberkrone](/wiki/shared/crown-silver.png "2. Platz") | ::{ flag=TW }:: **Taiwan** (**[-\[ ix Ishida xi \]-](https://osu.ppy.sh/users/242910)**, [howar5041](https://osu.ppy.sh/users/584411), [jordan\_sur](https://osu.ppy.sh/users/2960947), [mliencheng](https://osu.ppy.sh/users/586659), [monkeydluffy3u4](https://osu.ppy.sh/users/2277798), [zx\_baka\_0502442](https://osu.ppy.sh/users/457766)) |
