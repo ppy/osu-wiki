@@ -169,7 +169,7 @@ Turnamen ini telah berakhir dan menghasilkan podium sebagai berikut:
   8. [deathcount - A Beautifull Degeneracy (Remix by Stazma The Junglechrist) (Shoegazer) \[Desperado 1.05x (242bpm)\]](https://osu.ppy.sh/beatmapsets/1535626#mania/3370409)
   9. [Spire - Libidinem (Dellia) \[Yami (160bpm)\]](https://osu.ppy.sh/beatmapsets/1746712#mania/3688237)
   10. [Betwixt & Between - hydra (short edit) (Shoegazer) \[rebellion 1.2x (228bpm)\]](https://osu.ppy.sh/beatmapsets/1372891#mania/2971835)
-  11. [Kano - Yuudachi no Ribbon (Cut Ver.) (FelixSpade) \[Antipole's Wakaranai (edit) 1.15x\]](https://osu.ppy.sh/b/3706725)
+  11. [Kano - Yuudachi no Ribbon (Cut Ver.) (FelixSpade) \[Antipole's Wakaranai (edit) 1.15x\]](https://drive.google.com/file/d/1uz04QuumeDVGR_zs2l6jVaX1UdClNm1U/view?usp=sharing)
   12. [Kabocha - EmbryO (Gekido-) \[MAXIMUM\]](https://osu.ppy.sh/beatmapsets/936194#mania/1955790)
   13. [Camellia - Alone intelligence (guden) \[Solace\]](https://osu.ppy.sh/beatmapsets/1235533#mania/2568385)
 - Tiebreaker
