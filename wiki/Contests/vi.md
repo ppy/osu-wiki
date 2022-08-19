@@ -39,7 +39,7 @@ Sau một thời gian dài bị hoãn, Monthly Beatmapping Contest được kh�
 - Những mapper tham gia chỉ cần gửi một map riêng lẻ chứ không cần tạo một mapset hoàn chỉnh.
 - Những mapper tham gia đều phải tuân thủ một chủ đề và/hoặc giới hạn trong luật thi. Ví dụ, "Độ khó của map không được vượt quá 4.00★" hoặc "Mọi vật đều phải nằm đè lên một vật khác".
 
-| Contest iteration | Featured Artist | Mode | ![Gold crown][GCrown] | ![Silver crown][SCrown] | Screening Crew's #1 | Results |
+| Contest iteration | Nghệ sĩ nổi bật | Mode | ![Gold crown][GCrown] | ![Silver crown][SCrown] | Screening Crew's #1 | Kết quả |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- |
 | [Tháng 1 năm 2020](https://osu.ppy.sh/community/contests/84) | [MYLK](https://osu.ppy.sh/beatmaps/artists/62) | ![osu!][osu!] | ::{ flag=DK }:: [melon boy](https://osu.ppy.sh/users/3053382) | ::{ flag=CN }:: [Moecho](https://osu.ppy.sh/users/5075660) | ::{ flag=GB }:: [Altai](https://osu.ppy.sh/users/5745865) | [#1](https://osu.ppy.sh/home/news/2020-02-20-monthly-beatmapping-contest-1-results) |
 | [Tháng 2 năm2020](https://osu.ppy.sh/community/contests/89) | [Voicians](https://osu.ppy.sh/beatmaps/artists/59) | ![osu!][osu!] | ::{ flag=RU }:: [Aphestra](https://osu.ppy.sh/users/11949191) | ::{ flag=US }:: [UndeadCapulet](https://osu.ppy.sh/users/2523533) | ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515) | [#1](https://osu.ppy.sh/home/news/2020-03-21-monthly-beatmapping-contest-2-results) |
@@ -72,7 +72,7 @@ Sau một thời gian dài bị hoãn, Monthly Beatmapping Contest được kh�
 
 ### osu! Mapping Olympiad
 
-*Main page: [osu! Mapping Olympiad](/wiki/Contests/Mapping_Olympiad)*
+*Trang chính: [osu! Mapping Olympiad](/wiki/Contests/Mapping_Olympiad)*
 
 The **osu! Mapping Olympiad** is a mapping contest that is held as a spiritual successor to the earlier (pre-2020) Monthly Beatmapping Contests. In this contest, participating mappers are tasked to create either a beatmap with a proper [difficulty spread](/wiki/Beatmap/Difficulty#difficulty-levels) starting from Easy or Normal onwards or a certain number of difficulties for any of the given songs in each corresponding iteration.
 
@@ -86,9 +86,9 @@ The **osu! Mapping Olympiad** is a mapping contest that is held as a spiritual s
 | [#6](https://osu.ppy.sh/home/news/2020-02-15-osu-mapping-olympiad-6-catch) | [MYLK - Waffle Wave](https://osu.ppy.sh/beatmaps/artists/62) | ![osu!catch][osu!catch] | ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114) | ::{ flag=SG }:: [Sinnoh](https://osu.ppy.sh/users/4236057) | ::{ flag=CN }:: [Yumeno Himiko](https://osu.ppy.sh/users/1806962) | [#1](https://osu.ppy.sh/home/news/2020-04-23-osu-mapping-olympiad-6-results) |
 | [#7](https://osu.ppy.sh/home/news/2020-06-06-osu-mapping-olympiad-7-mania) | [Frums - Star Of The COME ON!!](https://osu.ppy.sh/beatmaps/artists/68), [IAHN - Welcome (Original Mix)](https://osu.ppy.sh/beatmaps/artists/3), [PUP - DVP](https://osu.ppy.sh/beatmaps/artists/79), [HyuN - ENCOUNTER](https://osu.ppy.sh/beatmaps/artists/33), and [Cranky - Ran](https://osu.ppy.sh/beatmaps/artists/23) | ![osu!mania][osu!mania] | ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811) and ::{ flag=KR }:: [Kawawa](https://osu.ppy.sh/users/4647754) | *N/A* | ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573) and ::{ flag=CA }:: [BringoBrango](https://osu.ppy.sh/users/10274043) | [#1](https://osu.ppy.sh/home/news/2020-12-01-osu-mapping-olympiad-7-concludes) |
 
-### Community Mapping Contest
+### Community Mapping Contest (Tạm dịch: Cuộc thi Map Cộng đồng)
 
-The **Community Mapping Contest** is a mapping contest where participating mappers are free to submit their entry for any difficulty in any game mode they desire, after which all winning entries across all difficulties and game modes will then be merged together into a single beatmap.
+Cuộc thi **Community Mapping Contest** là một cuộc thi map mà những thành viên tham gia được tự do nộp beatmap với độ khó bất kì và bất kì mode chơi mà họ muốn chọn. Những map giành chiến thắng sau cuộc thi sẽ được gộp vào cùng một beatmap.
 
 | Số của cuộc thi | Bài nhạc | Mode | ![Gold crown][GCrown] (Easy) | ![Gold crown][GCrown] (Normal) | ![Gold crown][GCrown] (Hard) | ![Gold crown][GCrown] (Insane) | ![Gold crown][GCrown] (Extra) | Kết quả |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -100,9 +100,9 @@ The **Community Mapping Contest** is a mapping contest where participating mappe
 
 ### Mapping With Rewards (Tạm dịch: Mapping Có Thưởng)
 
-**Mapping With Rewards** is a mapping contest where participating mappers compete to create the best beatmap (with a proper [difficulty spread](/wiki/Beatmap/Difficulty#difficulty-levels) starting from Easy or Normal onwards) for any of the given songs in each corresponding iteration without strict deadlines.
+**Mapping With Rewards** là một cuộc thi mà những thành viên tham gia tranh đấu phải tạo một bộ beatmap tốt nhất (có [difficulty spread](/wiki/Beatmap/Difficulty#difficulty-levels) hoàn chỉnh, bắt đầu từ Easy đến Normal trở lên) dựa trên bất kì bài nhạc đã được cho trong mỗi mùa giải và không có deadline cứng.
 
-| Contest No. | Song | Mode | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Results |
+| Số của cuộc thi | Bài nhạc | Mode | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Kết quả |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- |
 | [#1.1](https://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015) | [cYsmix - Manic](https://osu.ppy.sh/beatmaps/artists/2) | ![osu!][osu!] | ::{ flag=CA }:: [Monstrata](https://osu.ppy.sh/users/2706438) | *N/A* | *N/A* | [#1](https://osu.ppy.sh/home/news/2016-06-01-mapping-with-rewards-1-bounties-complete) |
 | [#1.2](https://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015) | [cYsmix - Dovregubben's Hall](https://osu.ppy.sh/beatmaps/artists/2) | ![osu!][osu!] | ::{ flag=JP }:: [Guy](https://osu.ppy.sh/users/91738) | *N/A* | *N/A* | [#1](https://osu.ppy.sh/home/news/2016-06-01-mapping-with-rewards-1-bounties-complete) |
@@ -125,9 +125,9 @@ The **Community Mapping Contest** is a mapping contest where participating mappe
 | :-: | :-- | :-- | :-- | :-- | :-- |
 | [1](https://osu.ppy.sh/home/news/2020-11-30-a-labour-of-love) | [Kuba Oms - My Love](https://osu.ppy.sh/beatmaps/artists/13) | extremely valid (::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471), ::{ flag=FR }:: [Shinwoir](https://osu.ppy.sh/users/8984574), ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515), ::{ flag=FR }:: [Realazy](https://osu.ppy.sh/users/918297), and ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334)) | schoolboy fans (::{ flag=RU }:: [Shadren](https://osu.ppy.sh/users/745494), ::{ flag=UA }:: [wajinshu](https://osu.ppy.sh/users/6339790), ::{ flag=RU }:: [Shmiklak](https://osu.ppy.sh/users/5504231), and ::{ flag=RU }:: [Daycore](https://osu.ppy.sh/users/5596337)) | Team Red but Blue (::{ flag=CA }:: [Redside](https://osu.ppy.sh/users/16039046), ::{ flag=US }:: [Tofumang](https://osu.ppy.sh/users/4817223), ::{ flag=CA }:: [Chompy](https://osu.ppy.sh/users/7427035), ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323), and ::{ flag=CA }:: [Zer0-G](https://osu.ppy.sh/users/12577911)) | [#1](https://osu.ppy.sh/home/news/2021-04-27-results-a-labour-of-love) |
 
-### Best of/Community Choice
+### Best of/Community Choice (Tạm dịch: Lựa chọn Cộng đồng)
 
-The **Best of/Community Choice** contest is a public voting contest that is being held annually to determine the most popular beatmaps <!-- https://osu.ppy.sh/home/news/2021-02-05-community-choice-2020-results --> in the eyes of the osu! community at each given year.
+Cuộc thi **Best of/Community Choice** là cuộc thi bình chọn công khai được tổ chức hằng năm để vinh danh những map nổi danhcontest is a public voting contest that is being held annually to determine the most popular beatmaps <!-- https://osu.ppy.sh/home/news/2021-02-05-community-choice-2020-results --> in the eyes of the osu! community at each given year.
 
 At its launch, the contest was named "Best of", as the initial premise and expectation of the contest was to encourage members of the community to vote for what they consider as "the best beatmaps of the year"; however, as the game's playerbase continued to grow in number over time, the contest was inevitably shifting more and more into a popularity contest each year which prompted the contest to be relaunched as "Community Choice" in 2017.
 
