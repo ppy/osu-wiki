@@ -8,11 +8,11 @@ tags:
 
 ![O!MIC 4K 2022 Logo](img/logo.png)
 
-**osu!mania 4K Indonesia Cup 2022** (***O!MIC 4K 2022***) adalah turnamen osu!mania 4K tunggal khusus wilayah Indonesia dengan sistem pertandingan satu lawan satu dengan *Double-Elimination bracket* di *Bracket Stage*. Turnamen ini merupakan iterasi ke-lima dari osu!mania 4K Indonesia Cup.
+**osu!mania 4K Indonesia Cup 2022** (***O!MIC 4K 2022***) merupakan turnamen osu!mania 4K perseorangan khusus wilayah Indonesia yang menganut sistem pertandingan satu lawan satu dengan *bracket* eliminasi ganda (*double elimination*). Turnamen ini merupakan iterasi kelima dari seri osu!mania 4K Indonesia Cup.
 
 ## Jadwal Turnamen
 
-| Event | Waktu Pelaksanaan |
+| Rangkaian Acara | Waktu Pelaksanaan |
 | --: | :-- |
 | Tahap Registrasi | 2022-05-28/2022-06-11 |
 | Penyaringan | 2022-06-11/2022-06-25 |
@@ -26,22 +26,22 @@ tags:
 
 ## Hadiah
 
-| Posisi | Hadiah |
+| Peringkat | Hadiah |
 | :-: | :-- |
-| ![Mahkota Emas](/wiki/shared/crown-gold.png "Posisi pertama") | IDR500,000, profile banner |
-| ![Mahkota Perak](/wiki/shared/crown-silver.png "Posisi kedua") | IDR300,000, profile banner |
-| ![Mahkota Perunggu](/wiki/shared/crown-bronze.png "Posisi ketiga") | IDR100,000, 1 bulan osu!supporter, profile banner |
+| ![Mahkota Emas](/wiki/shared/crown-gold.png "Juara pertama") | 500,000 IDR, *profile banner* |
+| ![Mahkota Perak](/wiki/shared/crown-silver.png "Juara kedua") | 300,000 IDR, *profile banner* |
+| ![Mahkota Perunggu](/wiki/shared/crown-bronze.png "Juara ketiga") | 100,000 IDR, 1 bulan osu!supporter, *profile banner* |
 
 ## Staf Turnamen
 
-O!MIC 4K 2022 dijalankan oleh berbagai member komunitas osu! yang sebagian besar berasal dari Indonesia.
+O!MIC 4K 2022 diselenggarakan oleh berbagai anggota komunitas osu! yang sebagian besar berasal dari Indonesia.
 
 | Posisi | Anggota |
 | :-- | :-- |
 | Penyelenggara | ::{ flag=ID }:: [Reyi](https://osu.ppy.sh/users/13385865), ::{ flag=ID }:: [Antipole](https://osu.ppy.sh/users/17258072) |
 | Pemilih Map | ::{ flag=ID }:: [Antipole](https://osu.ppy.sh/users/17258072), ::{ flag=ID }:: [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ::{ flag=SG }:: [Eliminate 2](https://osu.ppy.sh/users/12297375), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304), ::{ flag=ID }:: [\[GS\]Rei](https://osu.ppy.sh/users/11964257), ::{ flag=GB }:: [TingMomentum](https://osu.ppy.sh/users/12489832) |
 | Pembuat Map | ::{ flag=ID }:: [Ainer](), ::{ flag=ID }:: [Angki](https://osu.ppy.sh/users/9038483), ::{ flag=ID }:: [Antipole](https://osu.ppy.sh/users/17258072), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304), ::{ flag=ID }:: [Reyi](https://osu.ppy.sh/users/13385865), ::{ flag=GB }:: [TingMomentum](https://osu.ppy.sh/users/12489832) |
-| Pencoba Map | ::{ flag=PH }:: [4Kenn](https://osu.ppy.sh/users/20496815), ::{ flag=DE }:: [ERA Punish](https://osu.ppy.sh/users/10615367), ::{ flag=ID }:: [Fyl](https://osu.ppy.sh/users/10069307), ::{ flag=IT }:: [- Pixie -](https://osu.ppy.sh/users/13878539), ::{ flag=PH }:: [Silicosis](https://osu.ppy.sh/users/15548876), ::{ flag=NL }:: [Toxic Scent](https://osu.ppy.sh/users/12599154) |
+| Penguji Map | ::{ flag=PH }:: [4Kenn](https://osu.ppy.sh/users/20496815), ::{ flag=DE }:: [ERA Punish](https://osu.ppy.sh/users/10615367), ::{ flag=ID }:: [Fyl](https://osu.ppy.sh/users/10069307), ::{ flag=IT }:: [- Pixie -](https://osu.ppy.sh/users/13878539), ::{ flag=PH }:: [Silicosis](https://osu.ppy.sh/users/15548876), ::{ flag=NL }:: [Toxic Scent](https://osu.ppy.sh/users/12599154) |
 | Penyiar | ::{ flag=ID }:: [Tix](https://osu.ppy.sh/users/11421465), ::{ flag=ID }:: [zutu](https://osu.ppy.sh/users/11184912) |
 | Wasit | ::{ flag=DZ }:: [Demon-kira](https://osu.ppy.sh/users/20232838), ::{ flag=ID }:: [\[-Elaina-\]](https://osu.ppy.sh/users/12532297), ::{ flag=ID }:: [ElinLYPK](https://osu.ppy.sh/users/5198950), ::{ flag=ID }:: [Kurami\_San](https://osu.ppy.sh/users/8867495), ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515), ::{ flag=IN }:: [shreya7](https://osu.ppy.sh/users/16676388), ::{ flag=CH }:: [Sinsa92](https://osu.ppy.sh/users/13378002) |
 | Komentator | ::{ flag=ID }:: [2ndlegend](https://osu.ppy.sh/users/7621604), ::{ flag=ID }:: [AZKiFanboy](https://osu.ppy.sh/users/5179764), ::{ flag=ID }:: [EstaticStatisIO](https://osu.ppy.sh/users/17237364), ::{ flag=ID }:: [Oofyxl](https://osu.ppy.sh/users/20599160), ::{ flag=ID }:: [RayhanDelanova](https://osu.ppy.sh/users/17898143), ::{ flag=ID }:: [Revv-](https://osu.ppy.sh/users/12424909) |
@@ -62,7 +62,7 @@ O!MIC 4K 2022 dijalankan oleh berbagai member komunitas osu! yang sebagian besar
 
 ### Kualifikasi
 
-Di bawah ini adalah daftar pemain yang lolos ke Babak 32 Besar (bersama dengan seed masing-masing) dari total 46 pemain terdaftar.
+Berikut merupakan daftar pemain yang lolos ke Babak 32 Besar (bersama dengan seed masing-masing) dari total 46 pemain yang terdaftar.
 
 | Seed | Pemain |
 | :-: | :-- |
@@ -87,7 +87,7 @@ Turnamen ini telah berakhir dan menghasilkan podium sebagai berikut:
 
 ### Grand Final
 
-**[Unduh mappack di sini! (262 MB)](https://drive.google.com/file/d/1NbvTw2baYcHsmweM16zx3Gy7UaXHNSE9/view?usp=sharing)**
+**[Unduh mappack babak ini di sini! (262 MB)](https://drive.google.com/file/d/1NbvTw2baYcHsmweM16zx3Gy7UaXHNSE9/view?usp=sharing)**
 
 - FreeMod
   1. [Chroma - Strange Inventor (zero2snow) \[Snowy Blazing's unstable\]](https://osu.ppy.sh/beatmapsets/1130028#mania/2360558)
@@ -110,7 +110,7 @@ Turnamen ini telah berakhir dan menghasilkan podium sebagai berikut:
 
 ### Final
 
-**[Unduh mappack di sini! (180 MB)](https://drive.google.com/file/d/1XyJleO-0y66LczddxLQKnEYWrdWcAdCB/view?usp=sharing)**
+**[Unduh mappack babak ini di sini! (180 MB)](https://drive.google.com/file/d/1XyJleO-0y66LczddxLQKnEYWrdWcAdCB/view?usp=sharing)**
 
 - FreeMod
   1. [Getty - Pump It (-mint-) \[DANGER\]](https://osu.ppy.sh/beatmapsets/1192491#mania/2484929)
@@ -133,7 +133,7 @@ Turnamen ini telah berakhir dan menghasilkan podium sebagai berikut:
 
 ### Semifinal
 
-**[Unduh mappack di sini! (230 MB)](https://drive.google.com/file/d/1ayk2o8zIh-w2cNlHQISKLvQUNjK-8xik/view?usp=sharing)**
+**[Unduh mappack babak ini di sini! (230 MB)](https://drive.google.com/file/d/1ayk2o8zIh-w2cNlHQISKLvQUNjK-8xik/view?usp=sharing)**
 
 - FreeMod
   1. [Sub Urban - Cradles (Revv-) \[Loneliness\]](https://osu.ppy.sh/beatmapsets/1758408#mania/3598564)
@@ -156,7 +156,7 @@ Turnamen ini telah berakhir dan menghasilkan podium sebagai berikut:
 
 ### Perempat Final
 
-**[Unduh mappack di sini! (138 MB)](https://drive.google.com/file/d/1C87RKiei7eMXL6ofd61Y6UcRPiCbaZLW/view?usp=sharing)**
+**[Unduh mappack babak ini di sini! (138 MB)](https://drive.google.com/file/d/1C87RKiei7eMXL6ofd61Y6UcRPiCbaZLW/view?usp=sharing)**
 
 - FreeMod
   1. [A plus B equal to C - Tell Me (The Meaning) (Claren) \[Stage 1: Tell Me (The SVs)\]](https://osu.ppy.sh/beatmapsets/1813400#mania/3720113)
@@ -177,7 +177,7 @@ Turnamen ini telah berakhir dan menghasilkan podium sebagai berikut:
 
 ### Babak 16 Besar
 
-**[Unduh mappack di sini! (130 MB)](https://drive.google.com/file/d/13-AqKXmKrcpFXPku4flGdUWsJmzEgdiX/view?usp=sharing)**
+**[Unduh mappack babak ini di sini! (130 MB)](https://drive.google.com/file/d/13-AqKXmKrcpFXPku4flGdUWsJmzEgdiX/view?usp=sharing)**
 
 - FreeMod
   1. [Anixto - Joker (RuleBlazing) \[Stage 1: Deep Emotion\]](https://osu.ppy.sh/beatmapsets/1278881#mania/2656695)
@@ -196,7 +196,7 @@ Turnamen ini telah berakhir dan menghasilkan podium sebagai berikut:
 
 ### Babak 32 Besar
 
-**[Unduh mappack di sini! (75 MB)](https://drive.google.com/file/d/1cd3Sxe7dBrnfdjPdh55C998aKovuj5LA/view?usp=sharing)**
+**[Unduh mappack babak ini di sini! (75 MB)](https://drive.google.com/file/d/1cd3Sxe7dBrnfdjPdh55C998aKovuj5LA/view?usp=sharing)**
 
 - FreeMod
   1. [Slappy - Hanami (RuleBlazing) \[Edit\]](https://osu.ppy.sh/beatmapsets/1101411#mania/2329945)
@@ -214,7 +214,7 @@ Turnamen ini telah berakhir dan menghasilkan podium sebagai berikut:
 
 ### Kualifikasi
 
-**[Unduh mappack di sini! (21 MB)](https://drive.google.com/file/d/1FbXVE1THzf6MDHeU0uSRJC2X6m9pt-T_/view?usp=sharing)**
+**[Unduh mappack babak ini di sini! (21 MB)](https://drive.google.com/file/d/1FbXVE1THzf6MDHeU0uSRJC2X6m9pt-T_/view?usp=sharing)**
 
 - FreeMod
   1. [LeaF - MARENOL 1mg (Angki) \[Stage 1: Hallucination\]](https://osu.ppy.sh/beatmapsets/1793984#mania/3676731)
@@ -248,7 +248,7 @@ Sabtu, 6 Agustus 2022
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Loser | adihza ::{ flag=ID }:: | -1 | **0** | ::{ flag=ID }:: **Proxae** | [WBD](https://cdn.discordapp.com/attachments/977847617180540959/1005504567523430560/Screenshot_2022-08-06-23-56-01-97.jpg) |
+| Loser | adihza ::{ flag=ID }:: | -1 | **0** | ::{ flag=ID }:: **Proxae** | *win by default* |
 | Loser | **\[Albert\]** ::{ flag=ID }:: | **7** | 1 | ::{ flag=ID }:: Dellia | [#1](https://osu.ppy.sh/community/matches/102861227) |
 
 Minggu, 7 Agustus 2022
@@ -268,14 +268,14 @@ Sabtu, 30 Juli 2022
 | Loser | **Fieristik** ::{ flag=ID }:: | **6** | 5 | ::{ flag=ID }:: Heriza- | [#1](https://osu.ppy.sh/community/matches/102678172) |
 | Loser | **Dellia** ::{ flag=ID }:: | **6** | 1 | ::{ flag=ID }:: haickalmh | [#1](https://osu.ppy.sh/community/matches/102679987) |
 | Loser | Fr05tyGD ::{ flag=ID }:: | 5 | **6** | ::{ flag=ID }:: **Proxae** | [#1](https://osu.ppy.sh/community/matches/102681495) |
-| Winner | **Onta\_Bekasi** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: \[Albert\] | [WBD](https://s3.amazonaws.com/challonge_app/match_attachments/assets/000/735/241/) |
+| Winner | **Onta\_Bekasi** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: \[Albert\] | *win by default* |
 
 Minggu, 31 Juli 2022
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Loser | **Proxae** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: Fieristik | [#1](https://osu.ppy.sh/community/matches/102703284) |
-| Loser | \[ReyZ\] ::{ flag=ID }:: | -1 | **0** | ::{ flag=ID }:: **Dellia** | [WBD](https://cdn.discordapp.com/attachments/977847617180540959/1003276765214556250/unknown.jpeg) |
+| Loser | \[ReyZ\] ::{ flag=ID }:: | -1 | **0** | ::{ flag=ID }:: **Dellia** | *win by default* |
 | Winner | **RetroEX** ::{ flag=ID }:: | **6** | 4 | ::{ flag=ID }:: adihza | [#1](https://osu.ppy.sh/community/matches/102708382), [#2](https://osu.ppy.sh/community/matches/102709883) |
 
 ### Perempat Final
@@ -285,7 +285,7 @@ Sabtu, 23 Juli 2022
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Loser | **Heriza-** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: spectator\_boi | [#1](https://osu.ppy.sh/community/matches/102490638) |
-| Loser | **LuxSayaka** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: HorizonID | [WBD](https://osu.ppy.sh/community/matches/102491954) |
+| Loser | **LuxSayaka** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: HorizonID | *win by default* |
 | Loser | **TheLegend3RD** ::{ flag=ID }:: | **6** | 1 | ::{ flag=ID }:: Lordkolp | [#1](https://osu.ppy.sh/community/matches/102492374) |
 | Loser | AZKiFanboy ::{ flag=ID }:: | 1 | **6** | ::{ flag=ID }:: **Proxae** | [#1](https://osu.ppy.sh/community/matches/102494121) |
 | Loser | **HEAL\_69** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: Dogethedoge25 | [WBD](https://osu.ppy.sh/community/matches/102495557) |
@@ -368,7 +368,7 @@ Minggu, 10 Juli 2022
 - Peserta mendaftarkan diri di link yang telah disediakan.
 - Flag pada akun osu! setiap peserta adalah **Indonesia**.
 - Ranking terendah untuk turnamen ini adalah **#5000 4K Global**.
-- Para panitia tidak berhak untuk menjadi peserta di turnamen ini, kecuali panitia yang berada di posisi :
+- Seluruh panitia tidak berhak untuk ikut serta menjadi pemain pada turnamen ini, kecuali para panitia yang berada di posisi:
   - Penyiar
   - Komentator
   - Desainer
@@ -378,12 +378,12 @@ Minggu, 10 Juli 2022
 
 - Pertandingan akan dilaksanakan setiap hari Sabtu dan Minggu.
 - Sistem skor untuk turnamen ini adalah Score V2.
-- Mappools tiap ronde akan **diumumkan oleh panitia** setiap hari minggu setelah ronde sebelumnya selesai.
+- Mappool untuk masing-masing babak akan **diumumkan oleh panitia** setiap hari Minggu setelah babak sebelumnya usai.
 - Para pemain diharapkan untuk **mengunduh semua map** pada mappool sebelum pertandingan dimulai.
 - Jika tidak ada wasit saat waktu pertandingan, mohon untuk infokan ke **Panitia Penyelenggara**.
 - Peserta diharapkan **hadir tepat waktu** sesuai jadwal yang telah ditentukan.
 - Panitia hanya bisa memberi waktu keterlambatan selama **10 menit**.
-- Apabila pemain memiliki gangguan koneksi sampai keluar dari pertandingan, maka keputusan selanjutnya **dipegang oleh wasit** dan sifat nya adalah **tetap**.
+- Apabila pemain memiliki gangguan koneksi sampai keluar dari pertandingan, maka keputusan ke depannya akan **dikembalikan kepada wasit** yang sifatnya adalah **mutlak**.
 - Pemain wajib mengikuti [peraturan](/wiki/Rules) yang sudah ditetapkan oleh permainan ini.
 
 ### Regulasi Pertandingan
@@ -392,7 +392,7 @@ Minggu, 10 Juli 2022
 - Tiap lobby berisikan maksimal 8 pemain pada babak kualifikasi.
 - Pemain diperbolehkan memakai visual mod seperti Hidden (HD), Flashlight (FL), Fade In (FI), dan Mirror.
 - Pemain akan memainkan 2 map untuk warm-up yang dipilih oleh pemain berdasarkan roll tertinggi.
-- **Babak Kualifikasi**
+#### Babak Kualifikasi
   - Jumlah pemain maksimal untuk memasuki babak selanjutnya adalah 32.
   - Pada babak kualifikasi akan ada 5 map dalam mappool yang memiliki skillset yang berbeda-beda, semua map tersebut akan dibuat oleh para map selector.
   - Semua pemain akan memiliki 2 kesempatan untuk bermain di tiap map, yang berarti total lagu yang dimainkan adalah 10.
@@ -404,17 +404,17 @@ Minggu, 10 Juli 2022
     - 9 - 16: High Seed
     - 17 - 24: Medium Seed
     - 25 - 32: Low Seed
-- **Aturan teknis pertandingan (Ro32 s/d Grand Final)**
-  - Jika salah satu pemain tidak hadir, maka pemain yang hadir dalam pertandingan berlangsung akan **menang secara otomatis (Win by Default)**.
+#### Babak 32 Besar hingga Grand Final
+  - Jika salah satu pemain tidak hadir, maka pemain yang hadir dalam pertandingan akan dinyatakan **menang secara otomatis (*win by default*)**.
     - Sebelum pertandingan dimulai, pemain melakukan roll terlebih dahulu. Pemain yang menang dalam roll dapat memilih **untuk melakukan protect atau ban** terlebih dahulu dan disusul oleh pemain yang kalah dalam roll. Setelah kedua pemain telah menentukan map yang di-protect dan di-ban, pemain akan memilih **map yang akan dimainkan**.
     - Jika kedua pemain mendapatkan skor yang sama, maka **pertandingan akan diulang dengan memakai map yang sama**.
     - Map Tiebreaker dimainkan ketika kedua pemain mendapatkan poin selisih satu dengan poin kemenangan yang **seharusnya didapat** untuk **memenangkan pertandingan**.
-- **Format Mappools dari Babak 32 Besar**
+- Komposisi mappool untuk masing-masing babak pada fase gugur adalah sebagai berikut:
   - 32 Besar : Best of 7 (Total 10 Map, 1 TieBreak)
   - 16 Besar : Best of 9 (Total 11 Map, 1 TieBreak)
   - Perempat Final : Best of 11 (Total 13 Map, 1 TieBreak)
   - Semifinal : Best of 11 (Total 15 Map, 1 TieBreak)
   - Final - Grand Final : Best of 13 (Total 15 Map, 1 TieBreak)
-- Dimulai dari Bracket Stage, akan diberlakukannya sistem **Double-elimination**. Double-elimination adalah sistem pertandingan yang setiap orang memiliki 2 kesempatan, dengan contoh :
+- Dimulai dari Bracket Stage, sistem **eliminasi ganda (*double elimination*)** akan diberlakukan. Sistem ini memberikan masing-masing pemain 2 kesempatan untuk bertanding, dengan gambaran sebagai berikut:
   - Pemain A mengalahkan pemain B. Pemain A akan lanjut ke babak berikutnya, dan juga pemain B. Tetapi pemain B akan masuk ke loser bracket (bracket khusus pemain yang sudah mendapatkan **kekalahan satu kali**).
   - Jika pemain B kalah kembali di loser bracket, maka pemain B akan **gugur dalam turnamen**.
