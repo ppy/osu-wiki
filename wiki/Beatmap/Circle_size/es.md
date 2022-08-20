@@ -2,7 +2,6 @@
 tags:
   - CS
   - key count
-  - no_native_review: true
 ---
 
 # Tamaño del circulo
