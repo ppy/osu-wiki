@@ -60,8 +60,6 @@ O!MIC 4K 2022 diselenggarakan oleh berbagai anggota komunitas osu! yang sebagian
 
 ## Daftar Peserta
 
-### Kualifikasi
-
 Berikut merupakan daftar pemain yang lolos ke Babak 32 Besar (bersama dengan seed masing-masing) dari total 46 pemain yang terdaftar.
 
 | Seed | Pemain |
@@ -362,7 +360,9 @@ Minggu, 10 Juli 2022
 | Winner | **HEAL\_69** ::{ flag=ID }:: | **4** | 2 | ::{ flag=ID }:: Proxae | [#1](https://osu.ppy.sh/community/matches/102156827) |
 | Winner | **\[Albert\]** ::{ flag=ID }:: | **4** | 1 | ::{ flag=ID }:: \[ Albedo \] | [#1](https://osu.ppy.sh/community/matches/102156682) |
 
-## Peraturan Umum
+## Peraturan
+
+### Ketentuan Pendaftaran
 
 - Jumlah peserta tidak terbatas.
 - Peserta mendaftarkan diri di link yang telah disediakan.
@@ -374,7 +374,7 @@ Minggu, 10 Juli 2022
   - Desainer
 - Setiap peserta yang mendaftar akan melalui sesi [Tournament Screening](/wiki/Tournaments/Official_support#tournament-screening).
 
-### Peraturan Turnamen
+### Peraturan Umum
 
 - Pertandingan akan dilaksanakan setiap hari Sabtu dan Minggu.
 - Sistem skor untuk turnamen ini adalah Score V2.
@@ -392,7 +392,9 @@ Minggu, 10 Juli 2022
 - Tiap lobby berisikan maksimal 8 pemain pada babak kualifikasi.
 - Pemain diperbolehkan memakai visual mod seperti Hidden (HD), Flashlight (FL), Fade In (FI), dan Mirror.
 - Pemain akan memainkan 2 map untuk warm-up yang dipilih oleh pemain berdasarkan roll tertinggi.
+
 #### Babak Kualifikasi
+
   - Jumlah pemain maksimal untuk memasuki babak selanjutnya adalah 32.
   - Pada babak kualifikasi akan ada 5 map dalam mappool yang memiliki skillset yang berbeda-beda, semua map tersebut akan dibuat oleh para map selector.
   - Semua pemain akan memiliki 2 kesempatan untuk bermain di tiap map, yang berarti total lagu yang dimainkan adalah 10.
@@ -404,7 +406,9 @@ Minggu, 10 Juli 2022
     - 9 - 16: High Seed
     - 17 - 24: Medium Seed
     - 25 - 32: Low Seed
+
 #### Babak 32 Besar hingga Grand Final
+
   - Jika salah satu pemain tidak hadir, maka pemain yang hadir dalam pertandingan akan dinyatakan **menang secara otomatis (*win by default*)**.
     - Sebelum pertandingan dimulai, pemain melakukan roll terlebih dahulu. Pemain yang menang dalam roll dapat memilih **untuk melakukan protect atau ban** terlebih dahulu dan disusul oleh pemain yang kalah dalam roll. Setelah kedua pemain telah menentukan map yang di-protect dan di-ban, pemain akan memilih **map yang akan dimainkan**.
     - Jika kedua pemain mendapatkan skor yang sama, maka **pertandingan akan diulang dengan memakai map yang sama**.
