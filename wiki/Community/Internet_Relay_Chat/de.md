@@ -1,8 +1,3 @@
----
-outdated_since: cf0ddf848ad418ee3a61282b7e83aa437082021d
-outdated_translation: true
----
-
 # Internet Relay Chat
 
 *Für mehr Informationen, siehe: [Internet Relay Chat (Wikipedia)](https://de.wikipedia.org/wiki/Internet_Relay_Chat)*
@@ -49,6 +44,7 @@ Normalerweise informieren dich viele IRC-Clients, sobald ein Benutzer einen Chan
 | [ircII](http://www.eterna.com.au/ircii/) | Gebe `IGNORE * CRAP` ein |
 | [Irssi](https://irssi.org) | Tippe `/ignore * JOINS PARTS QUITS` ein |
 | [Weechat](https://weechat.org/) | Gebe `/filter add joinquit * irc_join,irc_part,irc_quit *` ein |
+| [Konversation](https://konversation.kde.org/) | Setze einen Haken bei "Hide Join/Part/Nick Events" unter `Settings` -> `Configure Konversation...` (`Strg` + `Shift` + `,`) -> `Behavior` -> `Chat Window` |
 | [KVIrc](https://www.kvirc.net/) | (Beziehe dich auf [die KVIrc Wikiseite](https://github.com/kvirc/KVIrc/wiki/FAQ#how-do-i-suppress-join-part-and-quit-messages)) |
 | [mIRC](https://www.mirc.com/) | Gehe zu den mIRC Optionen (`Tools` -> `Options`, oder `Alt` + `O`), wähle `IRC` aus, klicke den Button `Events...`  und selektiere `Hide` für Joins und Parts |
 | [Quassel IRC](https://quassel-irc.org/) | Rechtsklicke im Chat und wähle Joins/Parts/Quits im "Hide Events" Menü |

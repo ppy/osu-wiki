@@ -72,7 +72,7 @@ osu!direct ist das Such- und Downloadmodul für Beatmaps im Spiel, welches nur f
 
 ### Erweiterte Ranglisten
 
-Unterstützer haben Zugriff auf mehrere beatmapspezifische [Ranglisten](/wiki/Beatmap#leaderboards), die sowohl im Spiel als auch auf der Webseite verfügbar sind:
+Unterstützer haben Zugriff auf mehrere beatmapspezifische [Ranglisten](/wiki/Beatmap#ranglisten), die sowohl im Spiel als auch auf der Webseite verfügbar sind:
 
 - Globale Ranglisten für jede Kombination an [Spielmodifikationen](/wiki/Gameplay/Game_modifier)
 - Länderspezifische Ranglisten von Spielern, die die gleiche Flagge tragen
@@ -84,7 +84,7 @@ osu! bietet eine Lockerung der Grenzwerte für verschiedene Online-Features für
 
 | Wert | Normales Limit | osu!supporter-Limit |
 | :-- | :-: | :-: |
-| [Ausstehende Beatmaps](/wiki/Beatmap/Category#work-in-progress-and-pending) | `2 + min(gerankte Beatmaps, 6)`, bis zu **8**[^pending-beatmaps-ref] | `8 + min(gerankte Beatmaps, 12)`, bis zu **20**[^pending-beatmaps-ref] |
+| [Ausstehende Beatmaps](/wiki/Beatmap/Category#work-in-progress-und-ausstehend) | `2 + min(gerankte Beatmaps, 6)`, bis zu **8**[^pending-beatmaps-ref] | `8 + min(gerankte Beatmaps, 12)`, bis zu **20**[^pending-beatmaps-ref] |
 | Online-Beatmap-Favoriten | 100 | 1000 |
 | Anzahl der Freunde | 250 | 500 |
 
