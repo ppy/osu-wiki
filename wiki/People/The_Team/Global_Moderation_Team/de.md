@@ -17,7 +17,7 @@ tags:
 
 ## Rollen und Verantwortlichkeiten
 
-***Tipp: Um das Fehlverhalten eines Moderators zu melden, kontaktiere das [Account-Support-Team](/wiki/People/The_Team/Account_support_team#support@ppy.sh).***\
+***Anmerkung: Um das Fehlverhalten eines Moderators zu melden, kontaktiere das [Account-Support-Team](/wiki/People/The_Team/Account_support_team#support@ppy.sh).***\
 *Siehe auch: [Melden von schlechtem Verhalten](/wiki/Reporting_bad_behaviour)*
 
 Das globale Moderationsteam ist für das Wohlergehen der Chats/Foren zuständig und kümmern sich um reibungslose Interaktionen innerhalb der Community. Du solltest dich an sie wenden, wenn du Fragen im Bezug auf die Moderationsaspekte des Spiels hast, das würde auch (aber nicht beschränkt auf) miteinbeziehen:
@@ -51,7 +51,7 @@ Generell wird das Team Menschen über mehrere Wochen oder Monate hinweg beobacht
 
 ## Teammitglieder
 
-*Tipp: Alle GMTs sprechen Englisch, außer es wurde zusätzlich vermerkt.*
+*Anmerkung: Alle GMTs sprechen Englisch, außer es wurde zusätzlich vermerkt.*
 
 Die [Seite für das globale Moderationsteam](https://osu.ppy.sh/groups/4) listet alle Teammitglieder auf. Zusätzlich zu den unten genannten Bereichen nehmen alle Mitglieder des GMTs teil an der [Bewertung des visuellen und auditiven Inhalts in Beatmaps](/wiki/Rules/Visual_Content_Considerations#dein-bild-bewerten-lassen).
 
