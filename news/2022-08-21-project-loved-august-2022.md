@@ -172,10 +172,10 @@ This map represents the song's nature in the best way possible, using SV gimmick
 
 How to become like syaron105, the current #1? It might sound too hard, but don't worry! Here are two simple steps of how to become like syaron105. Follow those steps with this beatmap, katagiri - Code Name: Bravo made by syaron105!
 
-1. Speed up your hand enough to handle 250 BPM, 1/6 & 1/8 tech stream.\
+1. Speed up your hand enough to handle 250 BPM, 1/6 & 1/8 tech stream.
 Being able to hit this complex chart at this speed is a very basic skill of becoming like him. For your training, this beatmap features various kinds of tech patterns in 250 BPM, everywhere!
+2. Build the stamina to handle them without any break time.
 
-2. Build the stamina to handle them without any break time.\
 Just hitting the pattern once never proves you can surely handle it. There can be numerous times you should deal with these brutal patterns constantly. This beatmap, kindly just didn't put any single break for your solid training.
 
 Following these simple steps along with this beatmap, You'll become just like him very soon! Imagine those scrublords you will step and stand on! Isn't it fantastic? Good luck with your great journey of becoming like syaron105!
@@ -342,7 +342,7 @@ If you love Touhou arranges, noodles, or your friends, you should definitely che
 
 From [everyone working on Project Loved](https://loved.sh/team), we hope you enjoyed this month's selection, and are looking forward to the next! The favoured beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) shortly after the polls end. So don't forget to stay hydrated and vote on your favorite beatmaps in order for that to happen!
 
-More info about Project Loved can be found on its [wiki page](https://osu.ppy.sh/wiki/Community/Project_Loved) and [website](https://loved.sh/). Stop by the `#osu-loved` channel of the [osu!dev Discord server](https://discord.gg/ppy) if you have any questions, concerns, or are interested in helping out.
+More info about Project Loved can be found on its [wiki page](/wiki/Community/Project_Loved) and [website](https://loved.sh/). Stop by the `#osu-loved` channel of the [osu!dev Discord server](https://discord.gg/ppy) if you have any questions, concerns, or are interested in helping out.
 
 See you next month!
 
