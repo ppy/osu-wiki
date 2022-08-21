@@ -6,7 +6,7 @@ Phần này được dùng riêng để đề cập những cuộc thi được 
 
 ## Cuộc thi chính thức
 
-Những cuộc thi chính thức được đội ngũ [osu! team](wiki/People/The_Team) đứng ra tổ chức hoặc công nhận chính thức. Đa số những cuộc thi này có trang riêng của nó trong [danh sách cuộc thi](https://osu.ppy.sh/community/contests).
+Những cuộc thi chính thức được đội ngũ [osu! team](/wiki/People/The_Team) đứng ra tổ chức hoặc công nhận chính thức. Đa số những cuộc thi này có trang riêng của nó trong [danh sách cuộc thi](https://osu.ppy.sh/community/contests).
 
 ### Monthly Beatmapping Contest (Tạm dịch: Cuộc thi Beatmapping theo tháng)
 
