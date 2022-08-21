@@ -165,7 +165,7 @@ The osu!mania 4K World Cup 2022 is run by the [osu! team](/wiki/People/The_Team)
   2. [penoreri - Desperado Waltz (guden) \[Skogarmaor\]](https://osu.ppy.sh/beatmapsets/1743589#mania/3564434)
   3. [ETIA. - Daisycutter (lemonguy) \[Firestorm x1.1\]](https://osu.ppy.sh/beatmapsets/1307846#mania/3117228)
 - SV
-  1. [nitro - \[line:zeta\] (AlexDunk) \[r :ockthisbase :NoSV\]](https://osu.ppy.sh/beatmapsets/1833518#mania/3764151)
+  1. [nitro - \[line:zeta\] (AlexDunk) \[:rockthisbase:\]](https://osu.ppy.sh/beatmapsets/1833518#mania/3764152)
   2. [LeaF - MARENOL (notapplicable) \[OVERDOSE\]](https://osu.ppy.sh/beatmapsets/1833541#mania/3764191)
 - Tiebreaker
   1. **[Camellia - Qyoh (Nine Stars) (guden) \[guden vs. mint's Luminosity\]](https://osu.ppy.sh/beatmapsets/1833301#mania/3763646)**
