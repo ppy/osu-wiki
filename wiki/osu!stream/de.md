@@ -60,7 +60,7 @@ Die Entwicklung für diese Version endete in 2020. Für mehr Informationen lies 
 
 ### Neues Spielsystem
 
-**Tipp:** Teste die neuen Spielelemente im "Tutorial" Bildschirm.
+**Anmerkung:** Teste die neuen Spielelemente im "Tutorial" Bildschirm.
 
 #### Fingerführungsanzeige
 
