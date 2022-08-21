@@ -20,26 +20,39 @@ If you happened to miss out on last month's article then please check it out her
 - [Community Recap](#community-recap)
 - [Did you know?](#did-you-know)
 - [Monthly community quiz](#monthly-community-quiz)
+- [Upcoming](#things-to-look-out-for-in-september)
 - [End word](#end-word)
 
 ## What's new in osu!(lazer)
-As per usual lazer has been having weekly updates pushed to it, with full coverage provided on the official osu! [YouTube channel](https://www.youtube.com/c/osugame). One of the updates include changes to the slider animations for osu!, which will now match the stable version of the game and hopefully remove the "weird feeling" players have reported when playing lazer.
+As per usual lazer has been having weekly updates pushed to it, with full coverage provided on the official osu! [YouTube channel](https://www.youtube.com/c/osugame). One of the updates include changes to the slider animations for osu!, which will now match the stable version of the game and hopefully remove the "weird feeling" players have reported when playing lazer. Furthermore, more features and fixes have been added into the editor, which will make mappers' lives easier as [Olibomby](https://osu.ppy.sh/users/6573093) is implementing the features from [Mapping Tools](https://osu.ppy.sh/community/forums/topics/940368?n=1) into lazer!
 
-Another great update that has been released this month is the optimization work that’s been done in order to provide the best osu! experience on a wider range of systems.
-
-![](/wiki/shared/news/2022-08-31-lazer-sound-design/banner.jpg)
+Last, but not least, the global bindings have been reorganized for easier navigation and a lot of optimization work was done for lazer in order to provide the best osu! experience on a wider range of systems.
 
 If you missed it, a post covering the work that went into the sound design of osu!(lazer) was [released on the osu! website](https://osu.ppy.sh/home/news/2022-08-31-the-sound-design-of-lazer)!
 The post goes in-depth about the design process of sound effects for lazer and includes snippets of an interview with [nekodex](https://osu.ppy.sh/users/102), the mastermind behind it all!
 
 Boo, it’s another lazer feature showcase!
-Some people say humans can only see up to 60 hz, well now you can test that yourself with the brand new **latency certifier!** Test your skills and see up to what refresh rate you can spot the difference by opening the settings and pressing on “Run latency certifier” (`General` > `Debug` > `Run latency certifier`). Feel free to let us know how far you got below, or if you are lazy you can just watch [Willy](https://osu.ppy.sh/users/3521482), an osu! content creator perform the test themselves!
+Some people say humans can only see up to 60 hz, well now you can test that yourself with the brand new latency certifier! Test your skills and see up to what refresh rate you can spot the difference by opening the settings and pressing on “Run latency certifier” (`General` > `Debug` > `Run latency certifier`). Feel free to let us know how far you got below, or if you are lazy you can just watch [Willy](https://osu.ppy.sh/users/3521482), an osu! content creator perform the test themselves!
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/g6wKMiCwSC8" frameborder="0" allowfullscreen></iframe>
 
-If you are interested in all previous and future patch notes, you can find them here (or just click on `Home` > `Changelog` on the top-left corner of the site), or if you just want to listen to [pishifat's](https://osu.ppy.sh/users/3178418) soothing voice speaking about lazer, you can now do that from the [new osu!(lazer) updates playlist](https://www.youtube.com/playlist?list=PLmWVQsxi34bMTmgpDArfxJ32Q0mBLhcE-).
+If you are interested in all previous and future patch notes, you can find them here (or just click on `Home` > `Changelog` on the top-left corner of the site), or if you just want to listen to [pishifat]'s(https://osu.ppy.sh/users/3178418) soothing voice speaking about lazer, you can now do that from the new [osu!(lazer) updates playlist](https://www.youtube.com/playlist?list=PLmWVQsxi34bMTmgpDArfxJ32Q0mBLhcE-).
 
 ## Community Recap
+
+![](/wiki/shared/news/2022-09-01-osumonthly-2/coebanner.jpg)
+
+cavoe's osu! event (or COE for short) is an annual osu! convention that perfectly embodies the spirit of osu!. It is a joyous celebration for our beloved community, run by that very same community. Conceived from humble beginnings in 2017 by none other than [cavoeboy](https://osu.ppy.sh/users/7361815) himself, it has since grown and expanded to become the international phenomenon that we know and love today.
+
+COE 2022 took place at the Brabanthallen from Aug 1st - 7th, organised by [Meyer](https://osu.ppy.sh/users/5452367), cavoeboy and their incredible team of volunteer staff. Despite its return following a two year hiatus, COE 2022 saw a record-breaking 750+ attendees, attracting users from almost every continent (we'll get you next time, Antarctica). The passage of time did not go unnoticed, and a common sentiment from returning attendees was how much they "missed being here again".
+
+Featuring over 30 hours of live stage events, COE 2022 was certainly ambitious in both range and scale. The immensely popular COE 1v1 tournament made its return, with [okinamo](https://osu.ppy.sh/users/3765989) being crowned the champion. In addition, COE 2022 continued to feature a large variety of Q&A panels, including a hugely technical dev talk hosted by [ThePooN](https://osu.ppy.sh/users/718454) and [peppy](https://osu.ppy.sh/users/2). Group activities such as Efteling and all-you-can-eat sushi were returning favourites, alongside newer entries such as Survivor and [Sotarks](https://osu.ppy.sh/users/4452992)' Blind Music Quiz.
+
+Of course, COE 2022 would not be complete without the collaborations of its supporting Partners. Make Some Noise's (MSN) home arcade setup and [wooz](https://osu.ppy.sh/users/6888206)'s arcade (WoozPC) added an impressive catalogue of music rhythm games available to experience at the venue. [Senzeeh](https://osu.ppy.sh/users/2489813)'s Yuki Aim also made an appearance, offering players a chance to win unique merchandise by completing difficult aim-based challenges. 
+
+For a more grounded coverage of this exciting week, experience the event through BTMC's video <pending>
+
+A huge thank you to Meyer for taking charge of organisation this year, alongside all other contributors that helped make this event a success.
 
 ![](https://assets.ppy.sh/contests/153/header.jpg?1)
 
@@ -51,7 +64,7 @@ By the time this monthly is released submissions will have been closed but we sh
 
 You might have already seen people with similar profile pictures and banners, as it is quite common within the osu! community to have collabs between players, but have you ever seen a collab with more than a thousand participants? This is the crazy goal that [XegC](https://osu.ppy.sh/users/8143504) and his team have given to themselves, now entering their 7th edition since the inception of the [Endless Mirage Megacollab](https://osu.ppy.sh/community/forums/topics/1619690?n=1)! Last time they managed to gather [3370 players](https://www.reddit.com/r/osugame/comments/qgig4i/our_6th_avatar_megacollab_is_done_with_3370_users/), and they are aiming even higher this time.
 
-If you are interested in participating, feel free to join the [Endless Mirage Discord](https://discord.gg/XXtZCZw4M6) and grab yourself a free profile picture, forum & userpage banners!
+Entries have unfortunately closed on the 30th, but if you are interested in participating in the next edition feel free to join the [Endless Mirage Discord](https://discord.gg/XXtZCZw4M6) and grab yourself a free profile picture, forum & userpage banners!
 
 
 Scores for all gamemodes + events go here
@@ -65,10 +78,20 @@ osu! did not support any keyboard inputs when it was released, it was only after
 
 ## Monthly community quiz
 
+TBD
+
+## Things to look out for in September
+
+- If you are a fan of doujin music, check out the [Taishi Appreciation Team Beatmapping Contest (TATBC) 2022](https://osu.ppy.sh/community/forums/topics/1631506?n=1) hosted by [-Tochi](https://osu.ppy.sh/users/3664366) and [Lince Cosmico](https://osu.ppy.sh/users/6070370). The songs to be used for the mapping competition were recently announced so you will have all the time you need into the mapping groove.
+- Submissions for the [osu! Featured Artist Mapping Contest (FAMC) 2022](https://osu.ppy.sh/community/forums/topics/1619393?n=1) hosted by [Mafumafu](https://osu.ppy.sh/users/3076909) and [pishifat](https://osu.ppy.sh/users/3178418) are open until the 25th of September, so as they say, better late than never!
+- The [15th Anniversary Art Contest](https://osu.ppy.sh/home/news/2022-08-15-15-anniversary-art-contest) has just closed its submissions, we should consequently see the votes coming in very soon. So if you have just five minutes, don't forget to cast your votes!
+- osu!'s most recent skinning competition, [Chromatic Alteration](https://osu.ppy.sh/home/news/2022-07-18-skinning-contest-chromatic-alteration-announcement) has just entered it's voting phase, take a look at all the wonderful creations and support them with your votes!
+- [VINXIS](https://osu.ppy.sh/users/4323406)' [Corsace Open](https://open.corsace.io/) osu! tournament is well underway, considered by the community as one of the best tournaments of the year we highly recommend you check it out!
+
 ## End word
 
 As always, this project cannot be done without the many contributors that help us find scores, community content, and even help out with reviewing and making sure this gets completed on time. You all are numerous in size but your contributions are of no small matter. Thank you many a times over. 
 
 As said previously, if you'd like to help out please don't be hesitant to DM any one of us or message in the osu!dev discord. 
 
-—0x84f, Blushing, Pisapou
+—0x84f, Blushing, Mangomizer, Pisapou
