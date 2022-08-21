@@ -69,18 +69,16 @@ Berikut merupakan daftar pemain yang lolos ke Babak 32 Besar (bersama dengan see
 | Mid | ::{ flag=ID }:: [Heriza-](https://osu.ppy.sh/users/8911771), ::{ flag=ID }:: [Proxae](https://osu.ppy.sh/users/8410575), ::{ flag=ID }:: [CrossModic](https://osu.ppy.sh/users/25253022), ::{ flag=ID }:: [EVIRE-](https://osu.ppy.sh/users/11405908), ::{ flag=ID }:: [AzusaNakano2](https://osu.ppy.sh/users/9821346), ::{ flag=ID }:: [spectator\_boi](https://osu.ppy.sh/users/17400577), ::{ flag=ID }:: [KinoJourney](https://osu.ppy.sh/users/15798093), ::{ flag=ID }:: [LuxSayaka](https://osu.ppy.sh/users/8382579) |
 | Low | ::{ flag=ID }:: [danar mw](https://osu.ppy.sh/users/13859109), ::{ flag=ID }:: [Lordkolp](https://osu.ppy.sh/users/19330937), ::{ flag=ID }:: [\[ Albedo \]](https://osu.ppy.sh/users/14584195), ::{ flag=ID }:: [Dogethedoge25](https://osu.ppy.sh/users/15597315), ::{ flag=ID }:: [MzLord](https://osu.ppy.sh/users/14659672), ::{ flag=ID }:: [HorizonID](https://osu.ppy.sh/users/15881992), ::{ flag=ID }:: [KyoukaRy](https://osu.ppy.sh/users/13403380), ::{ flag=ID }:: [Yururu](https://osu.ppy.sh/users/4932319) |
 
-<!---
 ## Podium
 
 Turnamen ini telah berakhir dan menghasilkan podium sebagai berikut:
 
-| Posisi | Pemain |
+| Peringkat | Pemain |
 | :-: | :-- |
-| ![Mahkota Emas](/wiki/shared/crown-gold.png "Posisi pertama") | TBD |
-| ![Mahkota Perak](/wiki/shared/crown-silver.png "Posisi kedua") | TBD |
-| ![Mahkota Perunggu](/wiki/shared/crown-bronze.png "Posisi ketiga") | TBD |
+| ![Mahkota Emas](/wiki/shared/crown-gold.png "Juara pertama") | ::{ flag=ID }:: [RetroEX](https://osu.ppy.sh/users/10540515) |
+| ![Mahkota Perak](/wiki/shared/crown-silver.png "Juara kedua") | ::{ flag=ID }:: [\[Albert\]](https://osu.ppy.sh/users/12689667) |
+| ![Mahkota Perunggu](/wiki/shared/crown-bronze.png "Juara ketiga") | ::{ flag=ID }:: [Onta\_Bekasi](https://osu.ppy.sh/users/8677684) |
 
---->
 ## Mappool
 
 ### Grand Final
@@ -223,23 +221,21 @@ Turnamen ini telah berakhir dan menghasilkan podium sebagai berikut:
 
 ## Hasil Pertandingan
 
-<!---
 ### Grand Final
 
 Sabtu, 20 Agustus 2022
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Loser Final | Onta\_Bekasi ::{ flag=ID }:: | 0 | 0 | ::{ flag=ID }:: \[Albert\] | []() |
+| Loser Final | Onta\_Bekasi ::{ flag=ID }:: | 0 | **7** | ::{ flag=ID }:: **\[Albert\]** | [#1](https://osu.ppy.sh/community/matches/103203535) |
 
 Minggu, 21 Agustus 2022
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Grand Final | RetroEX ::{ flag=ID }:: | 0 | 0 | ::{ flag=ID }:: Winner of 61 | []() |
-| Bracket Reset | Winner of 62 ::{ flag=ID }:: | 0 | 0 | ::{ flag=ID }:: Loser of 62 | []() |
+| Grand Final | RetroEX ::{ flag=ID }:: | 1 | **7** | ::{ flag=ID }:: **\[Albert\]** | [#1](https://osu.ppy.sh/community/matches/103225169) |
+| Bracket Reset | **\[Albert\]** ::{ flag=ID }:: | **7** | 1 | ::{ flag=ID }:: RetroEX | [#1](https://osu.ppy.sh/community/matches/103230619) |
 
---->
 ### Final
 
 Sabtu, 6 Agustus 2022
@@ -286,10 +282,10 @@ Sabtu, 23 Juli 2022
 | Loser | **LuxSayaka** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: HorizonID | *win by default* |
 | Loser | **TheLegend3RD** ::{ flag=ID }:: | **6** | 1 | ::{ flag=ID }:: Lordkolp | [#1](https://osu.ppy.sh/community/matches/102492374) |
 | Loser | AZKiFanboy ::{ flag=ID }:: | 1 | **6** | ::{ flag=ID }:: **Proxae** | [#1](https://osu.ppy.sh/community/matches/102494121) |
-| Loser | **HEAL\_69** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: Dogethedoge25 | [WBD](https://osu.ppy.sh/community/matches/102495557) |
-| Loser | **haickalmh** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: MzLord | [WBD](https://cdn.discordapp.com/attachments/977847617180540959/1000572708658106368/IMG_20220724_081754.jpg) |
+| Loser | **HEAL\_69** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: Dogethedoge25 | *win by default* |
+| Loser | **haickalmh** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: MzLord | *win by default* |
 | Winner | Fr05tyGD ::{ flag=ID }:: | 3 | **6** | ::{ flag=ID }:: **\[Albert\]** | [#1](https://osu.ppy.sh/community/matches/102497544) |
-| Loser | **-Yubi-** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: Tsurumaki\_ | [WBD](https://cdn.discordapp.com/attachments/977847617180540959/1000568131938439168/Screenshot_2022-07-24-07-59-55-22.png) |
+| Loser | **-Yubi-** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: Tsurumaki\_ | *win by default* |
 
 Minggu, 24 Juli 2022
 
@@ -311,25 +307,25 @@ Sabtu, 16 Juli 2022
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Loser | Yururu ::{ flag=ID }:: | 0 | **5** | ::{ flag=ID }:: **Tsurumaki\_** | [#1](https://osu.ppy.sh/community/matches/102307346) |
-| Loser | **danar mw** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: Revv- | [WBD](https://s3.amazonaws.com/challonge_app/match_attachments/assets/000/732/156/) |
-| Loser | **MzLord** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: EVIRE- | [WBD](https://osu.ppy.sh/community/matches/102308917) |
+| Loser | **danar mw** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: Revv- | *win by default* |
+| Loser | **MzLord** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: EVIRE- | *win by default* |
 | Loser | KyoukaRy ::{ flag=ID }:: | 1 | **5** | ::{ flag=ID }:: **Proxae** | [#1](https://osu.ppy.sh/community/matches/102311473) |
 | Loser | **Lordkolp** ::{ flag=ID }:: | **5** | 2 | ::{ flag=ID }:: KinoJourney | [#1](https://osu.ppy.sh/community/matches/102312463) |
-| Loser | **HorizonID** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: CrossModic | [WBD](https://osu.ppy.sh/community/matches/102313495) |
+| Loser | **HorizonID** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: CrossModic | *win by default* |
 | Winner | **\[Albert\]** ::{ flag=ID }:: | **5** | 2 | ::{ flag=ID }:: -Yubi- | [#1](https://osu.ppy.sh/community/matches/102313865) |
 | Winner | **adihza** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: TheLegend3RD | [#1](https://osu.ppy.sh/community/matches/102314216) |
-| Loser | \[ Albedo \] ::{ flag=ID }:: | -1 | **0** | ::{ flag=ID }:: **spectator\_boi** | [WBD](https://osu.ppy.sh/community/matches/102315135) |
+| Loser | \[ Albedo \] ::{ flag=ID }:: | -1 | **0** | ::{ flag=ID }:: **spectator\_boi** | *win by default* |
 
 Minggu, 17 Juli 2022
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Winner | **RetroEX** ::{ flag=ID }:: | **5** | 3 | ::{ flag=ID }:: Heriza- | [#1](https://osu.ppy.sh/community/matches/102332815) |
-| Winner | **\[ReyZ\]** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: AZKiFanboy | [WBD]() |
-| Loser | **Dogethedoge25** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: AzusaNakano2 | [WBD](https://cdn.discordapp.com/attachments/956915685605376060/998210782498131968/unknown.png) |
+| Winner | **\[ReyZ\]** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: AZKiFanboy | *win by default* |
+| Loser | **Dogethedoge25** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: AzusaNakano2 | *win by default* |
 | Winner | **Onta\_Bekasi** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: HEAL\_69 | [#1](https://osu.ppy.sh/community/matches/102338030) |
 | Winner | haickalmh ::{ flag=ID }:: | 2 | **5** | ::{ flag=ID }:: **Fieristik** | [#1](https://osu.ppy.sh/community/matches/102338650) |
-| Winner | **Fr05tyGD** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: \[ -Asriel- \] | [WBD]() |
+| Winner | **Fr05tyGD** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: \[ -Asriel- \] | *win by default* |
 | Winner | **Dellia** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: LuxSayaka | [#1](https://osu.ppy.sh/community/matches/102341106) |
 
 ### Babak 32 Besar
@@ -339,24 +335,24 @@ Sabtu, 9 Juli 2022
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Winner | **RetroEX** ::{ flag=ID }:: | **4** | 1 | ::{ flag=ID }:: Yururu | [#1](https://osu.ppy.sh/community/matches/102122568) |
-| Winner | **adihza** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: MzLord | [WBD](https://osu.ppy.sh/community/matches/102126904) |
-| Winner | **TheLegend3RD** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: EVIRE- | [WBD](https://s3.amazonaws.com/challonge_app/match_attachments/assets/000/730/058/) |
+| Winner | **adihza** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: MzLord | *win by default* |
+| Winner | **TheLegend3RD** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: EVIRE- | *win by default* |
 | Winner | **-Yubi-** ::{ flag=ID }:: | **4** | 2 | ::{ flag=ID }:: spectator\_boi | [#1](https://osu.ppy.sh/community/matches/102127806) |
 | Winner | Tsurumaki\_ ::{ flag=ID }:: | 1 | **4** | ::{ flag=ID }:: **Heriza-** | [#1](https://osu.ppy.sh/community/matches/102131078) |
 | Winner | **Dellia** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: danar mw | [#1](https://osu.ppy.sh/community/matches/102130738) |
-| Winner | **\[ReyZ\]** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: Dogethedoge25 | [WBD](https://osu.ppy.sh/community/matches/102130389) |
-| Winner | **AZKiFanboy** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: AzusaNakano2 | [WBD](https://osu.ppy.sh/community/matches/102152878) |
+| Winner | **\[ReyZ\]** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: Dogethedoge25 | *win by default* |
+| Winner | **AZKiFanboy** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: AzusaNakano2 | *win by default* |
 
 Minggu, 10 Juli 2022
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Winner | Revv- ::{ flag=ID }:: | -1 | **0** | ::{ flag=ID }:: **LuxSayaka** | [WBD](https://s3.amazonaws.com/challonge_app/match_attachments/assets/000/730/061/) |
-| Winner | **Onta\_Bekasi** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: KyoukaRy | [WBD](https://s3.amazonaws.com/challonge_app/match_attachments/assets/000/730/350/) |
+| Winner | Revv- ::{ flag=ID }:: | -1 | **0** | ::{ flag=ID }:: **LuxSayaka** | *win by default* |
+| Winner | **Onta\_Bekasi** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: KyoukaRy | *win by default* |
 | Winner | **haickalmh** ::{ flag=ID }:: | **4** | 1 | ::{ flag=ID }:: Lordkolp | [#1](https://osu.ppy.sh/community/matches/102151359) |
 | Winner | **Fieristik** ::{ flag=ID }:: | **4** | 1 | ::{ flag=ID }:: KinoJourney | [#1](https://osu.ppy.sh/community/matches/102152651) |
 | Winner | **Fr05tyGD** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: HorizonID | [#1](https://osu.ppy.sh/community/matches/102154216) |
-| Winner | **\[ -Asriel- \]** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: CrossModic | [WBD](https://s3.amazonaws.com/challonge_app/match_attachments/assets/000/730/063/) |
+| Winner | **\[ -Asriel- \]** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: CrossModic | *win by default* |
 | Winner | **HEAL\_69** ::{ flag=ID }:: | **4** | 2 | ::{ flag=ID }:: Proxae | [#1](https://osu.ppy.sh/community/matches/102156827) |
 | Winner | **\[Albert\]** ::{ flag=ID }:: | **4** | 1 | ::{ flag=ID }:: \[ Albedo \] | [#1](https://osu.ppy.sh/community/matches/102156682) |
 
@@ -390,13 +386,13 @@ Minggu, 10 Juli 2022
 
 - Semua pemain yang mengikuti dan memenuhi semua persyaratan registrasi turnamen ini akan memasuki babak kualifikasi.
 - Tiap lobby berisikan maksimal 8 pemain pada babak kualifikasi.
-- Pemain diperbolehkan memakai visual mod seperti Hidden (HD), Flashlight (FL), Fade In (FI), dan Mirror.
+- Pemain diperbolehkan memakai visual mod seperti Hidden (HD), Flashlight (FL), Fade In (FI), dan Mirror (MR).
 - Pemain akan memainkan 2 map untuk warm-up yang dipilih oleh pemain berdasarkan roll tertinggi.
 
 #### Babak Kualifikasi
 
-  - Jumlah pemain maksimal untuk memasuki babak selanjutnya adalah 32.
-  - Pada babak kualifikasi akan ada 5 map dalam mappool yang memiliki skillset yang berbeda-beda, semua map tersebut akan dibuat oleh para map selector.
+  - Jumlah pemain maksimal untuk memasuki babak selanjutnya adalah 32 pemain.
+  - Pada babak kualifikasi akan ada 5 map dalam mappool yang memiliki skillset yang berbeda-beda, semua map tersebut akan dibuat oleh para pembuat map.
   - Semua pemain akan memiliki 2 kesempatan untuk bermain di tiap map, yang berarti total lagu yang dimainkan adalah 10.
   - Skor tertinggi yang dimainkan tiap beatmap akan dimasukkan dan skor kualifikasi akan diakumulasikan berdasarkan perbandingan skor oleh pemain lainnya.
 - Setelah babak kualifikasi berakhir akan ada pembagian pemain berdasarkan seed.
