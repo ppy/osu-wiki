@@ -92,7 +92,7 @@ Dieser Abschnitt ist über das Aussehen des Spiel-Clients, Teile der Benutzerobe
 
 ---
 
-*Tipp: Wenn der Spiel-Client nicht das aktive Fenster ist, dann wird das FPS-Limit automatisch auf 30 FPS gesetzt.*\
+*Anmerkung: Wenn der Spiel-Client nicht das aktive Fenster ist, dann wird das FPS-Limit automatisch auf 30 FPS gesetzt.*\
 *Vorsicht für Laptop-Nutzer: `Unbegrenzt (nur im Spiel)` zu benutzen, kann dafür sorgen, dass dein Laptop überhitzt!*
 
 Wenn du die Dropdown-Liste zu `FPS-Limit` öffnest, wirst du folgende Optionen sehen:
