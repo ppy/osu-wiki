@@ -75,8 +75,8 @@ Turnamen ini telah berakhir dan menghasilkan podium sebagai berikut:
 
 | Peringkat | Pemain |
 | :-: | :-- |
-| ![Mahkota Emas](/wiki/shared/crown-gold.png "Juara pertama") | ::{ flag=ID }:: [RetroEX](https://osu.ppy.sh/users/10540515) |
-| ![Mahkota Perak](/wiki/shared/crown-silver.png "Juara kedua") | ::{ flag=ID }:: [\[Albert\]](https://osu.ppy.sh/users/12689667) |
+| ![Mahkota Emas](/wiki/shared/crown-gold.png "Juara pertama") | ::{ flag=ID }:: [\[Albert\]](https://osu.ppy.sh/users/12689667) |
+| ![Mahkota Perak](/wiki/shared/crown-silver.png "Juara kedua") | ::{ flag=ID }:: [RetroEX](https://osu.ppy.sh/users/10540515) |
 | ![Mahkota Perunggu](/wiki/shared/crown-bronze.png "Juara ketiga") | ::{ flag=ID }:: [Onta\_Bekasi](https://osu.ppy.sh/users/8677684) |
 
 ## Mappool
