@@ -145,6 +145,31 @@ The osu!mania 4K World Cup 2022 is run by the [osu! team](/wiki/People/The_Team)
 
 ## Mappools
 
+### Quarterfinals
+
+**[Download the mappack here (177 MB)](https://drive.google.com/uc?id=1kU3RpgoWhhgDKCyh6RVwh4aGiOeTOgki)**
+
+- Rice
+  1. [w\_tre - FIONA (Mipha-) \[Carefree 1.05x (157bpm)\]](https://osu.ppy.sh/beatmapsets/1832244#mania/3760958)
+  2. [Rairyu - ra'am (-mint-) \[mint vs. hana's Kriemhild Gretchen 1.1x (244bpm)\]](https://osu.ppy.sh/beatmapsets/1832490#mania/3761569)
+  3. [BlackY - N/P ADDiCTiON (Valedict) \[OVERDOSE 1.15x\]](https://osu.ppy.sh/beatmapsets/1816308#mania/3763133)
+  4. [Tess - Justify My Love (Halogen-) \[Heartbroken\]](https://osu.ppy.sh/beatmapsets/1742468#mania/3562095)
+  5. [Kabocha - EgO (Shoegazer) \[Transference 1.15x (271bpm)\]](https://osu.ppy.sh/beatmapsets/1667855#mania/3760854)
+  6. [BEMANI Sound Team 'Sota Fujimori' - Breakin' Rules (AutotelicBrown) \[Alice's Probation 1.1x\]](https://osu.ppy.sh/beatmapsets/1413427#mania/3756481)
+- Hybrid
+  1. [MisoilePunch \~pan soe\~ - MeTear'n TruX (fvrex) \[guden's L'ythlinn\]](https://osu.ppy.sh/beatmapsets/1708332#mania/3605484)
+  2. [Zekk - SUMMER (MyZterioN-) \[leisure 1.05x (184bpm)\]](https://osu.ppy.sh/beatmapsets/1833309#mania/3763660)
+  3. [Camellia - Azure Vixen (-mint-) \[Arbitrator\]](https://osu.ppy.sh/beatmapsets/1831220#mania/3758841)
+- LN
+  1. [Chinozo - Peta Peta (MyZterioN-) \[yeeaahhhhhhhhhhh 1.05x\]](https://osu.ppy.sh/beatmapsets/1833067#mania/3763144)
+  2. [penoreri - Desperado Waltz (guden) \[Skogarmaor\]](https://osu.ppy.sh/beatmapsets/1743589#mania/3564434)
+  3. [ETIA. - Daisycutter (lemonguy) \[Firestorm x1.1\]](https://osu.ppy.sh/beatmapsets/1307846#mania/3117228)
+- SV
+  1. [nitro - \[line:zeta\] (AlexDunk) \[r :ockthisbase :NoSV\]](https://osu.ppy.sh/beatmapsets/1833518#mania/3764151)
+  2. [LeaF - MARENOL (notapplicable) \[OVERDOSE\]](https://osu.ppy.sh/beatmapsets/1833541#mania/3764191)
+- Tiebreaker
+  1. **[Camellia - Qyoh (Nine Stars) (guden) \[guden vs. mint's Luminosity\]](https://osu.ppy.sh/beatmapsets/1833301#mania/3763646)**
+
 ### Round of 16
 
 **[Download the mappack here (165 MB)](https://drive.google.com/u/0/uc?id=16MT6Ott0ZElqFoqPGVJqSLX33pCSJHf_)**
@@ -237,6 +262,8 @@ Sunday, 21 August 2022:
 | Czech Republic ::{ flag=CZ }:: | 0 | **6** | ::{ flag=DE }:: **Germany** | [#1](https://osu.ppy.sh/community/matches/103236745) |
 
 ### Round of 32
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1ODtFL2MlIq8juSsyzUy6FB0zcc7Rnlhv9LIIgkDIu0s).
 
 Saturday, 13 August 2022:
 
