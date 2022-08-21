@@ -6,24 +6,24 @@ date: 2022-09-01 10:00:00 +0000
 
 assets folder: /wiki/shared/news/2022-09-01-osumonthly-2
 
+**The images will be stored in the shared folder of osu-wiki once done, and the icons are on osu-wiki so don't worry if it doesn't appear.**
 ![](/wiki/shared/news/2022-09-01-osumonthly-2/monthlybanner.jpg)
 
 ## Starting word
 
-As this is the second rendition of the awakened project we are still trying to find a groove and get a sense of what the community likes most and dislikes the least. If you'd like to contribute to any ideas, content, article writing, or anything else that we can feature, please don't be shy and let us know via the discussion thread on the forums or get involved in the osu!monthly process over on the osu!dev Discord.
+As this is the second rendition of the awakened project we are still trying to find a groove and get a sense of what the community likes most and dislikes the least. If you'd like to contribute to any ideas, content, article writing, or anything else that we can feature, please don't be shy and let us know via the discussion thread on the forums or get involved in the osu!monthly process over on the [osu!dev Discord](https://discord.com/invite/ppy).
 For those not caught up to speed on what osu!monthly is, osu!monthly is a reimagining of the hit-sensation osu!weekly, but in a bigger, and dare we say, the better format where, as the name implies: it is once a month, every month.
 If you happened to miss out on last month's article then please check it out here! For those who were waiting ever so patiently for the next rendition, your patience is well received, but wait no longer! It! Is! Here!
 
 ## Table of Contents
-- [What's new in osu!](#what's-new-in-osu!?)
-- [Top scores of the month](#top-scores-of-the-month)
-- [New features in osu!(lazer)](#new-features-in-osu!(lazer))
-- [osu! community fact (or a thing like that)](#osu-community-fact)
+- [What's new in osu!(lazer)](#what's-new-in-osu!(lazer))
+- [Community Recap](#community-recap)
+- [Did you know?](#did-you-know)
 - [Monthly community quiz](#monthly-community-quiz)
 - [End word](#end-word)
 
-## lazer:
-As per usual lazer has been having constant updates pushed to it, with full coverage provided on the official osu! [YouTube channel](https://www.youtube.com/c/osugame). One of the updates include changes to the slider animations for osu!, which will now match the stable version of the game and hopefully remove the "weird feeling" players have reported when playing lazer.
+## What's new in osu!(lazer)
+As per usual lazer has been having weekly updates pushed to it, with full coverage provided on the official osu! [YouTube channel](https://www.youtube.com/c/osugame). One of the updates include changes to the slider animations for osu!, which will now match the stable version of the game and hopefully remove the "weird feeling" players have reported when playing lazer.
 
 Another great update that has been released this month is the optimization work that’s been done in order to provide the best osu! experience on a wider range of systems.
 
@@ -37,17 +37,21 @@ Some people say humans can only see up to 60 hz, well now you can test that your
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/g6wKMiCwSC8" frameborder="0" allowfullscreen></iframe>
 
-If you are interested in all previous and future patch notes, you can find them here (or just click on `Home` > `Changelog` on the top-left corner of the site).
-
-**The images will be stored in the shared folder of osu-wiki once done, and the icons are on osu-wiki so don't worry if it doesn't appear.**
+If you are interested in all previous and future patch notes, you can find them here (or just click on `Home` > `Changelog` on the top-left corner of the site), or if you just want to listen to [pishifat's](https://osu.ppy.sh/users/3178418) soothing voice speaking about lazer, you can now do that from the [new osu!(lazer) updates playlist](https://www.youtube.com/playlist?list=PLmWVQsxi34bMTmgpDArfxJ32Q0mBLhcE-).
 
 ## Community Recap
+
+![](https://assets.ppy.sh/contests/153/header.jpg?1)
+
+osu!'s 15 year anniversary is coming up, and what better way to celebrate than with an [art contest](https://osu.ppy.sh/home/news/2022-08-15-15-anniversary-art-contest)! Similar to a previously held [A Place to Belong](https://osu.ppy.sh/community/contests/142) contest in Spring of 2022, but with a unique twist: Draw at least one of the official osu! mascots *(or community mascots)* exploring any part of osu!'s history!
+
+By the time this monthly is released submissions will have been closed but we should see the votes coming in very soon, so be sure to cast your votes as a selection of the top voted entries will be featured within osu! (and get 3 months of supporter), and the top 3 will receive profile badges that are made using their own submission!
+
 ![](/wiki/shared/news/2022-09-01-osumonthly-2/collabbanner.jpg)
 
-  You might have already seen people with similar profile pictures and banners, as it is quite common within the osu! community to have collabs between players, but have you ever seen a collab with more than a thousand participants? This is the crazy goal that [XegC](https://osu.ppy.sh/users/8143504) and his team have given to themselves, now entering their 7th edition since the inception of the [Endless Mirage Megacollab](https://osu.ppy.sh/community/forums/topics/1619690?n=1)! Last time they managed to gather [3370 players](https://www.reddit.com/r/osugame/comments/qgig4i/our_6th_avatar_megacollab_is_done_with_3370_users/), and they are aiming even higher this time.
+You might have already seen people with similar profile pictures and banners, as it is quite common within the osu! community to have collabs between players, but have you ever seen a collab with more than a thousand participants? This is the crazy goal that [XegC](https://osu.ppy.sh/users/8143504) and his team have given to themselves, now entering their 7th edition since the inception of the [Endless Mirage Megacollab](https://osu.ppy.sh/community/forums/topics/1619690?n=1)! Last time they managed to gather [3370 players](https://www.reddit.com/r/osugame/comments/qgig4i/our_6th_avatar_megacollab_is_done_with_3370_users/), and they are aiming even higher this time.
 
-  If you are interested in participating, it is quite simple: All participants, with the help of a website and completely free, can choose a different fictional character and receive their own custom avatar, userpage & forum signature banners that they can use to take part in this huge collab.
-For more details feel free to join the [Endless Mirage](https://discord.gg/XXtZCZw4M6) Discord server!
+If you are interested in participating, feel free to join the [Endless Mirage Discord](https://discord.gg/XXtZCZw4M6) and grab yourself a free profile picture, forum & userpage banners!
 
 
 Scores for all gamemodes + events go here
@@ -56,7 +60,7 @@ Scores for all gamemodes + events go here
 - COE
 - Scores + events
 
-## osu! "did you know" fact
+## Did you know?
 osu! did not support any keyboard inputs when it was released, it was only after a suggestion was made on the forums that it was added! Another cool fact, originally you could only press circles with the space bar until a suggestion was made to have "Z" and "X" as the default bindings. [Source](https://osu.ppy.sh/community/forums/topics/431?n=8)
 
 ## Monthly community quiz
@@ -67,4 +71,4 @@ As always, this project cannot be done without the many contributors that help u
 
 As said previously, if you'd like to help out please don't be hesitant to DM any one of us or message in the osu!dev discord. 
 
-—0x84f, Blushing (TBD)
+—0x84f, Blushing, Pisapou
