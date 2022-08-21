@@ -34,10 +34,10 @@ Without further ado, let's get on with this month's picks:
 
 ### Navigation
 
-- [osu!](#osu)
-- [osu!taiko](#osutaiko)
-- [osu!catch](#osucatch)
-- [osu!mania](#osumania)
+- [osu!](#osu!)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
 ## osu!
 
@@ -260,7 +260,7 @@ Without further ado, cast your vote and start practicing in anticipation of the 
 229.7 BPM, 2:55 | 4.52★, 4.55★\
 *description written by [RandomeLoL](https://osu.ppy.sh/users/7080063)*
 
-To start off I'm not even going to introduce the map, [but rather a better version of the original song](https://www.youtube.com/watch?v=1P4EP5TI574). Wiiiith that said and done, let us welcome Wh1teh back to the Loved polls after quite some time! We originally debated whether having another pack of his would be the best of ideas, but we ended up choosing one of their most liked jack charts: *toby fox's ASGORE*.
+To start off, let us welcome Wh1teh back to the Loved polls after quite some time! We originally debated whether having another pack of his would be the best of ideas, but we ended up choosing one of their most liked jack charts: *toby fox's ASGORE*.
 
 As a refresher, this chart uses jacks in a well thought out manner. Despite being such a generalizable pattern, Wh1teh manages to make use of the limited columns and patterns to represent the song in a rather fun manner. Even if 1.0x is too easy for you, you're sure to have your fair share of fun by rating it up a bit!
 
