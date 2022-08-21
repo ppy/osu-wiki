@@ -6,9 +6,9 @@ Phần này được dùng riêng để đề cập những cuộc thi được 
 
 ## Cuộc thi chính thức
 
-Những cuộc thi chính thức được dội ngũ [osu! team](wiki/People/The_Team) đứng ra tổ chức hoặc công nhận chính thức. Đa số những cuộc thi này có trang riêng của nó trong [danh sách cuộc thi](https://osu.ppy.sh/community/contests).
+Những cuộc thi chính thức được đội ngũ [osu! team](wiki/People/The_Team) đứng ra tổ chức hoặc công nhận chính thức. Đa số những cuộc thi này có trang riêng của nó trong [danh sách cuộc thi](https://osu.ppy.sh/community/contests).
 
-### Monthly Beatmapping Contest
+### Monthly Beatmapping Contest (Tạm dịch: Cuộc thi Beatmapping theo tháng)
 
 *Trang gốc: [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest)*
 
@@ -68,7 +68,7 @@ Sau một thời gian dài bị hoãn, Monthly Beatmapping Contest được kh�
 | [#2](https://osu.ppy.sh/home/news/2016-05-17-aspire-returns-beatmap-contest) | [IAHN - Transform (Original Mix)](https://osu.ppy.sh/beatmaps/artists/3) | ::{ flag=CA }:: [Monstrata](https://osu.ppy.sh/users/2706438) | ::{ flag=JP }:: [Asahina Momoko](https://osu.ppy.sh/users/3650145) | ::{ flag=HK }:: [Regou](https://osu.ppy.sh/users/419954) | [#1](https://osu.ppy.sh/home/news/2016-07-23-aspire-2-concludes-winners-announced) |
 | [#3](https://osu.ppy.sh/home/news/2017-01-21-aspire-returns-for-2017) | [Helblinde - The Solace of Oblivion](https://osu.ppy.sh/beatmaps/artists/5) | ::{ flag=FI }:: [ProfessionalBox](https://osu.ppy.sh/users/3250792) | ::{ flag=HK }:: [MinG3012](https://osu.ppy.sh/users/1583218) | ::{ flag=SG }:: [emilia](https://osu.ppy.sh/users/2003326) | [#1](https://osu.ppy.sh/home/news/2017-04-03-aspire-2017-stage-one-concludes) |
 | [#4](https://osu.ppy.sh/home/news/2018-08-19-aspire-2018-begins) | [Culprate - Acid Rain](https://osu.ppy.sh/beatmaps/artists/29) | ::{ flag=TW }:: [SnowNiNo\_](https://osu.ppy.sh/users/2506267) | ::{ flag=FI }:: [DTM9 Nowa](https://osu.ppy.sh/users/5428909) | ::{ flag=LT }:: [seselis1](https://osu.ppy.sh/users/7321833) | [#1](https://osu.ppy.sh/home/news/2019-07-22-aspire-2018-results) |
-| [#5](https://osu.ppy.sh/home/news/2020-04-09-aspire-v-a-new-format) | Any song available in the [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists) as per April 2020 | ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619) *(community pick winner)*, ::{ flag=CN }:: [fanzhen0019](https://osu.ppy.sh/users/418699) *(mapper's pick winner)* | ::{ flag=CA }:: [Meow Mix](https://osu.ppy.sh/users/3021634) | ::{ flag=CN }:: [fanzhen0019](https://osu.ppy.sh/users/418699) | [#1](https://osu.ppy.sh/home/news/2020-08-23-aspire-v-results) |
+| [#5](https://osu.ppy.sh/home/news/2020-04-09-aspire-v-a-new-format) | Bất kì bài nhạc nào có trong [Danh sách Nghệ sĩ Nổi bật](https://osu.ppy.sh/beatmaps/artists) tính tới tháng 4 năm 2020 | ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619) *(community pick winner)*, ::{ flag=CN }:: [fanzhen0019](https://osu.ppy.sh/users/418699) *(mapper's pick winner)* | ::{ flag=CA }:: [Meow Mix](https://osu.ppy.sh/users/3021634) | ::{ flag=CN }:: [fanzhen0019](https://osu.ppy.sh/users/418699) | [#1](https://osu.ppy.sh/home/news/2020-08-23-aspire-v-results) |
 
 ### osu! Mapping Olympiad
 
@@ -88,7 +88,7 @@ The **osu! Mapping Olympiad** is a mapping contest that is held as a spiritual s
 
 ### Community Mapping Contest (Tạm dịch: Cuộc thi Map Cộng đồng)
 
-Cuộc thi **Community Mapping Contest** là một cuộc thi map mà những thành viên tham gia được tự do nộp beatmap với độ khó bất kì và bất kì mode chơi mà họ muốn chọn. Những map giành chiến thắng sau cuộc thi sẽ được gộp vào cùng một beatmap.
+Cuộc thi **Community Mapping Contest** là một cuộc thi mapping mà những thành viên tham gia được tự do nộp beatmap với độ khó bất kì và bất kì mode chơi mà họ muốn chọn. Những map giành chiến thắng sau cuộc thi sẽ được gộp vào cùng một beatmap.
 
 | Số của cuộc thi | Bài nhạc | Mode | ![Gold crown][GCrown] (Easy) | ![Gold crown][GCrown] (Normal) | ![Gold crown][GCrown] (Hard) | ![Gold crown][GCrown] (Insane) | ![Gold crown][GCrown] (Extra) | Kết quả |
 | :-: | :-- | :-: | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -146,9 +146,9 @@ Vào thời điểm đầu, tên của cuộc thi là "Best of", vì dự tính 
 | [2019](https://osu.ppy.sh/home/news/2020-01-23-community-choice-2019-voting-open) | ![osu!][osu!]/![osu!taiko][osu!taiko]/![osu!catch][osu!catch]/![osu!mania][osu!mania] | [DECO\*27 - Ghost Rule](https://osu.ppy.sh/beatmapsets/413117) hosted by ::{ flag=CN }:: [Awaken](https://osu.ppy.sh/users/1380253) | [Nog - Aether Ritual](https://osu.ppy.sh/beatmapsets/928431) hosted by ::{ flag=BR }:: [Kqrth](https://osu.ppy.sh/users/4115718) | [Chroma - I](https://osu.ppy.sh/beatmapsets/944317) hosted by ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) | [xi - Blue Zenith](https://osu.ppy.sh/beatmapsets/919633) hosted by ::{ flag=SG }:: [riunosk](https://osu.ppy.sh/users/5594381) | [#1](https://osu.ppy.sh/home/news/2020-02-10-community-choice-2019-results) |
 | [2020](https://osu.ppy.sh/home/news/2021-01-21-community-choice-2020-voting-open) | ![osu!][osu!]/![osu!taiko][osu!taiko]/![osu!catch][osu!catch]/![osu!mania][osu!mania] | [DADDY ! DADDY ! DO ! feat. Suzuki Airi (TV Size)](https://osu.ppy.sh/beatmapsets/1147361) hosted by ::{ flag=GB }:: [hypercyte](https://osu.ppy.sh/users/9155377) | [Calliope Mori - Excuse My Rudeness, but Could You Please RIP?<3 (t+pazolite Remix)](https://osu.ppy.sh/beatmapsets/1278695) hosted by ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | [Camellia feat. Nanahira - finorza](https://osu.ppy.sh/beatmapsets/1151836) hosted by ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276) | [Camellia - We Could Get More Machinegun Psystyle! (And More Genre Switches)](https://osu.ppy.sh/beatmapsets/1034114) hosted by ::{ flag=GB }:: [Hydria](https://osu.ppy.sh/users/808176) | [#1](https://osu.ppy.sh/home/news/2021-02-05-community-choice-2020-results) |
 
-### Fan Art Contest
+### Cuộc thi Vẽ Fan Art 
 
-**Fan Art Contest** là cuộc thi vẽ mà những họa sĩ tham gia được yêu cầu tạo fanart tốt nhất cho osu!, bao gồm [linh vật của osu!](/wiki/Mascots) trong nhiều chủ đề và art concept.
+**Cuộc thi Vẽ Fan Art** là cuộc thi vẽ mà những họa sĩ tham gia được yêu cầu tạo fanart tốt nhất cho osu!, bao gồm [linh vật của osu!](/wiki/Mascots) trong nhiều chủ đề và art concept.
 
 | Số của cuộc thi | Chủ đề | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Kết quả |
 | :-: | :-- | :-- | :-- | :-- | :-- |
@@ -178,7 +178,7 @@ Vào thời điểm đầu, tên của cuộc thi là "Best of", vì dự tính 
 | [#24 (Mùa hè năm2020)](https://osu.ppy.sh/home/news/2020-07-01-summer-theme-park-2020-fanart-contest) | Công viên Chủ đề | ::{ flag=US }:: [Shuuzo](https://osu.ppy.sh/users/3661521) | ::{ flag=US }:: [AnimeAttics](https://osu.ppy.sh/users/14876991) | ::{ flag=DE }:: [Evaine](https://osu.ppy.sh/users/7295733) | [#1](https://osu.ppy.sh/home/news/2020-07-23-summer-theme-park-fanart-contest-results) |
 | [#25 (Halloween năm 2020)](https://osu.ppy.sh/home/news/2020-09-18-halloween-2020-fanart-contest) | Halloween | ::{ flag=BR }:: [CupcakeCrazier](https://osu.ppy.sh/users/12063010) | ::{ flag=PH }:: [RianneRyan](https://osu.ppy.sh/users/17165886) | ::{ flag=NZ }:: [SJPumpkin](https://osu.ppy.sh/users/4840900) | [#1](https://osu.ppy.sh/home/news/2020-10-11-halloween-fanart-contest-results) |
 | [#26 (Mùa đông năm 2020)](https://osu.ppy.sh/home/news/2020-09-11-winter-sports-2020-fanart-contest) | Thể thao mùa đông | ::{ flag=US }:: [Tofumang](https://osu.ppy.sh/users/4817223) | ::{ flag=ID }:: [CheekyIfa](https://osu.ppy.sh/users/14406940) | ::{ flag=RU }:: [Dem4eg-](https://osu.ppy.sh/users/7206818) | [#1](https://osu.ppy.sh/home/news/2020-12-02-winter-2020-arrives) |
-| [#27 (Mùa xuân năm 2021)](https://osu.ppy.sh/home/news/2021-04-23-spring-2021-fanart-contest) | A Day In The Park | ::{ flag=US }:: [Tofumang](https://osu.ppy.sh/users/4817223) | ::{ flag=MY }:: [Kyvrin](https://osu.ppy.sh/users/11589256) | ::{ flag=BG }:: [risuuna](https://osu.ppy.sh/users/7266506) | [#1](https://osu.ppy.sh/home/news/2021-05-20-spring-fanart-contest-results) |
+| [#27 (Mùa xuân năm 2021)](https://osu.ppy.sh/home/news/2021-04-23-spring-2021-fanart-contest) | A Day In The Park (Một ngày trong công viên) | ::{ flag=US }:: [Tofumang](https://osu.ppy.sh/users/4817223) | ::{ flag=MY }:: [Kyvrin](https://osu.ppy.sh/users/11589256) | ::{ flag=BG }:: [risuuna](https://osu.ppy.sh/users/7266506) | [#1](https://osu.ppy.sh/home/news/2021-05-20-spring-fanart-contest-results) |
 | [#28 (Mùa hè năm 2021)](https://osu.ppy.sh/home/news/2021-07-29-summer-track-field-fanart-contest) | Track and Field | ::{ flag=HK }:: [Porukana](https://osu.ppy.sh/users/12992775) | ::{ flag=ID }:: [Ravioli-](https://osu.ppy.sh/users/8678404) | ::{ flag=US }:: [SvenJing](https://osu.ppy.sh/users/11215996) | [#1](https://osu.ppy.sh/home/news/2021-08-23-summer-tf-fanart-contest-results) | [#1](https://osu.ppy.sh/community/contests/133) |
 | [#29 (Halloween năm 2021)](https://osu.ppy.sh/home/news/2021-10-04-halloween-fanart-contest) | Halloween | ::{ flag=ID }:: [Dreamxiety](https://osu.ppy.sh/users/13103233) | ::{ flag=CA }:: [nyab](https://osu.ppy.sh/users/5738663) | ::{ flag=CZ }:: [eulorie](https://osu.ppy.sh/users/20349380) | [#1](https://osu.ppy.sh/home/news/2021-10-27-halloween-2021-fanart-results) | [#1](https://osu.ppy.sh/community/contests/135) |
 | [#30 (Mùa đông năm 2021)](https://osu.ppy.sh/home/news/2021-11-23-winter-fanart-contest) | Winter | ::{ flag=RU }:: [Dem4eg-](https://osu.ppy.sh/users/7206818) | ::{ flag=ID }:: [Nimiru](https://osu.ppy.sh/users/11041959) | ::{ flag=CZ }:: [eulorie](https://osu.ppy.sh/users/20349380) | [#1](https://osu.ppy.sh/home/news/2021-12-17-winter-fanart-contest-results) | [#1](https://osu.ppy.sh/community/contests/136) |
@@ -275,7 +275,7 @@ The **Slider Velocity Showdown** is an osu!taiko mapping contest with a focus on
 
 ### Pending Cup
 
-The **Pending Cup** is a mapping contest that is held yearly by prominent members of the Chinese mapping community. Each year, the contest features up to three songs and/or categories that mappers from all across the community are free to compete and submit their entries in.
+**Pending Cup** là một cuộc thi mapping được những thành viên sáng giá của cộng đồng mapping Trung Quốc đứng ra tổ chức hằng năm. Mỗi năm, cuộc thi giới thiệu nhiều nhất ba bài nhạc và/hoặc thể loại khác nhau để những mapper từ khắp cộng đồng tự do nộp map dự thi của mình vào.
 
 Mặc dù Pending Cup ban đầu chỉ nhắm đến bộ phận nói tiếng Trung của cộng đồng, nhưng cuộc thi đã mở rộng từ giai đoạn đầu và đã chấp nhận những mapper khác từ khắp thế giới tham dự.
 
@@ -336,15 +336,15 @@ Mặc dù Pending Cup ban đầu chỉ nhắm đến bộ phận nói tiếng Tr
 
 #### [Pending Cup \#8 (2020)](https://osu.ppy.sh/community/forums/topics/1145075)
 
-| Category | Mode | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Kết quả |
+| Thể loại | Mode | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Kết quả |
 | :-- | :-: | :-- | :-- | :-- | :-- |
 | Featured Artist[^pending-cup-8-fa] | ![osu!][osu!] | ::{ flag=KR }:: [Acylica](https://osu.ppy.sh/users/1943309) | ::{ flag=ID }:: [AncuL](https://osu.ppy.sh/users/2449200) | ::{ flag=CN }:: [yf\_bmp](https://osu.ppy.sh/users/1243669) | [#1](https://osu.ppy.sh/community/forums/topics/1198663) |
-| Vocal[^pending-cup-8-vocal] | ![osu!][osu!] | ::{ flag=KR }:: [Heilia](https://osu.ppy.sh/users/9823042) | ::{ flag=DE }:: [jamesjan3](https://osu.ppy.sh/users/6260705) | ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | [#1](https://osu.ppy.sh/community/forums/topics/1198663) |
-| Instrumental[^pending-cup-8-instrumental] | ![osu!][osu!] | ::{ flag=RU }:: [xbopost](https://osu.ppy.sh/users/6842421) | ::{ flag=ID }:: [\[Keqing\]](https://osu.ppy.sh/users/8972308) | ::{ flag=KR }:: [Acylica](https://osu.ppy.sh/users/1943309) | [#1](https://osu.ppy.sh/community/forums/topics/1198663) |
+| Vocal (Nhạc Có lời)[^pending-cup-8-vocal] | ![osu!][osu!] | ::{ flag=KR }:: [Heilia](https://osu.ppy.sh/users/9823042) | ::{ flag=DE }:: [jamesjan3](https://osu.ppy.sh/users/6260705) | ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | [#1](https://osu.ppy.sh/community/forums/topics/1198663) |
+| Instrumental (Nhạc Không lời)[^pending-cup-8-instrumental] | ![osu!][osu!] | ::{ flag=RU }:: [xbopost](https://osu.ppy.sh/users/6842421) | ::{ flag=ID }:: [\[Keqing\]](https://osu.ppy.sh/users/8972308) | ::{ flag=KR }:: [Acylica](https://osu.ppy.sh/users/1943309) | [#1](https://osu.ppy.sh/community/forums/topics/1198663) |
 
 ### Newspaper Cup (Tạm dịch: Cúp báo chí)
 
-The **Newspaper Cup** is a mapping contest that is similar to the Pending Cup in nature but with a much greater emphasis on novice mappers. As with Pending Cup, the contest is also being held yearly by prominent members of the Chinese mapping community and has since been developed from a contest that was particularly intended for the Chinese-speaking members of the community to a global-scale contest.
+**Newspaper Cup** là cuộc thi mapping tương tự như Pending Cup nhưng tập trung nhiều hơn vào những mapper ít kinh nghiệm. Giống Pending Cup, cuộc thi được những thành viên sáng giá của cộng đồng mapping Trung Quốc tổ chức hằng năm và đã phát triển từ một cuộc thi dành riêng cho cộng đồng nói tiếng Trung đến một cuộc thi tầm cỡ quốc tế.
 
 #### [Newspaper Cup \#1 (2015)](https://osu.ppy.sh/community/forums/topics/272739)
 
@@ -383,27 +383,27 @@ The **Newspaper Cup** is a mapping contest that is similar to the Pending Cup in
 
 #### [Newspaper Cup \#6 (2020)](https://osu.ppy.sh/community/forums/topics/1023671)
 
-| Category | Mode | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Kết quả |
+| Thể loại | Mode | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Kết quả |
 | :-- | :-: | :-- | :-- | :-- | :-- |
 | Vocal[^newspaper-cup-6-vocal] | ![osu!][osu!] | ::{ flag=CN }:: [Quantum Rosta](https://osu.ppy.sh/users/4814169) | ::{ flag=CA }:: [Elayue](https://osu.ppy.sh/users/6400861) | ::{ flag=CN }:: [Calvaria](https://osu.ppy.sh/users/12381096) | [#1](https://osu.ppy.sh/community/forums/topics/1047836) |
 | Instrumental[^newspaper-cup-6-instrumental] | ![osu!][osu!] | ::{ flag=KR }:: [Acylica](https://osu.ppy.sh/users/1943309) | ::{ flag=CN }:: [lililing](https://osu.ppy.sh/users/11025355) | ::{ flag=CN }:: [SuperBox](https://osu.ppy.sh/users/4783121) | [#1](https://osu.ppy.sh/community/forums/topics/1047836) |
 
 #### [Newspaper Cup \#7 (2021)](https://osu.ppy.sh/community/forums/topics/1203301)
 
-| Category | Mode | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Kết quả |
+| Thể loại | Mode | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Kết quả |
 | :-- | :-: | :-- | :-- | :-- | :-- |
-| Vocal[^newspaper-cup-7-vocal] | ![osu!][osu!] | ::{ flag=EE }:: [Keqing](https://osu.ppy.sh/users/8501291) | ::{ flag=US }:: [Cubby](https://osu.ppy.sh/users/10914582) | ::{ flag=TW }:: [Hey lululu](https://osu.ppy.sh/users/4086497) | [#1](https://osu.ppy.sh/community/forums/topics/1274667) |
-| Instrumental[^newspaper-cup-7-instrumental] | ![osu!][osu!] | ::{ flag=CA }:: [Kyumo](https://osu.ppy.sh/users/14689984) | ::{ flag=US }:: [- ascended -](https://osu.ppy.sh/users/4564285) | ::{ flag=CL }:: [Sunazuka Akira](https://osu.ppy.sh/users/8846632) | [#1](https://osu.ppy.sh/community/forums/topics/1274667) |
+| Vocal (Nhạc Có lời)[^newspaper-cup-7-vocal] | ![osu!][osu!] | ::{ flag=EE }:: [Keqing](https://osu.ppy.sh/users/8501291) | ::{ flag=US }:: [Cubby](https://osu.ppy.sh/users/10914582) | ::{ flag=TW }:: [Hey lululu](https://osu.ppy.sh/users/4086497) | [#1](https://osu.ppy.sh/community/forums/topics/1274667) |
+| Instrumental (Nhạc Không lời)[^newspaper-cup-7-instrumental] | ![osu!][osu!] | ::{ flag=CA }:: [Kyumo](https://osu.ppy.sh/users/14689984) | ::{ flag=US }:: [- ascended -](https://osu.ppy.sh/users/4564285) | ::{ flag=CL }:: [Sunazuka Akira](https://osu.ppy.sh/users/8846632) | [#1](https://osu.ppy.sh/community/forums/topics/1274667) |
 
 ## Ghi chú
 
-[^pending-cup-8-fa]: The Featured Artist category provides mappers with a choice of two different songs to be mapped: Zekk - Re\_construct and Shuu no Hazama \[Rainshower\].
-[^pending-cup-8-vocal]: The Vocal category provides mappers with a choice of two different songs to be mapped: nonoc - memento and DUSTCELL - DERO.
-[^pending-cup-8-instrumental]: The Instrumental category provides mappers with a choice of two different songs to be mapped: onoken - Felys final remix and Nekomata Master - The Sky of Sadness.
-[^newspaper-cup-6-vocal]: The Vocal category provides mappers with a choice of two different songs to be mapped: Isekai Joucho - Kyoukankaku Obake and Kenshi Yonezu - Shunrai.
-[^newspaper-cup-6-instrumental]: The Instrumental category provides mappers with a choice of two different songs to be mapped: Morimori Atsushi - Funkotsu Saishin Casino and Fractal Dreamers - Celestial Horizon.
-[^newspaper-cup-7-vocal]: The Vocal category provides mappers with a choice of five different songs to be mapped: Ariabl'eyeS - Unmei no Haguruma, Yunomi - Aimai Trip, KikuoHana - Desert Theater, Kaf - Tomadoi Telepathy, and Mafumafu - SNOBBISM.
-[^newspaper-cup-7-instrumental]: The Instrumental category provides mappers with a choice of five different songs to be mapped: Umeboshi Chazuke - Dutch Courage!, The Flashbulb - Stretch Industry, MiddleIsland - Delrio, Nagakawa Koutarou - Hakata Tonkotsu Ramens, and roop - Chatblanc.
+[^pending-cup-8-fa]: Thể loại Nghệ sĩ nổi bật cho những mapper tham gia lựa chọn giữa hai bài nhạc khác nhau để tạo map: Zekk - Re\_construct và Shuu no Hazama \[Rainshower\].
+[^pending-cup-8-vocal]: Thể loại Nhạc có lời cho những mapper tham gia lựa chọn giữa hai bài nhạc khác nhau để tạo map: nonoc - memento and DUSTCELL - DERO.
+[^pending-cup-8-instrumental]: Thể loại Nhạc Không lời cho những mapper tham gia lựa chọn giữa hai bài nhạc khác nhau để tạo map: onoken - Felys final remix and Nekomata Master - The Sky of Sadness.
+[^newspaper-cup-6-vocal]: Thể loại Nhạc Có lời cho những mapper tham gia lựa chọn giữa hai bài nhạc khác nhau để tạo map: Isekai Joucho - Kyoukankaku Obake and Kenshi Yonezu - Shunrai.
+[^newspaper-cup-6-instrumental]: Thể loại Nhạc Không lời cho những mapper tham gia lựa chọn giữa hai bài nhạc khác nhau để tạo map: Morimori Atsushi - Funkotsu Saishin Casino and Fractal Dreamers - Celestial Horizon.
+[^newspaper-cup-7-vocal]: Thể loại Nhạc Có lời cho những mapper tham gia lựa chọn giữa năm bài nhạc khác nhau để tạo map: Ariabl'eyeS - Unmei no Haguruma, Yunomi - Aimai Trip, KikuoHana - Desert Theater, Kaf - Tomadoi Telepathy, and Mafumafu - SNOBBISM.
+[^newspaper-cup-7-instrumental]: Thể loại Nhạc Không lờiThe Instrumental category cho những mapper tham gia lựa chọn giữa năm bài nhạc khác nhau để tạo map: Umeboshi Chazuke - Dutch Courage!, The Flashbulb - Stretch Industry, MiddleIsland - Delrio, Nagakawa Koutarou - Hakata Tonkotsu Ramens, and roop - Chatblanc.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
