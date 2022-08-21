@@ -298,7 +298,7 @@ This file has gained a fair amount of popularity whether it be its use in MWC, o
 
 Coming back to the Loved nominations is juankristal's chart of *Dansu Nanbaa wo Tomo ni*!
 
-This chart is colloquially known as a release "timing hell", as indicated in the difficulty name. Seeing use in the [finals pool of MWC 4K 2020](/wiki/en/Tournaments/MWC/2020_4K), this chart is very difficult to maintain a good ratio on. You will find yourself dropping many more 300s and 200s than you might think. On top of that, this chart is also actually physically straining too, as it clocks in at 296 BPM. There are all sorts of uncomfortable LN patterns to keep you on your toes.
+This chart is colloquially known as a release "timing hell", as indicated in the difficulty name. Seeing use in the [finals pool of MWC 4K 2020](/wiki/Tournaments/MWC/2020_4K), this chart is very difficult to maintain a good ratio on. You will find yourself dropping many more 300s and 200s than you might think. On top of that, this chart is also actually physically straining too, as it clocks in at 296 BPM. There are all sorts of uncomfortable LN patterns to keep you on your toes.
 
 If you want to see this chart in the Loved section, make sure to support juankristal by voting!
 
