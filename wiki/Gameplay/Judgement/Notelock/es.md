@@ -3,7 +3,7 @@ tags:
   - note lock
   - jittering notes
   - shaking notes
-  - nota bloqueada
+  - notas bloqueadas
   - notas temblorosas
   - agitando notas
 ---
