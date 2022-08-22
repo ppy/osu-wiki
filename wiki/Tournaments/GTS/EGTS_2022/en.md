@@ -146,6 +146,55 @@ The Expert Global Taiko Showdown 2022 is run by various community members.
 
 ## Match results
 
+### Round of 96
+
+Friday, 19 August 2022:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Dusk** ::{ flag=GB }:: | **5** | 0 | ::{ flag=IT }:: Plasmusss | [#1][(](https://osu.ppy.sh/community/matches/103173461)) |
+
+Saturday, 20 August 2022:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Dizzayy** ::{ flag=CA }:: | **0** | -1 | ::{ flag=IT }:: Devo | *win by default* |
+| **idk123456**  ::{ flag=NZ }:: | **5** | 4 | ::{ flag=CL }:: Catulus | [#1](https://osu.ppy.sh/community/matches/103195768) |
+| **Cookie\_Tree** ::{ flag=NL }:: | **0** | -1 | ::{ flag=US }:: \_Flamescion\_ | *win by default* |
+| **Pochacco** ::{ flag=PH }:: | **5** | 0 | ::{ flag=IT }:: JunkyTrack | [#1](https://osu.ppy.sh/community/matches/103197812) |
+| **Zed0x** ::{ flag=NZ }:: | **5** | 0 | ::{ flag=ID }:: Sleepti | [#1](https://osu.ppy.sh/community/matches/103197761) |
+| **frz** ::{ flag=DE }:: | **5** | 1 | ::{ flag=HK }:: Henry\_03 | [#1](https://osu.ppy.sh/community/matches/103203479) |
+| **Gintoki8** ::{ flag=FR }:: | **5** | 2 | ::{ flag=PH }:: Eyenine | [#1](https://osu.ppy.sh/community/matches/103203549) |
+| **Shing\_** ::{ flag=HK }:: | **5** | 3 | ::{ flag=JP }:: nuku0315 | [#1](https://osu.ppy.sh/community/matches/103204707) |
+| **Megafan** ::{ flag=AR }:: | **5** | 1 | ::{ flag=TW }:: rex0988476 | [#1](https://osu.ppy.sh/community/matches/103204742) |
+| **akumufangirl** ::{ flag=JP }:: | **5** | 2 | ::{ flag=US }:: SolaEclipse | [#1](https://osu.ppy.sh/community/matches/103208891) |
+| **MEGAMELA** ::{ flag=FI }:: | **5** | 2 | ::{ flag=LV }:: Huntey | [#1](https://osu.ppy.sh/community/matches/103210386) |
+| **Chupalika** ::{ flag=US }:: | **5** | 0 | ::{ flag=US }:: SlipperyPickle | [#1](https://osu.ppy.sh/community/matches/103211615) |
+| **Boaz** ::{ flag=NL }:: | **5** | 0 | ::{ flag=IT }:: KITEMMUORT322 | [#1](https://osu.ppy.sh/community/matches/103212527) |
+| **D3kuu** ::{ flag=IT }:: | **5** | 0 | ::{ flag=CA }:: dots\_ | [#1](https://osu.ppy.sh/community/matches/103213249) |
+| **6\_6** ::{ flag=CA }:: | **5** | 0 | ::{ flag_ES }:: OneBurstMan | [#1](https://osu.ppy.sh/community/matches/103217408) |
+
+Sunday, 21 August 2022:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **ICECAKE** ::{ flag=JP }:: | **5** | 1 | ::{ flag=VE }:: Shinsekai- | [#1](https://osu.ppy.sh/community/matches/103220424) |
+| **MattrexDark** ::{ flag=SG }:: | **5** | 0 | ::{ flag=CR }:: Hotman | [#1](https://osu.ppy.sh/community/matches/103222322) |
+| **Ku\_Ren** ::{ flag=JP }:: | **5** | 0 | ::{ flag=US }:: ERA Klarion | [#1](https://osu.ppy.sh/community/matches/103222414) |
+| **Prehistoria** ::{ flag=SG }:: | **5** | 0 | ::{ flag=JP }:: yayuyoyo | [#1](https://osu.ppy.sh/community/matches/103225994) |
+| **\[GB\]Edward\_Tsui** ::{ flag=CN }:: | **5** | 1 | ::{ flag=IT }:: megalovania lol | [#1](https://osu.ppy.sh/community/matches/103228305) |
+| **qoot8123** ::{ flag=TW }:: | **5** | 1 | ::{ flag=NO }:: Mist31 | [#1](https://osu.ppy.sh/community/matches/103229222) |
+| **QuassBot** ::{ flag=RU }:: | **5** | 1 | ::{ flag=NZ }:: Blujae | [#1](https://osu.ppy.sh/community/matches/103230271) |
+| LuriCookie ::{ flag=US }:: | 4 | **5** | ::{ flag=TW }:: **0Ixcy0** | [#1](https://osu.ppy.sh/community/matches/103230275) |
+| **Dayzeek** ::{ flag=RU }:: | **5** | 0 | ::{ flag=FR }:: Acii\_ | [#1](https://osu.ppy.sh/community/matches/103230128) |
+| **Zero1519** ::{ flag=CH }:: | **5** | 1 | ::{ flag=DE }:: Dioramos | [#1](https://osu.ppy.sh/community/matches/103230225) |
+| **Joltzzz** ::{ flag=ID }:: | **5** | 0 | ::{ flag=HK }:: YonGin | [#1](https://osu.ppy.sh/community/matches/103232771) |
+| **QALF** ::{ flag=FR }:: | **0** | -1 | ::{ flag=EE }:: PaskAcc | *win by default* |
+| **driodx** ::{ flag=US }:: | **5** | 4 | ::{ flag=FR }:: Rezyia | [#1](https://osu.ppy.sh/community/matches/103234253) |
+| **mBiscuit** ::{ flag=US }:: | **5** | 0 | ::{ flag=IT }:: Awwy | [#1](https://osu.ppy.sh/community/matches/103234209) |
+| davidminh0111 ::{ flag=VN }:: | -1 | **0** | ::{ flag=FR }:: **Chernobog** | *win by default* |
+| **Vendelicious** ::{ flag=NO }:: | **5** | 1 | ::{ flag=US }:: Etholux | [#1](https://osu.ppy.sh/community/matches/103235450) |
+
 ### Qualifiers
 
 Detailed statistics for this round can be found in [this spreadsheet](https://gtsosu.com/egts/stats#0) alongside the final standings on which players made it through to the next stage.
