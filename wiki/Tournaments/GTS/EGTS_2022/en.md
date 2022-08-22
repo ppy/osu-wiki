@@ -152,7 +152,7 @@ Friday, 19 August 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Dusk** ::{ flag=GB }:: | **5** | 0 | ::{ flag=IT }:: Plasmusss | [#1][(](https://osu.ppy.sh/community/matches/103173461)) |
+| **Dusk** ::{ flag=GB }:: | **5** | 0 | ::{ flag=IT }:: Plasmusss | [#1](https://osu.ppy.sh/community/matches/103173461) |
 
 Saturday, 20 August 2022:
 
