@@ -172,7 +172,7 @@ Saturday, 20 August 2022:
 | **Chupalika** ::{ flag=US }:: | **5** | 0 | ::{ flag=US }:: SlipperyPickle | [#1](https://osu.ppy.sh/community/matches/103211615) |
 | **Boaz** ::{ flag=NL }:: | **5** | 0 | ::{ flag=IT }:: KITEMMUORT322 | [#1](https://osu.ppy.sh/community/matches/103212527) |
 | **D3kuu** ::{ flag=IT }:: | **5** | 0 | ::{ flag=CA }:: dots\_ | [#1](https://osu.ppy.sh/community/matches/103213249) |
-| **6\_6** ::{ flag=CA }:: | **5** | 0 | ::{ flag_ES }:: OneBurstMan | [#1](https://osu.ppy.sh/community/matches/103217408) |
+| **6\_6** ::{ flag=CA }:: | **5** | 0 | ::{ flag=ES }:: OneBurstMan | [#1](https://osu.ppy.sh/community/matches/103217408) |
 
 Sunday, 21 August 2022:
 
