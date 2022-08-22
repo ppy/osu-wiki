@@ -44,7 +44,7 @@
 | [ircII](http://www.eterna.com.au/ircii/) | 输入 `IGNORE * CRAP` |
 | [Irssi](https://irssi.org) | 输入 `/ignore * JOINS PARTS QUITS` |
 | [Weechat](https://weechat.org/) | 输入 `/filter add joinquit * irc_join,irc_part,irc_quit *` |
-| [Konversation](https://konversation.kde.org/) | 在`` |
+| [Konversation](https://konversation.kde.org/) | 在 `Settings` -> `Configure Konversation...` (`Ctrl` + `Shift` + `,`) -> `Behavior` -> `Chat Window` 中勾选 “Hide Join/Part/Nick Events” <!-- 这个软件的翻译网站有中文(？)但是Windows安装版本没看见有中文 --> |
 | [KVIrc](https://www.kvirc.net/) | (请参考 [KVIrc wiki](https://github.com/kvirc/KVIrc/wiki/FAQ#how-do-i-suppress-join-part-and-quit-messages)) |
 | [mIRC](https://www.mirc.com/) | 前往 mIRC 设置（`Tools` -> `Options`，或者按下 `Alt` + `O`），点击 `Event...` 按钮然后在 `Joins` 和 `Parts` 下拉栏中选择 `Hide`<!-- 这个软件没有中文，所以用户界面字段使用英文 This software has no translation for Chinese, so use English for user interface string --> |
 | [Quassel IRC](https://quassel-irc.org/) | 在聊天界面右键，在 `Hide Events` 菜单中选择 `joins and parts` <!-- 同上 Same as above --> |
