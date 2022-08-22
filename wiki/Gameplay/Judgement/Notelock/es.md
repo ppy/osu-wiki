@@ -23,7 +23,7 @@ Cuando ocurra el Notelock, el circulo golpeado se sacudirá. Esto no sucede con 
 
 ## Causa
 
-El notelock es parte del sistema de timing de osu! y sucede cuando la ventana de tiempo de dos objetos se superpone. Esto ocurre con mayor frecuencia en mapas con valores bajos de [OD](/wiki/Beatmapping/Overall_difficulty) o valores altos de [BPM](/wiki/Beatmapping/Beats_per_minute), ya que en estos casos son más frecuentes la superposición en la ventana de tiempo.
+El notelock es parte del sistema de la ventana de tempo de osu!, y sucede cuando la ventana de tiempo de dos objetos se superpone. Esto ocurre con mayor frecuencia en mapas con valores bajos de [OD](/wiki/Beatmapping/Overall_difficulty) o valores altos de [BPM](/wiki/Beatmapping/Beats_per_minute), ya que en estos casos son más frecuentes la superposición en la ventana de tiempo.
 
 Dado que regularmente los objetos en los mapas de osu! están destinados a borrarse en orden cronológico, el rechazo de golpes causados por el notelock, generalmente juega un papel positivos como:
 
