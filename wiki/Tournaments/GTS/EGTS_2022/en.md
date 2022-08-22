@@ -74,6 +74,31 @@ The Expert Global Taiko Showdown 2022 is run by various community members.
 
 ## Mappools
 
+### Round of 64
+
+**[Download the mappack here! (91 MB)](https://mega.nz/file/SZQy2aDZ#QwcEZrFyd-t-ZBPaBIJ9a2Aj7PSeU0zEjBw9dZkrC1o)**
+
+- NoMod
+  1. [NIWASHI - Silence is Golden, Speech is Golden (Cychloryn) \[Cychlo & HiroK are Golden\]](https://osu.ppy.sh/beatmapsets/1833489#taiko/3764096)
+  2. [Kobaryo - SEITEN NO TERIYAKI (X a v y) \[LEGENDARY ONI\]](https://osu.ppy.sh/beatmapsets/1833494#taiko/3764104)
+  3. [phonon - assembly (dtn) \[egts\]](https://osu.ppy.sh/beatmapsets/1833802#taiko/3764703)
+  4. [MAX MAXIMIZER - CLAMARE (Cynplytholowazy) \[KING\]](https://osu.ppy.sh/beatmapsets/1833434#taiko/3763976)
+- Hidden
+  1. [Ujico\* - BLSTR (roufou) \[Game Over\]](https://osu.ppy.sh/beatmapsets/1833510#taiko/3764140)
+  2. [Rita - dorchadas (Cut ver.) (Nwolf) \[Very Oni\]](https://osu.ppy.sh/beatmapsets/1833515#taiko/3764148)
+- HardRock
+  1. [nonoc - Memento (droplamp Remix) (tasuke912) \[Greed\]](https://osu.ppy.sh/beatmapsets/1833332#taiko/3763709)
+  2. [BUTAOTOME - Trauma Recorder (Nwolf) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1833526#taiko/3764166)
+- DoubleTime
+  1. [kozato snow - Rengetsu Ouka (Ideal) \[Snowy Ribbon\]](https://osu.ppy.sh/beatmapsets/1833532#taiko/3764176)
+  2. [Hirasawa Yui (CV Toyosaki Aki) - Guitar ni Kubittake (kmsn\_dnb\_bootleg\_rmx) (BabySnakes) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1833613#taiko/3764316)
+- FreeMod
+  1. [Aoi - TYPE-Rebellion (Cynplytholowazy) \[Resistance\]](https://osu.ppy.sh/beatmapsets/1833435#taiko/3763979)
+  2. [Mifumei - Yurame (\[Zeth\]) \[Fluctuation\]](https://osu.ppy.sh/beatmapsets/1833425#taiko/3763957)
+  3. [Maoki Yamamoto - Houkago concertino~watashi dake no bushitsu kyousoukyoku (roufou) \[Frenzy\]](https://osu.ppy.sh/beatmapsets/1833545#taiko/3764201)
+- Tiebreaker
+  1. **[Gardens - Rafflesia (5\_5) \[5\_5 and Unagi's Flower of Death\]](https://osu.ppy.sh/beatmapsets/1833491#taiko/3764098)**
+
 ### Round of 96
 
 **[Download the mappack here! (73 MB)](https://mega.nz/file/2QATVbSD#jAPFWPwuBMfl7AtJP8I_pX8MzOyI63-jCsXKHxpZB84)**
