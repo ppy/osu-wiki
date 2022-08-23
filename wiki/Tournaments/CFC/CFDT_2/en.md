@@ -10,7 +10,7 @@ tags:
 
 ![CFDT 2 logo](img/logo.jpg)
 
-The **Catch French Dual Tournament 2** (***CFDT 2***) is a French double-elimination 2v2 osu!catch tournament hosted by ::{ flag=FR }:: [h-e-c-a123](https://osu.ppy.sh/users/3163012) and ::{ flag=FR }:: [Laffey Gaming](https://osu.ppy.sh/users/5122949). Two players will form a team with first rank range is between #1 and #500, and the second rank range is rank #501 or below. It is the second instalment of the Catch French Dual Tournament and part of the Catch French Cup series.
+The **Catch French Dual Tournament 2** (***CFDT 2***) is a French double-elimination 2v2 osu!catch tournament hosted by ::{ flag=FR }:: [h-e-c-a123](https://osu.ppy.sh/users/3163012) and ::{ flag=FR }:: [Laffey Gaming](https://osu.ppy.sh/users/5122949). Two players will form a team with first rank range is between #1 and #500 and the second rank range is rank #501 or below. It is the second instalment of the Catch French Dual Tournament and part of the Catch French Cup series.
 
 ## Tournament schedule
 
@@ -126,28 +126,32 @@ Detailed statistics for this round can be found in [this spreadsheet](https://do
 
 ### General rules
 
-1. Participant must be within ranks #900 - #2,999 during registrations.
+1. A valid team formation will be:
+   - A participant with rank range between #1 and #500
+   - A participant with rank range below #501
+   - One of the participant must be able to speak french or has a french flag in their profile
 2. The Score System used will be **Score V2**.
-3. If player can't attend within the span of **10 minutes**, the other player will win by default.
+3. If team can't attend within the span of **10 minutes**, the other team will win by default.
 4. Even in a tournament scene osu! is still a game. Please respect each other to everyone, be friendly, and fair play.
 5. Catch French Dual Tournament 2 will use double-elimination bracket, which means that there will be a loser's bracket.
-6. Any player with French flag can participate in the tournament.
 
 ### Match regulations
 
-1. Players will do `!roll` at the start of the match to determine the order of who picks and bann first.
-2. Warmups are not allowed, so make sure you are well warmed up before playing against your opponent.
+1. Teams will do `!roll` at the start of the match to determine the order of who picks and bann first.
+   - Team with higher roll will pick first and bann second
+   - Team with lower roll will bann first and pick second
+2. Warmups are not allowed, so make sure to be well warmed up before playing.
 3. Regarding map bans, the amount of map should be banned are as follows:
    - From Round of 16 until Semifinals, each player will ban 1 map per match.
    - In the Finals and Grand Finals, each player will ban 2 maps per match.
 4. Failed scores count, with that NoFail will be enforced for everyone
-5. The same player is not allowed to ban or the same mod twice in a row.
-6. Players will be forced to use a mod from a FreeMod pick.
-7. Hidden mod is combineable with HardRock and DoubleTime mod.
-8. The Tiebreaker will be played under NoMod or Hidden.
+5. The same team is not allowed to ban or the same mod twice in a row (e.g. banning two HardRock maps).
+6. Hidden mod is combineable with HardRock and DoubleTime mod.
+7. The Tiebreaker can be played under NoMod or Hidden.
 
 ### Winning conditions
 
-1. Round of 16 and Quarterfinals: Best-of-9 (first to 5 points)
-2. Semifinals: Best-of-11 (first to 6 points)
-3. **Finals and Grand Finals**: Best-of-13 (first to 7 points)
+1. Round of 16: Best-of-7 (first to 4 points)
+2. Quarterfinals: Best-of-9 (first to 5 points)
+3. Semifinals: Best-of-11 (first to 6 points)
+4. **Finals and Grand Finals**: Best-of-13 (first to 7 points)
