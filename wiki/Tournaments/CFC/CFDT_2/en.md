@@ -10,7 +10,7 @@ tags:
 
 ![CFDT 2 logo](img/logo.jpg)
 
-The **Catch French Dual Tournament 2** (***CFDT 2***) is a French double-elimination 2v2 osu!catch tournament hosted by ![][flag_FR] [h-e-c-a123](https://osu.ppy.sh/users/3163012) and ![][flag_FR] [Laffey Gaming](https://osu.ppy.sh/users/5122949). Two players will form a team with first rank range is between #1 and #500, and the second rank range is rank #501 or below. It is the second instalment of the Catch French Dual Tournament and part of the Catch French Cup series.
+The **Catch French Dual Tournament 2** (***CFDT 2***) is a French double-elimination 2v2 osu!catch tournament hosted by ::{ flag=FR }:: [h-e-c-a123](https://osu.ppy.sh/users/3163012) and ::{ flag=FR }:: [Laffey Gaming](https://osu.ppy.sh/users/5122949). Two players will form a team with first rank range is between #1 and #500, and the second rank range is rank #501 or below. It is the second instalment of the Catch French Dual Tournament and part of the Catch French Cup series.
 
 ## Tournament schedule
 
@@ -39,25 +39,23 @@ The Catch French Dual Tournament 2 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012), ::{ flag=FR }:: [YANOO123](https://osu.ppy.sh/users/5122949) |
-| Mappool selector | ::{ flag=FR }:: [\_Manyura](https://osu.ppy.sh/users/8335913), ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012), ::{ flag=AT }:: [Mashiro Mama](https://osu.ppy.sh/users/10415976), ::{ flag=FR }:: [Natsuko](https://osu.ppy.sh/users/8266817), ::{ flag=FR }:: [Noctalium](https://osu.ppy.sh/users/6488167), ::{ flag=FR }:: [Oasix](https://osu.ppy.sh/users/6183012), ::{ flag=FR }:: [Realmas](https://osu.ppy.sh/users/6567640) |
-| Referee | ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012), ::{ flag=FR }:: [Nyton](https://osu.ppy.sh/users/9475990), ::{ flag=FR }:: [Oasix](https://osu.ppy.sh/users/6183012), ::{ flag=FR }:: [Taevas](https://osu.ppy.sh/users/7276846), ::{ flag=FR }:: [Un bretzel](https://osu.ppy.sh/users/1542565), ::{ flag=FR }:: [YANOO123](https://osu.ppy.sh/users/5122949) |
-| Streamer | ::{ flag=FR }:: [Noctalium](https://osu.ppy.sh/users/6488167), ::{ flag=FR }:: [Realmas](https://osu.ppy.sh/users/6567640), ::{ flag=FR }:: [Shamookie](https://osu.ppy.sh/users/12441210), ::{ flag=FR }:: [Shamookie Simp](https://osu.ppy.sh/users/15334170), ::{ flag=FR }:: [Un bretzel](https://osu.ppy.sh/users/1542565) |
-| Commentator | ::{ flag=FR }:: [\_Manyura](https://osu.ppy.sh/users/8335913), ::{ flag=FR }:: [AiNA](https://osu.ppy.sh/users/4426908), ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012), ::{ flag=FR }:: [JunKoAndHiro](https://osu.ppy.sh/users/14004732), ::{ flag=FR }:: [lgor](https://osu.ppy.sh/users/10769450), ::{ flag=FR }:: [Kitsuka](https://osu.ppy.sh/users/10334943), ::{ flag=FR }:: [Natsuko](https://osu.ppy.sh/users/8266817), ::{ flag=FR }:: [Realmas](https://osu.ppy.sh/users/6567640), ::{ flag=FR }:: [Shamookie Simp](https://osu.ppy.sh/users/15334170), ::{ flag=FR }:: [SkyBlazedPTK](https://osu.ppy.sh/users/8710703) ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467) |
-| Designer | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
-| Statistician | ::{ flag=FR }:: [YANOO123](https://osu.ppy.sh/users/5122949) |
+| Organiser | ::{ flag=FR }:: [h-e-c-a123](https://osu.ppy.sh/users/3163012), ::{ flag=FR }:: [Laffey Gaming](https://osu.ppy.sh/users/5122949) |
+| Mappool selector | ::{ flag=FR }:: [AiNA](https://osu.ppy.sh/users/4426908), ::{ flag=FR }:: [h-e-c-a123](https://osu.ppy.sh/users/3163012) |
+| Custom mapper | ::{ flag=FR }:: [Noctalium](https://osu.ppy.sh/users/6488167), ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |
+| Mappool tester | ::{ flag=FR }:: [Bebar](https://osu.ppy.sh/users/12584928), ::{ flag=FR }:: [Noctalium](https://osu.ppy.sh/users/6488167) |
+| Referee | ::{ flag=FR }:: [bambinex](https://osu.ppy.sh/users/18818124), ::{ flag=BE }:: [Cakenoob](https://osu.ppy.sh/users/6045522), ::{ flag=FR }:: [h-e-c-a123](https://osu.ppy.sh/users/3163012), ::{ flag=FR }:: [Laffey Gaming](https://osu.ppy.sh/users/5122949), ::{ flag=FR }:: [Mimir](https://osu.ppy.sh/users/7382734), ::{ flag=FR }:: [Pizou](https://osu.ppy.sh/users/9475990) |
+| Streamer | ::{ flag=FR }:: [AiNA](https://osu.ppy.sh/users/4426908), ::{ flag=FR }:: [Jielefe](https://osu.ppy.sh/users/15334170), ::{ flag=FR }:: [Noctalium](https://osu.ppy.sh/users/6488167), ::{ flag=FR }:: [Pizou](https://osu.ppy.sh/users/9475990) |
+| Commentator | ::{ flag=FR }:: [AiNA](https://osu.ppy.sh/users/4426908), ::{ flag=FR }:: [bambinex](https://osu.ppy.sh/users/18818124), ::{ flag=FR }:: [h-e-c-a123](https://osu.ppy.sh/users/3163012), ::{ flag=FR }:: [Jielefe](https://osu.ppy.sh/users/15334170), ::{ flag=FR }:: [Kitsuka](https://osu.ppy.sh/users/10334943), ::{ flag=FR }:: [MitsukeZ](https://osu.ppy.sh/users/12943161) |
+| Designer | ::{ flag=FR }:: [Jielefe](https://osu.ppy.sh/users/15334170), ::{ flag=FR }:: [Nin-Amel](https://osu.ppy.sh/users/5210058) |
 | Wiki writer | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1392589)
-- [CFC Discord server](https://discord.gg/PEz2enJjUr)
-- Livestream
-  - [osufrlive](https://twitch.tv/osufrlive)
-  - [osufrlive2](https://twitch.tv/osufrlive2)
-  - [osufrlive3](https://twitch.tv/osufrlive3)
-- [Challonge brackets](https://challonge.com/35tf5wf)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1LanifzyLFqyF4KPqB9p1Ykk4pHFVEkAGO2QVMYJ8vYc/edit)**
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1605746?n=1)
+- [CFC Discord server](https://discord.gg/YPfmnRcv6e)
+- [Livestream](https://twitch.tv/osufrlive)
+- [Challonge brackets](https://challonge.com/CFDT2)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1XAdGOnI3yZ1-i_5AOdsZZong_EwiV_S2AjzxxQOdFwg/edit)**
 
 ## Participants
 
