@@ -59,23 +59,25 @@ The Catch French Dual Tournament 2 was run by various community members.
 
 ## Participants
 
-| Seed | Members |
+| Team | Members |
 | :-- | :-- |
-| Top | ::{ flag=FR }:: [AiNA](https://osu.ppy.sh/users/4426908), ::{ flag=FR }:: [Shamookie](https://osu.ppy.sh/users/12441210), ::{ flag=FR }:: [Shamookie Simp](https://osu.ppy.sh/users/15334170), ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467) |
-| High | ::{ flag=FR }:: [Papy Enias](https://osu.ppy.sh/users/8384680), ::{ flag=FR }:: [floflim](https://osu.ppy.sh/users/5954015), ::{ flag=FR }:: [Cryophenix](https://osu.ppy.sh/users/3996466), ::{ flag=FR }:: [Bebar](https://osu.ppy.sh/users/12584928) |
-| Low | ::{ flag=FR }:: [Trifano](https://osu.ppy.sh/users/15126172), ::{ flag=FR }:: [Kaudae](https://osu.ppy.sh/users/9294630), ::{ flag=FR }:: [caillrot](https://osu.ppy.sh/users/13108984), ::{ flag=FR }:: [wind in seoul](https://osu.ppy.sh/users/14803288) |
-| Unseeded | ::{ flag=FR }:: [Le Gentil](https://osu.ppy.sh/users/14716810), ::{ flag=FR }:: [NoLimitFS](https://osu.ppy.sh/users/10411609), ::{ flag=FR }:: [Kanna\_Shiro](https://osu.ppy.sh/users/12943235), ::{ flag=FR }:: [BigNounours](https://osu.ppy.sh/users/11632258) |
-| Eliminated | ::{ flag=FR }:: [ilade](https://osu.ppy.sh/users/18061899), ::{ flag=FR }:: [Jibsz](https://osu.ppy.sh/users/12269489), ::{ flag=FR }:: [redjiii](https://osu.ppy.sh/users/1378728) |
-
-## Podium
-
-This competition has come to an end and resulted in the following podium:
-
-| Placing | Player |
-| :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=FR }:: [AiNA](https://osu.ppy.sh/users/4426908) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=FR }:: [Cryophenix](https://osu.ppy.sh/users/3996466) |
+| **5€** | ::{ flag=FR }:: **[Boros](https://osu.ppy.sh/users/5490623)**, ::{ flag=KR }:: [T s u m i](https://osu.ppy.sh/users/4080520) |
+| **:nanasmil:** | ::{ flag=FR }:: **[Oasix](https://osu.ppy.sh/users/6183012)**, ::{ flag=AT }:: [Mashiro Mama](https://osu.ppy.sh/users/10415976) |
+| **:pleading_face:** | ::{ flag=FR }:: **[Natsuko](https://osu.ppy.sh/users/8266817)**, ::{ flag=ID }:: [Ruu](https://osu.ppy.sh/users/3212755) |
+| **Black Ice** | ::{ flag=FR }:: **[Sounny](https://osu.ppy.sh/users/7326109)**, ::{ flag=RU }:: [Nerris](https://osu.ppy.sh/users/11202866) |
+| **dégénéré** | ::{ flag=FR }:: **[\_\_\_\_\_\_\_\_\_\_\__](https://osu.ppy.sh/users/6973354)**, ::{ flag=FR }:: [Zelepha](https://osu.ppy.sh/users/6201167) |
+| **Florika** | ::{ flag=FR }:: **[floflim](https://osu.ppy.sh/users/5954015)**, ::{ flag=SG }:: [He Ang CTB](https://osu.ppy.sh/users/2451381) |
+| **FR X US  coalition** | ::{ flag=FR }:: **[Electr0o](https://osu.ppy.sh/users/9484428)**, ::{ flag=US }:: [Elux](https://osu.ppy.sh/users/12004983) |
+| **French Penguins** | ::{ flag=FR }:: **[Yostel](https://osu.ppy.sh/users/3594510)**, ::{ flag=IT }:: [ArMa79](https://osu.ppy.sh/users/4982799) |
+| **hecatia fanclub** | ::{ flag=CA }:: **[WadBot](https://osu.ppy.sh/users/14571181)**, ::{ flag=CA }:: [Zyoulou](https://osu.ppy.sh/users/8668722) |
+| **JP DANS DA TOURNOI** | ::{ flag=CA }:: **[SandwichMaster](https://osu.ppy.sh/users/7345342)**, ::{ flag=CA }:: [Katsuragi](https://osu.ppy.sh/users/3616480) |
+| **Le Grand Jordan23** | ::{ flag=FR }:: **[Dask](https://osu.ppy.sh/users/4151397)**, ::{ flag=CL }:: [Stark](https://osu.ppy.sh/users/1565036) |
+| **Not French** | ::{ flag=LU }:: **[Melodies](https://osu.ppy.sh/users/7787785)**, ::{ flag=PL }:: [Mniam](https://osu.ppy.sh/users/6050530) |
+| **Pot au Phô** | ::{ flag=FR }:: **[Vincs](https://osu.ppy.sh/users/2026299)**, ::{ flag=AU }:: [Yenni](https://osu.ppy.sh/users/3874176) |
+| **Quesedilla avec les frites BELGES** | ::{ flag=BE }:: **[\[ Quinten \]](https://osu.ppy.sh/users/6283136)**, ::{ flag=MX }:: [Muragaki](https://osu.ppy.sh/users/13195815) |
+| **Red Hawk** | ::{ flag=FR }:: **[Kanna\_Shiro](https://osu.ppy.sh/users/12943235)**, ::{ flag=AR }:: [Saikai](https://osu.ppy.sh/users/8172283) |
+| **Taco w/ Baguette** | ::{ flag=FR }:: **[Gray Hardrock](https://osu.ppy.sh/users/9049282)**, ::{ flag=CL }:: [Pekorrat](https://osu.ppy.sh/users/1250096) |
+| **Timezone diff** | ::{ flag=FR }:: **[Jielefe](https://osu.ppy.sh/users/15334170)**, ::{ flag=KR }:: [\[Amazing\]](https://osu.ppy.sh/users/1391036) |
 
 ## Mappools
 
