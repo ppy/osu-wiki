@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # ¡Cómo puedes ayudar!
 
 osu! tiene una comunidad muy animada compuesta por personas de todo el mundo. ¡Y cualquiera puede formar parte de la comunidad a su manera! 
@@ -46,7 +50,7 @@ osu! cuenta con un equipo de revisores dedicado, los [Beatmap Nominators](/wiki/
 - [Únete a los canales de `#mapping` y `#modreqs` en el chat del juego y únete a la conversación o simplemente siguela.
 - Si tienes tiempo y dedicación, haz un [Modding Queue](https://osu.ppy.sh/community/forums/60) para que los creadores de beatmaps tengan un lugar donde solicitarte mods.
 
-## Da opiniones sobre el progreso de los jugadores o las skins.
+## Da opiniones sobre el progreso de los jugadores o las skins!
 
 A todo el mundo le gusta mejorar y, para ello, necesita recibir opiniones. A menudo, los usuarios solicitan comentarios sobre su progreso sobre cómo juegan en el [Gameplay & Rankings forum](https://osu.ppy.sh/community/forums/13) y otros esperan ansiosos los comentarios sobre su última creación de skins en el [Work In Progress Skins forum](https://osu.ppy.sh/community/forums/119).
 
