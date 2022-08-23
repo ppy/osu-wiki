@@ -110,7 +110,6 @@ Lista wszystkich moderatorów globalnych jest dostępna na [stronie grupy](https
 | ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) | Szwedzki, hiszpański | Moderowanie czatu |
 | ::{ flag=IT }:: [Seijiro](https://osu.ppy.sh/users/2581696) | Włoski, rumuński | Moderowanie czatu |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | Francuski, hiszpański | Moderowanie czatu |
-| ::{ flag=SG }:: [Shoegazer](https://osu.ppy.sh/users/2520707) | Portugalski | Moderowanie społeczności twórców i moderów beatmap |
 | ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) | Indonezyjski | Moderowanie czatu |
 | ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | Indonezyjski, wietnamski (częściowo) | Moderowanie czatu |
 | ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) | Chiński | Moderowanie czatu |

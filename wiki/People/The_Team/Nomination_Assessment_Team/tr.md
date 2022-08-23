@@ -49,15 +49,19 @@ NAT uzun zaman periyodlarıyla potansiyel NAT üyelerini gözetler, ve genellikl
 | İsim | Ek diller | Birincil sorumluluklar |
 | :-- | :-- | :-- |
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) |  | Değerlendirme, moderasyon |
+| ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) |  | Değerlendirme |
+| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | Belarusça, Rusça | Değerlendirme |
 | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Kantonca, Çince | Değerlendirme |
+| ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | Değerlendirme |
 | ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Çince | Değerlendirme |
+| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Almanca | Değerlendirme |
+| ::{ flag=SG }:: [Kotoha](https://osu.ppy.sh/users/7823498) | Çince | Değerlendirme |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | İsveççe | Yapısal, haberleşme |
 | ::{ flag=GB }:: [NexusQI](https://osu.ppy.sh/users/13822800) |  | Değerlendirme |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | Yapısal |
 | ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | Değerlendirme |
 | ::{ flag=AT }:: [Stixy](https://osu.ppy.sh/users/9000308) | Almanca, Sırpça | Değerlendirme |
 | ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) |  | Değerlendirme |
-| ::{ flag=CL }:: [Uberzolik](https://osu.ppy.sh/users/1314547) | İspanyolca, Fransızca | Değerlendirme |
 | ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | Felemenkçe | Değerlendirme |
 | ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | Lehçe | Değerlendirme |
 
@@ -75,7 +79,7 @@ NAT uzun zaman periyodlarıyla potansiyel NAT üyelerini gözetler, ve genellikl
 | :-- | :-- | :-- |
 | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | İspanyolca, Almanca | Değerlendirme, moderasyon |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Felemenkçe | Değerlendirme, yapısal |
-| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) | | Değerlendirme |
+| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  | Değerlendirme |
 
 ### osu!mania
 
