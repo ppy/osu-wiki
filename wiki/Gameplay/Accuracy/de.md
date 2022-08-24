@@ -1,7 +1,5 @@
 # Genauigkeit
 
-<!-- TODO: images could be in a more friendly font, wording is sometimes too... wordy -->
-
 Die Genauigkeit ist ein prozentualer Messwert für die Fertigkeit eines Spielers, [Hit-Objekte](/wiki/Hit_object) rechtzeitig zu treffen. Es gibt drei Arten von Genauigkeit, die ein Spieler haben kann: die Genauigkeit der Beatmap, die von den erzielten Trefferpunkten abhängt; die Gesamtgenauigkeit des Spielers, die gewichtet wird, damit bessere Leistungen stärker hervorstechen; und die [Performancepunkte (pp)](/wiki/Performance_points) Genauigkeit des Spielers, die von der Genauigkeit des erzielten Scores abhängig ist.
 
 ## Spielmodi
@@ -78,14 +76,13 @@ Aufgrund der Art und Weise, wie die Mods [DT](/wiki/Game_modifier/Double_Time) (
 
 #### Unstable rate
 
-`Unstable Rate` steht für die Gleichmäßigkeit des Timings der Treffer, wobei niedrigere Zahlen besser sind (Top-Spieler erreichen oft Werte unter 100). Zu beachten ist, dass der Wert die Gleichmäßigkeit und nicht die Genauigkeit misst, das heißt, 15ms zu früh zu treffen ist hierbei dasselbe wie rechtzeitig zu treffen. 
-Die Formel ist im Wesentlichen die Standardabweichung der Trefferfehler (in Millisekunden), multipliziert mit 10. [Beispielcode](https://gist.github.com/peppy/3a11cb58c856b6af7c1916422f668899) ist als Referenz verfügbar und zeigt, wie osu-stable die Unstable Rate-Werte berechnet.
+`Unstable Rate` steht für die Gleichmäßigkeit des Timings der Treffer, wobei niedrigere Zahlen besser sind (Top-Spieler erreichen oft Werte unter 100). Zu beachten ist, dass der Wert die Gleichmäßigkeit und nicht die Genauigkeit misst, das heißt, 15ms zu früh zu treffen ist hierbei dasselbe wie rechtzeitig zu treffen. Die Formel ist im Wesentlichen die Standardabweichung der Trefferfehler (in Millisekunden), multipliziert mit 10. [Beispielcode](https://gist.github.com/peppy/3a11cb58c856b6af7c1916422f668899) ist als Referenz verfügbar und zeigt, wie osu-stable die Unstable Rate-Werte berechnet.
 
 ### Spin
 
 *Hinweis: Spin wird nur für den [osu! Spielmodus](/wiki/Game_mode/osu!) verwendet.*
 
-Zusätzlich zur Genauigkeit werden in der gleichen Meldung auch einige Informationen zu Spinnern angezeigt. <!-- This line could use some more information on what that information is, how it's calculated, what it means, etc. etc. -->
+Zusätzlich zur Genauigkeit werden in der gleichen Meldung auch einige Informationen zu Spinnern angezeigt.
 
 #### Speed
 
