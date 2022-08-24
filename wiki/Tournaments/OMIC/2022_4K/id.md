@@ -249,7 +249,7 @@ Minggu, 7 Agustus 2022
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Loser | **\[Albert\]** ::{ flag=ID }:: | **7** | 3 |::{ flag=ID }::  Proxae | [#1](https://osu.ppy.sh/community/matches/102884090) |
+| Loser | **\[Albert\]** ::{ flag=ID }:: | **7** | 3 | ::{ flag=ID }:: Proxae | [#1](https://osu.ppy.sh/community/matches/102884090) |
 | Winner | **RetroEX** ::{ flag=ID }:: | **7** | 2 | ::{ flag=ID }:: Onta\_Bekasi | [#1](https://osu.ppy.sh/community/matches/102888337) |
 
 ### Senifinal
@@ -391,10 +391,10 @@ Minggu, 10 Juli 2022
 
 #### Babak Kualifikasi
 
-  - Jumlah pemain maksimal untuk memasuki babak selanjutnya adalah 32 pemain.
-  - Pada babak kualifikasi akan ada 5 map dalam mappool yang memiliki skillset yang berbeda-beda, semua map tersebut akan dibuat oleh para pembuat map.
-  - Semua pemain akan memiliki 2 kesempatan untuk bermain di tiap map, yang berarti total lagu yang dimainkan adalah 10.
-  - Skor tertinggi yang dimainkan tiap beatmap akan dimasukkan dan skor kualifikasi akan diakumulasikan berdasarkan perbandingan skor oleh pemain lainnya.
+- Jumlah pemain maksimal untuk memasuki babak selanjutnya adalah 32 pemain.
+- Pada babak kualifikasi akan ada 5 map dalam mappool yang memiliki skillset yang berbeda-beda, semua map tersebut akan dibuat oleh para pembuat map.
+- Semua pemain akan memiliki 2 kesempatan untuk bermain di tiap map, yang berarti total lagu yang dimainkan adalah 10.
+- Skor tertinggi yang dimainkan tiap beatmap akan dimasukkan dan skor kualifikasi akan diakumulasikan berdasarkan perbandingan skor oleh pemain lainnya.
 - Setelah babak kualifikasi berakhir akan ada pembagian pemain berdasarkan seed.
   - Fungsi seed adalah untuk pembagian pada Babak selanjutnya, dimana pemain diacak berdasarkan seed yang berbeda-beda.
   - Pembagian seed berdasarkan posisi di kualifikasi :
@@ -405,10 +405,10 @@ Minggu, 10 Juli 2022
 
 #### Babak 32 Besar hingga Grand Final
 
-  - Jika salah satu pemain tidak hadir, maka pemain yang hadir dalam pertandingan akan dinyatakan **menang secara otomatis (*win by default*)**.
-    - Sebelum pertandingan dimulai, pemain melakukan roll terlebih dahulu. Pemain yang menang dalam roll dapat memilih **untuk melakukan protect atau ban** terlebih dahulu dan disusul oleh pemain yang kalah dalam roll. Setelah kedua pemain telah menentukan map yang di-protect dan di-ban, pemain akan memilih **map yang akan dimainkan**.
-    - Jika kedua pemain mendapatkan skor yang sama, maka **pertandingan akan diulang dengan memakai map yang sama**.
-    - Map Tiebreaker dimainkan ketika kedua pemain mendapatkan poin selisih satu dengan poin kemenangan yang **seharusnya didapat** untuk **memenangkan pertandingan**.
+- Jika salah satu pemain tidak hadir, maka pemain yang hadir dalam pertandingan akan dinyatakan **menang secara otomatis (*win by default*)**.
+  - Sebelum pertandingan dimulai, pemain melakukan roll terlebih dahulu. Pemain yang menang dalam roll dapat memilih **untuk melakukan protect atau ban** terlebih dahulu dan disusul oleh pemain yang kalah dalam roll. Setelah kedua pemain telah menentukan map yang di-protect dan di-ban, pemain akan memilih **map yang akan dimainkan**.
+  - Jika kedua pemain mendapatkan skor yang sama, maka **pertandingan akan diulang dengan memakai map yang sama**.
+  - Map Tiebreaker dimainkan ketika kedua pemain mendapatkan poin selisih satu dengan poin kemenangan yang **seharusnya didapat** untuk **memenangkan pertandingan**.
 - Komposisi mappool untuk masing-masing babak pada fase gugur adalah sebagai berikut:
   - 32 Besar : Best of 7 (Total 10 Map, 1 TieBreak)
   - 16 Besar : Best of 9 (Total 11 Map, 1 TieBreak)
