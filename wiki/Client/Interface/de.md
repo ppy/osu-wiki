@@ -146,7 +146,7 @@ Sortiere Beatmaps in einer bestimmten Reihenfolge.
 
 ![](img/search-bar-DE.jpg)
 
-*Tipp: Du kannst die Chatkonsole oder die Optionsleiste nicht offen haben, wenn du nach etwas suchen möchtest. Ansonsten wird alles, was du tippst, als Text für den Chat oder als Suchanfrage in den Optionen interpretiert.*
+*Anmerkung: Du kannst die Chatkonsole oder die Optionsleiste nicht offen haben, wenn du nach etwas suchen möchtest. Ansonsten wird alles, was du tippst, als Text für den Chat oder als Suchanfrage in den Optionen interpretiert.*
 
 Nur Beatmaps, die den Kriterien deiner Suche entsprechen, werden angezeigt. Standardmäßig wird jede Suche mit den Künstlern, den Titeln, den Erstellern sowie den Tags der Beatmaps abgeglichen.
 
@@ -255,7 +255,7 @@ Bewege deinen Cursor über das Modsymbol, um dir die Beschreibung dazu anzeigen 
 
 Klicke auf den Button `Random` oder drücke `F2`, damit das Spiel **zufällig durch alle Beatmaps blättert und eine davon auswählt.**
 
-*Tipp: Du kannst `Shift` und den Button `Random` oder `F2` drücken, um zu der vorher gewählten Beatmap zurückzukehren.*
+*Anmerkung: Du kannst `Shift` und den Button `Random` oder `F2` drücken, um zu der vorher gewählten Beatmap zurückzukehren.*
 
 ![](img/beatmap-options-DE.jpg "Mögliche Optionen für eine Beatmap")
 
@@ -297,7 +297,7 @@ Dies ist deine Online-Rangliste. Du kannst durch Herunterscrollen von der Ergebn
 - \[2\] `Save replay to Replays folder`: Du kannst dir das Replay später anschauen, indem du es entweder über die lokale Rangliste öffnest oder in das Verzeichnis `Replays` wechselst und dort mit einem Doppelklick ausführst.
 - \[3\] `Add as online favourite`: Füge die Beatmap zu deiner Favoritenliste hinzu, die auf deiner osu!-Profilseite in der Sektion `Beatmaps` zu finden ist.
 - \[4\] Lokale Rangliste: Alle deine Resultate werden auf deinem Computer gespeichert. Navigiere zur [Songauswahl](#songauswahl) und wähle `Lokale Rangliste` von dem Dropdown-Menü über dem Scoreboard aus, um diese einzusehen.
-- \[5\] Sektion `Beatmap Ranking`. Nur für Beatmaps mit Online-Ranglisten ([qualified](/wiki/Beatmap/Category#qualified), [ranked](/wiki/Beatmap/Category#ranked) oder [loved](/wiki/Beatmap/Category#loved)) verfügbar. Du musst außerdem online sein, um diese Sektion sehen zu können. Siehe unten für mehr Details.<!-- TODO: See if links here have to be adjusted as soon as the Category article is available -->
+- \[5\] Sektion `Beatmap Ranking`. Nur für Beatmaps mit Online-Ranglisten ([qualified](/wiki/Beatmap/Category#qualifiziert), [ranked](/wiki/Beatmap/Category#ranked) oder [loved](/wiki/Beatmap/Category#loved)) verfügbar. Du musst außerdem online sein, um diese Sektion sehen zu können. Siehe unten für mehr Details.
 - \[6\] Sektion `Overall Ranking`. Das ist nur verfügbar für Beatmaps mit Online-Ranglisten. Du musst außerdem online sein, um diese Sektion sehen zu können. Siehe unten für mehr Details.
 - \[7\] Informationen über die Beatmap mit der Spielanzahl und der Erfolgsrate.
 - \[8\] Bewertung der Beatmap. Bewerte nach deinem Ermessen, ob du die Beatmap mochtest oder nicht. Lasse es am besten bleiben, wenn du dich nicht entscheiden kannst.

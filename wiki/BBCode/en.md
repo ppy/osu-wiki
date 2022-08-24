@@ -81,7 +81,7 @@ The aforementioned argument does not take quotation marks (`"`), and does not ha
 [size=NUMBER]text[/size]
 ```
 
-The `[size]` tag is used to stylise text through the use of differing font sizes. Currently, there are four sizes that are supported by the osu! website: 50, 85, 100, and 150. The sizes are internally referred to as "tiny," "small," "normal," and "large" respectively.
+The `[size]` tag is used to stylise text through the use of differing font sizes. Currently, there are four sizes that are supported by the osu! website: 50, 85, 100, and 150. The sizes are internally referred to as "tiny", "small", "normal", and "large" respectively.
 
 The `NUMBER` argument does not accept quotation marks, and only accepts one of the four supported sizes. If a number, that is not one of the supported four, is inputted, the text will revert to the default size.
 
