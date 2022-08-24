@@ -30,7 +30,7 @@ tags:
 | :-: | :-- |
 | ![Mahkota Emas](/wiki/shared/crown-gold.png "Juara pertama") | 500,000 IDR, *profile banner* |
 | ![Mahkota Perak](/wiki/shared/crown-silver.png "Juara kedua") | 300,000 IDR, *profile banner* |
-| ![Mahkota Perunggu](/wiki/shared/crown-bronze.png "Juara ketiga") | 100,000 IDR, 1 bulan osu!supporter, *profile banner* |
+| ![Mahkota Perunggu](/wiki/shared/crown-bronze.png "Juara ketiga") | 250,000 IDR, *profile banner* |
 
 ## Staf Turnamen
 
