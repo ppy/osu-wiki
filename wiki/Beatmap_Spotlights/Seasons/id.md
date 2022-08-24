@@ -15,3 +15,4 @@ outdated_translation: true
 - [Musim Semi 2021](2021_Spring)
 - [Musim Dingin 2022](2022_Winter)
 - [Musim Semi 2022](2022_Spring)
+- [Musim Panas 2022](2022_Summer)
