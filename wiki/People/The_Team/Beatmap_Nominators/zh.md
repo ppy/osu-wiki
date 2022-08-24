@@ -48,13 +48,11 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 | :-- | :-- |
 | ::{ flag=PH }:: [-Aqua](https://osu.ppy.sh/users/7150015) | 菲律宾语 |
 | ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548) |  |
-| ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) |  |
-| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | 白俄罗斯语，俄语 |
 | ::{ flag=GB }:: [Aistre](https://osu.ppy.sh/users/4879380) |  |
 | ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083) |  |
 | ::{ flag=KR }:: [Amamya](https://osu.ppy.sh/users/1997633) | 韩语 |
 | ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599) | 意大利语 |
-| ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549) | |
+| ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549) |  |
 | ::{ flag=KR }:: [Beomsan](https://osu.ppy.sh/users/3626063) | 韩语 |
 | ::{ flag=TW }:: [bossandy](https://osu.ppy.sh/users/360437) | 汉语 |
 | ::{ flag=KR }:: [Cellina](https://osu.ppy.sh/users/2490770) | 韩语 |
@@ -72,7 +70,6 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 | ::{ flag=AU }:: [Iceluin](https://osu.ppy.sh/users/3558897) |  |
 | ::{ flag=CA }:: [jonathanlfj](https://osu.ppy.sh/users/270377) | 汉语，一部分法语 |
 | ::{ flag=KR }:: [KeyWee](https://osu.ppy.sh/users/10476879) | 韩语 |
-| ::{ flag=SG }:: [Kotoha](https://osu.ppy.sh/users/7823498) |  |
 | ::{ flag=HK }:: [Kyle Y](https://osu.ppy.sh/users/3565813) | 汉语，粤语 |
 | ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613) | 德语 |
 | ::{ flag=GB }:: [Log Off Now](https://osu.ppy.sh/users/4378277) |  |
@@ -81,7 +78,6 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 | ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009) | 俄语 |
 | ::{ flag=GB }:: [mnyui](https://osu.ppy.sh/users/14261540) |  |
 | ::{ flag=SG }:: [Mocaotic](https://osu.ppy.sh/users/9487458) |  |
-| ::{ flag=GB }:: [Mokobe](https://osu.ppy.sh/users/10374819) |  |
 | ::{ flag=DK }:: [Morrighan](https://osu.ppy.sh/users/12042090) | 丹麦语 |
 | ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | 俄语 |
 | ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) |  |
@@ -103,7 +99,7 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 | ::{ flag=CL }:: [Uberzolik](https://osu.ppy.sh/users/1314547) | 西班牙语，法语 |
 | ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) |  |
 | ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) |  |
-| ::{ flag=US }:: [wafer](https://osu.ppy.sh/users/9416836) | |
+| ::{ flag=US }:: [wafer](https://osu.ppy.sh/users/9416836) |  |
 | ::{ flag=FR }:: [Xahlt](https://osu.ppy.sh/users/13466351) | 法语 |
 | ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  |
 | ::{ flag=CN }:: [Yugu](https://osu.ppy.sh/users/3161834) | 汉语，日语 |

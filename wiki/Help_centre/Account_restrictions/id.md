@@ -73,8 +73,6 @@ Apabila kami memutuskan untuk memulihkan akunmu, kami akan memintamu untuk menye
 - **Kamu setuju bahwa kamu tidak lagi akan membagi akses akunmu kepada siapapun,** termasuk kepada mereka yang dapat mengakses komputermu secara langsung.
 - **Kamu setuju bahwa segala bentuk pelanggaran berat lainnya yang kamu lakukan ke depannya akan langsung mengakibatkan akunmu kembali di-*restrict*,** yang meliputi *silence-silence* tingkat lanjut.
 
-Di samping itu, dalam jangka waktu satu tahun terhitung sejak akunmu di-*unrestrict*, kami tidak akan mengabulkan permintaan pengubahan bendera yang kamu ajukan.
-
 Dalam kasus-kasus tertentu, seseorang yang baru saja di-*unrestrict* akan dilarang untuk berpartisipasi sebagai peserta pada turnamen-turnamen tertentu baik sebagai individu maupun sebagai anggota dari sebuah tim. Durasi pelarangan ini sendiri adalah 1 tahun per pelanggaran yang dilakukan. Untuk keterangan lebih lanjut, silakan lihat email yang kami kirimkan.
 
 **Para pengguna yang terbukti bertindak curang atau saling berbagi akun (*account sharing*) dalam suatu turnamen resmi atau turnamen komunitas yang menghadiahkan *profile badge* akan dijatuhi larangan untuk dapat berpartisipasi pada turnamen-turnamen tertentu secara permanen ke depannya.** Hukuman ini bersifat final dan tidak akan digugat, dihapus, dikurangi, atau dicabut dalam situasi apapun.
