@@ -38,7 +38,7 @@ Notes :
 Notes :
 
 - Dans la v1.0, ils s'élargissent puis s'effacent avec le hit circle.
-  - Si le mod [Hidden](/wiki/Game_modifier/Hidden) est activé, il ne fera que s'estomper.
+  - Si le mod [Hidden](/wiki/Gameplay/Game_modifier/Hidden) est activé, il ne fera que s'estomper.
 - Dans la version 2.0+, ils disparaissent.
 - Cet élément est réduit de 0,8x.
 
@@ -55,7 +55,7 @@ Notes :
 Notes :
 
 - Dans la v1.0, ils s'élargissent puis s'effacent avec le hit circle.
-  - Si le mod [Hidden](/wiki/Game_modifier/Hidden) est activé, il ne fera que s'estomper.
+  - Si le mod [Hidden](/wiki/Gameplay/Game_modifier/Hidden) est activé, il ne fera que s'estomper.
 - Dans la version 2.0+, ils disparaissent.
 - Cet élément est réduit de 0,8x.
 
@@ -72,7 +72,7 @@ Notes :
 Notes :
 
 - Dans la v1.0, ils s'élargissent puis s'effacent avec le hit circle.
-  - Si le mod [Hidden](/wiki/Game_modifier/Hidden) est activé, il ne fera que s'estomper.
+  - Si le mod [Hidden](/wiki/Gameplay/Game_modifier/Hidden) est activé, il ne fera que s'estomper.
 - Dans la version 2.0+, ils disparaissent.
 - Cet élément est réduit de 0,8x.
 
@@ -89,7 +89,7 @@ Notes :
 Notes :
 
 - Dans la v1.0, ils s'élargissent puis s'effacent avec le hit circle.
-  - Si le mod [Hidden](/wiki/Game_modifier/Hidden) est activé, il ne fera que s'estomper.
+  - Si le mod [Hidden](/wiki/Gameplay/Game_modifier/Hidden) est activé, il ne fera que s'estomper.
 - Dans la version 2.0+, ils disparaissent.
 - Cet élément est réduit de 0,8x.
 
@@ -106,7 +106,7 @@ Notes :
 Notes :
 
 - Dans la v1.0, ils s'élargissent puis s'effacent avec le hit circle.
-  - Si le mod [Hidden](/wiki/Game_modifier/Hidden) est activé, il ne fera que s'estomper.
+  - Si le mod [Hidden](/wiki/Gameplay/Game_modifier/Hidden) est activé, il ne fera que s'estomper.
 - Dans la version 2.0+, ils disparaissent.
 - Cet élément est réduit de 0,8x.
 
@@ -123,7 +123,7 @@ Notes :
 Notes :
 
 - Dans la v1.0, ils s'élargissent puis s'effacent avec le hit circle.
-  - Si le mod [Hidden](/wiki/Game_modifier/Hidden) est activé, il ne fera que s'estomper.
+  - Si le mod [Hidden](/wiki/Gameplay/Game_modifier/Hidden) est activé, il ne fera que s'estomper.
 - Dans la version 2.0+, ils disparaissent.
 - Cet élément est réduit de 0,8x.
 
@@ -140,7 +140,7 @@ Notes :
 Notes :
 
 - Dans la v1.0, ils s'élargissent puis s'effacent avec le hit circle.
-  - Si le mod [Hidden](/wiki/Game_modifier/Hidden) est activé, il ne fera que s'estomper.
+  - Si le mod [Hidden](/wiki/Gameplay/Game_modifier/Hidden) est activé, il ne fera que s'estomper.
 - Dans la version 2.0+, ils disparaissent.
 - Cet élément est réduit de 0,8x.
 
@@ -157,7 +157,7 @@ Notes :
 Notes :
 
 - Dans la v1.0, ils s'élargissent puis s'effacent avec le hit circle.
-  - Si le mod [Hidden](/wiki/Game_modifier/Hidden) est activé, il ne fera que s'estomper.
+  - Si le mod [Hidden](/wiki/Gameplay/Game_modifier/Hidden) est activé, il ne fera que s'estomper.
 - Dans la version 2.0+, ils disparaissent.
 - Cet élément est réduit de 0,8x.
 
@@ -174,7 +174,7 @@ Notes :
 Notes :
 
 - Dans la v1.0, ils s'élargissent puis s'effacent avec le hit circle.
-  - Si le mod [Hidden](/wiki/Game_modifier/Hidden) est activé, il ne fera que s'estomper.
+  - Si le mod [Hidden](/wiki/Gameplay/Game_modifier/Hidden) est activé, il ne fera que s'estomper.
 - Dans la version 2.0+, ils disparaissent.
 - Cet élément est réduit de 0,8x.
 
@@ -191,7 +191,7 @@ Notes :
 Notes :
 
 - Dans la v1.0, ils s'élargissent puis s'effacent avec le hit circle.
-  - Si le mod [Hidden](/wiki/Game_modifier/Hidden) est activé, il ne fera que s'estomper.
+  - Si le mod [Hidden](/wiki/Gameplay/Game_modifier/Hidden) est activé, il ne fera que s'estomper.
 - Dans la version 2.0+, ils disparaissent.
 - Cet élément est réduit de 0,8x.
 
@@ -209,7 +209,7 @@ Notes :
 
 - La teinte dépend de la couleur de la combinaison du hit circle.
 - Cet élément se rétracte avec le temps.
-  - Si le mod [Hidden](/wiki/Game_modifier/Hidden) est activé, cet élément ne sera pas utilisé.
+  - Si le mod [Hidden](/wiki/Gameplay/Game_modifier/Hidden) est activé, cet élément ne sera pas utilisé.
     - Pour afficher le premier hit circle avec le mod Hidden activé, le joueur devra l'activer dans les [options](/wiki/Client/Options).
 - Cela devrait être un cercle.
 
@@ -226,7 +226,7 @@ Notes :
 Notes :
 
 - Cet élément s'estompe avant d'être touché et s'étend lorsqu'il est touché ou manqué.
-  - Si le mod [Hidden](/wiki/Game_modifier/Hidden) est activé, il s'affichera en fondu avant d'être touché et disparaîtra ensuite.
+  - Si le mod [Hidden](/wiki/Gameplay/Game_modifier/Hidden) est activé, il s'affichera en fondu avant d'être touché et disparaîtra ensuite.
 - La teinte dépend de la couleur de la combinaison du hit circle.
 - Également utilisé pour `sliderstartcircle` et/ou `sliderendcircle` si non skinné.
 - Cela devrait être un cercle.
@@ -247,7 +247,7 @@ Notes :
 - Fréquence d'animation : 2 FPS (4 FPS max).
   - Ce taux est affecté par les mods Half Time et Double Time/Nightcore.
 - Cet élément s'estompe avant d'être frappé et s'étend lorsqu'il est frappé ou manqué.
-  - Si le mod [Hidden](/wiki/Game_modifier/Hidden) est activé, il s'affichera en fondu avant d'être touché et disparaîtra ensuite.
+  - Si le mod [Hidden](/wiki/Gameplay/Game_modifier/Hidden) est activé, il s'affichera en fondu avant d'être touché et disparaîtra ensuite.
 - Le numéro de la combinaison peut être superposé ou non. Par défaut, il est toujours superposé.
   - Pour que cet underlay soit le numéro du combo, mettez `HitCircleOverlayAboveNumber` à `0`.
 - Également utilisé pour `sliderstartcircleoverlay` et/ou `sliderendcircleoverlay` si non skinné.
@@ -318,7 +318,7 @@ Notes :
 - Remplace `hitcircle.png` pour le début du slider, si skinné.
 - Cet élément est le hit circle du début de slider.
 - Cet élément s'estompe avant d'être touché et s'étend lorsqu'il est touché ou manqué.
-  - Si le mod [Hidden](/wiki/Game_modifier/Hidden) est activé, il s'affichera en fondu avant d'être touché et disparaîtra ensuite.
+  - Si le mod [Hidden](/wiki/Gameplay/Game_modifier/Hidden) est activé, il s'affichera en fondu avant d'être touché et disparaîtra ensuite.
 - Cela devrait être un cercle.
 
 ---
@@ -335,7 +335,7 @@ Notes :
 - Taux d'animation : 2 FPS (4 FPS max).
   - Ce taux est affecté par les mods Half Time et Double Time/Nightcore.
 - Cet élément s'estompe avant d'être touché et s'étend lorsqu'il est touché ou manqué.
-  - Si le mod [Hidden](/wiki/Game_modifier/Hidden) est activé, il s'affichera en fondu avant d'être touché et disparaîtra ensuite.
+  - Si le mod [Hidden](/wiki/Gameplay/Game_modifier/Hidden) est activé, il s'affichera en fondu avant d'être touché et disparaîtra ensuite.
 - Le numéro de la combinaison peut être superposé ou non. Par défaut, il est toujours superposé.
   - Pour que cette superposition soit le numéro du combo, mettez `HitCircleOverlayAboveNumber` à `0`.
 - Remplace l'image `hitcircle.png` pour le début du slider.
@@ -356,7 +356,7 @@ Notes :
 - Remplace `hitcircle.png` pour le début du slider, si skinné.
 - Cet élément est le hit circle de l'extrémité du slider.
 - Cet élément s'estompe avant d'être terminé et s'étend une fois terminé.
-  - Si le mode [Hidden](/wiki/Game_modifier/Hidden) est activé, il s'affichera en fondu avant de se terminer et ne disparaîtra qu'après.
+  - Si le mode [Hidden](/wiki/Gameplay/Game_modifier/Hidden) est activé, il s'affichera en fondu avant de se terminer et ne disparaîtra qu'après.
 - Cela devrait être un cercle.
 
 ---
@@ -370,7 +370,7 @@ Notes :
 Notes :
 
 - Cet élément s'estompe avant d'être terminé et s'étend une fois terminé.
-  - Si le mode [Hidden](/wiki/Game_modifier/Hidden) est activé, il s'affichera en fondu avant de se terminer et ne disparaîtra qu'après.
+  - Si le mode [Hidden](/wiki/Gameplay/Game_modifier/Hidden) est activé, il s'affichera en fondu avant de se terminer et ne disparaîtra qu'après.
 - Le numéro de la combinaison peut être superposé ou non. Par défaut, il est toujours superposé.
   - Pour que cette superposition soit le numéro du combo, mettez `HitCircleOverlayAboveNumber` à `0`.
 - Remplace l'image `hitcircle.png` pour le début du slider.
