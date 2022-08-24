@@ -68,8 +68,6 @@ Wenn wir uns entscheiden, dich wieder zuzulassen, werden wir verlangen, dass du 
 - **Du solltest dein Account nicht mit anderen Konten verknüpfen**, einschließlich das Spielen auf gemeinsam genutzten Computern.
 - **Jedes Fehlverhalten wird in einer sofortigen Einschränkung enden**. Dies beinhaltet schwerwiegende Stummschaltungen.
 
-Zusätzlich erlauben wir keine Änderung der Flagge von deinem Account für ein Jahr.
-
 In einigen Fällen kann ein wieder zugelassener Spieler von offiziellen und mit einem Abzeichen versehenen Turnieren ausgeschlossen werden, sowohl als Teilnehmer als auch als Mitglied des Organisationsteams. Die Dauer der Sperrung ist 1 Jahr pro Verstoß (wenn der Nutzer zum zweiten Mal Beschwerde eingelegt hat, dauert die Sperrung 2 Jahre). Die E-Mail zur Entsperrung wird die Dauer der Sperrung darlegen.
 
 **Das Cheaten oder Teilen von Accounts während eines offiziellen Turniers oder eines Turniers mit Abzeichen wird zu einer dauerhaften Sperrung des Nutzers zu zukünftigen Turnieren führen.** Für diese Sperrung kann keine Beschwerde eingelegt werden (deine E-Mail wird ignoriert, solltest du es versuchen) und die Sperrung wird unter allen Umständen nicht entfernt, gemildert oder aufgegeben.

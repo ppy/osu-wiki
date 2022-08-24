@@ -67,7 +67,7 @@ Neben jeder der unten aufgeführten Modifikation werden die Symbole für die kom
 
 ### Andere
 
-*Tipp: Diese Mods wurden vor einiger Zeit verwendet, aber sind jetzt nicht mehr verfügbar.*
+*Anmerkung: Diese Mods wurden vor einiger Zeit verwendet, aber sind jetzt nicht mehr verfügbar.*
 
 - [10K](/wiki/Game_modifier/10K) ![][osu!mania]
 - [Fade Out](/wiki/Game_modifier/Fade_Out) ![][osu!mania]

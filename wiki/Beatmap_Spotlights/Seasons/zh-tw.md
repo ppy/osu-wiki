@@ -5,6 +5,8 @@ tags:
   - Seasonal Spotlights
   - 月賽
   - 賽季
+outdated_since: 8c02866257b6dbfeaee1d114a905c0bd8e5e3828
+outdated_translation: true
 ---
 
 # 圖譜聚光燈賽季

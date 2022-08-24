@@ -131,7 +131,7 @@ Interact with osu! via other applications and media, or help it grow further.
 
 Just as almost everything out here, the osu! wiki is written and maintained by volunteers. Suggest an improvement, report an issue, or even write your own article at the [osu-wiki GitHub repository](https://github.com/ppy/osu-wiki).
 
-[History of osu!](/wiki/History_of_osu!) • [History of osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [Mapping and modding timeline](/wiki/Mapping_and_Modding_Timeline) • [April Fools](/wiki/History_of_osu!/April_Fools)
+[History of osu!](/wiki/History_of_osu!) • [History of osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [Mapping and modding timeline](/wiki/History_of_osu!/Mapping_and_Modding_Timeline) • [April Fools](/wiki/History_of_osu!/April_Fools)
 
 [Sitemap](/wiki/Sitemap) • [Contribution guide](/wiki/osu!_wiki/Contribution_guide) • [Article styling criteria](/wiki/Article_styling_criteria) • [News styling criteria](/wiki/News_styling_criteria)
 
