@@ -420,21 +420,21 @@ Sonntag, 8. März 2015:
 ### Turnierregeln
 
 1. Der osu! Taiko World Cup ist ein länderbasiertes Team-Turnier.
-2. Die Beatmaps werden von der Mappool-Auswahl für jede Runde im Vorhinein am Sonntag angekündigt, bevor die eigentliche Partie stattfindet. Nur diese werden dann während den enstsprechenden Partien zur Verfügung stehen.
+2. Die Beatmaps werden von der Mappool-Auswahl für jede Runde im Vorhinein am Sonntag angekündigt, bevor die eigentliche Partie stattfindet. Nur diese werden dann während den entsprechenden Partien zur Verfügung stehen.
    - Eine Beatmap wird als Tiebreaker-Map angegeben. Diese Beatmap wird nur bei einem Punktegleichstand gespielt.
    - Es wird auch eine [Hidden-](/wiki/Game_modifier/Hidden), [HardRock-](/wiki/Game_modifier/Hard_Rock), [DoubleTime-](/wiki/Game_modifier/Double_Time) und FreeMod-Klasse geben.
 3. Der Turnierzeitplan wird vom Turniermanagement festgelegt (siehe unten).
-4. Ergebnisse von Spielern, die gescheitert sind, werden zum Teamergebnis hinzugerechnet. 
+4. Ergebnisse von Spielern, die gescheitert sind, werden zum Teamergebnis hinzugerechnet.
 5. Wenn kein Schiedsrichter oder Personal vorhanden sein sollte, wird die Partie verschoben.
 6. Das Benutzen der [visuellen Einstellungen](/wiki/Client/Interface/Visual_settings) ist erlaubt.
 7. Wenn es bei einer Beatmap zum Unentschieden kommen sollte, wird das Ergebnis als nichtig erklärt.
 8. Wenn ein Spieler die Verbindung verlieren sollte, wird es so gehandhabt, als wäre der Spieler an der Beatmap gescheitert.
 9. Beatmaps können nicht mehrmals in einer Partie gespielt werden, es sei denn, das vorherige Ergebnis derselben Beatmap war nichtig.
-10. Wenn weniger als als das Minimum an benötigten Spielern eines Teams anwesend ist, kann die Partie um maximal 10 Minuten verschoben werden.
+10. Wenn weniger als das Minimum an benötigten Spielern eines Teams anwesend ist, kann die Partie um maximal 10 Minuten verschoben werden.
 11. Das Austauschen von Spielern während der Partie ist erlaubt.
 12. Lag ist kein gültiger Grund, um das Ergebnis einer Beatmap zu annulieren.
 13. In der Gruppenphase wird das 'Win by default' (zu deutsch 'kampflos gewonnen') als ein Sieg mit 4:0 und +1.0 Score-Unterschiedsverhältnis angesehen.
-14. Unerwartete Vorkommnisse werden vom Turnier Management behandelt.
+14. Unerwartete Vorkommnisse werden vom Turniermanagement behandelt.
 15. Jede Veränderung dieser Regeln wird bekannt gegeben.
 
 ### Turnierregistrierung
@@ -443,15 +443,15 @@ Sonntag, 8. März 2015:
    - Das Turniermanagement wird eine Liste der potentiellen Kandidaten für jedes Länderteam erstellen.
    - Das Turniermanagement wird einen Kandidaten zum Kapitän des Landesteams ernennen, wenn auch nur temporär.
    - Der ernannte Kapitän kann sein Landesteam von der Kandidatenliste seines Landes formen.
-2. Um gültige und ernsthafte Anmeldungen zu gewährleisten, wird jede Anmeldung und vom Turniermanagement überprüft.
-   - Jeder registrierte Nutzer wird der Kandidatenliste seines jeweiligen Landes zugeiteilt.  
-   - Um für die Liste akzeptiert zu werden, musst du sicherstellen dass dein globaler Taiko-Performance-Rang über \#8000 liegt.
-   - Um für die Liste akzeptiert zu werden, musst du sicherstellen dass du die [osu!-Communityregeln](/wiki/Rules) in den letzten 12 Monaten nicht gebrochen hast.
-3. Um dich anzumelden, [sendee eine PM an Loctav](https://osu.ppy.sh/home/messages/users/71366) mit dem Titel “TWC Registration”.
-   - Füge deine lokale Zeitzone zum Registrierungs-PM hinzu.
+2. Um gültige und ernsthafte Anmeldungen zu gewährleisten, wird jede Anmeldung vom Turniermanagement überprüft.
+   - Jeder registrierte Nutzer wird der Kandidatenliste seines jeweiligen Landes zugeteilt.
+   - Um für die Liste akzeptiert zu werden, musst du sicherstellen, dass dein globaler Taiko-Performance-Rang über \#8000 liegt.
+   - Um für die Liste akzeptiert zu werden, musst du sicherstellen, dass du die [osu!-Communityregeln](/wiki/Rules) in den letzten 12 Monaten nicht gebrochen hast.
+3. Um dich anzumelden, [sende eine PM an Loctav](https://osu.ppy.sh/home/messages/users/71366) mit dem Titel “TWC Registration”.
+   - Füge deine lokale Zeitzone zur Registrierungsnachricht hinzu.
    - Du erhältst eine Bestätigung, dass deine Anmeldung erfolgreich angekommen ist. Deine Anmeldung ist dann in Bearbeitung.
 4. Die maximale Anzahl an Teams liegt bei 32.
-   - Die Gesamtanzahl an Teams hängt von den eingegangen Anmeldungen ab.
+   - Die Gesamtanzahl an Teams hängt von den eingegangenen Anmeldungen ab.
 5. Alle erfolgreich zusammengestellten Teams werden nach der Registrierungsphase veröffentlicht.
 6. Beatmap-Wähler dürfen am Turnier nicht als Spieler teilnehmen.
 
@@ -474,7 +474,7 @@ Sonntag, 8. März 2015:
 
 6. Basierend auf [dieser Grafik](/wiki/shared/stages-visual.png) teilen sich die Etappen wie folgt auf:
 
-   | Etappe | Match ID |
+   | Etappe | Match-ID |
    | :-- | :-- |
    | Achtelfinale | A, B, C, D, E, F, G, H |
    | Viertelfinale | I, J, K, L & R, S, T, U |
@@ -482,7 +482,7 @@ Sonntag, 8. März 2015:
    | Finalwoche 1 | O & AB, AC, AD, AE |
    | Finalwoche 2 | P, Q |
 
-7. **Bedingugen, um zu gewinnen:**
+7. **Bedingungen, um zu gewinnen:**
    - In der Gruppenphase musst du 4 Maps gewinnen, um die Partie zu gewinnen. (Best-of-7)
    - Im Achtel- und Viertelfinale musst du 5 Maps gewinnen, um die Partie zu gewinnen. (Best-of-9)
    - Im Halbfinale und im Finale musst du 6 Maps gewinnen, um die Partie zu gewinnen. (Best-of-11)
@@ -491,8 +491,8 @@ Sonntag, 8. März 2015:
 
 1. Ein Schiedsrichter wird 15 Minuten vor Beginn einen Mehrspielerraum erstellen. Die Spieler müssen sich in dieser Zeit versammeln.
    - Raumeinstellungen sind Taiko, Team-Vs., Siegbedingung : 'Score'. Raumname muss "TWC 2014: TeamBlue vs TeamRed" lauten.
-   - Das Team, welches im Raumnamen zuerst genannt wird, muss das blaue Team sein. das Team, welches im Raumnamen als zweites gennant wird muss das rote Team sein.
-2. Den Spielern steht es zu 2 Beatmaps für die Aufwärmphase zu spielen. Beatmaps mit fragwürdigem Inhalt sind verboten.
+   - Das Team, welches im Raumnamen zuerst genannt wird, muss das blaue Team sein. Das Team, welches im Raumnamen als zweites genannt wird, muss das rote Team sein.
+2. Den Spielern steht es zu, 2 Beatmaps für die Aufwärmphase zu spielen. Beatmaps mit fragwürdigem Inhalt sind verboten.
 3. Jeder Kapitän kann 2 Beatmaps aus dem Pool verbannen. Diese Beatmaps können während der gesamten Partie von keinem Team gewählt werden.
    - Beide Vetos müssen immer benutzt werden.
 4. Die Beatmaps werden aus dem jeweiligen Pool abwechselnd von den beiden Kapitänen ausgewählt.
@@ -514,7 +514,7 @@ Sonntag, 8. März 2015:
 7. Der FreeMod-Stapel schaltet den FreeMod frei. Jeder einzelne Spieler kann dann mit Hidden, HardRock, Flashlight oder gar keinen Mods spielen.
    - Wenn eine FreeMod-Map gespielt wird, muss mindestens 1 Spieler jedes Teams eine Mod aktiviert haben.
 8. Die Tiebreaker-Map wird mit denselben Bedingungen wie beim FreeMod gespielt.
-   - Wenn die Tiebreaker-Map gespielt wird, muss niemand einen Mod aktiviert haben.
+   - Wenn die Tiebreaker-Map gespielt wird, muss niemand eine Mod aktiviert haben.
 9. Die Größe des NoMod-Stapels besteht in allen Etappen aus 6 Maps.
 10. Die Größe der mod-spezifischen Stapel besteht in allen Etappen aus 3 Maps.
 
