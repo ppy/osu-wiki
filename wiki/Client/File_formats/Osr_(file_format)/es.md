@@ -45,17 +45,17 @@ Los archivos **.osr** contienen una osu! replay. Para usarlo, el beatmap especif
 
 | Mod | Informacion guardada |
 | :-- | :-- |
-| Target Practice | Precision total de todos los golpes. Divide esto por el numero de cirulos en el mapa para encontrar la precision mostrada en juego. |
+| Target Practice | Precision total de todos los golpes. Divide esto por el numero de circulos en el mapa para encontrar la precision mostrada en juego. |
 
-Lo restante contiene informacion sobre el moviemiento del mouse y las presiones de tecla en una cadena [LZMA](https://es.wikipedia.org/wiki/LZMA).
+Lo restante contiene informacion sobre el movimiento del mouse y las presiones de tecla en una cadena [LZMA](https://es.wikipedia.org/wiki/LZMA).
 
 Cuando se descomprime, el texto contiene datos separados por comas. Cada pieza denota una accion, representada por 4 numeros en la forma: `w | x | y | z.`
 
-| Parte | Tipo de dato | Descripcion |
+| Parte | Tipo de dato | Descripción |
 | :-- | :-- | :-- |
 | w | Long | Tiempo en minisegundos desde la accion anterior. |
-| x | Float | Coordenadas x del cursor, de 0 a 512 |
-| y | Float | Coordenadas y del cursos, de 0 a 384 |
+| x | Float | Coordenadas **x** del cursor, de 0 a 512 |
+| y | Float | Coordenadas **y** del cursor, de 0 a 384 |
 | z | Integer | Combinación bit a bit de teclas/botones del mouse presionados (M1 = 1, M2 = 2, K1 = 4, K2 = 8, Smoke = 16) (K1 siempre se usa con M1; K2 siempre se usa con M2: 1+4=5; 2+8=10) |
 
 En las replays de las versiones `20130319` o posteriores, el [RNG](https://es.wikipedia.org/wiki/Generador_de_n%C3%BAmeros_aleatorios) entero de 32 bits utilizado para la puntuación se codificará en un cuadro de reproducción adicional al final de la transmisión LZMA, bajo el formato `-12345|0|0|seed`.
