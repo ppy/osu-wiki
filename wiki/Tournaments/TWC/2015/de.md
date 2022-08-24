@@ -470,7 +470,7 @@ Sonntag, 8. März 2015:
 
 4. Die besten 4 Teams in der Gruppe gehen weiter in die Knock-Out-Etappen.
 
-5. Die folgenden Etappen sind Double-Elimination-Etappen. Dies bedeutet, dass der Gewinner in zur nächsten Etappe fortfährt und das andere Verliererteam in die Verliererklasse versetzt wird.
+5. Die folgenden Etappen sind Doppeleliminierungsetappen. Dies bedeutet, dass der Gewinner in zur nächsten Etappe fortfährt und das andere Verliererteam in die Verliererklasse versetzt wird.
 
 6. Basierend auf [dieser Grafik](/wiki/shared/stages-visual.png) teilen sich die Etappen wie folgt auf:
 
@@ -522,6 +522,6 @@ Sonntag, 8. März 2015:
 
 1. Jede Etappe wird **an einem einzelnen Wochenende** abgehalten.
 2. Partien können sich in der Gruppenphase zeitlich überlappen.
-3. Alle Double-Elimination-Etappen finden entweder am Samstag oder am Sonntag statt.
+3. Alle Doppeleliminierungsetappen finden entweder am Samstag oder am Sonntag statt.
 4. Der Zeitplan wird vom Turniermanagement festgelegt. Die Termine werden am Sonntag, bevor die Etappe stattfindet, angekündigt. Das Turniermanagement bemüht sich die Zeiten so gut wie möglich an die Zeitzonen der teilnehmenden Spieler anzupassen.
 5. Die Kapitäne sind für die Anwesenheit ihrer Teams zuständig. Die größere Teamgröße stellt sicher, dass jedes Team in jeder Partie mindestens 3 Spieler zur Verfügung stellen kann. Wenn die Teams für eine Partie keine 3 Spieler zur Verfügung stellen können, zählt die Partie als aufgegeben.
