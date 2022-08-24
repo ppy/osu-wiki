@@ -43,10 +43,13 @@ NAT 会长期关注潜在的 NAT 候选人，并偶尔进行讨论已决定是�
 | 名字 | 语言 | 主要任务 |
 | :-- | :-- | :-- |
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) |  | 评估，管理 |
+| ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) |  | 评估 |
+| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | 白俄罗斯语，俄语 | 评估 |
 | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | 粤语，汉语 | 评估 |
-| ::{ flag=AU }:: [elizc1](https://osu.ppy.sh/users/8039342) |  | 评估 |
+| ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | 评估 |
 | ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | 汉语 | 评估 |
 | ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | 德语 | 评估 |
+| ::{ flag=SG }:: [Kotoha](https://osu.ppy.sh/users/7823498) | 汉语 | 评估 |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | 瑞典语 | 结构，沟通 |
 | ::{ flag=GB }:: [NexusQI](https://osu.ppy.sh/users/13822800) |  | 评估 |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | 结构 |
@@ -70,7 +73,7 @@ NAT 会长期关注潜在的 NAT 候选人，并偶尔进行讨论已决定是�
 | :-- | :-- | :-- |
 | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | 西班牙语，德语 | 评估，管理 |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | 荷兰语 | 评估，结构 |
-| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) | | 评估 |
+| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  | 评估 |
 
 ### osu!mania
 

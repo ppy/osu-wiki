@@ -68,8 +68,6 @@ Nếu chúng tôi quyết định cho bạn quay lại, chúng tôi sẽ yêu c�
 - **Bạn không nên liên đới với các tài khoản khác** bao gồm chơi ở các máy tính dùng chung (như quán net, ...).
 - **Bất cứ vi phạm lớn nào sẽ khiến bạn bị hạn chế ngay lập tức**. Điều này bao gồm việc bị Im lặng lâu.
 
-Thêm vào đó, trong thời hạn một năm, chúng tôi sẽ không chấp nhận yêu cầu thay đổi cờ ở tài khoản của bạn.
-
 Đối với một vài trường hợp, người chơi trở lại sẽ bị cấm tham gia các giải đấu chính thức và các giải có huy hiệu, bất kể dưới vai trò là người chơi hay là thành viên của ban tổ chức giải. Thời hạn cấm là 1 năm nhân với số lần bạn đã vi phạm (nếu người chơi quay lại sau lần khiếu nại thứ hai, thì sẽ bị cấm 2 năm). Điều này sẽ được ghi rõ trong email phản hồi khiếu nại.
 
 **Gian lận hoặc chia sẻ tài khoản khi đang tham gia giải đấu chính thức hay giải có huy hiệu sẽ khiến người chơi bị cấm vĩnh viễn khỏi mọi giải đấu trong tương lai.** Bạn không thể khiếu nại điều này (email của bạn sẽ bị bỏ qua nếu bạn cố gửi) và sẽ không thể được gỡ bỏ, hay giảm đi với bất cứ lý do nào.
