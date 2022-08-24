@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Twitter
 
 osu! 有数个 Twitter 账号，每个都有其明确的用途。大多数账号的访问量都很少，但是会帮助你了解 osu! 的生态圈。
