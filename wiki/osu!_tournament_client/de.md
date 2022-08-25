@@ -58,7 +58,7 @@ Modsymbole müssen in `<dein-turnier>/Mods` platziert werden. Die Mods können d
 
 Im Hintergrund jeder Szene können sich wiederholende Videos angezeigt werden.
 
-Tipp: Der Client dekodiert Videodateien mit Softwaredekodierung, daher kann die Leistung je nach Nutzungsszenario variieren.
+Anmerkung: Der Client dekodiert Videodateien mit Softwaredekodierung, daher kann die Leistung je nach Nutzungsszenario variieren.
 
 Die Dateien müssen die folgenden Vorgaben erfüllen:
 
