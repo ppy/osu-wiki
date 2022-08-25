@@ -1,10 +1,10 @@
 # Eigene Hitsounds benutzen
 
-In diesem Tutorial wirst du lernen, wie du eigene [Hitsounds](/wiki/Beatmapping/) in deinen [Beatmaps](/wiki/Beatmap) verwendest.
+In diesem Tutorial wirst du lernen, wie du eigene [Hitsounds](/wiki/Beatmapping) in deinen [Beatmaps](/wiki/Beatmap) verwendest.
 
 ## Eigene Hitsounds erhalten
 
-Um in deinen Beatmaps eigene Hitsounds zu verwenden, musst du erst einmal welche haben! Die [Bibliothek für selbst erstellte Hitsounds](/wiki/Guides/Custom_Hitsound_Library/) ist eine großartige Ressource, um Ton-Samples wie Becken, Trommeln, Glocken, Pfeifen und mehr zu finden. Alternativ kannst du, falls du nicht das findest was du suchst, auch deine eigenen Samples erstellen!
+Um in deinen Beatmaps eigene Hitsounds zu verwenden, musst du erst einmal welche haben! Die [Bibliothek für selbst erstellte Hitsounds](/wiki/Guides/Custom_Hitsound_Library) ist eine großartige Ressource, um Ton-Samples wie Becken, Trommeln, Glocken, Pfeifen und mehr zu finden. Alternativ kannst du, falls du nicht das findest was du suchst, auch deine eigenen Samples erstellen!
 
 Hitsounds sollten in den Formaten `.wav` oder `.ogg` gespeichert sein, da diese keine Wiedervergabeverzögerung haben und sich korrekt wiederholen.
 
@@ -15,7 +15,7 @@ Wenn du deine gewünschten Tondateien gefunden hast, verschiebe sie in den Ordne
 1. Öffne osu!.
 2. Wähle die `Edit`-Option aus.
 3. Navigiere zu deiner Beatmap und öffne sie.
-5. Klicke auf `Datei` (die Option am linken ende des Navigations-Menüs).
+4. Klicke auf `Datei` (die Option am linken ende des Navigations-Menüs).
 5. Klicke auf `Songs-Ordner öffnen`.
 6. Füge deinen Dateien hier ein.
 
@@ -66,4 +66,3 @@ Wenn das Sampleset eines geerbten Timing-Points wie oben gezeigt auf `S:C2` gese
 ## Externe Quellen
 
 - [*how to add custom hitsound?*-Forenantwort](https://osu.ppy.sh/community/forums/posts/3215699) von [neonat](https://osu.ppy.sh/users/1561995)
-
