@@ -13,7 +13,7 @@ Der **osu! Taiko World Cup 2015** (***TWC 2015***) war ein länderbasiertes Taik
 ## Turnierzeitplan
 
 | Event | Zeitstempel |
-| :-- | :-- |
+| --: | :-- |
 | Registrierungsphase | 12.01.2015 bis 22.02.2015 |
 | Live-Auslosung | 28.02.2015 (14:00 UTC) |
 | Gruppenphase | 07.03.2015 bis 08.03.2015 |
@@ -26,7 +26,7 @@ Der **osu! Taiko World Cup 2015** (***TWC 2015***) war ein länderbasiertes Taik
 ## Preise
 
 | Platzierung | Preis(e) |
-| :-- | :-- |
+| :-: | :-- |
 | ![Goldkrone](/wiki/shared/crown-gold.png "1. Platz") | 6 Monate Supporter Tag, Profilabzeichen, "Taiko Champion"-Benutzertitel für 1 Jahr, osu! Merchandise |
 | ![Silberkrone](/wiki/shared/crown-silver.png "2. Platz") | 3 Monate Supporter Tag, Profilabzeichen |
 | ![Bronzekrone](/wiki/shared/crown-bronze.png "3. Platz") | 1 Monat Supporter Tag, Profilabzeichen |
