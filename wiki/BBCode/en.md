@@ -187,7 +187,7 @@ The `[profile]` tag is used to link to a user's osu! profile page by using their
 
 *Note: The user ID is a string of numbers that directly follow the `/users/` in the URL of an osu! profile page.*
 
-If specified through their user ID, the text between the open and closed tags will not be parsed and will instead display as the user's current username. However, if the profile page is specified only through a username, and said user changes their username, the link will cease to function.
+If specified through their user ID, the text between the open and closed tags will not be parsed and will instead display as the user's current username. In case there is no text between the open and closed tags specified, the link to the user profile is not generated correctly. However, if the profile page is specified only through a username, and said user changes their username, the link will cease to function.
 
 ### Formatted lists
 
@@ -199,13 +199,23 @@ If specified through their user ID, the text between the open and closed tags wi
 [/list]
 ```
 
-The `[list]` tag is used to automatically format numerous types of lists throughout the osu! forums by using an asterisk enclosed in brackets (`[*]`) to indicate a new item in the list (shown above). By default, this will create a plain, bulleted list.
+The `[list]` tag is used to automatically format two different types of lists throughout the osu! forums by using an asterisk enclosed in brackets (`[*]`) to indicate a new item in the list (shown above). By default, this will create a plain, bulleted list.
 
-Other list styles can be formatted by specifying the `TYPE` argument as `1`, `a`, `A`, `i`, or `I`, which will format lists as numbered, lettered (lowercase), lettered (uppercase), roman numeral (lowercase), and roman numeral (uppercase) respectively.
+If the `TYPE` argument is specified as `1`, the list will be numbered.
 
 *Notice: BBCode-formatted lists can be stacked on top of each other and placed inside one another, although this has been known to cause issues with formatting.*
 
 Toolbar buttons: ![List button](img/list.png "List") ![Numbered list button](img/list-numbered.png "Numbered list")
+
+### Email
+
+```
+[email=ADDRESS]text[/email]
+```
+
+The `[email]` tag creates a clickable hyperlink, which opens a new email in the default mail program with the address field pre-populated.
+
+In order to create a link, two arguments need to be specified: the `ADDRESS` argument needs to be a valid email address, while `text` is the displayed text when clicking on the link. If the `text` argument is not defined, the hyperlink will not be created correctly.
 
 ### Images
 
