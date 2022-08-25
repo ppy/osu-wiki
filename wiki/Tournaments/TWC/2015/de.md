@@ -490,7 +490,7 @@ Sonntag, 8. März 2015:
 ### Partieanweisungen
 
 1. Ein Schiedsrichter wird 15 Minuten vor Beginn einen Mehrspielerraum erstellen. Die Spieler müssen sich in dieser Zeit versammeln.
-   - Raumeinstellungen sind Taiko, Team-Vs., Siegbedingung : 'Score'. Raumname muss "TWC 2014: TeamBlue vs TeamRed" lauten.
+   - Raumeinstellungen sind Taiko, Team-Vs., Siegbedingung: 'Score'. Raumname muss "TWC 2014: TeamBlue vs TeamRed" lauten.
    - Das Team, welches im Raumnamen zuerst genannt wird, muss das blaue Team sein. Das Team, welches im Raumnamen als zweites genannt wird, muss das rote Team sein.
 2. Den Spielern steht es zu, 2 Beatmaps für die Aufwärmphase zu spielen. Beatmaps mit fragwürdigem Inhalt sind verboten.
 3. Jeder Kapitän kann 2 Beatmaps aus dem Pool verbannen. Diese Beatmaps können während der gesamten Partie von keinem Team gewählt werden.
