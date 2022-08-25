@@ -10,7 +10,7 @@ tags:
 
 ![CFDT 2 logo](img/logo.png)
 
-The **Catch French Dual Tournament 2** (***CFDT 2***) is a French double-elimination 2v2 osu!catch tournament hosted by ::{ flag=FR }:: [h-e-c-a123](https://osu.ppy.sh/users/3163012) and ::{ flag=FR }:: [Laffey Gaming](https://osu.ppy.sh/users/5122949). Two players will form a team with first rank range is between #1 and #500 and the second rank range is rank #501 or below. It is the second instalment of the Catch French Dual Tournament and part of the Catch French Cup series.
+The **Catch French Dual Tournament 2** (***CFDT 2***) is a French double-elimination 2v2 osu!catch tournament hosted by ::{ flag=FR }:: [h-e-c-a123](https://osu.ppy.sh/users/3163012) and ::{ flag=FR }:: [Laffey Gaming](https://osu.ppy.sh/users/5122949). Teams consist of two players, where the first player is ranked between #1 and #500, and the latter is ranked #501 or below. It is the second instalment of the Catch French Dual Tournament and part of the Catch French Cup series.
 
 ## Tournament schedule
 
@@ -31,11 +31,11 @@ The **Catch French Dual Tournament 2** (***CFDT 2***) is a French double-elimina
 | Placing | Prize(s) |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 2 months of osu!supporter |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 months of osu!supporter |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter |
 
 ## Organisation
 
-The Catch French Dual Tournament 2 was run by various community members.
+The Catch French Dual Tournament 2 is run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
