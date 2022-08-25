@@ -110,39 +110,39 @@ The osu!mania 4K World Cup 2022 is run by the [osu! team](/wiki/People/The_Team)
 
 | Team A | Team B | Match time |  |
 | --: | :-- | :-- | :-: |
-| China ::{ flag=CN }:: | ::{ flag=DE }:: Germany | [Aug 27 (Sat) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220827T090000&p1=1440&p2=33&p3=37) | [^losers-bracket] |
-| Indonesia ::{ flag=ID }:: | ::{ flag=HK }:: Hong Kong | [Aug 27 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220827T100000&p1=1440&p2=108&p3=102) | [^losers-bracket] |
-| Singapore ::{ flag=SG }:: | ::{ flag=ES }:: Spain | [Aug 27 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220827T110000&p1=1440&p2=236&p3=141) | [^losers-bracket] |
-| France ::{ flag=FR }:: | ::{ flag=NL }:: Netherlands | [Aug 27 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220827T120000&p1=1440&p2=195&p3=16) | [^losers-bracket] |
+| Indonesia ::{ flag=ID }:: | ::{ flag=HK }:: Hong Kong | [Aug 27 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220827T130000&p1=1440&p2=108&p3=102) | [^losers-bracket] |
+| France ::{ flag=FR }:: | ::{ flag=NL }:: Netherlands | [Aug 27 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220827T130000&p1=1440&p2=195&p3=16) | [^losers-bracket] |
+| China ::{ flag=CN }:: | ::{ flag=DE }:: Germany | [Aug 27 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220827T130000&p1=1440&p2=33&p3=37) | [^losers-bracket] |
+| Brazil ::{ flag=BR }:: | ::{ flag=TH }:: Thailand | [Aug 27 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220827T130000&p1=1440&p2=45&p3=28) | [^winners-bracket] |
 | Vietnam ::{ flag=VN }:: | ::{ flag=AR }:: Argentina | [Aug 27 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220827T140000&p1=1440&p2=95&p3=51) | [^losers-bracket] |
 | Canada ::{ flag=CA }:: | ::{ flag=IT }:: Italy | [Aug 27 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220827T150000&p1=1440&p2=188&p3=215) | [^losers-bracket] |
+| Singapore ::{ flag=SG }:: | ::{ flag=ES }:: Spain | [Aug 27 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220827T150000&p1=1440&p2=236&p3=141) | [^losers-bracket] |
 | Peru ::{ flag=PE }:: | ::{ flag=RU }:: Russian Federation | [Aug 27 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220827T160000&p1=1440&p2=131&p3=166) | [^losers-bracket] |
 
 ### Sunday, 28 August 2022
 
 | Team A | Team B | Match time |  |
 | --: | :-- | :-- | :-: |
-| Chile ::{ flag=CL }:: | ::{ flag=AU }:: Australia | [Aug 28 (Sun) 00:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220828T000000&p1=1440&p2=232&p3=57) | [^losers-bracket] |
-| China ::{ flag=CN }:: | ::{ flag=PE }:: Peru | [Aug 28 (Sun) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220828T020000&p1=1440&p2=33&p3=131) | [^potential-match] |
+| Chile ::{ flag=CL }:: | ::{ flag=AU }:: Australia | [Aug 28 (Sun) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220828T020000&p1=1440&p2=232&p3=57) | [^losers-bracket] |
+| Singapore ::{ flag=SG }:: | ::{ flag=CA }:: Canada | [Aug 28 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220828T030000&p1=1440&p2=236&p3=188) | [^potential-match] |
 | South Korea ::{ flag=KR }:: | ::{ flag=US }:: United States | [Aug 28 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220828T030000&p1=1440&p2=235&p3=263) | [^winners-bracket] |
 | Malaysia ::{ flag=MY }:: | ::{ flag=JP }:: Japan | [Aug 28 (Sun) 07:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220828T070000&p1=1440&p2=122&p3=248) | [^winners-bracket] |
 | Hong Kong ::{ flag=HK }:: | ::{ flag=AU }:: Australia | [Aug 28 (Sun) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220828T080000&p1=1440&p2=102&p3=57) | [^potential-match] |
-| Philippines ::{ flag=PH }:: | ::{ flag=GB }:: United Kingdom | [Aug 28 (Sun) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220828T090000&p1=1440&p2=145&p3=136) | [^winners-bracket] |
 | Indonesia ::{ flag=ID }:: | ::{ flag=AU }:: Australia | [Aug 28 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220828T100000&p1=1440&p2=108&p3=57) | [^potential-match] |
 | Singapore ::{ flag=SG }:: | ::{ flag=IT }:: Italy | [Aug 28 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220828T110000&p1=1440&p2=236&p3=215) | [^potential-match] |
 | Spain ::{ flag=ES }:: | ::{ flag=IT }:: Italy | [Aug 28 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220828T110000&p1=1440&p2=141&p3=215) | [^potential-match] |
 | Vietnam ::{ flag=VN }:: | ::{ flag=FR }:: France | [Aug 28 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220828T120000&p1=1440&p2=95&p3=195) | [^potential-match] |
-| Vietnam ::{ flag=VN }:: | ::{ flag=NL }:: Netherlands | [Aug 28 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220828T120000&p1=1440&p2=95&p3=16) | [^potential-match] |
-| China ::{ flag=CN }:: | ::{ flag=RU }:: Russian Federation | [Aug 28 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220828T120000&p1=1440&p2=33&p3=166) | [^potential-match] |
-| Brazil ::{ flag=BR }:: | ::{ flag=TH }:: Thailand | [Aug 28 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220828T130000&p1=1440&p2=45&p3=28) | [^winners-bracket] |
+| Philippines ::{ flag=PH }:: | ::{ flag=GB }:: United Kingdom | [Aug 28 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220828T120000&p1=1440&p2=145&p3=136) | [^winners-bracket] |
 | Indonesia ::{ flag=ID }:: | ::{ flag=CL }:: Chile | [Aug 28 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220828T140000&p1=1440&p2=108&p3=232) | [^potential-match] |
-| Hong Kong ::{ flag=HK }:: | ::{ flag=CL }:: Chile | [Aug 28 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220828T140000&p1=1440&p2=102&p3=232) | [^potential-match] |
-| Singapore ::{ flag=SG }:: | ::{ flag=CA }:: Canada | [Aug 28 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220828T140000&p1=1440&p2=236&p3=188) | [^potential-match] |
-| Spain ::{ flag=ES }:: | ::{ flag=CA }:: Canada | [Aug 28 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220828T150000&p1=1440&p2=141&p3=188) | [^potential-match] |
+| Vietnam ::{ flag=VN }:: | ::{ flag=NL }:: Netherlands | [Aug 28 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220828T140000&p1=1440&p2=95&p3=16) | [^potential-match] |
+| China ::{ flag=CN }:: | ::{ flag=RU }:: Russian Federation | [Aug 28 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220828T140000&p1=1440&p2=33&p3=166) | [^potential-match] |
+| China ::{ flag=CN }:: | ::{ flag=PE }:: Peru | [Aug 28 (Sun) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220828T143000&p1=1440&p2=33&p3=131) | [^potential-match] |
+| Hong Kong ::{ flag=HK }:: | ::{ flag=CL }:: Chile | [Aug 28 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220828T150000&p1=1440&p2=102&p3=232) | [^potential-match] |
 | Argentina ::{ flag=AR }:: | ::{ flag=FR }:: France | [Aug 28 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220828T160000&p1=1440&p2=51&p3=195) | [^potential-match] |
 | Argentina ::{ flag=AR }:: | ::{ flag=NL }:: Netherlands | [Aug 28 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220828T160000&p1=1440&p2=51&p3=16) | [^potential-match] |
 | Germany ::{ flag=DE }:: | ::{ flag=PE }:: Peru | [Aug 28 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220828T170000&p1=1440&p2=37&p3=131) | [^potential-match] |
 | Germany ::{ flag=DE }:: | ::{ flag=RU }:: Russian Federation | [Aug 28 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220828T170000&p1=1440&p2=37&p3=166) | [^potential-match] |
+| Spain ::{ flag=ES }:: | ::{ flag=CA }:: Canada | [Aug 28 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220828T170000&p1=1440&p2=141&p3=188) | [^potential-match] |
 
 ## Mappools
 
@@ -235,6 +235,8 @@ The osu!mania 4K World Cup 2022 is run by the [osu! team](/wiki/People/The_Team)
 ## Match results
 
 ### Round of 16
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/18esARmoc2V9TITiycFcQz-JZsy5I1rKzOaHCYq99c68).
 
 Saturday, 21 August 2022:
 

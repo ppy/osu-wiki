@@ -32,7 +32,7 @@ Notes:
 Notes:
 
 - In v1.0, these expanded then fades out with the hit circle.
-  - If [Hidden](/wiki/Game_modifier/Hidden) mod is enabled, this will only fade out.
+  - If [Hidden](/wiki/Gameplay/Game_modifier/Hidden) mod is enabled, this will only fade out.
 - In v2.0+, these fade out.
 - This element is downscaled by 0.8x
 
@@ -49,7 +49,7 @@ Notes:
 Notes:
 
 - In v1.0, these expanded then fades out with the hit circle.
-  - If [Hidden](/wiki/Game_modifier/Hidden) mod is enabled, this will only fade out.
+  - If [Hidden](/wiki/Gameplay/Game_modifier/Hidden) mod is enabled, this will only fade out.
 - In v2.0+, these fade out.
 - This element is downscaled by 0.8x
 
@@ -66,7 +66,7 @@ Notes:
 Notes:
 
 - In v1.0, these expanded then fades out with the hit circle.
-  - If [Hidden](/wiki/Game_modifier/Hidden) mod is enabled, this will only fade out.
+  - If [Hidden](/wiki/Gameplay/Game_modifier/Hidden) mod is enabled, this will only fade out.
 - In v2.0+, these fade out.
 - This element is downscaled by 0.8x
 
@@ -83,7 +83,7 @@ Notes:
 Notes:
 
 - In v1.0, these expanded then fades out with the hit circle.
-  - If [Hidden](/wiki/Game_modifier/Hidden) mod is enabled, this will only fade out.
+  - If [Hidden](/wiki/Gameplay/Game_modifier/Hidden) mod is enabled, this will only fade out.
 - In v2.0+, these fade out.
 - This element is downscaled by 0.8x
 
@@ -100,7 +100,7 @@ Notes:
 Notes:
 
 - In v1.0, these expanded then fades out with the hit circle.
-  - If [Hidden](/wiki/Game_modifier/Hidden) mod is enabled, this will only fade out.
+  - If [Hidden](/wiki/Gameplay/Game_modifier/Hidden) mod is enabled, this will only fade out.
 - In v2.0+, these fade out.
 - This element is downscaled by 0.8x
 
@@ -117,7 +117,7 @@ Notes:
 Notes:
 
 - In v1.0, these expanded then fades out with the hit circle.
-  - If [Hidden](/wiki/Game_modifier/Hidden) mod is enabled, this will only fade out.
+  - If [Hidden](/wiki/Gameplay/Game_modifier/Hidden) mod is enabled, this will only fade out.
 - In v2.0+, these fade out.
 - This element is downscaled by 0.8x
 
@@ -134,7 +134,7 @@ Notes:
 Notes:
 
 - In v1.0, these expanded then fades out with the hit circle.
-  - If [Hidden](/wiki/Game_modifier/Hidden) mod is enabled, this will only fade out.
+  - If [Hidden](/wiki/Gameplay/Game_modifier/Hidden) mod is enabled, this will only fade out.
 - In v2.0+, these fade out.
 - This element is downscaled by 0.8x
 
@@ -151,7 +151,7 @@ Notes:
 Notes:
 
 - In v1.0, these expanded then fades out with the hit circle.
-  - If [Hidden](/wiki/Game_modifier/Hidden) mod is enabled, this will only fade out.
+  - If [Hidden](/wiki/Gameplay/Game_modifier/Hidden) mod is enabled, this will only fade out.
 - In v2.0+, these fade out.
 - This element is downscaled by 0.8x
 
@@ -168,7 +168,7 @@ Notes:
 Notes:
 
 - In v1.0, these expanded then fades out with the hit circle.
-  - If [Hidden](/wiki/Game_modifier/Hidden) mod is enabled, this will only fade out.
+  - If [Hidden](/wiki/Gameplay/Game_modifier/Hidden) mod is enabled, this will only fade out.
 - In v2.0+, these fade out.
 - This element is downscaled by 0.8x
 
@@ -185,7 +185,7 @@ Notes:
 Notes:
 
 - In v1.0, these expanded then fades out with the hit circle.
-  - If [Hidden](/wiki/Game_modifier/Hidden) mod is enabled, this will only fade out.
+  - If [Hidden](/wiki/Gameplay/Game_modifier/Hidden) mod is enabled, this will only fade out.
 - In v2.0+, these fade out.
 - This element is downscaled by 0.8x
 
@@ -203,7 +203,7 @@ Notes:
 
 - Tinting depends on the hit circle's combo colour.
 - This element shrinks over time.
-  - If [Hidden](/wiki/Game_modifier/Hidden) mod is enabled, this element will not be used.
+  - If [Hidden](/wiki/Gameplay/Game_modifier/Hidden) mod is enabled, this element will not be used.
     - To show the first approach circle with Hidden mod enabled, the player will need to enable it in the [options](/wiki/Client/Options).
 - Should be a circle.
 
@@ -220,7 +220,7 @@ Notes:
 Notes:
 
 - This element fades in before getting tapped and expands when tapped or missed.
-  - If [Hidden](/wiki/Game_modifier/Hidden) mod is enabled, this will fade in before getting tapped and only fade out.
+  - If [Hidden](/wiki/Gameplay/Game_modifier/Hidden) mod is enabled, this will fade in before getting tapped and only fade out.
 - Tinting depends on the hit circle's combo colour.
 - Also used for `sliderstartcircle` and/or `sliderendcircle` if not skinned.
 - Should be a circle.
@@ -238,7 +238,7 @@ Notes:
 Notes:
 
 - This element fades in before getting tapped and expands when tapped or missed.
-  - If [Hidden](/wiki/Game_modifier/Hidden) mod is enabled, this will fade in before getting tapped and only fade out.
+  - If [Hidden](/wiki/Gameplay/Game_modifier/Hidden) mod is enabled, this will fade in before getting tapped and only fade out.
 - This can either overlay or underlay the combo number, by default this will always overlay.
   - To make this underlay the combo number, set `HitCircleOverlayAboveNumber` to `0`.
 - Also used for `sliderstartcircleoverlay` and/or `sliderendcircleoverlay` if not skinned.
@@ -309,7 +309,7 @@ Notes:
 - Overrides `hitcircle.png` for the start of the slider, if skinned.
 - This element is the hit circle for the start of the slider.
 - This element fades in before getting tapped and expands when tapped or missed.
-  - If [Hidden](/wiki/Game_modifier/Hidden) mod is enabled, this will fade in before getting tapped and only fade out.
+  - If [Hidden](/wiki/Gameplay/Game_modifier/Hidden) mod is enabled, this will fade in before getting tapped and only fade out.
 - Should be a circle.
 
 ---
@@ -323,7 +323,7 @@ Notes:
 Notes:
 
 - This element fades in before getting tapped and expands when tapped or missed.
-  - If [Hidden](/wiki/Game_modifier/Hidden) mod is enabled, this will fade in before getting tapped and only fade out.
+  - If [Hidden](/wiki/Gameplay/Game_modifier/Hidden) mod is enabled, this will fade in before getting tapped and only fade out.
 - This can either overlay or underlay the combo number, by default this will always overlay.
   - To make this underlay the combo number, set `HitCircleOverlayAboveNumber` to `0`.
 - Overrides the `hitcircle.png` image for the start of the slider.
@@ -344,7 +344,7 @@ Notes:
 - Overrides `hitcircle.png` for the start of the slider, if skinned.
 - This element is the hitcircle for the end of the slider.
 - This element fades in before completing and expands when completed.
-  - If [Hidden](/wiki/Game_modifier/Hidden) mod is enabled, this will fade in before completing and only fade out.
+  - If [Hidden](/wiki/Gameplay/Game_modifier/Hidden) mod is enabled, this will fade in before completing and only fade out.
 - Should be a circle.
 
 ---
@@ -358,7 +358,7 @@ Notes:
 Notes:
 
 - This element fades in before completing and expands when completed.
-  - If [Hidden](/wiki/Game_modifier/Hidden) mod is enabled, this will fade in before completing and only fade out.
+  - If [Hidden](/wiki/Gameplay/Game_modifier/Hidden) mod is enabled, this will fade in before completing and only fade out.
 - This can either overlay or underlay the combo number, by default this will always overlay.
   - To make this underlay the combo number, set `HitCircleOverlayAboveNumber` to `0`.
 - Overrides the `hitcircle.png` image for the start of the slider.
