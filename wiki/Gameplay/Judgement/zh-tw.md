@@ -4,8 +4,6 @@ stub: true
 
 # 判定
 
-<!-- TODO (cleanup tasks): this is missing a lead section -->
-
 ## 遊戲模式
 
 - [osu!](osu!)
