@@ -118,7 +118,6 @@ The osu!mania 4K World Cup 2022 is run by the [osu! team](/wiki/People/The_Team)
 | Singapore ::{ flag=SG }:: | ::{ flag=ES }:: Spain | [Aug 27 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220827T150000&p1=1440&p2=236&p3=141) | [^losers-bracket] |
 | Peru ::{ flag=PE }:: | ::{ flag=RU }:: Russian Federation | [Aug 27 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220827T160000&p1=1440&p2=131&p3=166) | [^losers-bracket] |
 
-
 ### Sunday, 28 August 2022
 
 | Team A | Team B | Match time |  |
