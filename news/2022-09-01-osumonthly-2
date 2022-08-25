@@ -4,13 +4,9 @@ title: "osu!monthly, August 2022"
 date: 2022-09-01 10:00:00 +0000
 ---
 
-assets folder: /wiki/shared/news/2022-09-01-osumonthly-2
-
-**The images will be stored in the shared folder of osu-wiki once done, and the icons are on osu-wiki so don't worry if it doesn't appear.**
 ![](/wiki/shared/news/2022-09-01-osumonthly-2/monthlybanner.jpg)
 
 ## Starting word
-
 As this is the second rendition of the awakened project we are still trying to find a groove and get a sense of what the community likes most and dislikes the least. If you'd like to contribute to any ideas, content, article writing, or anything else that we can feature, please don't be shy and let us know via the discussion thread on the forums or get involved in the osu!monthly process over on the [osu!dev Discord](https://discord.com/invite/ppy).
 For those not caught up to speed on what osu!monthly is, osu!monthly is a reimagining of the hit-sensation osu!weekly, but in a bigger, and dare we say, the better format where, as the name implies: it is once a month, every month.
 If you happened to miss out on last month's article then please check it out [here](https://osu.ppy.sh/home/news/2022-08-01-osumonthly-1)! For those who were waiting ever so patiently for the next rendition, your patience is well received, but wait no longer! It! Is! Here!
@@ -31,8 +27,8 @@ Last, but not least, the global bindings have been reorganized for easier naviga
 If you missed it, a post covering the work that went into the sound design of osu!(lazer) was [released on the osu! website](https://osu.ppy.sh/home/news/2022-08-31-the-sound-design-of-lazer)!
 The post goes in-depth about the design process of sound effects for lazer and includes snippets of an interview with [nekodex](https://osu.ppy.sh/users/102), the mastermind behind it all!
 
-Boo, it’s another lazer feature showcase!
-Some people say humans can only see up to 60 hz, well now you can test that yourself with the brand new latency certifier! Test your skills and see up to what refresh rate you can spot the difference by opening the settings and pressing on “Run latency certifier” (`General` > `Debug` > `Run latency certifier`). Feel free to let us know how far you got below, or if you are lazy you can just watch [Willy](https://osu.ppy.sh/users/3521482), an osu! content creator perform the test themselves!
+Boo, it's another lazer feature showcase!
+Some people say humans can only see up to 60 hz, well now you can test that yourself with the brand new latency certifier! Test your skills and see up to what refresh rate you can spot the difference by opening the settings and pressing on "Run latency certifier" (`General` > `Debug` > `Run latency certifier`). Feel free to let us know how far you got below, or if you are lazy you can just watch [Willy](https://osu.ppy.sh/users/3521482), an osu! content creator perform the test themselves!
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/g6wKMiCwSC8" frameborder="0" allowfullscreen></iframe>
 
@@ -80,7 +76,7 @@ It isn't every day, well... month, that osu! gets to bear witness such a unique 
 
 ## Did you see that? No? 
 
-As is the classic meme of taiko top performance, a 4-mod insane play that baffles anyone that stumbles upon such a feat. [Grape_Tea](https://osu.ppy.sh/users/9540073) does not disappoint with a mind-blowing, complete memorization 4-mod play on [Sparxe's Comma, ~ Imi to Kouzou no Bunri](https://osu.ppy.sh/beatmapsets/1785711#taiko/3658314), which not only impressive in-of-itself, but also sets the new performance points record for taiko. If you like magically seeing someone completely full combo a hidden, hard rock, double time, and flashlight map with the colors seemlessly bounching out of the judgement circle, this play is definitely for you!
+As is the classic meme of taiko top performance, a 4-mod insane play that baffles anyone that stumbles upon such a feat. [Grape_Tea](https://osu.ppy.sh/users/9540073) does not disappoint with a mind-blowing, complete memorization 4-mod play on [Sparxe's Comma, ~ Imi to Kouzou no Bunri](https://osu.ppy.sh/beatmapsets/1785711#taiko/3658314), which not only impressive in-of-itself, but also sets the new performance points record for taiko. If you like magically seeing someone completely full combo a hidden, hard rock, double time, and flashlight map with the colours seamlessly bouncing out of the judgement circle, this play is definitely for you!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2Cz_D6yjuUE" title="Grape_Tea - Comma, ~ Imi to Kouzou no Bunri" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -94,13 +90,13 @@ Don't think that taiko and osu! can steal the show that easily. The catch showca
 
 ## A New Dawn Approaches 
 
-It is no secret that the mania community has had some new developments in the past month, most notably [dressurf's](https://osu.ppy.sh/users/758406) sudden switch from #2 to #1 in the mania rankings. As such has not happened in nearly 5 years, the team decided that we should showcase and give a little spotlight to dressurf themself, as acheiving such a feat is nothing but rigorious and a dream for many osu! players. There are a lot of plays that dressurf cranked out in August but the one that seemed particularly impressive was the LN explosion that is [True Blue by dj TAKA feat. AiMEE (7k Farewell)](https://osu.ppy.sh/beatmapsets/1579889#mania/3226089) with DT. An iconic song that most of the osu! community can recognize on spot made into a deceptively complex 7-key mania map with hardly any rest time and an ever increasing amount of LNs and chords that make even the best of the best tremble when looking at the map was pretty much put to rest by dressurf. The accuracy and note miss count is no small feat when thinking that any given moment dressurf is pressent more than 20 notes per second! 
+It is no secret that the mania community has had some new developments in the past month, most notably [dressurf](https://osu.ppy.sh/users/758406)'s sudden switch from #2 to #1 in the mania rankings. As such has not happened in nearly 5 years, the team decided that we should showcase and give a little spotlight to dressurf themself, as achieving such a feat is nothing but rigorous and a dream for many osu! players. There are a lot of plays that dressurf cranked out in August but the one that seemed particularly impressive was the LN explosion that is [True Blue by dj TAKA feat. AiMEE (7k Farewell)](https://osu.ppy.sh/beatmapsets/1579889#mania/3226089) with DT. An iconic song that most of the osu! community can recognize on spot made into a deceptively complex 7-key mania map with hardly any rest time and an ever increasing amount of LNs and chords that make even the best of the best tremble when looking at the map was pretty much put to rest by dressurf. The accuracy and note miss count is no small feat when thinking that any given moment dressurf is pressing more than 20 notes per second! 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JmLkJEHS68g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## A bounty as old as time
 
-Even with a change in the #1 in mania, it is still important that we highlight those who truly deserve it. [Bojii's](https://osu.ppy.sh/users/10083439) near perfect play on [Bangin' Burst by Camellia [4K] EXHAUST Lv.16 mapped by Spy](https://osu.ppy.sh/scores/mania/506841803) really shows the difficulty and precision needed to claim the [bounty](https://twitter.com/cleanBMS/status/1560222028396990469?s=19). The map seems pretty generic at first but ramps up in difficulty not in just pattern identification, but in precision and survivability. With the final 10 seconds of the map throwing a whopping 20 keys per second stream-jack at the player, it is all-too-easy to make a miss, but bojii stuck through and is the closest player yet to claim the bounty on a map that has yet to be SS'd. 
+Even with a change in the #1 in mania, it is still important that we highlight those who truly deserve it. [Bojii](https://osu.ppy.sh/users/10083439)'s near perfect play on [Bangin' Burst by Camellia [4K] EXHAUST Lv.16 mapped by Spy](https://osu.ppy.sh/scores/mania/506841803) really shows the difficulty and precision needed to claim the [bounty](https://twitter.com/cleanBMS/status/1560222028396990469?s=19). The map seems pretty generic at first but ramps up in difficulty not in just pattern identification, but in precision and survivability. With the final 10 seconds of the map throwing a whopping 20 keys per second stream-jack at the player, it is all-too-easy to make a miss, but bojii stuck through and is the closest player yet to claim the bounty on a map that has yet to be SS'd. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FXRphC5JR6I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -111,7 +107,7 @@ osu! did not support any keyboard inputs when it was released, it was only after
 
 ## Monthly community quiz
 
-TBD
+this will be added before release to stop people from coming up with answers before the go-live date
 
 ## Things to look out for in September
 
