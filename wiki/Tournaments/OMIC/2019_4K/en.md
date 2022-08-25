@@ -31,7 +31,7 @@ tags:
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "First Place") | IDR350,000, 4 months of osu!supporter tag, Google Play Voucher code of IDR50,000, Lencana profil |
+| ![Gold Crown](/wiki/shared/crown-gold.png "First Place") | IDR350,000, 4 months of osu!supporter tag, Google Play Voucher code of IDR50,000, profile badge |
 | ![Silver Crown](/wiki/shared/crown-silver.png "Second Place") | IDR200,000, 2 months of osu!supporter tag |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "Third Place") | IDR150,000, 1 month of osu!supporter tag |
 
