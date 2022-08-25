@@ -110,6 +110,7 @@ The osu!mania 4K World Cup 2022 is run by the [osu! team](/wiki/People/The_Team)
 
 | Team A | Team B | Match time |  |
 | --: | :-- | :-- | :-: |
+| Indonesia ::{ flag=ID }:: | ::{ flag=HK }:: Hong Kong | [Aug 27 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220827T130000&p1=1440&p2=108&p3=102) | [^losers-bracket] |
 | France ::{ flag=FR }:: | ::{ flag=NL }:: Netherlands | [Aug 27 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220827T130000&p1=1440&p2=195&p3=16) | [^losers-bracket] |
 | China ::{ flag=CN }:: | ::{ flag=DE }:: Germany | [Aug 27 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220827T130000&p1=1440&p2=33&p3=37) | [^losers-bracket] |
 | Brazil ::{ flag=BR }:: | ::{ flag=TH }:: Thailand | [Aug 27 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220827T130000&p1=1440&p2=45&p3=28) | [^winners-bracket] |
