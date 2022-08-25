@@ -389,7 +389,7 @@ Sunday, 10 July 2022
 - Players are allowes to use visual mods such as (HD), Flashlight (FL), Fade In (FI), and Mirror (MR).
 - Players will play 2 maps for a warm-up session that had been selected by the player that rolled the highest.
 
-#### Qualifies Round
+#### Qualifiers Round
 
 - The maximum number of players to enter the next round is 32 players.
 - In the Qualifiers round there will be 5 maps in the mappool that have different skillsets, all of these maps will be created by the mappool selector.
