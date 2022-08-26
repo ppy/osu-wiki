@@ -28,7 +28,7 @@ El siguiente contenido está separada en secciones, indicado por títulos de sec
 | `AudioFilename` | String | Localización del audio en la carpeta local. |  |
 | `AudioLeadIn` | Integer | Milisegundos de silencio antes de que el audio empiece. | 0 |
 | `AudioHash` | String | *Obsoleto* |  |
-|`PreviewTime`|Integer|Tiempo en milisegundos en que debe comenzar la vista previa de audio|-1|
+| `PreviewTime` | Integer | Tiempo en milisegundos en que debe comenzar la vista previa de audio | -1 | 
 | `Countdown` | Integer | Velocidad del contador antes del primer objeto (`0` = sin countdown, `1` = normal, `2` = mitad, `3` = doble) | 1 |
 | `SampleSet` | String | Conjunto de muestra que se usará si los puntos de tiempo no lo anulan (`Normal`, `Soft`, `Drum`) | Normal |
 | `StackLeniency` | Decimal | Multiplicador para el umbral en el tiempo en el que los objetos golpeados que están colocados muy juntos se apilan (0–1) | 0.7 |
