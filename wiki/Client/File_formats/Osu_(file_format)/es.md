@@ -24,7 +24,7 @@ El siguiente contenido está separada en secciones, indicado por títulos de sec
 <!-- TODO: a esto le faltan algunas opciones funcionales que sobran de formatos de archivo muy antiguos -->
 
 | Opción | Tipo de valor | Descripción | Valor por defecto |
-| :-- | -- | -- | --: |
+| -- | -- | -- | -- |
 | `AudioFilename` | String | Localización del audio en la carpeta local. |  |
 | `AudioLeadIn` | Integer | Milisegundos de silencio antes de que el audio empiece. | 0 |
 | `AudioHash` | String | *Obsoleto* |  |
