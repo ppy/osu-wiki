@@ -4,16 +4,16 @@ Los archivos **`.osu`**  contienen informacion sobre un beatmap.
 
 ## Estructura
 
-La primera linea del archivo especifica la version del archivo. Por ejemplo, `osu file format v14` es la ultima version.
+La primera línea del archivo especifica la version del archivo. Por ejemplo, `osu file format v14` es la ultima version.
 
-El siguiente contenido esta separada en secciones, indicado por títulos de sección entre corchetes.
+El siguiente contenido está separada en secciones, indicado por títulos de sección entre corchetes.
 
-| Seccion | Descripcion | Tipo de contenido |
+| Sección | Descripción | Tipo de contenido |
 | :-- | :-- | :-- |
-| `[General]` | Informacion general del beatmap | `key: value` pares |
+| `[General]` | Información general del beatmap | `key: value` pares |
 | `[Editor]` | Configuraciones guardadas por el editor del beatmap | `key: value` pares |
-| `[Metadata]` | [Informacion](/wiki/Client/Beatmap_editor/Song_Setup#song-and-map-metadata) usada para identificar el beatmap | `key:value` pares |
-| `[Difficulty]` | [Configuracion de dificultad](/wiki/Client/Beatmap_editor/Song_Setup#difficulty) | `key:value` pares |
+| `[Metadata]` | [Información](/wiki/Client/Beatmap_editor/Song_Setup#song-and-map-metadata) usada para identificar el beatmap | `key:value` pares |
+| `[Difficulty]` | [Configuración de dificultad](/wiki/Client/Beatmap_editor/Song_Setup#difficulty) | `key:value` pares |
 | `[Events]` | Beatmap y eventos gráficos del storyboard | Listas separadas por comas |
 | `[TimingPoints]` | Timing y puntos de control | Listas separadas por comas |
 | `[Colours]` | Colores de combo y skin | `key : value` pares |
@@ -25,13 +25,13 @@ El siguiente contenido esta separada en secciones, indicado por títulos de secc
 
 | Opción | Tipo de valor | Descripción | Valor por defecto |
 | :-- | :-- | :-- | :-- |
-| `AudioFilename` | String | Locación del audio en la carpeta local. |  |
+| `AudioFilename` | String | Localización del audio en la carpeta local. |  |
 | `AudioLeadIn` | Integer | Milisegundos de silencio antes de que el audio empiece. | 0 |
 | `AudioHash` | String | *Obsoleto* |  |
 | `PreviewTime` | Integer | Tiempo en milisegundos en que debe comenzar la vista previa de audio| -1 |
 | `Countdown` | Integer | Velocidad del contador antes del primer objeto (`0` = sin countdown, `1` = normal, `2` = mitad, `3` = doble) | 1 |
 | `SampleSet` | String | Conjunto de muestra que se usará si los puntos de tiempo no lo anulan (`Normal`, `Soft`, `Drum`) | Normal |
-| `StackLeniency` | Decimal | Multiplicador para el umbral en el tiempo en el que los objetos golpeados que estan colocados muy juntos se apilan (0–1) | 0.7 |
+| `StackLeniency` | Decimal | Multiplicador para el umbral en el tiempo en el que los objetos golpeados que están colocados muy juntos se apilan (0–1) | 0.7 |
 | `Mode` | Integer | Modo de juego (`0` = osu!, `1` = osu!taiko, `2` = osu!catch, `3` = osu!mania) | 0 |
 | `LetterboxInBreaks` | 0 or 1 | Si los descansos tienen o no un efecto de pantalla ancha | 0 |
 | `StoryFireInFront` | 0 or 1 | *Obsoleto* | 1 |
@@ -40,7 +40,7 @@ El siguiente contenido esta separada en secciones, indicado por títulos de secc
 | `OverlayPosition` | String | Dibuja el orden de las superposiciones de círculos de aciertos en comparación con los números de aciertos (`NoChange` = usar configuracion de skin, `Below` = dibujar superposiciones debajo de los números, `Above` = dibujar superposiciones encima de los números) | NoChange |
 | `SkinPreference` | String | Skin preferida durante el gameplay |  |
 | `EpilepsyWarning` | 0 or 1 | Si se debe mostrar o no una advertencia sobre colores intermitentes al comienzo del mapa | 0 |
-| `CountdownOffset` | Integer | Tiempo en latidos que la cuenta regresiva comienza antes del primer objeto golpeado | 0 |
+| `CountdownOffset` | Integer | Tiempo en beats que la cuenta regresiva comienza antes del primer objeto golpeado | 0 |
 | `SpecialStyle` | 0 or 1 | Si se usa o no el diseño de teclas de estilo "N+1" para osu!mania | 0 |
 | `WidescreenStoryboard` | 0 or 1 | Si el storyboard permite o no la visualización en pantalla ancha | 0 |
 | `SamplesMatchPlaybackRate` | 0 or 1 | Si las muestras de sonido cambiarán o no la velocidad al jugar con mods que cambian de velocidad | 0 |
@@ -95,7 +95,7 @@ Estas opciones solo son relevantes cuando se abren mapas en el [editor](/wiki/Cl
 
 *Sintaxis del background:* `0,0,filename,xOffset,yOffset`
 
-- **`filename` (String):** Locación de la imagen del background relativo al directorio del beatmap. Las comillas dobles generalmente se incluyen alrededor del nombre del archivo, pero no son obligatorias.
+- **`filename` (String):** Localización de la imagen del background relativo al directorio del beatmap. Las comillas dobles generalmente se incluyen alrededor del nombre del archivo, pero no son obligatorias.
 - **`xOffset` (Integer)** y **`yOffset` (Integer):** Desplazamiento en [osu! pixels](/wiki/Client/Beatmap_editor/osu!_pixel/) desde el centro de la pantalla. Por ejemplo, un desplazamiento de `50,100` tendría el fondo mostrando 50 osu! pixels a la derecha y 100 osu! pixels hacia abajo desde el centro de la pantalla. Si el desplazamiento es `0,0`, escribirlo es opcional.
 
 ### Videos
@@ -116,11 +116,11 @@ Estas opciones solo son relevantes cuando se abren mapas en el [editor](/wiki/Cl
 
 ### Storyboard
 
-*Para informacón sobre el syntax del storyboard, ver [Comandos del storyboard](/wiki/Storyboard/Scripting).*
+*Para informacón sobre el sintaxis del storyboard, ver [Comandos del storyboard](/wiki/Storyboard/Scripting).*
 
 Los storyboards pueden definirse con un archivo opcional aparte con la extension `.osb`. Storyboard externos son compartidos enrtre todas las dificultades de un beatmap.
 
-Cada mapa debe contener su propia dificultad especifica de storyboard, ya sea en conjunto con el storyboard externo o por sí mismo.
+Cada mapa debe contener su propia dificultad especáfica de storyboard, ya sea en conjunto con el storyboard externo o por sí mismo.
 
 ## Puntos de tiempo
 
@@ -136,7 +136,7 @@ Cada punto de tiempo influye en una parte específica del mapa, comúnmente llam
 - **`sampleSet` (Integer):** Conjunto de muestra predeterminado para objetos de golpe (0 = beatmap predeterminado, 1 = normal, 2 = soft, 3 = drum).
 - **`sampleIndex` (Integer):** Índice de muestra personalizado para objetos de hit. `0` indica los sonidos de éxito predeterminados de osu!
 - **`volume` (Integer):** Porcentaje de volumen para objetos golpeados.
-- **`uninherited` (0 or 1):** Si el punto de tiempo no se hereda o no.
+- **`uninherited` (0 or 1):** Si el punto de tiempo se hereda o no.
 - **`effects` (Integer):** Indicadores de bits que le dan al punto de tiempo efectos adicionales. Ver [la sección de efectos](#efectos).
 
 ### Efectos
@@ -168,7 +168,7 @@ Se hereda el segundo punto de tiempo a los 12 segundos, cambiando la velocidad d
 
 ## Colores
 
-Todas las opciones en esta seccion representa los colores. Son tripletes separados por comas de números enteros del 0 al 255, que representan los componentes rojo, verde y azul de los colores.
+Todas las opciones en esta sección representa los colores. Son tripletes separados por comas de números enteros del 0 al 255, que representan los componentes rojo, verde y azul de los colores.
 
 | Opción | Descripción |
 | :-- | :-- |
@@ -184,8 +184,8 @@ Todas las opciones en esta seccion representa los colores. Son tripletes separad
 - **`time` (Integer):** Tiempo cuando el objeto debe ser golpeado en milisegundos desde el inicio del audio.
 - **`type` (Integer):** Indicadores de bits que indican el tipo de objeto. Ver [la sección de tipo](#type).
 - **`hitSound` (Integer):** Indicadores de bits que indican el sonido de impacto aplicado al objeto. Ver [la sección de hitsounds](#hitsounds).
-- **`objectParams` (Comma-separated list):** Parámetros adicionales específicos del tipo de objeto.
-- **`hitSample` (Colon-separated list):** Información sobre qué muestras se reproducen cuando se golpea el objeto. Está estrechamente relacionado con `hitSound`; ver [la sección de hitsounds](#hitsounds). Si no está escrito, por defecto es `0:0:0:0:`.
+- **`objectParams` (Lista separada por comas):** Parámetros adicionales específicos del tipo de objeto.
+- **`hitSample` (Lista separada por dos puntos):** Información sobre qué muestras se reproducen cuando se golpea el objeto. Está estrechamente relacionado con `hitSound`; ver [la sección de hitsounds](#hitsounds). Si no está escrito, por defecto es `0:0:0:0:`.
 
 ### Tipo
 
@@ -244,8 +244,8 @@ Todas estas opciones (además del volumen) se utilizan para determinar qué arch
 El archivo de sonido se carga desde el primero de los siguientes directorios que contiene un nombre de archivo coincidente:
 
 - Beatmap, si `index` no es `0`
-- Máscara, con el `índice` eliminado
-- Recursos por defecto, con el `índice` eliminado
+- Máscara, con el `index` eliminado
+- Recursos por defecto, con el `index` eliminado
 
 Cuando se proporciona `filename` no se reproducirán sonidos adicionales y en su lugar se reproducirá este archivo en el directorio del mapa de ritmos.
 
@@ -260,7 +260,7 @@ Los círculos de visita no tienen `objectParams` adicionales.
 - **`curveType` (Carácter):** Tipo de curva utilizada para construir este Slider (`B` = bézier, `C` = catmull-rom centrípeta, `L` = lineal, `P` = círculo perfecto)
 - **`curvePoints` (Lista de cadenas separadas):** Puntos de anclaje utilizados para construir el Slider. Cada punto tiene el formato `x:y`.
 - **`slides` (Integer):** Cantidad de veces que el jugador tiene que seguir la curva del Slider de un lado a otro antes de que se complete el Slider. También se puede interpretar como el recuento de repeticiones más uno.
-- **`lenght` (Decimal):** Longitud visual en [osu! pixels](/wiki/Client/Beatmap_editor/osu!_pixel/) del control deslizante.
+- **`lenght` (Decimal):** Longitud visual en [osu! pixels](/wiki/Client/Beatmap_editor/osu!_pixel/) del Slider.
 - **`edgeSounds` (Lista de enteros separados):** Hitsounds que se reproducen al golpear los bordes de la curva del Slider. El primer sonido es el que se reproduce cuando se hace clic en el Slider por primera vez, y el último sonido es el que se reproduce cuando se golpea el extremo del Slider.
 - **`edgeSets` (Lista de cadenas separadas):** Conjuntos de muestra utilizados para `edgeSounds`. Cada conjunto tiene el formato `normalSet:additionSet`, con el mismo significado que en [la sección hitsounds](#hitsounds).
 
@@ -292,7 +292,7 @@ Este hitsound utiliza las propiedades `hitSound` y `hitSample` del objeto hit, p
 
 *Sintaxis de Spinner:* `x,y,time,type,hitSound,endTime,hitSample`
 
-- **`endTime` (Integer):** Hora de finalización del Spinner, en milisegundos desde el comienzo del audio del mapa de ritmos.
+- **`endTime` (Integer):** Tiempo de finalización del Spinner, en milisegundos desde el comienzo del audio del mapa de ritmos.
 - `x` e `y` no afectan a los Spinners. Por defecto van al centro del juego, `256,192`.
 
 ### Notas largas (solo osu!mania)
