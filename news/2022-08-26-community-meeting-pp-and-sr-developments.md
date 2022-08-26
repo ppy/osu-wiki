@@ -34,7 +34,7 @@ Below is the schedule for the community meetings. You can tune in live through t
 
 ---
 
-Join us for a hopefully insightful event! Most importantly, be sure to spread the word to anyone you can - this literally affects everyone.
+We look forward to seeing you there! Remember to use the [question submission form](https://forms.gle/Q3YSYZF5ZCEuqXtZ7) if you have an important question you'd like to ask about future development, but won't be able to make it there in person (or if you just don't want to put your hand up and speak). Be sure to spread the word to anyone you think might be interested!
 
 See you all soon!
 
