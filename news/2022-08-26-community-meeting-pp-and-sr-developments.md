@@ -16,7 +16,7 @@ Here's a brief rundown on how the community meetings will work:
 - These panels will be hosted on the [official osu!dev Discord server](https://discord.gg/ppy) through a Discord stage channel.
 - During each panel, audience members can raise their hand to be invited onto the stage to ask their question. Audience members can also type their questions in the relevant thread, or pre-submit their questions [here](https://forms.gle/Q3YSYZF5ZCEuqXtZ7) if they cannot attend.
 
-Below is the schedule for the community meetings. You can tune in live through the Discord stage channel, and we'll update this newspost with links to the talks should they be recorded or streamed for those who can't make it.
+Below is the schedule for the community meetings. You can tune in live through the Discord stage channel, and we'll update this news post with links to the talks should they be recorded or streamed for those who can't make it.
 
 ### Sunday, August 28, 2022
 
