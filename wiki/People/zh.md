@@ -6,5 +6,5 @@
 - [peppy](peppy)
 - [表现分（PP）委员会](Performance_Points_Committee)
 - [osu! 核心成员](The_Team)
-- [竞赛委员会](Tournament_Committee)
+- [锦标赛委员会](Tournament_Committee)
 - [拥有特殊头衔的玩家](Users_with_unique_titles)
