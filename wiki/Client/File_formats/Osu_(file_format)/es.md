@@ -24,7 +24,7 @@ El siguiente contenido está separada en secciones, indicado por títulos de sec
 <!-- TODO: a esto le faltan algunas opciones funcionales que sobran de formatos de archivo muy antiguos -->
 
 | Opción | Tipo de valor | Descripción | Valor por defecto |
-| :-- | :-- | :-- | :-- |
+| :-- | -- | -- | --: |
 | `AudioFilename` | String | Localización del audio en la carpeta local. |  |
 | `AudioLeadIn` | Integer | Milisegundos de silencio antes de que el audio empiece. | 0 |
 | `AudioHash` | String | *Obsoleto* |  |
@@ -54,7 +54,7 @@ Estas opciones solo son relevantes cuando se abren mapas en el [editor](/wiki/Cl
 | `Bookmarks` | Lista de enteros separados por comas | Tiempo en milisegundos de los [bookmarks](/wiki/Client/Beatmap_editor/Compose#bottom-(song's-timeline)) |
 | `DistanceSpacing` | Decimal | Multiplicador del [ajuste de distancia](/wiki/Client/Beatmap_editor/Distance_snap) |
 | `BeatDivisor` | Decimal | [Divisor de beat](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) |
-| `GridSize` | Integer | [Tamaño de la cuadrícula](/wiki/Beatmapping/Grid_snapping/) |
+| `GridSize` | Integer | [Tamaño de la cuadrícula](/wiki/Beatmapping/Grid_snapping) |
 | `TimelineZoom` | Decimal | Factor de escala para la [línea de tiempo del objeto](/wiki/Client/Beatmap_editor/Compose#top-left-(hit-objects-timeline)) |
 
 ## Metadata
@@ -80,7 +80,7 @@ Estas opciones solo son relevantes cuando se abren mapas en el [editor](/wiki/Cl
 | `CircleSize` | Decimal | Configuración de CS (0–10) |
 | `OverallDifficulty` | Decimal | Configuración de OD (0–10) |
 | `ApproachRate` | Decimal | Configuración de AR (0–10) |
-| `SliderMultiplier` | Decimal | Velocidad base del deslizador en cientos de [osu! pixels](/wiki/Client/Beatmap_editor/osu!_pixel/) por beat |
+| `SliderMultiplier` | Decimal | Velocidad base del deslizador en cientos de [osu! pixels](/wiki/Client/Beatmap_editor/osu!_pixel) por beat |
 | `SliderTickRate` | Decimal | Cantidad de ticks del slider por latido |
 
 ## Eventos
@@ -96,7 +96,7 @@ Estas opciones solo son relevantes cuando se abren mapas en el [editor](/wiki/Cl
 *Sintaxis del background:* `0,0,filename,xOffset,yOffset`
 
 - **`filename` (String):** Localización de la imagen del background relativo al directorio del beatmap. Las comillas dobles generalmente se incluyen alrededor del nombre del archivo, pero no son obligatorias.
-- **`xOffset` (Integer)** y **`yOffset` (Integer):** Desplazamiento en [osu! pixels](/wiki/Client/Beatmap_editor/osu!_pixel/) desde el centro de la pantalla. Por ejemplo, un desplazamiento de `50,100` tendría el fondo mostrando 50 osu! pixels a la derecha y 100 osu! pixels hacia abajo desde el centro de la pantalla. Si el desplazamiento es `0,0`, escribirlo es opcional.
+- **`xOffset` (Integer)** y **`yOffset` (Integer):** Desplazamiento en [osu! pixels](/wiki/Client/Beatmap_editor/osu!_pixel) desde el centro de la pantalla. Por ejemplo, un desplazamiento de `50,100` tendría el fondo mostrando 50 osu! pixels a la derecha y 100 osu! pixels hacia abajo desde el centro de la pantalla. Si el desplazamiento es `0,0`, escribirlo es opcional.
 
 ### Videos
 
@@ -180,7 +180,7 @@ Todas las opciones en esta sección representa los colores. Son tripletes separa
 
 *Sintaxis de los objetos:* `x,y,time,type,hitSound,objectParams,hitSample`
 
-- **`x` (Integer)** y **`y` (Integer):** Posición de los [osu! pixels](/wiki/Client/Beatmap_editor/osu!_pixel/) del objeto.
+- **`x` (Integer)** y **`y` (Integer):** Posición de los [osu! pixels](/wiki/Client/Beatmap_editor/osu!_pixel) del objeto.
 - **`time` (Integer):** Tiempo cuando el objeto debe ser golpeado en milisegundos desde el inicio del audio.
 - **`type` (Integer):** Indicadores de bits que indican el tipo de objeto. Ver [la sección de tipo](#type).
 - **`hitSound` (Integer):** Indicadores de bits que indican el sonido de impacto aplicado al objeto. Ver [la sección de hitsounds](#hitsounds).
@@ -260,7 +260,7 @@ Los círculos de visita no tienen `objectParams` adicionales.
 - **`curveType` (Carácter):** Tipo de curva utilizada para construir este Slider (`B` = bézier, `C` = catmull-rom centrípeta, `L` = lineal, `P` = círculo perfecto)
 - **`curvePoints` (Lista de cadenas separadas):** Puntos de anclaje utilizados para construir el Slider. Cada punto tiene el formato `x:y`.
 - **`slides` (Integer):** Cantidad de veces que el jugador tiene que seguir la curva del Slider de un lado a otro antes de que se complete el Slider. También se puede interpretar como el recuento de repeticiones más uno.
-- **`lenght` (Decimal):** Longitud visual en [osu! pixels](/wiki/Client/Beatmap_editor/osu!_pixel/) del Slider.
+- **`lenght` (Decimal):** Longitud visual en [osu! pixels](/wiki/Client/Beatmap_editor/osu!_pixel) del Slider.
 - **`edgeSounds` (Lista de enteros separados):** Hitsounds que se reproducen al golpear los bordes de la curva del Slider. El primer sonido es el que se reproduce cuando se hace clic en el Slider por primera vez, y el último sonido es el que se reproduce cuando se golpea el extremo del Slider.
 - **`edgeSets` (Lista de cadenas separadas):** Conjuntos de muestra utilizados para `edgeSounds`. Cada conjunto tiene el formato `normalSet:additionSet`, con el mismo significado que en [la sección hitsounds](#hitsounds).
 
@@ -330,7 +330,7 @@ El tercer objeto es un Slider:
 - En el puesto (100,100)
 - A los 12,6 segundos
 - Comenzando un nuevo combo
-- Con un Slider de curva bézier compuesto, donde los puntos de control de la primera curva son (100,100), (200,200) y (250,200), y los puntos de control de la segunda curva son (250,200) y (300,150). Los puntos de control duplicados indican un [punto de anclaje rojo](/wiki/Gameplay/Hit_object/Slider/Slider_anchor/).
+- Con un Slider de curva bézier compuesto, donde los puntos de control de la primera curva son (100,100), (200,200) y (250,200), y los puntos de control de la segunda curva son (250,200) y (300,150). Los puntos de control duplicados indican un [punto de anclaje rojo](/wiki/Gameplay/Hit_object/Slider/Slider_anchor).
 - Repetir una vez
 - 310.123 osu! pixels de largo
 - Con un sonido de whistle al principio y un sonido de whistle jugando con set Soft al final.
