@@ -1,22 +1,22 @@
 ---
 layout: post
 title: "osu! community meeting: Performance Points and Star Rating Development Q&A"
-date: 2022-08-24 10:00:00 +0000
+date: 2022-08-26 10:00:00 +0000
 ---
 
-We're hosting a Q&A panel about your PP. Come join us over the next two weekends as we discuss the topics that transcend even life and death.
+Got some questions about the future direction of your game mode's Performance Points or Star Rating development? Ask them live during an upcoming Q&A panel hosted on the osu!dev Discord server!
 
-![](/wiki/shared/news/2022-08-24-osu-community-meeting-pp-and-sr-dev/star-rating.jpg)
+![](https://assets.ppy.sh/media/generic-header.jpg)
 
 Due to popular demand, the [Performance Points Committee](https://osu.ppy.sh/wiki/en/People/Performance_Points_Committee) (and associates) have decided to host a series of community meetings to address any questions or concerns you may have about the latest developments surrounding performance points and star rating!
 
 Here's a brief rundown on how the community meetings will work:
 
-- There will be a Q&A panel for each of the osu! gamemodes, lasting 1 - 1.5 hours each.
+- There will be a Q&A panel for each of the osu! game modes, lasting 1 - 1.5 hours each.
 - These panels will be hosted on the [official osu!dev Discord server](https://discord.gg/ppy) through a Discord stage channel.
 - During each panel, audience members can raise their hand to be invited onto the stage to ask their question. Audience members can also type their questions in the relevant thread, or pre-submit their questions [here](https://forms.gle/Q3YSYZF5ZCEuqXtZ7) if they cannot attend.
 
-Below is the schedule for the community meetings. You can tune in live through the Discord stage channel, but all talks will also be streamed live on [pending](pending link) and uploaded separately to [pending YouTube channel](pending link).
+Below is the schedule for the community meetings. You can tune in live through the Discord stage channel, but all talks will also be streamed live on [the osu! University Twitch channel](https://www.twitch.tv/osuuniversity) and uploaded separately to [their YouTube channel](https://www.youtube.com/c/osuUniversity).
 
 ### Sunday, August 28, 2022
 
@@ -29,8 +29,8 @@ Below is the schedule for the community meetings. You can tune in live through t
 
 | Time (UTC) | Event | Reminder |
 | :-: | :-- | :-- |
-| 10:00 UTC | osu!mania Q&A panel | [Click me to be notified on Discord!](pending link) |
-| 11:00 UTC | osu!catch Q&A panel | [Click me to be notified on Discord!](pending link) |
+| 10:00 UTC | osu!mania Q&A panel | Not yet available |
+| 11:00 UTC | osu!catch Q&A panel | Not yet available |
 
 ---
 
@@ -38,5 +38,5 @@ Join us for a hopefully insightful event! Most importantly, be sure to spread th
 
 See you all soon!
 
-—Performance Points Committee
+—the Performance Points Committee
 
