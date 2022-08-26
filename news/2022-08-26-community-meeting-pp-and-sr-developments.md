@@ -8,7 +8,7 @@ Got some questions about the future direction of your game mode's Performance Po
 
 ![](https://assets.ppy.sh/media/generic-header.jpg)
 
-Due to popular demand, the [Performance Points Committee](/wiki//People/Performance_Points_Committee) (and associates) have decided to host a series of community meetings to address any questions or concerns you may have about the latest developments surrounding performance points and star rating!
+Due to popular demand, the [Performance Points Committee](/wiki/People/Performance_Points_Committee) (and associates) have decided to host a series of community meetings to address any questions or concerns you may have about the latest developments surrounding performance points and star rating!
 
 Here's a brief rundown on how the community meetings will work:
 
