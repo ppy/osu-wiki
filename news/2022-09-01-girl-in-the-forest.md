@@ -4,11 +4,11 @@ title: ""
 date: 2022-08-31 00:00:00 +0000
 ---
 
-Join us on a journey with Zetera, the Medal Hunter as he tells his story about obtaining one of osu!'s the most elusive medals, The Girl in the Forest!
+Join us on a journey with Zetera, the Medal Hunter as he tells his story about unraveling the secret of osu!'s most elusive medal, The Girl in the Forest!
 
 ![](TBD)
 
-Before we embark on a journey of happiness, sweat and tears, we first must learn about the history of medals. Medals were first introduced in early August 2008, with their original goal being to serve as an achievement system that could (but never did) become a part of osu!'s "story mode". The first ever medals to get added were the playcount medals and since they were retroactively given to all users that already had the needed count, some users had acquired them on release such as [Echo](https://osu.ppy.sh/users/431) and [Saturos](https://osu.ppy.sh/users/3781), who are both legends of the early osu! days. 
+Before we embark on a journey of happiness, sweat and tears, we first must learn about the history of medals. Medals were first introduced in early August 2008, with their original goal being to serve as an achievement system that could (but never did) become a part of osu!'s "story mode". The first ever medals to get added were the playcount medals and since they were retroactively given to all users that already had the needed count, some users like [Echo](https://osu.ppy.sh/users/431) and [Saturos](https://osu.ppy.sh/users/3781) had acquired them on pretty much on release as they were playing at the time, which updated their playcount.
 
 Soon after the playcount medals came the first batch of beatmap pack medals, and while some are not present anymore, there are some that you can still acquire! Some examples would be the [Internet Pack vol.1](https://osekai.net/medals/?medal=Internet!+Pack+vol.1), [Anime Pack vol.1](https://osekai.net/medals/?medal=Anime+Pack+vol.1), [Video Game Pack vol.1](https://osekai.net/medals/?medal=Video+Game+Pack+vol.1) and [Rhythm Game Pack vol.1](https://osekai.net/medals/?medal=Rhythm+Game+Pack+vol.1). As the game got updated, medals would become more than just a way to keep track of your pack completion with hush-hush medals. What are hush-hush medals you might ask? Well, the [osu! wiki](https://osu.ppy.sh/wiki/en/Main_Page) defined them as the following:
 
@@ -28,3 +28,4 @@ And "up the ante a little bit" he did. He would set a bounty on the medal, stati
 
 ...If you were to look at the [forum post itself]((https://osu.ppy.sh/community/forums/topics/662279?n=1)) you would see that the user title was claimed in just 6 hours and you must be wondering, "why is there even an article about this?". This is where Zetera, the person who claimed the aforementioned user title comes in. I caught up with him to see what it took to figure out the correct criteria for the medal.
 
+> I'm Zetera from Germany, I'm 24 years old and have been part of osu! for half my life. I am an ex-moderator, on-and-off contest judge, world cup commentator and a huge beatmapping nerd. And, I suppose, also a medal hunter. 
