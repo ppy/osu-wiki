@@ -10,7 +10,7 @@ Los archivos **.osr** contienen una osu! replay. Para usarlo, el beatmap especif
 | Short | 2 | Un valor little endian de 2 bytes. |
 | Integer | 4 | Un valor little endian de 4 bytes. |
 | Long | 8 | Un valor little endian de 8 bytes. |
-| ULEB128 | Varía | Un entero de longitud variable. Ver [ULEB128](http://en.wikipedia.org/wiki/ULEB128) para mas informacion. |
+| ULEB128 | Varía | Un entero de longitud variable. Ver [ULEB128](http://en.wikipedia.org/wiki/ULEB128) para mas información. |
 | String | Varía | Tiene tres partes; un solo byte que será 0x00, que indica que las dos partes siguientes no están presentes, ó 0x0b (11 decimal), que indica que las dos partes siguientes están presentes. Si es 0x0b, habrá un ULEB128, que representa la longitud en bytes de la siguiente cadena, y luego la cadena en sí, codificada en UTF-8. Ver [UTF-8](http://es.wikipedia.org/wiki/UTF-8) para mas informacion. |
 
 ## Formato
@@ -19,22 +19,22 @@ Los archivos **.osr** contienen una osu! replay. Para usarlo, el beatmap especif
 
 | Tipo de dato | Descripcion |
 | :-- | :-- |
-| Byte | Modo de juego que contiene la replay (0 = osu!Standard, 1 = osu!Taiko, 2 = osu!Catch, 3 = osu!mania). |
-| Integer | Version del juego de cuando la replay fue creada (ej. 20131216) |
+| Byte | Modo de juego que contiene la repetición (0 = osu!Standard, 1 = osu!Taiko, 2 = osu!Catch, 3 = osu!mania). |
+| Integer | Version del juego de cuando la repetición fue creada (ej. 20131216) |
 | String | Funcion matematica (hash) [MD5](https://es.wikipedia.org/wiki/MD5) del osu! beatmap. |
 | String | Nombre del jugador. |
-| String | MD5 hash de la osu! replay (contiene ciertas propiedades de la replay). |
+| String | MD5 hash de la osu! replay (contiene ciertas propiedades de la repetición). |
 | Short | Cantidad de los 300. |
 | Short | Cantidad de los 100 en Standard, los 150 en Taiko, los 100 en CTB y los 100 en Mania. |
 | Short | Cantidad de los 50 en Standard, las frutas pequeñas en CTB y los 50 en mania. |
 | Short | Cantidad de Gekis en standard y los Max 300 en mania. |
 | Short | Cantidad de Katus en standard y los 200 en mania. |
-| Short | Cantidad de fallidas. |
+| Short | Cantidad de fallos. |
 | Integer | Puntuacion total mostrada en la pantalla final. |
 | Short | Mejor combo mostrado en la pantalla final. |
-| Byte | Perfect/Full combo (1 = no fallidos, no slider breaks y no sliders terminados prontamente). |
+| Byte | Perfect/Full combo (1 = sin fallos, no slider breaks y no sliders terminados prontamente). |
 | Integer | Mods usados. Ver abajo para una lista de los valores de los mods. |
-| String | Barra de vida: pares u/v separados por comas, donde u es el tiempo en milisegundos en la canción y v es un valor de punto flotante de 0 - 1 que representa la cantidad de vida que tienes en el momento dado (0 = la barra de vida está vacía, 1 = la barra de vida está llena) |
+| String | Barra de vida: pares u/v separados por comas, donde u es el tiempo en milisegundos en la canción y v es un valor de punto float de 0 - 1 que representa la cantidad de vida que tienes en el momento dado (0 = la barra de vida está vacía, 1 = la barra de vida está llena) |
 | Long | Marca de tiempo ([Windows ticks](https://docs.microsoft.com/es-mx/dotnet/api/system.datetime.ticks?redirectedfrom=MSDN&view=net-6.0#System_DateTime_Ticks)) |
 | Integer | Longitud en bytes de datos de reproducción comprimidos |
 | Byte Array | Datos de reproducción comprimidos |
@@ -49,7 +49,7 @@ Los archivos **.osr** contienen una osu! replay. Para usarlo, el beatmap especif
 
 Lo restante contiene informacion sobre el movimiento del mouse y las presiones de tecla en una cadena [LZMA](https://es.wikipedia.org/wiki/LZMA).
 
-Cuando se descomprime, el texto contiene datos separados por comas. Cada pieza denota una accion, representada por 4 numeros en la forma: `w | x | y | z.`
+Cuando se descomprime, el texto contiene datos separados por comas. Cada pieza denota una accion, representada por 4 números en la forma: `w | x | y | z.`
 
 | Parte | Tipo de dato | Descripción |
 | :-- | :-- | :-- |
@@ -58,7 +58,7 @@ Cuando se descomprime, el texto contiene datos separados por comas. Cada pieza d
 | y | Float | Coordenadas **y** del cursor, de 0 a 384 |
 | z | Integer | Combinación bit a bit de teclas/botones del mouse presionados (M1 = 1, M2 = 2, K1 = 4, K2 = 8, Smoke = 16) (K1 siempre se usa con M1; K2 siempre se usa con M2: 1+4=5; 2+8=10) |
 
-En las replays de las versiones `20130319` o posteriores, el [RNG](https://es.wikipedia.org/wiki/Generador_de_n%C3%BAmeros_aleatorios) entero de 32 bits utilizado para la puntuación se codificará en un cuadro de reproducción adicional al final de la transmisión LZMA, bajo el formato `-12345|0|0|seed`.
+En las repetición de las versiones `20130319` o posteriores, el [RNG](https://es.wikipedia.org/wiki/Generador_de_n%C3%BAmeros_aleatorios) entero de 32 bits utilizado para la puntuación se codificará en un cuadro de reproducción adicional al final de la transmisión LZMA, bajo el formato `-12345|0|0|seed`.
 
 ## Mods
 
