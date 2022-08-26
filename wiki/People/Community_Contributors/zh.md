@@ -209,10 +209,10 @@ no_native_review: true
 | ::{ flag=AU }:: [MBmasher](https://osu.ppy.sh/users/4498616) | 对 osu! 表现分（PP）开发和振兴 Flashlight mod的杰出贡献 |
 | ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | 对 osu!wiki 计划的杰出贡献 |
 | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) | 对 osu!wiki 计划的杰出贡献 |
-| ::{ flag=NZ }:: [Technocoder](https://osu.ppy.sh/users/10338558) | 对macOS技术支持的杰出贡献 |
-| ::{ flag=LT }:: [huu](https://osu.ppy.sh/users/6044237) | 对Project loved 管理和组织的杰出贡献 |
+| ::{ flag=NZ }:: [Technocoder](https://osu.ppy.sh/users/10338558) | 对 macOS 技术支持的杰出贡献 |
+| ::{ flag=LT }:: [huu](https://osu.ppy.sh/users/6044237) | 对 Project loved 管理和组织的杰出贡献 |
 | ::{ flag=NL }:: [OliBomby](https://osu.ppy.sh/users/6573093) | 对通过开发实用程序对 osu! 作图领域的杰出贡献 |
 | ::{ flag=TR }:: [frukoyurdakul](https://osu.ppy.sh/users/7612550) | 对通过开发实用程序对 osu!taiko 作图领域的杰出贡献 |
-| ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | 对osu! 锦标赛领域和世界杯的杰出贡献 |
-| ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | 对osu! 锦标赛领域和世界杯的杰出贡献 |
-| ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815) | 对osu! 现实活动和锦标赛领域的杰出贡献 |
+| ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | 对 osu! 锦标赛领域和世界杯的杰出贡献 |
+| ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | 对 osu! 锦标赛领域和世界杯的杰出贡献 |
+| ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815) | 对 osu! 现实活动和锦标赛领域的杰出贡献 |
