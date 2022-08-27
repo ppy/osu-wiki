@@ -14,7 +14,7 @@ tags:
 
 Die **Lebensleiste** (auch bekannt als die *HP-Leiste*) ist ein Balken, der die verbleibende [Gesundheit](/wiki/Gameplay/Health) eines Spielers anzeigt. In allen [Spielmodi](/wiki/Game_mode), außer [osu!mania](/wiki/Game_mode/osu!mania), gibt es einen Indikator, der sich entlang der Lebensleiste bewegt und die aktuellen Lebenspunkte eines Spielers angibt.
 
-In [osu!](/wiki/Game_mode/osu!) und [osu!catch](/wiki/Game_mode/osu!catch) besteht ein Spieler die aktuelle [Beatmap](/wiki/Beatmap), wenn die Lebensleiste komplett leer ist (unter der Annahme, dass keine speziellen Spielmodifikationen aktiviert sind).
+In [osu!](/wiki/Game_mode/osu!) und [osu!catch](/wiki/Game_mode/osu!catch) scheitert ein Spieler an der aktuellen [Beatmap](/wiki/Beatmap), wenn die Lebensleiste komplett leer ist (unter der Annahme, dass keine speziellen Spielmodifikationen aktiviert sind).
 
 In [osu!taiko](/wiki/Game_mode/osu!taiko) ist es unmöglich, eine Beatmap *während* des Spielens nicht zu bestehen, aber es ist möglich zu scheitern, nachdem die Beatmap beendet wurde, sofern der Spieler die Lebensleiste nicht ausreichend gefüllt hat.
 
