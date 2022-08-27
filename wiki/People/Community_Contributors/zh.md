@@ -195,7 +195,7 @@ no_native_review: true
 
 ## 2022
 
-### June
+### 六月
 
 *参见新闻报道：[Community Contributors: 2021](https://osu.ppy.sh/home/news/2022-06-30-community-contributors-2021)*
 
