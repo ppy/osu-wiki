@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: bf0efccf8db8b9dfb5ae645549a64c0623c27052
+---
+
 # Twitter
 
 У osu! есть несколько аккаунтов в Twitter, имеющих разную тематику. Большинство из них редко постят, но помогают оставаться в курсе событий osu!.
