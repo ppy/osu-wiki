@@ -39,7 +39,7 @@ Hier ist `<sampleset>` entweder "normal", "soft" oder "drum" und `<sound>` ist e
 
 ![](img/beatmap-folder-resources.png "Ein typischer Beatmap-Ordner, der eigene Hitsounds enthält")
 
-Im oben gezeigten Bild ist der erste aufgelistete Ton mit `soft-hitclap.wav` benannt. Dieser wird den Standard-Hitsound, der beim Treffen eines [Hit-Objekts](/wiki/Hit_Object) mit dem "Soft"-Sampleset und der "hitclap"-Unterteilung abgespielt wird, ersetzen. Beachte, dass dieser Ton nur im *ausgewählten Sampleset* abgespielt wird. Falls deine Beatmap andere Samplesets verwendet, erfordern diese zusätzliche Hitsound-Dateien (auch dann, wenn du genau das gleiche Tonsample verwendest), zum Beispiel eine `normal-hitclap.wav`, während du das "Normal"-Sampleset verwendest.
+Im oben gezeigten Bild ist der erste aufgelistete Ton mit `soft-hitclap.wav` benannt. Dieser wird den Standard-Hitsound, der beim Treffen eines [Hit-Objekts](/wiki/Hit_Object) mit dem "Soft"-Sampleset und der Unterteilung "hitclap" abgespielt wird, ersetzen. Beachte, dass dieser Ton nur im *ausgewählten Sampleset* abgespielt wird. Falls deine Beatmap andere Samplesets verwendet, erfordern diese zusätzliche Hitsound-Dateien (auch dann, wenn du genau das gleiche Tonsample verwendest), zum Beispiel eine `normal-hitclap.wav`, während du das "Normal"-Sampleset verwendest.
 
 ## Eigene Hitsounds anwenden
 
