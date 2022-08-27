@@ -8,7 +8,7 @@ date: 2022-08-27 10:00:00 +0000
 
 ![](https://assets.ppy.sh/artists/296/header.jpg)
 
-A fresh face to the rhythm game music scene and an even fresher face to osu!, electronic producer **Aiyru** is exactly what you've been waiting for. Taking inspiration from artists like *PSYQUI* and *Current Value*, **Aiyru**'s tracks slot flawlessly into our circle-clicking community.
+A fresh face in the rhythm game music scene and an even fresher face to osu!, we reckon electronic producer **Aiyru** is exactly what you've been waiting for. Taking inspiration from artists like *PSYQUI* and *Current Value*, **Aiyru**'s tracks slot flawlessly into our circle-clicking community.
 
 **8** tunes are now permanently available for mapping from [**Aiyru**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/296)!
 
