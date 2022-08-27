@@ -35,7 +35,7 @@ Hitsound-Dateien geben die beiden Eigenschaften des Samplesets und des Tontyps f
 
 `<sampleset>-<ton>.wav`
 
-Hier ist `<sampleset>` entweder "normal", "soft" oder "drum" und `<sound>` ist eine der oben genannten Unterteilungen (z. B. "hitclap").
+Hier ist `<sampleset>` entweder "normal", "soft" oder "drum" und `<ton>` ist eine der oben genannten Unterteilungen (z. B. "hitclap").
 
 ![](img/beatmap-folder-resources.png "Ein typischer Beatmap-Ordner, der eigene Hitsounds enthält")
 
