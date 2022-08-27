@@ -1,6 +1,6 @@
 # Eigene Hitsounds benutzen
 
-In diesem Tutorial wirst du lernen, wie du eigene [Hitsounds](/wiki/Beatmapping) in deinen [Beatmaps](/wiki/Beatmap) verwendest.
+In diesem Tutorial wirst du lernen, wie du eigene [Hitsounds](/wiki/Beatmapping/Hitsound) in deinen [Beatmaps](/wiki/Beatmap) verwendest.
 
 ## Eigene Hitsounds erhalten
 
@@ -13,21 +13,21 @@ Hitsounds sollten in den Formaten `.wav` oder `.ogg` gespeichert sein, da diese 
 Wenn du deine gewünschten Tondateien gefunden hast, verschiebe sie in den Ordner der Beatmap, in der du sie benutzen willst. Falls du nicht weißt, wo du diesen Ordner findest, folge diesen Anweisungen:
 
 1. Öffne osu!.
-2. Wähle die `Edit`-Option aus.
+2. Wähle die Option `Edit` aus.
 3. Navigiere zu deiner Beatmap und öffne sie.
-4. Klicke auf `Datei` (die Option am linken Ende des Navigations-Menüs).
+4. Klicke auf `Datei` (die Option am linken Ende des Navigationsmenüs).
 5. Klicke auf `Songs-Ordner öffnen`.
 6. Füge deinen Dateien hier ein.
 
 Falls du osu! auf macOS ausführst, musst du vielleicht eine leicht andere Vorgehensweise wählen:
 
-1. Rechtsklicke auf das osu!-Anwendungsicon und wähle `Paketinhalt anzeigen`.
-2. Finde den Ordner deiner Beatmap in `drive_c -> osu! -> Songs`.
+1. Klicke mit der rechten Maustaste auf das osu!-Anwendungsicon und wähle `Paketinhalt anzeigen`.
+2. Finde den Ordner deiner Beatmap in `drive_c -> osu! -> Songs` (Sortierung nach `Zuletzt modifiziert` kann hilfreich sein).
 3. Füge deine Dateien hier ein.
 
 Wenn die Tondateien im Ordner der Beatmap platziert sind, müssen sie angemessen benannt werden, damit osu! sie als Hitsounds erkennt.
 
-In osu! existieren drei Kategorien von Hitsounds, die als *Samplesets* bekannt sind: Normal (N), Soft (S), und Drum (D). Jedes Sampleset kann weiterhin in verschiedene Töne unterteilt werden. Die häufigsten sind: "hitnormal", "hitclap", "hitwhistle" und "hitfinish". Außerdem existieren speziellere Töne, wie die, die während eines Sliders ("sliderslide", slidertick) oder eines Spinners ("spinnerspin") abgespielt werden.
+In osu! existieren drei Kategorien von Hitsounds, die als *Samplesets* bekannt sind: Normal (N), Soft (S) und Drum (D). Jedes Sampleset kann weiterhin in verschiedene Töne unterteilt werden. Die häufigsten sind: "hitnormal", "hitclap", "hitwhistle" und "hitfinish". Außerdem existieren speziellere Töne, wie die, die während eines Sliders ("sliderslide", "slidertick") oder eines Spinners ("spinnerspin") abgespielt werden.
 
 *Für eine vollständige Liste an Hitsounds, die modifiziert werden können, siehe: [Skinning-Eintrag zu Hitsounds](/wiki/Skinning/Sounds#hitsounds)*
 
@@ -39,13 +39,13 @@ Hier ist `<sampleset>` entweder "normal", "soft" oder "drum" und `<sound>` ist e
 
 ![](img/beatmap-folder-resources.png "Ein typischer Beatmap-Ordner, der eigene Hitsounds enthält")
 
-Im oben gezeigten Bild ist der erste aufgelistete Ton mit `soft-hitclap.wav` benannt. Dieser wird den Standard-Hitsound, der beim Treffen eines [Hit-Objekts](/wiki/Hit_Object) mit dem "Soft"-Sampleset und der "hitclap"-Unterteilung abgespielt wird, ersetzen. Beachte, dass dieser Ton nur im *ausgewählten Sampleset*  abgespielt wird. Falls deine Beatmap andere Samplesets verwendet, erfordern diese zusätzliche Hitsound-Dateien (auch dann, wenn du genau das gleiche Tonsample verwendest), zum Beispiel eine `normal-hitclap.wav`, während du das "Normal"-Sampleset verwendest.
+Im oben gezeigten Bild ist der erste aufgelistete Ton mit `soft-hitclap.wav` benannt. Dieser wird den Standard-Hitsound, der beim Treffen eines [Hit-Objekts](/wiki/Hit_Object) mit dem "Soft"-Sampleset und der "hitclap"-Unterteilung abgespielt wird, ersetzen. Beachte, dass dieser Ton nur im *ausgewählten Sampleset* abgespielt wird. Falls deine Beatmap andere Samplesets verwendet, erfordern diese zusätzliche Hitsound-Dateien (auch dann, wenn du genau das gleiche Tonsample verwendest), zum Beispiel eine `normal-hitclap.wav`, während du das "Normal"-Sampleset verwendest.
 
 ## Eigene Hitsounds anwenden
 
 ![](img/adding-custom-hitsounds.png "osu! anweisen, wie eigene Hitsounds zu verwenden sind")
 
-Damit osu! deine eigenen Hitsounds korrekt abspielt, stelle sicher dass du die zweite Option, "Custom 1", wie im oberen Bild gezeigt ausgewählt hast. Standardmäßig werden eigene Samplesets als `<SS>:C1` abgekürzt, wobei `<SS>` der erste Buchstabe der Sampleset-Gruppe ist. Also entweder N (Normal), S (Soft), oder D (Drum).
+Damit osu! deine eigenen Hitsounds korrekt abspielt, stelle sicher dass du die zweite Option, "Custom 1", wie im oberen Bild gezeigt ausgewählt hast. Standardmäßig werden eigene Samplesets als `<SS>:C1` abgekürzt, wobei `<SS>` der erste Buchstabe der Sampleset-Gruppe ist. Also entweder N (Normal), S (Soft) oder D (Drum).
 
 Beachte, dass du  nicht jeden Ton im Sampleset mit einem eigenen Ton ersetzen musst. Im ersten Bild wird dir auffallen, dass keine Datei namens `soft-slidertick.wav` vorhanden ist. In diesem Fall wird osu den Standardton für alle regulären Slidertick-Treffer verwenden, wenn das "Soft"-Sampleset verwendet wird.
 
@@ -61,7 +61,7 @@ Um sicherzustellen, dass die verschieden bezifferten Hitsounds oder Hitsound-Gru
 
 ![](img/using-multiple-hitsound-sets.png "Zu einer zweiten eigenen Hitsound-Gruppe wechseln")
 
-Wenn das Sampleset eines geerbten Timing-Points wie oben gezeigt auf `S:C2` gesetzt ist, werden die Standard-Hitsounds und Hitsound-Unterteilungen mit den entsprechend benannten eigenen Hitsounds ersetzt, z. B. `soft-hitclap2.wav`, falls diese vorhanden sind. Diese werden solange verwendet werden, bis ein vererbter Timing-Point mit einem anderen Sampleset erreicht wird - in diesem Bild `02:00:723`, wo das Sampleset wieder auf `S:C1` gewechselt wird.
+Wenn das Sampleset eines geerbten Timing-Points wie oben gezeigt auf `S:C2` gesetzt ist, werden die Standard-Hitsounds und Hitsound-Unterteilungen mit den entsprechend benannten eigenen Hitsounds ersetzt, z. B. `soft-hitclap2.wav`, falls diese vorhanden sind. Diese werden solange verwendet werden, bis ein vererbter Timing-Point mit einem anderen Sampleset erreicht wird — in diesem Bild `02:00:723`, wo das Sampleset wieder auf `S:C1` gewechselt wird.
 
 ## Externe Quellen
 
