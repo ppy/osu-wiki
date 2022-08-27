@@ -187,7 +187,7 @@ The `[profile]` tag is used to link to a user's osu! profile page by using their
 
 *Note: The user ID is a string of numbers that directly follow the `/users/` in the URL of an osu! profile page.*
 
-If specified through their user ID, the text between the open and closed tags will not be parsed and will instead display as the user's current username. In case there is no text between the open and closed tags specified, the link to the user profile is not generated correctly. However, if the profile page is specified only through a username, and said user changes their username, the link will cease to function.
+If specified through their user ID, the text between the open and closed tags will not be parsed and will instead display as the user's current username. In case there is no text between the open and closed tags specified, the link to the user profile will not be generated correctly. However, if the profile page is specified only through a username, and said user changes their username, the link will cease to function.
 
 ### Formatted lists
 
@@ -215,7 +215,7 @@ Toolbar buttons: ![List button](img/list.png "List") ![Numbered list button](img
 
 The `[email]` tag creates a clickable hyperlink, which opens a new email in the default mail program with the address field pre-populated.
 
-In order to create a link, two arguments need to be specified: the `ADDRESS` argument needs to be a valid email address, while `text` is the displayed text when clicking on the link. If the `text` argument is not defined, the hyperlink will not be created correctly.
+In order to create a link, two arguments need to be specified: the `ADDRESS` argument needs to be a valid email address, while `text` is the displayed text that serves as a hyperlink. If the `text` argument is not defined, the hyperlink will not be created correctly.
 
 ### Images
 
