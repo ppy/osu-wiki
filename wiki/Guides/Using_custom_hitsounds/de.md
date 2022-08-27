@@ -6,7 +6,7 @@ In diesem Tutorial wirst du lernen, wie du eigene [Hitsounds](/wiki/Beatmapping/
 
 Um in deinen Beatmaps eigene Hitsounds zu verwenden, musst du erst einmal welche haben! Die [Bibliothek für selbst erstellte Hitsounds](/wiki/Guides/Custom_Hitsound_Library) ist eine großartige Ressource, um Ton-Samples wie Becken, Trommeln, Glocken, Pfeifen und mehr zu finden. Alternativ kannst du, falls du nicht das findest, was du suchst, auch deine eigenen Samples erstellen!
 
-Hitsounds sollten in den Formaten `.wav` oder `.ogg` gespeichert sein, da diese keine Wiedervergabeverzögerung haben und sich korrekt wiederholen. Tondateien im Format `.mp3` haben eine leichte Verzögerung und stimmen nicht immer genau mit dem Song, den du bearbeitest, überein. Allerdings können sie für bestimmte Effekte wie Applaus oder Umgebungsgeräusche, bei denen die Formate `.wav` oder `.ogg` untragbar gross sein können, verwendbar sein.
+Hitsounds sollten in den Formaten `.wav` oder `.ogg` gespeichert sein, da diese keine Wiedervergabeverzögerung haben und sich korrekt wiederholen. Tondateien im Format `.mp3` haben eine leichte Verzögerung und stimmen nicht immer genau mit dem Song, den du bearbeitest, überein. Allerdings können sie für bestimmte Effekte wie Applaus oder Umgebungsgeräusche verwendet werden, bei denen die Formate `.wav` oder `.ogg` untragbar gross sein können.
 
 ## Eigene Hitsounds hinzufügen
 
@@ -39,7 +39,7 @@ Hier ist `<sampleset>` entweder "normal", "soft" oder "drum" und `<ton>` ist ein
 
 ![](img/beatmap-folder-resources.png "Ein typischer Beatmap-Ordner, der eigene Hitsounds enthält")
 
-Im oben gezeigten Bild ist der erste aufgelistete Ton mit `soft-hitclap.wav` benannt. Dieser wird den Standard-Hitsound, der beim Treffen eines [Hit-Objekts](/wiki/Hit_Object) mit dem "Soft"-Sampleset und der Unterteilung "hitclap" abgespielt wird, ersetzen. Beachte, dass dieser Ton nur im *ausgewählten Sampleset* abgespielt wird. Falls deine Beatmap andere Samplesets verwendet, erfordern diese zusätzliche Hitsound-Dateien (auch dann, wenn du genau das gleiche Tonsample verwendest), zum Beispiel eine `normal-hitclap.wav`, während du das "Normal"-Sampleset verwendest.
+Im oben gezeigten Bild ist der erste aufgelistete Ton mit `soft-hitclap.wav` benannt. Dieser wird den Standard-Hitsound, der beim Treffen eines [Hit-Objekts](/wiki/Hit_Object) mit dem Sampleset "Soft" und der Unterteilung "hitclap" abgespielt wird, ersetzen. Beachte, dass dieser Ton nur im *ausgewählten Sampleset* abgespielt wird. Falls deine Beatmap andere Samplesets verwendet, erfordern diese zusätzliche Hitsound-Dateien (auch dann, wenn du genau das gleiche Tonsample verwendest), zum Beispiel eine `normal-hitclap.wav`, während du das Sampleset "Normal" verwendest.
 
 ## Eigene Hitsounds anwenden
 
@@ -47,7 +47,7 @@ Im oben gezeigten Bild ist der erste aufgelistete Ton mit `soft-hitclap.wav` ben
 
 Damit osu! deine eigenen Hitsounds korrekt abspielt, stelle sicher dass du die zweite Option, "Custom 1", wie im oberen Bild gezeigt ausgewählt hast. Standardmäßig werden eigene Samplesets als `<SS>:C1` abgekürzt, wobei `<SS>` der erste Buchstabe der Sampleset-Gruppe ist. Also entweder N (Normal), S (Soft) oder D (Drum).
 
-Beachte, dass du  nicht jeden Ton im Sampleset mit einem eigenen Ton ersetzen musst. Im ersten Bild wird dir auffallen, dass keine Datei namens `soft-slidertick.wav` vorhanden ist. In diesem Fall wird osu den Standardton für alle regulären Slidertick-Treffer verwenden, wenn das "Soft"-Sampleset verwendet wird.
+Beachte, dass du  nicht jeden Ton im Sampleset mit einem eigenen Ton ersetzen musst. Im ersten Bild wird dir auffallen, dass keine Datei namens `soft-slidertick.wav` vorhanden ist. In diesem Fall wird osu den Standardton für alle regulären Slidertick-Treffer verwenden, wenn das Sampleset "Soft" verwendet wird.
 
 ## Mit mehreren eigenen Hitsound-Sets arbeiten
 
