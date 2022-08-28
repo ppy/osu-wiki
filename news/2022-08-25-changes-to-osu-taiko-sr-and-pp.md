@@ -8,7 +8,7 @@ It's no secret that osu!taiko star rating is overdue for a rework. Thanks to you
 
 ![](/wiki/shared/news/2022-08-25-changes-to-osu-taiko-star-rating-part-1/star-rating.jpg)
 
-This effort was led by the newly formed [osu!taiko pp committee] (https://osu.ppy.sh/wiki/en/People/Performance_Points_Committee), in response to the results of the [osu!taiko SR and PP community survey](https://osu.ppy.sh/home/news/2022-02-07-taiko-mania-survey-results) held earlier this year. We are responsible for reviewing all changes regarding star rating or performance points in the osu!taiko game mode.
+This effort was led by the newly formed [osu!taiko pp committee](/wiki/People/Performance_Points_Committee), in response to the results of the [osu!taiko SR and PP community survey](https://osu.ppy.sh/home/news/2022-02-07-taiko-mania-survey-results) held earlier this year. We are responsible for reviewing all changes regarding star rating or performance points in the osu!taiko game mode.
 
 ## Roadmap for the future
 
@@ -23,7 +23,7 @@ Moving forward, osu!taiko star rating will be in a constant state of flux, parti
 ## Release schedule
 
 - ☑ a bunch of checkboxes.
-  
+
 ## Summary of changes
 
 ### Stamina
