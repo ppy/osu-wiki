@@ -14,7 +14,7 @@ This effort was led by the newly formed [osu!taiko pp committee](/wiki/People/Pe
 
 For the full detailed roadmap, please click [here](https://docs.google.com/document/d/1Z5GC4DMqOVzeIERMSK3qpQaqjq-sVnhbuoxAwy9qxDs/edit#). This is a working document, and will periodically be updated with the latest developments.
 
-Difficulty in osu!taiko has historically been determined by 3 main components — *rhythm*, *colour*, and *stamina*. Previous efforts have aimed to tackle all three at once, which has made it difficult to collect meaningful and targetted feedback. As such, we have opted for a modular approach, tackling new changes and reported issues one stage at a time, in order to develop more accurate solutions.
+Difficulty in osu!taiko has historically been determined by 3 main components, called *skills* — *rhythm*, *colour*, and *stamina*. Previous efforts have aimed to tackle all three at once, which has made it difficult to collect meaningful and targetted feedback. As such, we have opted for a modular approach, tackling new changes and reported issues one stage at a time, in order to develop more accurate solutions.
 
 In this osu!taiko star rating rework, we have re-evaluated the stamina and colour components of difficulty, with the capacity for changes following community feedback. In addition, the performance points system has been adjusted to bring it closer in line with community expectations. During this time, we have been and will continue to work on other difficulty components (both small- and large-scale) in preparation for future releases.
 
@@ -26,7 +26,7 @@ Moving forward, osu!taiko star rating will be in a constant state of flux, parti
 
 ## Summary of changes
 
-
+These changes to the stamina and colour skills affect difficulty calculation, which results in a different star rating, which in turn results in a different amount of performance points awarded.
 
 ### Stamina
 
