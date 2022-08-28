@@ -66,7 +66,7 @@ The following changes should result in impressive scores on harder beatmaps rewa
 
 The following changes should result in high-accuracy scores on harder beatmaps rewarding more pp.
 
-- The impact of Great judgements (300s) on accuracy pp has been reduced significantly. This makes pp less dependent on the OD value of a map.
+- The impact of the size of the Great (300) hit window on accuracy pp has been reduced significantly. This makes pp less dependent on the OD value of a map.
 - Star rating now affects accuracy pp, which replaces most of the scaling from Great judgements. This nerfs the accuracy weighting on low-SR scores and buffs high-SR scores and thus significantly limits abuse of low-SR 3-mod/4-mod scores.
 - All non-rate-changing mods have received a buff to accuracy pp (since DT gave too much pp in comparison to other mods).
 
