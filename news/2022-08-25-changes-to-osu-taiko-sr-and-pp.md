@@ -26,6 +26,8 @@ Moving forward, osu!taiko star rating will be in a constant state of flux, parti
 
 ## Summary of changes
 
+
+
 ### Stamina
 
 The old stamina system assumed a two-finger KDDK full-alt playstyle, with each hand being calculated separately, while the new stamina system calculates the theoretical minimum stamina required for any pattern — the assumption is that notes of a particular colour are always alternated.
@@ -34,11 +36,11 @@ This does not accurately represent any single playstyle, but is desirable becaus
 
 ### Colour
 
-The old colour system detected the frequency of colour changes and had penalties for specific repeated patterns, while the new colour system evaluates all patterns using a compression algorithm, and adds those patterns to a dictionary.
+The old colour system detected the frequency of colour changes and had penalties for specific repeated patterns, while the new colour system encodes all patterns using a compression algorithm that describes them using as little information as possible.
 
-The idea is that the more information that is needed to describe a pattern, the harder it is. Therefore, maps with a large variety of patterns (large pattern dictionary in the code) will be evaluated as being harder.
+The idea is that the more information that is needed to describe a pattern, the harder it is. Therefore, maps with a large variety of patterns will be evaluated as being harder.
 
-This dictionary also has a "memory" of the patterns used. If a known pattern reappears later in the map, its difficulty will scale according to how long ago it last appeared in the map, which means repeated patterns close together are nerfed.
+Furthermore, if the same pattern reappears multiple times in a map, its difficulty will scale according to how long ago it last appeared in the map, which means repeated patterns close together are nerfed.
 
 ### PP rework
 
@@ -46,13 +48,13 @@ In recent years, osu!taiko has lagged behind the other three game modes in terms
 
 #### Global changes
 
-The final step of performance points calculation involves applying a simple multiplier to the calculated value, which allows for balance changes between different types of scores. The following global multipliers have been adjusted:
+The final step of performance points calculation involves applying a simple multiplier to the calculated value, which allows for balance changes between different types of scores. The following multipliers have been adjusted:
 
-- The global multiplier has been increased by **1.13x**, affecting all scores.
-- The HD global multiplier has been further increased by **1.05x**, to increase the gap between EZHD- and HD-only scores
-- An EZ global multiplier of **0.975x** has been added, to increase the gap between EZ and NM scores
+- The global pp multiplier has been increased by **1.13x**, affecting all scores.
+- The HD multiplier has been further increased by **1.05x**, to increase the gap between EZHD- and HD-only scores.
+- An EZ multiplier of **0.975x** has been added, to increase the gap between EZ and NM scores.
 
-In addition, an *effective miss count* has been introduced — this is calculated as `misses * 1000 / successful hits`, which increases the penalty of misses on maps below 1000 max combo and vice versa.
+In addition, misses now affect difficulty pp more on maps with max combo below 1000 and vice versa. This is done by scaling the miss count with a multiplier of `1000 / successful hits`.
 
 #### Difficulty
 
@@ -67,7 +69,7 @@ The following changes should result in impressive scores on harder beatmaps rewa
 The following changes should result in high-accuracy scores on harder beatmaps rewarding more pp.
 
 - The impact of the size of the Great (300) hit window on accuracy pp has been reduced significantly. This makes pp less dependent on the OD value of a map.
-- Star rating now affects accuracy pp, which replaces most of the scaling from Great judgements. This nerfs the accuracy weighting on low-SR scores and buffs high-SR scores and thus significantly limits abuse of low-SR 3-mod/4-mod scores.
+- Star rating now affects accuracy pp, which replaces most of the scaling from Great hit windows. This nerfs the accuracy weighting on low-SR scores and buffs high-SR scores and thus significantly limits abuse of low-SR 3-mod/4-mod scores.
 - All non-rate-changing mods have received a buff to accuracy pp (since DT gave too much pp in comparison to other mods).
 
 ## Next steps
