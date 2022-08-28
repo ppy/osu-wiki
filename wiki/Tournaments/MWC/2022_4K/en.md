@@ -250,6 +250,8 @@ The osu!mania 4K World Cup 2022 is run by the [osu! team](/wiki/People/The_Team)
 
 ### Quarterfinals
 
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/13k3EtGT2sGlgg6UekWuycq86tF0KGvapvEXayPgp138).
+
 Saturday, 27 August 2022:
 
 | Team A |  |  | Team B | Match link |
