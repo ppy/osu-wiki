@@ -262,7 +262,7 @@ Los círculos de visita no tienen `objectParams` adicionales.
 - **`slides` (Integer):** Cantidad de veces que el jugador tiene que seguir la curva del Slider de un lado a otro antes de que se complete el Slider. También se puede interpretar como el recuento de repeticiones más uno.
 - **`lenght` (Decimal):** Longitud visual en [osu! pixels](/wiki/Client/Beatmap_editor/osu!_pixel) del Slider.
 - **`edgeSounds` (Lista de enteros separados):** Hitsounds que se reproducen al golpear los bordes de la curva del Slider. El primer sonido es el que se reproduce cuando se hace clic en el Slider por primera vez, y el último sonido es el que se reproduce cuando se golpea el extremo del Slider.
-- **`edgeSets` (Lista de cadenas separadas):** Conjuntos de muestra utilizados para `edgeSounds`. Cada conjunto tiene el formato `normalSet:additionSet`, con el mismo significado que en [la sección hitsounds](#hitsounds).
+- **`edgeSets` (Lista de cadenas separadas):** Conjuntos de muestra utilizados para `edgeSounds`. Cada conjunto tiene el formato `normalSet:additionSet`, con el mismo significado que en la sección hitsounds
 
 #### Sliders curvas
 
