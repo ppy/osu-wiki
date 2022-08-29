@@ -4,130 +4,161 @@ title: "osu!monthly, August 2022"
 date: 2022-09-01 10:00:00 +0000
 ---
 
+Check out a brief overview of what went down in the osu! community for August with the second issue of the osu!monthly!
+
 ![](/wiki/shared/news/2022-09-01-osumonthly-2/monthlybanner.jpg)
 
-## Starting word
+For those not caught up to speed on what the osu!monthly is, osu!monthly is a reimagining of the hit-sensation osu!weekly, but in a bigger (and dare we say, better) format. Make sure to check out [last month's issue](https://osu.ppy.sh/home/news/2022-08-01-osumonthly-1) if ou haven't already!
 
-As this is the second rendition of the awakened project we are still trying to find a groove and get a sense of what the community likes most and dislikes the least. If you'd like to contribute to any ideas, content, article writing, or anything else that we can feature, please don't be shy and let us know via the [discussion thread on the forums](https://osu.ppy.sh/community/forums/topics/1614314) or get involved in the osu!monthly process over on the [osu!dev Discord](https://discord.com/invite/ppy).
-For those not caught up to speed on what osu!monthly is, osu!monthly is a reimagining of the hit-sensation osu!weekly, but in a bigger, and dare we say, the better format where, as the name implies: it is once a month, every month.
-If you happened to miss out on last month's article then please check it out [here](https://osu.ppy.sh/home/news/2022-08-01-osumonthly-1)! For those who were waiting ever so patiently for the next rendition, your patience is well received, but wait no longer! It! Is! Here!
+As this is the second rendition of the recently reawakened project, we are still trying to find a groove and get a sense of what the community likes most and dislikes the least. If you'd like to contribute to any ideas, content, article writing, or anything else that we can feature, please don't be shy and let us know via the [discussion thread on the forums](https://osu.ppy.sh/community/forums/topics/1614314) or get involved in the osu!monthly process over on the [osu!dev Discord](https://discord.com/invite/ppy).
+
+With all that out of the way, let's get straight into things!
 
 ## Table of Contents
 
-- [What's new in osu!(lazer)](#what's-new-in-osu!(lazer))
+- [What's New In osu!(lazer)](#what's-new-in-osu!(lazer))
 - [Community Recap](#community-recap)
-- [Did you know?](#did-you-know)
-- [Monthly community quiz](#monthly-community-quiz)
+- [Did You Know?](#did-you-know)
+- [Monthly Community Quiz](#monthly-community-quiz)
 - [Upcoming](#things-to-look-out-for-in-september)
-- [End word](#end-word)
+- [End Word](#end-word)
 
-## What's new in osu!(lazer)
+## What's New In osu!(lazer)
 
-As per usual lazer has been having weekly updates pushed to it, with full coverage provided on the official osu! [YouTube channel](https://www.youtube.com/c/osugame). One of the updates include changes to the slider animations for osu!, which will now match the stable version of the game and hopefully remove the "weird feeling" players have reported when playing lazer. Furthermore, more features and fixes have been added into the editor, which will make mappers' lives easier as [Olibomby](https://osu.ppy.sh/users/6573093) is implementing the features from [Mapping Tools](https://osu.ppy.sh/community/forums/topics/940368?n=1) into lazer!
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/RxRwqXmMxd4?list=PLmWVQsxi34bMTmgpDArfxJ32Q0mBLhcE-" frameborder="0" allowfullscreen></iframe>
 
-Last, but not least, the global bindings have been reorganized for easier navigation and a lot of optimization work was done for lazer in order to provide the best osu! experience on a wider range of systems.
 
-If you missed it, a post covering the work that went into the sound design of osu!(lazer) was [released on the osu! website](https://osu.ppy.sh/home/news/2022-08-31-the-sound-design-of-lazer)!
-The post goes in-depth about the design process of sound effects for lazer and includes snippets of an interview with [nekodex](https://osu.ppy.sh/users/102), the mastermind behind it all!
+The weekly updates for osu!(lazer) continue, most notably featuring a change to the osu! slider animations, which should now more closely match the stable version of the game and hopefully minimize the "weird feeling" players have reported when playing the latest version of the game. 
 
-Boo, it's another lazer feature showcase!
-Some people say humans can only see up to 60 hz, well now you can test that yourself with the brand new latency certifier! Test your skills and see up to what refresh rate you can spot the difference by opening the settings and pressing on "Run latency certifier" (`General` > `Debug` > `Run latency certifier`). Feel free to let us know how far you got below, or if you are lazy you can just watch [Willy](https://osu.ppy.sh/users/3521482), an osu! content creator perform the test themselves!
+Furthermore, a bunch of new features and fixes have been added into the editor, which will make mappers' lives easier as [OliBomby](https://osu.ppy.sh/users/6573093) continues to implement the features from his ever-popular [Mapping Tools](https://osu.ppy.sh/community/forums/topics/940368?n=1) utility directly into osu!(lazer) proper.
+
+Last but not least, global bindings have been reorganized for easier navigation and a lot of behind-the-scenes optimization should hopefully help improve the osu! experience on a wider range of systems.
+
+If you missed it, [0x84f](https://osu.ppy.sh/users/7944724) released a write-up covering the work that went into [the sound design of osu!(lazer)](https://osu.ppy.sh/home/news/2022-08-31-the-sound-design-of-lazer) earlier in the month. The post goes in-depth about the design process of sound effects for osu!(lazer_ and includes snippets of an interview with [nekodex](https://osu.ppy.sh/users/102), the osu!musician-cross-developer behind it all!
+
+Some people say humans can only see refresh rates up to 60hz, and now you can test this yourself with the all-new latency certifier!
+
+Test your perception, reaction time and hardware altogether to help figure out what refresh rate is best for you by opening the settings on osu!(lazer) and clicking on "Run latency certifier" (`General` > `Debug` > `Run latency certifier`). Feel free to share your results in the comments, or if you're lazy, you can just watch osu! content creator [Willy](https://osu.ppy.sh/users/3521482) perform the test themselves below:
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/g6wKMiCwSC8" frameborder="0" allowfullscreen></iframe>
 
-If you are interested in all previous and future patch notes, you can find them here (or just click on `Home` > `Changelog` on the top-left corner of the site), or if you just want to listen to [pishifat](https://osu.ppy.sh/users/3178418)'s soothing voice speaking about lazer, you can now do that from the new [osu!(lazer) updates playlist](https://www.youtube.com/playlist?list=PLmWVQsxi34bMTmgpDArfxJ32Q0mBLhcE-).
+If you are interested in all previous and future patch notes, you can find them [here](https://osu.ppy.sh/home/changelog), or if you just want to listen to [pishifat](https://osu.ppy.sh/users/3178418)'s soothing voice speaking about osu!(lazer), check out the playlist for the update video linked at the start of this section.
 
 ## Community Recap
 
+### COE 2022
+
 ![](/wiki/shared/news/2022-09-01-osumonthly-2/coebanner.jpg)
 
-cavoe's osu! event (or COE for short) is an annual osu! convention that perfectly embodies the spirit of osu!. It is a joyous celebration for our beloved community, run by that very same community. Conceived from humble beginnings in 2017 by none other than [cavoeboy](https://osu.ppy.sh/users/7361815) himself, it has since grown and expanded to become the international phenomenon that we know and love today.
+cavoe's osu! event (or COE for short) is an annual osu! convention that perfectly embodies the spirit of osu!. It is a joyous celebration for our beloved community and run by that very same community. Conceived from humble beginnings in 2017 by none other than [cavoeboy](https://osu.ppy.sh/users/7361815) himself, it has since grown and expanded to become the international phenomenon that we know and love today.
 
-COE 2022 took place at the Brabanthallen from Aug 1st - 7th, organised by [Meyer](https://osu.ppy.sh/users/5452367), cavoeboy and their incredible team of volunteer staff. Despite its return following a two year hiatus, COE 2022 saw a record-breaking 750+ attendees, attracting users from almost every continent (we'll get you next time, Antarctica). The passage of time did not go unnoticed, and a common sentiment from returning attendees was how much they "missed being here again".
+COE 2022 took place at the Brabanthallen from Aug 1st - 7th, organised by [Meyer](https://osu.ppy.sh/users/5452367), cavoeboy and their incredible team of volunteer staff. Despite its return following a two year hiatus, COE 2022 saw a record-breaking 750+ attendees, attracting users from almost every continent (we'll get you next time, Antarctica). The lengthy pandemic-enforced delay between COE 2022 and the last most certainly did not go unnoticed, a common sentiment from returning attendees was how much they "missed being here again".
 
-Featuring over 30 hours of live stage events, COE 2022 was certainly ambitious in both range and scale. The immensely popular COE 1v1 tournament made its return, with [okinamo](https://osu.ppy.sh/users/3765989) being crowned the champion. In addition, COE 2022 continued to feature a large variety of Q&A panels, including a hugely technical dev talk hosted by [ThePooN](https://osu.ppy.sh/users/718454) and [peppy](https://osu.ppy.sh/users/2). Group activities such as Efteling and all-you-can-eat sushi were returning favourites, alongside newer entries such as Survivor and [Sotarks](https://osu.ppy.sh/users/4452992)' Blind Music Quiz.
+Featuring over 30 hours of live stage events, COE 2022 was certainly ambitious in both range and scale. The immensely popular COE 1v1 tournament made its return, with [okinamo](https://osu.ppy.sh/users/3765989) being crowned the champion. In addition, COE 2022 continued to feature a large variety of Q&A panels, including [a hugely technical dev talk](https://www.youtube.com/watch?v=HVBVqvpFVL4) hosted by [ThePooN](https://osu.ppy.sh/users/718454) and [peppy](https://osu.ppy.sh/users/2). Group activities such as Efteling and all-you-can-eat sushi were returning favourites, alongside newer entries such as Survivor and [Sotarks](https://osu.ppy.sh/users/4452992)' Blind Music Quiz.
 
-Of course, COE 2022 would not be complete without the collaborations of its supporting Partners. Make Some Noise's (MSN) home arcade setup and [wooz](https://osu.ppy.sh/users/6888206)'s arcade (WoozPC) added an impressive catalogue of music rhythm games available to experience at the venue. [Senzeeh](https://osu.ppy.sh/users/2489813)'s Yuki Aim also made an appearance, offering players a chance to win unique merchandise by completing difficult aim-based challenges. 
-
-For a more grounded coverage of this exciting week, experience the event through BTMC's video <pending>
+Of course, COE 2022 would not be complete without the collaborations of its supporting partners. Make Some Noise's (MSN) home arcade setup and [wooz](https://osu.ppy.sh/users/6888206)'s arcade (WoozPC) added an impressive catalogue of music rhythm games available to experience at the venue. [Senzeeh](https://osu.ppy.sh/users/2489813)'s Yuki Aim also made an appearance, offering players a chance to win unique merchandise by completing difficult aim-based challenges. 
 
 A huge thank you to Meyer for taking charge of organisation this year, alongside all other contributors that helped make this event a success.
 
-### Don't try this at home. Seriously.
+### Don't Try This At Home. Seriously.
 
-You may have heard of a particular osu! content creator by the name of [pishifat](https://osu.ppy.sh/users/3178418) and their long-awaited resurrection on their youtube. Well, if you attended COE you were a part of the next video that was in the making for a long while. They made a video, yadda, yadda, thats not the point, the point is: ***NEVER MULTIACCOUNT, LOSERS***
+You may have heard of a particular osu! content creator by the name of [pishifat](https://osu.ppy.sh/users/3178418) and their long-awaited resurrection on their YouTube. Those attending COE 2022 got to witness a video that was in the making for a long while: several years, in fact, as he delved into a *secret operation* to experience just how rough new mappers have it in trying to get their maps ranked.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WVQDQWcfTGI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/WVQDQWcfTGI" frameborder="0" allowfullscreen></iframe>
+
+As stated in the video, ***DON'T MULTIACCOUNT, LOSERS***. Mr. Fat had permission to engage in nefarious subterfuge, and you probably don't. This discussion has revived rumblings in the community about the concept of "mapper pseudonyms", a long-desired feature which would allow mappers to upload their creations under a chosen anonymous name. Could this be something that makes it into osu! in the future? Only time will tell!
+
+### 15th Anniversary Art Contest
 
 ![](https://assets.ppy.sh/contests/153/header.jpg?1)
 
-osu!'s 15 year anniversary is coming up, and what better way to celebrate than with an [art contest](https://osu.ppy.sh/home/news/2022-08-15-15-anniversary-art-contest)! Similar to a previously held [A Place to Belong](https://osu.ppy.sh/community/contests/142) contest in Spring of 2022, but with a unique twist: Draw at least one of the official osu! mascots *(or community mascots)* exploring any part of osu!'s history!
+osu!'s 15 year anniversary is coming up, and what better way to celebrate than with an [art contest](https://osu.ppy.sh/home/news/2022-08-15-15-anniversary-art-contest)! Similar to the previously held [A Place to Belong](https://osu.ppy.sh/community/contests/142) contest in Spring of 2022, this art contest features a unique thematic twist: artists have to draw at least one of the official osu! mascots *(or community mascots)* exploring any part of osu!'s history!
 
 By the time this monthly is released submissions will have been closed but we should see the votes coming in very soon, so be sure to cast your votes as a selection of the top voted entries will be featured within osu! (and get 3 months of supporter), and the top 3 will receive profile badges that are made using their own submission!
 
+### Crazy Community Collaboration
+
 ![](/wiki/shared/news/2022-09-01-osumonthly-2/collabbanner.jpg)
 
-You might have already seen people with similar profile pictures and banners, as it is quite common within the osu! community to have collabs between players, but have you ever seen a collab with more than a thousand participants? This is the crazy goal that [XegC](https://osu.ppy.sh/users/8143504) and his team have given to themselves, now entering their 7th edition since the inception of the [Endless Mirage Megacollab](https://osu.ppy.sh/community/forums/topics/1619690?n=1)! Last time they managed to gather [3370 players](https://www.reddit.com/r/osugame/comments/qgig4i/our_6th_avatar_megacollab_is_done_with_3370_users/), and they are aiming even higher this time.
+You might have already seen people with similar profile pictures and banners, as it is quite common within the osu! community to have avatar collaborations (or collabs for short) between players, but have you ever seen a collab with more than a thousand participants? This is the crazy goal that [XegC](https://osu.ppy.sh/users/8143504) and his team have given to themselves, now entering their 7th edition since the inception of the [Endless Mirage Megacollab](https://osu.ppy.sh/community/forums/topics/1619690?n=1)! Last time they managed to gather [3370 players](https://www.reddit.com/r/osugame/comments/qgig4i/our_6th_avatar_megacollab_is_done_with_3370_users/), and they are aiming even higher this time.
 
-Entries have unfortunately closed on the 30th, but if you are interested in participating in the next edition feel free to join the [Endless Mirage Discord](https://discord.gg/XXtZCZw4M6) and grab yourself a free profile picture, forum & userpage banners!
+Entries have unfortunately closed on the 30th, but if you are interested in participating in the next edition feel free to join the [Endless Mirage Discord](https://discord.gg/XXtZCZw4M6) and grab yourself a set of free profile picture, forum and userpage banners!
 
-## Stamina for days
+## Stamina For Days
 
-It isn't every day, well... month, that osu! gets to bear witness such a unique skillset that [Kalanluu](https://osu.ppy.sh/users/2035254) posses, let alone allows for plays such as [Renard's Because Maybe! pt. 3](https://osu.ppy.sh/beatmapsets/979274#osu/2049467), to be showcased in such fashion. Not only is the map a marathon of no easy measure, but Kanaluu decided to takeup the challenge of not only making it longer with adding halftime, but simultaneously making it harder to read and see by adding flashlight and easy to the modifiers. Make sure to get comfortable, grab a drink, maybe a snack or two, Kalanluu puts on a tremendous display of talent and hard-fought skill in this long and grueling 23-minute play.
+It isn't every day, well... month, that osu! gets to bear witness such a unique skillset that [Kalanluu](https://osu.ppy.sh/users/2035254) possesses, let alone one that permits plays such as this spectacle of [Renard's Because Maybe! pt. 3](https://osu.ppy.sh/beatmapsets/979274#osu/2049467).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ey6xzo4vPgc" title="Kalanluu - Because Maybe Pt. 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Not only is the map a marathon of no easy measure, but Kalanluu also decided to crank up the challenge of not only making it longer with adding HalfTime, but simultaneously making it harder to read and outright see by adding Easy and Flashlight to the mix respectively. Make sure to get comfortable, grab a drink, maybe a snack or two as Kalanluu puts on a tremendous display of talent and hard-fought skill in this long and gruelling 23-minute play:
 
-## Did you see that? No?
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/ey6xzo4vPgc" frameborder="0" allowfullscreen></iframe>
 
-As is the classic meme of taiko top performance, a 4-mod insane play that baffles anyone that stumbles upon such a feat. [Grape_Tea](https://osu.ppy.sh/users/9540073) does not disappoint with a mind-blowing, complete memorization 4-mod play on [Sparxe's Comma, ~ Imi to Kouzou no Bunri](https://osu.ppy.sh/beatmapsets/1785711#taiko/3658314), which not only impressive in-of-itself, but also sets the new performance points record for taiko. If you like magically seeing someone completely full combo a hidden, hard rock, double time, and flashlight map with the colours seamlessly bouncing out of the judgement circle, this play is definitely for you!
+## Did You See That? No?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Cz_D6yjuUE" title="Grape_Tea - Comma, ~ Imi to Kouzou no Bunri" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+As is the classic meme of osu!taiko top performance, this 4-mod insane play baffles anyone that stumbles upon such a feat. 
+
+[Grape_Tea](https://osu.ppy.sh/users/9540073) does not disappoint with a mind-blowing, complete memorization 4-mod play on [Sparxe's Comma, ~ Imi to Kouzou no Bunri](https://osu.ppy.sh/beatmapsets/1785711#taiko/3658314), which not only impressive in-and-of-itself, but also sets the new performance points record for osu!taiko. 
+
+If you like magically seeing someone completely full combo a Hidden, Hard Rock, DoubleTime, and Flashlight map with the colours seemingly bouncing out of their judgement circles, this play is definitely for you:
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/2Cz_D6yjuUE" frameborder="0" allowfullscreen></iframe>
 
 ## Brrrzzt! Whoosh! Brzzzt!
 
-Don't think that taiko and osu! can steal the show that easily. The catch showcase for this month comes with a multitude of dashes, hypers, and plays that shouldn't be humanly possible. [ArMa79](https://osu.ppy.sh/users/4982799) seemingly does the impossible with nearly tripling the past leaderboard leader's combo, halving the miss count, (and for those who LOVE score) doubled the old leader's score on [Various Artist's - Dan ~ CTB ~ 3rd Pack (~ Shin ~ (Marathon))](https://osu.ppy.sh/beatmapsets/884597#fruits/1872971). The map is filled to the brim with a combination of unrelenting speed, harsh antiflow patterns, and an, what seems to be, infinitely long and nerve-wracking drain time of just under 10 minutes. Oh. Also, did we forget to mention that the play was under a 350 USD bounty?! Yeah, make sure to add that to the list. ArMa79 continues to impress and shows no sign of stopping anytime soon.
+Don't think that osu!taiko and osu! can steal the show that easily! The osu!catch showcase for this month comes with a multitude of dashes, hypers, and plays that shouldn't be humanly possible. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nQLRD41XdaY" title="ArMa79 - Various Artist - Dan ~CTB~ 3rd Pack" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[ArMa79](https://osu.ppy.sh/users/4982799) appears to do the impossible on [Various Artist's - Dan ~ CTB ~ 3rd Pack (~ Shin ~ (Marathon))](https://osu.ppy.sh/beatmapsets/884597#fruits/1872971), nearly tripling the past the previous leader's combo, halving the miss count, (and for those who LOVE score) doubling the final score. 
+
+The map is filled to the brim with a combination of unrelenting speed, harsh antiflow patterns, and a seemingly infinite and nerve-wracking drain time of just under 10 minutes. Oh, also, did we forget to mention that the play was worth a 350 USD bounty?! Yeah, make sure to add that to the list. ArMa79 continues to impress and shows no sign of stopping anytime soon.
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/nQLRD41XdaY" frameborder="0" allowfullscreen></iframe>
 
 *p.s. if you thought this play was gnarly and want [to see] more of what happened in August, check out the dedicated [August osu!catch playlist](https://youtube.com/playlist?list=PL13_euG_GInqpC9jGRyMLSt6gGhbQyxWu)*
 
 ## A New Dawn Approaches
 
-It is no secret that the mania community has had some new developments in the past month, most notably [dressurf](https://osu.ppy.sh/users/758406)'s sudden switch from #2 to #1 in the mania rankings. As such has not happened in nearly 5 years, the team decided that we should showcase and give a little spotlight to dressurf themself, as achieving such a feat is nothing but rigorous and a dream for many osu! players. There are a lot of plays that dressurf cranked out in August but the one that seemed particularly impressive was the LN explosion that is [True Blue by dj TAKA feat. AiMEE (7k Farewell)](https://osu.ppy.sh/beatmapsets/1579889#mania/3226089) with DT. An iconic song that most of the osu! community can recognize on spot made into a deceptively complex 7-key mania map with hardly any rest time and an ever increasing amount of LNs and chords that make even the best of the best tremble when looking at the map was pretty much put to rest by dressurf. The accuracy and note miss count is no small feat when thinking that any given moment dressurf is pressing more than 20 notes per second!
+It is no secret that the osu!mania community has had some new developments in the past month, most notably [dressurf](https://osu.ppy.sh/users/758406)'s sudden switch from #2 to #1 in the mania rankings. As such madness has not happened in nearly 5 years, the team decided that we should showcase and give a little spotlight to dressurf themself, as achieving such a feat is nothing but rigorous and a dream for many osu! players.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gH5ITuBrx2s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+There are a lot of plays that dressurf cranked out in August but the one that seemed particularly impressive was the LN explosion that is [True Blue by dj TAKA feat. AiMEE (7k Farewell)](https://osu.ppy.sh/beatmapsets/1579889#mania/3226089) with DT. An iconic song that most of the osu! community can recognize on the spot has been made into a deceptively complex 7-key mania map with hardly any rest time and an ever increasing amount of LNs and chords that make even the best of the best tremble, and dressurf pretty much put it to rest.
 
-## A bounty as old as time
+At more than 20 notes a second, the accuracy and overall miss count of this score is just outright phenomenal - see for yourself:
 
-Even with a change in the #1 in mania, it is still important that we highlight those who truly deserve it. [Bojii](https://osu.ppy.sh/users/10083439)'s near perfect play on [Bangin' Burst by Camellia [4K] EXHAUST Lv.16 mapped by Spy](https://osu.ppy.sh/scores/mania/506841803) really shows the difficulty and precision needed to claim the [bounty](https://twitter.com/cleanBMS/status/1560222028396990469?s=19). The map seems pretty generic at first but ramps up in difficulty not in just pattern identification, but in precision and survivability. With the final 10 seconds of the map throwing a whopping 20 keys per second stream-jack at the player, it is all-too-easy to make a miss, but bojii stuck through and is the closest player yet to claim the bounty on a map that has yet to be SS'd.
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/gH5ITuBrx2s" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FXRphC5JR6I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## A Bounty As Old As Time
+
+Even with a change in the osu!mania's #1 spot, it is still important that we highlight those who truly deserve it. [bojii](https://osu.ppy.sh/users/10083439)'s near perfect play on [Bangin' Burst by Camellia [4K] EXHAUST Lv.16 mapped by Spy](https://osu.ppy.sh/scores/mania/506841803) really shows the difficulty and precision needed to claim a [bounty](https://twitter.com/cleanBMS/status/1560222028396990469?s=19). 
+
+The map might seem pretty generic at first but ramps up in difficulty not in just pattern identification, but in precision and survivability. With the final 10 seconds of the map throwing a whopping 20 keys per second stream-jack at the player, it is all-too-easy to make a miss, but bojii stuck through and is the closest player yet to claim the bounty on a map that has yet to be SS'd.
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/FXRphC5JR6I" frameborder="0" allowfullscreen></iframe>
 
 *p.s. if you thought the mania plays were impressive, you might want to check out the [August osu!mania playlist](https://www.youtube.com/playlist?list=PL13_euG_GInpbQBrfgGViDYl8vT-yR0P0) where some other honorable mentions are placed for your viewing enjoyment)*
 
-## Did you know?
+## Did You Know?
 
-osu! did not support any keyboard inputs when it was released, it was only after a suggestion was made on the forums that it was added! Another cool fact, originally you could only press circles with the space bar until a suggestion was made to have "Z" and "X" as the default bindings. [Source](https://osu.ppy.sh/community/forums/topics/431?n=8)
+osu! did not support any keyboard inputs when it was released, it was only after a [suggestion was made on the forums](https://osu.ppy.sh/community/forums/topics/431?n=8) that it was added! 
 
-## Monthly community quiz
+Another cool fact: originally you could only press circles with the space bar until a suggestion was made to have "Z" and "X" as the default bindings.  
 
-this will be added before release to stop people from coming up with answers before the go-live date
+## Monthly Community Quiz
 
-## Things to look out for in September
+PLACEHOLDER
 
-- If you are a fan of doujin music, check out the [Taishi Appreciation Team Beatmapping Contest (TATBC) 2022](https://osu.ppy.sh/community/forums/topics/1631506?n=1) hosted by [-Tochi](https://osu.ppy.sh/users/3664366) and [Lince Cosmico](https://osu.ppy.sh/users/6070370). The songs to be used for the mapping competition were recently announced so you will have all the time you need into the mapping groove.
+## Things To Look Out For In September
+
+- If you are a fan of doujin music, check out the [Taishi Appreciation Team Beatmapping Contest (TATBC) 2022](https://osu.ppy.sh/community/forums/topics/1631506?n=1) hosted by [-Tochi](https://osu.ppy.sh/users/3664366) and [Lince Cosmico](https://osu.ppy.sh/users/6070370). The songs to be used for the mapping competition were recently announced, so you'll have all the time you need into the mapping groove.
 - Submissions for the [osu! Featured Artist Mapping Contest (FAMC) 2022](https://osu.ppy.sh/community/forums/topics/1619393?n=1) hosted by [Mafumafu](https://osu.ppy.sh/users/3076909) and [pishifat](https://osu.ppy.sh/users/3178418) are open until the 25th of September, so as they say, better late than never!
 - The [15th Anniversary Art Contest](https://osu.ppy.sh/home/news/2022-08-15-15-anniversary-art-contest) has just closed its submissions, we should consequently see the votes coming in very soon. So if you have just five minutes, don't forget to cast your votes!
 - osu!'s most recent skinning competition, [Chromatic Alteration](https://osu.ppy.sh/home/news/2022-07-18-skinning-contest-chromatic-alteration-announcement) has just entered it's voting phase, take a look at all the wonderful creations and support them with your votes!
-- [VINXIS](https://osu.ppy.sh/users/4323406)' [Corsace Open](https://open.corsace.io/) osu! tournament is well underway, considered by the community as one of the best tournaments of the year we highly recommend you check it out!
+- [VINXIS](https://osu.ppy.sh/users/4323406)' [Corsace Open](https://open.corsace.io/) osu! tournament is well underway, widely considered by the community as one of the best of the year. We highly recommend you check it out!
 - The [Triangles Beatmapping Contest](https://osu.ppy.sh/home/news/2022-05-31-triangles) is coming to a close, be sure to cast your vote if you haven't already and tune into the results announcement livestream!
-- Even though MWC4K 2022 has already started it is still early in its cycling of possibly new champions, so if you have missed out on the previous matches and want to catch up, make sure to check out their [twitch VODs](https://www.twitch.tv/osulive/videos) so you can get up to snuff. 
+- Even though MWC4K 2022 has already started, it is still early on in the tournament, so if you have missed out on the previous matches and want to catch up, make sure to check out the [Twitch VODs](https://www.twitch.tv/osulive/videos) so you can get up to date.
 
 ## End word
 
-As always, this project cannot be done without the many contributors that help us find scores, community content, and even help out with reviewing and making sure this gets completed on time. You all are numerous in size but your contributions are of no small matter. Thank you many a times over. 
+As always, this project cannot be done without the many contributors that help us find scores, community content, and even help out with reviewing and making sure this gets completed on time. You all are numerous in size but your contributions are of no small matter. Thank you many times over! 
 
-As said previously, if you'd like to help out please don't be hesitant to DM any one of us or message in the osu!dev discord. 
+Remember, if you'd like to help out, please don't be hesitant to DM any one of us or message in the osu!dev discord. 
 
 ![](/wiki/shared/news/2022-09-01-osumonthly-2/osu.jpg)
 
