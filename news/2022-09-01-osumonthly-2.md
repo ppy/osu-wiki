@@ -85,7 +85,7 @@ Entries have unfortunately closed on the 30th, but if you are interested in part
 
 ## Stamina for days
 
-It isn't every day that osu! gets to bear witness such a unique skillset that [Kalanluu](https://osu.ppy.sh/users/2035254) possesses, let alone one that permits plays such as this spectacle of [Renard's *Because Maybe! pt. 3*](https://osu.ppy.sh/beatmapsets/979274#osu/2049467).
+It isn't every day that osu! gets to bear witness such a unique skillset that [Kalanluu](https://osu.ppy.sh/users/2035254) possesses, let alone one that permits plays such as this spectacle of [Renard - Because Maybe! pt. 3 [Marathon]](https://osu.ppy.sh/beatmapsets/979274#osu/2049467).
 
 Not only is the map a marathon of no easy measure, but Kalanluu also decided to crank up the challenge by not only making it longer with Half Time, but simultaneously making it harder to read and outright see by adding Easy and Flashlight to the mix. Make sure to get comfortable, grab a drink, maybe a snack or two as Kalanluu puts on a tremendous display of talent and hard-fought skill in this long and gruelling 23-minute play:
 
@@ -95,7 +95,7 @@ Not only is the map a marathon of no easy measure, but Kalanluu also decided to 
 
 As is the classic meme of osu!taiko top performance, this 4-mod insane play baffles anyone that stumbles upon such a feat. 
 
-[Grape_Tea](https://osu.ppy.sh/users/9540073) does not disappoint with a mind-blowing, complete memorisation 4-mod play on [Sparxe's *Comma, ~ Imi to Kouzou no Bunri*](https://osu.ppy.sh/beatmapsets/1785711#taiko/3658314), which is not only impressive in and of itself, but also sets the new performance points record for osu!taiko. 
+[Grape_Tea](https://osu.ppy.sh/users/9540073) does not disappoint with a mind-blowing, complete memorisation 4-mod play on [Sparxe - Comma, ~ Imi to Kouzou no Bunri [Horiiizon's Encore]](https://osu.ppy.sh/beatmapsets/1785711#taiko/3658314), which is not only impressive in and of itself, but also sets the new performance points record for osu!taiko.
 
 If you've never seen someone magically FC a map with +HDHRDTFL and colours seemingly bouncing out of their judgement circles, this play is definitely for you:
 
@@ -105,7 +105,7 @@ If you've never seen someone magically FC a map with +HDHRDTFL and colours seemi
 
 Don't think that osu!taiko and osu! can steal the show that easily! The osu!catch showcase for this month comes with a multitude of dashes, hypers, and plays that shouldn't be humanly possible. 
 
-[ArMa79](https://osu.ppy.sh/users/4982799) appears to do the impossible on [Various Artist - Dan ~ CTB ~ 3rd Pack (~ Shin ~ (Marathon))](https://osu.ppy.sh/beatmapsets/884597#fruits/1872971), nearly tripling the previous leader's combo, halving the miss count, (and for those who LOVE score) doubling the final score.
+[ArMa79](https://osu.ppy.sh/users/4982799) appears to do the impossible on [Various Artist - Dan ~ CTB ~ 3rd Pack [~ Shin ~ (Marathon)]](https://osu.ppy.sh/beatmapsets/884597#fruits/1872971), nearly tripling the previous leader's combo, halving the miss count, (and for those who LOVE score) doubling the final score.
 
 The map is filled to the brim with a combination of unrelenting speed, harsh antiflow patterns, and a seemingly infinite and nerve-wracking drain time of just under 10 minutes. Oh, also, did we forget to mention that the play was worth a 350 USD bounty?! Yeah, make sure to add that to the list. ArMa79 continues to impress and shows no sign of stopping anytime soon.
 
