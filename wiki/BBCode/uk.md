@@ -144,7 +144,7 @@ text
 
 Проте ця кнопка буде відображена **тільки якщо курсор наведений на коментар**.
 
-![Quote reply button](img/quotereply.png)
+![Кнопка цитати](img/quotereply.png)
 
 ### Код
 
