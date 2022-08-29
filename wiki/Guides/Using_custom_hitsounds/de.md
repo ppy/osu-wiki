@@ -21,7 +21,7 @@ Wenn du deine gewünschten Tondateien gefunden hast, verschiebe sie in den Ordne
 
 Falls du osu! auf macOS ausführst, musst du vielleicht eine leicht andere Vorgehensweise wählen:
 
-1. Klicke mit der rechten Maustaste auf das osu!-Anwendungsicon und wähle `Paketinhalt anzeigen`.
+1. Klicke mit der rechten Maustaste auf das osu!-Anwendungsicon und wähle `Paketinhalt zeigen`.
 2. Finde den Ordner deiner Beatmap in `drive_c -> osu! -> Songs` (Sortierung nach `Zuletzt modifiziert` kann hilfreich sein).
 3. Füge deine Dateien hier ein.
 
