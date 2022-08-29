@@ -18,7 +18,7 @@ With all that out of the way, let's get straight into things!
 
 - [What's New In osu!(lazer)](#what's-new-in-osu!(lazer))
 - [Community Recap](#community-recap)
-- [Did You Know?](#did-you-know)
+- [Did You Know?](#did-you-know?)
 - [Monthly Community Quiz](#monthly-community-quiz)
 - [Upcoming](#things-to-look-out-for-in-september)
 - [End Word](#end-word)
