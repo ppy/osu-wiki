@@ -6,7 +6,7 @@ tags:
 
 # Плейлисты Featured Artist
 
-В [osu!(lazer)](https://github.com/ppy/osu/releases) каждый месяц публикуются новые **плейлисты, составленные по базе [Featured Artist](/wiki/Featured_Artists)**, карты в которых замапаны во всех [игровых режимах](/wiki/Game_mode). У таких плейлистов нет строгого формата: их параметры, подборка карт, а также призы за прохождение меняются от месяца к месяцу.
+В [osu!(lazer)](https://github.com/ppy/osu/releases) каждый месяц размещаются новые **плейлисты, составленные из музыки [Featured Artist](/wiki/Featured_Artists)**, карты в которых замапаны во всех [игровых режимах](/wiki/Game_mode). У таких плейлистов нет строгого формата: их условия, подборка карт, а также призы за прохождение меняются от месяца к месяцу.
 
 ![Комната с плейлистом Featured Artist](img/playlist.jpg "Комната с плейлистом Featured Artist в osu!(lazer)")
 
@@ -16,7 +16,7 @@ tags:
 
 ## Призы
 
-Игроки, лучше всего прошедшие каждый плейлист Featured Artist, награждаются бейджиками в рамках своего режима (критерии награждения для каждого плейлиста свои).
+Игроки, лучше всего прошедшие один из плейлистов Featured Artist, награждаются бейджиками в рамках своего режима (критерии награждения для каждого плейлиста свои).
 
 ![Бейджик Featured Artist](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!.png) ![Бейджик Featured Artist](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!taiko.png) ![Бейджик Featured Artist](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!catch.png) ![Бейджик Featured Artist](https://assets.ppy.sh/profile-badges/fa-playlists/fapl-osu!mania.png)
 
