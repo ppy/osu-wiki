@@ -137,7 +137,7 @@ Cada punto de tiempo influye en una parte específica del mapa, comúnmente llam
 - **`sampleIndex` (Integer):** Índice de muestra personalizado para objetos de hit. `0` indica los sonidos de éxito predeterminados de osu!
 - **`volume` (Integer):** Porcentaje de volumen para objetos golpeados.
 - **`uninherited` (0 or 1):** Si el punto de tiempo se hereda o no.
-- **`effects` (Integer):** Indicadores de bits que le dan al punto de tiempo efectos adicionales. Ver [la sección de efectos](#efectos).
+- **`effects` (Integer):** Indicadores de bits que le dan al punto de tiempo efectos adicionales.
 
 ### Efectos
 
@@ -182,10 +182,10 @@ Todas las opciones en esta sección representa los colores. Son tripletes separa
 
 - **`x` (Integer)** y **`y` (Integer):** Posición de los [osu! pixels](/wiki/Client/Beatmap_editor/osu!_pixel) del objeto.
 - **`time` (Integer):** Tiempo cuando el objeto debe ser golpeado en milisegundos desde el inicio del audio.
-- **`type` (Integer):** Indicadores de bits que indican el tipo de objeto. Ver [la sección de tipo](#type).
-- **`hitSound` (Integer):** Indicadores de bits que indican el sonido de impacto aplicado al objeto. Ver [la sección de hitsounds](#hitsounds).
+- **`type` (Integer):** Indicadores de bits que indican el tipo de objeto.
+- **`hitSound` (Integer):** Indicadores de bits que indican el sonido de impacto aplicado al objeto.
 - **`objectParams` (Lista separada por comas):** Parámetros adicionales específicos del tipo de objeto.
-- **`hitSample` (Lista separada por dos puntos):** Información sobre qué muestras se reproducen cuando se golpea el objeto. Está estrechamente relacionado con `hitSound`; ver [la sección de hitsounds](#hitsounds). Si no está escrito, por defecto es `0:0:0:0:`.
+- **`hitSample` (Lista separada por dos puntos):** Información sobre qué muestras se reproducen cuando se golpea el objeto. Está estrechamente relacionado con `hitSound`. Si no está escrito, por defecto es `0:0:0:0:`.
 
 ### Tipo
 
