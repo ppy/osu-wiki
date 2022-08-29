@@ -27,7 +27,6 @@ With all that out of the way, let's get straight into things!
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/RxRwqXmMxd4?list=PLmWVQsxi34bMTmgpDArfxJ32Q0mBLhcE-" frameborder="0" allowfullscreen></iframe>
 
-
 The weekly updates for osu!(lazer) continue, most notably featuring a change to the osu! slider animations, which should now more closely match the stable version of the game and hopefully minimize the "weird feeling" players have reported when playing the latest version of the game. 
 
 Furthermore, a bunch of new features and fixes have been added into the editor, which will make mappers' lives easier as [OliBomby](https://osu.ppy.sh/users/6573093) continues to implement the features from his ever-popular [Mapping Tools](https://osu.ppy.sh/community/forums/topics/940368?n=1) utility directly into osu!(lazer) proper.
@@ -60,7 +59,7 @@ Of course, COE 2022 would not be complete without the collaborations of its supp
 
 A huge thank you to Meyer for taking charge of organisation this year, alongside all other contributors that helped make this event a success.
 
-### Don't Try This At Home. Seriously.
+### Don't Try This At Home
 
 You may have heard of a particular osu! content creator by the name of [pishifat](https://osu.ppy.sh/users/3178418) and their long-awaited resurrection on their YouTube. Those attending COE 2022 got to witness a video that was in the making for a long while: several years, in fact, as he delved into a *secret operation* to experience just how rough new mappers have it in trying to get their maps ranked.
 
@@ -112,7 +111,7 @@ The map is filled to the brim with a combination of unrelenting speed, harsh ant
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/nQLRD41XdaY" frameborder="0" allowfullscreen></iframe>
 
-*p.s. if you thought this play was gnarly and want [to see] more of what happened in August, check out the dedicated [August osu!catch playlist](https://youtube.com/playlist?list=PL13_euG_GInqpC9jGRyMLSt6gGhbQyxWu)*
+*p.s. if you thought this play was gnarly and want to see more of what happened in August, check out the dedicated [August osu!catch playlist](https://youtube.com/playlist?list=PL13_euG_GInqpC9jGRyMLSt6gGhbQyxWu)*
 
 ## A New Dawn Approaches
 
