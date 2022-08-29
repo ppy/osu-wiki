@@ -111,7 +111,7 @@ The map is filled to the brim with a combination of unrelenting speed, harsh ant
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/nQLRD41XdaY" frameborder="0" allowfullscreen></iframe>
 
-*p.s. if you thought this play was gnarly and want to see more of what happened in August, check out the dedicated [August osu!catch playlist](https://youtube.com/playlist?list=PL13_euG_GInqpC9jGRyMLSt6gGhbQyxWu)*
+*P.S. If you thought this play was gnarly and want to see more of what happened in August, check out the dedicated [August osu!catch playlist](https://youtube.com/playlist?list=PL13_euG_GInqpC9jGRyMLSt6gGhbQyxWu)*
 
 ## A new dawn approaches
 
