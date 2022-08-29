@@ -1,42 +1,46 @@
----
-outdated_translation: true
----
-
-# osu! scoring system
+# ScoreV1 (osu!)
 
 *Ver también: [osu! judgement system](/wiki/Gameplay/Judgement/osu!)*
 
-El puntaje dado por cada círculo de golpeo y el final de un control deslizante se calcula con la siguiente fórmula:
+En **ScoreV1**, cada uno de los tipos de objeto en osu! es puntuado de manera ligeramente distinta. Sin embargo, el total de los puntos es una simple suma de los puntos otorgados individualmente por cada objeto en el beatmap.
 
-`Puntuación = Valor del golpe + (Valor del golpe * ((Multiplicador del combo * Multiplicador de dificultad * Multiplicador del mod) / 25))`
+Las reglas de cómo se puntúa cada objeto individualmente están indicadas en la sección inferior.
 
-| Termino | Significado |
-| :-: | :-- |
-| **Valor del golpe** | El juicio del círculo de golpeo (50, 100 o 300), cualquier tic de control deslizante y bono de spinner |
-| **Multiplicador del combo** | (Combo antes de este hit - 1) o 0; el que sea más alto |
-| **Multiplicador de dificultad** | La configuración de dificultad del beatmap (ver el siguiente encabezado) |
-| **Multiplicador del mod** | El multiplicador de los mods seleccionados |
+## Hit circles
 
-Además, cada control deslizante de inicio, fin, y repetición de tics otorga 30 puntos, cada medio tic del control deslizante otorga 10 puntos y cada giro de una ruleta otorga 100 puntos.
+A cada "hit circle" se le es asignado un valor numérico de puntos usando la fórmula de abajo:
 
-Bonificación adicional de 1,000 puntos dados por cada giro de una ruleta después de que el medidor de giro esté lleno.
+`Puntaje = Valor del golpe * (1 + (Multiplicador del combo * Multiplicador de dificultad * Multiplicador de la modificación / 25))`
 
-## Cómo calcular el multiplicador de dificultad
+donde:
 
-[Tamaño de circulos (CS)](/wiki/Client/Beatmap_editor/Song_Setup), [Drenaje de vida (HP)](/wiki/Client/Beatmap_editor/Song_Setup) and [Dificultad general (OD)](/wiki/Client/Beatmap_editor/Song_Setup) cada uno da un punto en los *puntos de dificultad*.
+- El *valor del golpe* es el valor numérico para el juicio del "hit circle" (50, 100 o 300).
+- El *multiplicador de combo* es igual a (combo antes de este golpe - 1) o 0, cual sea el mayor.
+- El *multiplicador de dificultad* es un valor específico al "beatmap" que está siendo jugado. Ver la [sección de más abajo](#multiplicador-de-dificultad) para la fórmula exacta de cómo calcularlo.
+- El *multiplicador de modificación* es el multiplicador total del set de modificaciones activas.
 
-Los *puntos de dificultad* acumulados afectan el **multiplicador de dificultad** como tal:
+### Multiplicador de dificultad
 
-| Rango de puntos de dificultad | Dificultad multiplicador |
-| :-: | :-- |
-| 0 - 5 | Multiplicador 2x |
-| 6 - 12 | Multiplicador 3x |
-| 13 - 17 | Multiplicador 4x |
-| 18 - 24 | Multiplicador 5x |
-| 25 - 30 | Multiplicador 6x |
+El **multiplicador de dificultad** es igual a una versión más antigua del "star rating" para el "beatmap" que está siendo jugado. Puede ser calculado a través de la siguiente fórmula:
 
-El límite más alto es de 27 puntos de dificultad con CS7, OD10 y HP10. El límite más bajo es de 2 puntos de dificultad con CS2, OD0 y HP0.
+`Multiplicador de dificultad = Round((Drenado de HP + Tamaño del círculo + Precisión + Clamp(Cantidad de "hit objects" / Duración del drenaje en segundos * 8, 0, 16)) / 38 * 5)`
 
-El CS normalmente no puede ir por debajo de 2 o por encima de 7 (requiere una modificación directa del archivo `.osu`).
+Cabe notar que los modificadores de juego (tales como Hard Rock o Easy; los cuales, por ejemplo, cambian el tamaño del círculo) no afectan el multiplicador de dificultad, ya que los valores originales de las variables son siempre usados en la fórmula sin importar qué modificaciones están habilitadas.
 
-Ten en cuenta que los modificadores de juego (como Hard Rock/Easy) no cambiarán el **Multiplicador de dificultad**. Sólo se dará cuenta los valores originales.
+## Sliders
+
+Cada "slider" como tal produce un juicio de 50, 100, o 300, basado en la proporción de "slider parts hit" (concretamente, la cabeza del "slider", la cola del "slider", "slider ticks", y "slider repeats"). Este juicio es convertido a un valor de puntaje usando el mismo método usado por los "hit circles".
+
+Adicionalmente, partes del slider otorgan puntaje de manera independiente, no siendo afectados por cualquier bonificación o multiplicador:
+
+- Cada "slider tick hit" otorga 10 puntos.
+- Cada "slider repeat" o cola de "slider" otorga 30 puntos.
+
+## Spinners
+
+Cada "spinner" como tal produce un juicio de 50, 100, o 300, basado en la razón de rotaciones hechas a rotaciónes requeridas para completar el "spinner". Este juicio es convertido a un valor de puntaje usando el mismo método usado por los "hit circles".
+
+Los "spinners" también otorgan puntos de bonificación adicionales, no afectados por otras bonificaciones o multiplicadores:
+
+- Cada rotación completa antes de que el "spinner" sea completado otorga 100 puntos.
+- Después de que el "spinner" sea completado, las rotaciones completas otorgan 1000 puntos adicionales, para un total de 1100 puntos adicionales por rotación.
