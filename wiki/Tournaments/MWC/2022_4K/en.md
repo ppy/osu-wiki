@@ -55,6 +55,7 @@ The osu!mania 4K World Cup 2022 is run by the [osu! team](/wiki/People/The_Team)
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1606949)
 - [Livestream](https://www.twitch.tv/osulive)
+- [Challonge bracket](https://challonge.com/MWC4K_2022)
 - [Information spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTdAyf0i9MdFrlErRntSmUDe7XigHgCwbJl1oAdN-DC6QAp5bDlEvKMpBBEs4AsKzb6hVAzD76OCq-S/pubhtml)
 
 ## Participants
@@ -104,47 +105,60 @@ The osu!mania 4K World Cup 2022 is run by the [osu! team](/wiki/People/The_Team)
 | ::{ flag=VE }:: | **Venezuela** | **[Edvo](https://osu.ppy.sh/users/8301758)**, [xXShyzDy0133Xx](https://osu.ppy.sh/users/13545528), [calvingarrix666](https://osu.ppy.sh/users/17881051), [YuyukoFangirl](https://osu.ppy.sh/users/10336332) |
 | ::{ flag=VN }:: | **Vietnam** | **[Lott](https://osu.ppy.sh/users/13821222)**, [magnifestio](https://osu.ppy.sh/users/22725724), [CPT\_Sivelia](https://osu.ppy.sh/users/12562107), [TriDoanGaming](https://osu.ppy.sh/users/14009758), [Micleak](https://osu.ppy.sh/users/16140674), [Frostleaf](https://osu.ppy.sh/users/11863174) |
 
-## Match schedule: Quarterfinals
+## Match schedule: Semifinals
 
-### Saturday, 27 August 2022
-
-| Team A | Team B | Match time |  |
-| --: | :-- | :-- | :-: |
-| Indonesia ::{ flag=ID }:: | ::{ flag=HK }:: Hong Kong | [Aug 27 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220827T130000&p1=1440&p2=108&p3=102) | [^losers-bracket] |
-| France ::{ flag=FR }:: | ::{ flag=NL }:: Netherlands | [Aug 27 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220827T130000&p1=1440&p2=195&p3=16) | [^losers-bracket] |
-| China ::{ flag=CN }:: | ::{ flag=DE }:: Germany | [Aug 27 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220827T130000&p1=1440&p2=33&p3=37) | [^losers-bracket] |
-| Brazil ::{ flag=BR }:: | ::{ flag=TH }:: Thailand | [Aug 27 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220827T130000&p1=1440&p2=45&p3=28) | [^winners-bracket] |
-| Vietnam ::{ flag=VN }:: | ::{ flag=AR }:: Argentina | [Aug 27 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220827T140000&p1=1440&p2=95&p3=51) | [^losers-bracket] |
-| Canada ::{ flag=CA }:: | ::{ flag=IT }:: Italy | [Aug 27 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220827T150000&p1=1440&p2=188&p3=215) | [^losers-bracket] |
-| Singapore ::{ flag=SG }:: | ::{ flag=ES }:: Spain | [Aug 27 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220827T150000&p1=1440&p2=236&p3=141) | [^losers-bracket] |
-| Peru ::{ flag=PE }:: | ::{ flag=RU }:: Russian Federation | [Aug 27 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220827T160000&p1=1440&p2=131&p3=166) | [^losers-bracket] |
-
-### Sunday, 28 August 2022
+### Saturday, 3 September 2022
 
 | Team A | Team B | Match time |  |
 | --: | :-- | :-- | :-: |
-| Chile ::{ flag=CL }:: | ::{ flag=AU }:: Australia | [Aug 28 (Sun) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220828T020000&p1=1440&p2=232&p3=57) | [^losers-bracket] |
-| Singapore ::{ flag=SG }:: | ::{ flag=CA }:: Canada | [Aug 28 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220828T030000&p1=1440&p2=236&p3=188) | [^potential-match] |
-| South Korea ::{ flag=KR }:: | ::{ flag=US }:: United States | [Aug 28 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220828T030000&p1=1440&p2=235&p3=263) | [^winners-bracket] |
-| Malaysia ::{ flag=MY }:: | ::{ flag=JP }:: Japan | [Aug 28 (Sun) 07:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220828T070000&p1=1440&p2=122&p3=248) | [^winners-bracket] |
-| Hong Kong ::{ flag=HK }:: | ::{ flag=AU }:: Australia | [Aug 28 (Sun) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220828T080000&p1=1440&p2=102&p3=57) | [^potential-match] |
-| Indonesia ::{ flag=ID }:: | ::{ flag=AU }:: Australia | [Aug 28 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220828T100000&p1=1440&p2=108&p3=57) | [^potential-match] |
-| Singapore ::{ flag=SG }:: | ::{ flag=IT }:: Italy | [Aug 28 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220828T110000&p1=1440&p2=236&p3=215) | [^potential-match] |
-| Spain ::{ flag=ES }:: | ::{ flag=IT }:: Italy | [Aug 28 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220828T110000&p1=1440&p2=141&p3=215) | [^potential-match] |
-| Vietnam ::{ flag=VN }:: | ::{ flag=FR }:: France | [Aug 28 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220828T120000&p1=1440&p2=95&p3=195) | [^potential-match] |
-| Philippines ::{ flag=PH }:: | ::{ flag=GB }:: United Kingdom | [Aug 28 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220828T120000&p1=1440&p2=145&p3=136) | [^winners-bracket] |
-| Indonesia ::{ flag=ID }:: | ::{ flag=CL }:: Chile | [Aug 28 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220828T140000&p1=1440&p2=108&p3=232) | [^potential-match] |
-| Vietnam ::{ flag=VN }:: | ::{ flag=NL }:: Netherlands | [Aug 28 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220828T140000&p1=1440&p2=95&p3=16) | [^potential-match] |
-| China ::{ flag=CN }:: | ::{ flag=RU }:: Russian Federation | [Aug 28 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220828T140000&p1=1440&p2=33&p3=166) | [^potential-match] |
-| China ::{ flag=CN }:: | ::{ flag=PE }:: Peru | [Aug 28 (Sun) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220828T143000&p1=1440&p2=33&p3=131) | [^potential-match] |
-| Hong Kong ::{ flag=HK }:: | ::{ flag=CL }:: Chile | [Aug 28 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220828T150000&p1=1440&p2=102&p3=232) | [^potential-match] |
-| Argentina ::{ flag=AR }:: | ::{ flag=FR }:: France | [Aug 28 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220828T160000&p1=1440&p2=51&p3=195) | [^potential-match] |
-| Argentina ::{ flag=AR }:: | ::{ flag=NL }:: Netherlands | [Aug 28 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220828T160000&p1=1440&p2=51&p3=16) | [^potential-match] |
-| Germany ::{ flag=DE }:: | ::{ flag=PE }:: Peru | [Aug 28 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220828T170000&p1=1440&p2=37&p3=131) | [^potential-match] |
-| Germany ::{ flag=DE }:: | ::{ flag=RU }:: Russian Federation | [Aug 28 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220828T170000&p1=1440&p2=37&p3=166) | [^potential-match] |
-| Spain ::{ flag=ES }:: | ::{ flag=CA }:: Canada | [Aug 28 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220828T170000&p1=1440&p2=141&p3=188) | [^potential-match] |
+| Japan ::{ flag=JP }:: | ::{ flag=SG }:: Singapore | [Sep 3 (Sat) 09:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220903T093000&p1=1440&p2=248&p3=236) | [^losers-bracket] |
+| Thailand ::{ flag=TH }:: | ::{ flag=CN }:: China | [Sep 3 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220903T110000&p1=1440&p2=28&p3=33) | [^losers-bracket] |
+| United Kingdom ::{ flag=GB }:: | ::{ flag=ID }:: Indonesia | [Sep 3 (Sat) 12:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220903T123000&p1=1440&p2=136&p3=108) | [^losers-bracket] |
+
+### Sunday, 4 September 2022
+
+| Team A | Team B | Match time |  |
+| --: | :-- | :-- | :-: |
+| United States ::{ flag=US }:: | ::{ flag=VN }:: Vietnam | [Sep 4 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220904T040000&p1=1440&p2=263&p3=95) | [^losers-bracket] |
+| Japan ::{ flag=JP }:: | ::{ flag=TH }:: Thailand | [Sep 4 (Sun) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220904T090000&p1=1440&p2=248&p3=28) | [^potential-match] |
+| Japan ::{ flag=JP }:: | ::{ flag=CN }:: China | [Sep 4 (Sun) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220904T090000&p1=1440&p2=248&p3=33) | [^potential-match] |
+| Singapore ::{ flag=SG }:: | ::{ flag=TH }:: Thailand | [Sep 4 (Sun) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220904T090000&p1=1440&p2=236&p3=28) | [^potential-match] |
+| Singapore ::{ flag=SG }:: | ::{ flag=CN }:: China | [Sep 4 (Sun) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220904T090000&p1=1440&p2=236&p3=33) | [^potential-match] |
+| Vietnam ::{ flag=VN }:: | ::{ flag=GB }:: United Kingdom | [Sep 4 (Sun) 10:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220904T103000&p1=1440&p2=95&p3=136) | [^potential-match] |
+| Vietnam ::{ flag=VN }:: | ::{ flag=ID }:: Indonesia | [Sep 4 (Sun) 10:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220904T103000&p1=1440&p2=95&p3=108) | [^potential-match] |
+| Philippines ::{ flag=PH }:: | ::{ flag=KR }:: South Korea | [Sep 4 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220904T120000&p1=1440&p2=145&p3=235) | [^winners-bracket] |
+| Brazil ::{ flag=BR }:: | ::{ flag=MY }:: Malaysia | [Sep 4 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220904T140000&p1=1440&p2=45&p3=122) | [^winners-bracket] |
+| United States ::{ flag=US }:: | ::{ flag=ID }:: Indonesia | [Sep 4 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220904T150000&p1=1440&p2=263&p3=108) | [^potential-match] |
+| United States ::{ flag=US }:: | ::{ flag=GB }:: United Kingdom | [Sep 4 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220904T180000&p1=1440&p2=263&p3=136) | [^potential-match] |
 
 ## Mappools
+
+### Semifinals
+
+**[Download the mappack here (209 MB)](https://drive.google.com/uc?id=1InFtk7TcUpKeHMPGTnHfbPfwrGYiIGWr)**
+
+- Rice
+  1. [Dunderpatrullen & Meganeko - JENOVA (Jole) \[N e w \_ G O D\]](https://osu.ppy.sh/beatmapsets/1800440#mania/3691151)
+  2. [USAO - Cthugha (Toaph Daddy) \[Solar Flare x1.25\]](https://osu.ppy.sh/beatmapsets/1835426#mania/3773378)
+  3. [Falcom Sound Team jdk - Formidable Enemy (lemonguy) \[Nightmare x1.1\]](https://osu.ppy.sh/beatmapsets/1589255#mania/3246090)
+  4. [Anegasaki Nei - ZENITHALIZE (Mipha-) \[MIPHATHER\]](https://osu.ppy.sh/beatmapsets/1744633#mania/3762012)
+  5. [Kurorak - OWA Raged in Vegas (Fuck Bees) (hi19hi19) \[PLAY FN ON MIRROR ITS SO MUCH EAS 1.05x (244bpm)\]](https://osu.ppy.sh/beatmapsets/1671141#mania/3413311)
+  6. [Smiley - Delirium (Shoegazer) \[Euphoria 1.1x (179bpm)\]](https://osu.ppy.sh/beatmapsets/1798699#mania/3687245)
+  7. [Terminal 11 - Counter Clockwise Chant Pattern (Phil) \[Timebomb 1.1x (155bpm)\]](https://osu.ppy.sh/beatmapsets/659039#mania/3182136)
+- Hybrid
+  1. [Otsukisama Koukyoukyoku - ultima Thule (guden) \[Penultimas\]](https://osu.ppy.sh/beatmapsets/1837019#mania/3771938)
+  2. [Apo11o"TSUKUYOMI INOCHI"program vs. NeLiME OVERDRIVE - Re:VeLATiON Koudou to Hakai no Soushiro Tsubasa (Tidek) \[Destruction \[1,2x Rate\]\]](https://osu.ppy.sh/beatmapsets/1374143#mania/3566181)
+  3. [JAKAZiD - Party Starter (Cut Version) (lemonguy) \[Encore\]](https://osu.ppy.sh/beatmapsets/1835488#mania/3768379)
+- LN
+  1. [Hachiya Nanashi - Secret Sleuth (Raveille) \[Shamus\]](https://osu.ppy.sh/beatmapsets/1837336#mania/3772572)
+  2. [katagiri - #2wise4u (\_Seth) \[YuEast 2018's #1.00density4u (edit)\]](https://osu.ppy.sh/beatmapsets/1837745#mania/3773546)
+  3. [Tonari no niwa wa aoi (Niwashi+Aoi) - Xb10r (-mint-) \[EXCEED 1.05x (210bpm)\]](https://osu.ppy.sh/beatmapsets/1769016#mania/3772727)
+  4. [An - Encryption (Davvy) \[Enigmatic\]](https://osu.ppy.sh/beatmapsets/1298002#mania/2692515)
+- SV
+  1. [Smigonaut - Shower Beer (Tidek) \[Shower Thought\]](https://osu.ppy.sh/beatmapsets/1838003#mania/3774021)
+  2. [Barely Alive & Eliminate - Crankin (arccat) \[Myocardial Infarction\]](https://osu.ppy.sh/beatmapsets/1838002#mania/3774040)
+- Tiebreaker
+  1. **[ReeK - Multigenre Smackdown (-mint-) \[Vine Boom Sound Effect (bass boosted)\]](https://osu.ppy.sh/beatmapsets/1836713#mania/3771148)**
 
 ### Quarterfinals
 
@@ -233,6 +247,36 @@ The osu!mania 4K World Cup 2022 is run by the [osu! team](/wiki/People/The_Team)
 8. [xi - The End of Dreams (Sped Up Ver.) (aeoliancarp) \[Stage 8: Dawn\]](https://osu.ppy.sh/beatmapsets/1817980#mania/3729876)
 
 ## Match results
+
+### Quarterfinals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/13k3EtGT2sGlgg6UekWuycq86tF0KGvapvEXayPgp138).
+
+Saturday, 27 August 2022:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Indonesia** ::{ flag=ID }:: | **6** | 4 | ::{ flag=HK }:: Hong Kong | [#1](https://osu.ppy.sh/community/matches/103370624) |
+| **France** ::{ flag=FR }:: | **6** | 2 | ::{ flag=NL }:: Netherlands | [#1](https://osu.ppy.sh/community/matches/103370610) |
+| **China** ::{ flag=CN }:: | **6** | 4 | ::{ flag=DE }:: Germany | [#1](https://osu.ppy.sh/community/matches/103370629) |
+| **Brazil** ::{ flag=BR }:: | **6** | 0 | ::{ flag=TH }:: Thailand | [#1](https://osu.ppy.sh/community/matches/103370732) |
+| **Vietnam** ::{ flag=VN }:: | **6** | 1 | ::{ flag=AR }:: Argentina | [#1](https://osu.ppy.sh/community/matches/103371983) |
+| **Canada** ::{ flag=CA }:: | **6** | 0 | ::{ flag=IT }:: Italy | [#1](https://osu.ppy.sh/community/matches/103373358) |
+| **Singapore** ::{ flag=SG }:: | **6** | 0 | ::{ flag=ES }:: Spain | [#1](https://osu.ppy.sh/community/matches/103373387) |
+| **Peru** ::{ flag=PE }:: | **6** | 1 | ::{ flag=RU }:: Russian Federation | [#1](https://osu.ppy.sh/community/matches/103374963) |
+
+Sunday, 28 August 2022:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Chile** ::{ flag=CL }:: | **6** | 0 | ::{ flag=AU }:: Australia | [#1](https://osu.ppy.sh/community/matches/103387139) |
+| **Singapore** ::{ flag=SG }:: | **6** | 1 | ::{ flag=CA }:: Canada | [#1](https://osu.ppy.sh/community/matches/103388112) |
+| **South Korea** ::{ flag=KR }:: | **6** | 4 | ::{ flag=US }:: United States | [#1](https://osu.ppy.sh/community/matches/103388108) |
+| **Malaysia** ::{ flag=MY }:: | **6** | 2 | ::{ flag=JP }:: Japan | [#1](https://osu.ppy.sh/community/matches/103391452) |
+| **Vietnam** ::{ flag=VN }:: | **6** | 1 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/103395740) |
+| **Philippines** ::{ flag=PH }:: | **6** | 4 | ::{ flag=GB }:: United Kingdom | [#1](https://osu.ppy.sh/community/matches/103395663) |
+| **Indonesia** ::{ flag=ID }:: | **6** | 3 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/103398089) |
+| **China** ::{ flag=CN }:: | **6** | 3 | ::{ flag=PE }:: Peru | [#1](https://osu.ppy.sh/community/matches/103398757) |
 
 ### Round of 16
 
