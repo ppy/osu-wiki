@@ -74,6 +74,32 @@ The Expert Global Taiko Showdown 2022 is run by various community members.
 
 ## Mappools
 
+### Round of 32
+
+**[Download the mappack here! (110 MB)](https://mega.nz/file/HQYgGLxS#nA8z_WgxiNNIcBc3DQW4ypNmXRtuWEK3Sd-V80xhwx8)**
+
+- NoMod
+  1. [Silentroom - The Nue and Morning Stars ('Daybreaker' Full Version) (\_mtk) \[Stardust\]](https://osu.ppy.sh/beatmapsets/1837986#taiko/3773992)
+  2. [xavy - First Melody (Cut ver.) (5\_5) \[Tune\]](https://osu.ppy.sh/beatmapsets/1837972#taiko/3773964)
+  3. [Nhato - Darkness Is The Colour (rubies87) \[150bpm (EGTS)\]](https://osu.ppy.sh/beatmapsets/1837926#taiko/3773885)
+  4. [Iboibo - 25N168W (X a v y) \[egts\]](https://osu.ppy.sh/beatmapsets/1838165#taiko/3774357)
+  5. [polysha - Orange Illusionista (Mew) \[Ace of Diamonds\]](https://osu.ppy.sh/beatmapsets/1838058#taiko/3774192)
+- Hidden
+  1. [Link"0 - Uro no Yorishiro (UnagiDon) \[Possession\]](https://osu.ppy.sh/beatmapsets/1837969#taiko/3773958)
+  2. [sasakure.UK VS Daisuke Anayama - ANU (MTNTWarz) \[Empyreal\]](https://osu.ppy.sh/beatmapsets/1837919#taiko/3773874)
+- HardRock
+  1. [HATE - SOUNDWiTCH (HiroK) \[Inner Oni (EGTS ver.)\]](https://osu.ppy.sh/beatmapsets/1837833#taiko/3773712)
+  2. [BlackY vs. WAiKURO - STEEL TRANSONIC (\_mtk) \[GUARDIANS (EGTS EDIT)\]](https://osu.ppy.sh/beatmapsets/1837982#taiko/3773987)
+- DoubleTime
+  1. [Sparxe - Dream Elevator (Cynplytholowazy) \[Descension\]](https://osu.ppy.sh/beatmapsets/1837865#taiko/3773779)
+  2. [SOUND HOLIC - UNKNOWN REALITY (Ak1o) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1836338#taiko/3770357)
+- ForceMod
+  1. [Slax - Blight My Name (Mew) \[Say it again.\]](https://osu.ppy.sh/beatmapsets/1838080#taiko/3774229)
+  2. [Breakchild & Stoop - blue noah 2022 (Cut Ver.) (Cynplytholowazy) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1837866#taiko/3773780)
+  3. [METAROOM - METADATA (trollocat) \[METANOIA (EGTS EDIT)\]](https://osu.ppy.sh/beatmapsets/1838176#taiko/3774386)
+- Tiebreaker
+  1. **[DJ Raisei - Fractured Angel (roufou) \[Extirpated Gleaming Tatter of the Sacrament\]](https://osu.ppy.sh/beatmapsets/1838114#taiko/3774272)**
+
 ### Round of 64
 
 **[Download the mappack here! (91 MB)](https://mega.nz/file/SZQy2aDZ#QwcEZrFyd-t-ZBPaBIJ9a2Aj7PSeU0zEjBw9dZkrC1o)**
