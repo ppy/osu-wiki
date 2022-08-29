@@ -8,7 +8,7 @@ Check out a brief overview of what went down in the osu! community for August wi
 
 ![](/wiki/shared/news/2022-09-01-osumonthly-2/monthlybanner.jpg)
 
-For those not caught up to speed on what the osu!monthly is, osu!monthly is a reimagining of the hit-sensation osu!weekly, but in a bigger (and dare we say, better) format. Make sure to check out [last month's issue](https://osu.ppy.sh/home/news/2022-08-01-osumonthly-1) if ou haven't already!
+For those not caught up to speed on what the osu!monthly is, osu!monthly is a reimagining of the hit-sensation osu!weekly, but in a bigger (and dare we say, better) format. Make sure to check out [last month's issue](https://osu.ppy.sh/home/news/2022-08-01-osumonthly-1) if you haven't already!
 
 As this is the second rendition of the recently reawakened project, we are still trying to find a groove and get a sense of what the community likes most and dislikes the least. If you'd like to contribute to any ideas, content, article writing, or anything else that we can feature, please don't be shy and let us know via the [discussion thread on the forums](https://osu.ppy.sh/community/forums/topics/1614314) or get involved in the osu!monthly process over on the [osu!dev Discord](https://discord.com/invite/ppy).
 
@@ -33,7 +33,7 @@ Furthermore, a bunch of new features and fixes have been added into the editor, 
 
 Last but not least, global bindings have been reorganized for easier navigation and a lot of behind-the-scenes optimization should hopefully help improve the osu! experience on a wider range of systems.
 
-If you missed it, [0x84f](https://osu.ppy.sh/users/7944724) released a write-up covering the work that went into [the sound design of osu!(lazer)](https://osu.ppy.sh/home/news/2022-08-31-the-sound-design-of-lazer) earlier in the month. The post goes in-depth about the design process of sound effects for osu!(lazer_ and includes snippets of an interview with [nekodex](https://osu.ppy.sh/users/102), the osu!musician-cross-developer behind it all!
+If you missed it, [0x84f](https://osu.ppy.sh/users/7944724) released a write-up covering the work that went into [the sound design of osu!(lazer)](https://osu.ppy.sh/home/news/2022-08-31-the-sound-design-of-lazer) earlier in the month. The post goes in-depth about the design process of sound effects for osu!(lazer) and includes snippets of an interview with [nekodex](https://osu.ppy.sh/users/102), the osu!musician-cross-developer behind it all!
 
 Some people say humans can only see refresh rates up to 60hz, and now you can test this yourself with the all-new latency certifier!
 
