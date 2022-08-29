@@ -383,6 +383,13 @@ Unofficial tournaments/competitions hosted by the communities.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Yuri Cup](YC/1) | 2020-02-22 | 2020-04-05 | Corim's Bad Dream | a la verga | Rtzero x Rtzer0 |
 
+#### Spanish Showdown
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Spanish Showdown 2021](SS/2021) | 2021-03-21 | 2021-05-08 | ::{ flag=ES }:: [A N T O N I O](https://osu.ppy.sh/users/12760743) | ::{ flag=ES }:: [Estopa](https://osu.ppy.sh/users/4470553) | ::{ flag=ES }:: [waaiiru](https://osu.ppy.sh/users/903978) |
+| [Spanish Showdown 2022](SS/2022) | 2022-03-18 | 2022-05-15 | ::{ flag=ES }:: [A N T O N I O](https://osu.ppy.sh/users/12760743) | ::{ flag=ES }:: [Estopa](https://osu.ppy.sh/users/4470553) | ::{ flag=ES }:: [NHarmonia](https://osu.ppy.sh/users/9582556) |
+
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
 #### 3 Digit Taiko World Cup
@@ -399,6 +406,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | [Asian Taiko Showdown 2018](AOTS/ATS_2018) | 2018-06-02 | 2018-07-08 | ::{ flag=TW }:: [Smallwu](https://osu.ppy.sh/users/2512120) | ::{ flag=JP }:: [nyanmi-1828](https://osu.ppy.sh/users/6866480) | ::{ flag=JP }:: [butter0414](https://osu.ppy.sh/users/7935022) |
 | [Asian-Oceanian Taiko Showdown](AOTS/AOTS_1) | 2019-08-09 | 2019-09-15 | ::{ flag=TW }:: [Smallwu](https://osu.ppy.sh/users/2512120) | ::{ flag=JP }:: [Saikoro](https://osu.ppy.sh/users/741819) | ::{ flag=HK }:: [MTDex](https://osu.ppy.sh/users/9468283) |
 | [Indonesian Taiko Showdown 2](AOTS/IDTS_2) | 2021-12-03 | 2022-01-09 | ::{ flag=ID }:: [Servatory](https://osu.ppy.sh/users/4013317) | ::{ flag=ID }:: [freezebear](https://osu.ppy.sh/users/1943301) | ::{ flag=ID }:: [Veltlion](https://osu.ppy.sh/users/10999079) |
+| [Indonesian Taiko Beginner Showdown](AOTS/ITBS_1) | 2022-04-16 | 2022-06-05 | ::{ flag=ID }:: [salym](https://osu.ppy.sh/users/19089549) | ::{ flag=ID }:: [WeebReen](https://osu.ppy.sh/users/10129901) | ::{ flag=ID }:: [N\_jaaayy](https://osu.ppy.sh/users/17787564) |
 
 #### Ausu!Taiko Tournament
 
