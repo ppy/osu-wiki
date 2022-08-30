@@ -18,7 +18,7 @@ As always, a wealth of information can be accessed via the [star rating](https:/
 As a reminder of the various core values in the difficulty calculation algorithm:
 
 - **Aim**: how difficult it is to consistently hit notes back-to-back (affected by approach rate, jumps, Hidden, Hard Rock and more)
-- **Speed**: how quickly new elements are presented to the player (affected by note density, BPM, Double Time and Half Time)
+- **Speed**: how quickly new elements occur to the player (affected by note density, BPM, Double Time and Half Time)
 - **Accuracy**: how difficult it is to stay rhythmically on time (affected by Hidden, Hard Rock, Flashlight and more)
 - **Flashlight**: how difficult it is to memorise and hit every object in a map with the Flashlight mod enabled
 - **Strain**: the difficulty of enduring intense or technically demanding patterns often and for a long time (affected by streams, fast jumps and more)
