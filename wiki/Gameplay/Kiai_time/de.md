@@ -12,7 +12,7 @@ tags:
 
 **Kiai-Zeit** (oder *Kiai*) ist ein Begriff, der für eine "spezielle" Timing-Sektion genutzt wird, um einen Teil einer [Beatmap](/wiki/Beatmap) besser zu betonen. Spieler können erkennen, ob eine Beatmap eine Kiai-Timing-Sektion hat, wenn sie zusätzliche visuelle Effekte im Hintergrund sehen (z. B. aufleuchtende Beats, fliegende Sterne und Fontänen).
 
-Während Kiai aktiv ist, leuchten alle [Hit-Objekte](/wiki/Hit_object) im Rhythmus des [Haupttakts](/wiki/Client/Beatmap_editor/Timing) auf und Sterne explodieren in der Nähe des Cursors, sobald ein [Hit-Circle](/wiki/Hit_object/Hit_circle) getroffen wurde. Anderweitig fallen sie vom Cursor herunter, wenn ein [Slider](/wiki/Hit_object/Slider) oder [Spinner](/wiki/Hit_object/Spinner) betätigt wurde.
+Während Kiai aktiv ist, leuchten alle [Hit-Objekte](/wiki/Hit_object) im Rhythmus des [Haupttakts](/wiki/Client/Beatmap_editor/Timing) auf und Sterne schießen aus dem Cursor heraus, sobald ein [Hit-Circle](/wiki/Hit_object/Hit_circle) getroffen wurde. Anderweitig fallen sie vom Cursor herunter, wenn ein [Slider](/wiki/Hit_object/Slider) gehalten oder ein [Spinner](/wiki/Hit_object/Spinner) gedreht wurde.
 
 ## Beatmapping
 
