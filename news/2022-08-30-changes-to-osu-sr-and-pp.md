@@ -5,7 +5,7 @@ date: 2022-08-30 12:00:00 +0000
 
 ---
 
-Exciting times ahead as a new wave of difficulty calculation changes reach the shores of the osu! game mode! 
+Exciting times ahead as a new wave of difficulty calculation changes reach the shores of the osu! game mode!
 
 The time for changes has arrived yet again. Developers have been hard at work since the [last wave of changes](https://osu.ppy.sh/home/news/2021-11-09-performance-points-star-rating-updates) to improve the accuracy of difficulty calculations, and to address community concerns. This newspost will explore the list of changes, explaining things along the way and informing you - the lovely player!
 
@@ -27,7 +27,7 @@ As a reminder of the various core values in the difficulty calculation algorithm
 
 Currently, performance calculation treats every object in a map equally when weighing accuracy. Maps which feature a lot of filler notes between tough sections unfairly benefit from this, as accuracy will be scaled across the whole map rather than only on the difficult sections. This is now going to change, following [a change](https://github.com/ppy/osu/pull/15035) administered by [emu1337](https://osu.ppy.sh/users/2185987)!
 
-The number of notes that are considered difficult by Speed calculations will now be counted. Accuracy will then be scaled by the average between this count and the overall object count. This means that for those maps with filler, the punishment from 100s/50s/misses will now be more accurate. The averaging is done for the sake of leniency - using the Speed count alone resulted in values that were too harsh in testing.  
+The number of notes that are considered difficult by Speed calculations will now be counted. Accuracy will then be scaled by the average between this count and the overall object count. This means that for those maps with filler, the punishment from 100s/50s/misses will now be more accurate. The averaging is done for the sake of leniency - using the Speed count alone resulted in values that were too harsh in testing.
 
 ### Remove non-overlapping velocity change bonus from Aim
 
@@ -55,7 +55,7 @@ The change may be easier digested an interactive graphical form, so feel free to
 
 ### Flashlight changes
 
-The incredible illuminator [MBmasher](https://osu.ppy.sh/users/4498616) continues his focused efforts on improving Flashlight difficulty calculation, yielding a series of changes to the Flashlight skill that was introduced in the last deployment. 
+The incredible illuminator [MBmasher](https://osu.ppy.sh/users/4498616) continues his focused efforts on improving Flashlight difficulty calculation, yielding a series of changes to the Flashlight skill that was introduced in the last deployment.
 
 #### Hit object opacity
 
