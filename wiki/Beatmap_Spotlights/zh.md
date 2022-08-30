@@ -64,14 +64,14 @@ tags:
 - ::{ flag=CA }:: **[SadEgg](https://osu.ppy.sh/users/10278243)**
 - ::{ flag=RU }:: [Nelly](https://osu.ppy.sh/users/4741164)
 - ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)
+- ::{ flag=CA }:: [WadBot](https://osu.ppy.sh/users/14571181)
 - ::{ flag=US }:: [wonjae](https://osu.ppy.sh/users/5032045)
+- ::{ flag=CA }:: [wwwww](https://osu.ppy.sh/users/8434466)
 
 ### osu!mania 策展人
 
 - ::{ flag=AU }:: **[Crumpey](https://osu.ppy.sh/users/3518705)**
 - ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773)
-- ::{ flag=KR }:: [Aruel](https://osu.ppy.sh/users/3984370)
-- ::{ flag=TH }:: [HowToPlayLN](https://osu.ppy.sh/users/10879600)
 - ::{ flag=GB }:: [Hydria](https://osu.ppy.sh/users/808176)
 - ::{ flag=MY }:: [Kibitz](https://osu.ppy.sh/users/7418493)
 - ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573)
@@ -116,14 +116,14 @@ tags:
 
 | 徽章 | 段位 | 排名 |
 | :-: | :-- | :-- |
-| ![](img/badges/spring_2022/osu/ri_1.png) ![](img/badges/spring_2022/osu/ri_2.png) | 人韵合一（Rhythm Incarnate） | 赛季最佳玩家 |
-| ![](img/badges/spring_2022/osu/diamond_1.png) ![](img/badges/spring_2022/osu/diamond_2.png) | 钻石（Diamond） | 3% |
-| ![](img/badges/spring_2022/osu/platinum_1.png) ![](img/badges/spring_2022/osu/platinum_2.png) | 铂金（Platinum） | 3% – 10% |
-| ![](img/badges/spring_2022/osu/gold_1.png) ![](img/badges/spring_2022/osu/gold_2.png) | 黄金（Gold） | 10% – 25% |
-| ![](img/badges/spring_2022/osu/silver_1.png) ![](img/badges/spring_2022/osu/silver_2.png) | 白银（Silver） | 25% – 50% |
-| ![](img/badges/spring_2022/osu/bronze_1.png) ![](img/badges/spring_2022/osu/bronze_2.png) | 青铜（Bronze） | 50% – 70% |
-| ![](img/badges/spring_2022/osu/copper_1.png) ![](img/badges/spring_2022/osu/copper_2.png) | 黄铜（Copper） | 70% – 95% |
-| ![](img/badges/spring_2022/osu/iron_1.png) ![](img/badges/spring_2022/osu/iron_2.png) | 黑铁（Iron） | 95% – 100% |
+| ![](img/badges/summer_2022/osu/ri_1.png) ![](img/badges/summer_2022/osu/ri_2.png) | 人韵合一（Rhythm Incarnate） | 赛季最佳玩家 |
+| ![](img/badges/summer_2022/osu/diamond_1.png) ![](img/badges/summer_2022/osu/diamond_2.png) | 钻石（Diamond） | 3% |
+| ![](img/badges/summer_2022/osu/platinum_1.png) ![](img/badges/summer_2022/osu/platinum_2.png) | 铂金（Platinum） | 3% – 10% |
+| ![](img/badges/summer_2022/osu/gold_1.png) ![](img/badges/summer_2022/osu/gold_2.png) | 黄金（Gold） | 10% – 25% |
+| ![](img/badges/summer_2022/osu/silver_1.png) ![](img/badges/summer_2022/osu/silver_2.png) | 白银（Silver） | 25% – 50% |
+| ![](img/badges/summer_2022/osu/bronze_1.png) ![](img/badges/summer_2022/osu/bronze_2.png) | 青铜（Bronze） | 50% – 70% |
+| ![](img/badges/summer_2022/osu/copper_1.png) ![](img/badges/summer_2022/osu/copper_2.png) | 黄铜（Copper） | 70% – 95% |
+| ![](img/badges/summer_2022/osu/iron_1.png) ![](img/badges/summer_2022/osu/iron_2.png) | 黑铁（Iron） | 95% – 100% |
 
 `人韵合一` 段位的玩家数量是根据该赛季的参与人数和其他段位的规模手动挑选的，但在大多数情况下为前 2 - 50 名。
 

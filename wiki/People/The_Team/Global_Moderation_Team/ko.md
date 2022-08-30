@@ -83,7 +83,6 @@ Global Moderation Team은 채팅 채널과 포럼의 쾌적한 운용을 책임�
 | ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) | 스웨덴어, 스페인어 | 채팅 관리 |
 | ::{ flag=IT }:: [Seijiro](https://osu.ppy.sh/users/2581696) | 이탈리아어, 루마니아어 | 채팅 관리 |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | 프랑스어, 스페인어 | 채팅 관리 |
-| ::{ flag=SG }:: [Shoegazer](https://osu.ppy.sh/users/2520707) | 포르투갈어 | 매핑/모딩 커뮤니티 관리 |
 | ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) | 인도네시아어 | 채팅 관리 |
 | ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | 인도네시아어, 일부 베트남어 | 채팅 관리 |
 | ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) | 중국어 | 채팅 관리 |

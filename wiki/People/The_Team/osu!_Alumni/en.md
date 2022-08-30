@@ -197,6 +197,7 @@ The [osu! Alumni group page](https://osu.ppy.sh/groups/16) lists all of the memb
 | ::{ flag=FR }:: [shARPII](https://osu.ppy.sh/users/776257) | Chat Moderator, GMT |
 | ::{ flag=US }:: [Shinde](https://osu.ppy.sh/users/103282) | MAT |
 | ::{ flag=CA }:: [Shinxyn](https://osu.ppy.sh/users/13996) | BAT |
+| ::{ flag=SG }:: [Shoegazer](https://osu.ppy.sh/users/2520707) | GMT |
 | ::{ flag=AR }:: [Shockwave](https://osu.ppy.sh/users/251631) | GMT |
 | ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | GMT |
 | ::{ flag=US }:: [Skyripper](https://osu.ppy.sh/users/31803) | GMT |
@@ -223,6 +224,7 @@ The [osu! Alumni group page](https://osu.ppy.sh/groups/16) lists all of the memb
 | ::{ flag=FR }:: [Tommay](https://osu.ppy.sh/users/3132818) | GMT |
 | ::{ flag=AU }:: [tsububu](https://osu.ppy.sh/users/61) | BAT |
 | ::{ flag=TH }:: [Tyistiana](https://osu.ppy.sh/users/1421452) | NAT |
+| ::{ flag=CL }:: [Uberzolik](https://osu.ppy.sh/users/1314547) | NAT |
 | ::{ flag=PL }:: [Ukami](https://osu.ppy.sh/users/820865) | Chat Moderator, GMT |
 | ::{ flag=TR }:: [UnderminE](https://osu.ppy.sh/users/444223) | Chat Moderator |
 | ::{ flag=NL }:: [Uni](https://osu.ppy.sh/users/617106) | GMT |

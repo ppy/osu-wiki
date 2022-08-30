@@ -1,12 +1,10 @@
----
-outdated_translation: true
----
-
 # osu! Alumni
 
-Los **osu! Alumni** son miembros retirados o inactivos que realizaron importantes contribuciones durante su estancia. Si se tuviesen recursos disponibles, erigiríamos estatuas para cada miembro en la plaza de la ciudad. [Link](https://osu.ppy.sh/groups/16)
+Los **osu! Alumni** son miembros retirados o inactivos que realizaron importantes contribuciones durante su estancia. Si se tuviesen recursos disponibles, erigiríamos estatuas para cada miembro en la plaza de la ciudad.
 
-| Nombre | Epitafio |
+La [pagina del grupo osu! Alumni](https://osu.ppy.sh/groups/16) menciona a todos los miembros.
+
+| Nombre | Funciones pasadas |
 | :-- | :-- |
 | ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596) | BAT, GMT |
 | ::{ flag=ID }:: [-SiN-](https://osu.ppy.sh/users/10560) | Moderador del chat |
@@ -88,7 +86,7 @@ Los **osu! Alumni** son miembros retirados o inactivos que realizaron importante
 | ::{ flag=JP }:: [Guy](https://osu.ppy.sh/users/91738) | BAT, moderador del chat, QAT |
 | ::{ flag=RU }:: [h3k1ru](https://osu.ppy.sh/users/291211) | GMT |
 | ::{ flag=NL }:: [happy30](https://osu.ppy.sh/users/27767) | BAT |
-| ::{ flag=US }:: [HappyStick](https://osu.ppy.sh/users/256802) | Torneos |
+| ::{ flag=US }:: [HappyStick](https://osu.ppy.sh/users/256802) | Gestor de torneos |
 | ::{ flag=MY }:: [HeatKai](https://osu.ppy.sh/users/332555) | BAT, moderador del chat |
 | ::{ flag=TR }:: [heyronii](https://osu.ppy.sh/users/5642779) | GMT |
 | ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323) | GMT |
@@ -106,7 +104,7 @@ Los **osu! Alumni** son miembros retirados o inactivos que realizaron importante
 | ::{ flag=US }:: [James2250](https://osu.ppy.sh/users/16978) | GMT |
 | ::{ flag=GB }:: [jericho2442](https://osu.ppy.sh/users/88904) | BAT |
 | ::{ flag=CA }:: [jonathanlfj](https://osu.ppy.sh/users/270377) | BAT |
-| ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | Torneos |
+| ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | Gestor de torneos |
 | ::{ flag=MX }:: [Kai](https://osu.ppy.sh/users/4537) | BAT |
 | ::{ flag=CA }:: [karterfreak](https://osu.ppy.sh/users/1031958) | GMT, creador de osu!media |
 | ::{ flag=KR }:: [Kawayi Rika](https://osu.ppy.sh/users/596298) | BAT |
@@ -197,6 +195,7 @@ Los **osu! Alumni** son miembros retirados o inactivos que realizaron importante
 | ::{ flag=FR }:: [shARPII](https://osu.ppy.sh/users/776257) | Moderador del chat, GMT |
 | ::{ flag=US }:: [Shinde](https://osu.ppy.sh/users/103282) | MAT |
 | ::{ flag=CA }:: [Shinxyn](https://osu.ppy.sh/users/13996) | BAT |
+| ::{ flag=SG }:: [Shoegazer](https://osu.ppy.sh/users/2520707) | GMT |
 | ::{ flag=AR }:: [Shockwave](https://osu.ppy.sh/users/251631) | GMT |
 | ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | GMT |
 | ::{ flag=US }:: [Skyripper](https://osu.ppy.sh/users/31803) | GMT |
@@ -223,12 +222,13 @@ Los **osu! Alumni** son miembros retirados o inactivos que realizaron importante
 | ::{ flag=FR }:: [Tommay](https://osu.ppy.sh/users/3132818) | GMT |
 | ::{ flag=AU }:: [tsububu](https://osu.ppy.sh/users/61) | BAT |
 | ::{ flag=TH }:: [Tyistiana](https://osu.ppy.sh/users/1421452) | NAT |
+| ::{ flag=CL }:: [Uberzolik](https://osu.ppy.sh/users/1314547) | NAT |
 | ::{ flag=PL }:: [Ukami](https://osu.ppy.sh/users/820865) | Moderador del chat, GMT |
 | ::{ flag=TR }:: [UnderminE](https://osu.ppy.sh/users/444223) | Moderador del chat |
 | ::{ flag=NL }:: [Uni](https://osu.ppy.sh/users/617106) | GMT |
 | ::{ flag=BE }:: [VeilStar](https://osu.ppy.sh/users/4255720) | GMT, equipo de soporte |
 | ::{ flag=PH }:: [vytalibus](https://osu.ppy.sh/users/10028) | BAT |
-| ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | GMT, torneos |
+| ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | GMT, gestor de torneos |
 | ::{ flag=KR }:: [Where](https://osu.ppy.sh/users/549172) | GMT |
 | ::{ flag=US }:: [whymeman](https://osu.ppy.sh/users/51994) | GMT |
 | ::{ flag=ID }:: [Winshley](https://osu.ppy.sh/users/864895) | Moderador del chat |
