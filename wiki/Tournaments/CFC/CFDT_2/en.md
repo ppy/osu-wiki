@@ -81,6 +81,29 @@ The Catch French Dual Tournament 2 is run by various community members.
 
 ## Mappools
 
+### Quarterfinals
+
+- NoMod
+  1. [Kobaryo - Cartoon Candy (Kukkai) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1704256#fruits/3482512)
+  2. [technoplanet - Secret of the Moon (Spectator) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1589377#fruits/3246414)
+  3. [ZxNX - Schadenfreude (Jemzuu) \[Sinnoh's Overdose\]](https://osu.ppy.sh/beatmapsets/1698949#fruits/3617889)
+  4. [SEPHID - Critical Cannonball (Extended ver.) (DeviousPanda) \[Zelq & Panda's Expert\]](https://osu.ppy.sh/beatmapsets/1189616#fruits/3076066)
+  5. [Jamie Christopherson - Rules of Nature (Revolver) \[AND THEY RUN WHEN THE SUN COMES UP\]](https://osu.ppy.sh/beatmapsets/1614414#fruits/3296020)
+- Hidden
+  1. [t+pazolite - Never Let me Go (Unlucky\_w) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1393508#fruits/2876730)
+  2. [EISEI - Planetarium (MARI-kun Edit) (Pennek) \[hypercyte's Expert\]](https://osu.ppy.sh/beatmapsets/1362166#fruits/3374035)
+  3. [Mitsukiyo - Unwelcome School (gazimal) \[AdveNt's Insane\]](https://osu.ppy.sh/beatmapsets/1541421#fruits/3158362)
+- HardRock
+  1. [FOMARE - Grey (rew0825) \[Rain\]](https://osu.ppy.sh/beatmapsets/1522175#fruits/3115097)
+  2. [Cartoon - Howling (feat. Asena) (Andromedik Remix) (Asphyxia) \[Altai's Insane\]](https://osu.ppy.sh/beatmapsets/1212541#fruits/2674124)
+  3. [M2U - Velocity (Gero) \[Insane\]](https://osu.ppy.sh/beatmapsets/593883#fruits/1256329)
+- DoubleTime
+  1. [Amaranthe - Hunger (Chatie) \[AFB's Platter\]](https://osu.ppy.sh/beatmapsets/1425623#fruits/3002085)
+  2. [bj.HaLo - Ende (ZiRoX) \[Platter\]](https://osu.ppy.sh/beatmapsets/188401#fruits/744230)
+  3. [Igorrr - Double Monk (Sieg) \[Hard\]](https://osu.ppy.sh/beatmapsets/180657#fruits/434022)
+- Tiebreaker
+  1. **[FATE GEAR - Headless Goddess (Secre) \[Untouched Dream\]](https://osu.ppy.sh/beatmapsets/1634659#fruits/3336413)**
+
 ### Round of 16
 
 **[Download the mappack here! (86 MB)](https://mega.nz/file/X5FkVICS#F3Zfl4Q2uzGZKw5W1yXKJPQcnk8JGMFydTYqh5vrySs)**
