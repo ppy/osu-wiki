@@ -47,7 +47,7 @@ This system created by morth1, consisted of assuming a 2 finger kddk full altern
 
 As well as this, specific nerfs for specfic patterns were implemented within a 'cheese detector', which was something that the osu!taiko pp committee wanted to stay away from. As such, a policy for the all the new reworks under our wing was formed.
 
-**Never nerf a specific playstyle or pattern solely for a lack of particular reason.*
+**Never nerf a specific playstyle or pattern solely for a lack of particular reason.**
 
 #### The new system of Stamina
 
