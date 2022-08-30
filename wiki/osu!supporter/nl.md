@@ -44,6 +44,7 @@ Gebruikersnamen van actieve supporters zijn felgeel in de chat voor andere gebru
 Supporters krijgen een niew profielsectie genaamd `ik!`, ook wel "userpage" genoemd. De userpage dient als een persoonlijke gedeelte op je profiel, waar tekst geformatteerd wordt met [BBCode](/wiki/BBCode).
 
 De `ik!` sectie kan een goede plek zijn voor:
+
 - Banners, samenwerkingen en/of informatie om je profiel leuker te maken
 - Een paar paragrafen of dingen die inzicht geven in een spelers leven
 - Een showcase van favoriete mappen, mappers of iets dergelijks dat de speler belangrijk vindt
@@ -91,7 +92,7 @@ osu! biedt meer gerelaxte limieten van online functies voor supporters:
 
 ### Extra skinnable elementen
 
-na het verkrijgen van osu!supporter, worden sommige visuele en auditieve elementen van de osu! interface skinnable:
+Na het verkrijgen van osu!supporter, worden sommige visuele en auditieve elementen van de osu! interface skinnable:
 
 | Element | Description |
 | :-- | :-- |
