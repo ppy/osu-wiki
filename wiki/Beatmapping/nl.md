@@ -1,6 +1,6 @@
 # Beatmapping
 
-Beatmapping is het proces van het maken van [beatmaps](/wiki/Beatmap) in osu! voor spelers om te spelen. Dit proces bestaat uit het kiezen van een song, [timing](/wiki/Client/Beatmap_editor/Timing), het plaatsen van [objecten](/wiki/Hit_object) en (optioneel) skinnen en [storyboarden](/wiki/Storyboard#storyboarding).
+Beatmapping is het proces van het maken van [beatmaps](/wiki/Beatmap) in osu! voor spelers om te spelen. Dit proces bestaat uit het kiezen van een song, [timing](/wiki/Client/Beatmap_editor/Timing), het plaatsen van [objecten](/wiki/Hit_object) en (optioneel) skinnen en [storyboarden](/wiki/Storyboard).
 
 Mappers hebben vaak als doel om hun beatmaps [ranked](/wiki/Beatmap) te krijgen. Wat betekent dat ze door de [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure) moeten.
 
@@ -37,6 +37,6 @@ Het compose tabblad in de beatmap editor is waar je waarschijnlijk het meeste ti
 
 ### Design
 
-*Hoofdpagina: [Design](/wiki/Client/Beatmap_editor/Design) en [Storyboarding](/wiki/Storyboard#storyboarding)*
+*Hoofdpagina: [Design](/wiki/Client/Beatmap_editor/Design) en [Storyboarding](/wiki/Storyboard)*
 
 Het design tabblad in de beatmap editor is waar je de beatmap's achtergrond kan aanpassen, videos kunt toevoegen en/of een eenvoudige storyboard kunt maken. Afhankelijk van wat je doet, zal je veel tijd doorbrengen in het design tabblad of juist helemaal niet, als je [SBS](/wiki/Storyboard/Scripting) (storyboard scripting) doet.
