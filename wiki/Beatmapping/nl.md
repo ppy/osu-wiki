@@ -40,4 +40,3 @@ Het compose tabblad in de beatmap editor is waar je waarschijnlijk het meeste ti
 *Hoofdpagina: [Design](/wiki/Client/Beatmap_editor/Design) en [Storyboarding](/wiki/Storyboard#storyboarding)*
 
 Het design tabblad in de beatmap editor is waar je de beatmap's achtergrond kan aanpassen, videos kunt toevoegen en/of een eenvoudige storyboard kunt maken. Afhankelijk van wat je doet, zal je veel tijd doorbrengen in het design tabblad of juist helemaal niet, als je [SBS](/wiki/Storyboard/Scripting) (storyboard scripting) doet.
-
