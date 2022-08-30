@@ -1,7 +1,6 @@
 ---
 tags:
   - wiki standards
-  - 위키 표준
 ---
 
 # 기사 스타일링 기준
