@@ -83,7 +83,7 @@ osu! propose aux supporters des limites plus souples sur diverses fonctionnalit�
 
 | Valeur | Limite normale | Limite osu!supporter |
 | :-- | :-: | :-: |
-| [Beatmaps en attente](/wiki/Beatmap/Category#work-in-progress-et-en-attente) | `2 + min(beatmaps classées, 6)`, jusqu'à **8**[^pending-beatmaps-ref] | `8 + min(beatmaps classées, 12)`, jusqu'à **20**[^pending-beatmaps-ref] |
+| [Beatmaps en attente](/wiki/Beatmap/Category#work-in-progress-et-en-attente) | `4 + min(beatmaps classées, 4)`, jusqu'à **8**[^pending-beatmaps-ref] | `8 + min(beatmaps classées, 12)`, jusqu'à **20**[^pending-beatmaps-ref] |
 | Beatmap favorites en ligne | 100 | 1000 |
 | Nombre d'amis | 250 | 500 |
 
