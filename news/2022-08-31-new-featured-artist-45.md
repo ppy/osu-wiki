@@ -86,7 +86,7 @@ Relive [OWC 2021's QF DT pick](https://osu.ppy.sh/beatmapsets/1616029) hosted by
 Learn low-BPM streams with [this osu! map](https://osu.ppy.sh/beatmapsets/845441) hosted by [Dada](https://osu.ppy.sh/users/9119507)!
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/297/Enri%20Edo%2F-45%20-%20Yomotsu%20Hirasaka%20CORRUPTION.mp3" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/297/Enri%20Edo/-45%20-%20Yomotsu%20Hirasaka%20CORRUPTION.mp3?2022" type="audio/mpeg">
 </audio>
 
 ### Totenblume
