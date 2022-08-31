@@ -83,7 +83,7 @@ Relive [OWC 2021's QF DT pick](https://osu.ppy.sh/beatmapsets/1616029) hosted by
 
 ### Yomitsu Harasaka CORRUPTION
 
-Learn low BPM streams with [this osu! map](https://osu.ppy.sh/beatmapsets/845441) hosted by [Dada](https://osu.ppy.sh/users/9119507)!
+Learn low-BPM streams with [this osu! map](https://osu.ppy.sh/beatmapsets/845441) hosted by [Dada](https://osu.ppy.sh/users/9119507)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/297/Enri%20Edo%2F-45%20-%20Yomotsu%20Hirasaka%20CORRUPTION.mp3" type="audio/mpeg">
@@ -99,7 +99,7 @@ Check out [this map](https://osu.ppy.sh/beatmapsets/1668922) hosted by [Stick2Gl
 
 ### Total Eclipse of The Sun
 
-End your **-45** session with [this brand new osu! map](https://osu.ppy.sh/beatmapsets/1782707) hosted by [Matrix](https://osu.ppy.sh/users/5052899) or [this osu!catch map](https://osu.ppy.sh/beatmapsets/1826327) hosted by [Deif](https://osu.ppy.sh/users/318565)!
+End your **-45** session with [this brand-new osu! map](https://osu.ppy.sh/beatmapsets/1782707) hosted by [Matrix](https://osu.ppy.sh/users/5052899) or [this osu!catch map](https://osu.ppy.sh/beatmapsets/1826327) hosted by [Deif](https://osu.ppy.sh/users/318565)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/297/Sunfleur/-45%20-%20Total%20Eclipse%20of%20The%20Sun.mp3" type="audio/mpeg">
