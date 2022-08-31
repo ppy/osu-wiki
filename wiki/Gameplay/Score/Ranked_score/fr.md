@@ -6,7 +6,7 @@ stub: true
 
 *Pour d'autres utilisations, voir [Score (disambiguation)](/wiki/Disambiguation/Score).*
 
-Le **score classé** est la somme totale des meilleurs scores pour toutes les difficultés classées jouées en ligne.
+Le **score classé** est la somme des meilleurs scores sur toutes les beatmaps classées jouées en ligne.
 
  - Historique (6 octobre 2007 - 24 juillet 2012)
 
