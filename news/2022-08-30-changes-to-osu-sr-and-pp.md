@@ -85,7 +85,7 @@ The bonus only kicks in once a slider is fast enough since slow sliders are easi
 Alongside all those big changes above, there are some changes on the smaller side of things:
 
 - [**Speed skill now measures distance correctly.**](https://github.com/ppy/osu/pull/15758) [GoldenMine](https://osu.ppy.sh/users/8058206) spotted that distance was calculated improperly since the last change, causing aim from sliders to be potentially overemphasised. This has now been corrected.
-- [**Miss count estimate is now smooth.**](https://github.com/ppy/osu/pull/16331) Previously, scores could jump from 1 miss to 2 misses within a combo but this transition is done more smoothly now, thanks to [StanR](https://osu.ppy.sh/users/7217455).
+- [**Miss count estimate is now smooth.**](https://github.com/ppy/osu/pull/16331) Previously, the miss count estimate could jump from 1 miss to 2 misses within a combo, but this transition is done more smoothly now that the estimated miss count is calculated as a decimal value, thanks to [StanR](https://osu.ppy.sh/users/7217455).
 - [**1x100 scores no longer break miss count estimate.**](https://github.com/ppy/osu/pull/19804) [StanR](https://osu.ppy.sh/users/7217455) rectified an issue where a single 100 on a score would potentially count as more than one miss.
 
 ---
