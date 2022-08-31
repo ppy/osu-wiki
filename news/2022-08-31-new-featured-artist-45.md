@@ -12,7 +12,7 @@ Famed for composing songs for *07th Expansion*'s cult classic *Umineko no Naku K
 
 There's no shortage of **-45** tunes around here. We've picked up an unfathomable **117** songs for [**-45**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/297), all of which are available for mapping until literally the end of time.
 
-It's not exactly possible to preview *every song*, but take a quick peek at **x** different songs popularized on osu! through this video, then play through the corresponding maps below:
+It's not exactly possible to preview *every song*, but take a quick peek at **9** different songs popularized on osu! through this video, then play through the corresponding maps below:
 
 <div align="center">
     <video width="100%" controls>
