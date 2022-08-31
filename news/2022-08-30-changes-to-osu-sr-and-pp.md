@@ -9,7 +9,7 @@ Exciting times ahead as a new wave of difficulty calculation changes reach the s
 
 The time for changes has arrived yet again. Developers have been hard at work since the [last wave of changes](https://osu.ppy.sh/home/news/2021-11-09-performance-points-star-rating-updates) to improve the accuracy of difficulty calculations, and to address community concerns. This newspost will explore the list of changes, explaining things along the way and informing you - the lovely player!
 
-As always, a wealth of information can be accessed via the [star rating](https://osu.ppy.sh/wiki/en/Beatmap/Star_rating) and [performace points](https://osu.ppy.sh/wiki/en/Performance_points) wiki pages for those that want background reading.
+As always, a wealth of information can be accessed via the [star rating](https://osu.ppy.sh/wiki/en/Beatmap/Star_rating) and [performance points](https://osu.ppy.sh/wiki/en/Performance_points) wiki pages for those that want background reading.
 
 ---
 
@@ -31,7 +31,7 @@ The number of notes that are considered difficult by Speed calculations will now
 
 ### Remove non-overlapping velocity change bonus from Aim
 
-Throughout the past few months, [Lasse's Zan'ei [Illusion]](https://osu.ppy.sh/beatmapsets/1759729#osu/3601629) has had widespread community attention thanks to it's abuse of the newly introduced velocity change buff. Coupled together with the wide angle bonus, the result is a notoriously overweight map that has found it's way into ~31% of all 5 digit player's top plays.
+Throughout the past few months, [Lasse's Zan'ei [Illusion]](https://osu.ppy.sh/beatmapsets/1759729#osu/3601629) has had widespread community attention thanks to its abuse of the newly introduced velocity change buff. Coupled together with the wide angle bonus, the result is a notoriously overweighted map that has found its way into ~31% of all 5 digit players' top plays.
 
 Fixing this was a high priority task, so [this proposal](https://github.com/ppy/osu/pull/19004) to remove the non-overlapping segment of the velocity change buff was approved. This fixes maps such as Zan'ei, but it unfortunately nerfs maps that genuinely benefited from the buff such as [eiri-'s Trance Dance Anarchy [Don't Look Back]](https://osu.ppy.sh/beatmapsets/1124084#osu/2348869). This is an unfortunate but necessary side effect, and rebuffing these maps is considered high priority in the future.
 
@@ -49,9 +49,9 @@ A general balancing pass, mostly for performance points calculation, was applied
 
 It's extremely rare that maps need to be disqualified and put on hold from getting to the Ranked section because of pp abuse, however push came to shove a few months ago when [pewdekz's POSSESSION mapset](https://osu.ppy.sh/beatmapsets/1691083#osu/3455732) was [held back forcefully by NAT](https://osu.ppy.sh/beatmapsets/1691083/discussion/-/generalAll#/3020552). The map features incredibly quick doubles that can be easily doubletapped, and as consequence of the Speed cap removal in the previous group of changes, they were considered much harder than they were. This is now due to improve, as per [this change](https://github.com/ppy/osu/pull/18692) by [Apo11o](https://osu.ppy.sh/users/9558549)!
 
-The system is now based on comparing the 300 hitwindow size to the time between previous and current object, and whether the player has enough breathing room after the current note to be able to comfortably double tap in the first place. Being able to access the next note has only been recently possible through a refactor effort, hence why this wasn't done in the first place.
+The system is now based on comparing the 300 hitwindow size to the time between the previous and the current object, and whether the player has enough breathing room after the current note to be able to comfortably double tap in the first place. Being able to access the next note has only been recently possible through a refactor effort, hence why this wasn't done in the first place.
 
-The change may be easier digested an interactive graphical form, so feel free to play around with [a Desmos implementation of the system](https://www.desmos.com/calculator/zl1hfqd9hm).
+The change may be more easily digestible in an interactive graphical form, so feel free to play around with [a Desmos implementation of the system](https://www.desmos.com/calculator/zl1hfqd9hm).
 
 ### Flashlight changes
 
@@ -61,7 +61,7 @@ The incredible illuminator [MBmasher](https://osu.ppy.sh/users/4498616) continue
 
 The opacity of an object plays a large role in Flashlight difficulty, since it can be the line between reading and memorising the object. With [this proposal](https://github.com/ppy/osu/pull/15665), the opacity of a hit object is a factor in Flashlight difficulty.
 
-An object's opacity is affected by it's Approach Rate and whether the Hidden mod is applied. A low Approach Rate coupled with Hidden means that objects can be invisible for a significant amount of time, and a very high Approach Rate (especially ones found with DT) means that an object is visible for barely any time at all. Both of these scenarios now apply a bonus to Flashlight difficulty!
+An object's opacity is affected by its Approach Rate and whether the Hidden mod is applied. A low Approach Rate coupled with Hidden means that objects can be invisible for a significant amount of time, and a very high Approach Rate (especially ones found with DT) means that an object is visible for barely any time at all. Both of these scenarios now apply a bonus to Flashlight difficulty!
 
 **Note that adding Hidden to Flashlight will now affect Star Rating.**
 
@@ -73,15 +73,15 @@ Throughout the development process for the Flashlight changes, a number of grid-
 
 #### Slider bonus
 
-Fast and long sliders introduce additional difficulty to Flashlight play, so a slider bonus is [now applied](https://github.com/ppy/osu/pull/15666)! The length of a slider wasn't considered at all up till now.
+Fast and long sliders introduce additional difficulty to Flashlight play, so a slider bonus is [now applied](https://github.com/ppy/osu/pull/15666)! The length of a slider wasn't considered at all up until now.
 
-The bonus only kicks in once a slider is fast enough since (slow sliders are easily readable), and the bonus also has a distance factor to account for longer sliders.
+The bonus only kicks in once a slider is fast enough since slow sliders are easily readable, and the bonus also has a distance factor to account for longer sliders.
 
 #### Bug fixes
 
 - [**Remove decay factor**](https://github.com/ppy/osu/pull/15728). The skill was accidentally double-dipping by having two methods of decaying objects operating simultaneously. The decay factor was removed, buffing mostly stream maps in the process.
-- [**Fix cumulative strain time calculation**](https://github.com/ppy/osu/pull/15867). One of the factors which the Flashlight skill uses to calculate memorization difficulty is the gap in time between a given object and one of it's previous objects. The calculation was incorrect and is now fixed.
-- [**Remove difficulty spike nerf**](https://github.com/ppy/osu/pull/18791). This nerf was a leftover from the Aim and Speed skill, and it didn't make sense with respect to non-mechanical difficulty skills like Flashlight so it was removed.
+- [**Fix cumulative strain time calculation**](https://github.com/ppy/osu/pull/15867). One of the factors which the Flashlight skill uses to calculate memorisation difficulty is the gap in time between a given object and one of its previous objects. The calculation was incorrect and is now fixed.
+- [**Remove difficulty spike nerf**](https://github.com/ppy/osu/pull/18791). This nerf was a leftover from the Aim and Speed skills and it didn't make much sense with respect to non-mechanical difficulty skills such as Flashlight so it was removed.
 
 ### Minor changes
 
