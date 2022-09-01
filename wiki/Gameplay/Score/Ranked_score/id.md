@@ -6,7 +6,7 @@ stub: true
 
 *Untuk penggunaan lainnya, lihat [Skor (disambiguasi)](/wiki/Disambiguation/Score).*
 
-**Skor ranked** (*ranked score*) merupakan jumlah seluruh skor terbaik yang ditorehkan pada seluruh tingkat kesulitan beatmap-beatmap Ranked yang dimainkan secara *online*.
+**Skor ranked** (*ranked score*) adalah kumpulan dari jumlah seluruh skor terbaik dari seluruh tingkat-tingkat kesulitan beatmap Ranked yang dimainkan secara *online*.
  
  - Sejarah (6 Oktober 2007 - 24 Juli 2012)
 
