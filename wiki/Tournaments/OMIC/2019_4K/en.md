@@ -8,7 +8,7 @@ tags:
 
 ![O!MIC 4K 2019 Logo](img/logo.png)
 
-**osu!mania 4K Indonesia Cup 2019** (***O!MIC 4K 2019***) was an osu!mania 4K tournament that are only limited to Indonesia with the system for the early matches with *Royal Rumble*, followed by one-to-one with *Double-Elimination bracket* in the Group Distribution Stage.
+**osu!mania 4K Indonesia Cup 2019** (***O!MIC 4K 2019***) was an osu!mania 4K tournament that was limited to Indonesia with the system for the early matches with *Royal Rumble*, followed by one-to-one with *Double-Elimination bracket* in the Group Distribution Stage.
 
 ## Tournament Schedule 
 
@@ -51,7 +51,7 @@ tags:
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/913338)
 - [Livestream](https://www.twitch.tv/omic_live)
-- [Discord Server](https://discord.gg/mPbSx2q)
+- [Discord server](https://discord.gg/mPbSx2q)
 - [Challonge bracket](https://challonge.com/omic4k2019)
 
 ## Participants 
@@ -340,10 +340,10 @@ tags:
 ## General Rules
 
 - There is no limit to the amount of participants.
-- Participant should register on the links that are already provided.
-- Flag on each participant's osu! account must be**Indonesia**.
+- Participants should register on the links that are already provided.
+- Flag on each participant's osu! account must be **Indonesia**.
 - The lowest rank for this tournament is **#5000 Country**.
-- All of the tournament staffs are not permitted to participate as a player on this tournament, except for staff that are taking the position of the following:
+- All of the tournament staff are not permitted to participate as a player on this tournament, except for staff that are taking the position of the following:
   - Streamer 
   - Commentator 
   - Designer 
@@ -355,23 +355,23 @@ tags:
 - The scoring system for this tournament is Score V2.
 - Mappool for each round will be **announced by the staff** every Sunday after the previous round is over.
 - All players should **download all maps** for the mappool before the match starts.
-- If there is no referee during the match time, please inform the **Organizer staff**.
+- If there is no referee during the match time, please inform the **organizer staff**.
 - Participants are expected to **show up on time** according to the schedule.
 - The staff can only give a delay of **10 minutes**.
-- If a player has a connection problem that they left the match, then the decision will be **determined by the referee** which is **absolute**.
+- If a player has a connection problem, the result of which is them disconnecting from the match, then the decision will be **determined by the referee** which is **absolute**.
 - Players must follow the [rules](/wiki/Rules) that has been set by the game.
 
 ### Match Regulations 
 
 - All players who follow and fulfill all the registration requirements of this tournament will enter the Qualifiers round.
 - Each lobby contains a maximum of 8 players in the Qualifiers round.
-- Players are allowes to use visual mods such as (HD), Flashlight (FL), Fade In (FI), and Mirror (MR).
+- Players are allowed to use visual mods such as (HD), Flashlight (FL), Fade In (FI), and Mirror (MR).
 - Players will play 2 maps for a warm-up session that had been selected by the player that rolled the highest.
-- **Babak Kualifikasi**
+- **Qualifiers round**
 - The maximum number of players to enter the next round is 56 players.
-- In the Qualifiers round there will be 4 maps in the mappool that have different skillsets, all of these maps will be created by the mappool selector.
+- In the Qualifiers round there will be 4 maps in the mappool that have different skillsets, all of these maps will be selected by the mappool selector.
 - All players will have 2 chances to play in each map, which means a total of 8 songs played.
-- The highest score played for each beatmap will be accounted and the Qualifiers score will be accumulated based on the comparison of scores of other players.
+- The highest score played for each beatmap will be counted and the Qualifiers score will be accumulated based on the comparison of scores of other players.
 - After the Qualifiers round ends there will be a distribution of players based on seed.
   - The function of seed is for the distribution of the next round, where players are randomized based on different seed.
   - Seed distribution based on position in the Qualifiers :
@@ -397,12 +397,12 @@ tags:
     - The Tiebreaker map will be used when players with **the second position and below have the same points** to get the 2nd place.
 - **Conditions to qualify from Group Distribution to Bracket Stage**
   - Each group consists of **4 players** and the total number of players in the entire group is **32 players**.
-  - The winning condition for the Group Distribution Stage is the player who wins the first **4 points in a match**.
+  - The winning condition for the Group Distribution Stage is being the first player to win **4 points in a match**.
   - There will be 2 out of 4 players who qualify for the next round. The final standings per group are determined from:
     - The amount of matches won by players. If it's the same, then it will be determined from:
     - The difference between the picks won by the player during the match. If it's still the same, then it will be determined from  **the highest Seed during Qualifiers**.
 - **Match Rules (Round of 32 until Grand Final)**
-  - If one of the players is not present, then the player who is present in the match will be declared **win automatically (*win by default*)**.
+  - If one of the players is not present, then the player who is present in the match will be declared **winner (*win by default*)**.
   - Before the game starts, players will roll first. Players who win in the roll can choose **to ban** first and followed by the player who lost the roll. After both players have determined the map that is banned, the player will choose the map that is going to be played.
   - If both players got the same score, then **the match will be replayed using the same map**.
   - The Tiebreaker map is played when both players get a difference of one in point with the winning points that **should have gotten** to **win the match**.
@@ -412,5 +412,5 @@ tags:
   - SemiFinal : Best of 11 (Total of 14 Maps, 1 TieBreak)
   - Final - Grand Final : Best of 13 (Total of16 Maps, 1 TieBreak)
 - Starting from the Bracket Stage, a **double elimination*** system will be applied. This system gives each player 2 opportunities to compete, with the following description:
-  - Player A beats player B. Player A will advance to the next round, and so will player B. But player B will enter the loser bracket (a special bracket for players who have already lost **one time**).
-  - If player B loses again in the loser bracket, then player B will **fall out of the tournament**.
+  - Player A beats player B. Player A will advance to the next round, and so will player B. But player B will enter the losers bracket (a special bracket for players who have already lost **one time**).
+  - If player B loses again in the losers bracket, then player B will be **eliminated from the tournament**.
