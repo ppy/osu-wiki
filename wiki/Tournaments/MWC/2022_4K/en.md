@@ -111,23 +111,23 @@ The osu!mania 4K World Cup 2022 is run by the [osu! team](/wiki/People/The_Team)
 
 | Team A | Team B | Match time |  |
 | --: | :-- | :-- | :-: |
-| Japan ::{ flag=JP }:: | ::{ flag=SG }:: Singapore | [Sep 3 (Sat) 09:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220903T093000&p1=1440&p2=248&p3=236) | [^losers-bracket] |
-| Thailand ::{ flag=TH }:: | ::{ flag=CN }:: China | [Sep 3 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220903T110000&p1=1440&p2=28&p3=33) | [^losers-bracket] |
+| Japan ::{ flag=JP }:: | ::{ flag=SG }:: Singapore | [Sep 3 (Sat) 12:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220903T123000&p1=1440&p2=248&p3=236) | [^losers-bracket] |
 | United Kingdom ::{ flag=GB }:: | ::{ flag=ID }:: Indonesia | [Sep 3 (Sat) 12:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220903T123000&p1=1440&p2=136&p3=108) | [^losers-bracket] |
+| Thailand ::{ flag=TH }:: | ::{ flag=CN }:: China | [Sep 3 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220903T150000&p1=1440&p2=28&p3=33) | [^losers-bracket] |
 
 ### Sunday, 4 September 2022
 
 | Team A | Team B | Match time |  |
 | --: | :-- | :-- | :-: |
 | United States ::{ flag=US }:: | ::{ flag=VN }:: Vietnam | [Sep 4 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220904T040000&p1=1440&p2=263&p3=95) | [^losers-bracket] |
-| Japan ::{ flag=JP }:: | ::{ flag=TH }:: Thailand | [Sep 4 (Sun) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220904T090000&p1=1440&p2=248&p3=28) | [^potential-match] |
-| Japan ::{ flag=JP }:: | ::{ flag=CN }:: China | [Sep 4 (Sun) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220904T090000&p1=1440&p2=248&p3=33) | [^potential-match] |
-| Singapore ::{ flag=SG }:: | ::{ flag=TH }:: Thailand | [Sep 4 (Sun) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220904T090000&p1=1440&p2=236&p3=28) | [^potential-match] |
-| Singapore ::{ flag=SG }:: | ::{ flag=CN }:: China | [Sep 4 (Sun) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220904T090000&p1=1440&p2=236&p3=33) | [^potential-match] |
+| Philippines ::{ flag=PH }:: | ::{ flag=KR }:: South Korea | [Sep 4 (Sun) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220904T090000&p1=1440&p2=145&p3=235) | [^winners-bracket] |
+| Vietnam ::{ flag=VN }:: | ::{ flag=ID }:: Indonesia | [Sep 4 (Sun) 10:15 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220904T101500&p1=1440&p2=95&p3=108) | [^potential-match] |
 | Vietnam ::{ flag=VN }:: | ::{ flag=GB }:: United Kingdom | [Sep 4 (Sun) 10:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220904T103000&p1=1440&p2=95&p3=136) | [^potential-match] |
-| Vietnam ::{ flag=VN }:: | ::{ flag=ID }:: Indonesia | [Sep 4 (Sun) 10:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220904T103000&p1=1440&p2=95&p3=108) | [^potential-match] |
-| Philippines ::{ flag=PH }:: | ::{ flag=KR }:: South Korea | [Sep 4 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220904T120000&p1=1440&p2=145&p3=235) | [^winners-bracket] |
+| Japan ::{ flag=JP }:: | ::{ flag=TH }:: Thailand | [Sep 4 (Sun) 12:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220904T123000&p1=1440&p2=248&p3=28) | [^potential-match] |
+| Japan ::{ flag=JP }:: | ::{ flag=CN }:: China | [Sep 4 (Sun) 12:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220904T123000&p1=1440&p2=248&p3=33) | [^potential-match] |
+| Singapore ::{ flag=SG }:: | ::{ flag=TH }:: Thailand | [Sep 4 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220904T130000&p1=1440&p2=236&p3=28) | [^potential-match] |
 | Brazil ::{ flag=BR }:: | ::{ flag=MY }:: Malaysia | [Sep 4 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220904T140000&p1=1440&p2=45&p3=122) | [^winners-bracket] |
+| Singapore ::{ flag=SG }:: | ::{ flag=CN }:: China | [Sep 4 (Sun) 14:45 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220904T144500&p1=1440&p2=236&p3=33) | [^potential-match] |
 | United States ::{ flag=US }:: | ::{ flag=ID }:: Indonesia | [Sep 4 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220904T150000&p1=1440&p2=263&p3=108) | [^potential-match] |
 | United States ::{ flag=US }:: | ::{ flag=GB }:: United Kingdom | [Sep 4 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220904T180000&p1=1440&p2=263&p3=136) | [^potential-match] |
 
