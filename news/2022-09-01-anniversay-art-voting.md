@@ -10,7 +10,7 @@ The artists of the osu! community have put forward **84** amazing pieces of fan 
 
 Sporting perhaps one of the trickiest themes we've seen so far, the 15th Anniversary Art Contest has really come out swinging. What better way to match the enthusiasm than to swing back with a vote or ten?
 
-To celebrate people not leaving the dotted osu! cookie template visible in their submissions, it has decided to do a little dance in a new and *fancy* promotional video for the contest linked below, courtesy of one pishifat. Get bopping to some tunes from [**Bundy**](https://osu.ppy.sh/beatmaps/artists/203), one of our ridiculously talented Featured Artists as you consider it all:
+To celebrate people not leaving the dotted osu! cookie template visible in their submissions, it has decided to do a little dance in a new and *fancy* promotional video for the contest linked below, courtesy of one pishifat. Get bopping to some tunes from [**Lundy**](https://osu.ppy.sh/beatmaps/artists/203), one of our ridiculously talented Featured Artists as you consider it all:
 
 <div align="center">
     <video width="90%" controls>
