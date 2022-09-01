@@ -141,7 +141,10 @@ Another cool fact: originally you could only press circles with the space bar un
 
 ## Monthly community quiz
 
-PLACEHOLDER
+Prepare for trouble! Make it double! Be the first one to correctly answer both of the questions below and receive a month of osu!supporter!
+
+- Over the course of osu! history, what player in the osu! game mode has achieved the largest total number of days as #1 on the global leaderboards, and how many days was it?
+- Back in the olden days of osu!, what specific feat players needed to perform in order to be able to call themselves Mahou Shoujo?
 
 ## Things to look out for in September
 
