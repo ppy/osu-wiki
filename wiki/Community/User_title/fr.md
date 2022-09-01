@@ -12,6 +12,8 @@ tags:
   - titres
   - couleur de l'utilisateur
   - couleurs de l'utilisateur
+outdated_translation: true
+outdated_since: fde8aa733a04647f9f0d9f7dec5186f21a4f77d5
 ---
 
 # Titre de l'utilisateur
@@ -30,7 +32,7 @@ La couleur du titre d'un utilisateur est la même que celle de l'utilisateur, qu
 
 ![Capture d'écran de la barre latérale du poste de Damnae sur l'ancien site web](img/star-shooter.png "Le titre \"Star Shooter\" se trouve au-dessus du nombre de posts de Damnae.")
 
-Sur les forums de [l'ancien site d'osu!](https://old.ppy.sh), les utilisateurs pouvaient obtenir des titres en atteignant certains seuils de nombre de posts, comme suit : 
+Sur les forums de [l'ancien site d'osu!](https://old.ppy.sh), les utilisateurs pouvaient obtenir des titres en atteignant certains seuils de nombre de posts, comme suit :
 
 | Titre du forum | Nombre total de posts |
 | :-: | :-- |

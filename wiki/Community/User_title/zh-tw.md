@@ -7,6 +7,8 @@ tags:
   - user color # these can be removed if a dedicated page for "user colour" is added
   - user colour
 no_native_review: true
+outdated_translation: true
+outdated_since: fde8aa733a04647f9f0d9f7dec5186f21a4f77d5
 ---
 
 # 使用者頭銜
