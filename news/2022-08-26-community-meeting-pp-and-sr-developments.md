@@ -18,19 +18,19 @@ Here's a brief rundown on how the community meetings will work:
 
 Below is the schedule for the community meetings. You can tune in live through the Discord stage channel, and we'll update this news post with links to the talks should they be recorded or streamed for those who can't make it.
 
-### Sunday, August 28, 2022
+### Sunday, August 28, 2022 (Completed)
 
 | Time (UTC) | Event | Reminder |
 | :-: | :-- | :-- |
-| 11:00 | osu!taiko Q&A panel | [Click me to be notified on Discord!](https://discord.com/events/188630481301012481/1011791705239978024) |
-| 13:00 | osu! Q&A panel | [Click me to be notified on Discord!](https://discord.com/events/188630481301012481/1011791915194269766) |
+| 11:00 | osu!taiko Q&A panel | Completed |
+| 13:00 | osu! Q&A panel | Completed |
 
 ### Saturday, September 3, 2022
 
 | Time (UTC) | Event | Reminder |
 | :-: | :-- | :-- |
-| 10:00 UTC | osu!mania Q&A panel | Not yet available |
-| 11:00 UTC | osu!catch Q&A panel | Not yet available |
+| 10:00 UTC | osu!mania Q&A panel | [Click me to be notified on Discord!](https://discord.gg/4De5c5hV?event=1014929895106822144) |
+| 11:00 UTC | osu!catch Q&A panel | [Click me to be notified on Discord!](https://discord.gg/4De5c5hV?event=1014930148665077800) |
 
 ---
 
