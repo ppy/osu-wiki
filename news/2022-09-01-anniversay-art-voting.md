@@ -4,7 +4,7 @@ title: "15th Anniversary Art Contest Voting Open"
 date: 2022-09-01 12:00:00 +0000
 ---
 
-The artists of the osu! community have put forward **85** amazing pieces of fan art, and with only **10** votes to go around, difficult choices lie ahead!
+The artists of the osu! community have put forward **85** amazing pieces of fan art, and with only **15** votes to go around, difficult choices lie ahead!
 
 ![](https://assets.ppy.sh/contests/153/header.jpg?1)
 
@@ -24,6 +24,6 @@ As usual, the voting will stay open for roughly **7 days** from the date of this
 
 A selection from the top voted entries will make it to the game's main menu as seasonal backgrounds, and their creators will also receive 3 months of osu!supporter. The top 3 most voted entries will additionally nab themselves profile badges made from their own artworks.
 
-Best of luck to everyone in the running, and to everyone else that has to figure out how to pick only ten of them to vote for!
+Best of luck to everyone in the running, and to everyone else that has to figure out how to pick only fifteen of them to vote for!
 
 —Ephemeral
