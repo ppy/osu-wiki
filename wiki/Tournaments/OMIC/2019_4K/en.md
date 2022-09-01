@@ -405,7 +405,7 @@ tags:
   - If one of the players is not present, then the player who is present in the match will be declared **winner (*win by default*)**.
   - Before the game starts, players will roll first. Players who win in the roll can choose **to ban** first and followed by the player who lost the roll. After both players have determined the map that is banned, the player will choose the map that is going to be played.
   - If both players got the same score, then **the match will be replayed using the same map**.
-  - The Tiebreaker map is played when both players get a difference of one in point with the winning points that **should have gotten** to **win the match**.
+  - The Tiebreaker map is played when both players have the same amount of points and 1 more point is required to **win the match** by either player.
 - **Mappools format from Group Distribution stage**
   - Group Distribution : Best of 7 (Total of 10 Maps, 1 TieBreak)
   - Round of 16 - Quarterfinal : Best of 9 (Total of 12 Maps, 1 TieBreak)
