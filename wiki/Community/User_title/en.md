@@ -47,10 +47,9 @@ Post count titles were discontinued with the release of the new osu! website.
 
 ## Trivia
 
-- User titles are referred to as "rank titles" throughout the game's code. This is a leftover name from when osu! was built on top of [phpBB](https://www.phpbb.com/).
-
 ::: Infobox
 ![](img/multiple-titles.png "VINXIS' two titles being displayed at the same time")
 :::
 
+- User titles are referred to as "rank titles" throughout the game's code. This is a leftover name from when osu! was built on top of [phpBB](https://www.phpbb.com/).
 - As of March 2021, if a user is eligible for multiple user titles, they are displayed together on their profile separated by a slash, instead of only displaying their most recent user title.<!-- VINXIS was the first person to get this treatment when he joined BN, unfortunately the tweet that shows this is deleted -->
