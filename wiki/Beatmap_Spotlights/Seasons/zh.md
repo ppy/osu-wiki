@@ -17,3 +17,4 @@ outdated_translation: true
 - [2021 春](2021_Spring)
 - [2022 冬](2022_Winter)
 - [2022 春](2022_Spring)
+- [2022 夏](2022_Summer)

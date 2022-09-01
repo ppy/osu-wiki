@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: bf0efccf8db8b9dfb5ae645549a64c0623c27052
+---
+
 # Twitter
 
 osu! có một vài tài khoản Twitter khác nhau, mỗi cái phục vụ cho mục đích cụ thể. Phần lớn trong số đó ít khi hoạt động nhưng chúng sẽ giúp bạn nắm bắt được thông tin ở ngoài hệ sinh thái osu!.
