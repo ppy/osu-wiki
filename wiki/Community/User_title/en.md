@@ -16,7 +16,7 @@ tags:
 
 A **user title** is a short label on a user's profile page set by the [osu! team](/wiki/People/The_Team). Most titles indicate membership of a [user group](/wiki/People/The_Team#user-groups), but some users have earned [more unique titles](/wiki/People/Users_with_unique_titles) for specific achievements or contributions.
 
-The colour of a user title is the same as the user's top group membership badge. If the user has no group badge, the title is white.
+The colour of a user title is the same as the user's primary group membership badge. If the user has no group badge, the title is white.
 
 ## History
 
@@ -48,8 +48,7 @@ Post count titles were discontinued with the release of the new osu! website.
 ## Trivia
 
 - User titles are referred to as "rank titles" throughout the game's code. This is a leftover name from when osu! was built on top of [phpBB](https://www.phpbb.com/).
-
-- As of March 2021, If a user is eligible to multiple user titles, they would be displayed together on their profile, separated by a slash, instead of only displaying their most recent user title. <!-- VINXIS was the first person to get this treatment when he joined BN, unfortunately the tweet that shows this is deleted -->
+- As of March 2021, if a user is eligible for multiple user titles, they are displayed together on their profile separated by a slash, instead of only displaying their most recent user title.<!-- VINXIS was the first person to get this treatment when he joined BN, unfortunately the tweet that shows this is deleted -->
 ::: Infobox
 ![](img/multiple-titles.png "VINXIS' two titles being displayed at the same time")
 :::
