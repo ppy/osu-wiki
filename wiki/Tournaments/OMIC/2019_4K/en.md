@@ -374,7 +374,7 @@ tags:
 - The highest score played for each beatmap will be counted and the Qualifiers score will be accumulated based on the comparison of scores of other players.
 - After the Qualifiers round ends there will be a distribution of players based on seed.
   - The function of seed is for the distribution of the next round, where players are randomized based on different seed.
-  - Seed distribution based on position in the Qualifiers :
+  - Seed distribution is based on the player's position in the Qualifiers:
     - 1 - 16: Top Seed
     - 17 - 32: High Seed
     - 33 - 48: Medium Seed
