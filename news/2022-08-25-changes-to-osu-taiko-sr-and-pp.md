@@ -6,6 +6,7 @@ date: 2022-08-25 12:00:00 +0000
 
 It's no secret that osu!taiko star rating is overdue for a rework. Thanks to your responses in the community survey, we are now ready to unveil a series of planned updates and improvements to how difficulty is evaluated in the osu!taiko game mode!
 ![](/wiki/shared/news/2022-08-25-changes-to-osu-taiko-star-rating-part-1/star-rating.jpg)
+
 This effort was led by the newly formed [osu!taiko pp committee](/wiki/People/Performance_Points_Committee), in response to the results of the [osu!taiko SR and PP community survey](https://osu.ppy.sh/home/news/2022-02-07-taiko-mania-survey-results) held earlier this year. We are responsible for reviewing all changes regarding star rating or performance points in the osu!taiko game mode. This newly formed team is broken into two parts, with [vun](https://osu.ppy.sh/users/6932501) and [ltca](https://osu.ppy.sh/users/11475208) leading the development of the new rework, with [mangomizer](https://osu.ppy.sh/users/1893718) and [Horiiizon](https://osu.ppy.sh/users/8071438) providing the backing for the community organisation and feedback.
 
 These changes aim to change Star Rating and Performance Points in a way that more accurately reflects the true difficulty of a map, no matter the skillset or playstyle, in contrast to previously where Star Rating's intention was to reflect true difficulty for very specific maps and to target and nerf other specific types of maps, mainly maps with cheesable patterns.
@@ -26,9 +27,9 @@ If you would like to know more about the changes posted, or for more concise inf
 
 ## An insight into the base of the new rework
 
-The previous rework effort aimed to the tackle all three skills at once. This not only made it difficulty to collect meaningful and targetted feedback, but halted continuous development efforts. To combat this, the osu!taiko pp committee developers ([vun](https://osu.ppy.sh/users/6932501) and [ltca](https://osu.ppy.sh/users/11475208)) opted for a more modular approach, tackling the new changes one stage at a time, in hopes for being able to fix reported issues one stage at a time. 
+The previous rework effort aimed to the tackle all three skills at once. This not only made it difficulty to collect meaningful and targetted feedback, but halted continuous development efforts. To combat this, the osu!taiko pp committee developers ([vun](https://osu.ppy.sh/users/6932501) and [ltca](https://osu.ppy.sh/users/11475208)) opted for a more modular approach, tackling the new changes one stage at a time, in hopes for being able to fix reported issues one stage at a time.
 
-Moving forward, osu!taiko star rating will be receiving numerous amounts of changes, potentially placing star rating and performance points in a state of flux, particularly over the coming months. During this time, we have been and will continue to work on other difficulty components (both small and large-scale) in preparation for future releases. This is generally desirable as we would want difficulty to accurately reflect the latest trends, but we understand and apologise if this may bring some unintended complications or frustrations, especially in the short term. 
+Moving forward, osu!taiko star rating will be receiving numerous amounts of changes, potentially placing star rating and performance points in a state of flux, particularly over the coming months. During this time, we have been and will continue to work on other difficulty components (both small and large-scale) in preparation for future releases. This is generally desirable as we would want difficulty to accurately reflect the latest trends, but we understand and apologise if this may bring some unintended complications or frustrations, especially in the short term.
 
 In this Star Rating sector of the rework, we have re-evaluated and essentially rewritten the stamina and colour skills, introducing fancy new concepts and infrastructure to the complex calculations that you see as Star Rating.
 
@@ -50,12 +51,10 @@ As well as this, specific nerfs for specfic patterns were implemented within a '
 
 #### The new system of Stamina
 
-In this section, the keybinds relating to the two colours found within osu!taiko are named k<sup>1</sup>, k<sup>2</sup> and d<sup>1</sup>, d<sup>2</sup>. 
+In this section, the keybinds relating to the two colours found within osu!taiko are named k<sup>1</sup>, k<sup>2</sup> and d<sup>1</sup>, d<sup>2</sup>.
 
 - Instead of assuming a full-alternate play style, we assume that **each note of the same colour is always alternated.** For example, for the pattern kdkdkd, we assume the kat's will be hit by **k<sup>1</sup>** d<sup>1</sup> d<sup>2</sup> **k<sup>2</sup>** d<sup>1</sup> d<sup>2</sup> **k<sup>1</sup>**, and the don's will be hit by k<sup>1</sup> **d<sup>1</sup> d<sup>2</sup>** k<sup>2</sup> **d<sup>1</sup> d<sup>2</sup>** k<sup>2</sup>.
-
-- The reason for this is to assume the best case scenario for repeated keystrokes regardless of play style. In other words, it aims to approximate the theoretical minimum stamina required to play a given pattern with any playstyle, with any theoretically rollable pattern being rolled. We can’t (feasibly), nor is it desired to, detect playstyles, so we assume the case that requires the least physical repetition, which is to switch keys each time a colour is to be hit, and each play style will have their respective weaknesses. 
-
+- The reason for this is to assume the best case scenario for repeated keystrokes regardless of play style. In other words, it aims to approximate the theoretical minimum stamina required to play a given pattern with any playstyle, with any theoretically rollable pattern being rolled. We can’t (feasibly), nor is it desired to, detect playstyles, so we assume the case that requires the least physical repetition, which is to switch keys each time a colour is to be hit, and each play style will have their respective weaknesses.
 - The combined of these changes also helps with the cases where specific playstyles or patterns were nerfed in the previous rework, as we don't detect any patterns, just the pure stamina requirement for each map.
 
 ### Readdressing Colour
@@ -78,15 +77,15 @@ The difficulty value of colour can now be calculated using this new encoding inf
 
 ### Calculating the final result
 
-Given the four skills briefly described above (stamina, rhythm and colour), their strain values are combined into one final Star Rating value. Previously done in two ways, this is now done in one ways - via the new *peaks* skill. *Peak* difficulty splits the map into sections and combines peaks of each skill in each section, aiming to catch out particularly demanding moments. The final Star Rating is the outputted result, slightly multiplied to scale better. 
+Given the four skills briefly described above (stamina, rhythm and colour), their strain values are combined into one final Star Rating value. Previously done in two ways, this is now done in one ways - via the new *peaks* skill. *Peak* difficulty splits the map into sections and combines peaks of each skill in each section, aiming to catch out particularly demanding moments. The final Star Rating is the outputted result, slightly multiplied to scale better.
 
-While this is much more mathematically complex than mentioned, you can consult the osu!taiko general rework document listed in the above sections, or dive into the code over in the osu!lazer repositor for the full details. 
+While this is much more mathematically complex than mentioned, you can consult the osu!taiko general rework document listed in the above sections, or dive into the code over in the osu!lazer repositor for the full details.
 
 While previous sentiments aimed to scale maps in regards to the [difficulty naming hierarchy](/wiki/en/Ranking_Criteria/Difficulty_naming#osu!taiko), this rework has deviated away from the purpose of this, aiming to reflect true difficulty, regardless of naming. This also means that high SR values with near-fc's are no longer near 9.5*, rather can expand well into the 10* range (medal hunters rejoice!)
 
 ## Changes to Performance Points
 
-In recent years, osu!taiko has lagged behind the other three game modes in terms of raw performance point values (around 40% lower). In addition, the survey indicated that the way performance points are calculated needed to be re-evaluated. 
+In recent years, osu!taiko has lagged behind the other three game modes in terms of raw performance point values (around 40% lower). In addition, the survey indicated that the way performance points are calculated needed to be re-evaluated.
 
 Performance points in osu!taiko are currently calculated by summing the "accuracy pp" and "difficulty pp" components of a score — the following changes should serve to increase their values and improve balance not only between difficulty increasing mods, but their reductive counterparts.
 
@@ -94,9 +93,9 @@ Served alongside the SR rework, these changes aim to accurately reflect the new 
 
 ### Globally-applied changes
 
-The final step of performance points calculation involves applying a simple multiplier to the calculated value, which consists of both difficulty and accuracy performance points. This allows for simplicity of balancing changes, and works alongside specific multipliers found within their respective separate difficulty values. 
+The final step of performance points calculation involves applying a simple multiplier to the calculated value, which consists of both difficulty and accuracy performance points. This allows for simplicity of balancing changes, and works alongside specific multipliers found within their respective separate difficulty values.
 
-- The HD multiplier has been decreased from **1.10x** to **1.075x**, as a further bonus was placed in difficulty PP, rather than globally. 
+- The HD multiplier has been decreased from **1.10x** to **1.075x**, as a further bonus was placed in difficulty PP, rather than globally.
 - An EZ multiplier of **0.975x** has been added, to further nerf a problematic mod, especially when paired with double-time.
 - The NF multiplier has been removed, as osu!taiko's HP system is different, it is not required nor needed, which also helps prevent sandbaggers in lower ranks.
 
@@ -113,9 +112,7 @@ To combat this, misses will now significantly affect difficulty PP on maps with 
   Please note that these changes only affect the difficulty part of performance, which refers to the Star Rating value under a mathematically scaled formula.
 
 - A further EZ multiplier of **0.985x** has been added, further supplementing its nerf.
-
 - A HR multiplier of **1.05x** has been added, this was added as a way to rebalance the changes found within accuracy PP.
-
 - Difficulty pp now decreases by the square of decreasing accuracy instead of linearly, which applies a huge nerf unforeseen within previous low-accuracy scores.
   
   ![](/wiki/shared/news/2022-08-25-changes-to-osu-taiko-star-rating-and-performance-points/difficulty-accuracy-scaling.jpg)
@@ -123,18 +120,16 @@ To combat this, misses will now significantly affect difficulty PP on maps with 
 ### Changes to Accuracy Performance Points Values
   
   While Difficulty PP is straightforward, Accuracy performance contained a plethora of issues, both to do with reading-based mods (HD, FL) and mods that affect the Great Hit Window (EZ, DT, HR)
-
 - The impact of the size of the Great (300) hit window on accuracy pp has been reduced significantly. This makes PP less dependent on the OD value of a map, which greatly reduces the issues of low SR maps, with a tight hit window.
 
 - Star rating now affects accuracy pp, which replaces most of the scaling from the previous impact of the great hit window. This further supplements the nerfs the accuracy weighting on low-SR scores and buffs high-SR scores and thus significantly limits abuse of low-SR 3-mod/4-mod scores.
-
 - An Additional HDFL Bonus has been added to accuracy PP, as this requires total memorisation of maps, this is multiplied by a length bonus, rewarding more, the longer the map.
   
-  ![](/wiki/shared/news/2022-08-25-changes-to-osu-taiko-star-rating-and-performance-points/hd-fl-bonus.jpg)
+![](/wiki/shared/news/2022-08-25-changes-to-osu-taiko-star-rating-and-performance-points/hd-fl-bonus.jpg)
   
 ## Next steps
   
-  Future changes will involve rhythm, which hasn't been touched and reading, an entirely new concept to osu!taiko, as well as many other large and small-scale changes. For people eager to dive into the technicalities, WIP details are available [here](https://docs.google.com/document/d/1Z5GC4DMqOVzeIERMSK3qpQaqjq-sVnhbuoxAwy9qxDs/edit). If you would like to give feedback or help contribute, please join the [osu!dev Discord server](https://discord.gg/ppy) and direct your comments towards the `#difficulty-taiko` channel.
+Future changes will involve rhythm, which hasn't been touched and reading, an entirely new concept to osu!taiko, as well as many other large and small-scale changes. For people eager to dive into the technicalities, WIP details are available [here](https://docs.google.com/document/d/1Z5GC4DMqOVzeIERMSK3qpQaqjq-sVnhbuoxAwy9qxDs/edit). If you would like to give feedback or help contribute, please join the [osu!dev Discord server](https://discord.gg/ppy) and direct your comments towards the `#difficulty-taiko` channel.
 
 The osu!taiko pp committee would like to give a huge thank you towards osu!taiko community for the heavy amounts of surveying, testing and feedback during the process. Another big thank you goes to [bdach](https://github.com/bdach) and [smoogipoo](https://osu.ppy.sh/users/1040328) for helping to support and review the changes to the code.
 
