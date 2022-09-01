@@ -24,7 +24,9 @@ As a reminder of the various core values in the difficulty calculation algorithm
 
 Currently, performance calculation treats every object in a map equally when weighing accuracy. Maps which feature a lot of filler notes between tough sections unfairly benefit from this, as accuracy will be scaled across the whole map rather than only on the difficult sections. This is now going to change, following [a change](https://github.com/ppy/osu/pull/15035) administered by [emu1337](https://osu.ppy.sh/users/2185987)!
 
-The number of notes that are considered difficult by Speed calculations will now be counted. Accuracy will then be scaled by the average between this count and the overall object count. This means that for those maps with filler, the punishment from 100s/50s/misses will now be more accurate. The averaging is done for the sake of leniency — using the Speed count alone resulted in values that were too harsh in testing.
+The number of notes that are considered difficult by Speed calculations will now be counted. Accuracy will then be scaled by the average between this count and the overall object count. The punishment from 100s/50s/misses will now reflect the composition of a given map more accurately. The averaging is done for the sake of leniency — using the Speed count alone resulted in values that were too harsh in testing.
+
+Prime examples of this change are seen in the accuracy scaling now found on [various Hidamari no Uta difficulties](https://osu.ppy.sh/beatmapsets?m=0&q=%22hidamari%20no%20uta%22) that feature difficulty spike sections.
 
 ### Remove non-overlapping velocity change bonus from Aim
 
