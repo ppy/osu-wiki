@@ -131,7 +131,7 @@ The map might seem pretty generic at first, but it ramps up in difficulty not in
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/FXRphC5JR6I" frameborder="0" allowfullscreen></iframe>
 
-*p.s. if you thought the mania plays were impressive, you might want to check out the [August osu!mania playlist](https://www.youtube.com/playlist?list=PL13_euG_GInpbQBrfgGViDYl8vT-yR0P0) that also adds some honorable mentions for your viewing enjoyment)*
+*p.s. if you thought the mania plays were impressive, you might want to check out the [August osu!mania playlist](https://www.youtube.com/playlist?list=PL13_euG_GInpbQBrfgGViDYl8vT-yR0P0) that also adds some honorable mentions for your viewing enjoyment*
 
 ## Did you know?
 
