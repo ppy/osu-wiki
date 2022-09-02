@@ -1,5 +1,7 @@
 ---
 stub: true
+outdated_since: 17fff120ab8f4c265e5401deb953b158cb213d7a
+outdated_translation: true
 ---
 
 # スキン
