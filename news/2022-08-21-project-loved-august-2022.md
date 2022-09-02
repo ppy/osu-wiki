@@ -220,9 +220,10 @@ So just ready yourself and give it a try for sure!
 
 [![](/wiki/shared/news/2022-08-21-project-loved-august-2022/984436.jpg)](https://osu.ppy.sh/community/forums/topics/1633170)
 
-[Azgaja - Ritual](https://osu.ppy.sh/beatmapsets/984436#fruits) by [Ciyus Miapah](https://osu.ppy.sh/users/2805457)\
+[Azgaja - Ritual](https://osu.ppy.sh/beatmapsets/984436#fruits) by [-Izayoi](https://osu.ppy.sh/users/5710721)\
 300 BPM, 6:15 | 8.24★\
-*description written by [Wesley](https://osu.ppy.sh/users/2407265)*
+*description written by [Wesley](https://osu.ppy.sh/users/2407265)*\
+The \[Sacrifice your Soul\] difficulty is *not* being nominated for Loved.
 
 If you are looking for a challenging map, you can stop right here! *Azgaja - Ritual* has a lot to offer: 6:14 minutes of pure madness. With an approach rate of 10 and a BPM ranging from 75 all the way up to 300 and a star rating of 8.24, I don't think you're gonna have problems thinking this'll be a breeze. This map is filled with streams and zigzags from begin to start and only about one break to crack those fingers and warm them up for this beats of a map.
 
