@@ -115,7 +115,6 @@ tags:
 | ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) | スウェーデン語、スペイン語 | チャットモデレーション |
 | ::{ flag=IT }:: [Seijiro](https://osu.ppy.sh/users/2581696) | イタリア語、ルーマニア語 | チャットモデレーション |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | フランス語、スペイン語 | チャットモデレーション |
-| ::{ flag=SG }:: [Shoegazer](https://osu.ppy.sh/users/2520707) | ポルトガル語 | Mapping/modding コミュニティ モデレーション |
 | ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) | インドネシア語 | チャットモデレーション |
 | ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | インドネシア語、部分的なベトナム語 | チャットモデレーション |
 | ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) | 中国語 | チャットモデレーション |

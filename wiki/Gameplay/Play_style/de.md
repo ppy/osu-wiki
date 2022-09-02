@@ -12,7 +12,7 @@ Nur-Maus war einmal der *einzige* Weg, um osu! zu spielen, bis andere Methoden i
 
 Der Spielstil wird weithin als die schwerste Methode zum Spielen betrachtet und Nur-Maus-Spieler mit hohem Rang in den allgemeinen Ranglisten werden meistens sehr von der Community respektiert.
 
-*Tipp: Das Tasten-Overlay zeigt Links-/Rechtsklicks als `M1` und `M2` an.*
+*Anmerkung: Das Tasten-Overlay zeigt Links-/Rechtsklicks als `M1` und `M2` an.*
 
 ### Doppelmaus
 
@@ -20,7 +20,7 @@ Doppelmaus ist ein Spielstil, in welchem ein Spieler eine Maus in jeder Hand hat
 
 Diese Spielweise wurde von den meisten Spielern als ein Scherz angesehen, bis im Mai 2013 der kanadische Spieler ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) Top-Scores auf hoch angesehenen Beatmaps wie [Hatsune Miku - With a Dance Number (val0108)](https://osu.ppy.sh/beatmapsets/29691) und [The Quick Brown Fox - The Big Black (Blue Dragon)](https://osu.ppy.sh/beatmapsets/41823) bekam, während er mit zwei Mäusen spielte.
 
-*Tipp: Es ist auch üblich für Doppelmaus-Spieler die Maus, die für das Tippen benutzt wird, mit Hilfe von Klebeband an den Schreibtisch zu kleben.*
+*Anmerkung: Es ist auch üblich für Doppelmaus-Spieler die Maus, die für das Tippen benutzt wird, mit Hilfe von Klebeband an den Schreibtisch zu kleben.*
 
 ### Maus und Tastatur
 
@@ -30,7 +30,7 @@ Spieler mit Maus und Tastatur spielen in fast der gleichen Weise wie Nur-Maus-Sp
 
 Einige Spieler nutzen nur die Tastatur zum Tippen, wobei andere beim Streaming (der Akt des Tippens einer schnellen Reihe an Hit-Objekten in rascher Folge) zur Tastatur greifen und die Maus zum Klicken für alles Weitere verwenden.
 
-*Tipp: Das Tasten-Overlay zeigt Tastatureingaben als `K1` und `K2` an.*
+*Anmerkung: Das Tasten-Overlay zeigt Tastatureingaben als `K1` und `K2` an.*
 
 ### Nur-Tablet
 
@@ -40,13 +40,13 @@ Einige Spieler nutzen nur die Tastatur zum Tippen, wobei andere beim Streaming (
 
 Nur-Tablet-Spieler lassen einen Tablet-Stift über ein Grafiktablett schweben, um den Cursor im Spiel zu navigieren und Tippen die Beats durch das Tippen des Stifts auf die Oberfläche des Grafiktabletts.
 
-*Tipp: Das Tasten-Overlay zeigt das Tippen des Stifts als `M1` an.*
+*Anmerkung: Das Tasten-Overlay zeigt das Tippen des Stifts als `M1` an.*
 
 #### Tapx
 
 Das Streaming mit nur einer Eingabe bei hohen BPM wird in der Community weitgehend als unmöglich betrachtet. Damit man als Nur-Tablet-Spieler streamen kann, sollte ein Spieler zwischen dem Tippen des Stifts auf das Tablet und dem Drücken einer zugeordneten zweiten Taste (normalerweise eine Taste auf dem Tablet oder der Tastatur) alternieren. Diese Methode wird manchmal auch *tapx* genannt.
 
-*Tipp: Da das Tippen des Stifts als `M1` angesehen wird, wird nur der zugeordnete zweite Button funktionieren und `X` ist normalerweise der zweite Standardbutton.*
+*Anmerkung: Da das Tippen des Stifts als `M1` angesehen wird, wird nur der zugeordnete zweite Button funktionieren und `X` ist normalerweise der zweite Standardbutton.*
 
 ### Tablet und Tastatur
 
@@ -68,7 +68,7 @@ Wenn ein Spieler mit Touchscreen den Bildschirm berührt, bewegt das Gerät den 
 
 Dieser Spielstil kann sich durch den Akt des direkten Berührens, im Gegensatz zum Bewegen des Cursors, ähnlich zum Spielen von [osu!stream](/wiki/osu!stream) anfühlen.
 
-*Tipp: Das Tasten-Overlay zeigt Berührungseingaben als `M1` an.*
+*Anmerkung: Das Tasten-Overlay zeigt Berührungseingaben als `M1` an.*
 
 ### Touchscreen und Tastatur
 
@@ -91,13 +91,13 @@ Einfach gesagt drückt der Spieler die zugeordneten Tasten auf der Tastatur, um 
 
 Es gibt zwei Hauptformen, die Tastenbelegung für die Tastatur einzustellen: KDDK (Standard in Taiko oder BRRB) oder DDKK/KKDD (oder RRBB/BBRR). Die Buchstaben repräsentieren die Platzierung des Trommelrands oder der Trommelmitte (z. B. K in KDDK für den Rand und D für die Trommelmitte).
 
-*Tipp: Die Standard-Tastenbelegung ist `Z`, `X`, `C` und `V` (KDDK oder BRRB).*
+*Anmerkung: Die Standard-Tastenbelegung ist `Z`, `X`, `C` und `V` (KDDK oder BRRB).*
 
 ### Taiko-Controller
 
 Ein Taiko-Controller ist die Standard-Spielweise und der Controller für die Serie [Taiko no Tatsujin](https://de.wikipedia.org/wiki/Taiko_no_Tatsujin) ([Taiko Drum Master](https://wikipedia.org/wiki/Taiko:_Drum_Master) für die Vereinigten Staaten).
 
-*Tipp: Einige begabte Spieler, die mit einem Taiko-Controller spielen, können ihren Controller selbst bauen, während andere ihren in Einzelhandelsgeschäften oder Online-Shops kaufen.*
+*Anmerkung: Einige begabte Spieler, die mit einem Taiko-Controller spielen, können ihren Controller selbst bauen, während andere ihren in Einzelhandelsgeschäften oder Online-Shops kaufen.*
 
 Spieler, die einen Taiko-Controller benutzen, führen einen Taiko-/Schlagzeugstock in jeder Hand und treffen die Mitte (Rot) oder den Rand der Trommel (Blau), um die Note zu registrieren, je nachdem, wo er getroffen wird.
 
@@ -145,7 +145,7 @@ Zum Dashen verwenden viele Spieler einen der Buttons auf ihrem Gamepad. Jedoch b
 
 ### Tastatur
 
-*Tipp: Für mehr Informationen über mechanische Tastaturen, siehe diesen [externen Ratgeber über mechanische Tastaturen (auf Englisch)](http://www.daskeyboard.com/blog/mechanical-keyboard-guide/).*
+*Anmerkung: Für mehr Informationen über mechanische Tastaturen, siehe diesen [externen Ratgeber über mechanische Tastaturen (auf Englisch)](http://www.daskeyboard.com/blog/mechanical-keyboard-guide/).*
 
 Tastatur war einmal der *einzige* Weg, um osu!mania zu spielen, bis andere Methoden über die Zeit unterstützt wurden.
 
@@ -155,7 +155,7 @@ Um mit einer Tastatur zu spielen, müssen Spieler die Tasten entsprechend der Ta
 
 Arcade-Controller von anderen Rhythmusspielen wie DJMAX, O2Jam, Beatmania IIDX etc. sind ein Spielstil, der für erfahrene Veteranen von Förderband-artigen Rhythmusspielen gedacht ist.
 
-*Tipp: Da die Benutzung von 8 Tasten die Verwendung von Spielmodifikationen oder eine Entscheidung seitens des Beatmappers voraussetzt, können die meisten Spieler mit solchen Arcade-Controllern bis zu 7 Tasten (Standardmaximum) und 1 Spezialtaste bedienen.*
+*Anmerkung: Da die Benutzung von 8 Tasten die Verwendung von Spielmodifikationen oder eine Entscheidung seitens des Beatmappers voraussetzt, können die meisten Spieler mit solchen Arcade-Controllern bis zu 7 Tasten (Standardmaximum) und 1 Spezialtaste bedienen.*
 
 ### Tanzmatte
 
