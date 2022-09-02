@@ -58,7 +58,7 @@ Sobald osu!supporter ausläuft wird das Titelbild bestehen bleiben, kann aber ni
 
 ### Eine kostenlose Änderung des Benutzernamens
 
-*Tipp: Kleinere Namensänderungen können beim Account-Support-Team kostenlos beantragt werden — siehe [Hilfecenter/Account § Kann ich den Benutzernamen meines Accounts ändern?](/wiki/Help_centre/Account#name-changes).*
+*Anmerkung: Kleinere Namensänderungen können beim Account-Support-Team kostenlos beantragt werden — siehe [Hilfecenter/Account § Kann ich den Benutzernamen meines Accounts ändern?](/wiki/Help_centre/Account#name-changes).*
 
 osu!supporter zu bekommen ist verbunden mit der Fähigkeit, den Benutzernamen beim ersten Mal kostenlos zu ändern, unter den [üblichen Bedingungen](/wiki/Help_centre/Account#name-changes).
 
@@ -84,7 +84,7 @@ osu! bietet eine Lockerung der Grenzwerte für verschiedene Online-Features für
 
 | Wert | Normales Limit | osu!supporter-Limit |
 | :-- | :-: | :-: |
-| [Ausstehende Beatmaps](/wiki/Beatmap/Category#work-in-progress-und-ausstehend) | `2 + min(gerankte Beatmaps, 6)`, bis zu **8**[^pending-beatmaps-ref] | `8 + min(gerankte Beatmaps, 12)`, bis zu **20**[^pending-beatmaps-ref] |
+| [Ausstehende Beatmaps](/wiki/Beatmap/Category#work-in-progress-und-ausstehend) | `4 + min(gerankte Beatmaps, 4)`, bis zu **8**[^pending-beatmaps-ref] | `8 + min(gerankte Beatmaps, 12)`, bis zu **20**[^pending-beatmaps-ref] |
 | Online-Beatmap-Favoriten | 100 | 1000 |
 | Anzahl der Freunde | 250 | 500 |
 
