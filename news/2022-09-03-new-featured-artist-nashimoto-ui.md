@@ -40,7 +40,7 @@ Play through [this marathon](https://osu.ppy.sh/beatmapsets/1078896) hosted by [
 
 ### Shinitagari
 
-Maybe [try mapping this one yourself](LINK)!
+Maybe [try mapping this one yourself](https://assets.ppy.sh/artists/298/Songs/Nashimoto%20Ui%20-%20Shinitagari.osz)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/298/Songs/Nashimoto%20Ui%20-%20Shinitagari.mp3" type="audio/mpeg">
