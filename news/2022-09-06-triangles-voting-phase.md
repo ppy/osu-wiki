@@ -10,7 +10,7 @@ Mark your favourite triangle-themed maps in osu!'s latest and greatest mapping +
 
 [A few months ago](https://osu.ppy.sh/home/news/2022-05-31-triangles), we launched a new mapping and storyboarding contest: [**triangles**](/wiki/Contests/triangles_Beatmapping_Contest), centered around osu!(lazer)'s theme song *[cYsmix](https://osu.ppy.sh/beatmaps/artists/2) - triangles*.
 
-Last month, our [mapper panel](/wiki/Contests/triangles_Beatmapping_Contest#mapper-panel) and [storyboarder panel](/wiki/en/Contests/triangles_Beatmapping_Contest#storyboarder-panel) painstakingly narrowed all submissions down to the **top 8**. Now it's your turn to choose a winner!
+Last month, our [mapper panel](/wiki/Contests/triangles_Beatmapping_Contest#mapper-panel) and [storyboarder panel](/wiki/Contests/triangles_Beatmapping_Contest#storyboarder-panel) painstakingly narrowed all submissions down to the **top 8**. Now it's your turn to choose a winner!
 
 ## Vote
 
@@ -64,7 +64,7 @@ Click any banner below to download its team's mapset! Just keep in mind that you
 
 ---
 
-Visit the [**triangles** contest listing](https://osu.ppy.sh/community/contests/147) and make your votes count. You can select up to **2** maps that you think deserve to win!
+Visit the [**triangles** contest listing](https://osu.ppy.sh/community/contests/147) and make your votes count. You can select up to **3** maps that you think deserve to win!
 
 Winners for all categories will be announced shortly after this vote concludes, so stick around for that soon!
 
