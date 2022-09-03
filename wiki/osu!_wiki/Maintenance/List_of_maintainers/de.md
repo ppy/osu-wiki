@@ -2,7 +2,7 @@
 
 Die Betreuer schauen regelmäßig in den [Issue-Tracker](https://github.com/ppy/osu-wiki/issues) und überprüfen Änderungsvorschläge von Mitwirkenden. Im Gegensatz zu anderen Beteiligten können sie Pull Requests bearbeiten und diese mit dem `master`-Branch des Repositorys zusammenführen, wodurch die Änderungen veröffentlicht werden.
 
-Wenn du Hilfe bei der Erstellung eines Beitrags benötigst oder möchtest, dass dein Pull Request überprüft wird, dann sende eine Nachricht im Kanal `#osu-wiki` des [osu!dev Discord-Servers](/wiki/Community/osu!dev_Discord_server) und ein Verantwortlicher oder ein anderer Beteiligter wird dir antworten (alle Betreuer können Englisch sprechen).
+Wenn du Hilfe bei der Erstellung eines Beitrags benötigst oder möchtest, dass dein Pull Request überprüft wird, dann sende eine Nachricht im Kanal `#osu-wiki` des [osu!dev Discord-Servers](/wiki/Community/osu!dev_Discord_server) und ein Verantwortlicher oder ein anderer Beteiligter wird dir antworten. Es wird empfohlen, auf Englisch zu schreiben, da alle Betreuer Englisch können.
 
 ## Wiki-Betreuer
 
