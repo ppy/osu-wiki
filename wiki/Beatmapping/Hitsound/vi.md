@@ -9,8 +9,6 @@ tags:
   - hitsound additions
   - hit sounds
   - hitsounds
-  - âm thanh
-  - âm thanh bổ sung
 ---
 
 # Âm thanh
