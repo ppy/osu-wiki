@@ -159,6 +159,8 @@ Si un joueur ne s'est pas connecté depuis au moins 6 mois et n'a pas joué, son
 
 Si ce joueur a joué au moins une partie parmi tous les modes de jeu, une [fonction non linéaire](https://www.desmos.com/calculator/b89siyv9j8) est utilisée pour calculer combien de temps supplémentaire est ajouté à ces 6 mois. Cela permet d'éviter que des personnes volent les noms d'utilisateur de joueurs actifs ou qui ont arrêté récemment.
 
+Notez que les joueurs avec des beatmaps classées peuvent ne pas être éligibles.
+
 ### Est-il possible de changer mon nom ou de revenir à mon ancien nom d'utilisateur ? {#revert-username}
 
 **Oui, mais seulement dans certaines circonstances.**
