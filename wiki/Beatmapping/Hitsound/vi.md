@@ -3,10 +3,8 @@ stub: true
 tags:
   - hit normal
   - hitnormal
-  - hit sound addition
-  - hit sound additions
-  - hitsound addition
-  - hitsound additions
+  - hit sound bổ sung
+  - hitsound bổ sung
   - hit sounds
   - hitsounds
 ---
