@@ -19,7 +19,7 @@ tags:
 
 Âm thanh bao gồm một mẫu mặc định được gọi là *hitnormal* và bất kỳ sự kết hợp nào của *mẫu bổ sung* còi (whistle), kết thúc (finish) hoặc vỗ tay (clap). Mỗi mẫu là một phần của một trong ba *bộ mẫu* biểu thị các kiểu khác nhau: `Bình thường`, `Nhẹ` hoặc `Trống`.
 
-Mapper có thể đổi chỗ bất kỳ mẫu mặc định nào với một mẫu âm thanh tuỳ chỉnh bằng cách sử dụng thư mục của [biểu đồ](/wiki/Beatmap). [Skin](/wiki/Skinning) của người chơi cũng có thể thay đổi âm thanh mặc định của tất cả biểu đồ. Chi tiết về các mẫu âm thanh có thể được tìm thấy ở bài viết [Skin: Âm thanh](/wiki/Skinning/Sounds#hitsounds).
+Mapper có thể thay đổi bất kỳ hitsound mặc định nào với những âm thanh khác tuỳ chỉnh bằng cách sử dụng thư mục của [biểu đồ](/wiki/Beatmap). [Skin](/wiki/Skinning) của người chơi cũng có thể thay đổi hitsound của tất cả biểu đồ. Chi tiết về các hitsound có thể được tìm thấy ở bài viết [Skin: Hitsounds](/wiki/Skinning/Sounds#hitsounds).
 
 [Vòng xoay](/wiki/Hit_object/Spinner) và [thanh trượt](/wiki/Hit_object/Slider) có những âm thanh của riêng chúng: spinner spin, spinner bonus, slider slide, và slider tick.
 
