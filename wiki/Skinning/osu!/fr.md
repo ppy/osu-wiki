@@ -237,7 +237,7 @@ Notes :
 
 Notes :
 
-- Cet élément s'estompe avant d'être frappé et s'étend lorsqu'il est frappé ou manqué.
+- Cet élément s'estompe avant d'être touché et s'étend lorsqu'il est touché ou manqué.
   - Si le mod [Hidden](/wiki/Gameplay/Game_modifier/Hidden) est activé, il s'affichera en fondu avant d'être touché et disparaîtra ensuite.
 - Le numéro de la combinaison peut être superposé ou non. Par défaut, il est toujours superposé.
   - Pour que cet underlay soit le numéro du combo, mettez `HitCircleOverlayAboveNumber` à `0`.
