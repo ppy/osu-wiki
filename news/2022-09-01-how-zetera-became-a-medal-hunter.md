@@ -48,7 +48,8 @@ So just to provide more context to his comment above, Zetera was a [GMT (Global 
 
 You might ask yourself what Zetera meant when he said that he kept "dropping out of the 90% medals club". Well, in 2019 the medal hunting community created [Osekai](https://osekai.net/home/), a website made for alternative rankings, in-depth profile information, medal solutions etc. On their [Discord server](https://discord.com/invite/8qpNTs6) there are "clubs" that people "join" by receiving a Discord role based upon the number of medals they have. The club Zetera is referring to is the 90% medal club, which at the time of writing this currently consists of [only 44 people](https://osekai.net/rankings/?ranking=Medals&type=Users) in the entire game!
 
-If you are interested in medal hunting definitely look into Osekai and join their Discord server, and definitely stay on the lookout for new medals as Ephemeral teased new [hush-hush](https://twitter.com/osekaiapp/status/1564610856381464580) and [beatmap pack medals](https://twitter.com/osekaiapp/status/1564871086617071616)!
+If you are interested in medal hunting definitely look into Osekai and join their Discord server, and definitely stay on the lookout for new medals as Ephemeral teased new [hush-hush](https://twitter.com/osekaiapp/status/1564610856381464580) the Osekai community found [some more medals](https://twitter.com/osekaiapp/status/1564871086617071616) by guessing the links to them!
+
 Lastly, the full conversation I had with Zetera goes into much more detail about hunting medals in general, and I highly suggest you [check it out](https://gist.github.com/0x84f/5b93172d0ca1c3bf975eb8b40faa3474) if this article was interesting to you.
 
 —0x84f
