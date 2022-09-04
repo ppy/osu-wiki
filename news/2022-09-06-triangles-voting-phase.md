@@ -18,7 +18,7 @@ Last month, our [mapper panel](/wiki/Contests/triangles_Beatmapping_Contest#mapp
 
 Before you can vote, you'll need to **play one of the triangles playlists in osu!(lazer).**
 
-Access the playlists via the **play** menu on osu!(lazer) and filtering by **Featured Artists** in the top right corner. There's one playlist for each difficulty level (Easy/Normal/Hard/Insane/Expert).
+Access the playlists via the **play** menu on osu!(lazer) and filtering by **Featured Artists** in the top-right corner. There's one playlist for each difficulty level (Easy/Normal/Hard/Insane/Expert).
 
 ![](LINK)
 
@@ -27,7 +27,7 @@ The top entries in the vote will earn these prizes:
 - **Community vote runner-up:** 3 months of osu!supporter
 - **Community vote winner:** 6 months of osu!supporter + *Community Pick* profile badge
 
-![Community pick profile badge](/wiki/shared/news/2022-05-26-triangles/community@2x.png)
+![Community Pick profile badge](/wiki/shared/news/2022-05-26-triangles/community@2x.png)
 
 Oh, and players have a chance to earn prizes here too!
 
