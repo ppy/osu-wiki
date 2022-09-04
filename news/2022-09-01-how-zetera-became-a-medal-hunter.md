@@ -1,18 +1,18 @@
 ---
 layout: post
 title: "How Zetera became a Medal Hunter"
-date: 2022-09-31 00:00:00 +0000
+date: 2022-09-30 00:00:00 +0000
 ---
 
 Join us for a history lesson, a story about an elusive medal and one man's journey to unravel its secret!
 
-Before we begin with this story, we first must learn about the history of medals. Medals were first introduced in early August 2008, with their original goal being to serve as an achievement system that could (but never did) become a part of osu!'s "story mode". The first ever medals to get added were the play count medals and since they were retroactively given to all users that already had the needed count, some users like [Echo](https://osu.ppy.sh/users/431) and [Saturos](https://osu.ppy.sh/users/3781) had acquired them on pretty much on release as they were playing at the time, which updated their play count and granted them the medals.
+Before we begin with this story, we first must learn about the history of medals. Medals were first introduced in early August 2008, with their original goal being to serve as an achievement system that could (but never did) become a part of osu!'s "story mode". The first ever medals to get added were the play count medals, and since they were retroactively given to all users who already fulfilled the requirements, some users like [Echo](https://osu.ppy.sh/users/431) and [Saturos](https://osu.ppy.sh/users/3781) acquired them pretty much on release.
 
-Soon after the play count medals came the first batch of beatmap pack medals, and while some do not exist anymore, there are some that you can still acquire! Some examples would be the [Internet Pack vol.1](https://osekai.net/medals/?medal=Internet!+Pack+vol.1), [Anime Pack vol.1](https://osekai.net/medals/?medal=Anime+Pack+vol.1), [Video Game Pack vol.1](https://osekai.net/medals/?medal=Video+Game+Pack+vol.1) and [Rhythm Game Pack vol.1](https://osekai.net/medals/?medal=Rhythm+Game+Pack+vol.1). As the game got updated, medals would become more than just a way to keep track of your pack completion with hush-hush medals. What are hush-hush medals you might ask? Well, the [osu! wiki](/wiki/Main_Page) defines them as the following:
+Soon after the play count medals came the first batch of beatmap pack medals, and while some do not exist anymore, there are still some that you can acquire! Some examples would be the [Internet Pack vol.1](https://osekai.net/medals/?medal=Internet!+Pack+vol.1), [Anime Pack vol.1](https://osekai.net/medals/?medal=Anime+Pack+vol.1), [Video Game Pack vol.1](https://osekai.net/medals/?medal=Video+Game+Pack+vol.1) and [Rhythm Game Pack vol.1](https://osekai.net/medals/?medal=Rhythm+Game+Pack+vol.1). As the game got updated, medals would become more than just a way to keep track of your pack completion with Hush-Hush medals. What are Hush-Hush medals you might ask? Well, the [osu! wiki](/wiki/Main_Page) defines them as the following:
 
 > Hush-Hush medals are "secret" medals awarded for pulling off very specific feats, which are not explicitly told to the player (hence the name). These feats can range anywhere from completing a beatmap under peculiar circumstances to setting a score with an unusual mod combination.
 
-Throughout the years new hush-hush medals were extremely rare, and it was only in late 2016 that medals started being released in batches after [this news post](https://osu.ppy.sh/home/news/2016-08-17-new-hush-hush-medals) and since then would start receiving semi-regular additions.
+Throughout the years, new Hush-Hush medals were extremely rare, and it was only in late 2016 that medals started being released in batches after [this news post](https://osu.ppy.sh/home/news/2016-08-17-new-hush-hush-medals). Since then, they would start receiving semi-regular additions.
 
 This brings us to the main character of this story, [Zetera](https://osu.ppy.sh/users/587737). Zetera is a 24-year-old osu! player from Germany, and according to him osu! has been a part of half of his life and his join date certainly backs that up. In that time he has done quite a lot for the community, described in his words as such:
 
