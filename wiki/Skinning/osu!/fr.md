@@ -237,9 +237,6 @@ Notes :
 
 Notes :
 
-- Nom de l'animation : `hitcircleoverlay-{n}.png`
-- Fréquence d'animation : 2 FPS (4 FPS max).
-  - Ce taux est affecté par les mods Half Time et Double Time/Nightcore.
 - Cet élément s'estompe avant d'être frappé et s'étend lorsqu'il est frappé ou manqué.
   - Si le mod [Hidden](/wiki/Gameplay/Game_modifier/Hidden) est activé, il s'affichera en fondu avant d'être touché et disparaîtra ensuite.
 - Le numéro de la combinaison peut être superposé ou non. Par défaut, il est toujours superposé.
