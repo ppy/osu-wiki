@@ -43,4 +43,4 @@ Một "keysound" là một mẫu âm thanh mà cực kỳ giống với, hoặc 
 
 Không giống như những [chế độ chơi](/wiki/Game_mode) khác, âm thanh của [osu!taiko](/wiki/Game_mode/osu!taiko) ảnh hưởng trực tiếp đến gameplay của biểu đồ. Kat được phân biệt với Don bởi tiếng còi (whistle) và vỗ tay (claps), và những nốt lớn được phân biệt với những nốt bình thường bởi những tiếng kết thúc (finish).
 
-Những mẫu âm thanh mặc định của osu!taiko thì độc nhất, và mapper thường không thay đổi chúng.
+Những mẫu hitsound mặc định của osu!taiko độc nhất, và mapper thường không thay đổi chúng.
