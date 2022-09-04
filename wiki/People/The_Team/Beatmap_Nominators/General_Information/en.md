@@ -4,7 +4,7 @@ Are you a [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators) *(BN)*, 
 
 ## Important links
 
-- [Beatmap Nominator Rules](/wiki/People/The_Team/Beatmap_Nominators/Rules): Outlines both how to undertake various actions, as well as how not to do things - you would want to avoid breaking these in any situation, so be sure to read them carefully! You can always ask a member of the [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) *(NAT)* if you are unsure about something, and they will be happy to help.
+- [Beatmap Nominator Rules](/wiki/People/The_Team/Beatmap_Nominators/Rules): Outlines both how to undertake various actions, as well as how not to do things — you would want to avoid breaking these in any situation, so be sure to read them carefully! You can always ask a member of the [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) *(NAT)* if you are unsure about something, and they will be happy to help.
 - [Code of Conduct for Mapping and Modding](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping): As a BN, you are expected to be an exemplary figure of the community, someone others look up to and respect, so misconduct may get you reprimanded or even expelled.
 - [Ranking Criteria](/wiki/Ranking_Criteria): If you are already a BN, then you should be familiar with this. Essentially, it serves to explain what aspects of mapping are and are not allowed in the Ranked section, as well as including some general guidelines that people should try to follow in most cases. 
 - [Beatmap Veto Information](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto): For beatmaps with subjective quality concerns that don't necessarily break the rules and guidelines of the Ranking Criteria, but which you feel which make the beatmap in question unfit for the Ranked section, the beatmap veto allows you to withhold a beatmap from Qualification.
@@ -12,7 +12,7 @@ Are you a [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators) *(BN)*, 
 
 ## Beatmap Nominator abilities
 
-Nominations and resetting nominations are the evidence of a BN's efforts when checking maps, indicating a map's progress through the ranking proccess. As a BN you have access to these tools and must use them wisely.
+Nominations and resetting nominations are the evidence of a BN's efforts when checking maps, indicating a map's progress through the ranking process. As a BN you have access to these tools and must use them wisely.
 
 ### Nominate
 
@@ -24,7 +24,7 @@ Nominations and resetting nominations are the evidence of a BN's efforts when ch
 
 ![disqualify and reset buttons](img/reset_dq.png)
 
-**This allows you to reset a beatmap's progress in the ranking proccess.** If a beatmap is currently nominated or qualified, you as a nominator are given the ability to reset the beatmaps' nomination(s) by posting an issue using a Problem stamp. If a beatmap is qualified, it can only be disqualified by a full BN. These options are usually used when there is a major or unrankable issue in the beatmap which should be addressed before considering it for ranking.
+**This allows you to reset a beatmap's progress in the ranking process.** If a beatmap is currently nominated or qualified, you as a nominator are given the ability to reset the beatmaps' nomination(s) by posting an issue using a Problem stamp. If a beatmap is qualified, it can only be disqualified by a full BN. These options are usually used when there is a major or unrankable issue in the beatmap which should be addressed before considering it for ranking.
 
 Steps for disqualifying a beatmap:
 
@@ -53,4 +53,4 @@ Any BN can contribute to the moderation of songs and images by either submitting
 
 ### Mock Evaluations
 
-Full BNs may be assigned at random to do mock evaluations on BN Applications alongside the NAT's real ones. They can choose to opt out of this at any time, and doing assigned evaluations is not required. Mock evaluations are primarily used as information for the NAT to evaluate future NAT candidates, though details presented in mock evaluations may be added to applicant feedback on occassion or serve as tiebreakers if the NAT cannot come to a conclusion on their own.
+Full BNs may be assigned at random to do mock evaluations on BN Applications alongside the NAT's real ones. They can choose to opt out of this at any time, and doing assigned evaluations is not required. Mock evaluations are primarily used as information for the NAT to evaluate future NAT candidates, though details presented in mock evaluations may be added to applicant feedback on occasion or serve as tiebreakers if the NAT cannot come to a conclusion on their own.

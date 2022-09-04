@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 2dccc07cb4759a455196482e5f00383834f9813b
 ---
 
 # osu!mania
@@ -10,7 +12,7 @@ El modo ha sido bastamente usado en casi todos los juegos de ritmo de renombre. 
 
 Es, de cierta manera, similar a [osu!taiko](/wiki/Game_mode/osu!taiko), pero con más botones de notas moviéndose verticalmente que horizontalmente.
 
-## ![](/wiki/shared/mode/mania.jpg) Explicación del gameplay
+## ![](/wiki/shared/mode/mania.png) Explicación del gameplay
 
 ### Selección de canciones
 
@@ -84,7 +86,7 @@ Mientras estás sujetando la(s) nota(s) sostenida(s) hay una pequeña regeneraci
 
 ## Estilos de juego
 
-*Refiérase a [Página de estilos de juego de osu!mania](/wiki/Play_Styles#osu-mania).*
+*Refiérase a [Página de estilos de juego de osu!mania](/wiki/Play_style#osu!mania).*
 
 ## Controles
 
@@ -188,7 +190,7 @@ Ligado *Simétrico* para el segundo conjunto de teclas.
 
 ## Puntuaciones
 
-*Los Valores de Puntuación pueden ser encontrados en la [sección Puntuación en Valores de puntuación de osu!mania](/wiki/Score#osu-mania).*
+*Los valores de puntuación pueden encontrarse en [Sistema de puntuación de osu!mania](/wiki/Gameplay/Score/osu!mania).*
 
 La sección de puntuación detalla todas las complejidades de la puntuación, incluyendo las fórmulas matemáticas.
 
@@ -342,7 +344,7 @@ Active el botón de `Co-op mode` para forzar el modificador de juego *Co-Op* cua
   - Por ejemplo, para un mapa 4K, usando los modificadores 2K y Co-Op no incurrirá en alguna reducción de puntaje.
   - Respectivamente, para un beatmap 5K, usar un modificador 5K tampoco incurrirá en alguna reducción de puntaje.
   - Usar el modificador xK o Co-Op en beatmaps específicos-de-osu!mania tampoco incurrirá en alguna reducción de puntaje.
-- La mascota de osu!mania es [Maria](/wiki/Mascots#-mani-&-mari).
+- La mascota de osu!mania es [Maria](/wiki/Mascots#mani-&-mari).
 - Cuando [Auto](/wiki/Game_modifier/Auto) juega el beatmap, el nombre del jugador será *osu!topus*.
 
 ### Historia

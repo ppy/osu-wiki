@@ -1,7 +1,6 @@
 # Formatting
 
-*For the writing standards, see: [Article style criteria/Writing](../Writing)*
-
+*For the writing standards, see: [Article style criteria/Writing](../Writing)*\
 *Notice: This article uses [RFC 2119](https://tools.ietf.org/html/rfc2119) to describe requirement levels.*
 
 ## Locales
@@ -17,7 +16,7 @@ Listed below are the properly-supported locales for the wiki:
 | `cs.md` | Czech | Česky |
 | `da.md` | Danish | Dansk |
 | `de.md` | German | Deutsch |
-| `gr.md` | Greek | Ελληνικά |
+| `el.md` | Greek | Ελληνικά |
 | `es.md` | Spanish | Español |
 | `fi.md` | Finnish | Suomi |
 | `fr.md` | French | Français |
@@ -44,18 +43,6 @@ Listed below are the properly-supported locales for the wiki:
 
 *Note: The website will give readers their selected language's version of an article. If it is not available, the English version will be given.*
 
-### Content parity
-
-Translations are subject to strict content parity with their English article, in the sense that they must have the same message, regardless of grammar and syntax. Any changes to the translations' meanings must be accompanied by equivalent changes to the English article.
-
-There are some cases where the content is allowed to differ:
-
-- Articles originally written in a language other than English (in this case, English should act as the translation)
-- Explanations of English words that are common terms in the osu! community
-- External links
-- Tags
-- Subcommunity-specific explanations
-
 ## Front matter
 
 Front matter must be placed at the very top of the file. It is written in [YAML](https://en.wikipedia.org/wiki/YAML#Example) and describes additional information about the article. This must be surrounded by three hyphens (`---`) on the lines above and below it, and an empty line must follow it before the title heading.
@@ -76,13 +63,27 @@ When adding this tag to an article, [comments](#comments) should also be added t
 
 *Note: Avoid translating English articles with this tag. If the English article has this tag, the translation must also have this tag.*
 
-Translated articles that are outdated must use the `outdated` tag when the English variant is updated. English articles may also become outdated when the content they contain is misleading or no longer relevant. This tag must be written as shown below:
+English articles may become outdated when the content they contain is misleading or no longer relevant. These should receive an `outdated` tag, which must be written as shown below:
 
 ```yaml
 outdated: true
 ```
 
 When adding this tag to an article, [comments](#comments) should also be added to explain what needs to be updated to remove the tag.
+
+### Outdated translations
+
+Translated articles that are outdated must use the `outdated_translation` tag when the English variant is updated, except for minor wording, grammar changes, and the like, that do not affect the meaning of the article.
+
+```yaml
+outdated_translation: true
+```
+
+When outdating translations, they must also receive an `outdated_since` tag that points to the first commit where the English version is updated.
+
+```yaml
+outdated_since: 29eac89cd535f8b071ca000af8fe4f0be22bdc9b
+```
 
 ### Tagging articles
 
@@ -226,9 +227,9 @@ Hatnotes must be italicised and be placed immediately after the heading. If mult
 *For see* hatnotes are similar to *see also* hatnotes, but are generally more descriptive and direct. This hatnote may use more than one link if necessary. These must be formatted as follows:
 
 ```markdown
-*For {description}, see: {article}`*
+*For {description}, see: {article}*
 
-*For {description}, see: {article} and {article}`*
+*For {description}, see: {article} and {article}*
 ```
 
 ### Not to be confused with
@@ -253,7 +254,7 @@ Hatnotes must be italicised and be placed immediately after the heading. If mult
 
 *Not to be confused with [Hatnote](#hatnote).*
 
-A notice should be placed where appropriate in a section, but must start off the paragraph and use italics. Notices may contain bolding where appropriate, but should be kept to a minimum. Notices must be written as complete sentences. Thus, unlike most [hatnotes](#hatnotes), must use a full stop (`.`) or an exclamation mark (`!`) if appropriate. Anything within the same paragraph of a notice must also be italicised. These must be formatted as follows:
+A notice should be placed where appropriate in a section, but must start off the paragraph and use italics. Notices may contain bolding where appropriate, but should be kept to a minimum. Notices must be written as complete sentences. Thus, unlike most [hatnotes](#hatnote), notices must use a full stop (`.`) or an exclamation mark (`!`) if appropriate. Anything within the same paragraph of a notice must also be italicised. These must be formatted as follows:
 
 ```markdown
 *Note: {note}.*
@@ -270,11 +271,22 @@ A notice should be placed where appropriate in a section, but must start off the
 - `Caution` should be used to warn the reader to avoid unintended consequences.
 - `Warning` should be used to warn the reader that action may be taken against them.
 
+## Stacked hatnotes and notices
+
+Multiple hatnotes and notices may be stacked when necessary. When doing this, they must be stacked without blank lines and use trailing backslashes:
+
+```markdown
+*Warning: {warning}.*\
+*See also: {article}*
+```
+
+In many cases, it may be more fitting to embed extraneous hatnotes or notices into paragraph text instead of stacking many of them.
+
 ## Emphasising
 
-### Bold
+### Bolding
 
-Bold must use double asterisks (`**`).
+Bold text must use double asterisks (`**`).
 
 Lead paragraphs may bold the first occurrence of the article's title.
 
@@ -282,11 +294,39 @@ Lead paragraphs may bold the first occurrence of the article's title.
 
 Italics must use single asterisks (`*`).
 
-Names of work or video games should be italicised. osu!—the game—is exempt from this.
-
 The first occurrence of an abbreviation, acronym, or initialism may be italicised.
 
 Italics may also be used to provide emphasis or help with readability.
+
+Names of work or video games should be italicised. osu! — the game — is exempt from this.
+
+As an example, when referring to songs in the format of `{artist} - {title}`, the whole part is a reference to the work and should therefore be italicised:
+
+```markdown
+*cYsmix - triangles* is a one of the three intro songs that can be heard when starting the game client.
+```
+
+Artist names are otherwise generally not italicised. This means that in free-form references, only the title should be italicised, because the artist name is then not part of the name of the work:
+
+```markdown
+*Blue Zenith* by xi is an infamous song in the osu! community due to a famous score set by a top player on a certain beatmap.
+```
+
+### Emphasis and links
+
+Linked text appears in a different colour which already provides emphasis, and therefore does not need further emphasis:
+
+```markdown
+[Camellia - OOPARTS](https://cametek.bandcamp.com/track/parts) is an example of a song officially created specifically for osu!, otherwise known as an *osu! original*, since it was specifically commissioned for the osu! World Cup 2020 tiebreaker.
+```
+
+This however does not apply if the referenced work is not the only part of the link:
+
+```markdown
+[Voltaeyx's beatmap of *TheFatRat - Mayday (feat. Laura Brehm)*](https://osu.ppy.sh/beatmapsets/756794) amassed considerable popularity in 2018 due to its unique overlapping slider patterns.
+```
+
+The above type of construction should be used sparingly, and must not be used in places with many links, such as tables or lists.
 
 ## Headings
 
@@ -298,8 +338,7 @@ Headings must not exceed a heading level of 5 and must not be used to style or f
 
 ### Titles
 
-*See also: [Article naming](#article-naming)*
-
+*See also: [Article naming](#article-naming)*\
 *Caution: Titles are parsed as plain text; they must not be escaped.*
 
 The first heading in all articles must be a level 1 heading, being the article's title. All headings afterwards must be [section headings](#sections). Titles must not contain formatting, links, or images.
@@ -479,12 +518,14 @@ Preformatted text (also known as code blocks) must be fenced using three grave m
 
 ## Links
 
+*See also: [Footnotes](#footnotes)*
+
 There are two types of links: inline and reference. Inline has two styles.
 
 The following is an example of both inline styles:
 
 ```markdown
-[Game Modifiers](/wiki/Game_Modifiers)
+[Game modifier](/wiki/Game_modifier)
 
 <https://osu.ppy.sh/home>
 ```
@@ -492,9 +533,9 @@ The following is an example of both inline styles:
 The following is an example of the reference style:
 
 ```markdown
-[Game Modifiers][game mods link]
+[Game modifier][game mods link]
 
-[game mods link]: /wiki/Game_Modifiers
+[game mods link]: /wiki/Game_modifier
 ```
 
 ---
@@ -511,7 +552,7 @@ All links that point to an wiki article should start with `/wiki/` followed by t
 
 ```markdown
 [FAQ](/wiki/FAQ)
-[pippi](/wiki/Mascots#-pippi)
+[pippi](/wiki/Mascots#pippi)
 [Beatmaps](../)
 [Pattern](./Pattern)
 ```
@@ -530,8 +571,8 @@ Good examples include the following:
 
 ```markdown
 [Article styling criteria](/wiki/Article_styling_criteria)
-[Developers](/wiki/Developers)
-[Developers](/wiki/Developers#game-client-developers)
+[Developers](/wiki/People/The_Team/Developers)
+[Developers](/wiki/People/The_Team/Developers#game-client-developers)
 ```
 
 ##### Sub-article links
@@ -539,7 +580,7 @@ Good examples include the following:
 Wiki links that point to a sub-article should include the parent article's folder name in its link text. See the following example:
 
 ```markdown
-*See also: [Beatmap Editor/Design](/wiki/Beatmap_Editor/Design)*
+*See also: [Beatmap Editor/Design](/wiki/Client/Beatmap_editor/Design)*
 ```
 
 ##### Section links
@@ -569,7 +610,7 @@ The link text of the user link should be the user's current name.
 Whenever linking to a single difficulty, use this format as the link text:
 
 ```
-{artist} - {title} ({creator}) [{difficuty_name}]
+{artist} - {title} ({creator}) [{difficulty_name}]
 ```
 
 The link must actually link to that difficulty. Beatmap difficulty URLs must be formatted as follows:
@@ -613,20 +654,38 @@ There are two types of image links: inline and reference. Examples:
 **Inline style:**
 
 ```markdown
-![](/wiki/shared/flag/AU.gif)
+![Gold crown](/wiki/shared/crown-gold.png "1st place")
 ```
 
 **Reference style:**
 
 ```markdown
-![][flag_AU]
+![Gold crown][GCrown]
 
-[flag_AU]: /wiki/shared/flag/AU.gif
+[GCrown]: /wiki/shared/crown-gold.png "1st place"
 ```
 
-Images should use the inline linking style. References to reference links must be placed at the bottom of the article.
+Images should use the inline linking style. Reference link definitions must be placed at the bottom of the article.
 
-Images must be placed in a folder named `img`, located in the article's folder. Images that are used in multiple articles should be stored in the `/wiki/shared/` folder.
+### Alternative and title text
+
+The text in the first pair of square brackets (*alternative text*) should describe the image literally. It is used by screen readers or when the image fails to load. It can be omitted if it is identical to the title text or if the image is included only for decorative purposes.
+
+The text in the quotation marks (*title text*) should give additional context to the image or indicate its meaning. It is displayed as a tooltip when hovering over the image and used as a caption if applicable. It does not support any markdown formatting.
+
+### Display
+
+If an image is the sole content of a paragraph, it displays as a centred block. Otherwise, it flows with the surrounding inline text.
+
+Block images with title text display the title text as a caption below the image.
+
+Block images are commonly paired with infobox<!-- TODO: link me! --> formatting to reduce their initial size and float them to the side of other content:
+
+```markdown
+::: Infobox
+![](img/mod-response.png "An example of a response to a mod")
+:::
+```
 
 ### Image caching
 
@@ -656,33 +715,7 @@ Where `<input>` is the file name to be compressed and `<output>` is the compress
 
 Use hyphens (`-`) when spacing words. When naming an image, the file name should be meaningful or descriptive but short.
 
-### Formatting and positioning
-
-*Note: It is currently not possible to float an image or have text wrap around it.*
-
-Images on the website will be centred when it is on a single line, by themself. Otherwise, they will be positioned inline with the paragraph. The following example will place the image in the center:
-
-```markdown
-Installing osu! is easy. First, download the installer from the download page.
-
-![](img/download-page.jpg)
-
-Then locate the installer and run it.
-```
-
-### Alt text
-
-Images should have alt text unless it is for decorative purposes.
-
-### Captions
-
-Images are given captions on the website if they fulfill these conditions:
-
-1. The image is by itself.
-2. The image is not inside a heading.
-3. The image has title text.
-
-Captions are assumed via the title text, which must be in plain text. Images with captions are also centred with the image on the website.
+Images must be placed in a folder named `img` under the article's folder. Images that are used in multiple articles should be stored in the `/wiki/shared` folder.
 
 ### Max image width
 
@@ -728,25 +761,15 @@ You must set these settings before taking a screenshot of the game client (setti
 
 Images must not be part of a link text.
 
-Flag icons next to user links must be separate from the link text. See the following example:
+## Flag icons
+
+The flag icons use the two letter code (in all capital letters) to match a certain territory. When adding a flag inline, use this format:
 
 ```markdown
-![][flag_AU] [peppy](https://osu.ppy.sh/users/2)
+::{ flag=XX }::
 ```
 
-### Flag icons
-
-*For a list of flag icons, see: [issue \#328](https://github.com/ppy/osu-wiki/issues/328)*
-
-The flag icons use the two letter code (in all capital letters) and end with `.gif`. When adding a flag inline, use this format:
-
-```markdown
-![](/wiki/shared/flag/xx.gif)
-```
-
-Where `xx` is the [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) two-lettered country code for the flag.
-
-The full country name should be added in the title text. The country code in the alternate text is optional, but must be applied to all flag icons in the article.
+Where `XX` is the [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) two-lettered country code for the flag.
 
 ## Tables
 
@@ -774,9 +797,66 @@ The following is an example of what a table should look like:
 | Maria | No Contest | Mocha |  |
 ```
 
+## Footnotes
+
+Footnotes are short notes located at the end of the page. They are used for citing sources, or providing background information that would otherwise disrupt the flow of the article. Footnotes may contain text formatting and links.
+
+In the osu! wiki, footnotes are implemented using special syntax (`[^identifier]`). Footnotes can use any identifier, but they will automatically be rendered as superscripts with increasing numbers in order of their first appearance. Translations must not modify identifiers of footnotes.
+
+Footnote references are placed directly after the words, phrases, or sentences they explain, with no space in between. These references must be placed after punctuation, except for parentheses, when they pertain to the contents inside, and dashes.<!-- Taken from https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Punctuation_and_footnotes -->
+
+The footnotes themselves must be placed in a separate second-level heading at the end of the article. Depending on the content, the heading used may be `References`, `Notes`, or `Notes and references`.
+
+Correct usage examples:
+
+```markdown
+The osu! wiki is a project that was meant to replace the old FAQ system.[^wiki-faq] It was named after the rhythm game osu![^osu] and the largest open online encyclopedia, Wikipedia. From the very start, it had attracted skillful translators[^wiki-tl] and editors.
+
+## References
+
+[^wiki-faq]: https://osu.ppy.sh/community/forums/topics/68525
+[^wiki-tl]: https://osu.ppy.sh/community/forums/posts/1177500
+[^osu]: https://osu.ppy.sh/community/forums/posts/1178153
+```
+
+### Citations
+
+Citations, or references, are used to identify a source of information. Citations via footnotes should be preferred over inline links.
+
+Example:
+
+```markdown
+The first version of the osu!api was made available on July 2, 2013.[^api-first-usage] It had received critical acclaim from users.[^api-praise]
+
+## References
+
+[^api-first-usage]: [osu!api open beta](https://osu.ppy.sh/community/forums/posts/2403913)
+[^api-praise]: [osu!api open beta](https://osu.ppy.sh/community/forums/posts/2662247)
+```
+
+### Notes
+
+Footnotes may be used for storing explanations or tangential remarks which cannot be inlined without worsening the article's readability, or are less significant than the article itself. Such footnotes may use free-form text.
+
+Example:
+
+```markdown
+A tournament must not be organised and run by an inexperienced team of unaccomplished and irreputable staff.[^staff]
+
+## Notes
+
+[^staff]: An *inexperienced* staff member is loosely defined as someone who has been playing osu! for less than an hour in total.
+```
+
 ## Blockquotes
 
-The blockquote is limited to quoting text from someone. It must not be used to format text otherwise.
+The blockquote is limited to [quoting someone or something](/wiki/Article_styling_criteria/Writing#block-quotation). It must not be used to format text otherwise.
+
+```markdown
+> plz enjoy game
+
+—rrtyui
+```
 
 ## Thematic breaks
 

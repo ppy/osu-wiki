@@ -1,34 +1,39 @@
 # Storyboard scripting
 
-![An example of scripting in .osb](img/SBS_Base.jpg "An example of scripting in .osb")
+![Screenshot of a storyboard script open in "Code - OSS"](img/osb-example.png "Example of a storyboard script (.osb)")
 
-In addition to the [built-in storyboard editor](/wiki/Beatmap_Editor/Design), a plain text editor, such as Notepad, [Notepad++](https://www.notepad-plus-plus.org/), or [Visual Studio Code](https://code.visualstudio.com/), can also be used to create [storyboards](/wiki/Storyboard) for beatmaps. This workflow is called **storyboarding by scripting** (*SBS*) and it allows one to be more precise (to the pixel and the millisecond) as to when sprites appear, how they behave, and so on.
+**Storyboard scripting** is the process of editing osu! [storyboards](/wiki/Storyboard) via their [`.osb`](/wiki/Client/File_formats/Osb_(file_format)) and [`.osu`](/wiki/Client/File_formats/Osu_(file_format)) files. These files define images and effects that the [game client](/wiki/Client) renders into background animations during gameplay.
 
-To study a specific part of scripting, head to one of the articles below:
+Scripting is a common alternative to [the game client's storyboard editor](/wiki/Client/Beatmap_editor/Design) when precision or complexity are required. With a text editor such as [Notepad](https://en.wikipedia.org/wiki/Windows_Notepad "\"Windows Notepad\" on Wikipedia"), [Notepad++](https://www.notepad-plus-plus.org/), or [Visual Studio Code](https://code.visualstudio.com/), storyboarders can edit the exact values of [objects](Objects) and [commands](Commands) instead of using on-screen controls. Many storyboarders also make use of [programming](https://en.wikipedia.org/wiki/Computer_programming "\"Computer programming\" on Wikipedia") to build storyboard files that would be difficult to create manually.
 
-- Basic concepts:
-  - [General rules of storyboarding](General_Rules)
-  - [Objects](Objects)
-  - [Basic commands](Commands)
-  - [Compound commands](Compound_Commands)
-  - [Variables](Variables)
-- Extra:
-  - [Playing audio](Audio)
-  - [Storyboard scripting cheat sheet](Cheat_Sheet)
-  - [osu! file toggles](osu!_File_Toggles)
-  - [Short versions of commands](Shorthand)
+*Warning: Avoid editing storyboard scripts of a [beatmap](/wiki/Beatmap) currently open in the [beatmap editor](/wiki/Client/Beatmap_editor). Your work may be overwritten when saving the beatmap.*
 
-## Overview
+## Concepts and file format
 
-There is an overview of the storyboard scripting concepts provided by [Doomsday](https://osu.ppy.sh/users/18983): [osu! - Storyboard Scripting for Beginners (12:22)](https://www.youtube.com/watch?v=UJ1YLDs-bZg).
+<!-- storyboarding concepts should be at the same level as this article, and only details of scripting and the file format itself should be below this article, but sub-articles currently mix together this information -->
 
-## Full specification
+See the following articles:
 
-*Note: Save your work in the built-in editor first, as it optimises some things out, and only then in a plain text editor. **Save often** to prevent accidental progress loss.*
+- [General rules for storyboarding](General_Rules)
+- [Objects](Objects)
+- [Commands](Commands)
+- [Compound commands](Compound_Commands)
+- [Audio samples](Audio)
+- [osu! file toggles](osu!_File_Toggles)
+- [Variables](Variables)
+- [Shorthand](Shorthand)
+- [Cheat sheet](Cheat_Sheet)
 
-The storyboard scripting process is primarily based on [the official specifications](https://osu.ppy.sh/community/forums/topics/1869) and experience in making large storyboards. Although the osu! wiki articles provide simple examples, they are not step-by-step guides. Instead, the explanations aim to exhaustively detail how the basic scripting commands translate into the on-screen actions in osu!.
+<!-- (in a new section) seems like the place to link the top level of a storyboarding guide on the wiki... if there was one! -->
 
-Before writing storyboard scripts, check [the terms and basic concepts](/wiki/Storyboard/Scripting/General_Rules) to prevent possible further issues and misunderstanding. For more in-depth explanations, see:
+## Community tools
 
-- [Storyboard objects](/wiki/Storyboard/Scripting/Objects)
-- [Storyboard scripting commands](/wiki/Storyboard/Scripting/Commands)
+<!-- as-is, this section's only purpose is to say that these projects exist (plus a popular example). this would be a good place to link away to other helpful projects or an article about them. -->
+
+Various tools have been made by the community to abstract and build upon storyboard scripting, such as ::{ flag=FR }:: [Damnae](https://osu.ppy.sh/users/989377)'s [storybrew](https://github.com/Damnae/storybrew "GitHub repository").
+
+<!--
+might be useful reference for historical topics in/around this article
+- first public sb specs https://osu.ppy.sh/community/forums/topics/1869
+- first(or close to it) video tutorial about scripting https://www.youtube.com/watch?v=UJ1YLDs-bZg
+-->

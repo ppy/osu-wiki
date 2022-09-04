@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 1c921bb312848bb2dce76217542281d0db5a6825
+---
+
 # Panduan kontribusi osu! wiki
 
 Terima kasih atas minatnya untuk membuat osu! wiki tempat yang lebih baik! Panduan ini ditujukan untuk pendatang baru yang belum pernah bekerja dengan GitHub dan belum mengenal alur kerja kontribusi osu! wiki sebelumnya. Jika kamu sudah memiliki pengalaman menggunakan GitHub, kamu bisa melewati panduan ini dan langsung mengikuti alur kerja *feature-branch* untuk pembaruan konten di repositori ini.
@@ -44,7 +49,7 @@ Jika, kamu kebingunan di beberapa bagian dari artikel ini dan/atau membutuhkan b
 
 3. Kesalahan di atas bukan masalah besar, kecuali, jika kamu akan menyunting file yang sudah disunting sebelumnnya dan berkemungkinan besar branch kamu tertinggal dengan semakin banyaknya commit yang dibuat oleh orang lain terhadap file tersebut.
 
-4. Untuk mengatasi ini, lihat [Bagian branch saya belum diperbarui! dalam artikel Masalah Umum.](/wiki/osu!_wiki/Contribution_guide/Common_Issues#branch-saya-belum-diperbarui!).
+4. Untuk mengatasi ini, lihat [Bagian branch saya belum diperbarui! dalam artikel Masalah Umum.](/wiki/osu!_wiki/Contribution_guide/Best_practices#syncing-the-fork).
 
 5. Ketika kamu telah selesai mengikuti langkah 4, lanjutkan ke tahap [Menyunting dari daring ataupun luring](#menyunting-dari-daring-ataupun-luring).
 
@@ -52,7 +57,7 @@ Jika, kamu kebingunan di beberapa bagian dari artikel ini dan/atau membutuhkan b
 
 Pada titik ini, kamu memiliki dua pilihan dalam penyuntingan file:
 
-- [GitHub Web Interface](/wiki/osu!_wiki/Contribution_guide/GitHub_Web_Interface) - menyunting dari daring; pilihan terbaik untuk penyuntingan artikel tunggal
+- [GitHub Web Interface](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor) - menyunting dari daring; pilihan terbaik untuk penyuntingan artikel tunggal
 - [GitHub Desktop](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop) - menyunting dari luring; pilihan terbaik untuk penyuntingan artikel tunggal dan/atau ganda (juga termasuk mengunggah, menghapus, dan memindahkan gambar atau file)
 
 *Catatan: Kamu tidak dibatasi dengan kedua pilihan yang tercantum di atas untuk kebutuhan penyuntingan.* Untuk menjaga panduan ini singkat dan sederhana, artikel-artikel ini tidak akan membahas penggunaan alat-alat yang digunakan secara mendalam. Terdapat aplikasi pihak ketiga lainnya yang dapat melakukan lebih banyak atau lebih sedikit dari apa yang sudah dilakukan oleh GitHub Web Interface dan GitHub Desktop.
@@ -93,7 +98,7 @@ Pada titik ini, kamu memiliki dua pilihan dalam penyuntingan file:
 
 10. Setelah semuanya siap, klik tombol `Create pull request`.
 
-    ![](img/new-pull-request.jpg "Selesai dan sempurna")
+    ![](img/new-pull-request.png "Selesai dan sempurna")
 
 11. Lihat tahap [Peninjauan](#peninjauan) dan tahap [Penggabungan](#penggabungan) di bawah.
 

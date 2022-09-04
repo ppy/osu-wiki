@@ -12,12 +12,12 @@ Pertanyaan tes diambil dari banyak pertanyaan yang diurutkan berdasarkan kategor
 
 - [Peraturan Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators/Rules): 5 pertanyaan
 - [Kode Etik Mapping dan Modding](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping): 1 pertanyaan
-- [Kriteria Ranking Secara Umum](/wiki/Ranking_Criteria#general): 1 pertanyaan
+- [Kriteria Ranking Secara Umum](/wiki/Ranking_Criteria#umum): 1 pertanyaan
 - [Kriteria Ranking Tentang Spread](/wiki/Ranking_Criteria#beatmap): 1 pertanyaan
 - [Kriteria Ranking Tentang Metadata](/wiki/Ranking_Criteria#metadata): 1 pertanyaan
 - [Kriteria Ranking Tentang Timing](/wiki/Ranking_Criteria#timing): 1 pertanyaan
 - [Kriteria Ranking Tentang Audio](/wiki/Ranking_Criteria#audio): 1 pertanyaan
-- [Kriteria Ranking Tentang Video dan Background](/wiki/Ranking_Criteria#video-and-background): 1 pertanyaan
+- [Kriteria Ranking Tentang Video dan Background](/wiki/Ranking_Criteria#video-dan-latar-belakang): 1 pertanyaan
 - [Kriteria Ranking Tentang Skinning](/wiki/Ranking_Criteria#skinning): 1 pertanyaan
 - [Kriteria Ranking Tentang Storyboarding](/wiki/Ranking_Criteria#storyboarding)
 - Kriteria Ranking secara spesifik dari suatu mode: 4 pertanyaan secara spesifik dari mode permainan yang dipilih (osu!, osu!taiko, osu!catch, osu!mania)

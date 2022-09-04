@@ -8,7 +8,7 @@ It's that time of the month again; [Project Loved](https://osu.ppy.sh/community/
 
 ![](/wiki/shared/news/banners/project-loved.jpg)
 
-In case you aren't familiar, Project Loved hosts monthly votings to decide which maps get added to the [Loved](https://osu.ppy.sh/beatmapsets?s=loved) category. You can click each map's banner to vote whether or not you want it Loved. Voting is open for 10 days, starting now! You can read more about how Project Loved works on its [wiki page](/wiki/Project_Loved).
+In case you aren't familiar, Project Loved hosts monthly votings to decide which maps get added to the [Loved](https://osu.ppy.sh/beatmapsets?s=loved) category. You can click each map's banner to vote whether or not you want it Loved. Voting is open for 10 days, starting now! You can read more about how Project Loved works on its [wiki page](/wiki/Community/Project_Loved).
 
 ### Navigation
 
@@ -207,6 +207,6 @@ This next 7K pick has seen some play from last year's 7K osu!mania World Cup 201
 
 ---
 
-From everyone on the [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team), we hope you enjoyed this month's selection, and are looking forward to the next! The favoured beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) shortly after the polls end. More info about Project Loved can be found on its [wiki page](/wiki/Project_Loved).
+From everyone on the [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team), we hope you enjoyed this month's selection, and are looking forward to the next! The favoured beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) shortly after the polls end. More info about Project Loved can be found on its [wiki page](/wiki/Community/Project_Loved).
 
 —clayton

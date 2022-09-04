@@ -1,103 +1,90 @@
 # GitHub Desktop
 
-*Cet article est la continuité de la page principale* et suppose que vous utiliserez [GitHub Desktop](https://desktop.github.com). **Vous pouvez utiliser d'autres clients git à vos propres conditions.** Même si vous travaillez en local, vous devrez toujours accéder à GitHub pour créer des pull request permettant d'effectuer vos modifications.
+*Cet article est la suite de [la page principale](/wiki/osu!_wiki/Contribution_guide)* et suppose que vous utilisez [GitHub Desktop](https://desktop.github.com). **Même si vous travaillez localement, vous aurez toujours besoin d'accéder à GitHub pour créer des pull requests afin de réaliser vos changements.
 
-## Installer GitHub Desktop
+## Installation de GitHub Desktop
 
-1\. Installer [GitHub Desktop](https://desktop.github.com) si vous ne l'avez pas déjà installé.
-
-2\. Lorsque le programme d'installation est terminé, GitHub Desktop vous invitera à vous connecter, cliquez sur `Sign in to GitHub.com`.
-
-3\. Remplissez les invites telles qu'elles apparaissent.
-
-4\. Continuer à [Clonage](#clonage).
+1. Installez [GitHub Desktop](https://desktop.github.com) si vous ne l'avez pas déjà installé.
+2. Une fois l'installation terminée, GitHub Desktop vous invite à vous connecter, cliquez sur `Sign in to GitHub.com`.
+3. Répondez aux questions au fur et à mesure qu'elles apparaissent.
+4. Passez à [Clonage](#clonage).
 
 ## Clonage
 
-1\. Cliquer sur `Clone a repository`.
+1. Cliquez sur `Clone a repository`..
 
-2\. Cela affichera une liste de vos repos; sélectionnez le `osu-wiki`.
+2. Cela affichera une liste de vos dépôts ; sélectionnez le dépôt `osu-wiki`.
 
-3\. Sélectionnez l'emplacement du clone. Peu importe où vous clonez le repo, rappelez-vous juste où vous l'avez cloné.
+3. Sélectionnez l'emplacement du clone. L'endroit où vous clonez le dépôt n'a pas d'importance, souvenez-vous simplement de l'endroit où vous l'avez cloné.
 
-![](img/github-desktop-select-repo.jpg)
+   ![](img/github-desktop-select-repo.jpg)
 
-4\. Cliquez sur `Clone`. Cela peut prendre un certain temps en fonction de votre environnement réseau.
+4. Cliquez sur `Clone`. Cela peut prendre un certain temps en fonction de votre environnement réseau.
 
-5\. Continuer à [Branching](#branching).
+5. Continuer vers [Branches](#branches).
 
-## Branching
+## Branches
 
-*Remarque: Ceci est techniquement optionnel, mais fortement recommandé pour des raisons que vous devrez rechercher vous-même.*
+Bien que les branches soient techniquement facultatives, elles sont [fortement recommandées pour plusieurs raisons](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow). Pour n'en citer que quelques-unes :
 
-1\. Cliquez sur le menu déroulant  `Current branch`. Celui-ci est situé en haut du menu.
+- Les branches isolent les différentes modifications logiques les unes des autres : vous pouvez travailler sur plusieurs articles et les faire réviser et fusionner séparément.
+- Lorsque vos modifications sont en dehors de la branche `master`, vous pouvez [les synchroniser en toute sécurité](/wiki/osu!_wiki/Contribution_guide/Best_practices#synchronisation-d'un-fork) sans conflits de fusion.
 
-2\. Entrez un nom pour cette branche. Il est suggéré d'utiliser le nom de l'article que vous modifiez en tant que nom de branche suivi d'un numéro. Par exemple, pour éditer l'article `Forums` il faudra appeller la branche `forums1`.
+1. Cliquez sur le menu déroulant `Current branch` situé en haut du menu.
 
-![](img/github-desktop-branch.jpg)
+2. Saisissez le nom de la branche. Il est suggéré d'utiliser le résumé de vos modifications comme nom de branche. Par exemple, si vous modifiez l'article `Forums`, la branche s'appellera `update-forums-FR`.
 
-3\. Continuez à [Édition](#édition).
+   ![](img/github-desktop-branch.jpg)
+
+3. Continuer vers [Édition](#édition).
 
 ## Édition
 
-1\. Dans le dossier dans lequel vous avez cloné le référentiel, accédez au fichier que vous souhaitez modifier. Les articles sont organisés en fonction des noms de dossier, à savoir les noms d’articles et les fichiers `.md` en local.
-
-2\. Une fois que vous avez trouvé le bon fichier, ouvrez-le à l'aide de votre éditeur de texte préféré.
-
-3\. Vous pouvez maintenant apporter vos modifications. Lorsque vous effectuez des modifications, essayez de suivre les [Critères de style pour les Article](/wiki/ASC) du mieux que vous pouvez.
-
-4\. Continuez à [Committing et pushing](#committing-and-pushing).
+1. Dans le dossier dans lequel vous avez cloné le dépôt, naviguez jusqu'au fichier que vous voulez modifier. Les articles sont organisés par les noms de dossiers qui sont les noms d'articles et les fichiers `.md` qui sont les locales.
+2. Une fois que vous avez trouvé le bon fichier, ouvrez-le en utilisant votre éditeur de texte préféré.
+3. Vous pouvez maintenant apporter vos modifications. Prenez un moment pour passer également en revue le [self-check](/wiki/osu!_wiki/Contribution_guide#self-check) aussi fidèlement que possible.
+4. Continuer vers [Commits et pushs](#commits-et-pushs).
 
 ### Déplacement de fichiers existants
 
-1\. Utilisez l'explorateur Windows pour déplacer des fichiers.
+1. Utilisez l'Explorateur Windows pour déplacer les fichiers.
+2. Continuer vers [Commits et pushs](#commits-et-pushs).
 
-2\. Continuez à [Committing and pushing](#committing-and-pushing).
+### Création de nouveaux fichiers
 
-### Créer de nouveaux fichiers
+*Attention : Si vous comptez créer des fichiers d'articles à l'aide de l'Explorateur Windows, assurez-vous que l'option `Masquer les extensions des fichiers dont le type est connu` est désactivée.* Voir [Toujours afficher les extensions des fichiers](https://www.pcastuces.com/pratique/astuces/4584.htm) pour les instructions.
 
-*Attention: Si vous envisagez de créer des fichiers d’article à l’aide de l’explorateur Windows, assurez-vous que l'option `Extensions de nom de fichier` est activée.* Voir [Comment afficher ou masquer les extensions de nom de fichier dans l'Explorateur Windows](https://support.microsoft.com/en-us/help/865219/how-to-show-or-hide-file-name-extensions-in-windows-explorer) pour les instructions.
-
-1\. Utilisez l'explorateur Windows, votre éditeur d'images préféré et/ou votre éditeur de texte préféré pour créer de nouveaux fichiers. Si vous créez de nouveaux articles ou traductions, renommez le fichier pour suivre les instructions des [Paramètres régionaux dans les critères de style d'article](/wiki/Article_styling_criteria/Formatting#locales).
-
-2\. Continuer à [Committing and pushing](#committing-and-pushing).
+1. Utilisez l'Explorateur Windows, votre éditeur d'images préféré et/ou votre éditeur de texte préféré pour créer de nouveaux fichiers. Si vous créez de nouveaux articles ou de nouvelles traductions, renommez le fichier pour respecter les [Locales dans les critères de mise en forme des articles](/wiki/Article_styling_criteria/Formatting#locales).
+2. Continuer vers [Commits et pushs](#commits-et-pushs).
 
 ### Suppression de fichiers
 
-1\. Utilisez l'explorateur Windows pour supprimer des fichiers.
+1. Utilisez l'Explorateur Windows pour supprimer des fichiers.
+2. Continuer vers [Commits et pushs](#commits-et-pushs).
 
-2\. Continuez à [Committing and pushing](#committing-and-pushing).
+## Commits et pushs
 
-## Committing and pushing
+1. Retournez sur le bureau GitHub. Il devrait ressembler à ceci :
 
-1\. Retournez sur GitHub Desktop. Cela devrait ressembler à ceci :
+  ![](img/github-desktop-changes.jpg "Le nombre de fichiers peut varier.")
 
-![](img/github-desktop-changes.jpg "Votre kilométrage peut varier.")
+2. Par défaut, GitHub Desktop sélectionne automatiquement toutes vos modifications.
+3. Il est préférable de séparer chaque "grosse" action en un seul commit.
 
-2\. Par défaut, GitHub Desktop sélectionnera automatiquement toutes vos modifications.
+Par exemple, comme illustré ci-dessus, [pippi](/wiki/Mascots#pippi) a ajouté un fichier image, modifié le fichier `en.md` pour ajouter un titre et un lien vers l'image, et marqué les traductions comme obsolètes. A partir de cela, nous pouvons avoir deux commits, un pour les changements qui ont affecté le fichier `en.md`, et un pour marquer les traductions comme obsolètes.
 
-3\. Il est préférable de séparer chaque "grosse" action en un seul commit.
+4. Sélectionnez les fichiers qui vont être placés dans le commit.
+5. Entrez le résumé du commit. Il est limité à 72 caractères et **doit être en anglais**.
+6. Saisissez la description. Celle-ci est facultative, n'est pas limitée en nombre de caractères et peut être rédigée dans n'importe quelle langue.
 
-Par exemple, comme illustré ci-dessus, [pippi](/wiki/Mascots#-pippi) avait ajouté un fichier image, modifié le fichier `en.md` pour ajouter un titre et un lien à l'image, et marquer les traductions comme obsolètes. À partir de là, nous pouvons avoir deux commits, un pour les changements qui ont affecté le fichier`en.md` et un pour marquer les traductions comme obsolètes.
+  ![](img/github-desktop-first-commit.jpg "Premier commit")
 
-4\. Sélectionnez les fichiers à valider.
+7. Cliquez sur le bouton bleu `Commit to` et, le cas échéant, recommencez depuis l'étape 4 pour faire les autres commits que vous voulez faire.
 
-5\. Entrez le message de commit. Celui-ci est limité à 72 caractères et **doit être en anglais**.
+  ![](img/github-desktop-second-commit.jpg "Deuxième commit")
 
-6\. Entrez la description. Ceci est facultatif, n’a pas de limite de caractères et peut être dans n’importe quelle langue.
+8. Une fois que vous avez fini de faire vos commits, cliquez sur le bouton `Publish branch` en haut.
 
-![](img/github-desktop-first-commit.jpg "Premier commit")
+  ![](img/github-desktop-push.jpg)
 
-7\. Cliquez sur le bouton bleu `Commit to` et, le cas échéant, recommencez à partir de l'étape 4 pour effectuer les autres commits que vous souhaitez effectuer.
-
-![](img/github-desktop-second-commit.jpg "Deuxième commit")
-
-8\. Une fois que vous avez terminé vos commits, cliquez sur le bouton `Publish branch` en haut à droite.
-
-![](img/github-desktop-push.jpg)
-
-9\. Continuez à [Finition](#finition).
-
-## Finition
-
-Vous pouvez maintenant revenir à [osu! Guide de contribution au wiki](/wiki/osu!_wiki/Contribution_guide#finishing) pour la dernière information concernant votre demande et vos modifications.
+9. Continuez vers [Review](/wiki/osu!_wiki/Contribution_guide#review) pour le dernier élément d'information concernant votre pull request et les changements.

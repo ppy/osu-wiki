@@ -27,7 +27,7 @@ Make sure that:
 - You make the Video Capture Hotkey a key that won't be in the way;
 - If you get a output video that has a jumpy framerate, that you limit the framerate to 30. If this isn't the case, just use 60 FPS;
 - If you get a output video that has a low framerate, that you record 'half-size'. The video will be the half of the resolution its recorded from (alternatively: you could run osu! in a lower resolution when recording);
-- You have enough free space left on your harddisc. If not, the video will end early when there isn't anymore space left to store;
+- You have enough free space left on your hard disk. If not, the video will end early when there isn't anymore space left to store;
 - No Cursor is checked
 - YOU RECORD SOUND! There is nothing worse then osu! videos with later added music.
 

@@ -12,7 +12,7 @@ Known for handling essentially all types of vocal atmospheres and moods, **Natsu
 
 We've snagged just about **every song** (19 in total) from her four-album-discography, so check it all out from [her Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/189)!
 
-**Natsume Itsuki** is a new name to the osu! scene despite creating music that perfectly checks all the boxes for music loved by osu! players. To see what we mean, check out a quick double-mouse-only sample of her music below, as well as some awesome [showcase maps](/wiki/Featured_Artists/Featured_Artist_Showcase_Beatmaps) created by members of the Mappers' Guild:
+**Natsume Itsuki** is a new name to the osu! scene despite creating music that perfectly checks all the boxes for music loved by osu! players. To see what we mean, check out a quick double-mouse-only sample of her music below, as well as some awesome [showcase maps](/wiki/Featured_Artists/Featured_Artist_showcase_beatmaps) created by members of the Mappers' Guild:
 
 <div align="center">
     <video width="95%" controls>

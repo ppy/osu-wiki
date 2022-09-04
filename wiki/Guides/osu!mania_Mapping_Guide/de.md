@@ -1,3 +1,9 @@
+---
+outdated_translation: true
+---
+
+<!--Adjust content to English article and review grammar-->
+
 # osu!mania Mapping Guide
 
 Dieser Guide wurde von erstellt. Bei diesem Guide hat er sich ein wenig an Hanyuu's Mapping Guide (Englisch!) orientiert.
@@ -77,7 +83,7 @@ Alles klar! Ziehen wir die .mp3 des Songs den wir mappen wollen einfach in Osu r
 | HP Drain Rate: | Hier wählen wir aus wie viel HP der Spieler verliert wenn er eine Note nicht trifft. Wichtig!: Anders als in Standard oder Catch the Beat schwindet die HP in Mania nicht langsam von allein sonder nur wenn ihr eine Note nicht trefft! Die HP Drain Rate kann als beispiel etwas höher gestellt werden sollte euer Song viel einfacher zu spielen sein als für das Starrating eigentlich gewollt. Übertreibt es jedoch nicht. Alles über HP9 ist sehr sehr schwer zu halten! |
 | Key Count: | Der Key Count ist die Tastenzahl in der wir Mappen wollen. In diesem Guide benutzen wir 4, für 4 Tasten. Ihr möchtet mehr Keys Mappen? Nur zu! Ihr habt die freie Wahl! 4K und 7K sind der am öftesten gespielte Key Count. Wichtig!: Nicht jeder Key Count ist Rankable! In Osu!Mania sind es aktuell nur: 4K, 5K, 6K, 7K, 8K, 9K. In Zukunft kommen bestimmt noch mehr dazu. Der Unterpunkt "Co-Op" wird ab 5K auswählbar. In Osu!Mania gibt es den "Co-Op" Mod der es euch ermöglicht auf 2 Spielfeldern zu spielen. Co-Op ist unrankable und einfach nur ein zusätzlicher Multiplayer Mod. |
 | Approach Rate: | Dieser Punkt wird in Osu!Mania nicht benutzt und ist auch nicht verstellbar. |
-| Overall Difficulty: | Die Overall Difficulty oder auch "OD" bestimmt die Genauigkeit, die ihr braucht, um z.B einen 300er zu Treffen. Die Regel für Osu!Mania ist: Je mehr LN's ihr benutzt, umso niedriger solltet ihr die OD stellen. (Immer zwischen 7 und 9 da alles andere zu einfach/zu schwer wäre). Je weniger LN's ihr habt desto höher solltet ihr die OD stellen und umgekehrt. |
+| Overall Difficulty: | Die Overall Difficulty oder auch "OD" bestimmt die [Genauigkeit](/wiki/Gameplay/Judgement), die ihr braucht, um z.B einen 300er zu Treffen. Die Regel für Osu!Mania ist: Je mehr LN's ihr benutzt, umso niedriger solltet ihr die OD stellen. (Immer zwischen 7 und 9 da alles andere zu einfach/zu schwer wäre). Je weniger LN's ihr habt desto höher solltet ihr die OD stellen und umgekehrt. |
 
 #### Design
 
@@ -120,7 +126,7 @@ Verwendet dieses Programm auch nicht um die BPM eines Songs herauszufinden. Benu
 
 #### Timing Setup Panel
 
-![Timing Setup](/wiki/Beatmap_Editor/Timing/img/TimingSetup.jpg "Timing Setup")
+![Timing Setup](/wiki/shared/timing/TimingSetup.png "Timing Setup")
 
 | Name | Beschreibung |
 | :-- | :-- |

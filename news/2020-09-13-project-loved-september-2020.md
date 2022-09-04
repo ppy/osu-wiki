@@ -8,7 +8,7 @@ date: 2020-09-13 09:15:00 +0000
 
 ![](/wiki/shared/news/banners/project-loved.jpg)
 
-In case you don't know how it works, Project Loved hosts monthly polls to decide which maps get added to the [Loved](https://osu.ppy.sh/beatmapsets?s=loved) category. You can click each map's banner to vote whether or not you want it Loved. Voting is open for 10 days, starting right now! You can read more about how Project Loved works on its [wiki page](/wiki/Project_Loved).
+In case you don't know how it works, Project Loved hosts monthly polls to decide which maps get added to the [Loved](https://osu.ppy.sh/beatmapsets?s=loved) category. You can click each map's banner to vote whether or not you want it Loved. Voting is open for 10 days, starting right now! You can read more about how Project Loved works on its [wiki page](/wiki/Community/Project_Loved).
 
 ### Navigation
 
@@ -249,6 +249,6 @@ To the uninitiated, this may look like an out of place low difficulty chart with
 
 ---
 
-From everyone on the [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team), we hope you enjoyed this month's selection, and are looking forward to the next! The favoured beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) shortly after the polls end. More info about Project Loved can be found on its [wiki page](/wiki/Project_Loved).
+From everyone on the [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team), we hope you enjoyed this month's selection, and are looking forward to the next! The favoured beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) shortly after the polls end. More info about Project Loved can be found on its [wiki page](/wiki/Community/Project_Loved).
 
 —huu

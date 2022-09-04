@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated_translation: true
 ---
 
 # osu!taiko
@@ -12,11 +12,11 @@ Estas reglas y pautas han sido discutidas en el [subforo de Ranking Criteria (en
 
 ### Nombres de la dificultades
 
-- ![Kantan](/wiki/shared/diff/easy-t.png "Kantan") **Kantan:** Fácil
-- ![Futsuu](/wiki/shared/diff/normal-t.png "Futsuu") **Futsuu:** Normal
-- ![Muzukashii](/wiki/shared/diff/hard-t.png "Muzukashii") **Muzukashii:** Difícil
-- ![Oni](/wiki/shared/diff/insane-t.png "Oni") **Oni:** Experto / Extremo
-- ![Inner/Ura Oni](/wiki/shared/diff/expert-t.png "Inner/Ura Oni") **Inner/Ura Oni:** Extra
+- ![Kantan](/wiki/shared/diff/easy-t.png?20211215 "Kantan") **Kantan:** Fácil
+- ![Futsuu](/wiki/shared/diff/normal-t.png?20211215 "Futsuu") **Futsuu:** Normal
+- ![Muzukashii](/wiki/shared/diff/hard-t.png?20211215 "Muzukashii") **Muzukashii:** Difícil
+- ![Oni](/wiki/shared/diff/insane-t.png?20211215 "Oni") **Oni:** Experto / Extremo
+- ![Inner/Ura Oni](/wiki/shared/diff/expert-t.png?20211215 "Inner/Ura Oni") **Inner/Ura Oni:** Extra
 
 El prefijo `Inner` o `Ura` puede ser usado con el fin de indicar una dificultad mayor a la que indique su nombre base, pero menor a la de la dificultad siguiente (Por ejemplo: Ura Kantan es más dificil que Kantan, pero más facil que Futsuu).
 
@@ -83,7 +83,7 @@ Estas pautas pueden ser quebradas bajo circunstancias **especiales**. Estas exce
 
 Si el BPM del mapa ha sido modificado para tener el doble o la mitad de pulsos por minuto, el Slider Velocity base, las reglas y las pautas mencionadas aquí deben ser ajustadas apropiadamente.
 
-### ![Kantan](/wiki/shared/diff/easy-t.png "Kantan") Kantan
+### ![Kantan](/wiki/shared/diff/easy-t.png?20211215 "Kantan") Kantan
 
 #### Reglas
 
@@ -102,13 +102,13 @@ Si el BPM del mapa ha sido modificado para tener el doble o la mitad de pulsos p
 - El Overall Difficulty debe estar ajustado a 4 o un número menor.
 - El HP Drain Rate debe estar ajustado a 6 o un número mayor. En caso de que haya un número alto de notas (debido a la longitud de la canción) puede ser ajustado a un número ligeramente menor a 6.
 
-### ![Futsuu](/wiki/shared/diff/normal-t.png "Futsuu") Futsuu
+### ![Futsuu](/wiki/shared/diff/normal-t.png?20211215 "Futsuu") Futsuu
 
 #### Reglas
 
 - **Está prohibido utilizar patrones hechos en subdivisiones más rápidas que 1/3.** Estos patrones son demasiado complejos para un jugador novato.
 
-Si planeas usar un __Futsuu como la dificultad más baja de tu mapset__, debe adherirse a las siguientes reglas:
+Si planeas usar un **Futsuu como la dificultad más baja de tu mapset**, debe adherirse a las siguientes reglas:
 
 - **Está prohibido utilizar patrones hechos en subdivisiones más rápidas que 1/2.** Estos patrones son demasiado complejos para un jugador novato.
 
@@ -120,7 +120,7 @@ Si planeas usar un __Futsuu como la dificultad más baja de tu mapset__, debe ad
 - **Debes utilizar al menos un descanso de 2/1 o mayor en un período de entre 16/1 y 20/1 de mapeo continuado.** Utilizarlos en menor medida es aceptable si el ritmo de la canción no permite descansos que suenen naturales o si la sección continua no es densa en en general
 - **Puedes utilizar cambios de SV simples.**
 
-Si planeas usar un __Futsuu como la dificultad más baja de tu mapset__, debe adherirse a las siguientes pautas:
+Si planeas usar un **Futsuu como la dificultad más baja de tu mapset**, debe adherirse a las siguientes pautas:
 
 - **Los patrones en 1/2 no deben ser de más de 5 notas.**
 - **Los cambios de SV deben ser utilizados con precaución.** Estos deben ser utilizados sólo en secciones con ritmos notablemente distintos y el uso de éste no debe ser drástico.
@@ -130,7 +130,7 @@ Si planeas usar un __Futsuu como la dificultad más baja de tu mapset__, debe ad
 - El Overall Difficulty debe estar ajustado a 5 o un número menor.
 - El HP Drain Rate debe estar ajustado a 5 o un número mayor. En caso de que haya un número alto de notas (debido a la longitud de la canción) puede ser ajustado a un número ligeramente menor a 5.
 
-### ![Muzukashii](/wiki/shared/diff/hard-t.png "Muzukashii") Muzukashii
+### ![Muzukashii](/wiki/shared/diff/hard-t.png?20211215 "Muzukashii") Muzukashii
 
 #### Reglas
 
@@ -152,7 +152,7 @@ Si planeas usar un __Futsuu como la dificultad más baja de tu mapset__, debe ad
 - El Overall Difficulty debe estar ajustado a 5 o un número menor.
 - El HP Drain Rate debe estar ajustado a 5 o un número mayor. En caso de que haya un número alto de notas (debido a la longitud de la canción) puede ser ajustado a un número ligeramente menor a 6.
 
-### ![Oni](/wiki/shared/diff/insane-t.png "Oni") Oni
+### ![Oni](/wiki/shared/diff/insane-t.png?20211215 "Oni") Oni
 
 #### Reglas
 
@@ -171,7 +171,7 @@ Si planeas usar un __Futsuu como la dificultad más baja de tu mapset__, debe ad
 - El Overall Difficulty debe estar ajustado a 5 o un número menor.
 - El HP Drain Rate debe estar ajustado a 5 o un número mayor. En caso de que haya un número alto de notas (debido a la longitud de la canción) puede ser ajustado a un número ligeramente menor a 5.
 
-### ![Inner/Ura Oni](/wiki/shared/diff/expert-t.png "Inner/Ura Oni") Inner/Ura Oni
+### ![Inner/Ura Oni](/wiki/shared/diff/expert-t.png?20211215 "Inner/Ura Oni") Inner/Ura Oni
 
 #### Pautas
 

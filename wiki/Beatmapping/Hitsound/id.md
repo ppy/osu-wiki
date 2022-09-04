@@ -1,4 +1,6 @@
 ---
+outdated_since: 5bc5d7cd3430c1ff8eab1fe292a3c05277417620
+outdated_translation: true
 stub: true
 tags:
   - hit sounds
@@ -7,30 +9,34 @@ tags:
 
 # Hitsound
 
-*Lihat juga: [Menambah Kustom Hitsounds](/wiki/Guides/Adding_Custom_Hitsounds)*
+*Lihat juga: [Menggunakan hitsound khusus](/wiki/Guides/Using_custom_hitsounds)*
 
-**Hitsound** adalah efek suara yang dimainkan ketika sedang dalam gameplay osu!, spesifiknya ketika pemain berinteraksi dengan [hit object](/wiki/Hit_Objects). Hitsound biasanya digunakan untuk memberikan umpan balik suara kepada pemain untuk membantu mereka dalam menilai [akurasi](/wiki/Gameplay/Accuracy) yang terkait dengan lagu tersebut.
+**Hitsound** merupakan efek suara yang diputar ketika pemain berinteraksi dengan suatu *[hit object](/wiki/Hit_object)*. Hitsound pada umumnya digunakan sebagai suatu bentuk umpan balik bagi para pemain untuk dapat menilai [akurasi](/wiki/Gameplay/Accuracy) mereka dalam mengenai *hit object* yang bersangkutan.
 
-Hitsound terdiri dari sampel default yang disebut "hit normal", dan kombinasi sampel whistle, finish, atau clap. Setiap sampel memiliki satu dari tiga "sampel set" yang mengubah gayanya: `Normal`,` Soft`, atau `Drum`.
+Hitsound tersusun atas sampel utama yang disebut "hitnormal" dan sampel-sampel tambahan berupa whistle, finish, atau clap yang dapat dikombinasikan. Setiap sampel yang ada merupakan bagian dari suatu set sampel ("*sampleset*") yang masing-masing memiliki karakteristiknya tersendiri, yakni `Normal`,` Soft`, dan `Drum`.
 
-Beatmapper dapat mengganti secara default sampel suara dengan kustom sampel di dalam folder [beatmap](/wiki/Beatmap). [Skin](/wiki/Skinning) pemain juga bisa mengganti hitsound default untuk seluruh beatmap. Detail untuk sampel hitsound dapat ditemukan di dalam artikel [hitsound skinning](/wiki/Skinnning/Sounds#hitsounds).
+Para beatmapper dapat mengganti sampel-sampel *default* milik osu! dengan sampel-sampel lainnya dengan meletakkan sampel-sampel tersebut di dalam folder [beatmap](/wiki/Beatmap) yang bersangkutan. [Skin](/wiki/Skinning) pemain juga dapat mengganti hitsound *default* untuk seluruh beatmap yang ada. Penjelasan lebih lanjut seputar sampel hitsound dapat ditemukan pada artikel [skinning hitsound](/wiki/Skinning/Sounds#hitsounds).
 
-[Spinners](/wiki/Hit_object/Spinner) dan [sliders](/wiki/Hit_object/Slider) memiliki tambahan spinner spin, spinner bonus, slider slide dan slider tick hitsound.
+[Spinner](/wiki/Hit_object/Spinner) dan [slider](/wiki/Hit_object/Slider) memiliki tambahan hitsound spinner spin, spinner bonus, slider slide, dan slider tick.
 
-## Hitsound Aktif
+## Hitsound aktif
 
-Sebuah hitsound aktif berkaitan ke clicking pemain dengan mencapai dampak puncaknya segera saat bermain. Suara sampel Drum paling sering digunakan sebagai hitsound aktif karena mereka memberikan suara jernih dan umpan balik yang bagus.
+Suatu hitsound dikatakan *aktif* apabila hitsound tersebut berada pada *hit object* yang disertai dengan input langsung dari pemain, seperti hit circle atau slider head. Jenis hitsound ini berfungsi untuk membantu pemain dalam menilai apakah mereka menekan suatu *hit object* secara terlalu cepat, terlalu lambat, atau tepat waktu. Jika seorang pemain berhasil menekan suatu *hit object* secara akurat, maka hitsound akan terdengar seirama dengan lagu.
 
-## Hitsound Pasif
+## Hitsound pasif
 
-Sebuah pasif hitsound tidak berkaitan ke clicking pemain. Ini biasanya efek suara yang menemani hitsound aktif.
+Apabila sebuah hitsound berada pada hit object yang tidak disertai dengan input langsung dari pemain, semisal slider repeat atau spinner end, hitsound tersebut dikatakan *pasif*. Jenis hitsound ini akan selalu diputar pada waktu yang sama selama pemain mengenai *hit object* yang bersangkutan. Walaupun pada umumnya hitsound pasif tidak memiliki bobot penekanan (*emphasis*) yang sama dengan hitsound aktif, hitsound pasif dapat membantu para pemain untuk tetap berada dalam iramanya.
 
-Hitsound dapat ditambahkan bersamaan dengan storyboard, tapi karena mereka tidak terhubung dengan clicking pemain, mereka juga tergolong sebagai pasif.
+## Hitsound storyboard
+
+Suatu sampel suara juga dapat dibubuhkan pada storyboard untuk meniru hitsound yang ada. Tidak seperti hitsound yang sesungguhnya, sampel suara ini dapat diputar kapanpun terlepas dari apakah terdapat input langsung dari pemain ataupun tidak. Oleh karenanya, penggunaan sampel suara yang demikian pada umumnya tidak terlalu direkomendasikan. Beberapa mapper terkadang menggunakan teknik ini untuk menjaga agar hitsound mereka tetap konsisten sepanjang permainan.
 
 ## Keysound
 
-Keysound adalah sampel hitsound yang sangat mirip kepada, atau diambil langsung dari, musik dan digunakan untuk mereplika pitch dari not musik. Cara ini biasanya memberikan umpan balik yang rendah kepada pemain, tapi bisa membuat bermain lebih menarik dan membuat sebagian dari map lebih menonjol ketika diterapkan dengan baik.
+Keysound merupakan sampel hitsound yang sengaja dibuat sangat mirip dengan (atau diambil langsung dari) suatu lagu untuk meniru melodi lagu yang bersangkutan. Walaupun keysound pada umumnya tidak memberikan umpan balik yang menonjol, keysound dapat membuat suatu beatmap menjadi lebih menarik apabila digunakan dengan semestinya.
 
-## Di osu!taiko
+## Pada osu!taiko
 
-Berbeda dengan [jenis permainan](/wiki/Game_mode) yang lain, hitsound [osu!taiko](/wiki/Game_mode/osu!taiko) memberikan efek langsung kepada gameplay dari map mereka. Hitsound Kat dibedakan dari Don menggunakan hitsound whistles dan claps, dan not besar (big note) juga dibedakan dari not normal menggunakan hitsound finishers.
+Berbeda dengan [mode-mode permainan](/wiki/Game_mode) lainnya, jenis not yang ada pada suatu beatmap [osu!taiko](/wiki/Game_mode/osu!taiko) secara langsung dipengaruhi oleh hitsound yang digunakan. Setiap whistle dan clap akan mengubah not-not Don menjadi Kat, dan setiap finish akan mengubah ukuran not dari normal menjadi besar (*big note*).
+
+Sampel *default* osu!taiko bersifat khusus untuk mode tersebut, dan mapper biasanya tidak mengganti hitsound tersebut.

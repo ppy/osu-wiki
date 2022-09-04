@@ -7,7 +7,7 @@
 - more proofreading in general
 -->
 
-*Original author: ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717).*
+*Original author: ::{ flag=DE }:: [Feerum](https://osu.ppy.sh/users/4815717).*
 
 This guide will go through how to mod a [beatmap](/wiki/Beatmap) in [osu!mania](/wiki/Game_mode/osu!mania). [Modding](/wiki/Modding) is a relatively simple process, and with enough practice, it can lead you to becoming a [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators). So let's start!
 
@@ -48,7 +48,7 @@ Before posting, make sure the correct tab is selected based on what changes are 
 - **General (This difficulty):** Posts here will be only visible on the difficulty set above. Posts here reflect the complete difficulty instead of singular points, such as feedback on the complete difficulty or spread problems with previous/following difficulties.
 - **Timeline:** This is where the bulk of modding occurs. All problems/suggestions for sections or notes in the difficulty chosen above belong here. Copy/pasting a timestamp from the editor to the discussion page is required before making a post, so the mapper knows what section is being discussed.
 
-Writing something into the text field on the modding discussion page shows three more general buttons, along with two situational buttons depending on what section is chosen. These are important for how important an issue is. Here is a quick explaination of each before going into more detail below:
+Writing something into the text field on the modding discussion page shows three more general buttons, along with two situational buttons depending on what section is chosen. These are important for how important an issue is. Here is a quick explanation of each before going into more detail below:
 
 ### General
 
@@ -65,7 +65,7 @@ When a post is marked as a **suggestion** it is for changes that are subjective 
 
 When a post is marked as a **problem** it is for changes that are required for the rankability of the beatmap and are objectively needed for ranked. Do not post subjective changes as a problem, only when something clearly violates the Ranking Criteria or is extremely unfitting, such as SVs on a section where nothing happens which could justify them, unsnapped notes, or completely mistimed BPM.
 
-You can visit the [beatmap discussion](/wiki/Beatmap_Discussion) article for more details.
+You can visit the [beatmap discussion](/wiki/Beatmap_discussion) article for more details.
 
 ## Let's start modding!
 
@@ -79,7 +79,7 @@ The best suggestion when entering a beatmap difficulty for the first time is **c
 
 This can be done by pressing on `File` on the top-left corner of the screen and choosing `Open AiMod`. Alternatively, simply press CTRL+Shift+A, which also opens the AiMod.
 
-The AiMod lists issues with the beatmap as a whole as well as the specific difficulty open. It displays issues in two categories. **Warning** and **Error**. A warning will be displayed if there is a minor issue, something that can be easily fixed. However, some of these are not against the Ranking Criteria and are not an issue. For example, `Kiai Time is toggled on for less than 15 seconds.` will show up ocassionally as the section the kiai covers (which is usually a chorus) can be less than 15 seconds overall, which is not against any ranking criteria. Some things that show up as a **warning** are against the Ranking Criteria however, for example, unsnapped notes.
+The AiMod lists issues with the beatmap as a whole as well as the specific difficulty open. It displays issues in two categories. **Warning** and **Error**. A warning will be displayed if there is a minor issue, something that can be easily fixed. However, some of these are not against the Ranking Criteria and are not an issue. For example, `Kiai Time is toggled on for less than 15 seconds.` will show up occasionally as the section the kiai covers (which is usually a chorus) can be less than 15 seconds overall, which is not against any ranking criteria. Some things that show up as a **warning** are against the Ranking Criteria however, for example, unsnapped notes.
 
 Collating all of the important issues that AiMod raises into one **General (This difficulty)** post is a good place to start. If there are none, move on.
 
@@ -95,7 +95,7 @@ The offset is the timing points position. It should **always** start on the very
 
 ### Metadata
 
-**Checking the metadata of the beatmap** is important for beatmap rankability, however because of its awkwardness, it often gets skipped. The metadata is conatained in the `General` tab of the `Song Setup` window, which includes song title, artist, etc.
+**Checking the metadata of the beatmap** is important for beatmap rankability, however because of its awkwardness, it often gets skipped. The metadata is contained in the `General` tab of the `Song Setup` window, which includes song title, artist, etc.
 
 It is usually skipped due to the effort required finding **official sources** for a proof of the Metadata, one of the main issues being when the artist and title are written in a different language, such as Japanese, Korean or Russian. It’s not required to understand other languages for this, just as long as the Metadata is exactly the same as in the official source on the internet.
 
@@ -111,7 +111,7 @@ On the **Difficulty** page, check if the OD/HP for the beatmap follow the **offi
 
 Besides that, make sure the HP/OD used in the beatmap are appropriate for its difficulty / patterning and match up with the rest of the set. If the beatmap uses a lot of long notes for example, the OD rate should be kept rather low.
 
-The **Audio** and **Colors** pages are not that important as a modder.
+The **Audio** and **Colours** pages are not that important as a modder.
 
 Moving on to **Design**. This is only important if the beatmap has a storyboard. Should the map have one, make sure that **Widescreen Support** is ticked. If the storyboard has a lot of flashing lights, it also required to have **Display Epilepsy Warning** enabled, so whenever the map gets played by a user, they first see this warning.
 
@@ -123,7 +123,7 @@ Next on the list of checks is the overall spread of the beatmap.
 
 As a forewarning: **Don't ever use Star Rating as a spread measure**. It is currently wildly inaccurate in osu!mania as it only focuses on note density to calculate Star Rating, which can cause one dense section to spike the rest of the rating, despite the fact that the spread still fits overall in the set.
 
-Moving on, the best way to start juding the beatmap spread is to go into the editor of one difficulty of the beatmap, then going to `File` in the top-left corner, to `Open Difficulty…` and then select `For Reference`. On the difficulty selection pop-up, select the next difficulty in the spread. for example: If checking an Easy, open the Normal. If Normal, open the Hard and so on. Now two difficulties are shown on the screen, the one on the left being the original, and the one on the right being the selected for reference map.
+Moving on, the best way to start judging the beatmap spread is to go into the editor of one difficulty of the beatmap, then going to `File` in the top-left corner, to `Open Difficulty…` and then select `For Reference`. On the difficulty selection pop-up, select the next difficulty in the spread. for example: If checking an Easy, open the Normal. If Normal, open the Hard and so on. Now two difficulties are shown on the screen, the one on the left being the original, and the one on the right being the selected for reference map.
 
 Shown below is an example of comparing two difficulties for spread:
 
@@ -151,7 +151,7 @@ It is important to respect the mappers idea behind the beatmap. A modder is ther
 
 If an issue has been found whilst playtesting the map, jump to the part in the editor and check over it. If unsure about where it was, the client allows test plays of a single part of the map by pressing F5 at a certain timestamp.
 
-Next, analyze what exactly makes the pattern weird to play. A few examples would be notes uncomfortably placed, hand bias, jacks where they do not belong, or over-excessive use of anchors. If unsure, try moving some patterns around to remove problems, as well as potentially adding/deleting notes. It is important to always test play suggestions.
+Next, analyse what exactly makes the pattern weird to play. A few examples would be notes uncomfortably placed, hand bias, jacks where they do not belong, or over-excessive use of anchors. If unsure, try moving some patterns around to remove problems, as well as potentially adding/deleting notes. It is important to always test play suggestions.
 
 Once figured out, add the suggestion via the modding discussion. To start, copy/paste the timestamp into the new discussion section. There are two ways to do this. If no notes are selected, copying the timestamp by pressing Ctrl-C and then Ctrl-V on the beatmap discussion page will post the time location only. If notes are selected, copying the timestamp will post to the time location of the first note and show the mapper the highlighted notes.
 
@@ -199,5 +199,3 @@ If the difficulty has a lot of hitsound problems, **do not point them all out**!
 - **[osu!mania ranking criteria](/wiki/Ranking_Criteria/osu!mania)**
 - **[Naxess' Mapset Verifier (modding tool)](https://github.com/Naxesss/MapsetVerifier)**
 - **[Evening's SV Crash Course](https://github.com/Eve-ning/SV-Crash-Course-LaTeX/blob/master/builds/11082018.pdf)**
-
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"

@@ -1,6 +1,11 @@
+---
+outdated_translation: true
+outdated_since: a4d801f4dbb4b86901f63773b7993647eb5b7ba8
+---
+
 # Precisión
 
-La precisión es una forma de medir la consistencia de un jugador. Hay tres tipos de precisión que un jugador puede tener. Una de ellas es la precisión del beatmap que depende de los puntajes obtenidos. Otra, es la precisión general del jugador, que se mide a partir de sus mejores puntajes. Y por ultimo, la precisión [pp](/wiki/Performance_Points) del jugador, que depende de la precisión del puntaje obtenido.
+La precisión es una forma de medir la consistencia de un jugador. Hay tres tipos de precisión que un jugador puede tener. Una de ellas es la precisión del beatmap que depende de los puntajes obtenidos. Otra, es la precisión general del jugador, que se mide a partir de sus mejores puntajes. Y por ultimo, la precisión [pp](/wiki/Performance_points) del jugador, que depende de la precisión del puntaje obtenido.
 
 ## Modos de juego
 
@@ -8,7 +13,7 @@ La precisión es una forma de medir la consistencia de un jugador. Hay tres tipo
 
 ![Precisión = (50 * número de 50s + 100 * número de 100s + 300 * número de 300s) / 300(número de 0s + número de 50s + número de 100s + número de 300s)](img/accuracy_osu.png "Formula de precisión para osu!")
 
-En osu!, la precisión se calcula ponderando el criterio con el que se le da a cada nota, multiplicado por su valor y dividido por la cantidad maxima posible.
+En osu!, la precisión se calcula ponderando el [juicio](/wiki/Gameplay/Judgement) obtenido por cada nota, multiplicado por su valor y dividido por la cantidad maxima posible.
 
 Referencias para un círculo de golpe
 
@@ -37,7 +42,7 @@ En osu!catch, la precisión se calcula tomando el total de objetos de golpe reco
 
 ![Precisión = (50 \* número de 50s + 100 \* número de 100s + 200 \* número de 200s + 300 \* número de 300s + 300 \* número de MAXs) / 300(número de 0s + número de 50s + número de 100s + número de 200s + número de 300s + número de MAXs)](img/accuracy_mania.png "Formula de precisión para osu!mania")
 
-En osu!mania, la precisión es calculada de forma similar a [osu!](#-osu!).
+En osu!mania, la precisión es calculada de forma similar a [osu!](#osu!).
 
 ## Gráfico de rendimiento
 
@@ -45,17 +50,17 @@ En osu!mania, la precisión es calculada de forma similar a [osu!](#-osu!).
 
 El Gráfico de rendimiento es un gráfico que muestra el rendimiento del jugador (basado en su barra de vida) en el transcurso de un beatmap (tiempo). Se puede mostrar información adicional al pasar el cursor sobre él.
 
-*Nota: La información adicional solo se puede ver después de reproducir un beatmap o ver una repetición exportada. Después de salir de la [pantalla de resultados](/wiki/results_screen), esta información no se guardará.*
+*Nota: La información adicional solo se puede ver después de reproducir un beatmap o ver una repetición exportada. Después de salir de la [pantalla de resultados](/wiki/Client/Interface#results-screen), esta información no se guardará.*
 
 ### Precisión
 
 Al pasar el cursor sobre el gráfico de rendimiento, se muestra un mensaje de información con *Error* y *Unstable rate*.
 
-Debido a la forma en que se implementan los mods [DT](/wiki/Game_modifier/Double_time) y [HT](/wiki/Game_modifier/Half_time), los valores de error e inestabilidad se multiplicarán por el mismo factor que la canción. Para obtener los valores verdaderos al jugar DT, divida los resultados por 1.5. Del mismo modo, multiplique los resultados por 1,33 al jugar HT.
+Debido a la forma en que se implementan los mods [DT](/wiki/Game_modifier/Double_Time) y [HT](/wiki/Game_modifier/Half_Time), los valores de error e inestabilidad se multiplicarán por el mismo factor que la canción. Para obtener los valores verdaderos al jugar DT, divida los resultados por 1.5. Del mismo modo, multiplique los resultados por 1,33 al jugar HT.
 
 #### Error
 
-Error siempre mostrará dos valores que representan cuán lejos estaban los primeros golpeos en promedio y cuán lejos estaban los golpeos finales en promedio. Cuanto mayor sea el valor de la [Dificultad general](/wiki/Beatmapping/Overall_Difficulty) en el beatmap, menores tendrán que ser los valores de error para tener un buen rendimiento al jugar tal beatmap.
+Error siempre mostrará dos valores que representan cuán lejos estaban los primeros golpeos en promedio y cuán lejos estaban los golpeos finales en promedio. Cuanto mayor sea el valor de la [Dificultad general](/wiki/Beatmapping/Overall_difficulty) en el beatmap, menores tendrán que ser los valores de error para tener un buen rendimiento al jugar tal beatmap.
 
 #### Unstable rate
 

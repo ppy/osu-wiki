@@ -1,3 +1,8 @@
+---
+tags:
+  - vote
+---
+
 # Proses pengkajian konten
 
 Konten-konten yang diajukan kepada para anggota [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators) (BN), [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) (GMT), dan [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) untuk dikaji lebih lanjut akan melalui beberapa tahapan dalam proses pengkajiannya sebagaimana yang tertera di bawah ini.

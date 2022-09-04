@@ -1,6 +1,6 @@
 # Interface skinning
 
-*See also: [Skinning Interface Tutorial](/wiki/Skinning_Interface_Tutorial) and [Interface](/wiki/Interface)*
+*See also: [Interface](/wiki/Client/Interface)*
 
 Interface skinning elements are used in multiple game modes or parts of the client's user interface.
 
@@ -26,7 +26,7 @@ Notes:
   - If it is set to `Sometimes` the seasonal backgrounds will override this element while they are in active use.
 - `.jpg` extension only.
   - If the image type is `.png` change the extension to `.jpg`.
-    - If the background is transparent, the background color will be black.
+    - If the background is transparent, the background colour will be black.
 - The player can drag and drop an image to overwrite the skin's skinned image. **This will replace the image in the skin's folder!**
 
 ---
@@ -56,7 +56,7 @@ Notes:
 Notes:
 
 - If not skinned, the current game mode's small icon will be used instead.
-- Must be enabled in the [options](/wiki/Options) to see.
+- Must be enabled in the [options](/wiki/Client/Options) to see.
   - This option may forcibly be enabled during the holidays (Christmas).
 
 ## Button
@@ -539,6 +539,8 @@ Notes:
 
 `selection-mod-scorev2.png`
 
+![](img/selection-mod-scorev2.png)
+
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | All | ![No][false] | ![Yes][true] | Normal | Centre | 64x64 |
@@ -715,7 +717,7 @@ Notes:
 Notes:
 
 - Used when playing with 4:3 storyboards on widescreen.
-- While beatmapping, disable `Widescreen support` in [song setup](/wiki/Beatmap_Editor/Song_Setup) for this to appear.
+- While beatmapping, disable `Widescreen support` in [song setup](/wiki/Client/Beatmap_editor/Song_Setup) for this to appear.
 - This element is stretched to fit the needed area.
 - The right pillar is flipped horizontally.
 
@@ -836,13 +838,13 @@ Notes:
 
 ### Hit bursts
 
-*Main page: [Skinning/FAQ § Ranking screen hierarchy](/wiki/Skinning/FAQ#ranking-screen-hierarchy)*
+*Main page: [Skinning/FAQ § Ranking screen hierarchy](/wiki/Skinning/FAQ#ranking-screen-hit-score-hierarchy)*
 
 ---
 
 `hit0.png`
 
-![](img/hit0.png)
+![](/wiki/shared/judgement/osu!/hit0.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -860,7 +862,7 @@ Notes:
 
 `hit50.png`
 
-![](img/hit50.png)
+![](/wiki/shared/judgement/osu!/hit50.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -878,7 +880,7 @@ Notes:
 
 `hit100.png`
 
-![](img/hit100.png)
+![](/wiki/shared/judgement/osu!/hit100.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -896,7 +898,7 @@ Notes:
 
 `hit100k.png`
 
-![](img/hit100k.png)
+![](/wiki/shared/judgement/osu!/hit100k.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -914,7 +916,7 @@ Notes:
 
 `hit300.png`
 
-![](img/hit300.png)
+![](/wiki/shared/judgement/osu!/hit300.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -932,7 +934,7 @@ Notes:
 
 `hit300g.png`
 
-![](img/hit300g.png)
+![](/wiki/shared/judgement/osu!/hit300g.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -950,7 +952,7 @@ Notes:
 
 `hit300k.png`
 
-![](img/hit300k.png)
+![](/wiki/shared/judgement/osu!/hit300k.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -981,7 +983,7 @@ Notes:
 - Since the image is rotated, the origin on the image itself is Top Left.
 - This element is used in [osu!](/wiki/Game_mode/osu!) and [osu!catch](/wiki/Game_mode/osu!catch).
 - This element is rotated 90 degrees clockwise and stretched by 1.05x in-game.
-- Must be enabled in the [options](/wiki/Options) to see.
+- Must be enabled in the [options](/wiki/Client/Options) to see.
 
 ---
 
@@ -1002,7 +1004,7 @@ Notes:
   - K2/R: at 398px height
   - M1/D: at 446px height
   - M2: at 492px height
-- Toggleable in the [options](/wiki/Options).
+- Toggleable in the [options](/wiki/Client/Options).
 - Shrinks briefly when the keys are pressed.
 - Tinting varies by button location and state:
   - White, if key is not pressed.
@@ -1157,6 +1159,7 @@ Notes:
 - This element represents the "passing" zone.
 - This element is not used in [osu!mania](/wiki/Game_mode/osu!mania).
 - Y-position at 16; x-position is placed at the end of the cropped `scorebar-colour.png`
+- A `scorebar-colour.png` is required for this element to appear.
 
 ---
 
@@ -1174,6 +1177,7 @@ Notes:
 - this element represents the "warning" zone
 - This element is not used in [osu!mania](/wiki/Game_mode/osu!mania)
 - Y-position at 16; x-position is placed at the end of the cropped `scorebar-colour.png`
+- A `scorebar-colour.png` is required for this element to appear.
 
 ---
 
@@ -1191,6 +1195,7 @@ Notes:
 - This element represents the "critical" zone.
 - This element is not used in [osu!mania](/wiki/Game_mode/osu!mania)
 - Y-position at 16; x-position is placed at the end of the cropped `scorebar-colour.png`
+- A `scorebar-colour.png` is required for this element to appear.
 
 ---
 
@@ -1878,7 +1883,7 @@ Notes:
 
 Notes:
 
-- This element is used in [multi](/wiki/multi) only.
+- This element is used in [multi](/wiki/Client/Interface/Multiplayer) only.
 
 ## Score entry
 
@@ -2146,7 +2151,7 @@ Notes:
 Notes:
 
 - This element is used for the in-game leaderboards.
-- This element is used in [Multi](/wiki/Multi) games when the win condition is set to Accuracy.
+- This element is used in [Multi](/wiki/Client/Interface/Multiplayer) games when the win condition is set to Accuracy.
 - Tinted white.
 
 ---
@@ -2175,7 +2180,7 @@ Notes:
 
 - Animation name: `menu-back-{n}.png`.
 - The native back button is not skinnable.
-  - If this element is skinned, it will override the new one everywhere, except for the [options](/wiki/Options).
+  - If this element is skinned, it will override the new one everywhere, except for the [options](/wiki/Client/Options).
 
 ---
 
@@ -2189,7 +2194,7 @@ Notes:
 
 Notes:
 
-- Skin versions 2.2+ can support thumbnails (must be enabled in the [options](/wiki/Options)) for song selection
+- Skin versions 2.2+ can support thumbnails (must be enabled in the [options](/wiki/Client/Options)) for song selection
   - Thumbnails get positioned 9px away from the left image border
   - Thumbnail size is 115x85
 - This element is used in various places:

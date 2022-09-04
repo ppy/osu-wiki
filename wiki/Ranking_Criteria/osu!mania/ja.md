@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 17ba49c633b089fe88acb7d5d32ac0460e5d65fe
+---
+
 # osu!maniaのランキング基準
 
 **osu!maniaのランキング基準**は、osu!mania固有の難易度を作成する際に適用されるルールとガイドラインです。osu!mania固有の難易度をrankedにするには、一定の基準に従うことが必要です。どのような状況であっても**全てのルールに従う必要があります**が、例外的な状況ではガイドラインを無視することができます。例外的な状況とは、なぜガイドラインを無視したのかと、全体的な品質に支障をきたすのかを、徹底的に説明して正当化することです。
@@ -8,13 +13,13 @@
 
 ### 難易度名
 
-*メイン記事: [難易度のネーミング](/wiki/Ranking_Criteria/Difficulty_Naming)*
+*メイン記事: [難易度のネーミング](/wiki/Ranking_Criteria/Difficulty_naming)*
 
-- ![](/wiki/shared/diff/easy-m.png) Easy
-- ![](/wiki/shared/diff/normal-m.png) Normal
-- ![](/wiki/shared/diff/hard-m.png) Hard
-- ![](/wiki/shared/diff/insane-m.png) Insane
-- ![](/wiki/shared/diff/expert-m.png) Expert
+- ![](/wiki/shared/diff/easy-m.png?20211215) Easy
+- ![](/wiki/shared/diff/normal-m.png?20211215) Normal
+- ![](/wiki/shared/diff/hard-m.png?20211215) Hard
+- ![](/wiki/shared/diff/insane-m.png?20211215) Insane
+- ![](/wiki/shared/diff/expert-m.png?20211215) Expert
 
 ### 一般的な用語
 
@@ -82,7 +87,7 @@
 
 *キーモード別のガイドラインは、最も一般的なRankedされたキーモード（4キーと7キー）に基づいて作成されています。その他のキーモードも該当する場合には、これらのガイドラインを適用する必要があります。*
 
-### ![](/wiki/shared/diff/easy-m.png) Easy
+### ![](/wiki/shared/diff/easy-m.png?20211215) Easy
 
 #### ルール
 
@@ -101,7 +106,7 @@
 - **連続する1/2ビートのノーツパターンではコードを使用することはお勧めしません。** ただし、コードを使用してパターンを開始または終了することは問題ありません。
 - **ノーツ2つ以上のコードの使用は避けてください。** 2列以上の音が絡むロングノートパターンも含まれます。
 
-### ![](/wiki/shared/diff/normal-m.png) Normal
+### ![](/wiki/shared/diff/normal-m.png?20211215) Normal
 
 #### ルール
 
@@ -138,7 +143,7 @@
 - **ブラケットパターンは慎重に使用する必要があります。**
 - **同時に保持されている隣接するキーで演奏されたロングノーツは、同時にリリースする必要があります。** 複数のリリースタイミングを持つロングノーツを処理するために画面を見ながらパターンを処理するレベルは、プレイヤーにとっては難しすぎます。
 
-### ![](/wiki/shared/diff/hard-m.png) Hard
+### ![](/wiki/shared/diff/hard-m.png?20211215) Hard
 
 #### ガイドライン
 
@@ -166,7 +171,7 @@
 - **コードストリーム内のコード距離を1/1ビート以上の間隔に保ちます。** それよりも密度が高いと、読みやすさが損なわれる可能性があります。
 - **ストリーム中のトリプルは使用できますが、少なくとも1小節（4ビート）離れている必要があります。**
 
-### ![](/wiki/shared/diff/insane-m.png) Insane
+### ![](/wiki/shared/diff/insane-m.png?20211215) Insane
 
 #### ガイドライン
 
@@ -190,7 +195,7 @@
   - ...1/4ビートの場合、極めて明確な音楽的な正当性がない限り、代わりに1つのノーツを使用することが推奨されます。
 - **ブラケットストリームは慎重に使用する必要があります。**
 
-### ![](/wiki/shared/diff/expert-m.png) Expert
+### ![](/wiki/shared/diff/expert-m.png?20211215) Expert
 
 #### ガイドライン
 

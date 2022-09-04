@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated_translation: true
 ---
 
 # FAQ
@@ -18,7 +18,7 @@ Op het scherm onderaan kan je de cirkels zien, en het verhaalverloop wordt weerg
 
 ### Hoe te spelen?
 
-Aangezien de meester computergebruikers geen touchscreen ter beschikking hebben (tenzij jij de geluksvogel bent met een tablet-pc), is dit spel gemaakt om speelbaar te zijn met een doodgewone muis, net als eender welk invoerapparaat dat je maar kan indenken (een wiimote werkt vrij goed, net als een grafisch tableau, als je er toevallig een hebt liggen). De verschillende speeltechnieken kan je vinden op de pagina [Play Styles](/wiki/Play_Styles). Er zijn wel liedjes die de grenzen van de gewone muis verleggen, maar ze zijn allemaal getest en zijn (op een of andere manier toch) haalbaar met enkel een muis. Laat het gebrek aan touchscreen je alvast geen schrik aanjagen!
+Aangezien de meester computergebruikers geen touchscreen ter beschikking hebben (tenzij jij de geluksvogel bent met een tablet-pc), is dit spel gemaakt om speelbaar te zijn met een doodgewone muis, net als eender welk invoerapparaat dat je maar kan indenken (een wiimote werkt vrij goed, net als een grafisch tableau, als je er toevallig een hebt liggen). De verschillende speeltechnieken kan je vinden op de pagina [Play Styles](/wiki/Play_style). Er zijn wel liedjes die de grenzen van de gewone muis verleggen, maar ze zijn allemaal getest en zijn (op een of andere manier toch) haalbaar met enkel een muis. Laat het gebrek aan touchscreen je alvast geen schrik aanjagen!
 
 Nu over naar het speelwijze.
 
@@ -42,7 +42,7 @@ Nu over naar het speelwijze.
 
 ### Speluitzicht
 
-Voor meer informatie kan je [hierheen](/wiki/Interface) gaan.
+Voor meer informatie kan je [hierheen](/wiki/Client/Interface) gaan.
 
 ![](/wiki/shared/osu-gameplay.jpg)
 

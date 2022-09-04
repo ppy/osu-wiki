@@ -3,5 +3,6 @@
 
 # Fixes languages listing on GitHub
 .remarkrc.js linguist-detectable=false
+scripts/**/* linguist-detectable=false
 news/**/*.md linguist-detectable
 wiki/**/*.md linguist-detectable

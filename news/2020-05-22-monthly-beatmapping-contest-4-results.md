@@ -20,7 +20,7 @@ Coming in with **58** votes, [LeaF - Mopemope](https://osu.ppy.sh/beatmapsets/11
 
 hypercyte must be doing something right, given he was the community vote runner-up and screening crew favorite last month. Having earned [**4** MBC points](/wiki/Contests/Monthly_Beatmapping_Contest#rewards), he's reached the second tier profile badge for MBC rewards (seen below!). If he manages to earn 2 more points, he'll be the first Elite Mapper crowned through the Monthly Beatmapping Contest!
 
-![](/wiki/shared/news/2020-05-21-monthly-beatmapping-contest-4-results/mbc-badge-2.png)
+![](/wiki/shared/news/2020-05-22-monthly-beatmapping-contest-4-results/mbc-badge-2.png)
 
 ### Community vote runner-up
 

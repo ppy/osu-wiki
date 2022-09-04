@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: c5ff61dc391a6c6db310c8fcde0620fa6a8fe358
 tags:
   - charts
   - Ranking Charts
@@ -14,7 +16,7 @@ tags:
 
 **Program Beatmap Spotlights saat ini masih berjalan dalam tahapan uji coba dan masih terdapat berbagai fitur yang belum sepenuhnya diimplementasikan.** Seluk-beluk dari sistem ini seperti penghargaan, papan peringkat musiman, dan fitur-fitur permainan lainnya masih bersifat tentatif dan dapat berubah kapan saja.
 
-Musim saat ini adalah Musim Dingin 2021.
+Musim saat ini adalah Musim Dingin 2022.
 
 ## Organisasi
 
@@ -22,9 +24,9 @@ Proyek Beatmap Spotlights dijalankan oleh berbagai anggota komunitas di semua mo
 
 | Jabatan | Anggota |
 | :-- | :-- |
-| Pimpinan proyek | ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631) |
-| Manajer proyek | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |
-| Manajer website | ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631), ![][flag_US] [Snowleopard](https://osu.ppy.sh/users/3790227) |
+| Pimpinan proyek | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) |
+| Manajer proyek | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) |
+| Manajer website | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631), ::{ flag=US }:: [Snowleopard](https://osu.ppy.sh/users/3790227) |
 
 ## Kurator
 
@@ -32,46 +34,43 @@ Setiap rilis Beatmap Spotlights disusun oleh tim kurator khusus dan dipilih seca
 
 ### Kurator osu!
 
-- ![][flag_US] **[pishifat](https://osu.ppy.sh/users/3178418)**
-- ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251)
-- ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207)
-- ![][flag_FI] [DTM9 Nowa](https://osu.ppy.sh/users/5428909)
-- ![][flag_DE] [IceKalt](https://osu.ppy.sh/users/5410645)
-- ![][flag_FI] [Lefafel](https://osu.ppy.sh/users/2295850)
-- ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515)
-- ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943)
-- ![][flag_MX] [Riot](https://osu.ppy.sh/users/4256461)
-- ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
-- ![][flag_RU] [xbopost](https://osu.ppy.sh/users/6842421)
-- ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955)
+- ::{ flag=FI }:: **[Nowaie](https://osu.ppy.sh/users/5428909)**
+- ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
+- ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334)
+- ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207)
+- ::{ flag=FI }:: [Lefafel](https://osu.ppy.sh/users/2295850)
+- ::{ flag=AT }:: [Omgforz](https://osu.ppy.sh/users/578943)
+- ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461)
+- ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955)
 
 ### Kurator osu!taiko
 
-- ![][flag_DE] **[OnosakiHito](https://osu.ppy.sh/users/290128)**
-- ![][flag_FR] [Arrival](https://osu.ppy.sh/users/1694000)
-- ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864)
-- ![][flag_JP] [Charlotte](https://osu.ppy.sh/users/3686901)
-- ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/users/876419)
-- ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719)
+- ::{ flag=TN }:: **[Hivie](https://osu.ppy.sh/users/14102976)**
+- ::{ flag=AR }:: [Axer](https://osu.ppy.sh/users/7299864)
+- ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097)
+- ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)
+- ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719)
+- ::{ flag=MY }:: [[Zeth]](https://osu.ppy.sh/users/9912966)
 
 ### Kurator osu!catch
 
-- ![][flag_CA] **[SadEgg](https://osu.ppy.sh/users/10278243)**
-- ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565)
-- ![][flag_US] [Snowless](https://osu.ppy.sh/users/4316266)
-- ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598)
-- ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045)
+- ::{ flag=CA }:: **[SadEgg](https://osu.ppy.sh/users/10278243)**
+- ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)
+- ::{ flag=KR }:: [x_angelkawaii_x](https://osu.ppy.sh/users/566276)
+- ::{ flag=US }:: [Snowless](https://osu.ppy.sh/users/4316266)
+- ::{ flag=US }:: [wonjae](https://osu.ppy.sh/users/5032045)
 
 ### Kurator osu!mania
 
-- ![][flag_GB] **[Hydria](https://osu.ppy.sh/users/808176)**
-- ![][flag_CA] [BringoBrango](https://osu.ppy.sh/users/10274043)
-- ![][flag_AU] [CrumpetFiddler](https://osu.ppy.sh/users/3518705)
-- ![][flag_KR] [Fresh Chicken](https://osu.ppy.sh/users/3984370)
-- ![][flag_TH] [HowToPlayLN](https://osu.ppy.sh/users/10879600)
-- ![][flag_DO] [Kaito-kun](https://osu.ppy.sh/users/4715184)
-- ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573)
-- ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767)
+- ::{ flag=GB }:: **[Hydria](https://osu.ppy.sh/users/808176)**
+- ::{ flag=KR }:: [Aruel](https://osu.ppy.sh/users/3984370)
+- ::{ flag=CA }:: [BringoBrango](https://osu.ppy.sh/users/10274043)
+- ::{ flag=AU }:: [CrumpetFiddler](https://osu.ppy.sh/users/3518705)
+- ::{ flag=AU }:: [[ Decku ]](https://osu.ppy.sh/users/13360768)
+- ::{ flag=TH }:: [HowToPlayLN](https://osu.ppy.sh/users/10879600)
+- ::{ flag=DO }:: [Kaito-kun](https://osu.ppy.sh/users/4715184)
+- ::{ flag=MY }:: [Kibitz](https://osu.ppy.sh/users/7418493)
+- ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573)
 
 ## Musim Spotlights
 
@@ -117,14 +116,14 @@ Hadiah akan dibagikan kepada timeshift lobby mingguan, mapper dari beatmap yang 
 
 | Lencana | Tingkat Pencapaian | Peringkat |
 | :-: | :-- | :-- |
-| ![](img/badges/winter_2021/osu/ri_1.png) ![](img/badges/winter_2021/osu/ri_2.png) | Rhythm Incarnate | Terbaik dari yang terbaik |
-| ![](img/badges/winter_2021/osu/diamond_1.png) ![](img/badges/winter_2021/osu/diamond_2.png) | Diamond | Top 3% |
-| ![](img/badges/winter_2021/osu/platinum_1.png) ![](img/badges/winter_2021/osu/platinum_2.png) | Platinum | 3% – 10% |
-| ![](img/badges/winter_2021/osu/gold_1.png) ![](img/badges/winter_2021/osu/gold_2.png) | Gold | 10% – 25% |
-| ![](img/badges/winter_2021/osu/silver_1.png) ![](img/badges/winter_2021/osu/silver_2.png) | Silver | 25% – 50% |
-| ![](img/badges/winter_2021/osu/bronze_1.png) ![](img/badges/winter_2021/osu/bronze_2.png) | Bronze | 50% – 70% |
-| ![](img/badges/winter_2021/osu/copper_1.png) ![](img/badges/winter_2021/osu/copper_2.png) | Copper | 70% – 95% |
-| ![](img/badges/winter_2021/osu/iron_1.png) ![](img/badges/winter_2021/osu/iron_2.png) | Iron | 95% – 100% |
+| ![](img/badges/winter_2022/osu/ri_1.png) ![](img/badges/winter_2022/osu/ri_2.png) | Rhythm Incarnate | Terbaik dari yang terbaik |
+| ![](img/badges/winter_2022/osu/diamond_1.png) ![](img/badges/winter_2022/osu/diamond_2.png) | Diamond | Top 3% |
+| ![](img/badges/winter_2022/osu/platinum_1.png) ![](img/badges/winter_2022/osu/platinum_2.png) | Platinum | 3% – 10% |
+| ![](img/badges/winter_2022/osu/gold_1.png) ![](img/badges/winter_2022/osu/gold_2.png) | Gold | 10% – 25% |
+| ![](img/badges/winter_2022/osu/silver_1.png) ![](img/badges/winter_2022/osu/silver_2.png) | Silver | 25% – 50% |
+| ![](img/badges/winter_2022/osu/bronze_1.png) ![](img/badges/winter_2022/osu/bronze_2.png) | Bronze | 50% – 70% |
+| ![](img/badges/winter_2022/osu/copper_1.png) ![](img/badges/winter_2022/osu/copper_2.png) | Copper | 70% – 95% |
+| ![](img/badges/winter_2022/osu/iron_1.png) ![](img/badges/winter_2022/osu/iron_2.png) | Iron | 95% – 100% |
 
 Tingkatan ambang batas pada Rhythm Incarnate dipilih secara manual berdasarkan jumlah peserta musim dan ukuran umum tingkatan lainnya, meskipun itu adalah angka absolut yang berkisar antara top 2 dan top 50 dalam banyak kasus.
 
@@ -158,7 +157,7 @@ Sistem kurasi melibatkan proses kurator memilih beatmap yang akan dimasukkan ked
 ### Kritik dan saran
 
 Keberjalanan Beatmap Spotlights pada saat ini masih sangat eksperimental dan dapat berubah kapan saja berdasarkan tanggapan yang masuk dari para pemain. Oleh karena itu, tim Beatmap Spotlights sangat mengapresiasi kritik dan saran yang membangun dalam bentuk apapun agar Beatmap Spotlights dapat berkembang ke arah yang lebih baik ke depannya. Pemain disarankan untuk meninggalkan kritik dan saran mereka di sini:
- 
+
 - [Feedback utas forum](https://osu.ppy.sh/community/forums/topics/1189626)
 - `#beatmap-spotlights` pada [server Discord komunitas osu!](https://discord.gg/0Vxo9AsejDkGlk3H)
 - `#osu-spotlights` pada [server Discord osu!dev](https://discord.gg/ppy)
@@ -171,35 +170,12 @@ Semua pelamar kemudian akan ditinjau oleh manajemen proyek dan pemimpin tim, di 
 
 ## Sejarah
 
-Awalnya bernama "Ranking Charts" dan dimulai pada November 2009 oleh ![][Flag_US] [Cyclone](https://osu.ppy.sh/users/18589) dan ![][Flag_AU] [peppy](https://osu.ppy.sh/users/2), proyek ini bertujuan untuk menyorot beatmap terbaik dalam sebulan dengan mengizinkan [Beatmap Appreciation Team](/wiki/Modding/Beatmap_Appreciation_Team) dan [Mapping Assistance Team](/wiki/Modding/Mapping_Assistance_Team) mencalonkan dan memilih kandidat yang paling sesuai.
+Awalnya bernama "Ranking Charts" dan dimulai pada November 2009 oleh ::{ flag=US }:: [Cyclone](https://osu.ppy.sh/users/18589) dan ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2), proyek ini bertujuan untuk menyorot beatmap terbaik dalam sebulan dengan mengizinkan [Beatmap Appreciation Team](/wiki/Modding/Beatmap_Appreciation_Team) dan [Mapping Assistance Team](/wiki/Modding/Mapping_Assistance_Team) mencalonkan dan memilih kandidat yang paling sesuai.
 
-Proyek ini mengalami beberapa perubahan dan penambahan, seperti [Ranking Chart bertema](https://osu.ppy.sh/rankings/osu/charts?spotlight=26), [Ranking Charts dengan mod yang dibatasi](https://osu.ppy.sh/rankings/osu/charts?spotlight=19) atau [Papan peringkat musiman](https://osu.ppy.sh/home/news/2014-07-18-june-2014-ranking-chart). Awalnya, pemenang Ranking Charts diberi hadiah osu! Supporter Tag. Kemudian, hadiah untuk mapper atau pemenang papan peringkat musiman telah ditambahkan. 
+Proyek ini mengalami beberapa perubahan dan penambahan, seperti [Ranking Chart bertema](https://osu.ppy.sh/rankings/osu/charts?spotlight=26), [Ranking Charts dengan mod yang dibatasi](https://osu.ppy.sh/rankings/osu/charts?spotlight=19) atau [Papan peringkat musiman](https://osu.ppy.sh/home/news/2014-07-18-june-2014-ranking-chart). Awalnya, pemenang Ranking Charts diberi hadiah osu! Supporter Tag. Kemudian, hadiah untuk mapper atau pemenang papan peringkat musiman telah ditambahkan.
 
-Pimpinan proyek telah berubah beberapa kali dalam sejarahnya. ![][flag_US] [SapphireGhost](https://osu.ppy.sh/users/388602) mengambil alih pimpinan proyek pada Mei 2012, diikuti oleh ![][flag_US] [DeathXShinigami](https://osu.ppy.sh/users/49516) dan ![][flag_US] [Makar](https://osu.ppy.sh/users/686389). ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) dan ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) mengambil atas proyek tersebut pada bulan Desember 2013. Pada bulan Maret 2015, proyek tersebut berubah dari desain awal nominasi dan pemungutan suara menjadi terkenal [anggota komunitas secara pribadi memilih daftar set beatmap](https://osu.ppy.sh/home/news/2015-03-18-february-2015-Monthly-ranking-charts-new-season) yang mereka rekomendasikan. Pada bulan September 2016, [sistem pemilihan sebagian besar telah dikembalikan](https://osu.ppy.sh/home/news/2016-09-17-july-2016-ranking-charts-changes) dan memberi otoritas [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) yang kemudian bertugas memilih set beatmap yang dirasa paling penting.
+Pimpinan proyek telah berubah beberapa kali dalam sejarahnya. ::{ flag=US }:: [SapphireGhost](https://osu.ppy.sh/users/388602) mengambil alih pimpinan proyek pada Mei 2012, diikuti oleh ::{ flag=US }:: [DeathXShinigami](https://osu.ppy.sh/users/49516) dan ::{ flag=US }:: [Makar](https://osu.ppy.sh/users/686389). ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) dan ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) mengambil atas proyek tersebut pada bulan Desember 2013. Pada bulan Maret 2015, proyek tersebut berubah dari desain awal nominasi dan pemungutan suara menjadi terkenal [anggota komunitas secara pribadi memilih daftar set beatmap](https://osu.ppy.sh/home/news/2015-03-18-february-2015-Monthly-ranking-charts-new-season) yang mereka rekomendasikan. Pada bulan September 2016, [sistem pemilihan sebagian besar telah dikembalikan](https://osu.ppy.sh/home/news/2016-09-17-july-2016-ranking-charts-changes) dan memberi otoritas [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) yang kemudian bertugas memilih set beatmap yang dirasa paling penting.
 
-Berganti nama menjadi [Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights) pada Maret 2017, sistem itu sendiri sebagian besar tetap konsisten sambil menambahkan hadiah tambahan seperti medali dan meningkatkan presentasi Beatmap Spotlights lebih lanjut. Selama perbaikan internal Quality Assurance Team, tanggung jawab untuk proyek telah dialihkan ke ![][Flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) dan mengimplementasikan kembali seleksi berbasis komunitas. Pada November 2018, frekuensi Spotlights telah diubah menjadi [siklus rilis musiman](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018). Pada Maret 2020, ![][Flag_DE] [Loctav](https://osu.ppy.sh/users/71366) bergabung kembali dengan pimpinan proyek bersama dengan Kurokami, keduanya mengerjakan ulang menjadi bentuk baru dan menyusun tim baru yaitu osu! kurator. 
+Berganti nama menjadi [Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights) pada Maret 2017, sistem itu sendiri sebagian besar tetap konsisten sambil menambahkan hadiah tambahan seperti medali dan meningkatkan presentasi Beatmap Spotlights lebih lanjut. Selama perbaikan internal Quality Assurance Team, tanggung jawab untuk proyek telah dialihkan ke ::{ flag=HU }:: [Kurokami](https://osu.ppy.sh/users/260933) dan mengimplementasikan kembali seleksi berbasis komunitas. Pada November 2018, frekuensi Spotlights telah diubah menjadi [siklus rilis musiman](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018). Pada Maret 2020, ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) bergabung kembali dengan pimpinan proyek bersama dengan Kurokami, keduanya mengerjakan ulang menjadi bentuk baru dan menyusun tim baru yaitu osu! kurator.
 
-Pada Agustus 2020, ![][Flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) mengundurkan diri sebagai pemimpin proyek Beatmap Spotlights. Pada akhir November 2020, ![][Flag_DE] [Loctav](https://osu.ppy.sh/users/71366) turut mengundurkan diri di mana setelahnya kepemimpinan atas proyek Beatmap Spotlights dipercayakan kepada ![][Flag_PL] [Venix](https://osu.ppy.sh/users/5999631) bersama dengan ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418).
-
-[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
-[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
-[flag_CN]: /wiki/shared/flag/CN.gif "Tiongkok"
-[flag_DE]: /wiki/shared/flag/DE.gif "Jerman"
-[flag_DO]: /wiki/shared/flag/DO.gif "Republik Dominika"
-[flag_ES]: /wiki/shared/flag/ES.gif "Spanyol"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finlandia"
-[flag_FR]: /wiki/shared/flag/FR.gif "Prancis"
-[flag_GB]: /wiki/shared/flag/GB.gif "Britania Raya"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_HU]: /wiki/shared/flag/HU.gif "Hungaria"
-[flag_JP]: /wiki/shared/flag/JP.gif "Jepang"
-[flag_MX]: /wiki/shared/flag/MX.gif "Meksiko"
-[flag_PH]: /wiki/shared/flag/PH.gif "Filipina"
-[flag_PL]: /wiki/shared/flag/PL.gif "Polandia"
-[flag_KR]: /wiki/shared/flag/KR.gif "Korea Selatan"
-[flag_RU]: /wiki/shared/flag/RU.gif "Rusia"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapura"
-[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
-[flag_US]: /wiki/shared/flag/US.gif "Amerika Serikat"
+Pada Agustus 2020, ::{ flag=HU }:: [Kurokami](https://osu.ppy.sh/users/260933) mengundurkan diri sebagai pemimpin proyek Beatmap Spotlights. Pada akhir November 2020, ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) turut mengundurkan diri di mana setelahnya kepemimpinan atas proyek Beatmap Spotlights dipercayakan kepada ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) bersama dengan ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418).

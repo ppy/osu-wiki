@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: acdcb1efbd3ac94eef628b095b78cbacfcdac000
 ---
 
 # ガイド
@@ -10,20 +12,20 @@ no_native_review: true
 
 *メインページ: [ビートマッピング](/wiki/Beatmapping)*
 
-- [カスタムヒットサウンドの追加](Adding_Custom_Hitsounds)
+- [カスタムヒットサウンドの追加](Using_custom_hitsounds)
 - [オーディオ編集](Audio_Editing)
 - [アーティストまたはタイトルの変更](Changing_the_Artist_or_Title)
-- [タイトルテキストの変更](/wiki/Beatmap/Title_Text#changing-title-text)
+- [タイトルテキストの変更](/wiki/Beatmap/Title_text#changing-title-text)
 - [コラボ情報](Collab_Information)
-- [ファイルを圧縮する](Compressing_Files)
+- [ファイルを圧縮する](Compressing_files)
 - [カスタムヒットサウンドライブラリ](Custom_Hitsound_Library)
 - [カスタムサンプルオーバーライド](Custom_Sample_Overrides)
 - [曲の時間を計る方法](How_to_Time_Songs)
-- [ミュージックセオリー](Music_Theory)
+- [ミュージックセオリー](/wiki/Music_theory)
 - [osu!mania マッピングガイド](osu!mania_Mapping_Guide)
 - [正しいビートのオフセットを設定](Setting_the_Offset_on_the_Correct_Beat)
 - [ビートマッププロジェクトの開始](Starting_a_Beatmap_Project)
-- [YouTubeの動画](Videos_from_Youtube)
+- [YouTubeの動画](Videos_from_YouTube)
 
 ## Modding
 
@@ -37,7 +39,6 @@ no_native_review: true
 - [オフセットウィザードの使用方法](How_to_Use_the_Offset_Wizard)
 - [ビートマップの検索とダウンロード](Searching_and_Downloading_Beatmaps)
 - [タブレットの購入](Tablet_Purchase)
-- [スキル向上のヒントとコツ](Tips_and_Tricks_on_Skill_Improvement)
 
 ## スキニング
 
@@ -45,7 +46,7 @@ no_native_review: true
 
 - [複雑な背景でのトリミング](Cropping_with_Complex_Backgrounds)
 - [シンプルな背景でのトリミング](Cropping_with_Simple_Backgrounds)
-- [適切に中央に配置されたスピナーの作成](Making_Properly_Centered_Spinners)
+- [適切に中央に配置されたスピナーの作成](Making_Properly_Centred_Spinners)
 
 ## その他
 

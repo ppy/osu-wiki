@@ -28,7 +28,7 @@
 While branching is technically optional, it is [highly recommended for a couple of reasons](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow). To name a few:
 
 - Branches isolate different logical changes from each other: you can work on more than one article and have them reviewed and merged separately.
-- When your changes are outside of the `master` branch, you can [safely sync it](/wiki/osu!_wiki/Contribution_guide/Common_Issues#my-branch-is-out-of-date!) without merge conflicts.
+- When your changes are outside of the `master` branch, you can [safely sync it](/wiki/osu!_wiki/Contribution_guide/Best_practices#syncing-the-fork) without merge conflicts.
 
 1. Click on the `Current branch` dropdown located at the top of the menu.
 
@@ -40,9 +40,9 @@ While branching is technically optional, it is [highly recommended for a couple 
 
 ## Editing
 
-1. In the folder you cloned the repo into, navigate to the file you want to edit. The articles are organized by the folder names being the article names and the `.md` files being the locales.
-2. Once you find the correct file, open it using your favorite text editor.
-3. You can now make your changes. When making changes, follow the [Article Styling Criteria](/wiki/ASC) as closely as you can.
+1. In the folder you cloned the repo into, navigate to the file you want to edit. The articles are organised by the folder names being the article names and the `.md` files being the locales.
+2. Once you find the correct file, open it using your favourite text editor.
+3. You can now make your changes. Take a moment to also go through the [self-check](/wiki/osu!_wiki/Contribution_guide#self-check).
 4. Continue to [Committing and pushing](#committing-and-pushing).
 
 ### Moving existing files
@@ -54,7 +54,7 @@ While branching is technically optional, it is [highly recommended for a couple 
 
 *Caution: If you are going to create article files using Windows Explorer, make sure the `File name extensions` option is enabled.* See [How to show or hide file name extensions in Windows Explorer](https://support.microsoft.com/en-us/help/865219/how-to-show-or-hide-file-name-extensions-in-windows-explorer) for instructions.
 
-1. Use Windows Explorer, your favorite image editor, and/or your favorite text editor, to create new files. If you are creating new articles or translations, rename the file to follow the [Locales in the Article Styling Criteria](/wiki/Article_styling_criteria/Formatting#locales).
+1. Use Windows Explorer, your favourite image editor, and/or your favourite text editor, to create new files. If you are creating new articles or translations, rename the file to follow the [Locales in the Article Styling Criteria](/wiki/Article_styling_criteria/Formatting#locales).
 2. Continue to [Committing and pushing](#committing-and-pushing).
 
 ### Deleting files
@@ -71,7 +71,7 @@ While branching is technically optional, it is [highly recommended for a couple 
 2. By default, GitHub Desktop will automatically select all of your changes.
 3. It is best to separate each "big" action as a single commit.
 
-For example, as pictured above, [pippi](/wiki/Mascots#-pippi) had added an image file, modified the `en.md` file to add a title and a link to the image, and marked the translations as outdated. From this, we can have two commits, one for the changes that affected the `en.md` file, and one for marking the translations as outdated.
+For example, as pictured above, [pippi](/wiki/Mascots#pippi) had added an image file, modified the `en.md` file to add a title and a link to the image, and marked the translations as outdated. From this, we can have two commits, one for the changes that affected the `en.md` file, and one for marking the translations as outdated.
 
 4. Select the files that are going to be committed.
 5. Enter the commit summary. This has a 72 character limit and **must be in English**.
@@ -87,4 +87,4 @@ For example, as pictured above, [pippi](/wiki/Mascots#-pippi) had added an image
 
   ![](img/github-desktop-push.jpg)
 
-9. Continue to [Finishing](/wiki/osu!_wiki/Contribution_guide#finishing) for the last piece of information regarding your pull request and changes.
+9. Continue to [Review](/wiki/osu!_wiki/Contribution_guide#review) for the last piece of information regarding your pull request and changes.

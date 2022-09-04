@@ -51,7 +51,7 @@ The {TITLE} is run by various community members.
 | Designer |  |
 | Referee |  |
 | Statistician |  |
-<!-- | Example | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2), ![][flag_AU] [BanchoBot](https://osu.ppy.sh/users/3) | -->
+<!-- | Example | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2), ::{ flag=AU }:: [BanchoBot](https://osu.ppy.sh/users/3) | -->
 
 
 ## Links
@@ -66,7 +66,7 @@ The {TITLE} is run by various community members.
 
 |  | Country | Members |
 | :-: | :-: | :-- |
-| ![][flag_AU] | **Australia** | [peppy](https://osu.ppy.sh/users/2), [BanchoBot](https://osu.ppy.sh/users/3) |
+| ::{ flag=AU }:: | **Australia** | [peppy](https://osu.ppy.sh/users/2), [BanchoBot](https://osu.ppy.sh/users/3) |
 |  |  |  |
 
 <!-- for 1v1 tournaments -->
@@ -110,11 +110,13 @@ This competition has come to an end and resulted in the following podium:
 **[Download the mappack here! (SIZE)](LINK)**
 
 - ModType
-  - [BeatmapArtist - BeatmapTitle (BeatmapCreator) [BeatmapDifficulty]](BeatmapLink)
+  1. [BeatmapArtist - BeatmapTitle (BeatmapCreator) [BeatmapDifficulty]](BeatmapLink)
 - Tiebreaker
-  - **Beatmap**
+  1. **Beatmap**
 
-<!-- tiebreaker beatmaps must be bolded -->
+<!-- tiebreaker beatmaps must be bolded 
+
+If the mappool doesn't use a standard ModType pool structure, alternative titles may be used instead. -->
 
 ## Match results
 
@@ -125,9 +127,9 @@ Day, date: <!-- e.g. Saturday, 17 June 2018: -->
 <!-- For solo tournaments, replace table header with: | Player 1 |  |  | Player 2 | Match link | -->
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **WINNER** ![][flag] | **SCORE** | SCORE | ![][flag] LOSER | [#1](MatchLink) |
-| LOSER ![][flag] | -1 <!-- It's convention to write "-1" for forfeits, but this isn't required --> | **0** | ![][flag] **WINNER** | *win by default* |
-| TEAM_A ![][flag] | 0 | 0 | ![][flag] TEAM_B | *nullified* |
+| **WINNER** ::{ flag=CODE }:: | **SCORE** | SCORE | ::{ flag=CODE }:: LOSER | [#1](MatchLink) |
+| LOSER ::{ flag=CODE }:: | -1 <!-- It's convention to write "-1" for forfeits, but this isn't required --> | **0** | ::{ flag=CODE }:: **WINNER** | *win by default* |
+| TEAM_A ::{ flag=CODE }:: | 0 | 0 | ::{ flag=CODE }:: TEAM_B | *nullified* |
 
 ## Ruleset
 
@@ -143,9 +145,3 @@ example header structure:
 ### Match procedure
 
  -->
-
-<!--
-Add flag references here.
-Use https://megaapplepi.github.io/flag-wiki-osu/ for usage of flag references.
- -->
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"

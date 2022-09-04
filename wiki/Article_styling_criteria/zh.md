@@ -1,10 +1,10 @@
 ---
-outdated: true  # the original article has been UPDATED and split into two, Formatting and Writing, in #3734
+outdated_translation: true  # the original article has been UPDATED and split into two, Formatting and Writing, in #3734
 ---
 
 # 文章风格规范
 
-*相关文章：[文章风格规范——新闻篇](/wiki/News_Styling_Criteria)*
+*相关文章：[文章风格规范——新闻篇](/wiki/News_styling_criteria)*
 
 文章风格规范（ASC）通过硬性规定来确保 osu!wiki 的文章通俗易懂，格式统一。
 
@@ -584,7 +584,7 @@ JPG（或 JPEG）文件格式具有 `.jpg`（或 `.jpeg`）扩展名。
 "asc":      "Article_Styling_Criteria"
 ```
 
-你可以这样使用：`[文章风格规范](/wiki/ASC)`。这样写等同于`[文章风格规范](/wiki/Article_Styling_Criteria)`，因为重定向对大小写不敏感。
+你可以这样使用：`[文章风格规范](/wiki/Article_styling_criteria)`。这样写等同于`[文章风格规范](/wiki/Article_styling_criteria)`，因为重定向对大小写不敏感。
 
 ### 图片
 
@@ -601,7 +601,7 @@ JPG（或 JPEG）文件格式具有 `.jpg`（或 `.jpeg`）扩展名。
 ```markdown
 ![][flag_AU]
 
-[flag_AU]: /wiki/shared/flag/AU.gif
+[flag_AU]: /wiki/shared/flag/AU.gif "澳大利亚"
 ```
 
 如果图片仅被引用一次，则必须使用前者。而后者必须把变量赋值放在文章的结尾处。

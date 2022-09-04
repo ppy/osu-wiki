@@ -6,11 +6,11 @@ legal: true
 
 osu! is a heavily community-oriented game. All game levels (beatmaps) are created and uploaded by community members, often without correctly obtaining permission from relevant copyright holders. We go out of our way to not advertise or profit directly from uploaded content, and the game is funded entirely by user donations.
 
-A large portion of the donations we receive are used to reinvest in [music licensing](/wiki/Legal/Music_Licensing). Licensing enquiries may be sent to [music@ppy.sh](mailto:music@ppy.sh).
+A large portion of the donations we receive are used to reinvest in [music licensing](/wiki/Legal/Music_licensing). Licensing enquiries may be sent to [music@ppy.sh](mailto:music@ppy.sh).
 
 Failing that, osu! has adopted the following policy concerning copyright infringement in accordance with the Digital Millennium Copyright Act, 17 U.S.C. 512.
 
-The contact information for osu!'s Designated Agent to Receive Notification of Claimed Infringement ("Designated Agent") is listed at the end of this policy, and is on file with the United States Copyright Office ([https://www.copyright.gov/dmca-directory/](https://www.copyright.gov/dmca-directory/)). osu! takes copyright and other intellectual property rights very seriously.
+The contact information for osu!'s Designated Agent to Receive Notification of Claimed Infringement ("Designated Agent") is listed at the end of this policy, and is on file with the United States Copyright Office (<https://www.copyright.gov/dmca-directory/>). osu! takes copyright and other intellectual property rights very seriously.
 
 It is osu!'s policy to:
 
@@ -21,12 +21,12 @@ It is osu!'s policy to:
 
 If you believe that content residing on or accessible through the osu! website or service infringes your copyright, please send a notice of claimed copyright infringement containing the following information to the Designated Agent listed below (consult legal counsel or refer to 17 U.S.C. 512(c) to confirm these requirements):
 
-1. A physical or electronic signature of a person authorized to act on behalf of the owner of the copyright that has been allegedly infringed;
+1. A physical or electronic signature of a person authorised to act on behalf of the owner of the copyright that has been allegedly infringed;
 2. Identification of the copyrighted works claimed to have been infringed, or if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site;
 3. Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit osu! to locate the material;
 4. Contact information for the notifier, such as an address, telephone number and, if available, an e-mail address;
-5. A statement that the notifier has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and
-6. A statement that the information in the notification is accurate, and under penalty of perjury, that the notifying party is authorized to act on behalf of the owner of the copyright that is allegedly infringed.
+5. A statement that the notifier has a good faith belief that use of the material in the manner complained of is not authorised by the copyright owner, its agent, or the law; and
+6. A statement that the information in the notification is accurate, and under penalty of perjury, that the notifying party is authorised to act on behalf of the owner of the copyright that is allegedly infringed.
 
 Once a complete and proper notice of claimed copyright infringement is received by the Designated Agent, or if osu! otherwise comes to believe in good faith that a file on the osu! service may contain material that infringes copyright:
 

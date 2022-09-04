@@ -51,7 +51,7 @@ The following three samples are additive, meaning when you hit a whistle you wil
 ## Notes
 
 - Internally `.wav` file formats are used for all hitsounds due to the inherent lower latency for initial triggering and loop compatibility.
-  - You can use `.wav` or `.mp3`, but heed the following: `.wav` files are best in all cases, this is because `.mp3` may sometimes loop incorrectly and noticablly have a short (0 - 20ms) gap between the loops.
+  - You can use `.wav` or `.mp3`, but heed the following: `.wav` files are best in all cases, this is because `.mp3` may sometimes loop incorrectly and noticeably have a short (0–20ms) gap between the loops.
 - If you want to replace both normal and soft samples in a skin, simply do not include the `normal-` or `soft-` prefixes.
 - Place these files in your beatmap or skin's directory.
   You then have to reload the beatmap or skin to see the effect!

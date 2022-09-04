@@ -1,14 +1,14 @@
 ---
 tags:
-- TKBC
-- TKBC2
+  - TKBC
+  - TKBC2
 ---
 
 # Taiko Korean Beatmap Contest #2
 
 ![TKBC2 logo](img/logo.png)
 
-The **Taiko Korean Beatmap Contest #2** (***TKBC2***) was a osu!taiko mapping contest dedicated for users from ![][flag_KR] South Korea. It was the second installment of the Taiko Korean Beatmap Contest.
+The **Taiko Korean Beatmap Contest #2** (***TKBC2***) was a osu!taiko mapping contest dedicated for users from ::{ flag=KR }:: South Korea. It was the second installment of the Taiko Korean Beatmap Contest.
 
 ## Contest schedule
 
@@ -24,9 +24,9 @@ The Taiko Korean Beatmap Contest #2 was run by members of the Korean osu!taiko m
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ![][flag_KR] [\[Karcher\] 2](https://osu.ppy.sh/users/9892196), ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107) |
-| Designer | ![][flag_KR] [oL0](https://osu.ppy.sh/users/1134683) |
-| Judge | ![][flag_KR] [\[Karcher\] 2](https://osu.ppy.sh/users/9892196), ![][flag_KR] [Petit](https://osu.ppy.sh/users/4637369), ![][flag_KR] [Ozu](https://osu.ppy.sh/users/980092) |
+| Manager | ::{ flag=KR }:: [\[Karcher\] 2](https://osu.ppy.sh/users/9892196), ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107) |
+| Designer | ::{ flag=KR }:: [oL0](https://osu.ppy.sh/users/1134683) |
+| Judge | ::{ flag=KR }:: [\[Karcher\] 2](https://osu.ppy.sh/users/9892196), ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369), ::{ flag=KR }:: [Ozu](https://osu.ppy.sh/users/980092) |
 
 ## Prizes
 
@@ -46,9 +46,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Place | User |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_KR] [applerss](https://osu.ppy.sh/users/983349) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_KR] [4\_4](https://osu.ppy.sh/users/1152851) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_KR] [ddm](https://osu.ppy.sh/users/7910282) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=KR }:: [applerss](https://osu.ppy.sh/users/983349) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=KR }:: [4\_4](https://osu.ppy.sh/users/1152851) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=KR }:: [ddm](https://osu.ppy.sh/users/7910282) |
 
 ## Ruleset
 
@@ -73,5 +73,3 @@ This competition has come to an end and resulted in the following podium:
 - Difficulty must be Oni or Inner Oni.
 - Source and tags must be left blank.
 - While submitting your beatmap, include the metadata in the email.
-
-[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"

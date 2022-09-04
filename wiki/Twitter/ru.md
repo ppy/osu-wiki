@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: bf0efccf8db8b9dfb5ae645549a64c0623c27052
+---
+
 # Twitter
 
 У osu! есть несколько аккаунтов в Twitter, имеющих разную тематику. Большинство из них редко постят, но помогают оставаться в курсе событий osu!.
@@ -15,7 +20,7 @@
 | :-: | :-: | :-- |
 | ![Аватар osu!](img/osugame.jpg) | [@osugame](https://twitter.com/osugame) | Официальный источник новостей. |
 | ![Аватар BanchoBoat](img/banchoboat.jpg) | [@banchoboat](https://twitter.com/banchoboat) | Комедийный аккаунт для случаев, когда что-то идёт не по плану. |
-| ![Аватар NAT](img/osu_nat.png) | [@osu_nat](https://twitter.com/osu_nat) | Новости и короткие опросы от [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) (не ведётся официальной [командой osu!](/wiki/People/The_Team#the-team)). |
+| ![Аватар NAT](img/osu_nat.png) | [@osu_nat](https://twitter.com/osu_nat) | Новости и короткие опросы от [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) (не ведётся официальной [командой osu!](/wiki/People/The_Team)). |
 
 ## Личные аккаунты
 

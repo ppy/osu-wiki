@@ -1,0 +1,32 @@
+separator: ", "
+alumni:
+  roles:
+    academy: osu!academy-Gründer
+    admin: Administration
+    chat: Chat-Moderator
+    dev: osu!dev
+    media: osu!media-Erstellung
+    support: Support-Team
+    tournaments: Verwaltung von Turnieren
+gmt:
+  all_mods: alle Moderatoren
+  areas:
+    beatmap: Beatmap-Moderation
+    chat: Chat-Moderation
+    forum: Forum-Moderation
+    team: offizielle Präsenz des Teams
+    dev: osu!-Entwicklung
+    player: Spieler-Support
+    support: Technischer Support
+    tournaments: Verwaltung von Turnieren
+    wiki: Wiki-Administration
+    mapping: Moderation der Mapping-/Modding-Community
+nat:
+  areas:
+    communication: Kommunikation
+    evaluation: Beurteilung
+    moderation: Moderation
+    structural: Strukturell
+languages:
+  partial: etwas <language>
+  fil: Philippinisch

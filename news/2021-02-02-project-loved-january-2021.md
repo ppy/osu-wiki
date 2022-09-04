@@ -8,7 +8,7 @@ date: 2021-02-02 18:40:00 +0000
 
 ![](/wiki/shared/news/banners/project-loved.jpg)
 
-In case you're new here: Project Loved runs monthly polls to decide which unranked maps enter the [Loved](https://osu.ppy.sh/beatmapsets?s=loved) category, as selected by each mode's captains. Throughout this post, you can click on each map's banner to go to its poll, where you can vote for whether or not you want the map Loved. Voting is open for 10 days, starting right now! You can read more about how Project Loved works on its [wiki page](/wiki/Project_Loved).
+In case you're new here: Project Loved runs monthly polls to decide which unranked maps enter the [Loved](https://osu.ppy.sh/beatmapsets?s=loved) category, as selected by each mode's captains. Throughout this post, you can click on each map's banner to go to its poll, where you can vote for whether or not you want the map Loved. Voting is open for 10 days, starting right now! You can read more about how Project Loved works on its [wiki page](/wiki/Community/Project_Loved).
 
 ### Navigation
 
@@ -228,6 +228,6 @@ To those missing some of that antimeta action particularly for 9K and 10K, do gi
 
 ---
 
-From everyone on the [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team), we hope you enjoyed this month's selection, and are looking forward to the next! The beatmaps that pass voting will hit the [Loved listing](https://osu.ppy.sh/beatmapsets?s=loved) shortly after the polls end. More info about Project Loved can be found on its [wiki page](/wiki/Project_Loved), including how to submit maps for consideration in the future. See you next month!
+From everyone on the [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team), we hope you enjoyed this month's selection, and are looking forward to the next! The beatmaps that pass voting will hit the [Loved listing](https://osu.ppy.sh/beatmapsets?s=loved) shortly after the polls end. More info about Project Loved can be found on its [wiki page](/wiki/Community/Project_Loved), including how to submit maps for consideration in the future. See you next month!
 
 —clayton

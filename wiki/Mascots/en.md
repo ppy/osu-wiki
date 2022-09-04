@@ -10,7 +10,7 @@ A YouTube video showcasing the osu! mascots can be seen at [Mascot Showcase](htt
 
 ![pippi](img/pippi.png "pippi")
 
-pippi, stylized with a lowercase "p", is the osu! game mode mascot that joined on 2008-07. She is also known as pippidon in osu!taiko and appeared in [Yandere Simulator](https://yanderesimulator.com) as an NPC. The initial concept art was created by [Sarumaru](https://osu.ppy.sh/users/9427), the pippidon sprite was created by [crystalsuicune](https://osu.ppy.sh/users/9974), and the current art was designed by [Daru](https://osu.ppy.sh/users/32480).
+pippi, stylised with a lowercase "p", is the osu! game mode mascot that joined on 2008-07. She is also known as pippidon in osu!taiko and appeared in [Yandere Simulator](https://yanderesimulator.com) as an NPC. The initial concept art was created by [Sarumaru](https://osu.ppy.sh/users/9427), the pippidon sprite was created by [crystalsuicune](https://osu.ppy.sh/users/9974), and the current art was designed by [Daru](https://osu.ppy.sh/users/32480).
 
 ### ![osu!catch icon](/wiki/shared/mode/catch.png) Yuzu
 
@@ -46,7 +46,7 @@ Mocha is the osu!taiko mascot. She was initially designed during the [sixth fana
 
 > He is the hot-blooded leader of the cheer squad. He has a good soul and helps those around him who are in distress by standing up and fighting for them!
 
-一本木龍太 (Ryūta Ippongi) was the osu!catch chibi-fruit catcher that had joined in 2008, but was replaced by [Yuzu](#-yuzu) in 2014. He was created by [iNiS Corporation](https://en.wikipedia.org/wiki/INiS) and was once part of the old website. He also appeared in [Yandere Simulator](https://yanderesimulator.com) as an NPC.
+一本木龍太 (Ryūta Ippongi) was the osu!catch chibi-fruit catcher that had joined in 2008, but was replaced by [Yuzu](#yuzu) in 2014. He was created by [iNiS Corporation](https://en.wikipedia.org/wiki/INiS) and was once part of the old website. He also appeared in [Yandere Simulator](https://yanderesimulator.com) as an NPC.
 
 Ryuuta was also featured in [LuigiHann](https://osu.ppy.sh/users/1079)'s skin, [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357).
 
@@ -86,7 +86,7 @@ Designed by [\[ Glitch \]](https://osu.ppy.sh/users/3781400), Alisa was one of t
 
 ![Chirou](img/Chirou.png "Chirou")
 
-Designed by [pyun](https://osu.ppy.sh/users/981534), Chirou was one of the participants in the osu!taiko mascot design contest. She is very strict and demanding, a perfectionist, and does not like making mistakes—especially in her beats in osu!taiko. But past her strong outlook, if you get to her soft spot, she can be fluffy and cute. She is 14 years old, born on October 25th with blood type AB. She is also 4 feet 11 inches and weighs 100 pounds. Her hobbies include practicing drumming, keeping warm in her cape, and collecting gems or rocks. Chirou has made some appearances in various user fanart submissions.
+Designed by [pyun](https://osu.ppy.sh/users/981534), Chirou was one of the participants in the osu!taiko mascot design contest. She is very strict and demanding, a perfectionist, and does not like making mistakes — especially in her beats in osu!taiko. But past her strong outlook, if you get to her soft spot, she can be fluffy and cute. She is 14 years old, born on October 25th with blood type AB. She is also 4 feet 11 inches and weighs 100 pounds. Her hobbies include practising drumming, keeping warm in her cape, and collecting gems or rocks. Chirou has made some appearances in various user fanart submissions.
 
 ### Taikonator
 

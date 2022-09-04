@@ -1,6 +1,6 @@
 # osu!mania skinning
 
-Since v2.5+, skinners are now able to fully customize the osu!mania notes and stage using the [skin.ini](/wiki/Skinning/skin.ini) file. The following is what osu! will recognize if one chooses to not use the `skin.ini` for further customization.
+Since v2.5+, skinners are now able to fully customise the osu!mania notes and stage using the [skin.ini](/wiki/Skinning/skin.ini) file. The following is what osu! will recognise if one chooses to not use the `skin.ini` for further customisation.
 
 ## Hit Bursts
 
@@ -10,7 +10,7 @@ Since v2.5+, skinners are now able to fully customize the osu!mania notes and st
 
 `mania-hit0.png`
 
-![](img/mania-hit0.png)
+![](/wiki/shared/judgement/osu!mania/mania-hit0.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -26,7 +26,7 @@ Notes:
 
 `mania-hit50.png`
 
-![](img/mania-hit50.png)
+![](/wiki/shared/judgement/osu!mania/mania-hit50.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -42,7 +42,7 @@ Notes:
 
 `mania-hit100.png`
 
-![](img/mania-hit100.png)
+![](/wiki/shared/judgement/osu!mania/mania-hit100.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -58,7 +58,7 @@ Notes:
 
 `mania-hit200.png`
 
-![](img/mania-hit200.png)
+![](/wiki/shared/judgement/osu!mania/mania-hit200.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -74,7 +74,7 @@ Notes:
 
 `mania-hit300.png`
 
-![](img/mania-hit300.png)
+![](/wiki/shared/judgement/osu!mania/mania-hit300.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -90,7 +90,7 @@ Notes:
 
 `mania-hit300g.png`
 
-![](img/mania-hit300g.gif)
+![](/wiki/shared/judgement/osu!mania/mania-hit300g.gif)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -117,7 +117,7 @@ Notes:
 - To have multiple combobursts, use: `comboburst-mania-{n}.png`.
   - One of the images in the set will appear when a combo milestone is met.
 - osu!mania-specific combobursts
-- This can be disabled in the [options](/wiki/Options).
+- This can be disabled in the [options](/wiki/Client/Options).
 - Unlike osu! and osu!catch's combobursts, all edges of this imageset should not be clipped.
 
 ## Keys
@@ -510,7 +510,7 @@ Notes:
 
 Notes:
 
-- This element is the graphical representation of the judgement line.
+- This element is the graphical representation of the [judgement](/wiki/Gameplay/Judgement) line.
   - The judgement line is drawn in the centre of the image.
 - This element is drawn for the entire stage width, not individual columns.
 - This element is stretched to fit the stage width (allowing for narrower images).

@@ -6,13 +6,13 @@ needs_cleanup: true
 
 <!-- TODO:
 - dated/misleading info in many sections
-- this article has so many sections that it's basically useless, besides in search results or direct section links. we probably want to break it up into articles with proper categorization in the spirit of https://github.com/ppy/osu-wiki/issues/3143 -->
+- this article has so many sections that it's basically useless, besides in search results or direct section links. we probably want to break it up into articles with proper categorisation in the spirit of https://github.com/ppy/osu-wiki/issues/3143 -->
 
 # FAQ
 
 ## osu! Introduction
 
-### I've never played this "Ouendan" thing - what is it?
+### I've never played this "Ouendan" thing — what is it?
 
 *[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)* is a rhythm game for the *Nintendo DS*. The gameplay consists of only three elements: tapping circles on the touchscreen, dragging a ball across a fixed path and rotating a spinner very fast. All these elements are timed to (covers of) popular Japanese songs. It looks like this on the *DS*:
 
@@ -24,7 +24,7 @@ The gameplay circles can be seen on the bottom screen, and the story on the top 
 
 *Full explanation: [osu!](/wiki/Game_mode/osu!)*
 
-While most players may not have a touchscreen at their disposal, the game was made to be playable with a normal mouse in mind, as well as any creative variations of input devices usage. Different play styles can be found in the [play styles](/wiki/Play_Styles) page. There are some songs which will push the limits of the normal mouse and the player, but all the (ranked and approved) beatmaps have been tested and (most can be) passable using only a mouse.
+While most players may not have a touchscreen at their disposal, the game was made to be playable with a normal mouse in mind, as well as any creative variations of input devices usage. Different play styles can be found in the [play styles](/wiki/Play_style) page. There are some songs which will push the limits of the normal mouse and the player, but all the (ranked and approved) beatmaps have been tested and (most can be) passable using only a mouse.
 
 #### Gameplay Basics
 
@@ -88,7 +88,7 @@ The default controls for osu! are:
 
 The hit objects in osu! will accept any input from the input device, as long as each hit objects was tapped in time.
 
-If [Relax](/wiki/Game_modifier/Relax) game modifer was used, only the in-game cursor will work. Use the in-game cursor to follow the hit objects with automated tap. Spinners must still be completed.
+If [Relax](/wiki/Game_modifier/Relax) game modifier was used, only the in-game cursor will work. Use the in-game cursor to follow the hit objects with automated tap. Spinners must still be completed.
 
 If [Auto Pilot](/wiki/Game_modifier/Autopilot) game modifier was used, only the input from the input device will work. Time the tap on the hit objects with automated cursor movement. Spinners will follow the [Spun Out](/wiki/Game_modifier/Spun_Out) mod speed.
 
@@ -137,7 +137,7 @@ Please note that health drain is disabled in osu!taiko, so only the hit objects 
 
 Each taiko notes (or notes, for brevity) will appear as either a red or a pale-blue circle. Those coloured circles were named Don (red notes) and Katu (blue notes), respectively.
 
-If it is a small red note, press the button bound to the inner portion of the taiko drum or hit the large flat area (center) of the *TaTaCon*. If it is a small blue note, press the button bound to the outer ring of the taiko drum or hit the sides of the *TaTaCon*. If the note is a **LARGE** circle, press or hit both of either inner or outer drum depending on the colour of the note for double point (a single correct hit will give single point instead).
+If it is a small red note, press the button bound to the inner portion of the taiko drum or hit the large flat area (centre) of the *TaTaCon*. If it is a small blue note, press the button bound to the outer ring of the taiko drum or hit the sides of the *TaTaCon*. If the note is a **LARGE** circle, press or hit both of either inner or outer drum depending on the colour of the note for double point (a single correct hit will give single point instead).
 
 The notes must be pressed or hit in the small white judgement circle next to the drum. Hitting the wrong colour, or both red and blue colours at the same time, will be considered a miss.
 
@@ -240,7 +240,7 @@ The placement of in-game cursor does not matter when playing normally. If [Relax
 
 osu!mania is the third game mode added to osu!, after osu!taiko and osu!catch game modes.
 
-The mode has been widely used in almost all of the major rhythm games. It require good hand and/or leg coordination where the notes (with their quantity depending on BPM and difficulty) move on a conveyer. The player will have to press the correct key for that specific note in time. Though the game mode was originally made as an imitation of the *Beatmania* style of playing, osu!mania allows changing the number of keys or vertically flipping the orientation of the playfield (this means that it can be made to look more like *Guitar Hero* \[5 keys\] or *Dance Dance Revolution* \[4 keys\] and so on).
+The mode has been widely used in almost all of the major rhythm games. It require good hand and/or leg coordination where the notes (with their quantity depending on BPM and difficulty) move on a conveyor. The player will have to press the correct key for that specific note in time. Though the game mode was originally made as an imitation of the *Beatmania* style of playing, osu!mania allows changing the number of keys or vertically flipping the orientation of the playfield (this means that it can be made to look more like *Guitar Hero* \[5 keys\] or *Dance Dance Revolution* \[4 keys\] and so on).
 
 When converting a non-specific beatmap, the default key range would be around 4 to 7 keys.
 
@@ -280,7 +280,7 @@ Health bar regeneration occurs slowly while holding the hold note(s). Depending 
 
 There two different binding-styles, *Symmetrical* and *Left to Right*.
 
-- *Symmetrical* style mimics the button placement of *DJMAX*, in which the center key is `Spacebar` to simulate a feeling of stepping the pedal similar to the arcade version.
+- *Symmetrical* style mimics the button placement of *DJMAX*, in which the centre key is `Spacebar` to simulate a feeling of stepping the pedal similar to the arcade version.
   - Centre key matches the middle column (odd numbered keys only) and the other column matches the keys in its corresponding place.
 - *Left to Right* style mimics the button placement of *Beatmania IIDX*, where the first column matches to the *key1*, then the second column matches the *key2* and so on.
 
@@ -316,7 +316,7 @@ There two different binding-styles, *Symmetrical* and *Left to Right*.
 
 ## Scoring
 
-*Detailed explanation of scoring can be found at the game style's own respective page or [the Score page](/wiki/Score)).*
+*Detailed explanation of scoring can be found at the game style's own respective page or [the Score page](/wiki/Gameplay/Score)).*
 
 *Detailed explanation of accuracy calculation can be found at the game style's own respective page or [the Accuracy page](/wiki/Gameplay/Accuracy).*
 
@@ -381,11 +381,11 @@ There two different binding-styles, *Symmetrical* and *Left to Right*.
 
 ## Performance Points
 
-*Full explanation: [Performance Points](/wiki/Performance_Points)*
+*Full explanation: [Performance Points](/wiki/Performance_points)*
 
 Performance points(pp) is a ranking metric aiming to be more contextually relevant to a continuous game like osu!. It aims to shift the focus from being on the amount of time played to the actual skill of the player. Performance points is heavily based on map difficulty, determined by a unique algorithm in every game mode. Based on this difficulty alone, each of the scores will be rated and assigned a pp value. Performance rank is predominantly based on performance on individual maps. The easiest way to improve it is to score high on difficult songs, and playing more songs. Do note that game modes are counted separately; playing osu!, osu!taiko, osu!catch, or osu!mania will raise the pp for the respective game mode.
 
-For any questions regarding pp, please refer to the [wiki page for pp first](/wiki/Performance_Points).
+For any questions regarding pp, please refer to the [wiki page for pp first](/wiki/Performance_points).
 
 ---
 
@@ -417,15 +417,15 @@ For osu!catch, **Kingkevin30** has compiled a nice list of osu!catch beatmaps an
 
 For osu!mania, **Entozer** has compiled a decent list sorted by relative player's difficulties, with **Drace** providing an experienced gameplay insight for beginners starting out in osu!mania. Both of it can be found [here](https://osu.ppy.sh/community/forums/topics/147552) (**Entozer**'s beatmap guide), and [here](https://osu.ppy.sh/community/forums/topics/146615) (**Drace**'s improvement guide)
 
-Alternatively, the website's beatmap searchbar has a feature to [sort the ranked beatmap list by difficulty](https://osu.ppy.sh/beatmapsets?sort=difficulty_asc). The easiest maps are at the top of the list.
+Alternatively, the website's beatmap search bar has a feature to [sort the ranked beatmap list by difficulty](https://osu.ppy.sh/beatmapsets?sort=difficulty_asc). The easiest maps are at the top of the list.
 
-Lastly, **Rivenation** did a project for [advanced beatmap searching](https://osu.ppy.sh/community/forums/topics/380485) named [osu!search](http://osusearch.com) which not only has the same features as the official beatmap searchbar but also has some neat features to define a specific beatmap requirement. The unofficial beatmap searchbar can be found at [this link](http://osusearch.com).
+Lastly, **Rivenation** did a project for [advanced beatmap searching](https://osu.ppy.sh/community/forums/topics/380485) named [osu!search](http://osusearch.com) which not only has the same features as the official beatmap search bar but also has some neat features to define a specific beatmap requirement. The unofficial beatmap search bar can be found at [this link](http://osusearch.com).
 
 #### What does Level in my profile actually do?
 
 **Absolutely nothing**. There is no difference in any way when comparing a Level 100 player against a Level 1 player except the player's own skills and experience of the game mode in question. There is no handicap for the lower level nor is there an advantage for the higher level (except personal experience and hardware used).
 
-Level will be based on total score accumulated when online with account regardless of pass or fail on the beatmap. [Formula given here](/wiki/Score).
+Level will be based on total score accumulated when online with account regardless of pass or fail on the beatmap. [Formula given here](/wiki/Gameplay/Score).
 
 #### Why is my profile stats different ingame?
 
@@ -435,7 +435,7 @@ Keep in mind that osu! has four game modes so you might be looking at the wrong 
 
 #### How do I change the default keyboard key input for my game mode of choice?
 
-*Full explanation: [Options](/wiki/Options)*
+*Full explanation: [Options](/wiki/Client/Options)*
 
 ![Options sidebar with quickicons](/wiki/shared/Options_quickicons.jpg "Options quickicons")
 
@@ -445,7 +445,7 @@ From the *Input* icon in the *Options* sidebar as shown above, under **Keyboard*
 
 #### Game over? Where did I mess up?
 
-*Full explanation: [Replay](/wiki/Replay)*
+*Full explanation: [Replay](/wiki/Gameplay/Replay)*
 
 After failing a beatmap, press the `F1` key to replay the currently failed play. The replay ends when the screen darkens, with an osu!logo in the middle, rather than the game over screen. To rewatch the replay again, hold the custom default grave/tilde (\`/~) key (can be changed in Options sidebar; inside *Change keyboard bindings* as **Quick Retry (hold briefly)**) or `Ctrl`+`R` for a while.
 
@@ -453,7 +453,7 @@ Due to the non-standard replay screen, use the `Esc` key to return to Song Selec
 
 #### Does osu! have keyboard shortcuts?
 
-*Full list: [Shortcut key reference](/wiki/Shortcut_key_reference)*
+*Full list: [Shortcut key reference](/wiki/Client/Keyboard_shortcuts)*
 
 Pressing the `Insert` key (in default keyboard setting) will hide, pause (if playing) and mute osu! into the *Windows* sidebar. Find the *osu!logo* in the *Windows* sidebar, and click on it to return osu! to the state before pressing the key. It is called the **Boss key**, and can be modified in `Change keyboard bindings` (in `Options`, under *Keyboard* section), located at the end of the *Universal* section.
 

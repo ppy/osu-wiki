@@ -18,7 +18,7 @@ Cirklarna är på nedre skärmen, och en berättelse visas på övre skärmen. V
 
 *Fullständig förklaring: [osu!](/wiki/Game_mode/osu!)*
 
-Även om de flesta spelare inte har en touch-skärm, är spelet gjord med hänsyn för att kunna spelas med en vanlig mus, och även andra kreativa apparater som inmatningsmetod. Information om olika spelstilar kan hittas i [spelstilar](/wiki/Play_Styles)-sidan. Det finns vissa låtar som tar spelandet med en mus till gränsen av vad som är möjligt, men alla rankade och godkända beatmaps har testats och (de flesta) kan klaras av med bara en mus.
+Även om de flesta spelare inte har en touch-skärm, är spelet gjord med hänsyn för att kunna spelas med en vanlig mus, och även andra kreativa apparater som inmatningsmetod. Information om olika spelstilar kan hittas i [spelstilar](/wiki/Play_style)-sidan. Det finns vissa låtar som tar spelandet med en mus till gränsen av vad som är möjligt, men alla rankade och godkända beatmaps har testats och (de flesta) kan klaras av med bara en mus.
 
 #### Spelets grunder
 
@@ -303,7 +303,7 @@ Det finns två olika tangentbindningar, *Symmetrisk* och *Vänster till Höger*.
 
 ## Poängräkning
 
-*Detaljerad förklaring för poängräkning hittas i spellägets motsvarande artikel eller i [Poäng-artikeln](/wiki/Score).*
+*Detaljerad förklaring för poängräkning hittas i spellägets motsvarande artikel eller i [Poäng-artikeln](/wiki/Gameplay/Score).*
 
 *Detaljerad förklaring för beräkning av träffsäkerhet hittas i spellägets motsvarande artikel eller i [artikeln om Träffsäkerhet](/wiki/Gameplay/Accuracy).*
 
@@ -368,11 +368,11 @@ Det finns två olika tangentbindningar, *Symmetrisk* och *Vänster till Höger*.
 
 ## Prestanda
 
-*Fullständig förklaring: [Performance Points](/wiki/Performance_Points)*
+*Fullständig förklaring: [Performance Points](/wiki/Performance_points)*
 
 Prestanda (pp) är ett prestationsmått med syfte till att vara relevant i kontext för ett kontinuerligt spel som osu!. Dess målsättning är att skifta fokus från att vara antalet tid spelat till att reflektera den egentliga skickligheten hos spelaren. Prestanda baseras kraftigt på hur svår en beatmap är, beräknad av en unik algoritm för varje spelläge. Grundat på endast denna svårighetsgrad värderas varje prestation som sedan får ett pp-värde. Prestanda är i överlag baserad på prestationer i individuella beatmaps. Det enklaste sättet att förbättras är att få höga antal poäng på svåra låtar, och genom att spela genom flera låtar. Notera att spellägena räknas separat; att spela osu!, osu!taiko, osu!catch eller osu!mania höjer pp-värdet för respektive spelläge.
 
-För frågor angående pp, var god läs [wiki-sidan för pp först](/wiki/Performance_Points).
+För frågor angående pp, var god läs [wiki-sidan för pp först](/wiki/Performance_points).
 
 ---
 
@@ -408,7 +408,7 @@ Slutligen har **Rivenation** gjort ett projekt för [advancerad beatmap-sökning
 
 **Ingenting alls**. Det finns ingen skillnad mellan en Level 100 spelare och en Level 1 spelare förutom deras egna skickligheter och erfarenheter av spelläget i fråga. Det finns ingen handikapp för spelare med lägre Level eller någon fördel för spelare med högre Level (förutom personlig erfarenhet och hårdvara som används).
 
-Level baseras på totalt antal poäng som ackumuleras online inloggat i ett konto oavsett om beatmappen klaras av eller misslyckas. [Formeln anges här](/wiki/Score).
+Level baseras på totalt antal poäng som ackumuleras online inloggat i ett konto oavsett om beatmappen klaras av eller misslyckas. [Formeln anges här](/wiki/Gameplay/Score).
 
 #### Varför är statistiken på min profil inte samma som i spelet?
 
@@ -418,7 +418,7 @@ Tänk på att osu! har fyra spellägen, se alltså till att inte titta på fel s
 
 #### Hur ändrar jag tangentbindningarna?
 
-*Fullständig förklaring: [Options](/wiki/Options)*
+*Fullständig förklaring: [Options](/wiki/Client/Options)*
 
 ![Inställningarnas sidofält med ikoner](/wiki/shared/Options_quickicons.jpg "Inställningar med ikoner")
 
@@ -428,7 +428,7 @@ Från ikonen för *Inmatning* i *Inställningar* visad ovan, under **Tangentbord
 
 #### Game over? Vad gjorde jag för fel?
 
-*Fullständig förklaring: [Replay](/wiki/Replay)*
+*Fullständig förklaring: [Replay](/wiki/Gameplay/Replay)*
 
 Efter att en beatmap misslyckas, tryck på `F1` för att visa reprisen. Den slutar när skärmen mörknar och *osu!loggan* dyker upp i mitten, istället för att game-over-skärmen. Tryck på grave/tilde (\`/~) -knappen (kan ändras i inställningar: *Ändra tangentbindningar*->**Quick Retry (hold briefly)**) eller håll in `Ctrl` + `R` en kort stund, för att spela upp reprisen igen.
 
@@ -436,7 +436,7 @@ På grund av den icke-standarda reprisvyn, tryck på `Esc` för att gå tillbaka
 
 #### Har osu! kortkommandon?
 
-*Fullständig lista: [Shortcut key reference](/wiki/Shortcut_key_reference)*
+*Fullständig lista: [Shortcut key reference](/wiki/Client/Keyboard_shortcuts)*
 
 `Insert`-tangenten (med standard tangentbindning) pausar musiken (om det spelas), stänger av ljud från osu! och gömmer den i *Windows* sidopanel. Spelet återställs till precis hur den var med ett klick på ikonen i sidopanelen. Detta kallas för **Bosstangenten** och kan ändras från inställningarna (*Tangentbord*->*Ändra tangentbindningar*->*Universal*).
 

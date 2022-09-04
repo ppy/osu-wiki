@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated_translation: true
 outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
 ---
 
@@ -83,7 +83,7 @@ No Nintendo *DS* esse é um jeito bom de se arranhar a sua tela, especialmente e
 
 ## Estilos de Jogo
 
-*[Consulte a página 'Estilos de Jogo' do osu!](/wiki/Play_Styles).*
+*[Consulte a página 'Estilos de Jogo' do osu!](/wiki/Play_style).*
 
 ## Controles
 
@@ -101,7 +101,7 @@ Se o modificador [Auto Pilot](/wiki/Game_modifier/Autopilot) for utilizado, some
 
 ## Pontuação
 
-*[Valores de Pontuação podem ser encontrados na subseção 'Pontuação' dentro da seção osu! Valores de Pontuação](/wiki/Score#osu).*
+*[Valores de Pontuação podem ser encontrados na subseção 'Pontuação' dentro da seção osu! Valores de Pontuação](/wiki/Gameplay/Score/osu!).*
 
 A seção de pontuação esmiuça todos os detalhes da pontuação, inclusive as fórmulas matemáticas envolvidas.
 
@@ -155,7 +155,7 @@ Cada rotação dos spinners confere 100 pontos **enquanto ele não estiver compl
 
 #### Como é calculado o Multiplicador de Dificuldade
 
-[Tamanho dos Círculos - CS (Circle Size)](/wiki/Beatmap_Editor/Song_Setup), [Dreno de HP - HP (HP Drain)](/wiki/Beatmap_Editor/Song_Setup) e [Dificuldade Geral - OD (Overall Difficulty)](/wiki/Beatmap_Editor/Song_Setup) todos influenciam nos **Pontos de Dificuldade**.
+[Tamanho dos Círculos - CS (Circle Size)](/wiki/Client/Beatmap_editor/Song_Setup), [Dreno de HP - HP (HP Drain)](/wiki/Client/Beatmap_editor/Song_Setup) e [Dificuldade Geral - OD (Overall Difficulty)](/wiki/Client/Beatmap_editor/Song_Setup) todos influenciam nos **Pontos de Dificuldade**.
 
 O valor acumulado dos pontos de dificuldade nesses três aspectos afetam *Multiplicador de Dificuldade* da seguinte maneira:
 
@@ -261,13 +261,13 @@ O sistema usado para calcular o dreno de vida é complicado, então não será e
 - Trocar o sentido de giro de um spinner no meio da execução das rotações fará o spinner "freiar" e voltar para 0, até que novamente se acumule movimento no sentido inverso e comece a efetivamente rotacionar na direção contrária. Apesar disso, o progresso não será perdido durante a reorientação da rotação (embora também não aumentará). Somente após a mudança completa de sentido (caso ocorra) o spinner voltará a expandir.
 - A rotação deve ser realizada ao redor do núcleo do spinner ou então **será invalidada**.
 - A Fumaça dura mais tempo do que a trilha padrão do ponteiro. Aplique a Fumaça esparsadamente para prevenir que eles desapareçam rápido demais.
-- O mascote do osu! é o [pippi](/wiki/Mascots#-pippi).
+- O mascote do osu! é o [pippi](/wiki/Mascots#pippi).
 - Quando o modificador [Auto](/wiki/Game_modifier/Auto) é ativado, o nome do jogador aparecerá como osu!.
 
 ### Histórico
 
 - As versões antigas do osu! costumavam emular alguns elementos da série *Ouendan*, mas com o passar do tempo foram removidos ou substituídos.
-  - [Combo fire](/wiki/Glossary/Combo_fire) ao atingir algumas metas de combo.
+  - [Combo fire](/wiki/Gameplay/Combo_fire) ao atingir algumas metas de combo.
   - A primeira versão da skin padrão era uma cópia quase idêntica da interface do *Ouendan*.
     - Foi substituída pela por uma mais atualizada que está de acordo com novos padrões de comportamentos de skins.
   - A diferença mais notável entre o padrão de comportamento antigo e o novo está no spinner.

@@ -1,11 +1,13 @@
 ---
+outdated_translation: true
+outdated_since: de80497e3887e708fa8ea709cf48cd5fa0efb49a
 tags:
   - wiki 基準
 ---
 
 # 記事のスタイリング基準
 
-*ニュース記事については、次を参照してください: [ニュースのスタイリング基準](/wiki/News_Styling_Criteria)*
+*ニュース記事については、次を参照してください: [ニュースのスタイリング基準](/wiki/News_styling_criteria)*
 
 記事のスタイリング基準（ASC）は、osu!wikiに強制されるスタイリングの基準であり、すべての記事のわかりやすさ、フォーマット、レイアウトの一貫性を保つためのものです。
 

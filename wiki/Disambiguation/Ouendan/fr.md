@@ -1,6 +1,6 @@
 ---
 tags:
-  - Osu! Tatake! Ouendan
+  - Osu! Tatakae! Ouendan
 ---
 
 # Ouendan

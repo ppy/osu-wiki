@@ -1,6 +1,6 @@
 ---
 legal: true
-outdated: true
+outdated_translation: true
 ---
 
 # osu! 隐私政策

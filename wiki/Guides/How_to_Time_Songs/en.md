@@ -6,7 +6,7 @@ needs_cleanup: true
 
 # How to time songs
 
-![Timing menu](/wiki/Beatmap_Editor/Timing/img/Timing_base.jpg "Timing menu")
+![Timing menu](/wiki/shared/timing/Timing_base.jpg "Timing menu")
 
 ## Introduction
 
@@ -26,7 +26,7 @@ The preparations may range from trimming to adding/removing any sound effects. A
 
 Almost any song has rhythm, which works the same way as human skeleton. It's the base where the whole song is built on; it is followed by musical instruments, and if the song has vocals, they also follow it. Each music has its own structure, and our timing task here is to deduce and recreate the structure.
 
-Try to immerse yourself and imagine the structure of music, you can take the usual line division (music sheet of 4/4, Standard Time Signature) into it - these are the places where the notes are located, and the distance between them is given by song's BPM (higher BPM = lesser time taken to complete one time signature/measure). This can be visually observed through the timeline in the editor at the top of the screen. Offset is the time difference between the first beat of the time signature (red offset) and the time in the .mp3 file. You can also check [this article on Wikipedia](https://en.wikipedia.org/wiki/Rhythm).
+Try to immerse yourself and imagine the structure of music, you can take the usual line division (music sheet of 4/4, Standard Time Signature) into it — these are the places where the notes are located, and the distance between them is given by song's BPM (higher BPM = lesser time taken to complete one time signature/measure). This can be visually observed through the timeline in the editor at the top of the screen. Offset is the time difference between the first beat of the time signature (red offset) and the time in the .mp3 file. You can also check [this article on Wikipedia](https://en.wikipedia.org/wiki/Rhythm).
 
 Listen long enough, and you will catch the rhythm of the song and then successfully time it. The distance between the notes will be calculated by the editor, and before mapping, we only have to set correct BPM and timing signature.
 
@@ -40,7 +40,7 @@ So the plan of action in nutshell:
 
 ### BPM and offset
 
-When searching for these two things, we will focus on the background sounds, that is, the instrument that is used to create the constant rhythm (drums, usually). Find them intuitively - for example, shake a can of substance, evenly tap fingers on the table (as if playing piano), shaking head (as if disco), or perform other rhythmic movements (slapping stomach as if bongo, tap dancing, whistling, etc). Sometimes the music has little to no instrument support ([beatmap example](https://osu.ppy.sh/beatmapsets/8894)), and in cases like this you can follow the vocals.
+When searching for these two things, we will focus on the background sounds, that is, the instrument that is used to create the constant rhythm (drums, usually). Find them intuitively — for example, shake a can of substance, evenly tap fingers on the table (as if playing piano), shaking head (as if disco), or perform other rhythmic movements (slapping stomach as if bongo, tap dancing, whistling, etc). Sometimes the music has little to no instrument support ([beatmap example](https://osu.ppy.sh/beatmapsets/8894)), and in cases like this you can follow the vocals.
 
 Play your track from the beginning and keep listening to it until you come to a point where you can clearly hear the rhythm and catch it. At this point, stop the song, wind back a little bit, start listening again and tapping `T` key as consistently as possible (you can also click the button in the top right corner that says "Tap here!", but keyboard usually gives more accurate results). The parameters (BPM, Offset) will change with every new tap you make, but don't mind it, you'll iron them out later. Spend half a minute on this, a minute at maximum.
 
@@ -106,7 +106,7 @@ Along with getting 300 hitbursts, you need to peek at the left-hand side of the 
     - 100s/50s hitbursts increase the percentage while 300s decrease the percentage. Misses do nothing (it assumes you are not trying to test the note).
 - The second is the overall average difference between absolute timing (beatmap's timing) and player's hits.
   - Early/Late means we click earlier/later than the absolute timing by some milliseconds.
-    - Keep the readings as low as possible (maximum - 3-5 ms).
+    - Keep the readings as low as possible (maximum 3-5 ms).
   - After testplay, correct the absolute timing on where you get bad entry.
     - For early/late timing, decrease/increase the offset for a specified number (for the picture example, increase by 25ms).
 
@@ -132,7 +132,7 @@ You can ask for help from others on this, but there are only few people who *kno
 
 ### What do I do?
 
-To start, listen and find all the places where the rhythm changes (metronome usage is optional) and properly reflect this into the editor, and add new uninherited timing points with correct offsets and BPMs where appropriate. To do this, we will utilize the following plan:
+To start, listen and find all the places where the rhythm changes (metronome usage is optional) and properly reflect this into the editor, and add new uninherited timing points with correct offsets and BPMs where appropriate. To do this, we will utilise the following plan:
 
 1. Make sure that the parameters (BPM and offset) of the current point are shown in the timeline;
 2. While testplaying, keep an eye on hit error. When it starts to change, stop;
@@ -147,7 +147,7 @@ These steps should be repeated until the end of the song. As output, we get the 
 The algorithm for timing speedups/slowdowns is slightly different:
 
 1. Find a place where the song's tempo changes. Set a new offset (if possible, on a white tick). Then, zoom in the timeline scale (Alt + wheel up or press the circular "+" button);
-2. Put a note two beats ahead of it with some hitsounds (for example, finish hitsound from soft [sampleset](/wiki/Beatmap_editor/Compose)). Slow the playback rate down and listen to it a few times. Hold Shift and carefully move the note forward or backward on the timeline, then listen to it again. Repeat this until you find the best position for the note where it is in sync with the music;
+2. Put a note two beats ahead of it with some hitsounds (for example, finish hitsound from soft [sampleset](/wiki/Client/Beatmap_editor/Compose)). Slow the playback rate down and listen to it a few times. Hold Shift and carefully move the note forward or backward on the timeline, then listen to it again. Repeat this until you find the best position for the note where it is in sync with the music;
 3. Highlight a note and double-click on it, making sure it did not shift by accident after you clicked it. Put a new offset right on it;
 4. Increase/decrease BPM of the previous offset, checking the difference between the tick before the new offset and the actual offset itself. Your goal is to remove the difference between these two by tweaking only the first section's BPM, so new section is placed exactly on the previous offset's tick.
 5. After you are done, return to Step 2.

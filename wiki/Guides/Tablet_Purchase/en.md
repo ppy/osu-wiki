@@ -50,7 +50,7 @@ At the time of writing there are three versions of the Bamboo, all confusingly u
 
 ![](img/gen3.jpg "Third generation Bamboo (Connect, Capture, Create - Connect shown)")
 
-You'll want to stay away from either of the Bamboo Touch tablets, they do not feature pen input, they're just multitouch trackpads for your computer. Frankly, [Apple did it better](https://apple.com/magictrackpad).
+You'll want to stay away from either of the Bamboo Touch tablets, they do not feature pen input, they're just multitouch trackpads for your computer. Frankly, [Apple did it better](https://www.apple.com/shop/product/MK2D3AM/A/magic-trackpad).
 
 The other Bamboo models come in two sizes, basically small and large. For the second generation, Bamboo Touch, Pen, and Pen and Touch were the "small" ones, whereas the Fun and Craft were the "large" ones. For the third generation, the Connect and Capture are the "small", whereas the Create is the "large".
 
@@ -81,7 +81,7 @@ Here are some links to purchase the latest models.
 - [Amazon - One by Wacom Tablet (small version) (CTL472)](https://www.amazon.com/dp/B07S1RR3FR)
 - [Amazon - Wacom Bamboo Splash Pen Tablet (CTL471)](https://a.co/fCXqteP)
 - [Amazon - Wacom Bamboo Capture Pen and Touch Tablet (CTH470)](https://a.co/b4GpKXt)
-- [Huion - HUION H430P (4096)](https://huiontablet.com/all-products/graphic-tablets/huion-h430p-4096.html)
+- [Huion - HUION H430P (4096)](https://store.huion.com/products/inspiroy-h430p)
   - [Amazon - Huion Inspiroy H430P Graphics Drawing Tablet for OSU](https://a.co/6uDGhXL)
 
 ## Conclusion

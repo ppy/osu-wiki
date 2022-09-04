@@ -12,10 +12,6 @@ Skinning är en av de viktigaste funktionerna i osu!. Det gör det möjligt för
 
 **Endast för beatmaps,** ifall ditt beatmap-skin innehåller ett enda element från de listade uppsättningarna i rankingkriterierna måste det innehålla alla de andra elementen i nämnda uppsättning. Detta gäller endast beatmap-skin, men andra skinnare kan också ta hänsyn till dessa listor.
 
-## Hur gör jag ett skin?
-
-*Huvudsida: [Skinning Tutorial](/wiki/Skinning/Tutorial)*
-
 ## Skin-elementlistor
 
 Listan över skinelement är uppdelad i följande kategorier:
@@ -29,8 +25,8 @@ Listan över skinelement är uppdelad i följande kategorier:
 
 ## Se även
 
-- [skin.ini](/wiki/skin.ini)
+- [skin.ini](/wiki/Skinning/skin.ini)
 - [Skinning historik](/wiki/Skinning/History) - en lista över gamla skinelement
 - [Kompendium](https://osu.ppy.sh/community/forums/topics/686664) - en lista över färdiga skin
 - [Skinning FAQ](/wiki/Skinning/FAQ)
-- [Guider och viktiga trådar](/wiki/Skinning/Guides_and_Important_Threads)
+- [Guider och viktiga trådar](/wiki/Skinning/Guides_and_important_threads)

@@ -1,13 +1,13 @@
 ---
 legal: true
-outdated: true
+outdated_translation: true
 ---
 
 # osu! 版权政策
 
 考虑到版权侵犯的问题，osu! 根据数字千年版权法案，美利坚合众国法典第 17 编 512 条采取如下政策。
 
-osu! 的指定接受侵权声明通知的代理人（“指定代理人”）的联系信息列在此政策最后，并记录在美利坚合众国版权办公室的文件中 ([https://www.copyright.gov/dmca-directory/](https://www.copyright.gov/dmca-directory/))。
+osu! 的指定接受侵权声明通知的代理人（“指定代理人”）的联系信息列在此政策最后，并记录在美利坚合众国版权办公室的文件中 (<https://www.copyright.gov/dmca-directory/>)。
 
 osu! 十分严肃地对待版权和其它知识产权。
 

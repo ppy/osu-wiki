@@ -12,32 +12,31 @@
 
 ## หน้าที่และการงาน
 
-*หน้าหลัก: [ศูนย์การช่วยเหลือ](/wiki/Help_Centre)*
-
-*ดูสิ่งนี้ด้วย: [การ restrict บัญชี](/wiki/Help_Centre/Account_Restrictions)*
+*หน้าหลัก: [ศูนย์การช่วยเหลือ](/wiki/Help_centre)*\
+*ดูสิ่งนี้ด้วย: [การ restrict บัญชี](/wiki/Help_centre/Account_restrictions)*
 
 คุณควรติดต่อทีมนี้เกี่ยวกับเรื่องบัญชีที่คุณไม่สามารถควบคุมได้ โปรดจำไว้ว่าให้เขียนเกี่ยวกับบริบทของปัญหาของคุณให้มากที่สุดเท่าที่ได้ และส่งอีเมลจากอีเมลที่อยู่บนบัญชี osu! ของคุณ
 
 ### [accounts@ppy.sh](mailto:accounts@ppy.sh)
 
-- [การอุทธรณ์ข้อจำกัดบัญชีของคุณ](/wiki/Help_Centre/Account_Restrictions) เช่น:
+- [การอุทธรณ์ข้อจำกัดบัญชีของคุณ](/wiki/Help_centre/Account_restrictions) เช่น:
   - การใบ้
   - การลบเนื้อหาโปรไฟล์ออก
   - การลบบีทแมป
   - การลบโพสต์ฟอรัมและคอมเมนต์
-- การทำผิดกฎที่คุณ[ต้องการสารภาพ](/wiki/Reporting_Bad_Behaviour/Handling_Foul_Play#what-can-i-do-if-i've-broken-the-rules?)
-- [การสูญเสียในการเข้าถึงอีเมล](/wiki/Help_Centre/Installation_and_registration#sign-in)ที่ผูกกับบัญชีของคุณ หรือหากบัญชีของคุณถูกขโมย
-- [การย้อนกลับและการแก้ไขชื่อบัญชีเล็กน้อย](/wiki/Help_Centre/Account#name-changes)
-- [การลงทะเบียนบัญชีสำหรับ bot](/wiki/Bot_Account)
+- การทำผิดกฎที่คุณ[ต้องการสารภาพ](/wiki/Reporting_bad_behaviour/Handling_foul_play#ฉันจะอุทธรณ์การแบนได้อย่างไร)
+- [การสูญเสียในการเข้าถึงอีเมล](/wiki/Help_centre/Account#sign-in)ที่ผูกกับบัญชีของคุณ หรือหากบัญชีของคุณถูกขโมย
+- [การย้อนกลับและการแก้ไขชื่อบัญชีเล็กน้อย](/wiki/Help_centre/Account#name-changes)
+- [การลงทะเบียนบัญชีสำหรับ bot](/wiki/Bot_account)
 
 ### [support@ppy.sh](mailto:support@ppy.sh)
 
-*หมายเหตุ: สำหรับการรายงานการผิดประพฤติอย่างร้ายแรง หรือการล่วงละเมิดทางเพศโดยผู้ใช้ใด ๆ ก็ตาม รวมถึงผู้ดูแล ดูที่[การรายงานการละเมิด](/wiki/Reporting_Bad_Behaviour/Abuse)*
+*หมายเหตุ: สำหรับการรายงานการผิดประพฤติอย่างร้ายแรง หรือการล่วงละเมิดทางเพศโดยผู้ใช้ใด ๆ ก็ตาม รวมถึงผู้ดูแล ดูที่[การรายงานการละเมิด](/wiki/Reporting_bad_behaviour/Abuse)*
 
 - ข้อกังวลเกี่ยวกับการผิดประพฤติโดยผู้ดูแล
 - ข้อกังวลเกี่ยวกับผู้ดูแลละเมิด[จรรยาบรรณของผู้มีส่วนร่วม](/wiki/Contributor_Code_of_Conduct)
-- [ปัญหาด้านการเงิน](/wiki/Help_Centre/Account#supporter) สำหรับคำสั่งซื้อจาก [osu!store](https://osu.ppy.sh/store/listing)
-- ปัญหาด้านเทคนิคที่ไม่สามารถหรือไม่ได้รับการแก้ไขใน[ฟอรัมช่วยเหลือ](https://osu.ppy.sh/community/forums/5) เช่น[ปัญหาด้านการเชื่อมต่อ](/wiki/Help_Centre/Client#online-features)
+- [ปัญหาด้านการเงิน](/wiki/Help_centre/Account#supporter) สำหรับคำสั่งซื้อจาก [osu!store](https://osu.ppy.sh/store/listing)
+- ปัญหาด้านเทคนิคที่ไม่สามารถหรือไม่ได้รับการแก้ไขใน[ฟอรัมช่วยเหลือ](https://osu.ppy.sh/community/forums/5) เช่น[ปัญหาด้านการเชื่อมต่อ](/wiki/Help_centre/Client#online-features)
 
 ### [privacy@ppy.sh](mailto:privacy@ppy.sh)
 

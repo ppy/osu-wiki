@@ -1,5 +1,6 @@
 ---
-no_native_review: true
+outdated_translation: true
+outdated_since: 359208bc2e93ce6c2e1499e3bd1fbb57a3b9fc1c
 ---
 
 # osu!taiko Ranking Criteria
@@ -12,13 +13,13 @@ osu!taiko Ranking Criteria(osu!taiko譜面のランク基準)はTaiko譜面を�
 
 ### 難易度名(Difficulty Names)
 
-*参考: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_Naming)*
+*参考: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_naming)*
 
-- ![](/wiki/shared/diff/easy-t.png) Kantan
-- ![](/wiki/shared/diff/normal-t.png) Futsuu
-- ![](/wiki/shared/diff/hard-t.png) Muzukashii
-- ![](/wiki/shared/diff/insane-t.png) Oni
-- ![](/wiki/shared/diff/expert-t.png) Inner/Ura Oni
+- ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
+- ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu
+- ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii
+- ![](/wiki/shared/diff/insane-t.png?20211215) Oni
+- ![](/wiki/shared/diff/expert-t.png?20211215) Inner/Ura Oni
 
 ### ゲームプレイにおいて(Gameplay)
 
@@ -79,7 +80,7 @@ osu!taiko Ranking Criteria(osu!taiko譜面のランク基準)はTaiko譜面を�
 
 難易度別のルール、ガイドラインはそれぞれの難易度ごとに適用されるもので、すべてのTaiko譜面全体に適用されるものではありません。リズムに関するルール、ガイドラインは「4/4拍子、BPM180程度の譜面」を基準に適用されますが、楽曲が極端に遅い、速い場合には[Ranking CriteriaのScaling BPM](/wiki/Ranking_Criteria/Scaling_BPM)にあるように、許容範囲が一部異なる場合があります。
 
-### ![](/wiki/shared/diff/easy-t.png) Kantan
+### ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
 
 #### ルール(Rules)
 
@@ -99,7 +100,7 @@ osu!taiko Ranking Criteria(osu!taiko譜面のランク基準)はTaiko譜面を�
 - Overall Difficultyは4以下にする必要があります。
 - HP Drain Rateは6以上に設定する必要があります。もし音符数が多い場合、6以下に設定することも可能です。
 
-### ![](/wiki/shared/diff/normal-t.png) Futsuu
+### ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu
 
 #### ルール(Rules)
 
@@ -129,7 +130,7 @@ osu!taiko Ranking Criteria(osu!taiko譜面のランク基準)はTaiko譜面を�
 - Overall Difficultyは5以下にする必要があります。
 - HP Drain Rateは5以上に設定する必要があります。もし音符数が多い場合、5以下に設定することも可能です。
 
-### ![](/wiki/shared/diff/hard-t.png) Muzukashii
+### ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii
 
 #### ルール(Rules)
 
@@ -142,7 +143,7 @@ osu!taiko Ranking Criteria(osu!taiko譜面のランク基準)はTaiko譜面を�
 - **1/4(16分音符)のパターンは5連符より長くしてはいけません。** それ以上の長さになるとこのレベルのプレイヤーには負担が大きいです。
 - **譜面は主に1/2、1/1、それよりも遅いリズムで構成される必要があります。** 時折1/4のリズムを使っても問題ありません。
 - **スピナーとその前の音符の間には、最低でも1/2の間隔を空ける必要があります。** 音符が大きく重ならないように、視認性を確保するためです。
-- **16/1～20/1と連続したマッピングを行う場合、少なくとも3/2以上の休憩地帯を1回挟む必要があります。** もし曲調などにより、休憩地帯が直感的にわかりづらい場合、連続したマッピングがプレイヤーにとっても許容されるような場合は、休憩地帯の頻度を減らしても問題ありません。
+- **16/1～20/1と連続したマッピングを行う場合、少なくとも3/2以上の休憩地帯を1回挟む必要があります。** もし曲調などにより、休憩地帯が直感的にわかりづらい場合、連続したマッピングがプレイヤーにとっても許容されるような場合は、代わりに1/1の休憩を連続で3つ以上使用してもかまいません。
 - **Slider velocityの変更(速度変化)は許容されます。** ですが、曲調、ペースが変わる箇所のみで行い、大幅に行ってはいけません。
 - **1/4(16分音符)のパターンの中で異なる色の音符を使用することは控えてください。** このレベルのプレイヤーはこのような複雑なパターンには慣れていません。
 - **3連符より長い1/4(16分音符)のパターンで異なる色の音符を使う場合、それは1つのみで、かつパターンの最初か最後に行われるべきです。** それよりも複雑なパターンはこのレベルのプレイヤーには負担が大きいです。また、これらのパターンの後には休憩地帯が必要になります。
@@ -152,7 +153,7 @@ osu!taiko Ranking Criteria(osu!taiko譜面のランク基準)はTaiko譜面を�
 - Overall Difficultyは5以下にする必要があります。
 - HP Drain Rateは5以上に設定する必要があります。もし音符数が多い場合、5以下に設定することも可能です。
 
-### ![](/wiki/shared/diff/insane-t.png) Oni
+### ![](/wiki/shared/diff/insane-t.png?20211215) Oni
 
 #### ルール(Rules)
 
@@ -174,7 +175,7 @@ osu!taiko Ranking Criteria(osu!taiko譜面のランク基準)はTaiko譜面を�
 - Overall Difficultyは5以上にする必要があります。
 - HP Drain Rateは5以上に設定する必要があります。もし音符数が多い場合、5以下に設定することも可能です。
 
-### ![](/wiki/shared/diff/expert-t.png) Inner/Ura Oni
+### ![](/wiki/shared/diff/expert-t.png?20211215) Inner/Ura Oni
 
 #### ガイドライン(Guidelines)
 

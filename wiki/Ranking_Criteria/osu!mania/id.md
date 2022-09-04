@@ -1,20 +1,20 @@
 # Ranking criteria osu!mania
 
-**Ranking Criteria osu!mania** merupakan peraturan dan pedoman yang berlaku untuk pembuatan tingkat kesulitan spesifik osu!mania. Untuk dapat membuat tingkat kesulitan spesifik osu!mania diwajibkan mematuhi kriteria yang tercantum. Meskipun **semua aturan wajib diikuti dalam keadaan apa pun**, namun pedoman dapat diabaikan dalam kasus tertentu. Kasus tertentu ini harus dapat dibenarkan dengan penjelasan yang lengkap tentang mengapa pedoman tersebut diabaikan dan alasan mengapa tidak mengabaikannya akan mengganggu kualitas keseluruhan pembuatan.
+***Perhatian: Artikel ini merupakan perpanjangan dari [ranking criteria umum](/wiki/Ranking_Criteria).***
 
-Proposal mengenai peraturan serta saran dibahas di [Sub-forum Ranking Criteria](https://osu.ppy.sh/community/forums/87). Setiap aturan yang melalui proses diskusi dan persetujuan komunitas dicantumkan di sini sebagaimana telah disepakati pada masing-masing utas diskusi.
+**Ranking criteria osu!mania** menjabarkan [aturan dan pedoman](/wiki/Ranking_Criteria#istilah-umum) spesifik untuk [beatmap](/wiki/Beatmap) [osu!mania](/wiki/Game_mode/osu!mania) yang wajib diikuti untuk tahapan dari [Prosedur ranking beatmap](/wiki/Beatmap_ranking_procedure).
 
 ## Glosarium
 
 ### Penamaan tingkat kesulitan
 
-*Artikel utama: [Penamaan Tingkat Kesulitan](/wiki/Ranking_Criteria/Difficulty_Naming)*
+*Artikel utama: [Penamaan Tingkat Kesulitan](/wiki/Ranking_Criteria/Difficulty_naming)*
 
-- ![](/wiki/shared/diff/easy-m.png) Easy
-- ![](/wiki/shared/diff/normal-m.png) Normal
-- ![](/wiki/shared/diff/hard-m.png) Hard
-- ![](/wiki/shared/diff/insane-m.png) Insane
-- ![](/wiki/shared/diff/expert-m.png) Expert
+- ![](/wiki/shared/diff/easy-m.png?20211215) Easy
+- ![](/wiki/shared/diff/normal-m.png?20211215) Normal
+- ![](/wiki/shared/diff/hard-m.png?20211215) Hard
+- ![](/wiki/shared/diff/insane-m.png?20211215) Insane
+- ![](/wiki/shared/diff/expert-m.png?20211215) Expert
 
 ### Istilah umum
 
@@ -60,6 +60,11 @@ Aturan dan pedoman secara keseluruhan berlaku untuk setiap jenis tingkat kesulit
 - **Tidak boleh ada lebih dari 6 note yang ditekan pada saat yang bersamaan di tingkat kesulitan Insane atau dibawahnya.** Menggunakan lebih dari 6 note juga wajib mengikuti spread yang wajar ke tingkat kesulitan berikutnya yang lebih rendah. Aturan ini tidak berlaku untuk bagian akhir dari long note, karena long note dilepas, tidak ditekan.
 - **Beatmap hanya dapat menggunakan 4 sampai 10 key.** Selain itu tidak didukung untuk Ranked Section.
 - **Jika terdapat beberapa key mode dalam satu set beatmap, indikator key mode wajib dicantumkan pada setiap tingkat kesulitan. Jika tidak, key mode tidak perlu dicantumkan.**
+- **Jika [drain time](/wiki/Beatmap/Drain_time) dari setiap kesulitan...**
+  - **...lebih rendah dari durasi 2:30**, kesulitan paling rendah dari setiap *keymode* tidak boleh lebih susah dari Normal, ATAU setiap *keymode* wajib memasukkan *spread* setidaknya 3 tingkat kesulitan di bawah kesulitan paling tinggi.
+  - **...di antara durasi 2:30 dan 3:15**, kesulitan paling rendah dari setiap *keymode* tidak boleh lebih susah dari Hard, ATAU setiap *keymode* wajib memasukkan *spread* setidaknya 2 tingkat kesulitan di bawah kesulitan paling tinggi.
+  - **...di antara durasi 3:15 dan 4:00**, kesulitan paling rendah dari setiap *keymode* tidak boleh lebih susah dari Insane, ATAU setiap *keymode* wajib memasukkan *spread* setidaknya 1 tingkat kesulitan di bawah kesulitan paling tinggi.
+- Pada kesulitan Insane dan lebih tinggi, *spread* yang tepat ditentukan oleh gap-gap kesulitan yang relatif serupa, dengan yang didefinisikan secara formal antara kesulitan yang lebih rendah.
 
 ### Pedoman
 
@@ -67,6 +72,7 @@ Aturan dan pedoman secara keseluruhan berlaku untuk setiap jenis tingkat kesulit
   - akan menjadi tidak masuk akal untuk bermain dengan akurasi penuh.
   - akan secara efektif jika ditampilkan secara konsisten, dan dapat diprediksi.
   - akan menyebabkan lonjakan kesulitan yang kurang tepat.
+- **Long note (LN) harus ditahan sekurangnya 1/12 dari sebuah ketukan.** Timing untuk melepas LN yang lebih cepat dari 1/12 ketukan membuat permainan tidak dapat dimainkan dengan akurasi penuh.
 - **Hindari menggunakan sampel hitsound storyboard dengan volume yang mirip dengan hitsound yang terdapat pada note.** Karena storyboard hitsound menyebabkan distorsi audio dari objek di beatmap. Meletakkan hitsound pada note harus di prioritaskan. Namun, sampel storyboard dapat digunakan saat keysound di ekstrasi langsung dari lagu dan saat tingkat kesulitan rendah memiliki note yang sedikit untuk mendukung hitsound yang diperlukan.
 - **Jangan gunakan keysound tanpa dukungan dari hitnormal.** Jika hitsound terlalu menyatu dengan lagu, umpan balik saat menekan note akan menjadi sangat minim. Namun, ketika keysound di ekstrak langsung dari sebuah lagu dan digunakan sebagai pengganti audio lagu, keysound tidak perlu dukungan dari hitnormal.
 - **Hindari menggunakan hitsound yang sama untuk beberapa note dalam satu note.** Hal ini menyebabkan umpan balik menjadi lebih keras dari yang dibutuhkan. Ini juga berlaku untuk hitsound aktif dan storyboard hitsound yang digunakan pada timestamp yang sama.
@@ -82,7 +88,7 @@ Peraturan dan pedoman tingkat kesulitan spesifik hanya berlaku untuk tingkat kes
 
 *Panduan key mode spesifik dibuat berdasarkan key mode Ranked yang paling umum digunakan (4 key and 7 key). Key mode lain harus menerapkan pedoman ini jika diharuskan.*
 
-### ![](/wiki/shared/diff/easy-m.png) Easy
+### ![](/wiki/shared/diff/easy-m.png?20211215) Easy
 
 #### Peraturan
 
@@ -101,7 +107,7 @@ Peraturan dan pedoman tingkat kesulitan spesifik hanya berlaku untuk tingkat kes
 - **Hindari penggunaan chord selama penggunaan 1/2 berturut-turut.** Namun, menggunakan chord untuk awal atau akhir tidak menjadi masalah.
 - **Hindari penggunaan chord lebih dari dua note.** Ini termasuk long note yang melibatkan note lebih dari dua kolom.
 
-### ![](/wiki/shared/diff/normal-m.png) Normal
+### ![](/wiki/shared/diff/normal-m.png?20211215) Normal
 
 #### Peraturan
 
@@ -138,7 +144,7 @@ Tambahan pedoman untuk tingkat kesulitan *7 key Normal*:
 - **Pola braket harus digunakan secara hemat.**
 - **Long note yang dimainkan dengan key berdekatan yang dipegang secara bersamaan harus dilepaskan pada waktu yang bersamaan.** Long note dengan beberapa waktu rilis membutuhkan koordinasi tangan yang tidak dapat ditangani oleh pemain di level ini.
 
-### ![](/wiki/shared/diff/hard-m.png) Hard
+### ![](/wiki/shared/diff/hard-m.png?20211215) Hard
 
 #### Pedoman
 
@@ -166,7 +172,7 @@ Tambahan pedoman untuk tingkat kesulitan *7 key Hard*:
 - **Jaga jarak chord chordstream pada interval 1/1 atau lebih.** Lebih rapat dari itu akan sukar untuk dibaca.
 - **Sesekali tangan dapat digunakan dalam stream, asalkan dipisahkan setidaknya satu takaran (4 ketukan)**
 
-### ![](/wiki/shared/diff/insane-m.png) Insane
+### ![](/wiki/shared/diff/insane-m.png?20211215) Insane
 
 #### Pedoman
 
@@ -191,7 +197,7 @@ Tambahan pedoman untuk tingkat kesulitan *7 key Insane*:
   - ... 1/4, disarankan untuk menggunakan single note kecuali terdapat alasan musik yang sangat jelas.
 - **Bracket streams harus digunakan secara hemat.**
 
-### ![](/wiki/shared/diff/expert-m.png) Expert
+### ![](/wiki/shared/diff/expert-m.png?20211215) Expert
 
 #### Pedoman
 

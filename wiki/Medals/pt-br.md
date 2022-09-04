@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated_translation: true
 ---
 
 # Conquistas
@@ -42,7 +42,7 @@ Cada uma dessas seções atualmente tem 4 volumes.
 
 #### Curiosidades
 
-- [Pacotes de beatmaps clássicos (2009 — 2016) antes da atualização de Stefan.](Legacy_Beatmap_Packs)
+- [Pacotes de beatmaps clássicos (2009 — 2016) antes da atualização de Stefan.](Legacy_beatmap_packs)
 
 ## Skill
 

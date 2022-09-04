@@ -18,13 +18,13 @@ This month's **41** slider-only entries were whittled down to the top **7** fina
 
 | Rank | Beatmap | Judging | Musical representation (80) | Creativity (80) | Gameplay (80) | Limitation (40) | Raw total | Standardized total |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| \#1 | [flora](https://osu.ppy.sh/beatmapsets/1322809) by [0ppInOsu](https://osu.ppy.sh/users/12551840) | [see details](https://mappersguild.com/contestresults?submission=5fad8f5d5abb614f7025b192) | 58 | 56 | 60 | 34 | **208** |
-| \#2 | [Dragon Blood](https://osu.ppy.sh/beatmapsets/1317855) by [Mao](https://osu.ppy.sh/users/2204515) | [see details](https://mappersguild.com/contestresults?submission=5fad8f5c5abb614f7025b190) | 56 | 49 | 57 | 35 | **197** |
-| \#3 | [connection](https://osu.ppy.sh/beatmapsets/1320472) by [fowwo](https://osu.ppy.sh/users/4547551) | [see details](https://mappersguild.com/contestresults?submission=5fad8f585abb614f7025b16c) | 53 | 52 | 55 | 34 | **194** |
-| \#4 | [connection](https://osu.ppy.sh/beatmapsets/1317565) by [Halgoh](https://osu.ppy.sh/users/4109923) | [see details](https://mappersguild.com/contestresults?submission=5fad8f5e5abb614f7025b19e) | 49 | 59 | 48 | 32 | **188** |
-| \#5 | [flora](https://osu.ppy.sh/beatmapsets/1318355) by [William K](https://osu.ppy.sh/users/2261651) | [see details](https://mappersguild.com/contestresults?submission=5fad8f5c5abb614f7025b18e) | 51 | 58 | 47 | 32 | **188** |
-| \#6 | [mango sago](https://osu.ppy.sh/beatmapsets/1317561) by [xbopost](https://osu.ppy.sh/users/6842421) | [see details](https://mappersguild.com/contestresults?submission=5fad8f5e5abb614f7025b19c) | 51 | 44 | 57 | 32 | **184** |
-| \#7 | [toast.girl](https://osu.ppy.sh/beatmapsets/1317542) by [Sylas](https://osu.ppy.sh/users/3906405) | [see details](https://mappersguild.com/contestresults?submission=5fad8f5a5abb614f7025b17c) | 47 | 42 | 52 | 30 | **171** |
+| \#1 | [flora](https://osu.ppy.sh/beatmapsets/1322809) by [0ppInOsu](https://osu.ppy.sh/users/12551840) | [see details](https://mappersguild.com/contests/results?submission=5fad8f5d5abb614f7025b192) | 58 | 56 | 60 | 34 | **208** |
+| \#2 | [Dragon Blood](https://osu.ppy.sh/beatmapsets/1317855) by [Mao](https://osu.ppy.sh/users/2204515) | [see details](https://mappersguild.com/contests/results?submission=5fad8f5c5abb614f7025b190) | 56 | 49 | 57 | 35 | **197** |
+| \#3 | [connection](https://osu.ppy.sh/beatmapsets/1320472) by [fowwo](https://osu.ppy.sh/users/4547551) | [see details](https://mappersguild.com/contests/results?submission=5fad8f585abb614f7025b16c) | 53 | 52 | 55 | 34 | **194** |
+| \#4 | [connection](https://osu.ppy.sh/beatmapsets/1317565) by [Halgoh](https://osu.ppy.sh/users/4109923) | [see details](https://mappersguild.com/contests/results?submission=5fad8f5e5abb614f7025b19e) | 49 | 59 | 48 | 32 | **188** |
+| \#5 | [flora](https://osu.ppy.sh/beatmapsets/1318355) by [William K](https://osu.ppy.sh/users/2261651) | [see details](https://mappersguild.com/contests/results?submission=5fad8f5c5abb614f7025b18e) | 51 | 58 | 47 | 32 | **188** |
+| \#6 | [mango sago](https://osu.ppy.sh/beatmapsets/1317561) by [xbopost](https://osu.ppy.sh/users/6842421) | [see details](https://mappersguild.com/contests/results?submission=5fad8f5e5abb614f7025b19c) | 51 | 44 | 57 | 32 | **184** |
+| \#7 | [toast.girl](https://osu.ppy.sh/beatmapsets/1317542) by [Sylas](https://osu.ppy.sh/users/3906405) | [see details](https://mappersguild.com/contests/results?submission=5fad8f5a5abb614f7025b17c) | 47 | 42 | 52 | 30 | **171** |
 
 ### Winner
 

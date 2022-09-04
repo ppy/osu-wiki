@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 1c921bb312848bb2dce76217542281d0db5a6825
+---
+
 # osu! wiki contribution guide
 
 osu! wikiの改善に興味を持ってくださりありがとうございます! このクイックスタートガイドはGitHubを使って作業をしたことがない、もしくはosu! wikiの作業をしたことがない人のために作られました。 もしあなたにGitHubを使った経験があれば、このガイドを遠慮なくスキップして、通常のフィーチャーブランチ作業に則って、リポジトリの内容をアップデートしてください。
@@ -44,7 +49,7 @@ osu! wikiの改善に興味を持ってくださりありがとうございま�
 
 3. もし他の人によってすでに変更されたファイルを変更する予定がない場合、これはさほど大きな問題ではありません。
 
-4. これを解決するには、[My branch is out of date! section in the Common Issues article](/wiki/osu!_wiki/Contribution_guide/Common_Issues#my-branch-is-out-of-date!)を読んでください。
+4. これを解決するには、[My branch is out of date! section in the Common Issues article](/wiki/osu!_wiki/Contribution_guide/Best_practices#syncing-the-fork)を読んでください。
 
 5. 4が完了したら、 [オンラインかローカルで編集する](#オンラインかローカルで編集する)へ続けてください。
 
@@ -52,7 +57,7 @@ osu! wikiの改善に興味を持ってくださりありがとうございま�
 
 編集する方法は大きく2つあります。
 
-- [GitHub Web Interface](/wiki/osu!_wiki/Contribution_guide/GitHub_Web_Interface) - オンラインで編集します。一人で編集をするのに適しています。
+- [GitHub Web Interface](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor) - オンラインで編集します。一人で編集をするのに適しています。
 - [GitHub Desktop](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop) - ローカルで編集します。これは複数人で編集するのに適しています。（特に画像やファイルを移動したり削除したりするのに適しています。）
 
 *ちなみに: 編集するのにこれらの方法しか使ってはいけないわけではありません。このガイドを短く簡潔にするために、ここでは他のツールについて多くは語りません。他にも上の２つのような働きをするアプリケーションが存在します。*

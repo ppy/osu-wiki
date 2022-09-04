@@ -9,9 +9,9 @@ tags:
 
 ![A screenshot of genre, language, and tags on a beatmap page](img/beatmap-info.png "Genre and language are listed on beatmap pages.")
 
-[Beatmaps](/wiki/Beatmap) submitted to the website have **genre** and **language** fields to help categorise songs. They are considered to be part of a beatmap's *metadata*<!-- TODO: link -->.
+[Beatmaps](/wiki/Beatmap) submitted to the website have **genre** and **language** fields to help categorise songs. They are considered to be part of a beatmap's [metadata](/wiki/Beatmap_Editor/Song_Setup#song-and-map-metadata).
 
-Genre and language have no function in the game, but will be available as search options in osu!lazer<!-- TODO: link me -->.
+Genre and language have no function in the game, but will be available as search options in osu!(lazer)<!-- TODO: link me -->.
 
 ## Beatmap listing
 
@@ -21,7 +21,7 @@ The [beatmap listing](https://osu.ppy.sh/beatmapsets) has filters available for 
 
 ## Changing a beatmap's genre and language
 
-Genre and language can be changed on the website by clicking the pencil icon when hovering over a beatmap's details. The ability to do so is determined by the user's [user groups](/wiki/People/The_Team#user-groups) and the beatmap's [category](/wiki/Beatmap/Category#beatmap-categories):
+Genre and language can be changed on the website by clicking the pencil icon when hovering over a beatmap's details. The ability to do so is determined by the user's [user groups](/wiki/People/The_Team#user-groups) and the beatmap's [category](/wiki/Beatmap/Category#present-categories):
 
 - Mapset owners are allowed when the beatmap is in the [WIP](/wiki/Beatmap/Category#work-in-progress-and-pending), [Pending](/wiki/Beatmap/Category#work-in-progress-and-pending), or [Graveyard](/wiki/Beatmap/Category#graveyard) categories, and does not have any nominations<!-- TODO: link -->.
 - [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) are allowed when the beatmap is in the [Qualified](/wiki/Beatmap/Category#qualified), WIP, or Pending categories.
@@ -41,7 +41,7 @@ A beatmap is unable to be nominated<!-- TODO: link --> if it has the `Unspecifie
 | Pop | Prominent in pop culture, and composed to be catchy by use of simple structure and repeated choruses or melodies. |
 | Other | Not belonging to any of the listed genres. |
 | Novelty | Comical or unusual. In osu!, this category primarily includes songs like YouTube Poops, Niconico MADs, and meme music. |
-| Hip Hop | "Stylized rhythmic music that commonly accompanies rapping," sometimes "sampling beats or bass lines from records" ([*Hip hop music* on Wikipedia](https://en.wikipedia.org/wiki/Hip_hop_music)). |
+| Hip Hop | "Stylised rhythmic music that commonly accompanies rapping," sometimes "sampling beats or bass lines from records" ([*Hip hop music* on Wikipedia](https://en.wikipedia.org/wiki/Hip_hop_music)). |
 | Electronic | Composed digitally or with electronic instruments. |
 | Metal | Having a heavy sound, making use of loud and distorted electric guitars and bass, and containing fast or dense drum rhythms. |
 | Classical | Formal, structured around advanced musical theory, and having roots in old western culture or taking inspiration from it. |

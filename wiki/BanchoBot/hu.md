@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated_translation: true
 no_native_review: true
 ---
 
@@ -7,11 +7,11 @@ no_native_review: true
 
 ![BanchoBot felhasználói kártyája](img/BanchoBot.jpg "BanchoBot felhasználói kártyája")
 
-BanchoBot egy bot (vagyis néhány parancs automata válaszokkal), ami a chat-en át segíti az embereket különböző információk és játékkal kapcsolatos bejelentések megjelenítésével. [Echo49](https://osu.ppy.sh/users/431) programozta, és ez a [Bancho IRC](/wiki/Internet_Relay_Chat) (Internet Relay Chat) host-ja is. BanchoBot-nak van saját [osu! profilja](https://osu.ppy.sh/users/3) és [Twitter fiókja](https://twitter.com/banchoboat) is!
+BanchoBot egy bot (vagyis néhány parancs automata válaszokkal), ami a chat-en át segíti az embereket különböző információk és játékkal kapcsolatos bejelentések megjelenítésével. [Echo49](https://osu.ppy.sh/users/431) programozta, és ez a [Bancho IRC](/wiki/Community/Internet_Relay_Chat) (Internet Relay Chat) host-ja is. BanchoBot-nak van saját [osu! profilja](https://osu.ppy.sh/users/3) és [Twitter fiókja](https://twitter.com/banchoboat) is!
 
 ## Parancsok
 
-*A játékbeli parancsok listája itt található: [Chat Felület](/wiki/Chat_Console#commands-list)*
+*A játékbeli parancsok listája itt található: [Chat Felület](/wiki/Client/Interface/Chat_console#commands-list)*
 
 BanchoBot parancsai `!` karakterrel kezdődnek, utána következik maga a parancs. Ezek a parancsok a játékban és külső IRC kliensekben is működnek. Használhatóak többjátékos chat csatornákban és BanchoBot PM (privát üzenet) fülén. Ha egy átlagos felhasználó nyilvános chat csatornából küld egy BanchoBot parancsot, más felhasználók nem fogják azt látni és a válasz privát üzenetben érkezik BanchoBot-tól.
 
@@ -140,11 +140,11 @@ Tama: ok
 !REPORT <felhasználó> <indoklás>
 ```
 
-*A jelentésre érdemes dolgokról szóló információt itt találhatod: [Helytelen Viselkedés Jelentése](/wiki/Reporting_Bad_Behaviour).*
+*A jelentésre érdemes dolgokról szóló információt itt találhatod: [Helytelen Viselkedés Jelentése](/wiki/Reporting_bad_behaviour).*
 
 *Megjegyzés: A felhasználónév megadásakor cseréld ki a szóközöket aláhúzásokra (`_`).*
 
-Elküld egy jelentést a [Globális Moderációs Csapatnak](/wiki/Global_Moderation_Team) vagy a [Nyelvi Moderátoroknak](/wiki/Language_Moderators).
+Elküld egy jelentést a [Globális Moderációs Csapatnak](/wiki/People/The_Team/Global_Moderation_Team) vagy a [Nyelvi Moderátoroknak](/wiki/People/The_Team/Global_Moderation_Team#grouped-by-languages-moderated).
 
 #### Használati Példa
 

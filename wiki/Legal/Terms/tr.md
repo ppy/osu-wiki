@@ -8,7 +8,7 @@ En son 8 Mart 2021 tarihinde güncellendi. [Geçmişi buradan görüntüleyin](h
 
 **ppy Pty Ltd** size, aşağıdaki şartlar, koşullar ve bildirimlerde herhangi bir değişiklik yapılmaksızın, sizin onayınıza bağlı bir hizmet sunuyor.
 
-Bu siteyi ([https://osu.ppy.sh](https://osu.ppy.sh/home)), osu! oyun istemcisini ([https://osu.ppy.sh/home/download](https://osu.ppy.sh/home/download) adresinde bulunduğu üzere) veya bunlara ilişkili herhangi bir hizmeti (bu noktadan itibaren "**osu!**" olarak bahsedilecek) ziyaret ederek ve/veya bunların sağladığı hizmetlerden faydalanarak, burada listelenen hüküm ve koşullara tamamen uyduğunuzu kabul etmiş olursunuz.
+Bu siteyi (<https://osu.ppy.sh>), osu! oyun istemcisini (<https://osu.ppy.sh/home/download> adresinde bulunduğu üzere) veya bunlara ilişkili herhangi bir hizmeti (bu noktadan itibaren "**osu!**" olarak bahsedilecek) ziyaret ederek ve/veya bunların sağladığı hizmetlerden faydalanarak, burada listelenen hüküm ve koşullara tamamen uyduğunuzu kabul etmiş olursunuz.
 
 Bu web sitesini kullanmanızın bir şartı olarak, bu web sitesini veya bu web sitesinden elde edilen herhangi bir içeriği, yasadışı veya belirtilen hükümlerce yasaklanmış herhangi bir amaçla kullanmayacağınızı beyan ediyorsunuz.
 

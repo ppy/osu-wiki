@@ -14,7 +14,7 @@ Still don't know about the **Monthly Beatmapping Contest** (***MBC***)? The [MBC
 
 June's contest covered osu! and osu!catch, but **only osu!**'s results are being announced for now!
 
-| User | Placement | Badge prize | Title prize | [MBC Points](/wiki/Contests/Monthly_Beatmapping_Contest#prizes) |
+| User | Placement | Badge prize | Title prize | [MBC Points](/wiki/Contests/Monthly_Beatmapping_Contest#rewards) |
 | :-- | :-- | :-- | :-- | :-- |
 | [kuyusu](https://osu.ppy.sh/users/11758667) | Winner + Screener's pick | ![](https://assets.ppy.sh/profile-badges/mbc-2020-2.png) | - | 5 (⯅3) |
 | [ScubDomino](https://osu.ppy.sh/users/8972308) | Runner-up | - | - | 1 (⯅1) |
@@ -27,14 +27,14 @@ So how are the winners selected? [Screening](/wiki/Contests/Monthly_Beatmapping_
 
 | Rank | Beatmap | Judging | Musical representation (80) | Creativity (80) | Gameplay (80) | Theme (80) | Total (raw/standardized) |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| \#1 | [*REDOUT feat. Torika*](https://osu.ppy.sh/beatmapsets/1531377) by [kuyusu](https://osu.ppy.sh/users/11758667) | [see details](https://mappersguild.com/contestresults?submission=60e21c241f02780e58fa28e2) | 63 | 66 | 54 | 65 | **248** (**7.33**) |
-| \#2 | [*Legacy 8086*](https://osu.ppy.sh/beatmapsets/1531148) by [ScubDomino](https://osu.ppy.sh/users/8972308) | [see details](https://mappersguild.com/contestresults?submission=60e21c231f02780e58fa28bc) | 57 | 57 | 52 | 65 | **231** (**5.09**) |
-| \#3 | [*Legacy 8086*](https://osu.ppy.sh/beatmapsets/1531569) by [William K](https://osu.ppy.sh/users/2261651) | [see details](https://mappersguild.com/contestresults?submission=60e21c241f02780e58fa28de) | 49 | 49 | 45 | 55 | **198** (**-1.04**) |
-| \#4 | [*Voice*](https://osu.ppy.sh/beatmapsets/1532435) by [Kyrian](https://osu.ppy.sh/users/13653298) | [see details](https://mappersguild.com/contestresults?submission=60e21c231f02780e58fa28ba) | 61 | 35 | 62 | 46 | **204** (**-1.72**) |
-| \#5 | [*REDOUT feat. Torika*](https://osu.ppy.sh/beatmapsets/1531162) by [fowwo](https://osu.ppy.sh/users/4547551) | [see details](https://mappersguild.com/contestresults?submission=60e21c231f02780e58fa28cb) | 45 | 42 | 39 | 46 | **172** (**-4.68**) |
-| \#6 | [*Voice*](https://osu.ppy.sh/beatmapsets/1531133) by [attendant](https://osu.ppy.sh/users/12416885) | [see details](https://mappersguild.com/contestresults?submission=60e21c241f02780e58fa28e4) | 57 | 34 | 59 | 34 | **184** (**-4.99**) |
+| \#1 | [*REDOUT feat. Torika*](https://osu.ppy.sh/beatmapsets/1531377) by [kuyusu](https://osu.ppy.sh/users/11758667) | [see details](https://mappersguild.com/contests/results?submission=60e21c241f02780e58fa28e2) | 63 | 66 | 54 | 65 | **248** (**7.33**) |
+| \#2 | [*Legacy 8086*](https://osu.ppy.sh/beatmapsets/1531148) by [ScubDomino](https://osu.ppy.sh/users/8972308) | [see details](https://mappersguild.com/contests/results?submission=60e21c231f02780e58fa28bc) | 57 | 57 | 52 | 65 | **231** (**5.09**) |
+| \#3 | [*Legacy 8086*](https://osu.ppy.sh/beatmapsets/1531569) by [William K](https://osu.ppy.sh/users/2261651) | [see details](https://mappersguild.com/contests/results?submission=60e21c241f02780e58fa28de) | 49 | 49 | 45 | 55 | **198** (**-1.04**) |
+| \#4 | [*Voice*](https://osu.ppy.sh/beatmapsets/1532435) by [Kyrian](https://osu.ppy.sh/users/13653298) | [see details](https://mappersguild.com/contests/results?submission=60e21c231f02780e58fa28ba) | 61 | 35 | 62 | 46 | **204** (**-1.72**) |
+| \#5 | [*REDOUT feat. Torika*](https://osu.ppy.sh/beatmapsets/1531162) by [fowwo](https://osu.ppy.sh/users/4547551) | [see details](https://mappersguild.com/contests/results?submission=60e21c231f02780e58fa28cb) | 45 | 42 | 39 | 46 | **172** (**-4.68**) |
+| \#6 | [*Voice*](https://osu.ppy.sh/beatmapsets/1531133) by [attendant](https://osu.ppy.sh/users/12416885) | [see details](https://mappersguild.com/contests/results?submission=60e21c241f02780e58fa28e4) | 57 | 34 | 59 | 34 | **184** (**-4.99**) |
 
-[See results for all osu! submissions here](https://mappersguild.com/contestresults?contest=60e21982535d4f3b27846d9f)
+[See results for all osu! submissions here](https://mappersguild.com/contests/results?contest=60e21982535d4f3b27846d9f)
 
 ### Winner
 

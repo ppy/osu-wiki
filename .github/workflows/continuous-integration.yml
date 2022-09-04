@@ -1,80 +1,76 @@
 name: osu-wiki continuous integration
 
 on:
-  push:
-    branches:
-      - master
   pull_request:
     branches:
       - master
+    types:
+      - opened
+      - reopened
+      - synchronize
+      - edited
 
 jobs:
   ci:
     name: changed files
     runs-on: ubuntu-latest
     steps:
-      - name: sparse checkout
-        shell: bash
-        run: |
-          # repository url, utilising provided github credentials
-          REPOSITORY="https://${{ github.actor }}:${{ github.token }}@github.com/${{ github.repository }}.git"
-          # merge commit ref name (with refs/heads/ stripped out)
-          BRANCH="${GITHUB_REF/#refs\/heads\//}"
-
-          git version
-          # clone without blobs; don't checkout to avoid fetching them anyway
-          git clone --filter=blob:none --no-checkout ${REPOSITORY} .
-          git config --local gc.auto 0
-
-          # set up sparse checkout
-          git sparse-checkout init
-          git sparse-checkout set '**/*.md' '**/.remark*' '**/*.json' '**/*.yaml'
-
-          # fetch the merge commit ref
-          git -c protocol.version=2 fetch --no-tags --prune --progress --depth=2 origin +${GITHUB_SHA}:refs/remotes/origin/${BRANCH}
-          git checkout --progress --force -B $BRANCH refs/remotes/origin/$BRANCH
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
 
       - name: inspect binary file sizes
         shell: bash
-        run: |
-          WARN_ON_SIZE=500000
-          ERROR_ON_SIZE=1000000
-          EXIT=0
+        run: bash scripts/ci/inspect_binary_file_sizes.sh ${{ github.sha }} ${{ github.sha }}
 
-          while read file
-          do
-              echo "Checking ${file}..."
-              # git ls-tree will output:
-              # (file mode) (file type) (blob hash)<TAB>(file name)
-              # we're interested in the hash to pull the file's size using cat-file
-              hash=`git ls-tree ${{ github.sha }} "${file}" | awk -F ' ' '{ print $3 }'`
-              filesize=`git cat-file -s ${hash} 2>/dev/null`
-
-              if [[ ${filesize} -ge ${ERROR_ON_SIZE} ]]; then
-                  echo "::error file=${file}::The size of the file exceeds 1MB. Compress it to optimise performance."
-                  EXIT=1
-              elif [[ ${filesize} -ge ${WARN_ON_SIZE} ]]; then
-                  echo "::warning file=${file}::The size of the file exceeds 500kB. Consider compressing it to optimise performance."
-              else
-                  echo "::debug::File ${file} is ok."
-              fi
-          done < <(git diff --numstat --no-renames --diff-filter=d ${{ github.sha }}^ ${{ github.sha }} | grep -Poe '-\t-\t\K.+')
-          # git diff --numstat will output -<TAB>-<TAB>$filename for blobs
-
-          exit ${EXIT}
-
-      - name: setup node
-        uses: actions/setup-node@v1
+      - name: set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          cache: npm
+          node-version: 16
 
       - name: install remark
-        run: npm install
+        run: npm ci
 
       - name: run remark on changed files
-        # xargs is ran with -d '\n' to properly handle single and double quotes
-        # stdout is discarded (remark prints files being checked there)
-        run: git diff --diff-filter=d --name-only ${{ github.sha }}^ ${{ github.sha }} '*.md' | xargs -d '\n' npx remark -qf --no-stdout --silently-ignore --report=vfile-reporter-position --color
+        run: bash scripts/ci/run_remark.sh ${{ github.sha }}
 
-      - name: run yamllint on all yaml files
-        uses: ibiqlik/action-yamllint@v1.0.0
+      - name: set up Python
+        uses: actions/setup-python@v4
         with:
-          config_file: .yamllint.yaml
+          cache: pip
+          cache-dependency-path: scripts/requirements.txt
+          python-version: 3.x
+
+      - name: set up CI dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: run yamllint on .yaml and .md files
+        run: |
+          python scripts/ci/run_yamllint.py --config .yamllint.yaml
+
+      - name: find broken wikilinks
+        shell: bash
+        env:
+          PULL_REQUEST_TAG: 'SKIP_WIKILINK_CHECK'
+        run: |
+          if ${{ contains(github.event.pull_request.body, env.PULL_REQUEST_TAG) }}; then
+            echo "::notice::Broken wikilink check suppressed ($PULL_REQUEST_TAG tag found in the pull request)"
+            exit 0
+          fi
+
+          ARTICLES=$( git diff --diff-filter=d --name-only ${{ github.sha }}^ ${{ github.sha }} "wiki/**/*.md" "news/*.md" )
+          osu-wiki-tools check-links --target $ARTICLES
+
+      - name: check if translations are marked as outdated
+        shell: bash
+        env:
+          PULL_REQUEST_TAG: 'SKIP_OUTDATED_CHECK'
+        run: |
+          if ${{ contains(github.event.pull_request.body, env.PULL_REQUEST_TAG) }}; then
+            echo "::notice::Outdated articles check suppressed ($PULL_REQUEST_TAG tag found in the pull request)"
+            exit 0
+          fi
+          # get the first commit of the branch associated with the PR; GitHub's ubuntu-latest has curl/jq: https://github.com/actions/virtual-environments
+          FIRST_PR_COMMIT_HASH=$( curl -sS ${{ github.event.pull_request.commits_url }}?per_page=1 | jq -r '.[0].sha' || true )
+          osu-wiki-tools check-outdated-articles --workflow --base-commit ${{ github.sha }} --outdated-since $FIRST_PR_COMMIT_HASH

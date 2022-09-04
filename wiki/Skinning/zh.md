@@ -21,8 +21,8 @@
 
 ## 也可以参考
 
-- [skin.ini](/wiki/skin.ini)
+- [skin.ini](/wiki/Skinning/skin.ini)
 - [皮肤变更历史](/wiki/Skinning/History) - 旧皮肤元素列表
 - [汇总](https://osu.ppy.sh/community/forums/topics/686664) - 已完成的皮肤列表
 - [皮肤常见问题](/wiki/Skinning/FAQ)
-- [指南与重点论坛帖](/wiki/Skinning/Guides_and_Important_Threads)
+- [指南与重点论坛帖](/wiki/Skinning/Guides_and_important_threads)

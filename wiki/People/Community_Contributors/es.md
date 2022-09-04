@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated_translation: true
 ---
 
 # Colaboradores de la comunidad
@@ -8,7 +8,7 @@ outdated: true
 
 Los **Colaboradores de la comunidad** son las personas que se han encargado de proporcionar servicios a la comunidad de osu! aun por gran costo para ellos mismos: Herramientas y funciones que muchos de nosotros da por sentado hoy. Estos usuarios reciben una insignia para indicar que hicieron algo notable para toda la comunidad.
 
-No debe confundirse con [osu!Alumni](/wiki/People/osu!_Alumni) que son miembros anteriores del equipo de osu! ([GMT](/wiki/People/Global_Moderation_Team), [QAT](/wiki/People/Quality_Assurance_Team), etc.) que se jubilaron, los distintivos de Colaborador de la comunidad se otorgan a profesionales públicos independientes que han ido más allá del deber para mejorar osu! Y el entorno de la comunidad.
+No debe confundirse con [osu!Alumni](/wiki/People/The_Team/osu!_Alumni) que son miembros anteriores del equipo de osu! ([GMT](/wiki/People/The_Team/Global_Moderation_Team), [QAT](/wiki/Modding/Quality_Assurance_Team), etc.) que se jubilaron, los distintivos de Colaborador de la comunidad se otorgan a profesionales públicos independientes que han ido más allá del deber para mejorar osu! Y el entorno de la comunidad.
 
 Los usuarios actuales con esta insignia se indican en esta tabla:
 
@@ -23,7 +23,7 @@ Los usuarios actuales con esta insignia se indican en esta tabla:
 | [Darkimmortal](https://osu.ppy.sh/users/10886) | Desarrollar y mantener el [servicio de replays de osu!](https://osu.ppy.sh/community/forums/topics/108092) (reproducir `.osr` a archivo de video). |
 | [nanashiRei](https://osu.ppy.sh/users/807630) | Alojando y manteniendo una de las ejecuciones más largas de [mirror de Beatmaps](https://osu.yas-online.net/) de osu! . |
 | [RBRat3](https://osu.ppy.sh/users/307202) | Numerosas contribuciones gráficas (más allá del recuento) para el cliente del juego y todo lo demás. |
-| [Ballance](https://osu.ppy.sh/users/165946) | Arte de los [Logros](/wiki/Achievements), |
+| [Ballance](https://osu.ppy.sh/users/165946) | Arte de los [Logros](/wiki/Medals), |
 | [akrolsmir](https://osu.ppy.sh/users/576800) | Desarrollando y manteniendo [AIBat](https://osu.ppy.sh/community/forums/topics/55305), la herramienta de modificación de beatmap de terceros más popular que haya producido la mayoría de las personas en la comunidad. |
 | [statementreply](https://osu.ppy.sh/users/126198) | Excelente rendimiento en la corrección de errores/funciones probando y haciendo código de numerosas funciones para mappers y modders. |
 | [Loctav](https://osu.ppy.sh/users/71366) | Organizando varios torneos oficiales importantes (incluido el OWC). |
@@ -33,7 +33,7 @@ Los usuarios actuales con esta insignia se indican en esta tabla:
 | [DeathxShinigami](https://osu.ppy.sh/users/49516) | Más de 3 años de trabajo silencioso manejando incansablemente el [Beatmap Packing](https://osu.ppy.sh/p/packlist) y varios años de administración de gráficos de beatmaps. |
 | [LuigiHann](https://osu.ppy.sh/users/1079) | Años tras años de servicio, incluido el diseño del skin del beatmap original, [storyboarding](/wiki/Storyboard) avanzando como arte y motivación. |
 | [awp](https://osu.ppy.sh/users/2650) | Temprana gestión y moderación de la comunidad y enormes contribuciones en el transcurso de su tiempo. |
-| [Sinistro](https://osu.ppy.sh/users/5530) | Siendo el primer administrador de la comunidad y moderador global, que estableció el listón extremadamente alto a seguir para el [GMT](/wiki/People/Global_Moderation_Team). |
+| [Sinistro](https://osu.ppy.sh/users/5530) | Siendo el primer administrador de la comunidad y moderador global, que estableció el listón extremadamente alto a seguir para el [GMT](/wiki/People/The_Team/Global_Moderation_Team). |
 | [Ivalset](https://osu.ppy.sh/users/827) | Siendo el primer gerente de personal y BATmanager, y formar por sí solo un equipo de moderación de élite de beatmaps de la nada. |
 
 ## 2015
@@ -54,7 +54,7 @@ Los usuarios actuales con esta insignia se indican en esta tabla:
 
 | Usuario | Contribución |
 | :-- | :-- |
-| [ztrot](https://osu.ppy.sh/users/6347) | Fundando la [osu!academy](/wiki/osu!academy) |
+| [ztrot](https://osu.ppy.sh/users/6347) | Fundando la [osu!academy](/wiki/Community/Video_series/osu!academy) |
 | [Tasha](https://osu.ppy.sh/users/1031958) | osu!weekly + Nuevas contribuciones |
 | [Flanster](https://osu.ppy.sh/users/447818) | Destacada presencia de moderación (+10k asesinatos). |
 | [Nathanael](https://osu.ppy.sh/users/2295078) | Destacada presencia de moderación  (+10k asesinatos). |
@@ -103,11 +103,11 @@ Los usuarios actuales con esta insignia se indican en esta tabla:
 | [Yazzehh](https://osu.ppy.sh/users/7068973) | Destacada presencia del árbitro en docenas de torneos comunitarios |
 | [Evrien](https://osu.ppy.sh/users/791660) | Rendimiento excepcional en castings, comentarios y redacciones/resúmenes sobre competiciones |
 | [Tom94](https://osu.ppy.sh/users/1857058) | ¡La mente maestra detrás de innumerables mejoras en osu!, desde pp, reescritura de motor de gráficos, calificación de estado y más! |
-| [DrabWeb](https://osu.ppy.sh/users/6946022) | Contribución excepcional al proyecto osu!lazer |
-| [EVAST](https://osu.ppy.sh/users/8195163) | Contribución excepcional al proyecto osu!lazer con más de 90 pullreqs y cientos de commits |
-| [huoyaoyuan](https://osu.ppy.sh/users/2428732) | Contribución excepcional al proyecto osu!lazer |
-| [kj415j45](https://osu.ppy.sh/users/9367540) | Excelente contribución y organización del proyecto de localización chino para osu!, osu! wiki y osu!lazer |
-| [jorolf](https://osu.ppy.sh/users/7004641) | Contribución excepcional al proyecto osu!lazer y creación de numerosas herramientas de medios |
+| [DrabWeb](https://osu.ppy.sh/users/6946022) | Contribución excepcional al proyecto osu!(lazer) |
+| [EVAST](https://osu.ppy.sh/users/8195163) | Contribución excepcional al proyecto osu!(lazer) con más de 90 pullreqs y cientos de commits |
+| [huoyaoyuan](https://osu.ppy.sh/users/2428732) | Contribución excepcional al proyecto osu!(lazer) |
+| [kj415j45](https://osu.ppy.sh/users/9367540) | Excelente contribución y organización del proyecto de localización chino para osu!, osu! wiki y osu!(lazer) |
+| [jorolf](https://osu.ppy.sh/users/7004641) | Contribución excepcional al proyecto osu!(lazer) y creación de numerosas herramientas de medios |
 | [Syrin](https://osu.ppy.sh/users/5701575) | Creador de PerformancePlus y osu!chan |
 | [Raveille](https://osu.ppy.sh/users/1388767) | Esfuerzo extraordinario en la producción y publicación del proyecto Scorewatch |
 | [ThePooN](https://osu.ppy.sh/users/718454) | Esfuerzo extraordinario en la producción y publicación del proyecto Scorewatch |

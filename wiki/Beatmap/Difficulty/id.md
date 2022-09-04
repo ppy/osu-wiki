@@ -5,79 +5,75 @@ tags:
   - SR
   - star rating
   - stars
-outdated: true
 ---
 
 # Tingkat kesulitan
 
-*Artikel ini tidak membahas seputar [Beatmap](/wiki/Beatmap) secara umum.*
+*Berbeda konteks dengan [Beatmap](/wiki/Beatmap).*
 
-Istilah **tingkat kesulitan beatmap** (*beatmap difficulty*) secara garis besar merujuk pada berkas-berkas [dengan ekstensi `.osu`](/wiki/osu!_File_Formats/Osu_(file_format)) yang tersimpan di dalam folder masing-masing beatmap. Berkas-berkas ini merupakan bentuk manifestasi dari level-level permainan yang ada dan berisikan antara lain informasi seputar [hit object](/wiki/Hit_object) pada [mode permainan](/wiki/Game_mode) yang terkait serta [timing](/wiki/Beatmapping/Timing_section) dari lagu yang dipergunakan. Pada umumnya, seberapa sukar suatu tingkat kesulitan dapat dilihat dari nama dan [star rating](/wiki/Beatmapping/Star_rating) dari tingkat kesulitan tersebut.
+Sebuah **tingkat kesulitan beatmap** adalah sebuah level permainan yang tersimpan dalam bentuk teks di sebuah file dengan [ekstensi `.osu`](/wiki/osu!_File_Formats/Osu_(file_format)). Masing-masing level berisikan [*hit object*](/wiki/Hit_object) berdasarkan [mode permainan](/wiki/Game_mode) terkait yang diatur sesuai dengan [waktu (*timing*)](/wiki/Beatmapping/Timing_section) yang telah ditentukan. Masing-masing tingkat kesulitan memiliki aspek yang berbeda, yang secara langsung dapat memengaruhi pengalaman pemain. Nama dari sebuah tingkat kesulitan dan [*star rating*](/wiki/Beatmapping/Star_rating) biasanya memberikan cukup informasi bagi pemain, apakah ini menantang atau tidak.
 
-Dalam ruang lingkup yang lebih spesifik, seberapa sukar suatu tingkat kesulitan turut dipengaruhi oleh hal-hal teknis seperti kompleksitas [pattern-pattern](/wiki/Beatmap/Pattern) yang ada dan [pengaturan tingkat kesulitan (*difficulty setting*)](/wiki/Beatmap_Editor/Song_Setup#difficulty) yang dipergunakan. Para pemain dapat bermain dengan memakai [modifier](/wiki/Game_modifier) untuk membuat suatu tingkat kesulitan menjadi lebih mudah atau lebih sukar untuk dimainkan.
+*Hit object* dari sebuah tingkat kesulitan disusun dalam sebuah [pola](/wiki/Beatmap/Pattern) yang bervariasi pada masing-masing mode permainan dan diatur sesuai dengan nada sehingga mewakili tampilan dan perasaan secara keseluruhan saat sedang dimainkan. Permainan dari sebuah tingkat kesulitan beatmap juga dapat diubah melalui [pengaturan kesulitan](/wiki/Client/Beatmap_editor/Song_Setup#difficulty) yang diatur oleh pemilik beatmap atau diubah dengan menggunakan [*game modifier*](/wiki/Game_modifier).
 
-Di samping itu, suatu berkas tingkat kesulitan juga mengandung berbagai data yang terkait dengan sampel-sampel [hitsound](/wiki/Beatmapping/Hitsound) yang dapat didengar di dalam permainan.
+Dari perspektif pendengar, sebuah tingkat kesulitan dapat memperkuat lagu dengan menambahkan satu atau beberapa set sampel audio, atau [*hitsound*](/wiki/Beatmapping/Hitsound) yang berfungsi sebagai umpan balik saat sedang bermain.
 
-<!-- TODO: this description of visuals needs to be improved:
-  - a separate section;
-  - a very small paragraph on every key component, including those from Beatmap#overview;
--->
-
-Dari sudut pandang visual, suatu berkas tingkat kesulitan dapat turut serta meliputi [berbagai komponen visual](/wiki/Beatmap) seperti [storyboard](/wiki/Storyboard) dan [skin](/wiki/Skinning) yang kemunculannya dapat diatur melalui menu [Visual Settings](/wiki/Visual_Settings). Di samping itu, terdapat pula berbagai informasi pendukung lainnya seperti waktu kemunculan [kiai time](/wiki/Kiai_time) dan [warna kombo](/wiki/Glossary/Combo_colour) yang ditampilkan.
+[Komponen visual](/wiki/Beatmap) dari sebuah tingkat kesulitan berbeda dengan polanya, dan dapat memberikan pengalaman tambahan selama bermain. Komponen visual tersebut sebagian besar dapat dinonaktifkan melalui menu [*visual setting*](/wiki/Client/Interface/Visual_settings). Sementara itu, beberapa diantaranya seperti [*storyboard*](/wiki/Storyboard) atau [*custom skin*](/wiki/Skinning) dari sebuah beatmap secara keseluruhan, sebagian besar komponen visual tersebut dapat bervariasi pada masing-masing tingkat kesulitan (contohnya, bagian [kiai](/wiki/Gameplay/Kiai_time) dan [warna kombo](/wiki/Glossary/Combo_colour)).
 
 ## Nama-nama tingkat kesulitan
 
-*Lihat juga: [Penamaan Tingkat Kesulitan](/wiki/Ranking_Criteria/Difficulty_Naming)*
+*Lihat juga: [Penamaan Tingkat Kesulitan](/wiki/Ranking_Criteria/Difficulty_naming)*
 
-Berikut adalah nama-nama tingkat kesulitan yang umum dipergunakan dalam suatu beatmap. Definisi tiap-tiap tingkat kesulitan beserta panduan tata cara pemakaiannya dapat dilihat pada laman [Ranking Criteria](/wiki/Ranking_Criteria) masing-masing mode permainan.
+Berikut adalah nama-nama tingkat kesulitan yang umum dipergunakan dalam suatu beatmap. Definisi tiap-tiap tingkat kesulitan beserta panduan tata cara pemakaiannya dapat dilihat pada laman [*ranking criteria*](/wiki/Ranking_Criteria) masing-masing mode permainan.
 
 ### ![](/wiki/shared/mode/osu.png) osu!
 
-- ![](/wiki/shared/diff/easy-o.png) Easy
-- ![](/wiki/shared/diff/normal-o.png) Normal
-- ![](/wiki/shared/diff/hard-o.png) Hard
-- ![](/wiki/shared/diff/insane-o.png) Insane
-- ![](/wiki/shared/diff/expert-o.png) Expert
-- ![](/wiki/shared/diff/expertplus-o.png) Expert+
+- ![](/wiki/shared/diff/easy-o.png?20211215) Easy
+- ![](/wiki/shared/diff/normal-o.png?20211215) Normal
+- ![](/wiki/shared/diff/hard-o.png?20211215) Hard
+- ![](/wiki/shared/diff/insane-o.png?20211215) Insane
+- ![](/wiki/shared/diff/expert-o.png?20211215) Expert
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) Expert+
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
-- ![](/wiki/shared/diff/easy-t.png) Kantan
-- ![](/wiki/shared/diff/normal-t.png) Futsuu
-- ![](/wiki/shared/diff/hard-t.png) Muzukashii
-- ![](/wiki/shared/diff/insane-t.png) Oni
-- ![](/wiki/shared/diff/expert-t.png) Inner/Ura Oni
-- ![](/wiki/shared/diff/expertplus-t.png) Hell Oni
+- ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
+- ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu
+- ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii
+- ![](/wiki/shared/diff/insane-t.png?20211215) Oni
+- ![](/wiki/shared/diff/expert-t.png?20211215) Inner/Ura Oni
+- ![](/wiki/shared/diff/expertplus-t.png?20211215) Hell Oni
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
-- ![](/wiki/shared/diff/easy-c.png) Cup
-- ![](/wiki/shared/diff/normal-c.png) Salad
-- ![](/wiki/shared/diff/hard-c.png) Platter
-- ![](/wiki/shared/diff/insane-c.png) Rain
-- ![](/wiki/shared/diff/expert-c.png) Overdose
-- ![](/wiki/shared/diff/expertplus-c.png) Overdose+
+- ![](/wiki/shared/diff/easy-c.png?20211215) Cup
+- ![](/wiki/shared/diff/normal-c.png?20211215) Salad
+- ![](/wiki/shared/diff/hard-c.png?20211215) Platter
+- ![](/wiki/shared/diff/insane-c.png?20211215) Rain
+- ![](/wiki/shared/diff/expert-c.png?20211215) Overdose
+- ![](/wiki/shared/diff/expertplus-c.png?20211215) Overdose+
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 
-- ![](/wiki/shared/diff/easy-m.png) Easy
-- ![](/wiki/shared/diff/normal-m.png) Normal
-- ![](/wiki/shared/diff/hard-m.png) Hard
-- ![](/wiki/shared/diff/insane-m.png) Insane
-- ![](/wiki/shared/diff/expert-m.png) Expert
-- ![](/wiki/shared/diff/expertplus-m.png) Expert+
+- ![](/wiki/shared/diff/easy-m.png?20211215) Easy
+- ![](/wiki/shared/diff/normal-m.png?20211215) Normal
+- ![](/wiki/shared/diff/hard-m.png?20211215) Hard
+- ![](/wiki/shared/diff/insane-m.png?20211215) Insane
+- ![](/wiki/shared/diff/expert-m.png?20211215) Expert
+- ![](/wiki/shared/diff/expertplus-m.png?20211215) Expert+
 
 ## Star rating
 
-![Jangkauan star rating](img/SR-range.png)
+Mulai dari 27 Juli 2021, situs web osu! secara otomatis menetapkan warna pada sebuah tingkat kesulitan beatmap berdasarkan *star rating* yang merujuk kepada spektrum berikut:
 
-Situs web osu! secara otomatis mengelompokkan beatmap-beatmap yang diunggah ke dalam enam rentang tingkat kesulitan berdasarkan star rating dari beatmap yang bersangkutan sebagai berikut:
+![spektrum warna peringkat kesulitan osu!](/wiki/shared/star-rating/spectrum.png)
 
-- ![](/wiki/shared/diff/easy-o.png) Easy: 0.0★–1.99★
-- ![](/wiki/shared/diff/normal-o.png) Normal: 2.0★–2.69★
-- ![](/wiki/shared/diff/hard-o.png) Hard: 2.7★–3.99★
-- ![](/wiki/shared/diff/insane-o.png) Insane: 4.0★–5.29★
-- ![](/wiki/shared/diff/expert-o.png) Expert: 5.3★–6.49★
-- ![](/wiki/shared/diff/expertplus-o.png) Expert+: 6.5★ atau lebih
+Dalam beberapa kasus, seperti [*AIMod*](/wiki/Client/Beatmap_editor/AiMod), tingkat kesulitan dikelompokkan dalam enam rentang level berdasarkan *star rating* sebagai berikut:
 
-Star rating suatu beatmap pada umumnya cukup menggambarkan seberapa sukar beatmap yang bersangkutan. Namun, dalam berbagai kasus, terdapat beatmap-beatmap yang pada kenyataannya jauh lebih mudah ataupun lebih sukar dibanding star rating yang tertera. Inilah mengapa [Ranking Criteria](/wiki/Ranking_Criteria) mendefinisikan aturan yang lebih spesifik untuk menentukan tingkat kesulitan yang sesuai untuk suatu beatmap.
+- ![](/wiki/shared/diff/easy-o.png?20211215) Easy: 0.0★–1.99★
+- ![](/wiki/shared/diff/normal-o.png?20211215) Normal: 2.0★–2.69★
+- ![](/wiki/shared/diff/hard-o.png?20211215) Hard: 2.7★–3.99★
+- ![](/wiki/shared/diff/insane-o.png?20211215) Insane: 4.0★–5.29★
+- ![](/wiki/shared/diff/expert-o.png?20211215) Expert: 5.3★–6.49★
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) Expert+: 6.5★ atau lebih
+
+Perlu diperhatikan bahwa terdapat beberapa tingkat kesulitan dari sebagian besar beatmap sesuai dengan warna atau rentang level yang diberikan, tetapi juga terdapat beberapa yang menyimpang secara signifikan karena faktor-faktor tertentu. Inilah mengapa [*ranking criteria*](/wiki/Ranking_Criteria) memberikan aturan dasar yang lebih sesuai untuk menentukan penamaan tingkat kesulitan beatmap dan pembagiannya tanpa harus terpaku dengan *star rating*-nya.

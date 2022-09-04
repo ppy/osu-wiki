@@ -8,7 +8,7 @@ date: 2021-07-24 10:00:00 +0000
 
 ![](https://assets.ppy.sh/artists/184/header.jpg)
 
-A familiar name to those who followed [A Labour of Love](/wiki/en/Contests/A_Labour_of_Love_Contest) last year, **Redside** is the super talented musician behind the [community vote](https://osu.ppy.sh/community/contests/115)'s winning entry [*My Love (Redside Remix) (feat. Hatsune Miku)*](https://osu.ppy.sh/beatmapsets/1388993)! Sporting an electronic style that pulls from kawaii future bass and 8-bit VGM with sprinkles of jazz and old-school retro instrumentation, **Redside**'s distinct sound is one that'll attract mappers interested in the more relaxing side of beatmapping.
+A familiar name to those who followed [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) last year, **Redside** is the super talented musician behind the [community vote](https://osu.ppy.sh/community/contests/115)'s winning entry [*My Love (Redside Remix) (feat. Hatsune Miku)*](https://osu.ppy.sh/beatmapsets/1388993)! Sporting an electronic style that pulls from kawaii future bass and 8-bit VGM with sprinkles of jazz and old-school retro instrumentation, **Redside**'s distinct sound is one that'll attract mappers interested in the more relaxing side of beatmapping.
 
 **6** tracks are available on [**Redside**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/184), including their *My Love* remix and 5 new originals!
 

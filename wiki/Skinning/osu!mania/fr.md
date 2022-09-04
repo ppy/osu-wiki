@@ -4,13 +4,13 @@ Depuis la version 2.5, les skinners peuvent personnaliser entièrement les notes
 
 ## Hit Bursts
 
-*Voir également : [Skinning/FAQ § Hiérarchie de l'écran de classement](/wiki/Skinning/FAQ#ranking-screen-hierarchy)*
+*Voir également : [Skinning/FAQ § Hiérarchie de l'écran de classement](/wiki/Skinning/FAQ#hiérarchie-des-résultats-de-l'écran-de-classement)*
 
 ---
 
 `mania-hit0.png`
 
-![](img/mania-hit0.png)
+![](/wiki/shared/judgement/osu!mania/mania-hit0.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -26,7 +26,7 @@ Notes :
 
 `mania-hit50.png`
 
-![](img/mania-hit50.png)
+![](/wiki/shared/judgement/osu!mania/mania-hit50.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -42,7 +42,7 @@ Notes :
 
 `mania-hit100.png`
 
-![](img/mania-hit100.png)
+![](/wiki/shared/judgement/osu!mania/mania-hit100.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -58,7 +58,7 @@ Notes :
 
 `mania-hit200.png`
 
-![](img/mania-hit200.png)
+![](/wiki/shared/judgement/osu!mania/mania-hit200.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -74,7 +74,7 @@ Notes :
 
 `mania-hit300.png`
 
-![](img/mania-hit300.png)
+![](/wiki/shared/judgement/osu!mania/mania-hit300.png)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -90,7 +90,7 @@ Notes :
 
 `mania-hit300g.png`
 
-![](img/mania-hit300g.gif)
+![](/wiki/shared/judgement/osu!mania/mania-hit300g.gif)
 
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -117,7 +117,7 @@ Notes :
 - Pour avoir plusieurs combobursts, utilisez : `comboburst-mania-{n}.png`.
   - Une des images du set apparaîtra lorsqu'une étape de combo sera atteinte.
 - Ces combobursts sont spécifiques au mode osu!mania
-- Ils peuvent être désactivés dans les [options](/wiki/Options).
+- Ils peuvent être désactivés dans les [options](/wiki/Client/Options).
 - Contrairement aux combobursts des modes osu! et osu!catch, il ne faut pas couper les bords de ce set d'images.
 
 ## Touches
@@ -510,7 +510,7 @@ Notes :
 
 Notes :
 
-- Cet élément est la représentation graphique de la judgement line.
+- Cet élément est la représentation graphique de la [judgement](/wiki/Gameplay/Judgement) line.
   - La judgement line est tracée au centre de l'image.
 - Cet élément est dessiné sur toute la largeur du stage, et non pas pour des colonnes individuelles.
 - Cet élément est étiré pour correspondre à la largeur du stage. (il est possible d'utiliser des images moins large)
@@ -527,7 +527,7 @@ Notes :
 
 - Cet élément doit pointer vers le bas.
   - Cette image est automatiquement inversé horizontalement si le stage est inversé.
-- Cet élément est toujours présent avant le début d'une map, s'il y a suffisamment de temps.
+- Cet élément est toujours présent avant le début d'une beatmap, s'il y a suffisamment de temps.
 
 ### Lighting
 

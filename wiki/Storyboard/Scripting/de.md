@@ -1,13 +1,13 @@
 ---
-outdated: true
+outdated_translation: true
 outdated_since: 029eb57bd83c4d5d74fb54d65723f05b44411250
 ---
 
 # Storyboard Scripting
 
-![Ein Bespiel eines Skriptes im .osb.](img/SBS_Base.jpg "Ein Bespiel eines Skriptes im .osb.")
+![Ein Bespiel eines Skriptes im .osb.](img/osb-example.png "Ein Bespiel eines Skriptes im .osb.")
 
-Als Zusatz zur Benutzung des [Storyboard Editors](/wiki/Beatmap_Editor/Design), um [Storyboards](/wiki/Storyboard) für Maps zu erstellen, können Sie auch ein Textdokument (oder den [Notepad++](http://www.notepad-plus-plus.org/)) dazu verwenden. Dies wird als ***Storyboarding durchs Skripten*** (SBS) bezeichnet und erlaubt es Ihnen präziser (in Pixeln und Millisekunden) mit Sprites/Objekten arbeiten zu lassen. |
+Als Zusatz zur Benutzung des [Storyboard Editors](/wiki/Client/Beatmap_editor/Design), um [Storyboards](/wiki/Storyboard) für Maps zu erstellen, können Sie auch ein Textdokument (oder den [Notepad++](http://www.notepad-plus-plus.org/)) dazu verwenden. Dies wird als ***Storyboarding durchs Skripten*** (SBS) bezeichnet und erlaubt es Ihnen präziser (in Pixeln und Millisekunden) mit Sprites/Objekten arbeiten zu lassen. |
 
 ## Anleitung für Neueinsteiger
 

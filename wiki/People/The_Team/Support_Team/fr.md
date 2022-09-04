@@ -21,19 +21,11 @@ La [page de groupe de la Support Team](https://osu.ppy.sh/groups/22) énumère t
 
 | Nom | Langues additionnelles |
 | :-- | :-- |
-| ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) |  |
-| ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  |
-| ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) |  |
-| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Philippin |
-| ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | Suédois, Espagnol |
-| ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) |  |
-| ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | Allemand |
-| ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Espagnol |
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australie"
-[flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
-[flag_ES]: /wiki/shared/flag/ES.gif "Espagne"
-[flag_NO]: /wiki/shared/flag/NO.gif "Norvège"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_SE]: /wiki/shared/flag/SE.gif "Suède"
-[flag_US]: /wiki/shared/flag/US.gif "États-Unis"
+| ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  |
+| ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  |
+| ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) |  |
+| ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Philippin |
+| ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) | Suédois, espagnol |
+| ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) |  |
+| ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | Allemand |
+| ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Espagnol |

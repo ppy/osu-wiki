@@ -27,12 +27,10 @@ Gambar atau elemen visual yang mengandung salah satu dari daftar dibawah ini **t
 - **sindiran seksual yang signifikan**
 - **sikap atau ajakan seksual**
 - **konten erotis atau tampilan grafis seksualitas**
-- **contoh penggunaan, persiapan, atau identifikasi segala jenis obat-obatan terlarang**¹
+- **contoh penggunaan, persiapan, atau identifikasi segala jenis obat-obatan terlarang**[^drug-nature]
 - **penggambaran konten politik, budaya, agama, atau sosial yang bertujuan untuk menghasut**
 
 Sebagai tambahan, gambar atau elemen visual yang dinilai berkualitas buruk (baik secara obyektif yaitu kualitas gambar maupun secara subyektif yaitu komposisi/penciptaan) juga dapat dicegah penggunaannya dalam beatmap jika gambar atau elemen visual tidak berhubungan langsung dengan beatmap.
-
-*¹*: Ini merupakan dapat menjadi pengecualian tergantung oleh asal obat-obatan terlarang, penggunaannya, dan subkulturnya, khususnya obat-obatan terlarang yang mengalami dekriminalisasi dan diregulasi seperti ganja. Permohonan pengecualian spesifik terhadap aturan ini dapat ditempuh dengan mengontak [tim support](/wiki/People/The_Team/Account_support_team) di [support@ppy.sh](mailto:support@ppy.sh).
 
 ## Pengecualian
 
@@ -56,3 +54,7 @@ Jika Anda tidak yakin terhadap gambar yang akan dimasukkan ke dalam beatmap, **s
 **Hasil pemungutan suara adalah final**, kecuali gambar diubah secara signifikan dalam upaya untuk menyelesaikan setiap elemen yang berpotensi bermasalah yang diangkat selama diskusi.
 
 Setiap saat, [tim inti osu!](/wiki/People/The_Team) berhak untuk menyatakan valid atau tidak terhadap konten apapun secara sepihak atas kebijakan mereka, terlepas dari pemungutan suara yang sebelumnya telah diadakan terkait masalah tersebut.
+
+## Catatan
+
+[^drug-nature]: Ini merupakan dapat menjadi pengecualian tergantung oleh asal obat-obatan terlarang, penggunaannya, dan subkulturnya, khususnya obat-obatan terlarang yang mengalami dekriminalisasi dan diregulasi seperti ganja. Permohonan pengecualian spesifik terhadap aturan ini dapat ditempuh dengan mengontak [tim support](/wiki/People/The_Team/Account_support_team) di [support@ppy.sh](mailto:support@ppy.sh).

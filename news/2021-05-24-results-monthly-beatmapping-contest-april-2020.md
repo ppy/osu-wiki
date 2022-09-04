@@ -14,7 +14,7 @@ April's contest covered **osu!**, **osu!taiko**, and **osu!catch**. That means w
 
 ## Summary
 
-| User | Mode | Placement | Badge prize | Title prize | [MBC Points](/wiki/Contests/Monthly_Beatmapping_Contest#prizes) |
+| User | Mode | Placement | Badge prize | Title prize | [MBC Points](/wiki/Contests/Monthly_Beatmapping_Contest#rewards) |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [- Frontier -](https://osu.ppy.sh/users/4314710) | osu! | Overall winner + Screener's pick | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | - | 3 (⯅3) |
 | [Acylica](https://osu.ppy.sh/users/1943309) | osu! | Runner-up | ![](https://assets.ppy.sh/profile-badges/mbc-2020-3.png) | *Elite Mapper* | 6 (⯅1) |
@@ -29,15 +29,15 @@ Winner selection is a 2 step process. First, our team of experienced mappers [sc
 
 | Rank | Beatmap | Judging | Musical representation (80) | Creativity (80) | Gameplay (80) | Theme (80) | Total (raw/standardized) |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| \#1 | [*Ginevra*](https://osu.ppy.sh/beatmapsets/1471067) by [- Frontier -](https://osu.ppy.sh/users/4314710) | [see details](https://mappersguild.com/contestresults?submission=6089e64118d6213b30c575a5) | 55 | 54 | 59 | 56 | **224** (3.47) |
-| \#2 | [*Ginevra*](https://osu.ppy.sh/beatmapsets/1471903) by [Acylica](https://osu.ppy.sh/users/1943309) | [see details](https://mappersguild.com/contestresults?submission=6089e64518d6213b30c575db) | 52 | 48 | 60 | 53 | **213** (2.31) |
-| \#3 | [*Boudica*](https://osu.ppy.sh/beatmapsets/1470813) by [frozz](https://osu.ppy.sh/users/7891266) | [see details](https://mappersguild.com/contestresults?submission=6089e64118d6213b30c575a9) | 55 | 49 | 58 | 48 | **210** (0.94) |
-| \#4 | [*Boudica*](https://osu.ppy.sh/beatmapsets/1471121) by [William K](https://osu.ppy.sh/users/2261651) | [see details](https://mappersguild.com/contestresults?submission=6089e64518d6213b30c575dd) | 48 | 54 | 49 | 54 | **205** (0.85) |
-| \#5 | [*Ginevra*](https://osu.ppy.sh/beatmapsets/1470837) by [Bekko](https://osu.ppy.sh/users/4903197) | [see details](https://mappersguild.com/contestresults?submission=6089e64218d6213b30c575ba) | 54 | 48 | 53 | 53 | **208** (0.16) |
-| \#6 | [*Ginevra*](https://osu.ppy.sh/beatmapsets/1471301) by [wafer](https://osu.ppy.sh/users/9416836) | [see details](https://mappersguild.com/contestresults?submission=6089e64118d6213b30c575b0) | 52 | 51 | 53 | 44 | **200** (-2.72) |
-| \#7 | [*Ginevra*](https://osu.ppy.sh/beatmapsets/1471160) by [MeowUsername](https://osu.ppy.sh/users/13241584) | [see details](https://mappersguild.com/contestresults?submission=6089e64218d6213b30c575b6) | 43 | 48 | 48 | 49 | **188** (-5.02) |
+| \#1 | [*Ginevra*](https://osu.ppy.sh/beatmapsets/1471067) by [- Frontier -](https://osu.ppy.sh/users/4314710) | [see details](https://mappersguild.com/contests/results?submission=6089e64118d6213b30c575a5) | 55 | 54 | 59 | 56 | **224** (3.47) |
+| \#2 | [*Ginevra*](https://osu.ppy.sh/beatmapsets/1471903) by [Acylica](https://osu.ppy.sh/users/1943309) | [see details](https://mappersguild.com/contests/results?submission=6089e64518d6213b30c575db) | 52 | 48 | 60 | 53 | **213** (2.31) |
+| \#3 | [*Boudica*](https://osu.ppy.sh/beatmapsets/1470813) by [frozz](https://osu.ppy.sh/users/7891266) | [see details](https://mappersguild.com/contests/results?submission=6089e64118d6213b30c575a9) | 55 | 49 | 58 | 48 | **210** (0.94) |
+| \#4 | [*Boudica*](https://osu.ppy.sh/beatmapsets/1471121) by [William K](https://osu.ppy.sh/users/2261651) | [see details](https://mappersguild.com/contests/results?submission=6089e64518d6213b30c575dd) | 48 | 54 | 49 | 54 | **205** (0.85) |
+| \#5 | [*Ginevra*](https://osu.ppy.sh/beatmapsets/1470837) by [Bekko](https://osu.ppy.sh/users/4903197) | [see details](https://mappersguild.com/contests/results?submission=6089e64218d6213b30c575ba) | 54 | 48 | 53 | 53 | **208** (0.16) |
+| \#6 | [*Ginevra*](https://osu.ppy.sh/beatmapsets/1471301) by [wafer](https://osu.ppy.sh/users/9416836) | [see details](https://mappersguild.com/contests/results?submission=6089e64118d6213b30c575b0) | 52 | 51 | 53 | 44 | **200** (-2.72) |
+| \#7 | [*Ginevra*](https://osu.ppy.sh/beatmapsets/1471160) by [MeowUsername](https://osu.ppy.sh/users/13241584) | [see details](https://mappersguild.com/contests/results?submission=6089e64218d6213b30c575b6) | 43 | 48 | 48 | 49 | **188** (-5.02) |
 
-[See results for all osu! submissions here](https://mappersguild.com/contestresults?contest=6089d59e1d4fc0755a574aaf)
+[See results for all osu! submissions here](https://mappersguild.com/contests/results?contest=6089d59e1d4fc0755a574aaf)
 
 ### Winner
 
@@ -59,13 +59,13 @@ Similar to osu!'s judging approach, osu!taiko began by a team of [screeners](/wi
 
 | Rank | Beatmap | Judging | Structure (70) | Creativity (70) | Gameplay (70) | Limitation (35) | Total (raw/standardized) |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| \#1 | [*Ginevra*](https://osu.ppy.sh/beatmapsets/1468820) by [KappuChinooo](https://osu.ppy.sh/users/9582525) | [see details](https://mappersguild.com/contestresults?submission=6089e7c8f843d32ac49f0e32) | 58 | 50 | 57 | 31 | **196** (5.02) |
-| \#2 | [*Ginevra*](https://www.dropbox.com/s/mt5tpb9kqo9vtsf/radar%20%28suffering%29%20-%20Creative%20Dolphin.osz?dl=0) by [uone](https://osu.ppy.sh/users/5321719) | [see details](https://mappersguild.com/contestresults?submission=6089e7c4f843d32ac49f0df6) | 56 | 49 | 54 | 29 | **188** (4.8) |
-| \#3 | [*Ginevra*](https://osu.ppy.sh/beatmapsets/1468830) by [ikin5050](https://osu.ppy.sh/users/4007649) | [see details](https://mappersguild.com/contestresults?submission=6089e7c3f843d32ac49f0de8) | 56 | 46 | 54 | 29 | **185** (2.16) |
-| \#4 | [*OCCHOCO-REST-LESS*](https://osu.ppy.sh/beatmapsets/1468834) by [Genjuro](https://osu.ppy.sh/users/3196091) | [see details](https://mappersguild.com/contestresults?submission=6089e7c7f843d32ac49f0e1a) | 52 | 46 | 54 | 32 | **184** (1.94) |
-| \#5 | [*OCCHOCO-REST-LESS*](https://osu.ppy.sh/beatmapsets/1469136) by [Volta](https://osu.ppy.sh/users/4154071) | [see details](https://mappersguild.com/contestresults?submission=6089e7cbf843d32ac49f0e54) | 50 | 53 | 45 | 30 | **178** (1.49) |
+| \#1 | [*Ginevra*](https://osu.ppy.sh/beatmapsets/1468820) by [KappuChinooo](https://osu.ppy.sh/users/9582525) | [see details](https://mappersguild.com/contests/results?submission=6089e7c8f843d32ac49f0e32) | 58 | 50 | 57 | 31 | **196** (5.02) |
+| \#2 | [*Ginevra*](https://www.dropbox.com/s/mt5tpb9kqo9vtsf/radar%20%28suffering%29%20-%20Creative%20Dolphin.osz?dl=0) by [uone](https://osu.ppy.sh/users/5321719) | [see details](https://mappersguild.com/contests/results?submission=6089e7c4f843d32ac49f0df6) | 56 | 49 | 54 | 29 | **188** (4.8) |
+| \#3 | [*Ginevra*](https://osu.ppy.sh/beatmapsets/1468830) by [ikin5050](https://osu.ppy.sh/users/4007649) | [see details](https://mappersguild.com/contests/results?submission=6089e7c3f843d32ac49f0de8) | 56 | 46 | 54 | 29 | **185** (2.16) |
+| \#4 | [*OCCHOCO-REST-LESS*](https://osu.ppy.sh/beatmapsets/1468834) by [Genjuro](https://osu.ppy.sh/users/3196091) | [see details](https://mappersguild.com/contests/results?submission=6089e7c7f843d32ac49f0e1a) | 52 | 46 | 54 | 32 | **184** (1.94) |
+| \#5 | [*OCCHOCO-REST-LESS*](https://osu.ppy.sh/beatmapsets/1469136) by [Volta](https://osu.ppy.sh/users/4154071) | [see details](https://mappersguild.com/contests/results?submission=6089e7cbf843d32ac49f0e54) | 50 | 53 | 45 | 30 | **178** (1.49) |
 
-[See results for all osu!taiko submissions here](https://mappersguild.com/contestresults?contest=6089d5b21d4fc0755a574ab0)
+[See results for all osu!taiko submissions here](https://mappersguild.com/contests/results?contest=6089d5b21d4fc0755a574ab0)
 
 ### Winner
 
@@ -83,13 +83,13 @@ With a humble **14** entries, osu!catch skipped straight to the judging phase fo
 
 | Rank | Beatmap | Judging | Musical representation (50) | Creativity (50) | Gameplay (50) | Limitation (25) | Total (raw/standardized) |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| \#1 | [*Ginevra*](https://osu.ppy.sh/beatmapsets/1471164) by [autofanboy](https://osu.ppy.sh/users/636114) | [see details](https://mappersguild.com/contestresults?submission=6089e7e9f843d32ac49f0e68) | 48 | 40 | 42 | 21 | **151** (6.71) |
-| \#2 | [*OCCHOCO-REST-LESS*](https://osu.ppy.sh/beatmapsets/1471162) by [rew0825](https://osu.ppy.sh/users/2488026) | [see details](https://mappersguild.com/contestresults?submission=6089e7e7f843d32ac49f0e56) | 44 | 35 | 40 | 20 | **139** (4.09) |
-| \#3 | [*Ginevra*](https://osu.ppy.sh/beatmapsets/1471148) by [Deif](https://osu.ppy.sh/users/318565) | [see details](https://mappersguild.com/contestresults?submission=6089e7eaf843d32ac49f0e73) | 38 | 41 | 38 | 21 | **138** (3.59) |
-| \#4 | [*OCCHOCO-REST-LESS*](https://osu.ppy.sh/beatmapsets/1471157) by [-Ken](https://osu.ppy.sh/users/4430811) | [see details](https://mappersguild.com/contestresults?submission=6089e7e8f843d32ac49f0e63) | 38 | 35 | 34 | 21 | **128** (2.13) |
-| \#5 | [*Ginevra*](https://www.dropbox.com/s/q782zoupyduka6g/Monthly%20Beatmapping%20Contest%20April%202021%20%28osu%21catch%29%20%28Jumpy%20Pheasant%29.osz?dl=0) by [Sinnoh](https://osu.ppy.sh/users/4236057) | [see details](https://mappersguild.com/contestresults?submission=6089e7e9f843d32ac49f0e6d) | 32 | 39 | 31 | 21 | **123** (0.92) |
+| \#1 | [*Ginevra*](https://osu.ppy.sh/beatmapsets/1471164) by [autofanboy](https://osu.ppy.sh/users/636114) | [see details](https://mappersguild.com/contests/results?submission=6089e7e9f843d32ac49f0e68) | 48 | 40 | 42 | 21 | **151** (6.71) |
+| \#2 | [*OCCHOCO-REST-LESS*](https://osu.ppy.sh/beatmapsets/1471162) by [rew0825](https://osu.ppy.sh/users/2488026) | [see details](https://mappersguild.com/contests/results?submission=6089e7e7f843d32ac49f0e56) | 44 | 35 | 40 | 20 | **139** (4.09) |
+| \#3 | [*Ginevra*](https://osu.ppy.sh/beatmapsets/1471148) by [Deif](https://osu.ppy.sh/users/318565) | [see details](https://mappersguild.com/contests/results?submission=6089e7eaf843d32ac49f0e73) | 38 | 41 | 38 | 21 | **138** (3.59) |
+| \#4 | [*OCCHOCO-REST-LESS*](https://osu.ppy.sh/beatmapsets/1471157) by [-Ken](https://osu.ppy.sh/users/4430811) | [see details](https://mappersguild.com/contests/results?submission=6089e7e8f843d32ac49f0e63) | 38 | 35 | 34 | 21 | **128** (2.13) |
+| \#5 | [*Ginevra*](https://www.dropbox.com/s/q782zoupyduka6g/Monthly%20Beatmapping%20Contest%20April%202021%20%28osu%21catch%29%20%28Jumpy%20Pheasant%29.osz?dl=0) by [Sinnoh](https://osu.ppy.sh/users/4236057) | [see details](https://mappersguild.com/contests/results?submission=6089e7e9f843d32ac49f0e6d) | 32 | 39 | 31 | 21 | **123** (0.92) |
 
-[See results for all osu!catch submissions here](https://mappersguild.com/contestresults?contest=6089d5be1d4fc0755a574ab1)
+[See results for all osu!catch submissions here](https://mappersguild.com/contests/results?contest=6089d5be1d4fc0755a574ab1)
 
 ### Winner
 

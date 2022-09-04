@@ -37,27 +37,27 @@ _event, [...]
 
 Z-order (back to front) is determined by the order the files appear in the .osu file. The first storyboard event will be behind everything else, ie. if storyboard event 'A' is above storyboard event 'B', 'B' will be on top of 'A'.
 
-**layer**:
-
-- 0 - Background
-- 1 - Fail
-- 2 - Pass
-- 3 - Foreground
+| Value | Layer |
+| :-: | :-- |
+| 0 | Background |
+| 1 | Fail |
+| 2 | Pass |
+| 3 | Foreground |
 
 *Note: Background and Foreground are always visible.*
 
-**origin**:
-
-- 0 - TopLeft
-- 1 - Centre
-- 2 - CentreLeft
-- 3 - TopRight
-- 4 - BottomCentre
-- 5 - TopCentre
-- 6 - Custom (same effect as TopLeft, but should not be used)
-- 7 - CentreRight
-- 8 - BottomLeft
-- 9 - BottomRight
+| Value | Origin |
+| :-: | :-- |
+| 0 | TopLeft |
+| 1 | Centre |
+| 2 | CentreLeft |
+| 3 | TopRight |
+| 4 | BottomCentre |
+| 5 | TopCentre |
+| 6 | Custom (same effect as TopLeft, but should not be used) |
+| 7 | CentreRight |
+| 8 | BottomLeft |
+| 9 | BottomRight |
 
 All Rotations and Size changes (Including Vector Scaling) are affected by origin.
 
@@ -67,23 +67,23 @@ All Rotations and Size changes (Including Vector Scaling) are affected by origin
 
 For each of the event types below, the initial value(s) of that event will assume the first assignment given to that event.
 
-**event type**:
+| Event type | Description |
+| :-: | :-- |
+| F | fade |
+| M | move |
+| S | scale |
+| V | vector scale (width and height separately) |
+| R | rotate |
+| C | colour |
+| L | loop |
+| T | Event-triggered loop |
+| P | Parameters |
 
-- F - fade
-- M - move
-- S - scale
-- V - vector scale (width and height separately)
-- R - rotate
-- C - colour
-- L - loop
-- T - Event-triggered loop
-- P - Parameters
-
-**easing**:
-
-- 0 - none
-- 1 - start fast and slow down
-- 2 - start slow and speed up
+| Easing | Description |
+| :-: | :-- |
+| 0 | none |
+| 1 | start fast and slow down |
+| 2 | start slow and speed up |
 
 **starttime, endtime**: the times in milliseconds between which the event will be animated
 
@@ -121,7 +121,7 @@ Note: positive angle is clockwise rotation
 
 **r1, g1, b1**: the starting component-wise colour **r2, g2, b2**: the finishing component-wise colour
 
-sprites with (255,255,255) will be their original colour. sprites with (0,0,0) will be \[b\]totally black\[/b\]. anywhere in between will result in subtractive colouring. to make full use of this, brighter grayscale sprites work very well.
+sprites with (255,255,255) will be their original colour. sprites with (0,0,0) will be **totally black**. anywhere in between will result in subtractive colouring. to make full use of this, brighter greyscale sprites work very well.
 
 `_MX,[...],startx,endx`
 
@@ -133,7 +133,7 @@ sprites with (255,255,255) will be their original colour. sprites with (0,0,0) w
 
 `_P,[...],p`
 
-**p**: the effect parameter to apply H - horizontal flip V - vertical flip A - additive-blend colour (as opposed to alpha-blend)
+**p**: the effect parameter to apply: H for horizontal flip, V for vertical flip, and A for additive blend mode (as opposed to alpha-blend)
 
 using the shorthand below with parameters is possible. the applied parameters will take effect during the duration specified only.
 
@@ -159,7 +159,7 @@ becomes
 
 `_M,0,1000,,320,240,320,240`
 
-Please note the blank space in the endtime field - this is \[b\]required\[/b\].
+Please note the blank space in the endtime field — this is **required**.
 
 ***shorthand3***: This notation can be used when the start and end values of the event are the same.
 
@@ -181,7 +181,7 @@ __event, [...]
 
 **starttime**: the time of the first loop's start. **loopcount**: number of times to repeat the loop.
 
-Note that events inside a loop should be timed with a \[b\]zero-base\[/b\]. This means that you should \[b\]start from 0ms\[/b\] for the inner event's timing and work up from there. The loop event's start time will be added to this value at game runtime.
+Note that events inside a loop should be timed with a **zero-base**. This means that you should **start from 0ms** for the inner event's timing and work up from there. The loop event's start time will be added to this value at game runtime.
 
 ```
 _L,starttime,loopcount
@@ -235,7 +235,7 @@ Foreground = **3**
 
 ### Variables
 
-Primitive support for variables is now available. You can define any number of variables by includin a \[Variables\] section in the .osb file (currently not supported in .osu-specific storyboarding).
+Primitive support for variables is now available. You can define any number of variables by including a \[Variables\] section in the .osb file (currently not supported in .osu-specific storyboarding).
 
 ```
 [Variables]

@@ -8,43 +8,43 @@ tags:
   - 赛季
 ---
 
-# 聚光灯 Test Run（2020 夏）
+# 聚光灯测试赛季（2020 夏）
 
 ## 时间表
 
 | 阶段 | 时间 |
 | :-- | :-- |
 | 赛季开始 | 2020 年 7 月 6 日 |
-| 时移多人游戏大厅：图池 A | 2020 年 7 月 10 日 - 7 月 12 日 |
-| 时移多人游戏大厅：图池 B | 2020 年 7 月 17 日 - 7 月 19 日 |
-| 时移多人游戏大厅：图池 C | 2020 年 7 月 24 日 - 7 月 26 日 |
-| 时移多人游戏大厅：图池 D | 2020 年 7 月 31 日 - 8 月 2 日 |
-| 时移多人游戏大厅：图池 A | 2020 年 8 月 7 日 - 8 月 9 日 |
-| 时移多人游戏大厅：图池 B | 2020 年 8 月 14 日 - 8 月 16 日 |
-| 时移多人游戏大厅：图池 C | 2020 年 8 月 21 日 - 8 月 23 日 |
-| 时移多人游戏大厅：图池 D | 2020 年 8 月 28 日 - 8 月 30 日 |
-| 时移多人游戏大厅：图池 A,B | 2020 年 9 月 4 日 - 9 月 6 日 |
-| 时移多人游戏大厅：图池 C,D | 2020 年 9 月 11 日 - 9 月 13 日 |
+| 时移多人游戏大厅：课题 A | 2020 年 7 月 10 日 - 7 月 12 日 |
+| 时移多人游戏大厅：课题 B | 2020 年 7 月 17 日 - 7 月 19 日 |
+| 时移多人游戏大厅：课题 C | 2020 年 7 月 24 日 - 7 月 26 日 |
+| 时移多人游戏大厅：课题 D | 2020 年 7 月 31 日 - 8 月 2 日 |
+| 时移多人游戏大厅：课题 A | 2020 年 8 月 7 日 - 8 月 9 日 |
+| 时移多人游戏大厅：课题 B | 2020 年 8 月 14 日 - 8 月 16 日 |
+| 时移多人游戏大厅：课题 C | 2020 年 8 月 21 日 - 8 月 23 日 |
+| 时移多人游戏大厅：课题 D | 2020 年 8 月 28 日 - 8 月 30 日 |
+| 时移多人游戏大厅：课题 A 和 B | 2020 年 9 月 4 日 - 9 月 6 日 |
+| 时移多人游戏大厅：课题 C 和 D | 2020 年 9 月 11 日 - 9 月 13 日 |
 | 赛季结算 | 2020 年 9 月 14 日 - 9 月 18 日 |
 
 ### 每周多人游戏大厅
 
-目前，加入每周多人游戏大厅需要使用 [osu!lazer](https://github.com/ppy/osu/releases)。
+目前，加入每周多人游戏大厅需要使用 [osu!(lazer)](https://github.com/ppy/osu/releases)。
 
-1. 赛季的每个星期五，将打开一个时移多人游戏大厅。每个大厅持续 3 天。
-   - 在赛季的最后两周，将为两个个图池各打开一个各自的时移多人游戏大厅。
-2. 每个时移多人游戏大厅都包含一个预定义的图池。
-   - 每个图池都是赛季图池中的一个子图池。
-   - 每个图池内所包含的 Hard，Insane 和 Expert 难度均匀分布。
-   - 每个图池与每周分配的字母相对应。因此，每个图池在一个赛季中都会被重复三次。
-3. 在时移大厅中，每个人都可以争夺特定房间的排行榜。
-   - 房间排行榜基于 Ranked 谱面分数系统。因此，只有最佳成绩会被计入排行榜当中，排行榜分数为房间图池分数的总和。
-   - 图池中所有谱面均计入排行榜。高星谱面不会增加更多的分数。
-   - 所有谱面分数均基于 osu!lazer 的分数系统。
+1. 赛季的每个星期五，将开放一个时移多人游戏大厅。每个大厅持续 3 天。
+   - 在赛季的最后两周，将为两个课题各打开一个各自的时移多人游戏大厅。
+2. 每个时移多人游戏大厅会提供一个提前准备好的课题。
+   - 每个课题都是该赛季挑选的所有谱面中的一个子集。
+   - 每个课题内所包含的 Hard，Insane 和 Expert 难度均匀分布。
+   - 每个课题均与一个字母相对应。意味着课题会在赛季内复刻三次。
+3. 在时移大厅中，每个人都可以争夺特定大厅的排行榜。
+   - 大厅排行榜基于 Ranked 谱面分数系统。因此，只有最佳成绩会被计入排行榜当中，排行榜分数为大厅所有谱面分数的总和。
+   - 课题中所有谱面均计入排行榜。游玩高星谱面不会获得额外的分数。
+   - 所有谱面分数均基于 osu!(lazer) 的分数系统。
 4. 周 Ranked 谱面总分在时移大厅中显示为 “Weekly Ranked Score”。
-5. 时移大厅关闭后，房间内所有参与者的周 Ranked 谱面总分将添加到月赛排行榜当中。
+5. 时移大厅关闭后，大厅内所有玩家的周 Ranked 谱面总分将添加到赛季排行榜当中。
 
-### 图池 A
+### 课题 A
 
 | 开始时间 | 结束时间 | 时移多人游戏大厅 |
 | :-- | :-- | :-- |
@@ -52,7 +52,7 @@ tags:
 | 2020-08-08 (03:00 UTC+08) | 2020-08-11 (03:00 UTC+08) | [osu!](https://osu.ppy.sh/multiplayer/rooms/28880), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/28881), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/28882), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/28883) |
 | 2020-09-05 (02:00 UTC+08) | 2020-09-08 (02:00 UTC+08) | [osu!](https://osu.ppy.sh/multiplayer/rooms/30709), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/30711), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/30713), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/30715) |
 
-### 图池 B
+### 课题 B
 
 | 开始时间 | 结束时间 | 时移多人游戏大厅 |
 | :-- | :-- | :-- |
@@ -60,7 +60,7 @@ tags:
 | 2020-08-15 (05:00 UTC+08) | 2020-08-18 (05:00 UTC+08) | [osu!](https://osu.ppy.sh/multiplayer/rooms/29264), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/29265), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/29266), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/29268) |
 | 2020-09-05 (02:00 UTC+08) | 2020-09-08 (02:00 UTC+08) | [osu!](https://osu.ppy.sh/multiplayer/rooms/30710), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/30712), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/30714), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/30716) |
 
-### 图池 C
+### 课题 C
 
 | 开始时间 | 结束时间 | 时移多人游戏大厅 |
 | :-- | :-- | :-- |
@@ -68,7 +68,7 @@ tags:
 | 2020-08-22 (04:30 UTC+08) | 2020-08-25 (04:30 UTC+08) | [osu!](https://osu.ppy.sh/multiplayer/rooms/29656), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/29657), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/29658), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/29659) |
 | 2020-09-12 (03:00 UTC+08) | 2020-09-15 (03:00 UTC+08) | [osu!](https://osu.ppy.sh/multiplayer/rooms/31258), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/31260), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/31262), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/31264) |
 
-### 图池 D
+### 课题 D
 
 | 开始时间 | 结束时间 | 时移多人游戏大厅 |
 | :-- | :-- | :-- |
@@ -300,13 +300,13 @@ tags:
 | #49 | [chromb](https://osu.ppy.sh/users/10238680) | ![][mania-gold1] |
 | #50 | [dennischan](https://osu.ppy.sh/users/2875497) | ![][mania-gold1] |
 
-## 图池
+## 课题
 
 ### osu!
 
 *小提示：你可以以曲包的方式[一次性下载全部谱面](https://osu.ppy.sh/beatmaps/packs/1992)。*
 
-#### 图池 A
+#### 课题 A
 
   - [Kurenainagi Tabibito - Beloved Tomboyish Girl (Glass) \[Extended\]](https://osu.ppy.sh/beatmapsets/21678#osu/153246)
   - [Krewella - Ghost (Sulfur) \[Sulfur's Hard\]](https://osu.ppy.sh/beatmapsets/1060866#osu/2329519)
@@ -314,7 +314,7 @@ tags:
   - [Tove Styrke - Changed My Mind (Mint) \[Expert\]](https://osu.ppy.sh/beatmapsets/982452#osu/2056844)
   - [Britney Spears - Toxic (schoolboy) \[In The Zone\]](https://osu.ppy.sh/beatmapsets/1061947#osu/2223745)
 
-#### 图池 B
+#### 课题 B
 
 - [Makino Yui - Undine (Hollow Wings) \[Lullaby\]](https://osu.ppy.sh/beatmapsets/396227#osu/862094)
 - [-45 - Midorigo Queen Bee (PandaHero) \[Another\]](https://osu.ppy.sh/beatmapsets/812792#osu/1728260)
@@ -322,7 +322,7 @@ tags:
 - [Thank You Scientist - Mr. Invisible (DTM9 Nowa) \[Insane\]](https://osu.ppy.sh/beatmapsets/1130581#osu/2387334)
 - [Limp Bizkit - Take A Look Around (FCL) \[life lesson feat. piroshki\]](https://osu.ppy.sh/beatmapsets/1109633#osu/2318842)
 
-#### 图池 C
+#### 课题 C
 
 - [Kalafina - Yume no Daichi (Vell) \[Sinfonia\]](https://osu.ppy.sh/beatmapsets/468807#osu/1002657)
 - [Meramipop - Rakujitsu Romance (Loneight) \[Romance\]](https://osu.ppy.sh/beatmapsets/145976#osu/557980)
@@ -330,7 +330,7 @@ tags:
 - [Chata - Remind (Patchouli) \[Overdrive!!\]](https://osu.ppy.sh/beatmapsets/37292#osu/120030)
 - [kors k - Playing With Fire (Sota Fujimori Remix) (xlni) \[Pyrotechnics\]](https://osu.ppy.sh/beatmapsets/202252#osu/478605)
 
-#### 图池 D
+#### 课题 D
 
 - [UNDEAD CORPORATION - Sad Dream (Hinsvar) \[Hard\]](https://osu.ppy.sh/beatmapsets/1019827#osu/2145695)
 - [Powerwolf - Christ & Combat (piroshki) \[Amen\]](https://osu.ppy.sh/beatmapsets/1013426#osu/2121136)
@@ -342,7 +342,7 @@ tags:
 
 *小提示：你可以以曲包的方式[一次性下载全部谱面](https://osu.ppy.sh/beatmaps/packs/1993)。*
 
-#### 图池 A
+#### 课题 A
 
 - [Zekk - Feelsleft0ut (komasy) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1143253#taiko/2393341)
 - [t+pazolite - Shiny Kung-fu Revival (DakeDekaane) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/352991#taiko/777798)
@@ -350,7 +350,7 @@ tags:
 - [Mary - Artificial Rose (Urushi38) \[TK'S Oni\]](https://osu.ppy.sh/beatmapsets/99434#taiko/281675)
 - [Nippon Gakuon Noise Kyoukai - Igomoyos=Omul no Thema ni yoru Buyobuyo Sketch no Kokoromi (uone) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/690019#taiko/1460471)
 
-#### 图池 B
+#### 课题 B
 
 - [lapix feat. Luschel - Cranberry City (Charlotte) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1133066#taiko/2388992)
 - [Kuripurin - Jutenija (qinche) \[Alace's Taiko\]](https://osu.ppy.sh/beatmapsets/25500#taiko/87086)
@@ -358,7 +358,7 @@ tags:
 - [Gekidan Record - Yuukyuu Shinwaroku -Haruka naru Sanmyaku ni Nagareru Taiga no Hotori nite- (AxelHino) \[Oni\]](https://osu.ppy.sh/beatmapsets/205637#taiko/485264)
 - [Xandria - Call Of Destiny (Nardoxyribonucleic) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/635559#taiko/1348707)
 
-#### 图池 C
+#### 课题 C
 
 - [wa. - Black Lotus (komasy) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/605096#taiko/1279183)
 - [Ryu* - Mind Mapping (kors k mix) (Jerry) \[m1ng's Oni\]](https://osu.ppy.sh/beatmapsets/107237#taiko/281558)
@@ -366,7 +366,7 @@ tags:
 - [Zekk - Falling Down feat. Renko x TRIANGLE (Raiden) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1150487#taiko/2401584)
 - [LeaF - Doppelganger (extended ver.) (Midnaait) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/833092#taiko/1745096)
 
-#### 图池 D
+#### 课题 D
 
 - [RoughSketch vs. L.E.D.-G - Engoku OVERKILL (Yales) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/889395#taiko/1860173)
 - [nmk - sola (TKS) \[Oni\]](https://osu.ppy.sh/beatmapsets/171239#taiko/414274)
@@ -378,7 +378,7 @@ tags:
 
 *小提示：你可以以曲包的方式[一次性下载全部谱面](https://osu.ppy.sh/beatmaps/packs/1994)。*
 
-#### 图池 A
+#### 课题 A
 
 - [Virtual Self - Angel Voices (Sinnoh) \[Platter\]](https://osu.ppy.sh/beatmapsets/939437#fruits/2060158)
 - [IOSYS - Endless Tewi-ma Park (Kurosanyan) \[Drafura's Rain\]](https://osu.ppy.sh/beatmapsets/48874#fruits/181233)
@@ -386,7 +386,7 @@ tags:
 - [DECO*27 feat. marina - Aimai Elegy (val0108) \[Red Light \~CtB\~\]](https://osu.ppy.sh/beatmapsets/43248#fruits/155227)
 - [HyuN - Grin (Absolute Zero) \[Collab Overdose\]](https://osu.ppy.sh/beatmapsets/1065368#fruits/2230881)
 
-#### 图池 B
+#### 课题 B
 
 - [Wisp X - Moonglow (wonjae) \[Platter\]](https://osu.ppy.sh/beatmapsets/1016833#fruits/2128303)
 - [illion - AIWAGUMA (Ellyu) \[Tenshichan's Rain\]](https://osu.ppy.sh/beatmapsets/533037#fruits/1254563)
@@ -394,7 +394,7 @@ tags:
 - [Hecq - Dstrukt (JBHyperion) \[Overdose\]](https://osu.ppy.sh/beatmapsets/511538#fruits/1087385)
 - [ak+q - Axium Crisis (Lacrima) \[Vicious Labyrinth\]](https://osu.ppy.sh/beatmapsets/996639#fruits/2084648)
 
-#### 图池 C
+#### 课题 C
 
 - [sakuzyo - Altale (toybot) \[AFB's Rain\]](https://osu.ppy.sh/beatmapsets/228815#fruits/724582)
 - [sana - Sunset March (Benita) \[Rain\]](https://osu.ppy.sh/beatmapsets/959995#fruits/2020804)
@@ -402,7 +402,7 @@ tags:
 - [Sasaki Sayaka - Atlantico Blue (-Luminate) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1097911#fruits/2293993)
 - [IKIMONOGAKARI - Blue Bird feat. k*chan \[ dj-Jo Remix \] TV Size (Ascendance) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1174801#fruits/2450381)
 
-#### 图池 D
+#### 课题 D
 
 - [FELT - Goldrop (Lust) \[Spec's Rain\]](https://osu.ppy.sh/beatmapsets/204927#fruits/506395)
 - [sakuraburst - anticrystal (WildOne94) \[Team United Kingdom's Overdose\]](https://osu.ppy.sh/beatmapsets/1062804#fruits/2225576)
@@ -414,7 +414,7 @@ tags:
 
 *小提示：你可以以曲包的方式[一次性下载全部谱面](https://osu.ppy.sh/beatmaps/packs/1995)。*
 
-#### 图池 A
+#### 课题 A
 
 - [An - ExaVid (Abraxos) \[at\_the\_threshold\]](https://osu.ppy.sh/beatmapsets/649306#mania/1589629)
 - [Camellia - Artificial Snow (Dergo) \[ash's hard\]](https://osu.ppy.sh/beatmapsets/1026319#mania/2147852)
@@ -422,7 +422,7 @@ tags:
 - [Chroma - lost memory (Youwhang) \[a light received from you.\]](https://osu.ppy.sh/beatmapsets/961321#mania/2012530)
 - [bbn - Identic Conflict (pporse) \[Birdcage\]](https://osu.ppy.sh/beatmapsets/246853#mania/568463)
 
-#### 图池 B
+#### 课题 B
 
 - [X&G - Whiplash ft. josh pan (sakuraburst Remix) (error_exe777) \[break out\]](https://osu.ppy.sh/beatmapsets/723633#mania/1527737)
 - [Igorrr & Ruby My Dear - Figue Folle (Parachor) \[Grotesque [Lv.18]\]](https://osu.ppy.sh/beatmapsets/347453#mania/782953)
@@ -430,7 +430,7 @@ tags:
 - [Silentroom - NULCTRL EX (-mint-) \[MOTION\]](https://osu.ppy.sh/beatmapsets/1086666)
 - [Middleisland - Achromat (iJinjin) \[7K Black Another\]](https://osu.ppy.sh/beatmapsets/195940#mania/553820)
 
-#### 图池 C
+#### 课题 C
 
 - [Synergy Sound - Dreaming (-MysticEyes) \[serenity\]](https://osu.ppy.sh/beatmapsets/966717#mania/2023410)
 - [Azu - Haryu (asd123iii) \[Another\]](https://osu.ppy.sh/beatmapsets/183478#mania/524443)
@@ -438,7 +438,7 @@ tags:
 - [Camellia - POWA OF DA WILDANES (Monheim) \[YATSUKAMIZUOMITSUNO\]](https://osu.ppy.sh/beatmapsets/1098578#mania/2295244)
 - [Camellia - Beyond the Geostationary Orbit Level (Leniane) \[Equatorial\]](https://osu.ppy.sh/beatmapsets/1011337#mania/2116795)
 
-#### 图池 D
+#### 课题 D
 
 - [The Flashbulb - Every Two Days (Monheim) \[2\]](https://osu.ppy.sh/beatmapsets/905599#mania/1890121)
 - [siqlo - One Way Street (Dreamwalker) \[Unilateral\]](https://osu.ppy.sh/beatmapsets/688453#mania/1867902)

@@ -22,7 +22,7 @@ no_native_review: true
 
 - 需要 [osu!supporter](/wiki/osu!supporter) 才能更改。
 - 在關閉 osu! 時播放。
-- 可以在[設定](/wiki/options)中停用。
+- 可以在[設定](/wiki/Client/Options)中停用。
 
 ---
 
@@ -30,7 +30,7 @@ no_native_review: true
 
 - 需要 [osu!supporter](/wiki/osu!supporter) 才能更改。
 - 在開啟 osu! 時播放。
-- 可以在[設定](/wiki/options)中停用。
+- 可以在[設定](/wiki/Client/Options)中停用。
 
 ### 按鍵
 
@@ -451,7 +451,7 @@ no_native_review: true
 提醒:
 
 - 遊戲即將開始時播放。
-- 同時也是在聊天室被標記時的音效。
+- 同時也是在聊天室[被標](/wiki/Client/Interface/Chat_console/Highlight)記時的音效。
 
 ### 節拍器
 
@@ -502,7 +502,7 @@ no_native_review: true
 提醒:
 
 - 若要使用多個音效，請取名為 `comboburst-{編號}.wav`。
-- 在 [skin.ini](/wiki/skin.ini)中，如果 `CustomComboBurstSounds` 設為 `1`，您必須將檔案取名為 `comboburst-{編號}.wav`。
+- 在 [skin.ini](/wiki/Skinning/skin.ini)中，如果 `CustomComboBurstSounds` 設為 `1`，您必須將檔案取名為 `comboburst-{編號}.wav`。
 
 ---
 

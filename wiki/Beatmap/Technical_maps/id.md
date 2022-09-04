@@ -16,7 +16,7 @@ tags:
 
 Tech maps paling sering dikaitkan dengan aliran lagu yang menawarkan suara yang kompleks dan bergerak cepat (contohnya, drum-and-bass, dubstep, dan drumstep) karena sering kali memungkinkan pembuat map untuk mengeksplorasi setiap suara secara detail untuk keuntungan beatmap. Meskipun jenis musik ini tidak secara eksplisit diperlukan.
 
-Terlepas dari definisinya, kebanyakan player mengklaim bahwa tech map sangat tidak adil (dalam hal skill) karena peningkatan utama dalam difficulty yang sebagian besar atau semata-mata berasal dari pattern atau slider aneh. Juga, ini artinya tech map tidak terlalu terkenal untuk mendapatkan banyak [pp](/wiki/Performance_Points) sekaligus karena dengan cara kerja sistem saat ini yang membuat beatmaps tech sangat diremehkan.
+Terlepas dari definisinya, kebanyakan player mengklaim bahwa tech map sangat tidak adil (dalam hal skill) karena peningkatan utama dalam difficulty yang sebagian besar atau semata-mata berasal dari pattern atau slider aneh. Juga, ini artinya tech map tidak terlalu terkenal untuk mendapatkan banyak [pp](/wiki/Performance_points) sekaligus karena dengan cara kerja sistem saat ini yang membuat beatmaps tech sangat diremehkan.
 
 ## Definisi
 

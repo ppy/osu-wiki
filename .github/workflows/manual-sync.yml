@@ -19,7 +19,7 @@ jobs:
     name: Execute Sync Task
     runs-on: ubuntu-latest
     steps:
-        # WARNING: DO NOT USE SHALLOW CLONES FOR THIS STEP! Doing so will result on git merge thinking we diverged from upstream!
+      # WARNING: DO NOT USE SHALLOW CLONES FOR THIS STEP! Doing so will result on git merge thinking we diverged from upstream!
       - name: Checkout
         shell: bash
         run: |

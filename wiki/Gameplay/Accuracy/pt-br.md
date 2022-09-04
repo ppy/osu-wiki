@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated_translation: true
 ---
 
 # Precisão
@@ -8,11 +8,11 @@ Existem três tipos de precisão:
 
 - Precisão por [beatmap](/wiki/Beatmap).
 - Precisão individual geral.
-- Precisão em [Pontuação de Performance (pp)](/wiki/Performance_Points).
+- Precisão em [Pontuação de Performance (pp)](/wiki/Performance_points).
 
 Em termos simples,
 
-- A precisão por beatmap depende dos [Hit-scores](/wiki/Score) obtidos em mapas (beatmaps).
+- A precisão por beatmap depende dos [Hit-scores](/wiki/Gameplay/Score) obtidos em mapas (beatmaps).
 - Precisão geral é dependente nas pontuações de cada uma das suas melhores jogadas registradas.
   - Note que: a precisão é ponderada de tal forma que pontuações melhores influenciarão mais fortemente os seus índices do que pontuações fracas.
 - Precisão em PP é dependente de pontuações submetidas online que forem eligíveis para ganho de PP.
@@ -21,7 +21,7 @@ Em termos simples,
 
 ### ![](/wiki/shared/mode/osu.png) osu!
 
-No [osu!](/wiki/Game_mode/osu!), a precisão é calculada ao pesar o julgamento recebido por cada nota (em função seu respectivo valor) e dividir pela pontuação máxima atribuível a ela.
+No [osu!](/wiki/Game_mode/osu!), a precisão é calculada ao pesar o [julgamento](/wiki/Gameplay/Judgement) recebido por cada nota (em função seu respectivo valor) e dividir pela pontuação máxima atribuível a ela.
 
 Em outras palavras: `Precisão = Pontuação total dos hits / (Quantidade total de hits * 300)`
 
@@ -67,7 +67,7 @@ Note que caso esteja usando a API para calcular a precisão, a quantidade de dro
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 
-No [osu!mania](/wiki/Game_mode/osu!mania), a precisão é calculada de modo similar ao [osu!](#-osu!).
+No [osu!mania](/wiki/Game_mode/osu!mania), a precisão é calculada de modo similar ao [osu!](#osu!).
 
 Em outras palavras: `Precisão = Pontuação total dos hits / (Quantidade total de hits * 300)`
 
@@ -84,7 +84,7 @@ Repare que MAX (ou rainbow 300) e 300s ambos têm o valor máximo no cálculo da
 
 Ranking mostra o seu grau na jogada, um panorama dos hits e a porcentagem exata da sua precisão.
 
-Para mais detalhes, consulte [Score](/wiki/Score).
+Para mais detalhes, consulte [Score](/wiki/Gameplay/Score).
 
 ### Gráfico de Performance
 
@@ -98,7 +98,7 @@ Informações adicionais são mostradas quando o cursor do jogo é passado por c
 
 | Termo | Significado |
 | :-- | :-- |
-| Miss Rate (Error) | **Esses dois valores representam, respectivamente, o quão precoces e o quão atrasados os seus hits foram, em média**. Quanto mais alto o [OD value](/wiki/Beatmap_Editor/Song_Setup) do beatmap jogado, menor terão que ser esses valores para que você se saia bem. |
+| Miss Rate (Error) | **Esses dois valores representam, respectivamente, o quão precoces e o quão atrasados os seus hits foram, em média**. Quanto mais alto o [OD value](/wiki/Client/Beatmap_editor/Song_Setup) do beatmap jogado, menor terão que ser esses valores para que você se saia bem. |
 | Unstable Rate | **Esse valor representa o quão consistente foi o seu timing nos hits**. Quanto menor o valor, melhor ainda (os melhores jogadores conseguem atingir abaixo de 100 com frequência). Note que esse índice mede a sua **consistência** e não *precisão*, então consistentemente acertar notas com 15ms de antecedência vale o mesmo que acertar no tempo certo. A fórmula usada é, essencialmente, a variação dos valores do Miss Rate (em milissegundos) multiplicado por 10. |
 
 #### Spin

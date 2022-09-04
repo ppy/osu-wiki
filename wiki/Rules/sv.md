@@ -1,6 +1,6 @@
 ---
 no_native_review: true
-outdated: true
+outdated_translation: true
 outdated_since: 2787f766bf4cf7b8e2e3afd824e15adcb4e79798
 ---
 
@@ -20,7 +20,7 @@ Dessa regler är basen vi använder för att hålla osu! communityn en rolig och
 ## In-game chattregler
 
 1. **Var omtänksam och ha respekt för andra användare i kanalen och undvik flooding eller spamming.** En person som tar upp halva skärmen på en gång är irriterande, så undvik att göra det där det är möjligt. Andra människor försöker också chatta!
-2. **Låt moderatorerna ta hand om problem i chatten.** Du kan påpeka saker till dem med [`!report` kommandot](/wiki/Reporting_Bad_Behaviour) om nödvändigt så tar de hand om resten.
+2. **Låt moderatorerna ta hand om problem i chatten.** Du kan påpeka saker till dem med [`!report` kommandot](/wiki/Reporting_bad_behaviour) om nödvändigt så tar de hand om resten.
 3. **Om någon blir timed out, tystnad eller begränsad, låt dem vara ifred.** Om någon är begränsad involverar deras fall bara dem och administrationen, ingen annan!
 4. **Uppmuntra till rättvist spelande och uppmärksamma inte fuskare eller andra elaka användare.** Tyvärr existerar dessa människor, och att ge dem uppmärksamhet kan uppmuntra dem till att fortsätta agera som de gör. Anmäl dem med chattkommandot `!report` eller med knapparna på deras profil och släpp det.
 5. **Håll chatten ren och lämplig för en community i alla åldrar och undvik NSFW-ämnen där det är möjligt.** NSFW-grejer är verkligen inte lämpliga i en community i alla åldrar. Gör vad du vill i privata meddelanden (inom lämpliga gränser) men håll de offentliga kanalerna rena för allas bästa.
@@ -43,7 +43,7 @@ Dessa regler är basen vi använder för att hålla osu! communityn en rolig och
 
 *Obs: Dessa regler gäller för **alla inlämnade beatmaps**, inte bara Rankade. För mer specifika regler om rankade beatmaps, se [Ranking Criteria](/wiki/Ranking_Criteria).*
 
-Dessa regler gäller strikt för beatmaps som skickas in via spelets [Beatmap-inlämningssystem](/wiki/Submission). Dessa trådar / diskussioner skapas via osu! klienten när en beatmap skickas in via osu!s [Beatmap redigerare](/wiki/Beatmap_Editor).
+Dessa regler gäller strikt för beatmaps som skickas in via spelets [Beatmap-inlämningssystem](/wiki/Submission). Dessa trådar / diskussioner skapas via osu! klienten när en beatmap skickas in via osu!s [Beatmap redigerare](/wiki/Client/Beatmap_editor).
 
 1. **Se till att du har tillåtelse att använda allt innehåll som är involverat i din beatmap.** Detta inkluderar låtar, videor, hitsounds, grafik och allt annat innehåll som inte är din egen skapelse. Om du är osäker på var du hittar innehåll som är gratis att använda, kolla in vårt växande [Featured Artist](https://osu.ppy.sh/beatmaps/artists) bibliotek för musik 100% licensierat för användning i osu! och våra [Riktlinjer för innehållsanvändning](Content_Usage_Guidelines) för mer information.
 2. **Håll ämnet i Beatmap-diskussioner.** Dessa trådar / diskussioner handlar om beatmapen i fråga och ingenting annat. Om du har problem med något som inte direkt hänför sig till beatmapen, skicka det i rätt forum.
@@ -67,6 +67,6 @@ Vissa brott har en lägsta varaktighet (vanligtvis 48 timmar eller mer) om de ä
 
 Om du fortsätter att bryta reglerna efter flera straff kan ditt konto bli permanent begränsat.
 
-Begränsade konton kan inte spela online, skicka in scores, chatta med andra användare och är "förbjudna" från interaktion med communityn. Begränsningar för brott mot våra communityregler kan endast tas bort efter överklagande till supportpersonalen efter att tre månader har gått ([fler villkor kan gälla](/wiki/Help_Centre/Account_Restrictions#common-restriction-reasons-and-cooldowns)).
+Begränsade konton kan inte spela online, skicka in scores, chatta med andra användare och är "förbjudna" från interaktion med communityn. Begränsningar för brott mot våra communityregler kan endast tas bort efter överklagande till supportpersonalen efter att tre månader har gått ([fler villkor kan gälla](/wiki/Help_centre/Account_restrictions#common-restriction-reasons-and-cooldowns)).
 
 Allvarliga regelbrytningar som går långt utanför våra communityregler och till  jurisdiktion för olagligt innehåll enligt internationell gemensam lag kommer att resultera i omedelbar avstängning. Detta gäller nästan uteslutande för extremt grafiska eller på annat sätt avskyvärda regelbrytningar, såsom distribution av barnpornografi eller annat missbruksmaterial.

@@ -15,15 +15,15 @@ tags:
 
 ![La carte d'utilisateur de BanchoBot](img/BanchoBot.jpg "La carte d'utilisateur de BanchoBot")
 
-**BanchoBot** (parfois appelé *Bancho*) est un robot de chat en ligne créé pour osu! qui aide les gens dans le chat du jeu en annonçant des messages relatifs au jeu (par exemple le nombre total de parties jouées, de tentatives, etc.) et en répondant à certaines commandes. Il a été programmé par [Echo](https://osu.ppy.sh/users/431) et est le fournisseur de [Bancho IRC](/wiki/Internet_Relay_Chat) (Internet Relay Chat).
+**BanchoBot** (parfois appelé *Bancho*) est un robot de tchat en ligne créé pour osu! qui aide les gens dans le tchat du jeu en annonçant des messages relatifs au jeu (par exemple le nombre total de parties jouées, de tentatives, etc.) et en répondant à certaines commandes. Il a été programmé par [Echo](https://osu.ppy.sh/users/431) et est le fournisseur de [Bancho IRC](/wiki/Community/Internet_Relay_Chat) (Internet Relay Chat).
 
 BanchoBot a aussi son propre [profil osu!](https://osu.ppy.sh/users/3) et son [compte Twitter](https://twitter.com/banchoboat).
 
 ## Commandes
 
-*Pour une liste des commandes du client en jeu, voir : [Console de chat](/wiki/Chat_Console#la-liste-des-commandes)*
+*Pour une liste des commandes du client en jeu, voir : [Console de tchat](/wiki/Client/Interface/Chat_console#liste-des-commandes)*
 
-BanchoBot peut répondre aux commandes des joueurs par des messages spécifiques tapés dans le chat. Toutes les commandes de BanchoBot commencent par un point d'exclamation (`!`) suivi du nom de la commande, qui n'est pas sensible à la casse (sans espace entre les deux). Ces commandes peuvent être utilisées dans les canaux de discussion et dans les messages privés avec BanchoBot.
+BanchoBot peut répondre aux commandes des joueurs par des messages spécifiques tapés dans le tchat. Toutes les commandes de BanchoBot commencent par un point d'exclamation (`!`) suivi du nom de la commande, qui n'est pas sensible à la casse (sans espace entre les deux). Ces commandes peuvent être utilisées dans les canaux de discussion et dans les messages privés avec BanchoBot.
 
 Si un utilisateur normal envoie une commande dans un canal de discussion public, les autres utilisateurs ne la verront pas, et la réponse sera affichée dans un message privé avec BanchoBot. Les utilisateurs peuvent également utiliser la commande `/bb` du client en jeu pour ouvrir automatiquement un onglet avec BanchoBot et envoyer la commande immédiatement.
 
@@ -83,7 +83,7 @@ Vous trouverez ci-dessous une liste de toutes les commandes de BanchoBot :
 !stats <nom d'utilisateur>
 ```
 
-`!stats` affiche les statistiques de jeu de l'utilisateur saisi et son statut actuel. La sortie dépend du [mode de jeu](/wiki/Game_Modes) que l'utilisateur saisi a joué en dernier, bien que BanchoBot n'affichera pas le mode de jeu d'où proviennent les statistiques. Si on lui demande d'afficher les statistiques d'un utilisateur qui n'a jamais joué à osu!, BanchoBot répondra par `User not found`, même si l'utilisateur existe. Un exemple d'envoi de cette commande est montré ci-dessous :
+`!stats` affiche les statistiques de jeu de l'utilisateur saisi et son statut actuel. La sortie dépend du [mode de jeu](/wiki/Game_mode) que l'utilisateur saisi a joué en dernier, bien que BanchoBot n'affichera pas le mode de jeu d'où proviennent les statistiques. Si on lui demande d'afficher les statistiques d'un utilisateur qui n'a jamais joué à osu!, BanchoBot répondra par `User not found`, même si l'utilisateur existe. Un exemple d'envoi de cette commande est montré ci-dessous :
 
 ```
 13:01 pippi: !stats peppy
@@ -135,18 +135,18 @@ Il y a un total de 7 statuts qui peuvent être affichés par la commande `!stats
 
 ```
 13:04 pippi: !faq fr:peppy
-13:04 BanchoBot: Qui ne le connaît pas ? peppy est le créateur de osu!
+13:04 BanchoBot: Qui ne le connaît pas ? peppy est le créateur d'osu!
 ```
 
 ### Report
 
-*Pour des informations sur ce qui mérite d'être signalé, voir [Signaler un mauvais comportement](/wiki/Reporting_Bad_Behaviour).*
+*Pour des informations sur ce qui mérite d'être signalé, voir [Signaler un mauvais comportement](/wiki/Reporting_bad_behaviour).*
 
 ```
 !report <utilisateur> <raison>
 ```
 
-`!report` notifie les membres de la [Global Moderation Team](/wiki/Global_Moderation_Team) du comportement inapproprié d'un utilisateur. Si un utilisateur a des espaces dans son nom d'utilisateur, remplacez-les par des traits de soulignement (par exemple, `nom d'utilisateur super cool` devient `nom_d'utilisateur_super_cool`). Pour signaler un modérateur, contactez l'[équipe d'assistance aux comptes](/wiki/People/The_Team/Account_support_team#support@ppy.sh). Un exemple de signalement d'un utilisateur normal par BanchoBot est présenté ci-dessous :
+`!report` notifie les membres de la [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) du comportement inapproprié d'un utilisateur. Si un utilisateur a des espaces dans son nom d'utilisateur, remplacez-les par des traits de soulignement (par exemple, `nom d'utilisateur super cool` devient `nom_d'utilisateur_super_cool`). Pour signaler un modérateur, contactez l'[équipe d'assistance aux comptes](/wiki/People/The_Team/Account_support_team#support@ppy.sh). Un exemple de signalement d'un utilisateur normal par BanchoBot est présenté ci-dessous :
 
 ```
 13:10 pippi: !report flyte spamming in #japanese

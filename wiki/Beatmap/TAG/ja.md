@@ -6,7 +6,7 @@ tags:
 
 # TAG
 
-**TAG**とは、[マルチプレイヤー](/wiki/Multi)のチームモードである[Tag CoopもしくはTag Team Vs](/wiki/Multi#tag-coop-/-tag-team-vs)を指し、プレイヤーが協力して[ビートマップ](/wiki/Beatmap)をクリアしようとする際に使われる用語です。これらのモードに特化したビートマップは、**TAGビートマップ/難易度**と呼ばれています。
+**TAG**とは、[マルチプレイヤー](/wiki/Client/Interface/Multiplayer)のチームモードである[Tag CoopもしくはTag Team Vs](/wiki/Client/Interface/Multiplayer#tag-co-op-/-tag-team-vs)を指し、プレイヤーが協力して[ビートマップ](/wiki/Beatmap)をクリアしようとする際に使われる用語です。これらのモードに特化したビートマップは、**TAGビートマップ/難易度**と呼ばれています。
 
 これらのモードでは、各プレイヤーは1つの[コンボセット](/wiki/Beatmapping/Combo)を担当し、曲の中でプレイヤーはコンボセットを切り替えていきます。そのため、TAGビートマップは、通常よりもコンボセットが離れて配置されており、複雑です。そのため１人でプレイすることはほぼ不可能な設計となっています。
 

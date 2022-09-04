@@ -1,19 +1,25 @@
 ---
 stub: true
 tags:
+  - hit normal
+  - hitnormal
+  - hit sound addition
+  - hit sound additions
+  - hitsound addition
+  - hitsound additions
   - hit sounds
   - hitsounds
 ---
 
 # Hitsound
 
-*See also: [Adding custom hitsounds](/wiki/Guides/Adding_Custom_Hitsounds)*
+*See also: [Adding custom hitsounds](/wiki/Guides/Using_custom_hitsounds)*
 
 <!-- TODO: could make more articles about each part of hitsounds, and also one focused more on gameplay than mapping -->
 
-**Hitsounds** are the sounds that osu! plays in response to user input when interacting with [hit objects](/wiki/Hit_Objects). Hitsounds are typically used to give auditory feedback to the player to help them judge their [accuracy](/wiki/Gameplay/Accuracy) in relation to the song.
+**Hitsounds** are the sounds that osu! plays in response to user input when interacting with [hit objects](/wiki/Hit_object). Hitsounds are typically used to give auditory feedback to the player to help them judge their [accuracy](/wiki/Gameplay/Accuracy) in relation to the song.
 
-Hitsound feedback consists of a default sample called a "hit normal", and any combination of whistle, finish, or clap sample additions. Each sample has one of three "sample sets" that change its style: `Normal`, `Soft`, or `Drum`.
+Hitsound feedback consists of a default sample called a *hitnormal*, and any combination of whistle, finish, or clap sample *additions*. Each sample is part of one of three *sample sets* that denote different styles: `Normal`, `Soft`, or `Drum`.
 
 Beatmappers can replace any default sound samples with custom samples using a [beatmap](/wiki/Beatmap)'s folder. A player's [skin](/wiki/Skinning) can also replace default hitsounds on all beatmaps. Details on hitsound samples can be found in the [hitsound skinning](/wiki/Skinning/Sounds#hitsounds) article.
 
@@ -21,13 +27,15 @@ Beatmappers can replace any default sound samples with custom samples using a [b
 
 ## Active hitsound
 
-An active hitsound correlates to a player's clicking by reaching its peak impact immediately when played. Drum sound samples are the most frequently used active hitsounds because they provide clear and immediate feedback.
+A hitsound is considered *active* if it is on a clickable part of a hit object, for example a hit circle or slider head. These help the player judge whether they clicked early or late by playing a clear impactful sound at the time of clicking. If clicked correctly, the sound should match up with a beat in the song.
 
 ## Passive hitsound
 
-A passive hitsound does not correlate to a player's clicking. These are usually sound effects that accompany active hitsounds.
+If a hitsound is on a non-clickable part of a hit object, for example a slider repeat or spinner end, it is considered *passive*. These always play at the same time as long as the player is interacting with the hit object, unlike active hitsounds. Passive hitsounds do not need to have a clear impact or be audible, but often use the same sounds as active hitsounds when they land on distinct beats in order to help the player maintain rhythm.
 
-Hitsounds can be added through storyboarding, but because they don't correlate to a user's clicking, they are also classified as passive.
+## Storyboarded hitsound
+
+Sound samples may be added through storyboarding to mimic hitsounds. Unlike actual hitsounds, however, these always play at the given time regardless of whether the player hit the object. For that reason, they are often not recommended. Some mappers use these to maintain hitsound patterns between hit objects.
 
 ## Keysound
 

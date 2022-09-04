@@ -37,12 +37,12 @@ The **Mistrzostwa Polski w 7K 2019** (***MP7K 2019***, *7K Polish Championship 2
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946) |
-| Mappool selector | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_PL] [DaDarkDragon](https://osu.ppy.sh/users/8902097), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946) |
-| Referee | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_PL] [crafciak31](https://osu.ppy.sh/users/8426128), ![][flag_PL] [DaDarkDragon](https://osu.ppy.sh/users/8902097), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_PL] [Yamakazi](https://osu.ppy.sh/users/4726691) |
-| Streamer | ![][flag_PL] [DaDarkDragon](https://osu.ppy.sh/users/8902097), ![][flag_PL] [Deroo](https://osu.ppy.sh/users/8360475), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [Miq](https://osu.ppy.sh/users/2424440), ![][flag_PL] [Open](https://osu.ppy.sh/users/7082921), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946) |
-| Commentator | ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [Open](https://osu.ppy.sh/users/7082921), ![][flag_PL] [paprotka](https://osu.ppy.sh/users/7233032), ![][flag_PL] [Shizune](https://osu.ppy.sh/users/8682644), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946), ![][flag_PL] [Tidek](https://osu.ppy.sh/users/743282) |
-| Graphic designer | ![][flag_PL] [W D Gaster](https://osu.ppy.sh/users/1475814) |
+| Host | ::{ flag=PL }:: [Benzopirene](https://osu.ppy.sh/users/1887068), ::{ flag=PL }:: [SitekX](https://osu.ppy.sh/users/3840946) |
+| Mappool selector | ::{ flag=PL }:: [Benzopirene](https://osu.ppy.sh/users/1887068), ::{ flag=PL }:: [DaDarkDragon](https://osu.ppy.sh/users/8902097), ::{ flag=PL }:: [SitekX](https://osu.ppy.sh/users/3840946) |
+| Referee | ::{ flag=PL }:: [Benzopirene](https://osu.ppy.sh/users/1887068), ::{ flag=PL }:: [crafciak31](https://osu.ppy.sh/users/8426128), ::{ flag=PL }:: [DaDarkDragon](https://osu.ppy.sh/users/8902097), ::{ flag=PL }:: [Kamikaze](https://osu.ppy.sh/users/2124783), ::{ flag=PL }:: [SitekX](https://osu.ppy.sh/users/3840946), ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416), ::{ flag=PL }:: [Yamakazi](https://osu.ppy.sh/users/4726691) |
+| Streamer | ::{ flag=PL }:: [DaDarkDragon](https://osu.ppy.sh/users/8902097), ::{ flag=PL }:: [Deroo](https://osu.ppy.sh/users/8360475), ::{ flag=PL }:: [Kamikaze](https://osu.ppy.sh/users/2124783), ::{ flag=PL }:: [Miq](https://osu.ppy.sh/users/2424440), ::{ flag=PL }:: [Open](https://osu.ppy.sh/users/7082921), ::{ flag=PL }:: [SitekX](https://osu.ppy.sh/users/3840946) |
+| Commentator | ::{ flag=PL }:: [Kamikaze](https://osu.ppy.sh/users/2124783), ::{ flag=PL }:: [Open](https://osu.ppy.sh/users/7082921), ::{ flag=PL }:: [paprotka](https://osu.ppy.sh/users/7233032), ::{ flag=PL }:: [Shizune](https://osu.ppy.sh/users/8682644), ::{ flag=PL }:: [SitekX](https://osu.ppy.sh/users/3840946), ::{ flag=PL }:: [Tidek](https://osu.ppy.sh/users/743282) |
+| Graphic designer | ::{ flag=PL }:: [W D Gaster](https://osu.ppy.sh/users/1475814) |
 
 ## Links
 
@@ -54,22 +54,22 @@ The **Mistrzostwa Polski w 7K 2019** (***MP7K 2019***, *7K Polish Championship 2
 
 | Seed | Users |
 | :-- | :-- |
-| Top (#1 - #8) | ![][flag_PL] [- gero -](https://osu.ppy.sh/users/5068537), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [-Karen-chan-](https://osu.ppy.sh/users/1333495), ![][flag_PL] [EWGF](https://osu.ppy.sh/users/8422748), ![][flag_PL] [Brunwald\_1410](https://osu.ppy.sh/users/1639587), ![][flag_PL] [PanzerRaymanPL](https://osu.ppy.sh/users/8352830), ![][flag_PL] [Jakub Janda](https://osu.ppy.sh/users/12393014), ![][flag_PL] [Lorwick](https://osu.ppy.sh/users/5481019) |
-| High (#9 - #16) | ![][flag_PL] [-Maus-](https://osu.ppy.sh/users/3109917), ![][flag_PL] [Alicejoy](https://osu.ppy.sh/users/10678683), ![][flag_PL] [jasionnn](https://osu.ppy.sh/users/6886081), ![][flag_PL] [TheFalek](https://osu.ppy.sh/users/10214260), ![][flag_PL] [Miq](https://osu.ppy.sh/users/2424440), ![][flag_PL] [Tidek](https://osu.ppy.sh/users/743282), ![][flag_PL] [Justin14p](https://osu.ppy.sh/users/8461297), ![][flag_PL] [PoweR\_LendzeR](https://osu.ppy.sh/users/2894654) |
-| Low (#17 - #24) | ![][flag_PL] [Doktorek626](https://osu.ppy.sh/users/2122669), ![][flag_PL] [capsafangirl](https://osu.ppy.sh/users/4308015), ![][flag_PL] [AgregaTxD](https://osu.ppy.sh/users/5115492), ![][flag_PL] [Yamakazi](https://osu.ppy.sh/users/4726691), ![][flag_PL] [Eclipse-](https://osu.ppy.sh/users/8493070), ![][flag_PL] [Bobini-](https://osu.ppy.sh/users/7352299), ![][flag_PL] [xROCKETx](https://osu.ppy.sh/users/7442009), ![][flag_PL] [Felix27](https://osu.ppy.sh/users/7447943) |
+| Top (#1 - #8) | ::{ flag=PL }:: [- gero -](https://osu.ppy.sh/users/5068537), ::{ flag=PL }:: [Kamikaze](https://osu.ppy.sh/users/2124783), ::{ flag=PL }:: [-Karen-chan-](https://osu.ppy.sh/users/1333495), ::{ flag=PL }:: [EWGF](https://osu.ppy.sh/users/8422748), ::{ flag=PL }:: [Brunwald\_1410](https://osu.ppy.sh/users/1639587), ::{ flag=PL }:: [PanzerRaymanPL](https://osu.ppy.sh/users/8352830), ::{ flag=PL }:: [Jakub Janda](https://osu.ppy.sh/users/12393014), ::{ flag=PL }:: [Lorwick](https://osu.ppy.sh/users/5481019) |
+| High (#9 - #16) | ::{ flag=PL }:: [-Maus-](https://osu.ppy.sh/users/3109917), ::{ flag=PL }:: [Alicejoy](https://osu.ppy.sh/users/10678683), ::{ flag=PL }:: [jasionnn](https://osu.ppy.sh/users/6886081), ::{ flag=PL }:: [TheFalek](https://osu.ppy.sh/users/10214260), ::{ flag=PL }:: [Miq](https://osu.ppy.sh/users/2424440), ::{ flag=PL }:: [Tidek](https://osu.ppy.sh/users/743282), ::{ flag=PL }:: [Justin14p](https://osu.ppy.sh/users/8461297), ::{ flag=PL }:: [PoweR\_LendzeR](https://osu.ppy.sh/users/2894654) |
+| Low (#17 - #24) | ::{ flag=PL }:: [Doktorek626](https://osu.ppy.sh/users/2122669), ::{ flag=PL }:: [capsafangirl](https://osu.ppy.sh/users/4308015), ::{ flag=PL }:: [AgregaTxD](https://osu.ppy.sh/users/5115492), ::{ flag=PL }:: [Yamakazi](https://osu.ppy.sh/users/4726691), ::{ flag=PL }:: [Eclipse-](https://osu.ppy.sh/users/8493070), ::{ flag=PL }:: [Bobini-](https://osu.ppy.sh/users/7352299), ::{ flag=PL }:: [xROCKETx](https://osu.ppy.sh/users/7442009), ::{ flag=PL }:: [Felix27](https://osu.ppy.sh/users/7447943) |
 
 ## Groups
 
 | Group | Top | High | Low |
 | :-: | :-- | :-- | :-- |
-| **A** | ![][flag_PL] PanzerRaymanPL | ![][flag_PL] Alicejoy | ![][flag_PL] xROCKETx |
-| **B** | ![][flag_PL] Brunwald\_1410 | ![][flag_PL] Miq | ![][flag_PL] Yamakazi |
-| **C** | ![][flag_PL] Lorwick | ![][flag_PL] -Maus- | ![][flag_PL] Doktorek626 |
-| **D** | ![][flag_PL] EWGF | ![][flag_PL] jasionnn | ![][flag_PL] AgregaTxD |
-| **E** | ![][flag_PL] -Karen-chan- | ![][flag_PL] Tidek | ![][flag_PL] Eclipse- |
-| **F** | ![][flag_PL] Kamikaze | ![][flag_PL] TheFalek | ![][flag_PL] Bobini- |
-| **G** | ![][flag_PL] - gero - | ![][flag_PL] PoweR\_LendzeR | ![][flag_PL] capsafangirl |
-| **H** | ![][flag_PL] Jakub Janda | ![][flag_PL] Justin14p | ![][flag_PL] Felix27 |
+| **A** | ::{ flag=PL }:: PanzerRaymanPL | ::{ flag=PL }:: Alicejoy | ::{ flag=PL }:: xROCKETx |
+| **B** | ::{ flag=PL }:: Brunwald\_1410 | ::{ flag=PL }:: Miq | ::{ flag=PL }:: Yamakazi |
+| **C** | ::{ flag=PL }:: Lorwick | ::{ flag=PL }:: -Maus- | ::{ flag=PL }:: Doktorek626 |
+| **D** | ::{ flag=PL }:: EWGF | ::{ flag=PL }:: jasionnn | ::{ flag=PL }:: AgregaTxD |
+| **E** | ::{ flag=PL }:: -Karen-chan- | ::{ flag=PL }:: Tidek | ::{ flag=PL }:: Eclipse- |
+| **F** | ::{ flag=PL }:: Kamikaze | ::{ flag=PL }:: TheFalek | ::{ flag=PL }:: Bobini- |
+| **G** | ::{ flag=PL }:: - gero - | ::{ flag=PL }:: PoweR\_LendzeR | ::{ flag=PL }:: capsafangirl |
+| **H** | ::{ flag=PL }:: Jakub Janda | ::{ flag=PL }:: Justin14p | ::{ flag=PL }:: Felix27 |
 
 ## Podium
 
@@ -77,127 +77,127 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | User |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_PL] [**- gero -**](https://osu.ppy.sh/users/5068537) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_PL] [**Kamikaze**](https://osu.ppy.sh/users/2124783) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_PL] [**-Karen-chan-**](https://osu.ppy.sh/users/1333495) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PL }:: [**- gero -**](https://osu.ppy.sh/users/5068537) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=PL }:: [**Kamikaze**](https://osu.ppy.sh/users/2124783) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PL }:: [**-Karen-chan-**](https://osu.ppy.sh/users/1333495) |
 
 ## Mappools
 
 ### Grand Finals
 
 - FreeMod
-  - [dai - dir (Nivrad00) \[Hard\]](https://osu.ppy.sh/beatmapsets/413614#mania/896876)
-  - [SHIKI - Angelic Delayer (\_underjoy) \[neyother Lv. 12\]](https://osu.ppy.sh/beatmapsets/1079394#mania/2258294)
-  - [ALiCE\'S EMOTiON - Dark Flight Dreamer (Kawawa) \[BMS LV. 10 \'\^ \'\]](https://osu.ppy.sh/beatmapsets/626227#mania/1319959)
-  - [eicateve - Vorota Collapse (\_underjoy) \[neyother Lv. 13\]](https://osu.ppy.sh/beatmapsets/1079397#mania/2258308)
-  - [Kurenainagi Tabibito - Otenba Koimusume (Kawawa) \[BMS LV. 10 wawather \[Stream -Another-\]\]](https://osu.ppy.sh/beatmapsets/695388#mania/1473422)
-  - [SB YUNE - Rosario -another story- (\_underjoy) \[Lv. 12 (MP7K Edit)\]](https://osu.ppy.sh/beatmapsets/1079399#mania/2258314)
-  - [FELT - Flower Flag (17VA) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/539088#mania/1142360)
-  - [Otokaze - Karen (Nananana) \[7k LN\]](https://osu.ppy.sh/beatmapsets/868433#mania/1815213)
-  - [Hana - Sakura no Uta (Raediaufar) \[Sakura\]](https://osu.ppy.sh/beatmapsets/489259#mania/1042829)
-  - [Afilia Saga - Neptune Sagashite (dometb) \[7K LN\]](https://osu.ppy.sh/beatmapsets/521353#mania/1107400)
-  - [Camellia - overcomplexification ("Quaternion" Long ver.) (Wonki) \[underjoy's Extra\]](https://osu.ppy.sh/beatmapsets/812947#mania/1706975)
-  - [Xceon feat. Mayumi Morinaga - Sakurayozora (arcwinolivirus) \[7K 'Thousand Sakura' Arc\]](https://osu.ppy.sh/beatmapsets/509529#mania/1083572)
-  - [virkato - Waltz No. 17 in G Minor (Waltz of the Big Dogs) (Nivrad00) \[Insane\]](https://osu.ppy.sh/beatmapsets/437420#mania/941837)
-  - [BanYa remixed by Synthwulf - Hypnosis (Synthwulf Mix) (Agka) \[Sythesis (SV Demo)\]](https://osu.ppy.sh/beatmapsets/914109#mania/1909322)
-  - [ONE - Future (arcwinolivirus) [7K SV Innovation]](https://osu.ppy.sh/beatmapsets/708785#mania/1498465)
+  1. [dai - dir (Nivrad00) \[Hard\]](https://osu.ppy.sh/beatmapsets/413614#mania/896876)
+  2. [SHIKI - Angelic Delayer (\_underjoy) \[neyother Lv. 12\]](https://osu.ppy.sh/beatmapsets/1079394#mania/2258294)
+  3. [ALiCE\'S EMOTiON - Dark Flight Dreamer (Kawawa) \[BMS LV. 10 \'\^ \'\]](https://osu.ppy.sh/beatmapsets/626227#mania/1319959)
+  4. [eicateve - Vorota Collapse (\_underjoy) \[neyother Lv. 13\]](https://osu.ppy.sh/beatmapsets/1079397#mania/2258308)
+  5. [Kurenainagi Tabibito - Otenba Koimusume (Kawawa) \[BMS LV. 10 wawather \[Stream -Another-\]\]](https://osu.ppy.sh/beatmapsets/695388#mania/1473422)
+  6. [SB YUNE - Rosario -another story- (\_underjoy) \[Lv. 12 (MP7K Edit)\]](https://osu.ppy.sh/beatmapsets/1079399#mania/2258314)
+  7. [FELT - Flower Flag (17VA) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/539088#mania/1142360)
+  8. [Otokaze - Karen (Nananana) \[7k LN\]](https://osu.ppy.sh/beatmapsets/868433#mania/1815213)
+  9. [Hana - Sakura no Uta (Raediaufar) \[Sakura\]](https://osu.ppy.sh/beatmapsets/489259#mania/1042829)
+  10. [Afilia Saga - Neptune Sagashite (dometb) \[7K LN\]](https://osu.ppy.sh/beatmapsets/521353#mania/1107400)
+  11. [Camellia - overcomplexification ("Quaternion" Long ver.) (Wonki) \[underjoy's Extra\]](https://osu.ppy.sh/beatmapsets/812947#mania/1706975)
+  12. [Xceon feat. Mayumi Morinaga - Sakurayozora (arcwinolivirus) \[7K 'Thousand Sakura' Arc\]](https://osu.ppy.sh/beatmapsets/509529#mania/1083572)
+  13. [virkato - Waltz No. 17 in G Minor (Waltz of the Big Dogs) (Nivrad00) \[Insane\]](https://osu.ppy.sh/beatmapsets/437420#mania/941837)
+  14. [BanYa remixed by Synthwulf - Hypnosis (Synthwulf Mix) (Agka) \[Sythesis (SV Demo)\]](https://osu.ppy.sh/beatmapsets/914109#mania/1909322)
+  15. [ONE - Future (arcwinolivirus) [7K SV Innovation]](https://osu.ppy.sh/beatmapsets/708785#mania/1498465)
 - Tiebreaker
-  - **[Masayoshi Minoshima feat.nomico - Lost Emotion (Amane UK Hardcore Remix) (\_underjoy) \[Collab Phantasm\]](https://osu.ppy.sh/beatmapsets/1079392#mania/2258292)**
+  1. **[Masayoshi Minoshima feat.nomico - Lost Emotion (Amane UK Hardcore Remix) (\_underjoy) \[Collab Phantasm\]](https://osu.ppy.sh/beatmapsets/1079392#mania/2258292)**
 
 ### Finals
 
 - FreeMod
-  - [sak respect for Arata Iiyoshi - Reason of being (Night Bunny 7) \[\[Lv.10\] 7K HYPER\]](https://osu.ppy.sh/beatmapsets/791268#mania/1660095)
-  - [D(ABE3) - Maniera (Benzopirene) \[Jinjin's Insane 1.05x \[MP7K Edit\]\]](https://osu.ppy.sh/beatmapsets/1076247#mania/2251959)
-  - [Circle 2 - Gallium Arsenide (Kawawa) \[Ex7ra\]](https://osu.ppy.sh/beatmapsets/812012#mania/1703191)
-  - [AAAA - Accumula Town (BMS copy) (qodtjr) \[Lassitude\]](https://osu.ppy.sh/beatmapsets/988974#mania/2068682)
-  - [Lime - Summerland (Davteezy) \[Lv.08\]](https://osu.ppy.sh/beatmapsets/1076603#mania/2252740)
-  - [FLOWER - Taiyou to Himawari (9eater) \[LN\]](https://osu.ppy.sh/beatmapsets/947426#mania/1978784)
-  - [Sereno - Rainy Summer (CloudHolic) \[Drizzle\]](https://osu.ppy.sh/beatmapsets/418334#mania/905584)
-  - [M2U - Promise (Jinjin) \[Yaksok\]](https://osu.ppy.sh/beatmapsets/399373#mania/869223)
-  - [Semih Demir - All Day (\_underjoy) \[Flexo's MX 1.2x OD8\]](https://osu.ppy.sh/beatmapsets/1076602#mania/2252739)
-  - [Yu_Asahina - Ongaku -resolve- (Kawawa) \[CS' Another\]](https://osu.ppy.sh/beatmapsets/540432#mania/1714592)
-  - [Pon Kichi - Mikuriberi. Suu~itotaimu (_underjoy) \[Lv.08\]](https://osu.ppy.sh/beatmapsets/1076594#mania/2252726)
-  - [ZigZag - Vertex\^2 (\_underjoy) \[Challenge\^2\]](https://osu.ppy.sh/beatmapsets/1076598#mania/2252732)
-  - [Snails & Pegboard Nerds - Deep In The Night (Kamikaze) \[Deceptive\]](https://osu.ppy.sh/beatmapsets/799803#mania/1679130)
+  1. [sak respect for Arata Iiyoshi - Reason of being (Night Bunny 7) \[\[Lv.10\] 7K HYPER\]](https://osu.ppy.sh/beatmapsets/791268#mania/1660095)
+  2. [D(ABE3) - Maniera (Benzopirene) \[Jinjin's Insane 1.05x \[MP7K Edit\]\]](https://osu.ppy.sh/beatmapsets/1076247#mania/2251959)
+  3. [Circle 2 - Gallium Arsenide (Kawawa) \[Ex7ra\]](https://osu.ppy.sh/beatmapsets/812012#mania/1703191)
+  4. [AAAA - Accumula Town (BMS copy) (qodtjr) \[Lassitude\]](https://osu.ppy.sh/beatmapsets/988974#mania/2068682)
+  5. [Lime - Summerland (Davteezy) \[Lv.08\]](https://osu.ppy.sh/beatmapsets/1076603#mania/2252740)
+  6. [FLOWER - Taiyou to Himawari (9eater) \[LN\]](https://osu.ppy.sh/beatmapsets/947426#mania/1978784)
+  7. [Sereno - Rainy Summer (CloudHolic) \[Drizzle\]](https://osu.ppy.sh/beatmapsets/418334#mania/905584)
+  8. [M2U - Promise (Jinjin) \[Yaksok\]](https://osu.ppy.sh/beatmapsets/399373#mania/869223)
+  9. [Semih Demir - All Day (\_underjoy) \[Flexo's MX 1.2x OD8\]](https://osu.ppy.sh/beatmapsets/1076602#mania/2252739)
+  10. [Yu_Asahina - Ongaku -resolve- (Kawawa) \[CS' Another\]](https://osu.ppy.sh/beatmapsets/540432#mania/1714592)
+  11. [Pon Kichi - Mikuriberi. Suu~itotaimu (_underjoy) \[Lv.08\]](https://osu.ppy.sh/beatmapsets/1076594#mania/2252726)
+  12. [ZigZag - Vertex\^2 (\_underjoy) \[Challenge\^2\]](https://osu.ppy.sh/beatmapsets/1076598#mania/2252732)
+  13. [Snails & Pegboard Nerds - Deep In The Night (Kamikaze) \[Deceptive\]](https://osu.ppy.sh/beatmapsets/799803#mania/1679130)
 - Tiebreaker
-  - **[aaaa - Bokutachi no Tabi to Epilogue.\[Long ver.\] (ArcherLove) \[Caramel\]](https://osu.ppy.sh/beatmapsets/488559#mania/1041584)**
+  1. **[aaaa - Bokutachi no Tabi to Epilogue.\[Long ver.\] (ArcherLove) \[Caramel\]](https://osu.ppy.sh/beatmapsets/488559#mania/1041584)**
 
 ### Semifinals
 
 - FreeMod
-  - [himmeltengoku - Whisper of Rose (KawaEE) \[Another (MP7K Edit)\]](https://osu.ppy.sh/beatmapsets/1073068#mania/2245733)
-  - [Uetsu Shi - Tenkuu no Shiro Verieru (Blocko) \[Another\]](https://osu.ppy.sh/beatmapsets/919893#mania/1921178)
-  - [MiddleIsland - Achromat (iJinJin) \[Blocko's 7K Insane\]](https://osu.ppy.sh/beatmapsets/195940#mania/534336)
-  - [nora2r - New World (Kamikaze) \[Blocko's Another (MP7K Edit)\]](https://osu.ppy.sh/beatmapsets/1073064#mania/2245729)
-  - [Feryquitous - Vend (SitekX) \[SitekX's BMS Lv.04\]](https://osu.ppy.sh/beatmapsets/939954#mania/2246206)
-  - [aaaa - Machi (Kim\_GodSSI) \[Piano\]](https://osu.ppy.sh/beatmapsets/675949#mania/1429789)
-  - [Shinigiwa Satellite - Sougen St. Elmo (Devil Sessions ver.) (Flexo123) \[MX\]](https://osu.ppy.sh/beatmapsets/820832#mania/1720555)
-  - [Brandy - The Festival of Ghost (Benzopirene) \[The Festival of Miss\]](https://osu.ppy.sh/beatmapsets/954412#mania/2245722)
-  - [Cranky vs. MASAKI - ouroboros -twin stroke of the end- (DoNotMess) \[7K Maxus' Hard\]](https://osu.ppy.sh/beatmapsets/845135#mania/1771458)
-  - [Horie Yui - Presenter (PP_Aika) \[Lv.25\]](https://osu.ppy.sh/beatmapsets/542933#mania/1201193)
-  - [Grand Thaw - Aeventyr (\_underjoy) \[Lv.02 (MP7K Edit)\]](https://osu.ppy.sh/beatmapsets/1073070#mania/2245738)
-  - [The Queenstons - The Last Rave In The Depths Of Your Eyes (Cryolien) \[:eyes:\]](https://osu.ppy.sh/beatmapsets/797085#mania/1674043)
-  - [TEMPOREX - Nice Boys (Nivrad00) \[Hard\]](https://osu.ppy.sh/beatmapsets/927168#mania/1936515)
+  1. [himmeltengoku - Whisper of Rose (KawaEE) \[Another (MP7K Edit)\]](https://osu.ppy.sh/beatmapsets/1073068#mania/2245733)
+  2. [Uetsu Shi - Tenkuu no Shiro Verieru (Blocko) \[Another\]](https://osu.ppy.sh/beatmapsets/919893#mania/1921178)
+  3. [MiddleIsland - Achromat (iJinJin) \[Blocko's 7K Insane\]](https://osu.ppy.sh/beatmapsets/195940#mania/534336)
+  4. [nora2r - New World (Kamikaze) \[Blocko's Another (MP7K Edit)\]](https://osu.ppy.sh/beatmapsets/1073064#mania/2245729)
+  5. [Feryquitous - Vend (SitekX) \[SitekX's BMS Lv.04\]](https://osu.ppy.sh/beatmapsets/939954#mania/2246206)
+  6. [aaaa - Machi (Kim\_GodSSI) \[Piano\]](https://osu.ppy.sh/beatmapsets/675949#mania/1429789)
+  7. [Shinigiwa Satellite - Sougen St. Elmo (Devil Sessions ver.) (Flexo123) \[MX\]](https://osu.ppy.sh/beatmapsets/820832#mania/1720555)
+  8. [Brandy - The Festival of Ghost (Benzopirene) \[The Festival of Miss\]](https://osu.ppy.sh/beatmapsets/954412#mania/2245722)
+  9. [Cranky vs. MASAKI - ouroboros -twin stroke of the end- (DoNotMess) \[7K Maxus' Hard\]](https://osu.ppy.sh/beatmapsets/845135#mania/1771458)
+  10. [Horie Yui - Presenter (PP_Aika) \[Lv.25\]](https://osu.ppy.sh/beatmapsets/542933#mania/1201193)
+  11. [Grand Thaw - Aeventyr (\_underjoy) \[Lv.02 (MP7K Edit)\]](https://osu.ppy.sh/beatmapsets/1073070#mania/2245738)
+  12. [The Queenstons - The Last Rave In The Depths Of Your Eyes (Cryolien) \[:eyes:\]](https://osu.ppy.sh/beatmapsets/797085#mania/1674043)
+  13. [TEMPOREX - Nice Boys (Nivrad00) \[Hard\]](https://osu.ppy.sh/beatmapsets/927168#mania/1936515)
 - Tiebreaker
-  - **[bbn - Identic Conflict (pporse) \[Birdcage\]](https://osu.ppy.sh/beatmapsets/246853#mania/568463)**
+  1. **[bbn - Identic Conflict (pporse) \[Birdcage\]](https://osu.ppy.sh/beatmapsets/246853#mania/568463)**
 
 ### Quarterfinals
 
 - FreeMod
-  - [Kiritani Hana,Haruka Sora,Kotorii Yuuka,Kamishiro Misaki - Noraneko Heart (shionelove) \[(MP7K) 7K Another\]](https://osu.ppy.sh/beatmapsets/1069922#mania/2239626)
-  - [Team Grimoire vs. Laur - Grievous Lady (Madoka2574) \[Hard (7K ver.)\]](https://osu.ppy.sh/beatmapsets/1043693#mania/2188834)
-  - [Aqours - Yuki wa Doko ni? Kimi no Mune ni! (arcwinolivirus) \[7K Expert\]](https://osu.ppy.sh/beatmapsets/682351#mania/1612208)
-  - [Remixed by xac - Programmed Sun (xac Antarctic Ocean mix) (Simple_Star) \[7K lv.23 (MP7K Edit)\]](https://osu.ppy.sh/beatmapsets/1069929#mania/2239634)
-  - [Yuki Kajiura - Himeboshi (\_underjoy) \[Reverie\]](https://osu.ppy.sh/beatmapsets/1069926#mania/2239631)
-  - [BilliumMoto - walking to school trippin (Lenfried-) \[advanced\]](https://osu.ppy.sh/beatmapsets/989246#mania/2144347)
-  - [ESTi - Invisible Utopia (ArcherLove) \[Sulit \[HD\]\]](https://osu.ppy.sh/beatmapsets/570960#mania/1210125)
-  - [MikitoP feat.Matsushita - Kunoichi demo Koi ga Shitai (Kyousuke-) \[Luckman's Another\]](https://osu.ppy.sh/beatmapsets/337127#mania/761407)
-  - [Frums - Pictured as Perfect (Night Bunny 7) \[\[Lv.10\] 7K ANOTHER\]](https://osu.ppy.sh/beatmapsets/1048245#mania/2191068)
-  - [ZigZag - VerTex (\_underjoy) \[Challenge\]](https://osu.ppy.sh/beatmapsets/1069924#mania/2239628)
-  - [not - Scatter Brain (Hydria) \[Confusion\]](https://osu.ppy.sh/beatmapsets/919861#mania/1921124)
+  1. [Kiritani Hana,Haruka Sora,Kotorii Yuuka,Kamishiro Misaki - Noraneko Heart (shionelove) \[(MP7K) 7K Another\]](https://osu.ppy.sh/beatmapsets/1069922#mania/2239626)
+  2. [Team Grimoire vs. Laur - Grievous Lady (Madoka2574) \[Hard (7K ver.)\]](https://osu.ppy.sh/beatmapsets/1043693#mania/2188834)
+  3. [Aqours - Yuki wa Doko ni? Kimi no Mune ni! (arcwinolivirus) \[7K Expert\]](https://osu.ppy.sh/beatmapsets/682351#mania/1612208)
+  4. [Remixed by xac - Programmed Sun (xac Antarctic Ocean mix) (Simple_Star) \[7K lv.23 (MP7K Edit)\]](https://osu.ppy.sh/beatmapsets/1069929#mania/2239634)
+  5. [Yuki Kajiura - Himeboshi (\_underjoy) \[Reverie\]](https://osu.ppy.sh/beatmapsets/1069926#mania/2239631)
+  6. [BilliumMoto - walking to school trippin (Lenfried-) \[advanced\]](https://osu.ppy.sh/beatmapsets/989246#mania/2144347)
+  7. [ESTi - Invisible Utopia (ArcherLove) \[Sulit \[HD\]\]](https://osu.ppy.sh/beatmapsets/570960#mania/1210125)
+  8. [MikitoP feat.Matsushita - Kunoichi demo Koi ga Shitai (Kyousuke-) \[Luckman's Another\]](https://osu.ppy.sh/beatmapsets/337127#mania/761407)
+  9. [Frums - Pictured as Perfect (Night Bunny 7) \[\[Lv.10\] 7K ANOTHER\]](https://osu.ppy.sh/beatmapsets/1048245#mania/2191068)
+  10. [ZigZag - VerTex (\_underjoy) \[Challenge\]](https://osu.ppy.sh/beatmapsets/1069924#mania/2239628)
+  11. [not - Scatter Brain (Hydria) \[Confusion\]](https://osu.ppy.sh/beatmapsets/919861#mania/1921124)
 - Tiebreaker
-  - **[Soleily - Renatus (Fullerene-) \[LordRaika's 7K Insane\]](https://osu.ppy.sh/beatmapsets/235827#mania/546993)**
+  1. **[Soleily - Renatus (Fullerene-) \[LordRaika's 7K Insane\]](https://osu.ppy.sh/beatmapsets/235827#mania/546993)**
 
 ### Round of 16
 
 - FreeMod
-  - [Kozato - Tsuki -Yue- (Kawawa) \[Hyper\]](https://osu.ppy.sh/beatmapsets/248504#mania/571519)
-  - [w tre respect for AT&HU - Schur's Theorem (Nivrad00) \[Hyper\]](https://osu.ppy.sh/beatmapsets/258553#mania/1052329)
-  - [HoneyComeBear - IDOL (SakuraSarasara) \[Another\]](https://osu.ppy.sh/beatmapsets/1014238#mania/2122705)
-  - [DJ Okawari - Flower Dance (Level 51) \[Spiraling Blossoms\]](https://osu.ppy.sh/beatmapsets/502745#mania/1069879)
-  - [Auriplane - Ending \~ Main Theme (Lenfried-) \[Joy\]](https://osu.ppy.sh/beatmapsets/692929#mania/1466254)
-  - [HoneyWorks - Kikoemasu ka feat. Haruki \<Youshouki\> (CV: Koinu) (SurfChu85) \[Lenfried's Hard\]](https://osu.ppy.sh/beatmapsets/717277#mania/1619295)
-  - [Primastella - Koigokoro (underjoy) \[Odori\]](https://osu.ppy.sh/beatmapsets/1008400#mania/2233964)
-  - [Chito (CV: Minase Inori), Yuuri (CV: Kubo Yurika) - Ugoku, Ugoku (wtfamidoing) \[Hard\]](https://osu.ppy.sh/beatmapsets/829026#mania/1736919)
-  - [B.S.E. (Backbone Sebone Ensemble) - volcanator (\_underjoy) \[Swingoclasm\]](https://osu.ppy.sh/beatmapsets/1067017#mania/2233968)
-  - [Moe Shop - <3 (Toaph Daddy) \[Soul\]](https://osu.ppy.sh/beatmapsets/780975#mania/1640374)
-  - [MYTK - fly (\_underjoy) \[soaring\]](https://osu.ppy.sh/beatmapsets/1067016#mania/2233966)
+  1. [Kozato - Tsuki -Yue- (Kawawa) \[Hyper\]](https://osu.ppy.sh/beatmapsets/248504#mania/571519)
+  2. [w tre respect for AT&HU - Schur's Theorem (Nivrad00) \[Hyper\]](https://osu.ppy.sh/beatmapsets/258553#mania/1052329)
+  3. [HoneyComeBear - IDOL (SakuraSarasara) \[Another\]](https://osu.ppy.sh/beatmapsets/1014238#mania/2122705)
+  4. [DJ Okawari - Flower Dance (Level 51) \[Spiraling Blossoms\]](https://osu.ppy.sh/beatmapsets/502745#mania/1069879)
+  5. [Auriplane - Ending \~ Main Theme (Lenfried-) \[Joy\]](https://osu.ppy.sh/beatmapsets/692929#mania/1466254)
+  6. [HoneyWorks - Kikoemasu ka feat. Haruki \<Youshouki\> (CV: Koinu) (SurfChu85) \[Lenfried's Hard\]](https://osu.ppy.sh/beatmapsets/717277#mania/1619295)
+  7. [Primastella - Koigokoro (underjoy) \[Odori\]](https://osu.ppy.sh/beatmapsets/1008400#mania/2233964)
+  8. [Chito (CV: Minase Inori), Yuuri (CV: Kubo Yurika) - Ugoku, Ugoku (wtfamidoing) \[Hard\]](https://osu.ppy.sh/beatmapsets/829026#mania/1736919)
+  9. [B.S.E. (Backbone Sebone Ensemble) - volcanator (\_underjoy) \[Swingoclasm\]](https://osu.ppy.sh/beatmapsets/1067017#mania/2233968)
+  10. [Moe Shop - <3 (Toaph Daddy) \[Soul\]](https://osu.ppy.sh/beatmapsets/780975#mania/1640374)
+  11. [MYTK - fly (\_underjoy) \[soaring\]](https://osu.ppy.sh/beatmapsets/1067016#mania/2233966)
 - Tiebreaker
-  - **[GameChops & VOIA - Voia's Medley (Undertale Remix) (jakads) \[DETERMINATION\]](https://osu.ppy.sh/beatmapsets/436734#mania/940615)**
+  1. **[GameChops & VOIA - Voia's Medley (Undertale Remix) (jakads) \[DETERMINATION\]](https://osu.ppy.sh/beatmapsets/436734#mania/940615)**
 
 ### Group stage
 
 - FreeMod
-  - [SHK - Snow Country (capsafangirl) \[u-ro-sang-seol\]](https://osu.ppy.sh/beatmapsets/1039800#mania/2173442)
-  - [gmtn. (witch's slave) - Daraku no Sono (stryver12) \[Injury (Hyper)\]](https://osu.ppy.sh/beatmapsets/451983#mania/969551)
-  - [Jonas Blue - Mama ft. William Singe (Nysrogh) \[7K Hard\]](https://osu.ppy.sh/beatmapsets/639660#mania/1364569)
-  - [Kyary Pamyu Pamyu - HARAJUKU IYAHOI (ArcherLove) \[Biasa \[NM\]\]](https://osu.ppy.sh/beatmapsets/570407#mania/1209098)
-  - [Hanatan - C (dkingo) \[7K Dream\]](https://osu.ppy.sh/beatmapsets/654787#mania/1387839)
-  - [MitiS & MaHi - Blu (Speed Up Ver.) (Ashasaki) \[Usagi's 7K HD\]](https://osu.ppy.sh/beatmapsets/261911#mania/666013)
-  - [xi - Death Piano (nowsmart) \[Lv.20\]](https://osu.ppy.sh/beatmapsets/337156#mania/755329)
-  - [she - 1997 (Benzopirene) \[stardust\]](https://osu.ppy.sh/beatmapsets/983255#mania/2227825)
-  - [Van Damme - Computer Graphics Demonstration Tape (Hydria) \[Kami's Seven Keys Scroll Velocity Tech Demo\]](https://osu.ppy.sh/beatmapsets/641196#mania/1593734)
+  1. [SHK - Snow Country (capsafangirl) \[u-ro-sang-seol\]](https://osu.ppy.sh/beatmapsets/1039800#mania/2173442)
+  2. [gmtn. (witch's slave) - Daraku no Sono (stryver12) \[Injury (Hyper)\]](https://osu.ppy.sh/beatmapsets/451983#mania/969551)
+  3. [Jonas Blue - Mama ft. William Singe (Nysrogh) \[7K Hard\]](https://osu.ppy.sh/beatmapsets/639660#mania/1364569)
+  4. [Kyary Pamyu Pamyu - HARAJUKU IYAHOI (ArcherLove) \[Biasa \[NM\]\]](https://osu.ppy.sh/beatmapsets/570407#mania/1209098)
+  5. [Hanatan - C (dkingo) \[7K Dream\]](https://osu.ppy.sh/beatmapsets/654787#mania/1387839)
+  6. [MitiS & MaHi - Blu (Speed Up Ver.) (Ashasaki) \[Usagi's 7K HD\]](https://osu.ppy.sh/beatmapsets/261911#mania/666013)
+  7. [xi - Death Piano (nowsmart) \[Lv.20\]](https://osu.ppy.sh/beatmapsets/337156#mania/755329)
+  8. [she - 1997 (Benzopirene) \[stardust\]](https://osu.ppy.sh/beatmapsets/983255#mania/2227825)
+  9. [Van Damme - Computer Graphics Demonstration Tape (Hydria) \[Kami's Seven Keys Scroll Velocity Tech Demo\]](https://osu.ppy.sh/beatmapsets/641196#mania/1593734)
 - Tiebreaker
-  - **[Hideyuki Fukasawa - kengen/great three (richardfeder) \[Hard\]](https://osu.ppy.sh/beatmapsets/365716#mania/1188785)**
+  1. **[Hideyuki Fukasawa - kengen/great three (richardfeder) \[Hard\]](https://osu.ppy.sh/beatmapsets/365716#mania/1188785)**
 
 ### Qualifiers
 
 - FreeMod
-  - [onumi - NOSTALGIA (SitekX) \[Stage 1: Memories\]](https://osu.ppy.sh/beatmapsets/1060146#mania/2219792)
-  - [tieff - Sunflower (SitekX) \[Stage 2: Pride\]](https://osu.ppy.sh/beatmapsets/1060147#mania/2219795)
-  - [OtoChi2 - Big Fish (Benzopirene) \[Stage 3: Balance\]](https://osu.ppy.sh/beatmapsets/1060141#mania/2219785)
-  - [Re:gats& - No Prayer (Benzopirene) \[Stage 4: Aptitude\]](https://osu.ppy.sh/beatmapsets/1060140#mania/2219784)
+  1. [onumi - NOSTALGIA (SitekX) \[Stage 1: Memories\]](https://osu.ppy.sh/beatmapsets/1060146#mania/2219792)
+  2. [tieff - Sunflower (SitekX) \[Stage 2: Pride\]](https://osu.ppy.sh/beatmapsets/1060147#mania/2219795)
+  3. [OtoChi2 - Big Fish (Benzopirene) \[Stage 3: Balance\]](https://osu.ppy.sh/beatmapsets/1060141#mania/2219785)
+  4. [Re:gats& - No Prayer (Benzopirene) \[Stage 4: Aptitude\]](https://osu.ppy.sh/beatmapsets/1060140#mania/2219784)
 
 ## Match results
 
@@ -207,13 +207,13 @@ Friday, 20 December 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Kamikaze** ![][flag_PL] | **7** | 5 | ![][flag_PL] -Karen-chan- | [#1](https://osu.ppy.sh/community/matches/57116673) |
+| **Kamikaze** ::{ flag=PL }:: | **7** | 5 | ::{ flag=PL }:: -Karen-chan- | [#1](https://osu.ppy.sh/community/matches/57116673) |
 
 Saturday, 21 December 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **- gero -** ![][flag_PL] | **7** | 4 | ![][flag_PL] Kamikaze | [#1](https://osu.ppy.sh/community/matches/57141582) |
+| **- gero -** ::{ flag=PL }:: | **7** | 4 | ::{ flag=PL }:: Kamikaze | [#1](https://osu.ppy.sh/community/matches/57141582) |
 
 ### Finals
 
@@ -221,15 +221,15 @@ Friday, 13 December 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Tidek ![][flag_PL] | 1 | **6** | ![][flag_PL] **capsafangirl** | [#1](https://osu.ppy.sh/community/matches/56937190) |
-| -Maus- ![][flag_PL] | 3 | **6** | ![][flag_PL] **-Karen-chan-** | [#1](https://osu.ppy.sh/community/matches/56944803) |
+| Tidek ::{ flag=PL }:: | 1 | **6** | ::{ flag=PL }:: **capsafangirl** | [#1](https://osu.ppy.sh/community/matches/56937190) |
+| -Maus- ::{ flag=PL }:: | 3 | **6** | ::{ flag=PL }:: **-Karen-chan-** | [#1](https://osu.ppy.sh/community/matches/56944803) |
 
 Saturday, 14 December 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| capsafangirl ![][flag_PL] | 1 | **6** | ![][flag_PL] **-Karen-chan-** | [#1](https://osu.ppy.sh/community/matches/56964079) |
-| **- gero -** ![][flag_PL] | **6** | 0 | ![][flag_PL] Kamikaze | *win by default* |
+| capsafangirl ::{ flag=PL }:: | 1 | **6** | ::{ flag=PL }:: **-Karen-chan-** | [#1](https://osu.ppy.sh/community/matches/56964079) |
+| **- gero -** ::{ flag=PL }:: | **6** | 0 | ::{ flag=PL }:: Kamikaze | *win by default* |
 
 ### Semifinals
 
@@ -237,24 +237,24 @@ Friday, 6 December 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **EWGF** ![][flag_PL] | **6** | 2 | ![][flag_PL] TheFalek | [#1](https://osu.ppy.sh/community/matches/56773055) |
-| -Maus- ![][flag_PL] | 1 | **6** | ![][flag_PL] **Kamikaze** | [#1](https://osu.ppy.sh/community/matches/56778270) |
+| **EWGF** ::{ flag=PL }:: | **6** | 2 | ::{ flag=PL }:: TheFalek | [#1](https://osu.ppy.sh/community/matches/56773055) |
+| -Maus- ::{ flag=PL }:: | 1 | **6** | ::{ flag=PL }:: **Kamikaze** | [#1](https://osu.ppy.sh/community/matches/56778270) |
 
 Saturday, 7 December 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **-Karen-chan-** ![][flag_PL] | **6** | 0 | ![][flag_PL] Alicejoy | [#1](https://osu.ppy.sh/community/matches/56799276) |
-| Jakub Janda ![][flag_PL] | 0 | **6** | ![][flag_PL] **capsafangirl** | [#1](https://osu.ppy.sh/community/matches/56803003) |
+| **-Karen-chan-** ::{ flag=PL }:: | **6** | 0 | ::{ flag=PL }:: Alicejoy | [#1](https://osu.ppy.sh/community/matches/56799276) |
+| Jakub Janda ::{ flag=PL }:: | 0 | **6** | ::{ flag=PL }:: **capsafangirl** | [#1](https://osu.ppy.sh/community/matches/56803003) |
 
 Sunday, 8 December 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **PanzerRaymanPL** ![][flag_PL] | **6** | 0 | ![][flag_PL] Yamakazi | [#1](https://osu.ppy.sh/community/matches/N/A) |
-| EWGF ![][flag_PL] | 1 | **6** | ![][flag_PL] **-Karen-chan-** | [#1](https://osu.ppy.sh/community/matches/56827271) |
-| PanzerRaymanPL ![][flag_PL] | 3 | **6** | ![][flag_PL] **capsafangirl** | [#1](https://osu.ppy.sh/community/matches/56828607) |
-| **- gero -** ![][flag_PL] | **6** | 1 | ![][flag_PL] Tidek | [#1](https://osu.ppy.sh/community/matches/56834937) |
+| **PanzerRaymanPL** ::{ flag=PL }:: | **6** | 0 | ::{ flag=PL }:: Yamakazi | [#1](https://osu.ppy.sh/community/matches/N/A) |
+| EWGF ::{ flag=PL }:: | 1 | **6** | ::{ flag=PL }:: **-Karen-chan-** | [#1](https://osu.ppy.sh/community/matches/56827271) |
+| PanzerRaymanPL ::{ flag=PL }:: | 3 | **6** | ::{ flag=PL }:: **capsafangirl** | [#1](https://osu.ppy.sh/community/matches/56828607) |
+| **- gero -** ::{ flag=PL }:: | **6** | 1 | ::{ flag=PL }:: Tidek | [#1](https://osu.ppy.sh/community/matches/56834937) |
 
 ### Quarterfinals
 
@@ -262,24 +262,24 @@ Friday, 29 November 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Kamikaze** ![][flag_PL] | **5** | 4 | ![][flag_PL] PanzerRaymanPL | [#1](https://osu.ppy.sh/community/matches/56611479) |
+| **Kamikaze** ::{ flag=PL }:: | **5** | 4 | ::{ flag=PL }:: PanzerRaymanPL | [#1](https://osu.ppy.sh/community/matches/56611479) |
 
 Saturday, 20 November 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **- gero -** ![][flag_PL] | **5** | 4 | ![][flag_PL] -Karen-chan- | [#1](https://osu.ppy.sh/community/matches/56626557) |
-| **Yamakazi** ![][flag_PL] | **5** | 1 | ![][flag_PL] Miq | [#1](https://osu.ppy.sh/community/matches/56631049) |
-| **Tidek** ![][flag_PL] | **5** | 0 | ![][flag_PL] EWGF | [#1](https://osu.ppy.sh/community/matches/56641343) |
-| Jakub Janda ![][flag_PL] | 0 | **5** | ![][flag_PL] **-Maus-** | [#1](https://osu.ppy.sh/community/matches/56644863) |
+| **- gero -** ::{ flag=PL }:: | **5** | 4 | ::{ flag=PL }:: -Karen-chan- | [#1](https://osu.ppy.sh/community/matches/56626557) |
+| **Yamakazi** ::{ flag=PL }:: | **5** | 1 | ::{ flag=PL }:: Miq | [#1](https://osu.ppy.sh/community/matches/56631049) |
+| **Tidek** ::{ flag=PL }:: | **5** | 0 | ::{ flag=PL }:: EWGF | [#1](https://osu.ppy.sh/community/matches/56641343) |
+| Jakub Janda ::{ flag=PL }:: | 0 | **5** | ::{ flag=PL }:: **-Maus-** | [#1](https://osu.ppy.sh/community/matches/56644863) |
 
 Sunday, 1 December 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **capsafangirl** ![][flag_PL] | **5** | 2 | ![][flag_PL] Justin14p | [#1](https://osu.ppy.sh/community/matches/56670651) |
-| AgregaTxD ![][flag_PL] | 0 | **5** | ![][flag_PL] **TheFalek** | [#1](https://osu.ppy.sh/community/matches/56665243) |
-| **Alicejoy** ![][flag_PL] | **5** | 3 | ![][flag_PL] Lorwick | [#1](https://osu.ppy.sh/community/matches/56666447) |
+| **capsafangirl** ::{ flag=PL }:: | **5** | 2 | ::{ flag=PL }:: Justin14p | [#1](https://osu.ppy.sh/community/matches/56670651) |
+| AgregaTxD ::{ flag=PL }:: | 0 | **5** | ::{ flag=PL }:: **TheFalek** | [#1](https://osu.ppy.sh/community/matches/56665243) |
+| **Alicejoy** ::{ flag=PL }:: | **5** | 3 | ::{ flag=PL }:: Lorwick | [#1](https://osu.ppy.sh/community/matches/56666447) |
 
 ### Round of 16
 
@@ -287,24 +287,24 @@ Thursday, 21 November 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Kamikaze** ![][flag_PL] | **5** | 0 | ![][flag_PL] Alicejoy | [#1](https://osu.ppy.sh/community/matches/56420253) |
-| **Jakub Janda** ![][flag_PL] | **5** | 1 | ![][flag_PL] AgregaTxD | [#1](https://osu.ppy.sh/community/matches/56421685) |
+| **Kamikaze** ::{ flag=PL }:: | **5** | 0 | ::{ flag=PL }:: Alicejoy | [#1](https://osu.ppy.sh/community/matches/56420253) |
+| **Jakub Janda** ::{ flag=PL }:: | **5** | 1 | ::{ flag=PL }:: AgregaTxD | [#1](https://osu.ppy.sh/community/matches/56421685) |
 
 Saturday, 23 November 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **- gero -** ![][flag_PL] | **5** | 1 | ![][flag_PL] Yamakazi | [#1](https://osu.ppy.sh/community/matches/56467373) |
-| **Tidek** ![][flag_PL] | **5** | 1 | ![][flag_PL] capsafangirl | [#1](https://osu.ppy.sh/community/matches/56465847) |
-| **PanzerRaymanPL** ![][flag_PL] | **5** | 1 | ![][flag_PL] Lorwick | [#1](https://osu.ppy.sh/community/matches/56472667) |
-| Miq ![][flag_PL] | 0 | **5** | ![][flag_PL] **-Karen-chan-** | [#1](https://osu.ppy.sh/community/matches/56474694) |
+| **- gero -** ::{ flag=PL }:: | **5** | 1 | ::{ flag=PL }:: Yamakazi | [#1](https://osu.ppy.sh/community/matches/56467373) |
+| **Tidek** ::{ flag=PL }:: | **5** | 1 | ::{ flag=PL }:: capsafangirl | [#1](https://osu.ppy.sh/community/matches/56465847) |
+| **PanzerRaymanPL** ::{ flag=PL }:: | **5** | 1 | ::{ flag=PL }:: Lorwick | [#1](https://osu.ppy.sh/community/matches/56472667) |
+| Miq ::{ flag=PL }:: | 0 | **5** | ::{ flag=PL }:: **-Karen-chan-** | [#1](https://osu.ppy.sh/community/matches/56474694) |
 
 Sunday, 24 November 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **-Maus-** ![][flag_PL] | **5** | 0 | ![][flag_PL] TheFalek | [#1](https://osu.ppy.sh/community/matches/56500157) |
-| **EWGF** ![][flag_PL] | **5** | 1 | ![][flag_PL] Justin14p | [#1](https://osu.ppy.sh/community/matches/56503281) |
+| **-Maus-** ::{ flag=PL }:: | **5** | 0 | ::{ flag=PL }:: TheFalek | [#1](https://osu.ppy.sh/community/matches/56500157) |
+| **EWGF** ::{ flag=PL }:: | **5** | 1 | ::{ flag=PL }:: Justin14p | [#1](https://osu.ppy.sh/community/matches/56503281) |
 
 ### Group stage
 
@@ -312,45 +312,45 @@ Thursday, 14 November 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| -Karen-chan- ![][flag_PL] | 1 | **4** | ![][flag_PL] **Tidek** | [#1](https://osu.ppy.sh/community/matches/56259779) |
+| -Karen-chan- ::{ flag=PL }:: | 1 | **4** | ::{ flag=PL }:: **Tidek** | [#1](https://osu.ppy.sh/community/matches/56259779) |
 
 Friday, 15 November 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **-Karen-chan-** ![][flag_PL] | **4** | 0 | ![][flag_PL] Eclipse- | [#1](https://osu.ppy.sh/community/matches/56283075) |
+| **-Karen-chan-** ::{ flag=PL }:: | **4** | 0 | ::{ flag=PL }:: Eclipse- | [#1](https://osu.ppy.sh/community/matches/56283075) |
 
 Saturday, 16 November 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **PanzerRaymanPL** ![][flag_PL] | **4** | 2 | ![][flag_PL] Alicejoy | [#1](https://osu.ppy.sh/community/matches/56298736) |
-| **Brunwald_1410** ![][flag_PL] | **4** | 2 | ![][flag_PL] Yamakazi | [#1](https://osu.ppy.sh/community/matches/56301272) |
-| **EWGF** ![][flag_PL] | **4** | 1 | ![][flag_PL] jasionnn | [#1](https://osu.ppy.sh/community/matches/56304660) |
-| **Kamikaze** ![][flag_PL] | **4** | 0 | ![][flag_PL] Bobini- | *win by default* |
-| **Lorwick** ![][flag_PL] | **4** | 2 | ![][flag_PL] Doktorek626 | [#1](https://osu.ppy.sh/community/matches/56307590) |
-| Lorwick ![][flag_PL] | 2 | **4** | ![][flag_PL] **-Maus-** | [#1](https://osu.ppy.sh/community/matches/56308924) |
-| **- gero -** ![][flag_PL] | **4** | 0 | ![][flag_PL] PoweR_LendzeR | [#1](https://osu.ppy.sh/community/matches/56310378) |
-| **- gero -** ![][flag_PL] | **4** | 0 | ![][flag_PL] capsafangirl | [#1](https://osu.ppy.sh/community/matches/56311969) |
-| **Jakub Janda** ![][flag_PL] | **4** | 0 | ![][flag_PL] Felix27 | *win by default* |
-| **Jakub Janda** ![][flag_PL] | **4** | 0 | ![][flag_PL] Justin14p | [#1](https://osu.ppy.sh/community/matches/56314551) |
-| **Justin14p** ![][flag_PL] | **4** | 0 | ![][flag_PL] Felix27 | *win by default* |
+| **PanzerRaymanPL** ::{ flag=PL }:: | **4** | 2 | ::{ flag=PL }:: Alicejoy | [#1](https://osu.ppy.sh/community/matches/56298736) |
+| **Brunwald_1410** ::{ flag=PL }:: | **4** | 2 | ::{ flag=PL }:: Yamakazi | [#1](https://osu.ppy.sh/community/matches/56301272) |
+| **EWGF** ::{ flag=PL }:: | **4** | 1 | ::{ flag=PL }:: jasionnn | [#1](https://osu.ppy.sh/community/matches/56304660) |
+| **Kamikaze** ::{ flag=PL }:: | **4** | 0 | ::{ flag=PL }:: Bobini- | *win by default* |
+| **Lorwick** ::{ flag=PL }:: | **4** | 2 | ::{ flag=PL }:: Doktorek626 | [#1](https://osu.ppy.sh/community/matches/56307590) |
+| Lorwick ::{ flag=PL }:: | 2 | **4** | ::{ flag=PL }:: **-Maus-** | [#1](https://osu.ppy.sh/community/matches/56308924) |
+| **- gero -** ::{ flag=PL }:: | **4** | 0 | ::{ flag=PL }:: PoweR_LendzeR | [#1](https://osu.ppy.sh/community/matches/56310378) |
+| **- gero -** ::{ flag=PL }:: | **4** | 0 | ::{ flag=PL }:: capsafangirl | [#1](https://osu.ppy.sh/community/matches/56311969) |
+| **Jakub Janda** ::{ flag=PL }:: | **4** | 0 | ::{ flag=PL }:: Felix27 | *win by default* |
+| **Jakub Janda** ::{ flag=PL }:: | **4** | 0 | ::{ flag=PL }:: Justin14p | [#1](https://osu.ppy.sh/community/matches/56314551) |
+| **Justin14p** ::{ flag=PL }:: | **4** | 0 | ::{ flag=PL }:: Felix27 | *win by default* |
 
 Sunday, 17 November 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **PanzerRaymanPL** ![][flag_PL] | **4** | 1 | ![][flag_PL] xROCKETx | [#1](https://osu.ppy.sh/community/matches/56329960) |
-| **Alicejoy** ![][flag_PL] | **4** | 3 | ![][flag_PL] xROCKETx | [#1](https://osu.ppy.sh/community/matches/56330729) |
-| Brunwald_1410 ![][flag_PL] | 0 | **4** | ![][flag_PL] **Miq** | *win by default* |
-| Miq ![][flag_PL] | 3 | **4** | ![][flag_PL] **Yamakazi** | [#1](https://osu.ppy.sh/community/matches/56332431) |
-| **-Maus-** ![][flag_PL] | **4** | 1 | ![][flag_PL] Doktorek626 | [#1](https://osu.ppy.sh/community/matches/56339116) |
-| **EWGF** ![][flag_PL] | **4** | 1 | ![][flag_PL] AgregaTxD | [#1](https://osu.ppy.sh/community/matches/56339376) |
-| jasionnn ![][flag_PL] | 2 | **4** | ![][flag_PL] **AgregaTxD** | [#1](https://osu.ppy.sh/community/matches/56337840) |
-| **Tidek** ![][flag_PL] | **4** | 0 | ![][flag_PL] Eclipse- | [#1](https://osu.ppy.sh/community/matches/56335633) |
-| **Kamikaze** ![][flag_PL] | **4** | 1 | ![][flag_PL] TheFalek | [#1](https://osu.ppy.sh/community/matches/56333440) |
-| **TheFalek** ![][flag_PL] | **4** | 0 | ![][flag_PL] Bobini- | *win by default* |
-| PoweR_LendzeR ![][flag_PL] | 0 | **4** | ![][flag_PL] **capsafangirl** | *win by default* |
+| **PanzerRaymanPL** ::{ flag=PL }:: | **4** | 1 | ::{ flag=PL }:: xROCKETx | [#1](https://osu.ppy.sh/community/matches/56329960) |
+| **Alicejoy** ::{ flag=PL }:: | **4** | 3 | ::{ flag=PL }:: xROCKETx | [#1](https://osu.ppy.sh/community/matches/56330729) |
+| Brunwald_1410 ::{ flag=PL }:: | 0 | **4** | ::{ flag=PL }:: **Miq** | *win by default* |
+| Miq ::{ flag=PL }:: | 3 | **4** | ::{ flag=PL }:: **Yamakazi** | [#1](https://osu.ppy.sh/community/matches/56332431) |
+| **-Maus-** ::{ flag=PL }:: | **4** | 1 | ::{ flag=PL }:: Doktorek626 | [#1](https://osu.ppy.sh/community/matches/56339116) |
+| **EWGF** ::{ flag=PL }:: | **4** | 1 | ::{ flag=PL }:: AgregaTxD | [#1](https://osu.ppy.sh/community/matches/56339376) |
+| jasionnn ::{ flag=PL }:: | 2 | **4** | ::{ flag=PL }:: **AgregaTxD** | [#1](https://osu.ppy.sh/community/matches/56337840) |
+| **Tidek** ::{ flag=PL }:: | **4** | 0 | ::{ flag=PL }:: Eclipse- | [#1](https://osu.ppy.sh/community/matches/56335633) |
+| **Kamikaze** ::{ flag=PL }:: | **4** | 1 | ::{ flag=PL }:: TheFalek | [#1](https://osu.ppy.sh/community/matches/56333440) |
+| **TheFalek** ::{ flag=PL }:: | **4** | 0 | ::{ flag=PL }:: Bobini- | *win by default* |
+| PoweR_LendzeR ::{ flag=PL }:: | 0 | **4** | ::{ flag=PL }:: **capsafangirl** | *win by default* |
 
 ### Qualifiers
 
@@ -461,6 +461,3 @@ The results of the Qualifiers can be found in [this spreadsheet](https://docs.go
 - Matches will have a two disconnection limit -- upon the third disconnection, a point will be handed immediately to the player still active within the lobby.
 - A two minute timer will be placed on a disconnected player when the song played has concluded. When this timer hits 0, the grace period mentioned in **Protocol** will be (re)activated. If the grace period timer hits 0, the match is forfeited, and the other remaining player will be declared the winner.
 - Situations with two player disconnections will be executed similarly to two missing players for a given match: the higher seed will be declared the winner if both players have no time left in their grace period.
-
-[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"

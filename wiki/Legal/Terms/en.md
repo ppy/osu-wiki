@@ -8,7 +8,7 @@ Last Updated 8th March 2021. [View history](https://github.com/ppy/osu-wiki/comm
 
 **ppy Pty Ltd** is offering you a service, which is conditioned on your acceptance, without any modification whatsoever to the following terms, conditions, and notices.
 
-By visiting and/or using the services offered by this site ([https://osu.ppy.sh](https://osu.ppy.sh/home)), the osu! game client (as found on [https://osu.ppy.sh/home/download](https://osu.ppy.sh/home/download)) or any affiliated services (henceforth referenced as "**osu!**"), you are acknowledging your full compliance to the terms and conditions listed here.
+By visiting and/or using the services offered by this site (<https://osu.ppy.sh>), the osu! game client (as found on <https://osu.ppy.sh/home/download>) or any affiliated services (henceforth referenced as "**osu!**"), you are acknowledging your full compliance to the terms and conditions listed here.
 
 As a condition of your use of this web site, you warrant that you will not use this web site, or any of the content obtained from this web site, for any purpose that is unlawful or prohibited by these terms.
 
@@ -49,7 +49,7 @@ osu! MAKES NO WARRANTY THAT THE SERVICE WILL MEET YOUR REQUIREMENTS, OR THAT THE
 
 ## LIMITATION OF LIABILITY
 
-IN NO EVENT SHALL osu!, ITS OFFICERS, DIRECTORS, EMPLOYEES, OR AGENTS, BE LIABLE TO YOU FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES WHATSOEVER RESULTING FROM ANY (I) ERRORS, MISTAKES, OR INACCURACIES OF CONTENT, (II) PERSONAL INJURY OR PROPERTY DAMAGE, OF ANY NATURE WHATSOEVER, RESULTING FROM YOUR ACCESS TO AND USE OF OUR WEBSITE, (III) ANY UNAUTHORIZED ACCESS TO OR USE OF OUR SECURE SERVERS AND/OR ANY AND ALL PERSONAL INFORMATION AND/OR FINANCIAL INFORMATION STORED THEREIN, (IV) ANY INTERRUPTION OR CESSATION OF TRANSMISSION TO OR FROM OUR WEBSITE, (V) ANY BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE, WHICH MAY BE TRANSMITTED TO OR THROUGH OUR WEBSITE BY ANY THIRD PARTY, AND/OR (VI) ANY ERRORS OR OMISSIONS IN ANY CONTENT OR FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF YOUR USE OF ANY CONTENT POSTED, EMAILED, TRANSMITTED, OR OTHERWISE MADE AVAILABLE VIA THE osu! WEBSITE, WHETHER BASED ON WARRANTY, CONTRACT, TORT, OR ANY OTHER LEGAL THEORY, AND WHETHER OR NOT THE COMPANY IS ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+IN NO EVENT SHALL osu!, ITS OFFICERS, DIRECTORS, EMPLOYEES, OR AGENTS, BE LIABLE TO YOU FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES WHATSOEVER RESULTING FROM ANY (I) ERRORS, MISTAKES, OR INACCURACIES OF CONTENT, (II) PERSONAL INJURY OR PROPERTY DAMAGE, OF ANY NATURE WHATSOEVER, RESULTING FROM YOUR ACCESS TO AND USE OF OUR WEBSITE, (III) ANY UNAUTHORISED ACCESS TO OR USE OF OUR SECURE SERVERS AND/OR ANY AND ALL PERSONAL INFORMATION AND/OR FINANCIAL INFORMATION STORED THEREIN, (IV) ANY INTERRUPTION OR CESSATION OF TRANSMISSION TO OR FROM OUR WEBSITE, (V) ANY BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE, WHICH MAY BE TRANSMITTED TO OR THROUGH OUR WEBSITE BY ANY THIRD PARTY, AND/OR (VI) ANY ERRORS OR OMISSIONS IN ANY CONTENT OR FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF YOUR USE OF ANY CONTENT POSTED, EMAILED, TRANSMITTED, OR OTHERWISE MADE AVAILABLE VIA THE osu! WEBSITE, WHETHER BASED ON WARRANTY, CONTRACT, TORT, OR ANY OTHER LEGAL THEORY, AND WHETHER OR NOT THE COMPANY IS ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 WHILE THE FOREGOING LIMITATION OF LIABILITY SHALL APPLY TO THE FULLEST EXTENT PERMITTED BY LAW IN THE APPLICABLE JURISDICTION, WHERE CONDITIONS, WARRANTIES OR OTHER RIGHTS ARE IMPLIED IN THIS AGREEMENT OR OTHERWISE CONFERRED BY LAW, AND IT IS NOT LAWFUL OR POSSIBLE TO EXCLUDE THEM, THEN THOSE CONDITIONS, WARRANTIES OR OTHER RIGHTS WILL (BUT ONLY TO THE EXTENT REQUIRED BY LAW) APPLY TO THIS AGREEMENT.
 AT THE OPTION OF osu!, OUR LIABILITY FOR BREACH OF IMPLIED CONDITIONS OR WARRANTIES IS LIMITED, TO THE EXTENT PERMITTED BY LAW TO, IF THE BREACH RELATES TO GOODS, (I) THE REPLACEMENT OF THE GOODS OR THE SUPPLY OF EQUIVALENT GOODS, (II) THE REPAIR OF THE GOODS, (III) THE PAYMENT OF THE COST OF REPLACING THE GOODS OR OF ACQUIRING EQUIVALENT GOODS, OR (IV) THE PAYMENT OF HAVING THE GOODS REPAIRED AND, IF THE BREACH RELATES TO SERVICES, (I) THE SUPPLY OF THE SERVICES AGAIN; OR (II) THE PAYMENT OF THE COST OF HAVING THE SERVICES SUPPLIED AGAIN.
 
@@ -62,7 +62,7 @@ Those who access or use the osu! Website from other jurisdictions do so at their
 ## INDEMNITY
 
 You agree to defend, indemnify and hold harmless osu!, its parent corporation, officers, directors, employees and agents, from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorney's fees) arising from: (i) your use of and access to the osu! Website; (ii) your violation of any term of these Terms of Service; (iii) your violation of any third party right, including without limitation any copyright, property, or privacy right; or (iv) any claim that one of your User Submissions caused damage to a third party.
-This defense and indemnification obligation will survive these Terms of Service and your use of the osu! Website.
+This defence and indemnification obligation will survive these Terms of Service and your use of the osu! Website.
 
 ## YOUR USE OF CONTENT ON THE SITE
 
@@ -72,9 +72,9 @@ You further understand and acknowledge that you may be exposed to User Submissio
 ## USER SUBMISSIONS AND CONTENT REMOVAL
 
 You shall be solely responsible for your own User Submissions and the consequences of posting or publishing them.
-In connection with User Submissions, you affirm, represent, and/or warrant that: you own or have the necessary licenses, rights, consents, and permissions to use and authorize osu! to use all patent, trademark, trade secret, copyright or other proprietary rights in and to any and all User Submissions to enable inclusion and use of the User Submissions in the manner contemplated by the Website and these Terms of Service.
+In connection with User Submissions, you affirm, represent, and/or warrant that: you own or have the necessary licences, rights, consents, and permissions to use and authorise osu! to use all patent, trademark, trade secret, copyright or other proprietary rights in and to any and all User Submissions to enable inclusion and use of the User Submissions in the manner contemplated by the Website and these Terms of Service.
 
-In connection with User Submissions, you further agree that you will not submit material that is copyrighted, protected by trade secret or otherwise subject to third party proprietary rights, including privacy and publicity rights, unless you are the owner of such rights or have permission from their rightful owner to post the material and to grant osu! all of the license rights granted herein.
+In connection with User Submissions, you further agree that you will not submit material that is copyrighted, protected by trade secret or otherwise subject to third party proprietary rights, including privacy and publicity rights, unless you are the owner of such rights or have permission from their rightful owner to post the material and to grant osu! all of the licence rights granted herein.
 
 osu! does not endorse any User Submission or any opinion, recommendation, or advice expressed therein, and osu! expressly disclaims any and all liability in connection with User Submissions.
 osu! does not permit copyright infringing activities and infringement of intellectual property rights on its Website, and osu! will remove all Content and User Submissions if properly notified that such Content or User Submission infringes on another's intellectual property rights.
@@ -108,8 +108,8 @@ If the user decides to participate in the forum, with user's consent, a cookie w
 
 ## PROPRIETARY RIGHTS TO CONTENT
 
-User acknowledges that content, including but not limited to text, software, music, sound, photographs, video, graphics, name references or other material contained in either sponsor advertisements search results, provided to or accessed by User via the Service ("Content") by osu!, is protected by copyrights, trademarks, service marks, patents or other proprietary rights and laws; therefore, User is only permitted to use this Content as expressly authorized by the Service.
-User may not copy, reproduce, distribute, or create derivative works from this Content without expressly being authorized to do so by the Service.
+User acknowledges that content, including but not limited to text, software, music, sound, photographs, video, graphics, name references or other material contained in either sponsor advertisements search results, provided to or accessed by User via the Service ("Content") by osu!, is protected by copyrights, trademarks, service marks, patents or other proprietary rights and laws; therefore, User is only permitted to use this Content as expressly authorised by the Service.
+User may not copy, reproduce, distribute, or create derivative works from this Content without expressly being authorised to do so by the Service.
 
 ## LINKS
 

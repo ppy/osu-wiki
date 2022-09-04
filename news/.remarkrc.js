@@ -1,6 +1,6 @@
-module.exports = {
+export default {
   plugins: [
-    '../.remarkrc',
+    '../.remarkrc.js',
     ['lint-no-html', false],
   ],
 };

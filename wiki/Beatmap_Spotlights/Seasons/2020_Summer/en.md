@@ -26,7 +26,7 @@ tags:
 
 ## Weekly multiplayer lobbies
 
-As of now, joining the weekly multiplayer lobbies requires participants to download and install [osu!lazer](https://github.com/ppy/osu/releases).
+As of now, joining the weekly multiplayer lobbies requires participants to download and install [osu!(lazer)](https://github.com/ppy/osu/releases).
 
 1. Every Friday of a season, a single timeshift multiplayer lobby is opened. Everyone can participate for 3 days.
    - In the final 2 weeks of a season, a timeshift multiplayer lobby for each of the 2 playlists will be opened.
@@ -37,7 +37,7 @@ As of now, joining the weekly multiplayer lobbies requires participants to downl
 3. Within a timeshift lobby, everyone competes towards a room-specific leaderboard.
    - Room leaderboards are based on the ranked score system. Therefore, only the best score results on each beatmap within the playlist are summed up to create a weekly ranked score for each user.
    - Each beatmap of a playlist counts equally to the leaderboard score. Harder difficulties do not provide more score.
-   - Individual beatmap score is based on osu!lazer's scoring system.
+   - Individual beatmap score is based on osu!(lazer)'s scoring system.
 4. The weekly total ranked score visible in the timeshift lobby is called "weekly ranked score" onwards.
 5. Once a timeshift lobby concludes, the weekly ranked score of each participant of the room is added to the seasonal leaderboard.
 

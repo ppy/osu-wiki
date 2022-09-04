@@ -10,7 +10,7 @@ A partir da versão v2.5+, skinners agora são capazes de customizar totalmente 
 
 `mania-hit0.png`
 
-![](img/mania-hit0.png)
+![](/wiki/shared/judgement/osu!mania/mania-hit0.png)
 
 | Versões | Pode ser animado | Modificável em beatmap | Blend Mode | Origem | Tamanho SD sugerido |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -26,7 +26,7 @@ Observações:
 
 `mania-hit50.png`
 
-![](img/mania-hit50.png)
+![](/wiki/shared/judgement/osu!mania/mania-hit50.png)
 
 | Versões | Pode ser animado | Modificável em beatmap | Blend Mode | Origem | Tamanho SD sugerido |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -42,7 +42,7 @@ Observações:
 
 `mania-hit100.png`
 
-![](img/mania-hit100.png)
+![](/wiki/shared/judgement/osu!mania/mania-hit100.png)
 
 | Versões | Pode ser animado | Modificável em beatmap | Blend Mode | Origem | Tamanho SD sugerido |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -58,7 +58,7 @@ Observações:
 
 `mania-hit200.png`
 
-![](img/mania-hit200.png)
+![](/wiki/shared/judgement/osu!mania/mania-hit200.png)
 
 | Versões | Pode ser animado | Modificável em beatmap | Blend Mode | Origem | Tamanho SD sugerido |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -74,7 +74,7 @@ Observações:
 
 `mania-hit300.png`
 
-![](img/mania-hit300.png)
+![](/wiki/shared/judgement/osu!mania/mania-hit300.png)
 
 | Versões | Pode ser animado | Modificável em beatmap | Blend Mode | Origem | Tamanho SD sugerido |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -90,7 +90,7 @@ Observações:
 
 `mania-hit300g.png`
 
-![](img/mania-hit300g.gif)
+![](/wiki/shared/judgement/osu!mania/mania-hit300g.gif)
 
 | Versões | Pode ser animado | Modificável em beatmap | Blend Mode | Origem | Tamanho SD sugerido |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -117,7 +117,7 @@ Observações:
 - Para ter multiplos combobursts, use: `comboburst-mania-{n}.png`.
   - Uma das imagens no conjunto vai aparecer quando um marco de combo for atingido.
 - Estes combobursts são especificamente apenas para o modo osu!mania
-- Pode ser desativado nas [options](/wiki/Options).
+- Pode ser desativado nas [options](/wiki/Client/Options).
 - Ao contrário do modo osu! e osu!catch combobursts, os lados das imagens do conjunto não devem ser cortadas.
 
 ## Receptores
@@ -510,7 +510,7 @@ Observações:
 
 Observações:
 
-- Este elemento é a representação gráfica da judgement line.
+- Este elemento é a representação gráfica da [judgement](/wiki/Gameplay/Judgement) line.
   - A judgement line é desenhada no centro da imagem.
 - Este elemento é desenhado para a largura inteira do stage, não para colunas individuais.
 - Este elemento é esticado para caber na largura do stage (permitindo usar imagens menores).

@@ -6,7 +6,7 @@ tags:
 
 # NAT toplantıları
 
-**NAT toplantıları** [Aday Gösterme Denetleme Takımı](/wiki/People/The_Team/Nomination_Assessment_Team) (*Nomination Assessment Team, NAT*) tarafından [osu!dev Discord sunucusundaki](/wiki/osu!dev_Discord_server) `#modding` kanalında düzenlenen toplantılardır. Toplantı konu başlıkları [mapleme](/wiki/Beatmapping) ve [modlama](/wiki/Modding) ekosistemini ilgilendiren sorunları, potansiyel çözümleri, yeni fikirleri, ve ilerleme raporlarını içerir. Tartışmalara katkıda bulunanların çoğu NAT üyesi ya da [Beatmap Aday Gösterici](/wiki/People/The_Team/Beatmap_Nominators) olsa da, diğer herkes katılabilir.
+**NAT toplantıları** [Aday Gösterme Denetleme Takımı](/wiki/People/The_Team/Nomination_Assessment_Team) (*Nomination Assessment Team, NAT*) tarafından [osu!dev Discord sunucusundaki](/wiki/Community/osu!dev_Discord_server) `#modding` kanalında düzenlenen toplantılardır. Toplantı konu başlıkları [mapleme](/wiki/Beatmapping) ve [modlama](/wiki/Modding) ekosistemini ilgilendiren sorunları, potansiyel çözümleri, yeni fikirleri, ve ilerleme raporlarını içerir. Tartışmalara katkıda bulunanların çoğu NAT üyesi ya da [Beatmap Aday Gösterici](/wiki/People/The_Team/Beatmap_Nominators) olsa da, diğer herkes katılabilir.
 
 Toplantılar genellikle `#modding` kanalında bir hafta önceden duyurulur.
 

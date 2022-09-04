@@ -2,125 +2,181 @@
 
 ## January
 
-A brand new year with additions to the list of [community contributors](/wiki/People/Community_Contributors). Best of 2015 voting opened.
-
-Links:
-
-- [Community Contributor Badges (January 2016)](https://osu.ppy.sh/home/news/2016-01-09-community-contributor-badges-january-2016)
+**The ability to see live previews of a selected skin in the options menu was re-implemented on 28 January 2016 after having been removed two years prior.** The feature was initially removed in 2014 due to an options menu rework [[1,2]][r].
 
 ## February
 
-A sneak peek of the osu!next design was on display in the 46th issue of osu!weekly. peppy blogged various improvements for the game. Most notably, the skin preview in the [options](/wiki/Options) and new skinnable interface sounds were added. The [Best of 2015](/wiki/Contests) results were in with [Panda Eyes & Teminite - Highscore (CiiyusMiapah)](https://osu.ppy.sh/beatmapsets/332532#osu/736215), [cillia - Fairytale, (mintong89)](https://osu.ppy.sh/beatmapsets/275331#taiko/624447), [Halozy - Genryuu Kaiko (Yukina)](https://osu.ppy.sh/beatmapsets/253969#fruits/582801), and [D(ABE3) - MANIERA (Jinjin)](https://osu.ppy.sh/beatmapsets/272871#mania/646681) taking in the most votes for the osu!, osu!taiko, osu!catch, and osu!mania respectively. New items were added to the osu!store; such as: the osu!mug (a coffee mug), the osu!mug with pippi (ditto), and osu!go (a USB thumb drive with osu! pre-installed). Thanks to [LiquidPL](https://osu.ppy.sh/users/5044384), reording of the sections, on the new website, in your profile was now possible.
+**Two new items were added to the osu!store in February: the osu!mug, and the osu!go.** The former was a typical coffee mug with custom osu! designs on it ($15 USD at launch), while the latter was a USB stick preloaded with the osu! client, capable of playing osu! directly out of it ($50 USD at launch) [[6,7]][r].<!--dates missing-->
 
-Links:
+![](img/osu-mug-osu-go.jpg "The chibi pippi osu!mug (left) and the osu!go (right) [[6]][r]")
 
-- [osu!weekly \#46](https://osu.ppy.sh/home/news/2016-02-02-osuweekly-46)
-- [2016-01](https://blog.ppy.sh/post/138642696393/2016-01)
-- [Best of 2015: Results](https://osu.ppy.sh/home/news/2016-02-06-best-of-2015-results)
-- [osu!weekly \#48](https://osu.ppy.sh/home/news/2016-02-16-osuweekly-48)
-- [osu!weekly \#49](https://osu.ppy.sh/home/news/2016-02-23-osuweekly-49)
+**On 13 February 2016, a new rule change that attempted to change the then-current difficulty spread criteria for ranked beatmaps sparked massive backlash from the beatmapping community** [[3]][r].
+
+While much of the response from the community was in disapproval of the new rule change (which attempted to limit the amount of difficulties allowed in a single ranked beatmap), a much larger discussion was started that centred around many users' discontent towards the osu! staff due to what they felt was a lack of transparency and player representation regarding then-recent changes in the BAT (Beatmap Appreciation Team) as well as the creation of the RCC (Ranking Criteria Council) [[3]][r].
+
+A few days after the incident (17 February), [Ephemeral](https://osu.ppy.sh/users/102335) made a post on [peppy's blog](https://blog.ppy.sh) attempting to clarify the matter with a timeline of events leading up to the situation and what the osu! team intended to do to resolve it. With this, it was revealed that many changes were being made with regards to the structure of the BAT, beatmapping in general, and ranking processes with little-to-no prior discussion or explicit approval from the BAT or QAT [[4,5]][r].
+
+Additionally, in response to the backlash from the community, Ephemeral promised that Ranking Criteria changes would be temporarily suspended and that the osu! team would commit to being more transparent in their processes:
+
+> So, going forward, we aim to be entirely transparent with our thought processes leading up to the big decisions that impact everyone in the community.
+>
+> ...
+>
+> It is our hope that by placing the events leading up to the birth of these decisions into the public view, we can work together to find out the best way of moving forward from here, and to make sure that something like this does not happen again.
+>
+> We have suspended all movement in the Ranking Criteria changes for (at very least) the remainder of the week, and will use this time to gather your feedback and our thoughts on how we may best proceed from now on.
+
+—Ephemeral, "Meet Ephemeral!" [[4,5]][r]
+
+## March
+
+**On the very first day of March, Ephemeral created the first in a series of posts on peppy's blog that would become the "Meeting Notes", which served as an attempt to provide more transparency between the osu! team and the community.** In these posts, Ephemeral would summarise the main objectives, ideas, and thoughts the team had towards the future into digestible bullet points. This first post was primarily geared towards improving the team and their communication across the board (with emphasis on beatmapping and modding) [[8]][r].
 
 ## April
 
-The Oculus Rift as a "supported" input method was announced as an 2016 April Fools joke.
+**The modding panel on the new osu! website (new.ppy.sh) was set live for public testing on 11 April 2016**. However, the testing was only available for [Ice - L2 - Ascension : Act 2 (Liberation) (LordRaika)](https://osu.ppy.sh/beatmapsets/123760) and [Camellia - overcomplexification (ProfessionalBox)](https://osu.ppy.sh/beatmapsets/351408). According to [Loctav](https://osu.ppy.sh/users/71366), the main idea of the panel was to split problems into separate posts and then discuss them individually for easier tracking of issues and such as part of the steps towards implementing the long-awaited "Modding V2" [[9]][r].<!--wayback snapshot broken-->
 
-[Maria](/wiki/Maria) joins the stage with [pippi](/wiki/pippi) and [Yuzu](/wiki/Yuzu) as osu!mania's new postergirl. The osu!taiko World Cup 2016 concluded with Japan being victorious against Taiwan.
+**New medal designs were added to osu! on 14 April 2016.** They meant to be more in-line with the "[osu!next](https://osunext.tumblr.com/about)" design philosophy that was used in the new osu! client (codenamed "lazer") and on the new website [[10,11]][r]
 
-Links:
+![](img/new-medal-design-2016.jpg "Medal unlock graphic showcasing the new design that would appear in-game [[12]][r]")
 
-- [Oculus Rift to be Supported as an Input Method (April Fools!)](https://osu.ppy.sh/home/news/2016-04-01-oculus-rift-to-be-supported-as-an-input-method)
-- [Meet Maria - osu!mania's new mascot!](https://osu.ppy.sh/home/news/2016-04-20-meet-maria-osumanias-new-mascot)
-- [osu!weekly \#58 (osu!taiko World Cup 2016 Results!)](https://osu.ppy.sh/home/news/2016-04-27-osuweekly-58-osutaiko-world-cup-2016-results)
+**The first images of osu!mania's official mascot, Maria, were posted for the first time on 20 April 2016.** In celebration of Maria's introduction to the community, a brand new medal named "A meganekko approaches" was added to the game alongside a sprite of Maria being used as a combo burst in osu!mania [[13]][r].
+
+![](img/maria.jpg "Official artwork of Maria in her announcement newspost [[13]][r]")
+
+**The QAT (Quality Assurance Team) and their involvement in the beatmapping and modding processes were significantly changed on 25 April 2016.** The changes made were described by [Loctav](https://osu.ppy.sh/users/71366) in a forum post at the time:
+
+> Going forward, the QAT will no longer be obligated to check every qualified beatmap for quality checks. Instead, they will be reactive in nature, responding to and addressing reports made by members of the community about a map's quality.
+>
+> We want to return the responsibility for mapping quality and content to the community at large, rather than delegating it to a small group of people to enforce. We believe this change will achieve this.
+>
+> ...
+>
+> Going forward, we will also be releasing a Code of Conduct regarding Mapping and Modding affairs. This will ensure that there will be a base level of respect in the talks surrounding these issues, as they have been prone to problems in the past. Ultimately, all parties involved in the ranking/mapping process have the same ultimate goal - to get cool stuff ranked and available for play as quickly as possible with as little issue as possible.
+
+—Loctav, "Changes to the Quality Assurance Team" [[14]][r]
+
+Reception of the community towards this change was overall mostly positive. However, some users did have concerns as to whether or not this change would cause some beatmaps to become ignored without a guaranteed mod by a QAT member [[14]][r].
 
 ## May
 
-The first osu! remix contest begins with the challenge of remixing nekodex's "circles!". From Polygon, Keiichi Yano, one of the leading minds behind games like Elite Beat Agents, has given praise towards osu! for its community that wants to share beatmaps they create. [Aspire](/wiki/Aspire) returns due to overwhelming demand.
+**The very first osu! remix contest began on 6 May 2016.** "osu!remix" was a new contest that challenged participants to make a remix of the song [circles!](https://soundcloud.com/nekodex/circles) by [nekodex](https://osu.ppy.sh/users/102). The grand prize winner (chosen by osu! staff) would have their remix featured in osu! along with $250 USD in osu!store credit, a profile badge, and an official beatmapping contest featuring the remix. The secondary winner (chosen by community vote) would receive $50 USD in osu!store credit. The deadline for the contest was set to be 9 July 2016 (00:00 UTC) [[15]][r].
 
-Links:
-
-- [osu! "circles!" Remix Contest](https://osu.ppy.sh/home/news/2016-05-06-osu-circles-remix-contest)
-- [osu!weekly \#60](https://osu.ppy.sh/home/news/2016-05-11-osuweekly-60)
-- [Aspire Returns (Beatmap Contest)](https://osu.ppy.sh/home/news/2016-05-17-aspire-returns-beatmap-contest)
+**A request for "early bird contributors" was made by [peppy](https://osu.ppy.sh/users/2) on 18 May 2016.** The request specifically asked for individuals with knowledge in [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) 6.0 and enough free time and willingness to help clean up and refactor large areas of the new osu! client's codebase [[16]][r]. peppy also later asked for "reinforcements" in the form of additional contributors familiar with [Laravel](https://en.wikipedia.org/wiki/Laravel) and [React](https://en.wikipedia.org/wiki/React_(JavaScript_library)) [[17]][r].
 
 ## June
 
-Mapping With Rewards \#1, announced in the previous year, has finally been concluded. osu!idol 2016 opened. peppy announced osu!lazer, the soon-to-be successor of the current osu! client.
+**After nine months, the results for the first [Mapping With Rewards](https://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015) contest were released on 1 June 2016.** There were three winners chosen in the contest — one for each song: [monstrata](https://osu.ppy.sh/users/2706438) (won [Manic](https://osu.ppy.sh/beatmapsets/361175#osu/793620)), [alacat](https://osu.ppy.sh/users/869782#osu) (won [House With Legs](https://osu.ppy.sh/beatmapsets/360680#osu/793357)), [Guy](https://osu.ppy.sh/users/91738) (won [Dovregubben's Hall](https://osu.ppy.sh/beatmapsets/360950#osu/793190)). In addition to having their beatmaps bundled into the osu! installer, they also each received $50 USD in osu!store credit, and a unique profile badge as a prize [[18]][r].
 
-Links:
-
-- [Mapping With Rewards #1 - Bounties Complete!](https://osu.ppy.sh/home/news/2016-06-01-mapping-with-rewards-1-bounties-complete)
-- [osu!idol 2016 - Registrations open!](https://osu.ppy.sh/home/news/2016-06-03-osuidol-2016-registrations-open)
-- [a long-overdue update – ppy blog](https://blog.ppy.sh/post/146687255823/a-long-overdue-update)
+**The osu!dev Discord server was released to the public on 9 June 2016.** As announced on Twitter, the purpose of the server was to replace the public Slack team that was previously in place due to its lack of moderation controls. Anyone with the link to the Discord server would be able to join and follow along with osu! development, although they would not be able to speak in text channels unless specifically given access to by a moderator [[19,20]][r].
 
 ## July
 
-[Aspire](/wiki/Aspire) 2 concluded with [Monstrata](https://osu.ppy.sh/users/2706438) as the Aspirant. osu! remix contest voting opened, together with the osu!taiko design contest.
+**A new contest challenging the community to create a new osu!taiko mascot design that would replace pippidon, the old mascot, was announced and began on 18 July 2016.** The winner of the contest would have their design formally accepted as the official osu!taiko mascot, receive an **osu!artist** user title, 12 months of osu!supporter, and $50 USD in osu!store credit. The set deadline for entries was 16 August 2016 (00:00 UTC) [[21]][r].
 
-Links:
-
-- [Aspire 2 Concludes: Winners Announced](https://osu.ppy.sh/home/news/2016-07-23-aspire-2-concludes-winners-announced)
-- [osu! mascot design contest](https://osu.ppy.sh/home/news/2016-07-18-osu-mascot-design-contest)
-- [osu!Remix Contest Community Vote!](https://osu.ppy.sh/home/news/2016-07-31-osuremix-contest-community-vote)
+**Changes towards how prizes were awarded for tournaments were made and announced on 24 July 2016.** Due to the increasing amount of community-run tournaments being started around that time, the osu! team felt that a system of credits that could be exchanged for osu!supporter tags would be more helpful and easier to keep track of for tournament planners and players. The credits awarded to contestants would be kept track of in a provided Google Sheet [[22]][r].<!-- Google Sheet unavailable due to locked forum thread: https://osu.ppy.sh/community/forums/topics/481791 -->
 
 ## August
 
-A new set of Hush-Hush [medals](/wiki/Medals) were released. Previously, no one was allowed to discuss ways on obtaining these medals; however, going forward, it is encouraged to work together on figuring out ways to obtain these medals. Voting for the osu!taiko mascot fanart contest was opened. The osu! remix contest voting concluded with [BilliumMoto](https://osu.ppy.sh/users/3862471) taking the grand prize. osu! just ticked over 5 billion ranked plays!
+**A new set of "Hush-Hush" medals arrived on 17 August 2016** and were gradually rolled out over the following day. Users could tell if a new medal was obtainable in osu! if it was visible on the new website (new.ppy.sh) [[23]][r]. The medals that were announced to be added are shown below.
 
-Links:
+![](img/hush-hush-medals.jpg "A visual list of all the new Hush-Hush medals added [[23]][r]")
 
-- [New Hush-Hush Medals!](https://osu.ppy.sh/home/news/2016-08-17-new-hush-hush-medals)
-- [osu!taiko mascot voting](https://osu.ppy.sh/home/news/2016-08-22-osutaiko-mascot-voting)
-- [osu!remix contest #1: Results](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results)
-- [osu! on Twitter](https://twitter.com/osugame/status/770153577255796737)
+**Results for the first "osu!remix" contest were formally announced on 29 August 2016**:
+
+| Placing | Track | Artist | Prize(s) |
+| :-- | :-: | :-: | :-- |
+| **Staff vote** | [HDHR](https://soundcloud.com/billiummoto/hdhr) | [BilliumMoto](https://osu.ppy.sh/users/3862471) | Track featured as an official contest beatmap, $250 USD osu!store credit, unique profile badge |
+| **First place community vote** | HDHR | BilliumMoto | N/A |
+| **Second place community vote** | [circles! (黒皇帝 Remix)](https://soundcloud.com/dialgadu77/circles-remix) | [Sayaka-](https://osu.ppy.sh/users/398275) | $50 USD osu!store credit |
+| **Third place community vote** | [circles! (happy30 Remix)](https://soundcloud.com/happy30/circles-happy30-remix) | [happy30](https://osu.ppy.sh/users/27767) | Honourable mention |
+
+Although BilliumMoto won first place in the community vote, the prize for the community vote winner ($50 USD in osu!store credit) was awarded to the runner-up, Sayaka, as BilliumMoto had already won the staff vote and its prizes [[24]][r].
 
 ## September
 
-[osu!mania 4k World Cup](/wiki/Tournaments/MWC/2016_4K) concluded with South Korea being victorious against Brazil. peppy tweeted regarding the 9th anniversary of osu!; however, stated that there nothing was planned for this year. The osu!taiko mascot voting results were in, peppy reminds that the community picked winner was *not* the new mascot since the osu! team wanted to take more into account than the mascots' loliciousness. [yuki.](https://osu.ppy.sh/beatmaps/artists/4), a brand new osu!musician, entered the stage with a new community mapping contest.
+**Results for the community vote on the osu!taiko mascot contest were formally announced on 21 September 2016**:
 
-Links:
+![](img/taiko-mascot-winners-community.jpg "The three community vote winners of the osu!taiko mascot contest: Aiko (left), Alisa (middle), and Tama (right)")
 
-- [osu!mania 4K World Cup Results!](https://osu.ppy.sh/home/news/2016-09-10-osumania-4k-world-cup-results)
-- [Dean Herbert on twitter](https://twitter.com/ppy/status/777101188277739522)
-- [osu!taiko Mascot Community Vote Results](https://osu.ppy.sh/home/news/2016-09-21-osutaiko-mascot-community-vote-results)
-- [Community Mapping Contest \#1 - yuki. (Nadeshiko Sensation)](https://osu.ppy.sh/home/news/2016-09-28-community-mapping-contest-1-yuki-nadeshiko)
+| Placing | Character | Artist | Prize(s) |
+| :-- | :-: | :-: | :-- |
+| **First place** | Aiko | [JMC](https://osu.ppy.sh/users/774010) | **osu!artist** user title, 12 months of osu!supporter, $50 USD osu!store credit |
+| **Second place** | Alisa | [\[ Glitch \]](https://osu.ppy.sh/users/3781400) | 3 months of osu!supporter |
+| **Third place** | Tama | [crystalsuicine](https://osu.ppy.sh/users/9974) | 1 month of osu!supporter |
+
+Despite these rankings and rewards, users were reminded that the official mascot of osu!taiko would still be up to a staff vote, regardless of community vote results, although the mascot chosen by staff did not end up being announced by the end of the year [[25,26]][r].
 
 ## October
 
-osu! World Cup 2016 registrations opened. GML applications were opened for those who wish to join. The [loved](/wiki/Beatmap/Category#loved) beatmap status was introduced in its testing stage as a way to give community-loved, but unrankable, beatmaps leaderboards. Those types of beatmaps will, however, not award [pp](/wiki/Performance_Points) and their leaderboards could be deleted for when the creator updates their beatmap. The Halloween-themed 7th fanart contest opened. Loved was in its second testing state, ready for a new batch of beatmaps to enter this category. A new video featuring osu!lazer was released. Most notably, the hit circles had more textures to them and gave off a smooth and shiny look. osu!idol 2016 voting were opened. A few days before Halloween, the Halloween fanart contest was opened and concluded two days later. The osu!weekly released the 78th issue on Halloween, making it as spooky as possible (but where did the 77th issue go? We'll never know).
+**The GMT (Global Moderation Team) began taking applications for the first time in its history on 15 October 2016.** Previously, members of the GMT would be inducted via process of nomination or recommendation by other GMT members. However, due to a recent increase in demand for more members, the team decided that it would need to reach out to the community more:
 
-Links:
+> Over the past few months, we've been trying to get more in touch with the community as a whole. As a part of these efforts, we are now accepting applications from anyone who wishes to join the Global Moderation Team.
+>
+> ...
+>
+> As osu!next draws closer, we'll be making more efforts to get the community involved again. A big part of the rework involves not only redesigning the website and game client, but also how the community operates as well. We're very big on letting the community guide the course of the game, and it is our hope that by expanding the team with fresh new faces and outlooks, we'll be better able to achieve this going forward.
 
-- [osu! World Cup 2016 - Registrations now open!](https://osu.ppy.sh/home/news/2016-10-02-osu-world-cup-2016-registrations-now-open)
-- [GMT Applications Now Open](https://osu.ppy.sh/home/news/2016-10-15-gmt-applications-now-open)
-- [Here Comes the Love](https://osu.ppy.sh/home/news/2016-10-17-here-comes-the-love)
-- [Flash Fanart Contest \#7: Halloween](https://osu.ppy.sh/home/news/2016-10-19-flash-fanart-contest-7-halloween)
-- [Show Your Love!](https://osu.ppy.sh/home/news/2016-10-21-show-your-love)
-- [osu!weekly \#76](https://osu.ppy.sh/home/news/2016-10-24-osuweekly-76)
-- [osu!idol 2016 Finals - Community Voting](https://osu.ppy.sh/home/news/2016-10-25-osuidol-2016-finals-community-voting)
-- [Halloween Fanart Contest Voting Begins!](https://osu.ppy.sh/home/news/2016-10-27-halloween-fanart-contest-voting-begins)
-- [Halloween Cometh](https://osu.ppy.sh/home/news/2016-10-29-halloween-cometh)
-- [osu!weekly \#78 (Extra Spooky Edition)](https://osu.ppy.sh/home/news/2016-10-31-osuweekly-78-extra-spooky-edition)
+—[shARPII](https://osu.ppy.sh/users/776257), "GMT Applications Now Open" [[27]][r]
 
-## November
+The applications that were given out at the time were different from BN (Beatmap Nominator) applications in that simply filling out a form with "good answers" would not guarantee a position: users who were of interest to the GMT would be spoken to by the GMT and further inspection would follow from there. Additionally, there was not a limited number of "spots" available for the GMT. If the team felt someone was qualified for the position, they would add them, regardless of the amount of current members [[27]][r].
 
-Starting off in November, a new batch of [community contributors](/wiki/People/Community_Contributors) were announced. [ztrot](https://osu.ppy.sh/users/6347) and [deadbeat](https://osu.ppy.sh/users/128370) observes the history of osu! regarding its UI/UX from its beginnings to its present. [Slyleaf](https://osu.ppy.sh/users/3322032) takes 1st place in osu!idol 2016. Ending November, the Christmas-themed 8th fanart contest opened.
+**Open testing for the "Loved" ranking status for beatmaps was formally started and announced on 17 October 2016.** The category, intended for beatmaps held in very high regard by the community at large, allowed beatmaps to have official online leaderboards, with the caveat that they would not grant users performance points for any plays. The purpose of this was to highlight beatmaps that may not have met ranking criteria to still be given online leaderboards and a more "official" recognition for their beloved status in the community [[28]][r].
 
-Links:
+In its [announcement newspost](https://osu.ppy.sh/home/news/2016-10-17-here-comes-the-love), a set of pre-selected beatmaps were given the Loved status:
 
-- [Recognising the Best of the Best](https://osu.ppy.sh/home/news/2016-11-02-recognising-the-best-of-the-best)
-- [A History of osu!: Episode One](https://osu.ppy.sh/home/news/2016-11-04-a-history-of-osu-episode-one)
-- [osu!idol 2016 Final results](https://osu.ppy.sh/home/news/2016-11-08-osuidol-2016-final-results)
-- [Fanart Contest #8: Christmas!](https://osu.ppy.sh/home/news/2016-11-28-fanart-contest-8-christmas)
+- [mocchie - Nyan Nyan Drive (D: (caren_sk)](https://osu.ppy.sh/beatmapsets/106318)
+- [The Quick Brown Fox - PACEMAKER (Kyshiro)](https://osu.ppy.sh/beatmapsets/180771)
+- [DM Ashura - deltaMAX (rustbell)](https://osu.ppy.sh/beatmapsets/18315)
+- [Omoi - Snow Drive (Arieeru)](https://osu.ppy.sh/beatmapsets/291154)
+- [The Quick Brown Fox - Big Money (Blue Dragon)](https://osu.ppy.sh/beatmapsets/293705)
+- [Nakajima Megumi - TRY UNITE! (aran Remix) (lahphnya)](https://osu.ppy.sh/beatmapsets/319815)
+- [Kitsune^2 - Free (Starrodkirby86)](https://osu.ppy.sh/beatmapsets/342207)
+- [xi - Garyou Tensei (fartownik)](https://osu.ppy.sh/beatmapsets/344371)
+- [tokiwa yuu - shounen ripples (lahphnya)](https://osu.ppy.sh/beatmapsets/356426)
+- [ZiGZaG HACKER - V^3 (Hello World) (rustbell)](https://oszu.ppy.sh/beatmapsets/365053)
+- [Fleshgod Apocalypse - The Deceit / The Violation (Mazzerin)](https://osu.ppy.sh/beatmapsets/367631)
+- [sHimaU - Slotcore is Dead (Zapy)](https://osu.ppy.sh/beatmapsets/37065)
+- [DJ Mass MAD Izm\* - SHAKUNETSU Beach Side Bunny (rustbell)](https://osu.ppy.sh/beatmapsets/409345)
+- [Blue Stahli - Anti You (thatguy0815)](https://osu.ppy.sh/beatmapsets/42567)
+- [Cardboard Box - The Limit Does Not Exist (Blue Dragon)](https://osu.ppy.sh/beatmapsets/429469)
+- [Seether - Fake It ([Dellirium])](https://osu.ppy.sh/beatmapsets/48738)
+- [Vektor - Recharging the Void (Mazzerin)](https://osu.ppy.sh/beatmapsets/489236)
 
-## December
+Despite the first additions, users were reminded that the new ranking status was still in "open testing", and that the team still was not sure of how the specifics of getting a beatmap into Loved should work. Many different ideas for this were thrown around, although the first to be tested was a system of weekly community voting from a pool of ten maps chosen based on a "variety of factors" [[28,29]][r].
 
-Voting for the community beatmapping contest \#1 (announced back in September) was opened. Monthly beatmapping contest \#13 was opened. osu!mania 7K World Cup 2017 registrations was opened. [cYsmix](https://osu.ppy.sh/beatmaps/artists/2) had outdone himself and produced a beautiful festive intro track for Christmas, which can be heard upon opening the game. [Loki/Thaehan](https://osu.ppy.sh/beatmaps/artists/7) and [sakuraburst](https://osu.ppy.sh/beatmaps/artists/8) were announced to be the newest featured artists in osu!. osu! World Cup 2016 concluded with United States overtaking China. A day past Christmas, the Christmas fanart contest resulted with [\[ Piyori \]](https://osu.ppy.sh/users/4457608) capturing the most votes.
+---
 
-Links:
+## References
 
-- [Community Mapping Contest \#1 Voting Live](https://osu.ppy.sh/home/news/2016-12-02-community-mapping-contest-1-voting-live)
-- [Monthly Beatmapping Contest #13 Now Open!](https://osu.ppy.sh/home/news/2016-12-09-monthly-beatmapping-contest-13-now-open)
-- [osu!mania 7K World Cup 2017 - Registrations now open!](https://osu.ppy.sh/home/news/2016-12-12-osumania-7k-world-cup-2017-registrations-now)
-- [New Featured Artist: Loki/Thaehan](https://osu.ppy.sh/home/news/2016-12-13-new-featured-artist-lokithaehan)
-- [Season's Greetings From osu!](https://osu.ppy.sh/home/news/2016-12-19-seasons-greetings-from-osu)
-- [New Featured Artist: sakuraburst](https://osu.ppy.sh/home/news/2016-12-20-new-featured-artist-sakuraburst)
+1. [osu!weekly #47](https://osu.ppy.sh/home/news/2016-02-09-osuweekly-47)
+2. [28 January 2016 changelog](https://osu.ppy.sh/home/changelog/cuttingedge/20160128)
+3. [Mapset and Spread Restructure (Proposed)](https://osu.ppy.sh/community/forums/topics/420223)
+4. [MEET EPHEMERAL!](https://blog.ppy.sh/post/139478794378/meet-ephemeral)
+5. [Timeline of Events Surrounding Recent Changes](https://docs.google.com/document/d/1VlFUIte8ho4tssRCucSBt96nTVAhsCLfJZcFVgzHjuk/edit)
+6. [osu!weekly #48](https://osu.ppy.sh/home/news/2016-02-16-osuweekly-48)
+7. [osu!go not worth it?](https://osu.ppy.sh/community/forums/topics/425108)
+8. [2016-02 MEETING NOTES](https://blog.ppy.sh/post/140259300353/2016-02-meeting-notes)
+9. [Modding v2: Modding Panel - Feedback Thread](https://osu.ppy.sh/community/forums/topics/442285)
+10. [osu!weekly #57](https://osu.ppy.sh/home/news/2016-04-20-osuweekly-57)
+11. [15 April 2016 changelog](https://osu.ppy.sh/home/changelog/cuttingedge/20160415)
+12. [osu! | How medals looks like? (Animations) | Achievements 20/04/2016](https://www.youtube.com/watch?v=sdGe-Gv38Yw)
+13. [Meet Maria - osu!mania's new mascot!](https://osu.ppy.sh/home/news/2016-04-20-meet-maria-osumanias-new-mascot)
+14. [Changes to the Quality Assurance Team](https://osu.ppy.sh/community/forums/topics/447417)
+15. [osu! "circles!" Remix Contest](https://osu.ppy.sh/home/news/2016-05-06-osu-circles-remix-contest)
+16. [EARLY-BIRD CONTRIBUTORS](https://blog.ppy.sh/post/144539340703/early-bird-contributors)
+17. [31 May 2016 (18:22 UTC) Tweet](https://twitter.com/ppy/status/737529593184149504)
+18. [Mapping With Rewards #1 - Bounties Complete!](https://osu.ppy.sh/home/news/2016-06-01-mapping-with-rewards-1-bounties-complete)
+19. [9 June 2016 (3:18 PM UTC)) Tweet](https://twitter.com/ppy/status/741107246965235713)
+20. [osu!weekly #65](https://osu.ppy.sh/home/news/2016-06-24-osuweekly-65)
+21. [osu! mascot design contest](https://osu.ppy.sh/home/news/2016-07-18-osu-mascot-design-contest)
+22. [osu!weekly #70](https://osu.ppy.sh/home/news/2016-08-07-osuweekly-70)
+23. [New Hush-Hush Medals!](https://osu.ppy.sh/home/news/2016-08-17-new-hush-hush-medals)
+24. [osu!remix contest #1: Results](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results)
+25. [osu!taiko mascot voting](https://osu.ppy.sh/home/news/2016-08-22-osutaiko-mascot-voting)
+26. [osu!taiko Mascot Community Vote Results](https://osu.ppy.sh/home/news/2016-09-21-osutaiko-mascot-community-vote-results)
+27. [GMT Applications Now Open](https://osu.ppy.sh/home/news/2016-10-15-gmt-applications-now-open)
+28. [Here Comes the Love](https://osu.ppy.sh/home/news/2016-10-17-here-comes-the-love)
+29. [Show Your Love!](https://osu.ppy.sh/home/news/2016-10-21-show-your-love)
+
+[r]: #references

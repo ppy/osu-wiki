@@ -1,24 +1,24 @@
-<!-- TODO: some updates and needs a proper end of life message. it's also open source now -->
-
 # osu!stream
 
 ![](img/Os-Logo.jpg "osu!stream logo")
 
-**osu!stream** is a version of osu! built from scratch that is made especially for touch-enabled devices. It is currently available for Apple's [iOS](http://en.wikipedia.org/wiki/IOS) platform only, but an [Android](http://en.wikipedia.org/wiki/Android_%28operating_system%29) port is planned. It introduces a brand new game-play system such as the hold circle and connected beats.
+**osu!stream** is a version of osu! built from scratch that is made especially for touch-enabled devices. It is currently available for Apple's [iOS](http://en.wikipedia.org/wiki/IOS) platform only. An [Android](http://en.wikipedia.org/wiki/Android_%28operating_system%29) port was planned and nearly completed, but has yet to be released due to audio latency issues in Android causing an unenjoyable gameplay experience.
 
-It does not support classic osu! beatmaps. Instead, maps are created by a special team of mappers to take advantage of the new elements and adhere to a stricter level of standards. Both free and paid maps are available at the "Store".
+It introduced a brand new gameplay system, with new gameplay elements such as hold circles and connected beats. It does not support classic osu! beatmaps without manual conversion. Instead, maps were created by a special team of mappers to take advantage of the new elements and adhere to a [stricter level of standards](https://docs.google.com/document/d/1FYmHhRX-onR-osgTS6uHSOZuu_0JEbfRZePVySvvr9g).
 
 [osu!stream was elaborated in osu!monthly \#5 along with an interview.](https://osu.ppy.sh/community/forums/topics/59924)
 
+Development for this version ended in 2020. For more information, read the [blog post](https://blog.ppy.sh/osu-stream-2020-release/) about its last release. The source code along with beatmap conversion and testing tools has been made available in the same year under a permissive licence on [GitHub](https://github.com/ppy/osu-stream) for anyone curious, and all previously paid maps are now available for free from the in-game "Store".
+
 ## Installation
 
-![](img/Os-Devices.jpg "osu!stream in iDevice")
+![](img/Os-Devices.jpg "osu!stream in iOS devices")
 
-### iDevice's App Store method (Suggested)
+### iOS App Store method (suggested)
 
-**Make sure the iDevice can connect to the Internet (either by Wi-Fi or 3G/4G).**
+**Make sure the iOS device can connect to the Internet (either by Wi-Fi or 3G/4G).**
 
-- Go to "App Store" from the iDevice
+- Go to "App Store" from the iOS device
 - Search for osu!stream
 - Press and install osu!stream
   - If prompted to key-in the Apple ID and the password, please do so.
@@ -31,20 +31,19 @@ It does not support classic osu! beatmaps. Instead, maps are created by a specia
 
 - Go to [this link and download it](http://itunes.apple.com/us/app/osu!stream/id436952197?ls=1&mt=8)
   - If requested for Apple ID, key-in the Apple ID and the password.
-- Plug-in the iDevice to the device (that has osu!stream).
+- Plug-in the iOS device to the device (that has osu!stream).
 - Transfer the osu!stream files using iTunes.
-- Unplug the iDevice and osu!stream can be played.
+- Unplug the iOS device and osu!stream can be played.
 
 ## Adding Beatmaps
 
-**Make sure the iDevice can connect to the Internet (either by Wi-Fi or 3G/4G).**
+**Make sure the iOS device can connect to the Internet (either by Wi-Fi or 3G/4G).**
 
 - Open osu!stream.
 - Press the osu! symbol and it should be directed to the main menu (or tutorial if first time)
 - Press the "Store" bar
   - Alternatively, head to "Play" and press "Download more songs!"
 - Select a desired pack.
-  - It is suggested to download packs that do not cost money first. Free packs have "FREE" tag instead of the "USD$" cost tag.
 
 ## What is the difference?
 
@@ -52,31 +51,31 @@ It does not support classic osu! beatmaps. Instead, maps are created by a specia
 - Beatmaps are made from scratch.
 - No account needed to download the song packs.
 - Can integrate osu!stream with a Twitter account.
-- High score may be sent anonymously to the site under the name of "Guest" (if happen but requires Internet connection).
-- The circle timer is replaced and moved to the bottom with a small border line which is coloured depending on accuracy. \[Bottom(Long)\]
+- High score may be sent anonymously to the site under the name of "Guest" (requires Internet connection).
+- The circle timer is replaced and moved to the bottom with a small border line which is coloured depending on the accuracy of the play. \[Bottom(Long)\]
 - **Average Timing** is given at the grade page.
-- Cannot save old records nor can save replays.
+- Old records and replays cannot be saved.
 - Cannot change skin nor can apply any mods (yet).
 - Easter Eggs can be found but there is no Achievement page...
 
-### New Game-play system
+### New gameplay system
 
-**Note:** Test the new gameplay elements in "Tutorial" screen.
+**Note:** Test the new gameplay elements in the "Tutorial" screen.
 
 #### Finger Guides Display
 
 ![](img/Os-FG.jpg "Finger Guides display")
 
-- The two transparent circle that appears in-game is created to help beginners to know when to hit the objects.
-  - It will shows the suggested method to tackle the design of the map with perfection.
+- The two transparent circles that appear in-game are created to help beginners to know when to hit the objects.
+  - It will show the suggested method to tackle the design of the map with perfection.
 - The green colour is for the left hand and the red colour is for the right hand.
-- This feature can be disabled from the option menu or after completed the tutorial.
+- This feature can be disabled from the option menu or after completing the tutorial.
 
 #### Connected Beats
 
 ![](img/Os-CB.png "Connected Beats")
 
-- Connected Beats, as the title suggested, requires the player to press both the objects at the same time.
+- Connected Beats, as the title suggests, requires the player to press both the objects at the same time.
   - Connected Beats are not limited to just "hit circle-hit circle", it can be "hit circle-slider", "hold circle-slider" and so on.
 - Connected Beats can be identified by having a straight white line connecting with another object.
 
@@ -88,11 +87,10 @@ It does not support classic osu! beatmaps. Instead, maps are created by a specia
 
 ![](img/Os-HC2.jpg "Hold circle 2")
 
-- Hold circle requires the player to hold the circle until the circle "explodes"
-- The hit accuracy is determined by how early/late hit and holding time.
-  - If the hold was released before the circle "explodes", combo multiplier will reset to 0 but the hold circle will not incur a miss as long as at least, touched the hold circle.
-  - If the player did not hold the circle, the HP will be taken as long as the hold circle have not exploded itself.
-- Hold circle can be determined by having a "hold" at the circle with a purple colour background bordered by white colour as permanent default colour scheme.
+- Hold circle requires the player to hold the circle until the circle "explodes".
+- The hit accuracy is determined by how early or late it was hit and whether it was held until completion.
+  - If the hold was released before the circle "explodes", the combo multiplier will reset to 0 but the hold circle will not incur a miss as long as the hold circle was hit.
+  - If the player did not hold the circle, the HP will be taken as long as the hold circle has not exploded by itself.
 
 ### New Modes to replace the difficulty
 
@@ -118,9 +116,9 @@ It does not support classic osu! beatmaps. Instead, maps are created by a specia
 
 ![](img/Os-ModeEasy.jpg "Easy mode")
 
-**Difficulty: Easy + [NoFail](/wiki/Game_modifier/No_Fail)**
+**Difficulty: Easy + [NoFail](/wiki/Gameplay/Game_modifier/No_Fail)**
 
-Easy mode is for new-comers to get used of the osu!stream game-play. The gameplay are considerably slower for new player to understand the flow and timing to hit. No lifebar will be issued and playing Easy mode will not unlock Expert mode.
+Easy mode is for new-comers to get used to the osu!stream gameplay. The gameplay is considerably slower for new players to understand the flow and timing to hit. No lifebar will be issued and playing Easy mode will not unlock Expert mode.
 
 The background colour is Green.
 
@@ -130,11 +128,11 @@ The background colour is Green.
 
 **Difficulty: Easy ("Stream Down!" from Normal) ~ Normal (start point) ~ Hard ("Stream Up!" from Normal)**
 
-Stream mode is a new implementation specially for osu!stream. In this mode, player will start with a half-filled "2nd" lifebar with a normal difficulty setting set. The player is then tasked to fill it full to trigger "Stream Up!" which basically tune the difficulty up (by adding more hit object and alternating to "Hard" design) but still considerately less harder than Expert mode. When player entered "Stream Up!" mode, a (third/second) lifebar is issued and "Stream Down!" will occur when the (third/second) lifebar ran out of health, reverting back to the (Normal/Easy) difficulty setting of design and using the half-filled (second/last) lifebar.
+Stream mode is a mode exclusive to osu!stream. In this mode, players start with a half-filled "2nd" lifebar with a normal difficulty setting set. The player is then tasked to fill it full to trigger "Stream Up!" which basically tunes the difficulty up (by adding objects and switching to the Hard difficulty of the map) but is still considerately less harder than Expert mode. When players enter "Stream Up!" mode, a new lifebar is issued and "Stream Down!" will occur if that lifebar runs out, reverting back to the Normal or Easy difficulty and the previous lifebar.
 
-In short, the player start in between Easy and Hard.
+In short, the player starts in between Easy and Hard.
 
-Do note the player **must score at least A (>80% accuracy) rank in this mode in order to unlock the Expert mode of the song**. Accuracy lower than 80% even if full-combo does not count as A (it will be counted as B as usual).
+Do note the player **must score at least A (>80% accuracy) rank in this mode in order to unlock the Expert mode of the song**. An accuracy lower than 80% even if full-combo does not count as A (it will be counted as B as usual).
 
 The background colour is Green (Easy), Blue (Normal) and Pink (Hard).
 
@@ -162,7 +160,7 @@ The background colour is Green (Easy), Blue (Normal) and Pink (Hard).
 
 **Difficulty: Expert**
 
-Locked by default and can only be unlocked by completing the Stream mode of the song with an A or better, Expert mode is for players that wants a better challenge. In this mode, player is given a full lifebar and player is tasked to preserve it until the end of the song. Completing it will not unlock anything but bragging rights.
+Locked by default and can only be unlocked by completing the Stream mode of the song with an A or better, Expert mode is for players that want a better challenge. In this mode, players are given a full lifebar and are tasked to preserve it until the end of the song. Completing it will not unlock anything but bragging rights.
 
 The background colour is Purple and the lights will darken depending on current HP.
 
@@ -224,16 +222,18 @@ The background colour is Purple and the lights will darken depending on current 
 
 ## Scoring
 
+*Notice: The leaderboard can still be viewed in-game, but no new scores will be accepted.*
+
 ### Accuracy
 
 `Accuracy = HitValue / (PerfectHitValue)`
 
 | Term | Formula |
 | :-: | :-- |
-| **HitValue** | (Number of misses \* 0 + Number of 50's \* 1 + Number of 100's * 2 + Number of 300's \* 4) |
-| **PerfectHitValue** | (Number of misses + Number of 50's + Number of 100's + Number of 300's) \* 4 |
+| **HitValue** | (Number of misses \* 0 + Number of 50s \* 1 + Number of 100s \* 2 + Number of 300s \* 4) |
+| **PerfectHitValue** | (Number of misses + Number of 50s + Number of 100s + Number of 300s) \* 4 |
 
-In other words, each miss towards to 0%, each 50 towards to 25%, each 100 towards to 50% and each 300 towards to 100%.
+In other words, each miss is worth 0% accuracy, each 50 is 25%, each 100 is 50%, and each 300 is 100%.
 
 ### Score
 
@@ -243,19 +243,18 @@ The score given by each hit circle and end of a slider is calculated with the fo
 
 | Term | Meaning |
 | :-: | :-- |
-| **Hit Value** | The hit circle judgement (50, 100 or 300). |
+| **Hit Value** | The hit circle [judgement](/wiki/Gameplay/Judgement) (50, 100 or 300). |
 | **Combo multiplier** | (Combo before this hit - 1) or 0; whichever is higher. |
 | **Fixed multiplier** | The multiplier that fixes the score into 600.000 |
 
-Additionally each slider start, end and repeat tick awards 30 points and each spin of a spinner awards 100 points.
-Additional bonus of 10 point awarded depending on the speed of spinning the spinner after the spinner meter is full.
+Additionally, each slider start, end, and repeat tick awards 30 points and each revolution of a spinner awards 100 points. There is an additional bonus of 10 points depending on the speed of spinning the spinner after the spinner meter is full.
 
 ### Hit circle judgement
 
 **Hit-circles**
 
-- A 300, 100 or 50 from a normal hit circle depending on tap accuracy.
-- Not tapping on the hit circle at all or tap on it too early, a miss will be given.
+- A 300, 100 or 50 is awarded from a normal hit circle depending on the tap accuracy.
+- A miss is given if a hit circle was tapped too early or not tapped at all.
   - If tapped on it really, really early, the object will shake instead. Nothing will happen technically except visually telling that it was tapped too early.
 
 **Hold-circle**
@@ -263,19 +262,19 @@ Additional bonus of 10 point awarded depending on the speed of spinning the spin
 - The judgement of the hold circle depends on the initial tap and the hold time before exploding.
   - 300 if done perfectly.
   - 100 for a less accurate initial hold and holding it properly.
-  - 50 for at least, touching it.
+  - 50 for at least touching it.
   - 30 for every explosion.
-  - Multiplier reset if did not hold the circles properly and Miss for not doing it.
+  - Multiplier resets if the circles were not hold properly and Miss for not holding at all.
 
 **Sliders**
 
 - **The judgement for sliders depends on the accuracy of the initial tap**.
 - Sliders consist of slider ticks, which include the start, end and repeat points of the slider.
-  - A 300 if successfully get all slider ticks and accurate initial tap.
-  - A 100 if at least half of them with considerable initial tap.
-  - A 50 if managed to hit even one of the ticks or the initial tap.
+  - A 300 for successfully getting all slider ticks and accurate initial tap.
+  - A 100 if at least half of the slider parts were hit with a fairly accurate initial tap.
+  - A 50 for managing to hit even one of the ticks or the initial tap.
 - **Clicking a slider way too early** does not incur a miss, but **will reset the score multiplier to 0**.
-- A miss if did not do the slider.
+- A miss if the slider was not held at all.
 
 **Spinner**
 
@@ -286,12 +285,10 @@ Additional bonus of 10 point awarded depending on the speed of spinning the spin
 
 The following each add a point to the score multiplier:
 
-- A successfully hit on the hit circle.
-- A successfully hold on the hold circle.
-- A successfully hit at the start of a slider.
-- A successfully touched end of a slider.
-- A successfully touched on the slider tick.
-- A successfully completed spinner.
+- Hits on a hit circle.
+- The start, end, and each hold tick of a hold circle.
+- The start, end, and each slider tick of a slider.
+- Completion of a spinner.
 
 The following will reset the score multiplier to zero:
 
@@ -328,31 +325,27 @@ In **Easy Mode, lifebar is completely removed**.
 
 ![](img/Os-SUN.jpg "Example of Stream Up! from Normal")
 
-In **Stream Mode** however, player is given **three lifebars and player starts with the second half-filled lifebar at start**. Player (gain/lose) the lifebar by (Stream Up!/Stream Down!) message for (filling the lifebar full/used up all the HP on that lifebar). After the message is shown, the game will show an animation at the background which (tune up/tune down) the difficulty and issue a half-filled lifebar. If a player is issued a "Stream Down!", player is given temporary invisibility (due to no health left in the currently using lifebar) until the animation is completed in which the lifebar will be substituted with a half-filled one from the previous difficulty.
+In **Stream Mode**, the player is given three lifebars and the player starts with the second half-filled lifebar at start. Players move between these lifebars by **Stream Up!** and **Stream Down!** systems, which activate when either filling up the lifebar or draining it completely. After an announcement, the game transitions to the new "stream" by changing the background and seamlessly switching to a higher or lower difficulty of the beatmap as well as changing lifebars. When a Stream Down! happens, the player is given temporary invincibility while the lifebar switches to the one for the lower difficulty.
 
-In **Expert Mode, a full one lifebar is issued**.
+In **Expert Mode, a single full lifebar is used instead**.
 
-In terms of getting life for lifebar, it is explained as in below.
+The following fills the lifebar:
 
-The player gain life from:
+- Completing spinners and hold circles.
+- Hitting an osu!, gold good!, green good!, 300, or 100,
+  - For hit circles, better judgements fill the lifebar more. The last hit circle in a colour combo awards more life.
+  - For sliders, the lifebar is filled according to how many parts were completed, once the slider has been completed.
 
-- Hit allowed: 300, 100, osu!, gold good! and green good!.
-  - Hitting the hit circle(s). (Better judgement leads to more life gain. The last hit circle in a colour combo awards more life.)
-  - Hitting the slider(s) start, end or return tick. (Better judgement at the end tick leads to more life gain)
-  - Completing the Spinner and Hold Bubble(s) properly.
+The following drains the lifebar:
 
-The player lose life from:
+- Receiving a 50.
+- Missing any hit object or slider.
+- Not staying within a slider's follow circle.
+- Not holding a hold circle until it explodes.
+- Not spinning a spinner.
+- Not completing a spinner with "Clear" message.
 
-- Hit cause: 50 , Miss
-- Missing any hit object or sliders.
-- Not following the slider(s).
-- Not holding the Hold Bubble until it explodes.
-- Unable to complete the spinner with "Clear" message.
-- Not spinning the spinner.
-
-The player reserve life from:
-
-- Default. **Lifebar will not drain at all while playing**.
+Unlike other versions of osu!, the lifebar does not drain by itself.
 
 ## Questions
 
@@ -362,9 +355,7 @@ Because of the difficulty in obtaining licensing for the said song.
 
 ### How do I get more beatmaps?
 
-Head to the "Store" section in the game or pressing the "Download more songs..." at the "Play" section.
-
-The beatmaps are in bundle, and some are priced. Make sure to look out of the price tag before buying to prevent *accidental purchase*.
+Head to the "Store" section in the game or pressing the "Download more songs..." in the "Play" section.
 
 ### What is the theme song of osu!stream?
 
@@ -377,5 +368,7 @@ Usually heard at Main Menu and tutorial screen.
 
 ## Links
 
-- [Official website](http://www.osustream.com)
+- [Official website](http://www.osustream.com) (outdated)
 - [Discussion forum (osu! website)](https://osu.ppy.sh/community/forums/79)
+- [GitHub repository](https://github.com/ppy/osu-stream)
+- [Blog post](https://blog.ppy.sh/osu-stream-2020-release/)

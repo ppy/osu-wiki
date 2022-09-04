@@ -11,3 +11,5 @@
 - [osu!catch World Cup 2018](2018)
 - [osu!catch World Cup 2019](2019)
 - [osu!catch World Cup 2020](2020)
+- [osu!catch World Cup 2021](2021)
+- [osu!catch World Cup 2022](2022)

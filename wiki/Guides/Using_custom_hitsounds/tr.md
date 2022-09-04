@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: f7365d5b874cd7bd24d42b84611e43535dd7de86
+---
+
 # Özel vuruş sesleri kullanımı
 
 Bu rehberde özel [vuruş seslerini](/wiki/Beatmapping/Hitsound), [beatmaplerinizde](/wiki/Beatmap) nasıl kullanacağınızı öğreneceksiniz.

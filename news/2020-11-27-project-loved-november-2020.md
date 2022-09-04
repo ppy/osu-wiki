@@ -8,7 +8,7 @@ date: 2020-11-27 8:30:00 +0000
 
 ![](/wiki/shared/news/banners/project-loved.jpg)
 
-In case you're new here: Project Loved runs monthly polls to decide which unranked maps enter the [Loved](https://osu.ppy.sh/beatmapsets?s=loved) category, as selected by each mode's captains. Throughout this post, you can click on each map's banner to go to its poll, where you can vote for whether or not you want the map Loved. Voting is open for 10 days, starting right now! You can read more about how Project Loved works on its [wiki page](/wiki/Project_Loved).
+In case you're new here: Project Loved runs monthly polls to decide which unranked maps enter the [Loved](https://osu.ppy.sh/beatmapsets?s=loved) category, as selected by each mode's captains. Throughout this post, you can click on each map's banner to go to its poll, where you can vote for whether or not you want the map Loved. Voting is open for 10 days, starting right now! You can read more about how Project Loved works on its [wiki page](/wiki/Community/Project_Loved).
 
 Before we get into the maps selected for this month, the Project Loved Team would like to extend our gratitude and farewell to one of our osu!catch captains—[Yumeno Himiko](https://osu.ppy.sh/users/1806962)—as they have retired from their position. They have been around with the project for a very long time and their contributions to the osu!catch Loved scene cannot be understated and we greatly appreciate their time & service! We hope the future holds great things for them and we thank them for everything they've done for the project! With that out of the way, here are our picks for the month of November.
 
@@ -216,6 +216,6 @@ If wristjacks and control aren't quite your pace, we have a more chordstream ori
 
 ---
 
-From everyone on the [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team), we hope you enjoyed this month's selection, and are looking forward to the next! The favoured beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) shortly after the polls end. More info about Project Loved can be found on its [wiki page](/wiki/Project_Loved), including how to submit maps for consideration in the future. Until next time!
+From everyone on the [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team), we hope you enjoyed this month's selection, and are looking forward to the next! The favoured beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) shortly after the polls end. More info about Project Loved can be found on its [wiki page](/wiki/Community/Project_Loved), including how to submit maps for consideration in the future. Until next time!
 
 —huu

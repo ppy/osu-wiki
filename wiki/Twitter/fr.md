@@ -1,18 +1,25 @@
----
-outdated: true
-outdated_since: a6c6c6b27315fdf9e68f709dab2a08b085428e3b
----
-
 # Twitter
 
-## Nous tweetons aussi!
+osu! possède plusieurs comptes Twitter, ayant chacun des objectifs spécifiques. La plupart ont une activité très faible mais permettent de vous tenir informé en dehors de l'écosystème d'osu!.
 
-osu! possède plusieurs comptes Twitter, chacun ayant une utilité différente. La plupart sont très peu fréquentés mais vous aideront à vous maintenir informés en dehors de l'écosystème d'osu!.
+## Service
 
 | Avatar | Compte | Description |
 | :-: | :-: | :-- |
-| ![osu! avatar](img/osugame.jpg) | [@osugame](https://twitter.com/osugame) | La source officielle de nouvelles et d'annonces. Contenu de haute qualité à faible trafic. |
-| ![osu!status avatar](img/osustatus.jpg) | [@osustatus](https://twitter.com/osustatus) | Dédié à fournir de rares notifications sur les problèmes du site et de bancho. |
-| ![Dean Herbert avatar](img/ppy.jpg) | [@ppy](https://twitter.com/ppy) | Pas strictement lié à osu!, mais je le laisse ici pour ceux qui sont intéressés. Ma vie c'est osu!, après tout. |
-| ![osu! support avatar](img/osusupport.jpg) | [@osusupport](https://twitter.com/osusupport) | Vous aider avec les problèmes de compte/communauté. |
-| ![BanchoBoat avatar](img/banchoboat.jpg) | [@banchoboat](https://twitter.com/banchoboat) | Un élan comique quand les choses se passent mal. |
+| ![osu!status avatar](img/osustatus.jpg) | [@osustatus](https://twitter.com/osustatus) | Notifications de problèmes liés au site web et à l'utilisation du site. [Bancho](/wiki/Bancho_(server)). |
+| ![osu! support avatar](img/osusupport.jpg) | [@osusupport](https://twitter.com/osusupport) | Aide pour les problèmes de compte et/ou de communauté. Géré par l'[équipe d'assistance aux comptes](/wiki/People/The_Team/Account_support_team). |
+
+## Communauté
+
+| Avatar | Compte | Description |
+| :-: | :-: | :-- |
+| ![osu! avatar](img/osugame.jpg) | [@osugame](https://twitter.com/osugame) | La source officielle de nouvelles et d'annonces. |
+| ![BanchoBoat avatar](img/banchoboat.jpg) | [@banchoboat](https://twitter.com/banchoboat) | Un soulagement comique quand les choses tournent mal. |
+| ![NAT avatar](img/osu_nat.png) | [@osu_nat](https://twitter.com/osu_nat) | Nouvelles, annonces et courts sondages communautaires par l'équipe de la [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) (non géré par l'[osu! team](/wiki/People/The_Team)). |
+| ![pp committee avatar](img/ppcommittee.png) | [@pp_committee](https://twitter.com/pp_committee) | Annonces de calcul des difficultés pour tous les modes de jeu, géré par le [Comité des points de performance](/wiki/People/Performance_Points_Committee). |
+
+## Personnel
+
+| Avatar | Compte | Description |
+| :-: | :-: | :-- |
+| ![Dean Herbert avatar](img/ppy.jpg) | [@ppy](https://twitter.com/ppy) | Le compte Twitter personnel du [créateur d'osu!](/wiki/People/peppy), qui n'est pas strictement lié à osu! mais en couvre néanmoins une grande partie. |

@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 1c921bb312848bb2dce76217542281d0db5a6825
 ---
 
 # Hướng dẫn đóng góp cho osu! wiki
@@ -48,7 +50,7 @@ Nếu bạn thắc mắc hay cần giúp đỡ ở bất cứ phần nào, hãy 
 
 3. Đây không phải vấn đề quá to tát, ***nếu*** bạn không sửa đổi các tệp đã bị sửa bời người khác.
 
-4. Để xử lý vấn đề này, xem phần [Branch của tôi bị lỗi thời!](/wiki/osu!_wiki/Contribution_guide/Common_Issues#branch-của-tôi-đã-lỗi-thời!) trong trang Các vấn đề hay gặp.
+4. Để xử lý vấn đề này, xem phần [Branch của tôi bị lỗi thời!](/wiki/osu!_wiki/Contribution_guide/Best_practices#syncing-the-fork) trong trang Các vấn đề hay gặp.
 
 5. Sau khi hoàn thành bước 4, tiến tới [Sửa trực tuyến hoặc cục bộ](#sửa-trực-tuyến-hoặc-cục-bộ).
 
@@ -56,7 +58,7 @@ Nếu bạn thắc mắc hay cần giúp đỡ ở bất cứ phần nào, hãy 
 
 Vào lúc này, bạn có hai lựa chọn:
 
-- [Giao diện Web GitHub](/wiki/osu!_wiki/Contribution_guide/GitHub_Web_Interface) - sửa trực tuyến; đây là lựa chọn tốt nhất khi bạn chỉ sửa một bài viết.
+- [Giao diện Web GitHub](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor) - sửa trực tuyến; đây là lựa chọn tốt nhất khi bạn chỉ sửa một bài viết.
 - [GitHub Desktop](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop) - sửa cục bộ; đây là lựa chọn tốt nhất để sửa một và/hoặc nhiều bài viết (bao gồm đăng tải, xoá, và di chuyển ảnh cũng như các tệp khác).
 
 *Chú ý: Bạn không bị giới hạn chỉ ở hai lựa chọn trên. Để giữ hướng dẫn này ngắn gọn và đơn giản, chúng tôi sẽ không đi sâu, hoặc không đề cập đến cách sử dụng các công cụ khác. Có nhiều ứng dụng bên thứ ba khác có thể thực hiện tương tự những gì mà Giao diện Web Github và GitHub Desktop có thể làm.*
@@ -99,7 +101,7 @@ Vào lúc này, bạn có hai lựa chọn:
 
     ![](img/new-pull-request.png)
 
-11. Xem [Review (Đánh giá)](#review-đánh-giá) và [Merge (Hợp nhất)](#merge-hợp-nhất) bên dưới.
+11. Xem [Review (Đánh giá)](#review-(đánh-giá)) và [Merge (Hợp nhất)](#merge-(hợp-nhất)) bên dưới.
 
 ### Review (Đánh giá)
 

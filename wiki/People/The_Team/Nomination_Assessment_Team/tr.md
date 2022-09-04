@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: 17fb11cfdf1bc72ce3f85c62bed260d9870c1cc8
 tags:
   - NAT
 ---
@@ -46,50 +48,45 @@ NAT uzun zaman periyodlarıyla potansiyel NAT üyelerini gözetler, ve genellikl
 
 | İsim | Ek diller | Birincil sorumluluklar |
 | :-- | :-- | :-- |
-| ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | Değerlendirme, moderasyon |
-| ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871) |  | Değerlendirme |
-| ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Kantonca, Çince | Değerlendirme |
-| ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengalce, biraz Arapça | Değerlendirme, yapısal, moderasyon, haberleşme |
-| ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) |  | Değerlendirme |
-| ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | İsveççe | Yapısal, haberleşme |
-| ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | Değerlendirme, yapısal, haberleşme |
-| ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | Yapısal |
-| ![][flag_BR] [Seto Kousuke](https://osu.ppy.sh/users/2857314) | Portekizce | Değerlendirme, yapısal, haberleşme |
-| ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) | Flemenkçe | Değerlendirme |
-| ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955) | Lehçe | Değerlendirme |
+| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) |  | Değerlendirme, moderasyon |
+| ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) |  | Değerlendirme |
+| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | Belarusça, Rusça | Değerlendirme |
+| ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Kantonca, Çince | Değerlendirme |
+| ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | Değerlendirme |
+| ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Çince | Değerlendirme |
+| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Almanca | Değerlendirme |
+| ::{ flag=SG }:: [Kotoha](https://osu.ppy.sh/users/7823498) | Çince | Değerlendirme |
+| ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | İsveççe | Yapısal, haberleşme |
+| ::{ flag=GB }:: [NexusQI](https://osu.ppy.sh/users/13822800) |  | Değerlendirme |
+| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | Yapısal |
+| ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | Değerlendirme |
+| ::{ flag=AT }:: [Stixy](https://osu.ppy.sh/users/9000308) | Almanca, Sırpça | Değerlendirme |
+| ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) |  | Değerlendirme |
+| ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | Felemenkçe | Değerlendirme |
+| ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | Lehçe | Değerlendirme |
 
 ### osu!taiko
 
 | İsim | Ek diller | Birincil sorumluluklar |
 | :-- | :-- | :-- |
-| ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733) | Kantonca, Çince | Değerlendirme |
-| ![][flag_TH] [Tyistiana](https://osu.ppy.sh/users/1421452) | Tay dili | Değerlendirme |
+| ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | Almanca | Değerlendirme |
+| ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733) | Kantonca, Çince | Değerlendirme |
+| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | Değerlendirme |
 
 ### osu!catch
 
 | İsim | Ek diller | Birincil sorumluluklar |
 | :-- | :-- | :-- |
-| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | İspanyolca, Almanca | Değerlendirme, moderasyon |
-| ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | Flemenkçe | Değerlendirme, yapısal |
-| ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | Korece | Değerlendirme, haberleşme |
+| ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | İspanyolca, Almanca | Değerlendirme, moderasyon |
+| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Felemenkçe | Değerlendirme, yapısal |
+| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  | Değerlendirme |
 
 ### osu!mania
 
 | İsim | Ek diller | Birincil sorumluluklar |
 | :-- | :-- | :-- |
-| ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Arapça, Fransızca | Değerlendirme |
-| ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Değerlendirme |
-
-[flag_BE]: /wiki/shared/flag/BE.gif "Belçika"
-[flag_BR]: /wiki/shared/flag/BR.gif "Brezilya"
-[flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
-[flag_DZ]: /wiki/shared/flag/DZ.gif "Cezayir"
-[flag_ES]: /wiki/shared/flag/ES.gif "İspanya"
-[flag_GB]: /wiki/shared/flag/GB.gif "Birleşik Krallık"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_KR]: /wiki/shared/flag/KR.gif "Güney Kore"
-[flag_NL]: /wiki/shared/flag/NL.gif "Hollanda"
-[flag_PL]: /wiki/shared/flag/PL.gif "Polonya"
-[flag_SE]: /wiki/shared/flag/SE.gif "İsveç"
-[flag_TH]: /wiki/shared/flag/TH.gif "Tayland"
-[flag_US]: /wiki/shared/flag/US.gif "Birleşik Devletler"
+| ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229) | Çince | Değerlendirme |
+| ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | Vietnamca | Değerlendirme |
+| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Endonezce | Değerlendirme, haberleşme |
+| ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | İspanyolca, Portekizce, Galiçyaca, İtalyanca, Japonca | Değerlendirme |
+| ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Değerlendirme |

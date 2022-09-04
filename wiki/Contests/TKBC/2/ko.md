@@ -1,14 +1,14 @@
 ---
 tags:
-- TKBC
-- TKBC2
+  - TKBC
+  - TKBC2
 ---
 
 # Taiko Korean Beatmap Contest #2
 
 ![TKBC2 로고](img/logo.png)
 
-**Taiko Korean Beatmap Contest #2** (***TKBC2***)는 ![][flag_KR]한국인을 위한 태고 대회입니다. Taiko Korean Beatmap Contest 2회차에 대한 내용을 담고 있습니다.
+**Taiko Korean Beatmap Contest #2** (***TKBC2***)는 ::{ flag=KR }::한국인을 위한 태고 대회입니다. Taiko Korean Beatmap Contest 2회차에 대한 내용을 담고 있습니다.
 
 ## 대회 일정
 
@@ -24,9 +24,9 @@ Taiko Korean Beatmap Contest #2는 한국 태고 매핑 커뮤니티 인원들�
 
 | 직책 | 인원 |
 | :-- | :-- |
-| 주최 | ![][flag_KR] [\[Karcher\] 2](https://osu.ppy.sh/users/9892196), ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107) |
-| 디자인 | ![][flag_KR] [oL0](https://osu.ppy.sh/users/1134683) |
-| 심사 | ![][flag_KR] [\[Karcher\] 2](https://osu.ppy.sh/users/9892196), ![][flag_KR] [Petit](https://osu.ppy.sh/users/4637369), ![][flag_KR] [Ozu](https://osu.ppy.sh/users/980092) |
+| 주최 | ::{ flag=KR }:: [\[Karcher\] 2](https://osu.ppy.sh/users/9892196), ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107) |
+| 디자인 | ::{ flag=KR }:: [oL0](https://osu.ppy.sh/users/1134683) |
+| 심사 | ::{ flag=KR }:: [\[Karcher\] 2](https://osu.ppy.sh/users/9892196), ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369), ::{ flag=KR }:: [Ozu](https://osu.ppy.sh/users/980092) |
 
 ## 상품
 
@@ -44,9 +44,9 @@ Taiko Korean Beatmap Contest #2는 한국 태고 매핑 커뮤니티 인원들�
 
 | 순위 | 매퍼 |
 | :-: | :-- |
-| ![금관](/wiki/shared/crown-gold.png "1위") | ![][flag_KR] [applerss](https://osu.ppy.sh/users/983349) |
-| ![은관](/wiki/shared/crown-silver.png "2위") | ![][flag_KR] [4\_4](https://osu.ppy.sh/users/1152851) |
-| ![동관](/wiki/shared/crown-bronze.png "3위") | ![][flag_KR] [ddm](https://osu.ppy.sh/users/7910282) |
+| ![금관](/wiki/shared/crown-gold.png "1위") | ::{ flag=KR }:: [applerss](https://osu.ppy.sh/users/983349) |
+| ![은관](/wiki/shared/crown-silver.png "2위") | ::{ flag=KR }:: [4\_4](https://osu.ppy.sh/users/1152851) |
+| ![동관](/wiki/shared/crown-bronze.png "3위") | ::{ flag=KR }:: [ddm](https://osu.ppy.sh/users/7910282) |
 
 ## 규칙
 
@@ -71,5 +71,3 @@ Taiko Korean Beatmap Contest #2는 한국 태고 매핑 커뮤니티 인원들�
 - Difficulty는 Oni 혹은 Inner Oni를 사용해주시기 바랍니다.
 - Source랑 Tags는 전부 비워주세요.
 - 이메일에 아티스트와 곡명, 그리고 주제와 연관되는 간략한 이유를 포함해서 제출해주시기 바랍니다.
-
-[flag_KR]: /wiki/shared/flag/KR.gif "대한민국"

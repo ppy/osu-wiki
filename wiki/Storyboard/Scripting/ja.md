@@ -1,13 +1,13 @@
 ---
-outdated: true
+outdated_translation: true
 outdated_since: 048320d762fbf8472b04389126e719d219bc41f3
 ---
 
 # ストーリーボードスクリプティング
 
-![.osbでのスクリプティング例](img/SBS_Base.jpg ".osbでのスクリプティング例")
+![.osbでのスクリプティング例](img/osb-example.png ".osbでのスクリプティング例")
 
-[組み込みのストーリーボードエディター](/wiki/Beatmap_Editor/Design)に加えて、メモ帳や[Notepad++](https://www.notepad-plus-plus.org/)、[Visual Studio Code](https://code.visualstudio.com/)などのプレーンテキストエディターを使用して、ビートマップの[ストーリーボード](/wiki/Storyboard)を作成することもできます。このワークフローは**storyboarding by scripting**（*SBS*）と呼ばれ、スプライトの表示や動作などをピクセルやミリ秒単位でより正確に設定することができます。
+[組み込みのストーリーボードエディター](/wiki/Client/Beatmap_editor/Design)に加えて、メモ帳や[Notepad++](https://www.notepad-plus-plus.org/)、[Visual Studio Code](https://code.visualstudio.com/)などのプレーンテキストエディターを使用して、ビートマップの[ストーリーボード](/wiki/Storyboard)を作成することもできます。このワークフローは**storyboarding by scripting**（*SBS*）と呼ばれ、スプライトの表示や動作などをピクセルやミリ秒単位でより正確に設定することができます。
 
 ## 概要
 

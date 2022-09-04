@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: edb4e0c8d99d7c91a1b0ce698f54b264eb6bf0be
 ---
 
 # Geschiedenis van osu! 2007
@@ -20,7 +22,7 @@ osu! begon als een proof-of-concept met de naam "ouentest". De eerste versie wer
 
 ![](img/2007-07_04.jpg "Hitcirkels")
 
-Eind juli werd het menusysteem gewijzigd om het spel wat meer stijl te geven. Een eerste implementatie van sliders werd voltooid, met een niet geanimeerde oranje schuifbal en enkele vrij lelijke bochten. Beat snapping werd toegevoegd aan de editor, evenals een tijdlijn en een meer robuuste editor interface (vrij gelijkaardig aan wat je vandaag ziet in [Compose](/wiki/Beatmap_Editor/Compose) view).
+Eind juli werd het menusysteem gewijzigd om het spel wat meer stijl te geven. Een eerste implementatie van sliders werd voltooid, met een niet geanimeerde oranje schuifbal en enkele vrij lelijke bochten. Beat snapping werd toegevoegd aan de editor, evenals een tijdlijn en een meer robuuste editor interface (vrij gelijkaardig aan wat je vandaag ziet in [Compose](/wiki/Client/Beatmap_editor/Compose) view).
 
 ![](img/2007-07_05.jpg "De editor")
 
@@ -38,7 +40,7 @@ Het hoofdmenu werd geüpdatet met een nieuwe look, en de editor kreeg veel nieuw
 
 ![](img/2007-08_02.jpg "Evolutie van de hit bursts")
 
-De gameplay werd verbeterd met het debuut van [combo fire](/wiki/combo_fire), de HP-balk, muissporen en beter uitziende sliders. Op dit punt had osu! een bescheiden verzameling van ongeveer 10 beatmaps gemaakt door het testteam van ongeveer 5 mensen.
+De gameplay werd verbeterd met het debuut van [combo fire](/wiki/Gameplay/Combo_fire), de HP-balk, muissporen en beter uitziende sliders. Op dit punt had osu! een bescheiden verzameling van ongeveer 10 beatmaps gemaakt door het testteam van ongeveer 5 mensen.
 
 ![](img/2007-08_03.jpg "Muziekselectie voor de Edit-modus")
 
@@ -48,7 +50,7 @@ De gameplay werd verbeterd met het debuut van [combo fire](/wiki/combo_fire), de
 
 ![](img/2007-09.jpg)
 
-2007-09-17 was de geboorte van osu! wat het grote publiek betreft. De forums zoals we die nu kennen werden opgericht en gehost vanuit peppy's domein (ppy.sh). Er werd aandacht getrokken via een nieuwsbericht op [bemanistyle](www.bemanistyle.com) dat nogal wat geïnteresseerden met eerdere ritmespelervaring aantrok.
+2007-09-17 was de geboorte van osu! wat het grote publiek betreft. De forums zoals we die nu kennen werden opgericht en gehost vanuit peppy's domein (ppy.sh). Er werd aandacht getrokken via een nieuwsbericht op [bemanistyle](https://www.otaquest.com/bemanistyle) dat nogal wat geïnteresseerden met eerdere ritmespelervaring aantrok.
 
 ![](img/2007-09_01.jpg "Slidercreatie in de editor")
 
@@ -60,7 +62,7 @@ De gameplay werd verbeterd met het debuut van [combo fire](/wiki/combo_fire), de
 
 ![](img/2007-09_05.jpg "Nieuwsbericht op een gaming website")
 
-Een korte tijd na de publieke release werden de eerste mods, [Easy](/wiki/EZ) en [No Fail](/wiki/NF), toegevoegd, evenals break secties (die tot nu toe genegeerd werden en ontbreekten). Een groot aantal veranderingen werd snel doorgevoerd waardoor osu! steeds meer op een commercieel ritmespel begon te lijken.
+Een korte tijd na de publieke release werden de eerste mods, [Easy](/wiki/Disambiguation/EZ) en [No Fail](/wiki/Game_modifier/No_Fail), toegevoegd, evenals break secties (die tot nu toe genegeerd werden en ontbreekten). Een groot aantal veranderingen werd snel doorgevoerd waardoor osu! steeds meer op een commercieel ritmespel begon te lijken.
 
 ![](img/easy.png "Easy (v1)") ![](img/no_fail.png "No Fail (v1)")
 
@@ -76,11 +78,11 @@ Het muziekselectiescherm werd verbeteringen, met groepering van moeilijkheden en
 
 ![](img/2007-10_03.jpg "Foutmelding")
 
-`pUpdater` (`osume`) versie 2 werd uitgebracht, met ondersteuning van optionele pakketdownloads. Dit omvatte het beschikbaar stellen van de eerste door de gebruiker gemaakte skins aan alle spelers via het updateprogramma. De editor zag de toevoeging van [afstand gebaseerde snapping](/wiki/beatmap_editor/beatmap/snap), bladwijzerondersteuning, meerdere sliderbochten, aangepaste kleuren, play-testing, lead-in tijd, en nog veel meer.
+`pUpdater` (`osume`) versie 2 werd uitgebracht, met ondersteuning van optionele pakketdownloads. Dit omvatte het beschikbaar stellen van de eerste door de gebruiker gemaakte skins aan alle spelers via het updateprogramma. De editor zag de toevoeging van [afstand gebaseerde snapping](/wiki/Beatmapping/Snapping), bladwijzerondersteuning, meerdere sliderbochten, aangepaste kleuren, play-testing, lead-in tijd, en nog veel meer.
 
 ## November
 
-Een nieuwe SS-rang werd toegevoegd aan het rangschikkingsysteem, ter vervanging van de S-rang in gevallen waarin de perfectie werd bereikt. De [No Video](/wiki/NV) en [Hidden](/wiki/HD) mods werden geïntroduceerd, en de SH (zilvere S) en SSH (zilver SS) kwamen er ook bij. Voor het eerst konden spelers skins, normale en zachte samplesets per timingsectie toewijzen. `.osz-bestanden` konden nu worden geladen door er op te dubbelklikken, of door ze op het osu! icoon te slepen.
+Een nieuwe SS-rang werd toegevoegd aan het rangschikkingsysteem, ter vervanging van de S-rang in gevallen waarin de perfectie werd bereikt. De [No Video](/wiki/Game_modifier/No_Video) en [Hidden](/wiki/Game_modifier/Hidden) mods werden geïntroduceerd, en de SH (zilvere S) en SSH (zilver SS) kwamen er ook bij. Voor het eerst konden spelers skins, normale en zachte samplesets per timingsectie toewijzen. `.osz-bestanden` konden nu worden geladen door er op te dubbelklikken, of door ze op het osu! icoon te slepen.
 
 ![](img/no_video.png "No Video \(v1\)") ![](img/hidden.png "Hidden \(v1\)")
 
@@ -92,7 +94,7 @@ Een nieuwe SS-rang werd toegevoegd aan het rangschikkingsysteem, ter vervanging 
 
 ![](img/2007-11_03.jpg "IRC-gebruik testen")
 
-Het [Beatmap Submission System](/wiki/glossary#bss) (BSS) werd openbaar gemaakt, zodat gebruikers hun creaties gemakkelijk konden uploaden en delen. Dit introduceerde de status van in afwachting en gerangschikte maps en hielp bij het organiseren van de snelgroeiende collectie van door gebruikers ingezonden beatmaps. In-game chat werd toegevoegd, als een IRC-client die vanaf nul is opgebouwd en verbonden was met een standaard IRC-server (nog geen bancho). Uitgebreide chat was zichtbaar. Avatars en basisstatistieken werden in het spel weergegeven (met behulp van een http-gebaseerde communicatie). Audiobedieningen werden ook toegevoegd aan het hoofdmenu, dat nu ook een willekeurig nummer afspeelde bij het opstarten. Replays konden worden bekeken voor zowel de lokale als de online scores. Spelers konden andere spelers spectaten (en de spactator data werd ruw en onbewerkt over IRC verstuurd!).
+Het [Beatmap Submission System](/wiki/Submission) (BSS) werd openbaar gemaakt, zodat gebruikers hun creaties gemakkelijk konden uploaden en delen. Dit introduceerde de status van in afwachting en gerangschikte maps en hielp bij het organiseren van de snelgroeiende collectie van door gebruikers ingezonden beatmaps. In-game chat werd toegevoegd, als een IRC-client die vanaf nul is opgebouwd en verbonden was met een standaard IRC-server (nog geen bancho). Uitgebreide chat was zichtbaar. Avatars en basisstatistieken werden in het spel weergegeven (met behulp van een http-gebaseerde communicatie). Audiobedieningen werden ook toegevoegd aan het hoofdmenu, dat nu ook een willekeurig nummer afspeelde bij het opstarten. Replays konden worden bekeken voor zowel de lokale als de online scores. Spelers konden andere spelers spectaten (en de spactator data werd ruw en onbewerkt over IRC verstuurd!).
 
 ## December
 

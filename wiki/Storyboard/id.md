@@ -1,19 +1,14 @@
----
-outdated: true
-outdated_since: 3c596a71cc876a14daabb7af66321a16db3885f6
----
+# Storyboard
 
-# Storyboards
+![](img/Sbpassing.png "Adegan ini muncul ketika kamu memainkan Walkie Talkie Man di Elite Beat Agent DS dan hanya muncul ketika kamu mendapatkan Elite Beat 300")
+![](img/Sbfailing.png "Adegan ini tampil ketika kamu meleset atau mendapatkan 50 poin dalam kombo.")
 
-![Adegan ini muncul ketika Anda memainkan Walkie Talkie Man di Elite Beat Agent DS](img/Sbpassing.png "Adegan ini muncul ketika Anda memainkan Walkie Talkie Man di Elite Beat Agent DS")
-![Adegan ini tampil ketika Anda meleset atau dapat 50 poin dalam kombo.](img/Sbfailing.png "Adegan ini tampil ketika Anda meleset atau dapat 50 poin dalam kombo.")
+**Storyboard** (SB) merupakan animasi latar yang secara khusus dibuat untuk mendampingi suatu [beatmap](/wiki/Beatmap) ketika dimainkan. Walaupun storyboard dapat digunakan untuk menampilkan hal apapun, pada umumnya storyboard digunakan untuk menghadirkan efek-efek visual yang akan membuat tampilan beatmap yang bersangkutan menjadi lebih menggugah. Konsep storyboard sendiri tersinpirasi dari animasi latar yang terdapat pada permainan [Osu! Tatakae! Ouendan](/wiki/Disambiguation/Ouendan), yang senantiasa berubah tergantung dari baik atau buruknya permainan masing-masing pemain seiring waktu.
 
-**Storyboard (osu!)** adalah latar belakang bergerak dalam beatmap berukuran 640x480 piksel, biasanya digunakan sebagai dekorasi dan terkadang digunakan untuk tujuan dari permainan itu sendiri. Storyboard bisa terdiri dari berbagai macam elemen, tetapi umumnya berisi satu set efek visual yang dirancang untuk membuat beatmap lebih estetis dan khas bagi pemain.
+Animasi-animasi dalam storyboard dipicu oleh kode-kode yang tertera pada [berkas `.osb`](/wiki/osu!_File_Formats/Osb_(file_format)) terpisah atau pada kolom `[Events]` yang ada pada [berkas `.osu`](/wiki/osu!_File_Formats/Osu_(file_format)) yang bersangkutan. Oleh karenanya, suatu beatmap dapat mengandung storyboard yang berbeda-beda per tingkat kesulitannya.
 
-Dalam pembuatannya, storyboard seringkali sangat sulit dibuat dan memerlukan banyak waktu serta keahlian dibidang animasi dan pembuatan gambar.
+## Storyboarding
 
-Storyboard biasanya terletak di bagian folder beatmap dengan format [`.osb`](/wiki/osu!_File_Formats/Osb_(file_format)) atau dapat dilihat pada bagian `[Events]` di [`.osu`](/wiki/osu!_File_Formats/Osu_(file_format)). Karena itu, sangat mungkin untuk membuat Storyboard berbeda dengan map yang berbeda antara [beatmap](/wiki/Beatmap).
+*Artikel utama: [Storyboard scripting](/wiki/Storyboard/Scripting)*
 
-## Pembuatan storyboard
-
-Storyboard Editor (SBE) terletak di tab Design (shorcut keyboard F2) dalam Beatmap Editor. Pada dasarnya, SBE menawarkan pengguna sebuah cara mudah untuk mengontrol pergerakan sprite sederhana, tetapi seringkali digunakan untuh hal-hal konyol dalam beatmap. Pengguna yang terampil dalam pembuatan storyboard seringkali menggunakan kode-kode hasil SBE, yang dinamakan Storyboard Scripting (SBS) karena SBS dapat menghasilkan kode yang tidak dapat dihasilkan SBE.
+*Storyboarding* adalah proses pembuatan storyboard itu sendiri, di mana para pengrajinnya dikenal dengan istilah *storyboarder*. Dalam dunia animasi, storyboarding merupakan sebuah disiplin ilmu yang sangat menuntut keahlian serta ketekunan dalam hal desain grafis. Oleh karenanya, osu! menyediakan sebuah [editor storyboard bawaan](/wiki/Client/Beatmap_editor/Design) di dalam [beatmap editor](/wiki/Client/Beatmap_editor) untuk memudahkan pembuatan storyboard. Meskipun demikian, kebanyakan storyboarder lebih memilih untuk membuat storyboard mereka melalui metode [*storyboard scripting*](/wiki/Storyboard/Scripting) karena metode ini secara garis besar lebih handal dalam menghasilkan efek-efek visual yang kompleks.

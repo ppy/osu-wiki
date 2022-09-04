@@ -1,6 +1,6 @@
 # osu!taiko skinning
 
-You can override the osu!taiko playfield parts by creating a folder called `taiko` inside your skin folder. If this approach is used, the user will need to explicitly enable this in the [options](/wiki/Options) (enable the `Use Taiko skin for Taiko mode` button), otherwise the default skin elements will be used.
+You can override the osu!taiko playfield parts by creating a folder called `taiko` inside your skin folder. If this approach is used, the user will need to explicitly enable this in the [options](/wiki/Client/Options) (enable the `Use Taiko skin for Taiko mode` button), otherwise the default skin elements will be used.
 
 ## Pippidon
 
@@ -36,7 +36,7 @@ Notes:
 - Animation name: `pippidonfail{n}.png`.
 - The animation rate is BPM dependent.
 - This animation plays when the player misses a note or does not have enough health during a break.
-- This overrides `pippidonkiai` if the player misses a note during [kiai time](/wiki/Kiai_time).
+- This overrides `pippidonkiai` if the player misses a note during [kiai time](/wiki/Gameplay/Kiai_time).
 
 ---
 
@@ -68,14 +68,14 @@ Notes:
 
 - Animation name: `pippidonkiai{n}.png`.
 - The animation rate is BPM dependent.
-- This animation plays during [kiai time](/wiki/Kiai_time).
+- This animation plays during [kiai time](/wiki/Gameplay/Kiai_time).
 - `pippidonfail.png` overrides this if the player misses a note during kiai time.
 
 ## Hit Bursts
 
 `taiko-hit0.png`
 
-![](img/taiko-hit0.png)
+![](/wiki/shared/judgement/osu!taiko/taiko-hit0.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -90,7 +90,7 @@ Notes:
 
 `taiko-hit100.png`
 
-![](img/taiko-hit100.png)
+![](/wiki/shared/judgement/osu!taiko/taiko-hit100.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -105,7 +105,7 @@ Notes:
 
 `taiko-hit100k.png`
 
-![](img/taiko-hit100k.png)
+![](/wiki/shared/judgement/osu!taiko/taiko-hit100k.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -120,7 +120,7 @@ Notes:
 
 `taiko-hit300.png`
 
-![](img/taiko-hit300.png)
+![](/wiki/shared/judgement/osu!taiko/taiko-hit300.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -135,7 +135,7 @@ Notes:
 
 `taiko-hit300k.png`
 
-![](img/taiko-hit300k.png)
+![](/wiki/shared/judgement/osu!taiko/taiko-hit300k.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -150,7 +150,7 @@ Notes:
 
 `taiko-hit300g.png`
 
-![](img/taiko-hit300g.png)
+![](/wiki/shared/judgement/osu!taiko/taiko-hit300g.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -253,7 +253,7 @@ Notes:
 
 `taiko-glow.png`
 
-<!-- ![](img/taiko-glow.png) -->
+![](img/taiko-glow.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -263,7 +263,7 @@ Notes:
 
 - Beatmap skinnable status is suspected to be a bug.
 - Tinted yellow.
-- This element is behind the hit position during [kiai time](/wiki/Kiai_time), expands when notes are hit.
+- This element is behind the hit position during [kiai time](/wiki/Gameplay/Kiai_time), expands when notes are hit.
 
 ---
 
@@ -280,7 +280,7 @@ Notes:
 - Tinted orange-red.
 - There isn't a need to skin this element for osu!taiko.
   - This element is only visible when using a transparent taiko bar.
-- This pulsates behind the scrolling bar on the hit position during [kiai time](/wiki/Kiai_time).
+- This pulsates behind the scrolling bar on the hit position during [kiai time](/wiki/Gameplay/Kiai_time).
 
 ## Playfield (upper half)
 
@@ -296,7 +296,7 @@ Notes:
 
 - Beatmap skinnable status is suspected to be a bug.
 - This scrolls in a seamless loop, from the right side towards the left.
-- This element is disbaled if the beatmap has a storyboard.
+- This element is disabled if the beatmap has a storyboard.
 - Gets upscaled by 1.4x in-game.
 
 ---
@@ -338,7 +338,7 @@ Notes:
 
 `taiko-bar-left.png`
 
-<!-- ![](img/taiko-bar-left.png) -->
+![](img/taiko-bar-left.png)
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
@@ -365,7 +365,7 @@ Notes:
 
 - Beatmap skinnable status is suspected to be a bug.
 - Position varies by skin version:
-  - v1 - v2.0: (29,266) (and (86,266) when mirrored)
+  - v1–v2.0: (29,266) (and (86,266) when mirrored)
   - v2.1+: (0,216) (and (90,216) when mirrored)
 
 ---
@@ -383,7 +383,7 @@ Notes:
 
 - Beatmap skinnable status is suspected to be a bug.
 - Position varies by skin version:
-  - v1 - v2.0: (85,253) ((13,253) when mirrored)
+  - v1–v2.0: (85,253) ((13,253) when mirrored)
   - v2.1+: (90,216) (and (0,216) when mirrored)
 
 ---
@@ -403,7 +403,7 @@ Notes:
 - This element will get stretched to fit screen width.
 - This element is the normal state of the scrolling bar.
 - Position varies by skin version:
-  - v1.0 - v2.0: (181,216)
+  - v1.0–v2.0: (181,216)
   - v2.1+: (0,216)
 
 ---
@@ -424,7 +424,7 @@ Notes:
 - This element is the kiai state of the scrolling bar.
 - This element overlays `taiko-bar-right`.
 - Position varies by skin version:
-  - v1.0 - v2.0: (181,216)
+  - v1.0–v2.0: (181,216)
   - v2.1+: (0,216)
 
 ## Drumrolls

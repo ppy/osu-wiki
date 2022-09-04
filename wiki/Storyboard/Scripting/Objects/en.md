@@ -2,7 +2,7 @@
 
 ![SB object/sprite call](img/SBS_Sprite.jpg "SB object/sprite call")
 
-*For objects in [osu!](/wiki/Game_mode/osu!) and [Beatmapping](/wiki/Beatmapping), see: [Hit Objects](/wiki/Hit_Objects)*
+*For objects in [osu!](/wiki/Game_mode/osu!) and [Beatmapping](/wiki/Beatmapping), see: [Hit Objects](/wiki/Gameplay/Hit_object)*
 
 In [Storyboarding](/wiki/Storyboard), **Objects** are sprites or animations that appear on the screen and make up the storyboard. Instances of SB-specific audio can also be considered to be objects; however, for clarity, they have [their own section of this guide](/wiki/Storyboard/Scripting/Audio).
 
@@ -16,22 +16,8 @@ To call an instance of a sprite (a still image) or an animation, use a single li
 
 Where:
 
-- **(layer)** is the **[layer](/wiki/Storyboard/Scripting/General_Rules) the object appears on.** Valid values are:
-  - 0 - Background
-  - 1 - Fail
-  - 2 - Pass
-  - 3 - Foreground
-- **(origin)** is where on the **image should osu! consider that image's origin (coordinate) to be.** This affects the (x) and (y) values, as well as several other command-specific behaviors. For example, choosing (origin) = TopLeft will let the (x),(y) values determine, where the top left corner of the image itself should be on the screen. Valid values are (note the spelling "Centre" not "Center"):
-  - 0 - TopLeft
-  - 1 - Centre
-  - 2 - CentreLeft
-  - 3 - TopRight
-  - 4 - BottomCentre
-  - 5 - TopCentre
-  - 6 - Custom (same effect as TopLeft, but should not be used)
-  - 7 - CentreRight
-  - 8 - BottomLeft
-  - 9 - BottomRight
+- **(layer)** is the **[layer](/wiki/Storyboard/Scripting/General_Rules) the object appears on.** The valid values are listed below.
+- **(origin)** is where on the **image should osu! consider that image's origin (coordinate) to be.** This affects the (x) and (y) values, as well as several other command-specific behaviours. For example, choosing (origin) = TopLeft will let the (x),(y) values determine, where the top left corner of the image itself should be on the screen. The valid values are listed below.
 - **(filepath)** is, in laymans terms, the **filename of the image you want.** But it's not always quite that simple:
   - If you have a subfolder inside your Song Folder, you need to include that, as well.
     - Example: "backgrounds/sky.jpg" if you have a subfolder called "backgrounds" with an image called "sky.jpg" in it. Start listing directories only from the Song Folder, where the .osu or .osb file is (i.e., a relative filepath). It should not have something like "C:" anywhere in it.
@@ -43,6 +29,30 @@ Where:
   - origin = Centre, x = 320, y = 240
   - origin = BottomRight, x = 640, y = 480
     *and so on.*
+
+Layers have these values:
+
+| Value | Layer |
+| :-: | :-- |
+| 0 | Background |
+| 1 | Fail |
+| 2 | Pass |
+| 3 | Foreground |
+
+Origins have these values:
+
+| Value | Origin |
+| :-: | :-- |
+| 0 | TopLeft |
+| 1 | Centre |
+| 2 | CentreLeft |
+| 3 | TopRight |
+| 4 | BottomCentre |
+| 5 | TopCentre |
+| 6 | Custom (same effect as TopLeft, but should not be used) |
+| 7 | CentreRight |
+| 8 | BottomLeft |
+| 9 | BottomRight |
 
 **For animation only**
 
@@ -64,8 +74,8 @@ Some examples of object declarations:
 
 `Sprite,Pass,Centre,"Text\Play2-HaveFunH.png",320,240`
 
-This declares a still image (sprite) based on the "Play2-HaveFunH.png" file located in the "Text" folder. The image appears on the Pass layer, and the center (centre) of the image will be located at (320,240) on the game screen (the exact center of the screen).
+This declares a still image (sprite) based on the "Play2-HaveFunH.png" file located in the "Text" folder. The image appears on the Pass layer, and the centre (centre) of the image will be located at (320,240) on the game screen (the exact centre of the screen).
 
 `Animation,Fail,BottomCentre,"Other\Play3\explosion.png",418,108,12,31,LoopForever`
 
-This declares an animation, whose frames can be found as "explosion0.png", "explosion1.png", ..., "explosion11.png" in the "Play3" folder of the "Other" folder. The image appears on the Fail layer, and the bottom center (centre) of the image will be located at (418,108) on the game screen. There are 12 frames in the animation (hence why the last frame is named "explosion11.png"), and there is a 31 millisecond delay between each frame (thus the animation takes 31 \* 12 = 372 milliseconds to loop once). After the game has displayed the last frame for 31 milliseconds, it moves back to the first frame, continuing until the object is no longer appearing on the screen.
+This declares an animation, whose frames can be found as "explosion0.png", "explosion1.png", ..., "explosion11.png" in the "Play3" folder of the "Other" folder. The image appears on the Fail layer, and the bottom centre of the image will be located at (418,108) on the game screen. There are 12 frames in the animation (hence why the last frame is named "explosion11.png"), and there is a 31 millisecond delay between each frame (thus the animation takes 31 \* 12 = 372 milliseconds to loop once). After the game has displayed the last frame for 31 milliseconds, it moves back to the first frame, continuing until the object is no longer appearing on the screen.

@@ -2,14 +2,14 @@
 tags:
   - TWC 2014
   - TWC2014
-outdated: true
+outdated_translation: true
 ---
 
 # osu! Taiko World Cup 2014
 
 ![TWC 2014 logo](img/logo.jpg)
 
-**osu! Taiko World Cup 2014** (***简称 TWC 2014*** ) 是一个由 [osu 比赛委员会](https://osu.ppy.sh/groups/26) 举办的[太鼓模式](/wiki/Game_mode/osu!taiko)比赛。TWC 2014 是第四届的太鼓模式比赛，于 2014年 1月 15日 至 2014年 3月 9日 期间举行。上届的冠军是 ![][flag_TW] **台湾**。
+**osu! Taiko World Cup 2014** (***简称 TWC 2014*** ) 是一个由 [osu 比赛委员会](https://osu.ppy.sh/groups/26) 举办的[太鼓模式](/wiki/Game_mode/osu!taiko)比赛。TWC 2014 是第四届的太鼓模式比赛，于 2014年 1月 15日 至 2014年 3月 9日 期间举行。上届的冠军是 ::{ flag=TW }:: **台湾**。
 
 ## 比赛流程
 
@@ -35,10 +35,10 @@ outdated: true
 
 | Job | Person(s) |
 | :-- | :-- |
-| 赛事管理 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) |
-| 比赛地图选择 | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) |
-| 比赛直播旁述 | ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078) // ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) // ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) // ![][flag_US] ztrot // ![][flag_NO] Dolphin |
-| 赛果统计 | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
+| 赛事管理 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) // ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) |
+| 比赛地图选择 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) |
+| 比赛直播旁述 | ::{ flag=FR }:: [Mr Color](https://osu.ppy.sh/users/116078) // ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370) // ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) // ::{ flag=US }:: ztrot // ::{ flag=NO }:: Dolphin |
+| 赛果统计 | ::{ flag=PL }:: [Marcin](https://osu.ppy.sh/users/722665) |
 
 ## 相关鏈接
 
@@ -56,7 +56,7 @@ outdated: true
 3. 每回合比赛的时间编排都会由主办方决定。
 4. 若没有裁判或主办人员在场，比赛会被延期。
 5. 任何不及格的玩家的得分都不会计算到所属队伍的总分。
-6. 玩家可以自由调整 [Visual Settings](/wiki/Visual_Settings) 里的选项。
+6. 玩家可以自由调整 [Visual Settings](/wiki/Client/Interface/Visual_settings) 里的选项。
 7. 若比赛出现和局，该局会被作废。
 8. 若有玩家断线，他们会被视为不及格。
 9. 除非比赛结果被作废，每张比赛地图皆不可被重复选择。
@@ -150,11 +150,3 @@ outdated: true
 3. All Knock-Out Stages will be held on either Saturday or Sunday (refer to Tournament Schedule).
 4. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage.(e.g. on the 3th Nov. for Group Stage). Tournament Management will try to create the schedule to respect the participant's time zone.
 5. Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least four players for each match. If teams can not provide four players for a match, the match will be considered forfeited.
-
-[flag_DE]: /wiki/shared/flag/DE.gif "德国"
-[flag_FR]: /wiki/shared/flag/FR.gif "法国"
-[flag_NO]: /wiki/shared/flag/NO.gif "挪威"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "新西兰"
-[flag_PL]: /wiki/shared/flag/PL.gif "波兰"
-[flag_TW]: /wiki/shared/flag/TW.gif "台湾"
-[flag_US]: /wiki/shared/flag/US.gif "美国"

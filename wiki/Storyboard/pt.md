@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated_translation: true
 outdated_since: 048320d762fbf8472b04389126e719d219bc41f3
 ---
 
@@ -12,4 +12,4 @@ Uma **Storyboard** (conhecida como SB) é uma imagem animada que acompanha o [Be
 
 As storyboards são armazenadas em ficheiros de beatmap como [arquivos `.osb`](/wiki/osu!_File_Formats/Osb_(file_format)) autônomos ou extensões para a secção `[Events]` de um [arquivo `.osu`](/wiki/osu!_File_Formats/Osu_(file_format)). Por causa disso, é possível criar diferentes storyboards para diferentes mapas dentro de um [beatmap](/wiki/Beatmap).
 
-Storyboards são difíceis de fazer e requerem habilidade em animação e criação de gráficos. o osu! oferece um [editor de design](/wiki/Beatmap_Editor/Design) dentro do [editor de beatmap](/wiki/Beatmap_Editor) para ajudar na criação de storyboards, mas a maioria dos criadores de storyboard mais ávidos optam por programar por meio de [scripts de storyboard](/wiki/Storyboard/Scripting) diretamente. Muitos criadores optam por escrever programas em linguagens de programação com recursos completos para gerar scripts de storyboards, porque efeitos visuais complexos podem exigir uma grande quantidade de código de storyboard para serem produzidos.
+Storyboards são difíceis de fazer e requerem habilidade em animação e criação de gráficos. o osu! oferece um [editor de design](/wiki/Client/Beatmap_editor/Design) dentro do [editor de beatmap](/wiki/Client/Beatmap_editor) para ajudar na criação de storyboards, mas a maioria dos criadores de storyboard mais ávidos optam por programar por meio de [scripts de storyboard](/wiki/Storyboard/Scripting) diretamente. Muitos criadores optam por escrever programas em linguagens de programação com recursos completos para gerar scripts de storyboards, porque efeitos visuais complexos podem exigir uma grande quantidade de código de storyboard para serem produzidos.

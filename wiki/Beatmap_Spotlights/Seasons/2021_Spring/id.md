@@ -3,7 +3,6 @@ tags:
   - charts
   - Ranking Charts
   - Seasonal Spotlights
-no_native_review: true
 ---
 
 # Musim ke-4 Beatmap Spotlights (Musim Semi 2021)
@@ -26,18 +25,18 @@ no_native_review: true
 
 ## Lobi multiplayer mingguan
 
-Untuk saat ini, bergabung dengan lobi multiplayer mingguan mewajibkan peserta untuk mengunduh dan menginstal [osu!lazer](https://github.com/ppy/osu/releases).
+Untuk saat ini, bergabung dengan lobi multiplayer mingguan mewajibkan peserta untuk mengunduh dan menginstal [osu!(lazer)](https://github.com/ppy/osu/releases).
 
-1. Setiap Jumat pada satu musim, satu timeshift multiplayer lobby dibuka. Semua orang dapat berpartisipasi selama minggu tersebut.
+1. Setiap minggu pada satu musim, satu timeshift multiplayer lobby dibuka. Semua orang dapat berpartisipasi selama minggu tersebut.
    - Jeda akan diadakan selama seminggu, setelah itu lobi untuk setiap daftar putar akan dibuka kembali setiap minggu.
 2. Setiap timeshift multiplayer lobby menyediakan daftar putar beatmap yang telah ditentukan sebelumnya.
    - Setiap daftar putar adalah bagian dari seluruh daftar beatmap yang dipilih untuk musim ini.
-   - Setiap daftar putar berisi beatmap Hard, Insane, dan Expert yang merata.
-   - Setiap daftar putar sesuai dengan surat yang ditetapkan untuk setiap minggu. Oleh karena itu, setiap daftar putar akan diputar ulang sekali selama satu musim.
-3. Dalam timeshift lobby, semua orang bersaing dalam papan peringkat khusus untuk ruangan.
-   - Ruangan papan peringkat didasarkan pada sistem skor ranked. Oleh karena itu, hanya hasil skor terbaik pada setiap beatmap dalam daftar putar yang dijumlahkan untuk menghasilkan skor peringkat mingguan setiap pengguna.
-   - Setiap daftar putar beatmap dihitung rata pada skor papan peringkat. Kesulitan yang lebih sulit tidak memberikan skor lebih.
-   - Skor beatmap individu didasarkan pada sistem penilaian osu!lazer.
+   - Setiap daftar putar berisi beatmap Hard, Insane, dan Expert dengan pembagian yang merata.
+   - Setiap daftar putar sesuai dengan huruf yang ditetapkan untuk setiap minggu. Oleh karena itu, setiap daftar putar akan diputar ulang sekali selama satu musim.
+3. Dalam timeshift lobby, semua orang bersaing dalam papan peringkat khusus ruangan.
+   - Papan peringkat ruangan didasarkan pada sistem skor ranked. Oleh karena itu, hanya hasil skor terbaik pada setiap beatmap dalam daftar putar yang dijumlahkan untuk menghasilkan skor peringkat mingguan setiap pengguna.
+   - Setiap beatmap dari sebuah daftar putar dihitung sama untuk skor papan peringkat. Tingkat kesulitan yang lebih sulit tidak memberikan skor yang lebih banyak.
+   - Skor beatmap individu didasarkan pada sistem penilaian osu!(lazer).
 4. Setelah timeshift lobby selesai, skor peringkat mingguan dari setiap peserta ruangan ditambahkan ke papan peringkat musiman.
 
 ## Daftar putar

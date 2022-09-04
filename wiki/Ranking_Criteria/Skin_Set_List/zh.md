@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: e2ee68f241d348ef35cde3e42dd5663c987aa5e0
+---
+
 # 皮肤组列表
 
 *父页面： [Ranking criteria](/wiki/Ranking_Criteria)*

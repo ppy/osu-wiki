@@ -27,3 +27,5 @@ If kiou2 sets her offset on 527, the long white tick will follow the heavy beat,
 So, we should make sure to set offset on the heavy beat.
 
 I hope this is helpful.
+
+<!-- TODO: rewrite using more formal language -->

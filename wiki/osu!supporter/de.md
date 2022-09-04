@@ -1,67 +1,155 @@
 ---
-outdated: true
+tags:
+  - supporter tag
+  - osu!supporter tag
+  - Unterstützung
 ---
 
 # osu!supporter
 
-![osu!supporter Abzeichen](img/store-product.jpg?1 "osu!supporter Abzeichen")
+**osu!supporter** (oder das ***osu!supporter-Tag***) ist ein zeitlich begrenzter Titel, der Spielern verliehen wird, die osu! durch eine freiwillige Geldspende unterstützen, um das Spiel zu fördern. Unterstützer erhalten eine handvoll kosmetischer und technischer Vorteile, von denen die meisten nur aktiv sind, wenn der Titel vorhanden ist. Die zusätzlichen Funktionen von osu!supporter geben keinen Vorsprung im Gameplay, in der Leistung oder dem Erreichen von Scores und werden es auch nie.
 
-## Einleitung
+Das osu!supporter-Tag kann über die [osu!supporter-Seite des Stores](https://osu.ppy.sh/store/products/supporter-tag) erworben werden.
 
-Übergeleitet von diesem Link: <https://osu.ppy.sh/home/support>
+## Features
 
-Kurz gefasst: Die Unterstützungen tragen dazu bei, dass osu! am Laufen ist, ohne dabei für das Spiel selber zahlen zu müssen.
+### Herzabzeichen
 
-## Vorteile als osu!supporter
+::: Infobox
+![](img/userpage.png?1 "Profil mit osu!supporter")
+:::
 
-- osu!direct (Direkter Download von Beatmaps im Spielclient)
-- osu!test (Testclient für osu!, um neue Updates und Features vor Veröffentlichung auszuprobieren)
-- [Chat Console](/wiki/Chat_Console): Hellgelber Name im Chat (die anderen sehen dich in dieser Farbe, du siehst dich nach wie vor in weiß).
-- [Beatmap listing](https://osu.ppy.sh/beatmapsets) (?): Unterscheidet Beatmap Suchergebnisse zwischen "Gespielt" und "Ungespielt".
-- [Skinning](/wiki/Skinning): Zusätzliche Skin-Elemente können verwendet und editiert werden.
-  - Genauer gesagt, `menu-background.jpg` (Hauptmenü); `matchsetup-background.png` (Multiplayer); `search-background.png` (osu!direct)
-- [Feature Requests](https://osu.ppy.sh/community/forums/4): Zusätzliche Votes für das Feature Requests Forum (Zwei Stück pro Monat).
-- [Songauswahl](/wiki/Interface): Die Möglichkeit, bei Beatmap Rankings nach Land, Freunden und mod-spezifischen Scores zu filtern.
-- Dein Profil: `https://osu.ppy.sh/users/`
-  - Du kannst deine eigene individuelle Userpage aktivieren.
-    - Dieser wird nie deaktiviert, selbst wenn du kein osu!supporter mehr bist.
-  - Die Möglichkeit, einmalig deinen Username zu ändern (sobald dieser Versuch aufgebraucht ist, ist es dir nicht gestattet, noch einmal diesen zu ändern).
-  - Erhöht die Beatmap Submission Anzahl (bis zu acht Beatmaps ingesamt im Pending gleichzeitig)
-- [Performance Ranking](https://osu.ppy.sh/rankings/osu/performance): Die Option "filter to friends" ist verfügbar.
-- *Weitere Features werden noch hinzugefügt*
+::: Infobox
+![](img/usercard-DE.png "Benutzerkarte mit osu!supporter")
+:::
 
-## Geschäftlicher Teil
+Unterstützer bekommen ein Abzeichen mit Herzen darauf, das auf der Webseite normalerweise neben ihrem Benutzernamen angezeigt wird. Die Anzahl der Herzen hängt ab von der Dauer von osu!supporter, die der Nutzer insgesamt erworben oder erhalten hat:
 
-### Kosten
+- Weniger als 1 Jahr: 1 Herz
+- Zwischen 1 und 5 Jahre: 2 Herzen
+- Mehr als 5 Jahre: 3 Herzen
 
-[Benutzt diese Webseite zum Umrechnen](https://finanzen.net/waehrungsrechner/) oder sucht hier in [Google](https://www.google.com.my/#q=usd+exchange+rate) nach, um den Preis in eurem Land nachzuprüfen. Derzeitig wird es in US Dollars verrechnet.
+### Farbe des Nutzernamens
 
-![Beispiel hierfür](img/selecting-duration.jpg?1 "Beispiel hierfür")
+::: Infobox
+![](img/chat.png "Eine Person mit osu!supporter im Chat")
+:::
 
-| Monate | Kosten ($) | Kosten (€) (Eurostand nach dem 10.06.2014) |
-| :-: | :-- | :-- |
-| 1 | 4 | 2.95 |
-| 2 | 8 | 5.90 |
-| 4 | 12 (-25%) | 8.85 |
-| 6 | 16 (-33%) | 11.81 |
-| 8 | 20 (-38%) | 14.76 |
-| 9 | 22 (-39%) | 16.23 |
-| 10 | 24 (-40%) | 17.71 |
-| 12 | 26 (-46% max) | 19.19 |
-| 24 | 52 (-46% max) | 38.38 |
+Nutzernamen von aktiven Unterstützern erscheinen leuchtend gelb im [Chat](/wiki/Client/Interface/Chat_console) für andere Benutzer.
 
-- Kosten können individuel bestimmt werden. Außerdem gibt es keine Vergünstigung fürs Gruppenschenken.
+### Editierbare Profilsektion
 
-### Entscheidung
+Unterstützer erhalten einen neuen Profilabschnitt namens `ich!`, welcher oft als Benutzerseite bezeichnet wird. Die Benutzerseite dient als persönlicher, editierbarer Bereich, in dem Text mit [BBCode](/wiki/BBCode) formatiert ist. Diese Funktion ist permanent und bleibt bearbeitbar, selbst nachdem osu!supporter ausläuft.
 
-Im Normalfall wird dein Account für den Kauf eines Supporter Tag angegeben. Sofern du diesen nicht für dich kaufen willst, klicke auf "Gift another player" und schreibe den Namen des jeweiligen Users hin, dem der Tag gewidmet ist. Wenn du mehr als nur einem User einen Supporter Tag schenken möchtest, klicke auf "Add another tag" neben "Checkout". Nachdem du bestätigt hast, dass es sich auch um diesen Benutzer handelt, schiebe den weißen Schalter bei jedem Benutzer, um zu bestimmen, wie lange der Supporter Tag wirken soll und wie du insgesamt zahlst. Du kannst bei jedem Benutzer eine unterschiedliche Zeit angeben, wo es dann dementsprechend unterschiedliche Preise geben wird. Sobald du die Länge bei jedem bestimmt hast, klick auf "Checkout".
+Die `ich!`-Seite könnte ein guter Platz sein für:
 
-### Bezahlung
+- Banner, Kollaborationen und Infographiken, um das Profil aufzuhübschen
+- Einige Absätze oder Einträge, die Einblicke in das Leben des Spielers gewähren
+- Ein Schaufenster der beliebtesten Beatmaps, Mapper oder alles andere, das als wichtig erachtet wird
 
-Nun hast du verschiedene Bezahloptionen, die weltweit verwendet werden. Empfehlenswerte Bezahlmethoden sind [PayPal](https://www.paypal.com) oder Kreditkarten. Zwar gibt es auch andere Möglichkeiten wie etwa per SMS Bezahlung, allerdings wird da eine zusätzliche Gebühr angerechnet und ist daher nicht unbedingt die kostengünstigste Bezahlmethode. Wenn du weniger als deine Gesamtkosten ("Total Cost") in "dorrah" bezahlst (zusätzliche Kosten, sofern nicht Paypal benutzt wird, sind inkludiert), erhälst du nicht deine(n) Abzeichen.
+### Profilbanner
 
-### Dauer
+Unterstützer können des Weiteren ihr Profil durch ein Titelbild anpassen:
 
-![Der Vergleich: Inaktiver und aktiver osu!supporter.](img/status.jpg?1 "Der Vergleich: Inaktiver und aktiver osu!supporter.")
+- Klicke auf das Stiftsymbol in der rechten, unteren Ecke des Cover-Platzhalters.
+- Wähle ein neues Titelbild aus den vorgegebenen Optionen oder lade dein eigenes Bild hoch (die Dimensionen sollten 2400 x 640 sein).
 
-Sobald die Transaktion abgeschlossen ist, wird auf deinem Profil unter "Recent Activity" folgendes stehen: "{Name des Benutzers} has become an osu! supporter - thanks for your generosity!" (sofern das der erste Tag auf dem jeweiligen Account ist). Sofern schonmal osu!Supporter geholt wurde, wird stattdessen "{Name des Benutzers} has once again chosen to donate to the osu! cause - thanks for your generosity!" stehen. Wenn du dir den für dich selber gekauft hast, wirst du unter deinem Profilbild das osu!supporter Abzeichen finden. Um nachzuprüfen, wann dieser abläuft, [kehre zur Seite zurück, woher du diesen gekauft hast](https://osu.ppy.sh/home/support).
+Sobald osu!supporter ausläuft wird das Titelbild bestehen bleiben, kann aber nicht geändert werden.
+
+### Eine kostenlose Änderung des Benutzernamens
+
+*Anmerkung: Kleinere Namensänderungen können beim Account-Support-Team kostenlos beantragt werden — siehe [Hilfecenter/Account § Kann ich den Benutzernamen meines Accounts ändern?](/wiki/Help_centre/Account#name-changes).*
+
+osu!supporter zu bekommen ist verbunden mit der Fähigkeit, den Benutzernamen beim ersten Mal kostenlos zu ändern, unter den [üblichen Bedingungen](/wiki/Help_centre/Account#name-changes).
+
+### osu!direct
+
+osu!direct ist das Such- und Downloadmodul für Beatmaps im Spiel, welches nur für Unterstützer verfügbar ist. Es kann über das Hauptmenü erreicht werden, indem man auf das vertikale Label `osu!direct` auf der rechten Seite des Bildschirms klickt. Zusätzlich zu einer eingebauten Beatmap-Auflistung bietet osu!direct andere Wege, an neue Beatmaps zu gelangen, ohne das Spiel zu verlassen:
+
+- Beatmap-Links im Chat, die auf Beatmaps auf der osu!-Webseite zeigen, lösen jetzt im Spiel eine Aufforderung zum Herunterladen aus
+- Automatisches Herunterladen von Beatmaps während des Spielens in einer [Mehrspieler](/wiki/Client/Interface/Multiplayer)-Lobby oder beim [Zuschauen](/wiki/Gameplay/Spectating) eines anderen Spielers, als eine [Opt-out-Einstellung](/wiki/Client/Options#integration)
+- Automatische Verlinkung von aktuell gespielten Beatmaps für Zuschauer im Chat-Tab `#spectator`, als eine [Opt-out-Einstellung](/wiki/Client/Options#mitteilungen-und-privatsphäre)
+
+### Erweiterte Ranglisten
+
+Unterstützer haben Zugriff auf mehrere beatmapspezifische [Ranglisten](/wiki/Beatmap#ranglisten), die sowohl im Spiel als auch auf der Webseite verfügbar sind:
+
+- Globale Ranglisten für jede Kombination an [Spielmodifikationen](/wiki/Gameplay/Game_modifier)
+- Länderspezifische Ranglisten von Spielern, die die gleiche Flagge tragen
+- Freundesranglisten, die die Position eines Spielers auf einer Beatmap verglichen mit seinen Freunden zeigen
+
+### Erhöhte Grenzwerte
+
+osu! bietet eine Lockerung der Grenzwerte für verschiedene Online-Features für Unterstützer an:
+
+| Wert | Normales Limit | osu!supporter-Limit |
+| :-- | :-: | :-: |
+| [Ausstehende Beatmaps](/wiki/Beatmap/Category#work-in-progress-und-ausstehend) | `4 + min(gerankte Beatmaps, 4)`, bis zu **8**[^pending-beatmaps-ref] | `8 + min(gerankte Beatmaps, 12)`, bis zu **20**[^pending-beatmaps-ref] |
+| Online-Beatmap-Favoriten | 100 | 1000 |
+| Anzahl der Freunde | 250 | 500 |
+
+Des Weiteren werden Besitzern von osu!supporter weniger strenge Download-Beschränkungen gewährt.
+
+### Extra skinnbare Elemente
+
+Nach Erhalt von osu!supporter können einige visuelle und akustische Elemente der osu!-Benutzeroberfläche benutzerdefiniert angepasst werden:
+
+| Element | Beschreibung |
+| :-- | :-- |
+| `menu-background.jpg` | Der Hintergrund des Hauptmenüs |
+| `welcome_text.png` | Der Text "welcome", der beim Starten des Spiels erscheint |
+| `welcome.wav` | Das Sample "welcome to osu!", das beim Starten des Spiels abgespielt wird |
+| `seeya.wav` | Das Sample "see ya next time", das beim Beenden des Spiels abgespielt wird |
+
+Für mehr Details, siehe [Skinning/Benutzeroberfläche § Hauptmenü](/wiki/Skinning/Interface#main-menu) und [Skinning/Sounds § Hauptmenü](/wiki/Skinning/Sounds#main-menu).
+
+### Erweiterte Suche
+
+::: Infobox
+![](img/beatmap-search-DE.png "Beatmap-Suchseite auf der Webseite, mit zwei neuen Filtern am unteren Ende")
+:::
+
+Unterstützer haben Zugang zu einem erweiterten Satz von [Beatmap-Suchfiltern](https://osu.ppy.sh/beatmapsets):
+
+- Beatmaps, die gespielt (oder nicht gespielt) wurden
+- Beatmaps, auf denen ein Score mit einer bestimmten [Note](/wiki/Gameplay/Grade) erreicht wurde
+
+### Mehrspieler in experimentellen Builds von osu!
+
+Unterstützer können auf der Early-Access-Updatequelle "cutting edge" auf den Mehrspielermodus zugreifen.
+
+## Verbleibende Dauer
+
+::: Infobox
+![](img/status-DE.jpg "osu!supporter-Kaufstatistik")
+:::
+
+Die restliche osu!supporter-Dauer sowie die Gesamtzahl an Beiträgen, Tag-Käufen und Geschenken ist oben auf der [osu!supporter-Promo-Seite](https://osu.ppy.sh/home/support) verfügbar.
+
+## osu!supporter kaufen
+
+::: Infobox
+![](img/store-product.jpg?2 "osu!supporter-Produktbanner aus dem osu!store")
+:::
+
+Um osu!supporter zu kaufen, besuche die [osu!supporter-Shop-Seite](https://osu.ppy.sh/store/products/supporter-tag) und passe die Dauer des Supporter-Tags mit Hilfe des Schiebereglers oder den Buttons mit der darunter befindlichen Anzahl an Monaten an. Alle Preise sind in United States Dollar (USD) angegeben und enthalten keine möglichen Gebühren für das Bezahlungssystem.
+
+Klicke danach auf `Zum Warenkorb hinzufügen`, um das Supporter-Tag in den osu!store-Einkaufswagen zu legen. Gehe zum Abschluss des Kaufs zum [Einkaufswagen](https://osu.ppy.sh/store/cart) und klicke `Zur Kasse`, dann folge den Anweisungen auf dem Bildschirm.
+
+### osu!supporter verschenken
+
+osu!supporter kann auch an andere Spieler verschenkt werden, indem ihr Nutzername in die graue Box unter der Benutzerkarte eingegeben wird. Weitere Personen können hinzugefügt werden, indem man zur Shop-Seite zurückgeht und den Prozess wiederholt.
+
+### Abschluss
+
+Nachdem die Transaktion abgeschlossen wurde, taucht ein neues Event in der Sektion `Neulich` im Profil sowohl des Schenkenden als auch des Beschenkten:
+
+- `{Benutzername} ist zum osu!supporter geworden - vielen Dank für deine Großzügigkeit!`, wenn es das erste Mal ist, dass der Nutzer osu!supporter erhält.
+- `{Benutzername} hat sich erneut dazu entschieden, osu! zu unterstützen - vielen Dank für deine Großzügigkeit!`, wenn der Nutzer bereits vorher osu!supporter war.
+- `{Benutzername} hat osu!supporter als Geschenk erhalten!`, für den Fall, dass das Tag verschenkt wurde.
+
+Zusätzlich wird der Geschenkgeber und der Empfänger eine E-Mail-Benachrichtigung erhalten, die den Kauf erwähnt.
+
+## Referenzen
+
+[^pending-beatmaps-ref]: [Increase the number of pending beatmap slots](https://osu.ppy.sh/community/forums/topics/1388182?n=34)

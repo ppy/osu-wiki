@@ -1,3 +1,8 @@
+---
+tags:
+  - vote
+---
+
 # Content voting process
 
 Content submitted to the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (BN), [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) (GMT) and the [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (NAT) for review undergoes a special voting process as outlined below.

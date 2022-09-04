@@ -1,5 +1,4 @@
 ---
-stub: true
 tags:
   - GD
   - guest beatmap
@@ -7,10 +6,22 @@ tags:
   - guest map
 ---
 
-# Difficultés d'invités
+# Guest difficulties
 
-*Pour les règlements concernant les difficultés d'invités, voir : [Critères de classement](/wiki/Ranking_Criteria)*
+*Pour les règlements concernant les guest difficulties, voir : [Critères de classement](/wiki/Ranking_Criteria)*
 
-Les **difficultés d'invités** (abrégé en *GD*) sont des [difficultés](/wiki/Beatmap/Difficulty) d'une [beatmap](/wiki/Beatmap) qui ne sont pas créée par l'[hôte de la beatmap](/wiki/Beatmap/Beatmap_host). Elles peuvent généralement être identifiées par leur nom de difficulté contenant le nom d'utilisateur du créateur invité. Une beatmap comportant plusieurs créateurs est également appelée [difficulté collaborative](/wiki/Beatmap/Beatmap_collaborations).
+Les **guest difficulties**, abrégé en *GD*, sont des [difficultés](/wiki/Beatmap/Difficulty) d'une [beatmap](/wiki/Beatmap) qui ne sont pas créée par l'[hôte de la beatmap](/wiki/Beatmap/Beatmap_host). Elles peuvent généralement être identifiées par leur nom de difficulté contenant le nom d'utilisateur du créateur invité.
 
-Les difficultés d'invités sont souvent demandées en messages privés par le ou les créateurs. Bien que les GD puissent également être demandées dans les [modding queues](https://osu.ppy.sh/community/forums/60).
+Bien qu'elles ne soient pas obligatoires, les guest difficulties peuvent être bénéfiques en de nombreuses occasions, car elles présentent souvent des styles de mapping complètement différents les uns des autres, ce qui permet de diversifier la beatmap et de réduire l'épuisement du mapping. Les guest difficulties sont le plus souvent demandées par le biais de messages privés entre mappeurs, mais elles peuvent aussi être demandées par d'autres moyens, comme le canal `#mapping` du jeu ou les [files d'attente de modding](https://osu.ppy.sh/community/forums/60).
+
+Les guest difficulties ne doivent pas être confondues avec les difficultés qui mettent en scène plusieurs mappeurs, qui sont plutôt connues sous le nom de *[collabs](/wiki/Beatmap/Beatmap_collaborations)*.
+
+## Propriétaire
+
+::: Infobox
+![](img/gd_ownership.png "Un exemple du panneau de contrôle du propriétaire des guest difficulties")
+:::
+
+Sur la page de [discussion d'une beatmap](/wiki/Beatmap_discussion), l'hôte de la beatmap peut transférer la propriété des guest difficulties à leurs mappeurs respectifs par le biais du bouton `Difficulty Owner`. Cela permet aux propriétaires des guest difficulties de résoudre eux-mêmes les problèmes en suspens dans leurs difficultés.
+
+Le propriétaire d'une guest difficulty ne peut pas être modifié si la beatmap est [qualifiée](/wiki/Beatmap/Category#qualifiée), [classée](/wiki/Beatmap/Category#classée), ou [loved](/wiki/Beatmap/Category#loved).

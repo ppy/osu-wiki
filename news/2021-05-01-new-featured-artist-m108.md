@@ -12,7 +12,7 @@ Stepping into the limelight is **m108**, a Japanese producer who's been making a
 
 We've snagged **11** tracks for the today's haul, including *Crow Solace* from 2012's *BMS OF FIGHTERS* event — the song that really put **m108** on the map.
 
-Speaking of maps, cool dudes from the [Mappers' Guild](/wiki/Mappers_Guild) have been grinding out [showcase maps](/wiki/Featured_Artists/Featured_Artist_Showcase_Beatmaps) specifically for this announcement! Play through any of those to experience **m108**'s sound for yourself, or listen to his song *Sunflower* in the world's longest distance liveplay video below:
+Speaking of maps, cool dudes from the [Mappers' Guild](/wiki/Community/Mappers_Guild) have been grinding out [showcase maps](/wiki/Featured_Artists/Featured_Artist_showcase_beatmaps) specifically for this announcement! Play through any of those to experience **m108**'s sound for yourself, or listen to his song *Sunflower* in the world's longest distance liveplay video below:
 
 <div align="center">
     <video width="95%" controls>

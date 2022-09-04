@@ -2,7 +2,7 @@
 
 Die folgenden sind Schalter, die in .osu (und in manchen Fällen in .osb) Dateien das [Skinning](/wiki/Skinning)/[Storyboarding](/wiki/Storyboard) beeinflussen.
 
-Siehe auch [skin.ini](/wiki/Skinning/Skin.ini)
+Siehe auch [skin.ini](/wiki/Skinning/skin.ini)
 
 ## Unter \[General\] Sektion
 

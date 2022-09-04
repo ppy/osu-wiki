@@ -23,7 +23,7 @@ Kamu juga dapat mengklik profil Discord siapa pun yang bermain osu! dan satu ser
 
 ![](img/join.jpg)
 
-## Melihat (*spectate*) pemain lain
+## Melihat (spectate) pemain lain
 
 Tombol ini secara otomatis akan berubah juga fungsinya supaya bisa melihat (*spectate*) pemain lain yang sedang bermain.
 

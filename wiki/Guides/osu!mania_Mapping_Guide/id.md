@@ -1,3 +1,7 @@
+---
+outdated_translation: true  # exact date unknown, but it differs significantly from the original article
+---
+
 # Panduan Mapping osu!mania
 
 ## Prologue

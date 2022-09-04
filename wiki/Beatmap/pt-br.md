@@ -14,16 +14,16 @@ Um *beatmap* (às vezes chamado de *beatmapset*) é um conjunto de níveis de jo
 - a própria música, armazenada em formato MP3 ou Ogg.
 - [imagens de fundo](/wiki/Beatmap/Background), ou um vídeo, agindo como um campo de jogo.
 - [*hitsounds* customizados](/wiki/Beatmapping/Hitsound) para o arranjo e melhor feedback auditivo (opcional).
-- [*storyboard*](/wiki/Storyborads) com gráficos e efeitos especiais, servindo como história de fundo ou tema para a música (opcional).
+- [*storyboard*](/wiki/Storyboard) com gráficos e efeitos especiais, servindo como história de fundo ou tema para a música (opcional).
 - [*skin* customizada](/wiki/Skinning), que muda a aparência da interface e elementos da *gameplay* (opcional).
 
-*Nota: Alguns recursos visuais e auditivos de um beatmap podem ser desativados nas [configurações visuais](/wiki/Visual_Settings)*
+*Nota: Alguns recursos visuais e auditivos de um beatmap podem ser desativados nas [configurações visuais](/wiki/Client/Interface/Visual_settings)*
 
 ## Dificuldade
 
-*Artigo principal: [Dificuldade](/wiki/beatmap/Difficulty)*
+*Artigo principal: [Dificuldade](/wiki/Beatmap/Difficulty)*
 
-Uma *dificuldade* é um arquivo com a [extensão `.osu`](/wiki/osu!_File_Formats/Osu_(file_format)) que descreve a localização de *hit objects*, *hitsounds*, e efeitos especiais como [kiai time](/wiki/Kiai_time). Ele também contém [configurações de dificuldade](/wiki/beatmap_editor/Song_Setup#difficulty) e outros parâmetros que afetam a *gameplay* diretamente. Dificuldades de um *beatmap* têm estruturas diferentes e às vezes pode ser jogado em apenas um [modo de jogo](/wiki/Game_mode). O sistema de [classificação de estrelas](/wiki/beatmapping/Star_rating) é usado para visualizar o nível de habilidade necessária para cada dificuldade.
+Uma *dificuldade* é um arquivo com a [extensão `.osu`](/wiki/osu!_File_Formats/Osu_(file_format)) que descreve a localização de *hit objects*, *hitsounds*, e efeitos especiais como [kiai time](/wiki/Gameplay/Kiai_time). Ele também contém [configurações de dificuldade](/wiki/Client/Beatmap_editor/Song_Setup#difficulty) e outros parâmetros que afetam a *gameplay* diretamente. Dificuldades de um *beatmap* têm estruturas diferentes e às vezes pode ser jogado em apenas um [modo de jogo](/wiki/Game_mode). O sistema de [classificação de estrelas](/wiki/Beatmapping/Star_rating) é usado para visualizar o nível de habilidade necessária para cada dificuldade.
 
 ## Envio
 
@@ -31,7 +31,7 @@ Uma *dificuldade* é um arquivo com a [extensão `.osu`](/wiki/osu!_File_Formats
 
 Autores de *beatmap* podem enviar suas criações para a [lista pública de *beatmap*](https://osu.ppy.sh/beatmapsets). Mesmo que cada beatmap seja atribuído para [uma única pessoa](/wiki/Beatmap/Beatmap_host), é frequentemente um trabalho em conjunto: algumas dificuldades podem ser mapeadas por outras pessoas trabalhando [em colaboração](/wiki/Beatmap/Beatmap_collaborations) ou [separadamente](/wiki/Beatmap/Guest_difficulty).
 
-Depois do envio, um *beatmap* ganha campos de metadados adicionais, como descrição, idioma, gênero e o marcador de conteúdo explícito, que podem ser mudados pelo autor do beatmap no *website*. O *beatmap* também adquire [texto de título](Title_Text), aparência que pode ser alterada com ajuda da [Equipe de Avaliação de Nomeação](/wiki/People/The_Team/Nomination_Assessment_Team).
+Depois do envio, um *beatmap* ganha campos de metadados adicionais, como descrição, idioma, gênero e o marcador de conteúdo explícito, que podem ser mudados pelo autor do beatmap no *website*. O *beatmap* também adquire [texto de título](Title_text), aparência que pode ser alterada com ajuda da [Equipe de Avaliação de Nomeação](/wiki/People/The_Team/Nomination_Assessment_Team).
 
 ### Identificação
 
@@ -47,14 +47,14 @@ https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{GameMode}/{BeatmapID}
 
 Um beatmap enviado pertence a uma das seguintes categorias, que podem mudar ao longo do tempo:
 
-- [Cemitério](Category#graveyard)
-- [Em progresso / Pendente](Category#work-in-progress-and-pending)
-- [Qualificado](Category#qualified)
-- [Ranqueado](Category#ranked)
-- [Aprovado](Category#approved)
-- [Loved](Category#loved)
+- [Cemitério](Category#cemitério-(enterrados))
+- [Em progresso / Pendente](Category#pendente)
+- [Qualificado](Category#qualificados)
+- [Ranqueado](Category#ranqueados)
+- [Aprovado](Category#aprovados)
+- [Loved](Category#amados)
 
-Algumas categorias têm [critérios de envio](/wiki/Ranking_Criteria) e permitem os *beatmaps* de terem [tabelas de classificação](#tabelas-de-classificação) momentâneos ou permanentes. A forma mais popular de alcançar isso é o [processo de rankeamento de beatmap](/wiki/Beatmap_ranking_procedure), enquanto a segunda opção é ter o beatmap [loved](Category#loved).
+Algumas categorias têm [critérios de envio](/wiki/Ranking_Criteria) e permitem os *beatmaps* de terem [tabelas de classificação](#tabelas-de-classificação) momentâneos ou permanentes. A forma mais popular de alcançar isso é o [processo de rankeamento de beatmap](/wiki/Beatmap_ranking_procedure), enquanto a segunda opção é ter o beatmap [loved](Category#amados).
 
 ## Baixando beatmaps
 
@@ -93,7 +93,7 @@ Jogadores de osu! entre todos os modos de jogo usam beatmaps para [subir de rank
 - Ranking por país composto por jogadores de uma mesma bandeira;
 - Ranking de amigos que mostra a posição de um jogador em relação a seus amigos.
 
-O top 500 em cada dificuldade tem [replays](/wiki/Replay), que podem ser assistidos online ou salvos para exibição posterior em uma tabela de classificação local.
+O top 500 em cada dificuldade tem [replays](/wiki/Gameplay/Replay), que podem ser assistidos online ou salvos para exibição posterior em uma tabela de classificação local.
 
 ### Charts e Spotlights
 
@@ -101,7 +101,7 @@ O top 500 em cada dificuldade tem [replays](/wiki/Replay), que podem ser assisti
 
 Desde seus primeiros dias, a comunidade teve várias formas de exibir mapas excelentes e únicos. Uma das primeiras formas documentadas foram *charts* mensais e sazonais consistindo de um pequeno conjunto de *beatmaps* ranqueados, em que jogadores do topo da tabela de classificação exibiam pontuações totais entre os mapas e seriam premiados com [osu!supporter](/wiki/osu!supporter).
 
-O sistema de *chart* mais tarde evoluiu no projeto [Beatmap Spotlights](/wiki/Beatmap_Spotlights), que agora opera em condições similares, mas ocorre nas *playlists* do osu!lazer.
+O sistema de *chart* mais tarde evoluiu no projeto [Beatmap Spotlights](/wiki/Beatmap_Spotlights), que agora opera em condições similares, mas ocorre nas *playlists* do osu!(lazer).
 
 ### Concursos de beatmap
 
@@ -113,4 +113,4 @@ A comunidade do osu! regularmente realiza diferentes concursos em prol de promov
 
 *Artigo principal: [Artistas em destaque](/wiki/Featured_Artists)*
 
-Artistas em destque é um programa da comunidade feito pela [nossa equipe](/wiki/people/The_Team) que foca em licenciar música de vários artistas para o osu! e colocá-las disponíveis para *mapping*. A [listagem de artistas em destaque](https://osu.ppy.sh/beatmaps/artists) do *website* exibe cada artista envolvido e fornece *pre-timed templates* para *mapping*.
+Artistas em destque é um programa da comunidade feito pela [nossa equipe](/wiki/People/The_Team) que foca em licenciar música de vários artistas para o osu! e colocá-las disponíveis para *mapping*. A [listagem de artistas em destaque](https://osu.ppy.sh/beatmaps/artists) do *website* exibe cada artista envolvido e fornece *pre-timed templates* para *mapping*.

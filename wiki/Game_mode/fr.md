@@ -1,15 +1,18 @@
----
-outdated: true
-outdated_since: 92d9c98fac5191ce3931d830ca40dbaa3e3a0094
----
-
 # Modes de jeu
 
-osu! possède quatre **modes de jeu** : [osu!](#-osu!), [osu!taiko](#-osu!taiko), [osu!catch](#-osu!catch) et [osu!mania](#-osu!mania). Chacun d'entre eux possède des mécanismes de jeu uniques et a été initialement inspiré par d'autres jeux de rythme.
+osu! propose quatre **modes de jeu** aux mécaniques différentes, inspirés à l'origine d'autres jeux de rythme :
 
-Chaque mode de jeu a sa propre icône : ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] (osu!, osu!taiko, osu!catch, et osu!mania respectivement).
+- ![][osu!] [osu!](#osu!)
+- ![][osu!taiko] [osu!taiko](#osu!taiko)
+- ![][osu!catch] [osu!catch](#osu!catch)
+- ![][osu!mania] [osu!mania](#osu!mania)
 
-Le mode de jeu par défaut est osu!. Cependant, au démarrage, osu! s'ouvrira avec le mode de jeu qui a été sélectionné en dernier. Pour passer d'un mode de jeu à un autre, le joueur peut soit cliquer sur le bouton `Mode` en bas de l'écran de sélection de beatmaps, soit appuyer sur les touches `Ctrl` + `1`, `Ctrl` + `2`, `Ctrl` + `3`, ou `Ctrl` + `4` pour basculer entre les modes osu!, osu!taiko, osu!catch, et osu!mania respectivement.
+Pour passer d'un mode à l'autre, cliquez sur le bouton `Mode` en bas de l'écran de sélection des beatmaps, ou utilisez ces combinaisons de touches :
+
+- `Ctrl` + `1` pour osu!
+- `Ctrl` + `2` pour osu!taiko
+- `Ctrl` + `3` pour osu!catch
+- `Ctrl` + `4` pour osu!mania
 
 ![Interface de sélection du mode](/wiki/shared/Interface_mode.png "Interface de sélection du mode")
 
@@ -17,7 +20,7 @@ Le mode de jeu par défaut est osu!. Cependant, au démarrage, osu! s'ouvrira av
 
 *Page principale : [osu!](osu!)*
 
-*osu!* est le mode de jeu par défaut du client d'osu! et est basé sur le jeu de rythme original *[Osu! Tatakae! Ouendan](https://fr.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)* par [iNiS](https://fr.wikipedia.org/wiki/INiS). Sur osu!, le joueur doit cliquer sur des cercles, tenir des sliders et faire tourner des spinners au rythme des chansons.
+*osu!* est le mode par défaut, dans lequel les joueurs doivent cliquer sur des cercles, tenir des sliders et faire tourner des spinners en suivant le rythme de la musique. Il est basé sur le jeu de rythme original *[Osu! Tatakae! Ouendan](https://fr.wikipedia.org/wiki/Osu!_Tatakae!_%C5%8Cendan)* par [iNiS](https://fr.wikipedia.org/wiki/INiS). osu! a sa propre mascotte appelée [pippi](/wiki/Mascots#pippi), une fille aux cheveux roses et noirs.
 
 ![Gameplay d'osu!](/wiki/shared/osu-gameplay.jpg "Gameplay d'osu!")
 
@@ -25,7 +28,7 @@ Le mode de jeu par défaut est osu!. Cependant, au démarrage, osu! s'ouvrira av
 
 *Page principale : [osu!taiko](osu!taiko)*
 
-*osu!taiko* est basé sur la série de jeux *[Taiko no Tatsujin](https://fr.wikipedia.org/wiki/Taiko_no_Tatsujin)* produite par [Bandai Namco Entertainment](https://fr.wikipedia.org/wiki/Bandai_Namco_Entertainment). Conçu pour imiter la sensation de jouer d'un vrai tambour, le joueur utilise un clavier ou une batterie pour frapper des cercles de différentes couleurs sur un seul convoyeur.
+*osu!taiko* simule le processus de jeu d'un vrai tambour, où les joueurs utilisent un clavier ou une batterie pour frapper des cercles de couleurs différentes sur un seul tapis. Il est basé sur la série de jeux *[Taiko no Tatsujin](https://fr.wikipedia.org/wiki/Taiko_no_Tatsujin)* produite par [Bandai Namco Entertainment](https://fr.wikipedia.org/wiki/Bandai_Namco_Entertainment). La mascotte d'osu!taiko est [Mocha](/wiki/Mascots#mocha), une fille aux cheveux verts en kimono tenant des baguettes.
 
 ![Gameplay d'osu!taiko](/wiki/shared/taiko-gameplay.jpg "Gameplay d'osu!taiko")
 
@@ -33,7 +36,7 @@ Le mode de jeu par défaut est osu!. Cependant, au démarrage, osu! s'ouvrira av
 
 *Page principale : [osu!catch](osu!catch)*
 
-*osu!catch* est vaguement basé sur un mini-jeu à l'intérieur d'un simulateur [Beatmania](https://fr.wikipedia.org/wiki/Beatmania), qui lui-même est censé être basé sur le mode *EZ2CATCH* de la série [EZ2DJ](https://en.wikipedia.org/wiki/EZ2DJ). Le mode de jeu consiste en des fruits de différentes variétés tombant du haut de l'écran et un "attrapeur" tenant une assiette pour attraper les fruits.
+Dans *osu!catch*, des fruits de différentes variétés tombent du haut de l'écran, et le joueur doit les attraper en rythme. Pour ce faire, il contrôle un [catcher](/wiki/Mascots#yuzu) avec une assiette sur la tête pour attraper les fruits. Ce mode est vaguement basé sur un mini-jeu à l'intérieur d'un simulateur [Beatmania](https://fr.wikipedia.org/wiki/Beatmania), qui est lui-même basé sur le mode *EZ2CATCH* de la série [EZ2DJ](https://en.wikipedia.org/wiki/EZ2DJ). La mascotte d'osu!catch est [Yuzu](/wiki/Mascots#yuzu), un garçon aux cheveux bleus.
 
 ![Gameplay d'osu!catch](/wiki/shared/catch-gameplay.jpg "Gameplay d'osu!catch")
 
@@ -41,7 +44,7 @@ Le mode de jeu par défaut est osu!. Cependant, au démarrage, osu! s'ouvrira av
 
 *Page principale : [osu!mania](osu!mania)*
 
-*osu!mania* est basé sur une variété de jeux de rythme à base de notes défilant sur l'écran (notamment [Dance Dance Revolution](https://fr.wikipedia.org/wiki/Dance_Dance_Revolution) et Beatmania). Le mode de jeu a été principalement introduit et mis en œuvre par [woc2006](https://osu.ppy.sh/users/1105845), et est conçu pour imiter la sensation d'un vrai piano grâce à l'utilisation des touches du clavier.
+*osu!mania* est un mode de jeu rythmique à défilement vertical (VSRG) conçu comme un simulateur de piano. Il a été principalement [introduit et implémenté](https://osu.ppy.sh/community/forums/topics/100751) par [woc2006](https://osu.ppy.sh/users/1105845), et est basé sur une variété de jeux de rythme de type tapis roulant (notamment [Dance Dance Revolution](https://fr.wikipedia.org/wiki/Dance_Dance_Revolution) et [Beatmania](https://fr.wikipedia.org/wiki/Beatmania)). Les mascottes d'osu!mania sont les jumeaux [Mani et Mari](/wiki/Mascots#mani-&-mari), tous deux aux cheveux violets et violets clairs.
 
 ![Gameplay d'osu!mania](/wiki/shared/mania-gameplay.jpg "Gameplay d'osu!mania")
 

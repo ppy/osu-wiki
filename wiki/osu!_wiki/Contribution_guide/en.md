@@ -1,106 +1,66 @@
 # osu! wiki contribution guide
 
-Thanks for your interest in making the osu! wiki better! This quick-start guide is intended for newcomers that have never worked with GitHub and the osu! wiki contribution workflow before. If you already have experience using GitHub, feel free to skip this guide and follow the common feature-branch workflow for content updates in this repository.
+Thanks for your interest in making the osu! wiki better! This article covers the contribution process step by step. In case you are familiar with GitHub, feel free to follow the common feature-branch workflow for proposing changes and skip to the [self-check](#self-check) section.
 
-If, during any part, you are confused and/or need further help, feel free to send a message to the [osu!dev Discord](https://discord.gg/ppy) (`#osu-wiki` channel).
+New contributors are not expected to be familiar with GitHub or [git](https://git-scm.com/), because they're tools mainly tailored towards developers. Don't worry if you don't get something right the first time — a [wiki maintainer](/wiki/osu!_wiki/Maintenance/List_of_maintainers) will either point you in the right direction or fix it for you.
 
-## Getting started
+In case you need tips or advice during any stage, don't hesitate to ask in the `#osu-wiki` channel of the [osu!dev Discord server](/wiki/Community/osu!dev_Discord_server).
 
-### Registering
+## Areas of interest
 
-1. [Sign up](https://github.com/join) for a GitHub account if you don't have one.
-2. [Sign in](https://github.com/login).
-3. Continue to [Forking](#forking).
+If you want to help, but don't know where to start, see [osu! wiki maintenance § Routines](/wiki/osu!_wiki/Maintenance#routines) for a list of tasks which need to be performed regularly, and for ways to help other wiki editors. To familiarise yourself with the formatting language used on the wiki, check Adam Pritchard's [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
-### Forking
+## Editing the wiki
 
-1. Go to the [`osu-wiki` repo](https://github.com/ppy/osu-wiki).
+*For a generalised contribution process, see [GitHub flow - GitHub Docs](https://docs.github.com/en/get-started/quickstart/github-flow)*
 
-2. Click `Fork`.
+The osu! wiki articles are stored on [GitHub][osu_wiki]. To contribute, do the following:
 
-   ![](img/fork.jpg)
+0. [Create](https://github.com/signup) a GitHub account.
+1. Open the [`ppy/osu-wiki`][osu_wiki] repository and click `Fork` in the top-right corner to make a controlled copy of the wiki. To return to your fork, go to [`ppy/osu-wiki`][osu_wiki] and press `Fork` again.
 
-3. Click `Fork` again to go to your fork.
+  - If you've made a fork some time ago, sync it according to [Best practices § Syncing the fork](/wiki/osu!_wiki/Contribution_guide/Best_practices#syncing-the-fork).
 
-4. Seeing something similar to the image below means you made a fork of `ppy/osu-wiki` repo and that you are on your fork.
+2. Read [Best practices § Making changes](/wiki/osu!_wiki/Contribution_guide/Best_practices#making-edits) and perform necessary edits. While you are free to use any application of your choice, the osu! wiki has detailed instructions on two workflows:
 
-   ![](img/forked.jpg)
+  - [GitHub web-based editor](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor) (online, no installation required).
+  - [GitHub Desktop](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop) (offline, offers more control).
 
-5. Continue to [Syncing your fork](#syncing-your-fork).
+## Self-check
 
-### Syncing your fork
+When you are done editing, take some time to proofread your work. Go through the following quick checklist:
 
-1. Go to your fork of the `osu-wiki` repo.
+- **Tone of delivery**: the osu! wiki articles, with rare exceptions, must be written using a neutral register.
+- **Style and grammar**: the articles should be clear, understandable, and require no significant mental effort from the reader. Be consistent and avoid overcomplicated or abrupt sentences. Use editors with built-in spell checkers, such as [Google Docs](https://docs.google.com), to expose typos and grammatical or syntax errors.
+- **[Content parity](/wiki/Article_styling_criteria/Writing#content-parity)**: translations must contain the same information as the original articles (differences in punctuation, wording, or formatting are obviously expected). Instead of changing the contents of the translation, [open an issue](https://github.com/ppy/osu-wiki/issues/new) or an extra pull request for the original if you feel it is incomplete, inaccurate, or outdated.
+- **Structure and formatting**: preview your article with a tool such as [jbt's Markdown Editor](https://jbt.github.io/markdown-editor/) to make sure it looks exactly how you wanted it to be.<!-- TODO(TicClick): we really need an article on markup features specific to the osu! wiki-->
+- **All images and other non-text files** must be [under 1 megabyte](/wiki/Article_styling_criteria/Formatting#file-size). **Screenshots** need to use the default osu! skin and [specific settings](/wiki/Article_styling_criteria/Formatting#screenshots-of-gameplay), including the maximum dimensions of 1280×720.
 
-2. Above the files, there is some text to tell you if your branch is either "behind", "ahead", or "even" with `ppy:master`. If it says that the branch is either "behind" or "ahead and behind" with any amount of behind-commits, your branch is outdated.
+For more specific writing and formatting standards, refer to the [article styling criteria](/wiki/Article_styling_criteria). It's not recommended to read it all at once — a reviewer will likely point out if something needs to be corrected either way.
 
-   ![](img/fork-even.jpg "OK \(no commits and not outdated\)")
+## Pull request
 
-   ![](img/fork-ahead.jpg "OK \(these are your commits\)")
+After the changes are double-checked, committed, and pushed to your fork, you need to propose them to the wiki maintainers by opening a pull request:
 
-   ![](img/fork-behind.jpg "Potentially bad \(your branch is outdated\)")
+1. In **your fork** of the osu! wiki, find the dropdown which says `master↓`, and select the branch with your changes.
+2. Click the `Contribute↓` button and select `Open pull request`.
+3. Fill in the details according to [Best practices § Opening a pull request](/wiki/osu!_wiki/Contribution_guide/Best_practices#opening-a-pull-request) and click `Create pull request`.
 
-   ![](img/fork-ahead-behind.jpg "Potentially bad \(your branch is outdated with your commits\)")
+## Review
 
-3. This isn't much of a problem; that is, if you aren't going to edit a file that was already changed which may be unlikely the more commits you are behind.
+All changes to the osu! wiki are moderated. During that stage, other collaborators point out possible mistakes and ways to fix them, either in free form, or by suggesting direct edits to the pull request. Just like with any other peer review, you need to address the comments by [applying the suggestions](/wiki/osu!_wiki/Contribution_guide/Best_practices#applying-reviews), or by explaining why you'd rather keep things your way.
 
-4. To resolve this, see the [My branch is out of date!](/wiki/osu!_wiki/Contribution_guide/Common_Issues#my-branch-is-out-of-date!) section in the Common Issues article.
+If no one has checked in after a couple of days, try the following:
 
-5. When you complete step 4, continue to [Editing online or locally](#editing-online-or-locally).
+- Make sure you have resolved all suggestions — people may be waiting on your responses.
+- Ask other osu! wiki editors in the [osu!dev Discord server](/wiki/Community/osu!dev_Discord_server) (`#osu-wiki` channel) or in the GitHub comments.
+- To get help with the translation, check a couple of merged pull requests for your language and get in touch with their reviewers and/or authors ([example GitHub query](https://github.com/ppy/osu-wiki/pulls?q=is%3Apr+is%3Amerged+%5BID%5D)).
+- Ask your friends for a quick look!
 
-## Editing online or locally
+In addition to a manual review process, the osu! wiki repository has [a set of automated checks](/wiki/osu!_wiki/Maintenance#ci-checks), which ensure that your changes follow the common style of the wiki and are free from formatting errors. To see their status, open the `Actions` tab of your pull request and follow the diagnostic messages under the errors, if there are any.
 
-At this point, you have two choices:
+## Merge
 
-- [GitHub Web Interface](/wiki/osu!_wiki/Contribution_guide/GitHub_Web_Interface) - edit online; this is best for single article edits.
-- [GitHub Desktop](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop) - edit locally; this is best for single and/or multi article edits (this includes uploading, deleting, and moving images or other files).
+Your changes will eventually be checked by one of the [wiki maintainers](/wiki/osu!_wiki/Maintenance/List_of_maintainers), usually after reviews by other collaborators. If nothing happens after a reasonable amount of time, ask in the comments of the pull request, or in the `#osu-wiki` channel of the [osu!dev Discord server](/wiki/Community/osu!dev_Discord_server). Your changes will appear on the osu! wiki shortly after the merge (in rare cases, this may take up to five hours).
 
-*Note: You are not limited to the two choices listed above for editing. To keep this guide short and simple, these articles will not discuss using other tools in-depth or at all. There are other third party applications that can do more or less than what the GitHub Web Interface and GitHub Desktop already do.*
-
-**When you complete either *GitHub Web Interface* or *GitHub Desktop* article, you can continue to the next section.**
-
-## Finishing
-
-### Opening a pull request
-
-1. Go to the [`ppy/osu-wiki` repo](https://github.com/ppy/osu-wiki).
-
-2. If you were quick enough, you may see this yellow banner.
-
-   ![](img/github-recent.jpg)
-
-3. If you see it, click on the `Compare & pull request` button (skip to step 8). If not, click the `New pull request` button (continue to step 4).
-
-4. On the next page, if you see these two buttons as pictured below, click the `compare across forks`.
-
-   ![](img/compare-across-forks-no.jpg "No good.")
-
-5. Click on the `head fork` dropdown and select the one with your username (it should be the second one).
-
-   ![](img/head-fork.jpg)
-
-6. Click on the `compare` dropdown and select the one with the branch you had created (these are listed alphabetically).
-
-   ![](img/compare-branch.jpg)
-
-7. Click `Create pull request`.
-
-8. Enter the title in English. This should be a very brief explanation of what you changed.
-
-   For article translations, include the two-letter language name of your translations in brackets before the title. Your title can just be the name of the article(s) that you are translating. For example, `[FR] BBCode` would indicate that you are updating the French translation of the [BBCode article](/wiki/BBCode).
-
-9. Fill in the description box with a summary of your changes. You should mention any information relevant to your pull request, such as its completion status and anything you want reviewers to know. You can also make your pull request automatically close issues upon merge by writing "resolves #1" or "closes #1", etc. in the description (see [Closing issues using keywords](https://help.github.com/articles/closing-issues-using-keywords/) on GitHub Help).
-
-10. Once you are ready, click `Create pull request`.
-
-    ![](img/new-pull-request.png)
-
-11. See [Reviews](#reviews) and [Merging](#merging) below.
-
-### Reviews
-
-Once you have created your pull request, other osu! wiki editors may review your changes to help catch some mistakes you may have missed. **You will need to keep up with these reviews,** otherwise your pull request may be marked for closure! If you want someone to review your pull request, you can ask other osu! wiki editors in the [osu!dev Discord](https://discord.gg/ppy) (`#osu-wiki` channel) or in the GitHub comments.
-
-### Merging
-
-For your changes to become appear live on the osu! wiki, your pull request has to be merged. Once your pull request has been reviewed and approved, you can either use the commenting section in GitHub to ask someone to merge it, or do the same in the [osu!dev Discord](https://discord.gg/ppy) (`#osu-wiki` channel). Once it is merged, your changes will take up to five hours to appear live on the osu! wiki.
+[osu_wiki]: https://github.com/ppy/osu-wiki

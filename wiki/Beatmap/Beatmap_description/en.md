@@ -12,7 +12,7 @@ Popular descriptions of [ranked](/wiki/Beatmap/Category#ranked) beatmaps often i
 
 ### Images
 
-Many beatmap descriptions contain at least one image (often an animated [GIF](https://en.wikipedia.org/wiki/GIF) of some sort) which is used to express and illustrate either the creator, song, and/or beatmap in a flashy way. They can also serve as a title or header to add flair and quality. To learn how to add an image, check out the [BBCode article's section on images](/wiki/BBCode#image).
+Many beatmap descriptions contain at least one image (often an animated [GIF](https://en.wikipedia.org/wiki/GIF) of some sort) which is used to express and illustrate either the creator, song, and/or beatmap in a flashy way. They can also serve as a title or header to add flair and quality. To learn how to add an image, check out the [BBCode article's section on images](/wiki/BBCode#images).
 
 ### Difficulty sections
 

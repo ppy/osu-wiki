@@ -8,11 +8,35 @@ Applicants are required to meet a modding activity requirement, submit at least 
 
 ## Basic criteria
 
-Modders aiming to apply to the Beatmap Nominators must fulfill the following criteria:
+Modders aiming to apply to the Beatmap Nominators must fulfil the following criteria:
 
 - They have been modding beatmaps actively for at least 3 months prior to applying.
 - They have accumulated at least 150 or 200 [kudosu](/wiki/Modding/Kudosu) in total, depending on the mode they will apply to.
-- They provide 2 to 4 of their mods which they think qualify them to be a part of the Beatmap Nominators.
+- They provide 2 to 3 of their mods which they think qualify them to be a part of the Beatmap Nominators.
+
+### Modding expectations
+
+Submitted mods should show that a user is capable of analysing and improving maps to a standard fit for the Beatmap Nominators.
+
+The following are modding traits expected of Beatmap Nominators. Failure to display any of these traits may result in a rejected application.
+
+- **Coverage of all difficulty levels**
+- **Identification of unrankable issues, including ones tools can't detect, such as incorrect timing or metadata**
+- **Comparison between parts of a map to support issues or suggestions**
+- **Commentary about a wide variety of map elements, such as rhythm, spacing, movement, intensity, contrast, and consistency**
+- **Identification of both isolated issues and general map-wide issues** 
+- **Consideration of mappers' intentions when identifying issues and giving suggestions**
+
+### How new potential Beatmap Nominators are chosen
+
+- Modders will be evaluated by the corresponding NAT members of the game mode they applied for, taking into account the following criteria:
+  - General attitude: Tone of delivery of the mods and other behavioural expectations from the [Code of Conduct](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping), as well as general behaviour in chat/forums.
+  - Modding abilities: Knowledge of the general [Ranking Criteria](/wiki/Ranking_Criteria) and specific criteria of each game mode. Additional abilities like Metadata, Timing, and some others will also be taken into consideration.
+- After evaluating each modder, a discussion will be made on whether the modder will join the Beatmap Nominators.
+
+## Modding Activity
+
+In osu!, a certain activity threshold needs to be met to apply as a Beatmap Nominator. This activity requirement does **not** currently apply for osu!taiko, osu!catch, or osu!mania.
 
 ### What qualifies as a mod post
 
@@ -20,18 +44,6 @@ Modders aiming to apply to the Beatmap Nominators must fulfill the following cri
 - A qualified mod post is a user's posts on a beatmap discussion, in which at least one suggestion/problem got awarded with an upvote, and has been created within the 3 months.
 - The game mode that you modded beatmaps in does not matter as your activity in the modding community as a whole is being measured and not the activity in a certain game mode.
 - The point in time at which the kudosu has been awarded to your mod post **does** matter, as the calculator embed in the website will fetch the data from your own Modding History events.
-
-### Modding expectations
-
-Submitted mods should show that a user is capable of analyzing and improving maps to a standard fit for the Beatmap Nominators.
-
-The following are modding traits expected of Beatmap Nominators. Failure to display any of these traits may result in a rejected application.
-
-- Coverage of all difficulty levels
-- Identification of unrankable issues, including ones tools can't detect, such as incorrect timing or metadata
-- Comparison between parts of a map to support issues or suggestions
-- Commentary about a wide variety of map elements, such as rhythm, spacing, movement, intensity, contrast, and consistency
-- Identification of both isolated issues and general map-wide issues
 
 ### How the required minimum score is calculated
 
@@ -48,14 +60,6 @@ The following are modding traits expected of Beatmap Nominators. Failure to disp
   - osu!taiko, osu!catch and osu!mania: `m` = 3 and a total of 150 kudosu or more
   - osu!: `m` = 4 and a total of 200 kudosu or more
 - It is usually a good idea to keep your score above these numbers, as they can vary slightly depending on the number of applicants.
-
-### How new potential Beatmap Nominators are chosen
-
-- The `ModScore` of all applications will be double-checked to confirm if they reached the required minimum score.
-- Modders that acquired enough score will be evaluated by the corresponding NAT members of the game mode they applied for, taking into account the following criteria:
-  - General attitude: Tone of delivery of the mods and other behavioural expectations from the [Code of Conduct](/wiki/Ranking_Criteria/Code_of_Conduct), as well as general behaviour in chat/forums.
-  - Modding abilities: Knowledge of the general [Ranking Criteria](/wiki/Ranking_Criteria) and specific criteria of each game mode. Additional abilities like Metadata, Timing, and some others will also be taken into consideration.
-- After evaluating each modder, a discussion will be made on whether the modder will join the Beatmap Nominators.
 
 ## Cooldowns
 
@@ -77,8 +81,12 @@ Users who have recently left the Beatmap Nominators may have different requireme
 
 If you were a Beatmap Nominator before, these requirements apply unless you have failed an application since last time you were a Beatmap Nominator.
 
+Listed `ModScore` requirements only apply to the osu! game mode, and not osu!taiko, osu!catch, and osu!mania. The 8 mod requirement for those applying after being removed for activity is shared across all modes.
+
 | Type | Cooldown | Activity Requirements |
 | :-- | :-- | :-- |
 | Standard | 60 days | `ModScore` greater than 0 over 60 days |
 | Activity | 30 days | `ModScore` irrelevant, but 8 mods in 60 days |
 | Good | 30 days | `ModScore` greater than 0 over 30 days |
+
+Former Beatmap Nominators who resigned on good terms within the past year will become full members immediately upon rejoining.

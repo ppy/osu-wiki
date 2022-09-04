@@ -10,48 +10,54 @@ where:
 
 - _ can be a space instead of an underscore.
 - (event) is a letter/pair of letters, corresponding to one of the commands below.
-- (easing) indicates if the command should "accelerate". See [Easing Functions Cheat Sheet](http://easings.net). Valid values are:
-  - 0 - Linear: no easing
-  - 1 - Easing Out: the changes happen fast at first, but then slow down toward the end
-  - 2 - Easing In: the changes happen slowly at first, but then speed up toward the end
-  - 3 - Quad In
-  - 4 - Quad Out
-  - 5 - Quad In/Out
-  - 6 - Cubic In
-  - 7 - Cubic Out
-  - 8 - Cubic In/Out
-  - 9 - Quart In
-  - 10 - Quart Out
-  - 11 - Quart In/Out
-  - 12 - Quint In
-  - 13 - Quint Out
-  - 14 - Quint In/Out
-  - 15 - Sine In
-  - 16 - Sine Out
-  - 17 - Sine In/Out
-  - 18 - Expo In
-  - 19 - Expo Out
-  - 20 - Expo In/Out
-  - 21 - Circ In
-  - 22 - Circ Out
-  - 23 - Circ In/Out
-  - 24 - Elastic In
-  - 25 - Elastic Out
-  - 26 - ElasticHalf Out
-  - 27 - ElasticQuarter Out
-  - 28 - Elastic In/Out
-  - 29 - Back In
-  - 30 - Back Out
-  - 31 - Back In/Out
-  - 32 - Bounce In
-  - 33 - Bounce Out
-  - 34 - Bounce In/Out
+- (easing) indicates if the command should "accelerate". See [Easing Functions Cheat Sheet](http://easings.net). The valid values are listed below.
 - (starttime) and (endtime) are the starting and ending times of the command, respectively in milliseconds (ms).
 - (params...) vary between specific values for (event). This is usually what values the variables should take on.
+
+The valid values for easing are:
+
+| Value | Description |
+| :-: | :-- |
+| 0 | Linear: no easing |
+| 1 | Easing Out: the changes happen fast at first, but then slow down toward the end |
+| 2 | Easing In: the changes happen slowly at first, but then speed up toward the end |
+| 3 | Quad In |
+| 4 | Quad Out |
+| 5 | Quad In/Out |
+| 6 | Cubic In |
+| 7 | Cubic Out |
+| 8 | Cubic In/Out |
+| 9 | Quart In |
+| 10 | Quart Out |
+| 11 | Quart In/Out |
+| 12 | Quint In |
+| 13 | Quint Out |
+| 14 | Quint In/Out |
+| 15 | Sine In |
+| 16 | Sine Out |
+| 17 | Sine In/Out |
+| 18 | Expo In |
+| 19 | Expo Out |
+| 20 | Expo In/Out |
+| 21 | Circ In |
+| 22 | Circ Out |
+| 23 | Circ In/Out |
+| 24 | Elastic In |
+| 25 | Elastic Out |
+| 26 | ElasticHalf Out |
+| 27 | ElasticQuarter Out |
+| 28 | Elastic In/Out |
+| 29 | Back In |
+| 30 | Back Out |
+| 31 | Back In/Out |
+| 32 | Bounce In |
+| 33 | Bounce Out |
+| 34 | Bounce In/Out |
 
 In some special cases, various [shorthands](/wiki/Storyboard/Scripting/Shorthand) can be used.
 
 An object stays active until its last command (time-wise) is done. After that, it disappears. If you simply want an object to stay on-screen, without anything happening to it, staying at its default location, use Fade (F).
+
 ![Setting a(n) sprite/object with their commands to do (Event).](img/SBS_Base_C.jpg "Setting a(n) sprite/object with their commands to do (Event).")
 
 ## Basic commands

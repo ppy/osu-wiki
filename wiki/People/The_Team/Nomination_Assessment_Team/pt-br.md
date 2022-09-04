@@ -1,7 +1,7 @@
 ---
 tags:
   - NAT
-outdated: true
+outdated_translation: true
 outdated_since: a04ec9bd266f59392ab0bbc214f699995c4da97c
 ---
 
@@ -13,7 +13,7 @@ Os membros do NAT são reconhecidos pelo seus títulos e nomes de usuário verme
 
 **Todos os membros da Equipe de Avaliação de Nomeação estão em juramento a manter o [Código de Conduta do Contribuidor](/wiki/Contributor_Code_of_Conduct) junto das [Regras da Comunidade](/wiki/Rules).**
 
-Se você encontrar qualquer membro da Equipe de Avaliação de Nomeação agindo inapropriadamente (ou agindo em violação ao Código de Conduta do Contribuidor), por favor entre em contato conosco em [abuse@ppy.sh](mailto:abuse@ppy.sh) imediatamente com o máximo de informação o possível. Para mais detalhes, veja [Denunciando Abuso](/wiki/Reporting_Bad_Behaviour/Abuse).
+Se você encontrar qualquer membro da Equipe de Avaliação de Nomeação agindo inapropriadamente (ou agindo em violação ao Código de Conduta do Contribuidor), por favor entre em contato conosco em [abuse@ppy.sh](mailto:abuse@ppy.sh) imediatamente com o máximo de informação o possível. Para mais detalhes, veja [Denunciando Abuso](/wiki/Reporting_bad_behaviour/Abuse).
 
 ## Responsabilidades
 
@@ -26,7 +26,7 @@ Os NAT são responsáveis por uma variedade de tarefas relacionadas a mapping qu
 
 Um membro do NAT pode se envolver com quaisquer tarefas que eles escolherem, apesar de quais responsabilidades principais estiverem listadas. Por exemplo, se um membro do NAT prioriza a subcategoria Estrutural, ele não é responsável por todas as tarefas dentro da subcategoria e ainda pode ajudar com tarefas de qualquer outra subcategoria.
 
-Em adição as suas habilidades de moderação, os NAT também possuem a habilidade de [nomear](/wiki/Beatmap_ranking_procedure#nominations), [qualificar](/wiki/Beatmap_ranking_procedure#qualification), e [resetar nomeações](/wiki/Beatmap_ranking_procedure#nomination-resets) em beatmaps. Nessa área eles são considerados basicamente os mesmos que [BNs fixos](/wiki/People/The_Team/Beatmap_Nominators#nomeadores-de-beatmap-fixos), e todas as regras e expectatives de BNs exceto atividade aplicam aos membros do NAT. Membros do NAT não são esperados a nomear mapas regularmente do mesmo jeito que os BNs são por conta de possuírem responsabilidades adicionais na comunidade de mapping do osu! e na comunidade de modding. 
+Em adição as suas habilidades de moderação, os NAT também possuem a habilidade de [nomear](/wiki/Beatmap_ranking_procedure#nominations), [qualificar](/wiki/Beatmap_ranking_procedure#qualification), e [resetar nomeações](/wiki/Beatmap_ranking_procedure#nomination-resets) em beatmaps. Nessa área eles são considerados basicamente os mesmos que [BNs fixos](/wiki/People/The_Team/Beatmap_Nominators#nomeadores-de-beatmap-fixos), e todas as regras e expectatives de BNs exceto atividade aplicam aos membros do NAT. Membros do NAT não são esperados a nomear mapas regularmente do mesmo jeito que os BNs são por conta de possuírem responsabilidades adicionais na comunidade de mapping do osu! e na comunidade de modding.
 
 Membros do NAT primariamente contribuindo para a subcategoria de Avaliação também são responsável por fazer o modding de pelo menos 3 beatmaps por mês. Isso garante que os NAT estejam atualizados com a comunidade de modding quando estiverem avaliando os Nomeadores de Beatmap. Membros que falharem o requerimento de atividade de modding serão dados uma advertência. Se a atividade deles não melhorarem dentro do próximo mês, eles irão ser removidos do NAT. Membros do NAT trabalhando em outros projetos relacionados a mapping podem ser isentos dos requerimentos de modding em uma base de caso-por-caso.
 
@@ -48,50 +48,45 @@ A [página do grupo de usuário da Equipe de Avaliação de Nomeação](https://
 
 | Nome | Línguas adicionais | Responsabilidades primárias |
 | :-- | :-- | :-- |
-| ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | Avaliação, moderação |
-| ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871) |  | Avaliação |
-| ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonês, Chinês | Avaliação |
-| ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | Bengali, um pouco de Árabe | Avaliação, estrutural, moderação, comunicação |
-| ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) |  | Avaliação |
-| ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Sueco | Estrutural, comunicação |
-| ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | Avaliação, estrutural, comunicação |
-| ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | Estrutural |
-| ![][flag_BR] [Seto Kousuke](https://osu.ppy.sh/users/2857314) | Português | Avaliação, estrutural, comunicação |
-| ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) | Holandês | Avaliação |
-| ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955) | Polonês | Avaliação |
+| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) |  | Avaliação, moderação |
+| ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) |  | Avaliação |
+| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | Bielorrusso, russo | Avaliação |
+| ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonês, chinês | Avaliação |
+| ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | Avaliação |
+| ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Chinês | Avaliação |
+| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Alemão | Avaliação |
+| ::{ flag=SG }:: [Kotoha](https://osu.ppy.sh/users/7823498) | Chinês | Avaliação |
+| ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Sueco | Estrutural, comunicação |
+| ::{ flag=GB }:: [NexusQI](https://osu.ppy.sh/users/13822800) |  | Avaliação |
+| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | Estrutural |
+| ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | Avaliação |
+| ::{ flag=AT }:: [Stixy](https://osu.ppy.sh/users/9000308) | Alemão, sérvio | Avaliação |
+| ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) |  | Avaliação |
+| ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | Holandês | Avaliação |
+| ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | Polonês | Avaliação |
 
 ### osu!taiko
 
 | Nome | Línguas adicionais | Responsabilidades primárias |
 | :-- | :-- | :-- |
-| ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733) | Cantonês, Chinês | Avaliação |
-| ![][flag_TH] [Tyistiana](https://osu.ppy.sh/users/1421452) | Tailandês | Avaliação |
+| ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | Alemão | Avaliação |
+| ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733) | Cantonês, chinês | Avaliação |
+| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | Avaliação |
 
 ### osu!catch
 
 | Nome | Línguas adicionais | Responsabilidades primárias |
 | :-- | :-- | :-- |
-| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Espanhol, Alemão | Avaliação, moderação |
-| ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | Holandês | Avaliação, estrutural |
-| ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | Coreano | Avaliação, comunicação |
+| ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | Espanhol, alemão | Avaliação, moderação |
+| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Holandês | Avaliação, estrutural |
+| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  | Avaliação |
 
 ### osu!mania
 
 | Nome | Línguas adicionais | Responsabilidades primárias |
 | :-- | :-- | :-- |
-| ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Árabe, Francês | Avaliação |
-| ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Avaliação |
-
-[flag_BE]: /wiki/shared/flag/BE.gif "Bélgica"
-[flag_BR]: /wiki/shared/flag/BR.gif "Brasil"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canadá"
-[flag_DZ]: /wiki/shared/flag/DZ.gif "Argélia"
-[flag_ES]: /wiki/shared/flag/ES.gif "Espanha"
-[flag_GB]: /wiki/shared/flag/GB.gif "Reino Unido"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_KR]: /wiki/shared/flag/KR.gif "Coreia do Sul"
-[flag_NL]: /wiki/shared/flag/NL.gif "Países Baixos"
-[flag_PL]: /wiki/shared/flag/PL.gif "Polônia"
-[flag_SE]: /wiki/shared/flag/SE.gif "Suécia"
-[flag_TH]: /wiki/shared/flag/TH.gif "Tailândia"
-[flag_US]: /wiki/shared/flag/US.gif "Estados Unidos"
+| ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229) | Chinês | Avaliação |
+| ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | Vietnamita | Avaliação |
+| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Indonésio | Avaliação, comunicação |
+| ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | Espanhol, português, galego, italiano, japonês | Avaliação |
+| ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Avaliação |

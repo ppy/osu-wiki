@@ -9,7 +9,7 @@
   - Jangan menghindar dari mapper dan modder baru, karena orang-orang inilah yang paling diuntungkan ketika kamu memberi masukan! Bersabarlah, pengertian, dan berikan opinimu sebanyak mungkin agar mereka bisa belajar dan berkembang lebih cepat
   - Jika kamu sendiri tergolong baru, jangan takut untuk mengatakannya! Hal ini memungkinkan orang yang lebih berpengalaman di komunitas untuk mengarahkanmu ke arah yang benar. Semua orang yang berpengalaman juga pasti pernah berada di posisimu saat ini!
 - Perlakukan orang lain sebagaimana kamu ingin diperlakukan. Orang lebih mudah menerima saran yang baik dan bermanfaat daripada saran yang kurang ramah. Cobalah untuk memahami dari sudut pandang orang lain juga, bukan malah menyerangnya - semua orang pasti merasa ingin dihargai. Jika kamu anggap diri sendiri masokis, simpan itu untuk kamu saja karena yang lain bukan.
-- Jika kamu ingin mengomentari beatmap seseorang, bukalah [laman diskusi pada beatmap itu](/wiki/Beatmap_Discussion) - bukan melewati sosial media, atau bagian komentar (jika map tersebut berstatus [qualified](/wiki/Beatmap/Category#qualified)), karena keluhan dan kritik yang ingin kamu sampaikan kemungkinan didengarnya kecil dibanding jika kamu melakukannya di laman diskusi beatmap tersebut.
+- Jika kamu ingin mengomentari beatmap seseorang, bukalah [laman diskusi pada beatmap itu](/wiki/Beatmap_discussion) - bukan melewati sosial media, atau bagian komentar (jika map tersebut berstatus [qualified](/wiki/Beatmap/Category#qualified)), karena keluhan dan kritik yang ingin kamu sampaikan kemungkinan didengarnya kecil dibanding jika kamu melakukannya di laman diskusi beatmap tersebut.
 - Aksi seperti perundungan, ujaran kebencian, lelucon yang bersifat menjatuhkan dan memulai sebuah drama, tidak dapat diterima dalam bentuk apa pun dan **tidak akan ditoleransi**.
 
 ## Membuat Postingan Mod
@@ -50,7 +50,7 @@ Terkadang, satu mod dan satu tanggapan saja tidak cukup untuk membuat semua piha
 - Masih belum bisa mencapai kesepakatan? Minta opini kepada seseorang yang memiliki lebih banyak pengalaman, seperti anggota [BN](/wiki/People/The_Team/Beatmap_Nominators) atau [NAT](/wiki/People/The_Team/Nomination_Assessment_Team). Tetapi ingatlah, jadwal mereka padat! Sadarlah akan banyaknya alternatif yang lebih cocok dibanding sesuatu yang kamu sarankan sebelumnya, jangan takut untuk mengesampingkan ego dirimu - **terkadang kesalahan dapat menjadi guru yang paling berharga.**.
 - **Tidak ada opini yang "salah"** - itu semua dilakukan demi mencapai kesepakatan yang menguntungkan kedua belah pihak - coba pahami dan lihat dari sudut pandang lain daripada menyerang mereka, karena kamu tidak pernah tahu kapan hal seperti itu dapat berguna di masa mendatang.
 - Jika kamu tidak dapat menjelaskan sesuatu melalui logika dan akal, apalagi jika menjelaskannya menggunakan kekerasan. Daripada melanjutkan "debat kusir", lebih baik tinggalkan percakapan yang sekarang dan coba lagi dengan modder/mapper lain.
-- Ketika segala sesuatunya tampak sudah diluar kendali, atau diskusi yang dilakukan tetap keluar dari topik pembicaraan, [hubungi moderator](/wiki/Reporting_Bad_Behaviour) - jangan "menambah api" pada masalah yang sudah runyam.
+- Ketika segala sesuatunya tampak sudah diluar kendali, atau diskusi yang dilakukan tetap keluar dari topik pembicaraan, [hubungi moderator](/wiki/Reporting_bad_behaviour) - jangan "menambah api" pada masalah yang sudah runyam.
 
 ## Mapset Berstatus Qualified
 

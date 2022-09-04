@@ -2,7 +2,7 @@
 
 *警告：任何时候拥有一个以上的 osu! 账户都违反 [osu! 规则](/wiki/Rules)!*
 
-1. 在 [安装 osu!](/wiki/Installation) 并运行之后，osu!将提示你登入或注册。假如你现在没有账户，请点击 `创建账户`。
+1. 在 [安装 osu!](/wiki/Client/Installation) 并运行之后，osu!将提示你登入或注册。假如你现在没有账户，请点击 `创建账户`。
 
    ![游戏内注册界面](img/ingame-registration.jpg "注册表格")
 
@@ -17,6 +17,6 @@
 
 请不要忘记认真阅读[规则](/wiki/Rules)!
 
-一旦完成注册，你就可以开始节奏之旅了。你可以[添加谱面](/wiki/Installation#添加谱面)进行游玩，[制作皮肤](/wiki/Skinning)或者[制作谱面](/wiki/Beatmapping)。你也可以在[Introductions 子论坛](https://osu.ppy.sh/community/forums/8)来介绍自己。
+一旦完成注册，你就可以开始节奏之旅了。你可以[添加谱面](/wiki/Client/Installation#添加谱面)进行游玩，[制作皮肤](/wiki/Skinning)或者[制作谱面](/wiki/Beatmapping)。你也可以在[Introductions 子论坛](https://osu.ppy.sh/community/forums/8)来介绍自己。
 
-如果你需要进一步的游戏内帮助，你可以在游戏中通过聊天控制台(在游戏中按 `F8` 或者 `F9` ) 然后输入`/join help`,在`#help`[IRC](/wiki/Internet_Relay_Chat) (互联网中继聊天)中寻求帮助。你也可以将你的问题发布在[Help 子论坛](https://osu.ppy.sh/community/forums/5)。
+如果你需要进一步的游戏内帮助，你可以在游戏中通过聊天控制台(在游戏中按 `F8` 或者 `F9` ) 然后输入`/join help`,在`#help`[IRC](/wiki/Community/Internet_Relay_Chat) (互联网中继聊天)中寻求帮助。你也可以将你的问题发布在[Help 子论坛](https://osu.ppy.sh/community/forums/5)。

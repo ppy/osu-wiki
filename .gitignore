@@ -1,2 +1,8 @@
 # prevent accidental addition of files from local remark runs
 node_modules/
+
+# virtual python environment for local ci runs
+.venv/
+
+# used by https://github.com/cl8n/osu-wiki-bin
+/.osu-wiki-bin*

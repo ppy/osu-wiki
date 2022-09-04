@@ -18,7 +18,7 @@ tags:
 
 Tech maps are most often associated with song genres that offer complex and fast-paced sounds (e.g., drum-and-bass, dubstep, and drumstep) as they often allow for the mapper to explore each and every individual sound in-detail to the beatmap's advantage. Although music of this type is not explicitly required.
 
-Regardless of definition, many players claim that tech maps are unfair (in terms of skill) due to the main increase in difficulty deriving mostly or solely from the confusing patterns or irregular sliders. Likewise, this means that they are not very popular for gaining large amounts of [pp](/wiki/Performance_Points) at once due to the way the current system works and how it undervalues beatmaps of this nature.
+Regardless of definition, many players claim that tech maps are unfair (in terms of skill) due to the main increase in difficulty deriving mostly or solely from the confusing patterns or irregular sliders. Likewise, this means that they are not very popular for gaining large amounts of [pp](/wiki/Performance_points) at once due to the way the current system works and how it undervalues beatmaps of this nature.
 
 ## Definitions
 

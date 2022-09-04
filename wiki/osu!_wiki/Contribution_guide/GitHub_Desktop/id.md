@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 3243add9ee2ee9f9c516288c3d2736509618bc9c
+---
+
 # GitHub Desktop
 
 *Artikel ini merupakan lanjutan dari [laman utama sebelumnya](/wiki/osu!_wiki/Contribution_guide)* dengan asumsi kamu akan menggunakan [Github Desktop](https://desktop.github.com). **Kamu tetap dapat menggunakan aplikasi Git yang lain sesuai dengan kehendakmu.** Meskipun kamu bekerja secara lokal, kamu masih perlu mengakses GitHub untuk membuat pull request agar perubahan kamu dapat terjadi dan bisa diakses semua orang.
@@ -28,7 +33,7 @@
 Hal ini sebenarnya opsional, tetapi [sangat dianjurkan atas alasan tertentu](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow). Di antaranya:
 
 - Percabangan (branch) mengisolasi perubahan teknis yang berbeda antar satu sama lain: ini berarti kamu dapat mengerjakan lebih dari satu artikel dan meminta mereka untuk ditinjau dan digabungkan (merging) secara terpisah.
-- Saat perubahan yang kamu lakukan berada di luar branch `master`, kamu dapat [melakukan sinkronisasi dengan aman](/wiki/osu!_wiki/Contribution_guide/Common_Issues#branch-saya-belum-diperbarui!) tanpa mengalami konflik penggabungan (merge conflicts).
+- Saat perubahan yang kamu lakukan berada di luar branch `master`, kamu dapat [melakukan sinkronisasi dengan aman](/wiki/osu!_wiki/Contribution_guide/Best_practices#syncing-the-fork) tanpa mengalami konflik penggabungan (merge conflicts).
 
 1. Tekan tombol dropdown `Current branch`. Menu ini terletak di bagian atas menu.
 
@@ -42,7 +47,7 @@ Hal ini sebenarnya opsional, tetapi [sangat dianjurkan atas alasan tertentu](htt
 
 1. Di dalam folder tempat kamu mengkloning repo, arahkan ke file yang akan kamu sunting dan nama folder yang digunakan biasanya mengacu juga pada nama artikel, sedangkan file `.md` adalah terjemahannya.
 2. Setelah kamu menemukan file yang benar, buka menggunakan editor teks favoritmu.
-3. Kamu sekarang dapat membuat perubahan yang akan kamu lakukan. Saat melakukan penyuntingan, mohon ikuti [Kriteria Penyusunan Artikel](/wiki/ASC) sebisa mungkin.
+3. Kamu sekarang dapat membuat perubahan yang akan kamu lakukan. Saat melakukan penyuntingan, mohon ikuti [Kriteria Penyusunan Artikel](/wiki/Article_styling_criteria) sebisa mungkin.
 4. Lanjutkan ke tahap [Melakukan commit dan push](#melakukan-commit-dan-push).
 
 ### Memindahkan file yang ada
@@ -71,7 +76,7 @@ Hal ini sebenarnya opsional, tetapi [sangat dianjurkan atas alasan tertentu](htt
 2. Secara bawaan, GitHub Desktop akan secara otomatis memilih semua perubahan yang kamu lakukan.
 3. Untuk commit "besar", lebih baik dipisahkan menjadi commit tersendiri.
 
-Misalnya, seperti yang digambarkan di atas, [pippi](/wiki/Mascots#-pippi) telah menambahkan file gambar, mengubah file `en.md` untuk menambahkan judul dan tautan ke gambar, dan menandai terjemahan lainnya sebagai versi lama. Dari sini, kita telah memiliki dua commit, satu untuk perubahan yang mempengaruhi file `en.md` dan satu lagi untuk menandai terjemahan lainnya sebagai versi lama.
+Misalnya, seperti yang digambarkan di atas, [pippi](/wiki/Mascots#pippi) telah menambahkan file gambar, mengubah file `en.md` untuk menambahkan judul dan tautan ke gambar, dan menandai terjemahan lainnya sebagai versi lama. Dari sini, kita telah memiliki dua commit, satu untuk perubahan yang mempengaruhi file `en.md` dan satu lagi untuk menandai terjemahan lainnya sebagai versi lama.
 
 4. Pilih file yang akan dicommit.
 5. Masukkan ringkasan commit. Ada batas 72 karakter dan harus diketik **dalam Bahasa Inggris**.

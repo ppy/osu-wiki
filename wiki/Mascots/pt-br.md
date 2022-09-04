@@ -1,5 +1,6 @@
 ---
 no_native_review: true
+outdated_translation: true
 ---
 
 # Mascotes
@@ -48,7 +49,7 @@ Mocha é a mascote de osu!taiko. Ela foi inicialmente projetada durante a [sexta
 
 > Ele é o líder sangue quente da torcida. Ele tem um bom coração e ajuda os outros ao seu redor que estão em apuros através de se levantar e lutar por eles!
 
-一本木龍太 (Ryūta Ippongi) era o fruta-chibi catcher do osu!catch que se juntou em 2008, mas foi substituído por [Yuzu](#-yuzu) em 2014. Ele foi criado pela [iNiS Corporation](https://en.wikipedia.org/wiki/INiS) e já fez parte do antigo website. Ryuuta também apareceu em [Yandere Simulator](https://yanderesimulator.com) como um NPC.
+一本木龍太 (Ryūta Ippongi) era o fruta-chibi catcher do osu!catch que se juntou em 2008, mas foi substituído por [Yuzu](#yuzu) em 2014. Ele foi criado pela [iNiS Corporation](https://en.wikipedia.org/wiki/INiS) e já fez parte do antigo website. Ryuuta também apareceu em [Yandere Simulator](https://yanderesimulator.com) como um NPC.
 
 Ryuuta também foi um destaque na skin de [LuigiHann](https://osu.ppy.sh/users/1079), [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357/).
 

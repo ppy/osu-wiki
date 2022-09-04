@@ -1,6 +1,6 @@
-# Édition audio
+# Guide de l'édition audio
 
-[osu!academy](/wiki/osu!academy) a couvert ce point dans [Episode 15: Audio Encoding (4:02)](https://www.youtube.com/watch?v=muu3HkG38kk). Cet épisode contient aussi comment installer et utiliser Audacity avec la capacité d'exportation `.mp3` de LAME.
+[osu!academy](/wiki/Community/Video_series/osu!academy) a couvert ce point dans [Episode 15: Audio Encoding (4:02)](https://www.youtube.com/watch?v=muu3HkG38kk). Cet épisode contient aussi comment installer et utiliser Audacity avec la capacité d'exportation `.mp3` de LAME.
 
 Cet article sert de guide pour vous aider à effectuer des modifications mineures sur vos fichiers audio à des fins de beatmapping. En le développant, vous pouvez aider les autres beatmappers à créer des fichiers audio adaptés à tous les besoins.
 

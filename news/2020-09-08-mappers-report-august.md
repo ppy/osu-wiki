@@ -108,7 +108,7 @@ August's contest has just come to a close, with information about September's in
 
 July's contest has also released its results this past week. Congratulations to [xbopost](https://osu.ppy.sh/users/6842421) who not only won overall, but also won the screening crew's favorite, and with those points, xbopost has now achieved the second tier MBC profile badge! It's well earned as the map made excellent use of the CS 0 limitation, so be sure to check out their entry [here](https://osu.ppy.sh/beatmapsets/1244127#osu/2586241)!
 
-View the latest information regarding MBC in the [wiki article](https://osu.ppy.sh/help/wiki/Contests/Monthly_Beatmapping_Contest).
+View the latest information regarding MBC in the [wiki article](/wiki/Contests/Monthly_Beatmapping_Contest).
 
 ### Aspire V
 
@@ -128,17 +128,17 @@ The osu! Beatmapping World Championship is still underway! With each month we're
 
 | Team 1 |  |  | Team 2 |
 | --: | :-: | :-: | :-- |
-| ![](/wiki/shared/flag/FR.gif) France | 1 | **6** | **Argentina** ![](/wiki/shared/flag/AR.gif) |
-| ![](/wiki/shared/flag/VN.gif) Vietnam | 3 | **4** | **Brazil** ![](/wiki/shared/flag/BR.gif) |
-| ![](/wiki/shared/flag/GB.gif) **United Kingdom** | **7** | 0 | Australia ![](/wiki/shared/flag/AU.gif) |
-| ![](/wiki/shared/flag/KR.gif) South Korea | 3 | **4** | **Russian Federation** ![](/wiki/shared/flag/RU.gif) |
+| ::{ flag=FR }:: France | 1 | **6** | **Argentina** ::{ flag=AR }:: |
+| ::{ flag=VN }:: Vietnam | 3 | **4** | **Brazil** ::{ flag=BR }:: |
+| ::{ flag=GB }:: **United Kingdom** | **7** | 0 | Australia ::{ flag=AU }:: |
+| ::{ flag=KR }:: South Korea | 3 | **4** | **Russian Federation** ::{ flag=RU }:: |
 
 #### Semifinals Match-ups
 
 | Team 1 |  | Team 2 |
 | --: | :-: | :-- |
-| ![](/wiki/shared/flag/AR.gif) **Argentina** | vs. | **Brazil** ![](/wiki/shared/flag/BR.gif) |
-| ![](/wiki/shared/flag/GB.gif) **United Kingdom** | vs. | **Russian Federation** ![](/wiki/shared/flag/RU.gif) |
+| ::{ flag=AR }:: **Argentina** | vs. | **Brazil** ::{ flag=BR }:: |
+| ::{ flag=GB }:: **United Kingdom** | vs. | **Russian Federation** ::{ flag=RU }:: |
 
 Do you know about mapping contests going on, or being announced soon? Then please let us know! We love to share contests with the public so that more people can enjoy them together. All contests welcome, even mode and language specific ones. You can find our submission form for contests over at the main [forum post](https://osu.ppy.sh/community/forums/topics/1027590)!
 
@@ -182,7 +182,7 @@ Have we got your interest? Or do you have more questions regarding the project? 
 
 Mentioned previously in the Mappers' Report, the **osu! Map Cast** has recently concluded its first season with a whopping **23 episodes in total**. This podcast hosted by [Bailie](https://osu.ppy.sh/users/11868659) (previously known as Cinnabun) features conversations with a wide variety of figures in the mapping and modding community, such as mappers both old and new, BNs, NAT, and recently even Ephemeral! The podcast series cover a huge variety of topics, both within and outside of osu! mapping- there's even an episode about Beat Saber in there! If you want to learn more about the osu! community, its members, or just want a chill podcast to listen to in the background, be sure to check out the full episode listing on their [forum post](https://osu.ppy.sh/community/forums/topics/1043221)!
 
-<a id="conclusion"></a>
+{#conclusion}
 
 ---
 

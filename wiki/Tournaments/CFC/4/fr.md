@@ -8,18 +8,18 @@ tags:
 
 ![CFC 4 logo](img/logo.png)
 
-La **Catch French Cup 4** (***CFC 4***) était un tournoi osu!catch français en 1v1 organisé par ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095) et ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). Ceci était la quatrième édition de la Catch French Cup.
+La **Catch French Cup 4** (***CFC 4***) était un tournoi osu!catch français en 1v1 organisé par ::{ flag=CA }:: [Sinaeb](https://osu.ppy.sh/users/1576095) et ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263). Ceci était la quatrième édition de la Catch French Cup.
 
 ## Planning du tournoi
 
 | Évènement | Dates |
 | --: | :-- |
-| Phase d'inscription | 2019-02-24/2019-03-17 |
-| Tirage au sort en direct | 2019-03-24 (20:00 UTC+1) |
-| Phase de poules | 2019-03-30/2019-04-07 |
-| Quarts-de-finale | 2019-04-13/2019-04-14 |
-| Demi-finales | 2019-04-20/2019-04-23 |
-| Finales | 2019-04-27/2019-04-28 |
+| Phase d'inscription | 24/02/2019 - 17/03/2019 |
+| Tirage au sort en direct | 24/03/2019 (20:00 UTC+1) |
+| Phase de poules | 30/03/2019 - 07/04/2019 |
+| Quarts-de-finale | 13/04/2019 - 14/04/2019 |
+| Demi-finales | 20/04/2019 - 23/04/2019 |
+| Finales | 27/04/2019 - 28/04/2019 |
 
 ## Récompenses
 
@@ -35,14 +35,14 @@ La Catch French Cup 4 était gérée par différents membres de la communauté.
 
 | Poste | Membre(s) |
 | :-- | :-- |
-| Organisateur | ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Sélectionneur de map | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Arbitre | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Ryumi](https://osu.ppy.sh/users/6596270), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_FR] [Mimir](https://osu.ppy.sh/users/7382734), ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172) |
-| Streamer | ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517), ![][flag_FR] [TLQ_Yoshii](https://osu.ppy.sh/users/7157133) |
-| Commentateur | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [redjiii](https://osu.ppy.sh/users/138728), ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467), ![][flag_FR] [Tbotas](https://osu.ppy.sh/users/2084568), ![][flag_FR] [TLQ_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_FR] [\_Manyura](https://osu.ppy.sh/users/8335913) |
-| Designer | ![][flag_FR] [Lotchidych](https://osu.ppy.sh/users/8375240) |
-| Statisticien | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Éditeur de wiki | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Organisateur | ::{ flag=CA }:: [Sinaeb](https://osu.ppy.sh/users/1576095), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
+| Sélectionneur de beatmap | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
+| Arbitre | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [Ryumi](https://osu.ppy.sh/users/6596270), ::{ flag=FR }:: [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ::{ flag=CA }:: [Sinaeb](https://osu.ppy.sh/users/1576095), ::{ flag=FR }:: [Mimir](https://osu.ppy.sh/users/7382734), ::{ flag=JP }:: [Briesmas](https://osu.ppy.sh/users/2865172) |
+| Streamer | ::{ flag=CA }:: [Sinaeb](https://osu.ppy.sh/users/1576095), ::{ flag=FR }:: [FulgurentKille](https://osu.ppy.sh/users/4096322), ::{ flag=FR }:: [Mirthille](https://osu.ppy.sh/users/7548517), ::{ flag=FR }:: [TLQ_Yoshii](https://osu.ppy.sh/users/7157133) |
+| Commentateur | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [redjiii](https://osu.ppy.sh/users/138728), ::{ flag=FR }:: [FulgurentKille](https://osu.ppy.sh/users/4096322), ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467), ::{ flag=FR }:: [Tbotas](https://osu.ppy.sh/users/2084568), ::{ flag=FR }:: [TLQ_Yoshii](https://osu.ppy.sh/users/7157133), ::{ flag=FR }:: [\_Manyura](https://osu.ppy.sh/users/8335913) |
+| Designer | ::{ flag=FR }:: [Lotchidych](https://osu.ppy.sh/users/8375240) |
+| Statisticien | ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
+| Éditeur de wiki | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Liens
 
@@ -55,19 +55,19 @@ La Catch French Cup 4 était gérée par différents membres de la communauté.
 
 | Seed | Membres |
 | :-- | :-- |
-| Top | ![][flag_FR] [Tbotas](https://osu.ppy.sh/users/2084568), ![][flag_FR] [Alostis](https://osu.ppy.sh/users/2986875), ![][flag_FR] [Boros](https://osu.ppy.sh/users/5490623), ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) |
-| High | ![][flag_RE] [Sounny](https://osu.ppy.sh/users/7326109), ![][flag_FR] [Holloh](https://osu.ppy.sh/users/7612994), ![][flag_FR] [AAAAAAAAAAAAHHH](https://osu.ppy.sh/users/4864877), ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) |
-| Low | ![][flag_FR] [Noctalium](https://osu.ppy.sh/users/6488167), ![][flag_FR] [Julo](https://osu.ppy.sh/users/4203239), ![][flag_FR] [dracoV](https://osu.ppy.sh/users/7925725), ![][flag_FR] [Tantei B](https://osu.ppy.sh/users/6063108) |
-| Unseeded | ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949), ![][flag_FR] [Sageru](https://osu.ppy.sh/users/10769450), ![][flag_FR] [Zard](https://osu.ppy.sh/users/6277626), ![][flag_FR] [Dask](https://osu.ppy.sh/users/4151397) |
+| Top | ::{ flag=FR }:: [Tbotas](https://osu.ppy.sh/users/2084568), ::{ flag=FR }:: [Alostis](https://osu.ppy.sh/users/2986875), ::{ flag=FR }:: [Boros](https://osu.ppy.sh/users/5490623), ::{ flag=TN }:: [-Ken](https://osu.ppy.sh/users/4430811) |
+| High | ::{ flag=RE }:: [Sounny](https://osu.ppy.sh/users/7326109), ::{ flag=FR }:: [Holloh](https://osu.ppy.sh/users/7612994), ::{ flag=FR }:: [AAAAAAAAAAAAHHH](https://osu.ppy.sh/users/4864877), ::{ flag=FR }:: [Noulayfe](https://osu.ppy.sh/users/4316542) |
+| Low | ::{ flag=FR }:: [Noctalium](https://osu.ppy.sh/users/6488167), ::{ flag=FR }:: [Julo](https://osu.ppy.sh/users/4203239), ::{ flag=FR }:: [dracoV](https://osu.ppy.sh/users/7925725), ::{ flag=FR }:: [Tantei B](https://osu.ppy.sh/users/6063108) |
+| Unseeded | ::{ flag=FR }:: [YANOO123](https://osu.ppy.sh/users/5122949), ::{ flag=FR }:: [Sageru](https://osu.ppy.sh/users/10769450), ::{ flag=FR }:: [Zard](https://osu.ppy.sh/users/6277626), ::{ flag=FR }:: [Dask](https://osu.ppy.sh/users/4151397) |
 
 ## Groupes
 
 | Groupe | Top seed | High seed | Low seed | Unseeded |
 | :-: | :-- | :-- | :-- | :-- |
-| **A** | ![][flag_FR] [Tbotas](https://osu.ppy.sh/users/2084568) | ![][flag_RE] [Sounny](https://osu.ppy.sh/users/7326109) | ![][flag_FR] [Noctalium](https://osu.ppy.sh/users/6488167) | ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949) |
-| **B** | ![][flag_FR] [Alostis](https://osu.ppy.sh/users/2986875) | ![][flag_FR] [Holloh](https://osu.ppy.sh/users/7612994) | ![][flag_FR] [dracoV](https://osu.ppy.sh/users/7925725) | ![][flag_FR] [Dask](https://osu.ppy.sh/users/4151397) |
-| **C** | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) | ![][flag_FR] [AAAAAAAAAAAAHHH](https://osu.ppy.sh/users/4864877) | ![][flag_FR] [Tantei B](https://osu.ppy.sh/users/6063108) | ![][flag_FR] [Zard](https://osu.ppy.sh/users/6277626) |
-| **D** | ![][flag_FR] [Boros](https://osu.ppy.sh/users/5490623) | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) | ![][flag_FR] [Julo](https://osu.ppy.sh/users/4203239) | ![][flag_FR] [Sageru](https://osu.ppy.sh/users/10769450) |
+| **A** | ::{ flag=FR }:: [Tbotas](https://osu.ppy.sh/users/2084568) | ::{ flag=RE }:: [Sounny](https://osu.ppy.sh/users/7326109) | ::{ flag=FR }:: [Noctalium](https://osu.ppy.sh/users/6488167) | ::{ flag=FR }:: [YANOO123](https://osu.ppy.sh/users/5122949) |
+| **B** | ::{ flag=FR }:: [Alostis](https://osu.ppy.sh/users/2986875) | ::{ flag=FR }:: [Holloh](https://osu.ppy.sh/users/7612994) | ::{ flag=FR }:: [dracoV](https://osu.ppy.sh/users/7925725) | ::{ flag=FR }:: [Dask](https://osu.ppy.sh/users/4151397) |
+| **C** | ::{ flag=TN }:: [-Ken](https://osu.ppy.sh/users/4430811) | ::{ flag=FR }:: [AAAAAAAAAAAAHHH](https://osu.ppy.sh/users/4864877) | ::{ flag=FR }:: [Tantei B](https://osu.ppy.sh/users/6063108) | ::{ flag=FR }:: [Zard](https://osu.ppy.sh/users/6277626) |
+| **D** | ::{ flag=FR }:: [Boros](https://osu.ppy.sh/users/5490623) | ::{ flag=FR }:: [Noulayfe](https://osu.ppy.sh/users/4316542) | ::{ flag=FR }:: [Julo](https://osu.ppy.sh/users/4203239) | ::{ flag=FR }:: [Sageru](https://osu.ppy.sh/users/10769450) |
 
 ## Podium
 
@@ -75,114 +75,114 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 | Classement | Joueur |
 | :-: | :-- |
-| ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![][flag_FR] [Alostis](https://osu.ppy.sh/users/2986875) |
-| ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) |
-| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) |
+| ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ::{ flag=FR }:: [Alostis](https://osu.ppy.sh/users/2986875) |
+| ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ::{ flag=TN }:: [-Ken](https://osu.ppy.sh/users/4430811) |
+| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | ::{ flag=FR }:: [Noulayfe](https://osu.ppy.sh/users/4316542) |
 
-## Liste des maps
+## Liste des beatmaps
 
 ### Finales
 
 **[Téléchargez le mappack ici! (150 MB)](https://mega.nz/#!d5FymIpS!gt2O_LS7Gn_BCx3BHoPyLImDiYCLvnrTka9mnhvhCKA)**
 
 - NoMod
-  - [PinocchioP - Weekly Shonen BYE-BYE (\[224\]Reol) \[224STEP\]](https://osu.ppy.sh/beatmapsets/279313#fruits/632533)
-  - [kuroma - Daiuchuu Stage (Spectator) \[GRAVITY\]](https://osu.ppy.sh/beatmapsets/481006#fruits/1026736)
-  - [Tadokoro Azusa - 'EVERMORE SIDE C (Emiru) \[Tadokoro Azusa - 1HOPE SNIPER\]](https://osu.ppy.sh/beatmapsets/926705#fruits/1935626)
-  - [Akatsuki Records - WARNING x WARNING x WARNING (Hailie, UndeadCapulet) \[Collab Extra\]](https://osu.ppy.sh/beatmapsets/755619#fruits/1593262)
-  - [ryo(supercell) feat. Hatsune Miku - ODDS&ENDS (Speed Up Ver.) (elchxyrlia) \[AR9.5\]](https://osu.ppy.sh/beatmapsets/617809#fruits/1302566)
-  - [xi - Akasha (Midge) \[Falling\]](https://osu.ppy.sh/beatmapsets/291784#fruits/656916)
+  1. [PinocchioP - Weekly Shonen BYE-BYE (\[224\]Reol) \[224STEP\]](https://osu.ppy.sh/beatmapsets/279313#fruits/632533)
+  2. [kuroma - Daiuchuu Stage (Spectator) \[GRAVITY\]](https://osu.ppy.sh/beatmapsets/481006#fruits/1026736)
+  3. [Tadokoro Azusa - 'EVERMORE SIDE C (Emiru) \[Tadokoro Azusa - 1HOPE SNIPER\]](https://osu.ppy.sh/beatmapsets/926705#fruits/1935626)
+  4. [Akatsuki Records - WARNING x WARNING x WARNING (Hailie, UndeadCapulet) \[Collab Extra\]](https://osu.ppy.sh/beatmapsets/755619#fruits/1593262)
+  5. [ryo(supercell) feat. Hatsune Miku - ODDS&ENDS (Speed Up Ver.) (elchxyrlia) \[AR9.5\]](https://osu.ppy.sh/beatmapsets/617809#fruits/1302566)
+  6. [xi - Akasha (Midge) \[Falling\]](https://osu.ppy.sh/beatmapsets/291784#fruits/656916)
 - Hidden
-  - [HujuniseikouyuuP - MISTAKE (val0108) \[Ms.0108\]](https://osu.ppy.sh/beatmapsets/105245#fruits/276366)
-  - [Susumu Hirasawa - Aurora 2 (Starrodkirby86) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/10978#fruits/49206)
-  - [penoreri - Everlasting Message (Kyuare) \[Eternal\]](https://osu.ppy.sh/beatmapsets/542478#fruits/1149965)
-  - [Kevin.o2SE - Red Sign (ZHSteven) \[Another\]](https://osu.ppy.sh/beatmapsets/118454#fruits/304526)
+  1. [HujuniseikouyuuP - MISTAKE (val0108) \[Ms.0108\]](https://osu.ppy.sh/beatmapsets/105245#fruits/276366)
+  2. [Susumu Hirasawa - Aurora 2 (Starrodkirby86) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/10978#fruits/49206)
+  3. [penoreri - Everlasting Message (Kyuare) \[Eternal\]](https://osu.ppy.sh/beatmapsets/542478#fruits/1149965)
+  4. [Kevin.o2SE - Red Sign (ZHSteven) \[Another\]](https://osu.ppy.sh/beatmapsets/118454#fruits/304526)
 - HardRock
-  - [DenKare - Yakata Mawari (Taikuta) \[Extra\]](https://osu.ppy.sh/beatmapsets/510170#fruits/1084725)
-  - [Ochiai Yurika - Koibumi2000 (arken1015) \[Oni(Futsuu)\]](https://osu.ppy.sh/beatmapsets/10539#fruits/46298)
-  - [Panda Eyes & Teminite - Highscore (CLSW) \[Nervous Breakdown\]](https://osu.ppy.sh/beatmapsets/615326#fruits/1297908)
-  - [Project Grimoire - Caliburne \~Story of the Legendary sword\~ (Kyuare) \[Legende\]](https://osu.ppy.sh/beatmapsets/779991#fruits/1637765)
+  1. [DenKare - Yakata Mawari (Taikuta) \[Extra\]](https://osu.ppy.sh/beatmapsets/510170#fruits/1084725)
+  2. [Ochiai Yurika - Koibumi2000 (arken1015) \[Oni(Futsuu)\]](https://osu.ppy.sh/beatmapsets/10539#fruits/46298)
+  3. [Panda Eyes & Teminite - Highscore (CLSW) \[Nervous Breakdown\]](https://osu.ppy.sh/beatmapsets/615326#fruits/1297908)
+  4. [Project Grimoire - Caliburne \~Story of the Legendary sword\~ (Kyuare) \[Legende\]](https://osu.ppy.sh/beatmapsets/779991#fruits/1637765)
 - DoubleTime
-  - [Matsunaga Maho (from StylipS) - Resonant World (Kurokami) \[Kurokami's Rain\]](https://osu.ppy.sh/beatmapsets/193326#fruits/461438)
-  - [Grand Thaw - Aventyr (Kyuare) \[Fiore\]](https://osu.ppy.sh/beatmapsets/495910#fruits/1055601)
-  - [Susumu Hirasawa - SWITCHED-ON LOTUS (Starrodkirby86) \[KIRBY Mix Deluxe\]](https://osu.ppy.sh/beatmapsets/16457#fruits/58970)
-  - [Susumu Hirasawa - Bandiria Travellers (jesse1412) \[Insane\]](https://osu.ppy.sh/beatmapsets/51391#fruits/157582)
+  1. [Matsunaga Maho (from StylipS) - Resonant World (Kurokami) \[Kurokami's Rain\]](https://osu.ppy.sh/beatmapsets/193326#fruits/461438)
+  2. [Grand Thaw - Aventyr (Kyuare) \[Fiore\]](https://osu.ppy.sh/beatmapsets/495910#fruits/1055601)
+  3. [Susumu Hirasawa - SWITCHED-ON LOTUS (Starrodkirby86) \[KIRBY Mix Deluxe\]](https://osu.ppy.sh/beatmapsets/16457#fruits/58970)
+  4. [Susumu Hirasawa - Bandiria Travellers (jesse1412) \[Insane\]](https://osu.ppy.sh/beatmapsets/51391#fruits/157582)
 - Tiebreaker
-  - **[Imperial Circus Dead Decadence - Fusyoku Ressentiment, Fushiyoku no Sarugakuza. (Minato Yukina) \[Sceleratus Nitor\]](https://osu.ppy.sh/beatmapsets/949602#fruits/1982901)**
+  1. **[Imperial Circus Dead Decadence - Fusyoku Ressentiment, Fushiyoku no Sarugakuza. (Minato Yukina) \[Sceleratus Nitor\]](https://osu.ppy.sh/beatmapsets/949602#fruits/1982901)**
 
 ### Demi-finales
 
 **[Téléchargez le mappack ici! (132 MB)](https://mega.nz/#!9sNTTQDb!kOW7ilAiq0eQI7xH_a0UuxyeQwA9vyV4dsmiw52xuB0)**
 
 - NoMod
-  - [Various Artists - Dan \~ CTB \~ TechMap Pack (CLSW) \[Opium and Purple \~ 9th \~ (Marathon)\]](https://osu.ppy.sh/beatmapsets/693829#fruits/1468087)
-  - [SOUND HOLIC feat. Nana Takahashi - XINOBIKILL (Rocma) \[XINOBI\]](https://osu.ppy.sh/beatmapsets/874437#fruits/1827587)
-  - [Various Artists - Dan \~ CTB \~ JumpMap Pack (Emiru) \[Los! Los! Los! 1.05x \~ Aleph \~ (Marathon)\]](https://osu.ppy.sh/beatmapsets/692137#fruits/1464599)
-  - [Co shu Nie - Character (semaphore) \[Disposition\]](https://osu.ppy.sh/beatmapsets/943104#fruits/1969471)
-  - [EGOIST - Lovely Icecream Princess Sweetie (Deramok) \[Addiction\]](https://osu.ppy.sh/beatmapsets/669232#fruits/1415526)
-  - [sakuzyo - Laplace (Vert) \[Vert's Expert\]](https://osu.ppy.sh/beatmapsets/431924#fruits/948386)
+  1. [Various Artists - Dan \~ CTB \~ TechMap Pack (CLSW) \[Opium and Purple \~ 9th \~ (Marathon)\]](https://osu.ppy.sh/beatmapsets/693829#fruits/1468087)
+  2. [SOUND HOLIC feat. Nana Takahashi - XINOBIKILL (Rocma) \[XINOBI\]](https://osu.ppy.sh/beatmapsets/874437#fruits/1827587)
+  3. [Various Artists - Dan \~ CTB \~ JumpMap Pack (Emiru) \[Los! Los! Los! 1.05x \~ Aleph \~ (Marathon)\]](https://osu.ppy.sh/beatmapsets/692137#fruits/1464599)
+  4. [Co shu Nie - Character (semaphore) \[Disposition\]](https://osu.ppy.sh/beatmapsets/943104#fruits/1969471)
+  5. [EGOIST - Lovely Icecream Princess Sweetie (Deramok) \[Addiction\]](https://osu.ppy.sh/beatmapsets/669232#fruits/1415526)
+  6. [sakuzyo - Laplace (Vert) \[Vert's Expert\]](https://osu.ppy.sh/beatmapsets/431924#fruits/948386)
 - Hidden
-  - [Lily - Scarlet Rose (val0108) \[0108 style\]](https://osu.ppy.sh/beatmapsets/41686#fruits/131564)
-  - [Koronba - Iwashi ga Tsuchi kara Haete Kurunda (Damnjelly) \[Sardine\]](https://osu.ppy.sh/beatmapsets/602367#fruits/1580728)
-  - [Kuroneko Dungeon - Lilieze to Enryuu Laevateinn (Kyuare) \[Laevateinn\]](https://osu.ppy.sh/beatmapsets/415827#fruits/900956)
-  - [Cocoa, Chino, Rize, Chiya, Syaro, Maya, Megu - Honjitsu wa Makoto ni Rarirurein (Spectator) \[Extra: Cocoa\]](https://osu.ppy.sh/beatmapsets/555004#fruits/1174797)
+  1. [Lily - Scarlet Rose (val0108) \[0108 style\]](https://osu.ppy.sh/beatmapsets/41686#fruits/131564)
+  2. [Koronba - Iwashi ga Tsuchi kara Haete Kurunda (Damnjelly) \[Sardine\]](https://osu.ppy.sh/beatmapsets/602367#fruits/1580728)
+  3. [Kuroneko Dungeon - Lilieze to Enryuu Laevateinn (Kyuare) \[Laevateinn\]](https://osu.ppy.sh/beatmapsets/415827#fruits/900956)
+  4. [Cocoa, Chino, Rize, Chiya, Syaro, Maya, Megu - Honjitsu wa Makoto ni Rarirurein (Spectator) \[Extra: Cocoa\]](https://osu.ppy.sh/beatmapsets/555004#fruits/1174797)
 - HardRock
-  - [Takenobu Mitsuyoshi - IKAZUCHI (BluOxy) \[MASTER\]](https://osu.ppy.sh/beatmapsets/489136#fruits/1042623)
-  - [Silver Forest - Tsurupettan (Hitoshirenu Shourai) \[Hito's Insane\]](https://osu.ppy.sh/beatmapsets/2626#fruits/19990)
-  - [Various Artists - 'EVERMORE SIDE C (Emiru) \[Renard - Gabberse Town\]](https://osu.ppy.sh/beatmapsets/926705#fruits/1935631)
-  - [VINXIS - Sidetracked Day (Short ver.) (Libegon) \[Stratosphere\]](https://osu.ppy.sh/beatmapsets/824802#fruits/1728380)
+  1. [Takenobu Mitsuyoshi - IKAZUCHI (BluOxy) \[MASTER\]](https://osu.ppy.sh/beatmapsets/489136#fruits/1042623)
+  2. [Silver Forest - Tsurupettan (Hitoshirenu Shourai) \[Hito's Insane\]](https://osu.ppy.sh/beatmapsets/2626#fruits/19990)
+  3. [Various Artists - 'EVERMORE SIDE C (Emiru) \[Renard - Gabberse Town\]](https://osu.ppy.sh/beatmapsets/926705#fruits/1935631)
+  4. [VINXIS - Sidetracked Day (Short ver.) (Libegon) \[Stratosphere\]](https://osu.ppy.sh/beatmapsets/824802#fruits/1728380)
 - DoubleTime
-  - [Rabpit - Sacred (ursa) \[Rain\]](https://osu.ppy.sh/beatmapsets/92456#fruits/341591)
-  - [IOSYS - Power of Dream (Night Fever Refix) (Spectator) \[Stpl's CTB\]](https://osu.ppy.sh/beatmapsets/796454#fruits/1672471)
-  - [sasakure.UK - Jack-the-Ripper (Sprosive) \[ReMiX\]](https://osu.ppy.sh/beatmapsets/23907#fruits/94264)
-  - [Susumu Hirasawa - Yume no Shima Shinen Kouen (Starrodkirby86) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/7226#fruits/31651)
+  1. [Rabpit - Sacred (ursa) \[Rain\]](https://osu.ppy.sh/beatmapsets/92456#fruits/341591)
+  2. [IOSYS - Power of Dream (Night Fever Refix) (Spectator) \[Stpl's CTB\]](https://osu.ppy.sh/beatmapsets/796454#fruits/1672471)
+  3. [sasakure.UK - Jack-the-Ripper (Sprosive) \[ReMiX\]](https://osu.ppy.sh/beatmapsets/23907#fruits/94264)
+  4. [Susumu Hirasawa - Yume no Shima Shinen Kouen (Starrodkirby86) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/7226#fruits/31651)
 - Tiebreaker
-  - **[Halozy - Deconstruction Star (CLSW) \[Twilight Poinsettia\]](https://osu.ppy.sh/beatmapsets/319217#fruits/710613)**
+  1. **[Halozy - Deconstruction Star (CLSW) \[Twilight Poinsettia\]](https://osu.ppy.sh/beatmapsets/319217#fruits/710613)**
 
 ### Quarts-de-finale
 
 **[Téléchargez le mappack ici! (77 MB)](https://mega.nz/#!ooNnRahC!y149vrhWNBSKLL5M2DQRe199trFHkmRgrJwIxhqDOA0)**
 
 - NoMod
-  - [Ocelot - KAEDE (Minato Yukina) \[Transcendence\]](https://osu.ppy.sh/beatmapsets/820738#fruits/1720378)
-  - [Roselia - Six Trillion Years and Overnight Story (Spectator) \[Overnight Story\]](https://osu.ppy.sh/beatmapsets/792710#fruits/1662676)
-  - [Sawawa - kirakira TIME\* (Priti) \[ULTRA\]](https://osu.ppy.sh/beatmapsets/354013#fruits/779950)
-  - [sHimaU - SLOTcore Is Dead (Arphimigon) \[SIX\]](https://osu.ppy.sh/beatmapsets/306012#fruits/933686)
+  1. [Ocelot - KAEDE (Minato Yukina) \[Transcendence\]](https://osu.ppy.sh/beatmapsets/820738#fruits/1720378)
+  2. [Roselia - Six Trillion Years and Overnight Story (Spectator) \[Overnight Story\]](https://osu.ppy.sh/beatmapsets/792710#fruits/1662676)
+  3. [Sawawa - kirakira TIME\* (Priti) \[ULTRA\]](https://osu.ppy.sh/beatmapsets/354013#fruits/779950)
+  4. [sHimaU - SLOTcore Is Dead (Arphimigon) \[SIX\]](https://osu.ppy.sh/beatmapsets/306012#fruits/933686)
 - Hidden
-  - [GRANRODEO - Can Do (TV Size) (Monstrata) \[Extra: Kagami\]](https://osu.ppy.sh/beatmapsets/493273#fruits/1062394)
-  - [MYTH & ROID - JINGO JUNGLE (Plaudible) \[Deus Lo Vult\]](https://osu.ppy.sh/beatmapsets/653835#fruits/1385941)
-  - [Shiggy Jr. - oyasumi (Len) \[CS4 Overdose\]](https://osu.ppy.sh/beampsets/651234/#fruits/1768494)
+  1. [GRANRODEO - Can Do (TV Size) (Monstrata) \[Extra: Kagami\]](https://osu.ppy.sh/beatmapsets/493273#fruits/1062394)
+  2. [MYTH & ROID - JINGO JUNGLE (Plaudible) \[Deus Lo Vult\]](https://osu.ppy.sh/beatmapsets/653835#fruits/1385941)
+  3. [Shiggy Jr. - oyasumi (Len) \[CS4 Overdose\]](https://osu.ppy.sh/beampsets/651234/#fruits/1768494)
 - HardRock
-  - [loos feat. Meramipop - Starlight Disco (Spectator) \[Spec's Deluge\]](https://osu.ppy.sh/beatmapsets/183375#fruits/530445)
-  - [Memme - Acid Burst (Spectator) \[Spec's Acidic Rain\]](https://osu.ppy.sh/beatmapsets/302535#fruits/846620)
-  - [Iori - Kimi ga Ireba (deepsea) \[Kudo Shinichi\]](https://osu.ppy.sh/beatmapsets/2355#fruits/19381)
+  1. [loos feat. Meramipop - Starlight Disco (Spectator) \[Spec's Deluge\]](https://osu.ppy.sh/beatmapsets/183375#fruits/530445)
+  2. [Memme - Acid Burst (Spectator) \[Spec's Acidic Rain\]](https://osu.ppy.sh/beatmapsets/302535#fruits/846620)
+  3. [Iori - Kimi ga Ireba (deepsea) \[Kudo Shinichi\]](https://osu.ppy.sh/beatmapsets/2355#fruits/19381)
 - DoubleTime
-  - [IOSYS - Border of Extacy (happy30, Lesjuh) \[HappyLesjuh\]](https://osu.ppy.sh/beatmapsets/7932#fruits/35203)
-  - [LeaF - I (Maddy) \[Hyper\]](https://osu.ppy.sh/beatmapsets/99244#fruits/264894)
-  - [FELT - Goldrop (Spectator) \[Spec's Rain\]](https://osu.ppy.sh/beatmapsets/204927#fruits/506395)
+  1. [IOSYS - Border of Extacy (happy30, Lesjuh) \[HappyLesjuh\]](https://osu.ppy.sh/beatmapsets/7932#fruits/35203)
+  2. [LeaF - I (Maddy) \[Hyper\]](https://osu.ppy.sh/beatmapsets/99244#fruits/264894)
+  3. [FELT - Goldrop (Spectator) \[Spec's Rain\]](https://osu.ppy.sh/beatmapsets/204927#fruits/506395)
 - Tiebreaker
-  - **[DJ Noriken - \#The_Relentless\_(Modified) (CLSW) \[EX\]](https://osu.ppy.sh/beatmapsets/603421#fruits/1274502)**
+  1. **[DJ Noriken - \#The_Relentless\_(Modified) (CLSW) \[EX\]](https://osu.ppy.sh/beatmapsets/603421#fruits/1274502)**
 
 ### Phase de poules
 
 **[Téléchargez le mappack ici! (50 MB)](https://mega.nz/#!g01kAAyR!iTvPwH4g9dC9kajKPJw8o0v6Ck6hOMQ_UFp7Rg77IHc)**
 
 - NoMod
-  - [MitiS feat. Crywolf - Oasis (vocal Mix) (Benny-) \[Overdose\]](https://osu.ppy.sh/beatmapsets/306442#fruits/861238)
-  - [Tanya Degurechaff (CV: Aoi Yuki) - Los! Los! Los! (Riari) \[Rain\]](https://osu.ppy.sh/beatmapsets/563267#fruits/1227984)
-  - [Hiroyuki Sawano feat. Mika Kobayashi - Before My Body Is Dry (tomatomerde remix) (ProfessionalBox) \[Insane\]](https://osu.ppy.sh/beatmapsets/310717#fruits/694350)
-  - [TOTTO - Onigami (Kloyd) \[Expert\]](https://osu.ppy.sh/beatmapsets/215069#fruits/505195)
+  1. [MitiS feat. Crywolf - Oasis (vocal Mix) (Benny-) \[Overdose\]](https://osu.ppy.sh/beatmapsets/306442#fruits/861238)
+  2. [Tanya Degurechaff (CV: Aoi Yuki) - Los! Los! Los! (Riari) \[Rain\]](https://osu.ppy.sh/beatmapsets/563267#fruits/1227984)
+  3. [Hiroyuki Sawano feat. Mika Kobayashi - Before My Body Is Dry (tomatomerde remix) (ProfessionalBox) \[Insane\]](https://osu.ppy.sh/beatmapsets/310717#fruits/694350)
+  4. [TOTTO - Onigami (Kloyd) \[Expert\]](https://osu.ppy.sh/beatmapsets/215069#fruits/505195)
 - Hidden
-  - [Kawada Mami - Timeless time (Furely) \[Furely's Rain\]](https://osu.ppy.sh/beatmapsets/333441#fruits/1359832)
-  - [sana - Kotonoha Clinic (Kite) \[Moroi\]](https://osu.ppy.sh/beatmapsets/419189#fruits/907200)
+  1. [Kawada Mami - Timeless time (Furely) \[Furely's Rain\]](https://osu.ppy.sh/beatmapsets/333441#fruits/1359832)
+  2. [sana - Kotonoha Clinic (Kite) \[Moroi\]](https://osu.ppy.sh/beatmapsets/419189#fruits/907200)
 - HardRock
-  - [TAG underground - POSSESSION (murutattack, IDu5t) \[MURUDU5T'S PLATTER\]](https://osu.ppy.sh/beatmapsets/760549#fruits/1740967)
-  - [La Bouche - Be My Lover (Lizbeth) \[Jumping\]](https://osu.ppy.sh/beatmapsets/12367#fruits/46475)
+  1. [TAG underground - POSSESSION (murutattack, IDu5t) \[MURUDU5T'S PLATTER\]](https://osu.ppy.sh/beatmapsets/760549#fruits/1740967)
+  2. [La Bouche - Be My Lover (Lizbeth) \[Jumping\]](https://osu.ppy.sh/beatmapsets/12367#fruits/46475)
 - DoubleTime
-  - [Hylian Lemon - Foresight Is for Losers (ZiRoX) \[Platter\]](https://osu.ppy.sh/beatmapsets/342751#fruits/757538)
-  - [Atoguru - Itoshi Kimi wo Mitsuke ni (bakabaka) \[Insane\]](https://osu.ppy.sh/beatmapsets/29044#fruits/96523)
+  1. [Hylian Lemon - Foresight Is for Losers (ZiRoX) \[Platter\]](https://osu.ppy.sh/beatmapsets/342751#fruits/757538)
+  2. [Atoguru - Itoshi Kimi wo Mitsuke ni (bakabaka) \[Insane\]](https://osu.ppy.sh/beatmapsets/29044#fruits/96523)
 - Tiebreaker
-  - **[ginkiha - EOS (kamome sano rmx) (Spectator) \[Spec's Overdose\]](https://osu.ppy.sh/beatmapsets/404360#fruits/893683)**
+  1. **[ginkiha - EOS (kamome sano rmx) (Spectator) \[Spec's Overdose\]](https://osu.ppy.sh/beatmapsets/404360#fruits/893683)**
 
 ## Résultats des matches
 
@@ -192,15 +192,15 @@ Samedi, 27 Avril 2019:
 
 | Joueur 1 |  |  | Joueur 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
-| Noulayfe ![][flag_FR] | 1 | **7** | ![][flag_FR] **Alostis** | [#1](https://osu.ppy.sh/community/matches/51332651) |
-| **-Ken** ![][flag_TN] | **7** | 0 | ![][flag_FR] Sounny | *win by default* |
-| Noulayfe ![][flag_FR] | 3 | **7** | ![][flag_TN] **-Ken** | [#1](https://osu.ppy.sh/community/matches/51344482) |
+| Noulayfe ::{ flag=FR }:: | 1 | **7** | ::{ flag=FR }:: **Alostis** | [#1](https://osu.ppy.sh/community/matches/51332651) |
+| **-Ken** ::{ flag=TN }:: | **7** | 0 | ::{ flag=FR }:: Sounny | *win by default* |
+| Noulayfe ::{ flag=FR }:: | 3 | **7** | ::{ flag=TN }:: **-Ken** | [#1](https://osu.ppy.sh/community/matches/51344482) |
 
 Dimanche, 28 Avril 2019:
 
 | Joueur 1 |  |  | Joueur 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
-| **Alostis** ![][flag_FR] | **7** | 5 | ![][flag_TN] -Ken | [#1](https://osu.ppy.sh/community/matches/51363253) |
+| **Alostis** ::{ flag=FR }:: | **7** | 5 | ::{ flag=TN }:: -Ken | [#1](https://osu.ppy.sh/community/matches/51363253) |
 
 ### Demi-finales
 
@@ -208,20 +208,20 @@ Samedi, 20 Avril 2019:
 
 | Joueur 1 |  |  | Joueur 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
-| Tbotas ![][flag_FR] | 1 | **6** | ![][flag_FR] **Noulayfe** | [#1](https://osu.ppy.sh/community/matches/51155796) |
-| **Alostis** ![][flag_FR] | **6** | 0 | ![][flag_FR] Boros | [#1](https://osu.ppy.sh/community/matches/51154360) |
+| Tbotas ::{ flag=FR }:: | 1 | **6** | ::{ flag=FR }:: **Noulayfe** | [#1](https://osu.ppy.sh/community/matches/51155796) |
+| **Alostis** ::{ flag=FR }:: | **6** | 0 | ::{ flag=FR }:: Boros | [#1](https://osu.ppy.sh/community/matches/51154360) |
 
 Dimanche, 21 Avril 2019:
 
 | Joueur 1 |  |  | Joueur 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
-| Tbotas ![][flag_FR] | 0 | **6** | ![][flag_FR] **Sounny** | *win by default* |
+| Tbotas ::{ flag=FR }:: | 0 | **6** | ::{ flag=FR }:: **Sounny** | *win by default* |
 
 Mardi, 23 Avril 2019:
 
 | Joueur 1 |  |  | Joueur 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
-| **Boros** ![][flag_FR] | **6** | 3 | ![][flag_TN] -Ken | [#1](https://osu.ppy.sh/community/matches/51234133) |
+| **Boros** ::{ flag=FR }:: | **6** | 3 | ::{ flag=TN }:: -Ken | [#1](https://osu.ppy.sh/community/matches/51234133) |
 
 ### Quarts-de-finale
 
@@ -229,17 +229,17 @@ Samedi, 6 Avril 2019:
 
 | Joueur 1 |  |  | Joueur 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
-| **Tbotas** ![][flag_FR] | **5** | 0 | ![][flag_FR] Holloh | [#1](https://osu.ppy.sh/community/matches/50793781) |
-| AAAAAAAAAAAAHHH ![][flag_FR] | 2 | **5** | ![][flag_FR] **Boros** | [#1](https://osu.ppy.sh/community/matches/50797019) |
-| -Ken ![][flag_TN] | 1 | **5** | ![][flag_FR] **Noulayfe** | [#1](https://osu.ppy.sh/community/matches/50801266) |
+| **Tbotas** ::{ flag=FR }:: | **5** | 0 | ::{ flag=FR }:: Holloh | [#1](https://osu.ppy.sh/community/matches/50793781) |
+| AAAAAAAAAAAAHHH ::{ flag=FR }:: | 2 | **5** | ::{ flag=FR }:: **Boros** | [#1](https://osu.ppy.sh/community/matches/50797019) |
+| -Ken ::{ flag=TN }:: | 1 | **5** | ::{ flag=FR }:: **Noulayfe** | [#1](https://osu.ppy.sh/community/matches/50801266) |
 
 Dimanche, 7 Avril 2019:
 
 | Joueur 1 |  |  | Joueur 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
-| Holloh ![][flag_FR] | 1 | **5** | ![][flag_TN] **-Ken** | [#1](https://osu.ppy.sh/community/matches/50826612) |
-| Sounny ![][flag_RE] | 0 | **5** | ![][flag_FR] **Alostis** | *win by default* |
-| **Sounny** ![][flag_RE] | **5** | 0 | ![][flag_FR] AAAAAAAAAAAAHHH | *win by default* |
+| Holloh ::{ flag=FR }:: | 1 | **5** | ::{ flag=TN }:: **-Ken** | [#1](https://osu.ppy.sh/community/matches/50826612) |
+| Sounny ::{ flag=RE }:: | 0 | **5** | ::{ flag=FR }:: **Alostis** | *win by default* |
+| **Sounny** ::{ flag=RE }:: | **5** | 0 | ::{ flag=FR }:: AAAAAAAAAAAAHHH | *win by default* |
 
 ### Phase de poules
 
@@ -247,35 +247,35 @@ Samedi, 30 Mars 2019:
 
 | Joueur 1 |  |  | Joueur 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
-| YANOO123 ![][flag_FR] | 0 | **3** | ![][flag_RE] **Sounny** | [#1](https://osu.ppy.sh/community/matches/50634173) |
-| YANOO123 ![][flag_FR] | 0 | **3** | ![][flag_FR] **Tbotas** | [#1](https://osu.ppy.sh/community/matches/50634799) |
-| **Holloh** ![][flag_FR] | **3** | 0 | ![][flag_FR] dracoV | [#1](https://osu.ppy.sh/community/matches/50635325) |
-| Dask ![][flag_FR] | 0 | **3** | ![][flag_FR] **Alostis** | *win by default* |
-| **Tbotas** ![][flag_FR] | **3** | 2 | ![][flag_RE] Sounny | [#1](https://osu.ppy.sh/community/matches/50636114) |
-| **Alostis** ![][flag_FR] | **3** | 0 | ![][flag_FR] Holloh | [#1](https://osu.ppy.sh/community/matches/50636538) |
-| Noctalium ![][flag_FR] | 0 | **3** | ![][flag_FR] **YANOO123** | *win by default* |
-| **dracoV** ![][flag_FR] | **3** | 0 | ![][flag_FR] Dask | *win by default* |
-| **Sounny** ![][flag_RE] | **3** | 0 | ![][flag_FR] Noctalium | *win by default* |
-| dracoV ![][flag_FR] | 0 | **3** | ![][flag_FR] **Alostis** | [#1](https://osu.ppy.sh/community/matches/50637487) |
-| Noctalium ![][flag_FR] | 0 | **3** | ![][flag_FR] **Tbotas** | *win by default* |
-| Dask ![][flag_FR] | 0 | **3** | ![][flag_FR] **Holloh** | *win by default* |
+| YANOO123 ::{ flag=FR }:: | 0 | **3** | ::{ flag=RE }:: **Sounny** | [#1](https://osu.ppy.sh/community/matches/50634173) |
+| YANOO123 ::{ flag=FR }:: | 0 | **3** | ::{ flag=FR }:: **Tbotas** | [#1](https://osu.ppy.sh/community/matches/50634799) |
+| **Holloh** ::{ flag=FR }:: | **3** | 0 | ::{ flag=FR }:: dracoV | [#1](https://osu.ppy.sh/community/matches/50635325) |
+| Dask ::{ flag=FR }:: | 0 | **3** | ::{ flag=FR }:: **Alostis** | *win by default* |
+| **Tbotas** ::{ flag=FR }:: | **3** | 2 | ::{ flag=RE }:: Sounny | [#1](https://osu.ppy.sh/community/matches/50636114) |
+| **Alostis** ::{ flag=FR }:: | **3** | 0 | ::{ flag=FR }:: Holloh | [#1](https://osu.ppy.sh/community/matches/50636538) |
+| Noctalium ::{ flag=FR }:: | 0 | **3** | ::{ flag=FR }:: **YANOO123** | *win by default* |
+| **dracoV** ::{ flag=FR }:: | **3** | 0 | ::{ flag=FR }:: Dask | *win by default* |
+| **Sounny** ::{ flag=RE }:: | **3** | 0 | ::{ flag=FR }:: Noctalium | *win by default* |
+| dracoV ::{ flag=FR }:: | 0 | **3** | ::{ flag=FR }:: **Alostis** | [#1](https://osu.ppy.sh/community/matches/50637487) |
+| Noctalium ::{ flag=FR }:: | 0 | **3** | ::{ flag=FR }:: **Tbotas** | *win by default* |
+| Dask ::{ flag=FR }:: | 0 | **3** | ::{ flag=FR }:: **Holloh** | *win by default* |
 
 Dimanche, 31 Mars 2019:
 
 | Joueur 1 |  |  | Joueur 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
-| **Noulayfe** ![][flag_FR] | **3** | 2 | ![][flag_FR] Julo | [#1](https://osu.ppy.sh/community/matches/50662396) |
-| **Boros** ![][flag_FR] | **3** | 1 | ![][flag_FR] Noulayfe | [#1](https://osu.ppy.sh/community/matches/50663325) |
-| Julo ![][flag_FR] | 1 | **3** | ![][flag_FR] **Boros** | [#1](https://osu.ppy.sh/community/matches/50664262) |
-| Sageru ![][flag_FR] | 0 | **3** | ![][flag_FR] **Boros** | [#1](https://osu.ppy.sh/community/matches/50665055) |
-| **AAAAAAAAAAAAHHH** ![][flag_FR] | **3** | 0 | ![][flag_FR] Tantei B | [#1](https://osu.ppy.sh/community/matches/50666416) |
-| Sageru ![][flag_FR] | 0 | **3** | ![][flag_FR] **Noulayfe** | [#1](https://osu.ppy.sh/community/matches/50666409) |
-| Zard ![][flag_FR] | 0 | **3** | ![][flag_TN] **-Ken** | [#1](https://osu.ppy.sh/community/matches/50667315) |
-| **-Ken** ![][flag_FR] | **3** | 0 | ![][flag_FR] AAAAAAAAAAAAHHH | [#1](https://osu.ppy.sh/community/matches/50667876) |
-| Tantei B ![][flag_FR] | 0 | **3** | ![][flag_FR] **Zard** | [#1](https://osu.ppy.sh/community/matches/50668487) |
-| Zard ![][flag_FR] | 0 | **3** | ![][flag_FR] **AAAAAAAAAAAAHHH** | [#1](https://osu.ppy.sh/community/matches/50669095) |
-| Tantei B ![][flag_FR] | 0 | **3** | ![][flag_TN] **-Ken** | [#1](https://osu.ppy.sh/community/matches/50668487) |
-| **Julo** ![][flag_FR] | **3** | 0 | ![][flag_FR] Sageru | *win by default* |
+| **Noulayfe** ::{ flag=FR }:: | **3** | 2 | ::{ flag=FR }:: Julo | [#1](https://osu.ppy.sh/community/matches/50662396) |
+| **Boros** ::{ flag=FR }:: | **3** | 1 | ::{ flag=FR }:: Noulayfe | [#1](https://osu.ppy.sh/community/matches/50663325) |
+| Julo ::{ flag=FR }:: | 1 | **3** | ::{ flag=FR }:: **Boros** | [#1](https://osu.ppy.sh/community/matches/50664262) |
+| Sageru ::{ flag=FR }:: | 0 | **3** | ::{ flag=FR }:: **Boros** | [#1](https://osu.ppy.sh/community/matches/50665055) |
+| **AAAAAAAAAAAAHHH** ::{ flag=FR }:: | **3** | 0 | ::{ flag=FR }:: Tantei B | [#1](https://osu.ppy.sh/community/matches/50666416) |
+| Sageru ::{ flag=FR }:: | 0 | **3** | ::{ flag=FR }:: **Noulayfe** | [#1](https://osu.ppy.sh/community/matches/50666409) |
+| Zard ::{ flag=FR }:: | 0 | **3** | ::{ flag=TN }:: **-Ken** | [#1](https://osu.ppy.sh/community/matches/50667315) |
+| **-Ken** ::{ flag=FR }:: | **3** | 0 | ::{ flag=FR }:: AAAAAAAAAAAAHHH | [#1](https://osu.ppy.sh/community/matches/50667876) |
+| Tantei B ::{ flag=FR }:: | 0 | **3** | ::{ flag=FR }:: **Zard** | [#1](https://osu.ppy.sh/community/matches/50668487) |
+| Zard ::{ flag=FR }:: | 0 | **3** | ::{ flag=FR }:: **AAAAAAAAAAAAHHH** | [#1](https://osu.ppy.sh/community/matches/50669095) |
+| Tantei B ::{ flag=FR }:: | 0 | **3** | ::{ flag=TN }:: **-Ken** | [#1](https://osu.ppy.sh/community/matches/50668487) |
+| **Julo** ::{ flag=FR }:: | **3** | 0 | ::{ flag=FR }:: Sageru | *win by default* |
 
 ## Règlement
 
@@ -296,10 +296,3 @@ Dimanche, 31 Mars 2019:
    - Le FreeMod est en "forcemod", ce qui veut dire que chaque joueur doit utiliser au moins un mod.
    - Le Tiebreaker n'est pas en "forcemod", mais vous pouvez choisir un mod.
    - Les mods éligibles pour le FreeMod et le Tiebreaker sont Easy, Flashlight, HardRock et Hidden.
-
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonésie"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japon"
-[flag_RE]: /wiki/shared/flag/RE.gif "Reunion"
-[flag_TN]: /wiki/shared/flag/TN.gif "Tunisie"

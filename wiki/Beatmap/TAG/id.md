@@ -6,7 +6,7 @@ tags:
 
 # TAG
 
-**TAG** adalah istilah yang digunakan untuk mendeskripsikan mode tim [multiplayer](/wiki/Multi) yang dinamakan [Tag Coop atau Tag Team Vs](/wiki/Multi#tag-coop-/-tag-team-vs), di mana pemain-pemain mencoba untuk menyelesaikan sebuah [beatmap](/wiki/Beatmap) secara kooperatif. Jenis beatmap yang secara khusus didesain untuk mode osu!, disebut sebagai **beatmap/tingkat kesulitan TAG**.
+**TAG** adalah istilah yang digunakan untuk mendeskripsikan mode tim [multiplayer](/wiki/Client/Interface/Multiplayer) yang dinamakan [Tag Coop atau Tag Team Vs](/wiki/Client/Interface/Multiplayer#tag-co-op-/-tag-team-vs), di mana pemain-pemain mencoba untuk menyelesaikan sebuah [beatmap](/wiki/Beatmap) secara kooperatif. Jenis beatmap yang secara khusus didesain untuk mode osu!, disebut sebagai **beatmap/tingkat kesulitan TAG**.
 
 Dalam mode ini, setiap pemain bertanggung jawab untuk satu [komboset](/wiki/Beatmapping/Combo) dengan pemain bergantian di antara komboset sepanjang lagu. Alasan ini diambil karena, beatmap TAG dirancang sedemikian rupa sehingga kombosetnya ditempatkan lebih jauh dan lebih kompleks dari biasanya, sehingga beatmap tersebut hampir tidak mungkin bisa dimainkan oleh hanya satu pemain.
 

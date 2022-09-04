@@ -8,7 +8,7 @@ Bu sistem gelişimin odağının oyun süresinden oyuncunun becerisinin asıl g�
 
 Böyle bir skor sisteminin ilk uygulaması herkese açık olarak Nisan 2012'de duyuruldu ve yalnızca gizemli *'???'* projesi olarak biliniyordu. Bu esrarengiz sistem daha sonra gerçek ismine aynı ay içinde kavuştu.
 
-Bu tarihten itibaren "pp" ("performans puanları" için bir kısaltma) olarak bilinen bu yeni sistem, önceki oyuncu performans standardının toplam [skordan](/wiki/Score) ibaret olması yerine beceriyi isabetli bir şekilde yansıtan bir şeye dönüştürmeye çalıştı. Yeni sistem, o dönemde oyuncu kitlesi arasında büyük beğeni topladı.
+Bu tarihten itibaren "pp" ("performans puanları" için bir kısaltma) olarak bilinen bu yeni sistem, önceki oyuncu performans standardının toplam [skordan](/wiki/Gameplay/Score) ibaret olması yerine beceriyi isabetli bir şekilde yansıtan bir şeye dönüştürmeye çalıştı. Yeni sistem, o dönemde oyuncu kitlesi arasında büyük beğeni topladı.
 
 Piyasaya çıkmasından birkaç ay sonra, 20120722-24 osu! sürümünde, eski [Dereceli](/wiki/Beatmap/Category#dereceli) skor sisteminin tamamen yerini alacak olan yeni sistem, skor güncellemeleri her 30 dakikada bir hesaplanacak şekilde oyuna resmen uygulandı. Aynı yılın Ağustos ayında sistem gerçek zamanlı güncellenecek şekilde geliştirildi.
 
@@ -22,7 +22,7 @@ ppv2 şu anda aktif olarak, kendi [değişiklik kaydına](https://osu.ppy.sh/p/c
 
 Performans puanları ağırlıklı olarak, her bir [oyun modu](/wiki/Game_mode) için oluşturulmuş özel bir algoritma tarafından belirlenen beatmap zorluğuna göre hesaplanır.
 
-Bir oyuncunun oynamakta olduğu beatmapin zorluğu, skorunun nihai pp değerini belirler. Tasarım gereği, formül dört çekirdek değere dayanır: **[hedefleme](#hedefleme)**, **[hız](#hız)**, **[isabetlilik](#isabetlilik)**, ve **[zorlanma](#zorlanma)**. Bir beatmapin belirli bir [zorluğuna](/wiki/Beatmap/Difficulty) ilişkin genel bir skoru ve bir oyuncunun belirtilen beatmapteki bireysel performansını ortaya çıkarmak adına, bunların tamamı daha sonrasında çeşitli oranlarla bir araya getirilir.
+Bir oyuncunun oynamakta olduğu beatmapin zorluğu, skorunun nihai pp değerini belirler. Tasarım gereği, formül dört çekirdek değere dayanır: **[hedefleme](#hedefleme)**, **[hız](#hız)**, **[isabetlilik](#i̇sabetlilik)**, ve **[zorlanma](#zorlanma)**. Bir beatmapin belirli bir [zorluğuna](/wiki/Beatmap/Difficulty) ilişkin genel bir skoru ve bir oyuncunun belirtilen beatmapteki bireysel performansını ortaya çıkarmak adına, bunların tamamı daha sonrasında çeşitli oranlarla bir araya getirilir.
 
 Skorlar daha sonrasında kullanıcının yalnızca en iyi skorlarının çoğunlukla genel performans puanı sıralamasına sayılmasını sağlamak için birbirlerine karşı "ağırlıklandırılır". Bu, [*ağırlık sistemi*](#ağırlık-sistemi) olarak bilinir, amacı ise oyuncunun diğer skorlarına göre kazanılan pp miktarını azaltarak kolay beatmaplerde sürekli bir şekilde düşük pp skorları kasılmasını önlemektir.
 
@@ -85,13 +85,13 @@ Aşağıdaki ipuçlarını göz önünde bulundurun:
 - Verimli bir şekilde oynayın ve sizin için hangi oyun tarzının en uygun olduğunu bulun.
 - Yüzlerce ortalama skor "farmlamaya" değil birkaç tane benzersiz skor elde etmeye odaklanın.
 - İsabet oranınızı geliştirmeye odaklanın. %1 bile büyük bir farka yol açar.
-- Yüksek komboları hedefleyin. Full combo (FC) veya [SS](/wiki/Grade) aşırı yüksek skorlar verir.
+- Yüksek komboları hedefleyin. Full combo (FC) veya [SS](/wiki/Gameplay/Grade) aşırı yüksek skorlar verir.
 
 ### Neden oynadığım bir mapten alabileceğim pp'nin tamamını alamadım?
 
 **Performans puanları hesaplanırken ağırlık sistemi kullanılır. Bu da yalnızca en yüksek skorunuzun verdiği pp'nin %100'ünü alabileceğiniz, ve sonrasındaki yaptığınız skorların gittikçe daha az vereceği anlamına gelir.**
 
-Ağırlık sistemi hakkında daha fazla bilgiyi [üstteki kısımda](#weightage-system) bulabilirsiniz.
+Ağırlık sistemi hakkında daha fazla bilgiyi [üstteki kısımda](#ağırlık-sistemi) bulabilirsiniz.
 
 ### Dereceli maplerde çok fazla skora sahip olmak ne kadar bonus pp kazandırır? 
 

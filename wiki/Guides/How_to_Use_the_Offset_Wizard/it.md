@@ -1,14 +1,14 @@
 ---
-outdated: true
+outdated_translation: true
 ---
 
 # How to use the offset wizard (Bahasa Indonesia)
 
-*[Clicca per tornare ad Offset Audio Universale](/wiki/Options/Offset_Wizard)*
+*[Clicca per tornare ad Offset Audio Universale](/wiki/Client/Options/Offset_Wizard)*
 
 ## Offset Universale
 
-L'Offset Universale regola l'offset audio affinchè le pressioni siano a tempo. Puoi trovare questa opzione sotto [Opzioni](/wiki/Options).
+L'Offset Universale regola l'offset audio affinchè le pressioni siano a tempo. Puoi trovare questa opzione sotto [Opzioni](/wiki/Client/Options).
 
 ## Impostare L'Offset Universale
 

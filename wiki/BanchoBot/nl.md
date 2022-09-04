@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated_translation: true
 no_native_review: true
 ---
 
@@ -7,11 +7,11 @@ no_native_review: true
 
 ![BanchoBot's gebruikerskaart](img/BanchoBot.jpg "BanchoBot's gebruikerskaart")
 
-BanchoBot is een bot (d.w.z. een verzameling van opdrachten met geautomatiseerde antwoorden) die mensen in de chat helpt door bepaalde informatie weer te geven en spelgerelateerde berichten aan te kondigen. Hij werd geprogrammeerd door [Echo49](https://osu.ppy.sh/users/431) en is de host van de [Bancho IRC](/wiki/Internet_Relay_Chat) (Internet Relay Chat). BanchoBot heeft ook z’n eigen [osu! profile](https://osu.ppy.sh/users/3) en [Twitteraccount](https://twitter.com/banchoboat)!
+BanchoBot is een bot (d.w.z. een verzameling van opdrachten met geautomatiseerde antwoorden) die mensen in de chat helpt door bepaalde informatie weer te geven en spelgerelateerde berichten aan te kondigen. Hij werd geprogrammeerd door [Echo49](https://osu.ppy.sh/users/431) en is de host van de [Bancho IRC](/wiki/Community/Internet_Relay_Chat) (Internet Relay Chat). BanchoBot heeft ook z’n eigen [osu! profile](https://osu.ppy.sh/users/3) en [Twitteraccount](https://twitter.com/banchoboat)!
 
 ## Opdrachten
 
-*Voor een lijst van in-game clientopdrachten, zie: [Chatconsole](/wiki/Chat_Console#commands-list)*
+*Voor een lijst van in-game clientopdrachten, zie: [Chatconsole](/wiki/Client/Interface/Chat_console#commands-list)*
 
 BanchoBot-opdrachten beginnen met `!` gevolgd door de opdracht. Deze opdrachten werken in-game en in externe IRC clients. Ze kunnen gebruikt worden in multiplayer chatkanalen en in BanchoBots PM (privébericht)-kanaal. Als een gewone gebruiker een BanchoBot-opdracht in een publiek chatkanaal verstuurt zullen andere gebruikers dit niet zien, maar het antwoord van BanchoBot zal in een privébericht van hem naar je worden gestuurd.
 
@@ -140,11 +140,11 @@ Tama: ok
 !REPORT <gebruiker> <reden>
 ```
 
-*Voor info over wat de moeite waard is om te rapporteren, zie [Ongepast Gedrag Rapporteren](/wiki/Reporting_Bad_Behaviour).*
+*Voor info over wat de moeite waard is om te rapporteren, zie [Ongepast Gedrag Rapporteren](/wiki/Reporting_bad_behaviour).*
 
 *Opmerking: Wanneer je een gebruikersnaam ingeeft, vervang dan alle spaties door een laag liggend streepje (`_`).*
 
-Deze opdracht verstuurt een rapportering naar het [Globale Moderatieteam](/wiki/Global_Moderation_Team) of de [Taalmoderators](/wiki/Language_Moderators).
+Deze opdracht verstuurt een rapportering naar het [Globale Moderatieteam](/wiki/People/The_Team/Global_Moderation_Team) of de [Taalmoderators](/wiki/People/The_Team/Global_Moderation_Team#grouped-by-languages-moderated).
 
 #### Gebruiksvoorbeeld
 

@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 3243add9ee2ee9f9c516288c3d2736509618bc9c
+---
+
 # GitHub 桌面客户端
 
 *主页面：[osu! wiki 贡献指南](/wiki/osu!_wiki/Contribution_guide)。*
@@ -46,7 +51,7 @@
 
 2\. 当你找到文件后，用你最喜欢的文本编辑器打开它。
 
-3\. 你现在可以修改该文件。当你编辑时，请尽可能遵循 [文章风格指南](/wiki/ASC)。
+3\. 你现在可以修改该文件。当你编辑时，请尽可能遵循 [文章风格指南](/wiki/Article_styling_criteria)。
 
 4\. 下一步 [提交和推送](#提交和推送)。
 
@@ -60,7 +65,7 @@
 
 *注意：如果你在 Windows 资源管理器中创建新的文件，请确认 `文件扩展名` 选项已勾选。* 更多介绍：[如何显示或隐藏文件扩展名](https://support.microsoft.com/zh-cn/help/865219/how-to-show-or-hide-file-name-extensions-in-windows-explorer)
 
-1\. 使用 Windows 资源管理器，你的图片编辑器，和你的文本编辑器创建新文件。如果你想要创建新的文章或者添加新的文章翻译，文件命名请遵循 [文章风格指南 - 本地化](/wiki/ASC#本地化)。
+1\. 使用 Windows 资源管理器，你的图片编辑器，和你的文本编辑器创建新文件。如果你想要创建新的文章或者添加新的文章翻译，文件命名请遵循 [文章风格指南 - 本地化](/wiki/Article_styling_criteria#本地化)。
 
 2\. 下一步 [提交和推送](#提交和推送)。
 

@@ -6,11 +6,11 @@ legal: true
 
 osu! est un jeu fortement orienté vers la communauté. Tous les niveaux de jeu (beatmaps) sont créés et téléchargés par les membres de la communauté, souvent sans obtenir correctement l'autorisation des détenteurs de droits d'auteur concernés. Nous nous efforçons de ne pas faire de publicité ni de tirer un profit direct du contenu téléchargé, et le jeu est entièrement financé par les dons des utilisateurs.
 
-Une grande partie des dons que nous recevons sont réinvestis dans les [licences musicales](/wiki/Legal/Music_Licensing). Les demandes de licences peuvent être envoyées à [music@ppy.sh](mailto:music@ppy.sh).
+Une grande partie des dons que nous recevons sont réinvestis dans les [licences musicales](/wiki/Legal/Music_licensing). Les demandes de licences peuvent être envoyées à [music@ppy.sh](mailto:music@ppy.sh).
 
 À défaut, osu! a adopté la politique suivante concernant la violation des droits d'auteur, conformément au Digital Millennium Copyright Act, 17 U.S.C. 512.
 
-Les coordonnées de l'Agent Désigné par osu! pour recevoir les notifications de violation présumée ("Agent Désigné") sont indiquées à la fin de la présente politique et sont conservées dans les dossiers du United States Copyright Office ([https://www.copyright.gov/dmca-directory/](https://www.copyright.gov/dmca-directory/)). osu! prend très au sérieux les droits d'auteur et autres droits de propriété intellectuelle.
+Les coordonnées de l'Agent Désigné par osu! pour recevoir les notifications de violation présumée ("Agent Désigné") sont indiquées à la fin de la présente politique et sont conservées dans les dossiers du United States Copyright Office (<https://www.copyright.gov/dmca-directory/>). osu! prend très au sérieux les droits d'auteur et autres droits de propriété intellectuelle.
 
 C'est la politique d'osu! de :
 

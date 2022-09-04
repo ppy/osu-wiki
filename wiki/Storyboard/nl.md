@@ -1,6 +1,6 @@
 ---
 no_native_review: true
-outdated: true
+outdated_translation: true
 outdated_since: 3c596a71cc876a14daabb7af66321a16db3885f6
 ---
 
@@ -13,4 +13,4 @@ Een **storyboard** is een op maat gemaakte achtergrond die samen met een [beatma
 
 Storyboards worden opgeslagen in beatmap-bestandsmappen als ofwel losstaande [`.osb`-bestanden](/wiki/osu!_File_Formats/Osb_(file_format)) of extenesies op de `[Events]`-sectie van een [`.osu`-bestand](/wiki/osu!_File_Formats/Osu_(file_format)). Hierdoor is het mogelijk om verschillende storyboards te maken voor verschillende moeilijkheidsgraden binnen een [beatmap](/wiki/Beatmap).
 
-Storyboards zijn vaak erg moeilijk om te maken en vergen veel tijd en expertise in standaardanimatie en het creëren van graphics. osu! heeft een [design editor](/wiki/Beatmap_Editor/Design) binnen de [beatmap editor](/wiki/Beatmap_Editor) om het maken van storyboards te vergemakkelijken, maar de meest gedreven storyboardmakers kiezen er vaak voor om in plaats daarvan rechtstreeks via [storyboard scripting](/wiki/Storyboard/Scripting) te werken. Veel creators kiezen ervoor om programma's te schrijven in volwaardige programmeertalen om storyboard scripts te genereren, omdat het produceren van complexe visuele effecten een grote hoeveelheid storyboard code nodig kan hebben.
+Storyboards zijn vaak erg moeilijk om te maken en vergen veel tijd en expertise in standaardanimatie en het creëren van graphics. osu! heeft een [design editor](/wiki/Client/Beatmap_editor/Design) binnen de [beatmap editor](/wiki/Client/Beatmap_editor) om het maken van storyboards te vergemakkelijken, maar de meest gedreven storyboardmakers kiezen er vaak voor om in plaats daarvan rechtstreeks via [storyboard scripting](/wiki/Storyboard/Scripting) te werken. Veel creators kiezen ervoor om programma's te schrijven in volwaardige programmeertalen om storyboard scripts te genereren, omdat het produceren van complexe visuele effecten een grote hoeveelheid storyboard code nodig kan hebben.

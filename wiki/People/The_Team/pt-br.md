@@ -5,7 +5,7 @@ tags:
   - osu! team
   - staff
   - team osu!
-outdated: true
+outdated_translation: true
 outdated_since: 1175fe79cab9897bca0e60ff7056c7a1a2510bfe
 ---
 
@@ -17,27 +17,27 @@ As pessoas listadas abaixo são o núcleo do **osu!team** e são principalmente 
 
 | Nome | Função |
 | :-- | :-- |
-| ![][flag_AU] **[peppy](https://osu.ppy.sh/users/2)** | **Líder do projeto** |
-| ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) | Orientador dos cenários de modding e mapping |
-| ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | Moderação e orientador de comunidade |
-| ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | Zelador de projeto e comunidade, caçador de Featured Artist |
-| ![][flag_JP] [flyte](https://osu.ppy.sh/users/3103765) | Designer principal, observador e residente da Creative Cloud |
-| ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | Orientador dos cenários de modding e mapping |
-| ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Organizador e administrador da World Cup |
-| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Orientador dos cenários de modding e mapping |
-| ![][flag_JP] [nanaya](https://osu.ppy.sh/users/2387883) | Desenvolvedor do osu!web |
-| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Faxineiro geral, orientador de moderação |
-| ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) | Desenvolvedor do osu!web, [Featured Artist oficial do osu!](https://osu.ppy.sh/beatmaps/artists/1) |
-| ![][flag_JP] [notbakaneko](https://osu.ppy.sh/users/10751776) | Desenvolvedor do osu!web |
-| ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Orientador dos cenários de modding e mapping |
-| ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) | Orientador dos cenários de modding e mapping, organizador da Mappers' Guild, caçador de Featured Artist |
-| ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | Faxineiro geral, zelador da wiki |
-| ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | Faxineiro geral |
-| ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) | Desenvolvedor do osu!, amante de osu!mania, detonador de bugs |
-| ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | Gerente do Project Loved, orientador de comunidade, caçador de Featured Artist |
-| ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Faxineiro geral, assistente de torneio |
-| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Faxineiro geral, assistente de torneio, zelador da wiki |
-| ![][flag_AU] [Zallius](https://osu.ppy.sh/users/55) | Espécie em extinção |
+| ::{ flag=AU }:: **[peppy](https://osu.ppy.sh/users/2)** | **Líder do projeto** |
+| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | Orientador dos cenários de modding e mapping |
+| ::{ flag=US }:: [Chaos](https://osu.ppy.sh/users/2628870) | Moderação e orientador de comunidade |
+| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | Zelador de projeto e comunidade, caçador de Featured Artist |
+| ::{ flag=JP }:: [flyte](https://osu.ppy.sh/users/3103765) | Designer principal, observador e residente da Creative Cloud |
+| ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) | Orientador dos cenários de modding e mapping |
+| ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | Organizador e administrador da World Cup |
+| ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515) | Orientador dos cenários de modding e mapping |
+| ::{ flag=JP }:: [nanaya](https://osu.ppy.sh/users/2387883) | Desenvolvedor do osu!web |
+| ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Faxineiro geral, orientador de moderação |
+| ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) | Desenvolvedor do osu!web, [Featured Artist oficial do osu!](https://osu.ppy.sh/beatmaps/artists/1) |
+| ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | Desenvolvedor do osu!web |
+| ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | Orientador dos cenários de modding e mapping |
+| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Orientador dos cenários de modding e mapping, organizador da Mappers' Guild, caçador de Featured Artist |
+| ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | Faxineiro geral, zelador da wiki |
+| ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | Faxineiro geral |
+| ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) | Desenvolvedor do osu!, amante de osu!mania, detonador de bugs |
+| ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) | Gerente do Project Loved, orientador de comunidade, caçador de Featured Artist |
+| ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Faxineiro geral, assistente de torneio |
+| ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | Faxineiro geral, assistente de torneio, zelador da wiki |
+| ::{ flag=AU }:: [Zallius](https://osu.ppy.sh/users/55) | Espécie em extinção |
 
 ## Grupos de usuário
 
@@ -57,42 +57,24 @@ Os seguintes são grupos de usuário que são feitos de membros da comunidade do
 
 | Nome | Função |
 | :-- | :-- |
-| ![][flag_CA] [awp](https://osu.ppy.sh/users/2650) | Faxineiro geral e ajudante, artista chibi. [Barrel Roll Weekly](http://brw.twinkfish.com/) |
-| ![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) | Designer de audio, [Featured Artist oficial do osu!](https://osu.ppy.sh/beatmaps/artists/2) |
-| ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | Organizador e administrador da World Cup |
-| ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) | Faxineiro geral, gerente de comunidade |
-| ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | Desenvolvedor do osu!, provedor da integração de protocolo IRC para o chat dentro do jogo, zelador do site. [Blog](http://blog.echo.sh/) |
-| ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | Host do osu! Coffee Hour, streamer da World Cup, organizador de torneios |
-| ![][flag_NL] [Intermezzo](https://osu.ppy.sh/users/136842) | Desenvolvedor do osu!, provedor do osz2 e backend p2p |
-| ![][flag_US] Jim | Designer do site original. [Brave New Games](http://www.bravegamer.com/) |
-| ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Organizador e administrador da World Cup, líder dos QAT, gerente de comunidade |
-| ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Designer épico de skins, contribuinte para a skin padrão original e o conjunto de ícones [DeviantArt](https://luigihann.deviantart.com/) |
-| ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | Desenvolvedor do osu!, criador de sliders mm |
-| ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | Desenvolvedor do osu! iPhone |
-| ![][flag_CA] [Nyquill](https://osu.ppy.sh/users/682935) | Desenvolvedor do osu!, organizador da Mappers' Guild |
-| ![][flag_AU] [phill](https://osu.ppy.sh/users/53) | Designer do fórum |
-| ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, extraordinário cara fazedor de coisas legais |
-| ![][flag_US] [Sarumaru](https://osu.ppy.sh/users/9427) | Designer da arte conceitual e do conceito original da pippi. [DeviantArt](https://sarumaru.deviantart.com/) |
-| ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Gerente e líder da comunidade emergente, contribuidor de meeting minutes e FAQ |
-| ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | Desenvolvedor do osu! e do pp |
-| ![][flag_CN] [woc2006](https://osu.ppy.sh/users/1105845) | Desenvolvedor do osu!, desenvolvedor do modo osu!mania |
-| ![][flag_JP] [yelle](https://osu.ppy.sh/users/4916903) | Gerente da [osu!store](https://osu.ppy.sh/store/listing) |
-| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Professor da [osu!academy](/wiki/osu!academy), designer de mídia e personagem |
-
-[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
-[flag_AU]: /wiki/shared/flag/AU.gif "Austrália"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canadá"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
-[flag_DE]: /wiki/shared/flag/DE.gif "Alemanha"
-[flag_ES]: /wiki/shared/flag/ES.gif "Espanha"
-[flag_FR]: /wiki/shared/flag/FR.gif "França"
-[flag_GB]: /wiki/shared/flag/GB.gif "Reino Unido"
-[flag_GR]: /wiki/shared/flag/GR.gif "Grécia"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japão"
-[flag_MX]: /wiki/shared/flag/MX.gif "México"
-[flag_NL]: /wiki/shared/flag/NL.gif "Países Baixos"
-[flag_NO]: /wiki/shared/flag/NO.gif "Noruega"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "Nova Zelândia"
-[flag_PH]: /wiki/shared/flag/PH.gif "Filipinas"
-[flag_US]: /wiki/shared/flag/US.gif "Estados Unidos"
+| ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) | Faxineiro geral e ajudante, artista chibi. [Barrel Roll Weekly](http://brw.twinkfish.com/) |
+| ::{ flag=NO }:: [cYsmix](https://osu.ppy.sh/users/272870) | Designer de audio, [Featured Artist oficial do osu!](https://osu.ppy.sh/beatmaps/artists/2) |
+| ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370) | Organizador e administrador da World Cup |
+| ::{ flag=US }:: [Derekku](https://osu.ppy.sh/users/91341) | Faxineiro geral, gerente de comunidade |
+| ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | Desenvolvedor do osu!, provedor da integração de protocolo IRC para o chat dentro do jogo, zelador do site. [Blog](http://blog.echo.sh/) |
+| ::{ flag=US }:: [HappyStick](https://osu.ppy.sh/users/256802) | Host do osu! Coffee Hour, streamer da World Cup, organizador de torneios |
+| ::{ flag=NL }:: [Intermezzo](https://osu.ppy.sh/users/136842) | Desenvolvedor do osu!, provedor do osz2 e backend p2p |
+| ::{ flag=US }:: Jim | Designer do site original. [Brave New Games](http://www.bravegamer.com/) |
+| ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Organizador e administrador da World Cup, líder dos QAT, gerente de comunidade |
+| ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | Designer épico de skins, contribuinte para a skin padrão original e o conjunto de ícones [DeviantArt](https://luigihann.deviantart.com/) |
+| ::{ flag=CA }:: [mm201](https://osu.ppy.sh/users/30655) | Desenvolvedor do osu!, criador de sliders mm |
+| ::{ flag=US }:: [nuudles](https://osu.ppy.sh/users/21312) | Desenvolvedor do osu! iPhone |
+| ::{ flag=CA }:: [Nyquill](https://osu.ppy.sh/users/682935) | Desenvolvedor do osu!, organizador da Mappers' Guild |
+| ::{ flag=AU }:: [phill](https://osu.ppy.sh/users/53) | Designer do fórum |
+| ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, extraordinário cara fazedor de coisas legais |
+| ::{ flag=US }:: [Sarumaru](https://osu.ppy.sh/users/9427) | Designer da arte conceitual e do conceito original da pippi. [DeviantArt](https://sarumaru.deviantart.com/) |
+| ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | Gerente e líder da comunidade emergente, contribuidor de meeting minutes e FAQ |
+| ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | Desenvolvedor do osu! e do pp |
+| ::{ flag=CN }:: [woc2006](https://osu.ppy.sh/users/1105845) | Desenvolvedor do osu!, desenvolvedor do modo osu!mania |
+| ::{ flag=JP }:: [yelle](https://osu.ppy.sh/users/4916903) | Gerente da [osu!store](https://osu.ppy.sh/store/listing) |
+| ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) | Professor da [osu!academy](/wiki/Community/Video_series/osu!academy), designer de mídia e personagem |

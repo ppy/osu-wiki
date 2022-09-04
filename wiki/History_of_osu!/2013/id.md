@@ -19,7 +19,7 @@ Seperangkat perintah `!faq` untuk BanchoBot telah dibuka untuk umum supaya dapat
 
 osu!mania sekarang mendukung mode flip vertikal (terbalik), membuat game serupa dengan tampilan DDR/o2jam. Skinning sekarang telah mendukung sprite resolusi ganda ketika lebar layar melebihi 1600 piksel. Untuk menambahkan dukungan ini pada skin, tambahkan gambar yang memiliki resolusi ganda dari gambar aslinya lalu akhiri dengan akhiran `@2x` sebelum ekstensi file (misalnya: `cursor@2x.png`).
 
-Memberikan peringkat dukungan berupa mod [Hidden](/wiki/HD) dan [FadeIn](/wiki/FI) di mode osu!mania dan yang terakhir, lebih sedikit pembatasan widescreen dalam editor ketika menaruh dan menyeleksi objek.
+Memberikan peringkat dukungan berupa mod [Hidden](/wiki/Game_modifier/Hidden) dan [FadeIn](/wiki/Game_modifier/Fade_In) di mode osu!mania dan yang terakhir, lebih sedikit pembatasan widescreen dalam editor ketika menaruh dan menyeleksi objek.
 
 Tautan Terkait:
 
@@ -34,7 +34,7 @@ osu! mendapat perombakan total di bagian antarmuka! osu! sekarang memiliki simbo
 
 Hit-Offset sekarang dapet diketahui dengan melayangkan kursor ke panel Akurasi layar hasil permainan. Mohon diperhatikan bahwa, hit-offset ini akan hilang dan tidak dapat disimpan. Hasil Online kini tersembunyi di bawah layar hasil permainan dibandingkan sebelumnya yang memaksa Anda untuk melihatnya. Anda dapat scroll ke bawah untuk melihatnya atau Anda cukup mengklik tombol dan Anda akan diarahkan ke layar Hasil Permainan Online.
 
-Dalam topik skin, "osu!default by peppy" digantikan oleh "osu! By peppy" (karya [RBRat3](https://osu.ppy.sh/users/307202)). Karena osu! sekarang telah mendapat dukungan widescreen HD dan ukuran standar, tombol baru ditambahkan ke tab "Skins" di bawah panel "Options". Secara bawaan, interaksi skin lama digunakan demi kompatibilitas dan memungkinkan tombol akan memaksa interaksi skin baru sebagai gantinya. [Combo fire](/wiki/Combo_fire) dihapus karena masalah kinerja. Di sisi Multi, host sekarang memiliki perintah khusus baru yang disebut "Free Mods" menggantikan "Game Style" (Host dapat menyesuaikan Game Style di menu Pemilihan Lagu sekarang di bawah panel "Mods"). #userlog diperkenalkan untuk memamerkan pencapaian bermain terakhir Anda secara pribadi.
+Dalam topik skin, "osu!default by peppy" digantikan oleh "osu! By peppy" (karya [RBRat3](https://osu.ppy.sh/users/307202)). Karena osu! sekarang telah mendapat dukungan widescreen HD dan ukuran standar, tombol baru ditambahkan ke tab "Skins" di bawah panel "Options". Secara bawaan, interaksi skin lama digunakan demi kompatibilitas dan memungkinkan tombol akan memaksa interaksi skin baru sebagai gantinya. [Combo fire](/wiki/Gameplay/Combo_fire) dihapus karena masalah kinerja. Di sisi Multi, host sekarang memiliki perintah khusus baru yang disebut "Free Mods" menggantikan "Game Style" (Host dapat menyesuaikan Game Style di menu Pemilihan Lagu sekarang di bawah panel "Mods"). #userlog diperkenalkan untuk memamerkan pencapaian bermain terakhir Anda secara pribadi.
 
 Peringkat papan skor, di sisi lain, menerima dua revisi dalam jangka waktu satu bulan. Revisi pertama adalah "unified scoreboards", di mana papan skor dipisahkan menjadi empat bagian (Mods, Teman, Skor Pribadi Terbaik, Lokal) dengan selisih skor yang diberikan di bawah panel akurasi, penghapusan papan skor lokal dan ketidakmampuan untuk melakukan scroll supaya dapat melihat lebih banyak Skor pemain lain. Meskipun akses dibatasi hanya untuk osu!supporter, peppy menerima banyak kritik dan dengan demikian, revisi kedua telah dirilis pada akhir bulan ini. Papan skor pada dasarnya dipuji kembali seperti sebelumnya, menjaga selisih-selisih skor. Penambahan yang menonjol adalah menu drop-down tab, di mana ia menyimpan berbagai jenis papan skor peringkat. Namun, jenis papan skor baru \[Negara, Global (Berdasarkan Mod yang Dipilih), dan Teman\] masih dibatasi aksesnya untuk osu!supporter.
 
@@ -51,7 +51,7 @@ Tautan Terkait:
 
 Pembaruan bulan ini sebagian besar terdiri dari penambalan pembaruan utama sebelumnya di bulan Maret, tetapi bukan hanya penambalan saja yang terjadi di bulan ini! Pertama, April ini adalah implementasi awal dari fitur "Collections" menggantikan "Favourites A/B" sebelumnya yang telah lama berdiri, dengan ini pemain diharapkan akan lebih mudah memasukkan beatmap favorit mereka dalam satu "Collections" dan dapat membagikannya dengan orang lain dengan mentransfer "Collections" daripada "Favourites A/B".
 
-Anda sekarang dapat merubah mode game lebih mudah di menu pemilihan lagu dengan menggunakan `Ctrl` + `1`, `2`, `3` atau `4`. Sebuah mod baru ditambahkan khusus untuk osu!mania, bernamakan [Random](/wiki/RD). Beberapa modifikasi telah dilakukan pada tombol "Quick Join" di Multi supaya dapat mengarahkan Anda ke sebuah ruangan yang pp rata-rata pemain di dalamnya setara dengan pp rata-rata Anda.
+Anda sekarang dapat merubah mode game lebih mudah di menu pemilihan lagu dengan menggunakan `Ctrl` + `1`, `2`, `3` atau `4`. Sebuah mod baru ditambahkan khusus untuk osu!mania, bernamakan [Random](/wiki/Game_modifier/Random). Beberapa modifikasi telah dilakukan pada tombol "Quick Join" di Multi supaya dapat mengarahkan Anda ke sebuah ruangan yang pp rata-rata pemain di dalamnya setara dengan pp rata-rata Anda.
 
 Untuk tayangan ulang beatmap, komentar yang sudah kedaluwarsa akan dialihkan menjadi gaya komentar [nico-style](https://en.wikipedia.org/wiki/Nico_Nico_Douga) dan warna komentar sekarang dapat dikustom (fitur khusus osu!supporter).
 
@@ -71,7 +71,7 @@ Nama-nama Mod telah dipersingkat (mis. "Hard Rock" menjadi "HR") untuk menghemat
 
 Selama pemutaran ulang beatmap, opsi untuk memperlambat kecepatan telah ditambahkan (setelah menekan `2x` Speed, maka Speed `0.5x` akan muncul). Playfield tidak akan memunculkan latar belakang pada keredupan (background dim) 100%. [Catch the Beat](/wiki/Game_mode/osu!catch) menerima dukungan joystick (Atas/Bawah: ganti lagu, Kanan: pilih, Kiri: keluar).
 
-[Sistem peringkat/modding baru sedang dikembangkan](https://osu.ppy.sh/community/forums/topics/129625) yang akan menggantikan sistem modding berbasis forum yang lama digunakan.
+[Sistem peringkat/modding baru sedang dikembangkan](https://osu.ppy.sh/community/forums/topics/129625) yang akan menggantikan sistem [modding berbasis forum](/wiki/Modding/Forum_modding) yang lama digunakan.
 
 Untuk mode Multi, pemain sekarang dapat menggunakan mod Special (Relax/Autopilot/SpunOut/ManiaKeys) saat opsi Free Mod diaktifkan oleh host. Di sisi skinning, sprite standar widescreen taiko (taiko @2x) telah ditambahkan. Favourites A/B telah dihapus sepenuhnya digantikan oleh Collections.
 
@@ -84,11 +84,11 @@ Tiga [pencapaian](/wiki/Medals) baru "Dedication" untuk osu!mania telah dirilis 
 
 [osu! Beatmapping Contest \#4](https://osu.ppy.sh/community/forums/posts/2324098) telah dimulai. Sebagai bentuk tindakan pencegahan terhadap pemain yang membuat banyak akun, kejelasan pesan selama pendaftaran akun ditingkatkan dan infografis yang menunjukkan bahwa Anda tidak dapat mendaftar dari ponsel/tablet telah ditambahkan untuk mencegah pemain membuat lebih banyak akun karena alasan pribadi.
 
-Selain di sisi keamanan, sekarang pengguna dapat memilih mode game mana yang menjadi default di profil mereka (seperti [osu!mania](/wiki/osu!mania), [Taiko](/wiki/Game_mode/osu!taiko)) dan dukungan [last.fm](https://www.last.fm) telah ditambahkan ke profil. Profil pengguna sekarang memiliki peringkat performa berdasarkan negara dan grafik pp juga diperbarui.
+Selain di sisi keamanan, sekarang pengguna dapat memilih mode game mana yang menjadi default di profil mereka (seperti [osu!mania](/wiki/Game_mode/osu!mania), [Taiko](/wiki/Game_mode/osu!taiko)) dan dukungan [last.fm](https://www.last.fm) telah ditambahkan ke profil. Profil pengguna sekarang memiliki peringkat performa berdasarkan negara dan grafik pp juga diperbarui.
 
 Seputaran In-game, menu utama mendapat visualisasi baru, dengan suar menyala di sekitar simbol osu!, bergantung pada intensitas BPM lagu yang diputar. Kinerja telah dioptimalkan dalam pemilihan lagu dengan banyak (lebih dari sepuluh ribu) peta. Perbarui ketahanan dan kinerja telah ditingkatkan.
 
-Berpindah ke Gameplay, lead-in time secara otomatis menambah beatmap yang mulai tiba-tiba untuk memungkinkan cukup waktu untuk menyesuaikan [Pengaturan Visual](/wiki/Visual_Settings) dan jumlah tekan total untuk setiap tombol pada input overlay ditambahkan. Untuk penyimpanan hasil online, peringkat pribadi terbaik ditampilkan pada halaman info beatmap selain pemain \#1. Pengiriman skor dari chart mania diizinkan dan replay 50 pemain teratas disimpan daripada biasanya hanya 40 pemain. Perbaikan pada Quick repeat slider yang tidak dapat mencapai kombo maksimumnya. Komentar disqus ditambahkan ke halaman beatmap. Terakhir, pengujian prototipe skor meter untuk semua mode sedang dilakukan untuk osu!test.
+Berpindah ke Gameplay, lead-in time secara otomatis menambah beatmap yang mulai tiba-tiba untuk memungkinkan cukup waktu untuk menyesuaikan [Pengaturan Visual](/wiki/Client/Interface/Visual_settings) dan jumlah tekan total untuk setiap tombol pada input overlay ditambahkan. Untuk penyimpanan hasil online, peringkat pribadi terbaik ditampilkan pada halaman info beatmap selain pemain \#1. Pengiriman skor dari chart mania diizinkan dan replay 50 pemain teratas disimpan daripada biasanya hanya 40 pemain. Perbaikan pada Quick repeat slider yang tidak dapat mencapai kombo maksimumnya. Komentar disqus ditambahkan ke halaman beatmap. Terakhir, pengujian prototipe skor meter untuk semua mode sedang dilakukan untuk osu!test.
 
 ![](img/2013-06_01.jpg "Proses pembuatan akun")
 
@@ -111,7 +111,7 @@ Tautan Terkait:
 
 [BATMANager regional baru](https://osu.ppy.sh/community/forums/topics/132667) memulai perekrutan besar pertama dari BAT baru ke dalam tim dengan [Summer 2013 NewBAT Applications](https://osu.ppy.sh/community/forums/topics/142864). Hal ini memberikan kesempatan bagi manajer baru untuk menangani aplikasi baru secara memadai. Manajer regional baru adalah [NatsumeRin](https://osu.ppy.sh/users/151679) yang mewakili Asia/Oceania, [Kurai](https://osu.ppy.sh/users/77089) mewakili Eropa, dan [Garven](https://osu.ppy.sh/users/244216) mewakili Amerika.
 
-Pada 2013-07-02, peppy membuat [osu!api](https://osu.ppy.sh/community/forums/topics/141240) terbuka untuk umum (sebelumnya hanya tersedia melalui permintaan langsung secara pribadi). Dengan ini, pengembang independen dapat membuat proyek layanan third party untuk osu!. Pada 2013-07-11, laman "forgot password" yang sebelumnya rusak telah diperbaiki. 2013-07-18 membawa pembaruan ke konektivitas fallback Bancho. Pada 2013-07-21, dukungan widescreen untuk storyboard ditambahkan dalam dialog pengaturan lagu. Dua In-game overlay baru ditambahkan untuk melacak akurasi saat Anda bermain atau menonton orang lain bermain. lihat laman [Options](/wiki/Options) untuk informasi lebih lanjut.
+Pada 2013-07-02, peppy membuat [osu!api](https://osu.ppy.sh/community/forums/topics/141240) terbuka untuk umum (sebelumnya hanya tersedia melalui permintaan langsung secara pribadi). Dengan ini, pengembang independen dapat membuat proyek layanan third party untuk osu!. Pada 2013-07-11, laman "forgot password" yang sebelumnya rusak telah diperbaiki. 2013-07-18 membawa pembaruan ke konektivitas fallback Bancho. Pada 2013-07-21, dukungan widescreen untuk storyboard ditambahkan dalam dialog pengaturan lagu. Dua In-game overlay baru ditambahkan untuk melacak akurasi saat Anda bermain atau menonton orang lain bermain. lihat laman [Options](/wiki/Client/Options) untuk informasi lebih lanjut.
 
 ![](img/2013-07_01.jpg "Overlay Hit-error")
 

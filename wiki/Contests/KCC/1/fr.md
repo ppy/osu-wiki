@@ -8,11 +8,11 @@ tags:
 
 ![Bannière de la KCC2021](img/banner.png)
 
-Le **Korean Charting Contest 2021** (***KCC2021***) est un concours de mapping osu!mania pour les utilisateurs venant de ![][flag_KR] Corée du Sud. Il s'agit de la première édition du Korean Charting Contest.
+Le **Korean Charting Contest 2021** (***KCC2021***) est un concours de mapping osu!mania pour les utilisateurs venant de ::{ flag=KR }:: Corée du Sud. Il s'agit de la première édition du Korean Charting Contest.
 
 ## Programme du concours
 
-| Événement | Horodatage (UTC+09) |
+| Événement | Horodatage (UTC+9) |
 | --: | :-- |
 | Phase d'inscription, vote de musique | 01/02/2021 - 07/02/2021 |
 | Phase de soumission | 08/02/2021 - 07/03/2021 |
@@ -33,10 +33,10 @@ Le **Korean Charting Contest 2021** (***KCC2021***) est un concours de mapping o
 
 | Position | Membre(s) |
 | :-- | :-- |
-| Organisateur | ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783) |
-| Responsable | ![][flag_KR] [Oni Suika](https://osu.ppy.sh/users/4848023) |
-| Designer | ![][flag_KR] [POCARI SWEAT](https://osu.ppy.sh/users/5082685) |
-| Juges | ![][flag_PL] [_underjoy](https://osu.ppy.sh/users/6392061), ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783), ![][flag_GT] [Hoto Cocoa](https://osu.ppy.sh/users/6974536), ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754), ![][flag_KR] [Pengdoll](https://osu.ppy.sh/users/6392061) |
+| Organisateur | ::{ flag=KR }:: [Garalulu](https://osu.ppy.sh/users/757783) |
+| Responsable | ::{ flag=KR }:: [Oni Suika](https://osu.ppy.sh/users/4848023) |
+| Designer | ::{ flag=KR }:: [POCARI SWEAT](https://osu.ppy.sh/users/5082685) |
+| Juges | ::{ flag=PL }:: [_underjoy](https://osu.ppy.sh/users/6392061), ::{ flag=KR }:: [Garalulu](https://osu.ppy.sh/users/757783), ::{ flag=GT }:: [Hoto Cocoa](https://osu.ppy.sh/users/6974536), ::{ flag=KR }:: [Kawawa](https://osu.ppy.sh/users/4647754), ::{ flag=KR }:: [Pengdoll](https://osu.ppy.sh/users/6392061) |
 
 ## Liens
 
@@ -70,16 +70,16 @@ Le **Korean Charting Contest 2021** (***KCC2021***) est un concours de mapping o
 
 | Places | Mappeur |
 | :-: | :-- |
-| ![Couronne en or](/wiki/shared/crown-gold.png "Première place") | ![][flag_KR] [11Bit](https://osu.ppy.sh/users/14804526) |
-| ![Couronne d'argent](/wiki/shared/crown-silver.png "Seconde place") | ![][flag_KR] [Sherie](https://osu.ppy.sh/users/9113475) |
-| ![Couronne de bronze](/wiki/shared/crown-bronze.png "Troisième place") | ![][flag_CA] [arpia97](https://osu.ppy.sh/users/6363008) |
+| ![Couronne en or](/wiki/shared/crown-gold.png "Première place") | ::{ flag=KR }:: [11Bit](https://osu.ppy.sh/users/14804526) |
+| ![Couronne d'argent](/wiki/shared/crown-silver.png "Seconde place") | ::{ flag=KR }:: [Sherie](https://osu.ppy.sh/users/9113475) |
+| ![Couronne de bronze](/wiki/shared/crown-bronze.png "Troisième place") | ::{ flag=CA }:: [arpia97](https://osu.ppy.sh/users/6363008) |
 
 ## Règles
 
 ### Règlement du concours
 
 - Ce concours est réservé au mode osu!mania.
-- Seules les personnes coréennes peuvent participer à ce concours. Si votre drapeau de profil n'indique pas que vous êtes en ![][flag_KR] Corée du Sud pour des raisons telles que la résidence à l'étranger, vous pouvez quand même participer si vous êtes en mesure de prouver que vous êtes Coréen.
+- Seules les personnes coréennes peuvent participer à ce concours. Si votre drapeau de profil n'indique pas que vous êtes en ::{ flag=KR }:: Corée du Sud pour des raisons telles que la résidence à l'étranger, vous pouvez quand même participer si vous êtes en mesure de prouver que vous êtes Coréen.
 - Vous devez choisir une musique que vous souhaitez mapper lors de votre inscription (une musique pour la catégorie Instrumentale et une pour la catégorie Vocal). Vous pouvez mapper une de ces deux musiques après la fin du vote.
 - Le client d'osu! doit être capable de charger et de lire votre beatmap.
 - La beatmap doit être au format `.osz`.
@@ -92,7 +92,7 @@ Le **Korean Charting Contest 2021** (***KCC2021***) est un concours de mapping o
 - Les beatmaps ne doivent pas être publiées sur le site d'osu! par le biais du Beatmap Submission System (BSS). Toutes les soumissions au concours doivent être anonymes pendant les phases de jugement afin d'éviter toute partialité.
 - Une seule difficulté est autorisée. Si plusieurs difficultés sont soumises, celle qui a le plus grand nombre d'étoiles sera celle acceptée.
 - Seules les difficultés Insane ou plus sont autorisées. Veuillez consulter les règles spécifiques aux difficultés dans les [critères de classement](/wiki/Ranking_Criteria).
-- Si vous soumettez plusieurs maps, la dernière sera celle prise en compte.
+- Si vous soumettez plusieurs beatmaps, la dernière sera celle prise en compte.
 - L'envoi d'une participation implique la compréhension et l'acceptation des règles énoncées ci-dessus.
 
 ### Critères de jugement
@@ -103,8 +103,3 @@ Pour chaque difficulté admissible soumise, le jury attribuera des points en fon
 - **Cohésion (25 pts) :** La cohérence de la soumission en ce qui concerne la structure, la représentation de la musique, le flow, les hitsounds, etc., notamment entre les différentes sections.
 - **Créativité (25 pts) :** Dans quelle mesure la proposition fait preuve d'originalité et d'unicité par rapport aux autres propositions, avec un respect raisonnable de la jouabilité.
 - **Impression des juges (25 pts) :** Il s'agit de la partie de la note laissée aux préférences personnelles des juges sur la soumission.
-
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_GT]: /wiki/shared/flag/GT.gif "Guatemala"
-[flag_KR]: /wiki/shared/flag/KR.gif "Corée du Sud"
-[flag_PL]: /wiki/shared/flag/PL.gif "Pologne"

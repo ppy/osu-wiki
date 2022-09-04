@@ -6,7 +6,7 @@ no_native_review: true
 
 *Aviso: Ter mais de uma conta de usuário por pessoa no osu! em qualquer momento é uma infração gravíssima as [regras do osu!](/wiki/Rules)!*
 
-1. Após a [instalação](/wiki/Installation) do osu! e abrir-lo, o joga irá pedir que você entre com sua conta ou registre-se. Assumindo que você esteja aqui por que você precisa de uma conta, clique em `Criar uma conta`.
+1. Após a [instalação](/wiki/Client/Installation) do osu! e abrir-lo, o joga irá pedir que você entre com sua conta ou registre-se. Assumindo que você esteja aqui por que você precisa de uma conta, clique em `Criar uma conta`.
 
    ![O formulário de registro dentro do jogo](img/ingame-registration.jpg "O formulário")
 
@@ -21,6 +21,6 @@ no_native_review: true
 
 Não se esqueça de ler as [regras](/wiki/Rules) com extrema cautela!
 
-Depois que fizer isso, agora você estará pronto para começar sua aventura rítmica! Você pode [adicionar beatmaps](/wiki/Installation#adding-beatmaps) para jogar, [fazer uma skin](/wiki/Skinning), ou [fazer um beatmap](/wiki/Beatmapping). Você também pode dar uma visitinha e mandar um "Oi" no [subfórum de Introductions](https://osu.ppy.sh/community/forums/8).
+Depois que fizer isso, agora você estará pronto para começar sua aventura rítmica! Você pode [adicionar beatmaps](/wiki/Client/Installation#adicionando-beatmaps) para jogar, [fazer uma skin](/wiki/Skinning), ou [fazer um beatmap](/wiki/Beatmapping). Você também pode dar uma visitinha e mandar um "Oi" no [subfórum de Introductions](https://osu.ppy.sh/community/forums/8).
 
-Se você precisar de mais ajuda dentro do jogo, você pode pedir ajuda no canal `#help` [Internet Relay Chat](/wiki/Internet_Relay_Chat) (IRC) abrindo o console de chat (pressione `F8` ou `F9` dentro do jogo) e então digite `/join help`. Você também pode postar sua pergunta no [subfórum de Help](https://osu.ppy.sh/community/forums/5).
+Se você precisar de mais ajuda dentro do jogo, você pode pedir ajuda no canal `#help` [Internet Relay Chat](/wiki/Community/Internet_Relay_Chat) (IRC) abrindo o console de chat (pressione `F8` ou `F9` dentro do jogo) e então digite `/join help`. Você também pode postar sua pergunta no [subfórum de Help](https://osu.ppy.sh/community/forums/5).

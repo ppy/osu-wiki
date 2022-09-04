@@ -1,6 +1,6 @@
 ---
 no_native_review: true
-outdated: true
+outdated_translation: true
 outdated_since: 2787f766bf4cf7b8e2e3afd824e15adcb4e79798
 ---
 
@@ -18,11 +18,11 @@ Para garantir que sua conta permaneça em boa situação, é recomendável criar
 
 Fornecemos aos mapeadores uma biblioteca de músicas licenciadas por meio do programa [Artistas em Destaque](/wiki/Featured_Artists). Cada música na [listagem](https://osu.ppy.sh/beatmaps/artists) é gratuita para uso em osu! e não corre o risco de ser removida.
 
-Ao procurar músicas fora do catálogo de artistas em destaque de osu!, verifique se seu criador declarou explicitamente os termos de uso. Essas informações geralmente podem ser encontradas nas seções de descrição das plataformas de lançamento de música de um artista (ex. Bandcamp, Soundcloud, YouTube) ou em seu site pessoal. Se uma música for licenciada sob uma [Licença Creative Common](https://creativecommons.org/licenses/by-nc-sa/3.0/) ou estiver disponível para uso não comercial, é seguro criar e enviar um beatmap para ela.
+Ao procurar músicas fora do catálogo de artistas em destaque de osu!, verifique se seu criador declarou explicitamente os termos de uso. Essas informações geralmente podem ser encontradas nas seções de descrição das plataformas de lançamento de música de um artista (ex. Bandcamp, Soundcloud, YouTube) ou em seu site pessoal. Se uma música for licenciada sob uma [Licença Creative Common](https://creativecommons.org/about/cclicenses/) ou estiver disponível para uso não comercial, é seguro criar e enviar um beatmap para ela.
 
 Se você deseja criar um beatmap para uma música e seus direitos de uso não estão claros, é recomendável entrar em contato com o artista para obter permissão. A maioria dos artistas tem métodos de contato rotulados em suas plataformas de lançamento de música, sites pessoais e mídia social.
 
-Isso pode parecer um grande obstáculo, mas vimos que os mapeadores têm muito sucesso e recebem a aprovação dos artistas apenas tendo a coragem de perguntar antes de usar o conteúdo sem permissão. Mencionar que osu! é um jogo gratuito sem anúncios pode ajudar, e você pode vinculá-los à nossa página de [licenciamento](/wiki/Legal/Music_Licensing) para dá-los uma ideia melhor de como o conteúdo é consumido.
+Isso pode parecer um grande obstáculo, mas vimos que os mapeadores têm muito sucesso e recebem a aprovação dos artistas apenas tendo a coragem de perguntar antes de usar o conteúdo sem permissão. Mencionar que osu! é um jogo gratuito sem anúncios pode ajudar, e você pode vinculá-los à nossa página de [licenciamento](/wiki/Legal/Music_licensing) para dá-los uma ideia melhor de como o conteúdo é consumido.
 
 Embora músicas sejam frequentemente restritas por direitos autorais, efeitos sonoros usados para hitsounds personalizados estão mais frequentemente disponíveis gratuitamente. Por exemplo, a orquestra da Philharmonia fornece [amostras de som de instrumentos](https://philharmonia.co.uk/resources/sound-samples/) gratuitas e [Freesound](https://freesound.org) permite pesquisas de amostras de som filtradas por direitos de uso.
 

@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: acdcb1efbd3ac94eef628b095b78cbacfcdac000
 ---
 
 # Guias
@@ -10,20 +12,20 @@ Abaixo se encontra uma lista ordenada de guias criados por membros da comunidade
 
 *Página principal: [Beatmapping](/wiki/Beatmapping)*
 
-- [Adicionando Hitsounds Customizados](Adding_Custom_Hitsounds)
+- [Adicionando Hitsounds Customizados](Using_custom_hitsounds)
 - [Edição de Áudio](Audio_Editing)
 - [Mudando o Artista ou Título](Changing_the_Artist_or_Title)
-- [Mudando o texto do Título](/wiki/Beatmap/Title_Text#changing-title-text)
+- [Mudando o texto do Título](/wiki/Beatmap/Title_text#changing-title-text)
 - [Informação de Collab](Collab_Information)
-- [Compactando Arquivos](Compressing_Files)
+- [Compactando Arquivos](Compressing_files)
 - [Biblioteca de Hitsound Customizado](Custom_Hitsound_Library)
 - [Sobreposição de Amostra Customizado](Custom_Sample_Overrides)
 - [Como Fazer o Timing de Músicas](How_to_Time_Songs)
-- [Teoria Musical](Music_Theory)
+- [Teoria Musical](/wiki/Music_theory)
 - [Guia de Mapping de osu!mania](osu!mania_Mapping_Guide)
 - [Pondo o Offset na Batida Correta](Setting_the_Offset_on_the_Correct_Beat)
 - [Começando um Projeto de Beatmap](Starting_a_Beatmap_Project)
-- [Vídeos do YouTube](Videos_from_Youtube)
+- [Vídeos do YouTube](Videos_from_YouTube)
 
 ## Modding
 
@@ -37,7 +39,6 @@ Abaixo se encontra uma lista ordenada de guias criados por membros da comunidade
 - [Como utilizar o Offset Wizard](How_to_Use_the_Offset_Wizard)
 - [Pesquisando e Baixando Beatmaps](Searching_and_Downloading_Beatmaps)
 - [Compra de Tablet](Tablet_Purchase)
-- [Dicas e Manhas em Melhoria de Habilidade](Tips_and_Tricks_on_Skill_Improvement)
 
 ## Skinning
 
@@ -45,7 +46,7 @@ Abaixo se encontra uma lista ordenada de guias criados por membros da comunidade
 
 - [Corte com Planos de Fundo Complexos](Cropping_with_Complex_Backgrounds)
 - [Corte com Planos de Fundo Simples](Cropping_with_Simple_Backgrounds)
-- [Fazendo Spinners Propriamente Centralizados](Making_Properly_Centered_Spinners)
+- [Fazendo Spinners Propriamente Centralizados](Making_Properly_Centred_Spinners)
 
 ## Diversos
 

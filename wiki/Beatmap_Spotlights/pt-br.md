@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated_translation: true
 outdated_since: 542060abc5b2a4178a1b8d4a897ccef0d7149c4d
 tags:
   - Charts
@@ -15,7 +15,7 @@ O **Beatmap Spotlights** (também conhecido como *Spotlights* ou *Ranking Charts
 
 **A iteração atual desse projeto está em desenvolvimento e muitas de suas funcionalidades ainda estão sendo implementadas.** Específicos desse sistema, tais como recompensas, rankings sazonais ou funcionalidades de jogabilidade, podem mudar a qualquer momento.
 
-A temporada atual é a temporada de Verão 2020. É considerada o primeiro teste do novo sistema de Beatmap Spotlights.
+A temporada atual é a temporada de Inverno 2022. É considerada o primeiro teste do novo sistema de Beatmap Spotlights.
 
 ## Organização
 
@@ -23,9 +23,9 @@ O projeto Beatmap Spotlights é mantido por vários membros da comunidade dentre
 
 | Função | Membros |
 | :-- | :-- |
-| Líder de projeto | ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631) |
-| Gerente de projeto | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |
-| Gerente do website | ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631), ![][flag_US] [Snowleopard](https://osu.ppy.sh/users/3790227) |
+| Líder de projeto | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) |
+| Gerente de projeto | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |
+| Gerente do website | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631), ::{ flag=US }:: [Snowleopard](https://osu.ppy.sh/users/3790227) |
 
 ## Curadores
 
@@ -33,47 +33,43 @@ Cada lançamento do Beatmap Spotlights é montado por um time dedicado de curado
 
 ### Curadores osu!
 
-- ![][flag_US] **[pishifat](https://osu.ppy.sh/users/3178418)**
-- ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251)
-- ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207)
-- ![][flag_DE] [IceKalt](https://osu.ppy.sh/users/5410645)
-- ![][flag_DE] [Kite](https://osu.ppy.sh/users/134572)
-- ![][flag_FI] [Lefafel](https://osu.ppy.sh/users/2295850)
-- ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515)
-- ![][flag_CN] [Moecho](https://osu.ppy.sh/users/5075660)
-- ![][flag_MX] [Riot](https://osu.ppy.sh/users/4256461)
-- ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
-- ![][flag_US] [squirrelpascals](https://osu.ppy.sh/users/6151332)
-- ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737)
+- ::{ flag=FI }:: **[Nowaie](https://osu.ppy.sh/users/5428909)**
+- ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
+- ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334)
+- ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207)
+- ::{ flag=FI }:: [Lefafel](https://osu.ppy.sh/users/2295850)
+- ::{ flag=AT }:: [Omgforz](https://osu.ppy.sh/users/578943)
+- ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461)
+- ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955)
 
 ### Curadores osu!taiko
 
-- ![][flag_DE] **[OnosakiHito](https://osu.ppy.sh/users/290128)**
-- ![][flag_FR] [Arrival](https://osu.ppy.sh/users/1694000)
-- ![][flag_JP] [Charlotte](https://osu.ppy.sh/users/3686901)
-- ![][flag_DE] [Greenshell](https://osu.ppy.sh/users/8693851)
-- ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/users/876419)
-- ![][flag_DE] [Nepuri](https://osu.ppy.sh/users/6637817)
-- ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737)
+- ::{ flag=TN }:: **[Hivie](https://osu.ppy.sh/users/14102976)**
+- ::{ flag=AR }:: [Axer](https://osu.ppy.sh/users/7299864)
+- ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097)
+- ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)
+- ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719)
+- ::{ flag=MY }:: [[Zeth]](https://osu.ppy.sh/users/9912966)
 
 ### Curadores osu!catch
 
-- ![][flag_ES] **[Deif](https://osu.ppy.sh/users/318565)**
-- ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508)
-- ![][flag_CA] [SadEgg](https://osu.ppy.sh/users/10278243)
-- ![][flag_SG] [Sinnoh](https://osu.ppy.sh/users/4236057)
-- ![][flag_US] [Snowless](https://osu.ppy.sh/users/4316266)
-- ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045)
+- ::{ flag=CA }:: **[SadEgg](https://osu.ppy.sh/users/10278243)**
+- ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)
+- ::{ flag=KR }:: [x_angelkawaii_x](https://osu.ppy.sh/users/566276)
+- ::{ flag=US }:: [Snowless](https://osu.ppy.sh/users/4316266)
+- ::{ flag=US }:: [wonjae](https://osu.ppy.sh/users/5032045)
 
 ### Curadores osu!mania
 
-- ![][flag_GB] **[Hydria](https://osu.ppy.sh/users/808176)**
-- ![][flag_AU] [CrumpetFiddler](https://osu.ppy.sh/users/3518705)
-- ![][flag_TH] [HowToPlayLN](https://osu.ppy.sh/users/10879600)
-- ![][flag_DO] [Kaito-kun](https://osu.ppy.sh/users/4715184)
-- ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573)
-- ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098)
-- ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767)
+- ::{ flag=GB }:: **[Hydria](https://osu.ppy.sh/users/808176)**
+- ::{ flag=KR }:: [Aruel](https://osu.ppy.sh/users/3984370)
+- ::{ flag=CA }:: [BringoBrango](https://osu.ppy.sh/users/10274043)
+- ::{ flag=AU }:: [CrumpetFiddler](https://osu.ppy.sh/users/3518705)
+- ::{ flag=AU }:: [[ Decku ]](https://osu.ppy.sh/users/13360768)
+- ::{ flag=TH }:: [HowToPlayLN](https://osu.ppy.sh/users/10879600)
+- ::{ flag=DO }:: [Kaito-kun](https://osu.ppy.sh/users/4715184)
+- ::{ flag=MY }:: [Kibitz](https://osu.ppy.sh/users/7418493)
+- ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573)
 
 ## Playlists (Verão 2020)
 
@@ -247,7 +243,7 @@ Este cronograma mostra a disponibilidade de salas permanentes da temporada atual
 
 ### Salas de multiplayer permanente semanais
 
-A partir de agora, entrar nessas salas de multiplayer permanente semanais requer que os participantes baixem e instalem o [osu!lazer](https://github.com/ppy/osu/releases).
+A partir de agora, entrar nessas salas de multiplayer permanente semanais requer que os participantes baixem e instalem o [osu!(lazer)](https://github.com/ppy/osu/releases).
 
 1. Toda sexta-feira de uma semana em cada temporada, uma sala multiplayer permanente será aberta. Todo mundo poderá participar por 3 dias.
    - Nas 2 semanas finais de uma temporada, a sala multiplayer permanente será aberta novamente para duas playlists ao invés de uma.
@@ -258,7 +254,7 @@ A partir de agora, entrar nessas salas de multiplayer permanente semanais requer
 3. Dentro de uma sala permanente, todo mundo compete entre si em uma colocação específica para aquela sala.
    - Colocações de sala são baseados no sistema de Pontuação Ranqueada. Portanto, apenas os melhores resultados de pontuação em cada beatmap dentro da playlist são contados para criar uma Pontuação Ranqueada semanal para cada jogador.
    - Cada beatmap de uma playlist conta igualmente para a pontuação na colocação. Dificuldades mais difíceis não irão fornecer mais pontuação do que as mais fáceis.
-   - Pontuação individual de beatmap é baseada no sistema de pontuação do osu!lazer.
+   - Pontuação individual de beatmap é baseada no sistema de pontuação do osu!(lazer).
 4. O total semanal de Pontuação Ranqueada visível na sala permanente é chamado de "Pontuação Ranqueada Semanal" na colocação.
 5. Assim que uma sala permanente termina, a Pontuação Ranqueada Semanal de cada participante é adicionada a Colocação de Temporada.
 
@@ -291,14 +287,14 @@ Recompensas são distribuídas para vencedores de salas permanentes semanalmente
 
 | Distintivos | Divisão de Liga | Posição |
 | :-: | :-- | :-- |
-| ![](img/badges/summer_2020/osu/ri_2.png) ![](img/badges/summer_2020/osu/ri_3.png) | Rhythm Incarnate | Top 50 |
-| ![](img/badges/summer_2020/osu/diamond_2.png) ![](img/badges/summer_2020/osu/diamond_3.png) | Diamante | Top 51 – 3% |
-| ![](img/badges/summer_2020/osu/platinum_2.png) ![](img/badges/summer_2020/osu/platinum_3.png) | Platina | 3% – 10% |
-| ![](img/badges/summer_2020/osu/gold_2.png) ![](img/badges/summer_2020/osu/gold_3.png) | Ouro | 10% – 25% |
-| ![](img/badges/summer_2020/osu/silver_2.png) ![](img/badges/summer_2020/osu/silver_3.png) | Prata | 25% – 50% |
-| ![](img/badges/summer_2020/osu/bronze_2.png) ![](img/badges/summer_2020/osu/bronze_3.png) | Bronze | 50% – 70% |
-| ![](img/badges/summer_2020/osu/copper_2.png) ![](img/badges/summer_2020/osu/copper_3.png) | Cobre | 70% – 95% |
-| ![](img/badges/summer_2020/osu/iron_2.png) ![](img/badges/summer_2020/osu/iron_3.png) | Ferro | 95% – 100% |
+| ![](img/badges/winter_2022/osu/ri_1.png) ![](img/badges/winter_2022/osu/ri_2.png) | Rhythm Incarnate | Top 50 |
+| ![](img/badges/winter_2022/osu/diamond_1.png) ![](img/badges/winter_2022/osu/diamond_2.png) | Diamante | Top 51 – 3% |
+| ![](img/badges/winter_2022/osu/platinum_1.png) ![](img/badges/winter_2022/osu/platinum_2.png) | Platina | 3% – 10% |
+| ![](img/badges/winter_2022/osu/gold_1.png) ![](img/badges/winter_2022/osu/gold_2.png) | Ouro | 10% – 25% |
+| ![](img/badges/winter_2022/osu/silver_1.png) ![](img/badges/winter_2022/osu/silver_2.png) | Prata | 25% – 50% |
+| ![](img/badges/winter_2022/osu/bronze_1.png) ![](img/badges/winter_2022/osu/bronze_2.png) | Bronze | 50% – 70% |
+| ![](img/badges/winter_2022/osu/copper_1.png) ![](img/badges/winter_2022/osu/copper_2.png) | Cobre | 70% – 95% |
+| ![](img/badges/winter_2022/osu/iron_1.png) ![](img/badges/winter_2022/osu/iron_2.png) | Ferro | 95% – 100% |
 
 Essa tabela mostra apenas uma das quatro versões de distintivos. Cada modo de jogo tem seu próprio distintivo.
 
@@ -343,29 +339,10 @@ Todos os candidatos são analisados pela gerência do projeto e líderes de time
 
 ## História
 
-Originalmente conhecido como "Ranking Charts" e criado em Novembro de 2009 por ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) e ![][flag_AU] [peppy](https://osu.ppy.sh/users/2), o projeto tinha como objetivo destacar os melhores beatmaps do mês deixando a [Equipe de Apreciação de Beatmap](/wiki/Modding/Beatmap_Appreciation_Team) e a [Equipe de Assistência de Mapping](/wiki/Modding/Mapping_Assistance_Team) nomear e votar nos candidatos mais adequados.
+Originalmente conhecido como "Ranking Charts" e criado em Novembro de 2009 por ::{ flag=US }:: [Cyclone](https://osu.ppy.sh/users/18589) e ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2), o projeto tinha como objetivo destacar os melhores beatmaps do mês deixando a [Equipe de Apreciação de Beatmap](/wiki/Modding/Beatmap_Appreciation_Team) e a [Equipe de Assistência de Mapping](/wiki/Modding/Mapping_Assistance_Team) nomear e votar nos candidatos mais adequados.
 
 O projeto sofreu várias mudanças e adições, tais como [Ranking Charts temáticas](https://osu.ppy.sh/rankings/osu/charts?spotlight=26), [Ranking Charts com restrição de mods](https://osu.ppy.sh/rankings/osu/charts?spotlight=19) ou [colocações de temporada](https://osu.ppy.sh/home/news/2014-07-18-june-2014-ranking-chart). Originalmente, os vencedores dos Ranking Charts foram recompensados com osu! Supporter Tags. Depois disso, recompensas para mappers ou vencedores de colocações de temporada foram adicionadas.
 
-A liderança do projeto mudou várias vezes em sua história. ![][flag_US] [SapphireGhost](https://osu.ppy.sh/users/388602) tomou conta da liderança do projeto em Maio de 2012, seguido de ![][flag_US] [DeathXShinigami](https://osu.ppy.sh/users/49516) e ![][flag_US] [Makar](https://osu.ppy.sh/users/686389). ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) e ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) tomaram conta do projeto em Dezembro de 2013. Em Março de 2015 o projeto mudou de seu design original de nomear e votar para ter [membros de comunidade de renome por sí sós selecionarem uma lista de beatmap](https://osu.ppy.sh/home/news/2015-03-18-february-2015-monthly-ranking-charts-new-season) sets que recomendam. Em Setembro de 2016, o [sistema de seleção foi quase totalmente revertido](https://osu.ppy.sh/home/news/2016-09-17-july-2016-ranking-charts-changes) e colocou a [Equipe de Garantia de Qualidade](/wiki/Modding/Quality_Assurance_Team) no comando de selecionar os mais notáveis beatmap sets.
+A liderança do projeto mudou várias vezes em sua história. ::{ flag=US }:: [SapphireGhost](https://osu.ppy.sh/users/388602) tomou conta da liderança do projeto em Maio de 2012, seguido de ::{ flag=US }:: [DeathXShinigami](https://osu.ppy.sh/users/49516) e ::{ flag=US }:: [Makar](https://osu.ppy.sh/users/686389). ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) e ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) tomaram conta do projeto em Dezembro de 2013. Em Março de 2015 o projeto mudou de seu design original de nomear e votar para ter [membros de comunidade de renome por sí sós selecionarem uma lista de beatmap](https://osu.ppy.sh/home/news/2015-03-18-february-2015-monthly-ranking-charts-new-season) sets que recomendam. Em Setembro de 2016, o [sistema de seleção foi quase totalmente revertido](https://osu.ppy.sh/home/news/2016-09-17-july-2016-ranking-charts-changes) e colocou a [Equipe de Garantia de Qualidade](/wiki/Modding/Quality_Assurance_Team) no comando de selecionar os mais notáveis beatmap sets.
 
-Renomeado para [Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights) em Março de 2017, o sistema em sí manteve relativamente consistente enquanto adicionou recompensas adicionais tais como distintivos e melhorando a apresentação do Beatmap Spotlights ainda mais. Durante uma revisão interna da Equipe de Garantia de Qualidade, a responsabilidade do projeto foi transferida a ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) e re-implementada a equipe de seleção baseada em membros da comunidade. Em Novembro de 2018, a frequência dos Spotlights mudaram para um [ciclo de lançamento por temporada](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018). Em março de 2020, ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) entrou novamente como líder de projeto junto de Kurokami, ambos refazendo o projeto em uma nova forma e reunindo uma nova equipe de curadores do osu!.
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Austrália"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canadá"
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
-[flag_DE]: /wiki/shared/flag/DE.gif "Alemanha"
-[flag_DO]: /wiki/shared/flag/DO.gif "República Dominicana"
-[flag_ES]: /wiki/shared/flag/ES.gif "Espanha"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finlândia"
-[flag_FR]: /wiki/shared/flag/FR.gif "França"
-[flag_GB]: /wiki/shared/flag/GB.gif "Reino Unido"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_HU]: /wiki/shared/flag/HU.gif "Hungria"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japão"
-[flag_MX]: /wiki/shared/flag/MX.gif "México"
-[flag_PH]: /wiki/shared/flag/PH.gif "Filipinas"
-[flag_PL]: /wiki/shared/flag/PL.gif "Polônia"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapura"
-[flag_TH]: /wiki/shared/flag/TH.gif "Tailândia"
-[flag_US]: /wiki/shared/flag/US.gif "Estados Unidos"
+Renomeado para [Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights) em Março de 2017, o sistema em sí manteve relativamente consistente enquanto adicionou recompensas adicionais tais como distintivos e melhorando a apresentação do Beatmap Spotlights ainda mais. Durante uma revisão interna da Equipe de Garantia de Qualidade, a responsabilidade do projeto foi transferida a ::{ flag=HU }:: [Kurokami](https://osu.ppy.sh/users/260933) e re-implementada a equipe de seleção baseada em membros da comunidade. Em Novembro de 2018, a frequência dos Spotlights mudaram para um [ciclo de lançamento por temporada](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018). Em março de 2020, ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) entrou novamente como líder de projeto junto de Kurokami, ambos refazendo o projeto em uma nova forma e reunindo uma nova equipe de curadores do osu!.

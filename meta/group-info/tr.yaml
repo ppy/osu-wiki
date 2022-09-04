@@ -29,38 +29,3 @@ nat:
     structural: yapısal
 languages:
   partial: biraz <language>
-  ar: Arapça
-  bg: Bulgarca
-  bn: Bengalce
-  ca: Katalanca
-  da: Danca
-  de: Almanca
-  el: Yunanca
-  es: İspanyolca
-  et: Estçe
-  fi: Fince
-  fil: Filipince
-  fr: Fransızca
-  gl: Galiçyaca
-  hr: Hırvatça
-  hu: Macarca
-  id: Endonezce
-  it: İtalyanca
-  ja: Japonca
-  ko: Korece
-  ms: Malay dili
-  nl: Flemenkçe
-  no: Norveççe
-  pl: Lehçe
-  pt: Portekizce
-  ro: Romence
-  ru: Rusça
-  sr: Sırpça
-  sv: İsveççe
-  te: Teluguca
-  th: Tay dili
-  tr: Türkçe
-  ur: Urduca
-  vi: Vietnamca
-  yue: Kantonca
-  zh: Çince

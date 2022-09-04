@@ -9,9 +9,9 @@ tags:
 
 ![Sebuah screenshot dari aliran, bahasa, dan tags di dalam halaman beatmap](img/beatmap-info.png "Aliran dan bahasa terdapat dalam halaman daftar beatmap.")
 
-[Beatmaps](/wiki/Beatmap) yang sudah diunggah ke situs, memiliki **aliran** dan **bahasa** untuk membantu dalam mengkategorikan sebuah musik. Mereka dianggap sebagai bagian dari beatmap *metadata*.
+[Beatmaps](/wiki/Beatmap) yang sudah diunggah ke situs, memiliki **aliran** dan **bahasa** untuk membantu dalam mengkategorikan sebuah musik. Mereka dianggap sebagai bagian dari beatmap [metadata](/wiki/Beatmap_Editor/Song_Setup#song-and-map-metadata).
 
-Aliran dan bahasa tidak memiliki fungsi di dalam gim saat ini, namun bisa digunakan sebagai opsi pencarian di dalam osu!lazer dimasa yang akan datang.
+Aliran dan bahasa tidak memiliki fungsi di dalam gim saat ini, namun bisa digunakan sebagai opsi pencarian di dalam osu!(lazer) dimasa yang akan datang.
 
 ## Daftar beatmap
 
@@ -21,9 +21,9 @@ Aliran dan bahasa tidak memiliki fungsi di dalam gim saat ini, namun bisa diguna
 
 ## Mengganti aliran dan bahasa pada sebuah beatmap
 
-Aliran dan bahasa dapat diganti pada situs dengan menekan ikon pensil saat mengarahkannya pada detail beatmap. Kemampuan ini hanya dapat digunakan oleh [grup user](/wiki/People/The_Team#user-groups) dan [kategori](/wiki/Beatmap/Category#beatmap-categories) beatmap:
+Aliran dan bahasa dapat diganti pada situs dengan menekan ikon pensil saat mengarahkannya pada detail beatmap. Kemampuan ini hanya dapat digunakan oleh [grup user](/wiki/People/The_Team#gugus-pengguna) dan [kategori](/wiki/Beatmap/Category#kategori-yang-ada-saat-ini) beatmap:
 
-- Pemilik mapset diijinkan ketika beatmap masuk dalam kategori [WIP](/wiki/Beatmap/Category#work-in-progress-and-pending), [Pending](/wiki/Beatmap/Category#work-in-progress-and-pending), atau [Graveyard](/wiki/Beatmap/Category#graveyard), dan belum memiliki nominasi.
+- Pemilik mapset diijinkan ketika beatmap masuk dalam kategori [WIP](/wiki/Beatmap/Category#work-in-progress-dan-pending), [Pending](/wiki/Beatmap/Category#work-in-progress-dan-pending), atau [Graveyard](/wiki/Beatmap/Category#graveyard), dan belum memiliki nominasi.
 - Anggota dari [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) diijinkan ketika beatmap masuk dalam kategori [Qualified](/wiki/Beatmap/Category#qualified), WIP, atau Pending.
 - Anggota dari [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team) diijinkan ketika beatmap masuk dalam kategori [Loved](/wiki/Beatmap/Category#loved).
 - Anggota dari [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) dan [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) diijinkan untuk semua kategori.

@@ -8,7 +8,7 @@ tags:
 
 ![OCM3 logo](img/logo.png)
 
-The **osu! Cup Master 3: osu!catch edition** (***OCM3***) is a a two-on-two team based osu!catch tournament hosted by ![][flag_PA] [Jafett](https://osu.ppy.sh/users/2317102) and ![][flag_MX] [daxeroz](https://osu.ppy.sh/users/1170156). It is the third instalment of the osu! Cup Master.
+The **osu! Cup Master 3: osu!catch edition** (***OCM3***) is a a two-on-two team based osu!catch tournament hosted by ::{ flag=PA }:: [Jafett](https://osu.ppy.sh/users/2317102) and ::{ flag=MX }:: [daxeroz](https://osu.ppy.sh/users/1170156). It is the third instalment of the osu! Cup Master.
 
 ## Tournament schedule
 
@@ -38,13 +38,13 @@ The osu! Cup Master 3: osu!catch edition tournament is run by various osu! commu
 
 | Position | Member(s) |
 | :-: | :-- |
-| Host | ![][flag_PA] [Jafett](https://osu.ppy.sh/users/2317102), ![][flag_MX] [daxeroz](https://osu.ppy.sh/users/1170156) |
-| Manager | ![][flag_CL] [Metak](https://osu.ppy.sh/users/2861255) |
-| Mappool selector | ![][flag_MX] [daxeroz](https://osu.ppy.sh/users/1170156), ![][flag_MX] [firu](https://osu.ppy.sh/users/10516547) , ![][flag_CL] [lineqtxz](https://osu.ppy.sh/users/989542) |
-| Commentator | ![][flag_PE] [-Boltic-](https://osu.ppy.sh/users/5297904), ![][flag_FR] [Rougoku](https://osu.ppy.sh/users/6900166), ![][flag_CL] [lechuguin](https://osu.ppy.sh/users/2872000), ![][flag_LU] [Gae](https://osu.ppy.sh/users/7787785), ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613) |
-| Referee | ![][flag_CL] [Hinoshi](https://osu.ppy.sh/users/9200197), ![][flag_PE] [-Boltic-](https://osu.ppy.sh/users/5297904), ![][flag_CL] [Danilo](https://osu.ppy.sh/users/1350613), ![][flag_CL] [Metak](https://osu.ppy.sh/users/2861255), ![][flag_UY] [Neimex23](https://osu.ppy.sh/users/7293703), ![][flag_GB] [StartAndSelect](https://osu.ppy.sh/users/8720555/osu), ![][flag_PA] [Jafett](https://osu.ppy.sh/users/2317102) |
-| Designer | ![][flag_MX] [ShadowMerry](https://osu.ppy.sh/users/3104864) |
-| Streamer | ![][flag_MX] [daxeroz](https://osu.ppy.sh/users/1170156), ![][flag_LU] [Gae](https://osu.ppy.sh/users/7787785) |
+| Host | ::{ flag=PA }:: [Jafett](https://osu.ppy.sh/users/2317102), ::{ flag=MX }:: [daxeroz](https://osu.ppy.sh/users/1170156) |
+| Manager | ::{ flag=CL }:: [Metak](https://osu.ppy.sh/users/2861255) |
+| Mappool selector | ::{ flag=MX }:: [daxeroz](https://osu.ppy.sh/users/1170156), ::{ flag=MX }:: [firu](https://osu.ppy.sh/users/10516547) , ::{ flag=CL }:: [lineqtxz](https://osu.ppy.sh/users/989542) |
+| Commentator | ::{ flag=PE }:: [-Boltic-](https://osu.ppy.sh/users/5297904), ::{ flag=FR }:: [Rougoku](https://osu.ppy.sh/users/6900166), ::{ flag=CL }:: [lechuguin](https://osu.ppy.sh/users/2872000), ::{ flag=LU }:: [Gae](https://osu.ppy.sh/users/7787785), ::{ flag=ID }:: [dika312](https://osu.ppy.sh/users/741613) |
+| Referee | ::{ flag=CL }:: [Hinoshi](https://osu.ppy.sh/users/9200197), ::{ flag=PE }:: [-Boltic-](https://osu.ppy.sh/users/5297904), ::{ flag=CL }:: [Danilo](https://osu.ppy.sh/users/1350613), ::{ flag=CL }:: [Metak](https://osu.ppy.sh/users/2861255), ::{ flag=UY }:: [Neimex23](https://osu.ppy.sh/users/7293703), ::{ flag=GB }:: [StartAndSelect](https://osu.ppy.sh/users/8720555/osu), ::{ flag=PA }:: [Jafett](https://osu.ppy.sh/users/2317102) |
+| Designer | ::{ flag=MX }:: [ShadowMerry](https://osu.ppy.sh/users/3104864) |
+| Streamer | ::{ flag=MX }:: [daxeroz](https://osu.ppy.sh/users/1170156), ::{ flag=LU }:: [Gae](https://osu.ppy.sh/users/7787785) |
 
 ## Links
 
@@ -57,22 +57,22 @@ The osu! Cup Master 3: osu!catch edition tournament is run by various osu! commu
 
 |  | Team | Members |
 | :-: | :-: | :-- |
-| ![](img/teams/acelga.png) | Acelga | ![][flag_CL] [eldnl](https://osu.ppy.sh/users/285756), ![][flag_CL] [Aryssiel](https://osu.ppy.sh/users/2389481), ![][flag_CL] [NachoL](https://osu.ppy.sh/users/1250096) |
-| ![](img/teams/mybloodtrailsoplica.png) | My blood trail soplica | ![][flag_PL] [Phob](https://osu.ppy.sh/users/6069462), ![][flag_Pl] [Mniam](https://osu.ppy.sh/users/6050530), ![][flag_PL] [Verti](https://osu.ppy.sh/users/10674528) |
-| ![](img/teams/loschoripondios.png) | Los Choripondios | ![][flag_CL] [alluya69](https://osu.ppy.sh/users/2212951), ![][flag_CL] [-Kotaru-](https://osu.ppy.sh/users/9131357), ![][flag_CL] [-Naroh](https://osu.ppy.sh/users/9087831) |
-| ![](img/teams/115.png) | 115 | ![][flag_ES] [Dogma](https://osu.ppy.sh/users/4175333), ![][flag_DE] [bro gamer NR1](https://osu.ppy.sh/users/9573527), ![][flag_JP] [noob desu](https://osu.ppy.sh/users/4808804), ![][flag_US] [ChewyTarTar](https://osu.ppy.sh/users/13978275/fruits) |
-| ![](img/teams/bjirrsquad.png) | Bjirr Squad | ![][flag_ID] [Chiya--](https://osu.ppy.sh/users/7934854), ![][flag_ID] [ZYX_GAME](https://osu.ppy.sh/users/3770612), ![][flag_ID] [Zephirine](https://osu.ppy.sh/users/9629190) |
-| ![](img/teams/iaffi.png) | Iaffi | ![][flag_CL] [Lyna Paulina](https://osu.ppy.sh/users/10434422), ![][flag_HN] [- AnGel](https://osu.ppy.sh/users/12931440), ![][flag_HN] [[-Cris-]](https://osu.ppy.sh/users/14599677) |
-| ![](img/teams/wwwww.png) | wwwww | ![][flag_AR] [-Story-](https://osu.ppy.sh/users/8172283), ![][flag_AU] [Beerus](https://osu.ppy.sh/users/5529199), ![][flag_GB] [Matt_H](https://osu.ppy.sh/users/4067115) |
-| ![](img/teams/krns.png) | KNRS | ![][flag_FR] [Noctalium](https://osu.ppy.sh/users/6488167), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Shyeart](https://osu.ppy.sh/users/2022144), ![][flag_FR] [Rougoku](https://osu.ppy.sh/users/6900166) |
-| ![](img/teams/futalovers.png) | Futa Lovers | ![][flag_BR] [BeyondArea](https://osu.ppy.sh/users/8642224), ![][flag_BR] [S a y u n](https://osu.ppy.sh/users/3770603), ![][flag_BR] [Endou-](https://osu.ppy.sh/users/10792711), ![][flag_BR] [Hanik](https://osu.ppy.sh/users/4533507) |
-| ![](img/teams/smukur.png) | Smukur es colombiano | ![][flag_CO] [Titan-](https://osu.ppy.sh/users/7855767), ![][flag_CO] [Zyonii](https://osu.ppy.sh/users/9519851), ![][flag_MX] [Cxlucha](https://osu.ppy.sh/users/5063961), ![][flag_PE] [-Boltic-](https://osu.ppy.sh/users/5297904) |
-| ![](img/teams/izayoi.png) | IZAYOI XXX is the captain | ![][flag_TW] [Timewasdeapsea](https://osu.ppy.sh/users/8682905), ![][flag_TW] [IZAYOI XXX](https://osu.ppy.sh/users/3538446), ![][flag_TW] [Psc_IceRain](https://osu.ppy.sh/users/3359485), ![][flag_TW] [qq11123334](https://osu.ppy.sh/users/11807319) |
-| ![](img/teams/qtdoku.png) | QT DOKU | ![][flag_JP] [LieLoom](https://osu.ppy.sh/users/4892798), ![][flag_HK] [Novoids](https://osu.ppy.sh/users/5163523), ![][flag_ID] [LeWind](https://osu.ppy.sh/users/9718235), ![][flag_RU] [Kitsunlvy](https://osu.ppy.sh/users/7055384) |
-| ![](img/teams/idk2.png) | idk lol | ![][flag_US] [Depths](https://osu.ppy.sh/users/3935174), ![][flag_HK] [AutoLs](https://osu.ppy.sh/users/9155988), ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637), ![][flag_US] [diao](https://osu.ppy.sh/users/500696) |
-| ![](img/teams/araganes.png) | Araganes | ![][flag_CO] [Deley-](https://osu.ppy.sh/users/8291465), ![][flag_CO] [Juansy-](https://osu.ppy.sh/users/12588215), ![][flag_VE] [Hisashi Shimoro](https://osu.ppy.sh/users/6736420) |
-| ![](img/teams/obama.png) | Obama's Bizarre adventures | ![][flag_PL] [AmaZ](https://osu.ppy.sh/users/6097002), ![][flag_PL] [Jakkubon](https://osu.ppy.sh/users/3396013), ![][flag_TW] [Sanami](https://osu.ppy.sh/users/1629471), ![][flag_FI] [forgottentaco](https://osu.ppy.sh/users/6109660) |
-| ![](img/teams/retired.png) | Retired players comeback | ![][flag_PL] [BoberOfDarkness](https://osu.ppy.sh/users/3427748), ![][flag_PL] [Kosmit](https://osu.ppy.sh/users/1749173), ![][flag_PL] [Krzysiek](https://osu.ppy.sh/users/294277), ![][flag_PL] [schizosvenia](https://osu.ppy.sh/users/4600126) |
+| ![](img/teams/acelga.png) | Acelga | ::{ flag=CL }:: [eldnl](https://osu.ppy.sh/users/285756), ::{ flag=CL }:: [Aryssiel](https://osu.ppy.sh/users/2389481), ::{ flag=CL }:: [NachoL](https://osu.ppy.sh/users/1250096) |
+| ![](img/teams/mybloodtrailsoplica.png) | My blood trail soplica | ::{ flag=PL }:: [Phob](https://osu.ppy.sh/users/6069462), ::{ flag=PL }:: [Mniam](https://osu.ppy.sh/users/6050530), ::{ flag=PL }:: [Verti](https://osu.ppy.sh/users/10674528) |
+| ![](img/teams/loschoripondios.png) | Los Choripondios | ::{ flag=CL }:: [alluya69](https://osu.ppy.sh/users/2212951), ::{ flag=CL }:: [-Kotaru-](https://osu.ppy.sh/users/9131357), ::{ flag=CL }:: [-Naroh](https://osu.ppy.sh/users/9087831) |
+| ![](img/teams/115.png) | 115 | ::{ flag=ES }:: [Dogma](https://osu.ppy.sh/users/4175333), ::{ flag=DE }:: [bro gamer NR1](https://osu.ppy.sh/users/9573527), ::{ flag=JP }:: [noob desu](https://osu.ppy.sh/users/4808804), ::{ flag=US }:: [ChewyTarTar](https://osu.ppy.sh/users/13978275/fruits) |
+| ![](img/teams/bjirrsquad.png) | Bjirr Squad | ::{ flag=ID }:: [Chiya--](https://osu.ppy.sh/users/7934854), ::{ flag=ID }:: [ZYX_GAME](https://osu.ppy.sh/users/3770612), ::{ flag=ID }:: [Zephirine](https://osu.ppy.sh/users/9629190) |
+| ![](img/teams/iaffi.png) | Iaffi | ::{ flag=CL }:: [Lyna Paulina](https://osu.ppy.sh/users/10434422), ::{ flag=HN }:: [- AnGel](https://osu.ppy.sh/users/12931440), ::{ flag=HN }:: [[-Cris-]](https://osu.ppy.sh/users/14599677) |
+| ![](img/teams/wwwww.png) | wwwww | ::{ flag=AR }:: [-Story-](https://osu.ppy.sh/users/8172283), ::{ flag=AU }:: [Beerus](https://osu.ppy.sh/users/5529199), ::{ flag=GB }:: [Matt_H](https://osu.ppy.sh/users/4067115) |
+| ![](img/teams/krns.png) | KNRS | ::{ flag=FR }:: [Noctalium](https://osu.ppy.sh/users/6488167), ::{ flag=FR }:: [Kasumii-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [Shyeart](https://osu.ppy.sh/users/2022144), ::{ flag=FR }:: [Rougoku](https://osu.ppy.sh/users/6900166) |
+| ![](img/teams/futalovers.png) | Futa Lovers | ::{ flag=BR }:: [BeyondArea](https://osu.ppy.sh/users/8642224), ::{ flag=BR }:: [S a y u n](https://osu.ppy.sh/users/3770603), ::{ flag=BR }:: [Endou-](https://osu.ppy.sh/users/10792711), ::{ flag=BR }:: [Hanik](https://osu.ppy.sh/users/4533507) |
+| ![](img/teams/smukur.png) | Smukur es colombiano | ::{ flag=CO }:: [Titan-](https://osu.ppy.sh/users/7855767), ::{ flag=CO }:: [Zyonii](https://osu.ppy.sh/users/9519851), ::{ flag=MX }:: [Cxlucha](https://osu.ppy.sh/users/5063961), ::{ flag=PE }:: [-Boltic-](https://osu.ppy.sh/users/5297904) |
+| ![](img/teams/izayoi.png) | IZAYOI XXX is the captain | ::{ flag=TW }:: [Timewasdeapsea](https://osu.ppy.sh/users/8682905), ::{ flag=TW }:: [IZAYOI XXX](https://osu.ppy.sh/users/3538446), ::{ flag=TW }:: [Psc_IceRain](https://osu.ppy.sh/users/3359485), ::{ flag=TW }:: [qq11123334](https://osu.ppy.sh/users/11807319) |
+| ![](img/teams/qtdoku.png) | QT DOKU | ::{ flag=JP }:: [LieLoom](https://osu.ppy.sh/users/4892798), ::{ flag=HK }:: [Novoids](https://osu.ppy.sh/users/5163523), ::{ flag=ID }:: [LeWind](https://osu.ppy.sh/users/9718235), ::{ flag=RU }:: [Kitsunlvy](https://osu.ppy.sh/users/7055384) |
+| ![](img/teams/idk2.png) | idk lol | ::{ flag=US }:: [Depths](https://osu.ppy.sh/users/3935174), ::{ flag=HK }:: [AutoLs](https://osu.ppy.sh/users/9155988), ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637), ::{ flag=US }:: [diao](https://osu.ppy.sh/users/500696) |
+| ![](img/teams/araganes.png) | Araganes | ::{ flag=CO }:: [Deley-](https://osu.ppy.sh/users/8291465), ::{ flag=CO }:: [Juansy-](https://osu.ppy.sh/users/12588215), ::{ flag=VE }:: [Hisashi Shimoro](https://osu.ppy.sh/users/6736420) |
+| ![](img/teams/obama.png) | Obama's Bizarre adventures | ::{ flag=PL }:: [AmaZ](https://osu.ppy.sh/users/6097002), ::{ flag=PL }:: [Jakkubon](https://osu.ppy.sh/users/3396013), ::{ flag=TW }:: [Sanami](https://osu.ppy.sh/users/1629471), ::{ flag=FI }:: [forgottentaco](https://osu.ppy.sh/users/6109660) |
+| ![](img/teams/retired.png) | Retired players comeback | ::{ flag=PL }:: [BoberOfDarkness](https://osu.ppy.sh/users/3427748), ::{ flag=PL }:: [Kosmit](https://osu.ppy.sh/users/1749173), ::{ flag=PL }:: [Krzysiek](https://osu.ppy.sh/users/294277), ::{ flag=PL }:: [schizosvenia](https://osu.ppy.sh/users/4600126) |
 
 ## Groups
 
@@ -90,87 +90,87 @@ The osu! Cup Master 3: osu!catch edition tournament is run by various osu! commu
 **[Download the mappack here! (106 MB)](https://mega.nz/#!rBgjCbTQ!w6slaPCtKT-LiGk7ggZwG11PFmVMAMCxl8o1Yi6Fc4w)**
 
 - NoMod
-  - [Camellia feat. Nanahira - Kansoku Eisei (jonathanlfj) \[Countless\]](https://osu.ppy.sh/beatmapsets/720294#fruits/1520788)
-  - [TOTTO - Onigami (-Ken) \[Overdose\]](https://osu.ppy.sh/beatmapsets/622069#fruits/1311499)
-  - [ilem - Hua Er Na Ji (F D Flourite) \[Overdose\]](https://osu.ppy.sh/beatmapsets/598869#fruits/1265840)
+  1. [Camellia feat. Nanahira - Kansoku Eisei (jonathanlfj) \[Countless\]](https://osu.ppy.sh/beatmapsets/720294#fruits/1520788)
+  2. [TOTTO - Onigami (-Ken) \[Overdose\]](https://osu.ppy.sh/beatmapsets/622069#fruits/1311499)
+  3. [ilem - Hua Er Na Ji (F D Flourite) \[Overdose\]](https://osu.ppy.sh/beatmapsets/598869#fruits/1265840)
 - Hidden
-  - [M2U - Marigold (feat. Guriri) (Hareimu) \[Deif's Overdose\]](https://osu.ppy.sh/beatmapsets/596327#fruits/1270304)
-  - [Sukuzyo - Black Lair (Pizza Kun) \[Fragmentation\]](https://osu.ppy.sh/beatmapsets/165616#fruits/402935)
-  - [Memme - Extreme Fantasy (AngelHoney) \[ExtrA\]](https://osu.ppy.sh/beatmapsets/49459#fruits/152480)
+  1. [M2U - Marigold (feat. Guriri) (Hareimu) \[Deif's Overdose\]](https://osu.ppy.sh/beatmapsets/596327#fruits/1270304)
+  2. [Sukuzyo - Black Lair (Pizza Kun) \[Fragmentation\]](https://osu.ppy.sh/beatmapsets/165616#fruits/402935)
+  3. [Memme - Extreme Fantasy (AngelHoney) \[ExtrA\]](https://osu.ppy.sh/beatmapsets/49459#fruits/152480)
 - HardRock
-  - [Tsukikage - Spatto! Spy & Spyce (TV Size) (Petal) \[Ren's Extra\]](https://osu.ppy.sh/beatmapsets/968574#fruits/2028583)
-  - [An - Encryption (HelloSCV) \[Spec's Overdose\]](https://osu.ppy.sh/beatmapsets/96368#fruits/290370)
-  - [bikuko - Crayon (Val0108) \[Crayon\]](https://osu.ppy.sh/beatmapsets/49455#fruits/155164)
+  1. [Tsukikage - Spatto! Spy & Spyce (TV Size) (Petal) \[Ren's Extra\]](https://osu.ppy.sh/beatmapsets/968574#fruits/2028583)
+  2. [An - Encryption (HelloSCV) \[Spec's Overdose\]](https://osu.ppy.sh/beatmapsets/96368#fruits/290370)
+  3. [bikuko - Crayon (Val0108) \[Crayon\]](https://osu.ppy.sh/beatmapsets/49455#fruits/155164)
 - DoubleTime
-  - [ChouCho - Million of Bravery (alienflybot) \[Triumph\]](https://osu.ppy.sh/beatmapsets/1041534#fruits/2176808)
-  - [Noisestorm - Solar (Shiirn) \[Another\]](https://osu.ppy.sh/beatmapsets/33483#fruits/109163)
-  - [Goose house - 18sai (mingmichael) \[Rain\]](https://osu.ppy.sh/beatmapsets/242856#fruits/560408)
+  1. [ChouCho - Million of Bravery (alienflybot) \[Triumph\]](https://osu.ppy.sh/beatmapsets/1041534#fruits/2176808)
+  2. [Noisestorm - Solar (Shiirn) \[Another\]](https://osu.ppy.sh/beatmapsets/33483#fruits/109163)
+  3. [Goose house - 18sai (mingmichael) \[Rain\]](https://osu.ppy.sh/beatmapsets/242856#fruits/560408)
 - Flashlight
-  - [Machigerita - Fushigi Omocha Gangaradindon (secretgamer) \[Insane\]](https://osu.ppy.sh/beatmapsets/85130#fruits/234105)
-  - [M2U - The Prince of Darkness (TKiller) \[Club Mix\]](https://osu.ppy.sh/beatmapsets/12974#fruits/48589)
+  1. [Machigerita - Fushigi Omocha Gangaradindon (secretgamer) \[Insane\]](https://osu.ppy.sh/beatmapsets/85130#fruits/234105)
+  2. [M2U - The Prince of Darkness (TKiller) \[Club Mix\]](https://osu.ppy.sh/beatmapsets/12974#fruits/48589)
 - DTB
-  - [ayaponzu* - Super Nuko ni Naritai (Jarvis Gaming) \[Dodge The Beat (Use NF)\]](https://osu.ppy.sh/beatmapsets/998732#fruits/2088909)
-  - [Kobaryo - Tool-Assisted Speedcore (TQBF Frame Advance RMX) (Mismagius) \[Delete The World\]](https://osu.ppy.sh/beatmapsets/782508#fruits/1643106)
+  1. [ayaponzu* - Super Nuko ni Naritai (Jarvis Gaming) \[Dodge The Beat (Use NF)\]](https://osu.ppy.sh/beatmapsets/998732#fruits/2088909)
+  2. [Kobaryo - Tool-Assisted Speedcore (TQBF Frame Advance RMX) (Mismagius) \[Delete The World\]](https://osu.ppy.sh/beatmapsets/782508#fruits/1643106)
 - Tiebreaker
-  - **[Camellia - Exit This Earth's Atomosphere (DamnEasy) \[Interspace\]](https://osu.ppy.sh/beatmapsets/866320#fruits/1811280)**
+  1. **[Camellia - Exit This Earth's Atomosphere (DamnEasy) \[Interspace\]](https://osu.ppy.sh/beatmapsets/866320#fruits/1811280)**
 
 ### Quarterfinals
 
 **[Download the mappack here! (120 MB)](https://mega.nz/#!HNZVQIoZ!5iPK6FObu9KaM0XA_EUn-y_nKOz2WTITCk1h-olbvYg)**
 
 - NoMod
-  - [P*light - Ninja (Kyubey) \[Elvis's Donatello\]](https://osu.ppy.sh/beatmapsets/195307#fruits/548376)
-  - [Hyun - Infinity Heaven (Jemzuu) \[Aeternum\]](https://osu.ppy.sh/beatmapsets/1074464#fruits/2248527)
-  - [DJ Nagai feat. A*ru - Benibotan (yf_bmp) \[Another\]](https://osu.ppy.sh/beatmapsets/548679#fruits/1161900)
+  1. [P*light - Ninja (Kyubey) \[Elvis's Donatello\]](https://osu.ppy.sh/beatmapsets/195307#fruits/548376)
+  2. [Hyun - Infinity Heaven (Jemzuu) \[Aeternum\]](https://osu.ppy.sh/beatmapsets/1074464#fruits/2248527)
+  3. [DJ Nagai feat. A*ru - Benibotan (yf_bmp) \[Another\]](https://osu.ppy.sh/beatmapsets/548679#fruits/1161900)
 - Hidden
-  - [Cranky - Lebera me (eiri-) \[IOException's Insane\]](https://osu.ppy.sh/beatmapsets/757813#fruits/1596819)
-  - [556t - Kyuuen no Hana (Kyubey) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/484497#fruits/1033514)
-  - [Akaki Chikai - Smile Skill = Suki Skill (TV Size) (Greaper) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1070009#fruits/2239770)
+  1. [Cranky - Lebera me (eiri-) \[IOException's Insane\]](https://osu.ppy.sh/beatmapsets/757813#fruits/1596819)
+  2. [556t - Kyuuen no Hana (Kyubey) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/484497#fruits/1033514)
+  3. [Akaki Chikai - Smile Skill = Suki Skill (TV Size) (Greaper) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1070009#fruits/2239770)
 - HardRock
-  - [Ogura Yui & Tamiyasu Tomoe - LOVE LOVE WARS (Gamu) \[Insane\]](https://osu.ppy.sh/beatmapsets/154915#fruits/380234)
-  - [Tomohito Nishiura - Moonlight Tango (JBHyperion) \[Rain\]](https://osu.ppy.sh/beatmapsets/536001#fruits/1135248)
-  - [04 Limited Sazabys - Squall (Gillstar) \[Loreley's Another\]](https://osu.ppy.sh/beatmapsets/1029349#fruits/2165315)
+  1. [Ogura Yui & Tamiyasu Tomoe - LOVE LOVE WARS (Gamu) \[Insane\]](https://osu.ppy.sh/beatmapsets/154915#fruits/380234)
+  2. [Tomohito Nishiura - Moonlight Tango (JBHyperion) \[Rain\]](https://osu.ppy.sh/beatmapsets/536001#fruits/1135248)
+  3. [04 Limited Sazabys - Squall (Gillstar) \[Loreley's Another\]](https://osu.ppy.sh/beatmapsets/1029349#fruits/2165315)
 - DoubleTime
-  - [-45 - Midorigo Queen Bee (Luscent) \[Collapse\]](https://osu.ppy.sh/beatmapsets/1055780#fruits/2206544)
-  - [Akatsuki records - Futari de Aruita Kaerimichi (Zelq) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/1077072#fruits/2253900)
-  - [Itou Kanako - Skyclad no Kansokusha -Remix- (Takos) \[Taka\]](https://osu.ppy.sh/beatmapsets/33323#fruits/110628)
+  1. [-45 - Midorigo Queen Bee (Luscent) \[Collapse\]](https://osu.ppy.sh/beatmapsets/1055780#fruits/2206544)
+  2. [Akatsuki records - Futari de Aruita Kaerimichi (Zelq) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/1077072#fruits/2253900)
+  3. [Itou Kanako - Skyclad no Kansokusha -Remix- (Takos) \[Taka\]](https://osu.ppy.sh/beatmapsets/33323#fruits/110628)
 - Flashlight
-  - [Kanawo - Kohaku no Yume (Surano) \[Volta's Platter\]](https://osu.ppy.sh/beatmapsets/411705#fruits/1296545)
-  - [Zun - Necrofantasia (Fight69) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/15812#fruits/70226)
+  1. [Kanawo - Kohaku no Yume (Surano) \[Volta's Platter\]](https://osu.ppy.sh/beatmapsets/411705#fruits/1296545)
+  2. [Zun - Necrofantasia (Fight69) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/15812#fruits/70226)
 - DTB
-  - [DJ Noriken - Stargazer feat. YUC'e (PSYQUI Remix) (Hishiro Chizuru) \[Starg-Azer isn't so great? Are you kidding me?\]](https://osu.ppy.sh/beatmapsets/718960#fruits/1522511)
-  - [Royal Republic - Getting Along (Jarvis Gaming) \[Dodge The Beat (Use NF)\]](https://osu.ppy.sh/beatmapsets/993372#fruits/2077276)
+  1. [DJ Noriken - Stargazer feat. YUC'e (PSYQUI Remix) (Hishiro Chizuru) \[Starg-Azer isn't so great? Are you kidding me?\]](https://osu.ppy.sh/beatmapsets/718960#fruits/1522511)
+  2. [Royal Republic - Getting Along (Jarvis Gaming) \[Dodge The Beat (Use NF)\]](https://osu.ppy.sh/beatmapsets/993372#fruits/2077276)
 - Tiebreaker
-  - **[Nekomata Gekidan - Envidia (-Ken) \[Envy\]](https://osu.ppy.sh/beatmapsets/883114#fruits/1846202)**
+  1. **[Nekomata Gekidan - Envidia (-Ken) \[Envy\]](https://osu.ppy.sh/beatmapsets/883114#fruits/1846202)**
 
 ### Group stage
 
 **[Download the mappack here! (136 MB)](https://mega.nz/#!bJADnIbL!QuXa-kSOKKIxCC8LcQNxOa5rEtGv4Fm8GvD1WqkISWo)**
 
 - NoMod
-  - [Scop - Keppekishou (tutuhaha) \[Dance\]](https://osu.ppy.sh/beatmapsets/70115#fruits/201731)
-  - [Blue Stahli & Nyzzy Nyce - Run The Track (Sinnoh) \[Rain\]](https://osu.ppy.sh/beatmapsets/1071229#fruits/2242235)
-  - [Duck Duck Pony - Shinsetsu (wonjae) \[wonjac's overdose\]](https://osu.ppy.sh/beatmapsets/951270#fruits/1987735)
+  1. [Scop - Keppekishou (tutuhaha) \[Dance\]](https://osu.ppy.sh/beatmapsets/70115#fruits/201731)
+  2. [Blue Stahli & Nyzzy Nyce - Run The Track (Sinnoh) \[Rain\]](https://osu.ppy.sh/beatmapsets/1071229#fruits/2242235)
+  3. [Duck Duck Pony - Shinsetsu (wonjae) \[wonjac's overdose\]](https://osu.ppy.sh/beatmapsets/951270#fruits/1987735)
 - Hidden
-  - [Katakiri Rekka - Answer (Jenny) \[Rejection\]](https://osu.ppy.sh/beatmapsets/51947#fruits/159007)
-  - [Krewella & Nucleya - Good On You (Mao) \[Expert\]](https://osu.ppy.sh/beatmapsets/1082851#fruits/2264994)
-  - [Ryu* vs. Sota - Go Beyond!! (Anto) \[Nuvolina's Expert\]](https://osu.ppy.sh/beatmapsets/934522#fruits/2023961)
+  1. [Katakiri Rekka - Answer (Jenny) \[Rejection\]](https://osu.ppy.sh/beatmapsets/51947#fruits/159007)
+  2. [Krewella & Nucleya - Good On You (Mao) \[Expert\]](https://osu.ppy.sh/beatmapsets/1082851#fruits/2264994)
+  3. [Ryu* vs. Sota - Go Beyond!! (Anto) \[Nuvolina's Expert\]](https://osu.ppy.sh/beatmapsets/934522#fruits/2023961)
 - HardRock
-  - [RURUTIA - Phronesis (-Luminate) \[Platter\]](https://osu.ppy.sh/beatmapsets/965320#fruits/2022514)
-  - [fourfolium - Hosshii no! (Kisses) \[117's hard\]](https://osu.ppy.sh/beatmapsets/586877#fruits/1485741)
-  - [guna with team kyukkyu - subconsciousness (Snow Note) \[Hyper\]](https://osu.ppy.sh/beatmapsets/151945#fruits/445207)
+  1. [RURUTIA - Phronesis (-Luminate) \[Platter\]](https://osu.ppy.sh/beatmapsets/965320#fruits/2022514)
+  2. [fourfolium - Hosshii no! (Kisses) \[117's hard\]](https://osu.ppy.sh/beatmapsets/586877#fruits/1485741)
+  3. [guna with team kyukkyu - subconsciousness (Snow Note) \[Hyper\]](https://osu.ppy.sh/beatmapsets/151945#fruits/445207)
 - DoubleTime
-  - [Yellow Zebra - Melody! (wcx19911123) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/45450#fruits/142099)
-  - [HyuN feat. Aerial - Exodus (Niva) \[Insane\]](https://osu.ppy.sh/beatmapsets/1069611#fruits/2239032)
-  - [yanaginagi - Over and over (TV Size) (Jemzuu) \[Platter\]](https://osu.ppy.sh/beatmapsets/698454#fruits/2228142)
+  1. [Yellow Zebra - Melody! (wcx19911123) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/45450#fruits/142099)
+  2. [HyuN feat. Aerial - Exodus (Niva) \[Insane\]](https://osu.ppy.sh/beatmapsets/1069611#fruits/2239032)
+  3. [yanaginagi - Over and over (TV Size) (Jemzuu) \[Platter\]](https://osu.ppy.sh/beatmapsets/698454#fruits/2228142)
 - Flashlight
-  - [44teru-k - Yami ~ Shoujo no Yume , Kyomu no Sekai \~ (AngelHoney) \[Insane\]](https://osu.ppy.sh/beatmapsets/17827#fruits/63435)
-  - [Arm Cannon - Borrow mega nuke (eureka borg worm) (awp) \[Exeter Modem\]](https://osu.ppy.sh/beatmapsets/5317#fruits/26372)
+  1. [44teru-k - Yami ~ Shoujo no Yume , Kyomu no Sekai \~ (AngelHoney) \[Insane\]](https://osu.ppy.sh/beatmapsets/17827#fruits/63435)
+  2. [Arm Cannon - Borrow mega nuke (eureka borg worm) (awp) \[Exeter Modem\]](https://osu.ppy.sh/beatmapsets/5317#fruits/26372)
 - DTB
-  - [Sakurano Omura (CV: Emiri Kato) - Kirai ippai x Suki ippai (Reanter) \[OPPAI DAME!!!\]](https://osu.ppy.sh/beatmapsets/368991#fruits/808856)
-  - [ETIA. - Knock it Off (Maddy) \[Hyper\]](https://osu.ppy.sh/beatmapsets/89582#fruits/247033)
+  1. [Sakurano Omura (CV: Emiri Kato) - Kirai ippai x Suki ippai (Reanter) \[OPPAI DAME!!!\]](https://osu.ppy.sh/beatmapsets/368991#fruits/808856)
+  2. [ETIA. - Knock it Off (Maddy) \[Hyper\]](https://osu.ppy.sh/beatmapsets/89582#fruits/247033)
 - Tiebreaker
-  - **[Underveil allstars - Underveil is real!!!.. and we are under.. (Chara) \[\*Together as one, we stay determined!\]](https://osu.ppy.sh/beatmapsets/636920#fruits/1351241)**
+  1. **[Underveil allstars - Underveil is real!!!.. and we are under.. (Chara) \[\*Together as one, we stay determined!\]](https://osu.ppy.sh/beatmapsets/636920#fruits/1351241)**
 
 ## Match results
 
@@ -298,28 +298,3 @@ Sunday, 16 February 2020:
 - In Group Stage, you need to win 5 maps to win a match. (Best-of-9)
 - In the Quarterfinals and the Semifinals, you need to win 6 maps to win a match. (Best-of-11)
 - In the Finals and Grand Finals, you need to win 7 maps to win the match. (Best-of-13)
-
-[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_CO]: /wiki/shared/flag/CO.gif "Colombia"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_HN]: /wiki/shared/flag/HN.gif "Honduras"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
-[flag_LU]: /wiki/shared/flag/LU.gif "Luxembourg"
-[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
-[flag_PA]: /wiki/shared/flag/PA.gif "Panama"
-[flag_PE]: /wiki/shared/flag/PE.gif "Peru"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
-[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
-[flag_UY]: /wiki/shared/flag/UY.gif "Uruguay"
-[flag_VE]: /wiki/shared/flag/VE.gif "Venezuela"

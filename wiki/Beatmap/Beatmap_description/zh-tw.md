@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated_translation: true
 outdated_since: c08929c17cf02a4642967c8acebddd893f775be9
 ---
 
@@ -20,7 +20,7 @@ outdated_since: c08929c17cf02a4642967c8acebddd893f775be9
 
 ### 圖片
 
-許多圖譜說明至少都包含一張圖片 (通常為 [GIF](https://zh.wikipedia.org/wiki/GIF) 或相似的格式)，以明顯的方式表示及說明製譜者、歌曲和/或圖譜。若要學習如何使用 BBCode 加入圖片，請見[此頁面](/wiki/BBCode#image)。
+許多圖譜說明至少都包含一張圖片 (通常為 [GIF](https://zh.wikipedia.org/wiki/GIF) 或相似的格式)，以明顯的方式表示及說明製譜者、歌曲和/或圖譜。若要學習如何使用 BBCode 加入圖片，請見[此頁面](/wiki/BBCode#images)。
 
 ### 難度列表
 

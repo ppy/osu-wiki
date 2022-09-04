@@ -6,7 +6,7 @@ List of guides and important threads, created by the community.
 
 - [Cropping with Complex Backgrounds](/wiki/Guides/Cropping_with_Complex_Backgrounds)
 - [Cropping with Simple Backgrounds](/wiki/Guides/Cropping_with_Simple_Backgrounds)
-- [Making Properly Centered Spinners](/wiki/Guides/Making_Properly_Centered_Spinners)
+- [Making Properly Centred Spinners](/wiki/Guides/Making_Properly_Centred_Spinners)
 - [How to adjust the skin.ini file](https://osu.ppy.sh/community/forums/topics/575880) by [Lyawi](https://osu.ppy.sh/users/5851253)
 - [New Skinning Tutorial](https://tutorial.skinship.xyz/tutorial/introduction) by [RockRoller](https://osu.ppy.sh/users/8388854)
 - [skinship Skinning Guides](https://tutorial.skinship.xyz/guides) by [RockRoller](https://osu.ppy.sh/users/8388854)

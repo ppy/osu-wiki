@@ -1,15 +1,10 @@
----
-outdated: true
-outdated_since: 8043b3a603ef5a8bb7ab9f982fceed3825cb249f
----
-
-# EZ
+# EZ (Begriffsabgrenzung)
 
 **EZ** kann Folgendes bedeuten:
 
-- Der [Spielmodifikator](/wiki/Game_modifier/Easy).
+- Die [Spielmodifikation](/wiki/Game_modifier/Easy).
 - Die Schwierigkeit einer Beatmap:
-  - ![](/wiki/shared/diff/easy-m.png) EZ in osu!mania.
-  - ![](/wiki/shared/diff/easy-o.png) Easy in osu!.
-  - ![](/wiki/shared/diff/easy-t.png) Kantan in osu!taiko.
-  - ![](/wiki/shared/diff/easy-c.png) Cup in osu!catch.
+  - ![](/wiki/shared/diff/easy-m.png?20211215) EZ in osu!mania.
+  - ![](/wiki/shared/diff/easy-o.png?20211215) Easy in osu!.
+  - ![](/wiki/shared/diff/easy-t.png?20211215) Kantan in osu!taiko.
+  - ![](/wiki/shared/diff/easy-c.png?20211215) Cup in osu!catch.

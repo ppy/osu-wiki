@@ -14,13 +14,13 @@ tags:
   - Ouendan
 ---
 
-# Gim dari iNiS
+# Permainan-permainan iNiS
 
 *Lihat juga: [osu! (disambiguasi)](/wiki/Disambiguation/osu!)*
 
-[Jenis permainan](/wiki/Game_mode) [osu!](/wiki/Game_mode/osu!) dan bahkan osu! sendiri berdasar pada gim ritme yang dikembangkan oleh **[iNiS](https://en.wikipedia.org/wiki/INiS)** untuk [Nintendo DS](https://id.wikipedia.org/wiki/Nintendo_DS) pada awal tahun 2000-an. ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) mengembangkan osu! untuk menjadi simulator dan editor level untuk gim - gim yang dikembangkan oleh iNiS, dan perlu diketahui anggota komunitas osu! paling awal saat itu pada umumnya juga merupakan penggemar gim tersebut. [Beatmap](/wiki/Beatmap) yang dibuat pada masa itu sangat dipengaruhi oleh desain level yang dibuat oleh iNiS.
+Nama "osu!" serta [mode permainan osu! itu sendiri](/wiki/Game_mode) berasal dari rangkaian *rhythm game* yang dikembangkan oleh **[iNiS](https://en.wikipedia.org/wiki/INiS)** untuk [Nintendo DS](https://id.wikipedia.org/wiki/Nintendo_DS) pada awal tahun 2000-an. Pada awal berdirinya osu!, ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) mengembangkan osu! sebagai suatu simulator dan editor level untuk permainan-permainan iNiS. Berhubung para anggota komunitas osu! di kala itu pada umumnya juga merupakan penggemar permainan-permainan yang sama, desain [beatmap-beatmap](/wiki/Beatmap) yang ada pada saat itu juga sangat dipengaruhi oleh level-level yang dibuat oleh iNiS.
 
-Gim yang dimaksud adalah:
+Permainan-permainan iNis ini antara lain meliputi:
 
 - [Osu! Tatakae! Ouendan!](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan) (*Ouendan*)
 - [Elite Beat Agents](#elite-beat-agents) (*EBA*)
@@ -30,6 +30,4 @@ Gim yang dimaksud adalah:
 
 ![](img/Elite-Beat-Agents.jpg "Desain kemasan untuk Elite Beat Agents")
 
-***[Elite Beat Agents](https://en.wikipedia.org/wiki/Elite_Beat_Agents)*** adalah sekuel versi barat untuk **Osu! Tatakae! Ouendan!** yang dirilis pada tahun 2006. Beberapa karakternya hadir sebagai maskot di gim osu! berupa desain grafis dan juga skin resmi yang dipakai di osu!.
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+***[Elite Beat Agents](https://en.wikipedia.org/wiki/Elite_Beat_Agents)*** merupakan sekuel dari **Osu! Tatakae! Ouendan!** yang dirilis pada tahun 2006 untuk pasar internasional. Beberapa karakter dari permainan ini pernah diangkat menjadi maskot-maskot resmi osu!, yang kenampakannya dapat dilihat pada elemen-elemen UI serta skin *default* yang digunakan pada masanya dahulu.

@@ -4,7 +4,7 @@
 
 ![Gameplay of osu!mania](/wiki/shared/mania-gameplay.jpg "osu!mania Interface")
 
-The mode has been widely used in almost all of the major rhythm games. It require good hand and/or leg coordination where the notes (with their quantity depending on BPM and difficulty) move on a conveyer. The player will have to press the correct key for that specific note in time. Though the game mode was originally made as an imitation of the *Beatmania* style of playing, osu!mania allows changing the number of keys or vertically flipping the orientation of the playfield (this means that it can be made to look more like *Guitar Hero* \[5 keys\] or *Dance Dance Revolution* \[4 keys\] and so on).
+The mode has been widely used in almost all of the major rhythm games. It require good hand and/or leg coordination where the notes (with their quantity depending on BPM and difficulty) move on a conveyor. The player will have to press the correct key for that specific note in time. Though the game mode was originally made as an imitation of the *Beatmania* style of playing, osu!mania allows changing the number of keys or vertically flipping the orientation of the playfield (this means that it can be made to look more like *Guitar Hero* \[5 keys\] or *Dance Dance Revolution* \[4 keys\] and so on).
 
 It is somewhat similar to [osu!taiko](/wiki/Game_mode/osu!taiko), but with more buttons notes moving vertically rather than moving horizontally.
 
@@ -82,7 +82,7 @@ Health bar regeneration occurs slowly while holding the hold note(s). Depending 
 
 ## Play Styles
 
-*Refer to [Play Styles page under osu!mania](/wiki/Play_Styles#osu-mania).*
+*Refer to [Play Styles page under osu!mania](/wiki/Play_style#osu!mania).*
 
 ## Controls
 
@@ -100,7 +100,7 @@ The current default key settings is based on *Symmetrical* style.
 
 There *used to be* two different binding-styles, *Symmetrical* and *Left to Right*:
 
-- *Symmetrical* style mimics the button placement of *DJMAX*, in which the center key is `Spacebar` to simulate a feeling of stepping the pedal similar to the arcade version. Centre key matches the middle column (odd numbered keys only) and the other column matches the keys in its corresponding place.
+- *Symmetrical* style mimics the button placement of *DJMAX*, in which the centre key is `Spacebar` to simulate a feeling of stepping the pedal similar to the arcade version. Centre key matches the middle column (odd numbered keys only) and the other column matches the keys in its corresponding place.
 - *Left to Right* style mimics the button placement of *Beatmania IIDX*, where the first column matches to the *key1*, then the second column matches the *key2* and so on.
   - However, the option to pick had been removed and the current style is based on "Symmetrical" style. For legacy reason, "Left to Right" style is kept here.
 
@@ -186,133 +186,17 @@ The **[05 March 2015 (2015-03-05) update](https://osu.ppy.sh/home/changelog)** g
 
 ## Scoring
 
-*Scoring Values can be found in [Score under osu!mania Scoring Values section](/wiki/Score#osu-mania).*
+[Score in osu!mania](/wiki/Gameplay/Score/osu!mania) is capped at 1 million and consists of two parts, each contributing 50% of the total score:
 
-Scoring section details all the intricacies of scoring, including mathematical formula.
+1. Base score, which is [judgement](/wiki/Gameplay/Judgement/osu!mania)-centred. Judgement determines a hit object's base scoring value (MAX, 300, 200, 100, 50, or 0 in case of a miss).
+2. Bonus score, which is based on judgement and a floating bonus multiplier, which increases when getting a MAX or a 300, and decreases with a 200 or below.
 
-### Grades
+In addition, score also has the following components:
 
-| Grade | Condition |
-| :-: | :-- |
-| SS | 100% Accuracy (only MAX and/or 300). |
-| S | Over 95% Accuracy (an 'S' rank is possible even with several misses, like in *osu!catch*). |
-| A | Over 90% Accuracy. |
-| B | Over 80% Accuracy. |
-| C | Over 70% Accuracy. |
-| D | Anything else. |
+- [Accuracy](/wiki/Gameplay/Accuracy#osu!mania) depends on judgement and shows how precise hits are. Late or early key presses, as well as misses, decrease overall accuracy.
+- [Combo](/wiki/Gameplay/Combo_(score_multiplier)) shows how many objects were hit in a row. It has no effect on total score and may be [broken](/wiki/Gameplay/Judgement/Combobreak) by a miss.
 
-It is possible to obtain SSH or SH ranks (silver S or SS) with [Hidden](/wiki/Game_modifier/Hidden)/[Fade In](/wiki/Game_modifier/Fade_In) or [Flashlight](/wiki/Game_modifier/Flashlight) mod.
-
-### Accuracy
-
-Accuracy is calculated similarly to [osu!](/wiki/Game_mode/osu!) in this mode.
-
-In other words: `Accuracy = Total points of hits / (Total number of hits * 300)`
-
-| Term | Formula |
-| :-: | :-- |
-| **Total points of hits** | `(Number of 50s * 50 + Number of 100s * 100 + Number of 200s * 200 + Number of 300s * 300 + Number of rainbow 300s * 300)` |
-| **Total number of hits** | `(Number of misses + Number of 50s + Number of 100s + Number of 200s + Number of 300s + Number of rainbow 300s)` |
-
-Note that MAX (or rainbow 300) and 300 are both worth the maximum for calculating accuracy, despite a MAX being worth more in terms of score than a 300.
-
-### Score
-
-Each beatmap has the same maximum total score of 1 million (1,000,000).
-
-The score is given in two parts, base score and bonus score, each contributing 50% of total score.
-
-- Base score is based on hit judgement.
-  - A rainbow 300 is worth a bit more than 300.
-- Bonus score is based on hit judgement and a floating bonus multiplier.
-  - The multiplier increases with a rainbow 300 or 300, while it decreases with a 200 or below.
-  - The better judgement, the more multiplier increase/less punishment.
-    - There's an upper limit for the multiplier.
-
-The score given by each note is calculated with the following formula:
-
-```
-Score = BaseScore + BonusScore
-
-BaseScore = (MaxScore * ModMultiplier * 0.5 / TotalNotes) * (HitValue / 320)
-
-BonusScore = (MaxScore * ModMultiplier * 0.5 / TotalNotes) * (HitBonusValue * Sqrt(Bonus) / 320)
-Bonus = Bonus before this hit + HitBonus - HitPunishment / ModDivider
-Bonus is limited to [0, 100], initially 100.
-
-MaxScore = 1 000 000
-ModMultiplier = The score multiplier of the selected mods (difficulty reduction and/or nK)
-ModDivider = The punishment divider of the selected mods (difficulty increase)
-
-Judgement  HitValue  HitBonusValue  HitBonus  HitPunishment
-   MAX       320          32            2
-   300       300          32            1
-   200       200          16                        8
-   100       100           8                       24
-    50        50           4                       44
-  Miss         0           0                        ∞
-
-       Mod  ModMultiplier  ModDivider
-      Easy       0.5
-    NoFail       0.5
-  HalfTime       0.5
-  HardRock                    1.08
-DoubleTime                     1.1
- NightCore                     1.1
-    FadeIn                    1.06
-    Hidden                    1.06
-Flashlight                    1.06
-```
-
-### Hit objects judgement
-
-**Notes:**
-
-- MAX (rainbow 300), 300, 200, 100 or 50 from a note depending on timing of hit.
-- A Miss given when missing a note or hit it way too early.
-
-**Hold notes:**
-
-- The judgement for hold notes depends on both starting hold and ending release points.
-- Keep holding till end of note, with initial and final with perfect timing: MAX
-- Keep holding till end of note, without releasing the note: 200
-- Do a *NG* and not recover the hold note: Miss
-- Do a *NG* and even hold back the note: 50
-
-NG: *Not Good*, a term in *StepMania/DDR*, which happens when the hold note was released during hold timing.
-
-### Score/Combo Multiplier
-
-**The following each add a point to the score/combo multiplier:**
-
-- Completing the note with correct key.
-- Holding the hold note with correct key.
-
-**The following will reset the score multiplier to zero:**
-
-- Not completing the note.
-- Releasing the hold note during the hold period.
-
-**The following will not increase or reset the score multiplier:**
-
-- Releasing the hold note on the ending note of the hold.
-
-## Health bar
-
-The system used to calculate health gain is complicated so it will not be explained in detail. It all revolves around the HP difficulty setting which can only be set by the mapper itself.
-
-**The following will result in health recovery:**
-
-- Getting Rainbow 300, 300, or 200.
-- Holding the hold note with correct key.
-
-**The following will result in health loss:**
-
-- Getting 50 or Miss.
-
-**The following will reserve health in the health bar:**
-
-- None.
+After completing a beatmap, the score is assigned a [grade](/wiki/Gameplay/Grade#osu!mania), a short accuracy assessment in form of a single letter. A golden or silver SS denotes 100% accuracy.
 
 ## Skinning
 
@@ -340,7 +224,7 @@ Enable the `Co-op mode` button to force *Co-Op* game modifier when played, with 
   - For example, for a 4K beatmap, using 2K and Co-Op modifier will not incur any score reduction.
   - Respectively, for a 5K beatmap, using 5K modifier will also not incur any score reduction.
   - Using xK or Co-Op modifier on osu!mania-specific beatmap will not incur any score reduction, too.
-- Mascots for osu!mania are [Mani & Mari](/wiki/Mascots#-mani-&-mari).
+- Mascots for osu!mania are [Mani & Mari](/wiki/Mascots#mani-&-mari).
 - When played by [Auto](/wiki/Game_modifier/Auto), the player name will be *osu!topus*.
 
 ### History

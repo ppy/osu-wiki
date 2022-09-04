@@ -10,7 +10,7 @@ There's a ton of new beatmaps, completed quests, and medals from the Mappers' Gu
 
 Since the [previous update](https://osu.ppy.sh/home/news/2019-11-29-featured-artist-beatmap-updates-from-the-mappers-guild) a lot has been happening in the guild, with over **20** quests completed, over **100** beatmaps ranked, and **16** new medals for you to earn, all tied to the rapidly growing Featured Artist library!
 
-For those who don't know yet, the Mappers' Guild is a way for mappers with three or more ranked beatmaps to earn rewards for creating beatmaps of songs from the Featured Artist library. If you're interested in the guild, be sure to look at the [Mappers' Guild wiki page](/wiki/Mappers_Guild) for more information.
+For those who don't know yet, the Mappers' Guild is a way for mappers with three or more ranked beatmaps to earn rewards for creating beatmaps of songs from the Featured Artist library. If you're interested in the guild, be sure to look at the [Mappers' Guild wiki page](/wiki/Community/Mappers_Guild) for more information.
 
 Today we'll be going over Mappers' Guild development, finished quests, featured artist beatmap pack and medal updates, and a list of all ranked featured artist beatmaps since our last news post in late November. Now let's start going through all the changes since last update!
 

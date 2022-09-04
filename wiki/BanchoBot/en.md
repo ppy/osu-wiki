@@ -7,7 +7,7 @@ tags:
 ---
 
 <!--TODO:
-- add section that lists and explains all the game-related announcments -->
+- add section that lists and explains all the game-related announcements -->
 
 # BanchoBot
 
@@ -15,13 +15,13 @@ tags:
 
 ![BanchoBot's user card](img/BanchoBot.jpg "BanchoBot's user card")
 
-**BanchoBot** (sometimes referred to as *Bancho*) is an online chat bot made for osu! that assists people in the in-game chat by announcing game-related messages (e.g. total plays, retries, etc.), and responding to certain commands. It was programmed by [Echo](https://osu.ppy.sh/users/431) and is the provider of the [Bancho IRC](/wiki/Internet_Relay_Chat) (Internet Relay Chat).
+**BanchoBot** (sometimes referred to as *Bancho*) is an online chat bot made for osu! that assists people in the in-game chat by announcing game-related messages (e.g. total plays, retries, etc.), and responding to certain commands. It was programmed by [Echo](https://osu.ppy.sh/users/431) and is the provider of the [Bancho IRC](/wiki/Community/Internet_Relay_Chat) (Internet Relay Chat).
 
 BanchoBot also has its own [osu! profile](https://osu.ppy.sh/users/3) and [Twitter account](https://twitter.com/banchoboat).
 
 ## Commands
 
-*For a list of in-game client commands, see: [Chat Console](/wiki/Chat_Console#commands-list)*
+*For a list of in-game client commands, see: [Chat Console](/wiki/Client/Interface/Chat_console#commands-list)*
 
 BanchoBot can respond to player commands through specific typed messages in chat. All BanchoBot commands start with an exclamation mark (`!`) followed by the case-insensitive name of the command (with no space between). These commands can be used in chat channels and through private messages with BanchoBot.
 
@@ -83,7 +83,7 @@ A list of all BanchoBot commands can be found below:
 !stats <username>
 ```
 
-`!stats` displays the entered user's game statistics and their current status. The output depends on the [game mode](/wiki/Game_Modes) that the entered user last played, although BanchoBot will not display which game mode the stats came from. If asked to display stats from a user that has never played osu!, BanchoBot will respond with `User not found`, even if the user does exist. An example of sending this command is shown below:
+`!stats` displays the entered user's game statistics and their current status. The output depends on the [game mode](/wiki/Game_mode) that the entered user last played, although BanchoBot will not display which game mode the stats came from. If asked to display stats from a user that has never played osu!, BanchoBot will respond with `User not found`, even if the user does exist. An example of sending this command is shown below:
 
 ```
 13:01 pippi: !stats peppy
@@ -126,7 +126,7 @@ There is a total of 7 statuses which can be displayed by the `!stats` command: E
 !faq list
 ```
 
-`!faq` shows the contents of an entry. Alternatively, the `list` argument can be used to show all available entries. By default, BanchoBot will respond in English, but it is possible to recieve an answer in another language by prefixing the entry with said language's [two-letter code](/wiki/Article_styling_criteria/Formatting#locales). Examples of sending this command are shown below:
+`!faq` shows the contents of an entry. Alternatively, the `list` argument can be used to show all available entries. By default, BanchoBot will respond in English, but it is possible to receive an answer in another language by prefixing the entry with said language's [two-letter code](/wiki/Article_styling_criteria/Formatting#locales). Examples of sending this command are shown below:
 
 ```
 13:03 pippi: !faq peppy
@@ -140,13 +140,13 @@ There is a total of 7 statuses which can be displayed by the `!stats` command: E
 
 ### Report
 
-*For information about what is worth reporting, see [Reporting Bad Behaviour](/wiki/Reporting_Bad_Behaviour).*
+*For information about what is worth reporting, see [Reporting Bad Behaviour](/wiki/Reporting_bad_behaviour).*
 
 ```
 !report <user> <reason>
 ```
 
-`!report` notifies the [Global Moderation Team](/wiki/Global_Moderation_Team) about a user's inappropriate behaviour. If a user has spaces in their username, replace them with underscores (e.g. `really cool username` becomes `really_cool_username`). To report a moderator, contact the [account support team](/wiki/People/The_Team/Account_support_team#support@ppy.sh). An example of reporting a normal user through BanchoBot is shown below:
+`!report` notifies the [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) about a user's inappropriate behaviour. If a user has spaces in their username, replace them with underscores (e.g. `really cool username` becomes `really_cool_username`). To report a moderator, contact the [account support team](/wiki/People/The_Team/Account_support_team#support@ppy.sh). An example of reporting a normal user through BanchoBot is shown below:
 
 ```
 13:10 pippi: !report flyte spamming in #japanese

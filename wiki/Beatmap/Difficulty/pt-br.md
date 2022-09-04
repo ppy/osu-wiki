@@ -6,7 +6,7 @@ tags:
   - SR
   - star rating
   - stars
-outdated: true
+outdated_translation: true
 outdated_since: a1c56faa4ae6d2ba10579e0e2c9971b41fe4fa33
 ---
 
@@ -18,57 +18,57 @@ A **difficulty** de um beatmap descreve o nível de habilidade requirido para co
 
 ## Níveis de dificuldade
 
-*Veja também: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_Naming)*
+*Veja também: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_naming)*
 
 Esses são os típicos níveis de dificuldade que um beatmap pode ser categorizado. Definições específicas e requerimentos de cada podem ser respectivamente encontrados em sua [ranking criteria](/wiki/Ranking_Criteria) de cada modo.
 
 ### ![](/wiki/shared/mode/osu.png) osu!
 
-- ![](/wiki/shared/diff/easy-o.png) Easy
-- ![](/wiki/shared/diff/normal-o.png) Normal
-- ![](/wiki/shared/diff/hard-o.png) Hard
-- ![](/wiki/shared/diff/insane-o.png) Insane
-- ![](/wiki/shared/diff/expert-o.png) Expert
-- ![](/wiki/shared/diff/expertplus-o.png) Expert+
+- ![](/wiki/shared/diff/easy-o.png?20211215) Easy
+- ![](/wiki/shared/diff/normal-o.png?20211215) Normal
+- ![](/wiki/shared/diff/hard-o.png?20211215) Hard
+- ![](/wiki/shared/diff/insane-o.png?20211215) Insane
+- ![](/wiki/shared/diff/expert-o.png?20211215) Expert
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) Expert+
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
-- ![](/wiki/shared/diff/easy-t.png) Kantan
-- ![](/wiki/shared/diff/normal-t.png) Futsuu
-- ![](/wiki/shared/diff/hard-t.png) Muzukashii
-- ![](/wiki/shared/diff/insane-t.png) Oni
-- ![](/wiki/shared/diff/expert-t.png) Inner/Ura Oni
-- ![](/wiki/shared/diff/expertplus-t.png) Hell Oni
+- ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
+- ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu
+- ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii
+- ![](/wiki/shared/diff/insane-t.png?20211215) Oni
+- ![](/wiki/shared/diff/expert-t.png?20211215) Inner/Ura Oni
+- ![](/wiki/shared/diff/expertplus-t.png?20211215) Hell Oni
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
-- ![](/wiki/shared/diff/easy-c.png) Cup
-- ![](/wiki/shared/diff/normal-c.png) Salad
-- ![](/wiki/shared/diff/hard-c.png) Platter
-- ![](/wiki/shared/diff/insane-c.png) Rain
-- ![](/wiki/shared/diff/expert-c.png) Overdose
-- ![](/wiki/shared/diff/expertplus-c.png) Overdose+
+- ![](/wiki/shared/diff/easy-c.png?20211215) Cup
+- ![](/wiki/shared/diff/normal-c.png?20211215) Salad
+- ![](/wiki/shared/diff/hard-c.png?20211215) Platter
+- ![](/wiki/shared/diff/insane-c.png?20211215) Rain
+- ![](/wiki/shared/diff/expert-c.png?20211215) Overdose
+- ![](/wiki/shared/diff/expertplus-c.png?20211215) Overdose+
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 
-- ![](/wiki/shared/diff/easy-m.png) Easy
-- ![](/wiki/shared/diff/normal-m.png) Normal
-- ![](/wiki/shared/diff/hard-m.png) Hard
-- ![](/wiki/shared/diff/insane-m.png) Insane
-- ![](/wiki/shared/diff/expert-m.png) Expert
-- ![](/wiki/shared/diff/expertplus-m.png) Expert+
+- ![](/wiki/shared/diff/easy-m.png?20211215) Easy
+- ![](/wiki/shared/diff/normal-m.png?20211215) Normal
+- ![](/wiki/shared/diff/hard-m.png?20211215) Hard
+- ![](/wiki/shared/diff/insane-m.png?20211215) Insane
+- ![](/wiki/shared/diff/expert-m.png?20211215) Expert
+- ![](/wiki/shared/diff/expertplus-m.png?20211215) Expert+
 
 ## Star rating
 
-![Variações da classificação de estrelas](img/SR-range.png)
+![Variações da classificação de estrelas](/wiki/shared/star-rating/spectrum.png)
 
 No site, beatmaps são automaticamente dados um ícone de dificuldade baseado na variação de sua classificação de estrelas:
 
-- ![](/wiki/shared/diff/easy-o.png) Easy: 0.0★–1.99★
-- ![](/wiki/shared/diff/normal-o.png) Normal: 2.0★–2.69★
-- ![](/wiki/shared/diff/hard-o.png) Hard: 2.7★–3.99★
-- ![](/wiki/shared/diff/insane-o.png) Insane: 4.0★–5.29★
-- ![](/wiki/shared/diff/expert-o.png) Expert: 5.3★–6.49★
-- ![](/wiki/shared/diff/expertplus-o.png) Expert+: 6.5★ e acima disso
+- ![](/wiki/shared/diff/easy-o.png?20211215) Easy: 0.0★–1.99★
+- ![](/wiki/shared/diff/normal-o.png?20211215) Normal: 2.0★–2.69★
+- ![](/wiki/shared/diff/hard-o.png?20211215) Hard: 2.7★–3.99★
+- ![](/wiki/shared/diff/insane-o.png?20211215) Insane: 4.0★–5.29★
+- ![](/wiki/shared/diff/expert-o.png?20211215) Expert: 5.3★–6.49★
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) Expert+: 6.5★ e acima disso
 
 A maioria dos mapas tem seu respectivo nível de ícone categorizados de forma correta, mas alguns podem sair dessa curva e variar bastante. E é esse o motivo que a [ranking criteria](/wiki/Ranking_Criteria) define regras mais precisas para a determinação da dificuldade de um beatmap e a variação de dificuldade entre as dificuldades de um beatmapset.

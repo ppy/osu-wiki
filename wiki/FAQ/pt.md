@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated_translation: true
 ---
 
 # FAQ
@@ -18,7 +18,7 @@ Você poder ver os círculos na parte inferior da tela, e no topo da tela você 
 
 *Explicação completa: [osu! Standard](/wiki/Game_mode/osu!)*
 
-como a maioria dos usuários de computadores não possuem tela touchscreen, o jogo foi feito para ser jogado com mouse. Algumas musicas passam do limite do que podemos considerar Jogável com apenas o mouse, mas a maioria das musicas ranqueadas são jogáveis com apenas mouse, para musicas mais difíceis é mais apropriado usar o teclado junto. Existem outros tipos de dispositivos que podem ser usados para jogar, visite [Play Styles](/wiki/Play_Styles) para mais informação.
+como a maioria dos usuários de computadores não possuem tela touchscreen, o jogo foi feito para ser jogado com mouse. Algumas musicas passam do limite do que podemos considerar Jogável com apenas o mouse, mas a maioria das musicas ranqueadas são jogáveis com apenas mouse, para musicas mais difíceis é mais apropriado usar o teclado junto. Existem outros tipos de dispositivos que podem ser usados para jogar, visite [Play Styles](/wiki/Play_style) para mais informação.
 
 #### Básico sobre a Jogabilidade
 
@@ -283,7 +283,7 @@ Outra opção seria [visitar a lista de beatmaps listados pela dificuldade](http
 
 ### O que o Level em meu perfil faz??
 
-Absolutamente nada. Não existe diferenças comparando um jogador level 100 contra um jogador level 1 (com exceção do nível de habilidade e experiência em jogo) Não existem "privilégios" para jogadores com level mais alto ou desvantagens para iniciantes. Level é baseado no seu total de pontos acumulado quando jogando online com sua conta.. [a Formula pode ser encontrada aqui](/wiki/Score)
+Absolutamente nada. Não existe diferenças comparando um jogador level 100 contra um jogador level 1 (com exceção do nível de habilidade e experiência em jogo) Não existem "privilégios" para jogadores com level mais alto ou desvantagens para iniciantes. Level é baseado no seu total de pontos acumulado quando jogando online com sua conta.. [a Formula pode ser encontrada aqui](/wiki/Gameplay/Score)
 
 ### Porque as estatísticas do meu perfil são diferentes das que vejo durante o jogo?
 

@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 1c921bb312848bb2dce76217542281d0db5a6825
+---
+
 # osu! wiki 貢獻指南
 
 感謝你有興趣讓 osu!wiki 變得更好！這篇快速指南是為那些沒有用過 Github 或貢獻過 osu!wiki 的人而寫的。如果你已經有使用 Github 的經驗，可以跳過這篇指南並遵循常見的特性分支工作流程來為 osu!wiki 添加新內容。
@@ -10,7 +15,7 @@
 
 1. 如果你沒有 Github 帳號的話，請先[註冊](https://github.com/join)一個。
 2. [登入](https://github.com/login)。
-3. 繼續閱讀[分支 (Forking)](#forking)。
+3. 繼續閱讀[分支 (Forking)](#分支-(Forking))。
 
 ### 分支 (Forking)
 
@@ -25,7 +30,7 @@
 4. 如果你看到類似以下圖片的畫面，代表你成功建立了 `ppy/osu-wiki` 的分支，且已經到達你的分支了。
    ![](img/forked.jpg)
 
-5. 繼續閱讀[同步你的分支](#syncing-your-fork)。
+5. 繼續閱讀[同步你的分支](#同步你的分支)。
 
 ### 同步你的分支
 
@@ -43,15 +48,15 @@
 
 3. 這不算什麼大問題，只要你不要編輯到已經修改的檔案，但你落後的 commits 越多，情況就越不可能發生。
 
-4. 為了解決這個問題，請參見常見問題中的[我的分支過期了！](/wiki/osu!_wiki/Contribution_guide/Common_Issues#my-branch-is-out-of-date!)。
+4. 為了解決這個問題，請參見常見問題中的[我的分支過期了！](/wiki/osu!_wiki/Contribution_guide/Best_practices#syncing-the-fork)。
 
-5. 完成第4步後，繼續閱讀[在本機或線上編輯](#editing-online-or-locally)。
+5. 完成第4步後，繼續閱讀[在本機或線上編輯](#在本機或線上編輯)。
 
 ## 在本機或線上編輯
 
 現在你有兩個選擇：
 
-- [GitHub 網頁介面](/wiki/osu!_wiki/Contribution_guide/GitHub_Web_Interface) - 線上編輯；適合單篇文章的編輯。
+- [GitHub 網頁介面](/wiki/osu!_wiki/Contribution_guide/GitHub_web-based_editor) - 線上編輯；適合單篇文章的編輯。
 - [GitHub Desktop](/wiki/osu!_wiki/Contribution_guide/GitHub_Desktop) - 在自己的電腦上編輯；適合單篇和/或多篇文章的編輯 (包括上傳、刪除及移動照片或其他檔案)。
 
 *提醒: 編輯的方式並不限於以上兩種，但為了指南的長度及整潔度，我們不會提到或深入討論其他工具。其他的第三方軟體跟 GitHub 網頁介面和 GitHub Desktop 相比，有更多或更少的功能。*
@@ -93,7 +98,7 @@
 
     ![](img/new-pull-request.png)
 
-11. 繼續閱讀[審閱](#reviews)及[合併 (Merging)](#merging)。
+11. 繼續閱讀[審閱](#審閱)及[合併 (Merging)](#合併-(Merging))。
 
 ### 審閱
 

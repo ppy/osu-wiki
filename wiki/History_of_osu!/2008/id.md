@@ -22,7 +22,7 @@ Untuk mengimbangi mod baru yang dirilis Februari, mod [Relax](/wiki/Game_modifie
 
 ## April
 
-Bukan lelucon, Bancho sudah selesai dan siap digunakan bulan ini, dan begitu juga panel pengguna Obrolan Lanjutan (Extended Chat) seperti yang pemain ketahui hingga hari ini. Pengguna sekarang dapat melihat apa yang dilakukan pengguna lain menggunakan panel pengguna mereka, serta berinteraksi dengan mereka dengan mengklik tonton (clicking to spectate). Sistem penyampaian kesalahan otomatis (error submission system) memulai debutnya, kompatibilitas xfire diimplementasikan, dan menu utama dan antarmuka editor menerima perombakan lain (dengan ikon baru oleh LuigiHann). Antarmuka obrolan juga tidak kalah, dengan tombol "show chat", tab completion, dan tanda sorot nama panggilan (nickname highlight alerts). Layar peringkat sekarang menunjukkan poin yang diperlukan untuk mencapai peringkat berikutnya.
+Bukan lelucon, Bancho sudah selesai dan siap digunakan bulan ini, dan begitu juga panel pengguna Obrolan Lanjutan (Extended Chat) seperti yang pemain ketahui hingga hari ini. Pengguna sekarang dapat melihat apa yang dilakukan pengguna lain menggunakan panel pengguna mereka, serta berinteraksi dengan mereka dengan mengklik tonton (clicking to spectate). Sistem penyampaian kesalahan otomatis (error submission system) memulai debutnya, kompatibilitas xfire diimplementasikan, dan menu utama dan antarmuka editor menerima perombakan lain (dengan ikon baru oleh LuigiHann). Antarmuka obrolan juga tidak kalah, dengan tombol "show chat", tab completion, dan tanda sorot nama panggilan ([nickname highlight](/wiki/Client/Interface/Chat_console/Highlight) alerts). Layar peringkat sekarang menunjukkan poin yang diperlukan untuk mencapai peringkat berikutnya.
 
 ## Mei
 
@@ -32,11 +32,11 @@ Mode [Taiko](/wiki/Game_mode/osu!taiko) pertama kali memperlihatkan eksistensiny
 
 ## Juni
 
-Pencapaian utama dalam sejarah osu! dicapai dengan penambahan mode permainan [Multi (multiplayer)](/wiki/Multi). Opsi skinning lebih diperluas lebih lanjut mengenai grafik dan suara. Terakhir, obrolan multi-channel dapat dilakukan untuk pertama kalinya.
+Pencapaian utama dalam sejarah osu! dicapai dengan penambahan mode permainan [Multi (multiplayer)](/wiki/Client/Interface/Multiplayer). Opsi skinning lebih diperluas lebih lanjut mengenai grafik dan suara. Terakhir, obrolan multi-channel dapat dilakukan untuk pertama kalinya.
 
 ## Juli
 
-Editor, multiplayer, storyboarding, opsi grafis, dan konsol obrolan (chat console) semuanya menerima banyak peningkatan pada bulan ini. Layar opsi menerima layout baru, dan [pengaturan kunci kustom (custom key bindings)](/wiki/Options/Keyboard_Bindings) diperkenalkan.
+Editor, multiplayer, storyboarding, opsi grafis, dan konsol obrolan (chat console) semuanya menerima banyak peningkatan pada bulan ini. Layar opsi menerima layout baru, dan [pengaturan kunci kustom (custom key bindings)](/wiki/Client/Options/Keyboard_bindings) diperkenalkan.
 
 ## Agustus
 
@@ -44,7 +44,7 @@ Melanjutkan tren yang ditetapkan pada bulan Juli, akan sulit sekali menemukan as
 
 Skor pribadi online terbaik (Personal online best scores) ditambahkan ke menu pemilihan lagu, permintaan jangka panjang yang akhirnya terpenuhi. Proses ini membutuhkan beberapa pengoptimalan database yang cukup besar. Perbaikan grafis dilakukan untuk layar peringkat, dan berbagai elemen skin bawaan, dengan tujuan untuk membuat skin lebih bersih, jernih, dan rapih dari sebelumnya. Tampilan slider tick sprite (10/30) diimplementasikan. Perombakan terlihat dalam pengaturan pertandingan multiplayer, yang memungkinkan kontrol host (pembuat ruang) dapat ditransfer kepadap pemain lain. Banyak perintah obrolan baru ditambahkan demi kenyamanan pengguna.
 
-Status peringkat baru "![](img/fire.gif) [approved](/wiki/Beatmap/Category#Approved)" ditambahkan untuk map yang memiliki kualitas tinggi tetapi melebihi panjang maksimum lagu atau tingkat kesulitan (atau lainnya) dalam beberapa cara. Map yang memiliki status ini tidak menambah skor pemain, tetapi tetap memiliki papan peringkat (scoreboard) dan bertindak sama seperti map yang berstatus ![](img/heart.gif) [ranked](/wiki/Beatmap/Category#Ranked).
+Status peringkat baru "![](img/fire.gif) [approved](/wiki/Beatmap/Category#approved)" ditambahkan untuk map yang memiliki kualitas tinggi tetapi melebihi panjang maksimum lagu atau tingkat kesulitan (atau lainnya) dalam beberapa cara. Map yang memiliki status ini tidak menambah skor pemain, tetapi tetap memiliki papan peringkat (scoreboard) dan bertindak sama seperti map yang berstatus ![](img/heart.gif) [ranked](/wiki/Beatmap/Category#ranked).
 
 ## September
 
@@ -60,7 +60,7 @@ Kemajuan pertama tercatat dengan pengimplementasian OpenGL dan debut mode permai
 
 ![](img/fruit_ryuuta.png "Catcher mode Catch the Beat")
 
-Bulan November, kita dapat melihat pengenalan mode permainan baru, [Catch the Beat](/wiki/Game_mode/osu!catch). Dukungan OpenGL juga memulai debutnya di bulan ini, implementasi ini memungkinkan osu! untuk berjalan di sebagian besar sistem. Fitur baru lainnya dalam pembaruan ini termasuk dukungan daftar teman dalam game, tab pesan pribadi, panduan tutorial/[offset wizard](/wiki/Options/Offset_Wizard), dan osu!direct, sebuah pengunduh beatmap dalam game untuk osu!supporter.
+Bulan November, kita dapat melihat pengenalan mode permainan baru, [Catch the Beat](/wiki/Game_mode/osu!catch). Dukungan OpenGL juga memulai debutnya di bulan ini, implementasi ini memungkinkan osu! untuk berjalan di sebagian besar sistem. Fitur baru lainnya dalam pembaruan ini termasuk dukungan daftar teman dalam game, tab pesan pribadi, panduan tutorial/[offset wizard](/wiki/Client/Options/Offset_Wizard), dan osu!direct, sebuah pengunduh beatmap dalam game untuk osu!supporter.
 
 Karena pemain yang memiliki beatmap dalam jumlah besar selalu mengeluhkan tentang waktu muat osu!, peppy menghabiskan hari-harinya untuk mengoptimalkan apa pun yang dapat ia optimalkan, hasilnya peningkatkan kinerja yang hampir tak terukir dalam skala (let's just say somewhere over 9,000). Waktu muat lebih dari satu menit telah dioptimalkan menjadi hanya sekian milidetik.
 

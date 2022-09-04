@@ -1,12 +1,12 @@
 ---
-outdated: true
+outdated_translation: true
 ---
 
 # BanchoBot
 
 ![BanchoBot's player card](img/BanchoBot.jpg "BanchoBot's player card")
 
-Seu hospedeiro do [servidor de chat do osu!](/wiki/Internet_Relay_Chat).
+Seu hospedeiro do [servidor de chat do osu!](/wiki/Community/Internet_Relay_Chat).
 
 [tem um perfil!](https://osu.ppy.sh/users/3)
 

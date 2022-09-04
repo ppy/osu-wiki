@@ -6,11 +6,11 @@ legal: true
 
 osu! ağırlıklı olarak topluluk odaklı bir oyundur. Tüm oyun seviyeleri (beatmapler) topluluk üyeleri tarafından oluşturulur ve karşıya yüklenir. Bu durum çoğunlukla ilgili telif hakkı sahiplerinden doğru bir biçimde izin alınmadan gerçekleştirilir. Biz, bu yüklenen içeriklerin reklamını yapmıyor, veya bu içeriklerden doğrudan herhangi bir gelir elde etmeye çalışmıyoruz. Oyunun gelir kaynağı ise tamamen kullanıcı bağışlarından sağlanmaktadır.
 
-Elde ettiğimiz bağışların büyük bir bölümü [müzik lisanslama](/wiki/Legal/Music_Licensing) için kullanılmaktadır. Lisanslama sorguları [music@ppy.sh](mailto:music@ppy.sh) adresine gönderilebilir.
+Elde ettiğimiz bağışların büyük bir bölümü [müzik lisanslama](/wiki/Legal/Music_licensing) için kullanılmaktadır. Lisanslama sorguları [music@ppy.sh](mailto:music@ppy.sh) adresine gönderilebilir.
 
 Bunun olmaması halinde, osu!, telif hakkı ihlali halinde Digital Millennium Copyright Act, 17 U.S.C. 512 uyarınca aşağıdaki politikayı benimsemiştir.
 
-osu!'nun Hak İddia Edilen İhlal Bildirimini Alacak Atanmış Temsilcisi ("Atanmış Temsilci") bu belgenin sonunda mevcuttur, ve Amerika Birleşik Devletleri Telif Hakları Bürosu'nda erişilebilir halde bulunmaktadır ([https://www.copyright.gov/dmca-directory/](https://www.copyright.gov/dmca-directory/)). osu!, telif hakkı ve diğer fikir mülkiyeti haklarını oldukça ciddiye almaktadır.
+osu!'nun Hak İddia Edilen İhlal Bildirimini Alacak Atanmış Temsilcisi ("Atanmış Temsilci") bu belgenin sonunda mevcuttur, ve Amerika Birleşik Devletleri Telif Hakları Bürosu'nda erişilebilir halde bulunmaktadır (<https://www.copyright.gov/dmca-directory/>). osu!, telif hakkı ve diğer fikir mülkiyeti haklarını oldukça ciddiye almaktadır.
 
 osu!'nun politikaları şunlardır:
 

@@ -5,7 +5,7 @@ tags:
   - 指令
   - 命令
   - 公告
-outdated: true
+outdated_translation: true
 outdated_since: 83725ce048670f4ac909cf76e228a9a5b792df4a
 ---
 
@@ -15,13 +15,13 @@ outdated_since: 83725ce048670f4ac909cf76e228a9a5b792df4a
 
 ![BanchoBot 的资料卡](img/BanchoBot.jpg "BanchoBot 的资料卡")
 
-**BanchoBot**（有时被称为 *Bancho*）是一个专为 osu! 设计的游戏内聊天机器人，它会在聊天频道内发布一些游戏相关的信息（比如你的游玩次数，重试次数等），并回应某些指令来帮助玩家。它由 [Echo](https://osu.ppy.sh/users/431) 编写，同时也提供了 Bancho 的 [IRC](/wiki/Internet_Relay_Chat) （互联网中继聊天）服务器。
+**BanchoBot**（有时被称为 *Bancho*）是一个专为 osu! 设计的游戏内聊天机器人，它会在聊天频道内发布一些游戏相关的信息（比如你的游玩次数，重试次数等），并回应某些指令来帮助玩家。它由 [Echo](https://osu.ppy.sh/users/431) 编写，同时也提供了 Bancho 的 [IRC](/wiki/Community/Internet_Relay_Chat) （互联网中继聊天）服务器。
 
 BanchoBot 拥有自己的 [osu! 个人资料](https://osu.ppy.sh/users/3)和一个[推特账号](https://twitter.com/banchoboat)。
 
 ## 指令
 
-*关于客户端指令，请参见：[聊天面板/命令列表](/wiki/Chat_Console#命令列表)*
+*关于客户端指令，请参见：[聊天面板/命令列表](/wiki/Client/Interface/Chat_console#命令列表)*
 
 BanchoBot 可通过玩家在聊天中发送的特殊信息来回应指令。所有 BanchoBot 的指令都以**英文半角感叹号**（`!`）开头，后跟指令名称且不区分大小写。这些指令可以在聊天频道中使用，也可以在与 BanchoBot 的私聊中使用。
 
@@ -83,7 +83,7 @@ BanchoBot 可通过玩家在聊天中发送的特殊信息来回应指令。所�
 !stats <用户名>
 ```
 
-`!stats` 会显示指定用户的游戏统计信息。输出取决于指定用户上次玩过的[游戏模式](/wiki/Game_Modes)，但 BanchoBot 并不会显示数据来自哪个游戏模式。如果指定用户从来没有玩过 osu!，尽管用户确实存在，BanchoBot 也会返回 `User not found`。此指令的示例如下所示：
+`!stats` 会显示指定用户的游戏统计信息。输出取决于指定用户上次玩过的[游戏模式](/wiki/Game_mode)，但 BanchoBot 并不会显示数据来自哪个游戏模式。如果指定用户从来没有玩过 osu!，尽管用户确实存在，BanchoBot 也会返回 `User not found`。此指令的示例如下所示：
 
 ```
 13:01 pippi: !stats peppy
@@ -116,7 +116,7 @@ BanchoBot 可通过玩家在聊天中发送的特殊信息来回应指令。所�
 !faq list
 ```
 
-`!faq` 会显示指定条目的内容。另外，`list` 参数可以用来显示所有可用的条目。默认情况下，BanchoBot 将以英语回应，但是可以通过在条目前面加上该语言的[两位语言代码](/wiki/Article_Styling_Criteria#本地化)来接收另一种语言的回应。此命令的示例如下所示：
+`!faq` 会显示指定条目的内容。另外，`list` 参数可以用来显示所有可用的条目。默认情况下，BanchoBot 将以英语回应，但是可以通过在条目前面加上该语言的[两位语言代码](/wiki/Article_styling_criteria#本地化)来接收另一种语言的回应。此命令的示例如下所示：
 
 ```
 13:03 pippi: !faq peppy
@@ -130,13 +130,13 @@ BanchoBot 可通过玩家在聊天中发送的特殊信息来回应指令。所�
 
 ### 举报
 
-*关于什么值得举报的信息，参见：[举报不当行为](/wiki/Reporting_Bad_Behaviour)。*
+*关于什么值得举报的信息，参见：[举报不当行为](/wiki/Reporting_bad_behaviour)。*
 
 ```
 !report <用户名> <原因（最好用英文）>
 ```
 
-`!report` 会通知 [Global Moderation Team](/wiki/Global_Moderation_Team) 关于指定用户的不当行为。如果用户名中有空格，请用下划线替换（比如 `really cool username` 需替换为 `really_cool_username`）。要举报管理员，请发送电子邮件至 [support@ppy.sh](mailto:support@ppy.sh)。通过 BanchoBot 举报用户的示例如下所示：
+`!report` 会通知 [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) 关于指定用户的不当行为。如果用户名中有空格，请用下划线替换（比如 `really cool username` 需替换为 `really_cool_username`）。要举报管理员，请发送电子邮件至 [support@ppy.sh](mailto:support@ppy.sh)。通过 BanchoBot 举报用户的示例如下所示：
 
 ```
 13:10 pippi: !report flyte spamming in #chinese

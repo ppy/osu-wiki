@@ -12,7 +12,7 @@ The **Monthly Beatmapping Contest** (***MBC***) is... well, a beatmap contest th
 
 ## Summary
 
-| User | Placement | Badge prize | Title prize | [MBC Points](/wiki/Contests/Monthly_Beatmapping_Contest#prizes) |
+| User | Placement | Badge prize | Title prize | [MBC Points](/wiki/Contests/Monthly_Beatmapping_Contest#rewards) |
 | :-- | :-- | :-- | :-- | :-- |
 | [kuyusu](https://osu.ppy.sh/users/11758667) | Winner + Screener's pick | ![](https://assets.ppy.sh/profile-badges/mbc-2020-3.png) | *Elite Mapper* | 8 (⯅3) |
 | [Sylas](https://osu.ppy.sh/users/3906405) | Runner-up | ![](https://assets.ppy.sh/profile-badges/mbc-2020-3.png) | *Elite Mapper* | 6 (⯅1) |
@@ -36,7 +36,7 @@ This month's contest took a different approach from our previous contests. Mappe
 
 See results for all submissions here:
 
-- [Screening](https://mappersguild.com/contestresults?contest=610861e17d776b698e58a0dd)
+- [Screening](https://mappersguild.com/contests/results?contest=610861e17d776b698e58a0dd)
 - [Judging](https://docs.google.com/spreadsheets/d/e/2PACX-1vRpgWFe4PuxIhWfaLdfHcOWd0_NehXkVcM3c-mxJBV2QAk31OztDYNpjZ4cy8Yubt9OQwj_9-_SRofm/pubhtml)
 
 ### Winner

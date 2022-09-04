@@ -12,7 +12,7 @@ tags:
 
 ## 대회 일정
 
-| 일정 | 날짜 (UTC+09) |
+| 일정 | 날짜 (UTC+9) |
 | --: | :-- |
 | 신청 및 곡 투표 기간 | 2021-02-01/2021-02-07 |
 | 제출 기간 | 2021-02-08/2021-03-07 |
@@ -33,10 +33,10 @@ tags:
 
 | 직책 | 인원 |
 | :-- | :-- |
-| 주최자 | ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783) |
-| 매니저 | ![][flag_KR] [Oni Suika](https://osu.ppy.sh/users/4848023) |
-| 디자이너 | ![][flag_KR] [POCARI SWEAT](https://osu.ppy.sh/users/5082685) |
-| 심사위원 | ![][flag_PL] [_underjoy](https://osu.ppy.sh/users/6392061), ![][flag_KR] [Garalulu](https://osu.ppy.sh/users/757783), ![][flag_GT] [Hoto Cocoa](https://osu.ppy.sh/users/6974536), ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754), ![][flag_KR] [Pengdoll](https://osu.ppy.sh/users/6392061) |
+| 주최자 | ::{ flag=KR }:: [Garalulu](https://osu.ppy.sh/users/757783) |
+| 매니저 | ::{ flag=KR }:: [Oni Suika](https://osu.ppy.sh/users/4848023) |
+| 디자이너 | ::{ flag=KR }:: [POCARI SWEAT](https://osu.ppy.sh/users/5082685) |
+| 심사위원 | ::{ flag=PL }:: [_underjoy](https://osu.ppy.sh/users/6392061), ::{ flag=KR }:: [Garalulu](https://osu.ppy.sh/users/757783), ::{ flag=GT }:: [Hoto Cocoa](https://osu.ppy.sh/users/6974536), ::{ flag=KR }:: [Kawawa](https://osu.ppy.sh/users/4647754), ::{ flag=KR }:: [Pengdoll](https://osu.ppy.sh/users/6392061) |
 
 ## 링크
 
@@ -70,9 +70,9 @@ tags:
 
 | 순위 | 매퍼 |
 | :-: | :-- |
-| ![금상](/wiki/shared/crown-gold.png "1위") | ![][flag_KR] [11Bit](https://osu.ppy.sh/users/14804526) |
-| ![은상](/wiki/shared/crown-silver.png "2위") | ![][flag_KR] [Sherie](https://osu.ppy.sh/users/9113475) |
-| ![동상](/wiki/shared/crown-bronze.png "3위") | ![][flag_CA] [arpia97](https://osu.ppy.sh/users/6363008) |
+| ![금상](/wiki/shared/crown-gold.png "1위") | ::{ flag=KR }:: [11Bit](https://osu.ppy.sh/users/14804526) |
+| ![은상](/wiki/shared/crown-silver.png "2위") | ::{ flag=KR }:: [Sherie](https://osu.ppy.sh/users/9113475) |
+| ![동상](/wiki/shared/crown-bronze.png "3위") | ::{ flag=CA }:: [arpia97](https://osu.ppy.sh/users/6363008) |
 
 ## 규칙
 
@@ -103,8 +103,3 @@ tags:
 - **Cohesion (25 pts):** 맵이 구조, 음악 표현, 흐름에 대해 얼마나 일관성을 가지고 있는가
 - **Creativity (25 pts):** 다른 맵과 비교했을 때 플레이성 면에서 독창성과 특별함을 가지고 있는가
 - **Judge's Impression (25 pts):** 심사위원들의 개인적 선호도를 나타내는 점수
-
-[flag_CA]: /wiki/shared/flag/CA.gif "캐나다"
-[flag_GT]: /wiki/shared/flag/GT.gif "과테말라"
-[flag_KR]: /wiki/shared/flag/KR.gif "대한민국"
-[flag_PL]: /wiki/shared/flag/PL.gif "폴란드"

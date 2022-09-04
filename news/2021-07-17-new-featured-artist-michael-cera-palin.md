@@ -34,6 +34,8 @@ Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/1275141)
     <source src="https://assets.ppy.sh/artists/182/Growing Pains/Michael%20Cera%20Palin%20-%20Laughing%20Makes%20It%20Worse.mp3" type="audio/mpeg">
 </audio>
 
+<!-- lint ignore no-heading-punctuation -->
+
 ### Go Home. Play Music. Feel Better.
 
 <audio controls>

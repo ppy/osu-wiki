@@ -8,7 +8,7 @@ It's that time of the month again! [Project Loved](https://osu.ppy.sh/community/
 
 ![](/wiki/shared/news/banners/project-loved.jpg)
 
-For those unfamiliar, Project Loved hosts monthly votings to decide which nominated maps get added to the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). You can click on each of the map's banners in this post to go to its poll on the forums. More info is on the [wiki page](/wiki/Project_Loved)!
+For those unfamiliar, Project Loved hosts monthly votings to decide which nominated maps get added to the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). You can click on each of the map's banners in this post to go to its poll on the forums. More info is on the [wiki page](/wiki/Community/Project_Loved)!
 
 Over the last month, we've had a few changes to our roster of captains:
 
@@ -258,6 +258,6 @@ quicalid4 presents a large 7K pack in *7K utattemita pack2*, consisting of a wid
 
 ---
 
-From everyone on the [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team), we hope you enjoyed this month's selection, and are looking forward to the next! The favoured beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) shortly after the polls end. More info about Project Loved can be found on its [wiki page](/wiki/Project_Loved). See you next month!
+From everyone on the [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team), we hope you enjoyed this month's selection, and are looking forward to the next! The favoured beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) shortly after the polls end. More info about Project Loved can be found on its [wiki page](/wiki/Community/Project_Loved). See you next month!
 
 —clayton

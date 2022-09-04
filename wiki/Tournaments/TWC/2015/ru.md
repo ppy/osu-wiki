@@ -2,14 +2,14 @@
 tags:
   - TWC 2015
   - TWC2015
-outdated: true
+outdated_translation: true
 ---
 
 # osu! Taiko World Cup 2015
 
 ![TWC 2015 logo](img/logo.png)
 
-**osu! Taiko World Cup 2015** (***TWC 2015***) — пятый по счёту всемирный турнир по тайко, который проводят [турнир-менеджеры](https://osu.ppy.sh/groups/26). Он длится с 12 января по 15 апреля 2015 года. Победителем предыдущего турнира была ![][flag_JP] **Япония**.
+**osu! Taiko World Cup 2015** (***TWC 2015***) — пятый по счёту всемирный турнир по тайко, который проводят [турнир-менеджеры](https://osu.ppy.sh/groups/26). Он длится с 12 января по 15 апреля 2015 года. Победителем предыдущего турнира была ::{ flag=JP }:: **Япония**.
 
 ## Расписание
 
@@ -36,11 +36,11 @@ outdated: true
 
 | Job | Person |
 | :-- | :-- |
-| Организаторы | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) // ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) |
-| Подбор карт | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) |
-| Стримеры | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) // ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) // ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
-| Комментаторы | ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078) // ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
-| Статистик | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
+| Организаторы | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) // ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) // ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) |
+| Подбор карт | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) |
+| Стримеры | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) // ::{ flag=PL }:: [Marcin](https://osu.ppy.sh/users/722665) // ::{ flag=FR }:: [shARPII](https://osu.ppy.sh/users/776257) |
+| Комментаторы | ::{ flag=FR }:: [Mr Color](https://osu.ppy.sh/users/116078) // ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) |
+| Статистик | ::{ flag=PL }:: [Marcin](https://osu.ppy.sh/users/722665) |
 
 ## Участники
 
@@ -62,7 +62,7 @@ outdated: true
 3. Расписание матчей будет установлено менеджерами турнира (см. ниже).
 4. При отсутствии менеджеров или судей матч может быть перенесён.
 5. Счёт игроков, проваливших карту, не идёт в общий счёт команды.
-6. Разрешается использование [визуальных настроек](/wiki/Visual_Settings).
+6. Разрешается использование [визуальных настроек](/wiki/Client/Interface/Visual_settings).
 7. Если матч сыгран вничью, он не засчитывается.
 8. Если игрок покидает матч, его счёт не будет засчитан.
 9. Каждая карта в пределах одного матча играется по одному разу, за исключением случаев, когда матч не был засчитан.
@@ -163,11 +163,3 @@ outdated: true
 3. Матчи всех остальных этапов будут проводиться по субботам или воскресеньям.
 4. За составление расписания отвечают менеджеры турнира. Расписания будут публиковаться в последнее воскресенье перед текущим этапом и по возможности будут составлены с учётом часовых поясов участников.
 5. Капитаны ответственны за явку игроков. Если команда не сможет предоставить трёх игроков для участия в матче, ей будет засчитано техническое поражение.
-
-[flag_AU]: /wiki/shared/flag/AU.gif "Австралия"
-[flag_DE]: /wiki/shared/flag/DE.gif "Германия"
-[flag_ES]: /wiki/shared/flag/ES.gif "Испания"
-[flag_FR]: /wiki/shared/flag/FR.gif "Франция"
-[flag_JP]: /wiki/shared/flag/JP.gif "Япония"
-[flag_PL]: /wiki/shared/flag/PL.gif "Польша"
-[flag_US]: /wiki/shared/flag/US.gif "Соединённые Штаты Америки"

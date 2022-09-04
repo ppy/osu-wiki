@@ -1,8 +1,12 @@
+---
+outdated: true
+---
+
 # Beatmap packs
 
 <!-- TODO : nouveaux types de packs, nouveaux miroirs -->
 
-Un pack de beatmaps est un fichier `.zip` contenant des beatmaps. Le nom du paquet est basé sur ce qu'il contient (par exemple, `Approved Beatmap Pack #7` ne contiendrait que des beatmaps [approuvé](/wiki/approved)).
+Un pack de beatmaps est un fichier `.zip` contenant des beatmaps. Le nom du paquet est basé sur ce qu'il contient (par exemple, `Approved Beatmap Pack #7` ne contiendrait que des beatmaps [approuvé](/wiki/Beatmap/Category#approuvée)).
 
 Il est à noter que la plupart des packs ont :
 
@@ -15,20 +19,20 @@ Les packs Beatmaps sont divisés en 4 catégories :
 
 | Catégorie | Types de Beatmap |
 | :-- | :-- |
-| Standard | Chansons classées ou approuvées |
+| Standard | musiques classées ou approuvées |
 | Chart | bimensuel Chart challenge songs |
-| Thème | Thème général des chansons |
+| Thème | Thème général des musiques |
 | Basé sur l'Artiste/Album | Basé sur l'Artiste/Album |
 
-## Compléter votre liste de chansons
+## Compléter votre liste de musiques
 
-C'est pour ceux qui veulent vraiment *compléter votre liste de chansons* (et pas seulement télécharger vos chansons préférées).
+C'est pour ceux qui veulent vraiment *compléter votre liste de musiques* (et pas seulement télécharger vos musiques préférées).
 
 Gardez à l'esprit que vous aurez besoin de beaucoup d'espace numérique pour stocker ces beatmaps. Comme les packs de beatmap (et les torrents) se téléchargent aussi avec la vidéo et d'autres éléments skinables de beatmap.
 
 ### Liste des paquets Beatmap
 
-Téléchargez tous les packs de beatmaps (-/Approuvé/Taiko/osu!mania) de la catégorie **Standard** et nulle part ailleurs. Les packs de beatmaps (-/Approuvé/Taiko/osu!mania) contiendront toutes les chansons des 3 autres catégories.
+Téléchargez tous les packs de beatmaps (-/Approuvé/Taiko/osu!mania) de la catégorie **Standard** et nulle part ailleurs. Les packs de beatmaps (-/Approuvé/Taiko/osu!mania) contiendront toutes les musiques des 3 autres catégories.
 
 Les packs de beatmaps peuvent être trouvés et téléchargés à partir de la : [page collection de beatmaps](https://osu.ppy.sh/beatmaps/packs).
 

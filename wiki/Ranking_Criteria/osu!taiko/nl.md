@@ -1,6 +1,6 @@
 ---
 no_native_review: true
-outdated: true
+outdated_translation: true
 outdated_since: 77ca2ba1c9070cde43e44918cd1b249f2266f2c8
 ---
 
@@ -14,13 +14,13 @@ Over deze regels en richtlijnen is gediscussieerd in het [Ranking Criteria subfo
 
 ### Namen moeilijkheidsgraden
 
-*Hoofdartikel: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_Naming)*
+*Hoofdartikel: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_naming)*
 
-- ![](/wiki/shared/diff/easy-t.png) Kantan
-- ![](/wiki/shared/diff/normal-t.png) Futsuu
-- ![](/wiki/shared/diff/hard-t.png) Muzukashii
-- ![](/wiki/shared/diff/insane-t.png) Oni
-- ![](/wiki/shared/diff/expert-t.png) Inner/Ura Oni
+- ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
+- ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu
+- ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii
+- ![](/wiki/shared/diff/insane-t.png?20211215) Oni
+- ![](/wiki/shared/diff/expert-t.png?20211215) Inner/Ura Oni
 
 ### Het spel
 
@@ -81,7 +81,7 @@ Richtlijnen mogen onder **uitzonderlijke** omstandigheden worden genegeerd. Deze
 
 Moeilijkheidsgraad-specifieke regels en richtlijnen zijn enkel van toepassing op de moeilijkheidsgraad waarvoor ze zijn opgesteld en zijn daardoor *niet van toepassing op **elke** osu!taiko moeilijkheidsgraad.* Ritme-gerelateerde regels en richtlijnen zijn van toepassing op beatmaps met ongeveer 180 BPM en met 4/4 maatsoort. Als jouw muziek veel sneller of trager is, zullen sommige variabelen anders zijn, zoals aangegeven in [Scaling BPM on the Ranking Criteria](/wiki/Ranking_Criteria/Scaling_BPM).
 
-### ![](/wiki/shared/diff/easy-t.png) Kantan
+### ![](/wiki/shared/diff/easy-t.png?20211215) Kantan
 
 #### Regels
 
@@ -101,7 +101,7 @@ Moeilijkheidsgraad-specifieke regels en richtlijnen zijn enkel van toepassing op
 - De algemene moeilijkheidsgraad (*overall difficulty*) moet 4 of minder zijn.
 - De HP-drainsnelheid (*HP drain rate*) moet 6 of meer zijn. Bij hogere nootaantallen kan de *HP Drain Rate* aangepast worden tot iets lager dan 6.
 
-### ![](/wiki/shared/diff/normal-t.png) Futsuu
+### ![](/wiki/shared/diff/normal-t.png?20211215) Futsuu
 
 #### Regels
 
@@ -131,7 +131,7 @@ Als een Futsuu moeilijkheidsgraad vereist is en gebruikt wordt als de *laagste m
 - De algemene moeilijkheidsgraad (*overall difficulty*) moet 5 of minder zijn.
 - De HP-drainsnelheid (*HP drain rate*) moet 5 of meer zijn. Bij hogere nootaantallen kan de *HP Drain Rate* aangepast worden tot iets lager dan 5.
 
-### ![](/wiki/shared/diff/hard-t.png) Muzukashii
+### ![](/wiki/shared/diff/hard-t.png?20211215) Muzukashii
 
 #### Regels
 
@@ -154,7 +154,7 @@ Als een Futsuu moeilijkheidsgraad vereist is en gebruikt wordt als de *laagste m
 - De algemene moeilijkheidsgraad (*overall difficulty*) moet 5 of minder zijn.
 - De HP-drainsnelheid (*HP drain rate*) moet 5 of meer zijn. Bij hogere nootaantallen kan de *HP Drain Rate* aangepast worden tot iets lager dan 5.
 
-### ![](/wiki/shared/diff/insane-t.png) Oni
+### ![](/wiki/shared/diff/insane-t.png?20211215) Oni
 
 #### Regels
 
@@ -176,7 +176,7 @@ Als een Futsuu moeilijkheidsgraad vereist is en gebruikt wordt als de *laagste m
 - De algemene moeilijkheidsgraad (*overall difficulty*) moet 5 of meer zijn.
 - De HP-drainsnelheid (*HP drain rate*) moet 5 of meer zijn. Bij hogere nootaantallen kan de *HP Drain Rate* aangepast worden tot iets lager dan 5.
 
-### ![](/wiki/shared/diff/expert-t.png) Inner/Ura Oni
+### ![](/wiki/shared/diff/expert-t.png?20211215) Inner/Ura Oni
 
 #### Richtlijnen
 

@@ -1,6 +1,6 @@
 ---
 no_native_review: true
-outdated: true
+outdated_translation: true
 outdated_since: 048320d762fbf8472b04389126e719d219bc41f3
 ---
 
@@ -13,4 +13,4 @@ outdated_since: 048320d762fbf8472b04389126e719d219bc41f3
 
 故事板通常在谱面文件夹中独立为一份[`.osb` 文件](/wiki/osu!_File_Formats/Osb_(file_format))，或储存于[`.osu` 文件](/wiki/osu!_File_Formats/Osu_(file_format))内的`[Event]`条目下。因此，可以在[谱面集](/wiki/Beatmap)中为不同难度创建不同的故事板。
 
-制作故事板往往繁琐费时，且需要在绘图与动画制作方面有一技之长。osu! 提供了一个内置于 [谱面编辑器](/wiki/Beatmap_Editor) 的 [设计编辑器](/wiki/Beatmap_Editor/Design) 用于创作故事板，但狂热的故事板作者会选择使用其他程序来直接 [利用脚本制作故事板](/wiki/Storyboard/Scripting)。由于眼花缭乱的视觉特效需要大量的故事板代码才能产生，因此许多创作者选择使用拥有众多特性的编程语言来编写程序，生成故事板脚本。
+制作故事板往往繁琐费时，且需要在绘图与动画制作方面有一技之长。osu! 提供了一个内置于 [谱面编辑器](/wiki/Client/Beatmap_editor) 的 [设计编辑器](/wiki/Client/Beatmap_editor/Design) 用于创作故事板，但狂热的故事板作者会选择使用其他程序来直接 [利用脚本制作故事板](/wiki/Storyboard/Scripting)。由于眼花缭乱的视觉特效需要大量的故事板代码才能产生，因此许多创作者选择使用拥有众多特性的编程语言来编写程序，生成故事板脚本。

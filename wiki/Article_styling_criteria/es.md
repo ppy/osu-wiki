@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: de80497e3887e708fa8ea709cf48cd5fa0efb49a
 no_native_review: true
 tags:
   - estándares de la wiki
@@ -7,7 +9,7 @@ tags:
 
 # Criterios para el estilo del artículo
 
-*Para publicaciones de noticias, ver: [Criterios para el estilo de las noticias](/wiki/News_Styling_Criteria)*
+*Para publicaciones de noticias, ver: [Criterios para el estilo de las noticias](/wiki/News_styling_criteria)*
 
 Los criterios para el estilo de los artículos (ASC) sirven como las normas de estilo obligatorias de la osu! wiki para mantener la coherencia en la claridad, el formato y la disposición de todos los artículos.
 

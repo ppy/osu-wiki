@@ -1,10 +1,10 @@
 # Beatmap veto
 
-The *beatmap veto* allows a [Beatmap Nominator](/wiki/People/Beatmap_Nominators) to withhold a beatmap from Qualification if they feel there are significant issues regarding beatmap quality which make it unfit for the [Ranked](/wiki/Beatmap/Category#ranked) section. Seeking further discussion or clarification over any kind of quality issues which they feel need to be addressed before the map can proceed with [Qualification](/wiki/Beatmap_ranking_procedure#qualification) is one of their main responsibilities.
+The *beatmap veto* allows a [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators) to withhold a beatmap from Qualification if they feel there are significant issues regarding beatmap quality which make it unfit for the [Ranked](/wiki/Beatmap/Category#ranked) section. Seeking further discussion or clarification over any kind of quality issues which they feel need to be addressed before the map can proceed with [Qualification](/wiki/Beatmap_ranking_procedure#qualification) is one of their main responsibilities.
 
-Any Beatmap Nominator may place a beatmap veto, provided they are formally qualified for the game mode(s) in question, as stated in the [Beatmap Nominator Rules](/wiki/People/Beatmap_Nominators/Rules). Each beatmap veto must be discussed by both parties - the mapper as well as the Nominator placing the beatmap veto - in an attempt to reach an agreed compromise.
+Any Beatmap Nominator may place a beatmap veto, provided they are formally qualified for the game mode(s) in question, as stated in the [Beatmap Nominator Rules](/wiki/People/The_Team/Beatmap_Nominators/Rules). Each beatmap veto must be discussed by both parties — the mapper as well as the Nominator placing the beatmap veto — in an attempt to reach an agreed compromise.
 
-In cases where discussion does not take place or is inconclusive, and either the mapper or vetoing Nominator requests it, members of the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (NAT) will initiate and oversee a mediation to either uphold or dismiss the veto. The mediation is held by a random jury of Beatmap Nominators and members of the NAT, to mitigate bias, and is voted on anonymously by this jury. Once voting has completed, the reasoning from each member of the jury is revealed along with the mediation result in the beatmap discussion.
+In cases where discussion does not take place or is inconclusive, and either the mapper or vetoing Nominator requests it, members of the [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (NAT) will initiate and oversee a mediation to either uphold or dismiss the veto. The mediation is held by a random jury of Beatmap Nominators and members of the NAT, to mitigate bias, and is voted on anonymously by this jury. Once voting has completed, the reasoning from each member of the jury is revealed along with the mediation result in the beatmap discussion.
 
 ## Performing a beatmap veto
 
@@ -35,14 +35,14 @@ Following mediation, the beatmap veto will either be dismissed if the proposed c
 
 ### Dismissed beatmap vetoes
 
-**If the beatmap veto is dismissed**, any formally qualified Beatmap Nominator may renominate the beatmap - including the Nominator(s) who initially nominated.
+**If the beatmap veto is dismissed**, any formally qualified Beatmap Nominator may renominate the beatmap, including the Nominator(s) who initially nominated.
 
-In order to re-initate a mediation which resulted in the dismissal of a veto, a previously uninvolved Beatmap Nominator, or one only involved through jury, can re-initate the mediation with a newly randomly selected jury through vetoing again.
+In order to re-initiate a mediation which resulted in the dismissal of a veto, a previously uninvolved Beatmap Nominator, or one only involved through jury, can re-initiate the mediation with a newly randomly selected jury through vetoing again.
 
 ### Upheld beatmap vetoes
 
 **If the beatmap veto is upheld**, the beatmap may not be re-nominated until appropriate changes are made that remedy the issues present.
 
-In order to re-initate a mediation which resulted in the upholding of a veto, either the vetoer has to change their mind, or members of the jury that upheld has to change their minds to the point where the result of the mediation would have been different. This will re-initate the mediation with a newly randomly selected jury.
+In order to re-initiate a mediation which resulted in the upholding of a veto, either the vetoer has to change their mind, or members of the jury that upheld has to change their minds to the point where the result of the mediation would have been different. This will re-initiate the mediation with a newly randomly selected jury.
 
 Once changes are made to the beatmap, both the Nominator performing the beatmap veto, as well as the jury members upholding it, will be called to recheck the beatmap and decide individually if the issues have been satisfactorily addressed.

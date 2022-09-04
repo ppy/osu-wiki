@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: 421d351504f7f02cbe916b63fc6120b24fce0c3a
 tags:
   - bot accounts
   - chat bot
@@ -9,13 +11,13 @@ tags:
 
 # Bot hesabı
 
-**Bot hesabı** gerçek bir kişi yerine otomatik bir hizmet sağlayıcısı tarafından kullanılan özel bir osu! hesap türüdür. Websitesinde, `BOT` etiketli beyaz bir grup rozetine sahiptir, ve profillerinde sadece `ben!` kısmı görünür. Bot hesapları çoğunlukla [çoklu oyunculu](/wiki/Multi) lobi kanalları veya özel mesajlar aracılığıyla topluluğa çeşitli hizmetler sunan "sohbet botlarını" barındırmak için kullanılır.
+**Bot hesabı** gerçek bir kişi yerine otomatik bir hizmet sağlayıcısı tarafından kullanılan özel bir osu! hesap türüdür. Websitesinde, `BOT` etiketli beyaz bir grup rozetine sahiptir, ve profillerinde sadece `ben!` kısmı görünür. Bot hesapları çoğunlukla [çoklu oyunculu](/wiki/Client/Interface/Multiplayer) lobi kanalları veya özel mesajlar aracılığıyla topluluğa çeşitli hizmetler sunan "sohbet botlarını" barındırmak için kullanılır.
 
 Bot hesapları yalnızca bir [başvuru süreci](#bot-hesabı-oluşturmak) ile oluşturulabilir. Bot hesabı oluşturma amacıyla normal yollarla kaydolmak birden fazla hesap kullanımı sayılır ve [topluluk kurallarına](/wiki/Rules#topluluk-kuralları) aykırıdır.
 
 ## Bot hesaplarının faydaları
 
-Kişisel hesaplar ve bot hesapları arasındaki en temel fark [sohbette](/wiki/Chat_Console) mesaj gönderirken uygulanan mesaj kotasıdır. Hesabın [susturulma](/wiki/Silence) riski olmaksızın sağladığı hizmetlerin daha fazla kullanıcıyla etkileşebilmesi için bot hesapları daha yüksek bir kotaya sahiptir:
+Kişisel hesaplar ve bot hesapları arasındaki en temel fark [sohbette](/wiki/Client/Interface/Chat_console) mesaj gönderirken uygulanan mesaj kotasıdır. Hesabın [susturulma](/wiki/Silence) riski olmaksızın sağladığı hizmetlerin daha fazla kullanıcıyla etkileşebilmesi için bot hesapları daha yüksek bir kotaya sahiptir:
 
 - Kişisel hesaplar her 5 saniyede 10 mesaj gönderebilir
 - Bot hesapları her 60 saniyede 300 mesaj gönderebilir
@@ -56,7 +58,4 @@ E-postanın içeriği aşağıdakileri içermelidir:
 ## Ek bilgiler
 
 - `Sohbet Botları` grubunda (grup #29) olan hesaplarda `BOT` grup rozeti bulunur. Grup listesi herkese açık değildir.
-- Bazı kişisel hesaplar sohbet botları grubundadır çünkü sahipleri sundukları hizmet için ayrı bir bot hesabı açmak istememişler ya da talep etmemişlerdir, örneğin ![][flag_DE] [Tillerino](https://osu.ppy.sh/users/2070907) ve ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454). Bu tarz bir kurulum artık teklif edilmemektedir, ve gruba dahil olan yeni botlar her zaman için özel bir hesapta bulunurlar.
-
-[flag_DE]: /wiki/shared/flag/DE.gif "Almanya"
-[flag_FR]: /wiki/shared/flag/FR.gif "Fransa"
+- Bazı kişisel hesaplar sohbet botları grubundadır çünkü sahipleri sundukları hizmet için ayrı bir bot hesabı açmak istememişler ya da talep etmemişlerdir, örneğin ::{ flag=DE }:: [Tillerino](https://osu.ppy.sh/users/2070907) ve ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454). Bu tarz bir kurulum artık teklif edilmemektedir, ve gruba dahil olan yeni botlar her zaman için özel bir hesapta bulunurlar.

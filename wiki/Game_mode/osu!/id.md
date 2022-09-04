@@ -1,8 +1,11 @@
-<!-- TODO: strange descriptions in many places and unhelpful order if you're trying to see what this game mode is all about. -->
+---
+outdated_translation: true
+outdated_since: 2dccc07cb4759a455196482e5f00383834f9813b
+---
 
 # osu! (mode permainan)
 
-*Untuk kegunaan lain, lihat [osu! (disambiguasi)](/wiki/Disambiguasi/osu!).*
+*Untuk kegunaan lain, lihat [osu! (disambiguasi)](/wiki/Disambiguation/osu!).*
 
 ![Tampilan antarmuka permainan osu!](/wiki/shared/osu-gameplay.jpg "Tampilan antarmuka permainan osu!")
 
@@ -80,7 +83,7 @@ Pada kotak kecil yang terdapat pada bagian bawah layar, kamu dapat melihat seber
 
 ## Play style
 
-*Mohon lihat laman [Gaya permainan](/wiki/Play_Styles) untuk informasi lebih lanjut seputar gaya-gaya permainan yang umum digunakan di osu!.*
+*Mohon lihat laman [Gaya permainan](/wiki/Play_style) untuk informasi lebih lanjut seputar gaya-gaya permainan yang umum digunakan di osu!.*
 
 ## Kontrol
 
@@ -96,7 +99,7 @@ Apabila kamu bermain menggunakan mod [Relax](/wiki/Game_modifier/Relax), kamu ha
 
 ## Penilaian
 
-*Mohon lihat laman [Penilaian skor pada mode osu!](/wiki/Score#osu) untuk informasi lebih lanjut seputar penilaian skor yang dipakai oleh osu!.*
+*Mohon lihat laman [Sistem skor pada mode osu!](/wiki/Gameplay/Score/osu!) untuk informasi lebih lanjut seputar penilaian skor yang dipakai oleh osu!.*
 
 Berikut ini adalah penjelasan mengenai penilaian skor yang digunakan dipakai oleh osu! untuk menentukan skor kamu.
 
@@ -150,7 +153,7 @@ Sedangkan pada bagian spinner, bonus tambahan senilai 1.000 poin akan diberikan 
 
 #### Perhitungan Difficulty multiplier
 
-[Circle Size (CS)](/wiki/Beatmap_Editor/Song_Setup), [HP Drain (HP)](/wiki/Beatmap_Editor/Song_Setup) dan [Overall Difficulty (OD)](/wiki/Beatmap_Editor/Song_Setup) masing-masing memiliki pengaruhnya tersendiri pada *difficulty point*.
+[Circle Size (CS)](/wiki/Client/Beatmap_editor/Song_Setup), [HP Drain (HP)](/wiki/Client/Beatmap_editor/Song_Setup) dan [Overall Difficulty (OD)](/wiki/Client/Beatmap_editor/Song_Setup) masing-masing memiliki pengaruhnya tersendiri pada *difficulty point*.
 
 *Difficulty point* yang terkumpul juga dapat mempengaruhi **Difficulty multiplier** dengan ketentuan sebagai berikut sebagai berikut:
 
@@ -260,13 +263,13 @@ Sistem yang digunakan untuk menghitung *health drain* dan *health gain* per obje
 - Mengubah arah putaran di tengah putaran spinner akan menyebabkan spinner melakukan penyetelan ulang terhadap orientasi putaran. Mula-mula, spinner akan menurunkan putaran per menit ke 0. Kemudian, spinner akan melakukan penyetelan ulang dan mulai berputar ke arah yang benar.
 - Putaran spinner **tidak** akan dianggap valid jika kamu tidak melakukan putaran di sekitar inti tengah dari spinner.
 - Efek asap akan bertahan lebih lama daripada jejak kursor dalam game. Oleh karena itu, terapkan efek asap sesekali untuk mencegah efek asap sebelumnya menghilang terlalu cepat.
-- Maskot untuk osu! adalah [pippi](/wiki/Mascots#-pippi).
+- Maskot untuk osu! adalah [pippi](/wiki/Mascots#pippi).
 - Ketika kamu menggunakan mod [Auto](/wiki/Game_modifier/Auto), nama pemain akan ditampilkan sebagai osu!.
 
 ### Sejarah
 
 - Pada versi lama, osu! menggunakan beberapa elemen dari seri *Ouendan* sebelum akhirnya mulai dihapus atau digantikan.
-  - Efek [kombo api](/wiki/Glossary/Combo_fire) yang muncul ketika mencapai kombo baru.
+  - Efek [kombo api](/wiki/Gameplay/Combo_fire) yang muncul ketika mencapai kombo baru.
   - Versi pertama pada skin default menggunakan perilaku skin v1 yang merupakan skin *osu! Default oleh peppy*, skin ini menyediakan antarmuka yang hampir identik dengan Ouendan.
     - Kemudian, skin tersebut digantikan dengan skin default yang lebih bagus yang menggunakan perilaku skin v2.
   - Perbedaan fitur yang paling mencolok antara perilaku skin v1 dan v2 adalah pada bagian spinner.

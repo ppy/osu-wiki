@@ -7,7 +7,7 @@
 - [継承されていない("赤い")オフセット](/wiki/Beatmapping/Offset)は、曲の最初のダウンビート、または新しいタイミングセクションの開始を示す
 - [オンラインオフセット](/wiki/Beatmap/Online_offset)、正しくなく継承されていないオフセットを持つRankedビートマップを調整するために、[NAT](/wiki/People/The_Team/Nomination_Assessment_Team)によって適用されるタイミングの変更のこと
 - [ローカル("オフライン")オフセット](/wiki/Glossary/Local_song_offset)、ビートマップごとの設定で、ゲームプレイ中にオブジェクトのタイミングをずらすもの
-- [ユニバーサルオフセット](/wiki/Universal_offset)、ビートマップのタイミングにグローバルに影響するクライアント設定
+- [ユニバーサルオフセット](/wiki/Client/Options/Universal_offset)、ビートマップのタイミングにグローバルに影響するクライアント設定
 
 ## ビートマップ設定
 

@@ -13,3 +13,4 @@ Laman indeks untuk semua seri osu!taiko World Cup.
 - [osu!taiko World Cup 2019](2019)
 - [osu!taiko World Cup 2020](2020)
 - [osu!taiko World Cup 2021](2021)
+- [osu!taiko World Cup 2022](2022)

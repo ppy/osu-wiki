@@ -152,7 +152,7 @@ As a bit of extra news, we're excited to highlight a recent change to the [beatm
 
 You can now search for beatmaps ranked in a specific year using special shorthand syntax by using things like `ranked=2010`. You may also search for specific keys for osu!mania beatmaps, via `keys=7`. 
 
-A complete list of possible search options can be found on the [Interface wiki page](/wiki/Interface#search).
+A complete list of possible search options can be found on the [Interface wiki page](/wiki/Client/Interface#search).
 
 ### dsco's Guide to Making and Ranking the First Mapset
 
@@ -164,7 +164,7 @@ Here's a vod of the stream that compiles all aspects of mapping in 9 hours:
 
 <iframe src="https://player.twitch.tv/?video=974267996&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="100%"></iframe>
 
-<a id="conclusion"></a>
+{#conclusion}
 
 ---
 

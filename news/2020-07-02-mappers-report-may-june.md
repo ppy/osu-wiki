@@ -42,7 +42,7 @@ As every month we keep you up to date with the changes to the Ranking Criteria. 
 
 ## Open Ranking Criteria Proposals
 
-There are various open Ranking Criteria proposals in the [forum](https://osu.ppy.sh/community/forums/87). Many of them are listed in the last issue of the [Mappers' Report](https://osu.ppy.sh/home/news/2020-05-11-mappers-report-april#rc-changes), but we also have some new ones which you can find below!
+There are various open Ranking Criteria proposals in the [forum](https://osu.ppy.sh/community/forums/87). Many of them are listed in the last issue of the [Mappers' Report](https://osu.ppy.sh/home/news/2020-05-11-mappers-report-april#ranking-criteria-changes), but we also have some new ones which you can find below!
 
 For all modes:
 
@@ -236,7 +236,7 @@ If you'd like to help out by reviewing articles, writing them, or translating th
 
 The world needs you!
 
-<a id="conclusion"></a>
+{#conclusion}
 
 ---
 

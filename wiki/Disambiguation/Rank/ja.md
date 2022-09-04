@@ -8,6 +8,6 @@ tags:
 
 **ランク**には複数の意味があります:
 
-- [レターグレード](/wiki/Grade)
+- [レターグレード](/wiki/Gameplay/Grade)
 - [プレイヤーランキング](/wiki/Ranking)、またはオンラインリーダーボードでの順位
 - [ビートマップのランキング手続き](/wiki/Beatmap_ranking_procedure)をすることを意味する動詞の"ランク付けする"

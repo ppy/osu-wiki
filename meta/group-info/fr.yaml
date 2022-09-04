@@ -1,11 +1,11 @@
 separator: ", "
 alumni:
   roles:
-    academy: créateur de la osu!academy
+    academy: créateur de l'osu!academy
     admin: administration
     chat: modérateur de tchat
     dev: osu!dev
-    media: créateur de osu!media
+    media: créateur d'osu!media
     support: équipe du support
     tournaments: gestion des tournois
 gmt:
@@ -29,38 +29,5 @@ nat:
     structural: structure
 languages:
   partial: un peu de <language>
-  ar: Arabe
-  bg: Bulgare
-  bn: Bengali
-  ca: Catalan
-  da: Danois
-  de: Allemand
-  el: Grec
-  es: Espagnol
-  et: Estonien
-  fi: Finlandais
-  fil: Philippin
-  fr: Français
-  gl: Galician
-  hr: Croate
-  hu: Hongrois
-  id: Indonésien
-  it: Italien
-  ja: Japonais
-  ko: Coréen
-  ms: Malais
-  nl: Néerlandais
-  no: Norvégien
-  pl: Polonais
-  pt: Portugais
-  ro: Roumain
-  ru: Russe
-  sr: Serbe
-  sv: Suédois
-  te: Telugu
-  th: Thaïlandais
-  tr: Turc
-  ur: Urdu
-  vi: Vietnamien
-  yue: Cantonais
-  zh: Chinois
+  partial_vowel_prefix: un peu d'<language> # This key is specific to FR
+  fil: philippin

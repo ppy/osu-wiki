@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated_translation: true
 ---
 
 # FAQ
@@ -18,7 +18,7 @@ Pudes ver los círculos en la pantalla inferior, y en la pantalla superior tiene
 
 *Explicación completa: [osu! Standard](/wiki/Game_mode/osu!)*
 
-Aunque la mayoría de los usuarios de PC no tiene una pantalla táctil a su disposición, este juego fue hecho para ser jugable con un ratón normal, así como cualquier número de dispositivos de entrada que puedas imaginar. Los diferentes estilos de juego pueden ser encontrados en [ésta](/wiki/Play_Styles) página. Existen algunas canciones que prolongan los límites del ratón normal (y de ti), pero todos los beatmaps ([rankeados](/wiki/Beatmap) y [aprobados](/wiki/Beatmap)) han sido probados y (la mayoría) son posibles de pasar solo con un ratón.
+Aunque la mayoría de los usuarios de PC no tiene una pantalla táctil a su disposición, este juego fue hecho para ser jugable con un ratón normal, así como cualquier número de dispositivos de entrada que puedas imaginar. Los diferentes estilos de juego pueden ser encontrados en [ésta](/wiki/Play_style) página. Existen algunas canciones que prolongan los límites del ratón normal (y de ti), pero todos los beatmaps ([rankeados](/wiki/Beatmap/Category#beatmaps-rankeados) y aprobados) han sido probados y (la mayoría) son posibles de pasar solo con un ratón.
 
 #### Lo Básico del Juego
 
@@ -26,7 +26,7 @@ Aunque la mayoría de los usuarios de PC no tiene una pantalla táctil a su disp
 
 El juego pone énfasis en:
 
-- La capacidad de adaptación y reacción a los estímulos (así es, los ["Hit Objects"](/wiki/Hit_Objects) aparecen en pantalla a la velocidad de la luz)
+- La capacidad de adaptación y reacción a los estímulos (así es, los ["Hit Objects"](/wiki/Hit_object) aparecen en pantalla a la velocidad de la luz)
 - Entender el ritmo y diseño de la canción.
 - El control sobre tu ratón (o tus habilidades de dedos/uso de bolígrafo si estás usando una tablet en su lugar)
 - Sincronizar tus toques con el objeto que aparece en la pantalla.
@@ -84,7 +84,7 @@ Esta es la interfaz del estilo de juego osu! Standard.
 
 - La barra superior izquierda muestra tu "salud".
   - Esta disminuirá a un ritmo constante \[dependiendo de la dificultad del beatmap establecida por el(los) [mapper(s)](/wiki/Beatmapping), pero puedes reponerlo presionando las notas en el momento correcto.
-  - Un "hit" (golpe) perfecto ([300](/wiki/Score#osu!) o Geki Beat) incrementará tu salud más que un hit mal hecho([50](/wiki/Score#osu!)).
+  - Un "hit" (golpe) perfecto ([300](/wiki/Gameplay/Score/osu!) o Geki Beat) incrementará tu salud más que un hit mal hecho([50](/wiki/Gameplay/Score/osu!)).
   - Muchos errores quitarán una buena parte de tu salud.
 - Al lado de la barra de salud (a la derecha) se muestra tu puntaje.
 - Debajo del puntaje está tu precisión.
@@ -261,7 +261,7 @@ Alternativamente, puedes [ordenar la lista de betmaps rankeados por dificultad](
 
 Absolutamente nada. No hay ningún tipo de diferencia cuando comparas a un jugador Nivel 100 contra un jugador Nivel 1 excepto sus propias habilidades y su experiencia. No existe una desventaja para el nivel más bajo, ni existe una ventaja para el nivel más alto (excepto la experiencia personal y el hardware usado).
 
-El nivel se basa en tu puntaje total acumulado cuando estas "online" con tu cuenta si fallas o pasas el beatmap. [Fórmula aquí](/wiki/Score)
+El nivel se basa en tu puntaje total acumulado cuando estas "online" con tu cuenta si fallas o pasas el beatmap. [Fórmula aquí](/wiki/Gameplay/Score)
 
 ### ¿Por qué las estadísticas de mi perfil son diferentes con las del juego?
 

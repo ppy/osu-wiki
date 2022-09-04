@@ -14,7 +14,7 @@ Need a refresher on the **Monthly Beatmapping Contest** (***MBC***)? The [MBC wi
 
 May's contest covered osu!, osu!taiko, and osu!mania, but **only osu!**'s results are being announced for now. The other two modes will be published a bit later, as explained in [the last MBC announcement](https://osu.ppy.sh/home/news/2021-06-07-monthly-beatmapping-contest-june-2021#schedule). Look out for that soon!
 
-| User | Placement | Badge prize | Title prize | [MBC Points](/wiki/Contests/Monthly_Beatmapping_Contest#prizes) |
+| User | Placement | Badge prize | Title prize | [MBC Points](/wiki/Contests/Monthly_Beatmapping_Contest#rewards) |
 | :-- | :-- | :-- | :-- | :-- |
 | [DeviousPanda](https://osu.ppy.sh/users/4966334) | Winner | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | - | 2 (⯅2) |
 | [kuyusu](https://osu.ppy.sh/users/11758667) | Runner-up + Screener's pick | ![](https://assets.ppy.sh/profile-badges/mbc-2020-1.png) | - | 2 (⯅2) |
@@ -27,16 +27,16 @@ For reference, this contest's [limitation](https://osu.ppy.sh/home/news/2021-05-
 
 | Rank | Beatmap | Judging | Musical representation (70) | Creativity (70) | Gameplay (70) | Limitation (35) | Total (raw/standardized) |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| \#1 | [*The Game Changer*](https://osu.ppy.sh/beatmapsets/1501472) by [DeviousPanda](https://osu.ppy.sh/users/4966334) | [see details](https://mappersguild.com/contestresults?submission=60aff5317edff1508cf083d4) | 64 | 51 | 62 | 32 | **209** (**8.22**) |
-| \#2 | [*Frostbite*](https://osu.ppy.sh/beatmapsets/1501495) by [kuyusu](https://osu.ppy.sh/users/11758667) | [see details](https://mappersguild.com/contestresults?submission=60aff52f7edff1508cf083a6) | 58 | 59 | 58 | 31 | **206** (**6.91**) |
-| \#3 | [*Frostbite*](https://osu.ppy.sh/beatmapsets/1501475) by [Zetera](https://osu.ppy.sh/users/587737) | [see details](https://mappersguild.com/contestresults?submission=60aff5307edff1508cf083c0) | 58 | 50 | 57 | 28 | **193** (**4.01**) |
-| \#4 | [*Frostbite*](https://osu.ppy.sh/beatmapsets/1501511) by [Niva](https://osu.ppy.sh/users/197805) | [see details](https://mappersguild.com/contestresults?submission=60aff52f7edff1508cf083ab) | 50 | 42 | 54 | 26 | **172** (**0.07**) |
-| \#5 | [*Frostbite*](https://drive.google.com/file/d/1NyRVOb_R89KfYzantHdKIsHWFVBetIqt/view?usp=sharing) by [Alvieee](https://osu.ppy.sh/users/3579669) | [see details](https://mappersguild.com/contestresults?submission=60aff5307edff1508cf083bc) | 48 | 43 | 52 | 25 | **168** (**-1.87**) |
-| \#6 | [*Frostbite*](https://osu.ppy.sh/beatmapsets/1501483) by [I love JrSzZ](https://osu.ppy.sh/users/6750761) | [see details](https://mappersguild.com/contestresults?submission=60aff5317edff1508cf083ca) | 46 | 44 | 47 | 25 | **162** (**-4.15**) |
-| \#7 | [*busy come, busy go*](https://osu.ppy.sh/beatmapsets/1501489) by [zev](https://osu.ppy.sh/users/7089648) | [see details](https://mappersguild.com/contestresults?submission=60aff5307edff1508cf083c4) | 41 | 39 | 37 | 28 | **145** (**-6.47**) |
-| \#8 | [*busy come, busy go*](https://osu.ppy.sh/beatmapsets/1501473) by [Mithia](https://osu.ppy.sh/users/9748438) | [see details](https://mappersguild.com/contestresults?submission=60aff5307edff1508cf083b1) | 42 | 35 | 44 | 25 | **146** (**-6.73**) |
+| \#1 | [*The Game Changer*](https://osu.ppy.sh/beatmapsets/1501472) by [DeviousPanda](https://osu.ppy.sh/users/4966334) | [see details](https://mappersguild.com/contests/results?submission=60aff5317edff1508cf083d4) | 64 | 51 | 62 | 32 | **209** (**8.22**) |
+| \#2 | [*Frostbite*](https://osu.ppy.sh/beatmapsets/1501495) by [kuyusu](https://osu.ppy.sh/users/11758667) | [see details](https://mappersguild.com/contests/results?submission=60aff52f7edff1508cf083a6) | 58 | 59 | 58 | 31 | **206** (**6.91**) |
+| \#3 | [*Frostbite*](https://osu.ppy.sh/beatmapsets/1501475) by [Zetera](https://osu.ppy.sh/users/587737) | [see details](https://mappersguild.com/contests/results?submission=60aff5307edff1508cf083c0) | 58 | 50 | 57 | 28 | **193** (**4.01**) |
+| \#4 | [*Frostbite*](https://osu.ppy.sh/beatmapsets/1501511) by [Niva](https://osu.ppy.sh/users/197805) | [see details](https://mappersguild.com/contests/results?submission=60aff52f7edff1508cf083ab) | 50 | 42 | 54 | 26 | **172** (**0.07**) |
+| \#5 | [*Frostbite*](https://drive.google.com/file/d/1NyRVOb_R89KfYzantHdKIsHWFVBetIqt/view?usp=sharing) by [Alvieee](https://osu.ppy.sh/users/3579669) | [see details](https://mappersguild.com/contests/results?submission=60aff5307edff1508cf083bc) | 48 | 43 | 52 | 25 | **168** (**-1.87**) |
+| \#6 | [*Frostbite*](https://osu.ppy.sh/beatmapsets/1501483) by [I love JrSzZ](https://osu.ppy.sh/users/6750761) | [see details](https://mappersguild.com/contests/results?submission=60aff5317edff1508cf083ca) | 46 | 44 | 47 | 25 | **162** (**-4.15**) |
+| \#7 | [*busy come, busy go*](https://osu.ppy.sh/beatmapsets/1501489) by [zev](https://osu.ppy.sh/users/7089648) | [see details](https://mappersguild.com/contests/results?submission=60aff5307edff1508cf083c4) | 41 | 39 | 37 | 28 | **145** (**-6.47**) |
+| \#8 | [*busy come, busy go*](https://osu.ppy.sh/beatmapsets/1501473) by [Mithia](https://osu.ppy.sh/users/9748438) | [see details](https://mappersguild.com/contests/results?submission=60aff5307edff1508cf083b1) | 42 | 35 | 44 | 25 | **146** (**-6.73**) |
 
-[See results for all osu! submissions here](https://mappersguild.com/contestresults?contest=60aff4c27edff1508cf083a3)
+[See results for all osu! submissions here](https://mappersguild.com/contests/results?contest=60aff4c27edff1508cf083a3)
 
 ### Winner
 

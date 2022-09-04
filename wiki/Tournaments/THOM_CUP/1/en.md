@@ -38,13 +38,13 @@ tags:
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
-| Coordinator | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612) |
-| Mappool selector | ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612) |
-| Referee | ![][flag_ES] [aitor98](https://osu.ppy.sh/users/3154852), ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_US] [Ciel](https://osu.ppy.sh/users/1455309), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_BE] [NightNarumi](https://osu.ppy.sh/users/4381142), ![][flag_BR] [spoonguy](https://osu.ppy.sh/users/932381), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
-| Streamer | ![][flag_FI] [Camopoltergeist](https://osu.ppy.sh/users/8132964), ![][flag_GB] [Hydria](https://osu.ppy.sh/users/808176), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [Open](https://osu.ppy.sh/users/7082921), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612) |
-| Commentator | ![][flag_US] [Gekido-](https://osu.ppy.sh/users/4693052), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_US] [Nivrad00](https://osu.ppy.sh/users/1984634), ![][flag_PL] [Open](https://osu.ppy.sh/users/7082921), ![][flag_ID] [RemFangirl](https://osu.ppy.sh/users/5767941), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [Teggom](https://osu.ppy.sh/users/2588470), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
-| Statistician | ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
+| Host | ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) |
+| Coordinator | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656), ::{ flag=PL }:: [Kamikaze](https://osu.ppy.sh/users/2124783), ::{ flag=US }:: [stupud man](https://osu.ppy.sh/users/2141612) |
+| Mappool selector | ::{ flag=MY }:: [Cryolien](https://osu.ppy.sh/users/1626983), ::{ flag=PL }:: [Kamikaze](https://osu.ppy.sh/users/2124783), ::{ flag=US }:: [stupud man](https://osu.ppy.sh/users/2141612) |
+| Referee | ::{ flag=ES }:: [aitor98](https://osu.ppy.sh/users/3154852), ::{ flag=PL }:: [Benzopirene](https://osu.ppy.sh/users/1887068), ::{ flag=US }:: [Ciel](https://osu.ppy.sh/users/1455309), ::{ flag=PL }:: [Kamikaze](https://osu.ppy.sh/users/2124783), ::{ flag=BE }:: [NightNarumi](https://osu.ppy.sh/users/4381142), ::{ flag=BR }:: [spoonguy](https://osu.ppy.sh/users/932381), ::{ flag=US }:: [stupud man](https://osu.ppy.sh/users/2141612), ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) |
+| Streamer | ::{ flag=FI }:: [Camopoltergeist](https://osu.ppy.sh/users/8132964), ::{ flag=GB }:: [Hydria](https://osu.ppy.sh/users/808176), ::{ flag=PL }:: [Kamikaze](https://osu.ppy.sh/users/2124783), ::{ flag=PL }:: [Open](https://osu.ppy.sh/users/7082921), ::{ flag=US }:: [stupud man](https://osu.ppy.sh/users/2141612) |
+| Commentator | ::{ flag=US }:: [Gekido-](https://osu.ppy.sh/users/4693052), ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656), ::{ flag=PL }:: [Kamikaze](https://osu.ppy.sh/users/2124783), ::{ flag=US }:: [Nivrad00](https://osu.ppy.sh/users/1984634), ::{ flag=PL }:: [Open](https://osu.ppy.sh/users/7082921), ::{ flag=ID }:: [RemFangirl](https://osu.ppy.sh/users/5767941), ::{ flag=US }:: [stupud man](https://osu.ppy.sh/users/2141612), ::{ flag=US }:: [Teggom](https://osu.ppy.sh/users/2588470), ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) |
+| Statistician | ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) |
 
 ## Links
 
@@ -56,23 +56,23 @@ tags:
 
 | Seed | Users |
 | :-- | :-- |
-| Top (#1 - #8) | ![][flag_BR] [Lothus](https://osu.ppy.sh/users/9530019), ![][flag_ES] [aitor98](https://osu.ppy.sh/users/3154852), ![][flag_IT] [Yomiel](https://osu.ppy.sh/users/3461860), ![][flag_FR] [Elementaires](https://osu.ppy.sh/users/2284328), ![][flag_CL] [Skalim](https://osu.ppy.sh/users/2225008), ![][flag_US] [Gekido-](https://osu.ppy.sh/users/4693052), ![][flag_US] [Alternater](https://osu.ppy.sh/users/4980256), ![][flag_BR] [UrsoManso](https://osu.ppy.sh/users/4569601) |
-| High (#9 - #16) | ![][flag_RU] [Mage](https://osu.ppy.sh/users/5527957), ![][flag_BR] [Keweft](https://osu.ppy.sh/users/75777), ![][flag_RO] [robby250](https://osu.ppy.sh/users/2653437), ![][flag_BR] [spoonguy](https://osu.ppy.sh/users/932381), ![][flag_US] [dewero](https://osu.ppy.sh/users/2644993), ![][flag_US] [-Squishy](https://osu.ppy.sh/users/4372604), ![][flag_GB] [Hayabusa](https://osu.ppy.sh/users/3104108), ![][flag_US] [Craig](https://osu.ppy.sh/users/3565377) |
-| Middle (#17 - #48) | ![][flag_CH] [Gamer97](https://osu.ppy.sh/users/4952941), ![][flag_GB] [PikachuNick](https://osu.ppy.sh/users/4168230), ![][flag_BR] [SillyFangirl](https://osu.ppy.sh/users/2288363), ![][flag_CL] [Asagaki](https://osu.ppy.sh/users/2632902), ![][flag_IE] [Barry](https://osu.ppy.sh/users/3728315), ![][flag_DE] [rohen04](https://osu.ppy.sh/users/369614), ![][flag_CA] [Niisound](https://osu.ppy.sh/users/970979), ![][flag_PL] [-Karen-chan-](https://osu.ppy.sh/users/1333495), ![][flag_RU] [Daleenie](https://osu.ppy.sh/users/1540597), ![][flag_SE] [Craty](https://osu.ppy.sh/users/3918056), ![][flag_GB] [xSnaggles](https://osu.ppy.sh/users/3799946), ![][flag_FR] [MillaMaxwelle](https://osu.ppy.sh/users/6264519), ![][flag_VE] [Aezlack](https://osu.ppy.sh/users/8065567), ![][flag_ES] [Userbacker](https://osu.ppy.sh/users/1872307), ![][flag_DE] [Malox](https://osu.ppy.sh/users/4516252), ![][flag_RU] [Kivicat](https://osu.ppy.sh/users/2790640), ![][flag_SE] [Sadcat](https://osu.ppy.sh/users/4123399), ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_US] [Teggom](https://osu.ppy.sh/users/2588470), ![][flag_FR] [AntoAa](https://osu.ppy.sh/users/3897919), ![][flag_BR] [Lazarento](https://osu.ppy.sh/users/3224958), ![][flag_BY] [MatVeiQaaa](https://osu.ppy.sh/users/6283029), ![][flag_DK] [Jole](https://osu.ppy.sh/users/2883132), ![][flag_DE] [ReTLoM](https://osu.ppy.sh/users/2271049), ![][flag_MX] [Reba](https://osu.ppy.sh/users/3087654), ![][flag_BR] [CALCIO01](https://osu.ppy.sh/users/7897834), ![][flag_RU] [timebuka](https://osu.ppy.sh/users/6857841), ![][flag_BR] [andreymc](https://osu.ppy.sh/users/5691061), ![][flag_BR] [Kiki-chan](https://osu.ppy.sh/users/5642989), ![][flag_BR] [LothusFangirl](https://osu.ppy.sh/users/4685756), ![][flag_CL] [Chamelforito](https://osu.ppy.sh/users/6288548), ![][flag_PL] [Hentu](https://osu.ppy.sh/users/7706642) |
-| Low (#49 - #64) | ![][flag_DE] [playin14](https://osu.ppy.sh/users/2144038), ![][flag_RU] [PhobosX](https://osu.ppy.sh/users/2570019), ![][flag_US] [afrono](https://osu.ppy.sh/users/1320102), ![][flag_GT] [Lude](https://osu.ppy.sh/users/6974536), ![][flag_NL] [Freek](https://osu.ppy.sh/users/9630674), ![][flag_ES] [Summit-](https://osu.ppy.sh/users/7860283), ![][flag_VE] [\[\_Chichinya\_\]](https://osu.ppy.sh/users/2140739), ![][flag_PL] [capsafangirl](https://osu.ppy.sh/users/4308015), ![][flag_CL] [Matiias](https://osu.ppy.sh/users/3215366), ![][flag_NO] [Bizarrely\_F4st](https://osu.ppy.sh/users/7676585), ![][flag_CO] [D4M14AN](https://osu.ppy.sh/users/6406254), ![][flag_BR] [coldloops](https://osu.ppy.sh/users/7687433), ![][flag_DE] [ElectroYan](https://osu.ppy.sh/users/3357640), ![][flag_PL] [Alicejoy](https://osu.ppy.sh/users/10678683), ![][flag_PL] [Brunosky](https://osu.ppy.sh/users/1639587), ![][flag_PL] [Hlimak](https://osu.ppy.sh/users/1340272) |
+| Top (#1 - #8) | ::{ flag=BR }:: [Lothus](https://osu.ppy.sh/users/9530019), ::{ flag=ES }:: [aitor98](https://osu.ppy.sh/users/3154852), ::{ flag=IT }:: [Yomiel](https://osu.ppy.sh/users/3461860), ::{ flag=FR }:: [Elementaires](https://osu.ppy.sh/users/2284328), ::{ flag=CL }:: [Skalim](https://osu.ppy.sh/users/2225008), ::{ flag=US }:: [Gekido-](https://osu.ppy.sh/users/4693052), ::{ flag=US }:: [Alternater](https://osu.ppy.sh/users/4980256), ::{ flag=BR }:: [UrsoManso](https://osu.ppy.sh/users/4569601) |
+| High (#9 - #16) | ::{ flag=RU }:: [Mage](https://osu.ppy.sh/users/5527957), ::{ flag=BR }:: [Keweft](https://osu.ppy.sh/users/75777), ::{ flag=RO }:: [robby250](https://osu.ppy.sh/users/2653437), ::{ flag=BR }:: [spoonguy](https://osu.ppy.sh/users/932381), ::{ flag=US }:: [dewero](https://osu.ppy.sh/users/2644993), ::{ flag=US }:: [-Squishy](https://osu.ppy.sh/users/4372604), ::{ flag=GB }:: [Hayabusa](https://osu.ppy.sh/users/3104108), ::{ flag=US }:: [Craig](https://osu.ppy.sh/users/3565377) |
+| Middle (#17 - #48) | ::{ flag=CH }:: [Gamer97](https://osu.ppy.sh/users/4952941), ::{ flag=GB }:: [PikachuNick](https://osu.ppy.sh/users/4168230), ::{ flag=BR }:: [SillyFangirl](https://osu.ppy.sh/users/2288363), ::{ flag=CL }:: [Asagaki](https://osu.ppy.sh/users/2632902), ::{ flag=IE }:: [Barry](https://osu.ppy.sh/users/3728315), ::{ flag=DE }:: [rohen04](https://osu.ppy.sh/users/369614), ::{ flag=CA }:: [Niisound](https://osu.ppy.sh/users/970979), ::{ flag=PL }:: [-Karen-chan-](https://osu.ppy.sh/users/1333495), ::{ flag=RU }:: [Daleenie](https://osu.ppy.sh/users/1540597), ::{ flag=SE }:: [Craty](https://osu.ppy.sh/users/3918056), ::{ flag=GB }:: [xSnaggles](https://osu.ppy.sh/users/3799946), ::{ flag=FR }:: [MillaMaxwelle](https://osu.ppy.sh/users/6264519), ::{ flag=VE }:: [Aezlack](https://osu.ppy.sh/users/8065567), ::{ flag=ES }:: [Userbacker](https://osu.ppy.sh/users/1872307), ::{ flag=DE }:: [Malox](https://osu.ppy.sh/users/4516252), ::{ flag=RU }:: [Kivicat](https://osu.ppy.sh/users/2790640), ::{ flag=SE }:: [Sadcat](https://osu.ppy.sh/users/4123399), ::{ flag=PL }:: [Benzopirene](https://osu.ppy.sh/users/1887068), ::{ flag=US }:: [Teggom](https://osu.ppy.sh/users/2588470), ::{ flag=FR }:: [AntoAa](https://osu.ppy.sh/users/3897919), ::{ flag=BR }:: [Lazarento](https://osu.ppy.sh/users/3224958), ::{ flag=BY }:: [MatVeiQaaa](https://osu.ppy.sh/users/6283029), ::{ flag=DK }:: [Jole](https://osu.ppy.sh/users/2883132), ::{ flag=DE }:: [ReTLoM](https://osu.ppy.sh/users/2271049), ::{ flag=MX }:: [Reba](https://osu.ppy.sh/users/3087654), ::{ flag=BR }:: [CALCIO01](https://osu.ppy.sh/users/7897834), ::{ flag=RU }:: [timebuka](https://osu.ppy.sh/users/6857841), ::{ flag=BR }:: [andreymc](https://osu.ppy.sh/users/5691061), ::{ flag=BR }:: [Kiki-chan](https://osu.ppy.sh/users/5642989), ::{ flag=BR }:: [LothusFangirl](https://osu.ppy.sh/users/4685756), ::{ flag=CL }:: [Chamelforito](https://osu.ppy.sh/users/6288548), ::{ flag=PL }:: [Hentu](https://osu.ppy.sh/users/7706642) |
+| Low (#49 - #64) | ::{ flag=DE }:: [playin14](https://osu.ppy.sh/users/2144038), ::{ flag=RU }:: [PhobosX](https://osu.ppy.sh/users/2570019), ::{ flag=US }:: [afrono](https://osu.ppy.sh/users/1320102), ::{ flag=GT }:: [Lude](https://osu.ppy.sh/users/6974536), ::{ flag=NL }:: [Freek](https://osu.ppy.sh/users/9630674), ::{ flag=ES }:: [Summit-](https://osu.ppy.sh/users/7860283), ::{ flag=VE }:: [\[\_Chichinya\_\]](https://osu.ppy.sh/users/2140739), ::{ flag=PL }:: [capsafangirl](https://osu.ppy.sh/users/4308015), ::{ flag=CL }:: [Matiias](https://osu.ppy.sh/users/3215366), ::{ flag=NO }:: [Bizarrely\_F4st](https://osu.ppy.sh/users/7676585), ::{ flag=CO }:: [D4M14AN](https://osu.ppy.sh/users/6406254), ::{ flag=BR }:: [coldloops](https://osu.ppy.sh/users/7687433), ::{ flag=DE }:: [ElectroYan](https://osu.ppy.sh/users/3357640), ::{ flag=PL }:: [Alicejoy](https://osu.ppy.sh/users/10678683), ::{ flag=PL }:: [Brunosky](https://osu.ppy.sh/users/1639587), ::{ flag=PL }:: [Hlimak](https://osu.ppy.sh/users/1340272) |
 
 ## Groups
 
 | Group | Top | High | Low | Bottom |
 | :-: | :-- | :-- | :-- | :-- |
-| **A** | ![][flag_FR] Elementaires | ![][flag_BR] spoonguy | ![][flag_BR] SillyFangirl | ![][flag_US] Teggom |
-| **B** | ![][flag_BR] UrsoManso | ![][flag_GB] Hayabusa | ![][flag_CL] Asagaki | ![][flag_DK] Jole |
-| **C** | ![][flag_IT] Yomiel | ![][flag_RO] robby250 | ![][flag_RU] Kivicat | ![][flag_US] afrono |
-| **D** | ![][flag_US] Alternater | ![][flag_US] dewero | ![][flag_DE] rohen04 | ![][flag_BY] MatVeiQaaa |
-| **E** | ![][flag_BR] Lothus | ![][flag_BR] Keweft | ![][flag_PL] Benzopirene | ![][flag_BR] Lazarento |
-| **F** | ![][flag_ES] aitor98 | ![][flag_CH] Gamer97 | ![][flag_PL] -Karen-chan- | ![][flag_FR] AntoAa |
-| **G** | ![][flag_CL] Skalim | ![][flag_RU] Mage | ![][flag_GB] PikachuNick | ![][flag_BR] andreymc |
-| **H** | ![][flag_US] Gekido- | ![][flag_US] Craig | ![][flag_RU] Daleenie | ![][flag_BR] CALCIO01 |
+| **A** | ::{ flag=FR }:: Elementaires | ::{ flag=BR }:: spoonguy | ::{ flag=BR }:: SillyFangirl | ::{ flag=US }:: Teggom |
+| **B** | ::{ flag=BR }:: UrsoManso | ::{ flag=GB }:: Hayabusa | ::{ flag=CL }:: Asagaki | ::{ flag=DK }:: Jole |
+| **C** | ::{ flag=IT }:: Yomiel | ::{ flag=RO }:: robby250 | ::{ flag=RU }:: Kivicat | ::{ flag=US }:: afrono |
+| **D** | ::{ flag=US }:: Alternater | ::{ flag=US }:: dewero | ::{ flag=DE }:: rohen04 | ::{ flag=BY }:: MatVeiQaaa |
+| **E** | ::{ flag=BR }:: Lothus | ::{ flag=BR }:: Keweft | ::{ flag=PL }:: Benzopirene | ::{ flag=BR }:: Lazarento |
+| **F** | ::{ flag=ES }:: aitor98 | ::{ flag=CH }:: Gamer97 | ::{ flag=PL }:: -Karen-chan- | ::{ flag=FR }:: AntoAa |
+| **G** | ::{ flag=CL }:: Skalim | ::{ flag=RU }:: Mage | ::{ flag=GB }:: PikachuNick | ::{ flag=BR }:: andreymc |
+| **H** | ::{ flag=US }:: Gekido- | ::{ flag=US }:: Craig | ::{ flag=RU }:: Daleenie | ::{ flag=BR }:: CALCIO01 |
 
 ## Podium
 
@@ -80,9 +80,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | User |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_ES] [aitor98](https://osu.ppy.sh/users/3154852) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_IT] [Yomiel](https://osu.ppy.sh/users/3461860) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_CL] [Skalim](https://osu.ppy.sh/users/2225008) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=ES }:: [aitor98](https://osu.ppy.sh/users/3154852) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=IT }:: [Yomiel](https://osu.ppy.sh/users/3461860) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=CL }:: [Skalim](https://osu.ppy.sh/users/2225008) |
 
 ## Mappools
 
@@ -91,153 +91,153 @@ This competition has come to an end and resulted in the following podium:
 **[Download the mappack here! (97 MB)](https://www.dropbox.com/sh/dhys8odeifwlom8/AAAyH8eQmAoWvUFdwNJC91DRa?dl=0)**
 
 - FreeMod
-  - [penoreri - Sailing Force (AncuL) \[Weigh Anchor\]](https://osu.ppy.sh/beatmapsets/705410#mania/1491970)
-  - [Camellia - Illegal trap (Flexo123) \[EX\]](https://osu.ppy.sh/beatmapsets/756792#mania/1592340)
-  - [Hino Isuika - Dreamin' attraction!!(Extended) (MapleSyrup-) \[Orange Dream\]](https://osu.ppy.sh/beatmapsets/646911#mania/1370533)
-  - [Miyu Tomita & Mariya Ise - Deep in Abyss (LostCool) \[Have you ever seen a dawn?\]](https://osu.ppy.sh/beatmapsets/661622#mania/1400630)
-  - [Camellia - ANOMALY (qodtjr) \[The Last Madness\]](https://osu.ppy.sh/beatmapsets/608901#mania/1285947)
-  - [movies - Realize Maze (Extended Mix) (moni) \[Circuitousness\]](https://osu.ppy.sh/beatmapsets/360188#mania/791775)
-  - M2U remixed celas - Legend of Seeker (stupud man) \[INFERNO (shuffle)\]
-  - [1788-L - P U L S A R / B E A M (MapleSyrup-) \[W Boson\]](https://osu.ppy.sh/beatmapsets/794800#mania/1672321)
-  - [YZYX - .\_Pulse (Kamikaze) \[Beyond\]](https://osu.ppy.sh/beatmapsets/809848#mania/1699295)
-  - Hato - Alastor (stupud man) \[full density (rework)\]
-  - [sakuzyo - AngelFalse (aya) \[Darueru's blessing\]](https://osu.ppy.sh/beatmapsets/453976#mania/973436)
-  - [bj.HaLo - Gekitsui -HELL AIR FORCE- (stupud man) \[Hartmann (rework)\]](https://osu.ppy.sh/beatmapsets/644532#mania/1700662)
-  - [Swordy - I found this in my trash can. (LostCool) \[Please, don't delete\]](https://osu.ppy.sh/beatmapsets/697516#mania/1477471)
-  - [sakuzyo - Altale (Kawawa) \[Delay Master LV.23\]](https://osu.ppy.sh/beatmapsets/594198#mania/1256856)
-  - [Savant - Technodrome (Hydria) \[Edit\]](https://osu.ppy.sh/beatmapsets/810266#mania/1700056)
+  1. [penoreri - Sailing Force (AncuL) \[Weigh Anchor\]](https://osu.ppy.sh/beatmapsets/705410#mania/1491970)
+  2. [Camellia - Illegal trap (Flexo123) \[EX\]](https://osu.ppy.sh/beatmapsets/756792#mania/1592340)
+  3. [Hino Isuika - Dreamin' attraction!!(Extended) (MapleSyrup-) \[Orange Dream\]](https://osu.ppy.sh/beatmapsets/646911#mania/1370533)
+  4. [Miyu Tomita & Mariya Ise - Deep in Abyss (LostCool) \[Have you ever seen a dawn?\]](https://osu.ppy.sh/beatmapsets/661622#mania/1400630)
+  5. [Camellia - ANOMALY (qodtjr) \[The Last Madness\]](https://osu.ppy.sh/beatmapsets/608901#mania/1285947)
+  6. [movies - Realize Maze (Extended Mix) (moni) \[Circuitousness\]](https://osu.ppy.sh/beatmapsets/360188#mania/791775)
+  7. M2U remixed celas - Legend of Seeker (stupud man) \[INFERNO (shuffle)\]
+  8. [1788-L - P U L S A R / B E A M (MapleSyrup-) \[W Boson\]](https://osu.ppy.sh/beatmapsets/794800#mania/1672321)
+  9. [YZYX - .\_Pulse (Kamikaze) \[Beyond\]](https://osu.ppy.sh/beatmapsets/809848#mania/1699295)
+  10. Hato - Alastor (stupud man) \[full density (rework)\]
+  11. [sakuzyo - AngelFalse (aya) \[Darueru's blessing\]](https://osu.ppy.sh/beatmapsets/453976#mania/973436)
+  12. [bj.HaLo - Gekitsui -HELL AIR FORCE- (stupud man) \[Hartmann (rework)\]](https://osu.ppy.sh/beatmapsets/644532#mania/1700662)
+  13. [Swordy - I found this in my trash can. (LostCool) \[Please, don't delete\]](https://osu.ppy.sh/beatmapsets/697516#mania/1477471)
+  14. [sakuzyo - Altale (Kawawa) \[Delay Master LV.23\]](https://osu.ppy.sh/beatmapsets/594198#mania/1256856)
+  15. [Savant - Technodrome (Hydria) \[Edit\]](https://osu.ppy.sh/beatmapsets/810266#mania/1700056)
 - Tiebreaker
-  - **[Chroma - sink to the deep sea world (sankansuki) \[bedrock\]](https://osu.ppy.sh/beatmapsets/529516#mania/1122762)**
+  1. **[Chroma - sink to the deep sea world (sankansuki) \[bedrock\]](https://osu.ppy.sh/beatmapsets/529516#mania/1122762)**
 
 ### Finals
 
 **[Download the mappack here! (119 MB)](https://www.dropbox.com/sh/1sxx31pgh74q4ux/AADmecWg9k3UVpmjSAvVjbgfa?dl=0)**
 
 - FreeMod
-  - [Kyary Pamyu Pamyu - Mottai Night Land (Cuppp) \[Insane\]](https://osu.ppy.sh/beatmapsets/309474#mania/691829)
-  - [wa. - Black Lotus (Rain-) \[CuCu\]](https://osu.ppy.sh/beatmapsets/679321#mania/1436278)
-  - [fripSide - infinite synthesis (\_underjoy) \[Benzopirene's LN MADNESS (cut)\]](https://osu.ppy.sh/beatmapsets/738325#mania/1693911)
-  - [ginkiha - Anemoi (Ramuchi) \[Spring Wind\]](https://osu.ppy.sh/beatmapsets/695382#mania/1473413)
-  - w_tre - FIONA (stupud man) \[Hi (rework)\]
-  - Round Wave Crusher - Slash Dot Slash (Slim boy fat) (Evening) \[destinia vs. estear\]
-  - [PLight - TRIGGER\*HAPPY (Hommarju Remix) (\_underjoy) \[MAXIMUM\]](https://osu.ppy.sh/beatmapsets/708773#mania/1498431)
-  - [3L - Endless night (Fiea) \[deyum\]](https://osu.ppy.sh/beatmapsets/191164#mania/455082)
-  - [Venetian Snares - Ketsarku Mozgalom (wizardoffail) \[only in comparison\]](https://osu.ppy.sh/beatmapsets/347300#mania/766440)
-  - litmus\* - iterated (edit) (Kamikaze) \[7K INFINITE\]
-  - [SHK - Death Moon (-Dhafin-) \[HX\]](https://osu.ppy.sh/beatmapsets/611652#mania/1647600)
-  - [Umarutsufuri - KARURA -OriginalMix- (\_underjoy) \[Maboroshi Yuki\]](https://osu.ppy.sh/beatmapsets/756888#mania/1693865)
-  - [p_d - Dandelion Sparkle!! (qodtjr) \[Sprint\]](https://osu.ppy.sh/beatmapsets/785754#mania/1649634)
-  - [IU - You & I (moni) \[I\]](https://osu.ppy.sh/beatmapsets/376826#mania/824900)
-  - [void - Sudden Romance (\_underjoy) \[Chordmancer (short)\]](https://osu.ppy.sh/beatmapsets/759647#mania/1597751)
+  1. [Kyary Pamyu Pamyu - Mottai Night Land (Cuppp) \[Insane\]](https://osu.ppy.sh/beatmapsets/309474#mania/691829)
+  2. [wa. - Black Lotus (Rain-) \[CuCu\]](https://osu.ppy.sh/beatmapsets/679321#mania/1436278)
+  3. [fripSide - infinite synthesis (\_underjoy) \[Benzopirene's LN MADNESS (cut)\]](https://osu.ppy.sh/beatmapsets/738325#mania/1693911)
+  4. [ginkiha - Anemoi (Ramuchi) \[Spring Wind\]](https://osu.ppy.sh/beatmapsets/695382#mania/1473413)
+  5. w_tre - FIONA (stupud man) \[Hi (rework)\]
+  6. Round Wave Crusher - Slash Dot Slash (Slim boy fat) (Evening) \[destinia vs. estear\]
+  7. [PLight - TRIGGER\*HAPPY (Hommarju Remix) (\_underjoy) \[MAXIMUM\]](https://osu.ppy.sh/beatmapsets/708773#mania/1498431)
+  8. [3L - Endless night (Fiea) \[deyum\]](https://osu.ppy.sh/beatmapsets/191164#mania/455082)
+  9. [Venetian Snares - Ketsarku Mozgalom (wizardoffail) \[only in comparison\]](https://osu.ppy.sh/beatmapsets/347300#mania/766440)
+  10. litmus\* - iterated (edit) (Kamikaze) \[7K INFINITE\]
+  11. [SHK - Death Moon (-Dhafin-) \[HX\]](https://osu.ppy.sh/beatmapsets/611652#mania/1647600)
+  12. [Umarutsufuri - KARURA -OriginalMix- (\_underjoy) \[Maboroshi Yuki\]](https://osu.ppy.sh/beatmapsets/756888#mania/1693865)
+  13. [p_d - Dandelion Sparkle!! (qodtjr) \[Sprint\]](https://osu.ppy.sh/beatmapsets/785754#mania/1649634)
+  14. [IU - You & I (moni) \[I\]](https://osu.ppy.sh/beatmapsets/376826#mania/824900)
+  15. [void - Sudden Romance (\_underjoy) \[Chordmancer (short)\]](https://osu.ppy.sh/beatmapsets/759647#mania/1597751)
 - Tiebreaker
-  - **[xi - Blue Zenith (Jinjin) \[Bluanother III (Stratosphere)\]](https://osu.ppy.sh/beatmapsets/290031#mania/891715)**
+  1. **[xi - Blue Zenith (Jinjin) \[Bluanother III (Stratosphere)\]](https://osu.ppy.sh/beatmapsets/290031#mania/891715)**
 
 ### Semifinals
 
 **[Download the mappack here! (86 MB)](https://www.dropbox.com/sh/izfeyh9fz9vr51y/AABX3bhBVxIHNDkTnE4F1vmTa?dl=0)**
 
 - FreeMod
-  - [xi - Grand Chariot (AncuL) \[Grand Chariot\]](https://osu.ppy.sh/beatmapsets/630588#mania/1331176)
-  - Colorful Sounds Port - Colorful Sounds Cutter (stupud man) \[EX\]
-  - [403 Forbiddena - Southern Cross (Gyukari) \[Holy Cross\]](https://osu.ppy.sh/beatmapsets/741024#mania/1563205)
-  - Fripside - Eternal Reality (TV Size) (Lazarento) \[elahbms\]
-  - [USAO - Boss Rush (Kim_GodSSI) \[BOSS\]](https://osu.ppy.sh/beatmapsets/656816#mania/1391441)
-  - [Yooh - Ice Angel (Blocko) \[Celestia\]](https://osu.ppy.sh/beatmapsets/502932#mania/1070254)
-  - [Renard - Can't Stop Lovin' You (Nivrad00) \[7k Challenge\]](https://osu.ppy.sh/beatmapsets/312234#mania/1625602)
-  - [M2U & Nicode - Lune (Jinjin) \[Moonlight\]](https://osu.ppy.sh/beatmapsets/574591#mania/1216907)
-  - Colorful Sounds Port - ETERNAL DRAIN (stupud man) \[(ETERNAL DELAY\]
-  - [Silent Siren - Routine (Kim_GodSSI) \[Hard\]](https://osu.ppy.sh/beatmapsets/433950#mania/992384)
-  - [Doin - Pine Nut (Garalulu) \[7K Jat :V\]](https://osu.ppy.sh/beatmapsets/612106#mania/1292459)
-  - [Gentle Stick x M2U - Ineffabilis (Wilben_Chan) \[Nightmare\]](https://osu.ppy.sh/beatmapsets/770911#mania/1620760)
-  - [The Algorithm - Isometry (\_underjoy) \[Extra\]](https://osu.ppy.sh/beatmapsets/523432#mania/1670208)
+  1. [xi - Grand Chariot (AncuL) \[Grand Chariot\]](https://osu.ppy.sh/beatmapsets/630588#mania/1331176)
+  2. Colorful Sounds Port - Colorful Sounds Cutter (stupud man) \[EX\]
+  3. [403 Forbiddena - Southern Cross (Gyukari) \[Holy Cross\]](https://osu.ppy.sh/beatmapsets/741024#mania/1563205)
+  4. Fripside - Eternal Reality (TV Size) (Lazarento) \[elahbms\]
+  5. [USAO - Boss Rush (Kim_GodSSI) \[BOSS\]](https://osu.ppy.sh/beatmapsets/656816#mania/1391441)
+  6. [Yooh - Ice Angel (Blocko) \[Celestia\]](https://osu.ppy.sh/beatmapsets/502932#mania/1070254)
+  7. [Renard - Can't Stop Lovin' You (Nivrad00) \[7k Challenge\]](https://osu.ppy.sh/beatmapsets/312234#mania/1625602)
+  8. [M2U & Nicode - Lune (Jinjin) \[Moonlight\]](https://osu.ppy.sh/beatmapsets/574591#mania/1216907)
+  9. Colorful Sounds Port - ETERNAL DRAIN (stupud man) \[(ETERNAL DELAY\]
+  10. [Silent Siren - Routine (Kim_GodSSI) \[Hard\]](https://osu.ppy.sh/beatmapsets/433950#mania/992384)
+  11. [Doin - Pine Nut (Garalulu) \[7K Jat :V\]](https://osu.ppy.sh/beatmapsets/612106#mania/1292459)
+  12. [Gentle Stick x M2U - Ineffabilis (Wilben_Chan) \[Nightmare\]](https://osu.ppy.sh/beatmapsets/770911#mania/1620760)
+  13. [The Algorithm - Isometry (\_underjoy) \[Extra\]](https://osu.ppy.sh/beatmapsets/523432#mania/1670208)
 - Tiebreaker
-  - **lapix - Carry Me Away (Extended Mix) (Evening) \[Airbound (Evening's Flip)\]**
+  1. **lapix - Carry Me Away (Extended Mix) (Evening) \[Airbound (Evening's Flip)\]**
 
 ### Quarterfinals
 
 **[Download the mappack here! (74 MB)](https://www.dropbox.com/sh/ctc0nl39ukpp7dt/AAAjM62IfaTmzZ8X8ZDWQZG8a?dl=0)**
 
 - FreeMod
-  - [Silent Siren - BANG!BANG!BANG! (PP_Aika) \[lvl.33\]](https://osu.ppy.sh/beatmapsets/749566#mania/1578815)
-  - [-45 - 44river (cut) (Jinjin) \[Delayanother\]](https://osu.ppy.sh/beatmapsets/798021#mania/1675866)
-  - [Horie Yui - Asymmetry (Hanazawa Kana) \[Yoyu's Absolution\]](https://osu.ppy.sh/beatmapsets/410999#mania/926281)
-  - [Fallen Shepherd ft. RabbiTon Strings - ENDYMION (Blocko) \[underjoy's Another\]](https://osu.ppy.sh/beatmapsets/707421#mania/1532817)
-  - [cYsmix - Manic (Kiviman) \[Extra\]](https://osu.ppy.sh/beatmapsets/364561#mania/800207)
-  - Snails & Pegboard Nerds - Deep In The Night (Kamikaze) \[Deceptive\]
-  - [LIONE - Leave This Place (ARMNHMR Remix) (Evening) \[We VIP\]](https://osu.ppy.sh/beatmapsets/799170#mania/1677993)
-  - 455 - G e n g a o z o (stupud man) \[GOD (rework)\]
-  - ETIA. - Claiomh Solais (Arzenvald) \[LumiNous\]
-  - [toby fox - MEGALOVANIA (Jinjin) \[sans\]](https://osu.ppy.sh/beatmapsets/574286#mania/1674242)
-  - [Nanahoshi Kangengakudan - Meikaruza (sankansuki) \[ONE TON FUN\]](https://osu.ppy.sh/beatmapsets/427272#mania/922343)
-  - EBICO - Persephone (Kamikaze) \[Maki'nother\]
-  - [Camellia - Proluvies (Lenfried-) \[7K Insane\]](https://osu.ppy.sh/beatmapsets/727684#mania/1536296)
+  1. [Silent Siren - BANG!BANG!BANG! (PP_Aika) \[lvl.33\]](https://osu.ppy.sh/beatmapsets/749566#mania/1578815)
+  2. [-45 - 44river (cut) (Jinjin) \[Delayanother\]](https://osu.ppy.sh/beatmapsets/798021#mania/1675866)
+  3. [Horie Yui - Asymmetry (Hanazawa Kana) \[Yoyu's Absolution\]](https://osu.ppy.sh/beatmapsets/410999#mania/926281)
+  4. [Fallen Shepherd ft. RabbiTon Strings - ENDYMION (Blocko) \[underjoy's Another\]](https://osu.ppy.sh/beatmapsets/707421#mania/1532817)
+  5. [cYsmix - Manic (Kiviman) \[Extra\]](https://osu.ppy.sh/beatmapsets/364561#mania/800207)
+  6. Snails & Pegboard Nerds - Deep In The Night (Kamikaze) \[Deceptive\]
+  7. [LIONE - Leave This Place (ARMNHMR Remix) (Evening) \[We VIP\]](https://osu.ppy.sh/beatmapsets/799170#mania/1677993)
+  8. 455 - G e n g a o z o (stupud man) \[GOD (rework)\]
+  9. ETIA. - Claiomh Solais (Arzenvald) \[LumiNous\]
+  10. [toby fox - MEGALOVANIA (Jinjin) \[sans\]](https://osu.ppy.sh/beatmapsets/574286#mania/1674242)
+  11. [Nanahoshi Kangengakudan - Meikaruza (sankansuki) \[ONE TON FUN\]](https://osu.ppy.sh/beatmapsets/427272#mania/922343)
+  12. EBICO - Persephone (Kamikaze) \[Maki'nother\]
+  13. [Camellia - Proluvies (Lenfried-) \[7K Insane\]](https://osu.ppy.sh/beatmapsets/727684#mania/1536296)
 - Tiebreaker
-  - **[aaaa - Bokutachi no Tabi to Epilogue (ArcherLove) \[Caramel\]](https://osu.ppy.sh/beatmapsets/488559#mania/1041584)**
+  1. **[aaaa - Bokutachi no Tabi to Epilogue (ArcherLove) \[Caramel\]](https://osu.ppy.sh/beatmapsets/488559#mania/1041584)**
 
 ### Round of 16
 
 **[Download the mappack here! (96 MB)](https://www.dropbox.com/sh/ctc0nl39ukpp7dt/AAAjM62IfaTmzZ8X8ZDWQZG8a?dl=0)**
 
 - FreeMod
-  - [SHIKI - Xecus (hoo9030) \[Normal\]](https://osu.ppy.sh/beatmapsets/721167#mania/1522885)
-  - [Chata - Sora no Hikari(eta Bootleg) (asuholove) \[7k yumether\]](https://osu.ppy.sh/beatmapsets/405937#mania/882242)
-  - [SLAM & NATO - PARADOXX (AJlekceu) \[AncuL's 7K MX Lv. 19\]](https://osu.ppy.sh/beatmapsets/476198#mania/1160376)
-  - [cosMo - 0 Piano Version (Nivrad00) \[Insane\]](https://osu.ppy.sh/beatmapsets/240976#mania/556730)
-  - [ginkiha - Borealis (-BlueFire-) \[Insane\]](https://osu.ppy.sh/beatmapsets/541254#mania/1157318)
-  - [Horie Yui - Presenter (PP\_Aika) \[Lv.32\]](https://osu.ppy.sh/beatmapsets/542933#mania/1150816)
-  - [07th Expansion - Sakuratou's Adventure (tangjinxi) \[7K MaX\]](https://osu.ppy.sh/beatmapsets/292512#mania/658314)
-  - [M2U - A Little Dream (hannanos) \[Lenfried's Insane\]](https://osu.ppy.sh/beatmapsets/383775#mania/843076)
-  - [enzo + O2i3 - Mentanpindoradora (Fresh Chicken) \[Vermilion\]](https://osu.ppy.sh/beatmapsets/754064#mania/1587631)
-  - [Grand Thaw (Vo.nyanta) - SOLROS \~Vocal Edition\~ (\_underjoy) \[Helichrysum\]](https://osu.ppy.sh/beatmapsets/795222#mania/1670133)
-  - [Yeah Yeah Yeahs - Heads Will Roll (JVH-C Remix) (Lusty Platypus) \[ON THA FLOOR\]](https://osu.ppy.sh/beatmapsets/677142#mania/1644020)
+  1. [SHIKI - Xecus (hoo9030) \[Normal\]](https://osu.ppy.sh/beatmapsets/721167#mania/1522885)
+  2. [Chata - Sora no Hikari(eta Bootleg) (asuholove) \[7k yumether\]](https://osu.ppy.sh/beatmapsets/405937#mania/882242)
+  3. [SLAM & NATO - PARADOXX (AJlekceu) \[AncuL's 7K MX Lv. 19\]](https://osu.ppy.sh/beatmapsets/476198#mania/1160376)
+  4. [cosMo - 0 Piano Version (Nivrad00) \[Insane\]](https://osu.ppy.sh/beatmapsets/240976#mania/556730)
+  5. [ginkiha - Borealis (-BlueFire-) \[Insane\]](https://osu.ppy.sh/beatmapsets/541254#mania/1157318)
+  6. [Horie Yui - Presenter (PP\_Aika) \[Lv.32\]](https://osu.ppy.sh/beatmapsets/542933#mania/1150816)
+  7. [07th Expansion - Sakuratou's Adventure (tangjinxi) \[7K MaX\]](https://osu.ppy.sh/beatmapsets/292512#mania/658314)
+  8. [M2U - A Little Dream (hannanos) \[Lenfried's Insane\]](https://osu.ppy.sh/beatmapsets/383775#mania/843076)
+  9. [enzo + O2i3 - Mentanpindoradora (Fresh Chicken) \[Vermilion\]](https://osu.ppy.sh/beatmapsets/754064#mania/1587631)
+  10. [Grand Thaw (Vo.nyanta) - SOLROS \~Vocal Edition\~ (\_underjoy) \[Helichrysum\]](https://osu.ppy.sh/beatmapsets/795222#mania/1670133)
+  11. [Yeah Yeah Yeahs - Heads Will Roll (JVH-C Remix) (Lusty Platypus) \[ON THA FLOOR\]](https://osu.ppy.sh/beatmapsets/677142#mania/1644020)
 - Tiebreaker
-  - **[Ruby My Dear - 7C0 (Pope Gadget) \[R26\]](https://osu.ppy.sh/beatmapsets/352201#mania/844672)**
+  1. **[Ruby My Dear - 7C0 (Pope Gadget) \[R26\]](https://osu.ppy.sh/beatmapsets/352201#mania/844672)**
 
 ### Group stage
 
 **[Download the mappack here! (95 MB)](https://www.dropbox.com/sh/c3rktbonawm67hk/AAAQv1tCrCV9BSvEbRm84Nxha?dl=0)**
 
 - FreeMod
-  - [USAO - Miracle 5ympho X (Mel) \[7K Another\]](https://osu.ppy.sh/beatmapsets/137394#mania/413033)
-  - [DJ Okawari - Flower Dance (Level 51) \[Spiraling Blossoms\]](https://osu.ppy.sh/beatmapsets/502745#mania/1069879)
-  - [Gekikara Mania - Deublithick (\_underjoy) \[Capsanother\]](https://osu.ppy.sh/beatmapsets/725078#mania/1554212)
-  - [Narae - Horan Pungryuga (My Angel RangE) \[qodtjr's MX\]](https://osu.ppy.sh/beatmapsets/388769#mania/889962)
-  - [Menikichi - Girl Meets Boy (Cryolien) \[Oddity\]](https://osu.ppy.sh/beatmapsets/782741#mania/1643560)
-  - [Orange Heart(cvHonda Mariko) Neptune(cvTanaka Rie) - Mousou Katharsis (Shurelia) \[\_UJ's HD\]](https://osu.ppy.sh/beatmapsets/535272#mania/1143367)
-  - [Satou Hitomi - Summer in Kagome (SurfChu85) \[relaxation\]](https://osu.ppy.sh/beatmapsets/703252#mania/1487920)
-  - [REDALiCE - Acceleration (Kuo Kyoka) \[KK's 7K MX\]](https://osu.ppy.sh/beatmapsets/145553#mania/361770)
-  - [Remixed by xac - Programmed Sun (Simple_Star) \[7K Lv.23\]](https://osu.ppy.sh/beatmapsets/158098#mania/386802)
-  - [V.K - Reverse - Parallel Universe (Chamelo_Th) \[Hard\]](https://osu.ppy.sh/beatmapsets/155439#mania/381255)
-  - [Van Damme - Computer Graphics Demonstration Tape (Hydria) \[Kami's Seven Keys Scroll Velocity Tech Demo\]](https://osu.ppy.sh/beatmapsets/641196#mania/1593734)
+  1. [USAO - Miracle 5ympho X (Mel) \[7K Another\]](https://osu.ppy.sh/beatmapsets/137394#mania/413033)
+  2. [DJ Okawari - Flower Dance (Level 51) \[Spiraling Blossoms\]](https://osu.ppy.sh/beatmapsets/502745#mania/1069879)
+  3. [Gekikara Mania - Deublithick (\_underjoy) \[Capsanother\]](https://osu.ppy.sh/beatmapsets/725078#mania/1554212)
+  4. [Narae - Horan Pungryuga (My Angel RangE) \[qodtjr's MX\]](https://osu.ppy.sh/beatmapsets/388769#mania/889962)
+  5. [Menikichi - Girl Meets Boy (Cryolien) \[Oddity\]](https://osu.ppy.sh/beatmapsets/782741#mania/1643560)
+  6. [Orange Heart(cvHonda Mariko) Neptune(cvTanaka Rie) - Mousou Katharsis (Shurelia) \[\_UJ's HD\]](https://osu.ppy.sh/beatmapsets/535272#mania/1143367)
+  7. [Satou Hitomi - Summer in Kagome (SurfChu85) \[relaxation\]](https://osu.ppy.sh/beatmapsets/703252#mania/1487920)
+  8. [REDALiCE - Acceleration (Kuo Kyoka) \[KK's 7K MX\]](https://osu.ppy.sh/beatmapsets/145553#mania/361770)
+  9. [Remixed by xac - Programmed Sun (Simple_Star) \[7K Lv.23\]](https://osu.ppy.sh/beatmapsets/158098#mania/386802)
+  10. [V.K - Reverse - Parallel Universe (Chamelo_Th) \[Hard\]](https://osu.ppy.sh/beatmapsets/155439#mania/381255)
+  11. [Van Damme - Computer Graphics Demonstration Tape (Hydria) \[Kami's Seven Keys Scroll Velocity Tech Demo\]](https://osu.ppy.sh/beatmapsets/641196#mania/1593734)
 - Tiebreaker
-  - **[Soleily - Renatus (Fullerene-) \[LordRaika's 7K Insane\]](https://osu.ppy.sh/beatmapsets/235827#mania/546993)**
+  1. **[Soleily - Renatus (Fullerene-) \[LordRaika's 7K Insane\]](https://osu.ppy.sh/beatmapsets/235827#mania/546993)**
 
 ### Playoffs
 
 **[Download the mappack here! (87 MB)](https://www.dropbox.com/sh/qv69wikpc5zpsde/AAAWjIzktrRmVHQkqRBlPW4Ha?dl=0)**
 
 - FreeMod
-  - [fripSide - LEVEL5-judgelight- (TV size) (Niks) \[7K Hard\]](https://osu.ppy.sh/beatmapsets/291772#mania/747358)
-  - [FLOW - Kaze no Uta -TV Size- (AlisceaSparku) \[Sora's 7K HD\]](https://osu.ppy.sh/beatmapsets/487622#mania/1039589)
-  - [Darren Korb - Terminal March (\[Shi-Ra\]) \[\[Shi-Ra\]'s Hell March \[HD\]\]](https://osu.ppy.sh/beatmapsets/118227#mania/309121)
-  - [Gotou Mai - Funwari Fuwari (shionelove) \[HD\]](https://osu.ppy.sh/beatmapsets/333217#mania/752599)
-  - [REDALiCE - Kizuato (Reikosaka) \[Maximum\]](https://osu.ppy.sh/beatmapsets/116133#mania/299840)
-  - [Gate - Escape (lonleyplanet120) \[Jmeh's 7K HD\]](https://osu.ppy.sh/beatmapsets/246552#mania/567885)
-  - [BlackY - Harpuia (Ichigaki) \[ADVANCED\]](https://osu.ppy.sh/beatmapsets/295703#mania/709373)
-  - [Moe Shop - <3 (TheToaphster) \[Soul\]](https://osu.ppy.sh/beatmapsets/780975#mania/1640374)
-  - [Paul Bazooka - Luv Flow (Funky House Mix) (shionelove) \[yoshilove's Luv\]](https://osu.ppy.sh/beatmapsets/650754#mania/1379293)
+  1. [fripSide - LEVEL5-judgelight- (TV size) (Niks) \[7K Hard\]](https://osu.ppy.sh/beatmapsets/291772#mania/747358)
+  2. [FLOW - Kaze no Uta -TV Size- (AlisceaSparku) \[Sora's 7K HD\]](https://osu.ppy.sh/beatmapsets/487622#mania/1039589)
+  3. [Darren Korb - Terminal March (\[Shi-Ra\]) \[\[Shi-Ra\]'s Hell March \[HD\]\]](https://osu.ppy.sh/beatmapsets/118227#mania/309121)
+  4. [Gotou Mai - Funwari Fuwari (shionelove) \[HD\]](https://osu.ppy.sh/beatmapsets/333217#mania/752599)
+  5. [REDALiCE - Kizuato (Reikosaka) \[Maximum\]](https://osu.ppy.sh/beatmapsets/116133#mania/299840)
+  6. [Gate - Escape (lonleyplanet120) \[Jmeh's 7K HD\]](https://osu.ppy.sh/beatmapsets/246552#mania/567885)
+  7. [BlackY - Harpuia (Ichigaki) \[ADVANCED\]](https://osu.ppy.sh/beatmapsets/295703#mania/709373)
+  8. [Moe Shop - <3 (TheToaphster) \[Soul\]](https://osu.ppy.sh/beatmapsets/780975#mania/1640374)
+  9. [Paul Bazooka - Luv Flow (Funky House Mix) (shionelove) \[yoshilove's Luv\]](https://osu.ppy.sh/beatmapsets/650754#mania/1379293)
 - Tiebreaker
-  - **[fripSide - fortissimo -the ultimate crisis- (- R u m i a -) \[Insane\]](https://osu.ppy.sh/beatmapsets/103856#mania/273738)**
+  1. **[fripSide - fortissimo -the ultimate crisis- (- R u m i a -) \[Insane\]](https://osu.ppy.sh/beatmapsets/103856#mania/273738)**
 
 ### Qualifiers
 
 **[Download the mappack here! (27 MB)](https://www.dropbox.com/sh/p85shbdk8skxytr/AACrjd39x23Y5lmqwnFticVRa?dl=0)**
 
 - FreeMod
-  - [FizzD - Oriental Insomniac (Ciel) \[Stage 1: Glitch\]](https://osu.ppy.sh/beatmapsets/780852#mania/1640164)
-  - Telekinesis - The Monk (Kamikaze) \[Stage 2: Shadow\]
-  - [Valentin - A Little Story (Cryolien) \[Stage 3: Hold\]](https://osu.ppy.sh/beatmapsets/780862#mania/1640175)
-  - Yuuna Sasara - Mononoke Butou (Kamikaze) \[Stage 4: Tribal\]
+  1. [FizzD - Oriental Insomniac (Ciel) \[Stage 1: Glitch\]](https://osu.ppy.sh/beatmapsets/780852#mania/1640164)
+  2. Telekinesis - The Monk (Kamikaze) \[Stage 2: Shadow\]
+  3. [Valentin - A Little Story (Cryolien) \[Stage 3: Hold\]](https://osu.ppy.sh/beatmapsets/780862#mania/1640175)
+  4. Yuuna Sasara - Mononoke Butou (Kamikaze) \[Stage 4: Tribal\]
 
 ## Match results
 
@@ -247,13 +247,13 @@ Saturday, 14 July 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-: |
-| Skalim ![][flag_CL] | 2 | **7** | ![][flag_IT] **Yomiel** | [#1](https://osu.ppy.sh/community/matches/44166950) |
+| Skalim ::{ flag=CL }:: | 2 | **7** | ::{ flag=IT }:: **Yomiel** | [#1](https://osu.ppy.sh/community/matches/44166950) |
 
 Sunday, 15 July 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-: |
-| **aitor98** ![][flag_ES] | **7** | 2 | ![][flag_IT] Yomiel | [#1](https://osu.ppy.sh/community/matches/44194101) |
+| **aitor98** ::{ flag=ES }:: | **7** | 2 | ::{ flag=IT }:: Yomiel | [#1](https://osu.ppy.sh/community/matches/44194101) |
 
 ### Finals
 
@@ -261,15 +261,15 @@ Saturday, 7 July 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-: |
-| Keweft ![][flag_BR] | 0 | **7** | ![][flag_IT] **Yomiel** | [#1](https://osu.ppy.sh/community/matches/43968717) |
-| **aitor98** ![][flag_ES] | **7** | 1 | ![][flag_CL] Skalim | [#1](https://osu.ppy.sh/community/matches/43977039) |
-| Lothus ![][flag_BR] | 0 | **7** | ![][flag_US] **Gekido-** | *win by default* |
+| Keweft ::{ flag=BR }:: | 0 | **7** | ::{ flag=IT }:: **Yomiel** | [#1](https://osu.ppy.sh/community/matches/43968717) |
+| **aitor98** ::{ flag=ES }:: | **7** | 1 | ::{ flag=CL }:: Skalim | [#1](https://osu.ppy.sh/community/matches/43977039) |
+| Lothus ::{ flag=BR }:: | 0 | **7** | ::{ flag=US }:: **Gekido-** | *win by default* |
 
 Sunday, 8 July 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-: |
-| **Yomiel** ![][flag_IT] | **7** | 0 | ![][flag_US] Gekido- | *win by default* |
+| **Yomiel** ::{ flag=IT }:: | **7** | 0 | ::{ flag=US }:: Gekido- | *win by default* |
 
 ### Semifinals
 
@@ -277,29 +277,29 @@ Friday, 29 June 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-: |
-| **robby250** ![][flag_RO] | **6** | 0 | ![][flag_GB] Hayabusa | *win by default* |
-| **Gamer97** ![][flag_CH] | **6** | 1 | ![][flag_RU] Daleenie | [#1](https://osu.ppy.sh/community/matches/43759850) |
+| **robby250** ::{ flag=RO }:: | **6** | 0 | ::{ flag=GB }:: Hayabusa | *win by default* |
+| **Gamer97** ::{ flag=CH }:: | **6** | 1 | ::{ flag=RU }:: Daleenie | [#1](https://osu.ppy.sh/community/matches/43759850) |
 
 Saturday, 30 June 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-: |
-| **Yomiel** ![][flag_IT] | **6** | 0 | ![][flag_FR] Elementaires | *win by default* |
-| SillyFangirl ![][flag_BR] | 0 | **6** | ![][flag_US] **Gekido-** | *win by default* |
-| **Skalim** ![][flag_CL] | **6** | 2 | ![][flag_BR] Lothus | [#1](https://osu.ppy.sh/community/matches/43791757) |
+| **Yomiel** ::{ flag=IT }:: | **6** | 0 | ::{ flag=FR }:: Elementaires | *win by default* |
+| SillyFangirl ::{ flag=BR }:: | 0 | **6** | ::{ flag=US }:: **Gekido-** | *win by default* |
+| **Skalim** ::{ flag=CL }:: | **6** | 2 | ::{ flag=BR }:: Lothus | [#1](https://osu.ppy.sh/community/matches/43791757) |
 
 Sunday, 1 July 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-: |
-| **aitor98** ![][flag_ES] | **6** | 0 | ![][flag_BR] Keweft | [#1](https://osu.ppy.sh/community/matches/43813280) |
-| Gamer97 ![][flag_CH] | 5 | **6** | ![][flag_US] **Gekido-** | [#1](https://osu.ppy.sh/community/matches/43815651) |
+| **aitor98** ::{ flag=ES }:: | **6** | 0 | ::{ flag=BR }:: Keweft | [#1](https://osu.ppy.sh/community/matches/43813280) |
+| Gamer97 ::{ flag=CH }:: | 5 | **6** | ::{ flag=US }:: **Gekido-** | [#1](https://osu.ppy.sh/community/matches/43815651) |
 
 Monday, 2 July 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-: |
-| **Yomiel** ![][flag_IT] | **6** | 0 | ![][flag_RO] robby250 | [#1](https://osu.ppy.sh/community/matches/43835514) |
+| **Yomiel** ::{ flag=IT }:: | **6** | 0 | ::{ flag=RO }:: robby250 | [#1](https://osu.ppy.sh/community/matches/43835514) |
 
 ### Quarterfinals
 
@@ -307,24 +307,24 @@ Friday, 22 June 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-: |
-| **Daleenie** ![][flag_RU] | **6** | 0 | ![][flag_DK] Jole | [#1](https://osu.ppy.sh/community/matches/43564735) |
+| **Daleenie** ::{ flag=RU }:: | **6** | 0 | ::{ flag=DK }:: Jole | [#1](https://osu.ppy.sh/community/matches/43564735) |
 
 Saturday, 23 June 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-: |
-| Mage ![][flag_RU] | 0 | **6** | ![][flag_FR] **Elementaires** | [#1](https://osu.ppy.sh/community/matches/43592644) |
-| **Skalim** ![][flag_CL] | **6** | 1 | ![][flag_RO] robby250 | [#1](https://osu.ppy.sh/community/matches/43594452) |
+| Mage ::{ flag=RU }:: | 0 | **6** | ::{ flag=FR }:: **Elementaires** | [#1](https://osu.ppy.sh/community/matches/43592644) |
+| **Skalim** ::{ flag=CL }:: | **6** | 1 | ::{ flag=RO }:: robby250 | [#1](https://osu.ppy.sh/community/matches/43594452) |
 
 Sunday, 24 June 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-: |
-| **Gekido-** ![][flag_US] | **6** | 0 | ![][flag_DE] rohen04 | [#1](https://osu.ppy.sh/community/matches/43623915) |
-| **aitor98** ![][flag_ES] | **6** | 0 | ![][flag_BR] SillyFangirl | [#1](https://osu.ppy.sh/community/matches/43625367) |
-| Yomiel ![][flag_IT] | 2 | **6** | ![][flag_BR] **Lothus** | [#1](https://osu.ppy.sh/community/matches/43627012) |
-| **Keweft** ![][flag_BR] | **6** | 2 | ![][flag_CH] Gamer97 | [#1](https://osu.ppy.sh/community/matches/43628968) |
-| Alternater ![][flag_US] | 0 | **6** | ![][flag_GB] **Hayabusa** | *win by default* |
+| **Gekido-** ::{ flag=US }:: | **6** | 0 | ::{ flag=DE }:: rohen04 | [#1](https://osu.ppy.sh/community/matches/43623915) |
+| **aitor98** ::{ flag=ES }:: | **6** | 0 | ::{ flag=BR }:: SillyFangirl | [#1](https://osu.ppy.sh/community/matches/43625367) |
+| Yomiel ::{ flag=IT }:: | 2 | **6** | ::{ flag=BR }:: **Lothus** | [#1](https://osu.ppy.sh/community/matches/43627012) |
+| **Keweft** ::{ flag=BR }:: | **6** | 2 | ::{ flag=CH }:: Gamer97 | [#1](https://osu.ppy.sh/community/matches/43628968) |
+| Alternater ::{ flag=US }:: | 0 | **6** | ::{ flag=GB }:: **Hayabusa** | *win by default* |
 
 ### Round of 16
 
@@ -332,14 +332,14 @@ Sunday, 17 June 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-: |
-| **aitor98** ![][flag_ES] | **5** | 0 | ![][flag_RU] Mage | [#1](https://osu.ppy.sh/community/matches/43421756) |
-| **robby250** ![][flag_RO] | **5** | 1 | ![][flag_DK] Jole | [#1](https://osu.ppy.sh/community/matches/43423366) |
-| Gekido- ![][flag_US] | 2 | **5** | ![][flag_IT] **Yomiel** | [#1](https://osu.ppy.sh/community/matches/43424816) |
-| **Lothus** ![][flag_BR] | **5** | 0 | ![][flag_DE] rohen04 | [#1](https://osu.ppy.sh/community/matches/43426548) |
-| **Skalim** ![][flag_CL] | **5** | 0 | ![][flag_RU] Daleenie | [#1](https://osu.ppy.sh/community/matches/43428153) |
-| Hayabusa ![][flag_GB] | 3 | **5** | ![][flag_CH] **Gamer97** | [#1](https://osu.ppy.sh/community/matches/43429449) |
-| **SillyFangirl** ![][flag_BR] | **5** | 1 | ![][flag_FR] Elementaires | [#1](https://osu.ppy.sh/community/matches/43431702) |
-| Alternater ![][flag_US] | 2 | **5** | ![][flag_BR] **Keweft** | [#1](https://osu.ppy.sh/community/matches/43432870) |
+| **aitor98** ::{ flag=ES }:: | **5** | 0 | ::{ flag=RU }:: Mage | [#1](https://osu.ppy.sh/community/matches/43421756) |
+| **robby250** ::{ flag=RO }:: | **5** | 1 | ::{ flag=DK }:: Jole | [#1](https://osu.ppy.sh/community/matches/43423366) |
+| Gekido- ::{ flag=US }:: | 2 | **5** | ::{ flag=IT }:: **Yomiel** | [#1](https://osu.ppy.sh/community/matches/43424816) |
+| **Lothus** ::{ flag=BR }:: | **5** | 0 | ::{ flag=DE }:: rohen04 | [#1](https://osu.ppy.sh/community/matches/43426548) |
+| **Skalim** ::{ flag=CL }:: | **5** | 0 | ::{ flag=RU }:: Daleenie | [#1](https://osu.ppy.sh/community/matches/43428153) |
+| Hayabusa ::{ flag=GB }:: | 3 | **5** | ::{ flag=CH }:: **Gamer97** | [#1](https://osu.ppy.sh/community/matches/43429449) |
+| **SillyFangirl** ::{ flag=BR }:: | **5** | 1 | ::{ flag=FR }:: Elementaires | [#1](https://osu.ppy.sh/community/matches/43431702) |
+| Alternater ::{ flag=US }:: | 2 | **5** | ::{ flag=BR }:: **Keweft** | [#1](https://osu.ppy.sh/community/matches/43432870) |
 
 ### Group stage
 
@@ -347,64 +347,64 @@ Saturday, 9 June 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-: |
-| Benzopirene ![][flag_PL] | 4 | **5** | ![][flag_BR] **Lazarento** | [#1](https://osu.ppy.sh/community/matches/43191024) |
-| **aitor98** ![][flag_ES] | **5** | 0 | ![][flag_PL] -Karen-chan- | [#1](https://osu.ppy.sh/community/matches/43196021) |
-| **rohen04** ![][flag_DE] | **5** | 0 | ![][flag_BY] MatVeiQaaa | [#1](https://osu.ppy.sh/community/matches/43198128) |
-| Yomiel ![][flag_IT] | 3 | **5** | ![][flag_RO] **robby250** | [#1](https://osu.ppy.sh/community/matches/43197792) |
-| **Mage** ![][flag_RU] | **5** | 0 | ![][flag_GB] PikachuNick | *win by default* |
-| -Karen-chan- ![][flag_PL] | 0 | **5** | ![][flag_FR] **AntoAa** | [#1](https://osu.ppy.sh/community/matches/43199734) |
-| **aitor98** ![][flag_ES] | **5** | 0 | ![][flag_CH] Gamer97 | [#1](https://osu.ppy.sh/community/matches/43201528) |
-| **robby250** ![][flag_RO] | **5** | 0 | ![][flag_US] afrono | [#1](https://osu.ppy.sh/community/matches/43201516) |
-| Asagaki ![][flag_CL] | 0 | **5** | ![][flag_DK] **Jole** | *win by default* |
-| PikachuNick ![][flag_GB] | 0 | **5** | ![][flag_BR] **andreymc** | *win by default* |
-| **Kivicat** ![][flag_RU] | **5** | 1 | ![][flag_US] afrono | [#1](https://osu.ppy.sh/community/matches/43203562) |
-| **Hayabusa** ![][flag_GB] | **5** | 0 | ![][flag_CL] Asagaki | *win by default* |
-| UrsoManso ![][flag_BR] | 0 | **5** | ![][flag_DK] **Jole** | *win by default* |
-| **aitor98** ![][flag_ES] | **5** | 0 | ![][flag_FR] AntoAa | [#1](https://osu.ppy.sh/community/matches/43203704) |
-| UrsoManso ![][flag_BR] | 0 | **5** | ![][flag_GB] **Hayabusa** | *win by default* |
-| **Skalim** ![][flag_CL] | **5** | 0 | ![][flag_GB] PikachuNick | *win by default* |
-| **Daleenie** ![][flag_RU] | **5** | 0 | ![][flag_BR] CALCIO01 | *win by default* |
-| **Gamer97** ![][flag_CH] | **5** | 0 | ![][flag_FR] AntoAa | [#1](https://osu.ppy.sh/community/matches/43205774) |
-| Craig ![][flag_US] | 4 | **5** | ![][flag_RU] **Daleenie** | [#1](https://osu.ppy.sh/community/matches/43207890) |
-| **Skalim** ![][flag_CL] | **5** | 1 | ![][flag_BR] andreymc | [#1](https://osu.ppy.sh/community/matches/43209919) |
-| **Alternater** ![][flag_US] | **5** | 1 | ![][flag_US] dewero | [#1](https://osu.ppy.sh/community/matches/43211295) |
+| Benzopirene ::{ flag=PL }:: | 4 | **5** | ::{ flag=BR }:: **Lazarento** | [#1](https://osu.ppy.sh/community/matches/43191024) |
+| **aitor98** ::{ flag=ES }:: | **5** | 0 | ::{ flag=PL }:: -Karen-chan- | [#1](https://osu.ppy.sh/community/matches/43196021) |
+| **rohen04** ::{ flag=DE }:: | **5** | 0 | ::{ flag=BY }:: MatVeiQaaa | [#1](https://osu.ppy.sh/community/matches/43198128) |
+| Yomiel ::{ flag=IT }:: | 3 | **5** | ::{ flag=RO }:: **robby250** | [#1](https://osu.ppy.sh/community/matches/43197792) |
+| **Mage** ::{ flag=RU }:: | **5** | 0 | ::{ flag=GB }:: PikachuNick | *win by default* |
+| -Karen-chan- ::{ flag=PL }:: | 0 | **5** | ::{ flag=FR }:: **AntoAa** | [#1](https://osu.ppy.sh/community/matches/43199734) |
+| **aitor98** ::{ flag=ES }:: | **5** | 0 | ::{ flag=CH }:: Gamer97 | [#1](https://osu.ppy.sh/community/matches/43201528) |
+| **robby250** ::{ flag=RO }:: | **5** | 0 | ::{ flag=US }:: afrono | [#1](https://osu.ppy.sh/community/matches/43201516) |
+| Asagaki ::{ flag=CL }:: | 0 | **5** | ::{ flag=DK }:: **Jole** | *win by default* |
+| PikachuNick ::{ flag=GB }:: | 0 | **5** | ::{ flag=BR }:: **andreymc** | *win by default* |
+| **Kivicat** ::{ flag=RU }:: | **5** | 1 | ::{ flag=US }:: afrono | [#1](https://osu.ppy.sh/community/matches/43203562) |
+| **Hayabusa** ::{ flag=GB }:: | **5** | 0 | ::{ flag=CL }:: Asagaki | *win by default* |
+| UrsoManso ::{ flag=BR }:: | 0 | **5** | ::{ flag=DK }:: **Jole** | *win by default* |
+| **aitor98** ::{ flag=ES }:: | **5** | 0 | ::{ flag=FR }:: AntoAa | [#1](https://osu.ppy.sh/community/matches/43203704) |
+| UrsoManso ::{ flag=BR }:: | 0 | **5** | ::{ flag=GB }:: **Hayabusa** | *win by default* |
+| **Skalim** ::{ flag=CL }:: | **5** | 0 | ::{ flag=GB }:: PikachuNick | *win by default* |
+| **Daleenie** ::{ flag=RU }:: | **5** | 0 | ::{ flag=BR }:: CALCIO01 | *win by default* |
+| **Gamer97** ::{ flag=CH }:: | **5** | 0 | ::{ flag=FR }:: AntoAa | [#1](https://osu.ppy.sh/community/matches/43205774) |
+| Craig ::{ flag=US }:: | 4 | **5** | ::{ flag=RU }:: **Daleenie** | [#1](https://osu.ppy.sh/community/matches/43207890) |
+| **Skalim** ::{ flag=CL }:: | **5** | 1 | ::{ flag=BR }:: andreymc | [#1](https://osu.ppy.sh/community/matches/43209919) |
+| **Alternater** ::{ flag=US }:: | **5** | 1 | ::{ flag=US }:: dewero | [#1](https://osu.ppy.sh/community/matches/43211295) |
 
 Sunday, 10 June 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-: |
-| **Gekido-** ![][flag_US] | **5** | 1 | ![][flag_BR] CALCIO01 | [#1](https://osu.ppy.sh/community/matches/43212349) |
-| **UrsoManso** ![][flag_BR] | **5** | 0 | ![][flag_CL] Asagaki | *win by default* |
-| **Craig** ![][flag_US] | **5** | 0 | ![][flag_BR] CALCIO01 | [#1](https://osu.ppy.sh/community/matches/43214430) |
-| **Gekido-** ![][flag_US] | **5** | 1 | ![][flag_US] Craig | [#1](https://osu.ppy.sh/community/matches/43215489) |
-| **Mage** ![][flag_RU] | **5** | 4 | ![][flag_BR] andreymc | [#1](https://osu.ppy.sh/community/matches/43229654) |
-| **Skalim** ![][flag_CL] | **5** | 0 | ![][flag_RU] Mage | [#1](https://osu.ppy.sh/community/matches/43231342) |
-| **Keweft** ![][flag_BR] | **5** | 0 | ![][flag_PL] Benzopirene | *win by default* |
-| **Lothus** ![][flag_BR] | **5** | 0 | ![][flag_BR] Lazarento | [#1](https://osu.ppy.sh/community/matches/43233882) |
-| Elementaires ![][flag_FR] | 4 | **5** | ![][flag_BR] **SillyFangirl** | [#1](https://osu.ppy.sh/community/matches/43233102) |
-| **SillyFangirl** ![][flag_BR] | **5** | 0 | ![][flag_US] Teggom | *win by default* |
-| **Hayabusa** ![][flag_GB] | **5** | 1 | ![][flag_DK] Jole | [#1](https://osu.ppy.sh/community/matches/43234676) |
-| **robby250** ![][flag_RO] | **5** | 0 | ![][flag_RU] Kivicat | [#1](https://osu.ppy.sh/community/matches/43234876) |
-| **Alternater** ![][flag_US] | **5** | 1 | ![][flag_DE] rohen04 | [#1](https://osu.ppy.sh/community/matches/43235142) |
-| **Lothus** ![][flag_BR] | **5** | 0 | ![][flag_PL] Benzopirene | *win by default* |
-| **spoonguy** ![][flag_BR] | **5** | 0 | ![][flag_US] Teggom | *win by default* |
-| **Alternater** ![][flag_US] | **5** | 0 | ![][flag_BY] MatVeiQaaa | [#1](https://osu.ppy.sh/community/matches/43236906) |
-| dewero ![][flag_US] | 4 | **5** | ![][flag_DE] **rohen04** | [#1](https://osu.ppy.sh/community/matches/43236529) |
-| **Keweft** ![][flag_BR] | **5** | 1 | ![][flag_BR] Lazarento | [#1](https://osu.ppy.sh/community/matches/43236538) |
-| **Gekido-** ![][flag_US] | **5** | 4 | ![][flag_RU] Daleenie | [#1](https://osu.ppy.sh/community/matches/43236398) |
-| **Elementaires** ![][flag_FR] | **5** | 0 | ![][flag_BR] spoonguy | [#1](https://osu.ppy.sh/community/matches/43238774) |
-| **dewero** ![][flag_US] | **5** | 0 | ![][flag_BY] MatVeiQaaa | [#1](https://osu.ppy.sh/community/matches/43238779) |
-| **Lothus** ![][flag_BR] | **5** | 1 | ![][flag_BR] Keweft | [#1](https://osu.ppy.sh/community/matches/43238654) |
-| **Gamer97** ![][flag_CH] | **5** | 0 | ![][flag_PL] -Karen-chan- | *win by default* |
-| spoonguy ![][flag_BR] | 3 | **5** | ![][flag_BR] **SillyFangirl** | [#1](https://osu.ppy.sh/community/matches/43240022) |
-| **Elementaires** ![][flag_FR] | **5** | 0 | ![][flag_US] Teggom | *win by default* |
-| **Yomiel** ![][flag_IT] | **5** | 0 | ![][flag_US] afrono | *win by default* |
+| **Gekido-** ::{ flag=US }:: | **5** | 1 | ::{ flag=BR }:: CALCIO01 | [#1](https://osu.ppy.sh/community/matches/43212349) |
+| **UrsoManso** ::{ flag=BR }:: | **5** | 0 | ::{ flag=CL }:: Asagaki | *win by default* |
+| **Craig** ::{ flag=US }:: | **5** | 0 | ::{ flag=BR }:: CALCIO01 | [#1](https://osu.ppy.sh/community/matches/43214430) |
+| **Gekido-** ::{ flag=US }:: | **5** | 1 | ::{ flag=US }:: Craig | [#1](https://osu.ppy.sh/community/matches/43215489) |
+| **Mage** ::{ flag=RU }:: | **5** | 4 | ::{ flag=BR }:: andreymc | [#1](https://osu.ppy.sh/community/matches/43229654) |
+| **Skalim** ::{ flag=CL }:: | **5** | 0 | ::{ flag=RU }:: Mage | [#1](https://osu.ppy.sh/community/matches/43231342) |
+| **Keweft** ::{ flag=BR }:: | **5** | 0 | ::{ flag=PL }:: Benzopirene | *win by default* |
+| **Lothus** ::{ flag=BR }:: | **5** | 0 | ::{ flag=BR }:: Lazarento | [#1](https://osu.ppy.sh/community/matches/43233882) |
+| Elementaires ::{ flag=FR }:: | 4 | **5** | ::{ flag=BR }:: **SillyFangirl** | [#1](https://osu.ppy.sh/community/matches/43233102) |
+| **SillyFangirl** ::{ flag=BR }:: | **5** | 0 | ::{ flag=US }:: Teggom | *win by default* |
+| **Hayabusa** ::{ flag=GB }:: | **5** | 1 | ::{ flag=DK }:: Jole | [#1](https://osu.ppy.sh/community/matches/43234676) |
+| **robby250** ::{ flag=RO }:: | **5** | 0 | ::{ flag=RU }:: Kivicat | [#1](https://osu.ppy.sh/community/matches/43234876) |
+| **Alternater** ::{ flag=US }:: | **5** | 1 | ::{ flag=DE }:: rohen04 | [#1](https://osu.ppy.sh/community/matches/43235142) |
+| **Lothus** ::{ flag=BR }:: | **5** | 0 | ::{ flag=PL }:: Benzopirene | *win by default* |
+| **spoonguy** ::{ flag=BR }:: | **5** | 0 | ::{ flag=US }:: Teggom | *win by default* |
+| **Alternater** ::{ flag=US }:: | **5** | 0 | ::{ flag=BY }:: MatVeiQaaa | [#1](https://osu.ppy.sh/community/matches/43236906) |
+| dewero ::{ flag=US }:: | 4 | **5** | ::{ flag=DE }:: **rohen04** | [#1](https://osu.ppy.sh/community/matches/43236529) |
+| **Keweft** ::{ flag=BR }:: | **5** | 1 | ::{ flag=BR }:: Lazarento | [#1](https://osu.ppy.sh/community/matches/43236538) |
+| **Gekido-** ::{ flag=US }:: | **5** | 4 | ::{ flag=RU }:: Daleenie | [#1](https://osu.ppy.sh/community/matches/43236398) |
+| **Elementaires** ::{ flag=FR }:: | **5** | 0 | ::{ flag=BR }:: spoonguy | [#1](https://osu.ppy.sh/community/matches/43238774) |
+| **dewero** ::{ flag=US }:: | **5** | 0 | ::{ flag=BY }:: MatVeiQaaa | [#1](https://osu.ppy.sh/community/matches/43238779) |
+| **Lothus** ::{ flag=BR }:: | **5** | 1 | ::{ flag=BR }:: Keweft | [#1](https://osu.ppy.sh/community/matches/43238654) |
+| **Gamer97** ::{ flag=CH }:: | **5** | 0 | ::{ flag=PL }:: -Karen-chan- | *win by default* |
+| spoonguy ::{ flag=BR }:: | 3 | **5** | ::{ flag=BR }:: **SillyFangirl** | [#1](https://osu.ppy.sh/community/matches/43240022) |
+| **Elementaires** ::{ flag=FR }:: | **5** | 0 | ::{ flag=US }:: Teggom | *win by default* |
+| **Yomiel** ::{ flag=IT }:: | **5** | 0 | ::{ flag=US }:: afrono | *win by default* |
 
 Tuesday, 12 June 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-: |
-| **Yomiel** ![][flag_IT] | **5** | 0 | ![][flag_RU] Kivicat | [#1](https://osu.ppy.sh/community/matches/43284727) |
+| **Yomiel** ::{ flag=IT }:: | **5** | 0 | ::{ flag=RU }:: Kivicat | [#1](https://osu.ppy.sh/community/matches/43284727) |
 
 ### Playoffs
 
@@ -412,53 +412,53 @@ Saturday, 26 May 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-: |
-| **Kivicat** ![][flag_RU] | **4** | 0 | ![][flag_SE] Sadcat | [#1](https://osu.ppy.sh/community/matches/42785051) |
-| **PhobosX** ![][flag_RU] | **4** | 3 | ![][flag_PL] Brunosky | [#1](https://osu.ppy.sh/community/matches/42788074) |
-| **Lude** ![][flag_GT] | **4** | 1 | ![][flag_DE] ElectroYan | [#1](https://osu.ppy.sh/community/matches/42789232) |
-| **-Karen-chan-** ![][flag_PL] | **4** | 0 | ![][flag_MX] Reba | [#1](https://osu.ppy.sh/community/matches/42789588) |
-| **\[\_Chichinya\_\]** ![][flag_VE] | **4** | 0 | ![][flag_NO] Bizarrely\_F4st | [#1](https://osu.ppy.sh/community/matches/42791305) |
-| **Freek** ![][flag_NL] | **4** | 0 | ![][flag_BR] coldloops | [#1](https://osu.ppy.sh/community/matches/42792596) |
-| **PikachuNick** ![][flag_GB] | **4** | 0 | ![][flag_CL] Chamelforito | *win by default* |
+| **Kivicat** ::{ flag=RU }:: | **4** | 0 | ::{ flag=SE }:: Sadcat | [#1](https://osu.ppy.sh/community/matches/42785051) |
+| **PhobosX** ::{ flag=RU }:: | **4** | 3 | ::{ flag=PL }:: Brunosky | [#1](https://osu.ppy.sh/community/matches/42788074) |
+| **Lude** ::{ flag=GT }:: | **4** | 1 | ::{ flag=DE }:: ElectroYan | [#1](https://osu.ppy.sh/community/matches/42789232) |
+| **-Karen-chan-** ::{ flag=PL }:: | **4** | 0 | ::{ flag=MX }:: Reba | [#1](https://osu.ppy.sh/community/matches/42789588) |
+| **\[\_Chichinya\_\]** ::{ flag=VE }:: | **4** | 0 | ::{ flag=NO }:: Bizarrely\_F4st | [#1](https://osu.ppy.sh/community/matches/42791305) |
+| **Freek** ::{ flag=NL }:: | **4** | 0 | ::{ flag=BR }:: coldloops | [#1](https://osu.ppy.sh/community/matches/42792596) |
+| **PikachuNick** ::{ flag=GB }:: | **4** | 0 | ::{ flag=CL }:: Chamelforito | *win by default* |
 
 Sunday, 27 May 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-: |
-| **Gamer97** ![][flag_CH] | **4** | 2 | ![][flag_PL] Hentu | [#1](https://osu.ppy.sh/community/matches/42812924) |
-| capsafangirl ![][flag_PL] | 0 | **4** | ![][flag_CL] **Matiias** | [#1](https://osu.ppy.sh/community/matches/42819421) |
-| **playin14** ![][flag_DE] | **4** | 0 | ![][flag_PL] Hlimak | *win by default* |
-| **afrono** ![][flag_US] | **4** | 0 | ![][flag_PL] Alicejoy | [#1](https://osu.ppy.sh/community/matches/42822063) |
-| **Summit-** ![][flag_ES] | **4** | 0 | ![][flag_CO] D4M14AN | *win by default* |
-| **SillyFangirl** ![][flag_BR] | **4** | 1 | ![][flag_BR] LothusFangirl | [#1](https://osu.ppy.sh/community/matches/42826881) |
-| **Asagaki** ![][flag_CL] | **4** | 1 | ![][flag_BR] Kiki-chan | [#1](https://osu.ppy.sh/community/matches/42831183) |
+| **Gamer97** ::{ flag=CH }:: | **4** | 2 | ::{ flag=PL }:: Hentu | [#1](https://osu.ppy.sh/community/matches/42812924) |
+| capsafangirl ::{ flag=PL }:: | 0 | **4** | ::{ flag=CL }:: **Matiias** | [#1](https://osu.ppy.sh/community/matches/42819421) |
+| **playin14** ::{ flag=DE }:: | **4** | 0 | ::{ flag=PL }:: Hlimak | *win by default* |
+| **afrono** ::{ flag=US }:: | **4** | 0 | ::{ flag=PL }:: Alicejoy | [#1](https://osu.ppy.sh/community/matches/42822063) |
+| **Summit-** ::{ flag=ES }:: | **4** | 0 | ::{ flag=CO }:: D4M14AN | *win by default* |
+| **SillyFangirl** ::{ flag=BR }:: | **4** | 1 | ::{ flag=BR }:: LothusFangirl | [#1](https://osu.ppy.sh/community/matches/42826881) |
+| **Asagaki** ::{ flag=CL }:: | **4** | 1 | ::{ flag=BR }:: Kiki-chan | [#1](https://osu.ppy.sh/community/matches/42831183) |
 
 Saturday, 2 June 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-: |
-| **Hayabusa** ![][flag_GB] | **4** | 0 | ![][flag_RU] PhobosX | *win by default* |
-| **Daleenie** ![][flag_RU] | **4** | 1 | ![][flag_DE] ReTLoM | [#1](https://osu.ppy.sh/community/matches/42996812) |
-| Craty ![][flag_SE] | 3 | **4** | ![][flag_DK] **Jole** | [#1](https://osu.ppy.sh/community/matches/42998451) |
-| Barry ![][flag_IE] | 2 | **4** | ![][flag_BR] **andreymc** | [#1](https://osu.ppy.sh/community/matches/42999961) |
-| **spoonguy** ![][flag_BR] | **4** | 0 | ![][flag_NL] Freek | [#1](https://osu.ppy.sh/community/matches/43000902) |
-| Userbacker ![][flag_ES] | 1 | **4** | ![][flag_US] **Teggom** | [#1](https://osu.ppy.sh/community/matches/43001476) |
-| -Squishy ![][flag_US] | 0 | **4** | ![][flag_US] **afrono** | *win by default* |
+| **Hayabusa** ::{ flag=GB }:: | **4** | 0 | ::{ flag=RU }:: PhobosX | *win by default* |
+| **Daleenie** ::{ flag=RU }:: | **4** | 1 | ::{ flag=DE }:: ReTLoM | [#1](https://osu.ppy.sh/community/matches/42996812) |
+| Craty ::{ flag=SE }:: | 3 | **4** | ::{ flag=DK }:: **Jole** | [#1](https://osu.ppy.sh/community/matches/42998451) |
+| Barry ::{ flag=IE }:: | 2 | **4** | ::{ flag=BR }:: **andreymc** | [#1](https://osu.ppy.sh/community/matches/42999961) |
+| **spoonguy** ::{ flag=BR }:: | **4** | 0 | ::{ flag=NL }:: Freek | [#1](https://osu.ppy.sh/community/matches/43000902) |
+| Userbacker ::{ flag=ES }:: | 1 | **4** | ::{ flag=US }:: **Teggom** | [#1](https://osu.ppy.sh/community/matches/43001476) |
+| -Squishy ::{ flag=US }:: | 0 | **4** | ::{ flag=US }:: **afrono** | *win by default* |
 
 Sunday, 3 June 2018:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-: |
-| **dewero** ![][flag_US] | **4** | 1 | ![][flag_GT] Lude | [#1](https://osu.ppy.sh/community/matches/43008528) |
-| **Craig** ![][flag_US] | **4** | 0 | ![][flag_DE] playin14 | [#1](https://osu.ppy.sh/community/matches/43015220) |
-| Malox ![][flag_DE] | 2 | **4** | ![][flag_PL] **Benzopirene** | [#1](https://osu.ppy.sh/community/matches/43025654) |
-| **rohen04** ![][flag_DE] | **4** | 0 | ![][flag_RU] timebuka | [#1](https://osu.ppy.sh/community/matches/43026733) |
-| **Mage** ![][flag_RU] | **4** | 0 | ![][flag_CL] Matiias | *win by default* |
-| **Keweft** ![][flag_BR] | **4** | 0 | ![][flag_VE] \[\_Chichinya\_\] | [#1](https://osu.ppy.sh/community/matches/43030615) |
-| **robby250** ![][flag_RO] | **4** | 0 | ![][flag_ES] Summit- | *win by default* |
-| xSnaggles ![][flag_GB] | 0 | **4** | ![][flag_BY] **MatVeiQaaa** | [#1](https://osu.ppy.sh/community/matches/43033506) |
-| MillaMaxwelle ![][flag_FR] | 1 | **4** | ![][flag_BR] **Lazarento** | [#1](https://osu.ppy.sh/community/matches/43035250) |
-| Aezlack ![][flag_VE] | 0 | **4** | ![][flag_FR] **AntoAa** | [#1](https://osu.ppy.sh/community/matches/43036503) |
-| Niisound ![][flag_CA] | 0 | **4** | ![][flag_BR] **CALCIO01** | *win by default* |
+| **dewero** ::{ flag=US }:: | **4** | 1 | ::{ flag=GT }:: Lude | [#1](https://osu.ppy.sh/community/matches/43008528) |
+| **Craig** ::{ flag=US }:: | **4** | 0 | ::{ flag=DE }:: playin14 | [#1](https://osu.ppy.sh/community/matches/43015220) |
+| Malox ::{ flag=DE }:: | 2 | **4** | ::{ flag=PL }:: **Benzopirene** | [#1](https://osu.ppy.sh/community/matches/43025654) |
+| **rohen04** ::{ flag=DE }:: | **4** | 0 | ::{ flag=RU }:: timebuka | [#1](https://osu.ppy.sh/community/matches/43026733) |
+| **Mage** ::{ flag=RU }:: | **4** | 0 | ::{ flag=CL }:: Matiias | *win by default* |
+| **Keweft** ::{ flag=BR }:: | **4** | 0 | ::{ flag=VE }:: \[\_Chichinya\_\] | [#1](https://osu.ppy.sh/community/matches/43030615) |
+| **robby250** ::{ flag=RO }:: | **4** | 0 | ::{ flag=ES }:: Summit- | *win by default* |
+| xSnaggles ::{ flag=GB }:: | 0 | **4** | ::{ flag=BY }:: **MatVeiQaaa** | [#1](https://osu.ppy.sh/community/matches/43033506) |
+| MillaMaxwelle ::{ flag=FR }:: | 1 | **4** | ::{ flag=BR }:: **Lazarento** | [#1](https://osu.ppy.sh/community/matches/43035250) |
+| Aezlack ::{ flag=VE }:: | 0 | **4** | ::{ flag=FR }:: **AntoAa** | [#1](https://osu.ppy.sh/community/matches/43036503) |
+| Niisound ::{ flag=CA }:: | 0 | **4** | ::{ flag=BR }:: **CALCIO01** | *win by default* |
 
 ### Qualifiers
 
@@ -569,33 +569,3 @@ The results of the Qualifiers can be found in [this spreadsheet](https://docs.go
 - Matches will have a two disconnection limit -- upon the third disconnection, a point will be handed immediately to the player still active within the lobby.
 - A two minute timer will be placed on a disconnected player when the song played has concluded. When this timer hits 0, the grace period mentioned in **Protocol** will be (re)activated. If the grace period timer hits 0, the match is forfeited, and the other remaining player will be declared the winner.
 - Situations with two player disconnections will be executed similarly to two missing players for a given match: the higher seed will be declared the winner if both players have no time left in their grace period.
-
-[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
-[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
-[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
-[flag_BY]: /wiki/shared/flag/BY.gif "Belarus"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_CO]: /wiki/shared/flag/CO.gif "Colombia"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
-[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_GT]: /wiki/shared/flag/GT.gif "Guatemala"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_IE]: /wiki/shared/flag/IE.gif "Ireland"
-[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
-[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[flag_RO]: /wiki/shared/flag/RO.gif "Romania"
-[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
-[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
-[flag_VE]: /wiki/shared/flag/VE.gif "Venezuela"

@@ -8,7 +8,7 @@ date: 2021-02-28 10:30:00 +0000
 
 ![](/wiki/shared/news/banners/project-loved.jpg)
 
-In case you need a refresher, Project Loved hosts monthly votings to decide which nominated maps get added to the [Loved](https://osu.ppy.sh/beatmapsets?s=loved) category. You can click each map's banner to be taken to a thread where you can vote whether or not you want that map Loved. Voting is open for 10 days, starting now! You can read more about how Project Loved works on its [wiki page](/wiki/Project_Loved).
+In case you need a refresher, Project Loved hosts monthly votings to decide which nominated maps get added to the [Loved](https://osu.ppy.sh/beatmapsets?s=loved) category. You can click each map's banner to be taken to a thread where you can vote whether or not you want that map Loved. Voting is open for 10 days, starting now! You can read more about how Project Loved works on its [wiki page](/wiki/Community/Project_Loved).
 
 Before we get started with this month's selections, the [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team) would like to bid farewell to one of our long-time osu!mania captains, as TheToaphster—also known as [Toaph Daddy](https://osu.ppy.sh/users/7616811)—has retired from their position. Having been the lead of the osu!mania Loved scene since before some of us can even remember, they helped shape osu!mania's Loved section to what it is today. Their contributions will not be forgotten and we thank them for their hard work. With their departure comes a new arrival as [Penguinosity](https://osu.ppy.sh/users/10235296) has joined the osu!mania team!
 
@@ -254,6 +254,6 @@ Fullerene's 4K map of *LeaF Style Super Shredder* is as classic as a map can get
 
 ---
 
-From everyone on the [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team), we hope you enjoyed this month's selection, and are looking forward to the next! The favoured beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) shortly after the polls end. More info about Project Loved can be found on its [wiki page](/wiki/Project_Loved). Until next time!
+From everyone on the [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team), we hope you enjoyed this month's selection, and are looking forward to the next! The favoured beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) shortly after the polls end. More info about Project Loved can be found on its [wiki page](/wiki/Community/Project_Loved). Until next time!
 
 —huu

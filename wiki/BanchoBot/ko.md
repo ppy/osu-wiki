@@ -1,16 +1,16 @@
 ---
-outdated: true
+outdated_translation: true
 ---
 
 # BanchoBot
 
 ![BanchoBot의 유저 카드](img/BanchoBot.jpg "BanchoBot의 유저 카드")
 
-BanchoBot은 정보를 표시하거나 게임에 관련된 메시지를 송출하는 것으로 채팅 내에 있는 사람들을 도와주는 봇입니다. [Echo49](https://osu.ppy.sh/users/431)에 의해 개발되어 [Bancho IRC](/wiki/Internet_Relay_Chat) (인터넷 연계 채팅)의 호스트이기도 합니다. BanchoBot은 [고유 osu! 프로필](https://osu.ppy.sh/users/3)과 [트위터 계정](https://twitter.com/banchoboat)도 가지고 있답니다!
+BanchoBot은 정보를 표시하거나 게임에 관련된 메시지를 송출하는 것으로 채팅 내에 있는 사람들을 도와주는 봇입니다. [Echo49](https://osu.ppy.sh/users/431)에 의해 개발되어 [Bancho IRC](/wiki/Community/Internet_Relay_Chat) (인터넷 연계 채팅)의 호스트이기도 합니다. BanchoBot은 [고유 osu! 프로필](https://osu.ppy.sh/users/3)과 [트위터 계정](https://twitter.com/banchoboat)도 가지고 있답니다!
 
 ## 명령어
 
-*인-게임 클라이언트 명령어의 목록은 [Chat Console](/wiki/Chat_Console#확장-채팅-콘솔) 을 참조하세요.*
+*인-게임 클라이언트 명령어의 목록은 [Chat Console](/wiki/Client/Interface/Chat_console#확장-채팅-콘솔) 을 참조하세요.*
 
 BanchoBot의 명령어는 `!` 뒤에 명령어를 붙이는 것으로 사용할 수 있습니다. 이러한 명령어들은 인-게임 및 외부 IRC 클라이언트에서 작동합니다. 이는 멀티플레이어 채팅 채널 및 BanchoBot 의 PM (개인 메시지) 탭에서 사용 가능합니다. 만약 일반 유저가 BanchoBot의 명령어를 공용 채팅 채널에서 사용하면 타 유저는 이를 볼 수 없으며, BanchoBot의 PM 기능으로 답장이 도착합니다.
 
@@ -139,11 +139,11 @@ Tama: ok
 !REPORT <user> <reason>
 ```
 
-*어떤 상황에서 신고해야 하는 지에 대한 자세한 내용은, [Reporting Bad Behaviour](/wiki/Reporting_Bad_Behaviour)를 참고하세요.*
+*어떤 상황에서 신고해야 하는 지에 대한 자세한 내용은, [Reporting Bad Behaviour](/wiki/Reporting_bad_behaviour)를 참고하세요.*
 
 *주의: 닉네임을 입력할 때 공백은 언더바 (`_`) 로 대체하여 입력하세요.*
 
-신고를 [Global Moderation Team](/wiki/Global_Moderation_Team) 혹은 [Language Moderators](/wiki/Language_Moderators) 에게 보냅니다.
+신고를 [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) 혹은 [Language Moderators](/wiki/People/The_Team/Global_Moderation_Team#언어별-관리자) 에게 보냅니다.
 
 #### 사용 예시
 

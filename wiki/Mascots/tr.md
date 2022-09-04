@@ -1,3 +1,7 @@
+---
+outdated_translation: true
+---
+
 # Maskotlar
 
 *Ayrıca Bakınız: [Maskotlar/Galeri](/wiki/Mascots/Gallery)*
@@ -44,7 +48,7 @@ Mocha, osu!taiko maskotu. Aslen ilk kez [altıncı fanart yarışması](https://
 
 > He is the hot-blooded leader of the cheer squad. He has a good soul and helps those around him who are in distress by standing up and fighting for them!
 
-一本木龍太 (Ryūta Ippongi) 2008'de katılmış olan osu!catch chibi-fruit catcher'dır, ancak yerini 2014 yılında [Yuzu](#-yuzu) aldı. O [iNiS Corporation](https://en.wikipedia.org/wiki/INiS) tarafından oluşturulmuştur ve bir zamanlar eski web sitesinin bir parçasıydı. Ayrıca [Yandere Simulator](https://yanderesimulator.com)' de NPC'dir.
+一本木龍太 (Ryūta Ippongi) 2008'de katılmış olan osu!catch chibi-fruit catcher'dır, ancak yerini 2014 yılında [Yuzu](#yuzu) aldı. O [iNiS Corporation](https://en.wikipedia.org/wiki/INiS) tarafından oluşturulmuştur ve bir zamanlar eski web sitesinin bir parçasıydı. Ayrıca [Yandere Simulator](https://yanderesimulator.com)' de NPC'dir.
 
 Ryuuta, [LuigiHann](https://osu.ppy.sh/users/1079)'nın temasında da yer aldı, [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357).
 

@@ -1,13 +1,13 @@
 ---
-outdated: true
+outdated_translation: true
 outdated_since: 048320d762fbf8472b04389126e719d219bc41f3
 ---
 
 # 利用脚本制作故事板
 
-![](img/SBS_Base.jpg "一个 .osb 文件的故事板脚本例子")
+![](img/osb-example.png "一个 .osb 文件的故事板脚本例子")
 
-除了内置的[谱面编辑器](/wiki/Beatmap_Editor/Design)以外，也可以用一个纯文本编辑器（例如：记事本或者[Notepad++](https://www.notepad-plus-plus.org/)甚至是高阶一点，使用安装了 osu! 语法扩展的 [Visual Studio Code](https://code.visualstudio.com/)）来制作[故事板](/wiki/Storyboard)。这种编辑方法被称为**利用脚本制作故事板**。这种方法允许[故事板作者](/wiki/Storyboard#storyboarding/Storyboarder)能够更精确（以像素或毫秒为单位）地编辑故事板。
+除了内置的[谱面编辑器](/wiki/Client/Beatmap_editor/Design)以外，也可以用一个纯文本编辑器（例如：记事本或者[Notepad++](https://www.notepad-plus-plus.org/)甚至是高阶一点，使用安装了 osu! 语法扩展的 [Visual Studio Code](https://code.visualstudio.com/)）来制作[故事板](/wiki/Storyboard)。这种编辑方法被称为**利用脚本制作故事板**。这种方法允许[故事板作者](/wiki/Storyboard#storyboarding/Storyboarder)能够更精确（以像素或毫秒为单位）地编辑故事板。
 
 ## 概述
 

@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated_translation: true
 ---
 
 # osu!supporter
@@ -16,12 +16,12 @@ Nota bene: le donazioni servono per sostenere tutti i costi di osu! nel compless
 
 - osu!direct (download diretto in-game)
 - osu!test (versione di test per vedere i nuovi aggiornamenti prima che diventino pubblici)
-- [Chat](/wiki/Chat_Console): nome giallo acceso nel nickname dei tuoi messaggi (visibile di quel colore agli altri, te vedi comunque il tuo nome nella chat bianco).
+- [Chat](/wiki/Client/Interface/Chat_console): nome giallo acceso nel nickname dei tuoi messaggi (visibile di quel colore agli altri, te vedi comunque il tuo nome nella chat bianco).
 - [Beatmap listing](https://osu.ppy.sh/beatmapsets): Puoi filtrare le mappe nel Beatmap Listing tra quelle già giocate quelle non giocate.
 - [Skinning](/wiki/Skinning): Puoi usare altri elementi della skin, come lo sfondo del [menù principale](https://osu.ppy.sh/community/forums/topics/96949), lo sfondo di osu!direct o lo sfondo del multiplayer.
   - Nello specifico, `menu-background.jpg` (per il menù principale); `matchsetup-background.png` (per il multiplayer); `search-background.png` (per osu!direct)
 - [Feature Requests](https://osu.ppy.sh/community/forums/4): Voti extra per le Feature Requests (solitamente c'è solo 1 voto al mese mentre con il supporter sono 2).
-- [Selezione delle mappe](/wiki/Interface): con il supporter puoi vedere le classifiche nazionali/degli amici/con delle mod specifiche in-game.
+- [Selezione delle mappe](/wiki/Client/Interface): con il supporter puoi vedere le classifiche nazionali/degli amici/con delle mod specifiche in-game.
 - Il tuo profilo: `https://osu.ppy.sh/users/`
   - Puoi aggiungere una pagina sopra le tue statistiche sul tuo profilo.
     - La tua pagina non sarà eliminata quando l'osu!supporter scade.
@@ -35,8 +35,6 @@ Nota bene: le donazioni servono per sostenere tutti i costi di osu! nel compless
 ### Costo
 
 [Usa questo convertitore di valute](http://www.oanda.com/currency/converter/) oppure [ask Google](https://www.google.com.my/#q=usd+exchange+rate) per verificare il costo nel tuo stato. Il costo dell'osu!supporter è nel dollaro statunitense ("USD$ dollar").
-
-![](img/selecting-duration.jpg)
 
 | Mesi | Costo {USD$} (sconto sul prezzo) |
 | :-: | :-- |
