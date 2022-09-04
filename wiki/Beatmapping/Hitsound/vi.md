@@ -15,7 +15,7 @@ tags:
 
 <!-- TODO: could make more articles about each part of hitsounds, and also one focused more on gameplay than mapping -->
 
-**Âm thanh** là những âm thanh osu! phát ra để đáp lại khi người dùng tương tác với  [vật thể](/wiki/Hit_object). Âm thanh được dùng để tạo ra sự phản hồi cho người chơi để giúp họ cải thiện [độ chính xác](/wiki/Gameplay/Accuracy) trong bài hát.
+**Hitsound** là những âm thanh osu! phát ra để đáp lại khi người dùng tương tác với [vật thể](/wiki/Hit_object). Âm thanh được dùng để tạo ra sự phản hồi cho người chơi để giúp họ cải thiện [độ chính xác](/wiki/Gameplay/Accuracy) trong bài hát.
 
 Âm thanh bao gồm một mẫu mặc định được gọi là *hitnormal* và bất kỳ sự kết hợp nào của *mẫu bổ sung* còi (whistle), kết thúc (finish) hoặc vỗ tay (clap). Mỗi mẫu là một phần của một trong ba *bộ mẫu* biểu thị các kiểu khác nhau: `Bình thường`, `Nhẹ` hoặc `Trống`.
 
