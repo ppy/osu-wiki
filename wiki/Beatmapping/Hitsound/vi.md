@@ -33,7 +33,7 @@ Một âm thanh được gọi là *bị động* nếu nó được đặt ở 
 
 ## Âm thanh Storyboard
 
-Các mẫu âm thanh có thể được thêm vào thông qua Storyboard để bắt chước các âm thanh. Tuy nhiên, không giống như những âm thanh thông thường, những âm thanh này luôn phát vào thời điểm nhất định bất kể người chơi có nhấn trúng đối tượng hay không. Vì lý do đó, chúng thường không được khuyến khích. Một số mapper sử dụng chúng để duy trì các mẫu âm thanh giữa các vật thể.
+Các mẫu âm thanh có thể được thêm vào thông qua Storyboard để bắt chước các hitsound. Tuy nhiên, không giống như những hitsound thông thường, chúng luôn phát vào thời điểm nhất định kể cả người chơi có nhấn trúng vật thể hay không. Vì lý do đó, chúng thường không được khuyến khích. Một số mapper sử dụng chúng để duy trì các mẫu âm thanh giữa các vật thể.
 
 ## Keysound
 
