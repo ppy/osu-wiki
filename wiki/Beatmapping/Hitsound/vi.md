@@ -11,7 +11,7 @@ tags:
 
 # Âm thanh
 
-*Xem: [Thêm âm thanh tuỳ chỉnh](/wiki/Guides/Using_custom_hitsounds)*
+*Xem: [Thêm hitsound tuỳ chỉnh](/wiki/Guides/Using_custom_hitsounds)*
 
 <!-- TODO: could make more articles about each part of hitsounds, and also one focused more on gameplay than mapping -->
 
