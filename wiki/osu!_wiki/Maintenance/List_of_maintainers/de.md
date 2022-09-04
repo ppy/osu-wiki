@@ -21,7 +21,7 @@ Wenn du Hilfe bei der Erstellung eines Beitrags benötigst oder möchtest, dass 
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | [osuShiro](https://github.com/osuShiro) | Inaktiv | Französisch |
 | ::{ flag=CH }:: [TicClick](https://osu.ppy.sh/users/672931) | [TicClick](https://github.com/TicClick) | **Aktiv** | Russisch |
 | ::{ flag=PL }:: [TPGPL](https://osu.ppy.sh/users/3944705) | [TPGPL](https://github.com/TPGPL) | Inaktiv | Polnisch |
-| ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | [Walavouchey](https://github.com/Walavouchey) | Inaktiv | Finnisch, Schwedisch |
+| ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | [Walavouchey](https://github.com/Walavouchey) | **Aktiv** | Finnisch, Schwedisch |
 | ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | [WalterToro](https://github.com/WalterToro) | Inaktiv | Spanisch |
 
 ## Verantwortliche für Neuigkeiten
