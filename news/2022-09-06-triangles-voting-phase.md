@@ -46,21 +46,21 @@ Anyway, start voting already!
 
 Click any banner below to download its team's mapset! Just keep in mind that you'll need to **play the osu!(lazer) playlist to be eligible to vote!**
 
-[![absolutno pofig team banner](/wiki/shared/news/2022-09-06-triangles-voting-open/absolutno_pofig.jpg)](LINK)
+[![absolutno pofig team banner](/wiki/shared/news/2022-09-06-triangles-voting-open/absolutno_pofig.jpg)](https://osu.ppy.sh/beatmapsets/1841846)
 
-[![Crazy Thursday team banner](/wiki/shared/news/2022-09-06-triangles-voting-open/Crazy_Thursday.jpg)](LINK)
+[![Crazy Thursday team banner](/wiki/shared/news/2022-09-06-triangles-voting-open/Crazy_Thursday.jpg)](https://osu.ppy.sh/beatmapsets/1841885)
 
-[![Crush the Candy Boys team banner](/wiki/shared/news/2022-09-06-triangles-voting-open/Crush_the_Candy_Boys.jpg)](LINK)
+[![Crush the Candy Boys team banner](/wiki/shared/news/2022-09-06-triangles-voting-open/Crush_the_Candy_Boys.jpg)](https://osu.ppy.sh/beatmapsets/1841845)
 
-[![TV Sizers team banner](/wiki/shared/news/2022-09-06-triangles-voting-open/TV_Sizers.jpg)](LINK)
+[![TV Sizers team banner](/wiki/shared/news/2022-09-06-triangles-voting-open/TV_Sizers.jpg)](https://osu.ppy.sh/beatmapsets/1841923)
 
-[![ULTRA ICE TEA team banner](/wiki/shared/news/2022-09-06-triangles-voting-open/ULTRA_ICE_TEA.jpg)](LINK)
+[![ULTRA ICE TEA team banner](/wiki/shared/news/2022-09-06-triangles-voting-open/ULTRA_ICE_TEA.jpg)](https://osu.ppy.sh/beatmapsets/1841926)
 
-[![? team banner](/wiki/shared/news/2022-09-06-triangles-voting-open/questionmark.jpg)](LINK)
+[![? team banner](/wiki/shared/news/2022-09-06-triangles-voting-open/questionmark.jpg)](https://osu.ppy.sh/beatmapsets/1841847)
 
-[![Δ = b² – 4ac team banner](/wiki/shared/news/2022-09-06-triangles-voting-open/equation.jpg)](LINK)
+[![Δ = b² – 4ac team banner](/wiki/shared/news/2022-09-06-triangles-voting-open/equation.jpg)](https://osu.ppy.sh/beatmapsets/1842004)
 
-[![三角形.tar.gz team banner](/wiki/shared/news/2022-09-06-triangles-voting-open/symbols.jpg)](LINK)
+[![三角形.tar.gz team banner](/wiki/shared/news/2022-09-06-triangles-voting-open/symbols.jpg)](https://osu.ppy.sh/beatmapsets/1842041)
 
 ---
 
