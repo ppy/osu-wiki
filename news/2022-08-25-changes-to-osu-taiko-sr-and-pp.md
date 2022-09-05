@@ -69,7 +69,7 @@ Once again, going against the new policies of this rework, changes were made.
 
 For the new system we define colour difficulty as the amount of information contained within a given pattern (or sequence if you will). For example, we can take a look with the following colour patterns and the very rough amount of information required to describe them:
 
-![](/wiki/shared/news/2022-08-25-changes-to-osu-taiko-star-rating-and-performance-points/colour-graphic-1.jpg)
+![](/wiki/shared/news/2022-08-25-changes-to-osu-taiko-star-rating-and-performance-points/colour-patterns.jpg)
 
 As we can see, a more complex pattern (by definition) requires more information to describe. To compute this, we run a compression algorithm to try to encode a given colour sequence with the minimum amount of information required. One thing to note is traditional compression algorithms typically build a dictionary from repetitive patterns, the new algorithm however, has to take where the repetitions take place into account, as repetitions that occur far from each other are typically harder to play than repetitions that's close to each other.
 
@@ -107,25 +107,29 @@ To combat this, misses will now significantly affect difficulty PP on maps with 
 
 ### Changes to Difficulty Performance Points Values
 
-  The following changes should result in impressive scores on harder beatmaps rewarding a significant increase of performance point values, with top player [syaron105](https://osu.ppy.sh/users/8741695) gaining over 6400 total PP!
+The following changes should result in impressive scores on harder beatmaps rewarding a significant increase of performance point values, with top player [syaron105](https://osu.ppy.sh/users/8741695) gaining over 6400 total PP!
 
-  Please note that these changes only affect the difficulty part of performance, which refers to the Star Rating value under a mathematically scaled formula.
+Please note that these changes only affect the difficulty part of performance, which refers to the Star Rating value under a mathematically scaled formula.
 
 - A further EZ multiplier of **0.985x** has been added, further supplementing its nerf.
 - A HR multiplier of **1.05x** has been added, this was added as a way to rebalance the changes found within accuracy PP.
 - Difficulty pp now decreases by the square of decreasing accuracy instead of linearly, which applies a huge nerf unforeseen within previous low-accuracy scores.
+
+The new accuracy-scaling formula is mapped here.
   
-  ![](/wiki/shared/news/2022-08-25-changes-to-osu-taiko-star-rating-and-performance-points/difficulty-accuracy-scaling.jpg)
+![](/wiki/shared/news/2022-08-25-changes-to-osu-taiko-star-rating-and-performance-points/difficulty-accuracy-scaling.jpg)
   
 ### Changes to Accuracy Performance Points Values
   
-  While Difficulty PP is straightforward, Accuracy performance contained a plethora of issues, both to do with reading-based mods (HD, FL) and mods that affect the Great Hit Window (EZ, DT, HR)
-- The impact of the size of the Great (300) hit window on accuracy pp has been reduced significantly. This makes PP less dependent on the OD value of a map, which greatly reduces the issues of low SR maps, with a tight hit window.
+While Difficulty PP is straightforward, Accuracy performance contained a plethora of issues, both to do with reading-based mods (HD, FL) and mods that affect the Great Hit Window (EZ, DT, HR)
 
+- The impact of the size of the Great (300) hit window on accuracy pp has been reduced significantly. This makes PP less dependent on the OD value of a map, which greatly reduces the issues of low SR maps, with a tight hit window.
 - Star rating now affects accuracy pp, which replaces most of the scaling from the previous impact of the great hit window. This further supplements the nerfs the accuracy weighting on low-SR scores and buffs high-SR scores and thus significantly limits abuse of low-SR 3-mod/4-mod scores.
 - An Additional HDFL Bonus has been added to accuracy PP, as this requires total memorisation of maps, this is multiplied by a length bonus, rewarding more, the longer the map.
-  
-![](/wiki/shared/news/2022-08-25-changes-to-osu-taiko-star-rating-and-performance-points/hd-fl-bonus.jpg)
+
+The new hidden-flashlight bonus is graphed here.
+
+![](/wiki/shared/news/2022-08-25-changes-to-osu-taiko-star-rating-and-performance-points/accuracy-mod-bonus.jpg)
   
 ## Next steps
   
