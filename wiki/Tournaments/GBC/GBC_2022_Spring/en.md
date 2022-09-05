@@ -62,7 +62,7 @@ The GB Cup 2022 Spring was run by the GB Team and various community members.
 - Livestream
   - [Bilibili stream](https://live.bilibili.com/22545296) (::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407))
   - [Bilibili stream](https://live.bilibili.com/10183) (::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617))
-- [Master sheet](https://docs.qq.com/sheet/DTWVZWk1MTFVLWllu)
+- [Information spreadsheet](https://docs.qq.com/sheet/DTWVZWk1MTFVLWllu)
 
 ## Participants
 
@@ -332,15 +332,15 @@ Sunday, April 10, 2022:
    - If a rematch happens, the original roster for each team during that particular beatmap must remain the same. If that is not possible, e.g. by virtue of a technical issue, *both* teams will be allowed to swap rosters.
    - This rule is not to be abused. Referees may veto a rematch request if they find that this is the case.
 10. **The size for a team is 5.**
-   - This might change depending on the amount of registrations.
+    - This might change depending on the amount of registrations.
 11. If a player disconnects, their scores will not be counted towards their team's total, unless adequate proof of said score is provided. The following are considered as acceptable proof:
-   - Player point-of-view live stream snippets (commonly referred to as "clips" or "VODs"). The entirety of the play, along with the results screen must be clearly visible along with the affected player's score.
-   - Replay files of the play, taken directly from the "Local scores" tab on the affected player's client (the timestamps must exactly match the time at which the game took place, as seen on the multiplayer lobby link).
-   - Screenshots from other players taken directly in-game that show the affected player's score.
+    - Player point-of-view live stream snippets (commonly referred to as "clips" or "VODs"). The entirety of the play, along with the results screen must be clearly visible along with the affected player's score.
+    - Replay files of the play, taken directly from the "Local scores" tab on the affected player's client (the timestamps must exactly match the time at which the game took place, as seen on the multiplayer lobby link).
+    - Screenshots from other players taken directly in-game that show the affected player's score.
       - Screenshots from the results screen must clearly show the affected player's score. This is the preferred method.
       - Screenshots taken in-game at the time of disconnection may be accepted. Note that this method does not provide a one-to-one representation of that player's score. Using this method is not encouraged and it may be denied at the referee's discretion if the information provided is not sufficient to identify the player/score.
       - All screenshots MUST be taken using the game itself (using Shift + F12), that is, they must be hosted on the https://osu.ppy.sh/ domain. Any other form of screenshot will be denied.
-   - Player scores may be derived from the official stream as a last resort, in cases where the match is streamed.
+    - Player scores may be derived from the official stream as a last resort, in cases where the match is streamed.
 12. If less than the minimum amount of required players are present at match time, it can be postponed for up to 10 minutes. If, after this period, there are still not enough players for either, a *win by default* will be declared for the team with the most members present.
     - The minimum amount of required players is defined as the amount of players needed to play a beatmap.
 13. Exchanging players during games is allowed without limitations, except tournament-specific rules. See the [match instructions](#match-instructions) for details.
