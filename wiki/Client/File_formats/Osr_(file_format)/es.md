@@ -10,7 +10,7 @@ Los archivos **.osr** contienen una osu! replay. Para usarlo, el beatmap especif
 | Short | 2 | Un valor little endian de 2 bytes. |
 | Integer | 4 | Un valor little endian de 4 bytes. |
 | Long | 8 | Un valor little endian de 8 bytes. |
-| ULEB128 | Varía | Un entero de longitud variable. Ver [ULEB128](http://en.wikipedia.org/wiki/ULEB128) para mas información. |
+| LEB128 | Varía | Un entero de longitud variable. Ver [LEB128](https://en.wikipedia.org/wiki/LEB128) para mas información. |
 | String | Varía | Tiene tres partes; un solo byte que será 0x00, que indica que las dos partes siguientes no están presentes, ó 0x0b (11 decimal), que indica que las dos partes siguientes están presentes. Si es 0x0b, habrá un ULEB128, que representa la longitud en bytes de la siguiente cadena, y luego la cadena en sí, codificada en UTF-8. Ver [UTF-8](http://es.wikipedia.org/wiki/UTF-8) para mas informacion. |
 
 ## Formato
