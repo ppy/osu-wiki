@@ -27,7 +27,7 @@ If you would like to know more about the changes posted, or for more concise inf
 
 ## An insight into the base of the new rework
 
-The previous rework effort aimed to the tackle all three skills at once. This not only made it difficulty to collect meaningful and targetted feedback, but halted continuous development efforts. To combat this, the osu!taiko pp committee developers ([vun](https://osu.ppy.sh/users/6932501) and [ltca](https://osu.ppy.sh/users/11475208)) opted for a more modular approach, tackling the new changes one stage at a time, in hopes for being able to fix reported issues one stage at a time.
+The previous rework effort aimed to the tackle all three skills at once. This not only made it difficult to collect meaningful and targetted feedback, but halted continuous development efforts. To combat this, the osu!taiko pp committee developers ([vun](https://osu.ppy.sh/users/6932501) and [ltca](https://osu.ppy.sh/users/11475208)) opted for a more modular approach, tackling the new changes one stage at a time, in hopes for being able to fix reported issues one stage at a time.
 
 Moving forward, osu!taiko star rating will be receiving numerous amounts of changes, potentially placing star rating and performance points in a state of flux, particularly over the coming months. During this time, we have been and will continue to work on other difficulty components (both small and large-scale) in preparation for future releases. This is generally desirable as we would want difficulty to accurately reflect the latest trends, but we understand and apologise if this may bring some unintended complications or frustrations, especially in the short term.
 
@@ -53,7 +53,7 @@ As well as this, specific nerfs for specfic patterns were implemented within a '
 
 In this section, the keybinds relating to the two colours found within osu!taiko are named k<sup>1</sup>, k<sup>2</sup> and d<sup>1</sup>, d<sup>2</sup>.
 
-- Instead of assuming a full-alternate play style, we assume that **each note of the same colour is always alternated.** For example, for the pattern kdkdkd, we assume the kat's will be hit by **k<sup>1</sup>** d<sup>1</sup> d<sup>2</sup> **k<sup>2</sup>** d<sup>1</sup> d<sup>2</sup> **k<sup>1</sup>**, and the don's will be hit by k<sup>1</sup> **d<sup>1</sup> d<sup>2</sup>** k<sup>2</sup> **d<sup>1</sup> d<sup>2</sup>** k<sup>2</sup>.
+- Instead of assuming a full-alternate play style, we assume that **each note of the same colour is always alternated.** For example, for the pattern kddkddk, we assume the kat's will be hit by **k<sup>1</sup>** d<sup>1</sup> d<sup>2</sup> **k<sup>2</sup>** d<sup>1</sup> d<sup>2</sup> **k<sup>1</sup>**, and the don's will be hit by k<sup>1</sup> **d<sup>1</sup> d<sup>2</sup>** k<sup>2</sup> **d<sup>1</sup> d<sup>2</sup>** k<sup>2</sup>.
 - The reason for this is to assume the best case scenario for repeated keystrokes regardless of play style. In other words, it aims to approximate the theoretical minimum stamina required to play a given pattern with any playstyle, with any theoretically rollable pattern being rolled. We can’t (feasibly), nor is it desired to, detect playstyles, so we assume the case that requires the least physical repetition, which is to switch keys each time a colour is to be hit, and each play style will have their respective weaknesses.
 - The combined of these changes also helps with the cases where specific playstyles or patterns were nerfed in the previous rework, as we don't detect any patterns, just the pure stamina requirement for each map.
 
