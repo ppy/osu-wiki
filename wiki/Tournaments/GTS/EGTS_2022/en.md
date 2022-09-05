@@ -74,6 +74,32 @@ The Expert Global Taiko Showdown 2022 is run by various community members.
 
 ## Mappools
 
+### Round of 16
+
+**[Download the mappack here! (118 MB)](https://mega.nz/file/WExz1IYI#iiV3lp3WPLeV3ds60t429_fNCn9SISmI1bNc1naLpTo)**
+
+- NoMod
+  1. [Gram - Nibelungen (Nwolf) \[Die Heldensage von Cynply, Faputa und dem Drachen\]](https://osu.ppy.sh/beatmapsets/1842708#taiko/3784936)
+  2. [fnylsp - SuperMiracleEnsemble (Cynplytholowazy) \[VIVID\]](https://osu.ppy.sh/beatmapsets/1842410#taiko/3784311)
+  3. [Dictate - Mitochondrion (Cut Ver.) (\[Zeth\]) \[Heatwave\]](https://osu.ppy.sh/beatmapsets/1842514#taiko/3784600)
+  4. [MYUKKE. - Salmon It Up! (Mew) \[Wrap It Up!\]](https://osu.ppy.sh/beatmapsets/1842710#taiko/3784939)
+  5. [Frums - Jam with Pancake (Alchyr) \[Good Morning\]](https://osu.ppy.sh/beatmapsets/1842712#taiko/3784941)
+- Hidden
+  1. [Kurubukko - Sora no Tonari (\_mtk) \[Sea of Stars\]](https://osu.ppy.sh/beatmapsets/1842523#taiko/3784622)
+  2. [Inferi - Onslaught of the Covenant (Cut Ver.) (Ak1o) \[No Remorse\]](https://osu.ppy.sh/beatmapsets/1842720#taiko/3784955)
+- HardRock
+  1. [DJ Mass MAD Izm\* - Red. by Jack Trance (roufou) \[rollfou style\]](https://osu.ppy.sh/beatmapsets/1842616#taiko/3784794)
+  2. [exnoiz - exnoiz Appreciation Mapset (X a v y) \[(not)Lonely girl (Xavy)\]](https://osu.ppy.sh/beatmapsets/1676148#taiko/3784652)
+- DoubleTime
+  1. [Tedjimo yomigY - JezoensiS (Cychloryn) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1841481#taiko/3782248)
+  2. [Tanchiky - Maneuver (Nwolf) \[Man uber (EhGTS Ehdit)\]](https://osu.ppy.sh/beatmapsets/1842730#taiko/3784968)
+- FreeMod
+  1. [4nzu - SCAN EGOEVIL (ekumea1123) \[HYPER\]](https://osu.ppy.sh/beatmapsets/1842570#taiko/3784715)
+  2. [SOOOO - iiillluuuvvvUUU (Faputa) \[dddooouuulluuuvvvMMMEEE\]](https://osu.ppy.sh/beatmapsets/1842820#taiko/3785122)
+  3. [DJ Witch Girl MIR4CLEN - Danrit (Gamelan4) \[F\*CK!!\]](https://osu.ppy.sh/beatmapsets/1842746#taiko/3784993)
+- Tiebreaker
+  1. **[rN vs. [Shanom, ptar124 & Zekai] - dichroma, ludiosia. (Briesmas) \[Dreams of Scarlet Oceans\]](https://osu.ppy.sh/beatmapsets/1842219#taiko/3783913)**
+
 ### Round of 32
 
 **[Download the mappack here! (110 MB)](https://mega.nz/file/HQYgGLxS#nA8z_WgxiNNIcBc3DQW4ypNmXRtuWEK3Sd-V80xhwx8)**
@@ -207,14 +233,14 @@ Saturday, 3 September 2022:
 | **Mazzuli500** ::{ flag=FI }:: | **6** | 1 | ::{ flag=JP }:: nuku0315 | [#1](https://osu.ppy.sh/community/matches/103535248) |
 | **goheegy** ::{ flag=GB }:: | **6** | 1 | ::{ flag=TW }:: | [#1](https://osu.ppy.sh/community/matches/103535548) |
 | \_Kan2 ::{ flag=JP }:: | -1 | **0** | ::{ flag=DE }:: **frz** | *win by default* |
-| **driodx** ::{ flag=US }:: | **6** | 1 | ::{ flag=AT }:: Huntey | [#1]() |
+| **driodx** ::{ flag=US }:: | **6** | 1 | ::{ flag=AT }:: Huntey | [#1](https://osu.ppy.sh/community/matches/103537029) |
 | **BG\_SubMessy** ::{ flag=JP }:: | **0** | -1 | ::{ flag=CR }:: Hotman | *win by default* |
 | **Six b0xes** ::{ flag=JP }:: | **6** | 2 | ::{ flag=FI }:: vodnanen | [#1](https://osu.ppy.sh/community/matches/103536921) |
 | **Chernobog** ::{ flag=FR }:: | **6** | 0 | ::{ flag=ID }:: Sleepti | [#1](https://osu.ppy.sh/community/matches/103538821) |
 | **Dayzeek** ::{ flag=RU }:: | **6** | 1 | ::{ flag=MX }:: Awwy | [#1](https://osu.ppy.sh/community/matches/103538597) |
 | Ikkun ::{ flag=IT }:: | 4 | **6** | ::{ flag=US }:: **AuroraPhasmata** | [#1](https://osu.ppy.sh/community/matches/103541748) |
 | **Boaz** ::{ flag=NL }:: | **6** | 0 | ::{ flag=US }:: Etholux | [#1](https://osu.ppy.sh/community/matches/103543405) |
-| **Zero1519** ::{ flag=CH }:: | **6** | 0 | ::{ flag=US }:: SlipperyPickle | [#1]() |
+| **Zero1519** ::{ flag=CH }:: | **6** | 0 | ::{ flag=US }:: SlipperyPickle | [#1](https://osu.ppy.sh/community/matches/103543407) |
 | QALF ::{ flag=FR }:: | -1 | **0** | ::{ flag=US }:: **\_Flamescion\_** | *win by default* |
 | **LordEnder** ::{ flag=IT }:: | **6** | 4 | ::{ flag=US }:: Miniature Lamp | [#1](https://osu.ppy.sh/community/matches/103545205) |
 | **Ulqui** ::{ flag=CL }:: | **6** | 0 | ::{ flag=GB }:: overdahedge2014 | [#1](https://osu.ppy.sh/community/matches/103544979) |
@@ -237,7 +263,7 @@ Sunday, 3 September 2022:
 | **Blujae** ::{ flag=NZ }:: | **6** | 0 | ::{ flag=MX }:: -Devo | [#1](https://osu.ppy.sh/community/matches/103555380) |
 | **CrabCow** ::{ flag=MY }:: | **6** | 3 | ::{ flag=NZ }:: idk123456 | [#1](https://osu.ppy.sh/community/matches/103557001) |
 | **Grape\_Tea** ::{ flag=JP }:: | **6** | 0 | ::{ flag=SG } :: Prehistoria | [#1](https://osu.ppy.sh/community/matches/103558532) |
-| **Minekuchi** ::{ flag=DE }:: | **6** | 0 | ::{ flag=JP }:: mizkifanboy | [#1]() |
+| **Minekuchi** ::{ flag=DE }:: | **6** | 0 | ::{ flag=JP }:: mizkifanboy | [#1](https://osu.ppy.sh/community/matches/103558534) |
 | **BG\_SubMessy** ::{ flag=JP }:: | **0** | -1 | ::{ flag=IT }:: KITEMMUORT322 | *win by default* |
 | MEGAMELA ::{ flag=FI }:: | 4 | **6** | ::{ flag=JP }:: **akumufangirl** | [#1](https://osu.ppy.sh/community/matches/103559311) |
 | **Seren58** ::{ flag=JP }:: | **6** | 1 | ::{ flag=IT }:: D3kuu | [#1](https://osu.ppy.sh/community/matches/103560497) |
