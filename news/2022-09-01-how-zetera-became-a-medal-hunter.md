@@ -20,7 +20,7 @@ This brings us to the main character of this story, [Zetera](https://osu.ppy.sh/
 
 So how did he get into medal hunting? It was quite simple actually — he just didn't like how unobtained medals looked like on the old websites. He described them as "huge boxes with a question mark", and would rather have had those boxes show the actual hand-drawn designs than just a question mark. Older players might remember them looking like this:
 
-![](https://i.imgur.com/ca5Z33V.png)
+![](/wiki/shared/news/2022-09-30-how-zetera-became-a-medal-hunter/oldmedals.jpg)
 
 Every time new ones were added he'd try and find the meaning behind them and eventually built a habit out of it. Discord and the likes did not exist back in those days so a lot of time was spent hanging out on the forums, `#osu` and in-game DMs, with lots of players coming together and collaborating on what the solution could be.
 
