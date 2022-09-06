@@ -187,7 +187,7 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 #### Rules
 
 - **Every slider must have a clear and visible path of movement to follow from start to end.** Sliders that overlap themselves without straightforward slider borders and sliders whose individual sections are unreadable cannot be used. A slider's end position must be clear under the assumption that a player has a skin which makes slider end circles fully transparent. 
-  - If a slider's follow circle covers the whole slider path, the movement of its slider ball may be ambiguous.
+  - If a slider's follow circle can be active (i.e. the slider can be held) over its duration without any player movement away from the slider head, the movement of its slider ball may be ambiguous.
 
 #### Guidelines
 
