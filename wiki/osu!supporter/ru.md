@@ -89,7 +89,7 @@ osu!direct — это инструмент для поиска и скачива
 
 | Параметр | Без osu!supporter | С osu!supporter |
 | :-- | :-: | :-: |
-| [Число загруженных карт](/wiki/Beatmap/Category#work-in-progress-и-pending) | `2 + min(число ранкнутых карт, 6)`, в сумме до **8**[^pending-beatmaps-ref] | `8 + min(число ранкнутых карт, 12)`, в сумме до **20**[^pending-beatmaps-ref] |
+| [Число загруженных карт](/wiki/Beatmap/Category#work-in-progress-и-pending) | `4 + min(число ранкнутых карт, 4)`, в сумме до **8**[^pending-beatmaps-ref] | `8 + min(число ранкнутых карт, 12)`, в сумме до **20**[^pending-beatmaps-ref] |
 | Число карт в избранном на сайте | 100 | 1000 |
 | Число друзей | 250 | 500 |
 

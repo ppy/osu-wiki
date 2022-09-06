@@ -87,7 +87,7 @@ osu! 为支持者们放宽各种在线功能的限额：
 
 | 功能 | 普通玩家限额 | 支持者限额 |
 | :-- | :-: | :-: |
-| [Pending 谱面](/wiki/Beatmap/Category#work-in-progress-和-pending) | `2 + min(Ranked 谱面, 6)`最多 **8** 个[^pending-beatmaps-ref] | `8 + min(Ranked 谱面, 12)`最多 **20** 个[^pending-beatmaps-ref] |
+| [Pending 谱面](/wiki/Beatmap/Category#work-in-progress-和-pending) | `4 + min(Ranked 谱面, 4)`最多 **8** 个[^pending-beatmaps-ref] | `8 + min(Ranked 谱面, 12)`最多 **20** 个[^pending-beatmaps-ref] |
 | 在线收藏的谱面 | 100 | 1000 |
 | 好友数量 | 250 | 500 |
 
