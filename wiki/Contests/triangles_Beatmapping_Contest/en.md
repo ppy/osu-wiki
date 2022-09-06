@@ -21,7 +21,7 @@ Submissions to this contest include:
 | Announcement | 2022-05-31 |
 | Submission phase | 2022-05-30/2022-07-27 |
 | Judging phase | 2022-07-28/2022-08-31 |
-| Community vote and lazer playlists | 2022-09-06/2022-09-20 |
+| Community vote and lazer playlists | 2022-09-06/2022-09-25 |
 | Results announcement livestream | TBD |
 
 ## Links
