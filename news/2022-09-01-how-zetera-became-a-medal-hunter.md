@@ -58,9 +58,17 @@ Just to provide a bit more context to his comment above, the purpose of the [GMT
 
 Zetera also mentored new mappers via the Mentorship program (and will be returning to it again!), which is a program that puts people who are eager to learn about mapping with experienced mappers who are want to share their knowledge. He later mentioned that he led the modern Beatmap Spotlights team for the osu! game mode, managing the Spotlights playlists in osu!(lazer) for the first two seasons in 2020. These are the playlists that you will find in osu!(lazer) from time to time where you can earn medals if you top the rankings! 
 
-As for the "90% medals club", in 2019 the medal hunter community created [Osekai](https://osekai.net/home/), a website made for alternative rankings, in-depth profile information and much more! On their [Discord server](https://discord.com/invite/8qpNTs6), there are "clubs" that people join by receiving a Discord role based on the number of medals they have. The club in question, as the name implies, includes people who possess 90% of all medals, and at the time of writing consists of [only 44 people](https://osekai.net/rankings/?ranking=Medals&type=Users) in the entire game!
+As for the "90% medals club", in 2019 the medal hunter community created [Osekai](https://osekai.net/home/), a website made for alternative rankings, in-depth profile information and much more! On their [Medal Hunters Discord server](https://discord.com/invite/8qpNTs6), there are "clubs" that people join by receiving a Discord role based on the number of medals they have. The club in question, as the name implies, includes people who possess 90% of all medals, and at the time of writing consists of [only 44 people](https://osekai.net/rankings/?ranking=Medals&type=Users) in the entire game!
 
-If you are interested in medal hunting definitely look into Osekai *(please note that the website contains solutions to medals, so if you'd rather solve them yourselves the site might not be for you)* and join the [Medal Hunters Discord server](https://discord.com/invite/8qpNTs6), and definitely stay on the lookout for new medals, especially since Ephemeral has just teased [a new Hush-Hush medal](https://twitter.com/osekaiapp/status/1564610856381464580) and with the community discovering [even more upcoming medals](https://twitter.com/osekaiapp/status/1564871086617071616) by finding their assets on the website.
+If you are interested in medal hunting the osu! staff have prepared **3** new hush-hush medals ready to be devoured!
+
+![](/wiki/shared/news/2022-09-30-how-zetera-became-a-medal-hunter/all-secret-deliberation.png)![](/wiki/shared/news/2022-09-30-how-zetera-became-a-medal-hunter/all-secret-lightless.png)![](/wiki/shared/news/2022-09-30-how-zetera-became-a-medal-hunter/all-secret-when-you-see-it.png)
+
+And if you aren't feeling like it there are **3** less-puzzling beatmap packs to consume too, click on the medals below to view their respective packs!
+
+![https://osu.ppy.sh/beatmaps/packs/2483](/wiki/shared/news/2022-09-30-how-zetera-became-a-medal-hunter/all-packs-aitsuki.png)![https://osu.ppy.sh/beatmaps/packs/2482](/wiki/shared/news/2022-09-30-how-zetera-became-a-medal-hunter/all-packs-maduk.png)![https://osu.ppy.sh/beatmaps/packs/2481](/wiki/shared/news/2022-09-30-how-zetera-became-a-medal-hunter/all-packs-vocaloid.png)
+
+Don't want to hunt for the medals alone? Join the Medal Hunters Discord server and check out Osekai *(please note that the website contains solutions to medals, so if you'd rather solve them yourselves the site might not be for you)*!
 
 Lastly, the full conversation with Zetera goes into much more detail about hunting medals in general, and I highly suggest you [check it out](https://gist.github.com/0x84f/5b93172d0ca1c3bf975eb8b40faa3474) if this article was interesting to you.
 
