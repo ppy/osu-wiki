@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "triangles: Voting Phase"
-date: 2021-09-06 09:00:00 +0000
+date: 2022-09-06 09:00:00 +0000
 ---
 
 Mark your favourite triangle-themed maps in osu!'s latest and greatest mapping + storyboarding contest!
