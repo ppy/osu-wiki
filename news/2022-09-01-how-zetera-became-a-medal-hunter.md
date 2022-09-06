@@ -24,7 +24,7 @@ So how did he get into medal hunting? It was quite simple actually — he just d
 
 Every time new ones were added he'd try and find the meaning behind them and eventually built a habit out of it. Discord and the likes did not exist back in those days so a lot of time was spent hanging out on the forums, `#osu` and in-game DMs, with lots of players coming together and collaborating on what the solution could be.
 
-In October of 2017 a new [Halloween-themed update](https://osu.ppy.sh/home/news/2017-10-31-halloween-descends) was released for osu! and 9 new Hush-Hush medals were added. At that point it had been a year since the last batch of Hush-Hush medals and finally, the community had more cryptic puzzles (in the form of medal flair texts and icons) to chew on. 
+In October of 2017 a new [Halloween-themed update](https://osu.ppy.sh/home/news/2017-10-31-halloween-descends) was released for osu! and 9 new Hush-Hush medals were added. At that point it had been a year since the last batch of Hush-Hush medals and finally, the community had more cryptic puzzles (in the form of medal flair texts and icons) to chew on.
 
 Since getting batches of medals was still new, there wasn't a lot of knowledge behind what made the medal system tick, especially because the whole system was rewritten in 2016. Nowadays the community knows exactly what to look for and how extensive the system is, but back then the community's ideas were much more abstract than what was actually possible, simply because it was really hard to gauge just how precise requirements were for any given medal.
 
@@ -56,17 +56,17 @@ Eventually, he got the medal and sure enough, after sending a forum PM to Epheme
 
 Just to provide a bit more context to his comment above, the purpose of the [GMT (Global Moderation team)](/wiki/People/The_Team/Global_Moderation_Team) is to tackle community issues and player moderation. Moddingv2 is how the new beatmap modding system was called, and is a complete overhaul of the ancient beatmap modding system, where instead of having a forum thread for every map submitted (which got messy real quick), a more streamlined system was put in place to properly sort feedback, general praise, and beatmap-specific feedback.
 
-Zetera also mentored new mappers via the Mentorship program (and will be returning to it again!), which is a program that puts people who are eager to learn about mapping with experienced mappers who are want to share their knowledge. He later mentioned that he led the modern Beatmap Spotlights team for the osu! game mode, managing the Spotlights playlists in osu!(lazer) for the first two seasons in 2020. These are the playlists that you will find in osu!(lazer) from time to time where you can earn medals if you top the rankings! 
+Zetera also mentored new mappers via the Mentorship program (and will be returning to it again!), which is a program that puts people who are eager to learn about mapping with experienced mappers who are want to share their knowledge. He later mentioned that he led the modern Beatmap Spotlights team for the osu! game mode, managing the Spotlights playlists in osu!(lazer) for the first two seasons in 2020. These are the playlists that you will find in osu!(lazer) from time to time where you can earn medals if you top the rankings!
 
 As for the "90% medals club", in 2019 the medal hunter community created [Osekai](https://osekai.net/home/), a website made for alternative rankings, in-depth profile information and much more! On their [Medal Hunters Discord server](https://discord.com/invite/8qpNTs6), there are "clubs" that people join by receiving a Discord role based on the number of medals they have. The club in question, as the name implies, includes people who possess 90% of all medals, and at the time of writing consists of [only 44 people](https://osekai.net/rankings/?ranking=Medals&type=Users) in the entire game!
 
 If you are interested in medal hunting the osu! staff have prepared **3** new Hush-Hush medals ready to be devoured!
 
-![](/wiki/shared/news/2022-09-30-how-zetera-became-a-medal-hunter/all-secret-deliberation.png)![](/wiki/shared/news/2022-09-30-how-zetera-became-a-medal-hunter/all-secret-lightless.png)![](/wiki/shared/news/2022-09-30-how-zetera-became-a-medal-hunter/all-secret-when-you-see-it.png)
+![](https://assets.ppy.sh/medals/web/all-secret-lightless.png)![](https://assets.ppy.sh/medals/web/all-secret-deliberation.png)![](https://assets.ppy.sh/medals/web/all-secret-when-you-see-it.png)
 
 And if you aren't feeling like it there are **3** less-puzzling beatmap packs to consume too, click on the medals below to view their respective packs!
 
-![https://osu.ppy.sh/beatmaps/packs/2483](/wiki/shared/news/2022-09-30-how-zetera-became-a-medal-hunter/all-packs-aitsuki.png)![https://osu.ppy.sh/beatmaps/packs/2482](/wiki/shared/news/2022-09-30-how-zetera-became-a-medal-hunter/all-packs-maduk.png)![https://osu.ppy.sh/beatmaps/packs/2481](/wiki/shared/news/2022-09-30-how-zetera-became-a-medal-hunter/all-packs-vocaloid.png)
+![https://osu.ppy.sh/beatmaps/packs/2483](https://assets.ppy.sh/medals/web/all-packs-aitsuki.png)![https://osu.ppy.sh/beatmaps/packs/2482](https://assets.ppy.sh/medals/web/all-packs-maduk.png)![https://osu.ppy.sh/beatmaps/packs/2481](https://assets.ppy.sh/medals/web/all-packs-vocaloid.png)
 
 Don't want to hunt for the medals alone? Join the Medal Hunters Discord server and check out Osekai *(please note that the website contains solutions to medals, so if you'd rather solve them yourselves the site might not be for you)*!
 
