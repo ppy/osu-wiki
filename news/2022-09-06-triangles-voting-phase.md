@@ -20,7 +20,7 @@ Before you can vote, you'll need to **play one of the triangles playlists in osu
 
 Access the playlists via the **play** menu on osu!(lazer) and filtering by **Featured Artists** in the top-right corner. There's one playlist for each difficulty level (Easy/Normal/Hard/Insane/Expert).
 
-![](LINK)
+![triangles playlist](/wiki/shared/news/2022-09-06-triangles-voting-open/playlist.png)
 
 The top entries in the vote will earn these prizes:
 
