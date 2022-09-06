@@ -60,7 +60,7 @@ Zetera also mentored new mappers via the Mentorship program (and will be returni
 
 As for the "90% medals club", in 2019 the medal hunter community created [Osekai](https://osekai.net/home/), a website made for alternative rankings, in-depth profile information and much more! On their [Medal Hunters Discord server](https://discord.com/invite/8qpNTs6), there are "clubs" that people join by receiving a Discord role based on the number of medals they have. The club in question, as the name implies, includes people who possess 90% of all medals, and at the time of writing consists of [only 44 people](https://osekai.net/rankings/?ranking=Medals&type=Users) in the entire game!
 
-If you are interested in medal hunting the osu! staff have prepared **3** new hush-hush medals ready to be devoured!
+If you are interested in medal hunting the osu! staff have prepared **3** new Hush-Hush medals ready to be devoured!
 
 ![](/wiki/shared/news/2022-09-30-how-zetera-became-a-medal-hunter/all-secret-deliberation.png)![](/wiki/shared/news/2022-09-30-how-zetera-became-a-medal-hunter/all-secret-lightless.png)![](/wiki/shared/news/2022-09-30-how-zetera-became-a-medal-hunter/all-secret-when-you-see-it.png)
 
