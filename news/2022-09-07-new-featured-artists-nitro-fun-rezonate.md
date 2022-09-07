@@ -53,7 +53,7 @@ Stretch your fingers to [this 7K osu!mania map](https://osu.ppy.sh/beatmapsets/6
 Take one last adventure through [this osu! map](https://osu.ppy.sh/beatmapsets/671617) hosted by [Fursum](https://osu.ppy.sh/users/4865030).
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/300/Prelude%20EP%2FRezonate%20-%20The%20Journey.mp3" type="audio/mpeg">
 </audio>
 
 ---
