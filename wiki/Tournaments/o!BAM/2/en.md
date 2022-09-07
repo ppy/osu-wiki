@@ -1,18 +1,18 @@
 ---
 tags:
   - o!BAM
-  - o!BAM2
+  - o!BAM 2
 ---
 
 # osu! Battle Archive Malaysia 2
 
-![o!BAM banner](img/banner.png)
+![o!BAM 2 banner](img/banner.png)
 
 The **osu! Battle Archive Malaysia 2** (***o!BAM2***) is a double-elimination 2v2 osu! tournament hosted by ::{ flag=MY }:: [LouisZpro](https://osu.ppy.sh/users/6231292) and ::{ flag=MY }:: [Tzero](https://osu.ppy.sh/users/6088976). The tournament was open to teams of two with a ::{ flag=MY }:: Malaysian player as their captain. Second player is only allowed from the ten [ASEAN member states](https://asean.org/about-asean/member-states/) (::{ flag=BN }:: Brunei Darussalam, ::{ flag=KH }:: Cambodia, ::{ flag=ID }:: Indonesia, ::{ flag=LA }:: Laos, ::{ flag=MY }:: Malaysia, ::{ flag=MM }:: Myanmar, ::{ flag=PH }:: The Philippines, ::{ flag=SG }:: Singapore, ::{ flag=TH }:: Thailand, and ::{ flag=VN }:: Vietnam) regardless of rank. Despite the change in format from its previous iterations, the tournament was formally regarded as the second instalment of the osu! Battle Archive Malaysia.
 
 ## Tournament schedule
 
-| Event | Timestamp | 
+| Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2022-08-19/2022-09-04 |
 | Qualifiers | 2022-09-16/2022-09-18 |
@@ -34,12 +34,12 @@ The osu! Battle Archive Malaysia 2 was run by various community members.
 | Administrator | ::{ flag=MY }:: [Laphii](https://osu.ppy.sh/users/9364594), ::{ flag=SG }:: [Kotoha](https://osu.ppy.sh/users/7823498) |
 | Mappool selector | ::{ flag=MY }:: [LouisZpro](https://osu.ppy.sh/users/6231292), ::{ flag=SG }:: [Kotoha](https://osu.ppy.sh/users/7823498), ::{ flag=MY }:: [Tzero](https://osu.ppy.sh/users/6088976) |
 | Playtester | ::{ flag=MY }:: [Agagak](https://osu.ppy.sh/users/3645490), ::{ flag=US }:: [bananaman533](https://osu.ppy.sh/users/1284243), ::{ flag=US }:: [BATBALL](https://osu.ppy.sh/users/15173952), ::{ flag=SG }:: [Demonical](https://osu.ppy.sh/users/5447609), ::{ flag=CA }:: [FlatPaper](https://osu.ppy.sh/users/11255340), ::{ flag=KR }:: [lolboatz](https://osu.ppy.sh/users/12962464), ::{ flag=SG }:: [m0fum0fu](https://osu.ppy.sh/users/5143605), ::{ flag=JP }:: [makipan](https://osu.ppy.sh/users/12944109), ::{ flag=SG }:: [Randomguruz](https://osu.ppy.sh/users/8040494), ::{ flag=SG }:: [Rtyzen](https://osu.ppy.sh/users/2439822) |
-| Streamer | ::{ flag=MY }:: [Khoo Hao Yit](https://osu.ppy.sh/users/9534110), ::{ flag=MY }:: [Laphii](https://osu.ppy.sh/users/9364594),  ::{ flag=MY }:: [Its not Marvin](https://osu.ppy.sh/users/13600612) | 
-| Commentator | ::{ flag=MY }:: [banner](https://osu.ppy.sh/users/14290988), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131), ::{ flag=MY }:: [Fancyyy](https://osu.ppy.sh/users/12616268), ::{ flag=MY }:: [Hanami-](https://osu.ppy.sh/users/8703188), ::{ flag=MY }:: [Its not Marvin](https://osu.ppy.sh/users/13600612), ::{ flag=MY }:: [malaidan](https://osu.ppy.sh/users/14279913), ::{ flag=MY }:: [Racers03](https://osu.ppy.sh/users/11621976), ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=MY }:: [squidstain](https://osu.ppy.sh/users/11073207)|
+| Streamer | ::{ flag=MY }:: [Khoo Hao Yit](https://osu.ppy.sh/users/9534110), ::{ flag=MY }:: [Laphii](https://osu.ppy.sh/users/9364594),  ::{ flag=MY }:: [Its not Marvin](https://osu.ppy.sh/users/13600612) |
+| Commentator | ::{ flag=MY }:: [banner](https://osu.ppy.sh/users/14290988), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131), ::{ flag=MY }:: [Fancyyy](https://osu.ppy.sh/users/12616268), ::{ flag=MY }:: [Hanami-](https://osu.ppy.sh/users/8703188), ::{ flag=MY }:: [Its not Marvin](https://osu.ppy.sh/users/13600612), ::{ flag=MY }:: [malaidan](https://osu.ppy.sh/users/14279913), ::{ flag=MY }:: [Racers03](https://osu.ppy.sh/users/11621976), ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=MY }:: [squidstain](https://osu.ppy.sh/users/11073207) |
 | Referee | ::{ flag=BN }:: [aaronkoichi](https://osu.ppy.sh/users/11288235), ::{ flag=MY }:: [dragonlemmy](https://osu.ppy.sh/users/14053835), ::{ flag=MY }:: [Hand Sanitiser](https://osu.ppy.sh/users/5091293), ::{ flag=MY }:: [Honor27](https://osu.ppy.sh/users/25419414), ::{ flag=MY }:: [Laphii](https://osu.ppy.sh/users/9364594), ::{ flag=MY }:: [Online](https://osu.ppy.sh/users/13486575), ::{ flag=VN }:: [rock-on](https://osu.ppy.sh/users/9676089), ::{ flag=MY }:: [Wen4ng3l](https://osu.ppy.sh/users/9288833) |
 | Graphic designer | ::{ flag=MY }:: [LouisZpro](https://osu.ppy.sh/users/6231292) |
 | Spreadsheet manager | ::{ flag=MY }:: [Laphii](https://osu.ppy.sh/users/9364594) |
-| Wiki editor | ::{ flag=MY }:: [Laphii](https://osu.ppy.sh/users/9364594) | 
+| Wiki editor | ::{ flag=MY }:: [Laphii](https://osu.ppy.sh/users/9364594) |
 
 ## Links
 
@@ -74,6 +74,7 @@ The osu! Battle Archive Malaysia 2 was run by various community members.
 ## Ruleset
 
 ### General
+
 1. osu! Battle Archive Malaysia uses a double-elimination bracket and is a 2v2 osu! tournament.
 2. Teams can only have 2 players. This means no substitution.
 3. The score system used will be **Score V2**.
@@ -111,8 +112,8 @@ The osu! Battle Archive Malaysia 2 was run by various community members.
 
 1. In the Group Stage, all previously qualified teams will be divided into 8 groups consisting of 5 different teams each based on their seed.
 2. All teams in each group will face each other over two week.
-3. All group stage matches will be best of 9 (first to 5 wins)
-5. The 1st and 2nd-placed team from each group will qualify to the RO16 winner’s bracket. The 3rd and 4th-placed teams will qualify to the RO16 loser’s bracket. The 5th-placed teams will be eliminated.
+3. All group stage matches will be best of 9 (first to 5 wins).
+4. The 1st and 2nd-placed team from each group will qualify to the RO16 winner’s bracket. The 3rd and 4th-placed teams will qualify to the RO16 loser’s bracket. The 5th-placed teams will be eliminated.
 
 #### Knock-out stage rules
 
