@@ -4,7 +4,7 @@ title: "Skinning Contest: Chromatic Alteration - Voting Open"
 date: 2022-09-08 12:00:00 +0000
 ---
 
-Canvases are painted, brushes are wore out, skins are prepared for your eyes to see. Now is your chance to vote for your favourite!
+Canvases are painted, brushes are worn out, skins are prepared for your eyes to see. Now is your chance to vote for your favourite!
 
 ![](/wiki/shared/news/2022-09-08-skinning-contest-chromatic-alteration-voting-open/banner.jpg)
 
@@ -12,7 +12,7 @@ In case you're new to all this, the Skinning Contest is exactly what it suggests
 
 Of course, for the skinners extraordinaire there are no obstacles that cannot be overcome. A grand total of **23 skinners** are showcasing their craftsmanship with their beloved **23 valorous entries**. They have done their part masterfully, now the task of choosing the best among the best falls onto you! But make sure to test them all out in order to appreciate the effort put into these delicate creations. 
 
-All of these majestic artistry now reside within our resident storage medium, otherwise known as the [completed skins compendium](https://compendium.skinship.xyz/contests/3). You are highly encouraged to browse around and examine them thoroughly.
+All of these majestic pieces of artistry now reside within our resident storage medium, otherwise known as the [completed skins compendium](https://compendium.skinship.xyz/contests/3). You are highly encouraged to browse around and examine them thoroughly.
 
 If you're not sure where to start, don't worry, we've prepared showcase videos of each submission to help you consider them fully. Take a seat and watch them all on the playlist below:
 
