@@ -8,7 +8,7 @@ tags:
 
 ![o!BAM 2 banner](img/banner.png)
 
-The **osu! Battle Archive Malaysia 2** (***o!BAM2***) is a double-elimination 2v2 osu! tournament hosted by ::{ flag=MY }:: [LouisZpro](https://osu.ppy.sh/users/6231292) and ::{ flag=MY }:: [Tzero](https://osu.ppy.sh/users/6088976). The tournament was open to teams of two with a ::{ flag=MY }:: Malaysian player as their captain. Second player is only allowed from the ten [ASEAN member states](https://asean.org/about-asean/member-states/) (::{ flag=BN }:: Brunei Darussalam, ::{ flag=KH }:: Cambodia, ::{ flag=ID }:: Indonesia, ::{ flag=LA }:: Laos, ::{ flag=MY }:: Malaysia, ::{ flag=MM }:: Myanmar, ::{ flag=PH }:: The Philippines, ::{ flag=SG }:: Singapore, ::{ flag=TH }:: Thailand, and ::{ flag=VN }:: Vietnam) regardless of rank. Despite the change in format from its previous iterations, the tournament was formally regarded as the second instalment of the osu! Battle Archive Malaysia.
+The **osu! Battle Archive Malaysia 2** (***o!BAM2***) is a double-elimination 2v2 osu! tournament hosted by ::{ flag=MY }:: [LouisZpro](https://osu.ppy.sh/users/6231292) and ::{ flag=MY }:: [Tzero](https://osu.ppy.sh/users/6088976). The tournament is open to teams of two with a ::{ flag=MY }:: Malaysian player as their captain. Second player is only allowed from the ten [ASEAN member states](https://asean.org/about-asean/member-states/) (::{ flag=BN }:: Brunei Darussalam, ::{ flag=KH }:: Cambodia, ::{ flag=ID }:: Indonesia, ::{ flag=LA }:: Laos, ::{ flag=MY }:: Malaysia, ::{ flag=MM }:: Myanmar, ::{ flag=PH }:: The Philippines, ::{ flag=SG }:: Singapore, ::{ flag=TH }:: Thailand, and ::{ flag=VN }:: Vietnam) regardless of rank. Despite the change in format from its previous iterations, the tournament is formally regarded as the second instalment of the osu! Battle Archive Malaysia.
 
 ## Tournament schedule
 
@@ -16,7 +16,7 @@ The **osu! Battle Archive Malaysia 2** (***o!BAM2***) is a double-elimination 2v
 | --: | :-- |
 | Registration phase | 2022-08-19/2022-09-04 |
 | Qualifiers | 2022-09-16/2022-09-18 |
-| Live drawings | 2022-09-20 ({22:00 UTC+8}) |
+| Live drawings | 2022-09-20 (22:00 UTC+8) |
 | Group stage | 2022-09-23/2022-10-02 |
 | Round of 16 | 2022-10-08/2022-10-09 |
 | Quarterfinals | 2022-10-15/2022-10-16 |
@@ -26,7 +26,7 @@ The **osu! Battle Archive Malaysia 2** (***o!BAM2***) is a double-elimination 2v
 
 ## Organisation
 
-The osu! Battle Archive Malaysia 2 was run by various community members.
+The osu! Battle Archive Malaysia 2 is run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -50,7 +50,7 @@ The osu! Battle Archive Malaysia 2 was run by various community members.
 
 ## Mappools
 
-### Qualifiers
+### Qualifier
 
 **[Download the mappack here! (72 MB)](https://cdn.discordapp.com/attachments/959526009546346516/1016688876674351124/obam2_qualifiers_.rar)**
 
@@ -73,7 +73,7 @@ The osu! Battle Archive Malaysia 2 was run by various community members.
 
 ## Ruleset
 
-### General
+### General rules
 
 1. osu! Battle Archive Malaysia uses a double-elimination bracket and is a 2v2 osu! tournament.
 2. Teams can only have 2 players. This means no substitution.
