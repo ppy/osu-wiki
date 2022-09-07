@@ -10,11 +10,11 @@ A duo of [**Monstercat**](https://osu.ppy.sh/beatmaps/artists/255) talents have 
 
 Ultra-talented producers **Nitro Fun** and **Rezonate** offer two distinct takes on EDM.
 
-**Nitro Fun** emphasizes literal *fun* through high-tempo and high-energy with a style that especially appeals to video game audiences, as seen through feature spots in *Sonic the Hedgehog*, *Forza Horizon*, and *Just Shapes and Beats.* **Rezonate**, however, leans towards the side of pure *relaxation*, producing longer songs at lower tempos that evoke a sense of grandiose exploration.
+**Nitro Fun** emphasizes literal *fun* through high tempo and high energy with a style that especially appeals to video game audiences, as seen through feature spots in *Sonic the Hedgehog*, *Forza Horizon*, and *Just Shapes and Beats*. **Rezonate**, however, leans towards the side of pure *relaxation*, producing longer songs at lower tempos that evoke a sense of grandiose exploration.
 
 A combined **6** tracks from both of these artists are ready for mapping! Take your pick from [**Nitro Fun**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/299) or [**Rezonate**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/300).
 
-Need some mapping inspiration? Take a peek at this duo-feature video showcasing [Nitro Fun - Cheat Codes VIP](https://osu.ppy.sh/beatmapsets/711420) and [Rezonate - The Phoenix](https://osu.ppy.sh/beatmapsets/711926), or play through some maps for yourself.
+Need some mapping inspiration? Take a peek at this duo feature video showcasing [Nitro Fun - Cheat Codes VIP](https://osu.ppy.sh/beatmapsets/711420) and [Rezonate - The Phoenix](https://osu.ppy.sh/beatmapsets/711926), or play through some maps for yourself.
 
 Check everything out:
 
@@ -58,9 +58,9 @@ Take one last adventure through [this osu! map](https://osu.ppy.sh/beatmapsets/6
 
 ---
 
-As of today, we've officially hit **300 total Featured Artists!** Celebrate this awesome milestone by one of the songs from [**Nitro Fun**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/299) or [**Rezonate**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/300) (which come in pre-timed beatmap templates, by the way).
+As of today, we've officially hit **300 total Featured Artists!** Celebrate this awesome milestone with one of the songs from [**Nitro Fun**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/299) or [**Rezonate**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/300) (which come in pre-timed beatmap templates, by the way).
 
-That's all for today's double-release! Keep an eye on the [@osugame Twitter](https://twitter.com/osugame) for anything and everything circle-related, along with our next Featured Artist.
+That's all for today's double release! Keep an eye on the [@osugame Twitter](https://twitter.com/osugame) for anything and everything circle-related, along with our next Featured Artist.
 
 Stay tuned.
 
