@@ -4,11 +4,11 @@ tags:
   - o!BAM 2
 ---
 
-# osu! Battle Archive Malaysia 2
+# osu! Battle Archive Malaysia 2022
 
 ![o!BAM 2 banner](img/banner.png)
 
-The **osu! Battle Archive Malaysia 2** (***o!BAM2***) is a double-elimination 2v2 osu! tournament hosted by ::{ flag=MY }:: [LouisZpro](https://osu.ppy.sh/users/6231292) and ::{ flag=MY }:: [Tzero](https://osu.ppy.sh/users/6088976). The tournament is open to teams of two with a ::{ flag=MY }:: Malaysian player as their captain. Second player is only allowed from the ten [ASEAN member states](https://asean.org/about-asean/member-states/) (::{ flag=BN }:: Brunei Darussalam, ::{ flag=KH }:: Cambodia, ::{ flag=ID }:: Indonesia, ::{ flag=LA }:: Laos, ::{ flag=MY }:: Malaysia, ::{ flag=MM }:: Myanmar, ::{ flag=PH }:: The Philippines, ::{ flag=SG }:: Singapore, ::{ flag=TH }:: Thailand, and ::{ flag=VN }:: Vietnam) regardless of rank. Despite the change in format from its previous iterations, the tournament is formally regarded as the second instalment of the osu! Battle Archive Malaysia.
+The **osu! Battle Archive Malaysia 2022** (***o!BAM2***) is a double-elimination 2v2 osu! tournament hosted by ::{ flag=MY }:: [LouisZpro](https://osu.ppy.sh/users/6231292) and ::{ flag=MY }:: [Tzero](https://osu.ppy.sh/users/6088976). The tournament is open to teams of two with a ::{ flag=MY }:: Malaysian player as their captain. Second player is only allowed from the ten [ASEAN member states](https://asean.org/about-asean/member-states/) (::{ flag=BN }:: Brunei Darussalam, ::{ flag=KH }:: Cambodia, ::{ flag=ID }:: Indonesia, ::{ flag=LA }:: Laos, ::{ flag=MY }:: Malaysia, ::{ flag=MM }:: Myanmar, ::{ flag=PH }:: The Philippines, ::{ flag=SG }:: Singapore, ::{ flag=TH }:: Thailand, and ::{ flag=VN }:: Vietnam) regardless of rank. Despite the change in format from its previous iterations, the tournament is formally regarded as the second instalment of the osu! Battle Archive Malaysia.
 
 ## Tournament schedule
 
@@ -26,7 +26,7 @@ The **osu! Battle Archive Malaysia 2** (***o!BAM2***) is a double-elimination 2v
 
 ## Organisation
 
-The osu! Battle Archive Malaysia 2 is run by various community members.
+The osu! Battle Archive Malaysia 2022 is run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
