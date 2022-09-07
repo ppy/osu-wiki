@@ -74,7 +74,7 @@ If puzzling over flairs and hints isn't your thing, there are **3** beatmap pack
 
 ![https://osu.ppy.sh/beatmaps/packs/2483](https://assets.ppy.sh/medals/web/all-packs-aitsuki.png) ![https://osu.ppy.sh/beatmaps/packs/2482](https://assets.ppy.sh/medals/web/all-packs-maduk.png) ![https://osu.ppy.sh/beatmaps/packs/2481](https://assets.ppy.sh/medals/web/all-packs-vocaloid.png)
 
-Don't want to hunt for the medals alone? Join the Medal Hunters Discord server and check out Osekai! *(Please note that the website contains solutions to medals, so if you'd rather solve them yourselves the site might not be for you.)*
+Don't want to hunt for the medals alone? Join the Medal Hunters Discord server and check out Osekai! *(Please note that the website contains solutions to medals, so if you'd rather solve them yourself, the site might not be for you.)*
 
 And as for what the answer to the Girl in the Forest medal was, why not try to follow in a Medal Hunter's footsteps and see if you can figure it out yourself?
 
