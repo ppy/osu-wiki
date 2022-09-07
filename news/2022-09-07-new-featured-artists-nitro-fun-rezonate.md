@@ -45,7 +45,7 @@ Explore [this osu! map](https://osu.ppy.sh/beatmapsets/711926) hosted by [Fursum
 Stretch your fingers to [this 7K osu!mania map](https://osu.ppy.sh/beatmapsets/647297) hosted by Elite Mapper [Kawawa](https://osu.ppy.sh/users/4647754)!
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/299/Checkpoint%2FNitro%20Fun%20%2526%20Hyper%20Potions%20-%20Checkpoint.mp3" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/299/Checkpoint/Nitro%20Fun%20%26%20Hyper%20Potions%20-%20Checkpoint.mp3" type="audio/mpeg">
 </audio>
 
 ### Rezonate - The Journey
