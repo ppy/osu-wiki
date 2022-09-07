@@ -50,7 +50,7 @@ The osu! Battle Archive Malaysia 2022 is run by various community members.
 
 ## Mappools
 
-### Qualifier
+### Qualifiers
 
 **[Download the mappack here! (72 MB)](https://cdn.discordapp.com/attachments/959526009546346516/1016688876674351124/obam2_qualifiers_.rar)**
 
