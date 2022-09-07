@@ -13,17 +13,15 @@ These changes aim to adjust Star Rating and Performance Points in a way that mor
 
 # Introduction
 
-As done in the past, there's a few main and new terms/ideas you'll need to understand.
+Before we proceed, there are a few key terms and ideas you'll need to understand.
 
 Star Rating is designed to be a measure of how hard (or not) a given beatmap is. It does this through mathematically charting various values in a map's construction, such as how densely packed a given portion of the map is with hitobjects, and so forth. These are described as *skills* as a general term. For the purposes of the star ratings described here, [morth1](https://osu.ppy.sh/users/7246874) selected three skills: *stamina*, *rhythm* and *colour*.
 
-For the new terminology within difficulty calculation, we refer to *peaks* as a new skill utilised, based on the old component of strain. 
-
-For the purposes of Star Rating calculation, *strain* within the *peaks* skill has become the number that approximates it. Switching from the previous system, where strain and individual skill values formed Star Rating, strain is now the only summative factor in this calculation. In this case, there are two relevant subtypes of strain; while normal strain decays over time, *note-based strain* decays with every note hit, which is a subtle, yet important distinction only used within the old rhythm system, which has not yet been reworked. In both cases strain is increased by each individual hitobject in the map; we'll refer to that increase as *object strain*.
+Strain is a core value of osu! Star Rating that considers how many times, and for how long a player is subjected to high intensity sections within a beatmap. Sections with very high speed, difficulty or other pertaining factors will significantly increase a beatmap's considered strain values. In this case, there are two relevant subtypes of strain; while normal strain decays over time, *note-based strain* decays with every note hit, which is a subtle, yet important distinction only used within the old rhythm system, which has not yet been reworked. In both cases strain is increased by each individual hitobject in the map; we'll refer to that increase as *object strain*.
 
 We will also be using terminology coined by the osu!taiko community to refer to how patterns are placed. **k** refers to kat (blue) notes, and **d** refers to don (red) notes. Long streams that are of one colour are referred to as *monos*, while notes that are surrounded by brackets () refer to **1/6** spacing, and notes inside square brackets [] refer to **1/8** spacing. 
 
-If you would like to know more about the changes posted, or for more concise information on the some of the in development changes, head on over [the global osu!taiko rework document](https://docs.google.com/document/d/1Z5GC4DMqOVzeIERMSK3qpQaqjq-sVnhbuoxAwy9qxDs/edit#). This is a working document, and will periodically be updated with the latest, (and greatest) developments.
+If you would like to know more about the changes posted, or for more concise information on the some of the in development changes, head on over [the global osu!taiko rework document](https://docs.google.com/document/d/1Z5GC4DMqOVzeIERMSK3qpQaqjq-sVnhbuoxAwy9qxDs/edit#). This is a working document, and will periodically be updated with the latest, (and greatest) developments from any developers who request their changes to be added to it, via the osu!taiko pp committee.
 
 ## An insight into the base of the new rework
 
@@ -59,11 +57,7 @@ In this section, the keybinds relating to the two colours found within osu!taiko
 
 ### Readdressing Colour
 
-The old colour system detected the frequency of colour changes and had penalties for specific repeated patterns. This meant that only notes of a different colour than the previous one would receive a non-zero strain, which contributed to issues of complex patterns containing large groups of single-coloured notes not being considered properly in the strain system.
-
-Similar to stamina, a penalty was applied to repeating occurrences of single-coloured patterns. While only the 5 most recent occurrences were considered in this penalty, if any two or more of those patterns were repeated, a harsh penalty was applied.
-
-Once again, going against the new policies of this rework, changes were made.
+The old colour system detected the frequency of colour changes and had penalties for specific repeated patterns. This meant that only notes of a different colour than the previous one would receive a non-zero strain, which contributed to issues of complex patterns containing large groups of single-coloured notes not being considered properly in the strain system. Similar to stamina, a penalty was applied to repeating occurrences of single-coloured patterns. While only the 5 most recent occurrences were considered in this penalty, if any two or more of those patterns were repeated, a harsh penalty was applied.
 
 #### The new Colour system
 
@@ -77,7 +71,9 @@ The difficulty value of colour can now be calculated using this new encoding inf
 
 ### Calculating the final result
 
-Given the four skills briefly described above (stamina, rhythm and colour), their strain values are combined into one final Star Rating value. Previously done in two ways, this is now done in a single way - via the new *peaks* skill. *Peak* difficulty splits the map into sections and combines peaks of each skill in each section, aiming to catch out particularly demanding moments. The final Star Rating is the outputted result of the peaks skill, slightly multiplied to scale better.
+Given the three skills briefly described above (stamina, rhythm and colour), their *strain* values have now become the number that approximates Star Rating. Switching from the previous system, where strain and individual skill values formed Star Rating, strain is now the only summative factor in this calculation via the new *peak* skill.
+
+ *Peak* difficulty splits the map into sections and combines highest strains of each skill in each section, aiming to catch out particularly demanding moments. The final Star Rating is the outputted result of the peaks skill, slightly multiplied to scale better. 
 
 While this is much more mathematically complex than mentioned, you can consult the osu!taiko general rework document listed in the above sections, or dive into the code over in the osu!lazer repository for the full details.
 
