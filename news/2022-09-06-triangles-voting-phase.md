@@ -16,7 +16,7 @@ Last month, our [mapper panel](/wiki/Contests/triangles_Beatmapping_Contest#mapp
 
 [**Vote for your 3 favourite maps HERE!**](https://osu.ppy.sh/community/contests/147)
 
-Before you can vote, you'll need to **play one of the triangles playlists in osu!(lazer).**
+Before you can vote, you'll need to **play any of the triangles playlists in osu!(lazer).** More specifically, you're required to play at least one difficulty from each mapset, and those plays can be spread across different playlists.
 
 Access the playlists via the **play** menu on osu!(lazer) and filtering by **Featured Artists** in the top-right corner. There's one playlist for each difficulty level (Easy/Normal/Hard/Insane/Expert).
 
@@ -44,7 +44,7 @@ Anyway, start voting already!
 
 ## Submissions
 
-Click any banner below to download its team's mapset! Just keep in mind that you'll need to **play the osu!(lazer) playlist to be eligible to vote!**
+Click any banner below to download its team's mapset! Just keep in mind that you'll need to **play any difficulty from each submission in the osu!(lazer) triangles playlists to be eligible to vote!**
 
 [![absolutno pofig team banner](/wiki/shared/news/2022-09-06-triangles-voting-open/absolutno_pofig.jpg)](https://osu.ppy.sh/beatmapsets/1841846)
 
