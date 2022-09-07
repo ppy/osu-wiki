@@ -6,7 +6,7 @@ date: 2022-09-07 10:00:00 +0000
 
 A duo of [**Monstercat**](https://osu.ppy.sh/beatmaps/artists/255) talents have made their homes in our Featured Artists library!
 
-![](/wiki/shared/news/2022-09-07-new-featured-artists-nitro-fun-rezonate/nitro-fun-rezonate-banner.jpg)
+![](/wiki/shared/news/2022-09-07-new-featured-artists-nitro-fun-rezonate/header.jpg)
 
 Ultra-talented producers **Nitro Fun** and **Rezonate** offer two distinct takes on EDM.
 
