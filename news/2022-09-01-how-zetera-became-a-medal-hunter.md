@@ -6,6 +6,8 @@ date: 2022-09-30 00:00:00 +0000
 
 Join us for a history lesson, a story about an elusive medal and one man's journey to unravel its secret!
 
+![](/wiki/shared/news/2022-09-30-how-zetera-became-a-medal-hunter/banner.jpg)
+
 Before we begin with this story, we first must learn about the history of medals.
 
 Medals were first introduced in early August 2008, with their original goal being to serve as an achievement system linked to a now-abandoned "story mode" for osu!, similar to the original *Elite Beat Agents* campaign. The first ever medals to be added were the play count medals, and since they were retroactively given to all users who already fulfilled the requirements, some users like [Echo](https://osu.ppy.sh/users/431) and [Saturos](https://osu.ppy.sh/users/3781) acquired them pretty much on release.
