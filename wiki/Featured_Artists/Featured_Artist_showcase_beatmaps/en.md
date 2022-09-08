@@ -588,7 +588,6 @@ This article lists all the showcase beatmaps that have been created by the membe
   - (![][osu!catch]) [-45 - Total Eclipse of The Sun](https://osu.ppy.sh/beatmapsets/1826327#fruits/3748082) hosted by ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565)
   - (![][osu!]) [-45 - Reishiki](https://osu.ppy.sh/beatmapsets/1557323#osu/3712677) hosted by ::{ flag=FR }:: [-45](https://osu.ppy.sh/users/13400075)
 
-
 ## History
 
 From its very beginning, the Mappers' Guild has been set into pace with "creating promotional beatmap packs for upcoming Featured Artists"<!-- https://osu.ppy.sh/community/forums/topics/875743 --> as one of its primary goals. This was reflected in the Guild's first ever major project, in where members of the Guild had prepared and ranked six beatmaps of [licensed MOtOLOiD songs](https://osu.ppy.sh/beatmaps/artists/19) long prior to the [corresponding artist's announcement](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid).
