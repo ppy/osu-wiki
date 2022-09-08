@@ -19,6 +19,8 @@ tags:
   - Gerät
   - Benutzername
   - Löschung
+outdated_translation: true
+outdated_since: c1ee4ccf3eaa03edb66ad9154050cead2111e6c4
 ---
 
 # Account
