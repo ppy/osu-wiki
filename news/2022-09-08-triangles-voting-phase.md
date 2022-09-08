@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "triangles: Voting Phase"
-date: 2022-09-07 22:00:00 +0000
+date: 2022-09-08 12:00:00 +0000
 ---
 
 Mark your favourite triangle-themed maps in osu!'s latest and greatest mapping + storyboarding contest!
@@ -20,7 +20,7 @@ Before you can vote, you'll need to **play any of the triangles playlists in osu
 
 Access the playlists via the **play** menu on osu!(lazer) and filtering by **Featured Artists** in the top-right corner. There's one playlist for each difficulty level (Easy/Normal/Hard/Insane/Expert).
 
-![triangles playlist](/wiki/shared/news/2022-09-07-triangles-voting-open/playlist.png)
+![triangles playlist](/wiki/shared/news/2022-09-08-triangles-voting-open/playlist.png)
 
 The top entries in the vote will earn these prizes:
 
@@ -46,21 +46,21 @@ Anyway, start voting already!
 
 Click any banner below to download its team's mapset! Just keep in mind that you'll need to **play any difficulty from each submission in the osu!(lazer) triangles playlists to be eligible to vote!**
 
-[![absolutno pofig team banner](/wiki/shared/news/2022-09-07-triangles-voting-open/absolutno_pofig.jpg)](https://osu.ppy.sh/beatmapsets/1841846)
+[![absolutno pofig team banner](/wiki/shared/news/2022-09-08-triangles-voting-open/absolutno_pofig.jpg)](https://osu.ppy.sh/beatmapsets/1841846)
 
-[![Crazy Thursday team banner](/wiki/shared/news/2022-09-07-triangles-voting-open/Crazy_Thursday.jpg)](https://osu.ppy.sh/beatmapsets/1841885)
+[![Crazy Thursday team banner](/wiki/shared/news/2022-09-08-triangles-voting-open/Crazy_Thursday.jpg)](https://osu.ppy.sh/beatmapsets/1841885)
 
-[![Crush the Candy Boys team banner](/wiki/shared/news/2022-09-07-triangles-voting-open/Crush_the_Candy_Boys.jpg)](https://osu.ppy.sh/beatmapsets/1841845)
+[![Crush the Candy Boys team banner](/wiki/shared/news/2022-09-08-triangles-voting-open/Crush_the_Candy_Boys.jpg)](https://osu.ppy.sh/beatmapsets/1841845)
 
-[![TV Sizers team banner](/wiki/shared/news/2022-09-07-triangles-voting-open/TV_Sizers.jpg)](https://osu.ppy.sh/beatmapsets/1841923)
+[![TV Sizers team banner](/wiki/shared/news/2022-09-08-triangles-voting-open/TV_Sizers.jpg)](https://osu.ppy.sh/beatmapsets/1841923)
 
-[![ULTRA ICE TEA team banner](/wiki/shared/news/2022-09-07-triangles-voting-open/ULTRA_ICE_TEA.jpg)](https://osu.ppy.sh/beatmapsets/1841926)
+[![ULTRA ICE TEA team banner](/wiki/shared/news/2022-09-08-triangles-voting-open/ULTRA_ICE_TEA.jpg)](https://osu.ppy.sh/beatmapsets/1841926)
 
-[![? team banner](/wiki/shared/news/2022-09-07-triangles-voting-open/questionmark.jpg)](https://osu.ppy.sh/beatmapsets/1841847)
+[![? team banner](/wiki/shared/news/2022-09-08-triangles-voting-open/questionmark.jpg)](https://osu.ppy.sh/beatmapsets/1841847)
 
-[![Δ = b² – 4ac team banner](/wiki/shared/news/2022-09-07-triangles-voting-open/equation.jpg)](https://osu.ppy.sh/beatmapsets/1842004)
+[![Δ = b² – 4ac team banner](/wiki/shared/news/2022-09-08-triangles-voting-open/equation.jpg)](https://osu.ppy.sh/beatmapsets/1842004)
 
-[![三角形.tar.gz team banner](/wiki/shared/news/2022-09-07-triangles-voting-open/symbols.jpg)](https://osu.ppy.sh/beatmapsets/1842041)
+[![三角形.tar.gz team banner](/wiki/shared/news/2022-09-08-triangles-voting-open/symbols.jpg)](https://osu.ppy.sh/beatmapsets/1842041)
 
 ---
 

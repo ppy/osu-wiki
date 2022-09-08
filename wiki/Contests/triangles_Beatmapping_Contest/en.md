@@ -28,7 +28,7 @@ Submissions to this contest include:
 
 - [Contest listing](https://osu.ppy.sh/community/contests/147)
 - [Contest announcement](https://osu.ppy.sh/home/news/2022-05-31-triangles)
-- [Voting announcement](https://osu.ppy.sh/home/news/2022-09-07-triangles-voting-phase)
+- [Voting announcement](https://osu.ppy.sh/home/news/2022-09-08-triangles-voting-phase)
 
 ## Teams
 
