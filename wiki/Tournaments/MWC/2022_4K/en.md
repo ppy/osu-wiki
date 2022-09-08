@@ -111,7 +111,7 @@ The osu!mania 4K World Cup 2022 is run by the [osu! team](/wiki/People/The_Team)
 
 | Team A | Team B | Match time |  |
 | --: | :-- | :-- | :-: |
-| Philippines ::{ flag=PH }:: | ::{ flag=JP }:: Japan | [Sep 10 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220910T100000&p1=1440&p2=145&p3=248) | [^losers-bracket] |
+| Philippines ::{ flag=PH }:: | ::{ flag=JP }:: Japan | [Sep 10 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220910T120000&p1=1440&p2=145&p3=248) | [^losers-bracket] |
 | Malaysia ::{ flag=MY }:: | ::{ flag=US }:: United States | [Sep 10 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220910T150000&p1=1440&p2=122&p3=263) | [^losers-bracket] |
 
 ### Sunday, 11 September 2022
@@ -120,8 +120,8 @@ The osu!mania 4K World Cup 2022 is run by the [osu! team](/wiki/People/The_Team)
 | --: | :-- | :-- | :-: |
 | Philippines ::{ flag=PH }:: | ::{ flag=US }:: United States | [Sep 11 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220911T040000&p1=1440&p2=145&p3=263) | [^potential-match] |
 | Japan ::{ flag=JP }:: | ::{ flag=US }:: United States | [Sep 11 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220911T040000&p1=1440&p2=248&p3=263) | [^potential-match] |
-| Philippines ::{ flag=PH }:: | ::{ flag=MY }:: Malaysia | [Sep 11 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220911T100000&p1=1440&p2=145&p3=122) | [^potential-match] |
-| Japan ::{ flag=JP }:: | ::{ flag=MY }:: Malaysia | [Sep 11 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220911T100000&p1=1440&p2=248&p3=122) | [^potential-match] |
+| Philippines ::{ flag=PH }:: | ::{ flag=MY }:: Malaysia | [Sep 11 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220911T120000&p1=1440&p2=145&p3=122) | [^potential-match] |
+| Japan ::{ flag=JP }:: | ::{ flag=MY }:: Malaysia | [Sep 11 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220911T120000&p1=1440&p2=248&p3=122) | [^potential-match] |
 | Brazil ::{ flag=BR }:: | ::{ flag=KR }:: South Korea | [Sep 11 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220911T140000&p1=1440&p2=45&p3=235) | [^winners-bracket] |
 
 ## Mappools
@@ -269,6 +269,8 @@ The osu!mania 4K World Cup 2022 is run by the [osu! team](/wiki/People/The_Team)
 ## Match results
 
 ### Semifinals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1YU69AF6J2TVkFxu3Jv9x0uanXRcXFT9Njh2ezPhZE-0).
 
 Saturday, 3 September 2022:
 
