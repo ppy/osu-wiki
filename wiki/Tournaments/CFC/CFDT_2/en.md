@@ -141,6 +141,26 @@ The Catch French Dual Tournament 2 is run by various community members.
 
 ## Match results
 
+### Quarterfinals
+
+Saturday, 3 September 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Red Hawk | -1 | **0** | **JP DANS DA TOURNOI** | *win by default* |
+
+Sunday, 4 September 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| dégénéré | 0 | **5** | **Timezone diff** | [#1](https://osu.ppy.sh/community/matches/103560540) |
+| **:pleading_face:** | **0** | -1 | French Penguins | *win by default* |
+| **FR X US coalition** | **5** | 1 | Florika | [#1](https://osu.ppy.sh/community/matches/103563124) |
+| Black Ice | 3 | **5** | **:nanasmil:** | [#1](https://osu.ppy.sh/community/matches/103563162) |
+| **5€** | **5** | 0 | Taco w/ Baguette | [#1](https://osu.ppy.sh/community/matches/103565414) |
+| **Not French** | **0** | -1 | hecatia fanclub | *win by default* |
+| **Quesedilla avec les frites BELGES** | **5** | 0 | Le Grand Jordan23 | [#1](https://osu.ppy.sh/community/matches/103569382) |
+
 ### Round of 16
 
 Saturday, 27 August 2022:
