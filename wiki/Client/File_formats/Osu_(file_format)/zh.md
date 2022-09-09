@@ -51,7 +51,7 @@
 | :-- | :-- | :-- |
 | `Bookmarks` | 逗号分隔的 Integer（整型）数组 | [书签（蓝线）](/wiki/Client/Beatmap_editor/Compose#书签指令)的位置（毫秒） |
 | `DistanceSpacing` | Decimal（精准小数） | [间距锁定](/wiki/Client/Beatmap_editor/Distance_snap)倍率 |
-| `BeatDivisor` | Decimal（精准小数） | [节拍细分](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) |
+| `BeatDivisor` | Integer（整型） | [节拍细分](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) |
 | `GridSize` | Integer（整型） | [网格大小](/wiki/Grid_snapping) |
 | `TimelineZoom` | Decimal（精准小数） | [物件时间轴](/wiki/Client/Beatmap_editor/Compose#左上（物件时间轴）)的缩放倍率 |
 

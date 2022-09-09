@@ -53,7 +53,7 @@ These options are only relevant when opening maps in the [beatmap editor](/wiki/
 | :-- | :-- | :-- |
 | `Bookmarks` | Comma-separated list of integers | Time in milliseconds of [bookmarks](/wiki/Client/Beatmap_editor/Compose#bottom-(song's-timeline)) |
 | `DistanceSpacing` | Decimal | [Distance snap](/wiki/Client/Beatmap_editor/Distance_snap) multiplier |
-| `BeatDivisor` | Decimal | [Beat snap divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) |
+| `BeatDivisor` | Integer | [Beat snap divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) |
 | `GridSize` | Integer | [Grid size](/wiki/Grid_snapping) |
 | `TimelineZoom` | Decimal | Scale factor for the [object timeline](/wiki/Client/Beatmap_editor/Compose#top-left-(hit-objects-timeline)) |
 
