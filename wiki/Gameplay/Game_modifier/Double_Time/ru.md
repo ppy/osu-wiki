@@ -30,7 +30,7 @@ tags:
   - ![][osu!taiko]: 1.12x
   - ![][osu!catch]: 1.06x
   - ![][osu!mania]: 1.00x
-- Стандартная горячая клавиша: `D`
+- Горячая клавиша по умолчанию: `D`
 - Описание: `Zoooooooooom.`
 - Режимы игры: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - Разновидности: [Nightcore](/wiki/Game_modifier/Nightcore)
