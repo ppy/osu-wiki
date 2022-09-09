@@ -72,7 +72,7 @@ If you're interested in delving into medal hunting yourself, you'll find that **
 
 If puzzling over flairs and hints isn't your thing, there are **3** beatmap packs to achieve as well just by finishing the maps in them. Check them out below (and you can even click on an image to be taken to the corresponding pack!):
 
-![https://osu.ppy.sh/beatmaps/packs/2483](https://assets.ppy.sh/medals/web/all-packs-aitsuki.png) ![https://osu.ppy.sh/beatmaps/packs/2482](https://assets.ppy.sh/medals/web/all-packs-maduk.png) ![https://osu.ppy.sh/beatmaps/packs/2481](https://assets.ppy.sh/medals/web/all-packs-vocaloid.png)
+[![](https://assets.ppy.sh/medals/web/all-packs-aitsuki.png)](https://osu.ppy.sh/beatmaps/packs/2483) [![](https://assets.ppy.sh/medals/web/all-packs-maduk.png)](https://osu.ppy.sh/beatmaps/packs/2482) [![](https://assets.ppy.sh/medals/web/all-packs-vocaloid.png)](https://osu.ppy.sh/beatmaps/packs/2481)
 
 Don't want to hunt for the medals alone? Join the Medal Hunters Discord server and check out Osekai! *(Please note that the website contains solutions to medals, so if you'd rather solve them yourself, the site might not be for you.)*
 
