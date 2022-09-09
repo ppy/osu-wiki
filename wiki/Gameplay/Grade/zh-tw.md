@@ -6,6 +6,7 @@ tags:
   - sh
   - xh
   - 評價
+no_native_review: true
 ---
 
 # 評價
