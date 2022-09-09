@@ -20,7 +20,7 @@ tags:
   - Benutzername
   - Löschung
 outdated_translation: true
-outdated_since: c1ee4ccf3eaa03edb66ad9154050cead2111e6c4
+outdated_since: 8cec674a27b76b6e3859563537f2098cb06ce7c4
 ---
 
 # Account
