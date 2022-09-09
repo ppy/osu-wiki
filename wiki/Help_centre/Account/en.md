@@ -150,6 +150,8 @@ If a player has not signed in for at least 6 months and has no plays, their user
 
 If that player **does** have any plays across all game modes, a [non-linear function](https://www.desmos.com/calculator/b89siyv9j8) is used to calculate how much extra time is added to those 6 months. This is to prevent people from stealing the usernames of active or recently retired players.
 
+Also, usernames of players with [ranked beatmaps](/wiki/Beatmap/Category#ranked) or [profile badges](/wiki/Community/Profile_badge) cannot be taken.
+
 ### Is it possible to change my name back or revert to my old username? {#revert-username}
 
 **Yes, but only under certain circumstances.**
