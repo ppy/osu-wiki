@@ -9,7 +9,7 @@ Los informes accidentales se ignoran. Los usuarios que envían deliberadamente i
 | Tipo de infracción | Punto de contacto |
 | :-- | :-- |
 | Estafas/phishing en mensajes privados | Reportar al usuario |
-| Otros mensajes privados ofensivos/inapropiados | **Nada**: [ignorar al usuario](/wiki/Client/Interface/Chat_console#commands-list). Para un efecto permanente, use la lista de ignorados en el juego ubicada en [opciones](/wiki/Client/Options) o bloquéelos en el sitio web con el botón ubicado en su perfil de usuario. |
+| Otros mensajes privados ofensivos/inapropiados | **Nada**: [ignorar al usuario](/wiki/Client/Interface/Chat_console#lista-de-comandos). Para un efecto permanente, use la lista de ignorados en el juego ubicada en [opciones](/wiki/Client/Options) o bloquéelos en el sitio web con el botón ubicado en su perfil de usuario. |
 | Conducta inapropiada de un [BN](/wiki/People/The_Team/Beatmap_Nominators) | [NAT](/wiki/People/The_Team/Nomination_Assessment_Team), a través del sitio web de [Gestión de NAT/BN](https://bn.mappersguild.com/reports) |
 | Conducta inapropiada de un miembro del [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) o [GMT](/wiki/People/The_Team/Global_Moderation_Team) | [Equipo de soporte de cuentas](/wiki/People/The_Team/Account_support_team) en [support@ppy.sh](mailto:support@ppy.sh) |
 | Abuso sexual o mala conducta extrema | Consulte [Reportando Abuso](/wiki/Reporting_bad_behaviour/Abuse) |
