@@ -12,6 +12,12 @@ Mark your favourite triangle-themed maps in osu!'s latest and greatest mapping +
 
 Last month, our [mapper panel](/wiki/Contests/triangles_Beatmapping_Contest#mapper-panel) and [storyboarder panel](/wiki/Contests/triangles_Beatmapping_Contest#storyboarder-panel) painstakingly narrowed all submissions down to the **top 8**. Now it's your turn to choose a winner!
 
+<div align="center">
+    <video width="90%" controls>
+        <source src="https://assets.ppy.sh/contests/147/triangles.mp4" type="video/mp4" preload="none">
+    </video>
+</div>
+
 ## Vote
 
 [**Vote for your 3 favourite maps HERE!**](https://osu.ppy.sh/community/contests/147)
