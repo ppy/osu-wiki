@@ -2,7 +2,7 @@
 
 *Para otros usos, consulte: [puntuación (desambiguación)](/wiki/Disambiguation/Score).*
 
-La puntuación que recibe un jugador después de completar un [mapa](/wiki/Beatmap) esta determinado por los [juicios](/wiki/Gameplay/Judgement) que el jugador recibió por cada [objetos de golpeo](/wiki/Gameplay/Hit_object). El sistema de puntuación se divide en dos versiones principales que actualmente está en uso.
+La puntuación que recibe un jugador después de completar un [mapa](/wiki/Beatmap) está determinado por los [juicios](/wiki/Gameplay/Judgement) que el jugador recibió por cada [objeto de golpeo](/wiki/Gameplay/Hit_object). El sistema de puntuación se divide en dos versiones principales que actualmente está en uso.
 
 ## ScoreV1
 
