@@ -3,6 +3,7 @@ stub: true
 tags:
   - forum
   - wastelanded
+no_native_review: true
 ---
 
 # 遺棄荒土 (Abandoned Wasteland)
