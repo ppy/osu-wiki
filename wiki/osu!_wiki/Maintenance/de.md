@@ -10,13 +10,13 @@ Dieser Artikel beschreibt technische oder administrative Aspekte des osu!-Wikis.
 
 Die Administratoren sind Personen mit [erhöhten Rechten](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-user-account-settings/permission-levels-for-a-user-account-repository#collaborator-access-for-a-repository-owned-by-a-user-account) im [Repository `ppy/osu-wiki`](https://github.com/ppy/osu-wiki/), in dem alle Artikel und News-Beiträge gespeichert werden. Sie können Issues einstufen sowie kennzeichnen, offene Änderungsanfragen (Pull-Requests) verwalten und Entscheidungen über die Gegenwart und Zukunft des osu!-Wikis treffen.
 
-Verantwortliche führen eine finale Überprüfung von Änderungsvorschlägen durch und fusionieren diese. Wenn du bei einem Beitrag Hilfe benötigst, frage einen Betreuer im Kanal `#osu-wiki`.
+Verantwortliche führen eine finale Überprüfung von Änderungsvorschlägen durch und wenden diese an. Wenn du bei einem Beitrag Hilfe benötigst, frage einen Betreuer im Kanal `#osu-wiki`.
 
 ## Technische Details
 
 ### Issue-Tracker
 
-Der [Issue-Tracker](https://github.com/ppy/osu-wiki/issues) des osu!-Wikis enthält Ideen und Vorschläge für mögliche Verbesserungen, sowohl für Artikel als auch die Wiki-bezogenen Teile der Webseite. Öffne ein Issue, wenn du einen Änderungsvorschlag machen möchtest oder einen Fehler auf eine der Seiten gefunden hast. Bitte bedenke, dass sich das **nur auf das osu!-Wiki bezieht**. Wenn du Hilfe bei anderen offiziellen Projekten mit Bezug zu osu! hast, dann nutze den jeweiligen Issue-Tracker:
+Der [Issue-Tracker](https://github.com/ppy/osu-wiki/issues) des osu!-Wikis enthält Ideen und Vorschläge für mögliche Verbesserungen, sowohl für Artikel als auch die Wiki-bezogenen Teile der Webseite. Öffne ein Issue, wenn du einen Änderungsvorschlag machen möchtest oder einen Fehler auf eine der Seiten gefunden hast. Bitte bedenke, dass sich das **nur auf das osu!-Wiki bezieht**. Wenn du Hilfe bei anderen offiziellen Projekten mit Bezug zu osu! brauchst, dann nutze den jeweiligen Issue-Tracker:
 
 - [osu!(lazer)](https://github.com/ppy/osu)
 - [die osu!-Website](https://github.com/ppy/osu-web/)
@@ -47,7 +47,7 @@ Das Repository für das osu!-Wiki nutzt [kontinuierliche Integration](https://do
 
 Die Datei [`package.json`](https://github.com/ppy/osu-wiki/blob/master/package.json) listet alle Plugins auf, die in der CI genutzt werden. Manche davon wurden von den Betreuern des osu!-Wikis entwickelt.
 
-Die CI-Checks laufen automatisch bei jedem Commit eines regelmäßigen Mitwirkenden. Damit die Änderungsanfrage fusioniert wird, wird von den Mitwirkenden erwartet, dass sie alle Fehler beheben, die von der CI aufgezeigt werden. Um den [Status der Überprüfungen](img/ci-status.png) zu sehen, mache das Folgende:
+Die CI-Checks laufen automatisch bei jedem Commit eines regelmäßigen Mitwirkenden. Damit die Änderungsanfrage akzeptiert wird, wird von den Mitwirkenden erwartet, dass sie alle Fehler beheben, die von der CI aufgezeigt werden. Um den [Status der Überprüfungen](img/ci-status.png) zu sehen, mache das Folgende:
 
 1. Scrolle auf der Seite der Änderungsanfrage nach unten, suche die Zeile `osu-wiki continuous integration` auf und klicke auf den Link `Details`.
 2. Erweitere den Schritt `run remark on changed files` auf der neuen Seite. Jeder Befund ist mit seiner exakten Position in einer Datei und einer kurzen Beschreibung, warum es ein Fehler ist, versehen.
@@ -77,7 +77,7 @@ Das Wiki ist auf Anregungen aus der osu!-Community angewiesen. Du kannst den Bet
 
 *Für eine Liste an Übersetzungen und ihre Vollständigkeit, siehe: [osu-wiki status](https://clayton.cc/osu-wiki-status/de)*
 
-Das osu!-Wiki wird von Menschen aus der ganzen Welt gelesen. Um deiner lokalen Community zu helfen und neue, großartige Spieler, Mapper, Modder und Entwickler in das Spiel zu locken, kannst du englische Artikel übersetzen oder existierende Übersetzungen aktualisieren, die in Rückstand geraten sind. Siehe dir die [Liste an Sprachen](/wiki/Article_styling_criteria/Formatting#locales) an, die vom osu!-Wiki unterstützt werden und stelle sicher, dass deine Übersetzung dem Prinzip der [Inhaltsparität](/wiki/Article_styling_criteria/Writing#inhaltsparität) folgt. Wenn du eine Sprache fließend sprechen kannst und ein erfahrener Schriftsteller bist, greife Schlüsselthemen auf wie Artikel über die [Regeln](https://github.com/ppy/osu-wiki/tree/master/wiki/Rules) oder die [Ranking-Kriterien](https://github.com/ppy/osu-wiki/tree/master/wiki/Ranking_Criteria). Falls du noch am Anfang mit deiner Schriftstellerkarriere stehst, dann wähle einen kleinen Artikel aus, um Hilfe und Betreuung von aktiven Kritikern zu erhalten.
+Das osu!-Wiki wird von Menschen aus der ganzen Welt gelesen. Um deiner lokalen Community zu helfen und neue, großartige Spieler, Mapper, Modder und Entwickler in das Spiel zu locken, kannst du englische Artikel übersetzen oder existierende Übersetzungen aktualisieren, die in Rückstand geraten sind. Siehe dir die [Liste an Sprachen](/wiki/Article_styling_criteria/Formatting#locales) an, die vom osu!-Wiki unterstützt werden und stelle sicher, dass deine Übersetzung dem Prinzip der [Inhaltsparität](/wiki/Article_styling_criteria/Writing#inhaltsparität) folgt. Wenn du eine Sprache fließend sprechen kannst und ein erfahrener Schriftsteller bist, greife Schlüsselthemen auf wie Artikel über die [Regeln](https://github.com/ppy/osu-wiki/tree/master/wiki/Rules) oder die [Ranking-Kriterien](https://github.com/ppy/osu-wiki/tree/master/wiki/Ranking_Criteria). Falls du noch am Anfang mit deiner Schriftstellerkarriere stehst, dann wähle einen kleinen Artikel aus, um Hilfe und Betreuung von aktiven Rezensenten zu erhalten.
 
 Eine Übersetzung darf nach mehr als zwei Wochen nach der Erstellung ohne Überprüfung einer fließend sprechenden Person mit dem `master`-Branch zusammengeführt werden.
 
@@ -89,7 +89,7 @@ Einige Artikel des osu!-Wikis sind unvollständig und es fehlen Informationen. D
 
 ### Querverlinkung
 
-Eine der Hauptmerkmale jedes Wikis ist *Vernetzung*, was bedeutet, dass Artikel auf verwandte Seiten verweisen, um dem Leser zu helfen, im Fluss zu bleiben. Füge für die Verbindung von Artikeln Links zu den genannten Begriffen hinzu, bei denen es für ein besseres Verständnis des Themas wichtig ist. Verweise bei Bedarf auf einzelne Abschnitte von Artikeln und nutze [Begriffsabgrenzungsseiten](/wiki/Article_styling_criteria/Formatting#artikel-für-die-begriffsabgrenzung) für mehrdeutige Begriffe.
+Eines der Hauptmerkmale jedes Wikis ist *Vernetzung*, was bedeutet, dass Artikel auf verwandte Seiten verweisen, um dem Leser zu helfen, im Fluss zu bleiben. Füge für die Verbindung von Artikeln Links zu den genannten Begriffen hinzu, bei denen es für ein besseres Verständnis des Themas wichtig ist. Verweise bei Bedarf auf einzelne Abschnitte von Artikeln und nutze [Begriffsabgrenzungsseiten](/wiki/Article_styling_criteria/Formatting#artikel-für-die-begriffsabgrenzung) für mehrdeutige Begriffe.
 
 ### Neue Artikel
 
@@ -99,4 +99,4 @@ osu! ist eine sich ständig verändernde Umgebung: Die Community kreiert neue Be
 
 *Für einen möglichen Arbeitsumfang, siehe: [Liste von nicht verwalteten To-dos (Englisch)](https://github.com/search?q=TODO+repo%3Appy%2Fosu-wiki+filename%3Aen.md)*
 
-Bereits existierende Artikel müssen auch überarbeitet werden. Wenn du einen sachlichen Fehler gefunden hast, Details fehlen oder wenn du einfach den Artikel entsprechend der Realität neuschreiben/erweitern möchtest, dann trete vor und mache das osu!-Wiki zu einem besseren Ort. Stelle sicher, dass falls deine geplante Änderung umfangreich oder signifikant genug ist, sie im Kanal `#osu-wiki` zur Diskussion zu stellen oder [erstelle ein Issue](https://github.com/ppy/osu-wiki/issues/new).
+Bereits existierende Artikel müssen auch überarbeitet werden. Wenn du einen sachlichen Fehler gefunden hast, Details fehlen oder wenn du einfach den Artikel entsprechend der Realität neu schreiben/erweitern möchtest, dann trete vor und mache das osu!-Wiki zu einem besseren Ort. Stelle sicher, dass du, falls deine geplante Änderung umfangreich oder signifikant genug ist, sie im Kanal `#osu-wiki` zur Diskussion stellst oder [ein Issue anlegst](https://github.com/ppy/osu-wiki/issues/new).
