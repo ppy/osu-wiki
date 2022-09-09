@@ -7,6 +7,7 @@ tags:
   - puntos de vida
   - puntos de golpe
   - vida
+no_native_review: true
 ---
 
 # Salud
