@@ -1,12 +1,12 @@
 ---
 tags:
-- health points
-- hit points
-- HP
-- life
-- puntos de vida
-- puntos de golpe
-- vida
+  - health points
+  - hit points
+  - HP
+  - life
+  - puntos de vida
+  - puntos de golpe
+  - vida
 no_native_review: true
 ---
 
