@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How Zetera became a Medal Hunter"
-date: 2022-09-30 00:00:00 +0000
+date: 2022-09-09 22:00:00 +0000
 ---
 
 Join us for a history lesson, a story about an elusive medal and one man's journey to unravel its secret!
