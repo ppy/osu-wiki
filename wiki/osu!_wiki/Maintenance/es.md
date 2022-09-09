@@ -64,12 +64,12 @@ La osu! wiki está integrada dentro del sitio web de osu!, lo que significa que 
 Algunas características no están directamente relacionadas con el sitio web de osu!, pero podrían ser útiles para contribuir o una limpieza general.
 En este caso, son implementadas por personas capaces de ello y **no** son añadidas al sitio web directamente:
 
-- [estado de osu-wiki](https://clayton.cc/osu-wiki-status/es): lista de articulos por idioma, y la categoria de mantenimiento que requieren (traducción, actualizacion, expansión de 'stubs'). Véase [ppy/osu-wiki#2486](https://github.com/ppy/osu-wiki/issues/2486) para peticiones de funcionalidad.
+- [estado de osu-wiki](https://osu.wiki/status/es): lista de articulos por idioma, y la categoria de mantenimiento que requieren (traducción, actualizacion, expansión de 'stubs'). Véase [ppy/osu-wiki#2486](https://github.com/ppy/osu-wiki/issues/2486) para peticiones de funcionalidad.
 - [osu-wiki-bin](https://github.com/cl8n/osu-wiki-bin): una Node.js de utilidad para revisiones automatizadas y ediciones (Enlaces rotos, actualizaciones grupales, reemplazo de textos en toda la wiki, entre otras cosas)
 
 ## Rutinas
 
-*Nota: el sitio web [estado de osu-wiki](https://clayton.cc/osu-wiki-status/es) muestra una lista de todos los artículos que necesitan mantenimiento agrupados por categoría.*
+*Nota: el sitio web [estado de osu-wiki](https://osu.wiki/status/es) muestra una lista de todos los artículos que necesitan mantenimiento agrupados por categoría.*
 
 La wiki depende del apoyo de la comunidad de osu!. Puedes ayudar a los administradores y a los otros contribuidores haciendo tu parte. Para información de cómo hacerlo, lee la [Guía de Contribución](/wiki/osu!_wiki/Contribution_guide). Si en algún momento te sientes atascado, pide ayuda en el canal `#osu-wiki` en el [servidor de Discord de osu!dev](/wiki/Community/osu!dev_Discord_server).
 
@@ -77,7 +77,7 @@ La wiki depende del apoyo de la comunidad de osu!. Puedes ayudar a los administr
 
 <!-- NOTA: Los enlaces de GitHub son intencionales aquí, porque exponen muchos artículos de una categoría a la vez -->
 
-*Para una lista de traducciones y sus artículos completados, vease: el [estado de osu-wiki](https://clayton.cc/osu-wiki-status/es)*
+*Para una lista de traducciones y sus artículos completados, vease: el [estado de osu-wiki](https://osu.wiki/status/es)*
 
 La osu! wiki es leída por personas de todo el mundo. Para ayudar a tu comunidad local y atraer a nuevos jugadores increíbles, mapeadores, modders, y desarrolladores al juego, puedes traducir artículos de inglés, o actualizar traducciones existentes que se han quedado atrás. Revisa la [lista de idiomas](/wiki/Article_styling_criteria/Formatting#locales) soportados por la osu! wiki, y asegurate que tu traducción sigue los principios de la [paridad de contenido](/wiki/Article_styling_criteria/Writing#content-parity). Si hablas con fluidez y eres un escritor experimentado, escoje temas clave como las [reglas](https://github.com/ppy/osu-wiki/tree/master/wiki/Rules) o el [criterio de clasificacion](https://github.com/ppy/osu-wiki/tree/master/wiki/Ranking_Criteria). En caso de que seas un principiante en tu carrera como escritor, escoge un artículo pequeño para recibir ayuda y guía por revisores nativos.
 

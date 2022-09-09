@@ -1,8 +1,3 @@
----
-outdated: true
-outdated_since: e156cad95a4d76def031e873f17acf2802c96342
----
-
 # L'histoire du skinning
 
 Les éléments de skinning présentés ici ne sont plus utilisables.
@@ -313,6 +308,48 @@ Remarques :
 - Cet élément a été supprimé avec le canal de mise à jour Stable (Fallback).
 - Exclusivement pour le canal de mise à jour Stable (Fallback).
 - Doit être activé dans les [options](/wiki/Client/Options) pour le rendre visible.
+
+## osu!
+
+`hitcircleoverlay-{n}.png`
+
+![](img/hitcircleoverlay.png)
+
+*Pour plus de détails, voir [hitcircleoverlay.png](/wiki/Skinning/osu!#hit-circles).*
+
+Remarques :
+
+- Nom de l'animation : `hitcircleoverlay-{n}.png`
+- Taux d'animation : 2 FPS (4 FPS max).
+  - Ce taux est affecté par les mods Half Time et Double Time/Nightcore.
+
+---
+
+`sliderstartcircleoverlay-{n}.png`
+
+![](img/sliderstartcircleoverlay.png)
+
+*Pour plus de détails, voir [sliderstartcircleoverlay.png](/wiki/Skinning/osu!#hit-circles).*
+
+Remarques :
+
+- Nom de l'animation : `sliderstartcircleoverlay-{n}.png`
+- Taux d'animation : 2 FPS (4 FPS max).
+  - Ce taux est affecté par les mods Half Time et Double Time/Nightcore.
+
+---
+
+`sliderendcircleoverlay-{n}.png`
+
+![](img/sliderendcircleoverlay.png)
+
+*Pour plus de détails, voir [sliderendcircleoverlay.png](/wiki/Skinning/osu!#hit-circles).*
+
+Remarques :
+
+- Nom de l'animation : `sliderendcircleoverlay-{n}.png`
+- Taux d'animation : 2 FPS (4 FPS max).
+  - Ce taux est affecté par les mods Half Time et Double Time/Nightcore.
 
 ## .ini
 

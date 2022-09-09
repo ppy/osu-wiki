@@ -45,7 +45,7 @@ Im Folgenden werden alle vom Wiki unterstützten Locales aufgelistet:
 | `zh.md` | Chinesisch (Vereinfacht) | 简体中文 |
 | `zh-tw.md` | Traditionelles Chinesisch (Taiwan) | 繁體中文（台灣） |
 
-*Tipp: Die Webseite wird für einen Artikel die ausgewählte Sprache des Lesers wählen. Sollte der Artikel in dieser Sprache nicht verfügbar sein, wird die englische Version angezeigt.*
+*Anmerkung: Die Webseite wird für einen Artikel die ausgewählte Sprache des Lesers wählen. Sollte der Artikel in dieser Sprache nicht verfügbar sein, wird die englische Version angezeigt.*
 
 ## Titelsektion
 
@@ -53,7 +53,7 @@ Metainformationen müssen sich ganz am Anfang der Datei befinden. Sie sind in [Y
 
 ### Artikel, die Hilfe benötigen
 
-*Tipp: Es wird empfohlen, englische Artikel mit diesem Tag nicht zu übersetzen. Ebenso sollte dieses Tag hinzugefügt werden, wenn die Übersetzung selbst aufgeräumt werden muss.*
+*Anmerkung: Es wird empfohlen, englische Artikel mit diesem Tag nicht zu übersetzen. Ebenso sollte dieses Tag hinzugefügt werden, wenn die Übersetzung selbst aufgeräumt werden muss.*
 
 Das Tag `needs_cleanup` darf bei Artikeln, die überarbeitet werden müssen oder Formatierungshilfe benötigen, hinzugefügt werden. Es ist auch akzeptabel, ein Issue auf GitHub für diesen Zweck zu öffnen. Benutze dieses Tag wie folgt:
 
@@ -65,7 +65,7 @@ Sofern dieses Tag zu einem Artikel hinzugefügt wird, sollten [Kommentare](#komm
 
 ### Nicht mehr aktuelle Artikel
 
-*Tipp: Es wird empfohlen, englische Artikel mit diesem Tag nicht zu übersetzen. Wenn der englische Artikel diesen Tag trägt, dann muss die Übersetzung das ebenfalls.*
+*Anmerkung: Es wird empfohlen, englische Artikel mit diesem Tag nicht zu übersetzen. Wenn der englische Artikel diesen Tag trägt, dann muss die Übersetzung das ebenfalls.*
 
 Englische Artikel können veraltet sein, wenn ihr Inhalt falsch, nicht eindeutig oder nicht mehr relevant ist. Diese Artikel sollten mit dem Tag `outdated` gekennzeichnet werden, welches folgendermaßen geschrieben werden muss:
 
@@ -105,7 +105,7 @@ tags:
 
 ### Übersetzungen ohne Überprüfungen
 
-*Tipp: Wiki-Verwalter werden diese Markierung vor dem Mergen setzen, falls notwendig.*
+*Anmerkung: Wiki-Verwalter werden diese Markierung vor dem Mergen setzen, falls notwendig.*
 
 Manchmal werden Artikel ohne eine Überprüfung eines Muttersprachlers dem Wiki hinzugefügt. In diesem Fall muss die Markierung `no_native_review` gesetzt werden, damit zukünftige Übersetzer wissen, dass der Artikel gegebenenfalls nochmals überprüft werden muss. Dieses Tag muss folgendermaßen geschrieben werden:
 
@@ -262,7 +262,7 @@ Kopfnoten mit *Für andere Bedeutungen* sind den Kopfnoten mit *Nicht zu verwech
 Ein Hinweis sollte an eine angemessene Stelle in einem Abschnitt platziert werden, allerdings muss dafür ein neuer Paragraf angefangen werden, der Kursivschrift nutzt. Hinweise dürfen Fettschrift enthalten, sofern angemessen, aber dies sollte auf ein Minimum begrenzt werden. Hinweise müssen als ganze Sätze geschrieben werden. Damit müssen Hinweise, nicht wie die meisten [Kopfnoten](#kopfnote), einen Punkt (`.`) oder ein Ausrufezeichen (`!`) verwenden. Alles in einem Paragrafen eines Hinweises muss kursiv sein. Diese Kopfnoten müssen wie folgt formatiert werden:
 
 ```markdown
-*Tipp: {Tipp}.*
+*Anmerkung: {Anmerkung}.*
 
 *Hinweis: {Hinweis}.*
 
@@ -271,7 +271,7 @@ Ein Hinweis sollte an eine angemessene Stelle in einem Abschnitt platziert werde
 *Warnung: {Warnung}.*
 ```
 
-- `Tipp` sollte für Fakten oder triviale Details genutzt werden.
+- `Anmerkung` sollte für Fakten oder triviale Details genutzt werden.
 - `Hinweis` sollte für Erinnerungen genutzt werden oder um den Leser auf etwas aufmerksam zu machen.
 - `Vorsicht` sollte genutzt werden, um den Leser vor unbeabsichtigten Konsequenzen zu warnen.
 - `Warnung` sollte genutzt werden, um den Leser zu warnen, dass gegebenenfalls Maßnahmen gegen ihn ergriffen werden.
@@ -545,7 +545,7 @@ Links müssen den Inline-Stil benutzen, wenn sie nur einmal referenziert werden.
 
 ### Interne Links
 
-*Tipp: Mit internen Links sind Links gemeint, die in der Domäne `https://osu.ppy.sh/` liegen.*
+*Anmerkung: Mit internen Links sind Links gemeint, die in der Domäne `https://osu.ppy.sh/` liegen.*
 
 #### Wiki-Links
 
@@ -742,7 +742,7 @@ Alle Screenshots des Spielverlaufs müssen in der Updatequelle Stable gemacht we
 
 #### Einstellungen des Spiel-Clients
 
-*Tipp: Wenn du deine aktuellen Einstellungen für das Wiki nicht ändern möchtest, dann kannst du die Datei `osu!.<ComputerUser>.cfg` aus deinem osu!-Ordner entfernen und später wieder hinzufügen.*
+*Anmerkung: Wenn du deine aktuellen Einstellungen für das Wiki nicht ändern möchtest, dann kannst du die Datei `osu!.<ComputerUser>.cfg` aus deinem osu!-Ordner entfernen und später wieder hinzufügen.*
 
 Du musst diese Einstellungen im Spiel-Client haben, bevor du einen Screenshot erstellst (Einstellungen, die unten nicht genannt werden, sollten auf ihrem Standardwert stehen):
 

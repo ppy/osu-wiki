@@ -1,7 +1,7 @@
 # Einrichtung von osu!tourney
 
 *Siehe auch: [osu!-Turnier-Client](/wiki/osu!_tournament_client)*\
-*Tipp: Ein aktives [Supporter-Tag](/wiki/osu!supporter) ist aktuell erforderlich, um den osu!tourney-Client benutzen zu können.*
+*Anmerkung: Ein aktives [Supporter-Tag](/wiki/osu!supporter) ist aktuell erforderlich, um den osu!tourney-Client benutzen zu können.*
 
 Es wird empfohlen, eine **frische osu!-Installation** zu verwenden. Der Grund dafür ist, dass die Songdatenbank beschädigt werden könnte. Du kannst mehrere osu!-Installationen haben, aber bewahre sie in getrennten Ordnern auf.
 Kopiere dafür die Datei `osu!.exe` in einen leeren Ordner und führe sie aus. Eine frische osu!-Installation wird erstellt. Dies ist die einzige Installation, die von nun an verändert werden muss.
