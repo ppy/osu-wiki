@@ -2,6 +2,7 @@
 tags:
   - reverse choke
   - choke inverso
+no_native_review: true
 ---
 
 # Choke
