@@ -1,12 +1,12 @@
 ---
 tags:
-  - health points
-  - hit points
-  - HP
-  - life
-  - puntos de vida
-  - puntos de golpe
-  - vida
+- health points
+- hit points
+- HP
+- life
+- puntos de vida
+- puntos de golpe
+- vida
 no_native_review: true
 ---
 
@@ -22,23 +22,23 @@ Aparecerán ráfagas de puntuación después de golpear un círculo, cambiando l
 
 Recuperación de salud:
 
-  - Un golpe exitoso en el círculo de golpeo (un mejor [juicio](/wiki/Gameplay/Judgement) conduce a una mayor ganancia de salud; el ultimo circulo de golpeo del combo de color, otorgara más salud)
-  - Un golpe exitoso al inicio de un deslizador
-  - La bola deslizante recogió todas las marcas del deslizante con éxito
-  - La bola deslizante toco el extremo del control deslizante o una flecha de regreso con éxito (un mejor juicio al final de la marca del control conduce a una mayor ganancia de salud)
-  - Completar una ruleta y continuar girando (un mejor juicio al final de la ruleta conduce a una mayor ganancia de salud)
+- Un golpe exitoso en el círculo de golpeo (un mejor [juicio](/wiki/Gameplay/Judgement) conduce a una mayor ganancia de salud; el ultimo circulo de golpeo del combo de color, otorgara más salud)
+- Un golpe exitoso al inicio de un deslizador
+- La bola deslizante recogió todas las marcas del deslizante con éxito
+- La bola deslizante toco el extremo del control deslizante o una flecha de regreso con éxito (un mejor juicio al final de la marca del control conduce a una mayor ganancia de salud)
+- Completar una ruleta y continuar girando (un mejor juicio al final de la ruleta conduce a una mayor ganancia de salud)
 
 Perdida de salud:
 
-  - Drenaje de salud
-  - Fallando una nota de golpeo
-  - Golpeando un deslizante antes de tiempo
-  - Perder una marca deslizante o una flecha de regreso del deslizante
-  - No lograr al menos, un 50 en una ruleta
+- Drenaje de salud
+- Fallando una nota de golpeo
+- Golpeando un deslizante antes de tiempo
+- Perder una marca deslizante o una flecha de regreso del deslizante
+- No lograr al menos, un 50 en una ruleta
 
 Sin efecto:
 
-  - Tiempo de descanso
+- Tiempo de descanso
 
 ## osu!taiko
 
@@ -48,20 +48,20 @@ Aparecerán ráfagas de puntuación después de tocar las notas, cambiando la pu
 
 Recuperación de salud:
 
-  - Obtener un 'Great' o 'Good' en notas pequeñas/grandes
+- Obtener un 'Great' o 'Good' en notas pequeñas/grandes
 
 Perdida de salud:
 
-  - Obtener un 'Miss' o 'Bad' en notas pequeñas/grandes
-  - No completar los Dendens
-  - No completar los Shakers
+- Obtener un 'Miss' o 'Bad' en notas pequeñas/grandes
+- No completar los Dendens
+- No completar los Shakers
 
 Sin efecto:
 
-  - Haciendo los redobles de tambor
-  - Ignorar los redobles de tambor
-  - Completar los Dendens
-  - Completar los Shakers
+- Haciendo los redobles de tambor
+- Ignorar los redobles de tambor
+- Completar los Dendens
+- Completar los Shakers
 
 *Nota: Es completamente posible para un mapa nunca pase por diseño debido a que solo contiene redobles de tambor y/o dendens/shakers.*
 
@@ -73,16 +73,16 @@ Aparecerán ráfagas de puntuación después de atrapar frutas, cambiando la pun
 
 Recuperación de salud:
 
-  - Recolectando cualquier fruta, gotas de jugo o bananas
+- Recolectando cualquier fruta, gotas de jugo o bananas
 
 Perdida de salud:
 
-  - Drenaje de salud
-  - Fallando una fruta o gota de jugo
+- Drenaje de salud
+- Fallando una fruta o gota de jugo
 
 Sin efecto:
 
-  - Tiempo de descanso
+- Tiempo de descanso
 
 ## osu!mania
 
@@ -92,11 +92,9 @@ Aparecerán ráfagas de puntuación después de tocar una nota, cambiando la pun
 
 Recuperación de salud:
 
-  - Obtener un 300 arcoíris, 300 o 200 (de mayor a menor ganancia)
-  - Sosteniendo una nota sostenida con la tecla correcta
+- Obtener un 300 arcoíris, 300 o 200 (de mayor a menor ganancia)
+- Sosteniendo una nota sostenida con la tecla correcta
 
 Perdida de salud:
 
-  - Obtener un 50 o un Miss
-
-<!--TODO: Insert links-->
+- Obtener un 50 o un Miss
