@@ -20,6 +20,8 @@ tags:
   - пристрій
   - ім'я
   - видалення
+outdated_translation: true
+outdated_since: c1ee4ccf3eaa03edb66ad9154050cead2111e6c4
 ---
 
 # Аккаунт
