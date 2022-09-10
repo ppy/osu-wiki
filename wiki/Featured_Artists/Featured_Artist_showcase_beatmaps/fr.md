@@ -528,7 +528,7 @@ Cet article répertorie toutes les beatmaps showcase qui ont été créées par 
   - (![][osu!]) [Origami Angel - Escape Rope](https://osu.ppy.sh/beatmapsets/1757733#osu/3602276) organisé par ::{ flag=GB }:: [Altai](https://osu.ppy.sh/users/5745865)
   - (![][osu!catch]) [Origami Angel - The Title Track](https://osu.ppy.sh/beatmapsets/1503591#fruits/3404572) organisé par ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134)
 
-### June
+### Juin
 
 - **[Ponchi](https://osu.ppy.sh/home/news/2022-06-01-new-featured-artist-ponchi)** (01/06/2022)
   - (![][osu!]) [Ponchi feat. haxchi - Mousou <3 Chuu!!](https://osu.ppy.sh/beatmapsets/1726676#osu/3528814) organisé par ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117)
@@ -547,7 +547,7 @@ Cet article répertorie toutes les beatmaps showcase qui ont été créées par 
 - **[Toromaru](https://osu.ppy.sh/home/news/2022-06-29-new-featured-artist-toromaru)** (29/06/2022)
   - (![][osu!]) [Toromaru - Formless Canvas](https://osu.ppy.sh/beatmapsets/1727694#osu/3667382) organisé par ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334)
 
-### July
+### Juillet
 
 - **[aran](https://osu.ppy.sh/home/news/2022-07-09-new-featured-artist-aran)** (09/07/2022)
   - (![][osu!]) [aran & lapix - KALACAKLA](https://osu.ppy.sh/beatmapsets/1773829#osu/3631936) organisé par ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342)
@@ -560,7 +560,7 @@ Cet article répertorie toutes les beatmaps showcase qui ont été créées par 
   - (![][osu!taiko]) [ZxNX - FORTALiCE](https://osu.ppy.sh/beatmapsets/1765720#taiko/3614336) organisé par ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721)
   - (![][osu!mania]) [ZxNX - FORTALiCE](https://osu.ppy.sh/beatmapsets/1737101#mania/3550471) organisé par ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789)
 
-### August
+### Août
 
 - **[Hamu](https://osu.ppy.sh/home/news/2022-08-03-new-featured-artist-hamu)** (03/08/2022)
   - (![][osu!]) [Hamu - Secret Clover](https://osu.ppy.sh/beatmapsets/1815789#osu/3732873) organisé par ::{ flag=US }:: [Heroine](https://osu.ppy.sh/users/12727076)
