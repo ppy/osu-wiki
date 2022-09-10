@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: e2bc6e20ae0f8aa6e71d7abf4d7e97239fea8c21
----
-
 # GitHub Desktop
 
 *Cet article est la suite de [la page principale](/wiki/osu!_wiki/Contribution_guide)* et suppose que vous utilisez [GitHub Desktop](https://desktop.github.com). **Même si vous travaillez localement, vous aurez toujours besoin d'accéder à GitHub pour créer des pull requests afin de réaliser vos changements.
