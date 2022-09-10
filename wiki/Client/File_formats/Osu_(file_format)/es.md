@@ -1,6 +1,6 @@
 # .osu (Tipo de archivo)
 
-Los archivos **`.osu`**  contienen informacion sobre un beatmap.
+Los archivos **`.osu`**  contienen información sobre un beatmap.
 
 ## Estructura
 
@@ -297,7 +297,7 @@ Este hitsound utiliza las propiedades `hitSound` y `hitSample` del objeto de gol
 
 ### Notas largas (solo osu!mania)
 
-*Sintaxis de las notas largas:* `x,y,tiempo,tipo,hitSound,endTime:hitSample`
+*Sintaxis de las notas largas:* `x,y,time,type,hitSound,endTime:hitSample`
 
 - **`endTime` (Integer):** Hora de finalización de las notas largas, en milisegundos desde el comienzo del audio del beatmap.
 - `x` determina el índice de la columna en la que estará la retención. Se calcula mediante `floor(x * columnCount / 512)` y se fija entre `0` y `columnCount - 1`.
