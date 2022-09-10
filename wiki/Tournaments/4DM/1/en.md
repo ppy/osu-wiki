@@ -92,9 +92,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=FR }:: [AiNA](https://osu.ppy.sh/users/4426908) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=FR }:: [Cryophenix](https://osu.ppy.sh/users/3996466) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=US }:: **United States** (**[Dergo](https://osu.ppy.sh/users/7439226)**, [-Lethal-](https://osu.ppy.sh/users/5125822), [Logan636](https://osu.ppy.sh/users/9423766), [Playboi Carti](https://osu.ppy.sh/users/4833676), [Unholy](https://osu.ppy.sh/users/7672414), [\[ F E R R I S \]](https://osu.ppy.sh/users/13802345)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=AR }:: **Argentina** (**[juankristal](https://osu.ppy.sh/users/443656)**, [AbsurdDive](https://osu.ppy.sh/users/4540361), [aluuu](https://osu.ppy.sh/users/4585260), [bubshish](https://osu.ppy.sh/users/7110363), [jLuyalb](https://osu.ppy.sh/users/7093698)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=PH }:: **Philippines** (**[SurfChu85](https://osu.ppy.sh/users/4469895)**, [arccat](https://osu.ppy.sh/users/4848294), [Baltz](https://osu.ppy.sh/users/6083463), [GTXCZE](https://osu.ppy.sh/users/9209185), [Mk3605](https://osu.ppy.sh/users/8416824), [nyx-](https://osu.ppy.sh/users/9883834)) |
 
 ## Mappools
 
