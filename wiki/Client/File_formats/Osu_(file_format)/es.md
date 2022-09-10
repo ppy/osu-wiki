@@ -51,7 +51,7 @@ Estas opciones solo son relevantes cuando se abren mapas en el [editor](/wiki/Cl
 
 | Opción | Tipo de valor | Descripción |
 | :-- | :-- | :-- |
-| `Bookmarks` | Lista de enteros separados por comas | Tiempo en milisegundos de los [bookmarks](/wiki/Client/Beatmap_editor/Compose/#parte-inferior-linea-de-tiempo-de-la-canci%C3%B3n-1) |
+| `Bookmarks` | Lista de enteros separados por comas | Tiempo en milisegundos de los [bookmarks](/wiki/Client/Beatmap_editor/Compose#parte-inferior-linea-de-tiempo-de-la-canci%C3%B3n-1) |
 | `DistanceSpacing` | Decimal | Multiplicador del [ajuste de distancia](/wiki/Client/Beatmap_editor/Distance_snap) |
 | `BeatDivisor` | Integer | [Divisor de ritmo](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) |
 | `GridSize` | Integer | [Tamaño de la cuadrícula](/wiki/Beatmapping/Grid_snapping) |
