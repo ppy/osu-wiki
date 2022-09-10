@@ -38,9 +38,9 @@ The 4 Digit osu!mania World Cup was run by various community members.
 | Organiser | ::{ flag=GB }:: [Fletch](https://osu.ppy.sh/users/8946085) |
 | Mappool selector | ::{ flag=GB }:: [Fletch](https://osu.ppy.sh/users/8946085), ::{ flag=TH }:: [HowToPlayLN](https://osu.ppy.sh/users/10879600), ::{ flag=HK }:: [zero2snow](https://osu.ppy.sh/users/7751516), ::{ flag=ID }:: [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871) |
 | Referee | ::{ flag=US }:: [Bakugo](https://osu.ppy.sh/users/7894839), ::{ flag=US }:: [Bikowo](https://osu.ppy.sh/users/10726612), ::{ flag=CH }:: [Icerite](https://osu.ppy.sh/users/7226287), ::{ flag=AU }:: [Illinon](https://osu.ppy.sh/users/8306102), ::{ flag=SG }:: [jh1h1h](https://osu.ppy.sh/users/9140302), ::{ flag=FR }:: [Ladylag](https://osu.ppy.sh/users/2812098), ::{ flag=PL }:: [Patrick the Rockstart](https://osu.ppy.sh/users/6814521), ::{ flag=DK }:: [Plaiceholder](https://osu.ppy.sh/users/11910867), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=US }:: [Unholy](https://osu.ppy.sh/users/7672414) |
-| Streamer | ::{ flag=DE }:: [Lethal](https://osu.ppy.sh/users/2316542), ::{ flag=US }:: [Rianolinon](https://osu.ppy.sh/users/9739455), ::{ flag=CA }:: [Sinaeb](https://osu.ppy.sh/users/1576095) |
-| Commentator | ::{ flag=US }:: [Drago](https://osu.ppy.sh/users/7439226), ::{ flag=DE }:: [Lethal](https://osu.ppy.sh/users/2316542), ::{ flag=US }:: [Logan636](https://osu.ppy.sh/users/9423766) |
-| Statistician | ::{ flag=US }:: [Logan636](https://osu.ppy.sh/users/9423766) |
+| Streamer | ::{ flag=US }:: [-Lethal-](https://osu.ppy.sh/users/5125822), ::{ flag=US }:: [Rianolinon](https://osu.ppy.sh/users/9739455), ::{ flag=CA }:: [Sinaeb](https://osu.ppy.sh/users/1576095) |
+| Commentator | ::{ flag=US }:: [-Lethal-](https://osu.ppy.sh/users/5125822), ::{ flag=US }:: [Drago](https://osu.ppy.sh/users/7439226), ::{ flag=US }:: [Logan636](https://osu.ppy.sh/users/9423766) |
+| Statistician | ::{ flag=GB }:: [Fletch](https://osu.ppy.sh/users/8946085) |
 | Wiki writer | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
