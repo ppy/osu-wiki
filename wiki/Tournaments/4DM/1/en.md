@@ -77,6 +77,15 @@ The 4 Digit osu!mania World Cup was run by various community members.
 | ::{ flag=GB }:: | **United Kingdom** | **[Scorpia](https://osu.ppy.sh/users/7193443)**, [avaiel](https://osu.ppy.sh/users/8538440), [Jup](https://osu.ppy.sh/users/6563045), [MaDD](https://osu.ppy.sh/users/7405208), [Rain](https://osu.ppy.sh/users/12161151), [Upbeat](https://osu.ppy.sh/users/10702118) |
 | ::{ flag=US }:: | **United States** | **[Dergo](https://osu.ppy.sh/users/7439226)**, [-Lethal-](https://osu.ppy.sh/users/5125822), [Logan636](https://osu.ppy.sh/users/9423766), [Playboi Carti](https://osu.ppy.sh/users/4833676), [Unholy](https://osu.ppy.sh/users/7672414), [\[ F E R R I S \]](https://osu.ppy.sh/users/13802345) |
 
+## Groups
+
+| Group | Top seed | High seed | Middle seed | Low seed | Unseeded |
+| :-: | :-- | :-- | :-- | :-- | :-- |
+| **A** | ::{ flag=US }:: United States | ::{ flag=AR }:: Argentina | ::{ flag=PE }:: Peru | ::{ flag=KR }:: South Korea | ::{ flag=RU }:: Russian Federation |
+| **B** | ::{ flag=SG }:: Singapore | ::{ flag=FR }:: France | ::{ flag=CA }:: Canada | ::{ flag=AU }:: Australia | ::{ flag=NZ }:: New Zealand |
+| **C** | ::{ flag=PL }:: Poland | ::{ flag=FI }:: Finland | ::{ flag=CN }:: China | ::{ flag=BE }:: Belgium | ::{ flag=GB }:: United Kingdom |
+| **D** | ::{ flag=PH }:: Philippines | ::{ flag=ID }:: Indonesia | ::{ flag=NL }:: Netherlands | ::{ flag=CL }:: Chile | ::{ flag=TH }:: Thailand |
+
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
