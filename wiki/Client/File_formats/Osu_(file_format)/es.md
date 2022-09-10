@@ -51,11 +51,11 @@ Estas opciones solo son relevantes cuando se abren mapas en el [editor](/wiki/Cl
 
 | Opción | Tipo de valor | Descripción |
 | :-- | :-- | :-- |
-| `Bookmarks` | Lista de enteros separados por comas | Tiempo en milisegundos de los [bookmarks](/wiki/Client/Beatmap_editor/Compose#bottom-(song's-timeline)) |
+| `Bookmarks` | Lista de enteros separados por comas | Tiempo en milisegundos de los [bookmarks](/wiki/Client/Beatmap_editor/Compose/#parte-inferior-linea-de-tiempo-de-la-canci%C3%B3n-1) |
 | `DistanceSpacing` | Decimal | Multiplicador del [ajuste de distancia](/wiki/Client/Beatmap_editor/Distance_snap) |
 | `BeatDivisor` | Integer | [Divisor de ritmo](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) |
 | `GridSize` | Integer | [Tamaño de la cuadrícula](/wiki/Beatmapping/Grid_snapping) |
-| `TimelineZoom` | Decimal | Factor de escala para la [línea de tiempo del objeto](/wiki/Client/Beatmap_editor/Compose#top-left-(hit-objects-timeline)) |
+| `TimelineZoom` | Decimal | Factor de escala para la [línea de tiempo del objeto](/wiki/Client/Beatmap_editor/Compose#esquina-superior-izquierda-linea-de-tiempo-de-los-objetos-golpeables) |
 
 ## Metadatos
 
@@ -357,7 +357,7 @@ La pantalla de osu!catch solo usa el eje x, por lo que `y` no es relevante. Las 
 
 ### osu!manía
 
-De forma similar a osu!catch, los objetos hit de osu!mania no usan `y`. `x` se usa para determinar la columna; consulte la [sección de Notas largas](#notas-largas(solo-osu!mania)).
+De forma similar a osu!catch, los objetos hit de osu!mania no usan `y`. `x` se usa para determinar la columna; consulte la [sección de Notas largas](#notas-largas-(solo-osu!mania)).
 
 - Los círculos de golpeo se convierten en notas normales.
 - Los deslizadores y las ruletas no se utilizan en osu!mania. En cambio pasan a ser notas largas.
