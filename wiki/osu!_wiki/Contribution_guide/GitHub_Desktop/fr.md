@@ -52,7 +52,7 @@ Bien que les branches soient techniquement facultatives, elles sont [fortement r
 
 ### Création de nouveaux fichiers
 
-*Attention : Si vous comptez créer des fichiers d'articles à l'aide de l'Explorateur Windows, assurez-vous que l'option `Masquer les extensions des fichiers dont le type est connu` est désactivée.* Voir [Toujours afficher les extensions des fichiers](https://www.pcastuces.com/pratique/astuces/4584.htm) pour les instructions.
+*Attention : Si vous comptez créer des fichiers d'articles à l'aide de l'Explorateur Windows, assurez-vous que l'option `Masquer les extensions des fichiers dont le type est connu` est désactivée.* Voir [Extensions de nom de fichier courantes dans Windows](https://support.microsoft.com/fr-fr/windows/extensions-de-nom-de-fichier-courantes-dans-windows-da4a4430-8e76-89c5-59f7-1cdbbc75cb01) pour les instructions.
 
 1. Utilisez l'Explorateur Windows, votre éditeur d'images préféré et/ou votre éditeur de texte préféré pour créer de nouveaux fichiers. Si vous créez de nouveaux articles ou de nouvelles traductions, renommez le fichier pour respecter les [Locales dans les critères de mise en forme des articles](/wiki/Article_styling_criteria/Formatting#locales).
 2. Continuer vers [Commits et pushs](#commits-et-pushs).
