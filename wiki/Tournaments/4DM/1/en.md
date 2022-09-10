@@ -408,28 +408,66 @@ Detailed statistics for this round can be found in [this spreadsheet](https://do
 
 ### General rules
 
-1. Participant must be within ranks #900 - #2,999 during registrations.
-2. The Score System used will be **Score V2**.
-3. If player can't attend within the span of **10 minutes**, the other player will win by default.
-4. Even in a tournament scene osu! is still a game. Please respect each other to everyone, be friendly, and fair play.
-5. 4 Digit osu!mania World Cup will use double-elimination bracket, which means that there will be a loser's bracket.
-6. Any player with French flag can participate in the tournament.
+1. Participant must be within ranks #1,000 - #9,999 during registrations.
+2. Participant will register through the registration form and after seeding and screening phase by our staff, there will be a team captain selected for each country.
+   - The captain will announce its players within the team with a composition of minimum 3 players and maximum 6 players
+3. Even in a tournament scene osu! is still a game. Please respect each other to everyone, be friendly, and fair play.
+4. 4 Digit osu!mania World Cup will use double-elimination bracket, which means that there will be a loser's bracket.
+
+### Stage regulations
+
+#### Qualifiers
+
+1. The qualifiers stage will have each team play through a set of 4 maps twice.
+2. Teams will put forward 3 players per map and are able to interchange these players between maps.
+3. The top scores on each map by each team will be summed and used as the basis upon which teams are seeded later for Group Stage.
+
+#### Group stage
+
+1. The Group stage will have teams placed in a group of 5.
+2. All the teams from each group will face each other.
+3. Ranking of each group are determined by soring the results of each team's performance in the following priority:
+   1. Most matches won
+   2. The team's Win/Loss record
+   3. Most maps won
+4. Available seeding for groups from their best qualifiers results are as follows:
+   1. Top seed
+   2. High seed
+   3. Middle seed
+   4. Low seed
+   5. Unseeded
+5. In the end of the Group stage, 1 team from each group will not proceed to the knockout stage and will be eliminated from the tournament.
+
+#### Knockout stage
+
+1. The rounds after the Group Stage will use double-elimination format, consisting of two brackets, the 'Winners' and the 'Losers'.
+2. Teams finishing on the top of their group (from group stage), will be placed against the team who finished 2nd in a different group, examples are as follows:
+   - Scenario: 8 groups in the group stage
+     - The 1st place of group A will face the 2nd place of group H
+     - The 2nd place of group A will face the 1st place of group H
+     - The 1st place of group B will face the 2nd place of group G
+     - The 2nd place of group B will face the 1st place of group G
+3. Teams which win a match in the winners bracket will progress through said bracket.
+4. Teams which lose a match in the winners bracket will fall in to the losers bracket.
+   - If they lose again in the losers bracket, they will be eliminated from the tournament
+5. During the Grand Finals match, if the winning team is the team from the losers bracket, a bracket reset will take place and match will be replayed again with the same mappool.
 
 ### Match regulations
 
-1. Players will do `!roll` at the start of the match to determine the order of who picks and bann first.
-2. Warmups are not allowed, so make sure you are well warmed up before playing against your opponent.
-3. Regarding map bans, the amount of map should be banned are as follows:
-   - From Round of 16 until Semifinals, each player will ban 1 map per match.
-   - In the Finals and Grand Finals, each player will ban 2 maps per match.
-4. Failed scores count, with that NoFail will be enforced for everyone
-5. The same player is not allowed to ban or the same mod twice in a row.
-6. Players will be forced to use a mod from a FreeMod pick.
-7. Hidden mod is combineable with HardRock and DoubleTime mod.
-8. The Tiebreaker will be played under NoMod or Hidden.
+1. The referee will create the multiplayer room 10 minutes prior to the allotted time, and invite the team captains 5 minutes before the scheduled match time.
+2. When both captains have arrived in the lobby and confirm they have 3 available players, the match will commence.
+3. If team fail to attend/don't have the minimum player participating within the span of **10 minutes**, the other team will win by default.
+4. If both teams fail to attend/don't have the minimum player participating within the scheduled time, a reschedule will occur, should this same scenario occur at the rescheduled time then the higher seeded team will receive a win by default.
+5. Match will consist a warmup to begin with, one for each team, which must not exceed the **4:00** mark.
+6. Each player from each team will do `!roll` at the start of the match to determine the match order.
+   - The team with higher roll will pick first, and ban second
+   - The team with lower roll will ban first, and pick second
+7. Teams are allowed up to **one** ban per match which cannot be the tiebreaker and are to be chosen by each teams respective captain.
+8. All maps will be played under FreeMod.
 
 ### Winning conditions
 
-1. Round of 16 and Quarterfinals: Best-of-9 (first to 5 points)
-2. Semifinals: Best-of-11 (first to 6 points)
-3. **Finals and Grand Finals**: Best-of-13 (first to 7 points)
+1. Group Stage: Best-of-7 (first to 4 points)
+2. Round of 16: Best-of-9 (first to 5 points)
+3. Quarterfinals and Semifinals: Best-of-11 (first to 6 points)
+4. **Finals and Grand Finals**: Best-of-13 (first to 7 points)
