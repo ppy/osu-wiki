@@ -6,7 +6,7 @@ tags:
 
 # 4 Digit osu!mania World Cup
 
-The **4 Digit osu!mania World Cup** (***4DM***) was a worldwide country-based double-elimination 3v3 osu!mania 4-key tournament hosted by ::{ flag=GB }:: [Fletch](https://osu.ppy.sh/users/8946085). Players will form a team with all its members ranked between #1,000 and #9,999 were able to participate. It was the first instalment of the 4 Digit osu!mania World Cup.
+The **4 Digit osu!mania World Cup** (***4DM***) was a worldwide country-based double-elimination 3v3 osu!mania 4-key tournament hosted by ::{ flag=GB }:: [Fletch](https://osu.ppy.sh/users/8946085). Players formed teams with all members being ranked between #1,000 and #9,999. It was the first instalment of the 4 Digit osu!mania World Cup.
 
 ## Tournament schedule
 
@@ -236,7 +236,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Match results
 
-*All match links were unavailable to be obtained, due to lack of documentation.*
+*All match links are unavailable, due to lack of documentation.*
 
 ### Grand Finals
 
@@ -254,7 +254,7 @@ Saturday, 20 July 2019:
 | Team 1 |  |  | Team 2 |
 | --: | :-: | :-: | :-- |
 | **China** ::{ flag=CN }:: | **7** | 5 | ::{ flag=FR }:: France |
-| Singapore ::{ flag=SG }:: | 1 | **7** | ::{ flag=AR }:: Argentina |
+| Singapore ::{ flag=SG }:: | 1 | **7** | ::{ flag=AR }:: **Argentina** |
 
 Sunday, 21 July 2019:
 
