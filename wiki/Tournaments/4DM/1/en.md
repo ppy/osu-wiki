@@ -18,10 +18,10 @@ The **4 Digit osu!mania World Cup** (***4DM***) was a worldwide country-based do
 | Qualifiers | 2019-06-07/2019-06-08 |
 | Group Stage | 2019-06-15/2019-06-23 |
 | Round of 16 | 2019-06-29/2019-06-30 |
-| Quarterfinals | 2019-07-06/2019-07-07 |
-| Semifinals | 2019-07-13/2019-07-14 |
+| Quarterfinals | 2019-07-06/2019-07-08 |
+| Semifinals | 2019-07-13/2019-07-16 |
 | Finals | 2019-07-20/2019-07-21 |
-| Grand Finals | 2019-07-27/2019-07-28 |
+| Grand Finals | 2019-07-27 |
 
 ## Prizes
 
@@ -236,100 +236,173 @@ This competition has come to an end and resulted in the following podium:
 
 ## Match results
 
+*All match links were unavailable to be obtained, due to lack of documentation.*
+
 ### Grand Finals
 
-Sunday, 17 October 2019:
+Saturday, 27 July 2019:
 
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| AiNA ::{ flag=FR }:: | 3 | **7** | ::{ flag=FR }:: **Yruama** | [#1](https://osu.ppy.sh/community/matches/92544971 ) |
-| **Yruama** ::{ flag=FR }:: | **7** | 4 | ::{ flag=FR }:: AiNA | [#1](https://osu.ppy.sh/community/matches/92548424) |
+| Team 1 |  |  | Team 2 |
+| --: | :-: | :-: | :-- |
+| Philippines ::{ flag=PH }:: | 3 | **7** | ::{ flag=AR }:: **Argentina** |
+| **United States** ::{ flag=US }:: | **7** | 6 | ::{ flag=AR }:: Argentina |
 
 ### Finals
 
-Saturday, 9 October 2019:
+Saturday, 20 July 2019:
 
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **Yruama** ::{ flag=FR }:: | **7** | 3 | ::{ flag=FR }:: floflim | [#1](https://osu.ppy.sh/community/matches/92162893 ) |
-| **AiNA** ::{ flag=FR }:: | **7** | 1 | ::{ flag=FR }:: Cryophenix | [#1](https://osu.ppy.sh/community/matches/92148642 ) |
+| Team 1 |  |  | Team 2 |
+| --: | :-: | :-: | :-- |
+| **China** ::{ flag=CN }:: | **7** | 5 | ::{ flag=FR }:: France |
+| Singapore ::{ flag=SG }:: | 1 | **7** | ::{ flag=AR }:: Argentina |
 
-Sunday, 10 October 2019:
+Sunday, 21 July 2019:
 
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| Cryophenix ::{ flag=FR }:: | 2 | **7** | ::{ flag=FR }:: **Yruama** | [#1](https://osu.ppy.sh/community/matches/92206006) |
+| Team 1 |  |  | Team 2 |
+| --: | :-: | :-: | :-- |
+| **United States** ::{ flag=US }:: | **7** | 0 | ::{ flag=PH }:: Philippines |
+| China ::{ flag=CN }:: | 6 | **7** | ::{ flag=AR }:: **Argentina** |
 
 ### Semifinals
 
-Saturday, 2 October 2019:
+Saturday, 13 July 2019:
 
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **Papy Enias** ::{ flag=FR }:: | **6** | 5 | ::{ flag=FR }:: Trifano | [#1](https://osu.ppy.sh/community/matches/91806838) |
-| **Bebar** ::{ flag=FR }:: | **6** | 5 | ::{ flag=FR }:: Shamookie | [#1](https://osu.ppy.sh/community/matches/91803843) |
-| **Cryophenix** ::{ flag=FR }:: | **6** | 5 | ::{ flag=FR }:: floflim | [#1](https://osu.ppy.sh/community/matches/91824771) |
+| Team 1 |  |  | Team 2 |
+| --: | :-: | :-: | :-- |
+| Singapore ::{ flag=SG }:: | 5 | **6** | ::{ flag=PH }:: **Philippines** |
+| **Indonesia** ::{ flag=ID }:: | **6** | 0 | ::{ flag=AU }:: Australia |
+| Finland ::{ flag=FI }:: | 1 | **6** | ::{ flag=PL }:: **Poland** |
 
-Sunday, 3 October 2019:
+Sunday, 14 July 2019:
 
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **AiNA** ::{ flag=FR }:: | **6** | 3 | ::{ flag=FR }:: Yruama | [#1](https://osu.ppy.sh/community/matches/91858536) |
-| **Yruama** ::{ flag=FR }:: | **6** | 2 | ::{ flag=FR }:: Bebar | [#1](https://osu.ppy.sh/community/matches/91862769) |
-| **floflim** ::{ flag=FR }:: | **6** | 2 | ::{ flag=FR }:: Papy Enias | [#1](https://osu.ppy.sh/community/matches/91868465) |
+| Team 1 |  |  | Team 2 |
+| --: | :-: | :-: | :-- |
+| **Argentina** ::{ flag=AR }:: | **0** | -1 | ::{ flag=KR }:: South Korea |
+| **France** ::{ flag=FR }:: | **6** | 0 | ::{ flag=CA }:: Canada |
+
+Monday, 15 July 2019:
+
+| Team 1 |  |  | Team 2 |
+| --: | :-: | :-: | :-- |
+| **United States** ::{ flag=US }:: | **6** | 0 | ::{ flag=CN }:: China |
+| **Argentina** ::{ flag=AR }:: | **6** | 2 | ::{ flag=PL }:: Poland |
+
+Tuesday, 16 July 2019:
+
+| Team 1 |  |  | Team 2 |
+| --: | :-: | :-: | :-- |
+| **France** ::{ flag=FR }:: | **6** | 4 | ::{ flag=ID }:: Indonesia |
 
 ### Quarterfinals
 
-Tuesday, 21 September 2019:
+Saturday, 6 July 2019:
 
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| Shamookie Simp ::{ flag=FR }:: | 4 | **5** | ::{ flag=FR }:: **floflim** | [#1](https://osu.ppy.sh/community/matches/91264199) |
+| Team 1 |  |  | Team 2 |
+| --: | :-: | :-: | :-- |
+| **Singapore** ::{ flag=SG }:: | **5** | 2 | ::{ flag=ID }:: Indonesia |
+| **South Korea** ::{ flag=KR }:: | **0** | -1 | ::{ flag=BE }:: Belgium |
+| Argentina ::{ flag=AR }:: | 0 | **5** | ::{ flag=CN }:: **China** |
 
-Saturday, 25 September 2019:
+Sunday, 7 July 2019:
 
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| BigNounours ::{ flag=FR }:: | 1 | **5** | ::{ flag=FR }:: **Bebar** | [#1](https://osu.ppy.sh/community/matches/91454147) |
-| Le Gentil ::{ flag=FR }:: | -1 | **0** | ::{ flag=FR }:: **wind in seoul** | *win by default* |
-| **Kanna\_Shiro** ::{ flag=FR }:: | **0** | -1 | ::{ flag=FR }:: Kaudae | *win by default* |
-| **NoLimitFS** ::{ flag=FR }:: | **5** | 4 | ::{ flag=FR }:: caillrot | [#1](https://osu.ppy.sh/community/matches/91477795) |
-| **AiNA** ::{ flag=FR }:: | **5** | 3 | ::{ flag=FR }:: Trifano | [#1](https://osu.ppy.sh/community/matches/91469409) |
-| **Yruama** ::{ flag=FR }:: | **5** | 1 | ::{ flag=FR }:: Papy Enias | [#1](https://osu.ppy.sh/community/matches/91477795) |
-| Shamookie ::{ flag=FR }:: | 0 | **5** | ::{ flag=FR }:: **Cryophenix** | [#1](https://osu.ppy.sh/community/matches/91465967) |
+| Team 1 |  |  | Team 2 |
+| --: | :-: | :-: | :-- |
+| **Australia** ::{ flag=AU }:: | **5** | 3 | ::{ flag=NZ }:: New Zealand |
+| France ::{ flag=FR }:: | 3 | **5** | ::{ flag=PH }:: **Philippines** |
+| **Canada** ::{ flag=CA }:: | **5** | 1 | ::{ flag=TH }:: Thailand |
+| Russian Federation ::{ flag=RU }:: | 0 | **5** | ::{ flag=PL }:: **Poland** |
 
-Sunday, 26 September 2019:
+Monday, 8 July 2019:
 
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **Trifano** ::{ flag=FR }:: | **5** | 1 | ::{ flag=FR }:: NoLimitFS | [#1](https://osu.ppy.sh/community/matches/91526055) |
-| **Papy Enias** ::{ flag=FR }:: | **0** | -1 | ::{ flag=FR }:: Kanna\_Shiro | *win by default* |
-| **Shamookie** ::{ flag=FR }:: | **5** | 1 | ::{ flag=FR }:: wind in seoul | [#1](https://osu.ppy.sh/community/matches/91517924), [#2](https://osu.ppy.sh/community/matches/91519293) |
-| Shamookie Simp ::{ flag=FR }:: | -1 | **0** | ::{ flag=FR }:: **Bebar** | *win by default* |
+| Team 1 |  |  | Team 2 |
+| --: | :-: | :-: | :-- |
+| **United States** ::{ flag=US }:: | **5** | 0 | ::{ flag=FI }:: Finland |
 
 ### Round of 16
 
-Saturday, 18 September 2019:
+Saturday, 29 June 2019:
 
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **Papy Enias** ::{ flag=FR }:: | **5** | 0 | ::{ flag=FR }:: wind in seoul | [#1](https://osu.ppy.sh/community/matches/91113223) |
-| **Shamookie Simp** ::{ flag=FR }:: | **5** | 0 | ::{ flag=FR }:: NoLimitFS | [#1](https://osu.ppy.sh/community/matches/91109773) |
-| **floflim** ::{ flag=FR }:: | **5** | 1 | ::{ flag=FR }:: caillrot | [#1](https://osu.ppy.sh/community/matches/91107241) |
+| Team 1 |  |  | Team 2 |
+| --: | :-: | :-: | :-- |
+| Poland ::{ flag=PL }:: | 1 | **5** | ::{ flag=PH }:: **Philippines** |
+| South Korea ::{ flag=KR }:: | 1 | **5** | ::{ flag=SG }:: **Singapore** |
 
-Sunday, 19 September 2019:
+Sunday, 30 June 2019:
 
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| Bebar ::{ flag=FR }:: | 3 | **5** | ::{ flag=FR }:: **Trifano** | [#1](https://osu.ppy.sh/community/matches/91159737) |
-| **Yruama** ::{ flag=FR }:: | **5** | 0 | ::{ flag=FR }:: Le Gentil | [#1](https://osu.ppy.sh/community/matches/91165028) |
-| **AiNA** ::{ flag=FR }:: | **0** | -1 | ::{ flag=FR }:: BigNounours | *win by default* |
-| **Shamookie** ::{ flag=FR }:: | **5** | 3 | ::{ flag=FR }:: Kanna\_Shiro | [#1](https://osu.ppy.sh/community/matches/91171042) |
-| **Cryophenix** ::{ flag=FR }:: | **5** | 1 | ::{ flag=FR }:: Kaudae | [#1](https://osu.ppy.sh/community/matches/91158736) |
+| Team 1 |  |  | Team 2 |
+| --: | :-: | :-: | :-- |
+| **Argentina** ::{ flag=AR }:: | **5** | 2 | ::{ flag=AU }:: Australia |
+| Belgium ::{ flag=BE }:: | 0 | **5** | ::{ flag=ID }:: **Indonesia** |
+| **China** ::{ flag=CN }:: | **5** | 1 | ::{ flag=NL }:: Netherlands |
+| **Finland** ::{ flag=FI }:: | **5** | 4 | ::{ flag=TH }:: Thailand |
+| Russian Federation ::{ flag=RU }:: | 0 | **5** | ::{ flag=FR }:: **France** |
+| **United States** ::{ flag=US }:: | **5** | 0 | ::{ flag=CA }:: Canada |
+
+### Group Stage
+
+Saturday, 15 June 2019:
+
+| Group | Team 1 |  |  | Team 2 |
+| :-: | --: | :-: | :-: | :-- |
+| A | **United States** ::{ flag=US }:: | **4** | 0 | ::{ flag=AR }:: Argentina |
+| B | **Singapore** ::{ flag=SG }:: | **4** | 0 | ::{ flag=NZ }:: New Zealand |
+| C | **China** ::{ flag=CN }:: | **4** | 2 | ::{ flag=BE }:: Belgium |
+| C | Poland ::{ flag=PL }:: | 1 | **4** | ::{ flag=FI }:: **Finland** |
+| C | **Poland** ::{ flag=PL }:: | **4** | 0 | ::{ flag=GB }:: United Kingdom |
+| A | **South Korea** ::{ flag=KR }:: | **4** | 0 | ::{ flag=RU }:: Russian Federation |
+| B | **France** ::{ flag=FR }:: | **4** | 2 | ::{ flag=CA }:: Canada |
+| B | **Canada** ::{ flag=CA }:: | **4** | 0 | ::{ flag=NZ }:: New Zealand |
+
+Sunday, 16 June 2019:
+
+| Group | Team 1 |  |  | Team 2 |
+| :-: | --: | :-: | :-: | :-- |
+| D | **Indonesia**  ::{ flag=ID }:: | **4** | 3 | ::{ flag=CL }:: Chile |
+| A | **Argentina** ::{ flag=AR }:: | **4** | 2 | ::{ flag=KR }:: South Korea |
+| D | **Philippines** ::{ flag=PH }:: | **4** | 1 | ::{ flag=TH }:: Thailand |
+| B | **Singapore** ::{ flag=SG }:: | **4** | 1 | ::{ flag=AU }:: Australia |
+| B | **France** ::{ flag=FR }:: | **4** | 1 | ::{ flag=AU }:: Australia |
+| C | **China** ::{ flag=CN }:: | **4** | 0 | ::{ flag=GB }:: United Kingdom |
+| C | **Finland** ::{ flag=FI }:: | **4** | 2 | ::{ flag=BE }:: Belgium |
+| A | Peru ::{ flag=PE }:: | 0 | **4** | ::{ flag=RU }:: **Russian Federation** |
+| A | **Argentina** ::{ flag=AR }:: | **4** | 3 | ::{ flag=RU }:: Russian Federation |
+
+Saturday, 22 June 2019:
+
+| Group | Team 1 |  |  | Team 2 |
+| :-: | --: | :-: | :-: | :-- |
+| A | **United States** ::{ flag=US }:: | **4** | 0 | ::{ flag=PE }:: Peru |
+| D | Philippines ::{ flag=PH }:: | 1 | **4** | ::{ flag=ID }:: **Indonesia** |
+| B | **Australia** ::{ flag=AU }:: | **4** | 1 | ::{ flag=NZ }:: New Zealand |
+| C | Poland ::{ flag=PL }:: | 3 | **4** | ::{ flag=CN }:: **China** |
+| D | **Indonesia** ::{ flag=ID }:: | **4** | 0 | ::{ flag=NL }:: Netherlands |
+| D | Chile ::{ flag=CL }:: | 1 | **4** | ::{ flag=TH }:: **Thailand** |
+| B | Canada ::{ flag=CA }:: | 2 | **4** | ::{ flag=AU }:: **Australia** |
+| C | **Finland** ::{ flag=FI }:: | **4** | 1 | ::{ flag=GB }:: United Kingdom |
+| D | **Philippines** ::{ flag=PH }:: | **4** | 1 | ::{ flag=CL }:: Chile |
+| B | **Singapore** ::{ flag=SG }:: | **4** | 0 | ::{ flag=CA }:: Canada |
+| C | **Poland** ::{ flag=PL }:: | **4** | 1 | ::{ flag=BE }:: Belgium |
+| D | **Netherlands** ::{ flag=NL }:: | **4** | 1 | ::{ flag=CL }:: Chile |
+| B | **France** ::{ flag=FR }:: | **4** | 0 | ::{ flag=NZ }:: New Zealand |
+
+Sunday, 23 June 2019:
+
+| Group | Team 1 |  |  | Team 2 |
+| :-: | --: | :-: | :-: | :-- |
+| A | Peru ::{ flag=PE }:: | 0 | **4** | ::{ flag=KR }:: **South Korea** |
+| D | **Indonesia** ::{ flag=ID }:: | **4** | 1 | ::{ flag=TH }:: Thailand |
+| D | Netherlands ::{ flag=NL }:: | 1 | **4** | ::{ flag=TH }:: **Thailand** |
+| D | **Philippines** ::{ flag=PH }:: | **4** | 1 | ::{ flag=NL }:: Netherlands |
+| C | Finland ::{ flag=FI }:: | 3 | **4** | ::{ flag=CN }:: **China** |
+| B | **Singapore** ::{ flag=SG }:: | **4** | 3 | ::{ flag=FR }:: France |
+| A | **United States** ::{ flag=US }:: | **4** | 1 | ::{ flag=KR }:: South Korea |
+| A | **United States** ::{ flag=US }:: | **4** | 0 | ::{ flag=RU }:: Russian Federation |
+| C | **Belgium** ::{ flag=BE }:: | **4** | 2 | ::{ flag=GB }:: United Kingdom |
+| A | **Argentina** ::{ flag=AR }:: | **4** | 0 | ::{ flag=PE }:: Peru |
 
 ### Qualifiers
 
-Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1LanifzyLFqyF4KPqB9p1Ykk4pHFVEkAGO2QVMYJ8vYc/edit) alongside the final standings on which player made it through to the next stage.
+Detailed statistics for this round can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1TWXY8tpyFz7jUwaEDAaC5TTci7jgAEZUibiphBa4KmA/edit?usp=sharing) alongside the final standings on which players made it through to the next stage.
 
 ## Ruleset
 
