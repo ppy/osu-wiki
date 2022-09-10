@@ -187,7 +187,7 @@ Si un niveau de difficulté Normal est requis et utilisé comme le niveau de dif
 #### Règles
 
 - **Chaque slider doit avoir une trajectoire claire et visible à suivre du début à la fin.** Les sliders qui se chevauchent sans bordures de slider claires et les sliders dont les sections individuelles sont illisibles ne peuvent pas être utilisés. La position finale d'un slider doit être claire en supposant qu'un joueur possède un skin qui rend les cercles de fin de slider totalement transparents. 
-  - La trajectoire du slider peut être ambigue si le curseur peut rester à l'intérieur du follow circle sans avoir à faire de mouvement après avoir cliqué sur la slider head.
+  - La trajectoire du slider peut être ambiguë si le curseur peut rester à l'intérieur du follow circle sans avoir à faire de mouvement après avoir cliqué sur la slider head.
 
 #### Directives
 
