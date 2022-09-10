@@ -12,7 +12,7 @@ tags:
 
 ![](img/notelock.gif "Un ejemplo del Notelock: la segunda nota es inaccesible")
 
-El **Notelock**, o **nota de bloqueo**, es un término informal para la mecánica del juego [osu!](/wiki/Game_mode/osu!), el cual puede evitar que un jugador elimine un objeto de golpeo. Esto pasa si **dos** condiciones se cumplen al mismo tiempo: 
+El **Notelock**, o **nota de bloqueo**, es un término informal para la mecánica del juego [osu!](/wiki/Game_mode/osu!), el cual puede evitar que un jugador elimine un objeto de golpeo. Esto pasa si **dos** condiciones se cumplen al mismo tiempo:
 
 1. Las [ventanas de tiempo](/wiki/Beatmapping/Overall_difficulty#timing) de dos objetos de golpeo se superponen.
 2. El primer objeto de los dos aún no ha sido juzgado (acertado o fallado).
