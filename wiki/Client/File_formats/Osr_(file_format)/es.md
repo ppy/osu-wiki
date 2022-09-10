@@ -91,7 +91,7 @@ Asi como se ve en el [osu! API](https://github.com/peppy/osu-api/wiki#mods).
 | FadeIn | 1048576 (20) |  |
 | Random | 2097152 (21) |  |
 | LastMod | 4194304 (22) | Cinema |
-| TargetPractice | 8388608 (23) | solo si [osu!cuttingedge](/wiki/Client/Options/en.md#updates) esta seleccionado |
+| TargetPractice | 8388608 (23) | solo si [osu!cuttingedge](/wiki/Client/Options#updates) esta seleccionado |
 | Key9 | 16777216 (24) |  |
 | Coop | 33554432 (25) |  |
 | Key1 | 67108864 (26) |  |
