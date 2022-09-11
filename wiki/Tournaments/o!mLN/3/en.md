@@ -9,7 +9,7 @@ tags:
 
 ![o!mLN 3 logo](img/logo.jpg)
 
-The **osu!mania LN Tournament 3** (***o!mLN 3***) is a worldwide double-elimination 1v1 osu!mania 4-key tournament hosted by ::{ flag=VN }:: [MashedPotato](https://osu.ppy.sh/users/10494860), ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061), and ::{ flag=FR }:: [\_yosh](https://osu.ppy.sh/users/7157133). The tournament featured a variety of maps with a lot of sliders (or Long Notes) in its mappools. It is the third instalment of the osu!mania LN Tournament.
+The **osu!mania LN Tournament 3** (***o!mLN 3***) is a worldwide double-elimination 1v1 osu!mania 4-key tournament hosted by ::{ flag=VN }:: [MashedPotato](https://osu.ppy.sh/users/10494860), ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061), and ::{ flag=FR }:: [\_yosh](https://osu.ppy.sh/users/7157133). The tournament features a variety of maps with a vast amount of sliders (or Long Notes) in its mappools. It is the third instalment of the osu!mania LN Tournament.
 
 ## Tournament schedule
 
@@ -35,7 +35,7 @@ The **osu!mania LN Tournament 3** (***o!mLN 3***) is a worldwide double-eliminat
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of final prize pool |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of final prize pool |
 
-*Note: The prize pool has yet to be finalised. If any player/spectator of the tournament is interested in donating to the prize pool, please contact any of the organiser for more information.*
+*Note: The prize pool has yet to be finalised. If any player/spectator of the tournament is interested in donating to the prize pool, please contact any of the organisers for more information.*
 
 ## Organisation
 
@@ -64,11 +64,11 @@ The osu!mania LN Tournament 3 is run by various community members.
 
 ## Participants
 
- *Participants will be announced soon after the screening phase has ended.*
+ *Participants will be announced soon after the screening phase ends.*
 
 ## Mappools
 
- *Every mappool will be announced 7 days (usually Sunday) before the next stage's match timeline.*
+*Every mappool will be announced 7 days (usually Sunday) before the next stage's match timeline.*
 
 ## Ruleset
 
@@ -85,15 +85,15 @@ The osu!mania LN Tournament 3 is run by various community members.
 
 The maps in this tournament will only consist of Long Note (LN) oriented maps, and cover 4 sub-categories of LNs which are used to categorise all mappools after this stage. See the graphics below for more information!
 
-![mappool-categories](img/mappool-categories.jpg)
+![Mappool categories](img/mappool-categories.jpg)
 
-![mappool-structure](img/mappool-structure.jpg)
+![Mappool structure](img/mappool-structure.jpg)
 
 ### Stage regulations
 
 #### Qualifiers
 
-1. after the screening phase has concluded, players eligible to play will participate in tournament play.
+1. After the screening phase has concluded, players eligible to play will participate in tournament play.
 2. In the first weekend, players will play 4 qualifiers maps in sequence up to 2 times, in a scheduled lobby (they may choose not to play the 2nd time if desired).
 
 ##### Qualifiers mappool details
@@ -129,7 +129,7 @@ After Qualifier Stage, every remaining player will be arranged into a standard D
 3. In the event where both players are 1 point away from winning the match, the tiebraeker will be played, and the player who wins the tiebreaker map will win the match.
 4. Should there be a tie in map score between the 2 players, the result will be nullified and the map will be played once more to determine who gets the point.
 
-![winning-conditions](img/winning-conditions.jpg)
+![Winning conditions](img/winning-conditions.jpg)
 
 ### Additional rules/information
 
