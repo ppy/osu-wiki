@@ -24,7 +24,7 @@ If you missed it live, watch how the reveal went in the video below, then check 
 
 ### aa...hisuichazuke... - steganography
 
-Play through [the MWC 4K 2022 Tiebreaker](LINK) for yourself, mapped by [-mint-](https://osu.ppy.sh/users/8976576), [guden](https://osu.ppy.sh/users/11626065), [MyZterioN-](https://osu.ppy.sh/users/8521723), and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
+Play through [the MWC 4K 2022 Tiebreaker](https://osu.ppy.sh/beatmapsets/1846639#mania/3793375) for yourself, mapped by [-mint-](https://osu.ppy.sh/users/8976576), [guden](https://osu.ppy.sh/users/11626065), [MyZterioN-](https://osu.ppy.sh/users/8521723), and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/301/Songs/aa...hisuichazuke...%20-%20steganography.mp3" type="audio/mpeg">
