@@ -20,6 +20,7 @@ El siguiente contenido está separada en secciones, indicado por títulos de sec
 | `[HitObjects]` | Objetos de golpeo | Listas separadas por comas |
 
 ## General
+
 | Opción | Tipo de valor | Descripción | Valor por defecto |
 | :-- | :-- | :-- | :-- |
 | `AudioFilename` | String | Localización del audio en la carpeta local |  |
@@ -30,17 +31,17 @@ El siguiente contenido está separada en secciones, indicado por títulos de sec
 | `SampleSet` | String | Conjunto de muestra que se usará si los puntos de tiempo no lo anulan (`Normal`, `Soft`, `Drum`) | Normal |
 | `StackLeniency` | Decimal | Multiplicador para el umbral en el tiempo en el que los objetos de golpeo que están colocados muy juntos se apilan (0–1) | 0.7 |
 | `Mode` | Integer | Modo de juego (`0` = osu!, `1` = osu!taiko, `2` = osu!catch, `3` = osu!mania) | 0 |
-| `LetterboxInBreaks` | 0 or 1 | Si los descansos tienen o no un efecto de pantalla ancha | 0 |
-| `StoryFireInFront` | 0 or 1 | *Obsoleto* | 1 |
-| `UseSkinSprites` | 0 or 1 | Si el storyboard puede usar o no las imágenes del usuario | 0 |
-| `AlwaysShowPlayfield` | 0 or 1 | *Obsoleto* | 0 |
+| `LetterboxInBreaks` | 0 o 1 | Si los descansos tienen o no un efecto de pantalla ancha | 0 |
+| `StoryFireInFront` | 0 o 1 | *Obsoleto* | 1 |
+| `UseSkinSprites` | 0 o 1 | Si el storyboard puede usar o no las imágenes del usuario | 0 |
+| `AlwaysShowPlayfield` | 0 o 1 | *Obsoleto* | 0 |
 | `OverlayPosition` | String | Dibuja el orden de las superposiciones de círculos de golpeo en comparación con los números de golpeo (`NoChange` = usar configuracion de skin, `Below` = dibujar superposiciones debajo de los números, `Above` = dibujar superposiciones encima de los números) | NoChange |
 | `SkinPreference` | String | Skin preferida durante el juego |  |
-| `EpilepsyWarning` | 0 or 1 | Si se debe mostrar o no una advertencia sobre colores intermitentes al comienzo del mapa | 0 |
+| `EpilepsyWarning` | 0 o 1 | Si se debe mostrar o no una advertencia sobre colores intermitentes al comienzo del mapa | 0 |
 | `CountdownOffset` | Integer | Tiempo en ritmos que la cuenta regresiva comienza antes del primer objeto de golpeo | 0 |
-| `SpecialStyle` | 0 or 1 | Si se usa o no el diseño de teclas de estilo "N+1" para osu!mania | 0 |
-| `WidescreenStoryboard` | 0 or 1 | Si el storyboard permite o no la visualización en pantalla ancha | 0 |
-| `SamplesMatchPlaybackRate` | 0 or 1 | Si las muestras de sonido cambiarán o no la velocidad al jugar con mods que cambian de velocidad | 0 |
+| `SpecialStyle` | 0 o 1 | Si se usa o no el diseño de teclas de estilo "N+1" para osu!mania | 0 |
+| `WidescreenStoryboard` | 0 o 1 | Si el storyboard permite o no la visualización en pantalla ancha | 0 |
+| `SamplesMatchPlaybackRate` | 0 o 1 | Si las muestras de sonido cambiarán o no la velocidad al jugar con mods que cambian de velocidad | 0 |
 
 ## Editor
 
@@ -133,7 +134,7 @@ Cada punto de tiempo influye en una parte específica del mapa, comúnmente llam
 - **`sampleSet` (Integer):** Conjunto de muestra predeterminado para objetos de golpeo (0 = beatmap predeterminado, 1 = normal, 2 = soft, 3 = drum).
 - **`sampleIndex` (Integer):** Índice de muestra personalizado para objetos de golpeo. `0` indica los sonidos de éxito predeterminados de osu!.
 - **`volume` (Integer):** Porcentaje de volumen para los objetos de golpeo.
-- **`uninherited` (0 or 1):** Si el punto de tiempo se hereda o no.
+- **`uninherited` (0 o 1):** Si el punto de tiempo se hereda o no.
 - **`effects` (Integer):** Indicadores de bits que le dan al punto de tiempo efectos adicionales. Ver [la sección de efectos](#efectos).
 
 ### Efectos
@@ -331,6 +332,7 @@ El tercer objeto es un deslizador:
 - Repetir una vez
 - 310.123 osu! pixels de largo
 - Con un sonido de whistle al principio y un sonido de whistle jugando con set soft al final
+
 ### osu!taiko
 
 Los objetos de golpeo de osu!taiko solo usan `time` para determinar cómo se colocan en el campo de juego, por lo que `x` e `y` se ignoran. Del mismo modo, la única parte significativa de los deslizadores curvos es `lenght`; `curveType` y `curvePoints` solo son relevantes cuando se abre el mapa en el editor. Se ignoran los colores combinados y los nuevos combos, y se utilizan hitsounds específicos del modo.

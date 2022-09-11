@@ -11,7 +11,7 @@ Los archivos **.osr** contienen una osu! replay. Para usarlo, el beatmap especif
 | Integer | 4 | Un valor little endian de 4 bytes. |
 | Long | 8 | Un valor little endian de 8 bytes. |
 | LEB128 | Varía | Un entero de longitud variable. Ver [LEB128](https://en.wikipedia.org/wiki/LEB128) para mas información. |
-| String | Varía | Tiene tres partes; un solo byte que será 0x00, que indica que las dos partes siguientes no están presentes, ó 0x0b (11 decimal), que indica que las dos partes siguientes están presentes. Si es 0x0b, habrá un ULEB128, que representa la longitud en bytes de la siguiente cadena, y luego la cadena en sí, codificada en UTF-8. Ver [UTF-8](http://es.wikipedia.org/wiki/UTF-8) para mas informacion. |
+| String | Varía | Tiene tres partes; un solo byte que será 0x00, que indica que las dos partes siguientes no están presentes, o 0x0b (11 decimal), que indica que las dos partes siguientes están presentes. Si es 0x0b, habrá un ULEB128, que representa la longitud en bytes de la siguiente cadena, y luego la cadena en sí, codificada en UTF-8. Ver [UTF-8](http://es.wikipedia.org/wiki/UTF-8) para más información. |
 
 ## Formato
 
@@ -43,17 +43,17 @@ Los desplazamientos de bytes no se incluyen en esta tabla debido a los valores d
 
 **Información adicional de mod:**
 
-| Mod | Informacion guardada |
+| Mod | Información guardada |
 | :-- | :-- |
-| Target Practice | Precision total de todos los golpes. Divide esto por el numero de circulos en el mapa para encontrar la precision mostrada en juego. |
+| Target Practice | Precisión total de todos los golpes. Divide esto por el número de círculos de goleo en el mapa para encontrar la precisión mostrada en juego. |
 
-Lo restante contiene informacion sobre el movimiento del mouse y las presiones de tecla en una cadena [LZMA](https://es.wikipedia.org/wiki/LZMA).
+Lo restante contiene información sobre el movimiento del ratón y las presiones de tecla en una cadena [LZMA](https://es.wikipedia.org/wiki/LZMA).
 
-Cuando se descomprime, el texto contiene datos separados por comas. Cada pieza denota una accion, representada por 4 números en la forma: `w | x | y | z.`
+Cuando se descomprime, el texto contiene datos separados por comas. Cada pieza denota una acción, representada por 4 números en la forma: `w | x | y | z.`
 
 | Parte | Tipo de dato | Descripción |
 | :-- | :-- | :-- |
-| w | Long | Tiempo en minisegundos desde la accion anterior. |
+| w | Long | Tiempo en milisegundos desde la acción anterior. |
 | x | Float | Coordenadas **x** del cursor, de 0 a 512 |
 | y | Float | Coordenadas **y** del cursor, de 0 a 384 |
 | z | Integer | Combinación bit a bit de teclas/botones del ratón presionados (M1 = 1, M2 = 2, K1 = 4, K2 = 8, Smoke = 16) (K1 siempre se usa con M1; K2 siempre se usa con M2: 1+4=5; 2+8=10) |
