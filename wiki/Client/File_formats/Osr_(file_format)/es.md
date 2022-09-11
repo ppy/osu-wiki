@@ -24,24 +24,24 @@ Los archivos **.osr** contienen una osu! replay. Para usarlo, el beatmap especif
 | String | Funcion matematica (hash) [MD5](https://es.wikipedia.org/wiki/MD5) del osu! beatmap. |
 | String | Nombre del jugador. |
 | String | MD5 hash de la osu! replay (contiene ciertas propiedades de la repetición). |
-| Short | Cantidad de los 300. |
-| Short | Cantidad de los 100 en Standard, los 150 en Taiko, los 100 en CTB y los 100 en Mania. |
-| Short | Cantidad de los 50 en Standard, las frutas pequeñas en CTB y los 50 en mania. |
-| Short | Cantidad de Gekis en standard y los Max 300 en mania. |
-| Short | Cantidad de Katus en standard y los 200 en mania. |
-| Short | Cantidad de fallos. |
-| Integer | Puntuacion total mostrada en la pantalla final. |
-| Short | Mejor combo mostrado en la pantalla final. |
-| Byte | Perfect/Full combo (1 = sin fallos, no slider breaks y no sliders terminados prontamente). |
+| Short | Cantidad de 300s |
+| Short | Cantidad de 100s en standard, 150s en Taiko, 100s en CTB y 100s en mania |
+| Short | Cantidad de 50s en standard, frutas pequeñas en CTB y 50s en mania |
+| Short | Cantidad de Gekis en standard y los Max 300s en mania |
+| Short | Cantidad de Katus en standard y 200s en mania |
+| Short | Cantidad de fallos |
+| Integer | Puntuación total mostrada en la pantalla final |
+| Short | Mejor combo mostrado en la pantalla final |
+| Byte | Perfect/Full combo (1 = sin fallos, sin deslizadores rotos y sin deslizadores terminados antes) |
 | Integer | Mods usados. Ver abajo para una lista de los valores de los mods. |
 | String | Barra de vida: pares u/v separados por comas, donde u es el tiempo en milisegundos en la canción y v es un valor de punto float de 0 - 1 que representa la cantidad de vida que tienes en el momento dado (0 = la barra de vida está vacía, 1 = la barra de vida está llena) |
-| Long | Marca de tiempo ([Windows ticks](https://docs.microsoft.com/es-mx/dotnet/api/system.datetime.ticks?redirectedfrom=MSDN&view=net-6.0#System_DateTime_Ticks)) |
+| Long | Marca de tiempo ([Windows ticks](https://docs.microsoft.com/es-es/dotnet/api/system.datetime.ticks)) |
 | Integer | Longitud en bytes de datos de reproducción comprimidos |
 | Byte Array | Datos de reproducción comprimidos |
 | Long | ID de puntaje en línea |
-| Double | Informacion adicional de mod. Solo presente si [Target Practice](/wiki/Gameplay/Game_modifier/Target_Practice) esta activado. |
+| Double | Información adicional de mod. Solo presente si [Target Practice](/wiki/Gameplay/Game_modifier/Target_Practice) está activado. |
 
-**Informacion adicional de mod:**
+**Información adicional de mod:**
 
 | Mod | Informacion guardada |
 | :-- | :-- |
