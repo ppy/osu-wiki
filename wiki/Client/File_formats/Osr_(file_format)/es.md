@@ -15,15 +15,15 @@ Los archivos **.osr** contienen una osu! replay. Para usarlo, el beatmap especif
 
 ## Formato
 
-**Aviso:** Los desplazamientos de bytes no se incluyen en esta tabla debido a los valores de longitud variable.
+Los desplazamientos de bytes no se incluyen en esta tabla debido a los valores de longitud variable.
 
-| Tipo de dato | Descripcion |
+| Tipo de dato | Descripción |
 | :-- | :-- |
-| Byte | Modo de juego que contiene la repetición (0 = osu!Standard, 1 = osu!Taiko, 2 = osu!Catch, 3 = osu!mania). |
-| Integer | Version del juego de cuando la repetición fue creada (ej. 20131216) |
-| String | Funcion matematica (hash) [MD5](https://es.wikipedia.org/wiki/MD5) del osu! beatmap. |
+| Byte | Modo de juego que contiene la repetición (0 = osu!Standard, 1 = Taiko, 2 = Catch the Beat, 3 = osu!mania). |
+| Integer | Versión del juego de cuando la repetición fue creada (ej. 20131216) |
+| String | HashMD5  del osu! beatmap. |
 | String | Nombre del jugador. |
-| String | MD5 hash de la osu! replay (contiene ciertas propiedades de la repetición). |
+| String | Hash MD5 de la osu! replay (contiene ciertas propiedades de la repetición). |
 | Short | Cantidad de 300s |
 | Short | Cantidad de 100s en standard, 150s en Taiko, 100s en CTB y 100s en mania |
 | Short | Cantidad de 50s en standard, frutas pequeñas en CTB y 50s en mania |
@@ -56,13 +56,13 @@ Cuando se descomprime, el texto contiene datos separados por comas. Cada pieza d
 | w | Long | Tiempo en minisegundos desde la accion anterior. |
 | x | Float | Coordenadas **x** del cursor, de 0 a 512 |
 | y | Float | Coordenadas **y** del cursor, de 0 a 384 |
-| z | Integer | Combinación bit a bit de teclas/botones del mouse presionados (M1 = 1, M2 = 2, K1 = 4, K2 = 8, Smoke = 16) (K1 siempre se usa con M1; K2 siempre se usa con M2: 1+4=5; 2+8=10) |
+| z | Integer | Combinación bit a bit de teclas/botones del ratón presionados (M1 = 1, M2 = 2, K1 = 4, K2 = 8, Smoke = 16) (K1 siempre se usa con M1; K2 siempre se usa con M2: 1+4=5; 2+8=10) |
 
-En las repetición de las versiones `20130319` o posteriores, el [RNG](https://es.wikipedia.org/wiki/Generador_de_n%C3%BAmeros_aleatorios) entero de 32 bits utilizado para la puntuación se codificará en un cuadro de reproducción adicional al final de la transmisión LZMA, bajo el formato `-12345|0|0|seed`.
+En las repeticiones de las versiones `20130319` o posteriores, el [RNG](https://es.wikipedia.org/wiki/Generador_de_n%C3%BAmeros_aleatorios) entero de 32 bits utilizado para la puntuación se codificará en un cuadro de reproducción adicional al final de la transmisión LZMA, bajo el formato `-12345|0|0|seed`.
 
 ## Mods
 
-Asi como se ve en el [osu! API](https://github.com/peppy/osu-api/wiki#mods).
+Así como se ve en el [osu! API](https://github.com/peppy/osu-api/wiki#mods).
 
 | Mod | Valor (BitOffset) | Comentario |
 | :-- | :-- | :-- |
