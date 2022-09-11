@@ -368,11 +368,11 @@ The **osu!mania 4K Indonesia Cup 2019** (***O!MIC 4K 2019***) was a nationwide o
 - Players are allowed to use visual mods such as (HD), Flashlight (FL), Fade In (FI), and Mirror (MR).
 - Players will play 2 maps for a warm-up session that had been selected by the player that rolled the highest.
 - **Qualifiers round**
-- The maximum number of players to enter the next round is 56 players.
-- In the Qualifiers round there will be 4 maps in the mappool that have different skillsets, all of these maps will be selected by the mappool selector.
-- All players will have 2 chances to play in each map, which means a total of 8 songs played.
-- The highest score played for each beatmap will be counted and the Qualifiers score will be accumulated based on the comparison of scores of other players.
-- After the Qualifiers round ends there will be a distribution of players based on seed.
+  - The maximum number of players to enter the next round is 56 players.
+  - In the Qualifiers round there will be 4 maps in the mappool that have different skillsets, all of these maps will be selected by the mappool selector.
+  - All players will have 2 chances to play in each map, which means a total of 8 songs played.
+  - The highest score played for each beatmap will be counted and the Qualifiers score will be accumulated based on the comparison of scores of other players.
+  - After the Qualifiers round ends there will be a distribution of players based on seed.
   - The function of seed is for the distribution of the next round, where players are randomized based on different seed.
   - Seed distribution is based on the player's position in the Qualifiers:
     - 1 - 16: Top Seed
