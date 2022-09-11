@@ -288,11 +288,6 @@ The osu!mania 4K World Cup 2022 is run by the [osu! team](/wiki/People/The_Team)
 
 ### Finals
 
-
-## Match results
-
-### Finals
-
 Saturday, 10 September 2022:
 
 | Team A |  |  | Team B | Match link |
