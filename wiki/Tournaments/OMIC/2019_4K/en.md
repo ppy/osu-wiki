@@ -432,7 +432,9 @@ Saturday, 29 June 2019
     - The amount of matches won by players. If they are the same, then it will be determined from:
     - The difference between the picks won by the player during the match. If they too are the same, then it will be determined from:
     - The highest seed from the Qualifiers.
+
 ### Match Rules (Round of 32 until Grand Final)
+
   - If one of the players is not present, then the player who is present in the match will win by default.
   - Before the game starts, the players will `!roll` first. The players who **wins** in the `!roll` can choose to **ban first**. After both players have determined which maps are banned, the first player will choose the map that is going to be played.
   - If both players got the same score, then **the match will be replayed using the same map**.
