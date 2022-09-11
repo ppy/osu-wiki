@@ -8,8 +8,7 @@ tags:
 
 ![O!MIC 4K 2019 Logo](img/logo.png)
 
-**osu!mania 4K Indonesia Cup 2019** (***O!MIC 4K 2019***) was an osu!mania 4K tournament that was limited to Indonesia with the system for the early matches with *Royal Rumble*, followed by one-to-one with *Double-Elimination bracket* in the Group Distribution Stage.
-
+The **osu!mania 4K Indonesia Cup 2019** (***O!MIC 4K 2019***) was a nationwide osu!mania 4K tournament that was open exclusively to Indonesian players. The tournament adopted a hybrid system in where the early matches were held in a royal rumble format, which was then followed by a 1v1 double elimination bracket starting from the Group Distribution Stage onwards.
 ## Tournament Schedule 
 
 | Event | Timestamp |
@@ -31,13 +30,13 @@ tags:
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "First Place") | IDR350,000, 4 months of osu!supporter tag, Google Play Voucher code of IDR50,000, profile badge |
-| ![Silver Crown](/wiki/shared/crown-silver.png "Second Place") | IDR200,000, 2 months of osu!supporter tag |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "Third Place") | IDR150,000, 1 month of osu!supporter tag |
+| ![Gold Crown](/wiki/shared/crown-gold.png "First Place") | 350,000 IDR, 4 months of osu!supporter tag, 50,000 IDR worth of Google Play Voucher, profile badge |
+| ![Silver Crown](/wiki/shared/crown-silver.png "Second Place") | 200,000 IDR, 2 months of osu!supporter tag |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "Third Place") | 150,000 IDR, 1 month of osu!supporter tag |
 
 ## Tournament Staffs,
 
-| Position | Member |
+| Position | Member(s) |
 | :-- | :-- |
 | Organizer | ::{ flag=ID }:: [LuxAzure](https://osu.ppy.sh/users/6045757) |
 | Documentation | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
@@ -343,27 +342,27 @@ tags:
 - Participants should register on the links that are already provided.
 - Flag on each participant's osu! account must be **Indonesia**.
 - The lowest rank for this tournament is **#5000 Country**.
-- All of the tournament staff are not permitted to participate as a player on this tournament, except for staff that are taking the position of the following:
+- Tournament staffs are not permitted to participate as a player on this tournament, except for staffs that are taking the position of the following:
   - Streamer 
   - Commentator 
   - Designer 
-- Every participant who registers will go through a session of [Tournament Screening](/wiki/Tournaments/Official_support#tournament-screening).
+- Every registering participant will be required to go through a session of [screening](/wiki/Tournaments/Official_support#tournament-screening) held by the Tournament Management.
 
 ### Tournament Rules
 
 - Matches will be held every Saturday and Sunday.
 - The scoring system for this tournament is Score V2.
-- Mappool for each round will be **announced by the staff** every Sunday after the previous round is over.
-- All players should **download all maps** for the mappool before the match starts.
-- If there is no referee during the match time, please inform the **organizer staff**.
+- The corresponding mappools for each round are going to be **announced by the staff** every Sunday after the previous round is over.
+- All players are advised to **have all maps from the mappool ready** before the match starts.
+- If there is no referee during the match time, players are expected to inform the **organizer staff** in due time.
 - Participants are expected to **show up on time** according to the schedule.
 - The staff can only give a delay of **10 minutes**.
-- If a player has a connection problem, the result of which is them disconnecting from the match, then the decision will be **determined by the referee** which is **absolute**.
+- If a player has a connection problem which caused them to be disconnected from the match, then the decision will be **determined by the referee** which is **absolute**.
 - Players must follow the [rules](/wiki/Rules) that has been set by the game.
 
 ### Match Regulations 
 
-- All players who follow and fulfill all the registration requirements of this tournament will enter the Qualifiers round.
+- All players who are deemed eligible for the tournament will enter the Qualifiers round.
 - Each lobby contains a maximum of 8 players in the Qualifiers round.
 - Players are allowed to use visual mods such as (HD), Flashlight (FL), Fade In (FI), and Mirror (MR).
 - Players will play 2 maps for a warm-up session that had been selected by the player that rolled the highest.
@@ -381,7 +380,7 @@ tags:
     - 49 - 56: Low Seed
     - Players who get the Top Seed will immediately enter the Group Distribution Stage, without having to go to the Round of 56 first.
 - **Round of 56**
-  - In this round, there will be 8 groups where each group contains **2 high seed, 2 medium seed, and 1 low seed**.
+  - In this round, there will be 8 groups with **2 high seed, 2 medium seed, and 1 low seed** in each group.
   - The players who will qualify for the next round are the players who are in the top **2 positions** in each group.
   - In the Round of 56 there will be **7 mappools (with 1 Tiebreaker)**.
   - Each player collects points by reaching **positions 1 to 3**.
@@ -411,6 +410,6 @@ tags:
   - Round of 16 - Quarterfinal : Best of 9 (Total of 12 Maps, 1 TieBreak)
   - SemiFinal : Best of 11 (Total of 14 Maps, 1 TieBreak)
   - Final - Grand Final : Best of 13 (Total of16 Maps, 1 TieBreak)
-- Starting from the Bracket Stage, a **double elimination*** system will be applied. This system gives each player 2 opportunities to compete, with the following description:
-  - Player A beats player B. Player A will advance to the next round, and so will player B. But player B will enter the losers bracket (a special bracket for players who have already lost **one time**).
-  - If player B loses again in the losers bracket, then player B will be **eliminated from the tournament**.
+- Starting from the Bracket Stage, a **double elimination*** system will be used, the system works as follows:
+  - Player who loses in the bracket will enter the losers bracket (a special bracket for players who have already lost **one time**).
+  - If the player loses again in the losers bracket, then the player will be **eliminated from the tournament**.
