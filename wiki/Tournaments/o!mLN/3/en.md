@@ -56,14 +56,11 @@ The osu!mania LN Tournament 3 is run by various community members.
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1392589)
-- [CFC Discord server](https://discord.gg/PEz2enJjUr)
-- Livestream
-  - [osufrlive](https://twitch.tv/osufrlive)
-  - [osufrlive2](https://twitch.tv/osufrlive2)
-  - [osufrlive3](https://twitch.tv/osufrlive3)
-- [Challonge brackets](https://challonge.com/35tf5wf)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1LanifzyLFqyF4KPqB9p1Ykk4pHFVEkAGO2QVMYJ8vYc/edit)**
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1633030)
+- [o!mLN Discord server](https://discord.gg/SPQtt3s)
+- [Livestream](https://www.twitch.tv/osumanialive)
+- [Staff registration form](https://forms.gle/AgG6J3MEaREjsUFe6)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/11vi9CALEtaEnyvm-xwwGsudXB7HsaPMAoAXwF5hx0QY/edit?usp=sharing)**
 
 ## Participants
 
