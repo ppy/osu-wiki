@@ -9,6 +9,7 @@ tags:
 ![O!MIC 4K 2019 Logo](img/logo.png)
 
 The **osu!mania 4K Indonesia Cup 2019** (***O!MIC 4K 2019***) was a nationwide osu!mania 4K tournament that was open exclusively to Indonesian players. The tournament adopted a hybrid system in where the early matches were held in a royal rumble format, which was then followed by a 1v1 double elimination bracket starting from the Group Distribution Stage onwards.
+
 ## Tournament Schedule 
 
 | Event | Timestamp |
