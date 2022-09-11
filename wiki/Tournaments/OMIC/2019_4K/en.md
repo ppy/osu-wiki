@@ -193,16 +193,16 @@ The **osu!mania 4K Indonesia Cup 2019** (***O!MIC 4K 2019***) was a nationwide o
 
 ### Grand Final
 
-Sunday, 25 August 2019
+Sunday, 25 August 2019:
 
-| Player 1 | | | | Player 2 | Match link |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **[-\[ChoKy\]-](https://osu.ppy.sh/users/4691146)** ::{ flag=ID }:: | **7** | 1 | ::{ flag=ID }:: [ChocoCoki-](https://osu.ppy.sh/users/3565870) | [#1](https://osu.ppy.sh/community/matches/54171320) |
 | **[Kevin-sama](https://osu.ppy.sh/users/6991664)** ::{ flag=ID }:: | **7** | 1 | ::{ flag=ID }:: [-\[ChoKy\]-](https://osu.ppy.sh/users/4691146) | [#1](https://osu.ppy.sh/community/matches/54345380) |
 
 ### Final
 
-Sunday, 18 August 2019
+Sunday, 18 August 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -211,7 +211,7 @@ Sunday, 18 August 2019
 
 ### Semifinal
 
-Saturday, 3 August 2019
+Saturday, 3 August 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -219,13 +219,13 @@ Saturday, 3 August 2019
 | [\[KonG-69\]](https://osu.ppy.sh/users/8847412) ::{ flag=ID }:: | 3 | **6** | ::{ flag=ID }:: **[Proxae](https://osu.ppy.sh/users/8410575)** | [#1](https://osu.ppy.sh/community/matches/53802393) |
 | **[ChocoCoki-](https://osu.ppy.sh/users/3565870)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: [Slowless](https://osu.ppy.sh/users/10053987) | [#1](https://osu.ppy.sh/community/matches/53805517) |
 
-Sunday, 4 August 2019
+Sunday, 4 August 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | [Heriza-](https://osu.ppy.sh/users/8911771) ::{ flag=ID }:: | 0 | **6** | ::{ flag=ID }:: **[Kevin-sama](https://osu.ppy.sh/users/6991664)** | *win by default* |
 
-Saturday, 10 August 2019
+Saturday, 10 August 2019:
 
 | Player 1  | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -233,7 +233,7 @@ Saturday, 10 August 2019
 | **[-\[ChoKy\]-](https://osu.ppy.sh/users/4691146)** ::{ flag=ID }:: | **6** | 1 | ::{ flag=ID }:: [reyss](https://osu.ppy.sh/users/4557440) | [#1](https://osu.ppy.sh/community/matches/53968412) |
 | **[ChocoCoki-](https://osu.ppy.sh/users/3565870)** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: [Proxae](https://osu.ppy.sh/users/8410575) | [#1](https://osu.ppy.sh/community/matches/53971409) |
 
-Sunday, 11 August 2019
+Sunday, 11 August 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -241,7 +241,7 @@ Sunday, 11 August 2019
 
 ### Quarterfinal
 
-Saturday, 27 July 2019
+Saturday, 27 July 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -249,7 +249,7 @@ Saturday, 27 July 2019
 | **[Kevin-sama](https://osu.ppy.sh/users/6991664)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: [ChocoCoki-](https://osu.ppy.sh/users/3565870) | [#1](https://osu.ppy.sh/community/matches/53633296) |
 | **[reyss](https://osu.ppy.sh/users/4557440)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: [\_claidheamh](https://osu.ppy.sh/users/4686520) | [#1](https://osu.ppy.sh/community/matches/53636930) |
 
-Sunday, 28 July 2019
+Sunday, 28 July 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -261,7 +261,7 @@ Sunday, 28 July 2019
 
 ### Round of 16
 
-Saturday, 20 July 2019
+Saturday, 20 July 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -269,7 +269,7 @@ Saturday, 20 July 2019
 | **[Heriza-](https://osu.ppy.sh/users/8911771)** ::{ flag=ID }:: | **5** | 3 | ::{ flag=ID }:: [Yangga](https://osu.ppy.sh/users/12143152) | [#1](https://osu.ppy.sh/community/matches/53474229) |
 | **[ChocoCoki-](https://osu.ppy.sh/users/3565870)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [2ndlegend](https://osu.ppy.sh/users/7621604) | [#1](https://osu.ppy.sh/community/matches/53475726) |
 
-Sunday, 21 July 2019
+Sunday, 21 July 2019:
 
 | Player 1 | |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -281,7 +281,7 @@ Sunday, 21 July 2019
 
 ### Group Distribution Stage
 
-Saturday, 6 July 2019
+Saturday, 6 July 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -297,7 +297,7 @@ Saturday, 6 July 2019
 | [Its A Name](https://osu.ppy.sh/users/8724363) ::{ flag=ID }:: | 0 | **4** | ::{ flag=ID }:: **[\[-TiaZark-\]](https://osu.ppy.sh/users/14294140)** | [#1](https://osu.ppy.sh/community/matches/53148808) |
 | [Onii\_ue](https://osu.ppy.sh/users/12471868) ::{ flag=ID }:: | 0 | **4** | ::{ flag=ID }:: **[Fyl](https://osu.ppy.sh/users/10069307)** | [#1](https://osu.ppy.sh/community/matches/53143001) |
 
-Sunday, 7 July 2019
+Sunday, 7 July 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -314,7 +314,7 @@ Sunday, 7 July 2019
 | [2ndlegend](https://osu.ppy.sh/users/7621604) ::{ flag=ID }:: | 1 | **4** | ::{ flag=ID }:: **[\_claidheamh](https://osu.ppy.sh/users/4686520)** | [#1](https://osu.ppy.sh/community/matches/53172560) |
 | [Noch Einen](https://osu.ppy.sh/users/12668735) ::{ flag=ID }:: | 3 | **4** | ::{ flag=ID }:: **[Proxae](https://osu.ppy.sh/users/8410575)** | [#1](https://osu.ppy.sh/community/matches/53172596) |
 
-Saturday, 13 July 2019
+Saturday, 13 July 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -334,7 +334,7 @@ Saturday, 13 July 2019
 | [Neptunia-chan](https://osu.ppy.sh/users/11608122) ::{ flag=ID }:: | 0 | **4** | ::{ flag=ID }:: **[ChocoCoki-](https://osu.ppy.sh/users/3565870)** | -win by default- |
 | **[\_claidheamh](https://osu.ppy.sh/users/4686520)** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: [StyxFearNite](https://osu.ppy.sh/users/8390933) | -win by default- |
 
-Sunday, 14 July 2019
+Sunday, 14 July 2019:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -351,17 +351,14 @@ Sunday, 14 July 2019
 
 ### Round of 56
 
-Saturday, 29 June 2019
+Saturday, 29 June 2019:
 
-| Group | Player 1  | Player 2 | Player 3 | Player 4 | Player 5 | Match Link |
+| Group | Players | Match Link |
 | :-: | :-- | :-: |
 | **Group A** | ::{ flag=ID }:: [2ndlegend](https://osu.ppy.sh/users/7621604) (14 Point), ::{ flag=ID }:: [Onii\_ue](https://osu.ppy.sh/users/12471868) (13 Point), ::{ flag=ID }:: [World_Disaster](https://osu.ppy.sh/users/10666064) (5 Point), ::{ flag=ID }:: [XnoxID](https://osu.ppy.sh/users/13605876) (4 Point), ::{ flag=ID }:: [CrashOOF](https://osu.ppy.sh/users/13788391) (0 Point) | [#1](https://osu.ppy.sh/community/matches/52988947) |
 | **Group B** | ::{ flag=ID }:: [Zero\[13\]](https://osu.ppy.sh/users/13942350) (14 Point), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304) (7 Poin, Memenangkan Tiebreaker), ::{ flag=ID }:: [Fazurey](https://osu.ppy.sh/users/6548973) (7 Point), ::{ flag=ID }:: [JintanSama](https://osu.ppy.sh/users/12652371) (4 Point), ::{ flag=ID }:: [BIMZ](https://osu.ppy.sh/users/9037581) (4 Point) | [#1](https://osu.ppy.sh/community/matches/53011613) |
 | **Group C** | ::{ flag=ID }:: [\[KonG-69\]](https://osu.ppy.sh/users/8847412) (14 Point), ::{ flag=ID }:: [rizki20](https://osu.ppy.sh/users/6523286) (12 Point), ::{ flag=ID }:: [-MyLoveIka-](https://osu.ppy.sh/users/12039798) (6 Point), ::{ flag=ID }:: [Vels](https://osu.ppy.sh/users/5319494) (3 Point), ::{ flag=ID }:: [ElinLYPK](https://osu.ppy.sh/users/5198950) (1 Point) | [#1](https://osu.ppy.sh/community/matches/52985075) |
-| **Group D** | ::{ flag=ID }:: [StyxFearNite](https://osu.ppy.sh/users/8390933) (15 Point), ::{ flag=ID }:: [budiex112](https://osu.ppy.sh/users/8867693) (14 Point), ::{ flag=ID }:: [agung0210](https://osu.ppy.sh/users/4663559) (7 Point), ::{ flag=ID }:: [Kawaisou-](https://osu.ppy.sh/users/11248741) (0 Point), ::{ flag=ID }:: [Ihram-San](https://osu.ppy.sh/users/9908055) (0 Point) | [#1](https://osu.ppy.sh/community/matches/52987435) |
-
-| Group | Player 1 | Player 2 | Player 3 | Player 4 | Player 5 | Match link |
-| :-: | :-- | :-: |
+| **Group D** | ::{ flag=ID }:: [StyxFearNite](https://osu.ppy.sh/users/8390933) (15 Point), ::{ flag=ID }:: [budiex112](https://osu.ppy.sh/users/8867693) (14 Point), ::{ flag=ID }:: [agung0210](https://osu.ppy.sh/users/4663559) (7 Point), ::{ flag=ID }:: [Kawaisou-](https://osu.ppy.sh/users/11248741) (0 Point), ::{ flag=ID }:: [Ihram-San](https://osu.ppy.sh/users/9908055) (0 Point) | [#1](https://osu.ppy.sh/community/matches/52987435  |
 | **Group E** | ::{ flag=ID }:: [MATEH ON](https://osu.ppy.sh/users/8136810) (13 Point), ::{ flag=ID }:: [Noch Einen](https://osu.ppy.sh/users/12668735) (13 Point), ::{ flag=ID }:: [Yuusha006](https://osu.ppy.sh/users/11214161) (10 Point), ::{ flag=ID }:: [THEmpire](https://osu.ppy.sh/users/12142847) (0 Point), ::{ flag=ID }:: [PetrikPintar](https://osu.ppy.sh/users/13489565) (0 Point) | [#1](https://osu.ppy.sh/community/matches/53010360) |
 | **Group F** | ::{ flag=ID }:: [Merlinch](https://osu.ppy.sh/users/4901971) (13 Point), ::{ flag=ID }:: [Its A Name](https://osu.ppy.sh/users/8724363) (11 Point), ::{ flag=ID }:: [Kurami](https://osu.ppy.sh/users/10184990) (10 Point), ::{ flag=ID }:: [Felter](https://osu.ppy.sh/users/5865319) (2 Point), ::{ flag=ID }:: [Fathan2Gaming](https://osu.ppy.sh/users/11982790) (0 Point) | [#1](https://osu.ppy.sh/community/matches/53006427) |
 | **Group G** | ::{ flag=ID }:: [alvinrainbow](https://osu.ppy.sh/users/4783042) (15 Point), ::{ flag=ID }:: [anzutto232](https://osu.ppy.sh/users/13408635) (15 Point), ::{ flag=ID }:: [pakyan29](https://osu.ppy.sh/users/7879632) (6 Point), ::{ flag=ID }:: [ilhamsyah849](https://osu.ppy.sh/users/4679215) (0 Point), ::{ flag=ID }:: [\[AST\]Rosary](https://osu.ppy.sh/users/12504843) (0 Point) | [#1](https://osu.ppy.sh/community/matches/53005726) |
@@ -420,10 +417,10 @@ Saturday, 29 June 2019
     - 2nd: 2 point
     - 3rd: 1 point
     - If two players get the same score, competing for the first or second position, then the points will be taken from the top position. For example:
-      - Player A's score: 997.880 (3 point)
-      - **Player B's score: 995.522 (2 point)**
-      - **Player C's score: 995.522 (2 point)**
-      - Player D's score: 994.695 (0 point)
+      - Player A's score: 997.880 (3 points)
+      - **Player B's score: 995.522 (2 points)**
+      - **Player C's score: 995.522 (2 points)**
+      - Player D's score: 994.695 (0 points)
     - The tiebreaker map will be used when players with **the second position and below have the same points** to get the 2nd place.
 - **Conditions to qualify from the Group Distribution Stage to the Bracket Stage**
   - Each group consists of **4 players** and the total number of players in the entire group is **32 players**.
