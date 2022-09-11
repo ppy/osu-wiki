@@ -6,7 +6,7 @@ date: 2022-08-30 12:00:00 +0000
 
 how do i write introductions
 
-As these are the first osu!mania changes in a while, it may be helpful to check the respective wiki pages for [star rating](/wiki/Beatmap/Star_rating) and [performance points](/wiki/Performance_points), where a wealth of information on these topics be found.
+As these are the first osu!mania changes in a while, it may be helpful to check the respective wiki pages for [star rating](/wiki/Beatmap/Star_rating) and [performance points](/wiki/Performance_points), where a wealth of information on these topics can be found.
 
 ## osu!mania changes
 
@@ -26,7 +26,7 @@ An [issue has been fixed](https://github.com/ppy/osu/pull/19120) where star rati
 
 This change makes sure that the difficulty of the entire chord is taken into account, rather than only the last note to be processed by the difficulty calculator.
 
-This change primarily affects maps with heavy usage of chords (especially in higher key modes), for example:
+This primarily affects maps with heavy usage of chords (especially in higher key modes), for example:
 
 - [Cardboard Box - The Limit Does Not Exist [[7K] Infinity]](https://osu.ppy.sh/beatmapsets/379758#mania/831204) 7.45\* --> 7.71\*
 - [Manabu Namiki - Tenshi (True Final Boss) [[4K] MIPHATHER]](https://osu.ppy.sh/beatmapsets/1503789#mania/3080978) 5.36\* --> 5.44\*
