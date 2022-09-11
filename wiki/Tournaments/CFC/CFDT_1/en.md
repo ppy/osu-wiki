@@ -8,7 +8,7 @@ tags:
 
 ![CFDT logo](img/logo.png)
 
-The **Catch French Dual Tournament** (***CFDT***) was a French double-elimination 2v2 osu!catch tournament hosted by ![][flag_FR] [Hecatia15](https://osu.ppy.sh/users/3163012) and ![][flag_FR] [\_yosh](https://osu.ppy.sh/users/7157133). Teams consisted of two players, where the first player was ranked between #100 and #799, and the latter was ranked between #800 and #2,999. It was the first instalment of the Catch French Dual Tournament and part of the Catch French Cup series.
+The **Catch French Dual Tournament** (***CFDT***) was a French double-elimination 2v2 osu!catch tournament hosted by ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012) and ::{ flag=FR }:: [\_yosh](https://osu.ppy.sh/users/7157133). Teams consisted of two players, where the first player was ranked between #100 and #799, and the latter was ranked between #800 and #2,999. It was the first instalment of the Catch French Dual Tournament and part of the Catch French Cup series.
 
 ## Tournament schedule
 
@@ -31,7 +31,7 @@ The **Catch French Dual Tournament** (***CFDT***) was a French double-eliminatio
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter |
 
-Generous donation from ![][flag_FR] [Hecatia15](https://osu.ppy.sh/users/3163012), ![][flag_FR] [MitsukeZ](https://osu.ppy.sh/users/12943161), ![][flag_FR] [JustinBrizou](https://osu.ppy.sh/users/21879889), and ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467) helped fund some of the prizes.
+Generous donation from ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012), ::{ flag=FR }:: [MitsukeZ](https://osu.ppy.sh/users/12943161), ::{ flag=FR }:: [JustinBrizou](https://osu.ppy.sh/users/21879889), and ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467) helped fund some of the prizes.
 
 ## Organisation
 
@@ -39,14 +39,12 @@ The Catch French Dual Tournament was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ::{ flag=FR }:: [h-e-c-a123](https://osu.ppy.sh/users/3163012), ::{ flag=FR }:: [Laffey Gaming](https://osu.ppy.sh/users/5122949) |
-| Mappool selector | ::{ flag=FR }:: [AiNA](https://osu.ppy.sh/users/4426908), ::{ flag=FR }:: [h-e-c-a123](https://osu.ppy.sh/users/3163012) |
-| Custom mapper | ::{ flag=FR }:: [Noctalium](https://osu.ppy.sh/users/6488167), ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |
-| Mappool tester | ::{ flag=FR }:: [Bebar](https://osu.ppy.sh/users/12584928), ::{ flag=FR }:: [Noctalium](https://osu.ppy.sh/users/6488167) |
-| Referee | ::{ flag=FR }:: [bambinex](https://osu.ppy.sh/users/18818124), ::{ flag=BE }:: [Cakenoob](https://osu.ppy.sh/users/6045522), ::{ flag=FR }:: [h-e-c-a123](https://osu.ppy.sh/users/3163012), ::{ flag=FR }:: [Laffey Gaming](https://osu.ppy.sh/users/5122949), ::{ flag=FR }:: [Mimir](https://osu.ppy.sh/users/7382734), ::{ flag=FR }:: [Pizou](https://osu.ppy.sh/users/9475990) |
-| Streamer | ::{ flag=FR }:: [AiNA](https://osu.ppy.sh/users/4426908), ::{ flag=FR }:: [Jielefe](https://osu.ppy.sh/users/15334170), ::{ flag=FR }:: [Noctalium](https://osu.ppy.sh/users/6488167), ::{ flag=FR }:: [Pizou](https://osu.ppy.sh/users/9475990) |
-| Commentator | ::{ flag=FR }:: [AiNA](https://osu.ppy.sh/users/4426908), ::{ flag=FR }:: [bambinex](https://osu.ppy.sh/users/18818124), ::{ flag=FR }:: [h-e-c-a123](https://osu.ppy.sh/users/3163012), ::{ flag=FR }:: [Jielefe](https://osu.ppy.sh/users/15334170), ::{ flag=FR }:: [Kitsuka](https://osu.ppy.sh/users/10334943), ::{ flag=FR }:: [MitsukeZ](https://osu.ppy.sh/users/12943161) |
-| Designer | ::{ flag=FR }:: [Jielefe](https://osu.ppy.sh/users/15334170), ::{ flag=FR }:: [Nin-Amel](https://osu.ppy.sh/users/5210058) |
+| Organiser | ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012), ::{ flag=FR }:: [\_yosh](https://osu.ppy.sh/users/7157133) |
+| Mappool selector | ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012) |
+| Referee | ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012), ::{ flag=FR }:: [JeSuisJLF](https://osu.ppy.sh/users/15334170), ::{ flag=FR }:: [Mimir](https://osu.ppy.sh/users/7382734), ::{ flag=FR }:: [Ryumi](https://osu.ppy.sh/users/6596270), ::{ flag=FR }:: [Taevas](https://osu.ppy.sh/users/7276846), ::{ flag=FR }:: [\_yosh](https://osu.ppy.sh/users/7157133) |
+| Streamer | ::{ flag=FR }:: [JeSuisJLF](https://osu.ppy.sh/users/15334170), ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263), ![][flag_LU] [Melodies](https://osu.ppy.sh/users/7787785), ::{ flag=FR }:: [Un bretzel](https://osu.ppy.sh/users/1542565), ::{ flag=FR }:: [Yostel](https://osu.ppy.sh/users/3594510) |
+| Commentator | ::{ flag=FR }:: [Fulgu](https://osu.ppy.sh/users/4096322), ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012), ::{ flag=FR }:: [JeSuisJLF](https://osu.ppy.sh/users/15334170), ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [MitsukeZ](https://osu.ppy.sh/users/12943161), ::{ flag=FR }:: [Un bretzel](https://osu.ppy.sh/users/1542565), ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467) |
+| Designer | ::{ flag=KR }:: [POCARI SWEAT](https://osu.ppy.sh/users/5082685) |
 | Wiki writer | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
