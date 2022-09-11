@@ -20,9 +20,6 @@ El siguiente contenido está separada en secciones, indicado por títulos de sec
 | `[HitObjects]` | Objetos de golpeo | Listas separadas por comas |
 
 ## General
-
-<!-- TODO: a esto le faltan algunas opciones funcionales que sobran de formatos de archivo muy antiguos -->
-
 | Opción | Tipo de valor | Descripción | Valor por defecto |
 | :-- | :-- | :-- | :-- |
 | `AudioFilename` | String | Localización del audio en la carpeta local |  |
@@ -334,11 +331,6 @@ El tercer objeto es un deslizador:
 - Repetir una vez
 - 310.123 osu! pixels de largo
 - Con un sonido de whistle al principio y un sonido de whistle jugando con set soft al final
-
-<!-- TODO: detalles específicos sobre todos los demás modos de juego (este artículo debe proporcionar todo lo necesario para analizar un archivo .osu)
-
-¡tampoco hay información sobre cómo se convierten a otros modos de juego desde un osu! mapa de ritmos -->
-
 ### osu!taiko
 
 Los objetos de golpeo de osu!taiko solo usan `time` para determinar cómo se colocan en el campo de juego, por lo que `x` e `y` se ignoran. Del mismo modo, la única parte significativa de los deslizadores curvos es `lenght`; `curveType` y `curvePoints` solo son relevantes cuando se abre el mapa en el editor. Se ignoran los colores combinados y los nuevos combos, y se utilizan hitsounds específicos del modo.
