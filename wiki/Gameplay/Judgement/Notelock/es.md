@@ -1,5 +1,5 @@
 ---
-tags: 
+tags:
   - note lock
   - jittering notes
   - shaking notes
