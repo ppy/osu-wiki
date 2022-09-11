@@ -14,7 +14,7 @@ The **osu!mania 4K Indonesia Cup 2022** (***O!MIC 4K 2022***) was a nationwide o
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2022-05-28/2022-06-11 |
+| Registration phase | 2022-05-28/2022-06-11 |
 | Live drawings | 2022-06-11/2022-06-25 |
 | Qualifiers | 2022-07-02/2022-07-03 |
 | Round of 32 | 2022-07-09/2022-07-10 |
@@ -28,17 +28,17 @@ The **osu!mania 4K Indonesia Cup 2022** (***O!MIC 4K 2022***) was a nationwide o
 
 | Placing | Price(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "First place") | 500,000 IDR, *profile banner* |
-| ![Silver Crown](/wiki/shared/crown-silver.png "Second place") | 300,000 IDR, *profile banner* |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "Third place") | 250,000 IDR, *profile banner* |
+| ![Gold Crown](/wiki/shared/crown-gold.png "First place") | 500,000 IDR, profile banner |
+| ![Silver Crown](/wiki/shared/crown-silver.png "Second place") | 300,000 IDR, profile banner |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "Third place") | 250,000 IDR, profile banner |
 
-## Tournament Staffs
+## Organisation
 
 The O!MIC 4K 2022 was run by various osu! community members that are mostly Indonesian.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organizer | ::{ flag=ID }:: [Reyi](https://osu.ppy.sh/users/13385865), ::{ flag=ID }:: [Antipole](https://osu.ppy.sh/users/17258072) |
+| Organiser | ::{ flag=ID }:: [Reyi](https://osu.ppy.sh/users/13385865), ::{ flag=ID }:: [Antipole](https://osu.ppy.sh/users/17258072) |
 | Mappool selector | ::{ flag=ID }:: [Antipole](https://osu.ppy.sh/users/17258072), ::{ flag=ID }:: [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ::{ flag=SG }:: [Eliminate 2](https://osu.ppy.sh/users/12297375), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304), ::{ flag=ID }:: [\[GS\]Rei](https://osu.ppy.sh/users/11964257), ::{ flag=GB }:: [TingMomentum](https://osu.ppy.sh/users/12489832) |
 | Mappool creator | ::{ flag=ID }:: [Ainer](), ::{ flag=ID }:: [Angki](https://osu.ppy.sh/users/9038483), ::{ flag=ID }:: [Antipole](https://osu.ppy.sh/users/17258072), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304), ::{ flag=ID }:: [Reyi](https://osu.ppy.sh/users/13385865), ::{ flag=GB }:: [TingMomentum](https://osu.ppy.sh/users/12489832) |
 | Mappool tester | ::{ flag=PH }:: [4Kenn](https://osu.ppy.sh/users/20496815), ::{ flag=DE }:: [ERA Punish](https://osu.ppy.sh/users/10615367), ::{ flag=ID }:: [Fyl](https://osu.ppy.sh/users/10069307), ::{ flag=IT }:: [- Pixie -](https://osu.ppy.sh/users/13878539), ::{ flag=PH }:: [Silicosis](https://osu.ppy.sh/users/15548876), ::{ flag=NL }:: [Toxic Scent](https://osu.ppy.sh/users/12599154) |
@@ -79,7 +79,7 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver Crown](/wiki/shared/crown-silver.png "Second place") | ::{ flag=ID }:: [RetroEX](https://osu.ppy.sh/users/10540515) |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "Third place") | ::{ flag=ID }:: [Onta\_Bekasi](https://osu.ppy.sh/users/8677684) |
 
-## Mappool
+## Mappools
 
 ### Grand Final
 
@@ -370,26 +370,26 @@ Sunday, 10 July 2022
   - Designer 
 - Every registering participant will be required to go through a session of [screening](/wiki/Tournaments/Official_support#tournament-screening) held by the Tournament Management.
 
-### General Rules
+### General rules
 
 - Matches will be held every Saturday and Sunday.
 - The scoring system for this tournament is Score V2.
 - The corresponding mappools for each round are going to be **announced by the staff** every Sunday after the previous round is over.
 - All players are advised to **have all maps from the mappool ready** before the match starts.
-- If there is no referee during the match time, players are expected to inform the **organizer staff** in due time.
+- If there is no referee during match time, players are expected to inform an **organiser** in due time.
 - Participants are expected to **show up on time** according to the schedule.
 - The staff can only give a delay of **10 minutes**.
 - If a player has a connection problem which caused them to be disconnected from the match, then the decision will be **determined by the referee** which is **absolute**.
 - Players must follow the [rules](/wiki/Rules) that has been set by the game.
 
-### Match Regulation 
+### Match regulation
 
 - All players who are deemed eligible for the tournament will enter the Qualifiers round.
 - Each lobby contains a maximum of 8 players in the Qualifiers round.
 - Players are allowed to use visual mods such as (HD), Flashlight (FL), Fade In (FI), and Mirror (MR).
 - Players will play 2 maps for a warm-up session that had been selected by the player that rolled the highest.
 
-#### Qualifiers Round
+#### Qualifiers
 
 - The maximum number of players to enter the next round is 32 players.
 - In the Qualifiers round there will be 5 maps in the mappool that have different skillsets, all of these maps will be selected by the mappool selector.

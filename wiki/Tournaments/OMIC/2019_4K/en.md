@@ -10,16 +10,16 @@ tags:
 
 The **osu!mania 4K Indonesia Cup 2019** (***O!MIC 4K 2019***) was a nationwide osu!mania 4K tournament that was open exclusively to Indonesian players. The tournament adopted a hybrid system in where the early matches were held in a royal rumble format, which was then followed by a 1v1 double elimination bracket starting from the Group Distribution Stage onwards.
 
-## Tournament Schedule 
+## Tournament schedule 
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2019-05-26/2019-06-09 |
-| Live Drawings | 2019-06-10/2019-06-16 |
-| Qualifiers Round | 2019-06-22/2019-06-23 |
+| Registration phase | 2019-05-26/2019-06-09 |
+| Live drawings | 2019-06-10/2019-06-16 |
+| Qualifiers | 2019-06-22/2019-06-23 |
 | Round of 56 | 2019-06-29/2019-06-30 |
-| Group Distribution - First Week | 2019-07-06/2019-07-07 |
-| Group Distribution - Second Week | 2019-07-13/2019-07-14 |
+| Group Distribution Stage - First Week | 2019-07-06/2019-07-07 |
+| Group Distribution Stage - Second Week | 2019-07-13/2019-07-14 |
 | Round of 16 | 2019-07-20/2019-07-21 |
 | Quarterfinal | 2019-07-27/2019-07-28 |
 | Semifinal - First Week | 2019-08-03/2019-08-04 |
@@ -31,15 +31,15 @@ The **osu!mania 4K Indonesia Cup 2019** (***O!MIC 4K 2019***) was a nationwide o
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "First Place") | 350,000 IDR, 4 months of osu!supporter tag, 50,000 IDR worth of Google Play Voucher, profile badge |
-| ![Silver Crown](/wiki/shared/crown-silver.png "Second Place") | 200,000 IDR, 2 months of osu!supporter tag |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "Third Place") | 150,000 IDR, 1 month of osu!supporter tag |
+| ![Gold Crown](/wiki/shared/crown-gold.png "First Place") | 350,000 IDR, 4 months of osu!supporter, 50,000 IDR worth of Google Play Voucher, profile badge |
+| ![Silver Crown](/wiki/shared/crown-silver.png "Second Place") | 200,000 IDR, 2 months of osu!supporter |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "Third Place") | 150,000 IDR, 1 month of osu!supporter |
 
-## Tournament Staffs,
+## Organisation
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organizer | ::{ flag=ID }:: [LuxAzure](https://osu.ppy.sh/users/6045757) |
+| Organiser | ::{ flag=ID }:: [LuxAzure](https://osu.ppy.sh/users/6045757) |
 | Documentation | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
 | Mappool selector | ::{ flag=ID }:: [-Rem-](https://osu.ppy.sh/users/5767941), ::{ flag=ID }:: [[Crz]Crysarlene](https://osu.ppy.sh/users/5492871), ::{ flag=ID }:: [LuxAzure](https://osu.ppy.sh/users/6045757) |
 | Streamer | ::{ flag=ID }:: [Ulat Bulu](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Victim_Crasher](https://osu.ppy.sh/users/2084869) |
@@ -65,9 +65,9 @@ The **osu!mania 4K Indonesia Cup 2019** (***O!MIC 4K 2019***) was a nationwide o
 | Mid | ::{ flag=ID }:: [World_Disaster](https://osu.ppy.sh/users/10666064), ::{ flag=ID }:: [Fazurey](https://osu.ppy.sh/users/6548973), ::{ flag=ID }:: [rizki20](https://osu.ppy.sh/users/6523286), ::{ flag=ID }:: [StyxFearNite](https://osu.ppy.sh/users/8390933), ::{ flag=ID }:: [Yuusha006](https://osu.ppy.sh/users/11214161), ::{ flag=ID }:: [Its A Name](https://osu.ppy.sh/users/8724363), ::{ flag=ID }:: [ilhamsyah849](https://osu.ppy.sh/users/4679215), ::{ flag=ID }:: [Hilmi Ghazian](https://osu.ppy.sh/users/3200342), ::{ flag=ID }:: [CrashOOF](https://osu.ppy.sh/users/13788391), ::{ flag=ID }:: [BIMZ](https://osu.ppy.sh/users/9037581), ::{ flag=ID }:: [Vels](https://osu.ppy.sh/users/5319494), ::{ flag=ID }:: [Ihram-San](https://osu.ppy.sh/users/9908055), ::{ flag=ID }:: [THEmpire](https://osu.ppy.sh/users/12142847), ::{ flag=ID }:: [Kurami](https://osu.ppy.sh/users/10184990), ::{ flag=ID }:: [\[AST\]Rosary](https://osu.ppy.sh/users/12504843), ::{ flag=ID }:: [ReZ\_TB](https://osu.ppy.sh/users/9113955) |
 | Low | ::{ flag=ID }:: [XnoxID](https://osu.ppy.sh/users/13605876), ::{ flag=ID }:: [JintanSama](https://osu.ppy.sh/users/12652371), ::{ flag=ID }:: [ElinLYPK](https://osu.ppy.sh/users/5198950), ::{ flag=ID }:: [agung0210](https://osu.ppy.sh/users/4663559), ::{ flag=ID }:: [PetrikPintar](https://osu.ppy.sh/users/13489565), ::{ flag=ID }:: [Fathan2Gaming](https://osu.ppy.sh/users/11982790), ::{ flag=ID }:: [pakyan29](https://osu.ppy.sh/users/7879632), ::{ flag=ID }:: [RizSama](https://osu.ppy.sh/users/9281315) |
 
-### Group Distribution 
+### Group Distribution Stage
 
-| Group | Top Seed | High Seed | Mid Seed | Low Seed |
+| Group | Top seed | High seed | Mid seed | Low seed |
 | :-: | :-- | :-- | :-- | :-- |
 | **A** | ::{ flag=ID }:: [Artem1s](https://osu.ppy.sh/users/12561379) | ::{ flag=ID }:: [Sadatsuka-Chan](https://osu.ppy.sh/users/9670957) | ::{ flag=ID }:: [Zero\[13\]](https://osu.ppy.sh/users/13942350) | ::{ flag=ID }:: [alvinrainbow](https://osu.ppy.sh/users/4783042) |
 | **B** | ::{ flag=ID }:: [Yamada Kitaro](https://osu.ppy.sh/users/7670805) | ::{ flag=ID }:: [\[ID\]Catalyst-](https://osu.ppy.sh/users/8810018) | ::{ flag=ID }:: [\[KonG-69\]](https://osu.ppy.sh/users/8847412) | ::{ flag=ID }:: [rizki20](https://osu.ppy.sh/users/6523286) |
@@ -78,7 +78,7 @@ The **osu!mania 4K Indonesia Cup 2019** (***O!MIC 4K 2019***) was a nationwide o
 | **G** | ::{ flag=ID }:: [ChocoCoki-](https://osu.ppy.sh/users/3565870) | ::{ flag=ID }:: [Neptunia-chan](https://osu.ppy.sh/users/11608122) | ::{ flag=ID }:: [anzutto232](https://osu.ppy.sh/users/13408635) | ::{ flag=ID }:: [Merlinch](https://osu.ppy.sh/users/4901971) |
 | **H** | ::{ flag=ID }:: [kebannedanjg](https://osu.ppy.sh/users/12971540) | ::{ flag=ID }:: [\_claidheamh](https://osu.ppy.sh/users/4686520) | ::{ flag=ID }:: [2ndlegend](https://osu.ppy.sh/users/7621604) | ::{ flag=ID }:: [StyxFearNite](https://osu.ppy.sh/users/8390933) |
 
-## Mappool
+## Mappools
 
 ### Final / Grand Final
 
@@ -154,7 +154,7 @@ The **osu!mania 4K Indonesia Cup 2019** (***O!MIC 4K 2019***) was a nationwide o
 - Tiebreaker
   1. **[Camellia - Furry Cannon (LuxAzure) \[CURIOSSITY'S PRIMAL SVVAGERY (buffed edition)\]](https://osu.ppy.sh/beatmapsets/1003476#mania/2100177)**
 
-### Group Distribution 
+### Group Distribution Stage
 
 - FreeMod
   1. [The Flashbulb - Every Two Days (Civilization) \[2\]](https://osu.ppy.sh/beatmapsets/905599#mania/1890121)
@@ -189,7 +189,7 @@ The **osu!mania 4K Indonesia Cup 2019** (***O!MIC 4K 2019***) was a nationwide o
   3. [SHK - Identity Part 4 (LuxAzure) \[Stage 3: Existence\]](https://osu.ppy.sh/beatmapsets/988442#mania/2067686)
   4. [Venetian Snares - My So-Called Life (\[Crz\]Crysarlene) \[Stage 4: Desolation\]](https://osu.ppy.sh/beatmapsets/988435#mania/2067665)
 
-## Match Results
+## Match results
 
 ### Grand Final
 
@@ -215,7 +215,7 @@ The **osu!mania 4K Indonesia Cup 2019** (***O!MIC 4K 2019***) was a nationwide o
 
 | Sunday, 4 August 2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| [Heriza-](https://osu.ppy.sh/users/8911771) ::{ flag=ID }:: | 0 | **6** | ::{ flag=ID }:: **[Kevin-sama](https://osu.ppy.sh/users/6991664)** | -win by default- |
+| [Heriza-](https://osu.ppy.sh/users/8911771) ::{ flag=ID }:: | 0 | **6** | ::{ flag=ID }:: **[Kevin-sama](https://osu.ppy.sh/users/6991664)** | *win by default* |
 
 | Saturday, 10 August 2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
@@ -259,7 +259,7 @@ The **osu!mania 4K Indonesia Cup 2019** (***O!MIC 4K 2019***) was a nationwide o
 | [Slowless](https://osu.ppy.sh/users/10053987) ::{ flag=ID }:: | 1 | **5** | ::{ flag=ID }:: **[-\[ChoKy\]-](https://osu.ppy.sh/users/4691146)** | [#1](https://osu.ppy.sh/community/matches/53497372) |
 | [Proxae](https://osu.ppy.sh/users/8410575) ::{ flag=ID }:: | 0 | **5** | ::{ flag=ID }:: **[reyss](https://osu.ppy.sh/users/4557440)** | [#1](https://osu.ppy.sh/community/matches/53499829) |
 
-### Group Distribution 
+### Group Distribution Stage
 
 | Saturday, 6 July 2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
@@ -337,80 +337,81 @@ The **osu!mania 4K Indonesia Cup 2019** (***O!MIC 4K 2019***) was a nationwide o
 | **Grup G** | ::{ flag=ID }:: [alvinrainbow](https://osu.ppy.sh/users/4783042) (15 Point), ::{ flag=ID }:: [anzutto232](https://osu.ppy.sh/users/13408635) (15 Point), ::{ flag=ID }:: [pakyan29](https://osu.ppy.sh/users/7879632) (6 Point), ::{ flag=ID }:: [ilhamsyah849](https://osu.ppy.sh/users/4679215) (0 Point), ::{ flag=ID }:: [\[AST\]Rosary](https://osu.ppy.sh/users/12504843) (0 Point) | [#1](https://osu.ppy.sh/community/matches/53005726) |
 | **Grup H** | ::{ flag=ID }:: [\[-TiaZark-\]](https://osu.ppy.sh/users/14294140) (13 Point), ::{ flag=ID }:: [Dil-](https://osu.ppy.sh/users/3796282) (11 Point), ::{ flag=ID }:: [ReZ\_TB](https://osu.ppy.sh/users/9113955) (6 Point), ::{ flag=ID }:: [Hilmi Ghazian](https://osu.ppy.sh/users/3200342) (6 Point), ::{ flag=ID }:: [RizSama](https://osu.ppy.sh/users/9281315) (0 Point) | [#1](https://osu.ppy.sh/community/matches/53009213) |
 
-## General Rules
+## General rules
 
 - There is no limit to the amount of participants.
-- Participants should register on the links that are already provided.
+- Participants should register through the links provided in the forum thread.
 - Flag on each participant's osu! account must be **Indonesia**.
-- The lowest rank for this tournament is **#5000 Country**.
-- Tournament staffs are not permitted to participate as a player on this tournament, except for staffs that are taking the position of the following:
+- The lowest rank for this tournament is **#5000 country rank**.
+- Tournament staff members are not permitted to participate as players in this tournament, except for the following positions:
   - Streamer 
   - Commentator 
   - Designer 
-- Every registering participant will be required to go through a session of [screening](/wiki/Tournaments/Official_support#tournament-screening) held by the Tournament Management.
+- Every registering participant will be required to go through [tournament screening](/wiki/Tournaments/Official_support#tournament-screening).
 
-### Tournament Rules
+### Tournament rules
 
 - Matches will be held every Saturday and Sunday.
 - The scoring system for this tournament is Score V2.
-- The corresponding mappools for each round are going to be **announced by the staff** every Sunday after the previous round is over.
+- The corresponding mappools for each round will be **announced by staff** every Sunday after the previous round is over.
 - All players are advised to **have all maps from the mappool ready** before the match starts.
-- If there is no referee during the match time, players are expected to inform the **organizer staff** in due time.
+- If there is no referee during match time, players are expected to inform an **organiser** in due time.
 - Participants are expected to **show up on time** according to the schedule.
 - The staff can only give a delay of **10 minutes**.
 - If a player has a connection problem which caused them to be disconnected from the match, then the decision will be **determined by the referee** which is **absolute**.
-- Players must follow the [rules](/wiki/Rules) that has been set by the game.
+- Players must follow the osu! [rules](/wiki/Rules).
 
-### Match Regulations 
+### Match regulations 
 
-- All players who are deemed eligible for the tournament will enter the Qualifiers round.
-- Each lobby contains a maximum of 8 players in the Qualifiers round.
+- All players who are deemed eligible for the tournament will enter Qualifiers.
+- Each lobby contains a maximum of 8 players in the Qualifiers.
 - Players are allowed to use visual mods such as (HD), Flashlight (FL), Fade In (FI), and Mirror (MR).
-- Players will play 2 maps for a warm-up session that had been selected by the player that rolled the highest.
+- Players will play 2 warm-up maps selected by the player that rolled the highest.
 - **Qualifiers round**
-  - The maximum number of players to enter the next round is 56 players.
-  - In the Qualifiers round there will be 4 maps in the mappool that have different skillsets, all of these maps will be selected by the mappool selector.
-  - All players will have 2 chances to play in each map, which means a total of 8 songs played.
-  - The highest score played for each beatmap will be counted and the Qualifiers score will be accumulated based on the comparison of scores of other players.
-  - After the Qualifiers round ends there will be a distribution of players based on seed.
+  - A maximum of 56 players will enter the next stage.
+  - In the Qualifiers there will be 4 maps in the mappool with different skillsets.
+  - Each map will be played twice.
+  - The highest score for each beatmap will be counted and the Qualifiers score will be accumulated based on the comparison of scores to other players.
+  - After the Qualifiers end there will be a distribution of players based on seed.
   - The function of seed is for the distribution of the next round, where players are randomized based on different seed.
   - Seed distribution is based on the player's position in the Qualifiers:
-    - 1 - 16: Top Seed
-    - 17 - 32: High Seed
-    - 33 - 48: Medium Seed
-    - 49 - 56: Low Seed
-    - Players who get the Top Seed will immediately enter the Group Distribution Stage, without having to go to the Round of 56 first.
+    - 1–16: Top seed
+    - 17–32: High seed
+    - 33–48: Medium seed
+    - 49–56: Low seed
+    - Players who get the top seed will immediately enter the Group Distribution Stage, without having to go through the Round of 56 first.
 - **Round of 56**
-  - In this round, there will be 8 groups with **2 high seed, 2 medium seed, and 1 low seed** in each group.
+  - In this round, there will be 8 groups with **2 high-seed, 2 medium-seed, and 1 low-seed player** in each group.
   - The players who will qualify for the next round are the players who are in the top **2 positions** in each group.
-  - In the Round of 56 there will be **7 mappools (with 1 Tiebreaker)**.
+  - In the Round of 56 mappool will have **7 maps (including 1 tiebreaker)**.
   - Each player collects points by reaching **positions 1 to 3**.
   - The scoring system is as follows:
-    - 1st: 3 Point
-    - 2nd: 2 Point
-    - 3rd: 1 Point
-    - If both players get the same score in the 1-2 position, then the points will be taken from the top position. For example :
-      - Player A's score: 997.880 (3 Poin)
-      - **Player B's score: 995.522 (2 Point)**
-      - **Player C's score: 995.522 (2 Point)**
-      - Player D's score: 994.695 (0 Point)
-    - The Tiebreaker map will be used when players with **the second position and below have the same points** to get the 2nd place.
-- **Conditions to qualify from Group Distribution to Bracket Stage**
+    - 1st: 3 point
+    - 2nd: 2 point
+    - 3rd: 1 point
+    - If two players get the same score, competing for the first or second position, then the points will be taken from the top position. For example:
+      - Player A's score: 997.880 (3 point)
+      - **Player B's score: 995.522 (2 point)**
+      - **Player C's score: 995.522 (2 point)**
+      - Player D's score: 994.695 (0 point)
+    - The tiebreaker map will be used when players with **the second position and below have the same points** to get the 2nd place.
+- **Conditions to qualify from the Group Distribution Stage to the Bracket Stage**
   - Each group consists of **4 players** and the total number of players in the entire group is **32 players**.
-  - The winning condition for the Group Distribution Stage is being the first player to win **4 points in a match**.
+  - The win condition for the Group Distribution Stage is being the first player to win **4 points in a match (best-of-7)**.
   - There will be 2 out of 4 players who qualify for the next round. The final standings per group are determined from:
-    - The amount of matches won by players. If it's the same, then it will be determined from:
-    - The difference between the picks won by the player during the match. If it's still the same, then it will be determined from  **the highest Seed during Qualifiers**.
+    - The amount of matches won by players. If they are the same, then it will be determined from:
+    - The difference between the picks won by the player during the match. If they too are the same, then it will be determined from:
+    - The highest seed from the Qualifiers.
 - **Match Rules (Round of 32 until Grand Final)**
-  - If one of the players is not present, then the player who is present in the match will be declared **winner (*win by default*)**.
-  - Before the game starts, players will roll first. Players who win in the roll can choose **to ban** first and followed by the player who lost the roll. After both players have determined the map that is banned, the player will choose the map that is going to be played.
+  - If one of the players is not present, then the player who is present in the match will win by default.
+  - Before the game starts, the players will `!roll` first. The players who **wins** in the `!roll` can choose to **ban first**. After both players have determined which maps are banned, the first player will choose the map that is going to be played.
   - If both players got the same score, then **the match will be replayed using the same map**.
-  - The Tiebreaker map is played when both players have the same amount of points and 1 more point is required to **win the match** by either player.
+  - The tiebreaker map is played when both players have the same amount of points and 1 more point is required to **win the match** by either player.
 - **Mappools format from Group Distribution stage**
-  - Group Distribution : Best of 7 (Total of 10 Maps, 1 TieBreak)
-  - Round of 16 - Quarterfinal : Best of 9 (Total of 12 Maps, 1 TieBreak)
-  - SemiFinal : Best of 11 (Total of 14 Maps, 1 TieBreak)
-  - Final - Grand Final : Best of 13 (Total of16 Maps, 1 TieBreak)
-- Starting from the Bracket Stage, a **double elimination*** system will be used, the system works as follows:
-  - Player who loses in the bracket will enter the losers bracket (a special bracket for players who have already lost **one time**).
-  - If the player loses again in the losers bracket, then the player will be **eliminated from the tournament**.
+  - Group Distribution Stage: Best of 7 (10 Maps, including 1 tiebreak)
+  - Round of 16 – Quarterfinal: Best of 9 (12 maps, including 1 tiebreaker)
+  - Semifinal: Best of 11 (14 maps, including 1 tiebreaker)
+  - Final - Grand Final: Best of 13 (16 maps, including 1 tiebreaker)
+- Starting from the Bracket Stage, a **double-elimination*** format will be used, which works as follows:
+  - A player who loses in the winners' bracket will enter the losers' bracket (a special bracket for players who have already lost **one time**).
+  - If the player loses again in the losers' bracket, then the player will be **eliminated from the tournament**.
