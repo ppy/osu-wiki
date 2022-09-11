@@ -193,49 +193,65 @@ The **osu!mania 4K Indonesia Cup 2019** (***O!MIC 4K 2019***) was a nationwide o
 
 ### Grand Final
 
-| Sunday, 25 August 2019 |  |  |  |  |
+Sunday, 25 August 2019
+
+| Player 1 | | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **[-\[ChoKy\]-](https://osu.ppy.sh/users/4691146)** ::{ flag=ID }:: | **7** | 1 | ::{ flag=ID }:: [ChocoCoki-](https://osu.ppy.sh/users/3565870) | [#1](https://osu.ppy.sh/community/matches/54171320) |
 | **[Kevin-sama](https://osu.ppy.sh/users/6991664)** ::{ flag=ID }:: | **7** | 1 | ::{ flag=ID }:: [-\[ChoKy\]-](https://osu.ppy.sh/users/4691146) | [#1](https://osu.ppy.sh/community/matches/54345380) |
 
 ### Final
 
-| Sunday, 18 August 2019 |  |  |  |  |
+Sunday, 18 August 2019
+
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **[Kevin-sama](https://osu.ppy.sh/users/6991664)** ::{ flag=ID }:: | **7** | 2 | ::{ flag=ID }:: [-\[ChoKy\]-](https://osu.ppy.sh/users/4691146) | [#1](https://osu.ppy.sh/community/matches/54166162) |
 | [\_claidheamh](https://osu.ppy.sh/users/4686520) ::{ flag=ID }:: | 5 | **7** | ::{ flag=ID }:: **[ChocoCoki-](https://osu.ppy.sh/users/3565870)** | [#1](https://osu.ppy.sh/community/matches/54171320) |
 
 ### Semifinal
 
-| Saturday, 3 August 2019 |  |  |  |  |
+Saturday, 3 August 2019
+
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **[\_claidheamh](https://osu.ppy.sh/users/4686520)** ::{ flag=ID }:: | **6** | 5 | ::{ flag=ID }:: [Yangga](https://osu.ppy.sh/users/12143152) | [#1](https://osu.ppy.sh/community/matches/53799475) |
 | [\[KonG-69\]](https://osu.ppy.sh/users/8847412) ::{ flag=ID }:: | 3 | **6** | ::{ flag=ID }:: **[Proxae](https://osu.ppy.sh/users/8410575)** | [#1](https://osu.ppy.sh/community/matches/53802393) |
 | **[ChocoCoki-](https://osu.ppy.sh/users/3565870)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: [Slowless](https://osu.ppy.sh/users/10053987) | [#1](https://osu.ppy.sh/community/matches/53805517) |
 
-| Sunday, 4 August 2019 |  |  |  |  |
+Sunday, 4 August 2019
+
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | [Heriza-](https://osu.ppy.sh/users/8911771) ::{ flag=ID }:: | 0 | **6** | ::{ flag=ID }:: **[Kevin-sama](https://osu.ppy.sh/users/6991664)** | *win by default* |
 
-| Saturday, 10 August 2019 |  |  |  |  |
+Saturday, 10 August 2019
+
+| Player 1  | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | [Yamada Kitaro](https://osu.ppy.sh/users/7670805) ::{ flag=ID }:: | 5 | **6** | ::{ flag=ID }:: **[Fyl](https://osu.ppy.sh/users/10069307)** | [#1](https://osu.ppy.sh/community/matches/53967434) |
 | **[-\[ChoKy\]-](https://osu.ppy.sh/users/4691146)** ::{ flag=ID }:: | **6** | 1 | ::{ flag=ID }:: [reyss](https://osu.ppy.sh/users/4557440) | [#1](https://osu.ppy.sh/community/matches/53968412) |
 | **[ChocoCoki-](https://osu.ppy.sh/users/3565870)** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: [Proxae](https://osu.ppy.sh/users/8410575) | [#1](https://osu.ppy.sh/community/matches/53971409) |
 
-| Sund6, 11 August 2019 |  |  |  |  |
+Sunday, 11 August 2019
+
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **[\_claidheamh](https://osu.ppy.sh/users/4686520)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: [Fyl](https://osu.ppy.sh/users/10069307) | -win by default- |
 
 ### Quarterfinal
 
-| Saturday, 27 July 2019 |  |  |  |  |
+Saturday, 27 July 2019
+
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | [\[KonG-69\]](https://osu.ppy.sh/users/8847412) ::{ flag=ID }:: | 1 | **5** | ::{ flag=ID }:: **[Heriza-](https://osu.ppy.sh/users/8911771)** | [#1](https://osu.ppy.sh/community/matches/53632020) |
 | **[Kevin-sama](https://osu.ppy.sh/users/6991664)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: [ChocoCoki-](https://osu.ppy.sh/users/3565870) | [#1](https://osu.ppy.sh/community/matches/53633296) |
 | **[reyss](https://osu.ppy.sh/users/4557440)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: [\_claidheamh](https://osu.ppy.sh/users/4686520) | [#1](https://osu.ppy.sh/community/matches/53636930) |
 
-| Sunday, 28 July 2019 |  |  |  |  |
+Sunday, 28 July 2019
+
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | [alvinrainbow](https://osu.ppy.sh/users/4783042) ::{ flag=ID }:: | 0 | **5** | ::{ flag=ID }:: **[Yangga](https://osu.ppy.sh/users/12143152)** | [#1](https://osu.ppy.sh/community/matches/53655829) |
 | **[Proxae](https://osu.ppy.sh/users/8410575)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [Merlinch](https://osu.ppy.sh/users/4901971) | -win by default- |
@@ -245,13 +261,17 @@ The **osu!mania 4K Indonesia Cup 2019** (***O!MIC 4K 2019***) was a nationwide o
 
 ### Round of 16
 
-| Saturday, 20 July 2019 |  |  |  |  |
+Saturday, 20 July 2019
+
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **[Kevin-sama](https://osu.ppy.sh/users/6991664)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: [Fyl](https://osu.ppy.sh/users/10069307) | [#1](https://osu.ppy.sh/community/matches/53470726) |
 | **[Heriza-](https://osu.ppy.sh/users/8911771)** ::{ flag=ID }:: | **5** | 3 | ::{ flag=ID }:: [Yangga](https://osu.ppy.sh/users/12143152) | [#1](https://osu.ppy.sh/community/matches/53474229) |
 | **[ChocoCoki-](https://osu.ppy.sh/users/3565870)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [2ndlegend](https://osu.ppy.sh/users/7621604) | [#1](https://osu.ppy.sh/community/matches/53475726) |
 
-| Sunday, 21 July 2019 |  |  |  |  |
+Sunday, 21 July 2019
+
+| Player 1 | |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | [Merlinch](https://osu.ppy.sh/users/4901971) ::{ flag=ID }:: | 1 | **5** | ::{ flag=ID }:: **[\_claidheamh](https://osu.ppy.sh/users/4686520)** | [#1](https://osu.ppy.sh/community/matches/53491947) |
 | **[\[KonG-69\]](https://osu.ppy.sh/users/8847412)** ::{ flag=ID }:: | **5** | 2 | ::{ flag=ID }:: [alvinrainbow](https://osu.ppy.sh/users/4783042) | [#1](https://osu.ppy.sh/community/matches/53493068) |
@@ -261,7 +281,9 @@ The **osu!mania 4K Indonesia Cup 2019** (***O!MIC 4K 2019***) was a nationwide o
 
 ### Group Distribution Stage
 
-| Saturday, 6 July 2019 |  |  |  |  |
+Saturday, 6 July 2019
+
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | [Artem1s](https://osu.ppy.sh/users/12561379) ::{ flag=ID }:: | 0 | **4** | ::{ flag=ID }:: **[alvinrainbow](https://osu.ppy.sh/users/4783042)** | -win by default- |
 | **[\[KonG-69\]](https://osu.ppy.sh/users/8847412)** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: [\[ID\]Catalyst-](https://osu.ppy.sh/users/8810018) | -win by default- |
@@ -275,7 +297,9 @@ The **osu!mania 4K Indonesia Cup 2019** (***O!MIC 4K 2019***) was a nationwide o
 | [Its A Name](https://osu.ppy.sh/users/8724363) ::{ flag=ID }:: | 0 | **4** | ::{ flag=ID }:: **[\[-TiaZark-\]](https://osu.ppy.sh/users/14294140)** | [#1](https://osu.ppy.sh/community/matches/53148808) |
 | [Onii\_ue](https://osu.ppy.sh/users/12471868) ::{ flag=ID }:: | 0 | **4** | ::{ flag=ID }:: **[Fyl](https://osu.ppy.sh/users/10069307)** | [#1](https://osu.ppy.sh/community/matches/53143001) |
 
-| Sunday, 7 July 2019 |  |  |  |  |
+Sunday, 7 July 2019
+
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **[reyss](https://osu.ppy.sh/users/4557440)** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304) | [#1](https://osu.ppy.sh/community/matches/53164790) |
 | **[alvinrainbow](https://osu.ppy.sh/users/4783042)** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: [Zero\[13\]](https://osu.ppy.sh/users/13942350) | -win by default- |
@@ -290,7 +314,9 @@ The **osu!mania 4K Indonesia Cup 2019** (***O!MIC 4K 2019***) was a nationwide o
 | [2ndlegend](https://osu.ppy.sh/users/7621604) ::{ flag=ID }:: | 1 | **4** | ::{ flag=ID }:: **[\_claidheamh](https://osu.ppy.sh/users/4686520)** | [#1](https://osu.ppy.sh/community/matches/53172560) |
 | [Noch Einen](https://osu.ppy.sh/users/12668735) ::{ flag=ID }:: | 3 | **4** | ::{ flag=ID }:: **[Proxae](https://osu.ppy.sh/users/8410575)** | [#1](https://osu.ppy.sh/community/matches/53172596) |
 
-| Saturday, 13 July 2019 |  |  |  |  |
+Saturday, 13 July 2019
+
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | [Fyl](https://osu.ppy.sh/users/10069307) ::{ flag=ID }:: | 0 | **4** | ::{ flag=ID }:: **[reyss](https://osu.ppy.sh/users/4557440)** | [#1](https://osu.ppy.sh/community/matches/53303113) |
 | **[\_claidheamh](https://osu.ppy.sh/users/4686520)** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: [kebannedanjg](https://osu.ppy.sh/users/12971540) | [#1](https://osu.ppy.sh/community/matches/53302756) |
@@ -308,7 +334,9 @@ The **osu!mania 4K Indonesia Cup 2019** (***O!MIC 4K 2019***) was a nationwide o
 | [Neptunia-chan](https://osu.ppy.sh/users/11608122) ::{ flag=ID }:: | 0 | **4** | ::{ flag=ID }:: **[ChocoCoki-](https://osu.ppy.sh/users/3565870)** | -win by default- |
 | **[\_claidheamh](https://osu.ppy.sh/users/4686520)** ::{ flag=ID }:: | **4** | 0 | ::{ flag=ID }:: [StyxFearNite](https://osu.ppy.sh/users/8390933) | -win by default- |
 
-| Sunday, 14 July 2019 |  |  |  |  |
+Sunday, 14 July 2019
+
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | [Sadatsuka-Chan](https://osu.ppy.sh/users/9670957) ::{ flag=ID }:: | 0 | **4** | ::{ flag=ID }:: **[alvinrainbow](https://osu.ppy.sh/users/4783042)** | -win by default- |
 | [Sadatsuka-Chan](https://osu.ppy.sh/users/9670957) ::{ flag=ID }:: | 0 | **4** | ::{ flag=ID }:: **[Artem1s](https://osu.ppy.sh/users/12561379)** | -win by default- |
@@ -323,19 +351,21 @@ The **osu!mania 4K Indonesia Cup 2019** (***O!MIC 4K 2019***) was a nationwide o
 
 ### Round of 56
 
-| Saturday, 29 June 2019 |  |  |
-| :-: | :-- | :-: |
-| **Grup A** | ::{ flag=ID }:: [2ndlegend](https://osu.ppy.sh/users/7621604) (14 Point), ::{ flag=ID }:: [Onii\_ue](https://osu.ppy.sh/users/12471868) (13 Point), ::{ flag=ID }:: [World_Disaster](https://osu.ppy.sh/users/10666064) (5 Point), ::{ flag=ID }:: [XnoxID](https://osu.ppy.sh/users/13605876) (4 Point), ::{ flag=ID }:: [CrashOOF](https://osu.ppy.sh/users/13788391) (0 Point) | [#1](https://osu.ppy.sh/community/matches/52988947) |
-| **Grup B** | ::{ flag=ID }:: [Zero\[13\]](https://osu.ppy.sh/users/13942350) (14 Point), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304) (7 Poin, Memenangkan Tiebreaker), ::{ flag=ID }:: [Fazurey](https://osu.ppy.sh/users/6548973) (7 Point), ::{ flag=ID }:: [JintanSama](https://osu.ppy.sh/users/12652371) (4 Point), ::{ flag=ID }:: [BIMZ](https://osu.ppy.sh/users/9037581) (4 Point) | [#1](https://osu.ppy.sh/community/matches/53011613) |
-| **Grup C** | ::{ flag=ID }:: [\[KonG-69\]](https://osu.ppy.sh/users/8847412) (14 Point), ::{ flag=ID }:: [rizki20](https://osu.ppy.sh/users/6523286) (12 Point), ::{ flag=ID }:: [-MyLoveIka-](https://osu.ppy.sh/users/12039798) (6 Point), ::{ flag=ID }:: [Vels](https://osu.ppy.sh/users/5319494) (3 Point), ::{ flag=ID }:: [ElinLYPK](https://osu.ppy.sh/users/5198950) (1 Point) | [#1](https://osu.ppy.sh/community/matches/52985075) |
-| **Grup D** | ::{ flag=ID }:: [StyxFearNite](https://osu.ppy.sh/users/8390933) (15 Point), ::{ flag=ID }:: [budiex112](https://osu.ppy.sh/users/8867693) (14 Point), ::{ flag=ID }:: [agung0210](https://osu.ppy.sh/users/4663559) (7 Point), ::{ flag=ID }:: [Kawaisou-](https://osu.ppy.sh/users/11248741) (0 Point), ::{ flag=ID }:: [Ihram-San](https://osu.ppy.sh/users/9908055) (0 Point) | [#1](https://osu.ppy.sh/community/matches/52987435) |
+Saturday, 29 June 2019
 
-| Sunday, 30 June 2019 |  |  |
+| Group | Player 1  | Player 2 | Player 3 | Player 4 | Player 5 | Match Link |
 | :-: | :-- | :-: |
-| **Grup E** | ::{ flag=ID }:: [MATEH ON](https://osu.ppy.sh/users/8136810) (13 Point), ::{ flag=ID }:: [Noch Einen](https://osu.ppy.sh/users/12668735) (13 Point), ::{ flag=ID }:: [Yuusha006](https://osu.ppy.sh/users/11214161) (10 Point), ::{ flag=ID }:: [THEmpire](https://osu.ppy.sh/users/12142847) (0 Point), ::{ flag=ID }:: [PetrikPintar](https://osu.ppy.sh/users/13489565) (0 Point) | [#1](https://osu.ppy.sh/community/matches/53010360) |
-| **Grup F** | ::{ flag=ID }:: [Merlinch](https://osu.ppy.sh/users/4901971) (13 Point), ::{ flag=ID }:: [Its A Name](https://osu.ppy.sh/users/8724363) (11 Point), ::{ flag=ID }:: [Kurami](https://osu.ppy.sh/users/10184990) (10 Point), ::{ flag=ID }:: [Felter](https://osu.ppy.sh/users/5865319) (2 Point), ::{ flag=ID }:: [Fathan2Gaming](https://osu.ppy.sh/users/11982790) (0 Point) | [#1](https://osu.ppy.sh/community/matches/53006427) |
-| **Grup G** | ::{ flag=ID }:: [alvinrainbow](https://osu.ppy.sh/users/4783042) (15 Point), ::{ flag=ID }:: [anzutto232](https://osu.ppy.sh/users/13408635) (15 Point), ::{ flag=ID }:: [pakyan29](https://osu.ppy.sh/users/7879632) (6 Point), ::{ flag=ID }:: [ilhamsyah849](https://osu.ppy.sh/users/4679215) (0 Point), ::{ flag=ID }:: [\[AST\]Rosary](https://osu.ppy.sh/users/12504843) (0 Point) | [#1](https://osu.ppy.sh/community/matches/53005726) |
-| **Grup H** | ::{ flag=ID }:: [\[-TiaZark-\]](https://osu.ppy.sh/users/14294140) (13 Point), ::{ flag=ID }:: [Dil-](https://osu.ppy.sh/users/3796282) (11 Point), ::{ flag=ID }:: [ReZ\_TB](https://osu.ppy.sh/users/9113955) (6 Point), ::{ flag=ID }:: [Hilmi Ghazian](https://osu.ppy.sh/users/3200342) (6 Point), ::{ flag=ID }:: [RizSama](https://osu.ppy.sh/users/9281315) (0 Point) | [#1](https://osu.ppy.sh/community/matches/53009213) |
+| **Group A** | ::{ flag=ID }:: [2ndlegend](https://osu.ppy.sh/users/7621604) (14 Point), ::{ flag=ID }:: [Onii\_ue](https://osu.ppy.sh/users/12471868) (13 Point), ::{ flag=ID }:: [World_Disaster](https://osu.ppy.sh/users/10666064) (5 Point), ::{ flag=ID }:: [XnoxID](https://osu.ppy.sh/users/13605876) (4 Point), ::{ flag=ID }:: [CrashOOF](https://osu.ppy.sh/users/13788391) (0 Point) | [#1](https://osu.ppy.sh/community/matches/52988947) |
+| **Group B** | ::{ flag=ID }:: [Zero\[13\]](https://osu.ppy.sh/users/13942350) (14 Point), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304) (7 Poin, Memenangkan Tiebreaker), ::{ flag=ID }:: [Fazurey](https://osu.ppy.sh/users/6548973) (7 Point), ::{ flag=ID }:: [JintanSama](https://osu.ppy.sh/users/12652371) (4 Point), ::{ flag=ID }:: [BIMZ](https://osu.ppy.sh/users/9037581) (4 Point) | [#1](https://osu.ppy.sh/community/matches/53011613) |
+| **Group C** | ::{ flag=ID }:: [\[KonG-69\]](https://osu.ppy.sh/users/8847412) (14 Point), ::{ flag=ID }:: [rizki20](https://osu.ppy.sh/users/6523286) (12 Point), ::{ flag=ID }:: [-MyLoveIka-](https://osu.ppy.sh/users/12039798) (6 Point), ::{ flag=ID }:: [Vels](https://osu.ppy.sh/users/5319494) (3 Point), ::{ flag=ID }:: [ElinLYPK](https://osu.ppy.sh/users/5198950) (1 Point) | [#1](https://osu.ppy.sh/community/matches/52985075) |
+| **Group D** | ::{ flag=ID }:: [StyxFearNite](https://osu.ppy.sh/users/8390933) (15 Point), ::{ flag=ID }:: [budiex112](https://osu.ppy.sh/users/8867693) (14 Point), ::{ flag=ID }:: [agung0210](https://osu.ppy.sh/users/4663559) (7 Point), ::{ flag=ID }:: [Kawaisou-](https://osu.ppy.sh/users/11248741) (0 Point), ::{ flag=ID }:: [Ihram-San](https://osu.ppy.sh/users/9908055) (0 Point) | [#1](https://osu.ppy.sh/community/matches/52987435) |
+
+| Group | Player 1 | Player 2 | Player 3 | Player 4 | Player 5 | Match link |
+| :-: | :-- | :-: |
+| **Group E** | ::{ flag=ID }:: [MATEH ON](https://osu.ppy.sh/users/8136810) (13 Point), ::{ flag=ID }:: [Noch Einen](https://osu.ppy.sh/users/12668735) (13 Point), ::{ flag=ID }:: [Yuusha006](https://osu.ppy.sh/users/11214161) (10 Point), ::{ flag=ID }:: [THEmpire](https://osu.ppy.sh/users/12142847) (0 Point), ::{ flag=ID }:: [PetrikPintar](https://osu.ppy.sh/users/13489565) (0 Point) | [#1](https://osu.ppy.sh/community/matches/53010360) |
+| **Group F** | ::{ flag=ID }:: [Merlinch](https://osu.ppy.sh/users/4901971) (13 Point), ::{ flag=ID }:: [Its A Name](https://osu.ppy.sh/users/8724363) (11 Point), ::{ flag=ID }:: [Kurami](https://osu.ppy.sh/users/10184990) (10 Point), ::{ flag=ID }:: [Felter](https://osu.ppy.sh/users/5865319) (2 Point), ::{ flag=ID }:: [Fathan2Gaming](https://osu.ppy.sh/users/11982790) (0 Point) | [#1](https://osu.ppy.sh/community/matches/53006427) |
+| **Group G** | ::{ flag=ID }:: [alvinrainbow](https://osu.ppy.sh/users/4783042) (15 Point), ::{ flag=ID }:: [anzutto232](https://osu.ppy.sh/users/13408635) (15 Point), ::{ flag=ID }:: [pakyan29](https://osu.ppy.sh/users/7879632) (6 Point), ::{ flag=ID }:: [ilhamsyah849](https://osu.ppy.sh/users/4679215) (0 Point), ::{ flag=ID }:: [\[AST\]Rosary](https://osu.ppy.sh/users/12504843) (0 Point) | [#1](https://osu.ppy.sh/community/matches/53005726) |
+| **Group H** | ::{ flag=ID }:: [\[-TiaZark-\]](https://osu.ppy.sh/users/14294140) (13 Point), ::{ flag=ID }:: [Dil-](https://osu.ppy.sh/users/3796282) (11 Point), ::{ flag=ID }:: [ReZ\_TB](https://osu.ppy.sh/users/9113955) (6 Point), ::{ flag=ID }:: [Hilmi Ghazian](https://osu.ppy.sh/users/3200342) (6 Point), ::{ flag=ID }:: [RizSama](https://osu.ppy.sh/users/9281315) (0 Point) | [#1](https://osu.ppy.sh/community/matches/53009213) |
 
 ## General rules
 
@@ -361,7 +391,7 @@ The **osu!mania 4K Indonesia Cup 2019** (***O!MIC 4K 2019***) was a nationwide o
 - If a player has a connection problem which caused them to be disconnected from the match, then the decision will be **determined by the referee** which is **absolute**.
 - Players must follow the osu! [rules](/wiki/Rules).
 
-### Match regulations 
+#### Match regulations 
 
 - All players who are deemed eligible for the tournament will enter Qualifiers.
 - Each lobby contains a maximum of 8 players in the Qualifiers.
@@ -373,7 +403,7 @@ The **osu!mania 4K Indonesia Cup 2019** (***O!MIC 4K 2019***) was a nationwide o
   - Each map will be played twice.
   - The highest score for each beatmap will be counted and the Qualifiers score will be accumulated based on the comparison of scores to other players.
   - After the Qualifiers end there will be a distribution of players based on seed.
-  - The function of seed is for the distribution of the next round, where players are randomized based on different seed.
+  - The function of seed is for the distribution of the next round, where players are placed based on different seed.
   - Seed distribution is based on the player's position in the Qualifiers:
     - 1–16: Top seed
     - 17–32: High seed
@@ -402,7 +432,7 @@ The **osu!mania 4K Indonesia Cup 2019** (***O!MIC 4K 2019***) was a nationwide o
     - The amount of matches won by players. If they are the same, then it will be determined from:
     - The difference between the picks won by the player during the match. If they too are the same, then it will be determined from:
     - The highest seed from the Qualifiers.
-- **Match Rules (Round of 32 until Grand Final)**
+### Match Rules (Round of 32 until Grand Final)**
   - If one of the players is not present, then the player who is present in the match will win by default.
   - Before the game starts, the players will `!roll` first. The players who **wins** in the `!roll` can choose to **ban first**. After both players have determined which maps are banned, the first player will choose the map that is going to be played.
   - If both players got the same score, then **the match will be replayed using the same map**.
