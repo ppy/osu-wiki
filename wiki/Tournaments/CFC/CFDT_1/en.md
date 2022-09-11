@@ -6,8 +6,6 @@ tags:
 
 # Catch French Dual Tournament
 
-![CFDT logo](img/logo.png)
-
 The **Catch French Dual Tournament** (***CFDT***) was a French double-elimination 2v2 osu!catch tournament hosted by ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012) and ::{ flag=FR }:: [\_yosh](https://osu.ppy.sh/users/7157133). Teams consisted of two players, where the first player was ranked between #100 and #799, and the latter was ranked between #800 and #2,999. It was the first instalment of the Catch French Dual Tournament and part of the Catch French Cup series.
 
 ## Tournament schedule
@@ -30,6 +28,8 @@ The **Catch French Dual Tournament** (***CFDT***) was a French double-eliminatio
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 2 months of osu!supporter |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter |
+
+![](img/badge.jpg "CFDT winner badge")
 
 Generous donation from ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012), ::{ flag=FR }:: [MitsukeZ](https://osu.ppy.sh/users/12943161), ::{ flag=FR }:: [JustinBrizou](https://osu.ppy.sh/users/21879889), and ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467) helped fund some of the prizes.
 
@@ -59,23 +59,15 @@ The Catch French Dual Tournament was run by various community members.
 
 | Team | Members |
 | :-- | :-- |
-| **5€** | ::{ flag=FR }:: **[Boros](https://osu.ppy.sh/users/5490623)**, ::{ flag=KR }:: [T s u m i](https://osu.ppy.sh/users/4080520) |
-| **:nanasmil:** | ::{ flag=FR }:: **[Oasix](https://osu.ppy.sh/users/6183012)**, ::{ flag=AT }:: [Mashiro Mama](https://osu.ppy.sh/users/10415976) |
-| **:pleading_face:** | ::{ flag=FR }:: **[Natsuko](https://osu.ppy.sh/users/8266817)**, ::{ flag=ID }:: [Ruu](https://osu.ppy.sh/users/3212755) |
-| **Black Ice** | ::{ flag=FR }:: **[Sounny](https://osu.ppy.sh/users/7326109)**, ::{ flag=RU }:: [Nerris](https://osu.ppy.sh/users/11202866) |
-| **dégénéré** | ::{ flag=FR }:: **[\_\_\_\_\_\_\_\_\_\_\__](https://osu.ppy.sh/users/6973354)**, ::{ flag=FR }:: [Zelepha](https://osu.ppy.sh/users/6201167) |
-| **Florika** | ::{ flag=FR }:: **[floflim](https://osu.ppy.sh/users/5954015)**, ::{ flag=SG }:: [He Ang CTB](https://osu.ppy.sh/users/2451381) |
-| **FR X US coalition** | ::{ flag=FR }:: **[Electr0o](https://osu.ppy.sh/users/9484428)**, ::{ flag=US }:: [Elux](https://osu.ppy.sh/users/12004983) |
-| **French Penguins** | ::{ flag=FR }:: **[Yostel](https://osu.ppy.sh/users/3594510)**, ::{ flag=IT }:: [ArMa79](https://osu.ppy.sh/users/4982799) |
-| **hecatia fanclub** | ::{ flag=CA }:: **[WadBot](https://osu.ppy.sh/users/14571181)**, ::{ flag=CA }:: [Zyoulou](https://osu.ppy.sh/users/8668722) |
-| **JP DANS DA TOURNOI** | ::{ flag=CA }:: **[SandwichMaster](https://osu.ppy.sh/users/7345342)**, ::{ flag=CA }:: [Katsuragi](https://osu.ppy.sh/users/3616480) |
-| **Le Grand Jordan23** | ::{ flag=FR }:: **[Dask](https://osu.ppy.sh/users/4151397)**, ::{ flag=CL }:: [Stark](https://osu.ppy.sh/users/1565036) |
-| **Not French** | ::{ flag=LU }:: **[Melodies](https://osu.ppy.sh/users/7787785)**, ::{ flag=PL }:: [Mniam](https://osu.ppy.sh/users/6050530) |
-| **Pot au Phô** | ::{ flag=FR }:: **[Vincs](https://osu.ppy.sh/users/2026299)**, ::{ flag=AU }:: [Yenni](https://osu.ppy.sh/users/3874176) |
-| **Quesedilla avec les frites BELGES** | ::{ flag=BE }:: **[\[ Quinten \]](https://osu.ppy.sh/users/6283136)**, ::{ flag=MX }:: [Muragaki](https://osu.ppy.sh/users/13195815) |
-| **Red Hawk** | ::{ flag=FR }:: **[Kanna\_Shiro](https://osu.ppy.sh/users/12943235)**, ::{ flag=AR }:: [Saikai](https://osu.ppy.sh/users/8172283) |
-| **Taco w/ Baguette** | ::{ flag=FR }:: **[Gray Hardrock](https://osu.ppy.sh/users/9049282)**, ::{ flag=CL }:: [Pekorrat](https://osu.ppy.sh/users/1250096) |
-| **Timezone diff** | ::{ flag=FR }:: **[Jielefe](https://osu.ppy.sh/users/15334170)**, ::{ flag=KR }:: [\[Amazing\]](https://osu.ppy.sh/users/1391036) |
+| **CFIC1 group B High/Top seed** | ::{ flag=FR }:: **[YANOO123](https://osu.ppy.sh/users/5122949)**, ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467) |
+| **Convert player but no fc** | ::{ flag=FR }:: **[Pizu](https://osu.ppy.sh/users/9475990)**, ::{ flag=FR }:: [\_Manyura](https://osu.ppy.sh/users/8335913) |
+| **Cuties** | ::{ flag=FR }:: **[AgentYous](https://osu.ppy.sh/users/255854)**, ::{ flag=LU }:: [Melodies](https://osu.ppy.sh/users/7787785) |
+| **les bg** | ::{ flag=FR }:: **[Realmas](https://osu.ppy.sh/users/6567640)**, ::{ flag=BE }:: [Cakenoob](https://osu.ppy.sh/users/6045522) |
+| **Nameless** | ::{ flag=FR }:: **[Akan0o](https://osu.ppy.sh/users/11286034)** |
+| **Noctalium** | ::{ flag=FR }:: **[Noctalium](https://osu.ppy.sh/users/6488167)**, ::{ flag=FR }:: [Shamookie](https://osu.ppy.sh/users/12441210) |
+| **Oask'eyeS** | ::{ flag=FR }:: **[Dask](https://osu.ppy.sh/users/4151397)**, ::{ flag=FR }:: [Oasix](https://osu.ppy.sh/users/6183012) |
+| **Stacker King** | ::{ flag=FR }:: **[Kasumi-sama](https://osu.ppy.sh/users/6177263)**, ::{ flag=FR }:: [Un bretzel](https://osu.ppy.sh/users/1542565) |
+| **TheFramazing** | ::{ flag=FR }:: **[TheFrozenGamer](https://osu.ppy.sh/users/2756781)**, ::{ flag=FR }:: [TheAmazing976\_](https://osu.ppy.sh/users/13984214) |
 
 ## Mappools
 
