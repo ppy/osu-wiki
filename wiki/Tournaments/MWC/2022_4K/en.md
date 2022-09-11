@@ -105,26 +105,44 @@ The osu!mania 4K World Cup 2022 is run by the [osu! team](/wiki/People/The_Team)
 | ::{ flag=VE }:: | **Venezuela** | **[Edvo](https://osu.ppy.sh/users/8301758)**, [xXShyzDy0133Xx](https://osu.ppy.sh/users/13545528), [calvingarrix666](https://osu.ppy.sh/users/17881051), [YuyukoFangirl](https://osu.ppy.sh/users/10336332) |
 | ::{ flag=VN }:: | **Vietnam** | **[Lott](https://osu.ppy.sh/users/13821222)**, [magnifestio](https://osu.ppy.sh/users/22725724), [CPT\_Sivelia](https://osu.ppy.sh/users/12562107), [TriDoanGaming](https://osu.ppy.sh/users/14009758), [Micleak](https://osu.ppy.sh/users/16140674), [Frostleaf](https://osu.ppy.sh/users/11863174) |
 
-## Match schedule: Finals
+## Match schedule: Grand Finals
 
-### Saturday, 10 September 2022
-
-| Team A | Team B | Match time |  |
-| --: | :-- | :-- | :-: |
-| Philippines ::{ flag=PH }:: | ::{ flag=JP }:: Japan | [Sep 10 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220910T120000&p1=1440&p2=145&p3=248) | [^losers-bracket] |
-| Malaysia ::{ flag=MY }:: | ::{ flag=US }:: United States | [Sep 10 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220910T150000&p1=1440&p2=122&p3=263) | [^losers-bracket] |
-
-### Sunday, 11 September 2022
+### Sunday, 18 September 2022
 
 | Team A | Team B | Match time |  |
 | --: | :-- | :-- | :-: |
-| Philippines ::{ flag=PH }:: | ::{ flag=US }:: United States | [Sep 11 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220911T040000&p1=1440&p2=145&p3=263) | [^potential-match] |
-| Japan ::{ flag=JP }:: | ::{ flag=US }:: United States | [Sep 11 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220911T040000&p1=1440&p2=248&p3=263) | [^potential-match] |
-| Philippines ::{ flag=PH }:: | ::{ flag=MY }:: Malaysia | [Sep 11 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220911T120000&p1=1440&p2=145&p3=122) | [^potential-match] |
-| Japan ::{ flag=JP }:: | ::{ flag=MY }:: Malaysia | [Sep 11 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220911T120000&p1=1440&p2=248&p3=122) | [^potential-match] |
-| Brazil ::{ flag=BR }:: | ::{ flag=KR }:: South Korea | [Sep 11 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220911T140000&p1=1440&p2=45&p3=235) | [^winners-bracket] |
+| South Korea ::{ flag=KR }:: | ::{ flag=US }:: United States | [Sep 18 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220918T030000&p1=1440&p2=235&p3=263) | [^losers-bracket] |
+| Brazil ::{ flag=BR }:: | ::{ flag=KR }:: South Korea | [Sep 18 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220918T140000&p1=1440&p2=45&p3=235) | [^potential-match] |
+| Brazil ::{ flag=BR }:: | ::{ flag=US }:: United States | [Sep 18 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220918T180000&p1=1440&p2=45&p3=263) | [^potential-match] |
 
 ## Mappools
+
+### Grand Finals
+
+**[Download the mappack here (255 MB)](https://drive.google.com/uc?id=1u3bkuMAFzlcOYTvLTTHxt1XNGV28dutw)**
+
+- Rice
+  1. [Luze - Love Song \[Black Dorna\] (Valedict) \[Heartfelt 1.1x (382bpm)\]](https://osu.ppy.sh/beatmapsets/1796541#mania/3763263)
+  2. [Falcom Sound Team jdk - Crimson Fighter (lemonguy) \[Adol The Red x1.1\]](https://osu.ppy.sh/beatmapsets/1791533#mania/3671281)
+  3. [Ariabl'eyeS - Sougetsu Oratorio (\[Crz\]Rachel) \[Eclipse x1.05\]](https://osu.ppy.sh/beatmapsets/842131#mania/1762209)
+  4. [Yuta Imai Vs. BEMANI Sound Team "L.E.D.-G" - THE PEERLESS UNDER HEAVEN (Mipha-) \[MIPHATHER\]](https://osu.ppy.sh/beatmapsets/1829143#mania/3756153)
+  5. [Camellia - Xeroa (Shoegazer) \[Harbinger 1.15x (346bpm)\]](https://osu.ppy.sh/beatmapsets/1716930#mania/3513548)
+  6. [xi - PEACE BREAKER (0DZ0) \[WIDOWMAKER 1.1x (176bpm)\]](https://osu.ppy.sh/beatmapsets/1842152#mania/3783809)
+  7. [Terminal 11 - Fury (Pizza69) \[Extreme 1.05x (205bpm)\]](https://osu.ppy.sh/beatmapsets/1632108#mania/3331564)
+- Hybrid
+  1. [Silentroom - XHRONOXAPSULE (-mint-) \[XHRONOMALY 1.05x (291bpm)\]](https://osu.ppy.sh/beatmapsets/1846505#mania/3793096)
+  2. [katagiri - Angel's Salad (lemonguy) \[Challenge x1.1\]](https://osu.ppy.sh/beatmapsets/1757208#mania/3595933)
+  3. [void (Mournfinale) feat. Hoshikuma Minami - Testify (Abraxos) \[Who controls the present now?\]](https://osu.ppy.sh/beatmapsets/1845408#mania/3790784)
+- LN
+  1. [Nanahoshi Kangengakudan - No.39 (juankristal) \[t!m!ng h#ll\]](https://osu.ppy.sh/beatmapsets/1846256#mania/3792661)
+  2. [nmk - Celestial Axes (\[Crz\]Crysarlene) \[Amaranthine \[1.05x Rate\]\]](https://osu.ppy.sh/beatmapsets/1772725#mania/3629447)
+  3. [Hatsuki Yura - Black Princess (lemonguy) \[LN Master x1.15\]](https://osu.ppy.sh/beatmapsets/1810053#mania/3792636)
+  4. [Camellia - Blackmagik Blazing (-mint-) \[The Sorcerer's Apprentice\]](https://osu.ppy.sh/beatmapsets/1755294#mania/3592063)
+- SV
+  1. [Camellia - AttraqtiA (Orca-) \[Spacial Scission\]](https://osu.ppy.sh/beatmapsets/1846614#mania/3793332)
+  2. [Laur - Symphony Op.1 -CHAOS- (Tidek) \[1-500-8000\]](https://osu.ppy.sh/beatmapsets/1846644#mania/3793380)
+- Tiebreaker
+  1. **[aa...hisuichazuke... - steganography (-mint-) \[Cipher Encryption\]](https://osu.ppy.sh/beatmapsets/1846639#mania/3793375)**
 
 ### Finals
 
@@ -267,6 +285,27 @@ The osu!mania 4K World Cup 2022 is run by the [osu! team](/wiki/People/The_Team)
 8. [xi - The End of Dreams (Sped Up Ver.) (aeoliancarp) \[Stage 8: Dawn\]](https://osu.ppy.sh/beatmapsets/1817980#mania/3729876)
 
 ## Match results
+
+### Finals
+
+
+## Match results
+
+### Finals
+
+Saturday, 10 September 2022:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Philippines** ::{ flag=PH }:: | **7** | 1 | ::{ flag=JP }:: Japan | [#1](https://osu.ppy.sh/community/matches/103688295) |
+| Malaysia ::{ flag=MY }:: | 5 | **7** | ::{ flag=US }:: **United States** | [#1](https://osu.ppy.sh/community/matches/103692295) |
+
+Sunday, 11 September 2022:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Philippines ::{ flag=PH }:: | 4 | **7** | ::{ flag=US }:: **United States** | [#1](https://osu.ppy.sh/community/matches/103709077) |
+| **Brazil** ::{ flag=BR }:: | **7** | 5 | ::{ flag=KR }:: South Korea | [#1](https://osu.ppy.sh/community/matches/103719158) |
 
 ### Semifinals
 
@@ -565,6 +604,5 @@ The final standings for the Qualifier stage can be found at the following [sprea
 
 ## Notes
 
-[^winners-bracket]: Winners bracket match
 [^losers-bracket]: Losers bracket match
 [^potential-match]: Potential match - final matchup depends on the results of the preceding Losers Bracket matches
