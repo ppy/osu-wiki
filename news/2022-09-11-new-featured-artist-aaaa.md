@@ -12,7 +12,7 @@ Earning the spotlight in games like *Arcaea*, *maimai*, *CHUNITHM*, *pop'n music
 
 **22** insanely awesome tracks are ready for mapping from [**AAAA**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/301)!
 
-**AAAA**'s Featured Artist reveal was a bit unorthodox. In collaboration with fellow legends [Hino Isuka](https://osu.ppy.sh/beatmaps/artists/272) and [Umeboshi Chazuke](https://osu.ppy.sh/beatmaps/artists/98), **AAAA** helped create the custom song [*steganography*](https://osu.ppy.sh/beatmapsets/1846639#mania/3793375) for the MWC 4K 2022 tiebreaker!
+**AAAA**'s Featured Artist reveal was a bit unorthodox. In collaboration with fellow legends [Hino Isuka](https://osu.ppy.sh/beatmaps/artists/272) and [Umeboshi Chazuke](https://osu.ppy.sh/beatmaps/artists/98), **AAAA** helped create the custom song [*stεganography*](https://osu.ppy.sh/beatmapsets/1846639#mania/3793375) for the MWC 4K 2022 tiebreaker!
 
 If you missed it live, watch how the reveal went in the video below, then check out the massive collection of beatmaps featuring **AAAA** tunes:
 
@@ -22,7 +22,7 @@ If you missed it live, watch how the reveal went in the video below, then check 
     </video>
 </div>
 
-### aa...hisuichazuke... - steganography
+### aa...hisuichazuke... - stεganography
 
 Play through [the MWC 4K 2022 tiebreaker](https://osu.ppy.sh/beatmapsets/1846639#mania/3793375) for yourself, mapped by [-mint-](https://osu.ppy.sh/users/8976576), [guden](https://osu.ppy.sh/users/11626065), [MyZterioN-](https://osu.ppy.sh/users/8521723), and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
 
