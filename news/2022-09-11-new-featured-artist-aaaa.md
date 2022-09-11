@@ -46,7 +46,9 @@ Mash to [this 7K osu!mania beatmap](https://osu.ppy.sh/beatmapsets/1371217) host
     <source src="https://assets.ppy.sh/artists/301/Songs/AAAA%20-%20w%20%3D%20addict.mp3" type="audio/mpeg">
 </audio>
 
-### AAAA- Hoshi o Kakeru Adventure ~ we are forever friends! ~ [Long ver.]
+<!-- lint ignore no-heading-punctuation -->
+
+### AAAA- Hoshi o Kakeru Adventure ~ we are forever friends! ~ \[Long ver.\]
 
 Test out any of these marathons:
 
@@ -83,7 +85,9 @@ Enjoy [this full osu! difficulty spread](https://osu.ppy.sh/beatmapsets/1305045)
     <source src="https://assets.ppy.sh/artists/301/Stardusts%20in%20my%20Memory%20Card%2FAAAA%20-%20Hoshi%20no%20Otoshimono.mp3" type="audio/mpeg">
 </audio>
 
-### AAAA - Bokutachi no Tabi to Epilogue. [Long ver.]
+<!-- lint ignore no-heading-punctuation -->
+
+### AAAA - Bokutachi no Tabi to Epilogue. \[Long ver.\]
 
 Embark on an adventure with any of these beatmaps:
 
@@ -112,7 +116,9 @@ Stream to [this Loved 4K osu!mania map](https://osu.ppy.sh/beatmapsets/891963) h
     <source src="https://assets.ppy.sh/artists/301/Songs/AAAA%20%2B%20Umeboshi%20Chazuke%20-%20Cait%20Sith.mp3" type="audio/mpeg">
 </audio>
 
-### AAAA Chazuke - Sayonara Cosmonaut [Long ver.]
+<!-- lint ignore no-heading-punctuation -->
+
+### AAAA Chazuke - Sayonara Cosmonaut \[Long ver.\]
 
 Reach the cosmos with [this osu! map](https://osu.ppy.sh/beatmapsets/869960) hosted by [Azzedd](https://osu.ppy.sh/users/8889054). We might be running low on ways to say "play this map".
 
@@ -127,6 +133,8 @@ Tap some drums to [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1153450) h
 <audio controls>
     <source src="https://assets.ppy.sh/artists/301/Songs/AAAA%20Chazuke%20-%20Myosotis%20no%20Hanataba.mp3" type="audio/mpeg">
 </audio>
+
+<!-- lint ignore no-heading-punctuation -->
 
 ### AAAA + Hino Isuka - Keep Smiling.
 
