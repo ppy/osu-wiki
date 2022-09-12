@@ -16,7 +16,7 @@ A [new change](https://github.com/ppy/osu/pull/17913) in long note calculation f
 
 Before this change, all overlapping long notes would receive a fixed bonus. After this change, the bonus now scales proportionally to how long ago the last long note release was.
 
-This change also fixes an oversight with long notes in the right-most column of a map taking precedence in overlap calculation.
+This change also fixes an oversight with long notes in the rightmost column of a map taking precedence in overlap calculation.
 
 An [interactive demonstration](https://www.desmos.com/calculator/7eboanfzne) by [**Evening**](https://osu.ppy.sh/users/2193881) shows how this change affects long note bonus.
 
@@ -28,10 +28,10 @@ This change makes sure that the difficulty of the entire chord is taken into acc
 
 This primarily affects maps with heavy usage of chords (especially in higher key modes), for example:
 
-- [Cardboard Box - The Limit Does Not Exist [[7K] Infinity]](https://osu.ppy.sh/beatmapsets/379758#mania/831204) 7.45\* --> 7.71\*
-- [Manabu Namiki - Tenshi (True Final Boss) [[4K] MIPHATHER]](https://osu.ppy.sh/beatmapsets/1503789#mania/3080978) 5.36\* --> 5.44\*
+- [Cardboard Box - The Limit Does Not Exist [[7K] Infinity]](https://osu.ppy.sh/beatmapsets/379758#mania/831204): 7.45\* --> 7.71\*
+- [Manabu Namiki - Tenshi (True Final Boss) [[4K] MIPHATHER]](https://osu.ppy.sh/beatmapsets/1503789#mania/3080978): 5.36\* --> 5.44\*
 
-### Using accuracy instead of score for PP
+### Using accuracy instead of score for performance points
 
 Score has long since been the measure of skill a player has on the map. But with [osu!(lazer)](https://github.com/ppy/osu) making changes to the scoring system, it no longer makes sense to base performance on this metric.
 
@@ -39,17 +39,17 @@ With a [new change](https://github.com/ppy/osu/pull/18749), pp will now be based
 
 put accuracy formula image here
 
-At 80% accuracy and below, the player will receive no PP for their score. This scales linearly to 100% accuracy where the player recieves the maximum possible PP for their play.
+At 80% accuracy and below, the player will receive no pp for their score. This scales linearly to 100% accuracy where the player recieves the maximum possible pp for their play.
 
-Compared to the old system, this buffs very high accuracy scores while nerfing lower accuracy ones. However, some scores that previously received no PP will find that they now do reward some PP.
+Compared to the old system, this buffs very high-accuracy scores while nerfing lower-accuracy ones. However, some scores that previously received no pp will find that they now do reward some pp.
 
 ### Other changes
 
-As a consequence of accuracy now determining PP, this led to some other changes:
+As a consequence of accuracy now determining pp, this led to some other changes:
 
-- **No Fail rewards 0.75x of No Mod PP**. Previously, due to No Fail's mod multiplier limiting score to below 500,000 you couldn't gain any PP with it.
-- **"Accuracy PP" has been removed**. It would previously be rewarded to scores that had a score above 960,000. This has been accounted for in the accuracy PP formula.
-- **Star rating to PP curve formula has been simplified**. Only minor differences here.
+- **No Fail rewards 0.75x of No Mod pp**. Previously, due to No Fail's mod multiplier limiting score to below 500,000 you couldn't gain any pp with it.
+- **"Accuracy pp" has been removed**. It would previously be rewarded to scores that had a score above 960,000. This has been accounted for in the new accuracy pp formula.
+- **Star rating to pp curve formula has been simplified**. Only minor differences here.
 
 ---
 
