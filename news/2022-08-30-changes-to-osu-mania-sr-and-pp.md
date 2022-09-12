@@ -35,7 +35,7 @@ This primarily affects maps with heavy usage of chords (especially in higher key
 
 Score has long since been the measure of skill a player has on the map. But with [osu!(lazer)](https://github.com/ppy/osu) making changes to the scoring system, it no longer makes sense to base performance on this metric.
 
-With [a new change](https://github.com/ppy/osu/pull/18749), pp will now be based on the accuracy the player gets on the map using this formula:
+With a [new change](https://github.com/ppy/osu/pull/18749), pp will now be based on the accuracy the player gets on the map using this formula:
 
 put accuracy formula image here
 
