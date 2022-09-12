@@ -62,11 +62,21 @@ The Catch French Dual Tournament was run by various community members.
 | **Convert player but no fc** | ::{ flag=FR }:: **[Pizu](https://osu.ppy.sh/users/9475990)**, ::{ flag=FR }:: [\_Manyura](https://osu.ppy.sh/users/8335913) |
 | **Cuties** | ::{ flag=FR }:: **[AgentYous](https://osu.ppy.sh/users/255854)**, ::{ flag=LU }:: [Melodies](https://osu.ppy.sh/users/7787785) |
 | **les bg** | ::{ flag=FR }:: **[Realmas](https://osu.ppy.sh/users/6567640)**, ::{ flag=BE }:: [Cakenoob](https://osu.ppy.sh/users/6045522) |
-| **Nameless** | ::{ flag=FR }:: **[Akan0o](https://osu.ppy.sh/users/11286034)** |
+| **Nameless** | ::{ flag=FR }:: **[Akan0o](https://osu.ppy.sh/users/11286034)**, ::{ flag=FR }:: [Yostel](https://osu.ppy.sh/users/3594510) |
 | **Oask'eyeS** | ::{ flag=FR }:: **[Dask](https://osu.ppy.sh/users/4151397)**, ::{ flag=FR }:: [Oasix](https://osu.ppy.sh/users/6183012) |
 | **Rocma Fanclub** | ::{ flag=FR }:: **[Noctalium](https://osu.ppy.sh/users/6488167)**, ::{ flag=FR }:: [Shamookie](https://osu.ppy.sh/users/12441210) |
 | **Stacker King** | ::{ flag=FR }:: **[Kasumi-sama](https://osu.ppy.sh/users/6177263)**, ::{ flag=FR }:: [Un bretzel](https://osu.ppy.sh/users/1542565) |
 | **TheFramazing** | ::{ flag=FR }:: **[TheFrozenGamer](https://osu.ppy.sh/users/2756781)**, ::{ flag=FR }:: [TheAmazing976\_](https://osu.ppy.sh/users/13984214) |
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Nameless** (::{ flag=FR }:: **[Akan0o](https://osu.ppy.sh/users/11286034)**, ::{ flag=FR }:: [Yostel](https://osu.ppy.sh/users/3594510)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **les bg** (::{ flag=FR }:: **[Realmas](https://osu.ppy.sh/users/6567640)**, ::{ flag=BE }:: [Cakenoob](https://osu.ppy.sh/users/6045522)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **Oask'eyeS** (::{ flag=FR }:: **[Dask](https://osu.ppy.sh/users/4151397)**, ::{ flag=FR }:: [Oasix](https://osu.ppy.sh/users/6183012)) |
 
 ## Mappools
 
