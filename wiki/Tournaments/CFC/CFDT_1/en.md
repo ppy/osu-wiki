@@ -41,7 +41,7 @@ The Catch French Dual Tournament was run by various community members.
 | Organiser | ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012), ::{ flag=FR }:: [\_yosh](https://osu.ppy.sh/users/7157133) |
 | Mappool selector | ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012) |
 | Referee | ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012), ::{ flag=FR }:: [JeSuisJLF](https://osu.ppy.sh/users/15334170), ::{ flag=FR }:: [Mimir](https://osu.ppy.sh/users/7382734), ::{ flag=FR }:: [Ryumi](https://osu.ppy.sh/users/6596270), ::{ flag=FR }:: [Taevas](https://osu.ppy.sh/users/7276846), ::{ flag=FR }:: [\_yosh](https://osu.ppy.sh/users/7157133) |
-| Streamer | ::{ flag=FR }:: [JeSuisJLF](https://osu.ppy.sh/users/15334170), ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263), ![][flag_LU] [Melodies](https://osu.ppy.sh/users/7787785), ::{ flag=FR }:: [Un bretzel](https://osu.ppy.sh/users/1542565), ::{ flag=FR }:: [Yostel](https://osu.ppy.sh/users/3594510) |
+| Streamer | ::{ flag=FR }:: [JeSuisJLF](https://osu.ppy.sh/users/15334170), ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263), ::{ flag=LU }:: [Melodies](https://osu.ppy.sh/users/7787785), ::{ flag=FR }:: [Un bretzel](https://osu.ppy.sh/users/1542565), ::{ flag=FR }:: [Yostel](https://osu.ppy.sh/users/3594510) |
 | Commentator | ::{ flag=FR }:: [Fulgu](https://osu.ppy.sh/users/4096322), ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012), ::{ flag=FR }:: [JeSuisJLF](https://osu.ppy.sh/users/15334170), ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263), ::{ flag=FR }:: [MitsukeZ](https://osu.ppy.sh/users/12943161), ::{ flag=FR }:: [Un bretzel](https://osu.ppy.sh/users/1542565), ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467) |
 | Designer | ::{ flag=KR }:: [POCARI SWEAT](https://osu.ppy.sh/users/5082685) |
 | Wiki writer | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
@@ -192,7 +192,7 @@ The Catch French Dual Tournament was run by various community members.
 - HardRock
   1. [MYUKKE. - The 89's Momentum (Spectator) \[Jemzuu's Salad\]](https://osu.ppy.sh/beatmapsets/1340492#fruits/2779753)
 - DoubleTime
-  1. [marina - History (JBHyperion) \[Platter\]](https://osu.ppy.sh/beatmapsets/1232787#fruits/2562859) 
+  1. [marina - History (JBHyperion) \[Platter\]](https://osu.ppy.sh/beatmapsets/1232787#fruits/2562859)
 
 ## Match results
 
@@ -261,27 +261,24 @@ Sunday, 16 May 2021:
    - A participant with rank range below #501
    - One of the participant must be able to speak french or has a french flag in their profile
 2. The Score System used will be **Score V2**.
-3. If team can't attend within the span of **10 minutes**, the other team will win by default.
-4. Even in a tournament scene osu! is still a game. Please respect each other to everyone, be friendly, and fair play.
-5. Catch French Dual Tournament will use double-elimination bracket, which means that there will be a loser's bracket.
-
-### Match regulations
-
-1. Teams will do `!roll` at the start of the match to determine the order of who picks and bann first.
+3. Failed scores count, with that NoFail will be enforced for everyone
+4. If team can't attend within the span of **10 minutes**, the other team will win by default.
+5. Regarding map bans, the amount of map should be banned are as follows:
+   - In the Quarterfinals and Semifinals, each team will ban 1 map per match.
+   - In the Finals and Grand Finals, each team will ban 2 maps per match.
+6. Teams are allowed to submit their warmup which must not exceed the **4:00** mark.
+7. Teams will do `!roll` at the start of the match to determine the order of who picks and bann first.
    - Team with higher roll will pick first and bann second
    - Team with lower roll will bann first and pick second
-2. Warmups are not allowed, so make sure to be well warmed up before playing.
-3. Regarding map bans, the amount of map should be banned are as follows:
-   - From Round of 16 until Semifinals, each player will ban 1 map per match.
-   - In the Finals and Grand Finals, each player will ban 2 maps per match.
-4. Failed scores count, with that NoFail will be enforced for everyone
-5. The same team is not allowed to ban or the same mod twice in a row (e.g. banning two HardRock maps).
-6. Hidden mod is combineable with HardRock and DoubleTime mod.
-7. The Tiebreaker can be played under NoMod or Hidden.
+8. Even in a tournament scene osu! is still a game. Please respect each other to everyone, be friendly, and fair play.
+9. Catch French Dual Tournament will use double-elimination bracket, which means that there will be a loser's bracket.
+10. Any player with French flag can participate in the tournament.
+11. The same team is not allowed to ban or the same mod twice in a row (e.g. banning two HardRock maps).
+12. Hidden mod is combineable with HardRock and DoubleTime mod.
+13. The Tiebreaker can be played under NoMod or Hidden.  
 
 ### Winning conditions
 
-1. Round of 16: Best-of-7 (first to 4 points)
-2. Quarterfinals: Best-of-9 (first to 5 points)
-3. Semifinals: Best-of-11 (first to 6 points)
-4. **Finals and Grand Finals**: Best-of-13 (first to 7 points)
+1. Quarterfinals: Best-of-9 (first to 5 points)
+2. Semifinals: Best-of-11 (first to 6 points)
+3. **Finals and Grand Finals**: Best-of-13 (first to 7 points)
