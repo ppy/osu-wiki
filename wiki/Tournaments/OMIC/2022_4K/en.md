@@ -223,13 +223,13 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Final
 
-Saturday, 20 August 2022
+Saturday, 20 August 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Loser Final | Onta\_Bekasi ::{ flag=ID }:: | 0 | **7** | ::{ flag=ID }:: **\[Albert\]** | [#1](https://osu.ppy.sh/community/matches/103203535) |
 
-Sunday, 21 August 2022
+Sunday, 21 August 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
@@ -238,14 +238,14 @@ Sunday, 21 August 2022
 
 ### Final
 
-Saturday, 6 August 2022
+Saturday, 6 August 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Loser | adihza ::{ flag=ID }:: | -1 | **0** | ::{ flag=ID }:: **Proxae** | *win by default* |
 | Loser | **\[Albert\]** ::{ flag=ID }:: | **7** | 1 | ::{ flag=ID }:: Dellia | [#1](https://osu.ppy.sh/community/matches/102861227) |
 
-Sunday, 7 August 2022
+Sunday, 7 August 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
@@ -254,7 +254,7 @@ Sunday, 7 August 2022
 
 ### Senifinal
 
-Saturday, 30 July 2022
+Saturday, 30 July 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
@@ -264,7 +264,7 @@ Saturday, 30 July 2022
 | Loser | Fr05tyGD ::{ flag=ID }:: | 5 | **6** | ::{ flag=ID }:: **Proxae** | [#1](https://osu.ppy.sh/community/matches/102681495) |
 | Winner | **Onta\_Bekasi** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: \[Albert\] | *win by default* |
 
-Sunday, 31 July 2022
+Sunday, 31 July 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
@@ -274,7 +274,7 @@ Sunday, 31 July 2022
 
 ### Quarterfinal
 
-Saturday, 23 July 2022
+Saturday, 23 July 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
@@ -287,7 +287,7 @@ Saturday, 23 July 2022
 | Winner | Fr05tyGD ::{ flag=ID }:: | 3 | **6** | ::{ flag=ID }:: **\[Albert\]** | [#1](https://osu.ppy.sh/community/matches/102497544) |
 | Loser | **-Yubi-** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: Tsurumaki\_ | *win by default* |
 
-Sunday, 24 July 2022
+Sunday, 24 July 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
@@ -302,7 +302,7 @@ Sunday, 24 July 2022
 
 ### Round of 16
 
-Saturday, 16 July 2022
+Saturday, 16 July 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
@@ -316,7 +316,7 @@ Saturday, 16 July 2022
 | Winner | **adihza** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: TheLegend3RD | [#1](https://osu.ppy.sh/community/matches/102314216) |
 | Loser | \[ Albedo \] ::{ flag=ID }:: | -1 | **0** | ::{ flag=ID }:: **spectator\_boi** | *win by default* |
 
-Sunday, 17 July 2022
+Sunday, 17 July 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
@@ -330,7 +330,7 @@ Sunday, 17 July 2022
 
 ### Round of 32
 
-Saturday, 9 July 2022
+Saturday, 9 July 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
@@ -343,7 +343,7 @@ Saturday, 9 July 2022
 | Winner | **\[ReyZ\]** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: Dogethedoge25 | *win by default* |
 | Winner | **AZKiFanboy** ::{ flag=ID }:: | **0** | -1 | ::{ flag=ID }:: AzusaNakano2 | *win by default* |
 
-Sunday, 10 July 2022
+Sunday, 10 July 2022:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
@@ -361,60 +361,60 @@ Sunday, 10 July 2022
 ### Registration rules
 
 - There is no limit to the amount of participants.
-- Participants should register on the links that are already provided.
+- Participants should register through the links provided in the forum thread.
 - Flag on each participant's osu! account must be **Indonesia**.
-- The lowest rank for this tournament is **#5000 4K Global**.
-- Tournament staffs are not permitted to participate as a player on this tournament, except for staffs that are taking the position of the following:
+- The lowest rank for this tournament is **#5000 4K global rank**.
+- - Tournament staff members are not permitted to participate as players in this tournament, except for the following positions:
   - Streamer 
   - Commentator 
   - Designer 
-- Every registering participant will be required to go through a session of [screening](/wiki/Tournaments/Official_support#tournament-screening) held by the Tournament Management.
+- Every registering participant will be required to go through [tournament screening](/wiki/Tournaments/Official_support#tournament-screening).
 
 ### General rules
 
 - Matches will be held every Saturday and Sunday.
 - The scoring system for this tournament is Score V2.
-- The corresponding mappools for each round are going to be **announced by the staff** every Sunday after the previous round is over.
+- The corresponding mappools for each round will be **announced by staff** every Sunday after the previous round is over.
 - All players are advised to **have all maps from the mappool ready** before the match starts.
 - If there is no referee during match time, players are expected to inform an **organiser** in due time.
 - Participants are expected to **show up on time** according to the schedule.
 - The staff can only give a delay of **10 minutes**.
 - If a player has a connection problem which caused them to be disconnected from the match, then the decision will be **determined by the referee** which is **absolute**.
-- Players must follow the [rules](/wiki/Rules) that has been set by the game.
+- Players must follow the osu! [rules](/wiki/Rules).
 
-### Match regulation
+### Match regulations
 
-- All players who are deemed eligible for the tournament will enter the Qualifiers round.
-- Each lobby contains a maximum of 8 players in the Qualifiers round.
+- All players who are deemed eligible for the tournament will enter Qualifiers.
+- Each lobby contains a maximum of 8 players in the Qualifiers.
 - Players are allowed to use visual mods such as (HD), Flashlight (FL), Fade In (FI), and Mirror (MR).
-- Players will play 2 maps for a warm-up session that had been selected by the player that rolled the highest.
+- Players will play 2 warm-up maps selected by the player that rolled the highest.
 
 #### Qualifiers
 
-- The maximum number of players to enter the next round is 32 players.
-- In the Qualifiers round there will be 5 maps in the mappool that have different skillsets, all of these maps will be selected by the mappool selector.
-- All players will have 2 chances to play in each map, which means a total of 10 songs played.
-- The highest score played for each beatmap will be counted and the Qualifiers score will be accumulated based on the comparison of scores of other players.
-- After the Qualifiers round ends there will be a distribution of players based on seed.
-  - The function of seed is for the distribution of the next round, where players are randomized based on different seed.
+- A maximum of 32 players will enter the next stage.
+- In the Qualifiers there will be 5 maps in the mappool with different skillsets.
+- Each map will be played twice.
+- The highest score for each beatmap will be counted and the Qualifiers score will be accumulated based on the comparison of scores to other players.
+- After the Qualifiers end there will be a distribution of players based on seed.
+  - The function of seed is for the distribution of the next round, where players are placed based on different seed.
   - Seed distribution is based on the player's position in the Qualifiers:
-    - 1 - 8: Top Seed
-    - 9 - 16: High Seed
-    - 17 - 24: Medium Seed
-    - 25 - 32: Low Seed
+    - 1-8: Top seed
+    - 9-16: High seed
+    - 17-24: Medium seed
+    - 25-32: Low seed
 
 #### Round of 32 until Grand Final
 
-- If one of the players is not present, then the player who is present in the match will be declared **winner (*win by default*)**.
-  - Before the game starts, players will roll first. Players who win in the roll can choose **to protect or ban** first and followed by the player who lost the roll. After both players have determined the map that is protected and banned, the player will choose the map that is going to be played.
+- If one of the players is not present, then the player who is present in the match will win by default.
+  - Before the game starts, the players will `!roll` first. The players who **wins** in the `!roll` can choose **to protect or ban first**. After both players have determined which maps are protected and banned, the first player will choose the map that is going to be played.
   - If both players got the same score, then **the match will be replayed using the same map**.
-  - The Tiebreaker map is played when both players get a difference of one in point with the winning points that **should have gotten** to **win the match**.
+  - The tiebreaker map is played when both players get a difference of one in point with the winning points that **should have gotten** to **win the match**.
 - The mappool composition for each round in the knockout phase is as follows:
-  - Round of 32 : Best of 7 (Total of 10 Maps, 1 TieBreak)
-  - Round of 16 : Best of 9 (Total of 11 Maps, 1 TieBreak)
-  - Quarterfinal : Best of 11 (Total of 13 Maps, 1 TieBreak)
-  - Semifinal : Best of 11 (Total of 15 Maps, 1 TieBreak)
-  - Final - Grand Final : Best of 13 (Total 15 Maps, 1 TieBreak)
-- Starting from the Bracket Stage, a **double elimination*** system will be used, the system works as follows:
-  - Player who loses in the bracket will enter the losers bracket (a special bracket for players who have already lost **one time**).
-  - If the player loses again in the losers bracket, then the player will be **eliminated from the tournament**.
+  - Round of 32 : Best of 7 (10 maps, including 1 tiebreaker)
+  - Round of 16 : Best of 9 (11 maps, including 1 tiebreaker)
+  - Quarterfinal : Best of 11 (13 maps, including 1 tiebreaker)
+  - Semifinal : Best of 11 (15 maps, including 1 tiebreaker)
+  - Final – Grand Final : Best of 13 (15 maps, including 1 tiebreaker)
+- Starting from the Bracket Stage, a **double-elimination*** format will be used, which works as follows:
+  - A player who loses in the winners' bracket will enter the losers' bracket (a special bracket for players who have already lost **one time**).
+  - If the player loses again in the losers' bracket, then the player will be **eliminated from the tournament**.
