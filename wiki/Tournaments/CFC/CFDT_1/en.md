@@ -15,11 +15,10 @@ The **Catch French Dual Tournament** (***CFDT***) was a French double-eliminatio
 | Registration phase | 2021-04-11/2021-04-25 |
 | Screening phase | 2021-04-25/2021-05-02 |
 | Qualifiers | 2021-05-08/2021-05/09 |
-| Round of 16 | 2021-05-15/2021-05-16 |
-| Quarterfinals | 2021-05-22/2021-05-23 |
-| Semifinals | 2021-05-29/2021-05-30 |
-| Finals | 2021-06-05/2021-06-06 |
-| Grand Finals | 2021-06-12/2021-06-13 |
+| Quarterfinals | 2021-05-15/2021-05-16 |
+| Semifinals | 2021-05-22/2021-05-23 |
+| Finals | 2021-05-29 |
+| Grand Finals | 2021-06-05 |
 
 ## Prizes
 
@@ -64,8 +63,8 @@ The Catch French Dual Tournament was run by various community members.
 | **Cuties** | ::{ flag=FR }:: **[AgentYous](https://osu.ppy.sh/users/255854)**, ::{ flag=LU }:: [Melodies](https://osu.ppy.sh/users/7787785) |
 | **les bg** | ::{ flag=FR }:: **[Realmas](https://osu.ppy.sh/users/6567640)**, ::{ flag=BE }:: [Cakenoob](https://osu.ppy.sh/users/6045522) |
 | **Nameless** | ::{ flag=FR }:: **[Akan0o](https://osu.ppy.sh/users/11286034)** |
-| **Noctalium** | ::{ flag=FR }:: **[Noctalium](https://osu.ppy.sh/users/6488167)**, ::{ flag=FR }:: [Shamookie](https://osu.ppy.sh/users/12441210) |
 | **Oask'eyeS** | ::{ flag=FR }:: **[Dask](https://osu.ppy.sh/users/4151397)**, ::{ flag=FR }:: [Oasix](https://osu.ppy.sh/users/6183012) |
+| **Rocma Fanclub** | ::{ flag=FR }:: **[Noctalium](https://osu.ppy.sh/users/6488167)**, ::{ flag=FR }:: [Shamookie](https://osu.ppy.sh/users/12441210) |
 | **Stacker King** | ::{ flag=FR }:: **[Kasumi-sama](https://osu.ppy.sh/users/6177263)**, ::{ flag=FR }:: [Un bretzel](https://osu.ppy.sh/users/1542565) |
 | **TheFramazing** | ::{ flag=FR }:: **[TheFrozenGamer](https://osu.ppy.sh/users/2756781)**, ::{ flag=FR }:: [TheAmazing976\_](https://osu.ppy.sh/users/13984214) |
 
@@ -197,49 +196,61 @@ The Catch French Dual Tournament was run by various community members.
 
 ## Match results
 
+### Grand Finals
+
+Saturday, 5 June 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Nameless** | **7** | 4 | les bg | [#1](https://osu.ppy.sh/community/matches/84975189) |
+
+### Finals
+
+Saturday, 29 May 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **les bg** | **7** | 3 | CFIC1 group B High/Top seed | [#1](https://osu.ppy.sh/community/matches/84483781) |
+| Oask'eyeS | 2 | **7** | **Nameless** | [#1](https://osu.ppy.sh/community/matches/84487075) |
+| Oask'eyeS | 4 | **7** | **les bg** | [#1](https://osu.ppy.sh/community/matches/84494123) |
+
+### Semifinals
+
+Saturday, 22 May 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Nameless** | **6** | 0 | les bg | [#1](https://osu.ppy.sh/community/matches/83950616) |
+| **les bg** | **6** | 2 | TheFramazing | [#1](https://osu.ppy.sh/community/matches/83956893) |
+| Convert players but no fc | 0 | **6** | **Oask'eyeS** | [#1](https://osu.ppy.sh/community/matches/83980455) |
+
+Sunday, 23 May 2021:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Convert player but no fc | 3 | **6** | **CFIC1 group B High/Top seed** | [#1](https://osu.ppy.sh/community/matches/84032739) |
+
 ### Quarterfinals
 
-Saturday, 3 September 2021:
+Saturday, 15 May 2021:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Red Hawk | -1 | **0** | **JP DANS DA TOURNOI** | *win by default* |
+| **Oask'eyeS** | **5** | 2 | TheFramazing | [#1](https://osu.ppy.sh/community/matches/83397766) |
+| **Nameless** | **5** | 1 | Rocma Fanclub | [#1](https://osu.ppy.sh/community/matches/83401025) |
 
-Sunday, 4 September 2021:
-
-| Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| dégénéré | 0 | **5** | **Timezone diff** | [#1](https://osu.ppy.sh/community/matches/103560540) |
-| **:pleading_face:** | **0** | -1 | French Penguins | *win by default* |
-| **FR X US coalition** | **5** | 1 | Florika | [#1](https://osu.ppy.sh/community/matches/103563124) |
-| Black Ice | 3 | **5** | **:nanasmil:** | [#1](https://osu.ppy.sh/community/matches/103563162) |
-| **5€** | **5** | 0 | Taco w/ Baguette | [#1](https://osu.ppy.sh/community/matches/103565414) |
-| **Not French** | **0** | -1 | hecatia fanclub | *win by default* |
-| **Quesedilla avec les frites BELGES** | **5** | 0 | Le Grand Jordan23 | [#1](https://osu.ppy.sh/community/matches/103569382) |
-
-### Round of 16
-
-Saturday, 27 August 2021:
+Sunday, 16 May 2021:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Timezone diff | 0 | **4** | **Taco w/ Baguette** | [#1](https://osu.ppy.sh/community/matches/103372604) |
-| **:pleading_face:** | **4** | 0 | Red Hawk | [#1](https://osu.ppy.sh/community/matches/103371867) |
-| **French Penguins** | **0** | -1 | JP DANS DA TOURNOI | *win by default* |
-| **Quesedilla avec les frites BELGES** | **4** | 0 | Not French | [#1](https://osu.ppy.sh/community/matches/103380321) |
-| **Le Grand Jordan23** | **4** | 2 | hecatia fanclub | [#1](https://osu.ppy.sh/community/matches/103380401 ) |
-
-Sunday, 28 August 2021:
-
-| Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **5€** | **4** | 0 | dégénéré | [#1](https://osu.ppy.sh/community/matches/103395751) |
-| **Florika** | **4** | 0 | :nanasmil: | [#1](https://osu.ppy.sh/community/matches/103395635) |
-| **FR X US coalition** | **4** | 1 | Black Ice | [#1](https://osu.ppy.sh/community/matches/103398198) |
+| **Convert players but no fc** | **5** | 3 | Cuties | [#1](https://osu.ppy.sh/community/matches/83477551) |
+| Cuties | 4 | **5** | **TheFramazing** | [#1](https://osu.ppy.sh/community/matches/83480808) |
+| **les bg** | **5** | 2 | CFIC1 group B High/Top seed | [#1](https://osu.ppy.sh/community/matches/83484015) |
+| Rocma Fanclub | 1 | **5** | **CFIC1 group B High/Top seed** | [#1](https://osu.ppy.sh/community/matches/83490594) |
 
 ### Qualifiers
 
-Detailed statistics for this round can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1XAdGOnI3yZ1-i_5AOdsZZong_EwiV_S2AjzxxQOdFwg/edit) alongside the final standings on which team made it through to the next stage.
+*Qualifiers match result is unavailable, due to lack of documentation.*
 
 ## Ruleset
 
