@@ -355,7 +355,7 @@ Saturday, 29 June 2019:
 
 | Group | Players | Match Link |
 | :-: | :-- | :-: |
-| **Group A** | ::{ flag=ID }:: [2ndlegend](https://osu.ppy.sh/users/7621604) (14 Point), ::{ flag=ID }:: [Onii\_ue](https://osu.ppy.sh/users/12471868) (13 Point), ::{ flag=ID }:: [World_Disaster](https://osu.ppy.sh/users/10666064) (5 Point), ::{ flag=ID }:: [XnoxID](https://osu.ppy.sh/users/13605876) (4 Point), ::{ flag=ID }:: [CrashOOF](https://osu.ppy.sh/users/13788391) (0 Point) | [#1](https://osu.ppy.sh/community/matches/52988947) |
+| **Group A** | ::{ flag=ID }:: [2ndlegend](https://osu.ppy.sh/users/7621604) (14 points), ::{ flag=ID }:: [Onii\_ue](https://osu.ppy.sh/users/12471868) (13 points), ::{ flag=ID }:: [World_Disaster](https://osu.ppy.sh/users/10666064) (5 points), ::{ flag=ID }:: [XnoxID](https://osu.ppy.sh/users/13605876) (4 points), ::{ flag=ID }:: [CrashOOF](https://osu.ppy.sh/users/13788391) (0 points) | [#1](https://osu.ppy.sh/community/matches/52988947) |
 | **Group B** | ::{ flag=ID }:: [Zero\[13\]](https://osu.ppy.sh/users/13942350) (14 Point), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304) (7 Poin, Memenangkan Tiebreaker), ::{ flag=ID }:: [Fazurey](https://osu.ppy.sh/users/6548973) (7 Point), ::{ flag=ID }:: [JintanSama](https://osu.ppy.sh/users/12652371) (4 Point), ::{ flag=ID }:: [BIMZ](https://osu.ppy.sh/users/9037581) (4 Point) | [#1](https://osu.ppy.sh/community/matches/53011613) |
 | **Group C** | ::{ flag=ID }:: [\[KonG-69\]](https://osu.ppy.sh/users/8847412) (14 Point), ::{ flag=ID }:: [rizki20](https://osu.ppy.sh/users/6523286) (12 Point), ::{ flag=ID }:: [-MyLoveIka-](https://osu.ppy.sh/users/12039798) (6 Point), ::{ flag=ID }:: [Vels](https://osu.ppy.sh/users/5319494) (3 Point), ::{ flag=ID }:: [ElinLYPK](https://osu.ppy.sh/users/5198950) (1 Point) | [#1](https://osu.ppy.sh/community/matches/52985075) |
 | **Group D** | ::{ flag=ID }:: [StyxFearNite](https://osu.ppy.sh/users/8390933) (15 Point), ::{ flag=ID }:: [budiex112](https://osu.ppy.sh/users/8867693) (14 Point), ::{ flag=ID }:: [agung0210](https://osu.ppy.sh/users/4663559) (7 Point), ::{ flag=ID }:: [Kawaisou-](https://osu.ppy.sh/users/11248741) (0 Point), ::{ flag=ID }:: [Ihram-San](https://osu.ppy.sh/users/9908055) (0 Point) | [#1](https://osu.ppy.sh/community/matches/52987435) |
@@ -437,10 +437,10 @@ Saturday, 29 June 2019:
   - If both players got the same score, then **the match will be replayed using the same map**.
   - The tiebreaker map is played when both players have the same amount of points and 1 more point is required to **win the match** by either player.
 - **Mappools format from Group Distribution stage**
-  - Group Distribution Stage: Best of 7 (10 Maps, including 1 tiebreak)
+  - Group Distribution Stage: Best of 7 (10 Maps, including 1 tiebreaker)
   - Round of 16 – Quarterfinal: Best of 9 (12 maps, including 1 tiebreaker)
   - Semifinal: Best of 11 (14 maps, including 1 tiebreaker)
-  - Final - Grand Final: Best of 13 (16 maps, including 1 tiebreaker)
+  - Final – Grand Final: Best of 13 (16 maps, including 1 tiebreaker)
 - Starting from the Bracket Stage, a **double-elimination*** format will be used, which works as follows:
   - A player who loses in the winners' bracket will enter the losers' bracket (a special bracket for players who have already lost **one time**).
   - If the player loses again in the losers' bracket, then the player will be **eliminated from the tournament**.
