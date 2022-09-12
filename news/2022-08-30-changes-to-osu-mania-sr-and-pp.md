@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Changes to osu!mania Performance Points & Star Rating"
+title: "Changes to osu!mania Star Rating & Performance Points"
 date: 2022-08-30 12:00:00 +0000
 ---
 
