@@ -257,15 +257,14 @@ Sunday, 16 May 2021:
 ### General rules
 
 1. A valid team formation will be:
-   - A participant with rank range between #1 and #500
-   - A participant with rank range below #501
-   - One of the participant must be able to speak french or has a french flag in their profile
+   - A participant with rank range between #100 and #799
+   - A participant with rank range between #800 and #2,999
 2. The Score System used will be **Score V2**.
 3. Failed scores count, with that NoFail will be enforced for everyone
 4. If team can't attend within the span of **10 minutes**, the other team will win by default.
 5. Regarding map bans, the amount of map should be banned are as follows:
-   - In the Quarterfinals and Semifinals, each team will ban 1 map per match.
-   - In the Finals and Grand Finals, each team will ban 2 maps per match.
+   - In the Quarterfinals and Semifinals, each team will ban 1 map per match
+   - In the Finals and Grand Finals, each team will ban 2 maps per match
 6. Teams are allowed to submit their warmup which must not exceed the **4:00** mark.
 7. Teams will do `!roll` at the start of the match to determine the order of who picks and bann first.
    - Team with higher roll will pick first and bann second
