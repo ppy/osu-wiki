@@ -53,7 +53,7 @@ The osu! Battle Archive Malaysia 2022 is run by various community members.
 | Seed No. | Team | Members | Z-Sum |
 | :-: | :-- | :-- | :-- |
 | 1 | **sturrige curry** | ::{ flag=MY }:: **[DuoX](https://osu.ppy.sh/users/9560694)**, ::{ flag=ID }:: [i love uma](https://osu.ppy.sh/users/7108275) | 16.43 |
-| 2 | **Anti-Cunny Action** | ::{ flag=MY }:: **[not_aweeb](https://osu.ppy.sh/users/9375317)**, ::{ flag=ID }:: [Rexeez](https://osu.ppy.sh/users/1987591) | 15.26 |
+| 2 | **Anti-Cunny Action** | ::{ flag=MY }:: **[not\_aweeb](https://osu.ppy.sh/users/9375317)**, ::{ flag=ID }:: [Rexeez](https://osu.ppy.sh/users/1987591) | 15.26 |
 | 3 | **Diggas in paris** | ::{ flag=MY }:: **[Zeph2003](https://osu.ppy.sh/users/10343292)**, ::{ flag=SG }:: [Dawnwing](https://osu.ppy.sh/users/5144534) | 14.26 |
 | 4 | **kinda hot tho** | ::{ flag=MY }:: **[Ryouuta](https://osu.ppy.sh/users/15020799)**, ::{ flag=VN }:: [[sin]](https://osu.ppy.sh/users/11021073) | 13.59 |
 | 5 | **ENERGY GAP** | ::{ flag=MY }:: **[milo Penguin](https://osu.ppy.sh/users/10702232)**, ::{ flag=SG }:: [megumic](https://osu.ppy.sh/users/7537133) | 13.04 |
@@ -63,14 +63,14 @@ The osu! Battle Archive Malaysia 2022 is run by various community members.
 | 9 | **Where Love Lies** | ::{ flag=MY }:: **[Tokino Sora](https://osu.ppy.sh/users/6996926)**, ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956) | 10.39 |
 | 10 | **The Cunnysseurs** | ::{ flag=MY }:: **[Blethz](https://osu.ppy.sh/users/11918602)**, ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131) | 5.88 |
 | 11 | **Flover** | ::{ flag=MY }:: **[heyimcrunchy](https://osu.ppy.sh/users/13067221)**, ::{ flag=SG }:: [Hecatia](https://osu.ppy.sh/users/8244635) | 4.65 |
-| 12 | **osu retirement** | ::{ flag=MY }:: **[iraozm](https://osu.ppy.sh/users/12443104)**, ::{ flag=TH }:: [_Arigato](https://osu.ppy.sh/users/9317938) | 4.57 |
+| 12 | **osu retirement** | ::{ flag=MY }:: **[iraozm](https://osu.ppy.sh/users/12443104)**, ::{ flag=TH }:: [\_Arigato](https://osu.ppy.sh/users/9317938) | 4.57 |
 | 13 | **yes seggs** | ::{ flag=MY }:: **[Chiyuu](https://osu.ppy.sh/users/8226107)**, ::{ flag=MY }:: [Zygody](https://osu.ppy.sh/users/3677251) | 3.57 |
 | 14 | **Dreamy Color** | ::{ flag=MY }:: **[Jolene](https://osu.ppy.sh/users/13626098)**, ::{ flag=MY }:: [Chibi Maruko](https://osu.ppy.sh/users/5585377) | 3.40 |
 | 15 | **Vanity** | ::{ flag=MY }:: **[Inugami Korone](https://osu.ppy.sh/users/4474918)**, ::{ flag=MY }:: [Mumei Nanashi](https://osu.ppy.sh/users/5414124) | 1.87 |
 | 16 | **chungus capoo** | ::{ flag=MY }:: **[GKen](https://osu.ppy.sh/users/12633052)**, ::{ flag=VN }:: [realshin](https://osu.ppy.sh/users/8006029) | 0.52 |
-| 17 | **openureyesyouwillsee** | ::{ flag=MY }:: **[Judicious](https://osu.ppy.sh/users/8087710)**, ::{ flag=SG }:: [_gt](https://osu.ppy.sh/users/8301957) | -1.19 |
+| 17 | **openureyesyouwillsee** | ::{ flag=MY }:: **[Judicious](https://osu.ppy.sh/users/8087710)**, ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957) | -1.19 |
 | 18 | **NAJIB FANCLUB** | ::{ flag=MY }:: **[Hu_Ai](https://osu.ppy.sh/users/10910261)**, ::{ flag=SG }:: [JokThree](https://osu.ppy.sh/users/7713152) | -1.49 |
-| 19 | **Offensize Name** | ::{ flag=MY }:: **[rhatson](https://osu.ppy.sh/users/14826877)**, ::{ flag=TH }:: [heathenz_](https://osu.ppy.sh/users/14180969) | -1.51 |
+| 19 | **Offensize Name** | ::{ flag=MY }:: **[rhatson](https://osu.ppy.sh/users/14826877)**, ::{ flag=TH }:: [heathenz\_](https://osu.ppy.sh/users/14180969) | -1.51 |
 | 20 | **koko soko asoko** | ::{ flag=MY }:: **[RyzenPP](https://osu.ppy.sh/users/16391241)**, ::{ flag=MY }:: [Tengkosu](https://osu.ppy.sh/users/17724583) | -1.68 |
 | 21 | **LENG ZAI** | ::{ flag=MY }:: **[GodKnows](https://osu.ppy.sh/users/11058193)**, ::{ flag=SG }:: [Eagle5324](https://osu.ppy.sh/users/11987104) | -1.77 |
 | 22 | **shiroko's bicycle** | ::{ flag=MY }:: **[AkariAoi](https://osu.ppy.sh/users/14067834)**, ::{ flag=SG }:: [Anderwear](https://osu.ppy.sh/users/14429830) | -2.76 |
@@ -83,7 +83,7 @@ The osu! Battle Archive Malaysia 2022 is run by various community members.
 | 29 | **Ikan** | ::{ flag=MY }:: **[-quack](https://osu.ppy.sh/users/16502529)**, ::{ flag=MY }:: [Izayoii](https://osu.ppy.sh/users/15542056) | -6.96 |
 | 30 | **Mandekissafriend** | ::{ flag=MY }:: **[Ookami Mion](https://osu.ppy.sh/users/8009988)**, ::{ flag=MY }:: [Hachune Miku](https://osu.ppy.sh/users/10584780) | -7.7 |
 | 31 | **Marv and Willy show** | ::{ flag=MY }:: **[Its not Marvin](https://osu.ppy.sh/users/13600612)**, ::{ flag=MY }:: [Hanami-](https://osu.ppy.sh/users/8703188) | -8.03 |
-| 32 | **AMOGUS SUSSY BAKA S_** | ::{ flag=MY }:: **[Lollicornzi](https://osu.ppy.sh/users/14454744)**, ::{ flag=MY }:: [cherry sweet](https://osu.ppy.sh/users/12079158) | -8.05 |
+| 32 | **AMOGUS SUSSY BAKA S\_** | ::{ flag=MY }:: **[Lollicornzi](https://osu.ppy.sh/users/14454744)**, ::{ flag=MY }:: [cherry sweet](https://osu.ppy.sh/users/12079158) | -8.05 |
 
 ## Groups
 
@@ -94,7 +94,7 @@ The osu! Battle Archive Malaysia 2022 is run by various community members.
 | **C** | Miyu Archive | chungus capoo | Offensize Name | Marv and Willy show |
 | **D** | RUDOLF ENJOYERS | yes seggs | koko soko asoko | Can We Get Much Higher |
 | **E** | Diggas in paris | The Cunnysseurs | openureyesyouwillsee | Japanese Goblin |
-| **F** | Cat Enjoyer | Vanity | NAJIB FANCLUB | AMOGUS SUSSY BAKA S_ |
+| **F** | Cat Enjoyer | Vanity | NAJIB FANCLUB | AMOGUS SUSSY BAKA S\_ |
 | **G** | sturrige curry | Where Love Lies | The Platinum Wok | Ikan |
 | **H** | Anti-Cunny Action | osu retirement | shiroko's bicycle | Mandekissafriend |
 
@@ -107,15 +107,15 @@ The osu! Battle Archive Malaysia 2022 is run by various community members.
 - NoMod
   1. [Feryquitous feat. Aitsuki Nakuru - Bascor (Seolv) \[Glorious Collab\]](https://osu.ppy.sh/beatmapsets/1090138#osu/2278971)
   2. [Roselia - Charles (Yugu) \[kanor's Rua^\]](https://osu.ppy.sh/beatmapsets/839553#osu/1758680)
-  3. [Hatsuki Yura - Halloween of the Dead 2(Elayue) \[Happy Halloween\]](https://osu.ppy.sh/beatmapsets/1542855#osu/3153693)
+  3. [Hatsuki Yura - Halloween of the Dead 2 (Elayue) \[Happy Halloween\]](https://osu.ppy.sh/beatmapsets/1542855#osu/3153693)
   4. [Mitsukiyo - Hifumi Daisuki (Amateurre) \[Extraordinary\]](https://osu.ppy.sh/beatmapsets/1829914#osu/3755787)
-  5. [brz1128 vs. M-UE - Bloody Marquis(Athanasia-) \[Athanasia's Extra\]](https://osu.ppy.sh/beatmapsets/1783848#osu/3653240)
-  6. [KAF feat. KAFU - phony(Astrolis) \[Sayonara\]](https://osu.ppy.sh/beatmapsets/1654426#osu/3376899)
+  5. [brz1128 vs. M-UE - Bloody Marquis (Athanasia-) \[Athanasia's Extra\]](https://osu.ppy.sh/beatmapsets/1783848#osu/3653240)
+  6. [KAF feat. KAFU - phony (Astrolis) \[Sayonara\]](https://osu.ppy.sh/beatmapsets/1654426#osu/3376899)
 - Hidden
   1. [xi - Parousia (Niva) \[Eschatology (AR8.5)\]](https://osu.ppy.sh/beatmapsets/1713530#osu/3501365)
 - HardRock
   1. [Mifune Shioriko (CV: Koizumi Moeka) - Aoi Canaria (Murada-) \[True Freedom\]](https://osu.ppy.sh/beatmapsets/1706527#osu/3487001)
-  2. [solfa - Yami no Rinne (feat. yuki)(LMT) \[Allure of Darkness\]](https://osu.ppy.sh/beatmapsets/1739716#osu/3555764)
+  2. [solfa - Yami no Rinne (feat. yuki) (LMT) \[Allure of Darkness\]](https://osu.ppy.sh/beatmapsets/1739716#osu/3555764)
 - DoubleTime
   1. [Harumaki Gohan - Saikai (AirinCat) \[Fujirin's Insane\]](https://osu.ppy.sh/beatmapsets/1602654#osu/3312899)
   2. [NIKITA - ELECTRiCiTY (Rokkea) \[Another\]](https://osu.ppy.sh/beatmapsets/241372#osu/640771)
@@ -124,7 +124,7 @@ The osu! Battle Archive Malaysia 2022 is run by various community members.
   1. [Yellow Zebra - Orange Diz (Frill) \[gow's Insane\]](https://osu.ppy.sh/beatmapsets/17306#osu/73514)
 - FreeMod
   1. [DJ Sharpnel - Marunouchi survivor (ampzz) \[GALV'S SENRYAKU!!\]](https://osu.ppy.sh/beatmapsets/113330#osu/294015)
-  2. [yuki - Clammbon (Short Ver.)(Garden) \[Insane\]](https://osu.ppy.sh/beatmapsets/1707693#osu/3489464)
+  2. [yuki - Clammbon (Short Ver.) (Garden) \[Insane\]](https://osu.ppy.sh/beatmapsets/1707693#osu/3489464)
 
 ### Qualifiers
 
