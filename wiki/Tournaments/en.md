@@ -573,7 +573,7 @@ Unofficial tournaments/competitions hosted by the communities.
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| 4 Digit osu!mania World Cup | 2019-06-03 | 2019-07-27 | ::{ flag=US }:: United States | ::{ flag=AR }:: Argentina | ::{ flag=PH }:: Philippines |
+| [4 Digit osu!mania World Cup](4DM/1) | 2019-06-07 | 2019-07-27 | ::{ flag=US }:: United States | ::{ flag=AR }:: Argentina | ::{ flag=PH }:: Philippines |
 | [4 Digit osu!mania World Cup 2](4DM/2) | 2020-02-15 | 2020-03-28 | ::{ flag=US }:: United States | ::{ flag=AR }:: Argentina | ::{ flag=PH }:: Philippines |
 | [4 Digit osu!mania World Cup 3](4DM/3) | 2021-01-23 | 2021-03-07 | ::{ flag=PH }:: Philippines | ::{ flag=MY }:: Malaysia | ::{ flag=BR }:: Brazil |
 | [4 Digit osu!mania World Cup 4](4DM/4) | 2022-01-08 | 2022-02-20 | ::{ flag=FR }:: France | ::{ flag=TH }:: Thailand | ::{ flag=PE }:: Peru |
