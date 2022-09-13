@@ -62,18 +62,18 @@ L'osu! wiki est intégré au site web d'osu!, ce qui signifie que toutes les dem
 
 Certaines fonctionnalités ne sont pas directement liées au site web d'osu!, mais peuvent être utiles pour contribuer ou faire le ménage. Dans ce cas, elles sont implémentées par des personnes capables de le faire et ne sont **pas** ajoutées au site web directement :
 
-- [osu-wiki status](https://clayton.cc/osu-wiki-status/fr) : liste des articles par langue, et la catégorie de maintenance qu'ils requièrent (traduction, mise à jour). Voir [ppy/osu-wiki#2486](https://github.com/ppy/osu-wiki/issues/2486) pour les demandes de fonctionnalités.
+- [osu-wiki status](https://osu.wiki/status/fr) : liste des articles par langue, et la catégorie de maintenance qu'ils requièrent (traduction, mise à jour). Voir [ppy/osu-wiki#2486](https://github.com/ppy/osu-wiki/issues/2486) pour les demandes de fonctionnalités.
 - [osu-wiki-bin](https://github.com/cl8n/osu-wiki-bin) : un utilitaire Node.js pour les vérifications et les modifications automatisées (liens cassés, mises à jour des groupes d'utilisateurs, remplacement de textes à l'échelle du wiki, etc.)
 
 ## Routines
 
-*Remarque : le site [osu-wiki status](https://clayton.cc/osu-wiki-status/fr) présente une liste de tous les articles nécessitant une maintenance, classés par catégorie.*
+*Remarque : le site [osu-wiki status](https://osu.wiki/status/fr) présente une liste de tous les articles nécessitant une maintenance, classés par catégorie.*
 
 Le wiki repose sur les contributions de la communauté d'osu!. Vous pouvez aider les maintainers et les autres contributeurs en faisant votre part. Pour savoir comment faire, lisez le [guide de contribution](/wiki/osu!_wiki/Contribution_guide). Si vous êtes bloqué, demandez de l'aide sur le salon `#osu-wiki` du [serveur Discord osu!dev](/wiki/Community/osu!dev_Discord_server).
 
 ### Traductions
 
-*Pour une liste des traductions à faire, voir : [osu-wiki status](https://clayton.cc/osu-wiki-status/en)*
+*Pour une liste des traductions à faire, voir : [osu-wiki status](https://osu.wiki/status/en)*
 
 L'osu! wiki est lu par des gens du monde entier. Pour aider votre communauté locale et attirer de nouveaux joueurs, mappeurs, moddeurs et développeurs géniaux dans le jeu, vous pouvez traduire les articles anglais ou mettre à jour les traductions existantes qui ont pris du retard. Consultez la [liste des langues](/wiki/Article_styling_criteria/Formatting#locales) prises en charge par l'osu! wiki et assurez-vous que votre traduction respecte le principe de [parité de contenu](/wiki/Article_styling_criteria/Writing#parité-de-contenu). Si vous êtes un utilisateur courant et un rédacteur expérimenté, prenez en charge des sujets clés tels que des articles sur les [règles](https://github.com/ppy/osu-wiki/tree/master/wiki/Rules) ou les [critères de classement](https://github.com/ppy/osu-wiki/tree/master/wiki/Ranking_Criteria). Si vous débutez votre carrière de rédacteur, choisissez un petit article pour recevoir l'aide et les conseils de réviseurs natifs.
 
