@@ -1,6 +1,6 @@
 # Beatmapping
 
-Beatmapping is het proces van het maken van [beatmaps](/wiki/Beatmap) in osu! voor spelers om te spelen. Dit proces bestaat uit het kiezen van een song, [timing](/wiki/Client/Beatmap_editor/Timing), het plaatsen van [objecten](/wiki/Hit_object) en (optioneel) skinnen en [storyboarden](/wiki/Storyboard).
+Beatmapping is het proces van het maken van [beatmaps](/wiki/Beatmap) in osu! voor spelers om te spelen. Dit proces bestaat uit het kiezen van een song, [timing](/wiki/Client/Beatmap_editor/Timing), het plaatsen van [objecten](/wiki/Hit_object) en (optioneel) [skinnen](/wiki/Skinning) en [storyboarden](/wiki/Storyboard).
 
 Mappers hebben vaak als doel om hun beatmaps [ranked](/wiki/Beatmap) te krijgen. Wat betekent dat ze door de [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure) moeten.
 
@@ -8,7 +8,7 @@ osu! is een op ritme gebaseerde game, het nummer/muziek die je gekozen hebt om t
 
 ## Aan de slag
 
-Om een nieuwe beatmap te maken moet je naar de edit mode gaan en een audiobestand in osu! slepen. (Als alternatief kun je ook een audiobestand in de `Songs` folder plaatsen.) Als je dat gedaan hebt hoort het bestand geopend te worden en je naar het bewerkscherm te sturen. Je nieuwe nummer is nu beschikbaar onderaan je nummers en is gemarkeerd in het paars. Als je jouw eigen nummer niet ziet, druk op `F5` om de beatmap cache te verversen. Klik op je nummer, dit opent de beatmap editor en het `Song Setup` dialoogvenster.
+Om een nieuwe beatmap te maken moet je naar de edit mode gaan en een audiobestand in osu! slepen. (Als alternatief kun je ook een audiobestand in de `Songs` folder plaatsen.) Als je dat gedaan hebt hoort het bestand geopend te worden en je naar het bewerkscherm te sturen. Je nieuwe nummer is nu beschikbaar onderaan je nummers en is gemarkeerd in het paars. Als je jouw eigen nummer niet ziet, druk op `F5` om de beatmap cache te verversen. Klik op je nummer, dit opent de [beatmap editor](/wiki/Client/Beatmap_editor) en het `Song Setup` dialoogvenster.
 
 ### Song Setup
 
