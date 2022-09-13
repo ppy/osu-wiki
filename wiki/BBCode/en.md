@@ -187,7 +187,7 @@ The `[profile]` tag is used to link to a user's osu! profile page by using their
 
 *Note: The user ID is a string of numbers that directly follow the `/users/` in the URL of an osu! profile page.*
 
-If specified through their user ID, the text between the open and closed tags will not be parsed and will instead display as the user's current username. In case there is no text between the open and closed tags specified, the link to the user profile will not be generated correctly. However, if the profile page is specified only through a username, and said user changes their username, the link will cease to function.
+When specifying users only by their user IDs, a placeholder text is required between the open and closed tags. Doing so will display the username on the actual page, not the placeholder text. When specifying users only by their username, the link will not function once they change their username.
 
 ### Formatted lists
 
@@ -201,7 +201,7 @@ If specified through their user ID, the text between the open and closed tags wi
 
 The `[list]` tag is used to automatically format two different types of lists throughout the osu! forums by using an asterisk enclosed in brackets (`[*]`) to indicate a new item in the list (shown above). By default, this will create a plain, bulleted list.
 
-If the `TYPE` argument is specified as `1`, it will create a numbered list.
+If the `TYPE` argument is specified (the actual value doesn't matter), it will create a numbered list.
 
 *Notice: BBCode-formatted lists can be stacked on top of each other and placed inside one another, although this has been known to cause issues with formatting.*
 
