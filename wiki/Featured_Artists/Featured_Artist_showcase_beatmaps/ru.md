@@ -1,3 +1,8 @@
+---
+outdated_since: 8ba80c156e8f45b412b5e33664d8eb1613901542
+outdated_translation: true
+---
+
 # Промо-карты Featured Artist
 
 Мапперы из [Mappers' Guild](/wiki/Community/Mappers_Guild) время от времени создают эксклюзивные карты на песни ещё не опубликованных исполнителей из списка [Featured Artists](/wiki/Featured_Artists). Эти карты впоследствии упоминаются в [новостях](https://osu.ppy.sh/home/news) с анонсами соответствующих музыкантов, а также часто рекламируются в [твиттере @osugame](https://twitter.com/osugame).
