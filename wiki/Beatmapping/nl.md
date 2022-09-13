@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Beatmapping
 
 Beatmapping is het proces van het maken van [beatmaps](/wiki/Beatmap) in osu! voor spelers om te spelen. Dit proces bestaat uit het kiezen van een song, [timing](/wiki/Client/Beatmap_editor/Timing), het plaatsen van [objecten](/wiki/Hit_object) en (optioneel) [skinnen](/wiki/Skinning) en [storyboarden](/wiki/Storyboard).
