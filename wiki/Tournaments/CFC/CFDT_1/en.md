@@ -30,7 +30,7 @@ The **Catch French Dual Tournament** (***CFDT***) was a French double-eliminatio
 
 ![](img/badge.jpg "CFDT winner badge")
 
-Generous donation from ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012), ::{ flag=FR }:: [MitsukeZ](https://osu.ppy.sh/users/12943161), ::{ flag=FR }:: [JustinBrizou](https://osu.ppy.sh/users/21879889), and ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467) helped fund some of the prizes.
+Generous donations from ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012), ::{ flag=FR }:: [MitsukeZ](https://osu.ppy.sh/users/12943161), ::{ flag=FR }:: [JustinBrizou](https://osu.ppy.sh/users/21879889), and ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467) helped fund some of the prizes.
 
 ## Organisation
 
@@ -260,7 +260,7 @@ Sunday, 16 May 2021:
 
 ### Qualifiers
 
-*Qualifiers match result is unavailable, due to lack of documentation.*
+*Qualifiers match results are unavailable, due to lack of documentation.*
 
 ## Ruleset
 
