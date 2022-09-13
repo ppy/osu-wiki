@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: cadca3afd211a4d1eee3fbbb4d592ca397862c49
+---
+
 # osu! ranking criteria
 
 ***注意: 这个文件是[通用 Ranking Criteria](/wiki/Ranking_Criteria)的扩展。***
