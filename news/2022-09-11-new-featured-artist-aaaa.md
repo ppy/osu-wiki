@@ -138,7 +138,7 @@ Tap some drums to [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1153450) h
 
 ### AAAA + Hino Isuka - Keep Smiling.
 
-[Enjoy](https://osu.ppy.sh/beatmapsets/1057773).
+And here's one more [4K osu!mania beatmap](https://osu.ppy.sh/beatmapsets/1057773) hosted by [\_Kobii](https://osu.ppy.sh/users/6209713). Enjoy.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/301/Songs/AAAA%20%2B%20Hino%20Isuka%20-%20Keep%20smiling..mp3" type="audio/mpeg">
