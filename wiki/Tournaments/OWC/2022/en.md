@@ -66,7 +66,7 @@ The osu! World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) and var
 ### Tournament rules
 
 1. The osu! World Cup is a country-based team tournament, played on the osu! game mode.
-   - Players from countries or territories that are under a protectorate, sovereign stage, or otherwise closely related to another country may choose to play for that country **if** the country listed on their profile is unable to field enough players to form a valid team.
+   - Players from countries or territories that are under a protectorate, sovereign stage, or otherwise closely related to another country (as seen on their profile flag) may choose to play for that country **if** the country listed on their profile is unable to field enough players to form a valid team.
 2. Beatmap scoring is based on ScoreV2.
 3. **The minimum size for a team is 6 players, and the maximum is 8.**
 4. The beatmap list for each round will be announced by the mappool selectors on the official stream, on the Sunday before the matches take place.
