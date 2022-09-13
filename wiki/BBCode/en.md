@@ -201,7 +201,7 @@ If specified through their user ID, the text between the open and closed tags wi
 
 The `[list]` tag is used to automatically format two different types of lists throughout the osu! forums by using an asterisk enclosed in brackets (`[*]`) to indicate a new item in the list (shown above). By default, this will create a plain, bulleted list.
 
-If the `TYPE` argument is specified as `1`, the list will be numbered.
+If the `TYPE` argument is specified as `1`, it will create a numbered list.
 
 *Notice: BBCode-formatted lists can be stacked on top of each other and placed inside one another, although this has been known to cause issues with formatting.*
 
