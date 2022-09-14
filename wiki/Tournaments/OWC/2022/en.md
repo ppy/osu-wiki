@@ -157,7 +157,7 @@ The osu! World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) and var
 5. Teams will be allowed 2 minutes to pick a beatmap and 2 minutes to press the `Ready` button on their client. If a team takes more time than alloted for either either action, the procedures adopted will be as follows:
    - For the first occurrence:
      - The team will receive a verbal warning from the referee
-    - On subsequent occurrences:
+   - On subsequent occurrences:
       - For a pick timer: a random map will be chosen from the mappool using `!roll X`, where X is the number of beatmaps that were neither picked nor banned, excluding the Tiebreaker.
       - For a ready timer: the referee will issue the `!mp start 10` command, regardless of how many players from each team are present in the lobby, using `!mp kick` on any extra players for each team, starting from the top (i.e. the first valid player combination for each team will be forced to play the pick). The results for such games are to be taken as is.
     - Repeat offenders may receive further sanctions from the tournament managers.
