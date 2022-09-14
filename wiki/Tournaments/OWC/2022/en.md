@@ -108,7 +108,7 @@ The osu! World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) and var
    - **Teams that don't send their team list by Thursday, 6 October 23:59 UTC will be disqualified from the competition.**
 3. To ensure valid registrations, every prospective participant will be manually checked by the [account support team](/wiki/People/The_Team/Account_support_team), in a manner similar to the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) that is offered to community tournaments.
    - Every registered user will be assigned to their respective country's candidate list.
-   - To be successfully accepted on the list, players are required to be placed #5000 or higher on the osu!mania 4K global ranking, and not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
+   - To be successfully accepted on the list, players are required to be placed #5000 or higher on the osu! global ranking, and not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
 4. All successfully formed teams will be published after the Registration Phase on this page.
    - A team should have at least 6 players registered to have the chance to play the Qualifier stage.
 5. Tournament staff members are **not** allowed to play in the tournament, with the exception of commentators and streamers.
@@ -116,7 +116,7 @@ The osu! World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) and var
 ### Qualifier instructions
 
 1. In the Qualifier stage, all teams will play a specific pool designed by the mappool selectors.
-2. The mappool will contain 4 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), and [DoubleTime](/wiki/Game_modifier/Double_Time). There will be no Free Mods or tiebreakers for this stage.
+2. The mappool will contain 4 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock), and [Double Time](/wiki/Game_modifier/Double_Time). There will be no Free Mods or tiebreakers for this stage.
 3. The Qualifier pool will feature 11 beatmaps, organized as such:
    - NoMod: 4 beatmaps
    - Hidden: 2 beatmaps
