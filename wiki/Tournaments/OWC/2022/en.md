@@ -79,19 +79,19 @@ The osu! World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) and var
       - Screenshots taken in-game at the time of disconnection may be accepted. Note that this method does not provide a one-to-one representation of that player's score. Using this method is not encouraged and it may be denied at the referee's discretion if the information provided is not sufficient to identify the player/score.
       - All screenshots **MUST** be taken using the game itself (using `Shift` + `F12`), that is, they must be hosted on the `https://osu.ppy.sh/` domain. Any other form of screenshot will be denied.
     - Player scores may be derived from the official stream as a last resort, in cases where the match is streamed.
-1. Players are expected to keep the match running fluently and without delays. Excessive match delays from the players' side may result in penalties being applied by the tournament managers. Disrupting the match by foul play, insulting or provoking other players or staff, delaying the match, or other deliberate inappropriate misbehaviour are strictly prohibited, and will be punished accordingly.
-1. All players and staff must be treated with respect. Instructions from the referees and the tournament managers are to be followed. Decisions labelled as final are not to be objected.
-1. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms where the matches will take place.
-   - Breaking the chat rules may result in a silence. Silenced players cannot participate in multiplayer matches and must be exchanged for the duration of the punishment.
-1. Penalties for violating the tournament rules include, but are not limited to:
-   - Exclusion of specific players for one beatmap.
-   - Exclusion of specific players for an entire match.
-   - Declaring the match as forfeited, or as a win by default for the other team.
-   - Disqualification from the entire tournament.
-   - Disqualification from the current and future official tournaments, until appealed.
-1. Referees may allow, at their discretion, lower or higher tolerances for timers.
-1. The tournament managers may request liveplays or recordings of individual players or teams at any point in the tournament without prior warning.
-1. The tournament managers reserve the right to modify these rules at any moment. Any such changes will be announced in advance.
+12. Players are expected to keep the match running fluently and without delays. Excessive match delays from the players' side may result in penalties being applied by the tournament managers. Disrupting the match by foul play, insulting or provoking other players or staff, delaying the match, or other deliberate inappropriate misbehaviour are strictly prohibited, and will be punished accordingly.
+13. All players and staff must be treated with respect. Instructions from the referees and the tournament managers are to be followed. Decisions labelled as final are not to be objected.
+14. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms where the matches will take place.
+    - Breaking the chat rules may result in a silence. Silenced players cannot participate in multiplayer matches and must be exchanged for the duration of the punishment.
+15. Penalties for violating the tournament rules include, but are not limited to:
+    - Exclusion of specific players for one beatmap.
+    - Exclusion of specific players for an entire match.
+    - Declaring the match as forfeited, or as a win by default for the other team.
+    - Disqualification from the entire tournament.
+    - Disqualification from the current and future official tournaments, until appealed.
+16. Referees may allow, at their discretion, lower or higher tolerances for timers.
+17. The tournament managers may request liveplays or recordings of individual players or teams at any point in the tournament without prior warning.
+18. The tournament managers reserve the right to modify these rules at any moment. Any such changes will be announced in advance.
 
 ### Tournament registration
 
@@ -164,7 +164,7 @@ The osu! World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) and var
 6. Each team will receive one "tactical timeout" of 2 minutes, to be used as extra time to pick or ban a beatmap. *The tactical timeout is optional.*
    - The tactical timeout may be called on a tiebreaker, provided that both teams' captains agree to it.
 
-### Mappool instructions
+### Mappool information
 
 1. Every stage will have its own mappool.
 2. Each mappool will consist of 5 brackets: [NoMod](/wiki/Game_modifier#nomod), [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock), [Double Time](/wiki/Game_modifier/Double_Time) and [FreeMod](/wiki/Game_modifier#freemod).
@@ -179,7 +179,7 @@ The osu! World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) and var
    - **When playing a FreeMod beatmap, there must be one player with Hidden and one player with HardRock or Hidden + HardRock. For the remaining players, enabling mods is optional.**
 7. The tiebreaker will be played under FreeMod conditions, but the mod requirement is not enforced.
 
-### Scheduling instructions
+### Scheduling information
 
 1. Each stage will be held on **a single weekend**.
 2. Matches in Qualifiers will be held during specific time slots proposed by the tournament managers. Each team may to choose a time slot in which they want to play.
