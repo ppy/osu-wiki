@@ -1,21 +1,16 @@
----
-outdated_translation: true
-outdated_since: 6cadc8a931108f84fc5d1d515a0a28d08a3ae018
-needs_cleanup: true  # нужно исправить несколько странных фраз
-no_native_review: true
----
-
 # osu!tourney
 
-**osu!tourney** — официальный мульти-наблюдательный клиент для просмотра и трансляции всех игроков в мультиплеерной комнате за раз.
+*См. также: [Турнирный клиент osu!](/wiki/osu!_tournament_client)*
 
-Пользователи, столкнувшиеся с **проблемами** с клиентом, могут прочитать [гайд по их решению](Troubleshooting) или отправить письмо на электронный адрес [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+**osu!tourney** — режим работы стабильного клиента osu!, позволяющий стримить действия сразу всех игроков в комнате мультиплеера.
 
-## Относящиеся статьи
+Если у вас возникли **проблемы** с osu!tourney, загляните в [руководство по решению проблем](Troubleshooting) или свяжитесь на английском с [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+
+## Связанные статьи
 
 - [Настройка](Setup)
-- [Использование мультиплеера](Multiplayer_usage)
-- [Использование наблюдателя](Spectator_usage)
-- [Создание скинов для клиента](Skinning)
+- [Управление мультиплеером](Multiplayer_usage)
+- [Режим зрителя](Spectator_usage)
+- [Скиннинг](Skinning)
 - [Команды управления турниром](Tournament_management_commands)
 - [Решение проблем](Troubleshooting)
