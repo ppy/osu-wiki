@@ -48,7 +48,7 @@
 
 ## Seasonal Spotlights
 
-Медали группы **Seasonal Spotlights medals** выдаются за прохождение определённых паков карт выпущенных как часть [Seasonal Spotlights](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018). Чтобы разблокировать медали в этой категории, игроку нужно поиграть во все карты *в любом из четырёх паков режимов игры* в соответствующем Seasonal Spotlights чарте. Следующие моды разрешены для использования:
+Медали группы **Seasonal Spotlights** выдаются за прохождение определённых паков карт выпущенных как часть [Seasonal Spotlights](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018). Чтобы разблокировать медали в этой категории, игроку нужно поиграть во все карты *в любом из четырёх паков режимов игры* в соответствующем Seasonal Spotlights чарте. Следующие моды разрешены для использования:
 
 - [Упрощающие моды](/wiki/Game_modifier#difficulty-reduction)
 - [Усложняющие моды](/wiki/Game_modifier#difficulty-increase)
