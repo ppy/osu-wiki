@@ -74,6 +74,32 @@ The Expert Global Taiko Showdown 2022 is run by various community members.
 
 ## Mappools
 
+### Quarterfinals
+
+**[Download the mappack here! (76 MB)](https://mega.nz/file/WEQ11Sib#F6ggB55W8EkjoVaQkVGY4_9hjOSjxK07estwFq-Weuk)**
+
+- NoMod
+  1. [blobdash - Corrupted Binary StaR (Ak1o) \[Fatal BitfliP\]](https://osu.ppy.sh/beatmapsets/1846727#taiko/3793517)
+  2. [Ashrount - LaureLs \~the Angelus\~ (Cynplytholowazy) \[Cynply & Xavy's HEAVENLY\]](https://osu.ppy.sh/beatmapsets/1846543#taiko/3793204)
+  3. [KOAN Sound & Asa - fuego (sakuraburst remix) (4sbet1) \[inner oni\]](https://osu.ppy.sh/beatmapsets/1846587#taiko/3793286)
+  4. [Emray - Misfortune\*Star (Mew) \[Shining\*Star\]](https://osu.ppy.sh/beatmapsets/1846731#taiko/3793523)
+  5. [Paraoka - L9 (Raphalge) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1846739#taiko/3793541)
+- Hidden
+  1. [winddrums - Enchante (Faputa) \[Fapu & Cynply's MAXIMUM\]](https://osu.ppy.sh/beatmapsets/1846549#taiko/3793222)
+  2. [Silent Siren - Hachigatsu no Yoru (MathaFuckera.k.alziefuckuppunk270mix) (KTYN) \[Midsummer Night\]](https://osu.ppy.sh/beatmapsets/1846885#taiko/3793832)
+- HardRock
+  1. [Down - Ekoro (Zetera) \[Commemorative Oni\]](https://osu.ppy.sh/beatmapsets/1846753#taiko/3793560)
+  2. [Se-U-Ra - Igallta (Hivie) \[okayge\]](https://osu.ppy.sh/beatmapsets/1846767#taiko/3793583)
+- DoubleTime
+  1. [OSTER project - piano x forte (Nwolf) \[Oni (EhGTS x Ehdit)\]](https://osu.ppy.sh/beatmapsets/1846758#taiko/3793566)
+  2. [sawawa - Fire in the Phoenix (DarkVortex) \[Oni\]](https://osu.ppy.sh/beatmapsets/1846762#taiko/3793574)
+- FreeMod
+  1. [Kou! - Sanzui (kei821) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1846769#taiko/3793585)
+  2. [Kurosawa Daisuke - GIGA DRIVE (\_mtk) \[FLAMEWALL\]](https://osu.ppy.sh/beatmapsets/1846627#taiko/3793355)
+  3. [pm04034 - Sugary Mocaccino (gaston\_2199) \[Bittersweet\]](https://osu.ppy.sh/beatmapsets/1846776#taiko/3793604)
+- Tiebreaker
+  1. **[kyou1110 - Mam rozbite sluchatka placem (dtn) \[oni\]](https://osu.ppy.sh/beatmapsets/1846616#taiko/3793337)**
+
 ### Round of 16
 
 **[Download the mappack here! (118 MB)](https://mega.nz/file/WExz1IYI#iiV3lp3WPLeV3ds60t429_fNCn9SISmI1bNc1naLpTo)**
