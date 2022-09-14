@@ -23,7 +23,7 @@ The **osu!mania 4K Indonesia Cup 2019** (***O!MIC 4K 2019***) was a nationwide o
 | Round of 16 | 2019-07-20/2019-07-21 |
 | Quarterfinals | 2019-07-27/2019-07-28 |
 | Semifinals week 1 | 2019-08-03/2019-08-04 |
-| Semifinals week 2| 2019-08-10/2019-08-11 |
+| Semifinals week 2 | 2019-08-10/2019-08-11 |
 | Finals | 2019-08-17/2019-08-18 |
 | Grand Finals | 2019-08-24/2019-08-25 |
 
