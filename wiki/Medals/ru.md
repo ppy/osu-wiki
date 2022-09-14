@@ -1,7 +1,3 @@
----
-no_native_review: true
----
-
 # Медали
 
 Медали, ранее известные как *достижения*, — значки в профиле игрока, показывающие, что пользователь достиг необычной цели. В данный момент, существует 280 медалей для получения, разделённых на 8 групп: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), [Beatmap Spotlights](#beatmap-spotlights), [Seasonal Spotlights](#seasonal-spotlights), and [Beatmap Challenge Packs](#beatmap-challenge-packs).
