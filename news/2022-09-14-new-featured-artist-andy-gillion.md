@@ -12,7 +12,7 @@ Guitarist **Andy Gillion** shines onto our Featured Artist collection!
 
 **13** rock/metal masterpieces are pre-timed and ready for you to map. Check out [**Andy Gillion**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/302) for the full list!
 
-**Andy Gillion**'s latest album was released less than 2 weeks ago, yet [-Sylvari](https://osu.ppy.sh/users/3493804) has already managed to churn out 6 difficulties for [Insert Coin](https://osu.ppy.sh/beatmapsets/1842568)! Experience **Andy Gillion**'s sound for yourself:
+[-Sylvari](https://osu.ppy.sh/users/3493804) has already managed to churn out 6 difficulties for [Insert Coin](https://osu.ppy.sh/beatmapsets/1842568), although its album was only released less than 2 weeks ago! Experience **Andy Gillion**'s sound for yourself:
 
 <div align="center">
     <video width="100%" controls>
