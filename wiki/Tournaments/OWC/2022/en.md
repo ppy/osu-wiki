@@ -105,7 +105,7 @@ The osu! World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) and var
    - Captains are allowed to exclude themselves from the team list.
    - Captains are allowed to conduct and coordinate "tryouts", tests to gauge player aptitude, on their own terms.
    - Captains are allowed, at any time, to transfer their role to other prospective team members. Once given, only the new captain may assign the captaincy to another player.
-   - **Teams that don't send their team list by Thursday, 6 September 23:59 UTC will be disqualified from the competition.**
+   - **Teams that don't send their team list by Thursday, 6 October 23:59 UTC will be disqualified from the competition.**
 3. To ensure valid registrations, every prospective participant will be manually checked by the [account support team](/wiki/People/The_Team/Account_support_team), in a manner similar to the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) that is offered to community tournaments.
    - Every registered user will be assigned to their respective country's candidate list.
    - To be successfully accepted on the list, players are required to be placed #5000 or higher on the osu!mania 4K global ranking, and not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
