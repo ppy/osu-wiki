@@ -40,7 +40,7 @@ The osu!mania 4K Indonesia Cup 2022 was run by various osu! community members pr
 | :-- | :-- |
 | Organiser | ::{ flag=ID }:: [Reyi](https://osu.ppy.sh/users/13385865), ::{ flag=ID }:: [Antipole](https://osu.ppy.sh/users/17258072) |
 | Mappool selector | ::{ flag=ID }:: [Antipole](https://osu.ppy.sh/users/17258072), ::{ flag=ID }:: [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ::{ flag=SG }:: [Eliminate 2](https://osu.ppy.sh/users/12297375), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304), ::{ flag=ID }:: [\[GS\]Rei](https://osu.ppy.sh/users/11964257), ::{ flag=GB }:: [TingMomentum](https://osu.ppy.sh/users/12489832) |
-| Mappool creator | ::{ flag=ID }:: [Ainer](), ::{ flag=ID }:: [Angki](https://osu.ppy.sh/users/9038483), ::{ flag=ID }:: [Antipole](https://osu.ppy.sh/users/17258072), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304), ::{ flag=ID }:: [Reyi](https://osu.ppy.sh/users/13385865), ::{ flag=GB }:: [TingMomentum](https://osu.ppy.sh/users/12489832) |
+| Mappool creator | ::{ flag=ID }:: Ainer, ::{ flag=ID }:: [Angki](https://osu.ppy.sh/users/9038483), ::{ flag=ID }:: [Antipole](https://osu.ppy.sh/users/17258072), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304), ::{ flag=ID }:: [Reyi](https://osu.ppy.sh/users/13385865), ::{ flag=GB }:: [TingMomentum](https://osu.ppy.sh/users/12489832) |
 | Mappool tester | ::{ flag=PH }:: [4Kenn](https://osu.ppy.sh/users/20496815), ::{ flag=DE }:: [ERA Punish](https://osu.ppy.sh/users/10615367), ::{ flag=ID }:: [Fyl](https://osu.ppy.sh/users/10069307), ::{ flag=IT }:: [- Pixie -](https://osu.ppy.sh/users/13878539), ::{ flag=PH }:: [Silicosis](https://osu.ppy.sh/users/15548876), ::{ flag=NL }:: [Toxic Scent](https://osu.ppy.sh/users/12599154) |
 | Streamer | ::{ flag=ID }:: [Tix](https://osu.ppy.sh/users/11421465), ::{ flag=ID }:: [zutu](https://osu.ppy.sh/users/11184912) |
 | Referee | ::{ flag=DZ }:: [Demon-kira](https://osu.ppy.sh/users/20232838), ::{ flag=ID }:: [\[-Elaina-\]](https://osu.ppy.sh/users/12532297), ::{ flag=ID }:: [ElinLYPK](https://osu.ppy.sh/users/5198950), ::{ flag=ID }:: [Kurami\_San](https://osu.ppy.sh/users/8867495), ::{ flag=ID }:: [Reihynn](https://osu.ppy.sh/users/16630515), ::{ flag=IN }:: [shreya7](https://osu.ppy.sh/users/16676388), ::{ flag=CH }:: [Sinsa92](https://osu.ppy.sh/users/13378002) |
@@ -127,7 +127,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   1. **[BlackY vs. Yooh - HAVOX (Camellia's "XATAXLYSM" Remix) (MyZterioN-) \[XINAL XSTRUCTION 1.05x\]](https://osu.ppy.sh/beatmapsets/1798101#mania/3685945)**
 
-### Semifinal
+### Semifinals
 
 **[Download the mappack here! (230 MB)](https://drive.google.com/file/d/1ayk2o8zIh-w2cNlHQISKLvQUNjK-8xik/view?usp=sharing)**
 
