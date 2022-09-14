@@ -64,7 +64,7 @@ The osu! World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) and var
 6. Use of the Visual Settings to alter background dim or disable beatmap elements like storyboards and skins are allowed.
    - Custom skin elements must not be used to alter core gameplay elements or mechanics in unintended ways.
 7. If less than the minimum amount of required players are present at match time, the match can be postponed for up to 10 minutes. If after this period there are still not enough players for either team, a *win by default* will be declared for the side with the most members present.
-    - The minimum amount of required players is the amount of players needed to play a beatmap without any vacant spots in the lobby (i.e. 4 participants must be present for the match to begin).
+   - The minimum amount of required players is the amount of players needed to play a beatmap without any vacant spots in the lobby (i.e. 4 participants must be present for the match to begin).
 8. Exchanging players between games is allowed without limitations.
 9. If a game ends in a draw, it will be nullified and the beatmap will be replayed.
 10. Teams may ask for a rematch if a team member encounters technical issues while playing within 30 seconds or 25% of the beatmap drain length (whichever happens first) of the game's start. Referees may, at their discretion, veto this request.
