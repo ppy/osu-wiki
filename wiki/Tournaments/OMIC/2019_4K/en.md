@@ -6,9 +6,9 @@ tags:
 
 # osu!mania 4K Indonesia Cup 2019
 
-![O!MIC 4K 2019 Logo](img/logo.png)
+![O!MIC 4K 2019 logo](img/logo.png)
 
-The **osu!mania 4K Indonesia Cup 2019** (***O!MIC 4K 2019***) was a nationwide osu!mania 4K tournament that was open exclusively to Indonesian players. The tournament adopted a hybrid system in where the early matches were held in a royal rumble format, which was then followed by a 1v1 double elimination bracket starting from the Group Distribution Stage onwards.
+The **osu!mania 4K Indonesia Cup 2019** (***O!MIC 4K 2019***) was a nationwide osu!mania 4K tournament that was open exclusively to Indonesian players. The tournament adopted a hybrid system, in which the early matches were held in a royal rumble format, that was then followed by a 1v1 double elimination bracket starting from the Group Distribution Stage onwards.
 
 ## Tournament schedule 
 
@@ -18,22 +18,22 @@ The **osu!mania 4K Indonesia Cup 2019** (***O!MIC 4K 2019***) was a nationwide o
 | Live drawings | 2019-06-10/2019-06-16 |
 | Qualifiers | 2019-06-22/2019-06-23 |
 | Round of 56 | 2019-06-29/2019-06-30 |
-| Group Distribution Stage - First Week | 2019-07-06/2019-07-07 |
-| Group Distribution Stage - Second Week | 2019-07-13/2019-07-14 |
+| Group Distribution Stage week 1 | 2019-07-06/2019-07-07 |
+| Group Distribution Stage week 2 | 2019-07-13/2019-07-14 |
 | Round of 16 | 2019-07-20/2019-07-21 |
-| Quarterfinal | 2019-07-27/2019-07-28 |
-| Semifinal - First Week | 2019-08-03/2019-08-04 |
-| Semifinal - Second Week | 2019-08-10/2019-08-11 |
-| Final | 2019-08-17/2019-08-18 |
-| Grand Final | 2019-08-24/2019-08-25 |
+| Quarterfinals | 2019-07-27/2019-07-28 |
+| Semifinals week 1 | 2019-08-03/2019-08-04 |
+| Semifinals week 2| 2019-08-10/2019-08-11 |
+| Finals | 2019-08-17/2019-08-18 |
+| Grand Finals | 2019-08-24/2019-08-25 |
 
 ## Prizes
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "First Place") | 350,000 IDR, 4 months of osu!supporter, 50,000 IDR worth of Google Play Voucher, profile badge |
-| ![Silver Crown](/wiki/shared/crown-silver.png "Second Place") | 200,000 IDR, 2 months of osu!supporter |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "Third Place") | 150,000 IDR, 1 month of osu!supporter |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 350,000 IDR, 4 months of osu!supporter, 50,000 IDR worth of Google Play Voucher, profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 200,000 IDR, 2 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 150,000 IDR, 1 month of osu!supporter |
 
 ## Organisation
 
@@ -42,9 +42,9 @@ The **osu!mania 4K Indonesia Cup 2019** (***O!MIC 4K 2019***) was a nationwide o
 | Organiser | ::{ flag=ID }:: [LuxAzure](https://osu.ppy.sh/users/6045757) |
 | Documentation | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) |
 | Mappool selector | ::{ flag=ID }:: [-Rem-](https://osu.ppy.sh/users/5767941), ::{ flag=ID }:: [[Crz]Crysarlene](https://osu.ppy.sh/users/5492871), ::{ flag=ID }:: [LuxAzure](https://osu.ppy.sh/users/6045757) |
-| Streamer | ::{ flag=ID }:: [Ulat Bulu](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Victim_Crasher](https://osu.ppy.sh/users/2084869) |
-| Referee | ::{ flag=ID }:: [-ExRazor](https://osu.ppy.sh/users/6807769), ::{ flag=ID }:: [[Crz]Crysarlene](https://osu.ppy.sh/users/5492871), ::{ flag=ID }:: [[Kii - kun]](https://osu.ppy.sh/users/11246935), ::{ flag=ID }:: [_Riku1602](https://osu.ppy.sh/users/6918271), ::{ flag=ID }:: [Aishdoll-](https://osu.ppy.sh/users/7751704), ::{ flag=ID }:: [angki](https://osu.ppy.sh/users/9038483), ::{ flag=ID }:: [Kirana](https://osu.ppy.sh/users/4566442), ::{ flag=ID }:: [LuxAzure](https://osu.ppy.sh/users/6045757), ::{ flag=ID }:: [LuxAzusa](https://osu.ppy.sh/users/3957170), ::{ flag=ID }:: [projectc1](https://osu.ppy.sh/users/2663343), ::{ flag=ID }:: [SayoriFangirl](https://osu.ppy.sh/users/4569035), ::{ flag=ID }:: [Ulat Bulu](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Victim_Crasher](https://osu.ppy.sh/users/2084869) |
-| Commentator | ::{ flag=ID }:: [-ExRazor](https://osu.ppy.sh/users/6807769), ::{ flag=ID }:: [[Crz]Crysarlene](https://osu.ppy.sh/users/5492871), ::{ flag=ID }:: [Artemis-](https://osu.ppy.sh/users/9025266), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304), ::{ flag=ID }:: [Fyl](https://osu.ppy.sh/users/10069307), ::{ flag=ID }:: [Halsy](https://osu.ppy.sh/users/6551704), ::{ flag=ID }:: [projectc1](https://osu.ppy.sh/users/2663343), ::{ flag=ID }:: [Proxae](https://osu.ppy.sh/users/8410575), ::{ flag=ID }:: [SayoriFangirl](https://osu.ppy.sh/users/4569035), ::{ flag=ID }:: [Ulat Bulu](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Victim_Crasher](https://osu.ppy.sh/users/2084869) |
+| Streamer | ::{ flag=ID }:: [Ulat Bulu](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869) |
+| Referee | ::{ flag=ID }:: [-ExRazor](https://osu.ppy.sh/users/6807769), ::{ flag=ID }:: [[Crz]Crysarlene](https://osu.ppy.sh/users/5492871), ::{ flag=ID }:: [[Kii - kun]](https://osu.ppy.sh/users/11246935), ::{ flag=ID }:: [\_Riku1602](https://osu.ppy.sh/users/6918271), ::{ flag=ID }:: [Aishdoll-](https://osu.ppy.sh/users/7751704), ::{ flag=ID }:: [angki](https://osu.ppy.sh/users/9038483), ::{ flag=ID }:: [Kirana](https://osu.ppy.sh/users/4566442), ::{ flag=ID }:: [LuxAzure](https://osu.ppy.sh/users/6045757), ::{ flag=ID }:: [LuxAzusa](https://osu.ppy.sh/users/3957170), ::{ flag=ID }:: [projectc1](https://osu.ppy.sh/users/2663343), ::{ flag=ID }:: [SayoriFangirl](https://osu.ppy.sh/users/4569035), ::{ flag=ID }:: [Ulat Bulu](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Victim_Crasher](https://osu.ppy.sh/users/2084869) |
+| Commentator | ::{ flag=ID }:: [-ExRazor](https://osu.ppy.sh/users/6807769), ::{ flag=ID }:: [[Crz]Crysarlene](https://osu.ppy.sh/users/5492871), ::{ flag=ID }:: [Artemis-](https://osu.ppy.sh/users/9025266), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304), ::{ flag=ID }:: [Fyl](https://osu.ppy.sh/users/10069307), ::{ flag=ID }:: [Halsy](https://osu.ppy.sh/users/6551704), ::{ flag=ID }:: [projectc1](https://osu.ppy.sh/users/2663343), ::{ flag=ID }:: [Proxae](https://osu.ppy.sh/users/8410575), ::{ flag=ID }:: [SayoriFangirl](https://osu.ppy.sh/users/4569035), ::{ flag=ID }:: [Ulat Bulu](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Victim\_Crasher](https://osu.ppy.sh/users/2084869) |
 | Designer | ::{ flag=ID }:: [Acrylate](https://osu.ppy.sh/users/14208229) |
 
 ## Links
@@ -80,7 +80,7 @@ The **osu!mania 4K Indonesia Cup 2019** (***O!MIC 4K 2019***) was a nationwide o
 
 ## Mappools
 
-### Final / Grand Final
+### Grand Finals & Finals
 
 - FreeMod
   1. [The Dillinger Escape Plan with Mike Patton - Hollywood Squares (Pope Gadget) \[Noughts\]](https://osu.ppy.sh/beatmapsets/878577#mania/1837470)
@@ -101,7 +101,7 @@ The **osu!mania 4K Indonesia Cup 2019** (***O!MIC 4K 2019***) was a nationwide o
 - Tiebreaker
   1. **[Quarks (kradness x Camellia) - Intro + Dualive (Evening) \[backpropogation\_edit\]](https://osu.ppy.sh/beatmapsets/996757#mania/2116122)**
 
-### Semifinal
+### Semifinals
 
 - FreeMod
   1. [Paul Bazooka - We're All Gonna Die (Kamikaze) \[Rigor Mortis\]](https://osu.ppy.sh/beatmapsets/917575#mania/1916188)
@@ -112,7 +112,7 @@ The **osu!mania 4K Indonesia Cup 2019** (***O!MIC 4K 2019***) was a nationwide o
   6. [LV.4 - Fragile (2011 Mix) (\[Crz\]Crysarlene) \[Lynessa's Handstream (207bpm)\]](https://osu.ppy.sh/beatmapsets/1007085#mania/2107734)
   7. [Camellia - Bring Our Ignition Back (Evening) \[exhaust\]](https://osu.ppy.sh/beatmapsets/1006223#mania/2112165)
   8. [MDK - Press Start (juankristal) \[1up\]](https://osu.ppy.sh/beatmapsets/850118#mania/1777456)
-  9. [yassu~ - before... (-Rem-) \[mizuki w/ remuther (MP4K3 Edit)\]](https://osu.ppy.sh/beatmapsets/1007040#mania/2107649)
+  9. [yassu\~ - before... (-Rem-) \[mizuki w/ remuther (MP4K3 Edit)\]](https://osu.ppy.sh/beatmapsets/1007040#mania/2107649)
   10. [Kyou1110 vs Takuya Namba - "Alice in Wonderland"  crazy apple could not live in real life (Kamikaze) \[Distressed\]](https://osu.ppy.sh/beatmapsets/745471#mania/1643708)
   11. [Tenacious D - Master Exploder (Valedict) \[BLOW YA MIND\]](https://osu.ppy.sh/beatmapsets/980802#mania/2052615)
   12. [Ester - Dizzolve (riunosk) \[Dizintegration\]](https://osu.ppy.sh/beatmapsets/951988#mania/1987960)
@@ -120,7 +120,7 @@ The **osu!mania 4K Indonesia Cup 2019** (***O!MIC 4K 2019***) was a nationwide o
 - Tiebreaker
   1. **[KikuoHana - Haretsu Haretsu Haretsu (Gekido-) \[Rupture\]](https://osu.ppy.sh/beatmapsets/977898#mania/2046620)**
 
-### Quarterfinal
+### Quarterfinals
 
 - FreeMod
   1. [K/DA ft. Madison Beer, (G)I-DLE, Jaira Burns - POP/Stars (Benzopirene) \[MP4K3 Edit\]](https://osu.ppy.sh/beatmapsets/1003344#mania/2099939)
@@ -140,7 +140,7 @@ The **osu!mania 4K Indonesia Cup 2019** (***O!MIC 4K 2019***) was a nationwide o
 ### Round of 16
 
 - FreeMod
-  1. [Yu_Asahina - Trickstarz (hi19hi19) \[Hard\]](https://osu.ppy.sh/beatmapsets/349432#mania/770549)
+  1. [Yu\_Asahina - Trickstarz (hi19hi19) \[Hard\]](https://osu.ppy.sh/beatmapsets/349432#mania/770549)
   2. [Camellia - Crystallized (qqqant) \[myself, my voice\]](https://osu.ppy.sh/beatmapsets/890013#mania/1860459)
   3. [DET - Fives (Elekton) [55555]](https://osu.ppy.sh/beatmapsets/539403#mania/1293074)
   4. [Camellia - Towards The Horizon (-Rem-) \[Visionary\]](https://osu.ppy.sh/beatmapsets/909132#mania/1897188)
@@ -148,7 +148,7 @@ The **osu!mania 4K Indonesia Cup 2019** (***O!MIC 4K 2019***) was a nationwide o
   6. [Cuve - v o l d e n u i t (SitekX) \[h y b r i d\]](https://osu.ppy.sh/beatmapsets/905494#mania/1889957)
   7. [fripSide - sister's noise (TV Size) (juankristal) \[Electromaster\]](https://osu.ppy.sh/beatmapsets/973859#mania/2038639)
   8. [wa. remixed by celas - Gin no Kaze -Silver Wind- (Elekton) \[mistral\]](https://osu.ppy.sh/beatmapsets/757160#mania/1592941)
-  9. [Ryu* ft. MAYU - Only For You\* (Ryu\* REMIX) (Kamikaze) \[nowsmart's SHINE (MP4K Edit)\]](https://osu.ppy.sh/beatmapsets/996035#mania/2083446)
+  9. [Ryu\* ft. MAYU - Only For You\* (Ryu\* REMIX) (Kamikaze) \[nowsmart's SHINE (MP4K Edit)\]](https://osu.ppy.sh/beatmapsets/996035#mania/2083446)
   10. [2MB - Healing Vision \~Angelic mix\~ (\[Crz\]Crysarlene) \[please save her for me (nerfed) 1.05x\]](https://osu.ppy.sh/beatmapsets/952775#mania/2083076)
   11. [FLOOR BABA - Whole Pocket (Lenfried-) \[8 Ball\]](https://osu.ppy.sh/beatmapsets/781110#mania/1640591)
 - Tiebreaker
@@ -164,7 +164,7 @@ The **osu!mania 4K Indonesia Cup 2019** (***O!MIC 4K 2019***) was a nationwide o
   5. [Lime - Stargazer (Kamikaze) \[Astral\]](https://osu.ppy.sh/beatmapsets/946116#mania/1975568)
   6. [SENTIVE - rain drops (ByeForNow) \[see that, the rain is nice, but....\]](https://osu.ppy.sh/beatmapsets/970444#mania/2031163)
   7. [X Kirby - Smiting Down the Weak (-Rem-) \[Challenge\]](https://osu.ppy.sh/beatmapsets/995962#mania/2083317)
-  8. [P*Light feat. mow*2 - OVERDRIVERS (inteliser) \[EXTREME \[LN\]\]](https://osu.ppy.sh/beatmapsets/578558#mania/1224997)
+  8. [P\*Light feat. mow\*2 - OVERDRIVERS (inteliser) \[EXTREME \[LN\]\]](https://osu.ppy.sh/beatmapsets/578558#mania/1224997)
   9. [encX - One Day (Lenfried) \[4K SV\]](https://osu.ppy.sh/beatmapsets/596525#mania/1413835)
 - Tiebreaker
   1. **[Masayoshi Minoshima ft. nomico - Bad Apple!! (-Rem-) \[Meaningless Reality\]](https://osu.ppy.sh/beatmapsets/995972#mania/2083332)**
@@ -191,7 +191,7 @@ The **osu!mania 4K Indonesia Cup 2019** (***O!MIC 4K 2019***) was a nationwide o
 
 ## Match results
 
-### Grand Final
+### Grand Finals
 
 Sunday, 25 August 2019:
 
@@ -200,7 +200,7 @@ Sunday, 25 August 2019:
 | **[-\[ChoKy\]-](https://osu.ppy.sh/users/4691146)** ::{ flag=ID }:: | **7** | 1 | ::{ flag=ID }:: [ChocoCoki-](https://osu.ppy.sh/users/3565870) | [#1](https://osu.ppy.sh/community/matches/54171320) |
 | **[Kevin-sama](https://osu.ppy.sh/users/6991664)** ::{ flag=ID }:: | **7** | 1 | ::{ flag=ID }:: [-\[ChoKy\]-](https://osu.ppy.sh/users/4691146) | [#1](https://osu.ppy.sh/community/matches/54345380) |
 
-### Final
+### Finals
 
 Sunday, 18 August 2019:
 
@@ -209,7 +209,7 @@ Sunday, 18 August 2019:
 | **[Kevin-sama](https://osu.ppy.sh/users/6991664)** ::{ flag=ID }:: | **7** | 2 | ::{ flag=ID }:: [-\[ChoKy\]-](https://osu.ppy.sh/users/4691146) | [#1](https://osu.ppy.sh/community/matches/54166162) |
 | [\_claidheamh](https://osu.ppy.sh/users/4686520) ::{ flag=ID }:: | 5 | **7** | ::{ flag=ID }:: **[ChocoCoki-](https://osu.ppy.sh/users/3565870)** | [#1](https://osu.ppy.sh/community/matches/54171320) |
 
-### Semifinal
+### Semifinals
 
 Saturday, 3 August 2019:
 
@@ -239,7 +239,7 @@ Sunday, 11 August 2019:
 | --: | :-: | :-: | :-- | :-- |
 | **[\_claidheamh](https://osu.ppy.sh/users/4686520)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: [Fyl](https://osu.ppy.sh/users/10069307) | *win by default* |
 
-### Quarterfinal
+### Quarterfinals
 
 Saturday, 27 July 2019:
 
@@ -364,7 +364,9 @@ Saturday, 29 June 2019:
 | **Group G** | ::{ flag=ID }:: [alvinrainbow](https://osu.ppy.sh/users/4783042) (15 points), ::{ flag=ID }:: [anzutto232](https://osu.ppy.sh/users/13408635) (15 points), ::{ flag=ID }:: [pakyan29](https://osu.ppy.sh/users/7879632) (6 points), ::{ flag=ID }:: [ilhamsyah849](https://osu.ppy.sh/users/4679215) (0 points), ::{ flag=ID }:: [\[AST\]Rosary](https://osu.ppy.sh/users/12504843) (0 points) | [#1](https://osu.ppy.sh/community/matches/53005726) |
 | **Group H** | ::{ flag=ID }:: [\[-TiaZark-\]](https://osu.ppy.sh/users/14294140) (13 points), ::{ flag=ID }:: [Dil-](https://osu.ppy.sh/users/3796282) (11 points), ::{ flag=ID }:: [ReZ\_TB](https://osu.ppy.sh/users/9113955) (6 points), ::{ flag=ID }:: [Hilmi Ghazian](https://osu.ppy.sh/users/3200342) (6 points), ::{ flag=ID }:: [RizSama](https://osu.ppy.sh/users/9281315) (0 points) | [#1](https://osu.ppy.sh/community/matches/53009213) |
 
-## General rules
+## Ruleset
+
+### General rules
 
 - There is no limit to the amount of participants.
 - Participants should register through the links provided in the forum thread.
@@ -430,7 +432,7 @@ Saturday, 29 June 2019:
     - The difference between the picks won by the player during the match. If they too are the same, then it will be determined from:
     - The highest seed from the Qualifiers.
 
-### Match Rules (Round of 32 until Grand Final)
+### Match rules (Round of 32 until Grand Finals)
 
   - If one of the players is not present, then the player who is present in the match will win by default.
   - Before the game starts, the players will `!roll` first. The players who **wins** in the `!roll` can choose to **ban first**. After both players have determined which maps are banned, the first player will choose the map that is going to be played.
@@ -438,9 +440,9 @@ Saturday, 29 June 2019:
   - The tiebreaker map is played when both players have the same amount of points and 1 more point is required to **win the match** by either player.
 - **Mappools format from Group Distribution stage**
   - Group Distribution Stage: Best of 7 (10 Maps, including 1 tiebreaker)
-  - Round of 16 – Quarterfinal: Best of 9 (12 maps, including 1 tiebreaker)
-  - Semifinal: Best of 11 (14 maps, including 1 tiebreaker)
-  - Final – Grand Final: Best of 13 (16 maps, including 1 tiebreaker)
+  - Round of 16 – Quarterfinals: Best of 9 (12 maps, including 1 tiebreaker)
+  - Semifinals: Best of 11 (14 maps, including 1 tiebreaker)
+  - Finals – Grand Finals: Best of 13 (16 maps, including 1 tiebreaker)
 - Starting from the Bracket Stage, a **double-elimination*** format will be used, which works as follows:
   - A player who loses in the winners' bracket will enter the losers' bracket (a special bracket for players who have already lost **one time**).
   - If the player loses again in the losers' bracket, then the player will be **eliminated from the tournament**.

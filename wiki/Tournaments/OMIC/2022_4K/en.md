@@ -6,9 +6,9 @@ tags:
 
 # osu!mania 4K Indonesia Cup 2022
 
-![O!MIC 4K 2022 Logo](img/logo.png)
+![O!MIC 4K 2022 logo](img/logo.png)
 
-The **osu!mania 4K Indonesia Cup 2022** (***O!MIC 4K 2022***) was a nationwide osu!mania 4K one-to-one tournament that was open exclusively to Indonesian players, with double-elimination bracket system. This tournament was the fifth iteration of the osu!mania 4K Indonesia Cup series.
+The **osu!mania 4K Indonesia Cup 2022** (***O!MIC 4K 2022***) was a 1v1 double-elimination osu!mania 4K tournament that was open exclusively to Indonesian players. It was the fifth instalment of the osu!mania 4K Indonesia Cup series.
 
 ## Tournament schedule 
 
@@ -19,22 +19,22 @@ The **osu!mania 4K Indonesia Cup 2022** (***O!MIC 4K 2022***) was a nationwide o
 | Qualifiers | 2022-07-02/2022-07-03 |
 | Round of 32 | 2022-07-09/2022-07-10 |
 | Round of 16 | 2022-07-16/2022-07-17 |
-| Quarterfinal | 2022-07-23/2022-07-24 |
-| Semifinal | 2022-07-30/2022-07-31 |
-| Final | 2022-08-06/2022-08-07 |
-| Grand Final | 2022-08-20/2022-08-21 |
+| Quarterfinals | 2022-07-23/2022-07-24 |
+| Semifinals | 2022-07-30/2022-07-31 |
+| Finals | 2022-08-06/2022-08-07 |
+| Grand Finals | 2022-08-20/2022-08-21 |
 
 ## Prizes
 
 | Placing | Price(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "First place") | 500,000 IDR, profile banner |
-| ![Silver Crown](/wiki/shared/crown-silver.png "Second place") | 300,000 IDR, profile banner |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "Third place") | 250,000 IDR, profile banner |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 500,000 IDR, profile banner |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 300,000 IDR, profile banner |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 250,000 IDR, profile banner |
 
 ## Organisation
 
-The O!MIC 4K 2022 was run by various osu! community members that are mostly Indonesian.
+The osu!mania 4K Indonesia Cup 2022 was run by various osu! community members predominantly hailing from Indonesia.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -60,7 +60,7 @@ The O!MIC 4K 2022 was run by various osu! community members that are mostly Indo
 
 ## Participants 
 
-Below is the list of players that qualified to Round of 32 (alongside with each seed) from the total of 46 players that were registered.
+Below is the list of players that qualified to Round of 32 (alongside with seeding) from the total of 46 players that were registered.
 
 | Seed | Player |
 | :-: | :-- |
@@ -75,13 +75,13 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "First place") | ::{ flag=ID }:: [\[Albert\]](https://osu.ppy.sh/users/12689667) |
-| ![Silver Crown](/wiki/shared/crown-silver.png "Second place") | ::{ flag=ID }:: [RetroEX](https://osu.ppy.sh/users/10540515) |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "Third place") | ::{ flag=ID }:: [Onta\_Bekasi](https://osu.ppy.sh/users/8677684) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=ID }:: [\[Albert\]](https://osu.ppy.sh/users/12689667) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=ID }:: [RetroEX](https://osu.ppy.sh/users/10540515) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=ID }:: [Onta\_Bekasi](https://osu.ppy.sh/users/8677684) |
 
 ## Mappools
 
-### Grand Final
+### Grand Finals
 
 **[Download the mappack here! (262 MB)](https://drive.google.com/file/d/1NbvTw2baYcHsmweM16zx3Gy7UaXHNSE9/view?usp=sharing)**
 
@@ -104,7 +104,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   1. **[deltaH, Gardens, glasse, Musature, Myntian, Sad Keyboard Guy - Rite of Ascendancy (Cut Ver.) (Antipole) \[Transfigured 1.05x (168bpm)\]](https://osu.ppy.sh/beatmapsets/1828448#mania/3752662)**
 
-### Final
+### Finals
 
 **[Download the mappack here! (180 MB)](https://drive.google.com/file/d/1XyJleO-0y66LczddxLQKnEYWrdWcAdCB/view?usp=sharing)**
 
@@ -150,7 +150,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   1. **[Sad Keyboard Guy, Gardens - NekovhParavh (MyZterioN-) \[Repressed Memory\]](https://osu.ppy.sh/beatmapsets/1791026#mania/3670181)**
 
-### Quarterfinal
+### Quarterfinals
 
 **[Download the mappack here! (138 MB)](https://drive.google.com/file/d/1C87RKiei7eMXL6ofd61Y6UcRPiCbaZLW/view?usp=sharing)**
 
@@ -214,14 +214,14 @@ This competition has come to an end and resulted in the following podium:
 
 - FreeMod
   1. [LeaF - MARENOL 1mg (Angki) \[Stage 1: Hallucination\]](https://osu.ppy.sh/beatmapsets/1793984#mania/3676731)
-  2. [Raytoly - Back To You ~Raytoly's Together Remix~ (Antipole) \[Stage 2: Solitude\]](https://osu.ppy.sh/beatmapsets/1793980#mania/3676726)
+  2. [Raytoly - Back To You \~Raytoly's Together Remix\~ (Antipole) \[Stage 2: Solitude\]](https://osu.ppy.sh/beatmapsets/1793980#mania/3676726)
   3. [succducc - me & u (Kara Edit) (TingMomentum) \[Stage 3: Affection\]](https://osu.ppy.sh/beatmapsets/1794198#mania/3677199)
   4. [Laur - Exitium (zutu) \[Stage 4: Destruction\]](https://osu.ppy.sh/beatmapsets/1793987#mania/3676738)
   5. [USAO & Camellia - Mobius (FelixSpade) \[Stage 5: Ouroboros\]](https://osu.ppy.sh/beatmapsets/1793983#mania/3676730)
 
 ## Match results 
 
-### Grand Final
+### Grand Finals
 
 Saturday, 20 August 2022:
 
@@ -236,7 +236,7 @@ Sunday, 21 August 2022:
 | Grand Final | RetroEX ::{ flag=ID }:: | 1 | **7** | ::{ flag=ID }:: **\[Albert\]** | [#1](https://osu.ppy.sh/community/matches/103225169) |
 | Bracket Reset | **\[Albert\]** ::{ flag=ID }:: | **7** | 1 | ::{ flag=ID }:: RetroEX | [#1](https://osu.ppy.sh/community/matches/103230619) |
 
-### Final
+### Finals
 
 Saturday, 6 August 2022:
 
@@ -252,7 +252,7 @@ Sunday, 7 August 2022:
 | Loser | **\[Albert\]** ::{ flag=ID }:: | **7** | 3 | ::{ flag=ID }:: Proxae | [#1](https://osu.ppy.sh/community/matches/102884090) |
 | Winner | **RetroEX** ::{ flag=ID }:: | **7** | 2 | ::{ flag=ID }:: Onta\_Bekasi | [#1](https://osu.ppy.sh/community/matches/102888337) |
 
-### Senifinal
+### Semifinals
 
 Saturday, 30 July 2022:
 
@@ -272,7 +272,7 @@ Sunday, 31 July 2022:
 | Loser | \[ReyZ\] ::{ flag=ID }:: | -1 | **0** | ::{ flag=ID }:: **Dellia** | *win by default* |
 | Winner | **RetroEX** ::{ flag=ID }:: | **6** | 4 | ::{ flag=ID }:: adihza | [#1](https://osu.ppy.sh/community/matches/102708382), [#2](https://osu.ppy.sh/community/matches/102709883) |
 
-### Quarterfinal
+### Quarterfinals
 
 Saturday, 23 July 2022:
 
@@ -356,7 +356,7 @@ Sunday, 10 July 2022:
 | Winner | **HEAL\_69** ::{ flag=ID }:: | **4** | 2 | ::{ flag=ID }:: Proxae | [#1](https://osu.ppy.sh/community/matches/102156827) |
 | Winner | **\[Albert\]** ::{ flag=ID }:: | **4** | 1 | ::{ flag=ID }:: \[ Albedo \] | [#1](https://osu.ppy.sh/community/matches/102156682) |
 
-## Rules
+## Ruleset
 
 ### Registration rules
 
@@ -364,7 +364,7 @@ Sunday, 10 July 2022:
 - Participants should register through the links provided in the forum thread.
 - Flag on each participant's osu! account must be **Indonesia**.
 - The lowest rank for this tournament is **#5000 4K global rank**.
-- - Tournament staff members are not permitted to participate as players in this tournament, except for the following positions:
+- Tournament staff members are not permitted to participate as players in this tournament, except for the following positions:
   - Streamer 
   - Commentator 
   - Designer 
@@ -403,7 +403,7 @@ Sunday, 10 July 2022:
     - 17-24: Medium seed
     - 25-32: Low seed
 
-#### Round of 32 until Grand Final
+#### Round of 32 until Grand Finals
 
 - If one of the players is not present, then the player who is present in the match will win by default.
   - Before the game starts, the players will `!roll` first. The players who **wins** in the `!roll` can choose **to protect or ban first**. After both players have determined which maps are protected and banned, the first player will choose the map that is going to be played.
@@ -412,9 +412,9 @@ Sunday, 10 July 2022:
 - The mappool composition for each round in the knockout phase is as follows:
   - Round of 32 : Best of 7 (10 maps, including 1 tiebreaker)
   - Round of 16 : Best of 9 (11 maps, including 1 tiebreaker)
-  - Quarterfinal : Best of 11 (13 maps, including 1 tiebreaker)
-  - Semifinal : Best of 11 (15 maps, including 1 tiebreaker)
-  - Final – Grand Final : Best of 13 (15 maps, including 1 tiebreaker)
+  - Quarterfinals : Best of 11 (13 maps, including 1 tiebreaker)
+  - Semifinals : Best of 11 (15 maps, including 1 tiebreaker)
+  - Finals – Grand Finals : Best of 13 (15 maps, including 1 tiebreaker)
 - Starting from the Bracket Stage, a **double-elimination*** format will be used, which works as follows:
   - A player who loses in the winners' bracket will enter the losers' bracket (a special bracket for players who have already lost **one time**).
   - If the player loses again in the losers' bracket, then the player will be **eliminated from the tournament**.
