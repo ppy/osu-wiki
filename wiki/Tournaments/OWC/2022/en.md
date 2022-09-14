@@ -154,7 +154,7 @@ The osu! World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) and var
    - The loser of the `!roll` decides which team **bans** first.
    - **From Quarterfinals onwards, the first team will ban one beatmap, followed by two bans from second team, finishing with one ban from the first team.**
 4. After bans are decided, both teams will take turns in picking a beatmap from the mappool.
-5. Teams will be allowed 2 minutes to pick a beatmap and 2 minutes to press the `Ready` button on their client. If a team takes more time than alloted for either either action, the procedures adopted will be as follows:
+5. Teams will be allowed 2 minutes to pick a beatmap and 2 minutes to press the `Ready` button on their client. If a team takes more time than alloted for either action, the procedures adopted will be as follows:
    - For the first occurrence:
      - The team will receive a verbal warning from the referee
    - On subsequent occurrences:
