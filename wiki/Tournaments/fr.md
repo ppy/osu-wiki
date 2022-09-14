@@ -211,6 +211,7 @@ Tournois et compétitions non-officiels gérés par la communauté.
 | Nom | Début | Fin | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu! Battle Archive Malaisie](o!BAM/1) | 10/08/2021 | 17/10/2021 | 5 digit btw | nomicstreamers | Communist LSD enjoyers |
+| [osu! Battle Archive Malaysia 2022](o!BAM/2) | 19/08/2022 | 06/11/2022 | - | - | - |
 
 #### osu! European Tournament
 
@@ -322,6 +323,13 @@ Tournois et compétitions non-officiels gérés par la communauté.
 | [Royal Danish osu!Cup 2019](RDOC/2019) | 22/02/2020 | 05/04/2020 | ::{ flag=DK }:: [Spork Lover](https://osu.ppy.sh/users/3417469) | ::{ flag=DK }:: [Vandabe](https://osu.ppy.sh/users/7050754) | ::{ flag=DK }:: [Tikzyy](https://osu.ppy.sh/users/11380904) |
 | [Royal Danish osu!Cup 2020](RDOC/2020) | 01/07/2020 | 27/09/2020 | ::{ flag=DK }:: [iamVill](https://osu.ppy.sh/users/6295380) | ::{ flag=DK }:: [Pablohh](https://osu.ppy.sh/users/10092099) | ::{ flag=DK }:: [Vandabe](https://osu.ppy.sh/users/7050754) |
 
+#### Spanish Showdown
+
+| Nom | Début | Fin | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Spanish Showdown 2021](SS/2021) | 21/03/2021 | 08/05/2021 | ::{ flag=ES }:: [A N T O N I O](https://osu.ppy.sh/users/12760743) | ::{ flag=ES }:: [Estopa](https://osu.ppy.sh/users/4470553) | ::{ flag=ES }:: [waaiiru](https://osu.ppy.sh/users/903978) |
+| [Spanish Showdown 2022](SS/2022) | 18/03/2022 | 15/05/2022 | ::{ flag=ES }:: [A N T O N I O](https://osu.ppy.sh/users/12760743) | ::{ flag=ES }:: [Estopa](https://osu.ppy.sh/users/4470553) | ::{ flag=ES }:: [NHarmonia](https://osu.ppy.sh/users/9582556) |
+
 #### SS Tournament
 
 | Nom | Début | Fin | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] |
@@ -383,13 +391,6 @@ Tournois et compétitions non-officiels gérés par la communauté.
 | Nom | Début | Fin | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Yuri Cup](YC/1) | 22/02/2020 | 05/04/2020 | Corim's Bad Dream | a la verga | Rtzero x Rtzer0 |
-
-#### Spanish Showdown
-
-| Nom | Début | Fin | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Spanish Showdown 2021](SS/2021) | 21/03/2021 | 08/05/2021 | ::{ flag=ES }:: [A N T O N I O](https://osu.ppy.sh/users/12760743) | ::{ flag=ES }:: [Estopa](https://osu.ppy.sh/users/4470553) | ::{ flag=ES }:: [waaiiru](https://osu.ppy.sh/users/903978) |
-| [Spanish Showdown 2022](SS/2022) | 18/03/2022 | 15/05/2022 | ::{ flag=ES }:: [A N T O N I O](https://osu.ppy.sh/users/12760743) | ::{ flag=ES }:: [Estopa](https://osu.ppy.sh/users/4470553) | ::{ flag=ES }:: [NHarmonia](https://osu.ppy.sh/users/9582556) |
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
@@ -527,6 +528,7 @@ Tournois et compétitions non-officiels gérés par la communauté.
 | [Catch French Intermediate Cup](CFC/CFIC_1) | 01/03/2019 | 31/03/2019 | ::{ flag=FR }:: [Realmas](https://osu.ppy.sh/users/6567640) | ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467) | ::{ flag=FR }:: [Zard](https://osu.ppy.sh/users/6277626) |
 | [Catch French Cup 4](CFC/4) | 30/03/2019 | 28/04/2019 | ::{ flag=FR }:: [Alostis](https://osu.ppy.sh/users/2986875) | ::{ flag=TN }:: [-Ken](https://osu.ppy.sh/users/4430811) | ::{ flag=FR }:: [Noulayfe](https://osu.ppy.sh/users/4316542) |
 | [Catch French Intermediate Cup 2](CFC/CFIC_2) | 15/02/2020 | 21/03/2020 | ::{ flag=FR }:: [Fuka Pura](https://osu.ppy.sh/users/2326688) | ::{ flag=FR }:: [Kaleesy Pura](https://osu.ppy.sh/users/1800077) | ::{ flag=FR }:: [dracoV](https://osu.ppy.sh/users/7925725) |
+| [Catch French Dual Tournament](CFC/CFDT_1) | 08/05/2021 | 05/06/2021 | Nameless (::{ flag=FR }:: [Akan0o](https://osu.ppy.sh/users/11286034), ::{ flag=FR }:: [Yostel](https://osu.ppy.sh/users/3594510)) | les bg (::{ flag=FR }:: [Realmas](https://osu.ppy.sh/users/6567640), ::{ flag=BE }:: [Cakenoob](https://osu.ppy.sh/users/6045522)) | Oask'eyeS (::{ flag=FR }:: [Dask](https://osu.ppy.sh/users/4151397), ::{ flag=FR }:: [Oasix](https://osu.ppy.sh/users/6183012)) |
 | [Catch French Intermediate Cup 3](CFC/CFIC_3) | 11/09/2021 | 17/10/2021 | ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467) | ::{ flag=FR }:: [AiNA](https://osu.ppy.sh/users/4426908) | ::{ flag=FR }:: [Cryophenix](https://osu.ppy.sh/users/3996466) |
 
 #### Catch the Beat Indonesia Cup
