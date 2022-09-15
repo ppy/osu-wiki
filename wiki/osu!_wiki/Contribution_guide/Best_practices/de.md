@@ -18,7 +18,7 @@ Um Änderungen an einem Repository auf GitHub vorzunehmen, muss sich ein Mitwirk
 
 ![](img/update-branch.png "Den nicht mehr aktuellen Branch aktualisieren")
 
-Jetzt ist dein Branch auf dem neusten Stand mit dem ursprünglichen Repository.
+Jetzt ist dein Branch auf demselben Stand wie das ursprüngliche Repository.
 
 ---
 
