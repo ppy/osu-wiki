@@ -1,7 +1,4 @@
----
-outdated_since: 3cfbc4e75e17092cf181c6f1235bfb105666003d
-outdated_translation: true
----
+
 
 # BBCode
 
