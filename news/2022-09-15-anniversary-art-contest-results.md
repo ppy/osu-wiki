@@ -154,6 +154,8 @@ You can also visit the [contest listing](https://osu.ppy.sh/community/contests/1
 
 A massive thank you to everyone who took the time out of their day to create stunning artworks for us to vote on. It is always a pleasure to see these contests continue to thrive whenever we host them — and remember, Halloween's not too far off either!
 
-See you then!
+Before you go, the osu!team is planning to host a casual discussion on how far osu! has come in the past 15 years over on the [osu!dev Discord](https://discord.com/invite/ppy) this weekend. We'll be covering whatever comes to mind, which will also likely include some of our favourite fan art entries. If you're interested, [click this link to be notified exactly when it starts](https://discord.gg/dGxVdr3w?event=1019987643611754526).
+
+Until next time!
 
 —Ephemeral
