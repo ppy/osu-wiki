@@ -10,7 +10,7 @@ Diese Seite beschäftigt sich mit einigen Aufgaben, die beim Beitragen zu erledi
 
 ## Die Verzweigung synchronisieren
 
-Um Änderungen an einem Repository auf GitHub vorzunehmen, muss sich ein Mitwirkender eine isolierte Kopie des Repositorys beschaffen, welche *Verzweigung* (Fork) genannt wird. Wenn du deine Verzweigung des Repositorys `osu-wiki` erstellst, fertigst du eine Momentaufnahme des Inhalts zu diesem Augenblick an. **Synchronisiere immer deine Verzweigung** zum Beitragen, bevor du Änderungen vornimmst — das kann direkt in GitHub gemacht werden:
+Um Änderungen an einem Repository auf GitHub vorzunehmen, muss sich ein Mitwirkender eine isolierte Kopie des Repositorys beschaffen, welche *Verzweigung* (Fork) genannt wird. Wenn du deine Verzweigung des Repositorys `osu-wiki` erstellst, fertigst du eine Momentaufnahme des Inhalts zu diesem Augenblick an. Um einen sinnhaften Beitrag zu erstellen, **synchronisiere immer deine Verzweigung**, bevor du Änderungen vornimmst — das kann direkt in GitHub gemacht werden:
 
 1. Gehe zu deiner Verzweigung des Repositorys `osu-wiki`.
 2. Wähle den Branch `master` aus dem Dropdown-Menü aus.
