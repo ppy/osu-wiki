@@ -26,7 +26,7 @@ The **osu! World Cup 2022** (***OWC 2022***) is an upcoming country-based osu! t
 
 ## Prizes
 
-The osu! World Cup 2022 offers a minimum $5,000 cash prize pool and limited-edition merch. The prize pool may increase further from **[community donations](https://opencollective.com/osu-tournaments/events/osu-world-cup-2022-0b3a1a25)**!
+The osu! World Cup 2022 offers a minimum $5,000 cash prize pool and limited edition merch. The prize pool may increase further from **[community donations](https://opencollective.com/osu-tournaments/events/osu-world-cup-2022-0b3a1a25)**!
 
 | Placing | Prizes |
 | :-: | :-- |
