@@ -46,7 +46,7 @@ The osu! World Cup 2022 offers a $5,000 prize pool, along with limited edition m
 - Teams will be formed by each country's captain *after* the registration phase has concluded.
 - **The deadline for registering is September 29, 23:59 UTC. Make sure to get yours in before then!**
 
-*Notice: you may only participate if your position in the osu! global ranking is #5000 or higher, and you have not violated the [osu! community rules](/wiki/Rules) in the past 12 months*.
+*Notice: you may only participate if your position in the osu! global ranking is #5000 or higher, and you have not violated the [osu! community rules](/wiki/Rules) in the past 12 months.*
 
 If your registration passes our internal checks, you will be placed on the candidate list for your country. When that country's captain has been assigned, the list will be sent to them. This may take a while, so please be patient.
 
