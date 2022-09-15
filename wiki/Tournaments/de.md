@@ -26,6 +26,7 @@ Der osu! World Cup ist ein länderbasiertes 4v4-Team-VS-Turnier mit Doppelaussch
 | [osu! World Cup 2019](OWC/2019) | 09.11.2019 | 22.12.2019 | ::{ flag=US }:: Vereinigte Staaten | ::{ flag=KR }:: Südkorea | ::{ flag=GB }:: Vereinigtes Königreich |
 | [osu! World Cup 2020](OWC/2020) | 24.10.2020 | 06.12.2020 | ::{ flag=US }:: Vereinigte Staaten | ::{ flag=DE }:: Deutschland | ::{ flag=CA }:: Kanada |
 | [osu! World Cup 2021](OWC/2021) | 09.10.2021 | 28.11.2021 | ::{ flag=US }:: Vereinigte Staaten | ::{ flag=DE }:: Deutschland | ::{ flag=KR }:: Südkorea |
+| [osu! World Cup 2022](OWC/2022) | 15.10.2022 | 27.11.2022 | *TBD* | *TBD* | *TBD* |
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko World Cup
 

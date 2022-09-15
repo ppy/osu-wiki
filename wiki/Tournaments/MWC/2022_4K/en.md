@@ -111,7 +111,7 @@ The osu!mania 4K World Cup 2022 is run by the [osu! team](/wiki/People/The_Team)
 
 | Team A | Team B | Match time |  |
 | --: | :-- | :-- | :-: |
-| South Korea ::{ flag=KR }:: | ::{ flag=US }:: United States | [Sep 18 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220918T030000&p1=1440&p2=235&p3=263) | [^losers-bracket] |
+| South Korea ::{ flag=KR }:: | ::{ flag=US }:: United States | [Sep 18 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220918T040000&p1=1440&p2=235&p3=263) | [^losers-bracket] |
 | Brazil ::{ flag=BR }:: | ::{ flag=KR }:: South Korea | [Sep 18 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220918T140000&p1=1440&p2=45&p3=235) | [^potential-match] |
 | Brazil ::{ flag=BR }:: | ::{ flag=US }:: United States | [Sep 18 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220918T180000&p1=1440&p2=45&p3=263) | [^potential-match] |
 
@@ -287,6 +287,8 @@ The osu!mania 4K World Cup 2022 is run by the [osu! team](/wiki/People/The_Team)
 ## Match results
 
 ### Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1I5_Jd33hAH0yJRju9Tuoz3aqlQQFmrAz7nSIUND7EWs).
 
 Saturday, 10 September 2022:
 
