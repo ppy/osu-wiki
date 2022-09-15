@@ -25,10 +25,10 @@ tags:
 - Множитель очков: 0.50x
 - Горячая клавиша по умолчанию: `Q`
 - Описание:
-  - ![][osu!]: `Reduces overall difficulty - larger circles, more forgiving HP drain, less accuracy required.`
-  - ![][osu!taiko]: `Reduces overall difficulty - notes move slower, less accuracy required.`
-  - ![][osu!catch]: `Reduces overall difficulty - larger circles, more forgiving HP drain, less accuracy required.`
-  - ![][osu!mania]: `Reduces overall difficulty - more forgiving HP drain, less accuracy required.`
+  - ![][osu!]: `На прохождение дается три попытки. Ноты становятся крупнее, медленнее и требуют меньшей точности. Если Вам кажется, что это легко, то Вы ошибаетесь.`
+  - ![][osu!taiko]: `Упрощает игру. Ноты двигаются медленней и менее требовательны к точности.`
+  - ![][osu!catch]: `На прохождение дается три попытки. Ноты становятся крупнее, медленнее и требуют меньшей точности. Если Вам кажется, что это легко, то Вы ошибаетесь.`
+  - ![][osu!mania]: `Упрощает игру. Ноты менее требовательны к точности, а HP тратится медленней.`
 - Режимы игры: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
 ## Описание

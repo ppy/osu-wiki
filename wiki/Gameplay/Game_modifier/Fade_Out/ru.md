@@ -34,7 +34,7 @@ tags:
 
 *Примечание: этот мод больше не доступен в игре.*
 
-**Fade Out** (рус. *постепенное пропадание*) — ранее доступный [игровой модификатор](/wiki/Game_modifier) в [osu!mania](/wiki/Game_mode/osu!mania), отчасти похожий на мод [Fade In](/wiki/Game_modifier/Fade_In). При включении Fade Out ноты постепенно *пропадали* перед нажатием. Позднее этот мод был заменен на [Hidden](/wiki/Game_modifier/Hidden).
+**Fade Out** (рус. *постепенное исчезновение*) — ранее доступный [игровой модификатор](/wiki/Game_modifier) в [osu!mania](/wiki/Game_mode/osu!mania), отчасти похожий на мод [Fade In](/wiki/Game_modifier/Fade_In). При включении Fade Out ноты постепенно *пропадали* перед нажатием. Позднее этот мод был заменен на [Hidden](/wiki/Game_modifier/Hidden).
 
 Hidden и Fade Out имеют одинаковый механизм действия.
 
