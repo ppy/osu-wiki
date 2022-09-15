@@ -57,7 +57,7 @@ Innerhalb deiner Verzweigung des osu!-Wikis bist du frei, jegliche Änderungen z
 
 ## Eine Änderungsanfrage erstellen
 
-Eine Änderungsanfrage (Pull-Request) zeigt anderen Personen, wie deine Bearbeitung die Dateien beeinflusst. Füge ein paar Informationen zu deiner Anfrage hinzu, um deine Intention zu erklären:
+Eine Änderungsanfrage (Pull-Request) zeigt anderen Personen, wie deine Änderungen die Dateien beeinflussen. Füge ein paar Informationen zu deiner Anfrage hinzu, um deine Intention zu erklären:
 
 - `Title`: Ein sehr kurzer, beschreibender Titel für deine Änderungen in Englisch, zusammen mit dem Artikelnamen. Starte für eine Übersetzung mit Klammern und der Sprachbezeichnung mit zwei Buchstaben deiner Übersetzung. Beispiele:
   - ``[DE] Add `BBCode` ``

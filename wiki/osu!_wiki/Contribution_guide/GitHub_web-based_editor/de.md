@@ -46,7 +46,7 @@ Artikel werden innerhalb von Ordnern mit dem originalen Text (`en.md`) und seine
 - Um eine neue **Übersetzung** für einen existierenden Artikel hinzuzufügen, klicke mit der rechten Maustaste in den jeweiligen Ordner und lege eine neue Datei mit der Endung `.md` und [einem der unterstützten Dateinamen](/wiki/Article_styling_criteria/Formatting#locales) an.
 - Mache das Folgende für das Erstellen eines neuen **Artikels**:
   - Erstelle einen Ordner in einer angemessenen Kategorie, die der [Namenskonvention](/wiki/Article_styling_criteria/Formatting#ordner--und-dateistrukturen) folgt. Wenn der Artikel nirgendwo hin gehört, dann kreiere einen Ordner im Verzeichnis `/wiki/`.
-  - Füge die Datei `de.md` mit dem Text des Artikels zum neuen Ordner hinzu.
+  - Füge die Datei `en.md` mit dem Text des Artikels zum neuen Ordner hinzu.
 
 ### Dateioperationen
 

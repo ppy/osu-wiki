@@ -1,6 +1,6 @@
 # Beitragsleitfaden des osu!-Wikis
 
-Danke für dein Interesse, das osu!-Wiki besser zu machen! Dieser Artikel beschäftigt sich Schritt-für-Schritt mit dem Beteiligungsprozess. Solltest du mit GitHub vertraut sein, folge gerne dem üblichen Feature-Branch-Workflow, um Änderungen vorzuschlagen und springe zum Abschnitt [Selbstüberprüfung](#selbstüberprüfung).
+Danke für dein Interesse, das osu!-Wiki besser zu machen! Dieser Artikel beschäftigt sich Schritt für Schritt mit dem Beteiligungsprozess. Solltest du mit GitHub vertraut sein, folge gerne dem üblichen Feature-Branch-Workflow, um Änderungen vorzuschlagen und springe zum Abschnitt [Selbstüberprüfung](#selbstüberprüfung).
 
 Von neuen Mitwirkenden wird nicht erwartet, dass sie sich mit GitHub oder [git](https://git-scm.com/) auskennen, da diese Werkzeuge hauptsächlich für Entwickler gedacht sind. Mache dir keine Sorgen, wenn du es beim ersten Mal nicht hinbekommst — ein [Wiki-Betreuer](/wiki/osu!_wiki/Maintenance/List_of_maintainers) wird dich entweder in die richtige Richtung weisen oder es für dich beheben.
 
@@ -36,7 +36,7 @@ Nachdem du mit der Bearbeitung fertig bist, nehme dir genug Zeit, deine Arbeit K
 - **Struktur und Formatierung**: Siehe dir deinen Artikel mit einem Tool wie dem [Markdown-Editor von jbt](https://jbt.github.io/markdown-editor/) an, um sicherzugehen, dass er genauso aussieht, wie du es möchtest.
 - **Alle Bilder und andere Dateien ohne Text** müssen [unter 1 Megabyte](/wiki/Article_styling_criteria/Formatting#dateigröße) sein. Bei **Screenshots** müssen der standardmäßige osu!-Skin verwenden werden und [spezielle Einstellungen](/wiki/Article_styling_criteria/Formatting#screenshots-des-spielverlaufs), einschließlich der maximalen Abmessung von 1280 × 720, gesetzt sein.
 
-Für mehr spezifische Schreib- und Formatierungsstandards wird auf die [Artikelgestaltungskriterien](/wiki/Article_styling_criteria) verwiesen. Es wird nicht empfohlen, sie auf einmal durchzulesen — ein Rezensent wird wahrscheinlich darauf hinweisen, wenn etwas korrigiert werden muss.
+Für mehr spezifische Schreib- und Formatierungsstandards wird auf die [Artikelgestaltungskriterien](/wiki/Article_styling_criteria) verwiesen. Es wird nicht empfohlen, sie alle auf einmal durchzulesen — ein Rezensent wird wahrscheinlich darauf hinweisen, wenn etwas korrigiert werden muss.
 
 ## Änderungsanfrage
 
@@ -52,10 +52,10 @@ Alle Änderungen des osu!-Wikis werden moderiert. Während dieser Phase weisen a
 
 Wenn sich nach einigen Tagen niemand gemeldet hat, versuche folgendes:
 
-- Stelle sicher, dass du alle Vorschläge beseitigt hast — es könnten Personen auf deine Antwort warten.
+- Stelle sicher, dass du auf alle Vorschläge eingegangen bist — es könnten Personen auf deine Antwort warten.
 - Frage andere Beteiligte im [osu!dev Discord-Server](/wiki/Community/osu!dev_Discord_server) (Kanal `#osu-wiki`) oder in den GitHub-Kommentaren.
 - Schaue dir einige genehmigte Änderungsanfragen für deine Sprache an und kontaktiere ihre Gutachter und/oder Autoren, um Hilfe für die Übersetzung zu bekommen ([beispielhafte GitHub-Abfrage](https://github.com/ppy/osu-wiki/pulls?q=is%3Apr+is%3Amerged+%5BID%5D)).
-- Frage deine Freunde für einen kurzen Blick!
+- Frage deine Freunde nach einem kurzen Blick!
 
 Zusätzlich zu einem manuellen Bewertungsprozess hat das Repository des osu!-Wikis eine [Reihe von automatisierten Überprüfungen](/wiki/osu!_wiki/Maintenance#ci-checks), die sicherstellen, dass deine Änderungen dem allgemeinen Stil des Wikis folgen und frei von Formatierungsfehlern sind. Um ihren Status zu sehen, öffne den Tab `Actions` deiner Änderungsanfrage und folge den Diagnosemeldungen unter den Fehlern, sofern vorhanden.
 
