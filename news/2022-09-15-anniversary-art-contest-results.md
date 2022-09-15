@@ -12,7 +12,7 @@ With **86** artists putting their best foot forward, it was never going to be an
 
 **14,930** voters made their preferences known across a wide variety of pieces exploring osu!'s (quite literally) colourful history, and now we have finalists to crown.
 
-We'll be getting stuck straight into the voting results below - but wait, there's a twist! The observant among you may have noticed that we've got far more than the standard 15-20 entries that usually make it in, and that's because we've got an extra *six* courtesy of peppy himself this time around.
+We'll be getting stuck straight into the voting results below — but wait, there's a twist! The observant among you may have noticed that we've got far more than the standard 15-20 entries that usually make it in, and that's because we've got an extra *six* courtesy of peppy himself this time around.
 
 Read on to see how it all goes!
 
@@ -26,7 +26,7 @@ A simply superb entry well deserving of first place - congratulations, Dreamxiet
 
 [![](https://assets.ppy.sh/contests/153/banners/illuminae2005.jpg)](https://assets.ppy.sh/contests/153/winners/illuminae2005.png)
 
-Sporting some serious style, **7248** voters got down with [**illuminae2005**](https://osu.ppy.sh/users/29866964)'s rendition of pippi and mocha sporting some similarly serious attitude. Memorable maps in multitude build brilliant backing for this wonderful piece, and we're excited to see how it'll look on the main menu.
+Sporting some serious style, **7248** voters got down with [**illuminae2005**](https://osu.ppy.sh/users/29866964)'s rendition of pippi and Mocha sporting some similarly serious attitude. Memorable maps in multitude build brilliant backing for this wonderful piece, and we're excited to see how it'll look on the main menu.
 
 Judging from the vote numbers, we think you will be too!
 
@@ -46,7 +46,7 @@ Take a moment to consider that with osu!(lazer) in full swing, the future is goi
 
 [![](https://assets.ppy.sh/contests/153/banners/DGen.jpg)](https://assets.ppy.sh/contests/153/winners/DGen.png)
 
-**6164** voters shot their stars at [**DGen**](https://osu.ppy.sh/users/13290907)'s very pointy homage to Freedom Dive, featuring pippi and Mocha in appropriate costumes. Aspire to be as the don is - lost in a blissful gaze towards the heavens... if you can somehow ignore the mascots in front of you!
+**6164** voters shot their stars at [**DGen**](https://osu.ppy.sh/users/13290907)'s very pointy homage to Freedom Dive, featuring pippi and Mocha in appropriate costumes. Aspire to be as the don is — lost in a blissful gaze towards the heavens... if you can somehow ignore the mascots in front of you!
 
 [![](https://assets.ppy.sh/contests/153/banners/ZunK.jpg)](https://assets.ppy.sh/contests/153/winners/ZunK.png)
 
@@ -108,7 +108,7 @@ We'd also like to note that Mari's look in the bottom right is how she feels whe
 
 [![](https://assets.ppy.sh/contests/153/banners/NandoFernandez.jpg)](https://assets.ppy.sh/contests/153/winners/NandoFernandez.png)
 
-**3114** voters got lost in a time portal with [**NandoFernandez**](https://osu.ppy.sh/users/10614731)'s psychadelic entry. Mocha appears to have broken the time-space continuum again as the game mode mascots and a few more play witness to the end of time. Or perhaps it is indicative of osu! all but consuming your free time the moment you open it. We bet plenty of you have been there - we sure have!
+**3114** voters got lost in a time portal with [**NandoFernandez**](https://osu.ppy.sh/users/10614731)'s psychedelic entry. Mocha appears to have broken the time-space continuum again as the game mode mascots and a few more play witness to the end of time. Or perhaps it is indicative of osu! all but consuming your free time the moment you open it. We bet plenty of you have been there — we sure have!
 
 ## peppy's Picks
 

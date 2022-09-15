@@ -26,6 +26,7 @@ The osu! World Cup is a country-based 4v4 Team VS tournament following double-el
 | [osu! World Cup 2019](OWC/2019) | 2019-11-09 | 2019-12-22 | ::{ flag=US }:: United States | ::{ flag=KR }:: South Korea | ::{ flag=GB }:: United Kingdom |
 | [osu! World Cup 2020](OWC/2020) | 2020-10-24 | 2020-12-06 | ::{ flag=US }:: United States | ::{ flag=DE }:: Germany | ::{ flag=CA }:: Canada |
 | [osu! World Cup 2021](OWC/2021) | 2021-10-09 | 2021-11-28 | ::{ flag=US }:: United States | ::{ flag=DE }:: Germany | ::{ flag=KR }:: South Korea |
+| [osu! World Cup 2022](OWC/2022) | 2022-10-15 | 2022-11-27 | *TBD* | *TBD* | *TBD* |
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko World Cup
 
@@ -210,6 +211,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu! Battle Archive Malaysia](o!BAM/1) | 2021-08-10 | 2021-10-17 | 5 digit btw | nomicstreamers | Communist LSD enjoyers |
+| [osu! Battle Archive Malaysia 2022](o!BAM/2) | 2022-08-19 | 2022-11-06 | - | - | - |
 
 #### osu! European Tournament
 
@@ -321,6 +323,13 @@ Unofficial tournaments/competitions hosted by the communities.
 | [Royal Danish osu!Cup 2019](RDOC/2019) | 2020-02-22 | 2020-04-05 | ::{ flag=DK }:: [Spork Lover](https://osu.ppy.sh/users/3417469) | ::{ flag=DK }:: [Vandabe](https://osu.ppy.sh/users/7050754) | ::{ flag=DK }:: [Tikzyy](https://osu.ppy.sh/users/11380904) |
 | [Royal Danish osu!Cup 2020](RDOC/2020) | 2020-07-01 | 2020-09-27 | ::{ flag=DK }:: [iamVill](https://osu.ppy.sh/users/6295380) | ::{ flag=DK }:: [Pablohh](https://osu.ppy.sh/users/10092099) | ::{ flag=DK }:: [Vandabe](https://osu.ppy.sh/users/7050754) |
 
+#### Spanish Showdown
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Spanish Showdown 2021](SS/2021) | 2021-03-21 | 2021-05-08 | ::{ flag=ES }:: [A N T O N I O](https://osu.ppy.sh/users/12760743) | ::{ flag=ES }:: [Estopa](https://osu.ppy.sh/users/4470553) | ::{ flag=ES }:: [waaiiru](https://osu.ppy.sh/users/903978) |
+| [Spanish Showdown 2022](SS/2022) | 2022-03-18 | 2022-05-15 | ::{ flag=ES }:: [A N T O N I O](https://osu.ppy.sh/users/12760743) | ::{ flag=ES }:: [Estopa](https://osu.ppy.sh/users/4470553) | ::{ flag=ES }:: [NHarmonia](https://osu.ppy.sh/users/9582556) |
+
 #### SS Tournament
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
@@ -382,13 +391,6 @@ Unofficial tournaments/competitions hosted by the communities.
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Yuri Cup](YC/1) | 2020-02-22 | 2020-04-05 | Corim's Bad Dream | a la verga | Rtzero x Rtzer0 |
-
-#### Spanish Showdown
-
-| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Spanish Showdown 2021](SS/2021) | 2021-03-21 | 2021-05-08 | ::{ flag=ES }:: [A N T O N I O](https://osu.ppy.sh/users/12760743) | ::{ flag=ES }:: [Estopa](https://osu.ppy.sh/users/4470553) | ::{ flag=ES }:: [waaiiru](https://osu.ppy.sh/users/903978) |
-| [Spanish Showdown 2022](SS/2022) | 2022-03-18 | 2022-05-15 | ::{ flag=ES }:: [A N T O N I O](https://osu.ppy.sh/users/12760743) | ::{ flag=ES }:: [Estopa](https://osu.ppy.sh/users/4470553) | ::{ flag=ES }:: [NHarmonia](https://osu.ppy.sh/users/9582556) |
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
@@ -526,6 +528,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | [Catch French Intermediate Cup](CFC/CFIC_1) | 2019-03-01 | 2019-03-31 | ::{ flag=FR }:: [Realmas](https://osu.ppy.sh/users/6567640) | ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467) | ::{ flag=FR }:: [Zard](https://osu.ppy.sh/users/6277626) |
 | [Catch French Cup 4](CFC/4) | 2019-03-30 | 2019-04-28 | ::{ flag=FR }:: [Alostis](https://osu.ppy.sh/users/2986875) | ::{ flag=TN }:: [-Ken](https://osu.ppy.sh/users/4430811) | ::{ flag=FR }:: [Noulayfe](https://osu.ppy.sh/users/4316542) |
 | [Catch French Intermediate Cup 2](CFC/CFIC_2) | 2020-02-15 | 2020-03-21 | ::{ flag=FR }:: [Fuka Pura](https://osu.ppy.sh/users/2326688) | ::{ flag=FR }:: [Kaleesy Pura](https://osu.ppy.sh/users/1800077) | ::{ flag=FR }:: [dracoV](https://osu.ppy.sh/users/7925725) |
+| [Catch French Dual Tournament](CFC/CFDT_1) | 2021-05-08 | 2021-06-05 | Nameless (::{ flag=FR }:: [Akan0o](https://osu.ppy.sh/users/11286034), ::{ flag=FR }:: [Yostel](https://osu.ppy.sh/users/3594510)) | les bg (::{ flag=FR }:: [Realmas](https://osu.ppy.sh/users/6567640), ::{ flag=BE }:: [Cakenoob](https://osu.ppy.sh/users/6045522)) | Oask'eyeS (::{ flag=FR }:: [Dask](https://osu.ppy.sh/users/4151397), ::{ flag=FR }:: [Oasix](https://osu.ppy.sh/users/6183012)) |
 | [Catch French Intermediate Cup 3](CFC/CFIC_3) | 2021-09-11 | 2021-10-17 | ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467) | ::{ flag=FR }:: [AiNA](https://osu.ppy.sh/users/4426908) | ::{ flag=FR }:: [Cryophenix](https://osu.ppy.sh/users/3996466) |
 
 #### Catch the Beat Indonesia Cup
