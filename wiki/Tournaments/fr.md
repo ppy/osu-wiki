@@ -105,6 +105,12 @@ Tournois et compétitions non-officiels gérés par la communauté.
 | 3 Digit World Cup 2020 | 16/03/2020 | 31/05/2020 | ::{ flag=US }:: États-Unis | ::{ flag=BR }:: Brésil | ::{ flag=TW }:: Taïwan |
 | [3 Digit World Cup 2021](3WC/2021) | 24/02/2021 | 09/05/2021 | ::{ flag=TW }:: Taïwan | ::{ flag=PL }:: Pologne | ::{ flag=US }:: États-Unis |
 
+#### Ascaveth Invitational Tournament
+
+| Nom | Début | Fin | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| Ascaveth Invitational Tournament 2022 | 03/09/2022 | 03/09/2022 | ::{ flag=ID }:: [Vinno](https://osu.ppy.sh/users/10717635) | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275) |
+
 #### Aus/NZ osu!standard Tournament
 
 | Nom | Début | Fin | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] |
