@@ -63,9 +63,9 @@ The Ascaveth Invitational Tournament 2022 was run by various osu! community memb
 ## Links
 
 - **[Master spreadsheet](https://docs.google.com/spreadsheets/d/13UTdhZDn14B8pgZ4KY7V5RQsHMt0qCrAeTXZHZ4eCoY/edit?usp=sharing)**
-- [Livestream channel](https://www.twitch.tv/osuIndonesia)
-- [Challonge brackets](https://challonge.com/AscavethInv)
 - [Twitter](https://www.twitter.com/AscavethInv)
+- [Livestream](https://www.twitch.tv/osuIndonesia)
+- [Challonge](https://challonge.com/AscavethInv)
 
 ## Participants
 
@@ -174,9 +174,9 @@ In addition, ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336) was dra
 
 1. Beatmap scoring is based on **[ScoreV2](/wiki/Gameplay/Score#scorev2).**
 2. All matches will be played over a single day in an undisclosed location following the Single Elimination system.
-    - The bracket for the tournament will be randomly generated using [random.org](https://random.org) during the Technical Meeting.
+   - The bracket for the tournament will be randomly generated using [random.org](https://random.org) during the Technical Meeting.
 3. All matches will be played using the setup provided by the Tournament Management on the spot.
-    - Players are allowed to bring in certain equipments (e.g. keyboard and graphics tablet) and their own device settings should they wish to.
+   - Players are allowed to bring in certain equipments (e.g. keyboard and graphics tablet) and their own device settings should they wish to.
 4. With the exception of the Grand Final tiebreaker, the maps and mappools for the tournament will be announced by the Tournament Management in advance before the event takes place.
 5. Match schedules will be predetermined by the Tournament Management.
 6. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
