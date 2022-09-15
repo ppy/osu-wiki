@@ -98,4 +98,4 @@ Je nach Schweregrad der Konflikte hast du zwei Möglichkeiten, diese zu beheben:
    5. Klicke nach Abschluss auf `Mark as resolved` (das ist nur verfügbar, wenn alle Konfliktbereiche der Datei beseitigt wurden).
 
 2. Falls der Button `Resolve conflicts` gesperrt ist, weil die Konflikte für GitHub zu kompliziert sind, hast du Pech gehabt und musst [deinen Branch aktualisieren](#die-verzweigung-synchronisieren) und deine Änderungen nochmal machen.
-   - *Anmerkung: Das stimmt nur, wenn du in der Verwendung der GitHub-Webschnittstelle eingeschränkt bist.* Es gibt immer noch Möglichkeiten, das Problem zu lösen, aber sie gehören nicht in den Rahmen dieses Artikels. Außerdem ist es vermutlich den Aufwand nicht wert, da du trotzdem die widersprüchlichen Änderungen überschreiben und rückgängig machen musst.
+   - *Anmerkung: Das stimmt nur, wenn du auf die Verwendung der GitHub-Webschnittstelle beschränkt bist.* Es gibt immer noch Möglichkeiten, das Problem zu lösen, aber sie gehören nicht in den Rahmen dieses Artikels. Außerdem ist es vermutlich den Aufwand nicht wert, da du trotzdem die widersprüchlichen Änderungen überschreiben und rückgängig machen musst.
