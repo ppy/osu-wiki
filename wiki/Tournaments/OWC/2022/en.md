@@ -49,6 +49,7 @@ The osu! World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) and var
 
 ## Links
 
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1645682?n=1)
 - [Livestream](https://www.twitch.tv/osulive)
 
 ## Ruleset
