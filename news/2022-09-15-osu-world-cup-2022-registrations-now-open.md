@@ -36,9 +36,9 @@ For more details, refer to the **[osu! World Cup 2022 wiki article](/wiki/Tourna
 
 The osu! World Cup 2022 offers a $5,000 prize pool, along with limited edition merch! The prize pool may increase further from **[community donations](https://opencollective.com/osu-tournaments/events/osu-world-cup-2022-0b3a1a25)**!
 
-- **1st:** 48% of the prize pool, exclusive limited-edition merch, profile badge, "osu! Champion" user title for one year
-- **2nd:** 32% of the prize pool, exclusive limited-edition merch, profile badge
-- **3rd:** 20% of the prize pool, exclusive limited-edition merch, profile badge
+- **1st:** 48% of the prize pool, single-run merch, profile badge, **osu! Champion** user title for one year
+- **2nd:** 32% of the prize pool, single-run merch, profile badge
+- **3rd:** 20% of the prize pool, single-run merch, profile badge
 
 ## How do I register?
 
