@@ -5,17 +5,17 @@ tags:
   - reading
 ---
 
-# Approach Rate
+# Approach-Rate
 
-*Für empfohlene Approach-Rate Größen, bitte lies: [Die Einreichungskriterien](/wiki/Ranking_Criteria)*
+*Für empfohlene AR-Werte, siehe: [Ranking-Kriterien](/wiki/Ranking_Criteria)*
 
-**Approach Rate** (***AR***) ist eine [Beatmap](/wiki/Beatmap)-Schwierigkeitseinstellung, dass bestimmt, wann [Objekte](/wiki/Hit_object) fangen an, in Erscheinung zu treten im Verhältnis zu dem Zeitpunkt, an dem sie getroffen oder eingesammelt werden sollten. Es existiert nur in [osu!](/wiki/Game_mode/osu!) und [osu!catch](/wiki/Game_mode/osu!catch).
+**Approach-Rate** (auch **Annäherungsrate** oder ***AR*** genannt) ist eine [Beatmap](/wiki/Beatmap)-Schwierigkeitseinstellung, die bestimmt, wann [Hit-Objekte](/wiki/Hit_object) im Verhältnis zu dem Zeitpunkt, an dem sie getroffen oder eingesammelt werden sollten, erscheinen. Sie existiert nur in [osu!](/wiki/Game_mode/osu!) und [osu!catch](/wiki/Game_mode/osu!catch).
 
-AR-Größen können von 0 bis zu 10 sein. Höhere ARs bedeuten, dass Objekte würde für eine kürzere Zeitspanne sichtbar sein, was bedeutet, dass Spieler weniger zeit zu reagieren haben. Andererseits lassen niedriger ARs mehr Zeit darauf zu reagieren, aber das bedeutet auch, dass man zu viel Objekte gleichzeitig vor Augen hat.
+AR-Werte reichen von 0 bis 10. Höhere ARs bedeuten, dass Hit-Objekte für eine kürzere Zeitspanne sichtbar sind, was bedeutet, dass Spieler weniger Zeit zum Reagieren haben. Andererseits erlauben niedrigere ARs mehr Reaktionszeit, können aber dazu führen, dass zu viele Hit-Objekte gleichzeitig auf dem Bildschirm erscheinen.
 
 ## Timing der Animationen
 
-Die Dauer in derer, ein Objekt sichtbar ist (ohne Mods) kann von 1800ms bei AR0 bis 450ms bei AR10 reichen. Die AR-Inkremente zwischen den AR-Stufen betragen 120ms unter AR5 und 150ms über AR5.
+Die Dauer, in der ein Hit-Objekt sichtbar ist (ohne Mods), kann von 1800 ms bei AR0 bis 450 ms bei AR10 reichen. Die AR-Inkremente zwischen den AR-Stufen betragen 120 ms unter AR5 und 150 ms über AR5.
 
 Die nachstehende Infografik und die Formeln bieten einen Überblick:
 
@@ -23,33 +23,33 @@ Die nachstehende Infografik und die Formeln bieten einen Überblick:
                                        X = Objekt treffen/einsammeln
          i m  v o r a u s              ↓
 ├───────────────────────┬──────────────┤
-0%       Erscheinung      100% Opazität
+0%       Einblendung      100% Opazität
 ```
 
-Das Objekt fängt an, zu erscheinen am `X - voraus` mit:
+Das Hit-Objekt fängt nach folgendem Schema bei `X - Versatz` an, zu erscheinen:
 
-- AR < 5: `Verzug = 1200ms + 600ms * (5 - AR) / 5` <!-- verzug? ich weiß nich wie man 'preempt' übersetzen soll -->
-- AR = 5: `Verzug = 1200ms`
-- AR > 5: `Verzug = 1200ms - 750ms * (AR - 5) / 5`
+- AR < 5: `Versatz = 1200 ms + 600 ms * (5 - AR) / 5`
+- AR = 5: `Versatz = 1200 ms`
+- AR > 5: `Versatz = 1200 ms - 750 ms * (AR - 5) / 5`
 
-Die Zeitspanne benötigt für das Objekt komplett zu erscheinen hängt auch von dem AR ab:
+Wie lange es dauert, bis das Hit-Objekt vollständig eingeblendet wird, hängt auch von dem AR-Wert ab:
 
-- AR < 5: `erscheinen = 800ms + 400ms * (5 - AR) / 5`
-- AR = 5: `erscheinen = 800ms`
-- AR > 5: `erscheinen = 800ms - 500ms * (AR - 5) / 5`
+- AR < 5: `Zeitspanne zum Einblenden = 800 ms + 400 ms * (5 - AR) / 5`
+- AR = 5: `Zeitspanne zum Einblenden = 800 ms`
+- AR > 5: `Zeitspanne zum Einblenden = 800 ms - 500 ms * (AR - 5) / 5`
 
-## Mod Beeinflussungen
+## Mod-Effekte
 
 Es gibt vier Mods, die die AR beeinflussen, wenn sie aktiviert sind:
 
 - [Easy](/wiki/Game_modifier/Easy): Halbiert die AR.
-- [Hard Rock](/wiki/Game_modifier/Hard_Rock): Multipliziert die AR mit 1.4 (maximal 10).
-- [Double Time](/wiki/Game_modifier/Double_Time): Die AR wird nicht beeinflusst, aber wegen der 50% Erhöhung der Geschwindigkeit bleiben Objekte 33% weniger lange sichtbar.
-- [Half Time](/wiki/Game_modifier/Half_Time): Die AR ist nicht beeinflusst, aber wegen des 25% Rückgangs der Geschwindigkeit bleiben die Objekte für eine um 33% längere Zeit sichtbar.
+- [Hard Rock](/wiki/Game_modifier/Hard_Rock): Multipliziert die AR mit 1,4 (maximal 10).
+- [Double Time](/wiki/Game_modifier/Double_Time): Die AR wird nicht beeinflusst, aber wegen der Geschwindigkeitserhöhung um 50 % bleiben Hit-Objekte 33 % weniger lange sichtbar.
+- [Half Time](/wiki/Game_modifier/Half_Time): Die AR ist nicht beeinflusst, aber wegen der Geschwindigkeitsreduzierung um 25 % bleiben Hit-Objekte für eine um 33 % längere Zeit sichtbar.
 
-Obwohl die "Half Time" und "Double Time" Mods keinen Einfluss auf das AR haben, bewirkt die Änderung der Geschwindigkeit einen offensichtlichen Unterschied in der AR. HT/DT ARs sind häufig bezeichnet gemäß der wahrgenommene Größe. Zum Beispiel, "AR8+DT" darf auch als "AR9.6" geschrieben werden.
+Obwohl die Mods "Half Time" und "Double Time" keinen Einfluss auf die AR haben, bewirkt die Änderung der Geschwindigkeit einen scheinbaren Unterschied im AR-Wert. ARs mit HT/DT werden häufig gemäß ihrer wahrgenommenen Werte bezeichnet. Zum Beispiel darf "AR8+DT" auch als "AR9.6" geschrieben werden.
 
 ## osu!taiko und osu!mania
 
-Approach-Rate ist sichtbar wenn die Beatmap-Informationen von [osu!taiko](/wiki/Game_mode/osu!taiko) oder [osu!mania](/wiki/Game_mode/osu!mania) angeizeigt werden, aber es hat keinen Einfluss auf das Gameplay. Das Scrollspeed (Bildlaufgeschwindigkeit) in jedem Spielmodus wird durch andere Faktoren bestimmt.
+Die AR ist sichtbar, wenn Beatmap-Informationen von [osu!taiko](/wiki/Game_mode/osu!taiko) oder [osu!mania](/wiki/Game_mode/osu!mania) angezeigt werden, aber es hat keinen Einfluss auf das Gameplay. Die Scrollgeschwindigkeit (Bildlaufgeschwindigkeit) in jedem Spielmodus wird durch andere Faktoren bestimmt.
 
