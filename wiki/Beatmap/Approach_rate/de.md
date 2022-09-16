@@ -21,7 +21,7 @@ Die nachstehende Infografik und die Formeln bieten einen Überblick:
 
 ```
                                        X = Objekt treffen/einsammeln
-         i m  v o r a u s              ↓
+         v o r h e r                   ↓
 ├───────────────────────┬──────────────┤
 0%       Einblendung      100% Opazität
 ```
