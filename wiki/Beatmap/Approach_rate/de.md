@@ -52,4 +52,3 @@ Obwohl die Mods "Half Time" und "Double Time" keinen Einfluss auf die AR haben, 
 ## osu!taiko und osu!mania
 
 Die AR ist sichtbar, wenn Beatmap-Informationen von [osu!taiko](/wiki/Game_mode/osu!taiko) oder [osu!mania](/wiki/Game_mode/osu!mania) angezeigt werden, aber es hat keinen Einfluss auf das Gameplay. Die Scrollgeschwindigkeit (Bildlaufgeschwindigkeit) in jedem Spielmodus wird durch andere Faktoren bestimmt.
-
