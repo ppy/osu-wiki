@@ -8,13 +8,13 @@ tags:
 
 ![Ascaveth Invitational Tournament 2022 logo](img/logo.jpg)
 
-The **Ascaveth Invitational Tournament 2022** was a single-elimination 1v1 invitational osu! tournament hosted by ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206) and co-organised by ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Millie](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), and ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966). It was the second major offline/in-person osu! tournament to ever be held in Indonesia, following the [osu! Rhythmical Adventure Competition](https://osu.ppy.sh/community/forums/topics/98417) event ten years before.
+The **Ascaveth Invitational Tournament 2022** was a single-elimination 1v1 invitational osu! tournament hosted by ::{ flag=ID }:: [Ascaveth](https://osu.ppy.sh/users/3245206) and co-organised by ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Millie](https://osu.ppy.sh/users/3484548), ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677), and ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966). It was the second major LAN osu! tournament to ever be held in Indonesia, following the [osu! Rhythmical Adventure Competition](https://osu.ppy.sh/community/forums/topics/98417) event ten years before.
 
 ## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Technical Meeting | 2022-08-29 |
+| Technical meeting | 2022-08-29 |
 | Opening | 2022-09-03 (10:00 UTC +7) |
 | Quarterfinal 1 | 2022-09-03 (10:30 UTC +7) |
 | Quarterfinal 2 | 2022-09-03 (11:30 UTC +7) |
@@ -36,8 +36,8 @@ The **Ascaveth Invitational Tournament 2022** was a single-elimination 1v1 invit
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 500,000 IDR, physical trophy (courtesy of [Herculex Indonesia](https://www.tokopedia.com/herculex)), commemorative medal |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 250,000 IDR, physical trophy (courtesy of [Herculex Indonesia](https://www.tokopedia.com/herculex)), commemorative medal |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 150,000 IDR, physical trophy (courtesy of [Herculex Indonesia](https://www.tokopedia.com/herculex)), commemorative medal |
-| 4th place | 100,000 IDR |
-| 5th-8th place | 75,000 IDR |
+| *4th place* | 100,000 IDR |
+| *5th-8th place* | 75,000 IDR |
 
 ## Organisation
 
@@ -80,7 +80,7 @@ Listed below are the players who were invited into the tournament:
 - ::{ flag=ID }:: [Daffy](https://osu.ppy.sh/users/5968633)
 - ::{ flag=ID }:: [Walfrid](https://osu.ppy.sh/users/6600809)
 
-In addition, ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336) was drafted as a back-up player in case someone had to back out from the event on a short notice.
+In addition, ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336) was drafted as a back-up player, in case someone had to back out from the event on a short notice.
 
 ## Podium
 
@@ -88,7 +88,7 @@ In addition, ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336) was dra
 
 ## Mappools
 
-### 3rd Place Match and Grand Final
+### Grand Final and 3rd Place Match
 
 **[Download the mappack here! (215 MB)](https://drive.google.com/file/d/1bBZSqndix86n6QB-2-3di7GHx_t3drXb/view?usp=sharing)**
 
@@ -115,7 +115,7 @@ In addition, ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336) was dra
 - Tiebreaker
   1. **[Laur feat. Risa Yuzuki - Megaera (Niva) \[Ascavethia\]](https://osu.ppy.sh/beatmapsets/1841569#osu/3782464)**
 
-### Quarterfinals and Semifinals
+### Semifinals and Quarterfinals
 
 **[Download the mappack here! (215 MB)](https://drive.google.com/file/d/1bBZSqndix86n6QB-2-3di7GHx_t3drXb/view?usp=sharing)**
 
