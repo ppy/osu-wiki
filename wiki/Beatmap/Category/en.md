@@ -36,7 +36,7 @@ Loved beatmaps may not meet the [ranking criteria](/wiki/Ranking_Criteria), but 
 
 ### Approved
 
-The Approved beatmap category was used between 2008 and 2014 to house beatmaps that exceeded length and maximum score requirements on older renditions of the [ranking criteria](/wiki/Ranking_Criteria), as well as rare beatmaps that broke other rules on the criteria. 
+The Approved beatmap category was used between 2008 and 2014 to house beatmaps that exceeded length and maximum score requirements on older renditions of the [ranking criteria](/wiki/Ranking_Criteria), as well as rare beatmaps that broke other rules on the criteria.
 
 Approved beatmaps did not affect a user's score ranking until shortly after the shift from score ranking to [performance points](/wiki/Performance_points) ranking. Following this change, Approved status was used exclusively for beatmaps with more than 6 minutes of [drain time](/wiki/Gameplay/Drain_time).
 
