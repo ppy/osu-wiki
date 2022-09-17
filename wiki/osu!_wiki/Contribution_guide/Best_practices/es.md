@@ -53,7 +53,7 @@ Dentro de tu bifurcación de la osu! wiki, eres libre de hacer cualquier cambio 
 - [Sincroniza la rama `master`](#sincronizando-la-bifurcación).
 - Comience siempre el trabajo creando una nueva rama a partir de `master`, y solo mantenga allí sus cambios.
 - Confirme su trabajo cuando haya realizado cambios de tamaño razonable. Es mejor enviar un artículo completo en lugar de 10 ediciones pequeñas.
-- **Use mensajes de confirmación breves y significativos**, ya que permiten que los demás sepan lo que hay en el cuadro. Algo como `Rewrite the section about jump patternso` dice mucho más que `Update es.md`.
+- **Use mensajes de confirmación breves y significativos**, ya que permiten que los demás sepan lo que hay en el cuadro. Algo como `Rewrite the section about jump patterns` dice mucho más que `Update es.md`.
 
 ## Abriendo una solicitud de cambios
 
