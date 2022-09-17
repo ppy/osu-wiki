@@ -74,7 +74,7 @@ Las revisiones se aplican mejor directamente a través de la interfaz web de Git
 
 ![Aplicando una revisión por lotes](img/applying-batch-review.gif)
 
-También puede usar el botón `Commit suggestion` para aplicar una sola sugerencia de forma individual, siempre que realice compromisos con moderación y [con mensajes informativos] (#haciendo-cambios).
+También puede usar el botón `Commit suggestion` para aplicar una sola sugerencia de forma individual, siempre que realice compromisos con moderación y [con mensajes informativos](#haciendo-cambios).
 
 ![Aplicando una sola revisión](img/applying-single-review.gif)
 
