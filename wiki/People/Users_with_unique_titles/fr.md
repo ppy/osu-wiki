@@ -165,6 +165,7 @@ La plupart des concours officiels de mapping offrent le titre de **Elite Mapper*
 Depuis 2020, l'activité des [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) et des membres de la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) en faveur du système de classement est récompensée par le titre **Elite Nominator**. Ce titre est attribué au début de chaque année pour les contributions apportées au cours de la précédente, et est retiré lorsque l'utilisateur quitte l'équipe.
 
 - ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229)
+- ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083)
 - ::{ flag=CA }:: [guden](https://osu.ppy.sh/users/11626065)
 - ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323)
 - ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)
