@@ -14,7 +14,7 @@ Los *Objetos de Golpeo* son elementos donde los jugadores pueden interactuar dur
 
 | [osu!](/wiki/Game_mode/osu!) | [osu!taiko](/wiki/Game_mode/osu!taiko) | [osu!catch](/wiki/Game_mode/osu!catch) | [osu!mania](/wiki/Game_mode/osu!mania) |
 | :-: | :-: | :-: | :-: |
-| [circulos de golpeo](/wiki/Hit_object/Hit_circle) | circulos de golpeo | [frutas](/wiki/Hit_object/Fruit) | notas |
+| [círculos de golpeo](/wiki/Hit_object/Hit_circle) | círculos de golpeo | [frutas](/wiki/Hit_object/Fruit) | notas |
 | [deslizadores](/wiki/Hit_object/Slider) | redobles de tambor | [gotas de jugo](/wiki/Hit_object/Juice_stream) | notas sostenidas |
 | [ruletas](/wiki/Hit_object/Spinner) | dendens | [bananas](/wiki/Hit_object/Banana) | x |
 | x | x | [hyperfrutas](/wiki/Hit_object/Hyperfruit) | x |
