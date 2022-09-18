@@ -17,14 +17,14 @@ Detailed results for the previous round can be found on the [poll results page o
 - [osu!catch](https://osu.ppy.sh/community/forums/posts/8768238)
 - [osu!mania](https://osu.ppy.sh/community/forums/posts/8768237)
 
-The main update this time around is that the osu! captains have closed their application and decided on the next captains that'll be helping out. In the coming months, you'll get to know these fine gentlemen as they share maps here and open Loved polls:
+The main update this time around is that the osu! captains have closed their application form and decided on the next captains that'll be helping out. In the coming months, you'll get to know these fine gentlemen as they share maps here and open Loved polls:
 
 - [rHO](https://osu.ppy.sh/users/1629553)
 - [Mismagius](https://osu.ppy.sh/users/19048)
 - [Skill](https://osu.ppy.sh/users/7802027)
 - [DeviousPanda](https://osu.ppy.sh/users/4966334)
 
-As always, if you want to help out with curating the maps that end up in Project Loved's polls, you can share maps with the captains or [review them on the Project Loved website](https://loved.sh/submissions). We are also in talks about testing out a more direct means for the community to nominate maps for Loved, but no promises just yet.
+As always, if you want to help out with curating the maps that end up in the Loved polls, you can share maps with the captains or [review them on the Project Loved website](https://loved.sh/submissions). We are also in talks about testing out a more direct means for the community to nominate maps for Loved, but no promises just yet.
 
 Also, this post wouldn't be complete without something of a shout-out for the new faces helping around here, namely [Irisu](https://osu.ppy.sh/users/8595858) for helping me develop the website and [0x84f](https://osu.ppy.sh/users/7944724), [dyndenial](https://osu.ppy.sh/users/16779673), and [Irisu](https://osu.ppy.sh/users/8595858) for editing the captains' descriptions.
 
@@ -205,7 +205,11 @@ This might be a short map, but man is it a banger. But hey, what else can you ex
 154 BPM, 4:21 | 6.18★\
 *description written by [Tenshichan](https://osu.ppy.sh/users/1101600)*
 
-*Kaguyahime* is a mapset which has been in graveyard since October 2019, which is a shame because it contains a really clean and well done catch difficulty mapped by Kukkai. Compared to last month's selection of maps this one is way easier to play but still requires a good amount of consistency and speed to be able to get a full combo. It has a lot of fast-paced patterns which may catch you off guard if you aren't ready for them, especially the later half of the map, which could mark the end of a lot of good runs, because that's where it gets increasingly difficult. All in all this is a fun and neat practice map for aspiring players who want to challenge themselves, but also playground for top players to see how they can do with HR.
+*Kaguyahime* is a mapset which has been in graveyard since October 2019, which is a shame because it contains a really clean and well-done catch difficulty mapped by Kukkai.
+
+Compared to last month's selection of maps this one is way easier to play but still requires a good amount of consistency and speed to be able to get a full combo. It has a lot of fast-paced patterns which may catch you off guard if you aren't ready for them, especially the later half of the map, which could mark the end of a lot of good runs, because that's where it gets increasingly difficult.
+
+All in all this is a fun and neat practice map for aspiring players who want to challenge themselves, but also a playground for top players to see how they'll fare with HR.
 
 [![](/wiki/shared/news/2022-09-16-project-loved-september-2022/1134669.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -213,9 +217,9 @@ This might be a short map, but man is it a banger. But hey, what else can you ex
 175 BPM, 2:35 | 8.11★\
 *description written by [Sartan](https://osu.ppy.sh/users/4100941)*
 
-WUB WUB WUB and other things! You heard that right, we are throwing *Flashes* by *Fauzan 2000* into the loved section; another mapper with their first entry into loved! This is a fairly difficult map, containing many jumps and moderately large sliders that accentuate the aforementioned "WUB" quite well. It is just really satisfactory to indulge yourself in the song — perhaps even putting your audio system to daringly loud volumes and enjoying the intense electronics making your fingers dance. Want to throw in a mod or two? That should be doable for the upper echelon of players, without busting the entire experience.
+WUB WUB WUB and other things! You heard that right, we are throwing *Flashes* by Fauzan 2000 into the loved section — another mapper with their first entry into Loved!
 
-Sooooo, flash forward to this next paragraph: was I able to convince you to vote for this map? Give it a spin either way!
+This is a fairly difficult map, containing many jumps and moderately large sliders that accentuate the aforementioned "WUB" quite well. It is just really satisfactory to indulge yourself in the song — perhaps even putting your audio system to daringly loud volumes and enjoying the intense electronics making your fingers dance. Want to throw in a mod or two? That should be doable for the upper echelon of players, without busting the entire experience.
 
 [![](/wiki/shared/news/2022-09-16-project-loved-september-2022/1205520.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -223,7 +227,7 @@ Sooooo, flash forward to this next paragraph: was I able to convince you to vote
 181 BPM, 4:07 | 11.21★\
 *description written by [Wesley](https://osu.ppy.sh/users/2407265)*
 
-Hyperwalk enjoyers, rejoice! This week we have another wild map that is filled to the brink with hyperwalks everywhere. This map very much gives me the vibes of [Obsidian](https://osu.ppy.sh/beatmapsets/1130748#fruits) which was Loved about a year ago, calm patterns here and there followed by immediate hyperwalks and insane patterns.
+Hyperwalk enjoyers, rejoice! This week we have another wild map that is filled to the brim with hyperwalks everywhere. This map very much gives me the vibes of [Obsidian](https://osu.ppy.sh/beatmapsets/1130748#fruits) which was Loved about a year ago, with calm patterns here and there followed by immediate hyperwalks and insane patterns.
 
 Let go of that dash button once in a while and try to catch some of the hyperwalks that are probably too fast to be human. Enjoy!
 
@@ -263,9 +267,9 @@ With all of that said, we hope that this legacy map piques an interest with both
 175 BPM, 2:37 | 4.62★\
 *description written by [RandomeLoL](https://osu.ppy.sh/users/7080063)*
 
-It's been quite some time since they've been under the spotlight ever since [*USAO's Dynamite*](https://osu.ppy.sh/beatmapsets/589727) was first featured, but Azubeur is back with *Zekk's Skrillexore!*
+It's been quite some time since they've been under the spotlight ever since [*USAO - Dynamite*](https://osu.ppy.sh/beatmapsets/589727) was first featured, but Azubeur is back with *Zekk - Skrillexore!*
 
-An old-ish chart of theirs that has amassed asmall following, the chart offers a variety of wacky patterns for each of the remixed songs in the mashup. Definitely a fun challenge for those who are just starting to play at this difficulty! Just be wary of the stream bursts in between, some minijacks here and there, and an ending segment that's comprised of every patterning concept seen before it as a test of your resilience. For those seeking for a greater challenge, we're planning on adding rates to sap its competitive potential at higher leaderboarded difficulties!
+An old-ish chart of theirs that has amassed a small following, the chart offers a variety of wacky patterns for each of the remixed songs in the mashup. Definitely a fun challenge for those who are just starting to play at this difficulty! Just be wary of the stream bursts in between, some minijacks here and there, and an ending segment that's comprised of every patterning concept seen before it as a test of your resilience. For those seeking for a greater challenge, we're planning on adding rates to sap its competitive potential at higher leaderboarded difficulties!
 
 I genuinely would vouch to at least give this chart a shot. It definitely was a good experience back when it was first introduced to me, and seeing more people get to enjoy it for the first time would be phenomenal.
 
@@ -300,7 +304,7 @@ Support Paturages and vote for *Audiovisual* if you want to see this mapset in t
 192 BPM, 2:04 | 4.81★\
 *description written by [\_underjoy](https://osu.ppy.sh/users/2235750)*
 
-Imperial Wolf is primarily known for his 6K charting, but here we see an impressive jazzy 7K map from him - *Ukiyoe Yokochou*.
+Imperial Wolf is primarily known for his 6K charting, but here we see an impressive jazzy 7K map from him: *Ukiyoe Yokochou*.
 
 Although not very dense, this map is very fast-paced and certainly interesting when it comes to patterning. There are numerous swing rhythms and uneven chords that are intertwined by rolly chordstreams and doublestairs. There are also some minor LNs that, while relatively easy, cannot be ignored and will definitely challenge the player's ability to get good accuracy. The whole map is a quick and intense mid-level experience that may be quite hard to high score on — but very rewarding to those who can accomplish such a feat.
 
@@ -312,9 +316,9 @@ Be sure to check this great chart and cast your vote on *Ukiyoe Yokochou*!
 135 BPM, 3:15 | 8.13★\
 *description written by [\_underjoy](https://osu.ppy.sh/users/2235750)*
 
-quicalid4 is known for his smooth and effective charting of 7K LN maps, and *Pastel rain* is one of his more popular and liked works.
+quicalid4 is known for his smooth and effective charting of 7K LN maps, and *Pastel Rain* is one of his more popular and well-regarded works.
 
-The map holds a rather steady level of difficulty for the most part, featuring relatively dense and constant LN chordstreams and inverses at 130 BPM. Because of this, it's a great test of player's finger control and consistency. The difficulty ramps up near the end, as more minijacks are introduced into the mix, and the density of LNs also increases. The whole map is neatly wrapped up with some bursts, and there's really nothing that's out of place.
+The map holds a rather steady level of difficulty for the most part, featuring relatively dense and constant LN chordstreams and inverses at 130 BPM. Because of this, it's a great test of finger control and consistency. The difficulty ramps up near the end, as more minijacks are introduced into the mix, and the density of LNs also increases. The whole map is neatly wrapped up with some bursts, and there's really nothing that's out of place.
 
 Vote for *Pastel Rain* to help to deliver another great LN map into the Loved section!
 
