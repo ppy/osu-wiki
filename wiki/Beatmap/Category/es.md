@@ -8,7 +8,7 @@ Los [beatmaps](/wiki/Beatmap) enviados en línea se dividen en categorías segú
 
 El cementerio es un lugar donde residen los beatmaps abandonados por sus [anfitriones](/wiki/Beatmap/Beatmap_host). Estos beatmaps no tienen tablas de clasificación, pero aún se pueden descargar y jugar, y continúan [contribuyendo a las estadísticas de juego](#estadísticas-de-beatmaps-no-clasificados). Usan el icono del signo de interrogación (![](/wiki/shared/status/graveyard.png)) en la [pantalla de selección de canciones](/wiki/Client/Interface#selector-de-canciones).
 
-Un beatmap se mueve al cementerio desde [Trabajo en progreso y pendiente](#trabajos-en-progreso-y-pendientes) automáticamente una vez que no se ha actualizado durante 4 semanas. El autor puede revivir el beatmap (es decir, devolverlo a [Pendiente](#trabajos-en-progreso-y-pendientes) actualizándolo a través del [sistema de envío de beatmaps](/wiki/Submission). Un beatmap en el cementerio no cuenta para el [límite total de subida](/wiki/osu!supporter#límites-aumentados) de un mapeador, pero revivirlo requiere un espacio libre pendiente.
+Un beatmap se mueve al cementerio desde [Trabajo en progreso y pendiente](#trabajos-en-progreso-y-pendientes) automáticamente una vez que no se ha actualizado durante 4 semanas. El autor puede revivir el beatmap (es decir, devolverlo a [Pendiente](#trabajos-en-progreso-y-pendientes) actualizándolo a través del [sistema de envío de beatmaps](/wiki/Beatmapping/Beatmap_submission ). Un beatmap en el cementerio no cuenta para el [límite total de subida](/wiki/osu!supporter#límites-aumentados) de un mapeador, pero revivirlo requiere un espacio libre pendiente.
 
 ### Trabajos en progreso y Pendientes
 
