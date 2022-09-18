@@ -30,13 +30,13 @@ Also, this post wouldn't be complete without something of a shout-out for the ne
 
 Lastly before the picks, check out these fancy banners for all of the Project Loved Discord servers made by [Tanza3D](https://osu.ppy.sh/users/10379965), because by some arcane attention-grabbing power these generate dramatically more traffic than their plaintext link counterparts:
 
-[![](/wiki/shared/news/2022-08-21-project-loved-august-2022/banner-standard.png)](https://discord.gg/gn58Uk5sTE)
+[![osu! Project Loved Discord server banner](/wiki/shared/news/2022-08-21-project-loved-august-2022/banner-standard.png)](https://discord.gg/gn58Uk5sTE)
 
-[![](/wiki/shared/news/2022-08-21-project-loved-august-2022/banner-taiko.png)](https://discord.gg/BuJ6TVPmtN)
+[![osu!taiko Project Loved Discord server banner](/wiki/shared/news/2022-08-21-project-loved-august-2022/banner-taiko.png)](https://discord.gg/BuJ6TVPmtN)
 
-[![](/wiki/shared/news/2022-08-21-project-loved-august-2022/banner-catch.png)](https://discord.gg/phgtyS4UCh)
+[![osu!catch Project Loved Discord server banner](/wiki/shared/news/2022-08-21-project-loved-august-2022/banner-catch.png)](https://discord.gg/phgtyS4UCh)
 
-[![](/wiki/shared/news/2022-08-21-project-loved-august-2022/banner-mania.png)](https://discord.gg/Ededv7m)
+[![osu!mania Project Loved Discord server banner](/wiki/shared/news/2022-08-21-project-loved-august-2022/banner-mania.png)](https://discord.gg/Ededv7m)
 
 ### Navigation
 
