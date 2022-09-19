@@ -10,7 +10,7 @@ tags:
 
 ![MWC 4K 2022 banner](img/mwc4k2022_banner.jpg)
 
-The **osu!mania 4K World Cup 2022** (***MWC 4K 2022***) is a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/The_Team). It is the ninth instalment of the osu!mania 4K World Cup.
+The **osu!mania 4K World Cup 2022** (***MWC 4K 2022***) was a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/The_Team). It was the ninth instalment of the osu!mania 4K World Cup.
 
 ## Tournament schedule
 
@@ -28,8 +28,8 @@ The **osu!mania 4K World Cup 2022** (***MWC 4K 2022***) is a country-based osu!m
 
 ## Prizes
 
-The osu!mania 4K World Cup 2022 offers a minimum $2,000 cash prize pool and limited edition merch.
-The prize pool may increase further from **[community donations](https://opencollective.com/osu-tournaments/events/osu-mania-world-cup-4k-6c77ec5b)**!
+The osu!mania 4K World Cup 2022 offered a minimum $2,000 cash prize pool and limited edition merch.
+The prize pool was further increased to $2,166.20 from **[community donations](https://opencollective.com/osu-tournaments/events/osu-mania-world-cup-4k-6c77ec5b)**.
 
 | Placing | Prizes |
 | :-: | :-- |
@@ -37,9 +37,11 @@ The prize pool may increase further from **[community donations](https://opencol
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 32% of the prize pool, single-run merch, profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool, single-run merch, profile badge |
 
+![](img/badge-1st.jpg "MWC 4K 2022 winner badge") ![](img/badge-2nd.jpg "MWC 4K 2022 2nd place badge") ![](img/badge-3rd.jpg "MWC 4K 2022 3rd place badge")
+
 ## Organisation
 
-The osu!mania 4K World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) and various community members.
+The osu!mania 4K World Cup 2022 was run by the [osu! team](/wiki/People/The_Team) and various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -105,26 +107,38 @@ The osu!mania 4K World Cup 2022 is run by the [osu! team](/wiki/People/The_Team)
 | ::{ flag=VE }:: | **Venezuela** | **[Edvo](https://osu.ppy.sh/users/8301758)**, [xXShyzDy0133Xx](https://osu.ppy.sh/users/13545528), [calvingarrix666](https://osu.ppy.sh/users/17881051), [YuyukoFangirl](https://osu.ppy.sh/users/10336332) |
 | ::{ flag=VN }:: | **Vietnam** | **[Lott](https://osu.ppy.sh/users/13821222)**, [magnifestio](https://osu.ppy.sh/users/22725724), [CPT\_Sivelia](https://osu.ppy.sh/users/12562107), [TriDoanGaming](https://osu.ppy.sh/users/14009758), [Micleak](https://osu.ppy.sh/users/16140674), [Frostleaf](https://osu.ppy.sh/users/11863174) |
 
-## Match schedule: Finals
+## Podium
 
-### Saturday, 10 September 2022
-
-| Team A | Team B | Match time |  |
-| --: | :-- | :-- | :-: |
-| Philippines ::{ flag=PH }:: | ::{ flag=JP }:: Japan | [Sep 10 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220910T120000&p1=1440&p2=145&p3=248) | [^losers-bracket] |
-| Malaysia ::{ flag=MY }:: | ::{ flag=US }:: United States | [Sep 10 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220910T150000&p1=1440&p2=122&p3=263) | [^losers-bracket] |
-
-### Sunday, 11 September 2022
-
-| Team A | Team B | Match time |  |
-| --: | :-- | :-- | :-: |
-| Philippines ::{ flag=PH }:: | ::{ flag=US }:: United States | [Sep 11 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220911T040000&p1=1440&p2=145&p3=263) | [^potential-match] |
-| Japan ::{ flag=JP }:: | ::{ flag=US }:: United States | [Sep 11 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220911T040000&p1=1440&p2=248&p3=263) | [^potential-match] |
-| Philippines ::{ flag=PH }:: | ::{ flag=MY }:: Malaysia | [Sep 11 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220911T120000&p1=1440&p2=145&p3=122) | [^potential-match] |
-| Japan ::{ flag=JP }:: | ::{ flag=MY }:: Malaysia | [Sep 11 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220911T120000&p1=1440&p2=248&p3=122) | [^potential-match] |
-| Brazil ::{ flag=BR }:: | ::{ flag=KR }:: South Korea | [Sep 11 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220911T140000&p1=1440&p2=45&p3=235) | [^winners-bracket] |
+![](img/podium.jpg "MWC 4K 2022 podium")
 
 ## Mappools
+
+### Grand Finals
+
+**[Download the mappack here (255 MB)](https://drive.google.com/uc?id=1u3bkuMAFzlcOYTvLTTHxt1XNGV28dutw)**
+
+- Rice
+  1. [Luze - Love Song \[Black Dorna\] (Valedict) \[Heartfelt 1.1x (382bpm)\]](https://osu.ppy.sh/beatmapsets/1796541#mania/3763263)
+  2. [Falcom Sound Team jdk - Crimson Fighter (lemonguy) \[Adol The Red x1.1\]](https://osu.ppy.sh/beatmapsets/1791533#mania/3671281)
+  3. [Ariabl'eyeS - Sougetsu Oratorio (\[Crz\]Rachel) \[Eclipse x1.05\]](https://osu.ppy.sh/beatmapsets/842131#mania/1762209)
+  4. [Yuta Imai Vs. BEMANI Sound Team "L.E.D.-G" - THE PEERLESS UNDER HEAVEN (Mipha-) \[MIPHATHER\]](https://osu.ppy.sh/beatmapsets/1829143#mania/3756153)
+  5. [Camellia - Xeroa (Shoegazer) \[Harbinger 1.15x (346bpm)\]](https://osu.ppy.sh/beatmapsets/1716930#mania/3513548)
+  6. [xi - PEACE BREAKER (0DZ0) \[WIDOWMAKER 1.1x (176bpm)\]](https://osu.ppy.sh/beatmapsets/1842152#mania/3783809)
+  7. [Terminal 11 - Fury (Pizza69) \[Extreme 1.05x (205bpm)\]](https://osu.ppy.sh/beatmapsets/1632108#mania/3331564)
+- Hybrid
+  1. [Silentroom - XHRONOXAPSULE (-mint-) \[XHRONOMALY 1.05x (291bpm)\]](https://osu.ppy.sh/beatmapsets/1846505#mania/3793096)
+  2. [katagiri - Angel's Salad (lemonguy) \[Challenge x1.1\]](https://osu.ppy.sh/beatmapsets/1757208#mania/3595933)
+  3. [void (Mournfinale) feat. Hoshikuma Minami - Testify (Abraxos) \[Who controls the present now?\]](https://osu.ppy.sh/beatmapsets/1845408#mania/3790784)
+- LN
+  1. [Nanahoshi Kangengakudan - No.39 (juankristal) \[t!m!ng h#ll\]](https://osu.ppy.sh/beatmapsets/1846256#mania/3792661)
+  2. [nmk - Celestial Axes (\[Crz\]Crysarlene) \[Amaranthine \[1.05x Rate\]\]](https://osu.ppy.sh/beatmapsets/1772725#mania/3629447)
+  3. [Hatsuki Yura - Black Princess (lemonguy) \[LN Master x1.15\]](https://osu.ppy.sh/beatmapsets/1810053#mania/3792636)
+  4. [Camellia - Blackmagik Blazing (-mint-) \[The Sorcerer's Apprentice\]](https://osu.ppy.sh/beatmapsets/1755294#mania/3592063)
+- SV
+  1. [Camellia - AttraqtiA (Orca-) \[Spacial Scission\]](https://osu.ppy.sh/beatmapsets/1846614#mania/3793332)
+  2. [Laur - Symphony Op.1 -CHAOS- (Tidek) \[1-500-8000\]](https://osu.ppy.sh/beatmapsets/1846644#mania/3793380)
+- Tiebreaker
+  1. **[aa...hisuichazuke... - steganography (-mint-) \[Cipher Encryption\]](https://osu.ppy.sh/beatmapsets/1846639#mania/3793375)**
 
 ### Finals
 
@@ -267,6 +281,36 @@ The osu!mania 4K World Cup 2022 is run by the [osu! team](/wiki/People/The_Team)
 8. [xi - The End of Dreams (Sped Up Ver.) (aeoliancarp) \[Stage 8: Dawn\]](https://osu.ppy.sh/beatmapsets/1817980#mania/3729876)
 
 ## Match results
+
+### Grand Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1DIugIVhdsx0mY6PdNkm0NRojdYMyKWeUqrEtLsvdx70).
+
+Sunday, 18 September 2022:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **South Korea** ::{ flag=KR }:: | **7** | 6 | ::{ flag=US }:: United States | [#1](https://osu.ppy.sh/community/matches/103862590) |
+| Brazil ::{ flag=BR }:: | 6 | **7** | ::{ flag=KR }:: **South Korea** | [#1](https://osu.ppy.sh/community/matches/103872600) |
+| **South Korea** ::{ flag=KR }:: | **7** | 3 | ::{ flag=BR }:: Brazil | [#1](https://osu.ppy.sh/community/matches/103874849) |
+
+### Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1I5_Jd33hAH0yJRju9Tuoz3aqlQQFmrAz7nSIUND7EWs).
+
+Saturday, 10 September 2022:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Philippines** ::{ flag=PH }:: | **7** | 1 | ::{ flag=JP }:: Japan | [#1](https://osu.ppy.sh/community/matches/103688295) |
+| Malaysia ::{ flag=MY }:: | 5 | **7** | ::{ flag=US }:: **United States** | [#1](https://osu.ppy.sh/community/matches/103692295) |
+
+Sunday, 11 September 2022:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Philippines ::{ flag=PH }:: | 4 | **7** | ::{ flag=US }:: **United States** | [#1](https://osu.ppy.sh/community/matches/103709077) |
+| **Brazil** ::{ flag=BR }:: | **7** | 5 | ::{ flag=KR }:: South Korea | [#1](https://osu.ppy.sh/community/matches/103719158) |
 
 ### Semifinals
 
@@ -562,9 +606,3 @@ The final standings for the Qualifier stage can be found at the following [sprea
    - Matches may not be scheduled to any time beyond **Sunday, 19:00 UTC+0** of the week they are to be played at.
    - **Do not ask for a reschedule unless it is absolutely needed. The Tournament Management reserves the right to deny any rescheduling request at their discretion.**
 6. Captains are responsible for their team's availability. Any mishaps resulting from a lack of transparency from a team are to be resolved internally, the Tournament Management will not intervene.
-
-## Notes
-
-[^winners-bracket]: Winners bracket match
-[^losers-bracket]: Losers bracket match
-[^potential-match]: Potential match - final matchup depends on the results of the preceding Losers Bracket matches
