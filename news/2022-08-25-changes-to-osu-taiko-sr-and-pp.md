@@ -40,7 +40,7 @@ Without further ado, lets get into the nitty-gritty of these changes.
 
 ## Star rating changes
 
-### Readdressinc stamina
+### Readdressing stamina
 
 #### Issues within the old system
 
