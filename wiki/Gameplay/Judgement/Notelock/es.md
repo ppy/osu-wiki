@@ -27,8 +27,8 @@ El Notelock es parte del sistema de la ventana de tempo de osu!, y sucede cuando
 
 Dado que regularmente los objetos en los mapas de osu! están destinados a borrarse en orden cronológico, el rechazo de golpes causados por el notelock, generalmente juega un papel positivo como:
 
-  - Evitar que los jugadores ignoren partes de un mapa
-  - En dificultades más grandes y rápidas, evita que los jugadores pierdan el ritmo y se desincronicen
+- Evitar que los jugadores ignoren partes de un mapa
+- En dificultades más grandes y rápidas, evita que los jugadores pierdan el ritmo y se desincronicen
 
 ## Prevención
 
