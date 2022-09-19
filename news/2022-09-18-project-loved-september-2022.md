@@ -24,7 +24,7 @@ The main updates this time around are about captain applications. First off, the
 - [Skill](https://osu.ppy.sh/users/7802027)
 - [DeviousPanda](https://osu.ppy.sh/users/4966334)
 
-Following the same idea, **the osu!catch captains have also opened an application**. Click this banner to apply if you're interested!
+Following the same idea, **the osu!catch captains have also opened applications**. Click this banner to apply if you're interested!
 
 [![osu!catch captain application banner](/wiki/shared/news/2022-09-18-project-loved-september-2022/apply-catch.png)](https://docs.google.com/forms/d/e/1FAIpQLScDiVOpgoJ4fK_g31hF2_l2wXRSlKBQ0vOxqhZk2kcoLQNG1w/viewform)
 
