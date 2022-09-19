@@ -1,10 +1,4 @@
----
-outdated_translation: true
----
-
 # Skinning du mode osu!
-
-*Voir également : [Tutoriel de skinning du mode osu!](/wiki/Skinning/Guides_and_important_threads)*.
 
 ## Comboburst
 
@@ -243,10 +237,7 @@ Notes :
 
 Notes :
 
-- Nom de l'animation : `hitcircleoverlay-{n}.png`
-- Fréquence d'animation : 2 FPS (4 FPS max).
-  - Ce taux est affecté par les mods Half Time et Double Time/Nightcore.
-- Cet élément s'estompe avant d'être frappé et s'étend lorsqu'il est frappé ou manqué.
+- Cet élément s'estompe avant d'être touché et s'étend lorsqu'il est touché ou manqué.
   - Si le mod [Hidden](/wiki/Gameplay/Game_modifier/Hidden) est activé, il s'affichera en fondu avant d'être touché et disparaîtra ensuite.
 - Le numéro de la combinaison peut être superposé ou non. Par défaut, il est toujours superposé.
   - Pour que cet underlay soit le numéro du combo, mettez `HitCircleOverlayAboveNumber` à `0`.
@@ -331,9 +322,6 @@ Notes :
 
 Notes :
 
-- Nom de l'animation : `sliderstartcircleoverlay-{n}.png`
-- Taux d'animation : 2 FPS (4 FPS max).
-  - Ce taux est affecté par les mods Half Time et Double Time/Nightcore.
 - Cet élément s'estompe avant d'être touché et s'étend lorsqu'il est touché ou manqué.
   - Si le mod [Hidden](/wiki/Gameplay/Game_modifier/Hidden) est activé, il s'affichera en fondu avant d'être touché et disparaîtra ensuite.
 - Le numéro de la combinaison peut être superposé ou non. Par défaut, il est toujours superposé.
