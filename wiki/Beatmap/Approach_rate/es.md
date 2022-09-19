@@ -54,7 +54,3 @@ Si bien Half Time y Double Time no cambian el valor del AR, la diferencia de vel
 ## osu!taiko y osu!mania
 
 La velocidad de aproximación es visible cuando se visualiza la información de un mapa de [osu!taiko](/wiki/Game_mode/osu!taiko) o [osu!mania](/wiki/Game_mode/osu!mania), pero esta no afectara al juego. La velocidad de desplazamiento de estos modos está determinado por otros factores.
-
-<!-- TODO: Insert lots of links -->
-
-<!-- TODO: a chart would be nice for comparing speeds/values with mods -->
