@@ -65,12 +65,12 @@ The Combro Cup is run by various community members.
 #### Process overview
 
 The tournamnet will be runs in order as follow: 
--  **qualifier**: 6 Songs mappool, 160 higest-combined score players advanced.
--  **Draft phase**: 32 captains picked players 5 times to form 32 teams.
--  **Main stage**: 32 Teams **double elimination** stage: 　
-   - Round of 32 ：*TBD* songs mappool, best of *TBD*.
-   - Round of 16, Quarterfinals ：*TBD* songs mappool, best of *TBD*.
-   - Semifinals, Finals, Grand Finals ：*TBD* songs mappool, best of *TBD*.
+- **Qualifier**: 6 Songs mappool, 160 higest-combined score players advanced.
+- **Draft phase**: 32 captains picked players 5 times to form 32 teams.
+- **Main stage**: 32 Teams **double elimination** stage: 　
+  - Round of 32 ：*TBD* songs mappool, best of *TBD*.
+  - Round of 16, Quarterfinals ：*TBD* songs mappool, best of *TBD*.
+  - Semifinals, Finals, Grand Finals ：*TBD* songs mappool, best of *TBD*.
 
 #### Tournament registration
 
@@ -138,7 +138,7 @@ The tournamnet will be runs in order as follow:
      - If one team substitutes their captain into a pick, the other team's captain **must play** in that pick as well. This means during each match, both captains can play a maximum of 2 picks. 
      - Captains will also be **allowed to play during a tiebreaker map**.
    - Exchanging other players during games is allowed without limitations.
-8.  Teams will have 2 minutes to pick or ban a beatmap, and 2 minutes to get ready. If a team takes more time than allotted, the procedures adopted will be as follows:
+8. Teams will have 2 minutes to pick or ban a beatmap, and 2 minutes to get ready. If a team takes more time than allotted, the procedures adopted will be as follows:
    - For the first occurrence:
      - The team will receive a verbal warning from the referee
    - On subsequent occurrences:
@@ -148,7 +148,6 @@ The tournamnet will be runs in order as follow:
      - For a ready timer, the referee will issue the `!mp start 10` command, regardless of how many players from each team are present in the lobby, using `!mp kick` on any extra players for each team, starting from the top (i.e. the first valid player combination for each team will be forced to play the pick). The results for such games are to be taken as is.
    - Repeat offenders may receive further sanctions from the host.
    - Each team will receive **one** "tactical timeout" of **two minutes**, to be used as extra time to pick or ban a beatmap. *The tactical timeout is optional.*
-
 
 #### Results, Disconnects
 1. Failed players' scores do not get added to the team score.
@@ -164,15 +163,15 @@ The tournamnet will be runs in order as follow:
 
 #### Fair play
 
-1.  All players and staff must be treated with respect. Instructions of the referees and the host are to be followed. Decisions labelled as final are not to be objected.
-2.  Disrupting the match by foul play, insulting and provoking other players or staff, delaying the match, and other deliberate inappropriate misbehaviour are strictly prohibited.
-3.  The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms, too.
-    - Breaking the chat rules results in a silence. Silenced players cannot participate in multiplayer matches and must be exchanged for the time being.
-4.  Penalties for violating the tournament rules include, but are not limited to:
-    - Exclusion of specific players for one beatmap.
-    - Exclusion of specific players for an entire match.
-    - Declaring the match as forfeited, or as a win by default for the other team.
-    - Disqualification from the entire tournament.
-    - Disqualification from current and future GBC series.
-    - Disqualification from current and future official and community tournaments, until appealed.
+1. All players and staff must be treated with respect. Instructions of the referees and the host are to be followed. Decisions labelled as final are not to be objected.
+2. Disrupting the match by foul play, insulting and provoking other players or staff, delaying the match, and other deliberate inappropriate misbehaviour are strictly prohibited.
+3. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms, too.
+   - Breaking the chat rules results in a silence. Silenced players cannot participate in multiplayer matches and must be exchanged for the time being.
+4. Penalties for violating the tournament rules include, but are not limited to:
+   - Exclusion of specific players for one beatmap.
+   - Exclusion of specific players for an entire match.
+   - Declaring the match as forfeited, or as a win by default for the other team.
+   - Disqualification from the entire tournament.
+   - Disqualification from current and future GBC series.
+   - Disqualification from current and future official and community tournaments, until appealed.
 5.  The host reserves the right to modify these rules at any moment. Any such changes will be announced in advance.
