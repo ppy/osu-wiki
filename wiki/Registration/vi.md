@@ -1,6 +1,6 @@
 # Đăng ký
 
-*Cảnh báo: Có hơn một tài khoản osu! là vi phạm [nội quy osu!](/wiki/Rules)!*
+*Lưu ý: Có hơn một tài khoản osu! là vi phạm [nội quy osu!](/wiki/Rules)!*
 
 1. Sau khi [cài đặt](/wiki/Client/Installation) và chạy osu!, osu! sẽ yêu cầu bạn đăng nhập hoặc đăng ký. Giả sử bạn đang ở đây vì cần một tài khoản, nhấp vào `Create an account`.
 
