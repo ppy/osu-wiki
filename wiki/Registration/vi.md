@@ -9,7 +9,7 @@
 2. Điền vào tất cả các ô trong biểu mẫu đăng ký.
    - Về ô username, bạn có thể đặt tối đa 15 ký tự; bao gồm các ký tự (`a-z`, `A-Z`, `0-9`), gạch dưới (`_`), ngoặc vuông, (`[` and `]`), gạch ngang (`-`), và dấu cách (` `)
    - Về ô email address, hãy dùng địa chỉ email của bạn. Email này sẽ dùng để đặt lại mật khẩu cho tài khoản khi bạn quên và gửi mã xác nhận cho bạn khi cần thiết, cho nên đừng dùng email rác.
-   - Về ô password, hãy dùng mật khẩu dài ít nhất 8 ký tự.
+   - Về ô password, hãy đặt ít nhất 8 ký tự.
 
 3. Sau khi xong, nhấp vào `1. Create my account!`. Bạn sẽ được tự động đăng nhập vào.
 
