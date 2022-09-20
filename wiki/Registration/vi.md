@@ -17,6 +17,6 @@
 
 Đừng quên đọc thật thật là kỹ [nội quy](/wiki/Rules)!
 
-Một khi đọc nội quy xong, bạn bây giờ có thể bắt đầu cuộc phiêu lưu giai điệu của bạn rồi đấy! Bạn có thể [thêm beatmap](/wiki/Client/Installation#adding-beatmaps) để chơi, [tạo skin](/wiki/Skinning), hoặc [tạo beatmap](/wiki/Beatmapping). Bạn có thể ghé qua và gửi lời "Xin chào!" trong [Diễn đàn giới thiệu bản thân](https://osu.ppy.sh/community/forums/8).
+Một khi đọc nội quy xong, bạn bây giờ có thể bắt đầu cuộc phiêu lưu giai điệu của bạn rồi đấy! Bạn có thể [thêm beatmaps](/wiki/Client/Installation#thêm-beatmaps) để chơi, [tạo skin](/wiki/Skinning), hoặc [tạo beatmap](/wiki/Beatmapping). Bạn có thể ghé qua và gửi lời "Xin chào!" trong [Diễn đàn giới thiệu bản thân](https://osu.ppy.sh/community/forums/8).
 
 Nếu bạn cần giúp thêm về trong game, bạn có thể hỏi trong kênh `#help` [Internet Relay Chat](/wiki/Community/Internet_Relay_Chat) (IRC) bằng cách mở chat console (nhấn `F8` hoặc `F9` trong game) rồi gõ `/join help`. Bạn có thể đăng câu hỏi của mình trong [Diễn đàn trợ giúp](https://osu.ppy.sh/community/forums/5).
