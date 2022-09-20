@@ -65,6 +65,7 @@ The Combro Cup is run by various community members.
 #### Process overview
 
 The tournamnet will be runs in order as follow:
+
 - **Qualifier**: 6 Songs mappool, 160 higest-combined score players advanced.
 - **Draft phase**: 32 captains picked players 5 times to form 32 teams.
 - **Main stage**: 32 Teams **double elimination** stage:
