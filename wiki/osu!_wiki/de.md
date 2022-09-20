@@ -4,7 +4,7 @@ Das **osu!-Wiki** ist eine Sammlung an öffentlich zugänglichem Wissen, welche 
 
 Alle Diskussionen, über das Wiki allgemein, die Entwicklung und Änderungen von Beiträgen, werden im `#osu-wiki`-Kanal des offiziellen [osu!dev Discord-Servers](/wiki/Community/osu!dev_Discord_server) besprochen. Um zu lernen, wie du mithelfen kannst, siehe dir folgende Artikel an:
 
-- [Richtlinien für Mitwirkende](/wiki/osu!_wiki/Contribution_guide)
+- [Beitragsleitfaden](/wiki/osu!_wiki/Contribution_guide)
 - [Wartung](/wiki/osu!_wiki/Maintenance)
 
 ## Geschichte
@@ -23,7 +23,7 @@ Ein individueller Artikel beschreibt einen einzigen Ausdruck oder ein Konzept un
 
 ## Modell
 
-Bei der Entwicklung des Wikis wurde immer die Zugänglichkeit berücksichtigt: Bearbeitungen und Übersetzungen können (und sollen) von jedem gemacht werden, der Kenntnisse in der entsprechenden Sprache aufweist. Der Quellcode für die Artikel wird auf dem [GitHub Repository](https://github.com/ppy/osu-wiki) gespeichert und von Mitwirkenden durch [die Erstellung von Pull Requests](/wiki/osu!_wiki/Contribution_guide) aktualisiert. Im Anschluss werden die Vorschläge bewertet und von [Verantwortlichen](/wiki/osu!_wiki/Maintenance/List_of_maintainers) genehmigt.
+Bei der Entwicklung des Wikis wurde immer die Zugänglichkeit berücksichtigt: Bearbeitungen und Übersetzungen können (und sollen) von jedem gemacht werden, der Kenntnisse in der entsprechenden Sprache aufweist. Der Quellcode für die Artikel wird auf dem [GitHub-Repository](https://github.com/ppy/osu-wiki) gespeichert und von Mitwirkenden durch [die Erstellung von Änderungsvorschlägen (Pull-Requests)](/wiki/osu!_wiki/Contribution_guide) aktualisiert. Im Anschluss werden die Vorschläge bewertet und von [Verantwortlichen](/wiki/osu!_wiki/Maintenance/List_of_maintainers) genehmigt.
 
 Die Artikel sind nach dem ["GitHub-flavoured Markdown"](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/) gestaltet. Zusätzlich implementiert die Webseite eigene nützliche Features, wie zum Beispiel Verlinkungen, eine Titelseite oder Verbesserungen bei der Formatierung.<!-- TODO: article on custom features of the wiki? it could help us ease the ASC a bit as well -->
 
