@@ -64,13 +64,13 @@ The Combro Cup is run by various community members.
 
 #### Process overview
 
-The tournamnet will be runs in order as follow: 
+The tournamnet will be runs in order as follow:
 - **Qualifier**: 6 Songs mappool, 160 higest-combined score players advanced.
 - **Draft phase**: 32 captains picked players 5 times to form 32 teams.
-- **Main stage**: 32 Teams **double elimination** stage: 　
-  - Round of 32 ：*TBD* songs mappool, best of *TBD*.
-  - Round of 16, Quarterfinals ：*TBD* songs mappool, best of *TBD*.
-  - Semifinals, Finals, Grand Finals ：*TBD* songs mappool, best of *TBD*.
+- **Main stage**: 32 Teams **double elimination** stage:
+  - Round of 32：*TBD* songs mappool, best of *TBD*
+  - Round of 16, Quarterfinals：*TBD* songs mappool, best of *TBD*
+  - Semifinals, Finals, Grand Finals：*TBD* songs mappool, best of *TBD*
 
 #### Tournament registration
 
@@ -150,6 +150,7 @@ The tournamnet will be runs in order as follow:
    - Each team will receive **one** "tactical timeout" of **two minutes**, to be used as extra time to pick or ban a beatmap. *The tactical timeout is optional.*
 
 #### Results, Disconnects
+
 1. Failed players' scores do not get added to the team score.
    - Reviving and surviving during a beatmap is considered as passing it.
 2. If a game ends in a draw, it will be nullified and the map will be replayed.
@@ -158,8 +159,6 @@ The tournamnet will be runs in order as follow:
    - If a rematch happens, the original roster for each team during that particular beatmap must remain the same. If that is not possible, *both* teams will be allowed to swap rosters.
 4. If a player disconnects, their scores will not be counted towards their team's total, unless adequate proof of said score is provided, vaild proof are player point-of-view live stream snippets, scores on mp links, in-game replays (which the timestamps must exactly match the time at which the game took place), and official stream.
 5. If a player disconnects between beatmaps and the team cannot provide a substitute, the match can be delayed for up to 10 minutes (limited to once per team, per match), if still, a *win by default* decaler for opposite team. 
-
-#### Mappool
 
 #### Fair play
 
@@ -174,4 +173,4 @@ The tournamnet will be runs in order as follow:
    - Disqualification from the entire tournament.
    - Disqualification from current and future GBC series.
    - Disqualification from current and future official and community tournaments, until appealed.
-5.  The host reserves the right to modify these rules at any moment. Any such changes will be announced in advance.
+5. The host reserves the right to modify these rules at any moment. Any such changes will be announced in advance.
