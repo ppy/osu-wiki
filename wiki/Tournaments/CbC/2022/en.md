@@ -30,13 +30,13 @@ The **Combro Cup** is a 3v3 captain draft-based osu!mania 4-key tournament hoste
 
 ## Prizes
 
-*Prize Pool will be increased by community donations, currently is $1227 (2022-09-19)*
+*The prize pool will be increased by community donations. Currently it is $1227 (2022-09-19)*
 
 | Placing | Prizes |
-| :-----: | :----- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 70% of the prize pool (*$858*) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 20% of the prize pool (*$245*) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 10% of the prize pool (*$122*) |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 70% of the prize pool |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 20% of the prize pool |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 10% of the prize pool |
 
 ## Organisation
 
@@ -46,17 +46,17 @@ The Combro Cup is run by various community members.
 | :-- | :-- |
 | Host | ::{ flag=US }:: [FullCombro](https://osu.ppy.sh/users/12045149), ::{ flag=US }:: [eion](https://osu.ppy.sh/users/18983998) |
 | Mappool selector | ::{ flag=US }:: [avee](https://osu.ppy.sh/users/19541932), ::{ flag=GB }:: [H1Pur](https://osu.ppy.sh/users/15756120), ::{ flag=MY }:: [ERA Leon](https://osu.ppy.sh/users/13382147), ::{ flag=HK }:: [latsderpy](https://osu.ppy.sh/users/16480419), ::{ flag=VN }:: [Lott](https://osu.ppy.sh/users/13821222), ::{ flag=US }:: [olivertruck](https://osu.ppy.sh/users/15104680), ::{ flag=NL }:: [Saemitsu](https://osu.ppy.sh/users/14262789) |
-| Custom Mappers | ::{ flag=US }:: [avee](https://osu.ppy.sh/users/19541932), ::{ flag=HK }:: [latsderpy](https://osu.ppy.sh/users/16480419), ::{ flag=VN }:: [Lott](https://osu.ppy.sh/users/13821222), ::{ flag=NL }:: [Saemitsu](https://osu.ppy.sh/users/14262789), ::{ flag=US }:: [olivertruck](https://osu.ppy.sh/users/15104680) |
+| Custom mapper | ::{ flag=US }:: [avee](https://osu.ppy.sh/users/19541932), ::{ flag=HK }:: [latsderpy](https://osu.ppy.sh/users/16480419), ::{ flag=VN }:: [Lott](https://osu.ppy.sh/users/13821222), ::{ flag=NL }:: [Saemitsu](https://osu.ppy.sh/users/14262789), ::{ flag=US }:: [olivertruck](https://osu.ppy.sh/users/15104680) |
 | Referee | ::{ flag=DE }:: [AL-E](https://osu.ppy.sh/users/18096415), ::{ flag=DE }:: [ERA Leo](https://osu.ppy.sh/users/15440118), ::{ flag=US }:: [OtherElement](https://osu.ppy.sh/users/1558868), ::{ flag=US }:: [eion](https://osu.ppy.sh/users/18983998), ::{ flag=DE }:: [ERA Sirbeyy](https://osu.ppy.sh/users/12917829), ::{ flag=ES }:: [Sprinter05](https://osu.ppy.sh/users/17125966) |
 | Commentator | ::{ flag=US }:: [ERA degenera](https://osu.ppy.sh/users/16165650), ::{ flag=US }:: [Dmillion](https://osu.ppy.sh/users/13041603), ::{ flag=GB }:: [H1Pur](https://osu.ppy.sh/users/15756120), ::{ flag=US }:: [ERA Jungle](https://osu.ppy.sh/users/9709652), ::{ flag=US }:: [ERA Klarion](https://osu.ppy.sh/users/13857986), ::{ flag=VN }:: [Lott](https://osu.ppy.sh/users/13821222) |
 | Streamer | ::{ flag=US }:: [Dmillion](https://osu.ppy.sh/users/13041603), ::{ flag=US }:: [eion](https://osu.ppy.sh/users/18983998) |
-| Wiki Editor | ::{ flag=CN }:: [\[GB\]Rush\_FTK](https://osu.ppy.sh/users/3046856) |
+| Wiki editor | ::{ flag=CN }:: [\[GB\]Rush\_FTK](https://osu.ppy.sh/users/3046856) |
 
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1645546)
 - [Trailer](https://www.youtube.com/watch?v=zWrCgr8EB-g&feature=youtu.be)
-- [Combro Cup Discord Server](https://discord.gg/9wDMqK34PM)
+- [Combro Cup Discord server](https://discord.gg/9wDMqK34PM)
 
 ## Ruleset
 
@@ -150,7 +150,7 @@ The tournamnet will be runs in order as follow:
    - Repeat offenders may receive further sanctions from the host.
    - Each team will receive **one** "tactical timeout" of **two minutes**, to be used as extra time to pick or ban a beatmap. *The tactical timeout is optional.*
 
-#### Results, Disconnects
+#### Results and disconnects
 
 1. Failed players' scores do not get added to the team score.
    - Reviving and surviving during a beatmap is considered as passing it.
