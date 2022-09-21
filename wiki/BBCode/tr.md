@@ -1,3 +1,8 @@
+---
+outdated_since: 3cfbc4e75e17092cf181c6f1235bfb105666003d
+outdated_translation: true
+---
+
 # BBCode
 
 **BBCode**, osu! forumlarında ve büyük ölçüde internetteki diğer forumlarda kullanılan bir [işaretleme dilidir](https://en.wikipedia.org/wiki/Markup_language). Zengin metin düzenlemeyi mümkün kılmak için kullanılan BBCode, biçimlendirme, özellik kazandırma, gömülü içerik ekleme, ve daha pek çoğunu ifade etmek için metni çevreleyen etiketlerden oluşmuştur. BBCode, osu! web sitesinde, forum gönderileri, imzalar, kullanıcı sayfaları, ve beatmap açıklamaları gibi pek çok yerde kullanılır.

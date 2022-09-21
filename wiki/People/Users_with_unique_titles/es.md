@@ -172,6 +172,7 @@ La mayoría de los concursos oficiales de mapping ofrecen el título de **Elite 
 Desde el 2020, los [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) y los miembros del [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) que apoyan activamente en el sistema de clasificación han sido premiados con el título **Elite Nominator**. Este título es otorgado al principio de cada ano por sus contribuciones realizadas durante el anterior, y es revocado una vez que el usuario deja de formar parte del equipo.
 
 - ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229)
+- ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083)
 - ::{ flag=CA }:: [guden](https://osu.ppy.sh/users/11626065)
 - ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323)
 - ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)
