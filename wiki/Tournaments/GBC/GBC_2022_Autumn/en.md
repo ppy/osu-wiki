@@ -101,7 +101,7 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
      - Player scores may be derived from the official stream as a last resort, in cases where the match is streamed.
 10. If less than the minimum amount of required players are present at match time,  the match can be postponed for up to 10 minutes. If, after this period, there are still not enough players for either, a *win by default* will be declared for the team with the most members present.
     - The minimum amount of required players is the amount of players needed to play a beatmap without any vacant spots in the lobby (i.e. 3 participants must be present for the match to begin).
-11. Exchanging players during games is allowed without limitations, except tournament-specific rules. See the [match instructions](#match-instructions) for details.
+11. Exchanging players during games is allowed without limitations, except tournament-specific rules. See the [match instructions](#match-procedures) for details.
 12. If a player disconnects between beatmaps and the team cannot provide a substitute, the match can be delayed for up to 10 minutes (limited to once per team, per match).
 13. **The size for a team is 5.**
     - This might change depending on the amount of registrations.
@@ -129,7 +129,7 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
    - To be successfully registered, a player must not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
    - **There are no rank limitations for this tournament.** If there are too many registrants, some of the high-level registrants may be removed from the main tournament and be invited to participate in the showmatch instead.
 3. A list of all successfully registered players will be published after the registration phase, and will then participate in the Drafting phase.
-4. [Tournament staff members](/wiki/en/Tournaments/Official_support#what-is-considered-staff) must not participate as players in the tournament.
+4. [Tournament staff members](/wiki/Tournaments/Official_support#what-is-considered-staff) must not participate as players in the tournament.
 5. Organisers reserve the right to decline restricted players from participating in the tournament.
 
 ### Qualifier instructions
