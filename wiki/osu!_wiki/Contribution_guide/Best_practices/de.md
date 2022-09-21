@@ -51,7 +51,7 @@ Wenn du während der Verwendung des GitHub-Tools auf irgendwelche Probleme stö�
 Innerhalb deiner Verzweigung des osu!-Wikis bist du frei, jegliche Änderungen zu machen und diese abzuspeichern. **Commits** sind individuelle "Sicherungspunkte" des Repositorys. **Branches** sind Arbeitsbereiche, die es ermöglichen, zwischen verschiedenen Versionen des Repositorys zu wechseln. Folge diesen Richtlinien, um die Arbeitsabläufe zu vereinfachen und die Versionshistorie sauber und frei von Schmutz zu halten:
 
 - [Synchronisiere den Branch `master`](#die-verzweigung-synchronisieren).
-- Starte die Arbeit immer mit dem Erstellen eines neuen Branches, der aus dem Branch `master` hervorgeht, und mache nur dort Änderungen. Vergib einen sinnvollen Namen wie `update-staff-log`.<!-- https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow is the explanation, but it doesn't really fit in here -->
+- Starte die Arbeit immer mit dem Erstellen eines neuen Branches, der aus dem Branch `master` hervorgeht, und mache nur dort Änderungen. Vergib einen sinnvollen Namen wie `update-staff-log`.
 - Nehme deine Arbeit in die Versionshistorie auf, sobald du vernünftig bemessene Änderungen gemacht hast. Es ist besser, einen Artikel als Ganzes zu übertragen, als 10 kleine Änderungen vorzunehmen.
 - **Verwende kurze und sinnvolle Commit-Nachrichten**, da sie andere wissen lassen, was sie erwartet. So etwas wie `Rewrite the section about jump patterns` sagt viel mehr aus als `Update en.md`.
 
