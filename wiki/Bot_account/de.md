@@ -17,8 +17,8 @@ Bot-Accounts können nur über den [Bewerbungsprozess](#einen-bot-account-erstel
 
 Der Hauptunterschied zwischen persönlichen und Bot-Accounts besteht in den Bandbreitenbeschränkungen, die bei der Versendung von [Chat](/wiki/Client/Interface/Chat_console)-Nachrichten gelten. Bot-Accounts haben höhere Grenzwerte, um zu ermöglichen, dass ihre Dienste mit mehr Nutzern interagieren können, ohne Gefahr zu laufen, dass der Account [stumm geschaltet](/wiki/Silence) wird:
 
-- Persönliche Accounts können jede 5 Sekunden 10 Nachrichten senden
-- Bot-Accounts können jede 60 Sekunden 300 Nachrichten senden
+- Persönliche Accounts können alle 5 Sekunden 10 Nachrichten senden
+- Bot-Accounts können alle 60 Sekunden 300 Nachrichten senden
 
 Diese Beschränkungen gelten nur für private Nachrichten, `#multiplayer` und `#spectator`. Bot-Accounts dürfen in anderen Kanälen keine Nachrichten senden, auch keine unaufgeforderten, privaten Nachrichten.
 
@@ -35,14 +35,14 @@ Bevor eine Anfrage geprüft wird, muss das Support-Team sicherstellen, dass der 
 - der Bot wird jeden Monat von mindestens 50 einzelnen Nutzern verwendet
 - der Bot hält die Bandbreitenbeschränkungen für persönliche Accounts ein
 - der Bot sendet keine Nachrichten in öffentlichen Kanälen
-- der Bot sendet keine unerwünschten, privaten Nachrichten
+- der Bot sendet keine unerwünschten privaten Nachrichten
 - der Bot ist für ein breites Publikum in der osu!-Community hilfreich
 
 ### Einen Antrag einreichen
 
 Sofern dein Bot die obigen Kriterien erfüllt, darfst du einen Antrag einreichen, um einen Bot-Account für ihn anzulegen.
 
-Sende eine E-Mail mit dem Betreff `Bot Account Request` an [accounts@ppy.sh](mailto:accounts@ppy.sh). Diese muss von der E-Mail-Adresse aus gesendet werden, die an dein osu!-Account gebunden ist.
+Sende eine E-Mail mit dem Betreff `Bot Account Request` an [accounts@ppy.sh](mailto:accounts@ppy.sh). Diese muss von der E-Mail-Adresse aus gesendet werden, die an deinen osu!-Account gebunden ist.
 
 Der Text der E-Mail sollte das Folgende enthalten:
 
