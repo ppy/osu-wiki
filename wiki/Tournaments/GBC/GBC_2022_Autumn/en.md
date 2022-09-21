@@ -81,15 +81,15 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
 2. Beatmap scoring is based on Score V2.
 3. The maps for each round will be announced by the mappool selectors on the official stream, on the Sunday before the actual matches take place.
 4. The match schedules for each round will be announced by the host on this page, as well as the information sheet, on the Sunday before the matches take place.
-6. Use of the Visual Settings to alter background dim or disable beatmap elements like storyboards and skins is allowed.
+5. Use of the Visual Settings to alter background dim or disable beatmap elements like storyboards and skins is allowed.
    - Custom skin elements must not be used to alter core gameplay mechanics.
-7. If a game ends in a draw, it will be nullified and the map will be replayed.
-8. Teams may ask for a rematch if a team member encounters technical difficulties while playing.
+6. If a game ends in a draw, it will be nullified and the map will be replayed.
+7. Teams may ask for a rematch if a team member encounters technical difficulties while playing.
    - "Lag spikes" are not considered a valid reason to nullify a beatmap.
    - If a rematch happens, the original roster for each team during that particular beatmap must remain the same. If that is not possible, e.g. by virtue of a technical issue, *both* teams will be allowed to swap rosters.
    - This rule should not to be abused. Referees may veto a rematch request if they find that this is the case.
-9.  Disconnects within 30 seconds or 25% of the beatmap length (whichever happens first) can be rematched, at the referee's discretion, as long as it is clearly communicated in the chatroom.
-10.  If a player disconnects, their scores will not be counted towards their team's total, unless adequate proof of said score is provided. The following are considered as acceptable proof:
+8.  Disconnects within 30 seconds or 25% of the beatmap length (whichever happens first) can be rematched, at the referee's discretion, as long as it is clearly communicated in the chatroom.
+9.   If a player disconnects, their scores will not be counted towards their team's total, unless adequate proof of said score is provided. The following are considered as acceptable proof:
     - Player point-of-view live stream snippets (commonly referred to as "clips" or "VODs"). The entirety of the play, along with the results screen must be clearly visible along with the affected player's score.
     - Replay files of the play, taken directly from the "Local scores" tab on the affected player's client (the timestamps must exactly match the time at which the game took place, as seen on the multiplayer lobby link).
     - Screenshots from other players taken directly in-game that show the affected player's score.
@@ -97,27 +97,27 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
       - Screenshots taken in-game at the time of disconnection may be accepted. Note that this method does not provide a one-to-one representation of that player's score. Using this method is not encouraged and it may be denied at the referee's discretion if the information provided is not sufficient to identify the player/score.
       - All screenshots **MUST** be taken using the game itself (using `Shift` + `F12`), that is, they must be hosted on the `https://osu.ppy.sh/` domain. Any other form of screenshot will be denied.
      - Player scores may be derived from the official stream as a last resort, in cases where the match is streamed.
-11. If less than the minimum amount of required players are present at match time,  the match can be postponed for up to 10 minutes. If, after this period, there are still not enough players for either, a *win by default* will be declared for the team with the most members present.
+10. If less than the minimum amount of required players are present at match time,  the match can be postponed for up to 10 minutes. If, after this period, there are still not enough players for either, a *win by default* will be declared for the team with the most members present.
     - The minimum amount of required players is the amount of players needed to play a beatmap without any vacant spots in the lobby (i.e. 3 participants must be present for the match to begin).
-12. Exchanging players during games is allowed without limitations, except tournament-specific rules. See the [match instructions](#match-instructions) for details.
-13. If a player disconnects between beatmaps and the team cannot provide a substitute, the match can be delayed for up to 10 minutes (limited to once per team, per match).
-14. **The size for a team is 5.**
+11. Exchanging players during games is allowed without limitations, except tournament-specific rules. See the [match instructions](#match-instructions) for details.
+12. If a player disconnects between beatmaps and the team cannot provide a substitute, the match can be delayed for up to 10 minutes (limited to once per team, per match).
+13. **The size for a team is 5.**
     - This might change depending on the amount of registrations.
-15. Players are expected to keep the match running fluently and without delays. Excessive match delays from the players' side may result in penalties being applied at the referee's discretion. Disrupting the match by foul play, insulting or provoking other players or staff, delaying the match, or other deliberate inappropriate misbehaviour are strictly prohibited, and will be punished accordingly.
-16. All players and staff must be treated with respect. Instructions of the referees and the host are to be followed. Decisions labelled as final are not to be objected.
-17. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms, too.
+14. Players are expected to keep the match running fluently and without delays. Excessive match delays from the players' side may result in penalties being applied at the referee's discretion. Disrupting the match by foul play, insulting or provoking other players or staff, delaying the match, or other deliberate inappropriate misbehaviour are strictly prohibited, and will be punished accordingly.
+15. All players and staff must be treated with respect. Instructions of the referees and the host are to be followed. Decisions labelled as final are not to be objected.
+16. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms, too.
     - Breaking the chat rules results in a silence. Silenced players cannot participate in multiplayer matches and must be exchanged for the time being.
-18. Unexpected incidences will be handled by the host. Referees may allow higher tolerance depending on the given circumstances. This is up to their discretion.
-19. Penalties for violating the tournament rules include, but are not limited to:
+17. Unexpected incidences will be handled by the host. Referees may allow higher tolerance depending on the given circumstances. This is up to their discretion.
+18. Penalties for violating the tournament rules include, but are not limited to:
     - Exclusion of specific players for one beatmap.
     - Exclusion of specific players for an entire match.
     - Declaring the match as forfeited, or as a win by default for the other team.
     - Disqualification from the entire tournament.
     - Disqualification from current and future GBC series.
     - Disqualification from current and future official and community tournaments, until appealed.
-20. Referees may allow, at their discretion, lower or higher tolerances for timers.
-21. The host may request liveplays or recordings of individual players or teams at any point.
-22. The host reserves the right to modify these rules at any moment. Any such changes will be announced in advance.
+19. Referees may allow, at their discretion, lower or higher tolerances for timers.
+20. The host may request liveplays or recordings of individual players or teams at any point.
+21. The host reserves the right to modify these rules at any moment. Any such changes will be announced in advance.
 
 ### Tournament registration
 
@@ -148,7 +148,6 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
    - Higher score will have higher chance to be picked on Drafting phase. player will be eliminated if he got too low in qualifier and not being picked on Drafting phase.
 8. All players will advance to Drafting phase, except players disrupting the match by foul play or trying seed manipulation.
    - Disqualified player beacuse above reason will be announced before Drafting phase actual take place.
-
 
 ### Stage instructions
 
