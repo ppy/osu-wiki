@@ -14,7 +14,7 @@ The **GB Cup 2022 Autumn** (***GBC 2022 Autumn***) is a 3v3 captain draft-based 
 
 ## Tournament schedule
 
-*this might change depending on the number of incoming registrations.*
+*The schedule might change depending on the number of incoming registrations.*
 
 | Event | Timestamp |
 | --: | :-- |
@@ -34,14 +34,14 @@ The **GB Cup 2022 Autumn** (***GBC 2022 Autumn***) is a 3v3 captain draft-based 
 ## Prizes
 
 | Placing | Prizes |
-| :-----: | :----- |
+| :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, KanonBot profile badge, *TBA* CNY |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | KanonBot profile badge, *TBA* CNY |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | KanonBot profile badge, *TBA* CNY |
-| 4th place | *TBA* CNY |
-| 5-8th place | *TBA* CNY |
+| *4th place* | *TBA* CNY |
+| *5-8th place* | *TBA* CNY |
 
-Teams were also awarded a *TBA* CNY bonus for each regular stage win.
+Teams will also be awarded a *TBA* CNY bonus for each regular stage win.
 
 ## Organisation
 
