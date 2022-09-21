@@ -20,7 +20,7 @@ Der Hauptunterschied zwischen persönlichen und Bot-Accounts besteht in den Band
 - Persönliche Accounts können alle 5 Sekunden 10 Nachrichten senden
 - Bot-Accounts können alle 60 Sekunden 300 Nachrichten senden
 
-Diese Beschränkungen gelten nur für private Nachrichten, `#multiplayer` und `#spectator`. Bot-Accounts dürfen in anderen Kanälen keine Nachrichten senden, auch keine unaufgeforderten, privaten Nachrichten.
+Diese Beschränkungen gelten nur für private Nachrichten, `#multiplayer` und `#spectator`. Bot-Accounts dürfen in anderen Kanälen keine Nachrichten senden, auch keine unaufgeforderten privaten Nachrichten.
 
 ## Einen Bot-Account erstellen
 
