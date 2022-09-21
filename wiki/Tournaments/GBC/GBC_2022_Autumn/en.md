@@ -67,6 +67,7 @@ The GB Cup 2022 Autumn is run by the Team GB and various community members.
 2. There will be some players been eliminated in qualifier and drafing phase.
 3. Player can't be banned in a match until he has finished a game in this match.
 4. Pick beatmaps and ban players should be sent at a single message, if a team continue be slow at banning, referees have rights to **ignore this ban**.
+5. "Total matches score difference" added as a last resort for ranking in regular stage.
 
 The following rules are changed to consistent with rules on `MWC 4k 2022` : 
 
@@ -200,8 +201,8 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
 ### Win conditions
 
 - In Drafting phase, player need to being picked into a team or become captains to advanced.
-- In the Regular stage and Quarterfinals, teams need to win 6 maps to win a match (best of 11).
-- In Semifinals and Finals, teams need to win 7 maps to win a match (best of 13).
+- In the Regular stage, teams need to win 6 maps to win a match (best of 11).
+- In Quarterfinals, Semifinals and Finals, teams need to win 7 maps to win a match (best of 13).
 
 ### Match procedures
 
