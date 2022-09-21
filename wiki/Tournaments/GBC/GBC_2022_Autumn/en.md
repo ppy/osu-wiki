@@ -61,18 +61,20 @@ The GB Cup 2022 Autumn is run by the Team GB and various community members.
 
 ## Ruleset
 
-### Ruleset Changes from last tournament
+### Changes from last tournament
+
 1. Qualifier stage added, for determining captain role, result will be used in Drafting phase.
 2. There will be some players been eliminated in qualifier and drafing phase.
 3. Player can't be banned in a match until he has finished a game in this match.
+4. Pick beatmaps and ban players should be sent at a single message, if a team continue be slow at banning, referees have rights to **ignore this ban**.
 
 The following rules are changed to consistent with rules on `MWC 4k 2022` : 
 
-4. Failed Player's score still get added to the team score.
-5. Allowed Team to rematch if any team member disconnected on early of the beatmaps.
-6. Referees have rights to lower or higher timer settings.
-7. Called tactical timeout on Tie-breaker need both teams' captains agreement.
-8. NoFail mod could be choose in FreeMod bracket.
+5. Failed Player's score still get added to the team score.
+6. Allowed Team to rematch if any team member disconnected on early of the beatmaps.
+7. Referees have rights to lower or higher timer settings.
+8. Called tactical timeout on Tie-breaker need both teams' captains agreement.
+9. NoFail mod could be choose in FreeMod bracket.
 
 ### Tournament rules
 
@@ -88,14 +90,14 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
    - "Lag spikes" are not considered a valid reason to nullify a beatmap.
    - If a rematch happens, the original roster for each team during that particular beatmap must remain the same. If that is not possible, e.g. by virtue of a technical issue, *both* teams will be allowed to swap rosters.
    - This rule should not to be abused. Referees may veto a rematch request if they find that this is the case.
-8.  Disconnects within 30 seconds or 25% of the beatmap length (whichever happens first) can be rematched, at the referee's discretion, as long as it is clearly communicated in the chatroom.
-9.   If a player disconnects, their scores will not be counted towards their team's total, unless adequate proof of said score is provided. The following are considered as acceptable proof:
-    - Player point-of-view live stream snippets (commonly referred to as "clips" or "VODs"). The entirety of the play, along with the results screen must be clearly visible along with the affected player's score.
-    - Replay files of the play, taken directly from the "Local scores" tab on the affected player's client (the timestamps must exactly match the time at which the game took place, as seen on the multiplayer lobby link).
-    - Screenshots from other players taken directly in-game that show the affected player's score.
-      - Screenshots from the results screen must clearly show the affected player's score. This is the preferred method.
-      - Screenshots taken in-game at the time of disconnection may be accepted. Note that this method does not provide a one-to-one representation of that player's score. Using this method is not encouraged and it may be denied at the referee's discretion if the information provided is not sufficient to identify the player/score.
-      - All screenshots **MUST** be taken using the game itself (using `Shift` + `F12`), that is, they must be hosted on the `https://osu.ppy.sh/` domain. Any other form of screenshot will be denied.
+8. Disconnects within 30 seconds or 25% of the beatmap length (whichever happens first) can be rematched, at the referee's discretion, as long as it is clearly communicated in the chatroom.
+9. If a player disconnects, their scores will not be counted towards their team's total, unless adequate proof of said score is provided. The following are considered as acceptable proof:
+   - Player point-of-view live stream snippets (commonly referred to as "clips" or "VODs"). The entirety of the play, along with the results screen must be clearly visible along with the affected player's score.
+   - Replay files of the play, taken directly from the "Local scores" tab on the affected player's client (the timestamps must exactly match the time at which the game took place, as seen on the multiplayer lobby link).
+   - Screenshots from other players taken directly in-game that show the affected player's score.
+     - Screenshots from the results screen must clearly show the affected player's score. This is the preferred method.
+     - Screenshots taken in-game at the time of disconnection may be accepted. Note that this method does not provide a one-to-one representation of that player's score. Using this method is not encouraged and it may be denied at the referee's discretion if the information provided is not sufficient to identify the player/score.
+     - All screenshots **MUST** be taken using the game itself (using `Shift` + `F12`), that is, they must be hosted on the `https://osu.ppy.sh/` domain. Any other form of screenshot will be denied.
      - Player scores may be derived from the official stream as a last resort, in cases where the match is streamed.
 10. If less than the minimum amount of required players are present at match time,  the match can be postponed for up to 10 minutes. If, after this period, there are still not enough players for either, a *win by default* will be declared for the team with the most members present.
     - The minimum amount of required players is the amount of players needed to play a beatmap without any vacant spots in the lobby (i.e. 3 participants must be present for the match to begin).
@@ -127,7 +129,7 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
    - To be successfully registered, a player must not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
    - **There are no rank limitations for this tournament.** If there are too many registrants, some of the high-level registrants may be removed from the main tournament and be invited to participate in the showmatch instead.
 3. A list of all successfully registered players will be published after the registration phase, and will then participate in the Drafting phase.
-4. [Tournament staff](https://osu.ppy.sh/wiki/en/Tournaments/Official_support#what-is-considered-staff) members must not participate as players in the tournament.
+4. [Tournament staff members](/wiki/en/Tournaments/Official_support#what-is-considered-staff) must not participate as players in the tournament.
 5. Organisers reserve the right to decline restricted players from participating in the tournament.
 
 ### Qualifier instructions
@@ -174,7 +176,7 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
 7. After each phase, there is a 60-second break before the next phase starts.
 8. At all times, the captains may communicate with each other via multiplayer chatrooms or voice chat. 
    - Other players will be muted during the Drafting phase.
-9.  After the Drafting phase, captains may choose, with the approval of the host, to delegate their role to other prospective team members.
+9. After the Drafting phase, captains may choose, with the approval of the host, to delegate their role to other prospective team members.
 10. Bad behaviour during the Drafting phase will be seen as disrupting the match by foul play.
 
 ### Regular stage instructions
@@ -201,7 +203,7 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
 - In the Regular stage and Quarterfinals, teams need to win 6 maps to win a match (best of 11).
 - In Semifinals and Finals, teams need to win 7 maps to win a match (best of 13).
 
-### Match instructions
+### Match procedures
 
 1. A referee will create a multiplayer room 15 minutes before the scheduled match time. Players must join the lobby in that period.
    - The room settings are `Game mode: "osu!mania"`, `Team mode: "Team Vs"` and `Score mode: "ScoreV2"`. The room name must follow the pattern of `GBC2 Aut: ({TeamRed}) vs ({TeamBlue})`.
@@ -217,7 +219,7 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
    - Banning players is optional.
    - If less than required player avaliable, banning player might be limited by host considering.
 6. Teams will have 2 minutes to pick a beatmap and ban an opposing player , and 2 minutes to get ready. If a team takes more time than allowed, the procedures adopted will be as follows:
- -  Pick beatmaps and ban players should be sent at a single message, if a team continue be slow at banning, referees have rights to ignore this ban.
+   - Pick beatmaps and ban players should be sent at a single message, if a team continue be slow at banning, referees have rights to ignore this ban.
    - For the first occurrence:
      - The team will receive a verbal warning from the referee
    - On subsequent occurrences:
@@ -226,8 +228,8 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
      - For map picks, a random map will be chosen from the mappool using `!roll X`, where X is the number of maps that were neither picked nor banned, excluding the tiebreaker.
      - For a ready timer, the referee will issue the `!mp start 10` command, regardless of how many players from each team are present in the lobby, using `!mp kick` on any extra players for each team, starting from the top (i.e. the first valid player combination for each team will be forced to play the pick). The results for such games are to be taken as is.
    - Repeat offenders may receive further sanctions from the host.
-   - Each team will receive **one** "tactical timeout" of **two minutes**, to be used as extra time to pick or ban a beatmap. *The tactical timeout is optional.*
-     - The tactical timeout may be called on a tiebreaker, provided that both teams' captains agree to it.
+7. Each team will receive **one** "tactical timeout" of **two minutes**, to be used as extra time to pick or ban a beatmap. *The tactical timeout is optional.*
+   - The tactical timeout may be called on a tiebreaker, provided that both teams' captains agree to it.
 
 ### Mappool instructions
 
@@ -244,7 +246,7 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
 5. Possible mod choices for the FreeMod bracket are NoFail, Hidden, FadeIn, Flashlight, and Mirror.
 6. The tiebreaker will be played under FreeMod conditions.
 
-### Scheduling instructions
+### Scheduling information
 
 1. Each stage will be held on **a single weekend**.
 2. Matches in Qualifiers will be held during specific time slots proposed by the tournament staff. Each player is free to choose a time slot in which they want to play.
@@ -256,6 +258,6 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
 5. **Reschedules will only be considered if both teams agree to a time and communicate it to the tournament staff, before Wednesday 23:59 UTC+8 of the week the match is to take place on.**
    - Reschedules may only be requested by a team captain.
    - Matches may not be scheduled to any time beyond **Sunday, 23:59 UTC+8** of the week they are to be played at.
-      - ... Unless its absolutely necessary, **both** teams request and agree to it, and staff avaliable.
+     - ... Unless its absolutely necessary, **both** teams request and agree to it, and staff avaliable.
    - **Do not ask for reschedule unless it is absolutely needed. The host reserves the right to deny any reschedule requests.**
 6. Captains are responsible for their team's availability.
