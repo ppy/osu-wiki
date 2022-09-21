@@ -71,11 +71,11 @@ The GB Cup 2022 Autumn is run by the Team GB and various community members.
 
 The following rules are changed to consistent with rules on `MWC 4k 2022` : 
 
-5. Failed Player's score still get added to the team score.
-6. Allowed Team to rematch if any team member disconnected on early of the beatmaps.
-7. Referees have rights to lower or higher timer settings.
-8. Called tactical timeout on Tie-breaker need both teams' captains agreement.
-9. NoFail mod could be choose in FreeMod bracket.
+6. Failed Player's score still get added to the team score.
+7. Allowed Team to rematch if any team member disconnected on early of the beatmaps.
+8. Referees have rights to lower or higher timer settings.
+9. Called tactical timeout on Tie-breaker need both teams' captains agreement.
+10. NoFail mod could be choose in FreeMod bracket.
 
 ### Tournament rules
 
@@ -149,8 +149,10 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
 6. All players will play their qualifiers in separate rooms. *We suggest teams not to broadcast or share their results to avoid seed manipulation*.
 7. Qualifier stage's result will using to seeding and choosen captains.
    - Higher score will have higher chance to be picked on Drafting phase. player will be eliminated if he got too low in qualifier and not being picked on Drafting phase.
-8. All players will advance to Drafting phase, except players disrupting the match by foul play or trying seed manipulation.
-   - Disqualified player beacuse above reason will be announced before Drafting phase actual take place.
+8. Some best-performance players will advance to Drafting phase.
+   - The number of players advanced will be determined by how many players required on Drafting phase. (i.e. For 16 teams, each team have 5 players' size, total `16*5=90` players are required on Drafting phase. So 
+   *about* Top 95 will be advanced to Drafting phase, giving captains some extra choices for last pick.) *This might change depending on the number of incoming registrations.*
+   - Disrupting the match by foul play or trying seed manipulation will result in disqualified, they will be announced before Drafting phase actual take place.
 
 ### Stage instructions
 
@@ -190,7 +192,7 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
    - Highest beatmap difference (`beatmap wins - beatmap losses`)
    - Most beatmaps won
    - Fewest beatmaps lost
-   - Highest total matches score difference(in the whole regular stage)
+   - Highest total matches score difference (`∑{(score difference in each beatmaps)` in the whole regular stage)
    - Dice roll
 3. The top 8 teams will advanced to the Playoff stage, while the remaining players get eliminated from the tournament.
    - This means that teams with a record of 2-X or better will advance to the next stage.
@@ -213,12 +215,12 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
 3. Both captains will alternate picking a beatmap from the mappool.
 4. Each captain must use `!roll` once in `#multiplayer`.
    - The winner of the `!roll` could choose to pick first or ban first of the match. The other choose will be used by loser team.
-   - The loser of the `!roll` starts banning one beatmap, followed by the winner of the `!roll` to ban a beatmap. 
-5. After each pick, the captain may ban one player of the opposing team from playing that beatmap in the match, except in a tiebreaker.
+5. After each pick, the captain may ban one player of the opposing team from playing that beatmap in the match, **except in a tiebreaker**.
    - Any player can only be banned like this **once** per match.
    - A player **can't** be banned until he finished playing a game on this match.
-   - Banning players is optional.
+   - Banning players is **optional**.
    - If less than required player avaliable, banning player might be limited by host considering.
+     - This rule should not be abused. Host reserves rights to penalize a team if they find that cases.
 6. Teams will have 2 minutes to pick a beatmap and ban an opposing player , and 2 minutes to get ready. If a team takes more time than allowed, the procedures adopted will be as follows:
    - Pick beatmaps and ban players should be sent at a single message, if a team continue be slow at banning, referees have rights to ignore this ban.
    - For the first occurrence:
