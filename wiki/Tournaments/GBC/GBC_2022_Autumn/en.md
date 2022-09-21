@@ -65,17 +65,18 @@ The GB Cup 2022 Autumn is run by the Team GB and various community members.
 
 1. Qualifier stage added, for determining captain role, result will be used in Drafting phase.
 2. There will be some players been eliminated in qualifier and drafing phase.
-3. Player can't be banned in a match until he has finished a game in this match.
-4. Pick beatmaps and ban players should be sent at a single message, if a team continue be slow at banning, referees have rights to **ignore this ban**.
-5. "Total matches score difference" added as a last resort for ranking in regular stage.
+3. Regular stage have 4 rounds, used to be 3. only teams with 2-1 or 1-2 record will participate round 4.
+4. Player can't be banned in a match until he has finished a game in this match.
+5. Pick beatmaps and ban players should be sent at a single message, if a team continue be slow at banning, referees have rights to **ignore this ban**.
+6. "Total matches score difference" added as a last resort for ranking in regular stage.
 
 The following rules are changed to consistent with rules on `MWC 4k 2022` : 
 
-6. Failed Player's score still get added to the team score.
-7. Allowed Team to rematch if any team member disconnected on early of the beatmaps.
-8. Referees have rights to lower or higher timer settings.
-9. Called tactical timeout on Tie-breaker need both teams' captains agreement.
-10. NoFail mod could be choose in FreeMod bracket.
+7. Failed Player's score still get added to the team score.
+8. Allowed Team to rematch if any team member disconnected on early of the beatmaps.
+9. Referees have rights to lower or higher timer settings.
+10. Called tactical timeout on Tie-breaker need both teams' captains agreement.
+11. NoFail mod could be choose in FreeMod bracket.
 
 ### Tournament rules
 
@@ -184,7 +185,7 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
 
 ### Regular stage instructions
 
-1. Following the Drafting phase, a 3-round Swiss stage will be played. This means teams with same record will face each other.
+1. Following the Drafting phase, a 4-round Swiss stage will be played. This means teams with same record will face each other.
 2. The final ranking of the Swiss round will be determined by the following criteria in order:
    - Most matches won
    - Head-to-head result (if possible)
@@ -192,13 +193,13 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
    - Highest beatmap difference (`beatmap wins - beatmap losses`)
    - Most beatmaps won
    - Fewest beatmaps lost
-   - Highest total matches score difference (`∑{(score difference in each beatmaps)` in the whole regular stage)
+   - Highest total matches score difference (`∑(score difference in each beatmaps)` in the whole regular stage)
    - Dice roll
 3. The top 8 teams will advanced to the Playoff stage, while the remaining players get eliminated from the tournament.
-   - This means that teams with a record of 2-X or better will advance to the next stage.
-   - All teams will finish all 3 rounds, even when they have a record of 0-2.
-4. In the Regular stage, all teams will play in the same mappool.
-5. The results from the Regular stage will also be used for seeding teams.
+   - This means that teams with a record of `3-X` will advance to the next stage, while teams with a record of `X-3` will be eliminated.
+   - Also, teams with a record of `2-2` will have chance to advanced by ranking top 8.
+   - Teams with a record 3-0 or 0-3 needn't play round 4, as they are already advanced or get eliminated.
+4. The results from the Regular stage will also be used for seeding teams.
 
 ### Win conditions
 
