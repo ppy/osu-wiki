@@ -2,26 +2,25 @@
 tags:
   - BN
   - BNG
-no_native_review: true
-outdated_translation: true
-outdated_since: deb9ce772b8229d869cc469cb7d39c007e3e55c9
 ---
 
 # Beatmap Nominators
 
-*Vea también: [Reglas de los Beatmap Nominators](Rules), [Información general para Beatmap Nominators](General_Information), y [Convertiéndose en un Beatmap Nominator](Becoming_a_Beatmap_Nominator)*
+*Vea también: [Reglas de los Beatmap Nominators](Rules), [Expectativas para los Beatmap Nominators](Expectations), [Información general para Beatmap Nominators](General_Information), y [Convertiéndose en un Beatmap Nominator](Becoming_a_Beatmap_Nominator)*
 
-Los **Beatmap Nominators** (***BN***) son un grupo a cargo de [nominar beatmaps](/wiki/Beatmap_ranking_procedure). Ellos tienen un nombre morado en los foros y en discuciones de beatmaps.
+Los **Beatmap Nominators** (***BN***) son un grupo a cargo de [nominar beatmaps](/wiki/Beatmap_ranking_procedure). Ellos tienen un nombre morado en los foros y en [discuciones de beatmaps](/wiki/Beatmap_discussion).
 
 ## Roles y Responsabilidades
 
-Los miembros de los Beatmap Nominators son principalmente responsables de [modear](/wiki/Modding) y aprobar los [beatmaps pendientes](/wiki/Beatmap) en el ciclo de ranking. Los Beatmap Nominators son las personas a las que acudir para cualquier ayuda necesitada en cuanto al mapeo y al modeo. Cualquier Beatmap Nominator puede [vetar un beatmap](Beatmap_Veto) si sienten que el mapa nominado tiene complicaciones que deben ser arreglados, las cuales no son violaciones directas del Criterio de Ranking.
+Los miembros de los Beatmap Nominators son principalmente responsables de [modear](/wiki/Modding) y aprobar los [beatmaps pendientes](/wiki/Beatmap/Category#wip-y-pendiente) en el ciclo de ranking. Los Beatmap Nominators son las personas a las que acudir para cualquier ayuda necesitada en cuanto al mapeo y al modeo. Cualquier Beatmap Nominator puede [vetar un beatmap](Beatmap_Veto) si sienten que el mapa nominado tiene complicaciones que deben ser arreglados, las cuales no son violaciones directas del Criterio de Ranking.
+
+Además, se espera que todos los Beatmap Nominators se adhieran a un conjunto flexible de ideales centrados en el servicio a la comunidad en general dirigiendo su atención a una amplia variedad de mapas y mapeadores, y esforzándose por mejorar constantemente su oficio, como se describe en [Expectativas para los Beatmap Nominators](Expectations).
 
 Los miembros de los Beatmap Nominators están divididos en dos grupos: miembros completos y miembros provisionales.
 
 ## Beatmap Nominators completos
 
-Además del modeo y rankeo regular de beatmaps, miembros completos de los Beatmap Nominators son los responsables de descalificar los mapas en la sección de calificados que presenten problemas. Los Beatmap Nominators completos también tienen la oportunidad de participar en la evaluación de la aplicación de nuevos miembros al grupo de manera ocasional si es que están interesados en unirse al [Nomination Assesment Team](/wiki/People/The_Team/Nomination_Assessment_Team) en un futuro.
+Además del modeo y rankeo regular de beatmaps, miembros completos de los Beatmap Nominators son los responsables de descalificar los mapas en la sección de calificados que presenten problemas. Los Beatmap Nominators completos también tienen la oportunidad de participar en la evaluación de la aplicación de nuevos miembros al grupo de manera ocasional si es que están interesados en unirse al Nomination Assesment Team en un futuro.
 
 Aproximadamente cada tres meses, a los Beatmap Nominators completos se les evalúa la conducta y la actividad/calidad de nominación por el Nomination Assesment Team. Si se les rechazan las nominaciones frecuentemente por razones considerables o su conducta  es inaceptable, pueden ser desplazados al subgrupo de miembros de prueba.
 
@@ -29,11 +28,11 @@ Los Beatmap Nominators completos que presenten una actividad menor a la mínima 
 
 ## Beatmap Nominators provisionales
 
-La provisión es usada para monitorizar nuevos o relativos Beatmap Nominators más de cerca. El rol principal para los Beatmap Nominators provisionales es de establecer una fundación como Beatmap Nominator a exclusivamente a través de promover beatmaps en el proceso de rankeo. Por lo menos un nominador completo debe de estar envuelto en el proceso de rankeo para cada beatmap, así los miembros provisionales no pueden dar la nominación final a un beatmap que solo ha recibido nominaciones de otros miembros provisionales. Ellos tampoco pueden nominar sets de beatmaps híbridos.
+La provisión es usada para monitorizar nuevos o relativos Beatmap Nominators más de cerca. El rol principal para los Beatmap Nominators provisionales es de establecer una fundación como Beatmap Nominator a exclusivamente a través de promover beatmaps en el proceso de rankeo. Por lo menos un nominador completo debe de estar envuelto en el proceso de rankeo para cada beatmap, así los miembros provisionales no pueden dar la nominación final a un beatmap que solo ha recibido nominaciones de otros miembros provisionales para su modo de juego.
 
-Los nuevos miembros de los Beatmap Nominators empiezan con un periodo largo de prueba de un mes. Si su comportamiento y nominaciones son satisfactorias, serán promovidos a los Beatmap Nominators completos. De otra manera, seguirán en el periodo de prueba por otro mes o serán removidos de los Beatmap Nominators.
+Los nuevos miembros de los Beatmap Nominators empiezan con un periodo largo de prueba de un mes. Si su comportamiento y nominaciones son satisfactorias, serán promovidos a los Beatmap Nominators completos después de una  [evaluación](/wiki/People/The_Team/Nomination_Assessment_Team/Evaluations) positiva. De otra manera, seguirán en el periodo de prueba por otro mes o serán removidos de los Beatmap Nominators.
 
-Cuando un Beatmap Nominator es puesto a prueba, no pueden ser puestos nuevamente a prueba por al misma razón. Por ejemplo, si un Beatmap Nominator es puesto a prueba por mal comportamiento, será removido de los Beatmap Nominators si presentan el mismo mal comportamiento de nuevo, incluso si es que son Beatmap Nominators completos en su segunda infracción.
+Cuando un Beatmap Nominator es puesto a prueba, no pueden ser puestos nuevamente a prueba por la misma razón. Por ejemplo, si un Beatmap Nominator es puesto a prueba por mal comportamiento, será removido de los Beatmap Nominators si presentan el mismo mal comportamiento de nuevo, incluso si es que son Beatmap Nominators completos en su segunda infracción.
 
 ## Miembros del equipo
 
@@ -227,6 +226,6 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 
 ## Historia
 
-- Los Beatmap Nominators fueron previamente llamados *Beatmap Appreciation Team* (BAT).
+- Los Beatmap Nominators fueron previamente llamados los [Beatmap Appreciation Team](/wiki/Modding/Beatmap_Appreciation_Team) (BAT).
 - El 22 de Agosto, 2014, el BAT dejó de ser considerado parte del personal del equipo. Esto revocó su habilidad para poder moderar el chat y su nombre rojo de los foros y dentro del juego.
 - El 1ro de Febrero, 2015, el equipo cambió de ser *Beatmap Appreciation Team* a *Beatmap Nomination Group*, luego fue ajustado a los Beatmap Nominators que conocemos hoy en día.
