@@ -50,14 +50,23 @@ The GB Cup 2022 Autumn is run by the Team GB and various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
-| Staff | *TBA* |
+| Staff | ::{ flag=CN }:: [\[GB\]gluefly](https://osu.ppy.sh/users/8715409), ::{ flag=GB }:: [-Deepdive-](https://osu.ppy.sh/users/13338645), ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501), ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561) |
 | Mappool selector | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260), ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501), ::{ flag=CN }:: [Yueast 2018](https://osu.ppy.sh/users/13953619) |
-| Mappool tester | *TBA* |
+| Mappool helper | *TBA* |
 | Referee | *TBA* |
 | Commentator | *TBA* |
-| Streamer | *TBA* |
+| Streamer | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617) |
 | Designer | ::{ flag=CN }:: [\[GB\]PlayandyoU](https://osu.ppy.sh/users/14759634) |
-| Statistician | ::{ flag=CN }:: [\[GB\]Rush\_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=CN }:: [\[GB\]Yuria](https://osu.ppy.sh/users/13092888) |
+| Statistician | ::{ flag=CN }:: [\[GB\]Rush\_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=CN }:: [\[GB\]Yuria](https://osu.ppy.sh/users/13092888), ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
+
+## Links
+
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1649259)
+- Livestream
+  - [Bilibili stream](https://live.bilibili.com/22545296) (::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407))
+  - [Bilibili stream](https://live.bilibili.com/10183) (::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617))
+- **[Register here](https://wj.qq.com/s2/10842634/1ffa/)**
+- [GBC QQ Group](https://jq.qq.com/?_wv=1027&k=zqBeTqMW)
 
 ## Ruleset
 
@@ -90,7 +99,7 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
    - Custom skin elements must not be used to alter core gameplay mechanics.
 6. If a game ends in a draw, it will be nullified and the map will be replayed.
 7. Teams may ask for a rematch if a team member encounters technical difficulties while playing.
-   - "Lag spikes" are not considered a valid reason to nullify a beatmap.
+   - "Lag spikes" will not be considered as a valid reason to nullify a beatmap.
    - If a rematch happens, the original roster for each team during that particular beatmap must remain the same. If that is not possible, e.g. by virtue of a technical issue, *both* teams will be allowed to swap rosters.
    - This rule should not to be abused. Referees may veto a rematch request if they find that this is the case.
 8. Disconnects within 30 seconds or 25% of the beatmap length (whichever happens first) can be rematched, at the referee's discretion, as long as it is clearly communicated in the chatroom.
@@ -126,7 +135,7 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
 
 ### Tournament registration
 
-1. Please send the host a **private message** and **fill [this form](https://wj.qq.com/s2/9902248/95cf/)** to register. 
+1. Please send the host a **private message** and **fill [this form](https://wj.qq.com/s2/10842634/1ffa/)** to register. 
    - Player **must** join [this QQ group](https://jq.qq.com/?_wv=1027&k=zqBeTqMW) after register.
 2. To ensure valid and serious registrations, every registered user will be manually checked by the host.
    - To be successfully registered, a player must not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
@@ -157,7 +166,7 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
 
 ### Stage instructions
 
-1. Following the Qualifier stage, all player should participate a phase to formed teams , called `Drafting phase`, unpicked player will be eliminated from the tournament.
+1. Following the Qualifier stage, all player should participate a phase to form teams , called `Drafting phase`, unpicked player will be eliminated from the tournament.
 2. Following the Drafting phase, a swiss stage will be played, called `Regular stage`. Top 8 teams will be advanced, others are eliminated from the tournament.
 3. Following the Regular stage, a single elimination stage will be played, called `Play-offs`. This means that the winner continues with their runs, and the losing team will be eliminated from the tournament, except in the bronze match.
 
