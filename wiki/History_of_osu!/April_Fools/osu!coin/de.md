@@ -13,11 +13,11 @@ Der **osu!coin** war eine scherzhafte Spielwährung, die sich über Monetarisier
 
 ## Veröffentlichung
 
-Die [offizielle Ankündigung](https://osu.ppy.sh/home/news/2015-03-31-osucoins) erklärt, dass der osu!coin entwickelt wurde, um ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2)s privaten Jet zu finanzieren, da das aktuelle Monetarisierungssystem es ihm nicht erlauben würde, den Jet zu seinen Lebzeiten zu kaufen. Die Ankündigung führt weiter aus, dass jeder neue Spieler mit 10 osu!coins beginnen würde und jeden Tag 10 mehr bekommt. Bereits registrierte Nutzer würden zwei zusätzliche osu!coins als ein Bonus bekommen. Spieler könnten dann mehr osu!coins durch die Erreichung von [Combo](/wiki/Gameplay/Combo_(score_multiplier)) ergattern. Ein einzelner osu!coin würde man für jede 100ter Combo erhalten.
+Die [offizielle Ankündigung](https://osu.ppy.sh/home/news/2015-03-31-osucoins) erklärt, dass der osu!coin entwickelt wurde, um ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2)s privaten Jet zu finanzieren, da das aktuelle Monetarisierungssystem es ihm nicht erlauben würde, den Jet zu seinen Lebzeiten zu kaufen. Die Ankündigung führt weiter aus, dass jeder neue Spieler mit 10 osu!coins beginnen würde und jeden Tag 10 mehr bekommt. Bereits registrierte Nutzer würden zwei zusätzliche osu!coins als Bonus bekommen. Spieler könnten dann mehr osu!coins durch die Erreichung von [Combo](/wiki/Gameplay/Combo_(score_multiplier)) ergattern. Einen einzelnen osu!coin würde man für jede 100er Combo erhalten.
 
-![](img/earning-osu!coin.jpg "Ein Beispiel eines Spielers beim Erwirtschaften von osu!coins für jede 100ter Combo")
+![](img/earning-osu!coin.jpg "Ein Beispiel eines Spielers beim Erwirtschaften von osu!coins für jede 100er Combo")
 
-Wenn Spielern die osu!coins ausgehen würden, könnten sie keine Beatmaps mehr spielen. Jedoch könnten sie mehr kaufen—aus ihrem eigenen Willen—mit diesen Wechselkursen:
+Wenn Spielern die osu!coins ausgehen würden, könnten sie keine Beatmaps mehr spielen. Jedoch könnten sie mehr kaufen — aus ihrem eigenen Willen — mit diesen Wechselkursen:
 
 - $1 USD = 1 osu!coin
 - $10 USD = 10 osu!coins
