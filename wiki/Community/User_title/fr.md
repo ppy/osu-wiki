@@ -20,7 +20,7 @@ outdated_since: fde8aa733a04647f9f0d9f7dec5186f21a4f77d5
 
 *Pour la liste des personnes qui ont obtenu des titres d'utilisateur spéciaux, voir [Utilisateurs avec des titres uniques](/wiki/People/Users_with_unique_titles).*
 
-![Capture d'écran des informations du profil de Tom94](img/dev.png "Le titre \"osu!dev\" est visible en haut du profil de Tom94.")
+![Capture d'écran des informations du profil de Ephemeral](img/dev.png?1 "Le titre \"osu!team\" est visible en haut du profil de Ephemeral.")
 
 Un **titre d'utilisateur** est une courte étiquette sur la page de profil d'un utilisateur, définie par l'[équipe osu!](/wiki/People/The_Team). La plupart des titres indiquent l'appartenance à un [groupe d'utilisateurs](/wiki/People/The_Team#groupes-d'utilisateurs), mais certains utilisateurs ont obtenu des [titres plus uniques](/wiki/People/Users_with_unique_titles) pour des réalisations ou des contributions spécifiques.
 

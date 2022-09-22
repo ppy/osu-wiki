@@ -16,7 +16,7 @@ tags:
 
 A **user title** is a short label on a user's profile page set by the [osu! team](/wiki/People/The_Team). Most titles indicate membership of a [user group](/wiki/People/The_Team#user-groups), but some users have earned [more unique titles](/wiki/People/Users_with_unique_titles) for specific achievements or contributions.
 
-The colour of a user title is the same as the user's primary group membership badge. If the user has no group badge, the title is white.
+The colour of a user title is the same as the user's colour, which is also usually set by group membership. If the user has no colour set, the title is white.
 
 ## History
 
@@ -42,8 +42,6 @@ On the forum sections of the [old osu! website](https://old.ppy.sh)<!-- TODO: wi
 | Rhythm Incarnate | 500+ |
 
 These titles were only visible on the sidebars of forum posts (not on the users' profiles) and were not shown if another custom title was already set prior.
-
-Post count titles were discontinued with the release of the new osu! website.
 
 ## Trivia
 
