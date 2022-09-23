@@ -22,7 +22,7 @@
 
 *См. также: [Модификатор игры](/wiki/Game_modifier)*
 
-Медали группы **Mod Introduction** могут быть получены за прохождение любой [Квалифицированной](/wiki/Beatmap/Category#qualified), [Рейтинговой](/wiki/Beatmap/Category#ranked) или [Одобренной](/wiki/Beatmap/Category#approved) карты с их соответствующим [модификатором игры (модом)](/wiki/Game_modifier). Эти медали направлены на то, чтобы стимулировать новых игроков попробовать каждый мод и изучить что может предложить игра. Однако, стоит заметить что если игрок будет играть с несколькими модами одновременно, игрок **не** сможет получить *какую-либо* из медалей группы **Mod Introductions** за эту игру.
+Медали группы **Mod Introduction** могут быть получены за прохождение любой [квалифицированной](/wiki/Beatmap/Category#qualified), [рейтинговой](/wiki/Beatmap/Category#ranked) или [одобренной](/wiki/Beatmap/Category#approved) карты с соответствующим [игровым модификатором (модом)](/wiki/Game_modifier). Эти медали рассчитаны на то, чтобы смотивировать новых игроков попробовать каждый мод и поближе познакомиться с игрой. Стоит отметить, что если карта пройдена с несколькими модами одновременно, игроку не выдадут **никакую** медаль из этой категории.
 
 Все медали группы **Mod Introduction** можно открыть в любом [игровом режиме](/wiki/Game_mode), если не указано обратное.
 
@@ -44,7 +44,7 @@
 - [Усложняющие моды](/wiki/Game_modifier#повышение-сложности)
 - [xK](/wiki/Game_modifier/xK), [Mirror](/wiki/Game_modifier/Mirror) и [Spun Out](/wiki/Game_modifier/Spun_Out)
 
-Несмотря на то, что Monthly Beatmap Spotlights были прекращены с апреля 2018 года, будучи заменёнными [Seasonal Spotlights](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018), все медали, относящиеся к ним, всё ещё доступны для получения и по сей день.
+Несмотря на то, что проект Monthly Beatmap Spotlights был закрыт в апреле 2018 года в пользу [Seasonal Spotlights](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018), связанные с ним медали можно получить до сих пор.
 
 ## Seasonal Spotlights
 
@@ -54,14 +54,14 @@
 - [Усложняющие моды](/wiki/Game_modifier#повышение-сложности)
 - [xK](/wiki/Game_modifier/xK), [Mirror](/wiki/Game_modifier/Mirror) и [Spun Out](/wiki/Game_modifier/Spun_Out)
 
-Несмотря на то, что Seasonal Spotlights были прекращены с начала 2020 года, будучи замещёнными [теперешней системой Beatmap Spotlights](/wiki/Beatmap_Spotlights), все медали, относящиеся к ним, всё ещё доступны для получения и по сей день.
+Несмотря на то, что проект Seasonal Spotlights был закрыт в начале 2020 года в пользу [современной системы Beatmap Spotlights](/wiki/Beatmap_Spotlights), связанные с ним медали можно получить до сих пор.
 
 ## Beatmap Challenge Packs
 
 Медали группы **Beatmap Challenge Packs**, или альтернативно группа [*Skill Packs*](https://osu.ppy.sh/home/news/2020-11-20-featured-artist-beatmap-updates-from-the-mappers-guild#skill-packs) выдаются за прохождение самых высоких сложностей существующих во всех картах представленных в определённых [Тематических Сборках](https://osu.ppy.sh/beatmaps/packs?type=theme) или [Сборках Исполнителей/Альбомов](https://osu.ppy.sh/beatmaps/packs?type=artist) *без использования каких либо [упрощающих](/wiki/Game_modifier#понижение-сложности) или [специальных](/wiki/Game_modifier#особые-моды) модов*. Эти сборки карт специально подобраны для теста понимания каждым игроком различных игровых аспектов на определённом уровне навыков, например в рамках определённого [звёздного рейтинга](/wiki/Beatmapping/Star_rating) или предела сложности.
 
-Все карты в этих сборках должны быть пройдены в режиме игры [osu!](/wiki/Game_mode/osu!) для получения значка, если не указано обратное.
+Для получения медалей все карты должны быть пройдены в режиме игры [osu!](/wiki/Game_mode/osu!), если не указано обратное.
 
 ## См. также
 
-- [Требования получения медалей](Unlock_requirements)
+- [Условия получения медалей](Unlock_requirements)
