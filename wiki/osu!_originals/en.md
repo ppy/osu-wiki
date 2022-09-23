@@ -28,7 +28,7 @@ All osu! originals that have been licensed by the game are cleared for use in os
 - [cYsmix - Behind the Walls](https://osu.ppy.sh/beatmapsets/791798)
 - [cYsmix - Breeze](https://osu.ppy.sh/beatmapsets/629575)
 - [cYsmix - Classic Pursuit](https://osu.ppy.sh/beatmapsets/486535)
-- cYsmix - Disco Bawls
+- [cYsmix - Disco Bawls](https://osu.ppy.sh/beatmaps/artists/tracks?artist=cYsmix&query=Disco%20Bawls)
 - [cYsmix - Dovregubben's Hall](https://osu.ppy.sh/beatmapsets/360950)
 - [cYsmix - Fright March](https://osu.ppy.sh/beatmapsets/486142)
 - [cYsmix - House With Legs](https://osu.ppy.sh/beatmapsets/360680)
@@ -41,7 +41,7 @@ All osu! originals that have been licensed by the game are cleared for use in os
 
 - [James Landino - Birdsong](https://osu.ppy.sh/beatmapsets/972810)
 - [James Landino - Hide and Seek](https://osu.ppy.sh/beatmapsets/972932)
-- James Landino - Hit That feat. Hentai Dude & Tofuku (osu! edit)
+- [James Landino - Hit That feat. Hentai Dude & Tofuku (osu! edit)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=James%20Landino&query=Hit%20That%20feat.%20Hentai%20Dude%20%26%20Tofuku)
 - [James Landino - Reaction feat. Slyleaf](https://osu.ppy.sh/beatmapsets/972816)
 - [James Landino - Shiba Island](https://osu.ppy.sh/beatmapsets/1061769)
 - [James Landino - Spellbound](https://osu.ppy.sh/beatmapsets/1034041)
@@ -52,15 +52,15 @@ All osu! originals that have been licensed by the game are cleared for use in os
 
 #### [Kitazawa Kyouhei](https://osu.ppy.sh/beatmaps/artists/165)
 
-- Kitazawa Kyouhei - TRUE-QUEEN
+- [Kitazawa Kyouhei - TRUE-QUEEN](https://osu.ppy.sh/beatmaps/artists/tracks?artist=kitazawa%20kyouhei&query=true-queen)
 
 #### [Rabbit House](https://osu.ppy.sh/beatmaps/artists/242)
 
-- Rabbit House - Gehenna
+- [Rabbit House - Gehenna](https://osu.ppy.sh/beatmaps/artists/tracks?artist=rabbit%20house&query=gehenna)
 
 #### [ZxNX](https://osu.ppy.sh/beatmaps/artists/288)
 
-- ZxNX - Altair
+- [ZxNX - Altair](https://osu.ppy.sh/beatmaps/artists/tracks?artist=zxnx&query=altair)
 
 ### Released as part of an official tournament
 
