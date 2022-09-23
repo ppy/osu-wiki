@@ -8,7 +8,7 @@
 
 Все карты должны быть пройдены в режиме игры [osu!](/wiki/Game_mode/osu!) для получения значка, если не указано обратное. Использование [упрощающих модов](/wiki/Game_modifier#понижение-сложности) или [усложняющих модов](/wiki/Game_modifier#повышение-сложности), как и использование [Spun Out](/wiki/Game_modifier/Spun_Out) разрешено.
 
-Однако стоит отметить что содержимое всех Video Game, Anime, Internet! и Rhythm Game Паков сильно изменилось с [их первого появления в 2008](https://osu.ppy.sh/community/forums/topics/1853). Для списка этих паков в их оригинальном состоянии см. [Legacy Beatmap Packs](/wiki/Medals/Legacy_beatmap_packs).
+Стоит отметить, что содержимое всех подборок в категориях Video Game, Anime, Internet! и Rhythm Game сильно изменилось с [момента их появления в 2008 году](https://osu.ppy.sh/community/forums/topics/1853). Для первоначального списка карт см. [Legacy Beatmap Packs](/wiki/Medals/Legacy_beatmap_packs).
 
 ## Skill
 
