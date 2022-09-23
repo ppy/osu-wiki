@@ -22,7 +22,7 @@ Los miembros de los Beatmap Nominators están divididos en dos grupos: miembros 
 
 Además del modeo y rankeo regular de beatmaps, miembros completos de los Beatmap Nominators son los responsables de descalificar los mapas en la sección de calificados que presenten problemas. Los Beatmap Nominators completos también tienen la oportunidad de participar en la evaluación de la aplicación de nuevos miembros al grupo de manera ocasional si es que están interesados en unirse al Nomination Assesment Team en un futuro.
 
-Aproximadamente cada tres meses, a los Beatmap Nominators completos se les evalúa la conducta y la actividad/calidad de nominación por el Nomination Assesment Team. Si se les rechazan las nominaciones frecuentemente por razones considerables o su conducta  es inaceptable, pueden ser desplazados al subgrupo de miembros de prueba.
+Aproximadamente cada tres meses, a los Beatmap Nominators completos se les evalúa la conducta y la actividad/calidad de nominación por el Nomination Assesment Team. Si se les rechazan las nominaciones frecuentemente por razones considerables o su conducta es inaceptable, pueden ser desplazados al subgrupo de miembros de prueba.
 
 Los Beatmap Nominators completos que presenten una actividad menor a la mínima en cuanto a nominaciones, no serán puestos en el grupo provisional, sin embargo, si no mejoran su actividad, serán removidos del grupo.
 
@@ -30,7 +30,7 @@ Los Beatmap Nominators completos que presenten una actividad menor a la mínima 
 
 La provisión es usada para monitorizar nuevos o relativos Beatmap Nominators más de cerca. El rol principal para los Beatmap Nominators provisionales es de establecer una fundación como Beatmap Nominator a exclusivamente a través de promover beatmaps en el proceso de rankeo. Por lo menos un nominador completo debe de estar envuelto en el proceso de rankeo para cada beatmap, así los miembros provisionales no pueden dar la nominación final a un beatmap que solo ha recibido nominaciones de otros miembros provisionales para su modo de juego.
 
-Los nuevos miembros de los Beatmap Nominators empiezan con un periodo largo de prueba de un mes. Si su comportamiento y nominaciones son satisfactorias, serán promovidos a los Beatmap Nominators completos después de una  [evaluación](/wiki/People/The_Team/Nomination_Assessment_Team/Evaluations) positiva. De otra manera, seguirán en el periodo de prueba por otro mes o serán removidos de los Beatmap Nominators.
+Los nuevos miembros de los Beatmap Nominators empiezan con un periodo largo de prueba de un mes. Si su comportamiento y nominaciones son satisfactorias, serán promovidos a los Beatmap Nominators completos después de una [evaluación](/wiki/People/The_Team/Nomination_Assessment_Team/Evaluations) positiva. De otra manera, seguirán en el periodo de prueba por otro mes o serán removidos de los Beatmap Nominators.
 
 Cuando un Beatmap Nominator es puesto a prueba, no pueden ser puestos nuevamente a prueba por la misma razón. Por ejemplo, si un Beatmap Nominator es puesto a prueba por mal comportamiento, será removido de los Beatmap Nominators si presentan el mismo mal comportamiento de nuevo, incluso si es que son Beatmap Nominators completos en su segunda infracción.
 
