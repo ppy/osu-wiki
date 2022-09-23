@@ -44,6 +44,8 @@ Without further ado, let's get into the nitty-gritty of these changes.
 
 The old system assumed a 2-finger kddk full alternating playstyle (i.e. one in which each subsequent hit is always hit by the other hand regardless of colour). This was implemented as two skills — one for the left hand, and one for the right hand. Instead of using note duration for the split skills, it uses note-pair duration, which is defined as the duration between two notes that were pressed with the same hand.
 
+In addition to the above, specific nerfs for specific patterns were implemented using a dedicated "cheese detector", which was something that the osu!taiko pp committee wanted to stay away from. As such, a policy for the all the new reworks under our wing was formed:
+
 **Never assume a specific playstyle or arbritrarily nerf patterns without a strong justification.**
 
 #### The new stamina system
