@@ -39,7 +39,7 @@ tags:
 
 *Примечание: метод, с помощью которого Double Time изменяет скорость аудио, не влияет на его тональность.*
 
-**Double Time** (букв. *удвоенное время*, жарг. *даблтайм*, *ДТ*) — [игровой модификатор](/wiki/Game_modifier), усложняющий [карту](/wiki/Beatmap) за счёт ускорения песни (BPM) на 150% (1.5x). В результате песня становится короче на 33%, а у карты повышаются [скорость появления нот (AR)](/wiki/Beatmapping/Approach_rate), [общая сложность (OD)](/wiki/Beatmapping/Overall_difficulty) и [расход здоровья (HP)](/wiki/Gameplay/Health).
+**Double Time** (букв. *удвоенное время*, жарг. *даблтайм*, *ДТ*) — [игровой модификатор](/wiki/Game_modifier), усложняющий [карту](/wiki/Beatmap) за счёт ускорения песни (BPM) на 150% (1.5x). В результате песня становится короче на 33%, а у карты повышаются [скорость появления нот (AR)](/wiki/Beatmapping/Approach_rate), [общая сложность (OD)](/wiki/Beatmapping/Overall_difficulty) и [потеря здоровья (HP)](/wiki/Gameplay/Health).
 
 Double Time считается одним из лучших модов для быстрого набора [PP](/wiki/Performance_points) в [osu!](/wiki/Game_mode/osu!) на простых картах.
 
