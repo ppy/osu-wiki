@@ -292,6 +292,7 @@ All osu! originals that have been licensed by the game are cleared for use in os
 - [Down - AJT](https://osu.ppy.sh/beatmapsets/1705780)
 - [Down - Ekoro](https://osu.ppy.sh/beatmapsets/1683876)
 - [Down - Luscent](https://osu.ppy.sh/beatmapsets/1641533)
+- [osu! training man - TRAINING-1](https://osu.ppy.sh/beatmapsets/1727804)
 - [Rabbit House - Muspelheim](https://osu.ppy.sh/beatmapsets/815126)
 - [Shadren - Fanteer](https://osu.ppy.sh/beatmapsets/725913)
 - [tieff - Sound of Night](https://osu.ppy.sh/beatmapsets/15952)
