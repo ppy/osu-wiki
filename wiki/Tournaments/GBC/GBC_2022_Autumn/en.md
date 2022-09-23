@@ -50,33 +50,43 @@ The GB Cup 2022 Autumn is run by the Team GB and various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
-| Staff | *TBA* |
+| Staff | ::{ flag=CN }:: [\[GB\]gluefly](https://osu.ppy.sh/users/8715409), ::{ flag=GB }:: [-Deepdive-](https://osu.ppy.sh/users/13338645), ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501), ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561) |
 | Mappool selector | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260), ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501), ::{ flag=CN }:: [Yueast 2018](https://osu.ppy.sh/users/13953619) |
-| Mappool tester | *TBA* |
+| Mappool helper | *TBA* |
 | Referee | *TBA* |
 | Commentator | *TBA* |
-| Streamer | *TBA* |
+| Streamer | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617) |
 | Designer | ::{ flag=CN }:: [\[GB\]PlayandyoU](https://osu.ppy.sh/users/14759634) |
-| Statistician | ::{ flag=CN }:: [\[GB\]Rush\_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=CN }:: [\[GB\]Yuria](https://osu.ppy.sh/users/13092888) |
+| Statistician | ::{ flag=CN }:: [\[GB\]Rush\_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=CN }:: [\[GB\]Yuria](https://osu.ppy.sh/users/13092888), ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
+
+## Links
+
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1649259)
+- Livestream
+  - [Bilibili stream](https://live.bilibili.com/22545296) (::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407))
+  - [Bilibili stream](https://live.bilibili.com/10183) (::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617))
+- **[Register here](https://wj.qq.com/s2/10842634/1ffa/)**
+- [GBC QQ Group](https://jq.qq.com/?_wv=1027&k=zqBeTqMW)
 
 ## Ruleset
 
 ### Changes from last tournament
 
 1. Qualifier stage added, for determining captain role, result will be used in Drafting phase.
-2. There will be some players been eliminated in qualifier and drafing phase.
+2. There will be some players been eliminated in qualifier and Drafting phase.
 3. Regular stage have 4 rounds, used to be 3. only teams with 2-1 or 1-2 record will participate round 4.
 4. Player can't be banned in a match until he has finished a game in this match.
-5. Pick beatmaps and ban players should be sent at a single message, if a team continue be slow at banning, referees have rights to **ignore this ban**.
+5. Picking beatmaps and banning players should be sent at a single message, if a team continues to be slow at banning, referees have rights to **ignore this ban**.
 6. "Total matches score difference" added as a last resort for ranking in regular stage.
+7. Mappool size increased by 2 maps.
 
 The following rules are changed to consistent with rules on `MWC 4k 2022` : 
 
-7. Failed Player's score still get added to the team score.
-8. Allowed Team to rematch if any team member disconnected on early of the beatmaps.
-9. Referees have rights to lower or higher timer settings.
-10. Called tactical timeout on Tie-breaker need both teams' captains agreement.
-11. NoFail mod could be choose in FreeMod bracket.
+8. Failed Player's score still get added to the team score.
+9. Allowed Team to rematch if any team member disconnected on early of the beatmaps.
+10. Referees have rights to lower or higher timer settings.
+11. Calling tactical timeout on Tie-breaker need both teams' captains agreement.
+12. NoFail mod could be choose in FreeMod bracket.
 
 ### Tournament rules
 
@@ -89,7 +99,7 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
    - Custom skin elements must not be used to alter core gameplay mechanics.
 6. If a game ends in a draw, it will be nullified and the map will be replayed.
 7. Teams may ask for a rematch if a team member encounters technical difficulties while playing.
-   - "Lag spikes" are not considered a valid reason to nullify a beatmap.
+   - "Lag spikes" will not be considered as a valid reason to nullify a beatmap.
    - If a rematch happens, the original roster for each team during that particular beatmap must remain the same. If that is not possible, e.g. by virtue of a technical issue, *both* teams will be allowed to swap rosters.
    - This rule should not to be abused. Referees may veto a rematch request if they find that this is the case.
 8. Disconnects within 30 seconds or 25% of the beatmap length (whichever happens first) can be rematched, at the referee's discretion, as long as it is clearly communicated in the chatroom.
@@ -125,7 +135,7 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
 
 ### Tournament registration
 
-1. Please send the host a **private message** and **fill [this form](https://wj.qq.com/s2/9902248/95cf/)** to register. 
+1. Please send the host a **private message** and **fill [this form](https://wj.qq.com/s2/10842634/1ffa/)** to register. 
    - Player **must** join [this QQ group](https://jq.qq.com/?_wv=1027&k=zqBeTqMW) after register.
 2. To ensure valid and serious registrations, every registered user will be manually checked by the host.
    - To be successfully registered, a player must not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
@@ -147,17 +157,16 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
 4. The mappool will be played in the following order: SV1, RC1, RC2, RC3, LN1, LN2, HB1, HB2. Players may not ask to play the pool in any other order.
    - Player may skip playing any beatmap on their second run.
 5. There will be an optional 5-minute break in between the first and second play-through of the mappool.
-6. All players will play their qualifiers in separate rooms. *We suggest teams not to broadcast or share their results to avoid seed manipulation*.
+6. All players will play their qualifiers in separate rooms. *We suggest players not to broadcast or share their results to avoid seed manipulation*.
 7. Qualifier stage's result will using to seeding and choosen captains.
-   - Higher score will have higher chance to be picked on Drafting phase. player will be eliminated if he got too low in qualifier and not being picked on Drafting phase.
+   - Higher score will have higher chance to be picked on Drafting phase. player will be eliminated or not being picked on Drafting phase , if he got too low in qualifier.
 8. Some best-performance players will advance to Drafting phase.
-   - The number of players advanced will be determined by how many players required on Drafting phase. (i.e. For 16 teams, each team have 5 players' size, total `16*5=90` players are required on Drafting phase. So 
-   *about* Top 95 will be advanced to Drafting phase, giving captains some extra choices for last pick.) *This might change depending on the number of incoming registrations.*
+   - The number of players advanced will be determined by how many players required on Drafting phase. (i.e. For 16 teams, each team have 5 players' size, total `16*5=80` players are required on Drafting phase. So *about* Top 85 will be advanced to Drafting phase, giving captains some extra choices for last pick.) *This might change depending on the number of incoming registrations.* 
    - Disrupting the match by foul play or trying seed manipulation will result in disqualified, they will be announced before Drafting phase actual take place.
 
 ### Stage instructions
 
-1. Following the Qualifier stage, all player should participate a phase to formed teams , called `Drafting phase`, unpicked player will be eliminated from the tournament.
+1. Following the Qualifier stage, all player should participate a phase to form teams , called `Drafting phase`, unpicked player will be eliminated from the tournament.
 2. Following the Drafting phase, a swiss stage will be played, called `Regular stage`. Top 8 teams will be advanced, others are eliminated from the tournament.
 3. Following the Regular stage, a single elimination stage will be played, called `Play-offs`. This means that the winner continues with their runs, and the losing team will be eliminated from the tournament, except in the bronze match.
 
@@ -198,11 +207,12 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
 3. The top 8 teams will advanced to the Playoff stage, while the remaining players get eliminated from the tournament.
    - This means that teams with a record of `3-X` will advance to the next stage, while teams with a record of `X-3` will be eliminated.
    - Also, teams with a record of `2-2` will have chance to advanced by ranking top 8.
-   - Teams with a record 3-0 or 0-3 needn't play round 4, as they are already advanced or get eliminated.
+   - Teams with a record `3-0` or `0-3` needn't play round 4, as they are already advanced or get eliminated.
 4. The results from the Regular stage will also be used for seeding teams.
 
 ### Win conditions
 
+- In the Qualifier stage, player need to ranking high enough to advanced.
 - In Drafting phase, player need to being picked into a team or become captains to advanced.
 - In the Regular stage, teams need to win 6 maps to win a match (best of 11).
 - In Quarterfinals, Semifinals and Finals, teams need to win 7 maps to win a match (best of 13).
@@ -223,7 +233,7 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
    - If less than required player avaliable, banning player might be limited by host considering.
      - This rule should not be abused. Host reserves rights to penalize a team if they find that cases.
 6. Teams will have 2 minutes to pick a beatmap and ban an opposing player , and 2 minutes to get ready. If a team takes more time than allowed, the procedures adopted will be as follows:
-   - Pick beatmaps and ban players should be sent at a single message, if a team continue be slow at banning, referees have rights to ignore this ban.
+   - Picking beatmaps and banning players should be sent **at a single message**, if a team continues to be slow at banning, referees have rights to **ignore this ban**.
    - For the first occurrence:
      - The team will receive a verbal warning from the referee
    - On subsequent occurrences:
@@ -238,14 +248,14 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
 ### Mappool instructions
 
 1. There will be five separate mappools, *this might change depending on the number of incoming registrations.*.
-   - Regular stage Round 1 and Round 2 use mappool #1.
-   - Regular stage Round 3 and Round 4 use mappool #2.
-   - Quarterfinals, Semifinals and Finals use separate mappool (#3 ,#4 ,#5 ).
+   - Regular stage Round 1 and Round 2 use mappool \#1.
+   - Regular stage Round 3 and Round 4 use mappool \#2.
+   - Quarterfinals, Semifinals and Finals use separate mappool (\#3, \#4, \#5).
 2. Each mappool consists of a fixed amount of maps each stage which will all be played under [FreeMod](/wiki/Game_modifier#freemod) conditions. This means that there is a unique FreeMod bracket.
 3. The mappool sizes are as follows:
    - Qualifiers: 8 beatmaps   
-   - Mappools #1 & #2: 15 beatmaps
-   - mappool #3, #4, #5: 17 beatmaps.
+   - Mappool \#1 & \#2: 15 beatmaps
+   - Mappool \#3, \#4, \#5: 17 beatmaps.
 4. Each mappool has one tiebreaker, except for the Qualifiers.
 5. Possible mod choices for the FreeMod bracket are NoFail, Hidden, FadeIn, Flashlight, and Mirror.
 6. The tiebreaker will be played under FreeMod conditions.
