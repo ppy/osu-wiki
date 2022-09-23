@@ -27,7 +27,7 @@ All osu! originals that have been licensed by the game are cleared for use in os
 - [cYsmix - Arcade Busters](https://osu.ppy.sh/beatmapsets/601840)
 - [cYsmix - Behind the Walls](https://osu.ppy.sh/beatmapsets/791798)
 - [cYsmix - Breeze](https://osu.ppy.sh/beatmapsets/629575)
-- [cYsmix - Classic Pursuit](https://osu.ppy.sh/beatmapsets/486535)
+- [cYsmix - Classic Pursuit](https://osu.ppy.sh/beatmapsets/488238)
 - [cYsmix - Disco Bawls](https://osu.ppy.sh/beatmaps/artists/tracks?artist=cYsmix&query=Disco%20Bawls)
 - [cYsmix - Dovregubben's Hall](https://osu.ppy.sh/beatmapsets/360950)
 - [cYsmix - Fright March](https://osu.ppy.sh/beatmapsets/486142)
@@ -273,7 +273,7 @@ All osu! originals that have been licensed by the game are cleared for use in os
 #### [A Labour of Love Contest](/wiki/Contests/A_Labour_of_Love_Contest)
 
 - [Down - My Love Remix](https://osu.ppy.sh/beatmapsets/1348553)
-- [Kuba Oms - My Love (0K Remix) feat. Thievley](https://osu.ppy.sh/beatmapsets/1389031)
+- [Kuba Oms - My Love (0 K Remix) feat. Thievley](https://osu.ppy.sh/beatmapsets/1389031)
 - [Kuba Oms - My Love (DestoppeD Remix)](https://osu.ppy.sh/beatmapsets/1388552)
 - [Kuba Oms - My Love (Maemi no Yume's Remix)](https://osu.ppy.sh/beatmapsets/1389127)
 - [Kuba Oms - My Love (pm04034 Remix)](https://osu.ppy.sh/beatmapsets/1382737)
