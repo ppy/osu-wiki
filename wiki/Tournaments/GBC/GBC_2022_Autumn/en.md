@@ -21,7 +21,7 @@ The **GB Cup 2022 Autumn** (***GBC 2022 Autumn***) is a 3v3 captain draft-based 
 | Registration phase | 2022-09-24/2022-10-07 (23:59 UTC+8) |
 | Qualifier showcase | 2022-10-08 (20:00 UTC+8) |
 | Qualifier stage | 2022-10-15/2022-10-16 |
-| Qualifier result showcase | 2022-10-21 (20:00 UTC+8) |
+| Qualifier result showcase | 2022-10-17 (20:00 UTC+8) |
 | Drafting phase | 2022-10-23 (20:00 UTC+8) |
 | Regular stage week 1 | 2022-10-29/2022-10-30 |
 | Regular stage week 2 | 2022-11-05/2022-11-06 |
@@ -67,6 +67,7 @@ The GB Cup 2022 Autumn is run by the Team GB and various community members.
   - [Bilibili stream](https://live.bilibili.com/10183) (::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617))
 - **[Register here](https://wj.qq.com/s2/10842634/1ffa/)**
 - [GBC QQ Group](https://jq.qq.com/?_wv=1027&k=zqBeTqMW)
+- [Information Speedsheet](https://docs.qq.com/sheet/DZUVwTnF1aEVmdlVX)
 
 ## Ruleset
 
@@ -190,7 +191,10 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
 8. At all times, the captains may communicate with each other via multiplayer chatrooms or voice chat. 
    - Other players will be muted during the Drafting phase.
 9. After the Drafting phase, captains may choose, with the approval of the host, to delegate their role to other prospective team members.
-10. Bad behaviour during the Drafting phase will be seen as disrupting the match by foul play.
+10. Captains may also choose to rename their team name after the Drafting phase.
+    - The default name of team is: `Team {captain's name}`.
+    - Team names can't be longer than **12** characters (Chinese character is considered as 1).
+11. Bad behaviour during the Drafting phase will be seen as disrupting the match by foul play.
 
 ### Regular stage instructions
 
@@ -220,7 +224,7 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
 ### Match procedures
 
 1. A referee will create a multiplayer room 15 minutes before the scheduled match time. Players must join the lobby in that period.
-   - The room settings are `Game mode: "osu!mania"`, `Team mode: "Team Vs"` and `Score mode: "ScoreV2"`. The room name must follow the pattern of `GBC2 Aut: ({TeamRed}) vs ({TeamBlue})`.
+   - The room settings are `Game mode: "osu!mania"`, `Team mode: "Team Vs"` and `Score mode: "ScoreV2"`. The room name must follow the pattern of `GBC 2022 Autumn: ({TeamRed}) vs ({TeamBlue})`.
    - The team mentioned first in the room name must be the red team, the team mentioned second in the room name must be the blue team.
 2. Each captain can ban **one beatmap** from the pool. These beatmaps can not be picked by any team for the entire duration of the match.
 3. Both captains will alternate picking a beatmap from the mappool.
