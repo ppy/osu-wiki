@@ -15,7 +15,7 @@ outdated_since: fde8aa733a04647f9f0d9f7dec5186f21a4f77d5
 
 *若要查看得到特殊使用者頭銜的玩家的清單，請見 [擁有特殊頭銜的玩家](/wiki/People/Users_with_unique_titles)。*
 
-![Ephemeral 的個人檔案截圖](img/dev.png? "在 Ephemeral 的個人檔案中，\"osu!team\" 頭銜位於上方。")
+![Ephemeral 的個人檔案截圖](img/dev.png?1 "在 Ephemeral 的個人檔案中，\"osu!team\" 頭銜位於上方。")
 
 **使用者頭銜**是位於玩家的個人檔案頁面的簡短標籤，由 [osu! 團隊](/wiki/People/The_Team)設置。大部分的頭銜表示了[使用者群組](/wiki/People/The_Team#user-groups)的會員身分，但某些玩家因為特殊貢獻或成就而獲得了更加[獨特的頭銜](/wiki/People/Users_with_unique_titles)。
 
