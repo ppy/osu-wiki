@@ -1,6 +1,6 @@
 # osu! originals
 
-**osu! originals** are songs that are specifically made for (or otherwise first premiered in) osu! or other osu!-related events such as tournaments, contests, and [Featured Artist](wiki/Featured_Artists/) announcements. While not all osu! originals are officially licensed and included in the [Featured Artist library](https://osu.ppy.sh/beatmaps/artists), the songs that do are distinguished by the `ORIGINAL` label on their respective artists' pages.
+**osu! originals** are songs that are specifically made for (or otherwise first premiered in) osu! or other osu!-related events such as tournaments, contests, and [Featured Artist](/wiki/Featured_Artists/) announcements. While not all osu! originals are officially licensed and included in the [Featured Artist library](https://osu.ppy.sh/beatmaps/artists), the songs that do are distinguished by the `ORIGINAL` label on their respective artists' pages.
 
 All osu! originals that have been licensed by the game are cleared for use in osu! under a non-exclusive term as per the [osu! music licensing policy](/wiki/Legal/Music_licensing). With the exception of bootleg tracks and certain remixes, other osu! originals generally fall under a similar provision unless otherwise specified.
 
@@ -13,9 +13,9 @@ All osu! originals that have been licensed by the game are cleared for use in os
 - [nekodex - circles!](https://osu.ppy.sh/beatmapsets/355322) (2015 osu! theme)
 - [nekodex - carol of the circles](https://osu.ppy.sh/beatmapsets/1078322) (Christmas/Winter 2019 osu! theme)
 - [nekodex - Little Drummer Girl](https://osu.ppy.sh/beatmapsets/1320298) (Christmas/Winter 2020 osu! theme)
-- [nekodex - Liquid Future](https://osu.ppy.sh/beatmapsets/898734) (original composition for [osu!stream](wiki/osu!stream))
+- [nekodex - Liquid Future](https://osu.ppy.sh/beatmapsets/898734) (original composition for [osu!stream](/wiki/osu!stream))
 - [nekodex - new beginnings](https://osu.ppy.sh/beatmapsets/1011011) (current tutorial song)
-- [nekodex - osu!stream theme](https://soundcloud.com/nekodex/osu-stream-theme) ([osu!stream](wiki/osu!stream) main theme)
+- [nekodex - osu!stream theme](https://soundcloud.com/nekodex/osu-stream-theme) ([osu!stream](/wiki/osu!stream) main theme)
 - [nekodex - welcome to christmas!](https://osu.ppy.sh/beatmapsets/882106) (Christmas/Winter 2014 osu! theme)
 - [nekodex - welcome to osu!](https://soundcloud.com/nekodex/welcome-to-osu) (former osu! theme)
 - [Peter Lambert - osu! tutorial](https://osu.ppy.sh/beatmapsets/3756) (former tutorial song)
@@ -85,23 +85,23 @@ All osu! originals that have been licensed by the game are cleared for use in os
 - [J-CORE SLi//CER - "Ongaku purode\~yusa" no heikin-tekina seishin jotai](https://osu.ppy.sh/beatmapsets/1744775)
 - [onumi & Akira Complex - Ethereal Cyber Angel XV](https://osu.ppy.sh/beatmapsets/1744942)
 
-#### ![](/wiki/shared/mode/catch.png) [osu!catch World Cup 2021](wiki/Tournaments/CWC/2021)
+#### ![](/wiki/shared/mode/catch.png) [osu!catch World Cup 2021](/wiki/Tournaments/CWC/2021)
 
 - [Frums - of Ambrosia](https://osu.ppy.sh/beatmapsets/1478486)
 
-#### ![](/wiki/shared/mode/catch.png) [osu!catch World Cup 2022](wiki/Tournaments/CWC/2022)
+#### ![](/wiki/shared/mode/catch.png) [osu!catch World Cup 2022](/wiki/Tournaments/CWC/2022)
 
 - [D-D-Dice vs. siromaru - Catch the Glory](https://osu.ppy.sh/beatmapsets/1794214)
 
-#### ![](/wiki/shared/mode/mania.png) [osu!mania 4K World Cup 2021](wiki/Tournaments/MWC/2021_4K)
+#### ![](/wiki/shared/mode/mania.png) [osu!mania 4K World Cup 2021](/wiki/Tournaments/MWC/2021_4K)
 
 - [SUPER MWC KART - Purple Palace](https://osu.ppy.sh/beatmapsets/1569527)
 
-#### ![](/wiki/shared/mode/mania.png) [osu!mania 7K World Cup 2022](wiki/Tournaments/MWC/2022_7K)
+#### ![](/wiki/shared/mode/mania.png) [osu!mania 7K World Cup 2022](/wiki/Tournaments/MWC/2022_7K)
 
 - [HyuN feat. Sennzai - Duplicity Shade](https://osu.ppy.sh/beatmapsets/1698284)
 
-#### ![](/wiki/shared/mode/mania.png) [osu!mania 4K World Cup 2022](wiki/Tournaments/MWC/2022_4K)
+#### ![](/wiki/shared/mode/mania.png) [osu!mania 4K World Cup 2022](/wiki/Tournaments/MWC/2022_4K)
 
 - [aa...hisuichazuke... - steganography](https://osu.ppy.sh/beatmapsets/1846639)
 
