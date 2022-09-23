@@ -4,7 +4,7 @@
 
 ## Beatmap Packs
 
-Медали группы **Beatmap Packs** могут быть получены за **прохождение до конца хотя бы одной из сложностей на каждой карте** из [Тематических Сборок](https://osu.ppy.sh/beatmaps/packs?type=theme) или [Сборок Исполнителей/Альбомов](https://osu.ppy.sh/beatmaps/packs?type=artist). 
+Медали группы **Beatmap Packs** могут быть получены за **прохождение до конца хотя бы одной сложности на каждой карте** в подборках по [определённой тематике](https://osu.ppy.sh/beatmaps/packs?type=theme) или конкретному [исполнителю или альбому](https://osu.ppy.sh/beatmaps/packs?type=artist).
 
 Для получения медалей все карты должны быть пройдены в режиме игры [osu!](/wiki/Game_mode/osu!), если не указано обратное. При этом разрешено использовать [упрощающие](/wiki/Game_modifier#понижение-сложности) или [усложняющие игру моды](/wiki/Game_modifier#повышение-сложности), как и мод [Spun Out](/wiki/Game_modifier/Spun_Out).
 
