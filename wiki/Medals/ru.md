@@ -1,12 +1,12 @@
 # Медали
 
-**Медали**, ранее известные как *достижения*, — значки в профиле игрока, показывающие, что пользователь достиг определённой цели. В данный момент в osu! есть **280** медалей, разделенных на 8 групп: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), [Beatmap Spotlights](#beatmap-spotlights), [Seasonal Spotlights](#seasonal-spotlights) и [Beatmap Challenge Packs](#beatmap-challenge-packs).
+**Медали**, ранее известные как *достижения*, — значки в игровом профиле, показывающие, что игрок достиг определённой цели. В данный момент в osu! существует **280** медалей, разделенных на 8 групп: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), [Beatmap Spotlights](#beatmap-spotlights), [Seasonal Spotlights](#seasonal-spotlights) и [Beatmap Challenge Packs](#beatmap-challenge-packs).
 
 ## Beatmap Packs
 
 Медали группы **Beatmap Packs** могут быть получены за **прохождение до конца хотя бы одной сложности на каждой карте** в подборках по [определённой тематике](https://osu.ppy.sh/beatmaps/packs?type=theme) или конкретному [исполнителю или альбому](https://osu.ppy.sh/beatmaps/packs?type=artist).
 
-Для получения медалей все карты должны быть пройдены в режиме игры [osu!](/wiki/Game_mode/osu!), если не указано обратное. При этом разрешено использовать [упрощающие](/wiki/Game_modifier#понижение-сложности) или [усложняющие игру моды](/wiki/Game_modifier#повышение-сложности), как и мод [Spun Out](/wiki/Game_modifier/Spun_Out).
+Для получения медалей все карты должны быть пройдены в режиме игры [osu!](/wiki/Game_mode/osu!), если не указано обратное. При этом разрешено использовать [упрощающие](/wiki/Game_modifier#понижение-сложности) или [усложняющие игру моды](/wiki/Game_modifier#повышение-сложности), а также мод [Spun Out](/wiki/Game_modifier/Spun_Out).
 
 Стоит отметить, что содержимое всех подборок в категориях Video Game, Anime, Internet! и Rhythm Game сильно изменилось с [момента их появления в 2008 году](https://osu.ppy.sh/community/forums/topics/1853). Для первоначального списка карт см. [Legacy Beatmap Packs](/wiki/Medals/Legacy_beatmap_packs).
 
@@ -22,7 +22,7 @@
 
 *См. также: [Игровой модификатор](/wiki/Game_modifier)*
 
-Медали группы **Mod Introduction** могут быть получены за прохождение любой [квалифицированной](/wiki/Beatmap/Category#qualified), [рейтинговой](/wiki/Beatmap/Category#ranked) или [одобренной](/wiki/Beatmap/Category#approved) карты с соответствующим [игровым модификатором (модом)](/wiki/Game_modifier). Эти медали рассчитаны на то, чтобы смотивировать новых игроков попробовать каждый мод и поближе познакомиться с игрой. Стоит отметить, что если карта пройдена с несколькими модами одновременно, игроку не выдадут **никакую** медаль из этой категории.
+Медали группы **Mod Introduction** могут быть получены за прохождение любой [квалифицированной](/wiki/Beatmap/Category#qualified), [рейтинговой](/wiki/Beatmap/Category#ranked) или [одобренной](/wiki/Beatmap/Category#approved) карты с соответствующим [игровым модификатором (модом)](/wiki/Game_modifier). Эти медали рассчитаны на то, чтобы смотивировать новых игроков попробовать каждый мод и поближе познакомиться с игрой. Стоит отметить, что при игре с несколькими модами одновременно игроку не выдадут **никакую** медаль из этой категории.
 
 Все медали группы **Mod Introduction** можно открыть в любом [игровом режиме](/wiki/Game_mode), если не указано обратное.
 
@@ -58,7 +58,7 @@
 
 ## Beatmap Challenge Packs
 
-Медали группы **Beatmap Challenge Packs** (другое название — [*Skill Packs*](https://osu.ppy.sh/home/news/2020-11-20-featured-artist-beatmap-updates-from-the-mappers-guild#skill-packs)) выдаются за прохождение наивысших сложностей, которые входят в некоторые подборки по [определённой тематике](https://osu.ppy.sh/beatmaps/packs?type=theme) или конкретному [исполнителю или альбому](https://osu.ppy.sh/beatmaps/packs?type=artist), *без любых [упрощающих](/wiki/Game_modifier#понижение-сложности) или [особых](/wiki/Game_modifier#особые-моды) модов*. Цель данных подборок — проверить, насколько хорошо игрок справляется с разными особенностями карт на конкретном уровне игры, например, в рамках определённого количества [звёзд](/wiki/Beatmapping/Star_rating) или сложности.
+Медали группы **Beatmap Challenge Packs** (другое название — [*Skill Packs*](https://osu.ppy.sh/home/news/2020-11-20-featured-artist-beatmap-updates-from-the-mappers-guild#skill-packs)) выдаются за прохождение наивысших сложностей, которые входят в некоторые подборки по [определённой тематике](https://osu.ppy.sh/beatmaps/packs?type=theme) или конкретному [исполнителю или альбому](https://osu.ppy.sh/beatmaps/packs?type=artist), *без любых [упрощающих](/wiki/Game_modifier#понижение-сложности) или [особых](/wiki/Game_modifier#особые-моды) модов*. Цель данных подборок — проверить, насколько хорошо игрок справляется с разными особенностями карт на конкретном уровне игры, например, в рамках определённого числа [звёзд](/wiki/Beatmapping/Star_rating) или сложности.
 
 Для получения медалей все карты должны быть пройдены в режиме игры [osu!](/wiki/Game_mode/osu!), если не указано обратное.
 
