@@ -203,6 +203,7 @@ All osu! originals that have been licensed by the game are cleared for use in os
 - [Sad Keyboard Guy - Reflection Shift](https://osu.ppy.sh/beatmapsets/1851049)
 - [Slax - Giri the Giri](https://osu.ppy.sh/beatmapsets/1828739)
 - [Sparxe - Dream Elevator](https://osu.ppy.sh/beatmapsets/1837865)
+- [takehirotei as "Infinite Limit" - Rules of the Chaos Dilemma](https://osu.ppy.sh/beatmapsets/1850782)
 
 #### ![](/wiki/shared/mode/osu.png) [Harumachi Cup Ω](/wiki/Tournaments/HC/Omega)
 
@@ -292,6 +293,7 @@ All osu! originals that have been licensed by the game are cleared for use in os
 - [Down - AJT](https://osu.ppy.sh/beatmapsets/1705780)
 - [Down - Ekoro](https://osu.ppy.sh/beatmapsets/1683876)
 - [Down - Luscent](https://osu.ppy.sh/beatmapsets/1641533)
+- [Ketchup - ProjectUnreality](https://osu.ppy.sh/beatmapsets/9077)
 - [osu! training man - TRAINING-1](https://osu.ppy.sh/beatmapsets/1727804)
 - [Rabbit House - Muspelheim](https://osu.ppy.sh/beatmapsets/815126)
 - [Shadren - Fanteer](https://osu.ppy.sh/beatmapsets/725913)
