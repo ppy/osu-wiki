@@ -165,6 +165,7 @@ osu! pada umumnya menganugerahkan para pemenang kontes mapping yang berstatus re
 Sejak tahun 2020, setiap tahunnya osu! menganugerahkan gelar **Elite Nominator** kepada para anggota [Beatmap Nominator (BN)](/wiki/People/The_Team/Beatmap_Nominators) dan [Nomination Assessment Team (NAT)](/wiki/People/The_Team/Nomination_Assessment_Team) yang dinilai telah memberikan kontribusi yang lebih selama setahun ke belakang. Adapun gelar Elite Nominator tersebut akan hilang apabila pengguna yang bersangkutan dikeluarkan dan/atau mengundurkan diri dari BN atau NAT.
 
 - ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229)
+- ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083)
 - ::{ flag=CA }:: [guden](https://osu.ppy.sh/users/11626065)
 - ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323)
 - ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)
