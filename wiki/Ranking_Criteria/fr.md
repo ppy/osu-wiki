@@ -236,7 +236,7 @@ Cette catégorie contient des déclarations d'allocation explicites de concepts 
 - **Les dimensions d'une vidéo ne doivent pas dépasser une largeur de 1280 et une hauteur de 720 pixels.** En outre, il faut éviter de convertir une vidéo de faible résolution en une résolution plus élevée. Cela permet de s'assurer que les fichiers vidéo ne deviennent pas excessivement volumineux ou gourmands en ressources.
 - **Une vidéo doit être encodée en H.264.**
 - **L'[offset](/wiki/Beatmapping/Offset) d'une vidéo doit être correct s'il est en rythme avec la musique.** Un offset incorrect peut donner lieu à une représentation visuelle trompeuse de la musique. Si la même vidéo apparaît dans plusieurs difficultés, elle doit toujours avoir le même offset.
-- **La piste audio d'une vidéo doit être supprimée du fichier vidéo.** La piste audio de la vidéo n'est pas utilisée dans osu!, donc la supprimer réduit la taille du fichier beatmap. Cela inclut les vidéos avec des pistes audio muettes.
+- **La piste audio d'une vidéo doit être supprimée du fichier vidéo.** La piste audio de la vidéo n'est pas utilisée dans osu!, et la supprimer réduit la taille du fichier beatmap. Cela inclut les vidéos avec des pistes audio muettes.
   - *Voir [Compression des fichiers § Vidéo](/wiki/Guides/Compressing_files#vidéo) pour des conseils.*
 
 ### Directives
