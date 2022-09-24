@@ -52,6 +52,6 @@ Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/1742868)
 
 Mappers need music to create beatmaps. [**Ritorikal**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/305) has music. You're a mapper. You can put two and two together.
 
-One more artist is coming this week, and they're a classic you've been anticipating for years. Stalk the [@osugame Twitter](https://twitter.com/osugame) this coming Saturday for all the juice.
+Our next artist is a classic you've been anticipating for years. Stalk the [@osugame Twitter](https://twitter.com/osugame) this coming Wednesday for all the juice.
 
 —pishifat
