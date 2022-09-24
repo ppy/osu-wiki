@@ -10,7 +10,7 @@ We're proud to welcome **Ritorikal** to our Featured Artist collection!
 
 Merging various influences, genres, and his own unending curiosity, producer **Ritorikal** has been generating tunes since as far back as 2009. While electronic music is his shtick, he tends to pull in more organic sounds on top (primarily strings, keys, and guitars), making for a less conventional EDM vibe.
 
-Oh, and **Ritorikal** is also [an osu! player](https://osu.ppy.sh/users/8061786), which miiiight relate to a few of his influences like *MitiS*, *Seven Lions*, [*Koven*](https://osu.ppy.sh/beatmaps/artists/293), and *Virtual Riot*.
+Oh, and **Ritorikal** is also [an osu! player](https://osu.ppy.sh/users/8061786), which miiiight help explain a few of his musical influences like *MitiS*, *Seven Lions*, [*Koven*](https://osu.ppy.sh/beatmaps/artists/293), and *Virtual Riot*, all of whom have been fairly popular in our community.
 
 Enough stalling. Start mapping by picking up any of the **12** tracks available on [**Ritorikal**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/305)!
 
