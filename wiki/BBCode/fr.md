@@ -192,7 +192,7 @@ La balise `[profile]` est utilisée pour créer un lien vers la page de profil o
 
 *Note : L'ID utilisateur est une chaîne de chiffres qui suit directement le `/users/` dans l'URL d'une page de profil osu!*
 
-Lorsque vous spécifiez des utilisateurs par le biais de leur identifiant, un texte de remplacement est nécessaire entre les balises ouverte et fermée. En procédant ainsi, le nom de l'utilisateur s'affichera sur la page actuelle, et non le texte de remplacement. Lorsque vous spécifiez des utilisateurs uniquement par leur nom d'utilisateur, le lien ne fonctionnera plus s'ils changent leur nom d'utilisateur.
+Lorsque vous spécifiez des utilisateurs par le biais de leur identifiant, un texte de remplacement est nécessaire entre les balises ouvertes et fermées. En procédant ainsi, le nom de l'utilisateur s'affichera sur la page actuelle à la place du texte de remplacement. Lorsque vous spécifiez des utilisateurs uniquement par leur nom d'utilisateur, le lien ne fonctionnera plus s'ils changent leur nom d'utilisateur.
 
 ### Listes formatées
 
