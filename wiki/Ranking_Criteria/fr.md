@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: fa75d43c8d94994611338e131f2341c895559044
----
-
 # Critères de classement
 
 *Pour les critères de classement spécifiques aux [modes de jeu](/wiki/Game_mode), voir : [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch), et [osu!mania](osu!mania).*
@@ -104,6 +99,7 @@ Il est important de noter avant de les utiliser :
 - **Si les champs de l'artiste ou du titre ont été raccourcis pour tenir dans les limites du champ, les informations omises doivent être ajoutées aux tags.**
 - **Si la musique mappée est une musique sous licence de la bibliothèque [Featured Artist](/wiki/Featured_Artists), il faut ajouter `featured artist` aux tags.**
 - **Les tags doivent être liés à la beatmap et ne pas induire en erreur pour les résultats de recherche.** Les tags décrivant le style, la musique, le storyboard, la vidéo ou l'arrière-plan de la beatmap sont considérées comme liés à la beatmap.
+- **[Le genre et la langue](/wiki/Beatmap/Genre_and_language) de la musique doivent être ajoutés aux tags d'une beatmap.** Ceci afin de permettre aux utilisateurs de faire des recherches en utilisant ces termes dans le jeu comme ils le font sur le site web. Pour les pistes instrumentales, "instrumental" est considéré comme le tag de langue. Il existe des exceptions lorsque la langue et/ou le genre ne sont pas clairs, ou lorsqu'ils sont multiples. Dans ce dernier cas, un tag appropriée peut être appliquée pour chacun d'entre eux.
 
 #### Standardisation
 
@@ -152,7 +148,6 @@ Il est important de noter avant de les utiliser :
 - **Dans le cas de compilations ou de remixes, le(s) titre(s) de la musique originale et le(s) artiste(s) doivent être inclus dans les tags.** Cela permet de s'assurer que les joueurs peuvent trouver toutes les beatmaps d'une musique en effectuant la même recherche sans obtenir des résultats très différents.
 - **Toute métadonnée contenant des caractères unicode ambigus ou difficiles à écrire doit être accompagnée de variations ou de romanisations facilement recherchables de ces mots dans les tags de la beatmap.**
 - **Si la source de la musique est disponible à la fois en format unicode et romanisé, l'option non utilisée dans le champ source doit être ajoutée aux tags.**
-- **Le genre et la langue de la musique doivent être ajoutés aux tags d'une beatmap.** Ceci afin de permettre aux utilisateurs de faire des recherches en utilisant ces termes dans le jeu comme ils le font sur le site web. Pour les pistes instrumentales, "instrumental" est considéré comme le tag de langue. Il existe des exceptions lorsque la langue et/ou le genre ne sont pas clairs, ou lorsqu'ils sont multiples. Dans ce dernier cas, un tag appropriée peut être appliquée pour chacun d'entre eux.
 - **Il convient d'ajouter des tags pour les artistes apparentés, les noms alternatifs pour l'artiste, le titre ou la source, les contractions dans toute partie des métadonnées sans apostrophe, et tout ce qui peut aider un joueur à trouver la beatmap.**
 
 #### Standardisation
