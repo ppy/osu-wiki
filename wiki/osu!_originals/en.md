@@ -80,7 +80,7 @@ All osu! originals that have been licensed by the game are cleared for use in os
 | [yuki. - Forget you](https://osu.ppy.sh/beatmaps/artists/tracks?artist=yuki.&query=Forget%20you) | |
 | [yuki. - Have it All](https://osu.ppy.sh/beatmaps/artists/tracks?artist=yuki.&query=Have%20it%20All) | |
 | [yuki. - Hello! World (feat. setsunan)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=yuki.&query=Hello!%20World%20(feat.%20setsunan)) | |
-| [yuki. - Nadeshiko Sensation](https://soundcloud.com/yuki_0126/nadeshiko-sensation) | [Featured in Community Mapping Contest #1](https://osu.ppy.sh/home/news/2016-09-28-community-mapping-contest-1-yuki-nadeshiko) |
+| [yuki. - Nadeshiko Sensation](https://soundcloud.com/yuki_0126/nadeshiko-sensation) | Featured in [Community Mapping Contest #1](https://osu.ppy.sh/home/news/2016-09-28-community-mapping-contest-1-yuki-nadeshiko) |
 | [yuki. - Polaris](https://osu.ppy.sh/beatmaps/artists/tracks?artist=yuki.&query=Polaris) | |
 | [yuki. - Spring Signal](https://osu.ppy.sh/beatmaps/artists/tracks?artist=yuki.&query=Spring%20Signal) | |
 
