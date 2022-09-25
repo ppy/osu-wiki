@@ -12,15 +12,15 @@ All osu! originals that have been licensed by the game are cleared for use in os
 | :-: | :-- |
 | [cYsmix - triangles](https://soundcloud.com/olemlanglie/cysmix-triangles-osulazer) | Current osu!(lazer) main theme |
 | [nekodex - aureole](https://soundcloud.com/nekodex/aureole) | Christmas/Winter 2017 osu! theme |
-| [nekodex - circles!](https://soundcloud.com/nekodex/circles) |2015 osu! theme |
+| [nekodex - circles!](https://soundcloud.com/nekodex/circles) | 2015 osu! theme |
 | [nekodex - carol of the circles](https://soundcloud.com/nekodex/carol-of-the-circles) | Christmas/Winter 2019 osu! theme |
 | [nekodex - Little Drummer Girl](https://soundcloud.com/nekodex/carol-of-the-circles) | Christmas/Winter 2020 osu! theme |
 | [nekodex - Liquid Future](https://soundcloud.com/nekodex/liquid-future) | Original composition for [osu!stream](/wiki/osu!stream) |
 | [nekodex - new beginnings](https://osu.ppy.sh/beatmapsets/1011011) | Current tutorial song |
 | [nekodex - osu!stream theme](https://soundcloud.com/nekodex/osu-stream-theme) | [osu!stream](/wiki/osu!stream) main theme |
 | [nekodex - welcome to christmas!](https://soundcloud.com/nekodex/welcome-to-christmas) | [osu!stream](/wiki/osu!stream) main theme |
-| [nekodex - welcome to osu!](https://soundcloud.com/nekodex/welcome-to-osu) | Former osu! theme
-| [Peter Lambert - osu! tutorial](https://osu.ppy.sh/beatmapsets/3756) | Former tutorial song
+| [nekodex - welcome to osu!](https://soundcloud.com/nekodex/welcome-to-osu) | Former osu! theme |
+| [Peter Lambert - osu! tutorial](https://osu.ppy.sh/beatmapsets/3756) | Former tutorial song |
 
 ### Released as part of a Featured Artist catalogue addition
 
@@ -45,7 +45,7 @@ All osu! originals that have been licensed by the game are cleared for use in os
 
 | Song | Notes |
 | :-: | :-- |
-| [James Landino - Birdsong](https://osu.ppy.sh/beatmaps/artists/tracks?artist=James%20Landino&query=Birdsong) | Part of [osu! James Landino Collection EP](https://fanlink.to/osulandino)
+| [James Landino - Birdsong](https://osu.ppy.sh/beatmaps/artists/tracks?artist=James%20Landino&query=Birdsong) | Part of [osu! James Landino Collection EP](https://fanlink.to/osulandino) |
 | [James Landino - Hide and Seek](https://osu.ppy.sh/beatmaps/artists/tracks?artist=James%20Landino&query=Hide%20and%20Seek) | Part of [osu! James Landino Collection EP](https://fanlink.to/osulandino) |
 | [James Landino - Hit That feat. Hentai Dude & Tofuku (osu! edit)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=James%20Landino&query=Hit%20That%20feat.%20Hentai%20Dude%20%26%20Tofuku) | Part of [osu! James Landino Collection EP](https://fanlink.to/osulandino) |
 | [James Landino - Reaction feat. Slyleaf](https://osu.ppy.sh/beatmaps/artists/tracks?artist=James%20Landino&query=Reaction%20feat.%20Slyleaf) | Part of [osu! James Landino Collection EP](https://fanlink.to/osulandino) |
@@ -84,7 +84,6 @@ All osu! originals that have been licensed by the game are cleared for use in os
 | :-: | :-: | :-- |
 | [Camellia - OOPARTS](https://www.youtube.com/watch?v=lc4nTM6M9KY) | [#1](https://osu.ppy.sh/beatmapsets/1312143) | Grand Finals tiebreaker |
 
-
 #### ![](/wiki/shared/mode/osu.png) [osu! World Cup 2021](/wiki/Tournaments/OWC/2021)
 
 | Song | Beatmap | Notes |
@@ -106,7 +105,7 @@ All osu! originals that have been licensed by the game are cleared for use in os
 | [agata - AMAIWTIWNKMS](https://soundcloud.com/user-493301624/vent) | [#1](https://osu.ppy.sh/beatmapsets/1744774) | Grand Finals NM6 |
 | [breakchild - NEUROTYPICALSYSTEM](https://breakbchild.bandcamp.com/track/neurotypicalsystem-twc-tiebreaker) | [#1](https://osu.ppy.sh/beatmapsets/1734223) | Semifinals tiebreaker |
 | [J-CORE SLi//CER - "Ongaku purode\~yusa" no heikin-tekina seishin jotai](https://soundcloud.com/jcoreslicer/average-mental-state-of-the-music-producer) | [#1](https://osu.ppy.sh/beatmapsets/1744775) | Grand Finals NM1 |
-| [onumi & Akira Complex - Ethereal Cyber Angel XV](https://www.youtube.com/watch?v=tsMQJbRBTxc) | [#1](https://osu.ppy.sh/beatmapsets/1744942) | Grand Finals tiebreaker
+| [onumi & Akira Complex - Ethereal Cyber Angel XV](https://www.youtube.com/watch?v=tsMQJbRBTxc) | [#1](https://osu.ppy.sh/beatmapsets/1744942) | Grand Finals tiebreaker |
 
 #### ![](/wiki/shared/mode/catch.png) [osu!catch World Cup 2021](/wiki/Tournaments/CWC/2021)
 
@@ -150,7 +149,7 @@ All osu! originals that have been licensed by the game are cleared for use in os
 
 | Song | Beatmap | Notes |
 | :-: | :-: | :-- |
-| [Dz'Xa - MV 5927](https://www.youtube.com/watch?v=c0E3313xvYY) | [#1](https://osu.ppy.sh/beatmapsets/1799673) | Grand Finals tiebreaker
+| [Dz'Xa - MV 5927](https://www.youtube.com/watch?v=c0E3313xvYY) | [#1](https://osu.ppy.sh/beatmapsets/1799673) | Grand Finals tiebreaker |
 | [ReeK, roer & Rairiku - Kurwature 1869](https://www.youtube.com/watch?v=L4zSAByvNkY) | [#1](https://osu.ppy.sh/beatmapsets/1794825) | Finals tiebreaker |
 
 #### ![](/wiki/shared/mode/taiko.png) Ausu!Taiko Tournament 2022
@@ -204,7 +203,7 @@ All osu! originals that have been licensed by the game are cleared for use in os
 
 | Song | Beatmap | Notes |
 | :-: | :-: | :-- |
-| [Acylica - yoshicorsace](https://www.youtube.com/watch?v=PwxRJUPhYAo) | [#1](https://osu.ppy.sh/beatmapsets/1842665) | Semifinals NM4 | 
+| [Acylica - yoshicorsace](https://www.youtube.com/watch?v=PwxRJUPhYAo) | [#1](https://osu.ppy.sh/beatmapsets/1842665) | Semifinals NM4 |
 | [Aoi - King Atlantis](https://www.youtube.com/watch?v=TLJkMNmDed4) | [#1](https://osu.ppy.sh/beatmapsets/1850986) | Grand Finals tiebreaker |
 | [Down - Halfslashed](https://www.youtube.com/watch?v=r2RH3_a7ld4) | [#1](https://osu.ppy.sh/beatmapsets/1837962) | Quarterfinals FM1 |
 | [Down - UberFazz](https://www.youtube.com/watch?v=S3E9D1d48Nc) | [#1](https://osu.ppy.sh/beatmapsets/1846742) | Finals FM2 |
@@ -264,7 +263,7 @@ All osu! originals that have been licensed by the game are cleared for use in os
 | [Kou! - Sanzui](https://soundcloud.com/kou_desu/sanzui) | [#1](https://osu.ppy.sh/beatmapsets/1846769) | Quarterfinals FM1 |
 | [kyou1110 - Mam rozbite sluchatka placem](https://www.youtube.com/watch?v=eAaJjlP2N_A) | [#1](https://osu.ppy.sh/beatmapsets/1846616) | Quarterfinals tiebreaker |
 | [NIWASHI - Silence is Golden, Speech is Golden](https://soundcloud.com/n1wa5h1/niwashi-silence-is-golden-speech-is-golden) | [#1](https://osu.ppy.sh/beatmapsets/1833489) | Round of 32 NM1 |
-| [one fourteen - break through](https://soundcloud.com/luzeria/breakthrough) | [#1](https://osu.ppy.sh/beatmapsets/1850900) | Semifinals NM1 | 
+| [one fourteen - break through](https://soundcloud.com/luzeria/breakthrough) | [#1](https://osu.ppy.sh/beatmapsets/1850900) | Semifinals NM1 |
 | [rN vs. \[Shanom, ptar124 & Zekai\] - dichroma, ludiosia.](https://soundcloud.com/rurinn/dichroma) | [#1](https://osu.ppy.sh/beatmapsets/1842219) | Round of 16 tiebreaker |
 | [Sad Keyboard Guy - Reflection Shift](https://soundcloud.com/sadkeyboardguy/reflection-shift) | [#1](https://osu.ppy.sh/beatmapsets/1851049) | Semifinals FM3 |
 | [Slax - Giri the Giri](https://www.youtube.com/watch?v=2IS9oBstIcY) | [#1](https://osu.ppy.sh/beatmapsets/1828739) | Round of 128 HD2 |
@@ -375,7 +374,6 @@ All osu! originals that have been licensed by the game are cleared for use in os
 ### Released as part of an official song remix contest
 
 #### [osu! "circles!" Remix Contest](https://osu.ppy.sh/home/news/2016-05-06-osu-circles-remix-contest)
-
 
 | Song | Notes |
 | :-: | :-- |
