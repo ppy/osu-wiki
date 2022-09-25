@@ -78,6 +78,8 @@ All osu! originals that have been licensed by the game are cleared for use in os
 | :-: | :-- |
 | [Rabbit House - Gehenna](https://soundcloud.com/dksslqj/gehenna) |  |
 
+<!-- lint ignore no-heading-punctuation -->
+
 #### [yuki.](https://osu.ppy.sh/beatmaps/artists/4)
 
 | Song | Notes |
