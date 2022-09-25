@@ -212,7 +212,7 @@ All osu! originals that have been licensed by the game are cleared for use in os
 | [Kara - AGAVEiL](https://soundcloud.com/karalineavu/agaveill) | [#1](https://osu.ppy.sh/beatmapsets/1842694) | Semifinals tiebreaker |
 | [NTRSOUND and Estia - Wisps of Nifl](https://soundcloud.com/estia_dtm/wisps-of-nifl) | [#1](https://osu.ppy.sh/beatmapsets/1833757) | Round of 16 tiebreaker |
 | [Rabbit House - Divine Ordeal](https://soundcloud.com/dksslqj/divine-ordeal) | [#1](https://osu.ppy.sh/beatmapsets/1829371) | Round of 32 tiebreaker |
-| [rN - Anteisce](https://yuugenp.bandcamp.com/track/anteisce) |[#1](https://osu.ppy.sh/beatmapsets/1850922) | Grand Finals NM6 |
+| [rN - Anteisce](https://yuugenp.bandcamp.com/track/anteisce) | [#1](https://osu.ppy.sh/beatmapsets/1850922) | Grand Finals NM6 |
 | [seatrus - Querasis](https://www.youtube.com/watch?v=VuHjtzlw4ig) | [#1](https://osu.ppy.sh/beatmapsets/1850936) | Grand Finals HD3 |
 
 #### ![](/wiki/shared/mode/osu.png) DACH Cup
@@ -409,7 +409,7 @@ All osu! originals that have been licensed by the game are cleared for use in os
 | Kuba Oms - My Love (Maemi no Yume's Remix) | [#1](https://osu.ppy.sh/beatmapsets/1389127) | |
 | Kuba Oms - My Love (pm04034 Remix) | [#1](https://osu.ppy.sh/beatmapsets/1382737) | |
 | [Kuba Oms - My Love (Raytoly Trance Remix)](https://soundcloud.com/raytoly/kuba-oms-my-love-raytoly-trance-remix) | [#1](https://osu.ppy.sh/beatmapsets/1389153) | |
-| [Kuba Oms - My Love (Redside Remix) (feat. Hatsune Miku)](https://www.youtube.com/watch?v=MGTf7A4B2jw) | [#1](https://osu.ppy.sh/beatmapsets/1388993) | Community Pick wiinner|
+| [Kuba Oms - My Love (Redside Remix) (feat. Hatsune Miku)](https://www.youtube.com/watch?v=MGTf7A4B2jw) | [#1](https://osu.ppy.sh/beatmapsets/1388993) | Community Pick winner |
 | [Kuba Oms - My Love (Shadren Remix)](https://soundcloud.com/shadren808/kuba-oms-my-love-shadren-remix) | [#1](https://osu.ppy.sh/beatmapsets/1382412) | |
 | [Kuba Oms - My Love (takehirotei Remix)](https://soundcloud.com/takehirotei/kuba-oms-my-love-takehirotei-remix) | [#1](https://osu.ppy.sh/beatmapsets/1390004) | |
 | Kuba Oms - My Love (tochi's Atmospheric Remix) | [#1](https://osu.ppy.sh/beatmapsets/1389401) | |
