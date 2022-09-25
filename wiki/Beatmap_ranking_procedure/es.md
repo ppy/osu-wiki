@@ -8,9 +8,9 @@ Los [beatmaps](/wiki/Beatmap) se pueden promocionar en la comunidad siguiendo el
 
 El creador de un beatmap puede marcar sus envíos como `Trabajo en progreso` o `Pendiente`. Los beatmaps en estas dos categorías están destinados a recibir comentarios de la comunidad de osu!.
 
-[Modeo](/wiki/Modding) es el proceso de recibir críticas constructivas en un beatmap y mejorar su calidad. Los usuarios suelen publicar sus comentarios en la página de discusión de un betmap o chatear directamente con el creador del beatmap.
+[Modding](/wiki/Modding) es el proceso de recibir críticas constructivas en un beatmap y mejorar su calidad. Los usuarios suelen publicar sus comentarios en la página de discusión de un betmap o chatear directamente con el creador del beatmap.
 
-Los nuevos creadores de beatmaps suelen necesitar una gran cantidad de modeo para crear beatmaps que cumplan con los estándares de calidad de la categoría clasificada y, a menudo, se les pide que recreen sus beatmaps desde cero.
+Los nuevos creadores de beatmaps suelen necesitar una gran cantidad de modding para crear beatmaps que cumplan con los estándares de calidad de la categoría clasificada y, a menudo, se les pide que recreen sus beatmaps desde cero.
 
 Antes de enviarse para la clasificación, los beatmaps deben recibir mensajes de [hype](/wiki/Beatmap/Hype) de al menos cinco usuarios diferentes.
 
@@ -20,7 +20,7 @@ Los miembros del grupo [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nomina
 
 Los miembros del [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (*NAT*) también pueden nominar beatmaps, pero esta no es su función principal.
 
-Se recomienda recibir modeos antes de solicitar las nominaciones de BN, pero el único requisito es cinco promociones.
+Se recomienda recibir mods antes de solicitar las nominaciones de BN, pero el único requisito es cinco promociones.
 
 ## Calificación
 
