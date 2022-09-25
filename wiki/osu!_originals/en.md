@@ -1,6 +1,6 @@
 # osu! originals
 
-**osu! originals** are songs that are specifically made for (or otherwise first premiered in) osu! or other osu!-related events such as tournaments, contests, and [Featured Artist](/wiki/Featured_Artists) announcements. While not all osu! originals are officially licensed and included in the [Featured Artist library](https://osu.ppy.sh/beatmaps/artists), the songs that do are distinguished by the `ORIGINAL` label on their respective artists' pages.
+**osu! originals** are songs that are specifically made for (or otherwise first premiered in) osu! or other osu!-related events such as tournaments, contests, and [Featured Artist](/wiki/Featured_Artists) announcements. While not all osu! originals are officially licensed and included in the [Featured Artist library](https://osu.ppy.sh/beatmaps/artists), the songs that do are commonly distinguished by the `ORIGINAL` label on their respective artists' pages.
 
 All osu! originals that have been licensed by the game are cleared for use in osu! under a non-exclusive term as per the [osu! music licensing policy](/wiki/Legal/Music_licensing). With the exception of bootleg tracks and certain remixes, other osu! originals generally fall under a similar provision unless otherwise specified.
 
@@ -8,294 +8,433 @@ All osu! originals that have been licensed by the game are cleared for use in os
 
 ### Released as part of osu!'s ecosystem
 
-- [cYsmix - triangles](https://osu.ppy.sh/beatmapsets/1646678) (current osu!(lazer) main theme)
-- [nekodex - aureole](https://osu.ppy.sh/beatmapsets/1037352) (Christmas/Winter 2017 osu! theme)
-- [nekodex - circles!](https://osu.ppy.sh/beatmapsets/355322) (2015 osu! theme)
-- [nekodex - carol of the circles](https://osu.ppy.sh/beatmapsets/1078322) (Christmas/Winter 2019 osu! theme)
-- [nekodex - Little Drummer Girl](https://osu.ppy.sh/beatmapsets/1320298) (Christmas/Winter 2020 osu! theme)
-- [nekodex - Liquid Future](https://osu.ppy.sh/beatmapsets/898734) (original composition for [osu!stream](/wiki/osu!stream))
-- [nekodex - new beginnings](https://osu.ppy.sh/beatmapsets/1011011) (current tutorial song)
-- [nekodex - osu!stream theme](https://soundcloud.com/nekodex/osu-stream-theme) ([osu!stream](/wiki/osu!stream) main theme)
-- [nekodex - welcome to christmas!](https://osu.ppy.sh/beatmapsets/882106) (Christmas/Winter 2014 osu! theme)
-- [nekodex - welcome to osu!](https://soundcloud.com/nekodex/welcome-to-osu) (former osu! theme)
-- [Peter Lambert - osu! tutorial](https://osu.ppy.sh/beatmapsets/3756) (former tutorial song)
+| Song | Notes |
+| :-: | :-- |
+| [cYsmix - triangles](https://soundcloud.com/olemlanglie/cysmix-triangles-osulazer) | Current osu!(lazer) main theme |
+| [nekodex - aureole](https://soundcloud.com/nekodex/aureole) | Christmas/Winter 2017 osu! theme |
+| [nekodex - circles!](https://soundcloud.com/nekodex/circles) |2015 osu! theme |
+| [nekodex - carol of the circles](https://soundcloud.com/nekodex/carol-of-the-circles) | Christmas/Winter 2019 osu! theme |
+| [nekodex - Little Drummer Girl](https://soundcloud.com/nekodex/carol-of-the-circles) | Christmas/Winter 2020 osu! theme |
+| [nekodex - Liquid Future](https://soundcloud.com/nekodex/liquid-future) | Original composition for [osu!stream](/wiki/osu!stream) |
+| [nekodex - new beginnings](https://osu.ppy.sh/beatmapsets/1011011) | Current tutorial song |
+| [nekodex - osu!stream theme](https://soundcloud.com/nekodex/osu-stream-theme) | [osu!stream](/wiki/osu!stream) main theme |
+| [nekodex - welcome to christmas!](https://soundcloud.com/nekodex/welcome-to-christmas) | [osu!stream](/wiki/osu!stream) main theme |
+| [nekodex - welcome to osu!](https://soundcloud.com/nekodex/welcome-to-osu) | Former osu! theme
+| [Peter Lambert - osu! tutorial](https://osu.ppy.sh/beatmapsets/3756) | Former tutorial song
 
 ### Released as part of a Featured Artist catalogue addition
 
 #### [cYsmix](https://osu.ppy.sh/beatmaps/artists/2)
 
-- [cYsmix - Arcade Busters](https://osu.ppy.sh/beatmapsets/601840)
-- [cYsmix - Behind the Walls](https://osu.ppy.sh/beatmapsets/791798)
-- [cYsmix - Breeze](https://osu.ppy.sh/beatmapsets/629575)
-- [cYsmix - Classic Pursuit](https://osu.ppy.sh/beatmapsets/488238)
-- [cYsmix - Disco Bawls](https://osu.ppy.sh/beatmaps/artists/tracks?artist=cYsmix&query=Disco%20Bawls)
-- [cYsmix - Dovregubben's Hall](https://osu.ppy.sh/beatmapsets/360950)
-- [cYsmix - Fright March](https://osu.ppy.sh/beatmapsets/486142)
-- [cYsmix - House With Legs](https://osu.ppy.sh/beatmapsets/360680)
-- [cYsmix - Little Knight](https://osu.ppy.sh/beatmapsets/791845)
-- [cYsmix - Manic](https://osu.ppy.sh/beatmapsets/361175)
-- [cYsmix - Moonlight Sonata](https://osu.ppy.sh/beatmapsets/486535)
-- [cYsmix - Peer Gynt](https://osu.ppy.sh/beatmapsets/805762)
+| Song | Notes |
+| :-: | :-- |
+| [cYsmix - Arcade Busters](https://soundcloud.com/olemlanglie/arcade-busters-osu) | |
+| [cYsmix - Behind the Walls](https://osu.ppy.sh/beatmaps/artists/tracks?artist=cYsmix&query=Behind%20The%20Walls) | |
+| [cYsmix - Breeze](https://soundcloud.com/olemlanglie/cysmix-breeze-osu) | Featured in [Monthly Beatmapping Contest: April 2017](https://osu.ppy.sh/home/news/2017-04-14-monthly-beatmapping-contest-april-2017-osumania) |
+| [cYsmix - Classic Pursuit](https://soundcloud.com/olemlanglie/cysmix-classic-pursuit-osu) | Featured in [Mapping with Rewards: October 2015](https://blog.ppy.sh/post/132009865043/mapping-with-rewards-oct-2015) |
+| [cYsmix - Disco Bawls](https://soundcloud.com/olemlanglie/cysmix-disco-bawls) | |
+| [cYsmix - Dovregubben's Hall](https://soundcloud.com/olemlanglie/cysmix-dovregubbens-hall-new-ver-osu) | Featured in [Mapping with Rewards: September 2015](https://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015) |
+| [cYsmix - Fright March](https://soundcloud.com/olemlanglie/cysmix-fright-march-osu) | Featured in [Mapping with Rewards: October 2015](https://blog.ppy.sh/post/132009865043/mapping-with-rewards-oct-2015) |
+| [cYsmix - House With Legs](https://soundcloud.com/olemlanglie/cysmix-house-with-legs-original-mix) | Featured in [Mapping with Rewards: September 2015](https://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015) |
+| [cYsmix - Little Knight](https://soundcloud.com/olemlanglie/cysmix-little-knight) | |
+| [cYsmix - Manic](https://soundcloud.com/olemlanglie/cysmix-manic-osu) | Featured in [Mapping with Rewards: September 2015](https://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015) |
+| [cYsmix - Moonlight Sonata](https://cysmix.bandcamp.com/track/moonlight-sonata) | Featured in [Mapping with Rewards: October 2015](https://blog.ppy.sh/post/132009865043/mapping-with-rewards-oct-2015) |
+| [cYsmix - Peer Gynt](https://soundcloud.com/olemlanglie/cysmix-peer-gynt-osu) |
 
 #### [James Landino](https://osu.ppy.sh/beatmaps/artists/39)
 
-- [James Landino - Birdsong](https://osu.ppy.sh/beatmapsets/972810)
-- [James Landino - Hide and Seek](https://osu.ppy.sh/beatmapsets/972932)
-- [James Landino - Hit That feat. Hentai Dude & Tofuku (osu! edit)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=James%20Landino&query=Hit%20That%20feat.%20Hentai%20Dude%20%26%20Tofuku)
-- [James Landino - Reaction feat. Slyleaf](https://osu.ppy.sh/beatmapsets/972816)
-- [James Landino - Shiba Island](https://osu.ppy.sh/beatmapsets/1061769)
-- [James Landino - Spellbound](https://osu.ppy.sh/beatmapsets/1034041)
+| Song | Notes |
+| :-: | :-- |
+| [James Landino - Birdsong](https://osu.ppy.sh/beatmaps/artists/tracks?artist=James%20Landino&query=Birdsong) | Part of [osu! James Landino Collection EP](https://fanlink.to/osulandino)
+| [James Landino - Hide and Seek](https://osu.ppy.sh/beatmaps/artists/tracks?artist=James%20Landino&query=Hide%20and%20Seek) | Part of [osu! James Landino Collection EP](https://fanlink.to/osulandino) |
+| [James Landino - Hit That feat. Hentai Dude & Tofuku (osu! edit)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=James%20Landino&query=Hit%20That%20feat.%20Hentai%20Dude%20%26%20Tofuku) | Part of [osu! James Landino Collection EP](https://fanlink.to/osulandino) |
+| [James Landino - Reaction feat. Slyleaf](https://osu.ppy.sh/beatmaps/artists/tracks?artist=James%20Landino&query=Reaction%20feat.%20Slyleaf) | Part of [osu! James Landino Collection EP](https://fanlink.to/osulandino) |
+| [James Landino - Shiba Island](https://osu.ppy.sh/beatmaps/artists/tracks?artist=James%20Landino&query=Shiba%Island) | Part of [osu! James Landino Collection EP](https://fanlink.to/osulandino) |
+| [James Landino - Spellbound](https://osu.ppy.sh/beatmaps/artists/tracks?artist=James%20Landino&query=Spellbound) | Part of [osu! James Landino Collection EP](https://fanlink.to/osulandino) |
 
 #### [kiraku](https://osu.ppy.sh/beatmaps/artists/101)
 
-- [kiraku - connection](https://osu.ppy.sh/beatmapsets/1283352)
+| Song | Notes |
+| :-: | :-- |
+| [kiraku - connection](https://osu.ppy.sh/beatmaps/artists/tracks?artist=kiraku&query=connection) | Featured in [Monthly Beatmapping Contest: October 2020](https://osu.ppy.sh/home/news/2020-10-06-monthly-beatmapping-contest-october) |
 
 #### [Kitazawa Kyouhei](https://osu.ppy.sh/beatmaps/artists/165)
 
-- [Kitazawa Kyouhei - TRUE-QUEEN](https://osu.ppy.sh/beatmaps/artists/tracks?artist=kitazawa%20kyouhei&query=true-queen)
+| Song | Notes |
+| :-: | :-- |
+| [Kitazawa Kyouhei - TRUE-QUEEN](https://www.youtube.com/watch?v=s4FcjckW0NE) | |
 
 #### [Rabbit House](https://osu.ppy.sh/beatmaps/artists/242)
 
-- [Rabbit House - Gehenna](https://osu.ppy.sh/beatmaps/artists/tracks?artist=rabbit%20house&query=gehenna)
+| Song | Notes |
+| :-: | :-- |
+| [Rabbit House - Gehenna](https://soundcloud.com/dksslqj/gehenna) |
 
 #### [ZxNX](https://osu.ppy.sh/beatmaps/artists/288)
 
-- [ZxNX - Altair](https://osu.ppy.sh/beatmaps/artists/tracks?artist=zxnx&query=altair)
+| Song | Notes |
+| :-: | :-- |
+| [ZxNX - Altair](https://soundcloud.com/zxnx/alt) | |
 
 ### Released as part of an official tournament
 
 #### ![](/wiki/shared/mode/osu.png) [osu! World Cup 2020](/wiki/Tournaments/OWC/2020)
 
-- [Camellia - OOPARTS](https://osu.ppy.sh/beatmapsets/1312143)
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [Camellia - OOPARTS](https://www.youtube.com/watch?v=lc4nTM6M9KY) | [#1](https://osu.ppy.sh/beatmapsets/1312143) | Grand Finals tiebreaker |
+
 
 #### ![](/wiki/shared/mode/osu.png) [osu! World Cup 2021](/wiki/Tournaments/OWC/2021)
 
-- [katagiri - Buta Musou](https://osu.ppy.sh/beatmapsets/1633225)
-- [Raphlesia - Showdown](https://osu.ppy.sh/beatmapsets/1627494)
-- [Yooh - RPG](https://osu.ppy.sh/beatmapsets/1633250)
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [katagiri - Buta Musou](https://soundcloud.com/katagiri/buta-musou) | [#1](https://osu.ppy.sh/beatmapsets/1633225) | Grand Finals NM1 |
+| [Raphlesia - Showdown](https://soundcloud.com/raphlesia/showdown) | [#1](https://osu.ppy.sh/beatmapsets/1627494) | Finals HR3 |
+| [Yooh - RPG](https://www.youtube.com/watch?v=oGO87WH2FWM) | [#1](https://osu.ppy.sh/beatmapsets/1633250) | Grand Finals tiebreaker |
 
 #### ![](/wiki/shared/mode/taiko.png) [osu!taiko World Cup 2021](/wiki/Tournaments/TWC/2021)
 
-- [TWC Sound Team "Zeroth Powers" - One One](https://osu.ppy.sh/beatmapsets/1422682)
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [TWC Sound Team "Zeroth Powers" - One One](https://www.youtube.com/watch?v=xEnDPj7vxhA) | [#1](https://osu.ppy.sh/beatmapsets/1422682) | Grand Finals tiebreaker |
 
 #### ![](/wiki/shared/mode/taiko.png) [osu!taiko World Cup 2022](/wiki/Tournaments/TWC/2022)
 
-- [agata - AMAIWTIWNKMS](https://osu.ppy.sh/beatmapsets/1744774)
-- [breakchild - NEUROTYPICALSYSTEM](https://osu.ppy.sh/beatmapsets/1734223)
-- [J-CORE SLi//CER - "Ongaku purode\~yusa" no heikin-tekina seishin jotai](https://osu.ppy.sh/beatmapsets/1744775)
-- [onumi & Akira Complex - Ethereal Cyber Angel XV](https://osu.ppy.sh/beatmapsets/1744942)
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [agata - AMAIWTIWNKMS](https://soundcloud.com/user-493301624/vent) | [#1](https://osu.ppy.sh/beatmapsets/1744774) | Grand Finals NM6 |
+| [breakchild - NEUROTYPICALSYSTEM](https://breakbchild.bandcamp.com/track/neurotypicalsystem-twc-tiebreaker) | [#1](https://osu.ppy.sh/beatmapsets/1734223) | Semifinals tiebreaker |
+| [J-CORE SLi//CER - "Ongaku purode\~yusa" no heikin-tekina seishin jotai](https://soundcloud.com/jcoreslicer/average-mental-state-of-the-music-producer) | [#1](https://osu.ppy.sh/beatmapsets/1744775) | Grand Finals NM1 |
+| [onumi & Akira Complex - Ethereal Cyber Angel XV](https://www.youtube.com/watch?v=tsMQJbRBTxc) | [#1](https://osu.ppy.sh/beatmapsets/1744942) | Grand Finals tiebreaker
 
 #### ![](/wiki/shared/mode/catch.png) [osu!catch World Cup 2021](/wiki/Tournaments/CWC/2021)
 
-- [Frums - of Ambrosia](https://osu.ppy.sh/beatmapsets/1478486)
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [Frums - of Ambrosia](https://www.youtube.com/watch?v=I2b7PUMeciM) | [#1](https://osu.ppy.sh/beatmapsets/1478486) | Grand Finals tiebreaker |
 
 #### ![](/wiki/shared/mode/catch.png) [osu!catch World Cup 2022](/wiki/Tournaments/CWC/2022)
 
-- [D-D-Dice vs. siromaru - Catch the Glory](https://osu.ppy.sh/beatmapsets/1794214)
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [D-D-Dice vs. siromaru - Catch the Glory](https://www.youtube.com/watch?v=YBFh4DON-CA) | [#1](https://osu.ppy.sh/beatmapsets/1794214) | Grand Finals tiebreaker |
 
 #### ![](/wiki/shared/mode/mania.png) [osu!mania 4K World Cup 2021](/wiki/Tournaments/MWC/2021_4K)
 
-- [SUPER MWC KART - Purple Palace](https://osu.ppy.sh/beatmapsets/1569527)
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [SUPER MWC KART - Purple Palace](https://www.youtube.com/watch?v=Mv-j30_r0FE) | [#1](https://osu.ppy.sh/beatmapsets/1569527) | Grand Finals tiebreaker |
 
 #### ![](/wiki/shared/mode/mania.png) [osu!mania 7K World Cup 2022](/wiki/Tournaments/MWC/2022_7K)
 
-- [HyuN feat. Sennzai - Duplicity Shade](https://osu.ppy.sh/beatmapsets/1698284)
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [HyuN feat. Sennzai - Duplicity Shade](https://www.youtube.com/watch?v=4K2eLs7EmZs) | [#1](https://osu.ppy.sh/beatmapsets/1698284) | Grand Finals tiebreaker |
 
 #### ![](/wiki/shared/mode/mania.png) [osu!mania 4K World Cup 2022](/wiki/Tournaments/MWC/2022_4K)
 
-- [aa...hisuichazuke... - steganography](https://osu.ppy.sh/beatmapsets/1846639)
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [aa...hisuichazuke... - steganography](https://www.youtube.com/watch?v=CRD-2sk6Zt8) | [#1](https://osu.ppy.sh/beatmapsets/1846639) | Grand Finals tiebreaker |
 
 ### Released as part of a community-run tournament
 
 #### ![](/wiki/shared/mode/mania.png) [4 Digit osu!mania World Cup 4](/wiki/Tournaments/4DM/4)
 
-- [BilliumMoto x Akiri - Cryochemistry](https://osu.ppy.sh/beatmapsets/1698378)
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [BilliumMoto x Akiri - Cryochemistry](https://soundcloud.com/billiummoto/cryochemistry) | [#1](https://osu.ppy.sh/beatmapsets/1698378) | Grand Finals tiebreaker |
 
 #### ![](/wiki/shared/mode/taiko.png) [Advanced Global Taiko Showdown 2022](/wiki/Tournaments/GTS/AGTS_2022)
 
-- [Dz'Xa - MV 5927](https://osu.ppy.sh/beatmapsets/1799673)
-- [ReeK, roer & Rairiku - Kurwature 1869](https://osu.ppy.sh/beatmapsets/1794825)
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [Dz'Xa - MV 5927](https://www.youtube.com/watch?v=c0E3313xvYY) | [#1](https://osu.ppy.sh/beatmapsets/1799673) | Grand Finals tiebreaker
+| [ReeK, roer & Rairiku - Kurwature 1869](https://www.youtube.com/watch?v=L4zSAByvNkY) | [#1](https://osu.ppy.sh/beatmapsets/1794825) | Finals tiebreaker |
 
 #### ![](/wiki/shared/mode/taiko.png) Ausu!Taiko Tournament 2022
 
-- [Sparxe - Archipelago of Ten Trials](https://osu.ppy.sh/beatmapsets/1793933)
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [Sparxe - Archipelago of Ten Trials](https://soundcloud.com/sparxenic/archipelago-of-ten-trials) | [#1](https://osu.ppy.sh/beatmapsets/1793933) | Grand Finals tiebreaker |
+
+#### ![](/wiki/shared/mode/catch.png) AxS 7th Edition
+
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [ptar124 - AmbidextrouS \~The Alchemist of The Left x The Sage of The Right\~](https://soundcloud.com/part-lerts/axs-7th-grand-finals-tiebreaker-ambidextrous-x) | [#1](https://osu.ppy.sh/beatmapsets/1698560) | Grand Finals tiebreaker |
 
 #### ![](/wiki/shared/mode/osu.png) Charlie's Perfect Math Class
 
-- [Dictate & Spazza17 - Charlie's Perfect Math Class](https://osu.ppy.sh/beatmapsets/1799284)
-- [kanemiko - Stellar Proximity Shift](https://osu.ppy.sh/beatmapsets/1799362)
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [Dictate & Spazza17 - Charlie's Perfect Math Class](https://www.youtube.com/watch?v=baAzs6QMeRg) | [#1](https://osu.ppy.sh/beatmapsets/1799284) | Pool C FreeMod pick (C1) |
+| [kanemiko - Stellar Proximity Shift](https://soundcloud.com/kanemiko/stellar-proximity-shift) | [#1](https://osu.ppy.sh/beatmapsets/1799362) | Pool B FreeMod pick (B1) |
 
 #### ![](/wiki/shared/mode/osu.png) [Coffee Hispanic: Mocha](/wiki/Tournaments/CH/CHM_1)
 
-- [Catsprite overdoses on Coffee - 1000000% CAFFEINE](https://osu.ppy.sh/beatmapsets/1571087)
-- [pm04034 - cold smoothie coffee](https://osu.ppy.sh/beatmapsets/1592358)
-- [pm04034 - Sugary Mocaccino](https://osu.ppy.sh/beatmapsets/1592198)
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [Catsprite overdoses on Coffee - 1000000% CAFFEINE](https://soundcloud.com/notreallyrook/1000000-caffeine-from-osu-coffee-hispanic) | [#1](https://osu.ppy.sh/beatmapsets/1571087) | Round of 16 FM1 |
+| pm04034 - cold smoothie coffee | [#1](https://osu.ppy.sh/beatmapsets/1592358) | Grand Finals tiebreaker |
+| pm04034 - Sugary Mocaccino | [#1](https://osu.ppy.sh/beatmapsets/1592198) | Grand Finals NM2 |
 
 #### ![](/wiki/shared/mode/taiko.png) [Continental Global Taiko Showdown 2021](/wiki/Tournaments/GTS/CGTS_2021)
 
-- [Sparxe - Chicxulub](https://osu.ppy.sh/beatmapsets/1429738)
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [Sparxe - Chicxulub](https://www.youtube.com/watch?v=6NiJ45f3o-s) | [#1](https://osu.ppy.sh/beatmapsets/1429738) | Grand Finals tiebreaker |
 
 #### ![](/wiki/shared/mode/osu.png) Corsace Closed 2022
 
-- [Down - ddm](https://osu.ppy.sh/beatmapsets/1764656)
-- [Kyutatsuki - \_alc.yone](https://osu.ppy.sh/beatmapsets/1781161)
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [Down - ddm](https://open.spotify.com/album/5ygle8UZPbAqJ8XuMAKgnl) | [#1](https://osu.ppy.sh/beatmapsets/1764656) | Quarterfinals NM6 |
+| [Kyutatsuki - \_alc.yone](https://www.youtube.com/watch?v=_LkXGLHR6Tg) | [#1](https://osu.ppy.sh/beatmapsets/1781161) | Grand Finals NM4 |
 
 #### ![](/wiki/shared/mode/osu.png) Corsace Open 2021
 
-- [katagiri - Palace of Melancholia](https://osu.ppy.sh/beatmapsets/1581367)
-- [VINXIS - FALL](https://osu.ppy.sh/beatmapsets/1581340)
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [katagiri - Palace of Melancholia](https://www.youtube.com/watch?v=-Wq8Kk9Trsw) | [#1](https://osu.ppy.sh/beatmapsets/1581367) | Grand Finals Tiebreaker |
+| [VINXIS - FALL](https://www.youtube.com/watch?v=_FlHUWVjHvY) | [#1](https://osu.ppy.sh/beatmapsets/1581340) | Grand Finals NM6 |
 
 #### ![](/wiki/shared/mode/osu.png) Corsace Open 2022
 
-- [Acylica - yoshicorsace](https://osu.ppy.sh/beatmapsets/1842665)
-- [Aoi - King Atlantis](https://osu.ppy.sh/beatmapsets/1850986)
-- [Down - Halfslashed](https://osu.ppy.sh/beatmapsets/1837962)
-- [Down - UberFazz](https://osu.ppy.sh/beatmapsets/1846742)
-- [Fuyuki Seana - OVERFLOW SKIES](https://osu.ppy.sh/beatmapsets/1846756)
-- [ikaruga\_nex - SICK ROCK CRAZY](https://osu.ppy.sh/beatmapsets/1838305)
-- [Kara - AGAVEiL](https://osu.ppy.sh/beatmapsets/1842694)
-- [NTRSOUND and Estia - Wisps of Nifl](https://osu.ppy.sh/beatmapsets/1833757)
-- [Rabbit House - Divine Ordeal](https://osu.ppy.sh/beatmapsets/1829371)
-- [rN - Anteisce](https://osu.ppy.sh/beatmapsets/1850922)
-- [seatrus - Querasis](https://osu.ppy.sh/beatmapsets/1850936)
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [Acylica - yoshicorsace](https://www.youtube.com/watch?v=PwxRJUPhYAo) | [#1](https://osu.ppy.sh/beatmapsets/1842665) | Semifinals NM4 | 
+| [Aoi - King Atlantis](https://www.youtube.com/watch?v=TLJkMNmDed4) | [#1](https://osu.ppy.sh/beatmapsets/1850986) | Grand Finals tiebreaker |
+| [Down - Halfslashed](https://www.youtube.com/watch?v=r2RH3_a7ld4) | [#1](https://osu.ppy.sh/beatmapsets/1837962) | Quarterfinals FM1 |
+| [Down - UberFazz](https://www.youtube.com/watch?v=S3E9D1d48Nc) | [#1](https://osu.ppy.sh/beatmapsets/1846742) | Finals FM2 |
+| [Fuyuki Seana - OVERFLOW SKIES](https://soundcloud.com/sylp-hide/overflow-skies) | [#1](https://osu.ppy.sh/beatmapsets/1846756) | Finals tiebreaker |
+| [ikaruga\_nex - SICK ROCK CRAZY](https://soundcloud.com/ikaruga_nex/corsace-open-2022-sick-rock-crazy) | [#1](https://osu.ppy.sh/beatmapsets/1838305) | Quarterfinals tiebreaker |
+| [Kara - AGAVEiL](https://soundcloud.com/karalineavu/agaveill) | [#1](https://osu.ppy.sh/beatmapsets/1842694) | Semifinals tiebreaker |
+| [NTRSOUND and Estia - Wisps of Nifl](https://soundcloud.com/estia_dtm/wisps-of-nifl) | [#1](https://osu.ppy.sh/beatmapsets/1833757) | Round of 16 tiebreaker |
+| [Rabbit House - Divine Ordeal](https://soundcloud.com/dksslqj/divine-ordeal) | [#1](https://osu.ppy.sh/beatmapsets/1829371) | Round of 32 tiebreaker |
+| [rN - Anteisce](https://yuugenp.bandcamp.com/track/anteisce) |[#1](https://osu.ppy.sh/beatmapsets/1850922) | Grand Finals NM6 |
+| [seatrus - Querasis](https://www.youtube.com/watch?v=VuHjtzlw4ig) | [#1](https://osu.ppy.sh/beatmapsets/1850936) | Grand Finals HD3 |
 
 #### ![](/wiki/shared/mode/osu.png) DACH Cup
 
-- [Kushper - MENDENIKANOID](https://osu.ppy.sh/beatmapsets/1828651)
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [Kushper - MENDENIKANOID](https://www.youtube.com/watch?v=hvs6-APcZ8Y) | [#1](https://osu.ppy.sh/beatmapsets/1828651) | Finals NM5 |
 
 #### ![](/wiki/shared/mode/mania.png) DDS Tournament
 
-- [HowToPlayLN - Eternal Bliss](https://osu.ppy.sh/beatmapsets/1635183)
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| HowToPlayLN - Eternal Bliss | [#1](https://osu.ppy.sh/beatmapsets/1635183) | Finals LN pick |
 
 #### ![](/wiki/shared/mode/osu.png) Duo Cup: Korea 2022
 
-- [Down - Solo Cup](https://osu.ppy.sh/beatmapsets/1760520)
-- [Down - Duo Cup](https://osu.ppy.sh/beatmapsets/1765192)
-- [Down - Trio Cup](https://osu.ppy.sh/beatmapsets/1769914)
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [Down - Solo Cup](https://open.spotify.com/album/4qMVTbgHvQThqza3pOgvag) | [#1](https://osu.ppy.sh/beatmapsets/1760520) | Semifinals FM1 |
+| [Down - Duo Cup](https://open.spotify.com/album/4osLwBbvDI7DnWfdujXbGM) | [#1](https://osu.ppy.sh/beatmapsets/1765192) | Finals FM1 |
+| [Down - Trio Cup](https://open.spotify.com/album/7cWOHX315psZpXDp5jC0at) | [#1](https://osu.ppy.sh/beatmapsets/1769914) | Grand Finals DT2 |
 
 #### ![](/wiki/shared/mode/taiko.png) [Expert Global Taiko Showdown 2021](/wiki/Tournaments/GTS/EGTS_2021)
 
-- [Camellia - TremENDouS](https://osu.ppy.sh/beatmapsets/1638764)
-- [Ice - Conclusio Catastropha](https://osu.ppy.sh/beatmapsets/1621712)
-- [II-L - Unidentified Frequency Op.3 (Type-Triangle)](https://osu.ppy.sh/beatmapsets/1632950)
-- [Katagiri - Taboo Assembly](https://osu.ppy.sh/beatmapsets/1651850)
-- [ptar124 - Aqua Regia](https://osu.ppy.sh/beatmapsets/1627334)
-- [ReeK - Multigenre Smackdown](https://osu.ppy.sh/beatmapsets/1627304)
-- [SDMNE - PATERA](https://osu.ppy.sh/beatmapsets/1616127)
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [Camellia - TremENDouS](https://www.youtube.com/watch?v=XXDNPX-oYCI) | [#1](https://osu.ppy.sh/beatmapsets/1638764) | Grand Finals tiebreaker |
+| [Ice - Conclusio Catastropha](https://www.youtube.com/watch?v=N_ocBDUwSGc) | [#1](https://osu.ppy.sh/beatmapsets/1621712) | Semifinals tiebreaker |
+| [II-L - Unidentified Frequency Op.3 (Type-Triangle)](https://www.youtube.com/watch?v=vhsfT7PCp8A) | [#1](https://osu.ppy.sh/beatmapsets/1632950) | Grand Finals NM5 |
+| [katagiri - Taboo Assembly](https://soundcloud.com/katagiri/taboo-assembly) | [#1](https://osu.ppy.sh/beatmapsets/1651850) | Grand Finals NM1 |
+| [ptar124 - Aqua Regia](https://www.youtube.com/watch?v=bUPpSzA0NwI) | [#1](https://osu.ppy.sh/beatmapsets/1627334) | Finals NM1 |
+| [ReeK - Multigenre Smackdown](https://soundcloud.com/reek_wobs/multigenre-smackdown-global-taiko-showdown-2021-finals-tiebreaker) | [#1](https://osu.ppy.sh/beatmapsets/1627304) | Finals tiebreaker |
+| [SDMNE - PATERA](https://soundcloud.com/sdmne/patera-from-egts-2021-tribute) | [#1](https://osu.ppy.sh/beatmapsets/1616127) | Quarterfinals tiebreaker |
 
 #### ![](/wiki/shared/mode/taiko.png) [Expert Global Taiko Showdown 2022](/wiki/Tournaments/GTS/EGTS_2022)
 
-- [A? - WAVE PUNCH](https://osu.ppy.sh/beatmapsets/1823663)
-- [Aoi - TYPE-Rebellion](https://osu.ppy.sh/beatmapsets/1833435)
-- [blobdash - Corrupted Binary StaR](https://osu.ppy.sh/beatmapsets/1846727)
-- [blobdash - Resentment](https://osu.ppy.sh/beatmapsets/1850544)
-- [blobdash & Raphlesia - Recollection](https://osu.ppy.sh/beatmapsets/1828727)
-- [Breakchild & Stoop - blue noah 2022 (Cut Ver.)](https://osu.ppy.sh/beatmapsets/1837866)
-- [DJ Ralsei - Fractured Angel](https://osu.ppy.sh/beatmapsets/1838114)
-- [DJ Witch Girl MIR4CLEN - Danrit](https://osu.ppy.sh/beatmapsets/1842746)
-- [Gardens - Rafflesia](https://osu.ppy.sh/beatmapsets/1833491)
-- [KAH - JUDGE UP DOWN](https://osu.ppy.sh/beatmapsets/1828735)
-- [Kou! - Sanzui](https://osu.ppy.sh/beatmapsets/1846769)
-- [kyou1110 - Mam rozbite sluchatka placem](https://osu.ppy.sh/beatmapsets/1846616)
-- [NIWASHI - Silence is Golden, Speech is Golden](https://osu.ppy.sh/beatmapsets/1833489)
-- [one fourteen - break through](https://osu.ppy.sh/beatmapsets/1850900) 
-- [rN vs. \[Shanom, ptar124 & Zekai\] - dichroma, ludiosia.](https://osu.ppy.sh/beatmapsets/1842219) 
-- [Sad Keyboard Guy - Reflection Shift](https://osu.ppy.sh/beatmapsets/1851049)
-- [Slax - Giri the Giri](https://osu.ppy.sh/beatmapsets/1828739)
-- [Sparxe - Dream Elevator](https://osu.ppy.sh/beatmapsets/1837865)
-- [takehirotei as "Infinite Limit" - Rules of the Chaos Dilemma](https://osu.ppy.sh/beatmapsets/1850782)
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [A? - WAVE PUNCH](https://soundcloud.com/user-709202560/wave-punch) | [#1](https://osu.ppy.sh/beatmapsets/1823663) | Qualifiers HR2 |
+| [Aoi - TYPE-Rebellion](https://www.youtube.com/watch?v=rH4EeaJ1X0c) | [#1](https://osu.ppy.sh/beatmapsets/1833435) | Round of 64 FM1 |
+| [blobdash - Corrupted Binary StaR](https://soundcloud.com/blobdash/corrupted-binary-star) | [#1](https://osu.ppy.sh/beatmapsets/1846727) | Quarterfinals NM1 |
+| [blobdash - Resentment](https://soundcloud.com/blobdash/resentment) | [#1](https://osu.ppy.sh/beatmapsets/1850544) | Semifinals FM2 |
+| [blobdash & Raphlesia - Recollection](https://soundcloud.com/blobdash/recollection) | [#1](https://osu.ppy.sh/beatmapsets/1828727) | Round of 96 Tiebreaker |
+| [DJ Raisei - Fractured Angel](https://www.youtube.com/watch?v=YlaYNIXJAyM) | [#1](https://osu.ppy.sh/beatmapsets/1838114) | Round of 32 Tiebreaker |
+| [DJ Witch Girl MIR4CLEN - Danrit](https://soundcloud.com/mir4clen/osutaiko) | [#1](https://osu.ppy.sh/beatmapsets/1842746) | Round of 16 FM3 |
+| [Gardens - Rafflesia](https://soundcloud.com/gardensdtm/rafflesia) | [#1](https://osu.ppy.sh/beatmapsets/1833491) | Round of 64 tiebreaker |
+| [KAH - Judge UP↑ DOWN↓](https://soundcloud.com/kah_growsong/gts2022judge-up-down) | [#1](https://osu.ppy.sh/beatmapsets/1828735) | Round of 128 FM3 |
+| [Kou! - Sanzui](https://soundcloud.com/kou_desu/sanzui) | [#1](https://osu.ppy.sh/beatmapsets/1846769) | Quarterfinals FM1 |
+| [kyou1110 - Mam rozbite sluchatka placem](https://www.youtube.com/watch?v=eAaJjlP2N_A) | [#1](https://osu.ppy.sh/beatmapsets/1846616) | Quarterfinals tiebreaker |
+| [NIWASHI - Silence is Golden, Speech is Golden](https://soundcloud.com/n1wa5h1/niwashi-silence-is-golden-speech-is-golden) | [#1](https://osu.ppy.sh/beatmapsets/1833489) | Round of 32 NM1 |
+| [one fourteen - break through](https://soundcloud.com/luzeria/breakthrough) | [#1](https://osu.ppy.sh/beatmapsets/1850900) | Semifinals NM1 | 
+| [rN vs. \[Shanom, ptar124 & Zekai\] - dichroma, ludiosia.](https://soundcloud.com/rurinn/dichroma) | [#1](https://osu.ppy.sh/beatmapsets/1842219) | Round of 16 tiebreaker |
+| [Sad Keyboard Guy - Reflection Shift](https://soundcloud.com/sadkeyboardguy/reflection-shift) | [#1](https://osu.ppy.sh/beatmapsets/1851049) | Semifinals FM3 |
+| [Slax - Giri the Giri](https://www.youtube.com/watch?v=2IS9oBstIcY) | [#1](https://osu.ppy.sh/beatmapsets/1828739) | Round of 128 HD2 |
+| [Sparxe - Dream Elevator](https://www.youtube.com/watch?v=twx6tOXXy4Q) | [#1](https://osu.ppy.sh/beatmapsets/1837865) | Round of 32 DT1 |
+| [stoops & breakchild - blue noah 2022](https://soundcloud.com/breakchildaltuwu/blue-noah-2022) | [#1](https://osu.ppy.sh/beatmapsets/1837866) | Round of 32 FM2 |
+| [takehirotei as "Infinite Limit" - Rules of the Chaos Dilemma](https://soundcloud.com/takehirotei/egts-sf-tb-takehirotei-as-infinite-limit-rules-of-the-chaos-dilemma) | [#1](https://osu.ppy.sh/beatmapsets/1850782) | Semifinals tiebreaker |
 
 #### ![](/wiki/shared/mode/osu.png) [Harumachi Cup Ω](/wiki/Tournaments/HC/Omega)
 
-- [BilliumMoto - Harumachi clip your face off](https://osu.ppy.sh/beatmapsets/1817218)
-- [Redside - Harumachi Clover (Redside Bootleg)](https://osu.ppy.sh/beatmapsets/1810414)
-- [VINXIS - Harumachi Clover (VINXIS Dopamine Hit)](https://osu.ppy.sh/beatmapsets/1817125)
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| BilliumMoto - Harumachi clip your face off | [#1](https://osu.ppy.sh/beatmapsets/1817218) | Grand Finals tiebreaker |
+| [Redside - Harumachi Clover (Redside Bootleg)](https://soundcloud.com/redside100/ichimichi-mao-harumachi-clover-redside-bootleg) | [#1](https://osu.ppy.sh/beatmapsets/1810414) | Quarterfinals tiebreaker |
+| VINXIS - Harumachi Clover (VINXIS Dopamine Hit) | [#1](https://osu.ppy.sh/beatmapsets/1817125) | Semifinals tiebreaker |
 
 #### ![](/wiki/shared/mode/taiko.png) [Intermediate Global Taiko Showdown 2021](/wiki/Tournaments/GTS/IGTS_2021)
 
-- [II-L - Asteroid Field of DECAPLETS](https://osu.ppy.sh/beatmapsets/1563553)
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [II-L - Asteroid Field of DECAPLETS](https://www.youtube.com/watch?v=aCNl85O8KCk) | [#1](https://osu.ppy.sh/beatmapsets/1563553) | Grand Finals tiebreaker |
 
 #### ![](/wiki/shared/mode/taiko.png) [Intermediate Global Taiko Showdown 2022](/wiki/Tournaments/GTS/IGTS_2022)
 
-- [Sparxe - Zinnober](https://osu.ppy.sh/beatmapsets/1754903)
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [Sparxe - Zinnober](https://www.youtube.com/watch?v=P_THfvY2ID4) | [#1](https://osu.ppy.sh/beatmapsets/1754903) | Grand Finals tiebreaker |
 
 #### ![](/wiki/shared/mode/mania.png) Jaye's One Key Event 2: Spacebar Jam
 
-- [BilliumMoto & Dictate - 1KARUGA](https://osu.ppy.sh/beatmapsets/1649302)
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [BilliumMoto & Dictate - 1KARUGA](https://soundcloud.com/billiummoto/1karuga) | [#1](https://osu.ppy.sh/beatmapsets/1649302) | Grand Finals tiebreaker |
 
 #### ![](/wiki/shared/mode/taiko.png) LordEnder Global Taiko Showdown 2021
 
-- [pm04034 - Invenzione No. 3N&3R: Sonatina for a Dying Lord](https://osu.ppy.sh/beatmapsets/1569783)
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [pm04034 - Invenzione No. 3N&3R: Sonatina for a Dying Lord](https://soundcloud.com/gtssoundteam/invenzione-no-3n-3r-sonatina) | [#1](https://osu.ppy.sh/beatmapsets/1569783) | Grand Finals tiebreaker |
+
+#### ![](/wiki/shared/mode/osu.png) PsychedelicMush's Scuffed AF Summer Tournament
+
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [SAMString - Crystalised Euphoria](https://www.youtube.com/watch?v=EMsWUqqlwy8) | [#1](https://osu.ppy.sh/beatmapsets/1819473) | Grand Finals NM7 |
 
 #### ![](/wiki/shared/mode/osu.png) osu! Malaysia Tournament 2021
 
-- [takehirotei - Finale Battle of the Requiem](https://osu.ppy.sh/beatmapsets/1524502)
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [takehirotei - Finale Battle of the Requiem](https://www.youtube.com/watch?v=zLwFEpqiUa8) | [#1](https://osu.ppy.sh/beatmapsets/1524502) | Grand Finals tiebreaker |
 
 #### ![](/wiki/shared/mode/osu.png) osu! Malaysia Tournament 2022
 
-- [takehirotei - Alterism](https://osu.ppy.sh/beatmapsets/1819534)
-- [takehirotei as "Infinite Limit" - Fullest Adventure from the Abyss to Divine](https://osu.ppy.sh/beatmapsets/1819550)
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [takehirotei - Alterism](https://soundcloud.com/takehirotei/alterism-full-version) | [#1](https://osu.ppy.sh/beatmapsets/1819534) | Grand Finals NM5 |
+| [takehirotei as "Infinite Limit" - Fullest Adventure from the Abyss to Divine](https://soundcloud.com/takehirotei/takehirotei-as-infinite-limit-fullest-adventure-from-the-abyss-to-divine-omt-2022-gf-tb) | [#1](https://osu.ppy.sh/beatmapsets/1819550) | Grand Finals tiebreaker |
 
 #### ![](/wiki/shared/mode/mania.png) osu! Philippines Nationals 2021
 
-- [NicDroid - Northern Lunar Node](https://osu.ppy.sh/beatmapsets/1524569)
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [NicDroid - Northern Lunar Node](https://www.youtube.com/watch?v=GWltdzuJeJY) | [#1](https://osu.ppy.sh/beatmapsets/1524569) | Grand Finals tiebreaker |
 
 #### ![](/wiki/shared/mode/mania.png) osu! Philippines Nationals 2022
 
-- [Arctic Indexed Systems. - Nightburner](https://osu.ppy.sh/beatmapsets/1803916)
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [Arctic Indexed Systems. - Nightburner](https://soundcloud.com/arcsys04/nightburner) | [#1](https://osu.ppy.sh/beatmapsets/1803916) | Grand Finals tiebreaker |
+
+#### ![](/wiki/shared/mode/taiko.png) osu! Philippines Nationals 2022 - osu!taiko
+
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [NicDroid as "NicDono" - TAMBOL2022](https://www.youtube.com/watch?v=zhecFreHC94) | [#1](https://osu.ppy.sh/beatmapsets/1838613) | Grand Finals tiebreaker |
 
 #### ![](/wiki/shared/mode/osu.png) mezelyus' Summer Tournament 2021
 
-- [SAMString - NUMA](https://osu.ppy.sh/beatmapsets/1570528)
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [SAMString - NUMA](https://soundcloud.com/samstring/numa) | [#1](https://osu.ppy.sh/beatmapsets/1570528) | Grand Finals tiebreaker |
 
 #### ![](/wiki/shared/mode/osu.png) Resurrection Cup
 
-- [Xyris - A Cybernetic-Superluminal-Apocalyptic Post-War Divination](https://osu.ppy.sh/beatmapsets/1814494)
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [Xyris - A Cybernetic-Superluminal-Apocalyptic Post-War Divination](https://soundcloud.com/itsxyris/a-cybernetic-superluminal-apocalyptic-post-war-divination) | [#1](https://osu.ppy.sh/beatmapsets/1814494) | Grand Finals tiebreaker |
 
 #### ![](/wiki/shared/mode/taiko.png) [Rising Global Taiko Showdown 2021](/wiki/Tournaments/GTS/RGTS_2021)
 
-- [Dz'Xa - COSMOBEAT](https://osu.ppy.sh/beatmapsets/1523659)
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [Dz'Xa - COSMOBEAT](https://soundcloud.com/dz_xa/cosmobeat) | [#1](https://osu.ppy.sh/beatmapsets/1523659) | Grand Finals tiebreaker |
 
 #### ![](/wiki/shared/mode/taiko.png) [Squad Global Taiko Showdown 2021](/wiki/Tournaments/GTS/SGTS_2021)
 
-- [Ice vs Yukino - R4incarnation](https://osu.ppy.sh/beatmapsets/1698384)
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [Ice vs Yukino - R4incarnation](https://soundcloud.com/iceloki/r4incarnation-vs-yukino) | [#1](https://osu.ppy.sh/beatmapsets/1698384) | Grand Finals tiebreaker |
 
 #### ![](/wiki/shared/mode/osu.png) The Perennial 2022
 
-- [Down - DeviousPanda](https://osu.ppy.sh/beatmapsets/1789325)
-- [UNDEAD CORPORATION - The Throne](https://osu.ppy.sh/beatmapsets/1789376)
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [Down - DeviousPanda](https://open.spotify.com/album/7o7flUNX2MptKfLVL4Y2bz) | [#1](https://osu.ppy.sh/beatmapsets/1789325) | Grand Finals NM6 |
+| [UNDEAD CORPORATION - The Throne](https://www.youtube.com/watch?v=PCVtU9kWo1w) | [#1](https://osu.ppy.sh/beatmapsets/1789376) | Grand Finals tiebreaker |
 
 ### Released as part of an official song remix contest
 
 #### [osu! "circles!" Remix Contest](https://osu.ppy.sh/home/news/2016-05-06-osu-circles-remix-contest)
 
-- [BilliumMoto - HDHR](https://osu.ppy.sh/beatmapsets/569888)
+
+| Song | Notes |
+| :-: | :-- |
+| [BilliumMoto - HDHR](https://soundcloud.com/billiummoto/hdhr) | Winning entry; later featured in [Monthly Beatmapping Contest #13](https://osu.ppy.sh/home/news/2016-12-09-monthly-beatmapping-contest-13-now-open) |
+| [nekodex - circles! (\[ Argon \] Remix)](https://assets.ppy.sh//contests/1/entries/9.mp3) | |
+| [nekodex - circles! (\[ iL \] Remix)](https://assets.ppy.sh//contests/1/entries/6.mp3) | |
+| [nekodex - circles! (Alarido Remix)](https://assets.ppy.sh//contests/1/entries/2.mp3) | |
+| [nekodex - circles! (Alheak Remix)](https://assets.ppy.sh//contests/1/entries/5.mp3) | |
+| [nekodex - circles! (ayygurl Remix)](https://assets.ppy.sh//contests/1/entries/11.mp3) | |
+| [nekodex - circles! (Chronocide Remix)](https://assets.ppy.sh//contests/1/entries/16.mp3) | |
+| [nekodex - circles! (Daikyi Remix)](https://assets.ppy.sh//contests/1/entries/3.mp3) | |
+| [nekodex - circles! (Flanster Remix)](https://assets.ppy.sh//contests/1/entries/10.mp3) | |
+| [nekodex - circles! (Frail Remix)](https://assets.ppy.sh//contests/1/entries/8.mp3) | |
+| [nekodex - circles! (Halzyn Remix)](https://assets.ppy.sh//contests/1/entries/20.mp3) | |
+| [nekodex - circles! (happy30 Remix)](https://soundcloud.com/happy30/circles-happy30-remix) | |
+| [nekodex - circles! (IOVANOVICI Remix)](https://assets.ppy.sh//contests/1/entries/14.mp3) | |
+| [nekodex - circles! (ItsMapleLeaf Remix)](https://assets.ppy.sh//contests/1/entries/13.mp3) | |
+| [nekodex - circles! (jukosi Remix)](https://assets.ppy.sh//contests/1/entries/18.mp3) | |
+| [nekodex - circles! (Kurokotei Remix)](https://soundcloud.com/dialgadu77/circles-remix) | |
+| [nekodex - circles! (liaoxingyao Remix)](https://assets.ppy.sh//contests/1/entries/1.mp3) | |
+| [nekodex - circles! (Moonlit Remix)](https://assets.ppy.sh//contests/1/entries/17.mp3) | |
+| [nekodex - circles! (Petricpwnz Remix)](https://assets.ppy.sh//contests/1/entries/12.mp3) | |
+| [nekodex - circles! (SFGrenade Remix)](https://assets.ppy.sh//contests/1/entries/7.mp3) | |
+| [nekodex - circles! (Vaxien Remix)](https://assets.ppy.sh//contests/1/entries/19.mp3) | |
 
 #### [A Labour of Love Contest](/wiki/Contests/A_Labour_of_Love_Contest)
 
-- [Down - My Love Remix](https://osu.ppy.sh/beatmapsets/1348553)
-- [Kuba Oms - My Love (0 K Remix) feat. Thievley](https://osu.ppy.sh/beatmapsets/1389031)
-- [Kuba Oms - My Love (DestoppeD Remix)](https://osu.ppy.sh/beatmapsets/1388552)
-- [Kuba Oms - My Love (Maemi no Yume's Remix)](https://osu.ppy.sh/beatmapsets/1389127)
-- [Kuba Oms - My Love (pm04034 Remix)](https://osu.ppy.sh/beatmapsets/1382737)
-- [Kuba Oms - My Love (Raytoly Trance Remix)](https://osu.ppy.sh/beatmapsets/1389153)
-- [Kuba Oms - My Love (Redside Remix) (feat. Hatsune Miku)](https://osu.ppy.sh/beatmapsets/1388993)
-- [Kuba Oms - My Love (Shadren Remix)](https://osu.ppy.sh/beatmapsets/1382412)
-- [Kuba Oms - My Love (takehirotei Remix)](https://osu.ppy.sh/beatmapsets/1390004)
-- [Kuba Oms - My Love (tochi's Atmospheric Remix)](https://osu.ppy.sh/beatmapsets/1389401)
-- [Kuba Oms - My Love (XenjeS' Remix)](https://osu.ppy.sh/beatmapsets/1388590)
-- [Raphlesia & BilliumMoto - My Love](https://osu.ppy.sh/beatmapsets/1388906)
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| Down - My Love Remix | [#1](https://osu.ppy.sh/beatmapsets/1348553) | |
+| [Kuba Oms - My Love (0 K Remix) feat. Thievley](https://soundcloud.com/zero-kelvin-0k/my-love-remix) | [#1](https://osu.ppy.sh/beatmapsets/1389031) | |
+| Kuba Oms - My Love (DestoppeD Remix) | [#1](https://osu.ppy.sh/beatmapsets/1388552) | |
+| Kuba Oms - My Love (Maemi no Yume's Remix) | [#1](https://osu.ppy.sh/beatmapsets/1389127) | |
+| Kuba Oms - My Love (pm04034 Remix) | [#1](https://osu.ppy.sh/beatmapsets/1382737) | |
+| [Kuba Oms - My Love (Raytoly Trance Remix)](https://soundcloud.com/raytoly/kuba-oms-my-love-raytoly-trance-remix) | [#1](https://osu.ppy.sh/beatmapsets/1389153) | |
+| [Kuba Oms - My Love (Redside Remix) (feat. Hatsune Miku)](https://www.youtube.com/watch?v=MGTf7A4B2jw) | [#1](https://osu.ppy.sh/beatmapsets/1388993) | Community Pick wiinner|
+| [Kuba Oms - My Love (Shadren Remix)](https://soundcloud.com/shadren808/kuba-oms-my-love-shadren-remix) | [#1](https://osu.ppy.sh/beatmapsets/1382412) | |
+| [Kuba Oms - My Love (takehirotei Remix)](https://soundcloud.com/takehirotei/kuba-oms-my-love-takehirotei-remix) | [#1](https://osu.ppy.sh/beatmapsets/1390004) | |
+| Kuba Oms - My Love (tochi's Atmospheric Remix) | [#1](https://osu.ppy.sh/beatmapsets/1389401) | |
+| [Kuba Oms - My Love (XenjeS' Remix)](https://www.youtube.com/watch?v=pfmc3QO4Ggs) | [#1](https://osu.ppy.sh/beatmapsets/1388590) | |
+| [Raphlesia & BilliumMoto - My Love](https://soundcloud.com/billiummoto/my-love) | [#1](https://osu.ppy.sh/beatmapsets/1388906) | Overall winner |
 
-### Other osu! originals
+### Miscellaneous osu! originals/osu! originals released as a standalone beatmap
 
-- [dksslqj - Oriental Creation](https://osu.ppy.sh/beatmapsets/1678494)
-- [dksslqj - osu! Fan Cafe Logosong](https://osu.ppy.sh/beatmapsets/148421)
-- [Down - AJT](https://osu.ppy.sh/beatmapsets/1705780)
-- [Down - Ekoro](https://osu.ppy.sh/beatmapsets/1683876)
-- [Down - Luscent](https://osu.ppy.sh/beatmapsets/1641533)
-- [Ketchup - ProjectUnreality](https://osu.ppy.sh/beatmapsets/9077)
-- [osu! training man - TRAINING-1](https://osu.ppy.sh/beatmapsets/1727804)
-- [Rabbit House - Muspelheim](https://osu.ppy.sh/beatmapsets/815126)
-- [Shadren - Fanteer](https://osu.ppy.sh/beatmapsets/725913)
-- [tieff - Sound of Night](https://osu.ppy.sh/beatmapsets/15952)
-- [tochi - Ascension (feat. Yoko Kanno)](https://osu.ppy.sh/beatmapsets/1267316)
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [Dictate - IMITATE](https://soundcloud.com/dictate/imitate) | [#1](https://osu.ppy.sh/beatmapsets/1201530) | |
+| dksslqj - Oriental Creation | [#1](https://osu.ppy.sh/beatmapsets/1678494) | |
+| dksslqj - osu! Fan Cafe Logosong | [#1](https://osu.ppy.sh/beatmapsets/148421) | |
+| [Down - Chosun](https://open.spotify.com/album/24NP8pha5J7pWXJeeay8eR) | [#1](https://osu.ppy.sh/beatmapsets/1833547) | |
+| [Down - Ekoro](https://open.spotify.com/album/5nbet60aPK4tJCK3GVXhL2) | [#1](https://osu.ppy.sh/beatmapsets/1683876) | |
+| [Down - Luscent](https://open.spotify.com/album/05WPXYcvcDfAp91stvhpiz) | [#1](https://osu.ppy.sh/beatmapsets/1641533) | |
+| handsome muscle - Lost in nightmare | [#1](https://osu.ppy.sh/beatmapsets/552125) | |
+| Jar - ztrout's Visit to The Proctologist | [#1](https://osu.ppy.sh/beatmapsets/21145) | |
+| Ketchup - ProjectUnreality | [#1](https://osu.ppy.sh/beatmapsets/9077) | |
+| [Natteke ft. tieff - Endless Tower](https://www.youtube.com/watch?v=TNAGrCBfQKc) | [#1](https://osu.ppy.sh/beatmapsets/17076) | Later featured in [osu!stream](/wiki/osu!stream) |
+| [Natteke ft. tieff - The Dream](https://www.youtube.com/watch?v=vtVT3A-ALUQ) | [#1](https://osu.ppy.sh/beatmapsets/16599#osu/59406) | Later featured in [osu!stream](/wiki/osu!stream) |
+| [osu! training man - TRAINING-1](https://www.youtube.com/watch?v=jS2r8PuyymI) | [#1](https://osu.ppy.sh/beatmapsets/1727804) | |
+| [Rabbit House - Muspelheim](https://soundcloud.com/dksslqj/muspelheim) | [#1](https://osu.ppy.sh/beatmapsets/815126) | |
+| [Shadren - Fanteer](https://soundcloud.com/shadren808/fanteer) | [#1](https://osu.ppy.sh/beatmapsets/725913) | |
+| tieff - Sound of Night | [#1](https://osu.ppy.sh/beatmapsets/15952) | |
+| [tochi - Ascension (feat. Yoko Kanno)](https://www.youtube.com/watch?v=XvpOwOgdRww) | [#1](https://osu.ppy.sh/beatmapsets/1267316) | |
