@@ -65,9 +65,9 @@ The community managed to figure out all of the medals within 5 days of their rel
 
 ![](/wiki/shared/news/2022-10-01-osumonthly-3/corsacebanner.jpg)
 
-If you don't already know by now, Corsace Open is one of two yearly tournaments run by [VINXIS](https://osu.ppy.sh/users/4323406) and is widely considered to be one of the best osu! tournaments of the year, constantly raising the bar for high end tournaments with formatting changes, custom high quality maps and commissioned songs that were made specifically for Corsace! Speaking of commissioned songs, you can check all of the Corsace Open 2022 originals out via their official playlist:
+If you don't already know by now, Corsace Open is one of two yearly tournaments hosted by [VINXIS](https://osu.ppy.sh/users/4323406) and is widely considered to be one of the best osu! tournaments of the year, constantly raising the bar for high end tournaments with formatting changes, custom high quality maps and commissioned songs that were made specifically for Corsace! Speaking of commissioned songs, you can check all of the Corsace Open 2022 originals out via their official playlist:
 
-<iframe src="https://www.youtube-nocookie.com/embed/videoseries?list=playlist_id" allow="autoplay; encrypted-media" allowfullscreen="" width="100%" height="400" frameborder="0"></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/videoseries?list=PLEl1E3ToUuS3pGhy6LwqBjgkIA7zY_Rux" allow="autoplay; encrypted-media" allowfullscreen="" width="100%" height="400" frameborder="0"></iframe>
 
 Congratulations to the top 3 teams! If you are wanting to catch up with Corsace or just watch a match you missed, you can do so on the [Corsace YouTube channel](https://www.youtube.com/c/Corsace), VODS are already available to watch for the entirety of this year's rendition.
 
