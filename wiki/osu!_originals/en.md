@@ -82,6 +82,8 @@ All osu! originals that have been licensed by the game are cleared for use in os
 
 #### [yuki.](https://osu.ppy.sh/beatmaps/artists/4)
 
+*For the announcement news post, see: [Community Mapping Contest #1 - yuki. (Nadeshiko Sensation)](https://osu.ppy.sh/home/news/2016-09-28-community-mapping-contest-1-yuki-nadeshiko)*
+
 | Song | Notes |
 | :-: | :-- |
 | [yuki. - Be Your Light](https://osu.ppy.sh/beatmaps/artists/tracks?artist=yuki.&query=Be%20Your%20Light) |  |
