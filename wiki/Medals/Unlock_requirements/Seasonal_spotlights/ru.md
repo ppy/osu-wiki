@@ -1,6 +1,6 @@
 # Условия получения медалей Seasonal Spotlights
 
-| Название медали	 | Условие |
+| Название медали | Условие |
 | :-- | :-- |
 | Summer 2018 Beatmap Spotlights | Пройти все карты одной из подборок Beatmap Spotlights: Summer 2018 ([osu!](https://osu.ppy.sh/beatmaps/packs/1508)/[osu!taiko](https://osu.ppy.sh/beatmaps/packs/1509)/[osu!catch](https://osu.ppy.sh/beatmaps/packs/1510)/[osu!mania](https://osu.ppy.sh/beatmaps/packs/1511)). |
 | Fall 2018 Beatmap Spotlights | Пройти все карты одной из подборок Seasonal Spotlights: Fall 2018 ([osu!](https://osu.ppy.sh/beatmaps/packs/1548)/[osu!taiko](https://osu.ppy.sh/beatmaps/packs/1549)/[osu!catch](https://osu.ppy.sh/beatmaps/packs/1550)/[osu!mania](https://osu.ppy.sh/beatmaps/packs/1551)). |
