@@ -1,8 +1,4 @@
----
-outdated_translation: true
----
-
-# Modding (Español)
+# Modding
 
 *Para otros usos, revisar [Mod (desambiguación)](/wiki/Disambiguation/Mod).*
 
@@ -14,9 +10,9 @@ Los Mods son principalmente usados para mejorar beatmaps que apuntan a un [estad
 
 Mientras hay incontables maneras de descubrir beatmaps para modear, los siguientes son algunos métodos comunes:
 
-- La [cola del foro de modding](https://osu.ppy.sh/community/forums/60) es la plataforma usada más activa para encontrar beatmaps para modear y para solicitar mods. Un usuario puede crear su propio hilo, refiriéndose como una *cola*, para que otros usuarios publiquen beatmaps que quieran que sean modeados.
+- La [Modding queue forum](https://osu.ppy.sh/community/forums/60) es la plataforma usada más activa para encontrar beatmaps para modear y para solicitar mods. Un usuario puede crear su propio hilo, refiriéndose como una *queue*, para que otros usuarios publiquen beatmaps que quieran que sean modeados.
 
-  El creador de cada cola dicta las reglas de cola, controlando que beatmaps son viables para recibir mods. Las colas usualmente abren por solicitudes de dos tipos de mods:
+  El creador de cada queue dicta las reglas de cola, controlando que beatmaps son viables para recibir mods. Las colas usualmente abren por solicitudes de dos tipos de mods:
   
   - **Normal mod (NM):** Un mod que será proporcionado sin recibir trabajo alguno por parte del beatmaper solicitante.
   - **Mod for Mod (M4M):** Un intercambio que requiere que cada usuario modee el beatmap del otro.
@@ -29,7 +25,7 @@ Mientras hay incontables maneras de descubrir beatmaps para modear, los siguient
 
 Para modear un beatmap, empieza descargando la versión más reciente y abre su [página de discusión](/wiki/Beatmap_discussion). Juega la [dificultad](/wiki/Beatmap/Difficulty) que quieras modear y ten en cuenta cualquier problema relacionado con el gameplay. Cuando finalices, abre la dificultad en el editor y analízala para encontrar otros errores.
 
-Cuando te encuentres con un problema, selecciona los hit objects que sean relevantes, luego usa el atajo de copia (`Ctrl` + `C`) para copiar la información de la línea de tiempo como texto. En la discusión del beatmap, pega (`Ctrl` + `V`) cualquier línea de tiempo aplicable y tu retroalimentación.
+Cuando te encuentres con un problema, selecciona los hit objects que sean relevantes, luego usa el atajo de copia (`Ctrl` + `C`) para copiar la información de la línea de tiempo como texto. En la discusión del beatmap, pega (`Ctrl` + `V`) cualquier línea de tiempo aplicable y tu retroalimentación. La pestaña de la `linea del tiempo` se usa para problemas con respecto a partes específicas de un beatmap, la pestaña `General (Esta dificultad)` se usa para dar retroalimentación en secciones largas de un beatmap, y la pestaña `General (Todas las dificultades)` se usa para problemas que se apliquen con todas las dificultades de un beatmap.
 
 Todos los mod posts deben abordar cuál es el problema, porque es un problema, y como arreglarlo. Revise el [Código de conducta para modear y mapear](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping#making-a-mod-post) para más detalles en como dar formato a los mod posts.
 
