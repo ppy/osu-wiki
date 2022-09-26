@@ -22,7 +22,7 @@ These tips appear at the bottom of the [main menu](/wiki/Client/Interface#main-m
 - You can efficiently navigate large lists of beatmaps in [song select](/wiki/Client/Interface#song-select) by holding left-mouse to drag the list, or right-mouse to quick-seek.
 - Press `F8`/`F9` anywhere in game to join osu! [chat](/wiki/Client/Interface/Chat_console)!
 - Right-clicking on a beatmap or clicking the `Beatmap Options` button in the song select will show a menu that will allow you to manage the beatmap.
-- If your game or mouse [feels laggy](/wiki/Performance_troubleshooting), try toggling the `Framerate Limit` in [Options](/wiki/Client/Options) or using `Fullscreen mode`/`Letterboxing`! It might just help!
+- If your game or mouse [feels laggy](/wiki/Performance_troubleshooting), try toggling the `Framerate Limit`[^frame-limiter] in [Options](/wiki/Client/Options) or using `Fullscreen mode`/`Letterboxing`! It might just help!
 - For fast combos, try toggling between left and right mouse button, or use keyboard alternative `Z`/`X`!
 - If you can't play videos, take a look at the wiki before posting a bug report!
 - Take a screenshot from within osu! by hitting `F12`.
@@ -64,7 +64,7 @@ These tips appear in the [beatmap editor](/wiki/Client/Beatmap_editor) below the
 - Try synchronising the most important sounds in a song to clicks in gameplay. This is especially important when deciding slider [rhythms](/wiki/Music_theory/Rhythm)!
 - The [`Beat Snap Divisor`](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) option in the top right determines how objects synchronise to music. For most songs, sticking to the default `1/4` value will work fine.
 - If you're looking for feedback on your map, check out the Modding Queues forum, the `#modreqs` channel in-game, or ask your friends for advice!
-- Settings like HP drain, Circle Size, and Approach Rate can be adjusted in the `Difficulty` tab of `Song Setup` (`F4`).
+- Settings like [HP drain](/wiki/Beatmap/HP_drain_rate), [circle size](/wiki/Beatmap/Circle_size), and [approach rate](/wiki/Beatmap/Approach_rate) can be adjusted in the `Difficulty` tab of [`Song Setup`](/wiki/Client/Beatmap_editor/Song_Setup) (`F4`).
 - Bookmarks (`Ctrl` + `B`) are a fantastic tool to visualise a song's changes. Many mappers separate large sections of music with bookmarks to easily coordinate changes in their mapping.
 - Try reading the site's wiki, asking a question in `#modhelp`, or posting on the [Beatmap Help forum](https://osu.ppy.sh/community/forums/56) if you need additional mapping information!
 - [Test your beatmap](/wiki/Client/Beatmap_editor/Test_mode) (`F5`) to identify potential gameplay problems and improvements.
@@ -116,3 +116,7 @@ These tips appear in the [lazer version of the client](https://github.com/ppy/os
 - [Client/Interface](/wiki/Client/Interface)
 - [Client/Beatmap editor](/wiki/Client/Beatmap_editor)
 - [Client/Shortcut key reference](/wiki/Client/Keyboard_shortcuts)
+
+## Notes
+
+[^frame-limiter]: Nowadays called "Frame limiter".
