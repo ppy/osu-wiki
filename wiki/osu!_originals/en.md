@@ -2,11 +2,11 @@
 
 **osu! originals** are songs that are specifically made for (or otherwise first premiered in) osu! or other osu!-related events such as tournaments, contests, and [Featured Artist](/wiki/Featured_Artists) announcements. While not all osu! originals are officially licensed and included in the [Featured Artist library](https://osu.ppy.sh/beatmaps/artists), the songs that do are commonly distinguished by the `ORIGINAL` label on their respective artists' pages.
 
-All osu! originals that have been licensed by the game are cleared for use in osu! under a non-exclusive term as per the [osu! music licensing policy](/wiki/Legal/Music_licensing). With the exception of bootleg tracks and certain remixes, other osu! originals generally fall under a similar provision unless otherwise specified.
+All osu! originals that have been licensed by the game are cleared for use in osu! under non-exclusive terms as per the [osu! music licensing policy](/wiki/Legal/Music_licensing). With the exception of bootleg tracks and certain remixes, other osu! originals generally fall under a similar provision unless otherwise specified.
 
 ## List of osu! originals
 
-### Released as part of osu!'s ecosystem
+### osu! original soundtrack
 
 | Song | Notes |
 | :-: | :-- |
@@ -22,7 +22,7 @@ All osu! originals that have been licensed by the game are cleared for use in os
 | [nekodex - welcome to osu!](https://soundcloud.com/nekodex/welcome-to-osu) | Former osu! theme |
 | [Peter Lambert - osu! tutorial](https://osu.ppy.sh/beatmapsets/3756) | Former tutorial song |
 
-### Released as part of a Featured Artist catalogue addition
+### Featured Artist exclusive releases
 
 #### [cYsmix](https://osu.ppy.sh/beatmaps/artists/2)
 
@@ -106,7 +106,7 @@ All osu! originals that have been licensed by the game are cleared for use in os
 | :-: | :-- |
 | [ZxNX - Altair](https://soundcloud.com/zxnx/alt) |  |
 
-### Released as part of an official tournament
+### Official tournament releases
 
 #### ![](/wiki/shared/mode/osu.png) [osu! World Cup 2020](/wiki/Tournaments/OWC/2020)
 
@@ -167,7 +167,7 @@ All osu! originals that have been licensed by the game are cleared for use in os
 | :-: | :-: | :-- |
 | [aa...hisuichazuke... - steganography](https://www.youtube.com/watch?v=CRD-2sk6Zt8) | [#1](https://osu.ppy.sh/beatmapsets/1846639) | Grand Finals tiebreaker |
 
-### Released as part of a community-run tournament
+### Community-run tournament releases
 
 #### ![](/wiki/shared/mode/mania.png) [4 Digit osu!mania World Cup 4](/wiki/Tournaments/4DM/4)
 
@@ -221,7 +221,7 @@ All osu! originals that have been licensed by the game are cleared for use in os
 | :-: | :-: | :-- |
 | [Down - ddm](https://open.spotify.com/album/5ygle8UZPbAqJ8XuMAKgnl) | [#1](https://osu.ppy.sh/beatmapsets/1764656) | Quarterfinals NM6 |
 | [Kyutatsuki - \_alc.yone](https://www.youtube.com/watch?v=_LkXGLHR6Tg) | [#1](https://osu.ppy.sh/beatmapsets/1781161) | Grand Finals NM4 |
-| [VINXIS - Commencement](https://www.youtube.com/watch?v=5W2xUCevUUQ) | *N/A* | Livestream BGM |
+| [VINXIS - Commencement](https://www.youtube.com/watch?v=5W2xUCevUUQ) |  | Livestream BGM |
 
 #### ![](/wiki/shared/mode/osu.png) Corsace Open 2021
 
@@ -402,7 +402,7 @@ All osu! originals that have been licensed by the game are cleared for use in os
 | [Down - DeviousPanda](https://open.spotify.com/album/7o7flUNX2MptKfLVL4Y2bz) | [#1](https://osu.ppy.sh/beatmapsets/1789325) | Grand Finals NM6 |
 | [UNDEAD CORPORATION - The Throne](https://www.youtube.com/watch?v=PCVtU9kWo1w) | [#1](https://osu.ppy.sh/beatmapsets/1789376) | Grand Finals tiebreaker |
 
-### Released as part of an official song remix contest
+### Official song remix contest releases
 
 #### [osu! "circles!" Remix Contest](https://osu.ppy.sh/home/news/2016-05-06-osu-circles-remix-contest)
 
@@ -447,7 +447,7 @@ All osu! originals that have been licensed by the game are cleared for use in os
 | [Kuba Oms - My Love (XenjeS' Remix)](https://www.youtube.com/watch?v=pfmc3QO4Ggs) | [#1](https://osu.ppy.sh/beatmapsets/1388590) |  |
 | [Raphlesia & BilliumMoto - My Love](https://soundcloud.com/billiummoto/my-love) | [#1](https://osu.ppy.sh/beatmapsets/1388906) | Overall winner |
 
-### Miscellaneous osu! originals/osu! originals released as a standalone beatmap
+### Standalone beatmap releases
 
 | Song | Beatmap | Notes |
 | :-: | :-: | :-- |
