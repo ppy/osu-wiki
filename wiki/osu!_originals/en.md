@@ -26,7 +26,7 @@ All osu! originals that have been licensed by the game are cleared for use in os
 
 #### [cYsmix](https://osu.ppy.sh/beatmaps/artists/2)
 
-*For the announcement news post, see: [Mapping With Rewards (Sep. 2015))*
+*For the announcement news post, see: [Mapping With Rewards (Sep. 2015)](https://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015)*
 
 | Song | Notes |
 | :-: | :-- |
