@@ -10,15 +10,15 @@ All osu! originals that have been licensed by the game are cleared for use in os
 
 | Song | Notes |
 | :-: | :-- |
-| [cYsmix - triangles](https://soundcloud.com/olemlanglie/cysmix-triangles-osulazer) | Current osu!(lazer) main theme |
-| [nekodex - aureole](https://soundcloud.com/nekodex/aureole) | Christmas/Winter 2017 osu! theme |
-| [nekodex - circles!](https://soundcloud.com/nekodex/circles) | 2015 osu! theme |
-| [nekodex - carol of the circles](https://soundcloud.com/nekodex/carol-of-the-circles) | Christmas/Winter 2019 osu! theme |
-| [nekodex - Little Drummer Girl](https://soundcloud.com/nekodex/carol-of-the-circles) | Christmas/Winter 2020 osu! theme |
-| [nekodex - Liquid Future](https://soundcloud.com/nekodex/liquid-future) | Original composition for [osu!stream](/wiki/osu!stream) |
+| [cYsmix - triangles](https://soundcloud.com/olemlanglie/cysmix-triangles-osulazer)[^fa-catalogue] | Current osu!(lazer) main theme |
+| [nekodex - aureole](https://soundcloud.com/nekodex/aureole)[^fa-catalogue] | Christmas/Winter 2017 osu! theme |
+| [nekodex - circles!](https://soundcloud.com/nekodex/circles)[^fa-catalogue] | 2015 osu! theme |
+| [nekodex - carol of the circles](https://soundcloud.com/nekodex/carol-of-the-circles)[^fa-catalogue] | Christmas/Winter 2019 osu! theme |
+| [nekodex - Little Drummer Girl](https://soundcloud.com/nekodex/carol-of-the-circles)[^fa-catalogue] | Christmas/Winter 2020 osu! theme |
+| [nekodex - Liquid Future](https://soundcloud.com/nekodex/liquid-future)[^fa-catalogue] | Original composition for [osu!stream](/wiki/osu!stream) |
 | [nekodex - new beginnings](https://osu.ppy.sh/beatmapsets/1011011) | Current tutorial song |
 | [nekodex - osu!stream theme](https://soundcloud.com/nekodex/osu-stream-theme) | [osu!stream](/wiki/osu!stream) main theme |
-| [nekodex - welcome to christmas!](https://soundcloud.com/nekodex/welcome-to-christmas) | [osu!stream](/wiki/osu!stream) main theme |
+| [nekodex - welcome to christmas!](https://soundcloud.com/nekodex/welcome-to-christmas)[^fa-catalogue] | [osu!stream](/wiki/osu!stream) main theme |
 | [nekodex - welcome to osu!](https://soundcloud.com/nekodex/welcome-to-osu) | Former osu! theme |
 | [Peter Lambert - osu! tutorial](https://osu.ppy.sh/beatmapsets/3756) | Former tutorial song |
 
@@ -408,7 +408,7 @@ All osu! originals that have been licensed by the game are cleared for use in os
 
 | Song | Notes |
 | :-: | :-- |
-| [BilliumMoto - HDHR](https://soundcloud.com/billiummoto/hdhr) | Winning entry, later featured in [Monthly Beatmapping Contest #13](https://osu.ppy.sh/home/news/2016-12-09-monthly-beatmapping-contest-13-now-open) |
+| [BilliumMoto - HDHR](https://soundcloud.com/billiummoto/hdhr)[^fa-catalogue] | Winning entry, later featured in [Monthly Beatmapping Contest #13](https://osu.ppy.sh/home/news/2016-12-09-monthly-beatmapping-contest-13-now-open) |
 | [nekodex - circles! (\[ Argon \] Remix)](https://assets.ppy.sh//contests/1/entries/9.mp3) |  |
 | [nekodex - circles! (\[ iL \] Remix)](https://assets.ppy.sh//contests/1/entries/6.mp3) |  |
 | [nekodex - circles! (Alarido Remix)](https://assets.ppy.sh//contests/1/entries/2.mp3) |  |
