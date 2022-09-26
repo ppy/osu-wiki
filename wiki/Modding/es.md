@@ -39,4 +39,4 @@ Muchos mod posts abordan errores en un beatmap. Por ejemplo, un clap hitsound fa
 
 Proveer maneras alternativas de beatmapping es otro tipo común de mod posts. Mientras parte del beatmap pueda ser aceptable en su forma actual, un modder puede explicar como mejorarlo aún más diseñándolo de manera distinta.
 
-En los beatmaps que apuntan por un estado Ranked, es imprescindible asegurarse de que cumplan con los [criterios de clasificación](/wiki/Ranking_Criteria). Varios mod posts abordan problemas mencionados directamente desde estos mismos criterios. 
+En los beatmaps que apuntan por un estado Clasificado, es imprescindible asegurarse de que cumplan con los [criterios de clasificación](/wiki/Ranking_Criteria). Varios mod posts abordan problemas mencionados directamente desde estos mismos criterios. 
