@@ -224,6 +224,26 @@ The Expert Global Taiko Showdown 2022 is run by various community members.
 
 ## Match results
 
+### Semifinals
+
+Saturday, 24 September 2022:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Minekuchi** ::{ flag=DE }:: | **7** | 5 | ::{ flag=JP }:: kanten\_07 | [#1](https://osu.ppy.sh/community/matches/103992098) |
+| Nekomusya7563 ::{ flag=JP }:: | 1 | **7** | ::{ flag=JP }:: **kotohira\_06** | [#1](https://osu.ppy.sh/community/matches/103994978) |
+| Six b0xes ::{ flag=JP }:: | -1 | **0** | ::{ flag=SE }:: **Nurend** | *win by default* |
+| **Ulqui** ::{ flag=CL }:: | **7** | 3 | ::{ flag=US }:: Miniature Lamp | [#1](https://osu.ppy.sh/community/matches/104009963) |
+
+Sunday, 25 September 2022:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Minekuchi** ::{ flag=DE }:: | **0** | -1 | ::{ flag=SE }:: Nurend | *win by default* |
+| **Seren58** ::{ flag=JP }:: | **7** | 2 | ::{ flag=JP }:: hz404 | [#1](https://osu.ppy.sh/community/matches/104021669) |
+| **Grape\_Tea** ::{ flag=JP }:: | **7** | 4 | ::{ flag=GB }:: goheegy | [#1](https://osu.ppy.sh/community/matches/104022632) |
+| kotohira\_06 ::{ flag=JP }:: | 6 | **7** | ::{ flag=CL }:: **Ulqui** | [#1](https://osu.ppy.sh/community/matches/104025263) |
+
 ### Quarterfinals
 
 Saturday, 17 September 2022:
