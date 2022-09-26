@@ -74,6 +74,33 @@ The Expert Global Taiko Showdown 2022 is run by various community members.
 
 ## Mappools
 
+### Semifinals
+
+**[Download the mappack here! (90 MB)](https://mega.nz/file/vZgBTbCD#nqRYBScGRkp6tAz6cUUNpHRtVdYUlIUApQkAUzr3x8U)**
+
+- NoMod
+  1. [one fourteen - break through (Ideal) \[Armageddon (EGTS Edit)\]](https://osu.ppy.sh/beatmapsets/1850900#taiko/3802268)
+  2. [Kobaryo - Theme for Psychopath Justice (Hivie) \[you lose (5)\]](https://osu.ppy.sh/beatmapsets/1850906#taiko/3802276)
+  3. [Sven Noon - The Map (uone) \[Taiko\]](https://osu.ppy.sh/beatmapsets/1850669#taiko/3801800)
+  4. [gingus - dont say "i can sample that" for 24 hours challenge (Mew) \[dont say "i can do nm4" for 1 week challenge\]](https://osu.ppy.sh/beatmapsets/1850910#taiko/3802289)
+  5. [MYUKKE. - BUNA\*SYNERGY!!! (KTYN) \[SYNERGY\]](https://osu.ppy.sh/beatmapsets/1851093#taiko/3802715)
+  6. [rN - ad:roreschach (\[Zeth\]) \[pareidolia\]](https://osu.ppy.sh/beatmapsets/1850832#taiko/3802131)
+- Hidden
+  1. [Frums - Living Will (\_mtk) \[Fapu & Mutsuki's Existential Crisis (Zeth ver.)\]](https://osu.ppy.sh/beatmapsets/1850837#taiko/3802137)
+  2. [Xat0li - Rin (MTNTWarz) \[Phantasmagoria\]](https://osu.ppy.sh/beatmapsets/1850743#taiko/3801970)
+- HardRock
+  1. [MonarX - Nanzen Karakurenai No Mai (rubies87) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1850969#taiko/3802457)
+  2. [Zenpaku - Enkindle feat. vally.exe (Raphalge) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1850934#taiko/3802329)
+- DoubleTime
+  1. [Ayaponzu\* - Streaming Heart (X a v y) \[Heartbreak\]](https://osu.ppy.sh/beatmapsets/1850620#taiko/3801713)
+  2. [Alquimia - Indomable (Raiden) \[Unbreakable\]](https://osu.ppy.sh/beatmapsets/1850943#taiko/3802364)
+- FreeMod
+  1. [Camellia - THE MUZZLE FACING (Stingy) \[Stingy & Nwolf's Massacre\]](https://osu.ppy.sh/beatmapsets/1850945#taiko/3802374)
+  2. [blobdash - Resentment (Ak1o) \[Inner Hatred\]](https://osu.ppy.sh/beatmapsets/1850544#taiko/3801533)
+  3. [Sad Keyboard Guy - Reflection Shift (Cynplytholowazy) \[Universe\]](https://osu.ppy.sh/beatmapsets/1851049#taiko/3802634)
+- Tiebreaker
+  1. **[takehirotei as ''Infinite Limit'' - Rules of the Chaos Dilemma (MTNTWarz) \[Amplectere Confusionem\]](https://osu.ppy.sh/beatmapsets/1850782#taiko/3802036)**
+
 ### Quarterfinals
 
 **[Download the mappack here! (76 MB)](https://mega.nz/file/WEQ11Sib#F6ggB55W8EkjoVaQkVGY4_9hjOSjxK07estwFq-Weuk)**
