@@ -92,6 +92,6 @@ Alongside all those big changes above, there are some changes on the smaller sid
 
 ---
 
-We hope you enjoy the changes and blah blah I can't really write outros so I hope my wiki friends help
+If you're curious about the development of performance points, have a look at the `#difficulty-osu` channel in the [osu!dev Discord server](https://discord.gg/ppy). If you're *really* curious about the under-the-hood details, then we're happy to tell you that there is also a dedicated [Performance Points Discord server](https://discord.gg/aqPCnXu), where much of the development and discussion is organised.
 
 —the osu! pp committee
