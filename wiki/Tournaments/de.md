@@ -26,6 +26,7 @@ Der osu! World Cup ist ein länderbasiertes 4v4-Team-VS-Turnier mit Doppelaussch
 | [osu! World Cup 2019](OWC/2019) | 09.11.2019 | 22.12.2019 | ::{ flag=US }:: Vereinigte Staaten | ::{ flag=KR }:: Südkorea | ::{ flag=GB }:: Vereinigtes Königreich |
 | [osu! World Cup 2020](OWC/2020) | 24.10.2020 | 06.12.2020 | ::{ flag=US }:: Vereinigte Staaten | ::{ flag=DE }:: Deutschland | ::{ flag=CA }:: Kanada |
 | [osu! World Cup 2021](OWC/2021) | 09.10.2021 | 28.11.2021 | ::{ flag=US }:: Vereinigte Staaten | ::{ flag=DE }:: Deutschland | ::{ flag=KR }:: Südkorea |
+| [osu! World Cup 2022](OWC/2022) | 15.10.2022 | 27.11.2022 | *TBD* | *TBD* | *TBD* |
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko World Cup
 
@@ -78,7 +79,7 @@ Der osu! World Cup ist ein länderbasiertes 4v4-Team-VS-Turnier mit Doppelaussch
 | [osu!mania 4K World Cup 2020](MWC/2020_4K) | 15.08.2020 | 20.09.2020 | ::{ flag=BR }:: Brasilien | ::{ flag=JP }:: Japan | ::{ flag=KR }:: Südkorea |
 | [osu!mania 4K World Cup 2021](MWC/2021_4K) | 31.07.2021 | 19.09.2021 | ::{ flag=BR }:: Brasilien | ::{ flag=US }:: Vereinigte Staaten | ::{ flag=MY }:: Malaysia |
 | [osu!mania 7K World Cup 2022](MWC/2022_7K) | 16.12.2021 | 20.02.2022 | ::{ flag=KR }:: Südkorea | ::{ flag=CN }:: China | ::{ flag=MY }:: Malaysia |
-| [osu!mania 4K World Cup 2022](MWC/2022_4K) | 07.07.2022 | 18.09.2022 | *TBD* | *TBD* | *TBD* |
+| [osu!mania 4K World Cup 2022](MWC/2022_4K) | 07.07.2022 | 18.09.2022 |  ::{ flag=KR }:: Südkorea | ::{ flag=BR }:: Brasilien | ::{ flag=US }:: Vereinigte Staaten |
 
 ## Community
 
@@ -104,6 +105,12 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | 3 Digit World Cup | 15.03.2019 | 26.05.2019 | ::{ flag=KR }:: Südkorea | ::{ flag=RU }:: Russische Föderation | ::{ flag=US }:: Vereinigte Staaten |
 | 3 Digit World Cup 2020 | 16.03.2020 | 31.05.2020 | ::{ flag=US }:: Vereinigte Staaten | ::{ flag=BR }:: Brasilien | ::{ flag=TW }:: Taiwan |
 | [3 Digit World Cup 2021](3WC/2021) | 24.02.2021 | 09.05.2021 | ::{ flag=TW }:: Taiwan | ::{ flag=PL }:: Polen | ::{ flag=US }:: Vereinigte Staaten |
+
+#### Ascaveth Invitational Tournament
+
+| Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| Ascaveth Invitational Tournament 2022 | 03.09.2022 | 03.09.2022 | ::{ flag=ID }:: [Vinno](https://osu.ppy.sh/users/10717635) | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275) |
 
 #### Aus/NZ osu!standard Tournament
 
