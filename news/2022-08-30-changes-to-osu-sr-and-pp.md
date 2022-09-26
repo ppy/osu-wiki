@@ -54,6 +54,10 @@ The system now compares the 300 hit window size to the time between the previous
 
 If you want to visualise how this works with different note timings, feel free to play around with this [interactive Desmos graph](https://www.desmos.com/calculator/zl1hfqd9hm).
 
+### Touch screen now affects star rating
+
+Ever since 2017, scores with touch screen detection have a reduction to aim pp - but not star rating. This means that players with touch screen could attain medals for higher star ratings, despite the system valuing touch screen aim less. This nerf has now been applied to star rating as well with [this change](https://github.com/ppy/osu/pull/16524) proposed by [StanR](https://osu.ppy.sh/users/7217455), making the aim requirement for medals ~20% higher for touch screen players.
+
 ### Flashlight changes
 
 The incredible illuminator [MBmasher](https://osu.ppy.sh/users/4498616) continues his focused efforts on improving Flashlight difficulty calculation, yielding a series of changes to the Flashlight skill that were introduced in the last deployment.
@@ -83,6 +87,14 @@ The bonus only kicks in once a slider is fast enough since slow sliders are easi
 - [**Remove decay factor.**](https://github.com/ppy/osu/pull/15728) The skill was accidentally double-dipping by having two methods of decaying objects operating simultaneously. The decay factor was removed, buffing mostly stream maps in the process.
 - [**Fix cumulative strain time calculation.**](https://github.com/ppy/osu/pull/15867) One of the factors which the Flashlight skill uses to calculate memorisation difficulty is the gap in time between a given object and one of its previous objects. The calculation was incorrect and is now fixed.
 - [**Remove difficulty spike nerf.**](https://github.com/ppy/osu/pull/18791) This nerf was a leftover from the aim and speed skills and it didn't make much sense with respect to non-mechanical difficulty skills such as Flashlight so it was removed.
+
+### Difficulty calculation refactor for Skills
+
+Trying to calculate the difficulty of an arbitrary random object in a map would currently pose a problem: difficulty calculation is state-dependent. In other words, we must process every object up to the aforementioned arbitrary object just to calculate it - which happens to be inefficient and unwieldy to use. Following a refactor effort by [Apo11o](https://osu.ppy.sh/users/9558549), this problem is alleviated!
+
+To calculate an object's difficulty, it's previous objects may be referenced. For example, a velocity change bonus will require the current and previous object's velocity. This used to be limited, with only a certain amount of objects that calculation could access due to the state-like nature of processing - however with [this change](https://github.com/ppy/osu/pull/18368) this limit is removed, allowing calculation to access any object in history that is required. This even includes future objects, which is already seeing use in the doubletap fix. With the state of processing now irrelevant, stateless classes are introduced via [this change](https://github.com/ppy/osu/pull/18458).
+
+These changes are seeing now seeing use in both osu! and osu!taiko with the new wave of changes.
 
 ### Minor changes
 
