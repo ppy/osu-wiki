@@ -257,6 +257,7 @@ All osu! originals that have been licensed by the game are cleared for use in os
 
 | Song | Beatmap | Notes |
 | :-: | :-: | :-- |
+| [Boaz Sound Team "ptar124" - How do you pronounce Boaz?](https://www.youtube.com/watch?v=WuSv1zFpAmE) | [#1](https://osu.ppy.sh/beatmapsets/1832938) | Featured in [Mapping to Pander: Taiko #1](https://osu.ppy.sh/community/forums/topics/1624880) |
 | [Dictate - IMITATE](https://soundcloud.com/dictate/imitate) | [#1](https://osu.ppy.sh/beatmapsets/1201530) |  |
 | dksslqj - Oriental Creation | [#1](https://osu.ppy.sh/beatmapsets/1678494) |  |
 | dksslqj - osu! Fan Cafe Logosong | [#1](https://osu.ppy.sh/beatmapsets/148421) |  |
