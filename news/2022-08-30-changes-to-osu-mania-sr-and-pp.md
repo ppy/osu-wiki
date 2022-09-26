@@ -6,6 +6,8 @@ date: 2022-08-30 12:00:00 +0000
 
 how do i write introductions
 
+![](/wiki/shared/news/banners/star-rating.jpg)
+
 As these are the first osu!mania changes in a while, it may be helpful to check the respective wiki pages for [star rating](/wiki/Beatmap/Star_rating) and [performance points](/wiki/Performance_points), where a wealth of information on these topics can be found.
 
 ## osu!mania changes
