@@ -224,6 +224,34 @@ The Expert Global Taiko Showdown 2022 is run by various community members.
 
 ## Match results
 
+### Quarterfinals
+
+Saturday, 17 September 2022:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **kotohira\_06** ::{ flag=JP }:: | **6** | 2 | ::{ flag=IT }:: Ikkun | [#1](https://osu.ppy.sh/community/matches/103839777) |
+| **ntefy\_** ::{ flag=JP }:: | **6** | 0 | ::{ flag=FI }:: Antti | [#1](https://osu.ppy.sh/community/matches/103842241) |
+| **frz** ::{ flag=DE }:: | **0** | -1 | ::{ flag=TW }:: Smallwu | *win by default* |
+| FrootLoopy542 ::{ flag=US }:: | 2 | **6** | ::{ flag=SE }:: **Nurend** | [#1](https://osu.ppy.sh/community/matches/103848786) |
+| **frukoyurdakul** ::{ flag=TR }:: | **6** | 1 | ::{ flag=GB }:: overdahedge2014 | [#1](https://osu.ppy.sh/community/matches/103852015) |
+| **AuroraPhasmata** ::{ flag=US }:: | **6** | 5 | ::{ flag=FR }:: Ekoro | [#1](https://osu.ppy.sh/community/matches/103856270) |
+
+Sunday, 18 September 2022:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| AuroraPhasmata ::{ flag=US }:: | 2 | **6** | ::{ flag=SE }:: **Nurend** | [#1](https://osu.ppy.sh/community/matches/103858806) |
+| **hz404** ::{ flag=JP }:: | **6** | 5 | ::{ flag=CL }:: Ulqui | [#1](https://osu.ppy.sh/community/matches/103859737) |
+| CheeseStingy ::{ flag=TW }:: | 3 | **6** | ::{ flag=US }:: **Miniature Lamp** | [#1](https://osu.ppy.sh/community/matches/103860715) |
+| ntefy\_ ::{ flag=JP }:: | 5 | **6** | ::{ flag=US }:: **Miniature Lamp** | [#1](https://osu.ppy.sh/community/matches/103864314) |
+| LordEnder ::{ flag=IT }:: | 1 | **6** | ::{ flag=JP }:: kanten\_07 | [#1](https://osu.ppy.sh/community/matches/103867714) |
+| **Grape\_Tea** ::{ flag=JP }:: | **6** | 2 | ::{ flag=DE }:: Minekuchi | [#1](https://osu.ppy.sh/community/matches/103868724) |
+| **kanten\_07** ::{ flag=JP }:: | **6** | 1 | ::{ flag=DE }:: frz | [#1](https://osu.ppy.sh/community/matches/103869764) |
+| **Seren58** ::{ flag=JP }:: | **6** | 0 | ::{ flag=JP }:: Nekomusya7563 | [#1](https://osu.ppy.sh/community/matches/103869844) |
+| frukoyurdakul ::{ flag=TR }:: | 1 | **6** | ::{ flag=JP }:: **kotohira\_06** | [#1](https://osu.ppy.sh/community/matches/103869788) |
+| **goheegy** ::{ flag=GB }:: | **6** | 3 | ::{ flag=JP }:: Six b0xes | [#1](https://osu.ppy.sh/community/matches/103869775) |
+
 ### Round of 16
 
 Saturday, 10 September 2022:
