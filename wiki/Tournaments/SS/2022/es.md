@@ -212,7 +212,7 @@ Esta competición finalizó y este fue el podio final:
 
 ### Octavos de final
 
-*El pack de mapas no disponible.*
+*El pack de mapas no está disponible.*
 
 - NoMod
   1. [MY FIRST STORY - Fukagyaku Replace (torriru) \[Tale\]](https://osu.ppy.sh/beatmapsets/1329964#osu/2755634)
