@@ -74,6 +74,33 @@ The Expert Global Taiko Showdown 2022 is run by various community members.
 
 ## Mappools
 
+### Finals
+
+**[Download the mappack here! (91 MB)](https://mega.nz/file/nZg2xKja#c3tBX1VasuktYzJQgkIOlH9PQesl3P6Sb_XilX7OiUY)**
+
+- NoMod
+  1. [Shoebill - improvised mashcore (Raphalge) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1855255#taiko/3812476)
+  2. [Kobaryo - Put Your F\*cking Phone Down (Kobaryos FTN-Remix) (X a v y) \[Transilient Collab\]](https://osu.ppy.sh/beatmapsets/1855025#taiko/3812009)
+  3. [Frums - Remnants of Turing (UnagiDon) \[CMU's Turing Complete\]](https://osu.ppy.sh/beatmapsets/1855263#taiko/3812489)
+  4. [seatrus - The Daybreak Will Never Come Again. (Cynplytholowazy) \[Eternal Night.\]](https://osu.ppy.sh/beatmapsets/1855143#taiko/3812272)
+  5. [CaNdy Sync - Step&Run with Depression (X a v y) \[Nutes\]](https://osu.ppy.sh/beatmapsets/1855281#taiko/3812536)
+  6. [katagiri - Bootleg Heaven (KTYN) \[Forbidden Collab\]](https://osu.ppy.sh/beatmapsets/1855270#taiko/3812521)
+- Hidden
+  1. [Tyrrer & BilliumMoto - BEBEB3 (Cut Ver.) (MTNTWarz) \[BABABU\]](https://osu.ppy.sh/beatmapsets/1855247#taiko/3812457)
+  2. [U-F SEQUENCER - TEMPEST ZONE -code BLOOD- (DJ Myosuke OVER 500!! Remix) (Ak1o) \[OUTER ONI\]](https://osu.ppy.sh/beatmapsets/1853556#taiko/3808737)
+- HardRock
+  1. [Tanchiky - rE:loaD (Nwolf) \[stage seven\]](https://osu.ppy.sh/beatmapsets/1855285#taiko/3812541)
+  2. [Five Hammer - fffff op.2 (Raphalge) \[Inner Oni (EGTS)\]](https://osu.ppy.sh/beatmapsets/1855286#taiko/3812542)
+- DoubleTime
+  1. [KARUT - Assault Gear (KyeX) \[Overheat\]](https://osu.ppy.sh/beatmapsets/1855274#taiko/3812525)
+  2. [goreshit - o'er the flood (\[Zeth\]) \[cascade\]](https://osu.ppy.sh/beatmapsets/1855113#taiko/3812204)
+- FreeMod
+  1. [Xyris - Terrablazer (Ak1o) \[Eruption\]](https://osu.ppy.sh/beatmapsets/1853559#taiko/3808743)
+  2. [factal - Flux (Hivie) \[Quantum (feat. woosungko)\]](https://osu.ppy.sh/beatmapsets/1855293#taiko/3812555)
+  3. [Laur - Chimi Moryou (Roxy-) \[KurOni (EGTS Ver.)\]](https://osu.ppy.sh/beatmapsets/1855258#taiko/3812482)
+- Tiebreaker
+  1. **[ikaruga\_nex vs. Kagetora. - Grabinschrift der Gotter (Roxy-) \[Flower, Isolate, Nightmare, Aberrant, and the Lucid\]](https://osu.ppy.sh/beatmapsets/1855299#taiko/3812563)**
+
 ### Semifinals
 
 **[Download the mappack here! (90 MB)](https://mega.nz/file/vZgBTbCD#nqRYBScGRkp6tAz6cUUNpHRtVdYUlIUApQkAUzr3x8U)**
