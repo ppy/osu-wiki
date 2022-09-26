@@ -26,19 +26,21 @@ All osu! originals that have been licensed by the game are cleared for use in os
 
 #### [cYsmix](https://osu.ppy.sh/beatmaps/artists/2)
 
+*For the announcement news post, see: [Mapping With Rewards (Sep. 2015))*
+
 | Song | Notes |
 | :-: | :-- |
 | [cYsmix - Arcade Busters](https://soundcloud.com/olemlanglie/arcade-busters-osu) |  |
 | [cYsmix - Behind the Walls](https://osu.ppy.sh/beatmaps/artists/tracks?artist=cYsmix&query=Behind%20The%20Walls) |  |
 | [cYsmix - Breeze](https://soundcloud.com/olemlanglie/cysmix-breeze-osu) | Featured in [Monthly Beatmapping Contest: April 2017](https://osu.ppy.sh/home/news/2017-04-14-monthly-beatmapping-contest-april-2017-osumania) |
-| [cYsmix - Classic Pursuit](https://soundcloud.com/olemlanglie/cysmix-classic-pursuit-osu) | Featured in [Mapping with Rewards: October 2015](https://blog.ppy.sh/post/132009865043/mapping-with-rewards-oct-2015) |
+| [cYsmix - Classic Pursuit](https://soundcloud.com/olemlanglie/cysmix-classic-pursuit-osu) | Featured in [Mapping With Rewards: October 2015](https://blog.ppy.sh/post/132009865043/mapping-with-rewards-oct-2015) |
 | [cYsmix - Disco Bawls](https://soundcloud.com/olemlanglie/cysmix-disco-bawls) |  |
-| [cYsmix - Dovregubben's Hall](https://soundcloud.com/olemlanglie/cysmix-dovregubbens-hall-new-ver-osu) | Featured in [Mapping with Rewards: September 2015](https://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015) |
-| [cYsmix - Fright March](https://soundcloud.com/olemlanglie/cysmix-fright-march-osu) | Featured in [Mapping with Rewards: October 2015](https://blog.ppy.sh/post/132009865043/mapping-with-rewards-oct-2015) |
-| [cYsmix - House With Legs](https://soundcloud.com/olemlanglie/cysmix-house-with-legs-original-mix) | Featured in [Mapping with Rewards: September 2015](https://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015) |
+| [cYsmix - Dovregubben's Hall](https://soundcloud.com/olemlanglie/cysmix-dovregubbens-hall-new-ver-osu) | Featured in [Mapping With Rewards: September 2015](https://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015) |
+| [cYsmix - Fright March](https://soundcloud.com/olemlanglie/cysmix-fright-march-osu) | Featured in [Mapping With Rewards: October 2015](https://blog.ppy.sh/post/132009865043/mapping-with-rewards-oct-2015) |
+| [cYsmix - House With Legs](https://soundcloud.com/olemlanglie/cysmix-house-with-legs-original-mix) | Featured in [Mapping With Rewards: September 2015](https://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015) |
 | [cYsmix - Little Knight](https://soundcloud.com/olemlanglie/cysmix-little-knight) |  |
-| [cYsmix - Manic](https://soundcloud.com/olemlanglie/cysmix-manic-osu) | Featured in [Mapping with Rewards: September 2015](https://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015) |
-| [cYsmix - Moonlight Sonata](https://cysmix.bandcamp.com/track/moonlight-sonata) | Featured in [Mapping with Rewards: October 2015](https://blog.ppy.sh/post/132009865043/mapping-with-rewards-oct-2015) |
+| [cYsmix - Manic](https://soundcloud.com/olemlanglie/cysmix-manic-osu) | Featured in [Mapping With Rewards: September 2015](https://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015) |
+| [cYsmix - Moonlight Sonata](https://cysmix.bandcamp.com/track/moonlight-sonata) | Featured in [Mapping With Rewards: October 2015](https://blog.ppy.sh/post/132009865043/mapping-with-rewards-oct-2015) |
 | [cYsmix - Peer Gynt](https://soundcloud.com/olemlanglie/cysmix-peer-gynt-osu) |
 
 #### [James Landino](https://osu.ppy.sh/beatmaps/artists/39)
@@ -140,6 +142,7 @@ All osu! originals that have been licensed by the game are cleared for use in os
 | [Sparxe - Chicxulub](https://www.youtube.com/watch?v=6NiJ45f3o-s) | [#1](https://osu.ppy.sh/beatmapsets/1429738) | ![](/wiki/shared/mode/taiko.png) [Continental Global Taiko Showdown 2021](/wiki/Tournaments/GTS/CGTS_2021) | Grand Finals tiebreaker |
 | [Down - ddm](https://open.spotify.com/album/5ygle8UZPbAqJ8XuMAKgnl) | [#1](https://osu.ppy.sh/beatmapsets/1764656) | ![](/wiki/shared/mode/osu.png) Corsace Closed 2022 | Quarterfinals NM6 |
 | [Kyutatsuki - \_alc.yone](https://www.youtube.com/watch?v=_LkXGLHR6Tg) | [#1](https://osu.ppy.sh/beatmapsets/1781161) | ![](/wiki/shared/mode/osu.png) Corsace Closed 2022 | Grand Finals NM4 |
+| [VINXIS - Commencement](https://www.youtube.com/watch?v=5W2xUCevUUQ) | *N/A* | ![](/wiki/shared/mode/osu.png) Corsace Closed 2022 | Livestream BGM |
 | [katagiri - Palace of Melancholia](https://www.youtube.com/watch?v=-Wq8Kk9Trsw) | [#1](https://osu.ppy.sh/beatmapsets/1581367) | ![](/wiki/shared/mode/osu.png) Corsace Open 2021 | Grand Finals Tiebreaker |
 | [VINXIS - FALL](https://www.youtube.com/watch?v=_FlHUWVjHvY) | [#1](https://osu.ppy.sh/beatmapsets/1581340) | ![](/wiki/shared/mode/osu.png) Corsace Open 2021 | Grand Finals NM6 |
 | [Acylica - yoshicorsace](https://www.youtube.com/watch?v=PwxRJUPhYAo) | [#1](https://osu.ppy.sh/beatmapsets/1842665) | ![](/wiki/shared/mode/osu.png) Corsace Open 2022 | Semifinals NM4 |
