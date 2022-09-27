@@ -4,11 +4,11 @@ title: "Changes to osu!mania Star Rating & Performance Points"
 date: 2022-08-30 12:00:00 +0000
 ---
 
-how do i write introductions
+Get ready for some fairly big changes to osu!mania difficulty calculation since almost forever.
 
 ![](/wiki/shared/news/banners/star-rating.jpg)
 
-As these are the first osu!mania changes in a while, it may be helpful to check the respective wiki pages for [star rating](/wiki/Beatmap/Star_rating) and [performance points](/wiki/Performance_points), where a wealth of information on these topics can be found.
+As these are the first changes to osu!mania in a long while (about [4 years](https://osu.ppy.sh/home/news/2018-05-16-performance-updates) for performance points and 8 years since the current star rating algorithm was introduced in osu!mania), it may be helpful to check the respective wiki pages for [star rating](/wiki/Beatmap/Star_rating) and [performance points](/wiki/Performance_points), where a wealth of information on these topics can be found.
 
 ## osu!mania changes
 
@@ -49,12 +49,12 @@ Compared to the old system, this buffs very high-accuracy scores while nerfing l
 
 As a consequence of accuracy now determining pp, this led to some other changes:
 
-- **No Fail rewards 0.75x of No Mod pp**. Previously, due to No Fail's mod multiplier limiting score to below 500,000 you couldn't gain any pp with it.
-- **"Accuracy pp" has been removed**. It would previously be rewarded to scores that had a score above 960,000. This has been accounted for in the new accuracy pp formula.
-- **Star rating to pp curve formula has been simplified**. Only minor differences here.
+- **No Fail rewards 0.75x of No Mod pp.** Previously, due to No Fail's mod multiplier limiting score to below 500,000 you couldn't gain any pp with it.
+- **"Accuracy pp" has been removed.** It would previously be rewarded to scores that had a score above 960,000. This has been accounted for in the new accuracy pp formula.
+- **Star rating to pp curve formula has been simplified.** Only minor differences here.
 
 ---
 
-While these may not be the most groundbreaking changes to the osu!mania star rating and performance point system, we hope that these changes will be the first in a long list of many future changes to come.
+We hope that these changes will be the first in a long list of many future changes to come.
 
--the osu!mania pp committee
+—the osu!mania pp committee
