@@ -30,9 +30,7 @@ The [previous set of changes](https://osu.ppy.sh/home/news/2020-09-15-changes-to
 
 This time, we have opted to take a more modular approach by introducing new changes incrementally, in the hopes of being able to fix any reported issues one step at a time. Moving forward, osu!taiko star rating will be receiving continuous updates, placing star rating and performance points in a state of flux, especially over the coming few months.
 
-In the star rating part of this rework, we have focused on "stamina" and "colour" skills.
-
-Performance points have seen significant balancing changes regarding mod-specific performance point multipliers and a broad change to how accuracy is calculated. These kinds of changes are greatly affected by community perception, so consider leaving feedback if you find anything that feels especially unusual.
+In the star rating part of this rework, we have focused on "stamina" and "colour" skills, and in the performance points domain, we have made a significant change to how accuracy is calculated and some tweaks to performance point multipliers for specific mods.
 
 Without further ado, let's get into the nitty-gritty of these changes.
 
@@ -76,15 +74,13 @@ The code and concepts utilised to achieve this are quite extensive. If this sort
 
 ### Calculating the final result
 
-Given the three skills of stamina, rhythm and colour, their *strain* values have now become the number that approximates star rating.
-
-Switching from the previous system, where strain and individual skill values formed star rating, strain is now the only summative factor in this calculation via the new *peak* skill.
+Star rating is now based on *peak* "strain" values incorporating all three skills covered by the algorithm, namely stamina, colour and rhythm. This is a significant change from the previous system, where only strain and individual skill levels were utilised instead.
 
 *Peak* difficulty splits the map into sections and combines the highest strains of each skill in each section, aiming to catch out particularly demanding moments. The final star rating is a weighted sum of the peak skill sections, including a slight multiplier to scale better.
 
 You can consult the [osu!taiko rework document](https://docs.google.com/document/d/1Z5GC4DMqOVzeIERMSK3qpQaqjq-sVnhbuoxAwy9qxDs/edit), or dive into the code over in the [osu!(lazer) GitHub repository](https://github.com/ppy/osu) for the full details on how the calculation works.
 
-Previous star rating changes have long tried to keep values roughly consistent with respect to [difficulty names](/wiki/Ranking_Criteria/Difficulty_naming), but that breaks here, with changes that should reflect true difficulty regardless of naming practices.
+Previous approaches were tailored towards scaling maps with respect to [difficulty names](/wiki/Ranking_Criteria/Difficulty_naming), a path that we will no longer be taking. Star rating should better reflect the actual difficulty of a map at all levels with new changes going forward, starting with this one.
 
 This also means that star rating values for beatmaps where top-end players are almost — but not quite — getting full combo scores will now extend well into the 10 star range, rather than capping out at around 9.5 stars (medal hunters rejoice!).
 
@@ -98,9 +94,9 @@ All of these changes aim to continue the goals outlined in the new star rating r
 
 ### Globally applied changes
 
-The final step of performance points calculation involves applying a simple multiplier to the calculated value, which consists of both difficulty and accuracy performance points.
+The final step of performance points calculation involves applying a simple multiplier to the calculated value, which allows for simple balancing changes between different types of scores.
 
-This allows for simple balancing changes between different types of scores. To begin with, we have made the following changes:
+To begin with, we have made the following changes:
 
 - The Hidden multiplier has been decreased from **1.10x** to **1.075x**, as a further bonus was placed in difficulty pp, rather than globally.
 - Easy now applies a **0.975x** multiplier to help address its problematic nature, especially when paired with Double Time.
@@ -114,15 +110,18 @@ To combat this, misses will now significantly affect difficulty pp on maps with 
 
 ### Changes to difficulty performance point values
 
-The following changes should result in impressive scores on harder beatmaps rewarding more appropriate performance point values, with top player [syaron105](https://osu.ppy.sh/users/8741695) gaining over 6400 total pp!
+The following changes should result in impressive scores on harder beatmaps rewarding more appropriate performance point values. Please note that these changes only affect the difficulty part of performance, which correlates with the star rating value.
 
-Please note that these changes only affect the difficulty part of performance, which correlates with the star rating value.
+Difficulty pp has been adjusted to hugely nerf previously overweighted low-accuracy scores. In technical terms, difficulty pp scales by the square of the accuracy now instead of linearly, as visualised below:
+
+![Accuracy scaling graph](/wiki/shared/news/2022-09-27-changes-to-osu-taiko-star-rating-and-performance-points/difficulty-accuracy-scaling.jpg)
+
+To best describe the impact of this change, top player [syaron105](https://osu.ppy.sh/users/8741695) has gained over 6400 total pp because of it.
+
+We have also made the following changes to mod-specific performance point multipliers:
 
 - A further Easy multiplier of **0.985x** has been added, in addition to the global nerf described above.
 - A new Hard Rock multiplier of **1.05x** has been added, as a way to rebalance the changes found within accuracy pp.
-- Difficulty pp has been adjusted to hugely nerf previously overweighted low-accuracy scores. In technical terms, difficulty pp scales by the square of the accuracy now instead of linearly, as visualised below.
-
-![Accuracy scaling graph](/wiki/shared/news/2022-09-27-changes-to-osu-taiko-star-rating-and-performance-points/difficulty-accuracy-scaling.jpg)
 
 ### Changes to accuracy performance point values
 
