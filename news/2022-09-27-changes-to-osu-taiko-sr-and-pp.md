@@ -88,7 +88,7 @@ Switching from the previous system, where strain and individual skill values for
 
 While this is all much more mathematically complex than described here, you can consult the [osu!taiko rework document](https://docs.google.com/document/d/1Z5GC4DMqOVzeIERMSK3qpQaqjq-sVnhbuoxAwy9qxDs/edit), or dive into the code over in the [osu!(lazer) GitHub repository](https://github.com/ppy/osu) for the full details.
 
-Previous approaches aimed to scale maps in regards to the [difficulty naming hierarchy](/wiki/en/Ranking_Criteria/Difficulty_naming#osu!taiko), while this rework has deviated away from that goal, aiming instead to reflect true difficulty regardless of naming practices. 
+Previous approaches aimed to scale maps in regards to the [difficulty naming hierarchy](/wiki/Ranking_Criteria/Difficulty_naming), while this rework has deviated away from that goal, aiming instead to reflect true difficulty regardless of naming practices. 
 
 This also means that star rating values for maps with near-FCs are no longer near 9.5 stars, but rather can expand well into the 10 star range (medal hunters rejoice!).
 
