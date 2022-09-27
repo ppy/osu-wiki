@@ -679,7 +679,7 @@ If an image is the sole content of a paragraph, it displays as a centred block. 
 
 Block images with title text display the title text as a caption below the image.
 
-Block images are commonly paired with infobox<!-- TODO: link me! --> formatting to reduce their initial size and float them to the side of other content:
+Block images are commonly paired with [infobox](#infoboxes) formatting to reduce their initial size and float them to the side of other content:
 
 ```markdown
 ::: Infobox
@@ -796,6 +796,32 @@ The following is an example of what a table should look like:
 | **Taikonator** | 7 - 0 | Tama | 13.37 stars |
 | Maria | No Contest | Mocha |  |
 ```
+
+## Infoboxes
+
+An infobox is a fixed-width block which is aligned to the right side of the article. It may contain a relevant image, which explains the surrounding text, or a block of navigation that links to other articles from the same category.
+
+Example use, rendered on the right:
+
+<!-- The real infobox is added for illustrative purposes, with Markdown syntax duplicated below for clarity. -->
+
+::: Infobox
+![](/wiki/shared/mods/SD.png "Sudden Death mod icon")
+:::
+
+```markdown
+::: Infobox
+![](/wiki/shared/mods/SD.png "Sudden Death mod icon")
+:::
+```
+
+The title text serves as the image caption. If an image inside the infobox is wider than 300px<!-- https://github.com/ppy/osu-web/blob/bca69155332cb0c020ba225f2f9de579ad99284c/resources/assets/less/bem/osu-md.less#L226 -->, its thumbnail will be displayed instead, with full version available on click. Images from all infoboxes on the page are combined into a single gallery, which can be navigated using arrow icons on both sides of the screen<!-- https://github.com/ppy/osu-web/pull/8126 -->.
+
+### Pitfalls
+
+- Do not use infoboxes in short sections, since the next section's title will only appear after the last used infobox ends.
+- Image titles followed by [HTML comments](#comments) are hidden.
+- If several images are not on the same line, including them in an infobox yields poor results.
 
 ## Footnotes
 
