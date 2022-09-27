@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Reportando mal comportamiento
 
 osu! tiene [un equipo de moderadores](/wiki/People/The_Team/Global_Moderation_Team) que se adhieren a mantener el juego y su ecosistema limpios y seguros. Si observa un comportamiento que infringe las reglas o contenido inapropiado, repórtelo utilizando uno de los métodos descritos a continuación. Alternativamente, puede comunicarse directamente con cualquiera de los moderadores en línea si su informe no se manejó correctamente dentro de un período de tiempo razonable; hágalo solo como último recurso.
