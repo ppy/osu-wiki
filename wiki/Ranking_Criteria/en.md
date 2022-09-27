@@ -99,6 +99,7 @@ Important to understand before using:
 - **If the artist or title fields were shortened to fit in field limits, the omitted information must be added to the tags.**
 - **If the song mapped is a licensed one in the [Featured Artist](/wiki/Featured_Artists) library, `featured artist` must be added to tags.**
 - **Tags must be related to the beatmap and not misleading for search results.** Tags describing the beatmap's style, song, storyboard, video, or background content are considered to be related to the beatmap.
+- **Song [genre and language](/wiki/Beatmap/Genre_and_language) must be added to the tags of a beatmap.** This is to enable users to search using these terms in-game like they do on the website. For instrumental tracks, "instrumental" is considered the language tag. Exceptions would be when language and/or genre are not clear, or multiple apply. In case of the latter, one fitting tag for each may be applied.
 
 #### Standardisation
 
@@ -147,7 +148,6 @@ Important to understand before using:
 - **In the case of compilations or remixes, the original song title(s) and artist(s) should be included in tags.** This is to ensure that players can find all beatmaps of one song by searching the same thing without getting vastly different results.
 - **Any metadata that contains ambiguous or hard-to-write unicode characters should be accompanied by easily searchable variations or romanisations of these words in the beatmap's tags.**
 - **If the source of the song is available in both unicode and romanised formats, the option not used in the source field should be added to tags.**
-- **Song [genre and language](/wiki/Beatmap/Genre_and_language) should be added to the tags of a beatmap.** This is to enable users to search using these terms in-game like they do on the website. For instrumental tracks, "instrumental" is considered the language tag. Exceptions would be when language and/or genre are not clear, or multiple apply. In case of the latter, one fitting tag for each may be applied.
 - **Tags should be added for related artists, alternate names for the artist, title, or source, contractions in any part of the metadata with the apostrophe removed, and whatever else may aid a player in finding the beatmap.**
 
 #### Standardisation
