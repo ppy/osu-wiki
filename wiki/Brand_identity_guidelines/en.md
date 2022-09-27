@@ -10,7 +10,7 @@ The brand identity guidelines is a set of standards for branding osu!-related pr
 
 #### Single colour
 
-![](img/usage-single-colour.png)
+![](img/usage-single-colour.png "Single colour osu! logo")
 
 This is the single colour version of the osu! cookie logo. This version of the logo is very versatile and can be adapted to many design styles.
 
@@ -18,7 +18,7 @@ Please use the original file as the base, and do not create the logo from scratc
 
 #### Full colour
 
-![](img/usage-full-colour.png)
+![](img/usage-full-colour.png "Full colour osu! logo")
 
 This is the full colour version of the osu! cookie logo. The subtle drop shadow is part of the full colour logo.
 
@@ -26,7 +26,7 @@ Please use the logo as provided by the design kit without any modification.
 
 ### Clear space area
 
-![](img/clear-space-area.png)
+![](img/clear-space-area.png "Example of margins around the osu! logo")
 
 Please give the cookie some breathing space. Use the "o" in "osu!" as the measurement of space.
 
@@ -34,7 +34,7 @@ Please give the cookie some breathing space. Use the "o" in "osu!" as the measur
 
 Since osu! is community-driven, the osu! cookie logo is designed to be simple and versatile; it can adapt to many designs with ease. There is no strict colour restriction to the colour of the cookie.
 
-![](img/restrictions-good-single.png)
+![](img/restrictions-good-single.png "Valid modifications of the single colour osu! logo")
 
 - The cookie must be sharp at all times.
 - You can use any colour for the cookie.
@@ -43,7 +43,7 @@ Since osu! is community-driven, the osu! cookie logo is designed to be simple an
 
 ---
 
-![](img/restrictions-bad-single.png)
+![](img/restrictions-bad-single.png "Invalid modifications of the single colour osu! logo")
 
 - **Do not** change the cookie's aspect ratio.
 - **Do not** rotate the cookie. The cookie must align to the medium's orientation or reader's eye when reading.
@@ -62,7 +62,7 @@ Since osu! is community-driven, the osu! cookie logo is designed to be simple an
 
 Since osu! is community-driven, the osu! cookie logo is designed to be simple and versatile; it can adapt to many designs with ease. Please use the logo as it is, without any modification. All the restrictions applied on the single colour cookie applies to the full colour cookie too.
 
-![](img/restrictions-bad-full.png)
+![](img/restrictions-bad-full.png "Invalid modifications of the full colour osu! logo")
 
 - **Do not** use the old cookie.
 - **Do not** use a different shade of pink.
