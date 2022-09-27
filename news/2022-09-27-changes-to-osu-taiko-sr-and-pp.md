@@ -138,7 +138,7 @@ While difficulty pp is straightforward, accuracy pp contained a plethora of issu
 
 Future changes will involve rhythm (which hasn't been touched in these changes so far), and the introduction of a "reading" skill, an entirely new concept to osu!taiko performance points calculation, as well as many other large and small-scale changes.
 
-For people eager to dive into the technicalities of these upcoming changes, work-in-progress details are available [here](https://docs.google.com/document/d/1Z5GC4DMqOVzeIERMSK3qpQaqjq-sVnhbuoxAwy9qxDs/edit). If you would like to give feedback or help contribute, please join the [osu!dev Discord server](https://discord.gg/ppy) and direct your comments towards the `#difficulty-taiko` channel.
+For people eager to dive into the technicalities of these upcoming changes, work-in-progress details are available [here](https://docs.google.com/document/d/1Z5GC4DMqOVzeIERMSK3qpQaqjq-sVnhbuoxAwy9qxDs/edit). If you would like to give feedback or help contribute, please join the [osu!dev Discord server](https://discord.gg/ppy) and direct your comments towards the `#difficulty-taiko` channel. Additionally, the dedicated [Performance Points Discord server](https://discord.gg/aqPCnXu) may be of interest if you wish to further discuss, contribute, or simply observe star rating and performance points development with a plate-sized magnifying glass.
 
 The osu!taiko pp committee would like to give a huge thank you towards osu!taiko community for the heavy amounts of surveying, testing and feedback during the process. Another big thank you goes to [spaceman_atlas](https://osu.ppy.sh/users/3035836) and [smoogipoo](https://osu.ppy.sh/users/1040328) for helping to support and review the changes to the code.
 
