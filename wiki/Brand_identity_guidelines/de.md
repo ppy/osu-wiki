@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 6ad4fe3d4e5b620cfeb663af478a908a6220f9ba
+---
+
 # Richtlinien zur Markenidentität
 
 Die Richtlinien zur Markenidentität sind ein Standard zur Markenbildung von osu!-bezogenen Projekten. Alle Verwendungen benötigen keine Genehmigung.
