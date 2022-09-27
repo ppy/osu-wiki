@@ -4,6 +4,23 @@ The brand identity guidelines is a set of standards for branding osu!-related pr
 
 [Download the design kit here.](https://drive.google.com/file/d/1TmUot5nu49p71icz4u3G68njLAQOeQrG/view?usp=sharing) The linked design kit contains some outdated assets. Also note that the included PDF is outdated and this page should be used instead.
 
+## osu!
+
+The name of the game, osu!, must not be capitalised. The osu! official branding must not use any spaces:
+
+- Game modes: `osu!`, `osu!catch`, `osu!taiko`, `osu!mania`
+- Projects: `osu!academy`, `osu!talk`
+- Services and applications: `osu!direct`, `osu!store`, `osu!stream`, `osu!tourney`
+- Products and goods: `osu!keyboard`, `osu!supporter`, `osu!tablet`
+
+For all other terms, osu! must be treated as a [qualifying noun](https://en.wikipedia.org/wiki/Noun_adjunct), which means adding a space between osu! and the noun it modifies. Examples:
+
+- `osu! tournaments`
+- `osu! community`
+- `osu! chat`
+- `osu! client`
+- `osu! wiki`
+
 ## osu! cookie logo
 
 ### Cookie usage restrictions
