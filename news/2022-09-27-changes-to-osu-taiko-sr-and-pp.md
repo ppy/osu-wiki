@@ -32,7 +32,7 @@ This time, we have opted to take a more modular approach by introducing new chan
 
 In the star rating part of this rework, we have focused on "stamina" and "colour" skills.
 
-Performance points have seen significant changes to mod multipliers and a broad change to how accuracy is calculated. Please note however that these changes are *experimental* and did not receive as much scrutiny as the rest of the rework. Consider leaving feedback if you find anything that feels especially unusual.
+Performance points have seen significant balancing changes regarding mod-specific performance point multipliers and a broad change to how accuracy is calculated. These kinds of changes are greatly affected by community perception, so consider leaving feedback if you find anything that feels especially unusual.
 
 Without further ado, let's get into the nitty-gritty of these changes.
 
@@ -56,29 +56,27 @@ In this section, the keybinds relating to the two colours found within osu!taiko
 
 Instead of assuming a full-alternate playstyle, we assume that **each note of the same colour is always alternated**. For example, for the pattern kddkddk, we assume the kats will be hit by **k<sup>1</sup>** d<sup>1</sup> d<sup>2</sup> **k<sup>2</sup>** d<sup>1</sup> d<sup>2</sup> **k<sup>1</sup>**, and the dons will be hit by k<sup>1</sup> **d<sup>1</sup> d<sup>2</sup>** k<sup>2</sup> **d<sup>1</sup> d<sup>2</sup>** k<sup>2</sup>.
 
-The reason for this is to assume the best-case scenario for repeated keystrokes regardless of playstyle. In other words, we aim to approximate the theoretical minimum stamina required to play a given pattern with any playstyle, with any theoretically rollable pattern being rolled.
+The reason for this is to assume the best-case scenario for repeated keystrokes regardless of playstyle. In other words, we aim to approximate the theoretical minimum stamina required to play a given pattern, with any theoretically rollable pattern being rolled.
 
-We can't (feasibly), nor is it desirable to, detect playstyles, so we assume the case that requires the least physical repetition, which is to switch keys each time a colour is to be hit, and as such all other existing playstyles will be weaker in comparison to the one we chose.
+We can't (feasibly), nor is it desirable to, detect playstyles, so we assume the case that requires the least physical repetition, which is to switch keys each time a colour is to be hit, and as such all other playstyles will be weaker in comparison to the one used in calculations.
 
 ### The "colour" skill
 
 #### Issues within the old system
 
-The previous system only detected the frequency of changes between colours and had specific penalties for particular repeated patterns. This led to complex patterns containing large quantities of single-coloured notes not being considered properly in regards to overall strain values.
-
-In addition, a penalty was applied to repeat instances of these patterns, similar to how stamina was calculated. This only considered up to five recent occurrences, but if any two or more of such repeats occurred, a harsh penalty was applied.
+The previous system only detected the frequency of changes between colours and had specific penalties for particular repeated patterns, similar to how stamina was calculated. This led to complex patterns containing large quantities of single-coloured notes not being considered properly in regards to overall strain values.
 
 #### The new colour system
 
 To summarise shortly, the new colour system is more aware of *all* kinds of patterning used in osu!taiko mapping and is far more capable of formulating appropriate difficulty values from them compared to the old system.
 
-In general, the harder it is to describe a pattern, the harder the pattern will generally be considered. Additionally, the more dense a pattern (or color sequence, as described by the code) is, the harder the algorithm will consider it to be. Patterns that repeat with longer segments between them are also considered more difficult than patterns that repeat closely to one another.
+In general, the harder it is to describe a pattern, the harder the pattern will be considered. Additionally, the more dense a pattern (or color sequence, as described by the code) is, the harder the algorithm will consider it to be. Patterns that repeat with longer segments between them are also considered more difficult than patterns that repeat closely to one another.
 
 The code and concepts utilised to achieve this are quite extensive. If this sort of thing interests you, feel free to read more in the [osu!taiko rework document](https://docs.google.com/document/d/1Z5GC4DMqOVzeIERMSK3qpQaqjq-sVnhbuoxAwy9qxDs/edit).
 
 ### Calculating the final result
 
-Given the three skills briefly described above (stamina, rhythm and colour), their *strain* values have now become the number that approximates star rating.
+Given the three skills of stamina, rhythm and colour, their *strain* values have now become the number that approximates star rating.
 
 Switching from the previous system, where strain and individual skill values formed star rating, strain is now the only summative factor in this calculation via the new *peak* skill.
 
@@ -86,13 +84,13 @@ Switching from the previous system, where strain and individual skill values for
 
 You can consult the [osu!taiko rework document](https://docs.google.com/document/d/1Z5GC4DMqOVzeIERMSK3qpQaqjq-sVnhbuoxAwy9qxDs/edit), or dive into the code over in the [osu!(lazer) GitHub repository](https://github.com/ppy/osu) for the full details on how the calculation works.
 
-Previous approaches aimed to scale maps in regards to the [difficulty naming hierarchy](/wiki/Ranking_Criteria/Difficulty_naming), while this rework has deviated away from that goal, aiming instead to reflect true difficulty regardless of naming practices.
+Previous star rating changes have long tried to keep values roughly consistent with respect to [difficulty names](/wiki/Ranking_Criteria/Difficulty_naming), but that breaks here, with changes that should reflect true difficulty regardless of naming practices.
 
 This also means that star rating values for beatmaps where top-end players are almost — but not quite — getting full combo scores will now extend well into the 10 star range, rather than capping out at around 9.5 stars (medal hunters rejoice!).
 
 ## Changes to performance points
 
-In recent years, osu!taiko has lagged behind the other three game modes in terms of raw performance point values, to the tune of being roughly 40% lower overall. In addition, the survey indicated a great preference for re-evaluating the way performance points are calculated.
+In recent years, top-end scores in osu!taiko haven't seen as much of an increase in raw performance point values as the other game modes, to the tune of being roughly 40% lower overall. In addition, the survey held at the beginning of this year indicated a great preference for re-evaluating the way performance points are calculated.
 
 Previously, performance points in osu!taiko were calculated by summing the "accuracy pp" and "difficulty pp" components of a score together. The following changes should serve to increase these values, make them more relevant to the apparent difficulty of a given map, and improve balance not only between difficulty-increasing mods, but also their difficulty-reducing counterparts.
 
@@ -102,7 +100,7 @@ All of these changes aim to continue the goals outlined in the new star rating r
 
 The final step of performance points calculation involves applying a simple multiplier to the calculated value, which consists of both difficulty and accuracy performance points.
 
-This allows for simple balancing changes, and works alongside specific multipliers found within their respective separate difficulty values. To begin with, we have made the following changes:
+This allows for simple balancing changes between different types of scores. To begin with, we have made the following changes:
 
 - The Hidden multiplier has been decreased from **1.10x** to **1.075x**, as a further bonus was placed in difficulty pp, rather than globally.
 - Easy now applies a **0.975x** multiplier to help address its problematic nature, especially when paired with Double Time.
@@ -114,7 +112,7 @@ To combat this, misses will now significantly affect difficulty pp on maps with 
 
 ![Effective miss count graph](/wiki/shared/news/2022-09-27-changes-to-osu-taiko-star-rating-and-performance-points/effective-miss-count.jpg)
 
-### Changes to difficulty performance points values
+### Changes to difficulty performance point values
 
 The following changes should result in impressive scores on harder beatmaps rewarding more appropriate performance point values, with top player [syaron105](https://osu.ppy.sh/users/8741695) gaining over 6400 total pp!
 
@@ -126,7 +124,7 @@ Please note that these changes only affect the difficulty part of performance, w
 
 ![Accuracy scaling graph](/wiki/shared/news/2022-09-27-changes-to-osu-taiko-star-rating-and-performance-points/difficulty-accuracy-scaling.jpg)
 
-### Changes to accuracy performance points values
+### Changes to accuracy performance point values
 
 While difficulty pp is straightforward, accuracy pp contained a plethora of issues, both to do with reading-based mods (Hidden and Flashlight) and mods that affect the hit windows of Greats (300s), i.e. Easy, Double Time and Hard Rock.
 
