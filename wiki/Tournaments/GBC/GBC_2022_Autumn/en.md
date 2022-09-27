@@ -77,17 +77,20 @@ The GB Cup 2022 Autumn is run by the Team GB and various community members.
 2. There will be some players been eliminated in qualifier and Drafting phase.
 3. Regular stage have 4 rounds, used to be 3. only teams with 2-1 or 1-2 record will participate round 4.
 4. Player can't be banned in a match until he has finished a game in this match.
-5. Picking beatmaps and banning players should be sent at a single message, if a team continues to be slow at banning, referees have rights to **ignore this ban**.
-6. "Total matches score difference" added as a last resort for ranking in regular stage.
-7. Mappool size increased by 2 maps.
+5. The team pick beatmap first can't ban players in the first 2 rounds.
+6. Picking beatmaps and banning players should be sent at a single message, if a team continues to be slow at banning, referees have rights to **ignore this ban**.
+7. "Total matches score difference" added as a last resort for ranking in regular stage.
+8. Mappool size increased by 2 maps.
+9. For Regular stage ranking, now compare beatmap difference first, then Buchholz score.
 
 The following rules are changed to consistent with rules on `MWC 4k 2022` : 
 
-8. Failed Player's score still get added to the team score.
-9. Allowed Team to rematch if any team member disconnected on early of the beatmaps.
-10. Referees have rights to lower or higher timer settings.
-11. Calling tactical timeout on Tie-breaker need both teams' captains agreement.
-12. NoFail mod could be choose in FreeMod bracket.
+10. The winner of the `!roll` could **choose** to pick first or ban first of the match.
+11. Failed Player's score still get added to the team score.
+12. Allowed Team to rematch if any team member disconnected on early of the beatmaps.
+13. Referees have rights to lower or higher timer settings.
+14. Calling tactical timeout on Tie-breaker need both teams' captains agreement.
+15. NoFail mod could be choose in FreeMod bracket.
 
 ### Tournament rules
 
@@ -160,10 +163,10 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
 5. There will be an optional 5-minute break in between the first and second play-through of the mappool.
 6. All players will play their qualifiers in separate rooms. *We suggest players not to broadcast or share their results to avoid seed manipulation*.
 7. Qualifier stage's result will using to seeding and choosen captains.
-   - Higher score will have higher chance to be picked on Drafting phase. player will be eliminated or not being picked on Drafting phase , if he got too low in qualifier.
+   - Higher score will have higher chance to be picked on Drafting phase. player will be eliminated or not being picked on Drafting phase, if he got too low in qualifier.
 8. Some best-performance players will advance to Drafting phase.
    - The number of players advanced will be determined by how many players required on Drafting phase. (i.e. For 16 teams, each team have 5 players' size, total `16*5=80` players are required on Drafting phase. So *about* Top 85 will be advanced to Drafting phase, giving captains some extra choices for last pick.) *This might change depending on the number of incoming registrations.* 
-   - Disrupting the match by foul play or trying seed manipulation will result in disqualified, they will be announced before Drafting phase actual take place.
+   - Disrupting the match by foul play or trying seed manipulation will result in disqualified, such players will be announced before Drafting phase actual take place.
 
 ### Stage instructions
 
@@ -192,7 +195,7 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
    - Other players will be muted during the Drafting phase.
 9. After the Drafting phase, captains may choose, with the approval of the host, to delegate their role to other prospective team members.
 10. Captains may also choose to rename their team name after the Drafting phase.
-    - The default name of team is: `Team {captain's name}`.
+    - The default name of team is: `Team {X}`, `{X}` is the abbreviation of captain's name.
     - Team names can't be longer than **12** characters (Chinese character is considered as 1).
 11. Bad behaviour during the Drafting phase will be seen as disrupting the match by foul play.
 
@@ -202,8 +205,8 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
 2. The final ranking of the Swiss round will be determined by the following criteria in order:
    - Most matches won
    - Head-to-head result (if possible)
-   - Highest Buchholz score
    - Highest beatmap difference (`beatmap wins - beatmap losses`)
+   - Highest Buchholz score
    - Most beatmaps won
    - Fewest beatmaps lost
    - Highest total matches score difference (`∑(score difference in each beatmaps)` in the whole regular stage)
@@ -230,10 +233,11 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
 3. Both captains will alternate picking a beatmap from the mappool.
 4. Each captain must use `!roll` once in `#multiplayer`.
    - The winner of the `!roll` could choose to pick first or ban first of the match. The other choose will be used by loser team.
-5. After each pick, the captain may ban one player of the opposing team from playing that beatmap in the match, **except in a tiebreaker**.
+5. After each pick, both captains **could** ban **one** of the opposing team members from playing this beatmap in this match, **except in tiebreaker**. A player can't be banned until he has finished playing a beatmap on this match.
    - Any player can only be banned like this **once** per match.
-   - A player **can't** be banned until he finished playing a game on this match.
-   - Banning players is **optional**.
+   - The team pick beatmap first can't ban players at the 2nd round (opposite's first pick round).
+     - As the former rules, no teams could ban players in 1st round since they haven't finished playing any beatmap.
+   - Team that is picking beatmaps should ban player first.
    - If less than required player avaliable, banning player might be limited by host considering.
      - This rule should not be abused. Host reserves rights to penalize a team if they find that cases.
 6. Teams will have 2 minutes to pick a beatmap and ban an opposing player , and 2 minutes to get ready. If a team takes more time than allowed, the procedures adopted will be as follows:
