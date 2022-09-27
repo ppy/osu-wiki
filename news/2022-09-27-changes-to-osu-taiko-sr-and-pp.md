@@ -6,7 +6,7 @@ date: 2022-09-27 10:00:00 +0000
 
 It's no secret that osu!taiko star rating is overdue for a rework. Thanks to your responses in the community survey, we are now ready to unveil a series of planned updates and improvements to how difficulty is evaluated in the osu!taiko game mode!
 
-![](/wiki/shared/news/2022-08-25-changes-to-osu-taiko-star-rating-part-1/star-rating.jpg)
+![](/wiki/shared/news/2022-09-27-changes-to-osu-taiko-star-rating-part-1/star-rating.jpg)
 
 This effort was led by the newly formed [osu!taiko pp committee](/wiki/People/Performance_Points_Committee) in response to the results of the [osu!taiko SR and PP community survey](https://osu.ppy.sh/home/news/2022-02-07-taiko-mania-survey-results) held earlier this year. This group of individuals is responsible for reviewing all changes regarding star rating and performance points in the osu!taiko game mode.
 
@@ -66,7 +66,7 @@ The old colour system detected the frequency of colour changes and had penalties
 
 In the new system, we define colour difficulty as the amount of information contained within a given pattern (which can be thought as of a sequence of notes). For example, we can take a look at the following colour patterns and roughly estimate the amount of information required to describe them:
 
-![Colour pattern table showcasing colour sequence compression](/wiki/shared/news/2022-08-25-changes-to-osu-taiko-star-rating-and-performance-points/colour-patterns.jpg)
+![Colour pattern table showcasing colour sequence compression](/wiki/shared/news/2022-09-27-changes-to-osu-taiko-star-rating-and-performance-points/colour-patterns.jpg)
 
 As we can see, a more complex pattern by definition requires more information to describe. Therefore, we can run a compression algorithm, which will encode a given colour sequence using the minimum amount of information required. One thing to note is that traditional compression algorithms typically build a dictionary from repetitive patterns. However, our algorithm has to take where the repetitions take place into account, as repetitions that occur far from each other are typically harder to play than repetitions that are close to each other.
 
@@ -102,7 +102,7 @@ As well as performance point multiplier changes, the community survey highlighte
 
 To combat this, misses will now significantly affect difficulty pp on maps with a max combo below 1000, scaling the miss count by a multiplier of `1000 / total successful hits`, and as such can significantly impact short maps with a higher miss count.
 
-![Effective miss count graph](/wiki/shared/news/2022-08-25-changes-to-osu-taiko-star-rating-and-performance-points/effective-miss-count.jpg)
+![Effective miss count graph](/wiki/shared/news/2022-09-27-changes-to-osu-taiko-star-rating-and-performance-points/effective-miss-count.jpg)
 
 ### Changes to difficulty performance points values
 
@@ -116,7 +116,7 @@ Please note that these changes only affect the difficulty part of performance, w
 
 The new accuracy scaling formula is shown below:
   
-![Accuracy scaling graph](/wiki/shared/news/2022-08-25-changes-to-osu-taiko-star-rating-and-performance-points/difficulty-accuracy-scaling.jpg)
+![Accuracy scaling graph](/wiki/shared/news/2022-09-27-changes-to-osu-taiko-star-rating-and-performance-points/difficulty-accuracy-scaling.jpg)
   
 ### Changes to accuracy performance points values
   
@@ -128,7 +128,7 @@ While difficulty pp is straightforward, accuracy pp contained a plethora of issu
 
 The new HDFL bonus is graphed here.
 
-![HDFL multiplier graph](/wiki/shared/news/2022-08-25-changes-to-osu-taiko-star-rating-and-performance-points/accuracy-mod-bonus.jpg)
+![HDFL multiplier graph](/wiki/shared/news/2022-09-27-changes-to-osu-taiko-star-rating-and-performance-points/accuracy-mod-bonus.jpg)
   
 ## Next steps
   
