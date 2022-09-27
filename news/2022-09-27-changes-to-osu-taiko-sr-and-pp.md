@@ -30,7 +30,6 @@ If you would like to know more about the changes posted, or for a more detailed 
 
 This time, we have opted to take a more modular approach by introducing new changes incrementally, in the hopes of being able to fix any reported issues one step at a time. Moving forward, osu!taiko star rating will be receiving continuous updates, placing star rating and performance points in a state of flux, especially over the coming few months.
 
-
 In the star rating part of this rework, we have focused on "stamina" and "colour" skills.
 
 Performance points have seen significant changes to mod multipliers and a broad change to how accuracy is calculated. Please note however that these changes are *experimental* and did not receive as much scrutiny as the rest of the rework. Consider leaving feedback if you find anything that feels especially unusual.
