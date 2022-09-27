@@ -6,7 +6,7 @@ date: 2022-09-27 10:00:00 +0000
 
 It's no secret that osu!taiko star rating is overdue for a rework. Thanks to your responses in the community survey, we are now ready to unveil a series of planned updates and improvements to how difficulty is evaluated in the osu!taiko game mode!
 
-![](/wiki/shared/news/2022-09-27-changes-to-osu-taiko-star-rating-part-1/star-rating.jpg)
+![](/wiki/shared/news/banners/star-rating.jpg)
 
 This effort was led by the newly formed [osu!taiko pp committee](/wiki/People/Performance_Points_Committee) in response to the results of the [osu!taiko SR and PP community survey](https://osu.ppy.sh/home/news/2022-02-07-taiko-mania-survey-results) held earlier this year. This group of individuals is responsible for reviewing all changes regarding star rating and performance points in the osu!taiko game mode.
 
