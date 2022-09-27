@@ -26,7 +26,7 @@ If you would like to know more about the changes posted, or for a more detailed 
 
 ## An insight into the basis of the new rework
 
-  The [previous set of changes](https://osu.ppy.sh/home/news/2020-09-15-changes-to-osutaiko-star-rating) made to osu!taiko's performance points & star rating algorithm accounted for several skill areas at once. This made it difficult to collect meaningful feedback on specific skills and led to increased complexity, halting forward development efforts.
+The [previous set of changes](https://osu.ppy.sh/home/news/2020-09-15-changes-to-osutaiko-star-rating) made to osu!taiko's performance points & star rating algorithm accounted for several skill areas at once. This made it difficult to collect meaningful feedback on specific skills and led to increased complexity, halting forward development efforts.
 
 This time, we have opted to take a more modular approach by introducing new changes incrementally, in the hopes of being able to fix any reported issues one step at a time. Moving forward, osu!taiko star rating will be receiving continuous updates, placing star rating and performance points in a state of flux, especially over the coming few months.
 
@@ -38,7 +38,7 @@ Without further ado, let's get into the nitty-gritty of these changes.
 
 ## Star rating changes
 
-### "Stamina" skill
+### The "stamina" skill
 
 #### Issues within the old system
 
@@ -60,7 +60,7 @@ The reason for this is to assume the best-case scenario for repeated keystrokes 
 
 We can't (feasibly), nor is it desirable to, detect playstyles, so we assume the case that requires the least physical repetition, which is to switch keys each time a colour is to be hit, and as such all other existing playstyles will be weaker in comparison to the one we chose.
 
-### The "Colour" skill
+### The "colour" skill
 
 #### Issues within the old system
 
@@ -88,7 +88,7 @@ You can consult the [osu!taiko rework document](https://docs.google.com/document
 
 Previous approaches aimed to scale maps in regards to the [difficulty naming hierarchy](/wiki/Ranking_Criteria/Difficulty_naming), while this rework has deviated away from that goal, aiming instead to reflect true difficulty regardless of naming practices.
 
-This also means that star rating values for beatmaps where top-end players are almost — but not quite — getting full combo scores will now extent well into the 10 star range, rather than capping out at around 9.5 stars (medal hunters rejoice!).
+This also means that star rating values for beatmaps where top-end players are almost — but not quite — getting full combo scores will now extend well into the 10 star range, rather than capping out at around 9.5 stars (medal hunters rejoice!).
 
 ## Changes to performance points
 
@@ -106,7 +106,7 @@ This allows for simple balancing changes, and works alongside specific multiplie
 
 - The Hidden multiplier has been decreased from **1.10x** to **1.075x**, as a further bonus was placed in difficulty pp, rather than globally.
 - Easy now applies a **0.975x** multiplier to help address its problematic nature, especially when paired with Double Time.
-- The NoFail multiplier has been removed. osu!taiko uses a different HP system compared to osu!, negating the need for any kind of penalty. This also helps prevent "sandbagging" in lower ranks.
+- The No Fail multiplier has been removed. osu!taiko uses a different HP system compared to osu!, negating the need for any kind of penalty. This also helps prevent "sandbagging" in lower ranks.
 
 Additionally, the community survey highlighted issues with short maps being either underweighted at a full combo, or overweighted on plays with several misses.
 
