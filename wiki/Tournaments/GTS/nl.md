@@ -18,6 +18,7 @@ Index pagina voor de Global Taiko Showdown toernooien.
 
 - [Expert Global Taiko Showdown 2020](EGTS_2020)
 - [Expert Global Taiko Showdown 2021](EGTS_2021)
+- [Expert Global Taiko Showdown 2022](EGTS_2022)
 
 ## Intermediate Global Taiko Showdown
 
