@@ -519,6 +519,8 @@ Notes:
 
 `mania-warningarrow.png`
 
+![](img/mania-warningarrow.png)
+
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | All | ![No][false] | ![No][false] | Normal | Centre | - |

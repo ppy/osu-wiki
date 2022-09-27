@@ -236,7 +236,7 @@ This category contains explicit allowance statements of concepts and rules that 
 - **A video's dimensions must not exceed a width of 1280 and a height of 720 pixels.** Additionally, upscaling lower resolution video to a higher resolution should be avoided. This ensures video files do not become excessively large or resource intensive.
 - **A video must be encoded in H.264.**
 - **A video's [offset](/wiki/Beatmapping/Offset) must be correct if it synchronizes with the song.** An incorrect offset can result in a misleading visual representation of the song. If the same video appears in multiple difficulties, it must always have the same offset(s).
-- **A video's audio track must be removed from the video file.** The audio track in video is not used in osu!, so removing it reduces that file size of the beatmap. This includes videos with muted audio tracks.
+- **A video's audio track must be removed from the video file.** The audio track in a video is not used in osu!, and removing it reduces the file size of the beatmap. This includes videos with muted audio tracks.
   - *See [Compressing files § Video](/wiki/Guides/Compressing_files#video) for guidance.*
 
 ### Guidelines

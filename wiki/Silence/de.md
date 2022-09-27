@@ -14,7 +14,7 @@ Nutzer, die von Moderatoren stumm geschaltet werden, können folgende Dinge nich
 - In irgendeinem der osu!-Foren beitragen
 - Kommentare auf der Webseite hinterlassen (Neuigkeiten, Änderungsprotokoll, Beatmaps)
 - An [Beatmap-Diskussionen](/wiki/Beatmap_discussion) teilnehmen
-- Profildetails bearbeiten (z. B. der Avatar, die Sektion "me!")
+- Profildetails bearbeiten (z. B. der Avatar, die Sektion "ich!")
 - Beatmaps einreichen und aktualisieren
 - An [Mehrspieler](/wiki/Multi)-Spielen teilnehmen
 
@@ -34,7 +34,7 @@ Wenn du glaubst, mit Unrecht stumm geschaltet worden zu sein, dann kontaktiere d
 
 *Vorsicht: Unangemessenes Verhalten in privaten Nachrichten zu zeigen, ist nicht gegen die Regeln, solange dieses Verhalten nicht bei Leuten verwendet wird, die dies nicht möchten. Sofern dies gemeldet wird, werden entsprechende Strafen angewandt.*
 
-- Unangemessenes Verhalten in öffentlichen Chats oder Foren (z. B. in `#multiplayer`, Beatmap-Diskussionen, Kommentaren, usw.), einschließlich—aber nicht beschränkt auf—Spamming, Unsinn im Chat, Rassismus, etc.
+- Unangemessenes Verhalten in öffentlichen Chats oder Foren (z. B. in `#multiplayer`, Beatmap-Diskussionen, Kommentaren, usw.), einschließlich — aber nicht beschränkt auf — Spamming, Unsinn im Chat, Rassismus, etc.
 - Unangemessene Inhalte über andere Wege hochladen oder bereitstellen. (Z. B. Profilavatare, Einreichungen von Beatmaps, Profildetails, Banner, etc.).
 
 Die Länge einer Stummschaltung hängt von dem Schweregrad des Verstoßes ab. Weitere Stummschaltungen können ergänzt werden, wobei jede davon mehr Zeit hinzufügt. Bitte bedenke, dass wenn ein Verstoß schwerwiegend genug ist, oder ein Spieler ein Wiederholungstäter ist, es zu einer [Einschränkung des Accounts](/wiki/Help_centre/Account_restrictions) anstatt einer Stummschaltung führen kann.
