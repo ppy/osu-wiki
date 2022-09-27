@@ -53,7 +53,7 @@ Estos consejos aparecen en la parte inferior del [menú principal](/wiki/Client/
 
 ## Editor
 
-Estos consejos aparecen en el [editor de beatmap](/wiki/Client/Beatmap_editor) debajo de la [línea de tiempo del objeto de golpeo](/wiki/Client/Beatmap_editor/Timelines#objetos-de-golpeo). _No están actualizados y no son los mismos que en el cliente en inglés_
+Estos consejos aparecen en el [editor de beatmap](/wiki/Client/Beatmap_editor) debajo de la [línea de tiempo del objeto de golpeo](/wiki/Client/Beatmap_editor/Timelines#objetos-de-golpeo). *No están actualizados y no son los mismos que en el cliente en inglés*
 
 - Pulsa `H` para mostrar un listado de atajos de teclado.
 - Pulsa `V` para saltar al último círculo. Púlsalo de nuevo para saltar al final de la canción.
