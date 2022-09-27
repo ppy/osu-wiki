@@ -98,7 +98,8 @@ The final step of performance points calculation involves applying a simple mult
 
 To begin with, we have made the following changes:
 
-- The Hidden multiplier has been decreased from **1.10x** to **1.075x**, as a further bonus was placed in difficulty pp, rather than globally.
+- The global multiplier has been increased from **1.1x** to **1.13x**, affecting all scores.
+- The Hidden multiplier has been decreased from **1.10x** to **1.075x**.
 - Easy now applies a **0.975x** multiplier to help address its problematic nature, especially when paired with Double Time.
 - The No Fail multiplier has been removed. osu!taiko uses a different HP system compared to osu!, negating the need for any kind of penalty. This also helps prevent "sandbagging" in lower ranks.
 
