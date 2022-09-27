@@ -12,7 +12,7 @@ Page d'index pour les articles concernant le client d'osu! et ses principales se
 
 - [Installation](Installation)
 - [Interface](Interface)
-- [Conseils du menu](Menu_tips)
+- [Astuces du menu](Menu_tips)
 - [Références des raccourcis claviers](Keyboard_shortcuts)
 - [Options](Options)
 - [L'éditeur de beatmap](Beatmap_editor)
