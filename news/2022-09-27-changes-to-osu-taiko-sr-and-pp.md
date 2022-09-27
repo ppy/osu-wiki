@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Changes to osu!taiko Star Rating & Performance Points"
-date: 2022-08-25 12:00:00 +0000
+date: 2022-09-27 10:00:00 +0000
 ---
 
 It's no secret that osu!taiko star rating is overdue for a rework. Thanks to your responses in the community survey, we are now ready to unveil a series of planned updates and improvements to how difficulty is evaluated in the osu!taiko game mode!
