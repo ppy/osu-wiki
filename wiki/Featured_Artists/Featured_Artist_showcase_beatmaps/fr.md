@@ -1,10 +1,10 @@
-# Vitrine des beatmaps des Artistes Associés
+# Beatmaps showcase des Featured Artists
 
-Les membres de la [Mappers' Guild](/wiki/Community/Mappers_Guild) peuvent occasionnellement créer des beatmaps exclusives en utilisant les musiques et autres éléments des [Artistes Associés](/wiki/Featured_Artists) inédits d'osu!. Dès l'annonce de l'artiste correspondant, ces beatmaps sont mises en évidence dans les [newspost](https://osu.ppy.sh/home/news) et sont souvent promues sur le [compte Twitter @osugame](https://twitter.com/osugame).
+Les membres de la [Mappers' Guild](/wiki/Community/Mappers_Guild) peuvent occasionnellement créer des beatmaps exclusives en utilisant les musiques et autres éléments des [Featured Artists](/wiki/Featured_Artists) inédits d'osu!. Dès l'annonce de l'artiste correspondant, ces beatmaps sont mises en évidence dans les [newspost](https://osu.ppy.sh/home/news) et sont souvent promues sur le [compte Twitter @osugame](https://twitter.com/osugame).
 
-Pour participer à la création des beatmaps d'Artistes Associés, un membre de la Mappers' Guild doit soit accepter une [quête mystère à durée limitée](/wiki/Community/Mappers_Guild#quêtes), soit être directement invité par ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418), soit avoir son paramètre `FA showcase mapper` activé dans le [site web de la Mappers' Guild](https://mappersguild.com/).
+Pour participer à la création des beatmaps de Featured Artists, un membre de la Mappers' Guild doit soit accepter une [quête mystère à durée limitée](/wiki/Community/Mappers_Guild#quêtes), soit être directement invité par ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418), soit avoir son paramètre `FA showcase mapper` activé dans le [site web de la Mappers' Guild](https://mappersguild.com/).
 
-Cet article répertorie toutes les beatmaps vitrines qui ont été créées par les membres de la Mappers' Guild au fil du temps.
+Cet article répertorie toutes les beatmaps showcase qui ont été créées par les membres de la Mappers' Guild au fil du temps.
 
 ## 2017
 
@@ -539,14 +539,62 @@ Cet article répertorie toutes les beatmaps vitrines qui ont été créées par 
   - (![][osu!]) [SAMString - Shifting Clouds](https://osu.ppy.sh/beatmapsets/1654451#osu/3376932) organisé par ::{ flag=TR }:: [Entry](https://osu.ppy.sh/users/10213311)
 - **[Kanpyohgo](https://osu.ppy.sh/home/news/2022-06-11-new-featured-artist-kanpyohgo)** (11/06/2022)
   - (![][osu!]) [Kanpyohgo - Tozaseshi Kumo no Kayoiji -Stormy Extended-](https://osu.ppy.sh/beatmapsets/1783062#osu/3651636) organisé par ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899)
+- **[:Poin7less](https://osu.ppy.sh/home/news/2022-06-15-new-featured-artist-poin7less)** (15/06/2022)
+  - (![][osu!]) [:Poin7less - Love Infection](https://osu.ppy.sh/beatmapsets/1747369#osu/3574158) organisé par ::{ flag=JP }:: [Ogura Yui](https://osu.ppy.sh/users/6644401)
+- **[NILFRUITS](https://osu.ppy.sh/home/news/2022-06-25-new-featured-artist-nilfruits)** (25/06/2022)
+  - (![][osu!]) [NILFRUITS - Ironina](https://osu.ppy.sh/beatmapsets/1767671#osu/3618328) organisé par ::{ flag=CN }:: [Yugu](https://osu.ppy.sh/users/3161834)
+  - (![][osu!taiko]) [NILFRUITS - Arandano](https://osu.ppy.sh/beatmapsets/1786165#taiko/3668809) organisé par ::{ flag=EC }:: [Gamelan4](https://osu.ppy.sh/users/9856910)
+- **[Toromaru](https://osu.ppy.sh/home/news/2022-06-29-new-featured-artist-toromaru)** (29/06/2022)
+  - (![][osu!]) [Toromaru - Formless Canvas](https://osu.ppy.sh/beatmapsets/1727694#osu/3667382) organisé par ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334)
+
+### Juillet
+
+- **[aran](https://osu.ppy.sh/home/news/2022-07-09-new-featured-artist-aran)** (09/07/2022)
+  - (![][osu!]) [aran & lapix - KALACAKLA](https://osu.ppy.sh/beatmapsets/1773829#osu/3631936) organisé par ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342)
+- **[NOISZ](https://osu.ppy.sh/home/news/2022-07-23-new-featured-artist-noisz)** (23/07/2022)
+  - (![][osu!]) [Camellia feat. Morinaga Mayumi - re:||BIRTH](https://osu.ppy.sh/beatmapsets/1779714#osu/3644812) organisé par ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059)
+  - (![][osu!]) [Soleily feat. SUNRaiSE - Rise Above](https://osu.ppy.sh/beatmapsets/1767895#osu/3618854) organisé par ::{ flag=HU }:: [Nytrocide\_](https://osu.ppy.sh/users/11327918)
+- **[ZxNX](https://osu.ppy.sh/home/news/2022-07-30-new-featured-artist-zxnx)** (30/07/2022)
+  - (![][osu!]) [ZxNX - Schadenfreude](https://osu.ppy.sh/beatmapsets/1816239#osu/3728042) organisé par ::{ flag=FR }:: [Realazy](https://osu.ppy.sh/users/918297)
+  - (![][osu!catch]) [ZxNX - Schadenfreude](https://osu.ppy.sh/beatmapsets/1698949#fruits/3522804) organisé par ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134)
+  - (![][osu!taiko]) [ZxNX - FORTALiCE](https://osu.ppy.sh/beatmapsets/1765720#taiko/3614336) organisé par ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721)
+  - (![][osu!mania]) [ZxNX - FORTALiCE](https://osu.ppy.sh/beatmapsets/1737101#mania/3550471) organisé par ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789)
+
+### Août
+
+- **[Hamu](https://osu.ppy.sh/home/news/2022-08-03-new-featured-artist-hamu)** (03/08/2022)
+  - (![][osu!]) [Hamu - Secret Clover](https://osu.ppy.sh/beatmapsets/1815789#osu/3732873) organisé par ::{ flag=US }:: [Heroine](https://osu.ppy.sh/users/12727076)
+  - (![][osu!])(![][osu!catch]) [Hamu - Lemrina](https://osu.ppy.sh/beatmapsets/1799400#osu/3690605) organisé par ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117)
+- **[Waterflame](https://osu.ppy.sh/home/news/2022-08-10-new-featured-artist-waterflame)** (10/08/2022)
+  - (![][osu!catch]) [Waterflame - Ricochet Love](https://osu.ppy.sh/beatmapsets/1799889#fruits/3689904) organisé par ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508)
+- **[Mitsukiyo](https://osu.ppy.sh/home/news/2022-08-13-new-featured-artist-mitsukiyo)** (13/08/2022)
+  - (![][osu!taiko]) [Mitsukiyo - Dream Leaf](https://osu.ppy.sh/beatmapsets/1792033#taiko/3677766) organisé par ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)
+  - (![][osu!]) [Mitsukiyo - Mutual Panorama (feat. Aitsuki Nakuru)](https://osu.ppy.sh/beatmapsets/1806127#osu/3703899) organisé par ::{ flag=PH }:: [Ayesha Altugle](https://osu.ppy.sh/users/1125647)
+  - (![][osu!]) [Mitsukiyo - Kimi to Boku no Sekai (feat. \*namirin)](https://osu.ppy.sh/beatmapsets/1806117#osu/3703875) organisé par ::{ flag=PH }:: [Amateurre](https://osu.ppy.sh/users/7326908)
+- **[Koven](https://osu.ppy.sh/home/news/2022-08-17-new-featured-artist-koven)** (17/08/2022)
+  - (![][osu!]) [Koven - Love Wins Again](https://osu.ppy.sh/beatmapsets/1485184#osu/3045583) organisé par ::{ flag=LT }:: [Strategas](https://osu.ppy.sh/users/2971837)
+- **[Abuse](https://osu.ppy.sh/home/news/2022-08-20-new-featured-artist-abuse)** (20/08/2022)
+  - (![][osu!]) [Abuse - Shinjuku Jack](https://osu.ppy.sh/beatmapsets/1817377#osu/3728565) organisé par ::{ flag=CN }:: [Yugu](https://osu.ppy.sh/users/3161834)
+- **[DJ Genki / Gram](https://osu.ppy.sh/home/news/2022-08-24-new-featured-artist-dj-genki-gram)** (24/08/2022)
+  - (![][osu!taiko]) [DJ Genki vs. Camellia feat. moimoi - YELL!](https://osu.ppy.sh/beatmapsets/1788470#taiko/3676892) organisé par ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733)
+  - (![][osu!]) [Gram vs. Camellia - Ragnarok](https://osu.ppy.sh/beatmapsets/1832937#osu/3762850) organisé par ::{ flag=GB }:: [Altai](https://osu.ppy.sh/users/5745865)
+  - (![][osu!catch]) [Gram vs. Yooh - Apocalypse](https://osu.ppy.sh/beatmapsets/1816401#fruits/3731299) organisé par ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134)
+- **[Aiyru](https://osu.ppy.sh/home/news/2022-08-27-new-featured-artist-aiyru)** (27/08/2022)
+  - (![][osu!]) [Aiyru - Station](https://osu.ppy.sh/beatmapsets/1789344#osu/3666406) organisé par ::{ flag=DE }:: [PaRaDogi](https://osu.ppy.sh/users/2054596)
+  - (![][osu!mania]) [Aiyru - Station](https://osu.ppy.sh/beatmapsets/1794071#mania/3676941) organisé par ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789)
+- **[-45](https://osu.ppy.sh/home/news/2022-08-31-new-featured-artist-45)** (31/08/2022)
+  - (![][osu!]) [-45 - Aci-L](https://osu.ppy.sh/beatmapsets/1783108#osu/3651716) organisé par ::{ flag=KR }:: [Luscent](https://osu.ppy.sh/users/2688581)
+  - (![][osu!]) [-45 - Total Eclipse of The Sun](https://osu.ppy.sh/beatmapsets/1782707#osu/3662485) organisé par ::{ flag=US }:: [Matrix](https://osu.ppy.sh/users/5052899)
+  - (![][osu!catch]) [-45 - Total Eclipse of The Sun](https://osu.ppy.sh/beatmapsets/1826327#fruits/3748082) organisé par ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565)
+  - (![][osu!]) [-45 - Reishiki](https://osu.ppy.sh/beatmapsets/1557323#osu/3712677) organisé par ::{ flag=FR }:: [-45](https://osu.ppy.sh/users/13400075)
 
 ## Histoire
 
-Dès sa création, la Mappers' Guild s'est fixée comme objectif principal de "créer des packs de beatmaps promotionnels pour les Artistes Associés à venir". Cela s'est reflété dans le tout premier projet majeur de la Guilde, dans lequel les membres de la Guilde ont préparé et classé six beatmaps des [musiques MOtOLOiD sous licence](https://osu.ppy.sh/beatmaps/artists/19) bien avant [l'annonce de l'artiste correspondant](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid).
+Dès sa création, la Mappers' Guild s'est fixée comme objectif principal de "créer des packs de beatmaps promotionnels pour les Featured Artists à venir". Cela s'est reflété dans le tout premier projet majeur de la Guilde, dans lequel les membres de la Guilde ont préparé et classé six beatmaps des [musiques MOtOLOiD sous licence](https://osu.ppy.sh/beatmaps/artists/19) bien avant [l'annonce de l'artiste correspondant](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid).
 
-Comme la Guilde elle-même fonctionnait sur une entrée fermée, basée sur les candidatures à ses débuts, l'accès aux contenus des Artistes Associés à venir était souvent réservé à une poignée de mappeurs qui étaient majoritairement du mode de jeu [osu!](/wiki/Game_mode/osu!)]. Cependant, lorsque la Guilde a commencé à passer à un système d'entrée ouvert et automatisé [début 2019](/wiki/Mapping_and_Modding_Timeline#mars.5), de plus en plus de mappeurs ont été attirés par la création de beatmaps vitrines pour les futurs Artistes Associés, quel que soit leur mode de jeu.
+Comme la Guilde elle-même fonctionnait sur une entrée fermée, basée sur les candidatures à ses débuts, l'accès aux contenus des Featured Artists à venir était souvent réservé à une poignée de mappeurs qui étaient majoritairement du mode de jeu [osu!](/wiki/Game_mode/osu!)]. Cependant, lorsque la Guilde a commencé à passer à un système d'entrée ouvert et automatisé [début 2019](/wiki/Mapping_and_Modding_Timeline#mars.5), de plus en plus de mappeurs, quel que soit leur mode de jeu, ont été attirés par la création de beatmaps showcase pour les futurs Featured Artists.
 
-À partir de l'annonce de l'Artiste Associé [MYUKKE.](https://osu.ppy.sh/home/news/2020-12-05-new-featured-artist-myukke) en décembre 2020, les nouvelles annonces d'Artistes Associés ont parfois commencé à présenter de courtes vidéos d'avant-première, souvent accompagnées d'une beatmap en guise de titre principal.
+À partir de l'annonce du Featured Artist [MYUKKE.](https://osu.ppy.sh/home/news/2020-12-05-new-featured-artist-myukke) en décembre 2020, les nouvelles annonces de Featured Artists ont parfois commencé à présenter de courtes vidéos d'avant-première, souvent accompagnées d'une beatmap en guise de titre principal.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
