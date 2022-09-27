@@ -122,9 +122,7 @@ Please note that these changes only affect the difficulty part of performance, w
 
 - A further Easy multiplier of **0.985x** has been added, in addition to the global nerf described above.
 - A new Hard Rock multiplier of **1.05x** has been added, as a way to rebalance the changes found within accuracy pp.
-- Difficulty pp has been adjusted to hugely nerf previously overweighted low-accuracy scores. In technical terms, decreasing accuracy now scales by a square value instead of linearly as visualised below.
-
-The new accuracy scaling formula is shown below:
+- Difficulty pp has been adjusted to hugely nerf previously overweighted low-accuracy scores. In technical terms, difficulty pp scales by the square of the accuracy now instead of linearly, as visualised below.
 
 ![Accuracy scaling graph](/wiki/shared/news/2022-09-27-changes-to-osu-taiko-star-rating-and-performance-points/difficulty-accuracy-scaling.jpg)
 
