@@ -88,7 +88,7 @@ You can consult the [osu!taiko rework document](https://docs.google.com/document
 
 Previous approaches aimed to scale maps in regards to the [difficulty naming hierarchy](/wiki/Ranking_Criteria/Difficulty_naming), while this rework has deviated away from that goal, aiming instead to reflect true difficulty regardless of naming practices.
 
-This also means that star rating values for maps with near-FCs are no longer near 9.5 stars, but rather can expand well into the 10 star range (medal hunters rejoice!).
+This also means that star rating values for beatmaps where top-end players are almost — but not quite — getting full combo scores will now extent well into the 10 star range, rather than capping out at around 9.5 stars (medal hunters rejoice!).
 
 ## Changes to performance points
 
