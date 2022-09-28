@@ -82,7 +82,7 @@ tags:
 - 查阅[精选艺术家列表](https://osu.ppy.sh/beatmaps/artists)来获取已经测好时间轴的谱面，并直接开始作图！
 - 把哨、镲和拍手音效放在节奏对应的位置上来润色你的谱面！可以在 `时间轴设定 (Timing Setup)` 窗口 (`F6`) 内的音频 (Audio) 标签页下来修改不同段落的音效组。
 - 将光标悬停在时间轴上，并按住 `Alt`，滚动鼠标滚轮或者按 `+`/`-` 按钮来缩放时间轴。
-- 如果你在作图期间调整时间轴，切记要使用[`重新对齐所有物件`](/wiki/Client/Beatmap_editor/Menu#special-commands.3)功能，重新将所有物件对齐在时间轴上。这个功能位于 `测定时间轴 (Timing)` 选项卡的下拉菜单里。注意未对齐的[继承时间点（绿线）](/wiki/Client/Beatmap_editor/继承时间点（绿线）)——它们不受这个功能影响！
+- 如果你在作图期间调整时间轴，切记要使用[`重新对齐所有物件`](/wiki/Client/Beatmap_editor/Menu#special-commands.3)功能，重新将所有物件对齐在时间轴上。这个功能位于 `测定时间轴 (Timing)` 选项卡的下拉菜单里。注意未对齐的[继承时间点（绿线）](/wiki/Client/Beatmap_editor/Timing#继承时间点（绿线）)——它们不受这个功能影响！
 - 任何[待定 (Pending)](/wiki/Beatmap/Category#work-in-progress-和-pending) 状态的谱面，30 天之内不更新，都会被[扔进坟场](/wiki/Beatmap/Category#graveyard)。坟图能在你的用户页内复活到待定状态。
 - 当复制 (`Ctrl` + `C`) 物件时，你的剪贴板将会写入这些物件的时间位置和连击数字。这些文字对[摸图](/wiki/Modding)极有帮助！
 - 在时间线上滑条尾处点击并拖拽，能给滑条添加[折返箭头](/wiki/Gameplay/Hit_object/Slider/Reverse_slider)。
