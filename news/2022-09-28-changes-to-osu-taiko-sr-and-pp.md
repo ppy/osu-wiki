@@ -12,8 +12,6 @@ This effort was led by the newly formed [osu!taiko pp committee](/wiki/People/Pe
 
 The team is comprised of two parts: [vun](https://osu.ppy.sh/users/6932501) and [-Lawtron-](https://osu.ppy.sh/users/11475208) are leading the development of the new rework, whereas [mangomizer](https://osu.ppy.sh/users/1893718) and [Horiiizon](https://osu.ppy.sh/users/8071438) are providing the backing for the community organisation and feedback.
 
-# Introduction
-
 Before we proceed, there are a few key terms and ideas to define.
 
 **Star rating** is designed to be a measure of how difficult a given beatmap is. It does this through mathematically charting various values in a map's construction, such as how densely packed a given portion of a map is with hit objects. These are described as *skills* as a general term. Three skills are defined for the purpose of evaluating star rating: *stamina*, *rhythm* and *colour*.
@@ -25,6 +23,39 @@ We will also be using terminology coined by the osu!taiko community to refer to 
 If you would like to know more about the changes posted, or for a more detailed breakdown on the some of the in-development changes, head on over to the [osu!taiko rework document](https://docs.google.com/document/d/1Z5GC4DMqOVzeIERMSK3qpQaqjq-sVnhbuoxAwy9qxDs/edit). This is a working document, and will periodically be updated with the latest developments from any developers who request their changes to be added to it, via the osu!taiko pp committee.
 
 You can also dive into the code over in the [osu!(lazer) GitHub repository](https://github.com/ppy/osu/tree/master/osu.Game.Rulesets.Taiko/Difficulty).
+
+## Release Schedule
+
+Deployment of these changes will as usual, take some time to fully complete. If you are interested in following the progress we recommend you bookmark this page and check back on this section, as it will be updated as forward progress is made.
+
+### 🏃 Star rating updates \[2022-09-28\]
+
+An initial pass over all beatmaps to update their star ratings. During this period, new scores will potentially be calculated using the updated calculations, and as such will not match older scores. There may be discrepancies in ordering and display between the game client and web site.
+
+### ⏳ Background user total recalculations \[2022-09-28 ~ 2022-09-30\]
+
+Starting from the user at rank #1 and working outwards, each user's total pp will be recalculated.
+
+During this period, **rank history graphs will be frozen**. If a user plays, their **total pp** value will immediately be updated using the correct values for all past scores, but this won't match past scores' display under "Best Performance". **As a result, it may seem as if you temporarily gain, lose or fluctuate in rank relative to others.**
+
+During this maintenance, the following will also occur:
+
+- Inactive users (anyone that has not played the game in 3 months) will be delisted.
+- Scores in the "best performance" profile section may look to be out of order, or not visible at all during this phase. This will resolve completely during the reindexing phase listed below.
+
+### ⏳ Re-enabling of global rank history updates \[2022-09-30\]
+
+Rank history graphs updates will be enabled and updated again. At this point, all users' global leaderboard ranks will be stable going forward.
+
+### ⏳ Reindexing \[2022-09-30\]
+
+This will fix scores being out of order on profiles, and in some rare cases not being displayed at all.
+
+Estimated to take 1 day.
+
+### ⏳ Background user score recalculations \[2022-10-01 ~\]
+
+While the aforementioned "user total" step is aimed to cover the majority of visible scores in the "Best Performance" profile section, this is a second pass operation which aims to address all remaining scores that may have not been updated yet.
 
 ## An insight into the basis of the new rework
 
