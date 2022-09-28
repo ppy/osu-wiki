@@ -819,7 +819,7 @@ The title text serves as the image caption. If an image inside the infobox is wi
 
 ### Pitfalls
 
-- Do not use infoboxes in short sections, since the next section's title will only appear after the last used infobox ends.
+- Do not use infoboxes in short sections. The next section's heading appears below any infoboxes, leaving a large gap between the text and the next heading.
 - Image titles followed by [HTML comments](#comments) are hidden.
 - If several images are not on the same line, including them in an infobox yields poor results.
 
