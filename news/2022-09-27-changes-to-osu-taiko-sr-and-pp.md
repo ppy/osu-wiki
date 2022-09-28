@@ -24,6 +24,8 @@ We will also be using terminology coined by the osu!taiko community to refer to 
 
 If you would like to know more about the changes posted, or for a more detailed breakdown on the some of the in-development changes, head on over to the [osu!taiko rework document](https://docs.google.com/document/d/1Z5GC4DMqOVzeIERMSK3qpQaqjq-sVnhbuoxAwy9qxDs/edit). This is a working document, and will periodically be updated with the latest developments from any developers who request their changes to be added to it, via the osu!taiko pp committee.
 
+You can also dive into the code over in the [osu!(lazer) GitHub repository](https://github.com/ppy/osu/tree/master/osu.Game.Rulesets.Taiko/Difficulty).
+
 ## An insight into the basis of the new rework
 
 The [previous set of changes](https://osu.ppy.sh/home/news/2020-09-15-changes-to-osutaiko-star-rating) (applied all the way back in 2020!) accounted for several skill areas at once. This made it difficult to collect meaningful feedback on specific skills and led to increased complexity, halting forward development efforts.
@@ -70,15 +72,12 @@ The new colour system is more aware of different kinds of patterning used in osu
 
 In general, the harder it is to describe a pattern, the harder the pattern will be considered. Additionally, the more dense a pattern (or color sequence, as described by the code) is, the harder the algorithm will consider it to be. Patterns that repeat with longer segments between them are also considered more difficult than patterns that repeat closely to one another.
 
-The concepts utilised to achieve this are quite extensive. If this sort of thing interests you, feel free to read more in the [osu!taiko rework document](https://docs.google.com/document/d/1Z5GC4DMqOVzeIERMSK3qpQaqjq-sVnhbuoxAwy9qxDs/edit).
-
 ### Calculating the final result
 
 Star rating is now based on *peak* "strain" values incorporating all three skills covered by the algorithm, namely stamina, colour (and rhythm in the future). This is a significant change from the previous system, where only strain and individual skill levels were utilised instead.
 
 *Peak* difficulty splits the map into sections and combines the highest strains of each skill in each section, aiming to catch out particularly demanding moments. The final star rating is a weighted sum of the peak skill sections, including a slight multiplier to scale better.
 
-You can consult the [osu!taiko rework document](https://docs.google.com/document/d/1Z5GC4DMqOVzeIERMSK3qpQaqjq-sVnhbuoxAwy9qxDs/edit), or dive into the code over in the [osu!(lazer) GitHub repository](https://github.com/ppy/osu/tree/master/osu.Game.Rulesets.Taiko/Difficulty) for the full details on how the calculation works.
 
 Previous approaches were tailored towards scaling maps with respect to [difficulty names](/wiki/Ranking_Criteria/Difficulty_naming), a path that we will no longer be taking. Star rating should better reflect the actual difficulty of a map at all levels with new changes going forward, starting with this one.
 
