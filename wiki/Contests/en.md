@@ -236,6 +236,18 @@ The **osu!trivium Quiz** is a trivia contest where players compete in answering 
 
 *Unofficial contests* are contests that are hosted by the members of the community.
 
+### Mapping to Pander: Taiko
+
+**Mapping to Pander: Taiko** is an osu!taiko mapping contest series with two primary features: there is only one judge per iteration, and contestants may map any song.
+
+The goal this contest is simple: Contestants must create a map that panders best to the chosen judge for the contest. The judge will not be given any criteria; it will be up to them how they score and rank the entries, either by making their own criteria, or simply sorting them from best to worst.
+
+| Contest No. | Judge | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Results |
+| :-: | :-- | :-- | :-- | :-- | :-- |
+| [#1](https://osu.ppy.sh/community/forums/topics/1624880) | ::{FLAG=NL}:: [Boaz](https://osu.ppy.sh/users/13302996) | ::{FLAG=JP}:: [_Rise](https://osu.ppy.sh/users/5217107) | ::{FLAG=CL}:: [Metsaller](https://osu.ppy.sh/users/4364791) | ::{FLAG=FI}:: [Antti](https://osu.ppy.sh/users/13281473) | [Results](https://docs.google.com/spreadsheets/d/1aR1GjF8diyjFhK_k_uOkU40zIKjaQbXhVbGDGmq5pdg/edit?usp=sharing) |
+| [#2](https://osu.ppy.sh/community/forums/topics/1639586) | ::{FLAG=AR}:: [Axer](https://osu.ppy.sh/users/7299864) | ::{FLAG=TH}:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) | ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957) | ::{FLAG=US}:: [Vixlowo](https://osu.ppy.sh/users/20295114) | [Results](https://docs.google.com/spreadsheets/d/1ps3bOL2JlzwPEh0gVTLHnp7E48stwqHMH6-ljDSBJQs/edit?usp=sharing) |
+| [#3](https://osu.ppy.sh/community/forums/topics/1652502) | ::{FLAG=US}:: [radar](https://osu.ppy.sh/users/7131099) | *TBD* | *TBD* | *TBD* | *TBD* |
+
 ### osb! Storyboarding Contest
 
 The **osb! Storyboarding Contest** is a storyboarding contest where participating storyboarders compete to create the best storyboard. This contest is hosted by osu! storyboarder banquet, the storyboarding community.
