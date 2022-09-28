@@ -119,7 +119,3 @@ Ces astuces apparaissent dans la [version lazer du client](https://github.com/pp
 - [Client/Interface](/wiki/Client/Interface)
 - [Client/Éditeur de Beatmap](/wiki/Client/Beatmap_editor)
 - [Client/Références des raccourcis claviers](/wiki/Client/Keyboard_shortcuts)
-
-## Notes
-
-[^frame-limiter]: Aujourd'hui appelé "Limite de FPS".
