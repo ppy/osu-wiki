@@ -8,7 +8,7 @@ tags:
 
 # Combo-Bilder
 
-**Combo-Bilder** (auch *Combo-Bursts* genannt) lobpreisen die Erreichung eines [Combo-Meilensteins](/wiki/Gameplay/Combo_milestone) durch das  kurzzeitige Anzeigen eines Bildes. Diese Bilder sind in jedem Spielmodus unterschiedlich.
+**Combo-Bilder** (auch *Combo-Bursts* genannt) lobpreisen die Erreichung eines [Combo-Meilensteins](/wiki/Gameplay/Combo_milestone) durch das kurzzeitige Aufblitzen eines Bildes. Diese Bilder sind in jedem Spielmodus unterschiedlich.
 
 - In [osu!](/wiki/Game_mode/osu!) und [osu!catch](/wiki/Game_mode/osu!catch) erscheinen Charaktere entweder von der linken oder rechten Seite des Fensters. Standardmäßig sind die erwähnten Charaktere [pippi](/wiki/Mascots#pippi) bzw. [Yuzu](/wiki/Mascots#yuzu).
 - In [osu!taiko](/wiki/Game_mode/osu!taiko) erscheint hinter [pippidon](/wiki/Mascots#don) eine Ansammlung von Blumen.
