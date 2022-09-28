@@ -121,4 +121,4 @@ Estos consejos aparecen en la [versión lazer del cliente](https://github.com/pp
 
 ## Notes
 
-[^frame-limiter]: Nowadays called "Límite de FPS".
+[^frame-limiter]: Actualmente llamado "Límite de FPS".
