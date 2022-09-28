@@ -12,7 +12,7 @@ tags:
 
 # Mapping to Pander: Taiko
 
-![contest banner](img/banner.png "Mapping to Pander: Taiko")
+![contest banner](img/banner.jpg "Mapping to Pander: Taiko")
 
 **Mapping to Pander: Taiko** (*M2P*) is an osu!taiko mapping contest series with two primary features: there is only one judge per iteration, and contestants may map any song.
 
