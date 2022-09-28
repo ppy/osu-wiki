@@ -9,7 +9,7 @@ tags:
 
 Das **Community-Mentorenprogramm** ist eine Möglichkeit für unerfahrene Mapper, sich durch eine Betreuung von versierten Mappern oder Moddern an der Mapping-Community zu beteiligen.
 
-Das Programm wird über Discord organisiert und saisonale Zyklen verwaltet. Jeder Zyklus wird durch einen Beitrag im Forum angekündigt und unregelmäßige Zyklen werden durch einen News-Beitrag auf der Hauptseite beworben.
+Das Programm wird über Discord organisiert und in saisonalen Zyklen verwaltet. Jeder Zyklus wird durch einen Beitrag im Forum angekündigt und unregelmäßige Zyklen werden durch einen News-Beitrag auf der Hauptseite beworben.
 
 ## Frühere Mentorenprogramme
 
