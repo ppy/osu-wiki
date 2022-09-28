@@ -2,7 +2,7 @@
 
 ## Unser Versprechen
 
-Wir als Mitglieder, Mitwirkende und Führungskräfte versprechen, die Teilnahme an unserer Community für jeden eine Erfahrung ohne Belästigung zu machen, unabhängig des Alters, der Körpergröße, von sichtbaren oder unsichtbaren Behinderungen, der ethnischen Herkunft, der Geschlechtsmerkmale, der Geschlechtsidentität und des Ausdrucks, des Erfahrungsniveaus, des Bildungsstandes, des sozioökonomischen Status, der Nationalität, des persönliche Aussehens, der Rasse, der Religion oder der sexuellen Identität und Orientierung.
+Wir als Mitglieder, Mitwirkende und Führungskräfte versprechen, die Teilnahme an unserer Community für jeden eine Erfahrung ohne Belästigung zu machen, unabhängig des Alters, der Körpergröße, von sichtbaren oder unsichtbaren Behinderungen, der ethnischen Herkunft, der Geschlechtsmerkmale, der Geschlechtsidentität und des Ausdrucks, des Erfahrungsniveaus, des Bildungsstandes, des sozioökonomischen Status, der Nationalität, des persönlichen Aussehens, der Rasse, der Religion oder der sexuellen Identität und Orientierung.
 
 Wir verpflichten uns, auf eine Weise zu handeln und zu interagieren, die zu einer offenen, einladenden, diversen, integrativen und gesunden Community beiträgt.
 
@@ -21,7 +21,7 @@ Beispiele für inakzeptables Verhalten sind:
 - die Verwendung von sexualisierter Sprache oder Bildmaterial und sexuelle Aufmerksamkeit oder Annäherungsversuche jeder Art
 - Trollen, beleidigende oder abwertende Kommentare und persönliche oder politische Angriffe
 - öffentliche oder private Belästigung
-- private Informationen von anderen veröffentlichen, wie zum Beispiel eine physische oder E-Mail-Adresse, ohne das explizite Einverständnis der Person
+- private Informationen von anderen veröffentlichen, wie zum Beispiel eine physische oder eine E-Mail-Adresse, ohne das explizite Einverständnis der Person
 - sonstiges Verhalten, das in einem professionellen Umfeld als unangemessen betrachtet werden könnte
 
 ## Zuständigkeiten bei der Durchsetzung
@@ -49,7 +49,7 @@ Alle Community-Leiter sind dazu verpflichtet, die Privatsphäre und Sicherheit d
 
 ## Richtlinien für die Durchsetzung
 
-Führungspersönlichkeiten der Community werden sich an diese Richtlinien für die Auswirkungen auf die Community richten, um die Konsequenzen jedes Handelns zu bestimmen, das sie als Verstoß gegen diesen Verhaltenskodex ansehen:
+Die Führungspersönlichkeiten der Community werden sich an diese Richtlinien für die Auswirkungen auf die Community richten, um die Konsequenzen jedes Handelns zu bestimmen, das sie als Verstoß gegen diesen Verhaltenskodex ansehen:
 
 ### 1. Berichtigung
 
@@ -75,10 +75,10 @@ Führungspersönlichkeiten der Community werden sich an diese Richtlinien für d
 
 **Konsequenz**: Eine dauerhafte Sperre von jeder Art von öffentlicher Interaktion innerhalb der Community.
 
-## Zuschreibung
+## Quellen
 
 Dieser Verhaltenskodex wurde aus dem [Contributor Covenant](https://www.contributor-covenant.org) adaptiert, verfügbar unter <https://www.contributor-covenant.org/version/2/0/code_of_conduct.html>.
 
-Die Richtlinien für die Auswirkungen auf die Community sind aus [Mozillas code of conduct enforcement ladder](https://github.com/mozilla/diversity) inspiriert.
+Die Richtlinien für die Auswirkungen auf die Community sind aus [Mozillas Verhaltenskodex (Englisch)](https://github.com/mozilla/diversity) inspiriert.
 
 Für Antworten auf häufige Fragen über den Verhaltenskodex, siehe das FAQ unter <https://www.contributor-covenant.org/faq>. Übersetzungen sind erhältlich unter <https://www.contributor-covenant.org/translations>.
