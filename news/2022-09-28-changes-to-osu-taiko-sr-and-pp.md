@@ -74,10 +74,9 @@ In general, the harder it is to describe a pattern, the harder the pattern will 
 
 ### Calculating the final result
 
-Star rating is now based on *peak* "strain" values incorporating all three skills covered by the algorithm, namely stamina, colour (and rhythm in the future). This is a significant change from the previous system, where only strain and individual skill levels were utilised instead.
+Star rating is now based on *peak* "strain" values incorporating all three skills covered by the algorithm, namely stamina and colour (as well as rhythm in the future). This is a significant change from the previous system, where only strain and individual skill levels were utilised instead.
 
 *Peak* difficulty splits the map into sections and combines the highest strains of each skill in each section, aiming to catch out particularly demanding moments. The final star rating is a weighted sum of the peak skill sections, including a slight multiplier to scale better.
-
 
 Previous approaches were tailored towards scaling maps with respect to [difficulty names](/wiki/Ranking_Criteria/Difficulty_naming), a path that we will no longer be taking. Star rating should better reflect the actual difficulty of a map at all levels with new changes going forward, starting with this one.
 
