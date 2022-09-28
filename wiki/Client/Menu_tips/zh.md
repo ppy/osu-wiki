@@ -70,7 +70,7 @@ tags:
 - 如果你想随意移动物件的位置，可以禁用[`格点锁定`](/wiki/Beatmapping/Grid_snapping)功能。使用 `Ctrl` + 方向键能精确调整物件摆放的位置。
 - 当你的谱面制作完毕，可以求摸，就可以在[谱面提交系统](/wiki/Beatmapping/Beatmap_submission)中上传了！`上传谱面`的按钮能在`文件`选项卡的下拉菜单里找到。
 - 编辑器左上角的音效组和附加音效选项，能为你的物件提供更多的[音效](/wiki/Beatmapping/Hitsound)组合。
-- 如果你想[上架](/wiki/Beatmap_ranking_procedure)自己的谱面，就先阅读 wiki 上的[谱面上架标准 (RC)] 吧！
+- 如果你想[上架](/wiki/Beatmap_ranking_procedure)自己的谱面，就先阅读 wiki 上的[谱面上架标准 (RC)](/wiki/Ranking_Criteria) 吧！
 - 将滑条转换成[连打](/wiki/Beatmap/Pattern/Stream) (`Ctrl` + `Shift` + `F`) 能够轻松获得一条平滑的连打串。
 - 如果你在转盘后放了物件，确保它们之间有足够的时间间隔，让玩家能辨认并准确击打后面的物件。
 - 能使用[创建多边形圆圈](/wiki/Client/Beatmap_editor/Menu#special-commands.2)工具 (`Ctrl` + `Shift` + `D`) 来获得几何排布的一组物件。
