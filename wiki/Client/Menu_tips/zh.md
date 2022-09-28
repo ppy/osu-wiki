@@ -21,9 +21,9 @@ tags:
 - 当你在有大量谱面的[列表](/wiki/Client/Interface#song-select)中选歌时，可以按住左键拖拽屏幕右侧的滚动条，或者按住右键快速定位谱面。
 - 在任何地方，都可以按下 `F8`/`F9` 加入 osu! [聊天](/wiki/Client/Interface/Chat_console)！
 - 右击谱面，或者点击选歌列表下的 `Beatmap Options` 按钮，会显示谱面管理菜单。
-- 如果你[觉得有操作延迟](/wiki/Performance_troubleshooting)，那么你可以尝试到设定里调高`帧率限制` [^frame-limiter]。或者启用`全屏模式`，这应该会有所改善。如果嫌全屏的画面太大的话，可以用`不缩放画面`功能。
+- 如果你[觉得有操作延迟](/wiki/Performance_troubleshooting)，那么你可以尝试到设定里调高`帧率限制`[^frame-limiter]。或者启用`全屏模式`，这应该会有所改善。如果嫌全屏的画面太大的话，可以用`不缩放画面`功能。
 - 遇到快速连打时，可以试试交替使用左右键，或者使用键盘上的 `Z`/`X` 键来啪啪啪！
-- 如果视频无法播放，在发帖报告 bug 前请先阅读维基！
+- 如果视频无法播放，在发帖报告 bug 前请先阅读 wiki！
 - 按下 `F12` 可以截图哦，拿到好成绩时别忘记了。
 - 你可以通过用[旁观功能](/wiki/Gameplay/Spectating)来观摩其他玩家游戏以得到更多的游戏技巧。按 `F9` 展开玩家列表然后点击你打算旁观的玩家！
 - 如果作者更新了谱面，你可以通过快捷按钮迅速更新到最新版本。
@@ -36,7 +36,7 @@ tags:
 - 在游戏中，可以使用鼠标滚轮来调节音量。如果你觉得这个功能碍事，可以在选项 (Options) 中禁用掉。
 - 在游戏中，可以点击鼠标中键来快速暂停或继续游戏。如果你觉得这个功能碍事，可以在选项 (Options) 中禁用掉。
 - 点击成绩列表上方的气泡小图标，你就能从游戏内快速访问歌曲的[网页排行榜](/wiki/Client/Interface#rankings)和讨论帖。
-- 你可以在官网论坛的 [Skinning 板块](https://osu.ppy.sh/community/forums/15)下载[皮肤](/wiki/Skin)，来定制你的 osu! 外观！
+- 你可以在官网论坛的[皮肤板块](https://osu.ppy.sh/community/forums/15)下载[皮肤](/wiki/Skin)，来定制你的 osu! 外观！
 - 任何时候，你都可以按下 `F8`，打开游戏内的聊天窗口。你可以输入 `!help` 或者 `/help`，来查阅可使用的[指令列表](/wiki/Client/Interface/Chat_console#commands-list)。
 - 记住要经常停下来休息一下。你的双手是要为你服务一生的，而不仅仅是 osu!（的[转盘](/wiki/Gameplay/Hit_object/Spinner)）。
 - 别无视[未上架 (Unranked)](/wiki/Beatmap/Category) 的谱面。如果你找到了你喜欢的这一类谱面，可以给谱面制作者提些[建设性的意见](/wiki/Modding)。这样，这张谱面将更可能[上架](/wiki/Beatmap_ranking_procedure)！
@@ -56,7 +56,7 @@ tags:
 - 右击游玩区域或者[时间线](/wiki/Client/Beatmap_editor/Timelines#hit-objects)上的物件将会删掉它。右击游玩区域内的空白区域，将能给接下来要摆放的物件，或是接下来选中的物件添加新 [Combo](/wiki/Beatmapping/Combo)。
 - 在拉[滑条](/wiki/Gameplay/Hit_object/Slider)的时候，单击能创建用于控制贝塞尔滑条的灰色[锚点](/wiki/Gameplay/Hit_object/Slider/Slider_anchor)，双击能创建用于直线折线滑条的红色锚点。`Ctrl` + 右击能在完成的滑条内添加新锚点。
 - 测定准确的时间轴很重要！如果谱面的时间轴有问题，作图、打图都将变得极其困难。如果你需要别人帮助你测定，请在[摸图队列论坛](https://osu.ppy.sh/community/forums/60)内的[时间轴帮助讨论串](https://osu.ppy.sh/community/forums/topics/13795)内帖出自己的谱面，或是在 `#modreqs` 频道内发出时间轴检查请求。
-- 你能在 `时间轴设定 (Timing Setup)` 窗口 (`F6`) 内修改滑条速度。点击绿色的加号按钮，并调整左侧的 [`滑条速率因数`](/wiki/Gameplay/Hit_object/Slider/Slider_velocity)吧！
+- 你能在 `时间轴设定 (Timing Setup)` 窗口 (`F6`) 内修改滑条速度。点击绿色的加号按钮，并调整左侧的[`滑条速率因数`](/wiki/Gameplay/Hit_object/Slider/Slider_velocity)吧！
 - 可以使用反选工具 (`Ctrl` + `G`) 来交换滑条头尾，或是将选择的一系列物件在时间轴上反转过来。
 - 可以使用[跳](/wiki/Beatmap/Pattern/Jump)这种排列来强调歌曲中比较重要明显的声音！
 - [间距锁定](/wiki/Client/Beatmap_editor/Distance_snap)工具可用于精确计算控制物件之间的距离。可以按住 `Alt` 键来临时启用或禁用它。
@@ -65,12 +65,12 @@ tags:
 - 如果你在为你的谱面找摸（修改意见），可以去看摸图队列论坛或游戏内的 `#modreqs` 频道内发出求摸请求，也可以去询问你的朋友！
 - 可以在[`歌曲设定`](/wiki/Client/Beatmap_editor/Song_Setup) (`F4`) 的`难度`标签页中，修改例如[掉血速度](/wiki/Beatmap/HP_drain_rate)、[圆圈大小](/wiki/Beatmap/Circle_size)、[缩圈速度](/wiki/Beatmap/Approach_rate)这一类的谱面难度设定参数。
 - 书签 (`Ctrl` + `B`) 是一个很好用的工具，它能在编辑器中标记并展示歌曲的变化。许多谱师使用书签来标记歌曲的段落，并辅助提醒自己更改作图风格。
-- 如果你需要更多关于作图的知识，尽量先把网站上的维基 读一遍，在 `#modhelp` 里提问，或者在[谱面帮助论坛](https://osu.ppy.sh/community/forums/56)里发帖提问！
+- 如果你需要更多关于作图的知识，尽量先把网站上的 wiki 读一遍，在 `#modhelp` 里提问，或者在[谱面帮助论坛](https://osu.ppy.sh/community/forums/56)里发帖提问！
 - 你应该要经常[测试](/wiki/Client/Beatmap_editor/Test_mode) (`F5`) 自己的图，这样可以发现并修改其中的问题。
 - 如果你想随意移动物件的位置，可以禁用[`格点锁定`](/wiki/Beatmapping/Grid_snapping)功能。使用 `Ctrl` + 方向键能精确调整物件摆放的位置。
 - 当你的谱面制作完毕，可以求摸，就可以在[谱面提交系统](/wiki/Beatmapping/Beatmap_submission)中上传了！`上传谱面`的按钮能在`文件`选项卡的下拉菜单里找到。
 - 编辑器左上角的音效组和附加音效选项，能为你的物件提供更多的[音效](/wiki/Beatmapping/Hitsound)组合。
-- 如果你想[上架](/wiki/Beatmap_ranking_procedure)自己的谱面，就先阅读维基上的[谱面上架标准 (RC)] 吧！
+- 如果你想[上架](/wiki/Beatmap_ranking_procedure)自己的谱面，就先阅读 wiki 上的[谱面上架标准 (RC)] 吧！
 - 将滑条转换成[连打](/wiki/Beatmap/Pattern/Stream) (`Ctrl` + `Shift` + `F`) 能够轻松获得一条平滑的连打串。
 - 如果你在转盘后放了物件，确保它们之间有足够的时间间隔，让玩家能辨认并准确击打后面的物件。
 - 能使用[创建多边形圆圈](/wiki/Client/Beatmap_editor/Menu#special-commands.2)工具 (`Ctrl` + `Shift` + `D`) 来获得几何排布的一组物件。
