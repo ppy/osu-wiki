@@ -84,6 +84,8 @@ Previous approaches were tailored towards scaling maps with respect to [difficul
 
 This also means that star rating values for beatmaps where top-end players are almost — but not quite — getting full combo scores will now extend well into the 10 star range, rather than capping out at around 9.5 stars (medal hunters rejoice!).
 
+While the difference doesn't seem like much, the impact of this kind of change can perhaps be better described by the effect it has on performance points, namely that top player [syaron105](https://osu.ppy.sh/users/8741695) gains over 6400 total pp as a result.
+
 ## Changes to performance points
 
 In recent years, top-end scores in osu!taiko haven't seen as much of an increase in raw performance point values as the other game modes, to the tune of being roughly 40% lower overall. In addition, the survey held at the beginning of this year indicated a great preference for re-evaluating the way performance points are calculated.
@@ -116,8 +118,6 @@ The following changes should result in impressive scores on harder beatmaps rewa
 Difficulty pp has been adjusted to hugely nerf previously overweighted low-accuracy scores. In technical terms, difficulty pp scales by the square of the accuracy now instead of linearly, as visualised below:
 
 ![Accuracy scaling graph](/wiki/shared/news/2022-09-27-changes-to-osu-taiko-star-rating-and-performance-points/difficulty-accuracy-scaling.jpg)
-
-To best describe the impact of this change, top player [syaron105](https://osu.ppy.sh/users/8741695) has gained over 6400 total pp because of it.
 
 We have also made the following changes to mod-specific performance point multipliers:
 
