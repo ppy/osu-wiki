@@ -53,10 +53,6 @@ This will fix scores being out of order on profiles, and in some rare cases not 
 
 Estimated to take 1 day.
 
-### ⏳ Background user score recalculations \[2022-10-01 ~\]
-
-While the aforementioned "user total" step is aimed to cover the majority of visible scores in the "Best Performance" profile section, this is a second pass operation which aims to address all remaining scores that may have not been updated yet.
-
 ## An insight into the basis of the new rework
 
 The [previous set of changes](https://osu.ppy.sh/home/news/2020-09-15-changes-to-osutaiko-star-rating) (applied all the way back in 2020!) accounted for several skill areas at once. This made it difficult to collect meaningful feedback on specific skills and led to increased complexity, halting forward development efforts.
