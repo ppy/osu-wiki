@@ -78,7 +78,7 @@ Star rating is now based on *peak* "strain" values incorporating all three skill
 
 *Peak* difficulty splits the map into sections and combines the highest strains of each skill in each section, aiming to catch out particularly demanding moments. The final star rating is a weighted sum of the peak skill sections, including a slight multiplier to scale better.
 
-You can consult the [osu!taiko rework document](https://docs.google.com/document/d/1Z5GC4DMqOVzeIERMSK3qpQaqjq-sVnhbuoxAwy9qxDs/edit), or dive into the code over in the [osu!(lazer) GitHub repository](https://github.com/ppy/osu) for the full details on how the calculation works.
+You can consult the [osu!taiko rework document](https://docs.google.com/document/d/1Z5GC4DMqOVzeIERMSK3qpQaqjq-sVnhbuoxAwy9qxDs/edit), or dive into the code over in the [osu!(lazer) GitHub repository](https://github.com/ppy/osu/tree/master/osu.Game.Rulesets.Taiko/Difficulty) for the full details on how the calculation works.
 
 Previous approaches were tailored towards scaling maps with respect to [difficulty names](/wiki/Ranking_Criteria/Difficulty_naming), a path that we will no longer be taking. Star rating should better reflect the actual difficulty of a map at all levels with new changes going forward, starting with this one.
 
