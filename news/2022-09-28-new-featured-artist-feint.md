@@ -113,7 +113,7 @@ Attempt some classic jumps with [this osu! map](https://osu.ppy.sh/beatmapsets/3
 
 ### Feint - Vagrant (feat. Veela)
 
-Alternatively, attempt some modern jumps with any of these beatmaps:
+Alternatively, attempt some modern jumps, patterns or dashes with your choice from any of these beatmaps:
 
 - [osu! map](https://osu.ppy.sh/beatmapsets/354537#osu/780914) by [Aia](https://osu.ppy.sh/users/3492472)
 - [osu! map](https://osu.ppy.sh/beatmapsets/354792#osu/781370) by [Mint](https://osu.ppy.sh/users/2407160)
@@ -218,7 +218,7 @@ One more: [this osu! map](https://osu.ppy.sh/beatmapsets/951304#osu/2389865) by 
 
 ### Feint - Drifters (feat. Elizaveta)
 
-One more: [this osu! map](https://osu.ppy.sh/beatmapsets/951304#osu/2389865) by [C00L](https://osu.ppy.sh/users/4930630).
+Finish up with [this osu! map](https://osu.ppy.sh/beatmapsets/951304#osu/2389865) by [C00L](https://osu.ppy.sh/users/4930630).
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/306/Drifters/Feint%20-%20Drifters%20(feat.%20Elizaveta).mp3" type="audio/mpeg">
