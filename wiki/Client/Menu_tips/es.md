@@ -119,6 +119,6 @@ Estos consejos aparecen en la [versión lazer del cliente](https://github.com/pp
 - [Cliente/Editor de beatmap](/wiki/Client/Beatmap_editor)
 - [Cliente/Referencia de teclas de acceso directo](/wiki/Client/Keyboard_shortcuts)
 
-## Notes
+## Notas
 
 [^frame-limiter]: Actualmente llamado "Límite de FPS".
