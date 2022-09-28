@@ -81,7 +81,7 @@ The GB Cup 2022 Autumn is run by the Team GB and various community members.
 6. Picking beatmaps and banning players should be sent at a single message, if a team continues to be slow at banning, referees have rights to **ignore this ban**.
 7. "Total matches score difference" added as a last resort for ranking in regular stage.
 8. Mappool size increased by 2 maps.
-9. For Regular stage ranking, now compare beatmap difference first, then Buchholz score.
+9. For Regular stage ranking, now compare beatmap difference first, then opposite wins[^ow].
 
 The following rules are changed to consistent with rules on `MWC 4k 2022` : 
 
@@ -206,7 +206,7 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
    - Most matches won
    - Head-to-head result (if possible)
    - Highest beatmap difference (`beatmap wins - beatmap losses`)
-   - Highest Buchholz score
+   - Opposite wins[^bu]
    - Most beatmaps won
    - Fewest beatmaps lost
    - Highest total matches score difference (`∑(score difference in each beatmaps)` in the whole regular stage)
@@ -283,3 +283,8 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
      - ... Unless its absolutely necessary, **both** teams request and agree to it, and staff avaliable.
    - **Do not ask for reschedule unless it is absolutely needed. The host reserves the right to deny any reschedule requests.**
 6. Captains are responsible for their team's availability.
+
+## Notes
+
+[^ow]: opposites' total match difference, also called as "Buchholz score".
+ 
