@@ -44,7 +44,7 @@ Im Forumsbereich der [alten osu!-Webseite](https://old.ppy.sh) konnten Nutzer Ti
 | Combo Commander | 260 bis 499 |
 | Rhythm Incarnate | 500+ |
 
-Diese Titel waren nur auf der Seitenleiste in Forenbeiträgen sichtbar (nicht auf dem Profil der Nutzer) und wurden nicht angezeigt, wenn ein anderer benutzerdefinierter Titel bereits eingestellt war.
+Diese Titel waren nur auf der Seitenleiste in Forenbeiträgen sichtbar (nicht auf dem Profil des Nutzers) und wurden nicht angezeigt, wenn ein anderer benutzerdefinierter Titel bereits eingestellt war.
 
 ## Trivia
 
