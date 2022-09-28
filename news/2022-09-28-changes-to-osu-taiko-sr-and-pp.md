@@ -32,7 +32,7 @@ Deployment of these changes will as usual, take some time to fully complete. If 
 
 An initial pass over all beatmaps to update their star ratings. During this period, new scores will potentially be calculated using the updated calculations, and as such will not match older scores. There may be discrepancies in ordering and display between the game client and web site.
 
-### 🏃 Background user total recalculations \[2022-09-28 ~ 2022-09-30\]
+### ✅ Background user total recalculations \[2022-09-28 ~ 2022-09-29\]
 
 Starting from the user at rank #1 and working outwards, each user's total pp will be recalculated.
 
@@ -43,15 +43,15 @@ During this maintenance, the following will also occur:
 - Inactive users (anyone that has not played the game in 3 months) will be delisted.
 - Scores in the "best performance" profile section may look to be out of order, or not visible at all during this phase. This will resolve completely during the reindexing phase listed below.
 
-### ⏳ Re-enabling of global rank history updates \[2022-09-30\]
+### ✅ Re-enabling of global rank history updates \[2022-09-29\]
 
 Rank history graphs updates will be enabled and updated again. At this point, all users' global leaderboard ranks will be stable going forward.
 
-### ⏳ Reindexing \[2022-09-30\]
+### 🏃 Reindexing \[2022-09-29\]
 
 This will fix scores being out of order on profiles, and in some rare cases not being displayed at all.
 
-Estimated to take 1 day.
+Estimated to take less than 1 day.
 
 ## An insight into the basis of the new rework
 
