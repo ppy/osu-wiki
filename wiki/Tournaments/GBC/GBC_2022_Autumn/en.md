@@ -206,7 +206,7 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
    - Most matches won
    - Head-to-head result (if possible)
    - Highest beatmap difference (`beatmap wins - beatmap losses`)
-   - Opposite wins[^bu]
+   - Most Opposite won[^ow]
    - Most beatmaps won
    - Fewest beatmaps lost
    - Highest total matches score difference (`∑(score difference in each beatmaps)` in the whole regular stage)
@@ -287,4 +287,3 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
 ## Notes
 
 [^ow]: opposites' total match difference, also called as "Buchholz score".
- 
