@@ -15,10 +15,10 @@ tags:
 
 ## 主菜单
 
-这些提示出现在[主菜单](/wiki/Client/Interface#main-menu)的正下方。
+这些提示出现在[主菜单](/wiki/Client/Interface#主菜单)的正下方。
 
 - 添加新[谱面](/wiki/Beatmap)的方法： 把 [`.osz` 文件](/wiki/Client/File_formats/Osz_(file_format))拖入 osu! 的窗口；或是直接双击这个文件来打开；或是在浏览器中下载完成后，选择打开。
-- 当你在有大量谱面的[列表](/wiki/Client/Interface#song-select)中选歌时，可以按住左键拖拽屏幕右侧的滚动条，或者按住右键快速定位谱面。
+- 当你在有大量谱面的[选歌界面](/wiki/Client/Interface#选歌界面)中选歌时，可以按住左键拖拽屏幕右侧的滚动条，或者按住右键快速定位谱面。
 - 在任何地方，都可以按下 `F8`/`F9` 加入 osu! [聊天](/wiki/Client/Interface/Chat_console)！
 - 右击谱面，或者点击选歌列表下的 `Beatmap Options` 按钮，会显示谱面管理菜单。
 - 如果你[觉得有操作延迟](/wiki/Performance_troubleshooting)，那么你可以尝试到设定里调高`帧率限制`[^frame-limiter]。或者启用`全屏模式`，这应该会有所改善。如果嫌全屏的画面太大的话，可以用`不缩放画面`功能。
@@ -29,15 +29,15 @@ tags:
 - 如果作者更新了谱面，你可以通过快捷按钮迅速更新到最新版本。
 - Wiki 里有很多很多有用的资讯。[去读读](/wiki/Main_Page)吧。
 - 你知道吗？只要简单地双击或者把 `.osz` 文件拖到 osu! 的游戏窗口中，就能载入新的谱面。
-- 在[成绩界面](/wiki/Client/Interface#results-screen)按下 `F2` ，你可以导出任何一个在线或者本地[回放](/wiki/Gameplay/Replay)。
+- 在[成绩界面](/wiki/Client/Interface#结算界面)按下 `F2` ，你可以导出任何一个在线或者本地[回放](/wiki/Gameplay/Replay)。
 - 如果你玩过每张谱面里的节拍，听起来都觉得太早、太晚或太蠢，可以试试在`选项 (Options)` 中调节`全局偏移量 (offset)`。
-- 在[选曲界面](/wiki/Client/Interface#song-select)中直接输入标题、艺术家、谱师，即可快速找到你要的谱面。
+- 在[选歌界面](/wiki/Client/Interface#选歌界面)中直接输入标题、艺术家、谱师，即可快速找到你要的谱面。
 - 聊天窗口能在游玩时自动关闭。打开聊天窗口后，点击屏幕右下角的按钮，可以切换它自动或手动关闭。
 - 在游戏中，可以使用鼠标滚轮来调节音量。如果你觉得这个功能碍事，可以在选项 (Options) 中禁用掉。
 - 在游戏中，可以点击鼠标中键来快速暂停或继续游戏。如果你觉得这个功能碍事，可以在选项 (Options) 中禁用掉。
-- 点击成绩列表上方的气泡小图标，你就能从游戏内快速访问歌曲的[网页排行榜](/wiki/Client/Interface#rankings)和讨论帖。
+- 点击成绩列表上方的气泡小图标，你就能从游戏内快速访问歌曲的[网页排行榜](/wiki/Client/Interface#排名)和讨论帖。
 - 你可以在官网论坛的[皮肤板块](https://osu.ppy.sh/community/forums/15)下载[皮肤](/wiki/Skin)，来定制你的 osu! 外观！
-- 任何时候，你都可以按下 `F8`，打开游戏内的聊天窗口。你可以输入 `!help` 或者 `/help`，来查阅可使用的[指令列表](/wiki/Client/Interface/Chat_console#commands-list)。
+- 任何时候，你都可以按下 `F8`，打开游戏内的聊天窗口。你可以输入 `!help` 或者 `/help`，来查阅可使用的[命令列表](/wiki/Client/Interface/Chat_console#命令列表)。
 - 记住要经常停下来休息一下。你的双手是要为你服务一生的，而不仅仅是 osu!（的[转盘](/wiki/Gameplay/Hit_object/Spinner)）。
 - 别无视[未上架 (Unranked)](/wiki/Beatmap/Category) 的谱面。如果你找到了你喜欢的这一类谱面，可以给谱面制作者提些[建设性的意见](/wiki/Modding)。这样，这张谱面将更可能[上架](/wiki/Beatmap_ranking_procedure)！
 - 在[多人模式](/wiki/Client/Interface/Multiplayer)中，你可以和其他人一起游戏！
@@ -45,7 +45,7 @@ tags:
 - 在歌曲界面按下 `F5`，可以刷新并重新载入磁盘上的全部歌曲。
 - 按下`Shift` + `F12` 可以截屏，并自动上传到因特网上。
 - 你可以在 `选项 (Options)` > `输入 (Input)` 内自定义游戏按键。
-- 你可以在歌曲选择页面，搜索符合某些[特定条件](/wiki/Client/Interface#search)的谱面，如 `AR>8 OD=9`。支持的关键词有：AR、OD、HP、CS、BPM、歌曲长度、谱面掉血长度（时长单位为秒）。
+- 你可以在歌曲选择页面，搜索符合某些[特定条件](/wiki/Client/Interface#搜索)的谱面，如 `AR>8 OD=9`。支持的关键词有：AR、OD、HP、CS、BPM、歌曲长度、谱面掉血长度（时长单位为秒）。
 - 游戏中按住 `Ctrl` + `R` 一小会儿，马上可以重玩！（你也可以在`键位绑定 (Keyboard Bindings)`中，自定义这个 `快速重玩 (Quick Retry)` 按键。）
 
 ## 编辑器
@@ -82,8 +82,8 @@ tags:
 - 查阅[精选艺术家列表](https://osu.ppy.sh/beatmaps/artists)来获取已经测好时间轴的谱面，并直接开始作图！
 - 把哨、镲和拍手音效放在节奏对应的位置上来润色你的谱面！可以在 `时间轴设定 (Timing Setup)` 窗口 (`F6`) 内的音频 (Audio) 标签页下来修改不同段落的音效组。
 - 将光标悬停在时间轴上，并按住 `Alt`，滚动鼠标滚轮或者按 `+`/`-` 按钮来缩放时间轴。
-- 如果你在作图期间调整时间轴，切记要使用[`重新对齐所有物件`](/wiki/Client/Beatmap_editor/Menu#special-commands.3)功能，重新将所有物件对齐在时间轴上。这个功能位于 `测定时间轴 (Timing)` 选项卡的下拉菜单里。注意未对齐的[继承时间点（绿线）](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point)——它们不受这个功能影响！
-- 任何[待定 (Pending)](/wiki/Beatmap/Category#work-in-progress-and-pending) 状态的谱面，30 天之内不更新，都会被[扔进坟场](/wiki/Beatmap/Category#graveyard)。坟图能在你的用户页内复活到待定状态。
+- 如果你在作图期间调整时间轴，切记要使用[`重新对齐所有物件`](/wiki/Client/Beatmap_editor/Menu#special-commands.3)功能，重新将所有物件对齐在时间轴上。这个功能位于 `测定时间轴 (Timing)` 选项卡的下拉菜单里。注意未对齐的[继承时间点（绿线）](/wiki/Client/Beatmap_editor/继承时间点（绿线）)——它们不受这个功能影响！
+- 任何[待定 (Pending)](/wiki/Beatmap/Category#work-in-progress-和-pending) 状态的谱面，30 天之内不更新，都会被[扔进坟场](/wiki/Beatmap/Category#graveyard)。坟图能在你的用户页内复活到待定状态。
 - 当复制 (`Ctrl` + `C`) 物件时，你的剪贴板将会写入这些物件的时间位置和连击数字。这些文字对[摸图](/wiki/Modding)极有帮助！
 - 在时间线上滑条尾处点击并拖拽，能给滑条添加[折返箭头](/wiki/Gameplay/Hit_object/Slider/Reverse_slider)。
 
