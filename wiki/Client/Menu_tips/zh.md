@@ -21,7 +21,7 @@ tags:
 - 当你在有大量谱面的[列表](/wiki/Client/Interface#song-select)中选歌时，可以按住左键拖拽屏幕右侧的滚动条，或者按住右键快速定位谱面。
 - 在任何地方，都可以按下 `F8`/`F9` 加入 osu! [聊天](/wiki/Client/Interface/Chat_console)！
 - 右击谱面，或者点击选歌列表下的 `Beatmap Options` 按钮，会显示谱面管理菜单。
-- 如果你[觉得有操作延迟](/wiki/Performance_troubleshooting)，那么你可以尝试到设定里调高`帧率限制`[^frame-limiter]。或者启用`全屏模式`，这应该会有所改善。如果嫌全屏的画面太大的话，可以用`不缩放画面`功能。
+- 如果你[觉得有操作延迟](/wiki/Performance_troubleshooting)，那么你可以尝试到设定里调高`帧率限制` [^frame-limiter]。或者启用`全屏模式`，这应该会有所改善。如果嫌全屏的画面太大的话，可以用`不缩放画面`功能。
 - 遇到快速连打时，可以试试交替使用左右键，或者使用键盘上的 `Z`/`X` 键来啪啪啪！
 - 如果视频无法播放，在发帖报告 bug 前请先阅读维基！
 - 按下 `F12` 可以截图哦，拿到好成绩时别忘记了。
@@ -118,4 +118,4 @@ tags:
 
 ## 备注
 
-[^frame-limiter]: 现在常称之为 "帧数限制".
+[^frame-limiter]: 现在常称之为 “帧数限制”。
