@@ -141,6 +141,6 @@ For people eager to dive into the technicalities of these upcoming changes, work
 
 The osu!taiko pp committee would like to give a huge thank you towards osu!taiko community for the heavy amounts of surveying, testing and feedback during the process. Another big thank you goes to [spaceman_atlas](https://osu.ppy.sh/users/3035836) and [smoogipoo](https://osu.ppy.sh/users/1040328) for helping to support and review the changes to the code.
 
-While it's been a long wait, we hope that these changes will help you dominate the rankings, with pp that better reflects the difficulties of the maps you know and love!
+While it's been a long wait, we hope that these changes will help you enjoy climbing the ranks, with pp that better reflects the difficulties of the beatmaps you know and love!
 
 —the osu!taiko pp committee
