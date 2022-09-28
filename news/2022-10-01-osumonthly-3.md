@@ -4,7 +4,11 @@ title: "osu!monthly, September 2022"
 date: 2022-10-01 10:00:00 +0000
 ---
 
-Content folder: /wiki/shared/news/2022-10-01-osumonthly-3
+Need a quick way to catch up with the community happenings? We've got you covered with the third edition of osu!monthly!
+
+The team is still optimizing the way osu!monthly is written, however we need your help! If you keep track of cool or noteworthy scores please join the [osu!dev Discord server](https://discord.com/invite/ppy) or reach out to 0x84f#0001 on Discord, we'd love to have you! If you just want to engage with the team feel free to write on our [discussion thread on the forum](https://osu.ppy.sh/community/forums/topics/1614314?n=1)! 
+
+Without any further ado, let's jump straight into some osu!(lazer) news!
 
 ## Table of contents
 
@@ -14,6 +18,7 @@ Content folder: /wiki/shared/news/2022-10-01-osumonthly-3
 - [Monthly community quiz](#monthly-community-quiz)
 - [Things to look out for in October](#things-to-look-out-for-in-october)
 - [End word](#end-word)
+
 
 ## What's new in osu!(lazer)
 
@@ -75,6 +80,20 @@ Congratulations to the top 3 teams! If you are wanting to catch up with Corsace 
 
 Lastly, if you want to support the further development of Corsace you can find the donation details on their [info page](https://open.corsace.io/info), all funds gathered go to the prize pool for next year and commissions of even more custom songs.
 
+![](/wiki/shared/news/2022-07-07-osu-mania-4k-world-cup-2022-registrations-now-open/mwc4k-2022-banner.jpg)
+
+Another year goes by, but not without experiencing another year of the frantic keysmashing competition, the [osu!mania World Cup](https://osu.ppy.sh/wiki/en/Tournaments/MWC/2022_4K) (or MWC for short)! There's been some big overhauls on a few team's rosters, but that has not stopped anyone from trying their best on one of the hardest editions we've ever seen.
+
+We want to congratulate anyone who participated in the tournament. But most importantly, congratulations to South Korea for achieving what very few can. But don't be mistaken, this was no easy feat. Their last match against Brazil is one to fondly remember! And even with Brazil's technical issues, they had a hard time accomplishing such a goal. Special congratulations to the United States, as many feared that their roster revamp would be disadvantageous, and they ended up securing the 3rd spot.
+
+There have been so many highlights, break points, and tiebreakers in this year's MWC that it would be impossible to fully recap in one post. For anyone who missed the Grandfinals match, [we'd suggest watching it](https://www.twitch.tv/videos/1594471207) to experience it yourself. No words can convey the excitement that such an event generated! I won't spoil it for any of you, but [having point differences as close as 3 points](https://www.twitch.tv/osulive/clip/SlickArtsyToothVoteNay-QQorakYX4O8MqCB6) is surely something to be amazed by.
+
+But there was one last surprise: the custom Tiebreaker. Players got to experience the skill zenith of the tournament, expressed on a beatmap charted by [-mint-](https://osu.ppy.sh/users/8976576), [guden](https://osu.ppy.sh/users/11626065), [MyZterioN-](https://osu.ppy.sh/users/8521723), and [Toaph Daddy](https://osu.ppy.sh/users/7616811). And if that was not enough, the organizers also managed to add [ああああ](https://osu.ppy.sh/beatmaps/artists/301) as an official Featured Artist! Let's also not forget about [poca_p0ca](https://osu.ppy.sh/users/5082685) and their amazing GFX proficiency.
+
+<iframe width="100%" height="315" src="https://www.youtube.com/watch?v=CRD-2sk6Zt8" frameborder="0" allowfullscreen></iframe>
+
+With all this said, let us thank all organizers and staff members for hyping up the community once more. Their work was essential in giving the players and viewers the best of tournament experiences for yet another year.
+
 ## Did you know?
 
 [LilyPichu](https://osu.ppy.sh/users/17679), a now prominent content creator loaned her voice to several skin creators back in the early 2010's. For example, you can check out the [Nexus Slate & Nexus Ivory](https://osu.ppy.sh/community/forums/topics/55948?n=1) pair of skins which include her voice in places such as the map start countdown and applause at the end of a map.
@@ -98,5 +117,6 @@ TBA
 
 ## End word
 
+Unfortunately this month we were not able to compile the latest and greatest plays of this month, mostly because we were not able to acquire information of plays from all 4 modes, and since we do not want to exclude any specific mode, we just opted to not write any. That being said, we are looking for knowledgeable people who are willing to let us know about postworthy plays, so please do reach out.
 
-—0x84f, Blushing, Pisapou
+—0x84f, Pisapou, RandomeLoL
