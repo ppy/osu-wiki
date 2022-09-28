@@ -108,7 +108,7 @@ Additionally, the community survey highlighted issues with short maps being eith
 
 To combat this, misses will now significantly affect difficulty pp on maps with a max combo below 1000, scaling the miss count by a multiplier of `1000 / total successful hits`. This may significantly impact plays on shorter maps with a higher miss count, as visualised below.
 
-![Effective miss count graph](/wiki/shared/news/2022-09-27-changes-to-osu-taiko-star-rating-and-performance-points/effective-miss-count.jpg)
+![Effective miss count graph](/wiki/shared/news/2022-09-28-changes-to-osu-taiko-star-rating-and-performance-points/effective-miss-count.jpg)
 
 ### Changes to difficulty performance point values
 
@@ -116,7 +116,7 @@ The following changes should result in impressive scores on harder beatmaps rewa
 
 Difficulty pp has been adjusted to hugely nerf previously overweighted low-accuracy scores. In technical terms, difficulty pp scales by the square of the accuracy now instead of linearly, as visualised below:
 
-![Accuracy scaling graph](/wiki/shared/news/2022-09-27-changes-to-osu-taiko-star-rating-and-performance-points/difficulty-accuracy-scaling.jpg)
+![Accuracy scaling graph](/wiki/shared/news/2022-09-28-changes-to-osu-taiko-star-rating-and-performance-points/difficulty-accuracy-scaling.jpg)
 
 We have also made the following changes to mod-specific performance point multipliers:
 
@@ -131,7 +131,7 @@ While difficulty pp is straightforward, accuracy pp contained a plethora of issu
 - Star rating now affects accuracy pp, which replaces most of the previous scaling from the Great hit window. This further supplements the nerfs in accuracy weighting on low star rating scores while buffing high ones, and thus significantly limits abuse of low star rating 3-mod/4-mod scores.
 - An additional Hidden + Flashlight bonus has been added to accuracy pp. As this mod combination requires total memorisation of maps, the bonus scales with map length, rewarding longer maps more as visualised below.
 
-![HDFL multiplier graph](/wiki/shared/news/2022-09-27-changes-to-osu-taiko-star-rating-and-performance-points/accuracy-mod-bonus.jpg)
+![HDFL multiplier graph](/wiki/shared/news/2022-09-28-changes-to-osu-taiko-star-rating-and-performance-points/accuracy-mod-bonus.jpg)
 
 ## Next steps
 
