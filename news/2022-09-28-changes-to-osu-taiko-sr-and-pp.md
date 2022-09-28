@@ -28,11 +28,11 @@ You can also dive into the code over in the [osu!(lazer) GitHub repository](http
 
 Deployment of these changes will as usual, take some time to fully complete. If you are interested in following the progress we recommend you bookmark this page and check back on this section, as it will be updated as forward progress is made.
 
-### 🏃 Star rating updates \[2022-09-28\]
+### ✅ Star rating updates \[2022-09-28\]
 
 An initial pass over all beatmaps to update their star ratings. During this period, new scores will potentially be calculated using the updated calculations, and as such will not match older scores. There may be discrepancies in ordering and display between the game client and web site.
 
-### ⏳ Background user total recalculations \[2022-09-28 ~ 2022-09-30\]
+### 🏃 Background user total recalculations \[2022-09-28 ~ 2022-09-30\]
 
 Starting from the user at rank #1 and working outwards, each user's total pp will be recalculated.
 
