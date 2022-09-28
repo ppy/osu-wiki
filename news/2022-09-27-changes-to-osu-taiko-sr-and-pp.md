@@ -26,7 +26,7 @@ If you would like to know more about the changes posted, or for a more detailed 
 
 ## An insight into the basis of the new rework
 
-The [previous set of changes](https://osu.ppy.sh/home/news/2020-09-15-changes-to-osutaiko-star-rating) made to osu!taiko's performance points & star rating algorithm accounted for several skill areas at once. This made it difficult to collect meaningful feedback on specific skills and led to increased complexity, halting forward development efforts.
+The [previous set of changes](https://osu.ppy.sh/home/news/2020-09-15-changes-to-osutaiko-star-rating) (applied all the way back in 2020!) accounted for several skill areas at once. This made it difficult to collect meaningful feedback on specific skills and led to increased complexity, halting forward development efforts.
 
 This time, we have opted to take a more modular approach by introducing new changes incrementally, in the hopes of being able to fix any reported issues one step at a time. Moving forward, osu!taiko star rating will be receiving continuous updates, placing star rating and performance points in a state of flux, especially over the coming few months.
 
@@ -42,9 +42,9 @@ Without further ado, let's get into the nitty-gritty of these changes.
 
 The old system assumed a 2-finger kddk full alternating playstyle (i.e. one in which each subsequent hit is always hit by the other hand regardless of colour). This was implemented as two skills — one for the left hand, and one for the right hand. Instead of using note duration for the split skills, it used the duration between two notes that were pressed with the same hand, a term that we describe as note-pair duration.
 
-In addition to the above, tailored and highly particular nerfs targeted at specific patterns were implemented using code described best as a "cheese detector", which is something that we have since opted to do away with.
+In addition, tailored and highly subjective nerfs targeting specific patterns were implemented. The best way to describe this is a "cheese detector".
 
-The core policy for the all the new reworks under our wing was formed:
+This is something that we have opted to do away with, following the core policy for the all forward changes:
 
 **Never assume a specific playstyle or arbitrarily nerf patterns without a strong justification.**
 
@@ -66,15 +66,15 @@ The previous system only detected the frequency of changes between colours and h
 
 #### The new colour system
 
-To summarise shortly, the new colour system is more aware of *all* kinds of patterning used in osu!taiko mapping and is far more capable of formulating appropriate difficulty values from them compared to the old system.
+The new colour system is more aware of different kinds of patterning used in osu!taiko mapping and is far more capable of formulating appropriate difficulty values from them compared to the old system.
 
 In general, the harder it is to describe a pattern, the harder the pattern will be considered. Additionally, the more dense a pattern (or color sequence, as described by the code) is, the harder the algorithm will consider it to be. Patterns that repeat with longer segments between them are also considered more difficult than patterns that repeat closely to one another.
 
-The code and concepts utilised to achieve this are quite extensive. If this sort of thing interests you, feel free to read more in the [osu!taiko rework document](https://docs.google.com/document/d/1Z5GC4DMqOVzeIERMSK3qpQaqjq-sVnhbuoxAwy9qxDs/edit).
+The concepts utilised to achieve this are quite extensive. If this sort of thing interests you, feel free to read more in the [osu!taiko rework document](https://docs.google.com/document/d/1Z5GC4DMqOVzeIERMSK3qpQaqjq-sVnhbuoxAwy9qxDs/edit).
 
 ### Calculating the final result
 
-Star rating is now based on *peak* "strain" values incorporating all three skills covered by the algorithm, namely stamina, colour and rhythm. This is a significant change from the previous system, where only strain and individual skill levels were utilised instead.
+Star rating is now based on *peak* "strain" values incorporating all three skills covered by the algorithm, namely stamina, colour (and rhythm in the future). This is a significant change from the previous system, where only strain and individual skill levels were utilised instead.
 
 *Peak* difficulty splits the map into sections and combines the highest strains of each skill in each section, aiming to catch out particularly demanding moments. The final star rating is a weighted sum of the peak skill sections, including a slight multiplier to scale better.
 
