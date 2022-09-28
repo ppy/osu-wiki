@@ -210,8 +210,6 @@ Run through [this osu! map](https://osu.ppy.sh/beatmapsets/1057350#osu/2210045) 
 
 Enjoy [this osu! map](https://osu.ppy.sh/beatmapsets/1330028) by [Reform](https://osu.ppy.sh/users/3723568) or [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1714107) by [Tachibana\_](https://osu.ppy.sh/users/13069714)!
 
-One more: [this osu! map](https://osu.ppy.sh/beatmapsets/951304#osu/2389865) by [C00L](https://osu.ppy.sh/users/4930630).
-
 <audio controls>
     <source src="https://assets.ppy.sh/artists/306/Solace/Feint%20%26%20Laura%20Brehm%20-%20Solace.mp3" type="audio/mpeg">
 </audio>
