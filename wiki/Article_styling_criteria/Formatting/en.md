@@ -667,7 +667,7 @@ There are two types of image links: inline and reference. Examples:
 
 Images should use the inline linking style. Reference link definitions must be placed at the bottom of the article.
 
-All inline images on the page are combined into a single gallery, which can be navigated using arrow icons on both sides of the screen, keyboard shortcuts, or screen swipes on mobile devices<!-- https://github.com/ppy/osu-web/pull/8126 -->.
+All inline images on the page (that have nothing else on the same line) are combined into a single gallery, which can be navigated using arrow icons on both sides of the screen, keyboard shortcuts, or screen swipes on mobile devices<!-- https://github.com/ppy/osu-web/pull/8126 -->.
 
 ### Alternative and title text
 
@@ -679,7 +679,7 @@ The text in the quotation marks (*title text*) should give additional context to
 
 If an image is the sole content of a paragraph, it displays as a centred block. Otherwise, it flows with the surrounding inline text.
 
-Block images with title text display the title text as a caption below the image. The caption will not be rendered if there's an [HTML comment](#comments) on the same line.
+Block images with title text display the title text as a caption below the image. Avoid adding [HTML comment](#comments) or any other text on the same line as the image, as this will cause the caption to not be rendered.
 
 Block images are commonly paired with [infobox](#infoboxes) formatting to reduce their initial size and float them to the side of other content:
 
