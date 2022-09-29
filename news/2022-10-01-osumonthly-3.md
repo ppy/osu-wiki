@@ -4,6 +4,8 @@ title: "osu!monthly, September 2022"
 date: 2022-10-01 10:00:00 +0000
 ---
 
+![](/wiki/shared/news/2022-10-01-osumonthly-3/092022wiki.jpg)
+
 Need a quick way to catch up with community happenings? We've got you covered with the third edition of osu!monthly!
 
 We're still optimising the way osu!monthly is written, and we need your help to do it! For example, if you want to help us keep track of noteworthy or otherwise cool scores, please join the [osu!dev Discord server](https://discord.com/invite/ppy) or reach out to 0x84f#0001 on Discord — we'd love to have you! If you just want to engage with the team feel free to write on our [discussion thread on the forum](https://osu.ppy.sh/community/forums/topics/1614314?n=1)!
