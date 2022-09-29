@@ -8,7 +8,7 @@ Exciting times ahead as a new wave of difficulty calculation changes reach the s
 
 ![](/wiki/shared/news/banners/star-rating.jpg)
 
-The time for change has arrived yet again. Developers have been hard at work since the [last wave of adjustments](https://osu.ppy.sh/home/news/2021-11-09-performance-points-star-rating-updates) to improve the accuracy of difficulty calculation, and to address community concerns. This news post will explore what's changed while along the way hopefully explain things to you, the lovely player!
+The time for change has arrived yet again. Developers have been hard at work since the [last wave of adjustments](https://osu.ppy.sh/home/news/2021-11-09-performance-points-star-rating-updates) to improve the accuracy of difficulty calculation, and to address community concerns. This news post will explore what's changed while along the way hopefully explaining things to you, the lovely player!
 
 As always, a wealth of information can be accessed via the [star rating](/wiki/Beatmap/Star_rating) and [performance points](/wiki/Performance_points) wiki pages for those that want background reading.
 
