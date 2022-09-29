@@ -19,7 +19,6 @@ Without any further ado, let's jump straight into some osu!(lazer) news!
 - [Things to look out for in October](#things-to-look-out-for-in-october)
 - [End word](#end-word)
 
-
 ## What's new in osu!(lazer)
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/_wp352LHuc4?list=PLmWVQsxi34bMTmgpDArfxJ32Q0mBLhcE-" frameborder="0" allowfullscreen></iframe>
@@ -82,7 +81,7 @@ Lastly, if you want to support the further development of Corsace you can find t
 
 ![](/wiki/shared/news/2022-07-07-osu-mania-4k-world-cup-2022-registrations-now-open/mwc4k-2022-banner.jpg)
 
-Another edition went by, but not without experiencing another year of the frantic keysmashing competition, the [osu!mania World Cup](https://osu.ppy.sh/wiki/en/Tournaments/MWC/2022_4K) (or MWC for short)! There's been some big overhauls on a few teams' rosters, but that has not stopped anyone from trying their best on one of the hardest editions we've ever seen.
+Another edition went by, but not without experiencing another year of the frantic keysmashing competition, the [osu!mania World Cup](/wiki/en/Tournaments/MWC/2022_4K) (or MWC for short)! There's been some big overhauls on a few teams' rosters, but that has not stopped anyone from trying their best on one of the hardest editions we've ever seen.
 
 We want to congratulate anyone who participated in the tournament. But most importantly, congratulations to South Korea for achieving what very few can. But don't be mistaken, this was no easy feat. Their last match against Brazil is one to fondly remember! And even with Brazil's technical issues, they had a hard time accomplishing such a goal. Special congratulations to the United States, as many feared that their roster revamp would be disadvantageous, but they ended up securing the 3rd spot.
 
@@ -154,7 +153,7 @@ TBA
 ## Things to look out for in October
 
 - The [osu! university](https://discord.com/invite/QubdHdnBVg) rises from its ashes with the [osu! improvement month](https://osu.ppy.sh/community/forums/topics/1649135?n=1) event that stretches over the whole month of October. Interviews, tournaments, coaching, and giveaways are planned, and it would definitely be a mistake not to take advantage of this opportunity to socialize with the community, or to follow the events of your favorite game!
-- After several weeks of hard work by creators and the voting phase coming and going, we should soon be able to see the results of the [triangles Beatmapping Contest](https://osu.ppy.sh/wiki/en/Contests/triangles_Beatmapping_Contest). Who was able to combine the best storyboard, hitsound, and mapping around the triangles theme? We can't wait to see!
+- After several weeks of hard work by creators and the voting phase coming and going, we should soon be able to see the results of the [triangles Beatmapping Contest](/wiki/en/Contests/triangles_Beatmapping_Contest). Who was able to combine the best storyboard, hitsound, and mapping around the triangles theme? We can't wait to see!
 - The voting stage for the [Chromatic Alteration skinning contest](https://osu.ppy.sh/home/news/2022-07-18-skinning-contest-chromatic-alteration-announcement#challenge:-chromatic-alteration) has concluded! With 23 entries and only 3 votes per player, hard decisions had to be made when it came to figuring out which entries deserve votes the most, and we are all eagerly awaiting to see the final results!
 
 ## End word
