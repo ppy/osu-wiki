@@ -19,7 +19,7 @@ The **GB Cup 2022 Autumn** (***GBC 2022 Autumn***) is a 3v3 captain draft-based 
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2022-09-24/2022-10-07 (23:59 UTC+8) |
-| Qualifier showcase | 2022-10-08 (20:00 UTC+8) |
+| Qualifier showcase | 2022-10-09 (20:00 UTC+8) |
 | Qualifier stage | 2022-10-15/2022-10-16 |
 | Qualifier result showcase | 2022-10-17 (20:00 UTC+8) |
 | Drafting phase | 2022-10-23 (20:00 UTC+8) |
