@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 00a137352eaf4eed64e8c2028c478db45ae59ea4
----
-
 # Skinning du mode osu!
 
 ## Comboburst
@@ -246,9 +241,13 @@ Notes :
   - Si le mod [Hidden](/wiki/Gameplay/Game_modifier/Hidden) est activé, il s'affichera en fondu avant d'être touché et disparaîtra ensuite.
 - Le numéro de la combinaison peut être superposé ou non. Par défaut, il est toujours superposé.
   - Pour que cet underlay soit le numéro du combo, mettez `HitCircleOverlayAboveNumber` à `0`.
-- Également utilisé pour `sliderstartcircleoverlay` et/ou `sliderendcircleoverlay` si non skinné.
 - Cela devrait être un cercle.
 - Cet élément était animable par le passé. Pour plus de détails, voir [l'histoire du skinning](/wiki/Skinning/History).
+
+La visibilité des superpositions des sliders dépend des éléments cercles du slider:
+
+- Si `sliderstartcircle`/`sliderendcircle` existent dans un skin sans `sliderstartcircleoverlay`/`sliderendcircleoverlay`, alors `hitcircleoverlay` ne s'affiche pas du tout au début et à la fin des sliders.
+- Si `sliderstartcircle`/`sliderendcircle` n'existent pas, alors `hitcircleoverlay` est utilisé comme sprite superposé pour le début et la fin des sliders.
 
 ---
 
