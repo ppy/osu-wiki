@@ -28,6 +28,7 @@ This month osu!(lazer) was graced with a brand new default skin, argon! While it
 ![](/wiki/shared/news/2022-10-01-osumonthly-3/newskinoption.jpg)
 
 There have also been a bunch of quality of life updates, there are actually so many of them that a list needed to be compiled:
+
 - Various new sound effects were added
 - Maps now actually update where otherwise they wouldn't in specific scenarios
 - Toast notifications have been introduced and the notification design was updated
