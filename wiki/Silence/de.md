@@ -18,7 +18,7 @@ Nutzer, die von Moderatoren stumm geschaltet werden, können folgende Dinge nich
 - Beatmaps einreichen und aktualisieren
 - An [Mehrspieler](/wiki/Multi)-Spielen teilnehmen
 
-Zusätzlich zu dem werden alle Nachrichten eines stumm geschalteten Spielers aus allen Chat-Kanälen und privaten Konversationen entfernt [[1]](https://blog.ppy.sh/post/38114063519/this-week-in-osu-5).
+Zusätzlich zu dem werden alle Nachrichten eines stumm geschalteten Spielers aus allen Chat-Kanälen und privaten Konversationen entfernt.[^chat-cleanup]
 
 ::: Infobox
 ![](img/silence-ingame.png "Warnung der Stummschaltung im Chat")
@@ -38,3 +38,7 @@ Wenn du glaubst, mit Unrecht stumm geschaltet worden zu sein, dann kontaktiere d
 - Unangemessene Inhalte über andere Wege hochladen oder bereitstellen. (Z. B. Profilavatare, Einreichungen von Beatmaps, Profildetails, Banner, etc.).
 
 Die Länge einer Stummschaltung hängt von dem Schweregrad des Verstoßes ab. Weitere Stummschaltungen können ergänzt werden, wobei jede davon mehr Zeit hinzufügt. Bitte bedenke, dass wenn ein Verstoß schwerwiegend genug ist, oder ein Spieler ein Wiederholungstäter ist, es zu einer [Einschränkung des Accounts](/wiki/Help_centre/Account_restrictions) anstatt einer Stummschaltung führen kann.
+
+## Referenzen
+
+[^chat-cleanup]: [This Week in osu! - ppy blog](https://blog.ppy.sh/post/38114063519/this-week-in-osu-5)
