@@ -158,7 +158,7 @@ TBA
 
 - The [osu! University](https://discord.com/invite/QubdHdnBVg) announced an [osu! improvement month](https://osu.ppy.sh/community/forums/topics/1649135?n=1) event that stretches over the whole month of October. Interviews, tournaments, coaching, and giveaways are planned, and it would definitely be a mistake not to take advantage of this opportunity to socialise with the community, or to follow the events of your favorite game!
 - After several weeks of hard work by creators and the voting phase coming and going, we should soon be able to see the results of the [triangles Beatmapping Contest](/wiki/Contests/triangles_Beatmapping_Contest). Who was able to combine the best storyboard, hitsounds, and mapping around the triangles theme? We can't wait to see!
-- The voting stage for the [Chromatic Alteration skinning contest](https://osu.ppy.sh/home/news/2022-07-18-skinning-contest-chromatic-alteration-announcement#challenge:-chromatic-alteration) has concluded! With 23 entries and only 3 votes per player, hard decisions had to be made when it came to figuring out which entries deserve votes the most, and we are all eagerly awaiting to see the final results!
+- The voting stage for the [Chromatic Alteration skinning contest](https://osu.ppy.sh/home/news/2022-07-18-skinning-contest-chromatic-alteration-announcement) has concluded! With 23 entries and only 3 votes per player, hard decisions had to be made when it came to figuring out which entries deserve votes the most, and we are all eagerly awaiting to see the final results!
 
 ## End word
 
