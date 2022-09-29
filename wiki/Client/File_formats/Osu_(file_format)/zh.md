@@ -51,7 +51,7 @@
 | :-- | :-- | :-- |
 | `Bookmarks` | 逗号分隔的 Integer（整型）数组 | [书签（蓝线）](/wiki/Client/Beatmap_editor/Compose#书签指令)的位置（毫秒） |
 | `DistanceSpacing` | Decimal（精准小数） | [间距锁定](/wiki/Client/Beatmap_editor/Distance_snap)倍率 |
-| `BeatDivisor` | Decimal（精准小数） | [节拍细分](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) |
+| `BeatDivisor` | Integer（整型） | [节拍细分](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) |
 | `GridSize` | Integer（整型） | [网格大小](/wiki/Grid_snapping) |
 | `TimelineZoom` | Decimal（精准小数） | [物件时间轴](/wiki/Client/Beatmap_editor/Compose#左上（物件时间轴）)的缩放倍率 |
 
@@ -298,7 +298,7 @@ osu! 里有四种滑条曲线类型：
 *长键语法：* `x,y,开始时间,物件类型,长键音效,结束时间,长键音效组`
 
 - **`结束时间`（整型）：** 长键的结束时间，以谱面音频开始为原点，单位是毫秒。
-- `x` 与长键所在的键位有关。算法为：`floor(x * (键位数 - 1) / 512)` 。
+- `x` 与长键所在的键位有关。算法为：`floor(x * 键位总数 / 512)`，并限制在 `0` 和 `键位总数 - 1` 之间。
 - `y` 不影响长键。默认值为 `192`，即游戏区域的水平中轴。
 
 ### 例子

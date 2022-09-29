@@ -42,10 +42,6 @@ Standardmäßig bietet der osu!-Turnier-Client integrierte Flaggen für die Län
 
 Für benutzerdefinierte Flaggen werden die Dateiformate `.jpg` und `.png` akzeptiert. Flaggenbilder sollten mindestens 140 x 94 sein, wobei für beste Ergebnisse das Seitenverhältnis beibehalten werden sollte.
 
-Ein Beispiel einer Flagge mit den richtigen Angaben ist die Flagge von Australien:
-
-::{ flag=AU }::
-
 Flaggen müssen in `<dein-turnier>/Flags` platziert werden. Die Flaggen können dann im Team-Editor über ihre Dateinamen ohne die Dateiendung abgerufen werden.
 
 ### Mods
