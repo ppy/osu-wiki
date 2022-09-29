@@ -36,7 +36,7 @@ Il s'agit d'une liste d'options dans le fichier `osu!.<votre nom de compte PC>.c
 | `ScreenshotFormat` | Chaîne de caractères | Captures d'écran : |
 | `MenuSnow` | 0 ou 1 | Neige |
 | `MenuParallax` | 0 ou 1 | Parallaxe |
-| `ShowMenuTips` | 0 ou 1 | Trucs et astuces |
+| `ShowMenuTips` | 0 ou 1 | [Trucs et astuces](/wiki/Client/Menu_tips) |
 | `MenuVoice` | 0 ou 1 | Voix d'accueil |
 | `MenuMusic` | 0 ou 1 | Thème musical d'osu! au démarrage |
 | `SeasonalBackgrounds` | Chaîne de caractères | Seasonal backgrounds |
@@ -260,14 +260,14 @@ Vous trouverez d'autres options de mise en page osu!mania dans le fichier [skin.
 | `ConfirmExit` | 0 ou 1 | Si oui ou non, osu! demandera une confirmation avant de quitter le jeu. |
 | `CustomFrameLimit` | Entier | Troisième option de limitation du nombre d'images par seconde disponible dans le jeu |
 | `Display` | Entier | Index du moniteur sur lequel osu! doit s'ouvrir |
-| `EditorTip` | Entier | Index de la prochaine astuce de l'éditeur à afficher |
+| `EditorTip` | Entier | Index de la prochaine [astuce de l'éditeur](/wiki/Client/Menu_tips#editor) à afficher |
 | `GuideTips` | Chaîne de caractères | Suivre les conseils du guide qui ont déjà été présentés afin qu'ils ne le soient plus. |
 | `HighResolution` | 0 ou 1 | Force l'utilisation des éléments de skin en HD |
 | `IgnoreBarline` | 0 ou 1 | Si les barres d'osu!mania doivent être cachées ou non |
 | `LastVersion` | Chaîne de caractères | Version actuelle du client |
 | `LastVersionPermissionsFailed` | Chaîne de caractères | La dernière version du client qui a eu besoin des autorisations de l'administrateur de l'ordinateur pour effectuer une mise à jour. |
 | `LowResolution` | 0 ou 1 | Force l'utilisation des éléments de skin en SD (remplace `HighResolution`) |
-| `MenuTip` | Entier | Index de la prochaine astuce de menu à afficher |
+| `MenuTip` | Entier | Index de la prochaine [astuce de menu](/wiki/Client/Menu_tips#main-menu) à afficher |
 | `MyPcSucks` | 0 ou 1 | Désactive tous les paramètres graphiques fantaisistes |
 | `OverrideRefreshRate` | 0 ou 1 | Si oui ou non la fonction `RefreshRate` est utilisé. |
 | `RefreshRate` | Entier | Taux de rafraîchissement personnalisé |

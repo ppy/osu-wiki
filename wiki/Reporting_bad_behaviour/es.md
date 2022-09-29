@@ -1,106 +1,111 @@
 ---
 no_native_review: true
-outdated_translation: true
-outdated_since: 83725ce048670f4ac909cf76e228a9a5b792df4a
 ---
 
-# Reportar actitud negativa
+# Reportando mal comportamiento
 
-## ¿Que es el sistema de reporte?
+osu! tiene [un equipo de moderadores](/wiki/People/The_Team/Global_Moderation_Team) que se adhieren a mantener el juego y su ecosistema limpios y seguros. Si observa un comportamiento que infringe las reglas o contenido inapropiado, repórtelo utilizando uno de los métodos descritos a continuación. Alternativamente, puede comunicarse directamente con cualquiera de los moderadores en línea si su informe no se manejó correctamente dentro de un período de tiempo razonable; hágalo solo como último recurso.
 
-El sistema de reporte es una característica importante para informar a los moderadores al respecto de usuarios con un mal comportamiento y para que tomen acción al respecto.
+Los informes accidentales se ignoran. Los usuarios que envían deliberadamente informes no válidos pueden correr el riesgo de ser [silenciados](/wiki/Silence).
 
-No esta limitado solo al interior del juego, también se usa en otros lugares como los foros y la wiki en si misma.
+## Casos especiales
 
-## Como reportar a alguien
+| Tipo de infracción | Punto de contacto |
+| :-- | :-- |
+| Estafas/phishing en mensajes privados | Reportar al usuario |
+| Otros mensajes privados ofensivos/inapropiados | **Nada**: [ignorar al usuario](/wiki/Client/Interface/Chat_console#lista-de-comandos). Para un efecto permanente, use la lista de ignorados en el juego ubicada en [opciones](/wiki/Client/Options) o bloquéelos en el sitio web con el botón ubicado en su perfil de usuario. |
+| Conducta inapropiada de un [BN](/wiki/People/The_Team/Beatmap_Nominators) | [NAT](/wiki/People/The_Team/Nomination_Assessment_Team), a través del sitio web de [Gestión de NAT/BN](https://bn.mappersguild.com/reports) |
+| Conducta inapropiada de un miembro del [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) o [GMT](/wiki/People/The_Team/Global_Moderation_Team) | [Equipo de soporte de cuentas](/wiki/People/The_Team/Account_support_team) en [support@ppy.sh](mailto:support@ppy.sh) |
+| Abuso sexual o mala conducta extrema | Consulte [Reportando Abuso](/wiki/Reporting_bad_behaviour/Abuse) |
 
-### Usando el comando !report en el juego
+Para cualquier otra cosa, consulte las instrucciones a continuación.
 
-Uso: `!report usuario [razón]`
+## Chat en el juego
 
-Los parámetros dentro de **\[** y **\]** son opcionales.
+### El comando !report
 
-Si el usuario tiene un espacio en su nombre de usuario, debe ser reemplazado por un guion bajo `_` porque el chat de osu! dentro del juego esta basado en [IRC](/wiki/Internet_Relay_Chat "Internet Relay Chat (IRC)").
+![](img/report-command.jpg "Ejemplo de usando el comando !report")
 
-`!report Este nombre de usuario por spamear en #osu` se vuelve `!report Este_nombre_de_usuario por spamear en #osu` 
+El mal comportamiento en el chat es la infracción más común. Para reportarlo, utilice el comando [`!report`](https://osu.ppy.sh/community/forums/topics/34843), preferentemente en el canal donde se produjo la infracción. No te sientas estresado: si su mensaje comienza con `!report` y un espacio, **solo es visible para los moderadores** y nadie más en el chat. También puede usar la función de informe a través de la [superposición en el juego](#superposición-en-el-juego) como se muestra a continuación si todavía está preocupado.
 
-Los reportes no distinguen entre mayúsculas o minúsculas, por lo tanto, esta bien usar letras minúsculas tales como `este_nombre_de_usuario`. 
+La sintaxis del comando tiene dos formas:
 
-![Ejemplo de cómo usar el comando !report](img/report-command.jpg "Ejemplo de cómo usar el comando !report")
+```
+!report username
+!report username (descripción libre sigue)
+```
 
-### Usando el botón de reportar en el juego
+Si hay espacios en el nombre de usuario, reemplácelos con guiones bajos:
 
-Reportar al usuario de esta manera solo requiere algún tipo de razón y el texto personalizado a diferencia de el comando `!report`.
+```
+!report bad_user enviando spam en #osu
+```
 
-![Clickea el botón de reportar](img/report-user-1.png "Clickea el botón de reportar")
+### Superposición en el juego
 
-![¡Recuerda añadir una razón aquí!](img/report-user-2.png "Recuerda añadir una razón aquí!")
+![](img/report-user-1.png "Menú de acciones del usuario con el botón de reporte")
 
-### Usando el botón de reporte en el perfil de un usuario
+![](img/report-user-2.png "Diálogo de reporte en el juego")
 
-Esto funciona de igual manera que el botón de reporte dentro del juego.
+Esta opción funciona si el usuario infractor está a la vista:
 
-Recuerda añadir detalles a tu reporte en los comentarios.
+1. Haga clic en su nombre de usuario y presione el botón rojo titulado `Reportar usuario`
+2. Seleccione la categoría y agregue detalles (opcional).
 
-![Esto abrirá un dialogo para reportar al usuario.](img/report-user-profile.png "Esto abrirá un dialogo para reportar al usuario.")
+## Sitio web
 
-### Usando el enlace de reporte en la pantalla de puntuación de una jugada del usuario
+### Perfil de usuario
 
-Esto debería ser usado solamente al reportar usuarios usando trampas.
+![](img/report-user-profile.png "El botón de reporte en una página de perfil")
 
-![Presionar este enlace reportara esta jugada.](img/report-score-beatmap.png "Presionar este enlace reportara esta jugada.")
+![](img/report-user-web.png "Reporte de diálogo en el sitio web")
 
-## Ejemplos de que reportar
+1. Pulse el botón con tres puntos verticales y seleccione `Reportar`.
+2. Seleccione la categoría y agregue detalles (opcional).
 
-### Spam o inundación en el chat
+### Foro
 
-¡Usar un teclado roto no es una excusa!
+![](img/report-user-forum.png "El botón de reporte en una publicación del foro")
 
-### Uso excesivo de letras mayúsculas
+1. Pase el cursor sobre la publicación.
+2. En una fila de botones que aparecen en la esquina superior derecha de la publicación, haga clic en el botón con una señal de advertencia.
+3. Seleccione la categoría y agregue detalles (opcional).
 
-Esto es considerado como gritar y molestoso.
+### Sección de comentarios
 
-### Publicación de contenido inapropiado tales como el contenido pornográfico (dudoso/sugestivo son considerados)
+![](img/report-user-comment.png "El botón de reporte en un comentario del sitio web")
 
-Los moderadores silencian inmediatamente por esto, removiendo el contenido sin advertencia.
+1. Debajo del comentario, haga clic en el enlace `reportar`.
+2. Seleccione la categoría y agregue detalles (opcional).
 
-### Publicación de contenido no deseado tales como anuncios, screamers y referidos
+### Beatmap
 
-Ten en cuenta que spamear enlaces a streams también aplican a esta regla.
+![](img/report-beatmap.png "El botón de reporte en una página de beatmap")
 
-### Actitud ofensiva hacia otros jugadores
+1. Pulse el botón con tres puntos verticales y seleccione `Reportar`.
+2. Seleccione la categoría y agregue detalles (opcional).
 
-Decirle a la gente que se mate no es algo bonito de decir.
+### Discusión de beatmap
 
-y muchas cosas más...
+![](img/report-user-discussion.png "El botón de reporte en una publicación de discusión")
 
-## Preguntas frecuentes
+1. Debajo de la publicación de discusión, haga clic en el enlace `reportar`.
+2. Seleccione la categoría y agregue detalles (opcional).
 
-### ¿Pueden otros jugadores ver mis reportes en el chat?
+### Listado de puntuaciones
 
-Obviamente, no, a menos de que hayas escrito el prefijo el comando mal.
-¡Asegúrate de escribir el signo de exclamación primero!
+![](img/report-score-user.png "El botón de reporte en una puntuación máxima en el perfil de un usuario")
 
-### ¡He reportado a un usuario accidentalmente! ¿obtendré un castigo?
+#### Perfil del usuario
 
-No.
-No te preocupes de esto, los reportes en falso serán ignorados a menos de que sean abusados.
+1. Desplácese a la sección "Rangos" o "Histórico" para las jugadas recientes y localice la puntuación.
+2. En el lado derecho de la puntuación, presione el botón con tres puntos verticales y seleccione "Reportar puntuación".
+3. Seleccione la categoría y agregue detalles (opcional).
 
-### ¿Puedo reportar múltiples veces?
+#### Listado de puntuaciones de beatmap
 
-Reporta una vez es suficiente, pero puedes reportar varias veces durante el día.
-Dos o tres veces debería ser suficiente.
+![](img/report-score-beatmap.png "El botón de reporte en una puntuación máxima en una lista de puntuaciones de un beatmap")
 
-Puedes reportar el canal diciendo que varios jugadores están causando problemas o puedes hacer una lista con cada persona.
-
-### ¿Esto incluye mensajes privados?
-
-La mayoría de los problemas en los mensajes privados, tales como los insultos, no son manejados.
-
-Un usuario puede simplemente usar el sistema de ignorar para evitar recibir mensajes del usuario, incluyendo canales.
-
-**Nota:** La lista de ignorados se reiniciara cuando cierres el cliente del juego.
-
-### ¿Puedo reportar a un moderador?
-
-Si puedes, pero es recomendado que contactes al equipo de soporte de osu! ([support@ppy.sh](mailto:support@ppy.sh)) para quejas acerca del staff.
+1. Pase el cursor sobre la puntuación.
+2. En el lado derecho de la puntuación, presione el botón con tres puntos verticales y seleccione "Reportar puntuación".
+3. Seleccione la categoría y agregue detalles (opcional).

@@ -10,7 +10,7 @@ tags:
 
 ![MWC 4K 2022 banner](img/mwc4k2022_banner.jpg)
 
-The **osu!mania 4K World Cup 2022** (***MWC 4K 2022***) is a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/The_Team). It is the ninth instalment of the osu!mania 4K World Cup.
+The **osu!mania 4K World Cup 2022** (***MWC 4K 2022***) was a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/The_Team). It was the ninth instalment of the osu!mania 4K World Cup.
 
 ## Tournament schedule
 
@@ -28,8 +28,8 @@ The **osu!mania 4K World Cup 2022** (***MWC 4K 2022***) is a country-based osu!m
 
 ## Prizes
 
-The osu!mania 4K World Cup 2022 offers a minimum $2,000 cash prize pool and limited edition merch.
-The prize pool may increase further from **[community donations](https://opencollective.com/osu-tournaments/events/osu-mania-world-cup-4k-6c77ec5b)**!
+The osu!mania 4K World Cup 2022 offered a minimum $2,000 cash prize pool and limited edition merch.
+The prize pool was further increased to $2,166.20 from **[community donations](https://opencollective.com/osu-tournaments/events/osu-mania-world-cup-4k-6c77ec5b)**.
 
 | Placing | Prizes |
 | :-: | :-- |
@@ -37,9 +37,11 @@ The prize pool may increase further from **[community donations](https://opencol
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 32% of the prize pool, single-run merch, profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool, single-run merch, profile badge |
 
+![](img/badge-1st.jpg "MWC 4K 2022 winner badge") ![](img/badge-2nd.jpg "MWC 4K 2022 2nd place badge") ![](img/badge-3rd.jpg "MWC 4K 2022 3rd place badge")
+
 ## Organisation
 
-The osu!mania 4K World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) and various community members.
+The osu!mania 4K World Cup 2022 was run by the [osu! team](/wiki/People/The_Team) and various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -48,7 +50,7 @@ The osu!mania 4K World Cup 2022 is run by the [osu! team](/wiki/People/The_Team)
 | Mappool helper | ::{ flag=SG }:: [Abraxos](https://osu.ppy.sh/users/5025064), ::{ flag=SG }:: [aeoliancarp](https://osu.ppy.sh/users/1027529), ::{ flag=PH }:: [arccat](https://osu.ppy.sh/users/4848294), ::{ flag=CA }:: [guden](https://osu.ppy.sh/users/11626065), ::{ flag=DK }:: [Jole](https://osu.ppy.sh/users/2883132), ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656), ::{ flag=US }:: [lemonguy](https://osu.ppy.sh/users/4693052), ::{ flag=US }:: [Matthia](https://osu.ppy.sh/users/19804607), ::{ flag=ID }:: [Mipha-](https://osu.ppy.sh/users/5767941), ::{ flag=TH }:: [MyZterioN-](https://osu.ppy.sh/users/8521723), ::{ flag=GB }:: [Pope Gadget](https://osu.ppy.sh/users/2288341), ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767), ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811), ::{ flag=KR }:: [Transcendence](https://osu.ppy.sh/users/903155), ::{ flag=US }:: [\_Seth](https://osu.ppy.sh/users/8111953) |
 | SV mapper/consultant | ::{ flag=CN }:: [AlexDunk](https://osu.ppy.sh/users/9194799), ::{ flag=PH }:: [arccat](https://osu.ppy.sh/users/4848294), ::{ flag=FR }:: [BlackyDay](https://osu.ppy.sh/users/5724831), ::{ flag=US }:: [Ciel](https://osu.ppy.sh/users/1455309), ::{ flag=NL }:: [DannyPX](https://osu.ppy.sh/users/11253722), ::{ flag=US }:: [FullCombro](https://osu.ppy.sh/users/12045149), ::{ flag=CA }:: [guden](https://osu.ppy.sh/users/11626065), ::{ flag=GB }:: [H1Pur](https://osu.ppy.sh/users/15756120), ::{ flag=BR }:: [Halo-](https://osu.ppy.sh/users/7572142), ::{ flag=KR }:: [Jakads](https://osu.ppy.sh/users/259972), ::{ flag=PH }:: [notapplicable](https://osu.ppy.sh/users/7170536), ::{ flag=US }:: [NovaSagittarii](https://osu.ppy.sh/users/11664177), ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061), ::{ flag=TH }:: [RuleBlazing](https://osu.ppy.sh/users/7312402), ::{ flag=PL }:: [Tidek](https://osu.ppy.sh/users/743282), ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416), ::{ flag=HK }:: [zero2snow](https://osu.ppy.sh/users/7751516) |
 | Referee | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=IN }:: [Speshimen](https://osu.ppy.sh/users/7720204), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=US }:: [\[K\]](https://osu.ppy.sh/users/16551387) |
-| Commentator | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656), ::{ flag=ID }:: [Mipha\-](https://osu.ppy.sh/users/5767941), ::{ flag=US }:: [Orca\-](https://osu.ppy.sh/users/7958845), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=AU }:: [PotassiumF](https://osu.ppy.sh/users/4247722), ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767), ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811), ::{ flag=US }:: [\-Sparky\-](https://osu.ppy.sh/users/3187959) |
+| Commentator | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656), ::{ flag=ID }:: [Mipha\-](https://osu.ppy.sh/users/5767941), ::{ flag=US }:: [Orca\-](https://osu.ppy.sh/users/7958845), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=AU }:: [PotassiumF](https://osu.ppy.sh/users/4247722), ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811), ::{ flag=US }:: [\-Sparky\-](https://osu.ppy.sh/users/3187959) |
 | Statistician | ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899) |
 
 ## Links
@@ -63,7 +65,7 @@ The osu!mania 4K World Cup 2022 is run by the [osu! team](/wiki/People/The_Team)
 |  | Country | Members |
 | :-: | :-: | :-- |
 | ::{ flag=AR }:: | **Argentina** | **[C90](https://osu.ppy.sh/users/13858488)**, [stoneworm](https://osu.ppy.sh/users/23410931), [Greedom](https://osu.ppy.sh/users/10696707), [EteChmess](https://osu.ppy.sh/users/16233256), [BL5 MI WAIFU](https://osu.ppy.sh/users/65724), [LeongKat](https://osu.ppy.sh/users/11429144) |
-| ::{ flag=AU }:: | **Australia** | **[PotassiumF](https://osu.ppy.sh/users/4247722)**, [a1ternation](https://osu.ppy.sh/users/9828306), [FluffyGMD](https://osu.ppy.sh/users/10502251), [Maid Bnot](https://osu.ppy.sh/users/16954929), [nootnoot6989](https://osu.ppy.sh/users/20361901), [ruka](https://osu.ppy.sh/users/6117525) |
+| ::{ flag=AU }:: | **Australia** | **[PotassiumF](https://osu.ppy.sh/users/4247722)**, [a1ternation](https://osu.ppy.sh/users/9828306), [FluffyGMD](https://osu.ppy.sh/users/10502251), [aiemasu](https://osu.ppy.sh/users/16954929), [nootnoot6989](https://osu.ppy.sh/users/20361901), [ruka](https://osu.ppy.sh/users/6117525) |
 | ::{ flag=BE }:: | **Belgium** | **[Mortelspawn\_](https://osu.ppy.sh/users/5331420)**, [yetii](https://osu.ppy.sh/users/6914714), [flyerbram002](https://osu.ppy.sh/users/12725421), [shaafs](https://osu.ppy.sh/users/8811695) |
 | ::{ flag=BR }:: | **Brazil** | **[Amerom](https://osu.ppy.sh/users/5691061)**, [SillyFangirl](https://osu.ppy.sh/users/2288363), [Lothus](https://osu.ppy.sh/users/9530019), [Orost](https://osu.ppy.sh/users/13601876), [LeMarcinho](https://osu.ppy.sh/users/13347579), [DemiFiendSMT](https://osu.ppy.sh/users/20051971) |
 | ::{ flag=CA }:: | **Canada** | **[Piggy](https://osu.ppy.sh/users/5390121)**, [loafusofbread](https://osu.ppy.sh/users/9278959), [GDMem](https://osu.ppy.sh/users/10804091), [Dale940](https://osu.ppy.sh/users/13847951), [Stability](https://osu.ppy.sh/users/6701738), [svp-](https://osu.ppy.sh/users/13887380) |
@@ -92,7 +94,7 @@ The osu!mania 4K World Cup 2022 is run by the [osu! team](/wiki/People/The_Team)
 | ::{ flag=PT }:: | **Portugal** | **[Rodrig0v](https://osu.ppy.sh/users/138866)**, [\_Creamy](https://osu.ppy.sh/users/9354008), [Dioxidan](https://osu.ppy.sh/users/15458376), [NeonixWasTaken](https://osu.ppy.sh/users/11951392) |
 | ::{ flag=RO }:: | **Romania** | **[lifilled](https://osu.ppy.sh/users/11711666)**, [robby250](https://osu.ppy.sh/users/2653437), [\[LS\]Khu](https://osu.ppy.sh/users/12712916), [Mich\_](https://osu.ppy.sh/users/11784492), [myja](https://osu.ppy.sh/users/7852449), [DoomRogue](https://osu.ppy.sh/users/25167958) |
 | ::{ flag=RU }:: | **Russian Federation** | **[Lerck](https://osu.ppy.sh/users/10450696)**, [Nepko](https://osu.ppy.sh/users/11898245), [X\_Devil](https://osu.ppy.sh/users/6694908), [-Oni-Chan-](https://osu.ppy.sh/users/10036005), [\_lyko](https://osu.ppy.sh/users/8435430), [\[LN\]numuser](https://osu.ppy.sh/users/12585687) |
-| ::{ flag=SG }:: | **Singapore** | **[Judiciousity](https://osu.ppy.sh/users/11199083)**, [Xvenn](https://osu.ppy.sh/users/13390529), [upr-](https://osu.ppy.sh/users/14099962), [MrExpandion](https://osu.ppy.sh/users/12459700), [dabreadosan](https://osu.ppy.sh/users/16870002), [awdse22](https://osu.ppy.sh/users/8743513) |
+| ::{ flag=SG }:: | **Singapore** | **[Judiciousity](https://osu.ppy.sh/users/11199083)**, [-Aishiteru-](https://osu.ppy.sh/users/13390529), [upr-](https://osu.ppy.sh/users/14099962), [MrExpandion](https://osu.ppy.sh/users/12459700), [sukidayo-](https://osu.ppy.sh/users/16870002), [awdse22](https://osu.ppy.sh/users/8743513) |
 | ::{ flag=KR }:: | **South Korea** | **[SuddenDeath](https://osu.ppy.sh/users/6699923)**, [SnowScent](https://osu.ppy.sh/users/7945868), [Poca](https://osu.ppy.sh/users/8581031), [Flying Samira](https://osu.ppy.sh/users/10329095), [gaesol](https://osu.ppy.sh/users/12452131), [lianic](https://osu.ppy.sh/users/13975661) |
 | ::{ flag=ES }:: | **Spain** | **[Quenlla](https://osu.ppy.sh/users/4725379)**, [CrewK fanboy](https://osu.ppy.sh/users/7860283), [ERA Guldakh](https://osu.ppy.sh/users/8553078), [LittleDemonRiri](https://osu.ppy.sh/users/15114039), [itsdarious555](https://osu.ppy.sh/users/6809566), [Enthalpy](https://osu.ppy.sh/users/9552883) |
 | ::{ flag=SE }:: | **Sweden** | **[Emik](https://osu.ppy.sh/users/3350987)**, [diamondBIaze](https://osu.ppy.sh/users/10553827), [SebbeBest](https://osu.ppy.sh/users/18272334), [NeonDrakon](https://osu.ppy.sh/users/6315000) |
@@ -105,33 +107,65 @@ The osu!mania 4K World Cup 2022 is run by the [osu! team](/wiki/People/The_Team)
 | ::{ flag=VE }:: | **Venezuela** | **[Edvo](https://osu.ppy.sh/users/8301758)**, [xXShyzDy0133Xx](https://osu.ppy.sh/users/13545528), [calvingarrix666](https://osu.ppy.sh/users/17881051), [YuyukoFangirl](https://osu.ppy.sh/users/10336332) |
 | ::{ flag=VN }:: | **Vietnam** | **[Lott](https://osu.ppy.sh/users/13821222)**, [magnifestio](https://osu.ppy.sh/users/22725724), [CPT\_Sivelia](https://osu.ppy.sh/users/12562107), [TriDoanGaming](https://osu.ppy.sh/users/14009758), [Micleak](https://osu.ppy.sh/users/16140674), [Frostleaf](https://osu.ppy.sh/users/11863174) |
 
-## Match schedule: Semifinals
+## Podium
 
-### Saturday, 3 September 2022
-
-| Team A | Team B | Match time |  |
-| --: | :-- | :-- | :-: |
-| Japan ::{ flag=JP }:: | ::{ flag=SG }:: Singapore | [Sep 3 (Sat) 12:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220903T123000&p1=1440&p2=248&p3=236) | [^losers-bracket] |
-| United Kingdom ::{ flag=GB }:: | ::{ flag=ID }:: Indonesia | [Sep 3 (Sat) 12:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220903T123000&p1=1440&p2=136&p3=108) | [^losers-bracket] |
-| Thailand ::{ flag=TH }:: | ::{ flag=CN }:: China | [Sep 3 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220903T150000&p1=1440&p2=28&p3=33) | [^losers-bracket] |
-
-### Sunday, 4 September 2022
-
-| Team A | Team B | Match time |  |
-| --: | :-- | :-- | :-: |
-| United States ::{ flag=US }:: | ::{ flag=VN }:: Vietnam | [Sep 4 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220904T040000&p1=1440&p2=263&p3=95) | [^losers-bracket] |
-| Philippines ::{ flag=PH }:: | ::{ flag=KR }:: South Korea | [Sep 4 (Sun) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220904T090000&p1=1440&p2=145&p3=235) | [^winners-bracket] |
-| Vietnam ::{ flag=VN }:: | ::{ flag=ID }:: Indonesia | [Sep 4 (Sun) 10:15 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220904T101500&p1=1440&p2=95&p3=108) | [^potential-match] |
-| Vietnam ::{ flag=VN }:: | ::{ flag=GB }:: United Kingdom | [Sep 4 (Sun) 10:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220904T103000&p1=1440&p2=95&p3=136) | [^potential-match] |
-| Japan ::{ flag=JP }:: | ::{ flag=TH }:: Thailand | [Sep 4 (Sun) 12:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220904T123000&p1=1440&p2=248&p3=28) | [^potential-match] |
-| Japan ::{ flag=JP }:: | ::{ flag=CN }:: China | [Sep 4 (Sun) 12:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220904T123000&p1=1440&p2=248&p3=33) | [^potential-match] |
-| Singapore ::{ flag=SG }:: | ::{ flag=TH }:: Thailand | [Sep 4 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220904T130000&p1=1440&p2=236&p3=28) | [^potential-match] |
-| Brazil ::{ flag=BR }:: | ::{ flag=MY }:: Malaysia | [Sep 4 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220904T140000&p1=1440&p2=45&p3=122) | [^winners-bracket] |
-| Singapore ::{ flag=SG }:: | ::{ flag=CN }:: China | [Sep 4 (Sun) 14:45 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220904T144500&p1=1440&p2=236&p3=33) | [^potential-match] |
-| United States ::{ flag=US }:: | ::{ flag=ID }:: Indonesia | [Sep 4 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220904T150000&p1=1440&p2=263&p3=108) | [^potential-match] |
-| United States ::{ flag=US }:: | ::{ flag=GB }:: United Kingdom | [Sep 4 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20220904T180000&p1=1440&p2=263&p3=136) | [^potential-match] |
+![](img/podium.jpg "MWC 4K 2022 podium")
 
 ## Mappools
+
+### Grand Finals
+
+**[Download the mappack here (255 MB)](https://drive.google.com/uc?id=1u3bkuMAFzlcOYTvLTTHxt1XNGV28dutw)**
+
+- Rice
+  1. [Luze - Love Song \[Black Dorna\] (Valedict) \[Heartfelt 1.1x (382bpm)\]](https://osu.ppy.sh/beatmapsets/1796541#mania/3763263)
+  2. [Falcom Sound Team jdk - Crimson Fighter (lemonguy) \[Adol The Red x1.1\]](https://osu.ppy.sh/beatmapsets/1791533#mania/3671281)
+  3. [Ariabl'eyeS - Sougetsu Oratorio (\[Crz\]Rachel) \[Eclipse x1.05\]](https://osu.ppy.sh/beatmapsets/842131#mania/1762209)
+  4. [Yuta Imai Vs. BEMANI Sound Team "L.E.D.-G" - THE PEERLESS UNDER HEAVEN (Mipha-) \[MIPHATHER\]](https://osu.ppy.sh/beatmapsets/1829143#mania/3756153)
+  5. [Camellia - Xeroa (Shoegazer) \[Harbinger 1.15x (346bpm)\]](https://osu.ppy.sh/beatmapsets/1716930#mania/3513548)
+  6. [xi - PEACE BREAKER (0DZ0) \[WIDOWMAKER 1.1x (176bpm)\]](https://osu.ppy.sh/beatmapsets/1842152#mania/3783809)
+  7. [Terminal 11 - Fury (Pizza69) \[Extreme 1.05x (205bpm)\]](https://osu.ppy.sh/beatmapsets/1632108#mania/3331564)
+- Hybrid
+  1. [Silentroom - XHRONOXAPSULE (-mint-) \[XHRONOMALY 1.05x (291bpm)\]](https://osu.ppy.sh/beatmapsets/1846505#mania/3793096)
+  2. [katagiri - Angel's Salad (lemonguy) \[Challenge x1.1\]](https://osu.ppy.sh/beatmapsets/1757208#mania/3595933)
+  3. [void (Mournfinale) feat. Hoshikuma Minami - Testify (Abraxos) \[Who controls the present now?\]](https://osu.ppy.sh/beatmapsets/1845408#mania/3790784)
+- LN
+  1. [Nanahoshi Kangengakudan - No.39 (juankristal) \[t!m!ng h#ll\]](https://osu.ppy.sh/beatmapsets/1846256#mania/3792661)
+  2. [nmk - Celestial Axes (\[Crz\]Crysarlene) \[Amaranthine \[1.05x Rate\]\]](https://osu.ppy.sh/beatmapsets/1772725#mania/3629447)
+  3. [Hatsuki Yura - Black Princess (lemonguy) \[LN Master x1.15\]](https://osu.ppy.sh/beatmapsets/1810053#mania/3792636)
+  4. [Camellia - Blackmagik Blazing (-mint-) \[The Sorcerer's Apprentice\]](https://osu.ppy.sh/beatmapsets/1755294#mania/3592063)
+- SV
+  1. [Camellia - AttraqtiA (Orca-) \[Spacial Scission\]](https://osu.ppy.sh/beatmapsets/1846614#mania/3793332)
+  2. [Laur - Symphony Op.1 -CHAOS- (Tidek) \[1-500-8000\]](https://osu.ppy.sh/beatmapsets/1846644#mania/3793380)
+- Tiebreaker
+  1. **[aa...hisuichazuke... - steganography (-mint-) \[Cipher Encryption\]](https://osu.ppy.sh/beatmapsets/1846639#mania/3793375)**
+
+### Finals
+
+**[Download the mappack here (192 MB)](https://drive.google.com/uc?id=133biyrKvw-ZMI54M2ukM3aFQT9TwK-n3)**
+
+- Rice
+  1. [HOWL BE QUIET - Wake We Up (Guilhermeziat) \[Skwid's Challenge\]](https://osu.ppy.sh/beatmapsets/1443429#mania/2969170)
+  2. [Camellia - Venomous Firefly (-mint-) \[Insecticide 1.05x (277bpm)\]](https://osu.ppy.sh/beatmapsets/1840749#mania/3780755)
+  3. [DJ SHARPNEL - Magic Cycles (Shoegazer) \[Eternal 1.35x (265bpm)\]](https://osu.ppy.sh/beatmapsets/1449692#mania/2997885)
+  4. [BEMANI Sound Team "L.E.D. VS. L.E.D.-G" - KILL EACH OTHER (stupud man) \[RING OF DESTRUCTION\]](https://osu.ppy.sh/beatmapsets/1412098#mania/3081803)
+  5. [Underoath - Writing On The Walls (Final Sketch Remix) (Shoegazer) \[Memory 1.4x (282bpm)\]](https://osu.ppy.sh/beatmapsets/1210223#mania/3099595)
+  6. [DEV/NULL - Real Ultimate Power (Pizza69) \[Extra 1.05x (231bpm)\]](https://osu.ppy.sh/beatmapsets/1822741#mania/3740273)
+  7. [Converge - Reap What You Sow (Pope Gadget) \[1.05\]](https://osu.ppy.sh/beatmapsets/1828397#mania/3782697)
+- Hybrid
+  1. [uraboroshi - Retrospective Arabesque (\[Crz\]FolAH1217) \[Symmetric x1.15\]](https://osu.ppy.sh/beatmapsets/1741640#mania/3781997)
+  2. [Camellia feat. Nana Takahashi - Mushi no Sumu Tokoro -Ugomeki wa nao fukamaru- (-mint-) \[Formication (cut)\]](https://osu.ppy.sh/beatmapsets/1800811#mania/3691933)
+  3. [TJ.hangneil - Apollo (lemonguy) \[Confidential\]](https://osu.ppy.sh/beatmapsets/1663547#mania/3395931)
+- LN
+  1. [youman feat. GUMI - R.I.P. (MyZterioN-) \[cacophony 1.05x (284bpm)\]](https://osu.ppy.sh/beatmapsets/1712790#mania/3629312)
+  2. [SUi - planetarium (MyZterioN-) \[pieerre's Plain LN (edit) 1.2x\]](https://osu.ppy.sh/beatmapsets/1841635#mania/3782644)
+  3. [xi - Elemental Creation -xiRemix- (guden) \[Odin\]](https://osu.ppy.sh/beatmapsets/1753464#mania/3588365)
+  4. [JAKAZiD - Slaughta (lemonguy) \[chalLeNge x1.1\]](https://osu.ppy.sh/beatmapsets/1747998#mania/3575493)
+- SV
+  1. [\_yi. - my culture (Cut Ver.) (Paturages) \[Millenial\]](https://osu.ppy.sh/beatmapsets/1842662#mania/3784864)
+  2. [Laur - DANGEROOOOUS JUNGLE (Ciel) \[oh my dog\]](https://osu.ppy.sh/beatmapsets/1842680#mania/3784896)
+- Tiebreaker
+  1. **[Camellia - TremENDouS (-mint-) \[Intergalactic\]](https://osu.ppy.sh/beatmapsets/1842682#mania/3784899)**
 
 ### Semifinals
 
@@ -247,6 +281,58 @@ The osu!mania 4K World Cup 2022 is run by the [osu! team](/wiki/People/The_Team)
 8. [xi - The End of Dreams (Sped Up Ver.) (aeoliancarp) \[Stage 8: Dawn\]](https://osu.ppy.sh/beatmapsets/1817980#mania/3729876)
 
 ## Match results
+
+### Grand Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1DIugIVhdsx0mY6PdNkm0NRojdYMyKWeUqrEtLsvdx70).
+
+Sunday, 18 September 2022:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **South Korea** ::{ flag=KR }:: | **7** | 6 | ::{ flag=US }:: United States | [#1](https://osu.ppy.sh/community/matches/103862590) |
+| Brazil ::{ flag=BR }:: | 6 | **7** | ::{ flag=KR }:: **South Korea** | [#1](https://osu.ppy.sh/community/matches/103872600) |
+| **South Korea** ::{ flag=KR }:: | **7** | 3 | ::{ flag=BR }:: Brazil | [#1](https://osu.ppy.sh/community/matches/103874849) |
+
+### Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1I5_Jd33hAH0yJRju9Tuoz3aqlQQFmrAz7nSIUND7EWs).
+
+Saturday, 10 September 2022:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Philippines** ::{ flag=PH }:: | **7** | 1 | ::{ flag=JP }:: Japan | [#1](https://osu.ppy.sh/community/matches/103688295) |
+| Malaysia ::{ flag=MY }:: | 5 | **7** | ::{ flag=US }:: **United States** | [#1](https://osu.ppy.sh/community/matches/103692295) |
+
+Sunday, 11 September 2022:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Philippines ::{ flag=PH }:: | 4 | **7** | ::{ flag=US }:: **United States** | [#1](https://osu.ppy.sh/community/matches/103709077) |
+| **Brazil** ::{ flag=BR }:: | **7** | 5 | ::{ flag=KR }:: South Korea | [#1](https://osu.ppy.sh/community/matches/103719158) |
+
+### Semifinals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1YU69AF6J2TVkFxu3Jv9x0uanXRcXFT9Njh2ezPhZE-0).
+
+Saturday, 3 September 2022:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Japan** ::{ flag=JP }:: | **7** | 3 | ::{ flag=SG }:: Singapore | [#1](https://osu.ppy.sh/community/matches/103533339) |
+| **United Kingdom** ::{ flag=GB }:: | **7** | 5 | ::{ flag=ID }:: Indonesia | [#1](https://osu.ppy.sh/community/matches/103533332) |
+| Thailand ::{ flag=TH }:: | 6 | **7** | ::{ flag=CN }:: **China** | [#1](https://osu.ppy.sh/community/matches/103537005) |
+
+Sunday, 4 September 2022:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **United States** ::{ flag=US }:: | **7** | 3 | ::{ flag=VN }:: Vietnam | [#1](https://osu.ppy.sh/community/matches/103553625) |
+| Philippines ::{ flag=PH }:: | 6 | **7** | ::{ flag=KR }:: **South Korea** | [#1](https://osu.ppy.sh/community/matches/103557749) |
+| **Japan** ::{ flag=JP }:: | **7** | 4 | ::{ flag=CN }:: China | [#1](https://osu.ppy.sh/community/matches/103561228) |
+| **Brazil** ::{ flag=BR }:: | **7** | 4 | ::{ flag=MY }:: Malaysia | [#1](https://osu.ppy.sh/community/matches/103563299) |
+| **United States** ::{ flag=US }:: | **7** | 4 | ::{ flag=GB }:: United Kingdom | [#1](https://osu.ppy.sh/community/matches/103568878) |
 
 ### Quarterfinals
 
@@ -520,9 +606,3 @@ The final standings for the Qualifier stage can be found at the following [sprea
    - Matches may not be scheduled to any time beyond **Sunday, 19:00 UTC+0** of the week they are to be played at.
    - **Do not ask for a reschedule unless it is absolutely needed. The Tournament Management reserves the right to deny any rescheduling request at their discretion.**
 6. Captains are responsible for their team's availability. Any mishaps resulting from a lack of transparency from a team are to be resolved internally, the Tournament Management will not intervene.
-
-## Notes
-
-[^winners-bracket]: Winners bracket match
-[^losers-bracket]: Losers bracket match
-[^potential-match]: Potential match - final matchup depends on the results of the preceding Losers Bracket matches

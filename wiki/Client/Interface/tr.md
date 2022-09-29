@@ -17,7 +17,7 @@ outdated_since: 8c58252899939eadafbdbf266f62a75aeb247bff
 - \[3\] Düzenleyici modu şarkı seçim ekranına geçmek için Edit'e (`E`) tıklayın.
 - \[4\] Ayarlar ekranına gitmek için Options'a (`O`) tıklayın.
 - \[5\] osu!'dan çıkmak için Exit'e (`Esc`) tıklayın.
-- \[6\] Menünün alt kısmında işe yarar rastgele bir tavsiye görüntülenir.
+- \[6\] Menünün alt kısmında işe yarar rastgele bir [tavsiye](/wiki/Client/Menu_tips) görüntülenir.
 - \[7\] Sol-alt kısımda osu! web sayfasına bir link, aynı zamanda telif hakkı bilgisi bulunur.
 - \[8\] [Bancho](/wiki/Bancho_(server))'ya bağlantı sonucu! Bu resimde gösterilmiyor, ama bağlantı sonucu bir dizi linke benziyor.
 - \[9\] Sağ-alt kısımda genişletilmiş [sohbet penceresi](/wiki/Client/Interface/Chat_console) (burada "Player List" olarak geçiyor) ve sıradan sohbet penceresi (sırasıyla `F9` & `F8`) için sohbet kontrolleri bulunur.

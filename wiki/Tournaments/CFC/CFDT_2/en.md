@@ -81,6 +81,29 @@ The Catch French Dual Tournament 2 is run by various community members.
 
 ## Mappools
 
+### Semifinals
+
+- NoMod
+  1. [tokiwa - Memoirs feat. Aitsuki Nakuru (Sanyi) \[Memories\]](https://osu.ppy.sh/beatmapsets/1664624#fruits/3398199)
+  2. [DJ TOTTO feat. \*spiLa\* - illumina (Imai Lisa) \[Special\]](https://osu.ppy.sh/beatmapsets/880513#fruits/1841248)
+  3. [Yooh - Heracles (Secre) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1842648#fruits/3784847)
+  4. [BLOOD STAIN CHILD - MOON LIGHT WAVE (Silleth) \[Extra\]](https://osu.ppy.sh/beatmapsets/296543#fruits/1041934)
+  5. [aran - Mazy Metroplex (VoiceCore) \[Expert\]](https://osu.ppy.sh/beatmapsets/1382603#fruits/2856473)
+- Hidden
+  1. [Camellia feat. Nanahira - Looking For A New Adventure (Jemzuu) \[Technological Escapade\]](https://osu.ppy.sh/beatmapsets/1197924#fruits/2495104)
+  2. [Akiyama Uni - The Grimoire of Alice (Hollow Wings) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/123839#fruits/344620)
+  3. [inabakumori - Tokoshizume (xyperX) \[Mahiru's Expert\]](https://osu.ppy.sh/beatmapsets/1777533#fruits/3674557)
+- HardRock
+  1. [Kobaryo - Sulyvahn \[feat. USAO\] (Sinnoh) \[Rain\]](https://osu.ppy.sh/beatmapsets/1647251#fruits/3362245)
+  2. [Nekomata Master feat. Hayashi Momoko - Rainbow after snow (Juansy-) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1493152#fruits/3060701)
+  3. [Aethral - It's Boss Time, dude (PaRaDogi) \[Expert\]](https://osu.ppy.sh/beatmapsets/1724172#fruits/3552792)
+- DoubleTime
+  1. [Syaro(CV.Uchida Maaya) - Caffeine Fighter (Ascendance) \[Rain\]](https://osu.ppy.sh/beatmapsets/538511#fruits/1141721)
+  2. [Dua Lipa - Physical (schoolboy) \[Gladi's Insane\]](https://osu.ppy.sh/beatmapsets/1169699#fruits/2455816)
+  3. [eufonius - Hiyoku no Hane (Bellicose) \[Promise\]](https://osu.ppy.sh/beatmapsets/1346489#fruits/2788522)
+- Tiebreaker
+  1. **[rejection - Signal feat. Such (-MomoX) \[Disconnection\]](https://osu.ppy.sh/beatmapsets/1129636#fruits/2359821)**
+
 ### Quarterfinals
 
 - NoMod
@@ -140,6 +163,26 @@ The Catch French Dual Tournament 2 is run by various community members.
   1. [Silentroom vs. Frums - Aegleseeker (Jemzuu) \[AFB's Platter\]](https://osu.ppy.sh/beatmapsets/1460413#fruits/3024973)
 
 ## Match results
+
+### Quarterfinals
+
+Saturday, 3 September 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Red Hawk | -1 | **0** | **JP DANS DA TOURNOI** | *win by default* |
+
+Sunday, 4 September 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| dégénéré | 0 | **5** | **Timezone diff** | [#1](https://osu.ppy.sh/community/matches/103560540) |
+| **:pleading_face:** | **0** | -1 | French Penguins | *win by default* |
+| **FR X US coalition** | **5** | 1 | Florika | [#1](https://osu.ppy.sh/community/matches/103563124) |
+| Black Ice | 3 | **5** | **:nanasmil:** | [#1](https://osu.ppy.sh/community/matches/103563162) |
+| **5€** | **5** | 0 | Taco w/ Baguette | [#1](https://osu.ppy.sh/community/matches/103565414) |
+| **Not French** | **0** | -1 | hecatia fanclub | *win by default* |
+| **Quesedilla avec les frites BELGES** | **5** | 0 | Le Grand Jordan23 | [#1](https://osu.ppy.sh/community/matches/103569382) |
 
 ### Round of 16
 
