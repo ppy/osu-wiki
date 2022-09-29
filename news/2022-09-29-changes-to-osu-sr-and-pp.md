@@ -46,6 +46,14 @@ A general balancing pass, mostly for performance points calculation, was applied
 - **Speed's 50s nerf has been reduced.** Something highly requested by speed players and now doable with the worst-case accuracy speed scaling change.
 - **The low AR multiplier has been reduced.** There were cases where maps were worth more with Easy + HalfTime than HalfTime alone.
 
+### Difficulty calculation refactor for skills
+
+Previously, calculating the difficulty of arbitrary objects in a beatmap was prohibitively difficult from a development perspective. This was a significantly limiting factor in creating coded considerations for particular beatmapping mechanics.
+
+Following a refactor effort by [Apo11o](https://osu.ppy.sh/users/9558549) involving [two](https://github.com/ppy/osu/pull/18368) [changes](https://github.com/ppy/osu/pull/18458), this is now much less of a problem, allowing for more specific and comprehensive adjustments to be made much more easily, or outright possible to begin with.
+
+These changes are now seeing use in both osu! and osu!taiko, with one example listed directly below.
+
 ### Improved double tap detection in speed
 
 It's extremely rare that maps need to be disqualified and put on hold from getting into the Ranked section because of pp abuse. However, push came to shove a few months ago when [pewdekz](https://osu.ppy.sh/users/5754859)'s mapset on [TAG underground - POSSESSION](https://osu.ppy.sh/beatmapsets/1691083#osu/3455732) was [held back forcefully by the NAT](https://osu.ppy.sh/beatmapsets/1691083/discussion/-/generalAll#/3020552). 
@@ -93,18 +101,6 @@ The bonus only kicks in once a slider is fast enough since slow sliders are easi
 - **Previous decay calculations have been [removed](https://github.com/ppy/osu/pull/15728)**. Older approaches coupled with more recent changes meant that Flashlight was unintentionally being penalized in two different ways for the same consideration. This is mostly a buff to stream maps.
 - **The prior calculation for cumulative strain time was incorrect and has been [fixed](https://github.com/ppy/osu/pull/15867).**
 - **Difficulty spike adjustments have been [removed](https://github.com/ppy/osu/pull/18791) specifically for Flashlight plays.** This was unintentionally leftover from previous aim and speed adjustments and did not make much sense in the context of a memorisation-oriented skill.
-
-### Difficulty calculation refactor for skills
-
-Trying to calculate the difficulty of an arbitrary random object in a beatmap would previously pose a problem: difficulty calculation is state-dependent. 
-
-In other words, we must process every object up to the aforementioned arbitrary object just to calculate it - which happens to be inefficient and unwieldy to use. Following a refactor effort by [Apo11o](https://osu.ppy.sh/users/9558549), this problem is alleviated!
-
-To calculate an object's difficulty, it's previous objects may be referenced. For example, a velocity change bonus will require the current and previous object's velocity. This used to be limited, with only a certain amount of objects that calculation could access due to the state-like nature of processing - however with [this change](https://github.com/ppy/osu/pull/18368) this limit is removed, allowing calculation to access any object in history that is required. This even includes future objects, which is already seeing use in the doubletap fix. With the state of processing now irrelevant, stateless classes are introduced via [this change](https://github.com/ppy/osu/pull/18458).
-
-Put in simpler terms, this means it is now a lot easier for developers working on difficulty calculation to make more specific and comprehensive adjustments to encompass particular mechanics that may not have been previously feasible or even possible at all.
-
-These changes are now seeing use in both osu! and osu!taiko with the new wave of changes.
 
 ### Minor changes
 
