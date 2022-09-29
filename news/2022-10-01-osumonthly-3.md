@@ -6,7 +6,7 @@ date: 2022-10-01 10:00:00 +0000
 
 Need a quick way to catch up with the community happenings? We've got you covered with the third edition of osu!monthly!
 
-The team is still optimizing the way osu!monthly is written, however we need your help! If you keep track of cool or noteworthy scores please join the [osu!dev Discord server](https://discord.com/invite/ppy) or reach out to 0x84f#0001 on Discord, we'd love to have you! If you just want to engage with the team feel free to write on our [discussion thread on the forum](https://osu.ppy.sh/community/forums/topics/1614314?n=1)! 
+The team is still optimizing the way osu!monthly is written, however we need your help! If you keep track of cool or noteworthy scores please join the [osu!dev Discord server](https://discord.com/invite/ppy) or reach out to 0x84f#0001 on Discord, we'd love to have you! If you just want to engage with the team feel free to write on our [discussion thread on the forum](https://osu.ppy.sh/community/forums/topics/1614314?n=1)!
 
 Without any further ado, let's jump straight into some osu!(lazer) news!
 
@@ -82,9 +82,9 @@ Lastly, if you want to support the further development of Corsace you can find t
 
 ![](/wiki/shared/news/2022-07-07-osu-mania-4k-world-cup-2022-registrations-now-open/mwc4k-2022-banner.jpg)
 
-Another year goes by, but not without experiencing another year of the frantic keysmashing competition, the [osu!mania World Cup](https://osu.ppy.sh/wiki/en/Tournaments/MWC/2022_4K) (or MWC for short)! There's been some big overhauls on a few team's rosters, but that has not stopped anyone from trying their best on one of the hardest editions we've ever seen.
+Another edition went by, but not without experiencing another year of the frantic keysmashing competition, the [osu!mania World Cup](https://osu.ppy.sh/wiki/en/Tournaments/MWC/2022_4K) (or MWC for short)! There's been some big overhauls on a few teams' rosters, but that has not stopped anyone from trying their best on one of the hardest editions we've ever seen.
 
-We want to congratulate anyone who participated in the tournament. But most importantly, congratulations to South Korea for achieving what very few can. But don't be mistaken, this was no easy feat. Their last match against Brazil is one to fondly remember! And even with Brazil's technical issues, they had a hard time accomplishing such a goal. Special congratulations to the United States, as many feared that their roster revamp would be disadvantageous, and they ended up securing the 3rd spot.
+We want to congratulate anyone who participated in the tournament. But most importantly, congratulations to South Korea for achieving what very few can. But don't be mistaken, this was no easy feat. Their last match against Brazil is one to fondly remember! And even with Brazil's technical issues, they had a hard time accomplishing such a goal. Special congratulations to the United States, as many feared that their roster revamp would be disadvantageous, but they ended up securing the 3rd spot.
 
 There have been so many highlights, break points, and tiebreakers in this year's MWC that it would be impossible to fully recap in one post. For anyone who missed the Grandfinals match, [we'd suggest watching it](https://www.twitch.tv/videos/1594471207) to experience it yourself. No words can convey the excitement that such an event generated! I won't spoil it for any of you, but [having point differences as close as 3 points](https://www.twitch.tv/osulive/clip/SlickArtsyToothVoteNay-QQorakYX4O8MqCB6) is surely something to be amazed by.
 
@@ -93,6 +93,48 @@ But there was one last surprise: the custom Tiebreaker. Players got to experienc
 <iframe width="100%" height="315" src="https://www.youtube.com/watch?v=CRD-2sk6Zt8" frameborder="0" allowfullscreen></iframe>
 
 With all this said, let us thank all organizers and staff members for hyping up the community once more. Their work was essential in giving the players and viewers the best of tournament experiences for yet another year.
+
+### Notable osu! plays of the month
+
+*This section was written by [0x84f](https://osu.ppy.sh/users/7944724)*
+
+This month [Aricin](https://osu.ppy.sh/users/1419095) made a return and set some amazing scores, one of the scores we would love to showcase is his 3 miss on [Night of Knights](https://osu.ppy.sh/scores/osu/4267347706).
+
+As the first person to pass the ~750 combo threshold, he truly showcased his amazing ability at not only speed, but his godlike finger control as well.
+
+<iframe width="100%" height="315" src="https://youtu.be/ceCrd8OBQDc?t=139" frameborder="0" allowfullscreen></iframe>
+
+A couple of other interesting plays would be [chocomint](https://osu.ppy.sh/users/124493)'s [first HD FC on Arkadia](https://osu.ppy.sh/scores/osu/4280979847), [WhiteCat](https://osu.ppy.sh/users/4504101)'s [HR score on Revolutionary Etude](https://reddit.com/r/osugame/comments/xg3p1n/whitecat_chopin_revolutionary_etude/) is also noteworthy as it really showcases how far ahead of the pack he is when it comes to aim.
+
+### Notable mania plays of the month
+
+*This section was written by [kadoen](https://osu.ppy.sh/users/12780575)*
+
+[CrewK](https://osu.ppy.sh/users/11488604) does it again. A year ago, just after it was loved, he achieved the first FC and 99% on [polyriddim [brrrrrrrrrrrrrr]](https://osu.ppy.sh/beatmapsets/1182702#mania/2465806), the original difficulty of the SV insanity that [HowToPlayLN](https://osu.ppy.sh/users/10879600) manufactured. Now he returns, motivated by the [1100 USD (!) bounty](https://twitter.com/AdamAckerville/status/1572237235273236488), with a monumental first FC/99%/#1 on the [[brrrrrrrrrrrrrr vip]](https://osu.ppy.sh/beatmapsets/1182702#mania/2769068) difficulty, consisting of entirely new patterns and SVs, increasing the difficulty of the already extremely hard original chart to a whole new level. Most of this map has to be completely memorized, patterns, weird rhythms, everything, making this play an astounding SV achievement by one of the (if not the) best SV players in the game. Even if you don't play or follow mania, I strongly recommend you to go watch it, I guarantee you'll be impressed.
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/4gCYGFZLQA0" frameborder="0" allowfullscreen></iframe>
+
+### Notable taiko plays of the month
+
+*This section was written by [ianpep](https://osu.ppy.sh/users/7699030)*
+
+Not everyone has heard of [shinchikuhome](https://osu.ppy.sh/users/3174184)'s dominance, but those who know him already know whats coming up.
+
+A mere 4 hours after being ranked, the infamous taiko pro shinchikuhome took the #1 spot with an astounding DT FC on [KawaiiBass](https://osu.ppy.sh/users/11992585)' [Yomi Yori](https://osu.ppy.sh/beatmapsets/1819997#taiko/3734552), earning themselves 1102pp, which is well deserved for a play of this caliber. This FC comes in at a blisteringly fast 330bpm, filled with long stamina draining streams alongside difficult color and rhythm changes. Not to mention the insane accuracy aswell, only hitting 20 100's throughout this 5 minute behemoth. This test of stamina and accuracy is certainly one to see!
+
+<iframe width="100%" height="315" src="https://www.youtube.com/watch?v=NWqfPNdXrJg" frameborder="0" allowfullscreen></iframe>
+
+Some other notable scores this month include [loneyze](https://osu.ppy.sh/users/12464220/taiko)'s [Reflection](https://osu.ppy.sh/beatmapsets/1822689) by Noah, being the only HDDT FC on the map and bringing them 980pp, alongside [Ney](https://osu.ppy.sh/users/5991961/taiko)'s  HDHRFL SS on [Faster Than A Speeding Bullet](https://osu.ppy.sh/beatmapsets/1070783#taiko/2241389) taking an already tricky map to the next level, and earning himself #1 on the map.
+
+### Notable catch plays of the month
+
+*This section was written by [Patatitta](https://osu.ppy.sh/users/16294034)*
+
+[Camme79](https://osu.ppy.sh/users/5220794) has shown his DT proficiency with [an FC on Senketsu no Chikai](https://osu.ppy.sh/scores/fruits/209219015), a super tough 2011 map, which combines an uncomfortably high AR with incredibly spaced old-school patterns that prove a serious challenge even to the game's best players.
+
+<iframe width="100%" height="315" src="https://www.youtube.com/watch?v=SonwRhyol28" frameborder="0" allowfullscreen></iframe>
+
+However, this certainly hasn't been the only impressive play this month, as we've seen [ttobas](https://osu.ppy.sh/users/2084568) set a [new NM pp record](https://osu.ppy.sh/scores/fruits/209125694) on the recently ranked [Storms of Ages](https://osu.ppy.sh/beatmapsets/1673971#fruits/3419551), a map with the highest star rating in CTB.
 
 ## Did you know?
 
@@ -113,10 +155,10 @@ TBA
 
 - The [osu! university](https://discord.com/invite/QubdHdnBVg) rises from its ashes with the [osu! improvement month](https://osu.ppy.sh/community/forums/topics/1649135?n=1) event that stretches over the whole month of October. Interviews, tournaments, coaching, and giveaways are planned, and it would definitely be a mistake not to take advantage of this opportunity to socialize with the community, or to follow the events of your favorite game!
 - After several weeks of hard work by creators and the voting phase coming and going, we should soon be able to see the results of the [triangles Beatmapping Contest](https://osu.ppy.sh/wiki/en/Contests/triangles_Beatmapping_Contest). Who was able to combine the best storyboard, hitsound, and mapping around the triangles theme? We can't wait to see!
-- The voting stage for the [Chromatic Alteration skinning contest](https://osu.ppy.sh/home/news/2022-07-18-skinning-contest-chromatic-alteration-announcement#challenge:-chromatic-alteration) has concluded! With 23 entries and only 3 votes, hard decisions had to be made when it came to figuring out which entries deserve votes the most, and we are all eagerly awaiting to see the final results!
+- The voting stage for the [Chromatic Alteration skinning contest](https://osu.ppy.sh/home/news/2022-07-18-skinning-contest-chromatic-alteration-announcement#challenge:-chromatic-alteration) has concluded! With 23 entries and only 3 votes per player, hard decisions had to be made when it came to figuring out which entries deserve votes the most, and we are all eagerly awaiting to see the final results!
 
 ## End word
 
-Unfortunately this month we were not able to compile the latest and greatest plays of this month, mostly because we were not able to acquire information of plays from all 4 modes, and since we do not want to exclude any specific mode, we just opted to not write any. That being said, we are looking for knowledgeable people who are willing to let us know about postworthy plays, so please do reach out.
+Thank you for tuning into osu!monthly, we eagerly await your comments, criticisms and feedback! We are proud to be serving the community in this way and hopefully you join us again in the next edition.
 
 —0x84f, Pisapou, RandomeLoL
