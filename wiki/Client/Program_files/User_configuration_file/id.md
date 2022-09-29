@@ -36,7 +36,7 @@ Berikut ini adalah daftar opsi yang tersedia di dalam berkas `osu!.<nama akun pe
 | `ScreenshotFormat` | Teks | Format Screenshot |
 | `MenuSnow` | 0 atau 1 | Tampilkan visualisasi salju di menu utama |
 | `MenuParallax` | 0 atau 1 | Efek paralaks |
-| `ShowMenuTips` | 0 atau 1 | Tampilkan ragam fakta ringan pada menu utama |
+| `ShowMenuTips` | 0 atau 1 | Tampilkan [ragam fakta](/wiki/Client/Menu_tips) ringan pada menu utama |
 | `MenuVoice` | 0 atau 1 | Putar suara antarmuka |
 | `MenuMusic` | 0 atau 1 | Gunakan musik khusus osu! |
 | `SeasonalBackgrounds` | Teks | Seasonal backgrounds |
@@ -260,14 +260,14 @@ Opsi tata letak pada osu!mania lebih lanjut dapat ditemukan di berkas [skin.ini]
 | `ConfirmExit` | 0 atau 1 | Mengaktifkan atau menonaktifkan osu! akan menanyakan konfirmasi sebelum keluar dari game |
 | `CustomFrameLimit` | Bilangan Bulat | Opsi pembatas FPS ketiga yang akan muncul dalam permainan |
 | `Display` | Bilangan Bulat | Nomor monitor dimana osu! dapat berjalan |
-| `EditorTip` | Bilangan Bulat | Nomor tip editor yang akan ditampilkan |
+| `EditorTip` | Bilangan Bulat | Nomor [tip editor](/wiki/Client/Menu_tips#editor) yang akan ditampilkan |
 | `GuideTips` | Teks | Membuat daftar tip bantuan yang telah ditampilkan sehingga tip tersebut tidak ditampilkan lagi |
 | `HighResolution` | 0 atau 1 | Memaksa pengunaan elemen skin dengan kualitas tinggi |
 | `IgnoreBarline` | 0 atau 1 | Mengaktifkan atau menonaktifkan opsi garis osu!mania seharusnya tersembunyi |
 | `LastVersion` | Teks | Versi klien saat ini |
 | `LastVersionPermissionsFailed` | Teks | Versi klien terakhir yang membutuhkan akses admin untuk menyelesaikan update |
 | `LowResolution` | 0 atau 1 | Memaksa pengunaan elemen skin dengan kualitas standar (menimpa opsi `HighResolution`) |
-| `MenuTip` | Bilangan Bulat | Nomor tip menu yang akan ditampilkan |
+| `MenuTip` | Bilangan Bulat | Nomor [tip menu](/wiki/Client/Menu_tips#main-menu) yang akan ditampilkan |
 | `MyPcSucks` | 0 atau 1 | Menonaktifkan seluruh settingan grafis yang bagus |
 | `OverrideRefreshRate` | 0 atau 1 | Mengaktifkan atau menonaktifkan penggunaan nilai `RefreshRate` |
 | `RefreshRate` | Bilangan Bulat | Refresh rate yang kustom |
