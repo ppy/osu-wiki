@@ -20,7 +20,7 @@ Este artículo enumera los diversos consejos que se ven en el juego, que contien
 
 Estos consejos aparecen en la parte inferior del [menú principal](/wiki/Client/Interface#menú-principal).
 
-- Añade nuevos [beatmaps](/wiki/Beatmap) a osu! arrastrando un [archivo .osz](/wiki/Client/File_formats/Osz_(file_format)) a la ventana, haciendo doble clic sobre él, o eligiendo `abrir` cuando lo descargues en tu navegador.
+- Añade nuevos [beatmaps](/wiki/Beatmap) a osu! arrastrando un [archivo .osz](/wiki/Client/File_formats/Osz_(file_format)) a la ventana, haciendo doble clic sobre él, o eligiendo "abrir" cuando lo descargues en tu navegador.
 - Puedes desplazar largas listas de beatmaps en el [listado de selección de canciones](/wiki/Client/Interface#selección-de-canciones) si arrastras la lista manteniendo pulsado el botón izquierdo del ratón, o puedes pulsar el botón derecho para realizar un vistazo rápido.
 - Pulsa `F8`/`F9` en cualquier momento para unirte al [chat](/wiki/Client/Interface/Chat_console) de osu!.
 - Haciendo clic derecho en un beatmap o haciendo clic en el botón `Beatmap Options` en el listado de selección de canciones se desplegará un menú que te permite gestionar el beatmap.
@@ -40,7 +40,7 @@ Estos consejos aparecen en la parte inferior del [menú principal](/wiki/Client/
 - Puedes poner la partida en pausa pulsando el botón central del ratón. Esta opción puede deshabilitarse desde el menú de configuración.
 - Puedes acceder a la página web de una canción haciendo clic en el icono de diálogo en el listado de beatmaps, encima de la [tabla de puntuaciones](/wiki/Client/Interface#clasificaciones).
 - ¡Personaliza tu experiencia en osu! con nuevas [skins](/wiki/Skin)! Descárgalas desde el [foro de Skinning](https://osu.ppy.sh/community/forums/15).
-- Pulsa F8 para abrir la ventana del chat mientras juegas. Puedes ver los comandos del chat si escribes `!help` o `/help`.
+- Pulsa `F8` para abrir la ventana del chat mientras juegas. Puedes ver los comandos del chat si escribes `!help` o `/help`.
 - ¡Asegúrate de descansar de vez en cuando! Tus manos también deberían hacer otras cosas además de jugar a osu!.
 - No ignores los mapas [no clasificados](/wiki/Beatmap/Category). Si encuentras alguno que te guste y dejas [comentarios constructivos](/wiki/Modding), habrá más posibilidades de que se [clasifique](/wiki/Beatmap_ranking_procedure) en el futuro.
 - ¡Juega partidas con otros usuarios en el [modo multijugador](/wiki/Client/Interface/Multiplayer)!
@@ -48,20 +48,20 @@ Estos consejos aparecen en la parte inferior del [menú principal](/wiki/Client/
 - Pulsa `F5` en el menú de selección de canciones para actualizar la lista de beatmaps.
 - Pulsa `Shift` + `F12` para hacer una captura de pantalla y subirla automáticamente a Internet.
 - Puedes configurar las teclas que utilizas para jugar en el menú `Opciones` > `Controles`.
-- Puedes utilizar [expresiones](/wiki/Client/Interface#búsqueda) como `ar>8 od=9` para buscar canciones. Palabras clave existentes: `ar`, `od`, `hp`, `cs`, `bpm`, `length`, `drain`.
+- Puedes utilizar [expresiones](/wiki/Client/Interface#búsqueda) como `ar>8 od=9` para buscar canciones. Palabras clave existentes: `ar`, `od`, `hp`, `cs`, `bpm`, `length` y `drain` (tiempo en segundos).
 - Reintenta un beatmap pulsando `Ctrl` + `R` durante unos instantes.
 
 ## Editor
 
-Estos consejos aparecen en el [editor de beatmap](/wiki/Client/Beatmap_editor) debajo de la [línea de tiempo del objeto de golpeo](/wiki/Client/Beatmap_editor/Timelines#objetos-de-golpeo). *No están actualizados y no son los mismos que en el cliente en inglés*
+Estos consejos aparecen en el [editor de beatmap](/wiki/Client/Beatmap_editor) debajo de la [línea de tiempo del objeto de golpeo](/wiki/Client/Beatmap_editor/Timelines#objetos-de-golpeo). *Están desactualizados y no son los mismos que los del cliente en inglés*
 
 - Pulsa `H` para mostrar un listado de atajos de teclado.
 - Pulsa `V` para saltar al último círculo. Púlsalo de nuevo para saltar al final de la canción.
-- Marcar el ritmo es muy importante, es muy difícil crear un beatmap con un ritmo incorrecto; además, puede resultar frustrante a la hora de jugarlo. Si necesitas ayuda para establecer el ritmo adecuado, publica tu beatmap en [el hilo de Timing Help](https://osu.ppy.sh/forum/t/13795), o accede al canal de chat `#modreqs` y pide ayuda allí.
-- Establecer la distancia entre los elementos del beatmap te ayudará a determinar la distancia entre cada pulsación en el ritmo de tu beatmap.
-- No pongas muchas [ruletas](/wiki/Gameplay/Hit_object/Spinner) en tu beatmap. Además, Auto debe ser capaz de obtener mínimo 1000 puntos de bono extra para que la ruleta sea válida.
+- Marcar el [ritmo](/wiki/Music_theory/Rhythm) es muy importante, es muy difícil crear un beatmap con un ritmo incorrecto; además, puede resultar frustrante a la hora de jugarlo. Si necesitas ayuda para establecer el ritmo adecuado, publica tu beatmap en [el hilo de Timing Help](https://osu.ppy.sh/forum/t/13795), o accede al canal de chat `#modreqs` y pide ayuda allí.
+- Establecer la distancia entre los [elementos](/wiki/Gameplay/Hit_object) del beatmap te ayudará a determinar la distancia entre cada pulsación en el ritmo de tu beatmap.
+- No pongas muchas [ruletas](/wiki/Gameplay/Hit_object/Spinner) en tu beatmap. Además, [Auto](wiki/Gameplay/Game_modifier/Autopilot) debe ser capaz de obtener mínimo 1000 puntos de bono extra para que la ruleta sea válida.
 - Si necesitas ayuda adicional, no grites `¡AYUDA PLIS!` o `¡AUXILIO!`. Prueba a leer las FAQ de la página web, accede al canal `#modhelp`, o publica tu beatmap en el [foro de Modding Queues](https://osu.ppy.sh/forum/60).
-- Normalmente, cuanto más difícil es un beatmap, más largos son sus combos. Aun así, no deberías hacer combos de más de 15-18 elementos.
+- Normalmente, cuanto más difícil es un beatmap, más largos son sus [combos](/wiki/Beatmapping/Combo). Aun así, no deberías hacer combos de más de 15-18 elementos.
 - Aquellos elementos que coloques en la misma posición se superpondrán unos sobre otros al jugar, pero no lo verás así en el editor. Para ver como queda durante el juego, selecciona Ver → Apilado.
 - Si vas a poner algún elemento después de un spinner, intenta ponerlo lo más alejado posible de este para que le de tiempo al jugador a recolocarse.
 - Con [AiMod](/wiki/Client/Beatmap_editor/AiMod) (`Ctrl` + `Shift` + `A`) puedes detectar problemas en tu mapa sin necesidad de ningún [modder](/wiki/Modding/Modder).
@@ -86,7 +86,7 @@ Utiliza el control de velocidad que hay en la esquina inferior derecha de la pan
 - Para realizar una comprobación más precisa del ritmo de tu beatmap, prueba a disminuir la velocidad de reproducción al 25% o 50%. Puedes hacer esto desde el menú situado en la parte inferior derecha del editor. Los atajos del teclado para esta función son `flecha arriba`/`abajo` o `Ctrl` + `flecha arriba`/`abajo`.
 - Si decides abandonar un beatmap, no pasa nada. Los beatmaps que son [abandonados](/wiki/Beatmap/Category#abandonados) van al cementerio de beatmaps tras un cierto periodo de inactividad. Si algún día quieres revivir tu beatmap debes ir a tu perfil, buscar tu beatmap y hacer clic en `Resurrect`.
 - Puedes personalizar los elementos de un skin para un beatmap específico, simplemente tienes que añadir los archivos a la carpeta de ese beatmap y utilizar los nombres de archivo adecuados.
-- Cuando copies [elementos](/wiki/Gameplay/Hit_object) de un beatmap (con `Ctrl` + `C` o desde el menú) se guardarán valores como el tiempo o la localización de esos elementos en tu portapapeles, pueden ser útiles a la hora de publicar mensajes en la sección de moderación de beatmaps.
+- Cuando copies elementos de un beatmap (con `Ctrl` + `C` o desde el menú) se guardarán valores como el tiempo o la localización de esos elementos en tu portapapeles, pueden ser útiles a la hora de publicar mensajes en la sección de moderación de beatmaps.
 - Si activas el modo directo (`Ctrl` + `Tab`) puedes poner elementos en tu beatmap utilizando las teclas que hayas configurado para Taiko u osu!mania.
 - Procura que los deslizadores no se superpongan sobre otros deslizadores o sobre ellos mismos.
 
