@@ -112,7 +112,7 @@ Ces astuces apparaissent dans la [version lazer du client](https://github.com/pp
 - Toutes les opérations de suppression sont temporaires jusqu'à la sortie. Restaurez le contenu accidentellement supprimé à partir des paramètres de maintenance !
 - Découvrez le système de "playlists", qui permet aux utilisateurs de créer leurs propres classements personnalisés et permanents !
 - Basculez les statistiques avancées des trames / fils avec `Ctrl` + `F11` !
-- Jetez un coup d'œil sous le capot aux compteurs de performance et activez l'enregistrement des performances verbeuses avec `Ctrl` + `F2` !
+- Jetez un coup d'œil aux compteurs de performance et activez l'enregistrement des performances verbeuses avec `Ctrl` + `F2` !
 
 ## Voir aussi
 
