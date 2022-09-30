@@ -817,7 +817,7 @@ Example use, rendered on the right:
 :::
 ```
 
-Infoboxes should be used with caution in following cases:
+Infoboxes should be used with caution in the following cases:
 
 - Short sections: the next section's heading appears below any infoboxes, leaving a large gap after the text.
 - Several images at once: instead, use individual infoboxes for better design.
