@@ -230,7 +230,7 @@ Thursday, 22 September 2022:
 | Group | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | A5 | 洪家派驰名海鲜煮炒餐馆 (Hongjiapai Famous Seafood Restaurant) | 0 | **5** | **Flover** | [#1](https://osu.ppy.sh/community/matches/103949092) |
-| E4 | **The Cunnysseurs** |**5** | 1 | openureyesyouwillsee | [#1](https://osu.ppy.sh/community/matches/103949078) |
+| E4 | **The Cunnysseurs** | **5** | 1 | openureyesyouwillsee | [#1](https://osu.ppy.sh/community/matches/103949078) |
 
 Friday, 23 September 2022:
 
@@ -254,9 +254,9 @@ Saturday, 24 September 2022:
 | E3 | Japanese Goblin | 0 | **5** | **Diggas in paris** | [#1](https://osu.ppy.sh/community/matches/103996723) |
 | G5 | Ikan | 0 | **5** | **Where Love Lies** | [#1](https://osu.ppy.sh/community/matches/103997667) |
 | B6 | **LENG ZAI** | **5** | 2 | Damn bratty crewmate | [#1](https://osu.ppy.sh/community/matches/103998708) |
-| C1 | **Miyu Archive** | 5 | 4 | chungus capoo | [#1](https://osu.ppy.sh/community/matches/103998563) |
-| B4 | **Dreamy Color** | 5 | 3 | LENG ZAI | [#1](https://osu.ppy.sh/community/matches/104000405) |
-| D2 | koko soko asoko | 1 | 5 | **RUDOLF ENJOYERS** | [#1](https://osu.ppy.sh/community/matches/104000653) |
+| C1 | **Miyu Archive** | **5** | 4 | chungus capoo | [#1](https://osu.ppy.sh/community/matches/103998563) |
+| B4 | **Dreamy Color** | **5**| 3 | LENG ZAI | [#1](https://osu.ppy.sh/community/matches/104000405) |
+| D2 | koko soko asoko | **1 | 5** | **RUDOLF ENJOYERS** | [#1](https://osu.ppy.sh/community/matches/104000653) |
 
 Sunday, 25 September 2022:
 
