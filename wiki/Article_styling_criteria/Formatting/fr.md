@@ -655,7 +655,7 @@ Il existe deux types de liens d'image : en ligne et de référence. Exemples :
 
 Les images doivent utiliser le style de lien en ligne. Les définitions des liens de référence doivent être placées au bas de l'article.
 
-Tous les blocs d'images de la page (qui n'ont rien d'autre sur la même ligne) sont combinés en une seule galerie, qui peut être parcourue à l'aide d'icônes fléchées des deux côtés de l'écran, de raccourcis clavier ou de balayages de l'écran sur les appareils mobiles.<!-- https://github.com/ppy/osu-web/pull/8126 -->.
+Tous les blocs d'images de la page (qui n'ont rien d'autre sur la même ligne) sont combinés en une seule galerie, qui peut être parcourue à l'aide d'icônes fléchées des deux côtés de l'écran, de raccourcis clavier ou de balayages de l'écran sur les appareils mobiles.
 
 ### Texte alternatif et texte de titre
 
@@ -801,8 +801,6 @@ Voici un exemple de ce à quoi doit ressembler un tableau :
 Une infobox est un bloc de largeur fixe qui est aligné sur le côté droit de l'article. Il peut contenir une image pertinente, qui explique le texte environnant, ou un bloc de navigation qui renvoie à d'autres articles de la même catégorie.
 
 Exemple d'utilisation, rendu à droite :
-
-<!-- The real infobox is added for illustrative purposes, with Markdown syntax duplicated below for clarity. -->
 
 ::: Infobox
 ![](/wiki/shared/mods/SD.png "Icône du mod Sudden Death")
