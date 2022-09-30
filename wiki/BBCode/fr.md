@@ -1,8 +1,3 @@
----
-outdated_since: 3cfbc4e75e17092cf181c6f1235bfb105666003d
-outdated_translation: true
----
-
 # BBCode
 
 Le **BBCode** est un [langage de balisage](https://fr.wikipedia.org/wiki/Langage_de_balisage) qui est utilisé dans les forums d'osu! et également, dans une plus large mesure, dans la grande majorité des forums sur Internet. Utilisé pour permettre le formatage de texte riche, il est composé de balises qui entourent le texte pour indiquer le formatage, les attributs, l'incorporation et plus encore. Il est utilisé à divers endroits sur le site web d'osu!, notamment dans les messages des forums, les signatures, les pages des utilisateurs et les descriptions des beatmap.
