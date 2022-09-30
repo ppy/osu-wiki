@@ -1,6 +1,6 @@
 # Medaillen
 
-**Medaillen**, auch früher bekannt als *Achievements* (zu Dt. Erfolge oder Errungenschaften), sind Embleme auf der Profilseite, welche anzeigen, dass der Benutzer ein Ziel erreicht hat. Zur Zeit können **274** Medaillen freigeschaltet werden in 8 unterschiedlichen Kategorien: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), [Beatmap Spotlights](#beatmap-spotlights), [Seasonal Spotlights](#seasonal-spotlights) und [Beatmap Challenge Packs](#beatmap-challenge-packs).
+**Medaillen**, auch früher bekannt als *Achievements* (zu Dt. Erfolge oder Errungenschaften), sind Embleme auf der Profilseite, welche anzeigen, dass der Benutzer ein Ziel erreicht hat. Zur Zeit können **280** Medaillen freigeschaltet werden in 8 unterschiedlichen Kategorien: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), [Beatmap Spotlights](#beatmap-spotlights), [Seasonal Spotlights](#seasonal-spotlights) und [Beatmap Challenge Packs](#beatmap-challenge-packs).
 
 ## Beatmap Packs
 
@@ -12,7 +12,7 @@ Es ist jedoch erwähnenswert, dass sich der Inhalt aller Video Game Packs, Anime
 
 ## Skill
 
-**Skill Medaillen** sind Medaillen, die bei verschiedenen fähigkeitsbasierten Errungenschaften vergeben werden, z. B. das Erreichen eines bestimmten [Combo](/wiki/Beatmapping/Combo)-Meilensteins, das Erklimmen eines bestimmten Rangs in den [globalen Performance-Punkte-Ranglisten](https://osu.ppy.sh/rankings/osu/performance) oder das Erzielen einer [vollständigen Combo](/wiki/Full_combo) auf einer beliebigen Beatmap, die [qualified](/wiki/Beatmap/Category#qualified), [ranked](/wiki/Beatmap/Category#ranked) oder [approved](/wiki/Beatmap/Category#approved) ist, innerhalb eines bestimmten Bereichs für die [Sternebewertung](/wiki/Beatmapping/Star_rating).
+**Skill Medaillen** sind Medaillen, die bei verschiedenen fähigkeitsbasierten Errungenschaften vergeben werden, z. B. das Erreichen eines bestimmten [Combo](/wiki/Beatmapping/Combo)-Meilensteins, das Erklimmen eines bestimmten Rangs in den [globalen Performance-Punkte-Ranglisten](https://osu.ppy.sh/rankings/osu/performance) oder das Erzielen einer [vollständigen Combo](/wiki/Full_combo) auf einer beliebigen Beatmap, die [qualified](/wiki/Beatmap/Category#qualifiziert), [ranked](/wiki/Beatmap/Category#ranked) oder [approved](/wiki/Beatmap/Category#approved) ist, innerhalb eines bestimmten Bereichs für die [Sternebewertung](/wiki/Beatmapping/Star_rating).
 
 ## Dedication
 
@@ -22,7 +22,7 @@ Es ist jedoch erwähnenswert, dass sich der Inhalt aller Video Game Packs, Anime
 
 *Siehe auch: [Spielmodifikationen](/wiki/Game_modifier)*
 
-**Mod Introduction Medaillen** (zu Dt. Mod-Vorstellung) sind Medaillen, die beim Abschließen von [qualified](/wiki/Beatmap/Category#qualified), [ranked](/wiki/Beatmap/Category#ranked) oder [approved](/wiki/Beatmap/Category#approved) Beatmaps mit der entsprechenden [Spielmodifikation (Mod)](/wiki/Game_modifier) überreicht werden. Diese Medaillen sollen neue Spieler dazu ermutigen, jede Mod auszuprobieren und zu entdecken, was das Spiel zu bieten hat. Bedenke jedoch, dass wenn Spieler mit mehreren Spielmodifikationen zur gleichen Zeit spielen, der Spieler **nicht** berechtigt ist, *irgendeine* der Medaillen für die Spielmodifikationen für dieses Spiel zu gewinnen.
+**Mod Introduction Medaillen** (zu Dt. Mod-Vorstellung) sind Medaillen, die beim Abschließen von [qualified](/wiki/Beatmap/Category#qualifiziert), [ranked](/wiki/Beatmap/Category#ranked) oder [approved](/wiki/Beatmap/Category#approved) Beatmaps mit der entsprechenden [Spielmodifikation (Mod)](/wiki/Game_modifier) überreicht werden. Diese Medaillen sollen neue Spieler dazu ermutigen, jede Mod auszuprobieren und zu entdecken, was das Spiel zu bieten hat. Bedenke jedoch, dass wenn Spieler mit mehreren Spielmodifikationen zur gleichen Zeit spielen, der Spieler **nicht** berechtigt ist, *irgendeine* der Medaillen für die Spielmodifikationen für dieses Spiel zu gewinnen.
 
 Alle Mod Introduction Medaillen können in jedem [Spielmodus](/wiki/Game_mode) freigeschaltet werden, sofern nicht anders angegeben.
 

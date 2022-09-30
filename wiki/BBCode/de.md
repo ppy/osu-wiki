@@ -1,3 +1,8 @@
+---
+outdated_since: 3cfbc4e75e17092cf181c6f1235bfb105666003d
+outdated_translation: true
+---
+
 # BBCode
 
 **BBCode** ist eine [Auszeichnungssprache](https://de.wikipedia.org/wiki/Auszeichnungssprache) (Markup), die im osu!-Forum und, in einem größeren Umfang, in den meisten Foren im Internet genutzt wird. Damit die Rich-Text-Formatierung möglich wird, umranden Tags Text, um die Formatierung, Attribute, Einbettung usw. festzulegen. Es wird auf verschiedenen Seiten auf der osu!-Webseite verwendet, wie z. B. Forumsbeiträge, Signaturen, Benutzerseiten und Beatmapbeschreibungen.
@@ -113,7 +118,7 @@ Der benutzerdefinierte Hyperlink wird durch das Argument `NAME` bestimmt. Die Sp
 
 Das Tag wird meistens benutzt, um große Fluten an Text und Bildern zu verstecken, die den Forumsbeitrag immens verlängern. Am meisten sichtbar in den FAQ oder in [Skin](/wiki/Skinning)-Veröffentlichungsbeiträgen.
 
-*Tipp: die Schaltfläche der BBCode-Box in der Symbolleiste wird "spoiler box" genannt, aber erstellt keinen `[spoilerbox]` Tag.*
+*Anmerkung: die Schaltfläche der BBCode-Box in der Symbolleiste wird "spoiler box" genannt, aber erstellt keinen `[spoilerbox]` Tag.*
 
 Schaltfläche in der Symbolleiste: ![Box-Button](img/spoilerbox.png "Box")
 
@@ -169,7 +174,7 @@ Das Tag `[centre]` wird benutzt, um Text mittig in einer Box zu platzieren. Es w
 
 Das Tag `[url]` wird benutzt, um normalen Text in einen anklickbaren Hyperlink zu verwandeln.
 
-*Tipp: Diesen Tag zu benutzen ist nicht notwendig, sollte man keine benutzerdefinierten Hyperlinks verwenden wollen, da der Forum-Editor richtige URLs automatisch verarbeitet.*
+*Anmerkung: Diesen Tag zu benutzen ist nicht notwendig, sollte man keine benutzerdefinierten Hyperlinks verwenden wollen, da der Forum-Editor richtige URLs automatisch verarbeitet.*
 
 Benutzer müssen zwei Argumente spezifizieren, um Hyperlinks mit dem Tag `[url]` zu erstellen: der verlinkte Text, der angezeigt wird, und die spezifische URL, auf die verlinkt wird. Das erste muss zwischen dem öffnenden sowie dem schließenden Tag gesetzt werden. Das zweite muss im Argument `LINK` ohne Anführungszeichen (`"`) spezifiziert werden. Wenn kein Text spezifiziert wird, dann wird der Text die URL als Standardwert haben.
 
@@ -183,7 +188,7 @@ Schaltfläche in der Symbolleiste: ![Button für die URL](img/url.png "URL")
 
 Das Tag `[profile]` wird benutzt, um zu der osu!-Profilseite eines Benutzers mit Hilfe seines Namens oder seiner Benutzer-ID zu verlinken. Der Unterschied zwischen dem Tag `[profile]` und dem Tag `[url]` besteht darin, dass beim Tag `[profile]` eine Benutzerkarte angezeigt wird, sobald der Cursor über den Link fährt.
 
-*Tipp: Die Benutzer-ID ist eine Zeichenkette an Nummern, die direkt dem `/users/` in der URL einer osu!-Profilseite folgen.*
+*Anmerkung: Die Benutzer-ID ist eine Zeichenkette an Nummern, die direkt dem `/users/` in der URL einer osu!-Profilseite folgen.*
 
 Wenn die Benutzer-ID verwendet wird, dann wird der Text innerhalb des öffnenden sowie schließenden Tags nicht verarbeitet und stattdessen den aktuellen Namen des Benutzers anzeigen. Sofern der Benutzername spezifiziert wird und der besagte Benutzer seinen Namen ändert, wird der Link nicht mehr funktionieren.
 

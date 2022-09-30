@@ -116,7 +116,6 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) | İsveççe, İspanyolca | Sohbet moderasyonu |
 | ::{ flag=IT }:: [Seijiro](https://osu.ppy.sh/users/2581696) | İtalyanca, Rumence | Sohbet moderasyonu |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | Fransızca, İspanyolca | Sohbet moderasyonu |
-| ::{ flag=SG }:: [Shoegazer](https://osu.ppy.sh/users/2520707) | Portekizce | Mapping/modding topluluk moderasyonu |
 | ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) | Endonezce | Sohbet moderasyonu |
 | ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) | Endonezce, biraz Vietnamca | Sohbet moderasyonu |
 | ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) | Çince | Sohbet moderasyonu |
