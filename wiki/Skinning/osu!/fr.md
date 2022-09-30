@@ -244,7 +244,7 @@ Notes :
 - Cela devrait être un cercle.
 - Cet élément était animable par le passé. Pour plus de détails, voir [l'histoire du skinning](/wiki/Skinning/History).
 
-La visibilité des superpositions des sliders dépend des éléments cercles du slider:
+La visibilité des overlays des sliders dépend des éléments cercles du slider:
 
 - Si `sliderstartcircle`/`sliderendcircle` existent dans un skin sans `sliderstartcircleoverlay`/`sliderendcircleoverlay`, alors `hitcircleoverlay` ne s'affiche pas du tout au début et à la fin des sliders.
 - Si `sliderstartcircle`/`sliderendcircle` n'existent pas, alors `hitcircleoverlay` est utilisé comme sprite superposé pour le début et la fin des sliders.
