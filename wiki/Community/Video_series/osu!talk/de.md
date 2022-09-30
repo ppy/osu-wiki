@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # osu!talk
 
 ![](img/osu!talk.jpg "osu!talk-Logo")
