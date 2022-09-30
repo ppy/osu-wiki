@@ -655,7 +655,7 @@ Il existe deux types de liens d'image : en ligne et de référence. Exemples :
 
 Les images doivent utiliser le style de lien en ligne. Les définitions des liens de référence doivent être placées au bas de l'article.
 
-Toutes les blocs d'images de la page (qui n'ont rien d'autre sur la même ligne) sont combinées en une seule galerie, qui peut être parcourue à l'aide d'icônes fléchées des deux côtés de l'écran, de raccourcis clavier ou de balayages de l'écran sur les appareils mobiles.<!-- https://github.com/ppy/osu-web/pull/8126 -->.
+Tous les blocs d'images de la page (qui n'ont rien d'autre sur la même ligne) sont combinés en une seule galerie, qui peut être parcourue à l'aide d'icônes fléchées des deux côtés de l'écran, de raccourcis clavier ou de balayages de l'écran sur les appareils mobiles.<!-- https://github.com/ppy/osu-web/pull/8126 -->.
 
 ### Texte alternatif et texte de titre
 
@@ -667,9 +667,9 @@ Le texte entre guillemets (*texte du titre*) doit donner un contexte supplément
 
 Si une image est le seul contenu d'un paragraphe, elle s'affiche comme un bloc centré. Sinon, elle se fond dans le texte en ligne qui l'entoure.
 
-Les images en bloc avec un texte de titre affichent le texte du titre comme une légende sous l'image. Évitez d'ajouter des [commentaires HTML](#comments) ou tout autre texte sur la même ligne que l'image, car la légende ne sera pas affichée.
+Les images en bloc avec un texte de titre affichent le texte du titre comme une légende sous l'image. Évitez d'ajouter des [commentaires HTML](#commentaires) ou tout autre texte sur la même ligne que l'image, car la légende ne sera pas affichée.
 
-Les images en bloc sont généralement associées au formatage des [infobox](#infoboxes) afin de réduire leur taille initiale et de les faire flotter à côté d'autres contenus :
+Les images en bloc sont généralement associées au formatage des [infoboxes](#infoboxes) afin de réduire leur taille initiale et de les faire flotter à côté d'autres contenus :
 
 ```markdown
 ::: Infobox
@@ -805,19 +805,19 @@ Exemple d'utilisation, rendu à droite :
 <!-- The real infobox is added for illustrative purposes, with Markdown syntax duplicated below for clarity. -->
 
 ::: Infobox
-![](/wiki/shared/mods/SD.png "Sudden Death mod icon")
+![](/wiki/shared/mods/SD.png "Icône du mod Sudden Death")
 :::
 
 ```markdown
 ::: Infobox
-![](/wiki/shared/mods/SD.png "Sudden Death mod icon")
+![](/wiki/shared/mods/SD.png "Icône du mod Sudden Death")
 :::
 ```
 
-Les infoboxes doivent être utilisés avec prudence dans les cas suivants :
+Les infoboxes doivent être utilisées avec prudence dans les cas suivants :
 
 - Les sections courtes : le titre de la section suivante apparaît sous les infoboxes, laissant un grand vide après le texte.
-- Plusieurs images à la fois : utilisez plutôt des infoboxes individuelles pour un meilleure rendu.
+- Plusieurs images à la fois : utilisez plutôt des infoboxes individuelles pour un meilleur rendu.
 
 ## Notes de bas de page
 
