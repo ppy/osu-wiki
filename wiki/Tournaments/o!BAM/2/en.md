@@ -198,7 +198,7 @@ Saturday, 17 September 2022:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | E5 | Japanese Goblin | 1 | **5** | **The Cunnysseurs** | [#1](https://osu.ppy.sh/community/matches/103835756) |
 | H2 | shiroko's bicycle | 1 | **5** | **Anti-Cunny Action** | [#1](https://osu.ppy.sh/community/matches/103839807) |
-| D6 | koko soko asoko | 0 | **5** | **Can We Get Much Higher** | *win by default* | 
+| D6 | koko soko asoko | 0 | **5** | **Can We Get Much Higher** | *win by default* |
 | G4 | **Where Love Lies** | **5** | 0 | The Platinum Wok | [#1](https://osu.ppy.sh/community/matches/103842133) |
 | F4 | **Vanity** | **5** | 3 | NAJIB FANCLUB | [#1](https://osu.ppy.sh/community/matches/103845370) |
 | H1 | **Anti-Cunny Action** | **5** | 2 | osu retirement | [#1](https://osu.ppy.sh/community/matches/103845358) |
@@ -255,7 +255,7 @@ Saturday, 24 September 2022:
 | G5 | Ikan | 0 | **5** | **Where Love Lies** | [#1](https://osu.ppy.sh/community/matches/103997667) |
 | B6 | **LENG ZAI** | **5** | 2 | Damn bratty crewmate | [#1](https://osu.ppy.sh/community/matches/103998708) |
 | C1 | **Miyu Archive** | **5** | 4 | chungus capoo | [#1](https://osu.ppy.sh/community/matches/103998563) |
-| B4 | **Dreamy Color** | **5**| 3 | LENG ZAI | [#1](https://osu.ppy.sh/community/matches/104000405) |
+| B4 | **Dreamy Color** | **5** | 3 | LENG ZAI | [#1](https://osu.ppy.sh/community/matches/104000405) |
 | D2 | koko soko asoko | **1 | 5** | **RUDOLF ENJOYERS** | [#1](https://osu.ppy.sh/community/matches/104000653) |
 
 Sunday, 25 September 2022:
@@ -265,7 +265,7 @@ Sunday, 25 September 2022:
 | D2 | koko soko asoko | 1 | **5** | **RUDOLF ENJOYERS** | [#1](https://osu.ppy.sh/community/matches/104000653) |
 | H6 | **shiroko's bicycle** | **5** | 1 | Mandekissafriend | [#1](https://osu.ppy.sh/community/matches/104021618) |
 | C4 | **chungus capoo** | **5** | 0 | Offensize Name | [#1](https://osu.ppy.sh/community/matches/104024110) |
-| D4 | **yes seggs** | **5** | 0 | koko soko asoko | *win by default* | 
+| D4 | **yes seggs** | **5** | 0 | koko soko asoko | *win by default* |
 | E1 | **Diggas in paris** | **5** | 4 | The Cunnysseurs | [#1](https://osu.ppy.sh/community/matches/104024123) |
 | A2 | :froggy: | 1 | **5** | **kinda hot tho** | [#1](https://osu.ppy.sh/community/matches/104025398) |
 | B5 | Damn bratty crewmate | 3 | **5** | **Dreamy Color** | [#1](https://osu.ppy.sh/community/matches/104025879) |
