@@ -256,13 +256,12 @@ Saturday, 24 September 2022:
 | B6 | **LENG ZAI** | **5** | 2 | Damn bratty crewmate | [#1](https://osu.ppy.sh/community/matches/103998708) |
 | C1 | **Miyu Archive** | **5** | 4 | chungus capoo | [#1](https://osu.ppy.sh/community/matches/103998563) |
 | B4 | **Dreamy Color** | **5** | 3 | LENG ZAI | [#1](https://osu.ppy.sh/community/matches/104000405) |
-| D2 | koko soko asoko | **1 | 5** | **RUDOLF ENJOYERS** | [#1](https://osu.ppy.sh/community/matches/104000653) |
+| D2 | koko soko asoko | 1 | **5** | **RUDOLF ENJOYERS** | [#1](https://osu.ppy.sh/community/matches/104000653) |
 
 Sunday, 25 September 2022:
 
 | Group | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| D2 | koko soko asoko | 1 | **5** | **RUDOLF ENJOYERS** | [#1](https://osu.ppy.sh/community/matches/104000653) |
 | H6 | **shiroko's bicycle** | **5** | 1 | Mandekissafriend | [#1](https://osu.ppy.sh/community/matches/104021618) |
 | C4 | **chungus capoo** | **5** | 0 | Offensize Name | [#1](https://osu.ppy.sh/community/matches/104024110) |
 | D4 | **yes seggs** | **5** | 0 | koko soko asoko | *win by default* |
