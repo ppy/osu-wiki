@@ -23,7 +23,7 @@ Mapper có thể thay đổi bất kỳ hitsound mặc định nào với nhữn
 
 [Vòng xoay](/wiki/Hit_object/Spinner) và [thanh trượt](/wiki/Hit_object/Slider) có những hitsound của riêng chúng: spinner spin, spinner bonus, slider slide, và slider tick.
 
-## Âm thanh chủ động
+## Hitsound chủ động
 
 Một hitsound được gọi là *chủ động* nếu nó được đặt ở một vật thể tương tác được (nốt), chẳng hạn như vòng tròn hoặc đầu của thanh trượt. Những hitsound này cho người chơi biết độ chính xác của họ bằng cách dùng một âm thanh to rõ vào lúc họ nhấp chuột. Nếu được nhấp chuột đúng lúc, âm thanh sẽ trở nên phù hợp với nhịp điệu của bài hát.
 
