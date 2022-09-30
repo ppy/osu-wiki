@@ -67,7 +67,7 @@ The GB Cup 2022 Autumn is run by the Team GB and various community members.
   - [Bilibili stream](https://live.bilibili.com/10183) (::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617))
 - **[Register here](https://wj.qq.com/s2/10842634/1ffa/)**
 - [GBC QQ Group](https://jq.qq.com/?_wv=1027&k=zqBeTqMW)
-- [Information Speedsheet](https://docs.qq.com/sheet/DZUVwTnF1aEVmdlVX)
+- [Information spreadsheet](https://docs.qq.com/sheet/DZUVwTnF1aEVmdlVX)
 
 ## Ruleset
 
@@ -286,4 +286,4 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
 
 ## Notes
 
-[^ow]: opposites' total match difference, also called as "Buchholz score".
+[^ow]: opposites' total match difference, also referred to as "Buchholz score".
