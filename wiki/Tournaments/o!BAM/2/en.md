@@ -36,7 +36,7 @@ The osu! Battle Archive Malaysia 2022 is run by various community members.
 | Playtester | ::{ flag=MY }:: [Agagak](https://osu.ppy.sh/users/3645490), ::{ flag=US }:: [bananaman533](https://osu.ppy.sh/users/1284243), ::{ flag=US }:: [BATBALL](https://osu.ppy.sh/users/15173952), ::{ flag=SG }:: [Demonical](https://osu.ppy.sh/users/5447609), ::{ flag=CA }:: [FlatPaper](https://osu.ppy.sh/users/11255340), ::{ flag=KR }:: [lolboatz](https://osu.ppy.sh/users/12962464), ::{ flag=SG }:: [m0fum0fu](https://osu.ppy.sh/users/5143605), ::{ flag=JP }:: [makipan](https://osu.ppy.sh/users/12944109), ::{ flag=SG }:: [Randomguruz](https://osu.ppy.sh/users/8040494), ::{ flag=SG }:: [Rtyzen](https://osu.ppy.sh/users/2439822) |
 | Streamer | ::{ flag=MY }:: [Khoo Hao Yit](https://osu.ppy.sh/users/9534110), ::{ flag=MY }:: [Laphii](https://osu.ppy.sh/users/9364594),  ::{ flag=MY }:: [Its not Marvin](https://osu.ppy.sh/users/13600612) |
 | Commentator | ::{ flag=MY }:: [banner](https://osu.ppy.sh/users/14290988), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131), ::{ flag=MY }:: [Fancyyy](https://osu.ppy.sh/users/12616268), ::{ flag=MY }:: [Hanami-](https://osu.ppy.sh/users/8703188), ::{ flag=MY }:: [Its not Marvin](https://osu.ppy.sh/users/13600612), ::{ flag=MY }:: [malaidan](https://osu.ppy.sh/users/14279913), ::{ flag=MY }:: [Racers03](https://osu.ppy.sh/users/11621976), ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=MY }:: [squidstain](https://osu.ppy.sh/users/11073207) |
-| Referee | ::{ flag=BN }:: [aaronkoichi](https://osu.ppy.sh/users/11288235), ::{ flag=MY }:: [dragonlemmy](https://osu.ppy.sh/users/14053835), ::{ flag=MY }:: [Hand Sanitiser](https://osu.ppy.sh/users/5091293), ::{ flag=MY }:: [Honor27](https://osu.ppy.sh/users/25419414), ::{ flag=MY }:: [Laphii](https://osu.ppy.sh/users/9364594), ::{ flag=MY }:: [Online](https://osu.ppy.sh/users/13486575), ::{ flag=VN }:: [rock-on](https://osu.ppy.sh/users/9676089), ::{ flag=MY }:: [Wen4ng3l](https://osu.ppy.sh/users/9288833) |
+| Referee | ::{ flag=BN }:: [aaronkoichi](https://osu.ppy.sh/users/11288235), ::{ flag=MY }:: [dragonlemmy](https://osu.ppy.sh/users/14053835), ::{ flag=MY }:: [Hand Sanitiser](https://osu.ppy.sh/users/5091293), ::{ flag=MY }:: [Honor27](https://osu.ppy.sh/users/25419414), ::{ flag=MY }:: [Laphii](https://osu.ppy.sh/users/9364594), ::{ flag=MY }:: [Online](https://osu.ppy.sh/users/13486575), ::{ flag=VN }:: [rock-on](https://osu.ppy.sh/users/9676089), ::{ flag=MY }:: [Wen4ng3L](https://osu.ppy.sh/users/9288833) |
 | Graphic designer | ::{ flag=MY }:: [LouisZpro](https://osu.ppy.sh/users/6231292) |
 | Spreadsheet manager | ::{ flag=MY }:: [Laphii](https://osu.ppy.sh/users/9364594) |
 | Wiki editor | ::{ flag=MY }:: [Laphii](https://osu.ppy.sh/users/9364594) |
@@ -100,6 +100,33 @@ The osu! Battle Archive Malaysia 2022 is run by various community members.
 
 ## Mappools
 
+### Round of 16
+
+**[Download the mappack here! (118 MB)](https://cdn.discordapp.com/attachments/959526009546346516/1024343605042745345/OBAM_2022_RO16.rar)**
+
+- NoMod
+  1. [CIEL - Mado o Akete (Kotoha) \[ponbot's Affection\]](https://osu.ppy.sh/beatmapsets/1796301#osu/3682178)
+  2. [NEFFY - Kilmer (Rtyzen) \[Velvet Rope\]](https://osu.ppy.sh/beatmapsets/1856348#osu/3815140)
+  3. [HIMEHINA - Hitogata (TV Size) (Ryuusei Aika) \[0108's Extra\]](https://osu.ppy.sh/beatmapsets/942714#osu/1986093)
+  4. [Taiga Lucia (CV: Hoshikawa Sara) - NANAIRO STAGE (Prod. YUC'e) (Amateurre) \[Rainbow\]](https://osu.ppy.sh/beatmapsets/1585836#osu/3239063)
+  5. [AZKi - Fake.Fake.Fake (Luscent) \[Collab Extra\]](https://osu.ppy.sh/beatmapsets/1611987#osu/3554698)
+  6. [Machita Chima - CH4NGE (Kudou Chitose) \[DON'T GET IN MY W4Y\]](https://osu.ppy.sh/beatmapsets/1751949#osu/3584470)
+- Hidden
+  1. [Nakiri Ayame - Deep Indigo (Bokamin) \[ponbot's Expert\]](https://osu.ppy.sh/beatmapsets/1189193#osu/2572003)
+  2. [HIMEHINA - Hibari (Ryuusei Aika) \[R.U.R.\]](https://osu.ppy.sh/beatmapsets/998849#osu/2089091)
+  3. [Calliope Mori x Gawr Gura x DECO*27 - Q (Ryuusei Aika) \[Mayu's Expert\]](https://osu.ppy.sh/beatmapsets/1693923#osu/3475887)
+- HardRock
+  1. [Minato Aqua - Shiroi Yuki no Princess wa (Amateurre) \[Aquanother\]](https://osu.ppy.sh/beatmapsets/1095366#osu/2748324)
+  2. [VESPERBELL - Vampire (Petal) \[Ayucchi's Expert\]](https://osu.ppy.sh/beatmapsets/1493527#osu/3062815)
+  3. [momomoaji - Ginkou Hoshikawaa! (Cami) \[Madness\]](https://osu.ppy.sh/beatmapsets/1118992#osu/2337265)
+- DoubleTime
+  1. [Minato Aqua - Kaisou Ressha (vick) \[Dream\]](https://osu.ppy.sh/beatmapsets/1555132#osu/3177168)
+  2. [Lizean - Shinde Shimau towa Nasakenai! (Yugu) \[Insane\]](https://osu.ppy.sh/beatmapsets/1052264#osu/2201137)
+  3. [YuNi - Toumei Seisai (Bazz B) \[gambatte's Insane\]](https://osu.ppy.sh/beatmapsets/1175057#osu/2450947)
+- FreeMod
+  1. [YUKA NAGASE - Hide and Dance (Kotoha) \[kind of colab\]](https://osu.ppy.sh/beatmapsets/1856371#osu/3815203)
+  2. [Kaf - Konayuki (Yugu) \[Sleet\]](https://osu.ppy.sh/beatmapsets/1068748#osu/2237429)
+
 ### Group stage
 
 **[Download the mappack here! (77 MB)](https://cdn.discordapp.com/attachments/959526009546346516/1018855345138962494/OBAM2_Groupstage.rar)**
@@ -146,6 +173,104 @@ The osu! Battle Archive Malaysia 2022 is run by various community members.
   1. [Haloweak - Narwhal (meiikyuu) \[Rosetta\]](https://osu.ppy.sh/beatmapsets/1173876#osu/2474826)
   2. [ARM x Komso feat. Nanahira - Onegai! Kon kon Oinarisama ([Paw]OchiKouri) \[Muz's Insane\]](https://osu.ppy.sh/beatmapsets/1261912#osu/2635712)
   3. [Suara - Nuedori (VINXIS) \[emilia's Heavy Insane\]](https://osu.ppy.sh/beatmapsets/1143697#osu/2479193)
+
+## Match results
+
+### Group stage
+
+Thursday, 15 September 2022:
+
+| Group | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| G1 | **sturrige curry** | **5** | 1 | Where Love Lies | [#1](https://osu.ppy.sh/community/matches/103796836) |
+
+Friday, 16 September 2022:
+
+| Group | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| A6 | **:froggy:** | **5** | 3 | 洪家派驰名海鲜煮炒餐馆 (Hongjiapai Famous Seafood Restaurant) | [#1](https://osu.ppy.sh/community/matches/103813511) |
+| F1 | **Cat Enjoyer** | **5** | 4 | Vanity | [#1](https://osu.ppy.sh/community/matches/103818009) |
+| G2 | The Platinum Wok | 0 | **5** | sturrige curry | [#1](https://osu.ppy.sh/community/matches/103817953) |
+
+Saturday, 17 September 2022:
+
+| Group | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| E5 | Japanese Goblin | 1 | **5** | **The Cunnysseurs** | [#1](https://osu.ppy.sh/community/matches/103835756) |
+| H2 | shiroko's bicycle | 1 | **5** | **Anti-Cunny Action** | [#1](https://osu.ppy.sh/community/matches/103839807) |
+| D6 | koko soko asoko | 0 | **5** | **Can We Get Much Higher** | *win by default* | 
+| G4 | **Where Love Lies** | **5** | 0 | The Platinum Wok | [#1](https://osu.ppy.sh/community/matches/103842133) |
+| F4 | **Vanity** | **5** | 3 | NAJIB FANCLUB | [#1](https://osu.ppy.sh/community/matches/103845370) |
+| H1 | **Anti-Cunny Action** | **5** | 2 | osu retirement | [#1](https://osu.ppy.sh/community/matches/103845358) |
+
+Sunday, 18 September 2022:
+
+| Group | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| F3 | AMOGUS SUSSY BAKA S\_ | 0 | **5** | **Cat Enjoyer** | [#1](https://osu.ppy.sh/community/matches/103847766) |
+| D1 | **RUDOLF ENJOYERS** | **5** | 2 | yes seggs | [#1](https://osu.ppy.sh/community/matches/103848385) |
+| H4 | **osu retirement** | **5** | 0 | shiroko's bicycle | [#1](https://osu.ppy.sh/community/matches/103866752) |
+| C2 | Offensize Name | 1 | **5** | **Miyu Archive** | [#1](https://osu.ppy.sh/community/matches/103868697) |
+| H3 | Mandekissafriend | 0 | **5** | **Anti-Cunny Action** | [#1](https://osu.ppy.sh/community/matches/103871053) |
+| A1 | kinda hot tho | 3 | **5** | **Flover** | [#1](https://osu.ppy.sh/community/matches/103872807) |
+| B2 | LENG ZAI | 0 | **5** | **ENERGY GAP** | [#1](https://osu.ppy.sh/community/matches/103872631) |
+| C5 | Marv and Willy show | 0 | **5** | **chungus capoo** | [#1](https://osu.ppy.sh/community/matches/103872627) |
+| E2 | openureyesyouwillsee | 0 | **5** | **Diggas in paris** | [#1](https://osu.ppy.sh/community/matches/103872634) |
+| F5 | AMOGUS SUSSY BAKA S\_ | 0 | **5** | **Vanity** | *win by default* |
+| H5 | Mandekissafriend | 1 | **5** | **osu retirement** | [#1](https://osu.ppy.sh/community/matches/103872637) |
+
+Monday, 19 September 2022:
+
+| Group | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| F2 | **NAJIB FANCLUB** | **5** | 0 | Cat Enjoyer | *win by default* |
+
+Thursday, 22 September 2022:
+
+| Group | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| A5 | 洪家派驰名海鲜煮炒餐馆 (Hongjiapai Famous Seafood Restaurant) | 0 | **5** | **Flover** | [#1](https://osu.ppy.sh/community/matches/103949092) |
+| E4 | **The Cunnysseurs** |**5** | 1 | openureyesyouwillsee | [#1](https://osu.ppy.sh/community/matches/103949078) |
+
+Friday, 23 September 2022:
+
+| Group | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| A3 | 洪家派驰名海鲜煮炒餐馆 (Hongjiapai Famous Seafood Restaurant) | 0 | **5** | **kinda hot tho** | [#1](https://osu.ppy.sh/community/matches/103965729) |
+| C3 | Marv and Willy show | 1 | **5** | **Miyu Archive** | [#1](https://osu.ppy.sh/community/matches/103968722) |
+| G3 | Ikan | 0 | **5** | **sturrige curry** | [#1](https://osu.ppy.sh/community/matches/103968563) |
+| B1 | ENERGY GAP | 2 | **5** | **Dreamy Color** | [#1](https://osu.ppy.sh/community/matches/103969194) |
+| E6 | **openureyesyouwillsee** | **5** | 3 | Japanese Goblin | [#1](https://osu.ppy.sh/community/matches/103969437) |
+| G6 | **The Platinum Wok** | **5** | 2 | Ikan | [#1](https://osu.ppy.sh/community/matches/103970851) |
+
+Saturday, 24 September 2022:
+
+| Group | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| B3 | Damn bratty crewmate | 0 | **5** | **ENERGY GAP** | [#1](https://osu.ppy.sh/community/matches/103989318) |
+| D5 | Can We Get Much Higher | 1 | **5** | **yes seggs** | [#1](https://osu.ppy.sh/community/matches/103995409) |
+| A4 | **Flover** | **5** | 3 | :froggy: | [#1](https://osu.ppy.sh/community/matches/103996899) |
+| C6 | **Offensize Name** | **5** | 3 | Marv and Willy show | [#1](https://osu.ppy.sh/community/matches/103996911) |
+| E3 | Japanese Goblin | 0 | **5** | **Diggas in paris** | [#1](https://osu.ppy.sh/community/matches/103996723) |
+| G5 | Ikan | 0 | **5** | **Where Love Lies** | [#1](https://osu.ppy.sh/community/matches/103997667) |
+| B6 | **LENG ZAI** | **5** | 2 | Damn bratty crewmate | [#1](https://osu.ppy.sh/community/matches/103998708) |
+| C1 | **Miyu Archive** | 5 | 4 | chungus capoo | [#1](https://osu.ppy.sh/community/matches/103998563) |
+| B4 | **Dreamy Color** | 5 | 3 | LENG ZAI | [#1](https://osu.ppy.sh/community/matches/104000405) |
+| D2 | koko soko asoko | 1 | 5 | **RUDOLF ENJOYERS** | [#1](https://osu.ppy.sh/community/matches/104000653) |
+
+Sunday, 25 September 2022:
+
+| Group | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| D2 | koko soko asoko | 1 | **5** | **RUDOLF ENJOYERS** | [#1](https://osu.ppy.sh/community/matches/104000653) |
+| H6 | **shiroko's bicycle** | **5** | 1 | Mandekissafriend | [#1](https://osu.ppy.sh/community/matches/104021618) |
+| C4 | **chungus capoo** | **5** | 0 | Offensize Name | [#1](https://osu.ppy.sh/community/matches/104024110) |
+| D4 | **yes seggs** | **5** | 0 | koko soko asoko | *win by default* | 
+| E1 | **Diggas in paris** | **5** | 4 | The Cunnysseurs | [#1](https://osu.ppy.sh/community/matches/104024123) |
+| A2 | :froggy: | 1 | **5** | **kinda hot tho** | [#1](https://osu.ppy.sh/community/matches/104025398) |
+| B5 | Damn bratty crewmate | 3 | **5** | **Dreamy Color** | [#1](https://osu.ppy.sh/community/matches/104025879) |
+| D3 | Can We Get Much Higher | 0 | **5** | **RUDOLF ENJOYERS** | *win by default* |
+| F6 | **NAJIB FANCLUB** | **5** | 1 | AMOGUS SUSSY BAKA S\_ | [#1](https://osu.ppy.sh/community/matches/104026876) |
 
 ## Ruleset
 
