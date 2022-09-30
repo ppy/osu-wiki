@@ -14,11 +14,11 @@ As always, a wealth of information can be accessed via the [star rating](/wiki/B
 
 ## Release schedule
 
-### 🏃 Star rating updates \[2022-09-29 ~ 2022-09-30\]
+### ✅ Star rating updates \[2022-09-30\]
 
 An initial pass over all beatmaps to update their star ratings. During this period, new scores will potentially be calculated using the updated calculations, and as such will not match older scores. There may be discrepancies in ordering and display between the game client and web site.
 
-### ⏳ Background user total recalculations \[2022-09-30 ~ 2022-10-01\]
+### 🏃 Background user total recalculations \[2022-09-30 ~ 2022-10-01\]
 
 Starting from the user at rank #1 and working outwards, each user's total pp will be recalculated.
 
