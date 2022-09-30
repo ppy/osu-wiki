@@ -848,15 +848,19 @@ The osu! wiki is a project that was meant to replace the old FAQ system.[^wiki-f
 
 Citations, or references, are used to identify a source of information. Citations via footnotes should be preferred over inline links.
 
-Example:
+The title text depends on the page referenced. Use exact page title for independent websites, news posts, and articles. In case of forum threads, specify their author and creation date. For individual messages, such as posts or tweets, mention thread title (if applicable), author and post date.
+
+Examples:
 
 ```markdown
-The first version of the osu!api was made available on July 2, 2013.[^api-first-usage] It had received critical acclaim from users.[^api-praise]
+The first version of the osu!api was made available on July 2, 2013.[^api-first-usage] It had received critical acclaim from users.[^api-praise] A new version of API, released several years later, contains many more capabilities.[^api-v2-2020] Endpoint versioning is common among web APIs.[^web-api]
 
 ## References
 
-[^api-first-usage]: [osu!api open beta](https://osu.ppy.sh/community/forums/posts/2403913)
-[^api-praise]: [osu!api open beta](https://osu.ppy.sh/community/forums/posts/2662247)
+[^api-first-usage]: ["osu!api open beta" by peppy, 2013-07-02](https://osu.ppy.sh/community/forums/posts/2403913)
+[^api-praise]: [A post by Menchi in "osu!api open beta", 2013-11-02](https://osu.ppy.sh/community/forums/posts/2662247)
+[^api-v2-2020]: [A tweet from ppy, 2020-03-20](https://twitter.com/ppy/status/1263083636363948032)
+[^web-api]: [Web API — Wikipedia](https://en.wikipedia.org/wiki/Web_API)
 ```
 
 ### Notes
