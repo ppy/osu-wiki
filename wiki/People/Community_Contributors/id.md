@@ -198,7 +198,7 @@ Tidak untuk disamakan dengan [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), y
 | :-- | :-- |
 | ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263) | Kontribusi luar biasa terhadap taraf turnamen di komunitas osu!taiko |
 | ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502) | Kontribusi luar biasa terhadap pengembangan osu!(lazer) |
-| ::{ flag=HR }:: [Susuko3](https://osu.ppy.sh/users/18945305) | Kontribusi luar biasa terhadap pengembangan osu!(lazer) dan osu!framework |
+| ::{ flag=HR }:: [Susko3](https://osu.ppy.sh/users/18945305) | Kontribusi luar biasa terhadap pengembangan osu!(lazer) dan osu!framework |
 | ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455) | Kontribusi luar biasa terhadap pengembangan dan perawatan osu! performance points |
 | ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549) | Kontribusi luar biasa terhadap pengembangan osu! performance points |
 | ::{ flag=AU }:: [MBmasher](https://osu.ppy.sh/users/4498616) | Kontribusi luar biasa terhadap pengembangan osu! performance points dan peremajaan mod Flashlight |
