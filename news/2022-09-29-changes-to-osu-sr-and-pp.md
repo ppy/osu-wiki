@@ -12,7 +12,32 @@ The time for change has arrived yet again. Developers have been hard at work sin
 
 As always, a wealth of information can be accessed via the [star rating](/wiki/Beatmap/Star_rating) and [performance points](/wiki/Performance_points) wiki pages for those that want background reading.
 
-## osu! changes
+## Release schedule
+
+### 🏃 Star rating updates \[2022-09-29 ~ 2022-09-30\]
+
+An initial pass over all beatmaps to update their star ratings. During this period, new scores will potentially be calculated using the updated calculations, and as such will not match older scores. There may be discrepancies in ordering and display between the game client and web site.
+
+### ⏳ Background user total recalculations \[2022-09-30 ~ 2022-10-01\]
+
+Starting from the user at rank #1 and working outwards, each user's total pp will be recalculated.
+
+During this period, **rank history graphs will be frozen**. If a user plays, their **total pp** value will immediately be updated using the correct values for all past scores, but this won't match past scores' display under "Best Performance". **As a result, it may seem as if you temporarily gain, lose or fluctuate in rank relative to others.**
+
+During this maintenance, the following will also occur:
+
+- Inactive users (anyone that has not played the game in 3 months) will be delisted.
+- Scores in the "best performance" profile section may look to be out of order, or not visible at all during this phase. This will resolve completely during the reindexing phase listed below.
+
+### ⏳ Re-enabling of global rank history updates \[2022-10-02\]
+
+Rank history graphs updates will be enabled and updated again. At this point, all users' global leaderboard ranks will be stable going forward.
+
+### ⏳ Reindexing \[2022-10-03\]
+
+This will fix scores being out of order on profiles, and in some rare cases not being displayed at all.
+
+## New changes
 
 As a reminder of the various core values in the difficulty calculation algorithm:
 
