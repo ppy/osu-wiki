@@ -13,8 +13,6 @@ tags:
 
 *Xem: [Thêm hitsound tuỳ chỉnh](/wiki/Guides/Using_custom_hitsounds)*
 
-<!-- TODO: could make more articles about each part of hitsounds, and also one focused more on gameplay than mapping -->
-
 **Hitsound** là những âm thanh osu! phát ra để đáp lại khi người dùng tương tác với [vật thể](/wiki/Hit_object). Âm thanh được dùng để tạo ra sự phản hồi cho người chơi để giúp họ cải thiện [độ chính xác](/wiki/Gameplay/Accuracy) trong bài hát.
 
 Hitsound được phát ra một mẫu mặc định gọi là *hitnormal* và sự kết hợp của *mẫu bổ sung* còi (whistle), kết thúc (finish) hoặc vỗ tay (clap). Mỗi mẫu trên là một phần của một trong ba *độ mạnh* phát ra các kiểu khác nhau: `Normal` (bình thường), `Soft` (nhẹ), hoặc `Drum` (trống).
