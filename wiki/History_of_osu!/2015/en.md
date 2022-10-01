@@ -60,6 +60,7 @@ Notwithstanding, the new team was completely public and available for anyone to 
 ## August
 
 The Chat Moderators were officially merged into the Global Moderation Team (GMT) on 20 August 2015.[^osu-weekly-24][^gmt-merge-post]
+
 ## September
 
 The old FPS counter was replaced with a new "refresh and latency display" on 2 September 2015. This new display would still display the current FPS (frames per second), but the new change caused it to hide from view if it exceeded 500 FPS. In addition, a new counter was added below the FPS counter that would display exactly how much latency was being introduced during frame rendering (measured in milliseconds). "Stuttered" or "dropped" frames would be shown as coloured rectangles to the left of the counter to better visualise exactly how much frame render latency a user was experiencing.[^ppy-blog-sep-mwr][^osu-weekly-29]
