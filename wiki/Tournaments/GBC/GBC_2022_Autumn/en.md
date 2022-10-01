@@ -77,8 +77,8 @@ The GB Cup 2022 Autumn is run by the Team GB and various community members.
 2. There will be some players been eliminated in qualifier and Drafting phase.
 3. Regular stage have 4 rounds, used to be 3. only teams with 2-1 or 1-2 record will participate round 4.
 4. Player can't be banned in a match until he has finished a game in this match.
-5. The team pick beatmap first can't ban players in the first 2 rounds.
-6. Picking beatmaps and banning players should be sent at a single message, if a team continues to be slow at banning, referees have rights to **ignore this ban**.
+5. The team that picks beatmaps first cannot ban players during the first 2 rounds.
+6. Picking beatmaps and banning players should be sent using a single message. If a team continues to be slow at banning, referees have rights to **ignore the ban**.
 7. "Total matches score difference" added as a last resort for ranking in regular stage.
 8. Mappool size increased by 2 maps.
 9. For Regular stage ranking, now compare beatmap difference first, then opposite wins[^ow].
@@ -86,11 +86,11 @@ The GB Cup 2022 Autumn is run by the Team GB and various community members.
 The following rules are changed to consistent with rules on `MWC 4k 2022` : 
 
 10. The winner of the `!roll` could **choose** to pick first or ban first of the match.
-11. Failed Player's score still get added to the team score.
-12. Allowed Team to rematch if any team member disconnected on early of the beatmaps.
+11. A failed player's score will still get added to the team score.
+12. Teams are allowed to rematch if any team member disconnects early on during a beatmap.
 13. Referees have rights to lower or higher timer settings.
-14. Calling tactical timeout on Tie-breaker need both teams' captains agreement.
-15. NoFail mod could be choose in FreeMod bracket.
+14. Calling a tactical timeout on a tiebreaker requires the agreement of both teams' captains.
+15. NoFail mod can used in the FreeMod bracket.
 
 ### Tournament rules
 
@@ -163,10 +163,10 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
 5. There will be an optional 5-minute break in between the first and second play-through of the mappool.
 6. All players will play their qualifiers in separate rooms. *We suggest players not to broadcast or share their results to avoid seed manipulation*.
 7. Qualifier stage's result will using to seeding and choosen captains.
-   - Higher score will have higher chance to be picked on Drafting phase. player will be eliminated or not being picked on Drafting phase, if he got too low in qualifier.
+   - Higher scores lead to a higher chance to be picked during drafting phase. Players are eliminated if they do not get picked, or if they get too low of a score during Qualifers.
 8. Some best-performance players will advance to Drafting phase.
    - The number of players advanced will be determined by how many players required on Drafting phase. (i.e. For 16 teams, each team have 5 players' size, total `16*5=80` players are required on Drafting phase. So *about* Top 85 will be advanced to Drafting phase, giving captains some extra choices for last pick.) *This might change depending on the number of incoming registrations.* 
-   - Disrupting the match by foul play or trying seed manipulation will result in disqualified, such players will be announced before Drafting phase actual take place.
+   - Disrupting the match by foul play or seed manipulation will result in disqualification, and any such players will be announced before the drafting phase takes place.
 
 ### Stage instructions
 
@@ -194,10 +194,10 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
 8. At all times, the captains may communicate with each other via multiplayer chatrooms or voice chat. 
    - Other players will be muted during the Drafting phase.
 9. After the Drafting phase, captains may choose, with the approval of the host, to delegate their role to other prospective team members.
-10. Captains may also choose to rename their team name after the Drafting phase.
-    - The default name of team is: `Team {X}`, `{X}` is the abbreviation of captain's name.
+10. Captains may also choose to rename their team name after the drafting phase.
+    - The default name of team is: `Team {X}`, with `{X}` being an abbreviation of the captain's name.
     - Team names can't be longer than **12** characters (Chinese character is considered as 1).
-11. Bad behaviour during the Drafting phase will be seen as disrupting the match by foul play.
+11. Bad behaviour during the drafting phase will be seen as disrupting the match by foul play.
 
 ### Regular stage instructions
 
@@ -233,10 +233,10 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
 3. Both captains will alternate picking a beatmap from the mappool.
 4. Each captain must use `!roll` once in `#multiplayer`.
    - The winner of the `!roll` could choose to pick first or ban first of the match. The other choose will be used by loser team.
-5. After each pick, both captains **could** ban **one** of the opposing team members from playing this beatmap in this match, **except in tiebreaker**. A player can't be banned until he has finished playing a beatmap on this match.
+5. After each pick, both captains **may** ban **one** of the opposing team members from playing the beatmap in a match, **except during tiebreakers**. A player cannot be banned during a match until they have played one beatmap.
    - Any player can only be banned like this **once** per match.
-   - The team pick beatmap first can't ban players at the 2nd round (opposite's first pick round).
-     - As the former rules, no teams could ban players in 1st round since they haven't finished playing any beatmap.
+   - The team that picks beatmaps first cannot ban players during the first 2 rounds.
+     - As a consequence of the earlier rules, no teams are allowed to ban players during the first round since no one has finished playing any beatmaps.
    - Team that is picking beatmaps should ban player first.
    - If less than required player avaliable, banning player might be limited by host considering.
      - This rule should not be abused. Host reserves rights to penalize a team if they find that cases.
