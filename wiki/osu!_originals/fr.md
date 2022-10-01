@@ -11,10 +11,10 @@ Toutes les osu! originals qui ont été autorisées à l'utilisation par le jeu 
 | Musique | Notes |
 | :-: | :-- |
 | [cYsmix - triangles](https://soundcloud.com/olemlanglie/cysmix-triangles-osulazer)[^fa-catalogue] | Thème principal actuel d'osu!(lazer) |
-| [nekodex - aureole](https://soundcloud.com/nekodex/aureole)[^fa-catalogue] | Thème d'osu! lors de l'hiver/Noël en 2017 |
+| [nekodex - aureole](https://soundcloud.com/nekodex/aureole)[^fa-catalogue] | Thème d'osu! lors de l'hiver/Noël 2017 |
 | [nekodex - circles!](https://soundcloud.com/nekodex/circles)[^fa-catalogue] | Thème d'osu! en 2015 |
-| [nekodex - carol of the circles](https://soundcloud.com/nekodex/carol-of-the-circles)[^fa-catalogue] | Thème d'osu! lors de l'hiver/Noël en 2019 |
-| [nekodex - Little Drummer Girl](https://soundcloud.com/nekodex/carol-of-the-circles)[^fa-catalogue] | Thème d'osu! lors de l'hiver/Noël en 2020 |
+| [nekodex - carol of the circles](https://soundcloud.com/nekodex/carol-of-the-circles)[^fa-catalogue] | Thème d'osu! lors de l'hiver/Noël 2019 |
+| [nekodex - Little Drummer Girl](https://soundcloud.com/nekodex/carol-of-the-circles)[^fa-catalogue] | Thème d'osu! lors de l'hiver/Noël 2020 |
 | [nekodex - Liquid Future](https://soundcloud.com/nekodex/liquid-future)[^fa-catalogue] | Composition originale pour [osu!stream](/wiki/osu!stream) |
 | [nekodex - new beginnings](https://osu.ppy.sh/beatmapsets/1011011) | Musique du tutoriel actuel |
 | [nekodex - osu!stream theme](https://soundcloud.com/nekodex/osu-stream-theme) | Thème principal d'[osu!stream](/wiki/osu!stream) |
@@ -32,15 +32,15 @@ Toutes les osu! originals qui ont été autorisées à l'utilisation par le jeu 
 | :-: | :-- |
 | [cYsmix - Arcade Busters](https://soundcloud.com/olemlanglie/arcade-busters-osu) |  |
 | [cYsmix - Behind the Walls](https://osu.ppy.sh/beatmaps/artists/tracks?artist=cYsmix&query=Behind%20The%20Walls) |  |
-| [cYsmix - Breeze](https://soundcloud.com/olemlanglie/cysmix-breeze-osu) | Présentée dans [Monthly Beatmapping Contest: April 2017](https://osu.ppy.sh/home/news/2017-04-14-monthly-beatmapping-contest-april-2017-osumania) |
-| [cYsmix - Classic Pursuit](https://soundcloud.com/olemlanglie/cysmix-classic-pursuit-osu) | Présentée dans [Mapping With Rewards: October 2015](https://blog.ppy.sh/post/132009865043/mapping-with-rewards-oct-2015) |
+| [cYsmix - Breeze](https://soundcloud.com/olemlanglie/cysmix-breeze-osu) | Présentée dans le [Monthly Beatmapping Contest: April 2017](https://osu.ppy.sh/home/news/2017-04-14-monthly-beatmapping-contest-april-2017-osumania) |
+| [cYsmix - Classic Pursuit](https://soundcloud.com/olemlanglie/cysmix-classic-pursuit-osu) | Présentée dans le [Mapping With Rewards: October 2015](https://blog.ppy.sh/post/132009865043/mapping-with-rewards-oct-2015) |
 | [cYsmix - Disco Bawls](https://soundcloud.com/olemlanglie/cysmix-disco-bawls) |  |
-| [cYsmix - Dovregubben's Hall](https://soundcloud.com/olemlanglie/cysmix-dovregubbens-hall-new-ver-osu) | Présentée dans [Mapping With Rewards: September 2015](https://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015) |
-| [cYsmix - Fright March](https://soundcloud.com/olemlanglie/cysmix-fright-march-osu) | Présentée dans [Mapping With Rewards: October 2015](https://blog.ppy.sh/post/132009865043/mapping-with-rewards-oct-2015) |
-| [cYsmix - House With Legs](https://soundcloud.com/olemlanglie/cysmix-house-with-legs-original-mix) | Présentée dans [Mapping With Rewards: September 2015](https://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015) |
+| [cYsmix - Dovregubben's Hall](https://soundcloud.com/olemlanglie/cysmix-dovregubbens-hall-new-ver-osu) | Présentée dans le [Mapping With Rewards: September 2015](https://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015) |
+| [cYsmix - Fright March](https://soundcloud.com/olemlanglie/cysmix-fright-march-osu) | Présentée dans le [Mapping With Rewards: October 2015](https://blog.ppy.sh/post/132009865043/mapping-with-rewards-oct-2015) |
+| [cYsmix - House With Legs](https://soundcloud.com/olemlanglie/cysmix-house-with-legs-original-mix) | Présentée dans le [Mapping With Rewards: September 2015](https://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015) |
 | [cYsmix - Little Knight](https://soundcloud.com/olemlanglie/cysmix-little-knight) |  |
-| [cYsmix - Manic](https://soundcloud.com/olemlanglie/cysmix-manic-osu) | Présentée dans [Mapping With Rewards: September 2015](https://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015) |
-| [cYsmix - Moonlight Sonata](https://cysmix.bandcamp.com/track/moonlight-sonata) | Présentée dans [Mapping With Rewards: October 2015](https://blog.ppy.sh/post/132009865043/mapping-with-rewards-oct-2015) |
+| [cYsmix - Manic](https://soundcloud.com/olemlanglie/cysmix-manic-osu) | Présentée dans le [Mapping With Rewards: September 2015](https://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015) |
+| [cYsmix - Moonlight Sonata](https://cysmix.bandcamp.com/track/moonlight-sonata) | Présentée dans le [Mapping With Rewards: October 2015](https://blog.ppy.sh/post/132009865043/mapping-with-rewards-oct-2015) |
 | [cYsmix - Peer Gynt](https://soundcloud.com/olemlanglie/cysmix-peer-gynt-osu) |
 
 #### [James Landino](https://osu.ppy.sh/beatmaps/artists/39)
@@ -49,12 +49,12 @@ Toutes les osu! originals qui ont été autorisées à l'utilisation par le jeu 
 
 | Musique | Notes |
 | :-: | :-- |
-| [James Landino - Birdsong](https://osu.ppy.sh/beatmaps/artists/tracks?artist=James%20Landino&query=Birdsong) | Partie de [osu! James Landino Collection EP](https://fanlink.to/osulandino) |
-| [James Landino - Hide and Seek](https://osu.ppy.sh/beatmaps/artists/tracks?artist=James%20Landino&query=Hide%20and%20Seek) | Partie de [osu! James Landino Collection EP](https://fanlink.to/osulandino) |
-| [James Landino - Hit That feat. Hentai Dude & Tofuku (osu! edit)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=James%20Landino&query=Hit%20That%20feat.%20Hentai%20Dude%20%26%20Tofuku) | Partie de [osu! James Landino Collection EP](https://fanlink.to/osulandino) |
-| [James Landino - Reaction feat. Slyleaf](https://osu.ppy.sh/beatmaps/artists/tracks?artist=James%20Landino&query=Reaction%20feat.%20Slyleaf) | Partie de [osu! James Landino Collection EP](https://fanlink.to/osulandino) |
-| [James Landino - Shiba Island](https://osu.ppy.sh/beatmaps/artists/tracks?artist=James%20Landino&query=Shiba%Island) | Partie de [osu! James Landino Collection EP](https://fanlink.to/osulandino) |
-| [James Landino - Spellbound](https://osu.ppy.sh/beatmaps/artists/tracks?artist=James%20Landino&query=Spellbound) | Partie de [osu! James Landino Collection EP](https://fanlink.to/osulandino) |
+| [James Landino - Birdsong](https://osu.ppy.sh/beatmaps/artists/tracks?artist=James%20Landino&query=Birdsong) | Fait partie de [osu! James Landino Collection EP](https://fanlink.to/osulandino) |
+| [James Landino - Hide and Seek](https://osu.ppy.sh/beatmaps/artists/tracks?artist=James%20Landino&query=Hide%20and%20Seek) | Fait partie de [osu! James Landino Collection EP](https://fanlink.to/osulandino) |
+| [James Landino - Hit That feat. Hentai Dude & Tofuku (osu! edit)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=James%20Landino&query=Hit%20That%20feat.%20Hentai%20Dude%20%26%20Tofuku) | Fait partie de [osu! James Landino Collection EP](https://fanlink.to/osulandino) |
+| [James Landino - Reaction feat. Slyleaf](https://osu.ppy.sh/beatmaps/artists/tracks?artist=James%20Landino&query=Reaction%20feat.%20Slyleaf) | Fait partie de [osu! James Landino Collection EP](https://fanlink.to/osulandino) |
+| [James Landino - Shiba Island](https://osu.ppy.sh/beatmaps/artists/tracks?artist=James%20Landino&query=Shiba%Island) | Fait partie de [osu! James Landino Collection EP](https://fanlink.to/osulandino) |
+| [James Landino - Spellbound](https://osu.ppy.sh/beatmaps/artists/tracks?artist=James%20Landino&query=Spellbound) | Fait partie de [osu! James Landino Collection EP](https://fanlink.to/osulandino) |
 
 #### [kiraku](https://osu.ppy.sh/beatmaps/artists/101)
 
@@ -62,7 +62,7 @@ Toutes les osu! originals qui ont été autorisées à l'utilisation par le jeu 
  
 | Musique | Notes |
 | :-: | :-- |
-| [kiraku - connection](https://osu.ppy.sh/beatmaps/artists/tracks?artist=kiraku&query=connection) | Présentée dans [Monthly Beatmapping Contest: October 2020](https://osu.ppy.sh/home/news/2020-10-06-monthly-beatmapping-contest-october) |
+| [kiraku - connection](https://osu.ppy.sh/beatmaps/artists/tracks?artist=kiraku&query=connection) | Présentée dans le [Monthly Beatmapping Contest: October 2020](https://osu.ppy.sh/home/news/2020-10-06-monthly-beatmapping-contest-october) |
 
 #### [Kitazawa Kyouhei](https://osu.ppy.sh/beatmaps/artists/165)
 
@@ -92,7 +92,7 @@ Toutes les osu! originals qui ont été autorisées à l'utilisation par le jeu 
 | [yuki. - Forget you](https://osu.ppy.sh/beatmaps/artists/tracks?artist=yuki.&query=Forget%20you) |  |
 | [yuki. - Have it All](https://osu.ppy.sh/beatmaps/artists/tracks?artist=yuki.&query=Have%20it%20All) |  |
 | [yuki. - Hello! World (feat. setsunan)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=yuki.&query=Hello!%20World%20(feat.%20setsunan)) |  |
-| [yuki. - Nadeshiko Sensation](https://soundcloud.com/yuki_0126/nadeshiko-sensation) | Présentée dans [Community Mapping Contest #1](https://osu.ppy.sh/home/news/2016-09-28-community-mapping-contest-1-yuki-nadeshiko) |
+| [yuki. - Nadeshiko Sensation](https://soundcloud.com/yuki_0126/nadeshiko-sensation) | Présentée dans le [Community Mapping Contest #1](https://osu.ppy.sh/home/news/2016-09-28-community-mapping-contest-1-yuki-nadeshiko) |
 | [yuki. - Polaris](https://osu.ppy.sh/beatmaps/artists/tracks?artist=yuki.&query=Polaris) |  |
 | [yuki. - Spring Signal](https://osu.ppy.sh/beatmaps/artists/tracks?artist=yuki.&query=Spring%20Signal) |  |
 
