@@ -101,18 +101,18 @@ Ces astuces apparaissent dans la [version lazer du client](https://github.com/pp
 - Vous pouvez appuyer sur `Ctrl` + `O` n'importe où dans le jeu pour accéder aux options !
 - Tous les paramètres sont dynamiques et prennent effet en temps réel. Essayez de mettre en pause et de changer de skin tout en jouant !
 - De nouvelles fonctionnalités sont mises en ligne à chaque mise à jour. Assurez-vous de rester à jour !
-- Si vous trouvez l'UI trop grande ou trop petite, essayez de régler l'échelle de l'interface dans les paramètres !
-- Essayez d'ajuster le mode `Screen Scaling` pour changer votre zone de jeu ou d'UI, même en plein écran !
+- Si vous trouvez l'interface trop grande ou trop petite, essayez de régler l'échelle de l'interface dans les paramètres !
+- Essayez d'ajuster le mode `Screen Scaling` pour changer votre zone de jeu ou d'interface, même en plein écran !
 - Ce qui était auparavant "[osu!direct](/wiki/osu!supporter#osu!direct)" est disponible pour tous les utilisateurs comme sur le site web. Vous pouvez y accéder partout en utilisant `Ctrl` + `D` !
-- La recherche au sein des replays est disponible en glissant sur la barre de difficulté en bas de l'écran !
-- La prise en charge du multithreading signifie que même avec des "FPS" faibles, votre saisie et vos jugements seront précis !
-- Essayez de faire défiler vers le bas le panneau de sélection des mods pour trouver un tas de nouveaux mods amusants !
+- Vous pouvez vous rendre à n'importe quel passage d'un replay en faisant défiler la barre de difficulté en bas de l'écran !
+- La prise en charge du multithreading signifie que même avec peu de FPS, vos clics et vos jugements seront précis !
+- Essayez de faire défiler le menu de sélection des mods vers le bas pour trouver un tas de nouveaux mods amusants !
 - La majorité des contenus web (profils, classements, etc.) sont disponibles nativement dans le jeu à partir des icônes de la barre d'outils !
-- Obtenez plus de détails, cachez ou supprimez une beatmap en cliquant avec le bouton droit de la souris sur son panneau lors de la sélection de la beatmap !
-- Toutes les opérations de suppression sont temporaires jusqu'à la sortie. Restaurez le contenu accidentellement supprimé à partir des paramètres de maintenance !
+- Obtenez plus de détails, cachez ou supprimez une beatmap en cliquant dessus avec le bouton droit de la souris sur l'écran de sélection de beatmap !
+- Toutes les opérations de suppression sont temporaires jusqu'à la fermeture du jeu. Restaurez le contenu accidentellement supprimé à partir des paramètres de maintenance !
 - Découvrez le système de "playlists", qui permet aux utilisateurs de créer leurs propres classements personnalisés et permanents !
-- Basculez les statistiques avancées des trames / fils avec `Ctrl` + `F11` !
-- Jetez un coup d'œil aux compteurs de performance et activez l'enregistrement des performances verbeuses avec `Ctrl` + `F2` !
+- Basculez les statistiques avancées des images / threads avec `Ctrl` + `F11` !
+- Jetez un coup d'œil aux compteurs de performance et activez l'enregistrement détaillé des performances avec `Ctrl` + `F2` !
 
 ## Voir aussi
 
