@@ -470,5 +470,5 @@ Toutes les osu! originals qui ont été autorisées à l'utilisation par le jeu 
 ## Notes
 
 [^fa]: Cette musique a été faite par un Featured Artist, mais ne fait pas partie du catalogue des Featured Artists.
-[^fa-feature]: Cette musique présente un Featured Artist, mais ne fait pas partie du catalogue des Featured.
+[^fa-feature]: Cette musique présente un Featured Artist, mais ne fait pas partie du catalogue des Featured Artists.
 [^fa-catalogue]: Cette musique fait partie du catalogue des Featured Artists.
