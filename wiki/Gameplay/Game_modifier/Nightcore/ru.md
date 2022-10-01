@@ -29,7 +29,7 @@ tags:
   - ![][osu!catch]: 1.06x
   - ![][osu!mania]: 1.00x
 - Горячая клавиша по умолчанию: `D` `D` или `Shift`+`D`
-- Описание: `uguuuuuuuu`
+- Описание: `ТЫЦ ТЫЦ ТЫЦ ТЫЦ`
 - Режимы игры: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - Разновидности: [Double Time](/wiki/Game_modifier/Double_Time)
 

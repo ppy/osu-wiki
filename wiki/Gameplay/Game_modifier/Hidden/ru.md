@@ -28,10 +28,10 @@ tags:
 - Горячая клавиша по умолчанию: `F`
   - В [osu!mania](/wiki/Game_mode/osu!mania): `F` `F` или `Shift`+`F`
 - Описание:
-  - ![][osu!]: `Play with no approach circles and fading notes for a slight score advantage.`
-  - ![][osu!taiko]: `The notes fade out before you hit them!`
-  - ![][osu!catch] `Play with no approach circles and fading notes for a slight score advantage.`
-  - ![][osu!mania]: `The notes fade out before you hit them!`
+  - ![][osu!]: `Нот не существует, Нео.`
+  - ![][osu!taiko]: `Ноты исчезают прямо перед ударом.`
+  - ![][osu!catch] `Нот не существует, Нео.`
+  - ![][osu!mania]: `Перед клавишами возникает полоска тьмы, в которой скрываются ноты.`
 - Режимы игры: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - Разновидности (osu!mania): [Fade In](/wiki/Game_modifier/Fade_In)
 

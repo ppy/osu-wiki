@@ -28,7 +28,7 @@ tags:
   - ![][osu!catch]: 1.12x
   - ![][osu!mania]: 1.00x
 - Горячая клавиша по умолчанию: `A`
-- Описание: `Everything just got a bit harder...`
+- Описание: `Жить и играть становится сложней.`
 - Режимы игры: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
 ## Описание
