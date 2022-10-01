@@ -8,7 +8,7 @@ tags:
 
 ![OWC 2022 banner](img/owc2022_banner.jpg)
 
-The **osu! World Cup 2022** (***OWC 2022***) is an upcoming country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It is the thirteenth instalment of the osu! World Cup.
+The **osu! World Cup 2022** (***OWC 2022***) is a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It is the thirteenth instalment of the osu! World Cup.
 
 ## Tournament schedule
 
@@ -50,10 +50,69 @@ The osu! World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) and var
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1645682?n=1)
-- **[Register here](https://osu.ppy.sh/community/tournaments/35)**
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1645682)
 - [Livestream](https://www.twitch.tv/osulive)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/100) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
+
+## Participants
+
+*Notice: Captains are listed in **bold**. The final team composition for each country is subject to change. If you have been selected as a captain, check your [inbox](https://osu.ppy.sh/community/chat) for more information. Countries not listed did not have enough players to meet the minimum team size criteria.*
+
+|  | Country | Members |
+| :-: | :-: | :-- |
+| ::{ flag=AR }:: | **Argentina** | **[Zydan](https://osu.ppy.sh/users/9393446)** |
+| ::{ flag=AT }:: | **Austria** | **[Sparkxei](https://osu.ppy.sh/users/4601608)** |
+| ::{ flag=AU }:: | **Australia** | **[Jordan The Bear](https://osu.ppy.sh/users/7477458)** |
+| ::{ flag=BE }:: | **Belgium** | **[Hanori](https://osu.ppy.sh/users/7078544)** |
+| ::{ flag=BG }:: | **Bulgaria** | **[hlanden](https://osu.ppy.sh/users/4934554)** |
+| ::{ flag=BR }:: | **Brazil** | **[Coreanmaluco](https://osu.ppy.sh/users/3149577)** |
+| ::{ flag=BY }:: | **Belarus** | **[KortezR](https://osu.ppy.sh/users/6433474)** |
+| ::{ flag=CA }:: | **Canada** | **[Zylice](https://osu.ppy.sh/users/5033077)** |
+| ::{ flag=CH }:: | **Switzerland** | **[Baluhga](https://osu.ppy.sh/users/7225922)** |
+| ::{ flag=CL }:: | **Chile** | **[Eunha](https://osu.ppy.sh/users/7701428)** |
+| ::{ flag=CN }:: | **China** | **[lolol235](https://osu.ppy.sh/users/6090175)** |
+| ::{ flag=CO }:: | **Colombia** | **[Ninther4](https://osu.ppy.sh/users/3291562)** |
+| ::{ flag=CZ }:: | **Czech Republic** | **[PoggersCZ](https://osu.ppy.sh/users/3198446)** |
+| ::{ flag=DE }:: | **Germany** | **[criller](https://osu.ppy.sh/users/8116659)** |
+| ::{ flag=DK }:: | **Denmark** | **[iamVill](https://osu.ppy.sh/users/6295380)** |
+| ::{ flag=EE }:: | **Estonia** | **[Ancenthe](https://osu.ppy.sh/users/4479041)** |
+| ::{ flag=ES }:: | **Spain** | **[amborgesa](https://osu.ppy.sh/users/1968481)** |
+| ::{ flag=FI }:: | **Finland** | **[Freezd](https://osu.ppy.sh/users/6524603)** |
+| ::{ flag=FR }:: | **France** | **[Musty](https://osu.ppy.sh/users/251683)** |
+| ::{ flag=GB }:: | **United Kingdom** | **[lystia](https://osu.ppy.sh/users/11042418)** |
+| ::{ flag=GR }:: | **Greece** | **[JackPaX](https://osu.ppy.sh/users/11226645)** |
+| ::{ flag=HK }:: | **Hong Kong** | **[Shiraha Yuki](https://osu.ppy.sh/users/10829419)** |
+| ::{ flag=HR }:: | **Croatia** | **[KarliXon](https://osu.ppy.sh/users/9283403)** |
+| ::{ flag=HU }:: | **Hungary** | **[Lexion](https://osu.ppy.sh/users/5271371)** |
+| ::{ flag=ID }:: | **Indonesia** | **[Skydiver](https://osu.ppy.sh/users/4750008)** |
+| ::{ flag=IL }:: | **Israel** | **[PaintedKoala](https://osu.ppy.sh/users/10056419)** |
+| ::{ flag=IT }:: | **Italy** | **[Ryuzaki](https://osu.ppy.sh/users/7165477)** |
+| ::{ flag=JP }:: | **Japan** | **[rollpan](https://osu.ppy.sh/users/3062998)** |
+| ::{ flag=KR }:: | **South Korea** | **[Karuna](https://osu.ppy.sh/users/8775024)** |
+| ::{ flag=KZ }:: | **Kazakhstan** | **[Calideon](https://osu.ppy.sh/users/5175726)** |
+| ::{ flag=LT }:: | **Lithuania** | **[shineroo](https://osu.ppy.sh/users/4360718)** |
+| ::{ flag=LV }:: | **Latvia** | **[waywern2012](https://osu.ppy.sh/users/5870453)** |
+| ::{ flag=MX }:: | **Mexico** | **[-Wolfy-](https://osu.ppy.sh/users/4497582)** |
+| ::{ flag=MY }:: | **Malaysia** | **[Rampax](https://osu.ppy.sh/users/3995630)** |
+| ::{ flag=NL }:: | **Netherlands** | **[Skyrovania](https://osu.ppy.sh/users/4696315)** |
+| ::{ flag=NO }:: | **Norway** | **[YokesPai](https://osu.ppy.sh/users/6399568)** |
+| ::{ flag=NZ }:: | **New Zealand** | **[Zoomer](https://osu.ppy.sh/users/6600930)** |
+| ::{ flag=PE }:: | **Peru** | **[\[MG\]HatsuneMiku](https://osu.ppy.sh/users/2291265)** |
+| ::{ flag=PH }:: | **Philippines** | **[BronyPH](https://osu.ppy.sh/users/1492995)** |
+| ::{ flag=PL }:: | **Poland** | **[maliszewski](https://osu.ppy.sh/users/12408961)** |
+| ::{ flag=PT }:: | **Portugal** | **[MakiDonalds](https://osu.ppy.sh/users/11610772)** |
+| ::{ flag=RO }:: | **Romania** | **[badeu](https://osu.ppy.sh/users/1473890)** |
+| ::{ flag=RU }:: | **Russian Federation** | **[Vitya1437](https://osu.ppy.sh/users/4346274)** |
+| ::{ flag=SE }:: | **Sweden** | **[Saika0k1](https://osu.ppy.sh/users/4316633)** |
+| ::{ flag=SG }:: | **Singapore** | **[Tebi](https://osu.ppy.sh/users/5407620)** |
+| ::{ flag=SK }:: | **Slovakia** | **[Tikef](https://osu.ppy.sh/users/9149213)** |
+| ::{ flag=TH }:: | **Thailand** | **[namirin1](https://osu.ppy.sh/users/10249166)** |
+| ::{ flag=TR }:: | **Turkey** | **[heyronii](https://osu.ppy.sh/users/5642779)** |
+| ::{ flag=TW }:: | **Taiwan** | **[DazzLE\_Wind](https://osu.ppy.sh/users/2537924)** |
+| ::{ flag=UA }:: | **Ukraine** | **[Kryterion](https://osu.ppy.sh/users/9920144)** |
+| ::{ flag=US }:: | **United States** | **[im a fancy lad](https://osu.ppy.sh/users/4908650)** |
+| ::{ flag=UY }:: | **Uruguay** | **[daanit](https://osu.ppy.sh/users/6159669)** |
+| ::{ flag=VN }:: | **Vietnam** | **[Tuon](https://osu.ppy.sh/users/6673790)** |
 
 ## Ruleset
 
