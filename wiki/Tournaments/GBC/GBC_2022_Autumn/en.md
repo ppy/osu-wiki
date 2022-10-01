@@ -80,7 +80,7 @@ The GB Cup 2022 Autumn is run by the Team GB and various community members.
 4. Player can't be banned in a match until he has finished a game in this match.
 5. The team that picks beatmaps first cannot ban players during the first 2 rounds.
 6. Picking beatmaps and banning players should be sent using a single message. If a team continues to be slow at banning, referees have rights to **ignore the ban**.
-7. "Total matches score difference" added as a last resort for ranking in regular stage.
+7. "Sum of all score differences of each beatmap" added as a last method for determining ranking in the regular stage.
 8. Mappool size increased by 2 maps.
 9. For Regular stage ranking, now compare beatmap difference first, then opposite wins[^ow].
 
@@ -89,7 +89,7 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
 10. The winner of the `!roll` could **choose** to pick first or ban first of the match.
 11. A failed player's score will still get added to the team score.
 12. Teams are allowed to rematch if any team member disconnects early on during a beatmap.
-13. Referees have rights to lower or higher timer settings.
+13. Referees have the right to increase or decrease timer settings.
 14. Calling a tactical timeout on a tiebreaker requires the agreement of both teams' captains.
 15. NoFail mod can used in the FreeMod bracket.
 
@@ -197,7 +197,7 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
 9. After the drafting phase, captains may choose, with the approval of the host, to delegate their role to other prospective team members.
 10. Captains may also choose to rename their team name after the drafting phase.
     - The default name of team is: `Team {X}`, with `{X}` being an abbreviation of the captain's name.
-    - Team names can't be longer than **12** characters (Chinese character is considered as 1).
+    - Team names cannot be longer than **12** characters (a Chinese character is considered as 1).
 11. Bad behaviour during the drafting phase will be seen as disrupting the match by foul play.
 
 ### Regular stage instructions
@@ -210,7 +210,7 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
    - Most Opposite won[^ow]
    - Most beatmaps won
    - Fewest beatmaps lost
-   - Highest total matches score difference (`∑(score difference in each beatmaps)` in the whole regular stage)
+   - Sum of all score differences of each beatmap (`∑(total score - opponent's total score)` for each beatmap played in the regular stage)
    - Dice roll
 3. The top 8 teams will advanced to the Playoff stage, while the remaining players get eliminated from the tournament.
    - This means that teams with a record of `3-X` will advance to the next stage, while teams with a record of `X-3` will be eliminated.
@@ -238,7 +238,7 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
    - Any player can only be banned like this **once** per match.
    - The team that picks beatmaps first cannot ban players during the first 2 rounds.
      - As a consequence of the earlier rules, no teams are allowed to ban players during the first round since no one has finished playing any beatmaps.
-   - Team that is picking beatmaps should ban player first.
+   - The team that is currently picking a beatmap gets to ban a player first, before the other team.
    - If less than required player avaliable, banning player might be limited by host considering.
      - This rule should not be abused. Host reserves rights to penalize a team if they find that cases.
 6. Teams will have 2 minutes to pick a beatmap and ban an opposing player , and 2 minutes to get ready. If a team takes more time than allowed, the procedures adopted will be as follows:
