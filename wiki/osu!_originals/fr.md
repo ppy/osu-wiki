@@ -80,6 +80,8 @@ Toutes les osu! originals qui ont été autorisées à l'utilisation par le jeu 
 | :-: | :-- |
 | [Rabbit House - Gehenna](https://soundcloud.com/dksslqj/gehenna) |  |
 
+<!-- lint ignore no-heading-punctuation -->
+
 #### [yuki.](https://osu.ppy.sh/beatmaps/artists/4)
 
 *Pour l'article d'annonce, voir : [Community Mapping Contest #1 - yuki. (Nadeshiko Sensation)](https://osu.ppy.sh/home/news/2016-09-28-community-mapping-contest-1-yuki-nadeshiko)*
