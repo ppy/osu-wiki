@@ -50,13 +50,14 @@ The GB Cup 2022 Autumn is run by the Team GB and various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
-| Staff | ::{ flag=CN }:: [\[GB\]gluefly](https://osu.ppy.sh/users/8715409), ::{ flag=GB }:: [-Deepdive-](https://osu.ppy.sh/users/13338645), ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501), ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561) |
-| Mappool selector | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260), ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501), ::{ flag=CN }:: [Yueast 2018](https://osu.ppy.sh/users/13953619) |
-| Mappool helper | *TBA* |
+| Staff | ::{ flag=CN }:: [\[GB\]gluefly](https://osu.ppy.sh/users/8715409), ::{ flag=GB }:: [-Deepdive-](https://osu.ppy.sh/users/13338645), ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501) |
+| Mappool selector | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260), ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [Yueast 2018](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501) |
+| SV mappool selector | ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561) |
+| Mappool helper | ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831),::{ flag=GB }:: [-Deepdive-](https://osu.ppy.sh/users/13338645), ::{ flag=CN }:: [Lubei_01](https://osu.ppy.sh/users/11692528) |
 | Referee | *TBA* |
 | Commentator | *TBA* |
 | Streamer | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617) |
-| Designer | ::{ flag=CN }:: [\[GB\]PlayandyoU](https://osu.ppy.sh/users/14759634) |
+| Designer | ::{ flag=CN }:: [\[GB\]PlayandyoU](https://osu.ppy.sh/users/14759634), ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561)  |
 | Statistician | ::{ flag=CN }:: [\[GB\]Rush\_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=CN }:: [\[GB\]Yuria](https://osu.ppy.sh/users/13092888), ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
 
 ## Links
@@ -73,8 +74,8 @@ The GB Cup 2022 Autumn is run by the Team GB and various community members.
 
 ### Changes from last tournament
 
-1. Qualifier stage added, for determining captain role, result will be used in Drafting phase.
-2. There will be some players been eliminated in qualifier and Drafting phase.
+1. Qualifier stage added, for determining captain role, result will be used in drafting phase.
+2. There will be some players been eliminated in qualifier and drafting phase.
 3. Regular stage have 4 rounds, used to be 3. only teams with 2-1 or 1-2 record will participate round 4.
 4. Player can't be banned in a match until he has finished a game in this match.
 5. The team that picks beatmaps first cannot ban players during the first 2 rounds.
@@ -144,7 +145,7 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
 2. To ensure valid and serious registrations, every registered user will be manually checked by the host.
    - To be successfully registered, a player must not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
    - **There are no rank limitations for this tournament.** If there are too many registrants, some of the high-level registrants may be removed from the main tournament and be invited to participate in the showmatch instead.
-3. A list of all successfully registered players will be published after the registration phase, and will then participate in the Drafting phase.
+3. A list of all successfully registered players will be published after the registration phase, and will then participate in the drafting phase.
 4. [Tournament staff members](/wiki/Tournaments/Official_support#what-is-considered-staff) must not participate as players in the tournament.
 5. Organisers reserve the right to decline restricted players from participating in the tournament.
 
@@ -164,8 +165,8 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
 6. All players will play their qualifiers in separate rooms. *We suggest players not to broadcast or share their results to avoid seed manipulation*.
 7. Qualifier stage's result will using to seeding and choosen captains.
    - Higher scores lead to a higher chance to be picked during drafting phase. Players are eliminated if they do not get picked, or if they get too low of a score during Qualifers.
-8. Some best-performance players will advance to Drafting phase.
-   - The number of players advanced will be determined by how many players required on Drafting phase. (i.e. For 16 teams, each team have 5 players' size, total `16*5=80` players are required on Drafting phase. So *about* Top 85 will be advanced to Drafting phase, giving captains some extra choices for last pick.) *This might change depending on the number of incoming registrations.* 
+8. Some best-performance players will advance to drafting phase.
+   - The number of players advanced will be determined by how many players required on drafting phase. (i.e. For 16 teams, each team have 5 players' size, total `16*5=80` players are required on drafting phase. So *about* Top 85 will be advanced to drafting phase, giving captains some extra choices for last pick.) *This might change depending on the number of incoming registrations.* 
    - Disrupting the match by foul play or seed manipulation will result in disqualification, and any such players will be announced before the drafting phase takes place.
 
 ### Stage instructions
@@ -192,8 +193,8 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
 6. If the captain picks a player, the pick time still has to elapse before the next captain's turn starts, meaning each phase will take 16 minutes.
 7. After each phase, there is a 60-second break before the next phase starts.
 8. At all times, the captains may communicate with each other via multiplayer chatrooms or voice chat. 
-   - Other players will be muted during the Drafting phase.
-9. After the Drafting phase, captains may choose, with the approval of the host, to delegate their role to other prospective team members.
+   - Other players will be muted during the drafting phase.
+9. After the drafting phase, captains may choose, with the approval of the host, to delegate their role to other prospective team members.
 10. Captains may also choose to rename their team name after the drafting phase.
     - The default name of team is: `Team {X}`, with `{X}` being an abbreviation of the captain's name.
     - Team names can't be longer than **12** characters (Chinese character is considered as 1).
@@ -201,7 +202,7 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
 
 ### Regular stage instructions
 
-1. Following the Drafting phase, a 4-round Swiss stage will be played. This means teams with same record will face each other.
+1. Following the drafting phase, a 4-round Swiss stage will be played. This means teams with same record will face each other.
 2. The final ranking of the Swiss round will be determined by the following criteria in order:
    - Most matches won
    - Head-to-head result (if possible)
@@ -220,7 +221,7 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
 ### Win conditions
 
 - In the Qualifier stage, player need to ranking high enough to advanced.
-- In Drafting phase, player need to being picked into a team or become captains to advanced.
+- In drafting phase, player need to being picked into a team or become captains to advanced.
 - In the Regular stage, teams need to win 6 maps to win a match (best of 11).
 - In Quarterfinals, Semifinals and Finals, teams need to win 7 maps to win a match (best of 13).
 
@@ -241,7 +242,7 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
    - If less than required player avaliable, banning player might be limited by host considering.
      - This rule should not be abused. Host reserves rights to penalize a team if they find that cases.
 6. Teams will have 2 minutes to pick a beatmap and ban an opposing player , and 2 minutes to get ready. If a team takes more time than allowed, the procedures adopted will be as follows:
-   - Picking beatmaps and banning players should be sent **at a single message**, if a team continues to be slow at banning, referees have rights to **ignore this ban**.
+   - Picking beatmaps and banning players should be sent **using a single message**. If a team continues to be slow at banning, referees have rights to **ignore the ban**.
    - For the first occurrence:
      - The team will receive a verbal warning from the referee
    - On subsequent occurrences:
