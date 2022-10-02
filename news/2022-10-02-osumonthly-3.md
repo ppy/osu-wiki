@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!monthly, September 2022"
-date: 2022-10-01 10:00:00 +0000
+date: 2022-10-02 19:00:00 +0000
 ---
 
 ![](/wiki/shared/news/2022-10-01-osumonthly-3/banner.jpg)
