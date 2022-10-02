@@ -19,7 +19,7 @@ tags:
 
 Ein **Nutzertitel** ist eine kurze Bezeichnung auf der Profilseite eines Nutzers, die vom [osu!-Team](/wiki/People/The_Team) festgelegt wird. Die meisten Titel geben die Mitgliedschaft in einer [Benutzergruppe](/wiki/People/The_Team#benutzergruppen) an, aber manche Benutzer haben sich [einzigartige Titel](/wiki/People/Users_with_unique_titles) für spezifische Errungenschaften oder Beiträge verdient.
 
-Die Farbe des Nutzertitels ist dieselbe wie die Farbe des Nutzers, die in der Regel ebenfalls durch die Gruppenmitgliedschaft festgelegt wird. Wenn der Nutzer keine Farbe eingestellt hat, ist der Titel weiß.
+Die Farbe des Nutzertitels ist dieselbe wie die Farbe des Nutzers, die in der Regel ebenfalls durch die Gruppenmitgliedschaft festgelegt wird. Wenn für den Nutzer keine Farbe festgelegt ist, ist der Titel weiß.
 
 ## Geschichte
 
