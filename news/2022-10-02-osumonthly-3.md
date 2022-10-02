@@ -154,9 +154,9 @@ We will also be posting the answers of last month's quiz as we feel it only make
 
 Now that that's out of the way, the question we have prepared for you is:
 
-Who rewrote the medal system in 2016?
+*Who rewrote the medal system in 2016?*
 
-The first person to provide the correct answer will receive 1 month of supporter!
+The first person to provide the correct answer will receive 1 month of osu!supporter!
 
 ## Things to look out for in October
 
