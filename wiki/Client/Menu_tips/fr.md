@@ -95,7 +95,7 @@ Ces astuces apparaissent dans l'[éditeur de beatmap](/wiki/Client/Beatmap_edito
 
 <!-- Source: https://github.com/ppy/osu/blob/master/osu.Game/Screens/Menu/Disclaimer.cs -->
 
-Ces astuces apparaissent dans la [version lazer du client](https://github.com/ppy/osu-lazer), au démarrage, avant la séquence d'introduction.
+Ces astuces apparaissent dans la [version lazer du client](https://github.com/ppy/osu-lazer), au démarrage, avant la séquence d'introduction. Notez qu'elles ne sont cependant pas encore traduites dans le jeu, donc uniquement disponibles en anglais.
 
 - Vous pouvez appuyer sur `Ctrl` + `T` n'importe où dans le jeu pour basculer la barre d'outils !
 - Vous pouvez appuyer sur `Ctrl` + `O` n'importe où dans le jeu pour accéder aux options !
