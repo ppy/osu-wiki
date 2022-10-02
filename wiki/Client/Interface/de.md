@@ -13,7 +13,7 @@ Dieser Artikel erklärt alles, was du über die Benutzung des Spiel-Clients von 
 - \[3\] Klicke auf `Edit` (oder drücke `E`), um eine [Beatmap](/wiki/Beatmap) zu editieren.
 - \[4\] Klicke auf `Options` (oder drücke `O`), um die [Optionsleiste](/wiki/Client/Options) zu öffnen.
 - \[5\] Klicke auf `Exit` (oder drücke `Esc`), um das Spiel zu verlassen.
-- \[6\] Ein zufälliger, nützlicher Tipp.
+- \[6\] Ein zufälliger, nützlicher [Tipp](/wiki/Client/Menu_tips).
 - \[7\] Das [ppy](https://ppy.sh/)-Logo zusammen mit den Urheberrechtsinformationen. Beim Anklicken wird man zur [osu!-Webseite](https://osu.ppy.sh/home) weitergeleitet.
 - \[8\] Sobald Verbindungsprobleme mit dem [Bancho-Server](/wiki/Bancho_(server)) auftreten, wird hier ein gebrochenes Kettenglied angezeigt.
 - \[9\] Der [Chat](/wiki/Client/Interface/Chat_console) und zur linken Seite der Button für das erweiterte Chat-Fenster, welches alle aktuellen Online-Nutzer auflistet. Diese sind auch über `F8` bzw. `F9` entsprechend umschaltbar.
