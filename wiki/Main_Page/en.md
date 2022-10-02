@@ -98,7 +98,7 @@ Do your part: [How and what to help with](/wiki/Community/How_you_can_help!) •
 
 Social interaction is one of main things that fuel osu! players all around the world. Explore the activities and contests, get in touch with others, or help organise the next big event!
 
-Places: [Forum](/wiki/Community/Forum) • [Chat](/wiki/Community/Internet_Relay_Chat) • [osu!dev Discord server](/wiki/Community/osu!dev_Discord_server)
+Places: [Forum](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_Chat) • [osu!dev Discord server](/wiki/Community/osu!dev_Discord_server)
 
 [Tournaments](/wiki/Tournaments) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Contests](/wiki/Contests) • [Community mentorship program](/wiki/Community/Community_Mentorship_Program)
 
