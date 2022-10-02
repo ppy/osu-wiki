@@ -7,9 +7,9 @@ tags:
 
 *For other uses, see [Bancho (disambiguation)](/wiki/Disambiguation/Bancho).*
 
-**Bancho** (previously *osu!bancho*) is a code name of the server component which handles real-time interactions between players running stable versions of osu!:
+**Bancho** (sometimes *osu!Bancho*) is a code name of the server component which handles real-time interactions between players running stable versions of osu!:
 
-- [Online presence](/wiki/Client/Interface/Chat_console#extended-chat-console) and the [IRC gateway for chat](/wiki/Community/Internet_Relay_Chat)
+- Chat system, [online presence](/wiki/Client/Interface/Chat_console#extended-chat-console), and the [IRC gateway](/wiki/Community/Internet_Relay_Chat)
 - [Spectator](/wiki/Gameplay/Spectating) mode
 - [Multiplayer system](/wiki/Client/Interface/Multiplayer) and [tournament management](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands)
 
