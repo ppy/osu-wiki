@@ -66,7 +66,7 @@ If you are interested in checking out all of the entries, [you can do so here](h
 
 ![](/wiki/shared/news/2022-10-01-osumonthly-3/medalsbanner.jpg)
 
-After two years, the community has finally received a new batch of Hush-Hush medals along with 3 new beatmap pack medals! The most dedicated of medal hunters have already found the means to obtain them within just 5 days of their release, with the Lightless medal causing the biggest of headaches and taking 4 days of non-stop searching to solve!
+The community has been graced with the third batch of Hush-Hush medals for this year, along with 3 new beatmap pack medals! The most dedicated of medal hunters have already found the means to obtain them within just 5 days of their release, with the Lightless medal causing the biggest of headaches and taking 4 days of non-stop searching to solve!
 
 Word on the street is that there will be more Hush-Hush medals coming soon, so if you feel like joining the hunt when they come out, go check out the [Medal Hunters Discord server](https://discord.com/invite/8qpNTs6). Of course, if you feel like solving any of the Hush-Hush medals on your own — not just these new ones — they're all waiting for you.
 
