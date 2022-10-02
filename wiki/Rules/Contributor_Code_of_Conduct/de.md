@@ -8,7 +8,7 @@ Wir verpflichten uns, auf eine Weise zu handeln und zu interagieren, die zu eine
 
 ## Unser Anspruch
 
-Beispiele für Verhalten, das zu einem positiven Umfeld für unsere Community beiträgt, beinhaltet:
+Beispiele für Verhalten, das zu einem positiven Umfeld für unsere Community beiträgt, beinhalten:
 
 - Einfühlungsvermögen und Freundlichkeit gegenüber anderen Menschen zeigen
 - Respekt vor unterschiedlichen Meinungen, Standpunkten und Erfahrungen
@@ -28,7 +28,7 @@ Beispiele für inakzeptables Verhalten sind:
 
 Die Führungspersönlichkeiten der Community sind für die Klärung und Durchsetzung unserer Standards für akzeptables Verhalten verantwortlich und werden angemessene und faire Korrekturmaßnahmen als Reaktion auf jedes Verhalten ergreifen, das sie als unangemessen, bedrohlich, anstößig oder verletzend ansehen.
 
-Die Führungspersönlichkeiten der Community haben das Recht und die Verantwortung, Beiträge, die nicht diesem Verhaltenskodex entsprechen, zu entfernen, zu bearbeiten oder abzulehnen. Sie werden gegebenenfalls die Gründe für Entscheidungen über die Moderation mitteilen.
+Die Führungspersönlichkeiten der Community haben das Recht und die Verantwortung, Beiträge, die nicht diesem Verhaltenskodex entsprechen, zu entfernen, zu bearbeiten oder abzulehnen. Sie werden gegebenenfalls die Gründe für Moderationsentscheidungen mitteilen.
 
 ## Geltungsbereich
 
@@ -49,7 +49,7 @@ Alle Community-Leiter sind dazu verpflichtet, die Privatsphäre und Sicherheit d
 
 ## Richtlinien für die Durchsetzung
 
-Die Führungspersönlichkeiten der Community werden sich an diese Richtlinien für die Auswirkungen auf die Community richten, um die Konsequenzen jedes Handelns zu bestimmen, das sie als Verstoß gegen diesen Verhaltenskodex ansehen:
+Die Führungspersönlichkeiten der Community werden sich an diesen Richtlinien für die Auswirkungen auf die Community orientieren, um die Konsequenzen jedes Handelns zu bestimmen, das sie als Verstoß gegen diesen Verhaltenskodex ansehen:
 
 ### 1. Berichtigung
 
@@ -61,24 +61,24 @@ Die Führungspersönlichkeiten der Community werden sich an diese Richtlinien f�
 
 **Auswirkungen auf die Community**: Ein Verstoß durch einen einzigen Vorfall oder eine Reihe an Aktionen.
 
-**Konsequenz**: Eine Warnung mit Konsequenzen für anhaltendes Verhalten. Keine Interaktion für einen bestimmten Zeitraum mit den involvierten Personen, einschließlich unaufgeforderte Interaktionen mit denen, die den Verhaltenskodex durchsetzen. Das beinhaltet die Vermeidung von Interaktionen an Community-Orten sowie in externen Kanälen wie Social-Media. Ein Verstoß gegen diese Bedingungen kann zu einer vorübergehenden oder dauerhaften Sperre führen.
+**Konsequenz**: Eine Warnung mit Konsequenzen für anhaltendes Verhalten. Keine Interaktion für einen bestimmten Zeitraum mit den involvierten Personen, einschließlich unaufgeforderter Interaktionen mit denen, die den Verhaltenskodex durchsetzen. Das beinhaltet die Vermeidung von Interaktionen an Community-Orten sowie in externen Kanälen wie Social-Media. Ein Verstoß gegen diese Bedingungen kann zu einer vorübergehenden oder dauerhaften Sperre führen.
 
 ### 3. Temporäre Sperre
 
-**Auswirkungen auf die Community**: Ein schwerwiegender Verstoß gegen die Community-Standards, einschließlich anhaltend unangemessenes Verhalten.
+**Auswirkungen auf die Community**: Ein schwerwiegender Verstoß gegen die Community-Standards, einschließlich anhaltend unangemessenem Verhalten.
 
-**Konsequenz**: Eine vorübergehende Sperre von jeder Art von Interaktion oder öffentlicher Kommunikation mit der Community für einen bestimmten Zeitraum. Keine öffentlichen oder privaten Interaktionen mit den involvierten Personen ist während dieser Zeitspanne erlaubt, einschließlich unaufgeforderte Interaktionen mit denen, die den Verhaltenskodex durchsetzen. Ein Verstoß gegen diese Bedingungen kann zu einer permanenten Sperre führen.
+**Konsequenz**: Eine vorübergehende Sperre von jeder Art von Interaktion oder öffentlicher Kommunikation mit der Community für einen bestimmten Zeitraum. Keine öffentlichen oder privaten Interaktionen mit den involvierten Personen ist während dieser Zeitspanne erlaubt, einschließlich unaufgeforderter Interaktionen mit denen, die den Verhaltenskodex durchsetzen. Ein Verstoß gegen diese Bedingungen kann zu einer permanenten Sperre führen.
 
 ### 4. Dauerhafte Sperre
 
-**Auswirkungen auf die Community**: Das Vormachen von Verstößen gegen die Community-Standards, einschließlich anhaltend unangemessenes Verhalten, Belästigung von Einzelpersonen oder Aggression oder Herabwürdigung gegen Personengruppen.
+**Auswirkungen auf die Community**: Das Vormachen von anhaltenden Verstößen gegen die Community-Standards, einschließlich anhaltend unangemessenem Verhalten, Belästigung von Einzelpersonen oder Aggression oder Herabwürdigung gegen Personengruppen.
 
 **Konsequenz**: Eine dauerhafte Sperre von jeder Art von öffentlicher Interaktion innerhalb der Community.
 
 ## Quellen
 
-Dieser Verhaltenskodex wurde aus dem [Contributor Covenant](https://www.contributor-covenant.org) adaptiert, verfügbar unter <https://www.contributor-covenant.org/version/2/0/code_of_conduct.html>.
+Dieser Verhaltenskodex wurde aus der [Vereinbarung über den Verhaltenskodex für Mitwirkende](https://www.contributor-covenant.org) adaptiert, verfügbar unter <https://www.contributor-covenant.org/de/version/2/0/code_of_conduct>.
 
 Die Richtlinien für die Auswirkungen auf die Community sind aus [Mozillas Verhaltenskodex (Englisch)](https://github.com/mozilla/diversity) inspiriert.
 
-Für Antworten auf häufige Fragen über den Verhaltenskodex, siehe das FAQ unter <https://www.contributor-covenant.org/faq>. Übersetzungen sind erhältlich unter <https://www.contributor-covenant.org/translations>.
+Für Antworten auf häufige Fragen über den Verhaltenskodex, siehe das FAQ unter <https://www.contributor-covenant.org/faq>. Andere Übersetzungen sind erhältlich unter <https://www.contributor-covenant.org/translations>.
