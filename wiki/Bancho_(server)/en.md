@@ -13,13 +13,13 @@ tags:
 - [Spectator](/wiki/Gameplay/Spectating) mode
 - [Multiplayer system](/wiki/Client/Interface/Multiplayer) and [tournament management](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands)
 
-During maintenance periods, Bancho is sometimes restarted. This is relayed to all online users via an in-game announcement system, as well as periodic warning messages in the chat with a countdown. Bancho restarts only affect chat and multiplayer, as all other functionality is handled via different APIs.[^score-upload-ref]
-
 ::: Infobox
 ![](img/connection-warning.png "Screenshot of the main menu with the bad connection symbol (bottom right, first)")
 :::
 
 In case of poor connection to Bancho, osu! warns the player by showing a broken chain link icon in the bottom-right corner of the screen.
+
+During maintenance periods, Bancho is sometimes restarted. This is relayed to all online users via an in-game announcement system, as well as periodic warning messages in the chat with a countdown. Bancho restarts only affect chat and multiplayer, as all other functionality is handled via different APIs.[^score-upload-ref]
 
 ## References
 
