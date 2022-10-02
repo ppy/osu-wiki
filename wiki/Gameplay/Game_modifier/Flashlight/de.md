@@ -58,7 +58,7 @@ In [osu!catch](/wiki/Game_mode/osu!catch) ist das Verhalten der Mod Flashlight d
 
 ![FL-Gameplay in catch](img/FL-catch.jpg "Gameplay in osu!catch mit der aktivierten Mod Flashlight")
 
-Wenn die Mod Hidden ebenfalls aktiviert ist, sind die Fruits vorübergehend sichtbar, sofern sich der Catcher *direkt unter* den Fruits befindet. Das gilt solange, bis der Spieler eine 100er Combo erreicht. Danach sind die Fruits vollständig unsichtbar, bis sie den sichtbaren Bereich erreichen. Ähnlich wie in osu! und osu!taiko erfordert das auch das vollständige Auswendiglernen der Beatmap.
+Wenn die Mod Hidden ebenfalls aktiviert ist, sind die Fruits vorübergehend sichtbar, sofern sich der Catcher *direkt unter* den Fruits befindet. Das gilt solange, bis der Spieler eine 100er Combo erreicht. Danach sind die Fruits vollständig unsichtbar, wenn sie den sichtbaren Bereich erreichen. Ähnlich wie in osu! und osu!taiko erfordert das auch das vollständige Auswendiglernen der Beatmap.
 
 ### osu!mania
 
