@@ -52,7 +52,7 @@ Alle mögen es, besser zu werden und brauchen dafür Feedback. Oft fragen Nutzer
 
 ## Hilf oder tritt von Benutzern veranstalteten Community-Projekten bei
 
-osu! hat eine blühende Community von technischen und wettbewerbsfähigen Menschen. Sie reichen von Spielenthusiasten bis zu erfahrenen Rhythmusspiel-Veteranen. Es gibt eine Menge an Vorschlägen und Projekten, die exklusiv für osu! kreiert werden und du kannst ihnen helfen oder beeinflusse die Zukunft von osu! mit deinen eigenen Vorschlägen/Projekten!
+osu! hat eine blühende Community von technischen und wettbewerbsfähigen Menschen. Sie reichen von Spielenthusiasten bis zu erfahrenen Rhythmusspiel-Veteranen. Es gibt eine Menge an Vorschlägen und Projekten, die exklusiv für osu! kreiert werden und du kannst ihnen helfen oder die Zukunft von osu! mit deinen eigenen Vorschlägen/Projekten beeinflussen!
 
 Hier sind einige Beispiele, wie du beitragen kannst:
 
@@ -67,7 +67,7 @@ Hier sind einige Beispiele, wie du beitragen kannst:
 
 Das 2017 gestartete osu!(lazer)-Projekt ist der aktuelle Schwerpunkt des osu!-Teams, zusammen mit der neuen Webseite, die du heute siehst! Wenn du dabei helfen möchtest, diese Projekte noch besser zu machen und uns näher an die Zukunft von osu! zu bringen, dann gibt es eine Reihe von Dingen, die du machen kannst, unten sind jedoch nur einige Beispiele:
 
-- Hilf im [osu!(lazer)](https://github.com/ppy/osu)-Projekt. Es gibt so viel zu implementieren in der neuen Version von osu! und du kannst dabei helfen!
+- Hilf im [osu!(lazer)](https://github.com/ppy/osu)-Projekt. Es gibt in der neuen Version von osu! so viel zu implementieren und du kannst dabei helfen!
 - Mache die [Webseite](https://github.com/ppy/osu-web) noch besser.
 
 ## Vermeide es, negativ zu sein! Mache Menschen glücklich!
