@@ -47,6 +47,25 @@ Submissions to this contest include:
 | Δ = b² – 4ac | ::{ flag=BR }:: [Kalindraz](https://osu.ppy.sh/users/2313166), ::{ flag=BR }:: [NEURONIO](https://osu.ppy.sh/users/7198334), ::{ flag=BR }:: [Sakura Airi](https://osu.ppy.sh/users/8682057), ::{ flag=BR }:: [Maot](https://osu.ppy.sh/users/3914271) | ::{ flag=BR }:: [K4L1](https://osu.ppy.sh/users/11334594), ::{ flag=BR }:: [Maot](https://osu.ppy.sh/users/3914271) | [Beatmap link](https://osu.ppy.sh/beatmapsets/1842004) |
 | 三角形.tar.gz | ::{ flag=NO }:: [Fisky](https://osu.ppy.sh/users/8352623), ::{ flag=ID }:: [ScubDomino](https://osu.ppy.sh/users/8972308), ::{ flag=CN }:: [fanzhen0019](https://osu.ppy.sh/users/418699) | ::{ flag=RU }:: [Tommy Phelps](https://osu.ppy.sh/users/10974581), ::{ flag=DZ }:: [VenerableNyanta](https://osu.ppy.sh/users/12243368) | [Beatmap link](https://osu.ppy.sh/beatmapsets/1842041) |
 
+## Results
+
+| Rank | Team submission | Mapper panel | Storyboarder panel | Averaged total |
+| :-- | :-- | :-- | :-- | :-- |
+| \#1 | [Crazy Thursday](https://osu.ppy.sh/beatmapsets/1841885) | 143 | 127 | **254.11** |
+| \#2 | [Crush the Candy Boys](https://osu.ppy.sh/beatmapsets/1841845) | 142 | 105 | **231.22** |
+| \#3 | [三角形.tar.gz](https://osu.ppy.sh/beatmapsets/1842041) | 84 | 149 | **223.67** |
+| \#4 | [absolutno pofig](https://osu.ppy.sh/beatmapsets/1841846) | 81 | 101 | **173** |
+| \#5 | [Δ = b² – 4ac](https://osu.ppy.sh/beatmapsets/1842004) | 78 | 84 | **153.33** |
+| \#6 | [?](https://osu.ppy.sh/beatmapsets/1841847) | 51 | 106 | **151.33** |
+| \#7 | [TV Sizers](https://osu.ppy.sh/beatmapsets/1841923) | 115 | 48 | **150.22** |
+| \#8 | [ULTRA ICE TEA](https://osu.ppy.sh/beatmapsets/1841926) | 68 | 84 | **144.44** |
+| \#9 | [Team Funny](https://osu.ppy.sh/beatmapsets/1842149) | 88 | 26 | **104.2222222** |
+| \#10 | [GokuLook Princesa](https://osu.ppy.sh/beatmapsets/1841839) | 69 | 42 | **103.33** |
+| \#11 | [Penta-force](https://osu.ppy.sh/beatmapsets/1841996) | 36 | 35 | **67** |
+| \#12 | dreamers | 9 | 8 | **16** |
+
+See detailed judging [here](https://docs.google.com/spreadsheets/d/1VwajV4Ibn-k_sNHiiPAXX0raXiX34-v7_6SBWUq2pPY/edit#gid=0).
+
 ## Prizes
 
 Contest judging will be handled by two panels of mappers and storyboarders. Because each group has its own specialty, the highest scoring team in each group will earn a separate prize.
