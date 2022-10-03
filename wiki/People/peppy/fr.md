@@ -12,7 +12,7 @@ tags:
 ## Liens
 
 - **[Site web](https://ppy.sh/)**
-- [Page de profile](https://osu.ppy.sh/users/2)
+- [Page de profil](https://osu.ppy.sh/users/2)
 - [Blog de ppy](https://blog.ppy.sh/)
 - [GitHub](https://github.com/peppy)
 - [Twitter](https://twitter.com/ppy)
