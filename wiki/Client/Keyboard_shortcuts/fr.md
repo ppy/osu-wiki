@@ -8,7 +8,7 @@ tags:
   - raccourcis
 ---
 
-# Liste des raccourcis claviers
+# Références des raccourcis claviers
 
 Il existe de nombreux raccourcis dans osu! qui peuvent être utilisés en jeu ou depuis n'importe quel menu. Ils sont listés ci-dessous avec leurs fonctions.
 

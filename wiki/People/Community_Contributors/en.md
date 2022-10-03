@@ -200,7 +200,7 @@ Not to be mistaken as [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), which ar
 | :-- | :-- |
 | ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263) | Outstanding contribution to the osu!taiko community tournament scene |
 | ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502) | Outstanding contribution to the development of osu!(lazer) |
-| ::{ flag=HR }:: [Susuko3](https://osu.ppy.sh/users/18945305) | Outstanding contribution to the development of osu!(lazer) and osu!framework |
+| ::{ flag=HR }:: [Susko3](https://osu.ppy.sh/users/18945305) | Outstanding contribution to the development of osu!(lazer) and osu!framework |
 | ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455) | Outstanding contribution to osu! performance points development and maintenance |
 | ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549) | Outstanding contribution to osu! performance points development |
 | ::{ flag=AU }:: [MBmasher](https://osu.ppy.sh/users/4498616) | Outstanding contribution to osu! performance points development and revitalizing the Flashlight mod |
