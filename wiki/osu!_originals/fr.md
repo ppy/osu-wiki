@@ -2,7 +2,7 @@
 
 Les **osu! originals** sont des musiques spécifiquement faites pour (ou ont fait leur première apparition sur) osu! ou d'autres événements en rapport avec osu! tels que les tournois, les concours, et les annonces de [Featured Artists](/wiki/Featured_Artists). Bien que les osu! originals ne soient pas toutes sous licence officielle et dans la [liste des Featured Artists](https://osu.ppy.sh/beatmaps/artists), les musiques qui le sont sont généralement distinguées par le label `ORIGINAL` sur les pages de leurs artistes respectifs.
 
-Toutes les osu! originals qui ont été autorisées à l'utilisation par le jeu peuvent être utilisées sur osu! à des conditions non exclusives conformément à la [politique de licence musicale d'osu!](/wiki/Legal/Music_licensing). À l'inverse, les osu! originals qui n'ont pas été autorisées à l'utilisation peuvent nécessiter une autorisation d'utilisation. Voir les [Directives d'utilisation du contenu](/wiki/Rules/Content_Usage_Guidelines) pour plus d'informations.
+Toutes les osu! originals sous licence officielle peuvent être utilisées sur osu! à des conditions non exclusives conformément à la [politique de licence musicale d'osu!](/wiki/Legal/Music_licensing). À l'inverse, les osu! originals qui ne sont pas sous licence officielle peuvent nécessiter une autorisation d'utilisation. Voir les [Directives d'utilisation du contenu](/wiki/Rules/Content_Usage_Guidelines) pour plus d'informations.
 
 ## Liste des osu! originals
 
@@ -106,7 +106,7 @@ Toutes les osu! originals qui ont été autorisées à l'utilisation par le jeu 
 | :-: | :-- |
 | [ZxNX - Altair](https://soundcloud.com/zxnx/alt) |  |
 
-### Official tournament releases
+### Sorties de tournois officiels
 
 #### ![](/wiki/shared/mode/osu.png) [osu! World Cup 2020](/wiki/Tournaments/OWC/2020)
 
@@ -167,7 +167,7 @@ Toutes les osu! originals qui ont été autorisées à l'utilisation par le jeu 
 | :-: | :-: | :-- |
 | [aa...hisuichazuke... - steganography](https://www.youtube.com/watch?v=CRD-2sk6Zt8)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1846639) | Tiebreaker des Grandes Finales |
 
-### Community-run tournament releases
+### Sorties des tournois gérés par la communauté
 
 #### ![](/wiki/shared/mode/mania.png) [4 Digit osu!mania World Cup 4](/wiki/Tournaments/4DM/4)
 
