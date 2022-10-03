@@ -98,7 +98,7 @@ Faites votre part : [Comment et avec quoi aider](/wiki/Community/How_you_can_hel
 
 L'interaction sociale est l'une des principales choses qui alimentent les joueurs d'osu! dans le monde entier. Explorez les activités et les concours, entrez en contact avec d'autres personnes ou aidez à organiser le prochain grand événement !
 
-Lieux d'échanges: [Forum](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_Chat)
+Lieux d'échanges : [Forum](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_Chat)
 
 [Tournois](/wiki/Tournaments) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Concours](/wiki/Contests) • [Community mentorship program](/wiki/Community/Community_Mentorship_Program)
 
