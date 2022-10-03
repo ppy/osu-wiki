@@ -470,6 +470,7 @@ All osu! originals that have been licensed by the game are cleared for use in os
 | [Shadren - Fanteer](https://soundcloud.com/shadren808/fanteer) | [#1](https://osu.ppy.sh/beatmapsets/725913) |  |
 | tieff - Sound of Night[^fa] | [#1](https://osu.ppy.sh/beatmapsets/15952) |  |
 | [-Tochi - Ascension (feat. Yoko Kanno)](https://www.youtube.com/watch?v=XvpOwOgdRww) | [#1](https://osu.ppy.sh/beatmapsets/1267316) |  |
+| [VINXIS - Joushou no Tabi \~ The Ascending Journey](https://www.youtube.com/watch?v=NAqdOfIVm2A)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1857663) |  |
 
 ## Notes
 
