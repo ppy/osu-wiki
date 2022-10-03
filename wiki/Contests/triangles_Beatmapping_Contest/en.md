@@ -22,13 +22,14 @@ Submissions to this contest include:
 | Submission phase | 2022-05-30/2022-07-27 |
 | Judging phase | 2022-07-28/2022-08-31 |
 | Community vote and lazer playlists | 2022-09-06/2022-09-25 |
-| Results announcement livestream | TBD |
+| Results announcement livestream | 2022-10-02 |
 
 ## Links
 
 - [Contest listing](https://osu.ppy.sh/community/contests/147)
 - [Contest announcement](https://osu.ppy.sh/home/news/2022-05-31-triangles)
 - [Voting announcement](https://osu.ppy.sh/home/news/2022-09-08-triangles-voting-phase)
+- [Results announcement livestream](https://www.twitch.tv/videos/1607587424)
 
 ## Teams
 
