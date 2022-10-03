@@ -100,7 +100,7 @@ Lade dir als erstes das Paket herunter, welches [die standardmäßigen osu!go-Da
 2. **Folge den Anweisungen *SEHR* genau und wende sie nur auf das osu!go-Gerät an, während du im Fenster der Datenträgerverwaltung bist.** Du könntest möglicherweise Daten verlieren, wenn du in diesem Dialog herumspielst.
 3. Überprüfe, in welchem Zustand dein Computer das Gerät erkennt.
 
-### Das osu!go-Gerät wird angezeigt, aber einem "RAW"-Status {#osu!go-raw}
+### Das osu!go-Gerät wird angezeigt, ist aber in einem "RAW"-Status {#osu!go-raw}
 
 **Das sieht im Datenträgerverwaltungsdialog folgendermaßen aus:**
 
