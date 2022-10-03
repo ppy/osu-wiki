@@ -241,9 +241,13 @@ Notes:
   - If [Hidden](/wiki/Gameplay/Game_modifier/Hidden) mod is enabled, this will fade in before getting tapped and only fade out.
 - This can either overlay or underlay the combo number, by default this will always overlay.
   - To make this underlay the combo number, set `HitCircleOverlayAboveNumber` to `0`.
-- Also used for `sliderstartcircleoverlay` and/or `sliderendcircleoverlay` if not skinned.
 - Should be a circle.
 - This element was animatable in the past. For full details, see [skinning history](/wiki/Skinning/History).
+
+The overlay's visibility on sliders depends on slider circle elements:
+
+- If `sliderstartcircle`/`sliderendcircle` exists in a skin without `sliderstartcircleoverlay`/`sliderendcircleoverlay`, then `hitcircleoverlay` isn't displayed at all on slider starts or ends.
+- If `sliderstartcircle`/`sliderendcircle` does not exist, then `hitcircleoverlay` is used as the overlay sprite for slider starts or ends.
 
 ---
 

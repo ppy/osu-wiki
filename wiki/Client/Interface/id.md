@@ -15,7 +15,7 @@ outdated_translation: true
 - \[3\] Klik Edit (E) untuk membuka layar pilihan lagu untuk [Penyunting](/wiki/Client/Beatmap_editor).
 - \[4\] Klik Options (O) dan jendela [opsi](/wiki/Client/Options) akan terbuka.
 - \[5\] Klik Exit (Esc) untuk keluar osu!.
-- \[6\] Tips yang bermanfaat ditampilkan secara acak di bagian bawah menu.
+- \[6\] [Tips](/wiki/Client/Menu_tips) yang bermanfaat ditampilkan secara acak di bagian bawah menu.
 - \[7\] Di pojok kiri bawah adalah link ke situs osu! itu.
 - \[8\] Hasil Koneksi ke Bancho!
 - \[9\] Di pojok kanan bawah yaitu adalah kontrol [Konsol Obrolan](/wiki/Community/Internet_Relay_Chat) (pintasan: F8&F9 ).
