@@ -50,7 +50,7 @@ Along with this prize, the storyboarders of this team have earned themselves the
 
 ### Runner-up winner
 
-Veteran winners from our previous team-based mapping contest [A Labour of Love](https://osu.ppy.sh/wiki/en/Contests/A_Labour_of_Love_Contest) made a return this year with [**the most artsy submission around**](https://osu.ppy.sh/beatmapsets/1841845)! Created by [Altai](https://osu.ppy.sh/users/5745865), [DeviousPanda](https://osu.ppy.sh/users/4966334), [Mao](https://osu.ppy.sh/users/2204515), [Noffy](https://osu.ppy.sh/users/1541323) and [TheDuckMask](https://osu.ppy.sh/users/7405768), this submission came super close to the winning spot in all categories, ultimately making it the **overall runner-up** in the contest!
+Veteran winners from our previous team-based mapping contest [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) made a return this year with [**the most artsy submission around**](https://osu.ppy.sh/beatmapsets/1841845)! Created by [Altai](https://osu.ppy.sh/users/5745865), [DeviousPanda](https://osu.ppy.sh/users/4966334), [Mao](https://osu.ppy.sh/users/2204515), [Noffy](https://osu.ppy.sh/users/1541323) and [TheDuckMask](https://osu.ppy.sh/users/7405768), this submission came super close to the winning spot in all categories, ultimately making it the **overall runner-up** in the contest!
 
 ![Overall runner-up](/wiki/shared/news/2022-10-03-results-triangles/runnerup.jpg)
 
@@ -145,7 +145,7 @@ Massive thanks to everyone involved this contest — whether that be as a partic
 
 Contests of this scope are always difficult to put together, but seeing the results from the community makes it entirely worth it.
 
-We'll be hosting more team-based creative community contests like this in the future while taking into consideration the pros and cons seen throughout this contest (and [A Labour of Love](https://osu.ppy.sh/wiki/en/Contests/A_Labour_of_Love_Contest) from last year).
+We'll be hosting more team-based creative community contests like this in the future while taking into consideration the pros and cons seen throughout this contest (and [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) from last year).
 
 Look forward to what's in store for osu!. :)
 
