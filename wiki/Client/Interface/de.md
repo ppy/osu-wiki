@@ -13,7 +13,7 @@ Dieser Artikel erklärt alles, was du über die Benutzung des Spiel-Clients von 
 - \[3\] Klicke auf `Edit` (oder drücke `E`), um eine [Beatmap](/wiki/Beatmap) zu editieren.
 - \[4\] Klicke auf `Options` (oder drücke `O`), um die [Optionsleiste](/wiki/Client/Options) zu öffnen.
 - \[5\] Klicke auf `Exit` (oder drücke `Esc`), um das Spiel zu verlassen.
-- \[6\] Ein zufälliger, nützlicher Tipp.
+- \[6\] Ein zufälliger, nützlicher [Tipp](/wiki/Client/Menu_tips).
 - \[7\] Das [ppy](https://ppy.sh/)-Logo zusammen mit den Urheberrechtsinformationen. Beim Anklicken wird man zur [osu!-Webseite](https://osu.ppy.sh/home) weitergeleitet.
 - \[8\] Sobald Verbindungsprobleme mit dem [Bancho-Server](/wiki/Bancho_(server)) auftreten, wird hier ein gebrochenes Kettenglied angezeigt.
 - \[9\] Der [Chat](/wiki/Client/Interface/Chat_console) und zur linken Seite der Button für das erweiterte Chat-Fenster, welches alle aktuellen Online-Nutzer auflistet. Diese sind auch über `F8` bzw. `F9` entsprechend umschaltbar.
@@ -251,7 +251,7 @@ Klicke auf den Button `Mods` oder drücke `F1`, um in die **[Modauswahl](/wiki/G
 
 In diesem Bereich kannst du Modifikationen (kurz "Mods") zum Spielverlauf hinzufügen. Einige Mods verringern die Schwierigkeit und verwenden einen Multiplikator, der den von dir erreichten Punktestand verringert. Dagegen steigern manche Mods die Schwierigkeit, aber verwenden einen Multiplikator, der den von dir erreichten Punktestand erhöht. Außerdem beeinflussen manche Mods den Spielverlauf auf eine andere Weise. [Relax](/wiki/Game_modifier/Relax) und [Auto Pilot](/wiki/Game_modifier/Autopilot) fallen unter diese Kategorie.
 
-Bewege deinen Cursor über das Modsymbol, um dir die Beschreibung dazu anzeigen zu lassen. Klicke auf das Modsymbol, um die Mod zu aktivieren oder zu deaktivieren. Einige Mods, wie z. B. Double Time, haben mehrere Variationen — klicke nochmals auf die Mod, um durch die Variationen durchzuwechseln. Der Punktemultiplikator zeigt den kombinierten Effekt an, den alle selektierten Mods auf deinen Punktestand haben werden. Klicke auf `Mods zurücksetzen` oder drücke `1`, um alle aktuell ausgewählten Mods zu deaktivieren. Klicke auf `Schließen`, drücke `2` oder `ESC`, um zurück zur Songauswahl zu gelangen.
+Bewege deinen Cursor über das Modsymbol, um dir die Beschreibung dazu anzeigen zu lassen. Klicke auf das Modsymbol, um die Mod zu aktivieren oder zu deaktivieren. Einige Mods, wie z. B. Double Time, haben mehrere Variationen — klicke nochmals auf die Mod, um durch die Variationen durchzuwechseln. Der Score-Multiplikator zeigt den kombinierten Effekt an, den alle selektierten Mods auf deinen Punktestand haben werden. Klicke auf `Mods zurücksetzen` oder drücke `1`, um alle aktuell ausgewählten Mods zu deaktivieren. Klicke auf `Schließen`, drücke `2` oder `ESC`, um zurück zur Songauswahl zu gelangen.
 
 Klicke auf den Button `Random` oder drücke `F2`, damit das Spiel **zufällig durch alle Beatmaps blättert und eine davon auswählt.**
 
