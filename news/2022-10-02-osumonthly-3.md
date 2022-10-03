@@ -100,7 +100,7 @@ With all this said, let us thank all organisers and staff members for hyping up 
 
 *Section written by [0x84f](https://osu.ppy.sh/users/7944724)*
 
-This month [Aricin](https://osu.ppy.sh/users/1419095) made a return and set some amazing scores, one of which we would love to showcase being his 3-miss score on [Night of Knights](https://osu.ppy.sh/scores/osu/4267347706).
+This month [Aricin](https://osu.ppy.sh/users/1419095) made a return and set some amazing scores, one of which we would love to showcase being his FC on [Night of Knights](https://osu.ppy.sh/scores/osu/4267347706).
 
 As the first person to pass the ~750 combo threshold, he truly showcased his amazing ability at not only speed, but his godlike finger control as well.
 
