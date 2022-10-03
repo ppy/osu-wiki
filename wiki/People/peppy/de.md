@@ -4,8 +4,6 @@ tags:
   - creator
   - Dean Herbert
   - Ersteller
-outdated_translation: true
-outdated_since: 3517ec8a4fbeb3c11bb8199546d2b346d0ab3b90
 ---
 
 # peppy
@@ -15,6 +13,7 @@ outdated_since: 3517ec8a4fbeb3c11bb8199546d2b346d0ab3b90
 ## Links
 
 - **[Webseite](https://ppy.sh/)**
+- [Profilseite](https://osu.ppy.sh/users/2)
 - [Blog von ppy](https://blog.ppy.sh/)
 - [GitHub](https://github.com/peppy)
 - [Twitter](https://twitter.com/ppy)
