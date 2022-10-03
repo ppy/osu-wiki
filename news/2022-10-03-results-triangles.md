@@ -72,7 +72,6 @@ Telling a story about how osu! reaches all corners of the world, [this submissio
 
 [![submission preview](/wiki/shared/news/2022-10-03-results-triangles/winnerpreview.png)](https://osu.ppy.sh/beatmapsets/1841885)
 
-
 Honestly, words don't do this justice. [Play the map yourself](https://osu.ppy.sh/beatmapsets/1841885) and soak in the storyboard to fully understand why it's the winner.
 
 [Play it.](https://osu.ppy.sh/beatmapsets/1841885)
@@ -116,8 +115,8 @@ Judging for this contest involved some experimentation. Instead of assigning raw
 
 1. Order the submissions from best to worst in their respective expertise (mapping or storyboarding).
 2. Assign a limited supply of bonus points based on standard judging categories.
-    - Mapping panel: technical skill, creativity, theme, outstanding Easy/Normal/Hard/Insane/Expert difficulty 
-    - Storyboarding panel: technical skill, creativity, theme, general storyboard impression
+   - Mapping panel: technical skill, creativity, theme, outstanding Easy/Normal/Hard/Insane/Expert difficulty 
+   - Storyboarding panel: technical skill, creativity, theme, general storyboard impression
 
 The first task earned a submission between 1 and 12 points (12 points for a judge's #1 map, 11 for #2, 10 for #3, etc.). Each bonus point added one additional point to the total. See the [judging compilation sheet](https://docs.google.com/spreadsheets/d/1VwajV4Ibn-k_sNHiiPAXX0raXiX34-v7_6SBWUq2pPY/edit#gid=0) to see the full judging breakdown, including all map quality orders, bonus point distributions, and judge comments!
 
