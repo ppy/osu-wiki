@@ -50,7 +50,7 @@ Todos los beatmaps de osu! son creados por la imaginación desbordante de su com
 
 Secciones: [Composición](/wiki/Client/Beatmap_editor/Compose) • [Diseño](/wiki/Client/Beatmap_editor/Design) • [Tiempo](/wiki/Client/Beatmap_editor/Timing) • [Configuración de la canción](/wiki/Client/Beatmap_editor/Song_Setup)
 
-Componentes: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Divisor de golpes](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) • [Distancía de golpes](/wiki/Client/Beatmap_editor/Distance_snap) • [Menú](/wiki/Client/Beatmap_editor/Menu) • [Carga de SB](/wiki/Client/Beatmap_editor/SB_Load) • [Líneas de tiempo](/wiki/Client/Beatmap_editor/Timelines)
+Componentes: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Divisor de golpes](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) • [Distancia de golpes](/wiki/Client/Beatmap_editor/Distance_snap) • [Menú](/wiki/Client/Beatmap_editor/Menu) • [Carga de SB](/wiki/Client/Beatmap_editor/SB_Load) • [Líneas de tiempo](/wiki/Client/Beatmap_editor/Timelines)
 
 Actividades: [Beatmapping](/wiki/Beatmapping) • [Técnicas para mapping](/wiki/Mapping_techniques) • [Storyboarding](/wiki/Storyboard#storyboarding) • [Skinning](/wiki/Skinning)
 
@@ -111,9 +111,9 @@ Organizaciones: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
 # [Personas](/wiki/People)
 
-osu! no hubiera sido posible sin tantos usuarios ayudando con el desarollo, mantenimiento, y gestión de la comunidad: sus esfuerzos, tiempo, y dedicación hacen que el juego viva y prospere.
+osu! no hubiera sido posible sin tantos usuarios ayudando con el desarrollo, mantenimiento, y gestión de la comunidad: sus esfuerzos, tiempo, y dedicación hacen que el juego viva y prospere.
 
-[El Equipo](/wiki/People/The_Team): [Desarolladores](/wiki/People/The_Team/Developers) • [Equipo de Moderación Global](/wiki/People/The_Team/Global_Moderation_Team) • [Equipo de Soporte](/wiki/People/The_Team/Support_Team) • [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Equipo del Proyecto Amado](/wiki/People/The_Team/Project_Loved_Team)
+[El Equipo](/wiki/People/The_Team): [Desarrolladores](/wiki/People/The_Team/Developers) • [Equipo de Moderación Global](/wiki/People/The_Team/Global_Moderation_Team) • [Equipo de Soporte](/wiki/People/The_Team/Support_Team) • [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Equipo del Proyecto Amado](/wiki/People/The_Team/Project_Loved_Team)
 
 [Colaboradores de la comunidad](/wiki/People/Community_Contributors) • [Usuarios con títulos únicos](/wiki/People/Users_with_unique_titles) • [Comité de torneo](/wiki/People/Tournament_Committee) • [Comité de Puntos de Rendimiento](/wiki/People/Performance_Points_Committee)
 
@@ -135,7 +135,7 @@ Como casi todo aquí, el osu! está escrito y mantenido por voluntarios. Sugiera
 
 [Historia de osu!](/wiki/History_of_osu!) • [Historia de la wiki de osu!](/wiki/History_of_osu!/osu!_wiki) • [Cronología de mapping y modding](/wiki/History_of_osu!/Mapping_and_Modding_Timeline) • [April Fools](/wiki/History_of_osu!/April_Fools)
 
-[Mapa del sitio](/wiki/Sitemap) • [Guía de contribucion](/wiki/osu!_wiki/Contribution_guide) • [Criterios de estilización de artículos](/wiki/Article_styling_criteria) • [Criterios de estilización de noticias](/wiki/News_styling_criteria)
+[Mapa del sitio](/wiki/Sitemap) • [Guía de contribución](/wiki/osu!_wiki/Contribution_guide) • [Criterios de estilización de artículos](/wiki/Article_styling_criteria) • [Criterios de estilización de noticias](/wiki/News_styling_criteria)
 
 </div>
 </div>
