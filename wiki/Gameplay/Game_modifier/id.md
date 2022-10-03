@@ -5,10 +5,6 @@ tags:
  - overview
  - list of mods
  - daftar mod
- - NoMod
- - No Mod
- - FreeMod
- - Free Mod
 ---
 
 # Game modifier
@@ -67,16 +63,6 @@ Tidak semua mod dapat digunakan pada seluruh mode permainan yang ada. Ikon-ikon 
 - [10K](/wiki/Game_modifier/10K) ![][osu!mania]
 - [Fade Out](/wiki/Game_modifier/Fade_Out) ![][osu!mania]
 - [No Video](/wiki/Game_modifier/No_Video) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-
-### Istilah-istilah yang terkait dengan mod
-
-#### NoMod
-
-Dalam lingkungan [turnamen](/wiki/Tournaments), istilah **NoMod** (***NM***) mengacu pada beatmap-beatmap yang harus dimainkan tanpa menggunakan mod apapun di samping mod-mod seperti [No Fail](/wiki/Game_modifier/No_Fail) dan [ScoreV2](/wiki/Game_modifier/ScoreV2) yang pada umumnya merupakan syarat wajib turnamen.
-
-#### FreeMod
-
-Dalam lingkungan [turnamen](/wiki/Tournaments), istilah **FreeMod** (***FM***) mengacu pada beatmap-beatmap yang dapat dimainkan baik dengan ataupun tanpa mod. Turnamen-turnamen tertentu terkadang memiliki aturan khusus yang mempersyaratkan mod-mod apa saja serta komposisi penggunaan mod seperti apa yang diperbolehkan pada beatmap-beatmap FreeMod.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

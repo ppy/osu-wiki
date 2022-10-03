@@ -4,20 +4,11 @@ tags:
  - game modifier
  - overview
  - list of mods
- - NoMod
- - No Mod
- - FreeMod
- - Free Mod
  - мод
  - моды
  - игровой мод
  - игровой модификатор
  - список модов
- - номод
- - ноумод
- - без модов
- - фримод
- - фри мод
 ---
 
 # Игровой модификатор
@@ -76,16 +67,6 @@ tags:
 - [10K](/wiki/Game_modifier/10K) ![][osu!mania]
 - [Fade Out](/wiki/Game_modifier/Fade_Out) ![][osu!mania]
 - [No Video](/wiki/Game_modifier/No_Video) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-
-### Связанные термины
-
-#### NoMod
-
-В [турнирных](/wiki/Tournaments) матчах **NoMod** (***NM***) означает отказ от любых модов. Во многих турнирах есть правило, по которому все матчи должны играться с некоторым базовым набором модов (например, [No Fail](/wiki/Game_modifier/No_Fail) или [ScoreV2](/wiki/Game_modifier/ScoreV2)), что имеет приоритет над данным толкованием термина.
-
-#### FreeMod
-
-В [турнирных](/wiki/Tournaments) матчах **FreeMod** (***FM***) означает свободу выбора любых модов или их комбинаций. В некоторых турнирах есть отдельные правила, разъясняющие, какие моды в каких комбинациях допускается выбирать, и можно ли играть без модов вообще, если указан режим FreeMod.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

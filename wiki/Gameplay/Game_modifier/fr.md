@@ -4,10 +4,6 @@ tags:
  - game modifier
  - overview
  - list of mods
- - NoMod
- - No Mod
- - FreeMod
- - Free Mod
  - modificateur de jeu
  - apercu
  - liste des mods
@@ -69,16 +65,6 @@ Chacun des mods ci-dessous aura l'icône de son mode de jeu compatible (![][osu!
 - [10K](/wiki/Game_modifier/10K) ![][osu!mania]
 - [Fade Out](/wiki/Game_modifier/Fade_Out) ![][osu!mania]
 - [No Video](/wiki/Game_modifier/No_Video) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-
-### Termes connexes
-
-#### NoMod
-
-Dans les matchs des [tournois](/wiki/Tournaments), **NoMod** (***NM***) signifie ne pas utiliser de mods. De nombreux tournois exigent que certains mods soient utilisés par défaut dans le cadre de leurs règles ou de leur format, comme [No Fail](/wiki/Game_modifier/No_Fail) ou [ScoreV2](/wiki/Game_modifier/ScoreV2), qui deviennent des exceptions à cette notion.
-
-#### FreeMod
-
-Dans les matchs des [tournois](/wiki/Tournaments), **FreeMod** (***FM***) signifie que vous êtes libre de choisir n'importe quel mod ou combinaison de mods. Certains tournois prévoient également des règles qui spécifient des critères supplémentaires, tels que les mods autorisés et leurs combinaisons, ou si le fait de ne pas avoir de mods est autorisé lorsque FreeMod est spécifié.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
