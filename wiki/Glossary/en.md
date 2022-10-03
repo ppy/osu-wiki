@@ -2,14 +2,7 @@
 
 Index page for all articles concerning osu!-specific terms.
 
-- [Active object](Active_object)
-- [Changelog](Changelog)
-- [Combo colour](Combo_colour)
-- [Dash](Dash)
-- [Lead-in](Lead-in)
 - [Local song offset](Local_song_offset)
-- [Touhosu!](Touhosu!)
-- [Trigger distance](Trigger_distance)
 
 ## Trivia
 
