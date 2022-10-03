@@ -667,6 +667,8 @@ There are two types of image links: inline and reference. Examples:
 
 Images should use the inline linking style. Reference link definitions must be placed at the bottom of the article.
 
+All block images on the page (that have nothing else on the same line) are combined into a single gallery, which can be navigated using arrow icons on both sides of the screen, keyboard shortcuts, or screen swipes on mobile devices<!-- https://github.com/ppy/osu-web/pull/8126 -->.
+
 ### Alternative and title text
 
 The text in the first pair of square brackets (*alternative text*) should describe the image literally. It is used by screen readers or when the image fails to load. It can be omitted if it is identical to the title text or if the image is included only for decorative purposes.
@@ -677,9 +679,9 @@ The text in the quotation marks (*title text*) should give additional context to
 
 If an image is the sole content of a paragraph, it displays as a centred block. Otherwise, it flows with the surrounding inline text.
 
-Block images with title text display the title text as a caption below the image.
+Block images with title text display the title text as a caption below the image. Avoid adding [HTML comment](#comments) or any other text on the same line as the image, as this will cause the caption not to be rendered.
 
-Block images are commonly paired with infobox<!-- TODO: link me! --> formatting to reduce their initial size and float them to the side of other content:
+Block images are commonly paired with [infobox](#infoboxes) formatting to reduce their initial size and float them to the side of other content:
 
 ```markdown
 ::: Infobox
@@ -796,6 +798,29 @@ The following is an example of what a table should look like:
 | **Taikonator** | 7 - 0 | Tama | 13.37 stars |
 | Maria | No Contest | Mocha |  |
 ```
+
+## Infoboxes
+
+An infobox is a fixed-width block which is aligned to the right side of the article. It may contain a relevant image, which explains the surrounding text, or a block of navigation that links to other articles from the same category.
+
+Example use, rendered on the right:
+
+<!-- The real infobox is added for illustrative purposes, with Markdown syntax duplicated below for clarity. -->
+
+::: Infobox
+![](/wiki/shared/mods/SD.png "Sudden Death mod icon")
+:::
+
+```markdown
+::: Infobox
+![](/wiki/shared/mods/SD.png "Sudden Death mod icon")
+:::
+```
+
+Infoboxes should be used with caution in the following cases:
+
+- Short sections: the next section's heading appears below any infoboxes, leaving a large gap after the text.
+- Several images at once: instead, use individual infoboxes for better design.
 
 ## Footnotes
 

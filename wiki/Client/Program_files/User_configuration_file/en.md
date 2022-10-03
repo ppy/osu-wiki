@@ -36,7 +36,7 @@ This is a list of options in the `osu!.<your PC account name>.cfg` file. A lot o
 | `ScreenshotFormat` | String | Screenshot format |
 | `MenuSnow` | 0 or 1 | Snow |
 | `MenuParallax` | 0 or 1 | Parallax |
-| `ShowMenuTips` | 0 or 1 | Menu tips |
+| `ShowMenuTips` | 0 or 1 | [Menu tips](/wiki/Client/Menu_tips) |
 | `MenuVoice` | 0 or 1 | Interface voices |
 | `MenuMusic` | 0 or 1 | osu! music theme |
 | `SeasonalBackgrounds` | String | Seasonal backgrounds |
@@ -260,14 +260,14 @@ More osu!mania layout options can be found in the current skin's [skin.ini](/wik
 | `ConfirmExit` | 0 or 1 | Whether or not osu! will ask for confirmation before exiting the game |
 | `CustomFrameLimit` | Integer | Third FPS limiter option available in-game |
 | `Display` | Integer | Index of the monitor that osu! should open on |
-| `EditorTip` | Integer | Index of the next editor tip to be shown |
+| `EditorTip` | Integer | Index of the next [editor tip](/wiki/Client/Menu_tips#editor) to be shown |
 | `GuideTips` | String | Tracks guide tips that have been shown before so that they aren't shown again |
 | `HighResolution` | 0 or 1 | Forces HD skin element support |
 | `IgnoreBarline` | 0 or 1 | Whether or not osu!mania barlines should be hidden |
 | `LastVersion` | String | Current client version |
 | `LastVersionPermissionsFailed` | String | Client version that last needed computer admin permissions to complete an update |
 | `LowResolution` | 0 or 1 | Forces SD skin elements to be used (overrides `HighResolution`) |
-| `MenuTip` | Integer | Index of the next menu tip to be shown |
+| `MenuTip` | Integer | Index of the next [menu tip](/wiki/Client/Menu_tips#main-menu) to be shown |
 | `MyPcSucks` | 0 or 1 | Disables all fancy graphics settings |
 | `OverrideRefreshRate` | 0 or 1 | Whether or not `RefreshRate` is used |
 | `RefreshRate` | Integer | Custom refresh rate |
