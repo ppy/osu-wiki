@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 689c2f3805a618b8f08342661faa1a0328fccfb1
+---
+
 # Daftar pengguna dengan gelar khusus
 
 Pada umumnya, gelar yang disandang oleh seorang pengguna mencerminkan status keanggotaan mereka dalam suatu [kelompok pengguna (*user group*)](/wiki/People/The_Team#kelompok-pengguna). Meskipun demikian, terdapat beberapa pengguna yang secara khusus dianugerahi gelar-gelar tertentu dengan berbagai alasan mulai dari prestasi, kontribusi, hingga momen unik yang mereka torehkan.
