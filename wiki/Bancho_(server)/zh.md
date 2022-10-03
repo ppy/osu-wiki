@@ -1,7 +1,8 @@
 ---
-stub: true
 tags:
   - infrastructure
+outdated_translation: true
+outdated_since: bf2bda082372e609b197acae5aafd6d022ab16bf
 ---
 
 # Bancho (游戏服务器)
