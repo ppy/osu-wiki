@@ -218,6 +218,22 @@ The Catch French Dual Tournament 2 is run by various community members.
 
 ## Match results
 
+### Finals
+
+Saturday, 24 September 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Quesedilla avec les frites BELGES | -1 | **7** | **Florika** | *win by default* |
+| FR X US coalition | 2 | **7** | **French Penguins** | [#1](https://osu.ppy.sh/community/matches/103996932) |
+
+Sunday, 25 September 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| 5€ | 4 | **7** | **:pleading_face:** | [#1](https://osu.ppy.sh/community/matches/104021542) |
+| **French Penguins** | **7** | 2 | Florika | [#1](https://osu.ppy.sh/community/matches/104023985) |
+
 ### Semifinals
 
 Saturday, 10 September 2022:
