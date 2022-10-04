@@ -35,7 +35,7 @@ Après soumission, une beatmap reçoit des champs d'informations supplémentaire
 Chaque beatmap publiée reçoit un identifiant numérique (`BeatmapSetID`), avec lequel elle peut être tracée sur le site ou via [l'API osu!](/wiki/osu!api). Les difficultés d'une beatmap ont également leur propre (`BeatmapID`). Le lien menant à l'onglet de la difficulté spécifique sur la page d'une beatmap inclus les 2 identifiants et prend le format suivant:
 
 ```
-https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{GameMode}/{BeatmapID}`
+https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{GameMode}/{BeatmapID}
 ```
 
 ### Catégorie de beatmap
