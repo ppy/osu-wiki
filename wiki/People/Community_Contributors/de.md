@@ -198,7 +198,7 @@ Nicht zu verwechseln mit [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), die f
 | :-- | :-- |
 | ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263) | Herausragende Beiträge zu der Community-Turnierszene von osu!taiko |
 | ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502) | Herausragende Beiträge zur Entwicklung von osu!(lazer) |
-| ::{ flag=HR }:: [Susuko3](https://osu.ppy.sh/users/18945305) | Herausragende Beiträge zur Entwicklung von osu!(lazer) und osu!framework |
+| ::{ flag=HR }:: [Susko3](https://osu.ppy.sh/users/18945305) | Herausragende Beiträge zur Entwicklung von osu!(lazer) und osu!framework |
 | ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455) | Herausragende Beiträge zur Entwicklung und Wartung der osu!-Performance-Punkte |
 | ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549) | Herausragende Beiträge zur Entwicklung der osu!-Performance-Punkte |
 | ::{ flag=AU }:: [MBmasher](https://osu.ppy.sh/users/4498616) | Herausragende Beiträge zur Entwicklung der osu!-Performance-Punkte und zur Wiederbelebung der Mod Flashlight |

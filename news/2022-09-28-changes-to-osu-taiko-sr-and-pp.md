@@ -47,11 +47,9 @@ During this maintenance, the following will also occur:
 
 Rank history graphs updates will be enabled and updated again. At this point, all users' global leaderboard ranks will be stable going forward.
 
-### 🏃 Reindexing \[2022-09-29\]
+### ✅ Reindexing \[2022-09-29\]
 
 This will fix scores being out of order on profiles, and in some rare cases not being displayed at all.
-
-Estimated to take less than 1 day.
 
 ## An insight into the basis of the new rework
 

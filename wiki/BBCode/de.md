@@ -1,8 +1,3 @@
----
-outdated_since: 3cfbc4e75e17092cf181c6f1235bfb105666003d
-outdated_translation: true
----
-
 # BBCode
 
 **BBCode** ist eine [Auszeichnungssprache](https://de.wikipedia.org/wiki/Auszeichnungssprache) (Markup), die im osu!-Forum und, in einem größeren Umfang, in den meisten Foren im Internet genutzt wird. Damit die Rich-Text-Formatierung möglich wird, umranden Tags Text, um die Formatierung, Attribute, Einbettung usw. festzulegen. Es wird auf verschiedenen Seiten auf der osu!-Webseite verwendet, wie z. B. Forumsbeiträge, Signaturen, Benutzerseiten und Beatmapbeschreibungen.
@@ -190,25 +185,35 @@ Das Tag `[profile]` wird benutzt, um zu der osu!-Profilseite eines Benutzers mit
 
 *Anmerkung: Die Benutzer-ID ist eine Zeichenkette an Nummern, die direkt dem `/users/` in der URL einer osu!-Profilseite folgen.*
 
-Wenn die Benutzer-ID verwendet wird, dann wird der Text innerhalb des öffnenden sowie schließenden Tags nicht verarbeitet und stattdessen den aktuellen Namen des Benutzers anzeigen. Sofern der Benutzername spezifiziert wird und der besagte Benutzer seinen Namen ändert, wird der Link nicht mehr funktionieren.
+Wenn nur die Benutzer-ID verwendet wird, dann ist ein Platzhaltertext zwischen dem öffnenden sowie schließenden Tags erforderlich. Dadurch wird der Benutzername anstatt des Platzhaltertexts auf der eigentlichen Seite angezeigt. Sofern nur der Benutzername spezifiziert wird und der besagte Benutzer seinen Namen ändert, funktioniert der Link nicht mehr.
 
 ### Formatierte Listen
 
 ```
-[list=TYPE]
+[list=TYP]
 [*]Punkt 1
 [*]Punkt 2
 [*]Punkt 3
 [/list]
 ```
 
-Das Tag `[list]` wird benutzt, um automatisch verschiedene Arten von Listen in den osu!-Foren zu formatieren. Dabei wird ein Stern in eckigen Klammern (`[*]`) verwendet, um ein neuen Punkt in der Liste zu markieren (oben gezeigt). Das wird standardmäßig eine einfache Aufzählungsliste generieren.
+Das Tag `[list]` wird benutzt, um automatisch zwei unterschiedliche Arten von Listen in den osu!-Foren zu formatieren. Dabei wird ein Stern in eckigen Klammern (`[*]`) verwendet, um ein neuen Punkt in der Liste zu markieren (oben gezeigt). Das wird standardmäßig eine einfache Aufzählungsliste generieren.
 
-Andere Stile für Listen können durch die Spezifizierung des Arguments `TYPE` als `1`, `a`, `A`, `i`, oder `I` gesetzt werden, welche Listen als  nummeriert, beschriftet (Kleinbuchstaben), beschriftet (Großbuchstaben), römische Zahlen (Kleinschreibung) und römische Zeichen (Großschreibung) entsprechend formatieren.
+Wenn das Argument `TYP` spezifiziert wird (der tatsächliche Wert spielt keine Rolle), wird eine nummerierte Liste erstellt.
 
 *Hinweis: BBCode-formatierte Listen können aufeinander gestapelt und ineinander verschachtelt werden. Jedoch ist bekannt, dass das manchmal zu Fehlern bei der Formatierung führt.*
 
 Schaltfläche in der Symbolleiste: ![Button für Listen](img/list.png "Liste") ![Button für nummerierte Listen](img/list-numbered.png "Nummerierte Liste")
+
+### E-Mail
+
+```
+[email=ADRESSE]text[/email]
+```
+
+Das Tag `[email]` erstellt einen anklickbaren Hyperlink, der eine neue E-Mail im standardmäßigen E-Mail-Programm mit bereits ausgefülltem Adressfeld anlegt.
+
+Um einen Link zu kreieren, müssen zwei Argumente definiert werden: das Argument `ADRESSE` muss einer validen E-Mail-Adresse entsprechen, wohingegen `text` der dargestellte Text ist, der als Hyperlink dient. Wenn das Argument `text` nicht spezifiziert wird, wird der Hyperlink nicht korrekt erstellt.
 
 ### Bilder
 
