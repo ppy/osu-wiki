@@ -10,7 +10,7 @@ tags:
 
 ![CFDT 2 logo](img/logo.png)
 
-The **Catch French Dual Tournament 2** (***CFDT 2***) is a French double-elimination 2v2 osu!catch tournament hosted by ::{ flag=FR }:: [h-e-c-a123](https://osu.ppy.sh/users/3163012) and ::{ flag=FR }:: [Laffey Gaming](https://osu.ppy.sh/users/5122949). Teams consist of two players, where the first player is ranked between #1 and #500, and the latter is ranked #501 or below. It is the second instalment of the Catch French Dual Tournament and part of the Catch French Cup series.
+The **Catch French Dual Tournament 2** (***CFDT 2***) was a French double-elimination 2v2 osu!catch tournament hosted by ::{ flag=FR }:: [h-e-c-a123](https://osu.ppy.sh/users/3163012) and ::{ flag=FR }:: [Laffey Gaming](https://osu.ppy.sh/users/5122949). Teams consisted of two players, where the first player was ranked between #1 and #500, and the latter was ranked #501 or below. It was the second instalment of the Catch French Dual Tournament and part of the Catch French Cup series.
 
 ## Tournament schedule
 
@@ -80,6 +80,33 @@ The Catch French Dual Tournament 2 is run by various community members.
 | **Timezone diff** | ::{ flag=FR }:: **[Jielefe](https://osu.ppy.sh/users/15334170)**, ::{ flag=KR }:: [\[Amazing\]](https://osu.ppy.sh/users/1391036) |
 
 ## Mappools
+
+### Finals
+
+- NoMod
+  1. [DJ Myosuke & Noizenecio - Architecture (Razor Sharp) \[Kukkai's Overdose\]](https://osu.ppy.sh/beatmapsets/1508396#fruits/3357235)
+  2. [The Wrecks - Favorite Liar (Crowley) \[BLOODY FUCKING LIAR!\]](https://osu.ppy.sh/beatmapsets/691527#fruits/1463436)
+  3. [xi - Valhalla (Jemzuu) \[Agartha\]](https://osu.ppy.sh/beatmapsets/1671304#fruits/3413668)
+  4. [Cilvery - Kamisama Nejimaki (sukiNathan) \[pk's Extra\]](https://osu.ppy.sh/beatmapsets/374900#fruits/827835)
+  5. [The Red Jumpsuit Apparatus - Face Down (theramdans) \[Akitoshi's Suffering\]](https://osu.ppy.sh/beatmapsets/619824#fruits/1413439)
+  6. [NIWASHI - Sapphire On Fire (DeviousPanda) \[Extravaganza\]](https://osu.ppy.sh/beatmapsets/1461145#fruits/3002063)
+- Hidden
+  1. [katagiri - Urushi (Jemzuu) \[Jemzuu & Nelly's Overdose\]](https://osu.ppy.sh/beatmapsets/1482723#fruits/3046611)
+  2. [A-One feat. Shihori - Magic Girl !! (Greaper) \[Deif's Rain\]](https://osu.ppy.sh/beatmapsets/1644488#fruits/3356803)
+  3. [Alfakyun. - KING (Ryuusei Aika) \[Altai's Expert\]](https://osu.ppy.sh/beatmapsets/1354539#fruits/2810356)
+  4. [Sakuzyo - Instinct (Zelq) \[Circles\]](https://osu.ppy.sh/beatmapsets/1291263#fruits/2680275)
+- HardRock
+  1. [Mili - Ga1ahad and Scientific Witchery (Benita) \[Lacrima's Incantation\]](https://osu.ppy.sh/beatmapsets/1361768#fruits/2817663)
+  2. [Christopher Larkin - Mantis Lords (0 K Remix) (JBHyperion) \[Ascendance's Overdose\]](https://osu.ppy.sh/beatmapsets/1763744#fruits/3671624)
+  3. [BAND-MAID - RINNE (ShirohaMyMommy) \[MIRASH'S EXTRA\]](https://osu.ppy.sh/beatmapsets/1193063#fruits/2485991)
+  4. [fiend - FEVER DREAM (feat. yzzyx) (Niva) \[INSANE\]](https://osu.ppy.sh/beatmapsets/1405913#fruits/2916771)
+- DoubleTime
+  1. [UNDEAD CORPORATION - Embraced by the Flame (Daletto) \[Hex's Platter\]](https://osu.ppy.sh/beatmapsets/1179938#fruits/2460432)
+  2. [Hylian Lemon - Foresight Is for Losers (ZiRoX) \[Collab Rain\]](https://osu.ppy.sh/beatmapsets/342751#fruits/757539)
+  3. [DJ Fresh (feat. Rita Ora) - Hot Right Now (Radio Edit) (Asphyxia) \[Kysphyxia's Insane\]](https://osu.ppy.sh/beatmapsets/231114#fruits/539090)
+  4. [Kamiyama Yoh - Oyasumi, Kamisama (Peter) \[Adolescence\]](https://osu.ppy.sh/beatmapsets/1079359#fruits/2258250)
+- Tiebreaker
+  1. **[GALNERYUS - RAISE MY SWORD (Ascendance) \[FINAL DESTINATION\]](https://osu.ppy.sh/beatmapsets/904065#fruits/1887260)**
 
 ### Semifinals
 
