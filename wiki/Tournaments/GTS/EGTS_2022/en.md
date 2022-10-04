@@ -74,6 +74,33 @@ The Expert Global Taiko Showdown 2022 is run by various community members.
 
 ## Mappools
 
+### Grand Finals
+
+**[Download the mappack here! (98 MB)](https://mega.nz/file/2TwWgIIA#mLdAOD3tv10Ki73WL6zLPmpczKahOClfcjTl-gvgGvk)**
+
+- NoMod
+  1. [yukikaze - Osu no Toire de Kiita Kyoku (X a v y) \[rereretoilered\]](https://osu.ppy.sh/beatmapsets/1859294#taiko/3822031)
+  2. [Mono. - PETIT SATURN (X a v y) \[PERIHELION\]](https://osu.ppy.sh/beatmapsets/1859295#taiko/3822034)
+  3. [df - Phosphophyllite (X a v y) \[Phyllo\]](https://osu.ppy.sh/beatmapsets/1859297#taiko/3822036)
+  4. [lhk - 5D TETRIS MATCH & REMATCH (cut ver.) (Mew) \[T-Spin Quadruple\]](https://osu.ppy.sh/beatmapsets/1859259#taiko/3821952)
+  5. [nitro (as "DJ Curry") - IL-HEL-U (\_mtk) \[SPICE\]](https://osu.ppy.sh/beatmapsets/1859303#taiko/3822047)
+  6. [Infant Annihilator - Ov Sacrament and Sincest (Ak1o) \[End\]](https://osu.ppy.sh/beatmapsets/1859317#taiko/3822094)
+- Hidden
+  1. [Louie Fibonacci feat. ricono - #DoomeyTunes (cdh) \[#HighDefinition1\]](https://osu.ppy.sh/beatmapsets/1859319#taiko/3822096)
+  2. [DJ Myosuke & Noizenecio - Architecture (Cut Ver.) (Faputa) \[Under Construction\]](https://osu.ppy.sh/beatmapsets/1859298#taiko/3822037)
+- HardRock
+  1. [Juggernaut. - Devotion (Cynplytholowazy) \[Loyalty\]](https://osu.ppy.sh/beatmapsets/1859203#taiko/3821831)
+  2. [celtix - Entanglement (KTYN) \[Disturbed Emotions\]](https://osu.ppy.sh/beatmapsets/1859291#taiko/3822025)
+- DoubleTime
+  1. [Sta - Conway's Child (\[Zeth\]) \[Game of Life\]](https://osu.ppy.sh/beatmapsets/1859289#taiko/3822023)
+  2. [katagiri - Kemonomimi Loli no Wakusei (Cynplytholowazy) \[Nyan\~Nyan\~Planet\~\~ with KTYN\~\]](https://osu.ppy.sh/beatmapsets/1859204#taiko/3821832)
+- FreeMod
+  1. [Sot-C - Cursed Metamorph (Cut Ver.) (uone) \[Inner Oni (EGTS Edit)\]](https://osu.ppy.sh/beatmapsets/1859250#taiko/3821934)
+  2. [LINKER - WASTED (GTS Edit) (rubies87) \[CH3-CH2-OH\]](https://osu.ppy.sh/beatmapsets/1859275#taiko/3821990)
+  3. [Rukadesu & 5KiLOBYTE - ULTIMATE (MTNTWarz) \[babu Oni\]](https://osu.ppy.sh/beatmapsets/1859283#taiko/3822010)
+- Tiebreaker
+  1. **[GTS Sound Team - <</nttld.:beings>> \~Truth in Uncertainty\~ (Hivie) \[<</eclectic.:genesis>>\]](https://osu.ppy.sh/beatmapsets/1859338#taiko/3822143)**
+
 ### Finals
 
 **[Download the mappack here! (91 MB)](https://mega.nz/file/nZg2xKja#c3tBX1VasuktYzJQgkIOlH9PQesl3P6Sb_XilX7OiUY)**
