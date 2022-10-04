@@ -37,7 +37,7 @@ tags:
 Кожна опублікована карта має своє числове (`BeatmapSetID`), за допомогою якого її можна знайти на сайті через [osu!api](/wiki/osu!api). Рівні теж мають своє (`BeatmapID`). Посилання на окремий рівень вибраної карти потребує і (`BeatmapSetID`), і (`BeatmapID`), і виглядає наступним чином:
 
 ```
-https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{GameMode}/{BeatmapID}`
+https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{GameMode}/{BeatmapID}
 ```
 
 ### Категорія
