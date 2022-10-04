@@ -10,15 +10,15 @@ Votes are tallied. Judges are locked in. See who comes home with the gold in thi
 
 The story so far:
 
-- [4 months ago](https://osu.ppy.sh/home/news/2022-05-31-triangles), we announced [**triangles**](/wiki/Contests/triangles_Beatmapping_Contest) - a mapping and storyboarding contest centered around osu!(lazer)'s theme song *[cYsmix](https://osu.ppy.sh/beatmaps/artists/2) - triangles*.
+- [4 months ago](https://osu.ppy.sh/home/news/2022-05-31-triangles), we announced [**triangles**](/wiki/Contests/triangles_Beatmapping_Contest) — a mapping and storyboarding contest centred around osu!(lazer)'s theme song *[cYsmix](https://osu.ppy.sh/beatmaps/artists/2) - triangles*.
 - 2 months ago, panels of [experienced mappers](/wiki/Contests/triangles_Beatmapping_Contest#mapper-panel) and [experienced storyboarders](/wiki/Contests/triangles_Beatmapping_Contest#storyboarder-panel) put their lives on hold to determine who created the best beatmap.
 - [Last month](https://osu.ppy.sh/home/news/2022-09-08-triangles-voting-phase), we opened a community vote for *you* to pick out your favourite submission.
 
 And now we're here.
 
-## Live stream results
+## Results livestream
 
-In case you're allergic to text, we live streamed the contest results too! Check out the full showcase in the video below, including commentary from [pishifat](https://osu.ppy.sh/users/3178418), [Mismagius](https://osu.ppy.sh/users/19048), and [Mao](https://osu.ppy.sh/users/2204515), along with brief input from each map/storyboard's creators!
+In case you're allergic to text, we livestreamed the contest results too! Check out the full showcase in the video below, including commentary from [pishifat](https://osu.ppy.sh/users/3178418), [Mismagius](https://osu.ppy.sh/users/19048), and [Mao](https://osu.ppy.sh/users/2204515), along with brief input from each map/storyboard's creators!
 
 <div align="center">
     <iframe width="95%" height="400" src="https://www.youtube.com/embed/4Xzrqu68Ypk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -30,7 +30,7 @@ If you want to watch alongside Twitch chat, [the VOD is here too!](https://www.t
 
 ### Storyboarders' pick
 
-Let's kick things off with [**this submission**](https://osu.ppy.sh/beatmapsets/1842041) by [Fisky](https://osu.ppy.sh/users/8352623), [ScubDomino](https://osu.ppy.sh/users/8972308), [fanzhen0019](https://osu.ppy.sh/users/418699), [Tommy Phelps](https://osu.ppy.sh/users/10974581) and [VenerableNyanta](https://osu.ppy.sh/users/12243368)! Despite earning #3 overall, this entry managed to wino the **#1 spot in the storyboarding department!**
+Let's kick things off with [**this submission**](https://osu.ppy.sh/beatmapsets/1842041) by [Fisky](https://osu.ppy.sh/users/8352623), [ScubDomino](https://osu.ppy.sh/users/8972308), [fanzhen0019](https://osu.ppy.sh/users/418699), [Tommy Phelps](https://osu.ppy.sh/users/10974581) and [VenerableNyanta](https://osu.ppy.sh/users/12243368)! Despite earning #3 overall, this entry managed to win the **#1 spot in the storyboarding department!**
 
 ![Storyboarders' Pick](/wiki/shared/news/2022-10-03-results-triangles/sb.jpg)
 
@@ -38,11 +38,11 @@ Let's kick things off with [**this submission**](https://osu.ppy.sh/beatmapsets/
 
 Combining the expertise of [Tommy Phelps](https://osu.ppy.sh/users/10974581) and [VenerableNyanta](https://osu.ppy.sh/users/12243368) (a.k.a. two of osu!'s most well-known storyboarders), it's no surprise that this team managed to win the hearts of the storyboarder panel.
 
-However, it's definitely surprising to learn that they managed to create their winning storyboard *in less than a week.* When you're this skilled, anything is possible, right?
+However, it's definitely surprising to learn that they managed to create their winning storyboard *in less than a week*. When you're this skilled, anything is possible, right?
 
 Of course, the best way to experience this storyboard is to [play the map](https://osu.ppy.sh/beatmapsets/1842041) (which is awesome too, by the way).
 
-Members of this team have earned themselves the **storyboarders' pick** profile badge for their work!
+Members of this team have earned themselves the **Storyboarders' Pick** profile badge for their work!
 
 ![Storyboarders' Pick profile badge](/wiki/shared/news/2022-05-26-triangles/storyboarders@2x.png)
 
@@ -58,7 +58,7 @@ Veteran winners from our previous team-based mapping contest [A Labour of Love](
 
 Tackling the challenge of a <1MB storyboard led many teams to use minimalistic vector styles, but [Noffy](https://osu.ppy.sh/users/1541323) and [TheDuckMask](https://osu.ppy.sh/users/7405768) took the challenge in a completely different direction — they drew a story uniting all of osu!'s mascots (including the new mascot *DJ peppy*), all with original artwork drawn by the two artists.
 
-The map itself is on another level too! Quoting [Mismagius](https://osu.ppy.sh/users/19048) during the results stream, "you can *feel* DeviousPanda in this map", which can only be taken as a complement. The map is outstandingly designed and takes some experimental liberties throughout the whole mapset, lending to a fresh experience all around.
+The map itself is on another level too! Quoting [Mismagius](https://osu.ppy.sh/users/19048) during the results stream, "you can *feel* DeviousPanda in this map", which can only be taken as a compliment. The map is outstandingly well designed and takes some experimental liberties throughout the whole mapset, lending to a fresh experience all around.
 
 Everyone in this team has earned the **Overall runner-up** profile badge!
 
@@ -84,7 +84,7 @@ Each member of this team has earned the **Overall winner** profile badge, and it
 
 ![Overall winner profile badge](/wiki/shared/news/2022-05-26-triangles/overallwinner@2x.png)
 
-We can't forget the grand prize of this contest: **the winning submission is bundled with all iterations of osu!(lazer) going forward.**
+We can't forget the grand prize of this contest: **the winning submission is bundled with all iterations of osu!(lazer) going forward**.
 
 Once ranked, this beatmap will be one of the first things an osu! player sees in the new client! Given its sheer quality in every aspect, there's no better map for the role.
 
@@ -111,22 +111,22 @@ Here's the breakdown of scores:
 | \#11 | [Penta-force](https://osu.ppy.sh/beatmapsets/1841996) | 36 | 35 | **67** |
 | \#12 | dreamers | 9 | 8 | **16** |
 
-Judging for this contest involved some experimentation. Instead of assigning raw numbers to submission like most contests, the judges were given two tasks:
+Judging for this contest involved some experimentation. Instead of assigning raw numbers to submissions like most contests, the judges were given two tasks:
 
 1. Order the submissions from best to worst in their respective expertise (mapping or storyboarding).
 2. Assign a limited supply of bonus points based on standard judging categories.
    - Mapping panel: technical skill, creativity, theme, outstanding Easy/Normal/Hard/Insane/Expert difficulty 
    - Storyboarding panel: technical skill, creativity, theme, general storyboard impression
 
-The first task earned a submission between 1 and 12 points (12 points for a judge's #1 map, 11 for #2, 10 for #3, etc.). Each bonus point added one additional point to the total. See the [judging compilation sheet](https://docs.google.com/spreadsheets/d/1VwajV4Ibn-k_sNHiiPAXX0raXiX34-v7_6SBWUq2pPY/edit#gid=0) to see the full judging breakdown, including all map quality orders, bonus point distributions, and judge comments!
+The first task earned a submission between 1 and 12 points (12 points for a judge's #1 map, 11 for #2, 10 for #3, etc.). Each bonus point added one additional point to the total. See the [judging compilation sheet](https://docs.google.com/spreadsheets/d/1VwajV4Ibn-k_sNHiiPAXX0raXiX34-v7_6SBWUq2pPY/edit#gid=0) to see the full judging breakdown, including all map quality orderings, bonus point distributions, and judge comments!
 
-## triangles Playlist leaders
+## triangles playlist leaders
 
 There's one more set of prizes to dish out today, but they're not for mappers or storyboarders!
 
-To vote for this contest, we required the community to **play each of the submission in osu!(lazer)** through one of the five difficulty-specific playlists (Easy/Normal/Hard/Insane/Expert).
+To vote for this contest, we required the community to **play each of the submissions in osu!(lazer)** through one of the five difficulty-specific playlists (Easy/Normal/Hard/Insane/Expert).
 
-As an added bonus, we also decided to reward the players at the top of each playlist with a month of osu!supporter, plus the **triangles aficionado profile badge** for the winner of the Expert playlist!
+As an added bonus, we also decided to reward the players at the top of each playlist with a month of osu!supporter, plus the **triangle aficionado profile badge** for the winner of the Expert playlist!
 
 ![triangle aficionado profile badge](/wiki/shared/news/2022-05-26-triangles/aficionado@2x.png)
 
@@ -140,7 +140,7 @@ Give some credit to these playlist leaders:
 
 ## Conclusion
 
-Massive thanks to everyone involved this contest — whether that be as a participant, a judge, a voter, or even someone who followed the contest til its end today!
+Massive thanks to everyone involved this contest — whether that be as a participant, a judge, a voter, or even someone who followed the contest 'til its end today!
 
 Contests of this scope are always difficult to put together, but seeing the results from the community makes it entirely worth it.
 
