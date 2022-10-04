@@ -17,7 +17,7 @@ outdated_since: fd0451ee3c5f57bafae83570739d9dc9f09906a5
 - \[3\] 点击 Edit （`E`） 进入地图编辑器的歌曲选择界面。
 - \[4\] 点击 Option （`O`） 进入设置界面。
 - \[5\] 点击 Exit （`Esc`） 退出 osu!
-- \[6\] 在主菜单下方会有随机的游戏提示。
+- \[6\] 在主菜单下方会有随机的游戏[提示](/wiki/Client/Menu_tips)。
 - \[7\] 左下角是 osu! 官网的链接，以及版权信息。
 - \[8\] 与[Bancho](/wiki/Bancho_(server))的连接状态，在这张图总没有显示，但是连接的结果应该像一个链条。
 - \[9\] 右下角的是扩展[聊天窗口](/wiki/Client/Interface/Chat_console)的控制开关 (叫做"玩家列表") 和常规聊天窗口 （分别对应 `F9` 和 `F8`）。

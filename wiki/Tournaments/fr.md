@@ -79,7 +79,7 @@ L'osu! World Cup est un tournoi à double élimination par équipe de 4 formée 
 | [osu!mania 4K World Cup 2020](MWC/2020_4K) | 15/08/2020 | 20/09/2020 | ::{ flag=BR }:: Brésil | ::{ flag=JP }:: Japon | ::{ flag=KR }:: Corée du Sud |
 | [osu!mania 4K World Cup 2021](MWC/2021_4K) | 31/07/2021 | 19/09/2021 | ::{ flag=BR }:: Brésil | ::{ flag=US }:: États-Unis | ::{ flag=MY }:: Malaisie |
 | [osu!mania 7K World Cup 2022](MWC/2022_7K) | 16/12/2021 | 20/02/2022 | ::{ flag=KR }:: Corée du Sud | ::{ flag=CN }:: Chine | ::{ flag=MY }:: Malaisie |
-| [osu!mania 4K World Cup 2022](MWC/2022_4K) | 07/07/2022 | 19/08/2022 | *À déterminer* | *À déterminer* | *À déterminer* |
+| [osu!mania 4K World Cup 2022](MWC/2022_4K) | 07/07/2022 | 18/09/2022 | ::{ flag=KR }:: Corée du Sud | ::{ flag=BR }:: Brésil | ::{ flag=US }:: États-Unis |
 
 ## Tournois communautaires
 

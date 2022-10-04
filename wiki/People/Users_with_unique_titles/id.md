@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 689c2f3805a618b8f08342661faa1a0328fccfb1
+---
+
 # Daftar pengguna dengan gelar khusus
 
 Pada umumnya, gelar yang disandang oleh seorang pengguna mencerminkan status keanggotaan mereka dalam suatu [kelompok pengguna (*user group*)](/wiki/People/The_Team#kelompok-pengguna). Meskipun demikian, terdapat beberapa pengguna yang secara khusus dianugerahi gelar-gelar tertentu dengan berbagai alasan mulai dari prestasi, kontribusi, hingga momen unik yang mereka torehkan.
@@ -165,6 +170,7 @@ osu! pada umumnya menganugerahkan para pemenang kontes mapping yang berstatus re
 Sejak tahun 2020, setiap tahunnya osu! menganugerahkan gelar **Elite Nominator** kepada para anggota [Beatmap Nominator (BN)](/wiki/People/The_Team/Beatmap_Nominators) dan [Nomination Assessment Team (NAT)](/wiki/People/The_Team/Nomination_Assessment_Team) yang dinilai telah memberikan kontribusi yang lebih selama setahun ke belakang. Adapun gelar Elite Nominator tersebut akan hilang apabila pengguna yang bersangkutan dikeluarkan dan/atau mengundurkan diri dari BN atau NAT.
 
 - ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229)
+- ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083)
 - ::{ flag=CA }:: [guden](https://osu.ppy.sh/users/11626065)
 - ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323)
 - ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)
@@ -239,6 +245,7 @@ osu! menganugerahkan gelar **Featured Artist** kepada para [Featured Artist](/wi
 | ::{ flag=ES }:: [sotuiofficial](https://osu.ppy.sh/users/14779258) | [Rising Sun Traxx](https://osu.ppy.sh/beatmaps/artists/41) |
 | ::{ flag=RU }:: [tieff](https://osu.ppy.sh/users/89619) | [tieff](https://osu.ppy.sh/beatmaps/artists/34) |
 | ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) | [VINXIS](https://osu.ppy.sh/beatmaps/artists/22) |
+| ::{ flag=TH }:: [YuugenP](https://osu.ppy.sh/users/2014016) | [rN](https://osu.ppy.sh/beatmaps/artists/190) |
 
 ## Pemenang kontes desain maskot
 

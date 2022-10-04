@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 689c2f3805a618b8f08342661faa1a0328fccfb1
+---
+
 # Benutzer mit einzigartigen Titeln
 
 Nutzertitel sind in der Regel mit [Benutzergruppen](/wiki/People/The_Team#benutzergruppen) verbunden, aber die unten aufgelisteten Benutzer haben ihre Titel aus anderen Gründen erhalten. Die meisten Titel waren Auszeichnungen für Beiträge oder Errungenschaften, wobei die übrigen Titel Symbole der kultigen oder lustigen osu!-Geschichte sind.
@@ -165,6 +170,7 @@ Die meisten offiziellen Mapping-Wettbewerbe bieten den Titel **Elite Mapper** al
 Seit 2020 werden Mitglieder der [Beatmap-Nominators](/wiki/People/The_Team/Beatmap_Nominators) und des [Nomination-Assessment-Teams](/wiki/People/The_Team/Nomination_Assessment_Team) mit einer außergewöhnlichen Leistung zur Unterstützung des Ranlistensystems in einem bestimmten Jahr mit dem Titel **Elite Nominator** ausgezeichnet. Dieser Titel wird zu Beginn jedes Jahres für Beiträge vergeben, die während dem vergangen Jahr gemacht wurden, und halten etwa ein Jahr lang oder bis der Benutzer das Team verlässt.
 
 - ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229)
+- ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083)
 - ::{ flag=CA }:: [guden](https://osu.ppy.sh/users/11626065)
 - ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323)
 - ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)
@@ -239,6 +245,7 @@ Die Wettbewerbe [osu!trivium Quiz](/wiki/Contests/osu!trivium_Quiz) vergeben ihr
 | ::{ flag=ES }:: [sotuiofficial](https://osu.ppy.sh/users/14779258) | [Rising Sun Traxx](https://osu.ppy.sh/beatmaps/artists/41) |
 | ::{ flag=RU }:: [tieff](https://osu.ppy.sh/users/89619) | [tieff](https://osu.ppy.sh/beatmaps/artists/34) |
 | ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) | [VINXIS](https://osu.ppy.sh/beatmaps/artists/22) |
+| ::{ flag=TH }:: [YuugenP](https://osu.ppy.sh/users/2014016) | [rN](https://osu.ppy.sh/beatmaps/artists/190) |
 
 ## Gewinner des Maskottchen-Design-Wettbewerbs
 

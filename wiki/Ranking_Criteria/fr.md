@@ -99,6 +99,7 @@ Il est important de noter avant de les utiliser :
 - **Si les champs de l'artiste ou du titre ont été raccourcis pour tenir dans les limites du champ, les informations omises doivent être ajoutées aux tags.**
 - **Si la musique mappée est une musique sous licence de la bibliothèque [Featured Artist](/wiki/Featured_Artists), il faut ajouter `featured artist` aux tags.**
 - **Les tags doivent être liés à la beatmap et ne pas induire en erreur pour les résultats de recherche.** Les tags décrivant le style, la musique, le storyboard, la vidéo ou l'arrière-plan de la beatmap sont considérées comme liés à la beatmap.
+- **[Le genre et la langue](/wiki/Beatmap/Genre_and_language) de la musique doivent être ajoutés aux tags d'une beatmap.** Ceci afin de permettre aux utilisateurs de faire des recherches en utilisant ces termes dans le jeu comme ils le font sur le site web. Pour les pistes instrumentales, "instrumental" est considéré comme le tag de langue. Il existe des exceptions lorsque la langue et/ou le genre ne sont pas clairs, ou lorsqu'ils sont multiples. Dans ce dernier cas, un tag appropriée peut être appliquée pour chacun d'entre eux.
 
 #### Standardisation
 
@@ -147,7 +148,6 @@ Il est important de noter avant de les utiliser :
 - **Dans le cas de compilations ou de remixes, le(s) titre(s) de la musique originale et le(s) artiste(s) doivent être inclus dans les tags.** Cela permet de s'assurer que les joueurs peuvent trouver toutes les beatmaps d'une musique en effectuant la même recherche sans obtenir des résultats très différents.
 - **Toute métadonnée contenant des caractères unicode ambigus ou difficiles à écrire doit être accompagnée de variations ou de romanisations facilement recherchables de ces mots dans les tags de la beatmap.**
 - **Si la source de la musique est disponible à la fois en format unicode et romanisé, l'option non utilisée dans le champ source doit être ajoutée aux tags.**
-- **Le genre et la langue de la musique doivent être ajoutés aux tags d'une beatmap.** Ceci afin de permettre aux utilisateurs de faire des recherches en utilisant ces termes dans le jeu comme ils le font sur le site web. Pour les pistes instrumentales, "instrumental" est considéré comme le tag de langue. Il existe des exceptions lorsque la langue et/ou le genre ne sont pas clairs, ou lorsqu'ils sont multiples. Dans ce dernier cas, un tag appropriée peut être appliquée pour chacun d'entre eux.
 - **Il convient d'ajouter des tags pour les artistes apparentés, les noms alternatifs pour l'artiste, le titre ou la source, les contractions dans toute partie des métadonnées sans apostrophe, et tout ce qui peut aider un joueur à trouver la beatmap.**
 
 #### Standardisation
@@ -236,7 +236,7 @@ Cette catégorie contient des déclarations d'allocation explicites de concepts 
 - **Les dimensions d'une vidéo ne doivent pas dépasser une largeur de 1280 et une hauteur de 720 pixels.** En outre, il faut éviter de convertir une vidéo de faible résolution en une résolution plus élevée. Cela permet de s'assurer que les fichiers vidéo ne deviennent pas excessivement volumineux ou gourmands en ressources.
 - **Une vidéo doit être encodée en H.264.**
 - **L'[offset](/wiki/Beatmapping/Offset) d'une vidéo doit être correct s'il est en rythme avec la musique.** Un offset incorrect peut donner lieu à une représentation visuelle trompeuse de la musique. Si la même vidéo apparaît dans plusieurs difficultés, elle doit toujours avoir le même offset.
-- **La piste audio d'une vidéo doit être supprimée du fichier vidéo.** La piste audio de la vidéo n'est pas utilisée dans osu!, donc la supprimer réduit la taille du fichier beatmap. Cela inclut les vidéos avec des pistes audio muettes.
+- **La piste audio d'une vidéo doit être supprimée du fichier vidéo.** La piste audio de la vidéo n'est pas utilisée dans osu!, et la supprimer réduit la taille du fichier beatmap. Cela inclut les vidéos avec des pistes audio muettes.
   - *Voir [Compression des fichiers § Vidéo](/wiki/Guides/Compressing_files#vidéo) pour des conseils.*
 
 ### Directives

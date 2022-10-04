@@ -19,8 +19,6 @@ tags:
   - Gerät
   - Benutzername
   - Löschung
-outdated_translation: true
-outdated_since: 8cec674a27b76b6e3859563537f2098cb06ce7c4
 ---
 
 # Account
@@ -159,6 +157,8 @@ Enthält dein Nutzername nur geringfügige Grammatik-/Rechtschreibfehler, dann k
 Wenn ein Spieler für mindestens 6 Monate nicht eingeloggt war und keine Plays hat, darf sein Nutzername via der [Änderungsseite im osu!store](https://osu.ppy.sh/store/products/32) für die entsprechende Standardgebühr beansprucht werden.
 
 Sofern dieser Spieler **tatsächlich** Plays in einem der Spielmodi hat, bestimmt eine [nicht-lineare Funktion](https://www.desmos.com/calculator/b89siyv9j8), wie viel zusätzliche Zeit zu den 6 Monaten hinzugefügt wird. Dadurch wird verhindert, dass Leute Nutzernamen von aktiven oder kürzlich zurückgetretenen Spielern stehlen.
+
+Des Weiteren können Nutzernamen von Spielern mit [gerankten Beatmaps](/wiki/Beatmap/Category#ranked) oder [Profilabzeichen](/wiki/Community/Profile_badge) nicht genommen werden.
 
 ### Ist es möglich meinen Namen auf meinen alten Namen zurückzusetzen? {#revert-username}
 
