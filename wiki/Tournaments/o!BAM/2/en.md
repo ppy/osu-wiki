@@ -212,8 +212,8 @@ Friday, 30 September 2022:
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | Can We Get Much Higher | 6 | **3** | **Marv and Willy show** | [#1](https://osu.ppy.sh/community/matches/104121676)
-| Lower | LENG ZAI | 4 | **6** | **Damn bratty crewmate** | [#1](https://osu.ppy.sh/community/matches/104122730)
+| Lower | Can We Get Much Higher | 6 | **3** | **Marv and Willy show** | [#1](https://osu.ppy.sh/community/matches/104121676) |
+| Lower | LENG ZAI | 4 | **6** | **Damn bratty crewmate** | [#1](https://osu.ppy.sh/community/matches/104122730) |
 
 Saturday, 1 October 2022:
 
