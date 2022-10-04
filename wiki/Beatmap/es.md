@@ -2,6 +2,7 @@
 tags:
   - mapset
   - beatmapset
+no_native_review: true
 ---
 
 # Beatmap
@@ -27,8 +28,6 @@ Una dificultad es un archivo con [la extensión .osu](/wiki/osu!_File_Formats/Os
 *Artículo principal: [Envío](/wiki/Submission)*
 
 Los autores de beatmaps pueden [enviar](/wiki/Submission) sus creaciones a la [lista pública de beatmaps](https://osu.ppy.sh/beatmapsets). Si bien cada beatmap se atribuye a una [sola persona](/wiki/Beatmap/Beatmap_host), a menudo es un esfuerzo conjunto: algunas dificultades pueden ser mapeadas por otras personas que trabajan [en colaboración](/wiki/Beatmap/Beatmap_collaborations) o [por separado](/wiki/Beatmap/Guest_difficulty).
-
-<!-- TODO: after https://github.com/ppy/osu-web/issues/5852 is resolved, this section will need an update -->
 
 Después del envío, el beatmap obtiene campos de metadatos adicionales, como descripción, idioma, género y el marcador de contenido explícito, que el propio autor del beatmap puede cambiar en el sitio web. El beatmap también adquiere el [texto del título](/wiki/Beatmap/Title_text), cuya apariencia puede modificarse con la ayuda del [Equipo de Evaluación de Nominaciones](/wiki/People/The_Team/Nomination_Assessment_Team).
 
@@ -94,10 +93,6 @@ Los jugadores de osu! de todos los modos de juego usan beatmaps para [subir de r
 Las 500 mejores puntuaciones en cada dificultad de un beatmap proporcionan [repeticiones](/wiki/Gameplay/Replay), que se pueden ver en línea o guardar para mostrarlas en una tabla de clasificación local.
 
 ### Charts y Destacados
-
-<!-- TODO: charts, as well as Chart Assembly Team, need to be referenced here when they receive a dedicated article (issue #4685) -->
-
-<!-- TODO: would be very cool to have a separate article for osu!(lazer) as well (issue #4686) -->
 
 *Artículo principal: [Beatmaps destacados](/wiki/Beatmap_Spotlights)*
 
