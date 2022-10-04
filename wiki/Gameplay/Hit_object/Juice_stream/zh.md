@@ -19,7 +19,3 @@ stub: true
 *小果* 通常为较小的，带颜色的[打击物件](/wiki/Hit_object)，出现在 [osu!catch](/wiki/Game_mode/osu!catch) 模式的[谱面](/wiki/Beatmap)内。
 
 玩家每次接住小果时，能获得 10 [分](/wiki/Gameplay/Score)，并且恢复少量[血量条](/wiki/Client/Interface/Health_bar)。在结算界面中，小果显示在 50 的位置。如果玩家丢失小果，将会损失[血量](/wiki/Gameplay/Health)，但不会因此而断掉[连击](/wiki/Gameplay/Combo_(score_multiplier))。
-
-<!-- TODO: Explain how droplets get generated -->
-
-<!-- TODO: Add images -->
