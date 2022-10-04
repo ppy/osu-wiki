@@ -36,7 +36,7 @@ These tips appear at the bottom of the [main menu](/wiki/Client/Interface#main-m
 - Pause/unpause the game quickly by hitting the middle mouse button. This can be disabled in options if you wish.
 - You can gain quick access to web links by clicking the chat bubble icon in song select, just above the [score listings](/wiki/Client/Interface#rankings).
 - Customise your osu! experience with new [skins](/wiki/Skin)! Download them from the [Skinning forum](https://osu.ppy.sh/community/forums/15).
-- Hit `F8` at any time to activate the in-game chat window. You can check out the [commands availablei](/wiki/Client/Interface/Chat_console#commands-list) in chat by typing `!help` or `/help`
+- Hit `F8` at any time to activate the in-game chat window. You can check out the [commands available](/wiki/Client/Interface/Chat_console#commands-list) in chat by typing `!help` or `/help`
 - Make sure to take breaks every so often. Your hands have to serve you in life for more than just osu! [spinners](/wiki/Gameplay/Hit_object/Spinner).
 - Don't ignore [unranked](/wiki/Beatmap/Category) maps. If you find some you like and leave [constructive comments](/wiki/Modding), there is a much higher chance of them being [ranked](/wiki/Beatmap_ranking_procedure)!
 - You can play songs together with other players in [multiplayer mode](/wiki/Client/Interface/Multiplayer)!

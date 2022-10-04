@@ -8,7 +8,7 @@
 
 The graveyard is a place where beatmaps abandoned by their [hosts](/wiki/Beatmap/Beatmap_host) reside. These beatmaps do not have leaderboards, but they can still be downloaded and played, and they continue to [contribute to play statistics](#unranked-beatmaps-statistics). They use the question mark icon (![](/wiki/shared/status/graveyard.png)) in the [song selection screen](/wiki/Client/Interface#song-select).
 
-A beatmap is moved to the graveyard from [Work in Progress and Pending](#work-in-progress-and-pending) automatically once it hasn't been updated for 4 weeks. The author can revive the beatmap (i.e. bring back to [Pending](#work-in-progress-and-pending)) by updating it via the [beatmap submission system](/wiki/Submission). A beatmap in the graveyard doesn't count towards a mapper's [total upload limit](/wiki/osu!supporter#increased-limits), but reviving it requires a free pending slot.
+A beatmap is moved to the graveyard from [Work in Progress and Pending](#work-in-progress-and-pending) automatically once it hasn't been updated for 4 weeks. The author can revive the beatmap (i.e. bring back to [Pending](#work-in-progress-and-pending)) by updating it via the [beatmap submission system](/wiki/Beatmapping/Beatmap_submission). A beatmap in the graveyard doesn't count towards a mapper's [total upload limit](/wiki/osu!supporter#increased-limits), but reviving it requires a free pending slot.
 
 ### Work in Progress and Pending
 
@@ -36,7 +36,7 @@ Loved beatmaps may not meet the [ranking criteria](/wiki/Ranking_Criteria), but 
 
 ### Approved
 
-The Approved beatmap category was used between 2008 and 2014 to house beatmaps that exceeded length and maximum score requirements on older renditions of the [ranking criteria](/wiki/Ranking_Criteria), as well as rare beatmaps that broke other rules on the criteria. 
+The Approved beatmap category was used between 2008 and 2014 to house beatmaps that exceeded length and maximum score requirements on older renditions of the [ranking criteria](/wiki/Ranking_Criteria), as well as rare beatmaps that broke other rules on the criteria.
 
 Approved beatmaps did not affect a user's score ranking until shortly after the shift from score ranking to [performance points](/wiki/Performance_points) ranking. Following this change, Approved status was used exclusively for beatmaps with more than 6 minutes of [drain time](/wiki/Gameplay/Drain_time).
 

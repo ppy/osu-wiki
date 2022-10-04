@@ -198,7 +198,7 @@
 | :-- | :-- |
 | ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263) | Выдающийся вклад в турнирную сцену osu!taiko |
 | ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502) | Выдающийся вклад в разработку osu!(lazer) |
-| ::{ flag=HR }:: [Susuko3](https://osu.ppy.sh/users/18945305) | Выдающийся вклад в разработку osu!(lazer) и osu!framework |
+| ::{ flag=HR }:: [Susko3](https://osu.ppy.sh/users/18945305) | Выдающийся вклад в разработку osu!(lazer) и osu!framework |
 | ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455) | Выдающийся вклад в разработку и поддержку системы очков производительности |
 | ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549) | Выдающийся вклад в разработку системы очков производительности |
 | ::{ flag=AU }:: [MBmasher](https://osu.ppy.sh/users/4498616) | Выдающийся вклад в разработку системы очков производительности и оживление мода Flashlight |
