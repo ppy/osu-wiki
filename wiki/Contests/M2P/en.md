@@ -22,7 +22,7 @@ Each iteration of the contest will have a different judge, with different tastes
 
 ## Schedules
 
-Iterations usually happen every 1 or 2 months, with each iteration's schedule going as follows:
+Iterations usually happen once every 1 or 2 months, with each iteration's schedule going as follows:
 
 | Event | Duration |
 | --: | :-- |
