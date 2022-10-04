@@ -96,20 +96,20 @@ If you want all the juicy judging details, you're in the right place.
 
 Here's the breakdown of scores:
 
-| Rank | Team submission | Mapper panel | Storyboarder panel | Averaged total |
-| :-- | :-- | :-- | :-- | :-- |
-| \#1 | [Crazy Thursday](https://osu.ppy.sh/beatmapsets/1841885) | 143 | 127 | **254.11** |
-| \#2 | [Crush the Candy Boys](https://osu.ppy.sh/beatmapsets/1841845) | 142 | 105 | **231.22** |
-| \#3 | [三角形.tar.gz](https://osu.ppy.sh/beatmapsets/1842041) | 84 | 149 | **223.67** |
-| \#4 | [absolutno pofig](https://osu.ppy.sh/beatmapsets/1841846) | 81 | 101 | **173** |
-| \#5 | [Δ = b² – 4ac](https://osu.ppy.sh/beatmapsets/1842004) | 78 | 84 | **153.33** |
-| \#6 | [?](https://osu.ppy.sh/beatmapsets/1841847) | 51 | 106 | **151.33** |
-| \#7 | [TV Sizers](https://osu.ppy.sh/beatmapsets/1841923) | 115 | 48 | **150.22** |
-| \#8 | [ULTRA ICE TEA](https://osu.ppy.sh/beatmapsets/1841926) | 68 | 84 | **144.44** |
-| \#9 | [Team Funny](https://osu.ppy.sh/beatmapsets/1842149) | 88 | 26 | **104.2222222** |
-| \#10 | [GokuLook Princesa](https://osu.ppy.sh/beatmapsets/1841839) | 69 | 42 | **103.33** |
-| \#11 | [Penta-force](https://osu.ppy.sh/beatmapsets/1841996) | 36 | 35 | **67** |
-| \#12 | dreamers | 9 | 8 | **16** |
+| Rank | Team submission | Mapper panel | Storyboarder panel | Averaged total | Public votes |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| \#1 | [Crazy Thursday](https://osu.ppy.sh/beatmapsets/1841885) | 143 | 127 | **254.11** | 233 |
+| \#2 | [Crush the Candy Boys](https://osu.ppy.sh/beatmapsets/1841845) | 142 | 105 | **231.22** | 132 |
+| \#3 | [三角形.tar.gz](https://osu.ppy.sh/beatmapsets/1842041) | 84 | 149 | **223.67** | 131 |
+| \#4 | [absolutno pofig](https://osu.ppy.sh/beatmapsets/1841846) | 81 | 101 | **173** | 126 |
+| \#5 | [Δ = b² – 4ac](https://osu.ppy.sh/beatmapsets/1842004) | 78 | 84 | **153.33** | 93 |
+| \#6 | [?](https://osu.ppy.sh/beatmapsets/1841847) | 51 | 106 | **151.33** | 54 |
+| \#7 | [TV Sizers](https://osu.ppy.sh/beatmapsets/1841923) | 115 | 48 | **150.22** | 101 |
+| \#8 | [ULTRA ICE TEA](https://osu.ppy.sh/beatmapsets/1841926) | 68 | 84 | **144.44** | 106 |
+| \#9 | [Team Funny](https://osu.ppy.sh/beatmapsets/1842149) | 88 | 26 | **104.22** | N/A |
+| \#10 | [GokuLook Princesa](https://osu.ppy.sh/beatmapsets/1841839) | 69 | 42 | **103.33** | N/A |
+| \#11 | [Penta-force](https://osu.ppy.sh/beatmapsets/1841996) | 36 | 35 | **67** | N/A |
+| \#12 | dreamers | 9 | 8 | **16** | N/A |
 
 Judging for this contest involved some experimentation. Instead of assigning raw numbers to submissions like most contests, the judges were given two tasks:
 
