@@ -12,11 +12,11 @@ tags:
 
 # Mapping to Pander: Taiko
 
-![contest banner](img/banner.jpg "Mapping to Pander: Taiko")
+![Сontest banner](img/banner.jpg "Mapping to Pander: Taiko")
 
 **Mapping to Pander: Taiko** (*M2P*) is an osu!taiko mapping contest series with two primary features: there is only one judge per iteration, and contestants may map any song.
 
-The goal this contest is simple: Contestants must create a map that panders best to the chosen judge for the contest. The judge will not be given any criteria; it will be up to them how they score and rank the entries, either by making their own criteria, or simply sorting them from best to worst.
+The goal this contest is simple: сontestants must create a map that panders best to the chosen judge for the contest. The judge will not be given any criteria; it will be up to them how they score and rank the entries, either by making their own criteria, or simply sorting the maps from best to worst.
 
 Each iteration of the contest will have a different judge, with different tastes and criteria from the last.
 
@@ -26,7 +26,7 @@ Iterations usually happen every 1 or 2 months, with each iteration's schedule go
 
 | Event | Duration |
 | --: | :-- |
-| Beatmapping | 2 weeks |
+| Mapping | 2 weeks |
 | Screening | Tentative[^schedules-screening] |
 | Judging | 1 or 2 weeks[^schedules-judging] |
 | Results | 1 day |
@@ -37,7 +37,7 @@ Alongside the Judging Criteria that each judge will provide, there are some rule
 
 - **All entries must be submitted as `.osz` files.** This is to ensure that the judges are able to download and test the entries without hassle.
 - **All entries must be osu!taiko beatmaps.**
-- **Submissions must include only ONE difficulty.** (unless stated otherwise by the judge.)
+- **Submissions must include only ONE difficulty,** unless stated otherwise by the judge.
 - **Songs must not exceed 6 minutes of length.** There will a bit of leeway in cases where the song is really close to the 6 minute mark.
 - **All submissions must be rankable.** No beatmap submitted must be intentionally unrankable. Mistakes happen and points will be deducted for them, but this is a regular mapping contest, not Aspire. (You're allowed to ignore spread rules for the sake of this contest.)
 - **Submissions must NOT be uploaded/shared with others before judging and results are announced.** Sharing your entry publicly by any means before the results are announced will get your entry disqualified, no questions asked.
@@ -95,7 +95,6 @@ Pander Points reward users with a **profile badge**, which can be upgraded at ce
 ## Notes
 
 [^schedules-screening]: The screening phase usually depends on the amount of entries submitted, and is not always necessary. If present, it can last for 1 to 3 days.
-
 [^schedules-judging]: The judging period usually depends on the availability of the judge.
 
 [GCrown]: /wiki/shared/crown-gold.png "1st place"

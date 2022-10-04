@@ -240,7 +240,7 @@ The **osu!trivium Quiz** is a trivia contest where players compete in answering 
 
 **Mapping to Pander: Taiko** is an osu!taiko mapping contest series with two primary features: there is only one judge per iteration, and contestants may map any song.
 
-The goal this contest is simple: Contestants must create a map that panders best to the chosen judge for the contest. The judge will not be given any criteria; it will be up to them how they score and rank the entries, either by making their own criteria, or simply sorting them from best to worst.
+The goal this contest is simple: contestants must create a map that panders best to the chosen judge for the contest. The judge will not be given any criteria; it will be up to them how they score and rank the entries, either by making their own criteria, or simply sorting the maps from best to worst.
 
 | Contest No. | Judge | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Results |
 | :-: | :-- | :-- | :-- | :-- | :-- |
