@@ -43,7 +43,9 @@ During this period, scores on profiles will start to show correct values, but st
 
 This will fix scores being out of order on profiles, and in some rare cases not being displayed at all.
 
-An initial indexing run has started which will provide coverage of the top 500,000 users' scores on profiles and leaderboards. A second pass will be started to cover the remaining after the first pass completes.
+An initial index run has **completed**, covering most of the top 1 million users.
+
+A second pass is in progress to cover the remaining users and scores.
 
 ## New changes
 
