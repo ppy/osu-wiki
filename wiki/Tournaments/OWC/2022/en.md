@@ -15,7 +15,7 @@ The **osu! World Cup 2022** (***OWC 2022***) is a country-based osu! tournament 
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2022-09-15/2022-09-29 |
-| Qualifier showcase | 2022-10-08 (14:00 UTC) |
+| Qualifier showcase | 2022-10-09 (14:00 UTC) |
 | Qualifier stage | 2022-10-15/2022-10-16 |
 | Round of 32 | 2022-10-22/2022-10-23 |
 | Round of 16 | 2022-10-29/2022-10-30 |
