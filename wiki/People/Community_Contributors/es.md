@@ -99,7 +99,7 @@ No debe confundirse con [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), que so
 | ::{ flag=CH }:: [Irreversible](https://osu.ppy.sh/users/1287964) | Contribución excepcional al BAT/QAT a lo largo de incontables años |
 | ::{ flag=DE }:: [Nwolf](https://osu.ppy.sh/users/1910766) | Cientos de horas de estadísticas y análisis de torneos de la World Cup |
 | ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973) | Presencia excepcional de árbitro en docenas de torneos de la comunidad |
-| ::{ flag=CA }:: [Evrien](https://osu.ppy.sh/users/791660) | Desempeño sobresaliente en castings, comentarios y redacciones/resúmenes basados en eventos |
+| ::{ flag=CA }:: [Evrien](https://osu.ppy.sh/users/791660) | Desempeño excepcional en castings, comentarios y redacciones/resúmenes basados en eventos |
 | ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | ¡La mente maestra detrás de innumerables mejoras a osu!, desde pp, reescritura del motor de gráficos, calificación de estrellas y más! |
 | ::{ flag=CA }:: [DrabWeb](https://osu.ppy.sh/users/6946022) | Contribución excepcional al proyecto osu!(lazer) |
 | ::{ flag=BY }:: [EVAST](https://osu.ppy.sh/users/8195163) | Contribución excepcional al proyecto osu!(lazer) con más de 90 pullreqs y cientos de confirmaciones |
@@ -124,7 +124,7 @@ No debe confundirse con [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), que so
 | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | Contribución excepcional a la organización y torneos de la World Cup |
 | ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | Contribución excepcional como miembro del GMT y del equipo de la osu! wiki |
 | ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350) | Contribución excepcional a través de muchos proyectos y dominios |
-| ::{ flag=BE }:: [VeilStar](https://osu.ppy.sh/users/4255720) | Excelente trabajo en soporte al jugador y resolución de problemas |
+| ::{ flag=BE }:: [VeilStar](https://osu.ppy.sh/users/4255720) | Trabajo excepcional en soporte al jugador y resolución de problemas |
 | ::{ flag=AT }:: [Stefan](https://osu.ppy.sh/users/626907) | Mantenedor extraordinario del proyecto de Packs de beatmaps |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Desarrollador de innumerables herramientas que han demostrado ser parte integral del ciclo de clasificación moderno |
 | ::{ flag=HU }:: [Kurokami](https://osu.ppy.sh/users/260933) | Contribución excepcional al proyecto Beatmaps destacados |
