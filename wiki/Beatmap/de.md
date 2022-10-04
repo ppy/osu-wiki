@@ -35,7 +35,7 @@ Nach dem Einreichen erlangt eine Beatmap weitere Felder für Metadaten, wie z. B
 Jede eingereichte Beatmap wird mit einer numerischen Kennung (`BeatmapSetID`) versehen, wodurch sie auf der Webseite und via der [osu!api](/wiki/osu!api) getrackt werden kann. Schwierigkeitsstufen einer Beatmap haben ebenfalls ihre eigene numerische Kennung (`BeatmapID`). Die URL, die zu einem spezifischem Schwierigkeitsgrad auf der Seite einer Beatmap führt, enthält beide Kennungen und hat das folgende Format:
 
 ```
-https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{Spielmodus}/{BeatmapID}`
+https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{Spielmodus}/{BeatmapID}
 ```
 
 ### Beatmap-Kategorie
