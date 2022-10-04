@@ -41,7 +41,7 @@ tags:
 所有提交后的谱面都获得了一组用于标识的数字 (`BeatmapSetID、SID`)，可用于在官网上或从 osu!api 内追溯到这张谱面。谱面内包含的难度也拥有它们独一无二的标识数字 (`BeatmapID、BID`)。谱面页面上指向特定难度标签的网页链接包含这两个标识数字，格式如下：
 
 ```
-https://osu.ppy.sh/beatmapsets/{SID}#{游戏模式}/{BID}`
+https://osu.ppy.sh/beatmapsets/{SID}#{游戏模式}/{BID}
 ```
 
 ### 谱面状态
