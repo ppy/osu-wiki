@@ -1,7 +1,5 @@
 ---
 layout: main_page
-outdated_since: e5c6703afd341354b50be467f885400c871cd0de
-outdated_translation: true
 ---
 
 <div class="wiki-main-page__blurb">
@@ -98,9 +96,11 @@ Faites votre part : [Comment et avec quoi aider](/wiki/Community/How_you_can_hel
 
 L'interaction sociale est l'une des principales choses qui alimentent les joueurs d'osu! dans le monde entier. Explorez les activités et les concours, entrez en contact avec d'autres personnes ou aidez à organiser le prochain grand événement !
 
+Lieux d'échanges : [Forum](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_Chat)
+
 [Tournois](/wiki/Tournaments) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Concours](/wiki/Contests) • [Community mentorship program](/wiki/Community/Community_Mentorship_Program)
 
-[Projets](/wiki/Community/Projects) : [Featured Artists](/wiki/Featured_Artists) • [osu! community meetings](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk)
+[Projets](/wiki/Community/Projects) • [Featured Artists](/wiki/Featured_Artists) • [Project Loved](/wiki/Community/Project_Loved) • [osu! community meetings](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk)
 
 Organisations : [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
