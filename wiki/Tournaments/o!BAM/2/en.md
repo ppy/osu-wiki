@@ -46,7 +46,9 @@ The osu! Battle Archive Malaysia 2022 is run by various community members.
 - [Official website](https://obam.osumalaysia.org/)
 - [Forum thread](https://osu.ppy.sh/community/forums/topics/1631878?n=1)
 - [Discord server](https://discord.gg/GYqWsQbEbF)
+- [Challonge brackets](https://challonge.com/OBAM2022)
 - [Livestream](https://www.twitch.tv/osumys)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1YFhj01IzKxNHZSRW2UoRECgAKintLc6nksrlaPVvtfE/edit#gid=2066198917)**
 
 ## Participants
 
@@ -99,6 +101,34 @@ The osu! Battle Archive Malaysia 2022 is run by various community members.
 | **H** | Anti-Cunny Action | osu retirement | shiroko's bicycle | Mandekissafriend |
 
 ## Mappools
+
+### Quarterfinals
+
+**[Download the mappack here! (94 MB)](https://cdn.discordapp.com/attachments/959526009546346516/1026517827089346590/OBAM2022_QF.rar)**
+
+- NoMod
+  1. [Aqours - Jump up HIGH!! (ktgster) \[Special\]](https://osu.ppy.sh/beatmapsets/1070810#osu/2241432)
+  2. [Kushper - Valley of Anime Ban (CosmicWolf) \[~Oh, Behold The Adventure~\]](https://osu.ppy.sh/beatmapsets/1463107#osu/3005485)
+  3. [Ushirokara Haiyoritai G - Koi wa Chaos no Shimobenari (Amamya) \[Rihan's Extra\]](https://osu.ppy.sh/beatmapsets/1717491#osu/3529703)
+  4. [Osanzi feat. Hatsune Miku - Manipulate (mrforse) \[Just Move...\]](https://osu.ppy.sh/beatmapsets/1770504#osu/3624362)
+  5. [CK - stella fiume (mezelyus) \[Delphinium\]](https://osu.ppy.sh/beatmapsets/1769503#osu/3622267)
+- Hidden
+  1. [Aitsuki Nakuru - Azura Luno (Keqing) \[Lunar Collab\]](https://osu.ppy.sh/beatmapsets/1465077#osu/3009051)
+  2. [Tanaka Nozomu, Kikuchi Akane, Saginomiya Shiori - Wa! Moon! dass! cry! (TV Size) (Yukiyo) \[ok\]](https://osu.ppy.sh/beatmapsets/999023#osu/2089413)
+  3. [Nekomata Master vs. HuMeR - BUZRA (Kyumo) \[J1'S EXTRA\]](https://osu.ppy.sh/beatmapsets/1376812#osu/2846066)
+- HardRock
+  1. [Manaka Kataoka & Yasuaki Iwata - Main Theme (Pyo) \[Breath of the Wild\]](https://osu.ppy.sh/beatmapsets/1432655#osu/2948556)
+  2. [solfa feat. Ceui - Koiiro Recipe (Amamya) \[Mayu's Insane\]](https://osu.ppy.sh/beatmapsets/1087207#osu/3286450)
+  3. [sana - Hisui no Machi (Firika) \[Rumi's Extra\]](https://osu.ppy.sh/beatmapsets/1017483#osu/2239240)
+- DoubleTime
+  1. [Nakasu Kasumi (CV: Sagara Mayu) - Mutekikyuu*Believer (caps) \[Noctiam's Insane\]](https://osu.ppy.sh/beatmapsets/1190325#osu/2602942)
+  2. [Xceon - Fuyu Tsubaki ft. Kanae Asaba (\_kotachi\_) \[el psy congroo\]](https://osu.ppy.sh/beatmapsets/1756741#osu/3595025)
+  3. [Down - Luscent (Down) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/1641533#osu/3350322)
+- DoubleTime + Easy
+  1. [SHK - Death Moon II (ktgster) \[Insane\]](https://osu.ppy.sh/beatmapsets/472158#osu/1009021)
+- FreeMod
+  1. [Rohi - Kakuzetsu Thanatos (NatsumeRin) \[Skystar\]](https://osu.ppy.sh/beatmapsets/1859909#osu/3823340)
+  2. [Nor - Theme 121 (Chizu-Kun) \[wakamo one shot ?\]](https://osu.ppy.sh/beatmapsets/1859909#osu/3823340)
 
 ### Round of 16
 
@@ -175,6 +205,49 @@ The osu! Battle Archive Malaysia 2022 is run by various community members.
   3. [Suara - Nuedori (VINXIS) \[emilia's Heavy Insane\]](https://osu.ppy.sh/beatmapsets/1143697#osu/2479193)
 
 ## Match results
+
+### Round of 16
+
+Friday, 30 September 2022:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | Can We Get Much Higher | 6 | **3** | **Marv and Willy show** | [#1](https://osu.ppy.sh/community/matches/104121676)
+| Lower | LENG ZAI | 4 | **6** | **Damn bratty crewmate** | [#1](https://osu.ppy.sh/community/matches/104122730)
+
+Saturday, 1 October 2022:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **Miyu Archive** | **6** | 1 | yes seggs | [#1](https://osu.ppy.sh/community/matches/104147351) |
+| Upper | Dreamy Color | 1 | **6** | **chungus capoo** | [#1](https://osu.ppy.sh/community/matches/104148876) |
+| Lower | **:froggy:** | 6 | 1 | Ikan | [#1](https://osu.ppy.sh/community/matches/104150253) |
+| Lower | The Platinum Wok | 0 | **6** | **Japanese Goblin** | *win by default* |
+| Lower | shiroko's bicycle | 0 | **6** | **koko soko asoko** | *win by default* |
+
+Sunday, 2 October 2022:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | Offensize Name | 0 | **6** | **Mandekissafriend** | *win by default* |
+| Upper | sturrige curry | 0 | **6** | **NAJIB FANCLUB** | *win by default* |
+| Upper | **Diggas in paris** | **6** | 2 | Where Love Lies | [#1](https://osu.ppy.sh/community/matches/104177721) |
+| Lower | **openureyesyouwillsee** | **6** | 0 | AMOGUS SUSSY BAKA S\_ | [#1](https://osu.ppy.sh/community/matches/104179121) |
+| Upper | Flover | 4 | **6** | **kinda hot tho** | [#1](https://osu.ppy.sh/community/matches/104178864) |
+| Upper | Anti-Cunny Action | 0 | **6** | **ENERGY GAP** | *win by default* |
+
+Monday, 3 October 2022:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **Cat Enjoyer** | **6** | 0 | 洪家派驰名海鲜煮炒餐馆 (Hongjiapai Famous Seafood Restaurant) | [#1](https://osu.ppy.sh/community/matches/104199705) |
+| Upper | **Vanity** | **6** | 5 | osu retirement | [#1](https://osu.ppy.sh/community/matches/104201764) |
+
+Tuesday, 4 October 2022:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **RUDOLF ENJOYERS** | **6** | 5 | The Cunnysseurs | [#1](https://osu.ppy.sh/community/matches/104219809) |
 
 ### Group stage
 
