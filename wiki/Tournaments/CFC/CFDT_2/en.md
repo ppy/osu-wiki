@@ -33,6 +33,8 @@ The **Catch French Dual Tournament 2** (***CFDT 2***) was a French double-elimin
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 2 months of osu!supporter |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter |
 
+![](img/badge.jpg "CFDT 2 winner badge")
+
 ## Organisation
 
 The Catch French Dual Tournament 2 is run by various community members.
@@ -78,6 +80,16 @@ The Catch French Dual Tournament 2 is run by various community members.
 | **Red Hawk** | ::{ flag=FR }:: **[Kanna\_Shiro](https://osu.ppy.sh/users/12943235)**, ::{ flag=AR }:: [Saikai](https://osu.ppy.sh/users/8172283) |
 | **Taco w/ Baguette** | ::{ flag=FR }:: **[Gray Hardrock](https://osu.ppy.sh/users/9049282)**, ::{ flag=CL }:: [Pekorrat](https://osu.ppy.sh/users/1250096) |
 | **Timezone diff** | ::{ flag=FR }:: **[Jielefe](https://osu.ppy.sh/users/15334170)**, ::{ flag=KR }:: [\[Amazing\]](https://osu.ppy.sh/users/1391036) |
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **5€** (::{ flag=FR }:: **[Boros](https://osu.ppy.sh/users/5490623)**, ::{ flag=KR }:: [T s u m i](https://osu.ppy.sh/users/4080520)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **:pleading_face:** (::{ flag=FR }:: **[Natsuko](https://osu.ppy.sh/users/8266817)**, ::{ flag=ID }:: [Ruu](https://osu.ppy.sh/users/3212755)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **French Penguins** (::{ flag=FR }:: **[Yostel](https://osu.ppy.sh/users/3594510)**, ::{ flag=IT }:: [ArMa79](https://osu.ppy.sh/users/4982799)) |
 
 ## Mappools
 
