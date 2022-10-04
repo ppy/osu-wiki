@@ -81,6 +81,33 @@ The Catch French Dual Tournament 2 is run by various community members.
 
 ## Mappools
 
+### Grand Finals
+
+- NoMod
+  1. [Kobaryo - Villain Virus \[feat. Camellia\] (x\_angelkawaii\_x) \[Deluge\]](https://osu.ppy.sh/beatmapsets/1689443#fruits/3519510)
+  2. [Studio EIM - Crescent Moon Island Boss Theme (Emiru) \[Keaghan\]](https://osu.ppy.sh/beatmapsets/817364#fruits/1714006)
+  3. [siqlo - parsley (autofanboy) \[/eftover\]](https://osu.ppy.sh/beatmapsets/1856063#fruits/3814171)
+  4. [SHK - Imagination (ktgster) \[SHD\]](https://osu.ppy.sh/beatmapsets/1078340#fruits/2256378)
+  5. [LiSA - Gurenge (Crissa) \[Dance of the Fire God\]](https://osu.ppy.sh/beatmapsets/1025171#fruits/2144225)
+  6. [gmtn. (witch's slave) - Daraku no Sono (yf\_bmp) \[SB's Extra\]](https://osu.ppy.sh/beatmapsets/1470956#fruits/3302302)
+- Hidden
+  1. [kanemiko - Electrolytes (Unlucky_w) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1774562#fruits/3633672)
+  2. [Laur - Fairy in Strasbourg (Crowley) \[Billiam, my beloved.\]](https://osu.ppy.sh/beatmapsets/1373059#fruits/2838713)
+  3. [Nekomata Master - Smile of Split (Charles445) \[Insane\]](https://osu.ppy.sh/beatmapsets/56847#fruits/171678)
+  4. [Kenshi Yonezu - MAD HEAD LOVE (Keqing) \[CRAZY\]](https://osu.ppy.sh/beatmapsets/1429536#fruits/2942890)
+- HardRock
+  1. [Camellia feat. Nanahira - Bassline Yatteru? w (Kukkai) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1643938#fruits/3355835)
+  2. [CELLON. - Virtual mode (JBHyperion) \[Sanyi's Overdose\]](https://osu.ppy.sh/beatmapsets/1069501#fruits/2291062)
+  3. [Camellia - Routing (Shiirn) \[Extra\]](https://osu.ppy.sh/beatmapsets/403282#fruits/967558)
+  4. [Sta - Shadows in the Light (Nerova Riuz GX) \[-presence?\]](https://osu.ppy.sh/beatmapsets/504690#fruits/1073731)
+- DoubleTime
+  1. [Luna - Shinsekai no Alpha (amulet-pp) \[Lumi's Rain\]](https://osu.ppy.sh/beatmapsets/1319986#fruits/2747990)
+  2. [LiSA - Homura (Secre) \[Purgatory\]](https://osu.ppy.sh/beatmapsets/1397428#fruits/2883811)
+  3. [K/DA - MORE feat. Madison Beer, (G)I-DLE, Lexie Liu, Jaira Burns, Seraphine (Elinor) \[Halgoh & Eli's Insane\]](https://osu.ppy.sh/beatmapsets/1288125#fruits/2674544)
+  4. [The Fray - How to Save a Life (- Heatwave -) \[Powerless\]](https://osu.ppy.sh/beatmapsets/1767475#fruits/3742749)
+- Tiebreaker
+  1. **[DragonForce - Defenders (fuhie) \[fuhie & Verti's Primordial Guardians\]](https://osu.ppy.sh/beatmapsets/1557758#fruits/3182142)**
+
 ### Finals
 
 - NoMod
