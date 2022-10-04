@@ -20,11 +20,11 @@ The **Catch French Dual Tournament 2** (***CFDT 2***) was a French double-elimin
 | Screening phase | 2022-07-25/2022-08-07 |
 | Live drawings | 2022-08-14 (21:00 UTC+2) |
 | Qualifiers | 2022-08-16/2022-08-21 |
-| Round of 16 | 2022-08-23/2022-08-24 |
-| Quarterfinals | 2022-08-30/2022-08-31 |
-| Semifinals | 2022-09-03/2022-09-04 |
-| Finals | 2022-09-10/2022-09-11 |
-| Grand Finals | 2022-09-17/2022-09-18 |
+| Round of 16 | 2022-08-27/2022-08-28 |
+| Quarterfinals | 2022-09-03/2022-09-04 |
+| Semifinals | 2022-09-10/2022-09-17 |
+| Finals | 2022-09-24/2022-09-25 |
+| Grand Finals | 2022-10-02 |
 
 ## Prizes
 
@@ -217,6 +217,31 @@ The Catch French Dual Tournament 2 is run by various community members.
   1. [Silentroom vs. Frums - Aegleseeker (Jemzuu) \[AFB's Platter\]](https://osu.ppy.sh/beatmapsets/1460413#fruits/3024973)
 
 ## Match results
+
+### Semifinals
+
+Saturday, 10 September 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Le Grand Jordan23 | -1 | **0** | **Timezone diff** | *win by default* |
+| **Taco w/ Baguette** | **6** | 0 | Not French | [#1](https://osu.ppy.sh/community/matches/103694062) |
+| **French Penguins** | **6** | 0 | :nanasmil: | [#1](https://osu.ppy.sh/community/matches/103696984) |
+
+Sunday, 11 September 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Florika** | **6** | 5 | JP DANS DA TOURNOI | [#1](https://osu.ppy.sh/community/matches/103708019) |
+| **5€** | **6** | 1 | FR X US coalition | [#1](https://osu.ppy.sh/community/matches/103717587) |
+| **:pleading_face:** | **6** | 0 | Quesedilla avec les frites BELGES | [#1](https://osu.ppy.sh/community/matches/103719087) |
+
+Saturday, 17 September 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Timezone diff | 1 | **6** | **French Penguins** | [#1](https://osu.ppy.sh/community/matches/103843733) |
+| **Florika** | **6** | 3 | Taco w/ Baguette | [#1](https://osu.ppy.sh/community/matches/103843022) |
 
 ### Quarterfinals
 
