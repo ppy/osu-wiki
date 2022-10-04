@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Results - triangles"
-date: 2022-10-03 20:00:00 +0000
+date: 2022-10-04 20:00:00 +0000
 ---
 
 Votes are tallied. Judges are locked in. See who comes home with the gold in this triangle-themed beatmapping and storyboarding contest!
@@ -32,9 +32,9 @@ If you want to watch alongside Twitch chat, [the VOD is here too!](https://www.t
 
 Let's kick things off with [**this submission**](https://osu.ppy.sh/beatmapsets/1842041) by [Fisky](https://osu.ppy.sh/users/8352623), [ScubDomino](https://osu.ppy.sh/users/8972308), [fanzhen0019](https://osu.ppy.sh/users/418699), [Tommy Phelps](https://osu.ppy.sh/users/10974581) and [VenerableNyanta](https://osu.ppy.sh/users/12243368)! Despite earning #3 overall, this entry managed to win the **#1 spot in the storyboarding department!**
 
-![Storyboarders' Pick](/wiki/shared/news/2022-10-03-results-triangles/sb.jpg)
+![Storyboarders' Pick](/wiki/shared/news/2022-10-04-results-triangles/sb.jpg)
 
-[![submission preview](/wiki/shared/news/2022-10-03-results-triangles/sbpreview.png)](https://osu.ppy.sh/beatmapsets/1842041)
+[![submission preview](/wiki/shared/news/2022-10-04-results-triangles/sbpreview.png)](https://osu.ppy.sh/beatmapsets/1842041)
 
 Combining the expertise of [Tommy Phelps](https://osu.ppy.sh/users/10974581) and [VenerableNyanta](https://osu.ppy.sh/users/12243368) (a.k.a. two of osu!'s most well-known storyboarders), it's no surprise that this team managed to win the hearts of the storyboarder panel.
 
@@ -52,9 +52,9 @@ Along with this prize, the storyboarders of this team have earned themselves the
 
 Veteran winners from our previous team-based mapping contest [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) made a return this year with [**the most artsy submission around**](https://osu.ppy.sh/beatmapsets/1841845)! Created by [Altai](https://osu.ppy.sh/users/5745865), [DeviousPanda](https://osu.ppy.sh/users/4966334), [Mao](https://osu.ppy.sh/users/2204515), [Noffy](https://osu.ppy.sh/users/1541323) and [TheDuckMask](https://osu.ppy.sh/users/7405768), this submission came super close to the winning spot in all categories, ultimately making it the **overall runner-up** in the contest!
 
-![Overall runner-up](/wiki/shared/news/2022-10-03-results-triangles/runnerup.jpg)
+![Overall runner-up](/wiki/shared/news/2022-10-04-results-triangles/runnerup.jpg)
 
-[![submission preview](/wiki/shared/news/2022-10-03-results-triangles/runneruppreview.png)](https://osu.ppy.sh/beatmapsets/1841845)
+[![submission preview](/wiki/shared/news/2022-10-04-results-triangles/runneruppreview.png)](https://osu.ppy.sh/beatmapsets/1841845)
 
 Tackling the challenge of a <1MB storyboard led many teams to use minimalistic vector styles, but [Noffy](https://osu.ppy.sh/users/1541323) and [TheDuckMask](https://osu.ppy.sh/users/7405768) took the challenge in a completely different direction — they drew a story uniting all of osu!'s mascots (including the new mascot *DJ peppy*), all with original artwork drawn by the two artists.
 
@@ -68,9 +68,9 @@ Everyone in this team has earned the **Overall runner-up** profile badge!
 
 Telling a story about how osu! reaches all corners of the world, [this submission](https://osu.ppy.sh/beatmapsets/1841885) by [yf_bmp](https://osu.ppy.sh/users/1243669), [TtmnZk](https://osu.ppy.sh/users/2495509), [Yugu](https://osu.ppy.sh/users/3161834), [Chaoslitz](https://osu.ppy.sh/users/3621552) and [Yumeno Himiko](https://osu.ppy.sh/users/1806962) is not only the **overall winner**, but also the **highest scoring entry from the mapper judge panel** and the **community vote winner** by over 100 votes!
 
-![Overall winner](/wiki/shared/news/2022-10-03-results-triangles/overall.jpg)
+![Overall winner](/wiki/shared/news/2022-10-04-results-triangles/overall.jpg)
 
-[![submission preview](/wiki/shared/news/2022-10-03-results-triangles/winnerpreview.png)](https://osu.ppy.sh/beatmapsets/1841885)
+[![submission preview](/wiki/shared/news/2022-10-04-results-triangles/winnerpreview.png)](https://osu.ppy.sh/beatmapsets/1841885)
 
 Honestly, words don't do this justice. [Play the map yourself](https://osu.ppy.sh/beatmapsets/1841885) and soak in the storyboard to fully understand why it's the winner.
 
@@ -110,6 +110,8 @@ Here's the breakdown of scores:
 | \#10 | [GokuLook Princesa](https://osu.ppy.sh/beatmapsets/1841839) | 69 | 42 | **103.33** | N/A |
 | \#11 | [Penta-force](https://osu.ppy.sh/beatmapsets/1841996) | 36 | 35 | **67** | N/A |
 | \#12 | dreamers | 9 | 8 | **16** | N/A |
+
+See the [contest listing](https://osu.ppy.sh/community/contests/147) for more details on the community vote.
 
 Judging for this contest involved some experimentation. Instead of assigning raw numbers to submissions like most contests, the judges were given two tasks:
 
