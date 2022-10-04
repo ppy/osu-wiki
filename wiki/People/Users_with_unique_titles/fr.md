@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 689c2f3805a618b8f08342661faa1a0328fccfb1
+---
+
 # Utilisateurs avec des titres uniques
 
 Les titres d'utilisateurs sont généralement associés aux [groupes d'utilisateurs](/wiki/People/The_Team#groupes-d'utilisateurs), mais les utilisateurs listés ci-dessous ont reçu leur titre pour d'autres raisons. La plupart des titres étaient des récompenses pour des contributions ou des réalisations, les autres étant des symboles de l'histoire emblématique ou amusante d'osu!.
@@ -240,6 +245,7 @@ Les [Featured Artists](/wiki/Featured_Artists) possédant un compte osu! reçoiv
 | ::{ flag=ES }:: [sotuiofficial](https://osu.ppy.sh/users/14779258) | [Rising Sun Traxx](https://osu.ppy.sh/beatmaps/artists/41) |
 | ::{ flag=RU }:: [tieff](https://osu.ppy.sh/users/89619) | [tieff](https://osu.ppy.sh/beatmaps/artists/34) |
 | ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) | [VINXIS](https://osu.ppy.sh/beatmaps/artists/22) |
+| ::{ flag=TH }:: [YuugenP](https://osu.ppy.sh/users/2014016) | [rN](https://osu.ppy.sh/beatmaps/artists/190) |
 
 ## Gagnants du concours de création de mascotte
 
