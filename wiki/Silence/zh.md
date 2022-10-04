@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # 禁言
 
 **禁言**是一种剥夺用户与osu!社区互动权利的惩罚。[Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team)，[Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team)有权对违反了[规章制度](/wiki/Rules)的用户进行禁言。
