@@ -25,4 +25,5 @@ no_native_review: true
 - [Score](Score)
 - [Snapping](Snapping)
 - [Star](Star)
+- [Timing](Timing)
 - [버전](Version)
