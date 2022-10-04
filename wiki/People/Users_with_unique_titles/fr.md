@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 689c2f3805a618b8f08342661faa1a0328fccfb1
----
-
 # Utilisateurs avec des titres uniques
 
 Les titres d'utilisateurs sont généralement associés aux [groupes d'utilisateurs](/wiki/People/The_Team#groupes-d'utilisateurs), mais les utilisateurs listés ci-dessous ont reçu leur titre pour d'autres raisons. La plupart des titres étaient des récompenses pour des contributions ou des réalisations, les autres étant des symboles de l'histoire emblématique ou amusante d'osu!.
@@ -133,6 +128,7 @@ La plupart des concours officiels de mapping offrent le titre de **Elite Mapper*
 - ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114)
 - ::{ flag=US }:: [Behonkiss](https://osu.ppy.sh/users/106)
 - ::{ flag=KR }:: [Beige](https://osu.ppy.sh/users/685229)
+- ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552)
 - ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565)
 - ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334)
 - ::{ flag=MY }:: [ExPew](https://osu.ppy.sh/users/665612)
@@ -161,6 +157,9 @@ La plupart des concours officiels de mapping offrent le titre de **Elite Mapper*
 - ::{ flag=LY }:: [Soul Evans](https://osu.ppy.sh/users/4490770)
 - ::{ flag=BE }:: [Sylas](https://osu.ppy.sh/users/3906405)
 - ::{ flag=KR }:: [Taeyang](https://osu.ppy.sh/users/2732340)
+- ::{ flag=CN }:: [TtmnZk](https://osu.ppy.sh/users/2495509)
+- ::{ flag=CN }:: [yf\_bmp](https://osu.ppy.sh/users/1243669)
+- ::{ flag=CN }:: [Yugu](https://osu.ppy.sh/users/3161834)
 - ::{ flag=RU }:: [xbopost](https://osu.ppy.sh/users/6842421)
 - ::{ flag=SE }:: [Xgor](https://osu.ppy.sh/users/98661)
 - ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768)
@@ -270,10 +269,14 @@ Ces storyboarders ont reçu le titre de **Elite Storyboarder** pour avoir fait p
 
 - ::{ flag=DK }:: [-Tochi](https://osu.ppy.sh/users/3664366)
 - ::{ flag=US }:: [11t](https://osu.ppy.sh/users/2112092)
+- ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552)
 - ::{ flag=FR }:: [Damnae](https://osu.ppy.sh/users/989377)
 - ::{ flag=PL }:: [Exile-](https://osu.ppy.sh/users/2559349)
 - ::{ flag=RU }:: [Shmiklak](https://osu.ppy.sh/users/5504231)
-- ::{ flag=CN }:: [yf_bmp](https://osu.ppy.sh/users/1243669)
+- ::{ flag=RU }:: [Tommy Phelps](https://osu.ppy.sh/users/10974581)
+- ::{ flag=DZ }:: [VenerableNyanta](https://osu.ppy.sh/users/12243368)
+- ::{ flag=CN }:: [yf_bmp](https://osu.ppy.sh/users/1243669)[^yf-note]
+- ::{ flag=CN }:: [Yumeno Himiko](https://osu.ppy.sh/users/1806962)
 
 ## En rapport avec le jeu
 
@@ -328,3 +331,4 @@ Ces utilisateurs ont reçu leurs titres respectifs pour des raisons diverses.
 [^mao-note]: ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515) a reçu le titre de **Elite Mapper II** pour avoir réussi à obtenir le titre d'Elite Mapper par deux moyens différents : La victoire au concours [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) et le dépassement du seuil de 6 points dans le nouveau système [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest).
 [^charles445-note]: ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000) a reçu le titre **Elite Mapper II : Aspirant** pour avoir remporté le [Monthly Beatmapping Contest #1](https://osu.ppy.sh/home/news/2013-10-20-monthly-beatmapping-contest-1-results) et le [Monthly Beatmapping Contest : Aspire (2014)](https://osu.ppy.sh/home/news/2014-11-13-monthly-beatmapping-contest-aspire-results).
 [^billiummoto-note]: ::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471) a reçu le titre **osu!mixer II** pour avoir remporté l'[osu!remix contest #1](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results) et le concours [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest).
+[^yf-note]: ::{ flag=CN }:: [yf_bmp](https://osu.ppy.sh/users/1243669) a reçu le titre **Elite Storyboarder II** pour avoir [déjà reçu le titre](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020) en raison de ses contributions exceptionnelles à la scène du storyboarding, ainsi que pour avoir remporté le [triangles Beatmapping Contest](/wiki/Contests/triangles_Beatmapping_Contest).
