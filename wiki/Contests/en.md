@@ -68,7 +68,7 @@ After a long hiatus, the Monthly Beatmapping Contest was rebooted in January 202
 | [#4](https://osu.ppy.sh/home/news/2018-08-19-aspire-2018-begins) | [Culprate - Acid Rain](https://osu.ppy.sh/beatmaps/artists/29) | ::{ flag=TW }:: [SnowNiNo\_](https://osu.ppy.sh/users/2506267) | ::{ flag=FI }:: [DTM9 Nowa](https://osu.ppy.sh/users/5428909) | ::{ flag=LT }:: [seselis1](https://osu.ppy.sh/users/7321833) | [#1](https://osu.ppy.sh/home/news/2019-07-22-aspire-2018-results) |
 | [#5](https://osu.ppy.sh/home/news/2020-04-09-aspire-v-a-new-format) | Any song available in the [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists) as per April 2020 | ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619) *(community pick winner)*, ::{ flag=CN }:: [fanzhen0019](https://osu.ppy.sh/users/418699) *(mapper's pick winner)* | ::{ flag=CA }:: [Meow Mix](https://osu.ppy.sh/users/3021634) | ::{ flag=CN }:: [fanzhen0019](https://osu.ppy.sh/users/418699) | [#1](https://osu.ppy.sh/home/news/2020-08-23-aspire-v-results) |
 
-### [osu! Mapping Olympiad](A_Labour_of_Love_Contest/en.md)
+### [osu! Mapping Olympiad](A_Labour_of_Love_Contest)
 
 The **osu! Mapping Olympiad** is a mapping contest that is held as a spiritual successor to the earlier (pre-2020) Monthly Beatmapping Contests. In this contest, participating mappers are tasked to create either a beatmap with a proper [difficulty spread](/wiki/Beatmap/Difficulty#difficulty-levels) starting from Easy or Normal onwards or a certain number of difficulties for any of the given songs in each corresponding iteration.
 
@@ -240,9 +240,9 @@ The goal this contest is simple: contestants must create a map that panders best
 
 | Contest No. | Judge | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Results |
 | :-: | :-- | :-- | :-- | :-- | :-- |
-| [#1](https://osu.ppy.sh/community/forums/topics/1624880) | ::{ FLAG=NL }:: [Boaz](https://osu.ppy.sh/users/13302996) | ::{ FLAG=JP }:: [_Rise](https://osu.ppy.sh/users/5217107) | ::{ FLAG=CL }:: [Metsaller](https://osu.ppy.sh/users/4364791) | ::{ FLAG=FI }:: [Antti](https://osu.ppy.sh/users/13281473) | [Results](https://docs.google.com/spreadsheets/d/1aR1GjF8diyjFhK_k_uOkU40zIKjaQbXhVbGDGmq5pdg/edit?usp=sharing) |
-| [#2](https://osu.ppy.sh/community/forums/topics/1639586) | ::{ FLAG=AR }:: [Axer](https://osu.ppy.sh/users/7299864) | ::{ FLAG=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) | ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957) | ::{ FLAG=US }:: [Vixlowo](https://osu.ppy.sh/users/20295114) | [Results](https://docs.google.com/spreadsheets/d/1ps3bOL2JlzwPEh0gVTLHnp7E48stwqHMH6-ljDSBJQs/edit?usp=sharing) |
-| [#3](https://osu.ppy.sh/community/forums/topics/1652502) | ::{ FLAG=US }:: [radar](https://osu.ppy.sh/users/7131099) | *TBD* | *TBD* | *TBD* | *TBD* |
+| [#1](https://osu.ppy.sh/community/forums/topics/1624880) | ::{ flag=NL }:: [Boaz](https://osu.ppy.sh/users/13302996) | ::{ flag=JP }:: [_Rise](https://osu.ppy.sh/users/5217107) | ::{ flag=CL }:: [Metsaller](https://osu.ppy.sh/users/4364791) | ::{ flag=FI }:: [Antti](https://osu.ppy.sh/users/13281473) | [Results](https://docs.google.com/spreadsheets/d/1aR1GjF8diyjFhK_k_uOkU40zIKjaQbXhVbGDGmq5pdg/edit?usp=sharing) |
+| [#2](https://osu.ppy.sh/community/forums/topics/1639586) | ::{ flag=AR }:: [Axer](https://osu.ppy.sh/users/7299864) | ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) | ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957) | ::{ flag=US }:: [Vixlowo](https://osu.ppy.sh/users/20295114) | [Results](https://docs.google.com/spreadsheets/d/1ps3bOL2JlzwPEh0gVTLHnp7E48stwqHMH6-ljDSBJQs/edit?usp=sharing) |
+| [#3](https://osu.ppy.sh/community/forums/topics/1652502) | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | *TBD* | *TBD* | *TBD* | *TBD* |
 
 ### [osb! Storyboarding Contest](osb!_Storyboarding_Contest)
 
