@@ -10,6 +10,8 @@ tags:
   - ビート
   - ホワイトライン
   - ホワイトティック
+outdated_translation: true
+outdated_since: 488ffea2635fd3cf50cf002e40e18b94e238082a
 ---
 # ビート
 

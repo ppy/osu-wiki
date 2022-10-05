@@ -15,6 +15,8 @@ tags:
   - satu ketukan
   - satu ketukan penuh
   - tick putih
+outdated_translation: true
+outdated_since: 488ffea2635fd3cf50cf002e40e18b94e238082a
 ---
 
 # Ketukan (Beat)
