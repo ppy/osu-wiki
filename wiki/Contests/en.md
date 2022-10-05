@@ -8,9 +8,7 @@ This section is dedicated for contests held throughout the osu! community.
 
 Official contests are hosted (or otherwise recognised as official) by the [osu! team](/wiki/People/The_Team). Most official contests have their own pages on the [contests listing](https://osu.ppy.sh/community/contests).
 
-### Monthly Beatmapping Contest
-
-*Main page: [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest)*
+### [Monthly Beatmapping Contest](Monthly_Beatmapping_Contest)
 
 The **Monthly Beatmapping Contest**, in its initial concept, was a mapping contest where participating mappers competed to create the most outstanding beatmap of a given song with a proper [difficulty spread](/wiki/Beatmap/Difficulty#difficulty-levels) starting from Easy or Normal onwards in a month.
 
@@ -58,7 +56,7 @@ After a long hiatus, the Monthly Beatmapping Contest was rebooted in January 202
 | [April 2021 (osu!catch)](https://osu.ppy.sh/community/contests/124) |  [MYUKKE.](https://osu.ppy.sh/beatmaps/artists/121) | ![osu!catch][osu!catch] | ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114) | ::{ flag=TH }:: [rew0825](https://osu.ppy.sh/users/2488026) | *N/A* | [#1](https://osu.ppy.sh/home/news/2021-06-25-results-monthly-beatmapping-contest-may-osu) |
 | [May 2021 (osu!)](https://osu.ppy.sh/community/contests/127) |  [Masahiro "Godspeed" Aoki](https://osu.ppy.sh/beatmaps/artists/136) | ![osu!][osu!] | ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334) | ::{ flag=RU }:: [kuyusu](https://osu.ppy.sh/users/11758667) | ::{ flag=RU }:: [kuyusu](https://osu.ppy.sh/users/11758667) | [#1](https://osu.ppy.sh/home/news/2021-06-25-results-monthly-beatmapping-contest-may-osu) |
 
-### Aspire
+### [Aspire](Aspire)
 
 **Aspire** is a one-of-a-kind mapping contest where participating mappers are challenged to create the most innovative beatmap imaginable without any restrictions from the [ranking criteria](/wiki/Ranking_Criteria). The contest encourages mappers to explore the technical possibilities of the game as far as possible.
 
@@ -70,9 +68,7 @@ After a long hiatus, the Monthly Beatmapping Contest was rebooted in January 202
 | [#4](https://osu.ppy.sh/home/news/2018-08-19-aspire-2018-begins) | [Culprate - Acid Rain](https://osu.ppy.sh/beatmaps/artists/29) | ::{ flag=TW }:: [SnowNiNo\_](https://osu.ppy.sh/users/2506267) | ::{ flag=FI }:: [DTM9 Nowa](https://osu.ppy.sh/users/5428909) | ::{ flag=LT }:: [seselis1](https://osu.ppy.sh/users/7321833) | [#1](https://osu.ppy.sh/home/news/2019-07-22-aspire-2018-results) |
 | [#5](https://osu.ppy.sh/home/news/2020-04-09-aspire-v-a-new-format) | Any song available in the [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists) as per April 2020 | ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619) *(community pick winner)*, ::{ flag=CN }:: [fanzhen0019](https://osu.ppy.sh/users/418699) *(mapper's pick winner)* | ::{ flag=CA }:: [Meow Mix](https://osu.ppy.sh/users/3021634) | ::{ flag=CN }:: [fanzhen0019](https://osu.ppy.sh/users/418699) | [#1](https://osu.ppy.sh/home/news/2020-08-23-aspire-v-results) |
 
-### osu! Mapping Olympiad
-
-*Main page: [osu! Mapping Olympiad](/wiki/Contests/Mapping_Olympiad)*
+### [osu! Mapping Olympiad](A_Labour_of_Love_Contest)
 
 The **osu! Mapping Olympiad** is a mapping contest that is held as a spiritual successor to the earlier (pre-2020) Monthly Beatmapping Contests. In this contest, participating mappers are tasked to create either a beatmap with a proper [difficulty spread](/wiki/Beatmap/Difficulty#difficulty-levels) starting from Easy or Normal onwards or a certain number of difficulties for any of the given songs in each corresponding iteration.
 
@@ -117,7 +113,7 @@ The **Community Mapping Contest** is a mapping contest where participating mappe
 | [#3.2 (osu!taiko)](https://osu.ppy.sh/home/news/2017-09-23-mapping-with-rewards-returns) | [\*namirin - closing eyes](https://osu.ppy.sh/beatmaps/artists/18) | ![osu!taiko][osu!taiko] | ::{ flag=HK }:: [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | ::{ flag=US }:: [Jonarwhal](https://osu.ppy.sh/users/3653035) | *N/A* | [#1](https://osu.ppy.sh/home/news/2020-05-11-mappers-report-april) |
 | [#3.3](https://osu.ppy.sh/home/news/2017-09-23-mapping-with-rewards-returns) | [Fractal Dreamers - Fortuna Redux](https://osu.ppy.sh/beatmaps/artists/15) | ![osu!][osu!] | ::{ flag=FI }:: [DTM9 Nowa](https://osu.ppy.sh/users/5428909) | ::{ flag=MY }:: [HootOwlStar](https://osu.ppy.sh/users/4341302) | *N/A* | [#1](https://osu.ppy.sh/home/news/2020-05-11-mappers-report-april) |
 
-### A Labour of Love
+### [A Labour of Love](A_Labour_of_Love_Contest)
 
 **A Labour of Love** is a team-based contest spanning over multiple artistic disciplines where participating teams are tasked to remix/rearrange a song that has been widely known throughout the osu! community, create a beatmap out of the remixed song, and design an original storyboard/background video as a visual accompaniment to said beatmap. As [indicated by this tweet](https://twitter.com/ppy/status/1333362145224843264), the contest is modeled after [THE BMS OF FIGHTERS events](https://www.bmsoffighters.net/) and other similar competitions.
 
@@ -214,7 +210,7 @@ The *osu! Beatmap Blueprints Contest* is a one-off contest held in commemoration
 | :-: | :-- | :-- | :-- | :-- | :-- |
 | [#1](https://osu.ppy.sh/home/news/2016-05-06-osu-circles-remix-contest) | [nekodex - circles!](https://osu.ppy.sh/beatmaps/artists/1) | ::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471) | ::{ flag=FR }:: [Kurokotei](https://osu.ppy.sh/users/398275) | ::{ flag=NL }:: [happy30](https://osu.ppy.sh/users/27767) | [#1](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results) |
 
-### Skinning Contest
+### [Skinning Contest](Skinning_Contest)
 
 The **Skinning Contest** is a skinning contest where artistic creators from all across the community compete to create the best skin in a limited time.
 
@@ -223,7 +219,7 @@ The **Skinning Contest** is a skinning contest where artistic creators from all 
 | [#1](/wiki/Contests/Skinning_Contest/1) | [FREEDOM DiVE↓](https://osu.ppy.sh/community/forums/topics/1293207) by ::{ flag=US }:: [BTMC](https://osu.ppy.sh/users/3171691) | [Minimalist 2.0](https://osu.ppy.sh/community/forums/topics/1286223) by ::{ flag=EE }:: [Krizto](https://osu.ppy.sh/users/13474556) | [notMiku](https://osu.ppy.sh/community/forums/topics/1292954) by ::{ flag=RU }:: [NikStrim](https://osu.ppy.sh/users/10577559) | [#1](https://osu.ppy.sh/home/news/2021-05-27-skinning-contest-results) |
 | [#2](/wiki/Contests/Skinning_Contest/2) | [- 『Wintherest』 -](https://osu.ppy.sh/community/forums/topics/1498493) by ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | [GanyuTeks:Futur Céleste](https://osu.ppy.sh/community/forums/topics/1489926) by ::{ flag=PH }:: [BPChingu](https://osu.ppy.sh/users/4236855) | [Azure Snowfall](https://osu.ppy.sh/community/forums/topics/1498492) by ::{ flag=BY }:: [thetasigma](https://osu.ppy.sh/users/6234482) | [#1](https://osu.ppy.sh/home/news/2022-02-25-skinning-contest-tides-of-winter-results) |
 
-### osu!trivium Quiz
+### [osu!trivium Quiz](osu!trivium_Quiz)
 
 The **osu!trivium Quiz** is a trivia contest where players compete in answering hard osu!-related trivia questions.
 
@@ -236,7 +232,7 @@ The **osu!trivium Quiz** is a trivia contest where players compete in answering 
 
 *Unofficial contests* are contests that are hosted by the members of the community.
 
-### Mapping to Pander: Taiko
+### [Mapping to Pander: Taiko](M2P)
 
 **Mapping to Pander: Taiko** is an osu!taiko mapping contest series with two primary features: there is only one judge per iteration, and contestants may map any song.
 
@@ -244,11 +240,11 @@ The goal this contest is simple: contestants must create a map that panders best
 
 | Contest No. | Judge | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Results |
 | :-: | :-- | :-- | :-- | :-- | :-- |
-| [#1](https://osu.ppy.sh/community/forums/topics/1624880) | ::{FLAG=NL}:: [Boaz](https://osu.ppy.sh/users/13302996) | ::{FLAG=JP}:: [_Rise](https://osu.ppy.sh/users/5217107) | ::{FLAG=CL}:: [Metsaller](https://osu.ppy.sh/users/4364791) | ::{FLAG=FI}:: [Antti](https://osu.ppy.sh/users/13281473) | [Results](https://docs.google.com/spreadsheets/d/1aR1GjF8diyjFhK_k_uOkU40zIKjaQbXhVbGDGmq5pdg/edit?usp=sharing) |
-| [#2](https://osu.ppy.sh/community/forums/topics/1639586) | ::{FLAG=AR}:: [Axer](https://osu.ppy.sh/users/7299864) | ::{FLAG=TH}:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) | ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957) | ::{FLAG=US}:: [Vixlowo](https://osu.ppy.sh/users/20295114) | [Results](https://docs.google.com/spreadsheets/d/1ps3bOL2JlzwPEh0gVTLHnp7E48stwqHMH6-ljDSBJQs/edit?usp=sharing) |
-| [#3](https://osu.ppy.sh/community/forums/topics/1652502) | ::{FLAG=US}:: [radar](https://osu.ppy.sh/users/7131099) | *TBD* | *TBD* | *TBD* | *TBD* |
+| [#1](https://osu.ppy.sh/community/forums/topics/1624880) | ::{ flag=NL }:: [Boaz](https://osu.ppy.sh/users/13302996) | ::{ flag=JP }:: [_Rise](https://osu.ppy.sh/users/5217107) | ::{ flag=CL }:: [Metsaller](https://osu.ppy.sh/users/4364791) | ::{ flag=FI }:: [Antti](https://osu.ppy.sh/users/13281473) | [Results](https://docs.google.com/spreadsheets/d/1aR1GjF8diyjFhK_k_uOkU40zIKjaQbXhVbGDGmq5pdg/edit?usp=sharing) |
+| [#2](https://osu.ppy.sh/community/forums/topics/1639586) | ::{ flag=AR }:: [Axer](https://osu.ppy.sh/users/7299864) | ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) | ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957) | ::{ flag=US }:: [Vixlowo](https://osu.ppy.sh/users/20295114) | [Results](https://docs.google.com/spreadsheets/d/1ps3bOL2JlzwPEh0gVTLHnp7E48stwqHMH6-ljDSBJQs/edit?usp=sharing) |
+| [#3](https://osu.ppy.sh/community/forums/topics/1652502) | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | *TBD* | *TBD* | *TBD* | *TBD* |
 
-### osb! Storyboarding Contest
+### [osb! Storyboarding Contest](osb!_Storyboarding_Contest)
 
 The **osb! Storyboarding Contest** is a storyboarding contest where participating storyboarders compete to create the best storyboard. This contest is hosted by osu! storyboarder banquet, the storyboarding community.
 
@@ -256,7 +252,7 @@ The **osb! Storyboarding Contest** is a storyboarding contest where participatin
 | :-: | :-- | :-- | :-- | :-- |
 | [#1](/wiki/Contests/osb!_Storyboarding_Contest/1) | ::{ flag=CA }:: [TheDuckMask](https://osu.ppy.sh/users/7405768) | ::{ flag=UA }:: [PantyDev](https://osu.ppy.sh/users/5420543) | ::{ flag=CA }:: [Gaia](https://osu.ppy.sh/users/2683648) | [#1](https://osu.ppy.sh/community/forums/topics/897075?n=1) |
 
-### osu! Beatmapping World Championship
+### [osu! Beatmapping World Championship](oBWC)
 
 <!-- Yes, OBWC is not an official contest according to https://twitter.com/paichiru/status/1408900730149249025 -->
 
@@ -267,7 +263,7 @@ The **osb! Storyboarding Contest** is a storyboarding contest where participatin
 | [#1 (2019)](/wiki/Contests/oBWC/1) | ::{ flag=FR }:: France ([Realazy](https://osu.ppy.sh/users/918297), [BOUYAAA](https://osu.ppy.sh/users/405449), [Irohas](https://osu.ppy.sh/users/4403937), [Linada](https://osu.ppy.sh/users/5239047), [PoNo](https://osu.ppy.sh/users/4610047), [Sotarks](https://osu.ppy.sh/users/4452992), and ::{ flag=CH }:: [Xenok](https://osu.ppy.sh/users/3256600)) | ::{ flag=SE }:: Sweden ([Liiraye](https://osu.ppy.sh/users/1280641), [Arbane](https://osu.ppy.sh/users/4150829), [bite you death](https://osu.ppy.sh/users/6398464), [Dilectus](https://osu.ppy.sh/users/4287454), [dqs01733](https://osu.ppy.sh/users/3372459), and [Zer0-](https://osu.ppy.sh/users/4260033)) | ::{ flag=HK }:: Hong Kong ([StarrStyx](https://osu.ppy.sh/users/4600383), [Chaoslitz](https://osu.ppy.sh/users/3621552), [how2miss](https://osu.ppy.sh/users/4477199), [Regou](https://osu.ppy.sh/users/419954), [Rizia](https://osu.ppy.sh/users/1367570), [Skystar](https://osu.ppy.sh/users/873961), and [Starfy](https://osu.ppy.sh/users/2045914)) | [#1](https://www.youtube.com/watch?v=_booyIRa5v8) |
 | [#2 (2020)](/wiki/Contests/oBWC/2) | ::{ flag=GB }:: United Kingdom ([hypercyte](https://osu.ppy.sh/users/9155377), [Aistre](https://osu.ppy.sh/users/4879380), [Altai](https://osu.ppy.sh/users/5745865), [Chugger](https://osu.ppy.sh/users/4491713), [DeviousPanda](https://osu.ppy.sh/users/4966334), [pocket-](https://osu.ppy.sh/users/6808091), and [Yusomi](https://osu.ppy.sh/users/4174940)) | ::{ flag=AR }:: Argentina ([MaestroSplinter](https://osu.ppy.sh/users/6707918), [chucentry](https://osu.ppy.sh/users/2498731), [Lince Cosmico](https://osu.ppy.sh/users/6070370), and [Megafan](https://osu.ppy.sh/users/6632605)) | ::{ flag=BR }:: Brazil ([Net0](https://osu.ppy.sh/users/5099768), [Enerugi](https://osu.ppy.sh/users/4475985), [Faito](https://osu.ppy.sh/users/9706291), [Kowari](https://osu.ppy.sh/users/5404892), [Maot](https://osu.ppy.sh/users/3914271), [Sakura Airi](https://osu.ppy.sh/users/8682057), and [Trynna](https://osu.ppy.sh/users/2652951)) | [#1](https://osu.ppy.sh/home/news/2020-10-22-beatmapping-world-championship-2020-concludes) |
 
-### osu!taiko Featured Artist Cup
+### [osu!taiko Featured Artist Cup](o!tFAC)
 
 The **osu!taiko Featured Artist Cup** is an osu!taiko mapping contest where contestants are simply asked to map a song from one of osu!'s Featured Artists. The contest sometimes features specific limitations/gimmicks in order to put the contestants' skills to the test.
 
@@ -276,7 +272,7 @@ The **osu!taiko Featured Artist Cup** is an osu!taiko mapping contest where cont
 | [#1](/wiki/Contests/o!tFAC/1) | ::{ flag=KR }:: [woosungko](https://osu.ppy.sh/users/14184157) | ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) | ::{ flag=IT }:: [D3kuu](https://osu.ppy.sh/users/7807444) | [#1](https://osu.ppy.sh/community/forums/topics/1520800) |
 | [#2](/wiki/Contests/o!tFAC/2) | ::{ flag=AR }:: [KyeX](https://osu.ppy.sh/users/15118934) | ::{ flag=KR }:: [woosungko](https://osu.ppy.sh/users/14184157) | ::{ flag=FI }:: [duski](https://osu.ppy.sh/users/6506484) | [#1](https://osu.ppy.sh/community/forums/topics/1588200) |
 
-### Slider Velocity Showdown
+### [Slider Velocity Showdown](SVS)
 
 The **Slider Velocity Showdown** is an osu!taiko mapping contest with a focus on creativity and innovation. This contest is open to anyone who wants to flex their creative muscles, whether they have never placed an inherited point in their life or if they have been mapping for years.
 
