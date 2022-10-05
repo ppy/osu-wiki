@@ -13,7 +13,7 @@ tags:
 
 AR values range from 0 to 10. Higher approach rates mean that hit objects will be shown for a shorter period of time, giving less time for a player to react. On the other hand, lower approach rates allow more reaction time, but can result in an overwhelming amount of hit objects appearing on the screen at once.
 
-In [osu!taiko](/wiki/Game_mode/osu!taiko) and [osu!mania](/wiki/Game_mode/osu!mania), the approach rate setting has no effect. Scroll speed in both modes is controlled by [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity), which depends on [BPM](/wiki/Music_theory/Tempo) and slider velocity multiplier. Additionally, in osu!mania it can be customized [by the player themselves](/wiki/Game_mode/osu!mania#speed-change).
+In [osu!taiko](/wiki/Game_mode/osu!taiko) and [osu!mania](/wiki/Game_mode/osu!mania), the approach rate setting has no effect. Scroll speed in both modes is controlled by [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity), which depends on the [BPM](/wiki/Music_theory/Tempo) and slider velocity multiplier. Additionally, in osu!mania it can be customised [by the player themselves](/wiki/Game_mode/osu!mania#speed-change).
 
 ## Animation timing
 
