@@ -1,6 +1,6 @@
 # Procedimiento de clasificación de beatmap
 
-*Ver también: [Rango (desambiguación)](/wiki/Disambiguation/Rank)*
+*Véase también: [Rango (desambiguación)](/wiki/Disambiguation/Rank)*
 
 Los [beatmaps](/wiki/Beatmap) se pueden promocionar en la comunidad siguiendo el procedimiento de clasificación de beatmaps e ingresando a la categoría [Clasificado](/wiki/Beatmap/Category#calificados).
 
