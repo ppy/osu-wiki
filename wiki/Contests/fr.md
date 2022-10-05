@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: da1abda46773816736806e203c38563334d4e1e3
----
-
 # Concours
 
 Cette section est dédiée aux concours organisés par la communauté d'osu!.
@@ -11,9 +6,7 @@ Cette section est dédiée aux concours organisés par la communauté d'osu!.
 
 Les concours officiels sont organisés (ou reconnus comme officiels) par l'[équipe d'osu!](/wiki/People/The_Team). La plupart des concours officiels ont leurs propres pages sur la [liste des concours](https://osu.ppy.sh/community/contests).
 
-### Monthly Beatmapping Contest
-
-*Page principale : [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest)*
+### [Monthly Beatmapping Contest](Monthly_Beatmapping_Contest)
 
 Le **Monthly Beatmapping Contest**, dans son concept initial, était un concours de mapping où les mappeurs participants s'affrontaient pour créer la beatmap la plus remarquable avec plusieurs [niveaux de difficulté](/wiki/Beatmap/Difficulty#niveaux-de-difficulté) en commençant à partir de Easy ou Normal en un mois.
 
@@ -61,7 +54,7 @@ Après une longue interruption, le Monthly Beatmapping Contest a été relancé 
 | [Avril 2021 (osu!catch)](https://osu.ppy.sh/community/contests/124) |  [MYUKKE.](https://osu.ppy.sh/beatmaps/artists/121) | ![osu!catch][osu!catch] | ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114) | ::{ flag=TH }:: [rew0825](https://osu.ppy.sh/users/2488026) | *N/A* | [#1](https://osu.ppy.sh/home/news/2021-06-25-results-monthly-beatmapping-contest-may-osu) |
 | [Mai 2021 (osu!)](https://osu.ppy.sh/community/contests/127) |  [Masahiro "Godspeed" Aoki](https://osu.ppy.sh/beatmaps/artists/136) | ![osu!][osu!] | ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334) | ::{ flag=RU }:: [kuyusu](https://osu.ppy.sh/users/11758667) | ::{ flag=RU }:: [kuyusu](https://osu.ppy.sh/users/11758667) | [#1](https://osu.ppy.sh/home/news/2021-06-25-results-monthly-beatmapping-contest-may-osu) |
 
-### Aspire
+### [Aspire](Aspire)
 
 **Aspire** est un concours de mapping unique en son genre où les mappeurs participants sont mis au défi de créer la beatmap la plus innovante possible sans aucune restriction des [critères de classement](/wiki/Ranking_Criteria). Le concours encourage les mappeurs à explorer autant que possible les possibilités techniques du jeu.
 
@@ -73,9 +66,7 @@ Après une longue interruption, le Monthly Beatmapping Contest a été relancé 
 | [#4](https://osu.ppy.sh/home/news/2018-08-19-aspire-2018-begins) | [Culprate - Acid Rain](https://osu.ppy.sh/beatmaps/artists/29) | ::{ flag=TW }:: [SnowNiNo\_](https://osu.ppy.sh/users/2506267) | ::{ flag=FI }:: [DTM9 Nowa](https://osu.ppy.sh/users/5428909) | ::{ flag=LT }:: [seselis1](https://osu.ppy.sh/users/7321833) | [#1](https://osu.ppy.sh/home/news/2019-07-22-aspire-2018-results) |
 | [#5](https://osu.ppy.sh/home/news/2020-04-09-aspire-v-a-new-format) | N'importe quelle musique disponible sur la [liste des Featured Artists](https://osu.ppy.sh/beatmaps/artists) jusqu'en avril 2020 | ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619) *(gagnant du choix de la communauté)*, ::{ flag=CN }:: [fanzhen0019](https://osu.ppy.sh/users/418699) *(gagnant du choix du mappeur)* | ::{ flag=CA }:: [Meow Mix](https://osu.ppy.sh/users/3021634) | ::{ flag=CN }:: [fanzhen0019](https://osu.ppy.sh/users/418699) | [#1](https://osu.ppy.sh/home/news/2020-08-23-aspire-v-results) |
 
-### osu! Mapping Olympiad
-
-*Page principale : [osu! Mapping Olympiad](/wiki/Contests/Mapping_Olympiad)*
+### [osu! Mapping Olympiad](A_Labour_of_Love_Contest)
 
 L'**osu! Mapping Olympiad** est un concours de mapping qui se tient comme un successeur spirituel des anciens (avant 2020) Monthly Beatmapping Contests. Dans ce concours, les mappeurs participants sont chargés de créer soit une beatmap avec plusieurs [niveaux de difficulté](/wiki/Beatmap/Difficulty#niveaux-de-difficulté) en commençant à partir de Easy ou Normal, soit un certain nombre de difficultés pour n'importe quelle musique donnée dans chaque itération correspondante.
 
@@ -120,7 +111,7 @@ Le **Mapping With Rewards** est un concours de mapping dans lequel les mappeurs 
 | [#3.2 (osu!taiko)](https://osu.ppy.sh/home/news/2017-09-23-mapping-with-rewards-returns) | [\*namirin - closing eyes](https://osu.ppy.sh/beatmaps/artists/18) | ![osu!taiko][osu!taiko] | ::{ flag=HK }:: [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | ::{ flag=US }:: [Jonarwhal](https://osu.ppy.sh/users/3653035) | *N/A* | [#1](https://osu.ppy.sh/home/news/2020-05-11-mappers-report-april) |
 | [#3.3](https://osu.ppy.sh/home/news/2017-09-23-mapping-with-rewards-returns) | [Fractal Dreamers - Fortuna Redux](https://osu.ppy.sh/beatmaps/artists/15) | ![osu!][osu!] | ::{ flag=FI }:: [DTM9 Nowa](https://osu.ppy.sh/users/5428909) | ::{ flag=MY }:: [HootOwlStar](https://osu.ppy.sh/users/4341302) | *N/A* | [#1](https://osu.ppy.sh/home/news/2020-05-11-mappers-report-april) |
 
-### A Labour of Love
+### [A Labour of Love](A_Labour_of_Love_Contest)
 
 **A Labour of Love** est un concours par équipe couvrant plusieurs disciplines artistiques dans lequel les équipes participantes sont chargées de remixer/réarranger une musique largement connue au sein de la communauté d'osu!, de créer une beatmap à partir de la musique remixée, et de concevoir un storyboard/une vidéo d'arrière-plan originale comme accompagnement visuel de la beatmap. Comme [indiqué par ce tweet](https://twitter.com/ppy/status/1333362145224843264), le concours s'inspire de [l'événement BMS OF FIGHTERS](https://www.bmsoffighters.net/) et d'autres concours similaires.
 
@@ -186,6 +177,7 @@ Le **Fan Art Contest** est un concours de dessin dans lequel les artistes partic
 | [#29 (Halloween 2021)](https://osu.ppy.sh/home/news/2021-10-04-halloween-fanart-contest) | Halloween | ::{ flag=ID }:: [Dreamxiety](https://osu.ppy.sh/users/13103233) | ::{ flag=CA }:: [nyab](https://osu.ppy.sh/users/5738663) | ::{ flag=CZ }:: [eulorie](https://osu.ppy.sh/users/20349380) | [#1](https://osu.ppy.sh/home/news/2021-10-27-halloween-2021-fanart-results) | [#1](https://osu.ppy.sh/community/contests/135) |
 | [#30 (Winter 2021)](https://osu.ppy.sh/home/news/2021-11-23-winter-fanart-contest) | Winter | ::{ flag=RU }:: [Dem4eg-](https://osu.ppy.sh/users/7206818) | ::{ flag=ID }:: [Nimiru](https://osu.ppy.sh/users/11041959) | ::{ flag=CZ }:: [eulorie](https://osu.ppy.sh/users/20349380) | [#1](https://osu.ppy.sh/home/news/2021-12-17-winter-fanart-contest-results) | [#1](https://osu.ppy.sh/community/contests/136) |
 | [#31 (Spring 2022)](https://osu.ppy.sh/home/news/2022-04-11-place-to-belong-fanart-contest) | A Place to Belong | ::{ flag=ID }:: [Dreamxiety](https://osu.ppy.sh/users/13103233) | ::{ flag=NL }:: [utaaa](https://osu.ppy.sh/users/9315038) | ::{ flag=US }:: [Llamartist](https://osu.ppy.sh/users/14697690) | [#1](https://osu.ppy.sh/home/news/2022-05-08-aptb-fanart-results) | [#1](https://osu.ppy.sh/community/contests/142) |
+| [#32 (15th Anniversary Art Contest)](https://osu.ppy.sh/home/news/2022-08-15-15-anniversary-art-contest) | Les mascottes d'osu! qui explorent une partie de l'histoire d'osu! | ::{ flag=ID }:: [Dreamxiety](https://osu.ppy.sh/users/13103233) | ::{ flag=HK }:: [illuminae2005](https://osu.ppy.sh/users/29866964) | ::{ flag=GB }:: [urgutz](https://osu.ppy.sh/users/11731553) | [#1](https://osu.ppy.sh/home/news/2022-09-15-anniversary-art-contest-results) | [#1](https://osu.ppy.sh/community/contests/153) |
 
 ### osu! Beatmap Blueprints Contest
 
@@ -217,7 +209,7 @@ L'**osu!idol** est un concours de chant dans lequel les participants de toute la
 | :-: | :-- | :-- | :-- | :-- | :-- |
 | [#1](https://osu.ppy.sh/home/news/2016-05-06-osu-circles-remix-contest) | [nekodex - circles!](https://osu.ppy.sh/beatmaps/artists/1) | ::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471) | ::{ flag=FR }:: [Kurokotei](https://osu.ppy.sh/users/398275) | ::{ flag=NL }:: [happy30](https://osu.ppy.sh/users/27767) | [#1](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results) |
 
-### Skinning Contest
+### [Skinning Contest](Skinning_Contest)
 
 Le **Skinning Contest** est un concours de skinning dans lequel les créateurs artistiques de toute la communauté s'affrontent pour créer le meilleur skin en un temps limité.
 
@@ -226,7 +218,7 @@ Le **Skinning Contest** est un concours de skinning dans lequel les créateurs a
 | [#1](/wiki/Contests/Skinning_Contest/1) | [FREEDOM DiVE↓](https://osu.ppy.sh/community/forums/topics/1293207) par ::{ flag=US }:: [BTMC](https://osu.ppy.sh/users/3171691) | [Minimalist 2.0](https://osu.ppy.sh/community/forums/topics/1286223) par ::{ flag=EE }:: [Krizto](https://osu.ppy.sh/users/13474556) | [notMiku](https://osu.ppy.sh/community/forums/topics/1292954) par ::{ flag=RU }:: [NikStrim](https://osu.ppy.sh/users/10577559) | [#1](https://osu.ppy.sh/home/news/2021-05-27-skinning-contest-results) |
 | [#2](/wiki/Contests/Skinning_Contest/2) | [- 『Wintherest』 -](https://osu.ppy.sh/community/forums/topics/1498493) by ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | [GanyuTeks:Futur Céleste](https://osu.ppy.sh/community/forums/topics/1489926) by ::{ flag=PH }:: [BPChingu](https://osu.ppy.sh/users/4236855) | [Azure Snowfall](https://osu.ppy.sh/community/forums/topics/1498492) by ::{ flag=BY }:: [thetasigma](https://osu.ppy.sh/users/6234482) | [#1](https://osu.ppy.sh/home/news/2022-02-25-skinning-contest-tides-of-winter-results) |
 
-### osu!trivium Quiz
+### [osu!trivium Quiz](osu!trivium_Quiz)
 
 L'**osu!trivium Quiz** est un concours de questions où les joueurs s'affrontent pour répondre à des questions difficiles sur osu!.
 
@@ -239,7 +231,19 @@ L'**osu!trivium Quiz** est un concours de questions où les joueurs s'affrontent
 
 Les *concours non officiels* sont des concours organisés par les membres de la communauté.
 
-### osb! Storyboarding Contest
+### [Mapping to Pander: Taiko](M2P)
+
+**Mapping to Pander: Taiko** est une série de concours de mapping osu!taiko avec deux caractéristiques principales : il n'y a qu'un seul juge par itération, et les participants peuvent map n'importe quelle chanson.
+
+Le but de ce concours est simple : les participants doivent créer une map qui plaise le plus au juge choisi pour le concours. Le juge ne recevra aucun critère ; il lui appartiendra de noter et de classer les maps, soit en établissant ses propres critères, soit en classant les maps du meilleur au pire.
+
+| Numéro du concours | Juge | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne en bronze][BCrown] | Resultats |
+| :-: | :-- | :-- | :-- | :-- | :-- |
+| [#1](https://osu.ppy.sh/community/forums/topics/1624880) | ::{ flag=NL }:: [Boaz](https://osu.ppy.sh/users/13302996) | ::{ flag=JP }:: [_Rise](https://osu.ppy.sh/users/5217107) | ::{ flag=CL }:: [Metsaller](https://osu.ppy.sh/users/4364791) | ::{ flag=FI }:: [Antti](https://osu.ppy.sh/users/13281473) | [Results](https://docs.google.com/spreadsheets/d/1aR1GjF8diyjFhK_k_uOkU40zIKjaQbXhVbGDGmq5pdg/edit?usp=sharing) |
+| [#2](https://osu.ppy.sh/community/forums/topics/1639586) | ::{ flag=AR }:: [Axer](https://osu.ppy.sh/users/7299864) | ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) | ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957) | ::{ flag=US }:: [Vixlowo](https://osu.ppy.sh/users/20295114) | [Results](https://docs.google.com/spreadsheets/d/1ps3bOL2JlzwPEh0gVTLHnp7E48stwqHMH6-ljDSBJQs/edit?usp=sharing) |
+| [#3](https://osu.ppy.sh/community/forums/topics/1652502) | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | *à déterminer* | *à déterminer* | *à déterminer* | *à déterminer* |
+
+### [osb! Storyboarding Contest](osb!_Storyboarding_Contest)
 
 L'**osb! Storyboarding Contest** est un concours de storyboarding où les storyboarders participants s'affrontent pour créer le meilleur storyboard. Ce concours est organisé par osu! storyboarder banquet, la communauté de storyboarding.
 
@@ -247,7 +251,7 @@ L'**osb! Storyboarding Contest** est un concours de storyboarding où les storyb
 | :-: | :-- | :-- | :-- | :-- |
 | [#1](/wiki/Contests/osb!_Storyboarding_Contest/1) | ::{ flag=CA }:: [TheDuckMask](https://osu.ppy.sh/users/7405768) | ::{ flag=UA }:: [PantyDev](https://osu.ppy.sh/users/5420543) | ::{ flag=CA }:: [Gaia](https://osu.ppy.sh/users/2683648) | [#1](https://osu.ppy.sh/community/forums/topics/897075?n=1) |
 
-### osu! Beatmapping World Championship
+### [osu! Beatmapping World Championship](oBWC)
 
 L'**osu! Beatmapping World Championship** est un concours de mapping par équipe dans lequel les équipes participantes, composées de mappeurs d'un même pays, d'une même région, voire d'un même continent (dans une certaine mesure), s'affrontent sur plusieurs musiques et étapes de mapping. Le concours est connu pour n'utiliser que des musiques disponibles dans la bibliothèque [Featured Artist](/wiki/Featured_Artists) pendant son déroulement.
 
@@ -256,7 +260,7 @@ L'**osu! Beatmapping World Championship** est un concours de mapping par équipe
 | [#1 (2019)](/wiki/Contests/oBWC/1) | ::{ flag=FR }:: France ([Realazy](https://osu.ppy.sh/users/918297), [BOUYAAA](https://osu.ppy.sh/users/405449), [Irohas](https://osu.ppy.sh/users/4403937), [Linada](https://osu.ppy.sh/users/5239047), [PoNo](https://osu.ppy.sh/users/4610047), [Sotarks](https://osu.ppy.sh/users/4452992), et ::{ flag=CH }:: [Xenok](https://osu.ppy.sh/users/3256600)) | ::{ flag=SE }:: Suède ([Liiraye](https://osu.ppy.sh/users/1280641), [Arbane](https://osu.ppy.sh/users/4150829), [bite you death](https://osu.ppy.sh/users/6398464), [Dilectus](https://osu.ppy.sh/users/4287454), [dqs01733](https://osu.ppy.sh/users/3372459), et [Zer0-](https://osu.ppy.sh/users/4260033)) | ::{ flag=HK }:: Hong Kong ([StarrStyx](https://osu.ppy.sh/users/4600383), [Chaoslitz](https://osu.ppy.sh/users/3621552), [how2miss](https://osu.ppy.sh/users/4477199), [Regou](https://osu.ppy.sh/users/419954), [Rizia](https://osu.ppy.sh/users/1367570), [Skystar](https://osu.ppy.sh/users/873961), et [Starfy](https://osu.ppy.sh/users/2045914)) | [#1](https://www.youtube.com/watch?v=_booyIRa5v8) |
 | [#2 (2020)](/wiki/Contests/oBWC/2) | ::{ flag=GB }:: Royaume-Uni ([hypercyte](https://osu.ppy.sh/users/9155377), [Aistre](https://osu.ppy.sh/users/4879380), [Altai](https://osu.ppy.sh/users/5745865), [Chugger](https://osu.ppy.sh/users/4491713), [DeviousPanda](https://osu.ppy.sh/users/4966334), [pocket-](https://osu.ppy.sh/users/6808091), et [Yusomi](https://osu.ppy.sh/users/4174940)) | ::{ flag=AR }:: Argentine ([MaestroSplinter](https://osu.ppy.sh/users/6707918), [chucentry](https://osu.ppy.sh/users/2498731), [Lince Cosmico](https://osu.ppy.sh/users/6070370), et [Megafan](https://osu.ppy.sh/users/6632605)) | ::{ flag=BR }:: Brésil ([Net0](https://osu.ppy.sh/users/5099768), [Enerugi](https://osu.ppy.sh/users/4475985), [Faito](https://osu.ppy.sh/users/9706291), [Kowari](https://osu.ppy.sh/users/5404892), [Maot](https://osu.ppy.sh/users/3914271), [Sakura Airi](https://osu.ppy.sh/users/8682057), et [Trynna](https://osu.ppy.sh/users/2652951)) | [#1](https://osu.ppy.sh/home/news/2020-10-22-beatmapping-world-championship-2020-concludes) |
 
-### osu!taiko Featured Artist Cup
+### [osu!taiko Featured Artist Cup](o!tFAC)
 
 La **osu!taiko Featured Artist Cup** est un concours de mapping osu!taiko où il est demandé simplement aux concurrents de mapper une musique d'un Featured Artist d'osu!. Le concours a quelques fois des limitations/particularités spécifiques afin de tester le niveau des concurrents.
 
@@ -265,7 +269,7 @@ La **osu!taiko Featured Artist Cup** est un concours de mapping osu!taiko où il
 | [#1](/wiki/Contests/o!tFAC/1) | ::{ flag=KR }:: [woosungko](https://osu.ppy.sh/users/14184157) | ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) | ::{ flag=IT }:: [D3kuu](https://osu.ppy.sh/users/7807444) | [#1](https://osu.ppy.sh/community/forums/topics/1520800) |
 | [#2](/wiki/Contests/o!tFAC/2) | ::{ flag=AR }:: [KyeX](https://osu.ppy.sh/users/15118934) | ::{ flag=KR }:: [woosungko](https://osu.ppy.sh/users/14184157) | ::{ flag=FI }:: [duski](https://osu.ppy.sh/users/6506484) | [#1](https://osu.ppy.sh/community/forums/topics/1588200) |
 
-### Slider Velocity Showdown
+### [Slider Velocity Showdown](SVS)
 
 Le **Slider Velocity Showdown** est un concours de mapping osu!taiko avec un focus sur la créativité et l'innovation. Ce concours est ouvert à toute personne voulant faire travailler leurs muscles créatifs, qu'ils n'aient jamais touchés de point d'héritage ou qu'ils mappent depuis des années.
 
