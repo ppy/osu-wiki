@@ -37,7 +37,7 @@ The **Catch French Dual Tournament 2** (***CFDT 2***) was a French double-elimin
 
 ## Organisation
 
-The Catch French Dual Tournament 2 is run by various community members.
+The Catch French Dual Tournament 2 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
