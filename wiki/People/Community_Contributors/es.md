@@ -12,7 +12,7 @@ No debe confundirse con [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), que so
 
 ### Agosto
 
-*Para el hilo del foro, ver: [osu! community contributors](https://osu.ppy.sh/community/forums/topics/147919)*
+*Para el hilo del foro, véase: [osu! community contributors](https://osu.ppy.sh/community/forums/topics/147919)*
 
 | Usuario | Contribuciones |
 | :-- | :-- |
@@ -46,7 +46,7 @@ No debe confundirse con [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), que so
 
 ### Enero
 
-*Para la publicación de la noticia, ver: [Community Contributor Badges (January 2016)](https://osu.ppy.sh/home/news/2016-01-09-community-contributor-badges-january-2016)*
+*Para la publicación de la noticia, véase: [Community Contributor Badges (January 2016)](https://osu.ppy.sh/home/news/2016-01-09-community-contributor-badges-january-2016)*
 
 | Usuario | Contribuciones |
 | :-- | :-- |
@@ -61,7 +61,7 @@ No debe confundirse con [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), que so
 
 ### Marzo
 
-*Para la publicación de la noticia, ver: [osu!weekly #53](https://osu.ppy.sh/home/news/2016-03-22-osuweekly-53)*
+*Para la publicación de la noticia, véase: [osu!weekly #53](https://osu.ppy.sh/home/news/2016-03-22-osuweekly-53)*
 
 | Usuario | Contribuciones |
 | :-- | :-- |
@@ -69,7 +69,7 @@ No debe confundirse con [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), que so
 
 ### Noviembre
 
-*Para la publicación de la noticia, ver: [Recognising the Best of the Best](https://osu.ppy.sh/home/news/2016-11-02-recognising-the-best-of-the-best)*
+*Para la publicación de la noticia, véase: [Recognising the Best of the Best](https://osu.ppy.sh/home/news/2016-11-02-recognising-the-best-of-the-best)*
 
 | Usuario | Contribuciones |
 | :-- | :-- |
@@ -87,7 +87,7 @@ No debe confundirse con [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), que so
 
 ### Diciembre
 
-*Para la publicación de la noticia, ver: [Community Contributors: 2017](https://osu.ppy.sh/home/news/2017-12-24-community-contributors-2017)*
+*Para la publicación de la noticia, véase: [Community Contributors: 2017](https://osu.ppy.sh/home/news/2017-12-24-community-contributors-2017)*
 
 | Usuario | Contribuciones |
 | :-- | :-- |
@@ -116,7 +116,7 @@ No debe confundirse con [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), que so
 
 ### Febrero
 
-*Para la publicación de la noticia, ver: [Community Contributors: February 2019](https://osu.ppy.sh/home/news/2019-02-22-community-contributors-february-2019)*
+*Para la publicación de la noticia, véase: [Community Contributors: February 2019](https://osu.ppy.sh/home/news/2019-02-22-community-contributors-february-2019)*
 
 | Usuario | Contribuciones |
 | :-- | :-- |
@@ -148,7 +148,7 @@ No debe confundirse con [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), que so
 
 ### Febrero
 
-*Para la publicación de la noticia, ver: [Community Contributors: 2019](https://osu.ppy.sh/home/news/2020-02-07-community-contributors-2019)*
+*Para la publicación de la noticia, véase: [Community Contributors: 2019](https://osu.ppy.sh/home/news/2020-02-07-community-contributors-2019)*
 
 | Usuario | Contribuciones |
 | :-- | :-- |
@@ -178,7 +178,7 @@ No debe confundirse con [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), que so
 
 ### Marzo
 
-*Para la publicación de la noticia, ver: [Community Contributors: 2020](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020)*
+*Para la publicación de la noticia, véase: [Community Contributors: 2020](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020)*
 
 | Usuario | Contribuciones |
 | :-- | :-- |
@@ -194,7 +194,7 @@ No debe confundirse con [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), que so
 
 ### Junio
 
-*Para la publicación de la noticia, ver: [Community Contributors: 2021](https://osu.ppy.sh/home/news/2022-06-30-community-contributors-2021)*
+*Para la publicación de la noticia, véase: [Community Contributors: 2021](https://osu.ppy.sh/home/news/2022-06-30-community-contributors-2021)*
 
 | Usuario | Contribuciones |
 | :-- | :-- |
