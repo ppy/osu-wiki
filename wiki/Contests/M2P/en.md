@@ -7,7 +7,7 @@ tags:
   - m2p 1
   - m2p 2
   - m2p 3
-  - m2p: taiko
+  - "m2p: taiko"
 ---
 
 # Mapping to Pander: Taiko
