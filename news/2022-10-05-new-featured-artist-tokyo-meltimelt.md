@@ -12,7 +12,7 @@ Gothic metal has become something of a staple in the osu! universe. Artists like
 
 We've picked up **5** new gothic rock tunes with vocals from icons like *nayuta*, *Hatsuki Yura*, and [*Sennzai*](https://osu.ppy.sh/beatmaps/artists/110), all ready for mapping from [**Tokyo.MeltiMelt**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/308)!
 
-Need some inspiration? See how **Tokyo.MeltiMelt** translates to beatmapping through this video of osu!(lazer)'s live Unstable Rate display, then explore some of the other previews before starting your own beatmap!
+Need some inspiration? See how **Tokyo.MeltiMelt** translates to beatmapping through this video of osu!(lazer)'s live unstable rate display, then explore some of the other previews before starting your own beatmap!
 
 Check everything out:
 
@@ -32,7 +32,7 @@ Play through [the map from the video above](https://osu.ppy.sh/beatmapsets/18005
 
 ### Virgin Mary feat. Sennzai
 
-Try out [this brand new beatmap featuring a 2008-tier difficulty spread](https://osu.ppy.sh/beatmapsets/1830770) hosted by [-Aqua](https://osu.ppy.sh/users/7150015)!
+Try out [this brand-new beatmap featuring a 2008-tier difficulty spread](https://osu.ppy.sh/beatmapsets/1830770) hosted by [-Aqua](https://osu.ppy.sh/users/7150015)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/308/Songs/Tokyo.MeltiMelt%20-%20Virgin%20Mary%20feat.%20Sennzai.mp3" type="audio/mpeg">
@@ -50,7 +50,7 @@ Experience [the map that introduced **Tokyo.MeltiMelt** to osu!](https://osu.ppy
 
 Whether you're in the mood for soft ballads or impactful guitar/synth solos, [**Tokyo.MeltiMelt**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/308) has you covered. Load up any of our pre-timed beatmap templates in the editor and let your circle-clicking brain do the rest.
 
-Our next Featured Artist is a modern classic, especially well-known by anyone who stalks scoreposts. The [@osugame Twitter](https://twitter.com/osugame) is where you'll hear about Saturday's release, so do what needs to be done.
+Our next Featured Artist is a modern classic, especially well known by anyone who stalks scoreposts. The [@osugame Twitter](https://twitter.com/osugame) is where you'll hear about Saturday's release, so do what needs to be done.
 
 Stay tuned.
 
