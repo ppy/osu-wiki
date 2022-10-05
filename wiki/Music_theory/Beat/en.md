@@ -11,6 +11,11 @@ tags:
 
 # Beat
 
-A **beat** is a repeating unit of time in music, in particular the pulse of the music to which the listener taps to. In osu!, you can compare them to the white ticks in the [editor timeline](/wiki/Client/Beatmap_editor/Timelines) which form the backbone of the rhythm of the song.
+A **beat** is a repeating unit of time in music, which creates the rhythm.
 
-![In-game screenshot of editor timeline](img/timeline.png "All white ticks represent a beat in the music")
+![In-game screenshot of editor timeline](img/timeline.png "Each white tick represents a beat in the music")
+
+A whole beat is referred to as 1/1 and is contained between two adjacent white lines on the [timeline](/wiki/Client/Beatmap_editor/Timelines). Equal amounts of beats are grouped into [measures](/wiki/Music_theory/Measure), which start from [downbeats](/wiki/Music_theory/Downbeat) represented by big white ticks.
+
+Other notes are expressed through a whole beat by dividing or multiplying its length. The beatmap editor's [beat snap divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) does that automatically for a mapper, allowing for changing the object granularity on the fly.
+
