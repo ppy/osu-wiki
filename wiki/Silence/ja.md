@@ -39,6 +39,6 @@
 
 サイレンスの長さは、違反の深刻さによって異なる場合があります。また、違反するごとに長さが増加します。違反の度合いが大きい場合、または違反が繰り返される場合、サイレンスの代わりに[アカウント制限](/wiki/Help_centre/Account_restrictions)の対象となることがありますのでご注意ください。
 
-## References
+## 出典
 
 [^chat-cleanup]: [This Week in osu! - ppy blog](https://blog.ppy.sh/post/38114063519/this-week-in-osu-5)
