@@ -848,7 +848,7 @@ The osu! wiki is a project that was meant to replace the old FAQ system.[^wiki-f
 
 Citations, or references, are used to identify a source of information. Citations via footnotes should be preferred over inline links.
 
-The title text depends on the page referenced. Use exact page title for independent websites, news posts, and articles. In case of forum threads, specify their author and creation date. For individual messages, such as posts or tweets, mention thread title (if applicable), author and post date.
+References should whenever applicable specify author, date, service/platform, and title. The exact format may vary depending on the referenced material with a preference for brevity.
 
 Examples:
 
