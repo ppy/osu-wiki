@@ -1,6 +1,8 @@
 ---
 tags:
   - online song offset
+outdated_translation: true
+outdated_since: d4dc177e49049cea28274febee6d73247f0862ab
 ---
 
 # 在线偏移量
