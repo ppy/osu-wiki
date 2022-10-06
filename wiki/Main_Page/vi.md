@@ -72,7 +72,7 @@ Xếp hạng là quá trình có được một bảng xếp hạng cho một be
 
 Đọc về các thủ tục và quy định mà giữ osu! và cộng đồng của nó an toàn, từ hướng dẫn cấp phép âm nhạc và phương tiện truyền thông đến các quy tắc trò chuyện và diễn đàn.
 
-[Quy tắc](/wiki/Rules) • [Quy tắc ứng xử của Cộng Tác Viên](/wiki/Contributor_Code_of_Conduct) • [Quy tắc ứng xử của Cộng Tác Viên về modding và mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)
+[Quy tắc](/wiki/Rules) • [Quy tắc ứng xử của cộng tác viên](/wiki/Contributor_Code_of_Conduct) • [Quy tắc ứng xử của cộng tác viên về modding và mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)
 
 Quy định về phương tiện truyền thông: [Hướng dẫn sử dụng nội dung](/wiki/Rules/Content_Usage_Guidelines) • [Quy trình bỏ phiếu nội dung](/wiki/Rules/Content_Voting_Process) • [Nội dung không phù hợp](/wiki/Rules/Explicit_Content) • [Quy tắc nội dung nhạc](/wiki/Rules/Song_Content_Rules) • [Cân nhắc nội dung trực quan](/wiki/Rules/Visual_Content_Considerations)
 
