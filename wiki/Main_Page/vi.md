@@ -100,7 +100,7 @@ Tương tác xã hội là một trong những điều đã thúc đẩy ngườ
 
 Vị trí: [Diễn đàn](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_Chat)
 
-[Giải đấu](/wiki/Tournaments) • [Tiêu điểm Beatmap](/wiki/Beatmap_Spotlights) • [Cuộc thi](/wiki/Contests) • [Community mentorship program](/wiki/Community/Community_Mentorship_Program)
+[Giải đấu](/wiki/Tournaments) • [Tiêu điểm Beatmap](/wiki/Beatmap_Spotlights) • [Cuộc thi](/wiki/Contests) • [Giúp đỡ nhau trong cộng đồng](/wiki/Community/Community_Mentorship_Program)
 
 [Dự án](/wiki/Community/Projects) • [Nghệ sĩ](/wiki/Featured_Artists) • [Dự án Loved](/wiki/Community/Project_Loved) • [Các buổi họp cộng đồng](/wiki/Community/osu!_community_meetings) • [Học viện osu!](/wiki/Community/Video_series/osu!academy) • [Mapping osu!](/wiki/Community/Video_series/osu!mapping) • [Trò chuyện osu!](/wiki/Community/Video_series/osu!talk)
 
