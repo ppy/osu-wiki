@@ -75,7 +75,7 @@ This is one of several role-playing threads created as a result of OT Lore, that
 ## References
 
 [^ot-suggestion]: [Separate sub-forum for self perpetuating threads?](https://osu.ppy.sh/community/forums/posts/80316)
-[^ot-announcement]: [peppy's announcement of the new subforum](https://osu.ppy.sh/community/forums/posts/8814)
+[^ot-announcement]: [peppy's announcement of the new subforum](https://osu.ppy.sh/community/forums/topics/10180)
 [^ot-old-name]: [Mis-quote The Person Above You](https://osu.ppy.sh/community/forums/posts/132900)
 [^ot-derailing-games]: [Last person to see the 20 USD via Paypal thread](https://osu.ppy.sh/community/forums/posts/313614)
 [^ot-rename]: [a](https://osu.ppy.sh/community/forums/posts/316732)
