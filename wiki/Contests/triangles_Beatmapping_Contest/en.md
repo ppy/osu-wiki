@@ -30,7 +30,7 @@ Submissions to this contest include:
 - [Contest news article](https://osu.ppy.sh/home/news/2022-05-31-triangles)
 - [Voting news article](https://osu.ppy.sh/home/news/2022-09-08-triangles-voting-phase)
 - [Results livestream](https://www.twitch.tv/videos/1607587424)
-- [Results news article](https://osu.ppy.sh/home/news/2022-10-04-results-triangles)
+- [Results news article](https://osu.ppy.sh/home/news/2022-10-06-results-triangles)
 
 ## Teams
 
