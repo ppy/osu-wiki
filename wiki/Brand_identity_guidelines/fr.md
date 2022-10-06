@@ -15,11 +15,11 @@ Le nom du jeu, osu!, ne doit pas prendre de majuscule. La marque officielle osu!
 
 Pour tous les autres termes, osu! doit être traité comme un [complément du nom](https://fr.wikipedia.org/wiki/Compl%C3%A9ment_du_nom), ce qui signifie qu'il faut ajouter un espace entre osu! et le nom qu'il modifie. Exemples :
 
-- `osu! tournaments`
-- `osu! community`
-- `osu! chat`
-- `osu! client`
-- `osu! wiki`
+- `tournois d'osu!`
+- `communauté d'osu!`
+- `chat d'osu!`
+- `client d'osu!`
+- `wiki d'osu!`
 
 ## Logo d'osu! en forme de cookie
 
