@@ -42,7 +42,7 @@ Pour le poisson d'avril de 2010, le site web d'osu! ainsi que l'écran du menu p
 
 ![](img/2010-touhosu-website.jpg "Le site d'osu! le 1er avril 2010")
 
-La plaisanterie découle en grande partie d'une [demande de fonctionnalité de longue date](https://osu.ppy.sh/community/forums/topics/19307) visant à créer un [mode de jeu](/wiki/Game_mode) basé sur le mode de jeu actuel [osu!catch](/wiki/Game_mode/osu!catch) avec le gameplay principal des jeux du projet Touhou.[^touhousu-wiki]
+La plaisanterie découle en grande partie d'une [demande de fonctionnalité de longue date](https://osu.ppy.sh/community/forums/topics/19307) visant à créer un [mode de jeu](/wiki/Game_mode) basé sur le mode de jeu actuel [osu!catch](/wiki/Game_mode/osu!catch) avec le gameplay principal des jeux du projet Touhou.
 
 Il a également été rapporté à l'époque que [Ephemeral](https://osu.ppy.sh/users/102335) avait fait remarquer en plaisantant que l'achat d'un tag osu!supporter ferait apparaître une Marisa Kirisame nue sur l'écran du menu principal au lieu d'une Marisa entièrement habillée. Cependant, cette affirmation n'était qu'une blague et a été rapidement réfutée par d'autres.[^touhousu-forums-2]
 
@@ -226,7 +226,6 @@ Le poisson d'avril 2021 a recyclé la même blague que les deux années précéd
 [^touhousu-ontheweb]: [April Fools' Day On The Web entry - "Changed osu! to touhousu! throughout the website as well as the game."](http://aprilfoolsdayontheweb.com/joke/8120/?size=1)
 [^touhousu-osudev-2021-01-27]: [Discord message (osu!dev) [Nivalyx#9577] - 27 January 2021 (05:06 UTC)](https://discord.com/channels/188630481301012481/218677502141399041/804215894762848296)
 [^touhousu-forums]: [osu! forum thread (Resolved Issues) [rcmero] - "touhousu! - April Fools joke? [Resolved]"](https://osu.ppy.sh/community/forums/topics/27612)
-[^touhousu-wiki]: [osu! wiki article - "Touhosu!"](/wiki/Glossary/Touhosu!)
 [^touhousu-forums-2]: [osu! forum thread (General Discussion) [rulingvenus] - "Naked Marisa????"](https://osu.ppy.sh/community/forums/topics/27531)
 [^nightcore-wiki]: [osu! wiki article - "Nightcore (mod)"](/wiki/Game_modifier/Nightcore)
 [^nightcore-yt]: [YouTube video [Nyaruko] (31 March 2011) - "When osu! tries to do April Fools"](https://www.youtube.com/watch?v=qD5ep6Fykao)
