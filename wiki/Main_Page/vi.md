@@ -102,7 +102,7 @@ Vị trí: [Diễn đàn](/wiki/Community/Forum) • [IRC](/wiki/Community/Inter
 
 [Giải đấu](/wiki/Tournaments) • [Tiêu điểm Beatmap](/wiki/Beatmap_Spotlights) • [Cuộc thi](/wiki/Contests) • [Community mentorship program](/wiki/Community/Community_Mentorship_Program)
 
-[Dự án](/wiki/Community/Projects) • [Nghệ sĩ](/wiki/Featured_Artists) • [Dự Án Loved](/wiki/Community/Project_Loved) • [Các buổi họp cộng đồng](/wiki/Community/osu!_community_meetings) • [Học viện osu!](/wiki/Community/Video_series/osu!academy) • [Mapping osu!](/wiki/Community/Video_series/osu!mapping) • [Trò chuyện osu!](/wiki/Community/Video_series/osu!talk)
+[Dự án](/wiki/Community/Projects) • [Nghệ sĩ](/wiki/Featured_Artists) • [Dự án Loved](/wiki/Community/Project_Loved) • [Các buổi họp cộng đồng](/wiki/Community/osu!_community_meetings) • [Học viện osu!](/wiki/Community/Video_series/osu!academy) • [Mapping osu!](/wiki/Community/Video_series/osu!mapping) • [Trò chuyện osu!](/wiki/Community/Video_series/osu!talk)
 
 Các tổ chức: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
