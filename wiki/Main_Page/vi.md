@@ -115,7 +115,7 @@ osu! có lẽ sẽ không thể thực hiện được nếu không có sự tr�
 
 [Nhóm phát triển](/wiki/People/The_Team): [Những nhà phát triển (DEV)](/wiki/People/The_Team/Developers) • [Nhóm kiểm duyệt (GMT)](/wiki/People/The_Team/Global_Moderation_Team) • [Nhóm hỗ trợ](/wiki/People/The_Team/Support_Team) • [Nhóm đánh giá đề cử (NAT)](/wiki/People/The_Team/Nomination_Assessment_Team) • [Những người đánh giá beatmap (BN)](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Nhóm Project Loved](/wiki/People/The_Team/Project_Loved_Team)
 
-[Những người đóng góp](/wiki/People/Community_Contributors) • [Những người dùng với các tiêu đề đặc biệt](/wiki/People/Users_with_unique_titles) • [Uỷ Ban Giải Đấu](/wiki/People/Tournament_Committee) • [Uỷ Ban Điểm PP](/wiki/People/Performance_Points_Committee)
+[Những người đóng góp](/wiki/People/Community_Contributors) • [Những người dùng với các tiêu đề đặc biệt](/wiki/People/Users_with_unique_titles) • [Nhóm chuyên về giải đấu](/wiki/People/Tournament_Committee) • [Nhóm chuyên về pp](/wiki/People/Performance_Points_Committee)
 
 </div>
 <div class="wiki-main-page-panel">
