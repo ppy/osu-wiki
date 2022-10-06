@@ -30,8 +30,6 @@ Hit windows for judgments can be viewed when hovering over the [beatmap informat
 | 100 | `140 - 8 * OD` |
 | 50 | `200 - 10 * OD` |
 
-#### Table comparison
-
 ![](/wiki/shared/ODTable.png "Comparison of hit windows for different combinations of OD and game modifiers")
 
 ### osu!taiko
@@ -60,7 +58,7 @@ If the player hits outside of the 50's hit window, it will count as a miss. In c
 
 ## Sliders and spinners
 
-In [osu!](/wiki/Game_mode/osu!), [sliders](/wiki/Gameplay/Hit_object/Slider) will reward a 300 as long as they are hit within the 50's hit window. This is sometimes referred to as *slideracc* and is removed in [ScoreV2](/wiki/Game_modifier/ScoreV2)
+In [osu!](/wiki/Game_mode/osu!), [sliders](/wiki/Gameplay/Hit_object/Slider) will reward a 300 as long as they are hit within the 50's hit window. This is sometimes called slider leniency and is removed in [ScoreV2](/wiki/Game_modifier/ScoreV2).
 
 Overall difficulty also affects [spinners](/wiki/Hit_object/Spinner), in that they must be spun more to fill up the gauge in time. In [osu!taiko](/wiki/Game_mode/osu!taiko), the denden will also need more hits to be cleared. The spins per second required to clear a spinner is defined by the following formula:<!-- TODO: this is probably totally wrong with recent spinner changes -->
 
@@ -85,4 +83,4 @@ Overall difficulty is visible when viewing beatmap information, but it does not 
 
 ## References
 
-[^judgement-rounding-ref]: [Discord message by spaceman_atlas (2022-05-06) in #osu-wiki](https://discord.com/channels/188630481301012481/218677502141399041/972241866382798889)
+[^judgement-rounding-ref]: [Discord message by spaceman_atlas (2022-05-06) in #osu-wiki in osu!dev](https://discord.com/channels/188630481301012481/218677502141399041/972241866382798889)

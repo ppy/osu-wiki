@@ -82,4 +82,4 @@ outdated_since: 59fa09aa5fb8f605a3f45c021080958f3bc5d44a
 
 ## Примечания
 
-[^judgement-rounding-ref]: [Сообщение в Discord от spaceman_atlas (2022-05-06) в #osu-wiki](https://discord.com/channels/188630481301012481/218677502141399041/972241866382798889)
+[^judgement-rounding-ref]: [Сообщение в Discord от spaceman_atlas (2022-05-06) в #osu-wiki в osu!dev](https://discord.com/channels/188630481301012481/218677502141399041/972241866382798889)
