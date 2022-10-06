@@ -62,7 +62,7 @@ The map itself is on another level too! Quoting [Mismagius](https://osu.ppy.sh/u
 
 Everyone in this team has earned the **Overall runner-up** profile badge!
 
-![Overall runner-up profile badge](/wiki/shared/news/2022-05-26-triangles/overallrunnerup%402x.png)
+![Overall runner-up profile badge](/wiki/shared/news/2022-05-26-triangles/overallrunnerup@2x.png)
 
 ### Overall winner
 
