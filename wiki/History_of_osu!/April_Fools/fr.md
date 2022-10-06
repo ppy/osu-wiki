@@ -285,7 +285,7 @@ Le poisson d'avril 2021 a recyclé la même blague que les deux années précéd
 [^osu-cookie-web-reddit-3]: [Reddit post (r/osugame) [u/AdriaLOL] - "haha, nice april fools peppy XD"](https://www.reddit.com/r/osugame/comments/88qlwk/haha_nice_april_fools_peppy_xd/)
 [^osu-cookie-web-forums]: [osu! forum thread (General Discussion) [Aochie] - "The osu! logo is moving?"](https://osu.ppy.sh/community/forums/topics/724377)
 [^osu-cookie-web-forums-2]: [osu! forum thread (Resolved Issues [Jreen] - "[resolved] Osu! Logo Sideways?"](https://osu.ppy.sh/community/forums/topics/724094)
-[^osu-cookie-web-wiki]: [osu! wiki article - "History of osu! 2018"](/wiki/History_of_osu!/2018#april)
+[^osu-cookie-web-wiki]: [osu! wiki article - "History of osu! 2018"](/wiki/History_of_osu!/2018#avril)
 [^sneeze-reddit]: [Reddit post (r/osugame) [u/jivko500] - "The April Fools joke in osu"](https://www.reddit.com/r/osugame/comments/b83pnl/the_april_fools_joke_in_osu/)
 [^sneeze-reddit-2]: [Reddit post (r/osugame) [u/anoymaly2152] - "Bless you, Pippi."](https://www.reddit.com/r/osugame/comments/b848ro/bless_you_pippi/)
 [^sneeze-forums]: [osu! forum thread (Off-Topic) [Brainage] - "No April Fools in the changelog?"](https://osu.ppy.sh/community/forums/topics/888939)
