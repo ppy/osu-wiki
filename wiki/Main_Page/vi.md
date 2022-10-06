@@ -61,7 +61,7 @@ Các hoạt động: [Tạo beatmap](/wiki/Beatmapping) • [Các kỹ thuật m
 
 Xếp hạng là quá trình có được một bảng xếp hạng cho một beatmap, làm cho nó trở nên phổ biến và được công nhận rộng rãi hơn. Khám phá những gì cần thiết để đi trên con đường này và cách tăng cơ hội thành công của bạn thông qua đánh giá beatmap, cũng như các quy trình kiểm soát chất lượng và quy trình xếp hạng.
 
-[Đăng beatmap](/wiki/Submission) • [Modding](/wiki/Modding) • [Thủ tục xếp hạng](/wiki/Beatmap_ranking_procedure) • [Bang Hội Của Mapper](/wiki/Community/Mappers_Guild) • [Dự Án Loved](/wiki/Community/Project_Loved)
+[Đăng beatmap](/wiki/Submission) • [Modding](/wiki/Modding) • [Thủ tục xếp hạng](/wiki/Beatmap_ranking_procedure) • [Hội Của Mapper](/wiki/Community/Mappers_Guild) • [Dự án Loved](/wiki/Community/Project_Loved)
 
 [Tiêu chí xếp hạng](/wiki/Ranking_Criteria): [osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania)
 
