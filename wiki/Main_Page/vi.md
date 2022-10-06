@@ -113,7 +113,7 @@ Các tổ chức: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
 osu! có lẽ sẽ không thể thực hiện được nếu không có sự trợ giúp, bảo trì và quản lý cộng đồng của người dùng: những nỗ lực, thời gian và sự cống hiến của họ giúp trò chơi tồn tại và thịnh vượng.
 
-[Nhóm phát triển](/wiki/People/The_Team): [Những nhà phát triển (DEV)](/wiki/People/The_Team/Developers) • [Nhóm Kiểm Duyệt Toàn Cầu (GMT)](/wiki/People/The_Team/Global_Moderation_Team) • [Nhóm hỗ trợ](/wiki/People/The_Team/Support_Team) • [Nhóm Đánh Giá Đề Cử (NAT)](/wiki/People/The_Team/Nomination_Assessment_Team) • [Những người đề cử (BN)](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Nhóm Project Loved](/wiki/People/The_Team/Project_Loved_Team)
+[Nhóm phát triển](/wiki/People/The_Team): [Những nhà phát triển (DEV)](/wiki/People/The_Team/Developers) • [Nhóm kiểm duyệt (GMT)](/wiki/People/The_Team/Global_Moderation_Team) • [Nhóm hỗ trợ](/wiki/People/The_Team/Support_Team) • [Nhóm đánh giá đề cử (NAT)](/wiki/People/The_Team/Nomination_Assessment_Team) • [Những người đánh giá beatmap (BN)](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Nhóm Project Loved](/wiki/People/The_Team/Project_Loved_Team)
 
 [Những người đóng góp](/wiki/People/Community_Contributors) • [Những người dùng với các tiêu đề đặc biệt](/wiki/People/Users_with_unique_titles) • [Uỷ Ban Giải Đấu](/wiki/People/Tournament_Committee) • [Uỷ Ban Điểm PP](/wiki/People/Performance_Points_Committee)
 
