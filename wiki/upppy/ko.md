@@ -1,5 +1,5 @@
 ---
-stub
+stub: true
 ---
 
 # upppy
