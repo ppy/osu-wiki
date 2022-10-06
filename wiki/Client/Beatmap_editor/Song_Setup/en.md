@@ -131,7 +131,7 @@ While Half Time and Double Time does not change the actual given AR value, the s
 
 *Main page: [Overall difficulty](/wiki/Beatmapping/Overall_difficulty)*
 
-![Detailed OD chart](img/ODTable.png "Detailed OD chart")
+![Detailed OD chart](/wiki/shared/ODTable.png "Detailed OD chart")
 
 *Note: The above table applies for the osu! game mode only.*\
 *Notice: On the beatmap page, Overall Difficulty is listed as Accuracy.*

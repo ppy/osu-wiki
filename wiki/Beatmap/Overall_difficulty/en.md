@@ -30,6 +30,10 @@ Hit windows for judgments can be viewed when hovering over the [beatmap informat
 | 100 | `140 - 8 * OD` |
 | 50 | `200 - 10 * OD` |
 
+#### Table comparison
+
+![](/wiki/shared/ODTable.png "Comparison of hit windows for different combinations of OD and game modifiers")
+
 ### osu!taiko
 
 <!-- reference: https://github.com/ppy/osu/blob/master/osu.Game.Rulesets.Taiko/Scoring/TaikoHitWindows.cs#L12-L14
@@ -82,5 +86,3 @@ Overall difficulty is visible when viewing beatmap information, but it does not 
 ## References
 
 [^judgement-rounding-ref]: [Discord message by spaceman_atlas (2022-05-06) in #osu-wiki](https://discord.com/channels/188630481301012481/218677502141399041/972241866382798889)
-
-<!-- TODO: add CHART -->
