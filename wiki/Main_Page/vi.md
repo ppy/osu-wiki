@@ -50,7 +50,7 @@ Tất cả beatmap osu! được tạo ra bởi trí tưởng tượng phong ph�
 
 Các phần chính: [Biên soạn (Compose)](/wiki/Client/Beatmap_editor/Compose) • [Thiết kế (Design)](/wiki/Client/Beatmap_editor/Design) • [Thời gian (Timing)](/wiki/Client/Beatmap_editor/Timing) • [Thiết lập bài hát (Song Setup)](/wiki/Client/Beatmap_editor/Song_Setup)
 
-Các thành phần trợ giúp: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Nhịp điệu cố định](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) • [Khoảng cách cố định](/wiki/Client/Beatmap_editor/Distance_snap) • [Menu](/wiki/Client/Beatmap_editor/Menu) • [Tải SB](/wiki/Client/Beatmap_editor/SB_Load) • [Các mốc thời gian](/wiki/Client/Beatmap_editor/Timelines)
+Các thành phần trợ giúp: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Nhịp điệu cố định](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) • [Khoảng cách cố định](/wiki/Client/Beatmap_editor/Distance_snap) • [Menu](/wiki/Client/Beatmap_editor/Menu) • [SB load](/wiki/Client/Beatmap_editor/SB_Load) • [Các mốc thời gian](/wiki/Client/Beatmap_editor/Timelines)
 
 Các hoạt động: [Tạo beatmap](/wiki/Beatmapping) • [Các kỹ thuật mapping](/wiki/Mapping_techniques) • [Tạo Storyboard](/wiki/Storyboard#storyboarding) • [Tạo Skin](/wiki/Skinning)
 
