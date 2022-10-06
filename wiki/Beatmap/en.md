@@ -37,7 +37,7 @@ After the submission, a beatmap gains additional metadata fields, such as descri
 Every submitted beatmap is assigned a numeric identifier (`BeatmapSetID`), by which it can be tracked on the website and via [osu!api](/wiki/osu!api). Difficulties of a beatmap also have their own numeric identifiers (`BeatmapID`). The URL leading to a specific difficulty's tab on a beatmap's page includes both identifiers and has the following format:
 
 ```
-https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{GameMode}/{BeatmapID}`
+https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{GameMode}/{BeatmapID}
 ```
 
 ### Beatmap category

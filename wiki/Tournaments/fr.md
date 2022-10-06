@@ -523,6 +523,7 @@ Tournois et compétitions non-officiels gérés par la communauté.
 | [Catch French Beginner 4](CFB/4) | 25/04/2020 | 30/05/2020 | ::{ flag=CA }:: [Remyria](https://osu.ppy.sh/users/1699875) | ::{ flag=FR }:: [Hecatia15](https://osu.ppy.sh/users/3163012) | ::{ flag=FR }:: [Trifano](https://osu.ppy.sh/users/15126172) |
 | [Catch French Beginner 5](CFB/5) | 16/01/2021 | 21/02/2021 | ::{ flag=FR }:: [Enias](https://osu.ppy.sh/users/8384680) | ::{ flag=FR }:: [redjiii](https://osu.ppy.sh/users/1378728) | ::{ flag=FR }:: [MitsukeZ](https://osu.ppy.sh/users/12943161) |
 | [Catch French Beginner 6](CFB/6) | 13/11/2021 | 19/12/2021 | ::{ flag=FR }:: [JunkoAndHiro](https://osu.ppy.sh/users/14004732) | ::{ flag=FR }:: [iron-wish](https://osu.ppy.sh/users/12264606) | ::{ flag=FR }:: [\_\_\_\_\_\_\_\_\_\_\_\_](https://osu.ppy.sh/users/6973354) |
+| [Catch French Dual Tournament](CFC/CFDT_2) | 16/08/2022 | 02/10/2022 | 5€ (::{ flag=FR }:: [Boros](https://osu.ppy.sh/users/5490623), ::{ flag=KR }:: [T s u m i](https://osu.ppy.sh/users/4080520)) | :pleading_face: (::{ flag=FR }:: [Natsuko](https://osu.ppy.sh/users/8266817), ::{ flag=ID }:: [Ruu](https://osu.ppy.sh/users/3212755)) | French Penguins (::{ flag=FR }:: [Yostel](https://osu.ppy.sh/users/3594510), ::{ flag=IT }:: [ArMa79](https://osu.ppy.sh/users/4982799)) |
 
 #### Catch French Cup
 
