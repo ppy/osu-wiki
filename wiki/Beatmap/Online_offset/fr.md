@@ -11,7 +11,7 @@ Le **online offset** est un décalage qui peut être appliqué à une [beatmap](
 
 Il peut être défini par les membres de la [Nomination Assesment Team](/wiki/People/The_Team/Nomination_Assessment_Team), et être vu par certains utilisateurs élevés, comme les [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) et les [Developers](/wiki/People/The_Team/Global_Moderation_Team). Cela signifie également que le online offset est invisible pour les utilisateurs normaux sur le site Web, mais qu'il apparaît toujours dans le jeu. Le tableau ci-dessous montre comment le décalage en ligne est affiché pour les utilisateurs élevés :
 
-![le online offset sur le site](img/online_offset.jpg)<!--TODO: add image of the new webpage once online offset gets added there-->
+![le online offset sur le site](img/beatmap-management-panel.jpg)<!--TODO: add image of the new webpage once online offset gets added there-->
 
 Toutes les valeurs de online offset sont stockées localement. Le stockage des valeurs de online offset dans le fichier osu!.db permet d'appliquer les valeurs même si un joueur joue hors ligne, à condition qu'il ait été connecté à Internet avant d'importer ou de jouer la beatmap.
 

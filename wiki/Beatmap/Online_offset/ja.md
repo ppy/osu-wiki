@@ -12,6 +12,6 @@ tags:
 これは、[ノミネーションアシスタントチーム](/wiki/People/The_Team/Nomination_Assessment_Team)(NAT)が設定でき、[ビートマップノミネーター](/wiki/People/The_Team/Beatmap_Nominators)(BN)や[開発者](/wiki/People/The_Team/Global_Moderation_Team)など、一部の昇格したユーザーからも見ることができます。また、オンラインオフセットは、Webサイトでは通常のユーザーからは見ることはできませんが、ゲーム画面では表示されます。 
 以下は、オンラインオフセットを見ることができる昇格ユーザーにはどのように表示されるかを示しています。
 
-![Web上でのオンラインオフセットの表示](img/online_offset.jpg)
+![Web上でのオンラインオフセットの表示](img/beatmap-management-panel.jpg)
 
 インポートしたビートマップにオンラインオフセットが設定されている場合は、値がローカルに保存されます。これにより、プレイヤーがオフラインでプレイしている場合でも、値を適用できます。
