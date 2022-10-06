@@ -4,7 +4,7 @@ title: "Results - triangles"
 date: 2022-10-06 04:00:00 +0000
 ---
 
-Votes are tallied. Judges are locked in. See who comes home with the gold in this triangle-themed beatmapping and storyboarding contest!
+The votes are tallied and the judges have made their decision. See who comes home with the gold in this triangle-themed beatmapping and storyboarding contest!
 
 ![](https://assets.ppy.sh/contests/147/header.jpg)
 
