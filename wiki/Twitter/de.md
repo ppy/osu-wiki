@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: bf0efccf8db8b9dfb5ae645549a64c0623c27052
----
-
 # Twitter
 
 osu! hat mehrere Twitter-Konten, die alle eine bestimmte Funktion erfüllen. Auf den meisten ist nur wenig los, aber sie helfen dir dabei, über osu! informiert zu bleiben.
@@ -21,6 +16,7 @@ osu! hat mehrere Twitter-Konten, die alle eine bestimmte Funktion erfüllen. Auf
 | ![osu! Avatar](img/osugame.jpg) | [@osugame](https://twitter.com/osugame) | Die offizielle Quelle für Nachrichten und Ankündigungen. |
 | ![BanchoBoat Avatar](img/banchoboat.jpg) | [@banchoboat](https://twitter.com/banchoboat) | Gedacht für einen spaßigen Austausch, wenn Dinge schief laufen. |
 | ![NAT Avatar](img/osu_nat.png) | [@osu_nat](https://twitter.com/osu_nat) | Nachrichten, Ankündigungen und kleine Umfragen in der Community durch das [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) (Das [osu!-Team](/wiki/People/The_Team) ist dafür nicht zuständig). |
+| ![Avatar des pp-Komitees](img/ppcommittee.png) | [@pp_committee](https://twitter.com/pp_committee) | Ankündigungen für Berechnungen der Schwierigkeiten in allen Spielmodi, betrieben vom [Performance-Punkte-Komitee](/wiki/People/Performance_Points_Committee). |
 
 ## Persönlich
 
