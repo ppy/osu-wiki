@@ -5,7 +5,7 @@
 
 Un **storyboard** (SB) es un fondo animado personalizado que acompaña a un [beatmap](/wiki/Beatmap), a menudo con fines decorativos y, a veces, para jugar. Un guion gráfico puede estar compuesto de casi cualquier cosa, pero por lo general consisten en efectos visuales diseñados para hacer que un mapa sea más agradable, estéticamente y distintivo para los usuarios. Los guiones gráficos están inspirados en los fondos animados que se encuentran en [Osu! Tatakae! Ouendan](/wiki/Disambiguation/Ouendan). Al igual que su inspiración, los guiones gráficos pueden ajustarse al rendimiento del jugador en el juego y mostrar diferentes cosas según lo bien que lo esté haciendo el jugador.
 
-Los guiones gráficos se almacenan en carpetas de beatmaps como [archivos `.osb`](/wiki/osu!_File_Formats/Osb_(file_format)) independientes o como extensiones de la sección `[Eventos]` de un [archivo `.osu`](/wiki/osu!_File_Formats/Osu_(file_format)). Debido a esto, es posible crear diferentes guiones gráficos para las dificultades dentro de un [beatmap](/wiki/Beatmap).
+Los guiones gráficos se almacenan en carpetas de beatmaps como [archivos `.osb`](/wiki/osu!_File_Formats/Osb_(file_format)) independientes o como extensiones de la sección `[Events]` de un [archivo `.osu`](/wiki/osu!_File_Formats/Osu_(file_format)). Debido a esto, es posible crear diferentes guiones gráficos para las dificultades dentro de un [beatmap](/wiki/Beatmap).
 
 ## Storyboarding
 
