@@ -6,6 +6,8 @@ tags:
   - spinner difficulty
   - précision
   - fenêtre de hit
+outdated_translation: true
+outdated_since: 59fa09aa5fb8f605a3f45c021080958f3bc5d44a
 ---
 
 # Overall difficulty
