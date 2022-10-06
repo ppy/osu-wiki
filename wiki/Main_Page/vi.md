@@ -13,7 +13,7 @@ Chào mừng đến với osu! wiki, cơ sở kiến thức mã nguồn mở ch�
 
 # Bắt đầu
 
-Các bài báo và hướng dẫn quan trọng sẽ giúp bạn tìm hiểu sâu hơn về osu!. Trong trường hợp có gì sai hoặc có vẻ không chắc chắn, hãy nhớ truy cập diễn đàn [Trợ giúp](https://osu.ppy.sh/forum/5).
+Các bài viết và hướng dẫn quan trọng sẽ giúp bạn tìm hiểu sâu hơn về osu!. Trong trường hợp có gì sai hoặc có vẻ không chắc chắn, hãy nhớ truy cập diễn đàn [Trợ giúp](https://osu.ppy.sh/forum/5).
 
 [Luật lệ](/wiki/Rules) • [Cài đặt](/wiki/Client/Installation) • [Đăng kí](/wiki/Registration) • [Trung tâm trợ giúp](/wiki/Help_centre)
 
