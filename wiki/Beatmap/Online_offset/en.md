@@ -14,7 +14,7 @@ All online offset values are stored locally for later use. This allows the value
 ## History
 
 ::: Infobox
-![](img/img/beatmap-management-panel.jpg "Beatmap management panel, old website")
+![](img/beatmap-management-panel.jpg "Beatmap management panel, old website")
 :::
 
 Online offset was implemented in September 2008[^changelog-add] to make it possible to fix a beatmap's timing without unranking. It was accessible for elevated users, such as members of the [Beatmap Appreciation Team](/wiki/Modding/Beatmap_Appreciation_Team), [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) (QAT), [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (NAT), and [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team).
