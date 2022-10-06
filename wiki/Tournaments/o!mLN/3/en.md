@@ -59,7 +59,6 @@ The osu!mania LN Tournament 3 is run by various community members.
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1633030)
 - [o!mLN Discord server](https://discord.gg/SPQtt3s)
 - [Livestream](https://www.twitch.tv/osumanialive)
-- [Staff registration form](https://forms.gle/AgG6J3MEaREjsUFe6)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/11vi9CALEtaEnyvm-xwwGsudXB7HsaPMAoAXwF5hx0QY/edit?usp=sharing)**
 
 ## Participants
