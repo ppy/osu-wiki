@@ -131,7 +131,7 @@ Tương tác với osu! thông qua các ứng dụng và phương tiện khác, 
 
 # Wiki và những trang meta
 
-Cũng như hầu hết mọi thứ ở đây, osu! wiki được viết và duy trì bởi các tình nguyện viên. Đề xuất cải tiến, báo cáo vấn đề hoặc thậm chí viết bài báo của riêng bạn tại [Github của osu-wiki](https://github.com/ppy/osu-wiki).
+Cũng như hầu hết mọi thứ ở đây, osu! wiki được viết và duy trì bởi các tình nguyện viên. Đề xuất cải tiến, báo cáo vấn đề hoặc thậm chí viết bài viết của riêng bạn tại [Github của osu-wiki](https://github.com/ppy/osu-wiki).
 
 [Lịch sử của osu!](/wiki/History_of_osu!) • [Lịch sử của osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [Lịch sử của mapping và modding](/wiki/History_of_osu!/Mapping_and_Modding_Timeline) • [Cá tháng Tư](/wiki/History_of_osu!/April_Fools)
 
