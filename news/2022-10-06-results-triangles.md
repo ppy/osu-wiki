@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Results - triangles"
-date: 2022-10-04 20:00:00 +0000
+date: 2022-10-06 04:00:00 +0000
 ---
 
 Votes are tallied. Judges are locked in. See who comes home with the gold in this triangle-themed beatmapping and storyboarding contest!
