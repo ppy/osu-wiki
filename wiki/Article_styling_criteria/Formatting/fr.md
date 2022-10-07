@@ -848,7 +848,7 @@ Les citations doivent, dès que possible, préciser l'auteur, la date, le servic
 Exemples :
 
 ```markdown
-La première version de l'osu!api a été mise à disposition le 2 juillet 2013.[^api-first-usage] Elle avait été saluée par la critique des utilisateurs.[^api-praise] Une nouvelle version de l'API, publiée plusieurs années plus tard, contient beaucoup plus de capacités.[^api-v2-2020] Le versionnement des points de terminaisons est courant parmi les API web.[^web-api]
+La première version de l'osu!api a été mise à disposition le 2 juillet 2013.[^api-first-usage] Elle avait été saluée par la critique des utilisateurs.[^api-praise] Une nouvelle version de l'API, publiée plusieurs années plus tard, contient beaucoup plus de capacités.[^api-v2-2020] Le versionnage des points de terminaison est courant parmi les API web.[^web-api]
 
 ## Références
 
