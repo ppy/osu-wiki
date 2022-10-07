@@ -79,4 +79,4 @@ Overall difficulty dapat ditemukan ketika melihat informasi beatmap, tetapi tida
 
 ## Referensi
 
-[^judgement-rounding-ref]: [Discord message by spaceman_atlas (2022-05-06) in #osu-wiki](https://discord.com/channels/188630481301012481/218677502141399041/972241866382798889)
+[^judgement-rounding-ref]: [Pesan dari spaceman_atlas di server Discord osu!dev di #osu-wiki (06-05-2022)](https://discord.com/channels/188630481301012481/218677502141399041/972241866382798889)
