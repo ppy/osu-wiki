@@ -21,7 +21,7 @@ All online offset values are stored locally for later use. This allows the value
 ![](img/beatmap-management-panel-new.png "Beatmap management panel, new website")
 :::
 
-Online offset was implemented in September 2008[^changelog-add] for the [Beatmap Appreciation Team](/wiki/Modding/Beatmap_Appreciation_Team) to make it possible to fix a beatmap's timing without unranking. Over the course of time, it was accessible to the members of different teams overseeing the ranking process, such that [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) (QAT), [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (NAT), and to [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) due to similar user group permissions.
+Online offset was implemented in September 2008[^changelog-add] for the [Beatmap Appreciation Team](/wiki/Modding/Beatmap_Appreciation_Team) to make it possible to fix a beatmap's timing without unranking. Over the course of time, it was accessible to the members of different teams overseeing the ranking process, such as the [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) (QAT), [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (NAT), and the [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) due to similar user group permissions.
 
 In May 2019, NAT has declared during the QAT restructuring follow-up[^qat-restructuring-follow-up-pr] that an invalid offset required a beatmap unrank and could not have been fixed via the respective website controls. Regardless, the whole map management panel was made visible to [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators).
 
