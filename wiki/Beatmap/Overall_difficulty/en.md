@@ -30,7 +30,7 @@ Hit windows for judgments can be viewed when hovering over the [beatmap informat
 | 100 | `140 - 8 * OD` |
 | 50 | `200 - 10 * OD` |
 
-![](/wiki/shared/ODTable.png "Comparison of hit windows for different combinations of OD and game modifiers")
+![](/wiki/shared/ODTable.png "Comparison of hit windows for different combinations of OD and game modifiers. For Half Time and Double Time combinations, referenced OD values are only based on 300's hit windows, and would be different for 100 and 50.")
 
 ### osu!taiko
 
