@@ -37,7 +37,7 @@ Setelah di-submit, sebuah beatmap akan mendapatkan tambahan tempat khusus untuk 
 Setiap beatmap yang diunggah akan mendapatkan pengenal numerik (`BeatmapSetID`), yang dapat dilacak di situs web dan melalui [osu!api](/wiki/osu!api). Tingkat kesulitan pada sebuah beatmap juga mempunyai pengenal numerik masing-masing (`BeatmapID`). URL yang mengarah ke tingkat kesulitan tertentu pada halaman beatmap akan diberikan juga pengenal numerik tambahan dan memiliki format sebagai berikut:
 
 ```
-https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{GameMode}/{BeatmapID}`
+https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{GameMode}/{BeatmapID}
 ```
 
 ### Kategori beatmap

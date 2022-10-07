@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: da1abda46773816736806e203c38563334d4e1e3
+---
+
 # Concours
 
 Cette section est dédiée aux concours organisés par la communauté d'osu!.
@@ -214,7 +219,7 @@ L'**osu!idol** est un concours de chant dans lequel les participants de toute la
 
 ### Skinning Contest
 
-Le **Skinning Contest** est un concours de skinning dans lequel les créateurs artistiques de toute la communauté s'affrontent pour créer le meilleur skin en un temps limité. 
+Le **Skinning Contest** est un concours de skinning dans lequel les créateurs artistiques de toute la communauté s'affrontent pour créer le meilleur skin en un temps limité.
 
 | Numéro du concours | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne en bronze][BCrown] | Résultats |
 | :-: | :-- | :-- | :-- | :-- |
@@ -262,7 +267,7 @@ La **osu!taiko Featured Artist Cup** est un concours de mapping osu!taiko où il
 
 ### Slider Velocity Showdown
 
-Le **Slider Velocity Showdown** est un concours de mapping osu!taiko avec un focus sur la créativité et l'innovation. Ce concours est ouvert à toute personne voulant faire travailler leurs muscles créatifs, qu'ils n'aient jamais touchés de point d'héritage ou qu'ils mappent depuis des années. 
+Le **Slider Velocity Showdown** est un concours de mapping osu!taiko avec un focus sur la créativité et l'innovation. Ce concours est ouvert à toute personne voulant faire travailler leurs muscles créatifs, qu'ils n'aient jamais touchés de point d'héritage ou qu'ils mappent depuis des années.
 
 | Numéro du concours | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne en bronze][BCrown] | Résultats |
 | :-: | :-- | :-- | :-- | :-- |
