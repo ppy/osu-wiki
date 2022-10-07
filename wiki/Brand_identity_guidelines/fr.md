@@ -8,10 +8,10 @@ Les directives d'identité de marque sont un ensemble de normes pour les projets
 
 Le nom du jeu, osu!, ne doit pas prendre de majuscule. La marque officielle osu! ne doit pas utiliser d'espaces :
 
-- Modes de jeu: `osu!`, `osu!catch`, `osu!taiko`, `osu!mania`
-- Projets: `osu!academy`, `osu!talk`
-- Services et applications: `osu!direct`, `osu!store`, `osu!stream`, `osu!tourney`
-- Produits et marchandises: `osu!keyboard`, `osu!supporter`, `osu!tablet`
+- Modes de jeu : `osu!`, `osu!catch`, `osu!taiko`, `osu!mania`
+- Projets : `osu!academy`, `osu!talk`
+- Services et applications : `osu!direct`, `osu!store`, `osu!stream`, `osu!tourney`
+- Produits et marchandises : `osu!keyboard`, `osu!supporter`, `osu!tablet`
 
 Pour tous les autres termes, osu! doit être traité comme un [complément du nom](https://fr.wikipedia.org/wiki/Compl%C3%A9ment_du_nom), ce qui signifie qu'il faut ajouter un espace entre osu! et le nom qu'il modifie. Exemples :
 
@@ -27,7 +27,7 @@ Pour tous les autres termes, osu! doit être traité comme un [complément du no
 
 #### Couleur unique
 
-![](img/usage-single-colour.png "Logo osu! en une seule couleur")
+![](img/usage-single-colour.png "Logo d'osu! en une seule couleur")
 
 C'est la version unicolore du logo en forme de cookie d'osu! Cette version du logo est très polyvalente et peut-être adaptée à de nombreux styles de design.
 
@@ -35,7 +35,7 @@ Veuillez utiliser le fichier original comme base, et ne pas créer le logo à pa
 
 #### Couleur
 
-![](img/usage-full-colour.png "Logo osu! en couleur")
+![](img/usage-full-colour.png "Logo d'osu! en couleur")
 
 Voici la version couleur du logo en forme de cookie d'osu! L'ombre portée subtile fait partie du logo en couleur.
 
@@ -43,7 +43,7 @@ Veuillez utiliser le logo tel que fourni par le kit de conception sans aucune mo
 
 ### Zone d'espace libre
 
-![](img/clear-space-area.png "Exemple de marges autour du logo osu!")
+![](img/clear-space-area.png "Exemple de marges autour du logo d'osu!")
 
 S'il vous plaît, laissez le cookie respirer un peu. Utilisez le "o" d'"osu!" comme mesure de l'espace.
 
