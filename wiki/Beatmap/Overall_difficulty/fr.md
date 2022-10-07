@@ -81,4 +81,4 @@ L'OD est visible lors de l'affichage des informations de la beatmap, mais elle n
 
 ## Références
 
-[^judgement-rounding-ref]: [message Discord de spaceman_atlas (06/05/2022) dans #osu-wiki sur osu!dev](https://discord.com/channels/188630481301012481/218677502141399041/972241866382798889)
+[^judgement-rounding-ref]: [Message Discord de spaceman_atlas (06/05/2022) dans #osu-wiki sur osu!dev](https://discord.com/channels/188630481301012481/218677502141399041/972241866382798889)
