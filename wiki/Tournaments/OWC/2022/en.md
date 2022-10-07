@@ -56,8 +56,6 @@ The osu! World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) and var
 
 ## Participants
 
-*Notice: Captains are listed in **bold**. The final team composition for each country is subject to change. If you have been selected as a captain, check your [inbox](https://osu.ppy.sh/community/chat) for more information. Countries not listed did not have enough players to meet the minimum team size criteria.*
-
 |  | Country | Members |
 | :-: | :-: | :-- |
 | ::{ flag=AR }:: | **Argentina** | **[Zydan](https://osu.ppy.sh/users/9393446)**, [Amuro](https://osu.ppy.sh/users/7119659), [Bomilk](https://osu.ppy.sh/users/7081596), [GastonGL](https://osu.ppy.sh/users/11238108), [juliancala](https://osu.ppy.sh/users/3272902), [R1cho](https://osu.ppy.sh/users/13065919), [rouds](https://osu.ppy.sh/users/11566624), [zeta](https://osu.ppy.sh/users/9336886) |
