@@ -8,4 +8,4 @@ Le **rythme** est "le modèle des sons, des silences et des accents dans une mus
 
 ## Références
 
-[^rhythm-ref]: [Qu'est-ce que le rythme](https://blog.landr.com/fr/quest-ce-que-le-rythme-comment-le-tempo-la-pulsation-et-la-mesure-fonctionnent-dans-la-musique/)
+[^rhythm-ref]: ["Qu’est-ce que le rythme: comment le tempo, la pulsation et la mesure fonctionnent dans la musique" | LANDR Blog](https://blog.landr.com/fr/quest-ce-que-le-rythme-comment-le-tempo-la-pulsation-et-la-mesure-fonctionnent-dans-la-musique/)

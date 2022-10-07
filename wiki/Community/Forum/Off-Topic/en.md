@@ -74,10 +74,11 @@ This is one of several role-playing threads created as a result of OT Lore, that
 
 ## References
 
-[^ot-suggestion]: [Separate sub-forum for self perpetuating threads?](https://osu.ppy.sh/community/forums/posts/80316)
-[^ot-announcement]: [peppy's announcement of the new subforum](https://osu.ppy.sh/community/forums/topics/10180)
-[^ot-old-name]: [Mis-quote The Person Above You](https://osu.ppy.sh/community/forums/posts/132900)
-[^ot-derailing-games]: [Last person to see the 20 USD via Paypal thread](https://osu.ppy.sh/community/forums/posts/313614)
-[^ot-rename]: [a](https://osu.ppy.sh/community/forums/posts/316732)
-[^ot-dancing-girls]: [OT's Oldest Mystery: Dancing Anime Girls](https://osu.ppy.sh/community/forums/topics/1525770)
-[^ot-rules-official]: [Aug 17 2022 capture of osu!'s official rules](http://web.archive.org/web/20170817161329/http://osu.ppy.sh/help/wiki/Rules)
+[^ot-suggestion]: [Forum thread by lukewarmholiday (2009-01-30) "Separate sub-forum for self perpetuating threads?"](https://osu.ppy.sh/community/forums/posts/80316)
+[^ot-announcement]: [Forum thread by peppy (2009-02-19) "Forum Games moved to new forum"](https://osu.ppy.sh/community/forums/topics/10180)
+[^ot-old-name]: [Forum post by kuwarudo
+ (2009-05-31) in "Mis-quote The Person Above You"](https://osu.ppy.sh/community/forums/posts/132900)
+[^ot-derailing-games]: [Forum post by Powerdrone (2010-02-03) in "Last person to see the 20 USD via Paypal thread"](https://osu.ppy.sh/community/forums/posts/313614)
+[^ot-rename]: [Forum post by Derekku (2010-02-06) in "a"](https://osu.ppy.sh/community/forums/posts/316732)
+[^ot-dancing-girls]: [Forum thread by abraker (2022-02-20) "OT's Oldest Mystery: Dancing Anime Girls"](https://osu.ppy.sh/community/forums/topics/1525770)
+[^ot-rules-official]: ["Rules — osu! wiki" (2017-08-17) on Wayback Machine](http://web.archive.org/web/20170817161329/http://osu.ppy.sh/help/wiki/Rules)

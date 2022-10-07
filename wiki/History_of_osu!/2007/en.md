@@ -98,5 +98,5 @@ Songs could be edited by dragging them into the osu! window; tooltips were added
 
 ## References
 
-[^ouentest]: [peppy's Twitter post about the start of osu!](https://twitter.com/ppy/status/1141394137637249025?s=20)
-[^osume]: [pUpdater (aka osume)](https://osu.ppy.sh/community/forums/topics/4?n=1)
+[^ouentest]: [Tweet by @ppy (2019-06-19)](https://twitter.com/ppy/status/1141394137637249025?s=20)
+[^osume]: [Forum thread by peppy (2007-08-28) "pUpdater (aka osume)"](https://osu.ppy.sh/community/forums/topics/4?n=1)
