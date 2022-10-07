@@ -8,6 +8,8 @@ tags:
 
 ::: Infobox
 
+<!-- lint ignore heading-increment -->
+
 #### osu! Medal Hunters
 
 ![Server logo](img/logo.png "The Medal Hunter Discord server logo, designed by Tanza3D")
