@@ -4,6 +4,8 @@ tags:
   - 2015
   - legacy
   - histoire
+outdated_translation: true
+outdated_since: f2c89f5c250e64121a2a94aab12046306fa6147d
 ---
 
 # L'histoire d'osu! en 2015

@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: f2c89f5c250e64121a2a94aab12046306fa6147d
+---
+
 # Sejarah osu! 2007
 
 Berikut ini adalah beberapa peristiwa besar yang terjadi di osu! selama tahun 2007. Terima kasih kepada [Sinistro](https://osu.ppy.sh/users/5530) atas bantuannya dalam menyusun sejarah osu! tahun 2007/2008.

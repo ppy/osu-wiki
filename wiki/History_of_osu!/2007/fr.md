@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: f2c89f5c250e64121a2a94aab12046306fa6147d
+---
+
 # L'histoire d'osu! en 2007
 
 Ce qui suit contient certains des évènements majeurs de l'histoire d'osu! en 2007. Un grand merci à [Sinistro](https://osu.ppy.sh/users/5530) pour avoir aidé a compiler le contenu pour les années 2007 et 2008. 
