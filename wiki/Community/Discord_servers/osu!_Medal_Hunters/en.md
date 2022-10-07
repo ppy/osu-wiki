@@ -2,23 +2,44 @@
 tags:
   - medals
   - medal hunting
-  - gameplay
 ---
 
 # osu! Medal Hunters Discord server
 
-**osu! Medal Hunters** is a [Discord](https://discordapp.com) server for medals hunters community made by [Osekai](https://osekai.net) team. As the name states, this server is used for osu! medals hunting, discussion of medals and osu! in general.
+::: Infobox
 
-The permanent invite link is <https://discord.gg/osumedalhunters>.
+#### osu! Medal Hunters
+
+![Server logo](img/logo.png "The Medal Hunter Discord server logo, designed by Tanza3D")
+
+|  |  |
+| :-- | :-- |
+| Invite link | <https://discord.gg/osumedalhunters> |
+| Website | <https://osekai.net/> |
+
+:::
+
+*Notice: While working together in order to find Hush-Hush medals is encouraged, finding them by yourself is as well. Be advised that the website and server contain solutions to Hush-Hush medals.*
+
+**osu! Medal Hunters** is a the main [Discord](https://discord.com) server used by the medal hunting community, where people discuss [medals](/wiki/Medals) and [medal solutions](/wiki/Medals/Unlock_requirements).
+
+The server is run by the same team that develops and maintains the [Osekai website](https://osekai.net/), which is a hub for alternative rankings, medal solutions, archived osu! client versions, and a [profile badge](/wiki/Community/Profile_badge) database.
+
+A lot of medal hunters work together in order to find solutions for each new Hush-Hush medal added into the game. Every time new medals get released, it is announced by one of the Osekai staff members, threads for each medal are created, and people work together to hunt down the solutions.
+
+## Staff
+
+| Role | User (Discord handle) |
+| :-- | :-- |
+| Server owner | [Remyria](https://osu.ppy.sh/users/1699875) (Remyria#0001) |
+| Osekai developer & server admin | ::{ flag=UK }:: [Tanza3D](https://osu.ppy.sh/users/10379965) (Hubz#6283, Tanza#8733), ::{ flag=DE }:: [mulraf](https://osu.ppy.sh/users/1309242) (mulraf#1087) |
+| Osekai community manager & server admin | ::{ flag=UA }:: [MegaMix_Craft](https://osu.ppy.sh/users/18152711) (MegaMix_Craft#1151), ::{ flag=UK }:: [chromb](https://osu.ppy.sh/users/10238680) (chromb#4528), ::{ flag=CA }:: [Remyria](https://osu.ppy.sh/users/1699875) (Remyria#0001) |
+| Osekai & server moderator | [bentokage](https://osu.ppy.sh/users/13175102) (bento#6969) |
 
 ## Verification
 
-New members can send messages on server by default, but in order to be able to send images and have medals percentage next to their nickname they have to authenticate using authentication link sent by server private bot, Osekai Authenticator!
+Anyone can send messages in the server by default, but by authenticating with an osu! account using the Osekai Authenticator bot, members are allowed to send images and get a medal completion percentage automatically put next to their nickname.
 
-![Authentication Message Example](img/authentication_example.png "An example of bot authentication message when you join server") ![Medals Percentage Example](img/medals_percentage.png "An example of medals percentage next to user nickname")
+![Authentication message from the Osekai Authenticator bot](img/authentication_example.png "When joining the server, the Osekai Authenticator bot will send a private authentication message.")
 
-Members can't change their server nickname, so this percentage is showing their real medals completion progress!
-
-## Server purpose
-
-osu! Medal Hunters server is mostly about osu! medals, so this is the place where all the medal solving magic happens! A lot of medal hunters work together in order to find a solution for each new Hush-Hush medal added into the game. Every time new medals release, it's announced by one of Osekai staff members, threads for each Hush-Hush medal are created and the hunt begins!
+![Nickname with medal completion percentage](img/medals_percentage.png "Nicknames are automatically modified to show how many medals each user has obtained.")
