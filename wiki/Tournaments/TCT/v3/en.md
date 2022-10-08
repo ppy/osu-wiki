@@ -52,11 +52,11 @@ The Taiko 2v2 Convert Tourney v3 was run by various community members.
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1568153)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1283184)
 - [TCT Discord server](https://discord.gg/56WRzpQUV2)
 - [Livestream](https://www.twitch.tv/taikoconverttournament)
-- [Challonge brackets](https://challonge.com/TCTv4)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1irT-oEpMu6QfUzKBosyeZJtfKZzcqKmRYAJu9nyWj7s/edit?usp=sharing)**
+- [Challonge brackets](https://challonge.com/TCTv3)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/18l648K0m99SoMlk_5V-Xj3a4FySooH4psNVna97HxyE/edit?usp=sharing)**
 
 ## Participants
 
