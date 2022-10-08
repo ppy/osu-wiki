@@ -52,11 +52,11 @@ The Taiko Convert Tournament v4 was run by various community members.
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1605746?n=1)
-- [CFC Discord server](https://discord.gg/YPfmnRcv6e)
-- [Livestream](https://twitch.tv/osufrlive)
-- [Challonge brackets](https://challonge.com/CFDT2)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1XAdGOnI3yZ1-i_5AOdsZZong_EwiV_S2AjzxxQOdFwg/edit)**
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1568153)
+- [TCT Discord server](https://discord.gg/56WRzpQUV2)
+- [Livestream](https://www.twitch.tv/taikoconverttournament)
+- [Challonge brackets](https://challonge.com/TCTv4)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1irT-oEpMu6QfUzKBosyeZJtfKZzcqKmRYAJu9nyWj7s/edit?usp=sharing)**
 
 ## Participants
 
