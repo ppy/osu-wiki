@@ -12,7 +12,7 @@ tags:
 
 **Tài khoản bot** là một loại tài khoản osu! đặc biệt vận hành bởi một hệ thống tự động thay cho người thật. Trên trang web, chúng có một huy hiệu trắng với nhãn là `BOT`, và chỉ phần `me!` có thể được thấy trên hồ sơ của chúng. Tài khoản bot được dùng phổ biến để chạy "chat bots" mà cũng cấp đa dạng chức năng cho cộng đồng thông qua phòng [multiplayer](/wiki/Client/Interface/Multiplayer) hoặc tin nhắn riêng tư.
 
-Tài khoản bot chỉ được tạo thông qua [quá trình tạo](#tạo-tài-khoản-bot). Cố gắng tạo một tài khoản bot bằng cách đăng ký bình thường được xem như là multi-account và vi phạm [nội quy cộng đồng](/wiki/Rules#community-rules).
+Tài khoản bot chỉ được tạo thông qua [quá trình tạo](#tạo-tài-khoản-bot). Cố gắng tạo một tài khoản bot bằng cách đăng ký bình thường được xem như là multi-account và vi phạm [nội quy cộng đồng](/wiki/Rules#nội-quy-cộng-đồng).
 
 ## Lợi ích của tài khoản bot
 
