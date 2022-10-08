@@ -520,7 +520,7 @@ Tournois et compétitions non-officiels gérés par la communauté.
 | Nom | Début | Fin | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [4 Digit Catch World Cup 2021](4CWC/2021) | 02/10/2021 | 14/11/2021 | ::{ flag=ID }:: Indonésie | ::{ flag=DE }:: Allemagne | ::{ flag=SE }:: Suède |
-| [4 Digit Catch World Cup 2022](4CWC/2022) | 30/07/2022 | 11/09/2022 | *À déterminer* | *À déterminer* | *À déterminer* |
+| [4 Digit Catch World Cup 2022](4CWC/2022) | 30/07/2022 | 11/09/2022 | ::{ flag=MX }:: Mexico | ::{ flag=US }:: United States | ::{ flag=SG }:: Singapore |
 
 #### Catch French Beginner
 
