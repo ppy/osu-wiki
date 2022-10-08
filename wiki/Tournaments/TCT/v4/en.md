@@ -409,31 +409,54 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 ### General rules
 
 1. A valid team formation will be:
-   - A participant with rank range between #1 and #500
-   - A participant with rank range below #501
-   - One of the participant must be able to speak french or has a french flag in their profile
-2. The Score System used will be **Score V2**.
-3. If team can't attend within the span of **10 minutes**, the other team will win by default.
-4. Even in a tournament scene osu! is still a game. Please respect each other to everyone, be friendly, and fair play.
-5. Taiko Convert Tournament v4 will use double-elimination bracket, which means that there will be a loser's bracket.
+   - A participant with rank range between #1 and #150
+   - A participant with rank range below #151
+2. Maximum team member per team is **2 players**, meaning there will be no backup or replacement.
+3. The Score System used will be **Score V2**.
+4. Teams will advance through the qualifiers stage first to qualify, the top 24 teams will then proceed to the group stage when they'll get filtered again with top 2 teams per each group will be finally in the knockout stage.
+5. Taiko Convert Tournament v4 will use double-elimination bracket, which means that there will be a loser bracket and winner bracket.
+6. Even in a tournament scene osu! is still a game. Please respect each other to everyone, be friendly, and fair play.
 
-### Match regulations
+### In-game conditions
 
-1. Teams will do `!roll` at the start of the match to determine the order of who picks and bann first.
-   - Team with higher roll will pick first and bann second
-   - Team with lower roll will bann first and pick second
-2. Warmups are not allowed, so make sure to be well warmed up before playing.
-3. Regarding map bans, the amount of map should be banned are as follows:
-   - From Round of 16 until Semifinals, each player will ban 1 map per match.
-   - In the Finals and Grand Finals, each player will ban 2 maps per match.
-4. Failed scores count, with that NoFail will be enforced for everyone
-5. The same team is not allowed to ban or the same mod twice in a row (e.g. banning two HardRock maps).
-6. Hidden mod is combineable with HardRock and DoubleTime mod.
-7. The Tiebreaker can be played under NoMod or Hidden.
+#### Qualifiers
+
+1. Every players will be invited at the time to the room.
+2. There will be no warmups, no ban phase, and no pick phase.
+3. In the qualifiers round, each map will be played twice, or you can play once and leave if you think you've set your best score.
+4. There will be a maximum time of **2 minutes** in between maps. The referee will use `!mp start 10` command to start the game.
+5. If a player gets disconnected for some reason in the first 10 seconds of the song, the referee will abort the game and restart it.
+   - If it happens after 10 seconds, the score before the disconnect will be counted.
+6. The referee can penalise teams if any player present bad behaviour in the game room.
+7. Once the match has finished, the room will be completely closed.
+8. If you fail, the score **will still be counted**.
+
+#### Group Stage and Knockouts
+
+1. Every players will be invited at the time to the room.
+2. The referee can wait a maximum of **10 minutes** for each player to attend.
+   - If the player doesn't come, the referee will ask the other team for a 1v2 start. It will depend on the other team if they want to play or not.
+   - Have in mind if there's a 1v1 match you are forced to play unless you want a forfeit.
+3. Captains will decide if they want to pick a warmup map (maximum limit is **3:30**) and order doesn't matter.
+4. Captains will use `!roll` command. Lower roll will start banning then higher roll bans (1 ban each team).
+5. After banning stage is ready, higher roll picks their first map then lower roll picks theirs. Continue until the match is done.
+6. There will be a **2 minutes** time limit for all phases.
+7. If the time limit is exceeded
+   - Ban: The ban is treated as none.
+   - Pick: The right is transferred to your opponent. It does not affect the subsequent order.
+   - Before the start: The referee will use `!mp start 10` to start the game.
+8. If a player gets disconnected for some reason in the first 10 seconds of the song, the referee will abort the game and restart it.
+   - If it happens after 10 seconds, the score before the disconnect will be counted.
+9. The referee can penalise teams if any player present bad behaviour in the game room.
+10. Once the match has finished, the room will be completely closed.
+11. FreeMod maps are force mod so at least 1 team member **has to pick a mod**.
+12. Team members aren't allowed to pick the same mod combination.
+13. If a player fails in a song, and doesn't revive then his score is not counted. In the case he revives before map's end it counts. if every player fails, then the referee is going to make a sum of their scores then comparing.
+14. If there is a tie, then there will be no point added to any team, map will be considered as played. If there is a tie on the tiebreaker, then teams are going to repeat it with FreeMod conditions.
 
 ### Winning conditions
 
-1. Round of 16: Best-of-7 (first to 4 points)
-2. Quarterfinals: Best-of-9 (first to 5 points)
-3. Semifinals: Best-of-11 (first to 6 points)
+1. Group Stage: Best-of-7 (first to 4 points)
+2. Round of 16: Best-of-9 (first to 5 points)
+3. Quarterfinals and Semifinals: Best-of-11 (first to 6 points)
 4. **Finals and Grand Finals**: Best-of-13 (first to 7 points)
