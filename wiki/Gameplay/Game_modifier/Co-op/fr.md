@@ -10,6 +10,8 @@ tags:
   - playing with a friend
   - modificateur de jeu
   - jouer avec un ami
+outdated_translation: true
+outdated_since: a1204aec65f4533d47725e5a423e288bc4a41a40
 ---
 
 # Le mod Co-op
