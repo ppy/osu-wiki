@@ -300,14 +300,14 @@ Saturday, 3 September 2022:
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Japan** ::{ flag=JP }:: | **7** | 2 | ::{ flag=TH }:: Thailand | [#1](https://osu.ppy.sh/community/matches/103535250) |
-| **United States** ::{ flag=JP }:: | **7** | 2 | ::{ flag=DE }:: Germany | [#1](https://osu.ppy.sh/community/matches/103545081) |
+| **United States** ::{ flag=US }:: | **7** | 2 | ::{ flag=DE }:: Germany | [#1](https://osu.ppy.sh/community/matches/103545081) |
 
 Sunday, 4 September 2022:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Mexico** ::{ flag=MX }:: | **7** | 1 | ::{ flag=SG }:: Singapore | [#1](https://osu.ppy.sh/community/matches/103553633) |
-| **United States** ::{ flag=JP }:: | **7** | 4 | ::{ flag=JP }:: Japan | [#1](https://osu.ppy.sh/community/matches/103567329) |
+| **United States** ::{ flag=US }:: | **7** | 4 | ::{ flag=JP }:: Japan | [#1](https://osu.ppy.sh/community/matches/103567329) |
 
 ### Semifinals
 
@@ -315,7 +315,7 @@ Saturday, 27 August 2022:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **France** ::{ flag=FR }:: | **6** | 4 | ::{ flag=SK }:: South Korea | [#1](https://osu.ppy.sh/community/matches/103368443) |
+| **France** ::{ flag=FR }:: | **6** | 4 | ::{ flag=KR }:: South Korea | [#1](https://osu.ppy.sh/community/matches/103368443) |
 | **Thailand** ::{ flag=TH }:: | **6** | 0 | ::{ flag=HK }:: Hong Kong | [#1](https://osu.ppy.sh/community/matches/103371910) |
 | United States ::{ flag=US }:: | 4 | **6** | ::{ flag=SG }:: **Singapore** | [#1](https://osu.ppy.sh/community/matches/103374645) |
 | **Germany** ::{ flag=DE }:: | **6** | 3 | ::{ flag=GB }:: United Kingdom | [#1](https://osu.ppy.sh/community/matches/103378849) |
@@ -327,7 +327,7 @@ Sunday, 28 August 2022:
 | **Mexico** ::{ flag=MX }:: | **6** | 2 | ::{ flag=JP }:: Japan | [#1](https://osu.ppy.sh/community/matches/103388118) |
 | Taiwan ::{ flag=TW }:: | 3 | **6** | ::{ flag=CL }:: **Chile** | [#1](https://osu.ppy.sh/community/matches/103387966) |
 | **Thailand** ::{ flag=TH }:: | **6** | 3 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/103398156) |
-| **Germany** ::{ flag=TH }:: | **6** | 3 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/103404976) |
+| **Germany** ::{ flag=DE }:: | **6** | 3 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/103404976) |
 
 ### Quarterfinals
 
@@ -335,15 +335,15 @@ Friday, 19 August 2022:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Australia ::{ flag=AU }:: | 5 | **6** | ::{ flag=PO }:: **Portugal** | [#1](https://osu.ppy.sh/community/matches/103177686) |
+| Australia ::{ flag=AU }:: | 5 | **6** | ::{ flag=PT }:: **Portugal** | [#1](https://osu.ppy.sh/community/matches/103177686) |
 
 Saturday, 20 August 2022:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **China** ::{ flag=AU }:: | **6** | 2 | ::{ flag=PL }:: Poland | [#1](https://osu.ppy.sh/community/matches/103206068) |
-| **South Korea** ::{ flag=AU }:: | **6** | 3 | ::{ flag=ID }:: Indonesia | [#1](https://osu.ppy.sh/community/matches/103206106) |
-| **Hong Kong** ::{ flag=AU }:: | **6** | 0 | ::{ flag=MA }:: ::{ flag=KZ }:: ::{ flag=KE }:: ::{ flag=BH }:: ::{ flag=IN }:: Afrasia | [#1](https://osu.ppy.sh/community/matches/103206106) |
+| **China** ::{ flag=CN }:: | **6** | 2 | ::{ flag=PL }:: Poland | [#1](https://osu.ppy.sh/community/matches/103206068) |
+| **South Korea** ::{ flag=KR }:: | **6** | 3 | ::{ flag=ID }:: Indonesia | [#1](https://osu.ppy.sh/community/matches/103206106) |
+| **Hong Kong** ::{ flag=HK }:: | **6** | 0 | ::{ flag=MA }:: ::{ flag=KZ }:: ::{ flag=KE }:: ::{ flag=BH }:: ::{ flag=IN }:: Afrasia | [#1](https://osu.ppy.sh/community/matches/103206106) |
 | **Russian Federation** ::{ flag=RU }:: | **6** | 3 | ::{ flag=EC }:: ::{ flag=CO }:: ::{ flag=PE }:: ::{ flag=AR }:: Latam | [#1](https://osu.ppy.sh/community/matches/103212534) |
 
 Sunday, 21 August 2022:
@@ -351,15 +351,15 @@ Sunday, 21 August 2022:
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Mexico** ::{ flag=MX }:: | **6** | 4 | ::{ flag=TW }:: Taiwan | [#1](https://osu.ppy.sh/community/matches/103222443) |
-| **Malaysia** ::{ flag=ML }:: | **6** | 5 | ::{ flag=CA }:: Canada | [#1](https://osu.ppy.sh/community/matches/103222423) |
+| **Malaysia** ::{ flag=MY }:: | **6** | 5 | ::{ flag=CA }:: Canada | [#1](https://osu.ppy.sh/community/matches/103222423) |
 | **Chile** ::{ flag=CL }:: | **6** | 0 | ::{ flag=PH }:: Philippines | [#1](https://osu.ppy.sh/community/matches/103222432) |
 | **Hong Kong** ::{ flag=HK }:: | **6** | 2 | ::{ flag=CN }:: China | [#1](https://osu.ppy.sh/community/matches/103225932) |
 | Netherlands ::{ flag=NL }:: | 4 | **6** | ::{ flag=GB }:: **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/103230094) |
-| **South Korea** ::{ flag=SK }:: | **6** | 0 | ::{ flag=PO }:: Portugal | *win by default* |
+| **South Korea** ::{ flag=KR }:: | **6** | 0 | ::{ flag=PT }:: Portugal | *win by default* |
 | **Singapore** ::{ flag=SG }:: | **6** | 4 | ::{ flag=TH }:: Thailand | [#1](https://osu.ppy.sh/community/matches/103230801) |
-| Malaysia ::{ flag=ML }:: | 5 | **6** | ::{ flag=GB }:: **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/103231947) |
+| Malaysia ::{ flag=MY }:: | 5 | **6** | ::{ flag=GB }:: **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/103231947) |
 | Germany ::{ flag=DE }:: | 2 | **6** | ::{ flag=JP }:: **Japan** | [#1](https://osu.ppy.sh/community/matches/103234110) |
-| **Chile** ::{ flag=DE }:: | **6** | 2 | ::{ flag=RU }:: Russian Federation | [#1](https://osu.ppy.sh/community/matches/103235493) |
+| **Chile** ::{ flag=CL }:: | **6** | 2 | ::{ flag=RU }:: Russian Federation | [#1](https://osu.ppy.sh/community/matches/103235493) |
 | **United States** ::{ flag=US }:: | **6** | 3 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/103236761) |
 
 ### Round of 16
@@ -370,7 +370,7 @@ Saturday, 13 August 2022:
 | --: | :-: | :-: | :-- | :-- |
 | **Mexico** ::{ flag=MX }:: | **5** | 1 | ::{ flag=AU }:: Australia | [#1](https://osu.ppy.sh/community/matches/103028915) |
 | Macau ::{ flag=MO }:: | 2 | **5** | ::{ flag=MA }:: ::{ flag=KZ }:: ::{ flag=KE }:: ::{ flag=BH }:: ::{ flag=IN }:: **Afrasia** | [#1](https://osu.ppy.sh/community/matches/103035414) |
-| **Taiwan** ::{ flag=TW }:: | **5** | 2 | ::{ flag=SK }:: South Korea | [#1](https://osu.ppy.sh/community/matches/103036397) |
+| **Taiwan** ::{ flag=TW }:: | **5** | 2 | ::{ flag=KR }:: South Korea | [#1](https://osu.ppy.sh/community/matches/103036397) |
 | Brazil ::{ flag=BR }:: | 2 | **5** | ::{ flag=PH }:: **Philippines** | [#1](https://osu.ppy.sh/community/matches/103037514) |
 | **Germany** ::{ flag=DE }:: | **5** | 0 | ::{ flag=CN }:: China | [#1](https://osu.ppy.sh/community/matches/103038491) |
 | Sweden ::{ flag=SE }:: | 0 | **5** | ::{ flag=ID }:: **Indonesia** | [#1](https://osu.ppy.sh/community/matches/103040057) |
@@ -386,7 +386,7 @@ Sunday, 14 August 2022:
 | New Zealand ::{ flag=NZ }:: | 2 | **5** | ::{ flag=PL }:: **Poland** | [#1](https://osu.ppy.sh/community/matches/103060538) |
 | **Thailand** ::{ flag=TH }:: | **5** | 1 | ::{ flag=MY }:: Malaysia | [#1](https://osu.ppy.sh/community/matches/103062469) |
 | **Singapore** ::{ flag=SG }:: | **5** | 3 | ::{ flag=NL }:: Netherlands | [#1](https://osu.ppy.sh/community/matches/103062592) |
-| Europe ::{ flag=EU }:: | 2 | **5** | ::{ flag=PO }:: **Portugal** | [#1](https://osu.ppy.sh/community/matches/103063929) |
+| Europe ::{ flag=EU }:: | 2 | **5** | ::{ flag=PT }:: **Portugal** | [#1](https://osu.ppy.sh/community/matches/103063929) |
 | **Japan** ::{ flag=JP }:: | **5** | 0 | ::{ flag=HK }:: Hong Kong | [#1](https://osu.ppy.sh/community/matches/103063949) |
 | Spain ::{ flag=ES }:: | 1 | **5** | ::{ flag=GB }:: **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/103065233) |
 
@@ -403,7 +403,7 @@ Saturday, 6 August 2022:
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Taiwan** ::{ flag=TW }:: | **5** | 0 | ::{ flag=ES }:: Spain | [#1](https://osu.ppy.sh/community/matches/102860074) |
-| **Singapore** ::{ flag=SG }:: | **5** | 2 | ::{ flag=SW }:: Sweden | [#1](https://osu.ppy.sh/community/matches/102865215) |
+| **Singapore** ::{ flag=SG }:: | **5** | 2 | ::{ flag=SE }:: Sweden | [#1](https://osu.ppy.sh/community/matches/102865215) |
 | **Japan** ::{ flag=JP }:: | **5** | 1 | ::{ flag=TR }:: Turkey | [#1](https://osu.ppy.sh/community/matches/102865333) |
 | **France** ::{ flag=FR }:: | **5** | 2 | ::{ flag=PL }:: Poland | [#1](https://osu.ppy.sh/community/matches/102865239) |
 
@@ -416,8 +416,8 @@ Sunday, 7 August 2022:
 | Latam ::{ flag=EC }:: ::{ flag=CO }:: ::{ flag=PE }:: ::{ flag=AR }:: | 3 | **5** | ::{ flag=HK }:: **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/102879111) |
 | **United States** ::{ flag=US }:: | **5** | 0 | ::{ flag=MO }:: Macau | [#1](https://osu.ppy.sh/community/matches/102880042) |
 | Philippines ::{ flag=PH }:: | 3 | **5** | ::{ flag=CN }:: **China** | [#1](https://osu.ppy.sh/community/matches/102882092) |
-| **South Korea** ::{ flag=PH }:: | **5** | 1 | ::{ flag=GB }:: United Kingdom | [#1](https://osu.ppy.sh/community/matches/102882092) |
-| **Malaysia** ::{ flag=MY }:: | **5** | 3 | ::{ flag=PO }:: Portugal | [#1](https://osu.ppy.sh/community/matches/102889292) |
+| **South Korea** ::{ flag=KR }:: | **5** | 1 | ::{ flag=GB }:: United Kingdom | [#1](https://osu.ppy.sh/community/matches/102882092) |
+| **Malaysia** ::{ flag=MY }:: | **5** | 3 | ::{ flag=PT }:: Portugal | [#1](https://osu.ppy.sh/community/matches/102889292) |
 | **Thailand** ::{ flag=TH }:: | **5** | 0 | ::{ flag=EU }:: Europe | [#1](https://osu.ppy.sh/community/matches/102890545) |
 | **Russian Federation** ::{ flag=RU }:: | **5** | 3 | ::{ flag=MA }:: ::{ flag=KZ }:: ::{ flag=KE }:: ::{ flag=BH }:: ::{ flag=IN }:: Afrasia | [#1](https://osu.ppy.sh/community/matches/102891869) |
 | **Germany** ::{ flag=DE }:: | **5** | 2 | ::{ flag=BR }:: Brazil | [#1](https://osu.ppy.sh/community/matches/102895725) |
