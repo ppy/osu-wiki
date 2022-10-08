@@ -3,6 +3,7 @@ tags:
   - approach time
   - AR
   - reading
+  - temps d'approche
 ---
 
 # Approach Rate
