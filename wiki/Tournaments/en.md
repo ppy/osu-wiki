@@ -471,6 +471,12 @@ Unofficial tournaments/competitions hosted by the communities.
 | [North American Taiko Tournament 2018](NSATT/NATT_2018) | 2018-07-28 | 2018-09-01 | ::{ flag=CA }:: [janitoreihil](https://osu.ppy.sh/users/3307897) | ::{ flag=CA }:: [vladyushko](https://osu.ppy.sh/users/4908773) | ::{ flag=US }:: [Loopy542](https://osu.ppy.sh/users/5468461) |
 | [North & South American Taiko Tournament 2019](NSATT/NSATT_2019) | 2019-06-22 | 2019-07-28 | ::{ flag=CA }:: [janitoreihil](https://osu.ppy.sh/users/3307897) | ::{ flag=CA }:: [vladyushko](https://osu.ppy.sh/users/4908773) | ::{ flag=BR }:: [eae](https://osu.ppy.sh/users/4050738) |
 
+#### Taiko Convert Tournament
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Taiko Convert Tournament v4](TCT/v4) | 2022-06-05 | 2022-07-31 | Tiger Mafia (::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438), ::{ flag=US }:: [Ney](https://osu.ppy.sh/users/5991961)) | israel (::{ flag=GR }:: [Genjuro](https://osu.ppy.sh/users/3196091), ::{ flag=FI }:: [Antti](https://osu.ppy.sh/users/13281473)) | mikeneko (::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910), ::{ flag=JP }:: [Maeda](https://osu.ppy.sh/users/12615278)) |
+
 #### Taiko Last Man Standing
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
@@ -536,7 +542,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | [Catch French Intermediate Cup 2](CFC/CFIC_2) | 2020-02-15 | 2020-03-21 | ::{ flag=FR }:: [Fuka Pura](https://osu.ppy.sh/users/2326688) | ::{ flag=FR }:: [Kaleesy Pura](https://osu.ppy.sh/users/1800077) | ::{ flag=FR }:: [dracoV](https://osu.ppy.sh/users/7925725) |
 | [Catch French Dual Tournament](CFC/CFDT_1) | 2021-05-08 | 2021-06-05 | Nameless (::{ flag=FR }:: [Akan0o](https://osu.ppy.sh/users/11286034), ::{ flag=FR }:: [Yostel](https://osu.ppy.sh/users/3594510)) | les bg (::{ flag=FR }:: [Realmas](https://osu.ppy.sh/users/6567640), ::{ flag=BE }:: [Cakenoob](https://osu.ppy.sh/users/6045522)) | Oask'eyeS (::{ flag=FR }:: [Dask](https://osu.ppy.sh/users/4151397), ::{ flag=FR }:: [Oasix](https://osu.ppy.sh/users/6183012)) |
 | [Catch French Intermediate Cup 3](CFC/CFIC_3) | 2021-09-11 | 2021-10-17 | ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467) | ::{ flag=FR }:: [AiNA](https://osu.ppy.sh/users/4426908) | ::{ flag=FR }:: [Cryophenix](https://osu.ppy.sh/users/3996466) |
-| [Catch French Dual Tournament](CFC/CFDT_2) | 2022-08-16 | 2022-10-02 | 5€ (::{ flag=FR }:: [Boros](https://osu.ppy.sh/users/5490623), ::{ flag=KR }:: [T s u m i](https://osu.ppy.sh/users/4080520)) | :pleading_face: (::{ flag=FR }:: [Natsuko](https://osu.ppy.sh/users/8266817), ::{ flag=ID }:: [Ruu](https://osu.ppy.sh/users/3212755)) | French Penguins (::{ flag=FR }:: [Yostel](https://osu.ppy.sh/users/3594510), ::{ flag=IT }:: [ArMa79](https://osu.ppy.sh/users/4982799)) |
+| [Catch French Dual Tournament 2](CFC/CFDT_2) | 2022-08-16 | 2022-10-02 | 5€ (::{ flag=FR }:: [Boros](https://osu.ppy.sh/users/5490623), ::{ flag=KR }:: [T s u m i](https://osu.ppy.sh/users/4080520)) | :pleading_face: (::{ flag=FR }:: [Natsuko](https://osu.ppy.sh/users/8266817), ::{ flag=ID }:: [Ruu](https://osu.ppy.sh/users/3212755)) | French Penguins (::{ flag=FR }:: [Yostel](https://osu.ppy.sh/users/3594510), ::{ flag=IT }:: [ArMa79](https://osu.ppy.sh/users/4982799)) |
 
 #### Catch the Beat Indonesia Cup
 
