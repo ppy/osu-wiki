@@ -471,6 +471,15 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | [North American Taiko Tournament 2018](NSATT/NATT_2018) | 28.07.2018 | 01.09.2018 | ::{ flag=CA }:: [janitoreihil](https://osu.ppy.sh/users/3307897) | ::{ flag=CA }:: [vladyushko](https://osu.ppy.sh/users/4908773) | ::{ flag=US }:: [Loopy542](https://osu.ppy.sh/users/5468461) |
 | [North & South American Taiko Tournament 2019](NSATT/NSATT_2019) | 22.06.2019 | 28.07.2019 | ::{ flag=CA }:: [janitoreihil](https://osu.ppy.sh/users/3307897) | ::{ flag=CA }:: [vladyushko](https://osu.ppy.sh/users/4908773) | ::{ flag=BR }:: [eae](https://osu.ppy.sh/users/4050738) |
 
+#### Taiko Convert Tournament
+
+| Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| Taiko 2v2 Converted Maps Tourney | 23.03.2019 | 01.06.2019 | Husha Dinámica (::{ flag=CL }:: [Alepat](https://osu.ppy.sh/users/1164931), ::{ flag=AR }:: [Midnaait](https://osu.ppy.sh/users/1506011)) | >o__. (::{ flag=IT }:: [send help](https://osu.ppy.sh/users/7807444), ::{ flag=GB }:: [goheegy](https://osu.ppy.sh/users/8057655)) | En Marche! (::{ flag=FR }:: [TimmyAkmed](https://osu.ppy.sh/users/1799973), ::{ flag=FR }:: [Yona la loutre](https://osu.ppy.sh/users/7930622)) |
+| Taiko 2v2 Convert Tourney v2 | 02.05.2020 | 07.06.2020 | 87 (::{ flag=US }:: [Ney](https://osu.ppy.sh/users/5991961), ::{ flag=US }:: [JDrago14](https://osu.ppy.sh/users/7690078)) | Tacos and Schabowy (::{ flag=PL }:: [fafik99](https://osu.ppy.sh/users/1787011), ::{ flag=MX }:: [Warfu](https://osu.ppy.sh/users/2451000)) | j h q w 2 (::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438), ::{ flag=US }:: [closed](https://osu.ppy.sh/users/5116922)) |
+| Taiko 2v2 Convert Tourney v3 | 07.05.2021 | 20.06.2021 | 🍣 guys (::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910), ::{ flag=JP }:: [Rabar0209](https://osu.ppy.sh/users/2883899)) | ＵＮＫＯ！！！！！(::{ flag=JP }:: [Shamirin\_mzk](https://osu.ppy.sh/users/11325757), ::{ flag=JP }:: [C-light](https://osu.ppy.sh/users/7955738)) | the bros 4 (::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438), ::{ flag=CL }:: [Ulqui](https://osu.ppy.sh/users/1263669)) |
+| [Taiko Convert Tournament v4](TCT/v4) | 05.06.2022 | 31.07.2022 | Tiger Mafia (::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438), ::{ flag=US }:: [Ney](https://osu.ppy.sh/users/5991961)) | israel (::{ flag=GR }:: [Genjuro](https://osu.ppy.sh/users/3196091), ::{ flag=FI }:: [Antti](https://osu.ppy.sh/users/13281473)) | mikeneko (::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910), ::{ flag=JP }:: [Maeda](https://osu.ppy.sh/users/12615278)) |
+
 #### Taiko Last Man Standing
 
 | Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
@@ -511,7 +520,7 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [4 Digit Catch World Cup 2021](4CWC/2021) | 02.10.2021 | 14.11.2021 | ::{ flag=ID }:: Indonesien | ::{ flag=DE }:: Deutschland | ::{ flag=SE }:: Schweden |
-| [4 Digit Catch World Cup 2022](4CWC/2022) | 30.07.2022 | 11.09.2022 | *noch offen* | *noch offen* | *noch offen* |
+| [4 Digit Catch World Cup 2022](4CWC/2022) | 30.07.2022 | 11.09.2022 | ::{ flag=MX }:: Mexico | ::{ flag=US }:: United States | ::{ flag=SG }:: Singapore |
 
 #### Catch French Beginner
 
@@ -536,7 +545,7 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | [Catch French Intermediate Cup 2](CFC/CFIC_2) | 15.02.2020 | 21.03.2020 | ::{ flag=FR }:: [Fuka Pura](https://osu.ppy.sh/users/2326688) | ::{ flag=FR }:: [Kaleesy Pura](https://osu.ppy.sh/users/1800077) | ::{ flag=FR }:: [dracoV](https://osu.ppy.sh/users/7925725) |
 | [Catch French Dual Tournament](CFC/CFDT_1) | 08.05.2021 | 05.06.2021 | Nameless (::{ flag=FR }:: [Akan0o](https://osu.ppy.sh/users/11286034), ::{ flag=FR }:: [Yostel](https://osu.ppy.sh/users/3594510)) | les bg (::{ flag=FR }:: [Realmas](https://osu.ppy.sh/users/6567640), ::{ flag=BE }:: [Cakenoob](https://osu.ppy.sh/users/6045522)) | Oask'eyeS (::{ flag=FR }:: [Dask](https://osu.ppy.sh/users/4151397), ::{ flag=FR }:: [Oasix](https://osu.ppy.sh/users/6183012)) |
 | [Catch French Intermediate Cup 3](CFC/CFIC_3) | 11.09.2021 | 17.10.2021 | ::{ flag=FR }:: [Yruama](https://osu.ppy.sh/users/8221467) | ::{ flag=FR }:: [AiNA](https://osu.ppy.sh/users/4426908) | ::{ flag=FR }:: [Cryophenix](https://osu.ppy.sh/users/3996466) |
-| [Catch French Dual Tournament](CFC/CFDT_2) | 16.08.2022 | 02.10.2022 | 5€ (::{ flag=FR }:: [Boros](https://osu.ppy.sh/users/5490623), ::{ flag=KR }:: [T s u m i](https://osu.ppy.sh/users/4080520)) | :pleading_face: (::{ flag=FR }:: [Natsuko](https://osu.ppy.sh/users/8266817), ::{ flag=ID }:: [Ruu](https://osu.ppy.sh/users/3212755)) | French Penguins (::{ flag=FR }:: [Yostel](https://osu.ppy.sh/users/3594510), ::{ flag=IT }:: [ArMa79](https://osu.ppy.sh/users/4982799)) |
+| [Catch French Dual Tournament 2](CFC/CFDT_2) | 16.08.2022 | 02.10.2022 | 5€ (::{ flag=FR }:: [Boros](https://osu.ppy.sh/users/5490623), ::{ flag=KR }:: [T s u m i](https://osu.ppy.sh/users/4080520)) | :pleading_face: (::{ flag=FR }:: [Natsuko](https://osu.ppy.sh/users/8266817), ::{ flag=ID }:: [Ruu](https://osu.ppy.sh/users/3212755)) | French Penguins (::{ flag=FR }:: [Yostel](https://osu.ppy.sh/users/3594510), ::{ flag=IT }:: [ArMa79](https://osu.ppy.sh/users/4982799)) |
 
 #### Catch the Beat Indonesia Cup
 
