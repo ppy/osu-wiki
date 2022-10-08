@@ -22,4 +22,4 @@ osu! có nhiều tài khoản Twitter khác nhau, mỗi tài khoản phục vụ
 
 | Ảnh đại diện | Tên tài khoản | Mô tả |
 | :-: | :-: | :-- |
-| ![Ảnh đại diện của Dean Herbert](img/ppy.jpg) | [@ppy](https://twitter.com/ppy) | Tài khoản cá nhân của [người sáng lập osu!](/wiki/People/peppy), không hoàn toàn liên quan tới osu!, nhưng phần lớn vẫn về nó. |
+| ![Ảnh đại diện của Dean Herbert](img/ppy.jpg?1) | [@ppy](https://twitter.com/ppy) | Tài khoản cá nhân của [người sáng lập osu!](/wiki/People/peppy), không hoàn toàn liên quan tới osu!, nhưng phần lớn vẫn về nó. |
