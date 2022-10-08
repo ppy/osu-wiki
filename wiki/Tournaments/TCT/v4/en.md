@@ -95,9 +95,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **5€** (::{ flag=FR }:: **[Boros](https://osu.ppy.sh/users/5490623)**, ::{ flag=KR }:: [T s u m i](https://osu.ppy.sh/users/4080520)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **:pleading_face:** (::{ flag=FR }:: **[Natsuko](https://osu.ppy.sh/users/8266817)**, ::{ flag=ID }:: [Ruu](https://osu.ppy.sh/users/3212755)) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **French Penguins** (::{ flag=FR }:: **[Yostel](https://osu.ppy.sh/users/3594510)**, ::{ flag=IT }:: [ArMa79](https://osu.ppy.sh/users/4982799)) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Tiger Mafia** (::{ flag=GB }:: **[Horiiizon](https://osu.ppy.sh/users/8071438)**, ::{ flag=US }:: [Ney](https://osu.ppy.sh/users/5991961)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **israel** (::{ flag=GR }:: **[Genjuro](https://osu.ppy.sh/users/3196091)**, ::{ flag=FI }:: [Antti](https://osu.ppy.sh/users/13281473)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **mikeneko** (::{ flag=JP }:: **[Maimaing](https://osu.ppy.sh/users/14520910)**, ::{ flag=JP }:: [Maeda](https://osu.ppy.sh/users/12615278)) |
 
 ## Mappools
 
