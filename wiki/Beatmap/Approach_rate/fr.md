@@ -13,7 +13,7 @@ L'**Approach Rate** (abrégé en ***AR***) est un paramètre de difficulté d'un
 
 Les valeurs de l'AR vont de 0 à 10. Un approach rate plus élevé signifie que les objets seront affichés pendant une période plus courte, ce qui laisse moins de temps au joueur pour réagir. En revanche, des approach rates plus faibles permettent plus de temps de réaction, mais peuvent entraîner l'apparition d'un nombre excessif d'objets à l'écran en même temps.
 
-Dans [osu!taiko](/wiki/Game_mode/osu!taiko) et [osu!mania](/wiki/Game_mode/osu!mania), le réglage de l'approach rate n'a aucun effet. La vitesse de défilement dans les deux modes est contrôlée par le [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity), qui dépend du [BPM](/wiki/Music_theory/Tempo) et du multiplicateur de slider velocity. De plus, dans osu!mania, elle peut être personnalisé [par le joueur lui-même](/wiki/Game_mode/osu!mania#changement-de-vitesse).
+Dans [osu!taiko](/wiki/Game_mode/osu!taiko) et [osu!mania](/wiki/Game_mode/osu!mania), le réglage de l'approach rate n'a aucun effet. La vitesse de défilement dans les deux modes est contrôlée par le [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity), qui dépend du [BPM](/wiki/Music_theory/Tempo) et du multiplicateur de slider velocity. De plus, dans osu!mania, elle peut être personnalisée [par le joueur lui-même](/wiki/Game_mode/osu!mania#changement-de-vitesse).
 
 ## Timing de l'animation
 
@@ -53,4 +53,4 @@ Il existe quatre mods qui modifient l'approach rate lorsqu'ils sont activés :
 - [Double Time](/wiki/Game_modifier/Double_Time) : La valeur de l'AR n'est pas affectée, mais en raison de l'augmentation de 50 % de la vitesse de jeu, les objets restent à l'écran 33 % moins longtemps.
 - [Half Time](/wiki/Game_modifier/Half_Time) : La valeur de l'AR n'est pas affectée, mais en raison de la diminution de 25 % de la vitesse de jeu, les objets restent à l'écran 33 % plus longtemps.
 
-Alors que les mods Half Time *(HT)* et Double Time *(DT)* ne modifient pas la valeur de l'AR, la différence de vitesse y entraîne un changement notable. Les AR de HT/DT sont généralement désignés en fonction de leur valeur perçue. Par exemple, "AR 8 + DT" peut également être écrit "AR 9.6".
+Bien que les mods Half Time *(HT)* et Double Time *(DT)* ne modifient pas la valeur de l'AR, la différence de vitesse y entraîne un changement notable. Les AR de HT/DT sont généralement désignés en fonction de leur valeur perçue. Par exemple, "AR 8 + DT" peut également être écrit "AR 9.6".
