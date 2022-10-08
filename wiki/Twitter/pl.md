@@ -26,4 +26,4 @@ osu! posiada kilka kont na Twitterze, z czego każde z nich pełni inne funkcje.
 
 | Awatar | Nazwa | Opis |
 | :-: | :-: | :-- |
-| ![Awatar Deana Herberta](img/ppy.jpg?1) | [@ppy](https://twitter.com/ppy) | Osobiste konto [twórcy osu!](/wiki/People/peppy). Nie jest ono ściśle powiązane z samą grą, ale tematy z nią związane obejmują znaczną jego część. |
+| ![Awatar Deana Herberta](img/ppy.jpg?2) | [@ppy](https://twitter.com/ppy) | Osobiste konto [twórcy osu!](/wiki/People/peppy). Nie jest ono ściśle powiązane z samą grą, ale tematy z nią związane obejmują znaczną jego część. |
