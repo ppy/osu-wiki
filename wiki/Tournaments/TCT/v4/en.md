@@ -9,7 +9,7 @@ tags:
 
 ![TCT v4 logo](img/logo.jpg)
 
-The **Taiko Convert Tournament v4** (***TCT v4***) was a double-elimination 2v2 osu!taiko tournament hosted by ::{ flag=JP }:: [Noko\_BSF](https://osu.ppy.sh/users/3811831), ::{ flag=DE }:: [Drecksackblase](https://osu.ppy.sh/users/6278008), ::{ flag=PL }:: [fafik99](https://osu.ppy.sh/users/1787011), ::{ flag=DE }:: [Jason X](https://osu.ppy.sh/users/2904140), and ::{ flag=US }:: [JDrago14](https://osu.ppy.sh/users/7690078). The tournament features a variety of maps converted from the osu!standard gamemode in its mappools. It was the fourth instalment of the Taiko Convert Tournament.
+The **Taiko Convert Tournament v4** (***TCT v4***) was a double-elimination 2v2 osu!taiko tournament hosted by ::{ flag=JP }:: [Noko\_BSF](https://osu.ppy.sh/users/3811831), ::{ flag=DE }:: [Drecksackblase](https://osu.ppy.sh/users/6278008), ::{ flag=PL }:: [fafik99](https://osu.ppy.sh/users/1787011), ::{ flag=DE }:: [Jason X](https://osu.ppy.sh/users/2904140), and ::{ flag=US }:: [JDrago14](https://osu.ppy.sh/users/7690078). The tournament features a variety of maps converted from the osu! game mode in its mappools. It was the fourth instalment of the Taiko Convert Tournament.
 
 ## Tournament schedule
 
@@ -411,50 +411,50 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 1. A valid team formation will be:
    - A participant with rank range between #1 and #150
    - A participant with rank range below #151
-2. Maximum team member per team is **2 players**, meaning there will be no backup or replacement.
-3. The Score System used will be **Score V2**.
-4. Teams will advance through the qualifiers stage first to qualify, the top 24 teams will then proceed to the group stage when they'll get filtered again with top 2 teams per each group will be finally in the knockout stage.
-5. Taiko Convert Tournament v4 will use double-elimination bracket, which means that there will be a loser bracket and winner bracket.
-6. Even in a tournament scene osu! is still a game. Please respect each other to everyone, be friendly, and fair play.
+2. The maximum team size is **2 players**, meaning there will be no backup or replacement.
+3. The scoring system used will be **Score V2**.
+4. Teams will first advance through the Qualifiers to qualify, and the top 24 teams will then proceed to the Group Stage, where they will get filtered again with the top 2 teams per each group proceeding to the Knockout Stage.
+5. The Taiko Convert Tournament v4 will use double-elimination bracket, which means that there will be a losers' bracket and winners' bracket.
+6. Even in a tournament setting, osu! is still a game. Please respect each other, be friendly, and play fair.
 
 ### In-game conditions
 
 #### Qualifiers
 
-1. Every players will be invited at the time to the room.
+1. Every player will be invited to a multiplayer room at match time.
 2. There will be no warmups, no ban phase, and no pick phase.
-3. In the qualifiers round, each map will be played twice, or you can play once and leave if you think you've set your best score.
-4. There will be a maximum time of **2 minutes** in between maps. The referee will use `!mp start 10` command to start the game.
+3. During the Qualifiers, each map will be played twice, but leaving after playing them once is allowed. Only the best score will be counted.
+4. There will be a maximum time of **2 minutes** in between maps. The referee will use the `!mp start 10` command to start the game.
 5. If a player gets disconnected for some reason in the first 10 seconds of the song, the referee will abort the game and restart it.
    - If it happens after 10 seconds, the score before the disconnect will be counted.
-6. The referee can penalise teams if any player present bad behaviour in the game room.
-7. Once the match has finished, the room will be completely closed.
+6. The referee can penalise teams if any player presents bad behaviour in the game room.
+7. Once the match has finished, the room will be closed.
 8. If you fail, the score **will still be counted**.
 
 #### Group Stage and Knockouts
 
-1. Every players will be invited at the time to the room.
+1. Every player will be invited to a multiplayer room at match time.
 2. The referee can wait a maximum of **10 minutes** for each player to attend.
-   - If the player doesn't come, the referee will ask the other team for a 1v2 start. It will depend on the other team if they want to play or not.
-   - Have in mind if there's a 1v1 match you are forced to play unless you want a forfeit.
-3. Captains will decide if they want to pick a warmup map (maximum limit is **3:30**) and order doesn't matter.
-4. Captains will use `!roll` command. Lower roll will start banning then higher roll bans (1 ban each team).
-5. After banning stage is ready, higher roll picks their first map then lower roll picks theirs. Continue until the match is done.
+   - If a player does not arrive, the referee will ask the other team for a 1v2 start. It will depend on the other team if they want to play or not.
+   - Keep in mind that abstaining from a 1v1 is equivalent to forfeiting the match.
+3. Captains will decide if they want to pick a warmup map (maximum limit is **3:30**) and the order does not matter.
+4. Captains will use the `!roll` command. Each team will ban 1 map starting from the one who rolled the lowest.
+5. After the bans, the team that got the higher roll picks their first map then the other team picks theirs. This is continued until the match is done.
 6. There will be a **2 minutes** time limit for all phases.
-7. If the time limit is exceeded
-   - Ban: The ban is treated as none.
-   - Pick: The right is transferred to your opponent. It does not affect the subsequent order.
+7. If the time limit is exceeded:
+   - Ban: No beatmap will be banned.
+   - Pick: The pick turn is transferred to the opponent. This does not affect the subsequent order.
    - Before the start: The referee will use `!mp start 10` to start the game.
 8. If a player gets disconnected for some reason in the first 10 seconds of the song, the referee will abort the game and restart it.
    - If it happens after 10 seconds, the score before the disconnect will be counted.
-9. The referee can penalise teams if any player present bad behaviour in the game room.
-10. Once the match has finished, the room will be completely closed.
-11. FreeMod maps are force mod so at least 1 team member **has to pick a mod**.
-12. Team members aren't allowed to pick the same mod combination.
-13. If a player fails in a song, and doesn't revive then his score is not counted. In the case he revives before map's end it counts. if every player fails, then the referee is going to make a sum of their scores then comparing.
-14. If there is a tie, then there will be no point added to any team, map will be considered as played. If there is a tie on the tiebreaker, then teams are going to repeat it with FreeMod conditions.
+9. The referee can penalise teams if any player presents bad behaviour in the game room.
+10. Once the match has finished, the room will be closed.
+11. FreeMod maps are *force mod*, so at least 1 team member **has to pick a mod**.
+12. Team members are not allowed to pick the same mod combination.
+13. If a player fails in a song and does not revive, then their score is not counted, but if they do revive it will count. If every player in a team fails, then the sum of their scores will count.
+14. If there is a tie, then no points are added to any team, but the map will be considered as played. If there is a tie on the tiebreaker, then then a rematch will happen using FreeMod conditions.
 
-### Winning conditions
+### Win conditions
 
 1. Group Stage: Best-of-7 (first to 4 points)
 2. Round of 16: Best-of-9 (first to 5 points)
