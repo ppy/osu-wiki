@@ -240,98 +240,133 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-Sunday, 2 October 2022:
+Saturday, 30 July 2022:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **5€** | **7** | 3 | French Penguins | [#1](https://osu.ppy.sh/community/matches/104176370) |
-| :pleading_face: | 4 | **7** | **5€** | [#1](https://osu.ppy.sh/community/matches/104177993) |
-| **5€** | **7** | 3 | :pleading_face: | [#1](https://osu.ppy.sh/community/matches/104179900) |
+| mikeneko | 0 | **7** | **israel** | [#1](https://osu.ppy.sh/community/matches/102684231) |
+
+Sunday, 31 July 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Tiger Mafia** | **7** | 0 | israel | [#1](https://osu.ppy.sh/community/matches/102715989) |
 
 ### Finals
 
-Saturday, 24 September 2022:
+Saturday, 23 July 2022:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Quesedilla avec les frites BELGES | -1 | **0** | **Florika** | *win by default* |
-| FR X US coalition | 2 | **7** | **French Penguins** | [#1](https://osu.ppy.sh/community/matches/103996932) |
+| Delete all finisher and SV pls | 4 | **7** | **XaiKoro** | [#1](https://osu.ppy.sh/community/matches/102494105) |
+| Lipton | 0 | **7** | **israel** | [#1](https://osu.ppy.sh/community/matches/102500044) |
 
-Sunday, 25 September 2022:
+Sunday, 24 July 2022:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| 5€ | 4 | **7** | **:pleading_face:** | [#1](https://osu.ppy.sh/community/matches/104021542) |
-| **French Penguins** | **7** | 2 | Florika | [#1](https://osu.ppy.sh/community/matches/104023985) |
+| XaiKoro | 4 | **7** | **israel** | [#1](https://osu.ppy.sh/community/matches/102525722) |
+| **Tiger Mafia** | **7** | 3 | mikeneko | [#1](https://osu.ppy.sh/community/matches/102527000) |
 
 ### Semifinals
 
-Saturday, 10 September 2022:
+Saturday, 9 July 2022:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Le Grand Jordan23 | -1 | **0** | **Timezone diff** | *win by default* |
-| **Taco w/ Baguette** | **6** | 0 | Not French | [#1](https://osu.ppy.sh/community/matches/103694062) |
-| **French Penguins** | **6** | 0 | :nanasmil: | [#1](https://osu.ppy.sh/community/matches/103696984) |
+| **bingle** | **6** | 4 | not hehe | [#1](https://osu.ppy.sh/community/matches/102123535) |
+| **XaiKoro** | **6** | 3 | we can't convert | [#1](https://osu.ppy.sh/community/matches/102130569) |
+| **Bongo Gamers** | **0** | -1 | Reen's Students | *win by default* |
+| **israel** | **6** | 0 | Imagine Playing Basketball with Jesus and Getting Crossed Up | [#1](https://osu.ppy.sh/community/matches/102134975) |
+| **Tiger Mafia** | **6** | 3 | Delete all finisher and SV pls | [#1](https://osu.ppy.sh/community/matches/102142922) |
 
-Sunday, 11 September 2022:
-
-| Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **Florika** | **6** | 5 | JP DANS DA TOURNOI | [#1](https://osu.ppy.sh/community/matches/103708019) |
-| **5€** | **6** | 1 | FR X US coalition | [#1](https://osu.ppy.sh/community/matches/103717587) |
-| **:pleading_face:** | **6** | 0 | Quesedilla avec les frites BELGES | [#1](https://osu.ppy.sh/community/matches/103719087) |
-
-Saturday, 17 September 2022:
+Sunday, 10 July 2022:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Timezone diff | 1 | **6** | **French Penguins** | [#1](https://osu.ppy.sh/community/matches/103843733) |
-| **Florika** | **6** | 3 | Taco w/ Baguette | [#1](https://osu.ppy.sh/community/matches/103843022) |
+| Bongo Gamers | 1 | **6** | **XaiKoro** | [#1](https://osu.ppy.sh/community/matches/102150026) |
+| bingle | -1 | **0** | **israel** | *win by default* |
+| **mikeneko** | **6** | 1 | Lipton | [#1](https://osu.ppy.sh/community/matches/102157875) |
 
 ### Quarterfinals
 
-Saturday, 3 September 2022:
+Saturday, 2 July 2022:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Red Hawk | -1 | **0** | **JP DANS DA TOURNOI** | *win by default* |
+| SwitzerFrance | -1 | **0** | **Reen's Students** | *win by default* |
+| Foukat cukr do prdele | 1 | **6** | **not hehe** | [#1](https://osu.ppy.sh/community/matches/101948241) |
+| **Delete all finisher and SV pls** | **6** | 1 | israel | [#1](https://osu.ppy.sh/community/matches/101951044) |
+| **Lipton** | **6** | 1 | XaiKoro | [#1](https://osu.ppy.sh/community/matches/101951063) |
 
-Sunday, 4 September 2022:
+Sunday, 3 July 2022:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| dégénéré | 0 | **5** | **Timezone diff** | [#1](https://osu.ppy.sh/community/matches/103560540) |
-| **:pleading_face:** | **0** | -1 | French Penguins | *win by default* |
-| **FR X US coalition** | **5** | 1 | Florika | [#1](https://osu.ppy.sh/community/matches/103563124) |
-| Black Ice | 3 | **5** | **:nanasmil:** | [#1](https://osu.ppy.sh/community/matches/103563162) |
-| **5€** | **5** | 0 | Taco w/ Baguette | [#1](https://osu.ppy.sh/community/matches/103565414) |
-| **Not French** | **0** | -1 | hecatia fanclub | *win by default* |
-| **Quesedilla avec les frites BELGES** | **5** | 0 | Le Grand Jordan23 | [#1](https://osu.ppy.sh/community/matches/103569382) |
+| **Tiger Mafia** | **6** | 0 | bingle | [#1](https://osu.ppy.sh/community/matches/101962881) |
+| **mikeneko** | **6** | 2 | Bongo Gamers | [#1](https://osu.ppy.sh/community/matches/101976095) |
+| Average Convert Enjoyers | 2 | **6** | **we can't convert** | [#1](https://osu.ppy.sh/community/matches/101975914) |
+| B-Team | 4 | **6** | **Imagine Playing Basketball with Jesus and Getting Crossed Up** | [#1](https://osu.ppy.sh/community/matches/101976112) |
 
 ### Round of 16
 
-Saturday, 27 August 2022:
+Saturday, 25 June 2022:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Timezone diff | 0 | **4** | **Taco w/ Baguette** | [#1](https://osu.ppy.sh/community/matches/103372604) |
-| **:pleading_face:** | **4** | 0 | Red Hawk | [#1](https://osu.ppy.sh/community/matches/103371867) |
-| **French Penguins** | **0** | -1 | JP DANS DA TOURNOI | *win by default* |
-| **Quesedilla avec les frites BELGES** | **4** | 0 | Not French | [#1](https://osu.ppy.sh/community/matches/103380321) |
-| **Le Grand Jordan23** | **4** | 2 | hecatia fanclub | [#1](https://osu.ppy.sh/community/matches/103380401 ) |
+| **bingle** | **5** | 1 | we can't convert | [#1](https://osu.ppy.sh/community/matches/101753470) |
+| **Delete all finisher and SV pls** | **0** | -1 | *win by default* |
+| **israel** | **5** | 0 | Reen's Students | [#1](https://osu.ppy.sh/community/matches/101762373) |
+| **mikeneko** | **5** | 0 | B-Team | [#1](https://osu.ppy.sh/community/matches/101762297) |
+| **Lipton** | **5** | 0 | Foukat cukr do prdele | [#1](https://osu.ppy.sh/community/matches/101762297) |
+| **Tiger Mafia** | **5** | 0 | Average Convert Enjoyers | [#1](https://osu.ppy.sh/community/matches/101771206) |
 
-Sunday, 28 August 2022:
+Sunday, 26 June 2022:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **5€** | **4** | 0 | dégénéré | [#1](https://osu.ppy.sh/community/matches/103395751) |
-| **Florika** | **4** | 0 | :nanasmil: | [#1](https://osu.ppy.sh/community/matches/103395635) |
-| **FR X US coalition** | **4** | 1 | Black Ice | [#1](https://osu.ppy.sh/community/matches/103398198) |
+| **XaiKoro** | **5** | 1 | not hehe | [#1](https://osu.ppy.sh/community/matches/101783752) |
+| **Bongo Gamers** | **5** | 0 | Imagine Playing Basketball with Jesus and Getting Crossed Up | [#1](https://osu.ppy.sh/community/matches/101798798) |
+
+### Group Stage
+
+Saturday, 18 June 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Delete all finisher and sv pls** | **4** | 0 | Hoteddi\_18 | [#1](https://osu.ppy.sh/community/matches/101558924) |
+| **Delete all finisher and sv pls** | **0** | -1 | not hehe | *win by default* |
+| **Lipton** | **4** | 0 | Reen's Students | [#1](https://osu.ppy.sh/community/matches/101570611) |
+| **XaiKoro** | **0** | -1 | a dom | *win by default* |
+| **Average Convert Enjoyers** | **4** | 2 | :D | [#1](https://osu.ppy.sh/community/matches/101567825) |
+| **XaiKoro** | **4** | 0 | SwitzerFrance | [#1](https://osu.ppy.sh/community/matches/101569099) |
+| **Imagine Playing Basketball with Jesus and Getting Crossed Up** | **4** | 0 | 404 enrin not found | [#1](https://osu.ppy.sh/community/matches/101570568) |
+| **israel** | **4** | 0 | can we just play this in std | [#1](https://osu.ppy.sh/community/matches/101572065) |
+| **Bongo Gamers** | **4** | 1 | Average Convert Enjoyers | [#1](https://osu.ppy.sh/community/matches/101575315) |
+
+Sunday, 19 June 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **bingle** | **4** | 0 | Universidad de Chile | [#1](https://osu.ppy.sh/community/matches/101585187) |
+| **we can't convert** | **0** | -1 | yiff dungeon | *win by default* |
+| **Bongo Gamers** | **4** | 0 | :D | [#1](https://osu.ppy.sh/community/matches/101588297) |
+| Dribblers | 0 | **4** | **Reen's Students** | [#1](https://osu.ppy.sh/community/matches/101591435) |
+| **bingle** | **4** | 0 | B-Team | [#1](https://osu.ppy.sh/community/matches/101591419) |
+| **mikeneko** | **4** | 1 | we can't convert | [#1](https://osu.ppy.sh/community/matches/101597907) |
+| **mikeneko** | **0** | -1 | yiff dungeon | *win by default* |
+| **Foukat cukr do prdele** | **4** | 1 | can we just play this in std | [#1](https://osu.ppy.sh/community/matches/101600161) |
+| **B-Team** | **4** | 1 | Universidad de Chile | [#1](https://osu.ppy.sh/community/matches/101601755) |
+| **Tiger Mafia** | **4** | 0 | 404 enrin not found | [#1](https://osu.ppy.sh/community/matches/101603190) |
+| **Lipton** | **4** | 0 | Dribblers | [#1](https://osu.ppy.sh/community/matches/101603313) |
+| **israel** | **4** | 1 | Foukat cukr do prdele | [#1](https://osu.ppy.sh/community/matches/101603194) |
+| a dom | 3 | **4** | **SwitzerFrance** | [#1](https://osu.ppy.sh/community/matches/101608010) |
+| **not hehe** | **4** | 0 | Hoteddi\_18 | [#1](https://osu.ppy.sh/community/matches/101610813) |
+| **Tiger Mafia** | **4** | 0 | Imagine Playing Basketball with Jesus and Getting Crossed Up | [#1](https://osu.ppy.sh/community/matches/101613192) |
 
 ### Qualifiers
 
-Detailed statistics for this round can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1XAdGOnI3yZ1-i_5AOdsZZong_EwiV_S2AjzxxQOdFwg/edit) alongside the final standings on which team made it through to the next stage.
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1irT-oEpMu6QfUzKBosyeZJtfKZzcqKmRYAJu9nyWj7s/edit) alongside the final standings on which player made it through to the next stage.
 
 ## Ruleset
 
