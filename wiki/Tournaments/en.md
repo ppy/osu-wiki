@@ -520,7 +520,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [4 Digit Catch World Cup 2021](4CWC/2021) | 2021-10-02 | 2021-11-14 | ::{ flag=ID }:: Indonesia | ::{ flag=DE }:: Germany | ::{ flag=SE }:: Sweden |
-| [4 Digit Catch World Cup 2022](4CWC/2022) | 2022-07-30 | 2022-09-11 | *TBD* | *TBD* | *TBD* |
+| [4 Digit Catch World Cup 2022](4CWC/2022) | 2022-07-30 | 2022-09-11 | ::{ flag=MX }:: Mexico | ::{ flag=US }:: United States | ::{ flag=SG }:: Singapore |
 
 #### Catch French Beginner
 
