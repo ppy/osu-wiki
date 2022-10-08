@@ -30,9 +30,9 @@ The **4 Digit Catch World Cup 2022** (***4CWC 2022***) was a country-based osu!c
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, exclusive team banner, 18 months of supporter tag for each team member |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Exclusive team banner, 10 months of supporter tag for each team member |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Exclusive team banner, 6 months of supporter tag for each team member |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, exclusive team banner, 18 months of osu!supporter for each team member |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Exclusive team banner, 10 months of osu!supporter for each team member |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Exclusive team banner, 6 months of osu!supporter for each team member |
 
 ![](img/badge.png "4CWC 2022 winner badge")
 
