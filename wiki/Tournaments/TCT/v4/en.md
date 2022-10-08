@@ -409,8 +409,8 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 ### General rules
 
 1. A valid team formation will be:
-   - A participant with rank range between #1 and #150
-   - A participant with rank range between #151 or below
+   - A participant with rank between #1 and #150
+   - A participant with rank of #151 or below
 2. The maximum team size is **2 players**, meaning there will be no backup or replacement.
 3. The scoring system used will be **Score V2**.
 4. Teams will first advance through the Qualifiers to qualify, and the top 24 teams will then proceed to the Group Stage, where they will get filtered again with the top 2 teams per each group proceeding to the Knockout Stage.
