@@ -20,7 +20,7 @@ tags:
 
 - Abkürzung: AP
 - Typ: Sonstige
-- Score-Multiplikator: 0,00 x
+- Score-Multiplikator: 0,00x
 - Standard-Tastenkürzel: `X`
 - Untertitel: `Dein Cursor wird automatisch bewegt - du musst nur noch klicken. ** UNGEWERTET **`
 - Kompatible Spielmodi: ![][osu!]

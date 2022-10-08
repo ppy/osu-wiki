@@ -22,7 +22,7 @@ tags:
 
 - Abkürzung: AT oder AO
 - Typ: Sonstige
-- Score-Multiplikator: 1,00 x
+- Score-Multiplikator: 1,00x
 - Standard-Tastenkürzel: `V`
 - Untertitel: `Sieh dir einen perfekten Durchlauf durch das Lied an.`
 - Kompatible Spielmodi: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
@@ -49,12 +49,12 @@ In [osu!catch](/wiki/Game_mode/osu!catch) geht die Mod Auto über perfekt hinaus
 
 ### osu!mania
 
-In [osu!mania](/wiki/Game_mode/osu!mania) wird die Mod Auto versuchen, einen perfekten Durchlauf zu erzielen, aber verfehlt möglicherweise dicht aneinander gedrängte Noten (z. B. mehrere Tastendrücke nah beieinander auf einer Leiste).
+In [osu!mania](/wiki/Game_mode/osu!mania) wird die Mod Auto versuchen, einen perfekten Durchlauf zu erzielen, aber verfehlt möglicherweise dicht aneinanderliegende Noten (z. B. mehrere Tastendrücke nah beieinander auf einer Hold-Note).
 
 ## Trivia
 
-- Beim Zuschauen eines Replays mit der Mod Auto ist der in der Rangleiste angezeigte Nutzername "osu!".
-- After watching an Auto replay, the mod will deselect itself and the user will be forced to reselect the mod if they wish to watch the replay again. This will happen whether or not the replay is watched all the way through.
+- Beim Zuschauen eines Replays mit der Mod Auto ist der in der Rangliste angezeigte Nutzername "osu!".
+- Nachdem ein Replay mit der Mod Auto angesehen wurde, wird die Mod automatisch deaktiviert und der Nutzer wird gezwungen, die Mod erneut anzuwählen, wenn er das Replay noch einmal anschauen möchte. Dies geschieht unabhängig davon, ob das Replay bis zum Ende angesehen wird oder nicht.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
