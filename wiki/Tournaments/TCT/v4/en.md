@@ -9,7 +9,7 @@ tags:
 
 ![TCT v4 logo](img/logo.jpg)
 
-The **Taiko Convert Tournament v4** (***TCT v4***) was a double-elimination 2v2 osu!taiko tournament hosted by ![][flag_DE] [Drecksackblase](https://osu.ppy.sh/users/6278008), ![][flag_PL] [fafik99](https://osu.ppy.sh/users/1787011), ![][flag_DE] [Jason X](https://osu.ppy.sh/users/2904140), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078), and ![][flag_JP] [Noko\_BSF](https://osu.ppy.sh/users/3811831). The tournament features a variety of maps converted from the osu!standard gamemode in its mappools. It was the fourth instalment of the Taiko Convert Tournament.
+The **Taiko Convert Tournament v4** (***TCT v4***) was a double-elimination 2v2 osu!taiko tournament hosted by ![][flag_JP] [Noko\_BSF](https://osu.ppy.sh/users/3811831), ![][flag_DE] [Drecksackblase](https://osu.ppy.sh/users/6278008), ![][flag_PL] [fafik99](https://osu.ppy.sh/users/1787011), ![][flag_DE] [Jason X](https://osu.ppy.sh/users/2904140), and ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078). The tournament features a variety of maps converted from the osu!standard gamemode in its mappools. It was the fourth instalment of the Taiko Convert Tournament.
 
 ## Tournament schedule
 
@@ -40,14 +40,14 @@ The Taiko Convert Tournament v4 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ::{ flag=FR }:: [h-e-c-a123](https://osu.ppy.sh/users/3163012), ::{ flag=FR }:: [Laffey Gaming](https://osu.ppy.sh/users/5122949) |
-| Mappool selector | ::{ flag=FR }:: [AiNA](https://osu.ppy.sh/users/4426908), ::{ flag=FR }:: [h-e-c-a123](https://osu.ppy.sh/users/3163012) |
-| Custom mapper | ::{ flag=FR }:: [Noctalium](https://osu.ppy.sh/users/6488167), ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |
-| Mappool tester | ::{ flag=FR }:: [Bebar](https://osu.ppy.sh/users/12584928), ::{ flag=FR }:: [Noctalium](https://osu.ppy.sh/users/6488167) |
-| Referee | ::{ flag=FR }:: [bambinex](https://osu.ppy.sh/users/18818124), ::{ flag=BE }:: [Cakenoob](https://osu.ppy.sh/users/6045522), ::{ flag=FR }:: [h-e-c-a123](https://osu.ppy.sh/users/3163012), ::{ flag=FR }:: [Laffey Gaming](https://osu.ppy.sh/users/5122949), ::{ flag=FR }:: [Mimir](https://osu.ppy.sh/users/7382734), ::{ flag=FR }:: [Pizou](https://osu.ppy.sh/users/9475990) |
-| Streamer | ::{ flag=FR }:: [AiNA](https://osu.ppy.sh/users/4426908), ::{ flag=FR }:: [Jielefe](https://osu.ppy.sh/users/15334170), ::{ flag=FR }:: [Noctalium](https://osu.ppy.sh/users/6488167), ::{ flag=FR }:: [Pizou](https://osu.ppy.sh/users/9475990) |
-| Commentator | ::{ flag=FR }:: [AiNA](https://osu.ppy.sh/users/4426908), ::{ flag=FR }:: [bambinex](https://osu.ppy.sh/users/18818124), ::{ flag=FR }:: [h-e-c-a123](https://osu.ppy.sh/users/3163012), ::{ flag=FR }:: [Jielefe](https://osu.ppy.sh/users/15334170), ::{ flag=FR }:: [Kitsuka](https://osu.ppy.sh/users/10334943), ::{ flag=FR }:: [MitsukeZ](https://osu.ppy.sh/users/12943161) |
-| Designer | ::{ flag=FR }:: [Jielefe](https://osu.ppy.sh/users/15334170), ::{ flag=FR }:: [Nin-Amel](https://osu.ppy.sh/users/5210058) |
+| Administrator | ![][flag_DE] [Drecksackblase](https://osu.ppy.sh/users/6278008), ![][flag_PL] [fafik99](https://osu.ppy.sh/users/1787011), ![][flag_DE] [Jason X](https://osu.ppy.sh/users/2904140), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078), ![][flag_JP] [Noko\_BSF](https://osu.ppy.sh/users/3811831) |
+| Mappool selector | ![][flag_GB] [Daniels](https://osu.ppy.sh/users/12439209), ![][flag_DE] [Drecksackblase](https://osu.ppy.sh/users/6278008), ![][flag_PL] [fafik99](https://osu.ppy.sh/users/1787011), ![][flag_JP] [Noko\_BSF](https://osu.ppy.sh/users/3811831), ![][flag_US] [Shyguy](https://osu.ppy.sh/users/178038) |
+| Playtester | ![][flag_GB] [Dusk-](https://osu.ppy.sh/users/6092181), ![][flag_US] [Shyguy](https://osu.ppy.sh/users/178038) |
+| Referee | ![][flag_HK] [Akali393394](https://osu.ppy.sh/users/9686628), ![][flag_DE] [Drecksackblase](https://osu.ppy.sh/users/6278008), ![][flag_DE] [Jason X](https://osu.ppy.sh/users/2904140), ![][flag_US] [maxie](https://osu.ppy.sh/users/6447505), ![][flag_JP] [Noko\_BSF](https://osu.ppy.sh/users/3811831), ![][flag_US] [Shyguy](https://osu.ppy.sh/users/178038), ![][flag_SG] [Spartric](https://osu.ppy.sh/users/7740442) |
+| Streamer | ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_US] [Rukairi](https://osu.ppy.sh/users/6642597), ![][flag_SG] [Spartric](https://osu.ppy.sh/users/7740442) |
+| Commentator | ![][flag_DE] [Drecksackblase](https://osu.ppy.sh/users/6278008), ![][flag_US] [Ethaaaan](https://osu.ppy.sh/users/9536977), ![][flag_PL] [fafik99](https://osu.ppy.sh/users/1787011), ![][flag_GR] [Genjuro](https://osu.ppy.sh/users/3196091), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_US] [maxie](https://osu.ppy.sh/users/6447505), ![][flag_US] [Rukairi](https://osu.ppy.sh/users/6642597), ![][flag_GB] [willowww](https://osu.ppy.sh/users/11406987) |
+| Designer | ![][flag_MY] [Jerry](https://osu.ppy.sh/users/605973) |
+| Statistician | ![][flag_JP] [Noko\_BSF](https://osu.ppy.sh/users/3811831) |
 | Wiki writer | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
