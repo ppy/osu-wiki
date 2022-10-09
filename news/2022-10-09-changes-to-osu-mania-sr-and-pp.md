@@ -22,7 +22,7 @@ Before this change, all overlapping long notes would receive a fixed bonus. Afte
 
 This change also fixes an oversight with long notes in the rightmost column of a map taking precedence in overlap calculation.
 
-An in-depth [blog post](https://eve-ning.github.io/#/blog/004/) and [interactive demonstration](https://www.desmos.com/calculator/7eboanfzne) by [**Evening**](https://osu.ppy.sh/users/2193881) helps visualize how this change affects the long note bonus if you're interested. 
+An in-depth [blog post](https://eve-ning.github.io/#/blog/004/) and [interactive demonstration](https://www.desmos.com/calculator/7eboanfzne) by [**Evening**](https://osu.ppy.sh/users/2193881) helps visualize how this change affects the long note bonus if you're interested.
 
 ### Chord difficulty changes
 
@@ -41,11 +41,11 @@ Overall score has historically been used as the measure of skill a player demons
 
 With a [new change](https://github.com/ppy/osu/pull/18749), awarded pp will now be based on the accuracy the player gets on the map using this formula:
 
+![](/wiki/shared/news/2022-10-09-changes-to-osu-mania-sr-and-pp/accuracy-equation.png)
+
+At 80% accuracy and below, the player will receive no pp for their score. This scales linearly to 100% accuracy where the player receives the maximum possible pp for their play. Compared to the old system, this rewards high-accuracy plays with low score (e.g. 96% accuracy, 780k score) compared to lower-accuracy plays with high score (e.g. 94% accuracy, 830k score). However, some scores that previously received no pp will find that they now do reward some pp. The differences are visualised below, calculated using OD 8:
+
 ![](/wiki/shared/news/2022-10-09-changes-to-osu-mania-sr-and-pp/accuracy-comparison.png)
-
-At 80% accuracy and below, the player will receive no pp for their score. This scales linearly to 100% accuracy where the player receives the maximum possible pp for their play.
-
-Compared to the old system, this rewards high-accuracy plays with low score (e.g. 96% accuracy, 780k score) compared to lower-accuracy plays with high score (e.g. 94% accuracy, 830k score). However, some scores that previously received no pp will find that they now do reward some pp.
 
 ### Other changes
 
