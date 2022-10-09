@@ -301,7 +301,7 @@ Sunday, 20 June 2021:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **🍣 guys** | **7** | 0 | ＵＮＫＯ！！！！！| [#1](https://osu.ppy.sh/community/matches/85943325) |
+| **🍣 guys** | **7** | 0 | ＵＮＫＯ！！！！！ | [#1](https://osu.ppy.sh/community/matches/85943325) |
 
 ### Finals
 
@@ -356,7 +356,7 @@ Sunday, 30 May 2021:
 | ヴぇ | 2 | **6** | **My Angel Rice** | [#1](https://osu.ppy.sh/community/matches/84533347) |
 | **大山翔太** | **6** | 0 | Gura is cute | [#1](https://osu.ppy.sh/community/matches/84549788) |
 | kasai ebet chugun | 2 | **6** | **wheelchair v2** | [#1](https://osu.ppy.sh/community/matches/84549743) |
-| **🍣 guys** | **6** | 0 | ＵＮＫＯ！！！！！| [#1](https://osu.ppy.sh/community/matches/84554087) |
+| **🍣 guys** | **6** | 0 | ＵＮＫＯ！！！！！ | [#1](https://osu.ppy.sh/community/matches/84554087) |
 | CUM LEADERS | 0 | **6** | **:photoblob:** | [#1](https://osu.ppy.sh/community/matches/84556964) |
 
 ### Round of 16
