@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Changes to osu!mania Star Rating & Performance Points"
-date: 2022-10-04 12:00:00 +0000
+date: 2022-10-09 12:00:00 +0000
 ---
 
 Big changes are arriving in the osu!mania scene as difficulty calculation receives its first set of updates in a long time! Read on for more info!
@@ -22,7 +22,7 @@ Before this change, all overlapping long notes would receive a fixed bonus. Afte
 
 This change also fixes an oversight with long notes in the rightmost column of a map taking precedence in overlap calculation.
 
-An in-depth [blog post](https://eve-ning.github.io/#/blog/004/) and [interactive demonstration](https://www.desmos.com/calculator/7eboanfzne) by [**Evening**](https://osu.ppy.sh/users/2193881) helps visualize how this change affects the long note bonus if you're interested. 
+An [interactive demonstration](https://www.desmos.com/calculator/7eboanfzne) by [**Evening**](https://osu.ppy.sh/users/2193881) helps visualize how this change affects the long note bonus if you're interested. Those seeking yet more information may also be interested in this 
 
 ### Chord difficulty changes
 
@@ -41,11 +41,11 @@ Overall score has historically been used as the measure of skill a player demons
 
 With a [new change](https://github.com/ppy/osu/pull/18749), awarded pp will now be based on the accuracy the player gets on the map using this formula:
 
-put accuracy formula image here
+![](/wiki/shared/news/2022-10-09-changes-to-osu-mania-sr-and-pp/accuracy-comparison.png)
 
 At 80% accuracy and below, the player will receive no pp for their score. This scales linearly to 100% accuracy where the player receives the maximum possible pp for their play.
 
-Compared to the old system, this rewards high-accuracy plays with low score (e.g. 96% accuracy, 780k score), compared to lower-accuracy plays with high score (e.g. 94% accuracy, 830k score). However, some scores that previously received no pp will find that they now do reward some pp.
+Compared to the old system, this buffs very high-accuracy scores while nerfing lower-accuracy ones. However, some scores that previously received no pp will find that they now do reward some pp.
 
 ### Other changes
 
@@ -53,6 +53,7 @@ As a consequence of accuracy now determining pp, this has led to some other chan
 
 - **No Fail now rewards 0.75x of No Mod pp.** Previously, due to the multiplier for this mod limiting score to below 500,000, it was impossible to gain any pp with it. This is no longer the case.
 - **"Accuracy pp" has been removed.** Scores above 960,000 previously awarded a bonus to overall pp gained in a bonus termed as "accuracy pp". This has been removed but accounted for in the new accuracy pp formula described above.
+- **Star rating to pp curve formula has been simplified.** These changes are only minor.
 
 ---
 
