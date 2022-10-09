@@ -22,7 +22,7 @@ Before this change, all overlapping long notes would receive a fixed bonus. Afte
 
 This change also fixes an oversight with long notes in the rightmost column of a map taking precedence in overlap calculation.
 
-An in-depth [blog post](https://eve-ning.github.io/#/blog/004/) and [interactive demonstration](https://www.desmos.com/calculator/7eboanfzne) by [**Evening**](https://osu.ppy.sh/users/2193881) helps visualize how this change affects the long note bonus if you're interested.
+An in-depth [blog post](https://eve-ning.github.io/#/blog/004/) and [interactive demonstration](https://www.desmos.com/calculator/7eboanfzne) by [**Evening**](https://osu.ppy.sh/users/2193881) may help visualise how this change affects the long note bonus if you're interested.
 
 ### Chord difficulty changes
 
@@ -39,7 +39,7 @@ This primarily affects maps with heavy usage of chords (especially in higher key
 
 Overall score has historically been used as the measure of skill a player demonstrates on a given map. With the new direction [osu!(lazer)](https://github.com/ppy/osu) is taking, it no longer makes sense to base performance entirely on this metric.
 
-With a [new change](https://github.com/ppy/osu/pull/18749), awarded pp will now be based on the accuracy the player gets on the map using this formula:
+With a [new change](https://github.com/ppy/osu/pull/18749), the awarded pp will now be based on the accuracy the player gets on the map using this formula:
 
 ![](/wiki/shared/news/2022-10-09-changes-to-osu-mania-sr-and-pp/accuracy-equation.png)
 
