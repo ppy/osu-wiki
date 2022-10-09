@@ -281,133 +281,159 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-Saturday, 30 July 2022:
+Saturday, 19 June 2021:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| mikeneko | 0 | **7** | **israel** | [#1](https://osu.ppy.sh/community/matches/102684231) |
+| the bros 4 | -1 | **0** | **ＵＮＫＯ！！！！！** | *win by default* |
 
-Sunday, 31 July 2022:
+Sunday, 20 June 2021:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Tiger Mafia** | **7** | 0 | israel | [#1](https://osu.ppy.sh/community/matches/102715989) |
+| **🍣 guys** | **7** | 0 | ＵＮＫＯ！！！！！| [#1](https://osu.ppy.sh/community/matches/85943325) |
 
 ### Finals
 
-Saturday, 23 July 2022:
+Saturday, 12 June 2021:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Delete all finisher and SV pls | 4 | **7** | **XaiKoro** | [#1](https://osu.ppy.sh/community/matches/102494105) |
-| Lipton | 0 | **7** | **israel** | [#1](https://osu.ppy.sh/community/matches/102500044) |
+| 大山翔太 | 5 | **7** | **ＵＮＫＯ！！！！！** | [#1](https://osu.ppy.sh/community/matches/85437032) |
 
-Sunday, 24 July 2022:
+Sunday, 13 June 2021:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| XaiKoro | 4 | **7** | **israel** | [#1](https://osu.ppy.sh/community/matches/102525722) |
-| **Tiger Mafia** | **7** | 3 | mikeneko | [#1](https://osu.ppy.sh/community/matches/102527000) |
+| **My Angel Rice** | **7** | 6 | Gura is cute | [#1](https://osu.ppy.sh/community/matches/85487654) |
+| My Angel Rice | 1 | **7** | **ＵＮＫＯ！！！！！** | [#1](https://osu.ppy.sh/community/matches/85493630) |
+| **🍣 guys** | **7** | 0 | the bros 4 | [#1](https://osu.ppy.sh/community/matches/85509785) |
 
 ### Semifinals
 
-Saturday, 9 July 2022:
+Saturday, 5 June 2021:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **bingle** | **6** | 4 | not hehe | [#1](https://osu.ppy.sh/community/matches/102123535) |
-| **XaiKoro** | **6** | 3 | we can't convert | [#1](https://osu.ppy.sh/community/matches/102130569) |
-| **Bongo Gamers** | **0** | -1 | Reen's Students | *win by default* |
-| **israel** | **6** | 0 | Imagine Playing Basketball with Jesus and Getting Crossed Up | [#1](https://osu.ppy.sh/community/matches/102134975) |
-| **Tiger Mafia** | **6** | 3 | Delete all finisher and SV pls | [#1](https://osu.ppy.sh/community/matches/102142922) |
+| **ＵＮＫＯ！！！！！** | **0** | -1 | wheelchair v2 | *win by default* |
+| 老人 | -1 | **0** | **:photoblob:** | *win by default* |
+| **ヴぇ** | **6** | 1 | Down Bad Gamers | [#1](https://osu.ppy.sh/community/matches/84978090) |
+| **Gura is cute** | **6** | 4 | the | [#1](https://osu.ppy.sh/community/matches/85004930) |
+| 大山翔太 | 0 | **6** | **the bros 4** | [#1](https://osu.ppy.sh/community/matches/85012590) |
 
-Sunday, 10 July 2022:
+Sunday, 6 June 2021:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Bongo Gamers | 1 | **6** | **XaiKoro** | [#1](https://osu.ppy.sh/community/matches/102150026) |
-| bingle | -1 | **0** | **israel** | *win by default* |
-| **mikeneko** | **6** | 1 | Lipton | [#1](https://osu.ppy.sh/community/matches/102157875) |
+| ヴぇ | 3 | **6** | **ＵＮＫＯ！！！！！** | [#1](https://osu.ppy.sh/community/matches/85043636) |
+| **🍣 guys** | **6** | 0 | My Angel Rice | [#1](https://osu.ppy.sh/community/matches/85045787) |
+| :photoblob: | 0 | **6** | **Gura is cute** | [#1](https://osu.ppy.sh/community/matches/85051339) |
 
 ### Quarterfinals
 
-Saturday, 2 July 2022:
+Saturday, 29 May 2021:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| SwitzerFrance | -1 | **0** | **Reen's Students** | *win by default* |
-| Foukat cukr do prdele | 1 | **6** | **not hehe** | [#1](https://osu.ppy.sh/community/matches/101948241) |
-| **Delete all finisher and SV pls** | **6** | 1 | israel | [#1](https://osu.ppy.sh/community/matches/101951044) |
-| **Lipton** | **6** | 1 | XaiKoro | [#1](https://osu.ppy.sh/community/matches/101951063) |
+| **Down Bad Gamers** | **6** | 5 | yes we love sucking sausages 🥵💦🌭 | [#1](https://osu.ppy.sh/community/matches/84490266) |
+| pe | 0 | **6** | **the** | [#1](https://osu.ppy.sh/community/matches/84509768) |
+| 老人 | 2 | **6** | **the bros 4** | [#1](https://osu.ppy.sh/community/matches/84522203) |
 
-Sunday, 3 July 2022:
+Sunday, 30 May 2021:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Tiger Mafia** | **6** | 0 | bingle | [#1](https://osu.ppy.sh/community/matches/101962881) |
-| **mikeneko** | **6** | 2 | Bongo Gamers | [#1](https://osu.ppy.sh/community/matches/101976095) |
-| Average Convert Enjoyers | 2 | **6** | **we can't convert** | [#1](https://osu.ppy.sh/community/matches/101975914) |
-| B-Team | 4 | **6** | **Imagine Playing Basketball with Jesus and Getting Crossed Up** | [#1](https://osu.ppy.sh/community/matches/101976112) |
+| ヴぇ | 2 | **6** | **My Angel Rice** | [#1](https://osu.ppy.sh/community/matches/84533347) |
+| **大山翔太** | **6** | 0 | Gura is cute | [#1](https://osu.ppy.sh/community/matches/84549788) |
+| kasai ebet chugun | 2 | **6** | **wheelchair v2** | [#1](https://osu.ppy.sh/community/matches/84549743) |
+| **🍣 guys** | **6** | 0 | ＵＮＫＯ！！！！！| [#1](https://osu.ppy.sh/community/matches/84554087) |
+| CUM LEADERS | 0 | **6** | **:photoblob:** | [#1](https://osu.ppy.sh/community/matches/84556964) |
 
 ### Round of 16
 
-Saturday, 25 June 2022:
+Saturday, 22 May 2021:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **bingle** | **5** | 1 | we can't convert | [#1](https://osu.ppy.sh/community/matches/101753470) |
-| **Delete all finisher and SV pls** | **0** | -1 | *win by default* |
-| **israel** | **5** | 0 | Reen's Students | [#1](https://osu.ppy.sh/community/matches/101762373) |
-| **mikeneko** | **5** | 0 | B-Team | [#1](https://osu.ppy.sh/community/matches/101762297) |
-| **Lipton** | **5** | 0 | Foukat cukr do prdele | [#1](https://osu.ppy.sh/community/matches/101762297) |
-| **Tiger Mafia** | **5** | 0 | Average Convert Enjoyers | [#1](https://osu.ppy.sh/community/matches/101771206) |
+| **老人** | **5** | 0 | kasai ebet chugun | [#1](https://osu.ppy.sh/community/matches/83947483) |
+| **🍣 guys** | **5** | 4 | CUM LEADERS | [#1](https://osu.ppy.sh/community/matches/83950638) |
+| **ＵＮＫＯ！！！！！** | 0 | -1 | :photoblob: | *win by default* |
+| **the bros 4** | **5** | 0 | wheelchair v2 | [#1](https://osu.ppy.sh/community/matches/83970111) |
 
-Sunday, 26 June 2022:
+Sunday, 23 May 2021:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **XaiKoro** | **5** | 1 | not hehe | [#1](https://osu.ppy.sh/community/matches/101783752) |
-| **Bongo Gamers** | **5** | 0 | Imagine Playing Basketball with Jesus and Getting Crossed Up | [#1](https://osu.ppy.sh/community/matches/101798798) |
+| **大山翔太** | **5** | 0 | Down Bad Gamers | [#1](https://osu.ppy.sh/community/matches/84004099) |
+| **ヴぇ**  | **0** | -1 | pe | *win by default* |
+| **Gura is cute** | **5** | 0 | yes we love sucking sausages 🥵💦🌭 | [#1](https://osu.ppy.sh/community/matches/84032763) |
+| **My Angel Rice** | **5** | 3 | the | [#1](https://osu.ppy.sh/community/matches/84035817) |
 
 ### Group Stage
 
-Saturday, 18 June 2022:
+Friday, 14 May 2021:
 
-| Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **Delete all finisher and sv pls** | **4** | 0 | Hoteddi\_18 | [#1](https://osu.ppy.sh/community/matches/101558924) |
-| **Delete all finisher and sv pls** | **0** | -1 | not hehe | *win by default* |
-| **Lipton** | **4** | 0 | Reen's Students | [#1](https://osu.ppy.sh/community/matches/101570611) |
-| **XaiKoro** | **0** | -1 | a dom | *win by default* |
-| **Average Convert Enjoyers** | **4** | 2 | :D | [#1](https://osu.ppy.sh/community/matches/101567825) |
-| **XaiKoro** | **4** | 0 | SwitzerFrance | [#1](https://osu.ppy.sh/community/matches/101569099) |
-| **Imagine Playing Basketball with Jesus and Getting Crossed Up** | **4** | 0 | 404 enrin not found | [#1](https://osu.ppy.sh/community/matches/101570568) |
-| **israel** | **4** | 0 | can we just play this in std | [#1](https://osu.ppy.sh/community/matches/101572065) |
-| **Bongo Gamers** | **4** | 1 | Average Convert Enjoyers | [#1](https://osu.ppy.sh/community/matches/101575315) |
+| Group | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| G | **ＵＮＫＯ！！！！！** | **4** | 0 | Standard Supremacy | [#1](https://osu.ppy.sh/community/matches/83354370) |
 
-Sunday, 19 June 2022:
+Saturday, 15 May 2021:
 
-| Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **bingle** | **4** | 0 | Universidad de Chile | [#1](https://osu.ppy.sh/community/matches/101585187) |
-| **we can't convert** | **0** | -1 | yiff dungeon | *win by default* |
-| **Bongo Gamers** | **4** | 0 | :D | [#1](https://osu.ppy.sh/community/matches/101588297) |
-| Dribblers | 0 | **4** | **Reen's Students** | [#1](https://osu.ppy.sh/community/matches/101591435) |
-| **bingle** | **4** | 0 | B-Team | [#1](https://osu.ppy.sh/community/matches/101591419) |
-| **mikeneko** | **4** | 1 | we can't convert | [#1](https://osu.ppy.sh/community/matches/101597907) |
-| **mikeneko** | **0** | -1 | yiff dungeon | *win by default* |
-| **Foukat cukr do prdele** | **4** | 1 | can we just play this in std | [#1](https://osu.ppy.sh/community/matches/101600161) |
-| **B-Team** | **4** | 1 | Universidad de Chile | [#1](https://osu.ppy.sh/community/matches/101601755) |
-| **Tiger Mafia** | **4** | 0 | 404 enrin not found | [#1](https://osu.ppy.sh/community/matches/101603190) |
-| **Lipton** | **4** | 0 | Dribblers | [#1](https://osu.ppy.sh/community/matches/101603313) |
-| **israel** | **4** | 1 | Foukat cukr do prdele | [#1](https://osu.ppy.sh/community/matches/101603194) |
-| a dom | 3 | **4** | **SwitzerFrance** | [#1](https://osu.ppy.sh/community/matches/101608010) |
-| **not hehe** | **4** | 0 | Hoteddi\_18 | [#1](https://osu.ppy.sh/community/matches/101610813) |
-| **Tiger Mafia** | **4** | 0 | Imagine Playing Basketball with Jesus and Getting Crossed Up | [#1](https://osu.ppy.sh/community/matches/101613192) |
+| Group | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| G | **ＵＮＫＯ！！！！！** | **4** | 0 | Down Bad Gamers | [#1](https://osu.ppy.sh/community/matches/83363366) |
+| B | **:photoblob:** | **4** | 0 | Why are you playing convert | [#1](https://osu.ppy.sh/community/matches/83385718) |
+| B | **大山翔太** | **4** | 0 | :photoblob: | [#1](https://osu.ppy.sh/community/matches/83387712) |
+| B | **大山翔太** | **4** | 0 | Why are you playing convert | [#1](https://osu.ppy.sh/community/matches/83390120) |
+| C | ヴぇ | 3 | **4** | **wheelchair v2** | [#1](https://osu.ppy.sh/community/matches/83389998) |
+| B | **Why are you playing convert** | **0** | -1 | Deorum | *win by default* |
+| D | **the** | **4** | 0 | Boshki | [#1](https://osu.ppy.sh/community/matches/83392433) |
+| A | **🍣 guys** | **4** | 0 | (╯°□°）╯︵ ┻━┻ | [#1](https://osu.ppy.sh/community/matches/83398261) |
+| C | **wheelchair v2** | **4** | 0 | Frog | [#1](https://osu.ppy.sh/community/matches/83397929) |
+| D | the | 3 | **4** | **老人** | [#1](https://osu.ppy.sh/community/matches/83397770) |
+| A | **🍣 guys** | **4** | 0 | Crippling Depression | [#1](https://osu.ppy.sh/community/matches/83401691) |
+| A | **yes we love sucking sausages 🥵💦🌭** | **4** | 2 | (╯°□°）╯︵ ┻━┻ | [#1](https://osu.ppy.sh/community/matches/83401331) |
+| B | **大山翔太** | **0** | -1 | Deorum | *win by default* |
+| G | **ＵＮＫＯ！！！！！** | **4** | 0 | Non-convert Gamers | [#1](https://osu.ppy.sh/community/matches/83401479) |
+| A | **(╯°□°）╯︵ ┻━┻** | **4** | 2 | Crippling Depression | [#1](https://osu.ppy.sh/community/matches/83405649) |
+| C | **Huachipato** | **4** | 0 | Frog | [#1](https://osu.ppy.sh/community/matches/83404910) |
+| D | **老人** | **4** | 0 | Boshki | [#1](https://osu.ppy.sh/community/matches/83409662) |
+| G | Non-convert Gamers | 3 | **4** | **Down Bad Gamers** | [#1](https://osu.ppy.sh/community/matches/83409467) |
+| C | wheelchair v2 | 3 | **4** | **Huachipato** | [#1](https://osu.ppy.sh/community/matches/83414120) |
+| D | **老人** | **0** | -1 | \[insert-team-name-here\] | *win by default* |
+| E | **My Angel Rice** | **4** | 0 | teamname :flag_pl: :handshake: :flag_nl: | [#1](https://osu.ppy.sh/community/matches/83413745) |
+| B | **:photoblob:** | **0** | -1 | Deorum | *win by default* |
+| F | **the bros 4** | **4** | 0 | pe | [#1](https://osu.ppy.sh/community/matches/83418187) |
+| D | **the** | **4** | 0 | \[insert-team-name-here\] | [#1](https://osu.ppy.sh/community/matches/83422797) |
+
+Sunday, 16 May 2022:
+
+| Group | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| C | **ヴぇ** | **4** | 2 | Huachipato | [#1](https://osu.ppy.sh/community/matches/83449762) |
+| D | **Boshki** | **4** | 1 | \[insert-team-name-here\] | [#1](https://osu.ppy.sh/community/matches/83464425) |
+| E | Sex Speedrun | 1 | **4** | **kasai ebet chugun** | [#1](https://osu.ppy.sh/community/matches/83464366) |
+| A | **🍣 guys** | **4** | 0 | yes we love sucking sausages 🥵💦🌭 | [#1](https://osu.ppy.sh/community/matches/83468716) |
+| F | **pe** | **4** | 0 | Asian Egirls | [#1](https://osu.ppy.sh/community/matches/83470766) |
+| C | **ヴぇ** | **0** | -1 | Frog | *win by default* |
+| H | **Gura is cute** | **4** | 0 | Brzęczyszczykiewicz - Chrząszczyrzewoszyce | [#1](https://osu.ppy.sh/community/matches/83472688) |
+| G | **Non-convert Gamers** | **4** | 0 | Standard Supremacy | [#1](https://osu.ppy.sh/community/matches/83475074) |
+| A | **yes we love sucking sausages 🥵💦🌭** | **4** | 2 | Crippling Depression | [#1](https://osu.ppy.sh/community/matches/83480708) |
+| E | **My Angel Rice** | **4** | 0 | kasai ebet chugun | [#1](https://osu.ppy.sh/community/matches/83480657) |
+| H | **Gura is cute** | **4** | 0 | CUM LEADERS | [#1](https://osu.ppy.sh/community/matches/83480693) |
+| E | Sex Speedrun | 2 | **4** | **My Angel Rice** | [#1](https://osu.ppy.sh/community/matches/83488173) |
+| E | **kasai ebet chugun** | **4** | 2 | teamname :flag_pl: :handshake: :flag_nl: | [#1](https://osu.ppy.sh/community/matches/83488890) |
+| F | **the bros 4** | **4** | 0 | Floreros embriagados | [#1](https://osu.ppy.sh/community/matches/83492181) |
+| H | **CUM LEADERS** | **4** | 0 | Brzęczyszczykiewicz - Chrząszczyrzewoszyce | [#1](https://osu.ppy.sh/community/matches/83491550) |
+| E | **Sex Speedrun** | **4** | 0 | teamname :flag_pl: :handshake: :flag_nl: | [#1](https://osu.ppy.sh/community/matches/83495967) |
+| F | **Floreros embriagados** | **4** | 1 | Asian Egirls | [#1](https://osu.ppy.sh/community/matches/83499692) |
+| G | **Down Bad Gamers** | **4** | 0 | Standard Supremacy | [#1](https://osu.ppy.sh/community/matches/83499693) |
+| F | **the bros 4** | **4** | 0 | Asian Egirls | [#1](https://osu.ppy.sh/community/matches/83509244) |
+| F | **pe** | **4** | 1 | Floreros embriagados | [#1](https://osu.ppy.sh/community/matches/83509249) |
 
 ### Qualifiers
 
-Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1irT-oEpMu6QfUzKBosyeZJtfKZzcqKmRYAJu9nyWj7s/edit) alongside the final standings on which player made it through to the next stage.
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/18GWhcAKy20KUvo92dbKok0LJNNP566sFEc4WQySgKN4/edit) alongside the final standings on which player made it through to the next stage.
 
 ## Ruleset
 
