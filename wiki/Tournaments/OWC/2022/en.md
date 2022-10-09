@@ -119,7 +119,7 @@ The osu! World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) and var
 
 **[Download the mappack here (77 MB)](https://drive.google.com/u/0/uc?id=13_tA-6nT7gKPejpM-Wha-G5CW9FMIcmk)**
 
-- NoMod
+- No Mod
   1. [MisoilePunch \~Harumaki Soe\~ - DisXloss (CallieCube) \[The Cube\]](https://osu.ppy.sh/beatmapsets/1863157#osu/3831252)
   2. [DUAL ALTER WORLD - Dimension Expander (Dada) \[Pepsi\]](https://osu.ppy.sh/beatmapsets/1863131#osu/3831190)
   3. [polysha feat. TEA - Under The Moon, Adolesecence (Elayue) \[Eclipse\]](https://osu.ppy.sh/beatmapsets/1862782#osu/3830393)
