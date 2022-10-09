@@ -1,3 +1,8 @@
+---
+outdated_since: 8b553b163bb5dd5809c1d5715753362653df1155
+outdated_translation: true
+---
+
 # Pertimbangan konten visual
 
 Sesuai dengan [Peraturan Komunitas no. 5](/wiki/Rules#peraturan-komunitas), semua konten visual yang dikirimkan atau diunggah ke osu! harus memenuhi kriteria untuk aman di segala kalangan usia.
