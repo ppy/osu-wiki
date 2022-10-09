@@ -33,10 +33,10 @@ The server also hosts the grounds for the development, testing, and support of t
 
 | Date | Event | Related links |
 | :-- | :-- | :-- |
-| 2021-08-09/2021-08-13 | Top player interview week (nerve control) | [YouTube playlist](https://www.youtube.com/playlist?list=PL_QhgSQeB2zCEiwKnHwliUGbtjE4hI0MG)
-| 2021-08-30/2021-09-03 | Top player interview week (mindblock) | [YouTube playlist](https://www.youtube.com/playlist?list=PL_QhgSQeB2zD4GdoGOympAkhhSIytKect)
-| 2021-09-27/2021-10-01 | Top player interview week (high AR) | [YouTube playlist](https://www.youtube.com/playlist?list=PL_QhgSQeB2zDGmnvGdJJLGei0iLvmvtZg)
-| 2021-10-11/2021-10-15 | Top player interview week (tournament strategy) | [YouTube playlist](https://www.youtube.com/playlist?list=PL_QhgSQeB2zBFW_YpeW_F_lDQRO2J9IOl)
+| 2021-08-09/2021-08-13 | Top player interview week (nerve control) | [YouTube playlist](https://www.youtube.com/playlist?list=PL_QhgSQeB2zCEiwKnHwliUGbtjE4hI0MG) |
+| 2021-08-30/2021-09-03 | Top player interview week (mindblock) | [YouTube playlist](https://www.youtube.com/playlist?list=PL_QhgSQeB2zD4GdoGOympAkhhSIytKect) |
+| 2021-09-27/2021-10-01 | Top player interview week (high AR) | [YouTube playlist](https://www.youtube.com/playlist?list=PL_QhgSQeB2zDGmnvGdJJLGei0iLvmvtZg) |
+| 2021-10-11/2021-10-15 | Top player interview week (tournament strategy) | [YouTube playlist](https://www.youtube.com/playlist?list=PL_QhgSQeB2zBFW_YpeW_F_lDQRO2J9IOl) |
 | 2022-02-01/2022-03-01 | Tapping stamina study | [Information document](https://docs.google.com/document/d/14yY4_9E6q8kbOwPGtvWG7z5MCQsQGrX168hAOZFAK_M/edit), [results document](https://docs.google.com/document/d/1aJmRXZTFCR2FirXQHC5f-TTYUCimpBPWGBg-bZPb_YE/edit), [results discussion video](https://www.youtube.com/watch?v=BINGyy43T4U) |
 | 2022-02-20 | [osu! community meeting](/wiki/Community/osu!_community_meetings) #11 | [YouTube VOD](https://www.youtube.com/watch?v=d66pU5lsHvE), [summary news post](https://osu.ppy.sh/home/news/2022-03-07-community-meetings-recap) |
 | 2022-03-06 | [osu! community meeting](/wiki/Community/osu!_community_meetings) #12 | [YouTube VOD](https://www.youtube.com/watch?v=HimCHAnPCCY), [summary news post](https://osu.ppy.sh/home/news/2022-03-07-community-meetings-recap) |
