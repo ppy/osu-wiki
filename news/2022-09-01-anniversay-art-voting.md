@@ -4,7 +4,7 @@ title: "15th Anniversary Art Contest Voting Open"
 date: 2022-09-01 12:00:00 +0000
 ---
 
-The artists of the osu! community have put forward **85** amazing pieces of fan art, and with only **15** votes to go around, difficult choices lie ahead!
+The artists of the osu! community have put forward **86** amazing pieces of fan art, and with only **15** votes to go around, difficult choices lie ahead!
 
 ![](https://assets.ppy.sh/contests/153/header.jpg?1)
 
