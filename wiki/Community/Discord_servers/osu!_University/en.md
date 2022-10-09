@@ -20,6 +20,8 @@
 
 **osu! University** is a community [Discord](https://discord.com) server with a focus on discussion about improvement, mainly in the [osu! game mode](/wiki/Game_mode/osu!). It regularly hosts various events such as top player interviews, [tournaments](/wiki/Tournaments), and improvement-related studies, and is also well known for hosting paid coaching services.
 
+The server also hosts the grounds for the development, testing, and support of the [Rewind](https://osu.ppy.sh/community/forums/topics/1451845) program, which is a tool for analysing [replays](/wiki/Gameplay/Replay).
+
 ## Staff
 
 | Role | User (Discord handle) |
@@ -31,9 +33,13 @@
 
 | Date | Event | Related links |
 | :-- | :-- | :-- |
+| 2021-08-09/2021-08-13 | Top player interview week (nerve control) | [YouTube playlist](https://www.youtube.com/playlist?list=PL_QhgSQeB2zCEiwKnHwliUGbtjE4hI0MG)
+| 2021-08-30/2021-09-03 | Top player interview week (mindblock) | [YouTube playlist](https://www.youtube.com/playlist?list=PL_QhgSQeB2zD4GdoGOympAkhhSIytKect)
+| 2021-09-27/2021-10-01 | Top player interview week (high AR) | [YouTube playlist](https://www.youtube.com/playlist?list=PL_QhgSQeB2zDGmnvGdJJLGei0iLvmvtZg)
+| 2021-10-11/2021-10-15 | Top player interview week (tournament strategy) | [YouTube playlist](https://www.youtube.com/playlist?list=PL_QhgSQeB2zBFW_YpeW_F_lDQRO2J9IOl)
 | 2022-02-01/2022-03-01 | Tapping stamina study | [Information document](https://docs.google.com/document/d/14yY4_9E6q8kbOwPGtvWG7z5MCQsQGrX168hAOZFAK_M/edit), [results document](https://docs.google.com/document/d/1aJmRXZTFCR2FirXQHC5f-TTYUCimpBPWGBg-bZPb_YE/edit), [results discussion video](https://www.youtube.com/watch?v=BINGyy43T4U) |
 | 2022-02-20 | [osu! community meeting](/wiki/Community/osu!_community_meetings) #11 | [YouTube VOD](https://www.youtube.com/watch?v=d66pU5lsHvE), [summary news post](https://osu.ppy.sh/home/news/2022-03-07-community-meetings-recap) |
 | 2022-03-06 | [osu! community meeting](/wiki/Community/osu!_community_meetings) #12 | [YouTube VOD](https://www.youtube.com/watch?v=HimCHAnPCCY), [summary news post](https://osu.ppy.sh/home/news/2022-03-07-community-meetings-recap) |
-| 2022-05-20/2022-05-22 | [osu! Talk Event: Overcoming Obstacles](/wiki/Community/osu!_Talk_Event/Overcoming_Obstacles) | [YouTube VOD playlist](https://www.youtube.com/playlist?list=PL_QhgSQeB2zC5_Go2esnB7_64Egv5HmSL) |
+| 2022-05-20/2022-05-22 | [osu! Talk Event: Overcoming Obstacles](/wiki/Community/osu!_Talk_Event/Overcoming_Obstacles) | [YouTube playlist](https://www.youtube.com/playlist?list=PL_QhgSQeB2zC5_Go2esnB7_64Egv5HmSL) |
 | 2022-10-01/2022-10-31 | osu! Improvement Month | [Forum post](https://osu.ppy.sh/community/forums/topics/1649135), [top player interview playlist](https://www.youtube.com/playlist?list=PL_QhgSQeB2zDRSd-xm9lQrkmGY2wJTXvH) |
 | 2022-10-08/2022-10-30 | King of the Hill tournament | [Forum post](https://osu.ppy.sh/community/forums/topics/1649138) |
