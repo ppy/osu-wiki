@@ -53,6 +53,7 @@ The osu! World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) and var
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1645682)
 - [Livestream](https://www.twitch.tv/osulive)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/100) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
+- [Information spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRYxmXVoTl0pXz3Xk3cDl3PqtH_9vNHGt0GzaJkJ6Ss2wCYSoWppYK-BK6Dr51bZXVdZOakHLpxqZbU/pubhtml)
 
 ## Participants
 
@@ -111,6 +112,28 @@ The osu! World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) and var
 | ::{ flag=US }:: | **United States** | **[im a fancy lad](https://osu.ppy.sh/users/4908650)**, [Utami](https://osu.ppy.sh/users/7512553), [tekkito](https://osu.ppy.sh/users/7075211), [Rektygon](https://osu.ppy.sh/users/7813296), [Monko2k](https://osu.ppy.sh/users/4852013), [BoshyMan741](https://osu.ppy.sh/users/4830687), [Sawada](https://osu.ppy.sh/users/8198848), [Decaten](https://osu.ppy.sh/users/5645231) |
 | ::{ flag=UY }:: | **Uruguay** | **[daanit](https://osu.ppy.sh/users/6159669)**, [El Milanga](https://osu.ppy.sh/users/12264918), [Rebo](https://osu.ppy.sh/users/6942259), [Kazuki K](https://osu.ppy.sh/users/6407282), [Athenai](https://osu.ppy.sh/users/5522789), [Shikke](https://osu.ppy.sh/users/5382216), [Melxdy](https://osu.ppy.sh/users/11113213), [etterna in osu](https://osu.ppy.sh/users/5243536) |
 | ::{ flag=VN }:: | **Vietnam** | **[realshin](https://osu.ppy.sh/users/8006029)**, [\[sin\]](https://osu.ppy.sh/users/11021073), [Phoeni\_](https://osu.ppy.sh/users/14953642), [mizumi\_a](https://osu.ppy.sh/users/14977562), [walle](https://osu.ppy.sh/users/8431549), [waifaii](https://osu.ppy.sh/users/9256803), [\_ Freedom \_](https://osu.ppy.sh/users/3999831), [SkyArrow](https://osu.ppy.sh/users/4039647) |
+
+## Mappools
+
+### Qualifiers
+
+**[Download the mappack here (77 MB)](https://drive.google.com/u/0/uc?id=13_tA-6nT7gKPejpM-Wha-G5CW9FMIcmk)**
+
+- NoMod
+  1. [MisoilePunch \~Harumaki Soe\~ - DisXloss (CallieCube) \[The Cube\]](https://osu.ppy.sh/beatmapsets/1863157#osu/3831252)
+  2. [DUAL ALTER WORLD - Dimension Expander (Dada) \[Pepsi\]](https://osu.ppy.sh/beatmapsets/1863131#osu/3831190)
+  3. [polysha feat. TEA - Under The Moon, Adolesecence (Elayue) \[Eclipse\]](https://osu.ppy.sh/beatmapsets/1862782#osu/3830393)
+  4. [polysha - Hypnos Metropolis (captin1) \[Vanitas\]](https://osu.ppy.sh/beatmapsets/1863171#osu/3831280)
+- Hidden
+  1. [Chroma feat. mikanzil - Koi no Kuuchuu Bunkai (toybot) \[AI\]](https://osu.ppy.sh/beatmapsets/1862885#osu/3830615)
+  2. [Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - Muffin (Nymphe) \[Despair\]](https://osu.ppy.sh/beatmapsets/1863136#osu/3831211)
+- Hard Rock
+  1. [Risa Yuzuki - Ironical Parade (Maot) \[Unlasting\]](https://osu.ppy.sh/beatmapsets/1862841#osu/3830509)
+  2. [xi - Valhalla (fartownik) \[A Certified Slapper\]](https://osu.ppy.sh/beatmapsets/1863153#osu/3831286)
+- Double Time
+  1. [Minagu feat. Sennzai - Iris no Tayori (Cellina) \[Fleurix\]](https://osu.ppy.sh/beatmapsets/1863178#osu/3831292)
+  2. [MuryokuP - Frozen World (Kowari) \[Insane\]](https://osu.ppy.sh/beatmapsets/1863134#osu/3831205)
+  3. [Rameses B - Mountains (feat. Veela) (Strategas) \[Is it worth it?\]](https://osu.ppy.sh/beatmapsets/1863179#osu/3831294)
 
 ## Ruleset
 
