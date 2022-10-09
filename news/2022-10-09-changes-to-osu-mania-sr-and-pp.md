@@ -22,7 +22,7 @@ Before this change, all overlapping long notes would receive a fixed bonus. Afte
 
 This change also fixes an oversight with long notes in the rightmost column of a map taking precedence in overlap calculation.
 
-An [interactive demonstration](https://www.desmos.com/calculator/7eboanfzne) by [**Evening**](https://osu.ppy.sh/users/2193881) helps visualize how this change affects the long note bonus if you're interested. Those seeking yet more information may also be interested in this 
+An [interactive demonstration](https://www.desmos.com/calculator/7eboanfzne) by [**Evening**](https://osu.ppy.sh/users/2193881) helps visualize how this change affects the long note bonus if you're interested.
 
 ### Chord difficulty changes
 
