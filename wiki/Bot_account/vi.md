@@ -55,8 +55,6 @@ Nội dung của email nên chứa những thông tin sau:
 
 [Đội ngũ hỗ trợ tài khoản](/wiki/People/The_Team/Account_support_team) sẽ xem xét yêu cầu của bạn. Nếu yêu cầu của bạn bị từ chối, họ sẽ cho bạn biết tại sao. Nếu yêu cầu của bạn được phê duyệt, họ sẽ tạo tài khoản bot cho bạn và cho bạn hướng dẫn sử dụng.
 
-<!-- TODO: history section would be nice, talking about LogBot, BanchoBot, the phpbb crawler accounts, the first user-run bots, Quality Assurance Team, osu!team, ... -->
-
 ## Có thể bạn chưa biết
 
 - Nhóm huy hiệu `BOT` hiển thị trên tài khoản với nhóm chính là `Chat Bots` (nhóm #29). Danh sách nhóm này không được công khai.
