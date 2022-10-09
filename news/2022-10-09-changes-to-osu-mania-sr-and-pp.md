@@ -43,7 +43,9 @@ With a [new change](https://github.com/ppy/osu/pull/18749), the awarded pp will 
 
 ![](/wiki/shared/news/2022-10-09-changes-to-osu-mania-sr-and-pp/accuracy-equation.png)
 
-At 80% accuracy and below, the player will receive no pp for their score. This scales linearly to 100% accuracy where the player receives the maximum possible pp for their play. Compared to the old system, this rewards high-accuracy plays with low score (e.g. 96% accuracy, 780k score) compared to lower-accuracy plays with high score (e.g. 94% accuracy, 830k score). However, some scores that previously received no pp will find that they now do reward some pp. The differences are visualised below, calculated using OD 8:
+This formula is almost exactly the same as how the actual accuracy you'd see on the results screen is computed. With this "accuracy" that's only used in difficulty calculations, the only difference is that MAX judgements contribute more than 300s instead of being treated the same. See the [wiki article on accuracy](/wiki/Gameplay/Accuracy#osu!mania) if you'd like to compare.
+
+Along with the pivot to using accuracy in calculations, the performance points scaling formula has seen some changes. At 80% accuracy and below, the player will receive no pp for their score, which scales linearly to 100% accuracy where the player receives the maximum possible pp for their play. Compared to the old score-based system, this rewards high-accuracy plays with low score (e.g. 96% accuracy, 780k score) more compared to lower-accuracy plays with high score (e.g. 94% accuracy, 830k score). However, some scores that previously received no pp will find that they now do reward some pp. The differences are visualised below, calculated using OD 8:
 
 ![](/wiki/shared/news/2022-10-09-changes-to-osu-mania-sr-and-pp/accuracy-comparison.png)
 
