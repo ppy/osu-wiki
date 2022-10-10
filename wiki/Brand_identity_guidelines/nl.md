@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 6ad4fe3d4e5b620cfeb663af478a908a6220f9ba
 ---
 
 # Merkidentiteitsrichtlijnen
