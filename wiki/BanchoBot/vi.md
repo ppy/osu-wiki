@@ -8,6 +8,8 @@ tags:
   - thông báo
 ---
 
+<!--TODO:
+- add section that lists and explains all the game-related announcements -->
 
 # BanchoBot
 
