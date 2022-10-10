@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Changes to osu!mania Star Rating & Performance Points"
-date: 2022-10-09 12:00:00 +0000
+date: 2022-10-10 02:00:00 +0000
 ---
 
 Big changes are arriving in the osu!mania scene as difficulty calculation receives its first set of updates in a long time! Read on for more info!
