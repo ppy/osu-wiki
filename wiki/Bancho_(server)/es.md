@@ -10,7 +10,7 @@ tags:
 
 **Bancho** (algunas veces llamado *osu!Bancho*) es el nombre del componente del servidor que maneja interacciones a tiempo real entre jugadores usando versiones estable de osu!:
 
-- Sistema de chat, [presencia online](/wiki/Client/Interface/Chat_console#extended-chat-console), y la [puerta de enlace IRC](/wiki/Community/Internet_Relay_Chat)
+- Sistema de chat, [presencia online](/wiki/Client/Interface/Chat_console#consola-de-chat-ampliada), y la [puerta de enlace IRC](/wiki/Community/Internet_Relay_Chat)
 - Modo [espectador](/wiki/Gameplay/Spectating)
 - [Sistema de multijugador](/wiki/Client/Interface/Multiplayer) y [gestión de torneos](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands)
 
