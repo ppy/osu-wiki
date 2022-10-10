@@ -33,6 +33,8 @@ Mappers use their perception and sense of rhythm to discover the basic rhythmic 
 
 ### Multiple offsets
 
+![](img/complex-timing.png "Example timeline of a beatmap with complex timing, \"MiddleIsland — Roze\" by Lan wings. Nearly 300 uninherited offsets describe 3 minutes of piano play.")
+
 A beatmap can also have several offsets, provided they accurately represent the underlying song.
 
 Most often, a song has sections with different amount of beats per minute. The change may be noticeable and expressed clearly, in which case an extra timing point is usually enough. On the other hand, gradual tempo changes require the mapper to slowly adjust the timing, adding dozens and sometimes hundreds of new offsets.
