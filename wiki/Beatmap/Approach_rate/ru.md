@@ -6,6 +6,8 @@ tags:
   - читалка
   - чтение
   - АР
+outdated_translation: true
+outdated_since: d45afabf155d19c4b9d8bd0f7b68e73bc1f4af16
 ---
 
 # Approach rate

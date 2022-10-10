@@ -4,7 +4,7 @@ stub: true
 
 # Marathon
 
-Le terme **Marathon** est utilisé pour décrire les [beatmaps](/wiki/Beatmap) d'une durée de cinq minutes ou plus. Il s'agit souvent d'efforts collaboratifs, car le mapping de morceaux plus longs peut être fatigante lorsque réalisé seul.
+Le terme **Marathon** est utilisé pour décrire les [beatmaps](/wiki/Beatmap) d'une durée de cinq minutes ou plus. Il s'agit souvent [d'efforts collaboratifs](/wiki/Beatmap/Beatmap_collaborations), car le mapping de morceaux plus longs peut être fatigante lorsque réalisé seul.
 
 ## Histoire
 
