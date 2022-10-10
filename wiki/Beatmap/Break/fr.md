@@ -5,7 +5,7 @@ tags:
   - rest
   - rest time
 outdated_translation: true
-outdated_since: 2d80e2ba472c81faa42e876008b72fb27db46f22
+outdated_since: 9bcdabe4c05001bba74292896082adb0be936761
 ---
 
 # Pause
