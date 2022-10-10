@@ -22,6 +22,6 @@ Two checkboxes appear near the bottom of the window. The first says `Receive ema
 
 Beatmaps will fail to submit if they exceed the online file size or difficulty limit. The file size limit is 5MB plus an additional 10MB for every minute of beatmap length, and it caps at 100MB. The difficulty limit is currently 128.
 
-Users are allowed a limited number of pending beatmaps at a time. The limit varies depending on how many ranked beatmaps a user has and whether or not they are currently an [osu!supporter](/wiki/osu!supporter). Users without osu!supporter can have 4 pending beatmaps plus 1 per ranked beatmap (up to 2). With osu!supporter, this increases to 8 pending beatmaps plus 1 per ranked beatmap (up to 12) for a total of 20.
+Users are allowed a limited number of pending beatmaps at a time. The limit varies depending on how many ranked beatmaps a user has and whether or not they are currently an [osu!supporter](/wiki/osu!supporter). Users without osu!supporter can have 4 pending beatmaps plus 1 per ranked beatmap (up to 4). With osu!supporter, this increases to 8 pending beatmaps plus 1 per ranked beatmap (up to 12) for a total of 20.
 
 Upload speed varies depending on what files are changed. If only [`.osu`](/wiki/Client/File_formats/Osu_(file_format)) files are changed, they are the only files in the beatmap's folder that will be processed and uploaded. If any other assets are changed, all files in the beatmap's folder will be processed and uploaded.
