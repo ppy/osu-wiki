@@ -1444,6 +1444,8 @@
 "beatmapping/time_signature":       "Music_theory/Time_signature"
 "downbeat":                         "Music_theory/Downbeat"
 
+"beat":                             "Music_theory/Beat"
+
 # moved in #7154
 "fc":                               "Gameplay/Full_combo"
 "full_combo":                       "Gameplay/Full_combo"
