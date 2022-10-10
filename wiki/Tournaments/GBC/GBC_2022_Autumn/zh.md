@@ -155,8 +155,7 @@ GBC2022秋季赛由GB成员和部分其他社区成员运行
    - LN: 2张
    - Hybrid: 2张
    - SV: 1张
-3. 选手需要在指定时间，在房间内连续打完整个图池，可以最多打两趟，最后的成绩为所有谱面的最高分组合
-   - 最高分组合指所有单曲最高分的和
+3. 选手需要在指定时间，在房间内连续打完整个图池，可以最多打两趟，最后的成绩为所有单曲最高分的和
 4. 图池需要按如下顺序进行游玩: SV1, RC1, RC2, RC3, LN1, LN2, HB1, HB2。此顺序不可更改
    - 选手打第二次的时候可以跳过任意谱面
 5. 在第一次游玩和第二次游玩图池的中间，选手可以选择休息5分钟。
@@ -175,114 +174,98 @@ GBC2022秋季赛由GB成员和部分其他社区成员运行
 
 ### 选秀介绍
 
-1. The host will declare one captain for each team 24 hours before the drafting phase.
-   - Drafting order will also be declared by the host.
-   - Captains are selected by performance and preference.
-   - Non-captains will join a group of players waiting to join a team, herein called a "player pool".
-2. Captains decide their team members during the drafting phase.
-   - Captains are allowed to conduct and coordinate "tryouts", tests to gauge player aptitude, on their own terms. 
-3. There will be a 120-second planning phase before the picking phase starts.
-4. During the picking phase, the pick order consists of 2 phases that repeat twice, such that every captains gets to choose 4 players.
-   - During phase 1 and 3, picks start in *increasing* order, from the 1st to the 16th captain.
-   - During phase 2 and 4, picks start in *decreasing* order, from the 16th to the 1st captain.
-   - *this might change depending on the number of incoming registrations.*
-5. Each captain has 60 seconds to pick one player from the player pool on their turn. 
-   - If the captain does not pick an player within 60 seconds, a random player from the remaining player pool will be assigned to their team.
-6. If the captain picks a player, the pick time still has to elapse before the next captain's turn starts, meaning each phase will take 16 minutes.
-7. After each phase, there is a 60-second break before the next phase starts.
-8. At all times, the captains may communicate with each other via multiplayer chatrooms or voice chat. 
-   - Other players will be muted during the drafting phase.
-9. After the drafting phase, captains may choose, with the approval of the host, to delegate their role to other prospective team members.
-10. Captains may also choose to rename their team name after the drafting phase.
-    - The default name of team is: `Team {X}`, with `{X}` being an abbreviation of the captain's name.
-    - Team names cannot be longer than **12** characters (a Chinese character is considered as 1).
-11. Bad behaviour during the drafting phase will be seen as disrupting the match by foul play.
+1. 主办方会在选人开始之前一天公布所有的队长和选人顺序，队长的人选取决于资格赛成绩和个人意向。
+   - 其他不是队长的选手会加入选手池等待被挑选组队
+2. 在选秀阶段队长将会依次挑选他们的队员
+3. 选秀开始之前会有120秒的准备时间
+4. 选人开始后，所有队长来回选四轮，第一轮第三轮按正序选择，第二轮第四轮按倒序选择
+5. 每个队长有60秒的时间来从选手池中选择一名选手，如果没选那么他会被随机分派一名选手
+6. 每轮选完之后，有60秒的准备时间，随后下一轮开始
+7. 在选秀过程中，队长可以在聊天室里面自由发言，其他所有选手池的玩家将被禁言
+8. 选秀结束之后，队长可以在告知主办方之后将队长位置让给其他队员
+9. 队长需要在选秀结束后敲定队伍的名称
+    - 默认名称是`Team {X}`, `{X}`是队长用户名的缩写
+    - 队名最长不得超过**12**字(中文字符也算作一个字).
+10. 在选秀阶段的不良行为将被视为通过犯规扰乱比赛
 
-### Regular stage instructions
+### 常规赛介绍
 
-1. Following the drafting phase, a 4-round Swiss stage will be played. This means teams with same record will face each other.
-2. The final ranking of the Swiss round will be determined by the following criteria in order:
-   - Most matches won
-   - Head-to-head result (if possible)
-   - Highest beatmap difference (`beatmap wins - beatmap losses`)
-   - Highest Buchholz score[^bu]
-   - Most beatmaps won
-   - Fewest beatmaps lost
-   - Sum of all score differences of each beatmap (`∑(total score - opponent's total score)` for each beatmap played in the regular stage)
-   - Dice roll
-3. The top 8 teams will advanced to the Playoff stage, while the remaining players get eliminated from the tournament.
-   - This means that teams with a record of `3-X` will advance to the next stage, while teams with a record of `X-3` will be eliminated.
-   - Also, teams with a record of `2-2` will have chance to advanced by ranking top 8.
-   - Teams with a record `3-0` or `0-3` needn't play round 4, as they are already advanced or get eliminated.
-4. The results from the Regular stage will also be used for seeding teams.
+1. 常规赛总共包含四轮瑞士轮比赛，这意味着比赛期间成绩相同的队伍会优先进行比赛
+2. 常规赛队伍的排名将依次取决于以下的条件：
+   - 更多的净胜场
+   - 更好的相互战绩（如果存在）
+   - 更多的净胜局
+   - 更多的所有对手的净胜场和
+   - 更多的胜局数
+   - 更少的败局数
+   - 更高的局净胜分和（所有谱面的净胜分之和）
+   - 扔骰子结果
+3. 前16的队伍会晋级淘汰赛，其他队伍会被淘汰
+   - 获得3胜的队伍会晋级，获得3败的队伍会出局
+   - 获得2胜的队伍有大概率会晋级
+   - 3-0和0-3的队伍不需要打第四轮，因为他们已经晋级或被淘汰
+4. 第四轮会有9个2-1的队伍和9个1-2的队伍，排名最高的2-1队伍会和排名最低的1-2队伍比赛，其他队伍会继续按照瑞士轮规则比赛
+5. 常规赛的排名将会直接决定淘汰赛的对阵情况
+6. 常规赛的比赛赛制为十一局六胜，而后续的淘汰赛赛制为十三局七胜
 
-### Win conditions
+### 比赛流程
 
-- In the Qualifier stage, player need to ranking high enough to advanced.
-- In drafting phase, player need to being picked into a team or become captains to advanced.
-- In the Regular stage, teams need to win 6 maps to win a match (best of 11).
-- In Quarterfinals, Semifinals and Finals, teams need to win 7 maps to win a match (best of 13).
+1. 比赛开始前15分钟，裁判提前建好多人房间，选手必须在此期间进房。
+   - 房间设置为：`游戏模式: "osu!mania"`, `分队模式: "Team Vs"` and `胜利条件: "ScoreV2"`. 房间名必须命名为：`GBC 2022 Autumn: ({TeamRed}) vs ({TeamBlue})`.
+   - 房间名中在前面的队伍是红队，在后面的队伍是蓝队
+2. 每个队长在房间频道里使用`!roll`指令进行掷骰子，点数大的队伍可以选择先选图或者先禁用图，另一方自动选择另一个选项
+3. 每个队伍可以从图池中禁用**一张**谱面，在接下来整场比赛期间此谱面不可被选择。
+4. 每个队伍轮流从图池中选择一张谱面并进行比赛
+5. 每次选图之后，选图一方**可以**禁用**一名**选手使其无法参加本局游戏，**但是TB除外**。随后另一方也可以禁用一名选手
+   - 每个人一场比赛只能被禁用一次
+   - 只能禁用在本场比赛已经出场打出成绩的选手
+   - 先选图的队伍前两张图无法禁用选手（根据上面的规则，实际上第一张图两队都不能禁用选手因为还没人出过场）
+   - 如果一个队伍可用选手过少，那么主办方可能会在ban位方面做出一定的限制
+     - 禁止滥用这个规则，如果故意通过这种方式牟取ban位的优势则主办方有权对队伍做出惩罚
+   - 选图和ban人的消息应在同一条信息发送，如果拖延ban人则裁判有权无视此次ban人行为.
+6. 每个队伍有两分钟的时间选图和禁用选手，接下来有两分钟的时间准备就绪。如果一个队伍超时了，那么过程如下:
+   - 第一次发生:
+     - 队伍会收到来自裁判的警告
+   - 后续再次发生:
+     - 如果在ban人，那么此次ban人作废
+     - 如果在ban图，那么此次ban图作废
+     - 如果在选图，裁判使用roll点指令从图池可用谱面中随机选择一张谱面进行游玩
+     - 如果在准备期间，裁判会直接使用`!mp start 10`指令开始游戏倒计时，不管房间内人数是否够。每队多余的选手会被`!mp kick`踢出
+   - 持续违反此项规则可能会受到主办方进一步的惩罚
+8. 每个队伍每场比赛有一次可选的**两分钟**的技术暂停机会。可以用在选图ban图流程上
+   - 可以在TB决胜局叫暂停，但是需要双方队长都同意才可以
 
-### Match procedures
+### 图池结构
 
-1. A referee will create a multiplayer room 15 minutes before the scheduled match time. Players must join the lobby in that period.
-   - The room settings are `Game mode: "osu!mania"`, `Team mode: "Team Vs"` and `Score mode: "ScoreV2"`. The room name must follow the pattern of `GBC 2022 Autumn: ({TeamRed}) vs ({TeamBlue})`.
-   - The team mentioned first in the room name must be the red team, the team mentioned second in the room name must be the blue team.
-2. Each captain can ban **one beatmap** from the pool. These beatmaps can not be picked by any team for the entire duration of the match.
-3. Both captains will alternate picking a beatmap from the mappool.
-4. Each captain must use `!roll` once in `#multiplayer`.
-   - The winner of the `!roll` could choose to pick first or ban first of the match. The other choose will be used by loser team.
-5. After each pick, both captains **may** ban **one** of the opposing team members from playing the beatmap in a match, **except during tiebreakers**. A player cannot be banned during a match until they have played one beatmap.
-   - Any player can only be banned like this **once** per match.
-   - The team that picks beatmaps first cannot ban players during the first 2 rounds.
-     - As a consequence of the earlier rules, no teams are allowed to ban players during the first round since no one has finished playing any beatmaps.
-   - The team that is currently picking a beatmap gets to ban a player first, before the other team.
-   - If less than required player avaliable, banning player might be limited by host considering.
-     - This rule should not be abused. Host reserves rights to penalize a team if they find that cases.
-6. Teams will have 2 minutes to pick a beatmap and ban an opposing player , and 2 minutes to get ready. If a team takes more time than allowed, the procedures adopted will be as follows:
-   - Picking beatmaps and banning players should be sent **using a single message**. If a team continues to be slow at banning, referees have rights to **ignore the ban**.
-   - For the first occurrence:
-     - The team will receive a verbal warning from the referee
-   - On subsequent occurrences:
-     - For bans of opposing players, the captain forfeits the ban.
-     - For map bans, the captain forfeits the ban.
-     - For map picks, a random map will be chosen from the mappool using `!roll X`, where X is the number of maps that were neither picked nor banned, excluding the tiebreaker.
-     - For a ready timer, the referee will issue the `!mp start 10` command, regardless of how many players from each team are present in the lobby, using `!mp kick` on any extra players for each team, starting from the top (i.e. the first valid player combination for each team will be forced to play the pick). The results for such games are to be taken as is.
-   - Repeat offenders may receive further sanctions from the host.
-7. Each team will receive **one** "tactical timeout" of **two minutes**, to be used as extra time to pick or ban a beatmap. *The tactical timeout is optional.*
-   - The tactical timeout may be called on a tiebreaker, provided that both teams' captains agree to it.
+1. 除资格赛图池之外，比赛的正赛会有四个独立的图池
+   - 常规赛第一轮和第二轮使用图池1
+   - 常规赛第三轮和第四轮使用图池2
+   - 十六强赛和四分之一决赛使用图池3
+   - 半决赛和决赛使用图池4
+2. 每轮图池的所有谱面都是在[FreeMod](/wiki/Game_modifier#freemod)条件下游玩
+3. 每轮图池的数量如下:
+   - 资格赛: 8张   
+   - 图池1&图池2: 15张
+   - 图池3&图池4: 17张.
+4. 除资格赛图池之外，每个图池包含一张TB决胜局谱面，也将在FreeMod条件下游玩
+5. Freemod允许的mod包括NoFail, Hidden, FadeIn, Flashlight, 和 Mirror
 
-### Mappool instructions
+### 日程信息
 
-1. There will be five separate mappools, *this might change depending on the number of incoming registrations.*.
-   - Regular stage Round 1 and Round 2 use mappool \#1.
-   - Regular stage Round 3 and Round 4 use mappool \#2.
-   - Quarterfinals, Semifinals and Finals use separate mappool (\#3, \#4, \#5).
-2. Each mappool consists of a fixed amount of maps each stage which will all be played under [FreeMod](/wiki/Game_modifier#freemod) conditions. This means that there is a unique FreeMod bracket.
-3. The mappool sizes are as follows:
-   - Qualifiers: 8 beatmaps   
-   - Mappool \#1 & \#2: 15 beatmaps
-   - Mappool \#3, \#4, \#5: 17 beatmaps.
-4. Each mappool has one tiebreaker, except for the Qualifiers.
-5. Possible mod choices for the FreeMod bracket are NoFail, Hidden, FadeIn, Flashlight, and Mirror.
-6. The tiebreaker will be played under FreeMod conditions.
-
-### Scheduling information
-
-1. Each stage will be held on **a single weekend**.
-2. Matches in Qualifiers will be held during specific time slots proposed by the tournament staff. Each player is free to choose a time slot in which they want to play.
-   - **Players that don't pick a time slot by Wednesday, 11 October 23:59 UTC+8 will be disqualified from the competition.**
-3. All matches will be held between Friday 18:00 and Sunday 23:59 (UTC+8).
-   - Rescheduling a match to a weekday is only permitted if **both** teams request and agree to it.
-4. Scheduling will be handled by the host. Schedules will be released on the Sunday before the first match of the stage. The host will try to create a schedule that respects all participants' preferences.
-   - Please inform the host before Sunday if you expect a specific time slot to be unavailable in the following week. The host will try to accommodate all wishes, but makes no promises.
-5. **Reschedules will only be considered if both teams agree to a time and communicate it to the tournament staff, before Wednesday 23:59 UTC+8 of the week the match is to take place on.**
-   - Reschedules may only be requested by a team captain.
-   - Matches may not be scheduled to any time beyond **Sunday, 23:59 UTC+8** of the week they are to be played at.
-     - ... Unless its absolutely necessary, **both** teams request and agree to it, and staff avaliable.
-   - **Do not ask for reschedule unless it is absolutely needed. The host reserves the right to deny any reschedule requests.**
-6. Captains are responsible for their team's availability.
+1. 每轮比赛都会在单独的**一个周末**进行
+2. 资格赛的比赛将在特定的时间区间进行。每个选手可以自由选择一个想要比赛的时间区间
+   - **如果选手在周三晚24时之前仍未选择区间，会被视作弃赛**
+3. 所有的比赛会在周五晚六点到周日晚12点之间进行（UTC+8）
+   - 只有在两个队伍都要求的情况下才会调整时间到工作日进行比赛.
+4. 比赛日程由主办方来进行安排。主办方会在比赛开始前的上个周日提前预设好每轮的比赛的日程，尽量创造一个所有参赛选手都满意的时间安排
+   - 如果想在一个特定的时间打或某个特定时间没空比赛请提前告知主办方，主办方会尽量满足所有选手的要求但不能保证全部实现
+5. **只有双方队伍都同意并跟主办方沟通之后才可以修改时间。提交申请的时间限定在周四晚12点之前**
+   - 只有队长才能发起修改时间的申请
+   - 时间不会安排到每周**周日晚12点之后**，除非这是无法避免的且双方和主办方都同意  
+   - **主办方有权拒绝修改时间的申请，所以请尽量少提交申请除非真的必要**
+6. 队长应保证队伍可以正常参赛
 
 ## Notes
 
-[^bu]: Ranking based on opponents' performance. (`all opponents' wins - all opponents' losses`)
+1. 事实证明，比翻译一个晦涩的wiki文档更简单的方式是直接用中文重写一份，原文很多东西翻译起来是真的别扭
+2. 有一个中文wiki是众多参赛选手呼声已久的事情，文档由[GB]yobrevelc重新编写，感谢[GB]Natro和[GB]Rush_FTK对本项工作的大力支持
