@@ -12,7 +12,7 @@ Yep, it's that time of year again. The time compression that started back in 202
 
 If your answer to that is *yes*, then take up your implement of choice and **draw any of the osu! mascots (or community mascots) in a Halloween theme or setting** for fun and glory!
 
-You've got **10 days** to pluck some magnificently mortifying artwork out of your noggin and make it real in the medium of your choice while also following the rules listed out below. **Make sure you read them!** We've added one regarding the use of AI art generation tools since we know they're all the (fiery)rage at the moment.
+You've got **10 days** to pluck some magnificently mortifying artwork out of your noggin and make it real in the medium of your choice while also following the rules listed out below. **Make sure you read them!** We've added one regarding the use of AI art generation tools since we know they're all the rage at the moment.
 
 We'll pick a selection of the top-voted finalists to serve as our Halloween 2022 Seasonal in-game backgrounds, and their artists will also nab themselves 3 months of osu!supporter status. The top 3 finalist entries as voted by the community will also be transmogrified by the power of Halloween into bespoke profile badges showcasing their victory.
 
