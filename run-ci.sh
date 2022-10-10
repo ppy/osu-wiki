@@ -3,31 +3,66 @@
 # This runs CI checks for committed and unstaged files, but not untracked files.
 # For newly added files, stage or commit them before running these checks.
 
-CURRENT_BRANCH=$( git branch --show-current )
-if test ${CURRENT_BRANCH} = 'master'; then
-  printf -- "Please run this from a feature branch, i.e. not 'master'.\n"
-  exit 1
-fi
+set -e
 
-python="python3"
-if test -x "./.venv/bin/python3"; then
-  python="./.venv/bin/python3"
-fi
+CONTAINER_WORKDIR="/root"
 
-FIRST_COMMIT_HASH=$( git log master..${CURRENT_BRANCH} --pretty=format:%H | tail -1 )
-ARTICLES=$( git diff --diff-filter=d --name-only ${FIRST_COMMIT_HASH}^ "wiki/**/*.md" "news/*.md" )
+# Problem:
+# - Node.js dependencies in the container are installed in /root/node_modules.
+# - Markdown linter, remark, is run through npx, which doesn't have module discovery options.
+# - A volume mounted from host shadows everything in the mount point inside the container.
+# - Symlinking node_modules or copying it into the osu-wiki repository will pollute it; don't wanna do cleanup.
+#
+# Solution:
+# - Mount everything from the osu-wiki directory inside /root. This way, node_modules is properly recognized.
+_mounts() {
+  osu_wiki_root=$( cd -- $( dirname $0 ) && pwd )
+  while read file; do
+    printf -- "--mount type=bind,source=${osu_wiki_root}/${file},target=/${CONTAINER_WORKDIR}/${file} "
+  done < <( ls -aA )
+}
 
-printf -- "--- Binary file size check ---\n\n"
-bash scripts/ci/inspect_binary_file_sizes.sh ${FIRST_COMMIT_HASH}
+_docker() {
+  docker run $( _mounts ) --workdir ${CONTAINER_WORKDIR} osu-wiki "$@"
+}
 
-printf -- "\n--- Run remark ---\n\n"
-bash scripts/ci/run_remark.sh ${FIRST_COMMIT_HASH}
+main() {
+  CURRENT_BRANCH=$( git branch --show-current )
+  if test ${CURRENT_BRANCH} = 'master'; then
+    printf -- "Please run this from a feature branch, i.e. not 'master'.\n"
+    exit 1
+  fi
 
-printf -- "\n--- Run yamllint ---\n\n"
-"$python" scripts/ci/run_yamllint.py --config .yamllint.yaml
+  FIRST_COMMIT_HASH=$( git log master..${CURRENT_BRANCH} --pretty=format:%H | tail -1 )
+  ARTICLES=$( git diff --diff-filter=d --name-only ${FIRST_COMMIT_HASH}^ "wiki/**/*.md" "news/*.md" )
 
-printf -- "\n--- Broken wikilink check ---\n\n"
-osu-wiki-tools check-links --target ${ARTICLES}
+  if ! ( which docker ); then
+    printf -- "\n--- Missing docker. Install it from https://docs.docker.com/get-docker/ and restart the shell ---\n\n"
+    exit 1
+  fi
 
-printf -- "\n--- Outdated tag check ---\n\n"
-osu-wiki-tools check-outdated-articles --workflow --base-commit ${FIRST_COMMIT_HASH}
+  if test -z $( docker images -q osu-wiki ); then
+    printf -- "\n--- No Docker image found, building... ---\n\n"
+    if ! ( docker build -t osu-wiki . ); then
+      printf -- "\n--- Image build failed ---\n\n"
+      exit 1
+    fi
+  fi
+
+  printf -- "--- Binary file size check ---\n\n"
+  _docker bash scripts/ci/inspect_binary_file_sizes.sh ${FIRST_COMMIT_HASH}
+
+  printf -- "\n--- Run remark ---\n\n"
+  _docker bash scripts/ci/run_remark.sh ${FIRST_COMMIT_HASH} HEAD
+
+  printf -- "\n--- Run yamllint ---\n\n"
+  _docker python3 scripts/ci/run_yamllint.py --config .yamllint.yaml
+
+  printf -- "\n--- Broken wikilink check ---\n\n"
+  _docker osu-wiki-tools check-links --target ${ARTICLES}
+
+  printf -- "\n--- Outdated tag check ---\n\n"
+  _docker osu-wiki-tools check-outdated-articles --workflow --base-commit ${FIRST_COMMIT_HASH}
+}
+
+main
