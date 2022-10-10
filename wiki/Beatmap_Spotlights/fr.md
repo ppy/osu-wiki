@@ -18,7 +18,7 @@ La saison actuelle est celle du printemps 2022.
 
 ## Participation
 
-Pour participer aux Beatmap Spotlights, téléchargez la dernière version du client lazer depuis sa [page de versions GitHub](https://github.com/ppy/osu/releases/latest).
+Pour participer aux Beatmap Spotlights, téléchargez la dernière version du client osu!(lazer) depuis sa [page de versions GitHub](https://github.com/ppy/osu/releases/latest).
 
 Après l'installation et la connexion à votre compte, rendez-vous dans l'onglet des playlists de l'onglet play et trouvez les lobbies Spotlights comme indiqué par une petite barre rose, ou filtrez par eux dans le coin supérieur droit.
 

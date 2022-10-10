@@ -17,7 +17,7 @@ tags:
 
 ## 参加
 
-必须使用 lazer 客户端才能参加聚光灯，前往它的 [GitHub 发行页](https://github.com/ppy/osu/releases/latest)进行下载。
+必须使用 osu!(lazer) 客户端才能参加聚光灯，前往它的 [GitHub 发行页](https://github.com/ppy/osu/releases/latest)进行下载。
 
 安装并登入账号后，在游玩菜单中进入 `课题模式`，找到带有粉色标识的 `Spotlights` 大厅，或使用右上角的下拉框进行筛选。
 
