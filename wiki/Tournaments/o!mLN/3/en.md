@@ -219,7 +219,18 @@ The osu!mania LN Tournament 3 is run by various community members.
 
 ## Mappools
 
-*Every mappool will be announced 7 days (usually Sunday) before the next stage's match timeline.*
+### Qualifiers
+
+**[Download the mappack here! (15 MB)](https://drive.google.com/drive/folders/1Jy4KMu-W6UexYvTLRy1kW8tsX9pu-lhv?usp=sharing)**
+
+- Coordination
+  1. [Yooh - Good bye, Merry-Go-Round. (Raveille) \[Course 1: Coordinating Carousel\]](https://osu.ppy.sh/beatmapsets/1863241#mania/3831417)
+- Technical
+  1. [USAO - Cthugha (Logan636) \[Collaboration Duel 2: A Clash of Logos and Chaos\]](https://osu.ppy.sh/beatmapsets/1863104#mania/3831124)
+- Wildcard
+  1. [Se-U-Ra - Mochi Kage no Hakobune Six (\[Crz\]Crysarlene) \[Act 3: Ark Sailing Over Truth\]](https://osu.ppy.sh/beatmapsets/1863194#mania/3831322)
+- Density
+  1. [II-L - Unidentified Frequency Op.1 (Type-Adamski) (HowToPlayLN) \[Unidentified Qualifiers Stage 4: (Type-Density)\]](https://osu.ppy.sh/beatmapsets/1863195#mania/3831323)
 
 ## Ruleset
 
