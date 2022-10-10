@@ -106,7 +106,7 @@ Todos los osu! originals que han sido licenciados por el juego están autorizado
 | :-: | :-- |
 | [ZxNX - Altair](https://soundcloud.com/zxnx/alt) |  |
 
-### Lanzamientos oficiales de torneos
+### Lanzamientos de torneos oficiales
 
 #### ![](/wiki/shared/mode/osu.png) [osu! World Cup 2020](/wiki/Tournaments/OWC/2020)
 
