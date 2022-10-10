@@ -4,9 +4,9 @@
 
 ![](img/bss_warning.png "Beatmap Submission System screen")
 
-Selecting `Upload Beatmap...` from the `File` dropdown in the editor (shortcut: `Ctrl` + `Shift` + `U`) will open the **Beatmap Submission System** (***BSS***) window. This initially lists resources to help users ask mapping-related questions, find feedback for their beatmaps, and ensure their maps are suitable for ranking. If you encounter trouble when using BSS, see the [BSS Issues](/wiki/Guides/BSS_Issues) guide.
+Selecting `Upload Beatmap...` from the `File` dropdown in the editor (shortcut: `Ctrl` + `Shift` + `U`) will open the **Beatmap Submission System** (***BSS***) window. This initially lists resources to help users ask mapping-related questions, find [feedback](/wiki/Modding) for their beatmaps, and ensure their maps are suitable for ranking. If you encounter trouble when using BSS, see the [BSS Issues](/wiki/Guides/BSS_Issues) guide.
 
-If the beatmap a user is uploading is not already on the osu! website, the BSS window will state how many new uploads a user can publish. If the beatmap is nominated, the window warns that the nomination will be reset by updating the beatmap. If the beatmap is in the graveyard, the window warns that the beatmap will be raised to the pending beatmaps category.
+If the beatmap a user is uploading is not already on the osu! website, the BSS window will state how many new uploads a user can publish. If the beatmap is nominated, the window warns that the nomination will be reset by updating the beatmap. If the beatmap is in the [graveyard](/wiki/Beatmap/Category#graveyard), the window warns that the beatmap will be raised to the pending beatmaps category.
 
 ## Submission options
 
@@ -24,4 +24,4 @@ Beatmaps will fail to submit if they exceed the online file size or difficulty l
 
 Users are allowed a limited number of pending beatmaps at a time. The limit varies depending on how many ranked beatmaps a user has and whether or not they are currently an [osu!supporter](/wiki/osu!supporter). Users without osu!supporter can have 4 pending beatmaps plus 1 per ranked beatmap (up to 2). With osu!supporter, this increases to 8 pending beatmaps plus 1 per ranked beatmap (up to 12) for a total of 20.
 
-Upload speed varies depending on what files are changed. If only `.osu` files are changed, they are the only files in the beatmap's folder that will be processed and uploaded. If any other assets are changed, all files in the beatmap's folder will be processed and uploaded.
+Upload speed varies depending on what files are changed. If only [`.osu`](/wiki/Client/File_formats/Osu_(file_format)) files are changed, they are the only files in the beatmap's folder that will be processed and uploaded. If any other assets are changed, all files in the beatmap's folder will be processed and uploaded.

@@ -4,9 +4,9 @@
 
 ![](img/bss_warning-DE.png "Bildschirm des Beatmap-Einreichungssystems")
 
-Beim Anwählen von `Beatmap hochladen ...` aus dem Dropdown `Datei` im Editor (Kürzel: `Strg` + `Shift` + `U`) öffnet sich das Fenster für das **Beatmap-Einreichungssystem** (auch **Beatmap Submission System** oder ***BSS*** genannt). Hier werden zu Anfang Informationsquellen aufgelistet, um Nutzern zu helfen, Fragen im Bezug auf Mapping zu stellen, Feedback für ihre Beatmaps zu finden und sicherzustellen, dass ihre Beatmaps für das Ranking geeignet sind. Solltest du Probleme mit dem BSS haben, dann siehe den Ratgeber über [Probleme mit dem BSS](/wiki/Guides/BSS_Issues).
+Beim Anwählen von `Beatmap hochladen ...` aus dem Dropdown `Datei` im Editor (Kürzel: `Strg` + `Shift` + `U`) öffnet sich das Fenster für das **Beatmap-Einreichungssystem** (auch **Beatmap Submission System** oder ***BSS*** genannt). Hier werden zu Anfang Informationsquellen aufgelistet, um Nutzern zu helfen, Fragen im Bezug auf Mapping zu stellen, [Feedback](/wiki/Modding) für ihre Beatmaps zu finden und sicherzustellen, dass ihre Beatmaps für das Ranking geeignet sind. Solltest du Probleme mit dem BSS haben, dann siehe den Ratgeber über [Probleme mit dem BSS](/wiki/Guides/BSS_Issues).
 
-Wenn die Beatmap, die ein Nutzer hochlädt, nicht bereits auf der osu!-Webseite ist, dann wird das BSS-Fenster anzeigen, wie viele Neuveröffentlichungen einem Nutzer noch zustehen. Sofern die Beatmap nominiert ist, warnt das Fenster davor, dass die Nominierung durch das Aktualisieren der Beatmap zurückgesetzt wird. Wenn die Beatmap sich auf dem Friedhof befindet, dann weist das Fenster darauf hin, dass die Beatmap in die Kategorie "Ausstehend" verschoben wird.
+Wenn die Beatmap, die ein Nutzer hochlädt, nicht bereits auf der osu!-Webseite ist, dann wird das BSS-Fenster anzeigen, wie viele Neuveröffentlichungen einem Nutzer noch zustehen. Sofern die Beatmap nominiert ist, warnt das Fenster davor, dass die Nominierung durch das Aktualisieren der Beatmap zurückgesetzt wird. Wenn die Beatmap sich auf dem [Friedhof](/wiki/Beatmap/Category#friedhof) befindet, dann weist das Fenster darauf hin, dass die Beatmap in die Kategorie "Ausstehend" verschoben wird.
 
 ## Einreichungsoptionen
 
@@ -24,4 +24,4 @@ Beatmaps werden nicht eingereicht, wenn sie das Online-Dateigrößen- oder Schwi
 
 Benutzern wird es erlaubt, eine limitierte Anzahl an ausstehenden Beatmaps gleichzeitig auf der Webseite zu haben. Die Beschränkung variiert, abhängig davon, wie viele gerankte Beatmaps ein Nutzer hat und ob er gerade ein [osu!supporter](/wiki/osu!supporter) ist. Benutzer ohne osu!supporter können 4 ausstehende Beatmaps plus 1 pro gerankter Beatmap haben (bis zu 2). Mit osu!supporter wird die Grenze auf 8 ausstehende Beatmaps plus 1 pro gerankter Beatmap erhöht (bis zu 12), also insgesamt 20.
 
-Die Upload-Geschwindigkeit unterscheidet sich abhängig davon, welche Dateien geändert wurden. Sofern nur die `.osu`-Dateien verändert wurden, sind sie die einzigen Dateien im Beatmap-Ordner, die verarbeitet und hochgeladen werden. Wenn andere Dateien geändert werden, werden alle Dateien im Beatmap-Ordner verarbeitet und hochgeladen.
+Die Upload-Geschwindigkeit unterscheidet sich abhängig davon, welche Dateien geändert wurden. Sofern nur die [`.osu`](/wiki/Client/File_formats/Osu_(file_format))-Dateien verändert wurden, sind sie die einzigen Dateien im Beatmap-Ordner, die verarbeitet und hochgeladen werden. Wenn andere Dateien geändert werden, werden alle Dateien im Beatmap-Ordner verarbeitet und hochgeladen.
