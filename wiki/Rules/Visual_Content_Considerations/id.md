@@ -29,7 +29,7 @@ Gambar atau elemen visual yang mengandung salah satu dari daftar dibawah ini **t
 - **konten erotis atau tampilan grafis seksualitas**
 - **contoh penggunaan, persiapan, atau identifikasi segala jenis obat-obatan terlarang**[^drug-nature]
 - **penggambaran konten politik, budaya, agama, atau sosial yang bertujuan untuk menghasut**
-- **gambar yang menggambarkan perilaku bunuh diri atau melukai diri sendiri, termasuk persiapan atau upaya yang akan segera dilakukan**
+- **gambaran perilaku bunuh diri atau melukai diri sendiri, termasuk persiapan atau upaya yang akan segera dilakukan**
 
 Sebagai tambahan, gambar atau elemen visual yang dinilai berkualitas buruk (baik secara obyektif yaitu kualitas gambar maupun secara subyektif yaitu komposisi/penciptaan) juga dapat dicegah penggunaannya dalam beatmap jika gambar atau elemen visual tidak berhubungan langsung dengan beatmap.
 
