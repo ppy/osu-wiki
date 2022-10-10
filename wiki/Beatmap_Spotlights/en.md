@@ -106,9 +106,9 @@ The seasonal leaderboard sums up the weekly ranked score results of every partic
 
 Rewards are distributed to playlist lobby winners, creators of Beatmap of the Season picks, and every participant present on the seasonal leaderboard.
 
-The top 10 players of each playlist lobby will receive **1 week of osu!supporter**.
+The top 10 players of each playlist lobby will receive **1 week of [osu!supporter](/wiki/osu!supporter)**.
 
-After the conclusion of each season, votes are opened for the *Beatmap of the Season*, where players and curators each get to pick a winning map for each game mode, totalling 8. The winning entries are announced at start of the next season, and their creators will receive **3 months of osu!supporter**.
+After the conclusion of each season, votes are opened for the *Beatmap of the Season*, where players and curators each get to pick a winning map for each game mode, totalling 8. The winning entries are announced at start of the next season, and their creators will receive **3 months of [osu!supporter](/wiki/osu!supporter)**.
 
 During the season, every participant receives a temporary **badge** which reflects their current placement on the seasonal leaderboard, as described by the table below. These are updated after the conclusion of each playlist. Players who hold a Rhythm Incarnate badge by the end of the season will **keep it permanently**.
 
