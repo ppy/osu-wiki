@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 6ad4fe3d4e5b620cfeb663af478a908a6220f9ba
+---
+
 # Rédaction
 
 *Pour les normes de mise en forme, voir : [Critères de mise en forme d'article/Mise en forme](../Formatting)*\
