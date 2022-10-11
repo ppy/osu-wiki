@@ -17,7 +17,6 @@ tags:
 |  |  |
 | :-- | :-- |
 | Invite link | <https://discord.gg/osumedalhunters> |
-| Website | <https://osekai.net/> |
 
 :::
 
@@ -25,18 +24,16 @@ tags:
 
 **osu! Medal Hunters** is a the main [Discord](https://discord.com) server used by the medal hunting community, where people discuss [medals](/wiki/Medals) and [medal solutions](/wiki/Medals/Unlock_requirements).
 
-The server is run by the same team that develops and maintains the [Osekai website](https://osekai.net/), which is a hub for alternative rankings, medal solutions, archived osu! client versions, and a [profile badge](/wiki/Community/Profile_badge) database.
-
-A lot of medal hunters work together in order to find solutions for each new Hush-Hush medal added into the game. Every time new medals get released, it is announced by one of the Osekai staff members, threads for each medal are created, and people work together to hunt down the solutions.
+A lot of medal hunters work together in order to find solutions for each new Hush-Hush medal added into the game. Every time new medals get released, it is announced by one of the server staff members, threads for each medal are created, and people work together to hunt down the solutions.
 
 ## Staff
 
 | Role | User (Discord handle) |
 | :-- | :-- |
 | Server owner | ::{ flag=CA }:: [Remyria](https://osu.ppy.sh/users/1699875) (Remyria#0001) |
-| Osekai developer & server admin | ::{ flag=GB }:: [Tanza3D](https://osu.ppy.sh/users/10379965) (Hubz#6283, Tanza#8733), ::{ flag=DE }:: [mulraf](https://osu.ppy.sh/users/1309242) (mulraf#1087) |
-| Osekai community manager & server admin | ::{ flag=UA }:: [MegaMix_Craft](https://osu.ppy.sh/users/18152711) (MegaMix_Craft#1151), ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) (chromb#4528), ::{ flag=CA }:: [Remyria](https://osu.ppy.sh/users/1699875) (Remyria#0001) |
-| Osekai & server moderator | ::{ flag=US }:: [bentokage](https://osu.ppy.sh/users/13175102) (bento#6969) |
+| Developer & server admin | ::{ flag=GB }:: [Tanza3D](https://osu.ppy.sh/users/10379965) (Hubz#6283, Tanza#8733), ::{ flag=DE }:: [mulraf](https://osu.ppy.sh/users/1309242) (mulraf#1087) |
+| Community manager & server admin | ::{ flag=UA }:: [MegaMix_Craft](https://osu.ppy.sh/users/18152711) (MegaMix_Craft#1151), ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) (chromb#4528), ::{ flag=CA }:: [Remyria](https://osu.ppy.sh/users/1699875) (Remyria#0001) |
+| Server moderator | ::{ flag=US }:: [bentokage](https://osu.ppy.sh/users/13175102) (bento#6969) |
 
 ## Verification
 
