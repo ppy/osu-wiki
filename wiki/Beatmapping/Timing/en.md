@@ -1,21 +1,22 @@
 # Timing
 
-**Timing** is the process of determining the song's musical structure by finding its [BPM](/wiki/Beatmapping/Beats_per_minute), one or more [offsets](/wiki/Disambiguation/Offset), and their [time signatures](/wiki/Music_theory/Time_signature). It also means these settings altogether.
+**Timing** is the process of determining the song's musical structure by finding its [BPM](/wiki/Beatmapping/Beats_per_minute), one or more [offsets](/wiki/Disambiguation/Offset), and its [time signatures](/wiki/Music_theory/Time_signature). It also means these settings altogether.
 
 Timing settings provide a [ruler-like layout](/wiki/Client/Beatmap_editor/Timelines#timing) for temporal placement of [hit objects](/wiki/Gameplay/Hit_object) through [snapping](/wiki/Beatmapping/Snapping). This helps mappers and players by defining moments when key musical notes are played. Additionally, timing controls the [osu! cookie](/wiki/Client/Interface/Cookie) and object pulsation during [kiai time](/wiki/Gameplay/Kiai_time).
 
-Timing partially reflects **properties of a specific audio file** and may change once the audio is replaced or modified in a way that affects its waveform. To avoid doing double work, it is recommended to ensure firstly that the audio file follows the [ranking criteria](/wiki/Ranking_Criteria#audio).
+Timing partially reflects **properties of a specific audio file** and may change once the audio is replaced or modified in a way that affects its waveform. It is recommended to ensure that the audio file follows the [ranking criteria](/wiki/Ranking_Criteria#audio) before establishing timing.
+```"double work" sounds weird
 
 ## Song structure
 
 *Main article: [Music theory](/wiki/Music_theory)*
 
-Timing is based on a fact that most songs adhere to certain rules and guidelines and have rhythm — a regularly repeated sequence of sounds and silences:
+Timing is based on the fact that most songs adhere to certain rules and guidelines and have rhythm — a regularly repeated sequence of sounds and silences:
 
-- [Beat](/wiki/Music_theory/Beat) is a note considered a basic unit of rhythm. Other notes are expressed as its fractions and multiples.
+- [Beat](/wiki/Music_theory/Beat) is a note interpreted as the base unit of rhythm. Other notes are expressed as its fractions and multiples.
 - [Measure](/wiki/Music_theory/Measure), or a bar, is a fixed amount of beats repeating throughout the song. The first beat of a measure is emphasized and called a [downbeat](/wiki/Music_theory/Downbeat).
 - [Time signature](/wiki/Music_theory/Time_signature) specifies how many beats are in a single measure.
-- [BPM](/wiki/Music_theory/Tempo), or beats per minute, is a value that determines the speed of a song.
+- [Beats per minute (BPM)](/wiki/Music_theory/Tempo) is a value that determines the speed/tempo of a song.
 
 ## Timing process
 
@@ -24,7 +25,7 @@ Timing is based on a fact that most songs adhere to certain rules and guidelines
 
 ### Single offset
 
-An [uninherited ("red") offset](/wiki/Beatmapping/Offset) shows the amount of time since the beginning of the audio before the first downbeat. The offset is a starting point used by osu! to calculate positions of other beats. A single offset is often enough for songs that are digitally produced or edited seamlessly.
+An [uninherited ("red") offset](/wiki/Beatmapping/Offset) is the amount of time between the beginning of the audio and the first downbeat. The offset is a starting point used by osu! to calculate positions of other beats. A single offset is often enough for songs that are digitally produced or edited seamlessly.
 
 Mappers use their perception and sense of rhythm to discover the basic rhythmic structure of a song, and then verify that it accurately represents the whole audio. To do that, they focus on similar sounds which repeat periodically, and tap the `T` key along the rhythm. This allows osu! to calculate how many beats appear in a song over a minute, and find its approximate [BPM](/wiki/Beatmapping/Beats_per_minute). After that, the timing is tested and adjusted if necessary:
 
