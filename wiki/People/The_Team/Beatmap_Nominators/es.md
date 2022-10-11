@@ -2,6 +2,7 @@
 tags:
   - BN
   - BNG
+no_native_review: true
 ---
 
 # Beatmap Nominators
