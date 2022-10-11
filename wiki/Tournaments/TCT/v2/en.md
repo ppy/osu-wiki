@@ -59,7 +59,7 @@ The Taiko 2v2 Convert Tourney v2 was run by various community members.
 
 | Team | Members |
 | :-- | :-- |
-| **'-'** | ::{ flag=EC }:: **[Gamelan4](https://osu.ppy.sh/users/9856910)**, ::{ flag=BR }:: [HiroK](https://osu.ppy.sh/users/4050738) |
+| **''-'** | ::{ flag=EC }:: **[Gamelan4](https://osu.ppy.sh/users/9856910)**, ::{ flag=BR }:: [HiroK](https://osu.ppy.sh/users/4050738) |
 | **87** | ::{ flag=US }:: **[Ney](https://osu.ppy.sh/users/5991961)**, ::{ flag=US }:: [JDrago14](https://osu.ppy.sh/users/7690078) |
 | **:flushed:** | ::{ flag=US }:: **[Shyguy](https://osu.ppy.sh/users/178038)**, ::{ flag=US }:: [Das](https://osu.ppy.sh/users/3165416) |
 | **Bancho Doesn't Play** | ::{ flag=CL }:: **[Neon734](https://osu.ppy.sh/users/10907480)**, ::{ flag=CL }:: [Binks-](https://osu.ppy.sh/users/9028416) |
@@ -98,7 +98,7 @@ Seed was determined by sum of performance points (pp) from each team
 
 | Group | Top seed | High seed | Middle seed | Low seed |
 | :-: | :-- | :-- | :-- | :-- |
-| **A** | Caiu na vila o Peixe fuzila | '-' | The Return of the Aces | what |
+| **A** | Caiu na vila o Peixe fuzila | ''-' | The Return of the Aces | what |
 | **B** | 87 | Bongo Bois | Jargentina | öö v2 |
 | **C** | j h q w 2 | Bancho Doesn't Play | QUEBRADA SENSACIONAL | nautilus fdp |
 | **D** | :flushed: | The Lucky Crabs | Unlikely convergence | OD 9.8 |
@@ -289,159 +289,148 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-Saturday, 19 June 2021:
+Sunday, 7 June 2020:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| the bros 4 | -1 | **0** | **ＵＮＫＯ！！！！！** | *win by default* |
-
-Sunday, 20 June 2021:
-
-| Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **🍣 guys** | **7** | 0 | ＵＮＫＯ！！！！！ | [#1](https://osu.ppy.sh/community/matches/85943325) |
+| **87** | **6** | 0 | Tacos and Schabowy | [#1](https://osu.ppy.sh/community/matches/62633606) |
 
 ### Finals
 
-Saturday, 12 June 2021:
+Sunday, 31 May 2020:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| 大山翔太 | 5 | **7** | **ＵＮＫＯ！！！！！** | [#1](https://osu.ppy.sh/community/matches/85437032) |
-
-Sunday, 13 June 2021:
-
-| Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **My Angel Rice** | **7** | 6 | Gura is cute | [#1](https://osu.ppy.sh/community/matches/85487654) |
-| My Angel Rice | 1 | **7** | **ＵＮＫＯ！！！！！** | [#1](https://osu.ppy.sh/community/matches/85493630) |
-| **🍣 guys** | **7** | 0 | the bros 4 | [#1](https://osu.ppy.sh/community/matches/85509785) |
+| j h q w 2 | 0 | **5** | **87** | [#1](https://osu.ppy.sh/community/matches/62347535) |
+| j h q w 2 | 1 | **5** | **Tacos and Schabowy** | *missing link* |
 
 ### Semifinals
 
-Saturday, 5 June 2021:
+Saturday, 23 May 2020:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **ＵＮＫＯ！！！！！** | **0** | -1 | wheelchair v2 | *win by default* |
-| 老人 | -1 | **0** | **:photoblob:** | *win by default* |
-| **ヴぇ** | **6** | 1 | Down Bad Gamers | [#1](https://osu.ppy.sh/community/matches/84978090) |
-| **Gura is cute** | **6** | 4 | the | [#1](https://osu.ppy.sh/community/matches/85004930) |
-| 大山翔太 | 0 | **6** | **the bros 4** | [#1](https://osu.ppy.sh/community/matches/85012590) |
+| Unlikely Convergence | -1 | **0** | **chad** | *win by default* |
+| **87** | **5** | 0 | :flushed: | [#1](https://osu.ppy.sh/community/matches/62013972) |
+| ''-' | 0 | **5** | **j h q w 2** | [#1](https://osu.ppy.sh/community/matches/62016106) |
 
-Sunday, 6 June 2021:
+Sunday, 24 May 2020:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| ヴぇ | 3 | **6** | **ＵＮＫＯ！！！！！** | [#1](https://osu.ppy.sh/community/matches/85043636) |
-| **🍣 guys** | **6** | 0 | My Angel Rice | [#1](https://osu.ppy.sh/community/matches/85045787) |
-| :photoblob: | 0 | **6** | **Gura is cute** | [#1](https://osu.ppy.sh/community/matches/85051339) |
+| marunouchiOL | 2 | **5** | **Tacos and Schabowy** | [#1](https://osu.ppy.sh/community/matches/62042359) |
+| ''-' | -1 | **0** | **Tacos and Schabowy** | *win by default* |
+| **Tacos and Schabowy** | **5** | 4 | :flushed: | [#1](https://osu.ppy.sh/community/matches/62055710) |
+| **:flushed:** | **0** | -1 | chad | *win by default* |
 
 ### Quarterfinals
 
-Saturday, 29 May 2021:
+Saturday, 16 May 2020:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Down Bad Gamers** | **6** | 5 | yes we love sucking sausages 🥵💦🌭 | [#1](https://osu.ppy.sh/community/matches/84490266) |
-| pe | 0 | **6** | **the** | [#1](https://osu.ppy.sh/community/matches/84509768) |
-| 老人 | 2 | **6** | **the bros 4** | [#1](https://osu.ppy.sh/community/matches/84522203) |
+| **:flushed:** | **4** | 1 | marunouchiOL | [#1](https://osu.ppy.sh/community/matches/61723918) |
+| **87** | **4** | 0 | Tacos and Schabowy | [#1](https://osu.ppy.sh/community/matches/61743170) |
+| **Tacos and Schabowy** | **4** | 0 | Waiting in the Panic Room | [#1](https://osu.ppy.sh/community/matches/61745519) |
+| **''-'** | **4** | 1 | chad | [#1](https://osu.ppy.sh/community/matches/61747054) |
+| **j h q w 2** | **0** | -1 | Unlikely Convergence | *win by default* |
 
-Sunday, 30 May 2021:
+Sunday, 17 May 2020:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| ヴぇ | 2 | **6** | **My Angel Rice** | [#1](https://osu.ppy.sh/community/matches/84533347) |
-| **大山翔太** | **6** | 0 | Gura is cute | [#1](https://osu.ppy.sh/community/matches/84549788) |
-| kasai ebet chugun | 2 | **6** | **wheelchair v2** | [#1](https://osu.ppy.sh/community/matches/84549743) |
-| **🍣 guys** | **6** | 0 | ＵＮＫＯ！！！！！ | [#1](https://osu.ppy.sh/community/matches/84554087) |
-| CUM LEADERS | 0 | **6** | **:photoblob:** | [#1](https://osu.ppy.sh/community/matches/84556964) |
+| **chad** | **0** | -1 | QUEBRADA SENSACIONAL | *win by default* |
+| **marunouchiOL** | **4** | 1 | Bongo Bois | [#1](https://osu.ppy.sh/community/matches/61747054) |
+| **Unlikely Convergence** | **4** | 0 | wheelchair | *missing link* |
 
 ### Round of 16
 
-Saturday, 22 May 2021:
+Saturday, 9 May 2020:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **老人** | **5** | 0 | kasai ebet chugun | [#1](https://osu.ppy.sh/community/matches/83947483) |
-| **🍣 guys** | **5** | 4 | CUM LEADERS | [#1](https://osu.ppy.sh/community/matches/83950638) |
-| **ＵＮＫＯ！！！！！** | 0 | -1 | :photoblob: | *win by default* |
-| **the bros 4** | **5** | 0 | wheelchair v2 | [#1](https://osu.ppy.sh/community/matches/83970111) |
+| **''-'** | **0** | -1 | Shamikan | *win by default* |
+| **Tacos and Schabowy** | **4** | 0 | The Return of the Aces | [#1](https://osu.ppy.sh/community/matches/61450709) |
+| **MarunouchiOL** | **4** | 0 | QUEBRADA SENSACIONAL | [#1](https://osu.ppy.sh/community/matches/61453343) |
+| **87** | **4** | 0 | wheelchair | [#1](https://osu.ppy.sh/community/matches/61452899) |
+| **j h q w 2** | **0** | -1 | Crippling Depression | *win by default* |
+| **chad** | **4** | 0 | Bongo Bois | [#1](https://osu.ppy.sh/community/matches/61461612) |
 
-Sunday, 23 May 2021:
+Sunday, 10 May 2020:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **大山翔太** | **5** | 0 | Down Bad Gamers | [#1](https://osu.ppy.sh/community/matches/84004099) |
-| **ヴぇ**  | **0** | -1 | pe | *win by default* |
-| **Gura is cute** | **5** | 0 | yes we love sucking sausages 🥵💦🌭 | [#1](https://osu.ppy.sh/community/matches/84032763) |
-| **My Angel Rice** | **5** | 3 | the | [#1](https://osu.ppy.sh/community/matches/84035817) |
+| **:flushed:** | **4** | 0 | Nyoomers eSports | [#1](https://osu.ppy.sh/community/matches/61475588) |
+| Shamikan | -1 | **0** | **Bongo Bois** | *win by default* |
+| **wheelchair** | **4** | 2 | The Return of the Aces | [#1](https://osu.ppy.sh/community/matches/61489800) |
+| Waiting in the Pain Room | 1 | **4** | **Unlikely Convergence** | [#1](https://osu.ppy.sh/community/matches/61497413) |
+| Crippling Depression | -1 | **0** | **The Return of the Aces** | *win by default* |
+
+Monday, 11 May 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Nyoomers eSports | 1 | **4** | **QUEBRADA SENSACIONAL** | *missing link* |
 
 ### Group Stage
 
-Friday, 14 May 2021:
+Saturday, 2 May 2020:
 
 | Group | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| G | **ＵＮＫＯ！！！！！** | **4** | 0 | Standard Supremacy | [#1](https://osu.ppy.sh/community/matches/83354370) |
+| B | **87** | **0** | -1 | Jargentina | *win by default* |
+| B | Jargentina | -1 | **0** | **öö v2** | *win by default* |
+| D | **:flushed:** | **0** | -1 | The Lucky Crabs | *win by default* |
+| C | **QUEBRADA SENSACIONAL** | **0** | -1 | nautilus fdp | *win by default* |
+| B | **Bongo Bois** | **0** | -1 | Jargentina | *win by default* |
+| A | **The Return of the Aces** | **4** | 0 | what | [#1](https://osu.ppy.sh/community/matches/61174136) |
+| B | **Bongo Bois** | **4** | 0 | öö v2 | [#1](https://osu.ppy.sh/community/matches/61174465) |
+| C | **j h q w 2** | **0** | -1 | nautilus fdp | *win by default* |
+| D | **:flushed:** | **4** | 1 | Unlikely convergence | [#1](https://osu.ppy.sh/community/matches/61174478) |
+| B | **87** | **0** | -1 | öö v2 | *win by default* |
+| D | **:flushed:** | **0** | -1 | OD 9.8 | *win by default* |
+| C | **j h q w 2** | **4** | 1 | Bancho Doesn't Play | [#1](https://osu.ppy.sh/community/matches/61176925) |
+| A | **''-'** | **4** | 3 | The Return of the Aces | [#1](https://osu.ppy.sh/community/matches/61178776) |
+| D | The Lucky Crabs | -1 | **0** | **Unlikely convergence** | *win by default* |
+| B | **87** | **4** | 0 | Bongo Bois | [#1](https://osu.ppy.sh/community/matches/61178601) |
+| D | The Lucky Crabs | -1 | **0** | **OD 9.8** | *win by default* |
+| A | **''-'** | **4** | 0 | what | [#1](https://osu.ppy.sh/community/matches/61181751) |
+| C | **j h q w 2** | **4** | 0 | QUEBRADA SENSACIONAL | [#1](https://osu.ppy.sh/community/matches/61181075) |
+| C | **Bancho Doesn't Play** | **0** | -1 | nautilus fdp | *win by default* |
+| E | PP is my name, Convert is my game | -1 | **0** | **Nyoomers eSports** | *win by default* |
+| D | **Unlikely convergence** | **0** | -1 | OD 9.8 | *win by default* |
+| A | **Caiu na vila o Peixe fuzila** | **4** | 0 | what | [#1](https://osu.ppy.sh/community/matches/61183565) |
+| C | Bancho Doesn't Play | 1 | **4** | **QUEBRADA SENSACIONAL** | [#1](https://osu.ppy.sh/community/matches/61185754) |
+| A | Caiu na vila o Peixe fuzila | 1 | **4** | **''-'** | [#1](https://osu.ppy.sh/community/matches/61185695) |
 
-Saturday, 15 May 2021:
-
-| Group | Team 1 |  |  | Team 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| G | **ＵＮＫＯ！！！！！** | **4** | 0 | Down Bad Gamers | [#1](https://osu.ppy.sh/community/matches/83363366) |
-| B | **:photoblob:** | **4** | 0 | Why are you playing convert | [#1](https://osu.ppy.sh/community/matches/83385718) |
-| B | **大山翔太** | **4** | 0 | :photoblob: | [#1](https://osu.ppy.sh/community/matches/83387712) |
-| B | **大山翔太** | **4** | 0 | Why are you playing convert | [#1](https://osu.ppy.sh/community/matches/83390120) |
-| C | ヴぇ | 3 | **4** | **wheelchair v2** | [#1](https://osu.ppy.sh/community/matches/83389998) |
-| B | **Why are you playing convert** | **0** | -1 | Deorum | *win by default* |
-| D | **the** | **4** | 0 | Boshki | [#1](https://osu.ppy.sh/community/matches/83392433) |
-| A | **🍣 guys** | **4** | 0 | (╯°□°）╯︵ ┻━┻ | [#1](https://osu.ppy.sh/community/matches/83398261) |
-| C | **wheelchair v2** | **4** | 0 | Frog | [#1](https://osu.ppy.sh/community/matches/83397929) |
-| D | the | 3 | **4** | **老人** | [#1](https://osu.ppy.sh/community/matches/83397770) |
-| A | **🍣 guys** | **4** | 0 | Crippling Depression | [#1](https://osu.ppy.sh/community/matches/83401691) |
-| A | **yes we love sucking sausages 🥵💦🌭** | **4** | 2 | (╯°□°）╯︵ ┻━┻ | [#1](https://osu.ppy.sh/community/matches/83401331) |
-| B | **大山翔太** | **0** | -1 | Deorum | *win by default* |
-| G | **ＵＮＫＯ！！！！！** | **4** | 0 | Non-convert Gamers | [#1](https://osu.ppy.sh/community/matches/83401479) |
-| A | **(╯°□°）╯︵ ┻━┻** | **4** | 2 | Crippling Depression | [#1](https://osu.ppy.sh/community/matches/83405649) |
-| C | **Huachipato** | **4** | 0 | Frog | [#1](https://osu.ppy.sh/community/matches/83404910) |
-| D | **老人** | **4** | 0 | Boshki | [#1](https://osu.ppy.sh/community/matches/83409662) |
-| G | Non-convert Gamers | 3 | **4** | **Down Bad Gamers** | [#1](https://osu.ppy.sh/community/matches/83409467) |
-| C | wheelchair v2 | 3 | **4** | **Huachipato** | [#1](https://osu.ppy.sh/community/matches/83414120) |
-| D | **老人** | **0** | -1 | \[insert-team-name-here\] | *win by default* |
-| E | **My Angel Rice** | **4** | 0 | teamname :flag_pl: :handshake: :flag_nl: | [#1](https://osu.ppy.sh/community/matches/83413745) |
-| B | **:photoblob:** | **0** | -1 | Deorum | *win by default* |
-| F | **the bros 4** | **4** | 0 | pe | [#1](https://osu.ppy.sh/community/matches/83418187) |
-| D | **the** | **4** | 0 | \[insert-team-name-here\] | [#1](https://osu.ppy.sh/community/matches/83422797) |
-
-Sunday, 16 May 2022:
+Sunday, 3 May 2020:
 
 | Group | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| C | **ヴぇ** | **4** | 2 | Huachipato | [#1](https://osu.ppy.sh/community/matches/83449762) |
-| D | **Boshki** | **4** | 1 | \[insert-team-name-here\] | [#1](https://osu.ppy.sh/community/matches/83464425) |
-| E | Sex Speedrun | 1 | **4** | **kasai ebet chugun** | [#1](https://osu.ppy.sh/community/matches/83464366) |
-| A | **🍣 guys** | **4** | 0 | yes we love sucking sausages 🥵💦🌭 | [#1](https://osu.ppy.sh/community/matches/83468716) |
-| F | **pe** | **4** | 0 | Asian Egirls | [#1](https://osu.ppy.sh/community/matches/83470766) |
-| C | **ヴぇ** | **0** | -1 | Frog | *win by default* |
-| H | **Gura is cute** | **4** | 0 | Brzęczyszczykiewicz - Chrząszczyrzewoszyce | [#1](https://osu.ppy.sh/community/matches/83472688) |
-| G | **Non-convert Gamers** | **4** | 0 | Standard Supremacy | [#1](https://osu.ppy.sh/community/matches/83475074) |
-| A | **yes we love sucking sausages 🥵💦🌭** | **4** | 2 | Crippling Depression | [#1](https://osu.ppy.sh/community/matches/83480708) |
-| E | **My Angel Rice** | **4** | 0 | kasai ebet chugun | [#1](https://osu.ppy.sh/community/matches/83480657) |
-| H | **Gura is cute** | **4** | 0 | CUM LEADERS | [#1](https://osu.ppy.sh/community/matches/83480693) |
-| E | Sex Speedrun | 2 | **4** | **My Angel Rice** | [#1](https://osu.ppy.sh/community/matches/83488173) |
-| E | **kasai ebet chugun** | **4** | 2 | teamname :flag_pl: :handshake: :flag_nl: | [#1](https://osu.ppy.sh/community/matches/83488890) |
-| F | **the bros 4** | **4** | 0 | Floreros embriagados | [#1](https://osu.ppy.sh/community/matches/83492181) |
-| H | **CUM LEADERS** | **4** | 0 | Brzęczyszczykiewicz - Chrząszczyrzewoszyce | [#1](https://osu.ppy.sh/community/matches/83491550) |
-| E | **Sex Speedrun** | **4** | 0 | teamname :flag_pl: :handshake: :flag_nl: | [#1](https://osu.ppy.sh/community/matches/83495967) |
-| F | **Floreros embriagados** | **4** | 1 | Asian Egirls | [#1](https://osu.ppy.sh/community/matches/83499692) |
-| G | **Down Bad Gamers** | **4** | 0 | Standard Supremacy | [#1](https://osu.ppy.sh/community/matches/83499693) |
-| F | **the bros 4** | **4** | 0 | Asian Egirls | [#1](https://osu.ppy.sh/community/matches/83509244) |
-| F | **pe** | **4** | 1 | Floreros embriagados | [#1](https://osu.ppy.sh/community/matches/83509249) |
-
-### Qualifiers
-
-Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/18GWhcAKy20KUvo92dbKok0LJNNP566sFEc4WQySgKN4/edit) alongside the final standings on which player made it through to the next stage.
+| G | **chad** | **4** | 1 | ForelychLovers Reborn | [#1](https://osu.ppy.sh/community/matches/61200924) |
+| H | **Shamikan** | **0** | -1 | mokipAkmed | *win by default* |
+| F | **MarunouchiOL** | **0** | -1 | HRdcore | *win by default* |
+| G | **chad** | **4** | 0 | thank u, next | [#1](https://osu.ppy.sh/community/matches/61201816) |
+| E | **Waiting in the Pain Room** | **0** | -1 | 大山翔太 | *win by default* |
+| E | **Waiting in the Pain Room** | **0** | -1 | Nyoomers eSports | *win by default* |
+| H | Shamikan | 3 | **4** | **Tacos and Schabowy** | [#1](https://osu.ppy.sh/community/matches/61205484) |
+| F | **MarunouchiOL** | **0** | -1 | Imprisoned Isolationists | *win by default* |
+| E | **PP is my name, Convert is my game** | **0** | -1 | 大山翔太 | *win by default* |
+| F | **MarunouchiOL** | **4** | 0 | Crippling Depression | [#1](https://osu.ppy.sh/community/matches/61207360) |
+| G | **wheelchair** | **4** | 2 | thank u, next | [#1](https://osu.ppy.sh/community/matches/61207174) |
+| F | HRdcore | -1 | **0** | **Imprisoned Isolationists** | *win by default* |
+| E | 大山翔太 | -1 | **0** | **Nyoomers eSports** | *win by default* |
+| E | PP is my name, Convert is my game | 1 | **4** | **Waiting in the Pain Room** | [#1](https://osu.ppy.sh/community/matches/61207566) |
+| H | **Shamikan** | **4** | 0 | Team Fabulous 2 | [#1](https://osu.ppy.sh/community/matches/61208942) |
+| G | thank u, next | 0 | **4** | **ForelychLovers Reborn** | [#1](https://osu.ppy.sh/community/matches/61208970) |
+| F | Imprisoned Isolationists | 0 | **4** | **Crippling Depression** | [#1](https://osu.ppy.sh/community/matches/61208983) |
+| H | mokipAkmed | 0 | **4** | **Tacos and Schabowy** | [#1](https://osu.ppy.sh/community/matches/61211016) |
+| G | **wheelchair** | **4** | 3 | ForelychLovers Reborn | [#1](https://osu.ppy.sh/community/matches/61211337) |
+| F | HRdcore | -1 | **0** | **Crippling Depression** | *win by default* |
+| H | Team Fabulous 2 | 0 | **4** | **Tacos and Schabowy** | [#1](https://osu.ppy.sh/community/matches/61213293) |
+| G | **chad** | **4** | 2 | wheelchair | [#1](https://osu.ppy.sh/community/matches/61213340) |
+| A | Caiu na vila o Peixe fuzila | 1 | **4** | **The Return of the Aces** | [#1](https://osu.ppy.sh/community/matches/61219164) |
+| H | mokipAkmed | -1 | **0** | **Team Fabulous 2** | *win by default* |
 
 ## Ruleset
 
