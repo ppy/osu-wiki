@@ -36,14 +36,15 @@ The Taiko 2v2 Convert Tourney v2 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ::{ flag=JP }:: [Noko\_BSF](https://osu.ppy.sh/users/3811831) |
-| Helper | ::{ flag=DE }:: [Drecksackblase](https://osu.ppy.sh/users/6278008), ::{ flag=PL }:: [fafik99](https://osu.ppy.sh/users/1787011), ::{ flag=US }:: [JDrago14](https://osu.ppy.sh/users/7690078), ::{ flag=MX }:: [Warfu](https://osu.ppy.sh/users/2451000) |
-| Mappool selector | ::{ flag=DE }:: [Drecksackblase](https://osu.ppy.sh/users/6278008), ::{ flag=PL }:: [fafik99](https://osu.ppy.sh/users/1787011), ::{ flag=US }:: [JDrago14](https://osu.ppy.sh/users/7690078), ::{ flag=US }:: [Ney](https://osu.ppy.sh/users/5991961), ::{ flag=MX }:: [Warfu](https://osu.ppy.sh/users/2451000) |
-| Referee | ::{ flag=FR }:: [Aidown](https://osu.ppy.sh/users/1522146), ::{ flag=HK }:: [Akali393394](https://osu.ppy.sh/users/9686628), ::{ flag=US }:: [cheese salad](https://osu.ppy.sh/users/6349821), ::{ flag=DE }:: [Drecksackblase](https://osu.ppy.sh/users/6278008), ::{ flag=PL }:: [E-M-i](https://osu.ppy.sh/users/9148286), ::{ flag=DE }:: [Jason X](https://osu.ppy.sh/users/2904140), ::{ flag=US }:: [Ney](https://osu.ppy.sh/users/5991961), ::{ flag=JP }:: [Noko\_BSF](https://osu.ppy.sh/users/3811831), ::{ flag=DE }:: [QEpicAce](https://osu.ppy.sh/users/9489153), ::{ flag=SG }:: [Spartric](https://osu.ppy.sh/users/7740442), ::{ flag=MX }:: [Warfu](https://osu.ppy.sh/users/2451000), ::{ flag=CL }:: [\[GS\]Myuka](https://osu.ppy.sh/users/10072733) |
-| Streamer | ::{ flag=DE }:: [Drecksackblase](https://osu.ppy.sh/users/6278008), ::{ flag=US }:: [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ::{ flag=NL }:: [oliebol](https://osu.ppy.sh/users/2756335), ::{ flag=US }:: [Rukairi](https://osu.ppy.sh/users/6642597), ::{ flag=SG }:: [Spartric](https://osu.ppy.sh/users/7740442), ::{ flag=CL }:: [\[GS\]Myuka](https://osu.ppy.sh/users/10072733) |
-| Commentator | ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171), ::{ flag=DE }:: [Drecksackblase](https://osu.ppy.sh/users/6278008), ::{ flag=PL }:: [fafik99](https://osu.ppy.sh/users/1787011), ::{ flag=US }:: [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ::{ flag=US }:: [Rukairi](https://osu.ppy.sh/users/6642597), ::{ flag=GB }:: [Teezel](https://osu.ppy.sh/users/7528639), ::{ flag=MX }:: [Warfu](https://osu.ppy.sh/users/2451000), ::{ flag=CL }:: [\[GS\]Myuka](https://osu.ppy.sh/users/10072733) |
-| Designer | ::{ flag=KR }:: [POCARI SWEAT](https://osu.ppy.sh/users/5082685) |
+| Organiser | ::{ flag=CL }:: [Aisha](https://osu.ppy.sh/users/2192669), ::{ flag=JP }:: [Noko\_BSF](https://osu.ppy.sh/users/3811831) |
+| Moderation | ::{ flag=DE }:: [Jason X](https://osu.ppy.sh/users/2904140) |
+| Scheduling | ::{ flag=CL }:: [Aisha](https://osu.ppy.sh/users/2192669) |
+| Mappool selector | ::{ flag=CL }:: [Aisha](https://osu.ppy.sh/users/2192669), ::{ flag=JP }:: [Noko\_BSF](https://osu.ppy.sh/users/3811831), ::{ flag=JP }:: [yuzu\_\_rinrin](https://osu.ppy.sh/users/4616752) |
+| Referee | ::{ flag=CL }:: [Aisha](https://osu.ppy.sh/users/2192669), ::{ flag=NL }:: [Boaz](https://osu.ppy.sh/users/13302996), ::{ flag=DE }:: [GDLenny](https://osu.ppy.sh/users/8406711), ::{ flag=JP }:: [Noko\_BSF](https://osu.ppy.sh/users/3811831), ::{ flag=SE }:: [Nurend](https://osu.ppy.sh/users/9905079), ::{ flag=RU }:: [Starger](https://osu.ppy.sh/users/3398715) |
+| Streamer | ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171) |
+| Commentator | ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171), ::{ flag=NL }:: [Boaz](https://osu.ppy.sh/users/13302996), ::{ flag=DE }:: [Sayira](https://osu.ppy.sh/users/7253958) |
 | Statistician | ::{ flag=JP }:: [Noko\_BSF](https://osu.ppy.sh/users/3811831) |
+| Badge designer | ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264) |
 | Wiki writer | ::{ flag=ID }:: [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
