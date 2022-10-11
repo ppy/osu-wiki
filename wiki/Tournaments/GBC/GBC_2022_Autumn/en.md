@@ -93,25 +93,25 @@ The GB Cup 2022 Autumn is run by the Team GB and various community members.
 
 ### Changes from last tournament
 
-1. Qualifier stage added, for determining captain role, result will be used in drafting phase.
-2. There will be some players been eliminated in qualifier and drafting phase.
-3. Regular stage have 4 rounds, used to be 3. only teams with 2-1 or 1-2 record will participate round 4.
-4. Round of 16 add into Play-offs.
-5. Player can't be banned in a match until he has finished a game in this match.
+1. Qualifier stage added, for determining the captain role. The results will be used in the drafting phase.
+2. Some players will be eliminated in Qualifiers and the drafting phase.
+3. The Regular stage has 4 rounds instead of 3. Only teams with a 2-1 or 1-2 record will participate in round 4.
+4. Round of 16 added into playoffs.
+5. A player cannot be banned in a match until they have finished a game in that match.
 6. The team that picks beatmaps first cannot ban players during the first 2 rounds.
 7. Picking beatmaps and banning players should be sent using a single message. If a team continues to be slow at banning, referees have rights to **ignore the ban**.
-8. "Sum of all score differences of each beatmap" added as a last method for determining ranking in the regular stage.
+8. "Sum of all score differences of each beatmap" added as a last method for determining ranking in the Regular stage.
 9. Mappool size increased by 2 maps.
-10. For Regular stage ranking, now compare beatmap difference first, then Buchholz score[^bu].
+10. For Regular stage ranking, beatmap difference is now compared first, followed by Buchholz score[^bu].
 
 The following rules are changed to consistent with rules on `MWC 4k 2022` : 
 
-11. The winner of the `!roll` could **choose** to pick first or ban first of the match.
+11. The winner of the `!roll` may **choose** to pick first or ban first of the match.
 12. A failed player's score will still get added to the team score.
 13. Teams are allowed to rematch if any team member disconnects early on during a beatmap.
 14. Referees have the right to increase or decrease timer settings.
 15. Calling a tactical timeout on a tiebreaker requires the agreement of both teams' captains.
-16. NoFail mod can used in the FreeMod bracket.
+16. The No Fail mod can used in the FreeMod bracket.
 
 ### Tournament rules
 
@@ -192,8 +192,8 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
 ### Stage instructions
 
 1. Following the Qualifier stage, all player should participate a phase to form teams , called `Drafting phase`, unpicked player will be eliminated from the tournament.
-2. Following the Drafting phase, a swiss stage will be played, called `Regular stage`. Top 16 teams will be advanced, others are eliminated from the tournament.
-3. Following the Regular stage, a single elimination stage will be played, called `Play-offs`. This means that the winner continues with their runs, and the losing team will be eliminated from the tournament, except in the bronze match.
+2. Following the drafting phase, a swiss stage will be played, called the *Regular stage*. The top 16 teams will advance, and the others get eliminated from the tournament.
+3. Following the Regular stage, a single-elimination stage will be played, called *Playoffs*. This means that the winner continues with their runs, and the losing team will be eliminated from the tournament, except in the bronze match.
 
 ### Drafting phase instructions
 
@@ -232,11 +232,11 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
    - Fewest beatmaps lost
    - Sum of all score differences of each beatmap (`∑(total score - opponent's total score)` for each beatmap played in the regular stage)
    - Dice roll
-3. On Round 4, the highest ranked `2-1` team will faced to the lowest ranked `1-2` team。
+3. On round 4, the highest ranked 2-1 team will faced to the lowest ranked 1-2 team。
 4. The top 16 teams will advanced to the Playoff stage, while the remaining players get eliminated from the tournament.
-   - This means that teams with a record of `3-X` will advance to the next stage, while teams with a record of `X-3` will be eliminated.
-   - Also, teams with a record of `2-2` will have chance to advanced by ranking top 16.
-   - Teams with a record `3-0` or `0-3` needn't play round 4, as they are already advanced or get eliminated.
+   - This means that teams with a record of 3-X will advance to the next stage, while teams with a record of X-3 will be eliminated.
+   - Also, teams with a record of 2-2 will have the chance to advance by ranking in the top 16.
+   - Teams with a record 3-0 or 0-3 need not play round 4, as they have already advanced or gotten eliminated.
 5. The results from the Regular stage will also be used for seeding teams.
 
 ### Win conditions
@@ -277,8 +277,8 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
 
 ### Mappool instructions
 
-1. There will be five separate mappools, *this might change depending on the number of incoming registrations.*.
-   - Qualifiers use separate mappool.
+1. There will be five separate mappools. *This might change depending on the number of incoming registrations.*
+   - Qualifiers will use a separate mappool.
    - Regular stage Round 1 and Round 2 use mappool \#1.
    - Regular stage Round 3 and Round 4 use mappool \#2.
    - Round of 16 and Quarterfinals use mappool \#3.
@@ -289,7 +289,7 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
    - Mappool \#1 & \#2: 15 beatmaps
    - Mappool \#3 & \#4: 17 beatmaps.
 4. Each mappool has one tiebreaker, except for the Qualifiers.
-5. Possible mod choices for the FreeMod bracket are NoFail, Hidden, FadeIn, Flashlight, and Mirror.
+5. Possible mod choices for the FreeMod bracket are No Fail, Hidden, Fade In, Flashlight, and Mirror.
 6. The tiebreaker will be played under FreeMod conditions.
 
 ### Scheduling information
