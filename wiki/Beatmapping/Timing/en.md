@@ -7,7 +7,7 @@ Timing settings provide a [ruler-like layout](/wiki/Client/Beatmap_editor/Timeli
 - Heartbeat of the [osu! cookie](/wiki/Client/Interface/Cookie) in the main menu and [song select screen](/wiki/Client/Interface#song-select)
 - Pulsation of hit objects during [kiai time](/wiki/Gameplay/Kiai_time)
 - Arrangement track added by the [Nightcore](/wiki/Gameplay/Game_modifier/Nightcore) mod
-- Appearance of bar lines in [osu!taiko](/wiki/Game_mode/osu!taiko)
+- Appearance of bar lines in [osu!taiko](/wiki/Game_mode/osu!taiko) and [osu!mania](/wiki/Game_mode/osu!mania)
 
 Timing partially reflects **properties of a specific audio file** and may change once the audio is replaced or modified in a way that affects its waveform. It is recommended to ensure that the audio file follows the [ranking criteria](/wiki/Ranking_Criteria#audio) before establishing timing.
 
