@@ -191,7 +191,7 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
 
 ### Stage instructions
 
-1. Following the Qualifier stage, all player should participate a phase to form teams , called `Drafting phase`, unpicked player will be eliminated from the tournament.
+1. Following the Qualifier stage, all player should participate a phase to form teams , called *Drafting phase*, unpicked player will be eliminated from the tournament.
 2. Following the drafting phase, a swiss stage will be played, called the *Regular stage*. The top 16 teams will advance, and the others get eliminated from the tournament.
 3. Following the Regular stage, a single-elimination stage will be played, called *Playoffs*. This means that the winner continues with their runs, and the losing team will be eliminated from the tournament, except in the bronze match.
 
