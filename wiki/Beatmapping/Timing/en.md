@@ -2,10 +2,14 @@
 
 **Timing** is the process of determining the song's musical structure by finding its [BPM](/wiki/Beatmapping/Beats_per_minute), one or more [offsets](/wiki/Disambiguation/Offset), and its [time signatures](/wiki/Music_theory/Time_signature). It also means these settings altogether.
 
-Timing settings provide a [ruler-like layout](/wiki/Client/Beatmap_editor/Timelines#timing) for temporal placement of [hit objects](/wiki/Gameplay/Hit_object) through [snapping](/wiki/Beatmapping/Snapping). This helps mappers and players by defining moments when key musical notes are played. Additionally, timing controls the [osu! cookie](/wiki/Client/Interface/Cookie) and object pulsation during [kiai time](/wiki/Gameplay/Kiai_time).
+Timing settings provide a [ruler-like layout](/wiki/Client/Beatmap_editor/Timelines#timing) for temporal placement of [hit objects](/wiki/Gameplay/Hit_object) through [snapping](/wiki/Beatmapping/Snapping). This helps mappers and players by defining moments when key musical notes are played. Additionally, timing controls the following features:
+
+- Heartbeat of the [osu! cookie](/wiki/Client/Interface/Cookie) in the main menu and [song select screen](/wiki/Client/Interface#song-select)
+- Pulsation of hit objects during [kiai time](/wiki/Gameplay/Kiai_time)
+- Arrangement track added by the [Nightcore](/wiki/Gameplay/Game_modifier/Nightcore) mod
+- Appearance of bar lines in [osu!taiko](/wiki/Game_mode/osu!taiko)
 
 Timing partially reflects **properties of a specific audio file** and may change once the audio is replaced or modified in a way that affects its waveform. It is recommended to ensure that the audio file follows the [ranking criteria](/wiki/Ranking_Criteria#audio) before establishing timing.
-```"double work" sounds weird
 
 ## Song structure
 
@@ -27,7 +31,7 @@ Timing is based on the fact that most songs adhere to certain rules and guidelin
 
 An [uninherited ("red") offset](/wiki/Beatmapping/Offset) is the amount of time between the beginning of the audio and the first downbeat. The offset is a starting point used by osu! to calculate positions of other beats. A single offset is often enough for songs that are digitally produced or edited seamlessly.
 
-Mappers use their perception and sense of rhythm to discover the basic rhythmic structure of a song, and then verify that it accurately represents the whole audio. To do that, they focus on similar sounds which repeat periodically, and tap the `T` key along the rhythm. This allows osu! to calculate how many beats appear in a song over a minute, and find its approximate [BPM](/wiki/Beatmapping/Beats_per_minute). After that, the timing is tested and adjusted if necessary:
+Mappers use their perception and sense of rhythm to discover the basic rhythmic structure of a song, and then verify that it accurately represents the whole audio. To do that, they focus on similar sounds which repeat periodically, and follow along the rhythm by tapping the `T` key or clicking the metronome button. This allows osu! to calculate how many beats appear in a song over a minute, and find its approximate [BPM](/wiki/Beatmapping/Beats_per_minute). After that, the timing is tested and adjusted if necessary:
 
 - BPM may be rounded if it yields more precise results;
 - The offset [needs to be moved](/wiki/Guides/Setting_the_Offset_on_the_Correct_Beat) to the first downbeat of a song.
@@ -40,7 +44,7 @@ A beatmap can also have several offsets, provided they accurately represent the 
 
 Most often, a song has sections with different amount of beats per minute. The change may be noticeable and expressed clearly, in which case an extra timing point is usually enough. On the other hand, gradual tempo changes require the mapper to slowly adjust the timing, adding dozens and sometimes hundreds of new offsets.
 
-If the rhythm isn't ideal, new timing points may be added to account for discrepancies between expected and real notes. These artefacts are often caused by imprecise audio edits, or by music performed without metronome. As a result, the final composition may have arbitrary tempo changes and random note drifts.
+If the rhythm isn't ideal, new timing points may be added to account for discrepancies between expected and real notes. These artefacts are often caused by imprecise audio edits, or by music performed without metronome. As a result, the final composition may have arbitrary tempo changes and random note drifts. Finding out timing for such songs is a tough feat — it's better to avoid them unless you have a lot of experience.
 
 Lastly, a new offset is required when the time signature changes. For example, a regular rhythm may change to waltz, making the measure not 4, but 3 beats long.
 
