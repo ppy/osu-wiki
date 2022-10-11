@@ -92,6 +92,21 @@ The Taiko 2v2 Convert Tourney v2 was run by various community members.
 | **öö v2** | ::{ flag=FI }:: **[Yes](https://osu.ppy.sh/users/6567244)**, ::{ flag=FI }:: [tikkanen](https://osu.ppy.sh/users/7341081) |
 | **大山翔太** | ::{ flag=JP }:: **[Saikoro](https://osu.ppy.sh/users/741819)**, ::{ flag=JP }:: [IA vocaloid](https://osu.ppy.sh/users/3023007) |
 
+## Groups
+
+Seed was determined by sum of performance points (pp) from each team
+
+| Group | Top seed | High seed | Middle seed | Low seed |
+| :-: | :-- | :-- | :-- | :-- |
+| **A** | Caiu na vila o Peixe fuzila | '-' | The Return of the Aces | what |
+| **B** | 87 | Bongo Bois | Jargentina | öö v2 |
+| **C** | j h q w 2 | Bancho Doesn't Play | QUEBRADA SENSACIONAL | nautilus fdp |
+| **D** | :flushed: | The Lucky Crabs | Unlikely convergence | OD 9.8 |
+| **E** | PP is my name, Convert is my game | Waiting in the Pain Room | 大山翔太 | Nyoomers eSports |
+| **F** | MarunouchiOL | HRdcore | Imprisoned Isolationists | Crippling Depression |
+| **G** | chad | wheelchair | thank u, next | ForelychLovers Reborn |
+| **H** | Shamikan | mokipAkmed | Team Fabulous 2 | Tacos and Schabowy |
+
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
