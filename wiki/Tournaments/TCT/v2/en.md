@@ -98,9 +98,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **🍣 guys** (::{ flag=JP }:: **[Maimaing](https://osu.ppy.sh/users/14520910)**, ::{ flag=JP }:: [Rabar0209](https://osu.ppy.sh/users/2883899)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **ＵＮＫＯ！！！！！** (::{ flag=JP }:: **[Shamirin\_mzk](https://osu.ppy.sh/users/11325757)**, ::{ flag=JP }:: [C-light](https://osu.ppy.sh/users/7955738)) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **the bros 4** (::{ flag=GB }:: **[Horiiizon](https://osu.ppy.sh/users/8071438)**, ::{ flag=CL }:: [Ulqui](https://osu.ppy.sh/users/1263669)) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **87** (::{ flag=US }:: **[Ney](https://osu.ppy.sh/users/5991961)**, ::{ flag=US }:: [JDrago14](https://osu.ppy.sh/users/7690078)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Tacos and Schabowy** (::{ flag=PL }:: **[fafik99](https://osu.ppy.sh/users/1787011)**, ::{ flag=MX }:: [Warfu](https://osu.ppy.sh/users/2451000)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **j h q w 2** (::{ flag=GB }:: **[Horiiizon](https://osu.ppy.sh/users/8071438)**, ::{ flag=US }:: [closed](https://osu.ppy.sh/users/5116922)) |
 
 ## Mappools
 
