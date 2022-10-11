@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Procedimiento de clasificación de beatmap
 
 *Véase también: [Rango (desambiguación)](/wiki/Disambiguation/Rank)*
