@@ -13,7 +13,7 @@ tags:
 
 ## osu!
 
-В osu! данный параметр задаёт размер нот и слайдеров, причём чем больше само значение, тем меньше размер объектов (на спиннеры он не влияет). Вычислить радиус нот можно по следующей формуле:
+В [osu!](/wiki/Game_mode/osu!) данный параметр задаёт размер [нот](/wiki/Gameplay/Hit_object/Hit_circle) и [слайдеров](/wiki/Gameplay/Hit_object/Slider), причём чем больше само значение, тем меньше размер объектов (на [спиннеры](/wiki/Gameplay/Hit_object/Spinner) он не влияет). Вычислить радиус нот можно по следующей формуле:
 
 `r = 54.4 - 4.48 * CS`<!-- multiplied by 1.00041 in the end to account for some bug in old replays -->,
 
@@ -21,15 +21,15 @@ tags:
 
 ## osu!taiko
 
-В osu!taiko данный параметр не влияет на игровой процесс.
+В [osu!taiko](/wiki/Game_mode/osu!taiko) данный параметр не влияет на игровой процесс.
 
 ## osu!catch
 
-В osu!catch данный параметр влияет на размер ловца и фруктов.
+В [osu!catch](/wiki/Game_mode/osu!catch) данный параметр влияет на размер ловца и [фруктов](/wiki/Gameplay/Hit_object/Fruit).
 
 ## osu!mania
 
-В osu!mania данный параметр соответствует числу клавиш.
+В [osu!mania](/wiki/Game_mode/osu!mania) данный параметр соответствует числу клавиш.
 
 ## Игровые модификаторы
 
