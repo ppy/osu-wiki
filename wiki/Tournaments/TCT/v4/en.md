@@ -89,6 +89,19 @@ The Taiko Convert Tournament v4 was run by various community members.
 | **XaiKoro** | ::{ flag=JP }:: **[Saikoro](https://osu.ppy.sh/users/741819)**, ::{ flag=ID }:: [XK2238](https://osu.ppy.sh/users/1139209) |
 | **yiff dungeon** | ::{ flag=PL }:: **[-Green tea-](https://osu.ppy.sh/users/12130367)**, ::{ flag=CA }:: [MrHawk301](https://osu.ppy.sh/users/9617608) |
 
+## Groups
+
+| Group | Top seed | Middle seed | Low seed |
+| :-: | :-- | :-- | :-- |
+| **A** | Tiger Mafia | Imagine Playing Basketball with Jesus and Getting Crossed Up | 404 enrin not found |
+| **B** | mikeneko | we can't convert | yiff dungeon |
+| **C** | Delete all finisher and sv pls | not hehe | Hoteddi\_18 |
+| **D** | Lipton | Dribblers | Reen's Students |
+| **E** | israel | Foukat cukr do prdele | can we just play this in std |
+| **F** | XaiKoro | a dom | SwitzerFrance |
+| **G** | bingle | B-Team | Universidad de Chile |
+| **H** | Bongo Gamers | Average Convert Enjoyers | :D |
+
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
