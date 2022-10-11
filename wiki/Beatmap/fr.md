@@ -103,7 +103,7 @@ Le système de charts à ensuite évolué pour devenir le projet [Beatmap Spotli
 
 *Page principal: [Concours](/wiki/Contests)*
 
-La communauté d'osu! organise régulièrement différents concours pour promouvoir la créativité des mappers motivés. Les concours vont des petites compétitions qui sont réalisés au sein de communautés locales à celles qui ont lieu à une échelle mondiale et qui prévoient des prix plus conséquent. Les gagnants reçoivent souvent des récompenses sous la forme de [tags d'osu!supporter](/wiki/osu!supporter) et d'un badge de profil personnalisé.
+La communauté d'osu! organise régulièrement différents concours pour promouvoir la créativité des mappers motivés. Les concours vont des petites compétitions qui sont réalisés au sein de communautés locales à celles qui ont lieu à une échelle mondiale et qui prévoient des prix plus conséquent. Les gagnants reçoivent souvent des récompenses sous la forme de [tags d'osu!supporter](/wiki/osu!supporter) et d'un [badge de profil](/wiki/Community/Profile_badge) personnalisé.
 
 ### Artistes Associés
 

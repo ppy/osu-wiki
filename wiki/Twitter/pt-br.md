@@ -13,6 +13,6 @@ O osu! tem várias contas de Twitter, cada uma servindo propósitos específicos
 | :-: | :-: | :-- |
 | ![osu! avatar](img/osugame.jpg) | [@osugame](https://twitter.com/osugame) | A fonte oficial de notícias e anúncios. Baixo tráfego, conteúdo de alta qualidade. |
 | ![osu!status avatar](img/osustatus.jpg) | [@osustatus](https://twitter.com/osustatus) | Dedicado a fornecer notificações de baixo tráfego sobre problemas com o site e bancho. |
-| ![Dean Herbert avatar](img/ppy.jpg) | [@ppy](https://twitter.com/ppy) | Não estritamente relacionado ao osu!, mas vamos deixar isso aqui para os interessados. A vida do ppy é dedicada ao osu!, afinal de contas. |
+| ![Dean Herbert avatar](img/ppy.jpg?2) | [@ppy](https://twitter.com/ppy) | Não estritamente relacionado ao osu!, mas vamos deixar isso aqui para os interessados. A vida do ppy é dedicada ao osu!, afinal de contas. |
 | ![osu! support avatar](img/osusupport.jpg) | [@osusupport](https://twitter.com/osusupport) | Ajudando você com problemas de conta/comunidade. |
 | ![BanchoBoat avatar](img/banchoboat.jpg) | [@banchoboat](https://twitter.com/banchoboat) | Alívio cômico quando as coisas dão errado. |
