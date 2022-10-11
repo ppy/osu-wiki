@@ -36,13 +36,14 @@ The **GB Cup 2022 Autumn** (***GBC 2022 Autumn***) is a 3v3 captain draft-based 
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, KanonBot profile badge, *TBA* CNY |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | KanonBot profile badge, *TBA* CNY |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | KanonBot profile badge, *TBA* CNY |
-| *4th place* | *TBA* CNY |
-| *5-8th place* | *TBA* CNY |
-
-Teams will also be awarded a *TBA* CNY bonus for each regular stage win.
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, KanonBot profile badge, Custom medal per team member, ¥250 CNY |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | KanonBot profile badge, Custom medal per team member, ¥250 CNY |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | KanonBot profile badge, Custom medal per team member, ¥200 CNY |
+| *4th place* | Custom medal per team member, ¥150 CNY |
+| *5-8th place* | ¥100 CNY |
+| *9-16th place* | ¥80 CNY |
+| *17-21st place* | ¥60 CNY |
+| *22-24th place* | ¥30 CNY |
 
 ## Organisation
 

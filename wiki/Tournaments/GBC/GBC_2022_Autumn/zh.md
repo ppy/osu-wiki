@@ -36,13 +36,14 @@ tags:
 
 | 名次 | 奖励 |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "冠军") | 个人资料页缎带，猫猫bot缎带, ￥*待定* |
-| ![Silver crown](/wiki/shared/crown-silver.png "亚军") | 猫猫bot缎带, ￥*待定* |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "季军") | 猫猫bot缎带, ￥*待定* |
-| *殿军* | ￥*待定* |
-| *第 5-8 名* | ￥*待定* |
-
-常规赛期间每个队伍的每个胜场会有￥*待定*的奖金。
+| ![Gold crown](/wiki/shared/crown-gold.png "冠军") | 个人资料页缎带，猫猫bot缎带, 全队每人一个定制奖牌, ￥250 |
+| ![Silver crown](/wiki/shared/crown-silver.png "亚军") | 猫猫bot缎带, 全队每人一个定制奖牌, ￥250 |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "季军") | 猫猫bot缎带, 全队每人一个定制奖牌, ￥200 |
+| *殿军* | 全队每人一个定制奖牌, ￥150 |
+| *第 5-8 名* | ￥100 |
+| *第 9-16 名* | ￥80 |
+| *第 17-21 名* | ￥60 |
+| *第 22-24 名* | ￥30 |
 
 ## 组织
 
