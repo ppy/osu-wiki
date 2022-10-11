@@ -6,7 +6,7 @@ date: 2021-09-02 08:00:00 +0000
 
 You've had your say, and the results are in. Check out how your opinions on Performance Points & Star Rating compare to the rest of the community!
 
-![](/wiki/shared/news/2021-07-27-performance-points-star-rating-updates/star-rating.jpg)
+![](/wiki/shared/news/banners/star-rating.jpg)
 
 Two weeks of voting later, and we now have a pretty solid picture of where the community stands on what is possibly one of the most contentious topics there is.
 

@@ -109,7 +109,7 @@ Seiring berjalannya waktu, sistem Ranking Chart ini kemudian perlahan mulai beru
 
 *Artikel utama: [Kontes](/wiki/Contests)*
 
-Komunitas osu! secara rutin mengadakan kontes-kontes yang berbeda untuk mempromosikan kreativitas dan memberi penghargaan kepada mapper yang telah melakukan yang terbaik. Kisaran kontes dimulai dari kompetisi kecil, seperti kompetisi yang dibuat dalam komunitas lokal, hingga kompetisi besar yang dilakukan dalam skala internasional dan memiliki hadiah yang menakjubkan. Pemenang sering kali menerima penghargaan berupa [osu!supporter](/wiki/osu!supporter) dan sebuah lencana profil.
+Komunitas osu! secara rutin mengadakan kontes-kontes yang berbeda untuk mempromosikan kreativitas dan memberi penghargaan kepada mapper yang telah melakukan yang terbaik. Kisaran kontes dimulai dari kompetisi kecil, seperti kompetisi yang dibuat dalam komunitas lokal, hingga kompetisi besar yang dilakukan dalam skala internasional dan memiliki hadiah yang menakjubkan. Pemenang sering kali menerima penghargaan berupa [osu!supporter](/wiki/osu!supporter) dan sebuah [lencana profil](/wiki/Community/Profile_badge).
 
 ### Featured Artist
 
