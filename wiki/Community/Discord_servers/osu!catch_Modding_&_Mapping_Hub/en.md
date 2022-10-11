@@ -6,7 +6,7 @@
 
 #### osu!catch Modding & Mapping Hub
 
-![Server banner](img/banner.jpg "osu!catch Modding & Mapping Hub, designed by Greaper")
+![Server banner](img/banner.jpg "osu!catch Modding & Mapping Hub server banner, designed by Greaper")
 
 |  |  |
 | :-- | :-- |
