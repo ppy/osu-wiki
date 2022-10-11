@@ -17,6 +17,7 @@ tags:
 |  |  |
 | :-- | :-- |
 | Invite link | <https://discord.gg/osumedalhunters> |
+| Alternative invite link | <https://discord.gg/8qpNTs6> |
 
 :::
 
