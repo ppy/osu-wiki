@@ -436,30 +436,15 @@ Sunday, 3 May 2020:
 
 ### General rules
 
-1. A valid team formation will be:
-   - A participant with rank between #1 and #150
-   - A participant with rank of #151 or below
+1. There can't be two players (each one) with more than 11,000 pp in the same team.
 2. The maximum team size is **2 players**, meaning there will be no backup or replacement.
 3. The scoring system used will be **Score V2**.
-4. Teams will first advance through the Qualifiers to qualify, and the top 24 teams will then proceed to the Group Stage, where they will get filtered again with the top 2 teams per each group proceeding to the Knockout Stage.
+4. Teams will be seeded by performance points (pp) first and after that will be put into 8 groups of 4, and then top 16 teams will then proceed to the Group Stage with the top 2 teams per each group proceeding to the Knockout Stage.
 5. The Taiko 2v2 Convert Tourney v2 will use double-elimination bracket, which means that there will be a losers' bracket and winners' bracket.
-6. Even in a tournament setting, osu! is still a game. Please respect each other, be friendly, and play fair.
+6. Reschedules will only be considered if both teams agree to a time. This needs to be done and notified to the tournament staff before **Friday at 23:00 UTC** in the particular week when the match takes place.
+7. Even in a tournament setting, osu! is still a game. Please respect each other, be friendly, and play fair.
 
-### In-game conditions
-
-#### Qualifiers
-
-1. Every player will be invited to a multiplayer room at match time.
-2. There will be no warmups, no ban phase, and no pick phase.
-3. During the Qualifiers, each map will be played twice, but leaving after playing them once is allowed. Only the best score will be counted.
-4. There will be a maximum time of **2 minutes** in between maps. The referee will use the `!mp start 10` command to start the game.
-5. If a player gets disconnected for some reason in the first 10 seconds of the song, the referee will abort the game and restart it.
-   - If it happens after 10 seconds, the score before the disconnect will be counted.
-6. The referee can penalise teams if any player presents bad behaviour in the game room.
-7. Once the match has finished, the room will be closed.
-8. If you fail, the score **will still be counted**.
-
-#### Group Stage and Knockouts
+### In-game procedure
 
 1. Every player will be invited to a multiplayer room at match time.
 2. The referee can wait a maximum of **10 minutes** for each player to attend.
@@ -468,23 +453,15 @@ Sunday, 3 May 2020:
 3. Captains will decide if they want to pick a warmup map (maximum limit is **3:30**) and the order does not matter.
 4. Captains will use the `!roll` command. Each team will ban 1 map starting from the one who rolled the lowest.
 5. After the bans, the team that got the higher roll picks their first map then the other team picks theirs. This is continued until the match is done.
-6. There will be a **2 minutes** time limit for all phases.
-7. If the time limit is exceeded:
-   - Ban: No beatmap will be banned.
-   - Pick: The pick turn is transferred to the opponent. This does not affect the subsequent order.
-   - Before the start: The referee will use `!mp start 10` to start the game.
-8. If a player gets disconnected for some reason in the first 10 seconds of the song, the referee will abort the game and restart it.
+6. If a player gets disconnected for some reason in the first 10 seconds of the song, the referee will abort the game and restart it.
    - If it happens after 10 seconds, the score before the disconnect will be counted.
-9. The referee can penalise teams if any player presents bad behaviour in the game room.
-10. Once the match has finished, the room will be closed.
-11. FreeMod maps are *force mod*, so at least 1 team member **has to pick a mod**.
-12. Team members are not allowed to pick the same mod combination.
-13. If a player fails in a song and does not revive, then their score is not counted, but if they do revive it will count. If every player in a team fails, then the sum of their scores will count.
-14. If there is a tie, then no points are added to any team, but the map will be considered as played. If there is a tie on the tiebreaker, then then a rematch will happen using FreeMod conditions.
+7. The referee can penalise teams if any player presents bad behaviour in the game room.
+8. Once the match has finished, the room will be closed.
+9. If a player fails in a song and does not revive, then their score is not counted, but if they do revive it will count. If every player in a team fails, then the sum of their scores will count.
+10. If there is a tie, then no points are added to any team, but the map will be considered as played. If there is a tie on the tiebreaker, then then a rematch will happen using FreeMod conditions.
 
 ### Win conditions
 
-1. Group Stage: Best-of-7 (first to 4 points)
-2. Round of 16: Best-of-9 (first to 5 points)
-3. Quarterfinals and Semifinals: Best-of-11 (first to 6 points)
-4. **Finals and Grand Finals**: Best-of-13 (first to 7 points)
+1. Group Stage, Round of 16, and Quarterfinals: Best-of-7 (first to 4 points)
+2. Semifinals and Finals: Best-of-9 (first to 5 points)
+3. Grand Finals: Best-of-11 (first to 6 points)
