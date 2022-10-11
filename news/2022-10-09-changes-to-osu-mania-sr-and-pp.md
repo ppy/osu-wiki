@@ -18,7 +18,7 @@ Let's dive straight into what's new:
 
 An initial pass over all beatmaps to update their star ratings. During this period, new scores will potentially be calculated using the updated calculations, and as such will not match older scores. There may be discrepancies in ordering and display between the game client and web site.
 
-### 🏃 Background user total recalculations \[2022-10-10\]
+### ✅ Background user total recalculations \[2022-10-10\]
 
 Starting from the user at rank #1 and working outwards, each user's total pp will be recalculated.
 
@@ -29,17 +29,17 @@ During this maintenance, the following will also occur:
 - Inactive users (anyone that has not played the game in 3 months) will be delisted.
 - Scores in the "best performance" profile section may look to be out of order, or not visible at all during this phase. This will resolve completely during the reindexing phase listed below.
 
-### ⏳ Re-enabling of global rank history updates \[2022-10-11\]
+### ✅ Re-enabling of global rank history updates \[2022-10-11\]
 
 Rank history graphs updates will be enabled and updated again. At this point, all users' global leaderboard ranks will be stable going forward.
 
-### ⏳ Re-processing beatmap scores \[2022-10-11 ~ 2022-10-12\]
+### ✅ Re-processing beatmap scores \[2022-10-11\]
 
 There are currently 1.6 *billion* scores in osu!. This step will go through all users (starting at rank #1) and update individual pp values on profiles.
 
 During this period, scores on profiles will start to show correct values, but still be out of order. Beatmap leaderboards may not show new values yet.
 
-### ⏳ Reindexing \[2022-10-13\]
+### ⏳ Reindexing \[2022-10-11\]
 
 This will fix scores being out of order on profiles, and in some rare cases not being displayed at all.
 
