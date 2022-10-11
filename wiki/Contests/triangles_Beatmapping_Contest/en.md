@@ -22,13 +22,15 @@ Submissions to this contest include:
 | Submission phase | 2022-05-30/2022-07-27 |
 | Judging phase | 2022-07-28/2022-08-31 |
 | Community vote and lazer playlists | 2022-09-06/2022-09-25 |
-| Results announcement livestream | TBD |
+| Results announcement livestream | 2022-10-02 |
 
 ## Links
 
 - [Contest listing](https://osu.ppy.sh/community/contests/147)
-- [Contest announcement](https://osu.ppy.sh/home/news/2022-05-31-triangles)
-- [Voting announcement](https://osu.ppy.sh/home/news/2022-09-08-triangles-voting-phase)
+- [Contest news article](https://osu.ppy.sh/home/news/2022-05-31-triangles)
+- [Voting news article](https://osu.ppy.sh/home/news/2022-09-08-triangles-voting-phase)
+- [Results livestream](https://www.twitch.tv/videos/1607587424)
+- [Results news article](https://osu.ppy.sh/home/news/2022-10-06-results-triangles)
 
 ## Teams
 
@@ -46,6 +48,25 @@ Submissions to this contest include:
 | ULTRA ICE TEA | ::{ flag=GB }:: [-jordan-](https://osu.ppy.sh/users/7288862), ::{ flag=IE }:: [hytaa](https://osu.ppy.sh/users/17190075), ::{ flag=JP }:: [too](https://osu.ppy.sh/users/12196931), ::{ flag=DE }:: [Celektus](https://osu.ppy.sh/users/4294993) | ::{ flag=HU }:: [Himada](https://osu.ppy.sh/users/10959366) | [Beatmap link](https://osu.ppy.sh/beatmapsets/1841926) |
 | Δ = b² – 4ac | ::{ flag=BR }:: [Kalindraz](https://osu.ppy.sh/users/2313166), ::{ flag=BR }:: [NEURONIO](https://osu.ppy.sh/users/7198334), ::{ flag=BR }:: [Sakura Airi](https://osu.ppy.sh/users/8682057), ::{ flag=BR }:: [Maot](https://osu.ppy.sh/users/3914271) | ::{ flag=BR }:: [K4L1](https://osu.ppy.sh/users/11334594), ::{ flag=BR }:: [Maot](https://osu.ppy.sh/users/3914271) | [Beatmap link](https://osu.ppy.sh/beatmapsets/1842004) |
 | 三角形.tar.gz | ::{ flag=NO }:: [Fisky](https://osu.ppy.sh/users/8352623), ::{ flag=ID }:: [ScubDomino](https://osu.ppy.sh/users/8972308), ::{ flag=CN }:: [fanzhen0019](https://osu.ppy.sh/users/418699) | ::{ flag=RU }:: [Tommy Phelps](https://osu.ppy.sh/users/10974581), ::{ flag=DZ }:: [VenerableNyanta](https://osu.ppy.sh/users/12243368) | [Beatmap link](https://osu.ppy.sh/beatmapsets/1842041) |
+
+## Results
+
+| Rank | Team submission | Mapper panel | Storyboarder panel | Averaged total |
+| :-- | :-- | :-- | :-- | :-- |
+| \#1 | [Crazy Thursday](https://osu.ppy.sh/beatmapsets/1841885) | 143 | 127 | **254.11** |
+| \#2 | [Crush the Candy Boys](https://osu.ppy.sh/beatmapsets/1841845) | 142 | 105 | **231.22** |
+| \#3 | [三角形.tar.gz](https://osu.ppy.sh/beatmapsets/1842041) | 84 | 149 | **223.67** |
+| \#4 | [absolutno pofig](https://osu.ppy.sh/beatmapsets/1841846) | 81 | 101 | **173** |
+| \#5 | [Δ = b² – 4ac](https://osu.ppy.sh/beatmapsets/1842004) | 78 | 84 | **153.33** |
+| \#6 | [?](https://osu.ppy.sh/beatmapsets/1841847) | 51 | 106 | **151.33** |
+| \#7 | [TV Sizers](https://osu.ppy.sh/beatmapsets/1841923) | 115 | 48 | **150.22** |
+| \#8 | [ULTRA ICE TEA](https://osu.ppy.sh/beatmapsets/1841926) | 68 | 84 | **144.44** |
+| \#9 | [Team Funny](https://osu.ppy.sh/beatmapsets/1842149) | 88 | 26 | **104.2222222** |
+| \#10 | [GokuLook Princesa](https://osu.ppy.sh/beatmapsets/1841839) | 69 | 42 | **103.33** |
+| \#11 | [Penta-force](https://osu.ppy.sh/beatmapsets/1841996) | 36 | 35 | **67** |
+| \#12 | dreamers | 9 | 8 | **16** |
+
+See detailed judging [here](https://docs.google.com/spreadsheets/d/1VwajV4Ibn-k_sNHiiPAXX0raXiX34-v7_6SBWUq2pPY/edit#gid=0).
 
 ## Prizes
 

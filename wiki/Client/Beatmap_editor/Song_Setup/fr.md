@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 38a8843588ca147b28f12cfd3c3c04e53521f28b
+---
+
 # Fenêtre Song Setup
 
 Song Setup est la quatrième section de [l'éditeur de beatmap](/wiki/Client/Beatmap_editor). Elle contient les métadonnées et les paramètres généraux de configuration de la beatmap.
@@ -133,7 +138,7 @@ Alors que les mods Half Time *(HT)* et Double Time *(DT)* ne modifient pas la va
 
 *Page principale : [overall difficulty](/wiki/Beatmapping/Overall_difficulty)*
 
-![Tableau détaillé de l'OD](img/ODTable.png "Tableau détaillé de l'OD")
+![Tableau détaillé de l'OD](/wiki/shared/ODTable.png "Tableau détaillé de l'OD")
 
 *Remarque : le tableau ci-dessus s'applique uniquement au mode de jeu osu!.*\
 *Remarque : Sur la page de la beatmap, l'overall difficulty est indiquée sous le nom de Précision.*

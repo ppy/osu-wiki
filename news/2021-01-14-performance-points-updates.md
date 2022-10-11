@@ -6,7 +6,7 @@ date: 2021-01-16 05:00:00 +0000
 
 Thanks to the effort of a number of public contributors, we're excited to announce a new set of changes to osu!'s performance points (pp) algorithm that should help freshen things up at high levels of play. Read on for more details!
 
-![](/wiki/shared/news/2021-01-14-performance-points-updates/star-rating.jpg)
+![](/wiki/shared/news/banners/star-rating.jpg)
 
 Set off during the last few days of 2020, these new incoming changes represent an effort from various members of the community to try and address long-standing issues with one of the game's most important progression systems.
 

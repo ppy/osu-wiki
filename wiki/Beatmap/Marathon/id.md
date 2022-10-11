@@ -4,7 +4,7 @@ stub: true
 
 # Marathon
 
-**Marathon** merupakan istilah yang digunakan untuk mendeskripsikan sebuah [beatmap](/wiki/Beatmap) yang berdurasi lima menit atau lebih. Pada umumnya, beatmap-beatmap marathon dibuat secara kolaboratif dengan beban pengerjaan yang merata antar setiap mapper yang terlibat di dalamnya.
+**Marathon** merupakan istilah yang digunakan untuk mendeskripsikan sebuah [beatmap](/wiki/Beatmap) yang berdurasi lima menit atau lebih. Pada umumnya, beatmap-beatmap marathon dibuat [secara kolaboratif](/wiki/Beatmap/Beatmap_collaborations) dengan beban pengerjaan yang merata antar setiap mapper yang terlibat di dalamnya.
 
 ## Sejarah
 
