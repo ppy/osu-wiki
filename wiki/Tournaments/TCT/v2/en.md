@@ -436,7 +436,7 @@ Sunday, 3 May 2020:
 
 ### General rules
 
-1. There can't be two players (each one) with more than 11,000 pp in the same team.
+1. There can't be two players having more than 11,000 pp each in the same team.
 2. The maximum team size is **2 players**, meaning there will be no backup or replacement.
 3. The scoring system used will be **Score V2**.
 4. Teams will be seeded by performance points (pp) first and after that will be put into 8 groups of 4, and then top 16 teams will then proceed to the Group Stage with the top 2 teams per each group proceeding to the Knockout Stage.
