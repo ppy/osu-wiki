@@ -16,7 +16,9 @@ Le nom du jeu, osu!, ne doit pas prendre de majuscule. La marque officielle osu!
 Pour toutes les autres utilisations d'`osu!` dans un projet, un produit, une application ou un tournoi/concours, il faut ajouter un espace entre osu! et le nom qui le suit. Exemples :
 
 - `osu! World Cup`
+- `osu! University`
 - `osu! wiki`
+
 <!-- TODO: Find other examples -->
 
 ## Logo d'osu! en forme de cookie
