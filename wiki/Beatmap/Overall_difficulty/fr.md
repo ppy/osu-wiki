@@ -5,7 +5,7 @@ tags:
   - OD
   - spinner difficulty
   - précision
-  - fenêtre de hit
+  - fenêtre de timing
 ---
 
 # Overall difficulty
@@ -32,7 +32,7 @@ Les fenêtres de timing pour les jugements peuvent être visualisées en passant
 | 100 | `140 - 8 * OD` |
 | 50 | `200 - 10 * OD` |
 
-![](/wiki/shared/ODTable.png "Comparaison des fenêtres de hit pour différentes combinaisons d'OD et de modificateurs de jeu. Pour les mods Half Time et Double Time, les valeurs d'OD indiquées ne sont valables que pour les  300, et seraient différentes pour les 100 et 50.")
+![](/wiki/shared/ODTable.png "Comparaison des fenêtres de timing pour différentes combinaisons d'OD et de modificateurs de jeu. Pour les mods Half Time et Double Time, les valeurs d'OD indiquées ne sont valables que pour les 300, et seraient différentes pour les 100 et 50.")
 
 ### osu!taiko
 
