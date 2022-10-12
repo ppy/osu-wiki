@@ -33,13 +33,13 @@ Le serveur héberge également les fondations pour le développement, les tests 
 
 | Date | Événement | Liens associés |
 | :-- | :-- | :-- |
-| 09-08-2021/13-08-2021 | Semaine d'interview de top player (contrôle des nerfs) | [Playlist YouTube](https://www.youtube.com/playlist?list=PL_QhgSQeB2zCEiwKnHwliUGbtjE4hI0MG) |
-| 30-08-2021/03-09-2021 | Semaine d'interview de top player (blocage mental) | [Playlist YouTube](https://www.youtube.com/playlist?list=PL_QhgSQeB2zD4GdoGOympAkhhSIytKect) |
-| 27-09-2021/01-10-2021 | Semaine d'interview de top player (haute AR) | [Playlist YouTube](https://www.youtube.com/playlist?list=PL_QhgSQeB2zDGmnvGdJJLGei0iLvmvtZg) |
-| 11-10-2021/15-10-2021 | Semaine d'interview de top player (stratégie de tournois) | [Playlist YouTube](https://www.youtube.com/playlist?list=PL_QhgSQeB2zBFW_YpeW_F_lDQRO2J9IOl) |
-| 01-02-2022/01-03-2022 | Étude sur l'endurance | [Document d'information](https://docs.google.com/document/d/14yY4_9E6q8kbOwPGtvWG7z5MCQsQGrX168hAOZFAK_M/edit), [document de résultats](https://docs.google.com/document/d/1aJmRXZTFCR2FirXQHC5f-TTYUCimpBPWGBg-bZPb_YE/edit), [vidéo de discussion des résultats](https://www.youtube.com/watch?v=BINGyy43T4U) |
-| 20-02-2022 | [osu! community meeting](/wiki/Community/osu!_community_meetings) #11 | [VOD YouTube](https://www.youtube.com/watch?v=d66pU5lsHvE), [article de résumé](https://osu.ppy.sh/home/news/2022-03-07-community-meetings-recap) |
-| 06-03-2022 | [osu! community meeting](/wiki/Community/osu!_community_meetings) #12 | [VOD YouTube](https://www.youtube.com/watch?v=HimCHAnPCCY), [article de résumé](https://osu.ppy.sh/home/news/2022-03-07-community-meetings-recap) |
-| 20-05-2022/22-05-2022 | [osu! Talk Event: Overcoming Obstacles](/wiki/Community/osu!_Talk_Event/Overcoming_Obstacles) | [Playlist YouTube](https://www.youtube.com/playlist?list=PL_QhgSQeB2zC5_Go2esnB7_64Egv5HmSL) |
-| 01-10-2022/31-10-2022 | osu! Improvement Month | [Post du forum](https://osu.ppy.sh/community/forums/topics/1649135), [playlist des interviews des top players](https://www.youtube.com/playlist?list=PL_QhgSQeB2zDRSd-xm9lQrkmGY2wJTXvH) |
-| 08-10-2022/30-10-2022 | King of the Hill tournament | [Post du forum](https://osu.ppy.sh/community/forums/topics/1649138) |
+| 09/08/2021 - 13/08/2021 | Semaine d'interview de top player (contrôle des nerfs) | [Playlist YouTube](https://www.youtube.com/playlist?list=PL_QhgSQeB2zCEiwKnHwliUGbtjE4hI0MG) |
+| 30/08/2021 - 03/09/2021 | Semaine d'interview de top player (blocage mental) | [Playlist YouTube](https://www.youtube.com/playlist?list=PL_QhgSQeB2zD4GdoGOympAkhhSIytKect) |
+| 27/09/2021 - 01/10/2021 | Semaine d'interview de top player (haute AR) | [Playlist YouTube](https://www.youtube.com/playlist?list=PL_QhgSQeB2zDGmnvGdJJLGei0iLvmvtZg) |
+| 11/10/2021 - 15/10/2021 | Semaine d'interview de top player (stratégie de tournois) | [Playlist YouTube](https://www.youtube.com/playlist?list=PL_QhgSQeB2zBFW_YpeW_F_lDQRO2J9IOl) |
+| 01/02/2022 - 01/03/2022 | Étude sur l'endurance | [Document d'information](https://docs.google.com/document/d/14yY4_9E6q8kbOwPGtvWG7z5MCQsQGrX168hAOZFAK_M/edit), [document de résultats](https://docs.google.com/document/d/1aJmRXZTFCR2FirXQHC5f-TTYUCimpBPWGBg-bZPb_YE/edit), [vidéo de discussion des résultats](https://www.youtube.com/watch?v=BINGyy43T4U) |
+| 20/02/2022 | [osu! community meeting](/wiki/Community/osu!_community_meetings) #11 | [VOD YouTube](https://www.youtube.com/watch?v=d66pU5lsHvE), [article de résumé](https://osu.ppy.sh/home/news/2022-03-07-community-meetings-recap) |
+| 06/03/2022 | [osu! community meeting](/wiki/Community/osu!_community_meetings) #12 | [VOD YouTube](https://www.youtube.com/watch?v=HimCHAnPCCY), [article de résumé](https://osu.ppy.sh/home/news/2022-03-07-community-meetings-recap) |
+| 20/05/2022 - 22/05/2022 | [osu! Talk Event: Overcoming Obstacles](/wiki/Community/osu!_Talk_Event/Overcoming_Obstacles) | [Playlist YouTube](https://www.youtube.com/playlist?list=PL_QhgSQeB2zC5_Go2esnB7_64Egv5HmSL) |
+| 01/10/2022 - 31/10/2022 | osu! Improvement Month | [Post du forum](https://osu.ppy.sh/community/forums/topics/1649135), [playlist des interviews des top players](https://www.youtube.com/playlist?list=PL_QhgSQeB2zDRSd-xm9lQrkmGY2wJTXvH) |
+| 08/10/2022 - 30/10/2022 | King of the Hill tournament | [Post du forum](https://osu.ppy.sh/community/forums/topics/1649138) |

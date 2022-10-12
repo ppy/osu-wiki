@@ -13,20 +13,20 @@ tags:
 
 #### osu! Medal Hunters
 
-![Logo du serveur](img/logo.png "Le logo du serveur Discord des Chasseurs de Médailles, conçu par Tanza3D")
+![Logo du serveur](img/logo.png "Le logo du serveur Discord Medal Hunters, conçu par Tanza3D")
 
 |  |  |
 | :-- | :-- |
 | Lien d'invitation | <https://discord.gg/osumedalhunters> |
-| Lien alternatif d'invitation | <https://discord.gg/8qpNTs6> |
+| Lien d'invitation alternatif | <https://discord.gg/8qpNTs6> |
 
 :::
 
-*Attention : Bien que nous vous encouragions à travailler ensemble pour trouver les médailles Hush-Hush, vous pouvez également les trouver par vous-même. Sachez que le serveur contient des solutions pour les médailles Hush-Hush*.
+*Attention : Bien que nous vous encouragions à travailler ensemble pour trouver les médailles Hush-Hush, vous êtes également encouragés à les trouver par vous-même. Sachez que le serveur contient des solutions pour les médailles Hush-Hush*.
 
 **osu! Medal Hunters** est le serveur [Discord](https://discord.com) principal utilisé par la communauté des chasseurs de médailles, où les gens discutent des [médailles](/wiki/Médailles) et de leurs [solutions](/wiki/Médailles/Unlock_requirements).
 
-Un grand nombre de chasseurs de médailles travaillent ensemble afin de trouver des solutions pour chaque nouvelle médaille Hush-Hush ajoutée au jeu. Chaque fois que de nouvelles médailles sont publiées, elles sont annoncées par l'un des membres du personnel du serveur, des fils de discussion sont créés pour chaque médaille et les gens travaillent ensemble pour trouver des solutions.
+Un grand nombre de chasseurs de médailles travaillent ensemble afin de trouver des solutions pour chaque nouvelle médaille Hush-Hush ajoutée au jeu. Chaque fois que de nouvelles médailles sont ajoutées, elles sont annoncées par l'un des membres du staff du serveur, des fils de discussion sont créés pour chaque médaille et les joueurs travaillent ensemble pour trouver des solutions.
 
 ## Staff
 
