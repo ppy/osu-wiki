@@ -5,25 +5,14 @@
 
 set -e
 
-CONTAINER_WORKDIR="/root"
-
-# Problem:
-# - Node.js dependencies in the container are installed in /root/node_modules.
-# - Markdown linter, remark, is run through npx, which doesn't have module discovery options.
-# - A volume mounted from host shadows everything in the mount point inside the container.
-# - Symlinking node_modules or copying it into the osu-wiki repository will pollute it; don't wanna do cleanup.
-#
-# Solution:
-# - Mount everything from the osu-wiki directory inside /root. This way, node_modules is properly recognized.
-_mounts() {
-  osu_wiki_root=$( cd -- $( dirname $0 ) && pwd )
-  while read file; do
-    printf -- "--mount type=bind,source=${osu_wiki_root}/${file},target=/${CONTAINER_WORKDIR}/${file} "
-  done < <( ls -aA )
-}
-
+# Do not shadow node_modules by the host directory: https://stackoverflow.com/q/29181032#comment97216954_37898591
 _docker() {
-  docker run $( _mounts ) --workdir ${CONTAINER_WORKDIR} osu-wiki "$@"
+  osu_wiki_root=$( cd -- $( dirname $0 ) && pwd )
+  container_workdir="/osu-wiki"
+  docker run \
+    --volume ${osu_wiki_root}:${container_workdir}/ \
+    --volume ${container_workdir}/node_modules \
+    --workdir ${container_workdir} osu-wiki "$@"
 }
 
 main() {
