@@ -30,17 +30,17 @@ Un grand nombre de chasseurs de médailles travaillent ensemble afin de trouver 
 
 ## Staff
 
-| Role | Utilisateur (Identifiant Discord) |
+| Rôle | Utilisateur (Identifiant Discord) |
 | :-- | :-- |
 | Propriétaire du serveur | ::{ flag=CA }:: [Remyria](https://osu.ppy.sh/users/1699875) (Remyria#0001) |
 | Administrateurs du serveur | ::{ flag=GB }:: [Tanza3D](https://osu.ppy.sh/users/10379965) (Hubz#6283, Tanza#8733), ::{ flag=DE }:: [mulraf](https://osu.ppy.sh/users/1309242) (mulraf#1087) |
-| Community manager et administrateurs du serveur | ::{ flag=UA }:: [MegaMix_Craft](https://osu.ppy.sh/users/18152711) (MegaMix_Craft#1151), ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) (chromb#4528), ::{ flag=CA }:: [Remyria](https://osu.ppy.sh/users/1699875) (Remyria#0001) |
+| Community managers et administrateurs du serveur | ::{ flag=UA }:: [MegaMix_Craft](https://osu.ppy.sh/users/18152711) (MegaMix_Craft#1151), ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) (chromb#4528), ::{ flag=CA }:: [Remyria](https://osu.ppy.sh/users/1699875) (Remyria#0001) |
 | Modérateur du serveur | ::{ flag=US }:: [bentokage](https://osu.ppy.sh/users/13175102) (bento#6969) |
 
-## Verification
+## Vérification
 
-Tout le monde peut envoyer des messages dans le serveur par défaut, mais en s'authentifiant avec un compte osu! à l'aide du bot Osekai Authenticator, les membres sont autorisés à envoyer des images et obtiennent un pourcentage d'achèvement de médaille automatiquement mis à côté de leur pseudo.
+Tout le monde peut envoyer des messages dans le serveur par défaut, mais en s'authentifiant avec un compte osu! à l'aide du bot Osekai Authenticator, les membres sont autorisés à envoyer des images et obtiennent un pourcentage de réussite des médailles automatiquement ajouté à côté de leur pseudo.
 
 ![Message d'authentification du bot Osekai Authenticator](img/authentication_example.png "En rejoignant le serveur, le bot Osekai Authenticator enverra un message d'authentification privé.")
 
-![Pseudo avec pourcentage d'achèvement de la médaille](img/medals_percentage.png "Les pseudonymes sont automatiquement modifiés pour indiquer le nombre de médailles obtenues par chaque utilisateur.")
+![Pseudo avec pourcentage de réussite des médilles](img/medals_percentage.png "Les pseudonymes sont automatiquement modifiés pour indiquer le nombre de médailles obtenues par chaque utilisateur.")
