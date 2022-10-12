@@ -8,7 +8,7 @@
 - [Форум](/wiki/Community/Forum)
 - [Internet Relay Chat](/wiki/Community/Internet_Relay_Chat) (IRC)
 - [Діскорд сервер osu!dev](/wiki/Community/osu!dev_Discord_server)
-- [Сервер спiльноти у Discord](/wiki/Community/Discord_servers)
+- [Discord сервери спiльноти](/wiki/Community/Discord_servers)
 - [Офлайн організації](/wiki/Community/Organisations)
 
 ## Проекти
