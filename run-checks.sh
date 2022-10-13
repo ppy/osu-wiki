@@ -57,7 +57,7 @@ main() {
   _docker bash scripts/ci/inspect_file_sizes.sh --target "${INTERESTING_FILES}"
 
   printf -- "\n--- Run remark ---\n\n"
-  _docker bash scripts/ci/run_remark.sh ${FIRST_COMMIT_HASH} HEAD
+  _docker bash scripts/ci/run_remark.sh --target "${INTERESTING_ARTICLES}"
 
   printf -- "\n--- Run yamllint ---\n\n"
   YAMLLINT_TARGET_FILES=$( echo "${INTERESTING_FILES}" | grep -e .yaml$ -e .md$ )

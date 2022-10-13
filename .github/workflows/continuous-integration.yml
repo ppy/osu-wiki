@@ -47,7 +47,9 @@ jobs:
         run: npm ci
 
       - name: run remark on changed files
-        run: bash scripts/ci/run_remark.sh ${{ github.sha }}
+        run: |
+          REMARK_TARGET_FILES=$( echo "${{ env.INTERESTING_FILES }}" | grep -e .md$ )
+          bash scripts/ci/run_remark.sh --target "${REMARK_TARGET_FILES}"
 
       - name: set up Python
         uses: actions/setup-python@v4
