@@ -19,6 +19,20 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: detect changed files
+        run: |
+          INTERESTING_FILES=$(
+            sort -u < <(
+              # Changes that are not committed (staged + unstaged + untracked), but without deleted files
+              git status --short -v -v --no-renames --porcelain | awk '$1 != "D" { print $2 }'
+              # Changes committed so far (may overlap with the above)
+              git diff --no-renames --name-only --diff-filter=d ${{ github.sha }}^
+            )
+          )
+          echo 'INTERESTING_FILES<<EOF' >> $GITHUB_ENV
+          echo "${INTERESTING_FILES}" >> $GITHUB_ENV
+          echo 'EOF' >> $GITHUB_ENV
+
       - name: inspect binary file sizes
         shell: bash
         run: bash scripts/ci/inspect_binary_file_sizes.sh ${{ github.sha }} ${{ github.sha }}
@@ -47,7 +61,8 @@ jobs:
 
       - name: run yamllint on .yaml and .md files
         run: |
-          python scripts/ci/run_yamllint.py --config .yamllint.yaml
+          YAMLLINT_TARGET_FILES=$( echo "${{ env.INTERESTING_FILES }}" | grep -e .yaml$ -e .md$ )
+          python scripts/ci/run_yamllint.py --config .yamllint.yaml --target "${YAMLLINT_TARGET_FILES}"
 
       - name: find broken wikilinks
         shell: bash
@@ -59,8 +74,8 @@ jobs:
             exit 0
           fi
 
-          ARTICLES=$( git diff --diff-filter=d --name-only ${{ github.sha }}^ ${{ github.sha }} "wiki/**/*.md" "news/*.md" )
-          osu-wiki-tools check-links --target $ARTICLES
+          WIKILINK_TARGET_FILES=$( echo "${{ env.INTERESTING_FILES }}" | grep -e ^wiki/ -e ^news/ | grep -e .md$ || true )
+          osu-wiki-tools check-links --target "${WIKILINK_TARGET_FILES}"
 
       - name: check if translations are marked as outdated
         shell: bash

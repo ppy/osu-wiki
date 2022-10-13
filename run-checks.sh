@@ -23,7 +23,22 @@ main() {
   fi
 
   FIRST_COMMIT_HASH=$( git log master..${CURRENT_BRANCH} --pretty=format:%H | tail -1 )
-  ARTICLES=$( git diff --diff-filter=d --name-only ${FIRST_COMMIT_HASH}^ "wiki/**/*.md" "news/*.md" )
+
+  INTERESTING_FILES=$(
+    sort -u < <(
+      # Changes that are not committed (staged + unstaged + untracked), but without deleted files
+      git status --short -v -v --no-renames --porcelain | awk '$1 != "D" { print $2 }'
+      # Changes committed so far (may overlap with the above)
+      git diff --no-renames --name-only --diff-filter=d ${FIRST_COMMIT_HASH}^
+    )
+  )
+
+  if test -z "${INTERESTING_FILES}"; then
+    printf -- "No changes to check\n"
+    exit 0
+  fi
+
+  INTERESTING_ARTICLES=$( echo "${INTERESTING_FILES}" | grep -e ^wiki/ -e ^news/ | grep -e .md$ )
 
   if ! ( which docker ); then
     printf -- "\n--- Missing docker. Install it from https://docs.docker.com/get-docker/ and restart the shell ---\n\n"
@@ -45,10 +60,11 @@ main() {
   _docker bash scripts/ci/run_remark.sh ${FIRST_COMMIT_HASH} HEAD
 
   printf -- "\n--- Run yamllint ---\n\n"
-  _docker python3 scripts/ci/run_yamllint.py --config .yamllint.yaml
+  YAMLLINT_TARGET_FILES=$( echo "${INTERESTING_FILES}" | grep -e .yaml$ -e .md$ )
+  _docker python3 scripts/ci/run_yamllint.py --config .yamllint.yaml --target "${YAMLLINT_TARGET_FILES}"
 
   printf -- "\n--- Broken wikilink check ---\n\n"
-  _docker osu-wiki-tools check-links --target ${ARTICLES}
+  _docker osu-wiki-tools check-links --target "${INTERESTING_ARTICLES}"
 
   printf -- "\n--- Outdated tag check ---\n\n"
   _docker osu-wiki-tools check-outdated-articles --workflow --base-commit ${FIRST_COMMIT_HASH}
