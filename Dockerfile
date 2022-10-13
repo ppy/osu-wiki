@@ -16,5 +16,5 @@ RUN pip3 install -r requirements.txt
 
 # Prevent git from refusing to work in a repository with "dubious ownership".
 # The repository, mounted with --volume ...:/osu-wiki, is owned by a host user, and the container user is root.
-# See run-ci.sh for more CI workarounds.
+# See run-checks.sh for more CI workarounds.
 RUN git config --global --add safe.directory /osu-wiki
