@@ -188,7 +188,7 @@ After the conclusion of the Spring 2021 season, the project went on hiatus, whic
 
 [^charts-09-oct]: [Forum thread by peppy (2009-10-25) "osu! Public Release b1077"](https://osu.ppy.sh/community/forums/topics/19115)
 [^charts-09-nov]: [(Restricted) Forum thread by Cyclone (2009-11-03) "'Monthly Chart' discussion November edition"](https://osu.ppy.sh/community/forums/topics/19560)
-[^charts-09-annual]: [Forum thread by Cyclone (2009-12-10) "Best Beatmaps of 2009!"](https://osu.ppy.sh/community/forums/topics/21059)
+[^charts-10-jan]: [Forum thread by Cyclone (2009-12-10) "Best Beatmaps of 2009!"](https://osu.ppy.sh/community/forums/topics/21059)
 
 [^charts-11-per-mode]: [Forum thread by Cyclone (2011-08-24) "Apply to help create ranking charts! (osu!, Taiko, or CtB)"](https://osu.ppy.sh/community/forums/topics/60660)
 [^charts-manager-sg]: [Forum thread by Cyclone (2012-05-20) "May 2012 Ranking Chart, and new Chart Manager"](https://osu.ppy.sh/community/forums/topics/84573)
@@ -196,7 +196,7 @@ After the conclusion of the Spring 2021 season, the project went on hiatus, whic
 [^charts-manager-makar]: [Forum thread by Makar (2013-05-19) "2013 NewCAT Applications"](https://osu.ppy.sh/community/forums/topics/133248)
 [^charts-manager-loctav]: [(Restricted) Forum post by Loctav (2013-11-21) in "Regarding the charts"](https://osu.ppy.sh/community/forums/posts/2697871)
 [^charts-in-osu-14-jan]: [(Restricted) Forum post by peppy (2014-01-24) in "So peppy's planning something chart related"](https://osu.ppy.sh/community/forums/posts/2824323)
-[^^charts-cat-recruitment-14-jun]: [(Restricted) Forum thread by Loctav (2014-06-16) "\[IMPORTANT\] Recruiting NewCATs"](https://osu.ppy.sh/community/forums/topics/218032)
+[^charts-cat-recruitment-14-jun]: [(Restricted) Forum thread by Loctav (2014-06-16) "\[IMPORTANT\] Recruiting NewCATs"](https://osu.ppy.sh/community/forums/topics/218032)
 [^charts-curated-15-mar]: [News post by Loctav (2015-03-18) "February 2015 Monthly Ranking Charts - New Season!"](https://osu.ppy.sh/home/news/2015-03-18-february-2015-monthly-ranking-charts-new-season)
 [^charts-reverted-16-sep]: [News post by OnosakiHito (2016-09-17) "July 2016 Ranking Charts - Changes"](https://osu.ppy.sh/home/news/2016-09-17-july-2016-ranking-charts-changes)
 
