@@ -48,7 +48,7 @@ jobs:
 
       - name: run remark on changed files
         run: |
-          REMARK_TARGET_FILES=$( echo "${{ env.INTERESTING_FILES }}" | grep -e .md$ )
+          REMARK_TARGET_FILES=$( echo "${{ env.INTERESTING_FILES }}" | grep -e .md$ || true )
           bash scripts/ci/run_remark.sh --target "${REMARK_TARGET_FILES}"
 
       - name: set up Python
@@ -63,7 +63,7 @@ jobs:
 
       - name: run yamllint on .yaml and .md files
         run: |
-          YAMLLINT_TARGET_FILES=$( echo "${{ env.INTERESTING_FILES }}" | grep -e .yaml$ -e .md$ )
+          YAMLLINT_TARGET_FILES=$( echo "${{ env.INTERESTING_FILES }}" | grep -e .yaml$ -e .md$ || true )
           python scripts/ci/run_yamllint.py --config .yamllint.yaml --target "${YAMLLINT_TARGET_FILES}"
 
       - name: find broken wikilinks
