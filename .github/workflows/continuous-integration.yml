@@ -33,9 +33,9 @@ jobs:
           echo "${INTERESTING_FILES}" >> $GITHUB_ENV
           echo 'EOF' >> $GITHUB_ENV
 
-      - name: inspect binary file sizes
+      - name: inspect file sizes
         shell: bash
-        run: bash scripts/ci/inspect_binary_file_sizes.sh ${{ github.sha }} ${{ github.sha }}
+        run: bash scripts/ci/inspect_file_sizes.sh --target "${{ env.INTERESTING_FILES }}"
 
       - name: set up Node.js
         uses: actions/setup-node@v3

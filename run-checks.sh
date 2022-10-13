@@ -53,8 +53,8 @@ main() {
     fi
   fi
 
-  printf -- "--- Binary file size check ---\n\n"
-  _docker bash scripts/ci/inspect_binary_file_sizes.sh ${FIRST_COMMIT_HASH}
+  printf -- "--- File size check ---\n\n"
+  _docker bash scripts/ci/inspect_file_sizes.sh --target "${INTERESTING_FILES}"
 
   printf -- "\n--- Run remark ---\n\n"
   _docker bash scripts/ci/run_remark.sh ${FIRST_COMMIT_HASH} HEAD
