@@ -1,16 +1,13 @@
-FROM ubuntu:22.04
+FROM python:3.10-slim
 
-RUN apt update
-RUN DEBIAN_FRONTEND=noninteractive apt install -y \
+RUN apt-get update
+RUN DEBIAN_FRONTEND=noninteractive apt-get install -y \
     curl \
-    git \
-    python3.10 \
-    python3-pip
+    git
 
 # https://github.com/nodesource/distributions/blob/master/README.md
 RUN curl -fsSL https://deb.nodesource.com/setup_16.x | bash -
-RUN apt-get update
-RUN DEBIAN_FRONTEND=noninteractive apt install -y nodejs
+RUN DEBIAN_FRONTEND=noninteractive apt-get install -y nodejs
 
 WORKDIR /osu-wiki
 COPY package.json package-lock.json scripts/requirements.txt /osu-wiki/
