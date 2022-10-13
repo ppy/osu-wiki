@@ -100,7 +100,7 @@ The seasonal leaderboard sums up the weekly ranked score results of every partic
    - Replaying a playlist at another week will make **only the best weekly ranked score** count, overwriting the worse one.
 3. Leaderboard will be updated after each playlist conclusion. 
    - The participants will not be told their exact seasonal score, they will be assigned to league brackets instead.
-   - The leaderboard will be relased in the [osu! community discord](https://discord.gg/0Vxo9AsejDkGlk3H), in the `#osu-spotlights` channel as well as in the lobby chat of next playlist.
+   - The leaderboard will be released in the [osu! community discord](https://discord.gg/0Vxo9AsejDkGlk3H), in the `#osu-spotlights` channel as well as in the lobby chat of the next playlist.
 
 ### Rewards
 
@@ -131,13 +131,13 @@ This table only shows one of four badge versions. Each game mode has its own bad
 
 The curation system involves the process of curators selecting the beatmaps being put into the Beatmap Spotlights for each season.
 
-1. Beatmaps are selected by the curators of their respective game mode for the duration of one season.
+1. Beatmaps are selected by the curators of their respective game modes for the duration of one season.
    - Curators need to agree on each individual difficulty in an open discussion.
-   - Respective game mode leaders lock in decisions and solidify the selection after conclusive discussions.
-   - The selection process itself varies between game modes and adjusts around the needs of the respective members.
+   - Game mode leaders lock in decisions and solidify the selection after conclusive discussions.
+   - The selection process itself varies between game modes and adjusts around the needs of the members.
 2. Beatmaps are selected based on their uniqueness and excellence. Each selected beatmap should be a leading example of content quality in gameplay, design, and aesthetics.
 3. Curated beatmaps serve as recommendations to the entire osu! community, and are marked with a unique *Spotlights* tag.
-4. To fulfill the duty of recommending excellent beatmaps to the whole community, curated beatmaps should cover a specific spread of Hard, Insane, and Expert difficulties.
+4. To fulfil the duty of recommending excellent beatmaps to the whole community, curated beatmaps should cover a specific spread of Hard, Insane, and Expert difficulties.
    - 6 curated beatmaps should be within the Hard difficulty tier.
    - 9 curated beatmaps should be within the Insane difficulty tier.
    - 12 curated beatmaps should be within the Expert difficulty tier.
@@ -146,7 +146,7 @@ The curation system involves the process of curators selecting the beatmaps bein
    - When selecting more beatmaps, the distribution between difficulty tiers should be followed.
    - Curators can select multiple difficulties of the same beatmap.
 6. Curated beatmaps should be a healthy mix of recent and established content.
-   - At least 25% of the curated difficulties must have been ranked within the last 3 months prior the season start.
+   - At least 25% of the curated difficulties must have been ranked within the last 3 months prior to the season start.
 7. Individual curators must not recommend beatmaps they took part in creating.
    - At most 25% of the selected beatmaps can have such an involvement of curators themselves.
 8. Every curated beatmap must be selected before the season begins. Once a season has started, beatmaps can not be exchanged anymore.
@@ -162,7 +162,7 @@ The current implementation of the Beatmap Spotlights is highly experimental and 
 
 ### Becoming a curator
 
-In most of cases, new Curators are suggested by the respective game mode team to fit a certain niche. Such suggestions are evaluated by the project managers, team leaders, and Curators themselves.
+In most cases, new Curators are suggested by the respective game mode team to fit a certain niche. Such suggestions are evaluated by the project managers, team leaders, and Curators themselves.
 
 In addition, there may be application cycles for certain game modes announced for certain seasons.
 
@@ -176,7 +176,7 @@ The project underwent several changes and additions, such as [themed Ranking Cha
 
 The project lead has changed several times in its history. ::{ flag=US }:: [SapphireGhost](https://osu.ppy.sh/users/388602) took over the project lead in May 2012,[^charts-manager-sg] followed up by ::{ flag=US }:: [DeathXShinigami](https://osu.ppy.sh/users/49516) [^charts-manager-dxs] and ::{ flag=US }:: [Makar](https://osu.ppy.sh/users/686389).[^charts-manager-makar] ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) and ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) took over the project in December 2013.[^charts-manager-loctav]
 
-In January 2014, the charts browser has been added to the osu! client,[^charts-in-osu-14-jan] and in June 2014, several renown players were recruted into the [Chart Assembly Team](/wiki/Beatmap_Spotlights/Chart_Assembly_Team).[^charts-cat-recruitment-14-jun] In March 2015 the project changed from its original design of nominate and vote into having renown community members single-handedly select a roster of beatmap sets they recommend.[^charts-curated-15-mar] In September 2016, the selection system has been mostly reverted[^charts-reverted-16-sep] and put the [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) in charge of selecting the most noteworthy beatmaps.
+In January 2014, the charts browser was added to the osu! client,[^charts-in-osu-14-jan] and in June 2014, several renown players were recruited into the [Chart Assembly Team](/wiki/Beatmap_Spotlights/Chart_Assembly_Team).[^charts-cat-recruitment-14-jun] In March 2015 the project changed from its original design of nominate and vote into having renown community members single-handedly select a roster of beatmap sets they recommend.[^charts-curated-15-mar] In September 2016, the selection system has been mostly reverted[^charts-reverted-16-sep] and put the [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) in charge of selecting the most noteworthy beatmaps.
 
 Renamed to Beatmap Spotlights in March 2017,[^charts-renamed-into-spotlights] the system itself stayed mostly consistent while adding additional rewards like medals and enhancing the presentation of the Beatmap Spotlights furtherly. During an internal overhaul of the Quality Assurance Team, the responsibility for the project has been reassigned to ::{ flag=HU }:: [Kurokami](https://osu.ppy.sh/users/260933) and re-implemented a community-based selection team. In November 2018, the frequency of the Spotlights have been changed to a seasonal release cycle.[^spotlights-seasonal] In March 2020, ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) rejoined the project lead together with Kurokami, both reworking it into a new shape and assembling a new team of osu! curators.[^spotlights-reworked-20-june]
 
