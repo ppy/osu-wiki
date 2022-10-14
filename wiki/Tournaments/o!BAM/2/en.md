@@ -36,7 +36,7 @@ The osu! Battle Archive Malaysia 2022 is run by various community members.
 | Playtester | ::{ flag=MY }:: [Agagak](https://osu.ppy.sh/users/3645490), ::{ flag=US }:: [bananaman533](https://osu.ppy.sh/users/1284243), ::{ flag=US }:: [BATBALL](https://osu.ppy.sh/users/15173952), ::{ flag=SG }:: [Demonical](https://osu.ppy.sh/users/5447609), ::{ flag=CA }:: [FlatPaper](https://osu.ppy.sh/users/11255340), ::{ flag=KR }:: [lolboatz](https://osu.ppy.sh/users/12962464), ::{ flag=SG }:: [m0fum0fu](https://osu.ppy.sh/users/5143605), ::{ flag=JP }:: [makipan](https://osu.ppy.sh/users/12944109), ::{ flag=SG }:: [Randomguruz](https://osu.ppy.sh/users/8040494), ::{ flag=SG }:: [Rtyzen](https://osu.ppy.sh/users/2439822) |
 | Streamer | ::{ flag=MY }:: [Khoo Hao Yit](https://osu.ppy.sh/users/9534110), ::{ flag=MY }:: [Laphii](https://osu.ppy.sh/users/9364594),  ::{ flag=MY }:: [Its not Marvin](https://osu.ppy.sh/users/13600612) |
 | Commentator | ::{ flag=MY }:: [banner](https://osu.ppy.sh/users/14290988), ::{ flag=ID }:: [BlankTap](https://osu.ppy.sh/users/10137131), ::{ flag=MY }:: [Fancyyy](https://osu.ppy.sh/users/12616268), ::{ flag=MY }:: [Hanami-](https://osu.ppy.sh/users/8703188), ::{ flag=MY }:: [Its not Marvin](https://osu.ppy.sh/users/13600612), ::{ flag=MY }:: [malaidan](https://osu.ppy.sh/users/14279913), ::{ flag=MY }:: [Racers03](https://osu.ppy.sh/users/11621976), ::{ flag=ID }:: [Raids](https://osu.ppy.sh/users/15640966), ::{ flag=MY }:: [squidstain](https://osu.ppy.sh/users/11073207) |
-| Referee | ::{ flag=BN }:: [aaronkoichi](https://osu.ppy.sh/users/11288235), ::{ flag=MY }:: [dragonlemmy](https://osu.ppy.sh/users/14053835), ::{ flag=MY }:: [Hand Sanitiser](https://osu.ppy.sh/users/5091293), ::{ flag=MY }:: [Honor27](https://osu.ppy.sh/users/25419414), ::{ flag=MY }:: [Laphii](https://osu.ppy.sh/users/9364594), ::{ flag=MY }:: [Online](https://osu.ppy.sh/users/13486575), ::{ flag=VN }:: [rock-on](https://osu.ppy.sh/users/9676089), ::{ flag=MY }:: [Wen4ng3l](https://osu.ppy.sh/users/9288833) |
+| Referee | ::{ flag=BN }:: [aaronkoichi](https://osu.ppy.sh/users/11288235), ::{ flag=MY }:: [dragonlemmy](https://osu.ppy.sh/users/14053835), ::{ flag=MY }:: [Hand Sanitiser](https://osu.ppy.sh/users/5091293), ::{ flag=MY }:: [Honor27](https://osu.ppy.sh/users/25419414), ::{ flag=MY }:: [Laphii](https://osu.ppy.sh/users/9364594), ::{ flag=MY }:: [Online](https://osu.ppy.sh/users/13486575), ::{ flag=VN }:: [rock-on](https://osu.ppy.sh/users/9676089), ::{ flag=MY }:: [Wen4ng3L](https://osu.ppy.sh/users/9288833) |
 | Graphic designer | ::{ flag=MY }:: [LouisZpro](https://osu.ppy.sh/users/6231292) |
 | Spreadsheet manager | ::{ flag=MY }:: [Laphii](https://osu.ppy.sh/users/9364594) |
 | Wiki editor | ::{ flag=MY }:: [Laphii](https://osu.ppy.sh/users/9364594) |
@@ -46,7 +46,9 @@ The osu! Battle Archive Malaysia 2022 is run by various community members.
 - [Official website](https://obam.osumalaysia.org/)
 - [Forum thread](https://osu.ppy.sh/community/forums/topics/1631878?n=1)
 - [Discord server](https://discord.gg/GYqWsQbEbF)
+- [Challonge brackets](https://challonge.com/OBAM2022)
 - [Livestream](https://www.twitch.tv/osumys)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1YFhj01IzKxNHZSRW2UoRECgAKintLc6nksrlaPVvtfE/edit#gid=2066198917)**
 
 ## Participants
 
@@ -100,6 +102,91 @@ The osu! Battle Archive Malaysia 2022 is run by various community members.
 
 ## Mappools
 
+### Semifinals
+
+**[Download the mappack here! (121 MB)](https://cdn.discordapp.com/attachments/959526009546346516/1029057857917812746/OBAM_2022_Semifinals.rar)**
+
+- NoMod
+  1. [Nekomata Master - Despair of ELFERIA (Perseus) \[Misery\]](https://osu.ppy.sh/beatmapsets/484724#osu/1033939)
+  2. [SAMString - Shifting Clouds (My Angel Nino) \[Blooming Sky\]](https://osu.ppy.sh/beatmapsets/1532094#osu/3133390)
+  3. [Sangatsu no Phantasia - 101 (Jiysea) \[Binary\]](https://osu.ppy.sh/beatmapsets/1557672#osu/3181958)
+  4. [t+pazolite - Ka wa Taredoki no Yuuwaku (Seolv) \[Aistre's Extra\]](https://osu.ppy.sh/beatmapsets/1396547#osu/3426904)
+  5. [kamome sano - lovesick feat. punipunidenki (mnyui) \[mayu's extra\]](https://osu.ppy.sh/beatmapsets/1732015#osu/3576121)
+  6. [angela - Otome no Route wa Hitotsu Janai! (TV Size) (P1Twist) \[Awesome Sauce\]](https://osu.ppy.sh/beatmapsets/1709654#osu/3493468)
+- Hidden
+  1. [angela - Otome no Route wa Hitotsu Janai! (verychill) \[Camo's Extreme\]](https://osu.ppy.sh/beatmapsets/1153303#osu/3120569)
+  2. [TQ* - Oracle (KKipalt) \[ar8\]](https://osu.ppy.sh/beatmapsets/1257565#osu/3607570)
+  3. [Yunosuke feat. Kafu - Hana to Nare (Chills) \[Expert: Embracing Bloom\]](https://osu.ppy.sh/beatmapsets/1650302#osu/3368327)
+- HardRock
+  1. [ginkiha feat. TEA - Neon tetra -kamome sano Remix- (Rumia-) \[Aquarium\]](https://osu.ppy.sh/beatmapsets/567692#osu/1203222)
+  2. [M2U - Wicked Fate (PaRaDogi) \[Rose\]](https://osu.ppy.sh/beatmapsets/1784450#osu/3654635)
+  3. [Mitsukiyo - Constant Moderato (araran) \[Sunazuka Akira's Extra\]](https://osu.ppy.sh/beatmapsets/1640689#osu/3369276)
+- DoubleTime
+  1. [Liz Triangle - Veda (Millie) \[Funky Collab (edit ver.)\]](https://osu.ppy.sh/beatmapsets/1816591#osu/3733005)
+  2. [isekaijoucho - Dimension (Rtyzen) \[Insane\]](https://osu.ppy.sh/beatmapsets/1613731#osu/3427718)
+  3. [DUSTCELL - izqnqi (Kudou Chitose) \[insqne\]](https://osu.ppy.sh/beatmapsets/1772131#osu/3628184)
+  4. [Silentroom - Aliake (Kardshark) \[~\]](https://osu.ppy.sh/beatmapsets/1863807#osu/3832849)
+- Flashlight + FreeMod
+  1. [Nyarons - After The Rain (Striderin) \[Pichi Pichi Jabu Jabu La La La\]](https://osu.ppy.sh/beatmapsets/841259#osu/1760614)
+- FreeMod
+  1. [Aitsuki Nakuru - Enamel no Butoukai (Settia) \[waltz of the fairytale\]](https://osu.ppy.sh/beatmapsets/553947#osu/1172882)
+  2. [Mikazuki BIGWAVE - WAVE2020 (Faito) \[EXTRA\]](https://osu.ppy.sh/beatmapsets/1397341#osu/2883686)
+
+### Quarterfinals
+
+**[Download the mappack here! (94 MB)](https://cdn.discordapp.com/attachments/959526009546346516/1026517827089346590/OBAM2022_QF.rar)**
+
+- NoMod
+  1. [Aqours - Jump up HIGH!! (ktgster) \[Special\]](https://osu.ppy.sh/beatmapsets/1070810#osu/2241432)
+  2. [Kushper - Valley of Anime Ban (CosmicWolf) \[~Oh, Behold The Adventure~\]](https://osu.ppy.sh/beatmapsets/1463107#osu/3005485)
+  3. [Ushirokara Haiyoritai G - Koi wa Chaos no Shimobenari (Amamya) \[Rihan's Extra\]](https://osu.ppy.sh/beatmapsets/1717491#osu/3529703)
+  4. [Osanzi feat. Hatsune Miku - Manipulate (mrforse) \[Just Move...\]](https://osu.ppy.sh/beatmapsets/1770504#osu/3624362)
+  5. [CK - stella fiume (mezelyus) \[Delphinium\]](https://osu.ppy.sh/beatmapsets/1769503#osu/3622267)
+- Hidden
+  1. [Aitsuki Nakuru - Azura Luno (Keqing) \[Lunar Collab\]](https://osu.ppy.sh/beatmapsets/1465077#osu/3009051)
+  2. [Tanaka Nozomu, Kikuchi Akane, Saginomiya Shiori - Wa! Moon! dass! cry! (TV Size) (Yukiyo) \[ok\]](https://osu.ppy.sh/beatmapsets/999023#osu/2089413)
+  3. [Nekomata Master vs. HuMeR - BUZRA (Kyumo) \[J1'S EXTRA\]](https://osu.ppy.sh/beatmapsets/1376812#osu/2846066)
+- HardRock
+  1. [Manaka Kataoka & Yasuaki Iwata - Main Theme (Pyo) \[Breath of the Wild\]](https://osu.ppy.sh/beatmapsets/1432655#osu/2948556)
+  2. [solfa feat. Ceui - Koiiro Recipe (Amamya) \[Mayu's Insane\]](https://osu.ppy.sh/beatmapsets/1087207#osu/3286450)
+  3. [sana - Hisui no Machi (Firika) \[Rumi's Extra\]](https://osu.ppy.sh/beatmapsets/1017483#osu/2239240)
+- DoubleTime
+  1. [Nakasu Kasumi (CV: Sagara Mayu) - Mutekikyuu*Believer (caps) \[Noctiam's Insane\]](https://osu.ppy.sh/beatmapsets/1190325#osu/2602942)
+  2. [Xceon - Fuyu Tsubaki ft. Kanae Asaba (\_kotachi\_) \[el psy congroo\]](https://osu.ppy.sh/beatmapsets/1756741#osu/3595025)
+  3. [Down - Luscent (Down) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/1641533#osu/3350322)
+- DoubleTime + Easy
+  1. [SHK - Death Moon II (ktgster) \[Insane\]](https://osu.ppy.sh/beatmapsets/472158#osu/1009021)
+- FreeMod
+  1. [Rohi - Kakuzetsu Thanatos (NatsumeRin) \[Skystar\]](https://osu.ppy.sh/beatmapsets/1859909#osu/3823340)
+  2. [Nor - Theme 121 (Chizu-Kun) \[wakamo one shot ?\]](https://osu.ppy.sh/beatmapsets/1859909#osu/3823340)
+
+### Round of 16
+
+**[Download the mappack here! (118 MB)](https://cdn.discordapp.com/attachments/959526009546346516/1024343605042745345/OBAM_2022_RO16.rar)**
+
+- NoMod
+  1. [CIEL - Mado o Akete (Kotoha) \[ponbot's Affection\]](https://osu.ppy.sh/beatmapsets/1796301#osu/3682178)
+  2. [NEFFY - Kilmer (Rtyzen) \[Velvet Rope\]](https://osu.ppy.sh/beatmapsets/1856348#osu/3815140)
+  3. [HIMEHINA - Hitogata (TV Size) (Ryuusei Aika) \[0108's Extra\]](https://osu.ppy.sh/beatmapsets/942714#osu/1986093)
+  4. [Taiga Lucia (CV: Hoshikawa Sara) - NANAIRO STAGE (Prod. YUC'e) (Amateurre) \[Rainbow\]](https://osu.ppy.sh/beatmapsets/1585836#osu/3239063)
+  5. [AZKi - Fake.Fake.Fake (Luscent) \[Collab Extra\]](https://osu.ppy.sh/beatmapsets/1611987#osu/3554698)
+  6. [Machita Chima - CH4NGE (Kudou Chitose) \[DON'T GET IN MY W4Y\]](https://osu.ppy.sh/beatmapsets/1751949#osu/3584470)
+- Hidden
+  1. [Nakiri Ayame - Deep Indigo (Bokamin) \[ponbot's Expert\]](https://osu.ppy.sh/beatmapsets/1189193#osu/2572003)
+  2. [HIMEHINA - Hibari (Ryuusei Aika) \[R.U.R.\]](https://osu.ppy.sh/beatmapsets/998849#osu/2089091)
+  3. [Calliope Mori x Gawr Gura x DECO*27 - Q (Ryuusei Aika) \[Mayu's Expert\]](https://osu.ppy.sh/beatmapsets/1693923#osu/3475887)
+- HardRock
+  1. [Minato Aqua - Shiroi Yuki no Princess wa (Amateurre) \[Aquanother\]](https://osu.ppy.sh/beatmapsets/1095366#osu/2748324)
+  2. [VESPERBELL - Vampire (Petal) \[Ayucchi's Expert\]](https://osu.ppy.sh/beatmapsets/1493527#osu/3062815)
+  3. [momomoaji - Ginkou Hoshikawaa! (Cami) \[Madness\]](https://osu.ppy.sh/beatmapsets/1118992#osu/2337265)
+- DoubleTime
+  1. [Minato Aqua - Kaisou Ressha (vick) \[Dream\]](https://osu.ppy.sh/beatmapsets/1555132#osu/3177168)
+  2. [Lizean - Shinde Shimau towa Nasakenai! (Yugu) \[Insane\]](https://osu.ppy.sh/beatmapsets/1052264#osu/2201137)
+  3. [YuNi - Toumei Seisai (Bazz B) \[gambatte's Insane\]](https://osu.ppy.sh/beatmapsets/1175057#osu/2450947)
+- FreeMod
+  1. [YUKA NAGASE - Hide and Dance (Kotoha) \[kind of colab\]](https://osu.ppy.sh/beatmapsets/1856371#osu/3815203)
+  2. [Kaf - Konayuki (Yugu) \[Sleet\]](https://osu.ppy.sh/beatmapsets/1068748#osu/2237429)
+
 ### Group stage
 
 **[Download the mappack here! (77 MB)](https://cdn.discordapp.com/attachments/959526009546346516/1018855345138962494/OBAM2_Groupstage.rar)**
@@ -146,6 +233,184 @@ The osu! Battle Archive Malaysia 2022 is run by various community members.
   1. [Haloweak - Narwhal (meiikyuu) \[Rosetta\]](https://osu.ppy.sh/beatmapsets/1173876#osu/2474826)
   2. [ARM x Komso feat. Nanahira - Onegai! Kon kon Oinarisama ([Paw]OchiKouri) \[Muz's Insane\]](https://osu.ppy.sh/beatmapsets/1261912#osu/2635712)
   3. [Suara - Nuedori (VINXIS) \[emilia's Heavy Insane\]](https://osu.ppy.sh/beatmapsets/1143697#osu/2479193)
+
+## Match results
+
+### Quarterfinals
+
+Friday, 7 October 2022:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **The Cunnysseurs** | **6** | 0 | :froggy: | [#1](https://osu.ppy.sh/community/matches/104274433) |
+| Lower | **yes seggs** | **6** | 0 | Offensize Name | *win by default* |
+| Lower | **osu retirement** | **6** | 0 | Japanese Goblin | *win by default* |
+| Upper | NAJIB FANCLUB | 3 | **6** | **Vanity** | [#1](https://osu.ppy.sh/community/matches/104276614) |
+
+Saturday, 8 October 2022:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **Anti-Cunny Action** | **6** | 2 | Cat Enjoyer | [#1](https://osu.ppy.sh/community/matches/104297022) |
+| Lower | **Dreamy Color** | **6** | 0 | koko soko asoko | *win by default* |
+| Lower | The Cunnysseurs | 0 | **6** | **Anti-Cunny Action** | [#1](https://osu.ppy.sh/community/matches/104298727) |
+| Lower | **Flover** | **6** | 2 | Can We Get Much Higher | [#1](https://osu.ppy.sh/community/matches/104298775) |
+| Upper | **Diggas in paris** | **6** | 0 | chungus capoo | [#1](https://osu.ppy.sh/community/matches/104298524) |
+| Lower | **Where Love Lies** | **6** | 1 | Damn bratty crewmate | [#1](https://osu.ppy.sh/community/matches/104301108) |
+| Lower | sturrige curry | 0 | **6** | **openureyesyouwillsee** | *win by default* |
+
+Sunday, 9 October 2022:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | ENERGY GAP | 2 | **6** | **RUDOLF ENJOYERS** | [#1](https://osu.ppy.sh/community/matches/104321999) |
+| Lower | Dreamy Color | 1 | **6** | **Where Love Lies** | [#1](https://osu.ppy.sh/community/matches/104324188) |
+| Lower | **osu retirement** | **6** | 2 | openureyesyouwillsee | [#1](https://osu.ppy.sh/community/matches/104324086) |
+| Upper | **Miyu Archive** | **6** | 2 | kinda hot tho | [#1](https://osu.ppy.sh/community/matches/104324093) |
+
+Tuesday, 11 October 2022:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | Flover | 3 | **6** | **yes seggs** | [#1](https://osu.ppy.sh/community/matches/104361271) |
+
+### Round of 16
+
+Friday, 30 September 2022:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | Can We Get Much Higher | 6 | **3** | **Marv and Willy show** | [#1](https://osu.ppy.sh/community/matches/104121676) |
+| Lower | LENG ZAI | 4 | **6** | **Damn bratty crewmate** | [#1](https://osu.ppy.sh/community/matches/104122730) |
+
+Saturday, 1 October 2022:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **Miyu Archive** | **6** | 1 | yes seggs | [#1](https://osu.ppy.sh/community/matches/104147351) |
+| Upper | Dreamy Color | 1 | **6** | **chungus capoo** | [#1](https://osu.ppy.sh/community/matches/104148876) |
+| Lower | **:froggy:** | 6 | 1 | Ikan | [#1](https://osu.ppy.sh/community/matches/104150253) |
+| Lower | The Platinum Wok | 0 | **6** | **Japanese Goblin** | *win by default* |
+| Lower | shiroko's bicycle | 0 | **6** | **koko soko asoko** | *win by default* |
+
+Sunday, 2 October 2022:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | Offensize Name | 0 | **6** | **Mandekissafriend** | *win by default* |
+| Upper | sturrige curry | 0 | **6** | **NAJIB FANCLUB** | *win by default* |
+| Upper | **Diggas in paris** | **6** | 2 | Where Love Lies | [#1](https://osu.ppy.sh/community/matches/104177721) |
+| Lower | **openureyesyouwillsee** | **6** | 0 | AMOGUS SUSSY BAKA S\_ | [#1](https://osu.ppy.sh/community/matches/104179121) |
+| Upper | Flover | 4 | **6** | **kinda hot tho** | [#1](https://osu.ppy.sh/community/matches/104178864) |
+| Upper | Anti-Cunny Action | 0 | **6** | **ENERGY GAP** | *win by default* |
+
+Monday, 3 October 2022:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **Cat Enjoyer** | **6** | 0 | 洪家派驰名海鲜煮炒餐馆 (Hongjiapai Famous Seafood Restaurant) | [#1](https://osu.ppy.sh/community/matches/104199705) |
+| Upper | **Vanity** | **6** | 5 | osu retirement | [#1](https://osu.ppy.sh/community/matches/104201764) |
+
+Tuesday, 4 October 2022:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **RUDOLF ENJOYERS** | **6** | 5 | The Cunnysseurs | [#1](https://osu.ppy.sh/community/matches/104219809) |
+
+### Group stage
+
+Thursday, 15 September 2022:
+
+| Group | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| G1 | **sturrige curry** | **5** | 1 | Where Love Lies | [#1](https://osu.ppy.sh/community/matches/103796836) |
+
+Friday, 16 September 2022:
+
+| Group | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| A6 | **:froggy:** | **5** | 3 | 洪家派驰名海鲜煮炒餐馆 (Hongjiapai Famous Seafood Restaurant) | [#1](https://osu.ppy.sh/community/matches/103813511) |
+| F1 | **Cat Enjoyer** | **5** | 4 | Vanity | [#1](https://osu.ppy.sh/community/matches/103818009) |
+| G2 | The Platinum Wok | 0 | **5** | sturrige curry | [#1](https://osu.ppy.sh/community/matches/103817953) |
+
+Saturday, 17 September 2022:
+
+| Group | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| E5 | Japanese Goblin | 1 | **5** | **The Cunnysseurs** | [#1](https://osu.ppy.sh/community/matches/103835756) |
+| H2 | shiroko's bicycle | 1 | **5** | **Anti-Cunny Action** | [#1](https://osu.ppy.sh/community/matches/103839807) |
+| D6 | koko soko asoko | 0 | **5** | **Can We Get Much Higher** | *win by default* |
+| G4 | **Where Love Lies** | **5** | 0 | The Platinum Wok | [#1](https://osu.ppy.sh/community/matches/103842133) |
+| F4 | **Vanity** | **5** | 3 | NAJIB FANCLUB | [#1](https://osu.ppy.sh/community/matches/103845370) |
+| H1 | **Anti-Cunny Action** | **5** | 2 | osu retirement | [#1](https://osu.ppy.sh/community/matches/103845358) |
+
+Sunday, 18 September 2022:
+
+| Group | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| F3 | AMOGUS SUSSY BAKA S\_ | 0 | **5** | **Cat Enjoyer** | [#1](https://osu.ppy.sh/community/matches/103847766) |
+| D1 | **RUDOLF ENJOYERS** | **5** | 2 | yes seggs | [#1](https://osu.ppy.sh/community/matches/103848385) |
+| H4 | **osu retirement** | **5** | 0 | shiroko's bicycle | [#1](https://osu.ppy.sh/community/matches/103866752) |
+| C2 | Offensize Name | 1 | **5** | **Miyu Archive** | [#1](https://osu.ppy.sh/community/matches/103868697) |
+| H3 | Mandekissafriend | 0 | **5** | **Anti-Cunny Action** | [#1](https://osu.ppy.sh/community/matches/103871053) |
+| A1 | kinda hot tho | 3 | **5** | **Flover** | [#1](https://osu.ppy.sh/community/matches/103872807) |
+| B2 | LENG ZAI | 0 | **5** | **ENERGY GAP** | [#1](https://osu.ppy.sh/community/matches/103872631) |
+| C5 | Marv and Willy show | 0 | **5** | **chungus capoo** | [#1](https://osu.ppy.sh/community/matches/103872627) |
+| E2 | openureyesyouwillsee | 0 | **5** | **Diggas in paris** | [#1](https://osu.ppy.sh/community/matches/103872634) |
+| F5 | AMOGUS SUSSY BAKA S\_ | 0 | **5** | **Vanity** | *win by default* |
+| H5 | Mandekissafriend | 1 | **5** | **osu retirement** | [#1](https://osu.ppy.sh/community/matches/103872637) |
+
+Monday, 19 September 2022:
+
+| Group | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| F2 | **NAJIB FANCLUB** | **5** | 0 | Cat Enjoyer | *win by default* |
+
+Thursday, 22 September 2022:
+
+| Group | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| A5 | 洪家派驰名海鲜煮炒餐馆 (Hongjiapai Famous Seafood Restaurant) | 0 | **5** | **Flover** | [#1](https://osu.ppy.sh/community/matches/103949092) |
+| E4 | **The Cunnysseurs** | **5** | 1 | openureyesyouwillsee | [#1](https://osu.ppy.sh/community/matches/103949078) |
+
+Friday, 23 September 2022:
+
+| Group | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| A3 | 洪家派驰名海鲜煮炒餐馆 (Hongjiapai Famous Seafood Restaurant) | 0 | **5** | **kinda hot tho** | [#1](https://osu.ppy.sh/community/matches/103965729) |
+| C3 | Marv and Willy show | 1 | **5** | **Miyu Archive** | [#1](https://osu.ppy.sh/community/matches/103968722) |
+| G3 | Ikan | 0 | **5** | **sturrige curry** | [#1](https://osu.ppy.sh/community/matches/103968563) |
+| B1 | ENERGY GAP | 2 | **5** | **Dreamy Color** | [#1](https://osu.ppy.sh/community/matches/103969194) |
+| E6 | **openureyesyouwillsee** | **5** | 3 | Japanese Goblin | [#1](https://osu.ppy.sh/community/matches/103969437) |
+| G6 | **The Platinum Wok** | **5** | 2 | Ikan | [#1](https://osu.ppy.sh/community/matches/103970851) |
+
+Saturday, 24 September 2022:
+
+| Group | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| B3 | Damn bratty crewmate | 0 | **5** | **ENERGY GAP** | [#1](https://osu.ppy.sh/community/matches/103989318) |
+| D5 | Can We Get Much Higher | 1 | **5** | **yes seggs** | [#1](https://osu.ppy.sh/community/matches/103995409) |
+| A4 | **Flover** | **5** | 3 | :froggy: | [#1](https://osu.ppy.sh/community/matches/103996899) |
+| C6 | **Offensize Name** | **5** | 3 | Marv and Willy show | [#1](https://osu.ppy.sh/community/matches/103996911) |
+| E3 | Japanese Goblin | 0 | **5** | **Diggas in paris** | [#1](https://osu.ppy.sh/community/matches/103996723) |
+| G5 | Ikan | 0 | **5** | **Where Love Lies** | [#1](https://osu.ppy.sh/community/matches/103997667) |
+| B6 | **LENG ZAI** | **5** | 2 | Damn bratty crewmate | [#1](https://osu.ppy.sh/community/matches/103998708) |
+| C1 | **Miyu Archive** | **5** | 4 | chungus capoo | [#1](https://osu.ppy.sh/community/matches/103998563) |
+| B4 | **Dreamy Color** | **5** | 3 | LENG ZAI | [#1](https://osu.ppy.sh/community/matches/104000405) |
+| D2 | koko soko asoko | 1 | **5** | **RUDOLF ENJOYERS** | [#1](https://osu.ppy.sh/community/matches/104000653) |
+
+Sunday, 25 September 2022:
+
+| Group | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| H6 | **shiroko's bicycle** | **5** | 1 | Mandekissafriend | [#1](https://osu.ppy.sh/community/matches/104021618) |
+| C4 | **chungus capoo** | **5** | 0 | Offensize Name | [#1](https://osu.ppy.sh/community/matches/104024110) |
+| D4 | **yes seggs** | **5** | 0 | koko soko asoko | *win by default* |
+| E1 | **Diggas in paris** | **5** | 4 | The Cunnysseurs | [#1](https://osu.ppy.sh/community/matches/104024123) |
+| A2 | :froggy: | 1 | **5** | **kinda hot tho** | [#1](https://osu.ppy.sh/community/matches/104025398) |
+| B5 | Damn bratty crewmate | 3 | **5** | **Dreamy Color** | [#1](https://osu.ppy.sh/community/matches/104025879) |
+| D3 | Can We Get Much Higher | 0 | **5** | **RUDOLF ENJOYERS** | *win by default* |
+| F6 | **NAJIB FANCLUB** | **5** | 1 | AMOGUS SUSSY BAKA S\_ | [#1](https://osu.ppy.sh/community/matches/104026876) |
 
 ## Ruleset
 

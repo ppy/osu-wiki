@@ -5,7 +5,7 @@ tags:
   - OD
   - spinner difficulty
   - précision
-  - fenêtre de hit
+  - fenêtre de timing
 ---
 
 # Overall difficulty
@@ -16,9 +16,9 @@ L'**overall difficulty** (abrégé en ***OD***) définit la difficulté d'obteni
 
 ## Timing
 
-Des valeurs d'OD plus élevées signifient une fenêtre de timing plus courte pour cliquer sur les [objets](/wiki/Hit_object), à la fois de façon générale et pour obtenir des [scores](/wiki/Gameplay/Score) élevés. La fenêtre d'erreur de timing autorisée pour chaque objet dans osu! et osu!mania, centrée sur le timing correct de l'objet, est définie par les tableaux ci-dessous.
+Des valeurs d'OD plus élevées signifient une fenêtre de timing plus courte pour cliquer sur les [objets](/wiki/Hit_object), à la fois de façon générale et pour obtenir des [scores](/wiki/Gameplay/Score) élevés. La fenêtre d'erreur de timing autorisée pour chaque objet dans [osu!](/wiki/Game_mode/osu!) et [osu!mania](/wiki/Game_mode/osu!mania), centrée sur le timing correct de l'objet, est définie par les tableaux ci-dessous.
 
-Notez que dans la version stable d'osu!, les fenêtres de timing dans osu! et osu!taiko peuvent effectivement être jusqu'à 0,5 ms plus courtes des deux côtés que ce que les formules suggèrent. Par ailleurs, dans osu!mania, elles peuvent être jusqu'à 0,5 ms plus longues des deux côtés. Ceci est dû au fait que dans osu! et osu!taiko, un clic est considéré à l'intérieur d'une fenêtre de timing si `erreur de timing < arrondi(fenêtre de timing)`, alors que dans osu!mania, il est considéré à l'intérieur si `erreur de timing <= arrondi(fenêtre de timing)`.
+Notez que dans la version stable d'osu!, les fenêtres de timing dans osu! et [osu!taiko](/wiki/Game_mode/osu!taiko) peuvent effectivement être jusqu'à 0,5 ms plus courtes des deux côtés que ce que les formules suggèrent. Par ailleurs, dans osu!mania, elles peuvent être jusqu'à 0,5 ms plus longues des deux côtés. Ceci est dû au fait que dans osu! et osu!taiko, un clic est considéré à l'intérieur d'une fenêtre de timing si `erreur de timing < arrondi(fenêtre de timing)`, alors que dans osu!mania, il est considéré à l'intérieur si `erreur de timing <= arrondi(fenêtre de timing)`.[^judgement-rounding-ref]
 
 Par exemple, la fenêtre de timing d'un Great dans osu!taiko à OD 5 est de ±34,5 ms, au lieu des ±35 ms que donne le tableau. Dans osu!mania, la fenêtre de hit d'un MAX est de ±16,5 ms, et non de ±16 ms comme le suggère le tableau.
 
@@ -31,6 +31,8 @@ Les fenêtres de timing pour les jugements peuvent être visualisées en passant
 | 300 | `80 - 6 * OD` |
 | 100 | `140 - 8 * OD` |
 | 50 | `200 - 10 * OD` |
+
+![](/wiki/shared/ODTable.png "Comparaison des fenêtres de timing pour différentes combinaisons d'OD et de modificateurs de jeu. Pour les mods Half Time et Double Time, les valeurs d'OD indiquées ne sont valables que pour les 300, et seraient différentes pour les 100 et 50.")
 
 ### osu!taiko
 
@@ -54,7 +56,7 @@ Si le joueur clique en dehors de la fenêtre de timing du 50, cela comptera comm
 
 ## Sliders et spinners
 
-Dans [osu!](/wiki/Game_mode/osu!), les sliders récompensent le joueur d'un 300 tant qu'il clique dans la fenêtre de timing du 50. Cela est parfois appelé *slideracc* et est supprimé dans [ScoreV2](/wiki/Game_modifier/ScoreV2).
+Dans [osu!](/wiki/Game_mode/osu!), les [sliders](/wiki/Gameplay/Hit_object/Slider) récompensent le joueur d'un 300 tant qu'il clique dans la fenêtre de timing du 50. Cela est parfois appelé slider leniency et est supprimé dans [ScoreV2](/wiki/Game_modifier/ScoreV2).
 
 L'overall difficulty affecte également les [spinners](/wiki/Hit_object/Spinner), dans la mesure où il faut les faire tourner davantage pour remplir la jauge à temps. Dans le mode [osu!taiko](/wiki/Game_mode/osu!taiko), le denden aura également besoin de plus de coups pour être complété. Le nombre de tours par minutes nécessaires pour compléter un spinner est défini par la formule suivante :
 
@@ -76,3 +78,7 @@ Alors que les mods Half Time *(HT)* et Double Time *(DT)* ne modifient pas la va
 ## osu!catch
 
 L'OD est visible lors de l'affichage des informations de la beatmap, mais elle n'affecte en rien le gameplay.
+
+## Références
+
+[^judgement-rounding-ref]: [Message Discord de spaceman_atlas (06/05/2022) dans #osu-wiki sur osu!dev](https://discord.com/channels/188630481301012481/218677502141399041/972241866382798889)

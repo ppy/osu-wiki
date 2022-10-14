@@ -279,7 +279,9 @@
 "timing_section":              "Beatmapping/Timing_section"
 "touchpad":                    "Gameplay/Input_device/Graphics_tablet"
 "touchscreen":                 "Gameplay/Input_device/Graphics_tablet"
-"touhosu!":                    "Glossary/Touhosu!"
+"touhosu!":                    "History_of_osu!/April_Fools#touhosu!"
+"touhousu!":                   "History_of_osu!/April_Fools#touhosu!"
+"Glossary/Touhosu!":           "History_of_osu!/April_Fools#touhosu!"
 "wip":                         "Beatmap/Category#work-in-progress-and-pending"
 "work_in_progress":            "Beatmap/Category#work-in-progress-and-pending"
 
@@ -1441,6 +1443,8 @@
 "time_signature":                   "Music_theory/Time_signature"
 "beatmapping/time_signature":       "Music_theory/Time_signature"
 "downbeat":                         "Music_theory/Downbeat"
+
+"beat":                             "Music_theory/Beat"
 
 # moved in #7154
 "fc":                               "Gameplay/Full_combo"

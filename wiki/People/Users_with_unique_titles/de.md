@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 689c2f3805a618b8f08342661faa1a0328fccfb1
+---
+
 # Benutzer mit einzigartigen Titeln
 
 Nutzertitel sind in der Regel mit [Benutzergruppen](/wiki/People/The_Team#benutzergruppen) verbunden, aber die unten aufgelisteten Benutzer haben ihre Titel aus anderen Gründen erhalten. Die meisten Titel waren Auszeichnungen für Beiträge oder Errungenschaften, wobei die übrigen Titel Symbole der kultigen oder lustigen osu!-Geschichte sind.
@@ -240,6 +245,7 @@ Die Wettbewerbe [osu!trivium Quiz](/wiki/Contests/osu!trivium_Quiz) vergeben ihr
 | ::{ flag=ES }:: [sotuiofficial](https://osu.ppy.sh/users/14779258) | [Rising Sun Traxx](https://osu.ppy.sh/beatmaps/artists/41) |
 | ::{ flag=RU }:: [tieff](https://osu.ppy.sh/users/89619) | [tieff](https://osu.ppy.sh/beatmaps/artists/34) |
 | ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) | [VINXIS](https://osu.ppy.sh/beatmaps/artists/22) |
+| ::{ flag=TH }:: [YuugenP](https://osu.ppy.sh/users/2014016) | [rN](https://osu.ppy.sh/beatmaps/artists/190) |
 
 ## Gewinner des Maskottchen-Design-Wettbewerbs
 
