@@ -12,13 +12,13 @@ tags:
 
 ## osu!
 
-Di [osu!](/wiki/Game_mode/osu!), setiap [hit object](/wiki/Hit_object) memiliki angka dan warna kombo. Ketika kombo baru dimulai, warna kombo dan angka kombo disetel ulang menjadi satu. Ini dihitung setiap objek.
+Di [osu!](/wiki/Game_mode/osu!), setiap [hit object](/wiki/Hit_object) memiliki angka dan [warna kombo](/wiki/Beatmapping/Combo_colour). Ketika kombo baru dimulai, warna kombo dan angka kombo disetel ulang menjadi satu. Ini dihitung setiap objek.
 
-*Catatan: Spinner memaksa hit object selanjutnya untuk memulai kombo baru.*
+*Catatan: [Spinner](/wiki/Gameplay/Hit_object/Spinner) memaksa hit object selanjutnya untuk memulai kombo baru.*
 
 ## osu!catch
 
-Di [osu!catch](/wiki/Game_mode/osu!catch), setiap tipe dari buah diwarnai dengan warna kombo yang dipilih saat ini. Ketika kombo baru dimulai, warna kombo akan berubah. Berbeda dengan osu!, buah tidak memiliki angka kombo.
+Di [osu!catch](/wiki/Game_mode/osu!catch), setiap tipe dari [buah](/wiki/Gameplay/Hit_object/Fruit) diwarnai dengan warna kombo yang dipilih saat ini. Ketika kombo baru dimulai, warna kombo akan berubah. Berbeda dengan osu!, buah tidak memiliki angka kombo.
 
 ## Mode permainan lain
 
