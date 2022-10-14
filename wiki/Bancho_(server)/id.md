@@ -1,8 +1,9 @@
 ---
-stub: true
 tags:
   - internet relay chat
   - IRC
+outdated_translation: true
+outdated_since: bf2bda082372e609b197acae5aafd6d022ab16bf
 ---
 
 # Bancho (server obrolan)

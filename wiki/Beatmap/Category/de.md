@@ -8,7 +8,7 @@ Hochgeladene [Beatmaps](/wiki/Beatmap) werden, abhängig von kürzlicher Aktivit
 
 Der Friedhof ist ein Ort, an dem sich Beatmaps befinden, die von ihren [Hosts](/wiki/Beatmap/Beatmap_host) aufgegeben wurden. Beatmaps in dieser Kategorie haben zwar keine Ranglisten, können aber weiterhin heruntergeladen und gespielt werden und [tragen auch zu den Spielstatistiken bei](#spielstatistiken-von-unranked-beatmaps). In der [Songauswahl](/wiki/Client/Interface#songauswahl) werden sie mit einem Fragezeichen-Symbol (![](/wiki/shared/status/graveyard.png)) markiert.
 
-Eine Beatmap wird von der [WIP- und Ausstehend-Kategorie](#work-in-progress-und-ausstehend) automatisch auf den Friedhof verschoben, sobald sie 4 Wochen lang nicht aktualisiert wird. Der Ersteller der Beatmap kann diese durch ein Update über das [Beatmap-Submission-System](/wiki/Submission) wiederbeleben (z.B. zurück in die [Ausstehend-Kategorie](#work-in-progress-und-ausstehend) verschieben). Eine begrabene Beatmap zählt nicht zum [Upload-Limit](/wiki/osu!supporter#erhöhte-grenzwerte), benötigt aber einen freien Ausstehend-Slot, um wiederbelebt zu werden.
+Eine Beatmap wird von der [WIP- und Ausstehend-Kategorie](#work-in-progress-und-ausstehend) automatisch auf den Friedhof verschoben, sobald sie 4 Wochen lang nicht aktualisiert wird. Der Ersteller der Beatmap kann diese durch ein Update über das [Beatmap-Submission-System](/wiki/Beatmapping/Beatmap_submission) wiederbeleben (z.B. zurück in die [Ausstehend-Kategorie](#work-in-progress-und-ausstehend) verschieben). Eine begrabene Beatmap zählt nicht zum [Upload-Limit](/wiki/osu!supporter#erhöhte-grenzwerte), benötigt aber einen freien Ausstehend-Slot, um wiederbelebt zu werden.
 
 ### Work in Progress und Ausstehend
 

@@ -133,7 +133,7 @@ Alors que les mods Half Time *(HT)* et Double Time *(DT)* ne modifient pas la va
 
 *Page principale : [overall difficulty](/wiki/Beatmapping/Overall_difficulty)*
 
-![Tableau détaillé de l'OD](img/ODTable.png "Tableau détaillé de l'OD")
+![](/wiki/shared/ODTable.png "Comparaison des fenêtres de timing pour différentes combinaisons d'OD et de modificateurs de jeu. Pour les mods Half Time et Double Time, les valeurs d'OD indiquées ne sont valables que pour les 300, et seraient différentes pour les 100 et 50.")
 
 *Remarque : le tableau ci-dessus s'applique uniquement au mode de jeu osu!.*\
 *Remarque : Sur la page de la beatmap, l'overall difficulty est indiquée sous le nom de Précision.*

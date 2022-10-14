@@ -227,7 +227,7 @@ All osu! originals that have been licensed by the game are cleared for use in os
 
 | Song | Beatmap | Notes |
 | :-: | :-: | :-- |
-| [katagiri - Palace of Melancholia](https://www.youtube.com/watch?v=-Wq8Kk9Trsw) | [#1](https://osu.ppy.sh/beatmapsets/1581367) | Grand Finals Tiebreaker |
+| [katagiri - Palace of Melancholia](https://www.youtube.com/watch?v=-Wq8Kk9Trsw) | [#1](https://osu.ppy.sh/beatmapsets/1581367) | Grand Finals tiebreaker |
 | [VINXIS - FALL](https://www.youtube.com/watch?v=_FlHUWVjHvY)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1581340) | Grand Finals NM6 |
 
 #### ![](/wiki/shared/mode/osu.png) Corsace Open 2022
@@ -286,16 +286,18 @@ All osu! originals that have been licensed by the game are cleared for use in os
 | [Aoi - TYPE-Rebellion](https://www.youtube.com/watch?v=rH4EeaJ1X0c)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1833435) | Round of 64 FM1 |
 | [blobdash - Corrupted Binary StaR](https://soundcloud.com/blobdash/corrupted-binary-star) | [#1](https://osu.ppy.sh/beatmapsets/1846727) | Quarterfinals NM1 |
 | [blobdash - Resentment](https://soundcloud.com/blobdash/resentment) | [#1](https://osu.ppy.sh/beatmapsets/1850544) | Semifinals FM2 |
-| [blobdash & Raphlesia - Recollection](https://soundcloud.com/blobdash/recollection) | [#1](https://osu.ppy.sh/beatmapsets/1828727) | Round of 96 Tiebreaker |
-| [DJ Raisei - Fractured Angel](https://www.youtube.com/watch?v=YlaYNIXJAyM)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1838114) | Round of 32 Tiebreaker |
+| [blobdash & Raphlesia - Recollection](https://soundcloud.com/blobdash/recollection) | [#1](https://osu.ppy.sh/beatmapsets/1828727) | Round of 96 tiebreaker |
+| [DJ Raisei - Fractured Angel](https://www.youtube.com/watch?v=YlaYNIXJAyM)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1838114) | Round of 32 tiebreaker |
 | [DJ Witch Girl MIR4CLEN - Danrit](https://soundcloud.com/mir4clen/osutaiko) | [#1](https://osu.ppy.sh/beatmapsets/1842746) | Round of 16 FM3 |
 | [Gardens - Rafflesia](https://soundcloud.com/gardensdtm/rafflesia) | [#1](https://osu.ppy.sh/beatmapsets/1833491) | Round of 64 tiebreaker |
+| [GTS Sound Team -《/nttld.:beings》 \~Truth in Uncertainty\~](https://soundcloud.com/sdmne/nttldbeings-truth-in-uncertainty)[^fa-feature] | [#1](https://osu.ppy.sh/beatmapsets/1859338#taiko/3822143) | Grand Finals tiebreaker |
 | [KAH - Judge UP↑ DOWN↓](https://soundcloud.com/kah_growsong/gts2022judge-up-down) | [#1](https://osu.ppy.sh/beatmapsets/1828735) | Round of 128 FM3 |
 | [Kou! - Sanzui](https://soundcloud.com/kou_desu/sanzui) | [#1](https://osu.ppy.sh/beatmapsets/1846769) | Quarterfinals FM1 |
 | [kyou1110 - Mam rozbite sluchatka placem](https://www.youtube.com/watch?v=eAaJjlP2N_A) | [#1](https://osu.ppy.sh/beatmapsets/1846616) | Quarterfinals tiebreaker |
 | [NIWASHI - Silence is Golden, Speech is Golden](https://soundcloud.com/n1wa5h1/niwashi-silence-is-golden-speech-is-golden)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1833489) | Round of 32 NM1 |
 | [one fourteen - break through](https://soundcloud.com/luzeria/breakthrough) | [#1](https://osu.ppy.sh/beatmapsets/1850900) | Semifinals NM1 |
 | [rN vs. \[Shanom, ptar124 & Zekai\] - dichroma, ludiosia.](https://soundcloud.com/rurinn/dichroma)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1842219) | Round of 16 tiebreaker |
+| Rukadesu & 5KiLOBYTE - ULTIMATE | [#1](https://osu.ppy.sh/beatmapsets/1859283#taiko/3822010) | Grand Finals FM3 |
 | [Sad Keyboard Guy - Reflection Shift](https://soundcloud.com/sadkeyboardguy/reflection-shift) | [#1](https://osu.ppy.sh/beatmapsets/1851049) | Semifinals FM3 |
 | [Slax - Giri the Giri](https://www.youtube.com/watch?v=2IS9oBstIcY) | [#1](https://osu.ppy.sh/beatmapsets/1828739) | Round of 128 HD2 |
 | [Sparxe - Dream Elevator](https://www.youtube.com/watch?v=twx6tOXXy4Q) | [#1](https://osu.ppy.sh/beatmapsets/1837865) | Round of 32 DT1 |
@@ -441,6 +443,7 @@ All osu! originals that have been licensed by the game are cleared for use in os
 | Kuba Oms - My Love (pm04034 Remix) | [#1](https://osu.ppy.sh/beatmapsets/1382737) |  |
 | [Kuba Oms - My Love (Raytoly Trance Remix)](https://soundcloud.com/raytoly/kuba-oms-my-love-raytoly-trance-remix) | [#1](https://osu.ppy.sh/beatmapsets/1389153) |  |
 | [Kuba Oms - My Love (Redside Remix) (feat. Hatsune Miku)](https://www.youtube.com/watch?v=MGTf7A4B2jw) | [#1](https://osu.ppy.sh/beatmapsets/1388993) | Community Pick winner |
+| [Kuba Oms - My Love (SAMString Remix)](https://soundcloud.com/samstring/kuba-oms-my-love-samstring-remix) | [#1](https://osu.ppy.sh/beatmapsets/1389249#osu/2868999) |  |
 | [Kuba Oms - My Love (Shadren Remix)](https://soundcloud.com/shadren808/kuba-oms-my-love-shadren-remix) | [#1](https://osu.ppy.sh/beatmapsets/1382412) |  |
 | [Kuba Oms - My Love (takehirotei Remix)](https://soundcloud.com/takehirotei/kuba-oms-my-love-takehirotei-remix) | [#1](https://osu.ppy.sh/beatmapsets/1390004) |  |
 | Kuba Oms - My Love (tochi's Atmospheric Remix) | [#1](https://osu.ppy.sh/beatmapsets/1389401) |  |
@@ -463,11 +466,12 @@ All osu! originals that have been licensed by the game are cleared for use in os
 | Ketchup - ProjectUnreality | [#1](https://osu.ppy.sh/beatmapsets/9077) |  |
 | [Natteke ft. tieff - Endless Tower](https://www.youtube.com/watch?v=TNAGrCBfQKc)[^fa-feature] | [#1](https://osu.ppy.sh/beatmapsets/17076) | Later featured in [osu!stream](/wiki/osu!stream) |
 | [Natteke ft. tieff - The Dream](https://www.youtube.com/watch?v=vtVT3A-ALUQ)[^fa-feature] | [#1](https://osu.ppy.sh/beatmapsets/16599#osu/59406) | Later featured in [osu!stream](/wiki/osu!stream) |
-| [osu! training man - TRAINING-1](https://www.youtube.com/watch?v=jS2r8PuyymI) | [#1](https://osu.ppy.sh/beatmapsets/1727804) |  |
+| [osu! training man - TRAINING-1](https://www.youtube.com/watch?v=jS2r8PuyymI)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1727804) |  |
 | [Rabbit House - Muspelheim](https://soundcloud.com/dksslqj/muspelheim)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/815126) |  |
 | [Shadren - Fanteer](https://soundcloud.com/shadren808/fanteer) | [#1](https://osu.ppy.sh/beatmapsets/725913) |  |
 | tieff - Sound of Night[^fa] | [#1](https://osu.ppy.sh/beatmapsets/15952) |  |
 | [-Tochi - Ascension (feat. Yoko Kanno)](https://www.youtube.com/watch?v=XvpOwOgdRww) | [#1](https://osu.ppy.sh/beatmapsets/1267316) |  |
+| [VINXIS - Joushou no Tabi \~ The Ascending Journey](https://www.youtube.com/watch?v=NAqdOfIVm2A)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1857663) |  |
 
 ## Notes
 
