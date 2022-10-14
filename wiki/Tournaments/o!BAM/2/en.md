@@ -132,11 +132,6 @@ The osu! Battle Archive Malaysia 2022 is run by various community members.
   1. [Aitsuki Nakuru - Enamel no Butoukai (Settia) \[waltz of the fairytale\]](https://osu.ppy.sh/beatmapsets/553947#osu/1172882)
   2. [Mikazuki BIGWAVE - WAVE2020 (Faito) \[EXTRA\]](https://osu.ppy.sh/beatmapsets/1397341#osu/2883686)
 
-
-
-
-
-
 ### Quarterfinals
 
 **[Download the mappack here! (94 MB)](https://cdn.discordapp.com/attachments/959526009546346516/1026517827089346590/OBAM2022_QF.rar)**
