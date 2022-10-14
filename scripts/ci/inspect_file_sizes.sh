@@ -32,7 +32,6 @@ function main() {
     esac
 
     for file in ${TARGET_FILES}; do
-        echo "Checking ${file}..."
         if test "$MODE" = "default"; then
             hash=$( git ls-tree $LAST_COMMIT_HASH ${file} | awk -F ' ' '{ print $3 }' )
             filesize=$( git cat-file -s ${hash} 2>/dev/null )

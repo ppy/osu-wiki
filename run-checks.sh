@@ -3,11 +3,14 @@
 # This runs CI checks for committed and unstaged files, but not untracked files.
 # For newly added files, stage or commit them before running these checks.
 
-set -e
+function print_error() { printf -- "\e[0;31m$1\e[m\n" 1>&2; }
+function print_warning() { printf -- "\e[0;34m$1\e[m\n" 1>&2; }
+function print_success() { printf -- "\e[0;32m$1\e[m\n" 1>&2; }
+function print_ok() { printf -- "$1\n" 1>&2; }
 
-# Do not shadow node_modules by the host directory: https://stackoverflow.com/q/29181032#comment97216954_37898591
-_docker() {
-  osu_wiki_root=$( cd -- $( dirname $0 ) && pwd )
+# Do not shadow node_modules in the container: https://stackoverflow.com/q/29181032#comment97216954_37898591
+function _docker() {
+  osu_wiki_root=$( cd -- "$( dirname $0 )" && pwd )
   container_workdir="/osu-wiki"
   docker run \
     --volume ${osu_wiki_root}:${container_workdir}/ \
@@ -15,59 +18,71 @@ _docker() {
     --workdir ${container_workdir} osu-wiki "$@"
 }
 
-main() {
-  CURRENT_BRANCH=$( git branch --show-current )
-  if test ${CURRENT_BRANCH} = 'master'; then
-    printf -- "Please run this from a feature branch, i.e. not 'master'.\n"
+function _test_wrapper() {
+  test_name="$1"
+  command_line="$2"
+  files="$3"
+
+  if test -z "$files"; then
+    print_success "* Skip $test_name test"
+  else
+    print_ok "* Run $test_name test"
+    eval "$command_line $files"
+    return_code=$?
+    if test $return_code -eq 0; then
+      print_success "* Passed $test_name test"
+    else
+      print_error "* Failed $test_name test (exit code $return_code)"
+    fi
+  fi
+}
+
+function main() {
+  current_branch=$( git branch --show-current )
+  if test ${current_branch} = 'master'; then
+    print_error "Please run this from a feature branch, i.e. not 'master'"
     exit 1
   fi
 
-  FIRST_COMMIT_HASH=$( git log master..${CURRENT_BRANCH} --pretty=format:%H | tail -1 )
+  first_commit_hash=$( git log master..${current_branch} --pretty=format:%H | tail -1 )
 
-  INTERESTING_FILES=$(
+  interesting_files=$(
     sort -u < <(
       # Changes that are not committed (staged + unstaged + untracked), but without deleted files
       git status --short -v -v --no-renames --porcelain | awk '$1 != "D" { print $2 }'
       # Changes committed so far (may overlap with the above)
-      git diff --no-renames --name-only --diff-filter=d ${FIRST_COMMIT_HASH}^
+      git diff --no-renames --name-only --diff-filter=d ${first_commit_hash}^
     )
   )
 
-  if test -z "${INTERESTING_FILES}"; then
-    printf -- "No changes to check\n"
+  if test -z "${interesting_files}"; then
+    print_success "No changes detected -- nothing to check"
     exit 0
   fi
 
-  INTERESTING_ARTICLES=$( echo "${INTERESTING_FILES}" | grep -e ^wiki/ -e ^news/ | grep .md$ || true )
+  interesting_articles=$( echo "${interesting_files}" | grep -e ^wiki/ -e ^news/ | grep .md$ )
 
   if ! ( which docker > /dev/null ); then
-    printf -- "\n--- Missing docker. Install it from https://docs.docker.com/get-docker/ and restart the shell ---\n\n"
+    print_error "Missing Docker. Install it from https://docs.docker.com/engine and restart the shell"
     exit 1
   fi
 
   if test -z $( docker images -q osu-wiki ); then
-    printf -- "\n--- No Docker image found, building... ---\n\n"
+    print_warning "No Docker image found, building (this is a one-time procedure)..."
     if ! ( DOCKER_BUILDKIT=1 docker build -t osu-wiki . ); then
-      printf -- "\n--- Image build failed ---\n\n"
+      print_error "Failed to build a Docker image"
       exit 1
     fi
   fi
 
-  printf -- "\n--- File size check ---\n\n"
-  _docker bash scripts/ci/inspect_file_sizes.sh --target ${INTERESTING_FILES}
+  _test_wrapper "file size" "_docker bash scripts/ci/inspect_file_sizes.sh --target" ${interesting_files}
+  _test_wrapper "article style" "_docker bash scripts/ci/run_remark.sh --target" ${interesting_articles}
 
-  printf -- "\n--- Run remark ---\n\n"
-  _docker bash scripts/ci/run_remark.sh --target ${INTERESTING_ARTICLES}
+  yamllint_target_files=$( echo "${interesting_files}" | grep -e .yaml$ -e .yml$ -e .md$ )
+  _test_wrapper "YAML style" "_docker python3 scripts/ci/run_yamllint.py --config .yamllint.yaml --target" ${yamllint_target_files}
 
-  printf -- "\n--- Run yamllint ---\n\n"
-  YAMLLINT_TARGET_FILES=$( echo "${INTERESTING_FILES}" | grep -e .yaml$ -e .yml$ -e .md$ || true )
-  _docker python3 scripts/ci/run_yamllint.py --config .yamllint.yaml --target ${YAMLLINT_TARGET_FILES}
-
-  printf -- "\n--- Broken wikilink check ---\n\n"
-  _docker osu-wiki-tools check-links --target ${INTERESTING_ARTICLES}
-
-  printf -- "\n--- Outdated tag check ---\n\n"
-  _docker osu-wiki-tools check-outdated-articles --workflow --base-commit ${FIRST_COMMIT_HASH}
+  _test_wrapper "link" "_docker osu-wiki-tools check-links --target" ${interesting_articles}
+  _test_wrapper "article freshness" "_docker osu-wiki-tools check-outdated-articles --workflow --base-commit" ${first_commit_hash}
 }
 
 main
