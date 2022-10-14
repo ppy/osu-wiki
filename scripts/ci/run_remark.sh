@@ -40,7 +40,7 @@ function main() {
 
   EXIT=0  
   if test -n "${TARGET_FILES}"; then
-    npx remark -qf --color --no-stdout --report="$REPORTER" --silently-ignore "${TARGET_FILES}"
+    npx remark -qf --color --no-stdout --report="$REPORTER" --silently-ignore ${TARGET_FILES}
     EXIT=$?
   fi
 

@@ -54,17 +54,17 @@ main() {
   fi
 
   printf -- "\n--- File size check ---\n\n"
-  _docker bash scripts/ci/inspect_file_sizes.sh --target "${INTERESTING_FILES}"
+  _docker bash scripts/ci/inspect_file_sizes.sh --target ${INTERESTING_FILES}
 
   printf -- "\n--- Run remark ---\n\n"
-  _docker bash scripts/ci/run_remark.sh --target "${INTERESTING_ARTICLES}"
+  _docker bash scripts/ci/run_remark.sh --target ${INTERESTING_ARTICLES}
 
   printf -- "\n--- Run yamllint ---\n\n"
   YAMLLINT_TARGET_FILES=$( echo "${INTERESTING_FILES}" | grep -e .yaml$ -e .yml$ -e .md$ || true )
-  _docker python3 scripts/ci/run_yamllint.py --config .yamllint.yaml --target "${YAMLLINT_TARGET_FILES}"
+  _docker python3 scripts/ci/run_yamllint.py --config .yamllint.yaml --target ${YAMLLINT_TARGET_FILES}
 
   printf -- "\n--- Broken wikilink check ---\n\n"
-  _docker osu-wiki-tools check-links --target "${INTERESTING_ARTICLES}"
+  _docker osu-wiki-tools check-links --target ${INTERESTING_ARTICLES}
 
   printf -- "\n--- Outdated tag check ---\n\n"
   _docker osu-wiki-tools check-outdated-articles --workflow --base-commit ${FIRST_COMMIT_HASH}
