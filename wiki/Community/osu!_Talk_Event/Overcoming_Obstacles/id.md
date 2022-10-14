@@ -7,7 +7,7 @@ tags:
 
 ![Banner osu! Talk Event: Overcoming Obstacles](/wiki/shared/news/2022-05-19-osu-talk-event-overcoming-obstacles/ote-newspost-banner.png)
 
-**osu! Talk Event** merupakan acara *talk show* hasil gagasan osu! University yang mengundang berbagai narasumber untuk membahas seputar berbagai macam topik. Artikel ini mencakup iterasi pertama dari acara ini, yang mengusung tema "*overcoming obstacles*" (atau "mengatasi kesulitan").
+**osu! Talk Event** merupakan acara *talk show* hasil gagasan [osu! University](/wiki/Community/Discord_servers/osu!_University) yang mengundang berbagai narasumber untuk membahas seputar berbagai macam topik. Artikel ini mencakup iterasi pertama dari acara ini, yang mengusung tema "*overcoming obstacles*" (atau "mengatasi kesulitan").
 
 Para pembicara membicarakan topiknya masing-masing pada *channel* Stage yang terdapat di [server Discord osu!dev](/wiki/Community/osu!dev_Discord_server). Selama acara berlangsung, berbagai utas terkait di *channel* `#community-meetings` akan dibuka sebagai tempat berdiskusi.
 
