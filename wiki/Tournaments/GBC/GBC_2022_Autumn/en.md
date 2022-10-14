@@ -27,21 +27,23 @@ The **GB Cup 2022 Autumn** (***GBC 2022 Autumn***) is a 3v3 captain draft-based 
 | Regular stage week 2 | 2022-11-05/2022-11-06 |
 | Regular stage week 3 | 2022-11-12/2022-11-13 |
 | Regular stage week 4 | 2022-11-19/2022-11-20 |
-| Quarterfinals | 2022-11-26/2022-11-27 |
-| Semifinals | 2022-12-03/2022-12-04 |
-| Finals | 2022-12-10/2022-12-11 |
+| Round of 16 | 2022-11-26/2022-11-27 |
+| Quarterfinals | 2022-12-03/2022-12-04 |
+| Semifinals | 2022-12-10/2022-12-11 |
+| Finals | 2022-12-17/2022-12-18 |
 
 ## Prizes
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, KanonBot profile badge, *TBA* CNY |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | KanonBot profile badge, *TBA* CNY |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | KanonBot profile badge, *TBA* CNY |
-| *4th place* | *TBA* CNY |
-| *5-8th place* | *TBA* CNY |
-
-Teams will also be awarded a *TBA* CNY bonus for each regular stage win.
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, KanonBot profile badge, Custom medal per team member, ¥250 CNY |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | KanonBot profile badge, Custom medal per team member, ¥250 CNY |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | KanonBot profile badge, Custom medal per team member, ¥200 CNY |
+| *4th place* | Custom medal per team member, ¥150 CNY |
+| *5-8th place* | ¥100 CNY |
+| *9-16th place* | ¥80 CNY |
+| *17-21st place* | ¥60 CNY |
+| *22-24th place* | ¥30 CNY |
 
 ## Organisation
 
@@ -51,14 +53,14 @@ The GB Cup 2022 Autumn is run by the Team GB and various community members.
 | :-- | :-- |
 | Host | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
 | Staff | ::{ flag=CN }:: [\[GB\]gluefly](https://osu.ppy.sh/users/8715409), ::{ flag=GB }:: [-Deepdive-](https://osu.ppy.sh/users/13338645), ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501) |
-| Mappool selector | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260), ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [Yueast 2018](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501) |
+| Mappool selector | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260), ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501) |
 | SV mappool selector | ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561) |
-| Mappool helper | ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831),::{ flag=GB }:: [-Deepdive-](https://osu.ppy.sh/users/13338645), ::{ flag=CN }:: [Lubei_01](https://osu.ppy.sh/users/11692528) |
+| Mappool helper | ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=GB }:: [-Deepdive-](https://osu.ppy.sh/users/13338645), ::{ flag=CN }:: [Lubei_01](https://osu.ppy.sh/users/11692528) |
 | Referee | *TBA* |
 | Commentator | *TBA* |
 | Streamer | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617) |
 | Designer | ::{ flag=CN }:: [\[GB\]PlayandyoU](https://osu.ppy.sh/users/14759634), ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561)  |
-| Statistician | ::{ flag=CN }:: [\[GB\]Rush\_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=CN }:: [\[GB\]Yuria](https://osu.ppy.sh/users/13092888), ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
+| Statistician & wiki editor | ::{ flag=CN }:: [\[GB\]Rush\_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=CN }:: [\[GB\]Yuria](https://osu.ppy.sh/users/13092888), ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [\[GB\]Natro](https://osu.ppy.sh/users/27233308) |
 
 ## Links
 
@@ -66,32 +68,51 @@ The GB Cup 2022 Autumn is run by the Team GB and various community members.
 - Livestream
   - [Bilibili stream](https://live.bilibili.com/22545296) (::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407))
   - [Bilibili stream](https://live.bilibili.com/10183) (::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617))
-- **[Register here](https://wj.qq.com/s2/10842634/1ffa/)**
 - [GBC QQ Group](https://jq.qq.com/?_wv=1027&k=zqBeTqMW)
 - [Information spreadsheet](https://docs.qq.com/sheet/DZUVwTnF1aEVmdlVX)
+
+## Mappools
+
+### Qualifiers
+
+**[Download the mappack here (42.7 MB)](https://drive.google.com/file/d/1abZPwPZjVNi9NfaooDZXBhxCME-W1m2i/)**
+
+- Rice
+  1. [Zris feat. Kri - Can't it be true (Hylotl) \[Stage 2: False\]](https://osu.ppy.sh/beatmapsets/1863063#mania/3831047)
+  2. [Sakamiya - Valkyrie Revolutia (Hylotl) \[Stage 3: All or Nothing\]](https://osu.ppy.sh/beatmapsets/1863066#mania/3831054)
+  3. [Ling Yuan yousa - Shen De Sui Bo Zhu Liu (YuEast 2018) \[Stage 4: Insouciance\]](https://osu.ppy.sh/beatmapsets/1863062#mania/3831046)
+- LN
+  1. [M2U - The Prince of Darkness (\[GB\]Luoxuan0327) \[Stage 5: Recollection\]](https://osu.ppy.sh/beatmapsets/1863059#mania/3831043)
+  2. [senya - Nagori Tori (\[GB\]Sanae) \[Stage 6: Calamity\]](https://osu.ppy.sh/beatmapsets/1863061#mania/3831045)
+- Hybrid
+  1. [Ayo - Brain Rigid Girl (-Deepdive-) \[Stage 7: Myon\]](https://osu.ppy.sh/beatmapsets/1863070#mania/3831058)
+  2. [Aoi - aterlbus (YuEast 2018) \[Stage 8: Bipolar\]](https://osu.ppy.sh/beatmapsets/1863069#mania/3831057)
+- SV
+  1. [IslandWind/PIKASONIC - Forever (Cut ver.) (\[GB\]Mafufu) \[Stage 1: Everlasting\]](https://osu.ppy.sh/beatmapsets/1863068#mania/3831056)
 
 ## Ruleset
 
 ### Changes from last tournament
 
-1. Qualifier stage added, for determining captain role, result will be used in drafting phase.
-2. There will be some players been eliminated in qualifier and drafting phase.
-3. Regular stage have 4 rounds, used to be 3. only teams with 2-1 or 1-2 record will participate round 4.
-4. Player can't be banned in a match until he has finished a game in this match.
-5. The team that picks beatmaps first cannot ban players during the first 2 rounds.
-6. Picking beatmaps and banning players should be sent using a single message. If a team continues to be slow at banning, referees have rights to **ignore the ban**.
-7. "Sum of all score differences of each beatmap" added as a last method for determining ranking in the regular stage.
-8. Mappool size increased by 2 maps.
-9. For Regular stage ranking, now compare beatmap difference first, then Buchholz score[^bu].
+1. Qualifier stage added, for determining the captain role. The results will be used in the drafting phase.
+2. Some players will be eliminated in Qualifiers and the drafting phase.
+3. The Regular stage has 4 rounds instead of 3. Only teams with a 2-1 or 1-2 record will participate in round 4.
+4. Round of 16 added into playoffs.
+5. A player cannot be banned in a match until they have finished a game in that match.
+6. The team that picks beatmaps first cannot ban players during the first 2 rounds.
+7. Picking beatmaps and banning players should be sent using a single message. If a team continues to be slow at banning, referees have rights to **ignore the ban**.
+8. "Sum of all score differences of each beatmap" added as a last method for determining ranking in the Regular stage.
+9. Mappool size increased by 2 maps.
+10. For Regular stage ranking, beatmap difference is now compared first, followed by Buchholz score[^bu].
 
 The following rules are changed to consistent with rules on `MWC 4k 2022` : 
 
-10. The winner of the `!roll` could **choose** to pick first or ban first of the match.
-11. A failed player's score will still get added to the team score.
-12. Teams are allowed to rematch if any team member disconnects early on during a beatmap.
-13. Referees have the right to increase or decrease timer settings.
-14. Calling a tactical timeout on a tiebreaker requires the agreement of both teams' captains.
-15. NoFail mod can used in the FreeMod bracket.
+11. The winner of the `!roll` may **choose** to pick first or ban first of the match.
+12. A failed player's score will still get added to the team score.
+13. Teams are allowed to rematch if any team member disconnects early on during a beatmap.
+14. Referees have the right to increase or decrease timer settings.
+15. Calling a tactical timeout on a tiebreaker requires the agreement of both teams' captains.
+16. The No Fail mod can used in the FreeMod bracket.
 
 ### Tournament rules
 
@@ -171,9 +192,9 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
 
 ### Stage instructions
 
-1. Following the Qualifier stage, all player should participate a phase to form teams , called `Drafting phase`, unpicked player will be eliminated from the tournament.
-2. Following the Drafting phase, a swiss stage will be played, called `Regular stage`. Top 8 teams will be advanced, others are eliminated from the tournament.
-3. Following the Regular stage, a single elimination stage will be played, called `Play-offs`. This means that the winner continues with their runs, and the losing team will be eliminated from the tournament, except in the bronze match.
+1. Following the Qualifier stage, all player should participate a phase to form teams , called *Drafting phase*, unpicked player will be eliminated from the tournament.
+2. Following the drafting phase, a swiss stage will be played, called the *Regular stage*. The top 16 teams will advance, and the others get eliminated from the tournament.
+3. Following the Regular stage, a single-elimination stage will be played, called *Playoffs*. This means that the winner continues with their runs, and the losing team will be eliminated from the tournament, except in the bronze match.
 
 ### Drafting phase instructions
 
@@ -185,8 +206,8 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
    - Captains are allowed to conduct and coordinate "tryouts", tests to gauge player aptitude, on their own terms. 
 3. There will be a 120-second planning phase before the picking phase starts.
 4. During the picking phase, the pick order consists of 2 phases that repeat twice, such that every captains gets to choose 4 players.
-   - During phase 1 and 3, picks start in *increasing* order, from the 1st to the 16th captain.
-   - During phase 2 and 4, picks start in *decreasing* order, from the 16th to the 1st captain.
+   - During phase 1 and 3, picks start in *increasing* order, from the 1st to the 24th captain.
+   - During phase 2 and 4, picks start in *decreasing* order, from the 24th to the 1st captain.
    - *this might change depending on the number of incoming registrations.*
 5. Each captain has 60 seconds to pick one player from the player pool on their turn. 
    - If the captain does not pick an player within 60 seconds, a random player from the remaining player pool will be assigned to their team.
@@ -212,11 +233,12 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
    - Fewest beatmaps lost
    - Sum of all score differences of each beatmap (`∑(total score - opponent's total score)` for each beatmap played in the regular stage)
    - Dice roll
-3. The top 8 teams will advanced to the Playoff stage, while the remaining players get eliminated from the tournament.
-   - This means that teams with a record of `3-X` will advance to the next stage, while teams with a record of `X-3` will be eliminated.
-   - Also, teams with a record of `2-2` will have chance to advanced by ranking top 8.
-   - Teams with a record `3-0` or `0-3` needn't play round 4, as they are already advanced or get eliminated.
-4. The results from the Regular stage will also be used for seeding teams.
+3. On round 4, the highest ranked 2-1 team will faced to the lowest ranked 1-2 team。
+4. The top 16 teams will advanced to the Playoff stage, while the remaining players get eliminated from the tournament.
+   - This means that teams with a record of 3-X will advance to the next stage, while teams with a record of X-3 will be eliminated.
+   - Also, teams with a record of 2-2 will have the chance to advance by ranking in the top 16.
+   - Teams with a record 3-0 or 0-3 need not play round 4, as they have already advanced or gotten eliminated.
+5. The results from the Regular stage will also be used for seeding teams.
 
 ### Win conditions
 
@@ -256,17 +278,19 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
 
 ### Mappool instructions
 
-1. There will be five separate mappools, *this might change depending on the number of incoming registrations.*.
+1. There will be five separate mappools. *This might change depending on the number of incoming registrations.*
+   - Qualifiers will use a separate mappool.
    - Regular stage Round 1 and Round 2 use mappool \#1.
    - Regular stage Round 3 and Round 4 use mappool \#2.
-   - Quarterfinals, Semifinals and Finals use separate mappool (\#3, \#4, \#5).
+   - Round of 16 and Quarterfinals use mappool \#3.
+   - Semifinals and Finals use mappool \#4.
 2. Each mappool consists of a fixed amount of maps each stage which will all be played under [FreeMod](/wiki/Game_modifier#freemod) conditions. This means that there is a unique FreeMod bracket.
 3. The mappool sizes are as follows:
    - Qualifiers: 8 beatmaps   
    - Mappool \#1 & \#2: 15 beatmaps
-   - Mappool \#3, \#4, \#5: 17 beatmaps.
+   - Mappool \#3 & \#4: 17 beatmaps.
 4. Each mappool has one tiebreaker, except for the Qualifiers.
-5. Possible mod choices for the FreeMod bracket are NoFail, Hidden, FadeIn, Flashlight, and Mirror.
+5. Possible mod choices for the FreeMod bracket are No Fail, Hidden, Fade In, Flashlight, and Mirror.
 6. The tiebreaker will be played under FreeMod conditions.
 
 ### Scheduling information

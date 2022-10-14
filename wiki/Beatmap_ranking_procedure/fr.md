@@ -8,7 +8,7 @@ Les [beatmaps](/wiki/Beatmap) peuvent être promues dans la communauté en suiva
 
 Le créateur d'une beatmap peut marquer ses soumissions comme `Work in Progress` ou `En attente`. Les beatmaps de ces deux catégories sont destinées à recevoir les commentaires de la communauté d'osu!
 
-Le [modding](/wiki/Modding) est le processus qui consiste à recevoir des critiques constructives sur une beatmap et qui permet d'en améliorer la qualité. Les utilisateurs publient généralement leurs commentaires sur la page de discussion d'une beatmap ou discutent directement avec le créateur de la beatmap.
+Le [modding](/wiki/Modding) est le processus qui consiste à recevoir des critiques constructives sur une beatmap et qui permet d'en améliorer la qualité. Les utilisateurs publient généralement leurs commentaires sur la [page de discussion](/wiki/Beatmap_discussion) d'une beatmap ou discutent directement avec le créateur de la beatmap.
 
 Les nouveaux beatmappers ont généralement besoin d'un important travail de modding pour créer des beatmaps qui répondent aux normes de qualité de la catégorie classée, et il leur est souvent demandé de recréer leurs beatmaps à partir de zéro.
 
