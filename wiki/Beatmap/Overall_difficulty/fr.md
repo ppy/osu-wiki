@@ -5,9 +5,7 @@ tags:
   - OD
   - spinner difficulty
   - précision
-  - fenêtre de hit
-outdated_translation: true
-outdated_since: 59fa09aa5fb8f605a3f45c021080958f3bc5d44a
+  - fenêtre de timing
 ---
 
 # Overall difficulty
@@ -34,6 +32,8 @@ Les fenêtres de timing pour les jugements peuvent être visualisées en passant
 | 100 | `140 - 8 * OD` |
 | 50 | `200 - 10 * OD` |
 
+![](/wiki/shared/ODTable.png "Comparaison des fenêtres de timing pour différentes combinaisons d'OD et de modificateurs de jeu. Pour les mods Half Time et Double Time, les valeurs d'OD indiquées ne sont valables que pour les 300, et seraient différentes pour les 100 et 50.")
+
 ### osu!taiko
 
 | Score | Fenêtre de timing (ms) |
@@ -56,7 +56,7 @@ Si le joueur clique en dehors de la fenêtre de timing du 50, cela comptera comm
 
 ## Sliders et spinners
 
-Dans [osu!](/wiki/Game_mode/osu!), les [sliders](/wiki/Gameplay/Hit_object/Slider) récompensent le joueur d'un 300 tant qu'il clique dans la fenêtre de timing du 50. Cela est parfois appelé *slideracc* et est supprimé dans [ScoreV2](/wiki/Game_modifier/ScoreV2).
+Dans [osu!](/wiki/Game_mode/osu!), les [sliders](/wiki/Gameplay/Hit_object/Slider) récompensent le joueur d'un 300 tant qu'il clique dans la fenêtre de timing du 50. Cela est parfois appelé slider leniency et est supprimé dans [ScoreV2](/wiki/Game_modifier/ScoreV2).
 
 L'overall difficulty affecte également les [spinners](/wiki/Hit_object/Spinner), dans la mesure où il faut les faire tourner davantage pour remplir la jauge à temps. Dans le mode [osu!taiko](/wiki/Game_mode/osu!taiko), le denden aura également besoin de plus de coups pour être complété. Le nombre de tours par minutes nécessaires pour compléter un spinner est défini par la formule suivante :
 
