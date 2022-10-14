@@ -107,30 +107,35 @@ The osu! Battle Archive Malaysia 2022 is run by various community members.
 **[Download the mappack here! (121 MB)](https://cdn.discordapp.com/attachments/959526009546346516/1029057857917812746/OBAM_2022_Semifinals.rar)**
 
 - NoMod
-  1. [Nekomata Master - Despair of ELFERIA (Perseus) \[[Misery]\]](https://osu.ppy.sh/beatmapsets/484724#osu/1033939)
-  2. [SAMString - Shifting Clouds (My Angel Nino) \[[Blooming Sky]\]](https://osu.ppy.sh/beatmapsets/1532094#osu/3133390)
-  3. [Sangatsu no Phantasia - 101 (Jiysea) \[[Binary]\]](https://osu.ppy.sh/beatmapsets/1557672#osu/3181958)
-  4. [t+pazolite - Ka wa Taredoki no Yuuwaku (Seolv) \[[Aistre's Extra]\]](https://osu.ppy.sh/beatmapsets/1396547#osu/3426904)
-  5. [kamome sano - lovesick feat. punipunidenki(mnyui) \[[mayu's extra]\]](https://osu.ppy.sh/beatmapsets/1732015#osu/3576121)
-  6. [angela - Otome no Route wa Hitotsu Janai! (TV Size) (P1Twist) \[[Awesome Sauce]\]](https://osu.ppy.sh/beatmapsets/1709654#osu/3493468)
+  1. [Nekomata Master - Despair of ELFERIA (Perseus) \[Misery\]](https://osu.ppy.sh/beatmapsets/484724#osu/1033939)
+  2. [SAMString - Shifting Clouds (My Angel Nino) \[Blooming Sky\]](https://osu.ppy.sh/beatmapsets/1532094#osu/3133390)
+  3. [Sangatsu no Phantasia - 101 (Jiysea) \[Binary\]](https://osu.ppy.sh/beatmapsets/1557672#osu/3181958)
+  4. [t+pazolite - Ka wa Taredoki no Yuuwaku (Seolv) \[Aistre's Extra\]](https://osu.ppy.sh/beatmapsets/1396547#osu/3426904)
+  5. [kamome sano - lovesick feat. punipunidenki (mnyui) \[mayu's extra\]](https://osu.ppy.sh/beatmapsets/1732015#osu/3576121)
+  6. [angela - Otome no Route wa Hitotsu Janai! (TV Size) (P1Twist) \[Awesome Sauce\]](https://osu.ppy.sh/beatmapsets/1709654#osu/3493468)
 - Hidden
-  1. [angela - Otome no Route wa Hitotsu Janai! (verychill) \[[Camo's Extreme]\]](https://osu.ppy.sh/beatmapsets/1153303#osu/3120569)
-  2. [TQ* - Oracle (KKipalt) \[[ar8]\]](https://osu.ppy.sh/beatmapsets/1257565#osu/3607570)
-  3. [Yunosuke feat. Kafu - Hana to Nare(Chills) \[[Expert: Embracing Bloom]\]](https://osu.ppy.sh/beatmapsets/1650302#osu/3368327)
+  1. [angela - Otome no Route wa Hitotsu Janai! (verychill) \[Camo's Extreme\]](https://osu.ppy.sh/beatmapsets/1153303#osu/3120569)
+  2. [TQ* - Oracle (KKipalt) \[ar8\]](https://osu.ppy.sh/beatmapsets/1257565#osu/3607570)
+  3. [Yunosuke feat. Kafu - Hana to Nare (Chills) \[Expert: Embracing Bloom\]](https://osu.ppy.sh/beatmapsets/1650302#osu/3368327)
 - HardRock
-  1. [ginkiha feat. TEA - Neon tetra -kamome sano Remix- (Rumia-) \[[Aquarium]\]](https://osu.ppy.sh/beatmapsets/567692#osu/1203222)
-  2. [M2U - Wicked Fate (PaRaDogi) \[[Rose]\]](https://osu.ppy.sh/beatmapsets/1784450#osu/3654635)
-  3. [Mitsukiyo - Constant Moderato (araran) \[[Sunazuka Akira's Extra]\]](https://osu.ppy.sh/beatmapsets/1640689#osu/3369276)
+  1. [ginkiha feat. TEA - Neon tetra -kamome sano Remix- (Rumia-) \[Aquarium\]](https://osu.ppy.sh/beatmapsets/567692#osu/1203222)
+  2. [M2U - Wicked Fate (PaRaDogi) \[Rose\]](https://osu.ppy.sh/beatmapsets/1784450#osu/3654635)
+  3. [Mitsukiyo - Constant Moderato (araran) \[Sunazuka Akira's Extra\]](https://osu.ppy.sh/beatmapsets/1640689#osu/3369276)
 - DoubleTime
-  1. [Liz Triangle - Veda (Millie) \[[Funky Collab (edit ver.)]\]](https://osu.ppy.sh/beatmapsets/1816591#osu/3733005)
-  2. [isekaijoucho - Dimension (Rtyzen) \[[Insane]\]](https://osu.ppy.sh/beatmapsets/1613731#osu/3427718)
-  3. [DUSTCELL - izqnqi (Kudou Chitose) \[[insqne]\]](https://osu.ppy.sh/beatmapsets/1772131#osu/3628184)
-  4. [Silentroom - Aliake (Kardshark) \[[~]\]](https://osu.ppy.sh/beatmapsets/1863807#osu/3832849)
+  1. [Liz Triangle - Veda (Millie) \[Funky Collab (edit ver.)\]](https://osu.ppy.sh/beatmapsets/1816591#osu/3733005)
+  2. [isekaijoucho - Dimension (Rtyzen) \[Insane\]](https://osu.ppy.sh/beatmapsets/1613731#osu/3427718)
+  3. [DUSTCELL - izqnqi (Kudou Chitose) \[insqne\]](https://osu.ppy.sh/beatmapsets/1772131#osu/3628184)
+  4. [Silentroom - Aliake (Kardshark) \[~\]](https://osu.ppy.sh/beatmapsets/1863807#osu/3832849)
 - Flashlight + FreeMod
-  1. [Nyarons - After The Rain (Faito) \[[Pichi Pichi Jabu Jabu La La La]\]](https://osu.ppy.sh/beatmapsets/841259#osu/1760614)
+  1. [Nyarons - After The Rain (Striderin) \[Pichi Pichi Jabu Jabu La La La\]](https://osu.ppy.sh/beatmapsets/841259#osu/1760614)
 - FreeMod
-  1. [Aitsuki Nakuru - Enamel no Butoukai (Settia) \[[waltz of the fairytale]\]](https://osu.ppy.sh/beatmapsets/553947#osu/1172882)
-  2. [Mikazuki BIGWAVE - WAVE2020(Striderin) \[[EXTRA]\]](https://osu.ppy.sh/beatmapsets/1397341#osu/2883686)
+  1. [Aitsuki Nakuru - Enamel no Butoukai (Settia) \[waltz of the fairytale\]](https://osu.ppy.sh/beatmapsets/553947#osu/1172882)
+  2. [Mikazuki BIGWAVE - WAVE2020 (Faito) \[EXTRA\]](https://osu.ppy.sh/beatmapsets/1397341#osu/2883686)
+
+
+
+
+
 
 ### Quarterfinals
 
