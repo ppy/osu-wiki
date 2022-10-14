@@ -11,11 +11,11 @@ tags:
 
 The **Beatmap Spotlights** (or just *Spotlights*, formerly *Ranking Charts*) is a recurring curation program for recommending and highlighting [beatmaps](/wiki/Beatmap) for their excellent and unique gameplay and design. It is accompanied by a [seasonal league](#spotlights-seasons), where players compete on said maps for [badge prizes](#rewards).
 
-The current season is the Spring 2022 season.
+The current season is the Summer 2022 season.
 
 ## Participation
 
-To participate in the Beatmap Spotlights, download the latest version of the lazer client from its [GitHub releases page](https://github.com/ppy/osu/releases/latest).
+To participate in the Beatmap Spotlights, download the latest version of the osu!(lazer) client from its [GitHub releases page](https://github.com/ppy/osu/releases/latest).
 
 After installing and logging into your account, head on over to the playlists tab in the play section and find the Spotlights lobbies as denoted by a little pink bar, or filter by them from the top-right corner.
 
@@ -106,9 +106,9 @@ The seasonal leaderboard sums up the weekly ranked score results of every partic
 
 Rewards are distributed to playlist lobby winners, creators of Beatmap of the Season picks, and every participant present on the seasonal leaderboard.
 
-The top 10 players of each playlist lobby will receive **1 week of osu!supporter**.
+The top 10 players of each playlist lobby will receive **1 week of [osu!supporter](/wiki/osu!supporter)**.
 
-After the conclusion of each season, votes are opened for the *Beatmap of the Season*, where players and curators each get to pick a winning map for each game mode, totalling 8. The winning entries are announced at start of the next season, and their creators will receive **3 months of osu!supporter**.
+After the conclusion of each season, votes are opened for the *Beatmap of the Season*, where players and curators each get to pick a winning map for each game mode, totalling 8. The winning entries are announced at start of the next season, and their creators will receive **3 months of [osu!supporter](/wiki/osu!supporter)**.
 
 During the season, every participant receives a temporary **badge** which reflects their current placement on the seasonal leaderboard, as described by the table below. These are updated after the conclusion of each playlist. Players who hold a Rhythm Incarnate badge by the end of the season will **keep it permanently**.
 

@@ -13,6 +13,8 @@ tags:
   - кооп
   - совместная игра
   - игра с друзьями
+outdated_translation: true
+outdated_since: a1204aec65f4533d47725e5a423e288bc4a41a40
 ---
 
 # Co-op (мод)
