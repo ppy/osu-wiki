@@ -125,7 +125,7 @@ The osu! Battle Archive Malaysia 2022 is run by various community members.
   1. [Liz Triangle - Veda (Millie) \[[Funky Collab (edit ver.)]\]](https://osu.ppy.sh/beatmapsets/1816591#osu/3733005)
   2. [isekaijoucho - Dimension (Rtyzen) \[[Insane]\]](https://osu.ppy.sh/beatmapsets/1613731#osu/3427718)
   3. [DUSTCELL - izqnqi (Kudou Chitose) \[[insqne]\]](https://osu.ppy.sh/beatmapsets/1772131#osu/3628184)
-  4. [Silentroom - Aliake (Kardshark) \[[~]\]](https://cdn.discordapp.com/attachments/950808941674254426/1028951069658710117/Silentroom_-_Aliake.osz)
+  4. [Silentroom - Aliake (Kardshark) \[[~]\]](https://osu.ppy.sh/beatmapsets/1863807#osu/3832849)
 - Flashlight + FreeMod
   1. [Nyarons - After The Rain (Faito) \[[Pichi Pichi Jabu Jabu La La La]\]](https://osu.ppy.sh/beatmapsets/841259#osu/1760614)
 - FreeMod
