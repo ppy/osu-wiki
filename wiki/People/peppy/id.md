@@ -5,8 +5,6 @@ tags:
   - Dean Herbert
   - pembuat
   - pencipta
-outdated_translation: true
-outdated_since: 3517ec8a4fbeb3c11bb8199546d2b346d0ab3b90
 ---
 
 # peppy
@@ -16,6 +14,7 @@ outdated_since: 3517ec8a4fbeb3c11bb8199546d2b346d0ab3b90
 ## Tautan-tautan yang terkait
 
 - **[Situs web](https://ppy.sh/)**
+- [Laman profil](https://osu.ppy.sh/users/2)
 - [Blog ppy](https://blog.ppy.sh/)
 - [GitHub](https://github.com/peppy)
 - [Twitter](https://twitter.com/ppy)
