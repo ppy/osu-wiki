@@ -21,13 +21,13 @@ function _docker() {
 function _test_wrapper() {
   test_name="$1"
   command_line="$2"
-  files="$3"
+  readarray -t files <<< "${@: 3}"
 
   if test -z "$files"; then
     print_success "* Skip $test_name test"
   else
     print_ok "* Run $test_name test"
-    $command_line "$files"
+    $command_line "${files[@]}"
     return_code=$?
     if test $return_code -eq 0; then
       print_success "* Passed $test_name test"
