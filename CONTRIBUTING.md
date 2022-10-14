@@ -30,7 +30,7 @@ For people familiar with the command line, these checks can also be run locally.
 
 ### Requirements
 
-- [Docker](https://docs.docker.com/get-docker/)
+- [Docker Engine](https://docs.docker.com/engine/) (part of Docker Desktop). Tip: on Linux, use [convenience installation scripts](https://docs.docker.com/engine/install/ubuntu/#install-using-the-convenience-script) to save time.
 
 ### Running
 
