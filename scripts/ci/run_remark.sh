@@ -38,8 +38,11 @@ function main() {
       TARGET_FILES=$( git diff --diff-filter=d --name-only --no-renames "$FIRST_COMMIT_HASH"^ "$LAST_COMMIT_HASH" -- '*.md' )
   esac
 
-  npx remark -qf --color --no-stdout --report="$REPORTER" --silently-ignore "$TARGET_FILES"
-  EXIT=$?
+  EXIT=0  
+  if test -n "${TARGET_FILES}"; then
+    npx remark -qf --color --no-stdout --report="$REPORTER" --silently-ignore "${TARGET_FILES}"
+    EXIT=$?
+  fi
 
   if test $EXIT -eq 0; then
     echo "${NOTICE_PREFIX}No errors detected." >&2

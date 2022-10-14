@@ -38,9 +38,9 @@ main() {
     exit 0
   fi
 
-  INTERESTING_ARTICLES=$( echo "${INTERESTING_FILES}" | grep -e ^wiki/ -e ^news/ | grep -e .md$ )
+  INTERESTING_ARTICLES=$( echo "${INTERESTING_FILES}" | grep -e ^wiki/ -e ^news/ | grep .md$ || true )
 
-  if ! ( which docker ); then
+  if ! ( which docker > /dev/null ); then
     printf -- "\n--- Missing docker. Install it from https://docs.docker.com/get-docker/ and restart the shell ---\n\n"
     exit 1
   fi
@@ -53,14 +53,14 @@ main() {
     fi
   fi
 
-  printf -- "--- File size check ---\n\n"
+  printf -- "\n--- File size check ---\n\n"
   _docker bash scripts/ci/inspect_file_sizes.sh --target "${INTERESTING_FILES}"
 
   printf -- "\n--- Run remark ---\n\n"
   _docker bash scripts/ci/run_remark.sh --target "${INTERESTING_ARTICLES}"
 
   printf -- "\n--- Run yamllint ---\n\n"
-  YAMLLINT_TARGET_FILES=$( echo "${INTERESTING_FILES}" | grep -e .yaml$ -e .md$ )
+  YAMLLINT_TARGET_FILES=$( echo "${INTERESTING_FILES}" | grep -e .yaml$ -e .yml$ -e .md$ || true )
   _docker python3 scripts/ci/run_yamllint.py --config .yamllint.yaml --target "${YAMLLINT_TARGET_FILES}"
 
   printf -- "\n--- Broken wikilink check ---\n\n"
