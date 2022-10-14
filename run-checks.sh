@@ -47,7 +47,7 @@ main() {
 
   if test -z $( docker images -q osu-wiki ); then
     printf -- "\n--- No Docker image found, building... ---\n\n"
-    if ! ( docker build -t osu-wiki . ); then
+    if ! ( DOCKER_BUILDKIT=1 docker build -t osu-wiki . ); then
       printf -- "\n--- Image build failed ---\n\n"
       exit 1
     fi
