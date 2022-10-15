@@ -100,7 +100,7 @@ osu! 的谱面都是充满活力的社区内玩家们的智慧结晶，想与大
 
 [锦标赛](/wiki/Tournaments) • [聚光灯](/wiki/Beatmap_Spotlights) • [竞赛](/wiki/Contests) • [社区导师计划](/wiki/Community/Community_Mentorship_Program)
 
-[社区项目](/wiki/Community/Projects) • [精选艺术家](/wiki/Featured_Artists) • [osu! 社区会议](/wiki/Community/osu!_community_meetings) • [osu! 学院](/wiki/Community/Video_series/osu!academy) • [osu! 作图教程](/wiki/Community/Video_series/osu!mapping) • [osu! 讨论](/wiki/Community/Video_series/osu!talk)
+[社区项目](/wiki/Community/Projects) • [精选艺术家](/wiki/Featured_Artists) • [Project Loved](/wiki/Community/Project_Loved) • [osu! 社区会议](/wiki/Community/osu!_community_meetings) • [osu! 学院](/wiki/Community/Video_series/osu!academy) • [osu! 作图教程](/wiki/Community/Video_series/osu!mapping) • [osu! 讨论](/wiki/Community/Video_series/osu!talk)
 
 组织：[osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
@@ -110,8 +110,6 @@ osu! 的谱面都是充满活力的社区内玩家们的智慧结晶，想与大
 # [成员](/wiki/People)
 
 没有众多成员帮助开发、维护、管理社区，osu! 很难走到今天，正是他们的辛劳付出让 osu! 生机蓬勃。
-
-讨论区：[论坛](/wiki/Community/Forum) • [互联网中继聊天 (IRC)](/wiki/Community/Internet_Relay_Chat) • [osu!dev Discord 服务器](/wiki/Community/osu!dev_Discord_server)
 
 [核心团队](/wiki/People/The_Team)：[开发团队](/wiki/People/The_Team/Developers) • [全局管理团队 (GMT)](/wiki/People/The_Team/Global_Moderation_Team) • [援助团队](/wiki/People/The_Team/Support_Team) • [审核评估团队 (NAT)](/wiki/People/The_Team/Nomination_Assessment_Team) • [谱面审核成员 (BN)](/wiki/People/The_Team/Beatmap_Nominators) • [名人堂](/wiki/People/The_Team/osu!_Alumni) • [社区喜爱计划团队 (LVD)](/wiki/People/The_Team/Project_Loved_Team)
 
