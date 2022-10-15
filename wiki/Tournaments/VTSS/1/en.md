@@ -53,11 +53,11 @@ The Vin-Tana Solo Showdown was run by various community members.
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1568153)
-- [TCT Discord server](https://discord.gg/56WRzpQUV2)
-- [Livestream](https://www.twitch.tv/taikoconverttournament)
-- [Challonge brackets](https://challonge.com/TCTv4)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1irT-oEpMu6QfUzKBosyeZJtfKZzcqKmRYAJu9nyWj7s/edit?usp=sharing)**
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1403713)
+- [VTSS Discord server](https://discord.gg/g4STVmAE2K)
+- [Livestream](https://www.twitch.tv/vtss_)
+- [Challonge brackets](https://challonge.com/vtssosu)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1ZiI41fWOEPIO6qZ9mECFLaTP-yAkIAa319yCaPa2uTo/edit?usp=sharing)**
 
 ## Participants
 
