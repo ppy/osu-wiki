@@ -29,9 +29,12 @@ jobs:
               git diff --no-renames --name-only --diff-filter=d ${{ github.sha }}^
             )
           )
-          echo 'INTERESTING_FILES<<EOF' >> $GITHUB_ENV
+
+          # https://docs.github.com/en/actions/using-workflows/workflow-commands-for-github-actions#multiline-strings
+          DELIMITER="X${RANDOM}"
+          echo "INTERESTING_FILES<<${DELIMITER}" >> $GITHUB_ENV
           echo "${INTERESTING_FILES}" >> $GITHUB_ENV
-          echo 'EOF' >> $GITHUB_ENV
+          echo "${DELIMITER}" >> $GITHUB_ENV
 
       - name: inspect file sizes
         shell: bash
