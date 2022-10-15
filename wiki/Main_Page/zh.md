@@ -95,6 +95,7 @@ osu! 的谱面都是充满活力的社区内玩家们的智慧结晶，想与大
 # 社区与公众项目
 
 社交能把世界各地的 osu! 玩家连结起来。了解这些活动与竞赛，结识新朋友，或帮忙组织一个更好的活动！
+
 场所: [论坛](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_Chat)
 [锦标赛](/wiki/Tournaments) • [聚光灯](/wiki/Beatmap_Spotlights) • [竞赛](/wiki/Contests) • [社区导师计划](/wiki/Community/Community_Mentorship_Program)
 
