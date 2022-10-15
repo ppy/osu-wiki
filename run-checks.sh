@@ -64,12 +64,10 @@ function main() {
     exit 1
   fi
 
-  if test -z $( docker images -q osu-wiki ); then
-    print_warning "No Docker image found, building (this is a one-time procedure)..."
-    if ! ( DOCKER_BUILDKIT=1 docker build -t osu-wiki . ); then
-      print_error "Failed to build a Docker image"
-      exit 1
-    fi
+  print_ok "Preparing the Docker image..."
+  if ! ( DOCKER_BUILDKIT=1 docker build -q -t osu-wiki . ); then
+    print_error "Failed to build the Docker image"
+    exit 1
   fi
 
   _test_wrapper "file size" "_docker bash scripts/ci/inspect_file_sizes.sh --target" "${interesting_files}"
