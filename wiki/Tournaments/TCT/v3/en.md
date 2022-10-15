@@ -94,6 +94,19 @@ The Taiko 2v2 Convert Tourney v3 was run by various community members.
 | **🍣 guys** | ::{ flag=JP }:: **[Maimaing](https://osu.ppy.sh/users/14520910)**, ::{ flag=JP }:: [Rabar0209](https://osu.ppy.sh/users/2883899) |
 | **ＵＮＫＯ！！！！！** | ::{ flag=JP }:: **[Shamirin\_mzk](https://osu.ppy.sh/users/11325757)**, ::{ flag=JP }:: [C-light](https://osu.ppy.sh/users/7955738) |
 
+## Groups
+
+| Group | Top seed | High seed | Low seed | Unseeded |
+| :-: | :-- | :-- | :-- | :-- |
+| **A** | 🍣 guys | yes we love sucking sausages 🥵💦🌭 | (╯°□°）╯︵ ┻━┻ | Crippling Depression |
+| **B** | 大山翔太 | :photoblob: | Why are you playing convert | Deorum |
+| **C** | ヴぇ | wheelchair v2 | Huachipato | Frog |
+| **D** | the | 老人 | Boshki | \[insert-team-name-here\] |
+| **E** | Sex Speedrun | My Angel Rice | kasai ebet chugun | teamname :flag_pl: :handshake: :flag_nl: |
+| **F** | the bros 4 | pe | Floreros embriagados | Asian Egirls |
+| **G** | ＵＮＫＯ！！！！！ | Non-convert Gamers | Down Bad Gamers | Standard Supremacy |
+| **H** | Gura is cute | CUM LEADERS | Brzęczyszczykiewicz - Chrząszczyrzewoszyce | - |
+
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
