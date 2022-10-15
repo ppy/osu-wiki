@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: b0dbd398396a49d6f8e793dfa279b0c0e65937f1
+---
+
 # 表现分 (Performance points)
 
 **表现分 (Performance points) **又简称为 **pp**，是 osu! 内致力于准确量化玩家实力的指标。
