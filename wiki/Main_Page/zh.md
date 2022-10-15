@@ -98,7 +98,6 @@ osu! 的谱面都是充满活力的社区内玩家们的智慧结晶，想与大
 场所: [论坛](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_Chat)
 [锦标赛](/wiki/Tournaments) • [聚光灯](/wiki/Beatmap_Spotlights) • [竞赛](/wiki/Contests) • [社区导师计划](/wiki/Community/Community_Mentorship_Program)
 
-
 [项目](/wiki/Community/Projects) • [精选艺术家](/wiki/Featured_Artists) • [喜爱计划](/wiki/Community/Project_Loved) • [osu! 社区会议](/wiki/Community/osu!_community_meetings) • [osu! 学院](/wiki/Community/Video_series/osu!academy) • [osu! 作图教程](/wiki/Community/Video_series/osu!mapping) • [osu! 讨论](/wiki/Community/Video_series/osu!talk)
 
 组织：[osu! UCI](/wiki/Community/Organisations/osu!_UCI)
