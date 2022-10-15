@@ -31,6 +31,7 @@ jobs:
           )
 
           # https://docs.github.com/en/actions/using-workflows/workflow-commands-for-github-actions#multiline-strings
+          # XXX: env.INTERESTING_FILES will be a single string with newline delimiters.
           DELIMITER="X${RANDOM}"
           echo "INTERESTING_FILES<<${DELIMITER}" >> $GITHUB_ENV
           echo "${INTERESTING_FILES}" >> $GITHUB_ENV
@@ -38,7 +39,9 @@ jobs:
 
       - name: inspect file sizes
         shell: bash
-        run: bash scripts/ci/inspect_file_sizes.sh --target "${{ env.INTERESTING_FILES }}"
+        run: |
+          readarray -t TARGET_FILES <<< "${{ env.INTERESTING_FILES }}"
+          bash scripts/ci/inspect_file_sizes.sh --target "${TARGET_FILES[@]}"
 
       - name: set up Node.js
         uses: actions/setup-node@v3
@@ -51,8 +54,8 @@ jobs:
 
       - name: run remark on changed files
         run: |
-          REMARK_TARGET_FILES=$( echo "${{ env.INTERESTING_FILES }}" | grep -e .md$ || true )
-          bash scripts/ci/run_remark.sh --target "${REMARK_TARGET_FILES}"
+          readarray -t REMARK_TARGET_FILES <<< $( echo "${{ env.INTERESTING_FILES }}" | grep -e .md$ || true )
+          bash scripts/ci/run_remark.sh --target "${REMARK_TARGET_FILES[@]}"
 
       - name: set up Python
         uses: actions/setup-python@v4
@@ -66,8 +69,8 @@ jobs:
 
       - name: run yamllint on .yaml and .md files
         run: |
-          YAMLLINT_TARGET_FILES=$( echo "${{ env.INTERESTING_FILES }}" | grep -e .yaml$ -e .yml$ -e .md$ || true )
-          python scripts/ci/run_yamllint.py --config .yamllint.yaml --target "${YAMLLINT_TARGET_FILES}"
+          readarray -t YAMLLINT_TARGET_FILES <<< $( echo "${{ env.INTERESTING_FILES }}" | grep -e .yaml$ -e .yml$ -e .md$ || true )
+          python scripts/ci/run_yamllint.py --config .yamllint.yaml --target "${YAMLLINT_TARGET_FILES[@]}"
 
       - name: find broken wikilinks
         shell: bash
@@ -79,8 +82,8 @@ jobs:
             exit 0
           fi
 
-          WIKILINK_TARGET_FILES=$( echo "${{ env.INTERESTING_FILES }}" | grep -e ^wiki/ -e ^news/ | grep .md$ || true )
-          osu-wiki-tools check-links --target "${WIKILINK_TARGET_FILES}"
+          readarray -t WIKILINK_TARGET_FILES <<< $( echo "${{ env.INTERESTING_FILES }}" | grep -e ^wiki/ -e ^news/ | grep .md$ || true )
+          osu-wiki-tools check-links --target "${WIKILINK_TARGET_FILES[@]}"
 
       - name: check if translations are marked as outdated
         shell: bash
