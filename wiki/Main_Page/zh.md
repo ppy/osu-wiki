@@ -1,3 +1,7 @@
+---
+layout: main_page
+---
+
 <div class="wiki-main-page__blurb">
 欢迎来到 osu!wiki，一个包含大量 osu! 相关信息的开源知识库。
 </div>
