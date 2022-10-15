@@ -35,6 +35,12 @@ The **Vin-Tana Solo Showdown** (***VTSS***) was a double-elimination 2v2 osu! to
 
 Generous donations from ::{ flag=NL }:: [Katanax28](https://osu.ppy.sh/users/15457513), ::{ flag=SG }:: [Purl](https://osu.ppy.sh/users/19350047), and ::{ flag=RU }:: [Ritsu Tainaka](https://osu.ppy.sh/users/7206818) helped fund some of the cash prizes.
 
+![](img/banner_first.gif "VTSS 1st place banner")
+
+![](img/banner_second.gif "VTSS 2nd place banner")
+
+![](img/banner_third.gif "VTSS 3rd place banner")
+
 ## Organisation
 
 The Vin-Tana Solo Showdown was run by various community members.
