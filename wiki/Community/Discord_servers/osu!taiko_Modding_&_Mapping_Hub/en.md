@@ -14,7 +14,7 @@
 
 :::
 
-**osu!taiko Modding & Mapping Hub** is a community [Discord](https://discord.com) server designated for all current and aspiring [osu!taiko](/wiki/Game_mode/osu!taiko) mappers and modders. Users are able to find many channels that help them grow as a mapper, or to interact with the general osu!taiko mapping community.
+**osu!taiko Modding & Mapping Hub** is a community [Discord](https://discord.com) server designated for all current and aspiring [osu!taiko](/wiki/Game_mode/osu!taiko) mappers and modders. Users are able to find many channels that help them grow as a mapper, or interact with the general osu!taiko mapping community.
 
 The server mainly consists of:
 
@@ -29,8 +29,7 @@ The server mainly consists of:
 | Role | User (Discord handle) |
 | :-- | :-- |
 | Server Owner | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) (radar#0001) |
-| Structural Maintainer | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) (Hivie#0859) |
-| Server Moderators | ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) (Capu#4171), ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) (Dusk#8170), ::{ flag=IR }:: [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) (solar#5193), ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) (Hivie#0859), ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) (radar#0001), ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) (Yasuho#1512) |
+| Server Moderators | ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) (Capu#4171), ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) (Dusk#8170), ::{ flag=IE }:: [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) (solar#5193), ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) (Hivie#0859), ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) (radar#0001), ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) (Yasuho#1512) |
 
 ## Verification
 
