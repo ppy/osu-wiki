@@ -4,9 +4,9 @@
 
 ![](img/bss_warning.png "Tampilan Beatmap Submission System")
 
-Memilih `Upload Beatmap...` dari dropdown `File` di editor (shortcut: `Ctrl`+ `Shift` + `U`) akan membuka jendela **Beatmap Submission System** (***BSS***). Ini awalnya membantu pengguna dalam hal mapping, mencari umpan balik untuk beatmap mereka, dan memastikan map mereka sudah siap untuk ranking. Jika kamu mengalami masalah ketika menggunakan BSS, silahkan lihat petunjuk mengenai [masalah BSS](/wiki/Guides/BSS_Issues).
+Memilih `Upload Beatmap...` dari dropdown `File` di editor (shortcut: `Ctrl`+ `Shift` + `U`) akan membuka jendela **Beatmap Submission System** (***BSS***). Ini awalnya membantu pengguna dalam hal mapping, mencari [umpan balik](/wiki/Modding) untuk beatmap mereka, dan memastikan map mereka sudah siap untuk ranking. Jika kamu mengalami masalah ketika menggunakan BSS, silahkan lihat petunjuk mengenai [masalah BSS](/wiki/Guides/BSS_Issues).
 
-Jika beatmap dari pengguna ketika diunggah tidak ada pada situs osu!, jendela BSS akan memunculkan berapa banyak pengunggahan baru pada pengguna yang dapat dipublikasi. Jika beatmap sudah dinominasi, akan muncul pesan peringatan jika nominasi akan direset ketika melakukan perubahan pada beatmap. Jika beatmap berada pada kategori graveyard, akan muncul pesan peringatan kalau beatmap tersebut akan dipindahkan ke kategori pending beatmap.
+Jika beatmap dari pengguna ketika diunggah tidak ada pada situs osu!, jendela BSS akan memunculkan berapa banyak pengunggahan baru pada pengguna yang dapat dipublikasi. Jika beatmap sudah dinominasi, akan muncul pesan peringatan jika nominasi akan direset ketika melakukan perubahan pada beatmap. Jika beatmap berada pada kategori [graveyard](/wiki/Beatmap/Category#graveyard), akan muncul pesan peringatan kalau beatmap tersebut akan dipindahkan ke kategori pending beatmap.
 
 ## Pengaturan submisi
 
@@ -22,6 +22,6 @@ Dua cek box akan muncul dibawah. Pertama `Receive email notification on replay`,
 
 Beatmap akan gagal diunggah jika beatmap tersebut melebihi batas ukuran file atau jumlah difficulty yang diperkenankan. Batasan untuk ukuran file adalah 5MB dengan tambahan 10MB untuk setiap menit pada beatmap length, dan maksimalnya adalah 100MB. Untuk batas jumlah difficulty yang diperkenankan saat ini adalah 128.
 
-Masing-masing pengguna juga memiliki batasan jumlah beatmap yang dapat diunggah pada satu waktu. Batasan tersebut tergantung dari berapa banyak ranked beatmap yang dimilikinya dan apakah mereka memiliki [osu!supporter](/wiki/osu!supporter). Pengguna tanpa osu!supporter memiliki 4 pending beatmap dengan tambahan 1 per ranked beatmap (sampai 2). Sedangkan dengan osu!supporter, ditambah menjadi 8 pending beatmap dengan tambahan 1 per ranked beatmap (sampai 12) jadi total 20.
+Masing-masing pengguna juga memiliki batasan jumlah beatmap yang dapat diunggah pada satu waktu. Batasan tersebut tergantung dari berapa banyak ranked beatmap yang dimilikinya dan apakah mereka memiliki [osu!supporter](/wiki/osu!supporter). Pengguna tanpa osu!supporter memiliki 4 pending beatmap dengan tambahan 1 per ranked beatmap (sampai 4). Sedangkan dengan osu!supporter, ditambah menjadi 8 pending beatmap dengan tambahan 1 per ranked beatmap (sampai 12) jadi total 20.
 
-Kecepatan unggah tergantung dari file apa yang sudah diubah. Jika `.osu` saja yang diubah, berarti hanya itu saja yang diunggah. Jika aset yang lain diubah, seluruh file pada beatmap folder akan diproses dan diunggah.
+Kecepatan unggah tergantung dari file apa yang sudah diubah. Jika [`.osu`](/wiki/Client/File_formats/Osu_(file_format)) saja yang diubah, berarti hanya itu saja yang diunggah. Jika aset yang lain diubah, seluruh file pada beatmap folder akan diproses dan diunggah.

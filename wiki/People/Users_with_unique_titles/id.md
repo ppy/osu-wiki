@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 689c2f3805a618b8f08342661faa1a0328fccfb1
+---
+
 # Daftar pengguna dengan gelar khusus
 
 Pada umumnya, gelar yang disandang oleh seorang pengguna mencerminkan status keanggotaan mereka dalam suatu [kelompok pengguna (*user group*)](/wiki/People/The_Team#kelompok-pengguna). Meskipun demikian, terdapat beberapa pengguna yang secara khusus dianugerahi gelar-gelar tertentu dengan berbagai alasan mulai dari prestasi, kontribusi, hingga momen unik yang mereka torehkan.
@@ -240,6 +245,7 @@ osu! menganugerahkan gelar **Featured Artist** kepada para [Featured Artist](/wi
 | ::{ flag=ES }:: [sotuiofficial](https://osu.ppy.sh/users/14779258) | [Rising Sun Traxx](https://osu.ppy.sh/beatmaps/artists/41) |
 | ::{ flag=RU }:: [tieff](https://osu.ppy.sh/users/89619) | [tieff](https://osu.ppy.sh/beatmaps/artists/34) |
 | ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) | [VINXIS](https://osu.ppy.sh/beatmaps/artists/22) |
+| ::{ flag=TH }:: [YuugenP](https://osu.ppy.sh/users/2014016) | [rN](https://osu.ppy.sh/beatmaps/artists/190) |
 
 ## Pemenang kontes desain maskot
 

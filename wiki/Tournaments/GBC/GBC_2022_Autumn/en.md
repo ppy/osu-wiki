@@ -19,29 +19,31 @@ The **GB Cup 2022 Autumn** (***GBC 2022 Autumn***) is a 3v3 captain draft-based 
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2022-09-24/2022-10-07 (23:59 UTC+8) |
-| Qualifier showcase | 2022-10-08 (20:00 UTC+8) |
+| Qualifier showcase | 2022-10-09 (20:00 UTC+8) |
 | Qualifier stage | 2022-10-15/2022-10-16 |
-| Qualifier result showcase | 2022-10-21 (20:00 UTC+8) |
+| Qualifier result showcase | 2022-10-17 (20:00 UTC+8) |
 | Drafting phase | 2022-10-23 (20:00 UTC+8) |
 | Regular stage week 1 | 2022-10-29/2022-10-30 |
 | Regular stage week 2 | 2022-11-05/2022-11-06 |
 | Regular stage week 3 | 2022-11-12/2022-11-13 |
 | Regular stage week 4 | 2022-11-19/2022-11-20 |
-| Quarterfinals | 2022-11-26/2022-11-27 |
-| Semifinals | 2022-12-03/2022-12-04 |
-| Finals | 2022-12-10/2022-12-11 |
+| Round of 16 | 2022-11-26/2022-11-27 |
+| Quarterfinals | 2022-12-03/2022-12-04 |
+| Semifinals | 2022-12-10/2022-12-11 |
+| Finals | 2022-12-17/2022-12-18 |
 
 ## Prizes
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, KanonBot profile badge, *TBA* CNY |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | KanonBot profile badge, *TBA* CNY |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | KanonBot profile badge, *TBA* CNY |
-| *4th place* | *TBA* CNY |
-| *5-8th place* | *TBA* CNY |
-
-Teams will also be awarded a *TBA* CNY bonus for each regular stage win.
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, KanonBot profile badge, Custom medal per team member, ¥250 CNY |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | KanonBot profile badge, Custom medal per team member, ¥250 CNY |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | KanonBot profile badge, Custom medal per team member, ¥200 CNY |
+| *4th place* | Custom medal per team member, ¥150 CNY |
+| *5-8th place* | ¥100 CNY |
+| *9-16th place* | ¥80 CNY |
+| *17-21st place* | ¥60 CNY |
+| *22-24th place* | ¥30 CNY |
 
 ## Organisation
 
@@ -50,33 +52,67 @@ The GB Cup 2022 Autumn is run by the Team GB and various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
-| Staff | *TBA* |
-| Mappool selector | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260), ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501), ::{ flag=CN }:: [Yueast 2018](https://osu.ppy.sh/users/13953619) |
-| Mappool tester | *TBA* |
+| Staff | ::{ flag=CN }:: [\[GB\]gluefly](https://osu.ppy.sh/users/8715409), ::{ flag=GB }:: [-Deepdive-](https://osu.ppy.sh/users/13338645), ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501) |
+| Mappool selector | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260), ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501) |
+| SV mappool selector | ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561) |
+| Mappool helper | ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=GB }:: [-Deepdive-](https://osu.ppy.sh/users/13338645), ::{ flag=CN }:: [Lubei_01](https://osu.ppy.sh/users/11692528) |
 | Referee | *TBA* |
 | Commentator | *TBA* |
-| Streamer | *TBA* |
-| Designer | ::{ flag=CN }:: [\[GB\]PlayandyoU](https://osu.ppy.sh/users/14759634) |
-| Statistician | ::{ flag=CN }:: [\[GB\]Rush\_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=CN }:: [\[GB\]Yuria](https://osu.ppy.sh/users/13092888) |
+| Streamer | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617) |
+| Designer | ::{ flag=CN }:: [\[GB\]PlayandyoU](https://osu.ppy.sh/users/14759634), ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561)  |
+| Statistician & wiki editor | ::{ flag=CN }:: [\[GB\]Rush\_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=CN }:: [\[GB\]Yuria](https://osu.ppy.sh/users/13092888), ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [\[GB\]Natro](https://osu.ppy.sh/users/27233308) |
+
+## Links
+
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1649259)
+- Livestream
+  - [Bilibili stream](https://live.bilibili.com/22545296) (::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407))
+  - [Bilibili stream](https://live.bilibili.com/10183) (::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617))
+- [GBC QQ Group](https://jq.qq.com/?_wv=1027&k=zqBeTqMW)
+- [Information spreadsheet](https://docs.qq.com/sheet/DZUVwTnF1aEVmdlVX)
+
+## Mappools
+
+### Qualifiers
+
+**[Download the mappack here (42.7 MB)](https://drive.google.com/file/d/1abZPwPZjVNi9NfaooDZXBhxCME-W1m2i/)**
+
+- Rice
+  1. [Zris feat. Kri - Can't it be true (Hylotl) \[Stage 2: False\]](https://osu.ppy.sh/beatmapsets/1863063#mania/3831047)
+  2. [Sakamiya - Valkyrie Revolutia (Hylotl) \[Stage 3: All or Nothing\]](https://osu.ppy.sh/beatmapsets/1863066#mania/3831054)
+  3. [Ling Yuan yousa - Shen De Sui Bo Zhu Liu (YuEast 2018) \[Stage 4: Insouciance\]](https://osu.ppy.sh/beatmapsets/1863062#mania/3831046)
+- LN
+  1. [M2U - The Prince of Darkness (\[GB\]Luoxuan0327) \[Stage 5: Recollection\]](https://osu.ppy.sh/beatmapsets/1863059#mania/3831043)
+  2. [senya - Nagori Tori (\[GB\]Sanae) \[Stage 6: Calamity\]](https://osu.ppy.sh/beatmapsets/1863061#mania/3831045)
+- Hybrid
+  1. [Ayo - Brain Rigid Girl (-Deepdive-) \[Stage 7: Myon\]](https://osu.ppy.sh/beatmapsets/1863070#mania/3831058)
+  2. [Aoi - aterlbus (YuEast 2018) \[Stage 8: Bipolar\]](https://osu.ppy.sh/beatmapsets/1863069#mania/3831057)
+- SV
+  1. [IslandWind/PIKASONIC - Forever (Cut ver.) (\[GB\]Mafufu) \[Stage 1: Everlasting\]](https://osu.ppy.sh/beatmapsets/1863068#mania/3831056)
 
 ## Ruleset
 
 ### Changes from last tournament
 
-1. Qualifier stage added, for determining captain role, result will be used in Drafting phase.
-2. There will be some players been eliminated in qualifier and drafing phase.
-3. Regular stage have 4 rounds, used to be 3. only teams with 2-1 or 1-2 record will participate round 4.
-4. Player can't be banned in a match until he has finished a game in this match.
-5. Pick beatmaps and ban players should be sent at a single message, if a team continue be slow at banning, referees have rights to **ignore this ban**.
-6. "Total matches score difference" added as a last resort for ranking in regular stage.
+1. Qualifier stage added, for determining the captain role. The results will be used in the drafting phase.
+2. Some players will be eliminated in Qualifiers and the drafting phase.
+3. The Regular stage has 4 rounds instead of 3. Only teams with a 2-1 or 1-2 record will participate in round 4.
+4. Round of 16 added into playoffs.
+5. A player cannot be banned in a match until they have finished a game in that match.
+6. The team that picks beatmaps first cannot ban players during the first 2 rounds.
+7. Picking beatmaps and banning players should be sent using a single message. If a team continues to be slow at banning, referees have rights to **ignore the ban**.
+8. "Sum of all score differences of each beatmap" added as a last method for determining ranking in the Regular stage.
+9. Mappool size increased by 2 maps.
+10. For Regular stage ranking, beatmap difference is now compared first, followed by Buchholz score[^bu].
 
 The following rules are changed to consistent with rules on `MWC 4k 2022` : 
 
-7. Failed Player's score still get added to the team score.
-8. Allowed Team to rematch if any team member disconnected on early of the beatmaps.
-9. Referees have rights to lower or higher timer settings.
-10. Called tactical timeout on Tie-breaker need both teams' captains agreement.
-11. NoFail mod could be choose in FreeMod bracket.
+11. The winner of the `!roll` may **choose** to pick first or ban first of the match.
+12. A failed player's score will still get added to the team score.
+13. Teams are allowed to rematch if any team member disconnects early on during a beatmap.
+14. Referees have the right to increase or decrease timer settings.
+15. Calling a tactical timeout on a tiebreaker requires the agreement of both teams' captains.
+16. The No Fail mod can used in the FreeMod bracket.
 
 ### Tournament rules
 
@@ -89,7 +125,7 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
    - Custom skin elements must not be used to alter core gameplay mechanics.
 6. If a game ends in a draw, it will be nullified and the map will be replayed.
 7. Teams may ask for a rematch if a team member encounters technical difficulties while playing.
-   - "Lag spikes" are not considered a valid reason to nullify a beatmap.
+   - "Lag spikes" will not be considered as a valid reason to nullify a beatmap.
    - If a rematch happens, the original roster for each team during that particular beatmap must remain the same. If that is not possible, e.g. by virtue of a technical issue, *both* teams will be allowed to swap rosters.
    - This rule should not to be abused. Referees may veto a rematch request if they find that this is the case.
 8. Disconnects within 30 seconds or 25% of the beatmap length (whichever happens first) can be rematched, at the referee's discretion, as long as it is clearly communicated in the chatroom.
@@ -125,12 +161,12 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
 
 ### Tournament registration
 
-1. Please send the host a **private message** and **fill [this form](https://wj.qq.com/s2/9902248/95cf/)** to register. 
+1. Please send the host a **private message** and **fill [this form](https://wj.qq.com/s2/10842634/1ffa/)** to register. 
    - Player **must** join [this QQ group](https://jq.qq.com/?_wv=1027&k=zqBeTqMW) after register.
 2. To ensure valid and serious registrations, every registered user will be manually checked by the host.
    - To be successfully registered, a player must not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
    - **There are no rank limitations for this tournament.** If there are too many registrants, some of the high-level registrants may be removed from the main tournament and be invited to participate in the showmatch instead.
-3. A list of all successfully registered players will be published after the registration phase, and will then participate in the Drafting phase.
+3. A list of all successfully registered players will be published after the registration phase, and will then participate in the drafting phase.
 4. [Tournament staff members](/wiki/Tournaments/Official_support#what-is-considered-staff) must not participate as players in the tournament.
 5. Organisers reserve the right to decline restricted players from participating in the tournament.
 
@@ -147,19 +183,18 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
 4. The mappool will be played in the following order: SV1, RC1, RC2, RC3, LN1, LN2, HB1, HB2. Players may not ask to play the pool in any other order.
    - Player may skip playing any beatmap on their second run.
 5. There will be an optional 5-minute break in between the first and second play-through of the mappool.
-6. All players will play their qualifiers in separate rooms. *We suggest teams not to broadcast or share their results to avoid seed manipulation*.
+6. All players will play their qualifiers in separate rooms. *We suggest players not to broadcast or share their results to avoid seed manipulation*.
 7. Qualifier stage's result will using to seeding and choosen captains.
-   - Higher score will have higher chance to be picked on Drafting phase. player will be eliminated if he got too low in qualifier and not being picked on Drafting phase.
-8. Some best-performance players will advance to Drafting phase.
-   - The number of players advanced will be determined by how many players required on Drafting phase. (i.e. For 16 teams, each team have 5 players' size, total `16*5=90` players are required on Drafting phase. So 
-   *about* Top 95 will be advanced to Drafting phase, giving captains some extra choices for last pick.) *This might change depending on the number of incoming registrations.*
-   - Disrupting the match by foul play or trying seed manipulation will result in disqualified, they will be announced before Drafting phase actual take place.
+   - Higher scores lead to a higher chance to be picked during drafting phase. Players are eliminated if they do not get picked, or if they get too low of a score during Qualifers.
+8. Some best-performance players will advance to drafting phase.
+   - The number of players advanced will be determined by how many players required on drafting phase. (i.e. For 16 teams, each team have 5 players' size, total `16*5=80` players are required on drafting phase. So *about* Top 85 will be advanced to drafting phase, giving captains some extra choices for last pick.) *This might change depending on the number of incoming registrations.* 
+   - Disrupting the match by foul play or seed manipulation will result in disqualification, and any such players will be announced before the drafting phase takes place.
 
 ### Stage instructions
 
-1. Following the Qualifier stage, all player should participate a phase to formed teams , called `Drafting phase`, unpicked player will be eliminated from the tournament.
-2. Following the Drafting phase, a swiss stage will be played, called `Regular stage`. Top 8 teams will be advanced, others are eliminated from the tournament.
-3. Following the Regular stage, a single elimination stage will be played, called `Play-offs`. This means that the winner continues with their runs, and the losing team will be eliminated from the tournament, except in the bronze match.
+1. Following the Qualifier stage, all player should participate a phase to form teams , called *Drafting phase*, unpicked player will be eliminated from the tournament.
+2. Following the drafting phase, a swiss stage will be played, called the *Regular stage*. The top 16 teams will advance, and the others get eliminated from the tournament.
+3. Following the Regular stage, a single-elimination stage will be played, called *Playoffs*. This means that the winner continues with their runs, and the losing team will be eliminated from the tournament, except in the bronze match.
 
 ### Drafting phase instructions
 
@@ -171,59 +206,65 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
    - Captains are allowed to conduct and coordinate "tryouts", tests to gauge player aptitude, on their own terms. 
 3. There will be a 120-second planning phase before the picking phase starts.
 4. During the picking phase, the pick order consists of 2 phases that repeat twice, such that every captains gets to choose 4 players.
-   - During phase 1 and 3, picks start in *increasing* order, from the 1st to the 16th captain.
-   - During phase 2 and 4, picks start in *decreasing* order, from the 16th to the 1st captain.
+   - During phase 1 and 3, picks start in *increasing* order, from the 1st to the 24th captain.
+   - During phase 2 and 4, picks start in *decreasing* order, from the 24th to the 1st captain.
    - *this might change depending on the number of incoming registrations.*
 5. Each captain has 60 seconds to pick one player from the player pool on their turn. 
    - If the captain does not pick an player within 60 seconds, a random player from the remaining player pool will be assigned to their team.
 6. If the captain picks a player, the pick time still has to elapse before the next captain's turn starts, meaning each phase will take 16 minutes.
 7. After each phase, there is a 60-second break before the next phase starts.
 8. At all times, the captains may communicate with each other via multiplayer chatrooms or voice chat. 
-   - Other players will be muted during the Drafting phase.
-9. After the Drafting phase, captains may choose, with the approval of the host, to delegate their role to other prospective team members.
-10. Bad behaviour during the Drafting phase will be seen as disrupting the match by foul play.
+   - Other players will be muted during the drafting phase.
+9. After the drafting phase, captains may choose, with the approval of the host, to delegate their role to other prospective team members.
+10. Captains may also choose to rename their team name after the drafting phase.
+    - The default name of team is: `Team {X}`, with `{X}` being an abbreviation of the captain's name.
+    - Team names cannot be longer than **12** characters (a Chinese character is considered as 1).
+11. Bad behaviour during the drafting phase will be seen as disrupting the match by foul play.
 
 ### Regular stage instructions
 
-1. Following the Drafting phase, a 4-round Swiss stage will be played. This means teams with same record will face each other.
+1. Following the drafting phase, a 4-round Swiss stage will be played. This means teams with same record will face each other.
 2. The final ranking of the Swiss round will be determined by the following criteria in order:
    - Most matches won
    - Head-to-head result (if possible)
-   - Highest Buchholz score
    - Highest beatmap difference (`beatmap wins - beatmap losses`)
+   - Highest Buchholz score[^bu]
    - Most beatmaps won
    - Fewest beatmaps lost
-   - Highest total matches score difference (`∑(score difference in each beatmaps)` in the whole regular stage)
+   - Sum of all score differences of each beatmap (`∑(total score - opponent's total score)` for each beatmap played in the regular stage)
    - Dice roll
-3. The top 8 teams will advanced to the Playoff stage, while the remaining players get eliminated from the tournament.
-   - This means that teams with a record of `3-X` will advance to the next stage, while teams with a record of `X-3` will be eliminated.
-   - Also, teams with a record of `2-2` will have chance to advanced by ranking top 8.
-   - Teams with a record 3-0 or 0-3 needn't play round 4, as they are already advanced or get eliminated.
-4. The results from the Regular stage will also be used for seeding teams.
+3. On round 4, the highest ranked 2-1 team will faced to the lowest ranked 1-2 team。
+4. The top 16 teams will advanced to the Playoff stage, while the remaining players get eliminated from the tournament.
+   - This means that teams with a record of 3-X will advance to the next stage, while teams with a record of X-3 will be eliminated.
+   - Also, teams with a record of 2-2 will have the chance to advance by ranking in the top 16.
+   - Teams with a record 3-0 or 0-3 need not play round 4, as they have already advanced or gotten eliminated.
+5. The results from the Regular stage will also be used for seeding teams.
 
 ### Win conditions
 
-- In Drafting phase, player need to being picked into a team or become captains to advanced.
+- In the Qualifier stage, player need to ranking high enough to advanced.
+- In drafting phase, player need to being picked into a team or become captains to advanced.
 - In the Regular stage, teams need to win 6 maps to win a match (best of 11).
 - In Quarterfinals, Semifinals and Finals, teams need to win 7 maps to win a match (best of 13).
 
 ### Match procedures
 
 1. A referee will create a multiplayer room 15 minutes before the scheduled match time. Players must join the lobby in that period.
-   - The room settings are `Game mode: "osu!mania"`, `Team mode: "Team Vs"` and `Score mode: "ScoreV2"`. The room name must follow the pattern of `GBC2 Aut: ({TeamRed}) vs ({TeamBlue})`.
+   - The room settings are `Game mode: "osu!mania"`, `Team mode: "Team Vs"` and `Score mode: "ScoreV2"`. The room name must follow the pattern of `GBC 2022 Autumn: ({TeamRed}) vs ({TeamBlue})`.
    - The team mentioned first in the room name must be the red team, the team mentioned second in the room name must be the blue team.
 2. Each captain can ban **one beatmap** from the pool. These beatmaps can not be picked by any team for the entire duration of the match.
 3. Both captains will alternate picking a beatmap from the mappool.
 4. Each captain must use `!roll` once in `#multiplayer`.
    - The winner of the `!roll` could choose to pick first or ban first of the match. The other choose will be used by loser team.
-5. After each pick, the captain may ban one player of the opposing team from playing that beatmap in the match, **except in a tiebreaker**.
+5. After each pick, both captains **may** ban **one** of the opposing team members from playing the beatmap in a match, **except during tiebreakers**. A player cannot be banned during a match until they have played one beatmap.
    - Any player can only be banned like this **once** per match.
-   - A player **can't** be banned until he finished playing a game on this match.
-   - Banning players is **optional**.
+   - The team that picks beatmaps first cannot ban players during the first 2 rounds.
+     - As a consequence of the earlier rules, no teams are allowed to ban players during the first round since no one has finished playing any beatmaps.
+   - The team that is currently picking a beatmap gets to ban a player first, before the other team.
    - If less than required player avaliable, banning player might be limited by host considering.
      - This rule should not be abused. Host reserves rights to penalize a team if they find that cases.
 6. Teams will have 2 minutes to pick a beatmap and ban an opposing player , and 2 minutes to get ready. If a team takes more time than allowed, the procedures adopted will be as follows:
-   - Pick beatmaps and ban players should be sent at a single message, if a team continue be slow at banning, referees have rights to ignore this ban.
+   - Picking beatmaps and banning players should be sent **using a single message**. If a team continues to be slow at banning, referees have rights to **ignore the ban**.
    - For the first occurrence:
      - The team will receive a verbal warning from the referee
    - On subsequent occurrences:
@@ -237,17 +278,19 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
 
 ### Mappool instructions
 
-1. There will be five separate mappools, *this might change depending on the number of incoming registrations.*.
-   - Regular stage Round 1 and Round 2 use mappool #1.
-   - Regular stage Round 3 and Round 4 use mappool #2.
-   - Quarterfinals, Semifinals and Finals use separate mappool (#3 ,#4 ,#5 ).
+1. There will be five separate mappools. *This might change depending on the number of incoming registrations.*
+   - Qualifiers will use a separate mappool.
+   - Regular stage Round 1 and Round 2 use mappool \#1.
+   - Regular stage Round 3 and Round 4 use mappool \#2.
+   - Round of 16 and Quarterfinals use mappool \#3.
+   - Semifinals and Finals use mappool \#4.
 2. Each mappool consists of a fixed amount of maps each stage which will all be played under [FreeMod](/wiki/Game_modifier#freemod) conditions. This means that there is a unique FreeMod bracket.
 3. The mappool sizes are as follows:
    - Qualifiers: 8 beatmaps   
-   - Mappools #1 & #2: 15 beatmaps
-   - mappool #3, #4, #5: 17 beatmaps.
+   - Mappool \#1 & \#2: 15 beatmaps
+   - Mappool \#3 & \#4: 17 beatmaps.
 4. Each mappool has one tiebreaker, except for the Qualifiers.
-5. Possible mod choices for the FreeMod bracket are NoFail, Hidden, FadeIn, Flashlight, and Mirror.
+5. Possible mod choices for the FreeMod bracket are No Fail, Hidden, Fade In, Flashlight, and Mirror.
 6. The tiebreaker will be played under FreeMod conditions.
 
 ### Scheduling information
@@ -265,3 +308,7 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
      - ... Unless its absolutely necessary, **both** teams request and agree to it, and staff avaliable.
    - **Do not ask for reschedule unless it is absolutely needed. The host reserves the right to deny any reschedule requests.**
 6. Captains are responsible for their team's availability.
+
+## Notes
+
+[^bu]: Ranking based on opponents' performance. (`all opponents' wins - all opponents' losses`)
