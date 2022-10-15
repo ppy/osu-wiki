@@ -34,7 +34,7 @@ For people familiar with the command line, these checks can also be run locally.
 
 ### Running
 
-Using `git add`, stage or commit files you want to have checked, then run from the repository root on your feature branch:
+Run from the repository root on your feature branch:
 
 ```sh
 ./run-checks.sh
@@ -43,5 +43,5 @@ Using `git add`, stage or commit files you want to have checked, then run from t
 To reclaim space occupied by the osu-wiki Docker image and its dependencies, run:
 
 ```sh
-docker image rm osu-wiki && docker image prune --all
+docker image rm osu-wiki -f && docker system prune --filter label=osu-wiki
 ```

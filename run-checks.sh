@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# This runs CI checks for committed and unstaged files, but not untracked files.
-# For newly added files, stage or commit them before running these checks.
-
 function print_error() { printf -- "\e[0;31m$1\e[m\n" 1>&2; }
 function print_warning() { printf -- "\e[0;34m$1\e[m\n" 1>&2; }
 function print_success() { printf -- "\e[0;32m$1\e[m\n" 1>&2; }
