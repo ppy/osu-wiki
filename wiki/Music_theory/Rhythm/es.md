@@ -1,0 +1,13 @@
+---
+stub: true
+---
+
+# Ritmo
+
+El **ritmo** es "el patrón de sonido, silencio y énfasis en una canción" [[1]][r]. Al crear [beatmaps](/wiki/Beatmap), los mappers prestan atención a dónde aterrizan los sonidos en la música para determinar dónde colocar los [objetos](/wiki/Hit_object) y los [hitsounds](/wiki/Beatmapping/Hitsound), con el fin de seguir el ritmo y enfatizar ciertas partes del mismo. Al ser un juego de ritmo, el ritmo es una parte intrínseca de cualquier beatmap en osu!.
+
+## Referencias
+
+1. [Understanding rhythm in music - masterclass](https://www.masterclass.com/articles/understanding-rhythm-in-music)
+
+[r]: #referencias
