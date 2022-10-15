@@ -13,7 +13,7 @@ tags:
 
 #### osu! Medal Hunters
 
-![Logo du serveur](img/logo.png "Le logo du serveur Discord Medal Hunters, conçu par Tanza3D")
+![Logo du serveur](img/logo.png "Le logo du serveur Discord osu! Medal Hunters, conçu par Tanza3D")
 
 |  |  |
 | :-- | :-- |
