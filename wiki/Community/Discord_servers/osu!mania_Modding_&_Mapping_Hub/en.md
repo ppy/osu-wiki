@@ -14,7 +14,7 @@
 
 :::
 
-**osu!mania Modding & Mapping Hub** is a community [Discord](https://discord.com) server designated for all current and aspiring [osu!mania](/wiki/Game_mode/osu!mania) mappers and modders. Users are able to find many channels that help them grow as a mapper, or to interact with the general osu!mania mapping community.
+**osu!mania Modding & Mapping Hub** is a community [Discord](https://discord.com) server designated for all current and aspiring [osu!mania](/wiki/Game_mode/osu!mania) mappers and modders. Users are able to find many channels that help them grow as a mapper, or interact with the general osu!mania mapping community.
 
 The server mainly consists of:
 
@@ -29,7 +29,7 @@ The server mainly consists of:
 | Role | User (Discord handle) |
 | :-- | :-- |
 | Server Owner | ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) (FAMoss#8805) |
-| Server Moderators | ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) (FAMoss#8805), ::{ flag=DE }:: [Feerum](https://osu.ppy.sh/users/4815717) (Feerum#4291), ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) (Maxus#9040), ::{ flag=GB }:: [Pope Gadget](https://osu.ppy.sh/users/2288341) (Pope Gadget#7080), ::{ flag=CN }:: [Shima Rin](https://osu.ppy.sh/users/6089608)(Shima Rin#7859) |
+| Server Moderators | ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) (FAMoss#8805), ::{ flag=DE }:: [Feerum](https://osu.ppy.sh/users/4815717) (Feerum#4291), ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) (Maxus#9040), ::{ flag=GB }:: [Pope Gadget](https://osu.ppy.sh/users/2288341) (Pope Gadget#7080), ::{ flag=CN }:: [Shima Rin](https://osu.ppy.sh/users/6089608) (Shima Rin#7859) |
 
 ## Verification
 
