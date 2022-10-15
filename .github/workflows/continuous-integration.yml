@@ -11,15 +11,16 @@ on:
       - edited
 
 jobs:
-  ci:
-    name: changed files
+  setup_repository:
+    name: Repository checkout
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Clone the repository
+        uses: actions/checkout@v3
         with:
           fetch-depth: 0
 
-      - name: detect changed files
+      - name: Detect changed files
         run: |
           INTERESTING_FILES=$(
             sort -u < <(
@@ -37,42 +38,72 @@ jobs:
           echo "${INTERESTING_FILES}" >> $GITHUB_ENV
           echo "${DELIMITER}" >> $GITHUB_ENV
 
-      - name: inspect file sizes
-        shell: bash
-        run: |
-          readarray -t TARGET_FILES <<< "${{ env.INTERESTING_FILES }}"
-          bash scripts/ci/inspect_file_sizes.sh --target "${TARGET_FILES[@]}"
-
-      - name: set up Node.js
+  setup_nodejs_deps:
+    name: Setup Node.js dependencies
+    runs-on: ubuntu-latest
+    needs: setup_repository
+    steps:
+      - name: Install Node.js
         uses: actions/setup-node@v3
         with:
           cache: npm
           node-version: 16
 
-      - name: install remark
+      - name: Install Markdown linter
         run: npm ci
 
-      - name: run remark on changed files
-        run: |
-          readarray -t REMARK_TARGET_FILES <<< $( echo "${{ env.INTERESTING_FILES }}" | grep -e .md$ || true )
-          bash scripts/ci/run_remark.sh --target "${REMARK_TARGET_FILES[@]}"
-
-      - name: set up Python
+  setup_python_deps:
+    name: Setup Python dependencies
+    runs-on: ubuntu-latest
+    needs: setup_repository
+    steps:
+      - name: Install Python
         uses: actions/setup-python@v4
         with:
           cache: pip
           cache-dependency-path: scripts/requirements.txt
           python-version: 3.x
 
-      - name: set up CI dependencies
+      - name: Install Python packages
         run: pip install -r scripts/requirements.txt
 
-      - name: run yamllint on .yaml and .md files
+  check_file_sizes:
+    name: Inspect file sizes
+    runs-on: ubuntu-latest
+    needs: setup_repository
+    steps:
+      - name: Inspect file sizes
+        shell: bash
+        run: |
+          readarray -t TARGET_FILES <<< "${{ env.INTERESTING_FILES }}"
+          bash scripts/ci/inspect_file_sizes.sh --target "${TARGET_FILES[@]}"
+
+  check_markdown_style:
+    name: Check article style
+    runs-on: ubuntu-latest
+    needs: setup_nodejs_deps
+    steps:
+      - name: Check Markdown style
+        run: |
+          readarray -t REMARK_TARGET_FILES <<< $( echo "${{ env.INTERESTING_FILES }}" | grep -e .md$ || true )
+          bash scripts/ci/run_remark.sh --target "${REMARK_TARGET_FILES[@]}"
+
+  check_yaml:
+    name: Check front matter and YAML correctness
+    runs-on: ubuntu-latest
+    needs: setup_python_deps
+    steps:
+      - name: Run yamllint on .yaml and .md files
         run: |
           readarray -t YAMLLINT_TARGET_FILES <<< $( echo "${{ env.INTERESTING_FILES }}" | grep -e .yaml$ -e .yml$ -e .md$ || true )
           python scripts/ci/run_yamllint.py --config .yamllint.yaml --target "${YAMLLINT_TARGET_FILES[@]}"
 
-      - name: find broken wikilinks
+  check_links:
+    name: Check links
+    runs-on: ubuntu-latest
+    needs: setup_python_deps
+    steps:
+      - name: Find broken wikilinks
         shell: bash
         env:
           PULL_REQUEST_TAG: 'SKIP_WIKILINK_CHECK'
@@ -85,7 +116,12 @@ jobs:
           readarray -t WIKILINK_TARGET_FILES <<< $( echo "${{ env.INTERESTING_FILES }}" | grep -e ^wiki/ -e ^news/ | grep .md$ || true )
           osu-wiki-tools check-links --target "${WIKILINK_TARGET_FILES[@]}"
 
-      - name: check if translations are marked as outdated
+  check_outdated_markers:
+    name: Check article freshness
+    runs-on: ubuntu-latest
+    needs: setup_python_deps
+    steps:
+      - name: Check if translations are marked as outdated
         shell: bash
         env:
           PULL_REQUEST_TAG: 'SKIP_OUTDATED_CHECK'
