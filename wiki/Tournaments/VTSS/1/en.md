@@ -90,28 +90,15 @@ The Vin-Tana Solo Showdown was run by various community members.
 | **XaiKoro** | ::{ flag=JP }:: **[Saikoro](https://osu.ppy.sh/users/741819)**, ::{ flag=ID }:: [XK2238](https://osu.ppy.sh/users/1139209) |
 | **yiff dungeon** | ::{ flag=PL }:: **[-Green tea-](https://osu.ppy.sh/users/12130367)**, ::{ flag=CA }:: [MrHawk301](https://osu.ppy.sh/users/9617608) |
 
-## Groups
-
-| Group | Top seed | Middle seed | Low seed |
-| :-: | :-- | :-- | :-- |
-| **A** | Tiger Mafia | Imagine Playing Basketball with Jesus and Getting Crossed Up | 404 enrin not found |
-| **B** | mikeneko | we can't convert | yiff dungeon |
-| **C** | Delete all finisher and sv pls | not hehe | Hoteddi\_18 |
-| **D** | Lipton | Dribblers | Reen's Students |
-| **E** | israel | Foukat cukr do prdele | can we just play this in std |
-| **F** | XaiKoro | a dom | SwitzerFrance |
-| **G** | bingle | B-Team | Universidad de Chile |
-| **H** | Bongo Gamers | Average Convert Enjoyers | :D |
-
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Tiger Mafia** (::{ flag=GB }:: **[Horiiizon](https://osu.ppy.sh/users/8071438)**, ::{ flag=US }:: [Ney](https://osu.ppy.sh/users/5991961)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **israel** (::{ flag=GR }:: **[Genjuro](https://osu.ppy.sh/users/3196091)**, ::{ flag=FI }:: [Antti](https://osu.ppy.sh/users/13281473)) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **mikeneko** (::{ flag=JP }:: **[Maimaing](https://osu.ppy.sh/users/14520910)**, ::{ flag=JP }:: [Maeda](https://osu.ppy.sh/users/12615278)) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=GB }:: **[Sspannish](https://osu.ppy.sh/users/11418478)** |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=US }:: **[Geag](https://osu.ppy.sh/users/16052525)** |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=JP }:: **[skit\_3980](https://osu.ppy.sh/users/19514272)** |
 
 ## Mappools
 
