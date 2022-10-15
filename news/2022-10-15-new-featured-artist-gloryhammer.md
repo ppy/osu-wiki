@@ -8,7 +8,7 @@ Power metal unit **GLORYHAMMER**'s intergalactic journey takes a pit stop in our
 
 ![](https://assets.ppy.sh/artists/311/header.jpg)
 
-Considering they were was founded by the lead vocalist of our very own [Alestorm](https://osu.ppy.sh/beatmaps/artists/304), it was only a matter of time before **GLORYHAMMER** infiltrated our Featured Artists.
+Considering they were founded by the lead vocalist of our very own [Alestorm](https://osu.ppy.sh/beatmaps/artists/304), it was only a matter of time before **GLORYHAMMER** infiltrated our Featured Artists.
 
 **GLORYHAMMER** adopts the role of a storyteller, telling a prophetic tale of conflict behind wizards and a high fantasy cosmic war. And it's just as over-the-top as you'd imagine from that description, with the band fully dedicating to the story by performing as specific characters in the narrative.
 
@@ -24,7 +24,7 @@ Check it all out through this video showcasing osu!(lazer)'s in-play leaderboard
 
 ### Rise Of The Chaos Wizards
 
-Try out [the map from the video above](https://osu.ppy.sh/beatmapsets/1621226) hosted by stream savant [nebuwua](https://osu.ppy.sh/users/14729352) or [this multi-million play Loved map](https://osu.ppy.sh/beatmapsets/694464) hosted by [xChorse](https://osu.ppy.sh/users/2217628)!
+Try out [the map from the video above](https://osu.ppy.sh/beatmapsets/1621226) hosted by stream savant [nebuwua](https://osu.ppy.sh/users/14729352) or [this multi-million-play Loved map](https://osu.ppy.sh/beatmapsets/694464) hosted by [xChorse](https://osu.ppy.sh/users/2217628)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/311/Space%201992%20-%20Rise%20of%20the%20Chaos%20Wizards/GLORYHAMMER%20-%20Rise%20Of%20The%20Chaos%20Wizards.mp3" type="audio/mpeg">
@@ -58,6 +58,6 @@ Challenge yourself with [this marathon](https://osu.ppy.sh/beatmapsets/1630218) 
 
 More glorious tunes (usually not involving hammers) can be found on [**GLORYHAMMER**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/311). If stream-centric mapping is your newfound love, **GLORYHAMMER** is guaranteed to support you.
 
-Our next announcement will be a double-release of artists we're more-than-sure you already know. The [@osugame Twitter](https://twitter.com/osugame) will have all the details in a few days, so stay tuned!
+Our next announcement will be a double release of artists we're more than sure you already know. The [@osugame Twitter](https://twitter.com/osugame) will have all the details in a few days, so stay tuned!
 
 —pishifat
