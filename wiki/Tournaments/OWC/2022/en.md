@@ -212,8 +212,9 @@ The osu! World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) and var
 6. Each team must have 4 members play each map. They may be exchanged freely after a map is concluded.
 7. An optional 3-minute break will be offered between the first and second playthrough of the mappool.
 8. All teams will play their qualifiers in separate rooms. It is *suggested* that teams do not broadcast or share their results publicly to avoid seed manipulation.
-9. Only the top 32 seeded teams will advance to the Round of 32.
-10. The Qualifiers stage results will be published both on this page as well as a spreadsheet which will feature detailed information about every score submitted.
+   - Teams may be grouped into a singular room if there are not enough referees available at match time.
+10. Only the top 32 seeded teams will advance to the Round of 32.
+11. The Qualifiers stage results will be published both on this page as well as a spreadsheet which will feature detailed information about every score submitted.
 
 ### Stage instructions
 
