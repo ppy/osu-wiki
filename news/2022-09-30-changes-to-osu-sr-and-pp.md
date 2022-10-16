@@ -39,13 +39,9 @@ There are currently 1.6 *billion* scores in osu!. This step will go through all 
 
 During this period, scores on profiles will start to show correct values, but still be out of order. Beatmap leaderboards may not show new values yet.
 
-### 🏃 Reindexing \[2022-10-04 ~ 2022-10-05\]
+### ✅ Reindexing \[2022-10-04 ~ 2022-10-06\]
 
 This will fix scores being out of order on profiles, and in some rare cases not being displayed at all.
-
-An initial index run has **completed**, covering most of the top 1 million users.
-
-A second pass is in progress to cover the remaining users and scores.
 
 ## New changes
 

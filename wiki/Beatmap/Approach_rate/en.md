@@ -13,6 +13,8 @@ tags:
 
 AR values range from 0 to 10. Higher approach rates mean that hit objects will be shown for a shorter period of time, giving less time for a player to react. On the other hand, lower approach rates allow more reaction time, but can result in an overwhelming amount of hit objects appearing on the screen at once.
 
+In [osu!taiko](/wiki/Game_mode/osu!taiko) and [osu!mania](/wiki/Game_mode/osu!mania), the approach rate setting has no effect. Scroll speed in both modes is controlled by [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity), which depends on the [BPM](/wiki/Music_theory/Tempo) and slider velocity multiplier. Additionally, in osu!mania it can be customised [by the player themselves](/wiki/Game_mode/osu!mania#speed-change).
+
 ## Animation timing
 
 The duration of a hit object that stays visible on the screen (without mods) ranges from 1800ms at AR0 to 450ms at AR10. AR levels scale by 120ms for below AR5 and 150ms for above AR5.
@@ -38,6 +40,10 @@ The amount of time it takes for the hit object to completely fade in is also rel
 - AR = 5: `fade_in = 800ms`
 - AR > 5: `fade_in = 800ms - 500ms * (AR - 5) / 5`
 
+### Table comparison
+
+![](/wiki/shared/ARTable.jpg "Comparison of visibility windows for different combinations of AR and game modifiers")
+
 ## Mod effects
 
 There are four mods that alter the approach rate when activated:
@@ -47,12 +53,4 @@ There are four mods that alter the approach rate when activated:
 - [Double Time](/wiki/Game_modifier/Double_Time): The AR value is not affected, but due to the 50% play speed increase, hit objects stay on screen for 33% less time.
 - [Half Time](/wiki/Game_modifier/Half_Time): The AR value is not affected, but due to the 25% play speed decrease, hit objects stay on screen for 33% more time.
 
-While Half Time and Double Time do not change the AR value, the speed difference leads to an apparent AR change. HT/DT ARs are commonly referred to in terms of their perceived value. For example, "AR8+DT" may also be written as "AR9.6".
-
-## osu!taiko and osu!mania
-
-Approach rate is visible when viewing [osu!taiko](/wiki/Game_mode/osu!taiko) or [osu!mania](/wiki/Game_mode/osu!mania) beatmap information, but it does not affect gameplay. Each mode's scroll speed is determined by other factors.
-
-<!-- TODO: Insert lots of links -->
-
-<!-- TODO: a chart would be nice for comparing speeds/values with mods -->
+While Half Time and Double Time do not change the AR value, the speed difference leads to an apparent AR change. HT/DT ARs are commonly referred to in terms of their perceived value. For example, "AR 8 + DT" may also be written as "AR 9.6".
