@@ -8,7 +8,7 @@
 
 A beatmap's creator can mark their submissions as `Work in Progress` or `Pending`. Beatmaps in both of these categories are intended to receive feedback from the osu! community.
 
-[Modding](/wiki/Modding) is the process of receiving constructive criticism on a beatmap and is beneficial to improving its quality. Users ordinarily post feedback on a beatmap's discussion page or discuss issues with the beatmap's creator directly.
+[Modding](/wiki/Modding) is the process of receiving constructive criticism on a beatmap and is beneficial to improving its quality. Users ordinarily post feedback on a beatmap's [discussion page](/wiki/Beatmap_discussion) or discuss issues with the beatmap's creator directly.
 
 Newer beatmappers usually need extensive modding to create beatmaps that meet the Ranked category's quality standards, and often they're required to recreate their beatmaps from scratch.
 
