@@ -29,9 +29,9 @@ The **Vin-Tana Solo Showdown** (***VTSS***) was a double-elimination 2v2 osu! to
 
 | Placing | Prize |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Exclusive banner, $14.5 |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Exclusive banner, $8.7 |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Exclusive banner, $5,8 |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 4 months of osu!supporter, exclusive banner, $14.5 |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter, exclusive banner, $8.7 |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter, exclusive banner, $5,8 |
 
 Generous donations from ::{ flag=RU }:: [Dem4eg-](https://osu.ppy.sh/users/7206818), ::{ flag=NL }:: [Katanax28](https://osu.ppy.sh/users/15457513), and ::{ flag=SG }:: [Purl](https://osu.ppy.sh/users/19350047) helped fund some of the cash prizes.
 
@@ -863,57 +863,137 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 ## Ruleset
 
-### General rules
+### Overview
 
-1. A valid team formation will be:
-   - A participant with rank between #1 and #150
-   - A participant with rank of #151 or below
-2. The maximum team size is **2 players**, meaning there will be no backup or replacement.
-3. The scoring system used will be **Score V2**.
-4. Teams will first advance through the Qualifiers to qualify, and the top 24 teams will then proceed to the Group Stage, where they will get filtered again with the top 2 teams per each group proceeding to the Knockout Stage.
-5. The Vin-Tana Solo Showdown will use double-elimination bracket, which means that there will be a losers' bracket and winners' bracket.
-6. Even in a tournament setting, osu! is still a game. Please respect each other, be friendly, and play fair.
+1. Vin-Tana Solo Showdown is an osu! 1v1 double-elimination tournament.
+2. All matches will be played with **Score V2** and **NoFail** mod on.
+3. All matches will be played on `Stable` client or any later version that supports Score V2.
 
-### In-game conditions
+### Registration
+
+1. Registered before September 19th, 2021.
+2. Be in between #50,000 and #200,000 in osu! ranking in Bancho (official osu! server) by the time registration ends.
+3. Multiaccounting/cheating is prohibited.
+4. Violation of registration rules will result in immediate disqualification from the tournament.
+5. There is no limit to how many players can play in the tournament.
+6. If a player's rank goes beyond #50,000 or below #200,000 in osu! ranking, they will still be allowed to play in the tournament. A player's rank only matters during registration period until September 19th, 2021.
+7. Tournament hosts hold the right to eject a player from the competition at their own discretion.
+
+### Competition format
 
 #### Qualifiers
 
-1. Every player will be invited to a multiplayer room at match time.
-2. There will be no warmups, no ban phase, and no pick phase.
-3. During the Qualifiers, each map will be played twice, but leaving after playing them once is allowed. Only the best score will be counted.
-4. There will be a maximum time of **2 minutes** in between maps. The referee will use the `!mp start 10` command to start the game.
-5. If a player gets disconnected for some reason in the first 10 seconds of the song, the referee will abort the game and restart it.
-   - If it happens after 10 seconds, the score before the disconnect will be counted.
-6. The referee can penalise teams if any player presents bad behaviour in the game room.
-7. Once the match has finished, the room will be closed.
-8. If you fail, the score **will still be counted**.
+1. Between the given schedule, players in the competition will participate in a qualifiers match by playing **all** maps from the qualifiers mappoool.
+2. Their score will be taken for each map and added up to give them a cumulative score which will be ranked in comparison to all other participating players.
+3. The top 128 players with the highest cumulative score total will move onto the bracket stage.
 
-#### Group Stage and Knockouts
+#### Bracket
 
-1. Every player will be invited to a multiplayer room at match time.
-2. The referee can wait a maximum of **10 minutes** for each player to attend.
-   - If a player does not arrive, the referee will ask the other team for a 1v2 start. It will depend on the other team if they want to play or not.
-   - Keep in mind that abstaining from a 1v1 is equivalent to forfeiting the match.
-3. Captains will decide if they want to pick a warmup map (maximum limit is **3:30**) and the order does not matter.
-4. Captains will use the `!roll` command. Each team will ban 1 map starting from the one who rolled the lowest.
-5. After the bans, the team that got the higher roll picks their first map then the other team picks theirs. This is continued until the match is done.
-6. There will be a **2 minutes** time limit for all phases.
-7. If the time limit is exceeded:
-   - Ban: No beatmap will be banned.
-   - Pick: The pick turn is transferred to the opponent. This does not affect the subsequent order.
-   - Before the start: The referee will use `!mp start 10` to start the game.
-8. If a player gets disconnected for some reason in the first 10 seconds of the song, the referee will abort the game and restart it.
-   - If it happens after 10 seconds, the score before the disconnect will be counted.
-9. The referee can penalise teams if any player presents bad behaviour in the game room.
-10. Once the match has finished, the room will be closed.
-11. FreeMod maps are *force mod*, so at least 1 team member **has to pick a mod**.
-12. Team members are not allowed to pick the same mod combination.
-13. If a player fails in a song and does not revive, then their score is not counted, but if they do revive it will count. If every player in a team fails, then the sum of their scores will count.
-14. If there is a tie, then no points are added to any team, but the map will be considered as played. If there is a tie on the tiebreaker, then then a rematch will happen using FreeMod conditions.
+1. After qualifiers, the top 128 players from the qualifiers will be seeded 1:1.
+   - For example, the 128th seed player will go against the 1st seed, 127th seed against 2nd seed, so on and so forth.
+2. If a player loses two matches, one in the winner's and one in the loser's bracket, they are eliminated from the tournament.
 
-### Win conditions
+##### Winner's bracket
 
-1. Group Stage: Best-of-7 (first to 4 points)
-2. Round of 16: Best-of-9 (first to 5 points)
-3. Quarterfinals and Semifinals: Best-of-11 (first to 6 points)
-4. **Finals and Grand Finals**: Best-of-13 (first to 7 points)
+1. All players start in the winner's bracket from Round of 128 onwards until they lose a set, sending them down to the loser's bracket.
+2. Only during Grand Finals if the player from the winner's bracket loses, then there will a set reset.
+
+##### Loser's bracket
+
+1. After the first week of matches, the losers of Round of 128 will go against each other in the Round of 64 loser's bracket.
+2. In Round of 32 onwards, players who start the round in the loser's bracket will play two matches per round.
+3. The first match would be the player that won their last loser's match round against a player that lost their winner's bracket match last round.
+4. The second match of the round would be two loser's bracket players that won their last round.
+5. This will continue until Grand Finals where if the loser's bracket player win, there will be a set reset.
+
+### Win conditions and map bans
+
+1. Round of 128 and Round of 64: Best-of-7 (first to 4 points) and 1 ban.
+2. Round of 32: Best-of-9 (first to 5 points) and 1 ban.
+3. Round of 16: Best-of-9 (first to 5 points) and 2 bans.
+4. Quarterfinals and Semifinals: Best-of-11 (first to 6 points) and 2 bans.
+5. Finals and Grand Finals: Best-of-13 (first to 7 points) and 2 bans.
+
+### Match procedures
+
+#### Qualifiers
+
+1. Players sign up for time slots to play in qualifiers lobbies.
+2. Players may switch their qualifiers times whenever they want.
+3. Players join the match and play the maps in the order:
+   1. NM1
+   2. NM2
+   3. NM3
+   4. NM4
+   5. HD1
+   6. HD2
+   7. HR1
+   8. HR2
+   9. DT1
+   10. DT2
+
+#### Bracket
+
+1. Players will automatically be filled into matches with the time being based on the time zones players in.
+2. Loser's bracket players after Round of 128 will have 3 matches scheduled for them. The two matches scheduled are potential matches assuming themselves and the respective player win their previous matches.
+3. Both players may agree to reschedule their match up to a week from their original match date. They must post their agreement on the `#reschedules` text channel in the Discord server along with the respective format for rescheduling.
+4. Loser's bracket players can also reschedule their potential loser's bracket matches as well.
+5. Rescheduling is recommended to be done up to **1 day** before the first match from their respective stage starts in order to ensure referees, commentators, and streamers know when the match will occur so they can perform their respective duties.
+6. You will get a notification from your referee that your match is ready 10 - 15 minutes before the schedule. Once you are ready please let them know and they will invite you to the lobby.
+7. If the referee assigned for the match isn't available or they don't show, the match will be assigned to another referee. This will postpone the match by 15 minutes, and if there's still no referee by the given time, the match will be postponed.
+8. Players must be in the lobby up to 15 minutes after the scheduled match time. If one player don't show up within that period of time, the player that showed up is given a **win by default**.
+9. Warmup maps must be **less than 4:00** long and may be any star range. Don't pick any inappropriate warmup map. If there's an issue with the warmup map chosen, the referee must talk to the host and the player may be punished by host discretion.
+10. After warmups, both players will do a `!roll` command.
+    - The player with the higher role either chooses to be the one who ban second and pick first or vice versa.
+    - The player who rolled lower becomes the selection not chosen.
+11. Protect means that no player may ban that map during the bans. Ban means that no player may pick that map during the match.
+12. Bans may not double ban a mod (if player 1 already banned HD1, they can't ban HD2 with their second ban, however player 2 still can ban HD2). NM is the exception and may be double banned by the same player.
+13. Once a player reached the required amount of wins, the match ends and the player who reached that amount is declared the winner.
+14. The procedures for protects, bans, and picks are:
+
+| Round of 128 to Round of 32 | Round of 16 to Grand Finals |
+| :-- | :-- |
+| 1. Player 1 protects | 1. Player 1 protects |
+| 2. Player 2 protects | 2. Player 2 protects |
+| 3. Player 2 bans | 3. Player 2 bans |
+| 4. Player 1 bans | 4. Player 1 bans |
+| 5. Player 1 picks | 5. Player 2 bans |
+| 6. Player 2 picks (alternate until a winner is declared or tiebreaker is reached). | 6. Player 1 bans |
+|  | 7. Player 1 picks |
+|  | 8. Player 2 picks (alternate until a winner is declared or tiebreaker is reached).
+
+15. Before each map, each player has **two minutes** before the match is played unless both parties with to play the map after agreed time.
+16. All maps will be played with NoFail mod and Score V2 alongside the map's respective mods.
+17. Hidden, HardRock, and DoubleTime maps will have their respective mods chosen by the referee.
+18. When a FreeMod map is played, each player must at least pick one mod from the following: Easy, Hidden, HardRock, or Flashlight.
+    - Easy receives a `1.75x` modifier on top of the `0.5x` score modifier, making it `0.875x` total score.
+19. In case of a tie in points (example: 4-4 in BO9) the tiebreaker is selected.
+    - Players may pick any amount of the following mods: Easy, Hidden, HardRock, or Flashlight. However it's not required and they may play their tiebreaker with NoMod.
+
+### Mappool
+
+| Stage | Highest Star Rating | Maps |
+| :-- | :-: | :-- |
+| Qualifiers | 5.3 ★ | 4 NoMod, 2 Hidden, 2 HardRock, 2 DoubleTime |
+| Round of 128 | 4.75 ★ | 4 NoMod, 2 Hidden, 2 HardRock, 2 DoubleTime, 2 FreeMod, 1 Tiebreaker |
+| Round of 64 | 4.95 ★ | 4 NoMod, 2 Hidden, 2 HardRock, 2 DoubleTime, 2 FreeMod, 1 Tiebreaker |
+| Round of 32 | 5.15 ★ | 5 NoMod, 2 Hidden, 2 HardRock, 3 DoubleTime, 2 FreeMod, 1 Tiebreaker |
+| Round of 16 | 5.35 ★ | 5 NoMod, 2 Hidden, 2 HardRock, 3 DoubleTime, 2 FreeMod, 1 Tiebreaker |
+| Quarterfinals | 5.55 ★ | 5 NoMod, 3 Hidden, 3 HardRock, 3 DoubleTime, 2 FreeMod, 1 Tiebreaker |
+| Semifinals | 5.65 ★ | 5 NoMod, 3 Hidden, 3 HardRock, 3 DoubleTime, 2 FreeMod, 1 Tiebreaker |
+| Finals | 5.75 ★ | 6 NoMod, 3 Hidden, 3 HardRock, 3 DoubleTime, 3 FreeMod, 1 Tiebreaker |
+| Grand Finals | 5.75 ★ | 6 NoMod, 3 Hidden, 3 HardRock, 3 DoubleTime, 3 FreeMod, 1 Tiebreaker |
+
+*Note: Highest star rating in the mappool will always be NM1.*
+
+### Match incidents during play
+
+| Incident | Punishment |
+| :-- | :-- |
+| Player doesn't choose a map to protect/ban within 2 minutes | The player loses the right to protect or ban the map (depending on the situation) and move onto the next step. |
+| Player doesn't choose a map to play within 2 minutes | The pick goes to the opponent |
+| Player leaves within the first 30 seconds of the map or the first quarter of the map (whatever comes first) | The referee makes the decision whether or not to restart the map |
+| Player leaves after 30 seconds of the map | The map is considered lost, and the opponent will receive 1 match point |
+| Player leaves the match and doesn't return within 5 minutes | The match is considered a forfeit and the opponent will move onto the next round |
+| Player experiences lag during gameplay | Lag is not a reason to pause or restart the match |
+| The player doesn't show up within 10 minutes of the match starting | The match is considered a forfeit and opponent will move onto the next round |
