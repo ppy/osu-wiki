@@ -136,7 +136,7 @@ The Vin-Tana Solo Showdown was run by various community members.
 | #69,771 | ::{ flag=US }:: [AN0M4LY](https://osu.ppy.sh/users/16571353) |
 | #70,042 | ::{ flag=DE }:: [BaIIsackX](https://osu.ppy.sh/users/12431599) |
 | #70,289 | ::{ flag=US }:: [Sylliant](https://osu.ppy.sh/users/18793670) |
-| #70,903 | ::{ flag=CL }:: [\[-Potocacapeo-\]](https://osu.ppy.sh/users/16287974)
+| #70,903 | ::{ flag=CL }:: [\[-Potocacapeo-\]](https://osu.ppy.sh/users/16287974) |
 | #71,451 | ::{ flag=DK }:: [Devervux](https://osu.ppy.sh/users/16320893) |
 | #71,629 | ::{ flag=JP }:: [mirinshoyu](https://osu.ppy.sh/users/18365113) |
 | #72,473 | ::{ flag=PH }:: [lazer92](https://osu.ppy.sh/users/10000068) |
@@ -575,7 +575,7 @@ Saturday, 30 October 2021:
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | yakigohan ::{ flag=JP }:: | 4 | **5** | ::{ flag=US }:: **Geag** | [#1](https://osu.ppy.sh/community/matches/93176275) |
-| **mirinshoyu** ::{ flag=JP }:: | **5** | 2 | ::{ flag=US }:: TowaMarbleSoda | [#1](https://osu.ppy.sh/community/matches/93193587)
+| **mirinshoyu** ::{ flag=JP }:: | **5** | 2 | ::{ flag=US }:: TowaMarbleSoda | [#1](https://osu.ppy.sh/community/matches/93193587) |
 | dustt ::{ flag=SG | -1 | **0** | ::{ flag=RU }:: **LamaBot\_** | *win by default* |
 | **A J R** ::{ flag=GB }:: | **0** | -1 | ::{ flag=PH }:: Ashwagafu | *win by default* |
 | JustShade ::{ flag=KZ }:: | 2 | **5** | ::{ flag=DE }:: **Poorshii** | [#1](https://osu.ppy.sh/community/matches/93203576) |
@@ -958,9 +958,9 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 | 3. Player 2 bans | 3. Player 2 bans |
 | 4. Player 1 bans | 4. Player 1 bans |
 | 5. Player 1 picks | 5. Player 2 bans |
-| 6. Player 2 picks (alternate until a winner is declared or tiebreaker is reached). | 6. Player 1 bans |
+| 6. Player 2 picks (alternate until a winner is declared or tiebreaker is reached) | 6. Player 1 bans |
 |  | 7. Player 1 picks |
-|  | 8. Player 2 picks (alternate until a winner is declared or tiebreaker is reached).
+|  | 8. Player 2 picks (alternate until a winner is declared or tiebreaker is reached) |
 
 15. Before each map, each player has **two minutes** before the match is played unless both parties with to play the map after agreed time.
 16. All maps will be played with NoFail mod and Score V2 alongside the map's respective mods.
