@@ -1023,11 +1023,11 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 ### Registration
 
 1. Registered before September 19th, 2021.
-2. Be in between #50,000 and #200,000 in osu! ranking in Bancho (official osu! server) by the time registration ends.
+2. All participants must be ranked between #50,000 and #200,000 in osu! by the time registration ends.
 3. Multiaccounting/cheating is prohibited.
 4. Violation of registration rules will result in immediate disqualification from the tournament.
 5. There is no limit to how many players can play in the tournament.
-6. If a player's rank goes beyond #50,000 or below #200,000 in osu! ranking, they will still be allowed to play in the tournament. A player's rank only matters during registration period until September 19th, 2021.
+6. If a player's osu! rank goes beyond #50,000 or below #200,000, they will still be allowed to play in the tournament. A player's rank only matters during registration period until September 19th, 2021.
 7. Tournament hosts hold the right to eject a player from the competition at their own discretion.
 
 ### Competition format
@@ -1041,8 +1041,8 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 #### Bracket
 
 1. After qualifiers, the top 128 players from the qualifiers will be seeded 1:1.
-   - For example, the 128th seed player will go against the 1st seed, 127th seed against 2nd seed, so on and so forth.
-2. If a player loses two matches, one in the winner's and one in the loser's bracket, they are eliminated from the tournament.
+   - For example, the 128th seed player will go against the 1st seed, 127th seed against 2nd seed, and so on.
+2. If a player loses two matches, one in the winner's bracket and one in the loser's, they are eliminated from the tournament.
 
 ##### Winner's bracket
 
@@ -1085,17 +1085,17 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 #### Bracket
 
-1. Players will automatically be filled into matches with the time being based on the time zones players in.
+1. Players will automatically be filled into matches with the time based on the players' time zones.
 2. Loser's bracket players after Round of 128 will have 3 matches scheduled for them. The two matches scheduled are potential matches assuming themselves and the respective player win their previous matches.
 3. Both players may agree to reschedule their match up to a week from their original match date. They must post their agreement on the `#reschedules` text channel in the Discord server along with the respective format for rescheduling.
 4. Loser's bracket players can also reschedule their potential loser's bracket matches as well.
 5. Rescheduling is recommended to be done up to **1 day** before the first match from their respective stage starts in order to ensure referees, commentators, and streamers know when the match will occur so they can perform their respective duties.
-6. You will get a notification from your referee that your match is ready 10 - 15 minutes before the schedule. Once you are ready please let them know and they will invite you to the lobby.
+6. You will get a notification from your referee that your match is ready 10 - 15 minutes before the schedule. Once you are ready, please let them know, and they will invite you to the lobby.
 7. If the referee assigned for the match isn't available or they don't show, the match will be assigned to another referee. This will postpone the match by 15 minutes, and if there's still no referee by the given time, the match will be postponed.
 8. Players must be in the lobby up to 15 minutes after the scheduled match time. If one player don't show up within that period of time, the player that showed up is given a **win by default**.
-9. Warmup maps must be **less than 4:00** long and may be any star range. Don't pick any inappropriate warmup map. If there's an issue with the warmup map chosen, the referee must talk to the host and the player may be punished by host discretion.
+9. Warmup maps must be **less than 4:00** long and may be in any star range. Don't pick inappropriate warmup maps. If there's an issue with the warmup map chosen, the referee must talk to the host and the player may be punished by the host's discretion.
 10. After warmups, both players will do a `!roll` command.
-    - The player with the higher role either chooses to be the one who ban second and pick first or vice versa.
+    - The player with the higher roll either chooses to be the one who ban second and pick first, or vice versa.
     - The player who rolled lower becomes the selection not chosen.
 11. Protect means that no player may ban that map during the bans. Ban means that no player may pick that map during the match.
 12. Bans may not double ban a mod (if player 1 already banned HD1, they can't ban HD2 with their second ban, however player 2 still can ban HD2). NM is the exception and may be double banned by the same player.
@@ -1109,17 +1109,17 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 | 3. Player 2 bans | 3. Player 2 bans |
 | 4. Player 1 bans | 4. Player 1 bans |
 | 5. Player 1 picks | 5. Player 2 bans |
-| 6. Player 2 picks (alternate until a winner is declared or tiebreaker is reached) | 6. Player 1 bans |
+| 6. Player 2 picks (alternate until a winner is declared or the tiebreaker is reached) | 6. Player 1 bans |
 |  | 7. Player 1 picks |
-|  | 8. Player 2 picks (alternate until a winner is declared or tiebreaker is reached) |
+|  | 8. Player 2 picks (alternate until a winner is declared or the tiebreaker is reached) |
 
-15. Before each map, each player has **two minutes** before the match is played unless both parties with to play the map after agreed time.
+15. Before each map, every player has **two minutes** before the match is played unless both parties wish to play the map after agreed time.
 16. All maps will be played with NoFail mod and Score V2 alongside the map's respective mods.
 17. Hidden, HardRock, and DoubleTime maps will have their respective mods chosen by the referee.
-18. When a FreeMod map is played, each player must at least pick one mod from the following: Easy, Hidden, HardRock, or Flashlight.
+18. When a FreeMod map is played, each player must pick at least one mod from the following: Easy, Hidden, HardRock, or Flashlight.
     - Easy receives a `1.75x` modifier on top of the `0.5x` score modifier, making it `0.875x` total score.
 19. In case of a tie in points (example: 4-4 in BO9) the tiebreaker is selected.
-    - Players may pick any amount of the following mods: Easy, Hidden, HardRock, or Flashlight. However it's not required and they may play their tiebreaker with NoMod.
+    - Players may pick any amount of the following mods: Easy, Hidden, HardRock, or Flashlight. However, it's not required, and they may play their tiebreaker with NoMod.
 
 ### Mappool
 
