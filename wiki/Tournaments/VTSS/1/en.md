@@ -1022,7 +1022,7 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 ### Registration
 
-1. Registered before September 19th, 2021.
+1. In order for their registration to count, they must fill the [player registration form](https://forms.gle/P9k6XB9zhk8mdhWD8) before September 19th, 2021.
 2. All participants must be ranked between #50,000 and #200,000 in osu! by the time registration ends.
 3. Multiaccounting/cheating is prohibited.
 4. Violation of registration rules will result in immediate disqualification from the tournament.
@@ -1047,7 +1047,7 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 ##### Winner's bracket
 
 1. All players start in the winner's bracket from Round of 128 onwards until they lose a set, sending them down to the loser's bracket.
-2. Only during Grand Finals if the player from the winner's bracket loses, then there will a set reset.
+2. Only during Grand Finals if the player from the winner's bracket loses, then there will be a set reset.
 
 ##### Loser's bracket
 
@@ -1091,14 +1091,14 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 4. Loser's bracket players can also reschedule their potential loser's bracket matches as well.
 5. Rescheduling is recommended to be done up to **1 day** before the first match from their respective stage starts in order to ensure referees, commentators, and streamers know when the match will occur so they can perform their respective duties.
 6. You will get a notification from your referee that your match is ready 10 - 15 minutes before the schedule. Once you are ready, please let them know, and they will invite you to the lobby.
-7. If the referee assigned for the match isn't available or they don't show, the match will be assigned to another referee. This will postpone the match by 15 minutes, and if there's still no referee by the given time, the match will be postponed.
+7. If the referee assigned for the match isn't available or they don't show up, the match will be assigned to another referee. This will postpone the match by 15 minutes, and if there's still no referee by the given time, the match will be rescheduled.
 8. Players must be in the lobby up to 15 minutes after the scheduled match time. If one player don't show up within that period of time, the player that showed up is given a **win by default**.
 9. Warmup maps must be **less than 4:00** long and may be in any star range. Don't pick inappropriate warmup maps. If there's an issue with the warmup map chosen, the referee must talk to the host and the player may be punished by the host's discretion.
 10. After warmups, both players will do a `!roll` command.
     - The player with the higher roll either chooses to be the one who ban second and pick first, or vice versa.
-    - The player who rolled lower becomes the selection not chosen.
+    - The player with the lower roll will follow what's not chosen from player who rolled higher (e.g. if player with higher roll choose to ban first and pick second, then the player with lower roll will have to ban second and pick first).
 11. Protect means that no player may ban that map during the bans. Ban means that no player may pick that map during the match.
-12. Bans may not double ban a mod (if player 1 already banned HD1, they can't ban HD2 with their second ban, however player 2 still can ban HD2). NM is the exception and may be double banned by the same player.
+12. Players may not double ban a mod (if player 1 already banned HD1, they can't ban HD2 with their second ban, however player 2 still can ban HD2). NM is the exception and may be double banned by the same player.
 13. Once a player reached the required amount of wins, the match ends and the player who reached that amount is declared the winner.
 14. The procedures for protects, bans, and picks are:
 
@@ -1141,7 +1141,7 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 | Incident | Punishment |
 | :-- | :-- |
-| Player doesn't choose a map to protect/ban within 2 minutes | The player loses the right to protect or ban the map (depending on the situation) and move onto the next step. |
+| Player doesn't choose a map to protect/ban within 2 minutes | The player loses the right to protect or ban the map |
 | Player doesn't choose a map to play within 2 minutes | The pick goes to the opponent |
 | Player leaves within the first 30 seconds of the map or the first quarter of the map (whatever comes first) | The referee makes the decision whether or not to restart the map |
 | Player leaves after 30 seconds of the map | The map is considered lost, and the opponent will receive 1 match point |
