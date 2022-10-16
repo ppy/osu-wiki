@@ -109,4 +109,4 @@ La communauté d'osu! organise régulièrement différents concours pour promouv
 
 *Page principale: [Featured Artists](/wiki/Featured_Artists)*
 
-Les Featured Artists (Featured Artists) sont un programme de l'[équipe du jeu](/wiki/People/The_Team) visant à licencier la musique de différents artistes pour osu!, les rendant ainsi disponible au mapping. La [liste des Featured Artists](https://osu.ppy.sh/beatmaps/artists) du site internet présente chaque artiste impliqué et fournit des modèles pré-paramétrés pour le mapping.
+Les Featured Artists sont un programme de l'[équipe du jeu](/wiki/People/The_Team) visant à licencier la musique de différents artistes pour osu!, les rendant ainsi disponible au mapping. La [liste des Featured Artists](https://osu.ppy.sh/beatmaps/artists) du site internet présente chaque artiste impliqué et fournit des modèles pré-paramétrés pour le mapping.
