@@ -59,9 +59,9 @@ osu! 的谱面都是充满活力的社区内玩家们的智慧结晶，想与大
 
 谱面上架 (Ranking) 指的是让谱面获得排行榜功能，从而为众人所知的过程。下面的文章将指导你如何通过谱面审核流程，并介绍谱面质量控制与谱面上架的全过程。
 
-[提交](/wiki/Submission) • [摸图](/wiki/Modding) • [上架流程](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
+[提交谱面](/wiki/Submission) • [摸图](/wiki/Modding) • [谱面上架流程](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
 
-[Ranking 准则](/wiki/Ranking_Criteria)：[osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania)
+[谱面上架标准 (RC)](/wiki/Ranking_Criteria)：[osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania)
 
 </div>
 <div class="wiki-main-page-panel">
