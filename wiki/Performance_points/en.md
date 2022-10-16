@@ -24,7 +24,7 @@ On January 16, 2021, changes were made to the ppv2 system that aimed to more acc
 - Adjust the rate of pp loss from misses to be more forgiving on longer maps with higher combo
 - Punish lower [accuracy](/wiki/Gameplay/Accuracy) plays with less pp gain
 
-ppv2 is currently in active service, with live updates published by the [PP Committee](/wiki/People/Performance_Points_Committee).
+ppv2 is currently in active service, with updates in the form of news posts published by the [Performance Points Committee](/wiki/People/Performance_Points_Committee) whenever new changes are deployed.
 
 ## Calculation
 
