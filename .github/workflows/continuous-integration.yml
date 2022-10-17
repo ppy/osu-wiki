@@ -24,12 +24,21 @@ jobs:
         run: bash scripts/ci/inspect_binary_file_sizes.sh ${{ github.sha }} ${{ github.sha }}
 
       - name: set up Node.js
+        id: setup-node
         uses: actions/setup-node@v3
         with:
           cache: npm
           node-version: 16
 
+      - name: load node_modules from cache
+        id: cache-node-modules
+        uses: actions/cache@v3
+        with:
+          path: node_modules
+          key: node-modules-${{ hashFiles('package.json', 'package-lock.json') }}-${{ steps.setup-node.outputs.node-version }}
+
       - name: install remark
+        if: steps.cache-node-modules.outputs.cache-hit != 'true'
         run: npm ci
 
       - name: run remark on changed files
