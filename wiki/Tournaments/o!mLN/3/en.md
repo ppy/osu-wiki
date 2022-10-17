@@ -59,6 +59,8 @@ The osu!mania LN Tournament 3 is run by various community members.
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1633030)
 - [o!mLN Discord server](https://discord.gg/SPQtt3s)
 - [Livestream](https://www.twitch.tv/osumanialive)
+- [Challonge bracket](https://challonge.com/i9m94cm9)
+- [Pick'em predictions website](https://pickem.hwc.hr/tournaments/101) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/11vi9CALEtaEnyvm-xwwGsudXB7HsaPMAoAXwF5hx0QY/edit?usp=sharing)**
 
 ## Participants
