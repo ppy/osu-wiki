@@ -190,6 +190,25 @@ The osu!mania LN Tournament 3 is run by various community members.
 
 ## Mappools
 
+### Round of 64
+
+- Coordination
+  1. [uno feat.(IOSYS) - disco KAWAii (ByeForNow) \[LN-FINITE\]](https://osu.ppy.sh/beatmapsets/1130778#mania/2362045)
+  2. [owl\*tree - Desperate (Raveille) \[Stage 3: Cadence\]](https://osu.ppy.sh/beatmapsets/910295#mania/1899584)
+  3. [Eve - Tokyo Ghetto (MyZterioN-) \[Angst (cut)\]](https://osu.ppy.sh/beatmapsets/1477236#mania/3030941)
+- Technical
+  1. [Kagi - Clematis (Paturages) \[Gray Hardrock\]](https://osu.ppy.sh/beatmapsets/1789340#mania/3679866)
+  2. [M2U - Promise (feat. Sherie) (-NoName-) \[guden's 4K Bond\]](https://osu.ppy.sh/beatmapsets/1301740#mania/2717138)
+- Wildcard
+  1. [NIWASHI - The Fascinating Cat's Eye (elexire) \[Amber Eyes\]](https://osu.ppy.sh/beatmapsets/1718486#mania/3511829)
+  2. [penoreri - Prayer (\_Kobii) \[EXHAUST\]](https://osu.ppy.sh/beatmapsets/952639#mania/1989158)
+- Density
+  1. [penoreri - Sailing Force (Paturages) \[Normandy\]](https://osu.ppy.sh/beatmapsets/1867629#mania/3841854)
+  2. [Kanae Tachibana composed by nmk - Elsa de la bibliotheque (Hylotl) \[Yumemiru\]](https://osu.ppy.sh/beatmapsets/1793212#mania/3675127)
+  3. [Memme - China Dress (juankristal) \[Stage 3: Armony\]](https://osu.ppy.sh/beatmapsets/901835#mania/1882949)
+- Tiebreaker
+  1. **[Hatsuki Yura - Transmigration (Akatsumi Chan) \[Akatsumi & HTPLN's Jewelry\]](https://osu.ppy.sh/beatmapsets/1802919#mania/3709803)**
+
 ### Qualifiers
 
 **[Download the mappack here! (15 MB)](https://drive.google.com/drive/folders/1Jy4KMu-W6UexYvTLRy1kW8tsX9pu-lhv?usp=sharing)**
