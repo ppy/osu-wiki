@@ -1022,7 +1022,7 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 
 ### Registration
 
-1. In order for their registration to count, they must fill the [player registration form](https://forms.gle/P9k6XB9zhk8mdhWD8) before September 19th, 2021.
+1. In order for their registration to count, participants must fill the [player registration form](https://forms.gle/P9k6XB9zhk8mdhWD8) before September 19th, 2021.
 2. All participants must be ranked between #50,000 and #200,000 in osu! by the time registration ends.
 3. Multiaccounting/cheating is prohibited.
 4. Violation of registration rules will result in immediate disqualification from the tournament.
