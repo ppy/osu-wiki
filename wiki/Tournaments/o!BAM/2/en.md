@@ -292,14 +292,14 @@ Sunday, 16 October 2022:
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | chungus capoo | 1 | **7** | **yes seggs**| [#1](https://osu.ppy.sh/community/matches/104459934) |
+| Lower | chungus capoo | 1 | **7** | **yes seggs** | [#1](https://osu.ppy.sh/community/matches/104459934) |
 
 Monday, 17 October 2022:
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | yes seggs | 4 | **7** | **ENERGY GAP** | [#1](https://osu.ppy.sh/community/matches/104484394) |
-| Upper | RUDOLF ENJOYERS | 3 | **7** | **Diggas in paris**| [#1](https://osu.ppy.sh/community/matches/104485245) |
+| Upper | RUDOLF ENJOYERS | 3 | **7** | **Diggas in paris** | [#1](https://osu.ppy.sh/community/matches/104485245) |
 
 ### Quarterfinals
 
