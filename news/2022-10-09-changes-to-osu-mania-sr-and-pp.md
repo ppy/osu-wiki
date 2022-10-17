@@ -6,7 +6,7 @@ date: 2022-10-10 02:00:00 +0000
 
 Big changes are arriving in the osu!mania scene as difficulty calculation receives its first set of updates in a long time! Read on for more info!
 
-![](/wiki/shared/news/banners/star-rating.jpg)
+![](/wiki/shared/news/banners/ppbanner-mania.jpg)
 
 As these new changes are the first to be made in nearly [4 years](https://osu.ppy.sh/home/news/2018-05-16-performance-updates) for performance points and a whopping 8 years for star rating, it may be helpful to check the respective wiki pages for [star rating](/wiki/Beatmap/Star_rating) and [performance points](/wiki/Performance_points) to get a quick run-down on how everything works.
 
