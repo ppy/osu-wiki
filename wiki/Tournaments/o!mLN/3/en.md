@@ -233,6 +233,12 @@ The osu!mania LN Tournament 3 is run by various community members.
 - Density
   1. [II-L - Unidentified Frequency Op.1 (Type-Adamski) (HowToPlayLN) \[Unidentified Qualifiers Stage 4: (Type-Density)\]](https://osu.ppy.sh/beatmapsets/1863195#mania/3831323)
 
+## Match results
+
+### Qualifiers
+
+Detailed statistics for this round can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/12g5Ggo362Ihj5AOPsNoliJzHXbvGO9pauKHsiDGTMzg/edit?usp=sharing) alongside the final standings on which players made it through to the next stage.
+
 ## Ruleset
 
 ### General rules
