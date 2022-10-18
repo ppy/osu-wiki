@@ -6,7 +6,7 @@ date: 2022-09-30 5:00:00 +0000
 
 Exciting times ahead as a new wave of difficulty calculation changes reach the shores of the osu! game mode!
 
-![](/wiki/shared/news/banners/ppbanner-osu.jpg)
+![](/wiki/shared/news/banners/star-rating.jpg)
 
 The time for change has arrived yet again. Developers have been hard at work since the [last wave of adjustments](https://osu.ppy.sh/home/news/2021-11-09-performance-points-star-rating-updates) to improve the accuracy of difficulty calculation, and to address community concerns. This news post will explore what's changed while along the way hopefully explaining things to you, the lovely player!
 
