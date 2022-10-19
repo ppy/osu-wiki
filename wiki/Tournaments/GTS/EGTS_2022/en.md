@@ -9,7 +9,7 @@ tags:
 
 ![EGTS 2022 logo](img/logo.jpg)
 
-The **Expert Global Taiko Showdown 2022** (***EGTS 2022***) was a worldwide double-elimination osu!taiko tournament hosted by ::{ flag=FR }:: [\_yosh](https://osu.ppy.sh/users/7157133), ::{ flag=FR }:: [Arrival](https://osu.ppy.sh/users/1694000), and ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263). The tournament was targeted for the top osu!taiko players, with no rank limits. It was the third instalment of the Expert Global Taiko Showdown and part of the Global Taiko Showdown series.
+The **Expert Global Taiko Showdown 2022** (***EGTS 2022***) was a worldwide double-elimination osu!taiko tournament hosted by ::{ flag=FR }:: [\_yosh](https://osu.ppy.sh/users/7157133), ::{ flag=FR }:: [Briesmas](https://osu.ppy.sh/users/2865172), ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263), and ::{ flag=NL }:: [TaikoMom](https://osu.ppy.sh/users/9086438). The tournament was targeted for the top osu!taiko players, with no rank limits. It was the third instalment of the Expert Global Taiko Showdown and part of the Global Taiko Showdown series.
 
 ## Tournament schedule
 
