@@ -35,6 +35,8 @@ The **Expert Global Taiko Showdown 2022** (***EGTS 2022***) is a worldwide doubl
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Unique profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Unique profile badge |
 
+![](img/badge1.jpg "EGTS 2022 winner badge") ![](img/badge2.jpg "EGTS 2022 2nd place badge") ![](img/badge3.jpg "EGTS 2022 3rd place badge")
+
 ## Organisation
 
 The Expert Global Taiko Showdown 2022 is run by various community members.
