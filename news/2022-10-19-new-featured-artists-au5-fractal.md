@@ -44,7 +44,7 @@ Explore [the beatmap with the most inaccurate difficulty name in osu!](https://o
 
 ### Au5 - Blossom
 
-Test your low BPM accuracy with [this marathon](https://osu.ppy.sh/beatmapsets/1186559) hosted by [Nozhomi](https://osu.ppy.sh/users/2716981)!
+Test your low-BPM accuracy with [this marathon](https://osu.ppy.sh/beatmapsets/1186559) hosted by [Nozhomi](https://osu.ppy.sh/users/2716981)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/312/Blossom%20EP%2FAu5%20-%20Blossom.mp3" type="audio/mpeg">
@@ -66,7 +66,7 @@ Try out [this marathon](https://osu.ppy.sh/beatmapsets/959999) hosted by [Ksarda
     <source src="https://assets.ppy.sh/artists/312/Eden/Au5%20-%20Eden%20(feat.%20Danyka%20Nadeau).mp3" type="audio/mpeg">
 </audio>
 
-### Fractal - Collide (feat. Dankya Nadeau)
+### Fractal - Collide (feat. Danyka Nadeau)
 
 The vocalist above makes a return in [another epic collab map](https://osu.ppy.sh/beatmapsets/753365) hosted by [NeilPerry](https://osu.ppy.sh/users/841391)!
 
