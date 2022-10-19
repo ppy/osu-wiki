@@ -23,7 +23,7 @@ Before we proceed with the picks, we'd like you to keep in touch with all the in
 
 - In brighter news, we'd like to welcome [aceticke](https://osu.ppy.sh/users/8838763) to the team! He will be joining us as a metadata reviewer in order to help ensure that all Loved picks are all ready before granting them their well-earned leaderboards.
 
-- Lastly, applications for the osu!mania captain positions are open! So, if you're interested in promoting some coveted beatmaps to the key mashing community, consider applying here:
+- Lastly, applications for the osu!mania captain position are open! So, if you're interested in promoting some coveted beatmaps to the key mashing community, consider applying here:
 
 [![osu!mania captain application banner](/wiki/shared/news/banners/project-loved/apply-mania.png)](https://forms.gle/FyCQdhxNaGLNvE1VA)
 
@@ -39,10 +39,10 @@ If you're interested in participating in Project Loved discussions of a certain 
 
 ### Navigation
 
-- [osu!](#osu)
-- [osu!taiko](#osutaiko)
-- [osu!catch](#osucatch)
-- [osu!mania](#osumania)
+- [osu!](#osu!)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
 ## osu!
 
