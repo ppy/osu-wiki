@@ -63,6 +63,8 @@ The Expert Global Taiko Showdown 2022 was run by various community members.
   - [GTSosu](https://www.twitch.tv/gtsosu)
   - [GTSosu\_b](https://www.twitch.tv/gtsosu_b)
 - [EGTS 2022 trailer](https://youtu.be/9RtCEP0e9H8)
+- [Challonge bracket](https://challonge.com/EGTS2022)
+- [Pick'em predictions website](https://pickem.hwc.hr/tournaments/94) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
 
 ## Participants
 
