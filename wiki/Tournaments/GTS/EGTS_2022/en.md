@@ -305,6 +305,20 @@ The Expert Global Taiko Showdown 2022 is run by various community members.
 
 ## Match results
 
+### Grand Finals
+
+Saturday, 8 October 2022:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Grape\_Tea** ::{ flag=JP }:: | **7** | 6 | ::{ flag=DE }:: Minekuchi | [#1](https://osu.ppy.sh/community/matches/104299641) |
+
+Sunday, 9 October 2022:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Seren58** ::{ flag=JP }:: | **7** | 1 | ::{ flag=JP }:: Grape\_Tea | [#1](https://osu.ppy.sh/community/matches/104322973) |
+
 ### Finals
 
 Saturday, 1 October 2022:
