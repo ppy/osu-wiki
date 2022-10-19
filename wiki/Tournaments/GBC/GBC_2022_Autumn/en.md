@@ -22,7 +22,8 @@ The **GB Cup 2022 Autumn** (***GBC 2022 Autumn***) is a 3v3 captain draft-based 
 | Qualifier showcase | 2022-10-09 (20:00 UTC+8) |
 | Qualifier stage | 2022-10-15/2022-10-16 |
 | Qualifier result showcase | 2022-10-17 (20:00 UTC+8) |
-| Drafting phase | 2022-10-23 (20:00 UTC+8) |
+| Drafting phase | 2022-10-22 |
+| Regular stage week 1 showcase | 2022-10-23 (20:00 UTC+8) |
 | Regular stage week 1 | 2022-10-29/2022-10-30 |
 | Regular stage week 2 | 2022-11-05/2022-11-06 |
 | Regular stage week 3 | 2022-11-12/2022-11-13 |
@@ -56,7 +57,7 @@ The GB Cup 2022 Autumn is run by the Team GB and various community members.
 | Mappool selector | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260), ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501) |
 | SV mappool selector | ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561) |
 | Mappool helper | ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=GB }:: [-Deepdive-](https://osu.ppy.sh/users/13338645), ::{ flag=CN }:: [Lubei_01](https://osu.ppy.sh/users/11692528) |
-| Referee | *TBA* |
+| Referee | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=CN }:: [\[GB\]Edward_Tsui](https://osu.ppy.sh/users/8609627), ::{ flag=CN }:: [\[GB\]gluefly](https://osu.ppy.sh/users/8715409), ::{ flag=CN }:: [\[GB\]Rush_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501), ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [\[GB\]Thaumiel](https://osu.ppy.sh/users/15017771), ::{ flag=CN }:: [\[GB\]Natro](https://osu.ppy.sh/users/27233308), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [\[GB\]Yuria](https://osu.ppy.sh/users/13092888), ::{ flag=CN }:: [\[GB\]Tyris](https://osu.ppy.sh/users/10497659) |
 | Commentator | *TBA* |
 | Streamer | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617) |
 | Designer | ::{ flag=CN }:: [\[GB\]PlayandyoU](https://osu.ppy.sh/users/14759634), ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561)  |
@@ -70,6 +71,13 @@ The GB Cup 2022 Autumn is run by the Team GB and various community members.
   - [Bilibili stream](https://live.bilibili.com/10183) (::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617))
 - [GBC QQ Group](https://jq.qq.com/?_wv=1027&k=zqBeTqMW)
 - [Information spreadsheet](https://docs.qq.com/sheet/DZUVwTnF1aEVmdlVX)
+
+## Participants
+
+| Role | Players |
+| :-: | :-- |
+| **Captains** | ::{ flag=CN }:: [ALWW](https://osu.ppy.sh/users/18786195), ::{ flag=CN }:: [tito31158](https://osu.ppy.sh/users/16436669), ::{ flag=CN }:: [ZOM148](https://osu.ppy.sh/users/10402690), ::{ flag=CN }:: [DJ Sharpnel](https://osu.ppy.sh/users/5132402), ::{ flag=CN }:: [shizehao](https://osu.ppy.sh/users/4928674), ::{ flag=CN }:: [Mito Van](https://osu.ppy.sh/users/14703345), ::{ flag=CN }:: [Shenzouz](https://osu.ppy.sh/users/29606773), ::{ flag=CN }:: [Riemann](https://osu.ppy.sh/users/30327473), ::{ flag=CN }:: [\[GB\]mmttyy233](https://osu.ppy.sh/users/28639641), ::{ flag=CN }:: [\[GB\]Takeru](https://osu.ppy.sh/users/15188014), ::{ flag=CN }:: [\[GB\]V1do](https://osu.ppy.sh/users/17527968), ::{ flag=CN }:: [\[GB\]QAQlingjiu](https://osu.ppy.sh/users/27288518), ::{ flag=CN }:: [Pure_](https://osu.ppy.sh/users/24972681), ::{ flag=CN }:: [Carrot shreds](https://osu.ppy.sh/users/20789670), ::{ flag=CN }:: [nanimoshiranai](https://osu.ppy.sh/users/9602755), ::{ flag=CN }:: [Frozen moon](https://osu.ppy.sh/users/8999766), ::{ flag=CN }:: [NdAa1A0](https://osu.ppy.sh/users/13484261), ::{ flag=CN }:: [7581yx](https://osu.ppy.sh/users/23070586), ::{ flag=CN }:: [Supa7onyz](https://osu.ppy.sh/users/5378805), ::{ flag=CN }:: [vanposen](https://osu.ppy.sh/users/15289293), ::{ flag=CN }:: [N3k0ha_5h12uku](https://osu.ppy.sh/users/8781662), ::{ flag=CN }:: [YUCInoback](https://osu.ppy.sh/users/24449770), ::{ flag=HK }:: [MCPXiaoBai](https://osu.ppy.sh/users/11259611), ::{ flag=CN }:: [1840182932](https://osu.ppy.sh/users/10665336) |
+| **Players** | ::{ flag=CN }:: [StarTemplar](https://osu.ppy.sh/users/8795096), ::{ flag=CN }:: [\[Crz\]Flandre](https://osu.ppy.sh/users/6949941), ::{ flag=CN }:: [Miyes](https://osu.ppy.sh/users/12942073), ::{ flag=CN }:: [Mantozi](https://osu.ppy.sh/users/10764424), ::{ flag=CN }:: [\[Crz\]raber](https://osu.ppy.sh/users/6753592), ::{ flag=CN }:: [alivn](https://osu.ppy.sh/users/15807665), ::{ flag=CN }:: [Ranm](https://osu.ppy.sh/users/17527822), ::{ flag=CN }:: [Hitachimako0721](https://osu.ppy.sh/users/8883576), ::{ flag=CN }:: [\[Paw\]FIood](https://osu.ppy.sh/users/6336721), ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [\[GB\]Rysun](https://osu.ppy.sh/users/16277321), ::{ flag=CN }:: [RiceSS](https://osu.ppy.sh/users/8271436), ::{ flag=CN }:: [\[GB\]Doomsday](https://osu.ppy.sh/users/24989144), ::{ flag=CN }:: [\[ Classic \]](https://osu.ppy.sh/users/5858053), ::{ flag=CN }:: [Yurucawaii](https://osu.ppy.sh/users/25682415), ::{ flag=CN }:: [9961](https://osu.ppy.sh/users/14609209), ::{ flag=CN }:: [- Xiaoluoli -](https://osu.ppy.sh/users/9502281), ::{ flag=HK }:: [Yana Feiya](https://osu.ppy.sh/users/7802517), ::{ flag=CN }:: [lovely_hyahya](https://osu.ppy.sh/users/10318380), ::{ flag=CN }:: [Matoi Ryuu Fox](https://osu.ppy.sh/users/12602829), ::{ flag=CN }:: [fishbone2445](https://osu.ppy.sh/users/17640814), ::{ flag=CN }:: [\[GB\]fanqiu](https://osu.ppy.sh/users/16233412), ::{ flag=CN }:: [\[GB\]King Fish](https://osu.ppy.sh/users/8468203), ::{ flag=CN }:: [chana](https://osu.ppy.sh/users/18375016), ::{ flag=CN }:: [1352707937aa](https://osu.ppy.sh/users/24848670), ::{ flag=CN }:: [\[GB\]DawnLm](https://osu.ppy.sh/users/8651259), ::{ flag=CN }:: [\[GB\]DiGua](https://osu.ppy.sh/users/25308131), ::{ flag=CN }:: [kururipa](https://osu.ppy.sh/users/17136430), ::{ flag=CN }:: [Zyuuu](https://osu.ppy.sh/users/15389275), ::{ flag=CN }:: [ATH_1gr](https://osu.ppy.sh/users/11931583), ::{ flag=CN }:: [Molli](https://osu.ppy.sh/users/8893772), ::{ flag=CN }:: [xibuniuzai](https://osu.ppy.sh/users/10513110), ::{ flag=CN }:: [WELUVELAN](https://osu.ppy.sh/users/29562558), ::{ flag=CN }:: [Vlf](https://osu.ppy.sh/users/9458866), ::{ flag=CN }:: [H dame](https://osu.ppy.sh/users/13673300), ::{ flag=CN }:: [Myon_](https://osu.ppy.sh/users/16626025), ::{ flag=HK }:: [Alptraum](https://osu.ppy.sh/users/26496648), ::{ flag=CN }:: [xinyi2016](https://osu.ppy.sh/users/14213841), ::{ flag=CN }:: [For need](https://osu.ppy.sh/users/10496581), ::{ flag=CN }:: [Origami Kagari](https://osu.ppy.sh/users/12386712), ::{ flag=CN }:: [Kanade1204](https://osu.ppy.sh/users/17251567), ::{ flag=CN }:: [\[GB\]Foxy1459](https://osu.ppy.sh/users/14938400), ::{ flag=CN }:: [\[Crz\]Rumia](https://osu.ppy.sh/users/17686114), ::{ flag=CN }:: [HIM_01](https://osu.ppy.sh/users/11648582), ::{ flag=CN }:: [aaaadddd](https://osu.ppy.sh/users/21131544), ::{ flag=AU }:: [\[Crz\]Yukikaze-](https://osu.ppy.sh/users/8832989), ::{ flag=CN }:: [My Angel Yukee7](https://osu.ppy.sh/users/9787146), ::{ flag=CN }:: [crazy438](https://osu.ppy.sh/users/11305932), ::{ flag=CN }:: [Koishi-0514](https://osu.ppy.sh/users/7546593), ::{ flag=CN }:: [KCINE](https://osu.ppy.sh/users/24289042), ::{ flag=CN }:: [\[GB\]Aeolus](https://osu.ppy.sh/users/5547341), ::{ flag=CN }:: [bfdgbzfhs](https://osu.ppy.sh/users/29105204), ::{ flag=CN }:: [sakura XF](https://osu.ppy.sh/users/16298392), ::{ flag=CN }:: [frankgh3](https://osu.ppy.sh/users/14917119), ::{ flag=CN }:: [Echo_XF](https://osu.ppy.sh/users/25630297), ::{ flag=CN }:: [Zellotime](https://osu.ppy.sh/users/20624754), ::{ flag=CN }:: [bwl](https://osu.ppy.sh/users/15974181), ::{ flag=CN }:: [RCOPLO](https://osu.ppy.sh/users/18267600), ::{ flag=CN }:: [kongsola](https://osu.ppy.sh/users/22437877), ::{ flag=CN }:: [\[GB\]r3uz](https://osu.ppy.sh/users/27583184), ::{ flag=CN }:: [Xzzj](https://osu.ppy.sh/users/26237858), ::{ flag=CN }:: [\[Lily_White\]](https://osu.ppy.sh/users/12749779), ::{ flag=CN }:: [rbqq](https://osu.ppy.sh/users/13747488), ::{ flag=CN }:: [chanxi0](https://osu.ppy.sh/users/13138925), ::{ flag=CN }:: [\[GB\] limata](https://osu.ppy.sh/users/21326517), ::{ flag=CN }:: [\[GB\]AelSan](https://osu.ppy.sh/users/14095291), ::{ flag=CN }:: [xc165543337](https://osu.ppy.sh/users/15246697), ::{ flag=CN }:: [greedinessn](https://osu.ppy.sh/users/14345717), ::{ flag=CN }:: [\[GB\]dotdot](https://osu.ppy.sh/users/15923740), ::{ flag=CN }:: [FALSEFAST](https://osu.ppy.sh/users/25508274), ::{ flag=CN }:: [ivysann](https://osu.ppy.sh/users/23652369), ::{ flag=CN }:: [KafuChino](https://osu.ppy.sh/users/14826575), ::{ flag=HK }:: [biubiutu](https://osu.ppy.sh/users/18801193), ::{ flag=HK }:: [Sakuramoe](https://osu.ppy.sh/users/19885258), ::{ flag=CN }:: [Not Softing](https://osu.ppy.sh/users/13267445), ::{ flag=CN }:: [iiiiiy](https://osu.ppy.sh/users/26677842), ::{ flag=CN }:: [SCI_Scale](https://osu.ppy.sh/users/25988344), ::{ flag=CN }:: [mayoi123](https://osu.ppy.sh/users/25379764), ::{ flag=CN }:: [yks1](https://osu.ppy.sh/users/26030234), ::{ flag=CN }:: [Whitesoak](https://osu.ppy.sh/users/20886272), ::{ flag=CN }:: [lib4d](https://osu.ppy.sh/users/26181073), ::{ flag=CN }:: [Lingyu114](https://osu.ppy.sh/users/29743849), ::{ flag=CN }:: [\[GB\]ChickenGold](https://osu.ppy.sh/users/16586663), ::{ flag=CN }:: [\[GB\]Akamite](https://osu.ppy.sh/users/13418334), ::{ flag=CN }:: [\[GB\]Cz](https://osu.ppy.sh/users/9191281), ::{ flag=CN }:: [YooLi](https://osu.ppy.sh/users/11073130), ::{ flag=CN }:: [-fm777-](https://osu.ppy.sh/users/30122510), ::{ flag=CN }:: [namelest](https://osu.ppy.sh/users/17812436), ::{ flag=CN }:: [KawaiiPoi](https://osu.ppy.sh/users/10694345), ::{ flag=CN }:: [yem sky](https://osu.ppy.sh/users/10588209), ::{ flag=CN }:: [AyainSHF](https://osu.ppy.sh/users/27074609), ::{ flag=CN }:: [chino0133](https://osu.ppy.sh/users/16626292), ::{ flag=CN }:: [\[GB\]ReMILia](https://osu.ppy.sh/users/18334226), ::{ flag=CN }:: [smhei2](https://osu.ppy.sh/users/20888121), ::{ flag=CN }:: [aipaixiaotie](https://osu.ppy.sh/users/16934721), ::{ flag=CN }:: [Zanzibars](https://osu.ppy.sh/users/24290041), ::{ flag=CN }:: [ILOVEUUZ](https://osu.ppy.sh/users/14285752), ::{ flag=CN }:: [spensll](https://osu.ppy.sh/users/4547744), ::{ flag=MY }:: [WesleyWK](https://osu.ppy.sh/users/16533033), ::{ flag=CN }:: [suijiwuming](https://osu.ppy.sh/users/24467547), ::{ flag=CN }:: [ShaDiaoWanJia](https://osu.ppy.sh/users/14613519), ::{ flag=CN }:: [chineseYT](https://osu.ppy.sh/users/27552902) |
 
 ## Mappools
 
@@ -89,6 +97,140 @@ The GB Cup 2022 Autumn is run by the Team GB and various community members.
   2. [Aoi - aterlbus (YuEast 2018) \[Stage 8: Bipolar\]](https://osu.ppy.sh/beatmapsets/1863069#mania/3831057)
 - SV
   1. [IslandWind/PIKASONIC - Forever (Cut ver.) (\[GB\]Mafufu) \[Stage 1: Everlasting\]](https://osu.ppy.sh/beatmapsets/1863068#mania/3831056)
+
+## Match results
+
+### Qualifiers
+
+The final standings for the Qualifier stage and detailed statistics for this round can be found at the following [spreadsheet](https://docs.qq.com/sheet/DZUVwTnF1aEVmdlVX?tab=7kwwee).
+
+| # | Player | Rating |
+| :-: | :-- | :-- |
+| 1 | StarTemplar | 3.82 |
+| 2 | \[Crz\]Flandre | 8.1 |
+| 3 | Miyes | 8.36 |
+| 4 | Mantozi | 8.43 |
+| 5 | \[Crz\]raber | 10.13 |
+| 6 | alivn | 14.37 |
+| 7 | Ranm | 14.52 |
+| 8 | Hitachimako0721 | 15.78 |
+| 9 | \[Paw\]FIood | 17.33 |
+| 10 | \[Crz\]Alleyne | 18.22 |
+| 11 | \[GB\]Rysun | 18.32 |
+| 12 | RiceSS | 19.16 |
+| 13 | \[GB\]Doomsday | 20.41 |
+| 14 | \[ Classic \] | 21.28 |
+| 14 | Yurucawaii | 21.28 |
+| 16 | 9961 | 25.08 |
+| 17 | - Xiaoluoli - | 27.71 |
+| 18 | Yana Feiya | 27.72 |
+| 19 | lovely_hyahya | 28.02 |
+| 20 | Matoi Ryuu Fox | 29.26 |
+| 21 | fishbone2445 | 30.27 |
+| 22 | \[GB\]fanqiu | 31.78 |
+| 23 | \[GB\]King Fish | 32.27 |
+| 24 | chana | 32.35 |
+| 25 | 1352707937aa | 33.12 |
+| 26 | \[GB\]DawnLm | 33.2 |
+| 27 | \[GB\]DiGua | 35 |
+| 28 | kururipa | 35.9 |
+| 29 | Zyuuu | 36.97 |
+| 30 | ATH_1gr | 37.53 |
+| 31 | Molli | 39.7 |
+| 32 | ALWW | 39.98 |
+| 33 | xibuniuzai | 41.2 |
+| 34 | tito31158 | 43.6 |
+| 35 | ZOM148 | 44.32 |
+| 36 | WELUVELAN | 45.33 |
+| 37 | DJ Sharpnel | 47 |
+| 38 | shizehao | 47.95 |
+| 39 | Vlf | 48.51 |
+| 40 | H dame | 48.81 |
+| 41 | Mito Van | 49.28 |
+| 42 | Shenzouz | 49.38 |
+| 43 | Riemann | 49.9 |
+| 45 | Myon_ | 50.13 |
+| 45 | \[GB\]mmttyy233 | 50.13 |
+| 46 | Alptraum | 50.72 |
+| 47 | xinyi2016 | 52.21 |
+| 48 | For need | 52.91 |
+| 49 | \[GB\]Takeru | 53.82 |
+| 50 | Origami Kagari | 54.46 |
+| 51 | \[GB\]V1do | 54.88 |
+| 52 | \[GB\]QAQlingjiu | 56.32 |
+| 53 | Pure_ | 58.15 |
+| 54 | Kanade1204 | 59.26 |
+| 55 | Carrot shreds | 59.28 |
+| 56 | nanimoshiranai | 62.22 |
+| 57 | Frozen moon | 62.78 |
+| 58 | \[GB\]Foxy1459 | 63.55 |
+| 59 | NdAa1A0 | 64.01 |
+| 60 | 7581yx | 65.67 |
+| 61 | \[Crz\]Rumia | 66.18 |
+| 62 | HIM_01 | 67.26 |
+| 63 | Supa7onyz | 68.57 |
+| 64 | vanposen | 68.58 |
+| 65 | aaaadddd | 68.85 |
+| 66 | N3k0ha_5h12uku | 69.22 |
+| 67 | \[Crz\]Yukikaze- | 70.96 |
+| 68 | My Angel Yukee7 | 71.11 |
+| 69 | crazy438 | 71.92 |
+| 70 | Koishi-0514 | 73.91 |
+| 71 | KCINE | 75.1 |
+| 72 | \[GB\]Aeolus | 75.53 |
+| 73 | YUCInoback | 75.85 |
+| 74 | MCPXiaoBai | 76.32 |
+| 75 | bfdgbzfhs | 76.92 |
+| 76 | 1840182932 | 78.58 |
+| 77 | sakura XF | 79.76 |
+| 78 | frankgh3 | 79.91 |
+| 79 | Echo_XF | 80.18 |
+| 80 | Zellotime | 83.22 |
+| 81 | bwl | 84.21 |
+| 82 | RCOPLO | 85.32 |
+| 83 | kongsola | 85.78 |
+| 84 | \[GB\]r3uz | 86.47 |
+| 85 | Xzzj | 86.77 |
+| 86 | \[Lily_White\] | 89.77 |
+| 87 | rbqq | 90.63 |
+| 88 | chanxi0 | 91.23 |
+| 89 | \[GB\] limata | 91.57 |
+| 90 | \[GB\]AelSan | 92.33 |
+| 91 | xc165543337 | 93.81 |
+| 92 | greedinessn | 96.92 |
+| 93 | \[GB\]dotdot | 97.18 |
+| 94 | FALSEFAST | 97.2 |
+| 95 | ivysann | 97.75 |
+| 96 | KafuChino | 97.93 |
+| 97 | biubiutu | 97.97 |
+| 98 | Sakuramoe | 98.32 |
+| 99 | Not Softing | 99.7 |
+| 100 | iiiiiy | 99.91 |
+| 101 | SCI_Scale | 100.21 |
+| 102 | mayoi123 | 100.95 |
+| 103 | yks1 | 101.95 |
+| 104 | Whitesoak | 103.92 |
+| 105 | lib4d | 104.66 |
+| 106 | Lingyu114 | 105.16 |
+| 107 | \[GB\]ChickenGold | 105.41 |
+| 108 | \[GB\]Akamite | 106.47 |
+| 109 | \[GB\]Cz | 106.68 |
+| 110 | YooLi | 106.95 |
+| 111 | -fm777- | 108.53 |
+| 112 | namelest | 111.11 |
+| 113 | KawaiiPoi | 112.13 |
+| 114 | yem sky | 112.58 |
+| 115 | AyainSHF | 120.27 |
+| 116 | chino0133 | 120.51 |
+| 117 | \[GB\]ReMILia | 121.61 |
+| 118 | smhei2 | 122.77 |
+| 119 | aipaixiaotie | 123.08 |
+| 120 | Zanzibars | 123.5 |
+| 121 | ILOVEUUZ | 125.47 |
+| 122 | spensll | 126.72 |
+| 123 | WesleyWK | 128.01 |
+| 124 | suijiwuming | 133.13 |
+| 125 | ShaDiaoWanJia | 133.33 |
 
 ## Ruleset
 
