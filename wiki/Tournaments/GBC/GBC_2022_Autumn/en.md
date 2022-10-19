@@ -232,7 +232,6 @@ The final standings for the Qualifier stage and detailed statistics for this rou
 | 124 | ::{ flag=CN }:: [suijiwuming](https://osu.ppy.sh/users/24467547) | 133.13 |
 | 125 | ::{ flag=CN }:: [ShaDiaoWanJia](https://osu.ppy.sh/users/14613519) | 133.33 |
 
-
 ## Ruleset
 
 ### Changes from last tournament
