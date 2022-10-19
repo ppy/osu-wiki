@@ -20,9 +20,7 @@ As always, we would like to thank everyone for your participation in the Septemb
 Before we proceed with the picks, we'd like you to keep in touch with all the ins and outs of the Project Loved team:
 
 - We'd like to thank [Kasumi-sama](https://osu.ppy.sh/users/6177263) and [stupud man](https://osu.ppy.sh/users/2141612) for their tenures as osu!catch and osu!mania captains respectively, as they both decided to resign recently. We wish them the best in their future endeavors!
-
 - In brighter news, we'd like to welcome [aceticke](https://osu.ppy.sh/users/8838763) to the team! He will be joining us as a metadata reviewer in order to help ensure that all Loved picks are all ready before granting them their well-earned leaderboards.
-
 - Lastly, applications for the osu!mania captain position are open! So, if you're interested in promoting some coveted beatmaps to the key mashing community, consider applying here:
 
 [![osu!mania captain application banner](/wiki/shared/news/banners/project-loved/apply-mania.png)](https://forms.gle/FyCQdhxNaGLNvE1VA)
