@@ -211,7 +211,7 @@ After a wave of complex and challenging maps in the past Loved selections, it is
 200 BPM, 1:58 | 6.38★\
 *description written by [Roxy-](https://osu.ppy.sh/users/11931563)*
 
-*Kibori Breakcore* by [HiroK](https://osu.ppy.sh/users/4050738), previously used as NM1 in the [Expert Global Taiko Showdown 2021](/wiki/en/Tournaments/GTS/EGTS_2021) qualifiers is a very good map to hone your osu!taiko skills as it consists mainly of basic 1/4 and 1/6 patterns. Why don't you all try this map and see how skilled you are? I think this would be very beneficial. We look forward to you liking this map!
+*Kibori Breakcore* by [HiroK](https://osu.ppy.sh/users/4050738), previously used as NM1 in the [Expert Global Taiko Showdown 2021](/wiki/Tournaments/GTS/EGTS_2021) qualifiers is a very good map to hone your osu!taiko skills as it consists mainly of basic 1/4 and 1/6 patterns. Why don't you all try this map and see how skilled you are? I think this would be very beneficial. We look forward to you liking this map!
 
 ## osu!catch
 
@@ -311,7 +311,7 @@ Other than that, the rest is up to you, the player — to experience. Oh, and do
 205 – 235.75 BPM, 5:59 | 5.50★, 6.17★\
 *description written by [RandomeLoL](https://osu.ppy.sh/users/7080063)*
 
-Been a long while since [Elekton](https://osu.ppy.sh/users/4990211) was featured here. But they're coming in strong with Le Dos-on's *A*, a very well known jumpstream chart featured two years ago in the [**osu!mania 4K World Cup of 2020**](/wiki/en/Tournaments/MWC/2020_4K).
+Been a long while since [Elekton](https://osu.ppy.sh/users/4990211) was featured here. But they're coming in strong with Le Dos-on's *A*, a very well known jumpstream chart featured two years ago in the [**osu!mania 4K World Cup of 2020**](/wiki/Tournaments/MWC/2020_4K).
 
 So, who's ready to tackle this gargantuan 6 minute marathon? If you do, don't just lay back on your chair and play on auto-pilot as this won't be your run of the mill jumpstream chart. Do expect trickier parts here and there, and your occasional bursts here and there. Even your occasional LNs here and there that some people will still manage to forget that releases are a thing! Other than that, all in all this will be a gauntlet for your stamina.
 
