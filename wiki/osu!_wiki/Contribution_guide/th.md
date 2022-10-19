@@ -8,12 +8,11 @@
 
 ## ขอบเขตของงาน
 
-ถ้าคุณอยากจะช่วย แต่ไม่แน่ใจว่าจะเริ่มต้นอย่างไร ลองดู [osu! wiki maintenance § Routines](/wiki/osu!_wiki/Maintenance#routines) เพื่อค้นหารายการของงานที่ต้องการให้ทำโดยทั่วไป และวิธีการในการช่วยเหลือเหล่าผู้มีส่วนร่วมคนอื่น ๆ  
-ในการทำให้ตัวคุณคุ้นเคยกับรูปแบบภาษาที่ใช้ใน wiki ลองดู [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) ของ Adam Pritchard 
+ถ้าคุณอยากจะช่วย แต่ไม่แน่ใจว่าจะเริ่มต้นอย่างไร ลองดู [osu! wiki maintenance § Routines](/wiki/osu!_wiki/Maintenance#routines) เพื่อค้นหารายการของงานที่ต้องการให้ทำโดยทั่วไป และวิธีการในการช่วยเหลือเหล่าผู้มีส่วนร่วมคนอื่น ๆ ในการทำให้ตัวคุณคุ้นเคยกับรูปแบบภาษาที่ใช้ใน wiki ลองดู [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) ของ Adam Pritchard 
 
 ## การแก้ไข wiki
 
-สำหรับกระบวนการการมีส่วนร่วมทั่วไป ลองตรวจสอบ [GitHub flow - GitHub Docs](https://docs.github.com/en/get-started/quickstart/github-flow)*
+*สำหรับกระบวนการการมีส่วนร่วมทั่วไป ลองตรวจสอบ [GitHub flow - GitHub Docs](https://docs.github.com/en/get-started/quickstart/github-flow)*
 
 บทความของ osu! wiki ถูกบันทึกอยู่ใน [GitHub][osu_wiki] หากต้องการช่วยเหลือ ทำตามขั้นตอนเหล่านี้
 
@@ -37,11 +36,11 @@
 - **โครงสร้าง และการจัดรูปแบบ** ลองดูตัวอย่างงานของคุณผ่านเครื่องมืออย่าง [jbt's Markdown Editor](https://jbt.github.io/markdown-editor/) เพื่อทำให้แน่ใจว่างานของคุณมีหน้าตาเหมือนกับที่คุณคิดไว้
 - **รูปภาพทุกรูป และไฟล์อื่น ๆ ที่ไม่ใช้ตัวหนังสือ** จะต้อง [เล็กกว่า 1 megabyte](/wiki/Article_styling_criteria/Formatting#file-size) **ภาพหน้าจอ** จะต้องใช้สกินเริ่มต้นของ osu! และใช้ [การตั้งค่าที่กำหนด](/wiki/Article_styling_criteria/Formatting#screenshots-of-gameplay) โดยมีขนาดไม่เกิน 1280×720
 
-สำหรับมาตราฐานการเขียน และการจัดรูปแบบ สามารถดูได้ที่ [เกณฑ์การจัดรูปแบบบทความ](/wiki/Article_styling_criteria) โดยไม่แนะนำให้อ่านตั้งแต่ต้นจนจบในครั้งเดียว และผู้ตรวจสอบจะแจ้งจุดที่ผิดพลาดและต้องแก้ไขหากพบเจอ
+สำหรับมาตรฐานการเขียน และการจัดรูปแบบ สามารถดูได้ที่ [เกณฑ์การจัดรูปแบบบทความ](/wiki/Article_styling_criteria) โดยไม่แนะนำให้อ่านตั้งแต่ต้นจนจบในครั้งเดียว และผู้ตรวจสอบจะแจ้งจุดที่ผิดพลาดและต้องแก้ไขหากพบเจอ
 
 ## Pull request
 
-หลังจากมีการตรวจทานการเปลี่ยนแปลงต่าง ๆ แล้ว เลือก committed และ pushed ไปยัง fork ของคุณ โดยคุณต้องแจ้งผู้ดูแลโดยการเปิด pull request
+หลังจากตรวจทานการเปลี่ยนแปลงต่าง ๆ, commit และ push ไปยัง fork ของคุณแล้ว คุณต้องเสนอมันไปยังผู้ดูแลโดยการเปิด pull request
 
 1. ใน **Fork ของคุณ** ของ osu! wiki หา droupdown ที่เขียนว่า `master↓` และเลือก branch ที่มีการเปลี่ยนแปลงของคุณ
 2. เลือกปุ่ม `Contribute↓` และเลือก `Open pull request`
@@ -55,6 +54,7 @@
 - ตรวจให้แน่ใจว่าคุณได้แก้ไขตามคำแนะนำทั้งหมดแล้ว บางทีผู้ตรวจสอบอาจรอคำตอบของคุณอยู่
 - ลองถามผู้เขียน osu! wiki คนอื่น ๆ ใน [osu!dev Discord server](/wiki/Community/osu!dev_Discord_server) (ช่อง `#osu-wiki` ) หรือใน GitHub comment
 - ในการขอความช่วยเหลือด้านการแปล ตรวจสอบ pull request ที่ merged เรียบร้อยแล้วของภาษาของคุณ ลองเข้าไปติดต่อผู้ตรวจสอบ หรือผู้เขียนของ pull request อันนั้น ([example GitHub query](https://github.com/ppy/osu-wiki/pulls?q=is%3Apr+is%3Amerged+%5BID%5D))
+
 - ลองให้เพื่อนมาดูแบบเร็ว ๆ !
 
 เพิ่มเติมเกี่ยวกับขั้นตอนการตรวจสอบ osu! wiki repository มี [การตรวจสอบโดยอัตโนมัติ](/wiki/osu!_wiki/Maintenance#ci-checks) ที่จะทำให้แน่ใจว่าการเปลี่ยนแปลงของคุณเป็นไปตามรูปแบบของ wiki และไม่มีการจัดรูปแบบที่ผิดพลาด คุณสามารถตรวจสอบสถานะได้โดยการเปิดแถบ `Actions` ใน pull request ของคุณ หากเจอ error ลองทำตามข้อความวินิจฉัยข้อผิดพลาด ด้านล้างของข้อความ error  
@@ -62,6 +62,5 @@
 ## การ Merge
 
 การเปลี่ยนแปลงของคุณจะได้รับการตรวจสอบโดยหนึ่งใน [ผู้ดูแล](/wiki/osu!_wiki/Maintenance/List_of_maintainers) โดยปกติหลังจากได้รับการตรวจสอบจากผู้ประสานงานแล้ว ถ้าไม่มีอะไรเกิดขั้นหลังจากเวลาผ่านไประดับหนึ่ง ลองถามใน GitHub comment ของ pull request หรือในช่อง `#osu-wiki` ของ [osu!dev Discord server](/wiki/Community/osu!dev_Discord_server) การเปลี่ยนแปลงของคุณจะปรากฏใน osu! wiki ไม่นานหลังจาก merge (อาจใช้เวลาถึง 5 ชั่วโมงในบางกรณี)
-
 
 [osu_wiki]: https://github.com/ppy/osu-wiki
