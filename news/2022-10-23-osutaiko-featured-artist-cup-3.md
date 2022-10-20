@@ -4,17 +4,17 @@ title: "osu!taiko Featured Artist Cup #3"
 date: 2022-10-23 18:00:00 +0000
 ---
 
-Grab a buddy, a Featured Artist song, and prepare for the biggest osu!taiko mapping showdown of the year yet!
+Grab a buddy, a Featured Artist song, and prepare for the biggest osu!taiko mapping showdown of the year!
 
 ![](/wiki/Contests/o!tFAC/3/img/banner.jpg)
 
-The osu!taiko Featured Artist Cup is a mapping contest where you're simply asked to map any song from one of osu!'s Featured Artists, but this time, there's a twist: **You must map with a partner!** This will set some good grounds to observe just how far two mappers can push the limits when they have to unite forces.
+The osu!taiko Featured Artist Cup is a mapping contest where you're simply asked to map any song from one of osu!'s Featured Artists, but this time, there's a twist: **you must map with a partner!** This will set some good grounds to observe just how far two mappers can push the limits when they have to unite forces.
 
 ## Rules
 
 Just like every other contest out there, there are some rules that must be followed:
 
-- **Entries must be in osu!taiko game mode only.**
+- **Entries must be in the osu!taiko game mode only.**
 - **Entries must be in `.osz` format.**
 - **Contestants must submit ONE difficulty of any song they choose from the [Featured Artist library](https://osu.ppy.sh/beatmaps/artists).**
 - **Entries must not exceed the drain time of 7 minutes.** There will a bit of leeway in cases where the drain time is really close to the 7 minute mark.
@@ -28,7 +28,7 @@ Just like every other contest out there, there are some rules that must be follo
 
 Once you've fully read the rules and thought of a clever team name, you can register your team through [this form](https://forms.gle/HhX6FahJyg2YapB96).
 
-## Judging Criteria
+## Judging criteria
 
 Judging will be done by a panel of [experienced mappers and players](/wiki/Contests/o!tFAC/3#Organisation). The criteria they will be looking for are:
 

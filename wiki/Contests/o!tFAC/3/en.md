@@ -14,7 +14,7 @@ tags:
 
 ![o!tfac banner](img/banner.jpg)
 
-The **osu!taiko Featured Artist Cup #3** (***o!tfac #3***) is an osu!taiko mapping contest where contestants are simply asked to map a song from one of osu!'s [Featured Artists](https://osu.ppy.sh/beatmaps/artists), this time with a twist: **Mappers must form teams of 2**.
+The **osu!taiko Featured Artist Cup #3** (***o!tfac #3***) is an osu!taiko mapping contest where contestants are simply asked to map a song from one of osu!'s [Featured Artists](https://osu.ppy.sh/beatmaps/artists), this time with a twist: **mappers must form teams of 2**.
 
 ## Contest schedule
 
@@ -42,9 +42,9 @@ This contest features the re-introduction of [MBC Points](wiki/Contests/Monthly_
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter, Ranked status[^prizes-ranked], unique profile badge, 3 Contest Points |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter, Ranked status[^prizes-ranked], 2 Contest Points |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 month of osu!supporter, Ranked status[^prizes-ranked], 1 Contest Point |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter, Ranked status[^prizes-ranked], 1 Contest Point |
 
-![o!tfac #3 badge](img/badge.png "osu!taiko Featured Artist Cup #3 Winning Team")
+![o!tfac #3 badge](img/badge.png "osu!taiko Featured Artist Cup #3 winning team")
 
 ## Links
 
@@ -57,7 +57,7 @@ This contest features the re-introduction of [MBC Points](wiki/Contests/Monthly_
 
 ### Contest rules
 
-- **Entries must be in osu!taiko game mode only.**
+- **Entries must be in the osu!taiko game mode only.**
 - **Entries must be in `.osz` format.**
 - **Contestants must submit ONE difficulty of any song they choose from the [Featured Artist library](https://osu.ppy.sh/beatmaps/artists).**
 - **Entries must not exceed the drain time of 7 minutes.** There will a bit of leeway in cases where the drain time is really close to the 7 minute mark.
@@ -79,4 +79,4 @@ This contest features the re-introduction of [MBC Points](wiki/Contests/Monthly_
 
 ## Notes
 
-[^prizes-ranked]: ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) and another Beatmap Nominator will check and nominate the entry if the mappers choose to, and **if they get the necessary difficulties to form a rankable spread when needed.**
+[^prizes-ranked]: ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) and another Beatmap Nominator will check and nominate the entry if the mappers choose to, and **if they get the necessary difficulties to form a rankable spread when needed**.
