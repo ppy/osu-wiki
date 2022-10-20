@@ -15,7 +15,7 @@ outdated_since: 798269cfe9f0515e267a7f8a122b28fdff0aaf05
 
 **聚光灯**（Beatmap Spotlights，或简称 Spotlights），也被称为*月赛*（*Ranking Charts*）。是一个定期举办的活动系统，用于推荐或突出玩家制作的拥有出色或独特玩法设计的[谱面](/wiki/Beatmap)。它有一个[赛季排行榜](#赛季)，并为所有参与的玩家提供奖励。
 
-当前赛季为 2022 春。
+当前赛季为 2022 夏。
 
 ## 参加
 

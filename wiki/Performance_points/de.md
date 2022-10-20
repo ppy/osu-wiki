@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: b0dbd398396a49d6f8e793dfa279b0c0e65937f1
+---
+
 # Performance-Points
 
 **Performance-Points** (oder **pp** abgekürzt, auch Performance-Punkte genannt) ist eine Metrik, deren Ziel es ist, den Spielerfortschritt in osu! kontextbezogener zu gestalten.
