@@ -52,6 +52,7 @@ The osu! World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) and var
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1645682)
 - [Livestream](https://www.twitch.tv/osulive)
+- [Challonge bracket](https://challonge.com/OWC_22)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/100) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
 - [Information spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRYxmXVoTl0pXz3Xk3cDl3PqtH_9vNHGt0GzaJkJ6Ss2wCYSoWppYK-BK6Dr51bZXVdZOakHLpxqZbU/pubhtml)
 
@@ -119,12 +120,9 @@ The osu! World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) and var
 
 | Team A | Team B | Match time |
 | --: | :-- | :-- |
-| Japan ::{ flag=JP }:: | ::{ flag=SG }:: Singapore | [Oct 22 (Sat) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221022T090000&p1=1440&p2=248&p3=236) |
 | France ::{ flag=FR }:: | ::{ flag=NZ }:: New Zealand | [Oct 22 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221022T100000&p1=1440&p2=195&p3=264) |
-| Hong Kong ::{ flag=HK }:: | ::{ flag=DK }:: Denmark | [Oct 22 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221022T110000&p1=1440&p2=102&p3=69) |
-| Norway ::{ flag=NO }:: | ::{ flag=GB }:: United Kingdom | [Oct 22 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221022T120000&p1=1440&p2=187&p3=136) |
-| Brazil ::{ flag=BR }:: | ::{ flag=IT }:: Italy | [Oct 22 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221022T150000&p1=1440&p2=45&p3=215) |
-| Romania ::{ flag=RO }:: | ::{ flag=MX }:: Mexico | [Oct 22 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221022T160000&p1=1440&p2=49&p3=155) |
+| Indonesia ::{ flag=ID }:: | ::{ flag=FI }:: Finland | [Oct 22 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221022T130000&p1=1440&p2=108&p3=101) |
+| Japan ::{ flag=JP }:: | ::{ flag=SG }:: Singapore | [Oct 22 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221022T140000&p1=1440&p2=248&p3=236) |
 | United States ::{ flag=US }:: | ::{ flag=IL }:: Israel | [Oct 22 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221022T170000&p1=1440&p2=263&p3=110) |
 | Canada ::{ flag=CA }:: | ::{ flag=CL }:: Chile | [Oct 22 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221022T180000&p1=1440&p2=188&p3=232) |
 
@@ -133,13 +131,16 @@ The osu! World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) and var
 | Team A | Team B | Match time |
 | --: | :-- | :-- |
 | Australia ::{ flag=AU }:: | ::{ flag=TH }:: Thailand | [Oct 23 (Sun) 07:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221023T070000&p1=1440&p2=57&p3=28) |
-| Indonesia ::{ flag=ID }:: | ::{ flag=FI }:: Finland | [Oct 23 (Sun) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221023T080000&p1=1440&p2=108&p3=101) |
-| Philippines ::{ flag=PH }:: | ::{ flag=TW }:: Taiwan | [Oct 23 (Sun) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221023T090000&p1=1440&p2=145&p3=241) |
 | South Korea ::{ flag=KR }:: | ::{ flag=ES }:: Spain | [Oct 23 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221023T100000&p1=1440&p2=235&p3=141) |
-| China ::{ flag=CN }:: | ::{ flag=UA }:: Ukraine | [Oct 23 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221023T120000&p1=1440&p2=33&p3=367) |
-| Germany ::{ flag=DE }:: | ::{ flag=CZ }:: Czech Republic | [Oct 23 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221023T130000&p1=1440&p2=37&p3=204) |
-| Russian Federation ::{ flag=RU }:: | ::{ flag=SE }:: Sweden | [Oct 23 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221023T140000&p1=1440&p2=166&p3=239) |
-| Poland ::{ flag=PL }:: | ::{ flag=TR }:: Turkey | [Oct 23 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221023T150000&p1=1440&p2=262&p3=19) |
+| Hong Kong ::{ flag=HK }:: | ::{ flag=DK }:: Denmark | [Oct 23 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221023T120000&p1=1440&p2=102&p3=69) |
+| Philippines ::{ flag=PH }:: | ::{ flag=TW }:: Taiwan | [Oct 23 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221023T130000&p1=1440&p2=145&p3=241) |
+| China ::{ flag=CN }:: | ::{ flag=UA }:: Ukraine | [Oct 23 (Sun) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221023T143000&p1=1440&p2=33&p3=367) |
+| Germany ::{ flag=DE }:: | ::{ flag=CZ }:: Czech Republic | [Oct 23 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221023T160000&p1=1440&p2=37&p3=204) |
+| Russian Federation ::{ flag=RU }:: | ::{ flag=SE }:: Sweden | [Oct 23 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221023T170000&p1=1440&p2=166&p3=239) |
+| Poland ::{ flag=PL }:: | ::{ flag=TR }:: Turkey | [Oct 23 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221023T180000&p1=1440&p2=262&p3=19) |
+| Romania ::{ flag=RO }:: | ::{ flag=MX }:: Mexico | [Oct 23 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221023T180000&p1=1440&p2=49&p3=155) |
+| Norway ::{ flag=NO }:: | ::{ flag=GB }:: United Kingdom | [Oct 23 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221023T190000&p1=1440&p2=187&p3=136) |
+| Brazil ::{ flag=BR }:: | ::{ flag=IT }:: Italy | [Oct 23 (Sun) 19:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221023T193000&p1=1440&p2=45&p3=215) |
 
 ## Mappools
 
