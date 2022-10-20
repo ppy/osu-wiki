@@ -30,7 +30,7 @@ Once you've fully read the rules and thought of a clever team name, you can regi
 
 ## Judging criteria
 
-Judging will be done by a panel of [experienced mappers and players](/wiki/Contests/o!tFAC/3#Organisation). The criteria they will be looking for are:
+Judging will be done by a panel of [experienced mappers and players](/wiki/Contests/o!tFAC/3#organisation). The criteria they will be looking for are:
 
 - **Structure (10 Points):** Points will be assigned based on how well the map is internally designed (consistency, concept introduction, etc.).
 - **Relevance (10 Points):** Points will be assigned based on how well the map represents the song and how well it plays.
@@ -40,13 +40,13 @@ Judging will be done by a panel of [experienced mappers and players](/wiki/Conte
 
 ## Schedule
 
-- **October 23rd - November 6th:** Beatmapping phase
+- **October 23rd - November 6th:** Mapping phase
 - **November 7th - November 21st:** Judging phase
 - **November 28th:** Results announcement
 
 ## Prizes
 
-Before we get to the prizes, we'd like to inform you that [MBC Points](/wiki/Contests/Monthly_Beatmapping_Contest#rewards) will be brought back for official mapping contests starting from now! This is to provide contests with a streamlined path to the legendary *Elite Mapper* title!
+Before we get to the prizes, we'd like to inform you that [MBC Points](/wiki/Contests/Monthly_Beatmapping_Contest#rewards) will be brought back for official mapping contests starting from now! This is to provide contests with a streamlined path to the legendary *Elite Mapper* title (which is attainable by reaching 6 points)!
 
 The top 3 teams that reign supreme will be awarded with the following prizes:
 
@@ -60,7 +60,7 @@ The top 3 teams that reign supreme will be awarded with the following prizes:
 
 ---
 
-Head to the [contest listing](contestlink) whenever your entry is ready, and keep track of all important updates, alongside the results announcement, in the contest's [Discord server](https://discord.gg/jMsVqwPVrD). So make sure to join it if you haven't already!
+Head to the [contest listing](https://osu.ppy.sh/community/contests/155) whenever your entry is ready, and keep track of all important updates, alongside the results announcement, in the contest's [Discord server](https://discord.gg/jMsVqwPVrD). So make sure to join it if you haven't already!
 
 ---
 

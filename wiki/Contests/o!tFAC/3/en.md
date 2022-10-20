@@ -20,7 +20,7 @@ The **osu!taiko Featured Artist Cup #3** (***o!tfac #3***) is an osu!taiko mappi
 
 | Event | Timestamp (UTC) |
 | --: | :-- |
-| Beatmapping phase | 2022-10-23/2022-11-06 00:00 |
+| Mapping phase | 2022-10-23/2022-11-06 00:00 |
 | Judging phase | 2022-11-07/2022-11-21 |
 | Results announcement | 2022-11-28 |
 
@@ -36,7 +36,7 @@ The osu!taiko Featured Artist Cup #3 is run by various community members.
 
 ## Prizes
 
-This contest features the re-introduction of [MBC Points](wiki/Contests/Monthly_Beatmapping_Contest#rewards) as a reward present in future official contests in order to provide a more streamlined path to the *Elite Mapper* title.
+This contest features the re-introduction of [MBC Points](/wiki/Contests/Monthly_Beatmapping_Contest#rewards) as a reward present in future official contests in order to provide a more streamlined path to the *Elite Mapper* title. The title is attainable by reaching 6 points.
 
 | Placing | Prize(s) |
 | :-: | :-- |
@@ -49,7 +49,7 @@ This contest features the re-introduction of [MBC Points](wiki/Contests/Monthly_
 ## Links
 
 - [Contest news article](https://osu.ppy.sh/home/news/2022-10-23-osutaiko-featured-artist-cup-3)
-- [Contest listing](contestlink)
+- [Contest listing](https://osu.ppy.sh/community/contests/155)
 - [Discord server](https://discord.gg/jMsVqwPVrD)
 - [Teams registration form](https://forms.gle/HhX6FahJyg2YapB96)
 
