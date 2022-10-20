@@ -24,7 +24,7 @@ Needless to say, if you're looking for a cutting-edge skin offering a *slow jour
 
 Executing a masterpiece going all out on technological advancements, koomo gets to achieve the 3rd place profile badge with their sour_grapes entry! Congratulations!
 
-![](/wiki/shared/news/2022-10-20-skinning-contest-chromatic-alteration-results/grapes.jpg)
+![](/wiki/shared/news/2022-10-20-skinning-contest-chromatic-alteration-results/grapes.png)
 
 ## 2nd Place - Ralsei Dark
 
@@ -38,7 +38,7 @@ Well, it's a Ralsei-themed skin after all. Who wouldn't love it? Especially when
 
 Thanks to their beloved work of art, Ralsei Dark, Corne2Plum3 is awarded with a cute Ralsei artwork immortalized in the form of a profile badge!
 
-![](/wiki/shared/news/2022-10-20-skinning-contest-chromatic-alteration-results/ralsei.jpg)
+![](/wiki/shared/news/2022-10-20-skinning-contest-chromatic-alteration-results/ralsei.png)
 
 ## Winner - 霜滅 SOUMETSU
 
@@ -52,7 +52,7 @@ There is much to say for this lovely creation, yet words will not suffice. Check
 
 After falling short of the grand prize last edition, thetasigma finally outdid themselves, grabbing a hold of the badge certifying their accomplishment thanks to their entry, 霜滅 SOUMETSU. Congratulations thetasigma, well deserved!
 
-![](/wiki/shared/news/2022-10-20-skinning-contest-chromatic-alteration-results/soumetsu.jpg)
+![](/wiki/shared/news/2022-10-20-skinning-contest-chromatic-alteration-results/soumetsu.png)
 
 ---
 
