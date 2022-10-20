@@ -18,7 +18,7 @@ function _docker() {
 function _test_wrapper() {
   test_name="$1"
   command_line="$2"
-  readarray -t files <<< "${@: 3}"
+  files=( $( echo "${@: 3}" | tr '\n' ' ' ) )  # bash v3.2 on macOS doesn't support readarray
 
   if test -z "$files"; then
     print_success "* Skip $test_name test"
