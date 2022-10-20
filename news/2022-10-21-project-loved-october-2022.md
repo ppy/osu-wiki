@@ -259,7 +259,7 @@ Overall a map of moderate difficulty that can be enjoyed by a lot of people so m
 
 ......................................huh- OH HEY THERE LOVELY READER! You scared me there! What was I doing? Well, you know, there is this map called *Zzz* by [Spectator](https://osu.ppy.sh/users/702598), and it's like the most soothing thing ever! It has a couple of difficulties which are very relaxing, and playable by virtually anyone. As a matter of fact, I believe it might be quite a good pick for loved, considering the amount of times it has been played since its creation over eight years ago — it even saw some play in tournaments!
 
-So let me see, I will just put it up for loved like this... and now people can vote for it! But, before you do, let me take you for a spin! Here, let me just turn on score V2 and we're off to- to... to the... what was I saying agai- *yawn* ......................................
+So let me see, I will just put it up for Loved like this... and now people can vote for it! But, before you do, let me take you for a spin! Here, let me just turn on Score V2 and we're off to- to... to the... what was I saying agai- *yawn*.........
 
 ## osu!mania
 
