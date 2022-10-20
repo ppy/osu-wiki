@@ -19,7 +19,7 @@ On March 18, 2015, the CAT was dissolved[^cat-death] due to the complete overhau
 
 [^cat-birth]: [(Restricted) Forum post by Derekku (2011-08-29) in "MAT Lounge"](https://osu.ppy.sh/community/forums/posts/1004797)
 [^cat-recruitment-2013]: [Forum thread by Makar (2013-05-19) "2013 NewCAT Applications"](https://osu.ppy.sh/community/forums/topics/133248)
-[^cat-hiatus]: [(Restricted) Forum thread by Ephemeral (2013-09-17) "Ranking chats overhaul"](https://osu.ppy.sh/community/forums/topics/155384)
+[^cat-hiatus]: [(Restricted) Forum thread by Ephemeral (2013-09-17) "Ranking charts overhaul"](https://osu.ppy.sh/community/forums/topics/155384)
 [^cat-crisis]: [(Restricted) Forum thread by Ephemeral (2013-10-02) "encouraging staff activity + CAT"](https://osu.ppy.sh/community/forums/topics/157800)
 [^cat-recruitment-2014]: [(Restricted) Forum thread by Loctav (2014-06-16) "[IMPORTANT] Recruiting NewCATs"](https://osu.ppy.sh/community/forums/topics/218032)
 [^cat-death]: [News post by Loctav (2015-03-18) "February 2015 Monthly Ranking Charts - New Season!"](https://osu.ppy.sh/home/news/2015-03-18-february-2015-monthly-ranking-charts-new-season)
