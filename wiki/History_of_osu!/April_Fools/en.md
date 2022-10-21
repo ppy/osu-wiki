@@ -46,7 +46,7 @@ There was also a report at the time of [Ephemeral](https://osu.ppy.sh/users/1023
 
 ### osu!core
 
-"osu!core" is the name given to osu!'s 2011 April Fools' day prank. The prank caused every single beatmap's audio to be pitched and sped up in the style of [Nightcore](https://en.wikipedia.org/wiki/Nightcore) remixes. Although just an April Fools' day prank, it later became a reality when the [Nightcore mod](/wiki/Game_modifier/Nightcore) was introduced as an actual playable [game modifier](/wiki/Game_modifier) in osu! later on.[^nightcore-wiki][^nightcore-yt][^nightcore-frontpage][^fl-forums]
+"osu!core" is the name given to osu!'s 2011 April Fools' day prank. The prank caused every single beatmap's audio to be pitched and sped up in the style of [Nightcore](https://en.wikipedia.org/wiki/Nightcore) remixes. Although just an April Fools' day prank, it later became a reality when the [Nightcore mod](/wiki/Game_modifier/Nightcore) was introduced as an actual playable [game modifier](/wiki/Game_modifier) in osu! later on.[^nightcore-yt][^nightcore-frontpage][^fl-forums]
 
 ---
 
@@ -54,7 +54,7 @@ There was also a report at the time of [Ephemeral](https://osu.ppy.sh/users/1023
 
 ### Flashlight/Hidden mod on website
 
-On 1 April 2012, the entire osu! website had a 50% chance of either the [Flashlight (FL) mod](/wiki/Game_modifier/Flashlight) or [Hidden (HD) mod](/wiki/Game_modifier/Hidden) being "enabled" on the website per page load (3/10 for HD; 1/5 for FL). A modern recreation of what the prank looked like for users at the time is shown below.[^fl-osudev-2021-01-28][^fl-ontheweb][^fl-forums-2][^fl-forums-3][^fl-forums-4][^fl-osudev-2021-01-29]
+On 1 April 2012, the entire osu! website had a 50% chance of either the [Flashlight (FL) mod](/wiki/Game_modifier/Flashlight) or [Hidden (HD) mod](/wiki/Game_modifier/Hidden) being "enabled" on the website per page load (3/10 for HD; 1/5 for FL). A modern recreation of what the prank looked like for users at the time is shown below.[^fl-ontheweb][^fl-forums-2][^fl-forums-3][^fl-forums-4][^fl-osudev-2021-01-29]
 
 ![](img/2012-flashlight.gif "What the website would have looked like with the Flashlight mod enabled")
 
@@ -62,7 +62,7 @@ On 1 April 2012, the entire osu! website had a 50% chance of either the [Flashli
 
 ### Bad Apple ranking chart
 
-The "Bad Apple Ranking Chart" was a joke ranking chart based on a variety of beatmaps that featured the song "Bad Apple!!" as part of osu!'s 2012 April Fools' joke. Announced via [a newspost](https://osu.ppy.sh/community/forums/posts/1431905) on 1 April 2012, the ranking chart actually functioned as a real working chart at the time and displayed the top 40 players who obtained the highest [ranked score](/wiki/Gameplay/Score/Ranked_score) in any one of the handpicked selections of "Bad Apple!!" beatmaps.[^bad-apple-chart][^bad-apple-news][^bad-apple-osudev-2021-01-29] An excerpt from the aforementioned newspost is inscribed below:
+The "Bad Apple Ranking Chart" was a joke ranking chart based on a variety of beatmaps that featured the song "Bad Apple!!" as part of osu!'s 2012 April Fools' joke. Announced via [a newspost](https://osu.ppy.sh/community/forums/posts/1431905) on 1 April 2012, the ranking chart actually functioned as a real working chart at the time and displayed the top 40 players who obtained the highest [ranked score](/wiki/Gameplay/Score/Ranked_score) in any one of the handpicked selections of "Bad Apple!!" beatmaps.[^bad-apple-chart][^bad-apple-news] An excerpt from the aforementioned newspost is inscribed below:
 
 > We decided to dedicate this chart to the greatest song and video ever created, Bad Apple!!. You can find the awesome chart here
 >
@@ -70,7 +70,7 @@ The "Bad Apple Ranking Chart" was a joke ranking chart based on a variety of bea
 >
 > Look forward to our next charts, the Renai Circulation and Irony charts!
 
-— Cyclone, "Bad Apple Ranking Chart!"][^bad-apple-news][^bad-apple-osudev-2021-01-29]
+— Cyclone, "Bad Apple Ranking Chart!"][^bad-apple-news]
 
 The chart was opened on 1 April 2012 and closed on 2 April 2012. At the end of the ranking period, [Mesita](https://osu.ppy.sh/users/201459) was the number one player with a ranked score of 145,623,328.[^bad-aple-frontpage]
 
@@ -107,7 +107,7 @@ On 1 April 2013, [BanchoBot](/wiki/BanchoBot) was turned into a [tsundere](https
 
 ### Shiba Inu appears in osu!
 
-On 1 April 2014, the osu! main menu screen was temporarily changed (shown below) to include multi-coloured, grammatically incorrect statements accompanied by the famous image of a certain [Shiba Inu](https://en.wikipedia.org/wiki/Shiba_Inu) in the style of the [Doge meme](https://en.wikipedia.org/wiki/Doge_(meme)) that was popular at that time.[^fl-osudev-2021-01-28][^shiba-inu-reddit][^shiba-inu-reddit-2][^shiba-inu-forums]
+On 1 April 2014, the osu! main menu screen was temporarily changed (shown below) to include multi-coloured, grammatically incorrect statements accompanied by the famous image of a certain [Shiba Inu](https://en.wikipedia.org/wiki/Shiba_Inu) in the style of the [Doge meme](https://en.wikipedia.org/wiki/Doge_(meme)) that was popular at that time.[^shiba-inu-reddit][^shiba-inu-reddit-2][^shiba-inu-forums]
 
 ![](img/2014-main-screen-doge.jpg "The main screen of osu! on 1 April 2014")
 
@@ -133,7 +133,7 @@ In short, in order to play or restart a [beatmap](/wiki/Beatmap), users must hav
 
 The main screen of osu! also had a barrage of slowly rising osu!coins in the background, along with a slightly changed main theme, in which the exclamation "circles!" was replaced with a robotic-sounding "and buy the coins" before the beat drop. Additional new textures, sound effects, animations, and music were created for this prank, including a counter that would display the amount of coins players had throughout their plays.[^osu-coins-yt-2][^osu-coins-yt-3] <!--needs further verification-->
 
-The update was generally well-received by players and saw some actual support for a future implementation without the monetisation. Despite this, peppy rolled back the implementation of osu!coins the following day with [a remark in its corresponding changelog update](https://osu.ppy.sh/comments/121803) about the feedback.[^osu-coins-wiki][^osu-coins-yt-4][^osu-coins-forums][^osu-coins-changelog]
+The update was generally well-received by players and saw some actual support for a future implementation without the monetisation. Despite this, peppy rolled back the implementation of osu!coins the following day with [a remark in its corresponding changelog update](https://osu.ppy.sh/comments/121803) about the feedback.[^osu-coins-yt-4][^osu-coins-forums][^osu-coins-changelog]
 
 ---
 
@@ -173,7 +173,7 @@ As announced in a [tweet by peppy](https://twitter.com/ppy/status/84802152566384
 
 ### Rotating osu! cookie
 
-On 1 April 2018 the [osu! cookie](/wiki/Brand_identity_guidelines) on the main menu screen would slowly rotate clockwise as time passed, and the cookie in the song selection screen would slowly rotate anticlockwise. Hovering over these cookies would enlarge them just as usual, but would also cause them to rotate faster.[^osu-cookie-web-reddit][^osu-cookie-web-reddit-2][^osu-cookie-web-reddit-3][^osu-cookie-web-forums][^osu-cookie-web-forums-2][^osu-cookie-web-wiki]
+On 1 April 2018 the [osu! cookie](/wiki/Brand_identity_guidelines) on the main menu screen would slowly rotate clockwise as time passed, and the cookie in the song selection screen would slowly rotate anticlockwise. Hovering over these cookies would enlarge them just as usual, but would also cause them to rotate faster.[^osu-cookie-web-reddit][^osu-cookie-web-reddit-2][^osu-cookie-web-reddit-3][^osu-cookie-web-forums][^osu-cookie-web-forums-2]
 
 ---
 
@@ -223,12 +223,10 @@ April Fools' day 2021 recycled the same joke from the previous two years, which 
 [^touhousu-forums]: [Forum thread by rcmero (2010-04-01) "touhousu! - April Fools joke? [Resolved]"](https://osu.ppy.sh/community/forums/topics/27612)
 [^touhousu-forums-2]: [Forum thread by rulingvenus (2010-04-01) "Naked Marisa????"](https://osu.ppy.sh/community/forums/topics/27531)
 
-[^nightcore-wiki]: ["Nightcore (mod)" on osu! wiki](/wiki/Game_modifier/Nightcore)
 [^nightcore-yt]: [YouTube video by Nyaruko (2011-03-31) "When osu! tries to do April Fools"](https://www.youtube.com/watch?v=qD5ep6Fykao)
 [^nightcore-frontpage]: ["osu! — rhythm is just a click away" (2011-04-01) on Wayback Machine](https://web.archive.org/web/20110401175252/http://osu.ppy.sh/)
 
 [^fl-forums]: [Forum post by Melty Bagle (2012-03-31) in "[Archived] 'Flashlight mod' on the site...?"](https://osu.ppy.sh/community/forums/posts/1430529)
-[^fl-osudev-2021-01-28]: [Discord message by TicClick in #osu-wiki in osu!dev (2021-01-28)](https://discord.com/channels/188630481301012481/218677502141399041/804260860331687946)
 [^fl-ontheweb]: ["osu.ppy.sh — 'Flashlight' mode on beatmap search page" on April Fools' Day On The Web](http://aprilfoolsdayontheweb.com/joke/11484/?size=1)
 [^fl-forums-2]: [Forum thread by ----- (2012-03-31) "[Archived] 'flashlight mod' on the site...?"](https://osu.ppy.sh/community/forums/topics/79076)
 [^fl-forums-3]: [Forum post by peppy (2012-04-01) in "[Archived] 'flashlight mod' on the site...?"](https://osu.ppy.sh/community/forums/posts/1433063)
@@ -237,7 +235,6 @@ April Fools' day 2021 recycled the same joke from the previous two years, which 
 
 [^bad-apple-chart]: [Bad Apple Ranking Chart! (2012-04-04)](https://osu.ppy.sh/rankings/osu/charts?spotlight=50)
 [^bad-apple-news]: [News post by Cyclone (2012-04-01) "Bad Apple!! Ranking Chart"](https://osu.ppy.sh/community/forums/topics/79128)
-[^bad-apple-osudev-2021-01-29]: [Discord message by TicClick in #osu-wiki in osu!dev (2021-01-29)](https://discord.com/channels/188630481301012481/218677502141399041/804797922021081138)
 [^bad-aple-frontpage]: ["osu! — rhythm is just a click away" (2012-04-03) on Wayback Machine](https://web.archive.org/web/20120403135741/http://osu.ppy.sh/)
 
 [^banchobot-reddit]: [Reddit comment by u/Sakuya_Lv9 in r/osugame (2014-04-02) in "April 1st"](https://www.reddit.com/r/osugame/comments/2201so/comment/cgi4zav)
@@ -253,7 +250,6 @@ April Fools' day 2021 recycled the same joke from the previous two years, which 
 
 [^osu-coins-news]: [News post by peppy (2015-03-31) "osu!coins!"](https://osu.ppy.sh/home/news/2015-03-31-osucoins)
 [^osu-coins-ontheweb]: ["osu.ppy.sh — osu!coins! (fake business model, obviously a joke from blog & video)" on April Fools' Day On The Web](http://aprilfoolsdayontheweb.com/joke/20150013/?size=1)
-[^osu-coins-wiki]: ["osu!coin" on osu! wiki](/wiki/osu!coin)
 [^osu-coins-yt]: [YouTube video by synonia (2015-04-01) "Osu! Coin generator 14 coins in 30 seconds"](https://www.youtube.com/watch?v=Cmt646ujDFc)
 [^osu-coins-yt-2]: [YouTube video by osu! (2014-03-31) "Introduction to osu!coins (April Fools'2015)"](https://www.youtube.com/watch?v=BImc5McuK1o)
 [^osu-coins-yt-3]: [YouTube video by BananCho (2017-10-19) "Osu!Coins."](https://www.youtube.com/watch?v=0yWlUzG_tb8&t=39s)
@@ -290,7 +286,6 @@ April Fools' day 2021 recycled the same joke from the previous two years, which 
 [^osu-cookie-web-reddit-3]: [Reddit post by u/AdriaLOL in r/osugame (2018-04-01) "haha, nice april fools peppy XD"](https://www.reddit.com/r/osugame/comments/88qlwk/haha_nice_april_fools_peppy_xd/)
 [^osu-cookie-web-forums]: [Forum thread by Aochie (2018-04-02) "The osu! logo is moving?"](https://osu.ppy.sh/community/forums/topics/724377)
 [^osu-cookie-web-forums-2]: [Forum thread by Jreen (2018-04-01) "[resolved] Osu! Logo Sideways?"](https://osu.ppy.sh/community/forums/topics/724094)
-[^osu-cookie-web-wiki]: ["History of osu! 2018" on osu! wiki](/wiki/History_of_osu!/2018#april)
 
 [^sneeze-reddit]: [Reddit post by u/jivko500 in r/osugame (2019-04-01) "The April Fools joke in osu"](https://www.reddit.com/r/osugame/comments/b83pnl/the_april_fools_joke_in_osu/)
 [^sneeze-reddit-2]: [Reddit post by u/anoymaly2152 in r/osugame (2019-04-01) "Bless you, Pippi."](https://www.reddit.com/r/osugame/comments/b848ro/bless_you_pippi/)
