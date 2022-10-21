@@ -97,9 +97,9 @@ Please note that the recommended sizes for all elements in this set is handled v
 
 ### Spinner set
 
-osu! has two spinner styles - the old style, and the new style. Skins can only use one spinner style. Elements that are exclusive to a specific style **cannot** be mixed with elements of the other style.
+osu! has two spinner styles, only one of which can be used in a skin at the same time. Using exclusive elements from both of them is **not allowed**: if elements from both are present, the old style will take priority.
 
-This is because the old spinner style will take priority over the new one if both styles are present. The new spinner style will only work if the user-specific skin does not use the old spinner style and supports skin versions 2 or higher, or if the default skin is forced in the beatmap.
+The new spinner style will only work if the user-specific skin does not use the old one and supports skin versions 2 or higher, or if the default skin is forced in the beatmap.
 
 All elements in each set excluding spinner-osu.png and spinner-rpm.png are gameplay relevant. 
 
