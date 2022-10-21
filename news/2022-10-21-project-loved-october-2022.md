@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Project Loved: October 2022"
-date: 2022-10-21 20:00:00 +0000
+date: 2022-10-21 10:00:00 +0000
 ---
 
 Check out some spooky Loved picks and cast your votes on this month's selection!
