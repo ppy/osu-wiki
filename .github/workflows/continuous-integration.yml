@@ -11,77 +11,103 @@ on:
       - edited
 
 jobs:
-  ci:
-    name: changed files
+  check_file_sizes:
+    name: File sizes
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Clone repository
+        uses: actions/checkout@v3
         with:
           fetch-depth: 0
 
-      - name: detect changed files
-        run: |
-          INTERESTING_FILES=$(
-            sort -u < <(
-              # Changes that are not committed (staged + unstaged + untracked), but without deleted files
-              git status --short -v -v --no-renames --porcelain | awk '$1 != "D" { print $2 }'
-              # Changes committed so far (may overlap with the above)
-              git diff --no-renames --name-only --diff-filter=d ${{ github.sha }}^
-            )
-          )
-
-          # https://docs.github.com/en/actions/using-workflows/workflow-commands-for-github-actions#multiline-strings
-          # XXX: env.INTERESTING_FILES will be a single string with newline delimiters.
-          DELIMITER="X${RANDOM}"
-          echo "INTERESTING_FILES<<${DELIMITER}" >> $GITHUB_ENV
-          echo "${INTERESTING_FILES}" >> $GITHUB_ENV
-          echo "${DELIMITER}" >> $GITHUB_ENV
-
-      - name: inspect file sizes
+      - name: Inspect file sizes
         shell: bash
         run: |
-          readarray -t TARGET_FILES <<< "${{ env.INTERESTING_FILES }}"
-          bash scripts/ci/inspect_file_sizes.sh --target "${TARGET_FILES[@]}"
+          readarray -t changed_files <<< "$( git diff --no-renames --name-only --diff-filter=d ${{ github.sha }}^ )"
+          bash scripts/ci/inspect_file_sizes.sh --target "${changed_files[@]}"
 
-      - name: set up Node.js
+  check_markdown_style:
+    name: Markdown style
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Install Node.js
         id: setup-node
         uses: actions/setup-node@v3
         with:
           cache: npm
           node-version: 16
 
-      - name: load node_modules from cache
+      - name: Load node_modules from cache
         id: cache-node-modules
         uses: actions/cache@v3
         with:
           path: node_modules
           key: node-modules-${{ hashFiles('package.json', 'package-lock.json') }}-${{ steps.setup-node.outputs.node-version }}
 
-      - name: install remark
+      - name: Install Markdown linters
         if: steps.cache-node-modules.outputs.cache-hit != 'true'
         run: npm ci
 
-      - name: run remark on changed files
+      - name: Check Markdown style
         run: |
-          readarray -t REMARK_TARGET_FILES <<< $( echo "${{ env.INTERESTING_FILES }}" | grep -e .md$ || true )
-          bash scripts/ci/run_remark.sh --target "${REMARK_TARGET_FILES[@]}"
+          readarray -t markdown_files <<< $(
+            git diff --no-renames --name-only --diff-filter=d ${{ github.sha }}^ \
+              | grep -e .md$ || true
+          )
+          bash scripts/ci/run_remark.sh --target "${markdown_files[@]}"
 
-      - name: set up Python
+  check_yaml:
+    name: YAML and front matter
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Install Python
         uses: actions/setup-python@v4
         with:
           cache: pip
           cache-dependency-path: scripts/requirements.txt
           python-version: 3.x
 
-      - name: set up CI dependencies
+      - name: Install Python packages
         run: pip install -r scripts/requirements.txt
 
-      - name: run yamllint on .yaml and .md files
+      - name: Run yamllint on .yaml and .md files
         run: |
-          readarray -t YAMLLINT_TARGET_FILES <<< $( echo "${{ env.INTERESTING_FILES }}" | grep -e .yaml$ -e .yml$ -e .md$ || true )
-          python scripts/ci/run_yamllint.py --config .yamllint.yaml --target "${YAMLLINT_TARGET_FILES[@]}"
+          readarray -t files_with_yaml <<< $(
+            git diff --no-renames --name-only --diff-filter=d ${{ github.sha }}^ \
+              | grep -e .yaml$ -e .yml$ -e .md$ || true
+          )
+          python scripts/ci/run_yamllint.py --config .yamllint.yaml --target "${files_with_yaml[@]}"
 
-      - name: find broken wikilinks
+  check_links:
+    name: Links
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Install Python
+        uses: actions/setup-python@v4
+        with:
+          cache: pip
+          cache-dependency-path: scripts/requirements.txt
+          python-version: 3.x
+
+      - name: Install Python packages
+        run: pip install -r scripts/requirements.txt
+
+      - name: Find broken wikilinks
         shell: bash
         env:
           PULL_REQUEST_TAG: 'SKIP_WIKILINK_CHECK'
@@ -91,10 +117,32 @@ jobs:
             exit 0
           fi
 
-          readarray -t WIKILINK_TARGET_FILES <<< $( echo "${{ env.INTERESTING_FILES }}" | grep -e ^wiki/ -e ^news/ | grep .md$ || true )
-          osu-wiki-tools check-links --target "${WIKILINK_TARGET_FILES[@]}"
+          readarray -t articles <<< $(
+            git diff --no-renames --name-only --diff-filter=d ${{ github.sha }}^ \
+              | grep -e ^wiki/ -e ^news/ | grep .md$ || true
+          )
+          osu-wiki-tools check-links --target "${articles[@]}"
 
-      - name: check if translations are marked as outdated
+  check_outdated_markers:
+    name: Outdated articles
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Install Python
+        uses: actions/setup-python@v4
+        with:
+          cache: pip
+          cache-dependency-path: scripts/requirements.txt
+          python-version: 3.x
+
+      - name: Install Python packages
+        run: pip install -r scripts/requirements.txt
+
+      - name: Check if translations are marked as outdated
         shell: bash
         env:
           PULL_REQUEST_TAG: 'SKIP_OUTDATED_CHECK'
@@ -103,6 +151,7 @@ jobs:
             echo "::notice::Outdated articles check suppressed ($PULL_REQUEST_TAG tag found in the pull request)"
             exit 0
           fi
+
           # get the first commit of the branch associated with the PR; GitHub's ubuntu-latest has curl/jq: https://github.com/actions/virtual-environments
           FIRST_PR_COMMIT_HASH=$( curl -sS ${{ github.event.pull_request.commits_url }}?per_page=1 | jq -r '.[0].sha' || true )
           osu-wiki-tools check-outdated-articles --workflow --base-commit ${{ github.sha }} --outdated-since $FIRST_PR_COMMIT_HASH
