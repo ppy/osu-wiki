@@ -43,7 +43,7 @@ The osu! World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) and var
 | Manager | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) |
 | Mappool selector | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507), ::{ flag=US }:: [Fangzy](https://osu.ppy.sh/users/4497691), ::{ flag=BR }:: [niii_san](https://osu.ppy.sh/users/5403374), ::{ flag=US }:: [saiyo](https://osu.ppy.sh/users/2709574), ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059), ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) |
 | Mappool quality assurance | ::{ flag=DE }:: [Mordred](https://osu.ppy.sh/users/7265097), ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875), ::{ flag=TW }:: [Shiina Noriko](https://osu.ppy.sh/users/1285637) |
-| Mappool playtester | ::{ flag=US }:: [chezbananas](https://osu.ppy.sh/users/7941423), ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958), ::{ flag=US }:: [Gabey](https://osu.ppy.sh/users/12904237), ::{ flag=CA }:: [i need top 727](https://osu.ppy.sh/users/6701656), ::{ flag=CL }:: [Intercambing](https://osu.ppy.sh/users/2546001), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351), ::{ flag=SE }:: [Reedkatt](https://osu.ppy.sh/users/8335950), ::{ flag=MN }:: [seegii](https://osu.ppy.sh/users/4659319), ::{ flag=CA }:: [Stoof](https://osu.ppy.sh/users/4916057), ::{ flag=US }:: [theez](https://osu.ppy.sh/users/4230827), ::{ flag=US }:: [Trail Mix](https://osu.ppy.sh/users/3328742), ::{ flag=US }:: [\-Arko](https://osu.ppy.sh/users/8802914) |
+| Mappool playtester | ::{ flag=US }:: [\-Arko](https://osu.ppy.sh/users/8802914), ::{ flag=US }:: [chezbananas](https://osu.ppy.sh/users/7941423), ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958), ::{ flag=US }:: [Gabey](https://osu.ppy.sh/users/12904237), ::{ flag=CA }:: [i need top 727](https://osu.ppy.sh/users/6701656), ::{ flag=CL }:: [Intercambing](https://osu.ppy.sh/users/2546001), ::{ flag=US }:: [M I L E S](https://osu.ppy.sh/users/6036351), ::{ flag=US }:: [NinjaFish](https://osu.ppy.sh/users/4819811), ::{ flag=SE }:: [Reedkatt](https://osu.ppy.sh/users/8335950), ::{ flag=MN }:: [seegii](https://osu.ppy.sh/users/4659319), ::{ flag=CA }:: [Stoof](https://osu.ppy.sh/users/4916057), ::{ flag=US }:: [theez](https://osu.ppy.sh/users/4230827), ::{ flag=US }:: [Trail Mix](https://osu.ppy.sh/users/3328742) |
 | Referee | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=IN }:: [Speshimen](https://osu.ppy.sh/users/7720204), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=US }:: [\[K\]](https://osu.ppy.sh/users/16551387) |
 | Commentator | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=US }:: [D I O](https://osu.ppy.sh/users/3958619), ::{ flag=GB }:: [Damarsh](https://osu.ppy.sh/users/7465147), ::{ flag=US }:: [Dohland](https://osu.ppy.sh/users/5220511), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958), ::{ flag=AU }:: [Jordan The Bear](https://osu.ppy.sh/users/7477458), ::{ flag=AU }:: [Kano](https://osu.ppy.sh/users/3036203), ::{ flag=AU }:: [Mavs](https://osu.ppy.sh/users/11076938), ::{ flag=AU }:: [Monk The Don](https://osu.ppy.sh/users/4012086), ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189) |
 | Statistician | ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899) |
@@ -52,6 +52,7 @@ The osu! World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) and var
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1645682)
 - [Livestream](https://www.twitch.tv/osulive)
+- [Challonge bracket](https://challonge.com/OWC_22)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/100) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
 - [Information spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRYxmXVoTl0pXz3Xk3cDl3PqtH_9vNHGt0GzaJkJ6Ss2wCYSoWppYK-BK6Dr51bZXVdZOakHLpxqZbU/pubhtml)
 
@@ -113,7 +114,61 @@ The osu! World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) and var
 | ::{ flag=UY }:: | **Uruguay** | **[daanit](https://osu.ppy.sh/users/6159669)**, [El Milanga](https://osu.ppy.sh/users/12264918), [Rebo](https://osu.ppy.sh/users/6942259), [Kazuki K](https://osu.ppy.sh/users/6407282), [Athenai](https://osu.ppy.sh/users/5522789), [Shikke](https://osu.ppy.sh/users/5382216), [Melxdy](https://osu.ppy.sh/users/11113213), [etterna in osu](https://osu.ppy.sh/users/5243536) |
 | ::{ flag=VN }:: | **Vietnam** | **[realshin](https://osu.ppy.sh/users/8006029)**, [\[sin\]](https://osu.ppy.sh/users/11021073), [Phoeni\_](https://osu.ppy.sh/users/14953642), [mizumi\_a](https://osu.ppy.sh/users/14977562), [walle](https://osu.ppy.sh/users/8431549), [waifaii](https://osu.ppy.sh/users/9256803), [\_ Freedom \_](https://osu.ppy.sh/users/3999831), [SkyArrow](https://osu.ppy.sh/users/4039647) |
 
+## Match schedule: Round of 32
+
+### Saturday, 22 October 2022
+
+| Team A | Team B | Match time |
+| --: | :-- | :-- |
+| France ::{ flag=FR }:: | ::{ flag=NZ }:: New Zealand | [Oct 22 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221022T100000&p1=1440&p2=195&p3=264) |
+| Indonesia ::{ flag=ID }:: | ::{ flag=FI }:: Finland | [Oct 22 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221022T130000&p1=1440&p2=108&p3=101) |
+| Japan ::{ flag=JP }:: | ::{ flag=SG }:: Singapore | [Oct 22 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221022T140000&p1=1440&p2=248&p3=236) |
+| United States ::{ flag=US }:: | ::{ flag=IL }:: Israel | [Oct 22 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221022T170000&p1=1440&p2=263&p3=110) |
+| Canada ::{ flag=CA }:: | ::{ flag=CL }:: Chile | [Oct 22 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221022T180000&p1=1440&p2=188&p3=232) |
+
+### Sunday, 23 October 2022
+
+| Team A | Team B | Match time |
+| --: | :-- | :-- |
+| Australia ::{ flag=AU }:: | ::{ flag=TH }:: Thailand | [Oct 23 (Sun) 07:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221023T070000&p1=1440&p2=57&p3=28) |
+| South Korea ::{ flag=KR }:: | ::{ flag=ES }:: Spain | [Oct 23 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221023T100000&p1=1440&p2=235&p3=141) |
+| Hong Kong ::{ flag=HK }:: | ::{ flag=DK }:: Denmark | [Oct 23 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221023T120000&p1=1440&p2=102&p3=69) |
+| Philippines ::{ flag=PH }:: | ::{ flag=TW }:: Taiwan | [Oct 23 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221023T130000&p1=1440&p2=145&p3=241) |
+| China ::{ flag=CN }:: | ::{ flag=UA }:: Ukraine | [Oct 23 (Sun) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221023T143000&p1=1440&p2=33&p3=367) |
+| Germany ::{ flag=DE }:: | ::{ flag=CZ }:: Czech Republic | [Oct 23 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221023T160000&p1=1440&p2=37&p3=204) |
+| Russian Federation ::{ flag=RU }:: | ::{ flag=SE }:: Sweden | [Oct 23 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221023T170000&p1=1440&p2=166&p3=239) |
+| Poland ::{ flag=PL }:: | ::{ flag=TR }:: Turkey | [Oct 23 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221023T180000&p1=1440&p2=262&p3=19) |
+| Romania ::{ flag=RO }:: | ::{ flag=MX }:: Mexico | [Oct 23 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221023T180000&p1=1440&p2=49&p3=155) |
+| Norway ::{ flag=NO }:: | ::{ flag=GB }:: United Kingdom | [Oct 23 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221023T190000&p1=1440&p2=187&p3=136) |
+| Brazil ::{ flag=BR }:: | ::{ flag=IT }:: Italy | [Oct 23 (Sun) 19:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221023T193000&p1=1440&p2=45&p3=215) |
+
 ## Mappools
+
+### Round of 32
+
+**[Download the mappack here (106 MB)](https://drive.google.com/uc?id=1R8Xe3w4y1uqmzQGzCXOG9QKX68Y3E5Fe)**
+
+- No Mod
+  1. [Oohashi Takuya (from Sukima Switch) - Katamari on the Wings (melon boy) \[OK MR. SUNSHINE\]](https://osu.ppy.sh/beatmapsets/1867650#osu/3841928)
+  2. [UNDEAD CORPORATION - Evil But Innocent (Azer) \[Loudness War\]](https://osu.ppy.sh/beatmapsets/1867631#osu/3841861)
+  3. [Hatsuki Yura - Senritsu to Kanaria (KKipalt) \[Extra\]](https://osu.ppy.sh/beatmapsets/1867674#osu/3841982)
+  4. [VeetaCrush - Mole (JeZag) \[Blossom\]](https://osu.ppy.sh/beatmapsets/1574603#osu/3215025)
+- Hidden
+  1. [Uso to Chameleon - Paradigm 4210 (flake) \[floph's Extreme\]](https://osu.ppy.sh/beatmapsets/1867486#osu/3841547)
+  2. [Sakamoto Shoichiro - Eye of Aeon (niii\_san) \[Expert\]](https://osu.ppy.sh/beatmapsets/1543327#osu/3154664)
+- Hard Rock
+  1. [Ester - Dizzolve (elicz1) \[Dunno\]](https://osu.ppy.sh/beatmapsets/1867657#osu/3841944)
+  2. [Amatsuki - Outer Science (Aistre) \[shh\]](https://osu.ppy.sh/beatmapsets/1867682#osu/3841990)
+- Double Time
+  1. [KINEMA106 - Fly Away (Asagi) \[UWS's Insane\]](https://osu.ppy.sh/beatmapsets/397917#osu/865364)
+  2. [Kagamine Ren - Kumo no Iseki (v2b) \[ignore's Insane\]](https://osu.ppy.sh/beatmapsets/8069#osu/34056)
+  3. [senya - Yureru Koi wa Nami no Gotoku (Autobahn Remix) (-Mo-) \[Insane: Speed\]](https://osu.ppy.sh/beatmapsets/1867693#osu/3842022)
+- FreeMod
+  1. [Roreru - Iyana Wotsukai (alden) \[im in ur walls\]](https://osu.ppy.sh/beatmapsets/1867540#osu/3841641)
+  2. [Fexomat & SumOne - Golden Days Remix (fergas) \[Sheesh\]](https://osu.ppy.sh/beatmapsets/1867675#osu/3841983)
+  3. [Cranky - Into the Unknown (Alvearia) \[Extra\]](https://osu.ppy.sh/beatmapsets/1867491#osu/3841553)
+- Tiebreaker
+  1. **[Harunaba feat. mami - Kanashibari no Ai o (iljaaz) \[Collab Dementia\]](https://osu.ppy.sh/beatmapsets/1867701#osu/3842032)**
 
 ### Qualifiers
 
@@ -134,6 +189,68 @@ The osu! World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) and var
   1. [Minagu feat. Sennzai - Iris no Tayori (Cellina) \[Fleurix\]](https://osu.ppy.sh/beatmapsets/1863178#osu/3831292)
   2. [MuryokuP - Frozen World (Kowari) \[Insane\]](https://osu.ppy.sh/beatmapsets/1863134#osu/3831205)
   3. [Rameses B - Mountains (feat. Veela) (Strategas) \[Is it worth it?\]](https://osu.ppy.sh/beatmapsets/1863179#osu/3831294)
+
+## Match results
+
+### Qualifiers
+
+The final standings for the Qualifier stage can be found at the following [spreadsheet](https://docs.google.com/spreadsheets/d/1N-3D-3eNOLgUDsTaUghN6_dozHyaa54mHPsaJYmWjfg). Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1zCrRMjIVXPW-ITFzgOBm346vIFbrbC7VmO-SjAu-oLA).
+
+| Seed | Country | %MAX |
+| :-: | :-- | :-- |
+| #1 | ::{ flag=US }:: United States | 10.643 |
+| #2 | ::{ flag=PL }:: Poland | 10.2 |
+| #3 | ::{ flag=DE }:: Germany | 10.013 |
+| #4 | ::{ flag=CA }:: Canada | 9.55 |
+| #5 | ::{ flag=KR }:: South Korea | 9.405 |
+| #6 | ::{ flag=AU }:: Australia | 9.04 |
+| #7 | ::{ flag=RU }:: Russian Federation | 8.883 |
+| #8 | ::{ flag=FR }:: France | 8.788 |
+| #9 | ::{ flag=HK }:: Hong Kong | 8.635 |
+| #10 | ::{ flag=ID }:: Indonesia | 8.615 |
+| #11 | ::{ flag=RO }:: Romania | 8.539 |
+| #12 | ::{ flag=CN }:: China | 8.274 |
+| #13 | ::{ flag=NO }:: Norway | 8.214 |
+| #14 | ::{ flag=PH }:: Philippines | 8.187 |
+| #15 | ::{ flag=BR }:: Brazil | 8.147 |
+| #16 | ::{ flag=JP }:: Japan | 8.069 |
+| #17 | ::{ flag=SG }:: Singapore | 7.977 |
+| #18 | ::{ flag=IT }:: Italy | 7.971 |
+| #19 | ::{ flag=TW }:: Taiwan | 7.925 |
+| #20 | ::{ flag=GB }:: United Kingdom | 7.71 |
+| #21 | ::{ flag=UA }:: Ukraine | 7.61 |
+| #22 | ::{ flag=MX }:: Mexico | 7.499 |
+| #23 | ::{ flag=FI }:: Finland | 7.451 |
+| #24 | ::{ flag=DK }:: Denmark | 7.329 |
+| #25 | ::{ flag=NZ }:: New Zealand | 7.292 |
+| #26 | ::{ flag=SE }:: Sweden | 7.164 |
+| #27 | ::{ flag=TH }:: Thailand | 6.849 |
+| #28 | ::{ flag=ES }:: Spain | 6.821 |
+| #29 | ::{ flag=CL }:: Chile | 6.812 |
+| #30 | ::{ flag=CZ }:: Czech Republic | 6.777 |
+| #31 | ::{ flag=TR }:: Turkey | 6.65 |
+| #32 | ::{ flag=IL }:: Israel | 6.553 |
+| #33 | ::{ flag=NL }:: Netherlands | 6.507 |
+| #34 | ::{ flag=BE }:: Belgium | 6.507 |
+| #35 | ::{ flag=MY }:: Malaysia | 6.467 |
+| #36 | ::{ flag=EE }:: Estonia | 6.339 |
+| #37 | ::{ flag=PE }:: Peru | 6.267 |
+| #38 | ::{ flag=AR }:: Argentina | 6.22 |
+| #39 | ::{ flag=UY }:: Uruguay | 5.827 |
+| #40 | ::{ flag=VN }:: Vietnam | 5.726 |
+| #41 | ::{ flag=LT }:: Lithuania | 5.677 |
+| #42 | ::{ flag=BG }:: Bulgaria | 5.569 |
+| #43 | ::{ flag=KZ }:: Kazakhstan | 5.563 |
+| #44 | ::{ flag=HU }:: Hungary | 5.427 |
+| #45 | ::{ flag=LV }:: Latvia | 5.415 |
+| #46 | ::{ flag=PT }:: Portugal | 5.409 |
+| #47 | ::{ flag=BY }:: Belarus | 5.123 |
+| #48 | ::{ flag=GR }:: Greece | 4.515 |
+| #49 | ::{ flag=AT }:: Austria | 4.38 |
+| #50 | ::{ flag=CO }:: Colombia | 4.015 |
+| #51 | ::{ flag=SK }:: Slovakia | 3.911 |
+| #52 | ::{ flag=HR }:: Croatia | 3.841 |
+| #53 | ::{ flag=CH }:: Switzerland | 3.385 |
 
 ## Ruleset
 
