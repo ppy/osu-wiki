@@ -9,7 +9,7 @@ tags:
 
 ![RGTS 2022 logo](img/logo.jpg)
 
-The **Rising Global Taiko Showdown 2022** (***RGTS 2022***) is a worldwide double-elimination 2v2 osu!taiko tournament hosted by ::{ flag=FR }:: [\_yosh](https://osu.ppy.sh/users/7157133), ::{ flag=DE }:: [Sayira](https://osu.ppy.sh/users/7253958), and ::{ flag=NL }:: [TaikoMom](https://osu.ppy.sh/users/9086438). Only players ranked between #1,500 and #4,500 could participate. It is the second instalment of the Rising Global Taiko Showdown and part of the Global Taiko Showdown series.
+The **Rising Global Taiko Showdown 2022** (***RGTS 2022***) is a worldwide double-elimination 2v2 osu!taiko tournament hosted by ::{ flag=FR }:: [\_yosh](https://osu.ppy.sh/users/7157133), ::{ flag=DE }:: [Sayira](https://osu.ppy.sh/users/7253958), and ::{ flag=NL }:: [TaikoMom](https://osu.ppy.sh/users/9086438). Only players ranked between #1,500 and #4,500 may participate. It is the second instalment of the Rising Global Taiko Showdown and part of the Global Taiko Showdown series.
 
 ## Tournament schedule
 
@@ -71,9 +71,8 @@ The Rising Global Taiko Showdown 2022 is run by various community members.
 3. The scoring system used will be **Score V2**.
 4. Any player who meets the requirements stated in the [restrictions and registrations](#restrictions-and-registrations) section is allowed to sign up. Note that some players may be declined participation as part of tournament screening.
 5. Any members of staff **apart from organisers, mappool selectors, and referees** are allowed to play.
-6. Players and staff members must have read this ruleset entirely.
-7. All participants must stay respectful and keep a proper attitude. Not following this rule can result in a ban/blacklist from the tournament. This rule concerns all staff members as well.
-8. Any rule changes or unexpected occurrences will be announced in the Discord server.
+6. All participants must stay respectful and keep a proper attitude. Not following this rule can result in a ban/blacklist from the tournament. This rule concerns all staff members as well.
+7. Any rule changes or unexpected occurrences will be announced in the Discord server.
 
 ### Restrictions and registrations
 
@@ -81,8 +80,8 @@ The Rising Global Taiko Showdown 2022 is run by various community members.
 2. Players are not allowed to rank up further than #1,500 during the tournament. Passing this limit will result in disqualification.
 3. Players must join the Discord server of the tournament to actually be counted as a player.
 4. Players sign up individually. When their registration is accepted, they will get a player role with their respective country.
-5. osu! staff can refuse players from participating in the tournament if their skill is deemed much higher than the targeted rank range.
-6. 2 teams for a country may be allowed under certain conditions:
+5. Tournament staff can refuse players from participating in the tournament if their skill is deemed much higher than the targeted rank range.
+6. Two teams for a country may be allowed under certain conditions:
    - There are **7 or more players** signed up for a country.
    - Each team has to have **at least 3 players**.
 7. Teams are otherwise assembled in the following way:
@@ -90,7 +89,7 @@ The Rising Global Taiko Showdown 2022 is run by various community members.
    - In case there are more than 10 players signed up for a country, players will decide among themselves who will partake in the tournament. If they cannot decide, the top 10 players by ranking will be chosen to form the 2 teams.
    - If there are 6 players, players will have to decide on the 5 players who will partake in the tournament. If they cannot decide, the top 5 players by ranking will be chosen to form the team.
    - If there are 7 to 10 players (after keeping the best ranked ones) signed up for a country, the players from that country will have a few days to decide how to split themselves between the 2 teams. It is recommended to come to an agreement as fast as possible and decide on a captain to aid in scheduling.
-   - In case the players cannot come to an agreement, they will put in 2 teams with at least 3 members in each in order of global ranking.
+   - In case the players cannot come to an agreement, they will be put in 2 teams with at least 3 members in each in order of global ranking.
    - If the players cannot agree or find a captain, the highest ranked player will be chosen.
 8. The captain has the responsibility to reschedule a match if needed and will ensure their teammates are present for the matches.
 
@@ -100,7 +99,7 @@ The Rising Global Taiko Showdown 2022 is run by various community members.
 2. Teams will be seeded with the average of their ranks on each map during the Qualifiers round in 4 seeds: Top seed, High seed, Low seed, and Unseeded.
 3. Teams will be drawn in **8 groups of 4 teams** during live drawings which will happen on Sunday, 6 November 2022 (18:00 UTC).
 4. In the Group stage, all the teams from each group will face each other. The **best 2 teams** advance from their groups.
-5. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
+5. Rankings of each group are determined by sorting the results of each team's performance in the following order:
    1. Most matches won.
    2. Highest "score" (number of beatmaps won - number of maps lost).
    3. Most beatmaps won.
@@ -143,16 +142,16 @@ The Rising Global Taiko Showdown 2022 is run by various community members.
 1. Every stage will be held **during the weekend**. It is, however, allowed to schedule it on another day, if no good time is found during the weekend and a referee is available.
 2. Matches are allowed to overlap if referees are available.
 3. A best effort will be made to fit schedules with applicable timezones. The schedule for each stage will be released the weekend prior to it.
-4. Reschedules will only be considered if both teams agree to a time. This needs to be done and notified to the tournament staff before **Thursday at 23:59 UTC** in the particular week when the match takes place.
+4. Reschedules will only be considered if both teams agree to a time. This needs to be done and communicated to the tournament staff before **Thursday at 23:59 UTC** in the particular week when the match takes place.
 5. Reschedules may only be requested **by the team captain**.
 
 ### Match regulations
 
 1. A private lobby will be created 10 minutes before a referee starts the match. Both teams' captains will be invited into the room before match time, and the referee or the captains will invite the other players into the room.
 2. If no staff or referee is available, the match will be postponed.
-3. If less than the minimum required players attend, the maximum time the match can be postponed is **10 minutes**.
+3. If less than the minimum required players attend, the maximum time the match can be postponed for is **10 minutes**.
 4. There is no penalty for not joining the room instantly at match time as long as it is within the postponed time.
-5. If neither of both teams have the minimum required players after 10 minutes, it will count as a loss for both teams in Group stage. In the double-elimination bracket, the highest seeded team will advance.
+5. If neither team has the minimum required players after 10 minutes, it will count as a loss for both teams in Group stage. In the double-elimination bracket, the highest seeded team will advance.
 6. The match will be played with Team VS and Score v2, and the name of the room must be: `RGTS 2022: ({Team Red}) vs ({Team Blue})`.
 7. Each player is allowed one warmup map, but it must be **below 3 minutes in length**, and must be sent to the [GTS website](https://gtsosu.com/egts/home) up to one hour prior to the match's start time. Otherwise, the team will have no warmup.
 8. Submitting a warmup less than one hour prior to the match will result in no warmup.
@@ -165,7 +164,7 @@ The Rising Global Taiko Showdown 2022 is run by various community members.
 15. Captains may pick freely from any bracket.
 16. Teams will have 2 minutes to pick a beatmap and 2 minutes to get ready. If a team does not pick before the end of the timer, the map will be picked with a `!roll`.
 17. Exchanging players during a match is allowed without limitations.
-18. If a player disconnects between beatmaps and the team cannot provide a substitute, the match can be delayed 10 minutes at most. This delay can only be applied once.
+18. If a player disconnects between beatmaps and the team cannot provide a substitute, the match can be delayed by 10 minutes at most. This delay can only be applied once.
 19. Disconnections are treated as failing the map.
 20. A beatmap can be replayed upon a disconnection that happened within 30 seconds of starting. This is only allowed once per team.
 21. Failed players' scores do get added to the team score.
