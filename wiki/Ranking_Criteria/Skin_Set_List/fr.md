@@ -1,3 +1,8 @@
+---
+outdated_since: 4a16073192a55b2cbf33beb9e60dd00c98589b23
+outdated_translation: true
+---
+
 # Liste des skin sets pour les critères de classement
 
 Ce qui suit contient la liste des sets de skins qui peuvent être utilisés dans les skins spécifiques aux utilisateurs et aux beatmaps. Quand vous skinnez un élément de gameplay dans un skin spécifique à une beatmap, les sets d'éléments doivent être skinnés afin d'éviter les conflits entre le skin spécifique à l'utilisateur et le skin spécifique à la beatmap.
