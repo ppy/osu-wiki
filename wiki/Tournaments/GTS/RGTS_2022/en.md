@@ -76,7 +76,7 @@ The Rising Global Taiko Showdown 2022 is run by various community members.
 
 ### Restrictions and registrations
 
-1. In order to participate, players need to be in the rank range of #1,500 - #4,500.
+1. In order to participate, players need to be in the rank range of #1,500 – #4,500.
 2. Players are not allowed to rank up further than #1,500 during the tournament. Passing this limit will result in disqualification.
 3. Players must join the Discord server of the tournament to actually be counted as a player.
 4. Players sign up individually. When their registration is accepted, they will get a player role with their respective country.
@@ -153,14 +153,14 @@ The Rising Global Taiko Showdown 2022 is run by various community members.
 4. There is no penalty for not joining the room instantly at match time as long as it is within the postponed time.
 5. If neither team has the minimum required players after 10 minutes, it will count as a loss for both teams in Group stage. In the double-elimination bracket, the highest seeded team will advance.
 6. The match will be played with Team VS and Score v2, and the name of the room must be: `RGTS 2022: ({Team Red}) vs ({Team Blue})`.
-7. Each player is allowed one warmup map, but it must be **below 3 minutes in length**, and must be sent to the [GTS website](https://gtsosu.com/egts/home) up to one hour prior to the match's start time. Otherwise, the team will have no warmup.
+7. Each player is allowed one warmup map, but it must be **below 3 minutes in length**, and must be sent to the [GTS website](https://gtsosu.com/egts/home) up to one hour prior to the match's start time.
 8. Submitting a warmup less than one hour prior to the match will result in no warmup.
 9. Warmups may not be offensive or NSFW (not safe for work).
 10. Each captain has to ban **one beatmap** from the pool (apart from tiebreaker). These beatmaps are not allowed to be picked by any team in the entire match.
 11. The captain of each team will roll with the `!roll` command in the chat.
 12. The team with the highest roll **bans second and picks first**. The team with the lowest roll **bans first and picks second**.
 13. Each captain has 2 minutes to announce their ban. If they do not tell the referee by that time, the ban will be made with a `!roll`.
-14. Beatmap selection will then alternate between each captain selecting a beatmap out of the map pool.
+14. Beatmap selection will then alternate between each captain selecting a beatmap out of the mappool.
 15. Captains may pick freely from any bracket.
 16. Teams will have 2 minutes to pick a beatmap and 2 minutes to get ready. If a team does not pick before the end of the timer, the map will be picked with a `!roll`.
 17. Exchanging players during a match is allowed without limitations.
@@ -177,8 +177,8 @@ The Rising Global Taiko Showdown 2022 is run by various community members.
 2. 12 players will participate in this event. They will be decided by a vote.
 3. If there are more than 2 players from a country in the top 12 most voted players, only the 2 best will partake in All Stars.
 4. The top 2 players will be captains of each team. Their teammates will be decided by the ranking of the next 6 players. The topmost voted player will play with players with an odd number and the second most voted player with players with an even number.
-5. The mappool is the same as the one in Grand Finals.
-6. The event will be a 4 vs 4 match with the following rules:
+5. The mappool is the same as the one in the Grand Finals.
+6. The event will be a 4 vs. 4 match with the following rules:
    - Best-of-15 format (First to 8 points).
    - All the maps are played under FreeMod rules, meaning players are free to pick any of the following mods or a combination of them: NoMod, Hidden, HardRock.
    - No bans.
