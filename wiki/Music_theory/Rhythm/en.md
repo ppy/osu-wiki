@@ -8,4 +8,4 @@ stub: true
 
 ## References
 
-[^rhythm-ref]: ["Understanding Rhythm in Music: 7 Elements of Rhythm" on masterclass](https://www.masterclass.com/articles/understanding-rhythm-in-music)
+[^rhythm-ref]: ["Understanding Rhythm in Music: 7 Elements of Rhythm" on MasterClass](https://www.masterclass.com/articles/understanding-rhythm-in-music)

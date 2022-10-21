@@ -129,7 +129,7 @@ On 31 March 2015, [peppy](https://osu.ppy.sh/users/2) released [a newspost](http
 
 *Note: Under [Coordinated Universal Time (UTC)](https://en.wikipedia.org/wiki/Coordinated_Universal_Time), the post was posted on 31 March 2015. However, at the time of the publication, peppy was currently living in Australia, where the current date was 1 April 2015.*
 
-In short, in order to play or restart a [beatmap](/wiki/Beatmap), users must have spent one osu!coin, and once they ran out of osu!coins, they would either have to stop playing and wait until the next day, or pay real money to get more osu!coins. In spite of this description, however, actual gameplay was not affected, and users could just continue playing as normal, even if all their osu!coins were depleted.[^osu-coins-news][^osu-coins-wiki][^osu-coins-yt][^osu-coins-yt-2]
+In short, in order to play or restart a [beatmap](/wiki/Beatmap), users must have spent one [osu!coin](/wiki/History_of_osu!/April_Fools/osu!coin), and once they ran out of osu!coins, they would either have to stop playing and wait until the next day, or pay real money to get more osu!coins. In spite of this description, however, actual gameplay was not affected, and users could just continue playing as normal, even if all their osu!coins were depleted.[^osu-coins-news][^osu-coins-yt][^osu-coins-yt-2]
 
 The main screen of osu! also had a barrage of slowly rising osu!coins in the background, along with a slightly changed main theme, in which the exclamation "circles!" was replaced with a robotic-sounding "and buy the coins" before the beat drop. Additional new textures, sound effects, animations, and music were created for this prank, including a counter that would display the amount of coins players had throughout their plays.[^osu-coins-yt-2][^osu-coins-yt-3] <!--needs further verification-->
 
@@ -285,7 +285,7 @@ April Fools' day 2021 recycled the same joke from the previous two years, which 
 [^osu-cookie-forums-2]: [Forum thread by Rilene (2016-03-31) "osu logo"](https://osu.ppy.sh/community/forums/topics/437755)
 [^osu-cookie-forums-3]: [Forum post by Trosk- (2016-03-31) in "[resolved] [confirmed] Regarding osu!supporter/Auto mod"](https://osu.ppy.sh/community/forums/posts/5006190)
 
-[^osu-cookie-web-reddit]: [Reddit post by u/[deleted] in r/osugame (2018-03-31) "New April Fools Update now has a rotating osu! Logo"](https://www.reddit.com/r/osugame/comments/88kq23/new_april_fools_update_now_has_a_rotating_osu_logo/?st=JFGBCI5G&sh=49cf8677)
+[^osu-cookie-web-reddit]: [Reddit post by u/[deleted] in r/osugame (2018-03-31) "New April Fools Update now has a rotating osu! Logo"](https://www.reddit.com/r/osugame/comments/88kq23/new_april_fools_update_now_has_a_rotating_osu_logo/)
 [^osu-cookie-web-reddit-2]: [Reddit post by u/hi_im_marc in r/osugame (2018-03-31) "April Fools Patch Is Out Get Ready To Get BAMBOOZLED!!!1"](https://www.reddit.com/r/osugame/comments/88kbit/april_fools_patch_is_out_get_ready_to_get/)
 [^osu-cookie-web-reddit-3]: [Reddit post by u/AdriaLOL in r/osugame (2018-04-01) "haha, nice april fools peppy XD"](https://www.reddit.com/r/osugame/comments/88qlwk/haha_nice_april_fools_peppy_xd/)
 [^osu-cookie-web-forums]: [Forum thread by Aochie (2018-04-02) "The osu! logo is moving?"](https://osu.ppy.sh/community/forums/topics/724377)
