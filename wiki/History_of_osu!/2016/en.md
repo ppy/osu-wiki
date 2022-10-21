@@ -151,7 +151,7 @@ Despite the first additions, users were reminded that the new ranking status was
 [^jan-28-changelog]: [Cutting Edge 20160128 changelog](https://osu.ppy.sh/home/changelog/cuttingedge/20160128)
 [^mapset-restructure-proposal]: [Forum thread by ztrot (2016-02-13) "Mapset and Spread Restructure (Proposed)"](https://osu.ppy.sh/community/forums/topics/420223)
 [^meet-ephemeral]: [Blog post by ppy (2016-02-17) "Meet Ephemeral!"](https://blog.ppy.sh/post/139478794378/meet-ephemeral)
-[^mv2-timeline-doc]: ["Timeline of Events Surrounding Recent Changes" on Google Docs](https://docs.google.com/document/d/1VlFUIte8ho4tssRCucSBt96nTVAhsCLfJZcFVgzHjuk/edit)
+[^mv2-timeline-doc]: [Google Doc by Ephemeral (2016-02-17) "Timeline of Events Surrounding Recent Changes"](https://docs.google.com/document/d/1VlFUIte8ho4tssRCucSBt96nTVAhsCLfJZcFVgzHjuk/edit)
 [^osu-weekly-48]: [News post by Nyquill (2016-02-16) "osu!weekly #48"](https://osu.ppy.sh/home/news/2016-02-16-osuweekly-48)
 [^osu-go-post]: [Forum thread by DW10 (2016-02-26) "osu!go not worth it?"](https://osu.ppy.sh/community/forums/topics/425108)
 [^meeting-notes-2016-feb]: [Blog post by ppy (2016-03-01) "2016-02 meeting notes"](https://blog.ppy.sh/post/140259300353/2016-02-meeting-notes)
