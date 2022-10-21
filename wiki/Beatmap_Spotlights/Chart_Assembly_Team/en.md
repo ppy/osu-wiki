@@ -7,13 +7,13 @@ tags:
 
 # Chart Assembly Team
 
-*For a modern version of the team, see: [Beatmap Spotlights § Curators](/wiki/Beatmap_Spotlights)*
+*For the modern version of the team, see: [Beatmap Spotlights § Curators](/wiki/Beatmap_Spotlights)*
 
-**Chart Assembly Team** (often referred to as **CAT**) was a dedicated group of users formed in August 2011[^cat-birth] and responsible for compiling monthly and themed beatmap ranking charts. Having being initially composed from the members of the [Beatmap Appreciation Team](/wiki/Modding/Beatmap_Appreciation_Team) and the [Mapping Assistance Team](/wiki/Modding/Mapping_Assistance_Team), it was expanded to a curated set of renowned players and mappers in order to increase diversity.
+The **Chart Assembly Team** (often referred to as ***CAT***) was a dedicated group of users formed in August 2011[^cat-birth] and responsible for compiling monthly and themed beatmaps for the Ranking Charts (later renamed to [Beatmap Spotlights](/wiki/Beatmap_Spotlights)). Having being initially composed from the members of the [Beatmap Appreciation Team](/wiki/Modding/Beatmap_Appreciation_Team) and the [Mapping Assistance Team](/wiki/Modding/Mapping_Assistance_Team), it was expanded to a curated set of renowned players and mappers in order to increase diversity.
 
-Over the time, there have been several attempts to revitalise the team and increase quality of ranking charts, including two application rounds in 2013[^cat-recruitment-2013] and 2014[^cat-recruitment-2014] and extensive discussions[^cat-hiatus] [^cat-crisis] about possible changes to the team format and responsibilities.
+Over time, there have been several attempts to revitalise the team and increase quality of the Ranking Charts, including two application rounds in 2013[^cat-recruitment-2013] and 2014[^cat-recruitment-2014] and extensive discussions[^cat-hiatus][^cat-crisis] about possible changes to the team format and responsibilities.
 
-On March 18, 2015, the CAT was dissolved[^cat-death] due to the complete overhaul of ranking charts, which included community-sourced selection of maps.
+On March 18, 2015, the CAT was dissolved[^cat-death] due to the complete overhaul of the Ranking Charts, which included community-sourced selection of maps.
 
 ## References
 
