@@ -14,7 +14,7 @@ Toutes les osu! originals sous licence officielle peuvent être utilisées sur o
 | [nekodex - aureole](https://soundcloud.com/nekodex/aureole)[^fa-catalogue] | Thème d'osu! lors de l'hiver/Noël 2017 |
 | [nekodex - circles!](https://soundcloud.com/nekodex/circles)[^fa-catalogue] | Thème d'osu! en 2015 |
 | [nekodex - carol of the circles](https://soundcloud.com/nekodex/carol-of-the-circles)[^fa-catalogue] | Thème d'osu! lors de l'hiver/Noël 2019 |
-| [nekodex - Little Drummer Girl](https://soundcloud.com/nekodex/carol-of-the-circles)[^fa-catalogue] | Thème d'osu! lors de l'hiver/Noël 2020 |
+| [nekodex - Little Drummer Girl](https://soundcloud.com/nekodex/little-drummer-girl)[^fa-catalogue] | Thème d'osu! lors de l'hiver/Noël 2020 |
 | [nekodex - Liquid Future](https://soundcloud.com/nekodex/liquid-future)[^fa-catalogue] | Composition originale pour [osu!stream](/wiki/osu!stream) |
 | [nekodex - new beginnings](https://osu.ppy.sh/beatmapsets/1011011) | Musique du tutoriel actuel |
 | [nekodex - osu!stream theme](https://soundcloud.com/nekodex/osu-stream-theme) | Thème principal d'[osu!stream](/wiki/osu!stream) |
