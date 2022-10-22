@@ -50,7 +50,7 @@ The slider head only needs to be hit within the Meh hit window for a successful 
 
 There are some additional quirks with how sliders influence [combo](/wiki/Gameplay/Combo_(score_multiplier)):
 
-- Tapping the slider head too early (before the Meh hit window), missing a slider tick, or missing a repeat does not incur a Miss, but will cause a [combo break](/wiki/Gameplay/Judgement/Comobobreak). The other slider parts can still be hit if a key is held down. This is colloquially referred to as a [slider break](/wiki/Gameplay/Judgement/Slider_break).
+- Tapping the slider head too early (before the Meh hit window), missing a slider tick, or missing a repeat does not incur a Miss, but will cause a [combo break](/wiki/Gameplay/Judgement/Combobreak). The other slider parts can still be hit if a key is held down. This is colloquially referred to as a [slider break](/wiki/Gameplay/Judgement/Slider_break).
 - Missing the slider end does not incur a Miss, but will not increment combo.
 
 ### Spinners
