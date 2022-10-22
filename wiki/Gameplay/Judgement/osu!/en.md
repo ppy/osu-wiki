@@ -22,7 +22,7 @@ The hit error and hit window are rounded to the nearest integer, meaning the win
 The last hit object in a [combo set](/wiki/Beatmapping/Combo) may give a variant of the regular judgements depending on which ones were achieved in the combo. They give a bit more [health](/wiki/Gameplay/Health) than the regular ones.
 
 | Image | Name | Variant of | Requirement |
-| :-: | :-: | :-- |
+| :-: | :-: | :-: | :-- |
 | ![](/wiki/shared/judgement/osu!/hit300g.png) | Geki (激) | Great | A Great on all hit objects in a combo |
 | ![](/wiki/shared/judgement/osu!/hit300k.png) | Katu or Katsu (喝) | Great | At least an Ok on all hit objects in a combo and a Great for the last one |
 | ![](/wiki/shared/judgement/osu!/hit100k.png) | Katu or Katsu (喝) | Meh | At least an Ok on all hit objects in a combo |
@@ -69,6 +69,7 @@ The required spins depends on the duration of the spinner and the overall diffic
 <!-- TODO: needs verification -->
 
 | OD | Spins per second |
+| :-: | :-- |
 | < 5 | `5 - 2 * (5 - OD) / 5` |
 | = 5 | `5` |
 | > 5 | `5 + 2.5 * (OD - 5) / 5` |
