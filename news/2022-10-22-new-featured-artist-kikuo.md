@@ -25,7 +25,7 @@ Honestly speaking, there's no way that words can explain the complexity of **Kik
 Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/1519388) hosted by [melon boy](https://osu.ppy.sh/users/3053382) or [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1187911) hosted by [Axer](https://osu.ppy.sh/users/7299864)!
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/314/Kikuo Miku 6/Kikuo - Hole Dwelling.mp3" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/314/Kikuo%20Miku%206%2FKikuo%20-%20Hole%20Dwelling.mp3" type="audio/mpeg">
 </audio>
 
 ### Kikuo - Ten Sho Sho Ten Sho
@@ -95,7 +95,6 @@ Or maybe try [yet another osu!taiko map](https://osu.ppy.sh/beatmapsets/1606407)
 ---
 
 If you're still not convinced to visit [**Kikuo**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/314) and try mapping, you clearly haven't listened to enough **Kikuo** yet. And we're sincerely sorry for that.
-
 
 The next stop on the Featured Artist train is next Wednesday. Stick around the [@osugame Twitter](https://twitter.com/osugame) to keep up to date on that (and everything else circle-related).
 
