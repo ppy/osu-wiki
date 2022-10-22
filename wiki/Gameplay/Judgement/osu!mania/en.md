@@ -1,35 +1,47 @@
----
-needs_cleanup: true
----
-
 # osu!mania judgement system
 
-<!-- TODO: the article itself may probably be simplified -->
+## Judgements
 
-## Hit values
+A **judgement** (a.k.a. **hit result**) is the outcome of interacting with a [hit object](/wiki/Gameplay/Hit_object) during its hit window. Score and accuracy are calculated based on which judgements are received.
 
-| Image | Name | Effect |
-| :-: | :-: | :-- |
-| ![](/wiki/shared/judgement/osu!mania/mania-hit300g.gif "Rainbow 300") | Rainbow 300 (MAX) | Perfect hit of the note or hold. Comparing to 300, getting this mark required dead-on accuracy to get it. Otherwise, a regular 300 will be given. Completing the beatmap with just this score will give the maximum 1,000,000 score (1 million score limit). This is equivalent to *Marvelous* in DDR term. |
-| ![](/wiki/shared/judgement/osu!mania/mania-hit300.png "300") | 300 | Almost perfect hit of the note or hold. Maximum score limit cannot be achieved if this score was given. |
-| ![](/wiki/shared/judgement/osu!mania/mania-hit200.png "200") | 200 | Slightly early or slightly late hit or hold. New players may get this mark a lot until they got accustomed to the mechanism of the conveyor, speed, buttons and the judgement area. |
-| ![](/wiki/shared/judgement/osu!mania/mania-hit100.png "100") | 100 | Early or late hit or hold. It does not affect the HP bar at all. |
-| ![](/wiki/shared/judgement/osu!mania/mania-hit50.png "50") | 50 | Very early or very late hit or hold. This score will be given for unreleased hold notes by default. Decreases HP, but not for a drastic amount. Does not break combo. |
-| ![](/wiki/shared/judgement/osu!mania/mania-hit0.png "Miss") | Miss | Not hitting the note or holding the note using the correct keys. Drastically drain the HP and breaks the current combo. |
+These are commonly referred to by their score value (except for misses), i.e. a Great is usually called a "300" and so on.
+
+| Image | Name | [Hit value](/wiki/Gameplay/Score/ScoreV1/osu!mania) | [Accuracy](/wiki/Gameplay/Accuracy#osu!mania) | Hit window (ms) |
+| :-: | :-: | --: | --: | :-- |
+| ![](/wiki/shared/judgement/osu!mania/mania-hit300g.gif) | Perfect | 320 | 100% | `22.4 - 0.6 * OD` if OD <= 5, and `24.9 - 1.1 * OD` if OD >=5 |
+| ![](/wiki/shared/judgement/osu!mania/mania-hit300.png) | Great | 300 | 100% | `64 - 3 * OD` |
+| ![](/wiki/shared/judgement/osu!mania/mania-hit200.png) | Good | 200 | 66.67% | `97 - 3 * OD` |
+| ![](/wiki/shared/judgement/osu!mania/mania-hit100.png) | Ok | 100 | 33.33% | `127 - 3 * OD` |
+| ![](/wiki/shared/judgement/osu!mania/mania-hit50.png) | Meh | 50 | 16.67% | `151 - 3 * OD` |
+| ![](/wiki/shared/judgement/osu!mania/mania-hit0.png) | Miss | 0 | 0% | `188 - 3 * OD` |
+
+The hit window depends on the beatmap's [overall difficulty (OD)](/wiki/Beatmap/Overall_difficulty). A hit is then considered inside a hit window if `hit error <= hit window`, meaning the value listed is half of the hit window width.
+
+The hit error and hit window are rounded to the nearest integer, meaning the window is effectively 0.5 ms longer on both sides than what the formulas suggest.
 
 ## Judgement mechanics
 
-**Notes:**
+### Notes
 
-- MAX (rainbow 300), 300, 200, 100 or 50 from a note depending on timing of hit.
-- A Miss given when missing a note or hit it way too early.
+A note is judged with a Perfect, Great, Good, Ok, Meh, or Miss depending on how accurately it is hit. Hitting a note before the Miss window has no effect, and not hitting a note will cause a Miss after the Meh window passes.
 
-**Hold notes:**
+### Hold notes
 
-- The judgement for hold notes depends on both starting hold and ending release points.
-- Keep holding till end of note, with initial and final with perfect timing: MAX
-- Keep holding till end of note, without releasing the note: 200
-- Do a *NG* and not recover the hold note: Miss
-- Do a *NG* and even hold back the note: 50
+Hold notes are given one judgement depending on the timing for both the keypress at the head and the release at the tail, according to the following table:
 
-NG: *Not Good*, a term in *StepMania/DDR*, which happens when the hold note was released during hold timing.
+|  |  |  |  |  |  |  |  |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Head/Tail | **Perfect** | **Great** | **Good** | **Ok** | **Meh** | **Miss** | **Hold** |
+| **Perfect** | Perfect | Great | Great | Great | Good | Miss | Good |
+| **Great** | Great | Great | Good | Good | Good | Miss | Good |
+| **Good** | Good | Good | Good | Ok | Ok | Miss | Ok |
+| **Ok** | Ok | Ok | Ok | Ok | Meh | Miss | Meh |
+| **Meh** | Meh | Meh | Meh | Meh | Meh | Miss | Meh |
+| **Miss** | Miss | Miss | Miss | Miss | Miss | Miss | Meh |
+
+Where:
+
+- "Miss" means not pressing the key during the Meh window. The Miss window is irrelevant for hold notes.
+- "Hold" means having the key held down during the Meh window of the hold note tail.
+
+Releasing the key during the hold note body causes the head judgement to be discarded and treated as a miss, breaking combo. Continuing to hold the key to the hold note tail will therefore always give a Meh.
