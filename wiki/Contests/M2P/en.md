@@ -7,7 +7,7 @@ tags:
   - m2p 1
   - m2p 2
   - m2p 3
-  - m2p: taiko
+  - "m2p: taiko"
 ---
 
 # Mapping to Pander: Taiko
@@ -38,9 +38,9 @@ Alongside the Judging Criteria that each judge will provide, there are some rule
 - **All entries must be submitted as `.osz` files.** This is to ensure that the judges are able to download and test the entries without hassle.
 - **All entries must be osu!taiko beatmaps.**
 - **Submissions must include only ONE difficulty,** unless stated otherwise by the judge.
-- **Songs must not exceed 6 minutes of length.** There will a bit of leeway in cases where the song is really close to the 6 minute mark.
-- **All submissions must be rankable.** No beatmap submitted must be intentionally unrankable. Mistakes happen and points will be deducted for them, but this is a regular mapping contest, not Aspire. (You're allowed to ignore spread rules for the sake of this contest.)
-- **Submissions must NOT be uploaded/shared with others before judging and results are announced.** Sharing your entry publicly by any means before the results are announced will get your entry disqualified, no questions asked.
+- **Songs must not exceed 7 minutes of length.** There will a bit of leeway in cases where the song is really close to the 7 minute mark.
+- **All submissions must abide by the [Ranking Criteria](/wiki/Ranking_Criteria).** No beatmap submitted must be intentionally unrankable. Mistakes happen and points will be deducted for them, but this is a regular mapping contest, not Aspire. (It's allowed to ignore spread rules for the sake of this contest.)
+- **Submissions must NOT be uploaded/shared with others before judging and results are announced.** Sharing entries publicly by any means before the results are announced will result in a disqualification, no questions asked.
 - **Submissions will not be accepted after the deadlines.** No exceptions.
 
 Heavy and continuous violation of these rules can result in a ban/blacklist from all future iterations of this, or other osu!taiko related community contests.
@@ -52,15 +52,15 @@ The Mapping to Pander: Taiko contest series is run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) |
-| Designer | ::{ flag=UK }:: [Tanza3D](https://osu.ppy.sh/users/10379965) |
+| Designer | ::{ flag=GB }:: [Tanza3D](https://osu.ppy.sh/users/10379965) |
 
 ## Previous iterations
 
 | Contest No. | Judge | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Results |
 | :-: | :-- | :-- | :-- | :-- | :-- |
-| [#1](https://osu.ppy.sh/community/forums/topics/1624880) | ::{FLAG=NL}:: [Boaz](https://osu.ppy.sh/users/13302996) | ::{FLAG=JP}:: [_Rise](https://osu.ppy.sh/users/5217107) | ::{FLAG=CL}:: [Metsaller](https://osu.ppy.sh/users/4364791) | ::{FLAG=FI}:: [Antti](https://osu.ppy.sh/users/13281473) | [Results](https://docs.google.com/spreadsheets/d/1aR1GjF8diyjFhK_k_uOkU40zIKjaQbXhVbGDGmq5pdg/edit?usp=sharing) |
-| [#2](https://osu.ppy.sh/community/forums/topics/1639586) | ::{FLAG=AR}:: [Axer](https://osu.ppy.sh/users/7299864) | ::{FLAG=TH}:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) | ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957) | ::{FLAG=US}:: [Vixlowo](https://osu.ppy.sh/users/20295114) | [Results](https://docs.google.com/spreadsheets/d/1ps3bOL2JlzwPEh0gVTLHnp7E48stwqHMH6-ljDSBJQs/edit?usp=sharing) |
-| [#3](https://osu.ppy.sh/community/forums/topics/1652502) | ::{FLAG=US}:: [radar](https://osu.ppy.sh/users/7131099) | *TBD* | *TBD* | *TBD* | *TBD* |
+| [#1](https://osu.ppy.sh/community/forums/topics/1624880) | ::{ flag=NL }:: [Boaz](https://osu.ppy.sh/users/13302996) | ::{ flag=JP }:: [_Rise](https://osu.ppy.sh/users/5217107) | ::{ flag=CL }:: [Metsaller](https://osu.ppy.sh/users/4364791) | ::{ flag=FI }:: [Antti](https://osu.ppy.sh/users/13281473) | [Results](https://docs.google.com/spreadsheets/d/1aR1GjF8diyjFhK_k_uOkU40zIKjaQbXhVbGDGmq5pdg/edit?usp=sharing) |
+| [#2](https://osu.ppy.sh/community/forums/topics/1639586) | ::{ flag=AR }:: [Axer](https://osu.ppy.sh/users/7299864) | ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) | ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957) | ::{ flag=US }:: [Vixlowo](https://osu.ppy.sh/users/20295114) | [Results](https://docs.google.com/spreadsheets/d/1ps3bOL2JlzwPEh0gVTLHnp7E48stwqHMH6-ljDSBJQs/edit?usp=sharing) |
+| [#3](https://osu.ppy.sh/community/forums/topics/1652502) | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) | ::{ flag=FI }:: [Antti](https://osu.ppy.sh/users/13281473) | ::{ flag=NL }:: [Boaz](https://osu.ppy.sh/users/13302996), ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) | [Results](https://docs.google.com/spreadsheets/d/1UXvS2ZdlRHOj8mltCX8LtluQwXrcXZ_B8D02LIdcJoc/edit?usp=sharing) |
 
 ## Rewards
 
@@ -85,12 +85,14 @@ Pander Points reward users with a **profile badge**, which can be upgraded at ce
 
 | User | Points |
 | :-- | :-: |
+| ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) | 4 |
+| ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) | 3 |
 | ::{ flag=JP }:: [_Rise](https://osu.ppy.sh/users/5217107) | 3 |
-| ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) | 3 |
+| ::{ flag=FI }:: [Antti](https://osu.ppy.sh/users/13281473) | 3 |
 | ::{ flag=CL }:: [Metsaller](https://osu.ppy.sh/users/4364791) | 2 |
 | ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957) | 2 |
-| ::{ flag=FI }:: [Antti](https://osu.ppy.sh/users/13281473) | 1 |
 | ::{ flag=US }:: [Vixlowo](https://osu.ppy.sh/users/20295114) | 1 |
+| ::{ flag=NL }:: [Boaz](https://osu.ppy.sh/users/13302996) | 1 |
 
 ## Notes
 

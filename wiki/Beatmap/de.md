@@ -103,7 +103,7 @@ Das Chart-System entwickelte sich später weiter in das Projekt [Beatmap Spotlig
 
 *Hauptseite: [Wettbewerbe](/wiki/Contests)*
 
-Die osu!-Community betreibt regelmäßig verschiedene Wettbewerbe, um Kreativität zu fördern und Mapper auszuzeichnen, die ihr Bestes geben. Wettbewerbe reichen von kleinen Wettkämpfen, die in lokalen Gruppierungen ausgetragen werden, bis hin zu großen, die auf globaler Ebene durchgeführt werden und attraktive Preise haben. Gewinner erhalten oft Auszeichnungen in Form von [osu!supporter-Tags](/wiki/osu!supporter) und einem themenbezogenen Profilabzeichen.
+Die osu!-Community betreibt regelmäßig verschiedene Wettbewerbe, um Kreativität zu fördern und Mapper auszuzeichnen, die ihr Bestes geben. Wettbewerbe reichen von kleinen Wettkämpfen, die in lokalen Gruppierungen ausgetragen werden, bis hin zu großen, die auf globaler Ebene durchgeführt werden und attraktive Preise haben. Gewinner erhalten oft Auszeichnungen in Form von [osu!supporter-Tags](/wiki/osu!supporter) und einem themenbezogenen [Profilabzeichen](/wiki/Community/Profile_badge).
 
 ### Featured Artists
 
