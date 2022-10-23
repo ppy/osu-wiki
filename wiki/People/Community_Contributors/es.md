@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Colaboradores de la comunidad
 
 ![Medalla de colaborador](/wiki/shared/contributor.jpg "Medalla de colaborador")
