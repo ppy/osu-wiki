@@ -317,9 +317,9 @@ The final standings for the Qualifier stage can be found at the following [sprea
 ### Qualifier instructions
 
 1. In the Qualifier stage, all teams will play a specific pool designed by the mappool selectors.
-2. The mappool will contain 4 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock), and [Double Time](/wiki/Game_modifier/Double_Time). There will be no Free Mods or tiebreakers for this stage.
+2. The mappool will contain 4 brackets: No Mod, [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock), and [Double Time](/wiki/Game_modifier/Double_Time). There will be no Free Mods or tiebreakers for this stage.
 3. The Qualifier pool will feature 11 beatmaps, organised as such:
-   - NoMod: 4 beatmaps
+   - No Mod: 4 beatmaps
    - Hidden: 2 beatmaps
    - Hard Rock: 2 beatmaps
    - Double Time: 3 beatmaps
@@ -350,9 +350,10 @@ The final standings for the Qualifier stage can be found at the following [sprea
 
 1. A referee will create a multiplayer room 10 minutes before the scheduled match time. Teams must join the lobby in that period.
    - The room settings are `Game mode: "osu!"`, `Team mode: "Team Vs"` and `Score mode: "ScoreV2"`. The room name must follow the pattern of `OWC2022: ({Red Team}) VS ({Blue Team})`. The team mentioned first in the room name must be the red team, the team mentioned second in the room name must be the blue team.
-2. Each team may ban **one beatmap** to be selected from the pool in the Round of 32 and Round of 16, increased to **two beatmaps** from Quarterfinals onwards. Each team may not ban more than one beatmap of any mod bracket (excluding NoMod). These beatmaps may not be picked by any team for the entire duration of the match.
+2. Each team may ban **one beatmap** to be selected from the pool in the Round of 32 and Round of 16, increased to **two beatmaps** from Quarterfinals onwards. Each team may not ban more than one beatmap of any mod bracket (excluding No Mod). These beatmaps may not be picked by any team for the entire duration of the match.
 3. Each captain must use `!roll` once in the match's chatroom.
    - The winner of the `!roll` decides which team **picks** first.
+   - Teams may "double pick" (i.e. pick two or more maps from the same mod pool in sequence) without limitations.
    - The loser of the `!roll` decides which team **bans** first.
    - **From Quarterfinals onwards, the first team will ban one beatmap, followed by two bans from second team, finishing with one ban from the first team.**
 4. After bans are decided, both teams will take turns in picking a beatmap from the mappool.
@@ -369,7 +370,7 @@ The final standings for the Qualifier stage can be found at the following [sprea
 ### Mappool information
 
 1. Every stage will have its own mappool.
-2. Each mappool will consist of 5 brackets: [NoMod](/wiki/Game_modifier#nomod), [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock), [Double Time](/wiki/Game_modifier/Double_Time), and [FreeMod](/wiki/Game_modifier#freemod).
+2. Each mappool will consist of 5 brackets: [No Mod](/wiki/Game_modifier#nomod), [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock), [Double Time](/wiki/Game_modifier/Double_Time), and [FreeMod](/wiki/Game_modifier#freemod).
 3. The mappool sizes are as follows:
    - Qualifiers: 11 beatmaps
    - Round of 32 and Round of 16: 15 beatmaps
