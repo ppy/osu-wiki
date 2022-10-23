@@ -114,35 +114,61 @@ The osu! World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) and var
 | ::{ flag=UY }:: | **Uruguay** | **[daanit](https://osu.ppy.sh/users/6159669)**, [El Milanga](https://osu.ppy.sh/users/12264918), [Rebo](https://osu.ppy.sh/users/6942259), [Kazuki K](https://osu.ppy.sh/users/6407282), [Athenai](https://osu.ppy.sh/users/5522789), [Shikke](https://osu.ppy.sh/users/5382216), [Melxdy](https://osu.ppy.sh/users/11113213), [etterna in osu](https://osu.ppy.sh/users/5243536) |
 | ::{ flag=VN }:: | **Vietnam** | **[realshin](https://osu.ppy.sh/users/8006029)**, [\[sin\]](https://osu.ppy.sh/users/11021073), [Phoeni\_](https://osu.ppy.sh/users/14953642), [mizumi\_a](https://osu.ppy.sh/users/14977562), [walle](https://osu.ppy.sh/users/8431549), [waifaii](https://osu.ppy.sh/users/9256803), [\_ Freedom \_](https://osu.ppy.sh/users/3999831), [SkyArrow](https://osu.ppy.sh/users/4039647) |
 
-## Match schedule: Round of 32
+## Match schedule: Round of 16
 
-### Saturday, 22 October 2022
-
-| Team A | Team B | Match time |
-| --: | :-- | :-- |
-| France ::{ flag=FR }:: | ::{ flag=NZ }:: New Zealand | [Oct 22 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221022T100000&p1=1440&p2=195&p3=264) |
-| Indonesia ::{ flag=ID }:: | ::{ flag=FI }:: Finland | [Oct 22 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221022T130000&p1=1440&p2=108&p3=101) |
-| Japan ::{ flag=JP }:: | ::{ flag=SG }:: Singapore | [Oct 22 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221022T140000&p1=1440&p2=248&p3=236) |
-| United States ::{ flag=US }:: | ::{ flag=IL }:: Israel | [Oct 22 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221022T170000&p1=1440&p2=263&p3=110) |
-| Canada ::{ flag=CA }:: | ::{ flag=CL }:: Chile | [Oct 22 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221022T180000&p1=1440&p2=188&p3=232) |
-
-### Sunday, 23 October 2022
+### Saturday, 29 October 2022
 
 | Team A | Team B | Match time |
 | --: | :-- | :-- |
-| Australia ::{ flag=AU }:: | ::{ flag=TH }:: Thailand | [Oct 23 (Sun) 07:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221023T070000&p1=1440&p2=57&p3=28) |
-| South Korea ::{ flag=KR }:: | ::{ flag=ES }:: Spain | [Oct 23 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221023T100000&p1=1440&p2=235&p3=141) |
-| Hong Kong ::{ flag=HK }:: | ::{ flag=DK }:: Denmark | [Oct 23 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221023T120000&p1=1440&p2=102&p3=69) |
-| Philippines ::{ flag=PH }:: | ::{ flag=TW }:: Taiwan | [Oct 23 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221023T130000&p1=1440&p2=145&p3=241) |
-| China ::{ flag=CN }:: | ::{ flag=UA }:: Ukraine | [Oct 23 (Sun) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221023T143000&p1=1440&p2=33&p3=367) |
-| Germany ::{ flag=DE }:: | ::{ flag=CZ }:: Czech Republic | [Oct 23 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221023T160000&p1=1440&p2=37&p3=204) |
-| Russian Federation ::{ flag=RU }:: | ::{ flag=SE }:: Sweden | [Oct 23 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221023T170000&p1=1440&p2=166&p3=239) |
-| Poland ::{ flag=PL }:: | ::{ flag=TR }:: Turkey | [Oct 23 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221023T180000&p1=1440&p2=262&p3=19) |
-| Romania ::{ flag=RO }:: | ::{ flag=MX }:: Mexico | [Oct 23 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221023T180000&p1=1440&p2=49&p3=155) |
-| Norway ::{ flag=NO }:: | ::{ flag=GB }:: United Kingdom | [Oct 23 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221023T190000&p1=1440&p2=187&p3=136) |
-| Brazil ::{ flag=BR }:: | ::{ flag=IT }:: Italy | [Oct 23 (Sun) 19:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221023T193000&p1=1440&p2=45&p3=215) |
+| New Zealand ::{ flag=NZ }:: | ::{ flag=DK }:: Denmark | [Oct 29 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221029T100000&p1=1440&p2=264&p3=69) |
+| Israel ::{ flag=IL }:: | ::{ flag=JP }:: Japan | [Oct 29 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221029T110000&p1=1440&p2=110&p3=248) |
+| Czech Republic ::{ flag=CZ }:: | ::{ flag=TW }:: Taiwan | [Oct 29 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221029T120000&p1=1440&p2=204&p3=241) |
+| Sweden ::{ flag=SE }:: | ::{ flag=FI }:: Finland | [Oct 29 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221029T130000&p1=1440&p2=239&p3=101) |
+| Turkey ::{ flag=TR }:: | ::{ flag=IT }:: Italy | [Oct 29 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221029T140000&p1=1440&p2=19&p3=215) |
+| Spain ::{ flag=ES }:: | ::{ flag=UA }:: Ukraine | [Oct 29 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221029T150000&p1=1440&p2=141&p3=367) |
+| Thailand ::{ flag=TH }:: | ::{ flag=MX }:: Mexico | [Oct 29 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221029T160000&p1=1440&p2=28&p3=155) |
+| Chile ::{ flag=CL }:: | ::{ flag=NO }:: Norway | [Oct 29 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221029T170000&p1=1440&p2=232&p3=187) |
+
+### Sunday, 30 October 2022
+
+| Team A | Team B | Match time |
+| --: | :-- | :-- |
+| United States ::{ flag=US }:: | ::{ flag=SG }:: Singapore | [Oct 30 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221030T040000&p1=1440&p2=263&p3=236) |
+| South Korea ::{ flag=KR }:: | ::{ flag=CN }:: China | [Oct 30 (Sun) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221030T090000&p1=1440&p2=235&p3=33) |
+| Australia ::{ flag=AU }:: | ::{ flag=RO }:: Romania | [Oct 30 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221030T100000&p1=1440&p2=57&p3=49) |
+| France ::{ flag=FR }:: | ::{ flag=HK }:: Hong Kong | [Oct 30 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221030T110000&p1=1440&p2=195&p3=102) |
+| Germany ::{ flag=DE }:: | ::{ flag=PH }:: Philippines | [Oct 30 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221030T120000&p1=1440&p2=37&p3=145) |
+| Russian Federation ::{ flag=RU }:: | ::{ flag=ID }:: Indonesia | [Oct 30 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221030T130000&p1=1440&p2=166&p3=108) |
+| Poland ::{ flag=PL }:: | ::{ flag=BR }:: Brazil | [Oct 30 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221030T170000&p1=1440&p2=262&p3=45) |
+| Canada ::{ flag=CA }:: | ::{ flag=GB }:: United Kingdom | [Oct 30 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221030T180000&p1=1440&p2=188&p3=136) |
 
 ## Mappools
+
+### Round of 16
+
+**[Download the mappack here (149 MB)](https://drive.google.com/uc?id=1iJG3hfJDgQiY_lPaQ4bJdregYklb5Xdd)**
+
+- No Mod
+  1. [Ado - I'm Invincible (jonathanlfj) \[Victory\]](https://osu.ppy.sh/beatmapsets/1871902#osu/3851515)
+  2. [cosMo@BousouP - Oceanus (Maot) \[Nostalgic\]](https://osu.ppy.sh/beatmapsets/1871924#osu/3851547)
+  3. [ZAQ - Dance In The Game (Petal) \[Melancholy\]](https://osu.ppy.sh/beatmapsets/1871920#osu/3851543)
+  4. [Reku Mochizuki - VEZZELiX (Chaoslitz) \[DELUXE\]](https://osu.ppy.sh/beatmapsets/1871929#osu/3851585)
+- Hidden
+  1. [Enter Shikari - Radiate (h4d0uk3n1) \[SPRING CLEANING OF THE MIND\]](https://osu.ppy.sh/beatmapsets/967719#osu/2025135)
+  2. [Sano Denji - Taiko Time (Flask) \[OTST Time\]](https://osu.ppy.sh/beatmapsets/1536761#osu/3142119)
+- Hard Rock
+  1. [t+pazolite - cheatreal (caren\_sk) \[Extra\]](https://osu.ppy.sh/beatmapsets/88180#osu/240488)
+  2. [Shpongle - Levitation Nation (piroshki) \[Welcome to... Brazil?!\]](https://osu.ppy.sh/beatmapsets/1801375#osu/3693390)
+- Double Time
+  1. [Maduk - Ghost Assassin (feat. Veela) (Aistre) \[Amnesia\]](https://osu.ppy.sh/beatmapsets/1871923#osu/3851546)
+  2. [senya - Sono Kami no Dilemma ni (Satellite) \[Satellite\]](https://osu.ppy.sh/beatmapsets/1871922#osu/3851545)
+  3. [Nanjo Yoshino - Anata no Aishita Sekai (Kurashina Asuka) \[Insane\]](https://osu.ppy.sh/beatmapsets/1871799#osu/3851323)
+- FreeMod
+  1. [MC Sniper - Minchoui Nan (Luscent) \[Stigma\]](https://osu.ppy.sh/beatmapsets/1612833#osu/3292816)
+  2. [Kobaryo - Future Downloader (Serenhaide) \[Violacea\]](https://osu.ppy.sh/beatmapsets/1871713#osu/3851186)
+  3. [Denkishiki Karen Ongaku Shuudan - Watch out! (Lasse) \[LMT's Expert\]](https://osu.ppy.sh/beatmapsets/1130504#osu/2368664)
+- Tiebreaker
+  1. **[Tokyo.MeltiMelt - the Beautiful Cure feat. nayuta (jonathanlfj) \[Magnificat\]](https://osu.ppy.sh/beatmapsets/1574009#osu/3213722)**
 
 ### Round of 32
 
@@ -191,6 +217,36 @@ The osu! World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) and var
   3. [Rameses B - Mountains (feat. Veela) (Strategas) \[Is it worth it?\]](https://osu.ppy.sh/beatmapsets/1863179#osu/3831294)
 
 ## Match results
+
+### Round of 32
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1VGfOFxWzgqUiGf-heONvL2UWI7g1SgqdzW-cbGdQBok).
+
+Saturday, 22 October 2022:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **France** ::{ flag=FR }:: | **5** | 1 | ::{ flag=NZ }:: New Zealand | [#1](https://osu.ppy.sh/community/matches/104576944) |
+| **Indonesia** ::{ flag=ID }:: | **5** | 2 | ::{ flag=FI }:: Finland | [#1](https://osu.ppy.sh/community/matches/104579970) |
+| Japan ::{ flag=JP }:: | 4 | **5** | ::{ flag=SG }:: **Singapore** | [#1](https://osu.ppy.sh/community/matches/104581414) |
+| **United States** ::{ flag=US }:: | **5** | 2 | ::{ flag=IL }:: Israel | [#1](https://osu.ppy.sh/community/matches/104585943) |
+| **Canada** ::{ flag=CA }:: | **5** | 0 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/104587718) |
+
+Sunday, 23 October 2022:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Australia** ::{ flag=AU }:: | **5** | 1 | ::{ flag=TH }:: Thailand | [#1](https://osu.ppy.sh/community/matches/104601550) |
+| **South Korea** ::{ flag=KR }:: | **5** | 0 | ::{ flag=ES }:: Spain | [#1](https://osu.ppy.sh/community/matches/104603801) |
+| **Hong Kong** ::{ flag=HK }:: | **5** | 2 | ::{ flag=DK }:: Denmark | [#1](https://osu.ppy.sh/community/matches/104605648) |
+| **Philippines** ::{ flag=PH }:: | **5** | 3 | ::{ flag=TW }:: Taiwan | [#1](https://osu.ppy.sh/community/matches/104606680) |
+| **China** ::{ flag=CN }:: | **5** | 4 | ::{ flag=UA }:: Ukraine | [#1](https://osu.ppy.sh/community/matches/104608531) |
+| **Germany** ::{ flag=DE }:: | **5** | 0 | ::{ flag=CZ }:: Czech Republic | [#1](https://osu.ppy.sh/community/matches/104610730) |
+| **Russian Federation** ::{ flag=RU }:: | **5** | 2 | ::{ flag=SE }:: Sweden | [#1](https://osu.ppy.sh/community/matches/104612017) |
+| **Poland** ::{ flag=PL }:: | **5** | 0 | ::{ flag=TR }:: Turkey | [#1](https://osu.ppy.sh/community/matches/104613684) |
+| **Romania** ::{ flag=RO }:: | **5** | 0 | ::{ flag=MX }:: Mexico | [#1](https://osu.ppy.sh/community/matches/104613607) |
+| Norway ::{ flag=NO }:: | 2 | **5** | ::{ flag=GB }:: **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/104615259) |
+| **Brazil** ::{ flag=BR }:: | **5** | 1 | ::{ flag=IT }:: Italy | [#1](https://osu.ppy.sh/community/matches/104615903) |
 
 ### Qualifiers
 
