@@ -6,7 +6,7 @@ date: 2022-10-23 18:00:00 +0000
 
 Grab a buddy, a Featured Artist song, and prepare for the biggest osu!taiko mapping showdown of the year!
 
-![](/wiki/Contests/o!tFAC/3/img/banner.jpg)
+![](https://assets.ppy.sh/contests/155/header.jpg)
 
 The osu!taiko Featured Artist Cup is a mapping contest where you're simply asked to map any song from one of osu!'s Featured Artists, but this time, there's a twist: **you must map with a partner!** This will set some good grounds to observe just how far two mappers can push the limits when they have to unite forces.
 
