@@ -168,4 +168,3 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 | `#vietnamese` |  | ::{ flag=VN }:: [My Angel Chino](https://osu.ppy.sh/users/20547597), ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) |
 
 <!-- TODO: History section wanted (Chat operators/GreenBAT, etc, etc) -->
-
