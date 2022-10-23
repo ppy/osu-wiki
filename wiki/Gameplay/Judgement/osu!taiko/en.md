@@ -20,9 +20,9 @@ The hit error and hit window are rounded to the nearest integer, meaning the win
 
 Small and large notes are judged with a Great, Ok, or Miss depending on how accurately they are hit. Hitting a note before the Miss window has no effect, and not hitting a note will cause a Miss after the Meh window passes. Hitting the wrong key for the colour of the note will also cause a Miss.
 
-### Drumrolls
+### Drum rolls
 
-Drumrolls give 300 score (600 during Kiai time) per correctly timed hit on a drum roll tick.<!-- TODO: what is the hit window for one of these? -->
+Drum rolls give 300 score (600 during Kiai time) per correctly timed hit on a drum roll tick.<!-- TODO: what is the hit window for one of these? -->
 
 ### Swells
 
