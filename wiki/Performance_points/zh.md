@@ -1,11 +1,6 @@
----
-outdated_translation: true
-outdated_since: b0dbd398396a49d6f8e793dfa279b0c0e65937f1
----
-
 # 表现分 (Performance points)
 
-**表现分 (Performance points) **又简称为 **pp**，是 osu! 内致力于准确量化玩家实力的指标。
+**表现分 (Performance points)** 又简称为 **pp**，是 osu! 内致力于准确量化玩家实力的指标。
 
 这个指标主要是为了把曾用来代表玩家水平的游玩时长指标，转变为玩家的真实游戏技巧实力。同时，这个指标的工作方式是通过将[谱面](/wiki/Beatmap)的客观难度与玩家的成绩表现相结合，计算出一个独立的分数从而量化玩家的实力。
 
@@ -29,7 +24,7 @@ outdated_since: b0dbd398396a49d6f8e793dfa279b0c0e65937f1
 - 减少因失误而损失的 pp，在含有大量物件的长谱面上损失更少。
 - 减少低[准确率](/wiki/Gameplay/Accuracy)时获取的 pp。
 
-ppv2 目前仍在提供服务，且 ppv2 的实时升级信息发布在这个[更新日志](https://osu.ppy.sh/p/changelog?category=pp)中。
+ppv2 目前仍在提供服务，当 ppv2 更新时，[表现分 (pp) 委员会](/wiki/People/Performance_Points_Committee)将会发布新帖子来告知更新信息。
 
 ## 计算
 
