@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Guion gráfico
 
 ![](img/Sbpassing.png "Esta escena se muestra mientras se reproduce Walkie Talkie Man; sin embargo, solo se muestra cuando obtienes un Elite Beat 300")
