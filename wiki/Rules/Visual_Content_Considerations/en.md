@@ -29,6 +29,7 @@ Images or visual elements containing any of the following are **not allowed**:
 - **erotic content or graphic displays of sexuality**
 - **examples of drug use, preparation, or identification with illicit drug subculture**[^drug-nature]
 - **depictions of deliberately inflammatory political, cultural, religious, or social content**
+- **imagery depicting suicidal or self-harming behaviour, including preparation or imminent attempts**
 
 In addition, images or visual elements that could be reasonably appraised as being of poor quality (in either objective image quality or subjective composition/creation) may also be prevented from being used in a beatmaps in cases where they are not directly related to any relevant subject matter.
 
