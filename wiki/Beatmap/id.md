@@ -37,7 +37,7 @@ Setelah di-submit, sebuah beatmap akan mendapatkan tambahan tempat khusus untuk 
 Setiap beatmap yang diunggah akan mendapatkan pengenal numerik (`BeatmapSetID`), yang dapat dilacak di situs web dan melalui [osu!api](/wiki/osu!api). Tingkat kesulitan pada sebuah beatmap juga mempunyai pengenal numerik masing-masing (`BeatmapID`). URL yang mengarah ke tingkat kesulitan tertentu pada halaman beatmap akan diberikan juga pengenal numerik tambahan dan memiliki format sebagai berikut:
 
 ```
-https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{GameMode}/{BeatmapID}`
+https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{GameMode}/{BeatmapID}
 ```
 
 ### Kategori beatmap
@@ -109,7 +109,7 @@ Seiring berjalannya waktu, sistem Ranking Chart ini kemudian perlahan mulai beru
 
 *Artikel utama: [Kontes](/wiki/Contests)*
 
-Komunitas osu! secara rutin mengadakan kontes-kontes yang berbeda untuk mempromosikan kreativitas dan memberi penghargaan kepada mapper yang telah melakukan yang terbaik. Kisaran kontes dimulai dari kompetisi kecil, seperti kompetisi yang dibuat dalam komunitas lokal, hingga kompetisi besar yang dilakukan dalam skala internasional dan memiliki hadiah yang menakjubkan. Pemenang sering kali menerima penghargaan berupa [osu!supporter](/wiki/osu!supporter) dan sebuah lencana profil.
+Komunitas osu! secara rutin mengadakan kontes-kontes yang berbeda untuk mempromosikan kreativitas dan memberi penghargaan kepada mapper yang telah melakukan yang terbaik. Kisaran kontes dimulai dari kompetisi kecil, seperti kompetisi yang dibuat dalam komunitas lokal, hingga kompetisi besar yang dilakukan dalam skala internasional dan memiliki hadiah yang menakjubkan. Pemenang sering kali menerima penghargaan berupa [osu!supporter](/wiki/osu!supporter) dan sebuah [lencana profil](/wiki/Community/Profile_badge).
 
 ### Featured Artist
 

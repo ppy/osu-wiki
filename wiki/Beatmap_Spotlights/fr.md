@@ -6,6 +6,8 @@ tags:
   - tableaux
   - Tableaux de classement
   - Spotlights saisonnier
+outdated_translation: true
+outdated_since: 798269cfe9f0515e267a7f8a122b28fdff0aaf05
 ---
 
 # Beatmap Spotlights
@@ -14,11 +16,11 @@ tags:
 
 Le **Beatmap Spotlights** (ou simplement *Spotlights*, anciennement *Ranking Charts*) est un programme récurrent de recommandation et de mise en avant des [beatmaps](/wiki/Beatmap) pour leur design et leur gameplay excellents et uniques. Il est accompagné d'une [ligue saisonnière](#saisons-spotlights), où les joueurs s'affrontent sur ces beatmaps pour gagner des [badges](#récompenses).
 
-La saison actuelle est celle du printemps 2022.
+La saison actuelle est celle du été 2022.
 
 ## Participation
 
-Pour participer aux Beatmap Spotlights, téléchargez la dernière version du client lazer depuis sa [page de versions GitHub](https://github.com/ppy/osu/releases/latest).
+Pour participer aux Beatmap Spotlights, téléchargez la dernière version du client osu!(lazer) depuis sa [page de versions GitHub](https://github.com/ppy/osu/releases/latest).
 
 Après l'installation et la connexion à votre compte, rendez-vous dans l'onglet des playlists de l'onglet play et trouvez les lobbies Spotlights comme indiqué par une petite barre rose, ou filtrez par eux dans le coin supérieur droit.
 
@@ -109,9 +111,9 @@ Le classement saisonnier résume les résultats du classement hebdomadaire de ch
 
 Des récompenses sont distribuées aux gagnants des playlists lobbies, aux créateurs choisissant les beatmaps de la saison, et à chaque participant présent au classement saisonnier.
 
-Les 10 meilleurs joueurs de chaque playlist lobbies recevront **1 semaine d'osu!supporter**.
+Les 10 meilleurs joueurs de chaque playlist lobbies recevront **1 semaine d'[osu!supporter](/wiki/osu!supporter)**.
 
-Après la conclusion de chaque saison, les votes sont ouverts pour la *beatmap de la saison*, où les joueurs et les curateurs peuvent choisir une beatmap gagnante pour chaque mode de jeu, soit 8 au total. Les beatmaps gagnantes sont annoncées au début de la saison suivante, et leurs créateurs recevront **3 mois d'abonnement à osu!supporter**.
+Après la conclusion de chaque saison, les votes sont ouverts pour la *beatmap de la saison*, où les joueurs et les curateurs peuvent choisir une beatmap gagnante pour chaque mode de jeu, soit 8 au total. Les beatmaps gagnantes sont annoncées au début de la saison suivante, et leurs créateurs recevront **3 mois d'abonnement à [osu!supporter](/wiki/osu!supporter)**.
 
 Pendant la saison, chaque participant reçoit un **badge** temporaire qui reflète sa position actuelle dans le classement de la saison, comme décrit dans le tableau ci-dessous. Ceux-ci sont mis à jour après la conclusion de chaque playlist. Les joueurs qui détiennent un badge Rhythm Incarnate à la fin de la saison le **conserveront définitivement**.
 

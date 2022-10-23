@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 6ad4fe3d4e5b620cfeb663af478a908a6220f9ba
+---
+
 # Marka kimliği yönergeleri
 
 Marka kimliği yönergeleri osu! ile ilgili projelerin markalaştırılması için bir dizi gerekliliktir. Her kullanım onay gerektirmez.

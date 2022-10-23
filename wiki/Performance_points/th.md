@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: b0dbd398396a49d6f8e793dfa279b0c0e65937f1
+---
+
 # Performance points
 
 **Performance points** (หรือเรียกสั้น ๆ ว่า **pp**) มีจุดมุ่งหมายในการแสดงการพัฒนาของผู้เล่นใน osu!
