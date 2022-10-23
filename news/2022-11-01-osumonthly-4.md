@@ -51,7 +51,12 @@ Perhaps you missed the interviews of top players? Don't worry, the [replays](htt
 
 The event featured a Tandem King of the Hill Tournament, with the fun and challenging concept of having one person control the keyboard while the other controls the mouse or tablet. The highlight of the event, however, was a Battle Royale featuring Singapore's osu! World Cup roster, including top Singaporean players such as [GSBlank](https://osu.ppy.sh/users/2312106), [Eagle5324](https://osu.ppy.sh/users/11987104) and the eventual champion, [Demonical](https://osu.ppy.sh/users/5447609).
 
-<!-- Video Here -->
+<div align="center">
+    <video width="100%" controls>
+        <source src="https://assets.ppy.sh/media/osu-monthly/2022-10/dreamjam.mp4" type="video/mp4" preload="none">
+    </video>
+</div>
+
 *Please note that osu! team is not affiliated with Dreamcore Private Limited and Matrix.*
 
 Missed the event, but still want to catch the action? The stream, complete with live footage and commentary, can be found on the [osu!sg Twitch channel](https://www.twitch.tv/osusg).
@@ -60,7 +65,7 @@ Missed the event, but still want to catch the action? The stream, complete with 
 
 As expected every year, the [Halloween 2022 Fanart Contest](https://osu.ppy.sh/home/news/2022-10-10-halloween-fanart-contest) is here. It is through the theme of Halloween that the best artists of the community will compete to make the most beautiful drawing (or rather the *spookiest*). A theme that everyone knows but that allows so many possibilities can only give gorgeous creations!
 
-By the time this monthly is released, submissions will have been closed but we should see the votes coming in very soon, so be sure to cast your votes as a selection of the top-voted entries will be featured within osu! (and get 3 months of osu!supporter), and the top 3 will receive profile badges made in the style of their own submission!
+By the time this monthly is published the results will already be in, so be sure to check out all the entries and congratulate the winners! By the way, you can now see all the winners' works on osu!'s main menu, so be careful not to get spooked when you connect!
 
 ### Notable osu! plays of the month
 
@@ -94,7 +99,7 @@ Some other notable plays this month include [shinchikuhome](https://osu.ppy.sh/u
 
 ## Did you know?
 
-Since 2012 and until very recently, the longest osu! ranked map was [Armin](https://osu.ppy.sh/users/105902)'s set on [The Unforgiving](https://osu.ppy.sh/beatmapsets/29157#osu/156352) by Within Temptation, with a total drain time of 45:06. But this long kept record has been beaten recently by [Nokduro](https://osu.ppy.sh/users/2998248) and his osu!taiko set on [DigitalOffline0011 Hayakore Tatsumi](https://osu.ppy.sh/beatmapsets/1860299#taiko/3824509) by Hayakore Tatsumi which contains 57 minutes and 9 seconds of drain time.
+Since 2012 and until very recently, the longest osu! ranked map was [Armin](https://osu.ppy.sh/users/105902)'s set on [The Unforgiving](https://osu.ppy.sh/beatmapsets/29157#osu/156352) by Within Temptation, with a total drain time of 45 minutes. But this long kept record has been beaten recently by [Nokduro](https://osu.ppy.sh/users/2998248) and his osu!taiko set on [DigitalOffline0011 Hayakore Tatsumi](https://osu.ppy.sh/beatmapsets/1860299#taiko/3824509) by Hayakore Tatsumi, which contains 57 minutes of drain time.
 
 However, if we also include loved maps, [Nana Party](https://osu.ppy.sh/beatmapsets/750284#taiko/1904970) by Nanahira, mapped by [katacheh](https://osu.ppy.sh/users/6651672) is the longest map of osu! with a total of 2:58:17 minutes of drain time.
 
