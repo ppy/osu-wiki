@@ -23,9 +23,9 @@ The last hit object in a [combo set](/wiki/Beatmapping/Combo) may give a variant
 
 | Image | Name | Variant of | Requirement |
 | :-: | :-: | :-: | :-- |
-| ![](/wiki/shared/judgement/osu!/hit300g.png) | Geki (激) | GREAT | GREAT on all hit objects in a combo |
-| ![](/wiki/shared/judgement/osu!/hit300k.png) | Katu or Katsu (喝) | GREAT | At least OK on all hit objects in a combo and a GREAT for the last one |
-| ![](/wiki/shared/judgement/osu!/hit100k.png) | Katu or Katsu (喝) | OK | At least OK on all hit objects in a combo |
+| ![](/wiki/shared/judgement/osu!/hit300g.png) | [Geki](/wiki/Gameplay/Judgement/Geki) (激) | GREAT | GREAT on all hit objects in a combo |
+| ![](/wiki/shared/judgement/osu!/hit300k.png) | [Katu](/wiki/Gameplay/Judgement/Katu) or Katsu (喝) | GREAT | At least OK on all hit objects in a combo and a GREAT for the last one |
+| ![](/wiki/shared/judgement/osu!/hit100k.png) | [Katu](/wiki/Gameplay/Judgement/Katu) or Katsu (喝) | OK | At least OK on all hit objects in a combo |
 
 This mechanic is in reference to [Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan) and [Elite Beat Agents](https://en.wikipedia.org/wiki/Elite_Beat_Agents), the latter using the terms Elite Beat! and Beat! instead of Geki and Katsu.
 
