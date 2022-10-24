@@ -190,7 +190,32 @@ The osu!mania LN Tournament 3 is run by various community members.
 
 ## Mappools
 
+### Round of 32
+
+**[Download the mappack here! (88 MB)](https://drive.google.com/drive/folders/1jRRzxwPbwbuQW3pJbnyk0jBcsLCBMNwC?usp=sharing)**
+
+- Coordination
+  1. [ueotan - Mario Paint (Time Regression Mix) (Eclipse-) \[L-aNother\]](https://osu.ppy.sh/beatmapsets/1598198#mania/3264020)
+  2. [Taku Inoue - Synchronica Airline (MyZterioN-) \[departing\]](https://osu.ppy.sh/beatmapsets/1741527#mania/3560266)
+  3. [Madeon - Pop Culture (chxu) \[Potatoes\]](https://osu.ppy.sh/beatmapsets/1352407#mania/2799736)
+- Technical
+  1. [432pro - kawaii-catgirl-gif.png (HowToPlayLN) \[4D4: reference not found\]](https://osu.ppy.sh/beatmapsets/1871847#mania/3851405)
+  2. [The Flashbulb - Mellann (Logan636) \[Suffocation\]](https://osu.ppy.sh/beatmapsets/1871430#mania/3850601)
+  3. [Silentroom - garland saga (Stability) \[vanity\]](https://osu.ppy.sh/beatmapsets/1525862#mania/3121866)
+- Wildcard
+  1. [succducc - me & u (Kara Edit) (TingMomentum) \[Stage 3: Affection\]](https://osu.ppy.sh/beatmapsets/1794198#mania/3677199)
+  2. [M2U - Marionette (Akatsumi Chan) \[Steampunk\]](https://osu.ppy.sh/beatmapsets/1672675#mania/3416730)
+  3. [lapix feat. Numbndub - Future Raver (Logan636) \[Ecstatic Bliss\]](https://osu.ppy.sh/beatmapsets/1871428#mania/3850593)
+- Density
+  1. [II-L & Ziken Akahane - 7x3 (HowToPlayLN) \[1.3125\]](https://osu.ppy.sh/beatmapsets/1871846#mania/3851404)
+  2. [onoken - Viden (Guilhermeziat) \[editation\]](https://osu.ppy.sh/beatmapsets/1788533#mania/3815694)
+  3. [Hopeku - Quantum (chxu) \[Battle on the Big Bridge\]](https://osu.ppy.sh/beatmapsets/1871815#mania/3851340)
+- Tiebreaker
+  1. [PSYQUI - Pallet feat. mikanzil (HowToPlayLN) \[polychromatic refraction\]](https://osu.ppy.sh/beatmapsets/1871849#mania/3851407)
+
 ### Round of 64
+
+**[Download the mappack here! (79 MB)](https://drive.google.com/drive/folders/1jRRzxwPbwbuQW3pJbnyk0jBcsLCBMNwC)**
 
 - Coordination
   1. [uno feat.(IOSYS) - disco KAWAii (ByeForNow) \[LN-FINITE\]](https://osu.ppy.sh/beatmapsets/1130778#mania/2362045)
