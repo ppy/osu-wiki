@@ -50,4 +50,4 @@ tags:
 
 ## Примечания
 
-[^chat-cleanup]: [This Week in osu! - ppy blog](https://blog.ppy.sh/post/38114063519/this-week-in-osu-5)
+[^chat-cleanup]: [Blog post by ppy (2012-12-17) "This Week in osu!"](https://blog.ppy.sh/post/38114063519/this-week-in-osu-5)
