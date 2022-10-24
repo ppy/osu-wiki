@@ -1,4 +1,5 @@
 ---
+no_native_review: true
 tags:
   - bancho
   - server bot
@@ -7,9 +8,6 @@ tags:
   - lệnh
   - thông báo
 ---
-
-<!--TODO:
-- add section that lists and explains all the game-related announcements -->
 
 # BanchoBot
 
