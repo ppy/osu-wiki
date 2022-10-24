@@ -13,7 +13,7 @@ tags:
 ![CM Modysmbol](/wiki/shared/mods/CM.png "Cinema (CM) Modsymbol")
 
 *Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Game_modifier)*\
-*Nicht zu verwechseln mit [Cinematography](https://de.wikipedia.org/wiki/Kinematographie).*
+*Nicht zu verwechseln mit [Kinematographie](https://de.wikipedia.org/wiki/Kinematographie).*
 
 ## Über
 
