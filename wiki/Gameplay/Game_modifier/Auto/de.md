@@ -53,7 +53,7 @@ In [osu!mania](/wiki/Game_mode/osu!mania) wird die Mod Auto versuchen, einen per
 
 ## Trivia
 
-- Beim Zuschauen eines Replays mit der Mod Auto ist der in der Rangliste angezeigte Nutzername "osu!".
+- Beim Anschauen eines Replays mit der Mod Auto ist der in der Rangliste angezeigte Nutzername "osu!".
 - Nachdem ein Replay mit der Mod Auto angesehen wurde, wird die Mod automatisch deaktiviert und der Nutzer wird gezwungen, die Mod erneut anzuwählen, wenn er das Replay noch einmal anschauen möchte. Dies geschieht unabhängig davon, ob das Replay bis zum Ende angesehen wird oder nicht.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
