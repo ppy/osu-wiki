@@ -11,7 +11,7 @@ osu!catch is different from the other game modes in that there is no concept of 
 | ![](img/catch-300.png) | [Fruit](/wiki/Gameplay/Hit_object/Fruit) | 300 |
 | ![](img/catch-100.png) | [Drop](/wiki/Gameplay/Hit_object/Juice_stream#drop) | 30 |
 | ![](img/catch-50.png) | [Droplet](/wiki/Gameplay/Hit_object/Juice_stream#droplet) | 10 |
-| ![](img/catch-banana.png) | [Banana](/wiki/Gamplay/Hit_object/Banana) | 1,100 |
+| ![](img/catch-banana.png) | [Banana](/wiki/Gameplay/Hit_object/Banana) | 1,100 |
 
 ## Judgement mechanics
 
