@@ -21,7 +21,7 @@ Beatmaps that receive two nominations per each available [game mode](/wiki/Game_
 Nominations may be removed from a map in one of the following cases:
 
 - A beatmap is updated by its [host](/wiki/Beatmap/Beatmap_host).
-- Serious or unrankable issues are found by a BN or a member of the NAT.
+- Serious or unrankable issues are found by a BN or a member of the NAT, which would cause them to either [reset its nomination](/wiki/People/The_Team/Beatmap_Nominators/General_Information#disqualify-or-reset-nomination), [disqualify](/wiki/People/The_Team/Beatmap_Nominators/General_Information#disqualify-or-reset-nomination) it, or place a [veto](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto).
 
 ## History
 
