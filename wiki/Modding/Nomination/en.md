@@ -11,7 +11,7 @@ tags:
 *See also: [Beatmap ranking procedure](/wiki/Beatmap_ranking_procedure)*
 
 ::: Infobox
-![](nomination-progress-beatmapset1857663 "Beatmap ranking status displayed on the discussion page, with hype and nomination progress bars partially filled.")
+![](img/nomination-progress-beatmapset1857663.png "Beatmap ranking status displayed on the discussion page, with hype and nomination progress bars partially filled.")
 :::
 
 **Nomination** is a formal vote of approval coming from [beatmap nominators](/wiki/People/The_Team/Beatmap_Nominators) (BN) or members of the [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (NAT), which indicates a beatmap's readiness to become [ranked](/wiki/Beatmap/Category#ranked). It is given to completed beatmaps of sufficient quality that follow the [ranking criteria](/wiki/Ranking_Criteria) and have 5 or more [hypes](/wiki/Beatmap/Hype).
