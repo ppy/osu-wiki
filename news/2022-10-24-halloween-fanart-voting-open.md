@@ -10,7 +10,7 @@ True horror strikes again - **109** incredible entries, but only **15** votes ea
 
 The hallowed eve of the year's spookiest month is almost upon us, and it is now time to shuffle forth into the voting phase and help decide which ones will make it to the main menu.
 
-<add flare paragraph>
+Check out a quick preview video below (courtesy of one Mr. Fat) of what's up for the vote set to the tunes of [cYsmix](https://osu.ppy.sh/beatmaps/artists/2)'s Fright March, but beware, for you might encounter horrors beyond compare:
 
 <div align="center">
     <video width="90%" controls>
