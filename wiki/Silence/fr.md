@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 203a715b0188784607756ebee4cd0a3daa7ddf3d
+---
+
 # Silence
 
 Le **silence** est un terme utilisé pour décrire la sanction consistant à limiter les moyens de communication d'un utilisateur au sein de la communauté d'osu!. Les silences peuvent être imposés par les membres de la [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) et de la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team), et ne sont imposés qu'aux utilisateurs qui ont enfreint les [règles de la communauté](/wiki/Rules).
@@ -18,7 +23,7 @@ Les utilisateurs qui sont réduits au silence par les modérateurs ne peuvent pa
 - Envoyer et mettre à jour les beatmaps
 - Participer à des jeux [multijoueurs](/wiki/Client/Interface/Multiplayer)
 
-En outre, tous les messages d'un utilisateur réduit au silence sont supprimés de tous les canaux de discussion et des conversations privées [[1]](https://blog.ppy.sh/post/38114063519/this-week-in-osu-5).
+En outre, tous les messages d'un utilisateur réduit au silence sont supprimés de tous les canaux de discussion et des conversations privées.[^chat-cleanup]
 
 ::: Infobox
 ![](img/silence-ingame.png "Avertissement de silence dans le tchat")
@@ -38,3 +43,7 @@ Si vous pensez avoir été injustement réduit au silence, contactez [l'équipe 
 - Télécharger ou publier du contenu inapproprié par d'autres moyens. (Par exemple, avatars de profil, envois des beatmap, détails de profil, bio de page d'utilisateur, bannière, etc.)
 
 La durée d'un silence peut varier en fonction de la gravité de l'infraction. Les silences peuvent s'empiler les uns sur les autres, ajoutant plus de temps pour chacun d'eux. Veuillez noter que si une infraction est suffisamment grave, ou si un joueur est un récidiviste, elle peut entraîner une [restriction du compte](/wiki/Help_centre/Account_restrictions) au lieu d'un silence.
+
+## Références
+
+[^chat-cleanup]: [Blog post by ppy (2012-12-17) "This Week in osu!"](https://blog.ppy.sh/post/38114063519/this-week-in-osu-5)
