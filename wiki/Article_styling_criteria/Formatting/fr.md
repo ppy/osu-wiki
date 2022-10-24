@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 98ce534263633be746e9911829032378bb68ce09
----
-
 # Mise en forme
 
 *Pour les normes de rédaction, voir : [Critères de mise en forme d'article/Rédaction](../Writing)*\
@@ -848,15 +843,19 @@ L'osu! wiki est un projet destiné à remplacer l'ancien système de FAQ.[^wiki-
 
 Les citations, ou références, sont utilisées pour identifier une source d'information. Les citations par le biais de notes de bas de page doivent être préférées aux liens en ligne.
 
-Exemple :
+Les citations doivent, dès que possible, préciser l'auteur, la date, le service/la plateforme et le titre. Le format exact peut varier en fonction des citations, avec une préférence pour la brièveté.
+
+Exemples :
 
 ```markdown
-La première version de l'osu!api a été mise à disposition le 2 juillet 2013[^api-first-usage] Elle avait été saluée par la critique des utilisateurs.[^api-praise]
+La première version de l'osu!api a été mise à disposition le 2 juillet 2013.[^api-first-usage] Elle avait été saluée par la critique des utilisateurs.[^api-praise] Une nouvelle version de l'API, publiée plusieurs années plus tard, contient beaucoup plus de capacités.[^api-v2-2020] Le versionnage des points de terminaison est courant parmi les API web.[^web-api]
 
 ## Références
 
-[^api-first-usage]: [osu!api bêta ouverte](https://osu.ppy.sh/community/forums/posts/2403913)
-[^api-praise]: [osu!api bêta ouverte](https://osu.ppy.sh/community/forums/posts/2662247)
+[^api-first-usage]: [Forum de discussion par peppy (02/07/2013) "osu!api bêta ouverte"](https://osu.ppy.sh/community/forums/posts/2403913)
+[^api-praise]: [Post par Menshi (02/11/2013) sur "osu!api bêta ouverte"](https://osu.ppy.sh/community/forums/posts/2662247)
+[^api-v2-2020]: [Tweet de @ppy (20/03/2020)](https://twitter.com/ppy/status/1263083636363948032)
+[^web-api]: ["Web API" sur Wikipedia](https://en.wikipedia.org/wiki/Web_API)
 ```
 
 ### Notes

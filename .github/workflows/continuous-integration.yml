@@ -19,21 +19,52 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: inspect binary file sizes
+      - name: detect changed files
+        run: |
+          INTERESTING_FILES=$(
+            sort -u < <(
+              # Changes that are not committed (staged + unstaged + untracked), but without deleted files
+              git status --short -v -v --no-renames --porcelain | awk '$1 != "D" { print $2 }'
+              # Changes committed so far (may overlap with the above)
+              git diff --no-renames --name-only --diff-filter=d ${{ github.sha }}^
+            )
+          )
+
+          # https://docs.github.com/en/actions/using-workflows/workflow-commands-for-github-actions#multiline-strings
+          # XXX: env.INTERESTING_FILES will be a single string with newline delimiters.
+          DELIMITER="X${RANDOM}"
+          echo "INTERESTING_FILES<<${DELIMITER}" >> $GITHUB_ENV
+          echo "${INTERESTING_FILES}" >> $GITHUB_ENV
+          echo "${DELIMITER}" >> $GITHUB_ENV
+
+      - name: inspect file sizes
         shell: bash
-        run: bash scripts/ci/inspect_binary_file_sizes.sh ${{ github.sha }} ${{ github.sha }}
+        run: |
+          readarray -t TARGET_FILES <<< "${{ env.INTERESTING_FILES }}"
+          bash scripts/ci/inspect_file_sizes.sh --target "${TARGET_FILES[@]}"
 
       - name: set up Node.js
+        id: setup-node
         uses: actions/setup-node@v3
         with:
           cache: npm
           node-version: 16
 
+      - name: load node_modules from cache
+        id: cache-node-modules
+        uses: actions/cache@v3
+        with:
+          path: node_modules
+          key: node-modules-${{ hashFiles('package.json', 'package-lock.json') }}-${{ steps.setup-node.outputs.node-version }}
+
       - name: install remark
+        if: steps.cache-node-modules.outputs.cache-hit != 'true'
         run: npm ci
 
       - name: run remark on changed files
-        run: bash scripts/ci/run_remark.sh ${{ github.sha }}
+        run: |
+          readarray -t REMARK_TARGET_FILES <<< $( echo "${{ env.INTERESTING_FILES }}" | grep -e .md$ || true )
+          bash scripts/ci/run_remark.sh --target "${REMARK_TARGET_FILES[@]}"
 
       - name: set up Python
         uses: actions/setup-python@v4
@@ -47,7 +78,8 @@ jobs:
 
       - name: run yamllint on .yaml and .md files
         run: |
-          python scripts/ci/run_yamllint.py --config .yamllint.yaml
+          readarray -t YAMLLINT_TARGET_FILES <<< $( echo "${{ env.INTERESTING_FILES }}" | grep -e .yaml$ -e .yml$ -e .md$ || true )
+          python scripts/ci/run_yamllint.py --config .yamllint.yaml --target "${YAMLLINT_TARGET_FILES[@]}"
 
       - name: find broken wikilinks
         shell: bash
@@ -59,8 +91,8 @@ jobs:
             exit 0
           fi
 
-          ARTICLES=$( git diff --diff-filter=d --name-only ${{ github.sha }}^ ${{ github.sha }} "wiki/**/*.md" "news/*.md" )
-          osu-wiki-tools check-links --target $ARTICLES
+          readarray -t WIKILINK_TARGET_FILES <<< $( echo "${{ env.INTERESTING_FILES }}" | grep -e ^wiki/ -e ^news/ | grep .md$ || true )
+          osu-wiki-tools check-links --target "${WIKILINK_TARGET_FILES[@]}"
 
       - name: check if translations are marked as outdated
         shell: bash
