@@ -102,6 +102,37 @@ The osu! Battle Archive Malaysia 2022 is run by various community members.
 
 ## Mappools
 
+### Grand Finals
+**[Download the mappack here! (144 MB)](https://cdn.discordapp.com/attachments/959526009546346516/1034143554110500984/OBAM_2022_GRAND_FINALS.rar)**
+
+- NoMod
+  1. [Nor - Arnab dari Caerbannog (Theme 113) ([ -Scarlet- ]) \[Usamimi SRT Squad\]](https://osu.ppy.sh/beatmapsets/1871063#osu/3849591)
+  2. [Mitsukiyo - Unwelcome School (Amateurre) \[mayuwhim\]](https://osu.ppy.sh/beatmapsets/1635167#osu/3338504)
+  3. [BEMANI Sound Team "Nekomata Gekidan" - Afterimage d'automne (Lulu-) \[Decaying Foliage\]](https://osu.ppy.sh/beatmapsets/1083051#osu/2271628)
+  4. [Team Grimoire vs Sakuzyo vs Laur - Arcana Eden (Cubby) \[Judgment\]](https://osu.ppy.sh/beatmapsets/1806912#osu/3705545)
+  5. [Tatsh - IMAGE -MATERIAL- <Version 0> (Scorpiour) \[Scorpiour\]](https://osu.ppy.sh/beatmapsets/93523#osu/252238)
+  6. [Jay Chou - Piano Battle (movie ver.) (Agagak) \[Rhythm Battle (feat aim.)\]](https://osu.ppy.sh/beatmapsets/1872483#osu/3853000)
+- Hidden
+  1. [Sephid - Critical Cannonball (Extended ver.) (Mattay) \[Impact (tourney ver.)\]](https://osu.ppy.sh/beatmapsets/1814350#osu/3722071)
+  2. [Naru Hakobe (CV: M.A.O) - Neko Matsuri (cocona) \[YOISHO\]](https://osu.ppy.sh/beatmapsets/1551595#osu/3170541)
+  3. [Kikuo - Gangu Kyou Sou Kyoku -Shuuen- (egg and cheese) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1536944#osu/3142490)
+  4. [Luschka - Kami no Kotoba (aishiteiru-) \[laicepS s'naznuoJ\]](https://osu.ppy.sh/beatmapsets/1759308#osu/3600651)
+- HardRock
+  1. [Camellia - Newspapers for Magicians (Mir) \[Harmonious\]](https://osu.ppy.sh/beatmapsets/938426#osu/1960286)
+  2. [onoken - Alexandrite (iLyne) \[Chrysoberyl\]](https://osu.ppy.sh/beatmapsets/1567583#osu/3200715)
+  3. [Isekai Joucho - Replica (Smug Nanachi) \[Imitation\]](https://osu.ppy.sh/beatmapsets/1563327#osu/3192418)
+- DoubleTime
+  1. [Chata - len (Kalibe) \[emptiness\]](https://osu.ppy.sh/beatmapsets/918509#osu/1918025)
+  2. [succducc - me & u (jazzberry) \[ai\]](https://osu.ppy.sh/beatmapsets/1503621#osu/3080545)
+  3. [M2U - Gypsy Tronic (LKs) \[Insane\]](https://osu.ppy.sh/beatmapsets/61590#osu/183460)
+  4. [xi - Ascension to Heaven (-Tynamo) \[Nagatoro's Insane\]](https://osu.ppy.sh/beatmapsets/968656#osu/2061330)
+- DoubleTime + HardRock
+  1. [Yorushika - 8/31 (renzthegreat) \[Track 1: Shashou\]](https://osu.ppy.sh/beatmapsets/1769074#osu/3621409)
+- FreeMod
+  1. [Rohi - LvC3 (hanabyte) \[Hana\]](https://osu.ppy.sh/beatmapsets/1747140#osu/3573741)
+  2. [the wandering bard feat. Shikata Akiko - Catastrophic Dance (too) \[MSS'21 December #5\]](https://osu.ppy.sh/beatmapsets/1658846#osu/3386059)
+  3. [Tsukumonemu - All I Am is Bad (Caspar) \[Yelling Maiden\]](https://osu.ppy.sh/beatmapsets/1331683#osu/2759007)
+
 ### Finals
 
 **[Download the mappack here! (135 MB)](https://cdn.discordapp.com/attachments/959526009546346516/1031606942449270935/OBAM_2022_Finals_.rar)**
@@ -265,6 +296,27 @@ The osu! Battle Archive Malaysia 2022 is run by various community members.
   3. [Suara - Nuedori (VINXIS) \[emilia's Heavy Insane\]](https://osu.ppy.sh/beatmapsets/1143697#osu/2479193)
 
 ## Match results
+
+### Finals
+
+Saturday, 22 October 2022:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | Vanity | 0 | **7** | **ENERGY GAP** | *win by default* |
+
+Sunday, 23 October 2022:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **RUDOLF ENJOYERS** | **7** | 3 | Anti-Cunny Action | [#1](https://osu.ppy.sh/community/matches/104605052) |
+| Lower | ENERGY GAP | 0 | **7** | **RUDOLF ENJOYERS** | [#1](https://osu.ppy.sh/community/matches/104606818) |
+
+Monday, 24 October 2022:
+
+| Bracket | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **Miyu Archive** | **7** | 5 | Diggas in paris | [#1](https://osu.ppy.sh/community/matches/104628020) |
 
 ### Semifinals
 
