@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 203a715b0188784607756ebee4cd0a3daa7ddf3d
 ---
 
 # 禁言

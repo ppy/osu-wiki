@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 203a715b0188784607756ebee4cd0a3daa7ddf3d
+---
+
 # Silence
 
 ***Silence*** merupakan bentuk hukuman di osu! yang membatasi kemampuan seorang pengguna untuk dapat berkomunikasi dengan anggota-anggota komunitas lainnya. Hukuman ini dijatuhkan oleh anggota [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) dan [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) kepada para pengguna yang telah terbukti melanggar [peraturan komunitas](/wiki/Rules) yang berlaku.
