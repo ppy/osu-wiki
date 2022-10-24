@@ -102,6 +102,7 @@ La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la
 | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) | Indonésien | Modération du tchat |
 | ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) | Français | Modération du tchat |
 | ::{ flag=BR }:: [Nukrid](https://osu.ppy.sh/users/2307484) | Portugais, espagnol | Modération du tchat |
+| ::{ flag=NL }:: [Uni](https://osu.ppy.sh/users/617106) | Néerlandais | Modération du tchat |
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | Allemand | Modération de la communauté modding/mapping |
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | Allemand, serbe | Modération du tchat, modération de la communauté modding/mapping |
 | ::{ flag=PH }:: [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Philippin | Modération du tchat |
@@ -143,7 +144,7 @@ La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la
 | `#cantonese` |  | ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326), ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) |
 | `#chinese` | [中文](https://osu.ppy.sh/community/forums/25) | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419), ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326), ::{ flag=TW }:: [Loneight](https://osu.ppy.sh/users/663131), ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729), ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) |
 | `#czechoslovak` |  |  |
-| `#dutch` | [Nederlands](https://osu.ppy.sh/community/forums/69) |  |
+| `#dutch` | [Nederlands](https://osu.ppy.sh/community/forums/69) | ::{ flag=NL }:: [Uni](https://osu.ppy.sh/users/617106) |
 | `#english` |  | *Tous les modérateurs* |
 | `#filipino` | [Tagalog](https://osu.ppy.sh/community/forums/76) | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078), ::{ flag=PH }:: [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210), ::{ flag=KR }:: [ToGlette](https://osu.ppy.sh/users/1076236), ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927) |
 | `#finnish` | [Suomi](https://osu.ppy.sh/community/forums/24) | ::{ flag=FI }:: [Laurakko](https://osu.ppy.sh/users/7253731) |
