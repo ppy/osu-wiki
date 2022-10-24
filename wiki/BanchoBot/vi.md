@@ -31,14 +31,14 @@ Nếu một người dùng thường gửi lệnh đến kênh chat công khai, 
 
 Danh sách các lệnh của BanchoBot có thể tìm thấy bên dưới:
 
-- [Trợ giúp](#trợ-giúp)
-- [Quay số](#quay-số)
-- [Thống kê](#thống-kê)
-- [Ở đâu](#ở-đâu)
+- [Help](#help)
+- [Roll](#roll)
+- [Stats](#stats)
+- [Where](#where)
 - [FAQ](#faq)
-- [Báo cáo](#báo-cáo)
+- [Report](#report)
 
-### Trợ giúp
+### Help
 
 ```
 !help
@@ -61,7 +61,7 @@ Danh sách các lệnh của BanchoBot có thể tìm thấy bên dưới:
 
 *Lưu ý: Lệnh `!request` không còn được hỗ trợ bởi BanchoBot.*
 
-### Quay số
+### Roll
 
 ```
 !roll <argument>/<number>
@@ -79,7 +79,7 @@ Danh sách các lệnh của BanchoBot có thể tìm thấy bên dưới:
 13:01 BanchoBot: pippi rolls 75 point(s)
 ```
 
-### Thống kê
+### Stats
 
 ```
 !stats <tên người dùng>
@@ -105,7 +105,7 @@ Có tất cả 7 trạng thái mà lệnh `!stats` có thể hiển thị: Editi
 13:01 BanchoBot: Accuracy: 87.13%
 ```
 
-### Ở đâu
+### Where
 
 ```
 !where <tên người dùng>
@@ -140,7 +140,7 @@ Có tất cả 7 trạng thái mà lệnh `!stats` có thể hiển thị: Editi
 13:04 BanchoBot: Умещайте свои мысли в меньшее количество строк, чтобы не получить сайленс.
 ```
 
-### Báo cáo
+### Report
 
 *Để biết thêm thông tin về những việc đáng để báo cáo, xem [Báo cáo hành vi xấu](/wiki/Reporting_bad_behaviour).*
 
