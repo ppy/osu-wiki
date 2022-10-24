@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 203a715b0188784607756ebee4cd0a3daa7ddf3d
+---
+
 # Stummschaltung
 
 **Stummschaltung** (auch *Silence* genannt) ist ein Begriff, um die Bestrafung zu beschreiben, bei der einem Spieler die Kommunikation innerhalb der osu!-Community verwehrt wird. Stummschaltungen können durch Mitglieder des [Globalen Moderationsteams](/wiki/People/The_Team/Global_Moderation_Team) und des [Nomination Assessment Teams](/wiki/People/The_Team/Nomination_Assessment_Team) festgelegt werden und werden nur für Spieler aufgestellt, die gegen die [Community-Regeln](/wiki/Rules) verstoßen haben.
@@ -18,7 +23,7 @@ Nutzer, die von Moderatoren stumm geschaltet werden, können folgende Dinge nich
 - Beatmaps einreichen und aktualisieren
 - An [Mehrspieler](/wiki/Multi)-Spielen teilnehmen
 
-Zusätzlich zu dem werden alle Nachrichten eines stumm geschalteten Spielers aus allen Chat-Kanälen und privaten Konversationen entfernt [[1]](https://blog.ppy.sh/post/38114063519/this-week-in-osu-5).
+Zusätzlich zu dem werden alle Nachrichten eines stumm geschalteten Spielers aus allen Chat-Kanälen und privaten Konversationen entfernt.[^chat-cleanup]
 
 ::: Infobox
 ![](img/silence-ingame.png "Warnung der Stummschaltung im Chat")
@@ -38,3 +43,7 @@ Wenn du glaubst, mit Unrecht stumm geschaltet worden zu sein, dann kontaktiere d
 - Unangemessene Inhalte über andere Wege hochladen oder bereitstellen. (Z. B. Profilavatare, Einreichungen von Beatmaps, Profildetails, Banner, etc.).
 
 Die Länge einer Stummschaltung hängt von dem Schweregrad des Verstoßes ab. Weitere Stummschaltungen können ergänzt werden, wobei jede davon mehr Zeit hinzufügt. Bitte bedenke, dass wenn ein Verstoß schwerwiegend genug ist, oder ein Spieler ein Wiederholungstäter ist, es zu einer [Einschränkung des Accounts](/wiki/Help_centre/Account_restrictions) anstatt einer Stummschaltung führen kann.
+
+## Referenzen
+
+[^chat-cleanup]: [Blog post by ppy (2012-12-17) "This Week in osu!"](https://blog.ppy.sh/post/38114063519/this-week-in-osu-5)
