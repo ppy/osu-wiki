@@ -23,7 +23,7 @@ intro section
 
 ## Community recap
 
-<!--- BANNER HERE -->
+![](/wiki/shared/news/2022-11-01-osu-monthly-4/egts22banner.jpg)
 
 If you haven't already heard, [EGTS](https://osu.ppy.sh/community/forums/topics/1612291?n=1) is an osu!taiko tournament hosted by [_yosh](https://osu.ppy.sh/users/7157133), [TaikoMom](https://osu.ppy.sh/users/9086438), [Briesmas](https://osu.ppy.sh/users/2865172), and [Kasumi-sama](https://osu.ppy.sh/users/6177263). It is considered to be the host to some of the highest level of tournament play in osu!taiko, featuring fully custom songs throughout the mappool and a fully custom pool of charts. Speaking of custom songs, the [grand-finals tiebreaker](https://osu.ppy.sh/beatmapsets/1859338#taiko/3822143) for the tournament is an amazing collaboration featuring help from all corners of the taiko community with 10 artists, 22 mappers, and many others.
 
@@ -101,7 +101,7 @@ Some other notable plays this month include [shinchikuhome](https://osu.ppy.sh/u
 
 Since 2012 and until very recently, the longest osu! ranked map was [Armin](https://osu.ppy.sh/users/105902)'s set on [The Unforgiving](https://osu.ppy.sh/beatmapsets/29157#osu/156352) by Within Temptation, with a total drain time of 45 minutes. But this long kept record has been beaten recently by [Nokduro](https://osu.ppy.sh/users/2998248) and his osu!taiko set on [DigitalOffline0011 Hayakore Tatsumi](https://osu.ppy.sh/beatmapsets/1860299#taiko/3824509) by Hayakore Tatsumi, which contains 57 minutes of drain time.
 
-However, if we also include loved maps, [Nana Party](https://osu.ppy.sh/beatmapsets/750284#taiko/1904970) by Nanahira, mapped by [katacheh](https://osu.ppy.sh/users/6651672) is the longest map of osu! with a total of 2:58:17 minutes of drain time.
+However, if we also include loved maps, [Nana Party](https://osu.ppy.sh/beatmapsets/750284#taiko/1904970) by Nanahira, mapped by [katacheh](https://osu.ppy.sh/users/6651672) is the longest map of osu! with a total of 178 minutes of drain time.
 
 ## Monthly community quiz
 
