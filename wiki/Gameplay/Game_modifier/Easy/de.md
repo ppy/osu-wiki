@@ -30,11 +30,11 @@ tags:
 
 ## Beschreibung
 
-Die Mod **Easy** ist eine [Spielmodifikation](/wiki/Game_modifier), die versucht, die Schwierigkeit einer [Beatmap](/wiki/Beatmap) zu erleichtern. Dies soll durch die Halbierung aller Schwierigkeitseinstellungen der selektierten Beatmap erreicht werden.
+Die Mod **Easy** ist eine [Spielmodifikation](/wiki/Game_modifier), die versucht, die Schwierigkeit einer [Beatmap](/wiki/Beatmap) zu verringern. Dies soll durch die Halbierung aller Schwierigkeitseinstellungen der selektierten Beatmap erreicht werden.
 
 In allen [Spielmodi](/wiki/Game_mode) außer [osu!taiko](/wiki/Game_mode/osu!taiko) gewährt die Mod Easy dem Spieler zwei zusätzliche "Leben" während eines Spiels, wenn die [Lebensleiste](/wiki/Client/Interface/Health_bar) auf Null fällt. Sofern das geschieht, pausiert das Spiel, um die Lebensleiste langsam wieder zu etwa 80 % zu füllen und ein "Leben" vom Spieler zu entnehmen. Während diesem Effekt wird kein Sound abgespielt.
 
-Die Befüllung wird dem Spieler mit dem Ready-Sound (`readysound.wav`) signalisiert. Sobald die Lebensleiste aufgefüllt ist, wird dem Spieler erneut ein Signal gegeben, aber mit dem Go-Sound (`gosound.wav`). Danach wird das Spiel fortgesetzt und der Spieler kann auf der Beatmap fortfahren. Wenn der Spieler keine Leben mehr übrig hat und die Lebensleiste auf Null gesunken ist, wird das Spiel wird wie üblich scheitern.
+Die Befüllung wird dem Spieler mit dem Ready-Sound (`readysound.wav`) signalisiert. Sobald die Lebensleiste aufgefüllt ist, wird dem Spieler erneut ein Signal gegeben, aber mit dem Go-Sound (`gosound.wav`). Danach wird das Spiel fortgesetzt und der Spieler kann auf der Beatmap fortfahren. Wenn der Spieler keine Leben mehr übrig hat und die Lebensleiste auf Null gesunken ist, wird das Spiel wie üblich scheitern.
 
 ### osu!
 
@@ -44,7 +44,7 @@ In [osu!](/wiki/Game_mode/osu!) verringert die Mod Easy die [Circle-Size (CS)](/
 
 Allerdings ist es erwähnenswert, dass viele Spieler die Verwendung der Mod Easy nicht als hilfreich empfinden, um den relativen Schwierigkeitsgrad von Beatmaps zu verringern, insbesondere welche mit hoher Intensität. Das Argument hierfür lautet, dass die verringerte Approach-Rate eine unübersichtliche, schwer zu lesende Situation schafft, bei der die tatsächliche Geschwindigkeit der Beatmap visuell nicht sehr gut widergespiegelt wird (oben abgebildet).
 
-*Anmerkung: Die oben genannten Punkte werden in der Feature-Anfrage "[Let's talk Easy Mod](https://osu.ppy.sh/community/forums/topics/56606)" näher ausgeführt, um die Mod zu verbessern.*
+*Anmerkung: Die oben genannten Punkte werden in der Feature-Anfrage "[Let's talk Easy Mod](https://osu.ppy.sh/community/forums/topics/56606)", um die Mod zu verbessern, näher ausgeführt.*
 
 ### osu!taiko
 
