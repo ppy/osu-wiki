@@ -3,6 +3,7 @@ tags:
   - nominations
   - nom
   - noms
+  - bubble
   - heart
 ---
 
@@ -14,7 +15,7 @@ tags:
 ![](img/nomination-progress-beatmapset1857663.png "Beatmap ranking status displayed on the discussion page, with hype and nomination progress bars partially filled.")
 :::
 
-A **nomination** is a formal vote of approval coming from [beatmap nominators](/wiki/People/The_Team/Beatmap_Nominators) (BN) or members of the [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (NAT), which indicates a beatmap's readiness to become [ranked](/wiki/Beatmap/Category#ranked). It is given to completed beatmaps of sufficient quality that follow the [ranking criteria](/wiki/Ranking_Criteria) and have 5 or more [hypes](/wiki/Beatmap/Hype).
+A **nomination** is a formal vote of approval coming from [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (BN) or members of the [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (NAT), which indicates a beatmap's readiness to become [ranked](/wiki/Beatmap/Category#ranked). It is given to completed beatmaps of sufficient quality that follow the [Ranking Criteria](/wiki/Ranking_Criteria) and have 5 or more [hypes](/wiki/Beatmap/Hype).
 
 Beatmaps that receive two nominations per each available [game mode](/wiki/Game_mode) are "[qualified](/wiki/Beatmap/Category#qualified)" and enter the [beatmap ranking queue](/wiki/Beatmap_ranking_procedure/Ranking_queue), where they stay for at least 7 days for further inspection. If no critical issues are found, beatmaps are then moved to the Ranked category and receive their own [leaderboards](/wiki/Ranking).
 
