@@ -21,6 +21,24 @@ intro section
 
 ## What's new in osu!(lazer)
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/zOJKWJA-vog" frameborder="0" allowfullscreen></iframe>
+
+It may be the spookiest month of the year, but the osu! dev team has stayed calm and collected and delivered an impressive amount of updates.
+
+**Cursor smoke trails are back!** Feel free to show us your drawings in the comments, if you so please. In other news, the leaderboards are finally visible during solo play, lazer has once again received adjustments in order to match stable and make lazer "feel" the same as stable. Things such as the flashlight radius during gameplay and break periods have been adjusted, the hit object dim has been hidden as well as the approach circles once the circle has been hit. The slider ticks also received adjustments due to them showing up too late in lazer, which contributed to a different "feel" of lazer.
+
+Thew new argon skin received several updates and has also been implemented for mania, with the aim of all game modes being supported in the near future. On the topic of skins, the "longest combo" counter has been added to the combo HUD components, so now you will be able to track your longest combo even without having the leaderboard visible.
+
+Lots of updates occured this month for the editor, such as the addition of the updated visuals for the settings, which should roughly match the newer lazer design language. Visual updates aside, [Olibomby](https://osu.ppy.sh/users/6573093) found an edgecase issue with their slider stream conversion, causing it to put the last circle at the beginning of the slider, which was incorrect. [ekrctb](https://github.com/ekrctb) contributed multiple changes to the editor, some of them being the catch editor having an adjustable height (so more fruits can be visible at the same time) and the time-based selections have been improved, meaning that no matter the speed at which you are scrolling through the editor, all objects will be selected.
+
+One thing you might've not known is that osu!(lazer) has implemented full tablet support without any drivers necessary! This means that tablets are fully plug & play with lazer, not requiring you to download any official or 3rd party drivers in order to be able to change your aspect ratio or your area size. While osu!(lazer) does not have plugin support for tablet drivers as some 3rd party drivers do, this is currently the fastest and easiest way to set up a tablet for osu!
+
+<div align="center">
+    <video width="100%" controls>
+        <source src="https://assets.ppy.sh/media/osu-monthly/2022-10/tablet-support.mp4" type="video/mp4" preload="none">
+    </video>
+</div>
+
 ## Community recap
 
 ![](/wiki/shared/news/2022-11-01-osu-monthly-4/egts22banner.jpg)
@@ -105,9 +123,11 @@ However, if we also include loved maps, [Nana Party](https://osu.ppy.sh/beatmaps
 
 ## Monthly community quiz
 
+Ready, TBA
+
 ## Things to look out for in November
 
 ## End word
 
 
-—Pisapou
+—0x84f, _gt, ianpep, Pisapou
