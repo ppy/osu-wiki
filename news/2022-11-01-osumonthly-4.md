@@ -115,6 +115,12 @@ Some other notable plays this month include [shinchikuhome](https://osu.ppy.sh/u
 
 *Section written by..*
 
+[ExGon](https://osu.ppy.sh/users/214187) has gone out of the shadows once again and set what might be one of the most meta-breaking plays of the whole game, getting an HRFL SS on the top diff of [ded_ED](https://osu.ppy.sh/beatmapsets/1705910#fruits/3800941), a 30 seconds CS 9.1 AR 0 map maxed out with the tightest jumps you can imagine, we heavily recommend watching the replay as there are very few plays in the game like this one.
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/WtUCel2sChA" frameborder="0" allowfullscreen></iframe>
+
+Don't let this play steal all the spotlight, as we have seen more crazy scores this month, like the [first S rank](https://osu.ppy.sh/scores/fruits/209751344) on the top difficulty of [HUG & KILL](https://osu.ppy.sh/beatmapsets/1687036#fruits/3451294) set by [Motion](https://osu.ppy.sh/users/3885626/fruits), dominating one of the fastest maps in catch the beat, or the first ever [EZDT FC](https://osu.ppy.sh/scores/fruits/209892502) on [Caliburne ~Story of the Legendary sword~](https://osu.ppy.sh/beatmapsets/625881#fruits/1319335), worth 650pp, set once again by [ExGon](https://osu.ppy.sh/users/214187), being the second highest performance rating ever achieved with this mod combination.
+
 ## Did you know?
 
 Since 2012 and until very recently, the longest osu! ranked map was [Armin](https://osu.ppy.sh/users/105902)'s set on [The Unforgiving](https://osu.ppy.sh/beatmapsets/29157#osu/156352) by Within Temptation, with a total drain time of 45 minutes. But this long kept record has been beaten recently by [Nokduro](https://osu.ppy.sh/users/2998248) and his osu!taiko set on [DigitalOffline0011 Hayakore Tatsumi](https://osu.ppy.sh/beatmapsets/1860299#taiko/3824509) by Hayakore Tatsumi, which contains 57 minutes of drain time.
@@ -126,6 +132,9 @@ However, if we also include loved maps, [Nana Party](https://osu.ppy.sh/beatmaps
 Ready, TBA
 
 ## Things to look out for in November
+
+- After twelve editions of the [osu! World Cup](https://osu.ppy.sh/wiki/en/Tournaments/OWC), the [thirteenth iteration](https://osu.ppy.sh/wiki/en/Tournaments/OWC/2022) is taking place right now until the end of November. Don't miss the biggest official tournament of the year, the matches of which you can find on the official [twitch channel](https://www.twitch.tv/osulive)!
+- You are an osu!taiko mapper and want to show your talent to the whole community by mapping featured artist music? Then don't waste a second and take a look at the [osu!taiko Featured Artist Cup](https://osu.ppy.sh/home/news/2022-10-23-osutaiko-featured-artist-cup-3), the biggest osu!taiko mapping showdown of the year!
 
 ## End word
 
