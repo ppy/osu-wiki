@@ -5,6 +5,8 @@ tags:
   - Ranking Charts
   - 季赛
   - 月赛
+outdated_translation: true
+outdated_since: 798269cfe9f0515e267a7f8a122b28fdff0aaf05
 ---
 
 # 聚光灯

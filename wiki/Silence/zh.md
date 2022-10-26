@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 203a715b0188784607756ebee4cd0a3daa7ddf3d
 ---
 
 # 禁言
@@ -22,7 +24,7 @@ no_native_review: true
 - 提交或更新地图
 - 参与[多人游戏](/wiki/Client/Interface/Multiplayer)
 
-并且，被禁言用户的所有公共和私聊消息都会被移除[[1]](https://blog.ppy.sh/post/38114063519/this-week-in-osu-5)。
+并且，被禁言用户的所有公共和私聊消息都会被移除。[^chat-cleanup]
 
 ::: Infobox
 ![](img/silence-ingame.png "聊天页面的禁言警告")
@@ -42,3 +44,7 @@ no_native_review: true
 - 通过其他方式发布不适宜的内容（例如头像，谱面，用户页详情，个人介绍和用户页头图等）。
 
 禁言的时间由违规的严重程度而定，且可以累加。请特别注意若违规非常严重，或屡次违规，可能会受到[账号限制](/wiki/Help_centre/Account_restrictions)处罚，而非禁言。
+
+## 参考文献
+
+[^chat-cleanup]: [Blog post by ppy (2012-12-17) "This Week in osu!"](https://blog.ppy.sh/post/38114063519/this-week-in-osu-5)
