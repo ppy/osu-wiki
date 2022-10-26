@@ -136,7 +136,7 @@ The GB Cup 2022 Autumn is run by the Team GB and various community members.
 
 ### Regular stage week 1 & 2
 
-**[Download the mappack here (160.84 MB)](https://drive.google.com/file/d/1RYMCSNJOp6_evL9W_JVnqTYzylYZ5mbF/view)**
+**[Download the mappack here (131.7 MB)](https://drive.google.com/file/d/1U8nbQ17vZDR3Tr2gN2W0y9UU0AGH68sy/)**
 
 - Rice
   1. [vierre cloud - moment (Vortex-) \[level 0\]](https://osu.ppy.sh/beatmapsets/1795035#mania/3679242)
