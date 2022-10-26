@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New Featured Artists: Hinkik"
+title: "New Featured Artist: Hinkik"
 date: 2022-10-26 10:00:00 +0000
 ---
 
