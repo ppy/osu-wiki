@@ -110,6 +110,8 @@ The GB Cup 2022 Autumn is run by the Team GB and various community members.
 
 | Team A | Team B | Match time (UTC+8) |
 | --: | :-- | :-- |
+| 铁戈金马 | 队名太多不知道用哪个 | Oct 29 (Sat) 18:00  |
+| 我屙屎精灵我交泥如活打屙 | 上课军训补课反正凑不齐人 | Oct 29 (Sat) 19:00  |
 | 俄亥俄州立大学躁狂播放器 | 奖励一把大天空 | Oct 29 (Sat) 19:00 |
 | BMS精灵 | 近月少女的礼仪 | Oct 29 (Sat) 19:30 |
 | 都什么年代还在玩传统音游 | 猫猫面馆 | Oct 29 (Sat) 20:30 |
@@ -124,13 +126,6 @@ The GB Cup 2022 Autumn is run by the Team GB and various community members.
 | --: | :-- | :-- |
 | 你说的队 | ban位先ban行李箱 | Oct 30 (Sun) 16:00 |
 | 素鲍小馆丸子面条铺 | 经典米托镂空鱼香鸡肉丸 | Oct 30 (Sun) 16:00 |
-
-### To be determined
-
-| Team A | Team B | Match time (UTC+8) |
-| --: | :-- | :-- |
-| 铁戈金马 | 队名太多不知道用哪个 | *TBD* |
-| 我屙屎精灵我交泥如活打屙 | 上课军训补课反正凑不齐人 | *TBD* |
 
 ## Mappools
 
