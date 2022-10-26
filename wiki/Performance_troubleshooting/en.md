@@ -10,7 +10,7 @@ Unfortunately, due to the scope of hardware which osu! runs on, it's very hard t
 - Is your frame limiter set to `Unlimited`? Set it to `Optimal` and see if it helps. See [its section below](#unlimited) for more information on why `Unlimited` is usually not the best choice.
 - Are you running windowed? Switch to fullscreen.
 - Have you updated your drivers (especially GPU)? Try doing so and see if things improve. Alternatively, if you recently updated them, try rolling back.
-- Are you using a hybrid graphics setup (where the dedicated GPU renders the game and the integrated GPU displays the screen)? If so, try running the game on either only integrated GPU or only dedicated GPU (by using a mux switch if available, or by using an external display).
+- Are you using a hybrid graphics setup, where a dedicated GPU renders the game and an integrated GPU displays the screen? If so, try running the game on only one of them. For running the game only on the dedicated GPU, you can use a MUX switch if available, or you can connect the computer to an external display.
 
 ## The types of "lag"
 
