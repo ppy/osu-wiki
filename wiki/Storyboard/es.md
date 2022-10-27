@@ -1,17 +1,18 @@
 ---
-outdated_translation: true
+no_native_review: true
 ---
 
-# Storyboards
+# Guion gráfico
 
-***Artículo original aquí***
+![](img/Sbpassing.png "Esta escena se muestra mientras se reproduce Walkie Talkie Man; sin embargo, solo se muestra cuando obtienes un Elite Beat 300")
+![](img/Sbfailing.png "Esto se muestra cuando perdiste u obtuviste un 50 en el combo jugado anteriormente")
 
-El **Storyboard** (SB) es un fondo animado, hecho a medida en las resoluciones de 640x480 ó 1366x768 (por la reciente llegada de storyboarding en pantalla panorámica) que acompaña a un beatmap. Normalmente se ocupa para propósitos decorativos pero en algunos casos puede cambiar la experiencia de juego. Un storyboard puede estar compuesto por cualquier cosa, pero normalmente consiste de un conjunto de efectos visuales para hacer que el beatmap se vea estéticamente más agradable y distintivo para los jugadores. Los storyboards están inspirados de los fondos animados de Osu! Tatakae! Ouendan. Es posible ajustar el Storyboard según al rendimiento del jugador y mostrar diferentes cosas dependiendo de si el jugador falla o acierta. Los storyboards se guardan en archivos con la extensión de ".osb".
+Un **storyboard** (SB) es un fondo animado personalizado que acompaña a un [beatmap](/wiki/Beatmap), a menudo con fines decorativos y, a veces, para jugar. Un guion gráfico puede estar compuesto de casi cualquier cosa, pero por lo general consisten en efectos visuales diseñados para hacer que un mapa sea más agradable, estéticamente y distintivo para los usuarios. Los guiones gráficos están inspirados en los fondos animados que se encuentran en [Osu! Tatakae! Ouendan](/wiki/Disambiguation/Ouendan). Al igual que su inspiración, los guiones gráficos pueden ajustarse al rendimiento del jugador en el juego y mostrar diferentes cosas según lo bien que lo esté haciendo el jugador.
 
-Crear un Storyboard normalmente es difícil y requiere de una considerable cantidad tiempo y experiencia en animación y creación de gráficos.
+Los guiones gráficos se almacenan en carpetas de beatmaps como [archivos `.osb`](/wiki/osu!_File_Formats/Osb_(file_format)) independientes o como extensiones de la sección `[Events]` de un [archivo `.osu`](/wiki/osu!_File_Formats/Osu_(file_format)). Debido a esto, es posible crear diferentes guiones gráficos para las dificultades dentro de un [beatmap](/wiki/Beatmap).
 
-## Creando un storyboard
+## Storyboarding
 
-El Editor de Storyboards (SBE, por sus siglas en inglés) está localizado en la pestaña que dice "Design" (o presionando el atajo del teclado F2). Fundamentalmente, el SBE ofrece a los jugadores una forma fácil para controlar movimientos simples de los elementos, pero es normalmente considerado como torpe e inutilizable para cualquier cosa más allá de lo básico de un storyboard. Si se quisiera crear un storyboard de pantalla panorámica, habría que activar la opción "Widescreen Support" en el "Song Setup Dialog".
+*Artículo principal: [Scripting de guiones gráficos](/wiki/Storyboard/Scripting)*
 
-Jugadores más hábiles en la creación de storyboards normalmente usan el "backend code" creado por el SBE, titulado Storyboard Scripting (SBS), pues les permite más control.
+*Storyboarding* es el proceso de hacer un guion gráfico, donde la persona detrás del proceso se llama *storyboarder*. La creación de guiones gráficos suele ser muy difícil y requiere un tiempo y una experiencia considerables en animación estándar y creación de gráficos. osu! ofrece un [editor incorporado](/wiki/Client/Beatmap_editor/Design) dentro del [editor de beatmaps](/wiki/Client/Beatmap_editor) para ayudar en la creación de guiones gráficos, aunque la mayoría de los guionistas ávidos optan por programar a través de [scripting de guiones gráficos](/wiki/Storyboard/Scripting) directamente. Muchos creadores eligen escribir programas en lenguajes de programación completos para generar scripts de guiones gráficos, porque los efectos visuales complejos pueden requerir una gran cantidad de código de guion gráfico para producirlos.

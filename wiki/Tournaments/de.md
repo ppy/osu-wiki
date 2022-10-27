@@ -383,6 +383,12 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | [Ulat Bulu Cup 2020](UCUP/2020) | 02.06.2020 | 12.07.2020 | awan fanclub | Press 3 Fs to pay respects | terserah |
 | [Ulat Cup 2021](UCUP/2021) | 13.09.2021 | 31.10.2021 | Rushia | Surtr S3 | L9 Hamster |
 
+#### Vin-Tana Solo Showdown
+
+| Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Vin-Tana Solo Showdown](VTSS/1) | 26.09.2021 | 28.11.2021 | ::{ flag=GB }:: [Sspannish](https://osu.ppy.sh/users/11418478) | ::{ flag=US }:: [Geag](https://osu.ppy.sh/users/16052525) | ::{ flag=JP }:: [skit\_3980](https://osu.ppy.sh/users/19514272) |
+
 #### Yaz's Summer Cup
 
 | Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
@@ -462,7 +468,7 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | [Squad Global Taiko Showdown 2021](GTS/SGTS_2021) | 08.01.2022 | 20.02.2022 | おまかせ | Ham | 皇-SUMERAGI- |
 | [Intermediate Global Taiko Showdown 2022](GTS/IGTS_2022) | 26.03.2022 | 08.05.2022 | ::{ flag=JP }:: Japan A | ::{ flag=HK }:: Hong Kong | ::{ flag=US }:: Vereinigte Staaten B |
 | [Advanced Global Taiko Showdown 2022](GTS/AGTS_2022) | 28.05.2022 | 10.07.2022 | ::{ flag=MY }:: Malaysia | ::{ flag=CN }:: China A | ::{ flag=KR }:: Südkorea |
-| [Expert Global Taiko Showdown 2022](GTS/EGTS_2022) | 13.08.2022 | 09.10.2022 | - | - | - |
+| [Expert Global Taiko Showdown 2022](GTS/EGTS_2022) | 11.08.2022 | 09.10.2022 | ::{ flag=JP }:: [Seren58](https://osu.ppy.sh/users/15252950) | ::{ flag=JP }:: [Grape\_Tea](https://osu.ppy.sh/users/9540073) | ::{ flag=DE }:: [Minekuchi](https://osu.ppy.sh/users/9584873) |
 
 #### North & South American Taiko Tournament
 
