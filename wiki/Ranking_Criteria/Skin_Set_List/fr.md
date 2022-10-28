@@ -9,6 +9,7 @@ Les noms des fichiers qui contiennent `{-n}` ou `{n}` peuvent être animés à l
 ## osu!
 
 Liste des éléments de skin : [Skinning du mode osu!](/wiki/Skinning/osu!)
+
 ### Set du curseur
 
 L'ensemble de ce skin set est pertinent pour le gameplay.
