@@ -157,4 +157,4 @@ Ready, TBA
 
 Thank you for sticking along with us for the 4th edition of osu!monthly. We hope you are satisfied with the amount and quality of content we deliver, and if you are not we expect for you to let us know in the comments. The osu!monthly team wishes you a happy Halloween and all of the upcoming holidays, no matter where you are!
 
-—0x84f, _gt, ianpep, Pisapou
+—0x84f, ianpep, Pisapou
