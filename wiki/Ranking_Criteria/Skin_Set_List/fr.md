@@ -96,7 +96,7 @@ Veuillez noter que les tailles recommandées pour tous les éléments de ce jeu 
 
 ### Set des spinners
 
-osu! a deux styles de spinners, dont un seul peut être utilisé dans un skin en même temps. L'utilisation d'éléments exclusifs des deux styles n'est **pas autorisé**: si des éléments des deux styles sont présents, l'ancien style aura la priorité.
+osu! a deux styles de spinners, dont un seul peut être utilisé dans un skin en même temps. L'utilisation d'éléments exclusifs des deux styles n'est **pas autorisé** : si des éléments des deux styles sont présents, l'ancien style aura la priorité.
 
 Le nouveau style de spinner ne fonctionnera que si le skin spécifique à l'utilisateur n'utilise pas l'ancien style et prend en charge les versions de skin 2 ou supérieures, ou si le skin par défaut est forcé par la beatmap.
 
