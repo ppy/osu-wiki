@@ -4,11 +4,16 @@ title: "osu!monthly, October 2022"
 date: 2022-11-01 00:00:00 +0000
 ---
 
-PUT WEBSITE TEASER HERE
+BOO! Did we get ya? No? Oh well, we still have the monthly news that you can read through to catch up with the community.
 
-![](/wiki/shared/news/2022-11-01-osu-monthly-4/banner.jpg)
+![](/wiki/shared/news/2022-11-01-osumonthly-4/banner.jpg)
 
-intro section
+Welcome to the 4th edition of osu!monthly, now with a new halloween themed banner (thank you [Hubz](https://osu.ppy.sh/users/10379965))!
+
+While we are all currently focused on the osu! World Cup, I feel like it'd be good to take a look back at the month of October and see what else has been happening around the community. That being said, the world cup will be covered in great detail next month.
+
+If you want to contribute feel free to reach out! You can find us over at the [osu!dev Discord server](https://discord.com/invite/ppy), or you can reach out to 0x84f#0001 on Discord.
+Enjoy!
 
 ## Table of contents
 
@@ -41,7 +46,7 @@ One thing you might've not known is that osu!(lazer) has implemented full tablet
 
 ## Community recap
 
-![](/wiki/shared/news/2022-11-01-osu-monthly-4/egts22banner.jpg)
+![](/wiki/shared/news/2022-11-01-osumonthly-4/egts22banner.jpg)
 
 If you haven't already heard, [EGTS](https://osu.ppy.sh/community/forums/topics/1612291?n=1) is an osu!taiko tournament hosted by [_yosh](https://osu.ppy.sh/users/7157133), [TaikoMom](https://osu.ppy.sh/users/9086438), [Briesmas](https://osu.ppy.sh/users/2865172), and [Kasumi-sama](https://osu.ppy.sh/users/6177263). It is considered to be the host to some of the highest level of tournament play in osu!taiko, featuring fully custom songs throughout the mappool and a fully custom pool of charts. Speaking of custom songs, the [grand-finals tiebreaker](https://osu.ppy.sh/beatmapsets/1859338#taiko/3822143) for the tournament is an amazing collaboration featuring help from all corners of the taiko community with 10 artists, 22 mappers, and many others.
 
@@ -55,15 +60,15 @@ Congratulations to the podium winners of this tournament as well! If you want to
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | [Grape_Tea](https://osu.ppy.sh/users/9540073) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | [Minekuchi](https://osu.ppy.sh/users/9584873) |
 
-![](/wiki/shared/news/2022-11-01-osu-monthly-4/improvement-month-banner.jpg)
+![](/wiki/shared/news/2022-11-01-osumonthly-4/improvement-month-banner.jpg)
 
-Set up by the [osu! University](/wiki/Community/Discord_servers/osu%21_University), the [osu! improvement month](https://osu.ppy.sh/community/forums/topics/1649135?n=1) is a big event that stretched over the whole month of October and during many activities took place such as interviews of top players, King of the Hill, randomized squads of 8, and many others programs in order to gather the osu! community around a common project: getting better. 
+Set up by the [osu! University](/wiki/Community/Discord_servers/osu%21_University), the [osu! improvement month](https://osu.ppy.sh/community/forums/topics/1649135?n=1) is a big event that stretched over the whole month of October and during many activities took place such as interviews of top players, King of the Hill, randomized squads of 8, and many others programs in order to gather the osu! community around a common project: getting better.
 
 In order to make this goal possible, the squad program stood out from the norm by allowing to gather 8 strangers in squads to make new friends, help each other and do activities together. Also, to motivate the participants of the event to improve and stay regular, the osu! university has set up a system of daily forms that players can fill with details of their osu! sessions, and upon submitting 10 or more of those players are entered into a raffle to win an osu! keypad. Do not hesitate to [join them on Discord](https://discord.gg/QubdHdnBVg) to follow their next events!
 
 Perhaps you missed the interviews of top players? Don't worry, the [replays](https://www.youtube.com/playlist?list=PL_QhgSQeB2zDRSd-xm9lQrkmGY2wJTXvH) are here for you!
 
-![](/wiki/shared/news/2022-11-01-osu-monthly-4/dreamjam-banner.jpg)
+![](/wiki/shared/news/2022-11-01-osumonthly-4/dreamjam-banner.jpg)
 
 [DreamJam](https://osu.ppy.sh/community/forums/topics/1649330?n=1) is an offline osu! meetup & tournament in Singapore, hosted by [megumic](https://osu.ppy.sh/users/7537133) and [_gt](https://osu.ppy.sh/users/8301957). The event welcomed more than 90 attendees in the Dreamcore Showroom, making it the largest osu! meetup to date in Singapore.
 
@@ -75,7 +80,7 @@ The event featured a Tandem King of the Hill Tournament, with the fun and challe
     </video>
 </div>
 
-*Please note that osu! team is not affiliated with Dreamcore Private Limited and Matrix.*
+*Please note that osu! team is not affiliated with Dreamcore Private Limited and Matrix. Special thanks to [Coppertine](https://osu.ppy.sh/users/7279762) for the video.*
 
 Missed the event, but still want to catch the action? The stream, complete with live footage and commentary, can be found on the [osu!sg Twitch channel](https://www.twitch.tv/osusg).
 
@@ -97,7 +102,13 @@ You may think that mrekk would have been satisfied with this legendary score... 
 
 ### Notable mania plays of the month
 
-*Section written by..*
+*Section written by [RandomeLoL](https://osu.ppy.sh/users/7080063)*
+
+It took them many, many tries. Months went by and their Perfect counts keept decreasing. But at the very beginning of the month, [BossPlays](https://osu.ppy.sh/users/7341471/mania) managed to do what everyone else was only able to dream of: the very first 1 Million score on [The Lost Dedicated](https://osu.ppy.sh/beatmapsets/224173#mania/523391).
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/jw5NO-_0RSw" frameborder="0" allowfullscreen></iframe>
+
+For the unaware, [Zyph](https://osu.ppy.sh/users/1600432)'s The Lost Dedicated is a very ~~in~~famous chart, not quite to the point of the original .bms file it was based of, but still famous in the 4k VSRG community nonetheless. The importance of this achievement may not be fully conveyed within these two paragraphs, but we hope they will encourage more players to set more magnificent plays such as this one!
 
 ### Notable taiko plays of the month
 
@@ -112,8 +123,6 @@ After being ranked for over 3 years, the legend them self [applerss](https://osu
 Some other notable plays this month include [shinchikuhome](https://osu.ppy.sh/users/3174184/taiko)'s [Chronostasis](https://osu.ppy.sh/beatmapsets/842930#taiko/1763738) [DT FC](https://osu.ppy.sh/scores/taiko/174906458), earning them 982 pp along with both #1 on the map, and #1 global! Congratulations aswell to EGTS runner-up, [Grape_Tea](https://osu.ppy.sh/users/9540073/taiko) who also set an insane [NFHDHR SS](https://osu.ppy.sh/scores/taiko/175189773) on [The Limit Does Not Exist](https://osu.ppy.sh/beatmapsets/420395#taiko/1028158), worth 922 pp!
 
 ### Notable catch plays of the month
-
-*Section written by..*
 
 [ExGon](https://osu.ppy.sh/users/214187) has gone out of the shadows once again and set what might be one of the most meta-breaking plays of the whole game, getting an HRFL SS on the top diff of [ded_ED](https://osu.ppy.sh/beatmapsets/1705910#fruits/3800941), a 30 seconds CS 9.1 AR 0 map maxed out with the tightest jumps you can imagine, we heavily recommend watching the replay as there are very few plays in the game like this one.
 
@@ -133,10 +142,11 @@ Ready, TBA
 
 ## Things to look out for in November
 
-- After twelve editions of the [osu! World Cup](https://osu.ppy.sh/wiki/en/Tournaments/OWC), the [thirteenth iteration](https://osu.ppy.sh/wiki/en/Tournaments/OWC/2022) is taking place right now until the end of November. Don't miss the biggest official tournament of the year, the matches of which you can find on the official [twitch channel](https://www.twitch.tv/osulive)!
+- After twelve editions of the [osu! World Cup](/wiki/Tournaments/OWC), the [thirteenth iteration](/wiki/Tournaments/OWC/2022) is taking place right now until the end of November. Don't miss the biggest official tournament of the year, the matches of which you can find on the official [twitch channel](https://www.twitch.tv/osulive)!
 - You are an osu!taiko mapper and want to show your talent to the whole community by mapping featured artist music? Then don't waste a second and take a look at the [osu!taiko Featured Artist Cup](https://osu.ppy.sh/home/news/2022-10-23-osutaiko-featured-artist-cup-3), the biggest osu!taiko mapping showdown of the year!
 
 ## End word
 
+Thank you for sticking along with us for the 4th edition of osu!monthly. We hope you are satisfied with the amount and quality of content we deliver, and if you are not we expect for you to let us know in the comments. The osu!monthly team wishes you a happy Halloween and all of the upcoming holidays, no matter where you are!
 
 —0x84f, _gt, ianpep, Pisapou
