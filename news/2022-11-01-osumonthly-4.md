@@ -90,6 +90,14 @@ As expected every year, the [Halloween 2022 Fanart Contest](https://osu.ppy.sh/h
 
 By the time this monthly is published the results will already be in, so be sure to check out all the entries and congratulate the winners! By the way, you can now see all the winners' works on osu!'s main menu, so be careful not to get spooked when you connect!
 
+### The Twitter poll
+
+It all started on October 13 when the Twitter account [OSURGC](https://twitter.com/OSURGC) (Rhythm Games Club at the Ohio State University), launched a [poll](https://twitter.com/osurgc/status/1580319674629120000?s=46&t=BLbMHOGJOKYJGzFO90FEGw) to elect the best rhythm game. After several polls through the days, osu! was in the finals [versus Beat Saber](https://twitter.com/osurgc/status/1584743655294001153?s=46&t=BLbMHOGJOKYJGzFO90FEGw), which maintained a very even 50/50 throughout most of the voting phase. 
+
+After Beat Saber reset the bracket (they came from losers finals) the poll took on a whole new dimension with many of the most important people in osu! and Beat Saber urging people to "save their game" by retweeting the message to win this fierce duel. At the end, it’s your favorite game, osu!, that won the final and was voted [the best rhythm game](https://twitter.com/osurgc/status/1585505553333223424?s=46&t=BLbMHOGJOKYJGzFO90FEGw) by the OSURGC, thanks to the entire community on Twitter.
+
+This small but seemingly insignificant poll brought together a lot of players from different rhythm game communities and gathered almost 58k votes. We hope that other small events like this one can emerge in the future, to gather the osu! community and other games around common passions!
+
 ### Notable osu! plays of the month
 
 *Section written by [Pisapou](https://osu.ppy.sh/users/16640021)*
@@ -98,7 +106,7 @@ What happens when the #1 osu! player plays an iconic map with DT? That's what [m
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/UphOlvleGcs" frameborder="0" allowfullscreen></iframe>
 
-You may think that mrekk would have been satisfied with this legendary score... But no, he also got the [first HDDTHR pass](https://osu.ppy.sh/scores/osu/4295194484) on the same map, and a [new miss count record](https://osu.ppy.sh/scores/osu/4295747622) on [Trinity Homerun](https://osu.ppy.sh/beatmapsets/881996#osu/1844019) with HDDT. By the end of October he also set a [new HR PP record](https://osu.ppy.sh/scores/osu/4300226983) with the FC on Shinkou wa Hakanaki Ningen no Tame ni ~ Jehovah's YaHVeH. In short, mrekk has not stopped proving this month that he deserves his #1 spot.
+You may think that mrekk would have been satisfied with this legendary score... But no, he also got the [first HDDTHR pass](https://osu.ppy.sh/scores/osu/4295194484) on the same map, and a [new miss count record](https://osu.ppy.sh/scores/osu/4295747622) on [Trinity Homerun](https://osu.ppy.sh/beatmapsets/881996#osu/1844019) with HDDT. By the end of October he also set a [new HR PP record](https://osu.ppy.sh/scores/osu/4300226983) with the FC on [Shinkou wa Hakanaki Ningen no Tame ni ~ Jehovah's YaHVeH](https://osu.ppy.sh/beatmapsets/1826036#osu/3747453). In short, mrekk has not stopped proving this month that he deserves his #1 spot.
 
 ### Notable mania plays of the month
 
