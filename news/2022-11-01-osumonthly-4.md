@@ -10,7 +10,7 @@ BOO! Did we get ya? No? Oh well, we still have the monthly news that you can rea
 
 Welcome to the 4th edition of osu!monthly, now with a new halloween themed banner (thank you [Hubz](https://osu.ppy.sh/users/10379965))!
 
-While we are all currently focused on the osu! World Cup, I feel like it'd be good to take a look back at the month of October and see what else has been happening around the community. That being said, the world cup will be covered in great detail next month.
+While we are all currently focused on the osu! World Cup, we feel like it'd be good to take a look back at the month of October and see what else has been happening around the community. That being said, the world cup will be covered in great detail next month.
 
 If you want to contribute feel free to reach out! You can find us over at the [osu!dev Discord server](https://discord.com/invite/ppy), or you can reach out to 0x84f#0001 on Discord.
 Enjoy!
