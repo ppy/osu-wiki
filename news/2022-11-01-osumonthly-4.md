@@ -62,7 +62,7 @@ Congratulations to the podium winners of this tournament as well! If you want to
 
 ![](/wiki/shared/news/2022-11-01-osumonthly-4/improvement-month-banner.jpg)
 
-Set up by the [osu! University](/wiki/Community/Discord_servers/osu%21_University), the [osu! improvement month](https://osu.ppy.sh/community/forums/topics/1649135?n=1) is a big event that stretched over the whole month of October and during many activities took place such as interviews of top players, King of the Hill, randomized squads of 8, and many others programs in order to gather the osu! community around a common project: getting better.
+Set up by the [osu! University](/wiki/Community/Discord_servers/osu!_University), the [osu! improvement month](https://osu.ppy.sh/community/forums/topics/1649135?n=1) is a big event that stretched over the whole month of October and during many activities took place such as interviews of top players, King of the Hill, randomized squads of 8, and many others programs in order to gather the osu! community around a common project: getting better.
 
 In order to make this goal possible, the squad program stood out from the norm by allowing to gather 8 strangers in squads to make new friends, help each other and do activities together. Also, to motivate the participants of the event to improve and stay regular, the osu! university has set up a system of daily forms that players can fill with details of their osu! sessions, and upon submitting 10 or more of those players are entered into a raffle to win an osu! keypad. Do not hesitate to [join them on Discord](https://discord.gg/QubdHdnBVg) to follow their next events!
 
@@ -98,7 +98,7 @@ What happens when the #1 osu! player plays an iconic map with DT? That's what [m
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/UphOlvleGcs" frameborder="0" allowfullscreen></iframe>
 
-You may think that mrekk would have been satisfied with this legendary score... But no, he also made the [first HDDTHR pass](https://osu.ppy.sh/scores/osu/4295194484) on the same map, and a [new miss count record](https://osu.ppy.sh/scores/osu/4295747622) on [Trinity Homerun](https://osu.ppy.sh/beatmapsets/881996#osu/1844019) with HDDT. In short, mrekk has not stopped proving this month that he deserves his #1.
+You may think that mrekk would have been satisfied with this legendary score... But no, he also got the [first HDDTHR pass](https://osu.ppy.sh/scores/osu/4295194484) on the same map, and a [new miss count record](https://osu.ppy.sh/scores/osu/4295747622) on [Trinity Homerun](https://osu.ppy.sh/beatmapsets/881996#osu/1844019) with HDDT. By the end of October he also set a [new HR PP record](https://osu.ppy.sh/scores/osu/4300226983) with the FC on Shinkou wa Hakanaki Ningen no Tame ni ~ Jehovah's YaHVeH. In short, mrekk has not stopped proving this month that he deserves his #1 spot.
 
 ### Notable mania plays of the month
 
