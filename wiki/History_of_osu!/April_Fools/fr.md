@@ -219,7 +219,7 @@ Le poisson d'avril 2021 a recyclé la même blague que les deux années précéd
 
 ## Références
 
-[^lemontree-reddit]: [Post Reddit par u/5522Luca dans r/osugame (10/04/2017) "Reminder the Osu! April Fools 2009? This beatmap was ranked."](https://www.reddit.com/r/osugame/comments/64it62/reminder_the_osu_april_fools_2009_this_beatmap/)
+[^lemontree-reddit]: [Post Reddit par u/5522Luca sur r/osugame (10/04/2017) "Reminder the Osu! April Fools 2009? This beatmap was ranked."](https://www.reddit.com/r/osugame/comments/64it62/reminder_the_osu_april_fools_2009_this_beatmap/)
 [^lemontree-post-machol30]: [Post du forum par machol30 (03/04/2019) dans "Best of No.1 Hits - Lemon Tree"](https://osu.ppy.sh/community/forums/posts/106774)
 [^lemontree-post-peppy]: [Post du forum par peppy (01/04/2009) dans "Best of No.1 Hits - Lemon Tree"](https://osu.ppy.sh/community/forums/posts/105679)
 [^lemontree-post-millhioref]: [Beatmap par MillhioreF (24/08/2014) "Best of No.1 Hits - Lemon Tree"](https://osu.ppy.sh/beatmapsets/57878#osu/174267)
@@ -243,15 +243,15 @@ Le poisson d'avril 2021 a recyclé la même blague que les deux années précéd
 [^bad-apple-news]: [Article de news par Cyclone (01/04/2012) "Bad Apple!! Ranking Chart"](https://osu.ppy.sh/community/forums/topics/79128)
 [^bad-aple-frontpage]: ["osu! — rhythm is just a click away" (03/04/2012) sur Wayback Machine](https://web.archive.org/web/20120403135741/http://osu.ppy.sh/)
 
-[^banchobot-reddit]: [Commentaire Reddit par u/Sakuya_Lv9 dans r/osugame (02/04/2014) dans "April 1st"](https://www.reddit.com/r/osugame/comments/2201so/comment/cgi4zav)
+[^banchobot-reddit]: [Commentaire Reddit par u/Sakuya_Lv9 sur r/osugame (02/04/2014) dans "April 1st"](https://www.reddit.com/r/osugame/comments/2201so/comment/cgi4zav)
 [^banchobot-forums]: [Post du forum par Jazz (04/02/2013) dans "Your prediction of osu! April Fools"](https://osu.ppy.sh/community/forums/posts/2215004)
 [^banchobot-forums-2]: [Post du forum par Brian OA (Off-Topic) dans "Your prediction of osu! April Fools"](https://osu.ppy.sh/community/forums/posts/2215194)
 [^banchobot-tweet]: [Tweet par @little_2d (27/06/2019)](https://twitter.com/little_2d/status/1144316731407683584)
 [^banchobot-forums-3]: [Post du forum par kingking9 (04/06/2013) dans "osu! Community Localisation Project"](https://osu.ppy.sh/community/forums/posts/2342998)
 [^banchobot-forums-4]: [Post du forum par peppy (04/06/2013) dans "osu! Community Localisation Project"](https://osu.ppy.sh/community/forums/posts/2343044)
 
-[^shiba-inu-reddit]: [Post Reddit par u/mystry08 dans r/osugame (01/04/2014) "Can we save the start screen doge?"](https://www.reddit.com/r/osugame/comments/21vh6r/can_we_save_the_start_screen_doge/)
-[^shiba-inu-reddit-2]: [Post Reddit par u/dalollypop dans r/osugame (31/03/2014) "Very April, Such fool, Much peppy. wow"](https://www.reddit.com/r/osugame/comments/21u293/very_april_such_fool_much_peppy_wow/)
+[^shiba-inu-reddit]: [Post Reddit par u/mystry08 sur r/osugame (01/04/2014) "Can we save the start screen doge?"](https://www.reddit.com/r/osugame/comments/21vh6r/can_we_save_the_start_screen_doge/)
+[^shiba-inu-reddit-2]: [Post Reddit par u/dalollypop sur r/osugame (31/03/2014) "Very April, Such fool, Much peppy. wow"](https://www.reddit.com/r/osugame/comments/21u293/very_april_such_fool_much_peppy_wow/)
 [^shiba-inu-forums]: [Fil de discussion par Decuke (31/03/2014) "Doge on Osu!"](https://osu.ppy.sh/community/forums/topics/198112)
 
 [^osu-coins-news]: [Article de news par peppy (31/03/2015) "osu!coins!"](https://osu.ppy.sh/home/news/2015-03-31-osucoins)
@@ -264,7 +264,7 @@ Le poisson d'avril 2021 a recyclé la même blague que les deux années précéd
 [^osu-coins-changelog]: [Commentaire de changelog par peppy (01/04/2015) dans "Cutting Edge 20150401"](https://osu.ppy.sh/comments/121803)
 
 [^osu-vr-news]: [Article de news par Evrien (1 avril 2016) "Oculus Rift to be Supported as an Input Method (April Fools!)"](https://osu.ppy.sh/home/news/2016-04-01-oculus-rift-to-be-supported-as-an-input-method)
-[^osu-vr-reddit]: [Post Reddit par u/Omgforz dans r/osugame (02/08/2016) "McOsu Alpha 20 Public release (custom practice client)"](https://www.reddit.com/r/osugame/comments/4vuksd/mcosu_alpha_20_public_release_custom_practice/)
+[^osu-vr-reddit]: [Post Reddit par u/Omgforz sur r/osugame (02/08/2016) "McOsu Alpha 20 Public release (custom practice client)"](https://www.reddit.com/r/osugame/comments/4vuksd/mcosu_alpha_20_public_release_custom_practice/)
 [^osu-vr-yt]: [Vidéo YouTube par Omgforz (02/08/2016) "McOsu Alpha 20 (custom practice client +download)"](https://www.youtube.com/watch?v=PCLpOdcMQuc)
 [^osu-vr-gameskinny]: ["What Even Is McOsu? Because It's Not Osu!" sur GameSkinny](https://www.gameskinny.com/mhaa0/what-even-is-mcosu-because-its-not-osu)
 [^osu-vr-mcosu]: ["McKay42/McOsu" sur GitHub](https://github.com/McKay42/McOsu)
@@ -272,14 +272,14 @@ Le poisson d'avril 2021 a recyclé la même blague que les deux années précéd
 [^osu-auto-yt]: [Vidéo YouTube par HoLLy (31 mars 2016) - "osu!'s april fools 2016 (auto mod improvement)"](https://www.youtube.com/watch?v=r9SCbYG4GYs)
 [^osu-auto-yt-2]: [Vidéo YouTube par Hubz (7 janvier 2021) - "osu! 2016 april fools (dancing pippi)"](https://www.youtube.com/watch?v=fYTdPqhAns0)
 [^osu-auto-yt-3]: [Vidéo YouTube par mightyaleks (31 mars 2016) - "Osu! Dancing Auto-cursor and retard Spin | 1st April 2016"](https://www.youtube.com/watch?v=5Tj-1sgHl9g)
-[^osu-auto-reddit]: [Post Reddit par u/osuisgameforweebs dans r/osugame (31/03/2016) "Something about the april fools joke dancing that some might not have noticed"](https://www.reddit.com/r/osugame/comments/4crlw1/something_about_the_april_fools_joke_dancing_that/)
+[^osu-auto-reddit]: [Post Reddit par u/osuisgameforweebs sur r/osugame (31/03/2016) "Something about the april fools joke dancing that some might not have noticed"](https://www.reddit.com/r/osugame/comments/4crlw1/something_about_the_april_fools_joke_dancing_that/)
 
 [^supporter-tag-forums]: [Fil de discussion par -AlieN (31/03/2016) "[resolved] April Fools??!??!??"](https://osu.ppy.sh/community/forums/topics/437855)
 [^supporter-tag-forums-2]: [Post du forum par Epipheralis (01/04/2016) dans "april fools"](https://osu.ppy.sh/community/forums/posts/5006805)
 [^supporter-tag-frontpage]: ["osu!" (01/04/2016) sur Wayback Machine](https://web.archive.org/web/20160401001507/https://osu.ppy.sh/)
 [^supporter-tag-forums-3]: [Fil de discussion par Bearial1 (01/04/2016) "[resolved] Why am I a supporter?"](https://osu.ppy.sh/community/forums/topics/438118)
 [^supporter-tag-forums-4]: [Fil de discussion par noah4678 (01/04/2016) "[resolved] says im a supporter"](https://osu.ppy.sh/community/forums/topics/438119)
-[^supporter-tag-reddit]: [Post Reddit par u/CraftyDart dans r/osugame (01/04/2016) "The best April Fools day ever."](https://www.reddit.com/r/osugame/comments/4cshv3/the_best_april_fools_day_ever/)
+[^supporter-tag-reddit]: [Post Reddit par u/CraftyDart sur r/osugame (01/04/2016) "The best April Fools day ever."](https://www.reddit.com/r/osugame/comments/4cshv3/the_best_april_fools_day_ever/)
 [^supporter-tag-forums-5]: [Fil de discussion par Trosk- (31/03/2016) "[resolved] [confirmed] Regarding osu!supporter/Auto mod"](https://osu.ppy.sh/community/forums/topics/437902)
 
 [^osu-cookie-forums]: [Post du forum par Birdy (31/03/2016) dans "april fools")](https://osu.ppy.sh/community/forums/posts/5005957)
@@ -287,19 +287,19 @@ Le poisson d'avril 2021 a recyclé la même blague que les deux années précéd
 [^osu-cookie-forums-2]: [Fil de discussion par Rilene (31/03/2016) "osu logo"](https://osu.ppy.sh/community/forums/topics/437755)
 [^osu-cookie-forums-3]: [Post du forum par Trosk- (31/03/2016) dans "[resolved] [confirmed] Regarding osu!supporter/Auto mod"](https://osu.ppy.sh/community/forums/posts/5006190)
 
-[^osu-cookie-web-reddit]: [Post Reddit par u/[deleted] dans r/osugame (31/03/2018) "New April Fools Update now has a rotating osu! Logo"](https://www.reddit.com/r/osugame/comments/88kq23/new_april_fools_update_now_has_a_rotating_osu_logo/)
-[^osu-cookie-web-reddit-2]: [Post Reddit par u/hi_im_marc dans r/osugame (31/03/2018) "April Fools Patch Is Out Get Ready To Get BAMBOOZLED!!!1"](https://www.reddit.com/r/osugame/comments/88kbit/april_fools_patch_is_out_get_ready_to_get/)
-[^osu-cookie-web-reddit-3]: [Post Reddit par u/AdriaLOL dans r/osugame (01/04/2018) "haha, nice april fools peppy XD"](https://www.reddit.com/r/osugame/comments/88qlwk/haha_nice_april_fools_peppy_xd/)
+[^osu-cookie-web-reddit]: [Post Reddit par u/[deleted] sur r/osugame (31/03/2018) "New April Fools Update now has a rotating osu! Logo"](https://www.reddit.com/r/osugame/comments/88kq23/new_april_fools_update_now_has_a_rotating_osu_logo/)
+[^osu-cookie-web-reddit-2]: [Post Reddit par u/hi_im_marc sur r/osugame (31/03/2018) "April Fools Patch Is Out Get Ready To Get BAMBOOZLED!!!1"](https://www.reddit.com/r/osugame/comments/88kbit/april_fools_patch_is_out_get_ready_to_get/)
+[^osu-cookie-web-reddit-3]: [Post Reddit par u/AdriaLOL sur r/osugame (01/04/2018) "haha, nice april fools peppy XD"](https://www.reddit.com/r/osugame/comments/88qlwk/haha_nice_april_fools_peppy_xd/)
 [^osu-cookie-web-forums]: [Fil de discussion par Aochie (02/04/2018) "The osu! logo is moving?"](https://osu.ppy.sh/community/forums/topics/724377)
 [^osu-cookie-web-forums-2]: [Fil de discussion par Jreen (01/04/2018) "[resolved] Osu! Logo Sideways?"](https://osu.ppy.sh/community/forums/topics/724094)
 
-[^sneeze-reddit]: [Post Reddit par u/jivko500 dans r/osugame (01/04/2019) "The April Fools joke in osu"](https://www.reddit.com/r/osugame/comments/b83pnl/the_april_fools_joke_in_osu/)
-[^sneeze-reddit-2]: [Post Reddit par u/anoymaly2152 dans r/osugame (01/04/2019) "Bless you, Pippi."](https://www.reddit.com/r/osugame/comments/b848ro/bless_you_pippi/)
+[^sneeze-reddit]: [Post Reddit par u/jivko500 sur r/osugame (01/04/2019) "The April Fools joke in osu"](https://www.reddit.com/r/osugame/comments/b83pnl/the_april_fools_joke_in_osu/)
+[^sneeze-reddit-2]: [Post Reddit par u/anoymaly2152 sur r/osugame (01/04/2019) "Bless you, Pippi."](https://www.reddit.com/r/osugame/comments/b848ro/bless_you_pippi/)
 [^sneeze-forums]: [Fil de discussion par Brainage (01/04/2019) "No April Fools in the changelog?"](https://osu.ppy.sh/community/forums/topics/888939)
 
 [^irish-fa]: [Article de news par Ephemeral (01/04/2020) "New Featured Artist: MillhioreF"](https://osu.ppy.sh/home/news/2020-04-01-new-featured-artist-millhioref)
 
-[^sneeze-2-reddit]: [Post Reddit par u/not_pingu dans r/osugame (01/04/2020) "Does anybody sometimes hear the "achoo"? (sorry for bad quality)"](https://www.reddit.com/r/osugame/comments/fsxfpk/does_anybody_sometimes_hear_the_achoo_sorry_for/)
-[^sneeze-2-reddit-2]: [Post Reddit par u/ohmaytt dans r/osugame (01/04/2020) "This year's osu! April Fool's Day joke"](https://www.reddit.com/r/osugame/comments/fsq30l/this_years_osu_april_fools_day_joke/)
+[^sneeze-2-reddit]: [Post Reddit par u/not_pingu sur r/osugame (01/04/2020) "Does anybody sometimes hear the "achoo"? (sorry for bad quality)"](https://www.reddit.com/r/osugame/comments/fsxfpk/does_anybody_sometimes_hear_the_achoo_sorry_for/)
+[^sneeze-2-reddit-2]: [Post Reddit par u/ohmaytt sur r/osugame (01/04/2020) "This year's osu! April Fool's Day joke"](https://www.reddit.com/r/osugame/comments/fsq30l/this_years_osu_april_fools_day_joke/)
 [^sneeze-2-forums]: [Fil de discussion par MilkyIQ (01/04/2021) "Is this not the third year in a row that we get sneezing girl?"](https://osu.ppy.sh/community/forums/topics/1286906)
 [^sneeze-2-forums-2]: [Fil de discussion par GreatTurtleKing (01/04/2021) "i heard like a sneeze when i just started to play a song"](https://osu.ppy.sh/community/forums/topics/1286396)
