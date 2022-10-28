@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: f2c89f5c250e64121a2a94aab12046306fa6147d
----
-
 # Off-Topic
 
 [**Off-Topic**](https://osu.ppy.sh/community/forums/52) (abrégé par ***OT***) est un forum qui a pour but de permettre à la communauté d'avoir des conversations sans sujet particulier. Les fils de discussion peuvent souvent être aléatoires, changer de sujet, et/ou avoir plusieurs sujets simultanément. Les sujets peuvent aller de la vie quotidienne aux opinions sur le jeu, en passant par le jeu de rôle, les blagues et le méta-contenu, les bêtises, ou tout ce qui se trouve entre les deux.
@@ -79,10 +74,10 @@ C'est l'un des fils de role-playing résultant du lore d'OT, qui a créé un int
 
 ## Références
 
-[^ot-suggestion]: [Separate sub-forum for self perpetuating threads?](https://osu.ppy.sh/community/forums/posts/80316)
-[^ot-announcement]: [peppy's announcement of the new subforum](https://osu.ppy.sh/community/forums/topics/10180)
-[^ot-old-name]: [Mis-quote The Person Above You](https://osu.ppy.sh/community/forums/posts/132900)
-[^ot-derailing-games]: [Last person to see the 20 USD via Paypal thread](https://osu.ppy.sh/community/forums/posts/313614)
-[^ot-rename]: [a](https://osu.ppy.sh/community/forums/posts/316732)
-[^ot-dancing-girls]: [OT's Oldest Mystery: Dancing Anime Girls](https://osu.ppy.sh/community/forums/topics/1525770)
-[^ot-rules-official]: [Aug 17 2022 capture of osu!'s official rules](http://web.archive.org/web/20170817161329/http://osu.ppy.sh/help/wiki/Rules)
+[^ot-suggestion]: [Fil de discussion par lukewarmholiday (30/01/2009) "Separate sub-forum for self perpetuating threads?"](https://osu.ppy.sh/community/forums/posts/80316)
+[^ot-announcement]: [Fil de discussion par peppy (19/02/2009) "Forum Games moved to new forum"](https://osu.ppy.sh/community/forums/topics/10180)
+[^ot-old-name]: [Post du forum par kuwarudo (31/05/2009) dans "Mis-quote The Person Above You"](https://osu.ppy.sh/community/forums/posts/132900)
+[^ot-derailing-games]: [Post du forum par Powerdrone (03/02/2010) dans "Last person to see the 20 USD via Paypal thread"](https://osu.ppy.sh/community/forums/posts/313614)
+[^ot-rename]: [Post du forum par Derekku (06/02/2010) dans "a"](https://osu.ppy.sh/community/forums/posts/316732)
+[^ot-dancing-girls]: [Fil de discussion par abraker (20/02/2022) "OT's Oldest Mystery: Dancing Anime Girls"](https://osu.ppy.sh/community/forums/topics/1525770)
+[^ot-rules-official]: ["Rules — osu! wiki" (17/08/2017) sur Wayback Machine](http://web.archive.org/web/20170817161329/http://osu.ppy.sh/help/wiki/Rules)
