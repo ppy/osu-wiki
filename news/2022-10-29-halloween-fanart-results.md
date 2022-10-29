@@ -12,7 +12,7 @@ True terror was the name of the game all throughout this year's Halloween Fanart
 
 Somehow, **6872** unique voters have come out unscathed from it all, and from their toils, **20** finalists have been decided.
 
-Let's get straight into things:
+Let's get straight into things and remember, clicking any banner will take you to a full-size version:
 
 [![](https://assets.ppy.sh/contests/154/banners/Dreamxiety.jpg)](https://assets.ppy.sh/contests/154/winners/Dreamxiety.png)
 
