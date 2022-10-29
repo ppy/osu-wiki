@@ -42,7 +42,7 @@ This one's is bound to end up as a wallpaper on *many* devices, let's be honest 
 
 [**Kitcat**](https://osu.ppy.sh/users/30329028) turned a distinctly dark seasonal spectacle into a colourful masterpiece featuring pippi, mocha, Yuzu and a ton more minor mascots for a total of **2252** votes.
 
-This one practically leapt out of the screen during the voting phase with such evocative use of contrast and palette to accentuate some incredibly creative composition
+This one practically leapt out of the screen during the voting phase with such evocative use of contrast and palette to accentuate some incredibly creative composition.
 
 [![](https://assets.ppy.sh/contests/154/banners/ZunK.jpg)](https://assets.ppy.sh/contests/154/winners/ZunK.png)
 
