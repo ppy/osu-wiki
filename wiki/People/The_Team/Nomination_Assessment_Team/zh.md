@@ -26,7 +26,7 @@ tags:
 
 无论审核评估团队 (NAT) 成员主要负责哪一事项，在必要时，也可以负责其他三个事项。例如：某个成员主要负责评估事项，即使他并不需要负责处理其他三个事项的任务，他也可以参与进来。
 
-除了管理权限，审核评估团队 (NAT) 成员还能够[提名](/wiki/Beatmap_ranking_procedure#提名)、[审核通过](/wiki/Beatmap_ranking_procedure#过审)谱面、[重置谱面的提名状态](/wiki/Beatmap_ranking_procedure#重置提名)。这部分权限与一个[正式 (Full) 谱面审核成员 (BN)](/wiki/People/The_Team/Beatmap_Nominators#正式成员) 无异。因此，加在谱面审核成员 (BN) 身上的活跃度要求、规则和职责，同样适用于审核评估团队 (NAT) 成员。不过，因为审核评估团队 (NAT) 成员在作图和摸图社区有其他职责，所以他们不会像谱面审核成员 (BN) 那样定期提名地图。
+除了管理权限，审核评估团队 (NAT) 成员还能够[提名](/wiki/Beatmap_ranking_procedure#提名)、[审核通过](/wiki/Beatmap_ranking_procedure#过审)谱面、[重置谱面的提名状态](/wiki/Beatmap_ranking_procedure#提名重置)。这部分权限与一个[正式 (Full) 谱面审核成员 (BN)](/wiki/People/The_Team/Beatmap_Nominators#正式成员) 无异。因此，加在谱面审核成员 (BN) 身上的活跃度要求、规则和职责，同样适用于审核评估团队 (NAT) 成员。不过，因为审核评估团队 (NAT) 成员在作图和摸图社区有其他职责，所以他们不会像谱面审核成员 (BN) 那样定期提名地图。
 
 ## 成为 NAT
 
