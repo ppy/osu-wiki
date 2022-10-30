@@ -259,7 +259,6 @@ The osu! World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) and var
   2. [MuryokuP - Frozen World (Kowari) \[Insane\]](https://osu.ppy.sh/beatmapsets/1863134#osu/3831205)
   3. [Rameses B - Mountains (feat. Veela) (Strategas) \[Is it worth it?\]](https://osu.ppy.sh/beatmapsets/1863179#osu/3831294)
 
-
 ## Match results
 
 ### Round of 16
