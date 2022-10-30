@@ -25,7 +25,6 @@ Just like every other contest out there, there are some rules that must be follo
   - Spread requirements.
   - Storyboarding.
   - Video and background.
-
 - **Team name and members must be confirmed through [this form](https://forms.gle/HhX6FahJyg2YapB96).**
   - If your country does not support Google Forms, [send Hivie a message](https://osu.ppy.sh/community/chat?sendto=14102976).
   - Teams consist of 2 members, the captain and the teammate.
