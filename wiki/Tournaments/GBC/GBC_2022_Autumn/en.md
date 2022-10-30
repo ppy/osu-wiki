@@ -176,7 +176,7 @@ The GB Cup 2022 Autumn is run by the Team GB and various community members.
 
 ### Reugular stage summary
 
-| #[^rs-summary-seed] | Teams | abbr.[^rs-summary-abbr] | MR[^rs-summary-mr] | BR[^rs-summary-br] | BD[^rs-summary-bd] | BU[^rs-summary-bu] | Round 1 | Round 2 | Round 3 | Round 4 |
+| #[^rs-summary-seed] | Team | Abbr. | MR[^rs-summary-mr] | BR[^rs-summary-br] | BD[^rs-summary-bd] | BU[^rs-summary-bu] | Round 1 | Round 2 | Round 3 | Round 4 |
 | :-: | --: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 1 | DAMWONGaming | DWG | 1-0 | 6-0 | 6 | -1 | 6-0 不玩SV | 猫猫面馆 |
 | 2 | 奖励一把大天空 | 奖励天空 | 1-0 | 6-1 | 5 | -1 | 6-1 俄亥俄 | ζ(s) |
@@ -208,7 +208,7 @@ The GB Cup 2022 Autumn is run by the Team GB and various community members.
 Saturday, 29 October 2022:
 
 | Team A |  |  | Team B | Match link |
-| --: | --: | :-- | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | 俄亥俄州立大学躁狂播放器 | 1 | **6** | **奖励一把大天空** | [#1](https://osu.ppy.sh/community/matches/104722664) |
 | **我屙屎精灵我交泥如活打屙** | **6** | 3 | 上课军训补课反正凑不齐人 | [#1](https://osu.ppy.sh/community/matches/104723025) |
 | BMS精灵 | 2 | **6** | **近月少女的礼仪** | [#1](https://osu.ppy.sh/community/matches/104723115) |
@@ -223,7 +223,7 @@ Saturday, 29 October 2022:
 Sunday, 30 October, 2022:
 
 | Team A |  |  | Team B | Match link |
-| --:  |--: | :-- | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | 你说的队 | 3 | **6** | **ban位先ban行李箱** | [#1](https://osu.ppy.sh/community/matches/104746301) |
 | 素鲍小馆丸子面条铺 | 2 | **6** | **经典米托镂空鱼香鸡肉丸** | [#1](https://osu.ppy.sh/community/matches/104746966) |
 
