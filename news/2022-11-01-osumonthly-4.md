@@ -13,7 +13,7 @@ Welcome to the 4th edition of osu!monthly, now with a new halloween themed banne
 While we are all currently focused on the osu! World Cup, we feel like it'd be good to take a look back at the month of October and see what else has been happening around the community. That being said, the world cup will be covered in great detail next month.
 
 If you want to contribute feel free to reach out! You can find us over at the [osu!dev Discord server](https://discord.com/invite/ppy), or you can reach out to 0x84f#0001 on Discord.
-If you are interested in checking out all of the previous editions feel free to look at our [forum discussion thread](https://osu.ppy.sh/community/forums/topics/1614314?n=1)!
+If you are interested in checking out all of the previous editions feel free to look at our [forum thread](https://osu.ppy.sh/community/forums/topics/1614314?n=1)!
 
 ## Table of contents
 
