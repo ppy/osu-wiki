@@ -86,9 +86,9 @@ Missed the event, but still want to catch the action? The stream, complete with 
 
 ![](https://assets.ppy.sh/contests/154/header.jpg)
 
-As expected every year, the [Halloween 2022 Fanart Contest](https://osu.ppy.sh/home/news/2022-10-10-halloween-fanart-contest) is here. It is through the theme of Halloween that the best artists of the community will compete to make the most beautiful drawing (or rather the *spookiest*). A theme that everyone knows but that allows so many possibilities can only give gorgeous creations!
+As expected every year, the [Halloween 2022 Fanart Contest](https://osu.ppy.sh/home/news/2022-10-10-halloween-fanart-contest) is here. It is through the theme of Halloween that the best artists of the community have competed to make the most beautiful drawing (or rather the *spookiest*). A theme that everyone knows but that allows so many possibilities can only give gorgeous creations!
 
-By the time this monthly is published the results will already be in, so be sure to check out all the entries and congratulate the winners! By the way, you can now see all the winners' works on osu!'s main menu, so be careful not to get spooked when you connect!
+By the time this monthly is published the results [will already be in](https://osu.ppy.sh/home/news/2022-10-29-halloween-fanart-results), so be sure to check out all the entries and congratulate the winners! By the way, you can now see all the winners' works on osu!'s main menu, so be careful not to get spooked when you connect!
 
 ### The Twitter poll
 
@@ -132,11 +132,13 @@ Some other notable plays this month include [shinchikuhome](https://osu.ppy.sh/u
 
 ### Notable catch plays of the month
 
-[ExGon](https://osu.ppy.sh/users/214187) has gone out of the shadows once again and set what might be one of the most meta-breaking plays of the whole game, getting an HRFL SS on the top diff of [ded_ED](https://osu.ppy.sh/beatmapsets/1705910#fruits/3800941), a 30 seconds CS 9.1 AR 0 map maxed out with the tightest jumps you can imagine, we heavily recommend watching the replay as there are very few plays in the game like this one.
+*Section written by [Patatitta](https://osu.ppy.sh/users/16294034)*
+
+[ExGon](https://osu.ppy.sh/users/214187) has gone out of the shadows once against and set what might be one of the most meta-breaking plays of the whole game, getting an HRFL SS on the top diff of [ded_ED](https://osu.ppy.sh/beatmapsets/1705910#fruits/3800941), a 30 seconds CS 9.1 AR 0 map maxed out with the tightest jumps you can imagine, we heavily recommend watching the replay as there are very few plays in the game like this one.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/WtUCel2sChA" frameborder="0" allowfullscreen></iframe>
 
-Don't let this play steal all the spotlight, as we have seen more crazy scores this month, like the [first S rank](https://osu.ppy.sh/scores/fruits/209751344) on the top difficulty of [HUG & KILL](https://osu.ppy.sh/beatmapsets/1687036#fruits/3451294) set by [Motion](https://osu.ppy.sh/users/3885626/fruits), dominating one of the fastest maps in catch the beat, or the first ever [EZDT FC](https://osu.ppy.sh/scores/fruits/209892502) on [Caliburne ~Story of the Legendary sword~](https://osu.ppy.sh/beatmapsets/625881#fruits/1319335), worth 650pp, set once again by [ExGon](https://osu.ppy.sh/users/214187), being the second highest performance rating ever achieved with this mod combination.
+Don't let this play steal all the spotlight, as we have seen more crazy scores this month, like the [first S rank](https://osu.ppy.sh/scores/fruits/209751344) on the top difficulty of [HUG & KILL](https://osu.ppy.sh/beatmapsets/1687036#fruits/3451294) set by [Motion](https://osu.ppy.sh/users/3885626/fruits), dominating one of the fastest maps in catch the beat, or yet another high cs play by [ExGon](https://osu.ppy.sh/users/214187), obtaining a full combo on his own map, [Broken Hearts](https://osu.ppy.sh/beatmapsets/461355#fruits/988074) with FL, this is the first FC on the map (even while counting NM or HT).
 
 ## Did you know?
 
