@@ -47,8 +47,8 @@ Judging will be done by a panel of [experienced mappers and players](/wiki/Conte
 ## Schedule
 
 - **October 23rd - November 6th:** Mapping phase
-- **November 7th - November 21st:** Screening phase
-- **November 22nd - December 6th:** Judging phase
+- **November 7th – November 21st:** Screening phase
+- **November 22nd – December 6th:** Judging phase
 - **December 13th:** Results announcement
 
 ## Prizes
