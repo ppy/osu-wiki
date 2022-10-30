@@ -174,7 +174,7 @@ The GB Cup 2022 Autumn is run by the Team GB and various community members.
 
 ## Match results
 
-### Reugular stage summary
+### Regular stage summary
 
 | #[^rs-summary-seed] | Team | Abbr. | MR[^rs-summary-mr] | BR[^rs-summary-br] | BD[^rs-summary-bd] | BU[^rs-summary-bu] | Round 1 | Round 2 | Round 3 | Round 4 |
 | :-: | --: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
