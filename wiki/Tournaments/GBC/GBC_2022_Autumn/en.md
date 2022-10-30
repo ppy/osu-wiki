@@ -583,7 +583,6 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
 
 [^bu]: Ranking based on opponents' performance. (`all opponents' wins - all opponents' losses`)
 [^rs-summary-seed]: Seed: the top 16 advance to the next round.
-[^rs-summary-abbr]: Team's abbreviation.
 [^rs-summary-mr]: Match record.
 [^rs-summary-br]: Beatmap record.
 [^rs-summary-bd]: Beatmap difference.
