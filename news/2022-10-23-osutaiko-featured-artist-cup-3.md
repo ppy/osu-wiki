@@ -18,7 +18,14 @@ Just like every other contest out there, there are some rules that must be follo
 - **Entries must be in `.osz` format.**
 - **Contestants must submit ONE difficulty of any song they choose from the [Featured Artist library](https://osu.ppy.sh/beatmaps/artists).**
 - **Entries must not exceed the drain time of 7 minutes.** There will a bit of leeway in cases where the drain time is really close to the 7 minute mark.
-- **Entries should abide by the [Ranking Criteria](/wiki/Ranking_Criteria).** Mistakes happen and points will be deducted for them, but submissions that cannot be ranked without major changes will be disqualified. (You are allowed to ignore spread rules for the sake of this contest.)
+- **Entries should abide by the [Ranking Criteria](/wiki/Ranking_Criteria).** Mistakes happen and points will be deducted for them, but submissions that cannot be ranked without major changes will be disqualified. The following categories of the Ranking Criteria may be ignored for the sake of this contest:
+  - Audio.
+  - Metadata.
+  - Skinning.
+  - Spread requirements.
+  - Storyboarding.
+  - Video and background.
+
 - **Team name and members must be confirmed through [this form](https://forms.gle/HhX6FahJyg2YapB96).**
   - If your country does not support Google Forms, [send Hivie a message](https://osu.ppy.sh/community/chat?sendto=14102976).
   - Teams consist of 2 members, the captain and the teammate.
@@ -41,8 +48,9 @@ Judging will be done by a panel of [experienced mappers and players](/wiki/Conte
 ## Schedule
 
 - **October 23rd - November 6th:** Mapping phase
-- **November 7th - November 21st:** Judging phase
-- **November 28th:** Results announcement
+- **November 7th - November 21st:** Screening phase
+- **November 22nd - December 6th:** Judging phase
+- **December 13th:** Results announcement
 
 ## Prizes
 

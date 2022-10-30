@@ -21,8 +21,9 @@ The **osu!taiko Featured Artist Cup #3** (***o!tfac #3***) is an osu!taiko mappi
 | Event | Timestamp (UTC) |
 | --: | :-- |
 | Mapping phase | 2022-10-23/2022-11-06 00:00 |
-| Judging phase | 2022-11-07/2022-11-21 |
-| Results announcement | 2022-11-28 |
+| Screening phase | 2022-11-07/2022-11-21 00:00 |
+| Judging phase | 2022-11-22/2022-12-06 00:00 |
+| Results | 2022-12-13 |
 
 ## Organisation
 
@@ -33,6 +34,7 @@ The osu!taiko Featured Artist Cup #3 is run by various community members.
 | Host | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) |
 | Designer | ::{ flag=GB }:: [Tanza3D](https://osu.ppy.sh/users/10379965) |
 | Judge | ::{ flag=AR }:: [Axer](https://osu.ppy.sh/users/7299864), ::{ flag=NL }:: [Boaz](https://osu.ppy.sh/users/13302996), ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097), ::{ flag=MY }:: [\[Zeth\]](https://osu.ppy.sh/users/9912966) |
+| Screener | *TBD* |
 
 ## Prizes
 
@@ -61,7 +63,14 @@ This contest features the re-introduction of [MBC Points](/wiki/Contests/Monthly
 - **Entries must be in `.osz` format.**
 - **Contestants must submit ONE difficulty of any song they choose from the [Featured Artist library](https://osu.ppy.sh/beatmaps/artists).**
 - **Entries must not exceed the drain time of 7 minutes.** There will a bit of leeway in cases where the drain time is really close to the 7 minute mark.
-- **Entries should abide by the [Ranking Criteria](/wiki/Ranking_Criteria).** Mistakes happen and points will be deducted for them, but submissions that cannot be ranked without major changes will be disqualified. (You are allowed to ignore spread rules for the sake of this contest.)
+- **Entries should abide by the [Ranking Criteria](/wiki/Ranking_Criteria).** Mistakes happen and points will be deducted for them, but submissions that cannot be ranked without major changes will be disqualified. The following categories of the Ranking Criteria may be ignored for the sake of this contest:
+  - Audio.
+  - Metadata.
+  - Skinning.
+  - Spread requirements.
+  - Storyboarding.
+  - Video and background.
+  
 - **Team name and members must be confirmed through [this form](https://forms.gle/HhX6FahJyg2YapB96).**
   - If your country does not support Google Forms, [send Hivie a message](https://osu.ppy.sh/community/chat?sendto=14102976).
   - Teams consist of 2 members, the captain and the teammate.
@@ -75,7 +84,7 @@ This contest features the re-introduction of [MBC Points](/wiki/Contests/Monthly
 - **Relevance (10 Points):** Points will be assigned based on how well the map represents the song and how well it plays.
 - **Creativity (10 Points):** Points will be assigned based on how the submission uses creative and fitting elements to make itself stand out.
 - **Judge's Impression (5 Points):** Points will be assigned based on what the judge thinks about your entry.
-- **Ranking Criteria (5 Points):** Points will be assigned based on how well the map abides by the ranking criteria (this includes both difficulties).
+- **Ranking Criteria (5 Points):** Points will be assigned based on how well the map abides by the ranking criteria.
 
 ## Notes
 
