@@ -84,7 +84,7 @@ GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
 | 3 | **俄亥俄州立大学躁狂播放器** | ::{ flag=CN }:: **[YUCInoback](https://osu.ppy.sh/users/24449770)**, ::{ flag=CN }:: [StarTemplar](https://osu.ppy.sh/users/8795096), ::{ flag=CN }:: [\[GB\]Foxy1459](https://osu.ppy.sh/users/14938400), ::{ flag=CN }:: [iiiiiy](https://osu.ppy.sh/users/26677842), ::{ flag=CN }:: [-fm777-](https://osu.ppy.sh/users/30122510) |
 | 4 | **你说的队** | ::{ flag=CN }:: **[N3k0ha_5h12uku](https://osu.ppy.sh/users/8781662)**, ::{ flag=CN }:: [Mantozi](https://osu.ppy.sh/users/10764424), ::{ flag=CN }:: [xibuniuzai](https://osu.ppy.sh/users/10513110), ::{ flag=CN }:: [crazy438](https://osu.ppy.sh/users/11305932), ::{ flag=CN }:: [chino0133](https://osu.ppy.sh/users/16626292) |
 | 5 | **番茄炒树莓** | ::{ flag=CN }:: **[vanposen](https://osu.ppy.sh/users/15289293)**, ::{ flag=CN }:: [\[Crz\]Flandre](https://osu.ppy.sh/users/6949941), ::{ flag=AU }:: [\[Crz\]Yukikaze-](https://osu.ppy.sh/users/8832989), ::{ flag=CN }:: [KCINE](https://osu.ppy.sh/users/24289042), ::{ flag=CN }:: [\[GB\]ReMILia](https://osu.ppy.sh/users/18334226) |
-| 6 | **素鲍小馆丸子面条铺** | ::{ flag=CN }:: **[Supa7onyz](https://osu.ppy.sh/users/5378805)**, ::{ flag=CN }:: [\[Crz\]Rumia](https://osu.ppy.sh/users/17686114), ::{ flag=CN }:: [xinyi2016](https://osu.ppy.sh/users/14213841), ::{ flag=HK }:: [Sakuramoe](https://osu.ppy.sh/users/19885258), ::{ flag=CN }:: [lib4d](https://osu.ppy.sh/users/26181073) |
+| 6 | **素鲍小馆丸子面条铺** | ::{ flag=CN }:: **[Supa7onyz](https://osu.ppy.sh/users/5378805)**, ::{ flag=CN }:: [xinyi2016](https://osu.ppy.sh/users/14213841), ::{ flag=HK }:: [Sakuramoe](https://osu.ppy.sh/users/19885258), ::{ flag=CN }:: [lib4d](https://osu.ppy.sh/users/26181073) |
 | 7 | **DAMWONGaming** | ::{ flag=CN }:: **[7581yx](https://osu.ppy.sh/users/23070586)**, ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [For need](https://osu.ppy.sh/users/10496581), ::{ flag=CN }:: [\[GB\]Aeolus](https://osu.ppy.sh/users/5547341), ::{ flag=CN }:: [chineseYT](https://osu.ppy.sh/users/27552902) |
 | 8 | **EIPSYKONGROO** | ::{ flag=CN }:: **[NdAa1A0](https://osu.ppy.sh/users/13484261)**, ::{ flag=CN }:: [Hitachimako0721](https://osu.ppy.sh/users/8883576), ::{ flag=CN }:: [Myon_](https://osu.ppy.sh/users/16626025), ::{ flag=CN }:: [Echo_XF](https://osu.ppy.sh/users/25630297), ::{ flag=CN }:: [KawaiiPoi](https://osu.ppy.sh/users/10694345) |
 | 9 | **都什么年代还在玩传统音游** | ::{ flag=CN }:: **[Frozen moon](https://osu.ppy.sh/users/8999766)**, ::{ flag=CN }:: [Ranm](https://osu.ppy.sh/users/17527822), ::{ flag=CN }:: [WELUVELAN](https://osu.ppy.sh/users/29562558), ::{ flag=CN }:: [\[Lily_White\]](https://osu.ppy.sh/users/12749779), ::{ flag=CN }:: [\[GB\]Cz](https://osu.ppy.sh/users/9191281) |
@@ -104,28 +104,29 @@ GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
 | 23 | **近月少女的礼仪** | ::{ flag=CN }:: **[Zyuuu](https://osu.ppy.sh/users/15389275)**, ::{ flag=CN }:: [tito31158](https://osu.ppy.sh/users/16436669), ::{ flag=CN }:: [Koishi-0514](https://osu.ppy.sh/users/7546593), ::{ flag=CN }:: [yem sky](https://osu.ppy.sh/users/10588209), ::{ flag=CN }:: [FALSEFAST](https://osu.ppy.sh/users/25508274) |
 | 24 | **又一个倒霉蛋** | ::{ flag=CN }:: **[fishbone2445](https://osu.ppy.sh/users/17640814)**, ::{ flag=CN }:: [chana](https://osu.ppy.sh/users/18375016), ::{ flag=CN }:: [ALWW](https://osu.ppy.sh/users/18786195), ::{ flag=CN }:: [KafuChino](https://osu.ppy.sh/users/14826575), ::{ flag=CN }:: [spensll](https://osu.ppy.sh/users/4547744) |
 
-## 赛程: 常规赛第一轮
+## 赛程: 常规赛第 2 周
 
-### 2022 年 10 月 29 日，星期六
-
-| A 队 | B 队 | 比赛时间 (UTC+8) |
-| --: | :-- | :-- |
-| 铁戈金马 | 队名太多不知道用哪个 | Oct 29 (Sat) 18:00 |
-| 我屙屎精灵我交泥如活打屙 | 上课军训补课反正凑不齐人 | Oct 29 (Sat) 19:00 |
-| 俄亥俄州立大学躁狂播放器 | 奖励一把大天空 | Oct 29 (Sat) 19:00 |
-| BMS精灵 | 近月少女的礼仪 | Oct 29 (Sat) 19:30 |
-| 都什么年代还在玩传统音游 | 猫猫面馆 | Oct 29 (Sat) 20:30 |
-| 无所谓绿皮龙会出手的 | 又一个倒霉蛋 | Oct 29 (Sat) 21:00 |
-| DAMWONGaming | SV狗都不玩 | Oct 29 (Sat) 21:00 |
-| 要我一直摆烂一直摆烂吗 | 均衡教派 | Oct 29 (Sat) 21:30 |
-| EIPSYKONGROO | 黎曼猜想 | Oct 29 (Sat) 22:00 |
-
-### 2022 年 10 月 30 日，星期日
+### 2022 年 11 月 5 日，星期六：
 
 | A 队 | B 队 | 比赛时间 (UTC+8) |
 | --: | :-- | :-- |
-| 你说的队 | ban位先ban行李箱 | Oct 30 (Sun) 16:00 |
-| 素鲍小馆丸子面条铺 | 经典米托镂空鱼香鸡肉丸 | Oct 30 (Sun) 16:00 |
+| EIPSYKONGROO | 俄亥俄州立大学躁狂播放器 | Nov 5 (Sat) 15:30 |
+| 你说的队 | 无所谓绿皮龙会出手的 | Nov 5 (Sat) 17:00 |
+| 番茄炒树莓 | 队名太多不知道用哪个 | Nov 5 (Sat) 19:00 |
+| 都什么年代还在玩传统音游 | SV狗都不玩 | Nov 5 (Sat) 20:00 |
+| 奖励一把大天空 | 黎曼猜想 | Nov 5 (Sat) 20:00 |
+| 上课军训补课反正凑不齐人 | 要我一直摆烂摆烂吗 | Nov 5 (Sat) 20:30 |
+| DAMWONGaming | 猫猫面馆 | Nov 5 (Sat) 20:30 |
+| BMS精灵 | 素鲍小馆丸子面条铺 | Nov 5 (Sat) 22:00 |
+
+### 2022 年 11 月 6 日，星期日：
+
+| A 队 | B 队 | 比赛时间 (UTC+8) |
+| --: | :-- | :-- |
+| 又一个倒霉蛋 | ban位先ban行李箱 | Nov 6 (Sun) 17:00 |
+| 铁戈金马 | 为所动做为所欲为的所欲为 | Nov 6 (Sun) 19:00 |
+| 均衡教派 | 我屙屎精灵我交泥如活打屙 | Nov 6 (Sun) 20:30 |
+| 经典米托镂空鱼香鸡肉丸 | 近月少女的礼仪 | Nov 6 (Sun) 22:00 |
 
 ## 图池
 
@@ -172,6 +173,59 @@ GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
   1. [IslandWind/PIKASONIC - Forever (Cut ver.) (\[GB\]Mafufu) \[Stage 1: Everlasting\]](https://osu.ppy.sh/beatmapsets/1863068#mania/3831056)
 
 ## 赛果
+
+### 常规赛总结
+
+| #[^rs-summary-seed] | 队伍 | 缩写 | 场次战绩 | 谱面战绩 | 净胜局 | BU[^rs-summary-bu] | 第一轮 | 第二轮 | 第三轮 | 第四轮 |
+| :-: | --: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 1 | DAMWONGaming | DWG | 1-0 | 6-0 | 6 | -1 | 6-0 不玩SV | 猫猫面馆 |
+| 2 | 奖励一把大天空 | 奖励天空 | 1-0 | 6-1 | 5 | -1 | 6-1 俄亥俄 | ζ(s) |
+| 3 | 又一个倒霉蛋 | 倒霉蛋 | 1-0 | 6-1 | 5 | -1 | 6-1 绿皮龙 | 行李箱 |
+| 4 | 铁戈金马 | 铁戈金马 | 1-0 | 6-2 | 4 | -1 | 6-2 队名难取 | 不为所动 |
+| 5 | 均衡教派 | 均衡教派 | 1-0 | 6-2 | 4 | -1 | 6-2 开摆 | 屙屎精灵 |
+| 6 | 经典米托镂空鱼香鸡肉丸 | 肉丸子 | 1-0 | 6-2 | 4 | -1 | 6-2 素鲍小馆 | 近月少女 |
+| 7 | 近月少女的礼仪 | 近月少女 | 1-0 | 6-2 | 4 | -1 | 6-2 BMS | 肉丸子 |
+| 8 | 我屙屎精灵我交泥如活打屙 | 屙屎精灵 | 1-0 | 6-3 | 3 | -1 | 6-3 凑不齐人 | 均衡教派 |
+| 9 | 为所动做为所欲为的所欲为 | 不为所动 | 1-0 | 6-3 | 3 | -1 | 6-3 炒树莓 | 铁戈金马 |
+| 10 | ban位先ban行李箱 | 行李箱 | 1-0 | 6-3 | 3 | -1 | 6-3 你说的队 | 倒霉蛋 |
+| 11 | 黎曼猜想 | ζ(s) | 1-0 | 6-4 | 2 | -1 | 6-4 石头门 | 奖励天空 |
+| 12 | 猫猫面馆 | 猫猫面馆 | 1-0 | 6-5 | 1 | -1 | 6-5 传统音游 | DWG |
+| 13 | 都什么年代还在玩传统音游 | 传统音游 | 0-1 | 5-6 | -1 | 1 | 5-6 猫猫面馆 | 不玩SV |
+| 14 | EIPSYKONGROO | 石头门 | 0-1 | 4-6 | -2 | 1 | 4-6 ζ(s) | 俄亥俄 |
+| 15 | 你说的队 | 你说的队 | 0-1 | 3-6 | -3 | 1 | 3-6 行李箱 | 绿皮龙 |
+| 16 | 番茄炒树莓 | 炒树莓 | 0-1 | 3-6 | -3 | 1 | 3-6 不为所动 | 队名难取 |
+| 17 | 上课军训补课反正凑不齐人 | 凑不齐人 | 0-1 | 3-6 | -3 | 1 | 3-6 屙屎精灵 | 开摆 |
+| 18 | BMS精灵 | BMS | 0-1 | 2-6 | -4 | 1 | 2-6 近月少女 | 素鲍小馆 |
+| 19 | 素鲍小馆丸子面条铺 | 素鲍小馆 | 0-1 | 2-6 | -4 | 1 | 2-6 肉丸子 | BMS |
+| 20 | 要我一直摆烂一直摆烂吗 | 开摆 | 0-1 | 2-6 | -4 | 1 | 2-6 均衡教派 | 凑不齐人 |
+| 21 | 队名太多不知道用哪个 | 队名难取 | 0-1 | 2-6 | -4 | 1 | 2-6 铁戈金马 | 炒树莓 |
+| 22 | 无所谓绿皮龙会出手的 | 绿皮龙 | 0-1 | 1-6 | -5 | 1 | 1-6 倒霉蛋 | 你说的队 |
+| 23 | 俄亥俄州立大学躁狂播放器 |  | 俄亥俄 | 0-1 | 1-6 | -5 | 1 | 1-6 奖励天空 | 石头门 |
+| 24 | SV狗都不玩 | 不玩SV | 0-1 | 0-6 | -6 | 1 | 0-6 DWG | 传统音游 |
+
+### 常规赛第 1 周
+
+2022 年 10 月 29 日，星期六：
+
+| A 队 |  |  | B 队 | 比赛链接 |
+| --: | --: | :-- | :-- | :-: |
+| 俄亥俄州立大学躁狂播放器 | 1 | **6** | **奖励一把大天空** | [#1](https://osu.ppy.sh/community/matches/104722664) |
+| **我屙屎精灵我交泥如活打屙** | **6** | 3 | 上课军训补课反正凑不齐人 | [#1](https://osu.ppy.sh/community/matches/104723025) |
+| BMS精灵 | 2 | **6** | **近月少女的礼仪** | [#1](https://osu.ppy.sh/community/matches/104723115) |
+| 番茄炒树莓 | 3 | **6** | **为所动做为所欲为的所欲为** | [#1](https://osu.ppy.sh/community/matches/104723812) |
+| **铁戈金马** | **6** | 2 | 队名太多不知道用哪个 | [#1](https://osu.ppy.sh/community/matches/104723704) |
+| 都什么年代还在玩传统音游 | 5 | **6** | **猫猫面馆** | [#1](https://osu.ppy.sh/community/matches/104724218) |
+| 无所谓绿皮龙会出手的 | 1 | **6** | **又一个倒霉蛋** | [#1](https://osu.ppy.sh/community/matches/104725150) |
+| **DAMWONGaming** | **6** | 0 | SV狗都不玩 | [#1](https://osu.ppy.sh/community/matches/104725103) |
+| 要我一直摆烂一直摆烂吗 | 2 | **6** | **均衡教派** | [#1](https://osu.ppy.sh/community/matches/104725874) |
+| EIPSYKONGROO | 4 | **6** | **黎曼猜想** | [#1](https://osu.ppy.sh/community/matches/104726550) |
+
+2022 年 10 月 30 日，星期日：
+
+| A 队 |  |  | B 队 | 比赛链接 |
+| --:  |--: | :-- | :-- | :-: |
+| 你说的队 | 3 | **6** | **ban位先ban行李箱** | [#1](https://osu.ppy.sh/community/matches/104746301) |
+| 素鲍小馆丸子面条铺 | 2 | **6** | **经典米托镂空鱼香鸡肉丸** | [#1](https://osu.ppy.sh/community/matches/104746966) |
 
 ### 资格赛
 
@@ -425,7 +479,7 @@ GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
 
 ### 常规赛介绍
 
-1. 常规赛总共包含四轮瑞士轮比赛，这意味着比赛期间成绩相同的队伍会优先进行比赛。
+1. 常规赛总共包含四轮瑞士轮比赛，这意味着比赛期间场次成绩相同的队伍会优先进行比赛。
 2. 常规赛队伍的排名将依次取决于以下的条件：
    - 更多的净胜场
    - 更好的相互战绩（如果存在）
@@ -504,3 +558,8 @@ GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
 
 1. 事实证明，比翻译一个晦涩的 wiki 文档更简单的方式是直接用中文重写一份，原文很多东西翻译起来是真的别扭。
 2. 有一个中文wiki是众多参赛选手呼声已久的事情，文档由 \[GB\]yobrevelc 重新编写，感谢 \[GB\]Natro 和 \[GB\]Rush_FTK 对本项工作的大力支持。
+
+## 脚注
+
+[^rs-summary-seed]: 排名：前 16 名晋级。
+[^rs-summary-bu]: 所有对手的净胜场和。
