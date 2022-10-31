@@ -26,7 +26,7 @@ tags:
 
 Spieler können die `Modauswahl` in der Songauswahl durch das Klicken des Buttons `Mods` nahe der linken, unteren Bildschirmecke oder durch das Drücken der Taste `F1` auf ihrer Tastatur erreichen. Einmal in der `Modauswahl`, gibt es Tastenkürzel, die zum Aktivieren oder Deaktivieren von bestimmten Mods verwendet werden können. Diese Kürzel können in den Einstellungen geändert werden.
 
-Im Auswahlmenü sind Mods in drei Kategorien aufgeteilt: `Einfacher`, `Schwieriger` sowie `Sonstige` und sie können den [`Punktemultiplikator`](/wiki/Game_modifier/Score_multiplier) entweder reduzieren, erhöhen oder entfernen. Wenn zwei Mods gleichzeitig genutzt werden, werden die jeweiligen Multiplikatoren der Mods miteinander multipliziert (z. B. `1.06-fach * 1.12-fach = 1.1872-fach`).
+Im Auswahlmenü sind Mods in drei Kategorien aufgeteilt: `Einfacher`, `Schwieriger` sowie `Sonstige` und sie können den [`Score-Multiplikator`](/wiki/Game_modifier/Score_multiplier) entweder reduzieren, erhöhen oder entfernen. Wenn zwei Mods gleichzeitig genutzt werden, werden die jeweiligen Multiplikatoren der Mods miteinander multipliziert (z. B. `1.06-fach * 1.12-fach = 1.1872-fach`).
 
 ## Liste der Mods
 

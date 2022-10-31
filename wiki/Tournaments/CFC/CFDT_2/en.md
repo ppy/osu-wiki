@@ -10,7 +10,7 @@ tags:
 
 ![CFDT 2 logo](img/logo.png)
 
-The **Catch French Dual Tournament 2** (***CFDT 2***) is a French double-elimination 2v2 osu!catch tournament hosted by ::{ flag=FR }:: [h-e-c-a123](https://osu.ppy.sh/users/3163012) and ::{ flag=FR }:: [Laffey Gaming](https://osu.ppy.sh/users/5122949). Teams consist of two players, where the first player is ranked between #1 and #500, and the latter is ranked #501 or below. It is the second instalment of the Catch French Dual Tournament and part of the Catch French Cup series.
+The **Catch French Dual Tournament 2** (***CFDT 2***) was a French double-elimination 2v2 osu!catch tournament hosted by ::{ flag=FR }:: [h-e-c-a123](https://osu.ppy.sh/users/3163012) and ::{ flag=FR }:: [Laffey Gaming](https://osu.ppy.sh/users/5122949). Teams consisted of two players, where the first player was ranked between #1 and #500, and the latter was ranked #501 or below. It was the second instalment of the Catch French Dual Tournament and part of the Catch French Cup series.
 
 ## Tournament schedule
 
@@ -20,11 +20,11 @@ The **Catch French Dual Tournament 2** (***CFDT 2***) is a French double-elimina
 | Screening phase | 2022-07-25/2022-08-07 |
 | Live drawings | 2022-08-14 (21:00 UTC+2) |
 | Qualifiers | 2022-08-16/2022-08-21 |
-| Round of 16 | 2022-08-23/2022-08-24 |
-| Quarterfinals | 2022-08-30/2022-08-31 |
-| Semifinals | 2022-09-03/2022-09-04 |
-| Finals | 2022-09-10/2022-09-11 |
-| Grand Finals | 2022-09-17/2022-09-18 |
+| Round of 16 | 2022-08-27/2022-08-28 |
+| Quarterfinals | 2022-09-03/2022-09-04 |
+| Semifinals | 2022-09-10/2022-09-17 |
+| Finals | 2022-09-24/2022-09-25 |
+| Grand Finals | 2022-10-02 |
 
 ## Prizes
 
@@ -33,9 +33,11 @@ The **Catch French Dual Tournament 2** (***CFDT 2***) is a French double-elimina
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 2 months of osu!supporter |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter |
 
+![](img/badge.jpg "CFDT 2 winner badge")
+
 ## Organisation
 
-The Catch French Dual Tournament 2 is run by various community members.
+The Catch French Dual Tournament 2 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -79,7 +81,71 @@ The Catch French Dual Tournament 2 is run by various community members.
 | **Taco w/ Baguette** | ::{ flag=FR }:: **[Gray Hardrock](https://osu.ppy.sh/users/9049282)**, ::{ flag=CL }:: [Pekorrat](https://osu.ppy.sh/users/1250096) |
 | **Timezone diff** | ::{ flag=FR }:: **[Jielefe](https://osu.ppy.sh/users/15334170)**, ::{ flag=KR }:: [\[Amazing\]](https://osu.ppy.sh/users/1391036) |
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **5€** (::{ flag=FR }:: **[Boros](https://osu.ppy.sh/users/5490623)**, ::{ flag=KR }:: [T s u m i](https://osu.ppy.sh/users/4080520)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **:pleading_face:** (::{ flag=FR }:: **[Natsuko](https://osu.ppy.sh/users/8266817)**, ::{ flag=ID }:: [Ruu](https://osu.ppy.sh/users/3212755)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **French Penguins** (::{ flag=FR }:: **[Yostel](https://osu.ppy.sh/users/3594510)**, ::{ flag=IT }:: [ArMa79](https://osu.ppy.sh/users/4982799)) |
+
 ## Mappools
+
+### Grand Finals
+
+- NoMod
+  1. [Kobaryo - Villain Virus \[feat. Camellia\] (x\_angelkawaii\_x) \[Deluge\]](https://osu.ppy.sh/beatmapsets/1689443#fruits/3519510)
+  2. [Studio EIM - Crescent Moon Island Boss Theme (Emiru) \[Keaghan\]](https://osu.ppy.sh/beatmapsets/817364#fruits/1714006)
+  3. [siqlo - parsley (autofanboy) \[/eftover\]](https://osu.ppy.sh/beatmapsets/1856063#fruits/3814171)
+  4. [SHK - Imagination (ktgster) \[SHD\]](https://osu.ppy.sh/beatmapsets/1078340#fruits/2256378)
+  5. [LiSA - Gurenge (Crissa) \[Dance of the Fire God\]](https://osu.ppy.sh/beatmapsets/1025171#fruits/2144225)
+  6. [gmtn. (witch's slave) - Daraku no Sono (yf\_bmp) \[SB's Extra\]](https://osu.ppy.sh/beatmapsets/1470956#fruits/3302302)
+- Hidden
+  1. [kanemiko - Electrolytes (Unlucky_w) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1774562#fruits/3633672)
+  2. [Laur - Fairy in Strasbourg (Crowley) \[Billiam, my beloved.\]](https://osu.ppy.sh/beatmapsets/1373059#fruits/2838713)
+  3. [Nekomata Master - Smile of Split (Charles445) \[Insane\]](https://osu.ppy.sh/beatmapsets/56847#fruits/171678)
+  4. [Kenshi Yonezu - MAD HEAD LOVE (Keqing) \[CRAZY\]](https://osu.ppy.sh/beatmapsets/1429536#fruits/2942890)
+- HardRock
+  1. [Camellia feat. Nanahira - Bassline Yatteru? w (Kukkai) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1643938#fruits/3355835)
+  2. [CELLON. - Virtual mode (JBHyperion) \[Sanyi's Overdose\]](https://osu.ppy.sh/beatmapsets/1069501#fruits/2291062)
+  3. [Camellia - Routing (Shiirn) \[Extra\]](https://osu.ppy.sh/beatmapsets/403282#fruits/967558)
+  4. [Sta - Shadows in the Light (Nerova Riuz GX) \[-presence?\]](https://osu.ppy.sh/beatmapsets/504690#fruits/1073731)
+- DoubleTime
+  1. [Luna - Shinsekai no Alpha (amulet-pp) \[Lumi's Rain\]](https://osu.ppy.sh/beatmapsets/1319986#fruits/2747990)
+  2. [LiSA - Homura (Secre) \[Purgatory\]](https://osu.ppy.sh/beatmapsets/1397428#fruits/2883811)
+  3. [K/DA - MORE feat. Madison Beer, (G)I-DLE, Lexie Liu, Jaira Burns, Seraphine (Elinor) \[Halgoh & Eli's Insane\]](https://osu.ppy.sh/beatmapsets/1288125#fruits/2674544)
+  4. [The Fray - How to Save a Life (- Heatwave -) \[Powerless\]](https://osu.ppy.sh/beatmapsets/1767475#fruits/3742749)
+- Tiebreaker
+  1. **[DragonForce - Defenders (fuhie) \[fuhie & Verti's Primordial Guardians\]](https://osu.ppy.sh/beatmapsets/1557758#fruits/3182142)**
+
+### Finals
+
+- NoMod
+  1. [DJ Myosuke & Noizenecio - Architecture (Razor Sharp) \[Kukkai's Overdose\]](https://osu.ppy.sh/beatmapsets/1508396#fruits/3357235)
+  2. [The Wrecks - Favorite Liar (Crowley) \[BLOODY FUCKING LIAR!\]](https://osu.ppy.sh/beatmapsets/691527#fruits/1463436)
+  3. [xi - Valhalla (Jemzuu) \[Agartha\]](https://osu.ppy.sh/beatmapsets/1671304#fruits/3413668)
+  4. [Cilvery - Kamisama Nejimaki (sukiNathan) \[pk's Extra\]](https://osu.ppy.sh/beatmapsets/374900#fruits/827835)
+  5. [The Red Jumpsuit Apparatus - Face Down (theramdans) \[Akitoshi's Suffering\]](https://osu.ppy.sh/beatmapsets/619824#fruits/1413439)
+  6. [NIWASHI - Sapphire On Fire (DeviousPanda) \[Extravaganza\]](https://osu.ppy.sh/beatmapsets/1461145#fruits/3002063)
+- Hidden
+  1. [katagiri - Urushi (Jemzuu) \[Jemzuu & Nelly's Overdose\]](https://osu.ppy.sh/beatmapsets/1482723#fruits/3046611)
+  2. [A-One feat. Shihori - Magic Girl !! (Greaper) \[Deif's Rain\]](https://osu.ppy.sh/beatmapsets/1644488#fruits/3356803)
+  3. [Alfakyun. - KING (Ryuusei Aika) \[Altai's Expert\]](https://osu.ppy.sh/beatmapsets/1354539#fruits/2810356)
+  4. [Sakuzyo - Instinct (Zelq) \[Circles\]](https://osu.ppy.sh/beatmapsets/1291263#fruits/2680275)
+- HardRock
+  1. [Mili - Ga1ahad and Scientific Witchery (Benita) \[Lacrima's Incantation\]](https://osu.ppy.sh/beatmapsets/1361768#fruits/2817663)
+  2. [Christopher Larkin - Mantis Lords (0 K Remix) (JBHyperion) \[Ascendance's Overdose\]](https://osu.ppy.sh/beatmapsets/1763744#fruits/3671624)
+  3. [BAND-MAID - RINNE (ShirohaMyMommy) \[MIRASH'S EXTRA\]](https://osu.ppy.sh/beatmapsets/1193063#fruits/2485991)
+  4. [fiend - FEVER DREAM (feat. yzzyx) (Niva) \[INSANE\]](https://osu.ppy.sh/beatmapsets/1405913#fruits/2916771)
+- DoubleTime
+  1. [UNDEAD CORPORATION - Embraced by the Flame (Daletto) \[Hex's Platter\]](https://osu.ppy.sh/beatmapsets/1179938#fruits/2460432)
+  2. [Hylian Lemon - Foresight Is for Losers (ZiRoX) \[Collab Rain\]](https://osu.ppy.sh/beatmapsets/342751#fruits/757539)
+  3. [DJ Fresh (feat. Rita Ora) - Hot Right Now (Radio Edit) (Asphyxia) \[Kysphyxia's Insane\]](https://osu.ppy.sh/beatmapsets/231114#fruits/539090)
+  4. [Kamiyama Yoh - Oyasumi, Kamisama (Peter) \[Adolescence\]](https://osu.ppy.sh/beatmapsets/1079359#fruits/2258250)
+- Tiebreaker
+  1. **[GALNERYUS - RAISE MY SWORD (Ascendance) \[FINAL DESTINATION\]](https://osu.ppy.sh/beatmapsets/904065#fruits/1887260)**
 
 ### Semifinals
 
@@ -163,6 +229,57 @@ The Catch French Dual Tournament 2 is run by various community members.
   1. [Silentroom vs. Frums - Aegleseeker (Jemzuu) \[AFB's Platter\]](https://osu.ppy.sh/beatmapsets/1460413#fruits/3024973)
 
 ## Match results
+
+### Grand Finals
+
+Sunday, 2 October 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **5€** | **7** | 3 | French Penguins | [#1](https://osu.ppy.sh/community/matches/104176370) |
+| :pleading_face: | 4 | **7** | **5€** | [#1](https://osu.ppy.sh/community/matches/104177993) |
+| **5€** | **7** | 3 | :pleading_face: | [#1](https://osu.ppy.sh/community/matches/104179900) |
+
+### Finals
+
+Saturday, 24 September 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Quesedilla avec les frites BELGES | -1 | **0** | **Florika** | *win by default* |
+| FR X US coalition | 2 | **7** | **French Penguins** | [#1](https://osu.ppy.sh/community/matches/103996932) |
+
+Sunday, 25 September 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| 5€ | 4 | **7** | **:pleading_face:** | [#1](https://osu.ppy.sh/community/matches/104021542) |
+| **French Penguins** | **7** | 2 | Florika | [#1](https://osu.ppy.sh/community/matches/104023985) |
+
+### Semifinals
+
+Saturday, 10 September 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Le Grand Jordan23 | -1 | **0** | **Timezone diff** | *win by default* |
+| **Taco w/ Baguette** | **6** | 0 | Not French | [#1](https://osu.ppy.sh/community/matches/103694062) |
+| **French Penguins** | **6** | 0 | :nanasmil: | [#1](https://osu.ppy.sh/community/matches/103696984) |
+
+Sunday, 11 September 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Florika** | **6** | 5 | JP DANS DA TOURNOI | [#1](https://osu.ppy.sh/community/matches/103708019) |
+| **5€** | **6** | 1 | FR X US coalition | [#1](https://osu.ppy.sh/community/matches/103717587) |
+| **:pleading_face:** | **6** | 0 | Quesedilla avec les frites BELGES | [#1](https://osu.ppy.sh/community/matches/103719087) |
+
+Saturday, 17 September 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Timezone diff | 1 | **6** | **French Penguins** | [#1](https://osu.ppy.sh/community/matches/103843733) |
+| **Florika** | **6** | 3 | Taco w/ Baguette | [#1](https://osu.ppy.sh/community/matches/103843022) |
 
 ### Quarterfinals
 
