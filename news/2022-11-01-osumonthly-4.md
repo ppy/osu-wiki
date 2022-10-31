@@ -39,7 +39,7 @@ It may be the spookiest month of the year, but the osu! dev team has stayed calm
     </video>
 </div>
 
-In other news, a new mod titled *Freeze Frame* has been added. It changes gameplay by making all objects in a combo load in at once, then slowly zooms in each approach circle sequentially, emulating a form low approach rate. Words don't really do it justice, so make sure to check it out in osu!(lazer) today if you enjoy reading challenges.
+In other news, a new mod titled *Freeze Frame* has been added. It changes gameplay by making all objects in a combo load in at once, then slowly zooms in each approach circle sequentially, emulating a form of low approach rate. Words don't really do it justice, so make sure to check it out in osu!(lazer) today if you enjoy challenging your reading skills.
 
 Also, the leaderboards are finally visible during solo play and lazer has once again received adjustments in order to match stable and make lazer "feel" the same as stable.
 
@@ -101,7 +101,7 @@ Missed the event, but still want to catch the action? The stream, complete with 
 
 As expected every year, the [Halloween 2022 Fanart Contest](https://osu.ppy.sh/home/news/2022-10-10-halloween-fanart-contest) is here. It is through the theme of Halloween that the best artists of the community have competed to make the most beautiful drawing (or rather the *spookiest*). A theme that everyone knows but that allows so many possibilities can only give gorgeous creations!
 
-19 entries ended up making it to the main menu, with a piece by [Dreamxiety](https://osu.ppy.sh/users/13103233) attaining the top spot with 3749 votes for her third consecutive art contest victory (never before achieved by *anyone*) and her fifth triumph overall. 
+19 entries ended up making it to the main menu, with a piece by [Dreamxiety](https://osu.ppy.sh/users/13103233) attaining the top spot with 3749 votes for her third consecutive art contest victory (never before achieved by *anyone*) and her fifth triumph overall.
 
 From the 29th of October onwards, the finalist entries were available to witness in their horrifying majesty in-game, but if you're reading this later on, check them all out from the [contest results news post](https://osu.ppy.sh/home/news/2022-10-29-halloween-fanart-results) instead.
 
@@ -109,7 +109,7 @@ From the 29th of October onwards, the finalist entries were available to witness
 
 It all started on October 13 when the Twitter account [OSURGC](https://twitter.com/OSURGC) (Rhythm Games Club at the Ohio State University), launched a [poll](https://twitter.com/osurgc/status/1580319674629120000?s=46&t=BLbMHOGJOKYJGzFO90FEGw) to elect the best rhythm game. After several polls through the days, osu! was in the finals [versus Beat Saber](https://twitter.com/osurgc/status/1584743655294001153?s=46&t=BLbMHOGJOKYJGzFO90FEGw), which maintained a very even 50/50 throughout most of the voting phase. 
 
-After Beat Saber reset the bracket (they came from losers finals) the poll took on a whole new dimension with many of the most important people in osu! and Beat Saber urging people to "save their game" by retweeting the message to win this fierce duel. At the end, it’s your favorite game, osu!, that won the final and was voted [the best rhythm game](https://twitter.com/osurgc/status/1585505553333223424?s=46&t=BLbMHOGJOKYJGzFO90FEGw) by the OSURGC, thanks to the entire community on Twitter.
+After Beat Saber reset the bracket (they came from losers finals) the poll took on a whole new dimension with many of the most important people in osu! and Beat Saber urging people to "save their game" by retweeting the message to win this fierce duel. At the end, it's your favorite game, osu!, that won the final and was voted [the best rhythm game](https://twitter.com/osurgc/status/1585505553333223424?s=46&t=BLbMHOGJOKYJGzFO90FEGw) by the OSURGC, thanks to the entire community on Twitter.
 
 This small but seemingly insignificant poll brought together a lot of players from different rhythm game communities and gathered almost 58k votes. We hope that other small events like this one can emerge in the future, to gather the osu! community and other games around common passions!
 
@@ -171,7 +171,7 @@ Ready, TBA
 
 - After twelve editions of the [osu! World Cup](/wiki/Tournaments/OWC), the [thirteenth iteration](/wiki/Tournaments/OWC/2022) is underway until the end of November. Make sure not to miss the biggest official tournament of the year, the matches of which you can find on the official [twitch channel](https://www.twitch.tv/osulive)!
 - Are you are an osu!taiko mapper and want to show your talent to the whole community by mapping featured artist music? Then don't waste a second and take a look at the [osu!taiko Featured Artist Cup](https://osu.ppy.sh/home/news/2022-10-23-osutaiko-featured-artist-cup-3), the biggest osu!taiko mapping showdown of the year!
-- Ephemeral has shared a sneak peek of a new Hush-Hush medal in the [Medal Hunters Discord](https://discord.com/invite/8qpNTs6), this will most likely lead to a new batch of them!
+- [Ephemeral](https://osu.ppy.sh/users/102335) has shared a sneak peek of a new Hush-Hush medal in the [Medal Hunters Discord](https://discord.com/invite/8qpNTs6), this led to some community datamining from which 3 more beatmap pack medals were uncovered! This indicates that there is a high possibility of a new batch of medals that will be going live soon!
 
 ## End word
 
