@@ -104,28 +104,29 @@ The GB Cup 2022 Autumn is run by the Team GB and various community members.
 | 23 | **近月少女的礼仪** | ::{ flag=CN }:: **[Zyuuu](https://osu.ppy.sh/users/15389275)**, ::{ flag=CN }:: [tito31158](https://osu.ppy.sh/users/16436669), ::{ flag=CN }:: [Koishi-0514](https://osu.ppy.sh/users/7546593), ::{ flag=CN }:: [yem sky](https://osu.ppy.sh/users/10588209), ::{ flag=CN }:: [FALSEFAST](https://osu.ppy.sh/users/25508274) |
 | 24 | **又一个倒霉蛋** | ::{ flag=CN }:: **[fishbone2445](https://osu.ppy.sh/users/17640814)**, ::{ flag=CN }:: [chana](https://osu.ppy.sh/users/18375016), ::{ flag=CN }:: [ALWW](https://osu.ppy.sh/users/18786195), ::{ flag=CN }:: [KafuChino](https://osu.ppy.sh/users/14826575), ::{ flag=CN }:: [spensll](https://osu.ppy.sh/users/4547744) |
 
-## Match schedule: Regular stage week 1
+## Match schedule: Regular stage week 2
 
-### Saturday, 29 October 2022
-
-| Team A | Team B | Match time (UTC+8) |
-| --: | :-- | :-- |
-| 铁戈金马 | 队名太多不知道用哪个 | Oct 29 (Sat) 18:00 |
-| 我屙屎精灵我交泥如活打屙 | 上课军训补课反正凑不齐人 | Oct 29 (Sat) 19:00 |
-| 俄亥俄州立大学躁狂播放器 | 奖励一把大天空 | Oct 29 (Sat) 19:00 |
-| BMS精灵 | 近月少女的礼仪 | Oct 29 (Sat) 19:30 |
-| 都什么年代还在玩传统音游 | 猫猫面馆 | Oct 29 (Sat) 20:30 |
-| 无所谓绿皮龙会出手的 | 又一个倒霉蛋 | Oct 29 (Sat) 21:00 |
-| DAMWONGaming | SV狗都不玩 | Oct 29 (Sat) 21:00 |
-| 要我一直摆烂一直摆烂吗 | 均衡教派 | Oct 29 (Sat) 21:30 |
-| EIPSYKONGROO | 黎曼猜想 | Oct 29 (Sat) 22:00 |
-
-### Sunday, 30 October 2022
+### Saturday, 5 November 2022
 
 | Team A | Team B | Match time (UTC+8) |
 | --: | :-- | :-- |
-| 你说的队 | ban位先ban行李箱 | Oct 30 (Sun) 16:00 |
-| 素鲍小馆丸子面条铺 | 经典米托镂空鱼香鸡肉丸 | Oct 30 (Sun) 16:00 |
+| EIPSYKONGROO | 俄亥俄州立大学躁狂播放器 | Nov 5 (Sat) 15:30 |
+| 你说的队 | 无所谓绿皮龙会出手的 | Nov 5 (Sat) 17:00 |
+| 番茄炒树莓 | 队名太多不知道用哪个 | Nov 5 (Sat) 19:00 |
+| 都什么年代还在玩传统音游 | SV狗都不玩 | Nov 5 (Sat) 20:00 |
+| 奖励一把大天空 | 黎曼猜想 | Nov 5 (Sat) 20:00 |
+| 上课军训补课反正凑不齐人 | 要我一直摆烂摆烂吗 | Nov 5 (Sat) 20:30 |
+| DAMWONGaming | 猫猫面馆 | Nov 5 (Sat) 20:30 |
+| BMS精灵 | 素鲍小馆丸子面条铺 | Nov 5 (Sat) 22:00 |
+
+### Sunday, 6 November 2022
+
+| Team A | Team B | Match time (UTC+8) |
+| --: | :-- | :-- |
+| 又一个倒霉蛋 | ban位先ban行李箱 | Nov 6 (Sun) 17:00 |
+| 铁戈金马 | 为所动做为所欲为的所欲为 | Nov 6 (Sun) 19:00 |
+| 均衡教派 | 我屙屎精灵我交泥如活打屙 | Nov 6 (Sun) 20:30 |
+| 经典米托镂空鱼香鸡肉丸 | 近月少女的礼仪 | Nov 6 (Sun) 22:00 |
 
 ## Mappools
 
@@ -172,6 +173,59 @@ The GB Cup 2022 Autumn is run by the Team GB and various community members.
   1. [IslandWind/PIKASONIC - Forever (Cut ver.) (\[GB\]Mafufu) \[Stage 1: Everlasting\]](https://osu.ppy.sh/beatmapsets/1863068#mania/3831056)
 
 ## Match results
+
+### Regular stage summary
+
+| #[^rs-summary-seed] | Team | Abbr. | MR[^rs-summary-mr] | BR[^rs-summary-br] | BD[^rs-summary-bd] | BU[^rs-summary-bu] | Round 1 | Round 2 | Round 3 | Round 4 |
+| :-: | --: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 1 | DAMWONGaming | DWG | 1-0 | 6-0 | 6 | -1 | 6-0 不玩SV | 猫猫面馆 |  |  |
+| 2 | 奖励一把大天空 | 奖励天空 | 1-0 | 6-1 | 5 | -1 | 6-1 俄亥俄 | ζ(s) |  |  |
+| 3 | 又一个倒霉蛋 | 倒霉蛋 | 1-0 | 6-1 | 5 | -1 | 6-1 绿皮龙 | 行李箱 |  |  |
+| 4 | 铁戈金马 | 铁戈金马 | 1-0 | 6-2 | 4 | -1 | 6-2 队名难取 | 不为所动 |  |  |
+| 5 | 均衡教派 | 均衡教派 | 1-0 | 6-2 | 4 | -1 | 6-2 开摆 | 屙屎精灵 |  |  |
+| 6 | 经典米托镂空鱼香鸡肉丸 | 肉丸子 | 1-0 | 6-2 | 4 | -1 | 6-2 素鲍小馆 | 近月少女 |  |  |
+| 7 | 近月少女的礼仪 | 近月少女 | 1-0 | 6-2 | 4 | -1 | 6-2 BMS | 肉丸子 |  |  |
+| 8 | 我屙屎精灵我交泥如活打屙 | 屙屎精灵 | 1-0 | 6-3 | 3 | -1 | 6-3 凑不齐人 | 均衡教派 |  |  |
+| 9 | 为所动做为所欲为的所欲为 | 不为所动 | 1-0 | 6-3 | 3 | -1 | 6-3 炒树莓 | 铁戈金马 |  |  |
+| 10 | ban位先ban行李箱 | 行李箱 | 1-0 | 6-3 | 3 | -1 | 6-3 你说的队 | 倒霉蛋 |  |  |
+| 11 | 黎曼猜想 | ζ(s) | 1-0 | 6-4 | 2 | -1 | 6-4 石头门 | 奖励天空 |  |  |
+| 12 | 猫猫面馆 | 猫猫面馆 | 1-0 | 6-5 | 1 | -1 | 6-5 传统音游 | DWG |  |  |
+| 13 | 都什么年代还在玩传统音游 | 传统音游 | 0-1 | 5-6 | -1 | 1 | 5-6 猫猫面馆 | 不玩SV |  |  |
+| 14 | EIPSYKONGROO | 石头门 | 0-1 | 4-6 | -2 | 1 | 4-6 ζ(s) | 俄亥俄 |  |  |
+| 15 | 你说的队 | 你说的队 | 0-1 | 3-6 | -3 | 1 | 3-6 行李箱 | 绿皮龙 |  |  |
+| 16 | 番茄炒树莓 | 炒树莓 | 0-1 | 3-6 | -3 | 1 | 3-6 不为所动 | 队名难取 |  |  |
+| 17 | 上课军训补课反正凑不齐人 | 凑不齐人 | 0-1 | 3-6 | -3 | 1 | 3-6 屙屎精灵 | 开摆 |  |  |
+| 18 | BMS精灵 | BMS | 0-1 | 2-6 | -4 | 1 | 2-6 近月少女 | 素鲍小馆 |  |  |
+| 19 | 素鲍小馆丸子面条铺 | 素鲍小馆 | 0-1 | 2-6 | -4 | 1 | 2-6 肉丸子 | BMS |  |  |
+| 20 | 要我一直摆烂一直摆烂吗 | 开摆 | 0-1 | 2-6 | -4 | 1 | 2-6 均衡教派 | 凑不齐人 |  |  |
+| 21 | 队名太多不知道用哪个 | 队名难取 | 0-1 | 2-6 | -4 | 1 | 2-6 铁戈金马 | 炒树莓 |  |  |
+| 22 | 无所谓绿皮龙会出手的 | 绿皮龙 | 0-1 | 1-6 | -5 | 1 | 1-6 倒霉蛋 | 你说的队 |  |  |
+| 23 | 俄亥俄州立大学躁狂播放器 |  | 俄亥俄 | 0-1 | 1-6 | -5 | 1 | 1-6 奖励天空 | 石头门 |  |  |
+| 24 | SV狗都不玩 | 不玩SV | 0-1 | 0-6 | -6 | 1 | 0-6 DWG | 传统音游 |  |  |
+
+### Regular stage week 1
+
+Saturday, 29 October 2022:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| 俄亥俄州立大学躁狂播放器 | 1 | **6** | **奖励一把大天空** | [#1](https://osu.ppy.sh/community/matches/104722664) |
+| **我屙屎精灵我交泥如活打屙** | **6** | 3 | 上课军训补课反正凑不齐人 | [#1](https://osu.ppy.sh/community/matches/104723025) |
+| BMS精灵 | 2 | **6** | **近月少女的礼仪** | [#1](https://osu.ppy.sh/community/matches/104723115) |
+| 番茄炒树莓 | 3 | **6** | **为所动做为所欲为的所欲为** | [#1](https://osu.ppy.sh/community/matches/104723812) |
+| **铁戈金马** | **6** | 2 | 队名太多不知道用哪个 | [#1](https://osu.ppy.sh/community/matches/104723704) |
+| 都什么年代还在玩传统音游 | 5 | **6** | **猫猫面馆** | [#1](https://osu.ppy.sh/community/matches/104724218) |
+| 无所谓绿皮龙会出手的 | 1 | **6** | **又一个倒霉蛋** | [#1](https://osu.ppy.sh/community/matches/104725150) |
+| **DAMWONGaming** | **6** | 0 | SV狗都不玩 | [#1](https://osu.ppy.sh/community/matches/104725103) |
+| 要我一直摆烂一直摆烂吗 | 2 | **6** | **均衡教派** | [#1](https://osu.ppy.sh/community/matches/104725874) |
+| EIPSYKONGROO | 4 | **6** | **黎曼猜想** | [#1](https://osu.ppy.sh/community/matches/104726550) |
+
+Sunday, 30 October, 2022:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| 你说的队 | 3 | **6** | **ban位先ban行李箱** | [#1](https://osu.ppy.sh/community/matches/104746301) |
+| 素鲍小馆丸子面条铺 | 2 | **6** | **经典米托镂空鱼香鸡肉丸** | [#1](https://osu.ppy.sh/community/matches/104746966) |
 
 ### Qualifiers
 
@@ -439,7 +493,7 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
 
 ### Regular stage instructions
 
-1. Following the drafting phase, a 4-round Swiss stage will be played. This means teams with same record will face each other.
+1. Following the drafting phase, a 4-round Swiss stage will be played. This means teams with same match record will face each other.
 2. The final ranking of the Swiss round will be determined by the following criteria in order:
    - Most matches won
    - Head-to-head result (if possible)
@@ -528,3 +582,8 @@ The following rules are changed to consistent with rules on `MWC 4k 2022` :
 ## Notes
 
 [^bu]: Ranking based on opponents' performance. (`all opponents' wins - all opponents' losses`)
+[^rs-summary-seed]: Seed: the top 16 advance to the next round.
+[^rs-summary-mr]: Match record.
+[^rs-summary-br]: Beatmap record.
+[^rs-summary-bd]: Beatmap difference.
+[^rs-summary-bu]: Buchholz score.
