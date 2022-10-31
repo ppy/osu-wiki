@@ -31,10 +31,10 @@ tags:
 
 跟随以下步骤来恢复 osu! 的设置：
 
-1. 按住`Shift`按键，然后打开 osu!。
-2. 持续按住`Shift`，直到osu! recovery对话框出现。
-3. 当`osu! configuration`窗口出现时，点击`reset settings`。
-4. 如果问题没有解决，依照同样的步骤回到配置窗口，这一次点击`repair osu!`。
+1. 按住 `Shift`按键，然后打开 osu!。
+2. 持续按住 `Shift`，直到 osu! recovery 对话框出现。
+3. 当 `osu! configuration` 窗口出现时，点击 `reset settings`。
+4. 如果问题没有解决，依照同样的步骤回到配置窗口，这一次点击 `repair osu!`。
 
 ### 点击链接/多人游戏地图后，osu! 就卡住了！ {#broken-links}
 
@@ -46,7 +46,7 @@ tags:
 
 在 Windows 下，若要检查你的游戏是否使用了兼容性模式，跟随如下步骤：
 
-1. 打开 osu! 游戏文件夹，找到`osu!.exe`。
+1. 打开 osu! 游戏文件夹，找到 `osu!.exe`。
 2. 右键点击，然后在菜单中选择`属性`。
 3. 点击`兼容性`标签。
 4. 在名为`兼容模式`的区域，找到`以兼容模式运行这个程序`检查框。
@@ -69,7 +69,7 @@ tags:
 
 osu! 通常会自己保持最新版本，不需要干涉，但有时情况可能有变。
 
-我们建议你先重启一下你的电脑。不要说我们的帮助写的不走心！从电脑发明以来，重启永远能起到比想象当中更多的作用，对osu!来说也不例外。
+我们建议你先重启一下你的电脑。不要说我们的帮助写的不走心！从电脑发明以来，重启永远能起到比想象当中更多的作用，对 osu! 来说也不例外。
 
 确保你的"更新版本"使用的是`稳定版`。
 
@@ -80,8 +80,8 @@ osu! 通常会自己保持最新版本，不需要干涉，但有时情况可能
 **游戏内的设置即可进行更改。**
 
 1. 打开 osu!。
-2. 在主菜单点击`Options`，或者按下`Ctrl` + `O`。
-3. 搜索`release`，可以直接看到更新版本设置。
+2. 在主菜单点击 `Options`，或者按下 `Ctrl` + `O`。
+3. 搜索 `release`，可以直接看到更新版本设置。
 4. 确保你选择的是`稳定版`，这样才可以收到最稳定可靠的游戏版本。
 
 #### 强制 osu! 更新 {#force-update}
@@ -89,11 +89,11 @@ osu! 通常会自己保持最新版本，不需要干涉，但有时情况可能
 **你可以在设置里强制 osu! 进行更新**
 
 1. 打开 osu!。
-2. 在主菜单点击`Options`，或者按下`Ctrl` + `O`。
-3. 搜索`update`，可以直接看到强制更新设置。
+2. 在主菜单点击 `Options`，或者按下 `Ctrl` + `O`。
+3. 搜索 `update`，可以直接看到强制更新设置。
 4. 点击`启动 osu! 更新程序`。
 
-你还可以在 osu! 游戏文件夹下创建一个`help.txt`来进行强制更新。文件不需要包含任何内容，只要在那儿，游戏下一次开启的时候就会强制进行更新了。
+你还可以在 osu! 游戏文件夹下创建一个 `help.txt` 来进行强制更新。文件不需要包含任何内容，只要在那儿，游戏下一次开启的时候就会强制进行更新了。
 
 ### 我打开游戏的时候，看到关于"字体样式'的错误！ {#no-default-fonts}
 
@@ -114,16 +114,16 @@ osu! 通常会自己保持最新版本，不需要干涉，但有时情况可能
 
 **请在游戏右上角看看，有没有对谱面进行分组！**
 
-如果你刚刚下载了一个新谱面，请点击`F5`来更新谱面列表。
+如果你刚刚下载了一个新谱面，请点击 `F5` 来更新谱面列表。
 
 你还可以在设置中检查是否更改了谱面显示设置。
 
 请按照以下步骤检查是否对显示的谱面做了限制：
 
 1. 打开 osu!。
-2. 在主界面点击`Options`，或者按下`Ctrl` + `O`。
-3. 在搜索框输入`song select`，可以直接看到相关设置。
-4. 请确保`最低显示星数`为0，`最高显示星数`为10+。
+2. 在主界面点击 `Options`，或者按下 `Ctrl` + `O`。
+3. 在搜索框输入 `song select`，可以直接看到相关设置。
+4. 请确保`最低显示星数`为 0，`最高显示星数`为 10+。
 
 ![](img/difficulty-display.png "选歌页面的正确值")
 
@@ -132,10 +132,10 @@ osu! 通常会自己保持最新版本，不需要干涉，但有时情况可能
 若要安全重建你的谱面数据库，遵循以下步骤：
 
 1. 打开 osu!。
-2. 在主界面点击`Options`，或者直接按下`Ctrl` + `O`。
+2. 在主界面点击 `Options`，或者直接按下 `Ctrl` + `O`。
 3. 点击`打开 osu! 文件夹`.
 4. 关闭 osu!。
-5. 在新打开的文件夹里，找到`osu!.db`。
+5. 在新打开的文件夹里，找到 `osu!.db`。
 6. 右键点击，然后点击`重命名`
 7. 你可以随便写名字，只要不是叫 osu! 就可以。改完后按下回车。
 8. 重新打开 osu!。
@@ -148,7 +148,7 @@ osu! 通常会自己保持最新版本，不需要干涉，但有时情况可能
 
 也有可能是因为你正在使用会改变或模拟按键绑定的软件，例如 *Xpadder* 或 *X-Mouse Button Control* 。如果你为其他游戏使用这些程序，请在玩 osu! 的时候将它们关闭。
 
-数字小键盘可以用来滚动选歌界面，因此问题也有可能因为数字小键盘。按下`NumLock`，然后按下小键盘上的`9`，`8`，`3`或者`2`即可解决问题。
+数字小键盘可以用来滚动选歌界面，因此问题也有可能因为数字小键盘。按下 `NumLock`，然后按下小键盘上的`9`，`8`，`3`或者`2`即可解决问题。
 
 你还可以检查外设上是否有卡住或损坏的按键。
 
@@ -156,17 +156,17 @@ osu! 通常会自己保持最新版本，不需要干涉，但有时情况可能
 
 **你需要把压缩包解压到歌曲文件夹。**
 
-大多数谱面包的格式为`.rar`，这意味着它们是包含很多谱面的压缩文件。你需要使用你喜欢的工具(我们推荐 [7-Zip](https://7-zip.org)) 来把压缩文件解压到你的"Songs"文件夹。
+大多数谱面包的格式为 `.rar`，这意味着它们是包含很多谱面的压缩文件。你需要使用你喜欢的工具(我们推荐 [7-Zip](https://7-zip.org)) 来把压缩文件解压到你的"Songs"文件夹。
 
-在所有的`.osz`文件都被解压到`Songs`文件夹之后，在选歌界面点击`F5`即可刷新歌曲缓存，把新谱面加载进入游戏。
+在所有的 `.osz` 文件都被解压到 `Songs` 文件夹之后，在选歌界面点击 `F5` 即可刷新歌曲缓存，把新谱面加载进入游戏。
 
 ## 游玩{#gameplay}
 
 ### 我的连击数/分数/准度消失了！
 
-**游玩时按下`Shift` + `Tab`会显示或隐藏这些元素，再按一次就可以重新看到了。**
+**游玩时按下 `Shift` + `Tab` 会显示或隐藏这些元素，再按一次就可以重新看到了。**
 
-如果你更改过计分板的按键绑定，那么请在`设置`->`按键设置`->`In-Game`->`Toggle Scoreboard`当中找到你绑定的按键。你也可以把`Tab`更改成其他按键（比如，绑定成`Shift` + `V`）。
+如果你更改过计分板的按键绑定，那么请在`设置`->`按键设置`->`In-Game`->`Toggle Scoreboard`当中找到你绑定的按键。你也可以把 `Tab` 更改成其他按键（比如，绑定成 `Shift` + `V`）。
 
 ### 我的本地成绩没了！{#no-scores}
 
@@ -184,11 +184,11 @@ osu! 通常会自己保持最新版本，不需要干涉，但有时情况可能
 
 #### 你的游戏模式选择正确吗？{#no-scores-game-mode}
 
-**选择其他游戏模式（ osu!taiko,osu!catch 或 osu!mania）会自动隐藏其他模式的谱面成绩，只显示当前模式的成绩。**
+**选择其他游戏模式（ osu!taiko, osu!catch 或 osu!mania）会自动隐藏其他模式的谱面成绩，只显示当前模式的成绩。**
 
 游玩其他模式的谱面之后，默认的模式会被自动切换，因此成绩常常被隐藏而导致用户一头雾水。切换回正确的游戏模式即可。
 
-你可以在选歌界面的左下角找到`Mode`按键然后更改成你留下过成绩的模式。
+你可以在选歌界面的左下角找到 `Mode` 按键然后更改成你留下过成绩的模式。
 
 #### 你最近下载过大量的谱面吗？（例如谱面包）{#no-scores-many-maps}
 
@@ -198,17 +198,17 @@ osu! 通常会自己保持最新版本，不需要干涉，但有时情况可能
 
 ### 我光标后面的这个轨迹/像烟雾的线条是什么？{#smoke}
 
-**这是一个名为`Smoke`的功能，可以用来在游戏区域里画画。所有旁观你游戏的玩家都可以看到你的画作。**
+**这是一个名为 `Smoke` 的功能，可以用来在游戏区域里画画。所有旁观你游戏的玩家都可以看到你的画作。**
 
-默认情况下此功能绑定`C`键，按住按钮就可以使用。你可以在`按键设置`的`osu!`这一部分更改按键绑定。
+默认情况下此功能绑定 `C` 键，按住按钮就可以使用。你可以在`按键设置`的 `osu!` 这一部分更改按键绑定。
 
 ### 我怎么保存我刚刚取得的成绩回放？{#save-replay}
 
-**在本地成绩界面戳F2即可。**
+**在本地成绩界面戳 F2 即可。**
 
-你漂亮的新成绩会以`.osr`的格式被保存在游戏路径的 /Replays/ 文件夹当中。
+你漂亮的新成绩会以 `.osr` 的格式被保存在游戏路径的 /Replays/ 文件夹当中。
 
-在你玩完一首歌之后，osu! 还会自动把所有回放保存到游戏路径下的`/Data/r/`隐藏文件夹当中。
+在你玩完一首歌之后，osu! 还会自动把所有回放保存到游戏路径下的 `/Data/r/` 隐藏文件夹当中。
 
 请知悉，如果游玩后你没有马上保存回放，如此做也无法找回回放。
 
@@ -216,7 +216,7 @@ osu! 通常会自己保持最新版本，不需要干涉，但有时情况可能
 
 **是时候更新了！游戏的过旧版本不能提交新成绩，所以你需要点击`Options`->`常规`->`启动 osu! 更新程序`来强制更新游戏。**
 
-如果此举无效，你可以关闭 osu!，然后按住`Shift`并重新打开 osu!。如此做你会看到几个更新和修复选项，其中就有更新游戏的按钮。
+如果此举无效，你可以关闭 osu!，然后按住 `Shift` 并重新打开 osu!。如此做你会看到几个更新和修复选项，其中就有更新游戏的按钮。
 
 ### 我的成绩没有被提交！{#no-submission}
 
@@ -230,9 +230,9 @@ osu! 通常会自己保持最新版本，不需要干涉，但有时情况可能
 
 #### osu! 有没有被防火墙/你的杀毒软件拦截联网？{#no-submission-firewall}
 
-**部分杀毒软件或防火墙会阻止osu!的网络通信，进而阻止成绩的提交。**
+**部分杀毒软件或防火墙会阻止 osu! 的网络通信，进而阻止成绩的提交。**
 
-检查你的杀毒软件有没有允许游戏路径下的`osu!.exe`联网。
+检查你的杀毒软件有没有允许游戏路径下的 `osu!.exe` 联网。
 
 #### 后台是否有太多程序？{#no-submission-software}
 
@@ -244,7 +244,7 @@ osu! 通常会自己保持最新版本，不需要干涉，但有时情况可能
 
 **部分情况下，谱面状态会出现异常，这会导致你的成绩无法提交。**
 
-在选歌界面检查屏幕左上角（例如，一张Ranked的谱面应该会显示向上的蓝色双箭头）。如果你的谱面没有任何图标，或图标不正确，则成绩无法上传。
+在选歌界面检查屏幕左上角（例如，一张 Ranked 的谱面应该会显示向上的蓝色双箭头）。如果你的谱面没有任何图标，或图标不正确，则成绩无法上传。
 
 ![](img/correct-map-status.png "正常情况下是这个样子的")
 
@@ -254,7 +254,7 @@ osu! 通常会自己保持最新版本，不需要干涉，但有时情况可能
 
 **答案几乎一定是肯定的，但是你可以检查 [osu! server status](https://status.ppy.sh) 或者 [@osustatus Twitter](https://twitter.com/osustatus) 来得知是不是我们的锅。**
 
-如果服务器目前不可用，那么在我们修复问题之前，请不要关闭 osu! 。osu! 会在至多一个小时内一直尝试提交成绩。
+如果服务器目前不可用，那么在我们修复问题之前，请不要关闭 osu!。osu! 会在至多一个小时内一直尝试提交成绩。
 
 ### 你可以帮我上传一份成绩吗？{#upload-replay}
 
@@ -273,21 +273,21 @@ osu! 通常会自己保持最新版本，不需要干涉，但有时情况可能
 默认值适用于大多数人，但是如果不适合你，你可以跟随下列步骤来进行更改：
 
 1. 打开 osu!。
-2. 在主界面点击`Options`，或按下`Crtl` + `O`。
-3. 在搜索框输入`offset`，这样就可以看到全局偏移量设置。
+2. 在主界面点击 `Options`，或按下 `Crtl` + `O`。
+3. 在搜索框输入 `offset`，这样就可以看到全局偏移量设置。
 4. 使用滑条来更改之。你也可以尝试使用 [Offset 设置向导](/wiki/Client/Options/Offset_Wizard)来辅助你调整。
 
 如果一切都不奏效，你可以尝试更新声卡或主板音频驱动。
 
 ### 我的游戏看起来好像有问题，画面好像被撕裂！{#screen-tearing}
 
-**这是由名为[画面撕裂](https://en.wikipedia.org/wiki/Screen_tearing)的现象造成的，把`帧率限制`设置更改为`VSync`即可解决问题。**
+**这是由名为[画面撕裂](https://en.wikipedia.org/wiki/Screen_tearing)的现象造成的，把`帧率限制`设置更改为`垂直同步`即可解决问题。**
 
 这种现象并非软件或硬件出现问题（虽然看起来有点诡异），单纯是因为游戏的刷新率与你的显示器不相同。
 
-你也可以尝试使用窗口化或全屏无边框模式游玩，这会让 osu! 跟随系统调度 VSync 。
+你也可以尝试使用窗口化或全屏无边框模式游玩，这会让 osu! 跟随系统调度垂直同步。
 
-很遗憾，在窗口化或全屏无边框模式下打开 VSync 会导致游戏增加*些许的*输入延迟。对大多数人来讲，这不应该有很大的影响。
+很遗憾，在窗口化或全屏无边框模式下打开垂直同步会导致游戏增加*些许的*输入延迟。对大多数人来讲，这不应该有很大的影响。
 
 较新的 NVidia 显卡可以在 NVidia 控制面板中把全局刷新率设置为'快'。这也能解决问题。
 
@@ -295,7 +295,7 @@ osu! 通常会自己保持最新版本，不需要干涉，但有时情况可能
 
 ### 我无法登录/游戏根本无法联网！{#cannot-sign-in}
 
-**请确保你电脑上的防火墙/杀毒软件没有禁止osu!进行网络通信。**
+**请确保你电脑上的防火墙/杀毒软件没有禁止 osu! 进行网络通信。**
 
 以下为常见杀毒软件允许程序联网的方式：
 
@@ -356,157 +356,157 @@ osu! 通常会自己保持最新版本，不需要干涉，但有时情况可能
 
 **这也可能因为你使用了共享网络连接，代理服务器，或者 VPN。**
 
-尝试换一个代理服务器或[accounts@ppy.sh](mailto:accounts@ppy.sh).
+尝试换一个代理服务器或 VPN 服务提供商，如果不奏效，请发邮件给 [accounts@ppy.sh](mailto:accounts@ppy.sh) 来请求帮助。
 
-If you are not using any of the above, then you will need to send in a support ticket, as your connection has likely been blacklisted in error.
+如果你没有用过那些东西，那么请直接请求帮助，你的连接可能被我们误封禁了。
 
-Tor or networks associated with the Tor relay will not connect to the game servers for the most part. Although we neither condemn nor endorse the use of Tor, we enforce this policy to avoid any potential bad actors using Tor.
+Tor 网络或通过 Tor 的连接将无法连接大部分游戏服务器。虽然我们对于 Tor 的使用不持任何立场，但是我们如此做只是为了阻止坏人使用 Tor 干坏事。
 
-### I became an osu!supporter but my name isn't yellow in-game! {#white-username}
+### 我赞助了 osu!，但是我的用户名不是黄的！ {#white-username}
 
-**You will always appear white to yourself on the in-game client. Other users will see your glorious yellowness, though!**
+**在游戏客户端当中，你自己的用户名永远是白色。其他玩家可以看到你闪闪发光的黄色名字！**
 
-This helps to identify your own messages from everyone else's. There is no option to disable it at this time.
+这可以帮助你区分你自己和其他人的消息，目前无法禁用这个功能。
 
-## Performance {#performance}
+## 性能 {#performance}
 
-### How can I make osu! run cooler if my computer is overheating? {#overheating}
+### 我的电脑运行 osu! 会过热，怎么让它冷下来？ {#overheating}
 
-**The easiest way is to change your frame limiter settings.**
+**最简单的方式就是改变你的帧数限制设置。**
 
-To check what your frame limiter is set to, follow these steps:
+若要检查你目前的帧数限制，请参阅如下步骤：
 
-1. Open osu!.
-2. Click the `Options` button on the main menu, or press `Ctrl` + `O`.
-3. Type `frame` into the quick-search to bring up the frame limiter options.
+1. 打开 osu!。
+2. 在主页点击 `Options`，或者按下 `Ctrl` + `O`。
+3. 直接输入 `frame` 来看到你目前的帧数限制设置。
 
-If your frame limiter is set to `Unlimited`, you may notice a significant improvement by changing it to one of the other three options.
+如果你的设置是`无限制`，把设置更改为其他三个可能会有明显的效果。
 
-`VSync` will run the game at a refresh rate equal to that of your main monitor, whilst `Power Saving` and `Optimal` will run the game at twice and 8 times your monitor's refresh rate, up to 960Hz.
+`垂直同步`会让游戏运行在你的显示器帧率下，而 `Power Saving` 会让游戏运行在显示器的两倍帧率下，`Optimal` 会让游戏运行在显示器的八倍帧率下。
 
-We recommend using `VSync` in situations where heat is an issue.
+如果你的电脑会过热，我们建议选择`垂直同步`。
 
-You may also wish to look into utilities that allow you to control the speed of your CPU and GPU fans manually.
+你还可以了解一些控制处理器和显卡风扇转速的程序。
 
-### My PC reboots while playing osu! {#reboot-overheating}
+### 玩 osu! 的时候，我的电脑自动重启！ {#reboot-overheating}
 
-**Most of the time, this is due to overheating of one or more of your computer's components, usually your graphics card or CPU.**
+**多数时候，这是因为你的电脑一个或多个部件过热了，大概率是你的显卡或者处理器。**
 
-To figure out what is causing this, we recommend you use a GPU/CPU temperature monitor and keep an eye on it as you play osu! in the background. A good choice of program to use for this would be [Speccy](https://www.ccleaner.com/speccy).
+如果要搞清楚原因，我们建议你使用检测显卡和处理器温度的程序，并且在游戏运行的时候实时关注温度值。一个很好的选择是 [Speccy](https://www.ccleaner.com/speccy)。
 
-If you notice either your GPU or CPU temperature exceeding values of 90°C or 194°F, your computer is running very hot and dangerously close to most automatic shutdown thresholds.
+如果你看到你的处理器和或显卡已经超过了 90°C，你的电脑就已经非常热了，并且非常接近自动重启的上限。
 
-### My computer isn't overheating, but the game still causes my computer to reboot! {#reboot-faulty-device}
+### 我的电脑没有过热，但是游戏仍然会导致我的电脑重启！ {#reboot-faulty-device}
 
-**The most common cause of forced restarts after overheating issues is sound card problems, followed by malfunctioning peripherals attached to your computer.**
+**过热后的第二大原因就是声卡问题，第三大原因是你的外设出现问题。**
 
-Old sound card drivers or software can cause problems with osu!, but this is not an issue for most people. Try updating your sound card or motherboard drivers.
+旧一些的声卡驱动或软件可能会导致 osu! 出现问题，但是对大多数人来讲这不属于大问题。尝试更新你的声卡或主板驱动。
 
-You may also wish to try removing some of the peripherals attached via USB to your computer, especially if they interact with sound in any way. Headphones or USB sound cards can sometimes cause problems if they or the port they are in begins malfunctioning.
+你还可以试一下拔除连接到你电脑的一些 USB 外设，尤其是那些处理声音信号的设备。耳机，USB 声卡或他们连接到的接口一旦坏掉，可能会导致问题。
 
-### It's still happening! {#reboot-nothing-helps}
+### 还是重启！ {#reboot-nothing-helps}
 
-If none of this helps, please send in a support ticket to [accounts@ppy.sh](mailto:accounts@ppy.sh) with more information on the issue — including your computer's technical specifications, model (where appropriate), and any other information you think may help us discern the cause of your problem.
+如果你已经试过所有方式，问题仍然出现，请联系 [accounts@ppy.sh](mailto:accounts@ppy.sh) 来请求帮助。请附上有用的信息，比如你的电脑配置，型号（如果适用）和你认为可能有助于解决问题的其他信息。
 
-### I can't hold more than a few keys at once while playing osu!mania {#keyboard-ghosting}
+### 玩 osu!mania 的时候，我不能一次性按下 n 个按钮！ {#keyboard-ghosting}
 
-**This is due to a hardware issue common to most keyboards called *ghosting*.**
+**这是因为大部分键盘都存在的*按键冲突*问题。**
 
-Ghosting is a somewhat complex topic, but essentially boils down to issues with the way your keyboard is made that prevent it from sending inputs from more than a few keys at once from certain places on the board.
+按键冲突是个有一点复杂的问题，本质是你的键盘制作工艺上的缺陷，导致它不能发送一次性按下多个键的信号。
 
-Most newer keyboards will allow up to **6** keys to be held down at once, albeit in random combinations.
+大部分的新键盘可以一次性按下**6**个按键，顺序和按什么不限。
 
-You can test your keyboard's ghosting limits by using [drakeirving's Anti-Ghosting utility](https://drakeirving.github.io/MultiKeyDisplay).
+你可以用 [drakeirving 的键盘冲突小工具](https://drakeirving.github.io/MultiKeyDisplay)来检查自己的键盘一次性可以正常按下多少个键。
 
-While the Ranking Criteria for osu!mania tries to alleviate the issue of ghosting by not allowing more than 6 notes to be active at any one time, you may encounter this issue if your keyboard is older.
+虽然 osu!mania 的 Rank Criteria 已经规定谱面不能出现同时按下6个键以上的配置，但如果你的键盘比较老旧，按键冲突的问题可能还是会影响到你。
 
-The only true solution is to purchase a keyboard that can support more concurrent keypresses, in that case. You may wish to look for a feature known as *n-key rollover* (or *NKRO*). NKRO keyboards do not have issues with ghosting for the most part, but are usually expensive.
+治标治本的解决方案只有购买一个能同时处理更多按键的新键盘。如果那样的话，你可能可以关注*全键无冲*的键盘。这种键盘基本不会有按键冲突的问题，但是一般比较昂贵。
 
-### My cursor goes crazy whenever I try to play osu! {#crazy-cursor}
+### 玩 osu! 的时候，我的光标疯跑！ {#crazy-cursor}
 
-**The most common cause of this is having your in-game mouse sensitivity set too high.**
+**最常见的原因是你的游戏内鼠标灵敏度设置的太高了！**
 
-Jumpy, erratic movement is a prime example of this, particularly if you are using a tablet.
+乱跳，诡异的鼠标移动是最典型的例子，尤其是当你使用数位板的时候。
 
-Setting the in-game sensitivity to 1.0x (which is the default) will fix this in most cases, but may leave your cursor feeling sluggish. We suggest enabling `raw input` in the game options and using the drivers for your peripheral of choice to alter sensitivity.
+大部分情况下，把游戏内的灵敏度更改为 1.0x（默认设置）会解决这个问题，但是可能会导致你的鼠标移动比较缓慢。我们建议你打开游戏中的 `Raw Input` 来让 osu! 直接通过设备驱动来调整灵敏度。
 
-You may also wish to adjust the *DPI* setting of your mouse, if you are using one. Higher DPI settings provide more accurate positioning to the game client and may smooth out any jitters.
+如果你使用鼠标，你还可以尝试更改你的鼠标 *DPI* 设置。更高的 DPI 设置能让游戏收到更准确的定位，同时可能会平滑掉迟缓的感觉。
 
-We also suggest ensuring your peripherals are clean and free from dirt or debris. A hair or bit of dust in front of a mouse's optical sensor can do very strange things to the way a cursor moves.
+我们还建议你检查自己的外设是否足够的干净。如果有头发或者灰尘挡住鼠标的激光传感器，可能会导致鼠标移动很怪。
 
-#### Enabling raw input {#raw-input}
+#### 启用 Raw Input {#raw-input}
 
-**Raw input forces the game to use a cleaner and more direct means to access the information from your peripherals. This generally increases the accuracy of the output from the device.**
+**Raw input 会让游戏直接与你的外设通信，获得更加直接干净的移动数据，这通常会让设备输出的精度提升。**
 
-To enable raw input, follow these steps:
+若要打开 Raw Input，请参阅以下步骤：
 
-1. Open osu!.
-2. Click the `Options` button on the main menu, or press `Ctrl` + `O`.
-3. Type `raw` into the quick-search to jump straight to the option.
-4. Click the `Raw input` setting to enable it.
+1. 打开 osu!。
+2. 点击主页的 `Options`，或者按下 `Ctrl` + `O`。
+3. 直接输入 `raw`，即可跳转到对应的设置区域。
+4. 点击 `Raw input` 来将它打开。
 
-### I'm playing from a tablet and my cursor feels too slow! {#slow-cursor}
+### 我使用数位板，我感觉我的光标移动太慢了！ {#slow-cursor}
 
-**You can solve this problem by defining a smaller tablet area for your device.**
+**你可以设置更小的数位板映射区域来解决问题。**
 
-On most Wacom tablets, this is done via the `Mapping` tab of the `Wacom Tablet Properties` application.
+在大多数 Wacom 数位板上，你可以在 `Wacom 数位板属性`的`映射`标签页中完成操作。
 
 ![Wacom Tablet Properties screen showing Mapping options](img/tablet-area.png "Interface for changing tablet area on Wacom devices")
 
-You will need to consult your tablet's manufacturer to find out how to set your tablet area for your particular peripheral.
+你需要咨询你的设备生产商来了解如何为你的设备更改映射区域。
 
-All osu! branded tablets support raw input by default, and may have their sensitivity easily adjusted on the fly by using the raw input option in-game and using the mouse sensitivity slider.
+所有 osu! 品牌的数位板均支持 Raw Input，可以直接使用游戏中的鼠标灵敏度来轻松调整光标灵敏度。
 
-### I'm experiencing lag spikes or stuttering during play! {#lag-spikes}
+### 玩游戏的时候，我的电脑出现卡顿！ {#lag-spikes}
 
-**There are many reasons why the game may perform inconsistently, from programs on your computer, to out-of-date drivers, or simply having some settings too high.**
+**游戏出现卡顿有多种原因，可能是因为软件或过期的驱动，也可能只是显示设置调整过高。**
 
-#### Do you have lots of programs open at the same time while playing osu!? {#lag-too-many-programs}
+#### 玩 osu! 的时候，你的后台有很多程序吗? {#lag-too-many-programs}
 
-**Some background processes can fight with osu! for resources and make the game very unpleasant to play.**
+**部分程序可能会与 osu! 争抢系统资源，造成游戏体验不佳。**
 
-Try closing some programs that you do not need open while playing the game and/or all of them.
+尝试关闭一部分或者全部玩游戏时不需要的程序。
 
-#### Is your computer secure? {#lag-infected-pc}
+#### 你的电脑安全吗？ {#lag-infected-pc}
 
-**Viruses, spyware, malware, or other unwanted software can cause serious performance problems for even high-end computers.**
+**病毒，后门程序，恶意程序或其他你可能不想要的程序可能会导致严重的性能问题，哪怕是很高级的电脑。**
 
-Keep your computer clean and safe and you might notice an improvement. Try running a virus scan on your computer to find and eliminate such issues.
+保证电脑安全可能会改善问题。尝试在电脑上运行病毒查杀来解决这些问题。
 
-#### How old is your computer? {#lag-old-pc}
+#### 你的电脑用多久了？ {#lag-old-pc}
 
-**Very old computers that use even older Intel Integrated graphics chipsets may not be powerful enough to handle osu! at all, even on the lowest settings.**
+**非常久的电脑可能使用更旧的 Intel 集显，导致无法运行游戏，就算设置已经全部改成最低。**
 
-The only way to deal with this one is to upgrade your computer!
+解决问题的唯一方法恐怕只有升级电脑了。
 
-#### Are your drivers up to date? {#lag-old-driver}
+#### 你的驱动是最新版本吗？ {#lag-old-driver}
 
-**Old drivers can cause serious performance issues. Make sure you keep all of your drivers up to date for everything wherever possible.**
+**过期的驱动可能导致严重的性能问题。如果可以，请一直保持驱动为最新状态。**
 
-Graphics card drivers are particularly important for osu!, as well as sound card drivers.
+显卡驱动对 osu! 比较重要，声卡驱动次之。
 
-#### Are you using a USB hub to connect lots of USB devices to your computer through one USB cable? {#lag-faulty-usb}
+#### 你使用一个 USB 集线器连接了很多 USB 设备吗？ {#lag-faulty-usb}
 
-**Connecting too many devices to one port via a splitter can cause input lag which is hard to detect but can seriously throw off your game.**
+**只使用一个插孔并用集线器连接太多设备可能会导致输入延迟过高，这通常很难以发现，但是会对游戏造成较大影响。**
 
-An easy solution to this is to try unplugging your USB hub briefly. If your lag disappears, you know why!
+一个简单的解决办法是：拔掉集线器，如果问题解决，你就知道问题所在啦！
 
-#### Are you running osu! in windowed or borderless mode? {#lag-windowed}
+#### 你正在使用窗口化或全屏无边框模式运行 osu! 吗？ {#lag-windowed}
 
-**Both windowed and borderless mode introduce a *considerable* amount of input delay. Fullscreen is optimal for the smoothest gameplay experience.**
+**窗口化和全屏无边框均会带来*可观*的输入延迟。若要保证游戏体验，请使用全屏模式。**
 
-#### Does your game freeze up for only a moment or so? {#lag-background-process}
+#### 你的游戏只是卡顿一小会吗？ {#lag-background-process}
 
-**Sometimes background processes or other applications on your computer can send big requests for resources all at once, which will make your machine struggle.**
+**有时候，电脑上的后台程序可能会一次性处理过多数据，这可能会让机器暂时力不从心。**
 
-This usually clears up after closing everything non-essential before playing osu!. Torrenting software is a big culprit for this, especially if it shares space with the drive that osu! is installed on.
+在玩游戏之前关闭不必要的后台程序通常可以解决问题。P2P 和种子下载程序通常影响最大，尤其是当它与 osu! 安装在同一块硬盘上的时候。
 
-#### Has the game recently been updated? {#lag-after-update}
+#### 游戏最近更新了吗？ {#lag-after-update}
 
-**Sometimes after a game update, the client may struggle for seemingly no reason.**
+**有些时候，更新客户端后可能会导致客户端莫名卡顿。**
 
-If you have a lot of beatmaps, please wait at least 10-15 minutes before blaming the lag on the update. The osu! client may be reprocessing your maps to calculate their difficulty.
+如果你有很多谱面，在怪罪更新之前，请等待 10-15 分钟。osu! 可能正在后台重新计算谱面难度。
 
-If it doesn't resolve, a reboot can sometimes help.
+如果等待后无法解决问题，重启可能会有帮助。
 
-**If you are still having lag spikes or stuttering during gameplay, have a look through the [performance troubleshooting guide](/wiki/Performance_troubleshooting) for more related problems and their solutions.**
+**如果游玩时你仍然会遇到卡顿停顿问题，请参阅[排除性能问题的指导](/wiki/Performance_troubleshooting)来获知更多问题和可能的解决方案。**
