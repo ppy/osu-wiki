@@ -159,7 +159,7 @@ Mapsets av låtar som härstammar från andra rytmspel lånar ofta spelets svår
 
 #### CHUNITHM
 
-- ![](/wiki/shared/diff/expertplus-o.png?20211215) ULTIMA
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) ULTIMA / WORLD'S END
 
 #### Ongeki
 
