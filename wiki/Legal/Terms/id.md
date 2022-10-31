@@ -4,7 +4,7 @@ legal: true
 
 # Ketentuan layanan osu!
 
-Terakhir diperbarui pada tanggal 8 Maret 2021. [Lihat riwayatnya di sini](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Terms/en.md)
+Terakhir diperbarui pada tanggal 8 Maret 2021. [Lihat riwayat ketentuan layanan ini di sini](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Terms/en.md)
 
 **ppy Pty Ltd** menawarkan layanan kepada Anda, yang bergantung pada persetujuan Anda, tanpa modifikasi apapun terhadap syarat, ketentuan, dan maklumat berikut.
 
