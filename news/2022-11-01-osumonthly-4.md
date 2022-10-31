@@ -26,15 +26,23 @@ If you are interested in checking out all of the previous editions feel free to 
 
 ## What's new in osu!(lazer)
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/zOJKWJA-vog" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/1tcE_LaE9gI" frameborder="0" allowfullscreen></iframe>
 
 It may be the spookiest month of the year, but the osu! dev team has stayed calm and collected and delivered an impressive amount of updates.
 
-**Cursor smoke trails are back!** Feel free to show us your drawings in the comments, if you so please. In other news, the leaderboards are finally visible during solo play, lazer has once again received adjustments in order to match stable and make lazer "feel" the same as stable. Things such as the flashlight radius during gameplay and break periods have been adjusted, the hit object dim has been hidden as well as the approach circles once the circle has been hit. The slider ticks also received adjustments due to them showing up too late in lazer, which contributed to a different "feel" of lazer.
+**Cursor smoke trails are back!** 
 
-Thew new argon skin received several updates and has also been implemented for mania, with the aim of all game modes being supported in the near future. On the topic of skins, the "longest combo" counter has been added to the combo HUD components, so now you will be able to track your longest combo even without having the leaderboard visible.
+<div align="center">
+    <video width="100%" controls>
+        <source src="https://user-images.githubusercontent.com/191335/194702753-4a87d478-9b2f-4a37-bde1-5f784eeb074c.mp4" type="video/mp4" preload="none">
+    </video>
+</div>
 
-Lots of updates occured this month for the editor, such as the addition of the updated visuals for the settings, which should roughly match the newer lazer design language. Visual updates aside, [Olibomby](https://osu.ppy.sh/users/6573093) found an edgecase issue with their slider stream conversion, causing it to put the last circle at the beginning of the slider, which was incorrect. [ekrctb](https://github.com/ekrctb) contributed multiple changes to the editor, some of them being the catch editor having an adjustable height (so more fruits can be visible at the same time) and the time-based selections have been improved, meaning that no matter the speed at which you are scrolling through the editor, all objects will be selected.
+Feel free to show us your drawings in the comments, if you so please. In other news, the leaderboards are finally visible during solo play, lazer has once again received adjustments in order to match stable and make lazer "feel" the same as stable.
+
+Thew new argon skin received several updates and has also been implemented for mania and catch, with taiko being the only remaining mod to receive its iteration. On the topic of skins, the "longest combo" counter has been added to the combo HUD components, so now you will be able to track your longest combo even without having the leaderboard visible.
+
+Lots of quality of life updates occured this month for the editor, such as the addition of the updated visuals and shortcuts for the settings, which should roughly match the newer lazer design language. Visual updates aside, [Olibomby](https://osu.ppy.sh/users/6573093) found an edgecase issue with their slider stream conversion, causing it to put the last circle at the beginning of the slider, which was incorrect. [ekrctb](https://github.com/ekrctb) contributed multiple changes to the editor, some of them being the catch editor having an adjustable height (so more fruits can be visible at the same time) and the time-based selections have been improved, meaning that no matter the speed at which you are scrolling through the editor, all objects will be selected.
 
 One thing you might've not known is that osu!(lazer) has implemented full tablet support without any drivers necessary! This means that tablets are fully plug & play with lazer, not requiring you to download any official or 3rd party drivers in order to be able to change your aspect ratio or your area size. While osu!(lazer) does not have plugin support for tablet drivers as some 3rd party drivers do, this is currently the fastest and easiest way to set up a tablet for osu!
 
@@ -43,6 +51,8 @@ One thing you might've not known is that osu!(lazer) has implemented full tablet
         <source src="https://assets.ppy.sh/media/osu-monthly/2022-10/tablet-support.mp4" type="video/mp4" preload="none">
     </video>
 </div>
+
+Of course, we were not able to cover everything from the patch notes, so if you are interested in all previous and future patch notes, you can find them [here](https://osu.ppy.sh/home/changelog), or if you'd rather watch a video digest of them check out the video embedded above!
 
 ## Community recap
 
@@ -154,6 +164,7 @@ Ready, TBA
 
 - After twelve editions of the [osu! World Cup](/wiki/Tournaments/OWC), the [thirteenth iteration](/wiki/Tournaments/OWC/2022) is taking place right now until the end of November. Don't miss the biggest official tournament of the year, the matches of which you can find on the official [twitch channel](https://www.twitch.tv/osulive)!
 - You are an osu!taiko mapper and want to show your talent to the whole community by mapping featured artist music? Then don't waste a second and take a look at the [osu!taiko Featured Artist Cup](https://osu.ppy.sh/home/news/2022-10-23-osutaiko-featured-artist-cup-3), the biggest osu!taiko mapping showdown of the year!
+- Ephemeral has shared a sneak peek of a new Hush-Hush medal in the [Medal Hunters Discord](https://discord.com/invite/8qpNTs6), this will most likely lead to a new batch of them!
 
 ## End word
 
