@@ -190,6 +190,29 @@ The osu!mania LN Tournament 3 is run by various community members.
 
 ## Mappools
 
+### Round of 16
+
+**[Download the mappack here! (100 MB)](https://drive.google.com/drive/folders/17F9S79rVU-Ch4OGz5sHzcs7B6FxfT-T6?usp=sharing)**
+
+- Coordination
+  1. [Yasutaka Nakata - Pico Pico Tokyo (feat. Momo Mashiro) (YuEast 2018) \[\~\~\~\]](https://osu.ppy.sh/beatmapsets/1864296#mania/3833925)
+  2. [Two Door Cinema Club - Undercover Martyn (\[Crz\]Crysarlene) \[until next day\]](https://osu.ppy.sh/beatmapsets/1771855#mania/3627514)
+  3. [Meddmia - Zettai Tekitai Mecha Kirai yaa (CrewK) \[Hachamecha\]](https://osu.ppy.sh/beatmapsets/1763576#mania/3609717)
+- Technical
+  1. [John Coltrane - Giant Steps (Davvy) \[Sheets of sound\]](https://osu.ppy.sh/beatmapsets/1592995#mania/3253520)
+  2. [ODESZA - Late Night (elexire) \[Outing\]](https://osu.ppy.sh/beatmapsets/1692588#mania/3458593)
+  3. [Memme feat. M2U - Sky of the Ocean (Logan636) \[Logan x HowToPlayLN's Troposphere\]](https://osu.ppy.sh/beatmapsets/1876041#mania/3860745)
+- Wildcard
+  1. [DJ Noriken & aran - Comet Coaster (chxu) \[Frizzle\]](https://osu.ppy.sh/beatmapsets/1875722#mania/3859986)
+  2. [sakuzyo - Fractalize (\[Crz\]Crysarlene) \[Polynomial\]](https://osu.ppy.sh/beatmapsets/1873352#mania/3854822)
+  3. [rintaro soma - solips (MyZterioN-) \[oneself\]](https://osu.ppy.sh/beatmapsets/1749997#mania/3580147)
+- Density
+  1. [MOMOIRO CLOVER Z - SARABA, Itoshiki Kanashimitachi yo (Short vers) (Akatsumi Chan) \[Melancholy\]](https://osu.ppy.sh/beatmapsets/1851363#mania/3803968)
+  2. [rN - fragments.arc (HowToPlayLN) \[Unsynced Chaotically\]](https://osu.ppy.sh/beatmapsets/1875919#mania/3860490)
+  3. [Amogh Symphony - Decoded: Karnosiris (Cut Ver.) (Paturages) \[Broken Matrix\]](https://osu.ppy.sh/beatmapsets/1836766#mania/3771275)
+- Tiebreaker
+  1. **[t+pazolite, Nanahira, Cranky & Pico - PICO-Pico-TRANSLATION! (Polytetral) \[Abridged Duet\]](https://osu.ppy.sh/beatmapsets/1876155#mania/3860942)**
+
 ### Round of 32
 
 **[Download the mappack here! (88 MB)](https://drive.google.com/drive/folders/1jRRzxwPbwbuQW3pJbnyk0jBcsLCBMNwC?usp=sharing)**
