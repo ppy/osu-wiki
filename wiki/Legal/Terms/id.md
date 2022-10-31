@@ -104,7 +104,7 @@ Ketika tindakan tersebut diperlukan untuk melindungi dan mempertahankan hak atau
 Ketika tindakan tersebut diperlukan untuk menegakkan syarat dan ketentuan layanan osu!.
 
 osu! dapat menggunakan cookie sebagai alat dalam proses pelacakan, tetapi cookie tidak akan digunakan untuk mengidentifikasi Anda secara pribadi tanpa persetujuan Anda sebelumnya.
-Apabila pengguna memutuskan untuk berpartisipasi pada forum secara sukarela dan sepengetahuan pengguna, sebuah cookie akan dikeluarkan untuk melacak nama dan kata sandi pengguna dalam rentang waktu 1 tahun.
+Apabila pengguna memutuskan untuk berpartisipasi pada forum secara sukarela dan sepengetahuan pengguna, sebuah cookie akan diterbitkan untuk melacak nama dan kata sandi pengguna dalam rentang waktu 1 tahun.
 
 ## HAK KEPEMILIKAN ATAS KONTEN
 
