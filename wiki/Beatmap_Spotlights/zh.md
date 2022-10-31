@@ -135,10 +135,10 @@ tags:
 
 1. 在一个赛季的时间中，谱面将由各个模式的策展人选择出来。
    - 策展人需要在公开讨论中就每个谱面达成共识。
-   - 模式负责人会锁定最终决定，并在结论性讨论后巩固他们的选择。
+   - 模式负责人会确定将选择的谱面，并在最终讨论后锁定结果。
    - 选择的过程在各个游戏模式之间有所不同，并且会根据成员的需求进行调整。
 2. 谱面的选择基于其独特性和卓越性。每个选定的谱面都应在游戏性，设计和美学方面出类拔萃。
-3. 最终所选的谱面可作为对整个 osu! 社区的推荐，并使用唯一的 *Spotlights* 标签标记。
+3. 选定的谱面会推荐到整个 osu! 社区，并标上独一无二的 *Spotlights* 标签。
 4. 为了履行向整个社区推荐优秀谱面的职责，谱面应涵盖特定范围的 Hard，Insane 和 Expert 难度。
    - 在所有谱面中，应该有 6 张谱面为 Hard 难度内。
    - 在所有谱面中，应该有 9 张谱面为 Insane 难度内。
@@ -172,15 +172,15 @@ tags:
 
 ## 历史
 
-该项目最初由 ::{ flag=US }:: [Cyclone](https://osu.ppy.sh/users/18589) 和 ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) 在 2009 年 10 月[^charts-09-oct] [^charts-09-nov]提出，原名 “Ranking Charts”。该项目旨在让 [BAT](/wiki/Modding/Beatmap_Appreciation_Team) 和 [MAT](/wiki/Modding/Mapping_Assistance_Team) 提名并投票选出展示为期一个月或一年[^charts-10-jan]的最佳谱面。2011 年 9 月, osu!taiko 和 osu!catch 随之出现[^charts-11-per-mode]。
+该项目最初由 ::{ flag=US }:: [Cyclone](https://osu.ppy.sh/users/18589) 和 ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) 在 2009 年 10 月[^charts-09-oct] [^charts-09-nov]提出，原名 “Ranking Charts”。该项目旨在让 [BAT](/wiki/Modding/Beatmap_Appreciation_Team) 和 [MAT](/wiki/Modding/Mapping_Assistance_Team) 提名并投票选出展示为期一个月或一年[^charts-10-jan]的最佳谱面。2011 年 9 月, osu!taiko 和 osu!catch 也启动了类似的项目[^charts-11-per-mode]。
 
 该项目进行了多次更改和补充，例如[主题月赛](https://osu.ppy.sh/rankings/osu/charts?spotlight=26)，[Mod 月赛](https://osu.ppy.sh/rankings/osu/charts?spotlight=19)或是[赛季排行榜](https://osu.ppy.sh/home/news/2014-07-18-june-2014-ranking-chart)等等。 最初，只有月赛胜者才能获得 [osu! 支持者](/wiki/osu!supporter)标签。后来，添加了对谱面作者或赛季排行榜胜者的奖励。
 
 项目负责人在其历史上已经发生了数次变化。::{ flag=US }:: [SapphireGhost](https://osu.ppy.sh/users/388602) 于 2012 年 5 月接任项目负责人[^charts-manager-sg]，随后是 ::{ flag=US }:: [DeathXShinigami](https://osu.ppy.sh/users/49516) [^charts-manager-dxs] 和 ::{ flag=US }:: [Makar](https://osu.ppy.sh/users/686389) [^charts-manager-makar]。::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) 和 ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) 于 2013 年 12 月接任项目负责人[^charts-manager-loctav]。
 
-2014 年 1 月，月赛浏览器被添加到 osu! 客户端当中[^charts-in-osu-14-jan]，随后的 2014 年 6 月，几位著名玩家被招募进入了 [CAT](/wiki/Beatmap_Spotlights/Chart_Assembly_Team)[^charts-cat-recruitment-14-jun]。从 2015 年 3 月开始，该项目从最初的提名和投票转变为让[知名社区成员逐个选择他们推荐的谱面集](https://osu.ppy.sh/home/news/2015-03-18-february-2015-monthly-ranking-charts-new-season)[^charts-curated-15-mar]。在2016年9月，提名系统已大体恢复[^charts-reverted-16-sep]，由 [QAT](/wiki/Modding/Quality_Assurance_Team) 负责选择最值得关注的谱面集。
+2014 年 1 月，月赛浏览器被添加到 osu! 客户端当中[^charts-in-osu-14-jan]，随后的同年 6 月，几位著名玩家被招募进入了 [CAT](/wiki/Beatmap_Spotlights/Chart_Assembly_Team)[^charts-cat-recruitment-14-jun]。从 2015 年 3 月开始，该项目从最初的提名和投票，转变为让[知名社区成员逐个选择他们推荐的谱面](https://osu.ppy.sh/home/news/2015-03-18-february-2015-monthly-ranking-charts-new-season)[^charts-curated-15-mar]。在 2016 年 9 月，提名系统已大体恢复[^charts-reverted-16-sep]。此时，[QAT](/wiki/Modding/Quality_Assurance_Team) 将负责选择最值得关注的谱面。
 
-在 2017 年 3 月改名为 [Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights)[^charts-renamed-into-spotlights]。该系统本身保持了基本的连贯性，同时增加了诸如成就之类的奖励，并进一步增强了 Beatmap Spotlights 的显示效果。在对 QAT 进行内部检修期间，该项目的负责人已被重新分配给了 ::{ flag=HU }:: [Kurokami](https://osu.ppy.sh/users/260933) 并重新组建了一个基于社区的谱面选择团队。在 2018 年 11 月，月赛的频率被更改为季节性[^spotlights-seasonal]。2020 年 3 月，::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) 随 Kurokami 重回项目负责人，将其重新设计成新的形状，并组建了新的名为 osu! 策展人的团队[^spotlights-reworked-20-june]。
+在 2017 年 3 月改名为 [Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights)[^charts-renamed-into-spotlights]。该系统本身保持了基本的连贯性，同时增加了诸如成就之类的奖励，并进一步增强了 Beatmap Spotlights 的显示效果。在 QAT 休整期间， ::{ flag=HU }:: [Kurokami](https://osu.ppy.sh/users/260933) 重新任职为该项目的负责人，并重组了一个基于社区的谱面选择团队。2018 年 11 月，月赛的频率更改为季节性[^spotlights-seasonal]。2020 年 3 月，::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) 和 Kurokami 重任项目负责人、重新设计项目结构、并新建了名为 osu! 策展人的团队[^spotlights-reworked-20-june]。
 
 2020 年八月 ::{ flag=HU }:: [Kurokami](https://osu.ppy.sh/users/260933) 退出了该项目，在 2020 年 11 月底  ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) 也随 Kurokami 辞职。于是 ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) 和 ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) 一起接管了该项目。
 
