@@ -305,58 +305,58 @@ osu! 通常会自己保持最新版本，不需要干涉，但有时情况可能
 
 若要确保 osu! 可以联网，需要把 osu! 加入 Windows 防火墙的白名单。
 
-1. Open the Start menu.
-2. Type `allow an app` into the search bar within the Start menu.
-3. You should see a Control Panel match titled `Allow an app through Windows Firewall`. Click it.
-4. A panel with a large list of applications with two checkboxes beside them will open. Click on any application, and then hit the `o` key. The list will scroll down to all applications beginning with 'o'.
-5. Look for `osu!` or `osu!.exe`.
-6. If neither are present, click `Allow another app` at the bottom of the panel and search for your osu! installation directory, and choose `osu!.exe`.
-7. Make sure both `Private` and `Public` checkboxes are ticked. Click OK to save your settings and try again.
+1. 打开开始菜单。
+2. 在开始菜单的搜索框当中，输入`允许应用`。
+3. 你应该会看到名为·允许应用通过 Windows 防火墙`的设置面板项。点它。
+4. 一个有很多程序列成表，程序旁边有两个复选框的面板会打开。随便点击一个程序的名字，然后按下`o`按钮。这会让列表滚动到以"o"开头的程序那里。
+5. 找找看 `osu!` 或 `osu!.exe`。
+6. 如果这两个都没有，请点击面板底部的`允许其他应用`，然后搜索你的 osu! 安装路径，在里面选择 `osu!.exe`。
+7. 请确保`专用`和`公用`复选框都打上了勾，然后点击确认保存，打开游戏重新尝试。
 
-#### Allowing a program through AVG Firewall {#firewall-whitelist-avg}
+#### 允许程序通过 AVG 防火墙 {#firewall-whitelist-avg}
 
-Please consult AVG's [official knowledge base entry on the topic](https://support.avg.com/SupportArticleView?l=en&urlName=AVG-Antivirus-Enhanced-Firewall-Application-Rules&supportType=home) for detailed instructions on how to do this.
+请参阅 AVG 的[官方知识库文章](https://support.avg.com/SupportArticleView?l=en&urlName=AVG-Antivirus-Enhanced-Firewall-Application-Rules&supportType=home)来了解如何操作。
 
-#### Allowing a program through Kaspersky Internet Security {#firewall-whitelist-kaspersky}
+#### 允许程序通过 Kaspersky 互联网安全 {#firewall-whitelist-kaspersky}
 
-Please consult Kaspersky's [official help article](https://support.kaspersky.com/15163#block2) on adding applications to the Trusted Zone.
+请参阅 Kaspersky 的[官方支持文章](https://support.kaspersky.com/15163#block2)来了解如何把程序加入信任名单。
 
-#### Allowing a program through McAfee {#firewall-whitelist-mcafee}
+#### 允许程序通过 McAfee {#firewall-whitelist-mcafee}
 
-Please consult McAfee's [official knowledge base entry on the topic](https://service.mcafee.com/?articleId=TS100813&page=shell&shell=article-view).
+请参阅 McAfee 的[官方知识库文章](https://service.mcafee.com/?articleId=TS100813&page=shell&shell=article-view)。
 
-### I've added osu! to my firewall but I still can't connect to the game! {#sign-in-unknown-cause}
+### 我已经允许 osu! 通过防火墙了，但是我仍然没办法连接游戏！ {#sign-in-unknown-cause}
 
-**We will need extra information from you to help sort this out.**
+**我们需要更多信息才能帮助你解决问题。**
 
-If you are still having issues connecting to our game servers, please submit a support ticket by sending an email to [accounts@ppy.sh](mailto:accounts@ppy.sh). The following information will help us resolve your issue quickly:
+如果你仍然不能连接上游戏服务器，请发邮件给 [accounts@ppy.sh](mailto:accounts@ppy.sh) 来申请帮助。请提供以下信息来帮助我们快速解决你的问题：
 
-- A trace route output log from the command `tracert` for the servers `cho.ppy.sh`, `osu.ppy.sh` and `m1.ppy.sh` (see below for instructions)
-- The `network.log` file from the `Logs` folder in your osu! installation directory
+- 使用 `tracert` 命令，获取对 `cho.ppy.sh`，`osu.ppy.sh` 和 `m1.ppy.sh` 的路由追踪日志（可参照下方的指示）。
+- 游戏安装目录，`Logs` 文件夹内的 `network.log`。
 
-#### Running a trace route to troubleshoot connection issues {#traceroute}
+#### 进行路由追踪来排除网络问题 {#traceroute}
 
-**A trace route will help us detect exactly where the problem is between you and our servers.**
+**路由追踪可以让我们检测你与游戏服务器中间到底出了什么问题。**
 
-You can perform a trace route by opening Command Prompt and running the command `tracert`.
+你可以在命令提示符中使用 `tracert` 命令来进行路由追踪。
 
-To open the Command Prompt, press and hold the `Windows` key and press `R`, and then type `cmd` and click `OK`. For more information, see the [Windows knowledge base article](https://support.microsoft.com/en-us/topic/how-to-use-tracert-to-troubleshoot-tcp-ip-problems-in-windows-e643d72b-2f4f-cdd6-09a0-fd2989c7ca8e).
+如果要打开命令提示符，请按住键盘上的 `Windows` 键，然后点击 `R`。然后在弹出的窗口中输入 `cmd` ，然后按下 `确认`。详细信息请参阅[这篇 Windows 知识库文章](https://support.microsoft.com/en-us/topic/how-to-use-tracert-to-troubleshoot-tcp-ip-problems-in-windows-e643d72b-2f4f-cdd6-09a0-fd2989c7ca8e)
 
-You can then type the trace route command into the console. For example, the command `tracert cho.ppy.sh` will track how your computer connects to the game server over the internet. Tracing routes takes a little time, sometimes upwards of a minute or more depending on your connection.
+随后，你就可以把指令输入进去了。举个例子，`tracert cho.ppy.sh` 会对你电脑与游戏服务器的通信进行追踪。这可能需要一分钟或者几分钟，具体依据你的网络情况而定。
 
-We will need the results from a trace route for command for the following servers: `cho.ppy.sh`, `osu.ppy.sh`, and `m1.ppy.sh`.
+我们需要对 `cho.ppy.sh`, `osu.ppy.sh`，和 `m1.ppy.sh` 的路由追踪日志。
 
-To copy the results of the command, simply click and drag from the bottom of the output all the way to the top so that the information turns white, then right-click to instantly copy it to your clipboard.
+如果要复制追踪结果，点击运行结果的底部，向上拖动，结果都变白之后即可右键复制。
 
-### I received a server-side error when trying to play online! {#server-side-error}
+### 在线游玩时，我收到了服务器端的错误！ {#server-side-error}
 
-**The servers could be having issues.**
+**游戏服务器可能正面临问题。**
 
-Check the [osu! server status page](https://status.ppy.sh/ "osu! server status") to see if there are any ongoing issues with the servers.
+请看看 [osu! 服务器状态页面](https://status.ppy.sh/ "osu! server status")来确定是不是服务器出现了故障。
 
-**This can also happen if you are using a shared internet connection, a proxy, or VPN.**
+**这也可能因为你使用了共享网络连接，代理服务器，或者 VPN。**
 
-Try using another proxy or VPN provider — if all else fails, send in a support ticket via mail to [accounts@ppy.sh](mailto:accounts@ppy.sh).
+尝试换一个代理服务器或[accounts@ppy.sh](mailto:accounts@ppy.sh).
 
 If you are not using any of the above, then you will need to send in a support ticket, as your connection has likely been blacklisted in error.
 
