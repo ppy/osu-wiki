@@ -125,7 +125,7 @@ tags:
 | ![](img/badges/summer_2022/osu/copper_1.png) ![](img/badges/summer_2022/osu/copper_2.png) | 黄铜（Copper） | 70% – 95% |
 | ![](img/badges/summer_2022/osu/iron_1.png) ![](img/badges/summer_2022/osu/iron_2.png) | 黑铁（Iron） | 95% – 100% |
 
-`人韵合一` 段位的玩家数量是根据该赛季的参与人数和其他段位的规模手动挑选的，但在大多数情况下为前 2 - 50 名。
+`人韵合一` 段位的玩家数量是根据该赛季的参与人数和其他段位的规模手动挑选的，在大多数情况下为前 2 - 50 名。
 
 该表仅展示四个徽章设计中的 osu! 版本。每种游戏模式都有其自己的徽章设计。
 
@@ -140,9 +140,9 @@ tags:
 2. 谱面的选择基于其独特性和卓越性。每个选定的谱面都应在游戏性，设计和美学方面出类拔萃。
 3. 选定的谱面会推荐到整个 osu! 社区，并标上独一无二的 *Spotlights* 标签。
 4. 为了履行向整个社区推荐优秀谱面的职责，谱面应涵盖特定范围的 Hard，Insane 和 Expert 难度。
-   - 在所有谱面中，应该有 6 张谱面为 Hard 难度内。
-   - 在所有谱面中，应该有 9 张谱面为 Insane 难度内。
-   - 在所有谱面中，应该有 12 张谱面为 Expert 难度内。
+   - 在所有谱面中，应有 6 张谱面在 Hard 难度内。
+   - 在所有谱面中，应有 9 张谱面在 Insane 难度内。
+   - 在所有谱面中，应有 12 张谱面在 Expert 难度内。
 5. 每赛季一共选择 27 个高质量谱面。
    - 所有谱面必须 Ranked。
    - 就算挑选出了超过 27 个谱面，也必须遵循难度之间的均匀分布。
@@ -156,7 +156,7 @@ tags:
 
 ### 反馈
 
-聚光灯的当前状态是高度实验性的，可以根据玩家的反应随时更改。因此，最重要的是要收集尽可能多的反馈与批评，以进一步改善该系统的方向和表现。鼓励所以玩家在这里留下他们的意见和反馈：
+聚光灯的当前状态是高度实验性的，可以根据玩家的反应随时更改。所以目前最重要的是收集尽可能多的反馈与批评，以进一步改善该系统的方向和表现。鼓励所有玩家在这里留下他们的意见和反馈：
 
 - [论坛反馈贴](https://osu.ppy.sh/community/forums/topics/1189626)
 - [社区 Discord 服务器](https://discord.gg/0Vxo9AsejDkGlk3H) 中的 `#beatmap-spotlights` 频道
@@ -178,11 +178,11 @@ tags:
 
 项目负责人在其历史上已经发生了数次变化。::{ flag=US }:: [SapphireGhost](https://osu.ppy.sh/users/388602) 于 2012 年 5 月接任项目负责人[^charts-manager-sg]，随后是 ::{ flag=US }:: [DeathXShinigami](https://osu.ppy.sh/users/49516) [^charts-manager-dxs] 和 ::{ flag=US }:: [Makar](https://osu.ppy.sh/users/686389) [^charts-manager-makar]。::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) 和 ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) 于 2013 年 12 月接任项目负责人[^charts-manager-loctav]。
 
-2014 年 1 月，月赛浏览器被添加到 osu! 客户端当中[^charts-in-osu-14-jan]，随后的同年 6 月，几位著名玩家被招募进入了 [CAT](/wiki/Beatmap_Spotlights/Chart_Assembly_Team)[^charts-cat-recruitment-14-jun]。从 2015 年 3 月开始，该项目从最初的提名和投票，转变为让[知名社区成员逐个选择他们推荐的谱面](https://osu.ppy.sh/home/news/2015-03-18-february-2015-monthly-ranking-charts-new-season)[^charts-curated-15-mar]。在 2016 年 9 月，提名系统已大体恢复[^charts-reverted-16-sep]。此时，[QAT](/wiki/Modding/Quality_Assurance_Team) 将负责选择最值得关注的谱面。
+2014 年 1 月，月赛浏览器被添加到 osu! 客户端当中[^charts-in-osu-14-jan]，同年 6 月，几位知名玩家被招募进入了 [CAT](/wiki/Beatmap_Spotlights/Chart_Assembly_Team)[^charts-cat-recruitment-14-jun]。从 2015 年 3 月开始，该项目从最初的提名和投票，转变为让[知名社区成员逐个选择他们推荐的谱面](https://osu.ppy.sh/home/news/2015-03-18-february-2015-monthly-ranking-charts-new-season)[^charts-curated-15-mar]。在 2016 年 9 月，提名系统已大体恢复[^charts-reverted-16-sep]。此时，[QAT](/wiki/Modding/Quality_Assurance_Team) 将负责选择最值得关注的谱面。
 
-在 2017 年 3 月改名为 [Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights)[^charts-renamed-into-spotlights]。该系统本身保持了基本的连贯性，同时增加了诸如成就之类的奖励，并进一步增强了 Beatmap Spotlights 的显示效果。在 QAT 休整期间， ::{ flag=HU }:: [Kurokami](https://osu.ppy.sh/users/260933) 重新任职为该项目的负责人，并重组了一个基于社区的谱面选择团队。2018 年 11 月，月赛的频率更改为季节性[^spotlights-seasonal]。2020 年 3 月，::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) 和 Kurokami 重任项目负责人、重新设计项目结构、并新建了名为 osu! 策展人的团队[^spotlights-reworked-20-june]。
+在 2017 年 3 月改名为 [Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights)[^charts-renamed-into-spotlights]。该系统本身保持了基本的连贯性，同时增加了诸如成就之类的奖励，并进一步增强了 Beatmap Spotlights 的显示效果。在 QAT 休整期间，::{ flag=HU }:: [Kurokami](https://osu.ppy.sh/users/260933) 重新任职为该项目的负责人，并重组了一个基于社区的谱面选择团队。2018 年 11 月，月赛的频率更改为季节性[^spotlights-seasonal]。2020 年 3 月，::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) 和 Kurokami 重任项目负责人、重新设计项目结构、并新建了名为 osu! 策展人的团队[^spotlights-reworked-20-june]。
 
-2020 年八月 ::{ flag=HU }:: [Kurokami](https://osu.ppy.sh/users/260933) 退出了该项目，在 2020 年 11 月底  ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) 也随 Kurokami 辞职。于是 ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) 和 ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) 一起接管了该项目。
+2020 年八月 ::{ flag=HU }:: [Kurokami](https://osu.ppy.sh/users/260933) 退出了该项目，在 2020 年 11 月底 ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) 也随 Kurokami 辞职。于是 ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) 和 ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) 一起接管了该项目。
 
 在第 4 赛季（2021 春）后，项目进入停顿期。直至 2021 年 9 月，出现了复兴的倾向，::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) 卸任，而 ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) 加入管理团队，于 2022 年 2 月，在人员重组后，项目恢复了运作。
 
