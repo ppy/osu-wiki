@@ -10,9 +10,10 @@ BOO! Did we get ya? No? Oh well, we still have the monthly news that you can rea
 
 Welcome to the 4th edition of osu!monthly, now with a new halloween themed banner (thank you [Hubz](https://osu.ppy.sh/users/10379965))!
 
-While we are all currently focused on the osu! World Cup, we feel like it'd be good to take a look back at the month of October and see what else has been happening around the community. That being said, the world cup will be covered in great detail next month.
+While we are all currently focused on the osu! World Cup, we feel like it'd be good to take a look back at the month of October and see what else has been happening around the community. That being said, OWC will be covered in great detail next month.
 
 If you want to contribute feel free to reach out! You can find us over at the [osu!dev Discord server](https://discord.com/invite/ppy), or you can reach out to 0x84f#0001 on Discord.
+
 If you are interested in checking out all of the previous editions feel free to look at our [forum thread](https://osu.ppy.sh/community/forums/topics/1614314?n=1)!
 
 ## Table of contents
@@ -30,7 +31,7 @@ If you are interested in checking out all of the previous editions feel free to 
 
 It may be the spookiest month of the year, but the osu! dev team has stayed calm and collected and delivered an impressive amount of updates.
 
-**Cursor smoke trails are back!** 
+**Cursor smoke trails are back!** Feel free to show us your drawings in the comments, if you're the creative type.
 
 <div align="center">
     <video width="100%" controls>
@@ -38,13 +39,15 @@ It may be the spookiest month of the year, but the osu! dev team has stayed calm
     </video>
 </div>
 
-Feel free to show us your drawings in the comments, if you so please. In other news, a new mod, *Freeze Frame* has been added. It adds a new spin to ways you can play osu! by having all objects in a combo load in at once, then their approach circles slowly zoom in, emulating low AR. This is certainly one of the most unique reading focused mods that have been added into the game so far. Also, the leaderboards are finally visible during solo play and lazer has once again received adjustments in order to match stable and make lazer "feel" the same as stable.
+In other news, a new mod titled *Freeze Frame* has been added. It changes gameplay by making all objects in a combo load in at once, then slowly zooms in each approach circle sequentially, emulating a form low approach rate. Words don't really do it justice, so make sure to check it out in osu!(lazer) today if you enjoy reading challenges.
 
-Thew new argon skin received several updates and has also been implemented for mania and catch, with taiko being the only remaining mod to receive its iteration. On the topic of skins, the "longest combo" counter has been added to the combo HUD components, so now you will be able to track your longest combo even without having the leaderboard visible.
+Also, the leaderboards are finally visible during solo play and lazer has once again received adjustments in order to match stable and make lazer "feel" the same as stable.
 
-Lots of quality of life updates occured this month for the editor, such as the addition of the updated visuals and shortcuts for the settings, which should roughly match the newer lazer design language. Visual updates aside, [Olibomby](https://osu.ppy.sh/users/6573093) found an edgecase issue with their slider stream conversion, causing it to put the last circle at the beginning of the slider, which was incorrect. [ekrctb](https://github.com/ekrctb) contributed multiple changes to the editor, some of them being the catch editor having an adjustable height (so more fruits can be visible at the same time) and the time-based selections have been improved, meaning that no matter the speed at which you are scrolling through the editor, all objects will be selected.
+The new argon skin has received several updates and is now implemented for osu!catch and osu!mania, with osu!taiko being the last remaining gamemode to receive its turn. For skins in general, a new "longest combo" counter has been added to the available combo HUD components, so now you will be able to track your longest combo even without having the leaderboard visible.
 
-One thing you might've not known is that osu!(lazer) has implemented full tablet support without any drivers necessary! This means that tablets are fully plug & play with lazer, not requiring you to download any official or 3rd party drivers in order to be able to change your aspect ratio or your area size. While osu!(lazer) does not have plugin support for tablet drivers as some 3rd party drivers do, this is currently the fastest and easiest way to set up a tablet for osu!
+The editor has been a big focus for many quality of life enhancements during October, with examples like updated visuals and shortcuts for the settings, which should feel more at home in osu!(lazer)'s general appearance. Ongoing work by [OliBomby](https://osu.ppy.sh/users/6573093), [ekrctb](https://github.com/ekrctb) and others cover a large number of bugfixes and general improvements to overall performance. Mapping in osu!(lazer) only gets better by the week!
+
+One thing you might've not known is that osu!(lazer) has recently implemented full tablet support without any external drivers required! This means that tablets are fully plug & play with lazer, so say goodbye to needing to use special utilities for tablet area and the like. While osu!(lazer) does not have plugin support for tablet drivers as some 3rd party drivers do, this is currently the fastest and easiest way to set up a tablet for osu!. It just works!
 
 <div align="center">
     <video width="100%" controls>
@@ -58,7 +61,7 @@ Of course, we were not able to cover everything from the patch notes, so if you 
 
 ![](/wiki/shared/news/2022-11-01-osumonthly-4/egts22banner.jpg)
 
-If you haven't already heard, [EGTS](https://osu.ppy.sh/community/forums/topics/1612291?n=1) is an osu!taiko tournament hosted by [_yosh](https://osu.ppy.sh/users/7157133), [TaikoMom](https://osu.ppy.sh/users/9086438), [Briesmas](https://osu.ppy.sh/users/2865172), and [Kasumi-sama](https://osu.ppy.sh/users/6177263). It is considered to be the host to some of the highest level of tournament play in osu!taiko, featuring fully custom songs throughout the mappool and a fully custom pool of charts. Speaking of custom songs, the [grand-finals tiebreaker](https://osu.ppy.sh/beatmapsets/1859338#taiko/3822143) for the tournament is an amazing collaboration featuring help from all corners of the taiko community with 10 artists, 22 mappers, and many others.
+If you haven't already heard, [EGTS](https://osu.ppy.sh/community/forums/topics/1612291?n=1) is an osu!taiko tournament hosted by [_yosh](https://osu.ppy.sh/users/7157133), [TaikoMom](https://osu.ppy.sh/users/9086438), [Briesmas](https://osu.ppy.sh/users/2865172), and [Kasumi-sama](https://osu.ppy.sh/users/6177263). It is considered to be the host to some of the highest level of tournament play in osu!taiko, featuring fully custom songs throughout the mappool and a fully custom pool of charts. Speaking of custom songs, the [Grand Finals tiebreaker](https://osu.ppy.sh/beatmapsets/1859338#taiko/3822143) for the tournament is an amazing collaboration featuring help from all corners of the osu!taiko community with 10 artists, 22 mappers, and many others.
 
 <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/UjXu3o0SW5Q" frameborder="0" allowfullscreen></iframe>
 
@@ -72,11 +75,11 @@ Congratulations to the podium winners of this tournament as well! If you want to
 
 ![](/wiki/shared/news/2022-11-01-osumonthly-4/improvement-month-banner.jpg)
 
-Set up by the [osu! University](/wiki/Community/Discord_servers/osu!_University), the [osu! improvement month](https://osu.ppy.sh/community/forums/topics/1649135?n=1) is a big event that stretched over the whole month of October and during many activities took place such as interviews of top players, King of the Hill, randomized squads of 8, and many others programs in order to gather the osu! community around a common project: getting better.
+Set up by the [osu! University](/wiki/Community/Discord_servers/osu!_University), the [osu! improvement month](https://osu.ppy.sh/community/forums/topics/1649135?n=1) is a big event that ran throughout the whole of October and featured many activities geared around learning to improve and enjoying the process, such as interviews of top players, King of the Hill games, grouping people into randomized squads of 8, and much more.
 
-In order to make this goal possible, the squad program stood out from the norm by allowing to gather 8 strangers in squads to make new friends, help each other and do activities together. Also, to motivate the participants of the event to improve and stay regular, the osu! university has set up a system of daily forms that players can fill with details of their osu! sessions, and upon submitting 10 or more of those players are entered into a raffle to win an osu! keypad. Do not hesitate to [join them on Discord](https://discord.gg/QubdHdnBVg) to follow their next events!
+A system of daily forms was also set up that encouraged players to share details of their osu! sessions, and upon submitting 10 or more of these, they were entered into a raffle to win an osu! keypad. Check them out [on Discord](https://discord.gg/QubdHdnBVg) if you're interested in any future events!
 
-Perhaps you missed the interviews of top players? Don't worry, the [replays](https://www.youtube.com/playlist?list=PL_QhgSQeB2zDRSd-xm9lQrkmGY2wJTXvH) are here for you!
+If you missed the top player interviews, don't worry, the [replays](https://www.youtube.com/playlist?list=PL_QhgSQeB2zDRSd-xm9lQrkmGY2wJTXvH) are here for you!
 
 ![](/wiki/shared/news/2022-11-01-osumonthly-4/dreamjam-banner.jpg)
 
@@ -90,7 +93,7 @@ The event featured a Tandem King of the Hill Tournament, with the fun and challe
     </video>
 </div>
 
-*Please note that osu! team is not affiliated with Dreamcore Private Limited and Matrix. Special thanks to [Coppertine](https://osu.ppy.sh/users/7279762) for the video.*
+*Please note that the osu! team is not affiliated with Dreamcore Private Limited and Matrix. Special thanks to [Coppertine](https://osu.ppy.sh/users/7279762) for the video.*
 
 Missed the event, but still want to catch the action? The stream, complete with live footage and commentary, can be found on the [osu!sg Twitch channel](https://www.twitch.tv/osusg).
 
@@ -98,7 +101,9 @@ Missed the event, but still want to catch the action? The stream, complete with 
 
 As expected every year, the [Halloween 2022 Fanart Contest](https://osu.ppy.sh/home/news/2022-10-10-halloween-fanart-contest) is here. It is through the theme of Halloween that the best artists of the community have competed to make the most beautiful drawing (or rather the *spookiest*). A theme that everyone knows but that allows so many possibilities can only give gorgeous creations!
 
-By the time this monthly is published the results [will already be in](https://osu.ppy.sh/home/news/2022-10-29-halloween-fanart-results), so be sure to check out all the entries and congratulate the winners! By the way, you can now see all the winners' works on osu!'s main menu, so be careful not to get spooked when you connect!
+19 entries ended up making it to the main menu, with a piece by [Dreamxiety](https://osu.ppy.sh/users/13103233) attaining the top spot with 3749 votes for her third consecutive art contest victory (never before achieved by *anyone*) and her fifth triumph overall. 
+
+From the 29th of October onwards, the finalist entries were available to witness in their horrifying majesty in-game, but if you're reading this later on, check them all out from the [contest results news post](https://osu.ppy.sh/home/news/2022-10-29-halloween-fanart-results) instead.
 
 ### The Twitter poll
 
@@ -108,53 +113,55 @@ After Beat Saber reset the bracket (they came from losers finals) the poll took 
 
 This small but seemingly insignificant poll brought together a lot of players from different rhythm game communities and gathered almost 58k votes. We hope that other small events like this one can emerge in the future, to gather the osu! community and other games around common passions!
 
+Remember though, while this was just a bit of fun in the polls, we're all rhythm gamers at heart whether we click circles, slice cubes, smack square buttons, hit arrows with our feet, or violently thrash on flimsy plastic guitars. The rhythm gaming community has never been as big and vibrant as it is today, so why not consider checking out some of the other games featured in the polls to broaden your horizons a bit?
+
 ### Notable osu! plays of the month
 
 *Section written by [Pisapou](https://osu.ppy.sh/users/16640021)*
 
-What happens when the #1 osu! player plays an iconic map with DT? That's what [mrekk](https://osu.ppy.sh/users/7562902/osu) showed us this month with an unbelievable HDDT FC on [Cycle Hit](https://osu.ppy.sh/beatmapsets/636839#osu/1351114)!
+What happens when the #1 osu! player plays an iconic map with DT? [mrekk](https://osu.ppy.sh/users/7562902/osu) showed us the answer this month with an unbelievable HDDT FC on [Cycle Hit](https://osu.ppy.sh/beatmapsets/636839#osu/1351114)!
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/UphOlvleGcs" frameborder="0" allowfullscreen></iframe>
 
-You may think that mrekk would have been satisfied with this legendary score... But no, he also got the [first HDDTHR pass](https://osu.ppy.sh/scores/osu/4295194484) on the same map, and a [new miss count record](https://osu.ppy.sh/scores/osu/4295747622) on [Trinity Homerun](https://osu.ppy.sh/beatmapsets/881996#osu/1844019) with HDDT. By the end of October he also set a [new HR PP record](https://osu.ppy.sh/scores/osu/4300226983) with the FC on [Shinkou wa Hakanaki Ningen no Tame ni ~ Jehovah's YaHVeH](https://osu.ppy.sh/beatmapsets/1826036#osu/3747453). In short, mrekk has not stopped proving this month that he deserves his #1 spot.
+You may think that mrekk would have been satisfied with this legendary score... but no, he also got the [first HDDTHR pass](https://osu.ppy.sh/scores/osu/4295194484) on the same map, and a [new miss count record](https://osu.ppy.sh/scores/osu/4295747622) on [Trinity Homerun](https://osu.ppy.sh/beatmapsets/881996#osu/1844019) with HDDT. By the end of October he also set a [new HR PP record](https://osu.ppy.sh/scores/osu/4300226983) with the FC on [Shinkou wa Hakanaki Ningen no Tame ni ~ Jehovah's YaHVeH](https://osu.ppy.sh/beatmapsets/1826036#osu/3747453). In short, mrekk has not stopped proving this month that he deserves his #1 spot.
 
-### Notable mania plays of the month
-
-*Section written by [RandomeLoL](https://osu.ppy.sh/users/7080063)*
-
-It took them many, many tries. Months went by and their Perfect counts keept decreasing. But at the very beginning of the month, [BossPlays](https://osu.ppy.sh/users/7341471/mania) managed to do what everyone else was only able to dream of: the very first 1 Million score on [The Lost Dedicated](https://osu.ppy.sh/beatmapsets/224173#mania/523391).
-
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/jw5NO-_0RSw" frameborder="0" allowfullscreen></iframe>
-
-For the unaware, [Zyph](https://osu.ppy.sh/users/1600432)'s The Lost Dedicated is a very ~~in~~famous chart, not quite to the point of the original .bms file it was based of, but still famous in the 4k VSRG community nonetheless. The importance of this achievement may not be fully conveyed within these two paragraphs, but we hope they will encourage more players to set more magnificent plays such as this one!
-
-### Notable taiko plays of the month
+### Notable osu!taiko plays of the month
 
 *Section written by [ianpep](https://osu.ppy.sh/users/7699030)*
 
 4 years ago, this map was veto'd for being impossible to FC. People at the time thought it was impossible, too hard for any player to ever achieve the FC, however they were proven wrong.
 
-After being ranked for over 3 years, the legend them self [applerss](https://osu.ppy.sh/users/983349/taiko) has FC'ed [Scattered Faith](https://osu.ppy.sh/beatmapsets/812539#taiko/1704294)! Being 8 minutes long, and reaching up to BPM's of 380 near the ending, this map is well deserving of its 9.07 star difficulty. Not to mention some of the 1/6th bursts as well, reaching BPM's of over 500! The replay is an amazing sight to see as well, please watch it if you have the time!
+After being ranked for over 3 years, the living legend [applerss](https://osu.ppy.sh/users/983349/taiko) has FC'ed [Scattered Faith](https://osu.ppy.sh/beatmapsets/812539#taiko/1704294)! Being 8 minutes long and reaching up to a BPM of 380 near the ending, this map is well deserving of its 9.07 star difficulty, not even mentioning the 1/6th bursts plus an overall BPM of over 500! The replay is an amazing sight to see as well, please watch it if you have the time!
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/k84skFvaFqo" frameborder="0" allowfullscreen></iframe>
 
 Some other notable plays this month include [shinchikuhome](https://osu.ppy.sh/users/3174184/taiko)'s [Chronostasis](https://osu.ppy.sh/beatmapsets/842930#taiko/1763738) [DT FC](https://osu.ppy.sh/scores/taiko/174906458), earning them 982 pp along with both #1 on the map, and #1 global! Congratulations aswell to EGTS runner-up, [Grape_Tea](https://osu.ppy.sh/users/9540073/taiko) who also set an insane [NFHDHR SS](https://osu.ppy.sh/scores/taiko/175189773) on [The Limit Does Not Exist](https://osu.ppy.sh/beatmapsets/420395#taiko/1028158), worth 922 pp!
 
-### Notable catch plays of the month
+### Notable osu!catch plays of the month
 
 *Section written by [Patatitta](https://osu.ppy.sh/users/16294034)*
 
-[ExGon](https://osu.ppy.sh/users/214187) has gone out of the shadows once against and set what might be one of the most meta-breaking plays of the whole game, getting an HRFL SS on the top diff of [ded_ED](https://osu.ppy.sh/beatmapsets/1705910#fruits/3800941), a 30 seconds CS 9.1 AR 0 map maxed out with the tightest jumps you can imagine, we heavily recommend watching the replay as there are very few plays in the game like this one.
+[ExGon](https://osu.ppy.sh/users/214187) has emerged from the shadows once again and set what might be one of the most meta-breaking plays in the entire game, getting an HRFL SS on the top diff of [ded_ED](https://osu.ppy.sh/beatmapsets/1705910#fruits/3800941), a 30 second long, CS 9.1, AR 0 map maxed out with the tightest jumps you can imagine. You just have to see it to believe it.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/WtUCel2sChA" frameborder="0" allowfullscreen></iframe>
 
-Don't let this play steal all the spotlight, as we have seen more crazy scores this month, like the [first S rank](https://osu.ppy.sh/scores/fruits/209751344) on the top difficulty of [HUG & KILL](https://osu.ppy.sh/beatmapsets/1687036#fruits/3451294) set by [Motion](https://osu.ppy.sh/users/3885626/fruits), dominating one of the fastest maps in catch the beat, or yet another high cs play by [ExGon](https://osu.ppy.sh/users/214187), obtaining a full combo on his own map, [Broken Hearts](https://osu.ppy.sh/beatmapsets/461355#fruits/988074) with FL, this is the first FC on the map (even while counting NM or HT).
+Don't let this play steal all of the spotlight, as October held more crazy score-based surprises, like the [first S rank](https://osu.ppy.sh/scores/fruits/209751344) on the top difficulty of [HUG & KILL](https://osu.ppy.sh/beatmapsets/1687036#fruits/3451294) set by [Motion](https://osu.ppy.sh/users/3885626/fruits), dominating one of the fastest maps in catch the beat, or yet another high CS play by [ExGon](https://osu.ppy.sh/users/214187) obtaining a full combo on his own map [Broken Hearts](https://osu.ppy.sh/beatmapsets/461355#fruits/988074) with FL, setting the first FC on the map (even while counting NM or HT).
+
+### Notable mania plays of the month
+
+*Section written by [RandomeLoL](https://osu.ppy.sh/users/7080063)*
+
+It took them many, many tries. Months went by and their Perfect counts kept decreasing, but at the very beginning of the month [BossPlays](https://osu.ppy.sh/users/7341471/mania) managed to do what everyone else was only able to dream of: the very first 1 million score on [The Lost Dedicated](https://osu.ppy.sh/beatmapsets/224173#mania/523391).
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/jw5NO-_0RSw" frameborder="0" allowfullscreen></iframe>
+
+For the unaware, [Zyph](https://osu.ppy.sh/users/1600432)'s The Lost Dedicated is a very ~~in~~famous chart, not quite to the point of the original .bms file it was based on, but still notorious in the 4K VSRG community nonetheless. The importance of this achievement may not be fully conveyed within these two paragraphs, but we hope they will encourage more players to set more magnificent plays such as this one!
 
 ## Did you know?
 
-Since 2012 and until very recently, the longest osu! ranked map was [Armin](https://osu.ppy.sh/users/105902)'s set on [The Unforgiving](https://osu.ppy.sh/beatmapsets/29157#osu/156352) by Within Temptation, with a total drain time of 45 minutes. But this long kept record has been beaten recently by [Nokduro](https://osu.ppy.sh/users/2998248) and his osu!taiko set on [DigitalOffline0011 Hayakore Tatsumi](https://osu.ppy.sh/beatmapsets/1860299#taiko/3824509) by Hayakore Tatsumi, which contains 57 minutes of drain time.
+Since 2012 and until very recently, the longest osu! ranked map was [Armin](https://osu.ppy.sh/users/105902)'s set on [The Unforgiving by Within Temptation](https://osu.ppy.sh/beatmapsets/29157#osu/156352) with a total drain time of 45 minutes. But this long kept record has been beaten recently by [Nokduro](https://osu.ppy.sh/users/2998248) and his osu!taiko set of [DigitalOffline0011 Hayakore Tatsumi by Hayakore Tatsumi](https://osu.ppy.sh/beatmapsets/1860299#taiko/3824509), which runs for a whopping *57* minutes of total drain time.
 
-However, if we also include loved maps, [Nana Party](https://osu.ppy.sh/beatmapsets/750284#taiko/1904970) by Nanahira, mapped by [katacheh](https://osu.ppy.sh/users/6651672) is the longest map of osu! with a total of 178 minutes of drain time.
+If we also include loved maps, [katacheh](https://osu.ppy.sh/users/6651672)'s map for [Nana Party by Nanahira](https://osu.ppy.sh/beatmapsets/750284#taiko/1904970) has the longest run time of any of osu! beatmap with a total drain time of 178 minutes. You can fit the Bee Movie in that kind of time frame *twice*.
 
 ## Monthly community quiz
 
@@ -162,8 +169,8 @@ Ready, TBA
 
 ## Things to look out for in November
 
-- After twelve editions of the [osu! World Cup](/wiki/Tournaments/OWC), the [thirteenth iteration](/wiki/Tournaments/OWC/2022) is taking place right now until the end of November. Don't miss the biggest official tournament of the year, the matches of which you can find on the official [twitch channel](https://www.twitch.tv/osulive)!
-- You are an osu!taiko mapper and want to show your talent to the whole community by mapping featured artist music? Then don't waste a second and take a look at the [osu!taiko Featured Artist Cup](https://osu.ppy.sh/home/news/2022-10-23-osutaiko-featured-artist-cup-3), the biggest osu!taiko mapping showdown of the year!
+- After twelve editions of the [osu! World Cup](/wiki/Tournaments/OWC), the [thirteenth iteration](/wiki/Tournaments/OWC/2022) is underway until the end of November. Make sure not to miss the biggest official tournament of the year, the matches of which you can find on the official [twitch channel](https://www.twitch.tv/osulive)!
+- Are you are an osu!taiko mapper and want to show your talent to the whole community by mapping featured artist music? Then don't waste a second and take a look at the [osu!taiko Featured Artist Cup](https://osu.ppy.sh/home/news/2022-10-23-osutaiko-featured-artist-cup-3), the biggest osu!taiko mapping showdown of the year!
 - Ephemeral has shared a sneak peek of a new Hush-Hush medal in the [Medal Hunters Discord](https://discord.com/invite/8qpNTs6), this will most likely lead to a new batch of them!
 
 ## End word
