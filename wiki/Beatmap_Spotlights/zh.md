@@ -182,7 +182,7 @@ tags:
 
 在 2017 年 3 月改名为 [Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights)[^charts-renamed-into-spotlights]。该系统本身保持了基本的连贯性，同时增加了诸如成就之类的奖励，并进一步增强了 Beatmap Spotlights 的显示效果。在 QAT 休整期间，::{ flag=HU }:: [Kurokami](https://osu.ppy.sh/users/260933) 重新任职为该项目的负责人，并重组了一个基于社区的谱面选择团队。2018 年 11 月，月赛的频率更改为季节性[^spotlights-seasonal]。2020 年 3 月，::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) 和 Kurokami 重任项目负责人、重新设计项目结构、并新建了名为 osu! 策展人的团队[^spotlights-reworked-20-june]。
 
-2020 年八月 ::{ flag=HU }:: [Kurokami](https://osu.ppy.sh/users/260933) 退出了该项目，在 2020 年 11 月底 ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) 也随 Kurokami 辞职。于是 ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) 和 ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) 一起接管了该项目。
+2020 年 8 月 ::{ flag=HU }:: [Kurokami](https://osu.ppy.sh/users/260933) 退出了该项目，在 2020 年 11 月底 ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) 也随 Kurokami 辞职。于是 ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) 和 ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) 一起接管了该项目。
 
 在第 4 赛季（2021 春）后，项目进入停顿期。直至 2021 年 9 月，出现了复兴的倾向，::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) 卸任，而 ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) 加入管理团队，于 2022 年 2 月，在人员重组后，项目恢复了运作。
 
