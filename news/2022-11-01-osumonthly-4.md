@@ -38,7 +38,7 @@ It may be the spookiest month of the year, but the osu! dev team has stayed calm
     </video>
 </div>
 
-Feel free to show us your drawings in the comments, if you so please. In other news, the leaderboards are finally visible during solo play, lazer has once again received adjustments in order to match stable and make lazer "feel" the same as stable.
+Feel free to show us your drawings in the comments, if you so please. In other news, a new mod, *Freeze Frame* has been added. It adds a new spin to ways you can play osu! by having all objects in a combo load in at once, then their approach circles slowly zoom in, emulating low AR. This is certainly one of the most unique reading focused mods that have been added into the game so far. Also, the leaderboards are finally visible during solo play and lazer has once again received adjustments in order to match stable and make lazer "feel" the same as stable.
 
 Thew new argon skin received several updates and has also been implemented for mania and catch, with taiko being the only remaining mod to receive its iteration. On the topic of skins, the "longest combo" counter has been added to the combo HUD components, so now you will be able to track your longest combo even without having the leaderboard visible.
 
