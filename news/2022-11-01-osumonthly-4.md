@@ -169,9 +169,10 @@ Ready, TBA
 
 ## Things to look out for in November
 
-- After twelve editions of the [osu! World Cup](/wiki/Tournaments/OWC), the [thirteenth iteration](/wiki/Tournaments/OWC/2022) is underway until the end of November. Make sure not to miss the biggest official tournament of the year, the matches of which you can find on the official [twitch channel](https://www.twitch.tv/osulive)!
+- After twelve editions of the [osu! World Cup](/wiki/Tournaments/OWC), the [thirteenth iteration](/wiki/Tournaments/OWC/2022) is underway until the end of November. Make sure not to miss the biggest official tournament of the year, the matches of which you can find on the official [Twitch channel](https://www.twitch.tv/osulive)!
 - Are you are an osu!taiko mapper and want to show your talent to the whole community by mapping featured artist music? Then don't waste a second and take a look at the [osu!taiko Featured Artist Cup](https://osu.ppy.sh/home/news/2022-10-23-osutaiko-featured-artist-cup-3), the biggest osu!taiko mapping showdown of the year!
 - [Ephemeral](https://osu.ppy.sh/users/102335) has shared a sneak peek of a new Hush-Hush medal in the [Medal Hunters Discord](https://discord.com/invite/8qpNTs6), this led to some community datamining from which 3 more beatmap pack medals were uncovered! This indicates that there is a high possibility of a new batch of medals that will be going live soon!
+- The second iteration of OTMT (osu!taiko Malaysia tournament) is currently underway! For this iteration the tournament organizers really stepped their game up with commissioned songs, custom maps, and even a mascot! The tournament is currently in the quarterfinals stage so if you like bashing drums yourself or just watching the bashing take place, head over to their [Twitch channel](https://www.twitch.tv/osutaikomalaysia).
 
 ## End word
 
