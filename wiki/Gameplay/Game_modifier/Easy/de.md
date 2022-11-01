@@ -64,7 +64,7 @@ Obwohl nur eine Achse verwendet wird, können die Fruits durch ihre erhöhte Gr�
 
 ### osu!mania
 
-In [osu!mania](/wiki/Game_mode/osu!mania) sind die Effekte die gleichen wie in osu!taiko, außer, dass dem Spieler die zwei zusätzlichen Leben *tatsächlich* bereitgestellt werden und dass die Slider-Geschwindigkeit sowie die standardmäßige Tastenanzahl dasselbe sein werden.
+In [osu!mania](/wiki/Game_mode/osu!mania) sind die Effekte die gleichen wie in osu!taiko, außer, dass dem Spieler die zwei zusätzlichen Leben *tatsächlich* bereitgestellt werden und dass die Slider-Geschwindigkeit sowie die standardmäßige Tastenanzahl dieselbe sein werden.
 
 ## Trivia
 
