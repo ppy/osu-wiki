@@ -165,7 +165,16 @@ If we also include loved maps, [katacheh](https://osu.ppy.sh/users/6651672)'s ma
 
 ## Monthly community quiz
 
-Ready, TBA
+Congratulations to [Karol Duchon](https://osu.ppy.sh/users/18791964) for being the first person to answer last month's question and score themselves 1 month of osu!supporter!
+As promised last month, I will be providing the answer to last month's question — "Who rewrote the medal system in 2016?".
+
+The answer was: [MillhioreF](https://osu.ppy.sh/users/941094)
+
+This month we've prepared a special halloween themed question (thanks [chromb](https://osu.ppy.sh/users/10238680)!), and that question is...:
+
+PLACEHOLDER
+
+As is customary by now, the first person with the correct answer in the comments will receive 1 month of supporter, and if no one answers by the 1st of December the prize will no longer be claimable. Good luck!
 
 ## Things to look out for in November
 
