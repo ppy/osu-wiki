@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!monthly, October 2022"
-date: 2022-11-01 00:00:00 +0000
+date: 2022-11-01 10:00:00 +0000
 ---
 
 BOO! Did we get ya? No? Oh well, we still have the monthly news that you can read through to catch up with the community.
@@ -41,9 +41,9 @@ It may be the spookiest month of the year, but the osu! dev team has stayed calm
 
 In other news, a new mod titled *Freeze Frame* has been added. It changes gameplay by making all objects in a combo load in at once, then slowly zooms in each approach circle sequentially, emulating a form of low approach rate. Words don't really do it justice, so make sure to check it out in osu!(lazer) today if you enjoy challenging your reading skills.
 
-Also, the leaderboards are finally visible during solo play and lazer has once again received adjustments in order to match stable and make lazer "feel" the same as stable.
+Also, the leaderboards are finally visible during solo play and osu!(lazer) has received a few more adjustments in order to make it "feel" the same as stable.
 
-The new argon skin has received several updates and is now implemented for osu!catch and osu!mania, with osu!taiko being the last remaining gamemode to receive its turn. For skins in general, a new "longest combo" counter has been added to the available combo HUD components, so now you will be able to track your longest combo even without having the leaderboard visible.
+The new Argon skin has received several updates and is now implemented for osu!catch and osu!mania, with osu!taiko being the last remaining game mode to receive its turn. For skins in general, a new "longest combo" counter has been added to the available combo HUD components, so now you will be able to track your longest combo even without having the leaderboard visible.
 
 The editor has been a big focus for many quality of life enhancements during October, with examples like updated visuals and shortcuts for the settings, which should feel more at home in osu!(lazer)'s general appearance. Ongoing work by [OliBomby](https://osu.ppy.sh/users/6573093), [ekrctb](https://github.com/ekrctb) and others cover a large number of bugfixes and general improvements to overall performance. Mapping in osu!(lazer) only gets better by the week!
 
@@ -165,14 +165,13 @@ If we also include loved maps, [katacheh](https://osu.ppy.sh/users/6651672)'s ma
 
 ## Monthly community quiz
 
-Congratulations to [Karol Duchon](https://osu.ppy.sh/users/18791964) for being the first person to answer last month's question and score themselves 1 month of osu!supporter!
-As promised last month, I will be providing the answer to last month's question — "Who rewrote the medal system in 2016?".
+Congratulations to [Karol Duchon](https://osu.ppy.sh/users/18791964) for being the first person to answer last month's question and score themselves 1 month of osu!supporter! As promised last month, we will be providing the answer to last month's question — "Who rewrote the medal system in 2016?".
 
-The answer was: [MillhioreF](https://osu.ppy.sh/users/941094)
+The answer was: [MillhioreF](https://osu.ppy.sh/users/941094)!
 
-This month we've prepared a themed question (thanks [chromb](https://osu.ppy.sh/users/10238680)!), and that question is...:
+This month we've prepared a themed question (thanks [chromb](https://osu.ppy.sh/users/10238680)!), and that question is:
 
-PLACEHOLDER
+*What symbol of halloween went extinct in early 2015, and what did they drop after their reincarnation?*
 
 As is customary by now, the first person with the correct answer in the comments will receive 1 month of supporter, and if no one answers by the 1st of December the prize will no longer be claimable. Good luck!
 
