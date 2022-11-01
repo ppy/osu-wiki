@@ -29,7 +29,7 @@ If you are interested in checking out all of the previous editions feel free to 
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/1tcE_LaE9gI" frameborder="0" allowfullscreen></iframe>
 
-It may be the spookiest month of the year, but the osu! dev team has stayed calm and collected and delivered an impressive amount of updates.
+It may be the spookiest month of the year, but the osu! dev team has stayed calm & collected and delivered an impressive amount of updates.
 
 **Cursor smoke trails are back!** Feel free to show us your drawings in the comments, if you're the creative type.
 
@@ -107,9 +107,9 @@ From the 29th of October onwards, the finalist entries were available to witness
 
 ### The Twitter poll
 
-It all started on October 13 when the Twitter account [OSURGC](https://twitter.com/OSURGC) (Rhythm Games Club at the Ohio State University), launched a [poll](https://twitter.com/osurgc/status/1580319674629120000?s=46&t=BLbMHOGJOKYJGzFO90FEGw) to elect the best rhythm game. After several polls through the days, osu! was in the finals [versus Beat Saber](https://twitter.com/osurgc/status/1584743655294001153?s=46&t=BLbMHOGJOKYJGzFO90FEGw), which maintained a very even 50/50 throughout most of the voting phase. 
+It all started on October 13th when the Twitter account [OSURGC](https://twitter.com/OSURGC) (Rhythm Games Club at the Ohio State University), launched a [poll](https://twitter.com/osurgc/status/1580319674629120000?s=46&t=BLbMHOGJOKYJGzFO90FEGw) to elect the best rhythm game. After several polls through the days, osu! was in the finals [versus Beat Saber](https://twitter.com/osurgc/status/1584743655294001153?s=46&t=BLbMHOGJOKYJGzFO90FEGw), which maintained a very even 50/50 throughout most of the voting phase. 
 
-After Beat Saber reset the bracket (they came from losers finals) the poll took on a whole new dimension with many of the most important people in osu! and Beat Saber urging people to "save their game" by retweeting the message to win this fierce duel. At the end, it's your favorite game, osu!, that won the final and was voted [the best rhythm game](https://twitter.com/osurgc/status/1585505553333223424?s=46&t=BLbMHOGJOKYJGzFO90FEGw) by the OSURGC, thanks to the entire community on Twitter.
+After Beat Saber reset the bracket (they came from losers finals) the poll took on a whole new dimension with many of the most important people in osu! and Beat Saber urging people to "save their game" by retweeting the message to win this fierce duel. At the end, osu! won the final and was voted [the best rhythm game](https://twitter.com/osurgc/status/1585505553333223424?s=46&t=BLbMHOGJOKYJGzFO90FEGw) by the OSURGC, thanks to the entire community on Twitter.
 
 This small but seemingly insignificant poll brought together a lot of players from different rhythm game communities and gathered almost 58k votes. We hope that other small events like this one can emerge in the future, to gather the osu! community and other games around common passions!
 
