@@ -6,6 +6,8 @@ tags:
   - tableaux
   - Tableaux de classement
   - Spotlights saisonnier
+outdated_translation: true
+outdated_since: 798269cfe9f0515e267a7f8a122b28fdff0aaf05
 ---
 
 # Beatmap Spotlights
@@ -14,7 +16,7 @@ tags:
 
 Le **Beatmap Spotlights** (ou simplement *Spotlights*, anciennement *Ranking Charts*) est un programme récurrent de recommandation et de mise en avant des [beatmaps](/wiki/Beatmap) pour leur design et leur gameplay excellents et uniques. Il est accompagné d'une [ligue saisonnière](#saisons-spotlights), où les joueurs s'affrontent sur ces beatmaps pour gagner des [badges](#récompenses).
 
-La saison actuelle est celle du printemps 2022.
+La saison actuelle est celle du été 2022.
 
 ## Participation
 
