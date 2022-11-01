@@ -170,7 +170,7 @@ As promised last month, I will be providing the answer to last month's question 
 
 The answer was: [MillhioreF](https://osu.ppy.sh/users/941094)
 
-This month we've prepared a special halloween themed question (thanks [chromb](https://osu.ppy.sh/users/10238680)!), and that question is...:
+This month we've prepared a themed question (thanks [chromb](https://osu.ppy.sh/users/10238680)!), and that question is...:
 
 PLACEHOLDER
 
