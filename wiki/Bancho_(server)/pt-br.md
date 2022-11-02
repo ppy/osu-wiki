@@ -19,7 +19,7 @@ tags:
 
 Em caso de de conexão fraca com o Bancho, osu! avisa o jogador mostrando um ícone de corrente quebrada no canto inferior direito da tela.
 
-Durante períodos de manutenção, Bancho é reiniciado algumas vezes. Isso é comunicado a todos os usuários online através de um sistema de avisos dentro do jogo, como também com mensagens de aviso periódicas no chat com uma contagem regressiva. Os reinícios de Bancho afetam apenas o chat e o multijogador, todas as outras funções são controladas por diferentes APIs.[score-upload-ref]
+Durante períodos de manutenção, Bancho é reiniciado algumas vezes. Isso é comunicado a todos os usuários online através de um sistema de avisos dentro do jogo, como também com mensagens de aviso periódicas no chat com uma contagem regressiva. Os reinícios de Bancho afetam apenas o chat e o multijogador, todas as outras funções são controladas por diferentes APIs.[^score-upload-ref]
 
 ## Referências
 
