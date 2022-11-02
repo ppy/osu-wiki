@@ -1,3 +1,13 @@
+---
+tags:
+  - qualification
+  - nomination
+  - nominations
+  - nom
+  - ranking
+  - ranked
+---
+
 # Beatmap ranking procedure
 
 *See also: [Rank (disambiguation)](/wiki/Disambiguation/Rank)*
