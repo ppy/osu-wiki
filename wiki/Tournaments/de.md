@@ -383,6 +383,12 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | [Ulat Bulu Cup 2020](UCUP/2020) | 02.06.2020 | 12.07.2020 | awan fanclub | Press 3 Fs to pay respects | terserah |
 | [Ulat Cup 2021](UCUP/2021) | 13.09.2021 | 31.10.2021 | Rushia | Surtr S3 | L9 Hamster |
 
+#### Vin-Tana Solo Showdown
+
+| Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Vin-Tana Solo Showdown](VTSS/1) | 26.09.2021 | 28.11.2021 | ::{ flag=GB }:: [Sspannish](https://osu.ppy.sh/users/11418478) | ::{ flag=US }:: [Geag](https://osu.ppy.sh/users/16052525) | ::{ flag=JP }:: [skit\_3980](https://osu.ppy.sh/users/19514272) |
+
 #### Yaz's Summer Cup
 
 | Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
@@ -462,7 +468,7 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | [Squad Global Taiko Showdown 2021](GTS/SGTS_2021) | 08.01.2022 | 20.02.2022 | おまかせ | Ham | 皇-SUMERAGI- |
 | [Intermediate Global Taiko Showdown 2022](GTS/IGTS_2022) | 26.03.2022 | 08.05.2022 | ::{ flag=JP }:: Japan A | ::{ flag=HK }:: Hong Kong | ::{ flag=US }:: Vereinigte Staaten B |
 | [Advanced Global Taiko Showdown 2022](GTS/AGTS_2022) | 28.05.2022 | 10.07.2022 | ::{ flag=MY }:: Malaysia | ::{ flag=CN }:: China A | ::{ flag=KR }:: Südkorea |
-| [Expert Global Taiko Showdown 2022](GTS/EGTS_2022) | 13.08.2022 | 09.10.2022 | - | - | - |
+| [Expert Global Taiko Showdown 2022](GTS/EGTS_2022) | 11.08.2022 | 09.10.2022 | ::{ flag=JP }:: [Seren58](https://osu.ppy.sh/users/15252950) | ::{ flag=JP }:: [Grape\_Tea](https://osu.ppy.sh/users/9540073) | ::{ flag=DE }:: [Minekuchi](https://osu.ppy.sh/users/9584873) |
 
 #### North & South American Taiko Tournament
 
@@ -476,8 +482,8 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | Taiko 2v2 Converted Maps Tourney | 23.03.2019 | 01.06.2019 | Husha Dinámica (::{ flag=CL }:: [Alepat](https://osu.ppy.sh/users/1164931), ::{ flag=AR }:: [Midnaait](https://osu.ppy.sh/users/1506011)) | >o__. (::{ flag=IT }:: [send help](https://osu.ppy.sh/users/7807444), ::{ flag=GB }:: [goheegy](https://osu.ppy.sh/users/8057655)) | En Marche! (::{ flag=FR }:: [TimmyAkmed](https://osu.ppy.sh/users/1799973), ::{ flag=FR }:: [Yona la loutre](https://osu.ppy.sh/users/7930622)) |
-| Taiko 2v2 Convert Tourney v2 | 02.05.2020 | 07.06.2020 | 87 (::{ flag=US }:: [Ney](https://osu.ppy.sh/users/5991961), ::{ flag=US }:: [JDrago14](https://osu.ppy.sh/users/7690078)) | Tacos and Schabowy (::{ flag=PL }:: [fafik99](https://osu.ppy.sh/users/1787011), ::{ flag=MX }:: [Warfu](https://osu.ppy.sh/users/2451000)) | j h q w 2 (::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438), ::{ flag=US }:: [closed](https://osu.ppy.sh/users/5116922)) |
-| Taiko 2v2 Convert Tourney v3 | 07.05.2021 | 20.06.2021 | 🍣 guys (::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910), ::{ flag=JP }:: [Rabar0209](https://osu.ppy.sh/users/2883899)) | ＵＮＫＯ！！！！！(::{ flag=JP }:: [Shamirin\_mzk](https://osu.ppy.sh/users/11325757), ::{ flag=JP }:: [C-light](https://osu.ppy.sh/users/7955738)) | the bros 4 (::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438), ::{ flag=CL }:: [Ulqui](https://osu.ppy.sh/users/1263669)) |
+| [Taiko 2v2 Convert Tourney v2](TCT/v2) | 02.05.2020 | 07.06.2020 | 87 (::{ flag=US }:: [Ney](https://osu.ppy.sh/users/5991961), ::{ flag=US }:: [JDrago14](https://osu.ppy.sh/users/7690078)) | Tacos and Schabowy (::{ flag=PL }:: [fafik99](https://osu.ppy.sh/users/1787011), ::{ flag=MX }:: [Warfu](https://osu.ppy.sh/users/2451000)) | j h q w 2 (::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438), ::{ flag=US }:: [closed](https://osu.ppy.sh/users/5116922)) |
+| [Taiko 2v2 Convert Tourney v3](TCT/v3) | 06.05.2021 | 20.06.2021 | 🍣 guys (::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910), ::{ flag=JP }:: [Rabar0209](https://osu.ppy.sh/users/2883899)) | ＵＮＫＯ！！！！！(::{ flag=JP }:: [Shamirin\_mzk](https://osu.ppy.sh/users/11325757), ::{ flag=JP }:: [C-light](https://osu.ppy.sh/users/7955738)) | the bros 4 (::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438), ::{ flag=CL }:: [Ulqui](https://osu.ppy.sh/users/1263669)) |
 | [Taiko Convert Tournament v4](TCT/v4) | 05.06.2022 | 31.07.2022 | Tiger Mafia (::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438), ::{ flag=US }:: [Ney](https://osu.ppy.sh/users/5991961)) | israel (::{ flag=GR }:: [Genjuro](https://osu.ppy.sh/users/3196091), ::{ flag=FI }:: [Antti](https://osu.ppy.sh/users/13281473)) | mikeneko (::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910), ::{ flag=JP }:: [Maeda](https://osu.ppy.sh/users/12615278)) |
 
 #### Taiko Last Man Standing
