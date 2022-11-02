@@ -200,9 +200,9 @@ Après la conclusion de la saison du printemps 2021, le projet est entré en hia
 [^charts-manager-loctav]: [(Restreint) Post du forum par Loctav (21/11/2013) dans "Regarding the charts"](https://osu.ppy.sh/community/forums/posts/2697871)
 [^charts-in-osu-14-jan]: [(Restreint) Post du forum par peppy (24/01/2014) dans "So peppy's planning something chart related"](https://osu.ppy.sh/community/forums/posts/2824323)
 [^charts-cat-recruitment-14-jun]: [(Restreint) Fil de discussion par Loctav (16/06/2014) "\[IMPORTANT\] Recruiting NewCATs"](https://osu.ppy.sh/community/forums/topics/218032)
-[^charts-curated-15-mar]: [News post par Loctav (18/03/2015) "February 2015 Monthly Ranking Charts - New Season!"](https://osu.ppy.sh/home/news/2015-03-18-february-2015-monthly-ranking-charts-new-season)
-[^charts-reverted-16-sep]: [News post par OnosakiHito (17/09/2016) "July 2016 Ranking Charts - Changes"](https://osu.ppy.sh/home/news/2016-09-17-july-2016-ranking-charts-changes)
+[^charts-curated-15-mar]: [Article de news par Loctav (18/03/2015) "February 2015 Monthly Ranking Charts - New Season!"](https://osu.ppy.sh/home/news/2015-03-18-february-2015-monthly-ranking-charts-new-season)
+[^charts-reverted-16-sep]: [Article de news par OnosakiHito (17/09/2016) "July 2016 Ranking Charts - Changes"](https://osu.ppy.sh/home/news/2016-09-17-july-2016-ranking-charts-changes)
 
-[^charts-renamed-into-spotlights]: [News post par OnosakiHito (18/03/2017) "Introducing to you: Spotlights"](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights)
-[^spotlights-seasonal]: [News post par Kurokami (01/11/2018) "Seasonal Spotlights: Summer 2018"](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018)
+[^charts-renamed-into-spotlights]: [Article de news par OnosakiHito (18/03/2017) "Introducing to you: Spotlights"](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights)
+[^spotlights-seasonal]: [Article de news par Kurokami (01/11/2018) "Seasonal Spotlights: Summer 2018"](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018)
 [^spotlights-reworked-20-june]: [Fil de discussion par Loctav (06/07/2020) "Beatmap Spotlights (Summer 2020) - Discussion Thread"](https://osu.ppy.sh/community/forums/topics/1101170)
