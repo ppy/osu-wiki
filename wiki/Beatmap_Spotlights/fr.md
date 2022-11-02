@@ -134,7 +134,7 @@ Ce tableau ne présente qu'une seule des quatre versions de badge. Chaque mode d
 
 Le système de curation implique un processus de sélection par les curateurs des beatmaps mises en avant dans les Beatmap Spotlights pour chaque saison.
 
-1. Les beatmaps sont sélectionnées par les curateurs de leur modes de jeu respectif pour la durée d'une saison.
+1. Les beatmaps sont sélectionnées par les curateurs de leur mode de jeu respectif pour la durée d'une saison.
    - Les curateurs doivent se mettre d'accord sur la difficulté de chaque beatmap dans le cadre d'une discussion ouverte.
    - Les responsables des modes de jeu verrouillent les décisions et consolident la sélection après des discussions concluantes.
    - Le processus de sélection lui-même varie selon les modes de jeu et s'adapte aux besoins des membres.
