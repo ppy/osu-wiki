@@ -10,7 +10,7 @@ From composing circles in the editor to composing his own songs, **happy30** joi
 
 You might not know **happy30** as a musician yet, but you're most definitely familiar with [**happy30** as a legendary osu! mapper](https://osu.ppy.sh/users/27767). 
 
-Whether it's fame from multi-million play beatmaps like [Demetori - Emotional Skyscraper ~ World's End](https://osu.ppy.sh/beatmapsets/13223) or infamy for [death](https://osu.ppy.sh/beatmapsets/42234) [spinners](https://osu.ppy.sh/beatmapsets/24611), **happy30** is bound to be somewhere in your songs library. He's been mapping since 2009, and somewhere between then and now, he's expanded his connection to music into song production!
+Whether it's fame from multi-million play beatmaps like [Demetori - Emotional Skyscraper ~ World's End](https://osu.ppy.sh/beatmapsets/13223) or infamy for [death](https://osu.ppy.sh/beatmapsets/42234) [spinners](https://osu.ppy.sh/beatmapsets/24611), **happy30** is bound to be somewhere in your beatmap library. He's been mapping since 2009, and somewhere between then and now, he's expanded his connection to music into song production!
 
 Try your hand at any of the **6** songs from [**happy30**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/317), including the full *As the wind blows* EP designed specifically for osu!.
 
@@ -39,6 +39,8 @@ Or try playing [this beatmap](https://osu.ppy.sh/beatmapsets/355073) created by 
 </audio>
 
 ### happy30 - Relentless
+
+Check out [this artist x mapper collaboration](https://osu.ppy.sh/beatmapsets/1177936) featuring [PandaHero](https://osu.ppy.sh/users/1233255) and happy30!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/317/As%20the%20wind%20blows%2Fhappy30%20-%20Relentless.mp3" type="audio/mpeg">
