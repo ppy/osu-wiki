@@ -1,4 +1,5 @@
 ---
+no_native_review: true
 stub: true
 tags:
   - slider path
