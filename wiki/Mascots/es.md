@@ -30,7 +30,7 @@ Yuzu es la mascota de osu!catch que se unió en 2014-06-22. Nació en 2000-04-10
 
 ![Mani & Mari](https://assets.ppy.sh/media/mari-mani/wiki-key-condensed.png "Mani & Mari")
 
-Diseñado por [xiemon](https://osu.ppy.sh/users/5203667) después de ser seleccionado en el [Most Manic Art Contest](https://osu.ppy.sh/community/contests/80) y anunciadas como las mascotas oficiales de osu!mania el 2020-09-18, Mani and Mari son gemelos que no se soportan del todo, pero se parecen más de lo que les gustaría admitir.
+Diseñados por [xiemon](https://osu.ppy.sh/users/5203667) después de ser seleccionado en el [Most Manic Art Contest](https://osu.ppy.sh/community/contests/80) y anunciadas como las mascotas oficiales de osu!mania el 2020-09-18, Mani and Mari son gemelos que no se soportan del todo, pero se parecen más de lo que les gustaría admitir.
 
 Mani es algo así como un inconformista, siempre buscando explorar nuevos estilos y cosas, mientras que su hermana Mari (anteriormente conocida como Maria) es una perfeccionista rígida y clásica con una inclinación por ser el centro de atención. Los dos se llevan como el aceite y el agua.
 
@@ -42,7 +42,7 @@ Mani es algo así como un inconformista, siempre buscando explorar nuevos estilo
 
 Mocha es la mascota de osu!taiko. Inicialmente fue diseñada durante el [sexto concurso de fanart](https://osu.ppy.sh/community/contests/2) por [Crowie](https://osu.ppy.sh/users/6894067), y quedó clasificada en el puesto 21 de las votaciones.
 
-## Camafeos
+## Cameos
 
 ### Ryūta Ippongi
 
