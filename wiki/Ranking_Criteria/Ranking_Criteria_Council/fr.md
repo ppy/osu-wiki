@@ -125,7 +125,7 @@ Entre 2016 et 2018, l'UBKRC a réformé toutes les sections des critères de cla
 
 - ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) (Organisateur)
 - ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) (Organisateur)
-- ::{ flag=DE }:: [Damnae](https://osu.ppy.sh/users/989377)
+- ::{ flag=FR }:: [Damnae](https://osu.ppy.sh/users/989377)
 - ::{ flag=CA }:: [Sidetail](https://osu.ppy.sh/users/2036217)
 - ::{ flag=US }:: [Starrodkirby86](https://osu.ppy.sh/users/410)
 - ::{ flag=CZ }:: [Wafu](https://osu.ppy.sh/users/888955)

@@ -48,7 +48,7 @@ The Catch the Beat Indonesia Cup 2012 was run by various Indonesian osu!catch co
 | :-: | :-- | :-- |
 | **A** | ::{ flag=ID }:: [swtboy](https://osu.ppy.sh/users/557944) | ::{ flag=ID }:: [dOen9](https://osu.ppy.sh/users/1114648) |
 | **B** | ::{ flag=ID }:: [Sheratan](https://osu.ppy.sh/users/960553) | ::{ flag=ID }:: [pacmanmania](https://osu.ppy.sh/users/942688) |
-| **C** | ::{ flag=ID }:: [Arashi354](https://osu.ppy.sh/users/897082) | ::{ flag=ID }:: [moon\[light\]](https://osu.ppy.sh/users/478598) |
+| **C** | ::{ flag=ID }:: [Arashi354](https://osu.ppy.sh/users/897082) | ::{ flag=ID }:: [moon\[light\]](https://osu.ppy.sh/users/478958) |
 | **D** | ::{ flag=ID }:: [Sumatran](https://osu.ppy.sh/users/414409) | ::{ flag=ID }:: [nirvashzero](https://osu.ppy.sh/users/1254373) |
 | **E** | ::{ flag=ID }:: Intel21 | ::{ flag=ID }:: akukadal2 |
 | **F** | ::{ flag=ID }:: [shinyurihara](https://osu.ppy.sh/users/546580) | ::{ flag=ID }:: [Lady Vamps](https://osu.ppy.sh/users/611642) |
@@ -234,7 +234,7 @@ Sunday, 29 April 2012:
 | :-: | --: | :-: | :-: | :-- |
 | I | **[Drexel13](https://osu.ppy.sh/users/1140567)** ::{ flag=ID }:: | **3** | 2 | ::{ flag=ID }:: [AeroRange](https://osu.ppy.sh/users/405659) |
 | L | **[urs4chan](https://osu.ppy.sh/users/321063)** ::{ flag=ID }:: | **3** | 2 | ::{ flag=ID }:: [KateCisu](https://osu.ppy.sh/users/754762) |
-| C | **[Arashi354](https://osu.ppy.sh/users/897082)** ::{ flag=ID }:: | **3** | 0 | ::{ flag=ID }:: [moon\[light\]](https://osu.ppy.sh/users/478598) |
+| C | **[Arashi354](https://osu.ppy.sh/users/897082)** ::{ flag=ID }:: | **3** | 0 | ::{ flag=ID }:: [moon\[light\]](https://osu.ppy.sh/users/478958) |
 
 Saturday, 05 May 2012:
 
