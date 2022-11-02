@@ -24,7 +24,7 @@ Newer beatmappers usually need extensive modding to create beatmaps that meet th
 
 Before being nominated for ranking, a beatmap needs to receive [hype](/wiki/Beatmap/Hype) posts from at least five different users.
 
-## Nominations
+## Nominations {#nominations}
 
 ::: Infobox
 ![](img/nomination-progress-beatmapset1857663.png "Beatmap ranking status displayed on the discussion page, with hype and nomination progress bars partially filled.")
