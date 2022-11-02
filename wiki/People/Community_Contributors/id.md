@@ -137,9 +137,9 @@ Kontributor komunitas berbeda dengan [osu! Alumni](/wiki/People/The_Team/osu!_Al
 | ::{ flag=GB }:: [Pope Gadget](https://osu.ppy.sh/users/2288341) | Kapten Project Loved (osu!mania) |
 | ::{ flag=AR }:: [Yuii-](https://osu.ppy.sh/users/2935923) | Kontribusi luar biasa terhadap program Community Mentorship |
 | ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) | Kontribusi luar biasa terhadap program Community Mentorship |
-| ::{ flag=DE }:: [Mir](https://osu.ppy.sh/users/8688812) |Kontribusi luar biasa terhadap program Community Mentorship |
-| ::{ flag=US }:: [Mun](https://osu.ppy.sh/users/6699165) |Kontribusi luar biasa terhadap program Community Mentorship |
-| ::{ flag=FI }:: [J1NX1337](https://osu.ppy.sh/users/3971179) |Kontribusi luar biasa terhadap program Community Mentorship |
+| ::{ flag=DE }:: [Mir](https://osu.ppy.sh/users/8688812) | Kontribusi luar biasa terhadap program Community Mentorship |
+| ::{ flag=US }:: [Mun](https://osu.ppy.sh/users/6699165) | Kontribusi luar biasa terhadap program Community Mentorship |
+| ::{ flag=FI }:: [J1NX1337](https://osu.ppy.sh/users/3971179) | Kontribusi luar biasa terhadap program Community Mentorship |
 | ::{ flag=JP }:: [ekr](https://osu.ppy.sh/users/4497706) | Kontribusi luar biasa dalam pengembangan proyek osu!(lazer) |
 
 ## 2020
