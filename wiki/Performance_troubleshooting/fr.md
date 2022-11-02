@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 3e4e31b7b5983646161932fea4a20b98232ea8e8
+---
+
 # Dépannage des performances d'osu!
 
 osu! fait de son mieux pour fonctionner avec des paramètres par défaut sains et vous avertit de manière proactive si vous faites ou exécutez quelque chose qui pourrait entraîner une baisse des performances de votre jeu.
