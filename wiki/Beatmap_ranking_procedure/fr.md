@@ -35,7 +35,7 @@ Avant d'être proposées au classement, les beatmaps doivent recevoir des messag
 
 Une **nomination** est un vote d'approbation, qui indique l'éligibilité d'une beatmap pour devenir [classée](/wiki/Beatmap/Category#classée). Elle est attribuée aux beatmaps terminées, jugées de qualité suffisante selon le nominateur. Ces beatmaps doivent au moins suivre les [critères de classement](/wiki/Ranking_Criteria) et avoir 5 [hypes](/wiki/Beatmap/Hype) ou plus.
 
-Les nominations sont données par les [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BN*), un groupe de moddeurs expérimentés. Les membres de la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (*NAT*) peuvent également nominer des beatmaps, mais ce n'est pas leur rôle principal.
+Les nominations sont données par les [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BN*), un groupe de moddeurs expérimentés. Les membres de la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (*NAT*) peuvent également nominer des beatmaps, bien que ce ne soit pas leur rôle principal.
 
 Il est recommandé de recevoir des mods avant de demander des nominations aux BN, mais cinq hypes sont le seul pré-requis.
 
