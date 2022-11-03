@@ -8,7 +8,7 @@ The Summer 2022 season of the Beatmap Spotlights has come to an end⁠ — come 
 
 ![](/wiki/shared/news/banners/beatmap-spotlights.jpg)
 
-Summer 2022 season is  officially finished now! We faced some technical issues that had to be overcome but we're ready to deliver you the final rankings you all have been waiting for! This time around, we will also have you fill a quick survey to help us improve the Beatmap Spotlights workflow, so be sure to read on below!
+Summer 2022 season is officially finished now! We faced some technical issues that had to be overcome but we're ready to deliver you the final rankings you all have been waiting for! This time around, we will also have you fill a quick survey to help us improve the Beatmap Spotlights workflow, so be sure to read on below!
 
 ## Survey
 
