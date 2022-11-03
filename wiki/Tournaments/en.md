@@ -671,6 +671,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | [osu!mania 4K Chinese National Cup 2020](MCNC/2020) | 2020-04-27 | 2020-06-28 | ::{ flag=CN }:: [WLYMinato](https://osu.ppy.sh/users/12703319) | ::{ flag=CN }:: [Kakuko](https://osu.ppy.sh/users/10413362) | ::{ flag=CN }:: [\[Crz\]I-Night](https://osu.ppy.sh/users/8790619) |
 | [osu!mania 4K Chinese National Cup 2021](MCNC/2021) | 2021-04-05 | 2021-06-06 | ::{ flag=CN }:: [\[Crz\]sunnyxxy](https://osu.ppy.sh/users/10333739) | ::{ flag=CN }:: [\[Crz\]Caicium](https://osu.ppy.sh/users/10702235) | ::{ flag=CN }:: [yuwenhao1](https://osu.ppy.sh/users/14318312) |
 | [osu!mania 7K Chinese National Cup 2022](MCNC/7K2022) | 2022-01-21 | 2022-03-06 | ::{ flag=CN }:: [LiangIaiajan](https://osu.ppy.sh/users/5144698) | ::{ flag=CN }:: [4kGameBye](https://osu.ppy.sh/users/89545) | ::{ flag=CN }:: [U1d](https://osu.ppy.sh/users/10125072) |
+| [osu!mania 4K Chinese National Cup 2022](MCNC/4K2022) | 2022-06-26 | 2022-08-21 | ::{ flag=HK }:: [Quotient GD](https://osu.ppy.sh/users/11313227) | ::{ flag=CN }:: [\[Crz\]sunnyxxy](https://osu.ppy.sh/users/10333739) | ::{ flag=HK }:: [MegMewtwoZ](https://osu.ppy.sh/users/13235067) |
 
 #### osu!mania Asian's Champions
 
