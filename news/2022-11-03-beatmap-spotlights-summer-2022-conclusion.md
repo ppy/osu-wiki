@@ -8,11 +8,11 @@ The Summer 2022 season of the Beatmap Spotlights has come to an end⁠ — come 
 
 ![](/wiki/shared/news/banners/beatmap-spotlights.jpg)
 
-Summer 2022 season is officially finished now! We faced some technical issues that had to be overcome but we're ready to deliver you the final rankings you all have been waiting for! This time around, we will also have you fill a quick survey to help us improve the Beatmap Spotlights workflow, so be sure to read on below!
+Summer 2022 season is officially finished now! We faced some technical issues that had to be overcome but we're ready to deliver you the final rankings you all have been waiting for! If you have the time, we'd also love to hear back from you in a quick survey to help us improve the Beatmap Spotlights, so be sure to read on below for more details!
 
 ## Survey
 
-It's been over two years since we launched the Spotlights in a league format. It's quite a handful of time to be around, and therefore we wanted hear from you — the playerbase — on how you feel about current state of Spotlights and whether you have some suggestions on how to improve the ongoing system!
+It's been over two years since we launched the Spotlights in a league format. It's been quite a while now since we've settled into things, and therefore we want hear from you — the playerbase — as to how you feel about current state of the Beatmap Spotlights and whether you have any suggestions on how to improve things.
 
 If you'd like to take part, just fill out [this quick Google form](https://docs.google.com/forms/d/e/1FAIpQLSfUYNToOAnPDggnv98_u2pmDXZa-lKq8DU1QpA1aZRzw12azg/viewform). It's only a few questions, so it shouldn't take a lot of time.
 
