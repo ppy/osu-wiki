@@ -14,7 +14,7 @@ tags:
 - [Sistema Multijogador](/wiki/Client/Interface/Multiplayer) e [Gerenciamento de Torneios](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands)
 
 ::: Infobox
-![](img/connection-warning.png "Screenshot of the main menu with the bad connection symbol (bottom right, first)")
+![](img/connection-warning.png "Captura de tela do menu principal com o símbolo de conexão ruim (inferior direito, primeiro)")
 :::
 
 Em caso de de conexão fraca com o Bancho, osu! avisa o jogador mostrando um ícone de corrente quebrada no canto inferior direito da tela.
