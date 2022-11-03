@@ -12,9 +12,9 @@ Summer 2022 season is officially finished now! We faced some technical issues th
 
 ## Survey
 
-It's been over two years since we launched the Spotlights in a league format. It's quite a handful of time to be around, and therefore we wanted hear from you - the playerbase on how do you feel about current state of Spotlights and whether you have some suggestions on how to improve the ongoing system!
+It's been over two years since we launched the Spotlights in a league format. It's quite a handful of time to be around, and therefore we wanted hear from you — the playerbase on how do you feel about current state of Spotlights and whether you have some suggestions on how to improve the ongoing system!
 
-You can fill it over [google forms](https://docs.google.com/forms/d/e/1FAIpQLSfUYNToOAnPDggnv98_u2pmDXZa-lKq8DU1QpA1aZRzw12azg/viewform), it's just a few questions, so it shouldn't take a lot of time.
+You can fill it over [Google forms](https://docs.google.com/forms/d/e/1FAIpQLSfUYNToOAnPDggnv98_u2pmDXZa-lKq8DU1QpA1aZRzw12azg/viewform), it's just a few questions, so it shouldn't take a lot of time.
 
 Any feedback is appreciated so thanks for all answers!
 
