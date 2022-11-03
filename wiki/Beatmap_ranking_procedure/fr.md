@@ -1,9 +1,17 @@
 ---
-outdated_translation: true
-outdated_since: eba261b5bbbc70e338a61e8658c8040470402d3b
+tags:
+  - qualification
+  - nomination
+  - nominations
+  - nom
+  - ranking
+  - ranked
+  - classement
+  - classé
+  - classée
 ---
 
-# Procédure de classement des beatmap
+# Procédure de classement des beatmaps
 
 *Voir aussi : [Rank (désambiguïsation)](/wiki/Disambiguation/Rank)*
 
@@ -19,11 +27,15 @@ Les nouveaux beatmappers ont généralement besoin d'un important travail de mod
 
 Avant d'être proposées au classement, les beatmaps doivent recevoir des messages de [hype](/wiki/Beatmap/Hype) d'au moins cinq utilisateurs différents.
 
-## Nominations
+## Nominations {#nominations}
 
-Les membres du groupe des [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BNs*) sont des moddeurs expérimentés capables de proposer des beatmaps classables. Leur rôle est de s'assurer qu'une beatmap répond aux [critères de classement](/wiki/Ranking_Criteria) ainsi qu'à leurs propres critères de qualité.
+::: Infobox
+![](img/nomination-progress-fr.png "Statut du classement de la beatmap affiché sur la page de discussion, avec les barres de progression des hypes et des nominations partiellement remplies.")
+:::
 
-Les membres de la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (*NAT*) peuvent également nominer des beatmaps, mais ce n'est pas leur rôle principal.
+Une **nomination** est un vote d'approbation, qui indique l'éligibilité d'une beatmap pour devenir [classée](/wiki/fr/Beatmap/Category#classée). Elle est attribuée aux beatmaps terminées, jugées de qualité suffisante selon le nominateur. Ces beatmaps doivent au moins suivre les [critères de classement](/wiki/Ranking_Criteria) et avoir 5 [hypes](/wiki/Beatmap/Hype) ou plus.
+
+Les nominations sont données par les [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BN*), un groupe de moddeurs expérimentés. Les membres de la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (*NAT*) peuvent également nominer des beatmaps, mais ce n'est pas leur rôle principal.
 
 Il est recommandé de recevoir des mods avant de demander des nominations aux BN, mais cinq hypes sont le seul pré-requis.
 
@@ -43,6 +55,6 @@ Les BN et les membres de la NAT opposent parfois leur [veto](/wiki/People/The_Te
 
 ## Classée
 
-Les beatmaps qui ont franchi l'étape de qualification ont terminé la procédure de classement. Elles disposent de tableaux de classement des scores et récompensent les joueurs par des points de performance.
+Les beatmaps qui ont franchi l'étape de qualification ont terminé la procédure de classement. Elles disposent de [classements de scores](/wiki/Ranking) et récompensent les joueurs par des points de performance.
 
 Les beatmaps classées ne sont déclassées que dans des circonstances exceptionnelles, lorsque des problèmes sont découverts peu après qu'elles aient atteint le statut classé.
