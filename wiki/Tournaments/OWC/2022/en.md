@@ -120,15 +120,16 @@ The osu! World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) and var
 
 | Team A | Team B | Match time |  |
 | --: | :-- | :-- | :-: |
-| Australia ::{ flag=AU }:: | ::{ flag=JP }:: Japan | [Nov 5 (Sat) 07:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221105T070000&p1=1440&p2=57&p3=248) | [^losers-bracket] |
-| Singapore ::{ flag=SG }:: | ::{ flag=TH }:: Thailand | [Nov 5 (Sat) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221105T080000&p1=1440&p2=236&p3=28) | [^losers-bracket] |
-| France ::{ flag=FR }:: | ::{ flag=TW }:: Taiwan | [Nov 5 (Sat) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221105T090000&p1=1440&p2=195&p3=241) | [^losers-bracket] |
-| Philippines ::{ flag=PH }:: | ::{ flag=DK }:: Denmark | [Nov 5 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221105T110000&p1=1440&p2=145&p3=69) | [^losers-bracket] |
-| Indonesia ::{ flag=ID }:: | ::{ flag=NO }:: Norway | [Nov 5 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221105T120000&p1=1440&p2=108&p3=187) | [^losers-bracket] |
-| United Kingdom ::{ flag=GB }:: | ::{ flag=FI }:: Finland | [Nov 5 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221105T130000&p1=1440&p2=136&p3=101) | [^losers-bracket] |
+| Australia ::{ flag=AU }:: | ::{ flag=JP }:: Japan | [Nov 5 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221105T100000&p1=1440&p2=57&p3=248) | [^losers-bracket] |
+| France ::{ flag=FR }:: | ::{ flag=TW }:: Taiwan | [Nov 5 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221105T130000&p1=1440&p2=195&p3=241) | [^losers-bracket] |
+| Singapore ::{ flag=SG }:: | ::{ flag=TH }:: Thailand | [Nov 5 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221105T140000&p1=1440&p2=236&p3=28) | [^losers-bracket] |
 | China ::{ flag=CN }:: | ::{ flag=IT }:: Italy | [Nov 5 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221105T140000&p1=1440&p2=33&p3=215) | [^losers-bracket] |
-| Brazil ::{ flag=BR }:: | ::{ flag=UA }:: Ukraine | [Nov 5 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221105T170000&p1=1440&p2=45&p3=367) | [^losers-bracket] |
+| Indonesia ::{ flag=ID }:: | ::{ flag=NO }:: Norway | [Nov 5 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221105T140000&p1=1440&p2=108&p3=187) | [^losers-bracket] |
+| Philippines ::{ flag=PH }:: | ::{ flag=DK }:: Denmark | [Nov 5 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221105T140000&p1=1440&p2=145&p3=69) | [^losers-bracket] |
+| Brazil ::{ flag=BR }:: | ::{ flag=UA }:: Ukraine | [Nov 5 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221105T150000&p1=1440&p2=45&p3=367) | [^losers-bracket] |
+| Japan ::{ flag=JP }:: | ::{ flag=DK }:: Denmark | [Nov 5 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221105T150000&p1=1440&p2=248&p3=69) | [^potential-match] |
 | Germany ::{ flag=DE }:: | ::{ flag=RO }:: Romania | [Nov 5 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221105T180000&p1=1440&p2=37&p3=49) | [^winners-bracket] |
+| United Kingdom ::{ flag=GB }:: | ::{ flag=FI }:: Finland | [Nov 5 (Sat) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221105T190000&p1=1440&p2=136&p3=101) | [^losers-bracket] |
 
 ### Sunday, 6 November 2022
 
@@ -137,22 +138,21 @@ The osu! World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) and var
 | Canada ::{ flag=CA }:: | ::{ flag=KR }:: South Korea | [Nov 6 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221106T030000&p1=1440&p2=188&p3=235) | [^winners-bracket] |
 | United States ::{ flag=US }:: | ::{ flag=HK }:: Hong Kong | [Nov 6 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221106T040000&p1=1440&p2=263&p3=102) | [^winners-bracket] |
 | Australia ::{ flag=AU }:: | ::{ flag=PH }:: Philippines | [Nov 6 (Sun) 07:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221106T070000&p1=1440&p2=57&p3=145) | [^potential-match] |
+| Australia ::{ flag=AU }:: | ::{ flag=DK }:: Denmark | [Nov 6 (Sun) 07:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221106T070000&p1=1440&p2=57&p3=69) | [^potential-match] |
 | Japan ::{ flag=JP }:: | ::{ flag=PH }:: Philippines | [Nov 6 (Sun) 07:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221106T070000&p1=1440&p2=248&p3=145) | [^potential-match] |
-| Taiwan ::{ flag=TW }:: | ::{ flag=SG }:: Singapore | [Nov 6 (Sun) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221106T080000&p1=1440&p2=241&p3=236) | [^potential-match] |
 | Taiwan ::{ flag=TW }:: | ::{ flag=TH }:: Thailand | [Nov 6 (Sun) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221106T080000&p1=1440&p2=241&p3=28) | [^potential-match] |
-| Australia ::{ flag=AU }:: | ::{ flag=DK }:: Denmark | [Nov 6 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221106T100000&p1=1440&p2=57&p3=69) | [^potential-match] |
-| Japan ::{ flag=JP }:: | ::{ flag=DK }:: Denmark | [Nov 6 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221106T100000&p1=1440&p2=248&p3=69) | [^potential-match] |
-| France ::{ flag=FR }:: | ::{ flag=SG }:: Singapore | [Nov 6 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221106T110000&p1=1440&p2=195&p3=236) | [^potential-match] |
 | France ::{ flag=FR }:: | ::{ flag=TH }:: Thailand | [Nov 6 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221106T110000&p1=1440&p2=195&p3=28) | [^potential-match] |
-| China ::{ flag=CN }:: | ::{ flag=GB }:: United Kingdom | [Nov 6 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221106T120000&p1=1440&p2=33&p3=136) | [^potential-match] |
-| China ::{ flag=CN }:: | ::{ flag=FI }:: Finland | [Nov 6 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221106T120000&p1=1440&p2=33&p3=101) | [^potential-match] |
-| Italy ::{ flag=IT }:: | ::{ flag=GB }:: United Kingdom | [Nov 6 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221106T120000&p1=1440&p2=215&p3=136) | [^potential-match] |
-| Italy ::{ flag=IT }:: | ::{ flag=FI }:: Finland | [Nov 6 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221106T120000&p1=1440&p2=215&p3=101) | [^potential-match] |
 | Indonesia ::{ flag=ID }:: | ::{ flag=UA }:: Ukraine | [Nov 6 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221106T130000&p1=1440&p2=108&p3=367) | [^potential-match] |
-| Indonesia ::{ flag=ID }:: | ::{ flag=BR }:: Brazil | [Nov 6 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221106T150000&p1=1440&p2=108&p3=45) | [^potential-match] |
-| Norway ::{ flag=NO }:: | ::{ flag=BR }:: Brazil | [Nov 6 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221106T150000&p1=1440&p2=187&p3=45) | [^potential-match] |
+| France ::{ flag=FR }:: | ::{ flag=SG }:: Singapore | [Nov 6 (Sun) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221106T133000&p1=1440&p2=195&p3=236) | [^potential-match] |
+| Taiwan ::{ flag=TW }:: | ::{ flag=SG }:: Singapore | [Nov 6 (Sun) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221106T133000&p1=1440&p2=241&p3=236) | [^potential-match] |
+| China ::{ flag=CN }:: | ::{ flag=GB }:: United Kingdom | [Nov 6 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221106T140000&p1=1440&p2=33&p3=136) | [^potential-match] |
+| China ::{ flag=CN }:: | ::{ flag=FI }:: Finland | [Nov 6 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221106T140000&p1=1440&p2=33&p3=101) | [^potential-match] |
+| Indonesia ::{ flag=ID }:: | ::{ flag=BR }:: Brazil | [Nov 6 (Sun) 14:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221106T143000&p1=1440&p2=108&p3=45) | [^potential-match] |
 | Norway ::{ flag=NO }:: | ::{ flag=UA }:: Ukraine | [Nov 6 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221106T150000&p1=1440&p2=187&p3=367) | [^potential-match] |
+| Italy ::{ flag=IT }:: | ::{ flag=GB }:: United Kingdom | [Nov 6 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221106T160000&p1=1440&p2=215&p3=136) | [^potential-match] |
+| Italy ::{ flag=IT }:: | ::{ flag=FI }:: Finland | [Nov 6 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221106T160000&p1=1440&p2=215&p3=101) | [^potential-match] |
 | Poland ::{ flag=PL }:: | ::{ flag=RU }:: Russian Federation | [Nov 6 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221106T160000&p1=1440&p2=262&p3=166) | [^winners-bracket] |
+| Norway ::{ flag=NO }:: | ::{ flag=BR }:: Brazil | [Nov 6 (Sun) 17:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221106T173000&p1=1440&p2=187&p3=45) | [^potential-match] |
 
 ## Mappools
 
