@@ -4,7 +4,7 @@ stub: true
 
 # Kudosu
 
-**Kudosu** là một hệ thống thưởng cho việc [modding](/wiki/Modding). Nó thường điểm cho những bài đăng mod thành công trong [thảo luận beatmap](/wiki/Beatmap_discussion). Điểm tích lũy có thể được nhìn thấy trên trang hồ sơ của người dùng.
+**Kudosu** là một hệ thống thưởng cho việc [modding](/wiki/Modding). Nó thưởng điểm cho những bài đăng mod thành công trong [thảo luận beatmap](/wiki/Beatmap_discussion). Điểm tích lũy có thể được nhìn thấy trên trang hồ sơ của người dùng.
 
 Kudosu được trao cho các bài đăng mod hữu ích đã chỉ ra các gợi ý hữu ích cho beatmap. Nếu người tạo beatmap tin rằng một bài đăng mod là hữu ích và giải quyết được vấn đề hợp lệ, họ có thể nhấp vào nút thích và trao kudosu cho người dùng đã đăng bản mod.
 
