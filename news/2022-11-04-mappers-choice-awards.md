@@ -16,7 +16,7 @@ As with last year, there are badges and osu!supporter prizes handed out to the w
 | --: | :-- |
 | Nomination phase | 2022-11-04 – 2022-11-06 |
 | Voting phase | 2022-11-06 – 2022-11-14 |
-| Results stream (on the [Corsace channel](https://www.twitch.tv/corsace)) | 2022-11-19 |
+| Results stream (on the [Corsace Twitch channel](https://www.twitch.tv/corsace)) | 2022-11-19 |
 | Results (on the [website](https://mca.corsace.io/2021/)) | 2022-11-20 |
 
 ## Mappers’ Choice Awards 2021
@@ -33,7 +33,7 @@ As with the two previous editions of MCA, there are three stages: nomination, vo
 
 ## A Year In Mapping 2021
 
-A ton of data around the mapping trends of 2021 are now available for you to see in A Year In Mapping (*AYIM*) 2021! As usual, A Year in Mapping 2021 packages all the coolest statistics of the year in [one webpage](https://ayim.corsace.io/2021/). Want to know who ranked the hardest or easiest map this year? Who ranked the most difficulties? Look no further than AYIM!
+A ton of data around the mapping trends of 2021 is now available for you to see in A Year In Mapping (*AYIM*) 2021! As usual, A Year in Mapping 2021 packages all the coolest statistics of the year in [one webpage](https://ayim.corsace.io/2021/). Want to know who ranked the hardest or easiest map this year? Who ranked the most difficulties? Look no further than AYIM!
 
 ---
 
