@@ -7,7 +7,7 @@ outdated_translation: true
 
 ![Tarjeta de jugador de BanchoBot](img/BanchoBot.jpg "Tarjeta de jugador de BanchoBot")
 
-BanchoBot es un bot (es decir, una serie de comandos con respuestas automáticas) que ayuda a la gente en el chat mostrando determinada información y anunciando mensajes relacionados con el juego. Ha sido programado por [Echo49](https://osu.ppy.sh/users/431) y es el anfitrión del [Bancho IRC](/wiki/Community/Internet_Relay_Chat) (Internet Relay Chat). También tiene un [perfil de osu!](https://osu.ppy.sh/users/3) y [cuenta de Twitter](https://twitter.com/banchoboat)!
+BanchoBot es un bot (es decir, una serie de comandos con respuestas automáticas) que ayuda a la gente en el chat mostrando determinada información y anunciando mensajes relacionados con el juego. Ha sido programado por ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) y es el anfitrión del [Bancho IRC](/wiki/Community/Internet_Relay_Chat) (Internet Relay Chat). También tiene un [perfil de osu!](https://osu.ppy.sh/users/3) y [cuenta de Twitter](https://twitter.com/banchoboat)!
 
 ## Comandos
 
