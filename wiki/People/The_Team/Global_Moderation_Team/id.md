@@ -28,11 +28,11 @@ Global Moderation Team bertanggung jawab atas ketentraman obrolan dan forum sert
 
 ## Menjadi seorang moderator
 
-Keanggotaan Global Moderation Team memerlukan kontribusi yang jumlahnya tidak sedikit. Para calon anggota pada umumnya dinilai berdasarkan kerelaan mereka untuk membantu pengguna lain, aktivitas mereka di dalam komunitas, dan riwayat kelakuan baik mereka. Kemampuan untuk berbicara bahasa lain di samping bahasa Inggris merupakan nilai tambah. Mereka yang terpilih selanjutnya akan didiskusikan secara internal untuk menentukan apakah mereka layak untuk diangkat sebagai moderator.
+Keanggotaan Global Moderation Team memerlukan kontribusi yang jumlahnya tidak sedikit. Para calon anggota pada umumnya dinilai berdasarkan kerelaan mereka untuk membantu pengguna lain, aktivitas mereka di dalam komunitas, dan riwayat perilaku baik mereka. Kemampuan untuk berbicara bahasa lain di samping bahasa Inggris merupakan nilai tambah. Mereka yang terpilih selanjutnya akan didiskusikan secara internal untuk menentukan apakah mereka layak untuk diangkat sebagai moderator.
 
 ### Cara untuk dapat dipertimbangkan menjadi moderator
 
-Agar kamu dapat dipertimbangkan menjadi moderator, faktor terpenting yang harus kamu usung antara lain adalah perilaku, aktivitas, pemahaman terhadap [peraturan](/wiki/Rules), dan kesabaran:
+Agar kamu dapat dipertimbangkan menjadi moderator, faktor terpenting yang harus kamu miliki antara lain adalah perilaku, aktivitas, pemahaman terhadap [peraturan](/wiki/Rules), dan kesabaran:
 
 1. Tunjukkan perilaku yang baik dengan bersikap sopan dan memperlakukan pengguna lain dengan hormat. Jaga akunmu agar terbebas dari *silence* atau masalah serius lainnya.
 2. Peragakan aktivitas *in-game* dengan berpartisipasi pada obrolan dan/atau forum. [Laporkan berbagai perilaku buruk](/wiki/Reporting_bad_behaviour) dan masalah lainnya yang kamu temui melalui sistem Report. Jawab pertanyaan yang muncul dan bantu pengguna lain untuk menyelesaikan masalah yang mereka hadapi.
@@ -43,7 +43,7 @@ Pada umumnya, tim GMT akan mengamati para kandidat yang dianggap berpotensi sela
 
 ### Berbagai hal yang sebaiknya tidak dilakukan
 
-1. Jangan bertanya secara terus-menerus kepada GMT tentang apakah kamu berada dalam daftar kandidat yang berpotensi atau tidak. GMT tentunya tidak ingin menambahkan anggota yang berkontribusi semata-mata hanya untuk memperoleh gelar. Berpikir untuk kebaikan sesama adalah kuncinya.
+1. Jangan bertanya secara terus-menerus kepada GMT tentang apakah kamu berada dalam daftar kandidat yang berpotensi atau tidak. GMT tentunya tidak ingin menambahkan anggota yang berkontribusi semata-mata hanya untuk memperoleh gelar. Mempunyai pola pikir yang mengutamakan kebaikan sesama adalah kuncinya.
 2. Jangan melaporkan setiap hal kecil dalam obrolan. Seorang moderator harusnya dapat mengetahui secara bijak apa yang layak dilaporkan dan apa yang tidak.
 3. Jangan menjawab pertanyaan orang lain tanpa mengetahui apakah jawaban tersebut benar atau tidak, khususnya di forum. Kamu dibenarkan untuk memberikan saran, namun kamu harus ingat bahwa informasi yang salah tidak akan membantu siapapun. Apabila kamu tidak mengetahui solusi dari suatu masalah, biarkan orang lain yang menjawab dan belajarlah dari mereka.
 4. Jangan bertindak berlebihan. Tim kami mencari kontribusi yang konsisten, bukan kontribusi yang jumlahnya berlebihan. Mereka yang bertindak berlebihan akan cenderung cepat bosan serta mudah untuk kehilangan kesabaran dan komitmen. Santai saja!
