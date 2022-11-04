@@ -411,7 +411,7 @@ The **Russian Community Beeatmapping contest** is a mapping contest for Russian-
 
 | Contest No. | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Results |
 | :-: | :-- | :-- | :-- | :-- |
-| [#1](https://osu.ppy.sh/community/forums/topics/266652) | ::{ flag=RU }:: [Reiji-RJ](https://osu.ppy.sh/users/305389) | ::{ flag=RU }:: [fergas](https://osu.ppy.sh/users/3144542) | ::{ flag=RU }:: [Quashqai](https://osu.ppy.sh/users/2351223) | [#1](https://osu.ppy.sh/community/forums/topics/266652?n=73) |
+| [#1](https://osu.ppy.sh/community/forums/topics/266652) | ::{ flag=RU }:: [Reiji-RJ](https://osu.ppy.sh/users/305389) | ::{ flag=RU }:: [fergas](https://osu.ppy.sh/users/3144542) | ::{ flag=RU }:: [Quashqai](https://osu.ppy.sh/users/2351223) | [Link](https://osu.ppy.sh/community/forums/topics/266652?n=73) |
 | [#2](https://osu.ppy.sh/community/forums/topics/475873) | ::{ flag=RU }:: [Reiji-RJ](https://osu.ppy.sh/users/305389) | ::{ flag=RU }:: [Reya](https://osu.ppy.sh/users/5960077) | ::{ flag=RU }:: [riffy](https://osu.ppy.sh/users/597957) | [Link](https://osu.ppy.sh/community/forums/topics/475873?n=91) |
 | [#3](https://osu.ppy.sh/community/forums/topics/1621520) | ::{ flag=RU }:: [Shikoruto](https://osu.ppy.sh/users/11665315) | ::{ flag=RU }:: [Aphestra](https://osu.ppy.sh/users/11949191) | ::{ flag=RU }:: [Vitas2222](https://osu.ppy.sh/users/11742599) | [Link](https://osu.ppy.sh/community/forums/topics/1621520?n=34) |
 
