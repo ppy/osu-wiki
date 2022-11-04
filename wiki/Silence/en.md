@@ -18,7 +18,7 @@ Users who are silenced by moderators cannot do the following:
 - Submit and update beatmaps
 - Partake in [multiplayer](/wiki/Client/Interface/Multiplayer) games
 
-In addition to that, all messages of a silenced user are removed from all chat channels and private conversations [[1]](https://blog.ppy.sh/post/38114063519/this-week-in-osu-5).
+In addition to that, all messages of a silenced user are removed from all chat channels and private conversations.[^chat-cleanup]
 
 ::: Infobox
 ![](img/silence-ingame.png "Silence warning in the chat")
@@ -38,3 +38,7 @@ If you believe you were silenced unfairly, contact the [account support team](/w
 - Uploading or posting inappropriate content via other means. (E.g., profile avatars, beatmap submissions, profile details, user page bio, banner, etc.).
 
 The length of a silence may vary based on the severity of the infringement. Silences can stack on top of each other, adding more time for each one. Please note that if an offence is heavy enough, or if a player is a repeat offender, it may result in [account restriction](/wiki/Help_centre/Account_restrictions) instead of a silence.
+
+## References
+
+[^chat-cleanup]: [Blog post by ppy (2012-12-17) "This Week in osu!"](https://blog.ppy.sh/post/38114063519/this-week-in-osu-5)
