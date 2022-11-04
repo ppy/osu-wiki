@@ -405,6 +405,16 @@ The **Newspaper Cup** is a mapping contest that is similar to the Pending Cup in
 | Vocal[^newspaper-cup-7-vocal] | ![osu!][osu!] | ::{ flag=EE }:: [Keqing](https://osu.ppy.sh/users/8501291) | ::{ flag=US }:: [Cubby](https://osu.ppy.sh/users/10914582) | ::{ flag=TW }:: [Hey lululu](https://osu.ppy.sh/users/4086497) | [#1](https://osu.ppy.sh/community/forums/topics/1274667) |
 | Instrumental[^newspaper-cup-7-instrumental] | ![osu!][osu!] | ::{ flag=CA }:: [Kyumo](https://osu.ppy.sh/users/14689984) | ::{ flag=US }:: [- ascended -](https://osu.ppy.sh/users/4564285) | ::{ flag=CL }:: [Sunazuka Akira](https://osu.ppy.sh/users/8846632) | [#1](https://osu.ppy.sh/community/forums/topics/1274667) |
 
+### Russian Community Beatmapping Contest
+
+The **Russian Community Beeatmapping contest** is a mapping contest for Russian-speaking community members with no specific country restrictions, meaning anyone who can speak Russian language can participate.
+
+| Contest No. | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Results |
+| :-: | :-- | :-- | :-- | :-- |
+| [#1](https://osu.ppy.sh/community/forums/topics/266652) | ::{ flag=RU }:: [Reiji-RJ](https://osu.ppy.sh/users/305389) | ::{ flag=RU }:: [fergas](https://osu.ppy.sh/users/3144542) | ::{ flag=RU }:: [Quashqai](https://osu.ppy.sh/users/2351223) | [Link](https://osu.ppy.sh/community/forums/topics/266652?n=73) |
+| [#2](https://osu.ppy.sh/community/forums/topics/475873) | ::{ flag=RU }:: [Reiji-RJ](https://osu.ppy.sh/users/305389) | ::{ flag=RU }:: [Reya](https://osu.ppy.sh/users/5960077) | ::{ flag=RU }:: [riffy](https://osu.ppy.sh/users/597957) | [Link](https://osu.ppy.sh/community/forums/topics/475873?n=91) |
+| [#3](https://osu.ppy.sh/community/forums/topics/1621520) | ::{ flag=RU }:: [Shikoruto](https://osu.ppy.sh/users/11665315) | ::{ flag=RU }:: [Aphestra](https://osu.ppy.sh/users/11949191) | ::{ flag=RU }:: [Vitas2222](https://osu.ppy.sh/users/11742599) | [Link](https://osu.ppy.sh/community/forums/topics/1621520?n=34) |
+
 ## Notes
 
 [^pending-cup-8-fa]: The Featured Artist category provides mappers with a choice of two different songs to be mapped: Zekk - Re\_construct and Shuu no Hazama \[Rainshower\].

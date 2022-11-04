@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 64ccf992af33530aa61a24276cdca20d892b7790
+---
+
 # Concours
 
 Cette section est dédiée aux concours organisés par la communauté d'osu!.
