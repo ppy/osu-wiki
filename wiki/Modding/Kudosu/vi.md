@@ -13,10 +13,3 @@ Trong [diễn đàn modding](/wiki/Modding/Forum_modding), kudosu được sử 
 Hiện nay, kudosu được sử dụng để đánh giá khả năng của người dùng để [trở thành](/wiki/People/The_Team/Beatmap_Nominators/Becoming_a_Beatmap_Nominator) một [Người đề cử Beatmap](/wiki/People/The_Team/Beatmap_Nominators). Một người dùng phải có 200 kudosu trong osu! hoặc 150 kudosu trong osu!taiko, osu!catch, hoặc osu!mania để trở thành Người đề cử Beatmap.
 
 Từ *kudosu*, đôi khi được cách điệu như *kudosu!*, là một [từ ghép](https://en.wikipedia.org/wiki/Portmanteau) của *kudos* và *osu!*.
-
-<!-- TODO:
-  - something about the ranking at https://old.ppy.sh/p/kudosu
-  - history in general / forum modding usage
-  - "You could explain kudosu's usage in evaluating BN applications, its past usage in BN Ranking systems" -jbhyperion
-  - how it looks and works in beatmap discussions
-->
