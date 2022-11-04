@@ -407,7 +407,7 @@ The **Newspaper Cup** is a mapping contest that is similar to the Pending Cup in
 
 ### Russian Community Beatmapping Contest
 
-The **Russian Community Beeatmapping contest** is a mapping contest for Russian-speaking community members with no specific country restrictions, meaning anyone who can speak Russian language can participate.
+The **Russian Community Beatmapping Contest** is a mapping contest for Russian-speaking community members with no specific country restrictions, meaning anyone who can speak Russian language can participate.
 
 | Contest No. | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Results |
 | :-: | :-- | :-- | :-- | :-- |
