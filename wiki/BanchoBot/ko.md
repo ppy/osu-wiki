@@ -6,7 +6,7 @@ outdated_translation: true
 
 ![BanchoBot의 유저 카드](img/BanchoBot.jpg "BanchoBot의 유저 카드")
 
-BanchoBot은 정보를 표시하거나 게임에 관련된 메시지를 송출하는 것으로 채팅 내에 있는 사람들을 도와주는 봇입니다. [Echo49](https://osu.ppy.sh/users/431)에 의해 개발되어 [Bancho IRC](/wiki/Community/Internet_Relay_Chat) (인터넷 연계 채팅)의 호스트이기도 합니다. BanchoBot은 [고유 osu! 프로필](https://osu.ppy.sh/users/3)과 [트위터 계정](https://twitter.com/banchoboat)도 가지고 있답니다!
+BanchoBot은 정보를 표시하거나 게임에 관련된 메시지를 송출하는 것으로 채팅 내에 있는 사람들을 도와주는 봇입니다. ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431)에 의해 개발되어 [Bancho IRC](/wiki/Community/Internet_Relay_Chat) (인터넷 연계 채팅)의 호스트이기도 합니다. BanchoBot은 [고유 osu! 프로필](https://osu.ppy.sh/users/3)과 [트위터 계정](https://twitter.com/banchoboat)도 가지고 있답니다!
 
 ## 명령어
 
