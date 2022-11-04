@@ -27,7 +27,7 @@ A note is judged with a PERFECT, GREAT, GOOD, OK, MEH, or MISS depending on how 
 
 ### Hold notes
 
-Hold notes are given one judgement depending on the timing for both the keypress at the head and the release at the tail, according to the following table:
+Hold notes are given one judgement depending on the timing of both the keypress at the head and the release at the tail, according to the following table:
 
 |  |  |  |  |  |  |  |  |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
