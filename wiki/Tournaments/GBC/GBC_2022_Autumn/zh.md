@@ -14,8 +14,6 @@ tags:
 
 ## 比赛日程
 
-*比赛日程可能因为报名选手人数数量而产生一定的调整*
-
 | Event | Timestamp |
 | --: | :-- |
 | 报名阶段 | 2022-09-24/2022-10-07 (23:59 UTC+8) |
@@ -79,7 +77,83 @@ GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
 | **队长** | ::{ flag=CN }:: [ALWW](https://osu.ppy.sh/users/18786195), ::{ flag=CN }:: [tito31158](https://osu.ppy.sh/users/16436669), ::{ flag=CN }:: [ZOM148](https://osu.ppy.sh/users/10402690), ::{ flag=CN }:: [DJ Sharpnel](https://osu.ppy.sh/users/5132402), ::{ flag=CN }:: [shizehao](https://osu.ppy.sh/users/4928674), ::{ flag=CN }:: [Mito Van](https://osu.ppy.sh/users/14703345), ::{ flag=CN }:: [Shenzouz](https://osu.ppy.sh/users/29606773), ::{ flag=CN }:: [Riemann](https://osu.ppy.sh/users/30327473), ::{ flag=CN }:: [\[GB\]mmttyy233](https://osu.ppy.sh/users/28639641), ::{ flag=CN }:: [\[GB\]Takeru](https://osu.ppy.sh/users/15188014), ::{ flag=CN }:: [\[GB\]V1do](https://osu.ppy.sh/users/17527968), ::{ flag=CN }:: [\[GB\]QAQlingjiu](https://osu.ppy.sh/users/27288518), ::{ flag=CN }:: [Pure_](https://osu.ppy.sh/users/24972681), ::{ flag=CN }:: [Carrot shreds](https://osu.ppy.sh/users/20789670), ::{ flag=CN }:: [nanimoshiranai](https://osu.ppy.sh/users/9602755), ::{ flag=CN }:: [Frozen moon](https://osu.ppy.sh/users/8999766), ::{ flag=CN }:: [NdAa1A0](https://osu.ppy.sh/users/13484261), ::{ flag=CN }:: [7581yx](https://osu.ppy.sh/users/23070586), ::{ flag=CN }:: [Supa7onyz](https://osu.ppy.sh/users/5378805), ::{ flag=CN }:: [vanposen](https://osu.ppy.sh/users/15289293), ::{ flag=CN }:: [N3k0ha_5h12uku](https://osu.ppy.sh/users/8781662), ::{ flag=CN }:: [YUCInoback](https://osu.ppy.sh/users/24449770), ::{ flag=HK }:: [MCPXiaoBai](https://osu.ppy.sh/users/11259611), ::{ flag=CN }:: [1840182932](https://osu.ppy.sh/users/10665336) |
 | **选手** | ::{ flag=CN }:: [StarTemplar](https://osu.ppy.sh/users/8795096), ::{ flag=CN }:: [\[Crz\]Flandre](https://osu.ppy.sh/users/6949941), ::{ flag=CN }:: [Miyes](https://osu.ppy.sh/users/12942073), ::{ flag=CN }:: [Mantozi](https://osu.ppy.sh/users/10764424), ::{ flag=CN }:: [\[Crz\]raber](https://osu.ppy.sh/users/6753592), ::{ flag=CN }:: [alivn](https://osu.ppy.sh/users/15807665), ::{ flag=CN }:: [Ranm](https://osu.ppy.sh/users/17527822), ::{ flag=CN }:: [Hitachimako0721](https://osu.ppy.sh/users/8883576), ::{ flag=CN }:: [\[Paw\]FIood](https://osu.ppy.sh/users/6336721), ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [\[GB\]Rysun](https://osu.ppy.sh/users/16277321), ::{ flag=CN }:: [RiceSS](https://osu.ppy.sh/users/8271436), ::{ flag=CN }:: [\[GB\]Doomsday](https://osu.ppy.sh/users/24989144), ::{ flag=CN }:: [\[ Classic \]](https://osu.ppy.sh/users/5858053), ::{ flag=CN }:: [Yurucawaii](https://osu.ppy.sh/users/25682415), ::{ flag=CN }:: [9961](https://osu.ppy.sh/users/14609209), ::{ flag=CN }:: [- Xiaoluoli -](https://osu.ppy.sh/users/9502281), ::{ flag=HK }:: [Yana Feiya](https://osu.ppy.sh/users/7802517), ::{ flag=CN }:: [lovely_hyahya](https://osu.ppy.sh/users/10318380), ::{ flag=CN }:: [Matoi Ryuu Fox](https://osu.ppy.sh/users/12602829), ::{ flag=CN }:: [fishbone2445](https://osu.ppy.sh/users/17640814), ::{ flag=CN }:: [\[GB\]fanqiu](https://osu.ppy.sh/users/16233412), ::{ flag=CN }:: [\[GB\]King Fish](https://osu.ppy.sh/users/8468203), ::{ flag=CN }:: [chana](https://osu.ppy.sh/users/18375016), ::{ flag=CN }:: [1352707937aa](https://osu.ppy.sh/users/24848670), ::{ flag=CN }:: [\[GB\]DawnLm](https://osu.ppy.sh/users/8651259), ::{ flag=CN }:: [\[GB\]DiGua](https://osu.ppy.sh/users/25308131), ::{ flag=CN }:: [kururipa](https://osu.ppy.sh/users/17136430), ::{ flag=CN }:: [Zyuuu](https://osu.ppy.sh/users/15389275), ::{ flag=CN }:: [ATH_1gr](https://osu.ppy.sh/users/11931583), ::{ flag=CN }:: [Molli](https://osu.ppy.sh/users/8893772), ::{ flag=CN }:: [xibuniuzai](https://osu.ppy.sh/users/10513110), ::{ flag=CN }:: [WELUVELAN](https://osu.ppy.sh/users/29562558), ::{ flag=CN }:: [Vlf](https://osu.ppy.sh/users/9458866), ::{ flag=CN }:: [H dame](https://osu.ppy.sh/users/13673300), ::{ flag=CN }:: [Myon_](https://osu.ppy.sh/users/16626025), ::{ flag=HK }:: [Alptraum](https://osu.ppy.sh/users/26496648), ::{ flag=CN }:: [xinyi2016](https://osu.ppy.sh/users/14213841), ::{ flag=CN }:: [For need](https://osu.ppy.sh/users/10496581), ::{ flag=CN }:: [Origami Kagari](https://osu.ppy.sh/users/12386712), ::{ flag=CN }:: [Kanade1204](https://osu.ppy.sh/users/17251567), ::{ flag=CN }:: [\[GB\]Foxy1459](https://osu.ppy.sh/users/14938400), ::{ flag=CN }:: [\[Crz\]Rumia](https://osu.ppy.sh/users/17686114), ::{ flag=CN }:: [HIM_01](https://osu.ppy.sh/users/11648582), ::{ flag=CN }:: [aaaadddd](https://osu.ppy.sh/users/21131544), ::{ flag=AU }:: [\[Crz\]Yukikaze-](https://osu.ppy.sh/users/8832989), ::{ flag=CN }:: [My Angel Yukee7](https://osu.ppy.sh/users/9787146), ::{ flag=CN }:: [crazy438](https://osu.ppy.sh/users/11305932), ::{ flag=CN }:: [Koishi-0514](https://osu.ppy.sh/users/7546593), ::{ flag=CN }:: [KCINE](https://osu.ppy.sh/users/24289042), ::{ flag=CN }:: [\[GB\]Aeolus](https://osu.ppy.sh/users/5547341), ::{ flag=CN }:: [bfdgbzfhs](https://osu.ppy.sh/users/29105204), ::{ flag=CN }:: [sakura XF](https://osu.ppy.sh/users/16298392), ::{ flag=CN }:: [frankgh3](https://osu.ppy.sh/users/14917119), ::{ flag=CN }:: [Echo_XF](https://osu.ppy.sh/users/25630297), ::{ flag=CN }:: [Zellotime](https://osu.ppy.sh/users/20624754), ::{ flag=CN }:: [bwl](https://osu.ppy.sh/users/15974181), ::{ flag=CN }:: [RCOPLO](https://osu.ppy.sh/users/18267600), ::{ flag=CN }:: [kongsola](https://osu.ppy.sh/users/22437877), ::{ flag=CN }:: [\[GB\]r3uz](https://osu.ppy.sh/users/27583184), ::{ flag=CN }:: [Xzzj](https://osu.ppy.sh/users/26237858), ::{ flag=CN }:: [\[Lily_White\]](https://osu.ppy.sh/users/12749779), ::{ flag=CN }:: [rbqq](https://osu.ppy.sh/users/13747488), ::{ flag=CN }:: [chanxi0](https://osu.ppy.sh/users/13138925), ::{ flag=CN }:: [\[GB\] limata](https://osu.ppy.sh/users/21326517), ::{ flag=CN }:: [\[GB\]AelSan](https://osu.ppy.sh/users/14095291), ::{ flag=CN }:: [xc165543337](https://osu.ppy.sh/users/15246697), ::{ flag=CN }:: [greedinessn](https://osu.ppy.sh/users/14345717), ::{ flag=CN }:: [\[GB\]dotdot](https://osu.ppy.sh/users/15923740), ::{ flag=CN }:: [FALSEFAST](https://osu.ppy.sh/users/25508274), ::{ flag=CN }:: [ivysann](https://osu.ppy.sh/users/23652369), ::{ flag=CN }:: [KafuChino](https://osu.ppy.sh/users/14826575), ::{ flag=HK }:: [biubiutu](https://osu.ppy.sh/users/18801193), ::{ flag=HK }:: [Sakuramoe](https://osu.ppy.sh/users/19885258), ::{ flag=CN }:: [Not Softing](https://osu.ppy.sh/users/13267445), ::{ flag=CN }:: [iiiiiy](https://osu.ppy.sh/users/26677842), ::{ flag=CN }:: [SCI_Scale](https://osu.ppy.sh/users/25988344), ::{ flag=CN }:: [mayoi123](https://osu.ppy.sh/users/25379764), ::{ flag=CN }:: [yks1](https://osu.ppy.sh/users/26030234), ::{ flag=CN }:: [Whitesoak](https://osu.ppy.sh/users/20886272), ::{ flag=CN }:: [lib4d](https://osu.ppy.sh/users/26181073), ::{ flag=CN }:: [Lingyu114](https://osu.ppy.sh/users/29743849), ::{ flag=CN }:: [\[GB\]ChickenGold](https://osu.ppy.sh/users/16586663), ::{ flag=CN }:: [\[GB\]Akamite](https://osu.ppy.sh/users/13418334), ::{ flag=CN }:: [\[GB\]Cz](https://osu.ppy.sh/users/9191281), ::{ flag=CN }:: [YooLi](https://osu.ppy.sh/users/11073130), ::{ flag=CN }:: [-fm777-](https://osu.ppy.sh/users/30122510), ::{ flag=CN }:: [namelest](https://osu.ppy.sh/users/17812436), ::{ flag=CN }:: [KawaiiPoi](https://osu.ppy.sh/users/10694345), ::{ flag=CN }:: [yem sky](https://osu.ppy.sh/users/10588209), ::{ flag=CN }:: [AyainSHF](https://osu.ppy.sh/users/27074609), ::{ flag=CN }:: [chino0133](https://osu.ppy.sh/users/16626292), ::{ flag=CN }:: [\[GB\]ReMILia](https://osu.ppy.sh/users/18334226), ::{ flag=CN }:: [smhei2](https://osu.ppy.sh/users/20888121), ::{ flag=CN }:: [aipaixiaotie](https://osu.ppy.sh/users/16934721), ::{ flag=CN }:: [Zanzibars](https://osu.ppy.sh/users/24290041), ::{ flag=CN }:: [ILOVEUUZ](https://osu.ppy.sh/users/14285752), ::{ flag=CN }:: [spensll](https://osu.ppy.sh/users/4547744), ::{ flag=MY }:: [WesleyWK](https://osu.ppy.sh/users/16533033), ::{ flag=CN }:: [suijiwuming](https://osu.ppy.sh/users/24467547), ::{ flag=CN }:: [ShaDiaoWanJia](https://osu.ppy.sh/users/14613519), ::{ flag=CN }:: [chineseYT](https://osu.ppy.sh/users/27552902) |
 
+| # | 队伍 | 队员 |
+| :-: | :-- | :-- |
+| 1 | **无所谓绿皮龙会出手的** | ::{ flag=CN }:: **[1840182932](https://osu.ppy.sh/users/10665336)**, ::{ flag=CN }:: [Miyes](https://osu.ppy.sh/users/12942073), ::{ flag=CN }:: [Origami Kagari](https://osu.ppy.sh/users/12386712), ::{ flag=CN }:: [\[GB\]r3uz](https://osu.ppy.sh/users/27583184), ::{ flag=CN }:: [ILOVEUUZ](https://osu.ppy.sh/users/14285752) |
+| 2 | **BMS精灵** | ::{ flag=HK }:: **[MCPXiaoBai](https://osu.ppy.sh/users/11259611)**, ::{ flag=CN }:: [\[GB\]AelSan](https://osu.ppy.sh/users/14095291), ::{ flag=CN }:: [xc165543337](https://osu.ppy.sh/users/15246697), ::{ flag=CN }:: [aaaadddd](https://osu.ppy.sh/users/21131544), ::{ flag=CN }:: [aipaixiaotie](https://osu.ppy.sh/users/16934721) |
+| 3 | **俄亥俄州立大学躁狂播放器** | ::{ flag=CN }:: **[YUCInoback](https://osu.ppy.sh/users/24449770)**, ::{ flag=CN }:: [StarTemplar](https://osu.ppy.sh/users/8795096), ::{ flag=CN }:: [\[GB\]Foxy1459](https://osu.ppy.sh/users/14938400), ::{ flag=CN }:: [iiiiiy](https://osu.ppy.sh/users/26677842), ::{ flag=CN }:: [-fm777-](https://osu.ppy.sh/users/30122510) |
+| 4 | **你说的队** | ::{ flag=CN }:: **[N3k0ha_5h12uku](https://osu.ppy.sh/users/8781662)**, ::{ flag=CN }:: [Mantozi](https://osu.ppy.sh/users/10764424), ::{ flag=CN }:: [xibuniuzai](https://osu.ppy.sh/users/10513110), ::{ flag=CN }:: [crazy438](https://osu.ppy.sh/users/11305932), ::{ flag=CN }:: [chino0133](https://osu.ppy.sh/users/16626292) |
+| 5 | **番茄炒树莓** | ::{ flag=CN }:: **[vanposen](https://osu.ppy.sh/users/15289293)**, ::{ flag=CN }:: [\[Crz\]Flandre](https://osu.ppy.sh/users/6949941), ::{ flag=AU }:: [\[Crz\]Yukikaze-](https://osu.ppy.sh/users/8832989), ::{ flag=CN }:: [KCINE](https://osu.ppy.sh/users/24289042), ::{ flag=CN }:: [\[GB\]ReMILia](https://osu.ppy.sh/users/18334226) |
+| 6 | **素鲍小馆丸子面条铺** | ::{ flag=CN }:: **[Supa7onyz](https://osu.ppy.sh/users/5378805)**, ::{ flag=CN }:: [\[Crz\]Rumia](https://osu.ppy.sh/users/17686114), ::{ flag=CN }:: [xinyi2016](https://osu.ppy.sh/users/14213841), ::{ flag=HK }:: [Sakuramoe](https://osu.ppy.sh/users/19885258), ::{ flag=CN }:: [lib4d](https://osu.ppy.sh/users/26181073) |
+| 7 | **DAMWONGaming** | ::{ flag=CN }:: **[7581yx](https://osu.ppy.sh/users/23070586)**, ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [For need](https://osu.ppy.sh/users/10496581), ::{ flag=CN }:: [\[GB\]Aeolus](https://osu.ppy.sh/users/5547341), ::{ flag=CN }:: [chineseYT](https://osu.ppy.sh/users/27552902) |
+| 8 | **EIPSYKONGROO** | ::{ flag=CN }:: **[NdAa1A0](https://osu.ppy.sh/users/13484261)**, ::{ flag=CN }:: [Hitachimako0721](https://osu.ppy.sh/users/8883576), ::{ flag=CN }:: [Myon_](https://osu.ppy.sh/users/16626025), ::{ flag=CN }:: [Echo_XF](https://osu.ppy.sh/users/25630297), ::{ flag=CN }:: [KawaiiPoi](https://osu.ppy.sh/users/10694345) |
+| 9 | **都什么年代还在玩传统音游** | ::{ flag=CN }:: **[Frozen moon](https://osu.ppy.sh/users/8999766)**, ::{ flag=CN }:: [Ranm](https://osu.ppy.sh/users/17527822), ::{ flag=CN }:: [WELUVELAN](https://osu.ppy.sh/users/29562558), ::{ flag=CN }:: [\[Lily_White\]](https://osu.ppy.sh/users/12749779), ::{ flag=CN }:: [\[GB\]Cz](https://osu.ppy.sh/users/9191281) |
+| 10 | **铁戈金马** | ::{ flag=CN }:: **[nanimoshiranai](https://osu.ppy.sh/users/9602755)**, ::{ flag=CN }:: [My Angel Yukee7](https://osu.ppy.sh/users/9787146), ::{ flag=CN }:: [Kanade1204](https://osu.ppy.sh/users/17251567), ::{ flag=CN }:: [Zellotime](https://osu.ppy.sh/users/20624754), ::{ flag=CN }:: [Whitesoak](https://osu.ppy.sh/users/20886272) |
+| 11 | **要我一直摆烂一直摆烂吗** | ::{ flag=CN }:: **[Carrot shreds](https://osu.ppy.sh/users/20789670)**, ::{ flag=CN }:: [\[GB\]Rysun](https://osu.ppy.sh/users/16277321), ::{ flag=CN }:: [H dame](https://osu.ppy.sh/users/13673300), ::{ flag=CN }:: [Xzzj](https://osu.ppy.sh/users/26237858), ::{ flag=CN }:: [SCI_Scale](https://osu.ppy.sh/users/25988344) |
+| 12 | **我屙屎精灵我交泥如活打屙** | ::{ flag=CN }:: **[lovely_hyahya](https://osu.ppy.sh/users/10318380)**, ::{ flag=CN }:: [Pure_](https://osu.ppy.sh/users/24972681), ::{ flag=CN }:: [1352707937aa](https://osu.ppy.sh/users/24848670), ::{ flag=CN }:: [mayoi123](https://osu.ppy.sh/users/25379764), ::{ flag=CN }:: [namelest](https://osu.ppy.sh/users/17812436) |
+| 13 | **上课军训补课反正凑不齐人** | ::{ flag=CN }:: **[\[GB\]QAQlingjiu](https://osu.ppy.sh/users/27288518)**, ::{ flag=CN }:: [9961](https://osu.ppy.sh/users/14609209), ::{ flag=CN }:: [\[GB\]DiGua](https://osu.ppy.sh/users/25308131), ::{ flag=CN }:: [\[GB\] limata](https://osu.ppy.sh/users/21326517), ::{ flag=CN }:: [yks1](https://osu.ppy.sh/users/26030234) |
+| 14 | **均衡教派** | ::{ flag=CN }:: **[\[GB\]V1do](https://osu.ppy.sh/users/17527968)**, ::{ flag=CN }:: [\[Crz\]raber](https://osu.ppy.sh/users/6753592), ::{ flag=CN }:: [Molli](https://osu.ppy.sh/users/8893772), ::{ flag=CN }:: [bfdgbzfhs](https://osu.ppy.sh/users/29105204), ::{ flag=HK }:: [biubiutu](https://osu.ppy.sh/users/18801193) |
+| 15 | **队名太多不知道用哪个** | ::{ flag=CN }:: **[\[GB\]Takeru](https://osu.ppy.sh/users/15188014)**, ::{ flag=CN }:: [\[Paw\]FIood](https://osu.ppy.sh/users/6336721), ::{ flag=CN }:: [Vlf](https://osu.ppy.sh/users/9458866), ::{ flag=CN }:: [HIM_01](https://osu.ppy.sh/users/11648582), ::{ flag=CN }:: [\[GB\]dotdot](https://osu.ppy.sh/users/15923740) |
+| 16 | **猫猫面馆** | ::{ flag=CN }:: **[\[GB\]mmttyy233](https://osu.ppy.sh/users/28639641)**, ::{ flag=CN }:: [alivn](https://osu.ppy.sh/users/15807665), ::{ flag=CN }:: [kururipa](https://osu.ppy.sh/users/17136430), ::{ flag=CN }:: [frankgh3](https://osu.ppy.sh/users/14917119), ::{ flag=CN }:: [ivysann](https://osu.ppy.sh/users/23652369) |
+| 17 | **黎曼猜想** | ::{ flag=CN }:: **[Riemann](https://osu.ppy.sh/users/30327473)**, ::{ flag=HK }:: [Yana Feiya](https://osu.ppy.sh/users/7802517), ::{ flag=CN }:: [\[GB\]DawnLm](https://osu.ppy.sh/users/8651259), ::{ flag=CN }:: [RCOPLO](https://osu.ppy.sh/users/18267600), ::{ flag=CN }:: [greedinessn](https://osu.ppy.sh/users/14345717) |
+| 18 | **SV狗都不玩** | ::{ flag=CN }:: **[Shenzouz](https://osu.ppy.sh/users/29606773)**, ::{ flag=CN }:: [- Xiaoluoli -](https://osu.ppy.sh/users/9502281), ::{ flag=CN }:: [\[GB\]fanqiu](https://osu.ppy.sh/users/16233412), ::{ flag=CN }:: [Lingyu114](https://osu.ppy.sh/users/29743849), ::{ flag=CN }:: [chanxi0](https://osu.ppy.sh/users/13138925) |
+| 19 | **经典米托镂空鱼香鸡肉丸** | ::{ flag=CN }:: **[Mito Van](https://osu.ppy.sh/users/14703345)**, ::{ flag=CN }:: [\[ Classic \]](https://osu.ppy.sh/users/5858053), ::{ flag=CN }:: [\[GB\]King Fish](https://osu.ppy.sh/users/8468203), ::{ flag=CN }:: [kongsola](https://osu.ppy.sh/users/22437877), ::{ flag=CN }:: [\[GB\]ChickenGold](https://osu.ppy.sh/users/16586663) |
+| 20 | **为所动做为所欲为的所欲为** | ::{ flag=CN }:: **[shizehao](https://osu.ppy.sh/users/4928674)**, ::{ flag=CN }:: [RiceSS](https://osu.ppy.sh/users/8271436), ::{ flag=HK }:: [Alptraum](https://osu.ppy.sh/users/26496648), ::{ flag=CN }:: [rbqq](https://osu.ppy.sh/users/13747488), ::{ flag=CN }:: [\[GB\]Akamite](https://osu.ppy.sh/users/13418334) |
+| 21 | **ban位先ban行李箱** | ::{ flag=CN }:: **[DJ Sharpnel](https://osu.ppy.sh/users/5132402)**, ::{ flag=CN }:: [\[GB\]Doomsday](https://osu.ppy.sh/users/24989144), ::{ flag=CN }:: [Matoi Ryuu Fox](https://osu.ppy.sh/users/12602829), ::{ flag=CN }:: [sakura XF](https://osu.ppy.sh/users/16298392), ::{ flag=CN }:: [Not Softing](https://osu.ppy.sh/users/13267445) |
+| 22 | **奖励一把大天空** | ::{ flag=CN }:: **[ZOM148](https://osu.ppy.sh/users/10402690)**, ::{ flag=CN }:: [ATH_1gr](https://osu.ppy.sh/users/11931583), ::{ flag=CN }:: [Yurucawaii](https://osu.ppy.sh/users/25682415), ::{ flag=CN }:: [bwl](https://osu.ppy.sh/users/15974181), ::{ flag=CN }:: [YooLi](https://osu.ppy.sh/users/11073130) |
+| 23 | **近月少女的礼仪** | ::{ flag=CN }:: **[Zyuuu](https://osu.ppy.sh/users/15389275)**, ::{ flag=CN }:: [tito31158](https://osu.ppy.sh/users/16436669), ::{ flag=CN }:: [Koishi-0514](https://osu.ppy.sh/users/7546593), ::{ flag=CN }:: [yem sky](https://osu.ppy.sh/users/10588209), ::{ flag=CN }:: [FALSEFAST](https://osu.ppy.sh/users/25508274) |
+| 24 | **又一个倒霉蛋** | ::{ flag=CN }:: **[fishbone2445](https://osu.ppy.sh/users/17640814)**, ::{ flag=CN }:: [chana](https://osu.ppy.sh/users/18375016), ::{ flag=CN }:: [ALWW](https://osu.ppy.sh/users/18786195), ::{ flag=CN }:: [KafuChino](https://osu.ppy.sh/users/14826575), ::{ flag=CN }:: [spensll](https://osu.ppy.sh/users/4547744) |
+
+## 赛程: 常规赛第 2 周
+
+### 2022 年 11 月 5 日，星期六
+
+| A 队 | B 队 | 比赛时间 (UTC+8) |
+| --: | :-- | :-- |
+| EIPSYKONGROO | 俄亥俄州立大学躁狂播放器 | Nov 5 (Sat) 15:30 |
+| BMS精灵 | 素鲍小馆丸子面条铺 | Nov 5 (Sat) 17:00 |
+| 均衡教派 | 我屙屎精灵我交泥如活打屙 | Nov 5 (Sat) 18:30 |
+| 番茄炒树莓 | 队名太多不知道用哪个 | Nov 5 (Sat) 19:00 |
+| 铁戈金马 | 为所动做为所欲为的所欲为 | Nov 5 (Sun) 19:00 |
+| 都什么年代还在玩传统音游 | SV狗都不玩 | Nov 5 (Sat) 19:30 |
+| 经典米托镂空鱼香鸡肉丸 | 近月少女的礼仪 | Nov 5 (Sat) 19:30 |
+| 奖励一把大天空 | 黎曼猜想 | Nov 5 (Sat) 20:00 |
+| 上课军训补课反正凑不齐人 | 要我一直摆烂摆烂吗 | Nov 5 (Sat) 20:30 |
+| DAMWONGaming | 猫猫面馆 | Nov 5 (Sat) 20:30 |
+| 你说的队 | 无所谓绿皮龙会出手的 | Nov 5 (Sat) 21:00 |
+
+### 2022 年 11 月 6 日，星期日
+
+| A 队 | B 队 | 比赛时间 (UTC+8) |
+| --: | :-- | :-- |
+| 又一个倒霉蛋 | ban位先ban行李箱 | Nov 6 (Sun) 17:00 |
+
 ## 图池
+
+### 常规赛第 1 & 2 周
+
+**[在这里下载图包 (131.7 MB)](https://drive.google.com/file/d/1U8nbQ17vZDR3Tr2gN2W0y9UU0AGH68sy/)**
+
+- Rice
+  1. [vierre cloud - moment (Vortex-) \[level 0\]](https://osu.ppy.sh/beatmapsets/1795035#mania/3679242)
+  2. [L.E.D. - THE LAST STRIKER (Shoegazer) \[Annihilation 1.1x (204bpm)\]](https://osu.ppy.sh/beatmapsets/1489054#mania/3054999)
+  3. [kafu - phony (K\*C\*HACK bootleg) (\[GB\]Mafufu) \[Lott's nisemono \[1.05x rate\] (GBC autumn 2022 edit)\]](https://osu.ppy.sh/beatmapsets/1871409#mania/3850426)
+  4. [Triodust - Warp Destination (Hylotl) \[Familiar Place \[1.15x Rate\]\]](https://osu.ppy.sh/beatmapsets/1361534#mania/3503466)
+  5. [yuikonnu - Junjou Skirt (YuEast 2018) \[(cut)\]](https://osu.ppy.sh/beatmapsets/1868290#mania/3843255)
+  6. [The Flashbulb - Passage D (Shoegazer) \[Abyss\]](https://osu.ppy.sh/beatmapsets/570859#mania/3022940)
+- Hybrid
+  1. [Alstroemeria Records - SACRIFICE feat. ayame (ATing) \[MAXIMUM\]](https://osu.ppy.sh/beatmapsets/836072#mania/1926204)
+  2. [Eve - Heart Forecast (Firiya) \[I want to be dyed with your colors\]](https://osu.ppy.sh/beatmapsets/1182680#mania/2465769)
+  3. [Yooh - Good bye, Merry-Go-Round. (Shima Rin) \[CS' MASTER\]](https://osu.ppy.sh/beatmapsets/1759784#mania/3610288)
+- LN
+  1. [Nekomata Master - Izanami's Wail (\[Crz\]Crysarlene) \[Stage 3: Betwixt\]](https://osu.ppy.sh/beatmapsets/1106156#mania/2311839)
+  2. [Getter Jaani - Rockefeller Street (Nightcore Mix) (Blue_Potion) \[It's LN showtime!\]](https://osu.ppy.sh/beatmapsets/1855870#mania/3813771)
+  3. [POLKADOT STINGRAY - FREE (Stability) \[Euphoric\]](https://osu.ppy.sh/beatmapsets/1541763#mania/3151558)
+- SV
+  1. [Airuei - Framework (H1Pur) \[Structures\]](https://osu.ppy.sh/beatmapsets/1465676#mania/3010240)
+  2. [Fellsius - Talk (Cut ver.) (Muses) \[talk with sv\]](https://osu.ppy.sh/beatmapsets/1815218#mania/3723860)
+- Tiebreaker
+  1. **[you vs. ETIA. - Shang A Lang (kamome sano Remix) (_Kobii) \[Brilliance(edit)\]](https://osu.ppy.sh/beatmapsets/1871551#mania/3850844)**
 
 ### 资格赛
 
@@ -89,16 +163,71 @@ GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
   1. [Zris feat. Kri - Can't it be true (Hylotl) \[Stage 2: False\]](https://osu.ppy.sh/beatmapsets/1863063#mania/3831047)
   2. [Sakamiya - Valkyrie Revolutia (Hylotl) \[Stage 3: All or Nothing\]](https://osu.ppy.sh/beatmapsets/1863066#mania/3831054)
   3. [Ling Yuan yousa - Shen De Sui Bo Zhu Liu (YuEast 2018) \[Stage 4: Insouciance\]](https://osu.ppy.sh/beatmapsets/1863062#mania/3831046)
-- LN
-  1. [M2U - The Prince of Darkness (\[GB\]Luoxuan0327) \[Stage 5: Recollection\]](https://osu.ppy.sh/beatmapsets/1863059#mania/3831043)
-  2. [senya - Nagori Tori (\[GB\]Sanae) \[Stage 6: Calamity\]](https://osu.ppy.sh/beatmapsets/1863061#mania/3831045)
 - Hybrid
   1. [Ayo - Brain Rigid Girl (-Deepdive-) \[Stage 7: Myon\]](https://osu.ppy.sh/beatmapsets/1863070#mania/3831058)
   2. [Aoi - aterlbus (YuEast 2018) \[Stage 8: Bipolar\]](https://osu.ppy.sh/beatmapsets/1863069#mania/3831057)
+- LN
+  1. [M2U - The Prince of Darkness (\[GB\]Luoxuan0327) \[Stage 5: Recollection\]](https://osu.ppy.sh/beatmapsets/1863059#mania/3831043)
+  2. [senya - Nagori Tori (\[GB\]Sanae) \[Stage 6: Calamity\]](https://osu.ppy.sh/beatmapsets/1863061#mania/3831045)
 - SV
   1. [IslandWind/PIKASONIC - Forever (Cut ver.) (\[GB\]Mafufu) \[Stage 1: Everlasting\]](https://osu.ppy.sh/beatmapsets/1863068#mania/3831056)
 
 ## 赛果
+
+### 常规赛总结
+
+| #[^rs-summary-seed] | 队伍 | 缩写 | 场次战绩 | 谱面战绩 | 净胜局 | BU[^rs-summary-bu] | 第一轮 | 第二轮 | 第三轮 | 第四轮 |
+| :-: | --: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 1 | DAMWONGaming | DWG | 1-0 | 6-0 | 6 | -1 | 6-0 不玩SV | 猫猫面馆 |  |  |
+| 2 | 奖励一把大天空 | 奖励天空 | 1-0 | 6-1 | 5 | -1 | 6-1 俄亥俄 | ζ(s) |  |  |
+| 3 | 又一个倒霉蛋 | 倒霉蛋 | 1-0 | 6-1 | 5 | -1 | 6-1 绿皮龙 | 行李箱 |  |  |
+| 4 | 铁戈金马 | 铁戈金马 | 1-0 | 6-2 | 4 | -1 | 6-2 队名难取 | 不为所动 |  |  |
+| 5 | 均衡教派 | 均衡教派 | 1-0 | 6-2 | 4 | -1 | 6-2 开摆 | 屙屎精灵 |  |  |
+| 6 | 经典米托镂空鱼香鸡肉丸 | 肉丸子 | 1-0 | 6-2 | 4 | -1 | 6-2 素鲍小馆 | 近月少女 |  |  |
+| 7 | 近月少女的礼仪 | 近月少女 | 1-0 | 6-2 | 4 | -1 | 6-2 BMS | 肉丸子 |  |  |
+| 8 | 我屙屎精灵我交泥如活打屙 | 屙屎精灵 | 1-0 | 6-3 | 3 | -1 | 6-3 凑不齐人 | 均衡教派 |  |  |
+| 9 | 为所动做为所欲为的所欲为 | 不为所动 | 1-0 | 6-3 | 3 | -1 | 6-3 炒树莓 | 铁戈金马 |  |  |
+| 10 | ban位先ban行李箱 | 行李箱 | 1-0 | 6-3 | 3 | -1 | 6-3 你说的队 | 倒霉蛋 |  |  |
+| 11 | 黎曼猜想 | ζ(s) | 1-0 | 6-4 | 2 | -1 | 6-4 石头门 | 奖励天空 |  |  |
+| 12 | 猫猫面馆 | 猫猫面馆 | 1-0 | 6-5 | 1 | -1 | 6-5 传统音游 | DWG |  |  |
+| 13 | 都什么年代还在玩传统音游 | 传统音游 | 0-1 | 5-6 | -1 | 1 | 5-6 猫猫面馆 | 不玩SV |  |  |
+| 14 | EIPSYKONGROO | 石头门 | 0-1 | 4-6 | -2 | 1 | 4-6 ζ(s) | 俄亥俄 |  |  |
+| 15 | 你说的队 | 你说的队 | 0-1 | 3-6 | -3 | 1 | 3-6 行李箱 | 绿皮龙 |  |  |
+| 16 | 番茄炒树莓 | 炒树莓 | 0-1 | 3-6 | -3 | 1 | 3-6 不为所动 | 队名难取 |  |  |
+| 17 | 上课军训补课反正凑不齐人 | 凑不齐人 | 0-1 | 3-6 | -3 | 1 | 3-6 屙屎精灵 | 开摆 |  |  |
+| 18 | BMS精灵 | BMS | 0-1 | 2-6 | -4 | 1 | 2-6 近月少女 | 素鲍小馆 |  |  |
+| 19 | 素鲍小馆丸子面条铺 | 素鲍小馆 | 0-1 | 2-6 | -4 | 1 | 2-6 肉丸子 | BMS |  |  |
+| 20 | 要我一直摆烂一直摆烂吗 | 开摆 | 0-1 | 2-6 | -4 | 1 | 2-6 均衡教派 | 凑不齐人 |  |  |
+| 21 | 队名太多不知道用哪个 | 队名难取 | 0-1 | 2-6 | -4 | 1 | 2-6 铁戈金马 | 炒树莓 |  |  |
+| 22 | 无所谓绿皮龙会出手的 | 绿皮龙 | 0-1 | 1-6 | -5 | 1 | 1-6 倒霉蛋 | 你说的队 |  |  |
+| 23 | 俄亥俄州立大学躁狂播放器 | 俄亥俄 | 0-1 | 1-6 | -5 | 1 | 1-6 奖励天空 | 石头门 |  |  |
+| 24 | SV狗都不玩 | 不玩SV | 0-1 | 0-6 | -6 | 1 | 0-6 DWG | 传统音游 |  |  |
+
+### 常规赛第 1 周
+
+可在[此处](https://docs.qq.com/sheet/DWm5EcHZaRkZxdW1h)查询本轮详细数据。
+
+2022 年 10 月 29 日，星期六：
+
+| A 队 |  |  | B 队 | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| 俄亥俄州立大学躁狂播放器 | 1 | **6** | **奖励一把大天空** | [#1](https://osu.ppy.sh/community/matches/104722664) |
+| **我屙屎精灵我交泥如活打屙** | **6** | 3 | 上课军训补课反正凑不齐人 | [#1](https://osu.ppy.sh/community/matches/104723025) |
+| BMS精灵 | 2 | **6** | **近月少女的礼仪** | [#1](https://osu.ppy.sh/community/matches/104723115) |
+| 番茄炒树莓 | 3 | **6** | **为所动做为所欲为的所欲为** | [#1](https://osu.ppy.sh/community/matches/104723812) |
+| **铁戈金马** | **6** | 2 | 队名太多不知道用哪个 | [#1](https://osu.ppy.sh/community/matches/104723704) |
+| 都什么年代还在玩传统音游 | 5 | **6** | **猫猫面馆** | [#1](https://osu.ppy.sh/community/matches/104724218) |
+| 无所谓绿皮龙会出手的 | 1 | **6** | **又一个倒霉蛋** | [#1](https://osu.ppy.sh/community/matches/104725150) |
+| **DAMWONGaming** | **6** | 0 | SV狗都不玩 | [#1](https://osu.ppy.sh/community/matches/104725103) |
+| 要我一直摆烂一直摆烂吗 | 2 | **6** | **均衡教派** | [#1](https://osu.ppy.sh/community/matches/104725874) |
+| EIPSYKONGROO | 4 | **6** | **黎曼猜想** | [#1](https://osu.ppy.sh/community/matches/104726550) |
+
+2022 年 10 月 30 日，星期日：
+
+| A 队 |  |  | B 队 | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| 你说的队 | 3 | **6** | **ban位先ban行李箱** | [#1](https://osu.ppy.sh/community/matches/104746301) |
+| 素鲍小馆丸子面条铺 | 2 | **6** | **经典米托镂空鱼香鸡肉丸** | [#1](https://osu.ppy.sh/community/matches/104746966) |
 
 ### 资格赛
 
@@ -270,6 +399,7 @@ GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
    - 如果发生了重赛，那么比赛双方的选手必须保持和初次相同。如果其中有选手确实无法比赛，那么双方都允许换人。
    - 禁止滥用此规则，如果裁判发现有队伍故意利用此规则，其可以拒绝重赛请求。
 8. 在30秒内或者谱面的25%时间内掉线可以申请重赛，掉线选手的队伍需要及时在聊天中告知裁判。
+   - 每名参赛选手在一场比赛中仅可以据此申请重赛**一局**，如果裁判认为选手滥用此规则可以拒绝重赛请求。
 9. 如果选手掉线，成绩不会被计入总分，除非该选手提供成绩证明。可接受的内容如下：
    - 选手视角的直播片段，必须包含清晰的游戏画面和结尾的成绩结算界面。
    - osr回放文件，从选手的本地成绩中直接导出，开始时间必须和房间内的比赛开始时间严格契合。
@@ -351,7 +481,7 @@ GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
 
 ### 常规赛介绍
 
-1. 常规赛总共包含四轮瑞士轮比赛，这意味着比赛期间成绩相同的队伍会优先进行比赛。
+1. 常规赛总共包含四轮瑞士轮比赛，这意味着比赛期间场次成绩相同的队伍会优先进行比赛。
 2. 常规赛队伍的排名将依次取决于以下的条件：
    - 更多的净胜场
    - 更好的相互战绩（如果存在）
@@ -430,3 +560,8 @@ GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
 
 1. 事实证明，比翻译一个晦涩的 wiki 文档更简单的方式是直接用中文重写一份，原文很多东西翻译起来是真的别扭。
 2. 有一个中文wiki是众多参赛选手呼声已久的事情，文档由 \[GB\]yobrevelc 重新编写，感谢 \[GB\]Natro 和 \[GB\]Rush_FTK 对本项工作的大力支持。
+
+## 脚注
+
+[^rs-summary-seed]: 排名：前 16 名晋级。
+[^rs-summary-bu]: 所有对手的净胜场和。

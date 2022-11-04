@@ -1,11 +1,6 @@
----
-outdated_translation: true
-outdated_since: b0dbd398396a49d6f8e793dfa279b0c0e65937f1
----
-
 # 表现分 (Performance points)
 
-**表现分 (Performance points) **又简称为 **pp**，是 osu! 内致力于准确量化玩家实力的指标。
+**表现分 (Performance points)** 又简称为 **pp**，是 osu! 内致力于准确量化玩家实力的指标。
 
 这个指标主要是为了把曾用来代表玩家水平的游玩时长指标，转变为玩家的真实游戏技巧实力。同时，这个指标的工作方式是通过将[谱面](/wiki/Beatmap)的客观难度与玩家的成绩表现相结合，计算出一个独立的分数从而量化玩家的实力。
 
@@ -17,8 +12,6 @@ outdated_since: b0dbd398396a49d6f8e793dfa279b0c0e65937f1
 
 系统推出了几个月后，发布的 20120722-24 osu! 版本正式上线这个系统，取代了旧版的[上架谱面](/wiki/Beatmap/Category#ranked)分数系统。这个系统原定为每 30 分钟更新一次，同年 8 月时，系统升级为实时更新。
 
-*注意：旧版的表现分数系统（也称为 ppv1）也拥有它的更新日志，你可以通过访问旧版系统的[论坛主题](https://osu.ppy.sh/community/forums/topics/92185)来查看。*
-
 系统继续运行了大约一年多，直到 *osu!tp* 计分系统的创建者，[Tom94](https://osu.ppy.sh/users/1857058) 加入 osu! 团队并将设计更新到表现分数系统时，这个系统更名为 *ppv2*，并于 2014 年 1 月 27 日上线。为便于区分，旧版的系统叫做 [ppv1](/wiki/Performance_points/ppv1)。
 
 2021 年 1 月 16 日，为了更加精准地确定谱面难度，并将更多的奖励分配给谱面中更困难的部分，ppv2 系统进行了一次比较大的修改。这次修改的大部分工作，是一些社区成员做的，例如 [Xexxar](https://osu.ppy.sh/users/2773526) 和 [StanR](https://osu.ppy.sh/users/7217455) 等。修改方案的细节参见[这个新闻帖](https://osu.ppy.sh/home/news/2021-01-14-performance-points-updates)。简而言之，更新的主要内容如下：
@@ -29,7 +22,7 @@ outdated_since: b0dbd398396a49d6f8e793dfa279b0c0e65937f1
 - 减少因失误而损失的 pp，在含有大量物件的长谱面上损失更少。
 - 减少低[准确率](/wiki/Gameplay/Accuracy)时获取的 pp。
 
-ppv2 目前仍在提供服务，且 ppv2 的实时升级信息发布在这个[更新日志](https://osu.ppy.sh/p/changelog?category=pp)中。
+ppv2 目前仍在提供服务，当 ppv2 更新时，[表现分 (pp) 委员会](/wiki/People/Performance_Points_Committee)将会发布新帖子来告知更新信息。
 
 ## 计算
 
