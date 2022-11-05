@@ -4,7 +4,7 @@ title: "New Featured Artist: Massive New Krew"
 date: 2022-11-05 11:00:00 +0000
 ---
 
-**Massive New Krew** strides into our Featured Artist with style!
+**Massive New Krew** strides into our Featured Artist catalogue with style!
 
 ![](https://assets.ppy.sh/artists/318/header.jpg)
 
