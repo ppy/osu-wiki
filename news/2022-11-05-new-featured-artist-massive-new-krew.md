@@ -4,11 +4,11 @@ title: "New Featured Artist: Massive New Krew"
 date: 2022-11-05 11:00:00 +0000
 ---
 
-**Massive New Krew** blast the doors into our Featured Artist collection.
+**Massive New Krew** strides into our Featured Artist with style!
 
 ![](https://assets.ppy.sh/artists/318/header.jpg)
 
-Pounding juicy bass since 2008, **Massive New Krew** is a duo of electronic producers who've established themselves as hardstyle icons. They earned their reputation by performing as a club DJ at major events throughout Japan and shattering ears in rhythm games like *beatmania IIDX*, *CHUNITHM*, *Groove Coaster*, and *Taiko no Tatsujin*!
+Pounding juicy bass since 2008, **Massive New Krew** is a duo of electronic producers who've established themselves as hardstyle icons. They earned their reputation by performing as club DJs at major events throughout Japan and shattering ears in rhythm games like *beatmania IIDX*, *CHUNITHM*, *Groove Coaster*, and *Taiko no Tatsujin*!
 
 **9** booming tunes (with pre-timed map templates) can be found on [**Massive New Krew**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/318)!
 
@@ -32,7 +32,7 @@ Experience [the map from the video above](https://osu.ppy.sh/beatmapsets/1873680
 
 If you're not into circle clicking, check out maps from any of the other game modes:
 
-- [9 star Loved osu!taiko map](https://osu.ppy.sh/beatmapsets/608906) hosted by [katacheh](https://osu.ppy.sh/users/6651672)
+- [9-star Loved osu!taiko map](https://osu.ppy.sh/beatmapsets/608906) hosted by [katacheh](https://osu.ppy.sh/users/6651672)
 - [Loved osu!catch map](https://osu.ppy.sh/beatmapsets/734838) hosted by [Kukkai](https://osu.ppy.sh/users/7811952)
 - [4K osu!mania map](https://osu.ppy.sh/beatmapsets/1378488) hosted by [Rhezie](https://osu.ppy.sh/users/8525528)
 
