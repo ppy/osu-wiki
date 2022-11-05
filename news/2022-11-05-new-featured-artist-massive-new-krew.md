@@ -22,7 +22,7 @@ Pounding juicy bass since 2008, **Massive New Krew** is a duo of electronic prod
 
 ### Massive New Krew - Bullsh\*t
 
-Experience [the map from the video above](https://osu.ppy.sh/beatmapsets/1873680) hosted by [Icekalt](https://osu.ppy.sh/users/5410645)!
+Experience [the map from the video above](https://osu.ppy.sh/beatmapsets/1829152) hosted by [Icekalt](https://osu.ppy.sh/users/5410645)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/318/Songs/Massive%20New%20Krew%20-%20Bullshit.mp3" type="audio/mpeg">
