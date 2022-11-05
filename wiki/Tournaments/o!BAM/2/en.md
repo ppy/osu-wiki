@@ -28,7 +28,7 @@ The **osu! Battle Archive Malaysia 2022** (***o!BAM2***) was a double-eliminatio
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 750 MYR, unique profile badge |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 750 MYR, animated profile banners, unique profile badge |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 375 MYR, animated profile banners |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 225 MYR, animated profile banners |
 | *4th place* | 150 MYR, animated profile banners |
