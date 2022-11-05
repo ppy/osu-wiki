@@ -8,7 +8,7 @@ tags:
 
 ![o!BAM 2 banner](img/banner.png)
 
-The **osu! Battle Archive Malaysia 2022** (***o!BAM2***) is a double-elimination 2v2 osu! tournament hosted by ::{ flag=MY }:: [LouisZpro](https://osu.ppy.sh/users/6231292) and ::{ flag=MY }:: [Tzero](https://osu.ppy.sh/users/6088976). The tournament is open to teams of two with a ::{ flag=MY }:: Malaysian player as their captain, and the second player coming from one of the ten [ASEAN member states](https://asean.org/about-asean/member-states/) (::{ flag=BN }:: Brunei Darussalam, ::{ flag=KH }:: Cambodia, ::{ flag=ID }:: Indonesia, ::{ flag=LA }:: Laos, ::{ flag=MY }:: Malaysia, ::{ flag=MM }:: Myanmar, ::{ flag=PH }:: The Philippines, ::{ flag=SG }:: Singapore, ::{ flag=TH }:: Thailand, and ::{ flag=VN }:: Vietnam) regardless of rank. Despite the change in format from its previous iterations, the tournament is formally regarded as the second instalment of the osu! Battle Archive Malaysia.
+The **osu! Battle Archive Malaysia 2022** (***o!BAM2***) was a double-elimination 2v2 osu! tournament hosted by ::{ flag=MY }:: [LouisZpro](https://osu.ppy.sh/users/6231292) and ::{ flag=MY }:: [Tzero](https://osu.ppy.sh/users/6088976). The tournament was open to teams of two with a ::{ flag=MY }:: Malaysian player as their captain, and the second player coming from one of the ten [ASEAN member states](https://asean.org/about-asean/member-states/) (::{ flag=BN }:: Brunei Darussalam, ::{ flag=KH }:: Cambodia, ::{ flag=ID }:: Indonesia, ::{ flag=LA }:: Laos, ::{ flag=MY }:: Malaysia, ::{ flag=MM }:: Myanmar, ::{ flag=PH }:: The Philippines, ::{ flag=SG }:: Singapore, ::{ flag=TH }:: Thailand, and ::{ flag=VN }:: Vietnam) regardless of rank. Despite the change in format from its previous iterations, the tournament was formally regarded as the second instalment of the osu! Battle Archive Malaysia.
 
 ## Tournament schedule
 
@@ -24,9 +24,20 @@ The **osu! Battle Archive Malaysia 2022** (***o!BAM2***) is a double-elimination
 | Finals week 1 | 2022-10-21/2022-10-23 |
 | Finals week 2 | 2022-10-28/2022-10-30 |
 
+## Prizes
+
+| Placing | Prize(s) |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 750 MYR, unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 375 MYR, animated profile banners |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 225 MYR, animated profile banners |
+| *4th place* | 150 MYR, animated profile banners |
+
+![](img/badge.jpg "o!BAM 2 winner badge")
+
 ## Organisation
 
-The osu! Battle Archive Malaysia 2022 is run by various community members.
+The osu! Battle Archive Malaysia 2022 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -99,6 +110,16 @@ The osu! Battle Archive Malaysia 2022 is run by various community members.
 | **F** | Cat Enjoyer | Vanity | NAJIB FANCLUB | AMOGUS SUSSY BAKA S\_ |
 | **G** | sturrige curry | Where Love Lies | The Platinum Wok | Ikan |
 | **H** | Anti-Cunny Action | osu retirement | shiroko's bicycle | Mandekissafriend |
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Team |
+| :-: | :-- | 
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Miyu Archive** (::{ flag=MY }:: **[Houshou Marine](https://osu.ppy.sh/users/6402211)**, ::{ flag=ID }:: [-Reuto-](https://osu.ppy.sh/users/10717635)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **RUDOLF ENJOYERS** (::{ flag=MY }:: **[Rampax](https://osu.ppy.sh/users/3995630)**, ::{ flag=SG }:: [Inquisitives](https://osu.ppy.sh/users/10722794)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **Diggas in paris** (::{ flag=MY }:: **[Zeph2003](https://osu.ppy.sh/users/10343292)**, ::{ flag=SG }:: [Dawnwing](https://osu.ppy.sh/users/5144534)) |
 
 ## Mappools
 
