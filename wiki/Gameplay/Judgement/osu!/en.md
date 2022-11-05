@@ -78,6 +78,6 @@ If a spinner is very short, the number of spins required may be calculated to be
 
 ## History
 
-The spinner judgement algorithm has been significantly changed in the [20190510.2 Cutting Edge release](https://osu.ppy.sh/home/changelog/cuttingedge/20190510.2). Prior to the change, non-MISS judgements were significantly harder to achieve, as the difference between a MEH and an OK, as well as between a MEH and a GREAT, was equal to a half of a spin. Some beatmaps would even feature spinners that could never be judged with a GREAT, as they were too short to complete fully.
+The spinner judgement algorithm has been significantly changed in the [20190513.2 Stable release](https://osu.ppy.sh/home/changelog/stable40/20190513.2). Prior to the change, non-MISS judgements were significantly harder to achieve, as the difference between a MEH and an OK, as well as between a MEH and a GREAT, was equal to a half of a spin. Some beatmaps would even feature spinners that could never be judged with a GREAT, as they were too short to complete fully.
 
-Replays set prior to May 10, 2019 use this old algorithm rather than the one currently in effect.
+Replays set prior to May 10, 2019 (when the change was [introduced in the Cutting Edge version](https://osu.ppy.sh/home/changelog/cuttingedge/20190510.1)) use this old algorithm rather than the one currently in effect.
