@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 1d2e724ee8a7cb4f313653a07c28af43c8443ea4
+---
+
 # Système de jugement d'osu!
 
 ## Valeurs de hit
