@@ -8,6 +8,8 @@ Les noms des fichiers qui contiennent `{-n}` ou `{n}` peuvent être animés à l
 
 ## osu!
 
+Liste des éléments de skin : [Skinning du mode osu!](/wiki/Skinning/osu!)
+
 ### Set du curseur
 
 L'ensemble de ce skin set est pertinent pour le gameplay.
@@ -95,27 +97,47 @@ Veuillez noter que les tailles recommandées pour tous les éléments de ce jeu 
 
 ### Set des spinners
 
-Tous les éléments, à l'exception de spinner-osu.png et spinner-rpm.png, sont pertinents pour le gameplay. Si vous incluez des éléments tagués "style de base du spinner" dans les notes, vous **ne devez pas** inclure des éléments tagués "nouveau style de spinner".
+osu! a deux styles de spinners, dont un seul peut être utilisé dans un skin en même temps. L'utilisation d'éléments exclusifs des deux styles n'est **pas autorisé** : si des éléments des deux styles sont présents, l'ancien style aura la priorité.
 
-En effet, le style de spinner de base aura la priorité sur le nouveau style si les deux styles sont présents. Le nouveau style de spinner ne fonctionnera que si le skin spécifique à l'utilisateur n'utilise pas le style de spinner de base et prend en charge le Skin V2 ou plus, ou si le skin par défaut est forcé dans la beatmap.
+Le nouveau style de spinner ne fonctionnera que si le skin spécifique à l'utilisateur n'utilise pas l'ancien style et prend en charge les versions de skin 2 ou supérieures, ou si le skin par défaut est forcé par la beatmap.
+
+Tous les éléments de chaque set, à l'exception de spinner-osu.png et spinner-rpm.png, sont utilisés pour le gameplay. 
+
+### Set d'ancien style des spinners
+
+Si vous utilisez l'ancien style, vous **ne devez pas** ajouter d'éléments notés comme "exclusif au nouveau set".
 
 | Nom du fichier | Notes | Pertinence de l'ajout | Tailles recommandées pour les skins SD |
 | --: | :-: | :-: | :-: |
-| spinner-background.png | Style de base du spinner | Requis | - |
-| spinner-circle.png | Style de base du spinner | Requis | 666x666px |
-| spinner-metre.png | Style de base du spinner | Requis | 1024x692px |
-| spinner-bottom.png | Nouveau style de spinner | Requis | 667x667px |
-| spinner-glow.png | Nouveau style de spinner | Requis | 852x852px |
-| spinner-middle.png | Nouveau style de spinner | Requis | 689x689px |
-| spinner-middle2.png | Nouveau style de spinner | Requis | 17x17px |
-| spinner-top.png | Nouveau style de spinner | Requis | 667x667px |
-| spinner-approachcircle.png | Utilisé par les deux sets | Requis | 384x384px |
-| spinner-clear.png | - | Requis | - |
-| spinner-spin.png | - | Requis | - |
-| spinner-osu.png | Ne fonctionnera que si un skin spécifique à l'utilisateur prend en charge le Skin V1 | Optionnel | - |
-| spinner-rpm.png | Doit être inclus si le set des nombres du score et le set de spinner sont skinnés | Optionnel | 280x56px |
+| spinner-background.png | exclusif à l'ancien set | requis | - |
+| spinner-circle.png | exclusif à l'ancien set | requis | 666x666px |
+| spinner-metre.png | exclusif à l'ancien set | requis | 1024x692px |
+| spinner-approachcircle.png | - | requis | 384x384px |
+| spinner-clear.png | - | requis | - |
+| spinner-spin.png | - | requis | - |
+| spinner-osu.png | ne fonctionnera que si le skin spécifique à l'utilisateur prend en charge la version 1 des skins | optionnel | - |
+| spinner-rpm.png | doit être inclus si le set de nombres du score et le set de spinners sont skinnés | optionnel | 280x56px |
+
+### Set de nouveau style des spinners
+
+Si vous utilisez le nouveau style, vous **ne devez pas** ajouter d'éléments notés comme "exclusif à l'ancien set".
+
+| Nom du fichier | Notes | Pertinence de l'ajout | Tailles recommandées pour les skins SD |
+| --: | :-: | :-: | :-: |
+| spinner-bottom.png | exclusif au nouveau set | requis | 667x667px |
+| spinner-glow.png | exclusif au nouveau set | requis | 852x852px |
+| spinner-middle.png | exclusif au nouveau set | requis | 689x689px |
+| spinner-middle2.png | exclusif au nouveau set | requis | 17x17px |
+| spinner-top.png | exclusif au nouveau set | requis | 667x667px |
+| spinner-approachcircle.png | - | requis | 384x384px |
+| spinner-clear.png | - | requis | - |
+| spinner-spin.png | - | requis | - |
+| spinner-osu.png | ne fonctionnera que si le skin spécifique à l'utilisateur prend en charge la version 1 des skins | optionnel | - |
+| spinner-rpm.png | doit être inclus si le set de nombres du score et le set de spinners sont skinnés | optionnel | 280x56px |
 
 ## osu!taiko
+
+Liste des éléments de skin : [Skinning du mode osu!taiko](/wiki/Skinning/osu!taiko)
 
 ### Set des objects
 
@@ -158,6 +180,8 @@ L'ensemble de ce skin set n'est pas pertinent pour le gameplay.
 
 ## osu!catch
 
+Liste des éléments de skin : [Skinning du mode osu!catch](/wiki/Skinning/osu!catch)
+
 ### Set des fruits
 
 L'ensemble de ce skin set est pertinent pour le gameplay.
@@ -190,6 +214,8 @@ Pour le catcher, l'assiette doit être parfaitement centrée et avoir une largeu
 | lighting.png | Ne doit être utilisé que sur les beatmaps sans difficultés osu! (image partagée) | Optionnel | - |
 
 ## Interface
+
+Liste des éléments de skin : [Skinning de l'interface](/wiki/Skinning/Interface)
 
 ### Set du scorebar
 
