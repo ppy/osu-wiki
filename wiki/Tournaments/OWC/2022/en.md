@@ -280,7 +280,7 @@ The osu! World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) and var
 
 ### Quarterfinals
 
-Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1MnVEHWTadyiCH-GefJkJfqO6YmdYaQZT38Z2c8yWnAo)
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1MnVEHWTadyiCH-GefJkJfqO6YmdYaQZT38Z2c8yWnAo).
 
 Saturday, 5 November 2022:
 
