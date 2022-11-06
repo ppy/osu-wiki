@@ -60,7 +60,24 @@ The Rising Global Taiko Showdown 2022 is run by various community members.
 
 ## Mappools
 
-*Every mappool will be announced 7 days (usually Sunday) before the next stage's match timeline.*
+### Qualifiers
+
+**[Download the mappack here! (47 MB)](https://mega.nz/file/XQ4SVbRb#9i75Ud1-ETvpxHS6xBQ4eH_E0DFH0SzKsvIa2cHV-jo)**
+
+- NoMod
+  1. [Inugami Korone - SAIKYO TENSAI WONDERFUL WORLD of KORONE (snowball112) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1437416#taiko/2957437)
+  2. [Tanchiky - TouchDown (Nwolf) \[stage zero (RGTS ver.)\]](https://osu.ppy.sh/beatmapsets/1876172#taiko/3860973)
+  3. [SWAN K feat. Asuka M - LOVE B.B.B (Nozdormu) \[Luminescence\]](https://osu.ppy.sh/beatmapsets/1876177#taiko/3860984)
+- Hidden
+  1. [MORE MORE JUMP!, Hatsune Miku - MORE! JUMP! MORE! (Seren58) \[More! (GTS Edit)\]](https://osu.ppy.sh/beatmapsets/1304041#taiko/3860926)
+  2. [Hinomori Shizuku (CV: Honnizumi Rina) - Shoujo Rei (cdh) \[Oni\]](https://osu.ppy.sh/beatmapsets/1845190#taiko/3790383)
+- HardRock
+  1. [siromaru - Absurd Gaff (-Kamikaze-) \[Zetera's Oni\]](https://osu.ppy.sh/beatmapsets/365073#taiko/1083359)
+  2. [coltrane - zeke didn't "invent dariacore", i did (TaikoMom) \[Oni\]](https://osu.ppy.sh/beatmapsets/1876188#taiko/3861010)
+- DoubleTime
+  1. [yanaginagi - Tokohana (Nokduro) \[ler's Oni\]](https://osu.ppy.sh/beatmapsets/1762654#taiko/3607847)
+- FreeMod
+  1. [HyuN - Fuyu no Hime (Charlotte) \[komasy's Oni\]](https://osu.ppy.sh/beatmapsets/1202956#taiko/2523647)
 
 ## Ruleset
 
