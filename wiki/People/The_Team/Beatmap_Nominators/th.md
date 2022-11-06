@@ -61,7 +61,7 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | โปรตุเกส |
 | ::{ flag=ES }:: [Didah](https://osu.ppy.sh/users/8030129) | สเปน |
 | ::{ flag=US }:: [eiri-](https://osu.ppy.sh/users/3388410) | สเปน |
-| ::{ flag=CA }:: [Elayue](https://osu.ppy.sh/users/6400861) |  |
+| ::{ flag=CN }:: [Elayue](https://osu.ppy.sh/users/6400861) |  |
 | ::{ flag=BE }:: [Enneya](https://osu.ppy.sh/users/10959501) | ดัตช์ |
 | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |  |
 | ::{ flag=FI }:: [finnish bn](https://osu.ppy.sh/users/11077540) | ฟินแลนด์ |

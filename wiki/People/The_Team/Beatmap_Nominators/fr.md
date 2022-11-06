@@ -59,7 +59,7 @@ Les listes ci-dessous indiquent dans quel(s) mode(s) de jeu chaque Beatmap Nomin
 | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Portugais |
 | ::{ flag=ES }:: [Didah](https://osu.ppy.sh/users/8030129) | Espagnol |
 | ::{ flag=US }:: [eiri-](https://osu.ppy.sh/users/3388410) | Espagnol |
-| ::{ flag=CA }:: [Elayue](https://osu.ppy.sh/users/6400861) |  |
+| ::{ flag=CN }:: [Elayue](https://osu.ppy.sh/users/6400861) |  |
 | ::{ flag=BE }:: [Enneya](https://osu.ppy.sh/users/10959501) | Néerlandais |
 | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |  |
 | ::{ flag=FI }:: [finnish bn](https://osu.ppy.sh/users/11077540) | Finnois |
