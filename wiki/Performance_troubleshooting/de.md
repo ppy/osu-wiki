@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 3e4e31b7b5983646161932fea4a20b98232ea8e8
+---
+
 # Fehlerbehebung bei Leistungsproblemen in osu!
 
 osu! gibt sein Bestes, mit vernünftigen Standardeinstellungen zu laufen und warnt dich proaktiv, wenn du etwas tust/ausführst, das die Leistung deines Spiels verringern würde.
