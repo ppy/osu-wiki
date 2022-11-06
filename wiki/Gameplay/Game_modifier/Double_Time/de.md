@@ -54,7 +54,7 @@ Zwar kommen bei dieser Mod Hyperdashes häufiger vor, allerdings sind Fruits in 
 - Die Angaben `CS`, `AR` und `HP` haben ein hochgestelltes Dreieck neben sich, um einen leichten Anstieg ihrer Werte anzuzeigen (siehe Abbildung unten).
 - Der Name "Double Time" könnte als falscher Begriff interpretiert werden, da die Mod DT die Geschwindigkeit einer Beatmap nicht wirklich um das Zweifache erhöht (200 %), sondern nur um das 1,5-fache (150 %).
 
-![Veränderte Werte](img/GM_DT.jpg "Screenshot von Beatmap-Angaben, die durch die Mod Double Time geändert wurden")
+![Veränderte Werte](img/GM_DT-DE.jpg "Screenshot von Beatmap-Angaben, die durch die Mod Double Time geändert wurden")
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
