@@ -61,7 +61,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Portekizce |
 | ::{ flag=ES }:: [Didah](https://osu.ppy.sh/users/8030129) | İspanyolca |
 | ::{ flag=US }:: [eiri-](https://osu.ppy.sh/users/3388410) | İspanyolca |
-| ::{ flag=CA }:: [Elayue](https://osu.ppy.sh/users/6400861) |  |
+| ::{ flag=CN }:: [Elayue](https://osu.ppy.sh/users/6400861) |  |
 | ::{ flag=BE }:: [Enneya](https://osu.ppy.sh/users/10959501) | Felemenkçe |
 | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |  |
 | ::{ flag=FI }:: [finnish bn](https://osu.ppy.sh/users/11077540) | Fince |
