@@ -60,6 +60,31 @@ The Rising Global Taiko Showdown 2022 is run by various community members.
 
 ## Mappools
 
+### Group Stage
+
+**[Download the mappack here! (72 MB)](https://mega.nz/file/ORYDQYSJ#aZ4Ql5BSneVlM64UxTYNh17A6RGgXeeIX6LsLmTMiLI)**
+
+- NoMod
+  1. [Himeringo - Idola no Circus (hikikochan) \[Dance\]](https://osu.ppy.sh/beatmapsets/728008#taiko/1537074)
+  2. [Mikito-P feat. Kagamine Rin - Roki (7\_7's frenchcore(?) bootleg) (Boaz) \[BOAZ AND ARC'S ONI\]](https://osu.ppy.sh/beatmapsets/1880669#taiko/3871836)
+  3. [LeaF - Arianrhod (Nwolf) \[Oni\]](https://osu.ppy.sh/beatmapsets/1880675#taiko/3871843)
+  4. [Tsukino - Dohna Dohna no Uta (himiko Jersey Club Edit) (davidminh0111) \[davidminh's bad oni >w<\]](https://osu.ppy.sh/beatmapsets/1880677#taiko/3871845)
+- Hidden
+  1. [Ryu\* - Plan 8 (Eyenine) \[Oni\]](https://osu.ppy.sh/beatmapsets/1569366#taiko/3204893)
+  2. [kerosene - LET GO (Briesmas) \[Oni (RGTS Edit)\]](https://osu.ppy.sh/beatmapsets/1878843#taiko/3867642)
+- HardRock
+  1. [Aoi vs. siqlo - Hacktivism (Faputa) \[Oni\]](https://osu.ppy.sh/beatmapsets/1488148#taiko/3064347)
+  2. [Mitsukiyo - Luminous Memory \~Raytoly Artcore Remix\~ (Raytoly) \[Oni\]](https://osu.ppy.sh/beatmapsets/1825848#taiko/3748584)
+- DoubleTime
+  1. [FELT - Hail Storm (sendol) \[Oni\]](https://osu.ppy.sh/beatmapsets/1687662#taiko/3449057)
+  2. [wotoha - Digital Life Hacker (BlackBN) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1522733#taiko/3132494)
+- FreeMod
+  1. [Memme - BSPower Explosion (iceOC) \[Oni\]](https://osu.ppy.sh/beatmapsets/1029211#taiko/2152144)
+  2. [Natori Sana - Mondainai Tripper! (Seren58) \[ler's Oni\]](https://osu.ppy.sh/beatmapsets/1765094#taiko/3613174)
+  3. [seatrus - ILLEGAL LEGACY (arcpotato) \[arc & Noz's Oni\]](https://osu.ppy.sh/beatmapsets/1880705#taiko/3871884)
+- Tiebreaker
+  1. **[Shimotsuki Haruka - Youka to Yumeutsutsu (Genjuro) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1491579#taiko/3057432)**
+
 ### Qualifiers
 
 **[Download the mappack here! (47 MB)](https://mega.nz/file/XQ4SVbRb#9i75Ud1-ETvpxHS6xBQ4eH_E0DFH0SzKsvIa2cHV-jo)**
