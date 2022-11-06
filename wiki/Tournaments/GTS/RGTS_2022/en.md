@@ -104,6 +104,12 @@ The Rising Global Taiko Showdown 2022 is run by various community members.
 - FreeMod
   1. [HyuN - Fuyu no Hime (Charlotte) \[komasy's Oni\]](https://osu.ppy.sh/beatmapsets/1202956#taiko/2523647)
 
+## Match results
+
+### Qualifiers
+
+Detailed statistics for this round can be found in [this spreadsheet](https://gtsosu.com/rgts/stats#0) alongside the final standings on which players made it through to the next stage.
+
 ## Ruleset
 
 ### General rules
