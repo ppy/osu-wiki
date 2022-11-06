@@ -49,8 +49,8 @@ Zwar kommen bei dieser Mod Hyperdashes häufiger vor, allerdings sind Fruits in 
 
 ## Trivia
 
-- Wenn die Mod Double Time aktiviert ist, sind die Angaben `Length`, `BPM` und `Objects` rötlich mit anderen Werten gefärbt (siehe Abbildung unten).
-  - Die Angabe `Objects` ist rötlich gefärbt, obwohl es keine tatsächliche Veränderung im Wert gab.
+- Wenn die Mod Double Time aktiviert ist, sind die Angaben `Dauer`, `BPM` und `Objekte` rötlich mit anderen Werten gefärbt (siehe Abbildung unten).
+  - Die Angabe `Objekte` ist rötlich gefärbt, obwohl es keine tatsächliche Veränderung im Wert gab.
 - Die Angaben `CS`, `AR` und `HP` haben ein hochgestelltes Dreieck neben sich, um einen leichten Anstieg ihrer Werte anzuzeigen (siehe Abbildung unten).
 - Der Name "Double Time" könnte als falscher Begriff interpretiert werden, da die Mod DT die Geschwindigkeit einer Beatmap nicht wirklich um das Zweifache erhöht (200 %), sondern nur um das 1,5-fache (150 %).
 
