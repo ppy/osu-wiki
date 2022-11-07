@@ -93,6 +93,19 @@ The Rising Global Taiko Showdown 2022 is run by various community members.
 | ::{ flag=US }:: | **United States B** | **[Vitamim](https://osu.ppy.sh/users/16700987)**, [\_Christmas](https://osu.ppy.sh/users/16191971), [Cm0nsters](https://osu.ppy.sh/users/10951981), [Nyahnny](https://osu.ppy.sh/users/16807933), [vekt0r](https://osu.ppy.sh/users/8484892) |
 | ::{ flag=VN }:: | **Vietnam** | **[-Triet-](https://osu.ppy.sh/users/26266042)**, [Amasugi](https://osu.ppy.sh/users/10415491), [Hgiang](https://osu.ppy.sh/users/11442899), [JackTVN](https://osu.ppy.sh/users/12510704) |
 
+## Groups
+
+| Group | Top seed | High seed | Low seed | Unseeded |
+| :-: | :-- | :-- | :-- | :-- |
+| **A** | ::{ flag=HK }:: Hong Kong | ::{ flag=US }:: United States B | ::{ flag=RO }:: ::{ flag=AT }:: ::{ flag=FI }:: ::{ flag=IT }:: Rest of Europe | ::{ flag=TR }:: Turkey |
+| **B** | ::{ flag=JP }:: Japan | ::{ flag=ID }:: Indonesia A | ::{ flag=ID }:: Indonesia B | ::{ flag=UA }:: Ukraine |
+| **C** | ::{ flag=DE }:: Germany A | ::{ flag=BE }:: Belgium | ::{ flag=GB }:: United Kingdom | ::{ flag=ES }:: Spain |
+| **D** | ::{ flag=TW }:: Taiwan A | ::{ flag=DE }:: Germany B | ::{ flag=PT }:: ::{ flag=BR }:: Portuguese Alliance | ::{ flag=RU }:: Russian Federation |
+| **E** | ::{ flag=SG }:: Singapore | ::{ flag=CA }:: Canada | ::{ flag=FR }:: France | ::{ flag=VN }:: Vietnam |
+| **F** | ::{ flag=KR }:: South Korea | ::{ flag=CL }:: Chile | ::{ flag=PH }:: Philippines | ::{ flag=CZ }:: Czech Republic |
+| **G** | ::{ flag=US }:: United States A | ::{ flag=CL }:: ::{ flag=AR }:: Colombia/Argentina | ::{ flag=NL }:: Netherlands | ::{ flag=PL }:: Poland |
+| **H** | ::{ flag=CN }:: China | ::{ flag=MY }:: Malaysia | ::{ flag=TW }:: Taiwan B | ::{ flag=SE }:: Sweden |
+
 ## Mappools
 
 ### Group Stage
