@@ -41,7 +41,7 @@ All osu! originals that have been licensed by the game are cleared for use in os
 | [cYsmix - Little Knight](https://soundcloud.com/olemlanglie/cysmix-little-knight) |  |
 | [cYsmix - Manic](https://soundcloud.com/olemlanglie/cysmix-manic-osu) | Featured in [Mapping With Rewards: September 2015](https://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015) |
 | [cYsmix - Moonlight Sonata](https://cysmix.bandcamp.com/track/moonlight-sonata) | Featured in [Mapping With Rewards: October 2015](https://blog.ppy.sh/post/132009865043/mapping-with-rewards-oct-2015) |
-| [cYsmix - Peer Gynt](https://soundcloud.com/olemlanglie/cysmix-peer-gynt-osu) |
+| [cYsmix - Peer Gynt](https://soundcloud.com/olemlanglie/cysmix-peer-gynt-osu) |  |
 
 #### [happy30](https://osu.ppy.sh/beatmaps/artists/317)
 
@@ -442,7 +442,7 @@ All osu! originals that have been licensed by the game are cleared for use in os
 | [nekodex - circles! (IOVANOVICI Remix)](https://assets.ppy.sh//contests/1/entries/14.mp3) |  |
 | [nekodex - circles! (ItsMapleLeaf Remix)](https://assets.ppy.sh//contests/1/entries/13.mp3) |  |
 | [nekodex - circles! (jukosi Remix)](https://assets.ppy.sh//contests/1/entries/18.mp3) |  |
-| [nekodex - circles! (Kurokotei Remix)](https://soundcloud.com/dialgadu77/circles-remix) |  |
+| [nekodex - circles! (Kurokotei Remix)](https://soundcloud.com/dialgadu77/circles-remix)[^fa] |  |
 | [nekodex - circles! (liaoxingyao Remix)](https://assets.ppy.sh//contests/1/entries/1.mp3) |  |
 | [nekodex - circles! (Moonlit Remix)](https://assets.ppy.sh//contests/1/entries/17.mp3) |  |
 | [nekodex - circles! (Petricpwnz Remix)](https://assets.ppy.sh//contests/1/entries/12.mp3) |  |
