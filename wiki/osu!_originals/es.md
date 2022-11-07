@@ -47,6 +47,15 @@ Todos los osu! originals que han sido licenciados por el juego están autorizado
 | [cYsmix - Moonlight Sonata](https://cysmix.bandcamp.com/track/moonlight-sonata) | Presentado en [Mapping With Rewards: October 2015](https://blog.ppy.sh/post/132009865043/mapping-with-rewards-oct-2015) |
 | [cYsmix - Peer Gynt](https://soundcloud.com/olemlanglie/cysmix-peer-gynt-osu) |
 
+#### [happy30](https://osu.ppy.sh/beatmaps/artists/317)
+
+*Para la publicación de la noticia, véase: [New Featured Artist: happy30](https://osu.ppy.sh/home/news/2022-11-02-new-featured-artist-happy30)*
+
+| Canción | Notas |
+| :-: | :-- |
+| [happy30 - Relentless](https://osu.ppy.sh/beatmaps/artists/tracks?artist=happy30&query=Relentless) |  |
+| [happy30 - Shoot the star](https://osu.ppy.sh/beatmaps/artists/tracks?artist=happy30&query=%22Shoot%20the%20star%22) |  |
+
 #### [James Landino](https://osu.ppy.sh/beatmaps/artists/39)
 
 *Para la publicación de la noticia, véase: [New Featured Artist: James Landino](https://osu.ppy.sh/home/news/2019-05-31-new-featured-artist-james-landino)*
@@ -131,6 +140,12 @@ Todos los osu! originals que han sido licenciados por el juego están autorizado
 | Canción | Beatmap | Notas |
 | :-: | :-: | :-- |
 | [TWC Sound Team "Zeroth Powers" - One One](https://www.youtube.com/watch?v=xEnDPj7vxhA) | [#1](https://osu.ppy.sh/beatmapsets/1422682) | Desempate de la gran final |
+
+#### ![](/wiki/shared/mode/osu.png) [osu! World Cup 2022](/wiki/Tournaments/OWC/2022)
+
+| Canción | Beatmap | Notas |
+| :-: | :-: | :-- |
+| [Kurokotei feat. Sennzai - escape (the looking-glass, and what alice found there)](https://www.youtube.com/watch?v=rYmTItO3caw)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1880652) | Desempate de las semifinales |
 
 #### ![](/wiki/shared/mode/taiko.png) [osu!taiko World Cup 2022](/wiki/Tournaments/TWC/2022)
 
@@ -295,7 +310,9 @@ Todos los osu! originals que han sido licenciados por el juego están autorizado
 | [DJ Witch Girl MIR4CLEN - Danrit](https://soundcloud.com/mir4clen/osutaiko) | [#1](https://osu.ppy.sh/beatmapsets/1842746) | Octavos de final FM3 |
 | [Gardens - Rafflesia](https://soundcloud.com/gardensdtm/rafflesia) | [#1](https://osu.ppy.sh/beatmapsets/1833491) | Desempate de ronda de 64 |
 | [GTS Sound Team -《/nttld.:beings》 \~Truth in Uncertainty\~](https://soundcloud.com/sdmne/nttldbeings-truth-in-uncertainty)[^fa-feature] | [#1](https://osu.ppy.sh/beatmapsets/1859338#taiko/3822143) | Desempate de la gran final |
+| [ikaruga_nex vs. Kagetora. - Grabinschrift der Gotter](https://soundcloud.com/ikaruga_nex/egts-2022-finals-tb-ikaruga_nex-vs-grabinschrift-der-gotter) | [#1](https://osu.ppy.sh/beatmapsets/1855299) | Desempate de las finales |
 | [KAH - Judge UP↑ DOWN↓](https://soundcloud.com/kah_growsong/gts2022judge-up-down) | [#1](https://osu.ppy.sh/beatmapsets/1828735) | Ronda de 128 FM3 |
+| [katagiri - Bootleg Heaven](https://www.youtube.com/watch?v=7a2k9yvExv4)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1855270) | Finales NM6 |
 | [Kou! - Sanzui](https://soundcloud.com/kou_desu/sanzui) | [#1](https://osu.ppy.sh/beatmapsets/1846769) | Cuartos de final  FM1 |
 | [kyou1110 - Mam rozbite sluchatka placem](https://www.youtube.com/watch?v=eAaJjlP2N_A) | [#1](https://osu.ppy.sh/beatmapsets/1846616) | Desempate de cuartos de final |
 | [NIWASHI - Silence is Golden, Speech is Golden](https://soundcloud.com/n1wa5h1/niwashi-silence-is-golden-speech-is-golden)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1833489) | Ronda de 32 NM1 |
@@ -425,7 +442,7 @@ Todos los osu! originals que han sido licenciados por el juego están autorizado
 | [nekodex - circles! (Flanster Remix)](https://assets.ppy.sh//contests/1/entries/10.mp3) |  |
 | [nekodex - circles! (Frail Remix)](https://assets.ppy.sh//contests/1/entries/8.mp3) |  |
 | [nekodex - circles! (Halzyn Remix)](https://assets.ppy.sh//contests/1/entries/20.mp3) |  |
-| [nekodex - circles! (happy30 Remix)](https://soundcloud.com/happy30/circles-happy30-remix) |  |
+| [nekodex - circles! (happy30 Remix)](https://soundcloud.com/happy30/circles-happy30-remix)[^fa-catalogue] |  |
 | [nekodex - circles! (IOVANOVICI Remix)](https://assets.ppy.sh//contests/1/entries/14.mp3) |  |
 | [nekodex - circles! (ItsMapleLeaf Remix)](https://assets.ppy.sh//contests/1/entries/13.mp3) |  |
 | [nekodex - circles! (jukosi Remix)](https://assets.ppy.sh//contests/1/entries/18.mp3) |  |
@@ -466,11 +483,15 @@ Todos los osu! originals que han sido licenciados por el juego están autorizado
 | [Down - Ekoro](https://open.spotify.com/album/5nbet60aPK4tJCK3GVXhL2) | [#1](https://osu.ppy.sh/beatmapsets/1683876) |  |
 | [Down - Luscent](https://open.spotify.com/album/05WPXYcvcDfAp91stvhpiz) | [#1](https://osu.ppy.sh/beatmapsets/1641533) |  |
 | handsome muscle - Lost in nightmare | [#1](https://osu.ppy.sh/beatmapsets/552125) |  |
+| [happy30 - As the wind blows](https://www.youtube.com/watch?v=XFZGRVIji9w)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/355073) |  |
+| [happy30 - wob wob](https://www.youtube.com/watch?v=XFZGRVIji9w) | [#1](https://osu.ppy.sh/beatmapsets/115621) |  |
+| [happy30 - You spin my world](https://open.spotify.com/track/6B0mNLZUnFetKLANIngdHj?si=a89b369cfab34d22)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/485205) |  |
 | Jar - ztrout's Visit to The Proctologist | [#1](https://osu.ppy.sh/beatmapsets/21145) |  |
 | Ketchup - ProjectUnreality | [#1](https://osu.ppy.sh/beatmapsets/9077) |  |
 | [Natteke ft. tieff - Endless Tower](https://www.youtube.com/watch?v=TNAGrCBfQKc)[^fa-feature] | [#1](https://osu.ppy.sh/beatmapsets/17076) | Presentado más tarde en [osu!stream](/wiki/osu!stream) |
 | [Natteke ft. tieff - The Dream](https://www.youtube.com/watch?v=vtVT3A-ALUQ)[^fa-feature] | [#1](https://osu.ppy.sh/beatmapsets/16599#osu/59406) | Presentado más tarde en [osu!stream](/wiki/osu!stream) |
 | [osu! training man - TRAINING-1](https://www.youtube.com/watch?v=jS2r8PuyymI)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1727804) |  |
+| [Porter Robinson & Madeon - Shelter (happy30 Remix)](https://open.spotify.com/album/0hgYsO1FgdGq5now2QjVUn)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/527621) |  |
 | [Rabbit House - Muspelheim](https://soundcloud.com/dksslqj/muspelheim)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/815126) |  |
 | [Shadren - Fanteer](https://soundcloud.com/shadren808/fanteer) | [#1](https://osu.ppy.sh/beatmapsets/725913) |  |
 | tieff - Sound of Night[^fa] | [#1](https://osu.ppy.sh/beatmapsets/15952) |  |
