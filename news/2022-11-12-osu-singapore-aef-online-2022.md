@@ -6,7 +6,7 @@ date: 2022-11-12 04:00:00 +0000
 
 Hot off the heels of DreamJam (as recently featured in osu!monthly), the osu! Singapore community is back for more with the third iteration of GST:LIVE!
 
-![GST:LIVE 2022 Banner](/wiki/shared/news/2022-11-12-osu-singapore-aef-online-2022/banner.jpg)
+![GST:LIVE 2022 Banner](/wiki/shared/news/2022-11-12-osu-singapore-aef-online-2022/banner.png)
 
 This year, the Singapore LAN tournament will be held as part of [Asia Esports Festival Online 2022](https://esportsasia.net), held at Kallang Wave Mall, Singapore on 17th December.
 
@@ -35,7 +35,7 @@ For more information about the tournament, refer to this [wiki article](/wiki/To
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Pending profile badge, Medal, 12 months of osu!supporter |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Medal, 6 months of osu!supporter |
 
-![GST:LIVE 2022 Badge 1](/wiki/shared/news/2022-11-12-osu-singapore-aef-online-2022/badge1.jpg) ![GST:LIVE 2022 Badge2]((/wiki/shared/news/2022-11-12-osu-singapore-aef-online-2022/badge2.jpg))
+![GST:LIVE 2022 Badge 1](/wiki/shared/news/2022-11-12-osu-singapore-aef-online-2022/badge1.png) ![GST:LIVE 2022 Badge2]((/wiki/shared/news/2022-11-12-osu-singapore-aef-online-2022/badge2.png))
 
 ## Schedules
 
