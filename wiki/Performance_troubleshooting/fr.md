@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 3e4e31b7b5983646161932fea4a20b98232ea8e8
----
-
 # Dépannage des performances d'osu!
 
 osu! fait de son mieux pour fonctionner avec des paramètres par défaut sains et vous avertit de manière proactive si vous faites ou exécutez quelque chose qui pourrait entraîner une baisse des performances de votre jeu.
@@ -15,6 +10,7 @@ Malheureusement, en raison de l'étendue du matériel sur lequel fonctionne osu!
 - Votre limiteur d'images est-il réglé sur `Illimité` ? Réglez-le sur `Optimal` et voyez si cela vous aide. Voir [sa section ci-dessous](#illimité) pour plus d'informations sur les raisons pour lesquelles `Illimité` n'est généralement pas le meilleur choix.
 - Vous êtes en mode fenêtré ? Passez en mode plein écran.
 - Avez-vous mis à jour vos pilotes (en particulier le GPU) ? Essayez de le faire et voyez si les choses s'améliorent. Sinon, si vous les avez récemment mis à jour, essayez de revenir en arrière.
+- Votre PC utilise-t-il NVIDIA Optimus ou toute autre configuration graphique hybride similaire ? Si c'est le cas, essayez de forcer le jeu à s'exécuter sur chacun des GPU afin de comparer les performances. Les GPU intégrés fournissent souvent des performances plus constantes sur des jeux comme osu!. Recherchez les "Paramètres graphiques" dans Windows et définissez la préférence graphique d'osu! sur "Économie d'énergie" ou sur "Performances élevées" afin de trouver ce qui fonctionne le mieux.
 
 ## Les types de "lags"
 

@@ -60,7 +60,7 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Portugués |
 | ::{ flag=ES }:: [Didah](https://osu.ppy.sh/users/8030129) | Español |
 | ::{ flag=US }:: [eiri-](https://osu.ppy.sh/users/3388410) | Español |
-| ::{ flag=CA }:: [Elayue](https://osu.ppy.sh/users/6400861) |  |
+| ::{ flag=CN }:: [Elayue](https://osu.ppy.sh/users/6400861) |  |
 | ::{ flag=BE }:: [Enneya](https://osu.ppy.sh/users/10959501) | Neerlandés |
 | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |  |
 | ::{ flag=FI }:: [finnish bn](https://osu.ppy.sh/users/11077540) | Finés |

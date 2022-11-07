@@ -111,22 +111,22 @@ The GB Cup 2022 Autumn is run by the Team GB and various community members.
 | Team A | Team B | Match time (UTC+8) |
 | --: | :-- | :-- |
 | EIPSYKONGROO | 俄亥俄州立大学躁狂播放器 | Nov 5 (Sat) 15:30 |
-| 你说的队 | 无所谓绿皮龙会出手的 | Nov 5 (Sat) 17:00 |
+| BMS精灵 | 素鲍小馆丸子面条铺 | Nov 5 (Sat) 17:00 |
+| 均衡教派 | 我屙屎精灵我交泥如活打屙 | Nov 5 (Sat) 18:30 |
 | 番茄炒树莓 | 队名太多不知道用哪个 | Nov 5 (Sat) 19:00 |
-| 都什么年代还在玩传统音游 | SV狗都不玩 | Nov 5 (Sat) 20:00 |
+| 铁戈金马 | 为所动做为所欲为的所欲为 | Nov 5 (Sun) 19:00 |
+| 都什么年代还在玩传统音游 | SV狗都不玩 | Nov 5 (Sat) 19:30 |
+| 经典米托镂空鱼香鸡肉丸 | 近月少女的礼仪 | Nov 5 (Sat) 19:30 |
 | 奖励一把大天空 | 黎曼猜想 | Nov 5 (Sat) 20:00 |
 | 上课军训补课反正凑不齐人 | 要我一直摆烂摆烂吗 | Nov 5 (Sat) 20:30 |
 | DAMWONGaming | 猫猫面馆 | Nov 5 (Sat) 20:30 |
-| BMS精灵 | 素鲍小馆丸子面条铺 | Nov 5 (Sat) 22:00 |
+| 你说的队 | 无所谓绿皮龙会出手的 | Nov 5 (Sat) 21:00 |
 
 ### Sunday, 6 November 2022
 
 | Team A | Team B | Match time (UTC+8) |
 | --: | :-- | :-- |
 | 又一个倒霉蛋 | ban位先ban行李箱 | Nov 6 (Sun) 17:00 |
-| 铁戈金马 | 为所动做为所欲为的所欲为 | Nov 6 (Sun) 19:00 |
-| 均衡教派 | 我屙屎精灵我交泥如活打屙 | Nov 6 (Sun) 20:30 |
-| 经典米托镂空鱼香鸡肉丸 | 近月少女的礼仪 | Nov 6 (Sun) 22:00 |
 
 ## Mappools
 
@@ -200,10 +200,12 @@ The GB Cup 2022 Autumn is run by the Team GB and various community members.
 | 20 | 要我一直摆烂一直摆烂吗 | 开摆 | 0-1 | 2-6 | -4 | 1 | 2-6 均衡教派 | 凑不齐人 |  |  |
 | 21 | 队名太多不知道用哪个 | 队名难取 | 0-1 | 2-6 | -4 | 1 | 2-6 铁戈金马 | 炒树莓 |  |  |
 | 22 | 无所谓绿皮龙会出手的 | 绿皮龙 | 0-1 | 1-6 | -5 | 1 | 1-6 倒霉蛋 | 你说的队 |  |  |
-| 23 | 俄亥俄州立大学躁狂播放器 |  | 俄亥俄 | 0-1 | 1-6 | -5 | 1 | 1-6 奖励天空 | 石头门 |  |  |
+| 23 | 俄亥俄州立大学躁狂播放器 | 俄亥俄 | 0-1 | 1-6 | -5 | 1 | 1-6 奖励天空 | 石头门 |  |  |
 | 24 | SV狗都不玩 | 不玩SV | 0-1 | 0-6 | -6 | 1 | 0-6 DWG | 传统音游 |  |  |
 
 ### Regular stage week 1
+
+Detailed statistics for this round can be found [here](https://docs.qq.com/sheet/DWm5EcHZaRkZxdW1h).
 
 Saturday, 29 October 2022:
 
