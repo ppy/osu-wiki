@@ -60,7 +60,7 @@ The Rising Global Taiko Showdown 2022 is run by various community members.
 ## Participants
 
 |  | Team | Members |
-| --: | :-- | :-- |
+| :-: | :-- | :-- |
 | ::{ flag=BY }:: | **Belarus** | **[nyTuH](https://osu.ppy.sh/users/13441391)**, [Gordon123](https://osu.ppy.sh/users/2789905) |
 | ::{ flag=BE }:: | **Belgium** | **[Brentywenty](https://osu.ppy.sh/users/22753946)**, [Leon\_ytb123](https://osu.ppy.sh/users/24300079) |
 | ::{ flag=CA }:: | **Canada** | **[bexs](https://osu.ppy.sh/users/3938388)**, [Dau](https://osu.ppy.sh/users/15541593), [DimplesRMe](https://osu.ppy.sh/users/13348268), [Eltigant](https://osu.ppy.sh/users/15191942), [seal--](https://osu.ppy.sh/users/26820002) |
