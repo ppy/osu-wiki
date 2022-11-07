@@ -1,3 +1,9 @@
+---
+tags:
+  - GSTLIVE
+  - GST
+---
+
 # GST:LIVE 2021
 
 ![GST:LIVE 2021](img\banner.jpg)

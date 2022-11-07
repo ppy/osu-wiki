@@ -1,3 +1,9 @@
+---
+tags:
+  - GSTLIVE
+  - GST
+---
+
 # GST:LIVE 2022
 
 ![GST:LIVE 2022 Banner](img\banner.png)
@@ -8,10 +14,10 @@
 
 ### Pre-event
 
-| Event              | Timestamp             |
-| --:|:-- |
+| Event | Timestamp |
+| --: | :-- |
 | Registration phase | 2022-11-12/2022-11-28 |
-| Qualifiers         | 2022-11-28/2022-12-10 |
+| Qualifiers | 2022-11-28/2022-12-10 |
 
 ### On the day of event
 
@@ -44,7 +50,7 @@ GST:LIVE was run by various community members.
 
 ## Links
 
-- [Newspost]()
+- **[Newspost]()**
 - [Discord](https://discord.gg/3YXF2UCEYs)
 - [Website](https://gstlive.org)
 - [Livestream](https://www.twitch.tv/osusg)
