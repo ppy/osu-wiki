@@ -272,6 +272,50 @@ The osu!mania LN Tournament 3 is run by various community members.
 
 ## Match results
 
+### Round of 16
+
+Saturday, 5 November 2022:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| yoppy-yugen ::{ flag=JP }:: | -1 | **0** | ::{ flag=US }:: **DarkMew2** | *win by default* |
+| DC2\_727 ::{ flag=HK }:: | 0 | **5** | ::{ flag=HK }:: **zero2snow** | [#1](https://osu.ppy.sh/community/matches/104866379) |
+| **xxxxxx2800** ::{ flag=MY }:: | **5** | 0 | ::{ flag=US }:: \_Seth | [#1](https://osu.ppy.sh/community/matches/104867839) |
+| iid3rp ::{ flag=PH }:: | 1 | **5** | ::{ flag=ID }:: **Onta\_Bekasi** | [#1](https://osu.ppy.sh/community/matches/104868054) |
+| Unitori- ::{ flag=BH }:: | -1 | **0** | ::{ flag=MY }:: **StyGix** | *win by default* |
+| SuddenDeath ::{ flag=KR }:: | -1 | **0** | ::{ flag=CL }:: **Jeanne Da Rin** | *win by default* |
+| -Einar- ::{ flag=MY }:: | -1 | **0** | ::{ flag=PH }:: **Dyei** | *win by default* |
+| **Achino** ::{ flag=TH }:: | **5** | 2 | ::{ flag=BR }:: Zergh | [#1](https://osu.ppy.sh/community/matches/104873249) |
+| **ERA Frossno** ::{ flag=PH }:: | **5** | 2 | ::{ flag=DE }:: ERA medium kek | [#1](https://osu.ppy.sh/community/matches/104873245) |
+| JayLye ::{ flag=MY }:: | 2 | **5** | ::{ flag=SG }:: **sukidayo** | [#1](https://osu.ppy.sh/community/matches/104873032) |
+| \[Crz\]sunnyxxy ::{ flag=CN }:: | 2 | **5** | ::{ flag=AU }:: **ruka** | [#1](https://osu.ppy.sh/community/matches/104874513) |
+| **MIkuaimbot** ::{ flag=TH }:: | **5** | 2 | ::{ flag=SG }:: -Aishiteru- | [#1](https://osu.ppy.sh/community/matches/104874311) |
+| **AdamAckerville** ::{ flag=SG }:: | **5** | 1 | ::{ flag=GB }:: syaro- | [#1](https://osu.ppy.sh/community/matches/104877257) |
+| **--Pavin--** ::{ flag=TH }:: | **5** | 3 | ::{ flag=FR }:: Auraah | [#1](https://osu.ppy.sh/community/matches/104877464) |
+| grillroasted ::{ flag=CZ }:: | 2 | **5** | ::{ flag=CA }:: **UmmmMrMoo** | [#1](https://osu.ppy.sh/community/matches/104880322) |
+| **TingMomentum** ::{ flag=GB }:: | **5** | 0 | ::{ flag=US }:: SunApple | [#1](https://osu.ppy.sh/community/matches/104879048) |
+| **walmart5193** ::{ flag=CA }:: | **5** | 2 | ::{ flag=PE }:: -Lalito898 | [#1](https://osu.ppy.sh/community/matches/104881694) |
+
+Sunday, 6 November 2022:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| \[GS\]linc ::{ flag=US }:: | 0 | **5** | ::{ flag=US }:: **ASharpp** | [#1](https://osu.ppy.sh/community/matches/104889436) |
+| **nanonbandusty** ::{ flag=TH }:: | **0** | -1 | ::{ flag=GT }:: Gezideo | *win by default* |
+| **GripWarrior** ::{ flag=US }:: | **5** | 0 | ::{ flag=KR }:: Lami- | [#1](https://osu.ppy.sh/community/matches/104892210) |
+| ERA Frossno ::{ flag=PH }:: | 0 | **5** | ::{ flag=TH }:: **Achino** | [#1](https://osu.ppy.sh/community/matches/104893012) |
+| **zero2snow** ::{ flag=HK }:: | **5** | 1 | ::{ flag=SG }:: sukidayo- | [#1](https://osu.ppy.sh/community/matches/104893928) |
+| **Silhoueska Elze** ::{ flag=PH }:: | **5** | 0 | ::{ flag=KR }:: Flying Samira | [#1](https://osu.ppy.sh/community/matches/104898695) |
+| **ShiroPeDeFresa** ::{ flag=ES }:: | **5** | 1 | ::{ flag=PH }:: Eon Musk | [#1](https://osu.ppy.sh/community/matches/104898698) |
+| **jhleetgirl** ::{ flag=JP }:: | **5** | 0 | ::{ flag=NL }:: Shoira | [#1](https://osu.ppy.sh/community/matches/104899665) |
+| **xxxxxx2800** ::{ flag=MY }:: | **5** | 2 | ::{ flag=TH }:: nanonbandusty | [#1](https://osu.ppy.sh/community/matches/104899572) |
+| **Onta\_Bekasi** ::{ flag=ID }:: | **5** | 2 | ::{ flag=PH }:: Dyei | [#1](https://osu.ppy.sh/community/matches/104899700) |
+| **DemiFiendSMT** ::{ flag=BR }:: | **0** | -1 | ::{ flag=KR }:: gaesol | *win by default* |
+| **ShiroPeDeFresa** ::{ flag=ES }:: | **5** | 0 | ::{ flag=MY }:: StyGix | [#1](https://osu.ppy.sh/community/matches/104900815) |
+| Jeanne Da Rin ::{ flag=CL }:: | 0 | **5** | ::{ flag=AU }:: **ruka** | [#1](https://osu.ppy.sh/community/matches/104901144) |
+| AdamAckerville ::{ flag=SG }:: | 3 | **5** | ::{ flag=US }:: **DarkMew2** | [#1](https://osu.ppy.sh/community/matches/104903601), [#2](https://osu.ppy.sh/community/matches/104904096) |
+| walmart5193 ::{ flag=CA }:: | 1 | **5** | ::{ flag=US }:: **ASharpp** | [#1](https://osu.ppy.sh/community/matches/104910139) |
+
 ### Round of 32
 
 Saturday, 29 October 2022:
