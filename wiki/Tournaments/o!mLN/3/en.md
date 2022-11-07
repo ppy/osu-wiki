@@ -190,6 +190,31 @@ The osu!mania LN Tournament 3 is run by various community members.
 
 ## Mappools
 
+### Quarterfinals
+
+**[Download the mappack here! (127 MB)](https://drive.google.com/drive/folders/1tIa27MmLxpD-Ko9B0FQmJKwukWgHP-Nz?usp=sharing)**
+
+- Coordination
+  1. [polysha - Uron (Eclipse-) \[Lavender Blaze \[1,1x Rate\]\]](https://osu.ppy.sh/beatmapsets/1809092#mania/3710492)
+  2. [YOASOBI - Romance (Hylotl) \[Love letter\]](https://osu.ppy.sh/beatmapsets/1758483#mania/3598728)
+  3. [Three feat.Kagamine Len - Ego Rock (Raveille) \[Nonsensu\]](https://osu.ppy.sh/beatmapsets/1880547#mania/3871591)
+- Technical
+  1. [Kairiki Bear - Bug (Micleak) \[Flawful\]](https://osu.ppy.sh/beatmapsets/1854104#mania/3866387)
+  2. [Giga ft. Kagamine Rin & Len - BRING IT ON (DannyPX) \[GIVE IT ALL (cut)\]](https://osu.ppy.sh/beatmapsets/1239671#mania/3836004)
+  3. [Makari - Labyrinth (Abraxos) \[Although of course you end up becoming yourself\]](https://osu.ppy.sh/beatmapsets/1291607#mania/2680883)
+- Wildcard
+  1. [technoplanet - Intuition (FelixSpade) \[Presentiment\]](https://osu.ppy.sh/beatmapsets/1880770#mania/3872003)
+  2. [Taishi - INSIDE BLUE INSIDE - Part2 (Cut Ver.) (Ballistic) \[Demersal\]](https://osu.ppy.sh/beatmapsets/1879734#mania/3869753)
+  3. [HowToPlayLN - Normal Distribution (takehirotei "t-distribution" remix) (HowToPlayLN) \[There is no turning back\]](https://osu.ppy.sh/beatmapsets/1880819#mania/3872087)
+  4. [Yuyoyuppe feat. Hatsune Miku - My fxxkin desire for you (Penguinosity) \[Absent\]](https://osu.ppy.sh/beatmapsets/1529612#mania/3128830)
+- Density
+  1. [penoreri - Reverenced Flower (Saemitsu) \[Ortlinde=NBLG=Saekyria's Prophecy\]](https://osu.ppy.sh/beatmapsets/1575695#mania/3217013)
+  2. [COSIO(ZUNTATA) - FUJIN Rumble (Penguinosity) \[Mizu 1.15\]](https://osu.ppy.sh/beatmapsets/1633443#mania/3334065)
+  3. [Feint - Tower Of Heaven (You Are Slaves) (HowToPlayLN) \[Eternal Bliss \[1.05x Rate\]\]](https://osu.ppy.sh/beatmapsets/1880082#mania/3870448)
+  4. [SynthWulf - POINT ZERO 2 (\[Crz\]Crysarlene) \[. 0 2 + + \[1.1x Rate\]\]](https://osu.ppy.sh/beatmapsets/1161517#mania/3857017)
+- Tiebreaker
+  1. **[ikaruga\_nex vs. Kagetora. - Grabinschrift der Goetter (DannyPX) \[Edit\]](https://osu.ppy.sh/beatmapsets/1880825#mania/3872095)**
+
 ### Round of 16
 
 **[Download the mappack here! (100 MB)](https://drive.google.com/drive/folders/17F9S79rVU-Ch4OGz5sHzcs7B6FxfT-T6?usp=sharing)**
