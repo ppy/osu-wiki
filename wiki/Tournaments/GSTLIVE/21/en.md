@@ -6,7 +6,7 @@ tags:
 
 # GST:LIVE 2021
 
-![GST:LIVE 2021](img\banner.jpg)
+![GST:LIVE 2021](img/banner.jpg)
 
 **GST:LIVE 2021** was a 1v1 single-elimination osu! tournament hosted by ::{ flag=SG }:: [megumic](https://osu.ppy.sh/users/7537133). It was held on the 14th of March at Bountie Arena.
 

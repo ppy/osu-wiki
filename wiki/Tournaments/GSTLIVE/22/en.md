@@ -6,7 +6,7 @@ tags:
 
 # GST:LIVE 2022
 
-![GST:LIVE 2022 Banner](img\banner.png)
+![GST:LIVE 2022 Banner](img/banner.png)
 
 **GST:LIVE 2022** is a 2v2 single-elimination osu! tournament hosted by ::{ flag=SG }:: [megumic](https://osu.ppy.sh/users/7537133) and ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957). It is to be held on the 17th of December in conjunction with [Asia Esports Festival Online 2022](https://esportsasia.net/upcoming-events/aef-online-2022/). 
 
@@ -34,7 +34,7 @@ tags:
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Pending profile badge, Medal, 12 months of osu!supporter |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Medal, 6 months of osu!supporter |
 
-![GST:LIVE 2022 Badge1](img\badge1.png) ![GST:LIVE 2022 Badge2](img\badge2.png)
+![GST:LIVE 2022 Badge1](img/badge1.png) ![GST:LIVE 2022 Badge2](img/badge2.png)
 
 ## Organisation
 
