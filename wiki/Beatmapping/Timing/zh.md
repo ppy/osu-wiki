@@ -9,7 +9,7 @@
 - 使用 [Nightcore](/wiki/Gameplay/Game_modifier/Nightcore) 模组时，给音乐添加动次打次音效
 - 控制 [osu!taiko](/wiki/Game_mode/osu!taiko) 和 [osu!mania](/wiki/Game_mode/osu!mania) 模式的小节线
 
-时间轴反映了**指定歌曲的部分特征**。如果更换或者修改了歌曲文件，影响了波形，此时可能会影响到原先测定好的时间轴。所以建议先按照[谱面上架标准 (RC)](/wiki/Ranking_Criteria#audio) 来处理将用于作图的歌曲文件，再测量歌曲的时间轴。
+时间轴反映了**指定歌曲的部分特征**。如果更换或者修改了歌曲文件，影响了波形，此时可能会影响到原先测定好的时间轴。所以建议先按照[谱面上架标准 (RC)](/wiki/Ranking_Criteria#音频) 来处理将用于作图的歌曲文件，再测量歌曲的时间轴。
 
 ## 歌曲结构
 
@@ -52,7 +52,7 @@
 
 广泛地说，测定时间轴 (Timing) 需要大量的耐心和良好的乐感，是非常难掌握的作图技巧。因此，在公共聊天频道或者论坛里，向其他谱师或者摸图员寻求帮助的情况很常见。有一条专门用于讨论并解决此问题的论坛讨论帖“[测不准时间轴？在这里求助 (Unable to find the BPM/offset of your map? Post here)](https://osu.ppy.sh/community/forums/topics/13795)”——它记录了 13 年以来的 5000 多条求助与解答。
 
-[谱面上架标准 (RC)](/wiki/Ranking_Criteria#audio) 包含一段专用于测量时间轴 (Timing)，并在[谱面上架](/wiki/Beatmap_ranking_procedure)时需要遵守的规定。
+[谱面上架标准 (RC)](/wiki/Ranking_Criteria#音频) 包含一段专用于测量时间轴 (Timing)，并在[谱面上架](/wiki/Beatmap_ranking_procedure)时需要遵守的规定。
 
 ## 参见
 
