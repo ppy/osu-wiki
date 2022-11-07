@@ -8,7 +8,7 @@ tags:
 
 ![GST:LIVE 2022 Banner](img/banner.png)
 
-**GST:LIVE 2022** is a 2v2 single-elimination osu! tournament hosted by ::{ flag=SG }:: [megumic](https://osu.ppy.sh/users/7537133) and ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957). It is to be held on the 17th of December in conjunction with [Asia Esports Festival Online 2022](https://esportsasia.net/upcoming-events/aef-online-2022/). 
+**GST:LIVE 2022** is a 2v2 single-elimination osu! tournament hosted by ::{ flag=SG }:: [megumic](https://osu.ppy.sh/users/7537133) and ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957). It is to be held on the 17th of December in conjunction with [Asia Esports Festival Online 2022](https://esportsasia.net/upcoming-events/aef-online-2022/) (AEF Online 2022). 
 
 ## Tournament schedule
 
@@ -31,7 +31,7 @@ tags:
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Pending profile badge, Medal, 12 months of osu!supporter |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, Medal, 12 months of osu!supporter |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Medal, 6 months of osu!supporter |
 
 ![GST:LIVE 2022 Badge1](img/badge1.png) ![GST:LIVE 2022 Badge2](img/badge2.png)
@@ -70,11 +70,11 @@ GST:LIVE was run by various community members.
 
 ### Registration
 
-1. Registration will be through the GST:LIVE website.
+1. Registration will be through the [GST:LIVE website](https://gstlive.org).
 
 2. There is Badge Weighted Seeding (BWS) in effect; the formula is rank^(0.9937^(badges^2)).
 
-3. Average team BWS rank must be lower than #2000.
+3. Average team BWS rank must be #2000 or lower.
 
 ### Qualifiers regulations
 
@@ -88,7 +88,7 @@ GST:LIVE was run by various community members.
 
 ### Bracket stage regulations
 
-1. The Bracket Stage will be held **offline** on 17th December at AEF Online. **By signing up, you agree that you are free and will be showing up to the event should you place top 8 in Qualifiers.** Should there be an emergency such that you are unable to make the event, please let The Staff know by messaging **megumic** (ue#0001) or **\_gt** (gt#8668) on Discord.
+1. The Bracket Stage will be held **offline** on 17th December 2022 at AEF Online 2022. **By signing up, you agree that you are free and will be showing up to the event should you place top 8 in Qualifiers.** Should there be an emergency such that you are unable to make the event, please let The Staff know by messaging **megumic** (ue#0001) or **\_gt** (gt#8668) on Discord.
 
 2. If a player is not present at the time of their match, the match will be forfeited. **The Staff reserve the right to ban absent players for future iterations of GST and GST:LIVE.**
 

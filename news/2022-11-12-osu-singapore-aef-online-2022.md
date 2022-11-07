@@ -32,10 +32,10 @@ For more information about the tournament, refer to this [wiki article](/wiki/To
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Pending profile badge, Medal, 12 months of osu!supporter |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, Medal, 12 months of osu!supporter |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Medal, 6 months of osu!supporter |
 
-![GST:LIVE 2022 Badge 1](/wiki/shared/news/2022-11-12-osu-singapore-aef-online-2022/badge1.png) ![GST:LIVE 2022 Badge2]((/wiki/shared/news/2022-11-12-osu-singapore-aef-online-2022/badge2.png))
+![GST:LIVE 2022 Badge 1](/wiki/shared/news/2022-11-12-osu-singapore-aef-online-2022/badge1.png) ![GST:LIVE 2022 Badge 2](/wiki/shared/news/2022-11-12-osu-singapore-aef-online-2022/badge2.png)
 
 ## Schedules
 
@@ -54,7 +54,7 @@ For more information about the tournament, refer to this [wiki article](/wiki/To
 | Semifinals | 16:40 - 18:40 (UTC+08) |
 | Finals | 18:40 (UTC+08) |
 
-For those unable to attend, the entire event will be streamed live on the [osu!Singapore Twitch channel](https://twitch.tv/osusg)!
+For those unable to attend, the entire event will be streamed live on the [osu! Singapore Twitch channel](https://twitch.tv/osusg)!
 
 See you there!
 
