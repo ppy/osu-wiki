@@ -1,6 +1,6 @@
 # osu! 上架标准
 
-***注意: 此页面是游戏[通用上架标准 (RC)](/wiki/Ranking_Criteria)的扩展。***
+***注意: 此页面是[通用上架标准 (RC)](/wiki/Ranking_Criteria)的扩展。***
 
 若要将 [osu!](/wiki/Game_mode/osu!) 特定模式的[谱面](/wiki/Beatmap)，通过[谱面上架程序](/wiki/Beatmap_ranking_procedure)上架，则必须遵守 **osu! 上架标准 (osu! Ranking Criteria)** 内所陈列的[规定和准则](/wiki/Ranking_Criteria#一般术语)。
 
