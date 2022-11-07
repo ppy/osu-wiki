@@ -432,6 +432,7 @@ Todos los osu! originals que han sido licenciados por el juego están autorizado
 | Canción | Notas |
 | :-: | :-- |
 | [BilliumMoto - HDHR](https://soundcloud.com/billiummoto/hdhr)[^fa-catalogue] | Entrada ganadora, presentado más tarde en [Monthly Beatmapping Contest #13](https://osu.ppy.sh/home/news/2016-12-09-monthly-beatmapping-contest-13-now-open) |
+| [happy30 - Circles!](https://open.spotify.com/track/2d2V6ZECeFKTbF7GK55Tvp)[^fa-catalogue] |  |
 | [nekodex - circles! (\[ Argon \] Remix)](https://assets.ppy.sh//contests/1/entries/9.mp3) |  |
 | [nekodex - circles! (\[ iL \] Remix)](https://assets.ppy.sh//contests/1/entries/6.mp3) |  |
 | [nekodex - circles! (Alarido Remix)](https://assets.ppy.sh//contests/1/entries/2.mp3) |  |
@@ -442,7 +443,6 @@ Todos los osu! originals que han sido licenciados por el juego están autorizado
 | [nekodex - circles! (Flanster Remix)](https://assets.ppy.sh//contests/1/entries/10.mp3) |  |
 | [nekodex - circles! (Frail Remix)](https://assets.ppy.sh//contests/1/entries/8.mp3) |  |
 | [nekodex - circles! (Halzyn Remix)](https://assets.ppy.sh//contests/1/entries/20.mp3) |  |
-| [nekodex - circles! (happy30 Remix)](https://soundcloud.com/happy30/circles-happy30-remix)[^fa-catalogue] |  |
 | [nekodex - circles! (IOVANOVICI Remix)](https://assets.ppy.sh//contests/1/entries/14.mp3) |  |
 | [nekodex - circles! (ItsMapleLeaf Remix)](https://assets.ppy.sh//contests/1/entries/13.mp3) |  |
 | [nekodex - circles! (jukosi Remix)](https://assets.ppy.sh//contests/1/entries/18.mp3) |  |
@@ -485,7 +485,7 @@ Todos los osu! originals que han sido licenciados por el juego están autorizado
 | handsome muscle - Lost in nightmare | [#1](https://osu.ppy.sh/beatmapsets/552125) |  |
 | [happy30 - As the wind blows](https://www.youtube.com/watch?v=XFZGRVIji9w)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/355073) |  |
 | [happy30 - wob wob](https://www.youtube.com/watch?v=XFZGRVIji9w) | [#1](https://osu.ppy.sh/beatmapsets/115621) |  |
-| [happy30 - You spin my world](https://open.spotify.com/track/6B0mNLZUnFetKLANIngdHj?si=a89b369cfab34d22)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/485205) |  |
+| [happy30 - You spin my world](https://open.spotify.com/track/6B0mNLZUnFetKLANIngdHj)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/485205) |  |
 | Jar - ztrout's Visit to The Proctologist | [#1](https://osu.ppy.sh/beatmapsets/21145) |  |
 | Ketchup - ProjectUnreality | [#1](https://osu.ppy.sh/beatmapsets/9077) |  |
 | [Natteke ft. tieff - Endless Tower](https://www.youtube.com/watch?v=TNAGrCBfQKc)[^fa-feature] | [#1](https://osu.ppy.sh/beatmapsets/17076) | Presentado más tarde en [osu!stream](/wiki/osu!stream) |
