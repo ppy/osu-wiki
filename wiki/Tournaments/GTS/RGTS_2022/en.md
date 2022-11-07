@@ -49,8 +49,10 @@ The Rising Global Taiko Showdown 2022 is run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1658437)
+- [GTS Bandcamp](https://gtsosu.bandcamp.com/)
 - [GTS Discord server](https://discord.gg/3mGC3HB)
-- [GTS website](https://gtsosu.com/rgts/home)
+- [GTS tournament skin](https://mega.nz/file/TFJC2JrS#bjNMOlfAHYdGsW2nHGEBWDpnjO9Z2nSz9owAekiGynU)
+- [RGTS 2022 website](https://gtsosu.com/rgts/home)
 - Livestream
   - [GTSosu](https://www.twitch.tv/gtsosu)
   - [GTSosu\_b](https://www.twitch.tv/gtsosu_b)
