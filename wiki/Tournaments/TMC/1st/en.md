@@ -80,7 +80,7 @@ The **Touhou Project Mania Cup 1st** (***TMC 1st***) is a team-based 2v2 osu!man
 | MY 2.5 + TH 1.5 | ::{ flag=MY }:: [Expired112](https://osu.ppy.sh/users/8782656), ::{ flag=MY }:: [Unicow](https://osu.ppy.sh/users/9444174), ::{ flag=MY }:: [Cryolien](https://osu.ppy.sh/users/1626983), ::{ flag=TH }:: [osu_player420](https://osu.ppy.sh/users/13018880) |
 | SMOrcat | ::{ flag=TW }:: [Joylintp](https://osu.ppy.sh/users/13579078), ::{ flag=TW }:: [opl95173](https://osu.ppy.sh/users/7227070), ::{ flag=TW }:: [LaoXiao-](https://osu.ppy.sh/users/2393571), ::{ flag=TW }:: [mmi366127](https://osu.ppy.sh/users/2393571) |
 | N.Z. Owen Was Her? | ::{ flag=NZ }:: [- Abby -](https://osu.ppy.sh/users/7740118), ::{ flag=NZ }:: [Sparxe](https://osu.ppy.sh/users/5750235), ::{ flag=NZ }:: [Diony](https://osu.ppy.sh/users/4294475) |
-| Leen Bakker | ::{ flag=NL }:: [Mierf](https://osu.ppy.sh/users/9529504), ::{ flag=NL }:: [\_Avie](https://osu.ppy.sh/users/8368678), ::{ flag=NL }:: [Kjevin118221](https://osu.ppy.sh/users/13114629), ::{ flag=NZ }:: [Harvey](https://osu.ppy.sh/users/3897387) |
+| Leen Bakker | ::{ flag=NL }:: [Mierf](https://osu.ppy.sh/users/9529504), ::{ flag=NL }:: [\_Avie](https://osu.ppy.sh/users/8368678), ::{ flag=NL }:: [Kjevin118221](https://osu.ppy.sh/users/13114629), ::{ flag=NL }:: [Harvey](https://osu.ppy.sh/users/3897387) |
 | How to SV | ::{ flag=HK }:: [Se1ya](https://osu.ppy.sh/users/6338609), ::{ flag=HK }:: [Yasmine](https://osu.ppy.sh/users/244764) |
 | Mai Chai Kon | ::{ flag=TH }:: [FarmMyLife](https://osu.ppy.sh/users/12621947), ::{ flag=TH }:: [KillerPooN](https://osu.ppy.sh/users/9200617) |
 | Arrow Gang | ::{ flag=FR }:: [babibelbleu](https://osu.ppy.sh/users/16892459), ::{ flag=CA }:: [Goda](https://osu.ppy.sh/users/9538689) |
