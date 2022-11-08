@@ -66,7 +66,7 @@ Bedenke, dass sich die Berechnungsmethode in [ScoreV2](/wiki/Game_modifier/Score
 
 ## Trivia
 
-- Die Mod Hard Rock ist nach der höchsten Schwierigkeitsstufe des Spiels "[Elite Beat Agents](/wiki/iNiS_games)" für den [Nintendo DS](https://en.wikipedia.org/wiki/Nintendo_DS) benannt.
+- Die Mod Hard Rock ist nach der höchsten Schwierigkeitsstufe des Spiels "[Elite Beat Agents](/wiki/iNiS_games)" für den [Nintendo DS](https://de.wikipedia.org/wiki/Nintendo_DS) benannt.
 - Die Mod Hard Rock hebt die Mod [Easy](/wiki/Game_modifier/Easy) auf und umgekehrt.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
