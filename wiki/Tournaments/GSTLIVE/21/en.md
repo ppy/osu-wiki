@@ -2,13 +2,14 @@
 tags:
   - GSTLIVE
   - GST
+  - GST LIVE
 ---
 
 # GST:LIVE 2021
 
 ![GST:LIVE 2021](img/banner.jpg)
 
-**GST:LIVE 2021** was a 1v1 single-elimination osu! tournament hosted by ::{ flag=SG }:: [megumic](https://osu.ppy.sh/users/7537133). It was held on the 14th of March at Bountie Arena.
+**GST:LIVE 2021** was a 1v1 single-elimination osu! tournament hosted by ::{ flag=SG }:: [megumic](https://osu.ppy.sh/users/7537133). It was the first iteration of GST:LIVE, held on the 14 March 2021 at Bountie Arena.
 
 ## Tournament schedule
 
@@ -18,19 +19,19 @@ tags:
 | --: | :-- |
 | Registration phase | 2021-02-25/2022-03-06 |
 
-### 2022-03-14
+### Day of the event (14 March 2021)
 
-| Event | Timestamp |
+| Event | Timestamp (UTC+08) |
 | --: | :-- |
-| Quarterfinals | 13:00 - 15:00 (UTC+08) |
-| Semifinals | 15:00 - 16:20 (UTC+08) |
-| Quarterfinals | 16:20 - 17:00 (UTC+08) |
+| Quarterfinals | 13:00 – 15:00 |
+| Semifinals | 15:00 – 16:20 |
+| Quarterfinals | 16:20 – 17:00 |
 
 ## Prizes
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Medal |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Phyiscal medal |
 
 ## Organisation
 
@@ -38,7 +39,7 @@ GST:LIVE 2021 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organizer | ::{ flag=SG }:: [megumic](https://osu.ppy.sh/users/7537133) |
+| Organiser | ::{ flag=SG }:: [megumic](https://osu.ppy.sh/users/7537133) |
 | GFX | ::{ flag=SG }:: [Hecatia](https://osu.ppy.sh/users/8244635) |
 | On-site staff | ::{ flag=SG }:: [k_1tty](https://osu.ppy.sh/users/5407620) ::{ flag=SG }::, [Loslite](https://osu.ppy.sh/users/6398160), ::{ flag=SG }:: [phox](https://osu.ppy.sh/users/772295), ::{ flag=SG }:: [sinn](https://osu.ppy.sh/users/4262229) |
 | Wiki editor | ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957) |
@@ -51,7 +52,7 @@ GST:LIVE 2021 was run by various community members.
 
 ## Participants
 
-Listed below are the players in the tournament, who were randomly selected from the signups.
+In lieu of qualifiers, the participating players were selected randomly from the signups.
 
 - ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957)
 - ::{ flag=SG }:: [fausion](https://osu.ppy.sh/users/12261210)
@@ -73,7 +74,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Mappools
 
-### Semifinals/Finals
+### Semifinals & Finals
 
 - NoMod
   1. [Yunomi - Oedo Controller (feat. TORIENA) (Mentai) [Until the End of the Universe]](https://osu.ppy.sh/beatmapsets/759903#osu/1610200)
@@ -116,25 +117,27 @@ This competition has come to an end and resulted in the following podium:
 
 ## Match results
 
-### Finals
+### Sunday, 14 March 2021:
+
+#### Finals
 
 | Player 1 | | | Player 2 | Match link |
 | --: |:-: | :-: | :-- | :-- |
 | Dawnwing | **4** | 2 | Rtzero | [#1](https://osu.ppy.sh/community/matches/78039075) |
 
-### Semifinals
+#### Semifinals
 
 | Player 1 | | | Player 2 | Match link |
 | --: |:-: | :-: | :-- | :-- |
 | fausion | 0 | **4** | Dawnwing | [#1](https://osu.ppy.sh/community/matches/78037418) |
 | Rtzero | **4** | 1 | Jazzie | [#1](https://osu.ppy.sh/community/matches/78038050) |
 
-### Quarterfinals
+#### Quarterfinals
 
 | Player 1 | | | Player 2 | Match link |
 | --: |:-: | :-: | :-- | :-- |
 | fausion | **3** | 2 | Lunarsol | [#1](https://osu.ppy.sh/community/matches/78030580) |
-| \_gt      | 2 | **3** | Dawnwing | [#1](https://osu.ppy.sh/community/matches/78032989) |
+| \_gt | 2 | **3** | Dawnwing | [#1](https://osu.ppy.sh/community/matches/78032989) |
 | Stylus | 2 | **3** | Rtzero | [#1](https://osu.ppy.sh/community/matches/78034404) |
 | Jazzie | **3** | 2 | Ayano_ | [#1](https://osu.ppy.sh/community/matches/78035998) |
 
@@ -142,22 +145,15 @@ This competition has come to an end and resulted in the following podium:
 
 ### Tournament registration
 
-1. 1v1 open rank, 8 player single elimination tournament
-
-2. 8 players will be randomly chosen from the signups, then randomly seeded into the bracket
+1. GST:LIVE 2021 is an open rank, 8-player, single-elimination, 1v1 tournament.
+2. 8 players will be randomly chosen from the signups, then randomly seeded into the bracket.
 
 ### Match regulations
 
-1. Once both players are in the lobby, they will !roll. The higher rolling player gets first ban first pick.
-
-2. PLayers are not allowed to ban out a mod pool, but are allowed to ban from the same mod pool as long as there is at least one map in that mod pool left.
-
+1. Once both players are in the lobby, they will `!roll`. The higher-rolling player gets the first ban and first pick.
+2. Players are not allowed to ban the last available map in a modpool.
 3. Each player is allowed 2 bans per match. Banned maps are effectively removed from the mappool for the duration of the match and are not allowed to be picked.
-
-4. Players have 2 minutes to select a map; if they fail to choose in the allotted time, the map choice will pass to the other player. This will have no effect on the order of picks afterward.
-
+4. Players have 2 minutes to select a map; if they fail to choose in the allotted time, the map choice will be passed to the other player. This will have no effect on the order of picks afterwards.
 5. Players may pick maps freely from any mod pool, barring the maps that have been banned.
-
-6. Once the map choice is locked in, players will have 90 seconds to ready up. The referee will start the match when all players are ready. If the 90 second timer ends, the referee will force the map to begin in 10 seconds, and the match will start with whoever is in the lobby.
-
-7. For Tiebreaker, Freemod will be enabled. NoFail is ENFORCED. Mods allowed: Hidden, Hard Rock, Flashlight, Easy. (Scores with Easy are mutliplied by 2.0x). 
+6. Once the map choice is locked in, players will have 90 seconds to ready up. The referee will start the match when all players are ready. If the 90-second timer ends, the referee will force the map to begin in 10 seconds, and the match will start with whoever is in the lobby.
+7. For tiebreakers, Free Mod will be enabled. **No Fail is enforced.** The allowed mods are Hidden, Hard Rock, Flashlight, and Easy. (Scores with Easy are multiplied by 2.0x) 
