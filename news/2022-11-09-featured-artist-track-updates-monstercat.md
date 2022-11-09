@@ -10,7 +10,7 @@ A truckload of new **Monstercat** tracks have been delivered to our Featured Art
 
 We're going off-script today. Usually we showcase a new Featured Artist every Wednesday and Saturday, but we have a ton of new **Monstercat** tunes to throw at you, and almost all of them come from different artists.
 
-Instead of creating a bunch of Featured Artist listings with 1 song each, we decided to slam all **16** new songs onto the [**Monstercat**'s listing](https://osu.ppy.sh/beatmaps/artists/255)!
+Instead of creating a bunch of Featured Artist listings with 1 song each, we decided to slam all **16** new songs onto the [**Monstercat** listing](https://osu.ppy.sh/beatmaps/artists/255)!
 
 For convenience, here's a full list of every newly added tune:
 
@@ -41,7 +41,7 @@ Curious how these songs translate to circle clicking? Check out this video highl
 
 ### Pixel Terror - Contra (feat. Sara Skinner)
 
-Experience some visual spectacle [this map](https://osu.ppy.sh/beatmapsets/1325570) hosted by Elite Storyboarder [VenerableNyanta](https://osu.ppy.sh/users/12243368)!
+Experience [this visual spectacle](https://osu.ppy.sh/beatmapsets/1325570) hosted by Elite Storyboarder [VenerableNyanta](https://osu.ppy.sh/users/12243368)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/255/Songs/Pixel%20Terror%20-%20Contra%20(feat.%20Sara%20Skinner).mp3" type="audio/mpeg">
@@ -49,7 +49,7 @@ Experience some visual spectacle [this map](https://osu.ppy.sh/beatmapsets/13255
 
 ### 7 Minutes Dead - The Follower
 
-Enjoy this [massive collab marathon](https://osu.ppy.sh/beatmapsets/842440) hosted by [DeRandom Otaku](https://osu.ppy.sh/users/5156153)!
+Enjoy [this massive collab marathon](https://osu.ppy.sh/beatmapsets/842440) hosted by [DeRandom Otaku](https://osu.ppy.sh/users/5156153)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/255/Songs/7%20Minutes%20Dead%20-%20The%20Follower.mp3" type="audio/mpeg">
