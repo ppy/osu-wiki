@@ -206,4 +206,3 @@ After the conclusion of the Spring 2021 season, the project went on hiatus, whic
 [^charts-renamed-into-spotlights]: [News post by OnosakiHito (2017-03-18) "Introducing to you: Spotlights"](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights)
 [^spotlights-seasonal]: [News post by Kurokami (2018-11-01) "Seasonal Spotlights: Summer 2018"](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018)
 [^spotlights-reworked-20-june]: [Forum thread by Loctav (2020-07-06) "Beatmap Spotlights (Summer 2020) - Discussion Thread"](https://osu.ppy.sh/community/forums/topics/1101170)
-[^spotlights-reworked-20-june]: [Forum thread by Loctav (2020-07-06) "Beatmap Spotlights (Summer 2020) - Discussion Thread"](https://osu.ppy.sh/community/forums/topics/1101170)
