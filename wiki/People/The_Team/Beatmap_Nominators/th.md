@@ -50,7 +50,7 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | :-- | :-- |
 | ::{ flag=PH }:: [-Aqua](https://osu.ppy.sh/users/7150015) | ฟิลิปปินส์ |
 | ::{ flag=IT }:: [-Syncro](https://osu.ppy.sh/users/4338923) | อิตาลี |
-| ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083) |  |
+| ::{ flag=FI }:: [Aakki](https://osu.ppy.sh/users/11077540) | ฟินแลนด์ |
 | ::{ flag=KR }:: [Amamya](https://osu.ppy.sh/users/1997633) | เกาหลี |
 | ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599) | อิตาลี |
 | ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549) |  |
@@ -93,7 +93,6 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | ::{ flag=FI }:: [TheKingHenry](https://osu.ppy.sh/users/5128277) | ฟินแลนด์ |
 | ::{ flag=TH }:: [timemon](https://osu.ppy.sh/users/2072005) | ไทย |
 | ::{ flag=LT }:: [tomatas95](https://osu.ppy.sh/users/11403815) | ลิทัวเนีย |
-| ::{ flag=CL }:: [Uberzolik](https://osu.ppy.sh/users/1314547) | สเปน, ฝรั่งเศส |
 | ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) |  |
 | ::{ flag=CA }:: [Vararaup](https://osu.ppy.sh/users/8257675) |  |
 | ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) |  |
@@ -113,13 +112,11 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | จีน, กวางตุ้ง |
 | ::{ flag=MX }:: [DakeDekaane](https://osu.ppy.sh/users/1425253) | สเปน |
 | ::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142) | เวียดนาม |
-| ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | อูรดู, อาหรับ บ้าง |
 | ::{ flag=US }:: [eiri-](https://osu.ppy.sh/users/3388410) | สเปน |
 | ::{ flag=JP }:: [Eriha](https://osu.ppy.sh/users/16320311) | ญี่ปุ่น |
 | ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851) | เยอรมัน |
 | ::{ flag=US }:: [hac](https://osu.ppy.sh/users/17853754) |  |
 | ::{ flag=IE }:: [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) |  |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | อาหรับ, ฝรั่งเศส, อิตาลี บ้าง |
 | ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | โปรตุเกส |
 | ::{ flag=NL }:: [ikin5050](https://osu.ppy.sh/users/4007649) | ดัตช์ |
 | ::{ flag=US }:: [Jonarwhal](https://osu.ppy.sh/users/3653035) |  |

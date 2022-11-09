@@ -49,7 +49,7 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | :-- | :-- |
 | ::{ flag=PH }:: [-Aqua](https://osu.ppy.sh/users/7150015) | Filipino |
 | ::{ flag=IT }:: [-Syncro](https://osu.ppy.sh/users/4338923) | Italiano |
-| ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083) |  |
+| ::{ flag=FI }:: [Aakki](https://osu.ppy.sh/users/11077540) | Finés |
 | ::{ flag=KR }:: [Amamya](https://osu.ppy.sh/users/1997633) | Coreano |
 | ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599) | Italiano |
 | ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549) |  |
@@ -92,7 +92,6 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | ::{ flag=FI }:: [TheKingHenry](https://osu.ppy.sh/users/5128277) | Finés |
 | ::{ flag=TH }:: [timemon](https://osu.ppy.sh/users/2072005) | Tailandés |
 | ::{ flag=LT }:: [tomatas95](https://osu.ppy.sh/users/11403815) | Lituano |
-| ::{ flag=CL }:: [Uberzolik](https://osu.ppy.sh/users/1314547) | Español, francés |
 | ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) |  |
 | ::{ flag=CA }:: [Vararaup](https://osu.ppy.sh/users/8257675) |  |
 | ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) |  |
@@ -112,13 +111,11 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | Chino, cantonés |
 | ::{ flag=MX }:: [DakeDekaane](https://osu.ppy.sh/users/1425253) | Español |
 | ::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142) | Vietnamita |
-| ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | Urdu, algo de árabe |
 | ::{ flag=US }:: [eiri-](https://osu.ppy.sh/users/3388410) | Español |
 | ::{ flag=JP }:: [Eriha](https://osu.ppy.sh/users/16320311) | Japonés |
 | ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851) | Alemán |
 | ::{ flag=US }:: [hac](https://osu.ppy.sh/users/17853754) |  |
 | ::{ flag=IE }:: [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) |  |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Árabe, francés, algo de italiano |
 | ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | Portugués |
 | ::{ flag=NL }:: [ikin5050](https://osu.ppy.sh/users/4007649) | Neerlandés |
 | ::{ flag=US }:: [Jonarwhal](https://osu.ppy.sh/users/3653035) |  |

@@ -48,7 +48,7 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 | :-- | :-- |
 | ::{ flag=PH }:: [-Aqua](https://osu.ppy.sh/users/7150015) | 菲律宾语 |
 | ::{ flag=IT }:: [-Syncro](https://osu.ppy.sh/users/4338923) | 意大利语 |
-| ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083) |  |
+| ::{ flag=FI }:: [Aakki](https://osu.ppy.sh/users/11077540) | 芬兰语 |
 | ::{ flag=KR }:: [Amamya](https://osu.ppy.sh/users/1997633) | 韩语 |
 | ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599) | 意大利语 |
 | ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549) |  |
@@ -91,7 +91,6 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 | ::{ flag=FI }:: [TheKingHenry](https://osu.ppy.sh/users/5128277) | 芬兰语 |
 | ::{ flag=TH }:: [timemon](https://osu.ppy.sh/users/2072005) | 泰语 |
 | ::{ flag=LT }:: [tomatas95](https://osu.ppy.sh/users/11403815) | 立陶宛语 |
-| ::{ flag=CL }:: [Uberzolik](https://osu.ppy.sh/users/1314547) | 西班牙语，法语 |
 | ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) |  |
 | ::{ flag=CA }:: [Vararaup](https://osu.ppy.sh/users/8257675) |  |
 | ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) |  |
@@ -111,13 +110,11 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 | ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | 汉语，粤语 |
 | ::{ flag=MX }:: [DakeDekaane](https://osu.ppy.sh/users/1425253) | 西班牙语 |
 | ::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142) | 越南语 |
-| ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | 乌尔都语，一部分阿拉伯语 |
 | ::{ flag=US }:: [eiri-](https://osu.ppy.sh/users/3388410) | 西班牙语 |
 | ::{ flag=JP }:: [Eriha](https://osu.ppy.sh/users/16320311) | 日语 |
 | ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851) | 德语 |
 | ::{ flag=US }:: [hac](https://osu.ppy.sh/users/17853754) |  |
 | ::{ flag=IE }:: [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) |  |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | 阿拉伯语，法语，一部分意大利语 |
 | ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | 葡萄牙语 |
 | ::{ flag=NL }:: [ikin5050](https://osu.ppy.sh/users/4007649) | 荷兰语 |
 | ::{ flag=US }:: [Jonarwhal](https://osu.ppy.sh/users/3653035) |  |

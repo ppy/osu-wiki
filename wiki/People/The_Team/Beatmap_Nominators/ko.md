@@ -50,7 +50,7 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 | :-- | :-- |
 | ::{ flag=PH }:: [-Aqua](https://osu.ppy.sh/users/7150015) | 필리핀어 |
 | ::{ flag=IT }:: [-Syncro](https://osu.ppy.sh/users/4338923) | 이탈리아어 |
-| ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083) |  |
+| ::{ flag=FI }:: [Aakki](https://osu.ppy.sh/users/11077540) | 핀란드어 |
 | ::{ flag=KR }:: [Amamya](https://osu.ppy.sh/users/1997633) | 한국어 |
 | ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599) | 이탈리아어 |
 | ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549) |  |
@@ -93,7 +93,6 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 | ::{ flag=FI }:: [TheKingHenry](https://osu.ppy.sh/users/5128277) | 핀란드어 |
 | ::{ flag=TH }:: [timemon](https://osu.ppy.sh/users/2072005) | 태국어 |
 | ::{ flag=LT }:: [tomatas95](https://osu.ppy.sh/users/11403815) | 리투아니아어 |
-| ::{ flag=CL }:: [Uberzolik](https://osu.ppy.sh/users/1314547) | 스페인어, 프랑스어 |
 | ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) |  |
 | ::{ flag=CA }:: [Vararaup](https://osu.ppy.sh/users/8257675) |  |
 | ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) |  |
@@ -113,13 +112,11 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 | ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | 중국어, 광둥어 |
 | ::{ flag=MX }:: [DakeDekaane](https://osu.ppy.sh/users/1425253) | 스페인어 |
 | ::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142) | 베트남어 |
-| ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | 우르두어, 일부 아랍어 |
 | ::{ flag=US }:: [eiri-](https://osu.ppy.sh/users/3388410) | 스페인어 |
 | ::{ flag=JP }:: [Eriha](https://osu.ppy.sh/users/16320311) | 일본어 |
 | ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851) | 독일어 |
 | ::{ flag=US }:: [hac](https://osu.ppy.sh/users/17853754) |  |
 | ::{ flag=IE }:: [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) |  |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | 아랍어, 프랑스어, 일부 이탈리아어 |
 | ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | 포르투갈어 |
 | ::{ flag=NL }:: [ikin5050](https://osu.ppy.sh/users/4007649) | 네덜란드어 |
 | ::{ flag=US }:: [Jonarwhal](https://osu.ppy.sh/users/3653035) |  |
