@@ -500,7 +500,35 @@ Abbreviations for user groups are used throughout this log:
 - 2022-10-29: Removed [AJT](https://osu.ppy.sh/users/3181083) from **BN**
 
 ## November
-
+- 2022-11-02: **Created Beatmap Spotlight Curators**
+- 2022-11-02: Added [Zelq](https://osu.ppy.sh/users/8953955) to **Beatmap Spotlight Curators**
+- 2022-11-02: Added [wwwww](https://osu.ppy.sh/users/8434466) to **Beatmap Spotlight Curators**
+- 2022-11-02: Added [wonjae](https://osu.ppy.sh/users/5032045) to **Beatmap Spotlight Curators**
+- 2022-11-02: Added [WadBot](https://osu.ppy.sh/users/14571181) to **Beatmap Spotlight Curators**
+- 2022-11-02: Added [uone](https://osu.ppy.sh/users/5321719) to **Beatmap Spotlight Curators**
+- 2022-11-02: Added [SadEgg](https://osu.ppy.sh/users/10278243) to **Beatmap Spotlight Curators**
+- 2022-11-02: Added [Riot](https://osu.ppy.sh/users/4256461) to **Beatmap Spotlight Curators**
+- 2022-11-02: Added [radar](https://osu.ppy.sh/users/7131099) to **Beatmap Spotlight Curators**
+- 2022-11-02: Added [Protastic101](https://osu.ppy.sh/users/6712747) to **Beatmap Spotlight Curators**
+- 2022-11-02: Added [Omgforz](https://osu.ppy.sh/users/578943) to **Beatmap Spotlight Curators**
+- 2022-11-02: Added [Nowaie](https://osu.ppy.sh/users/5428909) to **Beatmap Spotlight Curators**
+- 2022-11-02: Added [Nifty](https://osu.ppy.sh/users/4956097) to **Beatmap Spotlight Curators**
+- 2022-11-02: Added [Maxus](https://osu.ppy.sh/users/4335785) to **Beatmap Spotlight Curators**
+- 2022-11-02: Added [MadBricktree](https://osu.ppy.sh/users/4790958) to **Beatmap Spotlight Curators**
+- 2022-11-02: Added [lenpai](https://osu.ppy.sh/users/5314573) to **Beatmap Spotlight Curators**
+- 2022-11-02: Added [Lefafel](https://osu.ppy.sh/users/2295850) to **Beatmap Spotlight Curators**
+- 2022-11-02: Added [Kimitakari](https://osu.ppy.sh/users/4741164) to **Beatmap Spotlight Curators**
+- 2022-11-02: Added [Kibitz](https://osu.ppy.sh/users/7418493) to **Beatmap Spotlight Curators**
+- 2022-11-02: Added [Hydria](https://osu.ppy.sh/users/808176) to **Beatmap Spotlight Curators**
+- 2022-11-02: Added [horiiizon](https://osu.ppy.sh/users/8071438) to **Beatmap Spotlight Curators**
+- 2022-11-02: Added [Hivie](https://osu.ppy.sh/users/14102976) to **Beatmap Spotlight Curators**
+- 2022-11-02: Added [DigitalHypno](https://osu.ppy.sh/users/4384207) to **Beatmap Spotlight Curators**
+- 2022-11-02: Added [DeviousPanda](https://osu.ppy.sh/users/4966334) to **Beatmap Spotlight Curators**
+- 2022-11-02: Added [Crumpey](https://osu.ppy.sh/users/3518705) to **Beatmap Spotlight Curators**
+- 2022-11-02: Added [ChillierPear](https://osu.ppy.sh/users/9501251) to **Beatmap Spotlight Curators**
+- 2022-11-02: Added [Axer](https://osu.ppy.sh/users/7299864) to **Beatmap Spotlight Curators**
+- 2022-11-02: Added [Antalf](https://osu.ppy.sh/users/8793773) to **Beatmap Spotlight Curators**
+- 2022-11-02: Added [[Zeth]](https://osu.ppy.sh/users/9912966) to **Beatmap Spotlight Curators**
 - 2022-11-08: Added [Mipha-](https://osu.ppy.sh/users/5767941) to **Project Loved Team**
 - 2022-11-08: Added [[Crz]hinako1804](https://osu.ppy.sh/users/13747903) to **Project Loved Team**
 - 2022-11-08: Added [Dusk-](https://osu.ppy.sh/users/6092181) to **NAT**
