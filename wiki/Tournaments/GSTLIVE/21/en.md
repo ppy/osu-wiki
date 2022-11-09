@@ -117,7 +117,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Match results
 
-### Sunday, 14 March 2021:
+### Sunday, 14 March 2021
 
 #### Finals
 
