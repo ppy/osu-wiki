@@ -119,7 +119,7 @@ And here's [one more osu!catch map](https://osu.ppy.sh/beatmapsets/672806) hoste
     <source src="https://assets.ppy.sh/artists/255/Songs/WRLD%20-%20By%20Design.mp3" type="audio/mpeg">
 </audio>
 
-### Seven Lions & Echos
+### Seven Lions & Echos - Cold Skin
 
 Check out [this osu! map](https://osu.ppy.sh/beatmapsets/791658) hosted by [Fursum](https://osu.ppy.sh/users/4865030) or [this osu!catch map](https://osu.ppy.sh/beatmapsets/946446) hosted by [-Ken](https://osu.ppy.sh/users/4430811)!
 
