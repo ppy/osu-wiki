@@ -500,6 +500,7 @@ Abbreviations for user groups are used throughout this log:
 - 2022-10-29: Removed [AJT](https://osu.ppy.sh/users/3181083) from **BN**
 
 ## November
+
 - 2022-11-02: **Created Beatmap Spotlight Curators**
 - 2022-11-02: Added [Zelq](https://osu.ppy.sh/users/8953955) to **Beatmap Spotlight Curators**
 - 2022-11-02: Added [wwwww](https://osu.ppy.sh/users/8434466) to **Beatmap Spotlight Curators**
