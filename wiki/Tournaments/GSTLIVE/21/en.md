@@ -31,7 +31,7 @@ tags:
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Phyiscal medal |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Physical medal |
 
 ## Organisation
 

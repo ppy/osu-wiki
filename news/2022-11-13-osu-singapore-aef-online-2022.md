@@ -48,11 +48,11 @@ For more information about the tournament, refer to its [wiki article](/wiki/Tou
 
 ### Day of event (17 December 2022)
 
-| Event | Timestamp |
+| Event | Timestamp (UTC+08) |
 | --: | :-- |
-| Quarterfinals | 14:00 - 16:40 (UTC+08) |
-| Semifinals | 16:40 - 18:40 (UTC+08) |
-| Finals | 18:40 (UTC+08) |
+| Quarterfinals | 14:00 – 16:40 |
+| Semifinals | 16:40 – 18:40 |
+| Finals | 18:40 |
 
 ---
 

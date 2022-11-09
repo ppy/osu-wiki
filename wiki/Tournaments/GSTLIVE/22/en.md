@@ -32,7 +32,7 @@ tags:
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, Physical medal, 12 months of osu!supporter |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, physical medal, 12 months of osu!supporter |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Physical medal, 6 months of osu!supporter |
 
 ![GST:LIVE 2022 badge 1](img/badge1.png) ![GST:LIVE 2022 badge 2](img/badge2.png)
@@ -81,18 +81,18 @@ GST:LIVE 2022 is run by various community members.
 
 ### Bracket Stage regulations
 
-1. The Bracket Stage will be held **offline** on 17 December 2022 at AEF Online 2022. **By signing up, you agree that you are free and will be showing up to the event should you place top 8 in Qualifiers.** Should there be an emergency such that you are unable to make the event, **please let the staff** know by messaging megumic (ue#0001) or \_gt (gt#8668) on Discord.
+1. The Bracket Stage will be held **offline** on 17 December 2022 at AEF Online 2022. **By signing up, you agree that you are free and will be showing up to the event should you place top 8 in Qualifiers.** Should there be an emergency such that you are unable to make the event, **please let the staff know** by messaging megumic (ue#0001) or \_gt (gt#8668) on Discord.
 2. If a player is not present at the time of their match, the match will be forfeited. **The staff reserves the right to ban absent players for future iterations of GST and GST:LIVE.**
-3. There will be 2 mappools; the Quarterfinals pool will be **Bo7**, and the Semifinals/Finals pool will be **Bo9**.
+3. There will be 2 mappools: the Quarterfinals pool will be **Bo7**, and the Semifinals/Finals pool will be **Bo9**.
 
 ### Match procedure
 
 1. The higher `!roll` gets **the second ban and the first pick**. 
 2. Each team will be given a maximum of **90 seconds** for every action (banning/picking a map). Failure to decide before the time limit will result in the action being passed to the opponent.
 3. After a beatmap is selected, teams will have a maximum of **90 seconds** to ready up.
-4. For each map that does not require the hidden mod, players may choose to play said maps with Hidden, with those scores divided by 1.06. As such, you are required to co-operate by putting on the required mods for each map as the multiplayer lobby will virtually permanently have Free Mod enabled.
+4. For each map that does not require the Hidden mod, players may choose to play said maps with Hidden, with those scores divided by 1.06. As such, you are required to co-operate by putting on the required mods for each map as the multiplayer lobby will virtually permanently have Free Mod enabled.
 5. The mappool is designed such that if both teams reach match point, there will be **3 maps** left.
 6. Both captains have to PM the referee which map they would like to ban out of the 3 maps within **90 seconds**. Using the `#multiplayer` channel is strongly discouraged during this time.
 7. If both teams ban different maps, the **3rd map** is played.
-8. If both teams ban the same map, the referee will do a `!roll` 2 to determine which map out of the remaining ones will be played, where 1 corresponds to the map listed higher on the mappool.
+8. If both teams ban the same map, the referee will do a `!roll 2` to determine which map out of the remaining ones will be played, where 1 corresponds to the map listed higher on the mappool.
 9. If the tiebreaker map ends in a draw, captains will roll again and the lower roll gets to choose another tiebreaker within the remaining 2 maps.
