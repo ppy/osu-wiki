@@ -123,7 +123,6 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 | ::{ flag=SG }:: [neonat](https://osu.ppy.sh/users/1561995) | 汉语 |
 | ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097) |  |
 | ::{ flag=US }:: [op45667](https://osu.ppy.sh/users/21973491) |  |
-| ::{ flag=FI }:: [pupu5](https://osu.ppy.sh/users/7140680) | 芬兰语 |
 | ::{ flag=JP }:: [Roxy-](https://osu.ppy.sh/users/11931563) | 日语 |
 | ::{ flag=TH }:: [Tyistiana](https://osu.ppy.sh/users/1421452) | 泰语 |
 | ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) | 德语，一部分法语 |
@@ -141,7 +140,6 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 | ::{ flag=PL }:: [Mniam](https://osu.ppy.sh/users/6050530) | 波兰语 |
 | ::{ flag=DE }:: [Myxo](https://osu.ppy.sh/users/2202645) | 德语 |
 | ::{ flag=FR }:: [Natsuko](https://osu.ppy.sh/users/8266817) | 法语 |
-| ::{ flag=GR }:: [Nokashi](https://osu.ppy.sh/users/5431196) | 希腊语 |
 | ::{ flag=TH }:: [rew0825](https://osu.ppy.sh/users/2488026) | 泰语 |
 | ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) |  |
 | ::{ flag=CA }:: [Ymiir](https://osu.ppy.sh/users/3922569) |  |

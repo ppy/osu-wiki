@@ -125,7 +125,6 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ::{ flag=SG }:: [neonat](https://osu.ppy.sh/users/1561995) | Çince |
 | ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097) |  |
 | ::{ flag=US }:: [op45667](https://osu.ppy.sh/users/21973491) |  |
-| ::{ flag=FI }:: [pupu5](https://osu.ppy.sh/users/7140680) | Fince |
 | ::{ flag=JP }:: [Roxy-](https://osu.ppy.sh/users/11931563) | Japonca |
 | ::{ flag=TH }:: [Tyistiana](https://osu.ppy.sh/users/1421452) | Tayca |
 | ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) | Almanca, biraz Fransızca |
@@ -143,7 +142,6 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ::{ flag=PL }:: [Mniam](https://osu.ppy.sh/users/6050530) | Lehçe |
 | ::{ flag=DE }:: [Myxo](https://osu.ppy.sh/users/2202645) | Almanca |
 | ::{ flag=FR }:: [Natsuko](https://osu.ppy.sh/users/8266817) | Fransızca |
-| ::{ flag=GR }:: [Nokashi](https://osu.ppy.sh/users/5431196) | Yunanca |
 | ::{ flag=TH }:: [rew0825](https://osu.ppy.sh/users/2488026) | Tayca |
 | ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) |  |
 | ::{ flag=CA }:: [Ymiir](https://osu.ppy.sh/users/3922569) |  |

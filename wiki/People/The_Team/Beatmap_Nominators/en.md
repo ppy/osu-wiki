@@ -125,7 +125,6 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ::{ flag=SG }:: [neonat](https://osu.ppy.sh/users/1561995) | Chinese |
 | ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097) |  |
 | ::{ flag=US }:: [op45667](https://osu.ppy.sh/users/21973491) |  |
-| ::{ flag=FI }:: [pupu5](https://osu.ppy.sh/users/7140680) | Finnish |
 | ::{ flag=JP }:: [Roxy-](https://osu.ppy.sh/users/11931563) | Japanese |
 | ::{ flag=TH }:: [Tyistiana](https://osu.ppy.sh/users/1421452) | Thai |
 | ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) | German, some French |
@@ -143,7 +142,6 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ::{ flag=PL }:: [Mniam](https://osu.ppy.sh/users/6050530) | Polish |
 | ::{ flag=DE }:: [Myxo](https://osu.ppy.sh/users/2202645) | German |
 | ::{ flag=FR }:: [Natsuko](https://osu.ppy.sh/users/8266817) | French |
-| ::{ flag=GR }:: [Nokashi](https://osu.ppy.sh/users/5431196) | Greek |
 | ::{ flag=TH }:: [rew0825](https://osu.ppy.sh/users/2488026) | Thai |
 | ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) |  |
 | ::{ flag=CA }:: [Ymiir](https://osu.ppy.sh/users/3922569) |  |

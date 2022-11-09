@@ -125,7 +125,6 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | ::{ flag=SG }:: [neonat](https://osu.ppy.sh/users/1561995) | Chinês |
 | ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097) |  |
 | ::{ flag=US }:: [op45667](https://osu.ppy.sh/users/21973491) |  |
-| ::{ flag=FI }:: [pupu5](https://osu.ppy.sh/users/7140680) | Finlandês |
 | ::{ flag=JP }:: [Roxy-](https://osu.ppy.sh/users/11931563) | Japonês |
 | ::{ flag=TH }:: [Tyistiana](https://osu.ppy.sh/users/1421452) | Tailandês |
 | ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) | Alemão, um pouco de francês |
@@ -143,7 +142,6 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | ::{ flag=PL }:: [Mniam](https://osu.ppy.sh/users/6050530) | Polonês |
 | ::{ flag=DE }:: [Myxo](https://osu.ppy.sh/users/2202645) | Alemão |
 | ::{ flag=FR }:: [Natsuko](https://osu.ppy.sh/users/8266817) | Francês |
-| ::{ flag=GR }:: [Nokashi](https://osu.ppy.sh/users/5431196) | Grego |
 | ::{ flag=TH }:: [rew0825](https://osu.ppy.sh/users/2488026) | Tailandês |
 | ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) |  |
 | ::{ flag=CA }:: [Ymiir](https://osu.ppy.sh/users/3922569) |  |

@@ -125,7 +125,6 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | ::{ flag=SG }:: [neonat](https://osu.ppy.sh/users/1561995) | จีน |
 | ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097) |  |
 | ::{ flag=US }:: [op45667](https://osu.ppy.sh/users/21973491) |  |
-| ::{ flag=FI }:: [pupu5](https://osu.ppy.sh/users/7140680) | ฟินแลนด์ |
 | ::{ flag=JP }:: [Roxy-](https://osu.ppy.sh/users/11931563) | ญี่ปุ่น |
 | ::{ flag=TH }:: [Tyistiana](https://osu.ppy.sh/users/1421452) | ไทย |
 | ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) | เยอรมัน, ฝรั่งเศส บ้าง |
@@ -143,7 +142,6 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | ::{ flag=PL }:: [Mniam](https://osu.ppy.sh/users/6050530) | โปแลนด์ |
 | ::{ flag=DE }:: [Myxo](https://osu.ppy.sh/users/2202645) | เยอรมัน |
 | ::{ flag=FR }:: [Natsuko](https://osu.ppy.sh/users/8266817) | ฝรั่งเศส |
-| ::{ flag=GR }:: [Nokashi](https://osu.ppy.sh/users/5431196) | กรีก |
 | ::{ flag=TH }:: [rew0825](https://osu.ppy.sh/users/2488026) | ไทย |
 | ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) |  |
 | ::{ flag=CA }:: [Ymiir](https://osu.ppy.sh/users/3922569) |  |
