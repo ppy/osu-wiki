@@ -519,7 +519,7 @@ Abbreviations for user groups are used throughout this log:
 - 2022-11-08: Removed [Dusk-](https://osu.ppy.sh/users/6092181) from **BN**
 - 2022-11-08: Removed [Hivie](https://osu.ppy.sh/users/14102976) from **BN**
 
-<!-- last updated 2022-11-09 06:09 UTC - Moved Dusk- and Hivie from BN to NAT -->
+<!-- last updated 2022-11-09 06:09 UTC - Moved Dusk- and Hivie from BN to NAT (and for some reason Mafumafu has logs that cancel each other out after that, ignore those) -->
 
 <!--
 To update this article:
