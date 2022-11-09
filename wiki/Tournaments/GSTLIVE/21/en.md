@@ -25,7 +25,7 @@ tags:
 | --: | :-- |
 | Quarterfinals | 13:00 – 15:00 |
 | Semifinals | 15:00 – 16:20 |
-| Quarterfinals | 16:20 – 17:00 |
+| Finals | 16:20 – 17:00 |
 
 ## Prizes
 

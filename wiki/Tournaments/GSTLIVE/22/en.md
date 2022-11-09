@@ -45,6 +45,7 @@ GST:LIVE 2022 is run by various community members.
 | :-- | :-- |
 | Organiser | ::{ flag=SG }:: [megumic](https://osu.ppy.sh/users/7537133), ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957) |
 | Custom mapper | ::{ flag=SG }:: [-Eresh](https://osu.ppy.sh/users/7605060), ::{ flag=MY }:: [\[ -Scarlet- \]](https://osu.ppy.sh/users/2427693), ::{ flag=SG }:: [Amami Yuu](https://osu.ppy.sh/users/19270348), ::{ flag=DK }:: [bongo](https://osu.ppy.sh/users/5312202), ::{ flag=US }:: [captin1](https://osu.ppy.sh/users/689997), ::{ flag=SG }:: [chaser01](https://osu.ppy.sh/users/18730172), ::{ flag=TH }:: [Deppyforce](https://osu.ppy.sh/users/5286213),  ::{ flag=SG }:: [Fsjallink](https://osu.ppy.sh/users/12704035), ::{ flag=SG }:: [hehe](https://osu.ppy.sh/users/2123087), ::{ flag=SG }:: [Ixcors](https://osu.ppy.sh/users/11194087), ::{ flag=SG }:: [Kotoha](https://osu.ppy.sh/users/7823498), ::{ flag=BR }:: [Kowari](https://osu.ppy.sh/users/5404892), ::{ flag=SG }:: [Mrgglock](https://osu.ppy.sh/users/10734032), ::{ flag=PH }:: [newton-](https://osu.ppy.sh/users/5875419), ::{ flag=SG }:: [oneplusone](https://osu.ppy.sh/users/1843447), ::{ flag=SG }:: [P4ndemonium](https://osu.ppy.sh/users/6639059), ::{ flag=US }:: [Shirahane Suou](https://osu.ppy.sh/users/10820856), ::{ flag=SG }:: [Slyze-](https://osu.ppy.sh/users/9162649), ::{ flag=SG }:: [sorciere](https://osu.ppy.sh/users/2500099), ::{ flag=US }:: [squirrelpascals](https://osu.ppy.sh/users/6151332), ::{ flag=US }:: [ThunderBird2678](https://osu.ppy.sh/users/3388082), ::{ flag=US }:: [Voltaeyx](https://osu.ppy.sh/users/2715118), ::{ flag=PH }:: [xidorn](https://osu.ppy.sh/users/7904667) |
+| Developer | ::{ flag=TR }:: [heyronii](https://osu.ppy.sh/users/5642779), ::{ flag=TR }:: [Sibyl](https://osu.ppy.sh/users/10440852) |
 | GFX artist | ::{ flag=SG }:: [Hecatia](https://osu.ppy.sh/users/8244635), ::{ flag=SG }:: [iroha\_2807](https://osu.ppy.sh/users/27014435), ::{ flag=SG }:: [megumic](https://osu.ppy.sh/users/7537133), ::{ flag=SG }:: [NoPengoo](https://osu.ppy.sh/users/11825315) |
 | On-site staff | ::{ flag=SG }:: [Dreamy](https://osu.ppy.sh/users/8547527), ::{ flag=SG }:: [ellyn](https://osu.ppy.sh/users/10592989) |
 | Wiki editor | ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957) |
@@ -87,8 +88,8 @@ GST:LIVE 2022 is run by various community members.
 
 ### Match procedure
 
-1. The higher `!roll` gets **the second ban and the first pick**. 
-2. Each team will be given a maximum of **90 seconds** for every action (banning/picking a map). Failure to decide before the time limit will result in the action being passed to the opponent.
+1. The higher `!roll` gets to choose **pick order**. 
+2. Each team will be given a maximum of **90 seconds** for picking maps. Failure to decide before the time limit will result in the action being passed to the opponent.
 3. After a beatmap is selected, teams will have a maximum of **90 seconds** to ready up.
 4. For each map that does not require the Hidden mod, players may choose to play said maps with Hidden, with those scores divided by 1.06. As such, you are required to co-operate by putting on the required mods for each map as the multiplayer lobby will virtually permanently have Free Mod enabled.
 5. The mappool is designed such that if both teams reach match point, there will be **3 maps** left.
