@@ -2,19 +2,20 @@
 tags:
   - forums
   - subforum
+  - sub-forum
 ---
 
 # Forum
 
 *Lihat juga: [Forum internet](https://id.wikipedia.org/wiki/Forum_internet)*
 
-[**Forum osu!**](https://osu.ppy.sh/community/forums) merupakan sarana percakapan di mana seluruh pesan yang masuk dikelompokkan berdasarkan subjeknya masing-masing. Tidak seperti [osu! chat](/wiki/Community/Internet_Relay_Chat) yang berlangsung secara instan, diskusi pada forum bersifat permanen serta dapat dicari dan dibaca ulang kapan saja. Oleh karenanya, pesan forum yang ada pada umumnya lebih panjang, lebih kaya akan informasi, dan lebih rinci dibanding pesan *chat* biasa.
+[**Forum osu!**](https://osu.ppy.sh/community/forums) merupakan sarana percakapan di mana seluruh pesan yang masuk dikelompokkan berdasarkan subjeknya masing-masing. Tidak seperti [chat osu!](/wiki/Community/Internet_Relay_Chat) yang berlangsung secara instan, diskusi pada forum bersifat permanen serta dapat dicari dan dibaca ulang kapan saja. Oleh karenanya, pesan forum yang ada pada umumnya lebih panjang, lebih kaya akan informasi, dan lebih rinci dibanding pesan *chat* biasa.
 
 Forum osu! menawarkan berbagai fitur yang serupa dengan forum internet lain pada umumnya, mulai dari [BBCode](/wiki/BBCode), *markup*, jajak pendapat, pesan pribadi, penyematan dan langganan, hingga [moderasi](#moderasi).
 
 ## Struktur
 
-Masing-masing forum mengandung berbagai macam **topik** (atau yang juga dikenal sebagai *utas*) serta kategori spesifik di dalamnya yang disebut dengan **sub-forum**. Hampir seluruh forum mewajibkan penggunaan Bahasa Inggris, namun terdapat juga [forum khusus bahasa tertentu](https://osu.ppy.sh/community/forums#forum-23) bagi komunitas lokal dengan basis pengguna yang aktif.
+Masing-masing forum mengandung berbagai macam **topik** (atau yang juga dikenal sebagai *utas*) serta kategori spesifik di dalamnya yang disebut dengan **sub-forum**. Hampir seluruh forum mewajibkan penggunaan bahasa Inggris, namun terdapat juga [forum khusus bahasa tertentu](https://osu.ppy.sh/community/forums#forum-23) bagi komunitas lokal dengan basis pengguna yang aktif.
 
 Walaupun forum tertentu seperti [Mapping Discussion](https://osu.ppy.sh/community/forums/56) memiliki tata penggunaannya tersendiri, seluruh forum tunduk pada [peraturan komunitas](/wiki/Rules) yang berlaku.
 
@@ -36,11 +37,11 @@ Beberapa forum tertentu memiliki fungsinya tersendiri yang tidak terbatas hanya 
 
 - [Help](/wiki/Community/Forum/Help): forum untuk mengajukan bantuan teknis dari [Support Team](/wiki/People/The_Team/Support_Team) dan para pengguna lainnya.
 - [Feature Requests](/wiki/Community/Forum/Feature_Requests): forum untuk mengajukan saran untuk pengembangan osu!.
-- [Modding Queues](/wiki/Community/Forum/Modding_Queues): forum untuk mengajukan kajian beatmap dari mapper dan modder lain.
+- [Modding Queues](/wiki/Community/Forum/Modding_Queues): forum untuk mengajukan umpan balik (*feedback*) beatmap dari mapper dan modder lain.
 - [Off-Topic](/wiki/Community/Forum/Off-Topic): forum untuk mendiskusikan segala sesuatunya secara serampangan.
 - [Abandoned Wasteland](/wiki/Community/Forum/Abandoned_Wasteland): tempat pembuangan topik yang tidak diinginkan.
 
-Di samping itu, terdapat juga beberapa forum rahasia seperti Abandoned Wasteland lainnya yang ditujukan untuk keperluan teknis atau manajemen.
+Di samping itu, terdapat juga beberapa forum rahasia lainnya yang serupa Abandoned Wasteland, yang ditujukan untuk keperluan teknis atau manajemen.
 
 ## Sejarah
 
