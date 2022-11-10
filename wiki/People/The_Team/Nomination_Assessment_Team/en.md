@@ -100,7 +100,7 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | Name | Additional languages | Assigned subgroup |
 | :-- | :-- | :-- |
 | ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | German | Evaluator |
-| ::{ flag=UK }:: [Dusk-](https://osu.ppy.sh/users/6092181) | Urdu, some Arabic | Evaluator |
+| ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | Urdu, some Arabic | Evaluator |
 | ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733) | Cantonese, Chinese | Evaluator |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Arabic, French, some Italian | Evaluator |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | Evaluator |
