@@ -54,16 +54,17 @@ Chaque publication du Beatmap Spotlights est assemblée par une équipe de conse
 ### Curateurs osu!taiko
 
 - ::{ flag=TN }:: **[Hivie](https://osu.ppy.sh/users/14102976)**
+- ::{ flag=MY }:: [[Zeth]](https://osu.ppy.sh/users/9912966)
 - ::{ flag=AR }:: [Axer](https://osu.ppy.sh/users/7299864)
+- ::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438)
 - ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097)
 - ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)
 - ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719)
-- ::{ flag=MY }:: [[Zeth]](https://osu.ppy.sh/users/9912966)
 
 ### Curateurs osu!catch
 
 - ::{ flag=CA }:: **[SadEgg](https://osu.ppy.sh/users/10278243)**
-- ::{ flag=RU }:: [Nelly](https://osu.ppy.sh/users/4741164)
+- ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164)
 - ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)
 - ::{ flag=CA }:: [WadBot](https://osu.ppy.sh/users/14571181)
 - ::{ flag=US }:: [wonjae](https://osu.ppy.sh/users/5032045)
@@ -76,6 +77,8 @@ Chaque publication du Beatmap Spotlights est assemblée par une équipe de conse
 - ::{ flag=GB }:: [Hydria](https://osu.ppy.sh/users/808176)
 - ::{ flag=MY }:: [Kibitz](https://osu.ppy.sh/users/7418493)
 - ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573)
+- ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/4790958)
+- ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785)
 - ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747)
 
 ## Saisons Spotlights
