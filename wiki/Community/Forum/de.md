@@ -14,7 +14,7 @@ Die osu!-Foren stellen Features zur Verfügung, die ähnlich zu den meisten Inte
 
 ## Aufbau
 
-Jedes osu!-Forum enthält verschiedene **Themen**, manchmal auch Threads genannt, sowie kleinere Kategorien, sogenannte **Unterforen**. Die meisten der Foren sind in Englisch, jedoch existieren eine Reihe von [sprachspezifischen](https://osu.ppy.sh/community/forums#forum-23) Foren für lokale Communities, die groß genug sind.
+Jedes osu!-Forum enthält verschiedene **Themen**, manchmal auch Threads genannt, sowie kleinere Kategorien, sogenannte **Unterforen**. Die meisten der Foren sind in Englisch, jedoch existieren eine Reihe von [sprachspezifischen](https://osu.ppy.sh/community/forums/23) Foren für lokale Communities, die groß genug sind.
 
 Zwar haben einige Foren wie beispielsweise [Mapping Discussion](https://osu.ppy.sh/community/forums/56) spezifische Anforderungen oder Richtlinien, aber alle folgen [den Community-Regeln](/wiki/Rules).
 

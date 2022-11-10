@@ -15,7 +15,7 @@ Forum osu! menawarkan berbagai fitur yang serupa dengan forum internet lain pada
 
 ## Struktur
 
-Masing-masing forum mengandung berbagai macam **topik** (atau yang juga dikenal sebagai *utas*) serta kategori spesifik di dalamnya yang disebut dengan **sub-forum**. Hampir seluruh forum mewajibkan penggunaan bahasa Inggris, namun terdapat juga [forum khusus bahasa tertentu](https://osu.ppy.sh/community/forums#forum-23) bagi komunitas lokal dengan basis pengguna yang aktif.
+Masing-masing forum mengandung berbagai macam **topik** (atau yang juga dikenal sebagai *utas*) serta kategori spesifik di dalamnya yang disebut dengan **sub-forum**. Hampir seluruh forum mewajibkan penggunaan bahasa Inggris, namun terdapat juga [forum khusus bahasa tertentu](https://osu.ppy.sh/community/forums/23) bagi komunitas lokal dengan basis pengguna yang aktif.
 
 Walaupun forum tertentu seperti [Mapping Discussion](https://osu.ppy.sh/community/forums/56) memiliki tata penggunaannya tersendiri, seluruh forum tunduk pada [peraturan komunitas](/wiki/Rules) yang berlaku.
 

@@ -14,7 +14,7 @@ The osu! forums provide features similar to most internet forums: [BBCode](/wiki
 
 ## Structure
 
-Each of the osu! forums contains a variety of **topics**, sometimes called threads, as well as smaller categories, or **subforums**. Most of the forums are English only, but there also exists a number of [language-specific](https://osu.ppy.sh/community/forums#forum-23) forums for local communities that are large enough.
+Each of the osu! forums contains a variety of **topics**, sometimes called threads, as well as smaller categories, or **subforums**. Most of the forums are English only, but there also exists a number of [language-specific](https://osu.ppy.sh/community/forums/23) forums for local communities that are large enough.
 
 While some forums, such as [Mapping Discussion](https://osu.ppy.sh/community/forums/56), have specific requirements or guidelines, all of them follow [the community rules](/wiki/Rules).
 

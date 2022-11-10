@@ -15,7 +15,7 @@ Les forums d'osu! offrent des fonctionnalités similaires à celles de la plupar
 
 ## Structure
 
-Chacun des forums d'osu! contient une variété de **sujets**, parfois appelés fils de discussion, ainsi que des catégories plus petites, ou **sous-forums**. La plupart des forums sont uniquement en anglais, mais il existe également un certain nombre de forums [spécifiques à une langue](https://osu.ppy.sh/community/forums#forum-23) pour les communautés locales suffisamment importantes.
+Chacun des forums d'osu! contient une variété de **sujets**, parfois appelés fils de discussion, ainsi que des catégories plus petites, ou **sous-forums**. La plupart des forums sont uniquement en anglais, mais il existe également un certain nombre de forums [spécifiques à une langue](https://osu.ppy.sh/community/forums/23) pour les communautés locales suffisamment importantes.
 
 Bien que certains forums, tels que [Mapping Discussion](https://osu.ppy.sh/community/forums/56), aient des exigences ou des directives spécifiques, tous suivent les [règles de la communauté](/wiki/Rules).
 
