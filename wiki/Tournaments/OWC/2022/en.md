@@ -144,7 +144,7 @@ The osu! World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) and var
 
 ### Semifinals
 
-**[Download the mappack here (180 MB)](https://drive.google.com/uc?id=1S7rSQcelhONeDEKPKyctDLtFAC6y2Ou66)**
+**[Download the mappack here (180 MB)](https://drive.google.com/uc?id=1S7rSQcelhONeDEKPKyctDLtFAC6y2Ou6)**
 
 - No Mod
   1. [Icon For Hire - Ready For Combat (piroshki) \[Ready to Fight\]](https://osu.ppy.sh/beatmapsets/1880499#osu/3871505)
