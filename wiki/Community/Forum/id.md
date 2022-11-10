@@ -20,13 +20,13 @@ Walaupun forum tertentu seperti [Mapping Discussion](https://osu.ppy.sh/communit
 
 ## Peran dan kelompok pengguna
 
-Beberapa pengguna dapat menjadi bagian dari satu atau lebih kelompok pengguna (*user group*) tertentu berdasarkan jabatan, hak akses, atau rekam jejak aktivitas mereka. Daftar kelompok pengguna selengkapnya dapat dilihat di [Tim § Kelompok pengguna](/wiki/People/The_Team#user-groups).
+Beberapa pengguna dapat menjadi bagian dari satu atau lebih kelompok pengguna (*user group*) tertentu berdasarkan jabatan, hak akses, atau rekam jejak aktivitas mereka. Daftar kelompok pengguna selengkapnya dapat dilihat di [Tim § Kelompok pengguna](/wiki/People/The_Team#kelompok-pengguna).
 
 Di samping lencana yang menandakan keanggotaan seseorang dalam suatu kelompok, pengguna juga dapat memiliki [gelar khusus](/wiki/User_title) yang tersemat di bawah avatar pada postingan forum yang mereka kirim.
 
 ### Moderasi
 
-*Lihat juga: [Melaporkan perbuatan yang tidak pantas § Forum](/wiki/Reporting_bad_behaviour#forum)*
+*Lihat juga: [Melaporkan perbuatan yang tidak pantas § Forum](/wiki/Reporting_bad_behaviour#melaporkan-postingan-forum-yang-tidak-pantas)*
 
 [Moderator](/wiki/People/The_Team/Global_Moderation_Team) merupakan kelompok pengguna yang bertugas menjaga ketertiban dan kenyamanan forum serta menanggapi laporan penyalahgunaan. Para moderator dapat menyunting atau menghapus postingan atau topik yang dianggap tidak pantas, menyematkan dan memindahkan topik dari satu forum ke forum lainnya, serta mencegah para pelanggar untuk dapat berulah lebih lanjut dengan [menjatuhkan *silence*](/wiki/Silence) kepada mereka.
 
