@@ -45,7 +45,7 @@ En outre, il existe d'autres forums similaires à celui de Abandoned Wasteland, 
 
 ## Histoire
 
-[Le premier message public du forum](https://osu.ppy.sh/community/forums/topics/2) est daté du 28 août 2007 et appartient à [peppy](/wiki/People/peppy). À cette époque, le site web d'osu! utilisait [phpBB](https://fr.wikipedia.org/wiki/PhpBB) comme moteur de forum, qui a été considérablement étendu au fil des ans pour répondre aux besoins du jeu et de la communauté. Voici quelques-unes de ses personnalisations :
+[Le premier message public du forum](https://osu.ppy.sh/community/forums/topics/2) est daté du 28 août 2007 et appartient à ::{ flag=AU }:: [peppy](/wiki/People/peppy). À cette époque, le site web d'osu! utilisait [phpBB](https://fr.wikipedia.org/wiki/PhpBB) comme moteur de forum, qui a été considérablement étendu au fil des ans pour répondre aux besoins du jeu et de la communauté. Voici quelques-unes de ses personnalisations :
 
 - Intégration avec le [système de soumission des beatmaps](/wiki/Submission)
 - Les systèmes [kudosu](/wiki/Modding/Kudosu) et [classement des beatmap](/wiki/Beatmap_ranking_procedure)

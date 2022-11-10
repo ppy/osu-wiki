@@ -44,7 +44,7 @@ Darüber hinaus gibt es andere Foren, die ähnlich zu Abandoned Wasteland sind u
 
 ## Geschichte
 
-[Der erste öffentliche Forenbeitrag](https://osu.ppy.sh/community/forums/topics/2) wird auf den 28. August 2007 datiert und ist von [peppy](/wiki/People/peppy). Während dieser Zeit hat die osu!-Webseite [phpBB](https://de.wikipedia.org/wiki/PhpBB) als Foren-Engine genutzt, die über die Jahre erheblich erweitert wurde, um den Bedürfnissen des Spiels und der Community gerecht zu werden. Einige dieser Anpassungen enthalten:
+[Der erste öffentliche Forenbeitrag](https://osu.ppy.sh/community/forums/topics/2) wird auf den 28. August 2007 datiert und ist von ::{ flag=AU }:: [peppy](/wiki/People/peppy). Während dieser Zeit hat die osu!-Webseite [phpBB](https://de.wikipedia.org/wiki/PhpBB) als Foren-Engine genutzt, die über die Jahre erheblich erweitert wurde, um den Bedürfnissen des Spiels und der Community gerecht zu werden. Einige dieser Anpassungen enthalten:
 
 - Einbindung des [Beatmap-Einreichungssystems](/wiki/Submission)
 - die [Kudosu](/wiki/Modding/Kudosu)- und [Beatmap-Ranking](/wiki/Beatmap_ranking_procedure)-Systeme

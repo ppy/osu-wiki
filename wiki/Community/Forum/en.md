@@ -44,7 +44,7 @@ Additionally, there are other forums similar to Abandoned Wasteland, which serve
 
 ## History
 
-[The first public forum post](https://osu.ppy.sh/community/forums/topics/2) is dated August 28, 2007, and belongs to [peppy](/wiki/People/peppy). During that time, the osu! website used [phpBB](https://en.wikipedia.org/wiki/PhpBB) as its forum engine, which over the years has been significantly expanded to suit the game and community's needs. Some of its customisations included:
+[The first public forum post](https://osu.ppy.sh/community/forums/topics/2) is dated August 28, 2007, and belongs to ::{ flag=AU }:: [peppy](/wiki/People/peppy). During that time, the osu! website used [phpBB](https://en.wikipedia.org/wiki/PhpBB) as its forum engine, which over the years has been significantly expanded to suit the game and community's needs. Some of its customisations included:
 
 - Integration with the [beatmap submission system](/wiki/Submission)
 - The [kudosu](/wiki/Modding/Kudosu) and [beatmap ranking](/wiki/Beatmap_ranking_procedure) systems
