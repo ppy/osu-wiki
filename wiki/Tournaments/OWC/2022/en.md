@@ -123,13 +123,14 @@ The osu! World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) and var
 | Hong Kong ::{ flag=HK }:: | ::{ flag=ID }:: Indonesia | [Nov 12 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221112T120000&p1=1440&p2=102&p3=108) | [^losers-bracket] |
 | Romania ::{ flag=RO }:: | ::{ flag=CN }:: China | [Nov 12 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221112T140000&p1=1440&p2=49&p3=33) | [^losers-bracket] |
 | Russian Federation ::{ flag=RU }:: | ::{ flag=FR }:: France | [Nov 12 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221112T160000&p1=1440&p2=166&p3=195) | [^losers-bracket] |
-| Poland ::{ flag=PL }:: | ::{ flag=DE }:: Germany | [Nov 12 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221112T180000&p1=1440&p2=262&p3=37) | [^winners-bracket] |
 
 ### Sunday, 13 November 2022
 
 | Team A | Team B | Match time |  |
 | --: | :-- | :-- | :-: |
 | Canada ::{ flag=CA }:: | ::{ flag=AU }:: Australia | [Nov 13 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221113T030000&p1=1440&p2=188&p3=57) | [^losers-bracket] |
+| Canada ::{ flag=CA }:: | ::{ flag=HK }:: Hong Kong | [Nov 13 (Sun) 04:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221113T043000&p1=1440&p2=188&p3=102) | [^potential-match] |
+| Canada ::{ flag=CA }:: | ::{ flag=ID }:: Indonesia | [Nov 13 (Sun) 04:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221113T043000&p1=1440&p2=188&p3=108) | [^potential-match] |
 | United States ::{ flag=US }:: | ::{ flag=KR }:: South Korea | [Nov 13 (Sun) 05:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221113T050000&p1=1440&p2=263&p3=235) | [^winners-bracket] |
 | Australia ::{ flag=AU }:: | ::{ flag=HK }:: Hong Kong | [Nov 13 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221113T120000&p1=1440&p2=57&p3=102) | [^potential-match] |
 | Australia ::{ flag=AU }:: | ::{ flag=ID }:: Indonesia | [Nov 13 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221113T120000&p1=1440&p2=57&p3=108) | [^potential-match] |
@@ -137,8 +138,7 @@ The osu! World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) and var
 | Romania ::{ flag=RO }:: | ::{ flag=FR }:: France | [Nov 13 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221113T140000&p1=1440&p2=49&p3=195) | [^potential-match] |
 | China ::{ flag=CN }:: | ::{ flag=RU }:: Russian Federation | [Nov 13 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221113T140000&p1=1440&p2=33&p3=166) | [^potential-match] |
 | China ::{ flag=CN }:: | ::{ flag=FR }:: France | [Nov 13 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221113T140000&p1=1440&p2=33&p3=195) | [^potential-match] |
-| Canada ::{ flag=CA }:: | ::{ flag=HK }:: Hong Kong | [Nov 13 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221113T160000&p1=1440&p2=188&p3=102) | [^potential-match] |
-| Canada ::{ flag=CA }:: | ::{ flag=ID }:: Indonesia | [Nov 13 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221113T160000&p1=1440&p2=188&p3=108) | [^potential-match] |
+| Poland ::{ flag=PL }:: | ::{ flag=DE }:: Germany | [Nov 13 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221113T180000&p1=1440&p2=262&p3=37) | [^winners-bracket] |
 
 ## Mappools
 
