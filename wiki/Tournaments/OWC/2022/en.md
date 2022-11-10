@@ -122,7 +122,7 @@ The osu! World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) and var
 | --: | :-- | :-- | :-: |
 | Hong Kong ::{ flag=HK }:: | ::{ flag=ID }:: Indonesia | [Nov 12 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221112T120000&p1=1440&p2=102&p3=108) | [^losers-bracket] |
 | Romania ::{ flag=RO }:: | ::{ flag=CN }:: China | [Nov 12 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221112T140000&p1=1440&p2=49&p3=33) | [^losers-bracket] |
-| Russian Federation ::{ flag=RU }:: | ::{ flag=FR }:: France | [Nov 12 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221112T160000&p1=1440&p2=166&p3=195) | [^losers-bracket] |
+| Russian Federation ::{ flag=RU }:: | ::{ flag=FR }:: France | [Nov 12 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221112T170000&p1=1440&p2=166&p3=195) | [^losers-bracket] |
 
 ### Sunday, 13 November 2022
 
