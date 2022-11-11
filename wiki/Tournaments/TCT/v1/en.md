@@ -410,7 +410,7 @@ Sunday, 3 May 2020:
 
 ### General rules
 
-1. There can't be two players having more than 11,000 pp each in the same team.
+1. There can't be two players having more than 10,500 pp each in the same team.
 2. The maximum team size is **2 players**, meaning there will be no backup or replacement.
 3. The scoring system used will be **Score V2**.
 4. Teams will be seeded by performance points (pp) first and after that will be put into 8 groups of 4, and then top 16 teams will then proceed to the Group Stage with the top 2 teams per each group proceeding to the Knockout Stage.
@@ -433,9 +433,13 @@ Sunday, 3 May 2020:
 8. Once the match has finished, the room will be closed.
 9. If a player fails in a song and does not revive, then their score is not counted, but if they do revive it will count. If every player in a team fails, then the sum of their scores will count.
 10. If there is a tie, then no points are added to any team, but the map will be considered as played. If there is a tie on the tiebreaker, then then a rematch will happen using FreeMod conditions.
+11. The FreeMod pool is played with FreeMod activated. Every player may pick a combination of Hidden, HardRock, Easy, or Flashlight but at least one player from each team must have at least one mod activated.
+12. The ForceMod pool is played with ForceMod activated. Every player has to pick Hidden, HardRock, Easy, or Flashlight
+13. The Tiebreaker is played under FreeMod conditions, but it is not necessary to have a mod activated.
 
 ### Win conditions
 
-1. Group Stage, Round of 16, and Quarterfinals: Best-of-7 (first to 4 points)
-2. Semifinals and Finals: Best-of-9 (first to 5 points)
-3. Grand Finals: Best-of-11 (first to 6 points)
+1. Group Stage: Best-of-5 (first to 3 points)
+2. Round of 16 and Quarterfinals: Best-of-7 (first to 4 points)
+3. Semifinals and Finals: Best-of-9 (first to 5 points)
+4. Grand Finals: Best-of-11 (first to 6 points)
