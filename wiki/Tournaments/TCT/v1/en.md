@@ -44,11 +44,11 @@ The Taiko 2v2 Converted Maps Tourney was run by various community members.
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1042008)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/879938)
 - [TCT Discord server](https://discord.gg/56WRzpQUV2)
 - [Livestream](https://www.twitch.tv/taikoconverttournament)
-- [Challonge brackets](https://challonge.com/TCTv2)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1VdzJigInDMN3_5b5VH69THKV_eS-VWtkNDBps08NWXk/edit?usp=sharing)**
+- [Challonge brackets](https://challonge.com/TCT2019)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1GC6skr_n6CSLeEyFLgtsO24NhYlqXW-SNo0bajT0Fws/edit?usp=sharing)**
 
 ## Participants
 
