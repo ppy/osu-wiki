@@ -54,38 +54,38 @@ The Taiko 2v2 Converted Maps Tourney was run by various community members.
 
 | Team | Members |
 | :-- | :-- |
-| **''-'** | ::{ flag=EC }:: **[Gamelan4](https://osu.ppy.sh/users/9856910)**, ::{ flag=BR }:: [HiroK](https://osu.ppy.sh/users/4050738) |
-| **87** | ::{ flag=US }:: **[Ney](https://osu.ppy.sh/users/5991961)**, ::{ flag=US }:: [JDrago14](https://osu.ppy.sh/users/7690078) |
-| **:flushed:** | ::{ flag=US }:: **[Shyguy](https://osu.ppy.sh/users/178038)**, ::{ flag=US }:: [Das](https://osu.ppy.sh/users/3165416) |
-| **Bancho Doesn't Play** | ::{ flag=CL }:: **[Neon734](https://osu.ppy.sh/users/10907480)**, ::{ flag=CL }:: [Binks-](https://osu.ppy.sh/users/9028416) |
-| **Bongo Bois** | ::{ flag=US }:: **[AuroraPhasmata](https://osu.ppy.sh/users/13664116)**, ::{ flag=US }:: [HoopWheat](https://osu.ppy.sh/users/12177903) |
-| **Caiu na vila o Peixe fuzila** | ::{ flag=BR }:: **[Foxeru](https://osu.ppy.sh/users/7479684)**, ::{ flag=BR }:: [Kyoumo](https://osu.ppy.sh/users/8145223) |
-| **chad** | ::{ flag=IT }:: **[LordEnder](https://osu.ppy.sh/users/4609767)**, ::{ flag=IT }:: [D3kuu](https://osu.ppy.sh/users/7807444) |
-| **Crippling Depression** | ::{ flag=FR }:: **[kamaboko117](https://osu.ppy.sh/users/9508031)**, ::{ flag=FR }:: [Mimir](https://osu.ppy.sh/users/7382734) |
-| **ForelychLovers Reborn** | ::{ flag=RU }:: **[Starger](https://osu.ppy.sh/users/3398715)**, ::{ flag=RU }:: [TwinT](https://osu.ppy.sh/users/9976154) |
+| **3rd Shift A** | ::{ flag=US }:: **[CaptainEChan](https://osu.ppy.sh/users/9536977)**, ::{ flag=EE }:: [Kizma](https://osu.ppy.sh/users/8325847) |
+| **3rd Shift B** | ::{ flag=US }:: **[DiggyDogg](https://osu.ppy.sh/users/5014664)**, ::{ flag=US }:: [ITotallyGetThat](https://osu.ppy.sh/users/8770622) |
+| **>o\_\_.** | ::{ flag=IT }:: **[send help](https://osu.ppy.sh/users/7807444)**, ::{ flag=GB }:: [goheegy](https://osu.ppy.sh/users/8057655) |
+| **Agresywny Fafik** | ::{ flag=PL }:: **[Agresywny Arbuz](https://osu.ppy.sh/users/7056658)**, ::{ flag=PL }:: [fafik99](https://osu.ppy.sh/users/1787011) |
+| **Akisha** | ::{ flag=CL }:: **[Aki990](https://osu.ppy.sh/users/9097878)**, ::{ flag=CL }:: [Aisha](https://osu.ppy.sh/users/2192669) |
+| **Asa Trumming** | ::{ flag=SE }:: **[Sebbe](https://osu.ppy.sh/users/3181965)**, ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650) |
+| **Avocado Sushi Roll** | ::{ flag=JP }:: **[Noko\_BSF](https://osu.ppy.sh/users/3811831)**, ::{ flag=JP }:: [croce\_latte](https://osu.ppy.sh/users/10948259) |
+| **Carnival0108 HDHRFL** | ::{ flag=CL }:: **[Maniaco1](https://osu.ppy.sh/users/1158576)**, ::{ flag=CL }:: [\[ T-pazolite \]](https://osu.ppy.sh/users/2412835) |
+| **Converts Suck** | ::{ flag=US }:: **[dragonworm](https://osu.ppy.sh/users/11464752)**, ::{ flag=US }:: [driodx](https://osu.ppy.sh/users/9709548) |
+| **CTB - Convert Taiko Bureau** | ::{ flag=AU }:: **[Beat43210](https://osu.ppy.sh/users/5664171)**, ::{ flag=CA }:: [rubies87](https://osu.ppy.sh/users/4949934) |
+| **Dodge the rhythm** | ::{ flag=FR }:: **[maximaxiU](https://osu.ppy.sh/users/4069690)**, ::{ flag=FR }:: [DwarfSpykerr](https://osu.ppy.sh/users/8453742) |
+| **En Marche!** | ::{ flag=FR }:: **[TimmyAkmed](https://osu.ppy.sh/users/1799973)**, ::{ flag=FR }:: [Yona la loutre](https://osu.ppy.sh/users/7930622) |
+| **ForelychLovers** | ::{ flag=RU }:: **[TwinT](https://osu.ppy.sh/users/9976154)**, ::{ flag=RU }:: [Starger](https://osu.ppy.sh/users/3398715) |
+| **Hearts** | ::{ flag=CL }:: **[NO37](https://osu.ppy.sh/users/4653583)**, ::{ flag=CL }:: [Mimyuu](https://osu.ppy.sh/users/13913052) |
+| **Howl'y Orders \[Sin\]** | ::{ flag=BR }:: **[Coryn](https://osu.ppy.sh/users/2828556)**, ::{ flag=BR }:: [Hakuryu](https://osu.ppy.sh/users/1235444) |
 | **HRdcore** | ::{ flag=RU }:: **[Nozdormu](https://osu.ppy.sh/users/7169208)**, ::{ flag=RU }:: [Akonine](https://osu.ppy.sh/users/7774222) |
-| **Imprisoned Isolationists** | ::{ flag=AU }:: **[Beat43210](https://osu.ppy.sh/users/5664171)**, ::{ flag=BG }:: [giyokon](https://osu.ppy.sh/users/10852632) |
-| **j h q w 2** | ::{ flag=GB }:: **[Horiiizon](https://osu.ppy.sh/users/8071438)**, ::{ flag=US }:: [closed](https://osu.ppy.sh/users/5116922) |
-| **Jargentina** | ::{ flag=JP }:: **[Sanawi](https://osu.ppy.sh/users/4125666)**, ::{ flag=AR }:: [Jintsuu](https://osu.ppy.sh/users/7165127) |
-| **MarunouchiOL** | ::{ flag=JP }:: **[Yoroiari](https://osu.ppy.sh/users/6056862)**, ::{ flag=JP }:: [nyanmi-1828](https://osu.ppy.sh/users/6866480) |
-| **mokipAkmed** | ::{ flag=FR }:: **[Mokip](https://osu.ppy.sh/users/11404841)**, ::{ flag=FR }:: [Yona](https://osu.ppy.sh/users/7930622) |
-| **nautilus fdp** | ::{ flag=FR }:: **[-Akitai-](https://osu.ppy.sh/users/8897643)**, ::{ flag=FR }:: [Panda\_0ne](https://osu.ppy.sh/users/11216472) |
-| **Nyoomers eSports** | ::{ flag=US }:: **[DiggyDogg](https://osu.ppy.sh/users/5014664)**, ::{ flag=US }:: [Ethaaaan](https://osu.ppy.sh/users/9536977) |
-| **OD 9.8** | ::{ flag=US }:: **[ITotallyGetThat](https://osu.ppy.sh/users/8770622)**, ::{ flag=US }:: [Rukairi](https://osu.ppy.sh/users/6642597) |
-| **PP is my name, Convert is my game** | ::{ flag=BR }:: **[Brasil](https://osu.ppy.sh/users/3949268)**, ::{ flag=BR }:: [Ppus](https://osu.ppy.sh/users/5918857) |
-| **QUEBRADA SENSACIONAL** | ::{ flag=BR }:: **[Mikudayo](https://osu.ppy.sh/users/5235718)**, ::{ flag=BR }:: [Coryn](https://osu.ppy.sh/users/2828556) |
-| **Shamikan** | ::{ flag=JP }:: **[konohahakase](https://osu.ppy.sh/users/11325757)**, ::{ flag=JP }:: [3PagE](https://osu.ppy.sh/users/3560258) |
-| **Tacos and Schabowy** | ::{ flag=PL }:: **[fafik99](https://osu.ppy.sh/users/1787011)**, ::{ flag=MX }:: [Warfu](https://osu.ppy.sh/users/2451000) |
-| **Team Fabulous 2** | ::{ flag=US }:: **[Brames](https://osu.ppy.sh/users/6417190)**, ::{ flag=MX }:: [Awwy](https://osu.ppy.sh/users/4183406) |
-| **thank u, next** | ::{ flag=AU }:: **[Tsubasa2](https://osu.ppy.sh/users/6835183)**, ::{ flag=AU }:: [r1chyy](https://osu.ppy.sh/users/11499467) |
-| **The Lucky Crabs** | ::{ flag=FR }:: **[\_Infected\_](https://osu.ppy.sh/users/7432095)**, ::{ flag=FR }:: [BananaW](https://osu.ppy.sh/users/9298106) |
-| **The Return of the Aces** | ::{ flag=DE }:: **[QEpicAce](https://osu.ppy.sh/users/9489153)**, ::{ flag=DE }:: [xMrtn-](https://osu.ppy.sh/users/866297) |
-| **Unlikely convergence** | ::{ flag=DE }:: **[Sayira](https://osu.ppy.sh/users/7253958)**, ::{ flag=DE }:: [Mew](https://osu.ppy.sh/users/2345156) |
-| **Waiting in the Pain Room** | ::{ flag=DE }:: **[Drecksackblase](https://osu.ppy.sh/users/6278008)**, ::{ flag=KR }:: [Chiswell](https://osu.ppy.sh/users/659959) |
-| **what** | ::{ flag=US }:: **[fieryrage](https://osu.ppy.sh/users/3533958)**, ::{ flag=US }:: [Kamuy](https://osu.ppy.sh/users/7439226) |
-| **wheelchair** | ::{ flag=RU }:: **[cloudfags](https://osu.ppy.sh/users/5285786)**, ::{ flag=RU }:: [Naninub](https://osu.ppy.sh/users/8188876) |
-| **öö v2** | ::{ flag=FI }:: **[Yes](https://osu.ppy.sh/users/6567244)**, ::{ flag=FI }:: [tikkanen](https://osu.ppy.sh/users/7341081) |
-| **大山翔太** | ::{ flag=JP }:: **[Saikoro](https://osu.ppy.sh/users/741819)**, ::{ flag=JP }:: [IA vocaloid](https://osu.ppy.sh/users/3023007) |
+| **Husha Dinámica** | ::{ flag=CL }:: **[Alepat](https://osu.ppy.sh/users/1164931)**, ::{ flag=AR }:: [Midnaait](https://osu.ppy.sh/users/1506011) |
+| **i cant think of anything witty atm** | ::{ flag=US }:: **[Catgirl](https://osu.ppy.sh/users/2771995)**, ::{ flag=AU }:: [Fuel](https://osu.ppy.sh/users/5155081) |
+| **j h q w** | ::{ flag=US }:: **[closed](https://osu.ppy.sh/users/5116922)**, ::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438) |
+| **Kero Kero** | ::{ flag=AU }:: **[Tsubasa2](https://osu.ppy.sh/users/6835183)**, ::{ flag=AU }:: [raii](https://osu.ppy.sh/users/7410165) |
+| **L C** | ::{ flag=MX }:: **[L\_CORTES\_01](https://osu.ppy.sh/users/12548363)**, ::{ flag=MX }:: [Loox15](https://osu.ppy.sh/users/11082107) |
+| **Le Conseil** | ::{ flag=FR }:: **[BananaW](https://osu.ppy.sh/users/9298106)**, ::{ flag=FR }:: [\_Infected\_](https://osu.ppy.sh/users/7432095) |
+| **Midstream Finishers** | ::{ flag=US }:: **[Shyguy](https://osu.ppy.sh/users/178038)**, ::{ flag=US }:: [Das](https://osu.ppy.sh/users/3165416) |
+| **Milos Team** | ::{ flag=CL }:: **[Neon734](https://osu.ppy.sh/users/10907480)**, ::{ flag=CL }:: [FrijolFrijolado](https://osu.ppy.sh/users/5035711) |
+| **Red Dead** | ::{ flag=TR }:: **[Apollon the Red](https://osu.ppy.sh/users/6969101)**, ::{ flag=TR }:: [xDeadlordx](https://osu.ppy.sh/users/11211230) |
+| **RGTeam** | ::{ flag=RU }:: **[Voenkom](https://osu.ppy.sh/users/10168328)**, ::{ flag=JP }:: [uranosu1030](https://osu.ppy.sh/users/9029238) |
+| **Rice Team** | ::{ flag=PL }:: **[\_SC0RP10N](https://osu.ppy.sh/users/9511518)**, ::{ flag=PL }:: [Uneska](https://osu.ppy.sh/users/8210074) |
+| **SightreadBoys** | ::{ flag=RU }:: **[Dayzeek](https://osu.ppy.sh/users/5009970)**, ::{ flag=RU }:: [Alt](https://osu.ppy.sh/users/736496) |
+| **SINEP3.0** | ::{ flag=BR }:: **[Mikudayo](https://osu.ppy.sh/users/5235718)**, ::{ flag=BR }:: [Skull Kid](https://osu.ppy.sh/users/3044264) |
+| **The DevStroKahosir** | ::{ flag=FR }:: **[Musclor](https://osu.ppy.sh/users/9637676)**, ::{ flag=FR }:: [Kaho-Hinata](https://osu.ppy.sh/users/8903888) |
+| **The Entire Navy Seals Copypasta** | ::{ flag=US }:: **[--noodle](https://osu.ppy.sh/users/6615688)**, ::{ flag=US }:: [Rukairi](https://osu.ppy.sh/users/6642597) |
+| **Tsumelan222** | ::{ flag=AR }:: **[Jintsuu](https://osu.ppy.sh/users/7165127)**, ::{ flag=EC }:: [Gamelan4](https://osu.ppy.sh/users/9856910) |
 
 ## Groups
 
@@ -93,14 +93,14 @@ Seed was determined by sum of performance points (pp) from each team
 
 | Group | Top seed | High seed | Middle seed | Low seed |
 | :-: | :-- | :-- | :-- | :-- |
-| **A** | Caiu na vila o Peixe fuzila | ''-' | The Return of the Aces | what |
-| **B** | 87 | Bongo Bois | Jargentina | öö v2 |
-| **C** | j h q w 2 | Bancho Doesn't Play | QUEBRADA SENSACIONAL | nautilus fdp |
-| **D** | :flushed: | The Lucky Crabs | Unlikely convergence | OD 9.8 |
-| **E** | PP is my name, Convert is my game | Waiting in the Pain Room | 大山翔太 | Nyoomers eSports |
-| **F** | MarunouchiOL | HRdcore | Imprisoned Isolationists | Crippling Depression |
-| **G** | chad | wheelchair | thank u, next | ForelychLovers Reborn |
-| **H** | Shamikan | mokipAkmed | Team Fabulous 2 | Tacos and Schabowy |
+| **A** | Asa Trumming | Dodge the rhythm | Avocado Sushi Roll | L C |
+| **B** | i cant think of anything witty atm | CTB - Convert Taiko Bureau | Agresywny Fafik | Red Dead |
+| **C** | Howl'y Orders \[Sin\] | Milos Team | Converts Suck | Hearts |
+| **D** | j h q w | RGTeam | Kero Kero | The Entire Navy Seals Copypasta |
+| **E** | Midstream Finishers | Tsumelan222 | 3rd Shift A | The DevStroKahosir |
+| **F** | Husha Dinámica | SightreadBoys | Rice Team | SINEP3.0 |
+| **G** | >o\_\_. | Carnival0108 HDHRFL | HRdcore | 3rd Shift B |
+| **H** | En Marche! | Le Conseil | Akisha | ForelychLovers |
 
 ## Podium
 
