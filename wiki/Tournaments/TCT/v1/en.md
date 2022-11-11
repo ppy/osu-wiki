@@ -415,7 +415,7 @@ Sunday, 3 May 2020:
 3. The scoring system used will be **Score V2**.
 4. Teams will be seeded by performance points (pp) first and after that will be put into 8 groups of 4, and then top 16 teams will then proceed to the Group Stage with the top 2 teams per each group proceeding to the Knockout Stage.
 5. The Taiko 2v2 Converted Maps Tourney will use double-elimination bracket, which means that there will be a losers' bracket and winners' bracket.
-6. Reschedules will only be considered if both teams agree to a time. This needs to be done and notified to the tournament staff before **Friday at 23:00 UTC** in the particular week when the match takes place.
+6. Reschedules will only be considered if both teams agree to a time. This needs to be done and communicated to the tournament staff before **Friday at 23:00 UTC** in the particular week when the match takes place.
 7. Even in a tournament setting, osu! is still a game. Please respect each other, be friendly, and play fair.
 
 ### In-game procedure
@@ -426,7 +426,7 @@ Sunday, 3 May 2020:
    - Keep in mind that abstaining from a 1v1 is equivalent to forfeiting the match.
 3. Captains will decide if they want to pick a warmup map (maximum limit is **3:30**) and the order does not matter.
 4. Captains will use the `!roll` command. Each team will ban 1 map starting from the one who rolled the lowest.
-5. After the bans, the team that got the higher roll picks their first map then the other team picks theirs. This is continued until the match is done.
+5. After the bans, the team that got the higher roll picks their first map, then the other team picks theirs. This is continued until the match is done.
 6. If a player gets disconnected for some reason in the first 10 seconds of the song, the referee will abort the game and restart it.
    - If it happens after 10 seconds, the score before the disconnect will be counted.
 7. The referee can penalise teams if any player presents bad behaviour in the game room.
@@ -434,7 +434,7 @@ Sunday, 3 May 2020:
 9. If a player fails in a song and does not revive, then their score is not counted, but if they do revive it will count. If every player in a team fails, then the sum of their scores will count.
 10. If there is a tie, then no points are added to any team, but the map will be considered as played. If there is a tie on the tiebreaker, then then a rematch will happen using FreeMod conditions.
 11. The FreeMod pool is played with FreeMod activated. Every player may pick a combination of Hidden, HardRock, Easy, or Flashlight but at least one player from each team must have at least one mod activated.
-12. The ForceMod pool is played with ForceMod activated. Every player has to pick Hidden, HardRock, Easy, or Flashlight
+12. The ForceMod pool is played with ForceMod activated. Every player has to pick Hidden, HardRock, Easy, or Flashlight.
 13. The Tiebreaker is played under FreeMod conditions, but it is not necessary to have a mod activated.
 
 ### Win conditions
