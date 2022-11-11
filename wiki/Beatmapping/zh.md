@@ -3,7 +3,7 @@
 # 作图
 
 **作图** （又称制谱）是在 osu! 里创造可提供给其他玩家游玩的[谱面](/wiki/Beatmap)的过程。
-这包括了选歌、[测定歌曲时间轴 (Timing)](/wiki/Client/Beatmap_editor/Timing),、摆放[物件](/wiki/Hit_object)，并按照自己喜好[制作皮肤](/wiki/Skinning)和[故事板](/wiki/Storyboard#制作故事板)。
+这包括了选歌、[测定歌曲时间轴 (Timing)](/wiki/Client/Beatmap_editor/Timing),、摆放[物件](/wiki/Hit_object)，并按照自己喜好[制作皮肤](/wiki/Skinning)和[故事板](/wiki/Storyboard)。
 
 谱师通常都想要让自己的谱面进入[谱面上架流程](/wiki/Beatmap_ranking_procedure)，从而[上架](/wiki/Beatmap)。
 
@@ -52,7 +52,7 @@
 
 ### 设计 (Design)
 
-*主文章：[设计 (Design)](/wiki/Client/Beatmap_editor/Design) 和[制作故事板](/wiki/Storyboard#制作故事板)*
+*主文章：[设计 (Design)](/wiki/Client/Beatmap_editor/Design) 和[制作故事板](/wiki/Storyboard)*
 
 你可以在谱面的设计 (Design) 界面中设置背景图片，添加背景视频，或者创作一个基础的故事板。
 如果你会[利用脚本编写故事板 (SBS)](/wiki//Storyboard/Scripting) 的话，这个界面可能几乎用不到。
