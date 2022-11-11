@@ -7,78 +7,80 @@ tags:
   - team
   - team osu!
   - 工作人员
-  - osu! 团队
   - osu!团队
-outdated_translation: true
-outdated_since: 1175fe79cab9897bca0e60ff7056c7a1a2510bfe
 ---
 
 # 团队
 
-*有关晋升和退休的列表，请参阅：[人员日志](/wiki/Staff_Log)*
+*有关入职和离职的人员变动记录，参阅：[工作人员日志](/wiki/Staff_Log)*
 
-以下列出的玩家是 **osu!team** 的核心成员，并且致力于让这个游戏变得更有趣。
+以下列出的玩家是 **osu! 团队** 的核心成员，他们致力于给大家带来更有趣的游戏。
 
-| 昵称 | 介绍 |
+| 名称                                                         | 职责 <!-- TODO: "Featured Artist outreach" isn't a role but I'm not sure how to write it as one... --> |
 | :-- | :-- |
-| ::{ flag=AU }:: **[peppy](https://osu.ppy.sh/users/2)** | **项目领头人** |
-| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | 摸图和作图圈的顾问 |
-| ::{ flag=US }:: [Chaos](https://osu.ppy.sh/users/2628870) | Moderation<!--NT--> 和社区顾问 |
-| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | 项目/社区的维护 & 精选艺术家推广 |
-| ::{ flag=JP }:: [flyte](https://osu.ppy.sh/users/3103765) | 首席设计师 & Creative Cloud 常任观察员 |
-| ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) | 摸图和作图圈的顾问 |
-| ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515) | 摸图和作图圈的顾问 |
-| ::{ flag=JP }:: [nanaya](https://osu.ppy.sh/users/2387883) | osu!web 开发者 |
-| ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | 基本秩序维护 & Moderation<!--NT--> 顾问 |
-| ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) | osu!web 开发者 & [官方 osu! 特色艺术家](https://osu.ppy.sh/beatmaps/artists/1) |
-| ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | osu!web 开发者 |
-| ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | 摸图和作图圈的顾问 |
-| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | 摸图和作图圈的顾问 & Mappers' Guild 组织者 & 精选艺术家推广 |
-| ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | 基本秩序维护 & wiki 维护 |
-| ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | 基本秩序维护 |
-| ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) | osu! 开发者 & osu!mania 爱好者 & bug 杀手 |
-| ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) | Project Loved 领导者 & 社区顾问 & 精选艺术家推广 |
-| ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | 基本秩序维护 & 赛事助手 |
-| ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | 基本秩序维护 & 世界杯的组织者和管理者 & wiki 维护 |
-| ::{ flag=AU }:: [Zallius](https://osu.ppy.sh/users/55) | 濒危物种 |
+| ::{ flag=AU }:: **[peppy](https://osu.ppy.sh/users/2)**      | 项目负责人                                                   |
+| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163)     | 摸图和作图领域顾问                                           |
+| ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578)     | 世界杯比赛组织者与管理员                                     |
+| ::{ flag=US }:: [Chaos](https://osu.ppy.sh/users/2628870)    | 内容审核和社区顾问                                           |
+| ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | 世界杯比赛组织者与管理员                                     |
+| ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | 项目和社区维护、精选艺术家募集者                             |
+| ::{ flag=JP }:: [flyte](https://osu.ppy.sh/users/3103765)    | 设计负责人，常驻创意云监视者                                 |
+| ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) | 摸图和作图领域顾问                                           |
+| ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779)   | 世界杯比赛组织者与管理员                                     |
+| ::{ flag=JP }:: [nanaya](https://osu.ppy.sh/users/2387883)   | osu!web 开发者                                               |
+| ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | 秩序维护员、内容审核顾问                                     |
+| ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102)      | osu!web 开发者、[osu! 官方精选艺术家](https://osu.ppy.sh/beatmaps/artists/1) |
+| ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | osu!web 开发者                                               |
+| ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405)  | 摸图和作图领域顾问                                           |
+| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | 摸图和作图领域顾问、谱师工会 (Mappers' Guild) 组织者、精选艺术家募集者 |
+| ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392)   | 秩序维护员、wiki 维护员                                      |
+| ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005)     | 秩序维护员                                                   |
+| ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) | osu! 开发者、osu!mania 社区喜爱评估者、bug 杀手（测试工程师） |
+| ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689)      | 社区喜爱计划 (Project Loved) 组织者、社区顾问、精选艺术家募集者 |
+| ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385)   | 秩序维护员、锦标赛援助                                       |
+| ::{ flag=AU }:: [Zallius](https://osu.ppy.sh/users/55)       | 濒危物种（团队吉祥物）                                       |
 
 ## 用户组
 
-以下是由帮助维护 osu! 的 osu!community 成员组成的用户组。这些用户组中的大多数可以通过其论坛颜色，游戏中聊天颜色，个人资料标题或个人资料徽章来识别。
+以下列出的玩家组由帮助维护 osu! 的社区成员组成。可以通过观察论坛、游戏内聊天、的用户名颜色或个人资料上列出的头衔和徽章来识别这些成员。
 
-| 名 | 描述 |
+| 名称                                                    | 描述                                                     |
 | :-- | :-- |
-| [Beatmap Nominators](Beatmap_Nominators) | 使你的图能够上架的玩家 |
-| [Developers](Developers) | 通过添加新功能并修复 Bugs 来使游戏更加有趣 |
-| [Global Moderation Team](Global_Moderation_Team) | 管理论坛和聊天室 |
-| [Nomination Assessment Team](Nomination_Assessment_Team) | 负责管理 Beatmap Nominators |
-| [osu! Alumni](osu!_Alumni) | 曾经为社区做出了杰出贡献 |
-| [Project Loved Team](Project_Loved_Team) | 辨认社区最喜欢的谱面 |
-| [Support Team](Support_Team) | 处理**帮助**/**新功能请求**的助手 |
+| [谱面审核成员 (BN)](Beatmap_Nominators)                 | 能给你的谱面提供修改意见，变得更好从而进入上架状态的玩家 |
+| [开发者](Developers)                                    | 添加更多功能，修复问题来提升游戏的趣味性的玩家           |
+| [全局管理团队 (GMT)](Global_Moderation_Team)            | 管理论坛和聊天室的玩家                                   |
+| [审核评估团队 (NAT)](Nomination_Assessment_Team)        | 管理所有谱面审核成员 (BN) 的玩家                         |
+| [osu! 名人堂](osu!_Alumni)                              | 曾经为社区做出了杰出贡献的玩家                           |
+| [社区喜爱计划 (Project Loved) 团队](Project_Loved_Team) | 挑选出社区内玩家喜爱谱面的玩家                           |
+| [支持团队](Support_Team)                                | 处理帮助请求或新功能请求的玩家                           |
 
 ## 不活跃的核心团队成员
 
-| 昵称 | 介绍 |
+<!-- Jim is the only person here that has never had an osu! profile (PR #4611) -->
+
+| Name                                                         | Role                                                         |
 | :-- | :-- |
-| ::{ flag=US }:: [awp](https://osu.ppy.sh/users/2650) | 基本秩序维护和帮助 & 游戏/网页上 “Chibi” 的美术设计 & [Barrel Roll Weekly](http://brw.twinkfish.com/) |
-| ::{ flag=NO }:: [cYsmix](https://osu.ppy.sh/users/272870) | 音频设计 & [官方 osu! 特色艺术家](https://osu.ppy.sh/beatmaps/artists/2) |
-| ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370) | 世界杯的组织和管理者 |
-| ::{ flag=US }:: [Derekku](https://osu.ppy.sh/users/91341) | 基本秩序维护 & 社区管理 |
-| ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | osu! 开发团队 & 游戏内聊天的一体化 & 网页维护 & [博客](http://blog.echo.sh/) |
-| ::{ flag=US }:: [HappyStick](https://osu.ppy.sh/users/256802) | osu! Coffee Hour 组织者 & 世界杯直播员、组织者 |
-| ::{ flag=NL }:: [Intermezzo](https://osu.ppy.sh/users/136842) | osu! 开发团队 & osz2/p2p 后端 |
-| ::{ flag=US }:: Jim | 初代网页设计 & [Brave New Games](http://www.bravegamer.com/) |
-| ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | 世界杯的组织者和管理者 |
-| ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | 世界杯的组织和管理者 & QAT 领导者 & 社区管理 |
-| ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | 杰出皮肤设计者 & 为默认皮肤和图标的设计做出贡献 & [DeviantArt](https://luigihann.deviantart.com/) |
-| ::{ flag=US }:: [mm201](https://osu.ppy.sh/users/30655) | osu! 开发团队 & mm 滑条创始人 |
-| ::{ flag=US }:: [nuudles](https://osu.ppy.sh/users/21312) | osu! iPhone 开发者 |
-| ::{ flag=US }:: [Nyquill](https://osu.ppy.sh/users/682935) | osu! 开发团队 & Mappers' Guild 组织者 |
-| ::{ flag=AU }:: [phill](https://osu.ppy.sh/users/53) | 论坛设计工作 |
-| ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | osu! 画师 & 制作很酷的素材 |
-| ::{ flag=US }:: [Sarumaru](https://osu.ppy.sh/users/9427) | 初代 pippi 概念与美术设计 & [DeviantArt](https://sarumaru.deviantart.com/) |
-| ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | 早期社区管理与 Leadership & 讨论记录 & FAQ 贡献者 |
-| ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | osu! & pp 系统开发者 |
-| ::{ flag=CN }:: [woc2006](https://osu.ppy.sh/users/1105845) | osu! 开发团队 & osu!mania 开发者 |
-| ::{ flag=JP }:: [yelle](https://osu.ppy.sh/users/4916903) | [osu!store](https://osu.ppy.sh/store/listing) 管理 |
-| ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) | [osu!academy](/wiki/Community/Video_series/osu!academy) 教授 & 媒体/人物 设计 |
+| ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650)         | 秩序维护员和援助者、萌版人物设计。[Barrel Roll Weekly](http://brw.twinkfish.com/) |
+| ::{ flag=NO }:: [cYsmix](https://osu.ppy.sh/users/272870)    | 音频设计者、[osu! 官方精选艺术家](https://osu.ppy.sh/beatmaps/artists/2) |
+| ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370)  | 世界杯比赛组织者与管理员                                     |
+| ::{ flag=US }:: [Derekku](https://osu.ppy.sh/users/91341)    | 秩序维护员、社区管理员                                       |
+| ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431)         | osu! 开发者、游戏 IRC 聊天一体化、网站管理员。[博客](http://blog.echo.sh/) |
+| ::{ flag=US }:: [HappyStick](https://osu.ppy.sh/users/256802) | osu! Coffee Hour 主办、世界杯比赛直播员、锦标赛组织者        |
+| ::{ flag=NL }:: [Intermezzo](https://osu.ppy.sh/users/136842) | osu! 开发者、osz2/p2p 后端开发者                             |
+| ::{ flag=US }:: Jim                                          | 原版网站设计者、早期的托管服务器提供者。[Brave New Games](http://www.bravegamer.com/) |
+| ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | 世界杯比赛组织者与管理员                                     |
+| ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366)     | 世界杯比赛组织者与管理员、QAT 领头、社区管理员               |
+| ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079)   | 优秀的皮肤设计者 iconset 和 默认皮肤的贡献者。[DeviantArt](https://luigihann.deviantart.com/) |
+| ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515)      | 摸图和作图领域顾问                                           |
+| ::{ flag=CA }:: [mm201](https://osu.ppy.sh/users/30655)      | osu! 开发者、mm 滑条创始人                                   |
+| ::{ flag=US }:: [nuudles](https://osu.ppy.sh/users/21312)    | osu! iPhone 开发者                                           |
+| ::{ flag=CA }:: [Nyquill](https://osu.ppy.sh/users/682935)   | osu! 开发者、谱师工会 (Mappers' Guild) 组织者                |
+| ::{ flag=AU }:: [phill](https://osu.ppy.sh/users/53)         | 论坛设计者                                                   |
+| ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202)    | osu! 画师，制作了很酷的素材                                  |
+| ::{ flag=US }:: [Sarumaru](https://osu.ppy.sh/users/9427)    | 初代 pippi 概念设计和美术设计者。DeviantArt](https://sarumaru.deviantart.com/) |
+| ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530)    | 早期的社区管理员和领头人、讨论记录与 FAQ 贡献者              |
+| ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058)    | osu! 和 pp 开发者                                            |
+| ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | 秩序维护员、世界杯比赛组织者与管理员、wiki 维护者            |
+| ::{ flag=CN }:: [woc2006](https://osu.ppy.sh/users/1105845)  | osu! 开发者、osu!mania 游戏模式开发者                        |
+| ::{ flag=JP }:: [yelle](https://osu.ppy.sh/users/4916903)    | [osu! 商店](https://osu.ppy.sh/store/listing)管理员          |
+| ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347)       | [osu! 学院](/wiki/Community/Video_series/osu!academy)教授、媒体和人物设计者 |
