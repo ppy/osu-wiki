@@ -82,7 +82,7 @@ The Taiko 2v2 Converted Maps Tourney was run by various community members.
 | **RGTeam** | ::{ flag=RU }:: **[Voenkom](https://osu.ppy.sh/users/10168328)**, ::{ flag=JP }:: [uranosu1030](https://osu.ppy.sh/users/9029238) |
 | **Rice Team** | ::{ flag=PL }:: **[\_SC0RP10N](https://osu.ppy.sh/users/9511518)**, ::{ flag=PL }:: [Uneska](https://osu.ppy.sh/users/8210074) |
 | **SightreadBoys** | ::{ flag=RU }:: **[Dayzeek](https://osu.ppy.sh/users/5009970)**, ::{ flag=RU }:: [Alt](https://osu.ppy.sh/users/736496) |
-| **SINEP3.0** | ::{ flag=BR }:: **[Mikudayo](https://osu.ppy.sh/users/5235718)**, ::{ flag=BR }:: [Skull Kid](https://osu.ppy.sh/users/3044264) |
+| **SINEP 3.0** | ::{ flag=BR }:: **[Mikudayo](https://osu.ppy.sh/users/5235718)**, ::{ flag=BR }:: [Skull Kid](https://osu.ppy.sh/users/3044264) |
 | **The DevStroKahosir** | ::{ flag=FR }:: **[Musclor](https://osu.ppy.sh/users/9637676)**, ::{ flag=FR }:: [Kaho-Hinata](https://osu.ppy.sh/users/8903888) |
 | **The Entire Navy Seals Copypasta** | ::{ flag=US }:: **[--noodle](https://osu.ppy.sh/users/6615688)**, ::{ flag=US }:: [Rukairi](https://osu.ppy.sh/users/6642597) |
 | **Tsumelan222** | ::{ flag=AR }:: **[Jintsuu](https://osu.ppy.sh/users/7165127)**, ::{ flag=EC }:: [Gamelan4](https://osu.ppy.sh/users/9856910) |
@@ -98,7 +98,7 @@ Seed was determined by sum of performance points (pp) from each team
 | **C** | Howl'y Orders \[Sin\] | Milos Team | Converts Suck | Hearts |
 | **D** | j h q w | RGTeam | Kero Kero | The Entire Navy Seals Copypasta |
 | **E** | Midstream Finishers | Tsumelan222 | 3rd Shift A | The DevStroKahosir |
-| **F** | Husha Dinámica | SightreadBoys | Rice Team | SINEP3.0 |
+| **F** | Husha Dinámica | SightreadBoys | Rice Team | SINEP 3.0 |
 | **G** | >o\_\_. | Carnival0108 HDHRFL | HRdcore | 3rd Shift B |
 | **H** | En Marche! | Le Conseil | Akisha | ForelychLovers |
 
@@ -268,148 +268,143 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-Sunday, 7 June 2020:
+Sunday, 2 May 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **87** | **6** | 0 | Tacos and Schabowy | [#1](https://osu.ppy.sh/community/matches/62633606) |
+| **Husha Dinámica** | **6** | 0 | >o\_\_. | [#1](https://osu.ppy.sh/community/matches/51471892) |
 
 ### Finals
 
-Sunday, 31 May 2020:
+Wednesday, 24 April 2020:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| j h q w 2 | 0 | **5** | **87** | [#1](https://osu.ppy.sh/community/matches/62347535) |
-| j h q w 2 | 1 | **5** | **Tacos and Schabowy** | *missing link* |
+| >o\_\_. | 0 | **5** | **Husha Dinámica** | [#1](https://osu.ppy.sh/community/matches/51264119) |
+| **>o\_\_.** | **5** | 0 | En Marche! | [#1](https://osu.ppy.sh/community/matches/51265357) |
 
 ### Semifinals
 
-Saturday, 23 May 2020:
+Saturday, 13 April 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Unlikely Convergence | -1 | **0** | **chad** | *win by default* |
-| **87** | **5** | 0 | :flushed: | [#1](https://osu.ppy.sh/community/matches/62013972) |
-| ''-' | 0 | **5** | **j h q w 2** | [#1](https://osu.ppy.sh/community/matches/62016106) |
+| Asa Trumming | 0 | **5** | **>o\_\_.** | [#1](https://osu.ppy.sh/community/matches/50971079) |
+| j h q w | 1 | **5** | **Husha Dinamica** | [#1](https://osu.ppy.sh/community/matches/50972918) |
 
-Sunday, 24 May 2020:
+Sunday, 14 April 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| marunouchiOL | 2 | **5** | **Tacos and Schabowy** | [#1](https://osu.ppy.sh/community/matches/62042359) |
-| ''-' | -1 | **0** | **Tacos and Schabowy** | *win by default* |
-| **Tacos and Schabowy** | **5** | 4 | :flushed: | [#1](https://osu.ppy.sh/community/matches/62055710) |
-| **:flushed:** | **0** | -1 | chad | *win by default* |
+| Asa Trumming | 0 | **5** | **En Marche!** | [#1](https://osu.ppy.sh/community/matches/50997784) |
+| j h q w | 4 | **5** | **Midstream Finishers** | [#1](https://osu.ppy.sh/community/matches/51004620) |
+| Midstream Finishers | 0 | **5** | **En Marche!** | [#1](https://osu.ppy.sh/community/matches/51006449) |
 
 ### Quarterfinals
 
-Saturday, 16 May 2020:
+Saturday, 6 April 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **:flushed:** | **4** | 1 | marunouchiOL | [#1](https://osu.ppy.sh/community/matches/61723918) |
-| **87** | **4** | 0 | Tacos and Schabowy | [#1](https://osu.ppy.sh/community/matches/61743170) |
-| **Tacos and Schabowy** | **4** | 0 | Waiting in the Panic Room | [#1](https://osu.ppy.sh/community/matches/61745519) |
-| **''-'** | **4** | 1 | chad | [#1](https://osu.ppy.sh/community/matches/61747054) |
-| **j h q w 2** | **0** | -1 | Unlikely Convergence | *win by default* |
+| **Asa Trumming** | **4** | 0 | Kero Kero | [#1](https://osu.ppy.sh/community/matches/50791385) |
+| Agresywny Fafik | 0 | **4** | **j h q w** | [#1](https://osu.ppy.sh/community/matches/50807084) |
+| Midstream Finishers | 1 | **4** | **>o\_\_.** | [#1](https://osu.ppy.sh/community/matches/50809658) |
+| **Husha Dinámica** | **4** | 0 | Akisha | [#1](https://osu.ppy.sh/community/matches/50813738) |
 
-Sunday, 17 May 2020:
+Sunday, 7 April 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **chad** | **0** | -1 | QUEBRADA SENSACIONAL | *win by default* |
-| **marunouchiOL** | **4** | 1 | Bongo Bois | [#1](https://osu.ppy.sh/community/matches/61747054) |
-| **Unlikely Convergence** | **4** | 0 | wheelchair | *missing link* |
+| **Midstream Finishers** | **4** | 0 | Avocado Sushi Roll | [#1](https://osu.ppy.sh/community/matches/50817483) |
+| Tsuumelan2222 | -1 | **0** | **Kero Kero** | *win by default* |
+| **En Marche!** | **4** | 0 | Agresywny Fafik | [#1](https://osu.ppy.sh/community/matches/50827463) |
+| **Midstream Finishers** | **4** | 0 | Kero Kero | [#1](https://osu.ppy.sh/community/matches/50829096) |
+| **Red Dead** | **4** | 0 | Akisha | *win by default* |
+| Red Dead | 1 | **4** | **En Marche!** | [#1](https://osu.ppy.sh/community/matches/50835247) |
 
 ### Round of 16
 
-Saturday, 9 May 2020:
+Saturday, 30 March 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **''-'** | **0** | -1 | Shamikan | *win by default* |
-| **Tacos and Schabowy** | **4** | 0 | The Return of the Aces | [#1](https://osu.ppy.sh/community/matches/61450709) |
-| **MarunouchiOL** | **4** | 0 | QUEBRADA SENSACIONAL | [#1](https://osu.ppy.sh/community/matches/61453343) |
-| **87** | **4** | 0 | wheelchair | [#1](https://osu.ppy.sh/community/matches/61452899) |
-| **j h q w 2** | **0** | -1 | Crippling Depression | *win by default* |
-| **chad** | **4** | 0 | Bongo Bois | [#1](https://osu.ppy.sh/community/matches/61461612) |
+| Carnival0108 HDHRFL | 3 | **4** | **Akisha** | [#1](https://osu.ppy.sh/community/matches/50621821) |
+| Avocado Sushi Roll | 1 | **4** | **Agresywny Fafik** | [#1](https://osu.ppy.sh/community/matches/50633758) |
+| **Asa Trumming** | **0** | -1 | Red Dead | *win by default* |
+| Converts Suck | 0 | **4** | **j h q w** | [#1](https://osu.ppy.sh/community/matches/50645099) |
+| **>o\_\_.** | **4** | 0 | En Marche! | [#1](https://osu.ppy.sh/community/matches/50646664) |
+| Tsumelan222 | 0 | **4** | **Husha Dinámica** | [#1](https://osu.ppy.sh/community/matches/50650284) |
 
-Sunday, 10 May 2020:
-
-| Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **:flushed:** | **4** | 0 | Nyoomers eSports | [#1](https://osu.ppy.sh/community/matches/61475588) |
-| Shamikan | -1 | **0** | **Bongo Bois** | *win by default* |
-| **wheelchair** | **4** | 2 | The Return of the Aces | [#1](https://osu.ppy.sh/community/matches/61489800) |
-| Waiting in the Pain Room | 1 | **4** | **Unlikely Convergence** | [#1](https://osu.ppy.sh/community/matches/61497413) |
-| Crippling Depression | -1 | **0** | **The Return of the Aces** | *win by default* |
-
-Monday, 11 May 2020:
+Sunday, 31 March 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Nyoomers eSports | 1 | **4** | **QUEBRADA SENSACIONAL** | *missing link* |
+| **Midstream Finishers** | **4** | 0 | SINEP 3.0 | [#1](https://osu.ppy.sh/community/matches/50653200) |
+| Howl'y Orders \[Sin\] | -1 | **0** | **Kero Kero** | *win by default* |
+| **Red Dead** | **0** | -1 | Howl'y Orders \[Sin\] | *win by default* |
+| **Avocado Sushi Roll** | **4** | 0 | Converts Suck | [#1](https://osu.ppy.sh/community/matches/50666480) |
+| SINEP 3.0 | 1 | **4** | **En Marche!** | [#1](https://osu.ppy.sh/community/matches/50675625) |
+| Carnival0108 HDHRFL | -1 | **0** | **Tsumelan222** | *win by default* |
 
 ### Group Stage
 
-Saturday, 2 May 2020:
+Saturday, 23 March 2019:
 
 | Group | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| B | **87** | **0** | -1 | Jargentina | *win by default* |
-| B | Jargentina | -1 | **0** | **öö v2** | *win by default* |
-| D | **:flushed:** | **0** | -1 | The Lucky Crabs | *win by default* |
-| C | **QUEBRADA SENSACIONAL** | **0** | -1 | nautilus fdp | *win by default* |
-| B | **Bongo Bois** | **0** | -1 | Jargentina | *win by default* |
-| A | **The Return of the Aces** | **4** | 0 | what | [#1](https://osu.ppy.sh/community/matches/61174136) |
-| B | **Bongo Bois** | **4** | 0 | öö v2 | [#1](https://osu.ppy.sh/community/matches/61174465) |
-| C | **j h q w 2** | **0** | -1 | nautilus fdp | *win by default* |
-| D | **:flushed:** | **4** | 1 | Unlikely convergence | [#1](https://osu.ppy.sh/community/matches/61174478) |
-| B | **87** | **0** | -1 | öö v2 | *win by default* |
-| D | **:flushed:** | **0** | -1 | OD 9.8 | *win by default* |
-| C | **j h q w 2** | **4** | 1 | Bancho Doesn't Play | [#1](https://osu.ppy.sh/community/matches/61176925) |
-| A | **''-'** | **4** | 3 | The Return of the Aces | [#1](https://osu.ppy.sh/community/matches/61178776) |
-| D | The Lucky Crabs | -1 | **0** | **Unlikely convergence** | *win by default* |
-| B | **87** | **4** | 0 | Bongo Bois | [#1](https://osu.ppy.sh/community/matches/61178601) |
-| D | The Lucky Crabs | -1 | **0** | **OD 9.8** | *win by default* |
-| A | **''-'** | **4** | 0 | what | [#1](https://osu.ppy.sh/community/matches/61181751) |
-| C | **j h q w 2** | **4** | 0 | QUEBRADA SENSACIONAL | [#1](https://osu.ppy.sh/community/matches/61181075) |
-| C | **Bancho Doesn't Play** | **0** | -1 | nautilus fdp | *win by default* |
-| E | PP is my name, Convert is my game | -1 | **0** | **Nyoomers eSports** | *win by default* |
-| D | **Unlikely convergence** | **0** | -1 | OD 9.8 | *win by default* |
-| A | **Caiu na vila o Peixe fuzila** | **4** | 0 | what | [#1](https://osu.ppy.sh/community/matches/61183565) |
-| C | Bancho Doesn't Play | 1 | **4** | **QUEBRADA SENSACIONAL** | [#1](https://osu.ppy.sh/community/matches/61185754) |
-| A | Caiu na vila o Peixe fuzila | 1 | **4** | **''-'** | [#1](https://osu.ppy.sh/community/matches/61185695) |
+| B | i cant think of anything witty atm | 0 | **3** | **Red Dead** | [#1](https://osu.ppy.sh/community/matches/50465662) |
+| D | **Kero Kero** | **0** | -1 | The Entire Navy Seals Copypasta | *win by default* |
+| D | **RGTeam** | **0** | -1 | The Entire Navy Seals Copypasta | *win by default* |
+| A | **Asa Trumming** | **3** | 1 | Avocado Sushi Roll | [#1](https://osu.ppy.sh/community/matches/50466865) |
+| B | CTB - Convert Taiko Bureau | 1 | **3** | **Agresywny Fafik** | [#1](https://osu.ppy.sh/community/matches/50465830) |
+| B | i cant think of anything witty atm | 1 | **3** | **Agresywny Fafik** | [#1](https://osu.ppy.sh/community/matches/50466886) |
+| B | CTB - Convert Taiko Bureau | 0 | **3** | **Red Dead** | [#1](https://osu.ppy.sh/community/matches/50467014) |
+| C | **Howl'y Orders \[Sin\]** | **0** | -1 | Hearts | *win by default* |
+| D | RGTeam | -1 | **0** | **Kero Kero** | *win by default* |
+| D | **j h q w** | **3** | 0 | RGTeam | [#1](https://osu.ppy.sh/community/matches/50468410) |
+| A | Dodge the rhythm | 1 | **3** | **Avocado Sushi Roll** | [#1](https://osu.ppy.sh/community/matches/50468117) |
+| C | **Howl'y Orders \[Sin\]** | **3** | 2 | Milos Team | [#1](https://osu.ppy.sh/community/matches/50468386) |
+| E | **Tsumelan222** | **3** | 0 | 3rd Shift A | [#1](https://osu.ppy.sh/community/matches/50470617) |
+| D | **j h q w** | **0** | -1 | The Entire Navy Seals Copypasta | *win by default* |
+| C | Milos Team | 0 | 0 | Hearts | *nullified* |
+| B | **Agresywny Fafik** | **3** | 0 | Red Dead | [#1](https://osu.ppy.sh/community/matches/50476389) |
+| C | Hearts | -1 | **0** | **Converts Suck** | *win by default* |
+| A | **Asa Trumming** | **3** | 2 | Dodge the rhythm | [#1](https://osu.ppy.sh/community/matches/50479041) |
+| A | **Asa Trumming** | **0** | -1 | L C | *win by default* |
+| A | **Dodge the rhythm** | **0** | -1 | L C | *win by default* |
 
 Sunday, 3 May 2020:
 
 | Group | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| G | **chad** | **4** | 1 | ForelychLovers Reborn | [#1](https://osu.ppy.sh/community/matches/61200924) |
-| H | **Shamikan** | **0** | -1 | mokipAkmed | *win by default* |
-| F | **MarunouchiOL** | **0** | -1 | HRdcore | *win by default* |
-| G | **chad** | **4** | 0 | thank u, next | [#1](https://osu.ppy.sh/community/matches/61201816) |
-| E | **Waiting in the Pain Room** | **0** | -1 | 大山翔太 | *win by default* |
-| E | **Waiting in the Pain Room** | **0** | -1 | Nyoomers eSports | *win by default* |
-| H | Shamikan | 3 | **4** | **Tacos and Schabowy** | [#1](https://osu.ppy.sh/community/matches/61205484) |
-| F | **MarunouchiOL** | **0** | -1 | Imprisoned Isolationists | *win by default* |
-| E | **PP is my name, Convert is my game** | **0** | -1 | 大山翔太 | *win by default* |
-| F | **MarunouchiOL** | **4** | 0 | Crippling Depression | [#1](https://osu.ppy.sh/community/matches/61207360) |
-| G | **wheelchair** | **4** | 2 | thank u, next | [#1](https://osu.ppy.sh/community/matches/61207174) |
-| F | HRdcore | -1 | **0** | **Imprisoned Isolationists** | *win by default* |
-| E | 大山翔太 | -1 | **0** | **Nyoomers eSports** | *win by default* |
-| E | PP is my name, Convert is my game | 1 | **4** | **Waiting in the Pain Room** | [#1](https://osu.ppy.sh/community/matches/61207566) |
-| H | **Shamikan** | **4** | 0 | Team Fabulous 2 | [#1](https://osu.ppy.sh/community/matches/61208942) |
-| G | thank u, next | 0 | **4** | **ForelychLovers Reborn** | [#1](https://osu.ppy.sh/community/matches/61208970) |
-| F | Imprisoned Isolationists | 0 | **4** | **Crippling Depression** | [#1](https://osu.ppy.sh/community/matches/61208983) |
-| H | mokipAkmed | 0 | **4** | **Tacos and Schabowy** | [#1](https://osu.ppy.sh/community/matches/61211016) |
-| G | **wheelchair** | **4** | 3 | ForelychLovers Reborn | [#1](https://osu.ppy.sh/community/matches/61211337) |
-| F | HRdcore | -1 | **0** | **Crippling Depression** | *win by default* |
-| H | Team Fabulous 2 | 0 | **4** | **Tacos and Schabowy** | [#1](https://osu.ppy.sh/community/matches/61213293) |
-| G | **chad** | **4** | 2 | wheelchair | [#1](https://osu.ppy.sh/community/matches/61213340) |
-| A | Caiu na vila o Peixe fuzila | 1 | **4** | **The Return of the Aces** | [#1](https://osu.ppy.sh/community/matches/61219164) |
-| H | mokipAkmed | -1 | **0** | **Team Fabulous 2** | *win by default* |
+| C | **Howl'y Orders \[Sin\]** | **3** | 0 | Converts Suck | [#1](https://osu.ppy.sh/community/matches/50488613) |
+| B | **i cant think of anything witty atm** | **3** | 1 | CTB - Convert Taiko Bureau | [#1](https://osu.ppy.sh/community/matches/50489819) |
+| A | **Avocado Sushi Roll** | **0** | -1 | L C | *win by default* |
+| C | **Converts Suck** | **0** | -1 | Milos Team | *win by default* |
+| F | Rice Team | -1 | **0** | **SINEP 3.0** | *win by default* |
+| D | **j h q w** | **3** | 0 | Kero Kero | [#1](https://osu.ppy.sh/community/matches/50501566) |
+| H | **Le Conseil** | **3** | 1 | Forelych Lovers | [#1](https://osu.ppy.sh/community/matches/50501523) |
+| F | SightreadBoys | 1 | **3** | **SINEP 3.0** | [#1](https://osu.ppy.sh/community/matches/50501515) |
+| G | **Carnival0108 HDHRFL** | **3** | 1 | HRdcore | [#1](https://osu.ppy.sh/community/matches/50503376) |
+| F | **SightreadBoys** | **0** | -1 | Rice Team | *win by default* |
+| H | **En Marche!** | **3** | 0 | Forelych Lovers | [#1](https://osu.ppy.sh/community/matches/50503033) |
+| H | **Akisha** | **3** | 0 | Forelych Lovers | [#1](https://osu.ppy.sh/community/matches/50504677) |
+| G | **>o\_\_.** | **3** | 0 | HRdcore | [#1](https://osu.ppy.sh/community/matches/50504650) |
+| E | **3rd Shift A** | **3** | 0 | The DevStroKahosir | [#1](https://osu.ppy.sh/community/matches/50504538) |
+| E | **Tsumelan222** | **3** | 0 | The DevStroKahosir | *win by default* |
+| E | **Midstream Finishers** | **0** | -1 | The DevStroKahosir | *win by default* |
+| F | **Husha Dinámica** | **3** | 0 | Rice Team | [#1](https://osu.ppy.sh/community/matches/50506181) |
+| G | **HRdcore** | **3** | 1 | 3rd Shift B | [#1](https://osu.ppy.sh/community/matches/50506190) |
+| F | **Husha Dinámica** | **3** | 0 | SightreadBoys | *win by default* |
+| G | **>o\_\_.** | **3** | 0 | 3rd Shift B | [#1](https://osu.ppy.sh/community/matches/50507869) |
+| F | **Husha Dinámica** | **3** | 0 | SINEP 3.0 | [#1](https://osu.ppy.sh/community/matches/50509525) |
+| G | **Carnival0108 HDHRFL** | **3** | 0 | 3rd Shift B | [#1](https://osu.ppy.sh/community/matches/50509660) |
+| E | **Midstream Finishers** | **3** | 0 | 3rd Shift A | [#1](https://osu.ppy.sh/community/matches/50509598) |
+| H | Le Conseil | 0 | **3** | **Akisha** | [#1](https://osu.ppy.sh/community/matches/50510135) |
+| E | **Midstream Finishers** | **3** | 0 | Tsumelan222 | [#1](https://osu.ppy.sh/community/matches/50511277) |
+| H | En Marche! | 0 | **3** | **Akisha** | [#1](https://osu.ppy.sh/community/matches/50511347) |
+| G | **>o\_\_.** | **3** | 1 | Carnival0108 HDHRFL | [#1](https://osu.ppy.sh/community/matches/50511319) |
+| H | **En Marche!** | **3** | 1 | Le Conseil | [#1](https://osu.ppy.sh/community/matches/50512960) |
 
 ## Ruleset
 
