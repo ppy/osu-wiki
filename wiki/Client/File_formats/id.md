@@ -1,4 +1,4 @@
-# Berkas format osu!
+# Format berkas osu!
 
 ## Daftar format berkas
 
