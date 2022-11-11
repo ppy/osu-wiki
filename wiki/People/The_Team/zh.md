@@ -78,7 +78,7 @@ tags:
 | ::{ flag=CA }:: [Nyquill](https://osu.ppy.sh/users/682935) | osu! 开发者、谱师工会 (Mappers' Guild) 组织者 |
 | ::{ flag=AU }:: [phill](https://osu.ppy.sh/users/53) | 论坛设计者 |
 | ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | osu! 画师，制作了很酷的素材 |
-| ::{ flag=US }:: [Sarumaru](https://osu.ppy.sh/users/9427) | 初代 pippi 概念设计和美术设计者。DeviantArt](https://sarumaru.deviantart.com/) |
+| ::{ flag=US }:: [Sarumaru](https://osu.ppy.sh/users/9427) | 初代 pippi 概念设计和美术设计者。[DeviantArt](https://sarumaru.deviantart.com/) |
 | ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | 早期的社区管理员和领头人、讨论记录与 FAQ 贡献者 |
 | ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | osu! 和 pp 开发者 |
 | ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | 秩序维护员、世界杯比赛组织者与管理员、wiki 维护者 |
