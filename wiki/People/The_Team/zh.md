@@ -8,6 +8,7 @@ tags:
   - team osu!
   - 工作人员
   - osu!团队
+  - osu! 团队
 ---
 
 # 团队
@@ -58,7 +59,7 @@ tags:
 
 <!-- Jim is the only person here that has never had an osu! profile (PR #4611) -->
 
-| Name | Role |
+| 名称 | 职责 |
 | :-- | :-- |
 | ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) | 秩序维护员和援助者、萌版人物设计。[Barrel Roll Weekly](http://brw.twinkfish.com/) |
 | ::{ flag=NO }:: [cYsmix](https://osu.ppy.sh/users/272870) | 音频设计者、[osu! 官方精选艺术家](https://osu.ppy.sh/beatmaps/artists/2) |
