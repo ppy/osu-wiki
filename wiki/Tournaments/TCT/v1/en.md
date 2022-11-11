@@ -108,9 +108,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **87** (::{ flag=US }:: **[Ney](https://osu.ppy.sh/users/5991961)**, ::{ flag=US }:: [JDrago14](https://osu.ppy.sh/users/7690078)) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Tacos and Schabowy** (::{ flag=PL }:: **[fafik99](https://osu.ppy.sh/users/1787011)**, ::{ flag=MX }:: [Warfu](https://osu.ppy.sh/users/2451000)) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **j h q w 2** (::{ flag=GB }:: **[Horiiizon](https://osu.ppy.sh/users/8071438)**, ::{ flag=US }:: [closed](https://osu.ppy.sh/users/5116922)) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Husha Dinámica** (::{ flag=CL }:: **[Alepat](https://osu.ppy.sh/users/1164931)**, ::{ flag=AR }:: [Midnaait](https://osu.ppy.sh/users/1506011)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **>o\_\_.** (::{ flag=IT }:: **[send help](https://osu.ppy.sh/users/7807444)**, ::{ flag=GB }:: [goheegy](https://osu.ppy.sh/users/8057655)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **En Marche!** (::{ flag=FR }:: **[TimmyAkmed](https://osu.ppy.sh/users/1799973)**, ::{ flag=FR }:: [Yona la loutre](https://osu.ppy.sh/users/7930622)) |
 
 ## Mappools
 
