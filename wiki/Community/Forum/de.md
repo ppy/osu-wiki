@@ -2,6 +2,7 @@
 tags:
   - forums
   - subforum
+  - sub-forum
 ---
 
 # Forum
