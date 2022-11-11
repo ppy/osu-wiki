@@ -2,6 +2,7 @@
 tags:
   - forums
   - subforum
+  - sub-forum
   - sous-forum
 ---
 
@@ -15,7 +16,7 @@ Les forums d'osu! offrent des fonctionnalités similaires à celles de la plupar
 
 ## Structure
 
-Chacun des forums d'osu! contient une variété de **sujets**, parfois appelés fils de discussion, ainsi que des catégories plus petites, ou **sous-forums**. La plupart des forums sont uniquement en anglais, mais il existe également un certain nombre de forums [spécifiques à une langue](https://osu.ppy.sh/community/forums#forum-23) pour les communautés locales suffisamment importantes.
+Chacun des forums d'osu! contient une variété de **sujets**, parfois appelés fils de discussion, ainsi que des catégories plus petites, ou **sous-forums**. La plupart des forums sont uniquement en anglais, mais il existe également un certain nombre de forums [spécifiques à une langue](https://osu.ppy.sh/community/forums/23) pour les communautés locales suffisamment importantes.
 
 Bien que certains forums, tels que [Mapping Discussion](https://osu.ppy.sh/community/forums/56), aient des exigences ou des directives spécifiques, tous suivent les [règles de la communauté](/wiki/Rules).
 
@@ -45,7 +46,7 @@ En outre, il existe d'autres forums similaires à celui de Abandoned Wasteland, 
 
 ## Histoire
 
-[Le premier message public du forum](https://osu.ppy.sh/community/forums/topics/2) est daté du 28 août 2007 et appartient à [peppy](/wiki/People/peppy). À cette époque, le site web d'osu! utilisait [phpBB](https://fr.wikipedia.org/wiki/PhpBB) comme moteur de forum, qui a été considérablement étendu au fil des ans pour répondre aux besoins du jeu et de la communauté. Voici quelques-unes de ses personnalisations :
+[Le premier message public du forum](https://osu.ppy.sh/community/forums/topics/2) est daté du 28 août 2007 et appartient à ::{ flag=AU }:: [peppy](/wiki/People/peppy). À cette époque, le site web d'osu! utilisait [phpBB](https://fr.wikipedia.org/wiki/PhpBB) comme moteur de forum, qui a été considérablement étendu au fil des ans pour répondre aux besoins du jeu et de la communauté. Voici quelques-unes de ses personnalisations :
 
 - Intégration avec le [système de soumission des beatmaps](/wiki/Submission)
 - Les systèmes [kudosu](/wiki/Modding/Kudosu) et [classement des beatmap](/wiki/Beatmap_ranking_procedure)

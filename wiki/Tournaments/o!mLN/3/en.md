@@ -190,6 +190,54 @@ The osu!mania LN Tournament 3 is run by various community members.
 
 ## Mappools
 
+### Quarterfinals
+
+**[Download the mappack here! (127 MB)](https://drive.google.com/drive/folders/1tIa27MmLxpD-Ko9B0FQmJKwukWgHP-Nz?usp=sharing)**
+
+- Coordination
+  1. [polysha - Uron (Eclipse-) \[Lavender Blaze \[1,1x Rate\]\]](https://osu.ppy.sh/beatmapsets/1809092#mania/3710492)
+  2. [YOASOBI - Romance (Hylotl) \[Love letter\]](https://osu.ppy.sh/beatmapsets/1758483#mania/3598728)
+  3. [Three feat.Kagamine Len - Ego Rock (Raveille) \[Nonsensu\]](https://osu.ppy.sh/beatmapsets/1880547#mania/3871591)
+- Technical
+  1. [Kairiki Bear - Bug (Micleak) \[Flawful\]](https://osu.ppy.sh/beatmapsets/1854104#mania/3866387)
+  2. [Giga ft. Kagamine Rin & Len - BRING IT ON (DannyPX) \[GIVE IT ALL (cut)\]](https://osu.ppy.sh/beatmapsets/1239671#mania/3836004)
+  3. [Makari - Labyrinth (Abraxos) \[Although of course you end up becoming yourself\]](https://osu.ppy.sh/beatmapsets/1291607#mania/2680883)
+- Wildcard
+  1. [technoplanet - Intuition (FelixSpade) \[Presentiment\]](https://osu.ppy.sh/beatmapsets/1880770#mania/3872003)
+  2. [Taishi - INSIDE BLUE INSIDE - Part2 (Cut Ver.) (Ballistic) \[Demersal\]](https://osu.ppy.sh/beatmapsets/1879734#mania/3869753)
+  3. [HowToPlayLN - Normal Distribution (takehirotei "t-distribution" remix) (HowToPlayLN) \[There is no turning back\]](https://osu.ppy.sh/beatmapsets/1880819#mania/3872087)
+  4. [Yuyoyuppe feat. Hatsune Miku - My fxxkin desire for you (Penguinosity) \[Absent\]](https://osu.ppy.sh/beatmapsets/1529612#mania/3128830)
+- Density
+  1. [penoreri - Reverenced Flower (Saemitsu) \[Ortlinde=NBLG=Saekyria's Prophecy\]](https://osu.ppy.sh/beatmapsets/1575695#mania/3217013)
+  2. [COSIO(ZUNTATA) - FUJIN Rumble (Penguinosity) \[Mizu 1.15\]](https://osu.ppy.sh/beatmapsets/1633443#mania/3334065)
+  3. [Feint - Tower Of Heaven (You Are Slaves) (HowToPlayLN) \[Eternal Bliss \[1.05x Rate\]\]](https://osu.ppy.sh/beatmapsets/1880082#mania/3870448)
+  4. [SynthWulf - POINT ZERO 2 (\[Crz\]Crysarlene) \[. 0 2 + + \[1.1x Rate\]\]](https://osu.ppy.sh/beatmapsets/1161517#mania/3857017)
+- Tiebreaker
+  1. **[ikaruga\_nex vs. Kagetora. - Grabinschrift der Goetter (DannyPX) \[Edit\]](https://osu.ppy.sh/beatmapsets/1880825#mania/3872095)**
+
+### Round of 16
+
+**[Download the mappack here! (100 MB)](https://drive.google.com/drive/folders/17F9S79rVU-Ch4OGz5sHzcs7B6FxfT-T6?usp=sharing)**
+
+- Coordination
+  1. [Yasutaka Nakata - Pico Pico Tokyo (feat. Momo Mashiro) (YuEast 2018) \[\~\~\~\]](https://osu.ppy.sh/beatmapsets/1864296#mania/3833925)
+  2. [Two Door Cinema Club - Undercover Martyn (\[Crz\]Crysarlene) \[until next day\]](https://osu.ppy.sh/beatmapsets/1771855#mania/3627514)
+  3. [Meddmia - Zettai Tekitai Mecha Kirai yaa (CrewK) \[Hachamecha\]](https://osu.ppy.sh/beatmapsets/1763576#mania/3609717)
+- Technical
+  1. [John Coltrane - Giant Steps (Davvy) \[Sheets of sound\]](https://osu.ppy.sh/beatmapsets/1592995#mania/3253520)
+  2. [ODESZA - Late Night (elexire) \[Outing\]](https://osu.ppy.sh/beatmapsets/1692588#mania/3458593)
+  3. [Memme feat. M2U - Sky of the Ocean (Logan636) \[Logan x HowToPlayLN's Troposphere\]](https://osu.ppy.sh/beatmapsets/1876041#mania/3860745)
+- Wildcard
+  1. [DJ Noriken & aran - Comet Coaster (chxu) \[Frizzle\]](https://osu.ppy.sh/beatmapsets/1875722#mania/3859986)
+  2. [sakuzyo - Fractalize (\[Crz\]Crysarlene) \[Polynomial\]](https://osu.ppy.sh/beatmapsets/1873352#mania/3854822)
+  3. [rintaro soma - solips (MyZterioN-) \[oneself\]](https://osu.ppy.sh/beatmapsets/1749997#mania/3580147)
+- Density
+  1. [MOMOIRO CLOVER Z - SARABA, Itoshiki Kanashimitachi yo (Short vers) (Akatsumi Chan) \[Melancholy\]](https://osu.ppy.sh/beatmapsets/1851363#mania/3803968)
+  2. [rN - fragments.arc (HowToPlayLN) \[Unsynced Chaotically\]](https://osu.ppy.sh/beatmapsets/1875919#mania/3860490)
+  3. [Amogh Symphony - Decoded: Karnosiris (Cut Ver.) (Paturages) \[Broken Matrix\]](https://osu.ppy.sh/beatmapsets/1836766#mania/3771275)
+- Tiebreaker
+  1. **[t+pazolite, Nanahira, Cranky & Pico - PICO-Pico-TRANSLATION! (Polytetral) \[Abridged Duet\]](https://osu.ppy.sh/beatmapsets/1876155#mania/3860942)**
+
 ### Round of 32
 
 **[Download the mappack here! (88 MB)](https://drive.google.com/drive/folders/1jRRzxwPbwbuQW3pJbnyk0jBcsLCBMNwC?usp=sharing)**
@@ -248,6 +296,94 @@ The osu!mania LN Tournament 3 is run by various community members.
   1. [II-L - Unidentified Frequency Op.1 (Type-Adamski) (HowToPlayLN) \[Unidentified Qualifiers Stage 4: (Type-Density)\]](https://osu.ppy.sh/beatmapsets/1863195#mania/3831323)
 
 ## Match results
+
+### Round of 16
+
+Saturday, 5 November 2022:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| yoppy-yugen ::{ flag=JP }:: | -1 | **0** | ::{ flag=US }:: **DarkMew2** | *win by default* |
+| DC2\_727 ::{ flag=HK }:: | 0 | **5** | ::{ flag=HK }:: **zero2snow** | [#1](https://osu.ppy.sh/community/matches/104866379) |
+| **xxxxxx2800** ::{ flag=MY }:: | **5** | 0 | ::{ flag=US }:: \_Seth | [#1](https://osu.ppy.sh/community/matches/104867839) |
+| iid3rp ::{ flag=PH }:: | 1 | **5** | ::{ flag=ID }:: **Onta\_Bekasi** | [#1](https://osu.ppy.sh/community/matches/104868054) |
+| Unitori- ::{ flag=BH }:: | -1 | **0** | ::{ flag=MY }:: **StyGix** | *win by default* |
+| SuddenDeath ::{ flag=KR }:: | -1 | **0** | ::{ flag=CL }:: **Jeanne Da Rin** | *win by default* |
+| -Einar- ::{ flag=MY }:: | -1 | **0** | ::{ flag=PH }:: **Dyei** | *win by default* |
+| **Achino** ::{ flag=TH }:: | **5** | 2 | ::{ flag=BR }:: Zergh | [#1](https://osu.ppy.sh/community/matches/104873249) |
+| **ERA Frossno** ::{ flag=PH }:: | **5** | 2 | ::{ flag=DE }:: ERA medium kek | [#1](https://osu.ppy.sh/community/matches/104873245) |
+| JayLye ::{ flag=MY }:: | 2 | **5** | ::{ flag=SG }:: **sukidayo** | [#1](https://osu.ppy.sh/community/matches/104873032) |
+| \[Crz\]sunnyxxy ::{ flag=CN }:: | 2 | **5** | ::{ flag=AU }:: **ruka** | [#1](https://osu.ppy.sh/community/matches/104874513) |
+| **MIkuaimbot** ::{ flag=TH }:: | **5** | 2 | ::{ flag=SG }:: -Aishiteru- | [#1](https://osu.ppy.sh/community/matches/104874311) |
+| **AdamAckerville** ::{ flag=SG }:: | **5** | 1 | ::{ flag=GB }:: syaro- | [#1](https://osu.ppy.sh/community/matches/104877257) |
+| **--Pavin--** ::{ flag=TH }:: | **5** | 3 | ::{ flag=FR }:: Auraah | [#1](https://osu.ppy.sh/community/matches/104877464) |
+| grillroasted ::{ flag=CZ }:: | 2 | **5** | ::{ flag=CA }:: **UmmmMrMoo** | [#1](https://osu.ppy.sh/community/matches/104880322) |
+| **TingMomentum** ::{ flag=GB }:: | **5** | 0 | ::{ flag=US }:: SunApple | [#1](https://osu.ppy.sh/community/matches/104879048) |
+| **walmart5193** ::{ flag=CA }:: | **5** | 2 | ::{ flag=PE }:: -Lalito898 | [#1](https://osu.ppy.sh/community/matches/104881694) |
+
+Sunday, 6 November 2022:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| \[GS\]linc ::{ flag=US }:: | 0 | **5** | ::{ flag=US }:: **ASharpp** | [#1](https://osu.ppy.sh/community/matches/104889436) |
+| **nanonbandusty** ::{ flag=TH }:: | **0** | -1 | ::{ flag=GT }:: Gezideo | *win by default* |
+| **GripWarrior** ::{ flag=US }:: | **5** | 0 | ::{ flag=KR }:: Lami- | [#1](https://osu.ppy.sh/community/matches/104892210) |
+| ERA Frossno ::{ flag=PH }:: | 0 | **5** | ::{ flag=TH }:: **Achino** | [#1](https://osu.ppy.sh/community/matches/104893012) |
+| **zero2snow** ::{ flag=HK }:: | **5** | 1 | ::{ flag=SG }:: sukidayo- | [#1](https://osu.ppy.sh/community/matches/104893928) |
+| **Silhoueska Elze** ::{ flag=PH }:: | **5** | 0 | ::{ flag=KR }:: Flying Samira | [#1](https://osu.ppy.sh/community/matches/104898695) |
+| **ShiroPeDeFresa** ::{ flag=ES }:: | **5** | 1 | ::{ flag=PH }:: Eon Musk | [#1](https://osu.ppy.sh/community/matches/104898698) |
+| **jhleetgirl** ::{ flag=JP }:: | **5** | 0 | ::{ flag=NL }:: Shoira | [#1](https://osu.ppy.sh/community/matches/104899665) |
+| **xxxxxx2800** ::{ flag=MY }:: | **5** | 2 | ::{ flag=TH }:: nanonbandusty | [#1](https://osu.ppy.sh/community/matches/104899572) |
+| **Onta\_Bekasi** ::{ flag=ID }:: | **5** | 2 | ::{ flag=PH }:: Dyei | [#1](https://osu.ppy.sh/community/matches/104899700) |
+| **DemiFiendSMT** ::{ flag=BR }:: | **0** | -1 | ::{ flag=KR }:: gaesol | *win by default* |
+| **ShiroPeDeFresa** ::{ flag=ES }:: | **5** | 0 | ::{ flag=MY }:: StyGix | [#1](https://osu.ppy.sh/community/matches/104900815) |
+| Jeanne Da Rin ::{ flag=CL }:: | 0 | **5** | ::{ flag=AU }:: **ruka** | [#1](https://osu.ppy.sh/community/matches/104901144) |
+| AdamAckerville ::{ flag=SG }:: | 3 | **5** | ::{ flag=US }:: **DarkMew2** | [#1](https://osu.ppy.sh/community/matches/104903601), [#2](https://osu.ppy.sh/community/matches/104904096) |
+| walmart5193 ::{ flag=CA }:: | 1 | **5** | ::{ flag=US }:: **ASharpp** | [#1](https://osu.ppy.sh/community/matches/104910139) |
+
+### Round of 32
+
+Saturday, 29 October 2022:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Gezideo** ::{ flag=GT }:: | **0** | -1 | ::{ flag=ES }:: Enthalpy | *win by default* |
+| samuelhklumpers ::{ flag=NL }:: | 0 | **5** | ::{ flag=SG }:: **sukidayo-** | [#1](https://osu.ppy.sh/community/matches/104723795) |
+| **-Aishiteru-** ::{ flag=SG }:: | **5** | 0 | ::{ flag=SG }:: AdamAckerville | [#1](https://osu.ppy.sh/community/matches/104723701) |
+| JayLye ::{ flag=MY }:: | 1 | **5** | ::{ flag=JP }:: **jhleetgirl** | [#1](https://osu.ppy.sh/community/matches/104723730) |
+| **Silhoueska Elze** ::{ flag=PH }:: | **5** | 0 | ::{ flag=MY }:: -Einar- | [#1](https://osu.ppy.sh/community/matches/104726099) |
+| Cryolien ::{ flag=MY }:: | 0 | **5** | ::{ flag=GB }:: **syaro-** | [#1](https://osu.ppy.sh/community/matches/104726425) |
+| **grillroasted** ::{ flag=CZ }:: | **5** | 1 | ::{ flag=BH }:: Unitori- | [#1](https://osu.ppy.sh/community/matches/104726338) |
+| **MIkuaimbot** ::{ flag=TH }:: | **5** | 0 | ::{ flag=JP }:: yoppy-yugen | [#1](https://osu.ppy.sh/community/matches/104726960) |
+| Kiraz ::{ flag=IT }:: | 2 | **5** | ::{ flag=BR }:: **Zergh** | [#1](https://osu.ppy.sh/community/matches/104727687) |
+| jeremkyurem ::{ flag=KR }:: | 0 | **5** | ::{ flag=HK }:: **zero2snow** | [#1](https://osu.ppy.sh/community/matches/104730749) |
+| **--Pavin--** ::{ flag=TH }:: | **5** | 1 | ::{ flag=US }:: \[GS\]linc | [#1](https://osu.ppy.sh/community/matches/104730733) |
+| **GripWarrior** ::{ flag=US }:: | **5** | 0 | ::{ flag=CN }:: \[Crz\]sunnyxxy | [#1](https://osu.ppy.sh/community/matches/104730725) |
+| Babibelbleu ::{ flag=FR }:: | -1 | **0** | ::{ flag=PE }:: **-Lalito898** | *win by default* |
+| **ASharpp** ::{ flag=US }:: | **5** | 0 | ::{ flag=US }:: -mint- | [#1](https://osu.ppy.sh/community/matches/104738348) |
+
+Sunday, 30 October 2022:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| ERA Frossno ::{ flag=PH }:: | 1 | **5** | ::{ flag=US }:: **SunApple** | [#1](https://osu.ppy.sh/community/matches/104742637) |
+| ICECAKE ::{ flag=JP }:: | -1 | **0** | ::{ flag=PH }:: **Dyei** | *win by default* |
+| **ERA medium kek** ::{ flag=DE }:: | **0** | -1 | ::{ flag=MY }:: Neokje | *win by default* |
+| **Flying Samira** ::{ flag=KR }:: | **5** | 0 | ::{ flag=PH }:: iid3rp | [#1](https://osu.ppy.sh/community/matches/104748630) |
+| **Lami-** ::{ flag=KR }:: | **0** | -1 | ::{ flag=KR }:: SuddenDeath | *win by default* |
+| Hlimak ::{ flag=PL }:: | 0 | **5** | ::{ flag=PH }:: **Eon Musk** | [#1](https://osu.ppy.sh/community/matches/104750611) |
+| DC2\_727 ::{ flag=HK }:: | 1 | **5** | ::{ flag=NL }:: **Shoira** | [#1](https://osu.ppy.sh/community/matches/104750572) |
+| **gaesol** ::{ flag=KR }:: | **5** | 2 | ::{ flag=MY }:: xxxxxx2800 | [#1](https://osu.ppy.sh/community/matches/104750617) |
+| **DemiFiendSMT** ::{ flag=BR }:: | **5** | 0 | ::{ flag=TH }:: nanonbandusty | [#1](https://osu.ppy.sh/community/matches/104751251) |
+| **TingMomentum** ::{ flag=GB }:: | **5** | 0 | ::{ flag=TH }:: Achino | [#1](https://osu.ppy.sh/community/matches/104751678) |
+| Onta\_Bekasi ::{ flag=ID }:: | **5** | 0 | ::{ flag=BR }:: Maykee kee | [#1](https://osu.ppy.sh/community/matches/104752080) |
+| Halogen- ::{ flag=US }:: | 0 | **5** | ::{ flag=AU }:: **ruka** | [#1](https://osu.ppy.sh/community/matches/104753916) |
+| \[LS\]bambi fnf ::{ flag=CL }:: | -1 | **0** | ::{ flag=MY }:: **StyGix** | *win by default* |
+| Namirin-chan ::{ flag=BR }:: | 1 | **5** | ::{ flag=CL }:: **Jeanne Da Rin** | [#1](https://osu.ppy.sh/community/matches/104754620) |
+| Imperialtrinity ::{ flag=US }:: | 0 | **5** | ::{ flag=US }:: **DarkMew2** | [#1](https://osu.ppy.sh/community/matches/104755804) |
+| Dellia ::{ flag=ID }:: | 2 | **5** | ::{ flag=US }:: **\_Seth** | [#1](https://osu.ppy.sh/community/matches/104755904) |
+| **Auraah** ::{ flag=FR }:: | **5** | 1 | ::{ flag=CA }:: walmart5193 | [#1](https://osu.ppy.sh/community/matches/104757201) |
+| **UmmmMrMoo** ::{ flag=CA }:: | **5** | 0 | ::{ flag=ES }:: ShiroPeDeFresa | [#1](https://osu.ppy.sh/community/matches/104759080) |
 
 ### Round of 64
 
