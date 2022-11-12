@@ -38,7 +38,7 @@ The SS Tournament 2018 had a prize pool of USD 200.
 | Head of mappools | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507), ::{ flag=US }:: [\_p0ke\_](https://osu.ppy.sh/users/5434711) |
 | Mappool selector | ::{ flag=US }:: [Nightlys](https://osu.ppy.sh/users/7094489), ::{ flag=CA }:: [Anopob](https://osu.ppy.sh/users/728332), ::{ flag=US }:: [ailv](https://osu.ppy.sh/users/6933054) |
 | Referee | ::{ flag=US }:: [KuraresaCupcake](https://osu.ppy.sh/users/6953271), ::{ flag=US }:: [noctisv_v](https://osu.ppy.sh/users/6775083), ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350), ::{ flag=HK }:: [-GN Junior](https://osu.ppy.sh/users/3901754), ::{ flag=PH }:: [Deadpulse](https://osu.ppy.sh/users/8575527), ::{ flag=CA }:: [ImNotBrandon](https://osu.ppy.sh/users/6917313) |
-| Streamer | ::{ flag=CA }:: [xenonius](https://osu.ppy.sh/users/7426260), ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/736181) |
+| Streamer | ::{ flag=CA }:: [xenonius](https://osu.ppy.sh/users/7426260), ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815) |
 | Commentator | ::{ flag=FR }:: [SiYes](https://osu.ppy.sh/users/8868144), ::{ flag=CA }:: [xenonius](https://osu.ppy.sh/users/7426260), ::{ flag=AU }:: [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046) |
 | Statistician | ::{ flag=US }:: [YoshiLover456](https://osu.ppy.sh/users/6843383) |
 

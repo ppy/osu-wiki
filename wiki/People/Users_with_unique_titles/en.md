@@ -136,6 +136,7 @@ Most official mapping contests offer the **Elite Mapper** title as a first-place
 - ::{ flag=JP }:: [Gamu](https://osu.ppy.sh/users/611174)
 - ::{ flag=GB }:: [hypercyte](https://osu.ppy.sh/users/9155377)
 - ::{ flag=CA }:: [jonathanlfj](https://osu.ppy.sh/users/270377)
+- ::{ flag=KR }:: [Kawawa](https://osu.ppy.sh/users/4647754)
 - ::{ flag=CA }:: [ktgster](https://osu.ppy.sh/users/53378)
 - ::{ flag=RU }:: [kuyusu](https://osu.ppy.sh/users/11758667)
 - ::{ flag=NL }:: [Kyshiro](https://osu.ppy.sh/users/640611)
@@ -157,6 +158,7 @@ Most official mapping contests offer the **Elite Mapper** title as a first-place
 - ::{ flag=LY }:: [Soul Evans](https://osu.ppy.sh/users/4490770)
 - ::{ flag=BE }:: [Sylas](https://osu.ppy.sh/users/3906405)
 - ::{ flag=KR }:: [Taeyang](https://osu.ppy.sh/users/2732340)
+- ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811)
 - ::{ flag=CN }:: [TtmnZk](https://osu.ppy.sh/users/2495509)
 - ::{ flag=CN }:: [yf\_bmp](https://osu.ppy.sh/users/1243669)
 - ::{ flag=CN }:: [Yugu](https://osu.ppy.sh/users/3161834)
@@ -169,7 +171,6 @@ Most official mapping contests offer the **Elite Mapper** title as a first-place
 Since 2020, members of the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) and [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) with an exceptional display towards supporting the ranking system in a given year are rewarded with the **Elite Nominator** title. This title is given at the beginning of each year for contributions made during the last, and lasts for roughly a year or until the user leaves the team.
 
 - ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229)
-- ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083)
 - ::{ flag=CA }:: [guden](https://osu.ppy.sh/users/11626065)
 - ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323)
 - ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)

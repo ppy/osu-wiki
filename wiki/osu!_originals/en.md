@@ -14,7 +14,7 @@ All osu! originals that have been licensed by the game are cleared for use in os
 | [nekodex - aureole](https://soundcloud.com/nekodex/aureole)[^fa-catalogue] | Christmas/Winter 2017 osu! theme |
 | [nekodex - circles!](https://soundcloud.com/nekodex/circles)[^fa-catalogue] | 2015 osu! theme |
 | [nekodex - carol of the circles](https://soundcloud.com/nekodex/carol-of-the-circles)[^fa-catalogue] | Christmas/Winter 2019 osu! theme |
-| [nekodex - Little Drummer Girl](https://soundcloud.com/nekodex/carol-of-the-circles)[^fa-catalogue] | Christmas/Winter 2020 osu! theme |
+| [nekodex - Little Drummer Girl](https://soundcloud.com/nekodex/little-drummer-girl)[^fa-catalogue] | Christmas/Winter 2020 osu! theme |
 | [nekodex - Liquid Future](https://soundcloud.com/nekodex/liquid-future)[^fa-catalogue] | Original composition for [osu!stream](/wiki/osu!stream) |
 | [nekodex - new beginnings](https://osu.ppy.sh/beatmapsets/1011011) | Current tutorial song |
 | [nekodex - osu!stream theme](https://soundcloud.com/nekodex/osu-stream-theme) | [osu!stream](/wiki/osu!stream) main theme |
