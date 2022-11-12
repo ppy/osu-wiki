@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 6aaf94df0b179c4dc4df97019de9c724ed01efdc
 ---
 
 # osu! originals
