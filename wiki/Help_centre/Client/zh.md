@@ -36,7 +36,7 @@ tags:
 3. 当 `osu! configuration` 窗口出现时，点击 `reset settings`。
 4. 如果问题没有解决，按照上述步骤再一次进入配置窗口，并点击 `repair osu!`。
 
-### 点击链接/多人游戏地图后，osu! 就卡住了！ {#broken-links}
+### 点击链接或者点击下载多人游戏谱面后，osu! 就卡住了！ {#broken-links}
 
 **请确保你没有使用 Windows 兼容模式运行 osu!，且系统设置中指定过一个默认浏览器。**
 
