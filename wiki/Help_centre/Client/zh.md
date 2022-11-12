@@ -182,7 +182,7 @@ osu! 通常会自己保持最新版本，不需要干涉，但有时情况可能
 
 小贴士：如果你是 osu!supporter，你可以在 osu!direct 面板里使用`Ranked（玩过）`来筛选你玩过的谱面。你也可以在[谱面列表页](https://osu.ppy.sh/beatmapsets?played=played&s=ranked)找到你以往留下过成绩的谱面。
 
-#### 你的游戏模式选择正确吗？{#no-scores-game-mode}
+#### 你选择了正确的游戏模式吗？{#no-scores-game-mode}
 
 **选择其他游戏模式（ osu!taiko, osu!catch 或 osu!mania）会自动隐藏其他模式的谱面成绩，只显示当前模式的成绩。**
 
