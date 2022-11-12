@@ -321,9 +321,9 @@ osu! 通常会自己保持最新版本，不需要干涉，但有时情况可能
 
 请参阅卡巴斯基的[官方支持文章](https://support.kaspersky.com/15163#block2)来了解如何把程序加入信任名单。
 
-#### 允许程序通过 McAfee {#firewall-whitelist-mcafee}
+#### 允许程序通过迈克菲 (McAfee) {#firewall-whitelist-mcafee}
 
-请参阅 McAfee 的[官方知识库文章](https://service.mcafee.com/?articleId=TS100813&page=shell&shell=article-view)。
+请参阅迈克菲的[官方知识库文章](https://service.mcafee.com/?articleId=TS100813&page=shell&shell=article-view)。
 
 ### 我已经允许 osu! 通过防火墙了，但是我仍然没办法连接游戏！ {#sign-in-unknown-cause}
 
