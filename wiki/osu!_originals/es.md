@@ -135,12 +135,6 @@ Todos los osu! originals que han sido licenciados por el juego están autorizado
 | [Raphlesia - Showdown](https://soundcloud.com/raphlesia/showdown) | [#1](https://osu.ppy.sh/beatmapsets/1627494) | Finales HR3 |
 | [Yooh - RPG](https://www.youtube.com/watch?v=oGO87WH2FWM)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1633250) | Desempate de la gran final |
 
-#### ![](/wiki/shared/mode/taiko.png) [osu!taiko World Cup 2021](/wiki/Tournaments/TWC/2021)
-
-| Canción | Beatmap | Notas |
-| :-: | :-: | :-- |
-| [TWC Sound Team "Zeroth Powers" - One One](https://www.youtube.com/watch?v=xEnDPj7vxhA) | [#1](https://osu.ppy.sh/beatmapsets/1422682) | Desempate de la gran final |
-
 #### ![](/wiki/shared/mode/osu.png) [osu! World Cup 2022](/wiki/Tournaments/OWC/2022)
 
 | Canción | Beatmap | Notas |
@@ -149,6 +143,12 @@ Todos los osu! originals que han sido licenciados por el juego están autorizado
 | [Kurokotei feat. Sennzai - escape (the looking-glass, and what alice found there)](https://www.youtube.com/watch?v=rYmTItO3caw)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1880652) | Desempate de las semifinales |
 | [Redside - Sidequest](https://soundcloud.com/redside100/sidequest)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1880625) | Cuartos de final HR3 |
 | [Thaehan - All or nothing](https://www.youtube.com/watch?v=lrtA205InoQ)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1880625) | Semifinales HR1 |
+
+#### ![](/wiki/shared/mode/taiko.png) [osu!taiko World Cup 2021](/wiki/Tournaments/TWC/2021)
+
+| Canción | Beatmap | Notas |
+| :-: | :-: | :-- |
+| [TWC Sound Team "Zeroth Powers" - One One](https://www.youtube.com/watch?v=xEnDPj7vxhA) | [#1](https://osu.ppy.sh/beatmapsets/1422682) | Desempate de la gran final |
 
 #### ![](/wiki/shared/mode/taiko.png) [osu!taiko World Cup 2022](/wiki/Tournaments/TWC/2022)
 
