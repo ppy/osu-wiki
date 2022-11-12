@@ -317,9 +317,9 @@ osu! 通常会自己保持最新版本，不需要干涉，但有时情况可能
 
 请参阅 AVG 的[官方知识库文章](https://support.avg.com/SupportArticleView?l=en&urlName=AVG-Antivirus-Enhanced-Firewall-Application-Rules&supportType=home)来了解如何操作。
 
-#### 允许程序通过 Kaspersky 互联网安全 {#firewall-whitelist-kaspersky}
+#### 允许程序通过卡巴斯基 (Kaspersky) 互联网安全 {#firewall-whitelist-kaspersky}
 
-请参阅 Kaspersky 的[官方支持文章](https://support.kaspersky.com/15163#block2)来了解如何把程序加入信任名单。
+请参阅卡巴斯基的[官方支持文章](https://support.kaspersky.com/15163#block2)来了解如何把程序加入信任名单。
 
 #### 允许程序通过 McAfee {#firewall-whitelist-mcafee}
 
