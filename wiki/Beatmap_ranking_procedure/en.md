@@ -1,3 +1,13 @@
+---
+tags:
+  - qualification
+  - nomination
+  - nominations
+  - nom
+  - ranking
+  - ranked
+---
+
 # Beatmap ranking procedure
 
 *See also: [Rank (disambiguation)](/wiki/Disambiguation/Rank)*
@@ -8,17 +18,21 @@
 
 A beatmap's creator can mark their submissions as `Work in Progress` or `Pending`. Beatmaps in both of these categories are intended to receive feedback from the osu! community.
 
-[Modding](/wiki/Modding) is the process of receiving constructive criticism on a beatmap and is beneficial to improving its quality. Users ordinarily post feedback on a beatmap's discussion page or discuss issues with the beatmap's creator directly.
+[Modding](/wiki/Modding) is the process of receiving constructive criticism on a beatmap and is beneficial to improving its quality. Users ordinarily post feedback on a beatmap's [discussion page](/wiki/Beatmap_discussion) or discuss issues with the beatmap's creator directly.
 
 Newer beatmappers usually need extensive modding to create beatmaps that meet the Ranked category's quality standards, and often they're required to recreate their beatmaps from scratch.
 
 Before being nominated for ranking, a beatmap needs to receive [hype](/wiki/Beatmap/Hype) posts from at least five different users.
 
-## Nominations
+## Nominations {#nominations}
 
-Members of the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BNs*) are experienced modders who are capable of nominating beatmaps for ranking. Their role is to ensure a beatmap meets the [Ranking Criteria](/wiki/Ranking_Criteria) as well as their own personal quality standards.
+::: Infobox
+![](img/nomination-progress-beatmapset1857663.png "Beatmap ranking status displayed on the discussion page, with hype and nomination progress bars partially filled.")
+:::
 
-Members of the [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (*NAT*) may also nominate beatmaps, however that is not their primary role.
+A **nomination** is a vote of approval, which indicates a beatmap's readiness to become [ranked](/wiki/Beatmap/Category#ranked). It is given to completed beatmaps of sufficient quality, as judged by the nominating user. As a minimum requirement, these beatmaps must follow the [ranking criteria](/wiki/Ranking_Criteria) and have 5 or more [hypes](/wiki/Beatmap/Hype).
+
+Nominations are given by [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BN*), a group of experienced modders. Members of the [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (*NAT*) may also nominate beatmaps, however that is not their primary role.
 
 It is recommended to receive mods before requesting nominations from BNs, however five hypes are the only pre-requisite.
 
@@ -38,6 +52,6 @@ Members of the BN and NAT occasionally [veto](/wiki/People/The_Team/Beatmap_Nomi
 
 ## Ranked
 
-Beatmaps that have passed through the qualification stage have completed the ranking procedure. They have score leaderboards and reward players with performance points.
+Beatmaps that have passed through the qualification stage have completed the ranking procedure. They have [score leaderboards](/wiki/Ranking) and reward players with performance points.
 
 Ranked beatmaps are only unranked under exceptional circumstances when issues are found shortly after they reach Ranked status.

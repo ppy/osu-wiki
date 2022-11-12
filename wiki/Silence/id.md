@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 203a715b0188784607756ebee4cd0a3daa7ddf3d
+---
+
 # Silence
 
 ***Silence*** merupakan bentuk hukuman di osu! yang membatasi kemampuan seorang pengguna untuk dapat berkomunikasi dengan anggota-anggota komunitas lainnya. Hukuman ini dijatuhkan oleh anggota [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) dan [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) kepada para pengguna yang telah terbukti melanggar [peraturan komunitas](/wiki/Rules) yang berlaku.
@@ -18,7 +23,7 @@ Para pengguna yang sedang di-*silence* oleh moderator tidak akan dapat melakukan
 - Mengunggah beatmap baru atau memperbarui beatmap-beatmap yang sudah ada
 - Berpartisipasi dalam [pertandingan multiplayer](/wiki/Client/Interface/Multiplayer)
 
-Di samping itu, seluruh pesan yang sebelumnya telah dikirim oleh pengguna yang bersangkutan akan ikut terhapus dari seluruh kanal *chat* dan *private message* yang aktif [[1]](https://blog.ppy.sh/post/38114063519/this-week-in-osu-5 "ppy blog").
+Di samping itu, seluruh pesan yang sebelumnya telah dikirim oleh pengguna yang bersangkutan akan ikut terhapus dari seluruh kanal *chat* dan *private message* yang aktif.[^chat-cleanup]
 
 ::: Infobox
 ![](img/silence-ingame.png "Keterangan bahwa seseorang sedang di-silence pada in-game chat")
@@ -40,3 +45,7 @@ Berikut merupakan tindakan-tindakan yang dapat menyebabkan seseorang terkena *si
 - Mengunggah atau memposting konten-konten yang tidak sepantasnya (baik itu dalam bentuk avatar, beatmap, rincian profil, biodata, banner, ataupun yang lainnya)
 
 Durasi *silence* yang dijatuhkan akan bervariasi tergantung pada seberapa berat pelanggaran yang dilakukan. *Silence* dapat bertumpuk satu sama lain, yang akan memperpanjang durasi *silence* seiring dengan semakin banyaknya pelanggaran yang diperbuat. Sebagai catatan, apabila seorang pengguna telah melakukan pelanggaran yang sangat berat, atau apabila pengguna tersebut telah berulang kali melanggar peraturan tanpa merasa jera sedikit pun, maka pengguna tersebut dapat langsung di-[*restrict*](/wiki/Help_centre/Account_restrictions) oleh tim kami tanpa harus di-*silence* terlebih dahulu.
+
+## Referensi
+
+[^chat-cleanup]: [Blog post by ppy (2012-12-17) "This Week in osu!"](https://blog.ppy.sh/post/38114063519/this-week-in-osu-5)

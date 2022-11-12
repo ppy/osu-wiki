@@ -1,6 +1,6 @@
 # Pertimbangan konten visual
 
-Sesuai dengan [Peraturan Komunitas no. 5](/wiki/Rules#peraturan-komunitas), semua konten visual yang dikirimkan atau diunggah ke osu! harus memenuhi kriteria untuk aman di segala kalangan usia.
+Sesuai dengan [Peraturan Komunitas no. 5](/wiki/Rules#peraturan-komunitas), semua konten visual yang dikirimkan atau diunggah ke osu! wajib memenuhi kriteria untuk aman di segala kalangan usia.
 
 Hal ini termasuk:
 
@@ -16,7 +16,7 @@ Semua gambar harus dinilai sebagaimana adanya, tanpa memperhitungkan kasus lain 
 
 Harap dipahami bahwa kami adalah sebuah komunitas global dan multikultural dengan pemikiran, opini, dan nilai yang sangat beragam tentang topik apa saja yang diperbolehkan dan tidak diperbolehkan.
 
-jika ragu, usahakan untuk mengambil nilai secara kolektif yang dibagikan oleh sebagian besar pengguna di komunitas osu! secara umum.
+Jika ragu, usahakan untuk mengambil nilai secara kolektif yang dibagikan oleh sebagian besar pengguna di komunitas osu! secara umum.
 
 ## Kriteria
 
@@ -29,6 +29,7 @@ Gambar atau elemen visual yang mengandung salah satu dari daftar dibawah ini **t
 - **konten erotis atau tampilan grafis seksualitas**
 - **contoh penggunaan, persiapan, atau identifikasi segala jenis obat-obatan terlarang**[^drug-nature]
 - **penggambaran konten politik, budaya, agama, atau sosial yang bertujuan untuk menghasut**
+- **gambaran perilaku bunuh diri atau melukai diri sendiri, termasuk persiapan atau upaya yang akan segera dilakukan**
 
 Sebagai tambahan, gambar atau elemen visual yang dinilai berkualitas buruk (baik secara obyektif yaitu kualitas gambar maupun secara subyektif yaitu komposisi/penciptaan) juga dapat dicegah penggunaannya dalam beatmap jika gambar atau elemen visual tidak berhubungan langsung dengan beatmap.
 
