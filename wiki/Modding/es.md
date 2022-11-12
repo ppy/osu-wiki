@@ -1,10 +1,10 @@
 # Modding
 
-*Para otros usos, vea [Mod (desambiguación)](/wiki/Disambiguation/Mod).*
+*Para otros usos, véase [Mod (desambiguación)](/wiki/Disambiguation/Mod).*
 
 **Modding** es el acto de proveer comentarios al [beatmap](/wiki/Beatmap) de otro usuario. Un usuario que está modeando es considerado como un *modder*, y sus posts colectivos en una discusión de un beatmap se denomina como un *mod*.
 
-Los mods son principalmente usados para mejorar beatmaps que apuntan a un [estado Clasificado](/wiki/Beatmap/Category#estatus-de-rankeo). Debido a que es un proceso detallado y analitico, modear beatmaps también es una manera popular de mejorar el entendimiento del beatmapping.
+Los mods son principalmente usados para mejorar beatmaps que apuntan a un [estado Clasificado](/wiki/Beatmap/Category#clasificados). Debido a que es un proceso detallado y analitico, modear beatmaps también es una manera popular de mejorar el entendimiento del beatmapping.
 
 ## Encontrando beatmaps para modear
 
