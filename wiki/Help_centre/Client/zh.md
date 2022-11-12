@@ -451,7 +451,7 @@ Tor 网络或通过 Tor 的连接将无法连接大部分游戏服务器。虽�
 
 在大多数 Wacom 数位板上，你可以在 `Wacom 数位板属性`的`映射`标签页中完成操作。
 
-![Wacom Tablet Properties screen showing Mapping options](img/tablet-area.png "Interface for changing tablet area on Wacom devices")
+![Wacom 数位板属性屏幕显示映射选项](img/tablet-area.png "Wacom 设备更改数位板映射区域的界面")
 
 你需要咨询你的设备生产商来了解如何为你的设备更改映射区域。
 
