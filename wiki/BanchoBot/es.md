@@ -117,6 +117,9 @@ Hay un total de 7 estados que se pueden mostrar con el comando `!stats`: Editing
 
 ```
 !faq <entrada>
+```
+
+```
 !faq list
 ```
 
