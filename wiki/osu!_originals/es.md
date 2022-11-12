@@ -321,7 +321,7 @@ Todos los osu! originals que han sido licenciados por el juego están autorizado
 | [NIWASHI - Silence is Golden, Speech is Golden](https://soundcloud.com/n1wa5h1/niwashi-silence-is-golden-speech-is-golden)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1833489) | Ronda de 32 NM1 |
 | [one fourteen - break through](https://soundcloud.com/luzeria/breakthrough) | [#1](https://osu.ppy.sh/beatmapsets/1850900) | Semifinales NM1 |
 | [rN vs. \[Shanom, ptar124 & Zekai\] - dichroma, ludiosia.](https://soundcloud.com/rurinn/dichroma)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1842219) | Desempate de octavos de final |
-| Rukadesu & 5KiLOBYTE - ULTIMATE | [#1](https://osu.ppy.sh/beatmapsets/1859283#taiko/3822010) | Gran final FM3 |
+| [Rukadesu & 5KiLOBYTE - ULTIMATE](https://soundcloud.com/5kilobyte/ultimate) | [#1](https://osu.ppy.sh/beatmapsets/1859283#taiko/3822010) | Gran final FM3 |
 | [Sad Keyboard Guy - Reflection Shift](https://soundcloud.com/sadkeyboardguy/reflection-shift) | [#1](https://osu.ppy.sh/beatmapsets/1851049) | Semifinales FM3 |
 | [Slax - Giri the Giri](https://www.youtube.com/watch?v=2IS9oBstIcY) | [#1](https://osu.ppy.sh/beatmapsets/1828739) | Ronda de 128 HD2 |
 | [Sparxe - Dream Elevator](https://www.youtube.com/watch?v=twx6tOXXy4Q) | [#1](https://osu.ppy.sh/beatmapsets/1837865) | Ronda de 32 DT1 |
@@ -466,8 +466,8 @@ Todos los osu! originals que han sido licenciados por el juego están autorizado
 | Kuba Oms - My Love (Maemi no Yume's Remix) | [#1](https://osu.ppy.sh/beatmapsets/1389127) |  |
 | Kuba Oms - My Love (pm04034 Remix) | [#1](https://osu.ppy.sh/beatmapsets/1382737) |  |
 | [Kuba Oms - My Love (Raytoly Trance Remix)](https://soundcloud.com/raytoly/kuba-oms-my-love-raytoly-trance-remix) | [#1](https://osu.ppy.sh/beatmapsets/1389153) |  |
-| [Kuba Oms - My Love (Redside Remix) (feat. Hatsune Miku)](https://www.youtube.com/watch?v=MGTf7A4B2jw) | [#1](https://osu.ppy.sh/beatmapsets/1388993) | Ganador de la elección de la comunidad |
-| [Kuba Oms - My Love (SAMString Remix)](https://soundcloud.com/samstring/kuba-oms-my-love-samstring-remix) | [#1](https://osu.ppy.sh/beatmapsets/1389249#osu/2868999) |  |
+| [Kuba Oms - My Love (Redside Remix) (feat. Hatsune Miku)](https://www.youtube.com/watch?v=MGTf7A4B2jw)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1388993) | Ganador de la elección de la comunidad |
+| [Kuba Oms - My Love (SAMString Remix)](https://soundcloud.com/samstring/kuba-oms-my-love-samstring-remix)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1389249#osu/2868999) |  |
 | [Kuba Oms - My Love (Shadren Remix)](https://soundcloud.com/shadren808/kuba-oms-my-love-shadren-remix) | [#1](https://osu.ppy.sh/beatmapsets/1382412) |  |
 | [Kuba Oms - My Love (takehirotei Remix)](https://soundcloud.com/takehirotei/kuba-oms-my-love-takehirotei-remix) | [#1](https://osu.ppy.sh/beatmapsets/1390004) |  |
 | Kuba Oms - My Love (tochi's Atmospheric Remix) | [#1](https://osu.ppy.sh/beatmapsets/1389401) |  |
