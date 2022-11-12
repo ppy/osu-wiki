@@ -41,7 +41,7 @@ GST:LIVE 2021 was run by various community members.
 | :-- | :-- |
 | Organiser | ::{ flag=SG }:: [megumic](https://osu.ppy.sh/users/7537133) |
 | GFX | ::{ flag=SG }:: [Hecatia](https://osu.ppy.sh/users/8244635) |
-| On-site staff | ::{ flag=SG }:: [k_1tty](https://osu.ppy.sh/users/5407620) ::{ flag=SG }::, [Loslite](https://osu.ppy.sh/users/6398160), ::{ flag=SG }:: [phox](https://osu.ppy.sh/users/772295), ::{ flag=SG }:: [sinn](https://osu.ppy.sh/users/4262229) |
+| On-site staff | ::{ flag=SG }:: [k_1tty](https://osu.ppy.sh/users/5407620), ::{ flag=SG }:: [Loslite](https://osu.ppy.sh/users/6398160), ::{ flag=SG }:: [phox](https://osu.ppy.sh/users/772295), ::{ flag=SG }:: [sinn](https://osu.ppy.sh/users/4262229) |
 | Wiki editor | ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957) |
 
 ## Links
