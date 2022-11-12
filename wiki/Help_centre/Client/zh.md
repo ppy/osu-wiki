@@ -34,7 +34,7 @@ tags:
 1. 按住 `Shift`按键，然后打开 osu!。
 2. 持续按住 `Shift`，直到 osu! recovery 对话框出现。
 3. 当 `osu! configuration` 窗口出现时，点击 `reset settings`。
-4. 如果问题没有解决，依照同样的步骤回到配置窗口，这一次点击 `repair osu!`。
+4. 如果问题没有解决，按照上述步骤再一次进入配置窗口，并点击 `repair osu!`。
 
 ### 点击链接/多人游戏地图后，osu! 就卡住了！ {#broken-links}
 
