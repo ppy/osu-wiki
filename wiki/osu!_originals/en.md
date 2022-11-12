@@ -474,6 +474,8 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 
 ### Community-run contest releases
 
+#### ![](/wiki/shared/mode/catch.png) osu!catch Mapping World Cup 2022
+
 | Song |
 | :-: |
 | [SAMString - Akarui Taiyo](https://soundcloud.com/samstring/akarui-taiyo)[^fa] |
