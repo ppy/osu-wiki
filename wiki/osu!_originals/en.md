@@ -148,7 +148,6 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 | :-: | :-: | :-- |
 | [TWC Sound Team "Zeroth Powers" - One One](https://www.youtube.com/watch?v=xEnDPj7vxhA) | [#1](https://osu.ppy.sh/beatmapsets/1422682) | Grand Finals tiebreaker |
 
-
 #### ![](/wiki/shared/mode/taiko.png) [osu!taiko World Cup 2022](/wiki/Tournaments/TWC/2022)
 
 | Song | Beatmap | Notes |
