@@ -51,16 +51,17 @@ Each Beatmap Spotlights release is assembled by a dedicated curator team and ind
 ### osu!taiko curators
 
 - ::{ flag=TN }:: **[Hivie](https://osu.ppy.sh/users/14102976)**
+- ::{ flag=MY }:: [[Zeth]](https://osu.ppy.sh/users/9912966)
 - ::{ flag=AR }:: [Axer](https://osu.ppy.sh/users/7299864)
+- ::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438)
 - ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097)
 - ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)
 - ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719)
-- ::{ flag=MY }:: [[Zeth]](https://osu.ppy.sh/users/9912966)
 
 ### osu!catch curators
 
 - ::{ flag=CA }:: **[SadEgg](https://osu.ppy.sh/users/10278243)**
-- ::{ flag=RU }:: [Nelly](https://osu.ppy.sh/users/4741164)
+- ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164)
 - ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)
 - ::{ flag=CA }:: [WadBot](https://osu.ppy.sh/users/14571181)
 - ::{ flag=US }:: [wonjae](https://osu.ppy.sh/users/5032045)
@@ -73,6 +74,8 @@ Each Beatmap Spotlights release is assembled by a dedicated curator team and ind
 - ::{ flag=GB }:: [Hydria](https://osu.ppy.sh/users/808176)
 - ::{ flag=MY }:: [Kibitz](https://osu.ppy.sh/users/7418493)
 - ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573)
+- ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/4790958)
+- ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785)
 - ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747)
 
 ## Spotlights seasons
@@ -98,7 +101,7 @@ The seasonal leaderboard sums up the weekly ranked score results of every partic
 1. Seasonal leaderboard score is a weighted sum of all weekly ranked scores attained in the playlist lobbies.
 2. Participants can only possess one weekly ranked score per playlist.
    - Replaying a playlist at another week will make **only the best weekly ranked score** count, overwriting the worse one.
-3. Leaderboard will be updated after each playlist conclusion. 
+3. Leaderboard will be updated after each playlist conclusion.
    - The participants will not be told their exact seasonal score, they will be assigned to league brackets instead.
    - The leaderboard will be released in the [osu! community discord](https://discord.gg/0Vxo9AsejDkGlk3H), in the `#osu-spotlights` channel as well as in the lobby chat of the next playlist.
 
