@@ -276,7 +276,7 @@ Sunday, 2 May 2019:
 
 ### Finals
 
-Wednesday, 24 April 2020:
+Wednesday, 24 April 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -373,7 +373,7 @@ Saturday, 23 March 2019:
 | A | **Asa Trumming** | **0** | -1 | L C | *win by default* |
 | A | **Dodge the rhythm** | **0** | -1 | L C | *win by default* |
 
-Sunday, 3 May 2020:
+Sunday, 3 May 2019:
 
 | Group | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
