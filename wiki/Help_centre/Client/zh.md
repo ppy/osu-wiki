@@ -25,7 +25,7 @@ tags:
 
 ## Bug 和崩溃 {#crash}
 
-### 我改了改设置，现在 osu! 打不开/卡住了！ {#incorrect-settings}
+### 我修改了部分设置，现在 osu! 打不开或直接卡住了！ {#incorrect-settings}
 
 **大多数情况下，重置 osu! 设定为默认值可以解决此问题。**
 
