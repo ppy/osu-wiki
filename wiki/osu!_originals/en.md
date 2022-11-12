@@ -472,6 +472,12 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 | [Kuba Oms - My Love (XenjeS' Remix)](https://www.youtube.com/watch?v=pfmc3QO4Ggs) | [#1](https://osu.ppy.sh/beatmapsets/1388590) |
 | [Raphlesia & BilliumMoto - My Love](https://soundcloud.com/billiummoto/my-love)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1388906) |
 
+### Community-run contest releases
+
+| Song |
+| :-: |
+| [SAMString - Akarui Taiyo](https://soundcloud.com/samstring/akarui-taiyo)[^fa] |
+
 ### Standalone beatmap releases
 
 *Natteke ft. tieff - Endless Tower* and *Natteke ft. tieff - The Dream* were later featured in [osu!stream](/wiki/osu!stream).
