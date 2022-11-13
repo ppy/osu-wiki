@@ -7,9 +7,9 @@ tags:
 
 # GST:LIVE 2022
 
-![GST:LIVE 2022 Banner](img/banner.png)
+![GST:LIVE 2022 banner](img/banner.png)
 
-**GST:LIVE 2022** is a 2v2 single-elimination osu! tournament hosted by ::{ flag=SG }:: [megumic](https://osu.ppy.sh/users/7537133), and ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957). It is the second iteration of GST:LIVE. The bracket stage is to be held on the 17th of December in conjunction with [Asia Esports Festival Online 2022](https://esportsasia.net/upcoming-events/aef-online-2022/) (*AEF Online 2022*). 
+The **GST:LIVE 2022** is a 2v2 single-elimination osu! tournament hosted by ::{ flag=SG }:: [megumic](https://osu.ppy.sh/users/7537133), and ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957). It is the second instalment of GST:LIVE. The bracket stage is to be held on the 17th of December in conjunction with [Asia Esports Festival Online 2022](https://esportsasia.net/upcoming-events/aef-online-2022/) (*AEF Online 2022*). 
 
 ## Tournament schedule
 
@@ -60,7 +60,7 @@ GST:LIVE 2022 is run by various community members.
 
 ## Ruleset
 
-### General Rules
+### General rules
 
 1. GST:LIVE 2022 is a national, single-elimination, 2v2 tournament with a team size of **2 players**.
 2. All matches will be played on **No Fail, Score v2 and Team VS**, with certain exceptions.
@@ -80,7 +80,7 @@ GST:LIVE 2022 is run by various community members.
 3. If a player disconnects or encounters any technical issues within the first **30 seconds** of a map, they are allowed to replay that particular map after the lobby is done with all the remaining maps.
 4. Only the top 8 teams will proceed to the Bracket Stage. Seeding in Qualifiers will be determined by the **sum of z-score in each map**.
 
-### Bracket Stage regulations
+### Bracket stage regulations
 
 1. The Bracket Stage will be held **offline** on 17 December 2022 at AEF Online 2022. **By signing up, you agree that you are free and will be showing up to the event should you place top 8 in Qualifiers.** Should there be an emergency such that you are unable to make the event, **please let the staff know** by messaging megumic (ue#0001) or \_gt (gt#8668) on Discord.
 2. If a player is not present at the time of their match, the match will be forfeited. **The staff reserves the right to ban absent players for future iterations of GST and GST:LIVE.**

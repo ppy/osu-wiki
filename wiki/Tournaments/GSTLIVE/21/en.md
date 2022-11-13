@@ -7,9 +7,9 @@ tags:
 
 # GST:LIVE 2021
 
-![GST:LIVE 2021](img/banner.jpg)
+![GST:LIVE 2021 banner](img/banner.jpg)
 
-**GST:LIVE 2021** was a 1v1 single-elimination osu! tournament hosted by ::{ flag=SG }:: [megumic](https://osu.ppy.sh/users/7537133). It was the first iteration of GST:LIVE, held on the 14 March 2021 at Bountie Arena.
+The **GST:LIVE 2021** was a 1v1 single-elimination osu! tournament hosted by ::{ flag=SG }:: [megumic](https://osu.ppy.sh/users/7537133). It was the first instalment of GST:LIVE, held on the 14 March 2021 at Bountie Arena.
 
 ## Tournament schedule
 
@@ -41,7 +41,7 @@ GST:LIVE 2021 was run by various community members.
 | :-- | :-- |
 | Organiser | ::{ flag=SG }:: [megumic](https://osu.ppy.sh/users/7537133) |
 | GFX | ::{ flag=SG }:: [Hecatia](https://osu.ppy.sh/users/8244635) |
-| On-site staff | ::{ flag=SG }:: [k_1tty](https://osu.ppy.sh/users/5407620), ::{ flag=SG }:: [Loslite](https://osu.ppy.sh/users/6398160), ::{ flag=SG }:: [phox](https://osu.ppy.sh/users/772295), ::{ flag=SG }:: [sinn](https://osu.ppy.sh/users/4262229) |
+| On-site staff | ::{ flag=SG }:: [k\_1tty](https://osu.ppy.sh/users/5407620), ::{ flag=SG }:: [Loslite](https://osu.ppy.sh/users/6398160), ::{ flag=SG }:: [phox](https://osu.ppy.sh/users/772295), ::{ flag=SG }:: [sinn](https://osu.ppy.sh/users/4262229) |
 | Wiki editor | ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957) |
 
 ## Links
@@ -74,7 +74,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Mappools
 
-### Semifinals & Finals
+### Finals & Semifinals
 
 - NoMod
   1. [Yunomi - Oedo Controller (feat. TORIENA) (Mentai) [Until the End of the Universe]](https://osu.ppy.sh/beatmapsets/759903#osu/1610200)
@@ -123,23 +123,23 @@ This competition has come to an end and resulted in the following podium:
 
 | Player 1 | | | Player 2 | Match link |
 | --: |:-: | :-: | :-- | :-- |
-| Dawnwing | **4** | 2 | Rtzero | [#1](https://osu.ppy.sh/community/matches/78039075) |
+| **Dawnwing** | **4** | 2 | Rtzero | [#1](https://osu.ppy.sh/community/matches/78039075) |
 
 #### Semifinals
 
 | Player 1 | | | Player 2 | Match link |
 | --: |:-: | :-: | :-- | :-- |
-| fausion | 0 | **4** | Dawnwing | [#1](https://osu.ppy.sh/community/matches/78037418) |
-| Rtzero | **4** | 1 | Jazzie | [#1](https://osu.ppy.sh/community/matches/78038050) |
+| fausion | 0 | **4** | **Dawnwing** | [#1](https://osu.ppy.sh/community/matches/78037418) |
+| **Rtzero** | **4** | 1 | Jazzie | [#1](https://osu.ppy.sh/community/matches/78038050) |
 
 #### Quarterfinals
 
 | Player 1 | | | Player 2 | Match link |
 | --: |:-: | :-: | :-- | :-- |
-| fausion | **3** | 2 | Lunarsol | [#1](https://osu.ppy.sh/community/matches/78030580) |
-| \_gt | 2 | **3** | Dawnwing | [#1](https://osu.ppy.sh/community/matches/78032989) |
-| Stylus | 2 | **3** | Rtzero | [#1](https://osu.ppy.sh/community/matches/78034404) |
-| Jazzie | **3** | 2 | Ayano_ | [#1](https://osu.ppy.sh/community/matches/78035998) |
+| **fausion** | **3** | 2 | Lunarsol | [#1](https://osu.ppy.sh/community/matches/78030580) |
+| \_gt | 2 | **3** | **Dawnwing** | [#1](https://osu.ppy.sh/community/matches/78032989) |
+| Stylus | 2 | **3** | **Rtzero** | [#1](https://osu.ppy.sh/community/matches/78034404) |
+| **Jazzie** | **3** | 2 | Ayano\_ | [#1](https://osu.ppy.sh/community/matches/78035998) |
 
 ## Ruleset
 
