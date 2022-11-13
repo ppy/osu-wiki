@@ -278,7 +278,7 @@ As menacing as it may seem, it's worth a try from any player. Are you willing to
 
 ## osu!mania
 
-The osu!mania Loved candidates were chosen by [\_underjoy](https://osu.ppy.sh/users/2235750), [-NoName-](https://osu.ppy.sh/users/10400730), [kadoen](https://osu.ppy.sh/users/12780575), [Paturages](https://osu.ppy.sh/users/1375479) and [RandomeLoL](https://osu.ppy.sh/users/7080063)!
+The osu!mania Loved candidates were chosen by [\_underjoy](https://osu.ppy.sh/users/2235750), [-NoName-](https://osu.ppy.sh/users/10400730), [kadoen](https://osu.ppy.sh/users/12780575), [Mipha-](https://osu.ppy.sh/users/5767941), [Paturages](https://osu.ppy.sh/users/1375479) and [RandomeLoL](https://osu.ppy.sh/users/7080063)!
 
 ---
 
