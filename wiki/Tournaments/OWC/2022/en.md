@@ -160,7 +160,7 @@ The osu! World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) and var
   1. [Coda - Fighting Gold (fartownik) \[Vento Aureo\]](https://osu.ppy.sh/beatmapsets/1884904#osu/3880922)
   2. [rN - onostrapha (Altai) \[midnight rain\]](https://osu.ppy.sh/beatmapsets/1884914#osu/3880936)
   3. [ZUN - G Free (Halfslashed) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/1884924#osu/3880952)
-  4. [NIWASHI - Harder Than Diamond (DeviousPanda) \[Down's Extra\]](https://osu.ppy.sh/beatmapsets/1884920#osu/3880947)
+  4. [NIWASHI - Harder Than Diamond (DeviousPanda) \[Chromatic Refraction\]](https://osu.ppy.sh/beatmapsets/1884920#osu/3880946)
 - Tiebreaker
   1. **[Sunless Rise - Ghosts of the Past (ItsWinter) \[Winter & CallieCube's Breaking Point (Tourney Ver.)\]](https://osu.ppy.sh/beatmapsets/1884827#osu/3880731)**
 
