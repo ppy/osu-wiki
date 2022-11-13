@@ -19,7 +19,7 @@ Artikel ini akan menjelaskan segalanya yang perlu kamu ketahui seputar tampilan 
 - \[9\] Tombol untuk memunculkan [kolom *chat*](/wiki/Client/Interface/Chat_console) utama (kanan) dan kolom *chat* yang diperluas (kiri), yang juga memunculkan daftar pengguna yang sedang *online*. Kedua kolom ini juga dapat dimunculkan dengan menekan `F8` dan `F9`.
 - \[10\] Pemutar lagu (*jukebox*). Pada menu utama, pemutar lagu akan berpindah dari lagu ke lagu secara acak. Lihat penjelasan di bawah ini untuk informasi lebih lanjut seputar berbagai tombol yang ada pada menu ini.
 - \[11\] Jumlah [tingkat kesulitan beatmap](/wiki/Beatmap/Difficulty) yang kamu miliki, lama waktu kamu telah bermain, dan jam yang terpasang pada sistem perangkat milikmu.
-- \[12\] Profil aktif yang kamu gunakan. Apabila diklik, menu [pengaturan pengguna](#user-options) akan terbuka.
+- \[12\] Profil aktif yang kamu gunakan. Apabila diklik, menu [pengaturan pengguna](#pengaturan-pengguna) akan terbuka.
 
 ---
 
@@ -54,7 +54,7 @@ Akses layar ini dengan mengklik profilmu pada pojok kiri atas menu utama. Kamu d
 
 Setelah memilih `Play` pada menu utama, kamu dapat memilih salah satu dari tiga pilihan berikut:
 
-- Klik `Solo` (atau tekan `P`) untuk bermain sendiri. Kamu akan diarahkan ke [layar pemilihan lagu](#song-select).
+- Klik `Solo` (atau tekan `P`) untuk bermain sendiri. Kamu akan diarahkan ke [layar pemilihan lagu](#pemilihan-lagu).
 - Klaik `Multi` (atau tekan `M`) untuk bermain bersama dengan pemain lain. Kamu akan diarahkan ke lobi [multiplayer](/wiki/Client/Interface/Multiplayer).
 - Klik `Back` untuk kembali ke menu utama.
 
@@ -296,7 +296,7 @@ Layar ini merupakan papan peringkat *online* untuk skor yang kamu torehkan. Kamu
 - \[1\] Panel pengguna milikmu. Panel ini akan menampilkan informasi [performance point (pp)](/wiki/Performance_points), peringkat global, skor total, [akurasi](/wiki/Gameplay/Accuracy) keseluruhan, dan indikator persentase level.
 - \[2\] `Simpan tayangan ulang ke folder Replay`: Kamu dapat menyaksikan kembali tayangan ulang untuk skor ini baik dengan mengaksesnya pada papan peringkat lokal atau dengan membuka folder `Replays` dan mengklik dua kali berkas tayangan ulang yang bersangkutan.
 - \[3\] `Tambahkan sebagai favorit`: Menambahkan beatmap ke daftar favoritmu, yang dapat kamu temui pada laman profil osu! milikmu di bawah bagian `Beatmap`.
-- \[4\] Papan peringkat lokal: Seluruh skor yang kamu torehkan akan tersimpan pada komputermu. Untuk mengaksesnya, tuju [layar pemilihan lagu](#layar-pemilihan-lagu) dan pilih `Peringkat Lokal` pada menu *drop-down* yang tersedia.
+- \[4\] Papan peringkat lokal: Seluruh skor yang kamu torehkan akan tersimpan pada komputermu. Untuk mengaksesnya, tuju [layar pemilihan lagu](#pemilihan-lagu) dan pilih `Peringkat Lokal` pada menu *drop-down* yang tersedia.
 - \[5\] Kolom `Beatmap Ranking`. Hanya tersedia bagi beatmap yang memiliki papan peringkat *online* ([Qualified](/wiki/Beatmap/Category#qualified), [Ranked](/wiki/Beatmap/Category#ranked), atau [Loved](/wiki/Beatmap/Category#loved)). Kamu harus *online* untuk dapat melihat kolom ini. Lihat penjelasan di bawah ini untuk informasi lebih lanjut.
 - \[6\] Kolom `Overall Ranking`. Hanya tersedia bagi beatmap yang memiliki papan peringkat *online*. Kamu harus *online* untuk dapat melihat kolom ini. Lihat penjelasan di bawah ini untuk informasi lebih lanjut.
 - \[7\] Informasi seputar beatmap, yang meliputi jumlah permainan (*play count*) dan tingkat keberhasilan (*pass rate*) beatmap.
@@ -309,12 +309,12 @@ Berikut merupakan kategori yang terdapat pada kedua kolom *ranking* di atas:
 
 | Category | Beatmap Ranking | Overall Ranking |
 | :-: | :-- | :-- |
-| `Keseluruhan` | Posisimu pada papan peringkat beatmap. Harap diperhatikan bahwa skor dengan [mod](/wiki/Game_modifier) juga akan muncul pada papan peringkat yang sama. | [Peringkat globalmu](/wiki/id/Ranking#peringkat-performance-point) dari seluruh pemain di dunia. |
+| `Keseluruhan` | Posisimu pada papan peringkat beatmap. Harap diperhatikan bahwa skor dengan [mod](/wiki/Game_modifier) juga akan muncul pada papan peringkat yang sama. | [Peringkat globalmu](/wiki/Ranking#peringkat-performance-point) dari seluruh pemain di dunia. |
 | [`Akurasi`](/wiki/Gameplay/Accuracy) | Seberapa akurat kamu memainkan beatmap. Nilai ini hanya akan muncul apabila kamu mencetak rekor permainan baru pada beatmap. | Ratar-rata nilai akurasi yang dihitung dari seluruh skor terbaikmu. |
 | `Kombo Maks` | Jumlah kombo maksimal yang berhasil kamu raih pada beatmap. | Jumlah kombo maksimal yang pernah kamu raih sepanjang kamu bermain. |
 | [`Skor Ranked`](/wiki/Gameplay/Score/Ranked_score) | [Skor terbaik](/wiki/Gameplay/Score/Ranked_score) yang kamu miliki pada beatmap. | Total skor terbaik dari seluruh beatmap Ranked yang pernah kamu mainkan, dengan masing-masing map dihitung satu kali. |
 | [`Skor Total`](/wiki/Gameplay/Score/Total_score) | Tidak ditampilkan, karena tidak berdampak apapun terhadap peringkatmu. | Sama dengan Skor Ranked, namun dengan tambahan seluruh skor yang tercatat di situs web osu! (termasuk skor dari permainan yang tidak diselesaikan ataupun yang gagal). Skor ini merupakan skor yang digunakan pada perhitungan [level](/wiki/Gameplay/Score/Total_score#level). |
-| [`Performa`](/wiki/Performance_points) | Jumlah [pp yang tidak terbobotkan](/wiki/id/Performance_points#kenapa-saya-tidak-mendapatkan-seluruh-jumlah-pp-dari-map-yang-saya-telah-mainkan?) yang kamu peroleh dari skor ini. | Total performance point yang kamu miliki, yang disertai dengan jumlah penambahan pp yang kamu peroleh dari skor ini. |
+| [`Performa`](/wiki/Performance_points) | Jumlah [pp yang tidak terbobotkan](/wiki/Performance_points#kenapa-saya-tidak-mendapatkan-seluruh-jumlah-pp-dari-map-yang-saya-telah-mainkan?) yang kamu peroleh dari skor ini. | Total performance point yang kamu miliki, yang disertai dengan jumlah penambahan pp yang kamu peroleh dari skor ini. |
 
 ### Medali
 
