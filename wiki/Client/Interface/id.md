@@ -8,7 +8,6 @@ Artikel ini akan menjelaskan segalanya yang perlu kamu ketahui seputar tampilan 
 
 ![](img/main-menu.jpg "Menu utama")
 
-
 - \[1\] [osu! cookie](/wiki/Client/Interface/Cookie). Apabila diklik, menu utama akan terbuka. *Cookie* ini akan berdenyut sesuai dengan [BPM](/wiki/Beatmapping/Beats_per_minute) lagu yang sedang diputar, yang disertai dengan tampilan spektrum audio di lingkar luar *cookie*. Apabila kamu tidak sedang memutar lagu, *cookie* akan berdenyut dengan kecepatan 60 BPM.
 - \[2\] Klik `Play` (atau tekan `P`) untuk memainkan osu! baik secara solo ataupun bersama pengguna lain (*multiplayer*).
 - \[3\] Klik `Edit` (atau tekan `E`) untuk menyunting [beatmap](/wiki/Beatmap).
@@ -171,7 +170,7 @@ Berikut merupakan berbagai filter pencarian yang didukung:
 | `length` | Durasi dalam detik |
 | `drain` | [Drain time](/wiki/Gameplay/Drain_time) dalam detik |
 | `mode` | Mode permainan. Kamu dapat mencari berdasarkan mode `osu`, `taiko`, `catch`, atau `mania`, atau `o`/`t`/`c`/`m`. |
-| `status` | Status beatmap. Kamu dapat mencari berdasarkan status `ranked`, `approved`, `pending`, `notsubmitted`, `unknown`, atau `loved`, atau `r`/`a`/`p`/`n`/`u`/`l`.|
+| `status` | Status beatmap. Kamu dapat mencari berdasarkan status `ranked`, `approved`, `pending`, `notsubmitted`, `unknown`, atau `loved`, atau `r`/`a`/`p`/`n`/`u`/`l`. |
 | `played` | Waktu permainan terakhir dalam hari |
 | `unplayed` | Menampilkan hanya beatmap yang belum dimainkan. Kamu harus menambahkan tanda sama dengan di akhir (`unplayed=`) agar filter pencarian ini dapat bekerja. |
 | `speed` | *Scroll speed* osu!mania yang disimpan. Argumen ini akan selalu bernilai 0 pada beatmap yang belum dimainkan atau apabila pilihan [`Ingat kecepatan scroll osu!mania per beatmap`](/wiki/Client/Options#gameplay) dinonaktifkan. |
