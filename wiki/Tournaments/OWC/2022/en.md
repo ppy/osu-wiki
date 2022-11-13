@@ -156,7 +156,7 @@ The osu! World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) and var
   2. [BlackY - Brionac (verychill) \[Insane\]](https://osu.ppy.sh/beatmapsets/1884921#osu/3880948)
   3. [NANORAY - DESKTOP BUDDY (Elcheer) \[TOURNEY VERSION\]](https://osu.ppy.sh/beatmapsets/1884650#osu/3880353)
   4. [Dove Cameron - LazyBaby (Asphyxia) \[Lazy\]](https://osu.ppy.sh/beatmapsets/1503309#osu/3079877)
-- FreeMod
+- Free Mod
   1. [Coda - Fighting Gold (fartownik) \[Vento Aureo\]](https://osu.ppy.sh/beatmapsets/1884904#osu/3880922)
   2. [rN - onostrapha (Altai) \[midnight rain\]](https://osu.ppy.sh/beatmapsets/1884914#osu/3880936)
   3. [ZUN - G Free (Halfslashed) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/1884924#osu/3880952)
