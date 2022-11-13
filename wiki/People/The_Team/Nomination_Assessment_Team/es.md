@@ -71,7 +71,9 @@ La [página del grupo de evaluación de nominaciones](https://osu.ppy.sh/groups/
 | Nombre | Idiomas adicionales | Responsabilidades primarias |
 | :-- | :-- | :-- |
 | ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | Alemán | Evaluación |
+| ::{ flag=UK }:: [Dusk-](https://osu.ppy.sh/users/6092181) | Urdu, algo de árabe | Evaluación |
 | ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733) | Cantonés, chino | Evaluación |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Árabe, francés, algo de italiano | Evaluación |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | Evaluación |
 
 ### osu!catch
