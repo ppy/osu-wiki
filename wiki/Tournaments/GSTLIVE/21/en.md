@@ -9,7 +9,7 @@ tags:
 
 ![GST:LIVE 2021 banner](img/banner.jpg)
 
-The **GST:LIVE 2021** was a 1v1 single-elimination osu! tournament hosted by ::{ flag=SG }:: [megumic](https://osu.ppy.sh/users/7537133). It was the first instalment of GST:LIVE, held on the 14 March 2021 at Bountie Arena.
+**GST:LIVE 2021** was a 1v1 single-elimination osu! tournament hosted by ::{ flag=SG }:: [megumic](https://osu.ppy.sh/users/7537133). It was the first instalment of GST:LIVE, held on the 14 March 2021 at Bountie Arena.
 
 ## Tournament schedule
 
@@ -77,24 +77,24 @@ This competition has come to an end and resulted in the following podium:
 ### Finals & Semifinals
 
 - NoMod
-  1. [Yunomi - Oedo Controller (feat. TORIENA) (Mentai) [Until the End of the Universe]](https://osu.ppy.sh/beatmapsets/759903#osu/1610200)
-  2. [BOOGABOO - BUGABUGA CHEW CHEW (emu1337) [Multi-Track Drifting]](https://osu.ppy.sh/beatmapsets/1052766#osu/2205164)
-  3. [Camellia - Routing (Shiirn) [Extra]](https://osu.ppy.sh/beatmapsets/403282#osu/967558)
-  4. [YUC'e - Future Cider (deadcode) [Future Sliders]](https://osu.ppy.sh/beatmapsets/720558#osu/1521299)
+  1. [Yunomi - Oedo Controller (feat. TORIENA) (Mentai) \[Until the End of the Universe\]](https://osu.ppy.sh/beatmapsets/759903#osu/1610200)
+  2. [BOOGABOO - BUGABUGA CHEW CHEW (emu1337) \[Multi-Track Drifting\]](https://osu.ppy.sh/beatmapsets/1052766#osu/2205164)
+  3. [Camellia - Routing (Shiirn) \[Extra\]](https://osu.ppy.sh/beatmapsets/403282#osu/967558)
+  4. [YUC'e - Future Cider (deadcode) \[Future Sliders\]](https://osu.ppy.sh/beatmapsets/720558#osu/1521299)
 - Hidden
-  1. [HyuN - Tokyo's Starlight (Pho) [Collab Extra]](https://osu.ppy.sh/beatmapsets/891712#osu/1864175)
-  2. [Otomania - Ievan Polkka (Sinnoh) [Expert]](https://osu.ppy.sh/beatmapsets/700945#osu/1483732)
-  3. [Coda - Fighting Gold (TV Size) (Tatan) [Requiem]](https://osu.ppy.sh/beatmapsets/863407#osu/1805978)
+  1. [HyuN - Tokyo's Starlight (Pho) \[Collab Extra\]](https://osu.ppy.sh/beatmapsets/891712#osu/1864175)
+  2. [Otomania - Ievan Polkka (Sinnoh) \[Expert\]](https://osu.ppy.sh/beatmapsets/700945#osu/1483732)
+  3. [Coda - Fighting Gold (TV Size) (Tatan) \[Requiem\]](https://osu.ppy.sh/beatmapsets/863407#osu/1805978)
 - HardRock
-  1. [succducc - me & u (Alonevpk) [thiinggs]](https://osu.ppy.sh/beatmapsets/640447#osu/1358299)
-  2. [cranky - R176 (taka1235) [Another]](https://osu.ppy.sh/beatmapsets/31367#osu/103102)
-  3. [Meguro Shoji feat. Lyn - Last Surprise -Scramble- (moph) [Flake's Extra]](https://osu.ppy.sh/beatmapsets/1178471#osu/2476320)
+  1. [succducc - me & u (Alonevpk) \[thiinggs\]](https://osu.ppy.sh/beatmapsets/640447#osu/1358299)
+  2. [cranky - R176 (taka1235) \[Another\]](https://osu.ppy.sh/beatmapsets/31367#osu/103102)
+  3. [Meguro Shoji feat. Lyn - Last Surprise -Scramble- (moph) \[Flake's Extra\]](https://osu.ppy.sh/beatmapsets/1178471#osu/2476320)
 - DoubleTime
-  1. [TAKA respect for J.S.B - Ubertreffen (Philippines) [Chrome]](https://osu.ppy.sh/beatmapsets/49568#osu/154867)
-  2. [kors k - Insane Techniques (captin1) [Another]](https://osu.ppy.sh/beatmapsets/155288#osu/380969)
-  3. [Set It Off - Horrible Kids (My Angel Ram) [Kuki's Extra]](https://osu.ppy.sh/beatmapsets/1249048#osu/2596018)
+  1. [TAKA respect for J.S.B - Ubertreffen (Philippines) \[Chrome\]](https://osu.ppy.sh/beatmapsets/49568#osu/154867)
+  2. [kors k - Insane Techniques (captin1) \[Another\]](https://osu.ppy.sh/beatmapsets/155288#osu/380969)
+  3. [Set It Off - Horrible Kids (My Angel Ram) \[Kuki's Extra\]](https://osu.ppy.sh/beatmapsets/1249048#osu/2596018)
 - Tiebreaker
-  1. **[Meramipop - Secret Desire - Dyes Remix - (Skystar) [Irregular]](https://osu.ppy.sh/beatmapsets/697895#osu/1478218)**
+  1. **[Meramipop - Secret Desire - Dyes Remix - (Skystar) \[Irregular\]](https://osu.ppy.sh/beatmapsets/697895#osu/1478218)**
 
 ### Quarterfinals
 

@@ -9,7 +9,7 @@ tags:
 
 ![GST:LIVE 2022 banner](img/banner.png)
 
-The **GST:LIVE 2022** is a 2v2 single-elimination osu! tournament hosted by ::{ flag=SG }:: [megumic](https://osu.ppy.sh/users/7537133), and ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957). It is the second instalment of GST:LIVE. The bracket stage is to be held on the 17th of December in conjunction with [Asia Esports Festival Online 2022](https://esportsasia.net/upcoming-events/aef-online-2022/) (*AEF Online 2022*). 
+**GST:LIVE 2022** is a 2v2 single-elimination osu! tournament hosted by ::{ flag=SG }:: [megumic](https://osu.ppy.sh/users/7537133), and ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957). It is the second instalment of GST:LIVE. The bracket stage is to be held on the 17th of December in conjunction with [Asia Esports Festival Online 2022](https://esportsasia.net/upcoming-events/aef-online-2022/) (*AEF Online 2022*). 
 
 ## Tournament schedule
 
