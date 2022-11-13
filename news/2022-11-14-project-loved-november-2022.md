@@ -345,9 +345,9 @@ If you're just learning the LN skillset, this may be a bit challenging for you, 
 167 – 233.8 BPM, 2:27 | 4.45★ – 5.81★\
 *description written by [Mipha-](https://osu.ppy.sh/users/5767941)*
 
-Here comes a familiar face to the VSRG and especially the FFR communities, we present to you *Q.E* by Frums, a masterfully crafted chart by [Pizza69](https://osu.ppy.sh/users/25285704)!
+Here comes a familiar face to the VSRG and especially the FFR communities, we present to you *Q.E.* by Frums, a masterfully crafted chart by [Pizza69](https://osu.ppy.sh/users/25285704)!
 
-For those of you who are unaware, this pick from Pizza69 was originally used for the [ 13th Flash Flash Revolution Official Tournament](https://ffr.fandom.com/wiki/13th_Official_FFR_Tournament), as well as [MWC 4K 2021](/wiki/Tournaments/MWC/2021_4K), a major-scaled tournament that was happening last year. It quickly emerged as an excellent tournament pick and was used in numerous other tournaments as well. With many unconventional snapping, flams, syncopated rhythms to the minijacks, and even a nasty surprise at the end of the chart, this chart leaves no room for survivors to get a really solid score with simple sharpshooting — it necessitates a high level of physical skill as well as solid finesse.
+For those of you who are unaware, this pick from Pizza69 was originally used for the [13th Flash Flash Revolution Official Tournament](https://ffr.fandom.com/wiki/13th_Official_FFR_Tournament), as well as [MWC 4K 2021](/wiki/Tournaments/MWC/2021_4K), a major-scaled tournament that was happening last year. It quickly emerged as an excellent tournament pick and was used in numerous other tournaments as well. With many unconventional snapping, flams, syncopated rhythms to the minijacks, and even a nasty surprise at the end of the chart, this chart leaves no room for survivors to get a really solid score with simple sharpshooting — it necessitates a high level of physical skill as well as solid finesse.
 
 If you want to see a chart with no LN usage but still with a lot of nuances, especially with the uprates added for more challenge, please support Pizza69 and vote for this lovely chart!
 
