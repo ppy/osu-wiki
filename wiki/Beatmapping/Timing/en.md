@@ -1,60 +1,63 @@
 # Timing
 
-**Timing** is the process of determining the song's musical structure by finding its [BPM](/wiki/Beatmapping/Beats_per_minute), one or more [offsets](/wiki/Disambiguation/Offset), and its [time signatures](/wiki/Music_theory/Time_signature). It also means these settings altogether.
+**Timing** is the process of determining a song's musical structure by finding its [BPM](/wiki/Beatmapping/Beats_per_minute), one or more [offsets](/wiki/Disambiguation/Offset) (timing points) for each [timing section](/wiki/Beatmapping/Timing_section), and its [time signatures](/wiki/Music_theory/Time_signature).
 
-Timing settings provide a [ruler-like layout](/wiki/Client/Beatmap_editor/Timelines#timing) for temporal placement of [hit objects](/wiki/Gameplay/Hit_object) through [snapping](/wiki/Beatmapping/Snapping). This helps mappers and players by defining moments when key musical notes are played. Additionally, timing controls the following features:
+The [beatmap editor](/wiki/Client/Beatmap_editor) provides [timing settings](/wiki/Client/Beatmap_editor/Timing) with a [ruler-like timeline view](/wiki/Client/Beatmap_editor/Timelines#timing) for temporal placement of [hit objects](/wiki/Gameplay/Hit_object). When objects are placed, they are [snapped](/wiki/Beatmapping/Snapping) to timeline ticks, i.e. subdivisions of a [measure](/wiki/Music_theory/Measure).
 
-- Heartbeat of the [osu! cookie](/wiki/Client/Interface/Cookie) in the main menu and [song select screen](/wiki/Client/Interface#song-select)
+Additionally, the timing of a beatmap controls the following features:
+
+- Heartbeat of the [osu! cookie](/wiki/Client/Interface/Cookie) in the main menu and [song select screen](/wiki/Client/Interface#song-select) (as well as other menu effects that follow the beat)
 - Pulsation of hit objects during [kiai time](/wiki/Gameplay/Kiai_time)
-- Arrangement track added by the [Nightcore](/wiki/Gameplay/Game_modifier/Nightcore) mod
+- Drum track added by the [Nightcore](/wiki/Gameplay/Game_modifier/Nightcore) mod
 - Appearance of bar lines in [osu!taiko](/wiki/Game_mode/osu!taiko) and [osu!mania](/wiki/Game_mode/osu!mania)
 
-Timing partially reflects **properties of a specific audio file** and may change once the audio is replaced or modified in a way that affects its waveform. It is recommended to ensure that the audio file follows the [ranking criteria](/wiki/Ranking_Criteria#audio) before establishing timing.
+Timing partially reflects *properties of a specific audio file* and may change once the audio is replaced or modified in a way that affects its waveform. It is recommended to ensure that the audio file follows the [ranking criteria](/wiki/Ranking_Criteria#audio) before establishing timing.
 
 ## Song structure
 
 *Main article: [Music theory](/wiki/Music_theory)*
 
-Timing is based on the fact that most songs adhere to certain rules and guidelines and have rhythm — a regularly repeated sequence of sounds and silences:
+Almost every song can be divided into sections of different tempo, and the goal of timing is to divide up a beatmap to match those sections. Understanding a few concepts in music theory may help when discussing this process:
 
-- [Beat](/wiki/Music_theory/Beat) is a note interpreted as the base unit of rhythm. Other notes are expressed as its fractions and multiples.
-- [Measure](/wiki/Music_theory/Measure), or a bar, is a fixed amount of beats repeating throughout the song. The first beat of a measure is emphasized and called a [downbeat](/wiki/Music_theory/Downbeat).
-- [Time signature](/wiki/Music_theory/Time_signature) specifies how many beats are in a single measure.
-- [Beats per minute (BPM)](/wiki/Music_theory/Tempo) is a value that determines the speed/tempo of a song.
+- A [beat](/wiki/Music_theory/Beat) is the base unit of rhythm, usually corresponding to the quarter note. Other notes are expressed as its fractions and multiples.
+- A [measure](/wiki/Music_theory/Measure), or a bar, is a fixed amount of beats repeating throughout the song. The first beat of a measure is emphasised and called a [downbeat](/wiki/Music_theory/Downbeat).
+- A [time signature](/wiki/Music_theory/Time_signature) specifies how many beats fit in a single measure.
+- [Rhythm](/wiki/Music_theory/Rhythm) is the pattern of sounds and silences a song.
+- [Tempo](/wiki/Music_theory/Tempo) is the speed of the song, measured in beats per minute (BPM).
 
 ## Timing process
 
 *Main article: [How to time songs](/wiki/Guides/How_to_Time_Songs)*\
-*See also: [Beatmap editor — Timing](/wiki/Client/Beatmap_editor/Timing)*
+*See also: [Beatmap editor/Timing](/wiki/Client/Beatmap_editor/Timing)*
 
-### Single offset
+### Single BPM
 
-An [uninherited ("red") offset](/wiki/Beatmapping/Offset) is the amount of time between the beginning of the audio and the first downbeat. The offset is a starting point used by osu! to calculate positions of other beats. A single offset is often enough for songs that are digitally produced or edited seamlessly.
+A beatmap's first [offset](/wiki/Beatmapping/Offset) ([uninherited timing point](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point), i.e. "red line") is the amount of time between the beginning of the audio file and the first downbeat, and a starting point used by osu! to calculate positions of other beats. A single offset is often enough for songs that are digitally produced or edited seamlessly, having no BPM or time signature changes, or metronome resets<!-- TODO: link -->.
 
-Mappers use their perception and sense of rhythm to discover the basic rhythmic structure of a song, and then verify that it accurately represents the whole audio. To do that, they focus on similar sounds which repeat periodically, and follow along the rhythm by tapping the `T` key or clicking the metronome button. This allows osu! to calculate how many beats appear in a song over a minute, and find its approximate [BPM](/wiki/Beatmapping/Beats_per_minute). After that, the timing is tested and adjusted if necessary:
+In the [timing tab](/wiki/Client/Beatmap_editor/Timing), tapping the `T` key or clicking the metronome button to the beat of the song will allow osu! to calculate an approximate BPM. The value can then be adjusted manually until it is correct and all timeline ticks line up with the music. There are a few things to note:
 
-- BPM may be rounded if it yields more precise results;
-- The offset [needs to be moved](/wiki/Guides/Setting_the_Offset_on_the_Correct_Beat) to the first downbeat of a song.
+- Almost no songs use a BPM with a decimal value. If the value ends up being overly precise after manual adjustments, it is most likely incorrect.
+- The offset [must be at the first downbeat of a song](/wiki/Guides/Setting_the_Offset_on_the_Correct_Beat), as mandated by the [ranking criteria](/wiki/Ranking_Criteria#timing).
 
-### Multiple offsets
+### Multiple/variable BPM
 
-![](img/complex-timing.png "Example timeline of a beatmap with complex timing, \"MiddleIsland — Roze\" by Lan wings. Nearly 300 uninherited offsets describe 3 minutes of piano play.")
+![](img/complex-timing.png "Example timeline of a beatmap with complex timing, MiddleIsland - Roze mapped by Lan wings. Nearly 300 uninherited timing points (red lines) describe 3 minutes of piano and violin play.")
 
-A beatmap can also have several offsets, provided they accurately represent the underlying song.
+Some songs feature changing tempo, requiring several offsets in a beatmap. A song that has clear sections with differing BPM values is called a **multi-BPM** song, while a song with gradual tempo changes is called a **variable-BPM** song. The former type needs relatively few timing points, while the latter may require dozens or sometimes hundreds of new offsets.
 
-Most often, a song has sections with different amount of beats per minute. The change may be noticeable and expressed clearly, in which case an extra timing point is usually enough. On the other hand, gradual tempo changes require the mapper to slowly adjust the timing, adding dozens and sometimes hundreds of new offsets.
+Music that is performed without a metronome may often contain timing discrepancies, arbitrary tempo changes, and random note drifts, either due to intentional dynamic musical expression, or human error. This needs to be accounted for when timing a beatmap for such a song. Finding out timing for such songs is a tough feat — it is recommended to avoid them unless you have a lot of experience and patience.
 
-If the rhythm isn't ideal, new timing points may be added to account for discrepancies between expected and real notes. These artefacts are often caused by imprecise audio edits, or by music performed without metronome. As a result, the final composition may have arbitrary tempo changes and random note drifts. Finding out timing for such songs is a tough feat — it's better to avoid them unless you have a lot of experience.
+For single- or multi-BPM songs performed with a metronome, small timing errors (e.g. a note played a few milliseconds early or late) may be ignored if the beatmap is still playable with simple timing. Alternatively, the audio file may be edited directly with a program like [Audacity](https://www.audacityteam.org/) to quantise notes and correct timing mistakes.
 
-Lastly, a new offset is required when the time signature changes. For example, a regular rhythm may change to waltz, making the measure not 4, but 3 beats long.
+Lastly, a new offset is required for time signature changes and metronome resets. For example, a regular rhythm may change to a waltz, making the measure not 4, but 3 beats long, or a new measure may start earlier than expected, which necessitates a new timing point to reset the metronome.
 
 ## Community reception
 
-Timing is widely regarded as one of the hardest mapping skills to master, since it requires having a lot of patience and a good sense of rhythm. It is not uncommon to ask other mappers and [modders](/wiki/Modding) for help, either personally, or in public chat channels and [forums](/wiki/Community/Forum). One of the forum threads dedicated to the issue, "[Unable to find the BPM/offset of your map? Post here](https://osu.ppy.sh/community/forums/topics/13795)", contains more than 5,000 responses collected over 13 years.
+Timing is widely regarded as one of the hardest mapping skills to master, since it requires having a lot of patience and a good sense of rhythm. It is not uncommon to ask other mappers and [modders](/wiki/Modding) for help, either personally, or in public [chat](/wiki/Client/Interface/Chat_console) channels and [forums](/wiki/Community/Forum). One of the forum threads dedicated to the issue, "[Unable to find the BPM/offset of your map? Post here](https://osu.ppy.sh/community/forums/topics/13795)", contains more than 5,000 responses collected over 13 years.
 
-[The ranking criteria](/wiki/Ranking_Criteria#timing) have a section dedicated to timing, which explains the respective rules for beatmaps [going for ranked](/wiki/Beatmap_ranking_procedure).
+[The ranking criteria](/wiki/Ranking_Criteria#timing) have a section dedicated to timing, which explains the respective rules for beatmaps [going for Ranked](/wiki/Beatmap_ranking_procedure).
 
 ## See also
 
-- *[Timing Basics](https://www.youtube.com/watch?v=8nsbrOhLE9w)*, an episode of the [osu!academy](/wiki/Community/Video_series/osu!academy) YouTube series
-- *[timing](https://www.youtube.com/watch?v=xauZuMPgiQw)*, an episode of the [osu!mapping](/wiki/Community/Video_series/osu!mapping) YouTube series
+- *[osu!academy Episode 7-2 - Timing Basics](https://www.youtube.com/watch?v=8nsbrOhLE9w)*, an episode of the [osu!academy](/wiki/Community/Video_series/osu!academy) YouTube series
+- *[osu!mapping: timing](https://www.youtube.com/watch?v=xauZuMPgiQw)*, an episode of the [osu!mapping](/wiki/Community/Video_series/osu!mapping) YouTube series
