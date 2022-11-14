@@ -111,6 +111,32 @@ The Rising Global Taiko Showdown 2022 is run by various community members.
 
 ## Mappools
 
+### Round of 16
+
+**[Download the mappack here! (74 MB)](https://mega.nz/file/GAhylRzR#EP-ayMGC948ShB0hbs-NKrNXuwsYw04lzAwBsluYfNs)**
+
+- NoMod
+  1. [Endorfin. - Raindrop Caffe Latte (Lamery) \[Raindrop Oni\]](https://osu.ppy.sh/beatmapsets/1825580#taiko/3746465)
+  2. [katagiri - HIVEMIND (arcpotato) \[ATTACK\]](https://osu.ppy.sh/beatmapsets/1884991#taiko/3881080)
+  3. [The Flashbulb - Creep (Greenshell) \[komasy's Inner Oni\]](https://osu.ppy.sh/beatmapsets/966087#taiko/2100985)
+  4. [MYUKKE. - TTTTTONE (Yujki) \[TTTTTONI\]](https://osu.ppy.sh/beatmapsets/1884936#taiko/3880971)
+  5. [James Landino - Reaction feat. Slyleaf (Nwolf) \[Type gtsosuDeleht in chat\]](https://osu.ppy.sh/beatmapsets/1884937#taiko/3880972)
+- Hidden
+  1. [Masahiro "Godspeed" Aoki - Lost in the maze (eiri-) \[Oni\]](https://osu.ppy.sh/beatmapsets/1594818#taiko/3272713)
+  2. [t+pazolite - You are the Miserable (Fynbi) \[Oni\]](https://osu.ppy.sh/beatmapsets/947105#taiko/1978165)
+- HardRock
+  1. [Camellia - Heartless being (sendol) \[Oni\]](https://osu.ppy.sh/beatmapsets/1714261#taiko/3502780)
+  2. [m108 - \* Crow Solace \* (Faputa) \[\* Oni \*\]](https://osu.ppy.sh/beatmapsets/1450831#taiko/3011468)
+- DoubleTime
+  1. [Yorushika - Dakara Boku wa Ongaku o Yameta (arcpotato) \[Blue Sky, Empty Heart and Hopelessness\]](https://osu.ppy.sh/beatmapsets/1884992#taiko/3881081)
+  2. [DECO\*27 - Haruichi. feat. Hatsune Miku (mintong89) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/196049#taiko/464950)
+- FreeMod
+  1. [YUKIYANAGI & Moon Jelly - Love Overdose (supesan) \[Fallen Love\]](https://osu.ppy.sh/beatmapsets/1874928#taiko/3858349)
+  2. [t+pazolite feat. Nanahira - ONOMATO Pairing!!! (Raphalge) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1884931#taiko/3880963)
+  3. [Kurubukko - Rain (sendol) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1884745#taiko/3880585)
+- Tiebreaker
+  1. **[DJ Noriken feat. Nanahira - Sweet Wishes (Nozdormu) \[Nozdormu & Ph0eNiiXZ's Bright Future\]](https://osu.ppy.sh/beatmapsets/1884953#taiko/3880993)**
+
 ### Group Stage
 
 **[Download the mappack here! (72 MB)](https://mega.nz/file/ORYDQYSJ#aZ4Ql5BSneVlM64UxTYNh17A6RGgXeeIX6LsLmTMiLI)**
