@@ -183,6 +183,71 @@ The Rising Global Taiko Showdown 2022 is run by various community members.
 
 ## Match results
 
+### Group Stage
+
+Friday, 11 November 2022:
+
+| Group | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| B | **Indonesia A** ::{ flag=ID }:: | **5** | 0 | ::{ flag=UA }:: Ukraine | [#1](https://osu.ppy.sh/community/matches/104989398) |
+| H | **China** ::{ flag=CN }:: | **5** | 2 | ::{ flag=TW }:: Taiwan B | [#1](https://osu.ppy.sh/community/matches/104990142) |
+| G | **Colombia/Argentina** ::{ flag=CO }:: ::{ flag=AR }:: | **5** | 2 | ::{ flag=PL }:: Poland | [#1](https://osu.ppy.sh/community/matches/104997501) |
+| C | **Germany A** ::{ flag=DE }:: | **5** | 0 | ::{ flag=BE }:: Belgium | [#1](https://osu.ppy.sh/community/matches/104999647) |
+
+Saturday, 12 November 2022:
+
+| Group | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| F | **South Korea** ::{ flag=KR }:: | **5** | 3 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/105004550) |
+| E | **Canada** ::{ flag=CA }:: | **5** | 1 | ::{ flag=VN }:: Vietnam | [#1](https://osu.ppy.sh/community/matches/105007395) |
+| F | **South Korea** ::{ flag=KR }:: | **5** | 0 | ::{ flag=PH }:: Philippines | [#1](https://osu.ppy.sh/community/matches/105007086) |
+| D | **Taiwan A** ::{ flag=TW }:: | **5** | 0 | ::{ flag=RU }:: Russian Federation | [#1](https://osu.ppy.sh/community/matches/105010190) |
+| E | **Singapore** ::{ flag=SG }:: | **5** | 0 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/105010434) |
+| D | **Taiwan A** ::{ flag=TW }:: | **5** | 1 | ::{ flag=DE }:: Germany B | [#1](https://osu.ppy.sh/community/matches/105011589) |
+| C | Belgium ::{ flag=BE }:: | 4 | **5** | ::{ flag=ES }:: **Spain** | [#1](https://osu.ppy.sh/community/matches/105012549) |
+| D | **Taiwan A** ::{ flag=TW }:: | **5** | 0 | ::{ flag=PT }:: ::{ flag=BR }:: Portuguese Alliance | [#1](https://osu.ppy.sh/community/matches/105013730) |
+| F | **Philippines** ::{ flag=PH }:: | **5** | 3 | ::{ flag=CZ }:: Czech Republic | [#1](https://osu.ppy.sh/community/matches/105013651) |
+| H | **China** ::{ flag=CN }:: | **5** | 1 | ::{ flag=SE }:: Sweden | [#1](https://osu.ppy.sh/community/matches/105013758) |
+| A | **Hong Kong** ::{ flag=HK }:: | **5** | 0 | ::{ flag=TR }:: Turkey | [#1](https://osu.ppy.sh/community/matches/105014944) |
+| B | **Japan** ::{ flag=JP }:: | **5** | 0 | ::{ flag=ID }:: Indonesia B | [#1](https://osu.ppy.sh/community/matches/105014877) |
+| E | **France** ::{ flag=FR }:: | **5** | 0 | ::{ flag=VN } :: Vietnam | [#1](https://osu.ppy.sh/community/matches/105014999) |
+| A | **Rest of Europe** ::{ flag=RO }:: ::{ flag=AT }:: ::{ flag=FI }:: ::{ flag=IT }:: | **5** | 0 | ::{ flag=TR }:: Turkey | [#1](https://osu.ppy.sh/community/matches/105016332) |
+| E | **Singapore** ::{ flag=SG }:: | **5** | 2 | ::{ flag=CA }:: Canada | [#1](https://osu.ppy.sh/community/matches/105016278) |
+| H | Malaysia ::{ flag=MY }:: | 2 | **5** | ::{ flag=TW }:: **Taiwan B** | [#1](https://osu.ppy.sh/community/matches/105016304) |
+| C | **Belgium** ::{ flag=BE }:: | **5** | 3 | ::{ flag=GB }:: United Kingdom | [#1](https://osu.ppy.sh/community/matches/105017679) |
+| D | **Germany B** ::{ flag=DE }:: | **5** | 0 | ::{ flag=PT }:: ::{ flag=BR }:: Portuguese Alliance | [#1](https://osu.ppy.sh/community/matches/105017671) |
+| G | **Netherlands** ::{ flag=NL }:: | **5** | 1 | ::{ flag=PL }:: Poland | [#1](https://osu.ppy.sh/community/matches/105017902) |
+| H | Taiwan B ::{ flag=TW }:: | 4 | **5** | ::{ flag=SE }:: **Sweden** | [#1](https://osu.ppy.sh/community/matches/105018024) |
+| C | United Kingdom ::{ flag=GB }:: | 3 | **5** | ::{ flag=ES }:: **Spain** | [#1](https://osu.ppy.sh/community/matches/105020778) |
+| E | **Canada** ::{ flag=CA }:: | **5** | 2 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/105020798) |
+| A | United States B ::{ flag=US }:: | 0 | **5** | ::{ flag=RO }:: ::{ flag=AT }:: ::{ flag=FI }:: ::{ flag=IT }:: **Rest of Europe** | [#1](https://osu.ppy.sh/community/matches/105022236) |
+| G | **United States A** ::{ flag=US }:: | **5** | 1 | ::{ flag=NL }:: Netherlands | [#1](https://osu.ppy.sh/community/matches/105022287) |
+| G | **United States A** ::{ flag=US }:: | **5** | 0 | ::{ flag=PL }:: Poland | [#1](https://osu.ppy.sh/community/matches/105023793) |
+| G | **United States A** ::{ flag=US }:: | **5** | 0 | ::{ flag=CO }:: ::{ flag=AR }:: Colombia/Argentina | [#1](https://osu.ppy.sh/community/matches/105025222) |
+
+Sunday, 13 November 2022:
+
+| Group | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| A | **Hong Kong** ::{ flag=HK }:: | **5** | 1 | ::{ flag=US }:: United States B | [#1](https://osu.ppy.sh/community/matches/105033091) |
+| H | **Malaysia** ::{ flag=MY }:: | **5** | 3 | ::{ flag=SE }:: Sweden | [#1](https://osu.ppy.sh/community/matches/105034910) |
+| B | **Indonesia A** ::{ flag=ID }:: | **5** | 2 | ::{ flag=ID }:: Indonesia B | [#1](https://osu.ppy.sh/community/matches/105035623) |
+| D | **Germany B** ::{ flag=DE }:: | **5** | 2 | ::{ flag=RU }:: Russian Federation | [#1](https://osu.ppy.sh/community/matches/105036304) |
+| F | **South Korea** ::{ flag=KR }:: | **5** | 0 | ::{ flag=CZ }:: Czech Republic | [#1](https://osu.ppy.sh/community/matches/105037021) |
+| B | **Japan** ::{ flag=JP }:: | **5** | 0 | ::{ flag=UA }:: Ukraine | [#1](https://osu.ppy.sh/community/matches/105038775) |
+| C | **Germany A** ::{ flag=DE }:: | **5** | 3 | ::{ flag=ES }:: Spain | [#1](https://osu.ppy.sh/community/matches/105038936) |
+| D | Portuguese Alliance ::{ flag=RO }:: ::{ flag=AT }:: ::{ flag=FI }:: ::{ flag=IT }:: | 3 | **5** | ::{ flag=RU }:: **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/105038772) |
+| B | **Japan** ::{ flag=JP }:: | **5** | 0 | ::{ flag=ID }:: Indonesia A | [#1](https://osu.ppy.sh/community/matches/105039837) |
+| F | **Chile** ::{ flag=CL }:: | **5** | 3 | ::{ flag=PH }:: Philippines | [#1](https://osu.ppy.sh/community/matches/105040650) |
+| E | **Singapore** ::{ flag=SG }:: | **5** | 0 | ::{ flag=VN }:: Vietnam | [#1](https://osu.ppy.sh/community/matches/105041334) |
+| H | **China** ::{ flag=CN }:: | **5** | 0 | ::{ flag=MY }:: Malaysia | [#1](https://osu.ppy.sh/community/matches/105041163) |
+| A | **Hong Kong** ::{ flag=HK }:: | **5** | 0 | ::{ flag=RO }:: ::{ flag=AT }:: ::{ flag=FI }:: ::{ flag=IT }:: Rest of Europe | [#1](https://osu.ppy.sh/community/matches/105042360) |
+| B | **Indonesia B** ::{ flag=ID }:: | **0** | -1 | ::{ flag=UA }:: Ukraine | *win by default* |
+| A | United States B ::{ flag=US }:: | -1 | **0** | ::{ flag=TR }:: **Turkey** | *win by default* |
+| C | **Germany A** ::{ flag=DE }:: | **5** | 0 | ::{ flag=GB }:: | [#1](https://osu.ppy.sh/community/matches/105047521) |
+| F | **Chile** ::{ flag=CL }:: | **5** | 0 | ::{ flag=CZ }:: Czech Republic | [#1](https://osu.ppy.sh/community/matches/105047538) |
+| G | **Colombia/Argentina** ::{ flag=CO }:: ::{ flag=AR }:: | **5** | 1 | ::{ flag=NL }:: Netherlands | [#1](https://osu.ppy.sh/community/matches/105047541) |
+
 ### Qualifiers
 
 Detailed statistics for this round can be found in [this spreadsheet](https://gtsosu.com/rgts/stats#0) alongside the final standings on which players made it through to the next stage.
