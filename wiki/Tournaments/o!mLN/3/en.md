@@ -31,11 +31,11 @@ The **osu!mania LN Tournament 3** (***o!mLN 3***) is a worldwide double-eliminat
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge (TBC), 50% of final prize pool |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of final prize pool |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of final prize pool |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge (TBC), US$60 |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | US$36 |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | US$24 |
 
-*Note: The prize pool has yet to be finalised. If any player/spectator of the tournament is interested in donating to the prize pool, please contact any of the organisers for more information.*
+Generous donations from ::{ flag=TH }:: [HowToPlayLN](https://osu.ppy.sh/users/10879600), ::{ flag=VN }:: [MashedPotato](https://osu.ppy.sh/users/10494860), and ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061) helped fund some of the prizes.
 
 ## Organisation
 
