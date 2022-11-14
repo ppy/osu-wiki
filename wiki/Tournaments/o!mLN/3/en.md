@@ -320,6 +320,34 @@ The osu!mania LN Tournament 3 is run by various community members.
 
 ## Match results
 
+### Quarterfinals
+
+Saturday, 12 November 2022:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| SunApple ::{ flag=US }:: | 0 | **6** | ::{ flag=ID }:: **Onta\_Bekasi** | [#1](https://osu.ppy.sh/community/matches/105007024) |
+| **Flying Samira** ::{ flag=KR }:: | **6** | 0 | ::{ flag=TH }:: Achino | [#1](https://osu.ppy.sh/community/matches/105011559) |
+| -Aishiteru- ::{ flag=SG }:: | -1 | **0** | ::{ flag=MY }:: **xxxxxx2800** | *win by default* |
+| **Lami-** ::{ flag=KR }:: | **6** | 4 | ::{ flag=ES }:: ShiroPeDeFresa | [#1](https://osu.ppy.sh/community/matches/105013657) |
+| **MIkuaimbot** ::{ flag=TH }:: | **6** | 3 | ::{ flag=TH }:: --Pavin-- | [#1](https://osu.ppy.sh/community/matches/105015030) |
+| **gaesol** ::{ flag=KR }:: | **6** | 1 | ::{ flag=US }:: DarkMew2 | [#1](https://osu.ppy.sh/community/matches/105016227) |
+| **grillroasted** ::{ flag=CZ }:: | **6** | 3 | ::{ flag=AU }:: ruka | [#1](https://osu.ppy.sh/community/matches/105016126) |
+| **Auraah** ::{ flag=FR }:: | **6** | 1 | ::{ flag=HK }:: zero2snow | [#1](https://osu.ppy.sh/community/matches/105021741) |
+| Shoira ::{ flag=NL }:: | 0 | **6** | ::{ flag=US }:: **ASharpp** | [#1](https://osu.ppy.sh/community/matches/105028048) |
+
+Sunday, 13 November 2022:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **grillroasted** ::{ flag=CZ }:: | **6** | 1 | ::{ flag=KR }:: Flying Samira | [#1](https://osu.ppy.sh/community/matches/105036295) |
+| Lami- ::{ flag=KR }:: | 3 | **6** | ::{ flag=ID }:: **Onta\_Bekasi** | [#1](https://osu.ppy.sh/community/matches/105038661) |
+| ASharpp ::{ flag=US }:: | 1 | **6** | ::{ flag=KR }:: **gaesol** | [#1](https://osu.ppy.sh/community/matches/105042431) |
+| **DemiFiendSMT** ::{ flag=BR }:: | **6** | 0 | ::{ flag=JP }:: jhleetgirl | [#1](https://osu.ppy.sh/community/matches/105042344) |
+| Auraah ::{ flag=FR }:: | 2 | **6** | ::{ flag=MY }:: **xxxxxx2800** | [#1](https://osu.ppy.sh/community/matches/105042287) |
+| **Silhoueska Elze** ::{ flag=PH }:: | **6** | 0 | ::{ flag=CA }:: UmmmMrMoo | [#1](https://osu.ppy.sh/community/matches/105043667) |
+| TingMomentum ::{ flag=GB }:: | 1 | **6** | ::{ flag=US }:: **GripWarrior** | [#1](https://osu.ppy.sh/community/matches/105050151) |
+
 ### Round of 16
 
 Saturday, 5 November 2022:
