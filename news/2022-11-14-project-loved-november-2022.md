@@ -31,7 +31,7 @@ And for osu!mania:
 - [Mipha-](https://osu.ppy.sh/users/5767941)
 - [Remuring](https://osu.ppy.sh/users/6522146)
 
-They'll start picking maps to put up for voting in the coming months. Hopefully you'll enjoy what they bring to the table! Give them a warm welcome :)
+They'll start picking maps to put up for voting in the coming months. Hopefully you'll enjoy what they bring to the table! Give them a warm welcome. :)
 
 That's all for updates this month! Don't forget that we've got Discord servers for each mode where you can discuss, give feedback, or ask questions about all things Loved:
 
