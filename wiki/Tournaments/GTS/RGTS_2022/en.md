@@ -111,6 +111,32 @@ The Rising Global Taiko Showdown 2022 is run by various community members.
 
 ## Mappools
 
+### Round of 16
+
+**[Download the mappack here! (74 MB)](https://mega.nz/file/GAhylRzR#EP-ayMGC948ShB0hbs-NKrNXuwsYw04lzAwBsluYfNs)**
+
+- NoMod
+  1. [Endorfin. - Raindrop Caffe Latte (Lamery) \[Raindrop Oni\]](https://osu.ppy.sh/beatmapsets/1825580#taiko/3746465)
+  2. [katagiri - HIVEMIND (arcpotato) \[ATTACK\]](https://osu.ppy.sh/beatmapsets/1884991#taiko/3881080)
+  3. [The Flashbulb - Creep (Greenshell) \[komasy's Inner Oni\]](https://osu.ppy.sh/beatmapsets/966087#taiko/2100985)
+  4. [MYUKKE. - TTTTTONE (Yujki) \[TTTTTONI\]](https://osu.ppy.sh/beatmapsets/1884936#taiko/3880971)
+  5. [James Landino - Reaction feat. Slyleaf (Nwolf) \[Type gtsosuDeleht in chat\]](https://osu.ppy.sh/beatmapsets/1884937#taiko/3880972)
+- Hidden
+  1. [Masahiro "Godspeed" Aoki - Lost in the maze (eiri-) \[Oni\]](https://osu.ppy.sh/beatmapsets/1594818#taiko/3272713)
+  2. [t+pazolite - You are the Miserable (Fynbi) \[Oni\]](https://osu.ppy.sh/beatmapsets/947105#taiko/1978165)
+- HardRock
+  1. [Camellia - Heartless being (sendol) \[Oni\]](https://osu.ppy.sh/beatmapsets/1714261#taiko/3502780)
+  2. [m108 - \* Crow Solace \* (Faputa) \[\* Oni \*\]](https://osu.ppy.sh/beatmapsets/1450831#taiko/3011468)
+- DoubleTime
+  1. [Yorushika - Dakara Boku wa Ongaku o Yameta (arcpotato) \[Blue Sky, Empty Heart and Hopelessness\]](https://osu.ppy.sh/beatmapsets/1884992#taiko/3881081)
+  2. [DECO\*27 - Haruichi. feat. Hatsune Miku (mintong89) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/196049#taiko/464950)
+- FreeMod
+  1. [YUKIYANAGI & Moon Jelly - Love Overdose (supesan) \[Fallen Love\]](https://osu.ppy.sh/beatmapsets/1874928#taiko/3858349)
+  2. [t+pazolite feat. Nanahira - ONOMATO Pairing!!! (Raphalge) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1884931#taiko/3880963)
+  3. [Kurubukko - Rain (sendol) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1884745#taiko/3880585)
+- Tiebreaker
+  1. **[DJ Noriken feat. Nanahira - Sweet Wishes (Nozdormu) \[Nozdormu & Ph0eNiiXZ's Bright Future\]](https://osu.ppy.sh/beatmapsets/1884953#taiko/3880993)**
+
 ### Group Stage
 
 **[Download the mappack here! (72 MB)](https://mega.nz/file/ORYDQYSJ#aZ4Ql5BSneVlM64UxTYNh17A6RGgXeeIX6LsLmTMiLI)**
@@ -156,6 +182,71 @@ The Rising Global Taiko Showdown 2022 is run by various community members.
   1. [HyuN - Fuyu no Hime (Charlotte) \[komasy's Oni\]](https://osu.ppy.sh/beatmapsets/1202956#taiko/2523647)
 
 ## Match results
+
+### Group Stage
+
+Friday, 11 November 2022:
+
+| Group | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| B | **Indonesia A** ::{ flag=ID }:: | **5** | 0 | ::{ flag=UA }:: Ukraine | [#1](https://osu.ppy.sh/community/matches/104989398) |
+| H | **China** ::{ flag=CN }:: | **5** | 2 | ::{ flag=TW }:: Taiwan B | [#1](https://osu.ppy.sh/community/matches/104990142) |
+| G | **Colombia/Argentina** ::{ flag=CO }:: ::{ flag=AR }:: | **5** | 2 | ::{ flag=PL }:: Poland | [#1](https://osu.ppy.sh/community/matches/104997501) |
+| C | **Germany A** ::{ flag=DE }:: | **5** | 0 | ::{ flag=BE }:: Belgium | [#1](https://osu.ppy.sh/community/matches/104999647) |
+
+Saturday, 12 November 2022:
+
+| Group | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| F | **South Korea** ::{ flag=KR }:: | **5** | 3 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/105004550) |
+| E | **Canada** ::{ flag=CA }:: | **5** | 1 | ::{ flag=VN }:: Vietnam | [#1](https://osu.ppy.sh/community/matches/105007395) |
+| F | **South Korea** ::{ flag=KR }:: | **5** | 0 | ::{ flag=PH }:: Philippines | [#1](https://osu.ppy.sh/community/matches/105007086) |
+| D | **Taiwan A** ::{ flag=TW }:: | **5** | 0 | ::{ flag=RU }:: Russian Federation | [#1](https://osu.ppy.sh/community/matches/105010190) |
+| E | **Singapore** ::{ flag=SG }:: | **5** | 0 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/105010434) |
+| D | **Taiwan A** ::{ flag=TW }:: | **5** | 1 | ::{ flag=DE }:: Germany B | [#1](https://osu.ppy.sh/community/matches/105011589) |
+| C | Belgium ::{ flag=BE }:: | 4 | **5** | ::{ flag=ES }:: **Spain** | [#1](https://osu.ppy.sh/community/matches/105012549) |
+| D | **Taiwan A** ::{ flag=TW }:: | **5** | 0 | ::{ flag=PT }:: ::{ flag=BR }:: Portuguese Alliance | [#1](https://osu.ppy.sh/community/matches/105013730) |
+| F | **Philippines** ::{ flag=PH }:: | **5** | 3 | ::{ flag=CZ }:: Czech Republic | [#1](https://osu.ppy.sh/community/matches/105013651) |
+| H | **China** ::{ flag=CN }:: | **5** | 1 | ::{ flag=SE }:: Sweden | [#1](https://osu.ppy.sh/community/matches/105013758) |
+| A | **Hong Kong** ::{ flag=HK }:: | **5** | 0 | ::{ flag=TR }:: Turkey | [#1](https://osu.ppy.sh/community/matches/105014944) |
+| B | **Japan** ::{ flag=JP }:: | **5** | 0 | ::{ flag=ID }:: Indonesia B | [#1](https://osu.ppy.sh/community/matches/105014877) |
+| E | **France** ::{ flag=FR }:: | **5** | 0 | ::{ flag=VN } :: Vietnam | [#1](https://osu.ppy.sh/community/matches/105014999) |
+| A | **Rest of Europe** ::{ flag=RO }:: ::{ flag=AT }:: ::{ flag=FI }:: ::{ flag=IT }:: | **5** | 0 | ::{ flag=TR }:: Turkey | [#1](https://osu.ppy.sh/community/matches/105016332) |
+| E | **Singapore** ::{ flag=SG }:: | **5** | 2 | ::{ flag=CA }:: Canada | [#1](https://osu.ppy.sh/community/matches/105016278) |
+| H | Malaysia ::{ flag=MY }:: | 2 | **5** | ::{ flag=TW }:: **Taiwan B** | [#1](https://osu.ppy.sh/community/matches/105016304) |
+| C | **Belgium** ::{ flag=BE }:: | **5** | 3 | ::{ flag=GB }:: United Kingdom | [#1](https://osu.ppy.sh/community/matches/105017679) |
+| D | **Germany B** ::{ flag=DE }:: | **5** | 0 | ::{ flag=PT }:: ::{ flag=BR }:: Portuguese Alliance | [#1](https://osu.ppy.sh/community/matches/105017671) |
+| G | **Netherlands** ::{ flag=NL }:: | **5** | 1 | ::{ flag=PL }:: Poland | [#1](https://osu.ppy.sh/community/matches/105017902) |
+| H | Taiwan B ::{ flag=TW }:: | 4 | **5** | ::{ flag=SE }:: **Sweden** | [#1](https://osu.ppy.sh/community/matches/105018024) |
+| C | United Kingdom ::{ flag=GB }:: | 3 | **5** | ::{ flag=ES }:: **Spain** | [#1](https://osu.ppy.sh/community/matches/105020778) |
+| E | **Canada** ::{ flag=CA }:: | **5** | 2 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/105020798) |
+| A | United States B ::{ flag=US }:: | 0 | **5** | ::{ flag=RO }:: ::{ flag=AT }:: ::{ flag=FI }:: ::{ flag=IT }:: **Rest of Europe** | [#1](https://osu.ppy.sh/community/matches/105022236) |
+| G | **United States A** ::{ flag=US }:: | **5** | 1 | ::{ flag=NL }:: Netherlands | [#1](https://osu.ppy.sh/community/matches/105022287) |
+| G | **United States A** ::{ flag=US }:: | **5** | 0 | ::{ flag=PL }:: Poland | [#1](https://osu.ppy.sh/community/matches/105023793) |
+| G | **United States A** ::{ flag=US }:: | **5** | 0 | ::{ flag=CO }:: ::{ flag=AR }:: Colombia/Argentina | [#1](https://osu.ppy.sh/community/matches/105025222) |
+
+Sunday, 13 November 2022:
+
+| Group | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| A | **Hong Kong** ::{ flag=HK }:: | **5** | 1 | ::{ flag=US }:: United States B | [#1](https://osu.ppy.sh/community/matches/105033091) |
+| H | **Malaysia** ::{ flag=MY }:: | **5** | 3 | ::{ flag=SE }:: Sweden | [#1](https://osu.ppy.sh/community/matches/105034910) |
+| B | **Indonesia A** ::{ flag=ID }:: | **5** | 2 | ::{ flag=ID }:: Indonesia B | [#1](https://osu.ppy.sh/community/matches/105035623) |
+| D | **Germany B** ::{ flag=DE }:: | **5** | 2 | ::{ flag=RU }:: Russian Federation | [#1](https://osu.ppy.sh/community/matches/105036304) |
+| F | **South Korea** ::{ flag=KR }:: | **5** | 0 | ::{ flag=CZ }:: Czech Republic | [#1](https://osu.ppy.sh/community/matches/105037021) |
+| B | **Japan** ::{ flag=JP }:: | **5** | 0 | ::{ flag=UA }:: Ukraine | [#1](https://osu.ppy.sh/community/matches/105038775) |
+| C | **Germany A** ::{ flag=DE }:: | **5** | 3 | ::{ flag=ES }:: Spain | [#1](https://osu.ppy.sh/community/matches/105038936) |
+| D | Portuguese Alliance ::{ flag=RO }:: ::{ flag=AT }:: ::{ flag=FI }:: ::{ flag=IT }:: | 3 | **5** | ::{ flag=RU }:: **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/105038772) |
+| B | **Japan** ::{ flag=JP }:: | **5** | 0 | ::{ flag=ID }:: Indonesia A | [#1](https://osu.ppy.sh/community/matches/105039837) |
+| F | **Chile** ::{ flag=CL }:: | **5** | 3 | ::{ flag=PH }:: Philippines | [#1](https://osu.ppy.sh/community/matches/105040650) |
+| E | **Singapore** ::{ flag=SG }:: | **5** | 0 | ::{ flag=VN }:: Vietnam | [#1](https://osu.ppy.sh/community/matches/105041334) |
+| H | **China** ::{ flag=CN }:: | **5** | 0 | ::{ flag=MY }:: Malaysia | [#1](https://osu.ppy.sh/community/matches/105041163) |
+| A | **Hong Kong** ::{ flag=HK }:: | **5** | 0 | ::{ flag=RO }:: ::{ flag=AT }:: ::{ flag=FI }:: ::{ flag=IT }:: Rest of Europe | [#1](https://osu.ppy.sh/community/matches/105042360) |
+| B | **Indonesia B** ::{ flag=ID }:: | **0** | -1 | ::{ flag=UA }:: Ukraine | *win by default* |
+| A | United States B ::{ flag=US }:: | -1 | **0** | ::{ flag=TR }:: **Turkey** | *win by default* |
+| C | **Germany A** ::{ flag=DE }:: | **5** | 0 | ::{ flag=GB }:: | [#1](https://osu.ppy.sh/community/matches/105047521) |
+| F | **Chile** ::{ flag=CL }:: | **5** | 0 | ::{ flag=CZ }:: Czech Republic | [#1](https://osu.ppy.sh/community/matches/105047538) |
+| G | **Colombia/Argentina** ::{ flag=CO }:: ::{ flag=AR }:: | **5** | 1 | ::{ flag=NL }:: Netherlands | [#1](https://osu.ppy.sh/community/matches/105047541) |
 
 ### Qualifiers
 
