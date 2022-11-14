@@ -96,16 +96,6 @@ This map of The Akeboshi Rockets' *HIGHSCHOOL OF THE DEAD (Speed Up Ver.)* is a 
 
 Give your honest vote for this map and help my cause to push more mechanics maps for Project Loved!
 
-[![](/wiki/shared/news/2022-11-14-project-loved-november-2022/485248.jpg)](https://osu.ppy.sh/community/forums/topics/1675554)
-
-[Renard - Gabberse Town](https://osu.ppy.sh/beatmapsets/485248#osu) by [Silverboxer](https://osu.ppy.sh/users/2166762), [semaphore](https://osu.ppy.sh/users/6313643), [Victoire](https://osu.ppy.sh/users/1605867) and [VINXIS](https://osu.ppy.sh/users/4323406)\
-175 BPM, 1:28 | 1.53★ – 6.98★\
-*description written by [Mismagius](https://osu.ppy.sh/users/19048)*
-
-Anyone who's been in the community for a while has played a map with a song made by Renard, whether you know it or not. In the past years we haven't had much love for this artist in the Ranked section, so why not in the Loved section?
-
-*Gabberse Town*, mapped by [Silverboxer](https://osu.ppy.sh/users/2166762), is a gabber-style remix of the Traverse Town theme from the Kingdom Hearts series. Like any gabber track, it features hard-hitting 1/3 beats, which as you all may know by now, is the perfect recipe for fun-to-play jumps, and Silverboxer achieves it perfectly in this map. The map also contains difficulties from all ranges of skill, so no excuses to not try out this one! It's up to you to decide whether this will be Loved, so make it count!
-
 [![](/wiki/shared/news/2022-11-14-project-loved-november-2022/1670363.jpg)](https://osu.ppy.sh/community/forums/topics/1675553)
 
 [Hakushi Hasegawa - Doku](https://osu.ppy.sh/beatmapsets/1670363#osu) by [Halgoh](https://osu.ppy.sh/users/4109923) and [Sharu](https://osu.ppy.sh/users/5597639)\
