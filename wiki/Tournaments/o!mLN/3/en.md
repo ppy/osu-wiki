@@ -190,6 +190,29 @@ The osu!mania LN Tournament 3 is run by various community members.
 
 ## Mappools
 
+### Semifinals
+
+- Coordination
+  1. [Feryquitous - Vend (galtonist) \[The girl who got expelled from her planet (Short ver.)\]](https://osu.ppy.sh/beatmapsets/1201343#mania/2581084)
+  2. [UNISON SQUARE GARDEN - Sugar Song to Bitter Step (Hylotl) \[LN\]](https://osu.ppy.sh/beatmapsets/1785404#mania/3656916)
+  3. [Virtual Riot - Bossfight Afterparty (Paturages) \[Raid Shadow Legends\]](https://osu.ppy.sh/beatmapsets/1884860#mania/3880809)
+- Technical
+  1. [nitro - qualia -ideaesthesia- (doctormango) \[interperception\]](https://osu.ppy.sh/beatmapsets/1867902#mania/3842429)
+  2. [Crayvxn - Crank It (TheFunk) \[Crankin (Edit)\]](https://osu.ppy.sh/beatmapsets/1849899#mania/3878417)
+  3. [Feryquitous - Dille (\[Crz\]Crysarlene) \[(edit) => { return edit }\]](https://osu.ppy.sh/beatmapsets/1270439#mania/3881139)
+- Wildcard
+  1. [xi - Inixia (FelixSpade) \[LN Prodigy\]](https://osu.ppy.sh/beatmapsets/1852937#mania/3807300)
+  2. [LeaF - Heavensdoor (Penguinosity) \[Disruption\]](https://osu.ppy.sh/beatmapsets/1474778#mania/3026551)
+  3. [Kobaryo - SUPER EMULATOR \[feat. HiTNEX-X\] (HowToPlayLN) \[ENGINE DESTRUCTION \[1.05x Rate\]\]](https://osu.ppy.sh/beatmapsets/1884776#mania/3880637)
+  4. [Feryquitous/xi - Orca (gzdongsheng) \[Broken\]](https://osu.ppy.sh/beatmapsets/1591869#mania/3251235)
+- Density
+  1. [polysha - All we need is HAPPY (WORLD'S) END. (DannyPX) \[Sekaowa\]](https://osu.ppy.sh/beatmapsets/1885008#mania/3881124)
+  2. [Persian Groovies - Phoenix \[feat. Kobaryo\] (-MysticEyes) \[ResurrectioLN 1.1x\]](https://osu.ppy.sh/beatmapsets/816319#mania/3021012)
+  3. [BlackY - LAMIA (MyZterioN-) \[Nirvard (edit)\]](https://osu.ppy.sh/beatmapsets/1693630#mania/3880733)
+  4. [MAX MAXIMIZER - Tortura (\[Crz\]Crysarlene) \[Distress\]](https://osu.ppy.sh/beatmapsets/1065944#mania/2232022)
+- Tiebreaker
+  1. **[Imperial Circus Dead Decadence - Jashin no Konrei, Giha Ai to Shiru (juankristal) \[juanderjoy's Sakuya \[Nerf Ver\]\]](https://osu.ppy.sh/beatmapsets/1884424#mania/3879904)**
+
 ### Quarterfinals
 
 **[Download the mappack here! (127 MB)](https://drive.google.com/drive/folders/1tIa27MmLxpD-Ko9B0FQmJKwukWgHP-Nz?usp=sharing)**
