@@ -2,6 +2,7 @@
 tags:
   - forums
   - subforum
+  - sub-forum
 ---
 
 # Forum
@@ -14,7 +15,7 @@ Die osu!-Foren stellen Features zur Verfügung, die ähnlich zu den meisten Inte
 
 ## Aufbau
 
-Jedes osu!-Forum enthält verschiedene **Themen**, manchmal auch Threads genannt, sowie kleinere Kategorien, sogenannte **Unterforen**. Die meisten der Foren sind in Englisch, jedoch existieren eine Reihe von [sprachspezifischen](https://osu.ppy.sh/community/forums#forum-23) Foren für lokale Communities, die groß genug sind.
+Jedes osu!-Forum enthält verschiedene **Themen**, manchmal auch Threads genannt, sowie kleinere Kategorien, sogenannte **Unterforen**. Die meisten der Foren sind in Englisch, jedoch existieren eine Reihe von [sprachspezifischen](https://osu.ppy.sh/community/forums/23) Foren für lokale Communities, die groß genug sind.
 
 Zwar haben einige Foren wie beispielsweise [Mapping Discussion](https://osu.ppy.sh/community/forums/56) spezifische Anforderungen oder Richtlinien, aber alle folgen [den Community-Regeln](/wiki/Rules).
 
@@ -44,7 +45,7 @@ Darüber hinaus gibt es andere Foren, die ähnlich zu Abandoned Wasteland sind u
 
 ## Geschichte
 
-[Der erste öffentliche Forenbeitrag](https://osu.ppy.sh/community/forums/topics/2) wird auf den 28. August 2007 datiert und ist von [peppy](/wiki/People/peppy). Während dieser Zeit hat die osu!-Webseite [phpBB](https://de.wikipedia.org/wiki/PhpBB) als Foren-Engine genutzt, die über die Jahre erheblich erweitert wurde, um den Bedürfnissen des Spiels und der Community gerecht zu werden. Einige dieser Anpassungen enthalten:
+[Der erste öffentliche Forenbeitrag](https://osu.ppy.sh/community/forums/topics/2) wird auf den 28. August 2007 datiert und ist von ::{ flag=AU }:: [peppy](/wiki/People/peppy). Während dieser Zeit hat die osu!-Webseite [phpBB](https://de.wikipedia.org/wiki/PhpBB) als Foren-Engine genutzt, die über die Jahre erheblich erweitert wurde, um den Bedürfnissen des Spiels und der Community gerecht zu werden. Einige dieser Anpassungen enthalten:
 
 - Einbindung des [Beatmap-Einreichungssystems](/wiki/Submission)
 - die [Kudosu](/wiki/Modding/Kudosu)- und [Beatmap-Ranking](/wiki/Beatmap_ranking_procedure)-Systeme
