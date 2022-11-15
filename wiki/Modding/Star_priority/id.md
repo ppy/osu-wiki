@@ -2,7 +2,7 @@
 stub: true
 ---
 
-### Star priority
+# Star priority
 
 Star priority mempunyai dua arti:
 
