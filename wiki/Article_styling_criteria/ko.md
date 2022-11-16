@@ -20,5 +20,5 @@ tags:
 
 문서 스타일링 기준은 두 개의 문서로 나누어져 있습니다:
 
-- [형식](Formatting): Markdown 및 기타 형식 규칙을 포함합니다
+- [서식](Formatting): Markdown 및 기타 서식 규칙을 포함합니다
 - [작성](Writing): 작성 방법 및 기타 문법 규칙을 포함합니다
