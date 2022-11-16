@@ -1,6 +1,6 @@
-```
+---
 no_native_review: true
-```
+---
 
 # 동음이의어
 
