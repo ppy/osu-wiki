@@ -1,4 +1,4 @@
-```yaml
+```
 no_native_review: true
 ```
 
