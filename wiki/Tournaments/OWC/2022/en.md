@@ -116,7 +116,7 @@ The osu! World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) and var
 
 ## Match schedule: Finals
 
-### Friday, 18 November 2022
+### Thursday, 17 November 2022
 
 | Team A | Team B | Match time |  |
 | --: | :-- | :-- | :-: |
