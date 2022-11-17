@@ -120,7 +120,7 @@ The osu! World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) and var
 
 | Team A | Team B | Match time |  |
 | --: | :-- | :-- | :-: |
-| Romania ::{ flag=RO }:: | ::{ flag=RU }:: Russian Federation | [Nov 18 (Fri) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221118T180000&p1=1440&p2=49&p3=166) | [^losers-bracket] |
+| Romania ::{ flag=RO }:: | ::{ flag=RU }:: Russian Federation | [Nov 17 (Thu) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221117T180000&p1=1440&p2=49&p3=166) | [^losers-bracket] |
 
 ### Saturday, 19 November 2022
 
