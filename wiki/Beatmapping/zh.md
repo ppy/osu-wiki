@@ -21,7 +21,7 @@
 
 ### 歌曲设置 (Song Setup)
 
-*主文章：[歌曲设置 (Song Setup)](/wiki/Client/Beatmap_editor/Song_Setup)*
+*主页面：[歌曲设置 (Song Setup)](/wiki/Client/Beatmap_editor/Song_Setup)*
 
 当制作一张新[谱面](/wiki/Beatmap)时，你最先看到的就是这个对话框。
 
@@ -34,7 +34,7 @@
 
 ### 测定歌曲时间轴 (Timing)
 
-*主文章：[测定歌曲时间轴 (Timing)](/wiki/Client/Beatmap_editor/Timing)*
+*主页面：[测定歌曲时间轴 (Timing)](/wiki/Client/Beatmap_editor/Timing)*
 
 **测定歌曲时间轴 (Timing) 很重要！**
 时间轴不精确的谱面将不会纳入已上架 (Ranked) 状态。
@@ -45,14 +45,14 @@
 
 ### 编排 (Compose)
 
-*主文章：[编排 (Compose)](/wiki/Client/Beatmap_editor/Compose)*
+*主页面：[编排 (Compose)](/wiki/Client/Beatmap_editor/Compose)*
 
 一般来说，你应该会在谱面编辑器中的编排 (Compose) 界面里花费最多的时间。
 在这个界面中，你可以放置物件，并调整它们的[打击音效](/wiki//Beatmapping/Hitsound)。
 
 ### 设计 (Design)
 
-*主文章：[设计 (Design)](/wiki/Client/Beatmap_editor/Design) 和[制作故事板](/wiki/Storyboard#制作故事板)*
+*主页面：[设计 (Design)](/wiki/Client/Beatmap_editor/Design) 和[制作故事板](/wiki/Storyboard#制作故事板)*
 
 你可以在谱面的设计 (Design) 界面中设置背景图片，添加背景视频，或者创作一个基础的故事板。
 如果你会[利用脚本编写故事板 (SBS)](/wiki/Storyboard/Scripting) 的话，这个界面可能几乎用不到。
