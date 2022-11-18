@@ -1,7 +1,5 @@
 ---
 layout: main_page
-outdated_since: e5c6703afd341354b50be467f885400c871cd0de
-outdated_translation: true
 ---
 
 <!-- Do not add any empty lines inside this div. -->
@@ -99,10 +97,12 @@ osu!のビートマップはすべて、ユーザーの手によって作られ�
 # コミュニティとプロジェクト
 
 イベントは、世界中のosu!プレイヤーを熱狂させる主なものの1つです。トーナメントやコンテストに参加したり、次のイベントの企画を手伝ってください。
+  
+会話: [フォーラム](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_Chat)
 
 [トーナメント](/wiki/Tournaments) • [ビートマップスポットライト](/wiki/Beatmap_Spotlights) • [コンテスト](/wiki/Contests) • [コミュニティ メンターシップ プログラム](/wiki/Community/Community_Mentorship_Program)
 
-[プロジェクト](/wiki/Community/Projects): [注目のアーティスト](/wiki/Featured_Artists) • [osu!コミュニティミーティング](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk)
+[プロジェクト](/wiki/Community/Projects) • [注目のアーティスト](/wiki/Featured_Artists) • [Project Loved](/wiki/Community/Project_Loved) • [osu!コミュニティミーティング](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk)
 
 組織: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
@@ -124,7 +124,7 @@ osu!は、開発、メンテナンス、コミュニティ管理に協力する�
 
 他のアプリケーションやサイトを通してosu!と交流しましょう。
 
-[API](/wiki/osu!api) • [Bot account](/wiki/Bot_account) • [ブランド アイデンティティ ガイドライン](/wiki/Brand_identity_guidelines) • [osu!devディスコードサーバー](/wiki/Community/osu!dev_Discord_server)
+[API](/wiki/osu!api) • [ボットアカウント](/wiki/Bot_account) • [ブランド アイデンティティ ガイドライン](/wiki/Brand_identity_guidelines) • [osu!の開発者向けディスコードサーバー](/wiki/Community/osu!dev_Discord_server)
 
 </div>
 <div class="wiki-main-page-panel">
