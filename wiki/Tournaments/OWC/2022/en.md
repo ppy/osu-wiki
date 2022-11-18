@@ -318,7 +318,7 @@ Saturday, 12 November 2022:
 | Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Hong Kong** ::{ flag=HK }:: | **6** | 1 | ::{ flag=ID }:: Indonesia | [#1](https://osu.ppy.sh/community/matches/105012634) |
-| **Romania** ::{ flag=RO }:: | **6** | FF | ::{ flag=CN }:: China | [1# \(WBD\)](https://osu.ppy.sh/community/matches/105014920) |
+| **Romania** ::{ flag=RO }:: | **0** | -1 | ::{ flag=CN }:: China | [*win by default*](https://osu.ppy.sh/community/matches/105014920) |
 | **Russian Federation** ::{ flag=RU }:: | **6** | 4 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/105019274) |
 
 Sunday, 13 November 2022:
@@ -635,5 +635,5 @@ The final standings for the Qualifier stage can be found at the following [sprea
 
 [^winners-bracket]: Winners bracket match
 [^losers-bracket]: Losers bracket match
-[^potential-match]: Potential match - final matchup depends on the results of the preceding Losers Bracket matches
-[^showmatch]: Finals Showmatch - OWC playtesters compete against each other
+[^potential-match]: Potential match — final matchup depends on the results of the preceding Losers Bracket matches
+[^showmatch]: Finals showmatch — OWC playtesters compete against each other
