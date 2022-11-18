@@ -40,8 +40,8 @@ Como las medallas Hush-Hush están destinadas a ser logros secretos de algún ti
 
 Las medallas de **beatmaps destacados** son medallas otorgadas al completar ciertos paquetes de beatmaps lanzados como parte de los [beatmaps destacados mensuales](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights). Para desbloquear las medallas en esta categoría, un jugador debe jugar en todos los mapas *en cualquiera de los cuatro paquetes de modo de juego* que se disputan en la tabla de clasificación de beatmaps destacados correspondiente. Los siguientes mods están permitidos para su uso:
 
-- [Mods de reducción de dificultad](/wiki/Game_modifier#difficulty-reduction)
-- [Mods de aumento de dificultad](/wiki/Game_modifier#difficulty-increase)
+- [Mods de reducción de dificultad](/wiki/Game_modifier#reducción-de-dificultad)
+- [Mods de aumento de dificultad](/wiki/Game_modifier#aumento-de-dificultad)
 - [xK](/wiki/Game_modifier/xK), [Mirror](/wiki/Game_modifier/Mirror), y [Spun Out](/wiki/Game_modifier/Spun_Out)
 
 Aunque los beatmaps destacados mensuales se suspendieron a partir de abril de 2018 a favor de los [destacados de temporada](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018), todas las medallas pertinentes aún se pueden obtener hasta el día de hoy.
@@ -50,15 +50,15 @@ Aunque los beatmaps destacados mensuales se suspendieron a partir de abril de 20
 
 Las **medallas de destacados de temporada** son medallas que se otorgan al completar ciertos paquetes de beatmaps lanzados como parte de [destacados de temporada](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018). Para desbloquear las medallas en esta categoría, un jugador debe jugar en todos los mapas *en cualquiera de los cuatro paquetes de modo de juego* que se disputan en la tabla de clasificación de destacados de temporada correspondiente. Los siguientes mods están permitidos para su uso:
 
-- [Mods de reducción de dificultad](/wiki/Game_modifier#difficulty-reduction)
-- [Mods de aumento de dificultad](/wiki/Game_modifier#difficulty-increase)
+- [Mods de reducción de dificultad](/wiki/Game_modifier#reducción-de-dificultad)
+- [Mods de aumento de dificultad](/wiki/Game_modifier#aumento-de-dificultad)
 - [xK](/wiki/Game_modifier/xK), [Mirror](/wiki/Game_modifier/Mirror), y [Spun Out](/wiki/Game_modifier/Spun_Out)
 
 Aunque Destacados de temporada se suspendió a principios de 2020 a favor del [actual sistema de beatmaps destacados](/wiki/Beatmap_Spotlights), todas las medallas pertinentes aún se pueden obtener hasta el día de hoy.
 
 ## Paquetes de desafíos de beatmaps
 
-Las **medallas de paquetes de desafíos de beatmaps**, o también conocidas como [*medallas de paquetes de habilidad*](https://osu.ppy.sh/home/news/2020-11-20-featured-artist-beatmap-updates-from-the-mappers-guild#skill-packs), son medallas que se otorgan al superar la dificultad más difícil presente en todos los beatmaps que aparecen en ciertos [paquetes de beatmaps temáticos](https://osu.ppy.sh/beatmaps/packs?type=theme) o [paquetes de beatmaps de artistas/álbumes](https://osu.ppy.sh/beatmaps/packs?type=artist) *sin ninguna [reducción de dificultad](/wiki/Game_modifier#difficulty-reduction) o mods [especiales](/wiki/Game_modifier#special) habilitados*. Estos beatmaps están seleccionados específicamente para probar la comprensión de cada jugador de varios aspectos del juego en torno a un nivel de habilidad específico, , por ejemplo dentro de una [calificación por estrellas](/wiki/Beatmapping/Star_rating) particular o rango de límite de dificultad.
+Las **medallas de paquetes de desafíos de beatmaps**, o también conocidas como [*medallas de paquetes de habilidad*](https://osu.ppy.sh/home/news/2020-11-20-featured-artist-beatmap-updates-from-the-mappers-guild#skill-packs), son medallas que se otorgan al superar la dificultad más difícil presente en todos los beatmaps que aparecen en ciertos [paquetes de beatmaps temáticos](https://osu.ppy.sh/beatmaps/packs?type=theme) o [paquetes de beatmaps de artistas/álbumes](https://osu.ppy.sh/beatmaps/packs?type=artist) *sin ninguna [reducción de dificultad]((/wiki/Game_modifier#reducción-de-dificultad)) o mods [especiales](/wiki/Game_modifier#especiales) habilitados*. Estos beatmaps están seleccionados específicamente para probar la comprensión de cada jugador de varios aspectos del juego en torno a un nivel de habilidad específico, , por ejemplo dentro de una [calificación por estrellas](/wiki/Beatmapping/Star_rating) particular o rango de límite de dificultad.
 
 Todos los beatmaps del paquete deben completarse en el modo de juego [osu!](/wiki/Game_mode/osu!) para calificar para la insignia, a menos que se especifique lo contrario.
 
