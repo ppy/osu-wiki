@@ -331,8 +331,8 @@ Saturday, 5 November 2022:
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | Miyu Archive | 2 | **8** | **RUDOLF ENJOYERS** | [#1](https://osu.ppy.sh/community/matches/104870376) |
-| Upper | RUDOLF ENJOYERS | 3 | **8** | **Miyu Archive** | [#1](https://osu.ppy.sh/community/matches/104871585) |
+| Grand Final | Miyu Archive | 2 | **8** | **RUDOLF ENJOYERS** | [#1](https://osu.ppy.sh/community/matches/104870376) |
+| Bracket Reset | RUDOLF ENJOYERS | 3 | **8** | **Miyu Archive** | [#1](https://osu.ppy.sh/community/matches/104871585) |
 
 ### Finals
 
