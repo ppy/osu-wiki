@@ -324,9 +324,9 @@
 [osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
 
-[GCrown]: /wiki/shared/crown-gold.png "1st place"
-[SCrown]: /wiki/shared/crown-silver.png "2nd place"
-[BCrown]: /wiki/shared/crown-bronze.png "3rd place"
+[GCrown]: /wiki/shared/crown-gold.png "冠军"
+[SCrown]: /wiki/shared/crown-silver.png "亚军"
+[BCrown]: /wiki/shared/crown-bronze.png "季军"
 
-[true]: /wiki/shared/true.png "Attended"
-[false]: /wiki/shared/false.png "Not attended"
+[true]: /wiki/shared/true.png "参加"
+[false]: /wiki/shared/false.png "未参加"
