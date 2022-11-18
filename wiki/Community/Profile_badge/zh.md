@@ -13,7 +13,7 @@ tags:
 # 主页奖牌
 
 *不要与玩家主页上的群组标识相混淆。*\
-*对于用作锦标赛奖励的奖牌，请参见：[官方锦标赛支持 § 主页奖牌](/wiki/Tournaments/Official_support#主页奖牌-(Badges))*
+*对于用作锦标赛奖励的奖牌，请参见：[官方锦标赛支持 § 主页奖牌](/wiki/Tournaments/Official_support#主页奖牌-(badges))*
 
 ![玩家 HappyStick 在个人主页上展示的奖牌截图](img/HappyStick.png "在官网上，主页奖牌显示在头像和用户名下面")
 
@@ -33,7 +33,7 @@ tags:
 
 旧版官网的多块主页奖牌会在玩家的名称与国家/地区旗之间垂直排列，而不像新版官网一样，在页面的一个板块内水平排列。
 
-旧版官网的这种设计的一个副作用是，当玩家获得了大量的主页奖牌，那么无法扩展的[玩家主页](/wiki/osu!supporter#editable-profile-section)高度限制将被打破。虽然这属于官网设计的意外，但却成了锦标赛界的一个笑料。<!-- More example userpages beyond Toy would be nice, else "running gag" doesn't have a source. -clayton --> ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) 在一条热门推特上提到了这一点，并展示出他截至发推之前所获得的大多数主页奖牌记录。<!-- I couldn't find a definitive source for this but I'm fairly certain that was part of the joke. Toy was the first to reach 10 badges about a year before this, and he was tied with DigitalHypno at 20 a few months later. Please add a source as a reference if you can find one! -clayton -->
+旧版官网的这种设计的一个副作用是，当玩家获得了大量的主页奖牌，那么无法扩展的[玩家主页](/wiki/osu!supporter#可编辑的个人资料区块)高度限制将被打破。虽然这属于官网设计的意外，但却成了锦标赛界的一个笑料。<!-- More example userpages beyond Toy would be nice, else "running gag" doesn't have a source. -clayton --> ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) 在一条热门推特上提到了这一点，并展示出他截至发推之前所获得的大多数主页奖牌记录。<!-- I couldn't find a definitive source for this but I'm fairly certain that was part of the joke. Toy was the first to reach 10 badges about a year before this, and he was tied with DigitalHypno at 20 a few months later. Please add a source as a reference if you can find one! -clayton -->
 
 ## 冷知识
 
