@@ -4,36 +4,41 @@ tags:
  - game modifier
  - overview
  - list of mods
-no_native_review: true
-outdated_translation: true
-outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
+ - NoMod
+ - No Mod
+ - FreeMod
+ - Free Mod
+ - modificador del juego
+ - visión general
+ - lista de mods
+ - Mods libres
 ---
 
-# Modificador del juego 
+# Modificador de juego
 
-*No debe confundirse con [modding](/wiki/Modding).*
+*Para otros usos, véase [Mod (disambiguation)](/wiki/Disambiguation/Mod).*
 
-![Pantalla de selección de mod](img/GM_Main.jpg)
+![Pantalla de selección de mod](img/mod-selection-screen.jpg "comparación entre las pantallas de selección de mods de los modos de juego osu!(arriba a la izquierda), osu!taiko (arriba a la derecha), osu!catch (abajo a la izquierda) y osu!mania (abajo a la derecha)")
 
-**Los modificadores de juego** (o "mod" para abreviar) son modificaciones opcionales de los elementos y ajustes de un [beatmap](/wiki/Beatmap) que los jugadores pueden habilitar desde la `Pantalla de selección de mods` (arriba). Los mods pueden hacer los beatmaps más fáciles, más difíciles o simplemente divertidos.
+Los **modificadores de juego** (o "mod" para abreviar) son modificaciones opcionales de los elementos y ajustes de un [beatmap](/wiki/Beatmap) que los jugadores pueden habilitar desde la `Pantalla de selección de mods` (arriba). Los mods pueden hacer los beatmaps más fáciles, más difíciles o simplemente divertidos.
 
-Los jugadores pueden acceder a la `Pantalla de selección de mods` en la pantalla de selección de canciones haciendo clic en el botón `Mods` cerca de la esquina inferior izquierda de la pantalla o pulsando `F1` en tu teclado. Una vez en la "Pantalla de selección de mods", también hay atajos de teclado que pueden ser usados para seleccionar mods específicos. Estos atajos pueden ser cambiados en las Opciones.
+Los jugadores pueden acceder a la `Pantalla de selección de mods` en la pantalla de selección de canciones haciendo clic en el botón `Mods` cerca de la esquina inferior izquierda de la pantalla o presionando `F1` en su teclado. Una vez en la `Pantalla de selección de mods`, también hay atajos de teclado que pueden ser usados para seleccionar mods específicos. Estos atajos pueden ser cambiados en las Opciones.
 
 En la pantalla de selección, los mods se separan en tres categorías: `Reducción de dificultad`, `Aumento de dificultad`, y `Especial`, y pueden reducir, aumentar o eliminar el [`Multiplicador de puntuación`](/wiki/Game_modifier/Score_multiplier). Cuando se usan dos mods simultáneamente, el multiplicador respectivo de los mods se multiplicará conjuntamente (por ejemplo, `1.06x * 1.12x = 1.1872x`).
 
-## Listado de mods
+## Lista de mods
 
-*Ver también: [Resumen (Modificador de Juego)](/wiki/Game_modifier/Summary)*
+*Véase también: [Resumen (Modificador de Juego)](/wiki/Game_modifier/Summary)*
 
-Cada uno de los mods que aparecen a continuación tendrá su icono de modos de juego compatibles (![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]) junto a él.
+Cada uno de los mods enumerados a continuación tendrá el icono de sus modos de juego compatibles (![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]) al lado.
 
-### Reducción de la dificultad
+### Reducción de dificultad
 
 - [Easy (EZ)](/wiki/Game_modifier/Easy) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [No Fail (NF)](/wiki/Game_modifier/No_Fail) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [Half Time (HT)](/wiki/Game_modifier/Half_Time) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
-### Aumento de la dificultad
+### Aumento de dificultad
 
 - [Hard Rock (HR)](/wiki/Game_modifier/Hard_Rock) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 - [Sudden Death (SD)](/wiki/Game_modifier/Sudden_Death) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
@@ -60,11 +65,21 @@ Cada uno de los mods que aparecen a continuación tendrá su icono de modos de j
 
 ### Otro
 
-*Nota: Estos mods fueron usados y disponibles hace algún tiempo, pero ahora no están disponibles.*
+*Nota: Estos mods se usaron y estaban disponibles hace algún tiempo, pero ahora no están disponibles.*
 
 - [10K](/wiki/Game_modifier/10K) ![][osu!mania]
 - [Fade Out](/wiki/Game_modifier/Fade_Out) ![][osu!mania]
 - [No Video](/wiki/Game_modifier/No_Video) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+
+### Términos relacionados
+
+#### NoMod
+
+En los partidos de [torneo](/wiki/Tournaments), **NoMod** (***NM***) se refiere a no usar ningún mod. Muchos torneos requieren que se usen algunos mods de forma predeterminada como parte de sus reglas o formato, como [No Fail](/wiki/Game_modifier/No_Fail) o [ScoreV2](/wiki/Game_modifier/ScoreV2), , que se convierten en excepciones a esta noción.
+
+#### FreeMod
+
+En los partidos de [torneo](/wiki/Tournaments), **FreeMod** (***FM***) se refiere a ser libre de elegir cualquier mod o combinación de mods. Algunos torneos también proporcionan reglas que especifican criterios adicionales, como qué mods están permitidos y en qué combinaciones, o si no se permite tener mods cuando se especifica FreeMod.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
