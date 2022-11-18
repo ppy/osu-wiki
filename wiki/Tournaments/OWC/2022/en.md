@@ -328,6 +328,7 @@ Sunday, 13 November 2022:
 | **Canada** ::{ flag=CA }:: | **6** | 3 | ::{ flag=AU }:: Australia | [#1](https://osu.ppy.sh/community/matches/105031635) |
 | **Canada** ::{ flag=CA }:: | **6** | 0 | ::{ flag=HK }:: Hong Kong | [#1](https://osu.ppy.sh/community/matches/105033070) |
 | United States ::{ flag=US }:: | 5 | **6** | ::{ flag=KR }:: **South Korea** | [#1](https://osu.ppy.sh/community/matches/105033493) |
+| China ::{ flag=CN }:: | 0 | 0 | ::{ flag=RU }:: Russian Federation | [*nullfied*](https://osu.ppy.sh/community/matches/105041241) |
 | Poland ::{ flag=PL }:: | 3 | **6** | ::{ flag=DE }:: **Germany** | [#1](https://osu.ppy.sh/community/matches/105046293) |
 
 Friday, 18 November 2022:
