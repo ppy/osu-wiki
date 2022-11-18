@@ -332,6 +332,8 @@ Sunday, 13 November 2022:
 
 Friday, 18 November 2022:
 
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
 | **Romania** ::{ flag=RO }:: | **6** | 5 | ::{ flag=RU }:: Russian Federation | [#1](https://osu.ppy.sh/community/matches/105134869) |
 
 ### Quarterfinals
