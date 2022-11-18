@@ -13,7 +13,7 @@ tags:
 # 主页奖牌
 
 *不要与玩家主页上的群组标识相混淆。*\
-*对于用作锦标赛奖励的奖牌，请参见：[官方锦标赛支持 § 主页奖牌](/wiki/Tournaments/Official_support#主页奖牌-(badges))*
+*对于用作锦标赛奖励的奖牌，请参见：[官方锦标赛支持 § 主页奖牌](/wiki/Tournaments/Official_support#主页奖牌-(badge))*
 
 ![玩家 HappyStick 在个人主页上展示的奖牌截图](img/HappyStick.png "在官网上，主页奖牌显示在头像和用户名下面")
 
