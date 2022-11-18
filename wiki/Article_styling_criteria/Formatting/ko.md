@@ -1,6 +1,6 @@
 # 서식
 
-*쓰기 표준에 대한 내용은 [Article style criteria/Writing](../Writing)를 참고하세요.*\
+*작성 표준에 대한 내용은 [Article style criteria/Writing](../Writing)를 참조하세요.*\
 *알림: 이 문서에서는 [RFC 2119](https://tools.ietf.org/html/rfc2119)에 따라 요구사항 수준을 설명합니다.*
 
 ## 로케일
@@ -110,7 +110,7 @@ no_native_review: true
 
 ### 문서 이름 짓기
 
-*또한 [폴더 이름](#폴더-이름)와 [제목](#제목)를 확인하세요.*
+*또한 [폴더 이름](#폴더-이름)와 [제목](#제목)도 참조하세요.*
 
 문서의 제목은 단수여야 하며, 문장의 첫 글자를 대문자로 작성해야 합니다. 자세한 내용은 [Wikipedia's naming conventions article](https://en.wikipedia.org/wiki/Wikipedia:Naming_conventions_(plurals))을 확인하세요.
 
@@ -124,7 +124,7 @@ no_native_review: true
 
 ### 폴더 이름
 
-*[문서 이름 짓기](#문서-이름-짓기)도 참고해 보세요.*
+*[문서 이름 짓기](#문서-이름-짓기)도 참조하세요.*
 
 폴더 이름은 반드시 영어로 작성되어야 하며, 첫 글자를 대문자로 작성해야 합니다.
 
@@ -277,7 +277,7 @@ Markdown 문법은 필요에 따라 이스케이프 해야 하지만, 문서의 
 
 ```markdown
 *경고: {경고}.*\
-*{문서}도 참고해 보세요.*
+*또한 {문서}도 참조하세요.*
 ```
 
 대부분의 경우에는 문단에 관련 없는 햇노트나 공지를 여러개 스택하는 것보다 문단 텍스트에 포함시키는 것이 더 적합할 수 있습니다.
@@ -338,7 +338,7 @@ xi의 *Blue Zenith*는 특정 난이도에서 탑 플레이어가 받은 유명�
 
 ### 제목
 
-*[문서 이름 짓기](#문서-이름-짓기)도 참고해 보세요.*\
+*또한 [문서 이름 짓기](#문서-이름-짓기)도 참조하세요.*\
 *주의: 제목은 일반 텍스트로 분석되므로, 이스케이프 처리를 해서는 안 됩니다.*
 
 모든 문서의 첫 줄은 반드시 문서의 제목인 1단계 헤더여야 하며, 이후의 모든 헤더는 섹션 헤더여야 합니다. 제목은 반드시 서식, 링크, 이미지를 포함해서는 안 됩니다.
@@ -519,7 +519,7 @@ JPG (혹은 JPEG) 파일 형식은 `.jpg` (혹은 `.jpeg`) 확장자를 가집�
 
 ## 링크
 
-*[각주](#각주)도 참고해 보세요.*
+*또한 [각주](#각주)도 참조하세요.*
 
 2가지 타입의 링크가 존재합니다: 인라인 및 참조. 인라인 링크는 두가지의 스타일이 존재합니다.
 
@@ -581,7 +581,7 @@ JPG (혹은 JPEG) 파일 형식은 `.jpg` (혹은 `.jpeg`) 확장자를 가집�
 하위 문서를 가리키는 위키 링크는 링크 문서의 폴더 이름을 포함해야 합니다. 다음 예를 참고하세요:
 
 ```markdown
-*[Beatmap Editor/Design](/wiki/Client/Beatmap_editor/Design)도 참고해 보세요.*
+*또한 [Beatmap Editor/Design](/wiki/Client/Beatmap_editor/Design)도 참조하세요.*
 ```
 
 ##### 섹션 링크
@@ -591,7 +591,7 @@ JPG (혹은 JPEG) 파일 형식은 `.jpg` (혹은 `.jpeg`) 확장자를 가집�
 문서의 섹션을 가리키는 위키 링크에는 섹션 기호 (`§`)를 사용할 수 있습니다. 다음 예를 참고하세요:
 
 ```markdown
-*타이밍 룰에 대한 정보는 [Ranking Criteria § Timing](/wiki/Ranking_Criteria#timing)을 참고하세요.*
+*타이밍 룰에 대한 정보는 [Ranking Criteria § Timing](/wiki/Ranking_Criteria#timing)을 참조하세요.*
 ```
 
 #### 다른 osu! 링크
@@ -645,7 +645,7 @@ https://osu.ppy.sh/beatmapsets/{비트맵셋ID}
 외부 링크와 osu! 웹 링크 사이에는 시각적인 차이가 없기 때문에, 웹사이트의 이름은 제목 테스트에 포함되어야 합니다. 다음 예를 참고하세요:
 
 ```markdown
-*음악 이론에 대한 자세한 정보는 [Music theory](https://en.wikipedia.org/wiki/Music_theory)를 참고하세요.*
+*음악 이론에 대한 자세한 정보는 [Music theory](https://en.wikipedia.org/wiki/Music_theory)를 참조하세요.*
 ```
 
 ## 이미지
