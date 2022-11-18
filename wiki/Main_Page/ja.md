@@ -124,7 +124,7 @@ osu!は、開発、メンテナンス、コミュニティ管理に協力する�
 
 他のアプリケーションやサイトを通してosu!と交流しましょう。
 
-[API](/wiki/osu!api) • [ボットアカウント](/wiki/Bot_account) • [ブランド アイデンティティ ガイドライン](/wiki/Brand_identity_guidelines) • [osu!の開発者向けディスコードサーバー](/wiki/Community/osu!dev_Discord_server)
+[API](/wiki/osu!api) • [ボットアカウント](/wiki/Bot_account) • [ブランド アイデンティティ ガイドライン](/wiki/Brand_identity_guidelines) • [osu!dev開発者向けディスコードサーバー](/wiki/Community/osu!dev_Discord_server)
 
 </div>
 <div class="wiki-main-page-panel">
