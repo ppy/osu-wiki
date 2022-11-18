@@ -116,20 +116,28 @@ The osu! World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) and var
 
 ## Match schedule: Finals
 
+### Friday, 18 November 2022
+
+| Team A | Team B | Match time |  |
+| --: | :-- | :-- | :-: |
+| Romania ::{ flag=RO }:: | ::{ flag=RU }:: Russian Federation | [Nov 18 (Fri) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221118T180000&p1=1440&p2=49&p3=166) | [^losers-bracket] |
+
 ### Saturday, 19 November 2022
 
 | Team A | Team B | Match time |  |
 | --: | :-- | :-- | :-: |
+| United States ::{ flag=US }:: | Winner of RO vs RU | [Nov 19 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221119T180000&p1=1440&p2=263&p3=3905) | [^losers-bracket] |
 | Poland ::{ flag=PL }:: | ::{ flag=CA }:: Canada | [Nov 19 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221119T180000&p1=1440&p2=262&p3=188) | [^losers-bracket] |
 
 ### Sunday, 20 November 2022
 
 | Team A | Team B | Match time |  |
 | --: | :-- | :-- | :-: |
-| United States ::{ flag=US }:: | ::{ flag=CN }:: China | [Nov 20 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221120T040000&p1=1440&p2=263&p3=33) | [^losers-bracket] |
-| South Korea ::{ flag=KR }:: | ::{ flag=DE }:: Germany | [Nov 20 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221120T130000&p1=1440&p2=235&p3=37) | [^winners-bracket] |
-| Poland ::{ flag=PL }:: | ::{ flag=CN }:: China | [Nov 20 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221120T140000&p1=1440&p2=262&p3=33) | [^potential-match] |
-| Canada ::{ flag=CA }:: | ::{ flag=CN }:: China | [Nov 20 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221120T160000&p1=1440&p2=188&p3=33) | [^potential-match] |
+| Poland ::{ flag=PL }:: | ::{ flag=US }:: United States | [Nov 20 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221120T190000&p1=1440&p2=262&p3=263) | [^potential-match] |
+| Poland ::{ flag=PL }:: | Winner of RO vs RU | [Nov 20 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221120T190000&p1=1440&p2=262&p3=3905) | [^potential-match] |
+| Canada ::{ flag=CA }:: | ::{ flag=US }:: United States | [Nov 20 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221120T190000&p1=1440&p2=188&p3=263) | [^potential-match] |
+| Canada ::{ flag=CA }:: | Winner of RO vs RU | [Nov 20 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221120T190000&p1=1440&p2=188&p3=3905) | [^potential-match] |
+| South Korea ::{ flag=KR }:: | ::{ flag=DE }:: Germany | [Nov 20 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221120T140000&p1=1440&p2=235&p3=37) | [^winners-bracket] |
 
 ## Mappools
 
@@ -414,7 +422,7 @@ Sunday, 23 October 2022:
 
 ### Qualifiers
 
-The final standings for the Qualifier stage can be found at the following [spreadsheet](https://docs.google.com/spreadsheets/d/1N-3D-3eNOLgUDsTaUghN6_dozHyaa54mHPsaJYmWjfg). Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1zCrRMjIVXPW-ITFzgOBm346vIFbrbC7VmO-SjAu-oLA).
+The final standings for the Qualifier stage can be found at the following [spreadsheet](https://docs.google.com/spreadsheets/d/1N-3D-3eNOLgUDsTaUghN6_dozHyaa54mHPsaJYmWjfg).
 
 | Seed | Country | %MAX |
 | :-: | :-- | :-- |
