@@ -178,7 +178,7 @@ Toutes les osu! originals sous licence officielle peuvent être utilisées sur o
 
 | Musique | Beatmap | Notes |
 | :-: | :-: | :-- |
-| [SUPER MWC KART - Purple Palace](https://www.youtube.com/watch?v=Mv-j30_r0FE) | [#1](https://osu.ppy.sh/beatmapsets/1569527) | Tiebreaker des Grandes Finales |
+| [SUPER MWC KART - Purple Palace](https://www.youtube.com/watch?v=Mv-j30_r0FE)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1569527) | Tiebreaker des Grandes Finales |
 
 #### ![](/wiki/shared/mode/mania.png) [osu!mania 7K World Cup 2022](/wiki/Tournaments/MWC/2022_7K)
 
