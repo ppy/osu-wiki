@@ -175,7 +175,7 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 
 | Song | Beatmap | Notes |
 | :-: | :-: | :-- |
-| [SUPER MWC KART - Purple Palace](https://www.youtube.com/watch?v=Mv-j30_r0FE) | [#1](https://osu.ppy.sh/beatmapsets/1569527) | Grand Finals tiebreaker |
+| [SUPER MWC KART - Purple Palace](https://www.youtube.com/watch?v=Mv-j30_r0FE)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1569527) | Grand Finals tiebreaker |
 
 #### ![](/wiki/shared/mode/mania.png) [osu!mania 7K World Cup 2022](/wiki/Tournaments/MWC/2022_7K)
 
