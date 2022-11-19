@@ -11,7 +11,7 @@ Este artículo enumera los países que han participado en torneos oficiales de [
 
 ### Clasificación general
 
-| Posición | País | ![][GCrown] | ![][SCrown] | ![][BCrown] |
+| Puesto | País | ![][GCrown] | ![][SCrown] | ![][BCrown] |
 | :-: | :-- | :-: | :-: | :-: |
 | 1 | ::{ flag=KR }:: Corea del Sur | 19 | 5 | 5 |
 | 2 | ::{ flag=JP }:: Japón | 11 | 5 | 2 |
@@ -29,13 +29,13 @@ Este artículo enumera los países que han participado en torneos oficiales de [
 | 14 | ::{ flag=ID }:: Indonesia |  | 1 | 3 |
 | 15 | ::{ flag=NL }:: Países Bajos |  | 1 |  |
 | 15 | ::{ flag=TH }:: Tailandia |  | 1 |  |
-| 16 | ::{ flag=CA }:: Canada |  |  | 3 |
+| 16 | ::{ flag=CA }:: Canadá |  |  | 3 |
 | 17 | ::{ flag=FR }:: Francia |  |  | 2 |
 | 18 | ::{ flag=SE }:: Suecia |  |  | 1 |
 
 ### ![][osu!] Clasificación de osu!
 
-| Posición | País | ![][GCrown] | ![][SCrown] | ![][BCrown] |
+| Puesto | País | ![][GCrown] | ![][SCrown] | ![][BCrown] |
 | :-: | :-- | :-: | :-: | :-: |
 | 1 | ::{ flag=US }:: Estados Unidos | 6 | 1 |  |
 | 2 | ::{ flag=KR }:: Corea del Sur | 3 | 1 | 3 |
@@ -47,17 +47,17 @@ Este artículo enumera los países que han participado en torneos oficiales de [
 | 8 | ::{ flag=GB }:: Reino Unido |  | 1 | 2 |
 | 9 | ::{ flag=NL }:: Países Bajos |  | 1 |  |
 | 10 | ::{ flag=BR }:: Brasil |  |  | 1 |
-| 10 | ::{ flag=CA }:: Canada |  |  | 1 |
+| 10 | ::{ flag=CA }:: Canadá |  |  | 1 |
 
 ### ![][osu!taiko] Clasificación de osu!taiko
 
-| Posición | País | ![][GCrown] | ![][SCrown] | ![][BCrown] |
+| Puesto | País | ![][GCrown] | ![][SCrown] | ![][BCrown] |
 | :-: | :-- | :-: | :-: | :-: |
 | 1 | ::{ flag=JP }:: Japón | 10 | 1 | 2 |
 | 2 | ::{ flag=TW }:: Taiwán | 2 | 5 |  |
 | 3 | ::{ flag=HK }:: Hong Kong |  | 3 | 1 |
 | 3 | ::{ flag=KR }:: Corea del Sur |  | 3 | 1 |
-| 4 | ::{ flag=CA }:: Canada |  |  | 2 |
+| 4 | ::{ flag=CA }:: Canadá |  |  | 2 |
 | 4 | ::{ flag=FR }:: Francia |  |  | 2 |
 | 5 | ::{ flag=BR }:: Brasil |  |  | 1 |
 | 5 | ::{ flag=CN }:: China |  |  | 1 |
@@ -66,7 +66,7 @@ Este artículo enumera los países que han participado en torneos oficiales de [
 
 ### ![][osu!catch] Clasificación de osu!catch
 
-| Posición | País | ![][GCrown] | ![][SCrown] | ![][BCrown] |
+| Puesto | País | ![][GCrown] | ![][SCrown] | ![][BCrown] |
 | :-: | :-- | :-: | :-: | :-: |
 | 1 | ::{ flag=KR }:: Corea del Sur | 6 |  |  |
 | 2 | ::{ flag=CN }:: China | 2 | 4 |  |
@@ -80,7 +80,7 @@ Este artículo enumera los países que han participado en torneos oficiales de [
 
 ### ![][osu!mania] Clasificación de osu!mania
 
-| Posición | País | ![][GCrown] | ![][SCrown] | ![][BCrown] |
+| Puesto | País | ![][GCrown] | ![][SCrown] | ![][BCrown] |
 | :-: | :-- | :-: | :-: | :-: |
 | 1 | ::{ flag=KR }:: Corea del Sur | 10 | 1 | 1 |
 | 2 | ::{ flag=BR }:: Brasil | 2 | 2 | 2 |
@@ -106,14 +106,14 @@ Este artículo enumera los países que han participado en torneos oficiales de [
 | ::{ flag=BR }:: Brasil | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=BG }:: Bulgaria | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] |
 | ::{ flag=KH }:: Camboya | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] |
-| ::{ flag=CA }:: Canada | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ::{ flag=CA }:: Canadá | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=CL }:: Chile | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=CN }:: China | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=CO }:: Colombia | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] |
 | ::{ flag=HR }:: Croacia | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] |
 | ::{ flag=CZ }:: República Checa | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=DK }:: Dinamarca | ![][false] | ![][true] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ::{ flag=DO }:: Dominican Republic | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] |
+| ::{ flag=DO }:: República Dominicana | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] |
 | ::{ flag=EE }:: Estonia | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] |
 | ::{ flag=FI }:: Finlandia | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=FR }:: Francia | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
@@ -125,10 +125,10 @@ Este artículo enumera los países que han participado en torneos oficiales de [
 | ::{ flag=IL }:: Israel | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=IT }:: Italia | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=JP }:: Japón | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ::{ flag=KZ }:: Kazakhstan | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] |
-| ::{ flag=LV }:: Latvia | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] |
-| ::{ flag=LT }:: Lithuania | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] |
-| ::{ flag=MO }:: Macau | ![][true] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] |
+| ::{ flag=KZ }:: Kazajistán | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] |
+| ::{ flag=LV }:: Letonia | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] |
+| ::{ flag=LT }:: Lituania | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] |
+| ::{ flag=MO }:: Macao | ![][true] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] |
 | ::{ flag=MY }:: Malasia | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=MX }:: México | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=NL }:: Países Bajos | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
@@ -141,7 +141,7 @@ Este artículo enumera los países que han participado en torneos oficiales de [
 | ::{ flag=RO }:: Rumania | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=RU }:: Federación Rusa | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=SG }:: Singapur | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ::{ flag=SK }:: Slovakia | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ::{ flag=SK }:: Eslovaquia | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=KR }:: Corea del Sur | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=ES }:: España | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=SE }:: Suecia | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
@@ -166,7 +166,7 @@ Este artículo enumera los países que han participado en torneos oficiales de [
 | ::{ flag=AT }:: Austria | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=BE }:: Bélgica | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] |
 | ::{ flag=BR }:: Brasil | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ::{ flag=CA }:: Canada | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ::{ flag=CA }:: Canadá | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=CL }:: Chile | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=CN }:: China | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=CO }:: Colombia | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] |
@@ -182,7 +182,7 @@ Este artículo enumera los países que han participado en torneos oficiales de [
 | ::{ flag=ID }:: Indonesia | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=IT }:: Italia | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=JP }:: Japón | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ::{ flag=MO }:: Macau | ![][false] | ![][true] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] |
+| ::{ flag=MO }:: Macao | ![][false] | ![][true] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] |
 | ::{ flag=MY }:: Malasia | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=MX }:: México | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=NL }:: Países Bajos | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
@@ -211,14 +211,14 @@ Este artículo enumera los países que han participado en torneos oficiales de [
 
 | País | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 |
 | :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| ::{ flag=DZ }:: Algeria | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] |
+| ::{ flag=DZ }:: Argelia | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] |
 | ::{ flag=AR }:: Argentina | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=AU }:: Australia | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=AT }:: Austria | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][false] | ![][true] | ![][false] | ![][false] |
 | ::{ flag=BE }:: Bélgica | ![][false] | ![][false] | ![][true] | ![][true] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=BO }:: Bolivia | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] |
 | ::{ flag=BR }:: Brasil | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ::{ flag=CA }:: Canada | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ::{ flag=CA }:: Canadá | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=CL }:: Chile | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=CN }:: China | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=CO }:: Colombia | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
@@ -247,7 +247,7 @@ Este artículo enumera los países que han participado en torneos oficiales de [
 | ::{ flag=PT }:: Portugal | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][true] |
 | ::{ flag=RO }:: Rumania | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] |
 | ::{ flag=RU }:: Federación Rusa | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ::{ flag=SA }:: Saudi Arabia | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] |
+| ::{ flag=SA }:: Arabia Saudita | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] |
 | ::{ flag=SG }:: Singapur | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=KR }:: Corea del Sur | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=ES }:: España | ![][true] | ![][true] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] |
@@ -272,7 +272,7 @@ Este artículo enumera los países que han participado en torneos oficiales de [
 | ::{ flag=AU }:: Australia | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=BE }:: Bélgica | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=BR }:: Brasil | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ::{ flag=CA }:: Canada | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
+| ::{ flag=CA }:: Canadá | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=CL }:: Chile | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] |
 | ::{ flag=CN }:: China | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=CO }:: Colombia | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] |
@@ -290,8 +290,8 @@ Este artículo enumera los países que han participado en torneos oficiales de [
 | ::{ flag=IT }:: Italia | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] |
 | ::{ flag=JP }:: Japón | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=LV }:: Latvia | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] |
-| ::{ flag=LT }:: Lithuania | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] |
-| ::{ flag=MO }:: Macau | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] |
+| ::{ flag=LT }:: Lituania | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] |
+| ::{ flag=MO }:: Macao | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][false] | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] |
 | ::{ flag=MY }:: Malasia | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] |
 | ::{ flag=MX }:: México | ![][false] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][false] | ![][false] |
 | ::{ flag=NL }:: Países Bajos | ![][false] | ![][true] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
@@ -324,9 +324,9 @@ Este artículo enumera los países que han participado en torneos oficiales de [
 [osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
 
-[GCrown]: /wiki/shared/crown-gold.png "1st place"
-[SCrown]: /wiki/shared/crown-silver.png "2nd place"
-[BCrown]: /wiki/shared/crown-bronze.png "3rd place"
+[GCrown]: /wiki/shared/crown-gold.png "1er lugar"
+[SCrown]: /wiki/shared/crown-silver.png "2do lugar"
+[BCrown]: /wiki/shared/crown-bronze.png "3er lugar"
 
-[true]: /wiki/shared/true.png "Attended"
-[false]: /wiki/shared/false.png "Not attended"
+[true]: /wiki/shared/true.png "Asistió"
+[false]: /wiki/shared/false.png "No asistió"
