@@ -22,7 +22,7 @@ This is one of those cases where the music speaks for itself. In case you're one
 
 ### Crywolf - Eyes Half Closed
 
-Play through [the classic](https://osu.ppy.sh/beatmapsets/385088) hosted by [Truzon](https://osu.ppy.sh/users/6347812) or [this ranked rendition](https://osu.ppy.sh/beatmapsets/1049043) hosted by [L3NNy](https://osu.ppy.sh/users/11756041)!
+Play through [the classic](https://osu.ppy.sh/beatmapsets/385088) hosted by [Truzon](https://osu.ppy.sh/users/6347812) or [this Ranked rendition](https://osu.ppy.sh/beatmapsets/1049043) hosted by [L3NNy](https://osu.ppy.sh/users/11756041)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/321/Angels/Crywolf%20-%20Eyes%20Half%20Closed.mp3" type="audio/mpeg">
