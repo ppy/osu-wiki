@@ -126,17 +126,18 @@ The osu! World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) and var
 
 | Team A | Team B | Match time |  |
 | --: | :-- | :-- | :-: |
-| United States ::{ flag=US }:: | Winner of RO vs RU | [Nov 19 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221119T180000&p1=1440&p2=263&p3=3905) | [^losers-bracket] |
-| Poland ::{ flag=PL }:: | ::{ flag=CA }:: Canada | [Nov 19 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221119T180000&p1=1440&p2=262&p3=188) | [^losers-bracket] |
+| United States ::{ flag=US }:: | ::{ flag=RO }:: Romania | [Nov 19 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221119T180000&p1=1440&p2=263&p3=49) | [^losers-bracket] |
+| Poland ::{ flag=PL }:: | ::{ flag=CA }:: Canada | [Nov 19 (Sat) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221119T190000&p1=1440&p2=262&p3=188) | [^losers-bracket] |
+| Playtester A | Playtester B | [Nov 19 (Sat) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221119T200000&p1=1440) | [^showmatch] |
 
 ### Sunday, 20 November 2022
 
 | Team A | Team B | Match time |  |
 | --: | :-- | :-- | :-: |
 | Poland ::{ flag=PL }:: | ::{ flag=US }:: United States | [Nov 20 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221120T190000&p1=1440&p2=262&p3=263) | [^potential-match] |
-| Poland ::{ flag=PL }:: | Winner of RO vs RU | [Nov 20 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221120T190000&p1=1440&p2=262&p3=3905) | [^potential-match] |
+| Poland ::{ flag=PL }:: | ::{ flag=RO }:: Romania | [Nov 20 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221120T190000&p1=1440&p2=262&p3=49) | [^potential-match] |
 | Canada ::{ flag=CA }:: | ::{ flag=US }:: United States | [Nov 20 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221120T190000&p1=1440&p2=188&p3=263) | [^potential-match] |
-| Canada ::{ flag=CA }:: | Winner of RO vs RU | [Nov 20 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221120T190000&p1=1440&p2=188&p3=3905) | [^potential-match] |
+| Canada ::{ flag=CA }:: | ::{ flag=RO }:: Romania | [Nov 20 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221120T190000&p1=1440&p2=188&p3=49) | [^potential-match] |
 | South Korea ::{ flag=KR }:: | ::{ flag=DE }:: Germany | [Nov 20 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221120T140000&p1=1440&p2=235&p3=37) | [^winners-bracket] |
 
 ## Mappools
@@ -317,7 +318,7 @@ Saturday, 12 November 2022:
 | Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Hong Kong** ::{ flag=HK }:: | **6** | 1 | ::{ flag=ID }:: Indonesia | [#1](https://osu.ppy.sh/community/matches/105012634) |
-| Romania ::{ flag=RO }:: | 3 | **6** | ::{ flag=CN }:: **China** | [#1](https://osu.ppy.sh/community/matches/105014920) |
+| **Romania** ::{ flag=RO }:: | **0** | -1 | ::{ flag=CN }:: China | [*win by default*](https://osu.ppy.sh/community/matches/105014920) |
 | **Russian Federation** ::{ flag=RU }:: | **6** | 4 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/105019274) |
 
 Sunday, 13 November 2022:
@@ -327,8 +328,14 @@ Sunday, 13 November 2022:
 | **Canada** ::{ flag=CA }:: | **6** | 3 | ::{ flag=AU }:: Australia | [#1](https://osu.ppy.sh/community/matches/105031635) |
 | **Canada** ::{ flag=CA }:: | **6** | 0 | ::{ flag=HK }:: Hong Kong | [#1](https://osu.ppy.sh/community/matches/105033070) |
 | United States ::{ flag=US }:: | 5 | **6** | ::{ flag=KR }:: **South Korea** | [#1](https://osu.ppy.sh/community/matches/105033493) |
-| **China** ::{ flag=CN }:: | **6** | 4 | ::{ flag=RU }:: Russian Federation | [#1](https://osu.ppy.sh/community/matches/105041241) |
+| China ::{ flag=CN }:: | 0 | 0 | ::{ flag=RU }:: Russian Federation | [*nullified*](https://osu.ppy.sh/community/matches/105041241) |
 | Poland ::{ flag=PL }:: | 3 | **6** | ::{ flag=DE }:: **Germany** | [#1](https://osu.ppy.sh/community/matches/105046293) |
+
+Friday, 18 November 2022:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Romania** ::{ flag=RO }:: | **6** | 5 | ::{ flag=RU }:: Russian Federation | [#1](https://osu.ppy.sh/community/matches/105134869) |
 
 ### Quarterfinals
 
@@ -628,4 +635,5 @@ The final standings for the Qualifier stage can be found at the following [sprea
 
 [^winners-bracket]: Winners bracket match
 [^losers-bracket]: Losers bracket match
-[^potential-match]: Potential match - final matchup depends on the results of the preceding Losers Bracket matches
+[^potential-match]: Potential match — final matchup depends on the results of the preceding Losers Bracket matches
+[^showmatch]: Finals showmatch — OWC playtesters compete against each other
