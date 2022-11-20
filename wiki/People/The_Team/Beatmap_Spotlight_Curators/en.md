@@ -7,7 +7,7 @@ tags:
 
 # Beatmap Spotlight Curators
 
-The Beatmap Spotlight Curators was formed as a dedicated community who assist in selecting high-quality maps for a given season of the [Spotlights](https://osu.ppy.sh/wiki/en/Beatmap_Spotlights).
+The Beatmap Spotlight Curators was formed as a dedicated community who assist in selecting high-quality maps for a given season of the [Spotlights](/wiki/Beatmap_Spotlights).
 
 ## Becoming a curator
 
