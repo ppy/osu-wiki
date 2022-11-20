@@ -1,21 +1,20 @@
 ---
 tags:
     - BSC
-    - Beatmap Spotlight Curators
     - beatmap spotlight curator
 ---
 
 # Beatmap Spotlight Curators
 
-The Beatmap Spotlight Curators was formed as a dedicated community who assist in selecting high-quality maps for a given season of the [Spotlights](/wiki/Beatmap_Spotlights).
+The **Beatmap Spotlight Curators** is a group that assists in selecting high-quality maps for each season of the [Beatmap Spotlights](/wiki/Beatmap_Spotlights).
 
 ## Becoming a curator
 
-In most cases, new Curators are suggested by the respective game mode team to fit a certain niche. Such suggestions are evaluated by the project managers, team leaders, and Curators themselves.
+In most cases, new curators are suggested by the respective game mode team to fit a certain niche. Such suggestions are evaluated by the project managers, team leaders, and curators themselves.
 
 In addition, there may be application cycles for certain game modes announced for certain seasons.
 
-All applicants are reviewed by project management and team leaders, and assessed based on their proficiency as a player, mapper, modder, and tournament mappool selector for their respective game mode. Applicants do not need to be proficient in all of these things to be selected, but having a broad skill set certainly helps. The roster of curators is based on a healthy mix and match of various skill levels, experiences, and proficiencies. The number of curators is being purposefully kept small and limited at the moment as the project develops.
+All applicants are assessed based on their proficiency as a player, mapper, modder, and tournament mappool selector for their respective game mode. Applicants do not need to be proficient in all of these things to be selected, but having broad experience helps. The goal is to have a roster of curators with a mix of various skill levels, experiences, and proficiencies. However, the number of curators is currently kept small and limited while the project is developing.
 
 ## Organisation
 
@@ -28,7 +27,7 @@ The Beatmap Spotlights project is run by various community members across all ga
 
 ## Curators
 
-Each Beatmap Spotlights release is assembled by a dedicated curator team and individually picked based on an extensive application and review process. Bold members are the respective team leaders.
+Each Beatmap Spotlights release is assembled by a dedicated curator team. Team leaders are marked in bold.
 
 ### osu! curators
 
