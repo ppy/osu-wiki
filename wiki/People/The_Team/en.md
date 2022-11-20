@@ -46,6 +46,7 @@ The following are user groups which are made up of the osu! community members th
 | Name | Description |
 | :-- | :-- |
 | [Beatmap Nominators](Beatmap_Nominators) | Users going above and beyond the call to ensure your maps get qualified |
+| [Beatmap Spotlight Curators](Beatmap_Spotlight_Curators) | Responsible for selecting high-quality maps for seasonal Spotlights |
 | [Developers](Developers) | Making the game awesome by adding new features and fixing the bugs |
 | [Global Moderation Team](Global_Moderation_Team) | Keeping watch over the forums and in-game chat |
 | [Nomination Assessment Team](Nomination_Assessment_Team) | Managing the Beatmap Nominators |
