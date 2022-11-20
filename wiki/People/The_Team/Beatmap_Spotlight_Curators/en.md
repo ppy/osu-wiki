@@ -25,7 +25,6 @@ The Beatmap Spotlights project is run by various community members across all ga
 | :-- | :-- |
 | Project lead | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) |
 | Project manager | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) |
-| Website manager | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631), ::{ flag=US }:: [Snowleopard](https://osu.ppy.sh/users/3790227) |
 
 ## Curators
 
