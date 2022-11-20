@@ -7,6 +7,7 @@ tags:
   - team osu!
   - staff d'osu!
   - équipe d'osu!
+  - outdated_translation: true
 ---
 
 # L'équipe

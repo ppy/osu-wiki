@@ -9,6 +9,7 @@ tags:
   - екип
   - персонал
   - екипът на osu!
+  - outdated_translation: true
 ---
 
 # Екип

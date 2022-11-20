@@ -7,6 +7,7 @@ tags:
   - team osu!
   - ekip
   - takım
+  - outdated_translation: true
 ---
 
 # Ekip
