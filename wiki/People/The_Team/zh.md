@@ -48,6 +48,7 @@ tags:
 | 名称 | 描述 |
 | :-- | :-- |
 | [谱面审核成员 (BN)](Beatmap_Nominators) | 能给你的谱面提供修改意见，变得更好从而进入上架状态的玩家 |
+| [聚光灯策展人 (BSC)](Beatmap_Spotlight_Curators) | 负责为[谱面聚光灯](/wiki/Beatmap_Spotlights)挑选高质量谱面的玩家 |
 | [开发者](Developers) | 添加更多功能，修复问题来提升游戏的趣味性的玩家 |
 | [全局管理团队 (GMT)](Global_Moderation_Team) | 管理论坛和聊天室的玩家 |
 | [审核评估团队 (NAT)](Nomination_Assessment_Team) | 管理所有谱面审核成员 (BN) 的玩家 |
