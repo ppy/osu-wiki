@@ -298,7 +298,7 @@ Saturday, 12 November 2022:
 | BMS精灵 | 4 | **6** | **SV狗都不玩** | [#1](https://osu.ppy.sh/community/matches/105011147) |
 | **上课军训补课反正凑不齐人** | **6** | 5 | 队名太多不知道用哪个 | [#1](https://osu.ppy.sh/community/matches/105011836) |
 | **铁戈金马** | **6** | 2 | 猫猫面馆 | [#1](https://osu.ppy.sh/community/matches/105012142) |
-| **近月少女的礼仪** | **6** | 0 | 无所谓绿皮龙会出手的 | [#1](https://osu.ppy.sh/mp/105012754) |
+| **近月少女的礼仪** | **6** | 0 | 无所谓绿皮龙会出手的 | [#1](https://osu.ppy.sh/community/matches/105012754) |
 | **都什么年代还在玩传统音游** | **6** | 3 | 你说的队 | [#1](https://osu.ppy.sh/community/matches/105012491) |
 | **又一个倒霉蛋** | **6** | 1 | 我屙屎精灵我交泥如活打屙 | [#1](https://osu.ppy.sh/community/matches/105013948) |
 | **奖励一把大天空** | **6** | 4 | 为所动做为所欲为的所欲为 | [#1](https://osu.ppy.sh/community/matches/105013948) |
@@ -327,7 +327,7 @@ Saturday, 5 November 2022:
 | 奖励一把大天空 | 4 | **6** | **黎曼猜想** | [#1](https://osu.ppy.sh/community/matches/104872538) |
 | DAMWONGaming | 3 | **6** | **猫猫面馆** | [#1](https://osu.ppy.sh/community/matches/104872667) |
 | 你说的队 | 2 | **6** | **无所谓绿皮龙会出手的** | [#1](https://osu.ppy.sh/community/matches/104873132) |
-| **BMS精灵** | **6** | 2 | 素鲍小馆丸子面条铺 | [#1](https://osu.ppy.sh/mp/104874273) |
+| **BMS精灵** | **6** | 2 | 素鲍小馆丸子面条铺 | [#1](https://osu.ppy.sh/community/matches/104874273) |
 
 Sunday, 6 November, 2022:
 
