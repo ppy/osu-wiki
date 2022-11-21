@@ -137,17 +137,17 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 
 | Song | Beatmap | Notes |
 | :-: | :-: | :-- |
-| DJ Raisei - T.R.A.P[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1889105) | Grand Finals NM4 |
+| DJ Raisei - T.R.A.P.[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1889105) | Grand Finals NM4 |
 | Down - Down | [#1](https://osu.ppy.sh/beatmapsets/1880545) | Semifinals FM4 |
 | [II-L ft. amelie xoxo - THE EARTH](https://soundcloud.com/ii-l/the-earth)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1889101) | Grand Finals NM5 |
 | [Kurokotei feat. Sennzai - escape (the looking-glass, and what alice found there)](https://www.youtube.com/watch?v=rYmTItO3caw)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1880652) | Semifinals tiebreaker |
 | [NIWASHI - Harder Than Diamond](https://www.youtube.com/watch?v=PCc2tM3YWs0)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1884920) | Finals FM4 |
-| Rabbit House - Sanctuary[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1889094) | Grand Finals HR2 |
+| [Rabbit House - Sanctuary](https://soundcloud.com/dksslqj/sanctuary)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1889094) | Grand Finals HR2 |
 | [Raimukun - Mythis Orbis](https://soundcloud.com/channel-thenewlimee/myths-orbis)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1889095) | Grand Finals NM2 |
 | [Redside - Sidequest](https://soundcloud.com/redside100/sidequest)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1880625) | Quarterfinals HR3 |
 | [rN - onostrapha](https://www.youtube.com/watch?v=DyBxCLcrY-c)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1884914) | Finals FM2 |
 | seatrus - EXXTRA JUDGEMENT[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1889132) | Grand Finals tiebreaker |
-| Sephid - Thunderstrike 1988[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1889109) | Grand Finals HD3 |
+| [Sephid - Thunderstrike 1988](https://www.youtube.com/watch?v=iddcX63D2Ag)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1889109) | Grand Finals HD3 |
 | [Thaehan - All or Nothing](https://www.youtube.com/watch?v=lrtA205InoQ)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1880625) | Semifinals HR1 |
 
 #### ![](/wiki/shared/mode/taiko.png) [osu!taiko World Cup 2021](/wiki/Tournaments/TWC/2021)
