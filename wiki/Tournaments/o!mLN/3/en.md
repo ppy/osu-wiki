@@ -190,6 +190,33 @@ The osu!mania LN Tournament 3 is run by various community members.
 
 ## Mappools
 
+### Finals
+
+**[Download the mappack here! (207 MB)](https://drive.google.com/drive/folders/1Cw4uLSuFSInC4zPow7VkWB4UQiDUxRrf?usp=share_link)**
+
+- Coordination
+  1. [Miyashita Yuu - Endgame (doctormango) \[Dance of the Reaper\]](https://osu.ppy.sh/beatmapsets/1856605#mania/3815684)
+  2. [YOASOBI - Yoru ni Kakeru (gzdongsheng) \[LNight 1.1x (286bpm)\]](https://osu.ppy.sh/beatmapsets/1569356#mania/3204773)
+  3. [KURORAK - Gamma Stop Giving Me Hard Bags (chxu) \[LNettuce\]](https://osu.ppy.sh/beatmapsets/1888615#mania/3889592)
+- Technical
+  1. [Outsider - Acquaintance (FelixSpade) \[LN Prodigy\]](https://osu.ppy.sh/beatmapsets/1868638#mania/3844290)
+  2. [Mono. - Susceptible (DannyPX) \[Influenced\]](https://osu.ppy.sh/beatmapsets/1889156#mania/3890770)
+  3. [Sta feat. Ice - Cathedral (Micleak) \[Exposure to a downpour of sunlight and a thousand chords held in\]](https://osu.ppy.sh/beatmapsets/1865981#mania/3838235)
+  4. [phonon - Polyriddim (Izadi House Flip) (ERA Hatsuki) \[FunKatsu's ratJAM v2.0\]](https://osu.ppy.sh/beatmapsets/1851364#mania/3803970)
+- Wildcard
+  1. [xi vs. Kaneko Chiharu - Op.I \<fear-TITAN-\> (MyZterioN-) \[Theia 1.05x\]](https://osu.ppy.sh/beatmapsets/1882752#mania/3876326)
+  2. [Laur - Nostalgic Blood of the Strife (Logan636) \[Logan x Felix's World End\]](https://osu.ppy.sh/beatmapsets/1889195#mania/3890953)
+  3. [uma vs. Morimori Atsushi - Re:End of a Dream (FelixSpade) \[Raveille vs. Felix's Awaken\]](https://osu.ppy.sh/beatmapsets/1889177#mania/3890920)
+  4. [Camellia - Sulfide (Cut Ver.) (Micleak) \[Acetification\]](https://osu.ppy.sh/beatmapsets/1888853#mania/3890073)
+  5. [Hatsuki yura - confession -Mitsuyaku Language- (ERA Hatsuki) \[Akatsumi's Confession to eZmmR (Full Vers) \[1.15x Rate\]\]](https://osu.ppy.sh/beatmapsets/1861215#mania/3856909)
+- Density
+  1. [Helblinde - Grief & Malice (FelixSpade) \[LN Prodigy (cut) 1.15x (230bpm)\]](https://osu.ppy.sh/beatmapsets/1853497#mania/3859925)
+  2. [DRIVE. - SO GRAND. (DannyPX) \[EDITED\]](https://osu.ppy.sh/beatmapsets/1889155#mania/3890768)
+  3. [beatMARIO (COOL&CREATE) - Lunatic Eyes \~ Invisible Full Moon (Cut Ver.) (TheFunk) \[Blood Moon 1.1x (220bpm)\]](https://osu.ppy.sh/beatmapsets/1888601#mania/3889545)
+  4. [xi - Event Hor!zon (FelixSpade) \[LN Prodigy 1.1x (220bpm)\]](https://osu.ppy.sh/beatmapsets/1872786#mania/3859933)
+- Tiebreaker
+  1. **[rN vs. \[Shanom, ptar124 & Zekai\] - dichroma, ludiosia. (HowToPlayLN) \[dilemma\]](https://osu.ppy.sh/beatmapsets/1889170#mania/3890904)**
+
 ### Semifinals
 
 - Coordination
