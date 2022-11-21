@@ -21,7 +21,7 @@ tags:
 
 奖牌加权选种 (BWS) 的原则是，如果选手在过去的锦标赛中获得主页奖牌，那么他们应该获得更高的初步定级（种子）。这样的话，如果某个选手表现出色[^digitalhypno-discord-1][^digitalhypno-discord-2]，那么他们就不能无限制地和与他世界排名差不多的选手处于同一个初步定级（种子）。在使用奖牌加权选种 (BWS) 的系列赛中，初始排名相似的选手将逐渐根据 BWS 逐渐获得不同的初步定级（种子）。这能更好地平衡选手在对局中获胜的几率。[^digitalhypno-discord-3][^digitalhypno-discord-4]
 
-在 2018 年底，奖牌加权选种 (BWS) 第一次出现于 [Hippo Cup 2](https://osu.ppy.sh/community/forums/topics/848153)。自那以后，已经有许多[社区锦标赛](/wiki/Tournaments#community)采用了这一系统，它综合考虑了全球排名，和单靠全球排名、资格赛这些方法并列成为目前主要使用的几种给选手初步定级（选种）的方法。
+在 2018 年底，奖牌加权选种 (BWS) 第一次出现于 [Hippo Cup 2](https://osu.ppy.sh/community/forums/topics/848153)。自那以后，已经有许多[社区锦标赛](/wiki/Tournaments#社区锦标赛)采用了这一系统，它综合考虑了全球排名，和单靠全球排名、资格赛这些方法并列成为目前主要使用的几种给选手初步定级（选种）的方法。
 
 ## 技术
 
