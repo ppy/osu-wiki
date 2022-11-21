@@ -273,7 +273,7 @@ Saturday, 19 November 2022:
 | **DAMWONGaming** | **6** | 5 | 我屙屎精灵我交泥如活打屙 | [#1](https://osu.ppy.sh/community/matches/105153955) |
 | **均衡教派** | **6** | 1 | 上课军训补课反正凑不齐人 | [#1](https://osu.ppy.sh/community/matches/105154763) |
 
-Sunday, 20 November, 2022:
+Sunday, 20 November 2022:
 
 | Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -304,7 +304,7 @@ Saturday, 12 November 2022:
 | **奖励一把大天空** | **6** | 4 | 为所动做为所欲为的所欲为 | [#1](https://osu.ppy.sh/community/matches/105013948) |
 | **EIPSYKONGROO** | **6** | 2 | 素鲍小馆丸子面条铺 | [#1](https://osu.ppy.sh/community/matches/105013650) |
 
-Sunday, 13 November, 2022:
+Sunday, 13 November 2022:
 
 | Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -329,7 +329,7 @@ Saturday, 5 November 2022:
 | 你说的队 | 2 | **6** | **无所谓绿皮龙会出手的** | [#1](https://osu.ppy.sh/community/matches/104873132) |
 | **BMS精灵** | **6** | 2 | 素鲍小馆丸子面条铺 | [#1](https://osu.ppy.sh/community/matches/104874273) |
 
-Sunday, 6 November, 2022:
+Sunday, 6 November 2022:
 
 | Team A |  |  | Team B | Match link |
 | --: | :-: | :-: | :-- | :-- |
