@@ -141,7 +141,7 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 | Down - Down | [#1](https://osu.ppy.sh/beatmapsets/1880545) | Semifinals FM4 |
 | [II-L ft. amelie xoxo - THE EARTH](https://soundcloud.com/ii-l/the-earth)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1889101) | Grand Finals NM5 |
 | [Kurokotei feat. Sennzai - escape (the looking-glass, and what alice found there)](https://www.youtube.com/watch?v=rYmTItO3caw)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1880652) | Semifinals tiebreaker |
-| [NIWASHI - Harder Than Diamond](https://open.spotify.com/album/069ssNdAa8pqjgJ6Pk06Jq)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1884920) | Finals FM4 |
+| [NIWASHI - Harder Than Diamond](https://www.youtube.com/watch?v=PCc2tM3YWs0)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1884920) | Finals FM4 |
 | Rabbit House - Sanctuary[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1889094) | Grand Finals HR2 |
 | [Raimukun - Mythis Orbis](https://soundcloud.com/channel-thenewlimee/myths-orbis)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1889095) | Grand Finals NM2 |
 | [Redside - Sidequest](https://soundcloud.com/redside100/sidequest)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1880625) | Quarterfinals HR3 |
