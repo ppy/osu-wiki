@@ -403,6 +403,19 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 | :-: | :-: | :-- |
 | [NicDroid as "NicDono" - TAMBOL2022](https://www.youtube.com/watch?v=zhecFreHC94) | [#1](https://osu.ppy.sh/beatmapsets/1838613) | Grand Finals tiebreaker |
 
+#### ![](/wiki/shared/mode/taiko.png) osu!taiko Malaysia Tournament 2022
+
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [cexiria - Early Trial](https://soundcloud.com/cexiria/early-trial) | [#1](https://osu.ppy.sh/beatmapsets/1875943) | Quarterfinals NM1 |
+| [cexiria - Over the Sphere](https://soundcloud.com/cexiria/over-the-sphere) | [#1](https://osu.ppy.sh/beatmapsets/1875981) | Quarterfinals tiebreaker |
+| [HowToPlayLN - Disintegration of the Isolated Forest](https://soundcloud.com/indekkusu/isolated-forest) | [#1](https://osu.ppy.sh/beatmapsets/1880505) | Semifinals tiebreaker |
+| [HowToPlayLN - Eternal Bliss (HowToPlayLN's 'Nirvana' Remix)](https://soundcloud.com/indekkusu/eternal-bliss-remix) | [#1](https://osu.ppy.sh/beatmapsets/1867368) | Group Stage FM2 |
+| [HowToPlayLN - ph0eniix.z](https://soundcloud.com/indekkusu/ph0eniixz) | [#1](https://osu.ppy.sh/beatmapsets/1885288) | Finals NM2 |
+| [SiLiS - Desir -Saigo no Odori-](https://soundcloud.com/silis/desir-saigo-no-odori) | [#1](https://osu.ppy.sh/beatmapsets/1871708) | Round of 16 NM3 |
+| [Sparxe - What do you C?](https://sparxe.bandcamp.com/track/what-do-you-c) | [#1](https://osu.ppy.sh/beatmapsets/1885333) | Grand Finals tiebreaker |
+| [Tartarate vs. cexiria - Pink Aquarium](https://soundcloud.com/tartrate/pink-aquarium) | [#1](https://osu.ppy.sh/beatmapsets/1862333) | Qualifiers NM1 |
+
 #### ![](/wiki/shared/mode/osu.png) mezelyus' Summer Tournament 2021
 
 | Song | Beatmap | Notes |
