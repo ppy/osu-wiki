@@ -347,6 +347,26 @@ The osu!mania LN Tournament 3 is run by various community members.
 
 ## Match results
 
+### Semifinals
+
+Saturday, 19 November 2022:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **UmmmMrMoo** ::{ flag=CA }:: | **6** | 3 | ::{ flag=KR }:: gaesol | [#1](https://osu.ppy.sh/community/matches/105144442) |
+| **--Pavin--** ::{ flag=TH }:: | **6** | 1 | ::{ flag=ID }:: Onta\_Bekasi | [#1](https://osu.ppy.sh/community/matches/105150732) |
+| jhleetgirl ::{ flag=JP }:: | 3 | **6** | ::{ flag=CZ }:: **grillroasted** | [#1](https://osu.ppy.sh/community/matches/105151610) |
+| **TingMomentum** ::{ flag=GB }:: | **6** | 4 | ::{ flag=MY }:: xxxxxx2800 | [#1](https://osu.ppy.sh/community/matches/105152800) |
+| MIkuaimbot ::{ flag=TH }:: | 5 | **6** | ::{ flag=PH }:: **Silhoueska Elze** | [#1](https://osu.ppy.sh/community/matches/105155475) |
+
+Sunday, 20 November 2022:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **grillroasted** ::{ flag=CZ }:: | **6** | 5 | ::{ flag=GB }:: TingMomentum | [#1](https://osu.ppy.sh/community/matches/105177609) |
+| **--Pavin--** ::{ flag=TH }:: | **6** | 3 | ::{ flag=CA }:: UmmmMrMoo | [#1](https://osu.ppy.sh/community/matches/105181060) |
+| **DemiFiendSMT** ::{ flag=BR }:: | **6** | 3 | ::{ flag=US }:: GripWarrior | [#1](https://osu.ppy.sh/community/matches/105183677) |
+
 ### Quarterfinals
 
 Saturday, 12 November 2022:
