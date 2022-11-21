@@ -673,5 +673,5 @@ The final standings for the Qualifier stage can be found at the following [sprea
 ## Notes
 
 [^losers-bracket]: Losers bracket match
-[^potential-match]: Potential match — final matchup depends on the results of the preceding Losers Bracket matches
-[^showmatch]: Grand Finals showmatch — Mouse players vs tablet players
+[^potential-match]: Potential match — final matchup depends on the results of the preceding losers bracket matches
+[^showmatch]: Grand Finals showmatch — mouse players vs tablet players
