@@ -307,8 +307,7 @@ Estas canciones son parte de [osu! James Landino Collection EP](https://fanlink.
 | [blobdash - Corrupted Binary StaR](https://soundcloud.com/blobdash/corrupted-binary-star) | [#1](https://osu.ppy.sh/beatmapsets/1846727) | Cuartos de final NM1 |
 | [blobdash - Resentment](https://soundcloud.com/blobdash/resentment) | [#1](https://osu.ppy.sh/beatmapsets/1850544) | Semifinales FM2 |
 | [blobdash & Raphlesia - Recollection](https://soundcloud.com/blobdash/recollection) | [#1](https://osu.ppy.sh/beatmapsets/1828727) | Desempate de ronda de 96 |
-| [DJ Raisei - Fractured Angel](https://www.youtube.com/watch?v=YlaYNIXJAyM)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1838114) | Desempate de D
-dieciseisavos de final |
+| [DJ Raisei - Fractured Angel](https://www.youtube.com/watch?v=YlaYNIXJAyM)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1838114) | Desempate de dieciseisavos de final |
 | [DJ Witch Girl MIR4CLEN - Danrit](https://soundcloud.com/mir4clen/osutaiko) | [#1](https://osu.ppy.sh/beatmapsets/1842746) | Octavos de final FM3 |
 | [Gardens - Rafflesia](https://soundcloud.com/gardensdtm/rafflesia) | [#1](https://osu.ppy.sh/beatmapsets/1833491) | Desempate de ronda de 64 |
 | [GTS Sound Team -《/nttld.:beings》 \~Truth in Uncertainty\~](https://soundcloud.com/sdmne/nttldbeings-truth-in-uncertainty)[^fa-feature] | [#1](https://osu.ppy.sh/beatmapsets/1859338#taiko/3822143) | Desempate de la gran final |
