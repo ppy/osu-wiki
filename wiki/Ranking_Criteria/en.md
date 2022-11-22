@@ -136,7 +136,7 @@ Important to understand before using:
   - Cantonese metadata must be romanised by using the Jyutping system.
   - If the song falls into neither category, this choice is left up to the mapper's discretion and contacting a native speaker is recommended.
 - **Metadata in other languages not specifically covered in this section and lacking official romanisation from the artist must use a system common and recognisable for the language.** Contacting a native speaker is recommended to ensure accuracy in these cases.
-- **If a Unicode song title or artist has an official translation or romanisation provided by the artist, it must be used in the respective romanised field. Self-romanisation can be only available if there's no official translation or romanisation.** If both a translation and romanisation are available, either may be used.
+- **If a Unicode song title or artist has an official translation or romanisation provided by the artist, it must be used in the respective romanised field. Only if none are available may the fields be self-romanised.** If both a translation and romanisation are available, either may be used.
 
 ### Guidelines
 
