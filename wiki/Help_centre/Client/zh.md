@@ -275,7 +275,7 @@ osu! 通常会自己保持最新版本，不需要干涉，但有时情况可能
 1. 打开 osu!。
 2. 在主界面点击 `Options`，或按下 `Crtl` + `O`。
 3. 在搜索框输入 `offset`，这样就可以看到全局偏移量设置。
-4. 使用滑条来更改之。你也可以尝试使用 [Offset 设置向导](/wiki/Client/Options/Offset_Wizard)来辅助你调整。
+4. 使用滑块来更改它。你也可以尝试使用 [Offset 设置向导](/wiki/Client/Options/Offset_Wizard)来辅助你调整。
 
 如果一切都不奏效，你可以尝试更新声卡或主板音频驱动。
 
