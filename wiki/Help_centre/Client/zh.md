@@ -101,7 +101,7 @@ osu! 通常会自己保持最新版本，不需要干涉，但有时情况可能
 
 打开 osu! 或者 osu! 更新程序的时候，如果你看到这种报错，这代表你已经删除或者不知道怎么把 Windows 安装自带的重要基础字体给丢失了。这些字体不光 osu! 会使用，其他大部分软件也会使用，所以你还可以看到其他问题的出现，例如字体错误，文字显示不出来，其他程序崩溃等等。
 
-以下乃 Windows 各版本都使用的字体，可能对你有帮助：
+以下乃 Windows 各版本和互联网上都广泛使用的字体，可能对你有帮助：
 
 - [Microsoft core web fonts](https://web.archive.org/web/20020124085641/http://www.microsoft.com/typography/fontpack/default.htm) (especially Arial, Times New Roman, Trebuchet MS, and Verdana)
 - [Tahoma](https://freefontsfamily.com/tahoma-font-free)
