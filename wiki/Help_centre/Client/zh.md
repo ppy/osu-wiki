@@ -31,7 +31,7 @@ tags:
 
 跟随以下步骤来恢复 osu! 的设置：
 
-1. 按住 `Shift`按键，然后打开 osu!。
+1. 按住 `Shift` 按键，然后打开 osu!。
 2. 持续按住 `Shift`，直到 osu! recovery 对话框出现。
 3. 当 `osu! configuration` 窗口出现时，点击 `reset settings`。
 4. 如果问题没有解决，按照上述步骤再一次进入配置窗口，并点击 `repair osu!`。
