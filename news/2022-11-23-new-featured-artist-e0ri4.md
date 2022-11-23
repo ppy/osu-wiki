@@ -12,7 +12,7 @@ Rhythm game music, hardcore songs, and *BMS OF FIGHTERS* submissions are the bul
 
 **7** unmatched tracks populate [**E0ri4**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/322). Brush off your mapping muscles and pick up your favourite track.
 
-[L0V3 4RR0W 5H007](https://osu.ppy.sh/beatmapsets?q=featured_artist%3D322%20L0V3%204RR0W%205H007) is the tune that introduced **E0ri4** to the osu! community through beatmaps across multiple rulesets. Check out how the song plays in osu!, osu!taiko, and osu!mania, then head to the editor with any of these other masterpieces:
+[L0V3 4RR0W 5H007](https://osu.ppy.sh/beatmapsets?q=%22L0V3%204RR0W%205H007%22&s=any) is the tune that introduced **E0ri4** to the osu! community through beatmaps across multiple rulesets. Check out how the song plays in osu!, osu!taiko, and osu!mania, then head to the editor with any of these other masterpieces:
 
 <div align="center">
     <video width="100%" controls>
