@@ -45,7 +45,7 @@ To summarize the new tool he has developed, it allows you to transform your slid
 
 ### New medals
 
-<!-- BANNER HERE (Medals)-->
+![](/wiki/shared/news/2022-12-01-osumonthly-5/medals-banner@1x.jpg)
 
 9 new badges have appeared out of thin air this month to the delight of medal hunters and players. 3 Hush-Hush medals, 3 beatmap pack medals (1 of them being a challenge beatmap pack!) and 3 skill badges have been released. Despite the elusive nature of Hush-Hush medals, it took less than a day for the medal hunters to find the solution, which shows that the community loves this sort of content and is craving for more!
 
