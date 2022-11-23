@@ -323,7 +323,7 @@ xi의 *Blue Zenith*는 특정 난이도에서 탑 플레이어가 받은 유명�
 그러나 링크에 참조된 저작물만이 있는 것이 아니라면 이를 적용하지 않습니다.
 
 ```markdown
-[Voltaeyx's beatmap of *TheFatRat - Mayday (feat. Laura Brehm)*](https://osu.ppy.sh/beatmapsets/756794)는 독특한 오버랩 슬라이더 패턴으로 2018년에 상당한 인기를 끌었던 곡입니다.
+[Voltaeyx의 비트맵 중 *TheFatRat - Mayday (feat. Laura Brehm)*](https://osu.ppy.sh/beatmapsets/756794)은 독특한 오버랩 슬라이더 패턴으로 2018년에 상당한 인기를 끌었던 곡입니다.
 ```
 
 위와 같은 형태의 구성은 적당히 사용해야 하며, 표나 목록과 같이 링크가 많은 곳에서는 사용하지 않아야 합니다.
@@ -858,9 +858,9 @@ osu!api의 첫번째 버전은 2013년 7월 2일에 제공되었으며,[^api-fir
 
 ## 참조
 
-[^api-first-usage]: [peppy의 포럼 스레드 (2013-07-02) "osu!api open beta"](https://osu.ppy.sh/community/forums/posts/2403913)
-[^api-praise]: [Menchi의 포럼 스레드 (2013-11-02) in "osu!api open beta"](https://osu.ppy.sh/community/forums/posts/2662247)
-[^api-v2-2020]: [@ppy의 트윗 (2020-03-20)](https://twitter.com/ppy/status/1263083636363948032)
+[^api-first-usage]: [peppy의 포럼 스레드(2013-07-02) "osu!api open beta"](https://osu.ppy.sh/community/forums/posts/2403913)
+[^api-praise]: ["osu!api open beta" 스레드의 Menchi가 쓴 포럼 글(2013-11-02)](https://osu.ppy.sh/community/forums/posts/2662247)
+[^api-v2-2020]: [@ppy의 트윗(2020-03-20)](https://twitter.com/ppy/status/1263083636363948032)
 [^web-api]: [위키피디아 "Web API"](https://en.wikipedia.org/wiki/Web_API)
 ```
 
