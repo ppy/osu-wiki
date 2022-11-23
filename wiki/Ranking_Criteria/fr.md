@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 55bde87b51b98ced3aaabc95aaa3e98485d911d2
----
-
 # Critères de classement
 
 *Pour les critères de classement spécifiques aux [modes de jeu](/wiki/Game_mode), voir : [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch), et [osu!mania](osu!mania).*
@@ -141,6 +136,7 @@ Il est important de noter avant de les utiliser :
   - Les métadonnées en cantonais doivent être romanisées en utilisant le système Jyutping.
   - Si la musique n'entre dans aucune des deux catégories, ce choix est laissé à la discrétion du mappeur et il est recommandé de contacter un natif.
 - **Les métadonnées dans d'autres langues qui ne sont pas spécifiquement couvertes par cette section et qui ne disposent pas d'une romanisation officielle de l'artiste doivent utiliser un système commun et reconnaissable pour la langue.** Il est recommandé de contacter un natif pour garantir l'exactitude dans ces cas.
+- **Si un titre de chanson ou un artiste Unicode dispose d'une traduction ou d'une romanisation officielle fournie par l'artiste, celle-ci doit être utilisée dans le champ romanisé correspondant. Ce n'est que si aucune n'est disponible que les champs peuvent être romanisés sois-même**. Si une traduction et une romanisation sont toutes deux disponibles, l'une ou l'autre peut être utilisée.
 
 ### Directives
 
