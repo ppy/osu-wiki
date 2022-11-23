@@ -323,7 +323,7 @@ xi의 *Blue Zenith*는 특정 난이도에서 탑 플레이어가 받은 유명�
 그러나 링크에 참조된 저작물만이 있는 것이 아니라면 이를 적용하지 않습니다.
 
 ```markdown
-[Voltaeyx의 비트맵 중 *TheFatRat - Mayday (feat. Laura Brehm)*](https://osu.ppy.sh/beatmapsets/756794)은 독특한 오버랩 슬라이더 패턴으로 2018년에 상당한 인기를 끌었던 곡입니다.
+[Voltaeyx의 비트맵 *TheFatRat - Mayday (feat. Laura Brehm)*](https://osu.ppy.sh/beatmapsets/756794)은 독특한 오버랩 슬라이더 패턴으로 2018년에 상당한 인기를 끌었던 곡입니다.
 ```
 
 위와 같은 형태의 구성은 적당히 사용해야 하며, 표나 목록과 같이 링크가 많은 곳에서는 사용하지 않아야 합니다.
