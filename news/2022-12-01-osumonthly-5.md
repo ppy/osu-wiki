@@ -39,7 +39,7 @@ TBD by 0x84f
 
 ### OliBomby's Slider Picturator
 
-If you are at all interested in mapping on osu! you have probably already heard of [Olibomby](https://osu.ppy.sh/users/6573093) and his app that makes life easier for hundreds of mappers: [Mapping Tools](https://mappingtools.github.io/). But have you seen the latest update, or the [tweet](https://twitter.com/OliBomby/status/1592941194291863553?t=TEB1KmJ9pLdquaoVT9kv-g&s=19) from OliBomby on his Twitter, revealing the Slider Picturator? 
+If you are at all interested in mapping on osu! you have probably already heard of [Olibomby](https://osu.ppy.sh/users/6573093) and his app that makes life easier for hundreds of mappers: [Mapping Tools](https://mappingtools.github.io/). But have you seen the latest update, or the [tweet](https://twitter.com/OliBomby/status/1592941194291863553?t=TEB1KmJ9pLdquaoVT9kv-g&s=19) from OliBomby on his Twitter, revealing the Slider Picturator?
 
 To summarize the new tool he has developed, it allows you to transform your slider into any image. You don't have to be a genius to understand all the possibilities this can offer on maps, and this is what many mappers have already started to experiment with. With each new update, OliBomby seems to push the limits of the editor (like really, create an image with a slider!), but how far will it go? Only the future will tell.
 
@@ -65,13 +65,17 @@ TBD by RandomeLoL
 
 ## Did you know?
 
-something about osu groups getting descriptions and beatmap spotlight curators getting added
+There are many [user groups](/wiki/People/The_Team#user-groups) on osu!, most often recognizable by their title or color, indicating their membership in that group.
+
+During this month, a new group has appeared on the osu! website. Indeed, the [Beatmap Spotlight Curators team](https://osu.ppy.sh/groups/48) has received their own group as a means to distinguish them from regular users and provide more transparency as to who is participating is involved with the project.
+
+Furthermore, descriptions have been added to all user groups which has also contributed to transparency and informing the players as to what the purpose of said group is, all in all a very good addition to the website.
 
 ## Monthly community quiz
 
 ## Things to look out for in December
 
-- UTT Arena Tournament 2022
+- A new LAN is organized next month but this time, in France! The [UTT Arena](https://osu.ppy.sh/community/forums/topics/1661444?n=1) organized tournaments for osu! and osu!mania, so if you are interested in the French scene be sure to catch the top French players compete on the hardest maps by tuning into their livestream on [Twitch](https://www.twitch.tv/osufrlive).
 
 ## End word
 
