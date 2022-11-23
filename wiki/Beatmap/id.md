@@ -71,7 +71,7 @@ osu!direct merupakan fitur yang memungkinkan pengguna untuk mengunduh beatmap da
 
 *Artikel utama: [Paket beatmap](Packs)*
 
-Beatmap yang di-rank pada bulan yang sama atau yang memiliki tema yang sama (cth. lagu dari artis tertentu) pada umumnya akan dikemas dalam bentuk paket beatmap untuk kemudian diunduh secara massal. Daftar seluruh paket beatmap yang osu! miliki dapat dilihat pada [laman paket beatmap](https://osu.ppy.sh/beatmaps/packs).
+Beatmap yang di-rank pada bulan yang sama atau yang memiliki tema yang sama (cth. lagu dari artis tertentu) pada umumnya akan dikemas dalam bentuk paket beatmap untuk dapat kemudian diunduh secara massal. Daftar seluruh paket beatmap yang osu! miliki dapat dilihat pada [laman paket beatmap](https://osu.ppy.sh/beatmaps/packs).
 
 ### Sumber tidak resmi
 
