@@ -1,12 +1,12 @@
 # Criterios de rankeo de osu!mania
 
-Los **Cirterios de rankeo de osu!mania** son reglas y guías que aplican a la creación de dificultades especificas a osu!mania. Con el fin de rankear una dificultad especifica de osu!mania, es mandatorio que la creación de la misma obedezca los criterios listados. Mientras que **todas las reglas deben de seguirse en cualquier circunstancia**, las guías pueden ser ignoradas durante circunstancias excepcionales. Estas circunstancias excepcionales deben ser justificadas por una explicación exhaustiva de porque la guía fue ignorada y como interfiere con la calidad en general de la creación.
+***Aviso: Este artículo es una extensión de los [criterios generales de clasificación](/wiki/Ranking_Criteria).***
 
-Propuestas de reglas también como sugerencias son discutidas en [Ranking Criteria Subforum](https://osu.ppy.sh/community/forums/87). Cualquier regla que paso por una discusión y aprobación de la comunidad están listadas aquí como han sido puestas en su hilo de discusión designado.
+Este conjunto de **criterios de clasificación de osu!mania** establece [reglas y pautas](/wiki/Ranking_Criteria#términos_generales) que los [beatmaps](/wiki/Beatmap) específicos de [osu!mania](/wiki/Game_mode/osu!mania) deben seguir para avanzar en el [procedimiento de clasificación de beatmaps](/wiki/Beatmap_ranking_procedure).
 
 ## Glosario
 
-### Nombramiento de dificultades
+### Nombres de las dificultades
 
 *Articulo principal: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_naming)*
 
