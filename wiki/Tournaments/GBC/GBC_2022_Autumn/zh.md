@@ -67,6 +67,7 @@ GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
 - 直播间
   - [主舞台](https://live.bilibili.com/22545296) (::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407))
   - [副舞台](https://live.bilibili.com/10183) (::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617))
+- [淘汰赛赛程](https://challonge.com/GBC2022Autumn)
 - [比赛QQ群](https://jq.qq.com/?_wv=1027&k=zqBeTqMW)
 - [赛事信息表格](https://docs.qq.com/sheet/DZUVwTnF1aEVmdlVX)
 
@@ -130,6 +131,58 @@ GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
 
 ## 图池
 
+### 十六强赛 & 四分之一决赛
+
+**[在这里下载图包 (157.4 MB)](https://drive.google.com/file/d/1_8ksULOY-BnRho6CusdN8u0qlgU5EdeV/)**
+
+- Rice
+  1. [void feat. hiroko - world devoid of you (Hylotl) \[Fairytale\]](https://osu.ppy.sh/beatmapsets/1881666#mania/3873913)
+  2. [Hanatan - Tengaku (\[GB\]Luoxuan0327) \[Heaven's Fall\]](https://osu.ppy.sh/beatmapsets/1871045#mania/3865398)
+  3. [Arch vs n3pu - Evoltex (Hylotl) \[Double Helix\]](https://osu.ppy.sh/beatmapsets/1877650#mania/3864875)
+  4. [M2U - Adonis (gzdongsheng) \[LV.8\]](https://osu.ppy.sh/beatmapsets/1876689#mania/3862205)
+  5. [Yun\*chi - Your song\* (Blue_Potion) \[Ai no Uta\]](https://osu.ppy.sh/beatmapsets/1888169#mania/3888544)
+  6. [Nightmare - Boulafacet (Shoegazer) \[Paralysis\]](https://osu.ppy.sh/beatmapsets/1732317#mania/3555236)
+  7. [Rissyuu feat. Choko - Take (YuEast 2018) \[TaKe In #YSOF# Style\]](https://osu.ppy.sh/beatmapsets/1318089#mania/2987302)
+- Hybrid
+  1. [Official HIGE DANdism - Bad for me (Dz'Xa's Amenpunk) (\[Crz\]FolAH1217) \[Bittersweet\]](https://osu.ppy.sh/beatmapsets/1728049#mania/3531267)
+  2. [3L - Miracle Hinacle (-Deepdive-) \[Misfortune DispelLN (cut) 1.15x (186bpm) OD7.5\]](https://osu.ppy.sh/beatmapsets/1298827#mania/3862920)
+  3. [technoplanet - Intuition (11Bit) \[Instinct\]](https://osu.ppy.sh/beatmapsets/1737565#mania/3551424)
+- LN
+  1. [DECO*27/Giga-P - Cinderella (\[GB\]Mafufu) (\[Crz\]Crysarlene) \[Last Midnight\]](https://osu.ppy.sh/beatmapsets/1871407#mania/3850415)
+  2. [senya - Youyoumu no Gotoku (\[GB\]Sanae) \[Truth\]](https://osu.ppy.sh/beatmapsets/1771856#mania/3627515)
+  3. [WolF.R - Snow Wish (Muses) \[Frozen edit\]](https://osu.ppy.sh/beatmapsets/1451720#mania/2985094)
+  4. [AAAA - Carnation (MyZterioN-) \[Stage 4: Dianthus\]](https://osu.ppy.sh/beatmapsets/1789154#mania/3665962)
+- SV
+  1. [Sakuraburst - Aethersong (RuleBlazing) \[Vapour Pressure\]](https://osu.ppy.sh/beatmapsets/1201543#mania/2502539)
+  2. [Aphex Twins - Bbydhyonchord (arccat) \[Quignogs\]](https://osu.ppy.sh/beatmapsets/1458480#mania/2997174)
+- Tiebreaker
+  1. **[Camellia - Upload Your Mind :: Download My Soul (Muses) \[Void\]](https://osu.ppy.sh/beatmapsets/1239434#mania/3889595)**
+
+### 常规赛第 3 & 4 周
+
+**[在这里下载图包 (154.3 MB)](https://drive.google.com/file/d/17M9tdM3C9F1vbGDrblSCm-ObNGK40_iz/)**
+
+- Rice
+  1. [LEC - it's over, but NOT FOR ME. (\[GB\]Luoxuan0327) \[Beatmap's Belief (edit) \[1.05x Rate\]\]](https://osu.ppy.sh/beatmapsets/1880247#mania/3871217)
+  2. [Kotori - Nanamori (youth Remix) (Shoegazer) \[Escapade\]](https://osu.ppy.sh/beatmapsets/1360301#mania/3186828)
+  3. [Yamamoto Momiji - Fantastic\*To-ryanse! (YuEast 2018) \[\[edit x1.05\] (GBC autumn 2022 edit)\]](https://osu.ppy.sh/beatmapsets/1492558#mania/3846005)
+  4. [Dormir - Sayonara Trip (Hylotl) \[Himitsu 2022\]](https://osu.ppy.sh/beatmapsets/1869488#mania/3846372)
+  5. [Nanashi Mumei - A New Start (\[GB\]Sanae) \[Flawless World (126bpm)\]](https://osu.ppy.sh/beatmapsets/1868394#mania/3843759)
+  6. [T.B.K - Louve d’Automne (-Deepdive-) \[Automne d'Automne\]](https://osu.ppy.sh/beatmapsets/1827113#mania/3772113)
+- Hybrid
+  1. [Lime - Replica (-H i k a r i-) \[Imitation\]](https://osu.ppy.sh/beatmapsets/1253230#mania/2604530)
+  2. [FELT - OUR SHIP (Imperial Wolf) \[Ark\]](https://osu.ppy.sh/beatmapsets/1163003#mania/2426038)
+  3. [Pokku'n - Prime (\[Crz\]FolAH1217) \[Energetic\]](https://osu.ppy.sh/beatmapsets/1597667#mania/3262856)
+- LN
+  1. [onoken - Ramua (\[Crz\]Crysarlene) \[Fantasy\]](https://osu.ppy.sh/beatmapsets/866194#mania/3694148)
+  2. [BEMANI Sound Team "DJ TOTTO" feat.rionos - Simurgh no mezame (stupud man) \[Divinity\]](https://osu.ppy.sh/beatmapsets/1435419#mania/2953643)
+  3. [M2U - Gypsy Tronic (Stability) \[Raveille\]](https://osu.ppy.sh/beatmapsets/851610#mania/1780158)
+- SV
+  1. [Ruins (Neomorph remix) (Paturages) \[Shambles (edit)\]](https://osu.ppy.sh/beatmapsets/1367133#mania/3154187)
+  2. [sakuraburst - cherry blossoms explode across the dying horizon (Cut Ver.) (Lott) \[Lott & Dub's GD (cut+edit ver.) \[Custom\]\]](https://osu.ppy.sh/beatmapsets/1855227#mania/3812406)
+- Tiebreaker
+  1. **[Ayaponzu\* - Watashi Wa Sore O Gamandekinai (-Deepdive-) \[Saturated\]](https://osu.ppy.sh/beatmapsets/1871551#mania/3850844)**
+
 ### 常规赛第 1 & 2 周
 
 **[在这里下载图包 (131.7 MB)](https://drive.google.com/file/d/1U8nbQ17vZDR3Tr2gN2W0y9UU0AGH68sy/)**
@@ -178,30 +231,115 @@ GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
 
 | #[^rs-summary-seed] | 队伍 | 缩写 | 场次战绩 | 谱面战绩 | 净胜局 | BU[^rs-summary-bu] | 第一轮 | 第二轮 | 第三轮 | 第四轮 |
 | :-: | --: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 1 | DAMWONGaming | DWG | 1-0 | 6-0 | 6 | -1 | 6-0 不玩SV | 猫猫面馆 |  |  |
-| 2 | 奖励一把大天空 | 奖励天空 | 1-0 | 6-1 | 5 | -1 | 6-1 俄亥俄 | ζ(s) |  |  |
-| 3 | 又一个倒霉蛋 | 倒霉蛋 | 1-0 | 6-1 | 5 | -1 | 6-1 绿皮龙 | 行李箱 |  |  |
-| 4 | 铁戈金马 | 铁戈金马 | 1-0 | 6-2 | 4 | -1 | 6-2 队名难取 | 不为所动 |  |  |
-| 5 | 均衡教派 | 均衡教派 | 1-0 | 6-2 | 4 | -1 | 6-2 开摆 | 屙屎精灵 |  |  |
-| 6 | 经典米托镂空鱼香鸡肉丸 | 肉丸子 | 1-0 | 6-2 | 4 | -1 | 6-2 素鲍小馆 | 近月少女 |  |  |
-| 7 | 近月少女的礼仪 | 近月少女 | 1-0 | 6-2 | 4 | -1 | 6-2 BMS | 肉丸子 |  |  |
-| 8 | 我屙屎精灵我交泥如活打屙 | 屙屎精灵 | 1-0 | 6-3 | 3 | -1 | 6-3 凑不齐人 | 均衡教派 |  |  |
-| 9 | 为所动做为所欲为的所欲为 | 不为所动 | 1-0 | 6-3 | 3 | -1 | 6-3 炒树莓 | 铁戈金马 |  |  |
-| 10 | ban位先ban行李箱 | 行李箱 | 1-0 | 6-3 | 3 | -1 | 6-3 你说的队 | 倒霉蛋 |  |  |
-| 11 | 黎曼猜想 | ζ(s) | 1-0 | 6-4 | 2 | -1 | 6-4 石头门 | 奖励天空 |  |  |
-| 12 | 猫猫面馆 | 猫猫面馆 | 1-0 | 6-5 | 1 | -1 | 6-5 传统音游 | DWG |  |  |
-| 13 | 都什么年代还在玩传统音游 | 传统音游 | 0-1 | 5-6 | -1 | 1 | 5-6 猫猫面馆 | 不玩SV |  |  |
-| 14 | EIPSYKONGROO | 石头门 | 0-1 | 4-6 | -2 | 1 | 4-6 ζ(s) | 俄亥俄 |  |  |
-| 15 | 你说的队 | 你说的队 | 0-1 | 3-6 | -3 | 1 | 3-6 行李箱 | 绿皮龙 |  |  |
-| 16 | 番茄炒树莓 | 炒树莓 | 0-1 | 3-6 | -3 | 1 | 3-6 不为所动 | 队名难取 |  |  |
-| 17 | 上课军训补课反正凑不齐人 | 凑不齐人 | 0-1 | 3-6 | -3 | 1 | 3-6 屙屎精灵 | 开摆 |  |  |
-| 18 | BMS精灵 | BMS | 0-1 | 2-6 | -4 | 1 | 2-6 近月少女 | 素鲍小馆 |  |  |
-| 19 | 素鲍小馆丸子面条铺 | 素鲍小馆 | 0-1 | 2-6 | -4 | 1 | 2-6 肉丸子 | BMS |  |  |
-| 20 | 要我一直摆烂一直摆烂吗 | 开摆 | 0-1 | 2-6 | -4 | 1 | 2-6 均衡教派 | 凑不齐人 |  |  |
-| 21 | 队名太多不知道用哪个 | 队名难取 | 0-1 | 2-6 | -4 | 1 | 2-6 铁戈金马 | 炒树莓 |  |  |
-| 22 | 无所谓绿皮龙会出手的 | 绿皮龙 | 0-1 | 1-6 | -5 | 1 | 1-6 倒霉蛋 | 你说的队 |  |  |
-| 23 | 俄亥俄州立大学躁狂播放器 | 俄亥俄 | 0-1 | 1-6 | -5 | 1 | 1-6 奖励天空 | 石头门 |  |  |
-| 24 | SV狗都不玩 | 不玩SV | 0-1 | 0-6 | -6 | 1 | 0-6 DWG | 传统音游 |  |  |
+| **1** | **铁戈金马** | 铁戈金马 | 3-0 | 18-5 | 13 | 0 | 6-2 队名难取 | 6-1 不为所动 | 6-2 猫猫面馆 |  |
+| **2** | **黎曼猜想** | ζ(s) | 3-0 | 18-9 | 9 | 0 | 6-4 石头门 | 6-4 奖励天空 | 6-1 均衡教派 |  |
+| **3** | **ban位先ban行李箱** | 行李箱 | 3-0 | 18-11 | 7 | 1 | 6-3 你说的队 | 6-4 倒霉蛋 | 6-4 肉丸子 |  |
+| **4** | **又一个倒霉蛋** | 倒霉蛋 | 3-1 | 22-9 | 13 | -3 | 6-1 绿皮龙 | 4-6 行李箱 | 6-1 屙屎精灵 | 6-1 绿皮龙 |
+| **5** | **均衡教派** | 均衡教派 | 3-1 | 19-10 | 9 | -1 | 6-2 开摆 | 6-1 屙屎精灵 | 1-6 ζ(s) | 6-1 凑不齐人 |
+| **6** | **经典米托镂空鱼香鸡肉丸** | 肉丸子 | 3-1 | 22-16 | 6 | 0 | 6-2 素鲍小馆 | 6-3 近月少女 | 4-6 行李箱 | 6-5 不玩SV |
+| **7** | **俄亥俄州立大学躁狂播放器** | 俄亥俄 | 3-1 | 19-17 | 2 | -2 | 1-6 奖励天空 | 6-4 石头门 | 6-3 DWG | 6-4 近月少女 |
+| **8** | **猫猫面馆** | 猫猫面馆 | 3-1 | 20-19 | 1 | 3 | 6-5 传统音游 | 6-3 DWG | 2-6 铁戈金马 | 6-5 奖励天空 |
+| **9** | **近月少女的礼仪** | 近月少女 | 2-2 | 19-14 | 5 | 2 | 6-2 BMS | 3-6 肉丸子 | 6-0 绿皮龙 | 4-6 俄亥俄 |
+| **10** | **奖励一把大天空** | 奖励天空 | 2-2 | 21-17 | 4 | 5 | 6-1 俄亥俄 | 4-6 ζ(s) | 6-4 不为所动 | 5-6 猫猫面馆 |
+| **11** | **队名太多不知道用哪个** | 队名难取 | 2-2 | 19-15 | 4 | -2 | 2-6 铁戈金马 | 6-3 炒树莓 | 5-6 凑不齐人 | 6-0 开摆 |
+| **12** | **SV狗都不玩** | 不玩SV | 2-2 | 17-16 | 1 | 2 | 0-6 DWG | 6-0 传统音游 | 6-4 BMS | 5-6 肉丸子 |
+| **13** | **DAMWONGaming** | DWG | 2-2 | 18-17 | 1 | 2 | 6-0 不玩SV | 3-6 猫猫面馆 | 3-6 俄亥俄 | 6-5 屙屎精灵 |
+| **14** | **BMS精灵** | BMS | 2-2 | 18-17 | 1 | -5 | 2-6 近月少女 | 6-2 素鲍小馆 | 4-6 不玩SV | 6-3 不为所动 |
+| **15** | **都什么年代还在玩传统音游** | 传统音游 | 2-2 | 17-19 | -2 | -3 | 5-6 猫猫面馆 | 0-6 不玩SV | 6-3 你说的队 | 6-4 石头门 |
+| **16** | **上课军训补课反正凑不齐人** | 凑不齐人 | 2-2 | 16-19 | -3 | -2 | 3-6 屙屎精灵 | 6-2 开摆 | 6-5 队名难取 | 1-6 均衡教派 |
+| 17 | EIPSYKONGROO | 石头门 | 1-3 | 18-20 | -2 | 2 | 4-6 ζ(s) | 4-6 俄亥俄 | 6-2 素鲍小馆 | 4-6 传统音游 |
+| 18 | 为所动做为所欲为的所欲为 | 不为所动 | 1-3 | 14-21 | -7 | 0 | 6-3 炒树莓 | 1-6 铁戈金马 | 4-6 奖励天空 | 3-6 BMS |
+| 19 | 我屙屎精灵我交泥如活打屙 | 屙屎精灵 | 1-3 | 13-21 | -8 | 4 | 6-3 凑不齐人 | 1-6 均衡教派 | 1-6 倒霉蛋 | 5-6 DWG |
+| 20 | 要我一直摆烂一直摆烂吗 | 开摆 | 1-3 | 10-20 | -10 | -1 | 2-6 均衡教派 | 2-6 凑不齐人 | 6-2 炒树莓 | 0-6 队名难取 |
+| 21 | 无所谓绿皮龙会出手的 | 绿皮龙 | 1-3 | 8-20 | -12 | 1 | 1-6 倒霉蛋 | 6-2 你说的队 | 0-6 近月少女 | 1-6 倒霉蛋 |
+| 22 | 你说的队 | 你说的队 | 0-3 | 8-18 | -10 | 1 | 3-6 行李箱 | 2-6 绿皮龙 | 3-6 传统音游 |  |
+| 23 | 番茄炒树莓 | 炒树莓 | 0-3 | 8-18 | -10 | -4 | 3-6 不为所动 | 3-6 队名难取 | 2-6 开摆 |  |
+| 24 | 素鲍小馆丸子面条铺 | 素鲍小馆 | 0-3 | 6-18 | -12 | 0 | 2-6 肉丸子 | 2-6 BMS | 2-6 石头门 |  |
+
+### 常规赛第 4 周
+
+可在[此处](https://docs.qq.com/sheet/DWmZnWGd1VUxBWHZS)查询本轮详细数据。
+
+2022 年 11 月 18 日，星期五：
+
+| A 队 |  |  | B 队 | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| EIPSYKONGROO | 4 | **6** | **都什么年代还在玩传统音游** | [#1](https://osu.ppy.sh/community/matches/105127118) |
+
+2022 年 11 月 19 日，星期六：
+
+| A 队 |  |  | B 队 | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| 近月少女的礼仪 | 4 | **6** | **俄亥俄州立大学躁狂播放器** | [#1](https://osu.ppy.sh/community/matches/105150749) |
+| **BMS精灵** | **6** | 3 | 为所动做为所欲为的所欲为 | [#1](https://osu.ppy.sh/community/matches/105151996) |
+| 奖励一把大天空 | 5 | **6** | **猫猫面馆** | [#1](https://osu.ppy.sh/community/matches/105152020) |
+| **又一个倒霉蛋** | **6** | 1 | 无所谓绿皮龙会出手的 | [#1](https://osu.ppy.sh/community/matches/105152352) |
+| **DAMWONGaming** | **6** | 5 | 我屙屎精灵我交泥如活打屙 | [#1](https://osu.ppy.sh/community/matches/105153955) |
+| **均衡教派** | **6** | 1 | 上课军训补课反正凑不齐人 | [#1](https://osu.ppy.sh/community/matches/105154763) |
+
+2022 年 11 月 20 日，星期日：
+
+| A 队 |  |  | B 队 | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| **经典米托镂空鱼香鸡肉丸** | **6** | 5 | SV狗都不玩 | [#1](https://osu.ppy.sh/community/matches/105177690) |
+| **队名太多不知道用哪个** | **6** | 0 | 要我一直摆烂一直摆烂吗 | [#1](https://osu.ppy.sh/community/matches/105179327) |
+
+### 常规赛第 3 周
+
+可在[此处](https://docs.qq.com/sheet/DWmZaaVptS0RqdmFj)查询本轮详细数据。
+
+2022 年 11 月 11 日，星期五：
+
+| A 队 |  |  | B 队 | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| DAMWONGaming | 3 | **6** | **俄亥俄州立大学躁狂播放器** | [#1](https://osu.ppy.sh/community/matches/104988449) |
+
+2022 年 11 月 12 日，星期六：
+
+| A 队 |  |  | B 队 | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| 番茄炒树莓 | 2 | **6** | **要我一直摆烂一直摆烂吗** | [#1](https://osu.ppy.sh/community/matches/105011147) |
+| BMS精灵 | 4 | **6** | **SV狗都不玩** | [#1](https://osu.ppy.sh/community/matches/105011147) |
+| **上课军训补课反正凑不齐人** | **6** | 5 | 队名太多不知道用哪个 | [#1](https://osu.ppy.sh/community/matches/105011836) |
+| **铁戈金马** | **6** | 2 | 猫猫面馆 | [#1](https://osu.ppy.sh/community/matches/105012142) |
+| **近月少女的礼仪** | **6** | 0 | 无所谓绿皮龙会出手的 | [#1](https://osu.ppy.sh/community/matches/105012754) |
+| **都什么年代还在玩传统音游** | **6** | 3 | 你说的队 | [#1](https://osu.ppy.sh/community/matches/105012491) |
+| **又一个倒霉蛋** | **6** | 1 | 我屙屎精灵我交泥如活打屙 | [#1](https://osu.ppy.sh/community/matches/105013948) |
+| **奖励一把大天空** | **6** | 4 | 为所动做为所欲为的所欲为 | [#1](https://osu.ppy.sh/community/matches/105013948) |
+| **EIPSYKONGROO** | **6** | 2 | 素鲍小馆丸子面条铺 | [#1](https://osu.ppy.sh/community/matches/105013650) |
+
+2022 年 11 月 13 日，星期日：
+
+| A 队 |  |  | B 队 | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| 均衡教派 | 1 | **6** | **黎曼猜想** | [#1](https://osu.ppy.sh/community/matches/105037825) |
+| 经典米托镂空鱼香鸡肉丸 | 4 | **6** | **ban位先ban行李箱** | [#1](https://osu.ppy.sh/community/matches/105038612) |
+
+### 常规赛第 2 周
+
+可在[此处](https://docs.qq.com/sheet/DWklHaFpuZ0dtQWZO)查询本轮详细数据。
+
+2022 年 11 月 5 日，星期六：
+
+| A 队 |  |  | B 队 | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| **铁戈金马** | **6** | 1 | 为所动做为所欲为的所欲为 | [#1](https://osu.ppy.sh/community/matches/104870281) |
+| **均衡教派** | **6** | 1 | 我屙屎精灵我交泥如活打屙 | [#1](https://osu.ppy.sh/community/matches/104870792) |
+| 番茄炒树莓 | 3 | **6** | **队名太多不知道用哪个** | [#1](https://osu.ppy.sh/community/matches/104871142) |
+| 都什么年代还在玩传统音游 | 0 | **6** | **SV狗都不玩** | [#1](https://osu.ppy.sh/community/matches/104871565) |
+| **经典米托镂空鱼香鸡肉丸** | **6** | 3 | 近月少女的礼仪 | [#1](https://osu.ppy.sh/community/matches/104871587) |
+| 奖励一把大天空 | 4 | **6** | **黎曼猜想** | [#1](https://osu.ppy.sh/community/matches/104872538) |
+| DAMWONGaming | 3 | **6** | **猫猫面馆** | [#1](https://osu.ppy.sh/community/matches/104872667) |
+| 你说的队 | 2 | **6** | **无所谓绿皮龙会出手的** | [#1](https://osu.ppy.sh/community/matches/104873132) |
+| **BMS精灵** | **6** | 2 | 素鲍小馆丸子面条铺 | [#1](https://osu.ppy.sh/community/matches/104874273) |
+
+2022 年 11 月 6 日，星期日：
+
+| A 队 |  |  | B 队 | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| 又一个倒霉蛋 | 4 | **6** | **ban位先ban行李箱** | [#1](https://osu.ppy.sh/community/matches/104896477) |
+| **上课军训补课反正凑不齐人** | **6** | 2 | 要我一直摆烂摆烂吗 | [#1](https://osu.ppy.sh/community/matches/104897817) |
+| EIPSYKONGROO | 4 | **6** | **俄亥俄州立大学躁狂播放器** | [#1](https://osu.ppy.sh/community/matches/104900289) |
 
 ### 常规赛第 1 周
 
@@ -484,9 +622,9 @@ GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
 1. 常规赛总共包含四轮瑞士轮比赛，这意味着比赛期间场次成绩相同的队伍会优先进行比赛。
 2. 常规赛队伍的排名将依次取决于以下的条件：
    - 更多的净胜场
-   - 更好的相互战绩（如果存在）
    - 更多的净胜局
    - 更多的所有对手的净胜场和
+   - 更好的相互战绩（如果存在）
    - 更多的胜局数
    - 更少的败局数
    - 更高的局净胜分和（所有谱面的净胜分之和）
