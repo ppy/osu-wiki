@@ -1,4 +1,4 @@
-# Criterios de rankeo de osu!mania
+# Criterios de clasificación de osu!mania
 
 ***Aviso: Este artículo es una extensión de los [criterios generales de clasificación](/wiki/Ranking_Criteria).***
 
@@ -6,9 +6,9 @@ Este conjunto de **criterios de clasificación de osu!mania** establece [reglas 
 
 ## Glosario
 
-### Nombres de las dificultades
+### Nombres de dificultades
 
-*Articulo principal: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_naming)*
+*Artículo principal: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_naming)*
 
 - ![](/wiki/shared/diff/easy-m.png?20211215) Easy (Fácil)
 - ![](/wiki/shared/diff/normal-m.png?20211215) Normal (Normal)
@@ -27,10 +27,10 @@ Este conjunto de **criterios de clasificación de osu!mania** establece [reglas 
 - **Musical phrase**: Una unidad independiente musical que es usualmente de 4 compases de largo.
 - **Short-term slider velocity**: Un cambio en la velocidad de deslizamiento que dura menos que 1/2 de un pulso.
 
-### Patrónes
+### Patrones
 
 - **Anchor**: Un patrón que tiene una cantidad relativamente alta de notas en una columna comparada con las otras, usualmente se encuentran entre diferentes tipos de streams.
-- **Bracket**: Un patrón que involucra multiples trills usando columnas cerca una de las otras.
+- **Bracket**: Un patrón que involucra múltiples trills usando columnas cerca una de las otras.
 - **Chord**: Dos o más notas presionadas al mismo tiempo.
 - **Chordstream (Jumpstream, Handstream, Quadstream)**: Streams que mezclan diferentes tipos de chords.
 - **Grace**: Dos o más notas presionadas en sucesión rápida, generalmente usando snaps de o más de 1/6.
@@ -61,9 +61,9 @@ Las reglas en general y guías aplican para todos los tipos de dificultades de o
 - **Los mapas solo pueden tener de 4 a 10 teclas.** Cualquier otras teclas no son soportadas por la sección de clasificatorias.
 - **Si más de un modo de teclas es presente en un solo mapa, las teclas deben ser denominadas en todos los nombres de dificultades. En case de que no, no se deben de nombrar**
 - **Si el [drain time](/wiki/Gameplay/Drain_time) o tiempo de drenaje de cada dificultad es...**
-  - **...menos de 2:30**, la dificultas más baja de cada modo de tecla incluido no puede ser más difícil que una dificultad Normal, **O** cada modo de tecla tiene que proveer 3 dificultades más bajas debajo de la dificultad más difícil.
-  - **...entre 2:30 y 3:15**, la dificultas más baja de cada modo de tecla incluido no puede ser más difícil que una dificultad Difícil, **O** cada modo de tecla tiene que proveer 2 dificultades más bajas debajo de la dificultad más difícil.
-  - **...entre 3:15 y 4:00**, la dificultas más baja de cada modo de tecla incluido no puede ser más difícil que una dificultad Insana, **O** cada modo de tecla tiene que proveer 1 dificultad más bajas debajo de la dificultad más difícil.
+  - **...menos de 2:30**, la dificultad más baja de cada modo de tecla incluido no puede ser más difícil que una dificultad Normal, **O** cada modo de tecla tiene que proveer 3 dificultades más bajas debajo de la dificultad más difícil.
+  - **...entre 2:30 y 3:15**, la dificultad más baja de cada modo de tecla incluido no puede ser más difícil que una dificultad Difícil, **O** cada modo de tecla tiene que proveer 2 dificultades más bajas debajo de la dificultad más difícil.
+  - **...entre 3:15 y 4:00**, la dificultad más baja de cada modo de tecla incluido no puede ser más difícil que una dificultad Insana, **O** cada modo de tecla tiene que proveer 1 dificultad más baja debajo de la dificultad más difícil.
 - En las dificultades Insanas o más difíciles, las dificultades apropiadamente hechas deben tener una brecha de dificultad similar a las que se formalmente definieron en las dificultades bajas.
 
 ### Guías
@@ -86,7 +86,7 @@ Las reglas en general y guías aplican para todos los tipos de dificultades de o
 
 Las reglas y guías para las dificultades especificas solo aplican al nivel que está estipulado y por ende *no aplica para **todas** las dificultades de osu!mania. Reglas y guías relacionadas al ritmo aplican para mapas de aproximadamente 180bpm. Si tu canción es drásticamente más rápida o lenta, algunas variables pueden ser diferentes, como detallado en [Scaling BPM on the Ranking Criteria](/wiki/Ranking_Criteria/Scaling_BPM).
 
-*Las reglas específicas de teclas están construidas a partir de los modos rankeados más comunes (4 teclas y 7 teclas). Cualquier otro modo de tecla debe aplicar estas guías cuando se pueda.*
+*Las reglas específicas de teclas están construidas a partir de los modos clasificados más comunes (4 teclas y 7 teclas). Cualquier otro modo de tecla debe aplicar estas guías cuando se pueda.*
 
 ### ![](/wiki/shared/diff/easy-m.png?20211215) Easy (Fácil)
 
@@ -104,8 +104,8 @@ Las reglas y guías para las dificultades especificas solo aplican al nivel que 
 - **Objetos no deben de ser puestos mientras una nota larga de 1/1 se presiona.** Sin embargo, poner un objeto al principio o final de dicha nota está bien.
 - **La densidad de las notas debería de consistir en mayormente 1/1, 1/2 ocasional, o ritmos más lentos.**
 - **Evite usar más de 5 notas consecutivas de 1/2.**
-- **Evite usar chords durante patrónes de notas de 1/2 consecutivos.** Sin embargo, usar un chord al inicio o final de un patrón está bien.
-- **Evite usar chords con más de 2 notas.** Esto incluye patrónes de notas largas que involucren notas en más de dos columnas.
+- **Evite usar chords durante patrones de notas de 1/2 consecutivos.** Sin embargo, usar un chord al inicio o final de un patrón está bien.
+- **Evite usar chords con más de 2 notas.** Esto incluye patrones de notas largas que involucren notas en más de dos columnas.
 
 ### ![](/wiki/shared/diff/normal-m.png?20211215) Normal (Normal)
 
@@ -128,7 +128,7 @@ Si una dificultad Normal es requerida y usada como la *dificultad más baja* de 
 - **La densidad de las notas debería de consistir en mayormente 1/1 y 1/2, 1/4 ocasional, o ritmos más lentos.**
 - **Evite usar más de 5 notas consecutivas de 1/4.**
 - **Stream largos de notas de 1/2 deben incluir, como mínimo, una pausa de 1/1 donde sea natural implementarla después de cada frase musical**, ya que estos pueden ser muy demandantes físicamente para los jugadores de este nivel.
-- **Evite usar chords durante patrónes de notas de 1/4 consecutivos.** Sin embargo, usar un chord al inicio o final de un patrón está bien.
+- **Evite usar chords durante patrones de notas de 1/4 consecutivos.** Sin embargo, usar un chord al inicio o final de un patrón está bien.
 - **Evite los anchors de más o tres notas.** A la vez que son fáciles de leer para los jugadores, anchors largos son agotadores.
 - **Evite usar minijacks de 1/4 o cualquier otro patrón de jacks.** Estos patrones son demasiado demandantes físicamente para un jugador de este nivel.
 - **Manipular la velocidad de deslizamiento es desalentado.** La velocidad des deslizamiento solo debería de ser cambiada para secciones de la música con diferentes intensidades y no debería ser drásticamente variable a través del mapa.
