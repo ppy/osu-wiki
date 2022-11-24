@@ -6,7 +6,7 @@ Este conjunto de **criterios de clasificación de osu!mania** establece [reglas 
 
 ## Glosario
 
-### Nombre de las dificultades
+### Nombres de las dificultades
 
 *Artículo principal: [Nombramiento de dificultades](/wiki/Ranking_Criteria/Difficulty_naming)*
 
@@ -24,8 +24,8 @@ Este conjunto de **criterios de clasificación de osu!mania** establece [reglas 
 - **Keysounding**: Aplicar hitsounds que son extremadamente similar o directamente de la canción en sus respectivos lugares. Este método de hitsounding generalmente proporciona poca retroalimentación al jugador.
 - **Slider velocity**: La velocidad a la que se mueven las notas/barras en el campo de juego. La velocidad base del slider (1,0x) se basa en la velocidad de desplazamiento del usuario y se pueden realizar cambios adicionales a través de puntos de tiempo heredados (verdes).
 - **Long-term slider velocity**:Un cambio de velocidad del slider que dura más de 4 compases.
-- **Musical phrase**: Una unidad independiente de metro musical que suele tener 4 compases de largo.
-- **Short-term slider velocity**: Un cambio de velocidad del slider que dura menos de 1/2 de un tiempo.
+- **Musical phrase**: Una unidad independiente musical que suele ser de 4 compases de largo.
+- **Short-term slider velocity**: Un cambio en la velocidad de deslizamiento que dura menos que 1/2 de un pulso.
 
 ### Patrones
 
@@ -50,7 +50,7 @@ Consulte [Guía de mapping de osu!mania](/wiki/Guides/osu!mania_Mapping_Guide) p
 
 ## General
 
-Las reglas y pautas generales se aplican a todo tipo de dificultad de osu!mania. Las reglas y pautas relacionadas con el ritmo se aplican a beatmaps de aproximadamente 180 BPM con compases de 4/4. Si tu canción es drásticamente más rápida o más lenta, algunas variables pueden ser diferentes, como se detalla en [Escalado de BPM en los criterios de clasificación](/wiki/Ranking_Criteria/Scaling_BPM).
+Las reglas y pautas generales se aplican a todo tipo de dificultad de osu!mania. Las reglas y pautas relacionadas con el ritmo se aplican a beatmaps de aproximadamente 180 BPM con compases de 4/4. Si tu canción es drásticamente más rápida o más lenta, algunas variables pueden ser diferentes, como se detalla en [Escalado de BPM en los criterios de clasificación](/wiki/Ranking_Criteria/Scaling_BPM)
 
 ### Reglas 
 
@@ -84,7 +84,7 @@ Las reglas y pautas generales se aplican a todo tipo de dificultad de osu!mania.
 
 ## Dificultades específicas
 
-Las reglas y guías para las dificultades especificas solo aplican al nivel que está estipulado y por ende *no aplica para **todas** las dificultades de osu!mania. Reglas y guías relacionadas al ritmo aplican para mapas de aproximadamente 180bpm. Si tu canción es drásticamente más rápida o lenta, algunas variables pueden ser diferentes, como detallado en [Scaling BPM on the Ranking Criteria](/wiki/Ranking_Criteria/Scaling_BPM).
+Las reglas y pautas para las dificultades especificas solo aplican al nivel que está estipulado y por ende *no aplica para **todas** las dificultades de osu!mania. Reglas y pautas relacionadas al ritmo aplican para beatmaps de aproximadamente 180 BPM. Si tu canción es drásticamente más rápida o lenta, algunas variables pueden ser diferentes, como se detalla en [Escalado de BPM en los criterios de clasificación](/wiki/Ranking_Criteria/Scaling_BPM).
 
 *Las reglas específicas de teclas están construidas a partir de los modos clasificados más comunes (4 teclas y 7 teclas). Cualquier otro modo de tecla debe aplicar estas pautas cuando se pueda.*
 
@@ -160,12 +160,12 @@ Pautas adiciónales para dificultades *Normal de 7 teclas*:
 - **Cambios largos de la velocidad de desplazamiento deben ser entre 0.8x y 1.10x.**
 - **Trucos que involucren la velocidad de desplazamiento deben ser reaccionables entre un 1/2 de una pulsación o más**
 
-Pautas adiciónales para dificultades *Hard de 4 teclas*:
+Pauta adiciónales para dificultades *Hard de 4 teclas*:
 
 - **Evite chords con más de 2 notas.** Esto incluye patrones de notas largas que involucren más de tres columnas.
 - **Evite los anchors de cinco o más notas.** A la vez que son fáciles de leer para los jugadores, anchors largos son agotadores.
 
-Guías adiciónales para dificultades de *7 teclas Hard (Difícil)*:
+Pautas adiciónales para dificultades *Hard de 7 teclas*:
 
 - **Evite los anchors de cuatro o más notas.** Esto incluye patrones de notas largas que involucren más de cuatro columnas.
 - **Evite los anchors de cinco o más notas.**  A la vez que son fáciles de leer para los jugadores, anchors largos son agotadores.
@@ -174,7 +174,7 @@ Guías adiciónales para dificultades de *7 teclas Hard (Difícil)*:
 
 ### ![](/wiki/shared/diff/insane-m.png?20211215) Insane
 
-####Pautas
+#### Pautas
 
 - **Evite usar picos de dificultad no justificados.** La dificultad debería ser representativa sobre la intensidad de la canción.
 - **Evite usar split rolls o cualquier tipo de patrón complicado de streams 1/8 que dure más de 4 pulsaciones o un compás.** Streams de este tipo de snap son difíciles de ejecutar y solo deberían ser utilizados si la canción lo amerita.
@@ -182,13 +182,13 @@ Guías adiciónales para dificultades de *7 teclas Hard (Difícil)*:
 - **Cambios largos de la velocidad de desplazamiento deben ser entre 0.7x y 1.10x.**
 - **Trucos que involucren la velocidad de desplazamiento deben ser reaccionables entre un 1/4 de una pulsación o más cuando no están normalizados y 1/2 cuando están normalizados.**
 
-Guías adiciónales para dificultades de *4 teclas Insane (Insano)*:
+Pautas adiciónales para dificultades *Insane de 4 teclas*:
 
 - **Evite usar chords en el medio de un stream 1/8.** La densidad de estos patrones es usualmente muy difícil para jugadores de este nivel, especialmente cuando se es usado en dificultades bajas de un beatmap. Adicionalmente, la colocación no efectiva de estos chords puede resultar en el uso de minijacks de 1/4. Usar un chord al principio o final de un stream está bien.
 - **Usar split jumptrills por más de 2 pulsaciones que terminen en un hand es desalentado.** A no ser que el beatmap use jacks u otro patrón frecuentemente, este patrón es difícil de jugar. Si un hand es necesario, borre la nota antes la cual crea el mini jack.
 - **Evite usar más de 9 notas en un split jumptrill.** Estos son más físicamente extenuantes que otros patrones con densidad similar.
 
-Pautas adicionales para las dificultades *Insane de 7 teclas*:
+Pautas adiciónales para dificultades *Insane de 7 teclas*:
 
 - **Evite usar jacks de 1/4 con más de 3 notas en el medio de un chordstream.** Esto requiere una independencia de los dedos que estos jugadores de esta dificultad no pueden manejar.
 - **En medio de un chord stream largo con cada chord en...**
