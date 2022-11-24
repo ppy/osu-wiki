@@ -340,7 +340,7 @@ osu! 通常会自己保持最新版本，不需要干涉，但有时情况可能
 
 你可以在命令提示符中使用 `tracert` 命令来进行路由追踪。
 
-如果要打开命令提示符，请按住键盘上的 `Windows` 键，然后点击 `R`。然后在弹出的窗口中输入 `cmd` ，然后按下 `确认`。详细信息请参阅[这篇 Windows 知识库文章](https://support.microsoft.com/en-us/topic/how-to-use-tracert-to-troubleshoot-tcp-ip-problems-in-windows-e643d72b-2f4f-cdd6-09a0-fd2989c7ca8e)。
+如果要打开命令提示符，请按住键盘上的 `Windows` 键，然后点击 `R`。然后在弹出的窗口中输入 `cmd` ，然后按下 `确定`。详细信息请参阅[这篇 Windows 知识库文章](https://support.microsoft.com/zh-cn/topic/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8-tracert-%E8%A7%A3%E5%86%B3-windows-%E4%B8%AD%E7%9A%84-tcp-ip-%E9%97%AE%E9%A2%98-e643d72b-2f4f-cdd6-09a0-fd2989c7ca8e)。
 
 随后，你就可以把指令输入进去了。举个例子，`tracert cho.ppy.sh` 会对你电脑与游戏服务器的通信进行追踪。这可能需要一分钟或者几分钟，具体依据你的网络情况而定。
 
