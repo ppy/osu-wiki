@@ -127,8 +127,8 @@ The osu! World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) and var
 
 | Team A | Team B | Match time |  |
 | --: | :-- | :-- | :-: |
-| South Korea ::{ flag=KR }:: | ::{ flag=DE }:: Germany | [Nov 27 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221127T120000&p1=1440&p2=235&p3=37) | [^potential-match] |
-| South Korea ::{ flag=KR }:: | ::{ flag=US }:: United States | [Nov 27 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221127T150000&p1=1440&p2=235&p3=263) | [^potential-match] |
+| South Korea ::{ flag=KR }:: | ::{ flag=US }:: United States | [Nov 27 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221127T030000&p1=1440&p2=235&p3=263) | [^potential-match] |
+| South Korea ::{ flag=KR }:: | ::{ flag=DE }:: Germany | [Nov 27 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221127T140000&p1=1440&p2=235&p3=37) | [^potential-match] |
 
 ## Mappools
 
