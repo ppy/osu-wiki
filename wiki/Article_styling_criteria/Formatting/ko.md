@@ -112,7 +112,7 @@ no_native_review: true
 
 *또한 [폴더 이름](#폴더-이름)와 [제목](#제목)도 참조하세요.*
 
-문서의 제목은 단수여야 하며, 문장의 첫 글자를 대문자로 작성해야 합니다. 자세한 내용은 [Wikipedia's naming conventions article](https://en.wikipedia.org/wiki/Wikipedia:Naming_conventions_(plurals))을 확인하세요.
+문서의 제목은 단수여야 하며, 문장의 첫 글자를 대문자로 작성해야 합니다. 자세한 내용은 [위키백과 명명 규칙 문서](https://en.wikipedia.org/wiki/Wikipedia:Naming_conventions_(plurals))을 확인하세요.
 
 문서의 제목은 폴더의 이름과 동일해야 합니다 (적절한 경우에 공백은 밑줄(`_`)로 대체할 수 있습니다). 폴더 이름을 변경했다면 문서 제목을 그에 맞게 변경해야 하며, 그 반대의 경우도 마찬가지입니다.
 
