@@ -136,11 +136,12 @@ Important to understand before using:
   - Cantonese metadata must be romanised by using the Jyutping system.
   - If the song falls into neither category, this choice is left up to the mapper's discretion and contacting a native speaker is recommended.
 - **Metadata in other languages not specifically covered in this section and lacking official romanisation from the artist must use a system common and recognisable for the language.** Contacting a native speaker is recommended to ensure accuracy in these cases.
+- **If a Unicode song title or artist has an official translation or romanisation provided by the artist, it must be used in the respective romanised field. Only if none are available may the fields be self-romanised.** If both a translation and romanisation are available, either may be used.
 
 ### Guidelines
 
 - **When a song is covered or remixed and has metadata varying from the original song, use common sense to determine whether the variation was a mistake or an intentional artist choice.**
-- **If multiple metadata options are available, priority should be given to the option which is most easily recognisable and traceable back to the original song or source.** Official romanisations and translations are preferred for romanised fields so long as they are easily found and commonly recognised.
+- **If multiple metadata options are available, priority should be given to the option which is most easily recognisable and traceable back to the original song or source.**
 
 #### Technical
 
@@ -165,7 +166,6 @@ Important to understand before using:
 This category contains explicit allowance statements of concepts and rules that are not commonly straightforward even after reading this whole section of the ranking criteria. In cases where there are multiple options available for a song's metadata, the above standardisation rules for the Ranked and Loved sections take priority.
 
 - **For songs where the composer(s) and singer(s) are different people, the singer(s) may be listed after the composer(s) or circle/group name following a `feat.` indicator.**
-- **If a Unicode song title or artist has an official translation or romanisation provided by the artist, it may be used in the respective romanised field. If both a translation and romanisation are available, either may be used.**
 - **If a beatmap's track was contributed to by multiple artists, they may be listed with commas in between.** If there are 3 or more contributing artists and they are not part of one officially labelled group, `Various Artists` or other descriptive artist labels may be used instead.
 - **For remixes, covers, or performances, the original artist may be used in the artist field, as long as the title field is modified to clearly show that the song is not the original version.** This marker should be in parentheses and contain the remix/cover artist or the performer as well as a descriptor.
 - **For live performances of a song, the title may include a `(Live Ver.)` marker.** Relevant details of the performance should be put in the beatmap description and tags, such as the date and location.
