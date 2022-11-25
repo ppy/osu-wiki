@@ -6,6 +6,7 @@ tags:
   - game modifier
   - PF
   - Spielmodifikation
+no_native_review: true
 ---
 
 # Perfect (Mod)

@@ -4,6 +4,7 @@ tags:
   - random
   - RD
   - Spielmodifikation
+no_native_review: true
 ---
 
 # Random (Mod)
