@@ -6,6 +6,7 @@ tags:
   - game modifier
   - HT
   - Spielmodifikation
+no_native_review: true
 ---
 
 # Half Time (Mod)

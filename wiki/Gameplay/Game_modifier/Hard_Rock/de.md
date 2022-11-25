@@ -6,6 +6,7 @@ tags:
   - game modifier
   - HR
   - Spielmodifikation
+no_native_review: true
 ---
 
 # Hard Rock (Mod)
