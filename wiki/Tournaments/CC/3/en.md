@@ -43,7 +43,7 @@ Corgi Cup III: April 2017 was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ::{ flag=FI }:: [M8gazine](https://osu.ppy.sh/users/5039710), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983) |
-| Mappool selector | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=AT }:: [omgforz](https://osu.ppy.sh/users/18983), ::{ flag=SE }:: [Kotayo](https://osu.ppy.sh/users/1730025) |
+| Mappool selector | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=AT }:: [omgforz](https://osu.ppy.sh/users/578943), ::{ flag=SE }:: [Kotayo](https://osu.ppy.sh/users/1730025) |
 | Streamer | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=US }:: [zelda101](https://osu.ppy.sh/users/4502238) |
 | Commentator | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983), ::{ flag=GB }:: [Doomsday is bad](https://osu.ppy.sh/users/3481378), ::{ flag=GB }:: [Isozaki](https://osu.ppy.sh/users/3987676), ::{ flag=GB }:: [Jerome](https://osu.ppy.sh/users/3391379), ::{ flag=GB }:: [Bubbleman](https://osu.ppy.sh/users/5182050), ::{ flag=DE }:: [Irate](https://osu.ppy.sh/users/7166084), ::{ flag=SE }:: [Kotayo](https://osu.ppy.sh/users/1730025) |
 | Designer | ::{ flag=GB }:: [Doomsday is bad](https://osu.ppy.sh/users/3481378) |

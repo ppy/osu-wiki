@@ -14,6 +14,8 @@ tags:
 
 *Pour la liste complète de tous les mods, voir : [modificateurs de jeu](/wiki/Game_modifier)*
 
+## À propos
+
 - Abréviation : MR
 - Type : Spécial
 - Multiplicateur de score : 1.00x

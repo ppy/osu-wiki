@@ -152,7 +152,7 @@ Mapset yang memiliki lagu yang berasal dari game ritme lain sering kali mengguna
 
 #### CHUNITHM
 
-- ![](/wiki/shared/diff/expertplus-o.png?20211215) WORLD'S END
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) ULTIMA / WORLD'S END
 
 #### Ongeki
 

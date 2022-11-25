@@ -14,7 +14,7 @@
 
 :::
 
-**osu!catch Modding & Mapping Hub** is a community [Discord](https://discord.com) server designated for all current and aspiring [osu!catch](/wiki/Game_mode/osu!catch) mappers and modders. Users are able to find many channels that help them grow as a mapper, or to interact with the general osu!catch mapping community.
+**osu!catch Modding & Mapping Hub** is a community [Discord](https://discord.com) server designated for all current and aspiring [osu!catch](/wiki/Game_mode/osu!catch) mappers and modders. Users are able to find many channels that help them grow as a mapper, or interact with the general osu!catch mapping community.
 
 The server mainly consists of:
 
@@ -28,8 +28,8 @@ The server mainly consists of:
 
 | Role | User (Discord handle) |
 | :-- | :-- |
-| Server Owner | ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/7131099) (ascendance#7599) |
-| Administrators | ::{ flag=PH }:: [-Rustyy](https://osu.ppy.sh/users/16355636) (Rustyy#2330), ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/7131099) (ascendance#7599), ::{ flag=CL }:: [Bastian](https://osu.ppy.sh/users/6345176) (Bastian#9611), ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565)(Deif#1111), ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) (Greaper#0001), ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) (JBHyperion#9178), ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134) (Jemzuu#2751), ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) (Andrew#2539), ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) (Guille#6703) |
+| Server Owner | ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) (ascendance#7599) |
+| Administrators | ::{ flag=PH }:: [-Rustyy](https://osu.ppy.sh/users/16355636) (Rustyy#2330), ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) (ascendance#7599), ::{ flag=CL }:: [Bastian](https://osu.ppy.sh/users/6345176) (Bastian#9611), ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565)(Deif#1111), ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) (Greaper#0001), ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) (JBHyperion#9178), ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134) (Jemzuu#2751), ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) (Andrew#2539), ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) (Guille#1111) |
 
 ## Verification
 

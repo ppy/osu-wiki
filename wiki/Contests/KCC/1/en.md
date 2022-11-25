@@ -36,7 +36,7 @@ The **Korean Charting Contest 2021** (***KCC2021***) is an osu!mania mapping con
 | Organiser | ::{ flag=KR }:: [Garalulu](https://osu.ppy.sh/users/757783) |
 | Manager | ::{ flag=KR }:: [Oni Suika](https://osu.ppy.sh/users/4848023) |
 | Designer | ::{ flag=KR }:: [POCARI SWEAT](https://osu.ppy.sh/users/5082685) |
-| Judge | ::{ flag=PL }:: [_underjoy](https://osu.ppy.sh/users/6392061), ::{ flag=KR }:: [Garalulu](https://osu.ppy.sh/users/757783), ::{ flag=GT }:: [Hoto Cocoa](https://osu.ppy.sh/users/6974536), ::{ flag=KR }:: [Kawawa](https://osu.ppy.sh/users/4647754), ::{ flag=KR }:: [Pengdoll](https://osu.ppy.sh/users/6392061) |
+| Judge | ::{ flag=PL }:: [_underjoy](https://osu.ppy.sh/users/2235750), ::{ flag=KR }:: [Garalulu](https://osu.ppy.sh/users/757783), ::{ flag=GT }:: [Hoto Cocoa](https://osu.ppy.sh/users/6974536), ::{ flag=KR }:: [Kawawa](https://osu.ppy.sh/users/4647754), ::{ flag=KR }:: [Pengdoll](https://osu.ppy.sh/users/6392061) |
 
 ## Links
 

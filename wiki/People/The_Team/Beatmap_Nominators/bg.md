@@ -68,7 +68,7 @@ tags:
 | ::{ flag=CN }:: [Dored](https://osu.ppy.sh/users/10284894) | Китайски |
 | ::{ flag=BE }:: [Een Persoon](https://osu.ppy.sh/users/10959501) | холандски |
 | ::{ flag=US }:: [eiri-](https://osu.ppy.sh/users/3388410) | испански |
-| ::{ flag=CA }:: [Elayue](https://osu.ppy.sh/users/6400861) |  |
+| ::{ flag=CN }:: [Elayue](https://osu.ppy.sh/users/6400861) |  |
 | ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  |
 | ::{ flag=UA }:: [Esutarosa](https://osu.ppy.sh/users/12024753) | украински |
 | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |  |
