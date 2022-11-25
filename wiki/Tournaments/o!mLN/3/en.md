@@ -31,11 +31,11 @@ The **osu!mania LN Tournament 3** (***o!mLN 3***) is a worldwide double-eliminat
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge (TBC), 50% of final prize pool |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of final prize pool |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of final prize pool |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge (TBC), US$60 |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | US$36 |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | US$24 |
 
-*Note: The prize pool has yet to be finalised. If any player/spectator of the tournament is interested in donating to the prize pool, please contact any of the organisers for more information.*
+Generous donations from ::{ flag=TH }:: [HowToPlayLN](https://osu.ppy.sh/users/10879600), ::{ flag=VN }:: [MashedPotato](https://osu.ppy.sh/users/10494860), and ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061) helped fund some of the prizes.
 
 ## Organisation
 
@@ -190,6 +190,56 @@ The osu!mania LN Tournament 3 is run by various community members.
 
 ## Mappools
 
+### Finals
+
+**[Download the mappack here! (207 MB)](https://drive.google.com/drive/folders/1Cw4uLSuFSInC4zPow7VkWB4UQiDUxRrf?usp=share_link)**
+
+- Coordination
+  1. [Miyashita Yuu - Endgame (doctormango) \[Dance of the Reaper\]](https://osu.ppy.sh/beatmapsets/1856605#mania/3815684)
+  2. [YOASOBI - Yoru ni Kakeru (gzdongsheng) \[LNight 1.1x (286bpm)\]](https://osu.ppy.sh/beatmapsets/1569356#mania/3204773)
+  3. [KURORAK - Gamma Stop Giving Me Hard Bags (chxu) \[LNettuce\]](https://osu.ppy.sh/beatmapsets/1888615#mania/3889592)
+- Technical
+  1. [Outsider - Acquaintance (FelixSpade) \[LN Prodigy\]](https://osu.ppy.sh/beatmapsets/1868638#mania/3844290)
+  2. [Mono. - Susceptible (DannyPX) \[Influenced\]](https://osu.ppy.sh/beatmapsets/1889156#mania/3890770)
+  3. [Sta feat. Ice - Cathedral (Micleak) \[Exposure to a downpour of sunlight and a thousand chords held in\]](https://osu.ppy.sh/beatmapsets/1865981#mania/3838235)
+  4. [phonon - Polyriddim (Izadi House Flip) (ERA Hatsuki) \[FunKatsu's ratJAM v2.0\]](https://osu.ppy.sh/beatmapsets/1851364#mania/3803970)
+- Wildcard
+  1. [xi vs. Kaneko Chiharu - Op.I \<fear-TITAN-\> (MyZterioN-) \[Theia 1.05x\]](https://osu.ppy.sh/beatmapsets/1882752#mania/3876326)
+  2. [Laur - Nostalgic Blood of the Strife (Logan636) \[Logan x Felix's World End\]](https://osu.ppy.sh/beatmapsets/1889195#mania/3890953)
+  3. [uma vs. Morimori Atsushi - Re:End of a Dream (FelixSpade) \[Raveille vs. Felix's Awaken\]](https://osu.ppy.sh/beatmapsets/1889177#mania/3890920)
+  4. [Camellia - Sulfide (Cut Ver.) (Micleak) \[Acetification\]](https://osu.ppy.sh/beatmapsets/1888853#mania/3890073)
+  5. [Hatsuki yura - confession -Mitsuyaku Language- (ERA Hatsuki) \[Akatsumi's Confession to eZmmR (Full Vers) \[1.15x Rate\]\]](https://osu.ppy.sh/beatmapsets/1861215#mania/3856909)
+- Density
+  1. [Helblinde - Grief & Malice (FelixSpade) \[LN Prodigy (cut) 1.15x (230bpm)\]](https://osu.ppy.sh/beatmapsets/1853497#mania/3859925)
+  2. [DRIVE. - SO GRAND. (DannyPX) \[EDITED\]](https://osu.ppy.sh/beatmapsets/1889155#mania/3890768)
+  3. [beatMARIO (COOL&CREATE) - Lunatic Eyes \~ Invisible Full Moon (Cut Ver.) (TheFunk) \[Blood Moon 1.1x (220bpm)\]](https://osu.ppy.sh/beatmapsets/1888601#mania/3889545)
+  4. [xi - Event Hor!zon (FelixSpade) \[LN Prodigy 1.1x (220bpm)\]](https://osu.ppy.sh/beatmapsets/1872786#mania/3859933)
+- Tiebreaker
+  1. **[rN vs. \[Shanom, ptar124 & Zekai\] - dichroma, ludiosia. (HowToPlayLN) \[dilemma\]](https://osu.ppy.sh/beatmapsets/1889170#mania/3890904)**
+
+### Semifinals
+
+- Coordination
+  1. [Feryquitous - Vend (galtonist) \[The girl who got expelled from her planet (Short ver.)\]](https://osu.ppy.sh/beatmapsets/1201343#mania/2581084)
+  2. [UNISON SQUARE GARDEN - Sugar Song to Bitter Step (Hylotl) \[LN\]](https://osu.ppy.sh/beatmapsets/1785404#mania/3656916)
+  3. [Virtual Riot - Bossfight Afterparty (Paturages) \[Raid Shadow Legends\]](https://osu.ppy.sh/beatmapsets/1884860#mania/3880809)
+- Technical
+  1. [nitro - qualia -ideaesthesia- (doctormango) \[interperception\]](https://osu.ppy.sh/beatmapsets/1867902#mania/3842429)
+  2. [Crayvxn - Crank It (TheFunk) \[Crankin (Edit)\]](https://osu.ppy.sh/beatmapsets/1849899#mania/3878417)
+  3. [Feryquitous - Dille (\[Crz\]Crysarlene) \[(edit) => { return edit }\]](https://osu.ppy.sh/beatmapsets/1270439#mania/3881139)
+- Wildcard
+  1. [xi - Inixia (FelixSpade) \[LN Prodigy\]](https://osu.ppy.sh/beatmapsets/1852937#mania/3807300)
+  2. [LeaF - Heavensdoor (Penguinosity) \[Disruption\]](https://osu.ppy.sh/beatmapsets/1474778#mania/3026551)
+  3. [Kobaryo - SUPER EMULATOR \[feat. HiTNEX-X\] (HowToPlayLN) \[ENGINE DESTRUCTION \[1.05x Rate\]\]](https://osu.ppy.sh/beatmapsets/1884776#mania/3880637)
+  4. [Feryquitous/xi - Orca (gzdongsheng) \[Broken\]](https://osu.ppy.sh/beatmapsets/1591869#mania/3251235)
+- Density
+  1. [polysha - All we need is HAPPY (WORLD'S) END. (DannyPX) \[Sekaowa\]](https://osu.ppy.sh/beatmapsets/1885008#mania/3881124)
+  2. [Persian Groovies - Phoenix \[feat. Kobaryo\] (-MysticEyes) \[ResurrectioLN 1.1x\]](https://osu.ppy.sh/beatmapsets/816319#mania/3021012)
+  3. [BlackY - LAMIA (MyZterioN-) \[Nirvard (edit)\]](https://osu.ppy.sh/beatmapsets/1693630#mania/3880733)
+  4. [MAX MAXIMIZER - Tortura (\[Crz\]Crysarlene) \[Distress\]](https://osu.ppy.sh/beatmapsets/1065944#mania/2232022)
+- Tiebreaker
+  1. **[Imperial Circus Dead Decadence - Jashin no Konrei, Giha Ai to Shiru (juankristal) \[juanderjoy's Sakuya \[Nerf Ver\]\]](https://osu.ppy.sh/beatmapsets/1884424#mania/3879904)**
+
 ### Quarterfinals
 
 **[Download the mappack here! (127 MB)](https://drive.google.com/drive/folders/1tIa27MmLxpD-Ko9B0FQmJKwukWgHP-Nz?usp=sharing)**
@@ -296,6 +346,54 @@ The osu!mania LN Tournament 3 is run by various community members.
   1. [II-L - Unidentified Frequency Op.1 (Type-Adamski) (HowToPlayLN) \[Unidentified Qualifiers Stage 4: (Type-Density)\]](https://osu.ppy.sh/beatmapsets/1863195#mania/3831323)
 
 ## Match results
+
+### Semifinals
+
+Saturday, 19 November 2022:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **UmmmMrMoo** ::{ flag=CA }:: | **6** | 3 | ::{ flag=KR }:: gaesol | [#1](https://osu.ppy.sh/community/matches/105144442) |
+| **--Pavin--** ::{ flag=TH }:: | **6** | 1 | ::{ flag=ID }:: Onta\_Bekasi | [#1](https://osu.ppy.sh/community/matches/105150732) |
+| jhleetgirl ::{ flag=JP }:: | 3 | **6** | ::{ flag=CZ }:: **grillroasted** | [#1](https://osu.ppy.sh/community/matches/105151610) |
+| **TingMomentum** ::{ flag=GB }:: | **6** | 4 | ::{ flag=MY }:: xxxxxx2800 | [#1](https://osu.ppy.sh/community/matches/105152800) |
+| MIkuaimbot ::{ flag=TH }:: | 5 | **6** | ::{ flag=PH }:: **Silhoueska Elze** | [#1](https://osu.ppy.sh/community/matches/105155475) |
+
+Sunday, 20 November 2022:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **grillroasted** ::{ flag=CZ }:: | **6** | 5 | ::{ flag=GB }:: TingMomentum | [#1](https://osu.ppy.sh/community/matches/105177609) |
+| **--Pavin--** ::{ flag=TH }:: | **6** | 3 | ::{ flag=CA }:: UmmmMrMoo | [#1](https://osu.ppy.sh/community/matches/105181060) |
+| **DemiFiendSMT** ::{ flag=BR }:: | **6** | 3 | ::{ flag=US }:: GripWarrior | [#1](https://osu.ppy.sh/community/matches/105183677) |
+
+### Quarterfinals
+
+Saturday, 12 November 2022:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| SunApple ::{ flag=US }:: | 0 | **6** | ::{ flag=ID }:: **Onta\_Bekasi** | [#1](https://osu.ppy.sh/community/matches/105007024) |
+| **Flying Samira** ::{ flag=KR }:: | **6** | 0 | ::{ flag=TH }:: Achino | [#1](https://osu.ppy.sh/community/matches/105011559) |
+| -Aishiteru- ::{ flag=SG }:: | -1 | **0** | ::{ flag=MY }:: **xxxxxx2800** | *win by default* |
+| **Lami-** ::{ flag=KR }:: | **6** | 4 | ::{ flag=ES }:: ShiroPeDeFresa | [#1](https://osu.ppy.sh/community/matches/105013657) |
+| **MIkuaimbot** ::{ flag=TH }:: | **6** | 3 | ::{ flag=TH }:: --Pavin-- | [#1](https://osu.ppy.sh/community/matches/105015030) |
+| **gaesol** ::{ flag=KR }:: | **6** | 1 | ::{ flag=US }:: DarkMew2 | [#1](https://osu.ppy.sh/community/matches/105016227) |
+| **grillroasted** ::{ flag=CZ }:: | **6** | 3 | ::{ flag=AU }:: ruka | [#1](https://osu.ppy.sh/community/matches/105016126) |
+| **Auraah** ::{ flag=FR }:: | **6** | 1 | ::{ flag=HK }:: zero2snow | [#1](https://osu.ppy.sh/community/matches/105021741) |
+| Shoira ::{ flag=NL }:: | 0 | **6** | ::{ flag=US }:: **ASharpp** | [#1](https://osu.ppy.sh/community/matches/105028048) |
+
+Sunday, 13 November 2022:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **grillroasted** ::{ flag=CZ }:: | **6** | 1 | ::{ flag=KR }:: Flying Samira | [#1](https://osu.ppy.sh/community/matches/105036295) |
+| Lami- ::{ flag=KR }:: | 3 | **6** | ::{ flag=ID }:: **Onta\_Bekasi** | [#1](https://osu.ppy.sh/community/matches/105038661) |
+| ASharpp ::{ flag=US }:: | 1 | **6** | ::{ flag=KR }:: **gaesol** | [#1](https://osu.ppy.sh/community/matches/105042431) |
+| **DemiFiendSMT** ::{ flag=BR }:: | **6** | 0 | ::{ flag=JP }:: jhleetgirl | [#1](https://osu.ppy.sh/community/matches/105042344) |
+| Auraah ::{ flag=FR }:: | 2 | **6** | ::{ flag=MY }:: **xxxxxx2800** | [#1](https://osu.ppy.sh/community/matches/105042287) |
+| **Silhoueska Elze** ::{ flag=PH }:: | **6** | 0 | ::{ flag=CA }:: UmmmMrMoo | [#1](https://osu.ppy.sh/community/matches/105043667) |
+| TingMomentum ::{ flag=GB }:: | 1 | **6** | ::{ flag=US }:: **GripWarrior** | [#1](https://osu.ppy.sh/community/matches/105050151) |
 
 ### Round of 16
 
