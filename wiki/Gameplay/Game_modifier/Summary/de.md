@@ -2,11 +2,6 @@
 
 *Hauptseite: [Spielmodifikationen](/wiki/Game_modifier)*
 
-<!-- READ BEFORE EDITING:
-- Mods are listed in order of appearance on the Mod Selection screen.
-  - osu! is treated as the default and will be displayed before osu!mania specific mods; with exception to "experimental" mods.
-  - SV2, TP, and DC are listed last because they are considered "experimental". -->
-
 *Anmerkung: Alle in osu!mania verwendeten Mods erhöhen niemals den Score-Multiplikator.*
 
 | Mod | Name (Abkürzung) | Multiplikator | Untertitel |
