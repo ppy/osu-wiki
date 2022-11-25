@@ -28,7 +28,7 @@ no_native_review: true
 
 Die Mod **No Fail** ist eine [Spielmodifikation](/wiki/Game_modifier), die verhindert, dass Spieler [Beatmaps](/wiki/Beatmap) nicht bestehen. Das Aktivieren der Mod No Fail sorgt dafür, dass es unmöglich ist, eine [Beatmap](/wiki/Beatmap) nicht zu bestehen, selbst wenn die [Lebensleiste](/wiki/Client/Interface/Health_bar) auf 0 fällt. Wenn ein Spieler jedoch keine Punkte während dem Spielen erzielt hat, *scheitert* das Spiel dennoch.
 
-Seit dem 16. Januar 2021 kann die Mod No Fail eine bestimmte Minderung der [Performance-Punkte](/wiki/Performance_points) vergeben, die ein Spieler erhält, abhängig davon, wie viele Misses er hat. Ausgehend von einem Basiswert von 1,0x (100 %), wird jeder Miss den Multiplikator für den Gewinn von Performance-Punkten um -0,02x (0,5 %) verringern, bis zu einem Maximum von 0,9x (90 %).<!-- pp change newspost: https://osu.ppy.sh/home/news/2021-01-14-performance-points-updates -->
+Seit dem 16. Januar 2021 kann die Mod No Fail eine bestimmte Minderung der [Performance-Punkte](/wiki/Performance_points) vergeben, die ein Spieler erhält, abhängig davon, wie viele Misses er hat. Ausgehend von einem Basiswert von 1,0x (100 %), wird jeder Miss den Multiplikator für den Gewinn von Performance-Punkten um -0,02x (0,5 %) verringern, bis zu einem Maximum von 0,9x (90 %).
 
 Diese Mod hat denselben Effekt in allen [Spielmodi](/wiki/Game_mode).
 
