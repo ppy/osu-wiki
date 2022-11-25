@@ -12,6 +12,8 @@ tags:
 
 *Untuk melihat daftar keseluruhan dari semua mod, kunjungi: [Game Modifier](/wiki/Game_modifier)*
 
+## Tentang
+
 - Singkatan: MR
 - Tipe: Spesial
 - Pengali Skor: 1.00x
