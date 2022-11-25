@@ -111,19 +111,19 @@ The GB Cup 2022 Autumn is run by the Team GB and various community members.
 
 | Team A | Team B | Match time (UTC+8) |
 | --: | :-- | :-- |
-| 铁戈金马 | 上课军训补课反正凑不齐人 | Nov 26 (Sat) 17:00 |
-| 黎曼猜想 | 都什么年代还在玩传统音游 | Nov 26 (Sat) 19:00 |
+| 俄亥俄州立大学躁狂播放器 | 奖励一把大天空 | Nov 26 (Sat) 16:00 |
+| 黎曼猜想 | 都什么年代还在玩传统音游 | Nov 26 (Sat) 18:30 |
+| 铁戈金马 | 上课军训补课反正凑不齐人 | Nov 26 (Sat) 19:30 |
+| 经典米托镂空鱼香鸡肉丸 | 队名太多不知道用哪个 | Nov 26 (Sat) 19:30 |
+| 猫猫面馆 | 近月少女的礼仪 | Nov 26 (Sat) 20:00 |
 | ban位先ban行李箱 | BMS精灵 | Nov 26 (Sat) 20:30 |
-| 又一个倒霉蛋 | DAMWONGaming | Nov 26 (Sat) 22:00 |
+| 均衡教派 | SV狗都不玩 | Nov 26 (Sat) 22:20 |
 
 ### Sunday, 27 November 2022
 
 | Team A | Team B | Match time (UTC+8) |
 | --: | :-- | :-- |
-| 均衡教派 | SV狗都不玩 | Nov 27 (Sun) 17:00 |
-| 经典米托镂空鱼香鸡肉丸 | 队名太多不知道用哪个 | Nov 27 (Sun) 19:00 |
-| 俄亥俄州立大学躁狂播放器 | 奖励一把大天空 | Nov 27 (Sun) 20:30 |
-| 猫猫面馆 | 近月少女的礼仪 | Nov 27 (Sun) 22:00 |
+| 又一个倒霉蛋 | DAMWONGaming | Nov 27 (Sun) 21:00 |
 
 ## Mappools
 
@@ -144,7 +144,7 @@ The GB Cup 2022 Autumn is run by the Team GB and various community members.
   2. [3L - Miracle Hinacle (-Deepdive-) \[Misfortune DispelLN (cut) 1.15x (186bpm) OD7.5\]](https://osu.ppy.sh/beatmapsets/1298827#mania/3862920)
   3. [technoplanet - Intuition (11Bit) \[Instinct\]](https://osu.ppy.sh/beatmapsets/1737565#mania/3551424)
 - LN
-  1. [DECO*27/Giga-P - Cinderella (\[GB\]Mafufu) (\[Crz\]Crysarlene) \[Last Midnight\]](https://osu.ppy.sh/beatmapsets/1871407#mania/3850415)
+  1. [DECO*27/Giga-P - Cinderella (\[GB\]Mafufu) \[Last Midnight\]](https://osu.ppy.sh/beatmapsets/1871407#mania/3850415)
   2. [senya - Youyoumu no Gotoku (\[GB\]Sanae) \[Truth\]](https://osu.ppy.sh/beatmapsets/1771856#mania/3627515)
   3. [WolF.R - Snow Wish (Muses) \[Frozen edit\]](https://osu.ppy.sh/beatmapsets/1451720#mania/2985094)
   4. [AAAA - Carnation (MyZterioN-) \[Stage 4: Dianthus\]](https://osu.ppy.sh/beatmapsets/1789154#mania/3665962)
@@ -175,9 +175,9 @@ The GB Cup 2022 Autumn is run by the Team GB and various community members.
   3. [M2U - Gypsy Tronic (Stability) \[Raveille\]](https://osu.ppy.sh/beatmapsets/851610#mania/1780158)
 - SV
   1. [Ruins (Neomorph remix) (Paturages) \[Shambles (edit)\]](https://osu.ppy.sh/beatmapsets/1367133#mania/3154187)
-  2. [sakuraburst - cherry blossoms explode across the dying horizon (Cut Ver.) (Lott) \[Lott & Dub's GD (cut+edit ver.) \[Custom\]\]](https://osu.ppy.sh/beatmapsets/1855227#mania/3812406)
+  2. [sakuraburst - cherry blossoms explode across the dying horizon (Cut Ver.) (Lott) \[Lott & Dub's GD (cut+edit ver.) \[Custom\]\]](https://osu.ppy.sh/beatmapsets/1880227#mania/3870925)
 - Tiebreaker
-  1. **[Ayaponzu\* - Watashi Wa Sore O Gamandekinai (-Deepdive-) \[Saturated\]](https://osu.ppy.sh/beatmapsets/1871551#mania/3850844)**
+  1. **[Ayaponzu\* - Watashi Wa Sore O Gamandekinai (-Deepdive-) \[Saturated\]](https://osu.ppy.sh/beatmapsets/1855227#mania/3812406)**
 
 ### Regular stage week 1 & 2
 
