@@ -27,7 +27,7 @@ Für alle anderen Begriffe muss osu! als einzelnes Nomen behandelt werden. Das b
 
 #### Einfarbig
 
-![](img/usage-single-colour.png  "Einfarbiges osu!-Logo")
+![](img/usage-single-colour.png "Einfarbiges osu!-Logo")
 
 Das ist die einfarbige Version des osu!-Cookie-Logos. Diese Version des Logos ist sehr vielseitig und kann auf viele Designstile angewendet werden.
 
@@ -79,7 +79,7 @@ Da osu! von der Community betrieben wird, ist das osu!-Cookie-Logo als ein einfa
 
 Da osu! von der Community betrieben wird, ist das osu!-Cookie-Logo als ein einfaches und flexibles Logo konzipiert. Es kann mit Leichtigkeit auf viele Designs angepasst werden. Bitte benutze das Logo so wie es ist, ohne Änderungen. Alle Beschränkungen für den einfarbigen Cookie gelten auch für den vollfarbigen Cookie.
 
-![](img/restrictions-bad-full.png "Ünzulässige Änderungen des vollfarbigen osu!-Logos")
+![](img/restrictions-bad-full.png "Unzulässige Änderungen des vollfarbigen osu!-Logos")
 
 - Verwende **nicht** den alten Cookie.
 - Benutze **keinen** anderen pinken Farbton.

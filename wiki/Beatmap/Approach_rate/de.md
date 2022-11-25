@@ -13,7 +13,7 @@ tags:
 
 AR-Werte reichen von 0 bis 10. Höhere ARs bedeuten, dass Hit-Objekte für eine kürzere Zeitspanne sichtbar sind, was bedeutet, dass Spieler weniger Zeit zum Reagieren haben. Andererseits erlauben niedrigere ARs mehr Reaktionszeit, können aber dazu führen, dass zu viele Hit-Objekte gleichzeitig auf dem Bildschirm erscheinen.
 
-In [osu!taiko](/wiki/Game_mode/osu!taiko) und [osu!mania](/wiki/Game_mode/osu!mania) hat die Einstellung der Approach-Rate keinen Effekt. Die Scroll-Geschwindigkeit wird in beiden Modi von der [Slider-Geschwindigkeit](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) kontrolliert, die von den [BPM](/wiki/Music_theory/Tempo) und dem Slider-Geschwindigkeitsmultiplikator abhängt. Außerdem kann das in osu!mania [vom Spieler selbst](/wiki/Game_mode/osu!mania#speed-change) angepasst werden.
+In [osu!taiko](/wiki/Game_mode/osu!taiko) und [osu!mania](/wiki/Game_mode/osu!mania) hat die Einstellung der Approach-Rate keinen Effekt. Die Scroll-Geschwindigkeit wird in beiden Modi von der [Slider-Geschwindigkeit](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) gesteuert, die von den [BPM](/wiki/Music_theory/Tempo) und dem Slider-Geschwindigkeitsmultiplikator abhängt. Außerdem kann das in osu!mania [vom Spieler selbst](/wiki/Game_mode/osu!mania#speed-change) angepasst werden.
 
 ## Timing der Animationen
 
