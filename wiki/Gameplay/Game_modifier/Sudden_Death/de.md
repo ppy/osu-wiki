@@ -46,7 +46,7 @@ Diese Mod hat denselben Effekt in allen [Spielmodi](/wiki/Game_mode).
 
 ### Trivia
 
-- Sofern die Mod Sudden Death aktiviert ist, führt das Verfehlen einer Note zum Erscheinen einer extra großen Miss-Abbildung in [osu!](/wiki/Game_mode/osu!).
+- Sofern die Mod Sudden Death aktiviert ist, führt das Verfehlen einer Note zum Erscheinen eines extra großen Bilds für einen Misserfolg in [osu!](/wiki/Game_mode/osu!).
 - Beim Spielen in osu! mit der Mod Sudden Death gibt es seltene Fälle, bei denen Spieler eine Leerung der gesamten Lebensleiste für das Abbrechen der Combo überleben können. Wenn es dem Spieler gelungen ist, zumindest einen Teil seiner Gesundheit zu erhalten, indem er in einer sehr kurzen Zeitspanne einen Slidertick absolviert hat, kurz nachdem die Combo brach und bevor die Lebensleiste auf 0 fiel, kann der Spieler die Beatmap weiterspielen und es werden keine großen Miss-Abbildungen angezeigt.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
