@@ -22,7 +22,7 @@ Este conjunto de **criterios de clasificación de osu!mania** establece [reglas 
 - **Column**: Líneas verticales en el campo de juego donde las notas son colocadas. El editor usa `0|1|2|3|4|5|6|7|8|9` para las etiquetas de marcas de tiempo.
 - **Key mode**: La cantidad de columnas presentes en una dificultad.
 - **Keysounding**: Aplicar hitsounds que son extremadamente similar o directamente de la canción en sus respectivos lugares. Este método de hitsounding generalmente proporciona poca retroalimentación al jugador.
-- **Slider velocity**: La velocidad a la que se mueven las notas/barras en el campo de juego. La velocidad base del slider (1,0x) se basa en la velocidad de desplazamiento del usuario y se pueden realizar cambios adicionales a través de puntos de tiempo heredados (verdes).
+- **Slider velocity**: La velocidad a la que se mueven las notas/barras en el campo de juego. La velocidad base del slider (1.0x) se basa en la velocidad de desplazamiento del usuario y se pueden realizar cambios adicionales a través de puntos de tiempo heredados (verdes).
 - **Long-term slider velocity**:Un cambio de velocidad del slider que dura más de 4 compases.
 - **Musical phrase**: Una unidad independiente musical que suele ser de 4 compases de largo.
 - **Short-term slider velocity**: Un cambio en la velocidad de deslizamiento que dura menos que 1/2 de un pulso.
