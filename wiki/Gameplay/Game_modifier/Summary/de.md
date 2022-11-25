@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Zusammenfassung der Spielmodifikationen
 
 *Hauptseite: [Spielmodifikationen](/wiki/Game_modifier)*
