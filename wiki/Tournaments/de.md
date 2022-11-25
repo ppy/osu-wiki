@@ -640,7 +640,7 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [GB Cup 2022 Spring](GBC/GBC_2022_Spring) | 09.04.2022 | 15.05.2022 | 金戈铁马的鲜丰水果摊 | 太美丽了理塘 | GBC最强阵容9个Miyes |
-| [GB Cup 2022 Autumn](GBC/GBC_2022_Autumn) | 2022-10-15 | 2022-12-18 | *TBD* | *TBD* | *TBD* |
+| [GB Cup 2022 Autumn](GBC/GBC_2022_Autumn) | 15.10.2022 | 18.12.2022 | *TBD* | *TBD* | *TBD* |
 
 #### Mania Beginner's Showdown
 
