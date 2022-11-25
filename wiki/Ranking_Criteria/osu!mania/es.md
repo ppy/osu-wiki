@@ -25,7 +25,7 @@ Este conjunto de **criterios de clasificación de osu!mania** establece [reglas 
 - **Slider velocity**: La velocidad a la que se mueven las notas/barras en el campo de juego. La velocidad base del slider (1.0x) se basa en la velocidad de desplazamiento del usuario y se pueden realizar cambios adicionales a través de puntos de tiempo heredados (verdes).
 - **Long-term slider velocity**:Un cambio de velocidad del slider que dura más de 4 compases.
 - **Musical phrase**: Una unidad independiente musical que suele ser de 4 compases de largo.
-- **Short-term slider velocity**: Un cambio en la velocidad de deslizamiento que dura menos que 1/2 de un pulso.
+- **Short-term slider velocity**: Un cambio en la velocidad del slider que dura menos que 1/2 de un pulso.
 
 ### Patrones
 
@@ -35,12 +35,12 @@ Este conjunto de **criterios de clasificación de osu!mania** establece [reglas 
 - **Chordstream (Jumpstream, Handstream, Quadstream)**: Streams que mezclan diferentes tipos de chords.
 - **Grace**: Dos o más notas presionadas en sucesión rápida, generalmente usando snaps de o más de 1/6.
 - **Hand**: Tres notas presionadas al mismo tiempo. Ocasionalmente referida como una "triple".
-- **Jack**: Tres o más notas consecutivas en la misma columna, usualmente presionada a un ritmo más rápido que las notas aledañas.
+- **Jack**: Tres o más notas consecutivas en la misma columna, usualmente presionadas a un ritmo más rápido que las notas aledañas.
 - **Jump**: Dos notas presionadas al mismo tiempo. Ocasionalmente referida como una "doble".
 - **Jumptrill**: Un trill consistiendo en dos jumps que alternan.
 - **Minijack**: Dos notas consecutivas en la misma columna, usualmente presionadas a un ritmo más rápido que las notas aledañas.
 - **Release**: El final de una nota larga el cual debe soltarse en una cierta ventana de tiempo para poder conseguir el puntaje completo apropiadamente.
-- **Roll**: Una variación del stream que consiste de notas que van desde la primera columna hasta lo ultima o desde la última hasta la primera, usualmente en sucesión rápida.
+- **Roll**: Una variación del stream que consiste de notas que van desde la primera columna hasta la ultima o desde la última hasta la primera, usualmente en sucesión rápida.
 - **Shield**: Una nota que aparece en la misma columna inmediatamente antes del inicio de una nota larga.
 - **Split-jumptrill**: Un jumptrill que requiere el uso de las dos manos al mismo tiempo para ser realizado correctamente (ej. dos trills de una mano).
 - **Stream**: Notas constantes con el mismo intervalo por al menos una pulsación que no se repite para crear un minijack.
@@ -50,7 +50,7 @@ Consulte [Guía de mapping de osu!mania](/wiki/Guides/osu!mania_Mapping_Guide) p
 
 ## General
 
-Las reglas y pautas generales se aplican a todo tipo de dificultad de osu!mania. Las reglas y pautas relacionadas con el ritmo se aplican a beatmaps de aproximadamente 180 BPM con compases de 4/4. Si tu canción es drásticamente más rápida o más lenta, algunas variables pueden ser diferentes, como se detalla en [Escalado de BPM en los criterios de clasificación](/wiki/Ranking_Criteria/Scaling_BPM)
+Las reglas y pautas generales se aplican a todo tipo de dificultad de osu!mania. Las reglas y pautas relacionadas con el ritmo se aplican a beatmaps de aproximadamente 180 BPM con compases de 4/4. Si su canción es drásticamente más rápida o más lenta, algunas variables pueden ser diferentes, como se detalla en [Escalado de BPM en los criterios de clasificación](/wiki/Ranking_Criteria/Scaling_BPM)
 
 ### Reglas 
 
@@ -75,16 +75,16 @@ Las reglas y pautas generales se aplican a todo tipo de dificultad de osu!mania.
 - **Las notas largas deben ser presionadas por al menos 1/12 de una pulsación.** Tiempos de agarre más rápido no son razonables para poder obtener completa precisión.
 - **Evite usar hitsound sampleados en el storyboard con un volumen similar a los sonidos de las notas.** Como los hitsound pueden agobiar y distorsionar la retroalimentación de audio de los objetos en el beatmap, poner sonidos encima de la nota obtiene prioridad. Sin embargo, samples del storyboard pueden ser agregados como keysound si son extraídos directamente de la canción y cuando las dificultades bajas tienen una poca cantidad de notas para soportar los hitsound.
 - **No utilice keysounds sin un hitnormal como soporte.** Si los hitsounds o hitsound del storyboard se mezclan perfectamente con la canción, la retroalimentación para estas notas es mínima. Sin embargo, cuando los keysounds son extraídos directamente de la canción y usados como un reemplazo del audio, el hitnormal no es requerido.
-- **Evite usar el mismo hitsound para múltiples notas en un chord.** Esto causa que la retroalimentación del audio se más alta de lo necesario. Esto también aplica para los hitsounds y storyboard hitsounds usados en la misma marca de tiempo.
-- **Los cambios de tiempo deben tener una velocidad de desplazamiento unificada ajustando la velocidad del slider.** Esto se hace normalizando la velocidad de desplazamiento de todas las secciones con cambios de tiempo a la que más se usa en el beatmap. Este nombre es mostrado en paréntesis después del rango de BPM en el menú de selección ej. `BPM: 60-160 (130)`. Tener en cuenta que esta pauta no afecta la habilidad de agregar cambios de velocidades que son usados para crear efectos de SV.
-- **Los cambios de la velocidad de desplazamiento deben seguir la intensidad general de la canción.**
-- **Los cambios de la velocidad de desplazamiento deben ser puestos en su snap correspondiente a la estructura de la canción.** Si la estructura de la canción usa una métrica derecha, 1/4, 1/8, 1/16 debe ser usado. Si la canción usa la métrica de swing, 1/6, 1/12 debe ser usado. Si la canción tiene el golpe fuerte en alguna otra posición tomando en cuenta las que ya se mencionaron, el snap debe caer en el golpe fuerte.
+- **Evite usar el mismo hitsound para múltiples notas en un chord.** Esto causa que la retroalimentación del audio se más alta de lo necesario. Esto también aplica para los hitsounds activos y storyboard hitsounds usados en la misma marca de tiempo.
+- **Los cambios de tiempo deben tener una velocidad de desplazamiento unificada ajustando la velocidad del slider.** Esto se hace normalizando la velocidad de desplazamiento de todas las secciones con cambios de tiempo a la que más se usa en el beatmap. Este nombre es mostrado en paréntesis después del rango de BPM en el menú de selección ej. `BPM: 60-160 (130)`. Tener en cuenta que esta pauta no afecta la habilidad de agregar cambios de velocidades del slider que son usados para crear efectos de SV.
+- **Los cambios de la velocidad del slider deben seguir la intensidad general de la canción.**
+- **Los cambios de la velocidad del slider deben ser puestos en su snap correspondiente a la estructura de la canción.** Si la estructura de la canción usa una métrica derecha, 1/4, 1/8, 1/16 debe ser usado. Si la canción usa la métrica de swing, 1/6, 1/12 debe ser usado. Si la canción tiene el golpe fuerte en alguna otra posición tomando en cuenta las que ya se mencionaron, el snap debe caer en el golpe fuerte.
 - **Evite spammear segmentos de kiai cortos.** Hacer esto puede ser distrayente y puede afectar la jugabilidad de un beatmap negativamente.
-- **Los descansos deberían ser utilizados solamente cuando la sección de la música este extremadamente calmada o silenciosa.** Dificultades bajas, especialmente en canciones con BPM alto, puede usar descansos para evitar partes de la canción que sería irrazonable para nuevos jugadores jugar.
+- **Los descansos deberían ser utilizados solamente cuando la sección de la música este extremadamente calmada o silenciosa.** Dificultades bajas, especialmente en canciones con BPM alto, pueden usar descansos para evitar partes de la canción que sería irrazonable para nuevos jugadores jugar.
 
 ## Dificultades específicas
 
-Las reglas y pautas para las dificultades especificas solo aplican al nivel que está estipulado y por ende *no aplica para **todas** las dificultades de osu!mania. Reglas y pautas relacionadas al ritmo aplican para beatmaps de aproximadamente 180 BPM. Si tu canción es drásticamente más rápida o lenta, algunas variables pueden ser diferentes, como se detalla en [Escalado de BPM en los criterios de clasificación](/wiki/Ranking_Criteria/Scaling_BPM).
+Las reglas y pautas para las dificultades especificas solo aplican al nivel que está estipulado y por ende *no aplica para **todas** las dificultades de osu!mania. Reglas y pautas relacionadas al ritmo aplican para beatmaps de aproximadamente 180 BPM. Si su canción es drásticamente más rápida o lenta, algunas variables pueden ser diferentes, como se detalla en [Escalado de BPM en los criterios de clasificación](/wiki/Ranking_Criteria/Scaling_BPM).
 
 *Las reglas específicas de teclas están construidas a partir de los modos clasificados más comunes (4 teclas y 7 teclas). Cualquier otro modo de tecla debe aplicar estas pautas cuando se pueda.*
 
@@ -92,7 +92,7 @@ Las reglas y pautas para las dificultades especificas solo aplican al nivel que 
 
 #### Reglas
 
-- **Los cambios de la velocidad de deslizamiento que alteren la velocidad de un beatmap están prohibidos.** Los cambios de velocidad que unifican el deslizamiento de una canción con BPM variable están exentos.
+- **Los cambios de la velocidad del slider que alteren la velocidad de un beatmap están prohibidos.** Los cambios de la velocidad del slider que unifican el desplazamiento de una canción con BPM variable están exentos.
 - **La normalización del desplazamiento se debe hacer en beatmaps con BPM variable.**
 
 #### Pautas
@@ -102,7 +102,7 @@ Las reglas y pautas para las dificultades especificas solo aplican al nivel que 
 - **Las notas largas deben ser presionadas por al menos una pulsación.** Soltar la nota más rápido que esto prueba ser difícil para jugadores de este nivel.
 - **El final o release de las notas largas deben estar al menos a una pulsación separada de cada una.** Brechas más pequeñas que esto requieren un nivel de independencia de los dedos que estos jugadores de esta dificultad no pueden manejar.
 - **Objetos no deben de ser puestos mientras una nota larga de 1/1 se presiona.** Sin embargo, poner un objeto al principio o final de dicha nota está bien.
-- **La densidad de las notas debería de consistir en mayormente 1/1, 1/2 ocasional, o ritmos más lentos.**
+- **La densidad de las notas debería de consistir mayormente en 1/1, 1/2 ocasional, o ritmos más lentos.**
 - **Evite usar más de 5 notas consecutivas de 1/2.**
 - **Evite usar chords durante patrones de notas de 1/2 consecutivos.** Sin embargo, usar un chord al inicio o final de un patrón está bien.
 - **Evite usar chords con más de 2 notas.** Esto incluye patrones de notas largas que involucren notas en más de dos columnas.
@@ -113,7 +113,7 @@ Las reglas y pautas para las dificultades especificas solo aplican al nivel que 
 
 Si una dificultad Normal es requerida y usada como la *dificultad más baja* de un beatmap, también debe de cumplir con estas reglas:
 
-- **Los cambios de la velocidad de deslizamiento que alteren la velocidad de un beatmap están prohibidos.** Los cambios de velocidad que unifican el deslizamiento de una canción con BPM variable están exentos.
+- **Los cambios de la velocidad del slider que alteren la velocidad de un beatmap están prohibidos.** Los cambios de la velocidad del slider que unifican el desplazamiento de una canción con BPM variable están exentos.
 - **La normalización del desplazamiento se debe hacer en beatmaps con BPM variable.**
 
 #### Pautas
@@ -125,14 +125,14 @@ Si una dificultad Normal es requerida y usada como la *dificultad más baja* de 
 - **Objetos no deben de ser puestos mientras una nota larga de 1/2 se presiona.** Sin embargo, poner un objeto al principio o final de dicha nota está bien.
 - **Evite usar ritmos más rápidos que 1/2 mientras que una nota larga de 1/1 se presiona.**
 - **Evite usar cualquier tipo de patrón de shield de 1/4.** La coordinación requerida para este patrón es muy alta para jugadores de este nivel.
-- **La densidad de las notas debería de consistir en mayormente 1/1 y 1/2, 1/4 ocasional, o ritmos más lentos.**
+- **La densidad de las notas debería de consistir mayormente en 1/1 y 1/2, 1/4 ocasional, o ritmos más lentos.**
 - **Evite usar más de 5 notas consecutivas de 1/4.**
 - **Stream largos de notas de 1/2 deben incluir, como mínimo, una pausa de 1/1 donde sea natural implementarla después de cada frase musical**, ya que estos pueden ser muy demandantes físicamente para los jugadores de este nivel.
 - **Evite usar chords durante patrones de notas de 1/4 consecutivos.** Sin embargo, usar un chord al inicio o final de un patrón está bien.
 - **Evite los anchors de más o tres notas.** A la vez que son fáciles de leer para los jugadores, anchors largos son agotadores.
 - **Evite usar minijacks de 1/4 o cualquier otro patrón de jacks.** Estos patrones son demasiado demandantes físicamente para un jugador de este nivel.
-- **Manipular la velocidad de deslizamiento es desalentado.** La velocidad des deslizamiento solo debería de ser cambiada para secciones de la música con diferentes intensidades y no debería ser drásticamente variable a través del beatmap.
-- **Cambios largos de la velocidad desplazamiento deberían de ser entre 0.90x y 1.05x.**
+- **Manipular la velocidad del slider es desalentado.** La velocidad del slider solo debería de ser cambiada para secciones de la música con diferentes intensidades y no debería ser drásticamente variable a través del beatmap.
+- **Cambios largos de la velocidad del slider deberían de ser entre 0.90x y 1.05x.**
 
 Pautas adiciónales para dificultades *Normal de 4 teclas*:
 
@@ -156,9 +156,9 @@ Pautas adiciónales para dificultades *Normal de 7 teclas*:
 - **El uso de jacks de 1/4 es desalentado.** Estos pueden ser muy demandantes físicamente para jugadores de este nivel. Minijacks con una buena cantidad de descanso en medio son aceptables.
 - **Evite usar más de 9 notas consecutivas en un trill.** La coordinación y balance de manos requerida para este patrón es muy alto para jugadores de este nivel.
 - **Las notas largas deben ser presionadas por mínimo 1/4 de pulsación.**
-- **Objetos puestos directamente después de cambios cortos en la velocidad de desplazamiento deberían aparecer como el deslizamiento normal del beatmap.** Para hacer esto, cambios cortos en la velocidad de desplazamiento solo deben de ser usados en los espacios vacíos entre notas y deberían equivaler a 1.0x.
-- **Cambios largos de la velocidad de desplazamiento deben ser entre 0.8x y 1.10x.**
-- **Trucos que involucren la velocidad de desplazamiento deben ser reaccionables entre un 1/2 de una pulsación o más**
+- **Objetos puestos directamente después de cambios cortos en la velocidad del slider deberían aparecer como el deslizamiento normal del beatmap.** Para hacer esto, cambios cortos en la velocidad del slider solo deben de ser usados en los espacios vacíos entre notas y deberían equivaler a 1.0x.
+- **Cambios largos de la velocidad del slider deben ser entre 0.8x y 1.10x.**
+- **Trucos que involucren la velocidad del slider deben ser reaccionables entre un 1/2 de una pulsación o más**
 
 Pauta adiciónales para dificultades *Hard de 4 teclas*:
 
@@ -179,8 +179,8 @@ Pautas adiciónales para dificultades *Hard de 7 teclas*:
 - **Evite usar picos de dificultad no justificados.** La dificultad debería ser representativa sobre la intensidad de la canción.
 - **Evite usar split rolls o cualquier tipo de patrón complicado de streams 1/8 que dure más de 4 pulsaciones o un compás.** Streams de este tipo de snap son difíciles de ejecutar y solo deberían ser utilizados si la canción lo amerita.
 - **Evite usar streams de notas largas de 1/6 o más** Estos son complicados de jugar debido a su corta duración. Use notas normales en los streams en vez de notas largas.
-- **Cambios largos de la velocidad de desplazamiento deben ser entre 0.7x y 1.10x.**
-- **Trucos que involucren la velocidad de desplazamiento deben ser reaccionables entre un 1/4 de una pulsación o más cuando no están normalizados y 1/2 cuando están normalizados.**
+- **Cambios largos de la velocidad del slider deben ser entre 0.7x y 1.10x.**
+- **Trucos que involucren la velocidad del slider deben ser reaccionables entre un 1/4 de una pulsación o más cuando no están normalizados y 1/2 cuando están normalizados.**
 
 Pautas adiciónales para dificultades *Insane de 4 teclas*:
 
@@ -202,4 +202,4 @@ Pautas adiciónales para dificultades *Insane de 7 teclas*:
 #### Pautas
 
 - **Evite usar picos de dificultad no justificados.** La dificultad debería ser representativa sobre la intensidad de la canción.
-- **Cambios en la velocidad de deslizamiento deberían ser entre 0.60x y 1.10x.**
+- **Cambios en la velocidad del slider deberían ser entre 0.60x y 1.10x.**
