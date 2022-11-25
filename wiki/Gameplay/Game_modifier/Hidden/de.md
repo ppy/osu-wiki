@@ -40,7 +40,7 @@ Die Mod **Hidden** ist eine [Spielmodifikation](/wiki/Game_modifier), die die Sc
 
 In [osu!](/wiki/Game_mode/osu!) unterdrückt die Mod Hidden die Approach-Circles und sorgt dafür, dass die Hit-Objekte kurz nach dem Erscheinen wieder verblassen, wodurch Spieler dazu gezwungen sind, das Timing mehr oder weniger auswendig zu lernen und — in geringerem Maße — die Platzierung und den Sliderpath.
 
-Es sollte jedoch angemerkt werden, dass die Mod Hidden unter den Top-Spielern als die einfachste Mod zur Erhöhung des Schwierigkeitsgrades gilt, aufgrund der Kontinuität, wenn Hit-Objekte erscheinen und verschwinden. Infolge dieser Kontinuität ist es sehr wohl möglich, anhand des Erblassens zu lernen, wann Hit-Objekte angetippt werden müssen.
+Es sollte jedoch angemerkt werden, dass die Mod Hidden unter den Top-Spielern aufgrund der Kontinuität, wann Hit-Objekte erscheinen und verschwinden, als die einfachste Mod zur Erhöhung der Schwierigkeitsstufe gilt. Infolge dieser Kontinuität ist es sehr wohl möglich, anhand des Erblassens zu lernen, wann Hit-Objekte angetippt werden müssen.
 
 ![HD Gameplay osu!](img/HD-osu.jpg "Gameplay in osu! mit der aktivierten Mod Hidden")
 
