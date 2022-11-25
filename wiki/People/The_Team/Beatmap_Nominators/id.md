@@ -1,5 +1,5 @@
 ---
-outdated_since: 90734b887c13f9c63f5319c6522a43d75c63a68b
+outdated_since: e6d2ac5ef1b2877f5cddc5dd041f7b9c4511ed82
 outdated_translation: true
 tags:
   - BN
