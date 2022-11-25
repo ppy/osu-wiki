@@ -5,8 +5,6 @@ tags:
   - Ranking Charts
   - 季赛
   - 月赛
-outdated_translation: true
-outdated_since: 798269cfe9f0515e267a7f8a122b28fdff0aaf05
 ---
 
 # 聚光灯
@@ -127,7 +125,7 @@ outdated_since: 798269cfe9f0515e267a7f8a122b28fdff0aaf05
 | ![](img/badges/summer_2022/osu/copper_1.png) ![](img/badges/summer_2022/osu/copper_2.png) | 黄铜（Copper） | 70% – 95% |
 | ![](img/badges/summer_2022/osu/iron_1.png) ![](img/badges/summer_2022/osu/iron_2.png) | 黑铁（Iron） | 95% – 100% |
 
-`人韵合一` 段位的玩家数量是根据该赛季的参与人数和其他段位的规模手动挑选的，但在大多数情况下为前 2 - 50 名。
+`人韵合一` 段位的玩家数量是根据该赛季的参与人数和其他段位的规模手动挑选的，在大多数情况下为前 2 - 50 名。
 
 该表仅展示四个徽章设计中的 osu! 版本。每种游戏模式都有其自己的徽章设计。
 
@@ -137,14 +135,14 @@ outdated_since: 798269cfe9f0515e267a7f8a122b28fdff0aaf05
 
 1. 在一个赛季的时间中，谱面将由各个模式的策展人选择出来。
    - 策展人需要在公开讨论中就每个谱面达成共识。
-   - 各个游戏模式的负责人锁定最终决定，并在结论性讨论后巩固他们的选择。
-   - 选择的过程在各个游戏模式之间有所不同，并且会根据各个成员的需求进行调整。
+   - 模式负责人会确定将选择的谱面，并在最终讨论后锁定结果。
+   - 选择的过程在各个游戏模式之间有所不同，并且会根据成员的需求进行调整。
 2. 谱面的选择基于其独特性和卓越性。每个选定的谱面都应在游戏性，设计和美学方面出类拔萃。
-3. 最终所选的谱面可作为对整个 osu! 社区的推荐，并使用唯一的 *Spotlights* 标签标记。
+3. 选定的谱面会推荐到整个 osu! 社区，并标上独一无二的 *Spotlights* 标签。
 4. 为了履行向整个社区推荐优秀谱面的职责，谱面应涵盖特定范围的 Hard，Insane 和 Expert 难度。
-   - 在所有谱面中，应该有 6 张谱面为 Hard 难度内。
-   - 在所有谱面中，应该有 9 张谱面为 Insane 难度内。
-   - 在所有谱面中，应该有 12 张谱面为 Expert 难度内。
+   - 统计时，应至少包含 6 个 Hard 难度。
+   - 统计时，应至少包含 9 个 Insane 难度。
+   - 统计时，应至少包含 12 个 Expert 难度。
 5. 每赛季一共选择 27 个高质量谱面。
    - 所有谱面必须 Ranked。
    - 就算挑选出了超过 27 个谱面，也必须遵循难度之间的均匀分布。
@@ -158,7 +156,7 @@ outdated_since: 798269cfe9f0515e267a7f8a122b28fdff0aaf05
 
 ### 反馈
 
-聚光灯的当前状态是高度实验性的，可以根据玩家的反应随时更改。因此，最重要的是要收集尽可能多的反馈与批评，以进一步改善该系统的方向和表现。鼓励所以玩家在这里留下他们的意见和反馈：
+聚光灯的当前状态是高度实验性的，可以根据玩家的反应随时更改。所以目前最重要的是收集尽可能多的反馈与批评，以进一步改善该系统的方向和表现。鼓励所有玩家在这里留下他们的意见和反馈：
 
 - [论坛反馈贴](https://osu.ppy.sh/community/forums/topics/1189626)
 - [社区 Discord 服务器](https://discord.gg/0Vxo9AsejDkGlk3H) 中的 `#beatmap-spotlights` 频道
@@ -174,14 +172,36 @@ outdated_since: 798269cfe9f0515e267a7f8a122b28fdff0aaf05
 
 ## 历史
 
-该项目最初由 ::{ flag=US }:: [Cyclone](https://osu.ppy.sh/users/18589) 和 ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) 在 2009 年 11 月提出，原名 “Ranking Charts”。该项目旨在让 [BAT](/wiki/Modding/Beatmap_Appreciation_Team) 和 [MAT](/wiki/Modding/Mapping_Assistance_Team) 提名并投票选出展示为期一个月的最佳谱面。
+该项目最初由 ::{ flag=US }:: [Cyclone](https://osu.ppy.sh/users/18589) 和 ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) 在 2009 年 10 月[^charts-09-oct] [^charts-09-nov]提出，原名 “Ranking Charts”。该项目旨在让 [BAT](/wiki/Modding/Beatmap_Appreciation_Team) 和 [MAT](/wiki/Modding/Mapping_Assistance_Team) 提名并投票选出展示为期一个月或一年[^charts-10-jan]的最佳谱面。2011 年 9 月, osu!taiko 和 osu!catch 也启动了类似的项目[^charts-11-per-mode]。
 
-该项目进行了多次更改和补充，例如[主题月赛](https://osu.ppy.sh/rankings/osu/charts?spotlight=26)，[Mod 月赛](https://osu.ppy.sh/rankings/osu/charts?spotlight=19)或是[赛季排行榜](https://osu.ppy.sh/home/news/2014-07-18-june-2014-ranking-chart)等等。 最初，只有月赛胜者才能获得 osu! 支持者标签。后来，添加了对谱面作者或赛季排行榜胜者的奖励。
+该项目进行了多次更改和补充，例如[主题月赛](https://osu.ppy.sh/rankings/osu/charts?spotlight=26)，[Mod 月赛](https://osu.ppy.sh/rankings/osu/charts?spotlight=19)或是[赛季排行榜](https://osu.ppy.sh/home/news/2014-07-18-june-2014-ranking-chart)等等。 最初，只有月赛胜者才能获得 [osu! 支持者](/wiki/osu!supporter)标签。后来，添加了对谱面作者或赛季排行榜胜者的奖励。
 
-项目负责人在其历史上已经发生了数次变化。::{ flag=US }:: [SapphireGhost](https://osu.ppy.sh/users/388602) 于 2012 年 5 月接任项目负责人，随后是 ::{ flag=US }:: [DeathXShinigami](https://osu.ppy.sh/users/49516) 和 ::{ flag=US }:: [Makar](https://osu.ppy.sh/users/686389)。::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) 和 ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) 于 2013 年 12 月接任项目负责人。从 2015 年 3 月开始，该项目从最初的提名和投票转变为让[知名社区成员逐个选择他们推荐的谱面集](https://osu.ppy.sh/home/news/2015-03-18-february-2015-monthly-ranking-charts-new-season)。在2016年9月，[提名系统已大体恢复](https://osu.ppy.sh/home/news/2016-09-17-july-2016-ranking-charts-changes)，由 [QAT](/wiki/Modding/Quality_Assurance_Team) 负责选择最值得关注的谱面集。
+项目负责人在其历史上已经发生了数次变化。::{ flag=US }:: [SapphireGhost](https://osu.ppy.sh/users/388602) 于 2012 年 5 月接任项目负责人[^charts-manager-sg]，随后是 ::{ flag=US }:: [DeathXShinigami](https://osu.ppy.sh/users/49516) [^charts-manager-dxs] 和 ::{ flag=US }:: [Makar](https://osu.ppy.sh/users/686389) [^charts-manager-makar]。::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) 和 ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) 于 2013 年 12 月接任项目负责人[^charts-manager-loctav]。
 
-在 2017 年 3 月改名为 [Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights)。该系统本身保持了基本的连贯性，同时增加了诸如成就之类的奖励，并进一步增强了 Beatmap Spotlights 的显示效果。在对 QAT 进行内部检修期间，该项目的负责人已被重新分配给了 ::{ flag=HU }:: [Kurokami](https://osu.ppy.sh/users/260933) 并重新组建了一个基于社区的谱面选择团队。在 2018 年 11 月，月赛的频率被更改为[季节性](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018)。2020 年 3 月，::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) 随 Kurokami 重回项目负责人，将其重新设计成新的形状，并组建了新的名为 osu! 策展人的团队。
+2014 年 1 月，月赛浏览器被添加到 osu! 客户端当中[^charts-in-osu-14-jan]，同年 6 月，几位知名玩家被招募进入了 [CAT](/wiki/Beatmap_Spotlights/Chart_Assembly_Team)[^charts-cat-recruitment-14-jun]。从 2015 年 3 月开始，该项目从最初的提名和投票，转变为让[知名社区成员逐个选择他们推荐的谱面](https://osu.ppy.sh/home/news/2015-03-18-february-2015-monthly-ranking-charts-new-season)[^charts-curated-15-mar]。在 2016 年 9 月，提名系统已大体恢复[^charts-reverted-16-sep]。此时，[QAT](/wiki/Modding/Quality_Assurance_Team) 将负责选择最值得关注的谱面。
 
-2020 年八月 ::{ flag=HU }:: [Kurokami](https://osu.ppy.sh/users/260933) 退出了该项目，在 2020 年 11 月底  ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) 也随 Kurokami 辞职。于是 ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) 和 ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) 一起接管了该项目。
+在 2017 年 3 月改名为 [Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights)[^charts-renamed-into-spotlights]。该系统本身保持了基本的连贯性，同时增加了诸如成就之类的奖励，并进一步增强了 Beatmap Spotlights 的显示效果。在 QAT 休整期间，::{ flag=HU }:: [Kurokami](https://osu.ppy.sh/users/260933) 重新任职为该项目的负责人，并重组了一个基于社区的谱面选择团队。2018 年 11 月，月赛的频率更改为季节性[^spotlights-seasonal]。2020 年 3 月，::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) 和 Kurokami 重任项目负责人、重新设计项目结构、并新建了名为 osu! 策展人的团队[^spotlights-reworked-20-june]。
+
+2020 年 8 月 ::{ flag=HU }:: [Kurokami](https://osu.ppy.sh/users/260933) 退出了该项目，在 2020 年 11 月底 ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) 也随 Kurokami 辞职。于是 ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) 和 ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) 一起接管了该项目。
 
 在第 4 赛季（2021 春）后，项目进入停顿期。直至 2021 年 9 月，出现了复兴的倾向，::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) 卸任，而 ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) 加入管理团队，于 2022 年 2 月，在人员重组后，项目恢复了运作。
+
+## 参见
+
+[^charts-09-oct]: [peppy 创建的论坛贴 (2009-10-25) "osu! Public Release b1077"](https://osu.ppy.sh/community/forums/topics/19115)
+[^charts-09-nov]: [(受限) Cyclone 创建的论坛贴 (2009-11-03) "'Monthly Chart' discussion November edition"](https://osu.ppy.sh/community/forums/topics/19560)
+[^charts-10-jan]: [Cyclone 创建的论坛贴 (2009-12-10) "Best Beatmaps of 2009!"](https://osu.ppy.sh/community/forums/topics/21059)
+
+[^charts-11-per-mode]: [Cyclone 创建的论坛贴 (2011-08-24) "Apply to help create ranking charts! (osu!, Taiko, or CtB)"](https://osu.ppy.sh/community/forums/topics/60660)
+[^charts-manager-sg]: [Cyclone 创建的论坛贴 (2012-05-20) "May 2012 Ranking Chart, and new Chart Manager"](https://osu.ppy.sh/community/forums/topics/84573)
+[^charts-manager-dxs]: [DeathxShinigami 创建的论坛贴 (2013-04-14) "April 2013 Ranking Chart"](https://osu.ppy.sh/community/forums/topics/127847)
+[^charts-manager-makar]: [Makar 创建的论坛贴 (2013-05-19) "2013 NewCAT Applications"](https://osu.ppy.sh/community/forums/topics/133248)
+[^charts-manager-loctav]: [(受限) Loctav 发表的论坛回复 (2013-11-21) "Regarding the charts"](https://osu.ppy.sh/community/forums/posts/2697871)
+[^charts-in-osu-14-jan]: [(受限) peppy 发表的论坛回复 (2014-01-24) "So peppy's planning something chart related"](https://osu.ppy.sh/community/forums/posts/2824323)
+[^charts-cat-recruitment-14-jun]: [(受限) Loctav 创建的论坛贴 (2014-06-16) "\[IMPORTANT\] Recruiting NewCATs"](https://osu.ppy.sh/community/forums/topics/218032)
+[^charts-curated-15-mar]: [Loctav 的新闻稿 (2015-03-18) "February 2015 Monthly Ranking Charts - New Season!"](https://osu.ppy.sh/home/news/2015-03-18-february-2015-monthly-ranking-charts-new-season)
+[^charts-reverted-16-sep]: [OnosakiHito 的新闻稿 (2016-09-17) "July 2016 Ranking Charts - Changes"](https://osu.ppy.sh/home/news/2016-09-17-july-2016-ranking-charts-changes)
+
+[^charts-renamed-into-spotlights]: [OnosakiHito 的新闻稿 (2017-03-18) "Introducing to you: Spotlights"](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights)
+[^spotlights-seasonal]: [Kurokami 的新闻稿 (2018-11-01) "Seasonal Spotlights: Summer 2018"](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018)
+[^spotlights-reworked-20-june]: [Loctav 创建的论坛贴 (2020-07-06) "Beatmap Spotlights (Summer 2020) - 论坛贴"](https://osu.ppy.sh/community/forums/topics/1101170)

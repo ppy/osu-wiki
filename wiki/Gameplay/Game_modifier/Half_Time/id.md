@@ -44,7 +44,7 @@ Pada [osu!catch](/wiki/Game_mode/osu!catch), tempo lagu dan kecepatan catcher ya
 
 - Saat mod Half Time dinyalakan, nilai `Length`, `BPM`, dan `Objects` akan mempunyai warna biru muda dengan nilai baru yang telah ditingkatkan. (Digambarkan di bawah.)
   - Nilai `Objects` tetap bewarna biru muda walaupun tidak ada perubahan yang terjadi pada nilainya.
-- Nilai `CS`, `AR`, dan `HP` mempunyai sebuah segitiga kecil dalam bentuk superscript di samping nilai mereka untuk menandakan pengurangan kecil pada nilai mereka. (Digambarkan di bawah.)
+- Nilai `AR`, `OD`, dan `HP` mempunyai sebuah segitiga kecil dalam bentuk superscript di samping nilai mereka untuk menandakan pengurangan kecil pada nilai mereka. (Digambarkan di bawah.)
 - Penamaaan "Half Time" bisa dikatakan sebagai istilah yang tidak cocok karena mod HT sebenarnya tidak mengurangi kecepatan lagunya sebesar 0.5x (50%); mod ini hanya mengurangi kecepatan beatmap menjadi 0.75x (75%).
 
 ![Perubahan nilai-nilai beatmap akibat pemasangan mod Half Time](img/GM_HT.jpg "Contoh tampilan nilai-nilai beatmap yang telah terubah oleh pemasangan mod Half Time")
