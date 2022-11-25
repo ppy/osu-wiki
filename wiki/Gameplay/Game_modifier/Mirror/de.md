@@ -5,6 +5,7 @@ tags:
   - MR
   - game modifier
   - Spielmodifikation
+no_native_review: true
 ---
 
 # Mirror (Mod)

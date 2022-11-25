@@ -6,6 +6,7 @@ tags:
   - mod
   - game modifier
   - Spielmodifikation
+no_native_review: true
 ---
 
 # Nightcore (Mod)
