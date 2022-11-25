@@ -7,6 +7,7 @@ tags:
   - game modifier
   - cutting edge
   - Spielmodifikation
+no_native_review: true
 ---
 
 # Target Practice (Mod)

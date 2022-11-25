@@ -14,6 +14,7 @@ tags:
   - mod
   - game modifier
   - Spielmodifikation
+no_native_review: true
 ---
 
 # xK (Mod)

@@ -6,6 +6,7 @@ tags:
   - game modifier
   - SD
   - Spielmodifikation
+no_native_review: true
 ---
 
 # Sudden Death (Mod)
