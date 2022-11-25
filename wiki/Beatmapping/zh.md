@@ -1,5 +1,3 @@
-<!-- TODO: some formatting issues, and I think it's odd that most of this article is a tutorial. feels like there should be a separate guide article. -->
-
 # 作图
 
 **作图** （又称制谱）是在 osu! 里创造可提供给其他玩家游玩的[谱面](/wiki/Beatmap)的过程。
