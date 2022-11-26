@@ -324,7 +324,7 @@ Al citar texto de alguien, especifique la persona que se cita después de la [ci
 —rrtyui (traducido del {idioma})
 ```
 
-En general, la fuente de la cita debe especificarse por encima de ella. Vea la [sección anterior](#citas) para ver un ejemplo. Cuando se cita un artículo escrito o de otro tipo, y no necesariamente a una persona específica, no es necesario especificar el autor debajo de la cita.
+En general, la fuente de la cita debe especificarse por encima de ella. Consulte la [sección anterior](#citas) para ver un ejemplo. Cuando se cita un artículo escrito o de otro tipo, y no necesariamente a una persona específica, no es necesario especificar el autor debajo de la cita.
 
 ## Pronunciación
 
