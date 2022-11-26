@@ -132,7 +132,7 @@ Si se requiere una dificultad Normal y se utiliza como la *dificultad más baja*
 - **Evite los anchors de tres o más notas.** Aunque son fáciles de leer para los jugadores, los anchors largos son agotadores.
 - **Evite utilizar minijacks de 1/4 u otros patrones de jack.** Estos patrones son demasiado exigentes físicamente para los jugadores de este nivel.
 - **Manipular la velocidad del slider es desalentado.** La velocidad del slider sólo debe cambiarse para secciones de música con diferentes intensidades y no debe ser drásticamente variable a lo largo del beatmap.
-- **Cambios largos de la velocidad del slider deberían de ser entre 0.90x y 1.05x.**
+- **Los cambios de velocidad del slider a largo plazo deben estar entre 0.90x y 1.05x.**
 
 Pautas adicionales para dificultades *Normal de 4 teclas*:
 
@@ -179,7 +179,7 @@ Pautas adicionales para dificultades *Hard de 7 teclas*:
 - **Evite los picos de dificultad injustificados.** La dificultad debe ser representativa de la intensidad de la canción.
 - **Evite el uso de split rolls o cualquier tipo de stream de 1/8 complicado que dure más de 4 pulsaciones.** Streams de este tipo de snap son difíciles de ejecutar y sólo deben usarse si la canción lo justifica.
 - **Evite usar streams de notas largas de 1/6 o más.** Estos son complicados de jugar debido a su corta duración. Use notas normales en los streams en vez de notas largas.
-- Los cambios de velocidad del slider a largo plazo deben estar entre 0.70x y 1.10x.**
+- **Los cambios de velocidad del slider a largo plazo deben estar entre 0.70x y 1.10x.**
 - **Los trucos que involucren la velocidad del slider deben ser reaccionables entre un 1/4 de una pulsación o más cuando no están normalizados y 1/2 cuando están normalizados.**
 
 Pautas adicionales para dificultades *Insane de 4 teclas*:
