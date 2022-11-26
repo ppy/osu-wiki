@@ -37,10 +37,6 @@ No use localismos, ya que cualquier jugador de cualquier país debería poder en
 
 ## Capitalización
 
-### Títulos de los artículos
-
-Los títulos de los artículos deben estar en minúsculas a excepción de la primera letra de la frase, con excepción de las palabras que requieran comenzar por mayúscula.
-
 ### Nombres de los artículos
 
 Los nombres de los artículos, cuando están escritos en un párrafo, no deben escribirse con mayúscula, a menos que sea un enlace que apunta al artículo o sea un nombre propio (por ejemplo, BanchoBot). Lo siguiente es un ejemplo:
