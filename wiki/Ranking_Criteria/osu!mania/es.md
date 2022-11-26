@@ -126,7 +126,7 @@ Si se requiere una dificultad Normal y se utiliza como la *dificultad más baja*
 - **Evite ritmos más rápidos que 1/2 durante la duración de una nota larga de 1/1.**
 - **Evite usar cualquier tipo de patrón de shield de 1/4.** La coordinación requerida para este patrón es muy alta para jugadores de este nivel.
 - **La densidad de las notas debería de consistir mayormente en 1/1 y 1/2, 1/4 ocasional, o ritmos más lentos.**
-- **Evite usar más de 5 notas consecutivas de 1/4.**
+- **Evite utilizar más de 5 notas de 1/4 consecutivas.**
 - **Stream largos de notas de 1/2 deben incluir, como mínimo, una pausa de 1/1 donde sea natural implementarla después de cada frase musical**, ya que estos pueden ser muy demandantes físicamente para los jugadores de este nivel.
 - **Evite usar chords durante patrones de notas de 1/4 consecutivos.** Sin embargo, usar un chord al inicio o final de un patrón está bien.
 - **Evite los anchors de tres o más notas.** Aunque son fáciles de leer para los jugadores, los anchors largos son agotadores.
@@ -141,7 +141,7 @@ Pautas adicionales para dificultades *Normal de 4 teclas*:
 Pautas adicionales para dificultades *Normal de 7 teclas*:
 
 - **Evite chords con más de 3 notas.** Esto incluye patrones de notas largas que involucren más de tres columnas. Sin embargo, usar una doble que es jugada con la otra mano que la nota larga está bien.
-- **Las patrones de brackets deben ser usados ocasionalmente.**
+- **Los patrones de brackets deben usarse con moderación.**
 - **Notas largas que son jugadas con teclas adyacentes que están siendo presionadas al mismo tiempo, deben acabar en el mismo tiempo por igual.** Notas largas con múltiples finales requieren un nivel de coordinación que los jugadores de este nivel no pueden manejar razonablemente.
 
 ### ![](/wiki/shared/diff/hard-m.png?20211215) Hard
@@ -157,7 +157,7 @@ Pautas adicionales para dificultades *Normal de 7 teclas*:
 - **Evite usar más de 9 notas consecutivas en un trill.** La coordinación y balance de manos requerida para este patrón es muy alto para jugadores de este nivel.
 - **Las notas largas deben ser presionadas por mínimo 1/4 de pulsación.**
 - **Objetos puestos directamente después de cambios cortos en la velocidad del slider deberían aparecer como el deslizamiento normal del beatmap.** Para hacer esto, cambios cortos en la velocidad del slider solo deben de ser usados en los espacios vacíos entre notas y deberían equivaler a 1.0x.
-- **Cambios largos de la velocidad del slider deben ser entre 0.8x y 1.10x.**
+- **Los cambios de velocidad del slider a largo plazo deben estar entre 0,8x y 1,10x.**
 - **Trucos que involucren la velocidad del slider deben ser reaccionables entre un 1/2 de una pulsación o más**
 
 Pautas adicionales para dificultades *Hard de 4 teclas*:
@@ -176,7 +176,7 @@ Pautas adicionales para dificultades *Hard de 7 teclas*:
 
 #### Pautas
 
-- **Evite usar picos de dificultad no justificados.** La dificultad debería ser representativa sobre la intensidad de la canción.
+- **Evite los picos de dificultad injustificados.** La dificultad debe ser representativa de la intensidad de la canción.
 - **Evite usar split rolls o cualquier tipo de patrón complicado de streams 1/8 que dure más de 4 pulsaciones o un compás.** Streams de este tipo de snap son difíciles de ejecutar y solo deberían ser utilizados si la canción lo amerita.
 - **Evite usar streams de notas largas de 1/6 o más** Estos son complicados de jugar debido a su corta duración. Use notas normales en los streams en vez de notas largas.
 - **Cambios largos de la velocidad del slider deben ser entre 0.7x y 1.10x.**
