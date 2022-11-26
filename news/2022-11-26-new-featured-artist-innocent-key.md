@@ -8,7 +8,7 @@ Desperate for more *Touhou* music? **Innocent Key** has it.
 
 ![](https://assets.ppy.sh/artists/323/header.jpg)
 
-Back in the early days of osu!, *Touhou* arrangements were among the most mapped songs in the game, with **Innocent Key** standing at the forefront. A solid collection of **Innocent Key** maps reached the ranked category between 2009 and 2011, earning maps like [Lunatic Red Eyes](https://osu.ppy.sh/beatmapsets/17676) and [Wanna Be My Dream](https://osu.ppy.sh/beatmapsets/19840) their well-deserved status as classic beatmaps.
+Back in the early days of osu!, *Touhou* arrangements were among the most mapped songs in the game, with **Innocent Key** standing at the forefront. A solid collection of **Innocent Key** maps reached the Ranked category between 2009 and 2011, earning maps like [Lunatic Red Eyes](https://osu.ppy.sh/beatmapsets/17676) and [Wanna Be My Dream](https://osu.ppy.sh/beatmapsets/19840) their well-deserved status as classic beatmaps.
 
 *Touhou* arrangements are a cornerstone in osu!, and **14** outstanding tracks by **Innocent Key** are now officially part of the community. Forever. Check them all out from [**Innocent Key**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/323)!
 
