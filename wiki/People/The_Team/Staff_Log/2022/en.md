@@ -534,21 +534,45 @@ Abbreviations for user groups are used throughout this log:
 - 2022-11-08: Added [[Crz]hinako1804](https://osu.ppy.sh/users/13747903) to **Project Loved Team**
 - 2022-11-08: Added [Dusk-](https://osu.ppy.sh/users/6092181) to **NAT**
 - 2022-11-08: Added [Hivie](https://osu.ppy.sh/users/14102976) to **NAT**
+- 2022-11-13: Added [Remuring](https://osu.ppy.sh/users/6522146) to **Project Loved Team**
+- 2022-11-19: Moved [Procrastic101](https://osu.ppy.sh/users/6712747) from **osu! Alumni** to **GMT**
+- 2022-11-20: Removed [heyronii](https://osu.ppy.sh/users/5642779) from the **GMT**
+- 2022-11-20: Removed [Zeus-](https://osu.ppy.sh/users/5464437) from the **GMT**
+- 2022-11-20: Removed [Orkay](https://osu.ppy.sh/users/9321674) from the **GMT**
+- 2022-11-21: Added [Venix](https://osu.ppy.sh/users/5999631) to **Beatmap Spotlight Curators**
+- 2022-11-22: Added [Zeus-](https://osu.ppy.sh/users/5464437) to the **Project Loved Team**
+- 2022-11-23: Removed [Zeus-](https://osu.ppy.sh/users/5464437) from the **Project Loved Team**
 
 ### Beatmap Nominators
 
 #### Additions
 
 - 2022-11-08: Added [-Flashlight-](https://osu.ppy.sh/users/9731062) to **Probationary BN**
+- 2022-11-11: Added [Rinze](https://osu.ppy.sh/users/19901680) to **Probationary BN**
+- 2022-11-14: Added [Metzo](https://osu.ppy.sh/users/10633982) to **Probationary BN**
+- 2022-11-24: Added [Ilham](https://osu.ppy.sh/users/3057154) to **Probationary BN**
+- 2022-11-24: Added [Irone OSU](https://osu.ppy.sh/users/10678230) to **Probationary BN**
+- 2022-11-24: Added [arcpotato](https://osu.ppy.sh/users/12842392) to **Probationary BN**
+- 2022-11-24: Added [aceticke](https://osu.ppy.sh/users/8838763) to **Probationary BN**
 
 #### Moves
+
+- 2022-11-20: Moved [Chatie](https://osu.ppy.sh/users/6524765) from **BN** to **Probationary BN**
+- 2022-11-20: Moved [Natsuko](https://osu.ppy.sh/users/8266817) from **BN** to **Probationary BN**
+- 2022-11-25: Moved [Lumenite-](https://osu.ppy.sh/users/6256027) from **Probationary BN** to **BN**
 
 #### Removals
 
 - 2022-11-08: Removed [Dusk-](https://osu.ppy.sh/users/6092181) from **BN**
 - 2022-11-08: Removed [Hivie](https://osu.ppy.sh/users/14102976) from **BN**
+- 2022-11-09: Removed [pupu5](https://osu.ppy.sh/users/7140680) from **BN**
+- 2022-11-09: Removed [Nokashi](https://osu.ppy.sh/users/5431196) from **BN**
+- 2022-11-20: Removed [JBHyperion](https://osu.ppy.sh/users/4879508) from **BN**
+- 2022-11-22: Removed [Kawawa](https://osu.ppy.sh/users/4647754) from **BN**
+- 2022-11-24: Removed [Noffy](https://osu.ppy.sh/users/1541323) from **BN**
+- 2022-11-25: Removed [Hinsvar](https://osu.ppy.sh/users/1249323) from **BN**
 
-<!-- last updated 2022-11-09 06:09 UTC - Moved Dusk- and Hivie from BN to NAT (and for some reason Mafumafu has logs that cancel each other out after that, ignore those) -->
+<!-- last updated 2022-11-26 18:17 UTC - Added missing BN/Loved/Spotlight additons/removals, handled GMT & Loved shenanigans -->
 
 <!--
 To update this article:
