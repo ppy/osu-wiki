@@ -5,4 +5,4 @@ Indexseite für alle juristischen Artikel. Ihre Links sind auch in der Fußzeile
 - [Urheberrechtspolitik](Copyright)
 - [Musiklizenzierung](Music_licensing)
 - [Datenschutzerklärung](Privacy)
-- [Allgemeine Geschäftsbedingungen](Terms)
+- [Nutzungsbedingungen](Terms)
