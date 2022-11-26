@@ -84,7 +84,7 @@ Las reglas y pautas generales se aplican a todo tipo de dificultad de osu!mania.
 
 ## Dificultades específicas
 
-Las reglas y pautas para las dificultades especificas solo aplican al nivel que está estipulado y por ende *no aplica para **todas** las dificultades de osu!mania. Reglas y pautas relacionadas al ritmo aplican para beatmaps de aproximadamente 180 BPM. Si tu canción es drásticamente más rápida o lenta, algunas variables pueden ser diferentes, como se detalla en [Escalado de BPM en los criterios de clasificación](/wiki/Ranking_Criteria/Scaling_BPM).
+Las reglas y pautas para las dificultades especificas solo aplican al nivel que está estipulado y por ende *no aplica a **todas** las dificultades de osu!mania. Reglas y pautas relacionadas al ritmo aplican para beatmaps de aproximadamente 180 BPM. Si tu canción es drásticamente más rápida o lenta, algunas variables pueden ser diferentes, como se detalla en [Escalado de BPM en los criterios de clasificación](/wiki/Ranking_Criteria/Scaling_BPM).
 
 *Las pautas específicas de los modos de teclas se han elaborado en base a los modos de teclas clasificadas más comunes (4 teclas y 7 teclas). Cualquier otro modo de tecla debe aplicar estas pautas cuando corresponda.*
 
@@ -102,7 +102,7 @@ Las reglas y pautas para las dificultades especificas solo aplican al nivel que 
 - **Las notas largas deben ser presionadas por al menos una pulsación.** Soltar la nota más rápido que esto prueba ser difícil para jugadores de este nivel.
 - **El final o release de las notas largas deben estar al menos a una pulsación separada de cada una.** Brechas más pequeñas que esto requieren un nivel de independencia de los dedos que estos jugadores de esta dificultad no pueden manejar.
 - **Los objetos no deben colocarse durante la duración de una nota larga de 1/1.** Sin embargo, utilizar un objeto al principio o al final de una nota larga está bien.
-- **La densidad de las notas debería de consistir en mayormente 1/1, 1/2 ocasional, o ritmos más lentos.**
+- **La densidad de las notas debería de consistir mayormente en 1/1, ocasionalmente 1/2, o ritmos más lentos.**
 - **Evite utilizar más de 5 notas de 1/2 consecutivas.**
 - **Evite el uso de chords durante patrones de notas de 1/2 consecutivas.** Sin embargo, usar un chord al inicio o final de un patrón está bien.
 - **Evite usar chords con más de 2 notas.** Esto incluye patrones de notas largas que involucren notas en más de dos columnas.
