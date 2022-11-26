@@ -1,6 +1,4 @@
 ---
-outdated_since: e6d2ac5ef1b2877f5cddc5dd041f7b9c4511ed82
-outdated_translation: true
 tags:
   - BN
   - BNG
@@ -34,7 +32,7 @@ La probation est utilisée pour surveiller les nouveaux Beatmap Nominators ou le
 
 Les nouveaux Beatmap Nominators commencent avec un mois de probation. Si leurs nominations et leur comportement sont satisfaisants, ils seront promus au rang de Beatmap Nominator confirmés suite à une [évaluation](/wiki/People/The_Team/Nomination_Assessment_Team/Evaluations) positive. Autrement, ils resteront en probation pour un autre mois ou seront exclus des Beatmap Nominators.
 
-Lorsqu'un Beatmap Nominator est placé en probation, il ne peut pas être placé en probation une nouvelle fois pour la même raison. Par exemple, si un Beatmap Nominator est placé en probation pour mauvais comportement, il sera retiré des Beatmap Nominators s'il vient à présenter un mauvais comportement une seconde fois, même s'il est Beatmap Nominator confirmé à la seconde infraction.
+Lorsqu'un Beatmap Nominator est placé en probation, il ne peut pas être placé en probation une nouvelle fois pour la même raison pendant environ un an. Par exemple, si un Beatmap Nominator est placé en probation pour mauvais comportement, il sera retiré des Beatmap Nominators s'il vient à présente un mauvais comportement une seconde fois récemment, même s'il est Beatmap Nominator confirmé à la seconde infraction.
 
 ## Membres de l'équipe
 
