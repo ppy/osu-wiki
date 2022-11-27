@@ -131,7 +131,7 @@ Si se requiere una dificultad Normal y se utiliza como la *dificultad más baja*
 - **Evite el uso de chords durante patrones de notas de 1/4 consecutivos.** Sin embargo, usar un chord al inicio o final de un patrón está bien.
 - **Evite los anchors de tres o más notas.** Aunque son fáciles de leer para los jugadores, los anchors largos son agotadores.
 - **Evite utilizar minijacks de 1/4 u otros patrones de jack.** Estos patrones son demasiado exigentes físicamente para los jugadores de este nivel.
-- **Manipular la velocidad del slider es desalentado.** La velocidad del slider solo debe cambiarse para secciones de música con diferentes intensidades y no debe ser drásticamente variable a lo largo del beatmap.
+- **Se desaconseja manipular la velocidad del slider.** La velocidad del slider solo debe cambiarse para secciones de música con diferentes intensidades y no debe ser drásticamente variable a lo largo del beatmap.
 - **Los cambios de velocidad del slider a largo plazo deben estar entre 0.90x y 1.05x.**
 
 Pautas adicionales para dificultades *Normal de 4 teclas*:
@@ -153,7 +153,7 @@ Pautas adicionales para dificultades *Normal de 7 teclas*:
 - **Los streams largos de notas de 1/4 deben incluir, como mínimo, una pausa de 1/2 donde sea natural implementarla después de cada frase musical.** Estos pueden ser demasiado exigentes físicamente para los jugadores de este nivel.
 - **Chords dentro de streams 1/4 deben estar separados por al menos una pulsación de 1/1 del uno del otro.** Uso más denso de los chords es demasiado difícil para jugadores de este nivel.
 - **Evite el uso de chords durante streams de 1/6.** Sin embargo, el uso de un chord al principio o al final del stream está bien.
-- **El uso de jacks de 1/4 es desalentado.** Estos pueden ser muy demandantes físicamente para jugadores de este nivel. Minijacks con un amplio tiempo de descanso en medio son aceptables.
+- **Se desaconseja el uso de jacks de 1/4.** Estos pueden ser muy demandantes físicamente para jugadores de este nivel. Minijacks con un amplio tiempo de descanso en medio son aceptables.
 - **Evite utilizar más de 9 notas consecutivas en un trill.** La coordinación y balance de manos requerida para este patrón es muy alto para jugadores de este nivel.
 - **Las notas largas deben ser presionadas durante al menos 1/4 de una pulsación.**
 - **Los objetos que aparecen directamente después de los cambios de velocidad del slider a corto plazo deben aparecer a la velocidad normal de desplazamiento del beatmap.** Para ello, los cambios de velocidad del slider a corto plazo solo deberían utilizarse en los espacios vacíos entre las notas y deberían igualarse a una distancia de 1.0x.
@@ -185,7 +185,7 @@ Pautas adicionales para dificultades *Hard de 7 teclas*:
 Pautas adicionales para dificultades *Insane de 4 teclas*:
 
 - **Evite el uso de chords en medio de los stream de 1/8.** La densidad de estos patrones es a menudo demasiado difícil para los jugadores de este nivel de habilidad, especialmente cuando se utiliza en la dificultad más baja de un beatmap. Además, la colocación ineficaz de los chords puede dar lugar a un uso inconsistente de los minijack de 1/4. Usar un chord al principio o al final de un stream está bien.
-- **Usar split jumptrills por más de 2 pulsaciones que terminen en un hand es desalentado.** A menos que un beatmap utilice jacks u otros patrones complejos con frecuencia, este patrón es difícil de jugar. Si un hand es necesario, elimine la nota anterior que crearía el mini jack.
+- **Se desaconseja el uso de split-jumptrills durante más de 2 pulsaciones que terminen en un hand.** A menos que un beatmap utilice jacks u otros patrones complejos con frecuencia, este patrón es difícil de jugar. Si un hand es necesario, elimine la nota anterior que crearía el mini jack.
 - **Evite usar más de 9 notas en un split jumptrill.** Estos son más físicamente agotadores que otros patrones con densidad similar.
 
 Pautas adicionales para dificultades *Insane de 7 teclas*:
