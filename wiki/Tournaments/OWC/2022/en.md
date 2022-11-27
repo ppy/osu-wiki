@@ -676,9 +676,3 @@ The final standings for the Qualifier stage can be found at the following [sprea
    - **Do not ask for a reschedule unless it is absolutely needed. The tournament managers reserve the right to deny any rescheduling request.**
    - Late reschedule requests will not be accepted under any circumstances.
 6. Captains are responsible for their team's availability.
-
-## Notes
-
-[^losers-bracket]: Losers bracket match
-[^potential-match]: Potential match — final matchup depends on the results of the preceding losers bracket matches
-[^showmatch]: Grand Finals showmatch — mouse players vs tablet players
