@@ -1,6 +1,6 @@
 # Tampilan antarmuka
 
-Artikel ini akan menjelaskan segalanya yang perlu kamu ketahui seputar tampilan antarmuka klien permainan osu! dan berbagai fiturnya, mulai dari layar pemilihan lagu, tampilan peringkat, hingga layar hasil. Pada saat osu! pertama kali terbuka, kamu akan disambut dengan layar berikut:
+Artikel ini akan menjelaskan segalanya yang perlu kamu ketahui seputar tampilan antarmuka klien permainan osu! dan berbagai fiturnya, mulai dari layar pemilihan lagu, tampilan peringkat, hingga layar hasil permainan. Pada saat osu! pertama kali terbuka, kamu akan disambut dengan layar berikut:
 
 ![](img/intro-screen.jpg "Layar perkenalan")
 
@@ -273,13 +273,13 @@ Klik **panel pengguna** untuk mengakses **menu pengaturan pengguna**.
 
 Terakhir, klik **[osu! cookie](/wiki/Client/Interface/Cookie)** untuk **mulai bermain**.
 
-## Layar hasil
+## Layar hasil permainan
 
 ![](img/results-osu.jpg "Contoh layar hasil permainan osu!")
 
 Layar ini akan muncul pada saat kamu menyelesaikan suatu beatmap. Kamu dapat mengakses papan peringkat *online* dengan menggulirkan layar ini ke bawah atau menekan tombol yang tertera.
 
-Berikut merupakan contoh layar hasil untuk berbagai mode permainan lainnya:
+Berikut merupakan contoh layar hasil permainan untuk berbagai mode permainan lainnya:
 
 ![](img/results-taiko.jpg "Contoh layar hasil permainan osu!taiko")
 
@@ -287,7 +287,7 @@ Berikut merupakan contoh layar hasil untuk berbagai mode permainan lainnya:
 
 ![](img/results-catch.jpg "Contoh layar hasil permainan osu!catch")
 
-### Layar hasil yang diperluas
+### Lanjutan dari layar hasil permainan
 
 ![](img/extended-results-screen.jpg "Contoh papan peringkat online")
 
@@ -307,14 +307,14 @@ Layar ini merupakan papan peringkat *online* untuk skor yang kamu torehkan. Kamu
 
 Berikut merupakan kategori yang terdapat pada kedua kolom *ranking* di atas:
 
-| Category | Beatmap Ranking | Overall Ranking |
+| Kategori | Beatmap Ranking | Overall Ranking |
 | :-: | :-- | :-- |
 | `Keseluruhan` | Posisimu pada papan peringkat beatmap. Harap diperhatikan bahwa skor dengan [mod](/wiki/Game_modifier) juga akan muncul pada papan peringkat yang sama. | [Peringkat globalmu](/wiki/Ranking#peringkat-performance-point) dari seluruh pemain di dunia. |
 | [`Akurasi`](/wiki/Gameplay/Accuracy) | Seberapa akurat kamu memainkan beatmap. Nilai ini hanya akan muncul apabila kamu mencetak rekor permainan baru pada beatmap. | Ratar-rata nilai akurasi yang dihitung dari seluruh skor terbaikmu. |
-| `Kombo Maks` | Jumlah kombo maksimal yang berhasil kamu raih pada beatmap. | Jumlah kombo maksimal yang pernah kamu raih sepanjang kamu bermain. |
+| `Max Combo` | Jumlah kombo maksimal yang berhasil kamu raih pada beatmap. | Jumlah kombo maksimal yang pernah kamu raih sepanjang kamu bermain. |
 | [`Skor Ranked`](/wiki/Gameplay/Score/Ranked_score) | [Skor terbaik](/wiki/Gameplay/Score/Ranked_score) yang kamu miliki pada beatmap. | Total skor terbaik dari seluruh beatmap Ranked yang pernah kamu mainkan, dengan masing-masing map dihitung satu kali. |
 | [`Skor Total`](/wiki/Gameplay/Score/Total_score) | Tidak ditampilkan, karena tidak berdampak apapun terhadap peringkatmu. | Sama dengan Skor Ranked, namun dengan tambahan seluruh skor yang tercatat di situs web osu! (termasuk skor dari permainan yang tidak diselesaikan ataupun yang gagal). Skor ini merupakan skor yang digunakan pada perhitungan [level](/wiki/Gameplay/Score/Total_score#level). |
-| [`Performa`](/wiki/Performance_points) | Jumlah [pp yang tidak terbobotkan](/wiki/Performance_points#kenapa-saya-tidak-mendapatkan-seluruh-jumlah-pp-dari-map-yang-saya-telah-mainkan?) yang kamu peroleh dari skor ini. | Total performance point yang kamu miliki, yang disertai dengan jumlah penambahan pp yang kamu peroleh dari skor ini. |
+| [`Performance`](/wiki/Performance_points) | Jumlah [pp yang tidak terbobotkan](/wiki/Performance_points#kenapa-saya-tidak-mendapatkan-seluruh-jumlah-pp-dari-map-yang-saya-telah-mainkan?) yang kamu peroleh dari skor ini. | Total performance point yang kamu miliki, yang disertai dengan jumlah penambahan pp yang kamu peroleh dari skor ini. |
 
 ### Medali
 
