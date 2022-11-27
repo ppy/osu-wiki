@@ -23,8 +23,8 @@ Este conjunto de **criterios de clasificación de osu!mania** establece [reglas 
 - **Key mode**: La cantidad de columnas presentes en una dificultad.
 - **Keysounding**: Aplicar hitsounds que son extremadamente similar o directamente de la canción en sus respectivos lugares. Este método de hitsounding generalmente proporciona poca retroalimentación al jugador.
 - **Slider velocity**: La velocidad a la que se mueven las notas/barras en el campo de juego. La velocidad base del slider (1.0x) se basa en la velocidad de desplazamiento del usuario y se pueden realizar cambios adicionales a través de puntos de tiempo heredados (verdes).
-- **Long-term slider velocity**:Un cambio de velocidad del slider que dura más de 4 compases.
-- **Musical phrase**: Una unidad independiente musical que suele ser de 4 compases de largo.
+- **Long-term slider velocity**: Un cambio de velocidad del slider que dura más de 4 compases.
+- **Musical phrase**: Una unidad independiente de metro musical que suele tener 4 compases de largo.
 - **Short-term slider velocity**: Un cambio en la velocidad del slider que dura menos que 1/2 de un pulso.
 
 ### Patrones
@@ -57,19 +57,19 @@ Las reglas y pautas generales se aplican a todo tipo de dificultad de osu!mania.
 - **El mod `Auto` debe ser capaz de alcanzar la puntuación completa (1,000,000) en todas las dificultades.**
 - **Dos notas no pueden ser posicionadas en una sola columna en la misma marca de tiempo.**
 - **Ninguna columna puede quedar vacía.** Si quiere usar menos teclas, cambie el número de teclas en el Song Setup.
-- **No puede haber más de 6 notas presionadas en ningún momento dado en dificultades Insane o más bajas.** Usar más de 6 notas también debe de seguir un desplazo razonable a las dificultades bajas. Esta regla no aplica a los finales de las notas largas, ya que son soltados y no presionados.
-- **Los beatmaps solo pueden tener de 4 a 10 teclas.** Cualquier otras teclas no son soportadas por la sección de clasificatorias.
+- **No puede haber más de 6 notas presionadas en ningún momento dado en dificultades Insane o más bajas.** El uso de más de 6 notas también debe seguir una extensión razonable a la siguiente dificultad más baja. Esta regla no se aplica a los finales de las notas largas, ya que se sueltan, no se presionan.
+- **Los beatmaps solo pueden tener de 4 a 10 teclas.** Cualquier otra cosa no es compatible con la sección Clasificado.
 - **Si más de un modo de teclas es presente en un solo beatmap, las teclas deben ser denominadas en todos los nombres de dificultades. En caso de que no, no se deben de nombrar.**
 - **Si el [tiempo de drenaje](/wiki/Gameplay/Drain_time) de cada dificultad es...**
-  - **...menos de 2:30**, la dificultad más baja de cada modo de tecla incluido no puede ser más difícil que una dificultad Normal, **O** cada modo de tecla tiene que proveer 3 dificultades más bajas debajo de la dificultad más difícil.
-  - **...entre 2:30 y 3:15**, la dificultad más baja de cada modo de tecla incluido no puede ser más difícil que una dificultad Difícil, **O** cada modo de tecla tiene que proveer 2 dificultades más bajas debajo de la dificultad más difícil.
-  - **...entre 3:15 y 4:00**, la dificultad más baja de cada modo de tecla incluido no puede ser más difícil que una dificultad Insana, **O** cada modo de tecla tiene que proveer 1 dificultad más baja debajo de la dificultad más difícil.
-- En las dificultades Insane o más difíciles, las dificultades apropiadamente hechas deben tener una brecha de dificultad similar a las que se formalmente definieron en las dificultades bajas.
+  - **...menos de 2:30**, la dificultad más baja de cada modo de tecla incluido no puede ser más difícil que un Normal, **O** cada modo de tecla debe proporcionar una distribución que comience al menos 3 niveles de dificultad por debajo de la dificultad más alta.
+  - **...entre 2:30 y 3:15**, la dificultad más baja de cada modo de tecla incluido no puede ser más difícil que un Hard, **O** cada modo de tecla debe proporcionar una distribución que comience al menos 2 niveles de dificultad por debajo de la dificultad más alta.
+  - **...entre 3:15 y 4:00**, la dificultad más baja de cada modo de tecla incluido no puede ser más difícil que un Insane, **O** cada modo de tecla debe proporcionar una distribución que comience al menos 1 nivel de dificultad por debajo de la dificultad más alta.
+- Sobre las dificultades Insane y más difícil, una distribución adecuada se define por brechas de dificultad relativa similares a las definidas formalmente entre dificultades más bajas.
 
 ### Pautas
 
 - **Cada nota debe corresponder a un sonido presente en la música.** Este debe ser un sonido distinto, pero también puede representar coherentemente un sonido continuo con un comienzo o un final indistinguibles. Deben hacerse excepciones a favor de la simplificación cuando se siga la música con total exactitud...
-  - no sería razonable de jugar con buena precisión.
+  - no sería razonable de jugar con completa precisión.
   - seria eficazmente representando con un divisor constante y predecible.
   - causaría un pico de dificultad inapropiado.
 - **Las notas largas deben ser presionadas por al menos 1/12 de una pulsación.** Los tiempos de agarre más rápidos no son razonables para jugar con completa precisión.
@@ -84,7 +84,7 @@ Las reglas y pautas generales se aplican a todo tipo de dificultad de osu!mania.
 
 ## Dificultades específicas
 
-Las reglas y pautas para las dificultades especificas solo aplican al nivel que está estipulado y por ende *no aplica a **todas** las dificultades de osu!mania. Reglas y pautas relacionadas al ritmo aplican para beatmaps de aproximadamente 180 BPM. Si tu canción es drásticamente más rápida o lenta, algunas variables pueden ser diferentes, como se detalla en [Escalado de BPM en los criterios de clasificación](/wiki/Ranking_Criteria/Scaling_BPM).
+Las reglas y pautas para las dificultades especificas solo aplican al nivel que está estipulado y por ende *no aplica a **todas** las dificultades de osu!mania*. Reglas y pautas relacionadas al ritmo aplican para beatmaps de aproximadamente 180 BPM. Si tu canción es drásticamente más rápida o lenta, algunas variables pueden ser diferentes, como se detalla en [Escalado de BPM en los criterios de clasificación](/wiki/Ranking_Criteria/Scaling_BPM).
 
 *Las pautas específicas de los modos de teclas se han elaborado en base a los modos de teclas clasificadas más comunes (4 teclas y 7 teclas). Cualquier otro modo de tecla debe aplicar estas pautas cuando corresponda.*
 
