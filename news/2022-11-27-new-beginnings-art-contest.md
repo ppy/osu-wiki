@@ -29,7 +29,9 @@ As an extra bonus, you'll have **27 days** from the date of this post to make yo
 
 Yes, that's almost exactly TWO WHOLE WEEKS more than the typical amount of time we open these contests for. We'll even be opening the voting basically on Christmas too, which is something we've never done before. Very exciting!
 
-Before you get cracking, make sure to read the rules below:
+As always, a selection of the top-voted entries as chosen by the community will be made into our *fancy* new years backgrounds to welcome in 2023. In addition, their authors will receive 3 months of osu! supporter, with the top 3 finalists receiving a profile badge to commemorate their victory.
+
+Got all that? Before you get cracking, make sure to read the rules below:
 
 ## Rules
 
