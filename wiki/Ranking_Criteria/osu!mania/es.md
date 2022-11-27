@@ -80,11 +80,11 @@ Las reglas y pautas generales se aplican a todo tipo de dificultad de osu!mania.
 - **Los cambios de velocidad del slider deben seguir la intensidad general de la canción.**
 - **Los cambios de la velocidad del slider deben ajustarse a la estructura de la canción.** Si la estructura de la canción usa una métrica derecha, 1/4, 1/8, 1/16 debe ser usado. Si la canción usa la métrica de swing, 1/6, 1/12 debe ser usado. Si la canción tiene el golpe fuerte en alguna otra posición tomando en cuenta las que ya se mencionaron, el snap debe caer en el golpe fuerte.
 - **Evite spammear segmentos de kiai cortos.** Hacerlo puede distraer y afectar negativamente la jugabilidad de un beatmap.
-- **Los descansos deberían ser utilizados solamente cuando la sección de la música este extremadamente calmada o silenciosa.** Las dificultades bajas, especialmente en canciones con BPM alto, puede usar descansos para evitar partes de la canción que sería irrazonable para nuevos jugadores jugar.
+- **Los descansos deberían ser utilizados solamente cuando la sección de la música esté extremadamente calmada o silenciosa.** Las dificultades bajas, especialmente en canciones con BPM alto, puede usar descansos para evitar partes de la canción que sería irrazonable para nuevos jugadores jugar.
 
 ## Dificultades específicas
 
-Las reglas y pautas para las dificultades especificas solo aplican al nivel que está estipulado y por ende *no aplica a **todas** las dificultades de osu!mania*. Reglas y pautas relacionadas al ritmo aplican para beatmaps de aproximadamente 180 BPM. Si tu canción es drásticamente más rápida o lenta, algunas variables pueden ser diferentes, como se detalla en [Escalado de BPM en los criterios de clasificación](/wiki/Ranking_Criteria/Scaling_BPM).
+Las reglas y pautas para las dificultades específicas solo aplican al nivel que está estipulado y por ende *no aplica a **todas** las dificultades de osu!mania*. Reglas y pautas relacionadas al ritmo aplican para beatmaps de aproximadamente 180 BPM. Si tu canción es drásticamente más rápida o lenta, algunas variables pueden ser diferentes, como se detalla en [Escalado de BPM en los criterios de clasificación](/wiki/Ranking_Criteria/Scaling_BPM).
 
 *Las pautas específicas de los modos de teclas se han elaborado en base a los modos de teclas clasificadas más comunes (4 teclas y 7 teclas). Cualquier otro modo de tecla debe aplicar estas pautas cuando corresponda.*
 
@@ -121,7 +121,7 @@ Si se requiere una dificultad Normal y se utiliza como la *dificultad más baja*
 - **Los valores de HP y OD no deben ser superiores a 7.5.**
 - **Notas con un snap consecutivo de 1/6 o más no deberían ser usados.** Ritmos lentos son más apropiados para este nivel de dificultad.
 - **Las notas largas deben ser presionadas por al menos 1/2 pulsación.** Soltar la nota más rápido que esto es demasiado difícil para los jugadores de este nivel.
-- **El final o release de las notas largas deben estar al menos a 1/2 pulsación separada de cada una.** Brechas más pequeñas que esto requieren un nivel de independencia de los dedos que estos jugadores de esta dificultad no pueden manejar.
+- **El final de las notas largas deben estar al menos a 1/2 pulsación separada de cada una.** Brechas más pequeñas que esto requieren un nivel de independencia de los dedos que los jugadores de esta dificultad no pueden manejar.
 - **Los objetos no deben colocarse durante la duración de una nota larga de 1/2.** Sin embargo, usar un objeto al principio o al final de una nota larga está bien.
 - **Evite ritmos más rápidos que 1/2 durante la duración de una nota larga de 1/1.**
 - **Evite usar cualquier tipo de patrón de shield de 1/4.** La coordinación requerida para este patrón es muy alta para los jugadores de este nivel.
@@ -131,7 +131,7 @@ Si se requiere una dificultad Normal y se utiliza como la *dificultad más baja*
 - **Evite el uso de chords durante patrones de notas de 1/4 consecutivos.** Sin embargo, usar un chord al inicio o final de un patrón está bien.
 - **Evite los anchors de tres o más notas.** Aunque son fáciles de leer para los jugadores, los anchors largos son agotadores.
 - **Evite utilizar minijacks de 1/4 u otros patrones de jack.** Estos patrones son demasiado exigentes físicamente para los jugadores de este nivel.
-- **Manipular la velocidad del slider es desalentado.** La velocidad del slider sólo debe cambiarse para secciones de música con diferentes intensidades y no debe ser drásticamente variable a lo largo del beatmap.
+- **Manipular la velocidad del slider es desalentado.** La velocidad del slider solo debe cambiarse para secciones de música con diferentes intensidades y no debe ser drásticamente variable a lo largo del beatmap.
 - **Los cambios de velocidad del slider a largo plazo deben estar entre 0.90x y 1.05x.**
 
 Pautas adicionales para dificultades *Normal de 4 teclas*:
@@ -149,14 +149,14 @@ Pautas adicionales para dificultades *Normal de 7 teclas*:
 #### Pautas
 
 - **Los valores del HP y OD no deben ser superiores a 8.**
-- **Notas con un snap consecutivo de 1/8 o más no deberían ser usados.** Estos pueden ser muy demandantes físicamente para jugadores de este nivel. Una excepción para esta pauta seria el uso de 3 graces que son usadas en snaps más altos (1/8, 1/12 y 1/16), ya que son solamente utilizados para acentuar este sonido.
+- **Notas con un snap consecutivo de 1/8 o más no deberían ser usados.** Estos pueden ser muy demandantes físicamente para jugadores de este nivel. Una excepción para esta pauta sería el uso de 3 graces que son usadas en snaps más altos (1/8, 1/12 y 1/16), ya que son solamente utilizados para acentuar este sonido.
 - **Los streams largos de notas de 1/4 deben incluir, como mínimo, una pausa de 1/2 donde sea natural implementarla después de cada frase musical.** Estos pueden ser demasiado exigentes físicamente para los jugadores de este nivel.
 - **Chords dentro de streams 1/4 deben estar separados por al menos una pulsación de 1/1 del uno del otro.** Uso más denso de los chords es demasiado difícil para jugadores de este nivel.
 - **Evite el uso de chords durante streams de 1/6.** Sin embargo, el uso de un chord al principio o al final del stream está bien.
 - **El uso de jacks de 1/4 es desalentado.** Estos pueden ser muy demandantes físicamente para jugadores de este nivel. Minijacks con un amplio tiempo de descanso en medio son aceptables.
 - **Evite utilizar más de 9 notas consecutivas en un trill.** La coordinación y balance de manos requerida para este patrón es muy alto para jugadores de este nivel.
-- **Las notas largas deben ser presionadas por mínimo 1/4 de pulsación.**
-- **Los objetos que aparecen directamente después de los cambios de velocidad del slider a corto plazo deben aparecer a la velocidad normal de desplazamiento del beatmap.** Para ello, los cambios de velocidad del slider a corto plazo sólo deberían utilizarse en los espacios vacíos entre las notas y deberían igualarse a una distancia de 1.0x.
+- **Las notas largas deben ser presionadas durante al menos 1/4 de una pulsación.**
+- **Los objetos que aparecen directamente después de los cambios de velocidad del slider a corto plazo deben aparecer a la velocidad normal de desplazamiento del beatmap.** Para ello, los cambios de velocidad del slider a corto plazo solo deberían utilizarse en los espacios vacíos entre las notas y deberían igualarse a una distancia de 1.0x.
 - **Los cambios de velocidad del slider a largo plazo deben estar entre 0.8x y 1.10x.**
 - **Los trucos que involucren la velocidad del slider deben ser reaccionables entre un 1/2 de una pulsación o más.**
 
@@ -177,7 +177,7 @@ Pautas adicionales para dificultades *Hard de 7 teclas*:
 #### Pautas
 
 - **Evite los picos de dificultad injustificados.** La dificultad debe ser representativa de la intensidad de la canción.
-- **Evite el uso de split rolls o cualquier tipo de stream de 1/8 complicado que dure más de 4 pulsaciones.** Streams de este tipo de snap son difíciles de ejecutar y sólo deben usarse si la canción lo justifica.
+- **Evite el uso de split rolls o cualquier tipo de stream de 1/8 complicado que dure más de 4 pulsaciones.** Streams de este tipo de snap son difíciles de ejecutar y solo deben usarse si la canción lo justifica.
 - **Evite usar streams de notas largas de 1/6 o más.** Estos son complicados de jugar debido a su corta duración. Use notas normales en los streams en vez de notas largas.
 - **Los cambios de velocidad del slider a largo plazo deben estar entre 0.70x y 1.10x.**
 - **Los trucos que involucren la velocidad del slider deben ser reaccionables entre un 1/4 de una pulsación o más cuando no están normalizados y 1/2 cuando están normalizados.**
