@@ -31,7 +31,11 @@ INTRO
 
 One of the most competitive and dramatic iterations of osu! World Cup has come to an end in late November.
 
-![](/wiki/Tournaments/OWC/2022/img/podium.jpg)
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=US }:: United States |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=KR }:: South Korea |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=DE }:: Germany |
 
 The top 3 of OWC 2021 have returned, but they shuffled the placings around a bit. The US team extended their title streak to five in a row, beating South Korea in a tense bracket reset. Germany keeps gathering OWC badges with a third place finish.
 
@@ -47,7 +51,17 @@ Their dominant showing continued in Grand Finals against South Korea, landing th
 
 ![](/wiki/shared/news/2022-12-01-osumonthly-5/OTMT2022@1x.jpg)
 
-TBD by 0x84f
+The 2nd edition of osu!taiko Malaysia Tournament (OTMT for short) has concluded! For the 2nd edition the production has gone up quite drastically, with 10 commissioned songs made for the tournament ([all released for free on Bandcamp](https://iristocrats.bandcamp.com/album/cons-is-c)), custom maps and even their own mascot, IRIS!
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | [CrabCow](https://osu.ppy.sh/users/9755504) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | [HHVanilla Ice](https://osu.ppy.sh/users/12803930) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | [JyaKeii](https://osu.ppy.sh/users/12086753) |
+
+[HHVanilla Ice](https://osu.ppy.sh/users/12803930) has successfully secured 2nd place after defeating [JyaKeii](https://osu.ppy.sh/users/12086753) in the losers bracket, and was even able to get to a bracket reset against [CrabCow](https://osu.ppy.sh/users/9755504) with the score of 7-5. Unfortunately, after an arduous two and a half hours HHVanilla Ice just fell short of securing their second title during the tiebreaker, which led CrabCow to winning their first OTMT title with a 30k point difference!
+
+If you are interested in the watching the match yourself you can find the [Twitch VOD here](https://www.twitch.tv/videos/1664000839), or if you want to listen to the insane commissioned tiebreaker song (and custom map), feel free to check out the [YouTube video here](https://www.youtube.com/watch?v=9Zun5qSahsI).
 
 ### OliBomby's Slider Picturator
 
@@ -109,4 +123,4 @@ Furthermore, descriptions have been added to all user groups which has also cont
 
 ## End word
 
-—TBD
+—0x84f, Junihuhn, Pisapou
