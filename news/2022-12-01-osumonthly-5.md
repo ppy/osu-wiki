@@ -71,7 +71,7 @@ TBD by RandomeLoL
 
 ### Notable osu!taiko plays of the month
 
-*Section written by [Blushing](https://osu.ppy.sh/users/5927823)
+*Section written by [Blushing](https://osu.ppy.sh/users/5927823)*
 
 It's one thing to get the number one spot on the leaderboard, but it's another to completely be the only FC with a mod at all, lest it be hidden of all mods. Though, [Peaceful](https://osu.ppy.sh/users/165027) took up the challenge and managed to absolutely *defile* and *violate* [The Violation](https://osu.ppy.sh/beatmapsets/1452092#taiko/2985808).
 
@@ -83,7 +83,7 @@ Some other notable plays for Novemeber include [shinchikuhome](https://osu.ppy.s
 
 ### Notable osu!catch plays of the month
 
-*Section written by [Patatitta](https://osu.ppy.sh/users/16294034)
+*Section written by [Patatitta](https://osu.ppy.sh/users/16294034)*
 
 [Aryssiel](https://osu.ppy.sh/users/2389481) has broken yet another record, getting an DT FC on the top difficulty of the recently ranked map [Kick Back!](https://osu.ppy.sh/beatmapsets/1864673#fruits/3834979). This marks a new pp record for the mod, being the first 1000pp play on this category of play, and beating the previous record by over 50pp.
 
