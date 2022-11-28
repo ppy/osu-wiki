@@ -59,9 +59,11 @@ The 2nd edition of osu!taiko Malaysia Tournament (OTMT for short) has concluded!
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | [HHVanilla Ice](https://osu.ppy.sh/users/12803930) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | [JyaKeii](https://osu.ppy.sh/users/12086753) |
 
-[HHVanilla Ice](https://osu.ppy.sh/users/12803930) has successfully secured 2nd place after defeating [JyaKeii](https://osu.ppy.sh/users/12086753) in the losers bracket, and was even able to get to a bracket reset against [CrabCow](https://osu.ppy.sh/users/9755504) with the score of 7-5. Unfortunately, after an arduous two and a half hours HHVanilla Ice just fell short of securing their second title during the tiebreaker, which led CrabCow to winning their first OTMT title with a 30k point difference!
+After crawling back out of the Losers Bracket by dealing a swift 7-1 blow to [JyaKeii](https://osu.ppy.sh/users/12086753), [HHVanilla Ice](https://osu.ppy.sh/users/12803930) was well on their way to defend their OTMT2021 Champion title by forcing a 7-5 bracket reset against [CrabCow](https://osu.ppy.sh/users/9755504) and even pushing for an initial 4-1 lead in the second set. However, CrabCow quickly found their footing and blasted through the remaining maps to challenge HHVanilla Ice in an epic tiebreaker showdown, closing off the tournament with a 30k point difference in favour of CrabCow and securing their first OTMT Champion title. 
 
-If you are interested in the watching the match yourself you can find the [Twitch VOD here](https://www.twitch.tv/videos/1664000839), or if you want to listen to the insane commissioned tiebreaker song (and custom map), feel free to check out the [YouTube video here](https://www.youtube.com/watch?v=9Zun5qSahsI).
+If you are interested in the watching the match yourself you can find the [Twitch VOD here](https://www.twitch.tv/videos/1664000839), or if you want to listen to the insane commissioned tiebreaker song (and custom map), feel free to check out the YouTube video below!
+
+<iframe width="100%" height="315" src="https://www.youtube.com/watch?v=9Zun5qSahsI" frameborder="0" allowfullscreen></iframe>
 
 ### OliBomby's Slider Picturator
 
@@ -93,7 +95,7 @@ While not being the longest nor fastest map osu!monthly has showcased, it is def
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/xdNJyMYHw0A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Some other notable plays for Novemeber include [shinchikuhome](https://osu.ppy.sh/users/3174184)'s [DT 3x100 FC](https://osu.ppy.sh/scores/taiko/175425262) on [Lunaticon](https://osu.ppy.sh/beatmapsets/1727109#taiko/3529595), while this one is a Loved map it is no small feat to be done, but lets be real - shinchikuhome does no such thing as small feats. Also, [nurend](https://osu.ppy.sh/users/9905079)'s [nightcore 10x miss](https://osu.ppy.sh/scores/taiko/175201104) being the second highest combo and lowest miss nightcore enhanced play yet.
+Some other notable plays for November include [shinchikuhome](https://osu.ppy.sh/users/3174184)'s [DT 3x100 FC](https://osu.ppy.sh/scores/taiko/175425262) on [Lunaticon](https://osu.ppy.sh/beatmapsets/1727109#taiko/3529595), while this one is a Loved map it is no small feat to be done, but lets be real - shinchikuhome does no such thing as small feats. Also, [nurend](https://osu.ppy.sh/users/9905079)'s [nightcore 10x miss](https://osu.ppy.sh/scores/taiko/175201104) being the second highest combo and lowest miss nightcore enhanced play yet.
 
 ### Notable osu!catch plays of the month
 
