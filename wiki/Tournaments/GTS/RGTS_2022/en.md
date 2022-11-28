@@ -209,6 +209,26 @@ The Rising Global Taiko Showdown 2022 is run by various community members.
 
 ## Match results
 
+### Quarterfinals
+
+Saturday, 26 November 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **United States A** ::{ flag=US }:: | **6** | 0 | ::{ flag=HK }:: Hong Kong | [#1](https://osu.ppy.sh/community/matches/105285223) |
+| Taiwan B ::{ flag=TW }:: | -1 | **0** | ::{ flag=ID }:: **Indonesia A** | *win by default* |
+| **Canada** ::{ flag=CA }:: | **0** | -1 | ::{ flag=ES }:: Spain | *win by default* |
+
+Sunday, 27 November 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Taiwan A ::{ flag=TW }:: | 2 | **6** | ::{ flag=KR }:: **South Korea** | [#1](https://osu.ppy.sh/community/matches/105313642) |
+| China ::{ flag=CN }:: | 4 | **6** | ::{ flag=JP }:: **Japan** | [#1](https://osu.ppy.sh/community/matches/105314539) |
+| Colombia/Argentina ::{ flag=CO }:: ::{ flag=AR }:: | 4 | **6** | ::{ flag=RO }:: ::{ flag=AT }:: ::{ flag=FI }:: ::{ flag=IT }:: **Rest of Europe** | [#1](https://osu.ppy.sh/community/matches/105316737) |
+| **Chile** ::{ flag=CL }:: | **6** | 4 | ::{ flag=DE }:: Germany B | [#1](https://osu.ppy.sh/community/matches/105319319) |
+| **Germany A** ::{ flag=DE }:: | **6** | 1 | ::{ flag=SG }:: Singapore | [#1](https://osu.ppy.sh/community/matches/105321549) |
+
 ### Round of 16
 
 Saturday, 19 November 2022:
