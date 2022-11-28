@@ -71,9 +71,27 @@ TBD by RandomeLoL
 
 ### Notable osu!taiko plays of the month
 
+*Section written by [Blushing](https://osu.ppy.sh/users/5927823)
+
+It's one thing to get the number one spot on the leaderboard, but it's another to completely be the only FC with a mod at all, lest it be hidden of all mods. Though, [Peaceful](https://osu.ppy.sh/users/165027) took up the challenge and managed to absolutely *defile* and *violate* [The Violation](https://osu.ppy.sh/beatmapsets/1452092#taiko/2985808).
+
+While not being the longest nor fastest map osu!monthly has showcased, it is definitely a merit in and of itself. Coming in at 270 BPM, various timing changes, not to mention these timing changes are happening within 1/4 streams, and being over 5 minutes in nigh non-stop drumming action. Beware, both the  replay and Peaceful make the map look like a walk in the park, but it is a sight to behold.
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/xdNJyMYHw0A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Some other notable plays for Novemeber include [shinchikuhome](https://osu.ppy.sh/users/3174184)'s [DT 3x100 FC](https://osu.ppy.sh/scores/taiko/175425262) on [Lunaticon](https://osu.ppy.sh/beatmapsets/1727109#taiko/3529595), while this one is a Loved map it is no small feat to be done, but lets be real - shinchikuhome does no such thing as small feats. Also, [nurend](https://osu.ppy.sh/users/9905079)'s [nightcore 10x miss](https://osu.ppy.sh/scores/taiko/175201104) being the second highest combo and lowest miss nightcore enhanced play yet.
+
 ### Notable osu!catch plays of the month
 
-### Notable mania plays of the month
+*Section written by [Patatitta](https://osu.ppy.sh/users/16294034)
+
+[Aryssiel](https://osu.ppy.sh/users/2389481) has broken yet another record, getting an DT FC on the top difficulty of the recently ranked map [Kick Back!](https://osu.ppy.sh/beatmapsets/1864673#fruits/3834979). This marks a new pp record for the mod, being the first 1000pp play on this category of play, and beating the previous record by over 50pp.
+
+<!-- VIDEO HERE -->
+
+There has been many other outstanding plays this month, but [Ttobas](https://osu.ppy.sh/users/2084568) DT FC on the top difficulty of [Now on stage!!](https://osu.ppy.sh/beatmapsets/745838#fruits/1572198) has stood in top of them, showing once again their impressive convert and DT skills on this massively popular map.
+
+### Notable osu!mania plays of the month
 
 ## Did you know?
 
