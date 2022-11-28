@@ -27,9 +27,21 @@ INTRO
 
 ### OWC 2022
 
-<!-- BANNER HERE (OWC2022)-->
+![](/wiki/shared/news/2022-12-01-osumonthly-5/banner-OWC.jpg)
 
-TBD by Junihuhn
+One of the most competitive and dramatic iterations of osu! World Cup has come to an end in late November.
+
+![](/wiki/Tournaments/OWC/2022/img/podium.jpg)
+
+The top 3 of OWC 2021 have returned, but they shuffled the placings around a bit. The US team extended their title streak to five in a row, beating South Korea in a tense bracket reset. Germany keeps gathering OWC badges with a third place finish.
+
+Everything was set for a South Korean Cinderella story. After the fifth place seeding, the Asian roster was widely regarded as one of the top teams, but was predicted to fall short on making the Grand Finals stage. Main reason: Two key members, namely [FlyingTuna](https://osu.ppy.sh/users/9224078) and [Karuna](https://osu.ppy.sh/users/8775024), have left the team and five new members were introduced. However, a new unstoppable duo with [worst hr player](https://osu.ppy.sh/users/14106450) and [[Karcher]](https://osu.ppy.sh/users/11443437) appeared, both having an incredible year of solo and team community tournaments. The mental stability helped to win back-to-back tiebreaker fights against the North American teams Canada and surprisingly, the USA.
+
+South Korea's opponent in winners bracket finals was Germany with captain [criller](https://osu.ppy.sh/users/8116659) and star player [WhiteCat](https://osu.ppy.sh/users/4504101). They have constantly "passed the eye test" with rock solid wins relying on aim and speed. But against the South Korean roster, they showed unexpected flaws on the consistency and DoubleTime picks. The Asian side used these weaknesses to their advantage and secured their Top 2 spot with a 7-3 victory. Now, the Germans would meet the US team once again — in Grand Finals losers bracket.
+
+After a winning streak of 22 matches, the USA in lower bracket was an unusual sight. Up until their loss against South Korea, their performance looked somewhat shaky. Nevertheless, their roster — once again — turned out to be the best-scaling team in the world, beating Romania and Poland in Finals without much issue. The skillcap difference was especially displayed at Grand Finals level, as the American side nearly swept Germany to knock them out of the tournament. Even though the USA have a deep and versatile roster, [Utami](https://osu.ppy.sh/users/7512553), the rookie of OWC 2021, stood out as the main carry of his team.
+
+Their dominant showing continued in Grand Finals against South Korea, landing the same result (7-1) to force the bracket reset. One more time, the team around the Korean power duo showed huge morale for a comeback, but their carry performances didn't come to fruition as the United States proceeded to win 7-4 to become champion for the fifth consecutive year.
 
 ### OTMT 2022
 
