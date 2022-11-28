@@ -111,6 +111,33 @@ The Rising Global Taiko Showdown 2022 is run by various community members.
 
 ## Mappools
 
+### Semifinals
+
+**[Download the mappack here! (81 MB)](https://mega.nz/file/fJJ2TCKS#mMjI1j1sZD7vZjo8u8Yj5kYn4bAAxujclkToyfStDP8)**
+
+- NoMod
+  1. [ShinRa-Bansho - Pink Kurage to, Sotto, Kiss o Shita. (sendol) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1893261#taiko/3901331)
+  2. [Miyashita Yuu - Endgame (\_Rise) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1402249#taiko/3693398)
+  3. [AAAA - parallel skydive (ekumea1123) \[Oni\]](https://osu.ppy.sh/beatmapsets/1355364#taiko/2805230)
+  4. [brz1128 - PLAZMA (Mew) \[Gimmick Party!!!\]](https://osu.ppy.sh/beatmapsets/1893509#taiko/3901917)
+  5. [ni-21 - Acidiva 303 (roufou) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/1616825#taiko/3899933)
+  6. [succducc - me & u (Kara Edit) (Boaz) \[Horiiizon vs Boaz's Lowbobs get out Taiko Oni\]](https://osu.ppy.sh/beatmapsets/1893515#taiko/3901936)
+- Hidden
+  1. [EBIMAYO - Power Attack (My Angel Eru) \[oni (RGTS Edit)\]](https://osu.ppy.sh/beatmapsets/1787570#taiko/3898077)
+  2. [penoreri - Sailing Force (MMzz) \[Oni\]](https://osu.ppy.sh/beatmapsets/632890#taiko/1343810)
+- HardRock
+  1. [Ponkichi - YOZAKURA Bladerz (TKS) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1707779#taiko/3552174)
+  2. [TAMUSIC - Shitai Ryokou (Greenshell) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/729113#taiko/1539110)
+- DoubleTime
+  1. [Co shu Nie - Forever Togethe (layxa) \[Loneliness\]](https://osu.ppy.sh/beatmapsets/1740820#taiko/3558789)
+  2. [ribb0n - OLAY (RIBB0N ILLEGAL BOOTLEG) (HiroK) \[Oni\]](https://osu.ppy.sh/beatmapsets/1098702#taiko/2298571)
+- FreeMod
+  1. [TUYU - Itsuka Otona ni Nareru to Ii ne. (arcpotato) \[2199's Intolerant!\]](https://osu.ppy.sh/beatmapsets/1771645#taiko/3629655)
+  2. [NIWASHI + Aoi - Nostalgic Lost Logic (sendol) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1893260#taiko/3901330)
+  3. [Ricky West & Makla - GEK (Megafan) \[KEK\]](https://osu.ppy.sh/beatmapsets/1893517#taiko/3901940)
+- Tiebreaker
+  1. **[Rabbit House - Divine Ordeal (sendol) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1893262#taiko/3901332)**
+
 ### Quarterfinals
 
 **[Download the mappack here! (66 MB)](https://mega.nz/file/ucRUSZIR#l4a08pxi-NNnBBVs6_uDGcxwTQLgFwDPQoyLOq3H7RM)**
