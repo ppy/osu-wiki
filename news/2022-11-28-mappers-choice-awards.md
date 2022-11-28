@@ -178,7 +178,6 @@ Before we dive into the results, let's take a peek at the various handsome rewar
 [![](/wiki/shared/news/2022-11-28-mappers-choice-awards/taiko-map-featuredArtist-2.png)](https://osu.ppy.sh/beatmapsets/1247020)
 [![](/wiki/shared/news/2022-11-28-mappers-choice-awards/taiko-map-featuredArtist-3.png)](https://osu.ppy.sh/beatmapsets/1630024)
 
-
 #### High BPM
 
 ![](/wiki/shared/news/2022-11-28-mappers-choice-awards/taiko-map-highBPMTaiko-0.png)
