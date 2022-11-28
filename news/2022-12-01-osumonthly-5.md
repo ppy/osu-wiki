@@ -81,7 +81,13 @@ Word on the street is that there will be more Hush-Hush medals coming soon, so i
 
 ### SillyFanGirl's BR eSports nomination
 
-TBD by RandomeLoL
+![https://twitter.com/premioesportsbr/status/1593590309631295488?s=20&t=1thfKY6-BpTCFDsbtltDdw](https://pbs.twimg.com/profile_banners/983759809156669440/1663599648/1500x500)
+
+It is already very hard being recognized as one of the best, most versatile players 4K osu!mania has ever seen. [SillyFanGirl](https://osu.ppy.sh/users/2288363) has not only been able to achieve this, but is also an active [content creator](https://www.youtube.com/@SillyFangirlosu), an active tournament player, and overall an incredible community member to interact with!
+
+But their astounding performance on [this year's osu!mania World Cup](https://osu.ppy.sh/wiki/en/Tournaments/MWC/2022_4K) was not enough, and for the second consecutive year they've been nominated in Brazil's eSports Award in the "Best Athlete in Other Modalities" category!
+
+If you'd want to directly support them or get yourself involved in the Brazil's eSports Awards show, [we'd encourage to participate in their website](https://peb.gg).
 
 ### Notable osu! plays of the month
 
@@ -93,7 +99,7 @@ It's one thing to get the number one spot on the leaderboard, but it's another t
 
 While not being the longest nor fastest map osu!monthly has showcased, it is definitely a merit in and of itself. Coming in at 270 BPM, various rhythm changes, not to mention these timing changes are happening within 1/4 streams, and being over 5 minutes in nigh non-stop drumming action, this map definitely holds up to its name. Beware, both the replay and Peaceful make the map look like a walk in the park, but it is a sight to behold.
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/xdNJyMYHw0A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/xdNJyMYHw0A" frameborder="0" allowfullscreen></iframe>
 
 Some other notable plays for November include [shinchikuhome](https://osu.ppy.sh/users/3174184)'s [DT 3x100 FC](https://osu.ppy.sh/scores/taiko/175425262) on [Lunaticon](https://osu.ppy.sh/beatmapsets/1727109#taiko/3529595), while this one is a Loved map it is no small feat to be done, but lets be real - shinchikuhome does no such thing as small feats. Also, [nurend](https://osu.ppy.sh/users/9905079)'s [nightcore 10x miss](https://osu.ppy.sh/scores/taiko/175201104) being the second highest combo and lowest miss nightcore enhanced play yet.
 
