@@ -6,7 +6,7 @@ tags:
 
 # Beatmap Spotlight Curators
 
-The **Beatmap Spotlight Curators** is a group that assists in selecting high-quality maps for each season of the [Beatmap Spotlights](/wiki/Beatmap_Spotlights).
+The **Beatmap Spotlight Curators** (***BSC***) is a group that assists in selecting high-quality maps for each season of the [Beatmap Spotlights](/wiki/Beatmap_Spotlights). The [Beatmap Spotlight Curators group page](https://osu.ppy.sh/groups/48) lists all of its members.
 
 ## Becoming a curator
 

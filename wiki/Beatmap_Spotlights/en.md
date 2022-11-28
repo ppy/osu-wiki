@@ -13,7 +13,7 @@ The **Beatmap Spotlights** (or just *Spotlights*, formerly *Ranking Charts*) is 
 
 The current season is the Summer 2022 season.
 
-The [Beatmap Spotlight Curator(s) group page](https://osu.ppy.sh/groups/48) lists all of the team members. A more detailed member listing for all of the various roles within the Beatmap Spotlight Curators can be found on the respective [Beatmap Spotlight Curators page](/wiki/Beatmap_Spotlights_Curators).
+The [Beatmap Spotlight Curators group page](https://osu.ppy.sh/groups/48) lists all of the team members. See the [Beatmap Spotlight Curators article](/wiki/Beatmap_Spotlights_Curators) page for a more detailed listing of all the roles within the BSC.
 
 ## Participation
 
