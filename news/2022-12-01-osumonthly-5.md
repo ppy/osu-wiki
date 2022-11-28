@@ -120,6 +120,7 @@ Furthermore, descriptions have been added to all user groups which has also cont
 ## Things to look out for in December
 
 - A new LAN is organized next month but this time, in France! The [UTT Arena](https://osu.ppy.sh/community/forums/topics/1661444?n=1) organized tournaments for osu! and osu!mania, so if you are interested in the French scene be sure to catch the top French players compete on the hardest maps by tuning into their livestream on [Twitch](https://www.twitch.tv/osufrlive).
+- The "New Beginnings" art contest [has been announced and is underway](https://osu.ppy.sh/community/contests/160)! You have until mid-December to submit your wonderful artworks, or if you are not the creative or drawing type, sit tight as we await for the voting to begin just around the winter holidays!
 
 ## End word
 
