@@ -142,8 +142,10 @@ Toutes les osu! originals sous licence officielle peuvent être utilisées sur o
 | :-: | :-: | :-- |
 | Down - Down | [#1](https://osu.ppy.sh/beatmapsets/1880545) | FM4 des demi-finales |
 | [Kurokotei feat. Sennzai - escape (the looking-glass, and what alice found there)](https://www.youtube.com/watch?v=rYmTItO3caw)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1880652) | Tiebreaker des demi-finales |
+| [NIWASHI - Harder Than Diamond](https://open.spotify.com/album/069ssNdAa8pqjgJ6Pk06Jq)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1884920) | FM4 des finales |
 | [Redside - Sidequest](https://soundcloud.com/redside100/sidequest)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1880625) | HR3 des quarts de finale |
-| [Thaehan - All or nothing](https://www.youtube.com/watch?v=lrtA205InoQ)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1880625) | HR1 des demi-finales |
+| [rN - onostrapha](https://www.youtube.com/watch?v=DyBxCLcrY-c)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1884914) | FM2 des finales |
+| [Thaehan - All or Nothing](https://www.youtube.com/watch?v=lrtA205InoQ)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1880625) | HR1 des demi-finales |
 
 #### ![](/wiki/shared/mode/taiko.png) [osu!taiko World Cup 2021](/wiki/Tournaments/TWC/2021)
 
@@ -176,7 +178,7 @@ Toutes les osu! originals sous licence officielle peuvent être utilisées sur o
 
 | Musique | Beatmap | Notes |
 | :-: | :-: | :-- |
-| [SUPER MWC KART - Purple Palace](https://www.youtube.com/watch?v=Mv-j30_r0FE) | [#1](https://osu.ppy.sh/beatmapsets/1569527) | Tiebreaker des Grandes Finales |
+| [SUPER MWC KART - Purple Palace](https://www.youtube.com/watch?v=Mv-j30_r0FE)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1569527) | Tiebreaker des Grandes Finales |
 
 #### ![](/wiki/shared/mode/mania.png) [osu!mania 7K World Cup 2022](/wiki/Tournaments/MWC/2022_7K)
 

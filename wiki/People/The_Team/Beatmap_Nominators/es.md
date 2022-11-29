@@ -1,4 +1,6 @@
 ---
+outdated_since: e6d2ac5ef1b2877f5cddc5dd041f7b9c4511ed82
+outdated_translation: true
 tags:
   - BN
   - BNG
