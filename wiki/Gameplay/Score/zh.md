@@ -2,7 +2,7 @@
 
 *对于其他用法，请参阅[分数（消歧义)](/wiki/Disambiguation/Score)。*
 
-玩家成功完成一张[谱面](https://github.com/ppy/osu-wiki/blob/master/wiki/Beatmap)所获得的分数，是由玩家在每个[打击物件](https://github.com/ppy/osu-wiki/blob/master/wiki/Gameplay/Hit_object) (Hit Object) 上所取得的[判定](https://github.com/ppy/osu-wiki/blob/master/wiki/Gameplay/Judgement)来决定的。目前正在使用的分数系统可以分成两个大版本。
+玩家成功完成一张[谱面](/wiki/Beatmap)所获得的分数，是由玩家在每个[打击物件](/wiki/Gameplay/Hit_object) (Hit Object) 上所取得的[判定](/wiki/Gameplay/Judgement)来决定的。目前正在使用的分数系统可以分成两个大版本。
 
 ## ScoreV1
 
