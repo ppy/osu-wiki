@@ -165,8 +165,7 @@ These consist of sliders (with or without repeats), hit circles or a combination
 
 The job of a deathstream is to practically fail players that cannot handle ordinary streams.
 
-The use of deathstreams will make your map **unrankable**!
-However, it may go through as one of the *approved* beatmaps.
+The use of deathstreams used to make your map unrankable, but now it is rankable, as approved category no longer exists.
 
 ### Slider Stream Jumps
 
