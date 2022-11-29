@@ -26,7 +26,7 @@ The osu! World Cup is a country-based 4v4 Team VS tournament following double-el
 | [osu! World Cup 2019](OWC/2019) | 2019-11-09 | 2019-12-22 | ::{ flag=US }:: United States | ::{ flag=KR }:: South Korea | ::{ flag=GB }:: United Kingdom |
 | [osu! World Cup 2020](OWC/2020) | 2020-10-24 | 2020-12-06 | ::{ flag=US }:: United States | ::{ flag=DE }:: Germany | ::{ flag=CA }:: Canada |
 | [osu! World Cup 2021](OWC/2021) | 2021-10-09 | 2021-11-28 | ::{ flag=US }:: United States | ::{ flag=DE }:: Germany | ::{ flag=KR }:: South Korea |
-| [osu! World Cup 2022](OWC/2022) | 2022-10-15 | 2022-11-27 | *TBD* | *TBD* | *TBD* |
+| [osu! World Cup 2022](OWC/2022) | 2022-10-15 | 2022-11-27 | ::{ flag=US }:: United States | ::{ flag=KR }:: South Korea | ::{ flag=DE }:: Germany |
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko World Cup
 
