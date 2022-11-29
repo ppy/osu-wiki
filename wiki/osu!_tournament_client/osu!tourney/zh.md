@@ -1,11 +1,8 @@
----
-outdated_translation: true
-outdated_since: 6cadc8a931108f84fc5d1d515a0a28d08a3ae018
----
-
 # osu!tourney
 
-**osu!tourney** 是 osu! 的官方多人旁观客户端，它可以被用于观看或直播多人游戏房间内的所有玩家。
+*参见：[osu! 比赛客户端](/wiki/osu!_tournament_client)*
+
+**osu!tourney** 是 osu! 的稳定版 (Stable) 多人旁观客户端，可以用它来旁观，或是在直播中显示多人游戏房间内所有玩家的游戏操作。
 
 如果你遇到问题，可以阅读下面的[故障排除](Troubleshooting)部分，也可以发送邮件至 [tournaments@ppy.sh](mailto:tournaments@ppy.sh)。
 
