@@ -620,7 +620,7 @@ Monday, 29 August 2021:
 | España | **[kazamabc](https://osu.ppy.sh/users/6937470)** ::{ flag=ES }:: | **5** | 2 | ::{ flag=ES }:: [NHarmonia](https://osu.ppy.sh/users/9582556) | [#1](https://osu.ppy.sh/community/matches/90062170) |
 | Latinoamerica Norte | **[Carlosflow](https://osu.ppy.sh/users/11940767)** ::{ flag=CO }:: | **5** | 1 | ::{ flag=CO }:: [ElMick13](https://osu.ppy.sh/users/3562488) | [#1](https://osu.ppy.sh/community/matches/90068720) |
 | Latinoamerica Sur | [Pancho](https://osu.ppy.sh/users/2347281) ::{ flag=CL }:: | 0 | **5** | ::{ flag=CL }:: **[xaxreid](https://osu.ppy.sh/users/4227431)** | *win by default* |
-| Latinoamerica Sur | **[ChUbi](https://osu.ppy.sh/users/9589295)** ::{ flag=CL }:: | **5** | 0 | ::{ flag=MX }:: [Kuromiau](https://osu.ppy.sh/users/2347281) | *win by default* |
+| Latinoamerica Sur | **[ChUbi](https://osu.ppy.sh/users/9589295)** ::{ flag=CL }:: | **5** | 0 | ::{ flag=CL }:: [Kuromiau](https://osu.ppy.sh/users/2347281) | *win by default* |
 
 Sunday, 30 August 2021:
 

@@ -44,7 +44,7 @@ In [osu!catch](/wiki/Game_mode/osu!catch), the BPM and the speed of the catcher 
 
 - When the Half Time mod is enabled, the `Length`, `BPM`, and `Objects` values will be coloured in a light blue with the new values. (Pictured below.)
   - The `Objects` value will still be coloured light blue even though no change in value is actually made.
-- The `CS`, `AR`, and `HP` values will have a superscript triangle next to their values that indicates a small decrease in their values (pictured below).
+- The `AR`, `OD`, and `HP` values will have a superscript triangle next to their values that indicates a small decrease in their values (pictured below).
 - The name "Half Time" could be labelled as a misnomer, as the HT mod does not actually decrease the speed of a beatmap by 0.5x times (50%); it decreases the speed of beatmaps by 0.75x (75%).
 
 ![Changed values](img/GM_HT.jpg "Screenshot of beatmap values being changed by the Half Time mod")

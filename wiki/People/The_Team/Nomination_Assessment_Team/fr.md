@@ -70,7 +70,9 @@ La [page du groupe de la Nomination Assessment Team](https://osu.ppy.sh/groups/7
 | Nom | Langues supplémentaires | Principales responsabilités |
 | :-- | :-- | :-- |
 | ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | Allemand | Évaluation |
+| ::{ flag=UK }:: [Dusk-](https://osu.ppy.sh/users/6092181) | Ourdou, un peu d'arabe | Évaluation |
 | ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733) | Cantonais, chinois | Évaluation |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Arabe, français, un peu d'italien | Évaluation |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | Évaluation |
 
 ### osu!catch
