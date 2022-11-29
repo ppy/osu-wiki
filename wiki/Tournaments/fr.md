@@ -26,7 +26,7 @@ L'osu! World Cup est un tournoi à double élimination par équipe de 4 formée 
 | [osu! World Cup 2019](OWC/2019) | 09/11/2019 | 22/12/2019 | ::{ flag=US }:: États-Unis | ::{ flag=KR }:: Corée du Sud | ::{ flag=GB }:: Royaume-Uni |
 | [osu! World Cup 2020](OWC/2020) | 24/10/2020 | 06/12/2020 | ::{ flag=US }:: États-Unis | ::{ flag=DE }:: Allemagne | ::{ flag=CA }:: Canada |
 | [osu! World Cup 2021](OWC/2021) | 09/10/2021 | 28/11/2021 | ::{ flag=US }:: États-Unis | ::{ flag=DE }:: Allemagne | ::{ flag=KR }:: Corée du Sud |
-| [osu! World Cup 2022](OWC/2022) | 15/10/2022 | 27/11/2022 | *À déterminer* | *À déterminer* | *À déterminer* |
+| [osu! World Cup 2022](OWC/2022) | 15/10/2022 | 27/11/2022 | ::{ flag=US }:: États-Unis | ::{ flag=KR }:: Corée du Sud | ::{ flag=DE }:: Allemagne |
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko World Cup
 
