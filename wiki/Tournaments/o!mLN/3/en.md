@@ -347,6 +347,22 @@ The osu!mania LN Tournament 3 is run by various community members.
 
 ## Match results
 
+### Finals
+
+Saturday, 26 November 2022:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| MIkuaimbot ::{ flag=TH }:: | 2 | **7** | ::{ flag=CZ }:: **grillroasted** | [#1](https://osu.ppy.sh/community/matches/105291944) |
+| **GripWarrior** ::{ flag=US }:: | **7** | 1 | ::{ flag=TH }:: --Pavin-- | [#1](https://osu.ppy.sh/community/matches/105293575) |
+
+Sunday, 27 November 2022:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| DemiFiendSMT ::{ flag=BR }:: | 1 | **7** | ::{ flag=PH }:: **Silhoueska Elze** | [#1](https://osu.ppy.sh/community/matches/105319383) |
+| GripWarrior ::{ flag=US }:: | 6 | **7** | ::{ flag=CZ }:: **grillroasted** | [#1](https://osu.ppy.sh/community/matches/105321654) |
+
 ### Semifinals
 
 Saturday, 19 November 2022:
