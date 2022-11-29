@@ -54,7 +54,7 @@ Las reglas y pautas generales se aplican a todo tipo de dificultad de osu!mania.
 
 ### Reglas
 
-- **El mod `Auto` debe ser capaz de alcanzar la puntuación completa (1,000,000) en todas las dificultades.**
+- **El mod `Auto` debe ser capaz de alcanzar la puntuación completa (1&nbsp;000&nbsp;000) en todas las dificultades.**
 - **Dos notas no pueden ser posicionadas en una sola columna en la misma marca de tiempo.**
 - **Ninguna columna puede quedar vacía.** Si quiere usar menos teclas, cambie el número de teclas en el Song Setup.
 - **No puede haber más de 6 notas presionadas en ningún momento dado en dificultades Insane o más bajas.** El uso de más de 6 notas también debe seguir una extensión razonable a la siguiente dificultad más baja. Esta regla no se aplica a los finales de las notas largas, ya que se sueltan, no se presionan.
