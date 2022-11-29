@@ -165,7 +165,7 @@ These consist of sliders (with or without repeats), hit circles or a combination
 
 The job of a deathstream is to practically fail players that cannot handle ordinary streams.
 
-The use of deathstreams used to make your map unrankable, but now it is rankable, as approved category no longer exists.
+During the [score ranking](/wiki/Ranking#score-ranking) era, the use of deathstreams were strictly limited as the [Ranking Criteria](/wiki/Ranking_Criteria) would only allow for a Ranked beatmap to have a maximum score of 20 million. However, with the introduction of the [pp system](http://osu.ppy.sh/wiki/en/Performance_points), the score cap rule was soon rendered moot and deathstreams saw a tick up in its usage as a result.
 
 ### Slider Stream Jumps
 
