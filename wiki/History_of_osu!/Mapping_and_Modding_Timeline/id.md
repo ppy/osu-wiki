@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Sejarah mapping dan modding
 
 Sistem mapping dan modding yang berlaku di osu! selalu berkembang seiring waktu. Artikel **Sejarah mapping dan modding** berikut ditujukan untuk mendokumentasikan berbagai perubahan besar yang terjadi serta sebagai pedoman bagi mereka yang ingin mencetuskan ide baru terkait mapping dan modding ke depannya.
