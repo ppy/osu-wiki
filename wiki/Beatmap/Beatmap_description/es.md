@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Descripción del beatmap
 
 La **descripción del beatmap** es un área pequeña debajo de la página de un [beatmap](/wiki/Beatmap) que brinda a los jugadores información sobre el beatmap usando [BBCode](/wiki/BBCode). Por lo general, destaca algunos datos sobre el beatmapque su creador consideró lo suficientemente importante, o se usa para publicitar otros proyectos de mapping.
