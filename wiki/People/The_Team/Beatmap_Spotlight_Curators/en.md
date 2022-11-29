@@ -20,14 +20,14 @@ All applicants are assessed based on their proficiency as a player, mapper, modd
 
 The Beatmap Spotlights project is run by various community members across all game modes, led on by a dedicated project lead.
 
+Each Beatmap Spotlights release is assembled by a dedicated curator team. Team leaders are marked in bold. The [Beatmap Spotlight Curators group page](https://osu.ppy.sh/groups/48) lists all of the team members.
+
 | Role | Members |
 | :-- | :-- |
 | Project lead | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) |
 | Project manager | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) |
 
 ## Curators
-
-Each Beatmap Spotlights release is assembled by a dedicated curator team. Team leaders are marked in bold. The [Beatmap Spotlight Curators group page](https://osu.ppy.sh/groups/48) lists all of the team members. A more detailed member listing for all of the various roles within the Beatmap Spotlight Curators can be found on the respective [Beatmap Spotlight page](/wiki/Beatmap_Spotlights).
 
 ### osu! curators
 
