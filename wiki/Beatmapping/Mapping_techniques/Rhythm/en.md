@@ -84,7 +84,7 @@ This will create a straight line.
 
 ### Hub and Spoke
 
-Nominator(s): Beuchi-chan
+Nominator(s): [Beuchi](https://osu.ppy.sh/users/67192)
 
 The **hub and spoke** formation is literally a hub with spokes peaking out.
 This technique requires at least 8 to 9 hit objects that are half a beat apart from another.
