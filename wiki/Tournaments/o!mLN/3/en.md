@@ -190,6 +190,33 @@ The osu!mania LN Tournament 3 is run by various community members.
 
 ## Mappools
 
+### Grand Finals
+
+**[Download the mappack here! (209 MB)](https://drive.google.com/drive/folders/1cVChb_ASuNsNqYXn1umApwaF9Ya8z6FQ?usp=sharing)**
+
+- Coordination
+  1. [Kairiki Bear - Akusei Lolita Machiavelism (DannyPX) \[T1M1NG H34V3N \[1.05x Rate\]\]](https://osu.ppy.sh/beatmapsets/1473182#mania/3023777)
+  2. [katagiri - Sendan Life (katagiri Bootleg) (Raveille) \[NostaLNgia (timing hell bootleg) \[1.1x Rate\]\]](https://osu.ppy.sh/beatmapsets/1217839#mania/3901454)
+  3. [Five Hammer - fffff op.2 (Hylotl) \[#FFFFFF LN burfed (what)\]](https://osu.ppy.sh/beatmapsets/1770683#mania/3893504)
+- Technical
+  1. [Camellia feat. chiisana - re:||VERSE (\[Crz\]Crysarlene) \[Delusion\]](https://osu.ppy.sh/beatmapsets/1222376#mania/3902887)
+  2. [Reol - Minazoko Yuuhodou (\[Crz\]Crysarlene) \[Beneath The Silence \[1.1x Rate\]\]](https://osu.ppy.sh/beatmapsets/1893942#mania/3902882)
+  3. [Silentroom - Shuu no Hazama (Hylotl) \[RaLNshower (Cut)\]](https://osu.ppy.sh/beatmapsets/1795612#mania/3881561)
+  4. [Supa7onyz pres. 5-let - Unsynchronized Rhythms (Polytetral) \[Chaotically Unsynced\]](https://osu.ppy.sh/beatmapsets/1893947#mania/3902894)
+- Wildcard
+  1. [HowToPlayLN - LNCryption (HowToPlayLN) \[Steganography \[feat. FelixSpade\]\]](https://osu.ppy.sh/beatmapsets/1893946#mania/3902893)
+  2. [KikuoHana - Desert Theater (FelixSpade) \[HTPLN x Felix's Fatamorgana 1.05x (252bpm)\]](https://osu.ppy.sh/beatmapsets/1893921#mania/3902825)
+  3. [Kobaryo - Milky Factory (YuEast 2018) \[LessJumptrill\]](https://osu.ppy.sh/beatmapsets/1844204#mania/3789349)
+  4. [Laur - Cyber Attack (Logan636) \[Logan x Funk's Abandonment of Peace (cut) x1.05\]](https://osu.ppy.sh/beatmapsets/1892814#mania/3900348)
+  5. [void feat. kotsukimiya, Gt. eba - Name of oath (\[Crz\]Crysarlene) \[Oathsworn\]](https://osu.ppy.sh/beatmapsets/1893940#mania/3902877)
+- Density
+  1. [cosMo@bousou-P - Tachyon (doctormango) \[HTPLN x doctormango's Epsilon-Delta \[1.05x Rate\]\]](https://osu.ppy.sh/beatmapsets/1863010#mania/3830912)
+  2. [Feryquitous feat. Aitsuki Nakuru - Kairikou (zzzzzzsa6177) \[Hikari No Yami (Cut Edit) x1.1\_P\]](https://osu.ppy.sh/beatmapsets/1651362#mania/3374658)
+  3. [Camellia - SECRET BOSS (Hylotl) \[Last staNd (w/ \[Crz\]Crysarlene)\]](https://osu.ppy.sh/beatmapsets/1893119#mania/3901087)
+  4. [Hino Isuka - Wonderful Paradise (HowToPlayLN) \[Delemonized-Pythonized Utopia \[1.1x Rate\]\]](https://osu.ppy.sh/beatmapsets/1893945#mania/3902890)
+- Tiebreaker
+  1. **[Kry.exe - Last Wish (feat. Ice) (FelixSpade) \[End\]](https://osu.ppy.sh/beatmapsets/1893944#mania/3902885)**
+
 ### Finals
 
 **[Download the mappack here! (207 MB)](https://drive.google.com/drive/folders/1Cw4uLSuFSInC4zPow7VkWB4UQiDUxRrf?usp=share_link)**
