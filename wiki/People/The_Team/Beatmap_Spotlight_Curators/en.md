@@ -16,8 +16,6 @@ In addition, there may be application cycles for certain game modes announced fo
 
 All applicants are assessed based on their proficiency as a player, mapper, modder, and tournament mappool selector for their respective game mode. Applicants do not need to be proficient in all of these things to be selected, but having broad experience helps. The goal is to have a roster of curators with a mix of various skill levels, experiences, and proficiencies. However, the number of curators is currently kept small and limited while the project is developing.
 
-The [Beatmap Spotlight Curator(s) group page](https://osu.ppy.sh/groups/48) lists all of the team members. A more detailed member listing for all of the various roles within the Beatmap Spotlight Curators can be found on the respective [Beatmap Spotlight page](/wiki/Beatmap_Spotlights).
-
 ## Organisation
 
 The Beatmap Spotlights project is run by various community members across all game modes, led on by a dedicated project lead.
@@ -29,7 +27,7 @@ The Beatmap Spotlights project is run by various community members across all ga
 
 ## Curators
 
-Each Beatmap Spotlights release is assembled by a dedicated curator team. Team leaders are marked in bold.
+Each Beatmap Spotlights release is assembled by a dedicated curator team. Team leaders are marked in bold. The [Beatmap Spotlight Curators group page](https://osu.ppy.sh/groups/48) lists all of the team members. A more detailed member listing for all of the various roles within the Beatmap Spotlight Curators can be found on the respective [Beatmap Spotlight page](/wiki/Beatmap_Spotlights).
 
 ### osu! curators
 
