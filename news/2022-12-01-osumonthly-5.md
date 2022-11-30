@@ -99,7 +99,7 @@ Word on the street is that there will be more Hush-Hush medals coming soon, so i
 
 It is already a very hard feat to be recognized as one of the best, most versatile players 4K osu!mania has ever seen. [SillyFanGirl](https://osu.ppy.sh/users/2288363) has not only been able to achieve this, but is also an active [content creator](https://www.youtube.com/@SillyFangirlosu), an active tournament player, and overall an incredible community member to interact with!
 
-But as if their astounding performance on [this year's osu!mania World Cup](https://osu.ppy.sh/wiki/en/Tournaments/MWC/2022_4K) was not enough, for the second consecutive year they've been nominated in Brazil's eSports Award in the "Best Athlete in Other Modalities" category!
+But as if their astounding performance on [this year's osu!mania World Cup](/wiki/Tournaments/MWC/2022_4K) was not enough, for the second consecutive year they've been nominated in Brazil's eSports Award in the "Best Athlete in Other Modalities" category!
 
 If you want to directly support them or get yourself involved in the Brazil's eSports Awards show, [we encourage you to do so by participating on their website](https://peb.gg).
 
@@ -141,7 +141,7 @@ Roughly 24 hours passed since [stεganography](https://osu.ppy.sh/beatmapsets/18
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/npZLSLb6REA" frameborder="0" allowfullscreen></iframe>
 
-For those who remember the map since it's showcase in [MWC22's Grand Finals](https://osu.ppy.sh/wiki/en/Tournaments/MWC/2022_4K#grand-finals), this is quite the feat given its pattern variety. It takes a jack of all trades and master of all to be able to achieve such a thing, and bojii brushed it off as it were just another normal chart.
+For those who remember the map since it's showcase in [MWC22's Grand Finals](/wiki/Tournaments/MWC/2022_4K#grand-finals), this is quite the feat given its pattern variety. It takes a jack of all trades and master of all to be able to achieve such a thing, and bojii brushed it off as it were just another normal chart.
 
 Nowadays, player skill far surpasses what the Ranked section has to offer. But who knows — maybe the next, greatest challenge will finally put players at bay.
 
