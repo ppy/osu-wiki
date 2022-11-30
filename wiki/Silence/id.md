@@ -48,4 +48,4 @@ Durasi *silence* yang dijatuhkan akan bervariasi tergantung pada seberapa berat 
 
 ## Referensi
 
-[^chat-cleanup]: [Blog post by ppy (2012-12-17) "This Week in osu!"](https://blog.ppy.sh/post/38114063519/this-week-in-osu-5)
+[^chat-cleanup]: [Postingan blog oleh ppy (2012-12-17) "This Week in osu!"](https://blog.ppy.sh/post/38114063519/this-week-in-osu-5)
