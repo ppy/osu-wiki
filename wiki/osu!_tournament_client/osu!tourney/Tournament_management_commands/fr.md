@@ -1,3 +1,8 @@
+---
+outdated_since: 38bcf6a851d496d756294b1787e3a33456002279
+outdated_translation: true
+---
+
 # Commandes de gestion des tournois
 
 Les commandes de tchat suivantes sont fournies pour la gestion à distance des salles de tournoi multijoueurs :
