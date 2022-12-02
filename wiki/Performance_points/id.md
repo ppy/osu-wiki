@@ -24,7 +24,7 @@ Pada 16 Januari 2021, perubahan dilakukan pada sistem ppv2 yang bertujuan member
 - Menyesuaikan nilai dari kerugian pp oleh miss untuk berdampak lebih kecil pada map lebih lama dengan kombo yang lebih tinggi
 - Mengurangi perolehan pp untuk [akurasi](/wiki/Gameplay/Accuracy) yang lebih rendah
 
-ppv2 pada saat ini bersifat aktif dengan pembaruan yang dirilis oleh [Performance Points Committee](/wiki/People/Performance_Points_Committee) dalam bentuk postingan berita.
+ppv2 pada saat ini bersifat aktif dengan pembaruan yang dirilis secara berkala oleh [Performance Points Committee](/wiki/People/Performance_Points_Committee) dalam bentuk postingan berita.
 
 ## Penghitungan
 
