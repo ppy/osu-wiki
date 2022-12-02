@@ -5,7 +5,7 @@ With a wide variety of music available, most tracks will be fine for use in osu!
 - Heavily political
 - Promoting racial tension or division
 - Extremely and unbearably loud
-- Contains audible clipping unintended by the artist
+- Contains audible clipping or distortion unintended by the artist
 
 Please note that songs with explicit content are [covered by different regulations](/wiki/Rules/Explicit_Content).
 
