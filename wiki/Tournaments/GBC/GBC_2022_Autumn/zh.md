@@ -27,7 +27,7 @@ tags:
 | 常规赛第三周 | 2022-11-12/2022-11-13 |
 | 常规赛第四周 | 2022-11-19/2022-11-20 |
 | 十六强赛 | 2022-11-26/2022-11-27 |
-| 四分之一决赛 | 2022-12-03/2022-12-04 |
+| 八强赛 | 2022-12-03/2022-12-04 |
 | 半决赛 | 2022-12-10/2022-12-11 |
 | 决赛 | 2022-12-17/2022-12-18 |
 
@@ -105,29 +105,25 @@ GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
 | 23 | **近月少女的礼仪** | ::{ flag=CN }:: **[Zyuuu](https://osu.ppy.sh/users/15389275)**, ::{ flag=CN }:: [tito31158](https://osu.ppy.sh/users/16436669), ::{ flag=CN }:: [Koishi-0514](https://osu.ppy.sh/users/7546593), ::{ flag=CN }:: [yem sky](https://osu.ppy.sh/users/10588209), ::{ flag=CN }:: [FALSEFAST](https://osu.ppy.sh/users/25508274) |
 | 24 | **又一个倒霉蛋** | ::{ flag=CN }:: **[fishbone2445](https://osu.ppy.sh/users/17640814)**, ::{ flag=CN }:: [chana](https://osu.ppy.sh/users/18375016), ::{ flag=CN }:: [ALWW](https://osu.ppy.sh/users/18786195), ::{ flag=CN }:: [KafuChino](https://osu.ppy.sh/users/14826575), ::{ flag=CN }:: [spensll](https://osu.ppy.sh/users/4547744) |
 
-## 赛程: 十六强赛
+## 赛程: 八强赛
 
-### 2022 年 11 月 26 日，星期六
-
-| A 队 | B 队 | 比赛时间 (UTC+8) |
-| --: | :-- | :-- |
-| 俄亥俄州立大学躁狂播放器 | 奖励一把大天空 | Nov 26 (Sat) 16:00 |
-| 黎曼猜想 | 都什么年代还在玩传统音游 | Nov 26 (Sat) 18:30 |
-| 铁戈金马 | 上课军训补课反正凑不齐人 | Nov 26 (Sat) 19:30 |
-| 经典米托镂空鱼香鸡肉丸 | 队名太多不知道用哪个 | Nov 26 (Sat) 19:30 |
-| 猫猫面馆 | 近月少女的礼仪 | Nov 26 (Sat) 20:00 |
-| ban位先ban行李箱 | BMS精灵 | Nov 26 (Sat) 20:30 |
-| 均衡教派 | SV狗都不玩 | Nov 26 (Sat) 22:20 |
-
-### 2022 年 11 月 27 日，星期日
+### 2022 年 12 月 3 日，星期六
 
 | A 队 | B 队 | 比赛时间 (UTC+8) |
 | --: | :-- | :-- |
-| 又一个倒霉蛋 | DAMWONGaming | Nov 27 (Sun) 21:00 |
+| 黎曼猜想 | 奖励一把大天空 | Dec 3 (Sat) 20:00 |
+| ban位先ban行李箱 | 经典米托镂空鱼香鸡肉丸 | Dec 3 (Sat) 21:30 |
+
+### 2022 年 12 月 4 日，星期日
+
+| A 队 | B 队 | 比赛时间 (UTC+8) |
+| --: | :-- | :-- |
+| 铁戈金马 | 猫猫面馆 | Dec 4 (Sun) 10:00 |
+| DAMWONGaming | 均衡教派 | Dec 4 (Sun) 20:00 |
 
 ## 图池
 
-### 十六强赛 & 四分之一决赛
+### 十六强赛 & 八强赛
 
 **[在这里下载图包 (157.4 MB)](https://drive.google.com/file/d/1_8ksULOY-BnRho6CusdN8u0qlgU5EdeV/)**
 
@@ -222,6 +218,28 @@ GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
   1. [IslandWind/PIKASONIC - Forever (Cut ver.) (\[GB\]Mafufu) \[Stage 1: Everlasting\]](https://osu.ppy.sh/beatmapsets/1863068#mania/3831056)
 
 ## 赛果
+
+### 十六强赛
+
+可在[此处](https://docs.qq.com/sheet/DWlJRYXRQeGVvZGxS)查询本轮详细数据。
+
+2022 年 11 月 26 日，星期六：
+
+| A 队 |  |  | B 队 | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| 俄亥俄州立大学躁狂播放器 | 3 | **7** | **奖励一把大天空** | [#1](https://osu.ppy.sh/community/matches/105286504) |
+| **黎曼猜想** | **7** | 4 | 都什么年代还在玩传统音游 | [#1](https://osu.ppy.sh/community/matches/105288257) |
+| **铁戈金马** | **7** | 5 | 上课军训补课反正凑不齐人 | [#1](https://osu.ppy.sh/community/matches/105289414) |
+| **经典米托镂空鱼香鸡肉丸** | **7** | 3 | 队名太多不知道用哪个 | [#1](https://osu.ppy.sh/community/matches/105289268) |
+| **猫猫面馆** | **7** | 6 | 近月少女的礼仪 | [#1](https://osu.ppy.sh/community/matches/105289561) |
+| **ban位先ban行李箱** | **7** | 1 | BMS精灵 | [#1](https://osu.ppy.sh/community/matches/105290342) |
+| **均衡教派** | **7** | 2 | SV狗都不玩 | [#1](https://osu.ppy.sh/community/matches/105292649) |
+
+2022 年 11 月 27 日，星期日：
+
+| A 队 |  |  | B 队 | 比赛链接 |
+| --: | :-- | :-- |
+| 又一个倒霉蛋 | 5 | **7** | **DAMWONGaming** | [#1](https://osu.ppy.sh/community/matches/105316060) |
 
 ### 常规赛总结
 
