@@ -1,7 +1,6 @@
 # 서식
 
 *작성 표준에 대한 내용은 [Article style criteria/Writing](../Writing)를 참조하세요.*\
-*알림: 이 문서에서는 [RFC 2119](https://tools.ietf.org/html/rfc2119)에 따라 요구사항 수준을 설명합니다.*
 
 ## 로케일
 
