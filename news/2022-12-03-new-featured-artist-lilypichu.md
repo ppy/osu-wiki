@@ -8,7 +8,7 @@ Settle in for a warm batch of comfy tracks crafted by our latest Featured Artist
 
 ![](https://assets.ppy.sh/artists/325/header.jpg)
 
-When she isn't voice acting or drawing, renowned streamer **LilyPichu** spends hours designing her own distinct brand of relaxing tunes. She's released back to back singles throughout the last three years, ranging from lo-fi beats to emotional streams of consciousness, all of which strike a chord with the osu! audience.
+When she isn't voice acting or drawing, renowned streamer **LilyPichu** spends hours designing her own distinct brand of relaxing tunes. She's released back-to-back singles throughout the last three years, ranging from lo-fi beats to emotional streams of consciousness, all of which strike a chord with the osu! audience.
 
 **14** of the coziest songs imaginable are at your fingertips, but only by visiting [**LilyPichu**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/325) and downloading pre-timed beatmap templates. So do that.
  
