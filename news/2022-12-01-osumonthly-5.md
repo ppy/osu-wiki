@@ -63,7 +63,7 @@ South Korea's opponent in the winners' bracket finals was Germany with captain [
 
 After a winning streak of 22 matches, the USA in lower bracket was an unusual sight. Up until their loss against South Korea, their performance looked somewhat shaky. Nevertheless, their roster — once again — turned out to be the best-scaling team in the world, beating Romania and Poland in Losers Finals without much issue. The skill cap difference was especially displayed at Grand Finals level, as the American side nearly swept Germany to knock them out of the tournament. Even though the USA has a deep and versatile roster, [Utami](https://osu.ppy.sh/users/7512553), the rookie of OWC 2021, stood out as the main carry of his team.
 
-Their dominant showing continued in Grand Finals against South Korea, landing the same result (7-1) to force the bracket reset. One more time, the team around the Korean power duo [Karcher] and worst hr player showed huge morale for a comeback, but their carry performances didn't come to fruition as the United States proceeded to win 7-4 to become champion for the fifth consecutive year.
+Their dominant showing continued in Grand Finals against South Korea, landing the same result (7-1) to force the bracket reset. One more time, the team around the Korean power duo \[Karcher\] and worst hr player showed huge morale for a comeback, but their carry performances didn't come to fruition as the United States proceeded to win 7-4 to become champion for the fifth consecutive year.
 
 ### OTMT 2022
 
