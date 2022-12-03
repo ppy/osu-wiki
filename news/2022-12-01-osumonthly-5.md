@@ -33,7 +33,7 @@ First of all, argon (the new default osu!(lazer) skin) has finally received its 
 
 As for what's coming in the future for the visual look of osu!(lazer), the gameplay HUD is slated for a redesign as per the [WIP design documents](https://www.figma.com/file/up6guVobzpc3DZlQxWzVmv/Gameplay-Layout). Go have a peek!
 
-One cool feature that we'd like to showcase this month is a really small, but neat detail. Did you know that in osu!(lazer), you can click on the game mode icons on a beatmap card in song select to show difficulties of that mode? Take a look below!
+One cool tidbit that we'd like to show this month is a really small, but neat detail. Did you know that in osu!(lazer), you can click on the game mode icons on a beatmap card in song select to show difficulties of that mode? Take a look below!
 
 VIDEO HERE ONCE UPLOADED
 
@@ -85,7 +85,7 @@ If you are interested in watching the match yourself, you can find the [Twitch V
 
 ### OliBomby's Slider Picturator
 
-If you are at all interested in mapping on osu! you have probably already heard of [OliBomby](https://osu.ppy.sh/users/6573093) and his [Mapping Tools](https://mappingtools.github.io/) program that makes life easier for hundreds of mappers. But have you seen the latest update, or the [tweet](https://twitter.com/OliBomby/status/1592941194291863553?t=TEB1KmJ9pLdquaoVT9kv-g&s=19) from OliBomby on Twitter, revealing the Slider Picturator™?
+If you are at all interested in mapping on osu! you have probably already heard of [OliBomby](https://osu.ppy.sh/users/6573093) and his [Mapping Tools](https://mappingtools.github.io/) program that makes life easier for hundreds of mappers. But have you seen the latest update, or the [tweet](https://twitter.com/OliBomby/status/1592941194291863553?t=TEB1KmJ9pLdquaoVT9kv-g&s=19) from OliBomby on Twitter, revealing the Slider Picturator?
 
 To summarise this new tool, it allows you to transform your slider into any image. That's right, any image can now be embedded as a slider in a map. You don't have to be a genius to understand all the possibilities this can offer, and many mappers have already started to experiment with it. With each new update to Mapping Tools, OliBomby seems to push the limits of the editor. How far can we go from here? Only the future will tell.
 
@@ -147,6 +147,8 @@ There has been many other outstanding plays this month, but [Ttobas](https://osu
 
 ### Notable osu!mania plays of the month
 
+*Section written by [RandomeLoL](https://osu.ppy.sh/users/7080063)*
+
 Roughly 24 hours passed since [stεganography](https://osu.ppy.sh/beatmapsets/1846639#mania/3793375) — osu!mania's most recent challenging chart — was released. That's the amount of time it took [bojii](https://osu.ppy.sh/users/10083439/mania) to submit the first Full Combo in its leaderboards.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/npZLSLb6REA" frameborder="0" allowfullscreen></iframe>
@@ -191,4 +193,4 @@ Thank you for reading this month's edition of osu!monthly! Next month will see t
 
 The osu!monthly team once again wishes you the best during the current holiday season!
 
-—0x84f, Junihuhn, Pisapou
+—0x84f, Junihuhn, Pisapou, RandomeLoL
