@@ -37,7 +37,7 @@ Play through [dreamy night](https://osu.ppy.sh/beatmapsets/1298416) hosted by [B
 ### LilyPichu - anemo sky
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/325/anemo%20sky%2FLilyPichu%20-%20anemo%20sky.mp3%22 type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/325/anemo%20sky%2FLilyPichu%20-%20anemo%20sky.mp3" type="audio/mpeg">
 </audio>
 
 ### LilyPichu - last cup of coffee
