@@ -35,10 +35,10 @@ The **GB Cup 2022 Autumn** (***GBC 2022 Autumn***) is a 3v3 captain draft-based 
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, KanonBot profile badge, Custom medal per team member, ¥250 CNY |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | KanonBot profile badge, Custom medal per team member, ¥250 CNY |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | KanonBot profile badge, Custom medal per team member, ¥200 CNY |
-| *4th place* | Custom medal per team member, ¥150 CNY |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, KanonBot profile badge, Custom medal, ¥250 CNY |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | KanonBot profile badge, Custom medal, ¥250 CNY |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | KanonBot profile badge, Custom medal, ¥200 CNY |
+| *4th place* | Custom medal, ¥150 CNY |
 | *5-8th place* | ¥100 CNY |
 | *9-16th place* | ¥80 CNY |
 | *17-21st place* | ¥60 CNY |
@@ -112,7 +112,7 @@ The GB Cup 2022 Autumn is run by the Team GB and various community members.
 | Team A | Team B | Match time (UTC+8) |
 | --: | :-- | :-- |
 | 黎曼猜想 | 奖励一把大天空 | Dec 3 (Sat) 20:00 |
-| ban位先ban行李箱 | 经典米托镂空鱼香鸡肉丸 | Dec 3 (Sat) 21:30 |
+| ban位先ban行李箱 | 经典米托镂空鱼香鸡肉丸 | Dec 3 (Sat) 21:00 |
 
 ### Sunday, 4 December 2022
 
@@ -237,8 +237,8 @@ Saturday, 26 November 2022:
 
 Sunday, 27 November 2022:
 
-| Team A | Team B | Match time (UTC+8) |
-| --: | :-- | :-- |
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
 | 又一个倒霉蛋 | 5 | **7** | **DAMWONGaming** | [#1](https://osu.ppy.sh/community/matches/105316060) |
 
 ### Regular stage summary
