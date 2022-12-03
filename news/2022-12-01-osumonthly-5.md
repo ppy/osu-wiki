@@ -143,7 +143,7 @@ Also, we have [nurend](https://osu.ppy.sh/users/9905079)'s [Nightcore 10x miss](
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/7NUzL8_lFh4" frameborder="0" allowfullscreen></iframe>
 
-There has been many other outstanding plays this month, but [b-a-d-s123](https://osu.ppy.sh/users/2084568)'s [HDDT FC](https://osu.ppy.sh/scores/fruits/210344480) on the top difficulty of [Now on stage!!](https://osu.ppy.sh/beatmapsets/745838#fruits/1572198) has stood on top of them, showing once again their impressive convert and DT skills on this massively popular map.
+There has been many other outstanding plays this month, but [b-a-d-s123](https://osu.ppy.sh/users/2084568)'s [HDDT SS](https://osu.ppy.sh/scores/fruits/210344480) on the top difficulty of [Now on stage!!](https://osu.ppy.sh/beatmapsets/745838#fruits/1572198) has stood on top of them, showing once again their impressive convert and DT skills on this massively popular map.
 
 ### Notable osu!mania plays of the month
 
