@@ -125,7 +125,7 @@ Another notable play amongst a sea of mrekk's scores that push the game beyond i
 
 *Section written by [Blushing](https://osu.ppy.sh/users/5927823)*
 
-It's one thing to get the number one spot on the leaderboard, but it's another to completely be the only FC with a mod at all, lest it be hidden of all mods. Though, [Peaceful](https://osu.ppy.sh/users/165027) took up the challenge and managed to absolutely *defile* and *violate* [The Violation](https://osu.ppy.sh/beatmapsets/1452092#taiko/2985808).
+It's one thing to get the number one spot on the leaderboard with Hidden, but it's another to be the only FC with a mod at all. Though, [Peaceful](https://osu.ppy.sh/users/165027) took up the challenge and managed to absolutely *violate* [The Violation](https://osu.ppy.sh/beatmapsets/1452092#taiko/2985808).
 
 While not being the longest nor fastest map osu!monthly has showcased, it is definitely a merit in and of itself. Coming in at 270 BPM, various rhythm changes, not to mention these timing changes are happening within 1/4 streams, and being over 5 minutes into nigh non-stop drumming action, this map definitely holds up to its name. Beware, although Peaceful makes the map look like a walk in the park, one should not mistake it as being easy.
 
