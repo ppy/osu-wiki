@@ -186,6 +186,7 @@ The rules are as usual: you have 1 month since the news post release to answer, 
 
 - A new LAN is organised next month, but this time, in France! The [UTT Arena](https://osu.ppy.sh/community/forums/topics/1661444?n=1) organised tournaments for osu! and osu!mania, so if you are interested in the French scene, be sure to catch the top French players compete on the hardest maps by tuning into their livestream on [Twitch](https://www.twitch.tv/osufrlive).
 - The "New Beginnings" art contest [has been announced and is underway](https://osu.ppy.sh/community/contests/160)! You have until mid-December to submit your wonderful artworks, or if you are not the creative or drawing type, sit tight as we await for the voting to begin just around the winter holidays!
+- Are you interested in the upper echelon of 4-digit osu!taiko gameplay? Don't miss [RGTS 2022](https://gtsosu.com/rgts/home), which runs throughout the first half of December until the 18th, where 5-man teams between ranks #1500 and #4500 confront each other in 2v2 matches. You can watch it all live on their [Twitch channel](https://www.twitch.tv/gtsosu), so don't hesitate to take a look.
 
 ## End word
 
