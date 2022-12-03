@@ -1,4 +1,7 @@
 ---
+no_native_review: true
+outdated_translation: true
+outdated_since: e55d19c5048d09bf313e20ed37b9f1b84fbfe3e2
 tags:
   - osu! staff
   - osu!team
@@ -6,8 +9,6 @@ tags:
   - staff
   - team
   - team osu!
-no_native_review: true
-outdated_translation: true
 ---
 
 # El Equipo
