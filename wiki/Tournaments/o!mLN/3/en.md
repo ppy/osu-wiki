@@ -45,7 +45,7 @@ The osu!mania LN Tournament 3 is run by various community members.
 | :-- | :-- |
 | Organiser | ::{ flag=VN }:: [MashedPotato](https://osu.ppy.sh/users/10494860), ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061), ::{ flag=FR }:: [\_yosh](https://osu.ppy.sh/users/7157133) |
 | Mappool selector | ::{ flag=US }:: [chxu](https://osu.ppy.sh/users/13712190), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061), ::{ flag=ID }:: [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871) |
-| Mapper | ::{ flag=PH }:: [Akatsumi Chan](https://osu.ppy.sh/users/11306351), ::{ flag=US }:: [Ballistic](https://osu.ppy.sh/users/5170506), ::{ flag=NL }:: [DannyPX](https://osu.ppy.sh/users/11253722), ::{ flag=PH  }:: [doctormango](https://osu.ppy.sh/users/13370527), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304), ::{ flag=TH }:: [HowToPlayLN](https://osu.ppy.sh/users/10879600), ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260), ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656), ::{ flag=US }:: [Logan636](https://osu.ppy.sh/users/9423766), ::{ flag=GB }:: [MocaLoca](https://osu.ppy.sh/users/13474391), ::{ flag=TH }:: [MyZterioN-](https://osu.ppy.sh/users/8521723), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767), ::{ flag=SG }:: [TheFunk](https://osu.ppy.sh/users/13981991), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619), ::{ flag=ID }:: [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ::{ flag=US }:: [\[GS\]Rose](https://osu.ppy.sh/users/9481266), ::{ flag=PL }:: [\_underjoy](https://osu.ppy.sh/users/2235750) |
+| Mapper | ::{ flag=PH }:: [Akatsumi Chan](https://osu.ppy.sh/users/11306351), ::{ flag=US }:: [Ballistic](https://osu.ppy.sh/users/5170506), ::{ flag=NL }:: [DannyPX](https://osu.ppy.sh/users/11253722), ::{ flag=PH  }:: [doctormango](https://osu.ppy.sh/users/13370527), ::{ flag=ID }:: [FelixSpade](https://osu.ppy.sh/users/2651304), ::{ flag=TH }:: [HowToPlayLN](https://osu.ppy.sh/users/10879600), ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260), ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656), ::{ flag=US }:: [Logan636](https://osu.ppy.sh/users/9423766), ::{ flag=VN }:: [Micleak](https://osu.ppy.sh/users/16140674), ::{ flag=GB }:: [MocaLoca](https://osu.ppy.sh/users/13474391), ::{ flag=TH }:: [MyZterioN-](https://osu.ppy.sh/users/8521723), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767), ::{ flag=SG }:: [TheFunk](https://osu.ppy.sh/users/13981991), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619), ::{ flag=ID }:: [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ::{ flag=US }:: [\[GS\]Rose](https://osu.ppy.sh/users/9481266), ::{ flag=PL }:: [\_underjoy](https://osu.ppy.sh/users/2235750) |
 | Mappool tester | ::{ flag=PH }:: [4Kenn](https://osu.ppy.sh/users/20496815), ::{ flag=PH }:: [Akatsumi Chan](https://osu.ppy.sh/users/11306351), ::{ flag=TH }:: [banan](https://osu.ppy.sh/users/16011592), ::{ flag=MY }:: [cheewee10](https://osu.ppy.sh/users/4477497), ::{ flag=US }:: [chxu](https://osu.ppy.sh/users/13712190), ::{ flag=VN }:: [CPT\_Sivelia](https://osu.ppy.sh/users/12562107), ::{ flag=NL }:: [DannyPX](https://osu.ppy.sh/users/11253722), ::{ flag=TH }:: [HowToPlayLN](https://osu.ppy.sh/users/10879600), ::{ flag=BR }:: [LeMarcinho](https://osu.ppy.sh/users/13347579), ::{ flag=VN }:: [Micleak](https://osu.ppy.sh/users/16140674), ::{ flag=TH }:: [MyZterioN-](https://osu.ppy.sh/users/8521723), ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061), ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379), ::{ flag=CN }:: [tyrcs](https://osu.ppy.sh/users/13026904), ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=TW }:: [\[Crz\]Ha0201](https://osu.ppy.sh/users/12243730), ::{ flag=CL }:: [\[GS\]Myuka](https://osu.ppy.sh/users/10072733) |
 | Referee | ::{ flag=PE }:: [-Xuste-](https://osu.ppy.sh/users/17989444), ::{ flag=ID }:: [-Yubi-](https://osu.ppy.sh/users/17851478), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=MY }:: [Auxesiaa](https://osu.ppy.sh/users/16417718), ::{ flag=TW }:: [blacktea12](https://osu.ppy.sh/users/13389861), ::{ flag=NL }:: [DannyPX](https://osu.ppy.sh/users/11253722), ::{ flag=US }:: [Dynascape](https://osu.ppy.sh/users/8784587), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=VN }:: [Krystal Quan](https://osu.ppy.sh/users/20569104), ::{ flag=US }:: [Logan636](https://osu.ppy.sh/users/9423766), ::{ flag=PH }:: [Normiplier](https://osu.ppy.sh/users/10069850), ::{ flag=VN }:: [poitydabezt](https://osu.ppy.sh/users/17148657), ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061), ::{ flag=NL }:: [Saemitsu](https://osu.ppy.sh/users/14262789), ::{ flag=FR }:: [Satsukel](https://osu.ppy.sh/users/9066390)::{ flag=GB }:: [StartAndSelect](https://osu.ppy.sh/users/8720555), ::{ flag=BR }:: [Yuragi](https://osu.ppy.sh/users/8501380), ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501), ::{ flag=FR }:: [\_yosh](https://osu.ppy.sh/users/7157133) |
 | Streamer | ::{ flag=MY }:: [-Einar-](https://osu.ppy.sh/users/8782656), ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=US }:: [Alter-](https://osu.ppy.sh/users/4980256), ::{ flag=VN }:: [DanX](https://osu.ppy.sh/users/10542408), ::{ flag=US }:: [EpsilonMaiagare](https://osu.ppy.sh/users/3855052), ::{ flag=ID }:: [jonjot](https://osu.ppy.sh/users/2084869), ::{ flag=TH }:: [konkawe](https://osu.ppy.sh/users/15665805), ::{ flag=SE }:: [Logg45vs](https://osu.ppy.sh/users/8684540), ::{ flag=US }:: [SunApple](https://osu.ppy.sh/users/11817622) |
@@ -190,6 +190,60 @@ The osu!mania LN Tournament 3 is run by various community members.
 
 ## Mappools
 
+### Grand Finals
+
+**[Download the mappack here! (209 MB)](https://drive.google.com/drive/folders/1cVChb_ASuNsNqYXn1umApwaF9Ya8z6FQ?usp=sharing)**
+
+- Coordination
+  1. [Kairiki Bear - Akusei Lolita Machiavelism (DannyPX) \[T1M1NG H34V3N \[1.05x Rate\]\]](https://osu.ppy.sh/beatmapsets/1473182#mania/3023777)
+  2. [katagiri - Sendan Life (katagiri Bootleg) (Raveille) \[NostaLNgia (timing hell bootleg) \[1.1x Rate\]\]](https://osu.ppy.sh/beatmapsets/1217839#mania/3901454)
+  3. [Five Hammer - fffff op.2 (Hylotl) \[#FFFFFF LN burfed (what)\]](https://osu.ppy.sh/beatmapsets/1770683#mania/3893504)
+- Technical
+  1. [Camellia feat. chiisana - re:||VERSE (\[Crz\]Crysarlene) \[Delusion\]](https://osu.ppy.sh/beatmapsets/1222376#mania/3902887)
+  2. [Reol - Minazoko Yuuhodou (\[Crz\]Crysarlene) \[Beneath The Silence \[1.1x Rate\]\]](https://osu.ppy.sh/beatmapsets/1893942#mania/3902882)
+  3. [Silentroom - Shuu no Hazama (Hylotl) \[RaLNshower (Cut)\]](https://osu.ppy.sh/beatmapsets/1795612#mania/3881561)
+  4. [Supa7onyz pres. 5-let - Unsynchronized Rhythms (Polytetral) \[Chaotically Unsynced\]](https://osu.ppy.sh/beatmapsets/1893947#mania/3902894)
+- Wildcard
+  1. [HowToPlayLN - LNCryption (HowToPlayLN) \[Steganography \[feat. FelixSpade\]\]](https://osu.ppy.sh/beatmapsets/1893946#mania/3902893)
+  2. [KikuoHana - Desert Theater (FelixSpade) \[HTPLN x Felix's Fatamorgana 1.05x (252bpm)\]](https://osu.ppy.sh/beatmapsets/1893921#mania/3902825)
+  3. [Kobaryo - Milky Factory (YuEast 2018) \[LessJumptrill\]](https://osu.ppy.sh/beatmapsets/1844204#mania/3789349)
+  4. [Laur - Cyber Attack (Logan636) \[Logan x Funk's Abandonment of Peace (cut) x1.05\]](https://osu.ppy.sh/beatmapsets/1892814#mania/3900348)
+  5. [void feat. kotsukimiya, Gt. eba - Name of oath (\[Crz\]Crysarlene) \[Oathsworn\]](https://osu.ppy.sh/beatmapsets/1893940#mania/3902877)
+- Density
+  1. [cosMo@bousou-P - Tachyon (doctormango) \[HTPLN x doctormango's Epsilon-Delta \[1.05x Rate\]\]](https://osu.ppy.sh/beatmapsets/1863010#mania/3830912)
+  2. [Feryquitous feat. Aitsuki Nakuru - Kairikou (zzzzzzsa6177) \[Hikari No Yami (Cut Edit) x1.1\_P\]](https://osu.ppy.sh/beatmapsets/1651362#mania/3374658)
+  3. [Camellia - SECRET BOSS (Hylotl) \[Last staNd (w/ \[Crz\]Crysarlene)\]](https://osu.ppy.sh/beatmapsets/1893119#mania/3901087)
+  4. [Hino Isuka - Wonderful Paradise (HowToPlayLN) \[Delemonized-Pythonized Utopia \[1.1x Rate\]\]](https://osu.ppy.sh/beatmapsets/1893945#mania/3902890)
+- Tiebreaker
+  1. **[Kry.exe - Last Wish (feat. Ice) (FelixSpade) \[End\]](https://osu.ppy.sh/beatmapsets/1893944#mania/3902885)**
+
+### Finals
+
+**[Download the mappack here! (207 MB)](https://drive.google.com/drive/folders/1Cw4uLSuFSInC4zPow7VkWB4UQiDUxRrf?usp=share_link)**
+
+- Coordination
+  1. [Miyashita Yuu - Endgame (doctormango) \[Dance of the Reaper\]](https://osu.ppy.sh/beatmapsets/1856605#mania/3815684)
+  2. [YOASOBI - Yoru ni Kakeru (gzdongsheng) \[LNight 1.1x (286bpm)\]](https://osu.ppy.sh/beatmapsets/1569356#mania/3204773)
+  3. [KURORAK - Gamma Stop Giving Me Hard Bags (chxu) \[LNettuce\]](https://osu.ppy.sh/beatmapsets/1888615#mania/3889592)
+- Technical
+  1. [Outsider - Acquaintance (FelixSpade) \[LN Prodigy\]](https://osu.ppy.sh/beatmapsets/1868638#mania/3844290)
+  2. [Mono. - Susceptible (DannyPX) \[Influenced\]](https://osu.ppy.sh/beatmapsets/1889156#mania/3890770)
+  3. [Sta feat. Ice - Cathedral (Micleak) \[Exposure to a downpour of sunlight and a thousand chords held in\]](https://osu.ppy.sh/beatmapsets/1865981#mania/3838235)
+  4. [phonon - Polyriddim (Izadi House Flip) (ERA Hatsuki) \[FunKatsu's ratJAM v2.0\]](https://osu.ppy.sh/beatmapsets/1851364#mania/3803970)
+- Wildcard
+  1. [xi vs. Kaneko Chiharu - Op.I \<fear-TITAN-\> (MyZterioN-) \[Theia 1.05x\]](https://osu.ppy.sh/beatmapsets/1882752#mania/3876326)
+  2. [Laur - Nostalgic Blood of the Strife (Logan636) \[Logan x Felix's World End\]](https://osu.ppy.sh/beatmapsets/1889195#mania/3890953)
+  3. [uma vs. Morimori Atsushi - Re:End of a Dream (FelixSpade) \[Raveille vs. Felix's Awaken\]](https://osu.ppy.sh/beatmapsets/1889177#mania/3890920)
+  4. [Camellia - Sulfide (Cut Ver.) (Micleak) \[Acetification\]](https://osu.ppy.sh/beatmapsets/1888853#mania/3890073)
+  5. [Hatsuki yura - confession -Mitsuyaku Language- (ERA Hatsuki) \[Akatsumi's Confession to eZmmR (Full Vers) \[1.15x Rate\]\]](https://osu.ppy.sh/beatmapsets/1861215#mania/3856909)
+- Density
+  1. [Helblinde - Grief & Malice (FelixSpade) \[LN Prodigy (cut) 1.15x (230bpm)\]](https://osu.ppy.sh/beatmapsets/1853497#mania/3859925)
+  2. [DRIVE. - SO GRAND. (DannyPX) \[EDITED\]](https://osu.ppy.sh/beatmapsets/1889155#mania/3890768)
+  3. [beatMARIO (COOL&CREATE) - Lunatic Eyes \~ Invisible Full Moon (Cut Ver.) (TheFunk) \[Blood Moon 1.1x (220bpm)\]](https://osu.ppy.sh/beatmapsets/1888601#mania/3889545)
+  4. [xi - Event Hor!zon (FelixSpade) \[LN Prodigy 1.1x (220bpm)\]](https://osu.ppy.sh/beatmapsets/1872786#mania/3859933)
+- Tiebreaker
+  1. **[rN vs. \[Shanom, ptar124 & Zekai\] - dichroma, ludiosia. (HowToPlayLN) \[dilemma\]](https://osu.ppy.sh/beatmapsets/1889170#mania/3890904)**
+
 ### Semifinals
 
 - Coordination
@@ -319,6 +373,42 @@ The osu!mania LN Tournament 3 is run by various community members.
   1. [II-L - Unidentified Frequency Op.1 (Type-Adamski) (HowToPlayLN) \[Unidentified Qualifiers Stage 4: (Type-Density)\]](https://osu.ppy.sh/beatmapsets/1863195#mania/3831323)
 
 ## Match results
+
+### Finals
+
+Saturday, 26 November 2022:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| MIkuaimbot ::{ flag=TH }:: | 2 | **7** | ::{ flag=CZ }:: **grillroasted** | [#1](https://osu.ppy.sh/community/matches/105291944) |
+| **GripWarrior** ::{ flag=US }:: | **7** | 1 | ::{ flag=TH }:: --Pavin-- | [#1](https://osu.ppy.sh/community/matches/105293575) |
+
+Sunday, 27 November 2022:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| DemiFiendSMT ::{ flag=BR }:: | 1 | **7** | ::{ flag=PH }:: **Silhoueska Elze** | [#1](https://osu.ppy.sh/community/matches/105319383) |
+| GripWarrior ::{ flag=US }:: | 6 | **7** | ::{ flag=CZ }:: **grillroasted** | [#1](https://osu.ppy.sh/community/matches/105321654) |
+
+### Semifinals
+
+Saturday, 19 November 2022:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **UmmmMrMoo** ::{ flag=CA }:: | **6** | 3 | ::{ flag=KR }:: gaesol | [#1](https://osu.ppy.sh/community/matches/105144442) |
+| **--Pavin--** ::{ flag=TH }:: | **6** | 1 | ::{ flag=ID }:: Onta\_Bekasi | [#1](https://osu.ppy.sh/community/matches/105150732) |
+| jhleetgirl ::{ flag=JP }:: | 3 | **6** | ::{ flag=CZ }:: **grillroasted** | [#1](https://osu.ppy.sh/community/matches/105151610) |
+| **TingMomentum** ::{ flag=GB }:: | **6** | 4 | ::{ flag=MY }:: xxxxxx2800 | [#1](https://osu.ppy.sh/community/matches/105152800) |
+| MIkuaimbot ::{ flag=TH }:: | 5 | **6** | ::{ flag=PH }:: **Silhoueska Elze** | [#1](https://osu.ppy.sh/community/matches/105155475) |
+
+Sunday, 20 November 2022:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **grillroasted** ::{ flag=CZ }:: | **6** | 5 | ::{ flag=GB }:: TingMomentum | [#1](https://osu.ppy.sh/community/matches/105177609) |
+| **--Pavin--** ::{ flag=TH }:: | **6** | 3 | ::{ flag=CA }:: UmmmMrMoo | [#1](https://osu.ppy.sh/community/matches/105181060) |
+| **DemiFiendSMT** ::{ flag=BR }:: | **6** | 3 | ::{ flag=US }:: GripWarrior | [#1](https://osu.ppy.sh/community/matches/105183677) |
 
 ### Quarterfinals
 

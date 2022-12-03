@@ -8,7 +8,7 @@ tags:
 
 ![OWC 2022 banner](img/owc2022_banner.jpg)
 
-The **osu! World Cup 2022** (***OWC 2022***) is a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It is the thirteenth instalment of the osu! World Cup.
+The **osu! World Cup 2022** (***OWC 2022***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It was the thirteenth instalment of the osu! World Cup.
 
 ## Tournament schedule
 
@@ -26,7 +26,7 @@ The **osu! World Cup 2022** (***OWC 2022***) is a country-based osu! tournament 
 
 ## Prizes
 
-The osu! World Cup 2022 offers a minimum $5,000 cash prize pool and limited edition merch. The prize pool may increase further from **[community donations](https://opencollective.com/osu-tournaments/events/osu-world-cup-2022-0b3a1a25)**!
+The osu! World Cup 2022 offered a minimum $5,000 cash prize pool and limited edition merch. The prize pool was further increased to $6,085 from **[community donations](https://opencollective.com/osu-tournaments/events/osu-world-cup-2022-0b3a1a25)**.
 
 | Placing | Prizes |
 | :-: | :-- |
@@ -34,9 +34,11 @@ The osu! World Cup 2022 offers a minimum $5,000 cash prize pool and limited edit
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 32% of the prize pool, single-run merch, profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool, single-run merch, profile badge |
 
+![](img/badge-1st.jpg "OWC 2022 winner badge") ![](img/badge-2nd.jpg "OWC 2022 2nd place badge") ![](img/badge-3rd.jpg "OWC 2022 3rd place badge")
+
 ## Organisation
 
-The osu! World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) and various community members.
+The osu! World Cup 2022 was run by the [osu! team](/wiki/People/The_Team) and various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -114,33 +116,42 @@ The osu! World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) and var
 | ::{ flag=UY }:: | **Uruguay** | **[daanit](https://osu.ppy.sh/users/6159669)**, [El Milanga](https://osu.ppy.sh/users/12264918), [Rebo](https://osu.ppy.sh/users/6942259), [Kazuki K](https://osu.ppy.sh/users/6407282), [Athenai](https://osu.ppy.sh/users/5522789), [Shikke](https://osu.ppy.sh/users/5382216), [Melxdy](https://osu.ppy.sh/users/11113213), [etterna in osu](https://osu.ppy.sh/users/5243536) |
 | ::{ flag=VN }:: | **Vietnam** | **[realshin](https://osu.ppy.sh/users/8006029)**, [\[sin\]](https://osu.ppy.sh/users/11021073), [Phoeni\_](https://osu.ppy.sh/users/14953642), [mizumi\_a](https://osu.ppy.sh/users/14977562), [walle](https://osu.ppy.sh/users/8431549), [waifaii](https://osu.ppy.sh/users/9256803), [\_ Freedom \_](https://osu.ppy.sh/users/3999831), [SkyArrow](https://osu.ppy.sh/users/4039647) |
 
-## Match schedule: Finals
+## Podium
 
-### Friday, 18 November 2022
-
-| Team A | Team B | Match time |  |
-| --: | :-- | :-- | :-: |
-| Romania ::{ flag=RO }:: | ::{ flag=RU }:: Russian Federation | [Nov 18 (Fri) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221118T180000&p1=1440&p2=49&p3=166) | [^losers-bracket] |
-
-### Saturday, 19 November 2022
-
-| Team A | Team B | Match time |  |
-| --: | :-- | :-- | :-: |
-| United States ::{ flag=US }:: | ::{ flag=RO }:: Romania | [Nov 19 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221119T180000&p1=1440&p2=263&p3=49) | [^losers-bracket] |
-| Poland ::{ flag=PL }:: | ::{ flag=CA }:: Canada | [Nov 19 (Sat) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221119T190000&p1=1440&p2=262&p3=188) | [^losers-bracket] |
-| Playtester A | Playtester B | [Nov 19 (Sat) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221119T200000&p1=1440) | [^showmatch] |
-
-### Sunday, 20 November 2022
-
-| Team A | Team B | Match time |  |
-| --: | :-- | :-- | :-: |
-| Poland ::{ flag=PL }:: | ::{ flag=US }:: United States | [Nov 20 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221120T190000&p1=1440&p2=262&p3=263) | [^potential-match] |
-| Poland ::{ flag=PL }:: | ::{ flag=RO }:: Romania | [Nov 20 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221120T190000&p1=1440&p2=262&p3=49) | [^potential-match] |
-| Canada ::{ flag=CA }:: | ::{ flag=US }:: United States | [Nov 20 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221120T190000&p1=1440&p2=188&p3=263) | [^potential-match] |
-| Canada ::{ flag=CA }:: | ::{ flag=RO }:: Romania | [Nov 20 (Sun) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221120T190000&p1=1440&p2=188&p3=49) | [^potential-match] |
-| South Korea ::{ flag=KR }:: | ::{ flag=DE }:: Germany | [Nov 20 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20221120T140000&p1=1440&p2=235&p3=37) | [^winners-bracket] |
+![](img/podium.jpg "OWC 2022 podium")
 
 ## Mappools
+
+### Grand Finals
+
+**[Download the mappack here (165 MB)](https://drive.google.com/uc?id=1mHF-2DOzNobXvGfl3FxKRyQwNIxiFJFn)**
+
+- No Mod
+  1. [TUYU - Under Kids (captin1) \[Rebellion\]](https://osu.ppy.sh/beatmapsets/1889093#osu/3890657)
+  2. [Raimukun - Myths Orbis (knowledgeking) \[Triangulum Majus\]](https://osu.ppy.sh/beatmapsets/1889095#osu/3890663)
+  3. [JYOCHO - Kirei na Sankaku, Asahi Ningen (Raijodo) \[Special\]](https://osu.ppy.sh/beatmapsets/1888518#osu/3889346)
+  4. [DJ Raisei - T.R.A.P. (Halgoh) \[Vesperal Singularity\]](https://osu.ppy.sh/beatmapsets/1889105#osu/3890684)
+  5. [II-L ft.amelie xoxo - THE EARTH (Ryuusei Aika) \[Zeta\]](https://osu.ppy.sh/beatmapsets/1889101#osu/3890672)
+- Hidden
+  1. [FELT - Summer Fever (Camo) \[Shimmering Sky\]](https://osu.ppy.sh/beatmapsets/1888937#osu/3890317)
+  2. [Dark PHOENiX - Shoujo ga Mita Nihon no Genfuukei (iljaaz) \[Phantasm\]](https://osu.ppy.sh/beatmapsets/1889104#osu/3890682)
+  3. [Sephid - Thunderstrike 1988 (captin1) \[Thunderstrike 2022\]](https://osu.ppy.sh/beatmapsets/1889109#osu/3890688)
+- Hard Rock
+  1. [KINEMA106 - Nightmare Party (Mordred) \[Poi\]](https://osu.ppy.sh/beatmapsets/1888954#osu/3890347)
+  2. [Rabbit House - Sanctuary (funny) \[jesse we have to map for owc2022\]](https://osu.ppy.sh/beatmapsets/1889094#osu/3890659)
+  3. [The Fearless Flyers - Assassin (olc) \[lets go\]](https://osu.ppy.sh/beatmapsets/1580627#osu/3227488)
+- Double Time
+  1. [Aoi Eir - Yurari (Garden) \[Expert\]](https://osu.ppy.sh/beatmapsets/1888926#osu/3890269)
+  2. [-45 - yoshikawa45 vs. siesta45 Battle of HongKong (Dada) \[Para Bellum\]](https://osu.ppy.sh/beatmapsets/1889111#osu/3890692)
+  3. [Demetori - Kuuchuu ni Shizumu Kishinjou \~ Counter-Clock World (jonathanlfj) \[Lunatic Collab\]](https://osu.ppy.sh/beatmapsets/347719#osu/818597)
+  4. [Anri - Last Surf Holiday (Night Tempo edit) (Net0) \[Extra Tourney\]](https://osu.ppy.sh/beatmapsets/1889079#osu/3890628)
+- FreeMod
+  1. [Falcom Sound Team jdk - Satisfied Madness (jonathanlfj) \[Abyss\]](https://osu.ppy.sh/beatmapsets/1889083#osu/3890637)
+  2. [Iyowa feat.KAFU - Kyu-Kurarin (7\_7 bootleg) (hehe) \[0\_0\]](https://osu.ppy.sh/beatmapsets/1888821#osu/3890011)
+  3. [yak\_won - Wind Tales (ktgster) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1889131#osu/3890721)
+  4. [METAROOM - SPIKEY BOI (JeZag) \[MUSH (THE FINALE)\]](https://osu.ppy.sh/beatmapsets/1888434#osu/3889200)
+- Tiebreaker
+  1. **[seatrus - EXXTRA JUDGEMENT (elicz1) \[GRAND FINALE\]](https://osu.ppy.sh/beatmapsets/1889132#osu/3890723)**
 
 ### Finals
 
@@ -308,6 +319,41 @@ The osu! World Cup 2022 is run by the [osu! team](/wiki/People/The_Team) and var
   3. [Rameses B - Mountains (feat. Veela) (Strategas) \[Is it worth it?\]](https://osu.ppy.sh/beatmapsets/1863179#osu/3831294)
 
 ## Match results
+
+### Grand Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/13XPjZ5SWVblJ4NB3IMMsSi1aurh_5ra_vSCxpO7HiW4).
+
+Saturday, 26 November 2022:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Germany ::{ flag=DE }:: | 1 | **7** | ::{ flag=US }:: **United States** | [#1](https://osu.ppy.sh/community/matches/105297522) |
+
+Sunday, 27 November 2022:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| South Korea ::{ flag=KR }:: | 1 | **7** | ::{ flag=US }:: **United States** | [#1](https://osu.ppy.sh/community/matches/105307852) |
+| **United States** ::{ flag=US }:: | **7** | 4 | ::{ flag=KR }:: South Korea | [#1](https://osu.ppy.sh/community/matches/105308638) |
+
+### Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1-tmgzX8OJ1NczNq9MsX5ByFRb9JMvnwPKol83GFr5-k).
+
+Saturday, 19 November 2022:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **United States** ::{ flag=US }:: | **7** | 1 | ::{ flag=RO }:: Romania | [#1](https://osu.ppy.sh/community/matches/105160174) |
+| **Poland** ::{ flag=PL }:: | **7** | 2 | ::{ flag=CA }:: Canada | [#1](https://osu.ppy.sh/community/matches/105161592) |
+
+Sunday, 20 November 2022:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **South Korea** ::{ flag=KR }:: | **7** | 3 | ::{ flag=DE }:: Germany | [#1](https://osu.ppy.sh/community/matches/105179952) |
+| Poland ::{ flag=PL }:: | 3 | **7** | ::{ flag=US }:: **United States** | [#1](https://osu.ppy.sh/community/matches/105186246) |
 
 ### Semifinals
 
@@ -630,10 +676,3 @@ The final standings for the Qualifier stage can be found at the following [sprea
    - **Do not ask for a reschedule unless it is absolutely needed. The tournament managers reserve the right to deny any rescheduling request.**
    - Late reschedule requests will not be accepted under any circumstances.
 6. Captains are responsible for their team's availability.
-
-## Notes
-
-[^winners-bracket]: Winners bracket match
-[^losers-bracket]: Losers bracket match
-[^potential-match]: Potential match — final matchup depends on the results of the preceding Losers Bracket matches
-[^showmatch]: Finals showmatch — OWC playtesters compete against each other
