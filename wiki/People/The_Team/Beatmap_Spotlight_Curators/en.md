@@ -6,7 +6,7 @@ tags:
 
 # Beatmap Spotlight Curators
 
-The **Beatmap Spotlight Curators** (***BSC***) is a group that assists in selecting high-quality maps for each season of the [Beatmap Spotlights](/wiki/Beatmap_Spotlights). The [Beatmap Spotlight Curators group page](https://osu.ppy.sh/groups/48) lists all of its members.
+The **Beatmap Spotlight Curators** (***BSC***) is a group that assists in selecting high-quality maps for each season of the [Beatmap Spotlights](/wiki/Beatmap_Spotlights).
 
 ## Becoming a curator
 
@@ -16,18 +16,16 @@ In addition, there may be application cycles for certain game modes announced fo
 
 All applicants are assessed based on their proficiency as a player, mapper, modder, and tournament mappool selector for their respective game mode. Applicants do not need to be proficient in all of these things to be selected, but having broad experience helps. The goal is to have a roster of curators with a mix of various skill levels, experiences, and proficiencies. However, the number of curators is currently kept small and limited while the project is developing.
 
-## Organisation
+## Curators
 
-The Beatmap Spotlights project is run by various community members across all game modes, led on by a dedicated project lead.
-
-Each Beatmap Spotlights release is assembled by a dedicated curator team. Team leaders are marked in bold. The [Beatmap Spotlight Curators group page](https://osu.ppy.sh/groups/48) lists all of the team members.
+The Beatmap Spotlights project is run by various community members across all game modes, led by a dedicated project lead. The [Beatmap Spotlight Curators group page](https://osu.ppy.sh/groups/48) lists all members.
 
 | Role | Members |
 | :-- | :-- |
 | Project lead | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) |
 | Project manager | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) |
 
-## Curators
+Dedicated curator teams assemble each Beatmap Spotlights release. Team leaders are marked in bold.
 
 ### osu! curators
 
