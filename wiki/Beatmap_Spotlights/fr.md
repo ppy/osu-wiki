@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: ea7cf7dc2b9638a9e0bbd4abc46009d586b0899f
 tags:
   - charts
   - Ranking Charts

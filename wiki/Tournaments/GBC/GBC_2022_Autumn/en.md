@@ -35,10 +35,10 @@ The **GB Cup 2022 Autumn** (***GBC 2022 Autumn***) is a 3v3 captain draft-based 
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, KanonBot profile badge, Custom medal per team member, ¥250 CNY |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | KanonBot profile badge, Custom medal per team member, ¥250 CNY |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | KanonBot profile badge, Custom medal per team member, ¥200 CNY |
-| *4th place* | Custom medal per team member, ¥150 CNY |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, KanonBot profile badge, Custom medal, ¥250 CNY |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | KanonBot profile badge, Custom medal, ¥250 CNY |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | KanonBot profile badge, Custom medal, ¥200 CNY |
+| *4th place* | Custom medal, ¥150 CNY |
 | *5-8th place* | ¥100 CNY |
 | *9-16th place* | ¥80 CNY |
 | *17-21st place* | ¥60 CNY |
@@ -105,25 +105,21 @@ The GB Cup 2022 Autumn is run by the Team GB and various community members.
 | 23 | **近月少女的礼仪** | ::{ flag=CN }:: **[Zyuuu](https://osu.ppy.sh/users/15389275)**, ::{ flag=CN }:: [tito31158](https://osu.ppy.sh/users/16436669), ::{ flag=CN }:: [Koishi-0514](https://osu.ppy.sh/users/7546593), ::{ flag=CN }:: [yem sky](https://osu.ppy.sh/users/10588209), ::{ flag=CN }:: [FALSEFAST](https://osu.ppy.sh/users/25508274) |
 | 24 | **又一个倒霉蛋** | ::{ flag=CN }:: **[fishbone2445](https://osu.ppy.sh/users/17640814)**, ::{ flag=CN }:: [chana](https://osu.ppy.sh/users/18375016), ::{ flag=CN }:: [ALWW](https://osu.ppy.sh/users/18786195), ::{ flag=CN }:: [KafuChino](https://osu.ppy.sh/users/14826575), ::{ flag=CN }:: [spensll](https://osu.ppy.sh/users/4547744) |
 
-## Match schedule: Round of 16
+## Match schedule: Quarterfinals
 
-### Saturday, 26 November 2022
-
-| Team A | Team B | Match time (UTC+8) |
-| --: | :-- | :-- |
-| 铁戈金马 | 上课军训补课反正凑不齐人 | Nov 26 (Sat) 17:00 |
-| 黎曼猜想 | 都什么年代还在玩传统音游 | Nov 26 (Sat) 19:00 |
-| ban位先ban行李箱 | BMS精灵 | Nov 26 (Sat) 20:30 |
-| 又一个倒霉蛋 | DAMWONGaming | Nov 26 (Sat) 22:00 |
-
-### Sunday, 27 November 2022
+### Saturday, 3 December 2022
 
 | Team A | Team B | Match time (UTC+8) |
 | --: | :-- | :-- |
-| 均衡教派 | SV狗都不玩 | Nov 27 (Sun) 17:00 |
-| 经典米托镂空鱼香鸡肉丸 | 队名太多不知道用哪个 | Nov 27 (Sun) 19:00 |
-| 俄亥俄州立大学躁狂播放器 | 奖励一把大天空 | Nov 27 (Sun) 20:30 |
-| 猫猫面馆 | 近月少女的礼仪 | Nov 27 (Sun) 22:00 |
+| 黎曼猜想 | 奖励一把大天空 | Dec 3 (Sat) 20:00 |
+| ban位先ban行李箱 | 经典米托镂空鱼香鸡肉丸 | Dec 3 (Sat) 21:00 |
+
+### Sunday, 4 December 2022
+
+| Team A | Team B | Match time (UTC+8) |
+| --: | :-- | :-- |
+| 铁戈金马 | 猫猫面馆 | Dec 4 (Sun) 10:00 |
+| DAMWONGaming | 均衡教派 | Dec 4 (Sun) 20:00 |
 
 ## Mappools
 
@@ -144,7 +140,7 @@ The GB Cup 2022 Autumn is run by the Team GB and various community members.
   2. [3L - Miracle Hinacle (-Deepdive-) \[Misfortune DispelLN (cut) 1.15x (186bpm) OD7.5\]](https://osu.ppy.sh/beatmapsets/1298827#mania/3862920)
   3. [technoplanet - Intuition (11Bit) \[Instinct\]](https://osu.ppy.sh/beatmapsets/1737565#mania/3551424)
 - LN
-  1. [DECO*27/Giga-P - Cinderella (\[GB\]Mafufu) (\[Crz\]Crysarlene) \[Last Midnight\]](https://osu.ppy.sh/beatmapsets/1871407#mania/3850415)
+  1. [DECO*27/Giga-P - Cinderella (\[GB\]Mafufu) \[Last Midnight\]](https://osu.ppy.sh/beatmapsets/1871407#mania/3850415)
   2. [senya - Youyoumu no Gotoku (\[GB\]Sanae) \[Truth\]](https://osu.ppy.sh/beatmapsets/1771856#mania/3627515)
   3. [WolF.R - Snow Wish (Muses) \[Frozen edit\]](https://osu.ppy.sh/beatmapsets/1451720#mania/2985094)
   4. [AAAA - Carnation (MyZterioN-) \[Stage 4: Dianthus\]](https://osu.ppy.sh/beatmapsets/1789154#mania/3665962)
@@ -175,9 +171,9 @@ The GB Cup 2022 Autumn is run by the Team GB and various community members.
   3. [M2U - Gypsy Tronic (Stability) \[Raveille\]](https://osu.ppy.sh/beatmapsets/851610#mania/1780158)
 - SV
   1. [Ruins (Neomorph remix) (Paturages) \[Shambles (edit)\]](https://osu.ppy.sh/beatmapsets/1367133#mania/3154187)
-  2. [sakuraburst - cherry blossoms explode across the dying horizon (Cut Ver.) (Lott) \[Lott & Dub's GD (cut+edit ver.) \[Custom\]\]](https://osu.ppy.sh/beatmapsets/1855227#mania/3812406)
+  2. [sakuraburst - cherry blossoms explode across the dying horizon (Cut Ver.) (Lott) \[Lott & Dub's GD (cut+edit ver.) \[Custom\]\]](https://osu.ppy.sh/beatmapsets/1880227#mania/3870925)
 - Tiebreaker
-  1. **[Ayaponzu\* - Watashi Wa Sore O Gamandekinai (-Deepdive-) \[Saturated\]](https://osu.ppy.sh/beatmapsets/1871551#mania/3850844)**
+  1. **[Ayaponzu\* - Watashi Wa Sore O Gamandekinai (-Deepdive-) \[Saturated\]](https://osu.ppy.sh/beatmapsets/1855227#mania/3812406)**
 
 ### Regular stage week 1 & 2
 
@@ -222,6 +218,28 @@ The GB Cup 2022 Autumn is run by the Team GB and various community members.
   1. [IslandWind/PIKASONIC - Forever (Cut ver.) (\[GB\]Mafufu) \[Stage 1: Everlasting\]](https://osu.ppy.sh/beatmapsets/1863068#mania/3831056)
 
 ## Match results
+
+### Round of 16
+
+Detailed statistics for this round can be found [here](https://docs.qq.com/sheet/DWlJRYXRQeGVvZGxS).
+
+Saturday, 26 November 2022:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| 俄亥俄州立大学躁狂播放器 | 3 | **7** | **奖励一把大天空** | [#1](https://osu.ppy.sh/community/matches/105286504) |
+| **黎曼猜想** | **7** | 4 | 都什么年代还在玩传统音游 | [#1](https://osu.ppy.sh/community/matches/105288257) |
+| **铁戈金马** | **7** | 5 | 上课军训补课反正凑不齐人 | [#1](https://osu.ppy.sh/community/matches/105289414) |
+| **经典米托镂空鱼香鸡肉丸** | **7** | 3 | 队名太多不知道用哪个 | [#1](https://osu.ppy.sh/community/matches/105289268) |
+| **猫猫面馆** | **7** | 6 | 近月少女的礼仪 | [#1](https://osu.ppy.sh/community/matches/105289561) |
+| **ban位先ban行李箱** | **7** | 1 | BMS精灵 | [#1](https://osu.ppy.sh/community/matches/105290342) |
+| **均衡教派** | **7** | 2 | SV狗都不玩 | [#1](https://osu.ppy.sh/community/matches/105292649) |
+
+Sunday, 27 November 2022:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| 又一个倒霉蛋 | 5 | **7** | **DAMWONGaming** | [#1](https://osu.ppy.sh/community/matches/105316060) |
 
 ### Regular stage summary
 
