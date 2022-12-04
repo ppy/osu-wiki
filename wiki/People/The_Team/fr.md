@@ -1,6 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: e55d19c5048d09bf313e20ed37b9f1b84fbfe3e2
 tags:
   - osu! staff
   - osu!team
@@ -50,13 +48,14 @@ Les groupes d'utilisateurs suivants sont constitués de membres de la communaut�
 
 | Nom | Description |
 | :-- | :-- |
-| [Beatmap Nominators](Beatmap_Nominators) | Des utilisateurs qui vont au-delà de ce qui est demandé pour s'assurer que vos beatmaps sont qualifiées. |
-| [Developers](Developers) | Rendre le jeu génial en ajoutant de nouvelles fonctionnalités et en corrigeant les bugs. |
-| [Global Moderation Team](Global_Moderation_Team) | Surveiller les forums et le tchat en jeu. |
-| [Nomination Assessment Team](Nomination_Assessment_Team) | Gérer les Beatmap Nominators |
+| [Beatmap Nominators](Beatmap_Nominators) | Des utilisateurs qui vont au-delà de ce qui est demandé pour s'assurer que vos beatmaps soient qualifiées. |
+| [Beatmap Spotlight Curators](Beatmap_Spotlight_Curators) | Responsables de la sélection de beatmaps de haute qualité pour le [Beatmap Spotlights](/wiki/Beatmap_Spotlights) |
+| [Developers](Developers) | Rendent le jeu génial en ajoutant de nouvelles fonctionnalités et en corrigeant les bugs. |
+| [Global Moderation Team](Global_Moderation_Team) | Surveillent les forums et le tchat en jeu. |
+| [Nomination Assessment Team](Nomination_Assessment_Team) | Gérent les Beatmap Nominators |
 | [osu! Alumni](osu!_Alumni) | Connus pour leur contribution et qui sont partis depuis lors |
-| [Project Loved Team](Project_Loved_Team) | Reconnaître les beatmaps les plus appréciées par la communauté |
-| [Équipe du support](Support_Team) | Aide/Assistance aux demandes de fonctionnalités |
+| [Project Loved Team](Project_Loved_Team) | Reconnaissent les beatmaps les plus appréciées par la communauté |
+| [Équipe du support](Support_Team) | Aident/Assistent aux demandes de fonctionnalités |
 
 ## Membres inactifs de l'équipe centrale
 
