@@ -64,14 +64,14 @@ During the season, every participant receives a temporary **badge** which reflec
 
 | Badges | Bracket tier | Placement |
 | :-: | :-- | :-- |
-| ![](img/badges/summer_2022/osu/ri_1.png) ![](img/badges/summer_2022/osu/ri_2.png) | Rhythm Incarnate | The best of the best |
-| ![](img/badges/summer_2022/osu/diamond_1.png) ![](img/badges/summer_2022/osu/diamond_2.png) | Diamond | Top 3% |
-| ![](img/badges/summer_2022/osu/platinum_1.png) ![](img/badges/summer_2022/osu/platinum_2.png) | Platinum | 3% – 10% |
-| ![](img/badges/summer_2022/osu/gold_1.png) ![](img/badges/summer_2022/osu/gold_2.png) | Gold | 10% – 25% |
-| ![](img/badges/summer_2022/osu/silver_1.png) ![](img/badges/summer_2022/osu/silver_2.png) | Silver | 25% – 50% |
-| ![](img/badges/summer_2022/osu/bronze_1.png) ![](img/badges/summer_2022/osu/bronze_2.png) | Bronze | 50% – 70% |
-| ![](img/badges/summer_2022/osu/copper_1.png) ![](img/badges/summer_2022/osu/copper_2.png) | Copper | 70% – 95% |
-| ![](img/badges/summer_2022/osu/iron_1.png) ![](img/badges/summer_2022/osu/iron_2.png) | Iron | 95% – 100% |
+| ![](img/badges/winter_2023/osu/ri_1.png) ![](img/badges/winter_2023/osu/ri_2.png) | Rhythm Incarnate | The best of the best |
+| ![](img/badges/winter_2023/osu/diamond_1.png) ![](img/badges/winter_2023/osu/diamond_2.png) | Diamond | Top 3% |
+| ![](img/badges/winter_2023/osu/platinum_1.png) ![](img/badges/winter_2023/osu/platinum_2.png) | Platinum | 3% – 10% |
+| ![](img/badges/winter_2023/osu/gold_1.png) ![](img/badges/winter_2023/osu/gold_2.png) | Gold | 10% – 25% |
+| ![](img/badges/winter_2023/osu/silver_1.png) ![](img/badges/winter_2023/osu/silver_2.png) | Silver | 25% – 50% |
+| ![](img/badges/winter_2023/osu/bronze_1.png) ![](img/badges/winter_2023/osu/bronze_2.png) | Bronze | 50% – 70% |
+| ![](img/badges/winter_2023/osu/copper_1.png) ![](img/badges/winter_2023/osu/copper_2.png) | Copper | 70% – 95% |
+| ![](img/badges/winter_2023/osu/iron_1.png) ![](img/badges/winter_2023/osu/iron_2.png) | Iron | 95% – 100% |
 
 The Rhythm Incarnate tier threshold is picked manually based on the season's participant count and general size of other tiers, though it is an absolute number that ranges between top 2 and top 50 in most cases.
 
