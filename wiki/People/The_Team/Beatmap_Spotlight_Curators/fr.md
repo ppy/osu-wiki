@@ -18,7 +18,7 @@ Tous les candidats sont évalués sur la base de leurs compétences en tant que 
 
 ## Curateurs
 
-Le projet Beatmap Spotlights est géré par divers membres de la communauté dans tous les modes de jeu, sous la direction d'un chef de projet dédié. La page du groupe [Beatmap Spotlight Curators](https://osu.ppy.sh/groups/48) donne la liste de tous les membres.
+Le projet Beatmap Spotlights est géré par divers membres de la communauté dans tous les modes de jeu, sous la direction d'un chef de projet dédié. La page de groupe des [Beatmap Spotlight Curators](https://osu.ppy.sh/groups/48) donne la liste de tous les membres.
 
 | Rôle | Membres |
 | :-- | :-- |
