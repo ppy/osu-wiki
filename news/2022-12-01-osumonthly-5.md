@@ -186,7 +186,7 @@ and the answer was: *BAT (Beatmap Appreciation Team)*. If you were curious, the 
 
 Thanks to chromb we have got yet another puzzling question for you, and that question is...
 
-TBA 
+**What turbulent seas does Bancho sail through in order to deliver your messages?**
 
 The rules are as usual: you have 1 month since the news post release to answer, and the first person to answer correctly receives 1 month of osu!supporter. Good luck!
 
