@@ -81,7 +81,7 @@ After crawling back out of the Losers' Bracket by dealing a swift 7-1 blow to [J
 
 If you are interested in watching the match yourself, you can find the [Twitch VOD here](https://www.twitch.tv/videos/1664000839), or if you want to listen to the insane commissioned tiebreaker song (and custom map), feel free to check out the YouTube video below!
 
-<iframe width="100%" height="315" src="https://www.youtube.com/watch?v=9Zun5qSahsI" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/9Zun5qSahsI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### OliBomby's Slider Picturator
 
@@ -91,7 +91,7 @@ To summarise this new tool, it allows you to transform your slider into any imag
 
 This tech is very experimental and may not work correctly on some resolutions and GPUs, but it allows for some pretty cool stuff. With sliders appearing as arbitrary images, multiple images can be displayed sequentially. Of course, whenever such technology is possible, there's only one thing to do: turn it into *Bad Apple*.
 
-<iframe width="100%" height="315" src="https://www.youtube.com/watch?v=Add_O3vHTcQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Add_O3vHTcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### New medals
 
@@ -184,7 +184,7 @@ The rules are as usual: you have 1 month since the news post release to answer, 
 
 ## Things to look out for in December
 
-- A new LAN is organised next month, but this time, in France! The [UTT Arena](https://osu.ppy.sh/community/forums/topics/1661444?n=1) organised tournaments for osu! and osu!mania, so if you are interested in the French scene, be sure to catch the top French players compete on the hardest maps by tuning into their livestream on [Twitch](https://www.twitch.tv/osufrlive).
+- A new LAN is organised next month, but this time, in France! The [UTT Arena](https://osu.ppy.sh/community/forums/topics/1661444?n=1) organised tournaments for osu! and osu!mania, so if you are interested in the French scene, be sure to catch the top French players compete on the hardest maps by watching the cast replay on [Twitch](https://www.twitch.tv/osufrlive).
 - The "New Beginnings" art contest [has been announced and is underway](https://osu.ppy.sh/community/contests/160)! You have until mid-December to submit your wonderful artworks, or if you are not the creative or drawing type, sit tight as we await for the voting to begin just around the winter holidays!
 - Are you interested in the upper echelon of 4-digit osu!taiko gameplay? Don't miss [RGTS 2022](https://gtsosu.com/rgts/home), which runs throughout the first half of December until the 18th, where 5-man teams between ranks #1500 and #4500 confront each other in 2v2 matches. You can watch it all live on their [Twitch channel](https://www.twitch.tv/gtsosu), so don't hesitate to take a look.
 
