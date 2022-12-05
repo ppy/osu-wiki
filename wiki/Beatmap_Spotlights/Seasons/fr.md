@@ -18,4 +18,3 @@ tags:
 - [Printemps 2022](2022_Spring)
 - [Été 2022](2022_Summer)
 - [Hiver 2023](2023_Winter)
-
