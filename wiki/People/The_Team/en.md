@@ -22,10 +22,10 @@ The people listed below are the core of the **osu! team** and are chiefly respon
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | Project and community maintainer, Featured Artist outreach |
 | ::{ flag=JP }:: [flyte](https://osu.ppy.sh/users/3103765) | Design lead, resident Creative Cloud watcher |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | World Cup organiser and administrator |
-| ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/3668779) | Tournament support, Featured Artist outreach |
+| ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | Tournament support, Featured Artist outreach |
 | ::{ flag=JP }:: [nanaya](https://osu.ppy.sh/users/2387883) | osu!web developer |
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | General housekeeper, moderation advisor |
-| ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/1541323) | Modding and mapping scene advisor |
+| ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Modding and mapping scene advisor |
 | ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) | osu!web developer, [official osu! Featured Artist](https://osu.ppy.sh/beatmaps/artists/1) |
 | ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | osu!web developer |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Modding and mapping scene advisor, Mappers' Guild organiser, Featured Artist outreach |
