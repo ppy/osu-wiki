@@ -403,7 +403,7 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 | :-: | :-: | :-- |
 | [NicDroid as "NicDono" - TAMBOL2022](https://www.youtube.com/watch?v=zhecFreHC94) | [#1](https://osu.ppy.sh/beatmapsets/1838613) | Grand Finals tiebreaker |
 
-#### ![](/wiki/shared/mode/mania.png) osu!mania LN Tournament 3
+#### ![](/wiki/shared/mode/mania.png) [osu!mania LN Tournament 3](/wiki/Tournaments/o!mLN/3)
 
 | Song | Beatmap | Notes |
 | :-: | :-: | :-- |
