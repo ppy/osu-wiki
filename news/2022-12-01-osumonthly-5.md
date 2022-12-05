@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!monthly, November 2022"
-date: 2022-12-01 10:00:00 +0000
+date: 2022-12-05 10:00:00 +0000
 ---
 
 Catch up with community happenings in November's edition of osu!monthly!
@@ -35,7 +35,11 @@ As for what's coming in the future for the visual look of osu!(lazer), the gamep
 
 One cool tidbit that we'd like to show this month is a really small, but neat detail. Did you know that in osu!(lazer), you can click on the game mode icons on a beatmap card in song select to show difficulties of that mode? Take a look below!
 
-VIDEO HERE ONCE UPLOADED
+<div align="center">
+    <video width="100%" controls>
+        <source src="https://assets.ppy.sh/media/osu-monthly/2022-11/lazer-feature-112022.mp4" type="video/mp4" preload="none">
+    </video>
+</div>
 
 Other than that, there have been lots of smaller performance, UI, UX, gameplay and editor changes, all of which you can view in the [changelog here](https://osu.ppy.sh/home/changelog/lazer/2022.1117.0).
 
