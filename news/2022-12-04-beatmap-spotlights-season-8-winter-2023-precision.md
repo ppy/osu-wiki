@@ -4,50 +4,52 @@ title: "Beatmap Spotlights Season 8: Winter 2023 - Precision"
 date: 2022-12-04 20:00:00 +0000
 ---
 
-Spotlights rivals arise, winter is knocking the door! Prepare your fingers and eyes for precision challenge and compete for fun and glory!
+Spotlights rivals arise, winter is knocking the door! Prepare your fingers and eyes for a precision challenge and compete for fun and glory!
 
 ![](/wiki/shared/news/banners/beatmap-spotlights.jpg)
 
-Even though winter is technically not here just yet, it's getting kinda cold outside and snow is not a very rare view these days, we are already inviting you all to complete under the *Winter Season 2022* umbrella.
+Even though winter is technically not here just yet — it's getting pretty cold outside and snow is not a very rare view these days — we are already inviting you all to complete under the *Winter Season 2022* umbrella.
 
-Feeling cold in your fingers? We've got no good news for you right here, this season will be themed with precision-oriented beatmaps so you gotta warm up a little before enjoying the first playlists to its fullest!
+Feeling cold in your fingers? We've got no good news for you right there, because this season will be themed with precision-oriented beatmaps, so you may need to warm up a little before enjoying the playlists to their fullest!
 
-We will be also enabling more mods starting this season, excited? Read on details below!
+We will be also enabling more mods starting this season. Excited? Read the details below!
 
 If you just can't wait to try out the new playlists, **the Beatmap Spotlights lobbies are now open for play on the osu!(lazer) client**, so go get involved and start setting scores.
 
-If you're wondering what the heck the Beatmap Spotlights are and how to get involved in them, simply read on below:
+If you're wondering what Beatmap Spotlights are and how to get involved in them, simply read on below:
 
 ## How do I participate in the Beatmap Spotlights?
 
 To participate in the Beatmap Spotlights, download the latest version of the lazer client from its [GitHub releases page](https://github.com/ppy/osu/releases/latest).
 
-Once you're done installing and logging into your account, head on over to the playlists tab in the play section and find the Spotlights lobbies as denoted by a little pink bar. You can also filter the lobbies to show only the Spotlights playlists in the top right corner. Changing gamemodes is as simple as clicking one of the four mode icons at the top middle-left of your screen - it'll be whatever game mode you played last by default.
+Once you're done installing and logging into your account, head on over to the playlists tab in the play section and find the Spotlights lobbies as denoted by a little pink bar. You can also filter the lobbies to show only the Spotlights playlists in the top-right corner. Changing game modes is as simple as clicking one of the four mode icons at the top left of your screen — it'll be whatever game mode you played last by default.
 
 ## Updates
 
 ### New mods
 
-The mod pool of Beatmap Spotlights has been restricted to a handful of mods since the freemods have been applied. Thanks to the recent osu!(lazer) updates, we are now able to enable more gameplay-modifiers on playlists without worrying about potential damage.
+The mod pool of Beatmap Spotlights has been restricted to a handful of mods since free mods have been applied. Thanks to recent osu!(lazer) updates, we are now able to enable more gameplay modifiers on playlists without worrying about potential damage.
 
 The new mod additions go as below:
 
-- **osu!:** Easy, Half Time, Daycore, Sudden Death, Perfect, Double Time, Nightcore, Flashlight, Blinds, Strict Tracking
-- **osu!taiko:** Easy, Half Time, Daycore, Sudden Death, Perfect, Double Time, Nightcore
-- **osu!catch:** Easy, Half Time, Daycore, Sudden Death, Perfect, Double Time, Nightcore
-- **osu!mania:** Easy, Half Time, Daycore, Sudden Death, Perfect, Double Time, Nightcore
+| Game mode | Mods |
+| :-- | :-- |
+| osu! | Easy, Half Time, Daycore, Sudden Death, Perfect, Double Time, Nightcore, Flashlight, Blinds, Strict Tracking |
+| osu!taiko | Easy, Half Time, Daycore, Sudden Death, Perfect, Double Time, Nightcore |
+| osu!catch | Easy, Half Time, Daycore, Sudden Death, Perfect, Double Time, Nightcore |
+| osu!mania | Easy, Half Time, Daycore, Sudden Death, Perfect, Double Time, Nightcore |
 
-### Beatmap Spotlight Curators usergroup
+### Beatmap Spotlight Curators user group
 
-As you might've noticed, the Beatmap Spotlight Curators can now be recognized by a blue/green-ish usergroup badge on their profile with "BSC" written inside. The members of the usergroup are core of Beatmap Spotlights, the project wouldn't be the same without them!
+As you might've noticed, the Beatmap Spotlight Curators can now be recognised by a blue/green-ish **BSC** user group badge on their profile. The members of the user group are the core of Beatmap Spotlights, and the project wouldn't be the same without them!
 
-This is a big step forward for the project and its transparency, you can check the usergroup member list [at group listing page](https://osu.ppy.sh/groups/48).
+This is a big step forward for the project and its transparency. You can check out who's involved with Beatmap Spotlights at the [BSC group listing page](https://osu.ppy.sh/groups/48).
 
 ## Beatmap of the Season: Results
 
-With this season launch, we're going back to basics with how we review the Beatmap of The Season competition. This time, both the [Spotlights Curators](/wiki/Beatmap_Spotlights#curators) and the Spotlights League players got to vote on their favourite beatmap from the Summer Season 2022 beatmap pool in each game mode.
+With this season launch, we're going back to basics with how we review the Beatmap of The Season competition. This time, both the [Spotlights Curators](/wiki/People/The_Team/Beatmap_Spotlight_Curators#curators) and the Spotlights League players got to vote on their favourite beatmap from the Summer Season 2022 beatmap pool in each game mode.
 
-The creator of each winning entry will be awarded with **3 months of the osu!supporter tag** for their hard efforts.
+The creator of each winning entry will be awarded with **3 months of osu!supporter** for their hard efforts.
 
 A big thank you to everyone who voted!
 
@@ -60,9 +62,9 @@ A big thank you to everyone who voted!
 **[SOPHIE - NOTHING MORE TO SAY (DUB) [NOTHING ELSE TO SLAY (DAB) ft. tatemae & emilia]](https://osu.ppy.sh/beatmapsets/1786386#osu/3659392)**, mapped by [schoolboy](https://osu.ppy.sh/users/8722791), [tatemae](https://osu.ppy.sh/users/5223028), and [emilia](https://osu.ppy.sh/users/2003326)\
 *primarily suggested and described by [Nowaie](https://osu.ppy.sh/users/5428909)*
 
-In a time where a lot of mappers who decide to make monuments from complex songs, our collaborators in question here show the potential each rhythm in a song. Let yourself fall in love with the ethereal trance-like NOTHING MORE TO SAY (DUB) along with the map accompanying it made by schoolboy, tatemae and emilia.
+In a time where a lot of mappers who decide to make monuments from complex songs, our collaborators in question here show the potential of each rhythm in a song. Let yourself fall in love with the ethereal trance-like *NOTHING MORE TO SAY (DUB)* along with the map accompanying it made by schoolboy, tatemae and emilia.
 
-It must be said, that this map is anything but a walk in a park. Any challenger will quickly realise that, regardless of the relatively low star rating and BPM, attempting to conquer the map requires one to stay on their toes for the whole duration. The rhythm is explored with dozens of unique and certainly difficult patterns even for the most experienced circle destroyers, leading to an experience rather rarely seen in osu!
+It must be said that this map is anything but a walk in a park. Any challenger will quickly realise that, regardless of the relatively low star rating and BPM, attempting to conquer the map requires one to stay on their toes for the whole duration. The rhythm is explored with dozens of unique and certainly difficult patterns even for the most experienced circle destroyers, leading to an experience rather rarely seen in osu!.
 
 Are you up for the challenge? Give this SOPHIE banger a shot.
 
@@ -73,9 +75,9 @@ Are you up for the challenge? Give this SOPHIE banger a shot.
 **[KUMOKIRI - Shippuujinrai [Expert]](https://osu.ppy.sh/beatmapsets/1631947#osu/3331199)**, mapped by [Kloyd](https://osu.ppy.sh/users/3738344)\
 *primarily suggested and described by [DeviousPanda](https://osu.ppy.sh/users/4966334)*
 
-Kloyd's Shippuujinrai is a masterclass in unconventional flow aim mapping, and as it was initially created as a hardrock custom map for the hardest stage in the osu! world cup 2021, it does not disappoint at testing many player's limits.
+Kloyd's map of *Shippuujinrai* is a masterclass in unconventional flow aim mapping, and as it was initially created as a Hard Rock custom map for the hardest stage of the osu! World Cup 2021, it does not disappoint at testing many players' limits.
 
-Kloyd does an amazing job of capturing such an intense track perfectly with many changing angles and spacing conventions to support even the slightest of changes in intensity from pattern to pattern, it is definitely a highlight across all maps ranked recently, making it absolutely deserving of winning the curators pick.
+Kloyd does an amazing job of capturing such an intense track perfectly with many changing angles and spacing conventions to support even the slightest of changes in intensity from pattern to pattern. It is definitely a highlight across all maps ranked recently, making it absolutely deserving of winning the curators' pick.
 
 ### osu!taiko
 
@@ -86,9 +88,9 @@ Kloyd does an amazing job of capturing such an intense track perfectly with many
 **[MUZZ - Nemesis [clockbite & Tachi's Sanctuary]](https://osu.ppy.sh/beatmapsets/1751193#taiko/3621429)**, mapped by [clockbite](https://osu.ppy.sh/users/16736934) and [Tachibana_](https://osu.ppy.sh/users/13069714)\
 *primarily suggested and described by [[Zeth]](https://osu.ppy.sh/users/9912966)*
 
-For community's pick, clockbite and Tachibana_'s rendition of Nemesis by MUZZ takes the crown and it's not hard to see why.
+For the players' pick, clockbite and Tachibana_'s rendition of *Nemesis* by MUZZ takes the crown and it's not hard to see why.
 
-Built around a song with fairly repetitive rhythm and melody, both mappers have managed to synergize their style together perfectly and crafted a map that has variations upon variations that interpreted similar parts of the song, which helps keeping the map engaging to play throughout its 4 minutes runtime. Pair that with clean sv throughout and some tasteful execution of detached barlines and they are setting up to take the player base by storm.
+Built around a song with fairly repetitive rhythm and melody, both mappers have managed to synergise their style together perfectly and crafted a map that has variations upon variations interpreting similar parts of the song, which helps keeping the map engaging to play throughout its 4 minutes of runtime. Pair that with clean SV throughout and some tasteful execution of detached bar lines and they are setting up to take the player base by storm.
 
 #### Curators' Pick
 
@@ -97,9 +99,9 @@ Built around a song with fairly repetitive rhythm and melody, both mappers have 
 **[Culprate & Au5 - Impulse [Creativity]](https://osu.ppy.sh/beatmapsets/1726063#taiko/3527450)**, mapped by [Megafan](https://osu.ppy.sh/users/6632605)\
 *primarily suggested and described by [[Zeth]](https://osu.ppy.sh/users/9912966)*
 
-Coming hot out of osu!taiko Featured Artist Cup, Megafan's rendition of Impulse by Culprate & Au5 is certainly an interesting entry to the contest. While the contest itself prioritizes making an interesting map while obeying the ranking criteria, Megafan decides to push the boundary of rankability to the extreme, and what's born from this experimentation is a map that embodies the difficulty name itself.
+Coming hot out of the [osu!taiko Featured Artist Cup](/wiki/Contests/o!tFAC/1), Megafan's rendition of *Impulse* by Culprate & Au5 is certainly an interesting entry to the contest. While the contest itself prioritises making an interesting map while obeying the ranking criteria, Megafan decides to push the boundary of rankability to the extreme, and what's born from this experimentation is a map that embodies the difficulty name itself.
 
-Ninja notes? Check. Extremely slow SV? Check. Detached barlines? Check. "Wub" SV? Check. Accelerating stream that is literally unreadable but also entirely reasonable to play? Also check. The map packs so many ideas into a 5-minute song, complete with challenging technical streams, and bursts to provide a full experience that even the best players would struggle to get an FC on. It may not be the winning entry to a contest, but it truly deserves a Spotlight in the ranked section, as a testament to how far the ranking criteria and mapping creativity could be pushed to their extreme.
+Ninja notes? Check. Extremely slow SV? Check. Detached bar lines? Check. "Wub" SV? Check. Accelerating stream that is literally unreadable but also entirely reasonable to play? Also check. The map packs so many ideas into a 5-minute song, complete with challenging technical streams, and bursts to provide a full experience that even the best players would struggle to get an FC on. It may not be the winning entry to a contest, but it truly deserves a *spotlight* in the Ranked section, as a testament to how far the ranking criteria and mapping creativity could be pushed to their extreme.
 
 ### osu!catch
 
@@ -110,9 +112,9 @@ Ninja notes? Check. Extremely slow SV? Check. Detached barlines? Check. "Wub" SV
 **[Ata - Euphoria [Hi-Speed Fruit Super-Highway]](https://osu.ppy.sh/beatmapsets/1722551#fruits/3520524)**, mapped by [Kyptoric](https://osu.ppy.sh/users/1361268)\
 *primarily suggested and described by [WadBot](https://osu.ppy.sh/users/14571181)*
 
-With *Euphoria*, Kyptoric, a veteran osu!catch player, and creator of some of the gamemode's most iconic loved maps (such as Soulless 4, and Speed of Link, just to name a few) enters the ranked section for the first time, with an unconventional style of mapping that is sure to have your heart racing for this map's entire duration.
+With *Euphoria*, Kyptoric, a veteran osu!catch player, and creator of some of the game mode's most iconic Loved maps (such as *Soulless 4*, and *Speed of Link*, just to name a few) enters the Ranked section for the first time, with an unconventional style of mapping that is sure to have your heart racing for this map's entire duration.
 
-In this five and a half minute psytrance fruit-catching experience, you will come across a little bit of everything, from streams, to jumps, to wiggles, and even 1/8th directional-change hyperchains, all at 190bpm. The whole map is also constructed in a way that Kyptoric himself describes as a "partly anti-symmetrical/freeform style with convert-inspired patterns". This is definetly shown to be true, through the sheer variety of patterns that Kyptoric has produced in which you can catch fruit. To date, this map only has one fc, so why not give it a go to see if you too can fc in exchange for some sweet Euphoria?
+In this five and a half–minute psytrance fruit-catching experience, you will come across a little bit of everything, from streams, to jumps, to wiggles, and even 1/8 direction-change hyperchains, all at 190 BPM. The whole map is also constructed in a way that Kyptoric himself describes as a "partly anti-symmetrical/freeform style with convert-inspired patterns". This is definitely shown to be true, through the sheer variety of patterns that Kyptoric has produced in which you can catch fruit. To date, this map only has one FC, so why not give it a go to see if you too can FC in exchange for some sweet *Euphoria*?
 
 #### Curators' Pick
 
@@ -122,9 +124,9 @@ In this five and a half minute psytrance fruit-catching experience, you will com
 *primarily suggested by [wonjae](https://osu.ppy.sh/users/5032045)*\
 *described by [SadEgg](https://osu.ppy.sh/users/10278243)*
 
-This spectacle of a map has been around the osu!catch community for nearly a decade now and it does not disappoint. CLSW took a beautiful instrumental masterpiece - and as the mapping paragon they are - built one themselves.
+This spectacle of a map has been around the osu!catch community for nearly a decade now and it does not disappoint. CLSW took a beautiful instrumental masterpiece — and as the mapping paragon they are — built one themselves.
 
-This 2013 200bpm showstopper challenges your mastery of the platter in many different aspects including tap dashes, anti-flow streams, and of course some of those signature wiggles that even test top players’ finger-control. Exhibiting all of those patterns cherry-picked and slotted in such a way showcasing their variation to dense and technical mapping through unique streams and flow. Synergy with each emphasis, this map fits the song perfectly making for a display and an exceedingly polished map.
+This 2013 200 BPM showstopper challenges your mastery of the platter in many different aspects including tap dashes, anti-flow streams, and of course some of those signature wiggles that even test top players' finger control. All of those patterns are cherry-picked and slotted in such a way that showcases their variation of dense and technical mapping through unique streams and flow. Synergy with each emphasis, this map fits the song perfectly, making for a display and an exceedingly polished map.
 
 ### osu!mania
 
@@ -135,12 +137,9 @@ This 2013 200bpm showstopper challenges your mastery of the platter in many diff
 **[laura les - Haunted (dive to the heart remix) [[4K] Another]](https://osu.ppy.sh/beatmapsets/1683972#mania/3587748)**, mapped by [Monheim](https://osu.ppy.sh/users/6814203)\
 *primarily suggested and described by [Kibitz](https://osu.ppy.sh/users/7418493)*
 
-The Chord Jack Ranked Maps Era is here! Monheim absolutely blasts the gates open with their FULL rice based mapset.
-Yes. You heard me right. Zero long notes. RICE PLAYERS REJOICE as this 154 bpm dense chord jack mapset challenges your stamina, consistency
-and raw reading skill.
+The Chord Jack Ranked Maps Era is here! Monheim absolutely blasts the gates open with their FULL rice-based mapset. Yes. You heard me right. Zero long notes. RICE PLAYERS REJOICE as this 154 BPM dense chord jack mapset challenges your stamina, consistency and raw reading skill.
 
-The *Another* difficulty in particular features a massive step up from the lower difficulties but is still manageable for intermediate
-players looking for a tough challenge! Monheim executes this difficulty swimmingly with an abundance of quads matching the everlasting bass coupled with stacked notes and minijacks and a bunch of 1/4 quadstreams to give this map that extra kick. This map has a very unique concept which is rare to see be done well, as the balance between both the chord-jacks and vocal dump feels really well polished. This is definitely a leading factor in a potential shift we may see in the future of osu! mania's ranked section.
+The Another difficulty in particular features a massive step up from the lower difficulties but is still manageable for intermediate players looking for a tough challenge! Monheim executes this difficulty swimmingly with an abundance of quads matching the everlasting bass coupled with stacked notes and minijacks and a bunch of 1/4 quadstreams to give this map that extra kick. This map has a very unique concept which is rare to see be done well, as the balance between both the chord jacks and vocal dump feels really well polished. This is definitely a leading factor in a potential shift we may see in the future of osu!mania's Ranked section.
 
 #### Curators' Pick
 
@@ -151,13 +150,13 @@ players looking for a tough challenge! Monheim executes this difficulty swimming
 
 A timeless artist for rhythm games, Camellia delivers another banger song with an amazing mapset by one of our veteran community members, Blocko! This map includes an amazing spread that caters to every player no matter the skill level and will guarantee a memorable experience regardless.
 
-You will find yourself enveloped from easy to follow rhythms up to insane and complex long notes while playing this map. They both intertwine in harmony to create the amazing *Magic* last difficulty, but don’t sleep on the lower ones! They are as great as it gets with subtle long note and a variety of other patterns that’ll make you want not just to keep playing but vibe along with the music.
+You will find yourself enveloped from easy-to-follow rhythms up to insane and complex long notes while playing this map. They both intertwine in harmony to create the amazing last difficulty, Magic, but don't sleep on the lower ones! They are as great as it gets with subtle long note patterns and a variety of other ones that'll make you want not just to keep playing but vibe along with the music.
 
 Blocko, even after years of mapping and contribution, is still consistently delivering amazing charts and sets as a whole, making unique maps along with an experience that is due to last.
 
 ### Full Players' Pick voting results
 
-Check out each respective game mode's player voting full results:
+Check out each respective game mode's player voting results:
 
 - [osu!](https://osu.ppy.sh/community/contests/156)
 - [osu!taiko](https://osu.ppy.sh/community/contests/157)
@@ -173,9 +172,9 @@ This season, we will say farewell to some of our members as well as welcome some
 - **osu!taiko**: [Horiiizon](https://osu.ppy.sh/users/8071438)
 - **osu!mania**: [MadBricktree](https://osu.ppy.sh/users/4790958), [Maxus](https://osu.ppy.sh/users/4335785)
 
-[Nowaie](https://osu.ppy.sh/users/5428909) will also be stepping down from leading the osu! Curators team, [ChillierPear](https://osu.ppy.sh/users/9501251) will handle his tasks from now on.
+[Nowaie](https://osu.ppy.sh/users/5428909) will also be stepping down from leading the osu! Curators team, while [ChillierPear](https://osu.ppy.sh/users/9501251) will handle his tasks from now on.
 
-For the full Spotlights Team members list, check out the [Beatmap Spotlights wiki article](/wiki/Beatmap_Spotlights).
+For the full Spotlights Team members list, check out the [Beatmap Spotlight Curators wiki article](/wiki/People/The_Team/Beatmap_Spotlights).
 
 ## Season schedule and leaderboards
 
@@ -190,7 +189,7 @@ For the full Spotlights Team members list, check out the [Beatmap Spotlights wik
 | Playlist lobby: Playlist C | Jan 27 - Feb 3, 2023 |
 | Season conclusion | Feb 3, 2023 |
 
-The Winter Season 2023 leaderboard will be available over at the [Beatmap Spotlights Winter 2023](/wiki/Beatmap_Spotlights/Seasons/2023_Winter) wiki article once the first batch of lobbies conclude in the coming weeks.
+The Winter Season 2023 leaderboard will be available over at the [Beatmap Spotlights Winter 2023 wiki article](/wiki/Beatmap_Spotlights/Seasons/2023_Winter) once the first batch of lobbies conclude in the coming weeks.
 
 ## Rewards
 
@@ -207,7 +206,7 @@ The Winter Season 2023 leaderboard will be available over at the [Beatmap Spotli
 
 The percentage values may vary a little depending on the game mode and/or participant counts.
 
-The Rhythm Incarnate tier threshold is picked manually based on season's participant count and general size of other tiers, though it is an absolute number that ranges between top 2 and top 50 in most cases.
+The Rhythm Incarnate tier threshold is picked manually based on the season's participant count and general size of other tiers, though it is an absolute number that ranges between top 2 and top 50 in most cases.
 
 ## Winter Season 2023 first playlists
 
@@ -265,15 +264,15 @@ The Rhythm Incarnate tier threshold is picked manually based on season's partici
 - [goreshit - o'er the flood (Jinjin) \[\[7K\] jinjin's extra\]](https://osu.ppy.sh/beatmapsets/454793#mania/975161), suggested by [MadBricktree](https://osu.ppy.sh/users/4790958)
 - [paraoka - L9 (Jesuren) \[4K Daydream\]](https://osu.ppy.sh/beatmapsets/1565681#mania/3197091), suggested by [Hydria](https://osu.ppy.sh/users/808176)
 
-*osu!mania playlists will include 7 beatmaps instead of 9 this season.
+*osu!mania playlists will include 7 beatmaps instead of 9 this season.*
 
 Playlist B and C will be available on the [Beatmap Spotlights article](/wiki/Beatmap_Spotlights/Seasons/2022_Winter) as we open the playlist lobbies, so stay tuned!
 
-## The Future
+## The future
 
 The new Beatmap Spotlights is still a project in its early development stage and depends a lot on community feedback and engagement to improve. Many things can (and will) change for future seasons, and it all depends on *your* feedback!
 
-What do you want for the next season? What needs to be fixed? What are your opinions on the current system? You can voice out all your opinions in the [osu! community Discord](https://discord.gg/0Vxo9AsejDkGlk3H) (#beatmap-spotlights) and we will keep note of every suggestion, so please let us know how you feel about things.
+What do you want for the next season? What needs to be fixed? What are your opinions on the current system? You can voice out all your opinions in the [osu! community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H) (`#beatmap-spotlights` channel) and we will keep note of every suggestion, so please let us know how you feel about things.
 
 We do hope you enjoyed the Summer Season 2022 Spotlights, and, of course, we do hope that you'll enjoy the Winter Season even more!
 
