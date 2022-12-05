@@ -4,12 +4,10 @@ tags:
   - break time
   - rest
   - rest time
-outdated_translation: true
-outdated_since: 9bcdabe4c05001bba74292896082adb0be936761
 ---
 
 # Break
 
-**Break** adalah sesi dari sebuah [beatmap](/wiki/Beatmap) yang dimana tidak memiliki [hit objects](/wiki/Hit_object) di dalamnya. Pada waktu ini, drain dari sebuah health bar sementara dihentikan. Break biasanya mengijinkan sebuah player untuk beristirahat sejenak dalam kurun waktu yang pendek dan mengatur kembali posisi input device mereka.
+**Break** merupakan bagian dari sebuah [beatmap](/wiki/Beatmap) yang tidak terisi [hit object](/wiki/Hit_object). Pada waktu ini, [health drain](/wiki/Beatmapping/Health_drain) sementara dihentikan. Break biasanya membuat pemain dapat beristirahat sejenak dan mereka dapat mengatur kembali posisi [perangkat inputnya](/wiki/Gameplay/Input_device).
 
-Tergantung pada pengaturan mereka, letterboxes mungkin muncul ketika break dimulai. Selain itu, peringatan passing atau failing dan suara mungkin muncul untuk mengindentifikasi sebuah player ketika mereka melakukannya dengan benar atau tidak. Ini akan muncul jika terdapat waktu yang cukup untuk memunculkannya.
+Tergantung pada [opsi pengaturan](/wiki/Client/Beatmap_editor/Song_Setup) yang diaktifkan, *letterboxes* dapat muncul ketika break dimulai. Selain itu, peringatan passing atau failing berupa grafis dan audio dapat muncul untuk memberitahu pemain apakah pemain bermain dengan baik atau tidak. Fitur ini hanya muncul jika waktu untuk menampilkan grafis cukup.
