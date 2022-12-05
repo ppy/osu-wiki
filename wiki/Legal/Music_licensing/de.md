@@ -24,7 +24,7 @@ Beim Einreichen von Leveln werden Ersteller gebeten, eine Erlaubnis für alle In
 
 Musik, die von osu! lizenziert ist, kann kostenlos in der [Featured Artist Auflistung](https://osu.ppy.sh/beatmaps/artists) in `.osz`-Dateien heruntergeladen werden, was Beatmap-Vorlagen sind. Eine eine Minute lange, automatisch generierte Vorschau jedes Musikstücks ist als Stream auf der Künstlerseite verfügbar. Da Songs als ein Katalog für Community-Mitglieder zum Erstellen von Beatmaps verwendet werden, sind einige von ihnen nicht immer gleich als Inhalt im Spiel vorhanden.
 
-Wir wollen die Nutzung im Spiel, auf verwandten Webseiten und in Videoinhalten abdecken. Bedenke, dass dies nicht unbedingt die weitere Verwendung auf anderen Plattformen, bei denen es um Gewinn geht, mit einschließt. Manche Künstler können in solchen Fällen einen Gewinnanteil beantragen (wenn die Plattform dies zulässt, z. B. Nutzerinhalte auf YouTube).
+Wir wollen die Nutzung im Spiel, auf verwandten Webseiten und in Videoinhalten abdecken. Bedenken Sie, dass dies nicht unbedingt die weitere Verwendung auf anderen Plattformen, bei denen es um Gewinn geht, mit einschließt. Manche Künstler können in solchen Fällen einen Gewinnanteil beantragen (wenn die Plattform dies zulässt, z. B. Nutzerinhalte auf YouTube).
 
 osu! lizenziert alle Musik unter nicht-exklusiven Konditionen, wodurch mehrere Lizenzen auf anderen Plattformen ermöglicht werden (wir sind der Meinung, dass wir gute Musik nicht auf unsere Plattform beschränken sollten). Aufgrund der Art der Nutzung ziehen wir es im Allgemeinen vor, Lizenzen mit unbefristeten Laufzeiten auszuhandeln (Nutzer erwarten, dass ihre Werke auf unbestimmte Zeit verfügbar bleiben). Die Zahlung erfolgt in Form einer festen, verhandelbaren, einmaligen Lizenzgebühr.
 
@@ -32,4 +32,4 @@ osu! lizenziert alle Musik unter nicht-exklusiven Konditionen, wodurch mehrere L
 
 **E-Mail:** [music@ppy.sh](mailto:music@ppy.sh)
 
-Wenn du daran interessiert bist, deine Arbeit für osu! zu lizenzieren, kontaktiere uns bitte unter der oben genannten E-Mail-Adresse mit Beispielen deiner Werke. Wir entscheiden uns, ob deine Musik zu osu! passt und erläutern die Bedingungen der Lizenz.
+Wenn Sie daran interessiert sind, Ihre Arbeit für osu! zu lizenzieren, kontaktieren Sie uns bitte unter der oben genannten E-Mail-Adresse mit Beispielen Ihrer Werke. Wir entscheiden uns, ob Ihre Musik zu osu! passt und erläutern die Bedingungen der Lizenz.
