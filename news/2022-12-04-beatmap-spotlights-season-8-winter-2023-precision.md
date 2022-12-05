@@ -174,7 +174,7 @@ This season, we will say farewell to some of our members as well as welcome some
 
 [Nowaie](https://osu.ppy.sh/users/5428909) will also be stepping down from leading the osu! Curators team, while [ChillierPear](https://osu.ppy.sh/users/9501251) will handle his tasks from now on.
 
-For the full Spotlights Team members list, check out the [Beatmap Spotlight Curators wiki article](/wiki/People/The_Team/Beatmap_Spotlights).
+For the full Spotlights Team members list, check out the [Beatmap Spotlight Curators wiki article](/wiki/People/The_Team/Beatmap_Spotlight_Curators).
 
 ## Season schedule and leaderboards
 
