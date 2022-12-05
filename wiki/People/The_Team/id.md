@@ -7,7 +7,6 @@ tags:
   - osu! team
   - staff
   - team osu!
-  - outdated_translation: true
 ---
 
 # Tim
