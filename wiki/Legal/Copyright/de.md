@@ -19,7 +19,7 @@ Es ist die Politik von osu!,
 
 ## Urheberrechtsverstöße melden
 
-Wenn du glaubst, dass Inhalte, die sich auf der osu!-Webseite/dem Dienst befinden oder über diese/diesen zugänglich sind, dein Urheberrecht verletzen, dann sende bitte eine Mitteilung über eine angebliche Urheberrechtsverletzung mit den folgenden Informationen an den unten aufgeführten Beauftragten (ziehe einen Rechtsbeistand zu Rate oder verweise auf 17 U.S.C. 512(c), um diese Anforderungen zu bestätigen):
+Wenn Sie glauben, dass Inhalte, die sich auf der osu!-Webseite/dem Dienst befinden oder über diese/diesen zugänglich sind, Ihr Urheberrecht verletzen, dann senden Sie bitte eine Mitteilung über eine angebliche Urheberrechtsverletzung mit den folgenden Informationen an den unten aufgeführten Beauftragten (ziehen Sie einen Rechtsbeistand zu Rate oder verweisen Sie auf 17 U.S.C. 512(c), um diese Anforderungen zu bestätigen):
 
 1. Eine physische oder elektronische Unterschrift einer Person, die befugt ist, im Namen des Inhabers des angeblich verletzten Urheberrechts zu handeln,
 2. die Identifizierung der urheberrechtlich geschützten Werke, die angeblich verletzt wurden, oder, wenn mehrere urheberrechtlich geschützten Werke auf einer einzigen Online-Webseite in einer Meldung erfasst sind, eine repräsentative Auflistung der Werke auf dieser Seite,
@@ -58,4 +58,4 @@ Wembley, WA, 6014
 Australia
 ```
 
-*Zuletzt aktualisiert am 7. November 2019. [Siehe den Verlauf der englischen Version hier](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Copyright/en.md).*
+*Zuletzt aktualisiert am 7. November 2019. [Sehen Sie den Verlauf der englischen Version hier](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Copyright/en.md).*
