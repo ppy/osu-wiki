@@ -89,7 +89,7 @@ If you are interested in watching the match yourself, you can find the [Twitch V
 
 ### OliBomby's Slider Picturator
 
-If you are at all interested in mapping on osu! you have probably already heard of [OliBomby](https://osu.ppy.sh/users/6573093) and his [Mapping Tools](https://mappingtools.github.io/) program that makes life easier for hundreds of mappers. But have you seen the latest update, or the [tweet](https://twitter.com/OliBomby/status/1592941194291863553?t=TEB1KmJ9pLdquaoVT9kv-g&s=19) from OliBomby on Twitter, revealing the Slider Picturator™?
+If you are at all interested in mapping on osu! you have probably already heard of [OliBomby](https://osu.ppy.sh/users/6573093) and his [Mapping Tools](https://mappingtools.github.io/) program that makes life easier for hundreds of mappers. But have you seen the latest update, or the [tweet](https://twitter.com/OliBomby/status/1592941194291863553?t=TEB1KmJ9pLdquaoVT9kv-g&s=19) from OliBomby on Twitter, revealing the Slider Picturator&trade;?
 
 To summarise this new tool, it allows you to transform your slider into any image. That's right, any image can now be embedded as a slider in a map. You don't have to be a genius to understand all the possibilities this can offer, and many mappers have already started to experiment with it. With each new update to Mapping Tools, OliBomby seems to push the limits of the editor. How far can we go from here? Only the future will tell.
 
@@ -184,7 +184,7 @@ For anyone who missed last month's edition, the question was:
 
 and the answer was: *BAT (Beatmap Appreciation Team)*. If you were curious, the "T" was dropped after the group was renamed into "Beatmap Appreciators".
 
-Thanks to chromb we have got yet another puzzling question for you, and that question is...
+Thanks to [chromb](https://osu.ppy.sh/users/10238680) we have got yet another puzzling question for you, and that question is...
 
 **What turbulent seas does Bancho sail through in order to deliver your messages?**
 
