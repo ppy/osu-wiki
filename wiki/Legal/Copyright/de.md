@@ -4,7 +4,7 @@ legal: true
 
 # Urheberrechtspolitik von osu!
 
-osu! ist ein stark an der Community orientiertes Spiel. Alle Spiellevel (Beatmaps) werden durch Community-Mitglieder erstellt und hochgeladen, oft ohne korrekte Einholung der Erlaubnis der jeweiligen Rechteinhaber. Wir tun unser Bestes, Nutzerinhalte nicht zu werben oder daraus Gewinn zu erzielen. Das Spiel wird vollständig aus Nutzerspenden finanziert.
+osu! ist ein stark an der Community orientiertes Spiel. Alle Spiellevel (Beatmaps) werden durch Community-Mitglieder erstellt und hochgeladen, oft ohne korrekte Einholung der Erlaubnis der jeweiligen Rechteinhaber. Wir tun unser Bestes, Nutzerinhalte nicht zu bewerben oder daraus Gewinn zu erzielen. Das Spiel wird vollständig aus Nutzerspenden finanziert.
 
 Ein Großteil der Spenden, die wir erhalten, werden für die [Musiklizenzierung](/wiki/Legal/Music_licensing) genutzt. Anfragen zur Lizenzvergabe können an [music@ppy.sh](mailto:music@ppy.sh) gesendet werden.
 
