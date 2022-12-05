@@ -25,11 +25,11 @@ The **osu!catch World Cup 2016** (***CWC 2016***) was a country-based osu!catch 
 
 ## Prizes
 
-| Place | Prizes |
+| Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 50% of the raised prize pool, unique profile badge, special user title |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 38% of the raised prize pool, unique profile badge |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 12% of the raised prize pool, unique profile badge |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | $300 per team member, unique profile badge, "osu!catch Champion" user title for one year |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $160 per team member, unique profile badge |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $80 per team member, unique profile badge |
 
 ![](img/badge.jpg "CWC 2016 winner badge") ![](img/badge2.jpg "CWC 2016 2nd place badge") ![](img/badge3.jpg "CWC 2016 3rd place badge")
 
