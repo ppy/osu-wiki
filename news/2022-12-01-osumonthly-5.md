@@ -184,7 +184,7 @@ For anyone who missed last month's edition, the question was:
 
 and the answer was: *BAT (Beatmap Appreciation Team)*. If you were curious, the "T" was dropped after the group was renamed into "Beatmap Appreciators".
 
-Thanks to chromb we have got yet another puzzling question for you, and that question is...
+Thanks to [chromb](https://osu.ppy.sh/users/10238680) we have got yet another puzzling question for you, and that question is...
 
 **What turbulent seas does Bancho sail through in order to deliver your messages?**
 
