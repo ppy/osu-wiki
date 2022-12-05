@@ -403,6 +403,15 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 | :-: | :-: | :-- |
 | [NicDroid as "NicDono" - TAMBOL2022](https://www.youtube.com/watch?v=zhecFreHC94) | [#1](https://osu.ppy.sh/beatmapsets/1838613) | Grand Finals tiebreaker |
 
+#### ![](/wiki/shared/mode/mania.png) osu!mania LN Tournament 3
+
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [HowToPlayLN - LNCryption](https://soundcloud.com/indekkusu/lncryption) | [#1](https://osu.ppy.sh/beatmapsets/1893946) | Grand Finals LN Wildcard |
+| [HowToPlayLN - Normal Distribution (takehirotei "t-distribution" remix)](https://soundcloud.com/takehirotei/howtoplayln-normal-distribution-takehirotei-t-distribution-remixstatistically-significant) | [#1](https://osu.ppy.sh/beatmapsets/1880819) | Quarterfinals LN Wildcard |
+| [PSYQUI - Pallet (HowToPlayLN's Piano+Cello Rearrangement)](https://soundcloud.com/indekkusu/pallet-rearrangement) |  | Ending Credits Scene |
+| [Supa7onyz pres. 5-let - Unsynchronized Rhythms](https://soundcloud.com/user-679008856/om-ln3-custom-song-supa7onyz-pres-5-let-unsynchronized-rhythms) | [#1](https://osu.ppy.sh/beatmapsets/1893947) | Grand Finals LN Technical |
+
 #### ![](/wiki/shared/mode/taiko.png) osu!taiko Malaysia Tournament 2022
 
 | Song | Beatmap | Notes |
