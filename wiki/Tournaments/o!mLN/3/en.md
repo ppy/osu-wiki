@@ -112,7 +112,7 @@ The osu!mania LN Tournament 3 is run by various community members.
 | #1,263 | ::{ flag=US }:: [\[LS\]Ham](https://osu.ppy.sh/users/17523947) |
 | #1,266 | ::{ flag=US }:: [\[GS\]linc](https://osu.ppy.sh/users/12093536) |
 | #1,323 | ::{ flag=ID }:: [Proxae](https://osu.ppy.sh/users/8410575) |
-| #1,343 | ::{ flag=KR }:: [jeremkyurem](https://osu.ppy.sh/users/13431947) |
+| #1,343 | ::{ flag=FR }:: [jeremkyurem](https://osu.ppy.sh/users/13431947) |
 | #1,364 | ::{ flag=PH }:: [DeenBoi](https://osu.ppy.sh/users/16746554) |
 | #1,382 | ::{ flag=ES }:: [ShiroPeDeFresa](https://osu.ppy.sh/users/16020685) |
 | #1,386 | ::{ flag=BR }:: [Maykee kee](https://osu.ppy.sh/users/23091978) |
