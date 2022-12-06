@@ -246,6 +246,8 @@ The osu!mania LN Tournament 3 is run by various community members.
 
 ### Semifinals
 
+**[Download the mappack here! (140 MB)](https://drive.google.com/drive/folders/1tCQCZN9c_Ym67-WD3H9n92f4hkOnRY-Y?usp=sharing)**
+
 - Coordination
   1. [Feryquitous - Vend (galtonist) \[The girl who got expelled from her planet (Short ver.)\]](https://osu.ppy.sh/beatmapsets/1201343#mania/2581084)
   2. [UNISON SQUARE GARDEN - Sugar Song to Bitter Step (Hylotl) \[LN\]](https://osu.ppy.sh/beatmapsets/1785404#mania/3656916)
