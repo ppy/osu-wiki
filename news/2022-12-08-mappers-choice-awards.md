@@ -21,8 +21,8 @@ Before we dive into the results, let's take a peek at the various handsome rewar
   - Category winners: 2 months per category
 - **Badges**
   - Top 3 of the Grand categories will be awarded special badges each.
-  - Winner of each category will be awarded a special badge.
-  - 2nd and 3rd place of each category will be awarded an all-new participation badge.
+  - The winner of each category will be awarded a special badge.
+  - The 2nd and 3rd place of each category will be awarded an all-new participation badge.
 
 ## Navigation
 
@@ -442,9 +442,9 @@ Before we dive into the results, let's take a peek at the various handsome rewar
 [![](/wiki/shared/news/2022-12-08-mappers-choice-awards/storyboard-users-grand-storyboarder-5.png)](https://osu.ppy.sh/users/4610047)
 {#storyboard-users-grand-storyboarder}
 
-Massive thanks to [Kaetwo](https://osu.ppy.sh/users/1997719) for the amazing work on the banners above!
-
 ---
+
+Massive thanks to [Kaetwo](https://osu.ppy.sh/users/1997719) for the amazing work on the banners! Again, clicking on any of them will take you to the respective beatmap or profile page.
 
 To all who've participated in this year's MCA, we dearly thank you for your time and effort. We hope you've enjoyed the event, and see you again in the next MCA!
 
