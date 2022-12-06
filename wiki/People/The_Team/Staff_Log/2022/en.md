@@ -535,7 +535,7 @@ Abbreviations for user groups are used throughout this log:
 - 2022-11-08: Added [Dusk-](https://osu.ppy.sh/users/6092181) to **NAT**
 - 2022-11-08: Added [Hivie](https://osu.ppy.sh/users/14102976) to **NAT**
 - 2022-11-13: Added [Remuring](https://osu.ppy.sh/users/6522146) to **Project Loved Team**
-- 2022-11-19: Moved [Procrastic101](https://osu.ppy.sh/users/6712747) from **osu! Alumni** to **GMT**
+- 2022-11-19: Moved [Protastic101](https://osu.ppy.sh/users/6712747) from **osu! Alumni** to **GMT**
 - 2022-11-20: Removed [heyronii](https://osu.ppy.sh/users/5642779) from the **GMT**
 - 2022-11-20: Removed [Zeus-](https://osu.ppy.sh/users/5464437) from the **GMT**
 - 2022-11-20: Removed [Orkay](https://osu.ppy.sh/users/9321674) from the **GMT**
