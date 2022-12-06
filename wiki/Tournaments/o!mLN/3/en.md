@@ -9,7 +9,7 @@ tags:
 
 ![o!mLN 3 logo](img/logo.jpg)
 
-The **osu!mania LN Tournament 3** (***o!mLN 3***) is a worldwide double-elimination 1v1 osu!mania 4-key tournament hosted by ::{ flag=VN }:: [MashedPotato](https://osu.ppy.sh/users/10494860), ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061), and ::{ flag=FR }:: [\_yosh](https://osu.ppy.sh/users/7157133). The tournament features a variety of maps with a vast amount of sliders (or Long Notes) in its mappools. It is the third instalment of the osu!mania LN Tournament.
+The **osu!mania LN Tournament 3** (***o!mLN 3***) was a worldwide double-elimination 1v1 osu!mania 4-key tournament hosted by ::{ flag=VN }:: [MashedPotato](https://osu.ppy.sh/users/10494860), ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061), and ::{ flag=FR }:: [\_yosh](https://osu.ppy.sh/users/7157133). The tournament featured a variety of maps with a vast amount of sliders (or Long Notes) in its mappools. It was the third instalment of the osu!mania LN Tournament.
 
 ## Tournament schedule
 
@@ -41,7 +41,7 @@ Generous donations from ::{ flag=TH }:: [HowToPlayLN](https://osu.ppy.sh/users/1
 
 ## Organisation
 
-The osu!mania LN Tournament 3 is run by various community members.
+The osu!mania LN Tournament 3 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -67,7 +67,7 @@ The osu!mania LN Tournament 3 is run by various community members.
 
 ## Participants
 
-*Note: Ranks are recorded at the end of registration.*
+*Note: Ranks were recorded at the end of registration.*
 
 | Rank | Player |
 | --: | :-- |
