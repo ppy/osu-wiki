@@ -11,14 +11,14 @@ tags:
 
 | Event | Time |
 | :-- | :-- |
-| Season start | Dec 4, 2022 |
-| Playlist lobby: Playlist A | Dec 4 - Dec 18, 2022 |
-| Playlist lobby: Playlist B | Dec 18 - Jan 1, 2023 |
-| Playlist lobby: Playlist C | Jan 1 - Sep 13, 2023 |
-| Playlist lobby: Playlist A | Jan 13 - Jan 20, 2023 |
-| Playlist lobby: Playlist B | Jan 20 - Jan 27, 2023 |
-| Playlist lobby: Playlist C | Jan 27 - Feb 3, 2023 |
-| Season conclusion | Feb 3, 2023 |
+| Season start | Dec 6, 2022 |
+| Playlist lobby: Playlist A | Dec 6 - Dec 20, 2022 |
+| Playlist lobby: Playlist B | Dec 20 - Jan 3, 2023 |
+| Playlist lobby: Playlist C | Jan 3 - Sep 15, 2023 |
+| Playlist lobby: Playlist A | Jan 15 - Jan 22, 2023 |
+| Playlist lobby: Playlist B | Jan 22 - Jan 29, 2023 |
+| Playlist lobby: Playlist C | Jan 29 - Feb 5, 2023 |
+| Season conclusion | Feb 5, 2023 |
 
 ## Weekly multiplayer lobbies
 

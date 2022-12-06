@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Beatmap Spotlights Season 8: Winter 2023 - Precision"
-date: 2022-12-04 20:00:00 +0000
+date: 2022-12-06 14:00:00 +0000
 ---
 
 Spotlights rivals arise, winter is knocking the door! Prepare your fingers and eyes for a precision challenge and compete for fun and glory!
@@ -57,7 +57,7 @@ A big thank you to everyone who voted!
 
 #### Players' Pick
 
-![](/wiki/shared/news/2022-12-04-beatmap-spotlights-season-8-winter-2023-precision/3659392.jpg)
+![](/wiki/shared/news/2022-12-06-beatmap-spotlights-season-8-winter-2023-precision/3659392.jpg)
 
 **[SOPHIE - NOTHING MORE TO SAY (DUB) [NOTHING ELSE TO SLAY (DAB) ft. tatemae & emilia]](https://osu.ppy.sh/beatmapsets/1786386#osu/3659392)**, mapped by [schoolboy](https://osu.ppy.sh/users/8722791), [tatemae](https://osu.ppy.sh/users/5223028), and [emilia](https://osu.ppy.sh/users/2003326)\
 *primarily suggested and described by [Nowaie](https://osu.ppy.sh/users/5428909)*
@@ -70,7 +70,7 @@ Are you up for the challenge? Give this SOPHIE banger a shot.
 
 #### Curators' Pick
 
-![](/wiki/shared/news/2022-12-04-beatmap-spotlights-season-8-winter-2023-precision/3331199.jpg)
+![](/wiki/shared/news/2022-12-06-beatmap-spotlights-season-8-winter-2023-precision/3331199.jpg)
 
 **[KUMOKIRI - Shippuujinrai [Expert]](https://osu.ppy.sh/beatmapsets/1631947#osu/3331199)**, mapped by [Kloyd](https://osu.ppy.sh/users/3738344)\
 *primarily suggested and described by [DeviousPanda](https://osu.ppy.sh/users/4966334)*
@@ -83,7 +83,7 @@ Kloyd does an amazing job of capturing such an intense track perfectly with many
 
 #### Players' Pick
 
-![](/wiki/shared/news/2022-12-04-beatmap-spotlights-season-8-winter-2023-precision/3621429.jpg)
+![](/wiki/shared/news/2022-12-06-beatmap-spotlights-season-8-winter-2023-precision/3621429.jpg)
 
 **[MUZZ - Nemesis [clockbite & Tachi's Sanctuary]](https://osu.ppy.sh/beatmapsets/1751193#taiko/3621429)**, mapped by [clockbite](https://osu.ppy.sh/users/16736934) and [Tachibana_](https://osu.ppy.sh/users/13069714)\
 *primarily suggested and described by [[Zeth]](https://osu.ppy.sh/users/9912966)*
@@ -94,7 +94,7 @@ Built around a song with fairly repetitive rhythm and melody, both mappers have 
 
 #### Curators' Pick
 
-![](/wiki/shared/news/2022-12-04-beatmap-spotlights-season-8-winter-2023-precision/3527450.jpg)
+![](/wiki/shared/news/2022-12-06-beatmap-spotlights-season-8-winter-2023-precision/3527450.jpg)
 
 **[Culprate & Au5 - Impulse [Creativity]](https://osu.ppy.sh/beatmapsets/1726063#taiko/3527450)**, mapped by [Megafan](https://osu.ppy.sh/users/6632605)\
 *primarily suggested and described by [[Zeth]](https://osu.ppy.sh/users/9912966)*
@@ -107,7 +107,7 @@ Ninja notes? Check. Extremely slow SV? Check. Detached bar lines? Check. "Wub" S
 
 #### Players' Pick
 
-![](/wiki/shared/news/2022-12-04-beatmap-spotlights-season-8-winter-2023-precision/3520524.jpg)
+![](/wiki/shared/news/2022-12-06-beatmap-spotlights-season-8-winter-2023-precision/3520524.jpg)
 
 **[Ata - Euphoria [Hi-Speed Fruit Super-Highway]](https://osu.ppy.sh/beatmapsets/1722551#fruits/3520524)**, mapped by [Kyptoric](https://osu.ppy.sh/users/1361268)\
 *primarily suggested and described by [WadBot](https://osu.ppy.sh/users/14571181)*
@@ -118,7 +118,7 @@ In this five and a half–minute psytrance fruit-catching experience, you will c
 
 #### Curators' Pick
 
-![](/wiki/shared/news/2022-12-04-beatmap-spotlights-season-8-winter-2023-precision/344892.jpg)
+![](/wiki/shared/news/2022-12-06-beatmap-spotlights-season-8-winter-2023-precision/344892.jpg)
 
 **[LeaF - Calamity Fortune [Crystal's Overdose]](https://osu.ppy.sh/beatmapsets/114741#fruits/344892)**, mapped by [CLSW](https://osu.ppy.sh/users/531253)\
 *primarily suggested by [wonjae](https://osu.ppy.sh/users/5032045)*\
@@ -132,7 +132,7 @@ This 2013 200 BPM showstopper challenges your mastery of the platter in many dif
 
 #### Players' Pick
 
-![](/wiki/shared/news/2022-12-04-beatmap-spotlights-season-8-winter-2023-precision/3587748.jpg)
+![](/wiki/shared/news/2022-12-06-beatmap-spotlights-season-8-winter-2023-precision/3587748.jpg)
 
 **[laura les - Haunted (dive to the heart remix) [[4K] Another]](https://osu.ppy.sh/beatmapsets/1683972#mania/3587748)**, mapped by [Monheim](https://osu.ppy.sh/users/6814203)\
 *primarily suggested and described by [Kibitz](https://osu.ppy.sh/users/7418493)*
@@ -143,7 +143,7 @@ The Another difficulty in particular features a massive step up from the lower d
 
 #### Curators' Pick
 
-![](/wiki/shared/news/2022-12-04-beatmap-spotlights-season-8-winter-2023-precision/3492128.jpg)
+![](/wiki/shared/news/2022-12-06-beatmap-spotlights-season-8-winter-2023-precision/3492128.jpg)
 
 **[Camellia - Newspapers for Magicians [Extra]](https://osu.ppy.sh/beatmapsets/1645306#mania/3492128)**, mapped by [Blocko](https://osu.ppy.sh/users/4075092)\
 *primarily suggested and described by [Antalf](https://osu.ppy.sh/users/8793773)*
@@ -178,16 +178,16 @@ For the full Spotlights Team members list, check out the [Beatmap Spotlight Cura
 
 ## Season schedule and leaderboards
 
-| Event | Time |
+ Event | Time |
 | :-- | :-- |
-| Season start | Dec 4, 2022 |
-| Playlist lobby: Playlist A | Dec 4 - Dec 18, 2022 |
-| Playlist lobby: Playlist B | Dec 18 - Jan 1, 2023 |
-| Playlist lobby: Playlist C | Jan 1 - Sep 13, 2023 |
-| Playlist lobby: Playlist A | Jan 13 - Jan 20, 2023 |
-| Playlist lobby: Playlist B | Jan 20 - Jan 27, 2023 |
-| Playlist lobby: Playlist C | Jan 27 - Feb 3, 2023 |
-| Season conclusion | Feb 3, 2023 |
+| Season start | Dec 6, 2022 |
+| Playlist lobby: Playlist A | Dec 6 - Dec 20, 2022 |
+| Playlist lobby: Playlist B | Dec 20 - Jan 3, 2023 |
+| Playlist lobby: Playlist C | Jan 3 - Sep 15, 2023 |
+| Playlist lobby: Playlist A | Jan 15 - Jan 22, 2023 |
+| Playlist lobby: Playlist B | Jan 22 - Jan 29, 2023 |
+| Playlist lobby: Playlist C | Jan 29 - Feb 5, 2023 |
+| Season conclusion | Feb 5, 2023 |
 
 The Winter Season 2023 leaderboard will be available over at the [Beatmap Spotlights Winter 2023 wiki article](/wiki/Beatmap_Spotlights/Seasons/2023_Winter) once the first batch of lobbies conclude in the coming weeks.
 
