@@ -178,7 +178,7 @@ For the full Spotlights Team members list, check out the [Beatmap Spotlight Cura
 
 ## Season schedule and leaderboards
 
- Event | Time |
+| Event | Time |
 | :-- | :-- |
 | Season start | Dec 6, 2022 |
 | Playlist lobby: Playlist A | Dec 6 - Dec 20, 2022 |
