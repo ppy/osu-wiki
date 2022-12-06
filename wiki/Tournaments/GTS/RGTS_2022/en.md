@@ -111,6 +111,33 @@ The Rising Global Taiko Showdown 2022 is run by various community members.
 
 ## Mappools
 
+### Finals
+
+**[Download the mappack here! (90 MB)](https://mega.nz/file/G6ZgGR5b#R0aAM84mO4-2_uIaUQQibs1ui-ytU-Rr_S3iqYq-6VI)**
+
+- NoMod
+  1. [ShinRa-Bansho - Dramatic Hizakurige (arcpotato) \[Dreamy Express (RGTS Edit)\]](https://osu.ppy.sh/beatmapsets/1897642#taiko/3911110)
+  2. [Rish feat. Choko - Punai Punai Sensou (Yujki) \[Sensoni (100 Trillion Slimes)\]](https://osu.ppy.sh/beatmapsets/1897643#taiko/3911112)
+  3. [xi - Zauberkugel (sendol) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1706326#taiko/3486509)
+  4. [Tanchiky Vs. D-D-Dice - Welcome, SSSpooky!!! (Sayira) \[Trick or Treat!!!\]](https://osu.ppy.sh/beatmapsets/1897670#taiko/3911163)
+  5. [LOLI RIPE - All I wanna do is touch your power points (Horiiizon) \[\<SV\> Inner Oni.pptx\]](https://osu.ppy.sh/beatmapsets/1853776#taiko/3809282)
+  6. [Kumako Morino - Mofumofu shitai no (roufou) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1897646#taiko/3911116)
+- Hidden
+  1. [Shiina Ringo - Marunouchi Sadistic (7\_7's bpm190 edit) (KuroKuroKuro) \[KurOni\]](https://osu.ppy.sh/beatmapsets/1442721#taiko/2967645)
+  2. [tomatoism - Someone Special (\[\_Chichinya\_\]) \[I W a n t T o B r T h a t S p e c i a l\]](https://osu.ppy.sh/beatmapsets/1332943#taiko/2761652)
+- HardRock
+  1. [onoken - Amnolys (antigen) \[Anomalous (RGTS edit)\]](https://osu.ppy.sh/beatmapsets/1182061#taiko/3908139)
+  2. [Quarkee - But Try... Only to Agonize (RGTS cut.) (6\_6) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1897435#taiko/3910638)
+- DoubleTime
+  1. [LADY'S ONLY - Keep It Real feat. Hoshimiya Toto (Briesmas) \[Oni\]](https://osu.ppy.sh/beatmapsets/1898159#taiko/3912262)
+  2. [EmoCosine - Black sour Ruby (Sayira) \[Tarnished Purity\]](https://osu.ppy.sh/beatmapsets/1897673#taiko/3911171)
+- FreeMod
+  1. [Morimori Atsushi Remixed by uma - PUPA (uma Remix) (sendol) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1897284#taiko/3910311)
+  2. [Zris - Kerberos (Cynplytholowazy) \[Hell\]](https://osu.ppy.sh/beatmapsets/1897280#taiko/3910305)
+  3. [BEMANI Sound Team "dj Hellix" - ALTERNATOR (roufou) \[Collab TKOni\]](https://osu.ppy.sh/beatmapsets/1897661#taiko/3911151)
+- Tiebreaker
+  1. **[Sephid - Hypothesize (MTNTWarz) \[Presumption\]](https://osu.ppy.sh/beatmapsets/1897397#taiko/3910578)**
+
 ### Semifinals
 
 **[Download the mappack here! (81 MB)](https://mega.nz/file/fJJ2TCKS#mMjI1j1sZD7vZjo8u8Yj5kYn4bAAxujclkToyfStDP8)**
