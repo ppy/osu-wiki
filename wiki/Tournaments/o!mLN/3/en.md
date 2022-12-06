@@ -31,7 +31,7 @@ The **osu!mania LN Tournament 3** (***o!mLN 3***) was a worldwide double-elimina
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge (TBC), US$60 |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, US$60 |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | US$36 |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | US$24 |
 
