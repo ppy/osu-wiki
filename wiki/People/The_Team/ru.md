@@ -9,7 +9,6 @@ tags:
   - team osu!
   - стафф
   - команда
-  - outdated_translation: true
 ---
 
 # Команда osu!
