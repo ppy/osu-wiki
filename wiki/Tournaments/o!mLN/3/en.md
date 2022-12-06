@@ -190,6 +190,16 @@ The osu!mania LN Tournament 3 was run by various community members.
 | #12,510 | ::{ flag=AU }:: [AnatharaX](https://osu.ppy.sh/users/14390680) |
 | #27,233 | ::{ flag=VN }:: [kungto](https://osu.ppy.sh/users/19157857) |
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=CZ }:: [grillroasted](https://osu.ppy.sh/users/18271627) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=BR }:: [DemiFiendSMT](https://osu.ppy.sh/users/20051971) |
+
 ## Mappools
 
 ### Grand Finals
