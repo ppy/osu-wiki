@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Beatmap Spotlights Season 8: Winter 2023 - Precision"
-date: 2022-12-06 14:00:00 +0000
+date: 2022-12-06 18:30:00 +0000
 ---
 
 Spotlights rivals arise, winter is knocking the door! Prepare your fingers and eyes for a precision challenge and compete for fun and glory!
@@ -35,7 +35,7 @@ The new mod additions go as below:
 | Game mode | Mods |
 | :-- | :-- |
 | osu! | Easy, Half Time, Daycore, Sudden Death, Perfect, Double Time, Nightcore, Flashlight, Blinds, Strict Tracking |
-| osu!taiko | Easy, Half Time, Daycore, Sudden Death, Perfect, Double Time, Nightcore |
+| osu!taiko | Easy, Half Time, Daycore, Sudden Death, Perfect, Double Time, Nightcore, Flashlight |
 | osu!catch | Easy, Half Time, Daycore, Sudden Death, Perfect, Double Time, Nightcore |
 | osu!mania | Easy, Half Time, Daycore, Sudden Death, Perfect, Double Time, Nightcore |
 
