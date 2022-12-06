@@ -249,7 +249,7 @@ The Rhythm Incarnate tier threshold is picked manually based on the season's par
 - [YOASOBI - Encore (Crowley) \[End of the World\]](https://osu.ppy.sh/beatmapsets/1387192#fruits/2865240), suggested by [SadEgg](https://osu.ppy.sh/users/10278243)
 - [S-C-U - heron (ZiRoX) \[Overdose\]](https://osu.ppy.sh/beatmapsets/576786#fruits/1220985), suggested by [SadEgg](https://osu.ppy.sh/users/10278243)
 - [Nekomata Master feat.Joelle Strother - Infinity of Our Love (Xinnoh) \[Serenity\]](https://osu.ppy.sh/beatmapsets/757470#fruits/1593485), suggested by [SadEgg](https://osu.ppy.sh/users/10278243)
-- [Hatsune Miku - End of the World (YamiItsuki3231) \[\[4K\] Yami's Rage\]](https://osu.ppy.sh/beatmapsets/1284125#fruits/2666569), suggested by [WadBot](https://osu.ppy.sh/users/14571181)
+- [xi - Parousia (Deif) \[Lost Judgement\]](https://osu.ppy.sh/beatmapsets/1789435#fruits/3666569), suggested by [WadBot](https://osu.ppy.sh/users/14571181)
 - [CustomiZ - COOLEST (TV Size) (Greaper) \[GREAPER'S OVERDOSE\]](https://osu.ppy.sh/beatmapsets/1258175#fruits/2615583), suggested by [SadEgg](https://osu.ppy.sh/users/10278243)
 
 ### osu!mania (led by [Crumpey](https://osu.ppy.sh/users/3518705))
