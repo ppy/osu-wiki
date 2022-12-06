@@ -1,6 +1,6 @@
 # Timing
 
-**Timing** is the process of determining a song's musical structure by finding its [BPM](/wiki/Beatmapping/Beats_per_minute), one or more [offsets](/wiki/Disambiguation/Offset) (timing points) for each [timing section](/wiki/Beatmapping/Timing_section), and its [time signatures](/wiki/Music_theory/Time_signature).
+**Timing** is the process of determining a song's musical structure by determining the positions of each [timing section](/wiki/Beatmapping/Timing_section) along with their [BPM](/wiki/Beatmapping/Beats_per_minute) values and [time signatures](/wiki/Music_theory/Time_signature).
 
 The [beatmap editor](/wiki/Client/Beatmap_editor) provides [timing settings](/wiki/Client/Beatmap_editor/Timing) with a [ruler-like timeline view](/wiki/Client/Beatmap_editor/Timelines#timing) for temporal placement of [hit objects](/wiki/Gameplay/Hit_object). When objects are placed, they are [snapped](/wiki/Beatmapping/Snapping) to timeline ticks, i.e. subdivisions of a [measure](/wiki/Music_theory/Measure), allowing objects to easily line up with notes of the song.
 
@@ -32,7 +32,7 @@ Almost every song can be divided into sections of different tempo, and the goal 
 
 ### Single BPM
 
-A beatmap's first [offset](/wiki/Beatmapping/Offset) ([uninherited timing point](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point), i.e. "red line") is the amount of time between the beginning of the audio file and the first downbeat, and the starting point used by osu! to calculate positions of other beats. A single timing point is often enough for songs that are digitally produced or edited seamlessly, having no BPM or time signature changes, or metronome resets<!-- TODO: link -->.
+The amount of time between the beginning of the audio file and the first downbeat, also called "offset", is typically the place for the first [uninherited timing point](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point), the starting point used by osu! to calculate positions of other beats. One of these timing points is often enough for songs that are digitally produced or edited seamlessly, having no BPM or time signature changes, or metronome resets<!-- TODO: link -->.
 
 In the [timing tab](/wiki/Client/Beatmap_editor/Timing), tapping the `T` key or clicking the metronome button to the beat of the song will allow osu! to calculate an approximate BPM. The value can then be adjusted manually until it is correct and all timeline ticks line up with the music. There are a few things to note:
 
@@ -48,6 +48,8 @@ Some songs feature changing tempo, requiring several offsets in a beatmap. A son
 Music that is performed without a metronome may often contain timing discrepancies, arbitrary tempo changes, and random note drifts, either due to intentional dynamic musical expression, or human error. This needs to be accounted for when timing a beatmap for such a song. However, finding out timing for such songs is a tough feat — it is recommended to avoid them unless you have a lot of experience and patience.
 
 For single- or multi-BPM songs performed with a metronome, small timing errors (e.g. a note played a few milliseconds early or late) may be ignored if the beatmap is still playable with simple timing. Alternatively, the audio file may be edited directly with a program like [Audacity](https://www.audacityteam.org/) to quantise notes and correct timing mistakes.
+
+Some songs require timing points that shift offset without changing BPM or time signature. These are usually caused by inaccurate quantisation or added/removed beats from a single measure.
 
 Lastly, a new timing point is required for time signature changes and metronome resets. For example, a regular rhythm may change to a waltz, making the measure not 4, but 3 beats long, or a new measure may start earlier than expected, which necessitates a new timing point to reset the metronome.
 
