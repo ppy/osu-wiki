@@ -65,6 +65,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | ::{ flag=AU }:: [Iceluin](https://osu.ppy.sh/users/3558897) |  |
 | ::{ flag=CA }:: [jonathanlfj](https://osu.ppy.sh/users/270377) | Chinês, um pouco de francês |
 | ::{ flag=KR }:: [KeyWee](https://osu.ppy.sh/users/10476879) | Coreano |
+| ::{ flag=FR }:: [Kudosu](https://osu.ppy.sh/users/11038155) | Francês |
 | ::{ flag=HK }:: [Kyle Y](https://osu.ppy.sh/users/3565813) | Chinês, cantonês |
 | ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613) | Alemão |
 | ::{ flag=KR }:: [Len](https://osu.ppy.sh/users/1686145) | Coreano |
@@ -81,13 +82,13 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) | Francês |
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | Alemão |
 | ::{ flag=RU }:: [riffy](https://osu.ppy.sh/users/597957) | Russo |
-| ::{ flag=US }:: [rosario wknd](https://osu.ppy.sh/users/6341518) |  |
 | ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | Chinês |
 | ::{ flag=HK }:: [Saggin](https://osu.ppy.sh/users/12464107) | Chinês, cantonês, um pouco de japonês |
 | ::{ flag=FR }:: [Sajinn](https://osu.ppy.sh/users/13513687) | Francês |
 | ::{ flag=RU }:: [Shmiklak](https://osu.ppy.sh/users/5504231) | Russo |
 | ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | Russo |
 | ::{ flag=FR }:: [Sotarks](https://osu.ppy.sh/users/4452992) | Francês |
+| ::{ flag=DE }:: [Sylvarus](https://osu.ppy.sh/users/4505918) | Alemão |
 | ::{ flag=FI }:: [TheKingHenry](https://osu.ppy.sh/users/5128277) | Finlandês |
 | ::{ flag=TH }:: [timemon](https://osu.ppy.sh/users/2072005) | Tailandês |
 | ::{ flag=LT }:: [tomatas95](https://osu.ppy.sh/users/11403815) | Lituano |
@@ -98,6 +99,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  |
 | ::{ flag=CN }:: [Yugu](https://osu.ppy.sh/users/3161834) | Chinês, japonês |
 | ::{ flag=IT }:: [Zekk](https://osu.ppy.sh/users/9704802) | Italiano |
+| ::{ flag=SE }:: [Zer0-](https://osu.ppy.sh/users/11038155) | Sueco |
 
 #### osu!taiko
 
@@ -111,7 +113,6 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | ::{ flag=MX }:: [DakeDekaane](https://osu.ppy.sh/users/1425253) | Espanhol |
 | ::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142) | Vietnamita |
 | ::{ flag=US }:: [eiri-](https://osu.ppy.sh/users/3388410) | Espanhol |
-| ::{ flag=JP }:: [Eriha](https://osu.ppy.sh/users/16320311) | Japonês |
 | ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851) | Alemão |
 | ::{ flag=US }:: [hac](https://osu.ppy.sh/users/17853754) |  |
 | ::{ flag=IE }:: [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) |  |
@@ -190,8 +191,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 
 | Nome | Línguas adicionais |
 | :-- | :-- |
-| ::{ flag=FR }:: [Kudosu](https://osu.ppy.sh/users/11038155) | Francês |
-| ::{ flag=DE }:: [Sylvarus](https://osu.ppy.sh/users/4505918) | Alemão |
+| ::{ flag=BE }:: [Stack](https://osu.ppy.sh/users/6122935) | Holandês |
 
 #### osu!taiko
 
@@ -200,10 +200,10 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | ::{ flag=BR }:: [-Flashlight-](https://osu.ppy.sh/users/9731062) | Português |
 | ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) | |
 | ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) | Chinês |
+| ::{ flag=JP }:: [Eriha](https://osu.ppy.sh/users/16320311) | Japonês |
 | ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230) | Chinês, cantonês |
 | ::{ flag=GB }:: [Metzo](https://osu.ppy.sh/users/10633982) | |
 | ::{ flag=MY }:: [Rinze](https://osu.ppy.sh/users/19901680) | Chinês, malaio |
-| ::{ flag=BR }:: [Toofu](https://osu.ppy.sh/users/11004271) | Português |
 
 #### osu!catch
 
@@ -219,6 +219,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | Nome | Línguas adicionais |
 | :-- | :-- |
 | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | Indonésio |
+| ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/14351534) | Chinês |
 | ::{ flag=CN }:: [Seiran-](https://osu.ppy.sh/users/14351534) | Chinês |
 
 ## History
