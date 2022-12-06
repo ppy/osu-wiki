@@ -35,6 +35,8 @@ The **osu!mania LN Tournament 3** (***o!mLN 3***) is a worldwide double-eliminat
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | US$36 |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | US$24 |
 
+![](img/badge.jpg "o!mLN 3 winner badge")
+
 Generous donations from ::{ flag=TH }:: [HowToPlayLN](https://osu.ppy.sh/users/10879600), ::{ flag=VN }:: [MashedPotato](https://osu.ppy.sh/users/10494860), and ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061) helped fund some of the prizes.
 
 ## Organisation
