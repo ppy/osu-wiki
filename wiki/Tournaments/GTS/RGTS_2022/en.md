@@ -282,6 +282,7 @@ Sunday, 4 December 2022:
 | **Japan** ::{ flag=JP }:: | **7** | 2 | ::{ flag=KR }:: South Korea | [#1](https://osu.ppy.sh/community/matches/105447104) |
 | Taiwan A ::{ flag=TW }:: | 0 | **7** | ::{ flag=CN }:: **China** | [#1](https://osu.ppy.sh/community/matches/105448096) |
 | United States A ::{ flag=US }:: | 2 | **7** | ::{ flag=DE }:: **Germany A** | [#1](https://osu.ppy.sh/community/matches/105455510) |
+
 ### Quarterfinals
 
 Saturday, 26 November 2022:
