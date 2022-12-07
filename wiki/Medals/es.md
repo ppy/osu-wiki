@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Medallas
 
 Las **medallas**, anteriormente conocido como *logros*, son insignias en el perfil de un usuario que indican ciertos objetivos que ha alcanzado el usuario. Actualmente, hay 280 medallas disponibles para desbloquear en ocho categorías diferentes en total: [Paquetes de beatmaps](#paquetes-de-beatmaps), [Habilidad](#habilidad), [Dedicación](#dedicación), [Introducción a los mods](#introducción-a-los-mods), [Hush-Hush](#hush-hush), [Beatmaps destacados](#beatmaps-destacados), [Destacados de temporada](#destacados-de-temporada) y [Paquetes de desafíos de beatmaps](#paquetes-de-desafíos-de-beatmaps).
