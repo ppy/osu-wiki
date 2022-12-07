@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: e94e24c7ece448f53534306951591330c8d06378
+---
+
 # オフセット（曖昧さ回避）
 
 **オフセット**には複数の意味があります:
