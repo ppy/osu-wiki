@@ -13,5 +13,5 @@
 ## Beatmap settings
 
 - Countdown offset, a setting which affects the appearance of [countdown](/wiki/Beatmapping/Countdown) before the first hit object.
-- Audio offset, or [audio lead-in](/wiki/Beatmap/Lead-in).
+- Audio offset, or [audio lead-in](/wiki/Beatmapping/Lead-in).
 - Video offset, a setting that shows how soon a background video should play relatively to the audio track.
