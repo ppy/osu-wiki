@@ -14,7 +14,7 @@ tags:
 
 Le **Beatmap Spotlights** (ou simplement *Spotlights*, anciennement *Ranking Charts*) est un programme récurrent de recommandation et de mise en avant des [beatmaps](/wiki/Beatmap) pour leur design et leur gameplay excellents et uniques. Il est accompagné d'une [ligue saisonnière](#saisons-spotlights), où les joueurs s'affrontent sur ces beatmaps pour gagner des [badges](#récompenses).
 
-La saison actuelle est celle de l'Été 2022.
+La saison actuelle est celle de l'Hiver 2023.
 
 La [page de groupe des Beatmap Spotlight Curators](https://osu.ppy.sh/groups/48) liste tous les membres de l'équipe. Voir la [page des Beatmap Spotlight Curators](/wiki/People/The_Team/Beatmap_Spotlight_Curators) pour une liste plus détaillée de tous les rôles au sein du BSC.
 
@@ -67,14 +67,14 @@ Pendant la saison, chaque participant reçoit un **badge** temporaire qui reflè
 
 | Badges | Palier de bracket | Placement |
 | :-: | :-- | :-- |
-| ![](img/badges/summer_2022/osu/ri_1.png) ![](img/badges/summer_2022/osu/ri_2.png) | Rhythm Incarnate | Les meilleurs des meilleurs |
-| ![](img/badges/summer_2022/osu/diamond_1.png) ![](img/badges/summer_2022/osu/diamond_2.png) | Diamond | Top 3% |
-| ![](img/badges/summer_2022/osu/platinum_1.png) ![](img/badges/summer_2022/osu/platinum_2.png) | Platinum | 3% – 10% |
-| ![](img/badges/summer_2022/osu/gold_1.png) ![](img/badges/summer_2022/osu/gold_2.png) | Gold | 10% – 25% |
-| ![](img/badges/summer_2022/osu/silver_1.png) ![](img/badges/summer_2022/osu/silver_2.png) | Silver | 25% – 50% |
-| ![](img/badges/summer_2022/osu/bronze_1.png) ![](img/badges/summer_2022/osu/bronze_2.png) | Bronze | 50% – 70% |
-| ![](img/badges/summer_2022/osu/copper_1.png) ![](img/badges/summer_2022/osu/copper_2.png) | Copper | 70% – 95% |
-| ![](img/badges/summer_2022/osu/iron_1.png) ![](img/badges/summer_2022/osu/iron_2.png) | Iron | 95% – 100% |
+| ![](img/badges/winter_2023/osu/ri_1.png) ![](img/badges/winter_2023/osu/ri_2.png) | Rhythm Incarnate | Les meilleurs des meilleurs |
+| ![](img/badges/winter_2023/osu/diamond_1.png) ![](img/badges/winter_2023/osu/diamond_2.png) | Diamond | Top 3% |
+| ![](img/badges/winter_2023/osu/platinum_1.png) ![](img/badges/winter_2023/osu/platinum_2.png) | Platinum | 3% – 10% |
+| ![](img/badges/winter_2023/osu/gold_1.png) ![](img/badges/winter_2023/osu/gold_2.png) | Gold | 10% – 25% |
+| ![](img/badges/winter_2023/osu/silver_1.png) ![](img/badges/winter_2023/osu/silver_2.png) | Silver | 25% – 50% |
+| ![](img/badges/winter_2023/osu/bronze_1.png) ![](img/badges/winter_2023/osu/bronze_2.png) | Bronze | 50% – 70% |
+| ![](img/badges/winter_2023/osu/copper_1.png) ![](img/badges/winter_2023/osu/copper_2.png) | Copper | 70% – 95% |
+| ![](img/badges/winter_2023/osu/iron_1.png) ![](img/badges/winter_2023/osu/iron_2.png) | Iron | 95% – 100% |
 
 Le seuil du niveau Rhythm Incarnate est choisi manuellement en fonction du nombre de participants de la saison et de la taille générale des autres niveaux, bien qu'il s'agisse d'un nombre absolu qui se situe entre le top 2 et le top 50 dans la plupart des cas.
 
