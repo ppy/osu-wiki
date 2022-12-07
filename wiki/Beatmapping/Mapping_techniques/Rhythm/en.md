@@ -84,7 +84,7 @@ This will create a straight line.
 
 ### Hub and Spoke
 
-Nominator(s): Beuchi-chan
+Nominator(s): [Beuchi](https://osu.ppy.sh/users/67192)
 
 The **hub and spoke** formation is literally a hub with spokes peaking out.
 This technique requires at least 8 to 9 hit objects that are half a beat apart from another.
@@ -165,8 +165,7 @@ These consist of sliders (with or without repeats), hit circles or a combination
 
 The job of a deathstream is to practically fail players that cannot handle ordinary streams.
 
-The use of deathstreams will make your map **unrankable**!
-However, it may go through as one of the *approved* beatmaps.
+During the [score ranking](/wiki/Ranking#score-ranking) era, the use of deathstreams was strictly limited as the [Ranking Criteria](/wiki/Ranking_Criteria) would only allow for a Ranked beatmap to have a maximum score of 20 million. However, with the introduction of the [pp system](/wiki/en/Performance_points), the score cap rule was soon rendered moot and deathstreams saw a tick up in its usage as a result.
 
 ### Slider Stream Jumps
 

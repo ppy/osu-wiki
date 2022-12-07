@@ -50,7 +50,7 @@ Pada osu!catch, mod ini dapat meningkatkan hyperdash leniency menjadi lebar, men
 
 - Saat mod Double Time dinyalakan, nilai `Length`, `BPM`, dan `Objects` berwarna merah terang dengan nilai baru yang telah ditingkatkan. (Digambarkan di bawah.)
 - Nilai `Objects` tetap bewarna merah terang walaupun tidak ada perubahan yang terjadi pada nilainya.
-- Nilai `CS`, `AR`, dan `HP` mempunyai sebuah segitiga kecil dalam bentuk superscript di samping nilai mereka untuk menandakan peningkatan kecil pada nilai mereka. (Digambarkan di bawah.)
+- Nilai `AR`, `OD`, dan `HP` mempunyai sebuah segitiga kecil dalam bentuk superscript di samping nilai mereka untuk menandakan peningkatan kecil pada nilai mereka. (Digambarkan di bawah.)
 - Penamaaan "Double Time" bisa dikatakan sebagai istilah yang tidak cocok karena mod DT sebenarnya tidak meningkatkan kecepatan lagunya sebesar 2x (200%); mod ini hanya meningkatkan kecepatan beatmap sebesar 1.5x (150%).
 
 ![Perubahan nilai-nilai beatmap akibat pemasangan mod Double Time](img/GM_DT.jpg "Contoh tampilan nilai-nilai beatmap yang telah terubah oleh pemasangan mod Double Time")

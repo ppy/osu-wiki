@@ -4,9 +4,9 @@ title: "osu!monthly, September 2022"
 date: 2022-10-02 19:00:00 +0000
 ---
 
-![](/wiki/shared/news/2022-10-01-osumonthly-3/banner.jpg)
-
 Need a quick way to catch up with community happenings? We've got you covered with the third edition of osu!monthly!
+
+![](/wiki/shared/news/2022-10-01-osumonthly-3/banner.jpg)
 
 We're still optimising the way osu!monthly is written, and we need your help to do it! For example, if you want to help us keep track of noteworthy or otherwise cool scores, please join the [osu!dev Discord server](https://discord.com/invite/ppy) or reach out to 0x84f#0001 on Discord — we'd love to have you! If you just want to engage with the team feel free to write on our [discussion thread on the forum](https://osu.ppy.sh/community/forums/topics/1614314?n=1)!
 
@@ -66,7 +66,7 @@ If you are interested in checking out all of the entries, [you can do so here](h
 
 ![](/wiki/shared/news/2022-10-01-osumonthly-3/medalsbanner.jpg)
 
-After two years, the community has finally received a new batch of Hush-Hush medals along with 3 new beatmap pack medals! The most dedicated of medal hunters have already found the means to obtain them within just 5 days of their release, with the Lightless medal causing the biggest of headaches and taking 4 days of non-stop searching to solve!
+The community has been graced with the third batch of Hush-Hush medals for this year, along with 3 new beatmap pack medals! The most dedicated of medal hunters have already found the means to obtain them within just 5 days of their release, with the Lightless medal causing the biggest of headaches and taking 4 days of non-stop searching to solve!
 
 Word on the street is that there will be more Hush-Hush medals coming soon, so if you feel like joining the hunt when they come out, go check out the [Medal Hunters Discord server](https://discord.com/invite/8qpNTs6). Of course, if you feel like solving any of the Hush-Hush medals on your own — not just these new ones — they're all waiting for you.
 
@@ -92,7 +92,7 @@ There have been so many highlights, break points, and tiebreakers in this year's
 
 But there was one last surprise: the [custom tiebreaker](https://osu.ppy.sh/beatmapsets/1846639#mania/3793375). Players got to experience the skill peak of the tournament, expressed on a beatmap charted by [-mint-](https://osu.ppy.sh/users/8976576), [guden](https://osu.ppy.sh/users/11626065), [MyZterioN-](https://osu.ppy.sh/users/8521723), and [Toaph Daddy](https://osu.ppy.sh/users/7616811). And if that was not enough, the organisers also managed to add [ああああ](https://osu.ppy.sh/beatmaps/artists/301) (which in the western alphabet means *AAAA*) as an official Featured Artist! Let's also not forget about [poca_p0ca](https://osu.ppy.sh/users/5082685) and their amazing GFX proficiency.
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/watch?v=CRD-2sk6Zt8" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/CRD-2sk6Zt8" frameborder="0" allowfullscreen></iframe>
 
 With all this said, let us thank all organisers and staff members for hyping up the community once more. Their work was essential in giving the players and viewers the best of tournament experiences for yet another year.
 
@@ -100,11 +100,11 @@ With all this said, let us thank all organisers and staff members for hyping up 
 
 *Section written by [0x84f](https://osu.ppy.sh/users/7944724)*
 
-This month [Aricin](https://osu.ppy.sh/users/1419095) made a return and set some amazing scores, one of which we would love to showcase being his 3-miss score on [Night of Knights](https://osu.ppy.sh/scores/osu/4267347706).
+This month [Aricin](https://osu.ppy.sh/users/1419095) made a return and set some amazing scores, one of which we would love to showcase being his FC on [Night of Knights](https://osu.ppy.sh/scores/osu/4267347706).
 
 As the first person to pass the ~750 combo threshold, he truly showcased his amazing ability at not only speed, but his godlike finger control as well.
 
-<iframe width="100%" height="315" src="https://youtu.be/embed/ceCrd8OBQDc?t=139" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/ceCrd8OBQDc?start=139" frameborder="0" allowfullscreen></iframe>
 
 A couple of other interesting plays would be [chocomint](https://osu.ppy.sh/users/124493)'s [first HD FC on *Arkadia*](https://osu.ppy.sh/scores/osu/4280979847) and [WhiteCat](https://osu.ppy.sh/users/4504101)'s [HR score on *Revolutionary Etude*](https://reddit.com/r/osugame/comments/xg3p1n/whitecat_chopin_revolutionary_etude/). WhiteCat's score in particular really showcases how far ahead of the pack he is when it comes to aim.
 
@@ -126,7 +126,7 @@ Not everyone has heard of [shinchikuhome](https://osu.ppy.sh/users/3174184)'s do
 
 A mere 4 hours after being ranked, the infamous taiko pro shinchikuhome took the #1 spot with an astounding DT FC on [KawaiiBass](https://osu.ppy.sh/users/11992585)' beatmap of [Yomi Yori](https://osu.ppy.sh/beatmapsets/1819997#taiko/3734552), earning themselves 1102 pp, which is well deserved for a play of this caliber. This FC comes in at a blisteringly fast 330 BPM, filled with long stamina-draining streams alongside difficult colour and rhythm changes. Not to mention the insane accuracy as well, only hitting 20 100's throughout this 5-minute behemoth. This test of stamina and accuracy is certainly one to see!
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/watch?v=NWqfPNdXrJg" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/NWqfPNdXrJg" frameborder="0" allowfullscreen></iframe>
 
 Some other notable scores this month include [loneyze](https://osu.ppy.sh/users/12464220/taiko)'s beatmap of [Noah - Reflection](https://osu.ppy.sh/beatmapsets/1822689), being the only HDDT FC on the map and bringing them 980 pp, alongside [Ney](https://osu.ppy.sh/users/5991961/taiko)'s HDHRFL SS on [Mike Morasky - Faster Than A Speeding Bullet](https://osu.ppy.sh/beatmapsets/1070783#taiko/2241389) taking an already tricky map to the next level, and earning himself #1 on the map.
 
@@ -136,7 +136,7 @@ Some other notable scores this month include [loneyze](https://osu.ppy.sh/users/
 
 [Camme79](https://osu.ppy.sh/users/5220794) has shown his DT proficiency with [an FC on *Senketsu no Chikai*](https://osu.ppy.sh/scores/fruits/209219015), a super tough 2011 map, which combines an uncomfortably high AR with incredibly spaced old-school patterns that prove a serious challenge even to the game's best players.
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/watch?v=SonwRhyol28" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/SonwRhyol28" frameborder="0" allowfullscreen></iframe>
 
 However, this certainly hasn't been the only impressive play this month, as we've seen [ttobas](https://osu.ppy.sh/users/2084568) set a [new NM pp record](https://osu.ppy.sh/scores/fruits/209125694) on the recently ranked [Ravensblood - Storms of Ages](https://osu.ppy.sh/beatmapsets/1673971#fruits/3419551), a map with the highest star rating in osu!catch.
 

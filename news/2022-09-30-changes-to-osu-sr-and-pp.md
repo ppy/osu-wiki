@@ -33,15 +33,13 @@ During this maintenance, the following will also occur:
 
 Rank history graphs updates will be enabled and updated again. At this point, all users' global leaderboard ranks will be stable going forward.
 
-### 🏃 Re-processing beatmap scores \[2022-10-02 ~\]
+### ✅ Re-processing beatmap scores \[2022-10-02 ~ 2022-10-04\]
 
 There are currently 1.6 *billion* scores in osu!. This step will go through all users (starting at rank #1) and update individual pp values on profiles.
 
 During this period, scores on profiles will start to show correct values, but still be out of order. Beatmap leaderboards may not show new values yet.
 
-At the time of writing this, the top 200,000 users have been processed.
-
-### ⏳ Reindexing \[ETA 2022-10-04\]
+### ✅ Reindexing \[2022-10-04 ~ 2022-10-06\]
 
 This will fix scores being out of order on profiles, and in some rare cases not being displayed at all.
 

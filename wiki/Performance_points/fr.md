@@ -12,8 +12,6 @@ Connu par la suite sous le nom de "pp" (abréviation de "performance points"), c
 
 Plusieurs mois après sa révélation, la version 20120722-24 d'osu! a officiellement mis en œuvre le système pour remplacer entièrement l'ancien système de score [Classé](/wiki/Beatmap/Category#classée), les nouveaux scores étant calculés toutes les 30 minutes. Plus tard, en août de la même année, le système a été amélioré pour être mis à jour en temps réel.
 
-*Remarque : ppv1, la version originale du système de points de performance, comportait également un journal de modifications, qui peut être consulté dans son [sujet du forum](https://osu.ppy.sh/community/forums/topics/92185).*
-
 Il a continué à exister dans cette capacité pendant plus d'un an de service jusqu'à ce que [Tom94](https://osu.ppy.sh/users/1857058), le créateur de la mesure de score *osu!tp*, rejoigne l'[équipe d'osu!](/wiki/People/The_Team) et implémente sa conception dans le système. Le système résultant a été intitulé *ppv2*, et est devenu opérationnel le 27 janvier 2014, renommant ainsi l'ancien système *[ppv1](/wiki/Performance_points/ppv1)*.
 
 Le 16 janvier 2021, des changements ont été apportés au système ppv2 afin d'attribuer plus précisément des pp aux aspects plus difficiles des beatmaps. Ces changements ont été réalisés en grande partie grâce à l'aide de plusieurs membres de la communauté tels que [Xexxar](https://osu.ppy.sh/users/2773526) et [StanR](https://osu.ppy.sh/users/7217455). Les spécificités des changements effectués sont détaillées dans le [newspost correspondant](https://osu.ppy.sh/home/news/2021-01-14-performance-points-updates). Très brièvement, les principaux points d'intérêt de cette mise à jour sont les suivants :
@@ -24,7 +22,7 @@ Le 16 janvier 2021, des changements ont été apportés au système ppv2 afin d'
 - Ajuste le taux de perte de pp en cas de miss pour être plus indulgent sur les beatmaps plus longues avec un combo plus élevé.
 - Punir les parties à faible [précision](/wiki/Gameplay/Accuracy) avec moins de gain de pp.
 
-ppv2 est actuellement en service actif, avec des mises à jour en direct publiées dans son [changelog](https://osu.ppy.sh/p/changelog?category=pp).
+ppv2 est actuellement en service actif, avec des mises à jour sous forme d'articles de news publiés par le [Comité des points de performances](/wiki/People/Performance_Points_Committee) chaque fois que de nouveaux changements sont déployés.
 
 ## Calcul
 
