@@ -10,6 +10,6 @@ La mayoría de los problemas técnicos se pueden resolver buscando o publicando 
 
 Para problemas con la cuenta, problemas con los pagos, seguimiento de baneos, consultas sobre torneos y **cualquier cosa relacionada con la necesidad de ayuda en osu!**, comuníquese con el [equipo de soporte de la cuenta](/wiki/People/The_Team/Account_support_team) enviando un correo electrónico a [accounts@ppy.sh](mailto:accounts@ppy.sh) (consultas de la cuenta) o [osu@ppy.sh](mailto:osu@ppy.sh) (cualquier otra cosa).
 
-## Contactando a peppy
+## Contactar a peppy
 
 Si desea contactar a peppy personalmente por razones no relacionadas con osu!, puede enviarle un correo electrónico a [pe@ppy.sh](mailto:pe@ppy.sh). Tenga en cuenta que cualquier solicitud de soporte o relacionada con la cuenta a este correo electrónico se marcará como correo no deseado.
