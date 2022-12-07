@@ -48,7 +48,7 @@ If clicking circles isn't your thing, you can also try out [this 4K osu!mania ma
 
 ---
 
-[**Ekcle**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/326) has even more songs, all prepared as pre-timed beatmap templates for your convenience. That's a whole 3 minutes cut from your upcoming 58 hour tech mapping endeavour!
+[**Ekcle**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/326) has even more songs, all prepared as pre-timed beatmap templates for your convenience. That's a whole 3 minutes cut from your upcoming 58-hour tech mapping endeavour!
 
 VOCALOID is on the roster for this weekend. Prepare yourself by either tracking the [@osugame Twitter](https://twitter.com/osugame) or hibernating until exactly `2022-12-10 11:00:00 GMT+0` and refreshing the osu! home page.
 
