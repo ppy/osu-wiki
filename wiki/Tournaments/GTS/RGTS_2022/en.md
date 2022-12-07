@@ -111,6 +111,60 @@ The Rising Global Taiko Showdown 2022 is run by various community members.
 
 ## Mappools
 
+### Finals
+
+**[Download the mappack here! (90 MB)](https://mega.nz/file/G6ZgGR5b#R0aAM84mO4-2_uIaUQQibs1ui-ytU-Rr_S3iqYq-6VI)**
+
+- NoMod
+  1. [ShinRa-Bansho - Dramatic Hizakurige (arcpotato) \[Dreamy Express (RGTS Edit)\]](https://osu.ppy.sh/beatmapsets/1897642#taiko/3911110)
+  2. [Rish feat. Choko - Punai Punai Sensou (Yujki) \[Sensoni (100 Trillion Slimes)\]](https://osu.ppy.sh/beatmapsets/1897643#taiko/3911112)
+  3. [xi - Zauberkugel (sendol) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1706326#taiko/3486509)
+  4. [Tanchiky Vs. D-D-Dice - Welcome, SSSpooky!!! (Sayira) \[Trick or Treat!!!\]](https://osu.ppy.sh/beatmapsets/1897670#taiko/3911163)
+  5. [LOLI RIPE - All I wanna do is touch your power points (Horiiizon) \[\<SV\> Inner Oni.pptx\]](https://osu.ppy.sh/beatmapsets/1853776#taiko/3809282)
+  6. [Kumako Morino - Mofumofu shitai no (roufou) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1897646#taiko/3911116)
+- Hidden
+  1. [Shiina Ringo - Marunouchi Sadistic (7\_7's bpm190 edit) (KuroKuroKuro) \[KurOni\]](https://osu.ppy.sh/beatmapsets/1442721#taiko/2967645)
+  2. [tomatoism - Someone Special (\[\_Chichinya\_\]) \[I W a n t T o B r T h a t S p e c i a l\]](https://osu.ppy.sh/beatmapsets/1332943#taiko/2761652)
+- HardRock
+  1. [onoken - Amnolys (antigen) \[Anomalous (RGTS edit)\]](https://osu.ppy.sh/beatmapsets/1182061#taiko/3908139)
+  2. [Quarkee - But Try... Only to Agonize (RGTS cut.) (6\_6) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1897435#taiko/3910638)
+- DoubleTime
+  1. [LADY'S ONLY - Keep It Real feat. Hoshimiya Toto (Briesmas) \[Oni\]](https://osu.ppy.sh/beatmapsets/1898159#taiko/3912262)
+  2. [EmoCosine - Black sour Ruby (Sayira) \[Tarnished Purity\]](https://osu.ppy.sh/beatmapsets/1897673#taiko/3911171)
+- FreeMod
+  1. [Morimori Atsushi Remixed by uma - PUPA (uma Remix) (sendol) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1897284#taiko/3910311)
+  2. [Zris - Kerberos (Cynplytholowazy) \[Hell\]](https://osu.ppy.sh/beatmapsets/1897280#taiko/3910305)
+  3. [BEMANI Sound Team "dj Hellix" - ALTERNATOR (roufou) \[Collab TKOni\]](https://osu.ppy.sh/beatmapsets/1897661#taiko/3911151)
+- Tiebreaker
+  1. **[Sephid - Hypothesize (MTNTWarz) \[Presumption\]](https://osu.ppy.sh/beatmapsets/1897397#taiko/3910578)**
+
+### Semifinals
+
+**[Download the mappack here! (81 MB)](https://mega.nz/file/fJJ2TCKS#mMjI1j1sZD7vZjo8u8Yj5kYn4bAAxujclkToyfStDP8)**
+
+- NoMod
+  1. [ShinRa-Bansho - Pink Kurage to, Sotto, Kiss o Shita. (sendol) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1893261#taiko/3901331)
+  2. [Miyashita Yuu - Endgame (\_Rise) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1402249#taiko/3693398)
+  3. [AAAA - parallel skydive (ekumea1123) \[Oni\]](https://osu.ppy.sh/beatmapsets/1355364#taiko/2805230)
+  4. [brz1128 - PLAZMA (Mew) \[Gimmick Party!!!\]](https://osu.ppy.sh/beatmapsets/1893509#taiko/3901917)
+  5. [ni-21 - Acidiva 303 (roufou) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/1616825#taiko/3899933)
+  6. [succducc - me & u (Kara Edit) (Boaz) \[Horiiizon vs Boaz's Lowbobs get out Taiko Oni\]](https://osu.ppy.sh/beatmapsets/1893515#taiko/3901936)
+- Hidden
+  1. [EBIMAYO - Power Attack (My Angel Eru) \[oni (RGTS Edit)\]](https://osu.ppy.sh/beatmapsets/1787570#taiko/3898077)
+  2. [penoreri - Sailing Force (MMzz) \[Oni\]](https://osu.ppy.sh/beatmapsets/632890#taiko/1343810)
+- HardRock
+  1. [Ponkichi - YOZAKURA Bladerz (TKS) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1707779#taiko/3552174)
+  2. [TAMUSIC - Shitai Ryokou (Greenshell) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/729113#taiko/1539110)
+- DoubleTime
+  1. [Co shu Nie - Forever Togethe (layxa) \[Loneliness\]](https://osu.ppy.sh/beatmapsets/1740820#taiko/3558789)
+  2. [ribb0n - OLAY (RIBB0N ILLEGAL BOOTLEG) (HiroK) \[Oni\]](https://osu.ppy.sh/beatmapsets/1098702#taiko/2298571)
+- FreeMod
+  1. [TUYU - Itsuka Otona ni Nareru to Ii ne. (arcpotato) \[2199's Intolerant!\]](https://osu.ppy.sh/beatmapsets/1771645#taiko/3629655)
+  2. [NIWASHI + Aoi - Nostalgic Lost Logic (sendol) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1893260#taiko/3901330)
+  3. [Ricky West & Makla - GEK (Megafan) \[KEK\]](https://osu.ppy.sh/beatmapsets/1893517#taiko/3901940)
+- Tiebreaker
+  1. **[Rabbit House - Divine Ordeal (sendol) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1893262#taiko/3901332)**
+
 ### Quarterfinals
 
 **[Download the mappack here! (66 MB)](https://mega.nz/file/ucRUSZIR#l4a08pxi-NNnBBVs6_uDGcxwTQLgFwDPQoyLOq3H7RM)**
@@ -208,6 +262,46 @@ The Rising Global Taiko Showdown 2022 is run by various community members.
   1. [HyuN - Fuyu no Hime (Charlotte) \[komasy's Oni\]](https://osu.ppy.sh/beatmapsets/1202956#taiko/2523647)
 
 ## Match results
+
+### Semifinals
+
+Saturday, 3 December 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Hong Kong** ::{ flag=HK }:: | **7** | 0 | ::{ flag=CA }:: Canada | [#1](https://osu.ppy.sh/community/matches/105416568) |
+| **Taiwan A** ::{ flag=TW }:: | **7** | 2 | ::{ flag=ID }:: Indonesia A | [#1](https://osu.ppy.sh/community/matches/105421759) |
+| **Singapore** ::{ flag=SG }:: | **7** | 5 | ::{ flag=RO }:: ::{ flag=AT }:: ::{ flag=FI }:: ::{ flag=IT }:: Rest of Europe | [#1](https://osu.ppy.sh/community/matches/105424935) |
+| **China** ::{ flag=CN }:: | **7** | 2 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/105424940) |
+
+Sunday, 4 December 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Singapore ::{ flag=SG }:: | -1 | **0** | ::{ flag=HK }:: **Hong Kong** | *win by default* |
+| **Japan** ::{ flag=JP }:: | **7** | 2 | ::{ flag=KR }:: South Korea | [#1](https://osu.ppy.sh/community/matches/105447104) |
+| Taiwan A ::{ flag=TW }:: | 0 | **7** | ::{ flag=CN }:: **China** | [#1](https://osu.ppy.sh/community/matches/105448096) |
+| United States A ::{ flag=US }:: | 2 | **7** | ::{ flag=DE }:: **Germany A** | [#1](https://osu.ppy.sh/community/matches/105455510) |
+
+### Quarterfinals
+
+Saturday, 26 November 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **United States A** ::{ flag=US }:: | **6** | 0 | ::{ flag=HK }:: Hong Kong | [#1](https://osu.ppy.sh/community/matches/105285223) |
+| Taiwan B ::{ flag=TW }:: | -1 | **0** | ::{ flag=ID }:: **Indonesia A** | *win by default* |
+| **Canada** ::{ flag=CA }:: | **0** | -1 | ::{ flag=ES }:: Spain | *win by default* |
+
+Sunday, 27 November 2022:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Taiwan A ::{ flag=TW }:: | 2 | **6** | ::{ flag=KR }:: **South Korea** | [#1](https://osu.ppy.sh/community/matches/105313642) |
+| China ::{ flag=CN }:: | 4 | **6** | ::{ flag=JP }:: **Japan** | [#1](https://osu.ppy.sh/community/matches/105314539) |
+| Colombia/Argentina ::{ flag=CO }:: ::{ flag=AR }:: | 4 | **6** | ::{ flag=RO }:: ::{ flag=AT }:: ::{ flag=FI }:: ::{ flag=IT }:: **Rest of Europe** | [#1](https://osu.ppy.sh/community/matches/105316737) |
+| **Chile** ::{ flag=CL }:: | **6** | 4 | ::{ flag=DE }:: Germany B | [#1](https://osu.ppy.sh/community/matches/105319319) |
+| **Germany A** ::{ flag=DE }:: | **6** | 1 | ::{ flag=SG }:: Singapore | [#1](https://osu.ppy.sh/community/matches/105321549) |
 
 ### Round of 16
 
