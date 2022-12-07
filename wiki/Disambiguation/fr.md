@@ -21,4 +21,5 @@ Un article ordinaire, s'il a un titre similaire, doit utiliser la hatnote ["Pour
 - [Score](Score)
 - [Snapping](Snapping)
 - [Star](Star)
+- [Timing](Timing)
 - [Version](Version)
