@@ -26,7 +26,7 @@ The osu! World Cup is a country-based 4v4 Team VS tournament following double-el
 | [osu! World Cup 2019](OWC/2019) | 2019-11-09 | 2019-12-22 | ::{ flag=US }:: United States | ::{ flag=KR }:: South Korea | ::{ flag=GB }:: United Kingdom |
 | [osu! World Cup 2020](OWC/2020) | 2020-10-24 | 2020-12-06 | ::{ flag=US }:: United States | ::{ flag=DE }:: Germany | ::{ flag=CA }:: Canada |
 | [osu! World Cup 2021](OWC/2021) | 2021-10-09 | 2021-11-28 | ::{ flag=US }:: United States | ::{ flag=DE }:: Germany | ::{ flag=KR }:: South Korea |
-| [osu! World Cup 2022](OWC/2022) | 2022-10-15 | 2022-11-27 | *TBD* | *TBD* | *TBD* |
+| [osu! World Cup 2022](OWC/2022) | 2022-10-15 | 2022-11-27 | ::{ flag=US }:: United States | ::{ flag=KR }:: South Korea | ::{ flag=DE }:: Germany |
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko World Cup
 
@@ -217,7 +217,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu! Battle Archive Malaysia](o!BAM/1) | 2021-08-10 | 2021-10-17 | 5 digit btw | nomicstreamers | Communist LSD enjoyers |
-| [osu! Battle Archive Malaysia 2022](o!BAM/2) | 2022-08-19 | 2022-11-06 | - | - | - |
+| [osu! Battle Archive Malaysia 2022](o!BAM/2) | 2022-08-19 | 2022-11-06 | Miyu Archive | RUDOLF ENJOYRS | Diggas in paris |
 
 #### osu! European Tournament
 
@@ -640,6 +640,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [GB Cup 2022 Spring](GBC/GBC_2022_Spring) | 2022-04-09 | 2022-05-15 | 金戈铁马的鲜丰水果摊 | 太美丽了理塘 | GBC最强阵容9个Miyes |
+| [GB Cup 2022 Autumn](GBC/GBC_2022_Autumn) | 2022-10-15 | 2022-12-18 | *TBD* | *TBD* | *TBD* |
 
 #### Mania Beginner's Showdown
 
@@ -670,6 +671,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | [osu!mania 4K Chinese National Cup 2020](MCNC/2020) | 2020-04-27 | 2020-06-28 | ::{ flag=CN }:: [WLYMinato](https://osu.ppy.sh/users/12703319) | ::{ flag=CN }:: [Kakuko](https://osu.ppy.sh/users/10413362) | ::{ flag=CN }:: [\[Crz\]I-Night](https://osu.ppy.sh/users/8790619) |
 | [osu!mania 4K Chinese National Cup 2021](MCNC/2021) | 2021-04-05 | 2021-06-06 | ::{ flag=CN }:: [\[Crz\]sunnyxxy](https://osu.ppy.sh/users/10333739) | ::{ flag=CN }:: [\[Crz\]Caicium](https://osu.ppy.sh/users/10702235) | ::{ flag=CN }:: [yuwenhao1](https://osu.ppy.sh/users/14318312) |
 | [osu!mania 7K Chinese National Cup 2022](MCNC/7K2022) | 2022-01-21 | 2022-03-06 | ::{ flag=CN }:: [LiangIaiajan](https://osu.ppy.sh/users/5144698) | ::{ flag=CN }:: [4kGameBye](https://osu.ppy.sh/users/89545) | ::{ flag=CN }:: [U1d](https://osu.ppy.sh/users/10125072) |
+| [osu!mania 4K Chinese National Cup 2022](MCNC/4K2022) | 2022-06-26 | 2022-08-21 | ::{ flag=HK }:: [Quotient GD](https://osu.ppy.sh/users/11313227) | ::{ flag=CN }:: [\[Crz\]sunnyxxy](https://osu.ppy.sh/users/10333739) | ::{ flag=HK }:: [MegMewtwoZ](https://osu.ppy.sh/users/13235067) |
 
 #### osu!mania Asian's Champions
 
@@ -695,6 +697,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu!mania LN Tournament](o!mLN/1) | 2019-03-23 | 2019-05-04 | ::{ flag=KR }:: [wonder5193](https://osu.ppy.sh/users/8474029) | ::{ flag=ID }:: [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871) | ::{ flag=GB }:: [Amascite](https://osu.ppy.sh/users/3359035) |
 | [osu!mania LN Tournament 2](o!mLN/2) | 2020-06-13 | 2020-08-02 | ::{ flag=MY }:: [cheewee10](https://osu.ppy.sh/users/4477497) | ::{ flag=TH }:: [MyZterioN-](https://osu.ppy.sh/users/8521723) | ::{ flag=KR }:: [SuddenDeath](https://osu.ppy.sh/users/6699923) |
+| [osu!mania LN Tournament 3](o!mLN/3) | 2022-10-15 | 2022-12-04 | ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895) | ::{ flag=CZ }:: [grillroasted](https://osu.ppy.sh/users/18271627) | ::{ flag=BR }:: [DemiFiendSMT](https://osu.ppy.sh/users/20051971) |
 
 #### osu!mania South East Asia Champion 2020
 
