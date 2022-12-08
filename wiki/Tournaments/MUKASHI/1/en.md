@@ -64,7 +64,7 @@ The osu!mania 4K Community Tournament @ MUKASHI FESTIVAL ID Senayan Park was run
 
 Listed below are the players who were admitted into the tournament:
 
-- ::{ flag=ID }:: [\[ -Asriel -\]](https://osu.ppy.sh/users/11829623)
+- ::{ flag=ID }:: [\[ -Asriel- \]](https://osu.ppy.sh/users/11829623)
 - ::{ flag=ID }:: [LuxKooky](https://osu.ppy.sh/users/4691146)
 - ::{ flag=ID }:: [KinoJourney](https://osu.ppy.sh/users/15798093)
 - ::{ flag=ID }:: [\[ID\]Xenotia-](https://osu.ppy.sh/users/13865224)
@@ -81,7 +81,7 @@ This competition has come to an end and resulted in the following podium:
 | Placing | Team |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=ID }:: **[LuxKooky](https://osu.ppy.sh/users/4691146)** |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=ID }:: **[\[ -Asriel -\]](https://osu.ppy.sh/users/11829623)** |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=ID }:: **[\[ -Asriel- \]](https://osu.ppy.sh/users/11829623)** |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=ID }:: **[KinoJourney](https://osu.ppy.sh/users/15798093)**  |
 
 ## Mappools
@@ -141,7 +141,7 @@ This competition has come to an end and resulted in the following podium:
 
 | Match code | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Grand Final | **[LuxKooky](https://osu.ppy.sh/users/4691146)** ::{ flag=ID }:: | **4** | 1 | ::{ flag=ID }:: [\[ -Asriel -\]](https://osu.ppy.sh/users/11829623) | [#1](https://osu.ppy.sh/community/matches/105421255) |
+| Grand Final | **[LuxKooky](https://osu.ppy.sh/users/4691146)** ::{ flag=ID }:: | **4** | 1 | ::{ flag=ID }:: [\[ -Asriel- \]](https://osu.ppy.sh/users/11829623) | [#1](https://osu.ppy.sh/community/matches/105421255) |
 
 ### 3rd Place Match
 
