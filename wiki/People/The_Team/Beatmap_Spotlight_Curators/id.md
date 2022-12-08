@@ -6,28 +6,28 @@ tags:
 
 # Beatmap Spotlight Curators
 
-**Beatmap Spotlight Curators** (***BSC***) adalah sebuah grup yang membantu memilih map-map berkualitas tinggi untuk setiap musim dari [Beatmap Spotlights](/wiki/Beatmap_Spotlights).
+**Beatmap Spotlight Curators** (***BSC***) merupakan sebuah grup yang membantu dalam memilih map-map berkualitas tinggi untuk setiap musim dari [Beatmap Spotlights](/wiki/Beatmap_Spotlights).
 
 ## Menjadi kurator
 
-Pada umumnya, menjadi seorang kurator baru perlu disarankan oleh anggota tim dari setiap mode permainan untuk memenuhi kriteria tertentu. Saran tersebut akan dievaluasi oleh Manajer projek, pemimpin tim, dan anggota kurator sendiri.
+Pada umumnya, kurator baru direkrut berdasarkan rekomendasi yang diberikan oleh anggota tim dari setiap mode permainan untuk memenuhi kriteria tertentu. Rekomendasi tersebut akan dievaluasi oleh manajer proyek, pemimpin tim, dan anggota kurator itu sendiri.
 
-Selain itu, kemungkinan pendaftaran akan dibuka untuk beberapa mode permainan yang diumumkan untuk musim tertentu.
+Selain itu, pendaftaran dapat dibuka untuk beberapa mode permainan yang diumumkan untuk musim tertentu.
 
-Semua pendaftar akan dinilai berdasarkan keahlian-keahlian yang dimiliki sebagai pemain, mapper, modder, dan tournament mappool selector untuk masing-masing mode permainan. Pendaftar tidak perlu menjadi ahli di semua bidang ini untuk bisa dipilih, tapi mempunyai pengalaman yang luas membantu. Tujuannya adalah untuk memiliki anggota kurator dengan campuran dari berbagai jenis skill level, pengalaman, dan keahlian. Akan tetapi, jumlah kurator pada saat ini dibuat kecil dan terbatas karena proyek masih berkembang.
+Semua pendaftar akan dinilai berdasarkan keahlian-keahlian yang dimiliki sebagai pemain, mapper, modder, dan tournament mappool selector untuk masing-masing mode permainan. Pendaftar tidak perlu menjadi ahli di semua bidang ini untuk bisa dipilih, tetapi mempunyai pengalaman yang luas dapat membantu. Tujuannya adalah untuk memiliki anggota kurator dengan campuran dari berbagai jenis skill level, pengalaman, dan keahlian. Akan tetapi, jumlah kurator pada saat ini dibuat kecil dan terbatas karena proyek yang masih berkembang.
 
-## Curators
+## Para kurator
 
-Proyek Beatmap Spotlights dijalankan oleh berbagai anggota komunitas di semua mode permainan yang dipimpin oleh pimpinan proyek khusus. [Halaman Grup Beatmap Spotlight Curators](https://osu.ppy.sh/groups/48) mencantumkan nama semua anggota.
+Proyek Beatmap Spotlights dijalankan oleh berbagai anggota komunitas di semua mode permainan yang dipimpin oleh pimpinan proyek khusus. [Halaman grup Beatmap Spotlight Curators](https://osu.ppy.sh/groups/48) berisi daftar anggotanya.
 
 | Peran | Anggota |
 | :-- | :-- |
 | Pimpinan proyek | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) |
-| Proyek manajer | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) |
+| Manajer proyek | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) |
 
-Tim kurator khusus berdedikasi mengumpulkan setiap rilis dari Beatmap Spotlights. Pemimpin tim ditandai dengan huruf tebal.
+Tim kurator khusus disusun untuk setiap rilis Beatmap Spotlights. Pemimpin tim ditandai dengan huruf tebal.
 
-### kurator osu!
+### Kurator osu!
 
 - ::{ flag=FI }:: **[Nowaie](https://osu.ppy.sh/users/5428909)**
 - ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
@@ -38,7 +38,7 @@ Tim kurator khusus berdedikasi mengumpulkan setiap rilis dari Beatmap Spotlights
 - ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461)
 - ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955)
 
-### kurator osu!taiko
+### Kurator osu!taiko
 
 - ::{ flag=TN }:: **[Hivie](https://osu.ppy.sh/users/14102976)**
 - ::{ flag=MY }:: [[Zeth]](https://osu.ppy.sh/users/9912966)
@@ -48,7 +48,7 @@ Tim kurator khusus berdedikasi mengumpulkan setiap rilis dari Beatmap Spotlights
 - ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)
 - ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719)
 
-### kurator osu!catch
+### Kurator osu!catch
 
 - ::{ flag=CA }:: **[SadEgg](https://osu.ppy.sh/users/10278243)**
 - ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164)
@@ -57,7 +57,7 @@ Tim kurator khusus berdedikasi mengumpulkan setiap rilis dari Beatmap Spotlights
 - ::{ flag=US }:: [wonjae](https://osu.ppy.sh/users/5032045)
 - ::{ flag=CA }:: [wwwww](https://osu.ppy.sh/users/8434466)
 
-### kurator osu!mania
+### Kurator osu!mania
 
 - ::{ flag=AU }:: **[Crumpey](https://osu.ppy.sh/users/3518705)**
 - ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773)
