@@ -8,7 +8,7 @@ tags:
 
 ![osu!mania 4K Community Tournament @ MUKASHI FESTIVAL ID Senayan Park logo](img/logo.jpg)
 
-The **osu!mania 4K Community Tournament @ MUKASHI FESTIVAL ID Senayan Park** was a single-elimination 1v1 osu!mania LAN tournament hosted by [Perkumpulan Orang Santai Total (POST)](https://santai.web.id/) under the guidance and supervision of ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) and ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677) from the Indonesian osu! community. It was the first-ever osu!mania tournament of this scale held by POST, who had previously facilitated tournaments for other games such as Tekken 7.
+The **osu!mania 4K Community Tournament @ MUKASHI FESTIVAL ID Senayan Park** was a single-elimination 1v1 osu!mania LAN tournament hosted by [Perkumpulan Orang Santai Total (POST)](https://santai.web.id/) under the guidance and supervision of ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) and ::{ flag=ID }:: [Vvn](https://osu.ppy.sh/users/3204677) from the Indonesian osu! community. It was the first-ever osu!mania tournament of this scale to be held by POST, who had previously facilitated tournaments for other games such as Tekken 7.
 
 ## Tournament schedule
 
@@ -27,7 +27,7 @@ The **osu!mania 4K Community Tournament @ MUKASHI FESTIVAL ID Senayan Park** was
 | Semifinal 2 | 2022-12-03 (15:05 UTC +7) |
 | 3rd Place Match | 2022-12-03 (15:40 UTC +7) |
 | Grand Final | 2022-12-03 (16:30 UTC +7) |
-| Closing and Awarding | 2022-12-03 (17:00 UTC +7) |
+| Closing and awarding | 2022-12-03 (17:00 UTC +7) |
 
 ## Prizes
 
