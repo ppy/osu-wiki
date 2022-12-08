@@ -21,4 +21,5 @@
 - [Score](Score)
 - [Снаппинг](Snapping)
 - [Звезда](Star)
+- [Тайминг](Timing)
 - [Версия](Version)

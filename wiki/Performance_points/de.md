@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: b0dbd398396a49d6f8e793dfa279b0c0e65937f1
----
-
 # Performance-Points
 
 **Performance-Points** (oder **pp** abgekürzt, auch Performance-Punkte genannt) ist eine Metrik, deren Ziel es ist, den Spielerfortschritt in osu! kontextbezogener zu gestalten.
@@ -17,8 +12,6 @@ Danach bekannt als "pp" (eine Abkürzung für "performance-points"), versuchte d
 
 Ein paar Monate nach der Enthüllung wurde es in der osu!-Version 20120722-24 offiziel eingebaut, um das alte [Ranglistenpunktesystem](/wiki/Beatmap/Category#ranked) vollständig zu ersetzen. Alle 30 Minuten wurden neue Scores berechnet. Später, im August desselben Jahres, wurde das System verbessert, sodass es die Performance-Points in Echtzeit aktualisierte.
 
-*Anmerkung: ppv1, die originale Implementierung für Performance-Points, hatte auch ein Änderungsprotokoll, welches in seinem [Forumsbeitrag](https://osu.ppy.sh/community/forums/topics/92185) einsehbar ist.*
-
 Es blieb in dieser Weise mehr als ein Jahr lang im Einsatz, bis [Tom94](https://osu.ppy.sh/users/1857058), der Ersteller des Bewertungssystems namens *osu!tp*, dem [osu!-Team](/wiki/People/The_Team) beitrat und sein Design in das System implementierte. Das resultierende System wurde *ppv2* genannt und am 27. Januar 2014 in Betrieb genommen. Infolgedessen wurde das alte System zu *[ppv1](/wiki/Performance_points/ppv1)* umbenannt.
 
 Am 16. Januar 2021 wurde das ppv2-System verändert, mit dem Ziel an schwierigere Aspekte von Beatmaps eine passendere Anzahl von pp zu vergeben. Diese Veränderungen wurden großtenteils mit der Hilfe von verschiedenen Einzelpersonen, wie [Xexxar](https://osu.ppy.sh/users/2773526) und [StanR](https://osu.ppy.sh/users/7217455) vorgenommen. Die Details der Änderungen werden ausführlich erläutert im [dazugehörigen Newsbeitrag](https://osu.ppy.sh/home/news/2021-01-14-performance-points-updates). Die wichtigsten Punkte sind:
@@ -29,7 +22,7 @@ Am 16. Januar 2021 wurde das ppv2-System verändert, mit dem Ziel an schwieriger
 - Die Rate des Verlusts von pp wurde angepasst, um bei längeren Beatmaps mit höherer Combo nachsichtiger zu sein.
 - Kleinerer Gewinn von pp bei schlechter [Genauigkeit](/wiki/Gameplay/Accuracy).
 
-ppv2 ist aktuell im Betrieb. Updates hierzu werden im [Änderungsprotokoll](https://osu.ppy.sh/p/changelog?category=pp) veröffentlicht.
+ppv2 ist aktuell im Betrieb. Updates hierzu gibt es in Form von Newsbeiträgen, die vom [Performance-Punkte-Komitee](/wiki/People/Performance_Points_Committee) veröffentlicht werden, sobald neue Änderungen eingeführt werden.
 
 ## Berechnung
 

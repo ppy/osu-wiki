@@ -65,6 +65,7 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | ::{ flag=AU }:: [Iceluin](https://osu.ppy.sh/users/3558897) |  |
 | ::{ flag=CA }:: [jonathanlfj](https://osu.ppy.sh/users/270377) | จีน, ฝรั่งเศส บ้าง |
 | ::{ flag=KR }:: [KeyWee](https://osu.ppy.sh/users/10476879) | เกาหลี |
+| ::{ flag=FR }:: [Kudosu](https://osu.ppy.sh/users/11038155) | ฝรั่งเศส |
 | ::{ flag=HK }:: [Kyle Y](https://osu.ppy.sh/users/3565813) | จีน, กวางตุ้ง |
 | ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613) | เยอรมัน |
 | ::{ flag=KR }:: [Len](https://osu.ppy.sh/users/1686145) | เกาหลี |
@@ -81,13 +82,13 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) | ฝรั่งเศส |
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | เยอรมัน |
 | ::{ flag=RU }:: [riffy](https://osu.ppy.sh/users/597957) | รัสเซีย |
-| ::{ flag=US }:: [rosario wknd](https://osu.ppy.sh/users/6341518) |  |
 | ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | จีน |
 | ::{ flag=HK }:: [Saggin](https://osu.ppy.sh/users/12464107) | จีน, กวางตุ้ง, ญี่ปุ่น บ้าง |
 | ::{ flag=FR }:: [Sajinn](https://osu.ppy.sh/users/13513687) | ฝรั่งเศส |
 | ::{ flag=RU }:: [Shmiklak](https://osu.ppy.sh/users/5504231) | รัสเซีย |
 | ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | รัสเซีย |
 | ::{ flag=FR }:: [Sotarks](https://osu.ppy.sh/users/4452992) | ฝรั่งเศส |
+| ::{ flag=DE }:: [Sylvarus](https://osu.ppy.sh/users/4505918) | เยอรมัน |
 | ::{ flag=FI }:: [TheKingHenry](https://osu.ppy.sh/users/5128277) | ฟินแลนด์ |
 | ::{ flag=TH }:: [timemon](https://osu.ppy.sh/users/2072005) | ไทย |
 | ::{ flag=LT }:: [tomatas95](https://osu.ppy.sh/users/11403815) | ลิทัวเนีย |
@@ -98,6 +99,7 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  |
 | ::{ flag=CN }:: [Yugu](https://osu.ppy.sh/users/3161834) | จีน, ญี่ปุ่น |
 | ::{ flag=IT }:: [Zekk](https://osu.ppy.sh/users/9704802) | อิตาลี |
+| ::{ flag=SE }:: [Zer0-](https://osu.ppy.sh/users/11038155) | สวีเดน |
 
 #### osu!taiko
 
@@ -111,7 +113,6 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | ::{ flag=MX }:: [DakeDekaane](https://osu.ppy.sh/users/1425253) | สเปน |
 | ::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142) | เวียดนาม |
 | ::{ flag=US }:: [eiri-](https://osu.ppy.sh/users/3388410) | สเปน |
-| ::{ flag=JP }:: [Eriha](https://osu.ppy.sh/users/16320311) | ญี่ปุ่น |
 | ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851) | เยอรมัน |
 | ::{ flag=US }:: [hac](https://osu.ppy.sh/users/17853754) |  |
 | ::{ flag=IE }:: [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) |  |
@@ -190,8 +191,7 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 
 | ชื่อ | ภาษาเพิ่มเติม |
 | :-- | :-- |
-| ::{ flag=FR }:: [Kudosu](https://osu.ppy.sh/users/11038155) | ฝรั่งเศส |
-| ::{ flag=DE }:: [Sylvarus](https://osu.ppy.sh/users/4505918) | เยอรมัน |
+| ::{ flag=BE }:: [Stack](https://osu.ppy.sh/users/6122935) | ดัตช์ |
 
 #### osu!taiko
 
@@ -200,10 +200,10 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | ::{ flag=BR }:: [-Flashlight-](https://osu.ppy.sh/users/9731062) | โปรตุเกส |
 | ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) | |
 | ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) | จีน |
+| ::{ flag=JP }:: [Eriha](https://osu.ppy.sh/users/16320311) | ญี่ปุ่น |
 | ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230) | จีน, กวางตุ้ง |
 | ::{ flag=GB }:: [Metzo](https://osu.ppy.sh/users/10633982) | |
 | ::{ flag=MY }:: [Rinze](https://osu.ppy.sh/users/19901680) | จีน, มาเลย์ |
-| ::{ flag=BR }:: [Toofu](https://osu.ppy.sh/users/11004271) | โปรตุเกส |
 
 #### osu!catch
 
@@ -219,6 +219,7 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | ชื่อ | ภาษาเพิ่มเติม |
 | :-- | :-- |
 | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | อินโดนีเซีย |
+| ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/14351534) | จีน |
 | ::{ flag=CN }:: [Seiran-](https://osu.ppy.sh/users/14351534) | จีน |
 
 ## ประวัติ

@@ -105,23 +105,43 @@ GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
 | 23 | **近月少女的礼仪** | ::{ flag=CN }:: **[Zyuuu](https://osu.ppy.sh/users/15389275)**, ::{ flag=CN }:: [tito31158](https://osu.ppy.sh/users/16436669), ::{ flag=CN }:: [Koishi-0514](https://osu.ppy.sh/users/7546593), ::{ flag=CN }:: [yem sky](https://osu.ppy.sh/users/10588209), ::{ flag=CN }:: [FALSEFAST](https://osu.ppy.sh/users/25508274) |
 | 24 | **又一个倒霉蛋** | ::{ flag=CN }:: **[fishbone2445](https://osu.ppy.sh/users/17640814)**, ::{ flag=CN }:: [chana](https://osu.ppy.sh/users/18375016), ::{ flag=CN }:: [ALWW](https://osu.ppy.sh/users/18786195), ::{ flag=CN }:: [KafuChino](https://osu.ppy.sh/users/14826575), ::{ flag=CN }:: [spensll](https://osu.ppy.sh/users/4547744) |
 
-## 赛程: 八强赛
+## 赛程: 半决赛
 
-### 2022 年 12 月 3 日，星期六
-
-| A 队 | B 队 | 比赛时间 (UTC+8) |
-| --: | :-- | :-- |
-| 黎曼猜想 | 奖励一把大天空 | Dec 3 (Sat) 20:00 |
-| ban位先ban行李箱 | 经典米托镂空鱼香鸡肉丸 | Dec 3 (Sat) 21:00 |
-
-### 2022 年 12 月 4 日，星期日
+### 2022 年 12 月 10 日，星期六
 
 | A 队 | B 队 | 比赛时间 (UTC+8) |
 | --: | :-- | :-- |
-| 铁戈金马 | 猫猫面馆 | Dec 4 (Sun) 10:00 |
-| DAMWONGaming | 均衡教派 | Dec 4 (Sun) 20:00 |
+| 黎曼猜想 | ban位先ban行李箱 | Dec 10 (Sat) 20:00 |
+| 猫猫面馆 | 均衡教派 | Dec 10 (Sat) 21:30 |
 
 ## 图池
+
+### 半决赛 & 决赛
+
+**[在这里下载图包 (185.7 MB)](https://drive.google.com/file/d/1gzUsksEhWKbt_xBfbJWPFPzqS8tLzPkm/)**
+
+- Rice
+  1. [linear ring with RNAcid - Gypsophila (MyZterioN-) \[heartsick(1.05x rate)\]](https://osu.ppy.sh/beatmapsets/1805950#mania/3703574)
+  2. [goreshit - thinking of you (Shoegazer) \[eternity 1.05x (238bpm)\]](https://osu.ppy.sh/beatmapsets/1749736#mania/3583117)
+  3. [Cataclysmic Order - VENDeTTA (tyrcs) \[four\]](https://osu.ppy.sh/beatmapsets/1887401#mania/3886671)
+  4. [SPACELECTRO feat. irony - Treasure you [nmk Remix] (-Deepdive-) \[ I can't get over you (cut) 1.05x (162bpm) OD8\]](https://osu.ppy.sh/beatmapsets/1875969#mania/3860579)
+  5. [DJ TOTTO - Crystalia (Benson_) \[Splash\]](https://osu.ppy.sh/beatmapsets/1846420#mania/3792940)
+  6. [kaitendaentai - Toki no Ryousen (Alptraum) \[Spiral Fragment\]](https://osu.ppy.sh/beatmapsets/1768813#mania/3620827)
+  7. [Apo11o"QUASAR"program feat. Endou Shun - saihate (YuEast 2018) \[Dormancy\]](https://osu.ppy.sh/beatmapsets/1857688#mania/3818062)
+- Hybrid
+  1. [Yuta Imai Vs. BEMANI Sound Team "L.E.D.-G" - THE PEERLESS UNDER HEAVEN (stupud man) \[DIVINE PUNISHMENT\]](https://osu.ppy.sh/beatmapsets/1849062#mania/3798338)
+  2. [Kanone - TEmPTaTiON (cherrychou) \[LN Master(od7)\]](https://osu.ppy.sh/beatmapsets/1497355#mania/3863479)
+  3. [Kobaryo-SUPER EMULATOR \[feat. HiTNEX-X\] (\[GB\]Luoxuan0327) \[5361 Goncharov\]](https://osu.ppy.sh/beatmapsets/1811945#mania/3885930)
+- LN
+  1. [DECO*27 feat. Hatsune Miku - Mousou Zei (Hylotl) \[Lost in the reverie\]](https://osu.ppy.sh/beatmapsets/1886961#mania/3885773)
+  2. [Kurenainagi Tabibito - Otenba Koimusume (zzzzzzsa6177) \[Frozen World\]](https://osu.ppy.sh/beatmapsets/1828368#mania/3752505)
+  3. [3R2 - Corruption (YuEast 2018) \[x1.00\]](https://osu.ppy.sh/beatmapsets/1857687#mania/3818058)
+  4. [MoVIIkA - Ms. Steam (tyrcs) \[od7\]](https://osu.ppy.sh/beatmapsets/1887403#mania/3886673)
+- SV
+  1. [THE BADDEST feat. (G)I-DLE, Bea Miller, Wolftyla (Speed Up) (\[GB\]Mafufu) \[The Baddest \[SV\] \[OD6\]\]](https://osu.ppy.sh/beatmapsets/1834853#mania/3771834)
+  2. [linear ring - Enchanted Love (Kamikho) \[Nerfed\]](https://osu.ppy.sh/beatmapsets/1512651#mania/3903541)
+- Tiebreaker
+  1. **[Kou! - High Speed Particle Collider-beam Accelerator (Hylotl) \[Tevatron (w/ YuEast 2018)\]](https://osu.ppy.sh/beatmapsets/1897369#mania/3910505)**
 
 ### 十六强赛 & 八强赛
 
@@ -218,6 +238,24 @@ GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
   1. [IslandWind/PIKASONIC - Forever (Cut ver.) (\[GB\]Mafufu) \[Stage 1: Everlasting\]](https://osu.ppy.sh/beatmapsets/1863068#mania/3831056)
 
 ## 赛果
+
+### 八强赛
+
+可在[此处](https://docs.qq.com/sheet/DWnNib25NSVhLT1No?tab=BB08J2)查询本轮详细数据。
+
+2022 年 12 月 3 日，星期六：
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **黎曼猜想** | **7** | 5 | 奖励一把大天空 | [#1](https://osu.ppy.sh/community/matches/105422717) |
+| 经典米托镂空鱼香鸡肉丸 | 6 | **7** | **ban位先ban行李箱** | [#1](https://osu.ppy.sh/community/matches/105424329) |
+
+2022 年 12 月 4 日，星期日：
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| 铁戈金马 | 3 | **7** | **猫猫面馆** | [#1](https://osu.ppy.sh/community/matches/105440006) |
+| **均衡教派** | **7** | 5 | DAMWONGaming | [#1](https://osu.ppy.sh/community/matches/105447980) |
 
 ### 十六强赛
 
