@@ -1,3 +1,8 @@
+---
+outdated_since: be8ba0f4615a5d5580a1452220ae0bdf2e4d4229
+outdated_translation: true
+---
+
 # Regeln für Songinhalte
 
 Mit einer großen Vielfalt an verfügbarer Musik sind die meisten Songs für die Verwendung in osu! geeignet, vorausgesetzt, sie sind nicht:
