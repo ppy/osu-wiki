@@ -33,9 +33,9 @@ The **osu!mania 4K Community Tournament @ MUKASHI FESTIVAL ID Senayan Park** was
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 500,000 IDR, commemorative cerficate |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 300,000 IDR, commemorative cerficate |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 200,000 IDR, commemorative cerficate |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 500,000 IDR, commemorative certificate |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 300,000 IDR, commemorative certificate |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 200,000 IDR, commemorative certificate |
 
 ## Organisation
 
