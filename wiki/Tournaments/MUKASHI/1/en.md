@@ -193,6 +193,11 @@ This competition has come to an end and resulted in the following podium:
 ### Tournament registration
 
 1. All interested players are required to register into the tournament individually via [this form](https://docs.google.com/forms/d/e/1FAIpQLSfM4bHa5fqs5f9O-bb4SHqqPDTUjNjYvHzDNrZH3siRj_9hyA/closedform).
+2. To ensure valid and serious registrations, every registered player will be checked by the Tournament Management.
+3. The list of players who are deemed to be eligible to compete in the tournament will be published by the Tournament Management after the Registration phase has ended.
+   - Due to time constraints, the Tournament Management would allow for around 8 players to participate in this tournament.
+4. All players are required to attend the technical meeting held onlint by the Tournament Management before the tournament commences.
+5. Test players, referees, and mappool selectors may not participate as players in this tournament.
 
 ### Match instructions
 
