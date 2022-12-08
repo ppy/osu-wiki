@@ -4,7 +4,7 @@ Users interested in joining the [Beatmap Nominators](/wiki/People/The_Team/Beatm
 
 Applications are conducted via the [NAT website](http://bn.mappersguild.com/bnapps).
 
-Applicants are required to reach a minimum [kudosu](/wiki/Modding/Kudosu) threshold, submit at least two maps they have recently modded, and complete a [Beatmap Nominator Test](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) on the [Ranking Criteria](/wiki/Ranking_Criteria) in order to submit their application. A message from the NAT will be sent once a verdict has been decided. More information on applying can be found on the website.
+Applicants are required to meet a minimum [kudosu](/wiki/Modding/Kudosu) threshold, submit at least two maps they have recently modded, and complete a [Beatmap Nominator Test](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) on the [Ranking Criteria](/wiki/Ranking_Criteria) in order to submit their application. A message from the NAT will be sent once a verdict has been decided. More information on applying can be found on the website.
 
 ## Basic criteria
 
@@ -44,7 +44,7 @@ You have these requirements if you failed a Beatmap Nominator application and ap
 | Type | Cooldown |
 | :-- | :-- |
 | Standard | 90 days |
-| Reduced | 45-60 days |
+| Reduced | 45–60 days |
 | Failed the [Beatmap Nominator Test](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) | 30 days |
 
 ### Rejoining after being removed from the Beatmap Nominators
@@ -53,7 +53,7 @@ Users who have recently left the Beatmap Nominators may have different requireme
 
 If you were a Beatmap Nominator before, these requirements apply unless you have failed an application since last time you were a Beatmap Nominator.
 
-The 8 mod requirement for those applying after being removed for activity is shared across all modes.
+The 8-mod requirement for those applying after being removed for activity is shared across all modes.
 
 | Type | Cooldown | Activity Requirements |
 | :-- | :-- | :-- |
