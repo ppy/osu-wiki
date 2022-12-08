@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Empfehlungen für visuelle Inhalte
 
 Nach [Community-Regel #5](/wiki/Rules#community-regeln) müssen alle zu osu! eingereichten oder hochgeladenen visuellen Inhalte als für ein Spiel für alle Altersgruppen angemessen betrachtet werden.

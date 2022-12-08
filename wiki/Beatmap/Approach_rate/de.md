@@ -3,6 +3,7 @@ tags:
   - approach time
   - AR
   - reading
+no_native_review: true
 ---
 
 # Approach-Rate

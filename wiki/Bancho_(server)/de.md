@@ -2,6 +2,7 @@
 tags:
   - infrastructure
   - Infrastruktur
+no_native_review: true
 ---
 
 # Bancho (Server)
