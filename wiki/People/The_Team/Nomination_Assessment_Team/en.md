@@ -32,7 +32,7 @@ Evaluators are in high demand due to the sheer volume of [BN applications](/wiki
 
 As a group, **Advisors** are required to maintain:
 
-- **Communication:** Promoting transparency and maintaining good relations with not only the rest of the mapping/modding community, but also within the NAT itself. This includes things like making announcements, participating in discussions about proposals, asking/answering questions through surveys, and updating documentation such as the [Ranking Criteria](/wiki/Ranking_Criteria).
+- **Communication:** Promoting transparency and maintaining good relations with not only the rest of the mapping/modding community, but also within the NAT itself. This includes, but not limited to, making announcements, participating in discussions about proposals, asking/answering questions through surveys, and updating documentation such as the [Ranking Criteria](/wiki/Ranking_Criteria).
 - **Development:** Developing and maintaining tools and websites to help improve the ranking process (such as [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier), [Aiess](https://github.com/Naxesss/Aiess), or [the NAT/BN website](https://bn.mappersguild.com/home)).
 - **Moderation:** Handling user reports and assessing inappropriate behaviour of Beatmap Nominators, as well as processing beatmap content reviews. This subcategory is a joint effort between the NAT and the GMT.
 - **Miscellaneous maintenance:** Included but not limited to:
@@ -64,7 +64,7 @@ The NAT keep tabs on potential NAT candidates over long periods of time, and occ
 
 ### Becoming an advisor
 
-Evaluators that show proficiency in the advisory tasks outlined above, to the point where their current or planned contribution is indispensable and far outweighs their necessity as an evaluator, can become advisors. This is as judged by a designated member in the team capable of this, currently ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059), whom NAT members may ask advisor-related questions to. The new advisor will then be subject to activity expectations depending on their specific situation. If the contribution of an advisor is considered lackluster or unnecessary at some later point, again as judged by the designated member, then they will be moved back to an evaluator.
+Evaluators that show proficiency in the advisory tasks outlined above, to the point where their current or planned contribution is indispensable and far outweighs their necessity as an evaluator, can become advisors. This is as judged by a designated member in the team capable of this, currently ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059), whom NAT members may ask advisor-related questions to. If an evaluator is found to be fitting of an advisory role, said designated member will then convene with the rest of the advisors to make sure there are no issues with the evaluator's admission. If no issues arise, the new advisor will then be subject to activity expectations depending on their specific situation. If the contribution of an advisor is considered lackluster or unnecessary at some later point, again as judged by the designated member, then they will be moved back to an evaluator.
 
 ## Team members
 
@@ -78,7 +78,7 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 
 | Name | Additional languages | Assigned subgroup |
 | :-- | :-- | :-- |
-| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) |  | Advisor |
+| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) |  | Advisor[^task-mo] |
 | ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) |  | Evaluator |
 | ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | Belarusian, Russian | Evaluator |
 | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonese, Chinese | Evaluator |
@@ -86,12 +86,12 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Chinese | Evaluator |
 | ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | German | Evaluator |
 | ::{ flag=SG }:: [Kotoha](https://osu.ppy.sh/users/7823498) | Chinese | Evaluator |
-| ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Swedish | Advisor |
+| ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Swedish | Advisor[^task-naxess] |
 | ::{ flag=GB }:: [NexusQI](https://osu.ppy.sh/users/13822800) |  | Evaluator |
-| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | Advisor |
+| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | Advisor[^task-pishifat] |
 | ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | Evaluator |
 | ::{ flag=AT }:: [Stixy](https://osu.ppy.sh/users/9000308) | German, Serbian | Evaluator |
-| ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) |  | Advisor |
+| ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) |  | Advisor[^task-uberfazz] |
 | ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | Dutch | Evaluator |
 | ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | Polish | Evaluator |
 
@@ -122,3 +122,10 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Indonesian | Evaluator |
 | ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | Spanish, Portuguese, Galician, Italian, Japanese | Evaluator |
 | ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Evaluator |
+
+## Notes
+
+[^task-mo]: Mainly handles internal discussions, affairs, and documentation
+[^task-naxess]: Mainly maintains [Aiess](https://github.com/Naxesss/Aiess) and [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier)
+[^task-pishifat]: Mainly maintains [the NAT/BN website](https://bn.mappersguild.com/home)
+[^task-uberfazz]: Among other things, manages advisors
