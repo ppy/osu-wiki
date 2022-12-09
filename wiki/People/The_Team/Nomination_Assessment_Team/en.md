@@ -9,7 +9,7 @@ tags:
 
 The **Nomination Assessment Team** (***NAT***) are the moderators of the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BN*) and ensure the beatmapping side of osu! stays functional.
 
-Members of the NAT are distinguished by their red username and user title. They have site-wide moderation permissions, like the [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) (*GMT*), and also possess the ability to [nominate](/wiki/Beatmap_ranking_procedure#nominations) and [reset nominations](/wiki/Beatmap_ranking_procedure#nomination-resets) on beatmaps, like [full members](/wiki/People/The_Team/Beatmap_Nominators#full-beatmap-nominators) of the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (BNs). For most purposes, NAT are BNs with different responsibilities. Therefore, all [BN rules](/wiki/People/The_Team/Beatmap_Nominators/Rules) and [expectations](/wiki/People/The_Team/Beatmap_Nominators/Expectations) apply to NAT members, with some exceptions for activity.
+Members of the NAT are distinguished by their red username and user title. They have site-wide moderation permissions, like the [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) (*GMT*), and also possess the ability to [nominate](/wiki/Beatmap_ranking_procedure#nominations) and [reset nominations](/wiki/Beatmap_ranking_procedure#nomination-resets) on beatmaps, like [full members](/wiki/People/The_Team/Beatmap_Nominators#full-beatmap-nominators) of the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BNs*). For most purposes, NAT are BNs with different responsibilities. Therefore, all [BN rules](/wiki/People/The_Team/Beatmap_Nominators/Rules) and [expectations](/wiki/People/The_Team/Beatmap_Nominators/Expectations) apply to NAT members, with some exceptions for activity.
 
 **All members of the Nomination Assessment Team are sworn to uphold [the Contributor Code of Conduct](/wiki/Contributor_Code_of_Conduct) in addition to the normal [Community Rules](/wiki/Rules).**
 
@@ -19,17 +19,19 @@ Members of the NAT are distinguished by their red username and user title. They 
 
 The NAT are responsible for a variety of mapping-related tasks, with each NAT member falling into one of two subgroups: **Evaluators** and **Advisors**. Each subgroup outlines the responsibilities of its members.
 
-###Evaluators
+### Evaluators
 
 Members of the **Evaluator** subgroup are primarily responsible for:
+
 - **Evaluation:** Evaluating the proficiency and activity of both current Beatmap Nominators and applicants. *See [evaluations](/wiki/People/The_Team/Nomination_Assessment_Team/Evaluations) for more details.*
 - **Modding:** Modding at least 3 beatmaps per month. This helps evaluators to keep up to date with the mapping/modding community when evaluating current and aspiring Beatmap Nominators.
 
 Evaluators are in high demand due to the sheer volume of [BN applications](/wiki/People/The_Team/Beatmap_Nominators/Becoming_a_Beatmap_Nominator). They, unlike advisors, therefore occasionally look for new members to join them and help ease the workload. This is why BNs that wish to join the NAT are primarily judged based on their ability to evaluate, and most NAT members join and stay as evaluators.
 
-###Advisors
+### Advisors
 
 As a group, **Advisors** are required to maintain:
+
 - **Communication:** Promoting transparency and maintaining good relations with not only the rest of the mapping/modding community, but also within the NAT itself. This includes things like making announcements, participating in discussions about proposals, asking/answering questions through surveys, and updating documentation such as the [Ranking Criteria](/wiki/Ranking_Criteria).
 - **Development:** Developing and maintaining tools and websites to help improve the ranking process (such as [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier), [Aiess](https://github.com/Naxesss/Aiess), or [the NAT/BN website](https://bn.mappersguild.com/home)).
 - **Moderation:** Handling user reports and assessing inappropriate behaviour of Beatmap Nominators, as well as processing beatmap content reviews. This subcategory is a joint effort between the NAT and the GMT.
@@ -38,7 +40,7 @@ As a group, **Advisors** are required to maintain:
   - Maintaining the RC Test.
   - Judging nomination reset severity.
 
-Advisors make sure that BNs and other members of the mapping/modding community remain informed and feel heard, in addition to maintaining the components required to keep everything running in the mapping/modding scene. Advisors are generally made up of experienced evaluators that prefer to focus on managerial matters regarding the mapping/modding scene. 
+Advisors make sure that BNs and other members of the mapping/modding community remain informed and feel heard, in addition to maintaining the components required to keep everything running in the mapping/modding scene. Advisors are generally made up of experienced evaluators that prefer to focus on managerial matters regarding the mapping/modding scene.
 
 ---
 
@@ -46,11 +48,11 @@ Dividing the NAT into two groups is necessary for the overall organisation and p
 
 ***Key note:*** ***A member of the NAT can engage with any task within either subgroup despite what their subgroup may be listed as.*** For example, if a member of the NAT is an evaluator, they may still make announcements or participate in discussions. Assigned subgroups only describe what each member is formally responsible for.
 
-##Activity
+## Activity
 
 Depending on their subgroup, each NAT member has different activity requirements. Evaluators are expected to consistently evaluate both applicants and current BNs, while also keeping up to date with the mapping/modding scene on their own through modding. Advisors are expected to uphold key parts of the ranking process on a case-by-case basis.
 
-Members who are found to be inactive will be confronted by other members of the NAT. If a timely resolution to their inactivity isn't feasible, they will be removed from the NAT. Members of the Evaluator subgroup working on other mapping-related projects may be exempt from activity requirements on a case-by-case basis, or moved to the Advisor subgroup to better reflect their contribution.
+Members who are found to be inactive will be confronted by other members of the NAT. If a timely resolution to their inactivity isn't feasible, they will be removed from the NAT. Members of the Evaluator subgroup working on other mapping-related projects may be moved to the Advisor subgroup to better reflect their contribution.
 
 ## Promotion to the NAT
 
