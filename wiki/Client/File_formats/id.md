@@ -1,82 +1,45 @@
----
-outdated_translation: true
----
+# Format berkas osu!
 
-# Format Berkas Osu!
+## Daftar format berkas
 
-## osu!-specific file format
+| Format berkas | Tipe MIME | Penggunaan |
+| :-- | :-- | :-- |
+| [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) | `x-osu-beatmap-archive` | Arsip beatmap osu! |
+| [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) | `x-osu-skin-archive` | Arsip skin osu! |
+| [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) | `x-osu-beatmap` | [Tingkat kesulitan](/wiki/Beatmap/Difficulty) osu! |
+| [.osb](/wiki/osu!_File_Formats/Osb_(file_format)) | `x-osu-storyboard` | [Storyboard](/wiki/Storyboard/Scripting) osu! |
+| [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) | `x-osu-replay` | [Tayangan ulang](/wiki/Gameplay/Replay) osu! |
 
-### Archive
+## Membuat berkas .osz dan .osk
 
-| File format | Kegunaan |
-| :-- | :-- |
-| [.osz][Osz Link] | beatmap file. |
-| [.osk][Osk Link] | skin file. |
+`.osz` dan `.osk` merupakan berkas arsip yang masing-masing memuat data beatmap dan skin. Konten yang terkandung di dalam kedua berkas ini akan secara otomatis diekstrak oleh osu! pada saat berkas dibuka:
 
-### Beatmap Editor
+- Berkas `.osz` akan diekstrak ke folder `Songs`
+- Berkas `.osk` akan diesktrak ke folder `Skins`
 
-| File format | Kegunaan |
-| :-- | :-- |
-| [.osu][Osu Link] | [Compose](/wiki/Client/Beatmap_editor/Compose), [Timing](/wiki/Client/Beatmap_editor/Timing), [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup). |
-| [.osb][Osb Link] | [Design](/wiki/Client/Beatmap_editor/Design). |
+Agar hasil karyamu dapat disebarluaskan kepada pengguna lain, penting bagimu untuk mengetahui bagaimana caranya untuk membuat arsip skin atau beatmap yang dapat dikenali oleh osu!.
 
-### Replay
+### Menggunakan aplikasi pengarsip
 
-| File format | Kegunaan |
-| :-- | :-- |
-| [.osr][Osr Link] | replay file (tidak bisa decompress). |
+1. Instal aplikasi pengarsip berkas yang dapat menghasilkan berkas `.zip`, seperti [7-Zip](https://www.7-zip.org) atau [WinRAR](https://www.win-rar.com).
+2. Letakkan seluruh berkas yang ingin kamu arsipkan ke dalam satu folder terpisah.
+3. Klik kanan folder tersebut dan pilih `Add to archive...` (atau lakukan hal yang sama dari aplikasi pengarsip yang kamu gunakan secara langsung).
+4. Pilih format arsip ZIP.
+5. Ubah ekstensi berkas dari `.zip` menjadi `.osz` (atau `.osk` apabila kamu mengarsipkan skin).
 
-## Membuat file .osz/.osk
+Untuk menguji berkas arsip yang kamu buat, salin berkas tersebut dan buka melalui osu!.
 
-.osz/.osk adalah file extensi dari osu!.exe. Jika membuka, .osz file akan otomatis mengekstrak ke osu!.exe dan dipindahkan ke folder "Songs" .osk akan diekstrak otomatis dan dipindahkan ke folder "Skins". Secara default, beatmap files dapat didownload lewat website dengan format file .osz. Membuat file .osz/.osk adalah basik dari pengetahuan untuk beatmaping/storyboarding dan skinning.
+### Menggunakan osu!
 
-### Dari archiver
+Untuk menghasilkan arsip beatmap:
 
-**Software yang dibutuhkan:**
+- Buka beatmap melalui [editor](/wiki/Client/Beatmap_editor).
+- Dari [menu yang ada](/wiki/Client/Beatmap_editor/Menu), pilih `Berkas` > `Ekspor Beatmap...`.
+- Berkas `.osz` akan dihasilkan pada folder `Exports` yang terdapat di dalam folder instalasi osu!.
 
-- File archiver (WinRAR, 7zip)
-- osu!
+Untuk menghasilkan arsip skin:
 
-**Langkah - Langkah**
-
-1. Jadikan file ke dalam folder (.mp3, .flv, .osu, SB, etc. masukan ke dalam folder). lalu ubahlah nama folder tersebut.
-   - example, foldernya akan diberi nama "DECO27 - Streaming Heart".
-2. Klik kanan pada folder lalu pilih Add archive (Add to archive...).
-   - Kamu dapat membuka software archive pertama kali dan memindahkan file/folder ke dalam archive.
-3. Jadikan format seperti ".zip" (jangan .7z, .rar) dan ubahlah format archive tersebut ke .osz.
-   - DECO27 - Streaming Heart.zip -> DECO27 - Streaming Heart.osz, Archive: ".zip"
-4. Tunggu beberapa saat memproses file .osz, akan muncul osu! icon jika sudah selesai.
-5. Jika mau membuat file untuk skinning, pakailah format .osk.
-
-**Picture examples** (credit untuk [MLGnom's](https://osu.ppy.sh/users/46620) [Skinning tutorial](https://osu.ppy.sh/community/forums/topics/51694))
-
-- [WinRAR](http://www.rarlab.com/download.htm)
-- [7-zip](http://www.7-zip.org)
-  - Untuk beatmap, gunakan format .osz.
-
-### Membuat file di game
-
-**Software yang dibutuhkan:*
-
-- osu!
-
-**Langkah - Langkah**
-
-1. Seperti yang diatas, Jadikan file-file kamu di dalam satu folder dan ubahlah nama folder tersebut.
-   - Biasanya, kalo kamu membuat/mengedit beatmap, nanti otomatis membuat file .osz. Nah untuk skins, kamu harus melakukan langkah seperti diatas.
-2. Buka osu!.
-3. Jika kamu ingin membuat file .osz, lalu:
-   - Buka "Edit" pilih map yang akan kamu jadikan file .osz.
-   - Open "File", Lalu "Export Package..."
-   - File .osz akan otomatis terbuat dan berada di dalam folder "Exports".
-4. Jika kamu ingin membuat file .osk, lalu:
-   - Pertama, pastikan skins file kamu benar-benar lengkap. kamu bisa membuka folder skins kamu dengan "Open Skin Folder" jika kamu menggunakan skins.
-   - Lalu, didalam menu "Options", klik "Select Skin".
-   - Pilih skins yang akan di export ke .osk file dan pilih "Export as .osk".
-   - file .osk akan otomatis terbuat dan berada di folder "Exports".
-
-[Osz Link]: /wiki/osu!_File_Formats/Osz_(file_format)
-[Osk Link]: /wiki/osu!_File_Formats/Osk_(file_format)
-[Osu Link]: /wiki/osu!_File_Formats/Osu_(file_format)
-[Osb Link]: /wiki/osu!_File_Formats/Osb_(file_format)
-[Osr Link]: /wiki/osu!_File_Formats/Osr_(file_format)
+- Pastikan skin milikmu telah mengandung semua elemen yang ingin kamu ekspor. Kamu dapat memeriksanya melalui tombol `Open Skin Folder` pada menu pengaturan osu!.
+- Pada menu pengaturan, klik `Pilih Skin`.
+- Pilih skin yang ingin kamu ekspor dan klik `Ekspor Sebagai .osk`.
+- Berkas `.osk` akan dihasilkan pada folder `Exports` yang terdapat di dalam folder instalasi osu!.

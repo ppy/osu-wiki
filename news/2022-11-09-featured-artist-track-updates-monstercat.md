@@ -35,7 +35,7 @@ Curious how these songs translate to circle clicking? Check out this video highl
 
 <div align="center">
     <video width="95%" controls>
-        <source src="https://assets.ppy.sh/artists/255/release_showcase.mp4?2023" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/artists/255/release_showcase.mp4?2025" type="video/mp4" preload="none">
     </video>
 </div>
 
