@@ -7,9 +7,9 @@ tags:
 
 *See also: [Beatmap Nominator evaluations](Evaluations)*
 
-The **Nomination Assessment Team** (***NAT***) are the moderators of the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BN*) and ensure the beatmapping side of osu! stays functional.
+The **Nomination Assessment Team** (***NAT***) is a team that moderates the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BN*) and ensures the beatmapping side of osu! stays functional.
 
-Members of the NAT are distinguished by their red username and user title. They have site-wide moderation permissions, like the [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) (*GMT*), and also possess the ability to [nominate](/wiki/Beatmap_ranking_procedure#nominations) and [reset nominations](/wiki/Beatmap_ranking_procedure#nomination-resets) on beatmaps, like [full members](/wiki/People/The_Team/Beatmap_Nominators#full-beatmap-nominators) of the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BNs*). For most purposes, NAT are BNs with different responsibilities. Therefore, all [BN rules](/wiki/People/The_Team/Beatmap_Nominators/Rules) and [expectations](/wiki/People/The_Team/Beatmap_Nominators/Expectations) apply to NAT members, with some exceptions for activity.
+Members of the NAT are distinguished by their red username and user title. They have site-wide moderation permissions, like the [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) (*GMT*), and also possess the ability to [nominate](/wiki/Beatmap_ranking_procedure#nominations) and [reset nominations](/wiki/Beatmap_ranking_procedure#nomination-resets) on beatmaps, like [full members](/wiki/People/The_Team/Beatmap_Nominators#full-beatmap-nominators) of the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BNs*). For most purposes, NAT members are BNs with different responsibilities. Therefore, all [BN rules](/wiki/People/The_Team/Beatmap_Nominators/Rules) and [expectations](/wiki/People/The_Team/Beatmap_Nominators/Expectations) apply to NAT members, with some exceptions for activity.
 
 **All members of the Nomination Assessment Team are sworn to uphold [the Contributor Code of Conduct](/wiki/Contributor_Code_of_Conduct) in addition to the normal [Community Rules](/wiki/Rules).**
 
