@@ -27,7 +27,7 @@ Les personnes énumérées ci-dessous constituent le noyau de l'**équipe d'osu!
 | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | Soutien aux tournois, sensibilisation des Featured Artist |
 | ::{ flag=JP }:: [nanaya](https://osu.ppy.sh/users/2387883) | Développeur osu!web |
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Gouvernant général, conseiller en modération |
-| ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Modération et conseiller communautaire |
+| ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Conseiller sur le modding et le mapping |
 | ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) | Développeur osu!web, [official osu! Featured Artist](https://osu.ppy.sh/beatmaps/artists/1) |
 | ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | Développeur osu!web |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Conseiller sur le modding et le mapping, Organisateur de la Mappers' Guild, Sensibilisation des Featured Artist |
@@ -36,7 +36,7 @@ Les personnes énumérées ci-dessous constituent le noyau de l'**équipe d'osu!
 | ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) | Développeur d'osu!, amateur d'osu!mania, chasseur de bugs |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Gouvernant général, assistant de tournoi |
 | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | Modération et conseiller communautaire |
-| ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) | Modération et conseiller communautaire |
+| ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) | Conseiller sur le modding et le mapping |
 | ::{ flag=AU }:: [Zallius](https://osu.ppy.sh/users/55) | Espèce en voie de disparition |
 
 En plus de ce qui précède, l'[équipe de support aux comptes](Account_support_team) est là pour aider à résoudre les problèmes hors de portée.
