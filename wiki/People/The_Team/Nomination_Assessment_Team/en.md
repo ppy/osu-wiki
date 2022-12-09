@@ -13,31 +13,31 @@ Members of the NAT are distinguished by their red username and user title. They 
 
 **All members of the Nomination Assessment Team are sworn to uphold [the Contributor Code of Conduct](/wiki/Contributor_Code_of_Conduct) in addition to the normal [Community Rules](/wiki/Rules).**
 
-***Note: To report a member of NAT misbehaving or breaking the Contributor Code of Conduct, please contact the [account support team](/wiki/People/The_Team/Account_support_team#support@ppy.sh).***
+***Note: To report a member of the NAT misbehaving or breaking the Contributor Code of Conduct, please contact the [account support team](/wiki/People/The_Team/Account_support_team#support@ppy.sh).***
 
 ## Responsibilities
 
-The NAT are responsible for a variety of mapping-related tasks, with each NAT member falling into one of two subgroups: **Evaluators** and **Advisors**. Each subgroup outlines the responsibilities of its members.
+The NAT is responsible for a variety of mapping-related tasks, with each NAT member falling into one of two subgroups: **evaluators** and **advisors**. Each subgroup outlines the responsibilities of its members.
 
 ### Evaluators
 
-Members of the **Evaluator** subgroup are primarily responsible for:
+Members of the **evaluator** subgroup are primarily responsible for:
 
-- **Evaluation:** Evaluating the proficiency and activity of both current Beatmap Nominators and applicants. *See [evaluations](/wiki/People/The_Team/Nomination_Assessment_Team/Evaluations) for more details.*
-- **Modding:** Modding at least 3 beatmaps per month. This helps evaluators to keep up to date with the mapping/modding community when evaluating current and aspiring Beatmap Nominators.
+- **Evaluation:** Evaluating the proficiency and activity of both current Beatmap Nominators and applicants. *See [Evaluations](/wiki/People/The_Team/Nomination_Assessment_Team/Evaluations) for more details.*
+- **Modding:** Modding at least 3 beatmaps per month. This helps evaluators keep up to date with the mapping/modding community when evaluating current and aspiring Beatmap Nominators.
 
-Evaluators are in high demand due to the sheer volume of [BN applications](/wiki/People/The_Team/Beatmap_Nominators/Becoming_a_Beatmap_Nominator). They, unlike advisors, therefore occasionally look for new members to join them and help ease the workload. This is why BNs that wish to join the NAT are primarily judged based on their ability to evaluate, and most NAT members join and stay as evaluators.
+Evaluators are in high demand due to the sheer volume of [BN applications](/wiki/People/The_Team/Beatmap_Nominators/Becoming_a_Beatmap_Nominator). They, unlike advisors, therefore occasionally look for new members to join them and help ease the workload. This is why BNs who wish to join the NAT are primarily judged based on their ability to evaluate, and most NAT members join and stay as evaluators.
 
 ### Advisors
 
-As a group, **Advisors** are required to maintain:
+As a group, **advisors** are required to maintain:
 
-- **Communication:** Promoting transparency and maintaining good relations with not only the rest of the mapping/modding community, but also within the NAT itself. This includes, but not limited to, making announcements, participating in discussions about proposals, asking/answering questions through surveys, and updating documentation such as the [Ranking Criteria](/wiki/Ranking_Criteria).
+- **Communication:** Promoting transparency and maintaining good relations with not only the rest of the mapping/modding community, but also within the NAT itself. This includes, but not limited to, making announcements, participating in discussions about proposals, asking/answering questions through surveys, and updating the [ranking criteria](/wiki/Ranking_Criteria) as well as other documentation.
 - **Development:** Developing and maintaining tools and websites to help improve the ranking process (such as [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier), [Aiess](https://github.com/Naxesss/Aiess), or [the NAT/BN website](https://bn.mappersguild.com/home)).
 - **Moderation:** Handling user reports and assessing inappropriate behaviour of Beatmap Nominators, as well as processing beatmap content reviews. This subcategory is a joint effort between the NAT and the GMT.
 - **Miscellaneous maintenance:** Included but not limited to:
   - Handling vetoes.
-  - Maintaining the RC Test.
+  - Maintaining the [RC Test](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test).
   - Judging nomination reset severity.
 
 Advisors make sure that BNs and other members of the mapping/modding community remain informed and feel heard, in addition to maintaining the components required to keep everything running in the mapping/modding scene. Advisors are generally made up of experienced evaluators that prefer to focus on managerial matters regarding the mapping/modding scene.
@@ -46,25 +46,27 @@ Advisors make sure that BNs and other members of the mapping/modding community r
 
 Dividing the NAT into two groups is necessary for the overall organisation and productivity of the group, allowing for a more streamlined assignment of tasks. Delegating tasks keeps NAT members from being overwhelmed while simultaneously avoiding a diffusion of responsiblity.
 
-***Key note:*** ***A member of the NAT can engage with any task within either subgroup despite what their subgroup may be listed as.*** For example, if a member of the NAT is an evaluator, they may still make announcements or participate in discussions. Assigned subgroups only describe what each member is formally responsible for.
+**A member of the NAT can engage with any task within either subgroup despite what their subgroup may be listed as.** For example, if a member of the NAT is an evaluator, they may still make announcements or participate in discussions about proposals. Assigned subgroups only describe what each member is formally responsible for.
 
 ## Activity
 
 Depending on their subgroup, each NAT member has different activity requirements. Evaluators are expected to consistently evaluate both applicants and current BNs, while also keeping up to date with the mapping/modding scene on their own through modding. Advisors are expected to uphold key parts of the ranking process on a case-by-case basis.
 
-Members who are found to be inactive will be confronted by other members of the NAT. If a timely resolution to their inactivity isn't feasible, they will be removed from the NAT. Members of the Evaluator subgroup working on other mapping-related projects may be moved to the Advisor subgroup to better reflect their contribution.
+Members who are found to be inactive will be confronted by other members of the NAT. If a timely resolution to their inactivity is not feasible, they will be removed from the NAT. Members of the evaluator subgroup working on other mapping-related projects may be moved to the advisor subgroup to better reflect their contribution.
 
 ## Promotion to the NAT
 
-Before joining the NAT, a user must either be a full member of the Beatmap Nominators, or previously an NAT member and still involved in the community. Most NAT candidates are initially considered based on their commitment to helping the mapping and modding community, and further demonstration of their ability to contribute to a multitude of NAT responsibilities is usually the basis for being promoted.
+Before joining the NAT, a user must either be a full member of the Beatmap Nominators, or a former NAT member still involved in the community. Most NAT candidates are initially considered based on their commitment to helping the mapping and modding community, and further demonstration of their ability to contribute to a multitude of NAT responsibilities is usually the basis for being promoted.
 
-Since all new NAT members start off as evaluators, it's important that NAT candidates are exceptional in assessing the proficiency of others. Full BNs may be given the opportunity to participate in mock evaluations or temporarily join the evaluation team, giving them an opportunity to practice. NAT candidates have a much better chance of being promoted if their evaluations are thorough and come to similar conclusions as the NAT (or have supportive reasoning otherwise).
+Since all new NAT members start off as evaluators, it is important that NAT candidates are exceptional in assessing the proficiency of others. Full BNs may be given the opportunity to participate in [mock evaluations](/wiki/People/The_Team/Nomination_Assessment_Team/Evaluations#mock-evaluations) or temporarily join the evaluation team, giving them an opportunity to practice. NAT candidates have a much better chance of being promoted if their evaluations are thorough and come to similar conclusions as the NAT (or have supportive reasoning otherwise).
 
-The NAT keep tabs on potential NAT candidates over long periods of time, and occasionally convene to decide if a candidate should be promoted, similar to how BN evaluations are done. BNs are also allowed to ask about joining the NAT if they want to receive feedback and make sure they're being considered. However, depending on the activity and skillset of the current NAT, there may not be a need for new members. New NAT will likely be promoted only when one of the current members is becoming less active, or there are new workloads requiring more members, etc.
+The NAT keeps tabs on potential NAT candidates over long periods of time, and occasionally convenes to decide if a candidate should be promoted, similar to how BN evaluations are done. BNs are also allowed to ask about joining the NAT if they want to receive feedback and make sure they are being considered. However, depending on the activity and skill set of current NAT members, there may not be a need for new ones. New NAT members will likely be promoted only when one of the current members is becoming less active, or there are new workloads requiring more members, etc.
 
 ### Becoming an advisor
 
-Evaluators that show proficiency in the advisory tasks outlined above, to the point where their current or planned contribution is indispensable and far outweighs their necessity as an evaluator, can become advisors. This is as judged by a designated member in the team capable of this, currently ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059), whom NAT members may ask advisor-related questions to. If an evaluator is found to be fitting of an advisory role, said designated member will then convene with the rest of the advisors to make sure there are no issues with the evaluator's admission. If no issues arise, the new advisor will then be subject to activity expectations depending on their specific situation. If the contribution of an advisor is considered lackluster or unnecessary at some later point, again as judged by the designated member, then they will be moved back to an evaluator.
+Evaluators who show proficiency in the advisory tasks outlined above, to the point where their current or planned contributions are indispensable and far outweighs their necessity as an evaluator, can become advisors. This is as judged by a designated member in the team capable of this, currently ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059), whom NAT members may ask advisor-related questions to.
+
+If an evaluator is found to be fitting of an advisory role, this designated member will then convene with the rest of the advisors to make sure there are no issues with the evaluator's admission. If no issues arise, the new advisor will then be subject to activity expectations depending on their specific situation. If the contribution of an advisor is considered lacklustre or unnecessary at some later point, again as judged by the designated member, then they will be moved back to being an evaluator.
 
 ## Team members
 
