@@ -66,7 +66,7 @@ The NAT keeps tabs on potential NAT candidates over long periods of time, and oc
 
 Evaluators who show proficiency in the advisory tasks outlined above, to the point where their current or planned contributions are indispensable and far outweighs their necessity as an evaluator, can become advisors. This is as judged by a designated member in the team capable of this, currently ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059), whom NAT members may ask advisor-related questions to.
 
-If an evaluator is found to be fitting of an advisory role, this designated member will then convene with the rest of the advisors to make sure there are no issues with the evaluator's admission. If no issues arise, the new advisor will then be subject to activity expectations depending on their specific situation. If the contribution of an advisor is considered lacklustre or unnecessary at some later point, again as judged by the designated member, then they will be moved back to being an evaluator.
+Before adding a new advisor, the addition is sanity checked with the rest of the NAT in case of objections. If no issues arise, the new advisor will then be subject to activity expectations depending on their specific situation. If the contribution of an advisor is considered lacklustre or unnecessary at some later point, again as judged by the designated member, then they will be moved back to being an evaluator.
 
 ## Team members
 
