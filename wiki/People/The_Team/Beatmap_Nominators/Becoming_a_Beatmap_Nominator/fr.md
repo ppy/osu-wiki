@@ -1,22 +1,16 @@
----
-outdated_translation: true
-outdated_since: 053605ecbcbd1eb5a62e91a331315884fb4b00da
----
-
 # Devenir un Beatmap Nominator
 
 Les utilisateurs souhaitant rejoindre les [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) doivent passer par un processus de candidature supervisé par la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (NAT).
 
 Les candidatures se font via le [site web de la NAT](http://bn.mappersguild.com/bnapps).
 
-Les candidats doivent répondre à un critère d'activité de modding, soumettre au moins deux beatmaps qu'ils ont récemment moddées et passer un [test](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) sur les [critères de classement](/wiki/Ranking_Criteria) afin de soumettre leur candidature. Un message de la NAT sera envoyé dès qu'un verdict aura été rendu. Vous trouverez plus d'informations sur les modalités de candidature sur le site web.
+Les candidats doivent atteindre un seuil minimum de [kudosu](/wiki/Modding/Kudosu), soumettre au moins deux beatmaps qu'ils ont récemment moddées et passer un [test](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) sur les [critères de classement](/wiki/Ranking_Criteria) afin de soumettre leur candidature. Un message de la NAT sera envoyé dès qu'un verdict aura été rendu. Vous trouverez plus d'informations sur les modalités de candidature sur le site web.
 
 ## Critères de base
 
 Les moddeurs souhaitant postuler chez les Beatmap Nominators doivent remplir les critères suivants :
 
-- Ils ont moddé activement des beatmaps pendant au moins 3 mois avant de postuler.
-- Ils ont accumulé au moins 150 ou 200 [kudosu](/wiki/Modding/Kudosu) au total, selon le mode auquel ils s'appliquent.
+- Ils ont accumulé au moins 200 [kudosu](/wiki/Modding/Kudosu) pour les moddeurs osu!, ou 150 [kudosu](/wiki/Modding/Kudosu) pour les moddeurs osu!taiko/osu!catch/osu!mania.
 - Ils fournissent 2 à 3 de leurs mods qui, selon eux, les qualifient pour faire partie des Beatmap Nominators.
 
 ### Attentes en matière de modding
@@ -39,46 +33,19 @@ Voici les caractéristiques de modding attendues des Beatmap Nominators. L'absen
   - Capacités de modding : Connaissance des [critères de classement](/wiki/Ranking_Criteria) généraux et des critères spécifiques de chaque mode de jeu. Des capacités supplémentaires comme les métadonnées, le timing et d'autres seront également prises en compte.
 - Après l'évaluation de chaque moddeur, une discussion sera faite pour savoir si le moddeur rejoindra les Beatmap Nominators.
 
-## Activité de modding
-
-Sur osu!, un certain seuil d'activité doit être atteint pour postuler en tant que Beatmap Nominator. Cette exigence d'activité ne s'applique actuellement **pas** aux modes osu!taiko, osu!catch et osu!mania.
-
-### Qu'est-ce qui est considéré comme un post de modding ?
-
-- En vous inscrivant, le site web calculera automatiquement votre score kudosu des trois derniers mois.
-- Un message qualifié de mod est un message d'un utilisateur sur une discussion d'une beatmap, dans lequel au moins une suggestion/problème a reçu un vote positif, et qui a été créé dans les 3 mois.
-- Le mode de jeu dans lequel vous avez moddé des beatmaps n'a pas d'importance, car c'est votre activité dans la communauté de modding dans son ensemble qui est mesurée et non l'activité dans un certain mode de jeu.
-- Le moment où le kudosu a été attribué à votre message de modding **n'a pas d'importance**, car la calculatrice intégrée au site web récupérera les données à partir de vos propres événements de l'historique de modding.
-
-### Comment le score minimum requis est calculé
-
-- Cela dépend du `ModScore` total qu'un candidat a obtenu au cours des derniers mois. Cette valeur est déterminée selon la formule suivante :
-
-![Formule du ModScore](/wiki/shared/Modscore_new_wiki.png "Formule du ModScore")
-
-`m` = Nombre minimum attendu des beatmaps individuelles moddées dans un mois.
-`M` = Nombre total atteint de beatmaps individuelles moddées en un mois.
-
-- [Le site web](http://bn.mappersguild.com/bnapps) dispose d'un outil de calcul du `ModScore` sur sa page principale.
-- Afin de déterminer le score minimum requis, la somme des `ModScore` des trois derniers mois doit être supérieure ou égale à zéro.
-- Le seuil minimal global est fixé aux valeurs suivantes :
-  - osu!taiko, osu!catch et osu!mania : `m` = 3 et un total de 150 kudosu ou plus
-  - osu! : `m` = 4 et un total de 200 kudosu ou plus
-- Il est généralement conseillé de maintenir votre score au-dessus de ces chiffres, car ils peuvent varier légèrement en fonction du nombre de candidats.
-
 ## Cooldowns
 
-En fonction de votre statut, le cooldown et la condition de modscore avant de pouvoir faire une nouvelle demande peuvent varier.
+En fonction de votre statut, le cooldown avant de pouvoir faire une nouvelle demande peut varier.
 
 ### Demandes rejetées
 
 Vous avez ces conditions si vous avez échoué à une demande pour rejoindre les Beatmap Nominator et que vous faites une nouvelle demande.
 
-| Type | Cooldown | Exigences en matière d'activité |
-| :-- | :-- | :-- |
-| Standard | 90 jours | `ModScore` supérieur à 0 sur 90 jours |
-| Réduit | 60 jours | `ModScore` supérieur à 0 sur 90 jours |
-| Avoir échoué le [Beatmap Nominator Test](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) | 30 jours | `ModScore` supérieur à 0 sur 90 jours |
+| Type | Cooldown |
+| :-- | :-- |
+| Standard | 90 jours |
+| Réduit | 45-60 jours |
+| Avoir échoué le [Beatmap Nominator Test](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) | 30 jours |
 
 ### Réintégration après avoir été retiré des Beatmap Nominators
 
@@ -86,12 +53,12 @@ Les utilisateurs qui ont récemment quitté les Beatmap Nominators peuvent avoir
 
 Si vous étiez auparavant un Beatmap Nominator, ces exigences s'appliquent à moins que vous n'ayez échoué une demande depuis la dernière fois que vous étiez un Beatmap Nominator.
 
-Les exigences concernant le `ModScore` ne s'appliquent qu'au mode de jeu osu!, et non osu!taiko, osu!catch et osu!mania. L'exigence de 8 mods pour ceux qui postulent après avoir été retirés suite à un manque d'activité est partagée entre tous les modes.
+L'exigence de 8 mods pour ceux qui postulent après avoir été retirés suite à un manque d'activité est partagée entre tous les modes.
 
 | Type | Cooldown | Exigences en matière d'activité |
 | :-- | :-- | :-- |
-| Standard | 60 jours | `ModScore` supérieur à 0 sur 60 jours |
-| Activité | 30 jours | `ModScore` non pertinent, mais 8 mods en 60 jours |
-| Bon | 30 jours | `ModScore` supérieur à 0 sur 30 jours |
+| Standard | 60 jours | *N/A* |
+| Activité | 30 jours | 8 mods en 60 jours |
+| Bon | 30 jours | *N/A* |
 
 Les anciens Beatmap Nominators qui ont démissionné en bons termes au cours de l'année écoulée deviennent membres à part entière dès leur réadmission.
