@@ -36,10 +36,6 @@ When our dashing developer [smoogipoo](https://osu.ppy.sh/users/1040328) isn't c
 
 [![](/wiki/shared/news/2022-12-10-makeship-x-osu-plushies/smoog.jpg)](https://www.makeship.com/search?q=PPY)
 
-Witness the Dean "peppy" Herbert waving his prototype osu! cookie in gentle disapproval at those who dare to leave the template visible in their fan art submissions.
-
-[![](/wiki/shared/news/2022-12-10-makeship-x-osu-plushies/waving-cookie.webp)](https://www.makeship.com/search?q=PPY)
-
 We also felt it was important to demonstrate just how throwable the osu! cookie plushie is. No reason.
 
 <div align="center">
