@@ -69,4 +69,4 @@ Make sure to act quick, since production of these adorable plushies starts on Ja
 
 You've got the rest of the month to convince your friends and family to help support the effort. As above, there's no risk to you if a goal isn't met, so get in quick to signal your interest and secure your limited-edition plushie(s) while you can!
 
-—osu!team
+— osu!team
