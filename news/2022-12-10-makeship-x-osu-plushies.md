@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Makeship x osu!: Limited Edition Plushies"
-date: 2022-12-12 12:00:00 +0000
+date: 2022-12-10 12:00:00 +0000
 ---
 
 Countless generations of osu! players have yearned for one thing: the capability to squeeze an osu! cookie or mascot in plushie form. Thanks to a collaboration with Makeship, your dreams can now come true, with **THREE** new crowdfunding campaigns!
 
-![](/wiki/shared/news/2022-12-10-makeship-x-osu-plushies/header.jpg)
+![](https://assets.ppy.sh/media/makeship-x-osu/header.jpg)
 
 Yes, it's finally happening. 
 
@@ -14,27 +14,27 @@ As you might've guessed from our recent [Twitter teasing](https://twitter.com/os
 
 Feast your eyes on these glorious plushies in the form of *the* osu! cookie, pippi herself, and the much loved Taikonator 3000:
 
-[![](/wiki/shared/news/2022-12-10-makeship-x-osu-plushies/launch.jpg)](https://www.makeship.com/search?q=ppy)
+[![](https://assets.ppy.sh/media/makeship-x-osu/launch.jpg)](https://www.makeship.com/search?q=ppy)
 
 Exciting, right? While we don't have a banana for scale, we do have an open bottle of authentic green tea, a headphone amplifier and a DAC instead. Can you guess whose desk this is? We bet you can.
 
-[![](/wiki/shared/news/2022-12-10-makeship-x-osu-plushies/banana-for-scale.jpg)](https://www.makeship.com/search?q=ppy)
+[![](https://assets.ppy.sh/media/makeship-x-osu/banana-for-scale.jpg)](https://www.makeship.com/search?q=ppy)
 
 Something in this picture will make you go 'woot', and we suspect it probably isn't the keyboard.
 
-[![](/wiki/shared/news/2022-12-10-makeship-x-osu-plushies/mascots-keyboard.jpg)](https://www.makeship.com/search?q=ppy)
+[![](https://assets.ppy.sh/media/makeship-x-osu/mascots-keyboard.jpg)](https://www.makeship.com/search?q=ppy)
 
 Still not convinced? Witness a pippi plushie riding into the (osu! cookie) sunset atop the Taikonator 3000 as she leaves behind a hard life of farming scores for a new adventure that involves actually enjoying the game. She's crying because she's happy.
 
-[![](/wiki/shared/news/2022-12-10-makeship-x-osu-plushies/yeehaw.jpg)](https://www.makeship.com/search?q=ppy)
+[![](https://assets.ppy.sh/media/makeship-x-osu/yeehaw.jpg)](https://www.makeship.com/search?q=ppy)
 
 Take a moment to look back on how far we've come, from clicking circles and making fan art to actually bringing both of them into the real world. In plushie form, no less.
 
-[![](/wiki/shared/news/2022-12-10-makeship-x-osu-plushies/the-og.jpg)](https://www.makeship.com/search?q=ppy)
+[![](https://assets.ppy.sh/media/makeship-x-osu/the-og.jpg)](https://www.makeship.com/search?q=ppy)
 
 When our dashing developer [smoogipoo](https://osu.ppy.sh/users/1040328) isn't carefully considering code commits, he moonlights as a plushie salesman. Instead of punching time cards, our developers try to sell you things that just straight-up punch you instead.
 
-[![](/wiki/shared/news/2022-12-10-makeship-x-osu-plushies/smoog.jpg)](https://www.makeship.com/search?q=ppy)
+[![](https://assets.ppy.sh/media/makeship-x-osu/smoog.jpg)](https://www.makeship.com/search?q=ppy)
 
 We also felt it was important to demonstrate just how throwable the osu! cookie plushie is. No reason.
 
