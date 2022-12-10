@@ -12,7 +12,7 @@ Yes, it's finally happening.
 
 As you might've guessed from our recent [Twitter teasing](https://twitter.com/osugame/status/1600560233885339649) and [subsequent giveaway](https://twitter.com/osugame/status/1601055681217384453), we've partnered up with [Makeship](https://www.makeship.com/) to bring a selection of some iconic osu! figures into squishable life.
 
-Feast your eyes on these glorious plushies in the form of *the* osu! cookie, pippi herself, and the much-loved Taikonator 3000:
+Feast your eyes on these glorious plushies in the form of *the* osu! cookie, pippi herself, and the much loved Taikonator 3000:
 
 [![](/wiki/shared/news/2022-12-10-makeship-x-osu-plushies/launch.jpg)](https://www.makeship.com/search?q=PPY)
 
@@ -32,7 +32,7 @@ Take a moment to look back on how far we've come, from clicking circles and maki
 
 [![](/wiki/shared/news/2022-12-10-makeship-x-osu-plushies/the-og.jpg)](https://www.makeship.com/search?q=PPY)
 
-When our dashing developer [smoogipoo](https://osu.ppy.sh/users/1040328) isn't carefully considering code commits, he moonlights as a plushie salesman. Instead of punching time cards, our developers try to sell you things that just straight up punch you instead.
+When our dashing developer [smoogipoo](https://osu.ppy.sh/users/1040328) isn't carefully considering code commits, he moonlights as a plushie salesman. Instead of punching time cards, our developers try to sell you things that just straight-up punch you instead.
 
 [![](/wiki/shared/news/2022-12-10-makeship-x-osu-plushies/smoog.jpg)](https://www.makeship.com/search?q=PPY)
 
@@ -48,7 +48,7 @@ We also felt it was important to demonstrate just how throwable the osu! cookie 
     </video>
 </div>
 
-If you like what you see, make them yours today by helping us fund the Makeship campaigns to bring them into reality. But get in quick, because these plushies are a **limited edition** run - so if you don't buy them this time, they're probably not coming back again!
+If you like what you see, make them yours today by helping us fund the Makeship campaigns to bring them into reality. But get in quick, because these plushies are a **limited-edition** run — so if you don't buy them this time, they're probably not coming back again!
 
 ## How does this all work?
 
@@ -65,8 +65,8 @@ Basically, buy the plushies and if enough people want one, they get made. If the
 
 **[What're you waiting for? Pledge for your osu!-themed plushies today!](https://www.makeship.com/search?q=PPY)**
 
-Make sure to act quick, since production of these adorable plushies starts on January 1, 2023 - and only for the plushies that meet their funding goal by this date! They're expected to ship out around the end of March 2023, if successful.
+Make sure to act quick, since production of these adorable plushies starts on January 1, 2023 — and only for the plushies that meet their funding goal by this date! They're expected to ship out around the end of March 2023, if successful.
 
-You've got the rest of the month to convince your friends and family to help support the effort. As above, there's no risk to you if a goal isn't met, so get in quick to signal your interest and secure your limited edition plushie(s) while you can!
+You've got the rest of the month to convince your friends and family to help support the effort. As above, there's no risk to you if a goal isn't met, so get in quick to signal your interest and secure your limited-edition plushie(s) while you can!
 
-—osu!team
+—osu! team
