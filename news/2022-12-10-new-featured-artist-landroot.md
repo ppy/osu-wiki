@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: LandRoot"
-date: 2022-12-10 11:00:00 +0000
+date: 2022-12-10 08:00:00 +0000
 ---
 
 Growing talent **LandRoot** firmly plants himself in our Featured Artist library!
