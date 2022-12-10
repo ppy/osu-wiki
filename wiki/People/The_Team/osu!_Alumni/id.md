@@ -1,6 +1,6 @@
 # osu! Alumni
 
-**osu! Alumni** merupakan sosok-sosok pendahulu yang telah banyak berjasa kepada osu! pada masanya masing-masing. Seandainya kami memiliki sumber daya yang memadai, kami tidak akan segan untuk mendirikan patung-patung sebagai bentuk penghormatan bagi nama-nama yang tertera di bawah ini.
+**osu! Alumni** merupakan para tokoh yang telah banyak berkontribusi kepada osu! pada masanya masing-masing. Seandainya kami memiliki sumber daya yang memadai, kami tidak akan segan mendirikan patung-patung untuk membalas jasa mereka.
 
 Daftar anggota osu! Alumni selengkapnya juga dapat dilihat pada [laman grup osu! Alumni](https://osu.ppy.sh/groups/16).
 
