@@ -51,11 +51,10 @@ If you like what you see, make them yours today by helping us fund the Makeship 
 It's real simple, and Makeship also [describes the process on their site](https://www.makeship.com/how-it-works):
 
 - If you want any (or all) of the three plushies above, pledge for them on Makeship by **clicking any of the pictures above**.
-- If we reach our funding goal for a given plushie, the campaign becomes *guaranteed* and everyone who ordered one gets one.
+- There's also a 10% discount if you order two, and 15% discount if you order three!
 - Guaranteed campaigns keep taking new orders until they close, so everyone who orders one will get one.
-- If the funding goal isn't reached, all orders for that campaign are refunded, no questions asked.
 
-Basically, buy the plushies and if enough people want one, they get made. If they don't, you get your money back. Easy.
+Basically, buy the plushies and if enough people want one, they get made. Easy as that!
 
 ---
 
@@ -63,6 +62,6 @@ Basically, buy the plushies and if enough people want one, they get made. If the
 
 Make sure to act quick, since production of these adorable plushies starts on January 1, 2023 — and only for the plushies that meet their funding goal by this date! They're expected to ship out around the end of March 2023, if successful.
 
-You've got the rest of the month to convince your friends and family to help support the effort. As above, there's no risk to you if a goal isn't met, so get in quick to signal your interest and secure your limited-edition plushie(s) while you can!
+You've got the rest of the month to convince your friends and family to help support the effort. There's no risk to you if the goal isn't met, so get in quick to signal your interest and secure your limited-edition plushie(s) while you can!
 
 —osu! team
