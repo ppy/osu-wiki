@@ -14,27 +14,27 @@ As you might've guessed from our recent [Twitter teasing](https://twitter.com/os
 
 Feast your eyes on these glorious plushies in the form of *the* osu! cookie, pippi herself, and the much loved Taikonator 3000:
 
-[![](/wiki/shared/news/2022-12-10-makeship-x-osu-plushies/launch.jpg)](https://www.makeship.com/search?q=PPY)
+[![](/wiki/shared/news/2022-12-10-makeship-x-osu-plushies/launch.jpg)](https://www.makeship.com/search?q=ppy)
 
 Exciting, right? While we don't have a banana for scale, we do have an open bottle of authentic green tea, a headphone amplifier and a DAC instead. Can you guess whose desk this is? We bet you can.
 
-[![](/wiki/shared/news/2022-12-10-makeship-x-osu-plushies/banana-for-scale.jpg)](https://www.makeship.com/search?q=PPY)
+[![](/wiki/shared/news/2022-12-10-makeship-x-osu-plushies/banana-for-scale.jpg)](https://www.makeship.com/search?q=ppy)
 
 Something in this picture will make you go 'woot', and we suspect it probably isn't the keyboard.
 
-[![](/wiki/shared/news/2022-12-10-makeship-x-osu-plushies/mascots-keyboard.jpg)](https://www.makeship.com/search?q=PPY)
+[![](/wiki/shared/news/2022-12-10-makeship-x-osu-plushies/mascots-keyboard.jpg)](https://www.makeship.com/search?q=ppy)
 
 Still not convinced? Witness a pippi plushie riding into the (osu! cookie) sunset atop the Taikonator 3000 as she leaves behind a hard life of farming scores for a new adventure that involves actually enjoying the game. She's crying because she's happy.
 
-[![](/wiki/shared/news/2022-12-10-makeship-x-osu-plushies/yeehaw.jpg)](https://www.makeship.com/search?q=PPY)
+[![](/wiki/shared/news/2022-12-10-makeship-x-osu-plushies/yeehaw.jpg)](https://www.makeship.com/search?q=ppy)
 
 Take a moment to look back on how far we've come, from clicking circles and making fan art to actually bringing both of them into the real world. In plushie form, no less.
 
-[![](/wiki/shared/news/2022-12-10-makeship-x-osu-plushies/the-og.jpg)](https://www.makeship.com/search?q=PPY)
+[![](/wiki/shared/news/2022-12-10-makeship-x-osu-plushies/the-og.jpg)](https://www.makeship.com/search?q=ppy)
 
 When our dashing developer [smoogipoo](https://osu.ppy.sh/users/1040328) isn't carefully considering code commits, he moonlights as a plushie salesman. Instead of punching time cards, our developers try to sell you things that just straight-up punch you instead.
 
-[![](/wiki/shared/news/2022-12-10-makeship-x-osu-plushies/smoog.jpg)](https://www.makeship.com/search?q=PPY)
+[![](/wiki/shared/news/2022-12-10-makeship-x-osu-plushies/smoog.jpg)](https://www.makeship.com/search?q=ppy)
 
 We also felt it was important to demonstrate just how throwable the osu! cookie plushie is. No reason.
 
@@ -59,7 +59,7 @@ Basically, buy the plushies and if enough people want one, they get made. If the
 
 ---
 
-**[What're you waiting for? Pledge for your osu!-themed plushies today!](https://www.makeship.com/search?q=PPY)**
+**[What're you waiting for? Pledge for your osu!-themed plushies today!](https://www.makeship.com/search?q=ppy)**
 
 Make sure to act quick, since production of these adorable plushies starts on January 1, 2023 — and only for the plushies that meet their funding goal by this date! They're expected to ship out around the end of March 2023, if successful.
 
