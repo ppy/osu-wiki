@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: e94e24c7ece448f53534306951591330c8d06378
 ---
 
 # Offset (desambiguação)

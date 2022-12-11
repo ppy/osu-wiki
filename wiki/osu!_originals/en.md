@@ -445,6 +445,12 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 | :-: | :-: | :-- |
 | [Dz'Xa - COSMOBEAT](https://soundcloud.com/dz_xa/cosmobeat) | [#1](https://osu.ppy.sh/beatmapsets/1523659) | Grand Finals tiebreaker |
 
+#### ![](/wiki/shared/mode/taiko.png) [Rising Global Taiko Showdown 2022](/wiki/Tournaments/GTS/RGTS_2022)
+
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [Sephid - Hypothesize](https://www.youtube.com/watch?v=FvaJrO3wJbI)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1897397) | Finals tiebreaker |
+
 #### ![](/wiki/shared/mode/taiko.png) [Squad Global Taiko Showdown 2021](/wiki/Tournaments/GTS/SGTS_2021)
 
 | Song | Beatmap | Notes |

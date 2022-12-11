@@ -43,6 +43,7 @@ outdated_translation: true
 | ::{ flag=CA }:: [CheeseWarlock](https://osu.ppy.sh/users/9072) | BAT |
 | ::{ flag=IT }:: [Chewin](https://osu.ppy.sh/users/617323) | BAT |
 | ::{ flag=DE }:: [Clobohne](https://osu.ppy.sh/users/499343) | GMT |
+| ::{ flag=TR }:: [Coldrod](https://osu.ppy.sh/users/9065991) | GMT |
 | ::{ flag=CN }:: [Colin Hou](https://osu.ppy.sh/users/196614) | BAT |
 | ::{ flag=NO }:: [CXu](https://osu.ppy.sh/users/84841) | BAT |
 | ::{ flag=FR }:: [Cyclohexane](https://osu.ppy.sh/users/116078) | GMT |
@@ -91,7 +92,6 @@ outdated_translation: true
 | ::{ flag=NL }:: [happy30](https://osu.ppy.sh/users/27767) | BAT |
 | ::{ flag=US }:: [HappyStick](https://osu.ppy.sh/users/256802) | 토너먼트 관리자 |
 | ::{ flag=MY }:: [HeatKai](https://osu.ppy.sh/users/332555) | BAT, 챗 모더레이터 |
-| ::{ flag=TR }:: [heyronii](https://osu.ppy.sh/users/5642779) | GMT |
 | ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323) | GMT |
 | ::{ flag=US }:: [Hitoshirenu Shourai](https://osu.ppy.sh/users/602) | BAT |
 | ::{ flag=US }:: [Hobbes2](https://osu.ppy.sh/users/8157492) | QAT |
@@ -116,6 +116,7 @@ outdated_translation: true
 | ::{ flag=CA }:: [Kibbleru](https://osu.ppy.sh/users/3193504) | BAT, QAT, NAT |
 | ::{ flag=US }:: [kingcobra52](https://osu.ppy.sh/users/9934) | BAT |
 | ::{ flag=AU }:: [kingking9](https://osu.ppy.sh/users/1277097) | GMT |
+| ::{ flag=DE }:: [Kite](https://osu.ppy.sh/users/134572) | GMT |
 | ::{ flag=CA }:: [Kitokofox](https://osu.ppy.sh/users/1815420) | 챗 모더레이터 |
 | ::{ flag=FR }:: [Krah](https://osu.ppy.sh/users/1436748) | BAT, GMT, QAT |
 | ::{ flag=CL }:: [Krisom](https://osu.ppy.sh/users/99269) | BAT |
@@ -134,6 +135,7 @@ outdated_translation: true
 | ::{ flag=CN }:: [ljqandylee](https://osu.ppy.sh/users/141469) | BAT |
 | ::{ flag=SE }:: [Loginer](https://osu.ppy.sh/users/819) | GMT |
 | ::{ flag=HR }:: [lolcubes](https://osu.ppy.sh/users/578401) | QAT |
+| ::{ flag=TW }:: [Loneight](https://osu.ppy.sh/users/663131) | BAT, 챗 모더레이터, GMT |
 | ::{ flag=US }:: [Love](https://osu.ppy.sh/users/467487) | BAT |
 | ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | GMT |
 | ::{ flag=AU }:: [Lumino](https://osu.ppy.sh/users/59) | BAT |
@@ -177,11 +179,12 @@ outdated_translation: true
 | ::{ flag=FI }:: [Orkel](https://osu.ppy.sh/users/39385) | 챗 모더레이터 |
 | ::{ flag=SG }:: [Pasonia](https://osu.ppy.sh/users/43345) | BAT |
 | ::{ flag=CA }:: [Pawsu](https://osu.ppy.sh/users/2371454) | GMT, 지원팀 |
+| ::{ flag=PT }:: [Pereira006](https://osu.ppy.sh/users/537344) | BAT, 챗 모더레이터, GMT |
 | ::{ flag=NL }:: [Pittigbaasje](https://osu.ppy.sh/users/2167433) | GMT |
 | ::{ flag=HK }:: [Pokie](https://osu.ppy.sh/users/207340) | BAT |
 | ::{ flag=CN }:: [popner](https://osu.ppy.sh/users/759860) | BAT |
 | ::{ flag=MY }:: [PROGUY](https://osu.ppy.sh/users/528181) | QAT |
-| ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) | QAT |
+| ::{ flag=SE }:: [PuffBuck](https://osu.ppy.sh/users/4234525) | 토너먼트 관리자 |
 | ::{ flag=ES }:: [Raiden](https://osu.ppy.sh/users/2239480) | GMT, QAT |
 | ::{ flag=GB }:: [RandomJibberish](https://osu.ppy.sh/users/157879) | BAT |
 | ::{ flag=US }:: [RemmyX25](https://osu.ppy.sh/users/612) | BAT |
