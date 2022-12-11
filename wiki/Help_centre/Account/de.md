@@ -218,7 +218,7 @@ Das bedeutet aber nicht, dass du einen neuen Account erstellen kannst! Mehrere A
 
 ### Kann ich meinen Account löschen? {#account-deletion}
 
-*Für mehr Informationen über die Löschung von Accounts, siehe: [osu!-Datenschutzrichtlinie § Deine Rechte und Kontrolle](/wiki/Legal/Privacy#your-rights-and-control)<!--TODO: change link as soon as German article is available-->.*\
+*Für mehr Informationen über die Löschung von Accounts, siehe: [osu!-Datenschutzerklärung § Ihre Rechte und Kontrolle](/wiki/Legal/Privacy#ihre-rechte-und-kontrolle).*\
 *Vorsicht: Accounts zu löschen ist dauerhaft und kann daher nicht rückgängig gemacht werden!*
 
 Ja, jeder Nutzer kann die Löschung seines Accounts durch das Senden einer E-Mail an [privacy@ppy.sh](mailto:privacy@ppy.sh) beantragen. Beachte, dass die Löschung **endgültig** ist. Das heißt, dass sie nicht aufgehoben werden kann. Einen Account zu löschen bedeutet nicht, dass du einen neuen Account erstellen kannst, da der Besitz mehrerer Accounts gegen die [Regeln](/wiki/Rules#community-regeln) verstößt. Du wirst also nicht mehr in der Lage sein, die Online-Funktionen von osu! nutzen zu können.

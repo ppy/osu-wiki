@@ -1,5 +1,3 @@
-<!-- TODO: change links as soon as German articles are available (line 42, 46 and 47) -->
-
 # Account-Support-Team
 
 *Für ein Team, welches bestimmte Subforen moderiert, siehe: [Support-Team](/wiki/People/The_Team/Support_Team)*
@@ -42,5 +40,5 @@ Du solltest das Team zu Account-bezogenen Themen kontaktieren, über die du kein
 
 ### [privacy@ppy.sh](mailto:privacy@ppy.sh)
 
-- [Anfrage der Daten](/wiki/Legal/Privacy#data-controller) und Bedenken bei der Privatsphäre.
-- Anfrage für die **dauerhafte** [Löschung des Accounts](/wiki/Legal/Privacy#your-rights-and-control).
+- [Anfrage der Daten](/wiki/Legal/Privacy#datenschutzbeauftragter) und Bedenken bei der Privatsphäre.
+- Anfrage für die **dauerhafte** [Löschung des Accounts](/wiki/Legal/Privacy#ihre-rechte-und-kontrolle).
