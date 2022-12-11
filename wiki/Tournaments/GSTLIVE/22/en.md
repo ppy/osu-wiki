@@ -58,6 +58,42 @@ GST:LIVE 2022 is run by various community members.
 - [Livestream](https://www.twitch.tv/osusg)
 - [Challonge bracket](https://challonge.com/gstlive2022)
 
+## Participants
+
+| Team | Members |
+| :-- | :-- |
+| **:nerd:** | ::{ flag=SG }:: **Dawnwing**, ::{ flag=SG }:: Grantorio |
+| **:wheelchair:** | ::{ flag=SG }:: **JokThree**, ::{ flag=SG }:: GSBlank |
+| **[REDACTED]** | ::{ flag=SG }:: **Definition**, ::{ flag=SG }:: Anderwear |
+| **>c** | ::{ flag=SG }:: **uniqly**, ::{ flag=SG }:: CopyPasted |
+| **5 + 4 = 9 digit** | ::{ flag=TH }:: **iamfishgiver**, ::{ flag=SG }:: KingKian |
+| **5 star skillcap** | ::{ flag=SG }:: **Hoex**, ::{ flag=SG }:: \_Chroma |
+| **Acc Gamers** | ::{ flag=SG }:: **Nanodex**, ::{ flag=SG }:: Eleiko |
+| **Among the Sus** | ::{ flag=SG }:: **Rtyzen**, ::{ flag=SG }:: Loslite |
+| **ball scratchers** | ::{ flag=SG }:: **phox**, ::{ flag=SG }:: moosepi |
+| **Burnt Wagyu** | ::{ flag=SG }:: **Unibrick**, ::{ flag=SG }:: Sir Sav |
+| **ClassicForUrSoul** | ::{ flag=SG }:: **Tebi**, ::{ flag=SG }:: Picon |
+| **hd haters** | ::{ flag=SG }:: **Auto Clicker**, ::{ flag=SG }:: lweexe |
+| **hole** | ::{ flag=SG }:: **king\_duckling**, ::{ flag=SG }:: begora\_ |
+| **Horse Girls** | ::{ flag=SG }:: **Rtzero**, ::{ flag=SG }:: SeeL |
+| **host rotate** | ::{ flag=SG }:: **Celestialer**, ::{ flag=SG }:: Pearlmini |
+| **HR rookies** | ::{ flag=SG }:: **m1dget**, ::{ flag=SG }:: Shleepy |
+| **Jollibee date** | ::{ flag=SG }:: **WATCH GENERAL**, ::{ flag=SG }:: terrible at osu |
+| **Karcher Fans** | ::{ flag=SG }:: **zenden10000**, ::{ flag=SG }:: Ereshukigaru |
+| **kenzokupiss** | ::{ flag=SG }:: **hollowknees**, ::{ flag=SG }:: wick |
+| **PAP** | ::{ flag=SG }:: **Jet-**, ::{ flag=SG }:: \[Suguri\] |
+| **S U I P I S S** | ::{ flag=SG }:: **Milk Tee**, ::{ flag=SG }:: Can Never FC |
+| **Skreen** | ::{ flag=SG }:: **eterrius**, ::{ flag=SG }:: Aivina |
+| **Sleepers** | ::{ flag=SG }:: **Touruu**, ::{ flag=SG }:: Baechuu |
+| **Snail and Turtle** | ::{ flag=SG }:: **Hecatia**, ::{ flag=SG }:: skilledez |
+| **stuckat180** | ::{ flag=SG }:: **D3rpyB01**, ::{ flag=SG }:: bencyphyr |
+| **TTV ryangbw kek** | ::{ flag=SG }:: **zyronl**, ::{ flag=SG }:: RyanGBW |
+| **VN Enthusiasts** | ::{ flag=SG }:: **Ayase Mitsukasa**, ::{ flag=SG }:: AdamAckerville |
+| **we go jim** | ::{ flag=SG }:: **Eagle5324**, ::{ flag=SG }:: Moroha29 |
+| **we have 3 badges** | ::{ flag=SG }:: **Inquisitives**, ::{ flag=SG }:: Demonical |
+| **will not qualify** | ::{ flag=SG }:: **lueu**, ::{ flag=SG }:: Igniteous |
+| **XC-72** | ::{ flag=SG }:: **marcellasne\_**, ::{ flag=SG }:: dlwlrma- |
+
 ## Ruleset
 
 ### General rules
