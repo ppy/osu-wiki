@@ -1,14 +1,14 @@
-# The SEV Handbook
+# The SEV rating
 
-SEV is a measurement system used by the Nomination Assessment Team (*NAT*) to rate how relevant a [nomination reset](/wiki/Beatmap_ranking_procedure#nomination-resets) is to the evaluations of the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BN*), providing both transparency and consistency. This measurement is split up into two values and displayed like: "Obviousness" / "Severity". Obviousness values range from 0 to 2, while severity values range from 0 to 3, making it a simple to understand and quick to use system.
+SEV is a measurement system used by the [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (*NAT*) to rate how relevant a [nomination reset](/wiki/Beatmap_ranking_procedure#nomination-resets) is to the evaluations of the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BN*), providing both transparency and consistency. This measurement is split up into two values and displayed as "*Obviousness/Severity*". Obviousness values range from 0 to 2, while severity values range from 0 to 3, making it a simple and quick way to understand the impact of nomination resets.
 
 ***Important to note:*** *A reset done to fix things which would be considered fine if left unfixed are always rated 0/0. This is to not discourage modding and applying improvements in [Qualified](/wiki/Beatmap/Category#qualified).*
 
 ## Disclaimers
 
-1. The SEV handbook is **NOT a guide**, it's a historical archive that's meant to aid understanding of SEV.
+1. This article is **NOT a guide**, it's a historical archive that's meant to aid understanding of SEV.
 2. All of the cases mentioned in [Common reset reasons](#common-reset-reasons) are **NOT examples**, they are real resets from the osu! game mode.
-3. The purpose of the handbook is **NOT to be strictly followed by NAT**, it's to give a point of reference for how the NAT has historically and statistically handled SEV ratings.
+3. The purpose of this article is **NOT to be strictly followed by the NAT**, it's to give a point of reference for how the NAT has historically and statistically handled SEV ratings.
 
 ## Obviousness and Severity
 
@@ -16,30 +16,36 @@ SEV is a measurement system used by the Nomination Assessment Team (*NAT*) to ra
 
 **Obviousness** relates to how easy it is to spot the issue.
 
-- **0: Not obvious** – Applies if the issue is obscure or too granular to consistently catch on to.
-- **1: Can be found with experience** – Requires knowledge / experience / attentiveness to catch. Can typically not be found by tools or regular users, e.g. timing / metadata issues.
-- **2: Can be found at a glance** – Likely something that could be spotted by a regular user, or that wouldn’t have been missed when checking and using tools properly.
+| Score | Definition | Explanation |
+| :-- | :-- | :-- |
+| 0 | Not obvious | Applies if the issue is obscure or too granular to consistently catch on to. |
+| 1 | Can be found with experience | Requires knowledge / experience / attentiveness to catch. Can typically not be found by tools or regular users, e.g. timing / metadata issues. |
+| 2 | Can be found at a glance | Likely something that could be spotted by a regular user, or that wouldn’t have been missed when checking and using tools properly. |
 
 ### Severity
 
 **Severity** relates to how much the issue impacts gameplay.
 
-- **0: Negligible** – Doesn’t or hardly affects gameplay.
-- **1: Worth noting** – Impacts gameplay negatively but not significantly.
-- **2: Moderate design flaw** – Harms gameplay to the point where it's typically also noticeable to a regular user, e.g. a big jump in a low difficulty. In practice, this is often a combination of multiple notable reasons, e.g. being both too difficult to read and an unwarranted difficulty spike.
-- **3: More or less unplayable** – Contains game-breaking elements that make the map impossible to properly play, e.g. two objects on the same tick.
+| Score | Definition | Explanation |
+| :-- | :-- | :-- |
+| 0 | Negligible | Doesn't or hardly affects gameplay. |
+| 1 | Worth noting | Impacts gameplay negatively but not significantly. |
+| 2 | Moderate design flaw | Harms gameplay to the point where it's typically also noticeable to a regular user, e.g. a big jump in a low difficulty. In practice, this is often a combination of multiple notable reasons, e.g. being both too difficult to read and an unwarranted difficulty spike. |
+| 3 | More or less unplayable | Contains game-breaking elements that make the map impossible to properly play, e.g. two objects on the same tick. |
 
 Below are examples of SEV ratings (formatted as *Obviousness/Severity*) and how they are roughly interpreted by evaluators:
 
-- **0/0:** This reset is insignificant and ignored for the purpose of evaluations.
-- **0/1:** Something went wrong here but it’s hard to blame the BNs, as it was difficult to spot.
-- **1/0:** Could've been fixed if the BNs had been more attentive, but isn’t a significant issue.
-- **1/1:** Something went wrong here that could have been fixed if the BNs were more attentive.
-- **1/2:** Often means many things went wrong, but all require experience to spot easily.
-- **2/0:** Some glaring issue in the map’s settings, like metadata, was somehow missed.
-- **2/1:** Some glaring issue in the map's gameplay, like no hitsounding, was missed.
-- **2/2:** A concerning combination of glaring issue that affect gameplay very negatively.
-- **2/3:** A game-breaking issue that makes the map unplayable.
+| SEV | Description |
+| :-- | :-- |
+| **0/0** | This reset is insignificant and ignored for the purpose of evaluations. |
+| **0/1** | Something went wrong here but it’s hard to blame the BNs, as it was difficult to spot. |
+| **1/0** | Could've been fixed if the BNs had been more attentive, but isn’t a significant issue. |
+| **1/1** | Something went wrong here that could have been fixed if the BNs were more attentive. |
+| **1/2** | Often means many things went wrong, but all require experience to spot easily. |
+| **2/0** | Some glaring issue in the map’s settings, like metadata, was somehow missed. |
+| **2/1** | Some glaring issue in the map's gameplay, like no hitsounding, was missed. |
+| **2/2** | A concerning combination of glaring issue that affect gameplay very negatively. |
+| **2/3** | A game-breaking issue that makes the map unplayable. |
 
 ## How is SEV used
 
@@ -68,8 +74,8 @@ Metadata resets *never* have a severity above 0, as they don't affect gameplay.
   - Resets due to the addition of a new rule
   - Difficulty name changes
 - **1/0:** (23%)
-  - Romanized artist name order
-  - Small romanization and capitalization errors
+  - Romanised artist name order
+  - Small romanisation and capitalisation errors
   - 1 wrong character, spelling mistakes
   - Missing genre/language tags
 - **2/0:** (5%)
