@@ -1,6 +1,6 @@
 # The SEV Handbook
 
-SEV is a measurement system used by the Nomination Assessment Team*(*NAT*) to rate how relevant a [nomination reset](/wiki/Beatmap_ranking_procedure#nomination-resets) is to the evaluations of the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BN*), providing both transparency and consistency. This measurement is split up into two values and displayed like: "Obviousness" / "Severity". Obviousness values range from 0 to 2, while severity values range from 0 to 3, making it a simple to understand and quick to use system.
+SEV is a measurement system used by the Nomination Assessment Team (*NAT*) to rate how relevant a [nomination reset](/wiki/Beatmap_ranking_procedure#nomination-resets) is to the evaluations of the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BN*), providing both transparency and consistency. This measurement is split up into two values and displayed like: "Obviousness" / "Severity". Obviousness values range from 0 to 2, while severity values range from 0 to 3, making it a simple to understand and quick to use system.
 
 ***Important to note:*** *A reset done to fix things which would be considered fine if left unfixed are always rated 0/0. This is to not discourage modding and applying improvements in [Qualified](/wiki/Beatmap/Category#qualified).*
 
