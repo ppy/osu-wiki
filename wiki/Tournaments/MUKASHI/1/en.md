@@ -196,7 +196,7 @@ This competition has come to an end and resulted in the following podium:
 2. To ensure valid and serious registrations, every registered player will be checked by the Tournament Management.
 3. The list of players who are deemed to be eligible to compete in the tournament will be published by the Tournament Management after the Registration phase has ended.
    - Due to time constraints, the Tournament Management would only allow for around 8 players to participate in this tournament.
-4. All players are required to attend the technical meeting held onlint by the Tournament Management before the tournament commences.
+4. All players are required to attend the technical meeting held online by the Tournament Management before the tournament commences.
 5. Test players, referees, and mappool selectors may not participate as players in this tournament.
 
 ### Match instructions
@@ -204,8 +204,8 @@ This competition has come to an end and resulted in the following podium:
 1. Each player must use the `!roll` command once in the multiplayer lobby in order to determine the banning and picking order.
    - The winner of the `!roll` gets to determine who gets to pick first.
    - The loser of the `!roll` gets the opposite by default.
-2. EMap banning **does not apply** in the entirety of the tournament.
-3. **There will be no warm-up beatmaps to be played in the multiplayer lobby.** Players who are looking up to warm themselves up are expected to do so by their own during the grace period in between the matches.
+2. Map banning **does not apply** in the entirety of the tournament.
+3. **There will be no warm-up beatmaps to be played in the multiplayer lobby.** Players who are looking to warm up are expected to do so by their own during the grace period in between the matches.
 4. Although playing with mods is not mandatory, **all maps (including the tiebreaker) will be played with the FreeMod option enabled.**
    - Players are allowed to play any map with NoFail, Hidden, FadeIn, Flashlight, and Mirror should they wish to.
 5. Players who can compete in the next round are determined by:
