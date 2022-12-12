@@ -137,11 +137,17 @@ Estas canciones son parte de [osu! James Landino Collection EP](https://fanlink.
 
 | Canción | Beatmap | Notas |
 | :-: | :-: | :-- |
+| [DJ Raisei - T.R.A.P.](https://soundcloud.com/raisei/traptrap)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1889105) | Gran final NM4 |
 | Down - Down | [#1](https://osu.ppy.sh/beatmapsets/1880545) | Semifinales FM4 |
+| [II-L ft. amelie xoxo - THE EARTH](https://soundcloud.com/ii-l/the-earth)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1889101) | Gran final NM5 |
 | [Kurokotei feat. Sennzai - escape (the looking-glass, and what alice found there)](https://www.youtube.com/watch?v=rYmTItO3caw)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1880652) | Desempate de las semifinales |
 | [NIWASHI - Harder Than Diamond](https://open.spotify.com/album/069ssNdAa8pqjgJ6Pk06Jq)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1884920) | Finales FM4 |
+| [Rabbit House - Sanctuary](https://soundcloud.com/dksslqj/sanctuary)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1889094) | Gran final HR2 |
+| [Raimukun - Mythis Orbis](https://soundcloud.com/channel-thenewlimee/myths-orbis)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1889095) | Gran final NM2 |
 | [Redside - Sidequest](https://soundcloud.com/redside100/sidequest)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1880625) | Cuartos de final HR3 |
 | [rN - onostrapha](https://www.youtube.com/watch?v=DyBxCLcrY-c)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1884914) | Finales FM2 |
+| [seatrus - EXXTRA JUDGEMENT](https://soundcloud.com/seatrus_frontier/seatrus-exxtra-judgement)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1889132) | Desempate de la gran final |
+| [Sephid - Thunderstrike 1988](https://www.youtube.com/watch?v=iddcX63D2Ag)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1889109) | Gran final HD3 |
 | [Thaehan - All or Nothing](https://www.youtube.com/watch?v=lrtA205InoQ)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1880625) | Semifinales HR1 |
 
 #### ![](/wiki/shared/mode/taiko.png) [osu!taiko World Cup 2021](/wiki/Tournaments/TWC/2021)
@@ -397,6 +403,30 @@ Estas canciones son parte de [osu! James Landino Collection EP](https://fanlink.
 | :-: | :-: | :-- |
 | [NicDroid as "NicDono" - TAMBOL2022](https://www.youtube.com/watch?v=zhecFreHC94) | [#1](https://osu.ppy.sh/beatmapsets/1838613) | Desempate de la gran final |
 
+#### ![](/wiki/shared/mode/mania.png) [osu!mania LN Tournament 3](/wiki/Tournaments/o!mLN/3)
+
+| Canción | Beatmap | Notas |
+| :-: | :-: | :-- |
+| [HowToPlayLN - LNCryption](https://soundcloud.com/indekkusu/lncryption) | [#1](https://osu.ppy.sh/beatmapsets/1893946) | Comodín de la gran final |
+| [HowToPlayLN - Normal Distribution (takehirotei "t-distribution" remix)](https://soundcloud.com/takehirotei/howtoplayln-normal-distribution-takehirotei-t-distribution-remixstatistically-significant) | [#1](https://osu.ppy.sh/beatmapsets/1880819) | Comodín de cuartos de final |
+| [PSYQUI - Pallet (HowToPlayLN's Piano+Cello Rearrangement)](https://soundcloud.com/indekkusu/pallet-rearrangement) |  | Créditos |
+| [Supa7onyz pres. 5-let - Unsynchronized Rhythms](https://soundcloud.com/user-679008856/om-ln3-custom-song-supa7onyz-pres-5-let-unsynchronized-rhythms) | [#1](https://osu.ppy.sh/beatmapsets/1893947) | Técnicas de la gran final |
+
+#### ![](/wiki/shared/mode/taiko.png) osu!taiko Malaysia Tournament 2022
+
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [cexiria - Early Trial](https://soundcloud.com/cexiria/early-trial) | [#1](https://osu.ppy.sh/beatmapsets/1875943) | Cuartos de final NM1 |
+| [cexiria - Over the Sphere](https://soundcloud.com/cexiria/over-the-sphere) | [#1](https://osu.ppy.sh/beatmapsets/1875981) | Desempate de cuartos de final |
+| [HowToPlayLN - Disintegration of the Isolated Forest](https://soundcloud.com/indekkusu/isolated-forest) | [#1](https://osu.ppy.sh/beatmapsets/1880505) | Desempate de semifinales |
+| [HowToPlayLN - Eternal Bliss (HowToPlayLN's 'Nirvana' Remix)](https://soundcloud.com/indekkusu/eternal-bliss-remix) | [#1](https://osu.ppy.sh/beatmapsets/1867368) | Fase de grupos FM2 |
+| [HowToPlayLN - ph0eniix.z](https://soundcloud.com/indekkusu/ph0eniixz) | [#1](https://osu.ppy.sh/beatmapsets/1885288) | Finales NM2 |
+| [SiLiS - Desir -Saigo no Odori-](https://soundcloud.com/silis/desir-saigo-no-odori) | [#1](https://osu.ppy.sh/beatmapsets/1871708) | Octavos de final NM3 |
+| [Sparxe - What do you C?](https://sparxe.bandcamp.com/track/what-do-you-c) | [#1](https://osu.ppy.sh/beatmapsets/1885333) | Desempate de las finales |
+| [Tartarate vs. cexiria - Pink Aquarium](https://soundcloud.com/tartrate/pink-aquarium) | [#1](https://osu.ppy.sh/beatmapsets/1862333) | Clasificatorias NM1 |
+| [takehirotei as "Infinite Limit" - I.R.I.S](https://www.youtube.com/watch?v=Xata6N3LAyU) | [#1](https://osu.ppy.sh/beatmapsets/1889529) | Desempate de la gran final |
+| [xavy - ko](https://soundcloud.com/xavylo/nukonaritai) | [#1](https://osu.ppy.sh/beatmapsets/1889530) | Gran Final NM3 |
+
 #### ![](/wiki/shared/mode/osu.png) mezelyus' Summer Tournament 2021
 
 | Canción | Beatmap | Notas |
@@ -414,6 +444,13 @@ Estas canciones son parte de [osu! James Landino Collection EP](https://fanlink.
 | Canción | Beatmap | Notas |
 | :-: | :-: | :-- |
 | [Dz'Xa - COSMOBEAT](https://soundcloud.com/dz_xa/cosmobeat) | [#1](https://osu.ppy.sh/beatmapsets/1523659) | Desempate de la gran final |
+
+#### ![](/wiki/shared/mode/taiko.png) [Rising Global Taiko Showdown 2022](/wiki/Tournaments/GTS/RGTS_2022)
+
+| Canción | Beatmap | Notas |
+| :-: | :-: | :-- |
+| [blobdash & breakchild - EPiSODES](https://soundcloud.com/blobdash/episodes) | [#1](https://osu.ppy.sh/beatmapsets/1901573) | Desempate de la gran final |
+| [Sephid - Hypothesize](https://www.youtube.com/watch?v=FvaJrO3wJbI)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1897397) | Desempate de las finales |
 
 #### ![](/wiki/shared/mode/taiko.png) [Squad Global Taiko Showdown 2021](/wiki/Tournaments/GTS/SGTS_2021)
 
@@ -475,6 +512,12 @@ Estas canciones son parte de [osu! James Landino Collection EP](https://fanlink.
 | [Raphlesia & BilliumMoto - My Love](https://soundcloud.com/billiummoto/my-love)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1388906) |
 
 ### Lanzamientos de concursos administrados por la comunidad
+
+#### ![](/wiki/shared/mode/taiko.png)  Mapping to Pander: Taiko #1
+
+| Canción |
+| :-: |
+| [Boaz Sound Team "ptar124" - How do you pronounce Boaz?](https://www.youtube.com/watch?v=WuSv1zFpAmE) |
 
 #### ![](/wiki/shared/mode/catch.png) osu!catch Mapping World Cup 2022
 
