@@ -35,10 +35,10 @@ The **GB Cup 2022 Autumn** (***GBC 2022 Autumn***) is a 3v3 captain draft-based 
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, KanonBot profile badge, Custom medal per team member, ¥250 CNY |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | KanonBot profile badge, Custom medal per team member, ¥250 CNY |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | KanonBot profile badge, Custom medal per team member, ¥200 CNY |
-| *4th place* | Custom medal per team member, ¥150 CNY |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, KanonBot profile badge, Custom medal, ¥250 CNY |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | KanonBot profile badge, Custom medal, ¥250 CNY |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | KanonBot profile badge, Custom medal, ¥200 CNY |
+| *4th place* | Custom medal, ¥150 CNY |
 | *5-8th place* | ¥100 CNY |
 | *9-16th place* | ¥80 CNY |
 | *17-21st place* | ¥60 CNY |
@@ -105,27 +105,43 @@ The GB Cup 2022 Autumn is run by the Team GB and various community members.
 | 23 | **近月少女的礼仪** | ::{ flag=CN }:: **[Zyuuu](https://osu.ppy.sh/users/15389275)**, ::{ flag=CN }:: [tito31158](https://osu.ppy.sh/users/16436669), ::{ flag=CN }:: [Koishi-0514](https://osu.ppy.sh/users/7546593), ::{ flag=CN }:: [yem sky](https://osu.ppy.sh/users/10588209), ::{ flag=CN }:: [FALSEFAST](https://osu.ppy.sh/users/25508274) |
 | 24 | **又一个倒霉蛋** | ::{ flag=CN }:: **[fishbone2445](https://osu.ppy.sh/users/17640814)**, ::{ flag=CN }:: [chana](https://osu.ppy.sh/users/18375016), ::{ flag=CN }:: [ALWW](https://osu.ppy.sh/users/18786195), ::{ flag=CN }:: [KafuChino](https://osu.ppy.sh/users/14826575), ::{ flag=CN }:: [spensll](https://osu.ppy.sh/users/4547744) |
 
-## Match schedule: Round of 16
+## Match schedule: Semifinals
 
-### Saturday, 26 November 2022
-
-| Team A | Team B | Match time (UTC+8) |
-| --: | :-- | :-- |
-| 俄亥俄州立大学躁狂播放器 | 奖励一把大天空 | Nov 26 (Sat) 16:00 |
-| 黎曼猜想 | 都什么年代还在玩传统音游 | Nov 26 (Sat) 18:30 |
-| 铁戈金马 | 上课军训补课反正凑不齐人 | Nov 26 (Sat) 19:30 |
-| 经典米托镂空鱼香鸡肉丸 | 队名太多不知道用哪个 | Nov 26 (Sat) 19:30 |
-| 猫猫面馆 | 近月少女的礼仪 | Nov 26 (Sat) 20:00 |
-| ban位先ban行李箱 | BMS精灵 | Nov 26 (Sat) 20:30 |
-| 均衡教派 | SV狗都不玩 | Nov 26 (Sat) 22:20 |
-
-### Sunday, 27 November 2022
+### Saturday, 10 December 2022
 
 | Team A | Team B | Match time (UTC+8) |
 | --: | :-- | :-- |
-| 又一个倒霉蛋 | DAMWONGaming | Nov 27 (Sun) 21:00 |
+| 黎曼猜想 | ban位先ban行李箱 | Dec 10 (Sat) 20:00 |
+| 猫猫面馆 | 均衡教派 | Dec 10 (Sat) 21:30 |
 
 ## Mappools
+
+### Semifinals & Finals
+
+**[Download the mappack here (185.7 MB)](https://drive.google.com/file/d/1gzUsksEhWKbt_xBfbJWPFPzqS8tLzPkm/)**
+
+- Rice
+  1. [linear ring with RNAcid - Gypsophila (MyZterioN-) \[heartsick(1.05x rate)\]](https://osu.ppy.sh/beatmapsets/1805950#mania/3703574)
+  2. [goreshit - thinking of you (Shoegazer) \[eternity 1.05x (238bpm)\]](https://osu.ppy.sh/beatmapsets/1749736#mania/3583117)
+  3. [Cataclysmic Order - VENDeTTA (tyrcs) \[four\]](https://osu.ppy.sh/beatmapsets/1887401#mania/3886671)
+  4. [SPACELECTRO feat. irony - Treasure you [nmk Remix] (-Deepdive-) \[ I can't get over you (cut) 1.05x (162bpm) OD8\]](https://osu.ppy.sh/beatmapsets/1875969#mania/3860579)
+  5. [DJ TOTTO - Crystalia (Benson_) \[Splash\]](https://osu.ppy.sh/beatmapsets/1846420#mania/3792940)
+  6. [kaitendaentai - Toki no Ryousen (Alptraum) \[Spiral Fragment\]](https://osu.ppy.sh/beatmapsets/1768813#mania/3620827)
+  7. [Apo11o"QUASAR"program feat. Endou Shun - saihate (YuEast 2018) \[Dormancy\]](https://osu.ppy.sh/beatmapsets/1857688#mania/3818062)
+- Hybrid
+  1. [Yuta Imai Vs. BEMANI Sound Team "L.E.D.-G" - THE PEERLESS UNDER HEAVEN (stupud man) \[DIVINE PUNISHMENT\]](https://osu.ppy.sh/beatmapsets/1849062#mania/3798338)
+  2. [Kanone - TEmPTaTiON (cherrychou) \[LN Master(od7)\]](https://osu.ppy.sh/beatmapsets/1497355#mania/3863479)
+  3. [Kobaryo-SUPER EMULATOR \[feat. HiTNEX-X\] (\[GB\]Luoxuan0327) \[5361 Goncharov\]](https://osu.ppy.sh/beatmapsets/1811945#mania/3885930)
+- LN
+  1. [DECO*27 feat. Hatsune Miku - Mousou Zei (Hylotl) \[Lost in the reverie\]](https://osu.ppy.sh/beatmapsets/1886961#mania/3885773)
+  2. [Kurenainagi Tabibito - Otenba Koimusume (zzzzzzsa6177) \[Frozen World\]](https://osu.ppy.sh/beatmapsets/1828368#mania/3752505)
+  3. [3R2 - Corruption (YuEast 2018) \[x1.00\]](https://osu.ppy.sh/beatmapsets/1857687#mania/3818058)
+  4. [MoVIIkA - Ms. Steam (tyrcs) \[od7\]](https://osu.ppy.sh/beatmapsets/1887403#mania/3886673)
+- SV
+  1. [THE BADDEST feat. (G)I-DLE, Bea Miller, Wolftyla (Speed Up) (\[GB\]Mafufu) \[The Baddest \[SV\] \[OD6\]\]](https://osu.ppy.sh/beatmapsets/1834853#mania/3771834)
+  2. [linear ring - Enchanted Love (Kamikho) \[Nerfed\]](https://osu.ppy.sh/beatmapsets/1512651#mania/3903541)
+- Tiebreaker
+  1. **[Kou! - High Speed Particle Collider-beam Accelerator (Hylotl) \[Tevatron (w/ YuEast 2018)\]](https://osu.ppy.sh/beatmapsets/1897369#mania/3910505)**
 
 ### Round of 16 & Quarterfinals
 
@@ -222,6 +238,46 @@ The GB Cup 2022 Autumn is run by the Team GB and various community members.
   1. [IslandWind/PIKASONIC - Forever (Cut ver.) (\[GB\]Mafufu) \[Stage 1: Everlasting\]](https://osu.ppy.sh/beatmapsets/1863068#mania/3831056)
 
 ## Match results
+
+### Quarterfinals
+
+Detailed statistics for this round can be found [here](https://docs.qq.com/sheet/DWnNib25NSVhLT1No?tab=BB08J2).
+
+Saturday, 3 December 2022
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **黎曼猜想** | **7** | 5 | 奖励一把大天空 | [#1](https://osu.ppy.sh/community/matches/105422717) |
+| 经典米托镂空鱼香鸡肉丸 | 6 | **7** | **ban位先ban行李箱** | [#1](https://osu.ppy.sh/community/matches/105424329) |
+
+Saturday, 4 December 2022
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| 铁戈金马 | 3 | **7** | **猫猫面馆** | [#1](https://osu.ppy.sh/community/matches/105440006) |
+| **均衡教派** | **7** | 5 | DAMWONGaming | [#1](https://osu.ppy.sh/community/matches/105447980) |
+
+### Round of 16
+
+Detailed statistics for this round can be found [here](https://docs.qq.com/sheet/DWlJRYXRQeGVvZGxS).
+
+Saturday, 26 November 2022:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| 俄亥俄州立大学躁狂播放器 | 3 | **7** | **奖励一把大天空** | [#1](https://osu.ppy.sh/community/matches/105286504) |
+| **黎曼猜想** | **7** | 4 | 都什么年代还在玩传统音游 | [#1](https://osu.ppy.sh/community/matches/105288257) |
+| **铁戈金马** | **7** | 5 | 上课军训补课反正凑不齐人 | [#1](https://osu.ppy.sh/community/matches/105289414) |
+| **经典米托镂空鱼香鸡肉丸** | **7** | 3 | 队名太多不知道用哪个 | [#1](https://osu.ppy.sh/community/matches/105289268) |
+| **猫猫面馆** | **7** | 6 | 近月少女的礼仪 | [#1](https://osu.ppy.sh/community/matches/105289561) |
+| **ban位先ban行李箱** | **7** | 1 | BMS精灵 | [#1](https://osu.ppy.sh/community/matches/105290342) |
+| **均衡教派** | **7** | 2 | SV狗都不玩 | [#1](https://osu.ppy.sh/community/matches/105292649) |
+
+Sunday, 27 November 2022:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| 又一个倒霉蛋 | 5 | **7** | **DAMWONGaming** | [#1](https://osu.ppy.sh/community/matches/105316060) |
 
 ### Regular stage summary
 

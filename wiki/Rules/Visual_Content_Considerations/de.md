@@ -1,6 +1,5 @@
 ---
-outdated_since: 8b553b163bb5dd5809c1d5715753362653df1155
-outdated_translation: true
+no_native_review: true
 ---
 
 # Empfehlungen für visuelle Inhalte
@@ -34,6 +33,7 @@ Bilder oder visuelle Elemente, die eines der folgenden Dinge enthalten, sind **n
 - **erotischer Inhalt oder grafische Abbildungen von Sexualität**
 - **Beispiele von Drogenkonsum, Vorbereitung oder Identifikation mit illegaler Drogensubkultur**[^drug-nature]
 - **Darstellungen von absichtlich hetzerischen politischen, kulturellen, religiösen oder sozialen Inhalten**
+- **Bilder, die suizidales oder selbstverletzendes Verhalten darstellen, einschließlich der Vorbereitung oder bevorstehende Versuche**
 
 Zusätzlich sollten Bilder oder visuelle Elemente, die vernünftig bewertet als in schlechter Qualität eingestuft werden könnten (entweder in objektiver Bildqualität oder subjektiver Komposition/Gestaltung) und in Fällen, in denen sie in keinem direkten Zusammenhang mit einem relevanten Thema stehen, ebenso nicht in Beatmaps verwendet werden.
 
