@@ -4,7 +4,7 @@ title: "Project Loved: December 2022"
 date: 2022-12-15 18:00:00 +0000
 ---
 
-Celebrate Christmas with some festive Loved gifts! 🎄🎁
+Celebrate the holidays with some festive Loved gifts! 🎄🎁
 
 ![](/wiki/shared/news/banners/project-loved-2.jpg)
 
@@ -21,9 +21,9 @@ Before we move on with this month's picks, let's talk about some changes within 
 
 - We'd like to bid farewell to [Noffy](https://osu.ppy.sh/users/1541323), [Nokashi](https://osu.ppy.sh/users/5431196), and [Zeus-](https://osu.ppy.sh/users/5464437), as they've resigned from the team very recently. Thank you for making Loved awesome by making sure that all picks have been thoroughly checked and prepared for the Loved category in terms of integral metadata and moderation checks!
 - On the other hand, say hello to [Maxus](https://osu.ppy.sh/users/4335785)! He will be joining the metadata team to make sure that picks are in pristine condition before receiving their well-earned leaderboards.
-- A new drummer approaches! [Eriha](https://osu.ppy.sh/users/16320311) joins the osu!taiko Loved captains in order to help with bringing some of the community's most adored beatmaps to justice by granting them all a chance in the Loved polls.
+- A new drummer approaches! [Eriha](https://osu.ppy.sh/users/16320311) joins the osu!taiko Loved captains in order to help bring some of the community's most adored beatmaps to justice by granting them all a chance in the Loved polls.
 
-That should be all in terms of updates for this months. Don't forget if you're interested in participating in Project Loved discussions of a certain game mode, or have any questions, that you can reach out in one of the Project Loved Discord servers listed below:
+That should be all in terms of updates for this month. Don't forget if you're interested in participating in Project Loved discussions of a certain game mode, or have any questions, that you can reach out in one of the Project Loved Discord servers listed below:
 
 [![osu! Project Loved Discord server banner](/wiki/shared/news/banners/project-loved/banner-osu.png)](https://discord.gg/gn58Uk5sTE)
 
@@ -54,7 +54,7 @@ The osu! Loved candidates were chosen by [DeviousPanda](https://osu.ppy.sh/users
 
 If you don't know who [blixys](https://osu.ppy.sh/users/13015896) is, now is the time to meet them and their beautifully chaotic maps.
 
-Speaking in a language that mostly consists of heavily constructed rhythms, map structure and sliders, blixys shows us what they are capable of — capturing destruction and rebirth in their map *Black Lotus*. Using their mapping and object manipulation skills to the max, blixys successfully pulls off an jaw-dropping beatmap full of flowers and lotuses. I can hear the people saying *"Beatmaps are never that serious and/or poetic, rHO!"* comments already, but if you don't believe me, take a gander and you'll see what I'm talking about 😛
+Speaking in a language that mostly consists of heavily constructed rhythms, map structure, and sliders, blixys shows us what they are capable of — capturing destruction and rebirth in their map *Black Lotus*. Using their mapping and object manipulation skills to the max, blixys successfully pulls off a jaw-dropping beatmap full of flowers and lotuses. I can hear the people saying *"Beatmaps are never that serious and/or poetic, rHO!"* comments already, but if you don't believe me, take a gander and you'll see what I'm talking about 😛
 
 [![](/wiki/shared/news/2022-12-15-project-loved-december-2022/1423999.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -117,7 +117,7 @@ This map is an absolute treat for players of any skill level, falling in the mid
 
 Ever thought about a Time Freeze II..? Yes? Well, it's here in December's voting.
 
-\[Ekoro](https://osu.ppy.sh/users/284905)'s take on LIQU@.'s *Yotogibanashi no Kamikakushi* is very reminiscent of his own very popular map [UNDEAD CORPORATION - Everything will Freeze [Time Freeze\]](https://osu.ppy.sh/beatmapsets/158023#osu/555797). Just like Time Freeze, this map features 240 BPM death/spaced streams, along with the iconic squares littered throughout the map. The main difference is that this song only sits at 1:48 in length. Plenty of room for some retrying, and world class score potential!
+[Ekoro](https://osu.ppy.sh/users/284905)'s take on LIQU@.'s *Yotogibanashi no Kamikakushi* is very reminiscent of his own very popular map [UNDEAD CORPORATION - Everything will Freeze \[Time Freeze\]](https://osu.ppy.sh/beatmapsets/158023#osu/555797). Just like Time Freeze, this map features 240 BPM death/spaced streams, along with the iconic squares littered throughout the map. The main difference is that this song only sits at 1:48 in length. Plenty of room for some retrying, and world class score potential!
 
 Be sure to also check out [chocomint](https://osu.ppy.sh/users/124493)'s [1x100 HD FC](https://youtu.be/mDUsN-rLXMc) on this map!
 
@@ -363,7 +363,7 @@ Aside from the above, we know that many people in the community are fans of YOAS
 
 ---
 
-From [everyone working on Project Loved](https://loved.sh/contributors), we hope you enjoyed this month's selection, and are looking forward to the next! The favoured beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) shortly after the polls end. So don't forget to stay hydrated and vote on your favourite beatmaps in order for that to happen!
+From [everyone working on Project Loved](https://loved.sh/contributors), we hope you enjoyed this month's selection and are looking forward to the next! The favoured beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) shortly after the polls end. So don't forget to stay hydrated and vote on your favourite beatmaps in order for that to happen!
 
 More info about Project Loved can be found on its [wiki page](/wiki/Community/Project_Loved) and [website](https://loved.sh/). Stop by the `#osu-loved` channel of the [osu!dev Discord server](https://discord.gg/ppy) if you have any questions, concerns, or are interested in helping out.
 
