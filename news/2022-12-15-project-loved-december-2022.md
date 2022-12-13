@@ -35,10 +35,10 @@ That should be all in terms of updates for this month. Don't forget if you're in
 
 ### Navigation
 
-- [osu!](#osu)
-- [osu!taiko](#osutaiko)
-- [osu!catch](#osucatch)
-- [osu!mania](#osumania)
+- [osu!](#osu!)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
 ## osu!
 
@@ -247,7 +247,7 @@ Alongside Shadow Castle this month we have another speed map from [CLSW](https:/
 138 BPM, 2:08 | 4.04★\
 *description written by [Secre](https://osu.ppy.sh/users/2306637)*
 
-Are these other 3 maps a bit too funky or fast for your liking? Look no further! This nice soothing piano melody from MiddleIsland mapped by well known mapper [Jemzuu](https://osu.ppy.sh/users/7890134) (known as AJamez at the time) is perfect for you! Used in [CWC 2019](/wiki/en/Tournaments/CWC/2019) as a NM pick in the RO16, this map should be familiar to most. Having both a low approach rate and a smaller circle size, this map is great for not only NM but also for testing the waters with all 3 major mods, HR, HD and DT.
+Are these other 3 maps a bit too funky or fast for your liking? Look no further! This nice soothing piano melody from MiddleIsland mapped by well known mapper [Jemzuu](https://osu.ppy.sh/users/7890134) (known as AJamez at the time) is perfect for you! Used in [CWC 2019](/wiki/Tournaments/CWC/2019) as a NM pick in the RO16, this map should be familiar to most. Having both a low approach rate and a smaller circle size, this map is great for not only NM but also for testing the waters with all 3 major mods, HR, HD and DT.
 
 [![](/wiki/shared/news/2022-12-15-project-loved-december-2022/1540329.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -331,7 +331,7 @@ Please do give your support for this amazing collaboration and don't forget to c
 160 BPM, 1:58 | 5.99★\
 *description written by [kadoen](https://osu.ppy.sh/users/12780575)*
 
-Contrasting [qodtjr](https://osu.ppy.sh/users/3021168)'s [last Loved nomination](https://osu.ppy.sh/beatmapsets/621216) and this month's other rice pick, *electro peaceful (akiy2344's 8bit-fuu cover)* is a more approachable chordstream chart, which you might recognize from its use in [Jinjin's Regular Dan 4](https://osu.ppy.sh/beatmapsets/451788#mania/969187) and [last year's MWC](/wiki/en/Tournaments/MWC/2022_7K) (in the Round of 16 pool).
+Contrasting [qodtjr](https://osu.ppy.sh/users/3021168)'s [last Loved nomination](https://osu.ppy.sh/beatmapsets/621216) and this month's other rice pick, *electro peaceful (akiy2344's 8bit-fuu cover)* is a more approachable chordstream chart, which you might recognize from its use in [Jinjin's Regular Dan 4](https://osu.ppy.sh/beatmapsets/451788#mania/969187) and [last year's MWC](/wiki/Tournaments/MWC/2022_7K) (in the Round of 16 pool).
 
 The patterning holds no surprises from anyone familiar with qodtjr's prolific style: consistent chordstreams with some variations and even a couple of held LNs. Will you go for the pass, the S or the SS? Whatever your goal may be, vote now for a chance to compete on a true leaderboard!
 
