@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # ¿De verdad quieres preguntarle a peppy?
 
 Buenos dias! peppy entiende tu necesidad de querer contactarlo personalmente, pero te pide que primero entiendas que este **no** es el lugar donde quieres pedirle ayuda o apoyo. Él mantiene el soporte de osu! independiente de los mensajes personales y también descubre que responder a los PM del foro es bastante difícil de seguir. Por lo tanto, le pide que haga una de las siguientes opciones:
