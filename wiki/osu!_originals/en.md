@@ -70,7 +70,7 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 #### [kiraku](https://osu.ppy.sh/beatmaps/artists/101)
 
 *For the announcement news post, see: [New Featured Artist: kiraku](https://osu.ppy.sh/home/news/2020-09-26-new-featured-artist-kiraku)*
- 
+
 | Song |
 | :-: |
 | [kiraku - connection](https://osu.ppy.sh/beatmaps/artists/tracks?artist=kiraku&query=connection) |
