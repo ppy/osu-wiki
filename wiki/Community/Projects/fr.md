@@ -1,5 +1,6 @@
 ---
-outdated: true
+outdated_since: f31678789896bc4d36e44abb8d89925fb095dfb8
+outdated_translation: true
 ---
 
 # Projets
