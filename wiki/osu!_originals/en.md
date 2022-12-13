@@ -403,6 +403,15 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 | :-: | :-: | :-- |
 | [NicDroid as "NicDono" - TAMBOL2022](https://www.youtube.com/watch?v=zhecFreHC94) | [#1](https://osu.ppy.sh/beatmapsets/1838613) | Grand Finals tiebreaker |
 
+#### ![](/wiki/shared/mode/mania.png) [osu!mania LN Tournament 3](/wiki/Tournaments/o!mLN/3)
+
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [HowToPlayLN - LNCryption](https://soundcloud.com/indekkusu/lncryption) | [#1](https://osu.ppy.sh/beatmapsets/1893946) | Grand Finals wildcard |
+| [HowToPlayLN - Normal Distribution (takehirotei "t-distribution" remix)](https://soundcloud.com/takehirotei/howtoplayln-normal-distribution-takehirotei-t-distribution-remixstatistically-significant) | [#1](https://osu.ppy.sh/beatmapsets/1880819) | Quarterfinals wildcard |
+| [PSYQUI - Pallet (HowToPlayLN's Piano+Cello Rearrangement)](https://soundcloud.com/indekkusu/pallet-rearrangement) |  | Ending credits scene |
+| [Supa7onyz pres. 5-let - Unsynchronized Rhythms](https://soundcloud.com/user-679008856/om-ln3-custom-song-supa7onyz-pres-5-let-unsynchronized-rhythms) | [#1](https://osu.ppy.sh/beatmapsets/1893947) | Grand Finals technical |
+
 #### ![](/wiki/shared/mode/taiko.png) osu!taiko Malaysia Tournament 2022
 
 | Song | Beatmap | Notes |
@@ -435,6 +444,13 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 | Song | Beatmap | Notes |
 | :-: | :-: | :-- |
 | [Dz'Xa - COSMOBEAT](https://soundcloud.com/dz_xa/cosmobeat) | [#1](https://osu.ppy.sh/beatmapsets/1523659) | Grand Finals tiebreaker |
+
+#### ![](/wiki/shared/mode/taiko.png) [Rising Global Taiko Showdown 2022](/wiki/Tournaments/GTS/RGTS_2022)
+
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [blobdash & breakchild - EPiSODES](https://soundcloud.com/blobdash/episodes) | [#1](https://osu.ppy.sh/beatmapsets/1901573) | Grand Finals tiebreaker |
+| [Sephid - Hypothesize](https://www.youtube.com/watch?v=FvaJrO3wJbI)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1897397) | Finals tiebreaker |
 
 #### ![](/wiki/shared/mode/taiko.png) [Squad Global Taiko Showdown 2021](/wiki/Tournaments/GTS/SGTS_2021)
 
