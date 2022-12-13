@@ -135,7 +135,6 @@ File resets almost *never* have a severity above 0, as they usually don't affect
 - **1/0:** (19%)
   - Using an audio that was encoded upwards from a lower bitrate
   - Using hitsound samples that affect gameplay negatively in the default skin
-
 - **2/0:** (6%)
   - Unused file(s)
   - Missing video on some difficulties
