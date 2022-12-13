@@ -35,10 +35,10 @@ That should be all in terms of updates for this month. Don't forget if you're in
 
 ### Navigation
 
-- [osu!](#osu!)
-- [osu!taiko](#osu!taiko)
-- [osu!catch](#osu!catch)
-- [osu!mania](#osu!mania)
+- [osu!](#osu)
+- [osu!taiko](#osutaiko)
+- [osu!catch](#osucatch)
+- [osu!mania](#osumania)
 
 ## osu!
 
@@ -117,7 +117,7 @@ This map is an absolute treat for players of any skill level, falling in the mid
 
 Ever thought about a Time Freeze II..? Yes? Well, it's here in December's voting.
 
-[Ekoro](https://osu.ppy.sh/users/284905)'s take on LIQU@.'s *Yotogibanashi no Kamikakushi* is very reminiscent of his own very popular map [UNDEAD CORPORATION - Everything will Freeze](https://osu.ppy.sh/beatmapsets/158023#osu/555797). Just like Time Freeze, this map features 240 BPM death/spaced streams, along with the iconic squares littered throughout the map. The main difference is that this song only sits at 1:48 in length. Plenty of room for some retrying, and world class score potential!
+[Ekoro](https://osu.ppy.sh/users/284905)'s take on *Yotogibanashi no Kamikakushi* is very reminiscent of his own very popular map [UNDEAD CORPORATION - Everything will Freeze \[Time Freeze\]](https://osu.ppy.sh/beatmapsets/158023#osu/555797). Just like Time Freeze, this map features 240 BPM death/spaced streams, along with the iconic squares littered throughout the map. The main difference is that this song only sits at 1:48 in length. Plenty of room for some retrying, and world class score potential!
 
 Be sure to also check out [chocomint](https://osu.ppy.sh/users/124493)'s [1x100 HD FC](https://youtu.be/mDUsN-rLXMc) on this map!
 
