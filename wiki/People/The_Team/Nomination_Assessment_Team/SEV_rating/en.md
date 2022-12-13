@@ -1,6 +1,6 @@
 # SEV rating
 
-SEV is a measurement system used by the [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (*NAT*) to rate how relevant a [nomination reset](/wiki/Beatmap_ranking_procedure#nomination-resets) is to the evaluations of the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BN*), providing both transparency and consistency. This measurement is split up into two values and displayed as "*Obviousness/Severity*". Obviousness values range from 0 to 2, while severity values range from 0 to 3, making it a simple and quick way to understand the impact of nomination resets.
+SEV is a measurement system used by the [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (*NAT*) to rate how relevant a [nomination reset](/wiki/Beatmap_ranking_procedure#nomination-resets) is to the evaluations of the nominating [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BN*), providing both transparency and consistency. This measurement is split up into two values and displayed as "*Obviousness/Severity*". Both values range from 0 to 2, making it a simple to understand and quick to use system.
 
 ***Important to note:*** *A reset done to fix things which would be considered fine if left unfixed are always rated 0/0. This is to not discourage modding and applying improvements in [Qualified](/wiki/Beatmap/Category#qualified).*
 
@@ -12,8 +12,6 @@ SEV is a measurement system used by the [Nomination Assessment Team](/wiki/Peopl
 
 ## Obviousness and Severity
 
-### Obviousness
-
 **Obviousness** relates to how easy it is to spot the issue.
 
 | Score | Definition | Explanation |
@@ -22,7 +20,6 @@ SEV is a measurement system used by the [Nomination Assessment Team](/wiki/Peopl
 | 1 | Can be found with experience | Requires knowledge / experience / attentiveness to catch. Can typically not be found by tools or regular users, e.g. timing / metadata issues. |
 | 2 | Can be found at a glance | Likely something that could be spotted by a regular user, or that wouldn’t have been missed when checking and using tools properly. |
 
-### Severity
 
 **Severity** relates to how much the issue impacts gameplay.
 
@@ -33,7 +30,7 @@ SEV is a measurement system used by the [Nomination Assessment Team](/wiki/Peopl
 | 2 | Moderate design flaw | Harms gameplay to the point where it's typically also noticeable to a regular user, e.g. a big jump in a low difficulty. In practice, this is often a combination of multiple notable reasons, e.g. being both too difficult to read and an unwarranted difficulty spike. |
 | 3 | More or less unplayable | Contains game-breaking elements that make the map impossible to properly play, e.g. two objects on the same tick. |
 
-Below are examples of SEV ratings (formatted as *Obviousness/Severity*) and how they are roughly interpreted by evaluators:
+Below are examples of SEV ratings and how they are roughly interpreted by evaluators:
 
 | SEV | Description |
 | :-- | :-- |
@@ -44,10 +41,9 @@ Below are examples of SEV ratings (formatted as *Obviousness/Severity*) and how 
 | **1/2** | Often means many things went wrong, but all require experience to spot easily. |
 | **2/0** | Some glaring issue in the map’s settings, like metadata, was somehow missed. |
 | **2/1** | Some glaring issue in the map's gameplay, like no hitsounding, was missed. |
-| **2/2** | A concerning combination of glaring issue that affect gameplay very negatively. |
-| **2/3** | A game-breaking issue that makes the map unplayable. |
+| **2/2** | An issue so severe that it is difficult not to spot, like concurrent hit objects, was missed. |
 
-## How is SEV used
+## How SEV is used
 
 SEV ratings are used in the evaluations of the Beatmap Nominators, weighed against how many nominations they've done.
 
