@@ -14,21 +14,19 @@ SEV is a measurement system used by the [Nomination Assessment Team](/wiki/Peopl
 
 **Obviousness** relates to how easy it is to spot the issue.
 
-| Score | Definition | Explanation |
+| Rating | Definition | Explanation |
 | :-- | :-- | :-- |
 | 0 | Not obvious | Applies if the issue is obscure or too granular to consistently catch on to. |
 | 1 | Can be found with experience | Requires knowledge / experience / attentiveness to catch. Can typically not be found by tools or regular users, e.g. timing / metadata issues. |
 | 2 | Can be found at a glance | Likely something that could be spotted by a regular user, or that wouldn’t have been missed when checking and using tools properly. |
 
-
 **Severity** relates to how much the issue impacts gameplay.
 
-| Score | Definition | Explanation |
+| Rating | Definition | Explanation |
 | :-- | :-- | :-- |
 | 0 | Negligible | Doesn't or hardly affects gameplay. |
 | 1 | Worth noting | Impacts gameplay negatively but not significantly. |
 | 2 | Moderate design flaw | Harms gameplay to the point where it's typically also noticeable to a regular user, e.g. a big jump in a low difficulty. In practice, this is often a combination of multiple notable reasons, e.g. being both too difficult to read and an unwarranted difficulty spike. |
-| 3 | More or less unplayable | Contains game-breaking elements that make the map impossible to properly play, e.g. two objects on the same tick. |
 
 Below are examples of SEV ratings and how they are roughly interpreted by evaluators:
 
@@ -51,7 +49,7 @@ Mistakes happen and a healthy amount will help with learning, but if they happen
 
 ## Common reset reasons
 
-*Makes up for 90% of resets.*
+*Makes up 90% of resets.*
 
 Here is an exhaustive list of reasons nominations have been reset for with their respective SEV rating. These are based on stats of all SEV ratings set in the osu! game mode from February 2020 to April 2021, with percentages to show how common issues are.
 
@@ -59,7 +57,7 @@ Here is an exhaustive list of reasons nominations have been reset for with their
 
 ### Metadata
 
-*Makes up for 22% of notable resets, 30% of resets.*
+*Makes up 22% of notable resets, 30% of resets.*
 
 Metadata resets *never* have a severity above 0, as they don't affect gameplay.
 
@@ -81,7 +79,7 @@ Metadata resets *never* have a severity above 0, as they don't affect gameplay.
 
 ### Mapping
 
-*Makes up for 23% of notable resets, 18% of resets.*
+*Makes up 23% of notable resets, 18% of resets.*
 
 Resets due to mapping issues rarely have 2 in obviousness, as they require good mapping/modding knowledge to identify easily.
 
@@ -101,7 +99,7 @@ Resets due to mapping issues rarely have 2 in obviousness, as they require good 
 
 ## Timing
 
-*Makes up for 15% of notable resets, 8% of resets.*
+*Makes up 15% of notable resets, 8% of resets.*
 
 - **0/0:** (20%)
   - Adjusting the preview point/kiai time
@@ -119,9 +117,9 @@ Resets due to mapping issues rarely have 2 in obviousness, as they require good 
 
 ## Files
 
-*Makes up for 13% of notable resets, 16% of resets.*
+*Makes up 13% of notable resets, 16% of resets.*
 
-File resets almost *never* have a severity above 0, as they usually don't affect gameplay. An exception being using storyboarded hitsounds as replacement for active ones.
+File resets almost never have a severity above 0, as they usually don't affect gameplay. An exception being using storyboarded hitsounds as replacement for active ones.
 
 - **0/0:** (64%)
   - Any change made from an already acceptable/rankable state, for example:
@@ -138,7 +136,7 @@ File resets almost *never* have a severity above 0, as they usually don't affect
 
 ## Snapping
 
-*Makes up for 9% of notable resets, 4% of resets.*
+*Makes up 9% of notable resets, 4% of resets.*
 
 - **0/0:** (11%)
   - AiMod incorrectly detecting an object less than 2 ms off as unsnapped
@@ -157,7 +155,7 @@ File resets almost *never* have a severity above 0, as they usually don't affect
 
 ## Hitsounding
 
-*Makes up for 7% of notable resets, 11% of resets.*
+*Makes up 7% of notable resets, 11% of resets.*
 
 - **0/0:** (73%)
   - Adding a few missing hitsounds
