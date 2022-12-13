@@ -1,8 +1,3 @@
----
-outdated_since: 8ba80c156e8f45b412b5e33664d8eb1613901542
-outdated_translation: true
----
-
 # Kumpulan beatmap showcase Featured Artist
 
 Anggota dari [Mappers' Guild](/wiki/Community/Mappers_Guild) mungkin sering membuat "beatmap showcase" eksklusif dengan menggunakan lagu yang belum dirilis dan materi lain dari [Featured Artist](/wiki/Featured_Artists) osu!. Setelah Featured Artist diumumkan, beatmap-beatmap yang tertera di sini akan disorot ke dalam [postingan berita](https://osu.ppy.sh/home/news) dan sering kali juga dipromosikan di [Twitter @osugame](https://twitter.com/osugame).
@@ -544,6 +539,95 @@ Artikel ini mencantumkan semua beatmap showcase yang telah dibuat oleh anggota d
   - (![][osu!]) [SAMString - Shifting Clouds](https://osu.ppy.sh/beatmapsets/1654451#osu/3376932) diurus oleh ::{ flag=TR }:: [Entry](https://osu.ppy.sh/users/10213311)
 - **[Kanpyohgo](https://osu.ppy.sh/home/news/2022-06-11-new-featured-artist-kanpyohgo)** (2022-06-11)
   - (![][osu!]) [Kanpyohgo - Tozaseshi Kumo no Kayoiji -Stormy Extended-](https://osu.ppy.sh/beatmapsets/1783062#osu/3651636) diurus oleh ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899)
+- **[:Poin7less](https://osu.ppy.sh/home/news/2022-06-15-new-featured-artist-poin7less)** (2022-06-15)
+  - (![][osu!]) [:Poin7less - Love Infection](https://osu.ppy.sh/beatmapsets/1747369#osu/3574158) diurus oleh ::{ flag=JP }:: [Ogura Yui](https://osu.ppy.sh/users/6644401)
+- **[NILFRUITS](https://osu.ppy.sh/home/news/2022-06-25-new-featured-artist-nilfruits)** (2022-06-25)
+  - (![][osu!]) [NILFRUITS - Ironina](https://osu.ppy.sh/beatmapsets/1767671#osu/3618328) diurus oleh ::{ flag=CN }:: [Yugu](https://osu.ppy.sh/users/3161834)
+  - (![][osu!taiko]) [NILFRUITS - Arandano](https://osu.ppy.sh/beatmapsets/1786165#taiko/3668809) diurus oleh ::{ flag=EC }:: [Gamelan4](https://osu.ppy.sh/users/9856910)
+- **[Toromaru](https://osu.ppy.sh/home/news/2022-06-29-new-featured-artist-toromaru)** (2022-06-29)
+  - (![][osu!]) [Toromaru - Formless Canvas](https://osu.ppy.sh/beatmapsets/1727694#osu/3667382) diurus oleh ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334)
+
+### Juli
+
+- **[aran](https://osu.ppy.sh/home/news/2022-07-09-new-featured-artist-aran)** (2022-07-09)
+  - (![][osu!]) [aran & lapix - KALACAKLA](https://osu.ppy.sh/beatmapsets/1773829#osu/3631936) diurus oleh ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342)
+- **[NOISZ](https://osu.ppy.sh/home/news/2022-07-23-new-featured-artist-noisz)** (2022-07-23)
+  - (![][osu!]) [Camellia feat. Morinaga Mayumi - re:||BIRTH](https://osu.ppy.sh/beatmapsets/1779714#osu/3644812) diurus oleh ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059)
+  - (![][osu!]) [Soleily feat. SUNRaiSE - Rise Above](https://osu.ppy.sh/beatmapsets/1767895#osu/3618854) diurus oleh ::{ flag=HU }:: [Nytrocide_](https://osu.ppy.sh/users/11327918)
+- **[ZxNX](https://osu.ppy.sh/home/news/2022-07-30-new-featured-artist-zxnx)** (2022-07-30)
+  - (![][osu!]) [ZxNX - Schadenfreude](https://osu.ppy.sh/beatmapsets/1816239#osu/3728042) diurus oleh ::{ flag=FR }:: [Realazy](https://osu.ppy.sh/users/918297)
+  - (![][osu!catch]) [ZxNX - Schadenfreude](https://osu.ppy.sh/beatmapsets/1698949#fruits/3522804) diurus oleh ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134)
+  - (![][osu!taiko]) [ZxNX - FORTALiCE](https://osu.ppy.sh/beatmapsets/1765720#taiko/3614336) diurus oleh ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721)
+  - (![][osu!mania]) [ZxNX - FORTALiCE](https://osu.ppy.sh/beatmapsets/1737101#mania/3550471) diurus oleh ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789)
+
+### Agustus
+
+- **[Hamu](https://osu.ppy.sh/home/news/2022-08-03-new-featured-artist-hamu)** (2022-08-03)
+  - (![][osu!]) [Hamu - Secret Clover](https://osu.ppy.sh/beatmapsets/1815789#osu/3732873) diurus oleh ::{ flag=US }:: [Heroine](https://osu.ppy.sh/users/12727076)
+  - (![][osu!])(![][osu!catch]) [Hamu - Lemrina](https://osu.ppy.sh/beatmapsets/1799400#osu/3690605) diurus oleh ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117)
+- **[Waterflame](https://osu.ppy.sh/home/news/2022-08-10-new-featured-artist-waterflame)** (2022-08-10)
+  - (![][osu!catch]) [Waterflame - Ricochet Love](https://osu.ppy.sh/beatmapsets/1799889#fruits/3689904) diurus oleh ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508)
+- **[Mitsukiyo](https://osu.ppy.sh/home/news/2022-08-13-new-featured-artist-mitsukiyo)** (2022-08-13)
+  - (![][osu!taiko]) [Mitsukiyo - Dream Leaf](https://osu.ppy.sh/beatmapsets/1792033#taiko/3677766) diurus oleh ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)
+  - (![][osu!]) [Mitsukiyo - Mutual panorama (feat. Aitsuki Nakuru)](https://osu.ppy.sh/beatmapsets/1806127#osu/3703899) diurus oleh ::{ flag=PH }:: [Ayesha Altugle](https://osu.ppy.sh/users/1125647)
+  - (![][osu!]) [Mitsukiyo - Kimi to Boku no Sekai (feat. *namirin)](https://osu.ppy.sh/beatmapsets/1806117#osu/3703875) diurus oleh ::{ flag=PH }:: [Amateurre](https://osu.ppy.sh/users/7326908)
+- **[Koven](https://osu.ppy.sh/home/news/2022-08-17-new-featured-artist-koven)** (2022-08-17)
+  - (![][osu!]) [Koven - Love Wins Again](https://osu.ppy.sh/beatmapsets/1485184#osu/3045583) diurus oleh ::{ flag=LT }:: [Strategas](https://osu.ppy.sh/users/2971837)
+- **[Abuse](https://osu.ppy.sh/home/news/2022-08-20-new-featured-artist-abuse)** (2022-08-20)
+  - (![][osu!]) [Abuse - Shinjuku Jack](https://osu.ppy.sh/beatmapsets/1817377#osu/3728565) diurus oleh ::{ flag=CN }:: [Yugu](https://osu.ppy.sh/users/3161834)
+- **[DJ Genki / Gram](https://osu.ppy.sh/home/news/2022-08-24-new-featured-artist-dj-genki-gram)** (2022-08-24)
+  - (![][osu!taiko]) [DJ Genki vs. Camellia feat. moimoi - YELL!](https://osu.ppy.sh/beatmapsets/1788470#taiko/3676892) diurus oleh ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733)
+  - (![][osu!]) [Gram vs. Camellia - Ragnarok](https://osu.ppy.sh/beatmapsets/1832937#osu/3762850) diurus oleh ::{ flag=GB }:: [Altai](https://osu.ppy.sh/users/5745865)
+  - (![][osu!catch]) [Gram vs. Yooh - Apocalypse](https://osu.ppy.sh/beatmapsets/1816401#fruits/3731299) diurus oleh ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134)
+- **[Aiyru](https://osu.ppy.sh/home/news/2022-08-27-new-featured-artist-aiyru)** (2022-08-27)
+  - (![][osu!]) [Aiyru - Station](https://osu.ppy.sh/beatmapsets/1789344#osu/3666406) diurus oleh ::{ flag=DE }:: [PaRaDogi](https://osu.ppy.sh/users/2054596)
+  - (![][osu!mania]) [Aiyru - Station](https://osu.ppy.sh/beatmapsets/1794071#mania/3676941) diurus oleh ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789)
+- **[-45](https://osu.ppy.sh/home/news/2022-08-31-new-featured-artist-45)** (2022-08-31)
+  - (![][osu!]) [-45 - Aci-L](https://osu.ppy.sh/beatmapsets/1783108#osu/3651716) diurus oleh ::{ flag=KR }:: [Luscent](https://osu.ppy.sh/users/2688581)
+  - (![][osu!]) [-45 - Total Eclipse of The Sun](https://osu.ppy.sh/beatmapsets/1782707#osu/3662485) diurus oleh ::{ flag=US }:: [Matrix](https://osu.ppy.sh/users/5052899)
+  - (![][osu!catch]) [-45 - Total Eclipse of The Sun](https://osu.ppy.sh/beatmapsets/1826327#fruits/3748082) diurus oleh ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565)
+  - (![][osu!]) [-45 - Reishiki](https://osu.ppy.sh/beatmapsets/1557323#osu/3712677) diurus oleh ::{ flag=FR }:: [Raijodo](https://osu.ppy.sh/users/13400075)
+
+### September
+
+- **[Andy Gillion](https://osu.ppy.sh/home/news/2022-09-14-new-featured-artist-andy-gillion)** (2022-09-14)
+  - (![][osu!]) [Andy Gillion - Insert Coin](https://osu.ppy.sh/beatmapsets/1842568#osu/3784709) diurus oleh ::{ flag=PL }:: [-Sylvari](https://osu.ppy.sh/users/3493804)
+- **[Alestorm](https://osu.ppy.sh/home/news/2022-09-21-new-featured-artist-alestorm)** (2022-09-21)
+  - (![][osu!]) [Alestorm - Shipwrecked](https://osu.ppy.sh/beatmapsets/1850895#osu/3802261) diurus oleh ::{ flag=CA }:: [Gordon](https://osu.ppy.sh/users/7856835)
+- **[Ritorikal](https://osu.ppy.sh/home/news/2022-09-24-new-featured-artist-ritorikal)** (2022-09-24)
+  - (![][osu!]) [Ritorikal - Synergy](https://osu.ppy.sh/beatmapsets/1742868#osu/3562994) diurus oleh ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323)
+
+### Oktober
+
+- **[Mono.](https://osu.ppy.sh/home/news/2022-10-01-new-featured-artist-mono)** (2022-10-01)
+  - (![][osu!]) [Mono. - ST4RDUST*XABER](https://osu.ppy.sh/beatmapsets/1810657#osu/3713836) diurus oleh ::{ flag=KR }:: [_Epreus](https://osu.ppy.sh/users/7342798)
+- **[Tokyo.MeltiMelt](https://osu.ppy.sh/home/news/2022-10-05-new-featured-artist-tokyo-meltimelt)** (2022-10-05)
+  - (![][osu!]) [Tokyo.MeltiMelt - I ain't need my heart feat. Hatsuki Yura](https://osu.ppy.sh/beatmapsets/1800571#osu/3691442) diurus oleh ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302)
+  - (![][osu!]) [Tokyo.MeltiMelt - Virgin Mary feat. Sennzai](https://osu.ppy.sh/beatmapsets/1830770#osu/3757790) diurus oleh ::{ flag=PH }:: [-Aqua](https://osu.ppy.sh/users/7150015)
+  - (![][osu!]) [Tokyo.MeltiMelt - the Beautiful Cure (feat. nayuta)](https://osu.ppy.sh/beatmapsets/1791173#osu/3670518) diurus oleh ::{ flag=GB }:: [Shii](https://osu.ppy.sh/users/9186316)
+- **[Hybrid Minds](https://osu.ppy.sh/home/news/2022-10-12-new-featured-artist-hybrid-minds)** (2022-10-12)
+  - (![][osu!]) [Hybrid Minds - Supernova](https://osu.ppy.sh/beatmapsets/1823175) diurus oleh ::{ flag=LT }:: [Strategas](https://osu.ppy.sh/users/2971837)
+- **[GLORYHAMMER](https://osu.ppy.sh/home/news/2022-10-15-new-featured-artist-gloryhammer)** (2022-10-15)
+  - (![][osu!]) [GLORYHAMMER - The Epic Rage of Furious Thunder](https://osu.ppy.sh/beatmapsets/1848202#osu/3796617) diurus oleh ::{ flag=TR }:: [Nymphe](https://osu.ppy.sh/users/10507407)
+- **[Hinkik](https://osu.ppy.sh/home/news/2022-10-26-new-featured-artist-hinkik)** (2022-10-26)
+  - (![][osu!]) [Hinkik - Explorers](https://osu.ppy.sh/beatmapsets/1861042#osu/3826149) diurus oleh ::{ flag=HU }:: [Nytrocide_](https://osu.ppy.sh/users/11327918)
+
+### November
+
+- **[happy30](https://osu.ppy.sh/home/news/2022-11-02-new-featured-artist-happy30)** (2022-11-02)
+  - (![][osu!]) [happy30 - You spin my world](https://osu.ppy.sh/beatmapsets/1873680) diurus oleh ::{ flag=ID }:: [Kyouren](https://osu.ppy.sh/users/2013571)
+- **[Massive New Krew](https://osu.ppy.sh/home/news/2022-11-05-new-featured-artist-massive-new-krew)** (2022-11-05)
+  - (![][osu!]) [Massive New Krew - Bullshit](https://osu.ppy.sh/beatmapsets/1829152) diurus oleh ::{ flag=DE }:: [Icekalt](https://osu.ppy.sh/users/5410645)
+- **[E0ri4](https://osu.ppy.sh/home/news/2022-11-23-new-featured-artist-e0ri4)** (2022-11-23)
+  - (![][osu!]) [E0ri4 - L0V3 4RR0W 5H007](https://osu.ppy.sh/beatmapsets/1889263) diurus oleh ::{ flag=LT }:: [Strategas](https://osu.ppy.sh/users/2971837)
+- **[Innocent Key](https://osu.ppy.sh/home/news/2022-11-26-new-featured-artist-innocent-key)** (2022-11-26)
+  - (![][osu!]) [Innocent Key - Lunatic Red Eyes](https://osu.ppy.sh/beatmapsets/1879868) diurus oleh ::{ flag=TR }:: [Entry](https://osu.ppy.sh/users/10213311)
+  - (![][osu!mania]) [Innocent Key - Toho-Assisted-Speedrun!!!](https://osu.ppy.sh/beatmapsets/1852057) diurus oleh ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789)
+- **[Ekcle](https://osu.ppy.sh/home/news/2022-12-07-new-featured-artist-ekcle)** (2022-12-07)
+  - (![][osu!]) [Ekcle - Crafted In Ice](https://osu.ppy.sh/beatmapsets/1868244) diurus oleh ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334)
+- **[LandRoot](https://osu.ppy.sh/home/news/2022-12-10-new-featured-artist-landroot)** (2022-12-10)
+  - (![][osu!]) [LandRoot - Need To De-stress](https://osu.ppy.sh/beatmapsets/1834399) diurus oleh ::{ flag=DE }:: [PaRaDogi](https://osu.ppy.sh/users/2054596)
+  - (![][osu!taiko]) [LandRoot - Need To De-stress](https://osu.ppy.sh/beatmapsets/1474263) diurus oleh ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015)
 
 ## Sejarah
 
