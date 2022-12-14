@@ -58,7 +58,7 @@ The Katacheh Global Taiko Showdown 2019 was run by various community members.
 | Seed | Members |
 | :-- | :-- |
 | Top | ::{ flag=IT }:: [Ikkun](https://osu.ppy.sh/users/1059945), ::{ flag=ES }:: [Maitgon](https://osu.ppy.sh/users/4875451), ::{ flag=ES }:: [AlvaroYL](https://osu.ppy.sh/users/6333166), ::{ flag=US }:: [cheese salad](https://osu.ppy.sh/users/6349821) |
-| High | ::{ flag=CA }:: [janitoreihil](https://osu.ppy.sh/users/3307897), ::{ flag=BR }:: [Foxeru](https://osu.ppy.sh/users/7479684), ::{ flag=TW }:: [seanhappy8520](https://osu.ppy.sh/users/949455?), ::{ flag=KR }:: [POCARI-SWEAT](https://osu.ppy.sh/users/5082685) |
+| High | ::{ flag=CA }:: [janitoreihil](https://osu.ppy.sh/users/3307897), ::{ flag=BR }:: [Foxeru](https://osu.ppy.sh/users/7479684), ::{ flag=TW }:: [seanhappy8520](https://osu.ppy.sh/users/949455), ::{ flag=KR }:: [POCARI-SWEAT](https://osu.ppy.sh/users/5082685) |
 | Low | ::{ flag=GB }:: [Metzo](https://osu.ppy.sh/users/10633982), ::{ flag=MY }:: [\[Zeth\]](https://osu.ppy.sh/users/9912966), ::{ flag=FR }:: [maximaxiU](https://osu.ppy.sh/users/4069690), ::{ flag=JP }:: [Saikoro](https://osu.ppy.sh/users/741819) |
 | Unseeded | ::{ flag=BR }:: [Kyoumo](https://osu.ppy.sh/users/8145223), ::{ flag=BR }:: [Skull Kid](https://osu.ppy.sh/users/3044264), ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171), ::{ flag=MY }:: [imnoobatosuosu](https://osu.ppy.sh/users/12086753) |
 

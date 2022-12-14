@@ -21,4 +21,5 @@ Apabila suatu artikel memiliki judul yang serupa dengan artikel lainnya, artikel
 - [Skor](Score)
 - [Snapping](Snapping)
 - [Star](Star)
+- [Timing](Timing)
 - [Versi](Version)

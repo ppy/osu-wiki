@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Empfehlungen für visuelle Inhalte
 
 Nach [Community-Regel #5](/wiki/Rules#community-regeln) müssen alle zu osu! eingereichten oder hochgeladenen visuellen Inhalte als für ein Spiel für alle Altersgruppen angemessen betrachtet werden.
@@ -29,6 +33,7 @@ Bilder oder visuelle Elemente, die eines der folgenden Dinge enthalten, sind **n
 - **erotischer Inhalt oder grafische Abbildungen von Sexualität**
 - **Beispiele von Drogenkonsum, Vorbereitung oder Identifikation mit illegaler Drogensubkultur**[^drug-nature]
 - **Darstellungen von absichtlich hetzerischen politischen, kulturellen, religiösen oder sozialen Inhalten**
+- **Bilder, die suizidales oder selbstverletzendes Verhalten darstellen, einschließlich der Vorbereitung oder bevorstehende Versuche**
 
 Zusätzlich sollten Bilder oder visuelle Elemente, die vernünftig bewertet als in schlechter Qualität eingestuft werden könnten (entweder in objektiver Bildqualität oder subjektiver Komposition/Gestaltung) und in Fällen, in denen sie in keinem direkten Zusammenhang mit einem relevanten Thema stehen, ebenso nicht in Beatmaps verwendet werden.
 

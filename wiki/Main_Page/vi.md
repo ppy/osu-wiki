@@ -85,7 +85,7 @@ Quy định về phương tiện truyền thông: [Hướng dẫn sử dụng n�
 
 Câu trả lời cho các câu hỏi thường gặp và giải pháp cho các vấn đề có tại đây.
 
-[Trung tâm trợ giúp](/wiki/Help_centre) • [Xử lý sự cố hiệu suất](/wiki/Performance_troubleshooting) • [Nhóm trợ giúp tài khoản](/wiki/People/The_Team/Account_support_team) • [Diễn đàn trợ giúp](https://osu.ppy.sh/forum/5)
+[Trung tâm trợ giúp](/wiki/Help_centre) • [Xử lý sự cố hiệu suất](/wiki/Performance_troubleshooting) • [Đội ngũ trợ giúp tài khoản](/wiki/People/The_Team/Account_support_team) • [Diễn đàn trợ giúp](https://osu.ppy.sh/forum/5)
 
 Sự hạn chế hồ sơ: [Im lặng](/wiki/Silence) • [Sự hạn chế tài khoản](/wiki/Help_centre/Account_restrictions)
 
@@ -113,9 +113,9 @@ Các tổ chức: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
 osu! có lẽ sẽ không thể thực hiện được nếu không có sự trợ giúp, bảo trì và quản lý cộng đồng của người dùng: những nỗ lực, thời gian và sự cống hiến của họ giúp trò chơi tồn tại và thịnh vượng.
 
-[Nhóm phát triển](/wiki/People/The_Team): [Những nhà phát triển (DEV)](/wiki/People/The_Team/Developers) • [Nhóm kiểm duyệt (GMT)](/wiki/People/The_Team/Global_Moderation_Team) • [Nhóm hỗ trợ](/wiki/People/The_Team/Support_Team) • [Nhóm đánh giá đề cử (NAT)](/wiki/People/The_Team/Nomination_Assessment_Team) • [Những người đánh giá beatmap (BN)](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Nhóm Project Loved](/wiki/People/The_Team/Project_Loved_Team)
+[Đội ngũ phát triển](/wiki/People/The_Team): [Những nhà phát triển (DEV)](/wiki/People/The_Team/Developers) • [Đội ngũ kiểm duyệt (GMT)](/wiki/People/The_Team/Global_Moderation_Team) • [Đội ngũ hỗ trợ](/wiki/People/The_Team/Support_Team) • [Đội ngũ đánh giá đề cử (NAT)](/wiki/People/The_Team/Nomination_Assessment_Team) • [Những người đánh giá beatmap (BN)](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Đội ngũ Project Loved](/wiki/People/The_Team/Project_Loved_Team)
 
-[Những người đóng góp](/wiki/People/Community_Contributors) • [Những người dùng với các tiêu đề đặc biệt](/wiki/People/Users_with_unique_titles) • [Nhóm chuyên về giải đấu](/wiki/People/Tournament_Committee) • [Nhóm chuyên về pp](/wiki/People/Performance_Points_Committee)
+[Những người đóng góp](/wiki/People/Community_Contributors) • [Những người dùng với các tiêu đề đặc biệt](/wiki/People/Users_with_unique_titles) • [Đội ngũ chuyên về giải đấu](/wiki/People/Tournament_Committee) • [Đội ngũ chuyên về pp](/wiki/People/Performance_Points_Committee)
 
 </div>
 <div class="wiki-main-page-panel">

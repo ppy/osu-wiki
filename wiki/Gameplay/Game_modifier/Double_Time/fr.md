@@ -51,7 +51,7 @@ Ce mod rend les hyperdashes beaucoup plus indulgents, ce qui fait que certains f
 
 - Lorsque le mod Double Time est activé, les valeurs `Durée`, `BPM`, et `Objets` prennent une couleur rouge claire en affichant les nouvelles valeurs. (Voir l'image ci-dessous.)
   - La valeur `Objets` est coloriée en rouge clair bien qu'aucun changement n'est fait sur cette valeur.
-- Les valeurs `CS`, `AR`, et `HP` auront un triangle à leur droite qui indique une augmentation de ces valeurs. (Voir l'image ci-dessous.)
+- Les valeurs `AR`, `OD`, et `HP` auront un triangle à leur droite qui indique une augmentation de ces valeurs. (Voir l'image ci-dessous.)
 - Le nom "Double Time" est trompeur, le mod DT ne multiplie pas vraiment la vitesse de la beatmap et de la musique par 2 (200%), mais par 1.5 (150%).
 
 ![Valeurs changées](img/GM_DT.jpg "Capture d'écran des valeurs de la beatmap changées par le mod Double Time")
