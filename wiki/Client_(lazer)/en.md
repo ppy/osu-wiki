@@ -1,7 +1,7 @@
 ---
 stub: true
 tags:
-- game client
+  - game client
 ---
 
 # Client
