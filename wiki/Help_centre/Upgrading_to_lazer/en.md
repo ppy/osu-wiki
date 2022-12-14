@@ -4,9 +4,7 @@ tags:
   - game client
 ---
 
-# Client
-
-## Introduction
+# Upgrading to lazer
 
 osu!(lazer) is the next major update to the game. It is the culmination of several years of work behind the scenes to painstakingly reimplement the game.
 
