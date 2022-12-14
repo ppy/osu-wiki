@@ -14,20 +14,20 @@ The eventual goal is that this version will be released as an update which will 
 
 ## Feature comparison
 
-Following is a comprehensive list of the **current state** of lazer in comparison to stable. Note that this is a moving target – the end goal is to implement all the features that players care about over time.
+The following is a comprehensive list of the **current state** of lazer in comparison to stable. Note that this is a moving target — the end goal is to implement all the features that players care about over time.
 
 ### Compatibility and performance
 
 | Feature | stable | lazer |
 | :-- | :-: | :-: |:f
 | Windows 8.0 and lower | ✅ | ❌ |
-| macOS / linux | 🟠 (using wine) | ✅ |
+| macOS / Linux | 🟠 (using wine) | ✅ |
 | Direct X / Vulkan | 🟠 (directx via compatibility mode) | ❌ (coming soon) |
 | Mobile support | ❌ | ✅ |
 | Multithreaded architecture | ❌ | ✅ |
-| Hardware accelerated video | ❌ | ✅ |
+| Hardware-accelerated video | ❌ | ✅ |
 | UI scaling | ❌ | ✅ |
-| Custom rulesets (game modes) | ❌ | 🟠 (manually via dll) |
+| Custom rulesets (game modes) | ❌ | 🟠 (manually via `.dll` files) |
 | De-duped file store | ❌ | ✅ (beatmaps and skins will share files and save on disk space) |
 | Tablet area adjustment | ❌ | ✅ |
 
@@ -37,22 +37,22 @@ Following is a comprehensive list of the **current state** of lazer in compariso
 | :-- | :-: | :-: |
 | Skin support | ✅ | 🟠 (gameplay only) |
 | Song select grouping modes | ✅ | ❌ |
-| In-game skin / layout editing | ❌ | ✅ |
+| In-game skin / UI layout editing | ❌ | ✅ |
 
 ### Gameplay and skinning
 
 | Feature | stable | lazer |
 | :-- | :-: | :-: |
-| Accurate PP display | 🟠 (via online retrieval) | ✅ |
+| Accurate performance point display | 🟠 (via online retrieval) | ✅ |
 | Mod presets | ❌ | ✅ |
 | Per-mod settings | ❌ | ✅ |
 | New "fun" mods | ❌ | ✅ |
-| Combo colour normalisation | ❌ | ✅ (keeps beatmap custom combo colours in a sane range) |
-| Hold for HUD | ❌ | ✅ (hold control to view the HUD momentarily while it's hidden) |
+| Combo colour normalisation | ❌ | ✅ (brings beatmap custom combo colours to the same brightness level) |
+| Hold for HUD | ❌ | ✅ (hold `Ctrl` to view the HUD momentarily while it's hidden) |
 | Offset calibration | ❌ | ✅ (when retrying a beatmap, calibrate the offset based on your last play) |
 | osu! sliders "snake" while dragging | ❌ | ✅ (can be disabled) |
 | osu! player-friendly "note lock" | ❌ | ✅ (still exists, but should not interfere) |
-| osu!mania timing based note colouring | ❌ | ✅ |
+| osu!mania timing-based note colouring | ❌ | ✅ |
 
 ### Online systems
 
@@ -66,11 +66,11 @@ Following is a comprehensive list of the **current state** of lazer in compariso
 | Real-time chat | ❌ | ✅ |
 | Wiki / News / Changelog / Rankings | ❌ | ✅ (native access to most online content) |
 | User profiles | ❌ | ✅ |
-| Beatmap listing | 🟠 (osu!direct, supporter only) | ✅ |
+| Beatmap listing | 🟠 (osu!direct, osu!supporter-only) | ✅ |
 | Changelog | ❌ | ✅ |
-| Unlimited size multiplayer rooms | ❌ (16 player max) | ✅ |
+| Unlimited multiplayer room size | ❌ (16 players max) | ✅ |
 | Multiplayer spectating | ❌ | ✅ |
-| Tag coop | ✅ | ❌ |
+| Tag co-op | ✅ | ❌ |
 | Playlists (user-curated leaderboards) | ❌ | ✅ |
 | Updating beatmaps with online changes | 🟠 (map only) | ✅ (all files) |
 
@@ -86,17 +86,17 @@ Following is a comprehensive list of the **current state** of lazer in compariso
 | Pattern rotation | ✅ | 🟠 (missing precise angle rotation) |
 | Pattern resizing | ❌ | ✅ |
 | Beatmap submission | ✅ | ❌ |
-| Cross-compatibility | ✅ | 🟠 (some editor features will cause beatmaps to play incorrectly in stable, will be fixed soon) |
+| Cross-compatibility | ✅ | 🟠 (some editor features will cause beatmaps to play incorrectly in stable — will be fixed soon) |
 
 ## Switching to lazer
 
 So you've decided you want to give lazer a shot? Great!
 
-You can find it for download [here](https://github.com/ppy/osu#running-osu). In the near future, you will be able to switch to lazer from stable (from the "Release stream" setting) and find the download on the osu! website.
+You can find it for download [here](https://github.com/ppy/osu#running-osu). In the near future, you will be able to switch to lazer from stable (from the `Release stream` setting) and find the download link on the osu! website.
 
 ## FAQ
 
-### "stable" and "lazer"
+### Migration
 
 #### Is stable going away? Am I going to be forced to switch?
 
@@ -108,7 +108,7 @@ Currently, beatmaps, skins, scores, replays and collections can be imported into
 
 #### If I import my beatmaps to lazer, will it use double the disk space?
 
-If you have both lazer and stable on the same drive, we use "hard links" to avoid using extra disk space.
+If you have both lazer and stable on the same drive, [hard links](https://en.wikipedia.org/wiki/Hard_link) are used to avoid using extra disk space.
 
 In all other cases, importing beatmaps will use double the disk space.
 
@@ -136,9 +136,9 @@ That said, individual scores and beatmaps can be exported from lazer and manuall
 
 Scores will show under "recently played" but not in "best performance" yet.
 
-#### If I set a score on lazer, will it contribute to my pp?
+#### If I set a score on lazer, will it give performance points?
 
-Scores will already have pp calculated (you can see this in "recently played"), but it will not contribute to your total "pp" value yet.
+Scores will already have performance points calculated (you can see this in the "recently played" section of your profile), but it will not contribute to the total value yet.
 
 #### Does lazer use ScoreV2?
 
@@ -154,11 +154,11 @@ While we will try to preserve as many scores as possible, we **offer no guarante
 
 #### Will scores set on stable eventually show in lazer?
 
-Yes. Once we finish balancing the combination of lazer and classic scores, both will be visible.
+Yes. Once we finish balancing the combination of lazer and stable scores, both will be visible.
 
-#### Will all mods be "ranked"?
+#### Will all mods be ranked?
 
-For now, all mods have leaderboards. Whether scores set with each mod will give pp (and if they do, whether there will be a bonus applied) is still in discussion.
+For now, scores of all mod combinations appear on leaderboards. Whether scores will give performance points with all mods (and if they do, whether there will be a bonus or penalty applied) is still in discussion.
 
 #### I don't like the new gameplay mechanics. Can I restore the old gameplay mechanics like on stable?
 
@@ -168,7 +168,7 @@ Please try applying the "classic" mod, which will restore much of the old behavi
 
 #### Something is behaving differently to stable and I don't like it!
 
-Please run the "Setup wizard" at the top of settings and go through the settings on the "Behaviour" screen. A lot of the common settings which have defaults changed are listed here. There's also a single button you can press to apply the old behaviours as a starting point for your lazer journey.
+Please run the setup wizard at the top of settings and go through the settings on the `Behaviour` screen. A lot of the common settings which have defaults changed are listed here. There's also a single button you can press to apply the old behaviours as a starting point for your lazer journey.
 
 #### Will old skins eventually work in song select and results screens?
 
@@ -184,31 +184,23 @@ We will likely bring back support for this in the future due to popular demand.
 
 There is no reason to run at high frame rates. Lazer employs various new technologies to ensure the lowest latency is achievable without requiring high frame rates. This will continue to improve going forward as we still have a few improvements left to implement.
 
-Lazer polls for input at 1000 hz regardless of FPS limiter, which is why the maximum limiter setting will also limit to 1000 fps.
+Lazer polls for input at 1000 Hz regardless of FPS limiter, which is why the maximum limiter setting will also limit to 1000 FPS.
 
-If you are curious about how this affects input latency and test your own perception, please run the built-in "Latency Certifier" at the bottom of settings.
+If you are curious about how this affects input latency and test your own perception, please run the built-in "latency certifier" at the bottom of settings.
 
-#### If input is only polled at 1000 hz, what about my 8000 hz gaming mouse?
+#### If input is only polled at 1000 Hz, what about my 8000 Hz gaming mouse?
 
-The operating system will still poll at the higher rate, although benefits are proven to be negligible. Polling at such high rates can have unforeseen overheads, and we recommend limiting devices to 1000 hz for system stability.
+The operating system will still poll at the higher rate, although benefits are proven to be negligible. Polling at such high rates can have unforeseen overheads, and we recommend limiting devices to 1000 Hz for system stability.
 
 #### Lazer performs worse than stable for me. What gives?
 
-While on most modern hardware we see lazer outperform stable, there are always edge cases when each user has a different hardware configuration. In our short-term roadmap, we are looking to support Direct X (aka "compatibility mode" on stable) and Vulkan, which both have better driver support then OpenGL across all hardware. Once this is implemented, performance on hardware like Intel integrated chipsets will improve greatly.
+While on most modern hardware we see lazer outperform stable, there are always edge cases when each user has a different hardware configuration. In our short-term roadmap, we are looking to support Direct X (aka "compatibility mode" on stable) and Vulkan, which both have better driver support than OpenGL across all hardware. Once this is implemented, performance on hardware like Intel integrated chipsets will improve greatly.
 
 ### Providing feedback
 
-#### A feature is missing that I depend on!
+#### A feature that I depend on is missing! / Something has changed and I don't like it. / I have found a bug, what's the best way to report it?
 
-There's a very high chance we are already aware of this and tracking it for future implementation! Please search [here](https://github.com/ppy/osu/issues) and [here](https://github.com/ppy/osu/discussions). If you can't find any matching discussion threads, feel free to [open a discussion](https://github.com/ppy/osu/discussions/new).
-
-#### Something has changed and I don't like it. What should I do?
-
-There's a very high chance someone else has the same feedback and we are aware of it! Please search [here](https://github.com/ppy/osu/issues) and [here](https://github.com/ppy/osu/discussions). If you can't find any matching discussion threads, feel free to [open a discussion](https://github.com/ppy/osu/discussions/new).
-
-#### I have found a bug, what's the best way to report it?
-
-There's a very high chance someone else has the same feedback and we are aware of it! Please search [here](https://github.com/ppy/osu/issues) and [here](https://github.com/ppy/osu/discussions). If you can't find any matching discussion threads, feel free to [open a discussion](https://github.com/ppy/osu/discussions/new).
+There's a very high chance we are already aware of this and tracking it for future implementation! Please search the [issue tracker](https://github.com/ppy/osu/issues) and [discussions page](https://github.com/ppy/osu/discussions). If you can't find any matching threads, feel free to [open a discussion](https://github.com/ppy/osu/discussions/new).
 
 Do note that we are already tracking over 1,000 issues of varying priorities, and it may take us some time to fix issues that only affect a small number of users.
 
@@ -216,13 +208,13 @@ Do note that we are already tracking over 1,000 issues of varying priorities, an
 
 #### How do I access my songs folder?
 
-There is no songs folder in lazer! This allows us to do cool things like not require F5 at song select to refresh beatmaps (because beatmaps are always in a good state) and reduce the disk space used by beatmaps by 20-40%. You can read more about [the way lazer stores files](https://github.com/ppy/osu/wiki/User-file-storage).
+There is no songs folder in lazer! This allows us to do cool things like not require pressing `F5` at song select to refresh beatmaps (because beatmaps are always in a good state) and reduce the disk space used by beatmaps by 20–40%. You can read more about [the way lazer stores files](https://github.com/ppy/osu/wiki/User-file-storage).
 
 If you need to make changes to a beatmap, please use the editor. Going forward we will introduce a mode in the editor which makes a beatmap's folder temporarily accessible for external editing. This will allow you to use external tools on a beatmap during the creation process.
 
 #### Now that "osu!direct" is available to all players, will supporters have any new benefits?
 
-Some filters in the beatmap listing are still supporter only.
+Some filters in the beatmap listing are still supporter-only.
 
 There are also some additional benefits already:
 
@@ -238,6 +230,6 @@ Yes.
 
 The same way you usually would.
 
-#### Where are the micro-transactions?
+#### Where are the microtransactions?
 
 You're likely thinking of another game.
