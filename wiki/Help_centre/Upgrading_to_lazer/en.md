@@ -19,7 +19,7 @@ Following is a comprehensive list of the **current state** of lazer in compariso
 ### Compatibility and performance
 
 | Feature | stable | lazer |
-| :-- | :-: | :-: |
+| :-- | :-: | :-: |:f
 | Windows 8.0 and lower | ✅ | ❌ |
 | macOS / linux | 🟠 (using wine) | ✅ |
 | Direct X / Vulkan | 🟠 (directx via compatibility mode) | ❌ (coming soon) |
@@ -144,9 +144,9 @@ Scores will already have pp calculated (you can see this in "recently played"), 
 
 Lazer currently uses a new experimental score implementation which is similar to ScoreV2 but not the same. This is still in development and we are looking for more feedback on how it feels in various contexts (solo play, leaderboards, tournaments etc.)
 
-#### I prefer the classic scoring display, where scores get really big.
+#### I prefer the classic scoring display, where scores get really big. Why was this changed?
 
-You can change the "Score display mode" in settings to "Classic" to change this game-wide. It won't be a perfect match, but will give you the same feel of classic scoring and be applied everywhere you'd expect it to be.
+You can actually change the "Score display mode" in settings to "Classic" to get back the explosive style of scoring game-wide! It won't be a perfect match, but will give you the same feel of classic scoring and be applied everywhere you'd expect it to be.
 
 #### If I set a score on lazer, will it remain forever?
 
