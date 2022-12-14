@@ -48,7 +48,7 @@ In [osu!catch](/wiki/Game_mode/osu!catch), the Auto mod will actually go beyond 
 
 ### osu!mania
 
-In [osu!mania](/wiki/Game_mode/osu!mania), the Auto mod will attempt a perfect playthrough, but may miss objects placed on the same column at the same timestamp (e.g., a regular note overlapping with a hold note).
+In [osu!mania](/wiki/Game_mode/osu!mania), the Auto mod will attempt a perfect playthrough, but may miss objects in the same column that are overlapping or placed within 1 ms of each other.
 
 ## Trivia
 
