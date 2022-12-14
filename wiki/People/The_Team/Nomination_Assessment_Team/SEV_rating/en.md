@@ -100,8 +100,8 @@ Resets due to mapping issues rarely have 2 in obviousness, as they require good 
   - Adding a red line to account for the Nightcore mod
   - Using double/half BPM
   - Slightly wrong offset
-    - For simple timing, < 6 ms off)
-    - For complex timing, < 10 ms off)
+    - For simple timing, < 6 ms off
+    - For complex timing, < 10 ms off
 - **1/0:** (11%)
   - Wrong time signature
 - **1/1:** (49%)
