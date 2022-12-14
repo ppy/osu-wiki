@@ -4,12 +4,6 @@ SEV is a measurement system used by the [Nomination Assessment Team](/wiki/Peopl
 
 ***Important to note:*** *A reset done to fix things which would be considered fine if left unfixed are always rated 0/0. This is to not discourage modding and applying improvements in [Qualified](/wiki/Beatmap/Category#qualified).*
 
-## Disclaimers
-
-1. This article is **NOT a guide**, it's a historical archive that's meant to aid understanding of SEV.
-2. All of the cases mentioned in [Common reset reasons](#common-reset-reasons) are **NOT examples**, they are real resets from the osu! game mode.
-3. The purpose of this article is **NOT to be strictly followed by the NAT**, it's to give a point of reference for how the NAT has historically and statistically handled SEV ratings.
-
 ## Obviousness and Severity
 
 **Obviousness** relates to how easy it is to spot the issue.
@@ -97,7 +91,7 @@ Resets due to mapping issues rarely have 2 in obviousness, as they require good 
 - **1/2:** (14%)
   - Same reasons as for 1/1, but more severe; typically a combination
 
-## Timing
+### Timing
 
 *Makes up 15% of notable resets, 8% of resets.*
 
@@ -115,7 +109,7 @@ Resets due to mapping issues rarely have 2 in obviousness, as they require good 
     - Single timing (~6–12 ms off)
     - Complex timing (~10+ ms off)
 
-## Files
+### Files
 
 *Makes up 13% of notable resets, 16% of resets.*
 
@@ -134,7 +128,7 @@ File resets almost never have a severity above 0, as they usually don't affect g
   - Missing video on some difficulties
   - Content that's obviously inappropriate
 
-## Snapping
+### Snapping
 
 *Makes up 9% of notable resets, 4% of resets.*
 
@@ -153,7 +147,7 @@ File resets almost never have a severity above 0, as they usually don't affect g
     - Causes abnormal spacing to following/previous notes
     - A missnap part of a stream, burst, or triple (that can't be a simplification)
 
-## Hitsounding
+### Hitsounding
 
 *Makes up 7% of notable resets, 11% of resets.*
 
