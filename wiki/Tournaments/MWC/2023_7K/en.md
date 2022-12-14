@@ -18,7 +18,7 @@ tags:
 
 ![MWC 7K 2023 banner](img/banner.jpg)
 
-The **osu!mania 7K World Cup 2022** (***MWC 7K 2023***) is an upcoming country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It is the seventh instalment of the osu!mania 7K World Cup.
+The **osu!mania 7K World Cup 2023** (***MWC 7K 2023***) is an upcoming country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It is the seventh instalment of the osu!mania 7K World Cup.
 
 ## Tournament schedule
 
@@ -107,7 +107,7 @@ The osu!mania 7K 2023 is run by the osu! team and various community members.
 1. Every user interested in joining their country's team signs up individually.
    - The tournament managers will create a list of potential candidates for a country's team.
    - The tournament managers will declare one candidate captain of their country's team.
-   - The provisional captain will receive a private message on the osu! website containing further instructions, via the announcement feature, titled "osu! World Cup 2022 - Team {Country Name}".
+   - The provisional captain will receive a private message on the osu! website containing further instructions, via the announcement feature, titled "osu!mania 7K World Cup 2023 - Team {Country Name}".
 2. The provisional captain will then form their team by selecting players from the candidate pool for their country.
    - Captains are expected to choose team members with honesty and good will, with the aim of fielding the strongest team possible.
    - Captains are expected to submit their finalised team list **before the deadline**.
