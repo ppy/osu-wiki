@@ -430,7 +430,7 @@ Sonntag, 18. August 2019:
 
 ### Etappenregelungen
 
-1. Es gibt 7 Phasen im Turnier: Die Qualifizierung, die Gruppenphase, das Achtelfinale, das Viertelfinale, das Halbfinale, das Finale und das Hauptfinale.<!--TODO: Achtelfinale nicht vorhanden?-->
+1. Es gibt 6 Phasen im Turnier: Die Qualifizierung, die Gruppenphase, das Viertelfinale, das Halbfinale, das Finale und das Hauptfinale.
 2. Die Teams werden mit ihrem Durchschnittsrang während der Qualifizierung eingeteilt.
 3. Sollte es mehr als 32 registgrierte Teams geben, kommen nur die besten 24 aus der Qualifizierung weiter.
 4. Teams werden zufällig in **6 Gruppen mit je 4 Teams** während einer Liveziehung am Sonntag, den 11. August eingeteilt.
@@ -443,12 +443,12 @@ Sonntag, 18. August 2019:
 7. In der Gruppenphase gilt ein "Win by default" (zu Deutsch kampflos gewonnen) als 4:0 Sieg mit einer Punktedifferenz von +1.
 8. Die Siegesvoraussetzung für jede Phase ist wie folgt:
    - Gruppenphase: BO9 (5 Beatmaps gewinnen)
-   - Achtelfinale und Viertelfinale: BO11 (6 Beatmaps gewinnen)
+   - Viertelfinale: BO11 (6 Beatmaps gewinnen)
    - Halbfinale, Finale und Hauptfinale: BO13 (7 Beatmaps gewinnen)
 
 ### Mappoolanweisungen
 
-1. Es wird einen Mappool für jede Phase geben: Qualifizierung, Gruppenphase, Achtelfinale, Viertelfinale, Halbfinale, Finale, Hauptfinale.<!--TODO: Achtelfinale?-->
+1. Es wird einen Mappool für jede Phase geben: Qualifizierung, Gruppenphase, Viertelfinale, Halbfinale, Finale, Hauptfinale.
 2. Das Loser's Bracket wird mit dem gleichen Pool wie die Winner's Bracket desselben Wochenendes gespielt.
 3. Der Qualifizierungspool wird anders als die anderen sein. Dort wird es nur 2 NoMod, 1 Hidden, 1 HardRock und 1 DoubleTime Beatmap geben.
 4. Jeder Mappool enthält 7 Stapel: NoMod, EX, Hidden, HardRock, DoubleTime, FreeMod und Tiebreaker.
