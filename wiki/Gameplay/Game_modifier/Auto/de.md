@@ -49,7 +49,7 @@ In [osu!catch](/wiki/Game_mode/osu!catch) geht die Mod Auto über perfekt hinaus
 
 ### osu!mania
 
-In [osu!mania](/wiki/Game_mode/osu!mania) wird die Mod Auto versuchen, einen perfekten Durchlauf zu erzielen, aber verfehlt möglicherweise dicht aneinanderliegende Noten (z. B. mehrere Tastendrücke nah beieinander auf einer Hold-Note).
+In [osu!mania](/wiki/Game_mode/osu!mania) wird die Mod Auto versuchen, einen perfekten Durchlauf zu erzielen, aber verfehlt möglicherweise Objekte, die sich in derselben Spalte überlappen oder im Abstand von 1 ms zueinander platziert sind.
 
 ## Trivia
 
