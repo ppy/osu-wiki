@@ -43,7 +43,7 @@ Mistakes happen and a healthy amount will help with learning, but if they happen
 
 ## Common reset reasons
 
-*Makes up 90% of all resets.*
+*This data comprises 90% of all resets.*
 
 Here is an exhaustive list of reasons nominations have been reset for with their respective SEV rating. These are based on stats of all SEV ratings set in the osu! game mode from February 2020 to April 2021, with percentages to show how common issues are.
 
