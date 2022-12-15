@@ -5,20 +5,12 @@ tags:
   - MWC7K 2023
   - MWC 7K 2023
 ---
-<!--
-- banner.jpg: pending
-- {{OC_LINK}}: pending
-- {{TOURNEY_LISTING}}: pending
-- {{FORUM_THREAD}}: pending
-- {{TEAM_LIST_DEADLINE}}: done
-- {{QUALIFIERS_LOBBY_DEADLINE}}: done
--->
 
 # osu!mania 7K World Cup 2023
 
-![MWC 7K 2023 banner](img/banner.jpg)
+![MWC 7K 2023 banner](img/mwc7k-2023-banner.jpg)
 
-The **osu!mania 7K World Cup 2023** (***MWC 7K 2023***) is an upcoming country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It is the seventh instalment of the osu!mania 7K World Cup.
+The **osu!mania 7K World Cup 2023** (***MWC 7K 2023***) is an upcoming country-based osu!mania tournament hosted by the [osu! team](/wiki/People/The_Team). It is the seventh instalment of the osu!mania 7K World Cup.
 
 ## Tournament schedule
 
@@ -35,7 +27,7 @@ The **osu!mania 7K World Cup 2023** (***MWC 7K 2023***) is an upcoming country-b
 
 ## Prizes
 
-The osu!mania 4K World Cup 2023 offers a minimum $1,200 cash prize pool and limited edition merch. The prize pool can be further increased from **[community donations]({{OC_LINK}})!**
+The osu!mania 4K World Cup 2023 offers a minimum $1,200 cash prize pool and limited edition merch. The prize pool can be further increased from **[community donations](https://opencollective.com/osu-tournaments/events/osu-mania-7k-world-cup-2023-502fec83)!**
 
 | Placing | Prizes |
 | :-: | :-- |
@@ -57,8 +49,10 @@ The osu!mania 7K 2023 is run by the osu! team and various community members.
 
 ## Links
 
-- [Discussion thread]({{FORUM_THREAD}})
+- **[Register here](https://osu.ppy.sh/community/tournaments/36)**
 - [Livestream](https://www.twitch.tv/osulive)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1690687)
+- [Donate to the prize pool](https://opencollective.com/osu-tournaments/events/osu-mania-7k-world-cup-2023-502fec83)
 
 ## Ruleset
 
@@ -117,7 +111,7 @@ The osu!mania 7K 2023 is run by the osu! team and various community members.
    - **Teams that do not not send their team list by January 6, 23:59 UTC will be disqualified from the competition.**
 3. To ensure valid registrations, every prospective participant will be manually checked by the [account support team](/wiki/People/The_Team/Account_support_team), in a manner similar to the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) that is offered to community tournaments.
    - Every registered user will be assigned to their respective country's candidate list.
-   - To be successfully accepted on the list, players are required to be placed #5000 or higher on the osu! global ranking, and not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
+   - To be successfully accepted on the list, players are required to be placed #5000 or higher on the osu!mania 7K global ranking, and not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
 4. All successfully formed teams will be published after the registration phase on this page.
    - A team should have at least 2 players registered to have the chance to play the Qualifier stage.
 5. Tournament staff members are **not** allowed to play in the tournament, with the exception of commentators and streamers.
