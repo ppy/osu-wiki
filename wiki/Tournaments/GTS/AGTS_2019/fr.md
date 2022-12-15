@@ -430,7 +430,7 @@ Dimanche 18 août 2019 :
 
 ### Règlement des matchs
 
-1. Il y a sept (7) étapes dans ce tournoi: les Qualifications, la Phase de Groupes, les, les Quarts de finale, les Demi-finales, les Finales et la/les Grande(s) Finale(s).
+1. Il y a six (6) étapes dans ce tournoi: les Qualifications, la Phase de Groupes, les Quarts de finale, les Demi-finales, les Finales et la/les Grande(s) Finale(s).
 2. Les équipes seront réparties dans des "seeds", en fonction de leurs résultats lors de la phase de Qualifications.
 3. Dans le cas où plus de trente-deux (32) équipes sont inscrites au tournoi, seules les trente-deux (32) meilleures équipes accèderont à la Phase de Groupes.
 4. Les équipes seront réparties en huit **(6) groupes de quatre (4) équipes** chacun durant une diffusion en direct du tirage, qui se déroulera le Dimanche 11 Aoüt.
