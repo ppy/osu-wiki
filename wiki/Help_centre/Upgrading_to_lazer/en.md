@@ -22,7 +22,7 @@ The following is a comprehensive list of the **current state** of lazer in compa
 | :-- | :-: | :-: |:f
 | Windows 8.0 and lower | ✅ | ❌ |
 | macOS / Linux | 🟠 (using wine) | ✅ |
-| Direct X / Vulkan | 🟠 (directx via compatibility mode) | ❌ (coming soon) |
+| DirectX / Vulkan | 🟠 (DirectX via compatibility mode) | ❌ (coming soon) |
 | Mobile support | ❌ | ✅ |
 | Multithreaded architecture | ❌ | ✅ |
 | Hardware-accelerated video | ❌ | ✅ |
@@ -144,9 +144,11 @@ Scores will already have performance points calculated (you can see this in the 
 
 Lazer currently uses a new experimental score implementation which is similar to ScoreV2 but not the same. This is still in development and we are looking for more feedback on how it feels in various contexts (solo play, leaderboards, tournaments etc.)
 
-#### I prefer the classic scoring display, where scores get really big. Why was this changed?
+<!-- lint ignore no-heading-punctuation -->
 
-You can actually change the "Score display mode" in settings to "Classic" to get back the explosive style of scoring game-wide! It won't be a perfect match, but will give you the same feel of classic scoring and be applied everywhere you'd expect it to be.
+#### I prefer the classic scoring display, where scores get really big.
+
+You can actually change the `Score display mode` setting to `Classic` to get back the explosive style of scoring game-wide! It won't be a perfect match, but will give you the same feel of classic scoring and be applied everywhere you'd expect it to be.
 
 #### If I set a score on lazer, will it remain forever?
 
@@ -182,7 +184,7 @@ We will likely bring back support for this in the future due to popular demand.
 
 #### Why can't I run at unlimited FPS?
 
-There is no reason to run at high frame rates. Lazer employs various new technologies to ensure the lowest latency is achievable without requiring high frame rates. This will continue to improve going forward as we still have a few improvements left to implement.
+Above a certain threshold there is no reason to run at higher frame rates. Lazer employs various new technologies to ensure the lowest latency is achievable without requiring high frame rates. This will continue to improve going forward as we still have a few improvements left to implement.
 
 Lazer polls for input at 1000 Hz regardless of FPS limiter, which is why the maximum limiter setting will also limit to 1000 FPS.
 
@@ -194,7 +196,7 @@ The operating system will still poll at the higher rate, although benefits are p
 
 #### Lazer performs worse than stable for me. What gives?
 
-While on most modern hardware we see lazer outperform stable, there are always edge cases when each user has a different hardware configuration. In our short-term roadmap, we are looking to support Direct X (aka "compatibility mode" on stable) and Vulkan, which both have better driver support than OpenGL across all hardware. Once this is implemented, performance on hardware like Intel integrated chipsets will improve greatly.
+While on most modern hardware we see lazer outperform stable, there are always edge cases when each user has a different hardware configuration. In our short-term roadmap, we are looking to support DirectX (aka "compatibility mode" on stable) and Vulkan, which both have better driver support than OpenGL across all hardware. Once this is implemented, performance on hardware like Intel integrated chipsets will improve greatly.
 
 ### Providing feedback
 
@@ -220,7 +222,7 @@ There are also some additional benefits already:
 
 - Supporters can create playlists that last longer
 
-We do intend to look into new benefits in the future, but our focus is currently on feature parity with stable so please use your supporter tag purchase as a way to.. support the game's development!
+We do intend to look into new benefits in the future, but our focus is currently on feature parity with stable so please use your supporter tag purchase as a way to... support the game's development!
 
 #### If I cheat on lazer will I be banned?
 
