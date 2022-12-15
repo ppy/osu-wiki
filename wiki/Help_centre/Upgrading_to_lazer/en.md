@@ -19,7 +19,7 @@ The following is a comprehensive list of the **current state** of lazer in compa
 ### Compatibility and performance
 
 | Feature | stable | lazer |
-| :-- | :-: | :-: |:f
+| :-- | :-: | :-: |
 | Windows 8.0 and lower | ✅ | ❌ |
 | macOS / Linux | 🟠 (using wine) | ✅ |
 | DirectX / Vulkan | 🟠 (DirectX via compatibility mode) | ❌ (coming soon) |
