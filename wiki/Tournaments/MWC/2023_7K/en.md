@@ -16,7 +16,7 @@ The **osu!mania 7K World Cup 2023** (***MWC 7K 2023***) is an upcoming country-b
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2023-12-15/2023-12-29 |
+| Registration phase | 2022-12-15/2023-12-29 |
 | Qualifier showcase | 2023-01-08 (14:00 UTC) |
 | Qualifier stage | 2023-01-14/2023-01-15 |
 | Round of 16 | 2023-01-21/2023-01-22 |
