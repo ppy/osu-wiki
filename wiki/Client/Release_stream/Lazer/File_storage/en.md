@@ -36,7 +36,7 @@ On most Windows systems, osu!(lazer) will be able to import data from the stable
 
 A hard link is conceptually similar to a *shortcut* in that it is a method that allows a user to have the same file available from multiple different places on their filesystem. However, while shortcuts are just plain files that point to a different file (and therefore require additional space), hard links work one level deeper, at the level of the filesystem itself.
 
-In simple terms, two hard-linked files are just two different names for the same piece of physical space on the hard drive. The same data is available through either of those names. This means that once the migration completes using hard links, both the `Songs` folder in stable, and the `files` folder in lazer will contain files which will point to shared underlying data on the disk. Deleting files from one installation will not affect the other. Updating or editing files in one installation will also not affect the other if osu! is used to make changes, rather than external applications.
+In simple terms, two hard-linked files are just two different names for the same piece of physical space on the hard drive. This means that once the migration completes using hard links, both the `Songs` folder in stable, and the `files` folder in lazer will contain files which will point to shared underlying data on the disk. Deleting files from one installation will not affect the other. Updating or editing files causes the files to become separate, and will therefore also not affect the other installation, as long as osu! is used to make the changes.
 
 Note that if disk usage is checked using the `Properties` window in Explorer or any other similar method, it will appear that both the `Songs` directory and the `files` directory are consuming disk space, potentially misleading users to think that the data is stored twice. This is an artifact of file size accounting, and the actual underlying data is **not** duplicated. This can be verified by comparing the total amount of free space on the entire disk before and after the migration.
 
@@ -44,4 +44,4 @@ As hard links are a filesystem-level feature, it is required that the hard-linke
 
 ### Via file copy
 
-On other operating systems and filesystems where hard links are not available (or the functionality to create them has not been implemented yet), the migration from stable to lazer works by copying all files across from the old installation to the new. Both installs are therefore fully separated, but also consume twice the disk space.
+On other operating systems and filesystems where hard links are not available (or the functionality to create them has not been implemented yet), the migration from stable to lazer works by copying all files across from the old installation to the new. Both installs are therefore fully separated, but also consume up to twice the disk space.
