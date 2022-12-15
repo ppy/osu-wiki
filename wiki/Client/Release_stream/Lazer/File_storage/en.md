@@ -34,18 +34,13 @@ At the time of writing, the correct procedure to manually modify skins or beatma
 
 On most Windows systems, osu!(lazer) will be able to import data from the stable version of the game without having to create a second copy of the data on disk. This is possible thanks to an operating system feature called *hard links*.
 
-A hard link is conceptually similar to a *shortcut* (also known as a *symbolic link*), in that it is a method that allows a user to have the same file available from multiple different places on their filesystem. However, while shortcuts are just plain files that point to a different file (and therefore require additional space), hard links work one level deeper, at the level of the filesystem itself.
+A hard link is conceptually similar to a *shortcut* in that it is a method that allows a user to have the same file available from multiple different places on their filesystem. However, while shortcuts are just plain files that point to a different file (and therefore require additional space), hard links work one level deeper, at the level of the filesystem itself.
 
-In simpler terms, two hard-linked files are just two different names for the same piece of physical space on the hard drive. The same data is available through either of those names, which has several other implications:
-
-- If a file is edited using one of those names, then the other name will immediately see the same changes applied to it.
-- If a file is moved or deleted through one of those names, the other name is not affected at all. Compare this to shortcuts, where moving or deleting the original file breaks the shortcut, because there is now nothing to point to.
-
-After a migration has been completed using hard links, both the `Songs` folder in stable, and a `files` folder in lazer will contain the same beatmaps, but the files inside both will point to the same data on the disk. Deleting songs in one installation will not affect the other. Updating or editing beatmaps in one installation will also not affect the other, as long as osu! is used to make changes, rather than external applications.
-
-This method is the most efficient way of sharing the same files between lazer and stable installs, because it incurs no overhead on either end. However, because it is a filesystem-level feature, it requires that the hard-linked files reside on a common drive, and that the drive is formatted using NTFS.
+In simple terms, two hard-linked files are just two different names for the same piece of physical space on the hard drive. The same data is available through either of those names. This means that once the migration completes using hard links, both the `Songs` folder in stable, and the `files` folder in lazer will contain files which will point to shared underlying data on the disk. Deleting files from one installation will not affect the other. Updating or editing files in one installation will also not affect the other if osu! is used to make changes, rather than external applications.
 
 Note that if disk usage is checked using the `Properties` window in Explorer or any other similar method, it will appear that both the `Songs` directory and the `files` directory are consuming disk space, potentially misleading users to think that the data is stored twice. This is an artifact of file size accounting, and the actual underlying data is **not** duplicated. This can be verified by comparing the total amount of free space on the entire disk before and after the migration.
+
+As hard links are a filesystem-level feature, it is required that the hard-linked files reside on a common drive, and that the drive is formatted using NTFS.
 
 ### Via file copy
 
