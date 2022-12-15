@@ -16,7 +16,7 @@ You can donate directly to the prize pool of the upcoming World Cup of your choo
 
 *Please note that any "tips" made during the payment process go to Open Collective and not to us!*
 
-For more details, refer to the **[osu!mania 7K World Cup 2023 wiki article](/wiki/Tournaments/MWC/2023_7K/)**. You can discuss this event in the **[official discussion thread](https://osu.ppy.sh/community/forums/topics/1690687)** or at the public **[community server](https://discord.gg/0Vxo9AsejDkGlk3H)**.
+For more details, refer to the **[osu!mania 7K World Cup 2023 wiki article](wiki/Tournaments/MWC/2023_7K/)**. You can discuss this event in the **[official discussion thread](https://osu.ppy.sh/community/forums/topics/1690687)** or at the public **[community server](https://discord.gg/0Vxo9AsejDkGlk3H)**.
 
 ## Tournament schedule
 
@@ -33,7 +33,7 @@ For more details, refer to the **[osu!mania 7K World Cup 2023 wiki article](/wik
 
 ## Prizes
 
-The osu! World Cup 2022 offers a $1,200 prize pool, along with limited edition merch! The prize pool may increase further from **[community donations](https://opencollective.com/osu-tournaments/events/osu-mania-7k-world-cup-2023-502fec83)**!
+The osu!mania World Cup 2023 offers a $1,200 prize pool, along with limited edition merch! The prize pool may increase further from **[community donations](https://opencollective.com/osu-tournaments/events/osu-mania-7k-world-cup-2023-502fec83)**!
 
 - **1st:** 50% of the prize pool, single-run merch, profile badge, **osu!mania 7K Champion** user title for one year
 - **2nd:** 30% of the prize pool, single-run merch, profile badge
@@ -45,7 +45,7 @@ The osu! World Cup 2022 offers a $1,200 prize pool, along with limited edition m
 - Teams will be formed by each country's captain *after* the registration phase has concluded.
 - **The deadline for registering is December 29, 23:59 UTC. Make sure to get yours in before then!**
 
-*Notice: you may only participate if your position in the osu!mania 7K global ranking is #5000 or higher, and you have not violated the [osu! community rules](/wiki/Rules) in the past 12 months.*
+*Notice: you may only participate if your position in the osu!mania 7K global ranking is #5000 or higher, and you have not violated the [osu! community rules](wiki/Rules) in the past 12 months.*
 
 If your registration passes our internal checks, you will be placed on the candidate list for your country. When that country's captain has been assigned, the list will be sent to them. This may take a while, so please be patient.
 
