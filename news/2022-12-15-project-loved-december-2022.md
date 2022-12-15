@@ -81,7 +81,7 @@ Anyone who's been in the community for a while has played a map with a song made
 [![](/wiki/shared/news/2022-12-15-project-loved-december-2022/55119.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
 [Shibayan - Shock!! (S.S.H. Arrangement)](https://osu.ppy.sh/beatmapsets/55119#osu) by [Snow Note](https://osu.ppy.sh/users/643394)\
-260 – 325 BPM, 2:55 | 6.33★, 6.33★, 7.54★, 7.54★\
+260 – 325 BPM, 2:55 | 5.19★, 6.70★, 8.21★\
 *description written by [rHO](https://osu.ppy.sh/users/1629553)*
 
 *"Blah blah blah... We get it rHO, you love nominating challenging maps into the Loved votings."* And you're right! And I'm going to do it again!
