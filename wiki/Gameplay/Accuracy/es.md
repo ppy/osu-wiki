@@ -62,7 +62,7 @@ ScoreV2 aumenta la ponderación de los rainbow 300 a 305:
 
 El gráfico de rendimiento es un gráfico que muestra el rendimiento del jugador (basado en su barra de vida) en el transcurso de una jugada (tiempo). Se puede mostrar información adicional al pasar el cursor del juego sobre ella.
 
-*Nota: La información adicional solo se puede ver después de jugar un beatmap o ver una repetición. Después de salir de la [pantalla de resultados](/wiki/Client/Interface#results-screen), esta información no se guardará.*
+*Nota: La información adicional solo se puede ver después de jugar un beatmap o ver una repetición. Después de salir de la [pantalla de resultados](/wiki/Client/Interface#pantalla-de-resultados), esta información no se guardará.*
 
 ### Precisión
 
