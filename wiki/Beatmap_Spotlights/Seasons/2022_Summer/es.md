@@ -15,28 +15,28 @@ tags:
 | Evento | Fecha |
 | :-- | :-- |
 | Inicio de la temporada | 11 ago. 2022 |
-| Lobby de lista de juego: Lista de juego A | 11 ago. - 25 ago. 2022 |
-| Lobby de lista de juego: Lista de juego B | 25 ago. - 8 sep. 2022 |
-| Lobby de lista de juego: Lista de juego C | 8 sep. - 22 sep 2022 |
-| Lobby de lista de juego: Lista de juego A | 22 sep - 29 sep 2022 |
-| Lobby de lista de juego: Lista de juego B | 29 sep - 6 oct. 2022 |
-| Lobby de lista de juego: Lista de juego C | 6 oct. - 13 oct. 2022 |
+| Sala de lista de juego: Lista de juego A | 11 ago. - 25 ago. 2022 |
+| Sala de lista de juego: Lista de juego B | 25 ago. - 8 sep. 2022 |
+| Sala de lista de juego: Lista de juego C | 8 sep. - 22 sep 2022 |
+| Sala de lista de juego: Lista de juego A | 22 sep - 29 sep 2022 |
+| Sala de lista de juego: Lista de juego B | 29 sep - 6 oct. 2022 |
+| Sala de lista de juego: Lista de juego C | 6 oct. - 13 oct. 2022 |
 | Conclusión de la temporada | 13 oct 2022 |
 
-## Lobbies multijugador semanales
+## Salas multijugador semanales
 
-A partir de ahora, unirse a los lobbies multijugador semanales requiere que los participantes descarguen e instalen [osu!(lazer)](https://github.com/ppy/osu/releases).
+A partir de ahora, unirse a las salas multijugador semanales requiere que los participantes descarguen e instalen [osu!(lazer)](https://github.com/ppy/osu/releases).
 
-1. Cada 2 semanas de una temporada, se abre un solo lobby de lista de juego. Todos pueden participar durante las dos semanas.
-   - Después de la primera ola de lobbies, las listas de juego se abrirán nuevamente semanalmente.
-2. Cada lobby de lista de juego proporciona una lista de juego predeterminada de beatmaps.
+1. Cada 2 semanas de una temporada, se abre una sola sala de lista de juego. Todos pueden participar durante las dos semanas.
+   - Después de la primera ola de salas, las listas de juego se abrirán nuevamente semanalmente.
+2. Cada sala de lista de juego proporciona una lista de juego predeterminada de beatmaps.
    - Cada lista de juego contiene una distribución uniforme de beatmaps Hard, Insane y Expert.
    - Cada lista de juego se corresponde con la letra asignada a cada 2 semanas. Por lo tanto, cada lista de juego se reproduce una vez durante una temporada.
-3. Dentro de un lobby de lista de juego, todos compiten hacia una tabla de clasificación específica de la sala.
+3. Dentro de una sala de lista de juego, todos compiten hacia una tabla de clasificación específica de la sala.
    - Solo los mejores resultados de puntuación en cada beatmap dentro de la lista de juego se resumen para crear una puntuación semanal para cada jugador.
    - Cada beatmap de una lista de juego cuenta por igual para la puntuación de la tabla de clasificación.
    - La puntuación del beatmap individual se basa en el sistema de puntuación de osu!(lazer).
-4. Una vez que concluye el lobby de una lista de juego, la puntuación semanal de cada participante de la sala se agrega a la tabla de clasificación de la temporada.
+4. Una vez que concluye la sala de una lista de juego, la puntuación semanal de cada participante de la sala se agrega a la tabla de clasificación de la temporada.
 
 ## Listas de juego
 

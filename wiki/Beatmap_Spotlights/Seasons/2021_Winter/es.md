@@ -15,32 +15,32 @@ tags:
 | Evento | Fecha |
 | :-- | :-- |
 | Inicio de la temporada | 18 ene. 2021 |
-| Lobby temporal: Lista de juego A | 18 ene. - 25 ene. 2021 |
-| Lobby temporal: Lista de juego B | 25 ene. - 1 feb. 2021 |
-| Lobby temporal: Lista de juego C | 1 feb. - 8 feb. 2021 |
-| Lobby temporal: Lista de juego D | 8 feb. - 15 feb. 2021 |
+| Sala temporal: Lista de juego A | 18 ene. - 25 ene. 2021 |
+| Sala temporal: Lista de juego B | 25 ene. - 1 feb. 2021 |
+| Sala temporal: Lista de juego C | 1 feb. - 8 feb. 2021 |
+| Sala temporal: Lista de juego D | 8 feb. - 15 feb. 2021 |
 | Descanso | 15 feb. - 22 feb. 2021 |
-| Lobby temporal: Lista de juego A | 22 feb. - 1 mar. 2021 |
-| Lobby temporal: Lista de juego B | 1 mar. - 8 mar. 2021 |
-| Lobby temporal: Lista de juego C | 8 mar. - 15 mar. 2021 |
-| Lobby temporal: Lista de juego D | 15 mar. - 22 mar. 2021 |
+| Sala temporal: Lista de juego A | 22 feb. - 1 mar. 2021 |
+| Sala temporal: Lista de juego B | 1 mar. - 8 mar. 2021 |
+| Sala temporal: Lista de juego C | 8 mar. - 15 mar. 2021 |
+| Sala temporal: Lista de juego D | 15 mar. - 22 mar. 2021 |
 | Conclusión de la temporada | 22 mar. 2021 |
 
-## Lobbies multijugador semanales
+## Salas multijugador semanales
 
-A partir de ahora, unirse a los lobbies multijugador semanales requiere que los participantes descarguen e instalen [osu!(lazer)](https://github.com/ppy/osu/releases).
+A partir de ahora, unirse a las salas multijugador semanales requiere que los participantes descarguen e instalen [osu!(lazer)](https://github.com/ppy/osu/releases).
 
-1. Cada viernes de una temporada, se abre un solo lobby multijugador temporal. Todos pueden participar durante toda la semana.
-   - Habrá un intervalo de una semana, después del cual los lobbies para cada lista de juego se abrirán nuevamente semanalmente.
-2. Cada lobby multijugador temporal proporciona una lista de juego predefinida de beatmaps.
+1. Cada viernes de una temporada, se abre una sola sala multijugador temporal. Todos pueden participar durante toda la semana.
+   - Habrá un intervalo de una semana, después del cual las salas para cada lista de juego se abrirán nuevamente semanalmente.
+2. Cada sala multijugador temporal proporciona una lista de juego predefinida de beatmaps.
    - Cada lista de juego es un subconjunto de la lista completa de beatmaps seleccionados para la temporada actual.
    - Cada lista de juego contiene una distribución uniforme de beatmaps Hard, Insane y Expert.
    - Cada lista de juego se corresponde con la letra asignada a cada semana. Por lo tanto, cada lista de juego se reproduce 3 veces durante una temporada.
-3. Dentro de un lobby temporal, todos compiten por una tabla de clasificación específica de la sala.
+3. Dentro de una sala temporal, todos compiten por una tabla de clasificación específica de la sala.
    - Las tablas de clasificación de las salas se basan en el sistema de puntuación clasificado. Por lo tanto, solo se suman los mejores resultados de puntuación en cada beatmap dentro de la lista de juego para crear una puntuación semanal para cada usuario.
    - Cada beatmap de una lista de juego cuenta por igual para la puntuación de la tabla de clasificación. Las dificultades más difíciles no proporcionan más puntuación.
    - La puntuación individual del beatmap se basa en el sistema de puntuación de osu!(lazer).
-4. Una vez que concluye un lobby temporal, la puntuación semanal de cada participante de la sala se agrega a la tabla de clasificación de la temporada.
+4. Una vez que concluye una sala temporal, la puntuación semanal de cada participante de la sala se agrega a la tabla de clasificación de la temporada.
 
 ## Listas de juego
 

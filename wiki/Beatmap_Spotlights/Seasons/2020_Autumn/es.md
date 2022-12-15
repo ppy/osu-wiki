@@ -15,23 +15,23 @@ tags:
 | Evento | Fecha |
 | :-- | :-- |
 | Inicio de la temporada | 9 oct. 2020 |
-| Lobby temporal: Lista de juego A | 9 oct. - 16 oct. 2020 |
-| Lobby temporal: Lista de juego B | 16 oct. - 23 oct. 2020 |
-| Lobby temporal: Lista de juego C | 23 oct. - 30 oct. 2020 |
-| Lobby temporal: Lista de juego D | 30 oct. - 6 nov. 2020 |
+| Sala temporal: Lista de juego A | 9 oct. - 16 oct. 2020 |
+| Sala temporal: Lista de juego B | 16 oct. - 23 oct. 2020 |
+| Sala temporal: Lista de juego C | 23 oct. - 30 oct. 2020 |
+| Sala temporal: Lista de juego D | 30 oct. - 6 nov. 2020 |
 | Descanso | 6 nov. - 13 nov. 2020 |
-| Lobby temporal: Lista de juego A | 13 nov. - 20 nov. 2020 |
+| Sala temporal: Lista de juego A | 13 nov. - 20 nov. 2020 |
 | Descanso | 20 nov. - 27 nov. 2020 |
-| Lobby temporal: Lista de juego B | 27 nov. - 4 dic. 2020 |
-| Lobby temporal: Lista de juego C | 4 dic. - 11 dic. 2020 |
-| Lobby temporal: Lista de juego D | 11 dic. - 29 dic. 2020 |
+| Sala temporal: Lista de juego B | 27 nov. - 4 dic. 2020 |
+| Sala temporal: Lista de juego C | 4 dic. - 11 dic. 2020 |
+| Sala temporal: Lista de juego D | 11 dic. - 29 dic. 2020 |
 | Conclusión de la temporada | 18 dic. 2020 |
 
-## Lobbies multijugador semanales
+## Salas multijugador semanales
 
-A partir de ahora, unirse a los lobbies multijugador semanales requiere que los participantes descarguen e instalen [osu!(lazer)](https://github.com/ppy/osu/releases).
+A partir de ahora, unirse a las salas multijugador semanales requiere que los participantes descarguen e instalen [osu!(lazer)](https://github.com/ppy/osu/releases).
 
-1. Los lobbies estarán abiertos durante toda la semana.
+1. Las salas estarán abiertos durante toda la semana.
 2. La lista de juego ahora también incluirá mods
    - Los mapas con modificaciones son duplicados del original y su propósito es desafiar a los jugadores experimentados.
    - No habrá modificaciones disponibles para el modo osu!taiko debido a limitaciones de lazer en esta temporada

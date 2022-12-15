@@ -15,38 +15,38 @@ tags:
 | Evento | Fecha |
 | :-- | :-- |
 | Inicio de la temporada | 6 jul. 2020 |
-| Lobby temporal: Lista de juego A | 10 jul. - 12 jul. 2020 |
-| Lobby temporal: Lista de juego B | 17 jul. - 19 jul. 2020 |
-| Lobby temporal: Lista de juego C | 24 jul. - 26 jul. 2020 |
-| Lobby temporal: Lista de juego D | 31 jul. - 2 ago. 2020 |
-| Lobby temporal: Lista de juego A | 7 ago. - 9 ago. 2020 |
-| Lobby temporal: Lista de juego B | 14 ago. - 16 ago. 2020 |
-| Lobby temporal: Lista de juego C | 21 ago. - 23 ago. 2020 |
-| Lobby temporal: Lista de juego D | 28 ago. - 30 ago. 2020 |
-| Lobby temporal: Listas de juego A y B | 4 sep. - 6 sep. 2020 |
-| Lobby temporal: Listas de juego C y D | 11 sep. - 13 sep. 2020 |
+| Sala temporal: Lista de juego A | 10 jul. - 12 jul. 2020 |
+| Sala temporal: Lista de juego B | 17 jul. - 19 jul. 2020 |
+| Sala temporal: Lista de juego C | 24 jul. - 26 jul. 2020 |
+| Sala temporal: Lista de juego D | 31 jul. - 2 ago. 2020 |
+| Sala temporal: Lista de juego A | 7 ago. - 9 ago. 2020 |
+| Sala temporal: Lista de juego B | 14 ago. - 16 ago. 2020 |
+| Sala temporal: Lista de juego C | 21 ago. - 23 ago. 2020 |
+| Sala temporal: Lista de juego D | 28 ago. - 30 ago. 2020 |
+| Sala temporal: Listas de juego A y B | 4 sep. - 6 sep. 2020 |
+| Sala temporal: Listas de juego C y D | 11 sep. - 13 sep. 2020 |
 | Conclusión de la temporada | 14 sep. - 18 sep. 2020 |
 
-## Lobbies multijugador semanales
+## Salas multijugador semanales
 
-A partir de ahora, unirse a los lobbies multijugador semanales requiere que los participantes descarguen e instalen [osu!(lazer)](https://github.com/ppy/osu/releases).
+A partir de ahora, unirse a las salas multijugador semanales requiere que los participantes descarguen e instalen [osu!(lazer)](https://github.com/ppy/osu/releases).
 
-1. Todos los viernes de una temporada, se abre un único lobby multijugador temporal. Todo el mundo puede participar durante 3 días.
-   - En las últimas 2 semanas de una temporada, se abrirá un lobby de multijugador temporal para cada una de las 2 listas de juego.
-2. Cada lobby multijugador temporal proporciona una lista de juego predefinida de beatmaps.
+1. Todos los viernes de una temporada, se abre una sola sala multijugador temporal. Todos pueden participar durante 3 días.
+   - En las últimas 2 semanas de una temporada, se abrirá una sala de multijugador temporal para cada una de las 2 listas de juego.
+2. Cada sala multijugador temporal proporciona una lista de juego predefinida de beatmaps.
    - Cada lista de juego es un subconjunto de la lista completa de beatmaps seleccionados para la temporada actual.
    - Cada lista de juego contiene una distribución uniforme de beatmaps Hard, Insane y Expert.
    - Cada lista de juego se corresponde con la letra asignada a cada semana. Por lo tanto, cada lista de juego se reproduce 3 veces durante una temporada.
-3. Dentro de un lobby temporal, todos compiten por una tabla de clasificación específica de la sala.
+3. Dentro de una sala temporal, todos compiten por una tabla de clasificación específica de la sala.
    - Las tablas de clasificación de las salas se basan en el sistema de puntuación clasificado. Por lo tanto, solo se suman los mejores resultados de puntuación en cada beatmap dentro de la lista de juego para crear una puntuación semanal para cada usuario.
    - Cada beatmap de una lista de juego cuenta por igual para la puntuación de la tabla de clasificación. Las dificultades más difíciles no proporcionan más puntuación.
    - La puntuación individual del beatmap se basa en el sistema de puntuación de osu!(lazer).
-4. La puntuación semanal total visible en el lobby temporal se denomina "puntuación semanal".
-5. Una vez que concluye un lobby temporal, la puntuación semanal de cada participante de la sala se agrega a la tabla de clasificación de la temporada.
+4. La puntuación semanal total visible en la sala temporal se denomina "puntuación semanal".
+5. Una vez que concluye una sala temporal, la puntuación semanal de cada participante de la sala se agrega a la tabla de clasificación de la temporada.
 
 ### Lista de juego A
 
-| Fecha de inicio | Fecha de finalización | Lobbies |
+| Fecha de inicio | Fecha de finalización | Salas |
 | :-- | :-- | :-- |
 | 10/07/2020 (14:00 UTC) | 13/07/2020 (14:00 UTC) | [osu!](https://osu.ppy.sh/multiplayer/rooms/27188), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/27189), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/27190), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/27191) |
 | 07/08/2020 (19:00 UTC) | 10/08/2020 (19:00 UTC) | [osu!](https://osu.ppy.sh/multiplayer/rooms/28880), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/28881), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/28882), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/28883) |
@@ -54,7 +54,7 @@ A partir de ahora, unirse a los lobbies multijugador semanales requiere que los 
 
 ### Lista de juego B
 
-| Fecha de inicio | Fecha de finalización | Lobbies |
+| Fecha de inicio | Fecha de finalización | Salas |
 | :-- | :-- | :-- |
 | 17/07/2020 (16:00 UTC) | 20/07/2020 (16:00 UTC) | [osu!](https://osu.ppy.sh/multiplayer/rooms/27701), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/27702), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/27703), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/27704) |
 | 14/08/2020 (21:00 UTC) | 17/08/2020 (21:00 UTC) | [osu!](https://osu.ppy.sh/multiplayer/rooms/29264), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/29265), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/29266), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/29268) |
@@ -62,7 +62,7 @@ A partir de ahora, unirse a los lobbies multijugador semanales requiere que los 
 
 ### Lista de juego C
 
-| Fecha de inicio | Fecha de finalización | Lobbies |
+| Fecha de inicio | Fecha de finalización | Salas |
 | :-- | :-- | :-- |
 | 24/07/2020 (15:30 UTC) | 27/07/2020 (15:30 UTC) | [osu!](https://osu.ppy.sh/multiplayer/rooms/28134), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/28135), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/28136), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/28137) |
 | 21/08/2020 (20:30 UTC) | 24/08/2020 (20:30 UTC) | [osu!](https://osu.ppy.sh/multiplayer/rooms/29656), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/29657), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/29658), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/29659) |
@@ -70,7 +70,7 @@ A partir de ahora, unirse a los lobbies multijugador semanales requiere que los 
 
 ### Lista de juego D
 
-| Fecha de inicio | Fecha de finalización | Lobbies |
+| Fecha de inicio | Fecha de finalización | Salas |
 | :-- | :-- | :-- |
 | 31/07/2020 (19:00 UTC) | 03/08/2020 (19:00 UTC) | [osu!](https://osu.ppy.sh/multiplayer/rooms/28524), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/28525), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/28526), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/28527) |
 | 28/08/2020 (19:00 UTC) | 31/08/2020 (19:00 UTC) | [osu!](https://osu.ppy.sh/multiplayer/rooms/30218), [osu!taiko](https://osu.ppy.sh/multiplayer/rooms/30220), [osu!catch](https://osu.ppy.sh/multiplayer/rooms/30221), [osu!mania](https://osu.ppy.sh/multiplayer/rooms/30222) |
