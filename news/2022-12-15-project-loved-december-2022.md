@@ -82,7 +82,6 @@ Anyone who's been in the community for a while has played a map with a song made
 
 [Shibayan - Shock!! (S.S.H. Arrangement)](https://osu.ppy.sh/beatmapsets/55119#osu) by [Snow Note](https://osu.ppy.sh/users/643394)\
 260 – 325 BPM, 2:55 | 6.33★, 6.33★, 7.54★, 7.54★\
-The \[Insane\] difficulty is *not* being nominated for Loved.\
 *description written by [rHO](https://osu.ppy.sh/users/1629553)*
 
 *"Blah blah blah... We get it rHO, you love nominating challenging maps into the Loved votings."* And you're right! And I'm going to do it again!
