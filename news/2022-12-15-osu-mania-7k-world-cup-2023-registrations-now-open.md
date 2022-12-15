@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "osu!mania 7K World Cup 2023: Registrations now open!"
+title: "osu!mania 7K World Cup 2023: Registrations Now Open!"
 date: 2022-12-15 08:00:00 +0000
 ---
 
-Happy holidays! We're back with another year of tournament excitement, and to kick things off we're bringing you the gift of... 7 keys? The osu!mania 7K World Cup 2023 is now open for registrations!
+Happy holidays! We're back with another year of tournament excitement, and to kick things off we're bringing you the gift of... 7 keys! The osu!mania 7K World Cup 2023 is now open for registrations!
 
 ![](/wiki/Tournaments/MWC/2023_7K/img/mwc7k-2023-banner.jpg)
 
