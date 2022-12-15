@@ -43,7 +43,7 @@ Mistakes happen and a healthy amount will help with learning, but if they happen
 
 ## Common reset reasons
 
-*Makes up 90% of resets.*
+*Makes up 90% of all resets.*
 
 Here is an exhaustive list of reasons nominations have been reset for with their respective SEV rating. These are based on stats of all SEV ratings set in the osu! game mode from February 2020 to April 2021, with percentages to show how common issues are.
 
@@ -51,7 +51,7 @@ This list does not cover every possible reset reason, and the NAT may rate reset
 
 ### Metadata
 
-*Makes up 22% of notable resets, 30% of resets.*
+*Makes up 22% of all >0/0 resets, 30% of all resets.*
 
 Metadata resets *never* have a severity above 0, as they do not affect gameplay.
 
@@ -73,7 +73,7 @@ Metadata resets *never* have a severity above 0, as they do not affect gameplay.
 
 ### Mapping
 
-*Makes up 23% of notable resets, 18% of resets.*
+*Makes up 23% of all >0/0 resets, 18% of all resets.*
 
 Resets due to mapping issues rarely have 2 in obviousness, as they require good mapping/modding knowledge to identify easily.
 
@@ -93,7 +93,7 @@ Resets due to mapping issues rarely have 2 in obviousness, as they require good 
 
 ### Timing
 
-*Makes up 15% of notable resets, 8% of resets.*
+*Makes up 15% of all >0/0 resets, 8% of all resets.*
 
 - **0/0:** (20%)
   - Adjusting the preview point/kiai time
@@ -111,7 +111,7 @@ Resets due to mapping issues rarely have 2 in obviousness, as they require good 
 
 ### Files
 
-*Makes up 13% of notable resets, 16% of resets.*
+*Makes up 13% of all >0/0 resets, 16% of all resets.*
 
 Resets related to beatmap files almost never have a severity above 0, as they usually do not affect gameplay. An exception is using storyboarded hitsounds as replacement for active ones.
 
@@ -130,7 +130,7 @@ Resets related to beatmap files almost never have a severity above 0, as they us
 
 ### Snapping
 
-*Makes up 9% of notable resets, 4% of resets.*
+*Makes up 9% of all >0/0 resets, 4% of all resets.*
 
 - **0/0:** (11%)
   - AiMod incorrectly detecting an object less than 2 ms off as unsnapped
@@ -149,7 +149,7 @@ Resets related to beatmap files almost never have a severity above 0, as they us
 
 ### Hitsounding
 
-*Makes up 7% of notable resets, 11% of resets.*
+*Makes up 7% of all >0/0 resets, 11% of all resets.*
 
 - **0/0:** (73%)
   - Adding a few missing hitsounds
