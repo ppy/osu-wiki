@@ -68,7 +68,7 @@ The following is a comprehensive list of the **current state** of lazer in compa
 | Beatmap listing | 🟠[^direct-supporter] | ✅ |
 | Unlimited multiplayer room size | ❌[^multi-room-max] | ✅ |
 | Multiplayer spectating | ❌ | ✅ |
-| Countdown timers | 🟠[^countdown-timers-stable] | ✅ [^countdown-timers-lazer] |
+| Countdown timers | 🟠[^countdown-timers-stable] | ✅[^countdown-timers-lazer] |
 | Queue modes | ❌ | ✅[^queue-modes] |
 | Multiplayer commands | ✅ | ❌ |
 | Tag co-op | ✅ | ❌ |
