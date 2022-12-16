@@ -7,7 +7,7 @@ Par défaut, osu!(lazer) stocke les fichiers de beatmaps, de skins, et de replay
 - `~/Library/Application Support/osu/files` (macOS),
 - `Android/data/sh.ppy.osulazer/files/files` (Android).
 
-Sur les plateformes de PC, le magasin de fichiers peut aussi être bougé dans son entièreté vers une autre emplacement, en appuyant sur le bouton `Changer l'emplacement du dossier...`
+Sur les plateformes PC, le stockage de fichiers peut aussi être bougé dans son entièreté vers une autre emplacement, en appuyant sur le bouton `Changer l'emplacement du dossier...`
 
 ## Structure de stockage
 
@@ -27,19 +27,19 @@ files/1/1a/1a47929b6056d34d25a95eeb2012395ceed66af6f40cc37c898a08482d6325d2
 
 Cela permet d'économiser de l'espace de stockage en évitant les duplications du même fichier sur le disque, et empêche les utilisateurs (ou autres applications) d'altérer des fichiers qui ne devraient pas l'être. Tous les inconvénients qui découlent de ce choix par rapport à stable ont été résolus soit en autorisant l'exportation, soit en ajoutant des fonctionnalités de gestion en jeu, ou seront abordés en temps voulu avec de nouvelles fonctionnalités.
 
-Pour le moment, la procédure correcte pour manuellement modifier les skins ou les beatmaps en dehors des fonctions disponibles en jeu et d'exporter l'élément en question, le mettre à jour, et ensuite le réimporter à nouveau avec les changements désirés.
+Pour le moment, la procédure correcte pour manuellement modifier les skins ou les beatmaps en dehors des fonctions disponibles en jeu est d'exporter l'élément en question, le mettre à jour, et ensuite le réimporter à nouveau avec les changements désirés.
 
 ## Migration depuis osu!(stable)
 
 ### Avec des liens physiques
 
-Sur la plupart des systèmes Windows, osu!(lazer) va être capable d'importer des données depuis la version stable du jeu sans avoir à créer de seconde copy des données sur le disque. Cela est possible grâce à une fonctionnalité du système d'exploitation appelée *"liens physiques"*.
+Sur la plupart des systèmes Windows, osu!(lazer) va être capable d'importer des données depuis la version stable du jeu sans avoir à créer de seconde copie des données sur le disque. Cela est possible grâce à une fonctionnalité du système d'exploitation appelée *"liens physiques"*.
 
-Un lien physique est conceptuellement semblable à un *raccourci* dû au fait que c'est une méthode qui permet à un utilisateur d'avoir le même fichier depuis différents emplacements sur leur système de fichiers. Cependant, alors que les raccourcis sont juste des textes pleins qui pointent vers un fichier différent (et requiert alors un espace additionnel), les liens physiques fonctionnent un niveau plus profond, au niveau du système de fichier en lui-même.
+Un lien physique est conceptuellement semblable à un *raccourci* dû au fait que c'est une méthode qui permet à un utilisateur d'avoir le même fichier à différents emplacements sur leur système de fichiers. Cependant, alors que les raccourcis ne sont juste que des textes pleins qui pointent vers un fichier différent (et requièrent alors un espace additionnel), les liens physiques fonctionnent un niveau plus profond, au niveau du système de fichiers en lui-même.
 
 Pour faire simple, deux fichiers liés physiquement sont simplement deux différents noms pour le même fragment d'espace sur le disque dur. Cela veut dire qu'une fois que la migration se termine via des liens physiques, les dossiers `Songs` (sur stable) et `files` (sur lazer) vont tous les deux contenir des fichiers qui pointent vers des données partagées sur le disque. Supprimer des fichiers sur une installation ne va pas affecter l'autre. Mettre à jour ou éditer les fichiers entraînera la séparation des fichiers, et ne vont pas non plus affecter l'autre installation, tant qu'osu! est habitué à faire ces changements.
 
-À noter que si l'utilisation du disque est vérifié depuis la fenêtre `Propriétés` dans l'Explorateur ou quelconque autre méthode similaire, il semblerait que les dossiers `Songs` et `files` utilisent de l'espace disque, qui peut potentiellement induire en erreur les utilisateur à penser que les données sont stockées deux fois. C'est un artéfact de la détermination de taille, et les vraies données stockées sur le disque ne sont **pas** dupliquées. Cela peut être vérifié en comparant la valeur totale de l'espace disponible sur le disque entier avant et après la migration.
+À noter que si l'utilisation du disque est vérifié depuis la fenêtre `Propriétés` dans l'Explorateur ou quelconque autre méthode similaire, il semblerait que les dossiers `Songs` et `files` utilisent de l'espace disque, ce qui peut potentiellement induire en erreur les utilisateur à penser que les données sont stockées deux fois. C'est un artéfact de la détermination de taille, et les vraies données stockées sur le disque ne sont **pas** dupliquées. Cela peut être vérifié en comparant la valeur totale de l'espace disponible sur le disque entier avant et après la migration.
 
 Comme les liens physiques sont une fonctionnalité au niveau du système de fichiers, il est obligatoire que les deux fichiers liés physiquement se trouvent sur un même disque, et que ce disque soit formaté avec le format NTFS.
 
