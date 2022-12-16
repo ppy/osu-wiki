@@ -1,5 +1,4 @@
 ---
-stub: true
 tags:
   - game client
 ---
@@ -19,7 +18,7 @@ The following is a comprehensive list of the **current state** of lazer in compa
 ### Compatibility and performance
 
 | Feature | stable | lazer |
-| :-- | :-: | :-: |
+| :-- | :-- | :-- |
 | Windows 8.0 and lower | ✅ | ❌ |
 | macOS / Linux | 🟠[^wine] | ✅ |
 | DirectX / Vulkan | 🟠[^compatibility-mode] | ❌[^coming-soon] |
@@ -34,7 +33,7 @@ The following is a comprehensive list of the **current state** of lazer in compa
 ### UI and skinning
 
 | Feature | stable | lazer |
-| :-- | :-: | :-: |
+| :-- | :-- | :-- |
 | Skin support | ✅ | 🟠[^gameplay-only] |
 | Song select grouping modes | ✅ | ❌ |
 | In-game skin / UI layout editing | ❌ | ✅ |
@@ -42,7 +41,7 @@ The following is a comprehensive list of the **current state** of lazer in compa
 ### Gameplay and skinning
 
 | Feature | stable | lazer |
-| :-- | :-: | :-: |
+| :-- | :-- | :-- |
 | Accurate performance point display | 🟠[^online] | ✅ |
 | Mod presets | ❌ | ✅ |
 | Per-mod settings | ❌ | ✅ |
@@ -57,7 +56,7 @@ The following is a comprehensive list of the **current state** of lazer in compa
 ### Online systems
 
 | Feature | stable | lazer |
-| :-- | :-: | :-: |
+| :-- | :-- | :-- |
 | Score submission | ✅ | 🟠[^score-reset-balance] |
 | Beatmap leaderboards | ✅ | 🟠[^score-reset-isolated] |
 | Profile statistics | ✅ | ✅ |
@@ -76,7 +75,7 @@ The following is a comprehensive list of the **current state** of lazer in compa
 ### Editor
 
 | Feature | stable | lazer |
-| :-- | :-: | :-: |
+| :-- | :-- | :-- |
 | osu!taiko editor | ❌ | ✅ |
 | osu!catch editor | ❌ | ✅ |
 | osu!mania editor | ✅ | ✅ |
