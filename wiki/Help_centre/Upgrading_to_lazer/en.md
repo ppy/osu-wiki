@@ -67,7 +67,6 @@ The following is a comprehensive list of the **current state** of lazer in compa
 | Wiki / News / Changelog / Rankings | ❌ | ✅[^online-content] |
 | User profiles | ❌ | ✅ |
 | Beatmap listing | 🟠[^direct-supporter] | ✅ |
-| Changelog | ❌ | ✅ |
 | Unlimited multiplayer room size | ❌[^multi-room-max] | ✅ |
 | Multiplayer spectating | ❌ | ✅ |
 | Tag co-op | ✅ | ❌ |
