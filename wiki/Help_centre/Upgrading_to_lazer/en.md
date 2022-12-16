@@ -253,7 +253,7 @@ You're likely thinking of another game.
 [^score-reset-balance]: Scores will be reset to ensure balance.
 [^score-reset-isolated]: Scores will be reset, currently isolated from stable scores.
 [^online-content]: Native access to most online content.
-[^direct-supporter]: Osu!direct, osu!supporter-only.
+[^direct-supporter]: osu!direct, osu!supporter-only.
 [^multi-room-max]: 16 players max.
 [^map-only]: Map only.
 [^all-files]: All files.
