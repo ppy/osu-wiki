@@ -48,7 +48,7 @@ The following is a comprehensive list of the **current state** of lazer in compa
 | New "fun" mods | ❌ | ✅ |
 | Combo colour normalisation[^normalisation] | ❌ | ✅ |
 | Hold for HUD | ❌ | ✅[^hold-for-hud] |
-| Offset calibration | ❌ | ✅[^offset-calibration] |
+| Offset calibration | 🟠[^offset-calibration-stable] | ✅[^offset-calibration-lazer] |
 | osu! sliders "snake" while dragging | ❌ | ✅[^can-disable] |
 | osu! player-friendly "note lock" | ❌ | ✅[^note-lock] |
 | osu!mania timing-based note colouring | ❌ | ✅ |
@@ -245,7 +245,8 @@ You're likely thinking of another game.
 [^online]: Via online retrieval.
 [^normalisation]: This brings beatmap custom combo colours to the same brightness level.
 [^hold-for-hud]: Hold `Ctrl` to view the HUD momentarily while it's hidden.
-[^offset-calibration]: When retrying a beatmap, you can calibrate the offset based on your last play.
+[^offset-calibration-stable]: Adjustable manually via key bindings.
+[^offset-calibration-lazer]: When retrying a beatmap, you can calibrate the offset based on your last play.
 [^can-disable]: Can be disabled.
 [^note-lock]: Still exists, but should not interfere.
 [^score-reset-balance]: Scores will be reset to ensure balance.
