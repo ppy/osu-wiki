@@ -23,7 +23,7 @@ Los mappers pueden obtener recompensas al participar en el proceso de clasificac
 
 ### Bandas
 
-Las bandas son grupos de mappers que se registran para completar misiones juntos. Los mappers pueden unirse a tantos bandas como quieran a la vez.
+Las bandas son grupos de mappers que se registran para completar misiones juntos. Los mappers pueden unirse a tantas bandas como quieran a la vez.
 
 Las misiones especiales requieren rangos de gremio más altos para participar. Para que una banda califique como un rango más alto, al menos la mitad de sus miembros deben tener el rango requerido o superior.
 
@@ -69,7 +69,7 @@ Siguiendo los pasos de estos dos paquetes de beatmaps, el Mappers' Guild aument�
 
 ### Automatización
 
-Si bien el plan inicial para Mappers' Guild siempre había sido tener elementos MMO como misiones, se descubrió que eso no era práctico de manejar mientras se administraban manualmente los plazos para el número limitado de participantes del gremio. ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) y ::{ flag=CL }:: [Milan-](https://osu.ppy.sh/users/1052994) comenzaron a desarrollar un sitio web para automatizar Mappers' Guild a finales de 2018, lo que permite una distribución más adecuada de las recompensas y la gestión de los sistemas de misiones/bandas.
+Si bien el plan inicial para Mappers' Guild siempre había sido tener elementos MMO como misiones, se descubrió que eso no era práctico de manejar mientras se administraban manualmente los plazos para el número limitado de participantes del gremio. ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) y ::{ flag=CL }:: [Milan-](https://osu.ppy.sh/users/1052994) comenzaron a desarrollar un sitio web para automatizar el Mappers' Guild a finales de 2018, lo que permite una distribución más adecuada de las recompensas y la gestión de los sistemas de misiones/bandas.
 
 El [sitio web de Mappers' Guild](https://mappersguild.com/) se lanzó el 1 de marzo de 2019 y es donde actualmente se controla todo lo relacionado con Mappers' Guild. Desde que se abrió al público, el gremio ha alcanzado un número de miembros de más de 500 y publica [noticias actualizadas](https://osu.ppy.sh/home/news/2019-11-29-featured-artist-beatmap-updates-from-the-mappers-guild) para mantener al resto de la comunidad de osu! al día con el contenido de mapas de artistas destacados.
 
