@@ -62,7 +62,7 @@ The following is a comprehensive list of the **current state** of lazer in compa
 | Profile statistics | ✅ | ✅ |
 | Medals | ✅ | ❌ |
 | Performance points | ✅ | 🟠[^score-reset-isolated] |
-| Real-time chat | ❌ | ✅ |
+| Real-time chat | 🟠[^stable-chat] | ✅ |
 | Wiki / News / Changelog / Rankings | ❌ | ✅[^online-content] |
 | User profiles | ❌ | ✅ |
 | Beatmap listing | 🟠[^direct-supporter] | ✅ |
@@ -258,3 +258,4 @@ You're likely thinking of another game.
 [^all-files]: All files.
 [^editor-precise-rotation]: Missing precise angle rotation.
 [^incompatibilities]: Some editor features will cause beatmaps to play incorrectly in stable — will be fixed soon.
+[^stable-chat]: Messages can take up to 15 seconds to arrive.
