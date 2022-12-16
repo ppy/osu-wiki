@@ -12,10 +12,10 @@ To those who're still unfamiliar with what we do, Project Loved hosts community 
 
 As always, we would like to thank everyone for your participation in the November votes. If you would like to view the results from the previous round, you may do so by clicking the following links:
 
-- [Results for osu!](https://osu.ppy.sh/community/forums/topics/1675562)
-- [Results for osu!taiko](https://osu.ppy.sh/community/forums/topics/1675561)
-- [Results for osu!catch](https://osu.ppy.sh/community/forums/topics/1675560)
-- [Results for osu!mania](https://osu.ppy.sh/community/forums/topics/1675559)
+- [Results for osu!](https://osu.ppy.sh/community/forums/posts/8876751)
+- [Results for osu!taiko](https://osu.ppy.sh/community/forums/posts/8876750)
+- [Results for osu!catch](https://osu.ppy.sh/community/forums/posts/8876749)
+- [Results for osu!mania](https://osu.ppy.sh/community/forums/posts/8876748)
 
 Before we move on with this month's picks, let's talk about some changes within the Project Loved team:
 
