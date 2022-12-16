@@ -21,21 +21,21 @@ The following is a comprehensive list of the **current state** of lazer in compa
 | Feature | stable | lazer |
 | :-- | :-: | :-: |
 | Windows 8.0 and lower | ✅ | ❌ |
-| macOS / Linux | 🟠 (using wine) | ✅ |
-| DirectX / Vulkan | 🟠 (DirectX via compatibility mode) | ❌ (coming soon) |
+| macOS / Linux | 🟠[^wine] | ✅ |
+| DirectX / Vulkan | 🟠[^compatibility-mode] | ❌[^coming-soon] |
 | Mobile support | ❌ | ✅ |
 | Multithreaded architecture | ❌ | ✅ |
 | Hardware-accelerated video | ❌ | ✅ |
 | UI scaling | ❌ | ✅ |
-| Custom rulesets (game modes) | ❌ | 🟠 (manually via `.dll` files) |
-| De-duped file store | ❌ | ✅ (beatmaps and skins will share files and save on disk space) |
+| Custom rulesets (game modes) | ❌ | 🟠[^dll] |
+| De-duped file store | ❌ | ✅[^share-files] |
 | Tablet area adjustment | ❌ | ✅ |
 
 ### UI and skinning
 
 | Feature | stable | lazer |
 | :-- | :-: | :-: |
-| Skin support | ✅ | 🟠 (gameplay only) |
+| Skin support | ✅ | 🟠[^gameplay-only] |
 | Song select grouping modes | ✅ | ❌ |
 | In-game skin / UI layout editing | ❌ | ✅ |
 
@@ -43,35 +43,36 @@ The following is a comprehensive list of the **current state** of lazer in compa
 
 | Feature | stable | lazer |
 | :-- | :-: | :-: |
-| Accurate performance point display | 🟠 (via online retrieval) | ✅ |
+| Accurate performance point display | 🟠[^online] | ✅ |
 | Mod presets | ❌ | ✅ |
 | Per-mod settings | ❌ | ✅ |
 | New "fun" mods | ❌ | ✅ |
-| Combo colour normalisation | ❌ | ✅ (brings beatmap custom combo colours to the same brightness level) |
-| Hold for HUD | ❌ | ✅ (hold `Ctrl` to view the HUD momentarily while it's hidden) |
-| Offset calibration | ❌ | ✅ (when retrying a beatmap, calibrate the offset based on your last play) |
-| osu! sliders "snake" while dragging | ❌ | ✅ (can be disabled) |
-| osu! player-friendly "note lock" | ❌ | ✅ (still exists, but should not interfere) |
+| Combo colour normalisation[^normalisation] | ❌ | ✅ |
+| Hold for HUD | ❌ | ✅[^hold-for-hud] |
+| Offset calibration | ❌ | ✅[^offset-calibration] |
+| osu! sliders "snake" while dragging | ❌ | ✅[^can-disable] |
+| osu! player-friendly "note lock" | ❌ | ✅[^note-lock] |
 | osu!mania timing-based note colouring | ❌ | ✅ |
 
 ### Online systems
 
 | Feature | stable | lazer |
 | :-- | :-: | :-: |
-| Score submission | ✅ | 🟠 (scores will be reset to ensure balance) |
-| Beatmap leaderboards | ✅ | 🟠 (scores will be reset, currently isolated from stable scores) |
+| Score submission | ✅ | 🟠[^score-reset-balance] |
+| Beatmap leaderboards | ✅ | 🟠[^score-reset-isolated] |
 | Profile statistics | ✅ | ✅ |
 | Medals | ✅ | ❌ |
-| Performance points | ✅ | 🟠 (scores will be reset, currently isolated from stable scores) |
+| Performance points | ✅ | 🟠[^score-reset-isolated] |
 | Real-time chat | ❌ | ✅ |
-| Wiki / News / Changelog / Rankings | ❌ | ✅ (native access to most online content) |
+| Wiki / News / Changelog / Rankings | ❌ | ✅[^online-content] |
 | User profiles | ❌ | ✅ |
-| Beatmap listing | 🟠 (osu!direct, osu!supporter-only) | ✅ |
-| Unlimited multiplayer room size | ❌ (16 players max) | ✅ |
+| Beatmap listing | 🟠[^direct-supporter] | ✅ |
+| Changelog | ❌ | ✅ |
+| Unlimited multiplayer room size | ❌[^multi-room-max] | ✅ |
 | Multiplayer spectating | ❌ | ✅ |
 | Tag co-op | ✅ | ❌ |
 | Playlists (user-curated leaderboards) | ❌ | ✅ |
-| Updating beatmaps with online changes | 🟠 (map only) | ✅ (all files) |
+| Updating beatmaps with online changes | 🟠[^map-only] | ✅[^all-files] |
 
 ### Editor
 
@@ -82,10 +83,10 @@ The following is a comprehensive list of the **current state** of lazer in compa
 | osu!mania editor | ✅ | ✅ |
 | Open difficulty as reference | ✅ | ❌ |
 | Per-object SV / volume | ❌ | ✅ |
-| Pattern rotation | ✅ | 🟠 (missing precise angle rotation) |
+| Pattern rotation | ✅ | 🟠[^editor-precise-rotation] |
 | Pattern resizing | ❌ | ✅ |
 | Beatmap submission | ✅ | ❌ |
-| Cross-compatibility | ✅ | 🟠 (some editor features will cause beatmaps to play incorrectly in stable — will be fixed soon) |
+| Cross-compatibility | ✅ | 🟠[^incompatibilities] |
 
 ## Switching to lazer
 
@@ -234,3 +235,27 @@ The same way you usually would.
 #### Where are the microtransactions?
 
 You're likely thinking of another game.
+
+### Notes
+
+[^wine]: Using wine.
+[^compatibility-mode]: DirectX via compatibility mode.
+[^coming-soon]: Coming soon.
+[^dll]: Manually via `.dll` files.
+[^share-files]: Beatmaps and skins will share files and save on disk space.
+[^gameplay-only]: Gameplay only.
+[^online]: Via online retrieval.
+[^normalisation]: This brings beatmap custom combo colours to the same brightness level.
+[^hold-for-hud]: Hold `Ctrl` to view the HUD momentarily while it's hidden.
+[^offset-calibration]: When retrying a beatmap, you can calibrate the offset based on your last play.
+[^can-disable]: Can be disabled.
+[^note-lock]: Still exists, but should not interfere.
+[^score-reset-balance]: Scores will be reset to ensure balance.
+[^score-reset-isolated]: Scores will be reset, currently isolated from stable scores.
+[^online-content]: Native access to most online content.
+[^direct-supporter]: Osu!direct, osu!supporter-only.
+[^multi-room-max]: 16 players max.
+[^map-only]: Map only.
+[^all-files]: All files.
+[^editor-precise-rotation]: Missing precise angle rotation.
+[^incompatibilities]: Some editor features will cause beatmaps to play incorrectly in stable — will be fixed soon.
