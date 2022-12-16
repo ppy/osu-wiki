@@ -67,7 +67,6 @@ The following is a comprehensive list of the **current state** of lazer in compa
 | Wiki / News / Changelog / Rankings | ❌ | ✅ (native access to most online content) |
 | User profiles | ❌ | ✅ |
 | Beatmap listing | 🟠 (osu!direct, osu!supporter-only) | ✅ |
-| Changelog | ❌ | ✅ |
 | Unlimited multiplayer room size | ❌ (16 players max) | ✅ |
 | Multiplayer spectating | ❌ | ✅ |
 | Tag co-op | ✅ | ❌ |
