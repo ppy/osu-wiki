@@ -1,9 +1,3 @@
----
-tags:
-  - Mapper's Guild
-  - MG
----
-
 # Mappers' Guild
 
 ![](img/mg-logo.png)
