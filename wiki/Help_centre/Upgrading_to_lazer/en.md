@@ -87,6 +87,7 @@ The following is a comprehensive list of the **current state** of lazer in compa
 | Pattern rotation | ✅ | 🟠[^editor-precise-rotation] |
 | Pattern resizing | ❌ | ✅ |
 | Beatmap submission | ✅ | ❌ |
+| Storyboard editor | ✅ | ❌ |
 | Cross-compatibility | ✅ | 🟠[^incompatibilities] |
 
 ## Switching to lazer
