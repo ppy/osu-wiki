@@ -19,76 +19,76 @@ The following is a comprehensive list of the **current state** of lazer in compa
 
 | Feature | stable | lazer |
 | :-- | :-- | :-- |
-| Windows 8.0 and lower | ✅ | ❌ |
-| macOS / Linux | 🟠[^wine] | ✅ |
-| DirectX / Vulkan | 🟠[^compatibility-mode] | ❌[^coming-soon] |
-| Mobile support | ❌ | ✅ |
-| Multithreaded architecture | ❌ | ✅ |
-| Hardware-accelerated video | ❌ | ✅ |
-| UI scaling | ❌ | ✅ |
-| Custom rulesets (game modes) | ❌ | 🟠[^dll] |
-| De-duped file store | ❌ | ✅[^share-files] |
-| Tablet area adjustment | ❌ | ✅ |
+| Windows 8.0 and lower | ![Yes][true] | ![No][false] |
+| macOS / Linux | ![Partial][partial][^wine] | ![Yes][true] |
+| DirectX / Vulkan | ![Partial][partial][^compatibility-mode] | ![No][false][^coming-soon] |
+| Mobile support | ![No][false] | ![Yes][true] |
+| Multithreaded architecture | ![No][false] | ![Yes][true] |
+| Hardware-accelerated video | ![No][false] | ![Yes][true] |
+| UI scaling | ![No][false] | ![Yes][true] |
+| Custom rulesets (game modes) | ![No][false] | ![Partial][partial][^dll] |
+| De-duped file store | ![No][false] | ![Yes][true][^share-files] |
+| Tablet area adjustment | ![No][false] | ![Yes][true] |
 
 ### UI and skinning
 
 | Feature | stable | lazer |
 | :-- | :-- | :-- |
-| Skin support | ✅ | 🟠[^gameplay-only] |
-| Song select grouping modes | ✅ | ❌ |
-| In-game skin / UI layout editing | ❌ | ✅ |
+| Skin support | ![Yes][true] | ![Partial][partial][^gameplay-only] |
+| Song select grouping modes | ![Yes][true] | ![No][false] |
+| In-game skin / UI layout editing | ![No][false] | ![Yes][true] |
 
 ### Gameplay and skinning
 
 | Feature | stable | lazer |
 | :-- | :-- | :-- |
-| Accurate performance point display | 🟠[^online] | ✅ |
-| Mod presets | ❌ | ✅ |
-| Per-mod settings | ❌ | ✅ |
-| New "fun" mods | ❌ | ✅ |
-| Combo colour normalisation[^normalisation] | ❌ | ✅ |
-| Hold for HUD | ❌ | ✅[^hold-for-hud] |
-| Offset calibration | 🟠[^offset-calibration-stable] | ✅[^offset-calibration-lazer] |
-| osu! sliders "snake" while dragging | ❌ | ✅[^can-disable] |
-| osu! player-friendly "note lock" | ❌ | ✅[^note-lock] |
-| osu!mania timing-based note colouring | ❌ | ✅ |
+| Accurate performance point display | ![Partial][partial][^online] | ![Yes][true] |
+| Mod presets | ![No][false] | ![Yes][true] |
+| Per-mod settings | ![No][false] | ![Yes][true] |
+| New "fun" mods | ![No][false] | ![Yes][true] |
+| Combo colour normalisation[^normalisation] | ![No][false] | ![Yes][true] |
+| Hold for HUD | ![No][false] | ![Yes][true][^hold-for-hud] |
+| Offset calibration | ![Partial][partial][^offset-calibration-stable] | ![Yes][true][^offset-calibration-lazer] |
+| osu! sliders "snake" while dragging | ![No][false] | ![Yes][true][^can-disable] |
+| osu! player-friendly "note lock" | ![No][false] | ![Yes][true][^note-lock] |
+| osu!mania timing-based note colouring | ![No][false] | ![Yes][true] |
 
 ### Online systems
 
 | Feature | stable | lazer |
 | :-- | :-- | :-- |
-| Score submission | ✅ | 🟠[^score-reset-balance] |
-| Beatmap leaderboards | ✅ | 🟠[^score-reset-isolated] |
-| Profile statistics | ✅ | ✅ |
-| Medals | ✅ | ❌ |
-| Performance points | ✅ | 🟠[^score-reset-isolated] |
-| Real-time chat | 🟠[^stable-chat] | ✅ |
-| Wiki / News / Changelog / Rankings | ❌ | ✅[^online-content] |
-| User profiles | ❌ | ✅ |
-| Beatmap listing | 🟠[^direct-supporter] | ✅ |
-| Unlimited multiplayer room size | ❌[^multi-room-max] | ✅ |
-| Multiplayer spectating | ❌ | ✅ |
-| Countdown timers | 🟠[^countdown-timers-stable] | ✅[^countdown-timers-lazer] |
-| Queue modes | ❌ | ✅[^queue-modes] |
-| Multiplayer commands | ✅ | ❌ |
-| Tag co-op | ✅ | ❌ |
-| Playlists (user-curated leaderboards) | ❌ | ✅ |
-| Updating beatmaps with online changes | 🟠[^map-only] | ✅[^all-files] |
+| Score submission | ![Yes][true] | ![Partial][partial][^score-reset-balance] |
+| Beatmap leaderboards | ![Yes][true] | ![Partial][partial][^score-reset-isolated] |
+| Profile statistics | ![Yes][true] | ![Yes][true] |
+| Medals | ![Yes][true] | ![No][false] |
+| Performance points | ![Yes][true] | ![Partial][partial][^score-reset-isolated] |
+| Real-time chat | ![Partial][partial][^stable-chat] | ![Yes][true] |
+| Wiki / News / Changelog / Rankings | ![No][false] | ![Yes][true][^online-content] |
+| User profiles | ![No][false] | ![Yes][true] |
+| Beatmap listing | ![Partial][partial][^direct-supporter] | ![Yes][true] |
+| Unlimited multiplayer room size | ![No][false][^multi-room-max] | ![Yes][true] |
+| Multiplayer spectating | ![No][false] | ![Yes][true] |
+| Countdown timers | ![Partial][partial][^countdown-timers-stable] | ![Yes][true][^countdown-timers-lazer] |
+| Queue modes | ![No][false] | ![Yes][true][^queue-modes] |
+| Multiplayer commands | ![Yes][true] | ![No][false] |
+| Tag co-op | ![Yes][true] | ![No][false] |
+| Playlists (user-curated leaderboards) | ![No][false] | ![Yes][true] |
+| Updating beatmaps with online changes | ![Partial][partial][^map-only] | ![Yes][true][^all-files] |
 
 ### Editor
 
 | Feature | stable | lazer |
 | :-- | :-- | :-- |
-| osu!taiko editor | ❌ | ✅ |
-| osu!catch editor | ❌ | ✅ |
-| osu!mania editor | ✅ | ✅ |
-| Open difficulty as reference | ✅ | ❌ |
-| Per-object SV / volume | ❌ | ✅ |
-| Pattern rotation | ✅ | 🟠[^editor-precise-rotation] |
-| Pattern resizing | ❌ | ✅ |
-| Beatmap submission | ✅ | ❌ |
-| Storyboard editor | ✅ | ❌ |
-| Cross-compatibility | ✅ | 🟠[^incompatibilities] |
+| osu!taiko editor | ![No][false] | ![Yes][true] |
+| osu!catch editor | ![No][false] | ![Yes][true] |
+| osu!mania editor | ![Yes][true] | ![Yes][true] |
+| Open difficulty as reference | ![Yes][true] | ![No][false] |
+| Per-object SV / volume | ![No][false] | ![Yes][true] |
+| Pattern rotation | ![Yes][true] | ![Partial][partial][^editor-precise-rotation] |
+| Pattern resizing | ![No][false] | ![Yes][true] |
+| Beatmap submission | ![Yes][true] | ![No][false] |
+| Storyboard editor | ![Yes][true] | ![No][false] |
+| Cross-compatibility | ![Yes][true] | ![Partial][partial][^incompatibilities] |
 
 ## Switching to lazer
 
@@ -282,3 +282,7 @@ You're likely thinking of another game.
 [^countdown-timers-stable]: Set a countdown using a command, no automatic start.
 [^countdown-timers-lazer]: Set a countdown from the game UI to automatically start the match.
 [^queue-modes]: Turn on to allow anyone in a lobby to queue new beatmaps, a.k.a. "host rotate".
+
+[true]: /wiki/shared/true.png
+[false]: /wiki/shared/false.png
+[partial]: /wiki/shared/partial.png
