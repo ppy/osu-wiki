@@ -210,6 +210,22 @@ Do note that we are already tracking over 1,000 issues of varying priorities, an
 
 ### Other
 
+#### Why is it called "lazer"?
+
+What is sharper than cutting–edge?
+
+#### Why is it taking so long to become the "main" release?
+
+While osu! may seem like a simple game, there are hundreds on hundreds of features and systems that users have come to rely on. Depending on who you ask, lazer may have been in a fully playable state for years now, or it may be missing countless features.
+
+Another area which has taken a huge amount of effort is historical preservation – making sure that beatmaps behave exactly as they should, including edge cases that weren't originally planned for. osu! is a vibrant ecosystem and users have taken liberty to extend the game far beyond its planned extents, and we are trying our best to embrace and support this going forward.
+
+Finally, unlike the last iteration, we are putting in the time and diligence to ensure the code base will serve us well into the future. We have done the groundwork to allow new features to come online at blazing speed going forward. This will include new UI components, new ways to skin the game, new multiplayer systems and let's not forget the ability to load and play all your existing beatmaps on completely new game modes (aka rulesets)!
+
+#### What comes next?
+
+We have a huge backlog of user-requested features and improvements that we will continue to push out at the speed of light. For those that have joined us recently and haven't experienced the momentum of osu! development, prepare to be in for a surprise.
+
 #### How do I access my songs folder?
 
 There is no songs folder in lazer! This allows us to do cool things like not require pressing `F5` at song select to refresh beatmaps (because beatmaps are always in a good state) and reduce the disk space used by beatmaps by 20–40%. You can read more about [the way lazer stores files](https://github.com/ppy/osu/wiki/User-file-storage).
