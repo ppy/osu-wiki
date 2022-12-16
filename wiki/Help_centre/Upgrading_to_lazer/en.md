@@ -110,7 +110,7 @@ Currently, beatmaps, skins, scores, replays and collections can be imported into
 
 #### If I import my beatmaps to lazer, will it use double the disk space?
 
-If you have both lazer and stable on the same drive, [hard links](https://en.wikipedia.org/wiki/Hard_link) are used to avoid using extra disk space.
+If you have both lazer and stable on the same drive, [hard links](/wiki/Client/Release_stream/Lazer/File_storage#via-hard-links) are used to avoid using extra disk space.
 
 In all other cases, importing beatmaps will use double the disk space.
 
@@ -228,7 +228,7 @@ We have a huge backlog of user-requested features and improvements that we will 
 
 #### How do I access my songs folder?
 
-There is no songs folder in lazer! This allows us to do cool things like not require pressing `F5` at song select to refresh beatmaps (because beatmaps are always in a good state) and reduce the disk space used by beatmaps by 20–40%. You can read more about [the way lazer stores files](https://github.com/ppy/osu/wiki/User-file-storage).
+There is no songs folder in lazer! This allows us to do cool things like not require pressing `F5` at song select to refresh beatmaps (because beatmaps are always in a good state) and reduce the disk space used by beatmaps by 20–40%. You can read more about [the way lazer stores files](/wiki/Client/Release_stream/Lazer/File_storage).
 
 If you need to make changes to a beatmap, please use the editor. Going forward we will introduce a mode in the editor which makes a beatmap's folder temporarily accessible for external editing. This will allow you to use external tools on a beatmap during the creation process.
 
