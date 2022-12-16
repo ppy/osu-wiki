@@ -13,13 +13,13 @@ Sur les plateformes PC, le stockage de fichiers peut aussi être bougé dans son
 
 La structure de stockage d'osu!(stable), où les données étaient directement accessibles aux utilisateurs en tant que fichiers standards, ont donné lieu a des problèmes de démarrage dû à la gestion des modifications non voulues de certains fichiers clés. Pour éviter cela, osu!(lazer) emploie une méthode plus rigoureuse de stockage de fichiers. Ainsi, il n'y a plus l'équivalent des dossiers `Songs` ou `Skins`. Tous les fichiers importés dans lazer sont stockés avec des noms qui reflètent leur [empreinte SHA-256](https://fr.wikipedia.org/wiki/SHA-2). Le mappage vers ces fichiers est stocké dans une base de données côté client.
 
-Par exemple, un fichier avec une empreinte SHA-256 de :
+Par exemple, un fichier avec une empreinte SHA-256 de
 
 ```
 1a47929b6056d34d25a95eeb2012395ceed66af6f40cc37c898a08482d6325d2
 ```
 
-va être stocké à l'emplacement :
+va être stocké à l'emplacement
 
 ```
 files/1/1a/1a47929b6056d34d25a95eeb2012395ceed66af6f40cc37c898a08482d6325d2
