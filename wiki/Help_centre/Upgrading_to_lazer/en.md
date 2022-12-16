@@ -68,6 +68,9 @@ The following is a comprehensive list of the **current state** of lazer in compa
 | Beatmap listing | 🟠[^direct-supporter] | ✅ |
 | Unlimited multiplayer room size | ❌[^multi-room-max] | ✅ |
 | Multiplayer spectating | ❌ | ✅ |
+| Countdown timers | 🟠[^countdown-timers-stable] | ✅ [^countdown-timers-lazer] |
+| Queue modes | ❌ | ✅[^queue-modes] |
+| Multiplayer commands | ✅ | ❌ |
 | Tag co-op | ✅ | ❌ |
 | Playlists (user-curated leaderboards) | ❌ | ✅ |
 | Updating beatmaps with online changes | 🟠[^map-only] | ✅[^all-files] |
@@ -259,3 +262,6 @@ You're likely thinking of another game.
 [^editor-precise-rotation]: Missing precise angle rotation.
 [^incompatibilities]: Some editor features will cause beatmaps to play incorrectly in stable — will be fixed soon.
 [^stable-chat]: Messages can take up to 15 seconds to arrive.
+[^countdown-timers-stable]: Set a countdown using a command, no automatic start.
+[^countdown-timers-lazer]: Set a countdown from the game UI to automatically start the match.
+[^queue-modes]: Turn on to allow anyone in a lobby to queue new beatmaps, aka "host rotate"
