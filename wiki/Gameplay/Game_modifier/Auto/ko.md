@@ -1,6 +1,6 @@
 ---
 stub: true
-태그:
+tags:
   - auto
   - autoplay
   - auto play
@@ -9,6 +9,8 @@ stub: true
   - mod
   - game modifier
 no_native_review: true
+outdated_translation: true
+outdated_since: b4b151efd01d5d964baf3e101672b4a41a24ec4b
 ---
 
 # 오토 (모드)
