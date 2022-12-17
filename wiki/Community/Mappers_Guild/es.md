@@ -9,7 +9,7 @@ tags:
 
 ![](img/mg-logo.png)
 
-El **Mappers' Guild** es un grupo de mappers responsables de crear [beatmaps](/wiki/Beatmap) para los [artistas destacados](/wiki/Featured_Artists) de osu!. Utilizando un formato de gremios estilo MMO, permite que los mappers ganar recompensas por participar en el proceso de clasificación de beatmaps de artistas destacados y cooperar en misiones relacionadas con mapping.
+**Mappers' Guild** es un grupo de mappers responsables de crear [beatmaps](/wiki/Beatmap) para los [artistas destacados](/wiki/Featured_Artists) de osu!. Utilizando un formato de gremios estilo MMO, permite que los mappers ganar recompensas por participar en el proceso de clasificación de beatmaps de artistas destacados y cooperar en misiones relacionadas con mapping.
 
 La organización y la discusión del gremio se pueden encontrar en el canal `#mappers-guild` del [servidor de discord de osu!dev](https://discord.gg/ppy).
 
@@ -57,18 +57,18 @@ Los miembros de Mappers' Guild también pueden participar en la creación de bea
 
 ### Concursos de beatmapping
 
-El Mappers' Guild también se utiliza para administrar concursos de beatmapping. Desde enero de 2020, todas las iteraciones del [Concurso mensual de beatmapping](/wiki/Contests/Monthly_Beatmapping_Contest) se han organizado, proyectado y juzgado mediante sistemas proporcionados por Mappers' Guild. Cualquier usuario puede organizar concursos a través de Mappers' Guild para aumentar la accesibilidad a la comunidad de mapping de osu!.
+Mappers' Guild también se utiliza para administrar concursos de beatmapping. Desde enero de 2020, todas las iteraciones del [Concurso mensual de beatmapping](/wiki/Contests/Monthly_Beatmapping_Contest) se han organizado, proyectado y juzgado mediante sistemas proporcionados por Mappers' Guild. Cualquier usuario puede organizar concursos a través de Mappers' Guild para aumentar la accesibilidad a la comunidad de mapping de osu!.
 
 ## Historia
 
-El Mappers' Guild se lanzó con un grupo de menos de 10 mappers a fines de 2017. Dada la información sobre un próximo artista destacado en ese momento, [MOtOLOiD](https://osu.ppy.sh/beatmaps/artists/19), se les encomendó la tarea de crear seis beatmaps para acompañar el [anuncio de la noticia](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid) del artista.
+Mappers' Guild se lanzó con un grupo de menos de 10 mappers a fines de 2017. Dada la información sobre un próximo artista destacado en ese momento, [MOtOLOiD](https://osu.ppy.sh/beatmaps/artists/19), se les encomendó la tarea de crear seis beatmaps para acompañar el [anuncio de la noticia](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid) del artista.
 
 Para promocionar a los artistas destacados más antiguos, el grupo aumentó su número de miembros y clasificó 8 beatmaps de diferentes artistas. Estos beatmaps se publicaron en una [noticia](https://osu.ppy.sh/home/news/2018-03-17-new-mappers-guild-pack-release) junto con un [paquete de beatmaps](/wiki/Beatmap/Packs) descargable.
 
-Siguiendo los pasos de estos dos paquetes de beatmaps, el Mappers' Guild aumentó continuamente su número de miembros mientras publicaba paquetes para anuncios de nuevos artistas destacados, como [High Tea Music](https://osu.ppy.sh/home/news/2018-08-13-new-featured-artist-high-tea-music), [Culprate](https://osu.ppy.sh/home/news/2018-11-21-new-featured-artist-culprate), y [HyuN](https://osu.ppy.sh/beatmaps/artists/33), acompañados de otros paquetes para canciones de artistas destacados más antiguas.
+Siguiendo los pasos de estos dos paquetes de beatmaps, Mappers' Guild aumentó continuamente su número de miembros mientras publicaba paquetes para anuncios de nuevos artistas destacados, como [High Tea Music](https://osu.ppy.sh/home/news/2018-08-13-new-featured-artist-high-tea-music), [Culprate](https://osu.ppy.sh/home/news/2018-11-21-new-featured-artist-culprate), y [HyuN](https://osu.ppy.sh/beatmaps/artists/33), acompañados de otros paquetes para canciones de artistas destacados más antiguas.
 
 ### Automatización
 
-Si bien el plan inicial para Mappers' Guild siempre había sido tener elementos MMO como misiones, se descubrió que eso no era práctico de manejar mientras se administraban manualmente los plazos para el número limitado de participantes del gremio. ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) y ::{ flag=CL }:: [Milan-](https://osu.ppy.sh/users/1052994) comenzaron a desarrollar un sitio web para automatizar el Mappers' Guild a finales de 2018, lo que permite una distribución más adecuada de las recompensas y la gestión de los sistemas de misiones/bandas.
+Si bien el plan inicial para Mappers' Guild siempre había sido tener elementos MMO como misiones, se descubrió que eso no era práctico de manejar mientras se administraban manualmente los plazos para el número limitado de participantes del gremio. ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) y ::{ flag=CL }:: [Milan-](https://osu.ppy.sh/users/1052994) comenzaron a desarrollar un sitio web para automatizar Mappers' Guild a finales de 2018, lo que permite una distribución más adecuada de las recompensas y la gestión de los sistemas de misiones/bandas.
 
 El [sitio web de Mappers' Guild](https://mappersguild.com/) se lanzó el 1 de marzo de 2019 y es donde actualmente se controla todo lo relacionado con Mappers' Guild. Desde que se abrió al público, el gremio ha alcanzado un número de miembros de más de 500 y publica [noticias actualizadas](https://osu.ppy.sh/home/news/2019-11-29-featured-artist-beatmap-updates-from-the-mappers-guild) para mantener al resto de la comunidad de osu! al día con el contenido de mapas de artistas destacados.
