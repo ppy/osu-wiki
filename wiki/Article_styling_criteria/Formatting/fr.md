@@ -589,7 +589,7 @@ L'URL de la barre d'adresse de votre navigateur doit être copiée telle qu'elle
 
 Tous les noms d'utilisateur doivent être liés à la première occurrence. Les autres occurrences sont facultatives, mais doivent être cohérentes tout au long de l'article pour tous les noms d'utilisateur. S'il est difficile de déterminer l'identifiant de l'utilisateur, il peut être ignoré.
 
-Lorsque vous créez un lien vers un profil d'utilisateur, le numéro d'identification de l'utilisateur doit être utilisé. Utilisez le nouveau site web (`https://osu.ppy.sh/users/{username})`) pour obtenir l'id de l'utilisateur.
+Lorsque vous créez un lien vers un profil d'utilisateur, le numéro d'identification de l'utilisateur doit être utilisé. Utilisez le nouveau site web (`https://osu.ppy.sh/users/{username}`) pour obtenir l'id de l'utilisateur.
 
 Le texte du lien de l'utilisateur doit être le nom actuel de l'utilisateur.
 
