@@ -11,7 +11,7 @@ Sur les plateformes PC, le stockage de fichiers peut aussi être bougé dans son
 
 ## Structure de stockage
 
-La structure de stockage d'osu!(stable), où les données étaient directement accessibles aux utilisateurs sous forme de fichiers standards, ont engendré des problèmes de démarrage dû à la gestion des modifications non voulues de certains fichiers clés. Pour éviter cela, osu!(lazer) emploie une méthode plus rigoureuse de stockage de fichiers. Ainsi, il n'y a plus l'équivalent des répertoires `Songs` ou `Skins`. Tous les fichiers importés dans lazer sont stockés avec des noms qui reflètent leur [empreinte SHA-256](https://fr.wikipedia.org/wiki/SHA-2). Le mappage vers ces fichiers est stocké dans une base de données côté client.
+La structure de stockage d'osu!(stable), où les données étaient directement accessibles aux utilisateurs sous forme de fichiers standards, a engendré des problèmes de démarrage dû à la gestion des modifications non voulues de certains fichiers clés. Pour éviter cela, osu!(lazer) emploie une méthode plus rigoureuse de stockage de fichiers. Ainsi, il n'y a plus l'équivalent des répertoires `Songs` ou `Skins`. Tous les fichiers importés dans lazer sont stockés avec des noms qui reflètent leur [empreinte SHA-256](https://fr.wikipedia.org/wiki/SHA-2). Le mappage vers ces fichiers est stocké dans une base de données côté client.
 
 Par exemple, un fichier avec une empreinte SHA-256 de
 
