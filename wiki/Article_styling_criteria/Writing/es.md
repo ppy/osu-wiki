@@ -312,11 +312,11 @@ Las citas se ponen entre comillas bajas (« i ») y en cursiva si no están en e
 «Antonio me dijo: "Vaya 'cacharro' que se ha comprado Julián"»
 ```
 
-Por extensión, el [énfasis](/wiki/Article_styling_criteria/Formatting#énfasis), los [enlaces](/wiki/Article_styling_criteria/Formatting#enlaces) y los paréntesis deben seguir las mismas reglas con respecto a la puntuación (es decir, si encierran una oración completa o solo parte de una).
+Por extensión, el [énfasis](/wiki/Article_styling_criteria/Formatting#enfatizando), los [enlaces](/wiki/Article_styling_criteria/Formatting#enlaces) y los paréntesis deben seguir las mismas reglas con respecto a la puntuación (es decir, si encierran una oración completa o solo parte de una).
 
 ### Cita en bloque
 
-Al citar texto de alguien, especifique la persona que se cita después de la [cita en bloque](/wiki/Article_styling_criteria/Formatting#cita_en_bloque) con una raya (`—`). Si la cita original es de una fuente que no está en inglés, especifíquela entre paréntesis.
+Al citar texto de alguien, especifique la persona que se cita después de la [cita en bloque](/wiki/Article_styling_criteria/Formatting#citas_en_bloque) con una raya (`—`). Si la cita original es de una fuente que no está en inglés, especifíquela entre paréntesis.
 
 ```markdown
 > pls disfrutar juego
