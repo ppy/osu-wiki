@@ -1,5 +1,6 @@
 ---
 stub: true
+outdated: true
 ---
 
 # Score classé
