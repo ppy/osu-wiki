@@ -23,9 +23,9 @@ tags:
 | Sala temporal: Lista de juego B | 14 ago. - 16 ago. 2020 |
 | Sala temporal: Lista de juego C | 21 ago. - 23 ago. 2020 |
 | Sala temporal: Lista de juego D | 28 ago. - 30 ago. 2020 |
-| Sala temporal: Listas de juego A y B | 4 sep. - 6 sep. 2020 |
-| Sala temporal: Listas de juego C y D | 11 sep. - 13 sep. 2020 |
-| Conclusión de la temporada | 14 sep. - 18 sep. 2020 |
+| Sala temporal: Listas de juego A y B | 4 sept. - 6 sept. 2020 |
+| Sala temporal: Listas de juego C y D | 11 sept. - 13 sept. 2020 |
+| Conclusión de la temporada | 14 sept. - 18 sept. 2020 |
 
 ## Salas multijugador semanales
 
