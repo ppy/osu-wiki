@@ -182,7 +182,7 @@ Have we got your interest? Or do you have more questions regarding the project? 
 
 Mentioned previously in the Mappers' Report, the **osu! Map Cast** has recently concluded its first season with a whopping **23 episodes in total**. This podcast hosted by [Bailie](https://osu.ppy.sh/users/11868659) (previously known as Cinnabun) features conversations with a wide variety of figures in the mapping and modding community, such as mappers both old and new, BNs, NAT, and recently even Ephemeral! The podcast series cover a huge variety of topics, both within and outside of osu! mapping- there's even an episode about Beat Saber in there! If you want to learn more about the osu! community, its members, or just want a chill podcast to listen to in the background, be sure to check out the full episode listing on their [forum post](https://osu.ppy.sh/community/forums/topics/1043221)!
 
-<a id="conclusion"></a>
+{#conclusion}
 
 ---
 

@@ -1,5 +1,7 @@
 ---
 layout: main_page
+outdated_since: e5c6703afd341354b50be467f885400c871cd0de
+outdated_translation: true
 ---
 
 <div class="wiki-main-page__blurb">
@@ -129,7 +131,7 @@ Interaja com o osu! atravéz de outros programas e mídias, ou ajude-o crescer m
 
 Assim como quase tudo aqui, a wiki do osu! é escrita e mantida por voluntários. Sugira uma melhoria, reporte um problema, ou mesmo escreva seu prótio artigo no [Repositório GitHub do osu! wiki](https://github.com/ppy/osu-wiki).
 
-[História do osu!](/wiki/History_of_osu!) • [Linha do tempo de Mapeamento e Moderação](/wiki/Mapping_and_Modding_Timeline) • [Primeiro de Abril](/wiki/History_of_osu!/April_Fools)
+[História do osu!](/wiki/History_of_osu!) • [Linha do tempo de Mapeamento e Moderação](/wiki/History_of_osu!/Mapping_and_Modding_Timeline) • [Primeiro de Abril](/wiki/History_of_osu!/April_Fools)
 
 [Sitemap](/wiki/Sitemap) • [Guia de Contribuição](/wiki/osu!_wiki/Contribution_guide) • [Critério de estilo do artigo](/wiki/Article_styling_criteria) • [Critério do estilo de notícias](/wiki/News_styling_criteria)
 

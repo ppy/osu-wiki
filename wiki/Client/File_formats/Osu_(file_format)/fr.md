@@ -51,7 +51,7 @@ Ces options ne concernent que l'ouverture des beatmaps dans l'[éditeur de beatm
 | :-- | :-- | :-- |
 | `Bookmarks` | Liste d'entiers séparés par des virgules | Temps en millisecondes de [bookmarks](/wiki/Client/Beatmap_editor/Compose#en-bas-(timeline-de-la-musique)) |
 | `DistanceSpacing` | Décimal (Decimal) | Multiplicateur [Distance snap](/wiki/Client/Beatmap_editor/Distance_snap) |
-| `BeatDivisor` | Décimal (Decimal) | [Beat snap divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) |
+| `BeatDivisor` | Entier (Integer) | [Beat snap divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) |
 | `GridSize` | Entier (Integer) | [Grid size](/wiki/Grid_snapping) |
 | `TimelineZoom` | Décimal (Decimal) | Facteur d'échelle pour la [timeline des objets](/wiki/Client/Beatmap_editor/Compose#en-haut-à-gauche-(la-timeline-des-objets)) |
 

@@ -16,9 +16,10 @@ osu! has several Twitter accounts, each serving specific purposes. Most are very
 | ![osu! avatar](img/osugame.jpg) | [@osugame](https://twitter.com/osugame) | The official source of news and announcements. |
 | ![BanchoBoat avatar](img/banchoboat.jpg) | [@banchoboat](https://twitter.com/banchoboat) | Comedy relief when things go wrong. |
 | ![NAT avatar](img/osu_nat.png) | [@osu_nat](https://twitter.com/osu_nat) | News, announcements, and short community surveys by the [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) (not run by [the osu! team](/wiki/People/The_Team)). |
+| ![pp committee avatar](img/ppcommittee.png) | [@pp_committee](https://twitter.com/pp_committee) | Difficulty calculation announcements for all game modes, run by the [Performance Points Committee](/wiki/People/Performance_Points_Committee). |
 
 ## Personal
 
 | Avatar | Handle | Description |
 | :-: | :-: | :-- |
-| ![Dean Herbert avatar](img/ppy.jpg) | [@ppy](https://twitter.com/ppy) | The [osu! creator](/wiki/People/peppy)'s personal Twitter account, which is not strictly related to osu!, but still covers a vast part of it. |
+| ![Dean Herbert avatar](img/ppy.jpg?2) | [@ppy](https://twitter.com/ppy) | The [osu! creator](/wiki/People/peppy)'s personal Twitter account, which is not strictly related to osu!, but still covers a vast part of it. |

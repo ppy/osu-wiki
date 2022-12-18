@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: bf0efccf8db8b9dfb5ae645549a64c0623c27052
+---
+
 # Twitter
 
 ## เราก็ทวีตเหมือนกัน!
@@ -23,4 +28,4 @@ osu! มีบัญชีทวิตเตอร์หลายบัญชี
 
 | รูปโปรไฟล์ | ชื่อ | คำบรรยาย |
 | :-: | :-: | :-- |
-| ![รูปโปรไฟล์ Dean Herbert](img/ppy.jpg) | [@ppy](https://twitter.com/ppy) | บัญชีทวิตเตอร์ส่วนตัวของ [ผู้สร้าง osu!](/wiki/People/peppy) ซึ่งไม่จำเป็นต้องเกี่ยวกับ osu! แต่ส่วนใหญ่ก็เกี่ยวกับ osu! อยู่ |
+| ![รูปโปรไฟล์ Dean Herbert](img/ppy.jpg?2) | [@ppy](https://twitter.com/ppy) | บัญชีทวิตเตอร์ส่วนตัวของ [ผู้สร้าง osu!](/wiki/People/peppy) ซึ่งไม่จำเป็นต้องเกี่ยวกับ osu! แต่ส่วนใหญ่ก็เกี่ยวกับ osu! อยู่ |

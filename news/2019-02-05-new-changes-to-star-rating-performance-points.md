@@ -6,7 +6,7 @@ date: 2019-02-07 03:00:00 +0000
 
 After many years of stagnancy, some changes are finally coming to the way Star Rating and Performance Points are calculated! Read on to find out more.
 
-![](/wiki/shared/news/2019-02-05-new-changes-to-star-rating-performance-points/star-rating.jpg)
+![](/wiki/shared/news/banners/star-rating.jpg)
 
 This effort was led by Xexxar in collaboration with many other community and team members involving themselves via the official [osu! development discord server](https://discord.gg/ppy), where amendments were proposed over the last few months. The end goal was to update a core part of osu!'s competitive progression that hasn't seen any significant changes in many years. With the level of high-end gameplay constantly evolving since the difficulty calculation logic was last touched, these updates are a step towards restoring fairness and sanity to the rating and ranking systems.
 
@@ -37,6 +37,7 @@ The aim difficulty rating of hit objects now considers the angles formed.
 ![](/wiki/shared/news/2019-02-05-new-changes-to-star-rating-performance-points/wide-angle-chart.png)
 
 Example beatmaps where this change can be seen:
+
 - [MAX COVERI - RUNNING IN THE 90'S](https://osu.ppy.sh/beatmapsets/739262#osu/1559974) - 6.25\* -> 6.34\*
 - [FELT - Puppet in the Dark (Part I & II)](https://osu.ppy.sh/beatmapsets/829511#osu/1737885) - 6.04\* -> 6.63\*
 - [Momoi Haruko - Luka Luka Night Fever](https://osu.ppy.sh/beatmapsets/21724#osu/83925) - 4.38\* -> 4.88\*
@@ -50,6 +51,7 @@ The difficulty of patterns consisting of high-paced hit circles (streams) now in
 ![](/wiki/shared/news/2019-02-05-new-changes-to-star-rating-performance-points/high-bpm-chart.png)
 
 Example beatmap where this change can be seen:
+
 - [UNDEAD CORPORATION - Everything will freeze](https://osu.ppy.sh/beatmapsets/158023#osu/555797) - 7.65\* -> 8.03\*
 
 View on GitHub: [#3839](https://github.com/ppy/osu/pull/3839)
@@ -61,6 +63,7 @@ The difficulty rating of streams with very high spacing between hit circles has 
 ![](/wiki/shared/news/2019-02-05-new-changes-to-star-rating-performance-points/high-spacing-chart.png)
 
 Example beatmaps where this change can be seen:
+
 - [GYZE - HONESTY](https://osu.ppy.sh/beatmapsets/586121#osu/1241370) - 7.11\* -> 7.03\*
 - [VINXIS - Sidetracked Day](https://osu.ppy.sh/beatmapsets/728276#osu/1537566) - 7.11\* -> 7.04\*
 
@@ -75,6 +78,7 @@ The difficulty rating of long sliders has been increased significantly.
 The effect of this change also increases along with the jump distance to the slider increasing and the amount of time between hit objects decreasing.
 
 Example beatmap where this change can be seen:
+
 - [Fractal - Collide (feat. Danyka Nadeau)](https://osu.ppy.sh/beatmapsets/753365#osu/1586083) - 5.08\* -> 5.71\*
 
 View on GitHub: [#3839](https://github.com/ppy/osu/pull/3839)
@@ -86,6 +90,7 @@ The performance points awarded for low accuracy scores has been decreased for be
 ![](/wiki/shared/news/2019-02-05-new-changes-to-star-rating-performance-points/speed-accuracy-chart.png)
 
 Example beatmaps where this change can be seen:
+
 - [DragonForce - Cry Thunder](https://osu.ppy.sh/beatmapsets/871946#osu/1822108) - [idke](https://osu.ppy.sh/users/4650315)'s S-rank score increased from 980pp to 990pp
 - [ClariS](https://osu.ppy.sh/beatmapsets/661919#osu/1401254) - [FGSky](https://osu.ppy.sh/users/2094566)'s B-rank score reduced from 819pp to 818pp
 
@@ -98,6 +103,7 @@ The performance points awarded due to the flashlight mod has been reduced for sh
 ![](/wiki/shared/news/2019-02-05-new-changes-to-star-rating-performance-points/flashlight-chart.png)
 
 Example beatmaps where this change can be seen:
+
 - [Aoi Eir - IGNITE](https://osu.ppy.sh/beatmapsets/209170#osu/492285) - [Ekoro](https://osu.ppy.sh/users/284905)'s score increased from 435pp to 490pp
 - [Harumachi Clover (Swing Arrangement) [Dictate Edit]](https://osu.ppy.sh/beatmapsets/859783#osu/1893461) - [fieryrage](https://osu.ppy.sh/users/3533958)'s score decreased from 832pp to 733pp
 
@@ -111,6 +117,7 @@ The performance points awarded due to the hidden mod has been increased for beat
 | - | - | - |
 
 Example beatmaps where this change can be seen:
+
 - [GYZE - Honesty](https://osu.ppy.sh/beatmapsets/586121#osu/1241370) - [OPSwimmyJimmy](https://osu.ppy.sh/users/4196808)'s score decreased from 941pp to 926pp
 - [Linkin Park - Guilty All The Same (feat. Rakim)](https://osu.ppy.sh/beatmapsets/518596#osu/1187302) - [nathan on osu](https://osu.ppy.sh/users/124493)'s score increased from 695pp to 705pp
 

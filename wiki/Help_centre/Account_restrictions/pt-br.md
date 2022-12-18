@@ -74,8 +74,6 @@ Se nós decidirmos em deixar você voltar, nós iremos requerer que você concor
 - **Você não deve se associar com outras contas** incluindo jogar em computadores compartilhados.
 - **Qualquer mau comportamento irar resultar em restrição imediata**. Isso inclui silenciamentos graves.
 
-Adicionalmente, por um período de um ano, nós não proporcionar quaisquer mudanças de flag para a sua conta.
-
 Em alguns casos, um retornando de recurso pode ser banido de torneios oficiais e com medalha, ambos como competidor e como membro do time de torneio. A duração desse ban é de 1 ano por ofensa (se um usuário está em seu segundo recurso, o ban dura 2 anos). A o email de remoção da restrição irá clarificar a duração desse ban.
 
 **Trapacear ou compartilhar a conta durante um torneio oficial ou com medalha irá resultar com o ban permanente de um usuário de quaisquer torneios por vir.** Esse ban não poderá ser recorrido (seu email será ignorado se tentar) e não será removido, reduzido, ou renunciado em quaisquer circunstâncias.

@@ -125,7 +125,7 @@ Setelah melewati proses kajian selama kurang lebih dua tahun, pada tahun 2018 UB
 
 - ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) (Koordinator)
 - ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) (Koordinator)
-- ::{ flag=DE }:: [Damnae](https://osu.ppy.sh/users/989377)
+- ::{ flag=FR }:: [Damnae](https://osu.ppy.sh/users/989377)
 - ::{ flag=CA }:: [Sidetail](https://osu.ppy.sh/users/2036217)
 - ::{ flag=US }:: [Starrodkirby86](https://osu.ppy.sh/users/410)
 - ::{ flag=CZ }:: [Wafu](https://osu.ppy.sh/users/888955)

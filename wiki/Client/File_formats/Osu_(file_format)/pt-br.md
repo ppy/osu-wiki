@@ -56,7 +56,7 @@ Estas opções são relevantes apenas ao abrir mapas no [editor de beatmap](/wik
 | :-- | :-- | :-- |
 | `Bookmarks` | Lista de inteiros separados por vírgulas | Tempo dos bookmarks em milissegundos |
 | `DistanceSpacing` | Decimal | Multiplicador de distância do snap |
-| `BeatDivisor` | Decimal | Divisor de beat snap |
+| `BeatDivisor` | Inteiro | Divisor de beat snap |
 | `GridSize` | Inteiro | Tamanho da grid |
 | `TimelineZoom` | Decimal | Fator de escala para a timeline de objetos |
 

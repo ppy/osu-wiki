@@ -40,12 +40,13 @@ Par défaut, de nombreux clients IRC vous informent lorsqu'un utilisateur rejoin
 
 | Client IRC | Description |
 | :-- | :-- |
-| [HexChat](https://hexchat.github.io/) | Cochez la case "Masquer les messages d'arrivé et de départ" dans la section `Settings` -> `Preferences` -> `Chatting` -> `General` (Advanced pre-2.9.6)  |
+| [HexChat](https://hexchat.github.io/) | Cochez la case "Masquer les messages d'arrivée et de départ" dans `Settings` -> `Preferences` -> `Chatting` -> `General` (Advanced pre-2.9.6)  |
 | [ircII](http://www.eterna.com.au/ircii/) | Écrivez `IGNORE * CRAP` |
 | [Irssi](https://irssi.org) | Écrivez `/ignore * JOINS PARTS QUITS` |
 | [Weechat](https://weechat.org/) | Écrivez `/filter add joinquit * irc_join,irc_part,irc_quit *` |
+| [Konversation](https://konversation.kde.org/) | Cochez la case "Hide Join/Part/Nick Events" dans `Settings` -> `Configure Konversation...` (`Ctrl` + `Shift` + `,`) -> `Behavior` -> `Chat Window` |
 | [KVIrc](https://www.kvirc.net/) | (Référez vous à [the KVIrc wiki page](https://github.com/kvirc/KVIrc/wiki/FAQ#how-do-i-suppress-join-part-and-quit-messages)) |
-| [mIRC](https://www.mirc.com/) | Allez dans les options de mIRC (`Tools` -> `Options`, ou `Alt` + `O`), sélectionnez `IRC`, cliquez sur le bouton `Events...` et sélectionnez `Hide` pour les messages d'arrivé et de départ. |
+| [mIRC](https://www.mirc.com/) | Allez dans les options de mIRC (`Tools` -> `Options`, ou `Alt` + `O`), sélectionnez `IRC`, cliquez sur le bouton `Events...` et sélectionnez `Hide` pour les messages d'arrivée et de départ. |
 | [Quassel IRC](https://quassel-irc.org/) | Faites un clic droit dans le tchat et choisissez Joins/Parts/Quits dans le menu "Hide Events". |
 | [XChat](http://xchat.org/) | Écrivez `/set irc_conf_mode 1` |
 

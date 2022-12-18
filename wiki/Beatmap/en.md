@@ -37,7 +37,7 @@ After the submission, a beatmap gains additional metadata fields, such as descri
 Every submitted beatmap is assigned a numeric identifier (`BeatmapSetID`), by which it can be tracked on the website and via [osu!api](/wiki/osu!api). Difficulties of a beatmap also have their own numeric identifiers (`BeatmapID`). The URL leading to a specific difficulty's tab on a beatmap's page includes both identifiers and has the following format:
 
 ```
-https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{GameMode}/{BeatmapID}`
+https://osu.ppy.sh/beatmapsets/{BeatmapSetID}#{GameMode}/{BeatmapID}
 ```
 
 ### Beatmap category
@@ -109,7 +109,7 @@ The chart system has later evolved into the [Beatmap Spotlights](/wiki/Beatmap_S
 
 *Main page: [Contests](/wiki/Contests)*
 
-osu! community regularly runs different contests in order to promote creativity and award mappers who do their best. Contests range from small competitions, which are made inside local communities, to large ones that are conducted on a global scale and have breathtaking prizes. Winners often receive awards in form of [osu!supporter tags](/wiki/osu!supporter) and a themed profile badge.
+osu! community regularly runs different contests in order to promote creativity and award mappers who do their best. Contests range from small competitions, which are made inside local communities, to large ones that are conducted on a global scale and have breathtaking prizes. Winners often receive awards in form of [osu!supporter tags](/wiki/osu!supporter) and a themed [profile badge](/wiki/Community/Profile_badge).
 
 ### Featured Artists
 

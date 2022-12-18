@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 2d446e0407bca810b5c85a8271c4d88f15eecbd5
----
-
 # 注目アーティストのショーケースビートマップ
 
 [Mappers' Guild](/wiki/Community/Mappers_Guild)のメンバーは、osu!で未発表の注目アーティストの楽曲を使って、限定の「ショーケースビートマップ」を作成することがあります。注目アーティストが発表されると、このビートマップは対応する[ニュース記事](https://osu.ppy.sh/home/news)で取り上げられ、[@osugameのTwitter](https://twitter.com/osugame)でもしばしば宣伝されます。
@@ -544,6 +539,98 @@ outdated_since: 2d446e0407bca810b5c85a8271c4d88f15eecbd5
   - (![][osu!]) [SAMString - Shifting Clouds](https://osu.ppy.sh/beatmapsets/1654451#osu/3376932) ::{ flag=TR }:: [Entry](https://osu.ppy.sh/users/10213311)によってホスト
 - **[Kanpyohgo](https://osu.ppy.sh/home/news/2022-06-11-new-featured-artist-kanpyohgo)** (2022-06-11)
   - (![][osu!]) [Kanpyohgo - Tozaseshi Kumo no Kayoiji -Stormy Extended-](https://osu.ppy.sh/beatmapsets/1783062#osu/3651636) ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899)によってホスト
+- **[:Poin7less](https://osu.ppy.sh/home/news/2022-06-15-new-featured-artist-poin7less)** (2022-06-15)
+  - (![][osu!]) [:Poin7less - Love Infection](https://osu.ppy.sh/beatmapsets/1747369#osu/3574158) ::{ flag=JP }:: [Ogura Yui](https://osu.ppy.sh/users/6644401)によってホスト
+- **[NILFRUITS](https://osu.ppy.sh/home/news/2022-06-25-new-featured-artist-nilfruits)** (2022-06-25)
+  - (![][osu!]) [NILFRUITS - Ironina](https://osu.ppy.sh/beatmapsets/1767671#osu/3618328) ::{ flag=CN }:: [Yugu](https://osu.ppy.sh/users/3161834)によってホスト
+  - (![][osu!taiko]) [NILFRUITS - Arandano](https://osu.ppy.sh/beatmapsets/1786165#taiko/3668809) ::{ flag=EC }:: [Gamelan4](https://osu.ppy.sh/users/9856910)によってホスト
+- **[Toromaru](https://osu.ppy.sh/home/news/2022-06-29-new-featured-artist-toromaru)** (2022-06-29)
+  - (![][osu!]) [Toromaru - Formless Canvas](https://osu.ppy.sh/beatmapsets/1727694#osu/3667382) ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334)によってホスト
+
+### 7月
+
+- **[aran](https://osu.ppy.sh/home/news/2022-07-09-new-featured-artist-aran)** (2022-07-09)
+  - (![][osu!]) [aran & lapix - KALACAKLA](https://osu.ppy.sh/beatmapsets/1773829#osu/3631936) ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342)によってホスト
+- **[NOISZ](https://osu.ppy.sh/home/news/2022-07-23-new-featured-artist-noisz)** (2022-07-23)
+  - (![][osu!]) [Camellia feat. Morinaga Mayumi - re:||BIRTH](https://osu.ppy.sh/beatmapsets/1779714#osu/3644812) ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059)によってホスト
+  - (![][osu!]) [Soleily feat. SUNRaiSE - Rise Above](https://osu.ppy.sh/beatmapsets/1767895#osu/3618854) ::{ flag=HU }:: [Nytrocide_](https://osu.ppy.sh/users/11327918)によってホスト
+- **[ZxNX](https://osu.ppy.sh/home/news/2022-07-30-new-featured-artist-zxnx)** (2022-07-30)
+  - (![][osu!]) [ZxNX - Schadenfreude](https://osu.ppy.sh/beatmapsets/1816239#osu/3728042) ::{ flag=FR }:: [Realazy](https://osu.ppy.sh/users/918297)によってホスト
+  - (![][osu!catch]) [ZxNX - Schadenfreude](https://osu.ppy.sh/beatmapsets/1698949#fruits/3522804) ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134)によってホスト
+  - (![][osu!taiko]) [ZxNX - FORTALiCE](https://osu.ppy.sh/beatmapsets/1765720#taiko/3614336) ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721)によってホスト
+  - (![][osu!mania]) [ZxNX - FORTALiCE](https://osu.ppy.sh/beatmapsets/1737101#mania/3550471) ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789)によってホスト
+
+### 8月
+
+- **[Hamu](https://osu.ppy.sh/home/news/2022-08-03-new-featured-artist-hamu)** (2022-08-03)
+  - (![][osu!]) [Hamu - Secret Clover](https://osu.ppy.sh/beatmapsets/1815789#osu/3732873) ::{ flag=US }:: [Heroine](https://osu.ppy.sh/users/12727076)によってホスト
+  - (![][osu!])(![][osu!catch]) [Hamu - Lemrina](https://osu.ppy.sh/beatmapsets/1799400#osu/3690605) ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117)によってホスト
+- **[Waterflame](https://osu.ppy.sh/home/news/2022-08-10-new-featured-artist-waterflame)** (2022-08-10)
+  - (![][osu!catch]) [Waterflame - Ricochet Love](https://osu.ppy.sh/beatmapsets/1799889#fruits/3689904) ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508)によってホスト
+- **[Mitsukiyo](https://osu.ppy.sh/home/news/2022-08-13-new-featured-artist-mitsukiyo)** (2022-08-13)
+  - (![][osu!taiko]) [Mitsukiyo - Dream Leaf](https://osu.ppy.sh/beatmapsets/1792033#taiko/3677766) ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)によってホスト
+  - (![][osu!]) [Mitsukiyo - Mutual panorama (feat. Aitsuki Nakuru)](https://osu.ppy.sh/beatmapsets/1806127#osu/3703899) ::{ flag=PH }:: [Ayesha Altugle](https://osu.ppy.sh/users/1125647)によってホスト
+  - (![][osu!]) [Mitsukiyo - Kimi to Boku no Sekai (feat. *namirin)](https://osu.ppy.sh/beatmapsets/1806117#osu/3703875) ::{ flag=PH }:: [Amateurre](https://osu.ppy.sh/users/7326908)によってホスト
+- **[Koven](https://osu.ppy.sh/home/news/2022-08-17-new-featured-artist-koven)** (2022-08-17)
+  - (![][osu!]) [Koven - Love Wins Again](https://osu.ppy.sh/beatmapsets/1485184#osu/3045583) ::{ flag=LT }:: [Strategas](https://osu.ppy.sh/users/2971837)によってホスト
+- **[Abuse](https://osu.ppy.sh/home/news/2022-08-20-new-featured-artist-abuse)** (2022-08-20)
+  - (![][osu!]) [Abuse - Shinjuku Jack](https://osu.ppy.sh/beatmapsets/1817377#osu/3728565) ::{ flag=CN }:: [Yugu](https://osu.ppy.sh/users/3161834)によってホスト
+- **[DJ Genki / Gram](https://osu.ppy.sh/home/news/2022-08-24-new-featured-artist-dj-genki-gram)** (2022-08-24)
+  - (![][osu!taiko]) [DJ Genki vs. Camellia feat. moimoi - YELL!](https://osu.ppy.sh/beatmapsets/1788470#taiko/3676892) ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733)によってホスト
+  - (![][osu!]) [Gram vs. Camellia - Ragnarok](https://osu.ppy.sh/beatmapsets/1832937#osu/3762850) ::{ flag=GB }:: [Altai](https://osu.ppy.sh/users/5745865)によってホスト
+  - (![][osu!catch]) [Gram vs. Yooh - Apocalypse](https://osu.ppy.sh/beatmapsets/1816401#fruits/3731299) ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134)によってホスト
+- **[Aiyru](https://osu.ppy.sh/home/news/2022-08-27-new-featured-artist-aiyru)** (2022-08-27)
+  - (![][osu!]) [Aiyru - Station](https://osu.ppy.sh/beatmapsets/1789344#osu/3666406) ::{ flag=DE }:: [PaRaDogi](https://osu.ppy.sh/users/2054596)によってホスト
+  - (![][osu!mania]) [Aiyru - Station](https://osu.ppy.sh/beatmapsets/1794071#mania/3676941) ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789)によってホスト
+- **[-45](https://osu.ppy.sh/home/news/2022-08-31-new-featured-artist-45)** (2022-08-31)
+  - (![][osu!]) [-45 - Aci-L](https://osu.ppy.sh/beatmapsets/1783108#osu/3651716) ::{ flag=KR }:: [Luscent](https://osu.ppy.sh/users/2688581)によってホスト
+  - (![][osu!]) [-45 - Total Eclipse of The Sun](https://osu.ppy.sh/beatmapsets/1782707#osu/3662485) ::{ flag=US }:: [Matrix](https://osu.ppy.sh/users/5052899)によってホスト
+  - (![][osu!catch]) [-45 - Total Eclipse of The Sun](https://osu.ppy.sh/beatmapsets/1826327#fruits/3748082) ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565)によってホスト
+  - (![][osu!]) [-45 - Reishiki](https://osu.ppy.sh/beatmapsets/1557323#osu/3712677) ::{ flag=FR }:: [Raijodo](https://osu.ppy.sh/users/13400075)によってホスト
+
+### 9月
+
+- **[Andy Gillion](https://osu.ppy.sh/home/news/2022-09-14-new-featured-artist-andy-gillion)** (2022-09-14)
+  - (![][osu!]) [Andy Gillion - Insert Coin](https://osu.ppy.sh/beatmapsets/1842568#osu/3784709) ::{ flag=PL }:: [-Sylvari](https://osu.ppy.sh/users/3493804)によってホスト
+- **[Alestorm](https://osu.ppy.sh/home/news/2022-09-21-new-featured-artist-alestorm)** (2022-09-21)
+  - (![][osu!]) [Alestorm - Shipwrecked](https://osu.ppy.sh/beatmapsets/1850895#osu/3802261) ::{ flag=CA }:: [Gordon](https://osu.ppy.sh/users/7856835)によってホスト
+- **[Ritorikal](https://osu.ppy.sh/home/news/2022-09-24-new-featured-artist-ritorikal)** (2022-09-24)
+  - (![][osu!]) [Ritorikal - Synergy](https://osu.ppy.sh/beatmapsets/1742868#osu/3562994) ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323)によってホスト
+
+### 10月
+
+- **[Mono.](https://osu.ppy.sh/home/news/2022-10-01-new-featured-artist-mono)** (2022-10-01)
+  - (![][osu!]) [Mono. - ST4RDUST*XABER](https://osu.ppy.sh/beatmapsets/1810657#osu/3713836) ::{ flag=KR }:: [_Epreus](https://osu.ppy.sh/users/7342798)によってホスト
+- **[Tokyo.MeltiMelt](https://osu.ppy.sh/home/news/2022-10-05-new-featured-artist-tokyo-meltimelt)** (2022-10-05)
+  - (![][osu!]) [Tokyo.MeltiMelt - I ain't need my heart feat. Hatsuki Yura](https://osu.ppy.sh/beatmapsets/1800571#osu/3691442) ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302)によってホスト
+  - (![][osu!]) [Tokyo.MeltiMelt - Virgin Mary feat. Sennzai](https://osu.ppy.sh/beatmapsets/1830770#osu/3757790) ::{ flag=PH }:: [-Aqua](https://osu.ppy.sh/users/7150015)によってホスト
+  - (![][osu!]) [Tokyo.MeltiMelt - the Beautiful Cure (feat. nayuta)](https://osu.ppy.sh/beatmapsets/1791173#osu/3670518) ::{ flag=GB }:: [Shii](https://osu.ppy.sh/users/9186316)によってホスト
+- **[Hybrid Minds](https://osu.ppy.sh/home/news/2022-10-12-new-featured-artist-hybrid-minds)** (2022-10-12)
+  - (![][osu!]) [Hybrid Minds - Supernova](https://osu.ppy.sh/beatmapsets/1823175) ::{ flag=LT }:: [Strategas](https://osu.ppy.sh/users/2971837)によってホスト
+- **[GLORYHAMMER](https://osu.ppy.sh/home/news/2022-10-15-new-featured-artist-gloryhammer)** (2022-10-15)
+  - (![][osu!]) [GLORYHAMMER - The Epic Rage of Furious Thunder](https://osu.ppy.sh/beatmapsets/1848202#osu/3796617) ::{ flag=TR }:: [Nymphe](https://osu.ppy.sh/users/10507407)によってホスト
+- **[Hinkik](https://osu.ppy.sh/home/news/2022-10-26-new-featured-artist-hinkik)** (2022-10-26)
+  - (![][osu!]) [Hinkik - Explorers](https://osu.ppy.sh/beatmapsets/1861042#osu/3826149) ::{ flag=HU }:: [Nytrocide_](https://osu.ppy.sh/users/11327918)によってホスト
+
+### 11月
+
+- **[happy30](https://osu.ppy.sh/home/news/2022-11-02-new-featured-artist-happy30)** (2022-11-02)
+  - (![][osu!]) [happy30 - You spin my world](https://osu.ppy.sh/beatmapsets/1873680) ::{ flag=ID }:: [Kyouren](https://osu.ppy.sh/users/2013571)によってホスト
+- **[Massive New Krew](https://osu.ppy.sh/home/news/2022-11-05-new-featured-artist-massive-new-krew)** (2022-11-05)
+  - (![][osu!]) [Massive New Krew - Bullshit](https://osu.ppy.sh/beatmapsets/1829152) ::{ flag=DE }:: [Icekalt](https://osu.ppy.sh/users/5410645)によってホスト
+- **[E0ri4](https://osu.ppy.sh/home/news/2022-11-23-new-featured-artist-e0ri4)** (2022-11-23)
+  - (![][osu!]) [E0ri4 - L0V3 4RR0W 5H007](https://osu.ppy.sh/beatmapsets/1889263) ::{ flag=LT }:: [Strategas](https://osu.ppy.sh/users/2971837)によってホスト
+- **[Innocent Key](https://osu.ppy.sh/home/news/2022-11-26-new-featured-artist-innocent-key)** (2022-11-26)
+  - (![][osu!]) [Innocent Key - Lunatic Red Eyes](https://osu.ppy.sh/beatmapsets/1879868) ::{ flag=TR }:: [Entry](https://osu.ppy.sh/users/10213311)によってホスト
+  - (![][osu!mania]) [Innocent Key - Toho-Assisted-Speedrun!!!](https://osu.ppy.sh/beatmapsets/1852057) ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789)によってホスト
+
+### 12月
+
+- **[Ekcle](https://osu.ppy.sh/home/news/2022-12-07-new-featured-artist-ekcle)** (2022-12-07)
+  - (![][osu!]) [Ekcle - Crafted In Ice](https://osu.ppy.sh/beatmapsets/1868244) ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334)によってホスト
+- **[LandRoot](https://osu.ppy.sh/home/news/2022-12-10-new-featured-artist-landroot)** (2022-12-10)
+  - (![][osu!]) [LandRoot - Need To De-stress](https://osu.ppy.sh/beatmapsets/1834399) ::{ flag=DE }:: [PaRaDogi](https://osu.ppy.sh/users/2054596)によってホスト
+  - (![][osu!taiko]) [LandRoot - Need To De-stress](https://osu.ppy.sh/beatmapsets/1474263) ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015)によってホスト
 
 ## 歴史
 

@@ -14,9 +14,9 @@ tags:
 
 ## Timing
 
-Higher OD values mean shorter time windows to clear [hit objects](/wiki/Hit_object), both in general and in terms of getting high [score](/wiki/Gameplay/Score) values. The maximum allowed hit error for each hit object in osu! and osu!mania, centred on the hit object's correct time, is defined by the tables below.
+Higher OD values mean shorter time windows to clear [hit objects](/wiki/Hit_object), both in general and in terms of getting high [score](/wiki/Gameplay/Score) values. The maximum allowed hit error for each hit object in [osu!](/wiki/Game_mode/osu!) and [osu!mania](/wiki/Game_mode/osu!mania), centred on the hit object's correct time, is defined by the tables below.
 
-Note that in the stable version of osu!, hit windows in osu! and osu!taiko can effectively be up to 0.5 ms shorter on both sides than what the formulae suggest, and in osu!mania they can be up to 0.5 ms longer on both sides. This is because in osu! and osu!taiko, a hit is considered inside a hit window if `hit error < round(hit window)`, while in osu!mania it is considered inside if `hit error <= round(hit window)`.
+Note that in the stable version of osu!, hit windows in osu! and [osu!taiko](/wiki/Game_mode/osu!taiko) can effectively be up to 0.5 ms shorter on both sides than what the formulas suggest, and in osu!mania they can be up to 0.5 ms longer on both sides. This is because in osu! and osu!taiko, a hit is considered inside a hit window if `hit error < round(hit window)`, while in osu!mania it is considered inside if `hit error <= round(hit window)`.[^judgement-rounding-ref]
 
 For example, the hit window of a Great in osu!taiko at OD 5 is ±34.5 ms, instead of the ±35 ms the table gives. In osu!mania, the hit window of a MAX is ±16.5 ms, not ±16 ms as the table suggests.
 
@@ -29,6 +29,8 @@ Hit windows for judgments can be viewed when hovering over the [beatmap informat
 | 300 | `80 - 6 * OD` |
 | 100 | `140 - 8 * OD` |
 | 50 | `200 - 10 * OD` |
+
+![](/wiki/shared/ODTable.png "Comparison of hit windows for different combinations of OD and game modifiers. For Half Time and Double Time combinations, the shown OD values are only valid for the hit windows of 300s, and would be different for 100s and 50s.")
 
 ### osu!taiko
 
@@ -56,7 +58,7 @@ If the player hits outside of the 50's hit window, it will count as a miss. In c
 
 ## Sliders and spinners
 
-In [osu!](/wiki/Game_mode/osu!), sliders will reward a 300 as long as they are hit within the 50's hit window. This is sometimes referred to as *slideracc* and is removed in [ScoreV2](/wiki/Game_modifier/ScoreV2)
+In [osu!](/wiki/Game_mode/osu!), [sliders](/wiki/Gameplay/Hit_object/Slider) will reward a 300 as long as they are hit within the 50's hit window. This is sometimes called slider leniency and is removed in [ScoreV2](/wiki/Game_modifier/ScoreV2).
 
 Overall difficulty also affects [spinners](/wiki/Hit_object/Spinner), in that they must be spun more to fill up the gauge in time. In [osu!taiko](/wiki/Game_mode/osu!taiko), the denden will also need more hits to be cleared. The spins per second required to clear a spinner is defined by the following formula:<!-- TODO: this is probably totally wrong with recent spinner changes -->
 
@@ -77,10 +79,8 @@ While Half Time and Double Time do not change the OD value, the speed difference
 
 ## osu!catch
 
-Overall difficulty is visible when viewing osu!catch beatmap information, but it does not affect gameplay.
+Overall difficulty is visible when viewing beatmap information, but it does not affect gameplay.
 
-<!-- TODO: taiko info -->
+## References
 
-<!-- TODO: Insert lots of links -->
-
-<!-- TODO: add CHART -->
+[^judgement-rounding-ref]: [Discord message by spaceman_atlas (2022-05-06) in #osu-wiki in osu!dev](https://discord.com/channels/188630481301012481/218677502141399041/972241866382798889)

@@ -164,7 +164,7 @@ Here's a vod of the stream that compiles all aspects of mapping in 9 hours:
 
 <iframe src="https://player.twitch.tv/?video=974267996&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="100%"></iframe>
 
-<a id="conclusion"></a>
+{#conclusion}
 
 ---
 

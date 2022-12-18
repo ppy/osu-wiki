@@ -4,6 +4,8 @@ stub: true
 tags:
   - game client
   - 遊戲客戶端
+outdated_translation: true
+outdated_since: 54e59c14a408f4d86d58ca292ec6b241c1e45ff8
 ---
 
 # 客戶端

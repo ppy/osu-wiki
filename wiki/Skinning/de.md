@@ -4,11 +4,9 @@ Skinning ist eine der Hauptfunktionen von osu! und ermöglicht Spielern den Stan
 
 ## Skinsets
 
-*Haupseite: [Skinsetliste](/wiki/Ranking_Criteria/Skin_Set_List)*
+*Hauptseite: [Skinsetliste](/wiki/Ranking_Criteria/Skin_Set_List)*
 
-Wenn du einen speziellen Skin in deiner Beatmap verwendest, wird dies als Beatmap-spezifisches Skinning bezeichnet. Hierbei werden die einzelnen Elemente des Skins direkt in den Beatmap-Ordner gepackt und dadurch im Spiel verwendet, sofern der Spieler dies nicht ausdrücklich anders eingestellt hat. Wenn du einen solchen Skin verwenden möchtest, ist das [Ranking Criteria](/wiki/Ranking_Criteria) sowie die [Skinsetliste](/wiki/Ranking_Criteria/Skin_Set_List) zu beachten. 
-
-Falls dein Beatmap-Skin ein gameplay-relevantes Element enthält, müssen alle obligatorischen Elemente aus der zugehörigen Skinsetliste ebenfalls in deiner Beatmap enthalten sein. Genau genommen beziehen sich diese Einschränkungen nur auf Beatmap-Skins für Beatmaps, die den Ranking-Prozess durchlaufen, aber es ist als Skinner generell sinnvoll, diese Liste beim Erstellen eines Skins in Erwägung zu ziehen.
+**Nur für Beatmaps**: Wenn dein Beatmap-Skin ein einziges Element aus den Sets enthält, die in den Ranking-Kriterien aufgelistet werden, muss er auch alle anderen Elemente aus dem besagten Skin-Set enthalten. Das trifft nur auf Beatmap-Skins zu, aber andere Skinersteller können diese Listen auch in Betracht ziehen.
 
 ## Liste der Skinelemente
 

@@ -279,7 +279,9 @@
 "timing_section":              "Beatmapping/Timing_section"
 "touchpad":                    "Gameplay/Input_device/Graphics_tablet"
 "touchscreen":                 "Gameplay/Input_device/Graphics_tablet"
-"touhosu!":                    "Glossary/Touhosu!"
+"touhosu!":                    "History_of_osu!/April_Fools#touhosu!"
+"touhousu!":                   "History_of_osu!/April_Fools#touhosu!"
+"Glossary/Touhosu!":           "History_of_osu!/April_Fools#touhosu!"
 "wip":                         "Beatmap/Category#work-in-progress-and-pending"
 "work_in_progress":            "Beatmap/Category#work-in-progress-and-pending"
 
@@ -1155,6 +1157,10 @@
 "submission/beatmap_ranking_procedure":  "Beatmap_ranking_procedure"
 "submissions/beatmap_ranking_procedure": "Beatmap_ranking_procedure"
 
+"nom": "Beatmap_ranking_procedure#nominations"
+"nomination":  "Beatmap_ranking_procedure#nominations"
+"nominations": "Beatmap_ranking_procedure#nominations"
+
 # Grouped osu! UCI tournaments
 "tournaments/zotcade":      "Tournaments/osu!_UCI"
 "tournaments/zotcade/2019": "Tournaments/osu!_UCI/iDOL@NSTER"
@@ -1441,6 +1447,8 @@
 "time_signature":                   "Music_theory/Time_signature"
 "beatmapping/time_signature":       "Music_theory/Time_signature"
 "downbeat":                         "Music_theory/Downbeat"
+
+"beat":                             "Music_theory/Beat"
 
 # moved in #7154
 "fc":                               "Gameplay/Full_combo"
@@ -2032,3 +2040,9 @@
 # Moved Multiplayer to Client/Interface
 
 "gameplay/multiplayer":                "Client/Interface/Multiplayer"
+
+"chart":                               "Beatmap_Spotlights"
+"charts":                              "Beatmap_Spotlights"
+"cat":                                 "Beatmap_Spotlights/Chart_Assembly_Team"
+"chart_assembly_team":                 "Beatmap_Spotlights/Chart_Assembly_Team"
+"charts_assembly_team":                "Beatmap_Spotlights/Chart_Assembly_Team"

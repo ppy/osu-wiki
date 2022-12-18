@@ -6,7 +6,7 @@ date: 2022-02-07 10:00:00 +0000
 
 The key smashing and drum beating members of the community have had their say, and the results are in! See how your opinions on Performance Points & Star Ratings compare!
 
-![](/wiki/shared/news/2021-07-27-performance-points-star-rating-updates/star-rating.jpg)
+![](/wiki/shared/news/banners/star-rating.jpg)
 
 These latest surveys are born on the back of efforts by the intrepid performance point developers to find out exactly where the community stands on things in the hopes of catering upcoming changes to the largest number of people possible.
 

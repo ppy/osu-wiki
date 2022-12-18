@@ -12,16 +12,14 @@ Les **Nouveaux combos** (abrégé en *NCs*) signalent le début d'un nouveau [co
 
 ## osu!
 
-Dans [osu!](/wiki/Game_mode/osu!), chaque [objet](/wiki/Hit_object) a son propre numéro de combo et sa propre couleur de combo. Lorsqu'un nouveau combo est lancé, la couleur du combo change et le numéro du combo est remis à un. Cela compte pour chaque objet suivant.
+Dans [osu!](/wiki/Game_mode/osu!), chaque [objet](/wiki/Hit_object) a son propre numéro de combo et sa propre [couleur de combo](/wiki/Beatmapping/Combo_colour). Lorsqu'un nouveau combo est lancé, la couleur du combo change et le numéro du combo est remis à un. Cela compte pour chaque objet suivant.
 
-*Note : Les spinners forcent le prochain objet à commencer un nouveau combo.*
+*Note : Les [spinners](/wiki/Gameplay/Hit_object/Spinner) forcent le prochain objet à commencer un nouveau combo.*
 
 ## osu!catch
 
-Dans [osu!catch](/wiki/Game_mode/osu!catch), chaque type de fruit est coloré par la couleur du combo actuellement sélectionné. Lorsqu'un nouveau combo est lancé, la couleur du combo change. Contrairement à osu!, les fruits n'ont pas de numéro.
+Dans [osu!catch](/wiki/Game_mode/osu!catch), chaque type de [fruit](/wiki/Gameplay/Hit_object/Fruit) est coloré par la couleur du combo actuellement sélectionné. Lorsqu'un nouveau combo est lancé, la couleur du combo change. Contrairement à osu!, les fruits n'ont pas de numéro.
 
 ## Autres modes de jeu
 
 Les modes [osu!taiko](/wiki/Game_mode/osu!taiko) et [osu!mania](/wiki/Game_mode/osu!mania) n'utilisent pas de nouveaux combos.
-
-<!--TODO: Insert lots of links-->

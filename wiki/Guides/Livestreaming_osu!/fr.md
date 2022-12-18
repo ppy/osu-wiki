@@ -1,8 +1,3 @@
----
-outdated_since: f7871c217dc440ceb77e42388dbcdda93714992d
-outdated_translation: true
----
-
 # Streamer osu!
 
 Ce guide vous montrera comment faire du stream d'osu! sur Twitch en utilisant [OBS Studio](https://obsproject.com/). C'est relativement simple, bien que cela nécessite un ordinateur puissant capable d'exécuter et de diffuser en continu osu! en même temps.
@@ -11,13 +6,13 @@ Ce guide vous montrera comment faire du stream d'osu! sur Twitch en utilisant [O
 
 Si vous ne l'avez pas encore fait, créez un [compte Twitch](https://www.twitch.tv/signup).
 
-Maintenant, vous devez configurer votre compte pour le livestreaming d'osu!. Sur la page principale, cliquez sur votre avatar en haut à droite et sélectionnez `Tableau de bord du créateur` dans la liste.
+Maintenant, vous devez configurer votre compte pour le streaming d'osu!. Sur la page principale, cliquez sur votre avatar en haut à droite et sélectionnez `Tableau de bord du créateur` dans la liste.
 
 ![](img/dashboard.png "Entrer dans le tableau de bord du créateur")
 
-Le tableau de bord du créateur est l'endroit où vous pouvez configurer les informations relatives à votre stream, la modération du tchat, les informations sur votre profil, etc.... Pour l'instant, nous allons nous concentrer sur les informations du stream. Depuis la page principale du tableau de bord, cliquez sur le bouton `Stream Manager` sur la gauche, puis choisissez l'option `Edit Stream Info` sur la droite.
+Dans le tableau de bord du créateur, vous pouvez configurer les informations du stream, la modération du tchat, et les informations du profil, entre autres personnalisations. Pour commencer, le plus important est de configurer les informations du stream. Depuis la page principale du tableau de bord, cliquez sur le bouton `Stream Manager` sur la gauche, puis choisissez l'option `Edit Stream Info` sur la droite.
 
-Une boîte de dialogue s'ouvre alors pour vous permettre de saisir les informations relatives à votre stream. Vous pouvez remplir les champs comme vous le souhaitez ; cependant, le titre doit comprendre le sujet du stream et être attractif pour les personnes qui consultent la liste des streams disponibles. La catégorie doit correspondre au jeu auquel vous jouez en ce moment, c'est-à-dire `osu!`.
+Une boîte de dialogue s'ouvre alors pour vous permettre de saisir les informations relatives à votre stream. Vous pouvez remplir les champs comme vous le souhaitez ; cependant, le titre doit comprendre le sujet du stream et être attractif pour les personnes qui consultent la liste des streams disponibles. La catégorie doit correspondre au jeu que vous allez streamer, qui est `osu!` dans ce cas.
 
 ![](img/stream-info.png "Modifier les informations de votre stream")
 
@@ -39,9 +34,9 @@ Lorsque vous lancez OBS Studio pour la première fois, l'assistant d'auto-config
 
 ![](img/configuration-wizard.png "L'assistant d'autoconfiguration d'OBS Studio")
 
-La section suivante à configurer est celle des paramètres vidéo. Choisissez la résolution de votre écran dans le champ `Résolution de base (Canvas)` (elle devrait être détectée automatiquement), et `Soit 60 ou 30, mais préférez 60 si possible` dans le champ `FPS`.
+La prochaine étape est de configurer les paramètres vidéo. Choisissez la résolution de votre écran dans le champ `Résolution de base (Canvas)` (elle devrait être détectée automatiquement), et `Soit 60 ou 30, mais préférez 60 si possible` dans le champ `FPS`.
 
-Enfin, vous devrez configurer les informations du stream pour qu'OBS Studio puisse faire du livestream sur Twitch. Cliquez sur le bouton `Use Stream Key`, et entrez la clé de streaming qui a été copiée plus tôt dans ce champ. Laissez les autres options cochées comme elles le sont, et cliquez sur `Next`.
+Enfin, pour connecter l'application à votre chaîne Twitch, vous devrez entrer les informations de votre stream sur OBS Studio. Cliquez sur le bouton `Use Stream Key`, et entrez la clé de streaming qui a été copiée plus tôt dans ce champ. Laissez les autres options cochées comme elles le sont, et cliquez sur `Next`.
 
 ![](img/adding-stream-key.png "Configuration des informations du stream dans OBS Studio")
 
@@ -61,9 +56,9 @@ Si tout va bien, vous devriez voir la fenêtre d'osu! dans l'aperçu.
 
 ## Quelle est la prochaine étape ?
 
-Maintenant, après avoir configuré OBS Studio et votre compte Twitch, cliquez sur `Start Streaming` dans OBS Studio pour faire un livestream. Votre streaming apparaîtra sur [Twitch](https://www.twitch.tv/directory/game/osu!) et sur [la liste des livestreams du site d'osu!](https://osu.ppy.sh/community/livestreams) après quelques minutes. C'est tout ce que vous devez savoir pour vous lancer dans le streaming. Bien entendu, nous n'avons abordé que les bases du livestreaming et il vous reste encore de nombreuses choses à faire, les plus importantes étant les suivantes :
+Maintenant, après avoir configuré OBS Studio et votre compte Twitch, cliquez sur `Start Streaming` dans OBS Studio pour faire un stream. Votre streaming apparaîtra sur [Twitch](https://www.twitch.tv/directory/game/osu!) et sur [la liste des streams du site d'osu!](https://osu.ppy.sh/community/livestreams) après quelques minutes. C'est tout ce que vous devez savoir pour vous lancer dans le streaming. Bien entendu, nous n'avons abordé que les bases du streaming et il vous reste encore de nombreuses choses à faire, les plus importantes étant les suivantes :
 
-- **Trouvez les meilleurs paramètres de stream.** Les paramètres configurés automatiquement par OBS Studio peuvent ne pas être adaptés à votre appareil. Vérifiez donc si votre livestream fonctionne correctement et ce qui doit être amélioré pour offrir la meilleure expérience à vos spectateurs.
-- **Construisez une communauté.** C'est probablement le plus difficile, car créer sa propre communauté à partir de rien demande une quantité folle de dévouement et de temps.
-- **Améliorer la qualité du livestream.** Cela peut inclure l'ajout de nouveaux overlays, la capture de caméra, les effets de transition de scène, les plugins spécifiques à osu!, l'affichage du tchat sur Twitch, l'intégrité de Twitch, et bien plus encore. Vous pouvez également améliorer l'apparence de votre chaîne en définissant un avatar, une bannière et des informations générales.
+- **Trouvez les meilleurs paramètres de stream.** Les paramètres configurés automatiquement par OBS Studio peuvent ne pas être adaptés à votre appareil. Vérifiez donc si votre stream fonctionne correctement et, si ce n'est pas le cas, ce qui doit être amélioré pour offrir la meilleure expérience à vos spectateurs.
+- **Construisez une communauté.** Cette étape est très difficile, car créer sa propre communauté à partir de rien demande un haut niveau d'engagement, de dévouement et beaucoup de temps. Cependant, vos efforts pourraient être récompensés. 
+- **Améliorer la qualité du stream.** Cela peut inclure l'ajout de nouveaux overlays, la capture de caméra, les effets de transition de scène, les plugins spécifiques à osu!, l'affichage du tchat sur Twitch, l'intégrité de Twitch, et bien plus encore. Vous pouvez également améliorer l'apparence de votre chaîne en définissant un avatar, une bannière et des informations générales.
 - ...et surtout, amusez-vous !

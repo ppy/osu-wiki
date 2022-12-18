@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: 0c1111799f86cb20e8ab0f2ab35c5f8cc026f1e0
 tags:
   - NAT
 ---
@@ -49,15 +51,19 @@ La [page du groupe de la Nomination Assessment Team](https://osu.ppy.sh/groups/7
 | Nom | Langues supplémentaires | Principales responsabilités |
 | :-- | :-- | :-- |
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) |  | Évaluation, modération |
+| ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) |  | Évaluation |
+| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | Biélorusse, russe | Évaluation |
 | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonais, chinois | Évaluation |
+| ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | Évaluation |
 | ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Chinois | Évaluation |
+| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Allemand | Évaluation |
+| ::{ flag=SG }:: [Kotoha](https://osu.ppy.sh/users/7823498) | Chinois | Évaluation |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Suédois | Structure, communication |
 | ::{ flag=GB }:: [NexusQI](https://osu.ppy.sh/users/13822800) |  | Évaluation |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | Structure |
 | ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | Évaluation |
 | ::{ flag=AT }:: [Stixy](https://osu.ppy.sh/users/9000308) | Allemand, serbe | Évaluation |
 | ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) |  | Évaluation |
-| ::{ flag=CL }:: [Uberzolik](https://osu.ppy.sh/users/1314547) | Espagnol, français | Évaluation |
 | ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | Néerlandais | Évaluation |
 | ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | Polonais | Évaluation |
 
@@ -66,7 +72,9 @@ La [page du groupe de la Nomination Assessment Team](https://osu.ppy.sh/groups/7
 | Nom | Langues supplémentaires | Principales responsabilités |
 | :-- | :-- | :-- |
 | ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | Allemand | Évaluation |
+| ::{ flag=UK }:: [Dusk-](https://osu.ppy.sh/users/6092181) | Ourdou, un peu d'arabe | Évaluation |
 | ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733) | Cantonais, chinois | Évaluation |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Arabe, français, un peu d'italien | Évaluation |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | Évaluation |
 
 ### osu!catch
@@ -75,7 +83,7 @@ La [page du groupe de la Nomination Assessment Team](https://osu.ppy.sh/groups/7
 | :-- | :-- | :-- |
 | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | Espagnol, allemand | Évaluation, modération |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Néerlandais | Évaluation, structure |
-| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) | | Évaluation |
+| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  | Évaluation |
 
 ### osu!mania
 

@@ -1,3 +1,8 @@
+---
+outdated_since: cf0ddf848ad418ee3a61282b7e83aa437082021d
+outdated_translation: true
+---
+
 # Internet Relay Chat
 
 *Untuk informasi lebih lanjut, lihat: [Internet Relay Chat (Wikipedia)](https://id.wikipedia.org/wiki/IRC)*

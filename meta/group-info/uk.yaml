@@ -1,0 +1,34 @@
+outdated_since: 0522bc4c323f9a2b0c89a6b9582109a0608c6287
+outdated_translation: true
+
+separator: ", "
+alumni:
+  roles:
+    academy: Засновник osu!academy
+    admin: Адміністрація
+    chat: Модератор чату
+    dev: Розробник osu!
+    media: Творець osu!media
+    support: Команда підтримки
+    tournaments: Організатор змагань
+gmt:
+  all_mods: всі модератори
+  areas:
+    beatmap: модерація мап
+    chat: модерація чату
+    forum: модерація форумів
+    team: офіційний представник команди
+    dev: розробка osu!
+    player: підтримка гравців
+    support: технічна підтримка
+    tournaments: організатор змагань
+    wiki: адміністрація вікі
+    mapping: модерація спільноти маперів\модерів
+nat:
+  areas:
+    communication: зворотній зв'язок
+    evaluation: оцінка
+    moderation: модерація
+    structural: організація
+languages:
+  partial: частково <language>

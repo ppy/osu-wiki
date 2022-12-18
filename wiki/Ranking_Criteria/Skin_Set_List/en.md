@@ -8,6 +8,8 @@ Filenames containing `{-n}` or `{n}`, excluding combobursts, can be animated. Fo
 
 ## osu!
 
+Skin element list: [Skinning osu!](/wiki/Skinning/osu!)
+
 ### Cursor set
 
 The entirety of this skin set is gameplay relevant.
@@ -95,27 +97,47 @@ Please note that the recommended sizes for all elements in this set is handled v
 
 ### Spinner set
 
-All elements excluding spinner-osu.png and spinner-rpm.png are gameplay relevant. If you include elements labelled as "basic spinner style" in the notes, you **must not** include elements labelled as the "new spinner style".
+osu! has two spinner styles, only one of which can be used in a skin at the same time. Using exclusive elements from both of them is **not allowed**: if elements from both are present, the old style will take priority.
 
-This is because the basic spinner style will take priority over the new one if both styles are present. The new spinner style will only work if the user-specific skin does not use the basic spinner style and supports skin versions 2 or higher, or if the default skin is forced in the beatmap.
+The new spinner style will only work if the user-specific skin does not use the old one and supports skin versions 2 or higher, or if the default skin is forced in the beatmap.
+
+All elements in each set excluding spinner-osu.png and spinner-rpm.png are gameplay relevant. 
+
+### Old spinner style set
+
+If using the old style set, you **must not** add elements noted as "exclusive to the new set".
 
 | File Name | Notes | Set Completion | Recommended Sizes for SD Skins |
 | --: | :-: | :-: | :-: |
-| spinner-background.png | basic spinner style | required | - |
-| spinner-circle.png | basic spinner style | required | 666x666px |
-| spinner-metre.png | basic spinner style | required | 1024x692px |
-| spinner-bottom.png | new spinner style | required | 667x667px |
-| spinner-glow.png | new spinner style | required | 852x852px |
-| spinner-middle.png | new spinner style | required | 689x689px |
-| spinner-middle2.png | new spinner style | required | 17x17px |
-| spinner-top.png | new spinner style | required | 667x667px |
-| spinner-approachcircle.png | used by both sets | required | 384x384px |
+| spinner-background.png | exclusive to the old set | required | - |
+| spinner-circle.png | exclusive to the old set | required | 666x666px |
+| spinner-metre.png | exclusive to the old set | required | 1024x692px |
+| spinner-approachcircle.png | - | required | 384x384px |
+| spinner-clear.png | - | required | - |
+| spinner-spin.png | - | required | - |
+| spinner-osu.png | will only work if an user-specific skin supports skin version 1 | optional | - |
+| spinner-rpm.png | should be included if both score number set and spinner set are skinned | optional | 280x56px |
+
+### New spinner style set
+
+If using the new style set, you **must not** add elements noted as "exclusive to the old set".
+
+| File Name | Notes | Set Completion | Recommended Sizes for SD Skins |
+| --: | :-: | :-: | :-: |
+| spinner-bottom.png | exclusive to the new set | required | 667x667px |
+| spinner-glow.png | exclusive to the new set | required | 852x852px |
+| spinner-middle.png | exclusive to the new set | required | 689x689px |
+| spinner-middle2.png | exclusive to the new set | required | 17x17px |
+| spinner-top.png | exclusive to the new set | required | 667x667px |
+| spinner-approachcircle.png | - | required | 384x384px |
 | spinner-clear.png | - | required | - |
 | spinner-spin.png | - | required | - |
 | spinner-osu.png | will only work if an user-specific skin supports skin version 1 | optional | - |
 | spinner-rpm.png | should be included if both score number set and spinner set are skinned | optional | 280x56px |
 
 ## osu!taiko
+
+Skin element list: [Skinning osu!taiko](/wiki/Skinning/osu!taiko)
 
 ### Hit object set
 
@@ -158,6 +180,8 @@ This skin set is not gameplay relevant.
 
 ## osu!catch
 
+Skin element list: [Skinning osu!catch](/wiki/Skinning/osu!catch)
+
 ### Fruits set
 
 The entirety of this skin set is gameplay relevant.
@@ -190,6 +214,8 @@ For catchers the plate must be perfectly centred and exactly 302px across in wid
 | lighting.png | should only be used on beatmaps without osu! difficulties (shared image) | optional | - |
 
 ## Interface
+
+Skin element list: [Interface skinning](/wiki/Skinning/Interface)
 
 ### Scorebar set
 

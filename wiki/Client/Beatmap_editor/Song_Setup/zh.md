@@ -100,7 +100,7 @@ Approach Rate 通常缩写为"**AR**"。
 - [Double Time](/wiki/Game_modifier/Double_Time)：增长 OD 值使得判定区间缩短33%。
 - [Half Time](/wiki/Game_modifier/Half_Time)：降低 OD 值使得判定区间增长50%。
 
-![OD 细节总表](img/ODTable.png "OD 细节总表")
+![OD 细节总表](/wiki/shared/ODTable.png "OD 细节总表")
 
 **注意：** osu! 的判定系统不允许[圆圈在其前一个物件被击打前或其判定时间结束](/wiki/Hit_object)（即 miss 该物件）前被击中。在低 OD 的情况下，一个圆圈的判定时间可能与其他物件重叠，因此你可能在完全正确的时间击打某个物件而由于其前面的物件判定时间未结束而导致 miss。
 

@@ -68,8 +68,6 @@ Si nous décidons de vous laisser revenir, nous vous demanderons que vous accept
 - **Vous ne vous associerez pas avec d'autres comptes.** Cela inclut de jouer sur un ordinateur partagé.
 - **Le moindre mauvais comportement majeur aura pour résultat une restriction immédiate.** Cela inclut les silences majeurs.
 
-Par ailleurs, pour une période d'un an, nous n'accepterons pas de changement de pays sur votre compte.
-
 Dans certains cas, un utilisateur qui revient d'une restriction peut être banni des tournois officiels, à la fois en tant que joueur et membre de l'équipe du tournoi. La durée de ce bannissement est d'un an par restriction (si l'utilisateur en est à sa deuxième restriction, le bannissement durera 2 ans). L'équipe de support aux comptes clarifiera la durée de ce bannissement.
 
 **Tricher ou partager son compte durant un tournoi officiel mènera à un bannissement permanent de l'utilisateur.** Vous ne pouvez pas faire appel quant à ce bannissement (votre mail sera ignoré si vous essayez) et ne sera pas supprimé, réduit ou levé dans n'importe quelles circonstances.

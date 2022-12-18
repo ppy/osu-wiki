@@ -45,7 +45,7 @@ Dans le mode [osu!catch](/wiki/Game_mode/osu!catch), le BPM et la vitesse de l'a
 
 - Lorsque le mod Half Time est activé, les valeurs `Length`, `BPM`, et `Objects` seront colorées en bleu clair avec les nouvelles valeurs. (Illustration ci-dessous.)
   - La valeur de `Objects` sera toujours colorée en bleu clair même si aucun changement de valeur n'est réellement effectué.
-- Les valeurs `CS`, `AR`, et `HP` auront un triangle en exposant à côté de leurs valeurs qui indique une petite diminution de leurs valeurs (illustré ci-dessous).
+- Les valeurs `AR`, `OD`, et `HP` auront un triangle en exposant à côté de leurs valeurs qui indique une petite diminution de leurs valeurs (illustré ci-dessous).
 - Le nom "Half Time" pourrait être qualifié d'erroné, car le mod HT ne diminue pas réellement la vitesse d'une beatmap de 0,5x fois (50%) ; il diminue la vitesse des beatmaps de 0,75x (75%).
 
 ![Valeurs modifiées](img/GM_HT.jpg "Capture d'écran des valeurs de beatmap modifiées par le mod Half Time")

@@ -655,6 +655,8 @@ Il existe deux types de liens d'image : en ligne et de référence. Exemples :
 
 Les images doivent utiliser le style de lien en ligne. Les définitions des liens de référence doivent être placées au bas de l'article.
 
+Tous les blocs d'images de la page (qui n'ont rien d'autre sur la même ligne) sont combinés en une seule galerie, qui peut être parcourue à l'aide d'icônes fléchées des deux côtés de l'écran, de raccourcis clavier ou de balayages de l'écran sur les appareils mobiles.
+
 ### Texte alternatif et texte de titre
 
 Le texte figurant dans la première paire de crochets (*texte alternatif*) doit décrire l'image littéralement. Il est utilisé par les lecteurs d'écran ou lorsque le chargement de l'image échoue. Il peut être omis s'il est identique au texte du titre ou si l'image est incluse uniquement à des fins décoratives.
@@ -665,9 +667,9 @@ Le texte entre guillemets (*texte du titre*) doit donner un contexte supplément
 
 Si une image est le seul contenu d'un paragraphe, elle s'affiche comme un bloc centré. Sinon, elle se fond dans le texte en ligne qui l'entoure.
 
-Les images en bloc avec un texte de titre affichent le texte du titre comme une légende sous l'image.
+Les images en bloc avec un texte de titre affichent le texte du titre comme une légende sous l'image. Évitez d'ajouter des [commentaires HTML](#commentaires) ou tout autre texte sur la même ligne que l'image, car la légende ne sera pas affichée.
 
-Les images en bloc sont généralement associées au formatage des infobox afin de réduire leur taille initiale et de les faire flotter à côté d'autres contenus :
+Les images en bloc sont généralement associées au formatage des [infoboxes](#infoboxes) afin de réduire leur taille initiale et de les faire flotter à côté d'autres contenus :
 
 ```markdown
 ::: Infobox
@@ -794,6 +796,27 @@ Voici un exemple de ce à quoi doit ressembler un tableau :
 | Maria | Pas de concours | Mocha |  |
 ```
 
+## Infoboxes
+
+Une infobox est un bloc de largeur fixe qui est aligné sur le côté droit de l'article. Il peut contenir une image pertinente, qui explique le texte environnant, ou un bloc de navigation qui renvoie à d'autres articles de la même catégorie.
+
+Exemple d'utilisation, rendu à droite :
+
+::: Infobox
+![](/wiki/shared/mods/SD.png "Icône du mod Sudden Death")
+:::
+
+```markdown
+::: Infobox
+![](/wiki/shared/mods/SD.png "Icône du mod Sudden Death")
+:::
+```
+
+Les infoboxes doivent être utilisées avec prudence dans les cas suivants :
+
+- Les sections courtes : le titre de la section suivante apparaît sous les infoboxes, laissant un grand vide après le texte.
+- Plusieurs images à la fois : utilisez plutôt des infoboxes individuelles pour un meilleur rendu.
+
 ## Notes de bas de page
 
 Les notes de bas de page sont de courtes notes situées à la fin de la page. Elles sont utilisées pour citer des sources ou fournir des informations d'arrière-plan qui, autrement, perturberaient le contenu de l'article. Les notes de bas de page peuvent contenir du texte mis en forme et des liens.
@@ -820,15 +843,19 @@ L'osu! wiki est un projet destiné à remplacer l'ancien système de FAQ.[^wiki-
 
 Les citations, ou références, sont utilisées pour identifier une source d'information. Les citations par le biais de notes de bas de page doivent être préférées aux liens en ligne.
 
-Exemple :
+Les citations doivent, dès que possible, préciser l'auteur, la date, le service/la plateforme et le titre. Le format exact peut varier en fonction des citations, avec une préférence pour la brièveté.
+
+Exemples :
 
 ```markdown
-La première version de l'osu!api a été mise à disposition le 2 juillet 2013[^api-first-usage] Elle avait été saluée par la critique des utilisateurs.[^api-praise]
+La première version de l'osu!api a été mise à disposition le 2 juillet 2013.[^api-first-usage] Elle avait été saluée par la critique des utilisateurs.[^api-praise] Une nouvelle version de l'API, publiée plusieurs années plus tard, contient beaucoup plus de capacités.[^api-v2-2020] Le versionnage des points de terminaison est courant parmi les API web.[^web-api]
 
 ## Références
 
-[^api-first-usage]: [osu!api bêta ouverte](https://osu.ppy.sh/community/forums/posts/2403913)
-[^api-praise]: [osu!api bêta ouverte](https://osu.ppy.sh/community/forums/posts/2662247)
+[^api-first-usage]: [Forum de discussion par peppy (02/07/2013) "osu!api bêta ouverte"](https://osu.ppy.sh/community/forums/posts/2403913)
+[^api-praise]: [Post par Menshi (02/11/2013) sur "osu!api bêta ouverte"](https://osu.ppy.sh/community/forums/posts/2662247)
+[^api-v2-2020]: [Tweet de @ppy (20/03/2020)](https://twitter.com/ppy/status/1263083636363948032)
+[^web-api]: ["Web API" sur Wikipedia](https://en.wikipedia.org/wiki/Web_API)
 ```
 
 ### Notes

@@ -1,6 +1,6 @@
 # Tutorial für Anfänger
 
-Willkommen zum osu! Anfängertutorial. Die Welt von osu! kann manchmal ein sehr kompetitiver Ort sein. Egal, ob du nach einem Extra-Schub suchst, um deine Karriere zu starten, in osu! kompetitiv sein willst oder einfach nur hoffst, dich zu verbessern, um mehr Spaß am Spiel zu haben, hier bist du richtig! Diese Anleitung beinhaltet alles, was du wissen musst, um in die Welt von osu! einzutauchen und aufzusteigen.
+Willkommen zum osu!-Anfängertutorial. Die Welt von osu! kann manchmal ein sehr kompetitiver Ort sein. Egal, ob du nach einem Extra-Schub suchst, um deine Karriere zu starten, in osu! kompetitiv sein willst oder einfach nur hoffst, dich zu verbessern, um mehr Spaß am Spiel zu haben, hier bist du richtig! Diese Anleitung beinhaltet alles, was du wissen musst, um in die Welt von osu! einzutauchen und aufzusteigen.
 
 ## Arten der Eingabemethode
 
@@ -17,7 +17,7 @@ Es gibt noch mehr Arten, den Cursor zu bewegen (Wii-Fernbedienung, Bewegungssens
 
 ### Maus
 
-Wenn du bei der Maus bleiben möchtest, solltest du dir eine kabelgebundene Maus zulegen, da Funk-/Bluetoothmäuse gerne die Verbindung trennen oder ruckeln. Wobei natürlich jede Maus gut funktionieren kann; manche Leute nutzen sogar Mäuse aus dem Ramschladen! Es ist außerdem hilfreich, wenn du dieselbe Maus über eine längere Zeit nutzt. Versuch also, eine Maus zu finden, die auch lange hält! Spieler, die mit Maus spielen, sind besonders gut in:
+Wenn du bei der Maus bleiben möchtest, solltest du dir eine kabelgebundene Maus zulegen, da Funk-/Bluetoothmäuse gerne die Verbindung trennen oder ruckeln. Natürlich kann jede Maus gut funktionieren. Manche Leute nutzen sogar Mäuse aus dem Ramschladen! Es ist außerdem hilfreich, wenn du dieselbe Maus über eine längere Zeit nutzt. Versuch also, eine Maus zu finden, die auch lange hält! Spieler, die mit Maus spielen, sind besonders gut in:
 
 - Sprüngen, besonders bei rechten und geraden Winkeln.
 - Stabilität und Zielgenauigkeit, was es einfacher macht, "kleinere" Kreise zu treffen.
@@ -50,7 +50,7 @@ Touchscreen-Spieler haben Probleme mit:
 
 ### Klicken mit Tastatur
 
-Wenn du mit Maus oder Tablet spielst oder irgendeiner anderer Eingabemethode, kannst du auch deine Tastatur verwenden (standardmäßig `Z` und `X`), um die Kreise anzuklicken. Der Vorteil dabei ist, dass die physische Bewegung auf zwei Hände verteilt wird, anstatt mit dem Eingabegerät fürs Zielen auch zu klicken, wodurch du schnellere Abschnitte wesentlich einfacher bewältigen kannst. Daran muss man sich erst gewöhnen, aber wenn du dich entscheidest, deine Tastatur zum Klicken zu nutzen, ist es keine schlechte Idee, dich schon früh daran zu gewöhnen.
+Wenn du mit Maus, Tablet oder irgendeiner anderen Eingabemethode spielst, kannst du auch deine Tastatur verwenden (standardmäßig `Z` und `X`), um die Kreise anzuklicken. Der Vorteil dabei ist, dass die physische Bewegung auf zwei Hände verteilt wird, anstatt mit dem Eingabegerät fürs Zielen auch zu klicken, wodurch du schnellere Abschnitte wesentlich einfacher bewältigen kannst. Daran muss man sich erst gewöhnen, aber wenn du dich entscheidest, deine Tastatur zum Klicken zu nutzen, ist es keine schlechte Idee, dich schon früh daran zu gewöhnen.
 
 ## Gameplay-Techniken
 
@@ -58,7 +58,7 @@ Wenn du mit Maus oder Tablet spielst oder irgendeiner anderer Eingabemethode, ka
 
 Einer der wichtigsten Faktoren beim Spielen von osu! ist dein Timing, ähnlich wie in anderen Rhythmusspielen. In diesem Sinne sollte es, wenn du schon viel Musik gehört hast, recht leicht zu erlernen sein. Das Ziel von Genauigkeit und Timing ist es, die Kreise so zeitlich präzise wie möglich anzuklicken.
 
-Jedes Objekt im Spiel hat einen "Approach-Circle"; ein großer Ring, welcher sich langsam dem "Hit-Circle" annähert. Wenn der Ring den Hit-Circle erreicht, solltest du diesen anklicken! Wenn du genau hinschaust, wird es dir helfen zu erkennen, ob ein Hit-Circle auf einem Halb- oder einem Volltakt liegt oder ob du auf den nächsten Hit-Circle warten musst.
+Jedes Objekt im Spiel hat einen "Approach-Circle". Das ist ein großer Ring, welcher sich langsam dem "Hit-Circle" annähert. Wenn der Ring den Hit-Circle erreicht, solltest du diesen anklicken! Wenn du genau hinschaust, wird es dir helfen zu erkennen, ob ein Hit-Circle auf einem Halb- oder einem Volltakt liegt oder ob du auf den nächsten Hit-Circle warten musst.
 
 Musik spielt in Takten und Rhythmen. Wenn du eine Beatmap startest (oder sogar bevor du spielst), achte darauf, wie das Lied klingt, um im Voraus ein gutes Verständnis für die Melodie und den Rhythmus, zu welchen du die Hit-Circles anklicken wirst, zu erhalten. Wenn du mit dem Lied vertrauter wirst, kannst du ein besseres Timing und eine bessere Koordination erreichen.
 
@@ -70,7 +70,7 @@ Die beste Art und Weise, wie du das Zielen üben kannst, ohne osu! zu spielen, i
 
 ### Geschwindigkeit
 
-Irgendwann, wenn du auf schwerere Schwierigkeitsstufen stößt, wirst du die Hit-Cicles schneller anklicken müssen. Sich im Geschwindigkeitsbereich zu verbessern, ist eigentlich ganz einfach; alles, was du tun musst, ist, dich selbst dazu zu zwingen, schneller zu klicken. Du kannst Spiele spielen, bei denen du so schnell wie möglich Eingaben machen musst, wie z.B. Cookie-Klicker oder andere Spiele, bei denen du Tasten drücken musst (sie sind online durch Googeln sehr leicht zu finden).
+Irgendwann, wenn du auf schwerere Schwierigkeitsstufen stößt, wirst du die Hit-Cicles schneller anklicken müssen. Sich im Geschwindigkeitsbereich zu verbessern, ist eigentlich ganz einfach. Alles, was du tun musst, ist, dich selbst dazu zu zwingen, schneller zu klicken. Du kannst Spiele spielen, bei denen du so schnell wie möglich Eingaben machen musst, wie z.B. Cookie-Klicker oder andere Spiele, bei denen du Tasten drücken musst (sie sind online durch Googeln sehr leicht zu finden).
 
 ### Übung
 
@@ -104,11 +104,11 @@ Ein meist übersehendes Feature ist "Raw Input". Raw Input erlaubt das direkte E
 
 *Siehe auch: [Skinning](/wiki/Skinning)*
 
-Es gibt viele, viele Skins zur Auswahl; du kannst sie in den Foren finden, im Chat verlinkt oder sogar, indem du andere Spieler fragst! Auch wenn diese Skins dein Gameplay nicht verbessern, so können sie doch helfen, dich zu motivieren, oder das Spielen von osu! für die Augen einfacher machen. Oder wenn du es bevorzugst, nicht so einen großen Teil des Bildschirms mit dem osu!-HUD vollgepackt zu haben, kannst du einen Skin mit einem minimalen Ansatz finden. Du kannst sogar von den [Profis](https://osu.ppy.sh/community/forums/topics/87675) zusammengestellte Skins finden und sehen, was diese Skins erfolgreicher macht. Einige Skins wurden zur besseren Sichtbarkeit erstellt, während andere skurril und nur zum Spaß sind. Kurz: Es ist eine andere Art und Weise, wie du mehr Freude an osu! haben und deine Erfahrungen beim Erklimmen der Ränge ein bisschen schöner machen kannst ;)
+Es gibt viele, viele Skins zur Auswahl. Du kannst sie in den Foren finden, im Chat verlinkt oder sogar, indem du andere Spieler fragst! Auch wenn diese Skins dein Gameplay nicht verbessern, so können sie doch helfen, dich zu motivieren, oder das Spielen von osu! für die Augen einfacher machen. Oder wenn du es bevorzugst, nicht so einen großen Teil des Bildschirms mit dem osu!-HUD vollgepackt zu haben, kannst du einen Skin mit einem minimalen Ansatz finden. Du kannst sogar von den [Profis](https://osu.ppy.sh/community/forums/topics/87675) zusammengestellte Skins finden und sehen, was diese Skins erfolgreicher macht. Einige Skins wurden zur besseren Sichtbarkeit erstellt, während andere skurril und nur zum Spaß sind. Kurz: Es ist eine andere Art und Weise, wie du mehr Freude an osu! haben und deine Erfahrungen beim Erklimmen der Ränge ein bisschen schöner machen kannst ;)
 
 ## Anfängerbeatmaps
 
-Probier diese Beatmaps! Sie sind von einfach bis schwer geordnet; versuch also, dich in deinem eigenen Tempo durch die Liste zu arbeiten!
+Probier diese Beatmaps! Sie sind von einfach bis schwer geordnet. Versuche also, dich in deinem eigenen Tempo durch die Liste zu arbeiten!
 
 ### Anfänger
 

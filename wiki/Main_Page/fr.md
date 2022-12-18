@@ -96,9 +96,11 @@ Faites votre part : [Comment et avec quoi aider](/wiki/Community/How_you_can_hel
 
 L'interaction sociale est l'une des principales choses qui alimentent les joueurs d'osu! dans le monde entier. Explorez les activités et les concours, entrez en contact avec d'autres personnes ou aidez à organiser le prochain grand événement !
 
+Lieux d'échanges : [Forum](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_Chat)
+
 [Tournois](/wiki/Tournaments) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Concours](/wiki/Contests) • [Community mentorship program](/wiki/Community/Community_Mentorship_Program)
 
-[Projets](/wiki/Community/Projects) : [Featured Artists](/wiki/Featured_Artists) • [osu! community meetings](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk)
+[Projets](/wiki/Community/Projects) • [Featured Artists](/wiki/Featured_Artists) • [Project Loved](/wiki/Community/Project_Loved) • [osu! community meetings](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk)
 
 Organisations : [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
@@ -129,7 +131,7 @@ Interagissez avec osu! via d'autres applications et médias, ou contribuez à so
 
 Comme presque tout ici, le wiki d'osu! est écrit et maintenu par des volontaires. Suggérez une amélioration, signalez un problème, ou même écrivez votre propre article sur le [dépôt osu-wiki sur GitHub](https://github.com/ppy/osu-wiki).
 
-[L'histoire d'osu!](/wiki/History_of_osu!) • [L'histoire de l'osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [Calendrier de mapping et de modding](/wiki/Mapping_and_Modding_Timeline) • [April Fools](/wiki/History_of_osu!/April_Fools)
+[L'histoire d'osu!](/wiki/History_of_osu!) • [L'histoire de l'osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [Calendrier de mapping et de modding](/wiki/History_of_osu!/Mapping_and_Modding_Timeline) • [April Fools](/wiki/History_of_osu!/April_Fools)
 
 [Plan du site](/wiki/Sitemap) • [Guide de contribution](/wiki/osu!_wiki/Contribution_guide) • [Critères de mise en forme d'article](/wiki/Article_styling_criteria) • [Critères de mise en forme des news](/wiki/News_styling_criteria)
 

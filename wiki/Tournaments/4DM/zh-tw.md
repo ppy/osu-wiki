@@ -6,6 +6,7 @@ no_native_review: true
 
 所有 4 Digit osu!mania 世界盃系列賽的索引頁。
 
+- [4 Digit osu!mania 世界盃](1)
 - [4 Digit osu!mania 世界盃 2](2)
 - [4 Digit osu!mania 世界盃 3](3)
 - [4 Digit osu!mania 世界盃 4](4)

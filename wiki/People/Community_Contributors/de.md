@@ -1,8 +1,3 @@
----
-outdated_since: 46a9f7c7d79fde8fd96098a16ac1203efd156ad1
-outdated_translation: true
----
-
 # Mitwirkende der Community
 
 ![Contributor-Abzeichen](/wiki/shared/contributor.jpg "Contributor-Abzeichen")
@@ -192,3 +187,27 @@ Nicht zu verwechseln mit [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), die f
 | ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | Herausragende Beiträge zur Skinning- und Moderationsszene von osu! |
 | ::{ flag=US }:: [I Must Decrease](https://osu.ppy.sh/users/2773526) | Herausragende Beiträge zur Wartung und Entwicklung des Scorings |
 | ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189) | Herausragende Beiträge zu den World Cups und Community-Turnieren |
+
+## 2022
+
+### Juni
+
+*Für den Newsbeitrag, siehe: [Community Contributors: 2021](https://osu.ppy.sh/home/news/2022-06-30-community-contributors-2021)*
+
+| Benutzer | Beiträge |
+| :-- | :-- |
+| ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263) | Herausragende Beiträge zu der Community-Turnierszene von osu!taiko |
+| ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502) | Herausragende Beiträge zur Entwicklung von osu!(lazer) |
+| ::{ flag=HR }:: [Susko3](https://osu.ppy.sh/users/18945305) | Herausragende Beiträge zur Entwicklung von osu!(lazer) und osu!framework |
+| ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455) | Herausragende Beiträge zur Entwicklung und Wartung der osu!-Performance-Punkte |
+| ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549) | Herausragende Beiträge zur Entwicklung der osu!-Performance-Punkte |
+| ::{ flag=AU }:: [MBmasher](https://osu.ppy.sh/users/4498616) | Herausragende Beiträge zur Entwicklung der osu!-Performance-Punkte und zur Wiederbelebung der Mod Flashlight |
+| ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | Herausragende Beiträge zum osu!-Wiki-Projekt |
+| ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) | Herausragende Beiträge zum osu!-Wiki-Projekt |
+| ::{ flag=NZ }:: [Technocoder](https://osu.ppy.sh/users/10338558) | Herausragende Beiträge zum technischen Support für macOS |
+| ::{ flag=LT }:: [huu](https://osu.ppy.sh/users/6044237) | Herausragende Beiträge zum Management und zur Organisation von Project Loved |
+| ::{ flag=NL }:: [OliBomby](https://osu.ppy.sh/users/6573093) | Herausragende Beiträge zur osu!-Mapping-Szene mit der Entwicklung von Tools |
+| ::{ flag=TR }:: [frukoyurdakul](https://osu.ppy.sh/users/7612550) | Herausragende Beiträge zur osu!taiko-Mapping-Szene mit der Entwicklung von Tools |
+| ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | Herausragende Beiträge zur osu!-Turnierszene und den World Cups |
+| ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | Herausragende Beiträge zur osu!-Turnierszene und den World Cups |
+| ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815) | Herausragende Beiträge zu osu! IRL-Events und zur Turnierszene |

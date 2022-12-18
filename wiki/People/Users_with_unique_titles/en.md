@@ -128,6 +128,7 @@ Most official mapping contests offer the **Elite Mapper** title as a first-place
 - ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114)
 - ::{ flag=US }:: [Behonkiss](https://osu.ppy.sh/users/106)
 - ::{ flag=KR }:: [Beige](https://osu.ppy.sh/users/685229)
+- ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552)
 - ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565)
 - ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334)
 - ::{ flag=MY }:: [ExPew](https://osu.ppy.sh/users/665612)
@@ -135,6 +136,7 @@ Most official mapping contests offer the **Elite Mapper** title as a first-place
 - ::{ flag=JP }:: [Gamu](https://osu.ppy.sh/users/611174)
 - ::{ flag=GB }:: [hypercyte](https://osu.ppy.sh/users/9155377)
 - ::{ flag=CA }:: [jonathanlfj](https://osu.ppy.sh/users/270377)
+- ::{ flag=KR }:: [Kawawa](https://osu.ppy.sh/users/4647754)
 - ::{ flag=CA }:: [ktgster](https://osu.ppy.sh/users/53378)
 - ::{ flag=RU }:: [kuyusu](https://osu.ppy.sh/users/11758667)
 - ::{ flag=NL }:: [Kyshiro](https://osu.ppy.sh/users/640611)
@@ -156,6 +158,10 @@ Most official mapping contests offer the **Elite Mapper** title as a first-place
 - ::{ flag=LY }:: [Soul Evans](https://osu.ppy.sh/users/4490770)
 - ::{ flag=BE }:: [Sylas](https://osu.ppy.sh/users/3906405)
 - ::{ flag=KR }:: [Taeyang](https://osu.ppy.sh/users/2732340)
+- ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811)
+- ::{ flag=CN }:: [TtmnZk](https://osu.ppy.sh/users/2495509)
+- ::{ flag=CN }:: [yf\_bmp](https://osu.ppy.sh/users/1243669)
+- ::{ flag=CN }:: [Yugu](https://osu.ppy.sh/users/3161834)
 - ::{ flag=RU }:: [xbopost](https://osu.ppy.sh/users/6842421)
 - ::{ flag=SE }:: [Xgor](https://osu.ppy.sh/users/98661)
 - ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768)
@@ -239,6 +245,7 @@ The [osu!trivium Quiz contests](/wiki/Contests/osu!trivium_Quiz) award its winni
 | ::{ flag=ES }:: [sotuiofficial](https://osu.ppy.sh/users/14779258) | [Rising Sun Traxx](https://osu.ppy.sh/beatmaps/artists/41) |
 | ::{ flag=RU }:: [tieff](https://osu.ppy.sh/users/89619) | [tieff](https://osu.ppy.sh/beatmaps/artists/34) |
 | ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) | [VINXIS](https://osu.ppy.sh/beatmaps/artists/22) |
+| ::{ flag=TH }:: [YuugenP](https://osu.ppy.sh/users/2014016) | [rN](https://osu.ppy.sh/beatmaps/artists/190) |
 
 ## Mascot design contest winners
 
@@ -265,10 +272,14 @@ These storyboarders were awarded the **Elite Storyboarder** title for demonstrat
 
 - ::{ flag=DK }:: [-Tochi](https://osu.ppy.sh/users/3664366)
 - ::{ flag=US }:: [11t](https://osu.ppy.sh/users/2112092)
+- ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552)
 - ::{ flag=FR }:: [Damnae](https://osu.ppy.sh/users/989377)
 - ::{ flag=PL }:: [Exile-](https://osu.ppy.sh/users/2559349)
 - ::{ flag=RU }:: [Shmiklak](https://osu.ppy.sh/users/5504231)
-- ::{ flag=CN }:: [yf_bmp](https://osu.ppy.sh/users/1243669)
+- ::{ flag=RU }:: [Tommy Phelps](https://osu.ppy.sh/users/10974581)
+- ::{ flag=DZ }:: [VenerableNyanta](https://osu.ppy.sh/users/12243368)
+- ::{ flag=CN }:: [yf_bmp](https://osu.ppy.sh/users/1243669)[^yf-note]
+- ::{ flag=CN }:: [Yumeno Himiko](https://osu.ppy.sh/users/1806962)
 
 ## Gameplay-related
 
@@ -327,3 +338,4 @@ These users were awarded their respective titles for miscellanous reasons.
 [^mao-note]: ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515) was awarded with the **Elite Mapper II** title instead for having successfully earned the Elite Mapper title through two different means: Winning the [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) contest and surpassing the 6-points threshold in the new [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) system.
 [^charles445-note]: ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000) was awarded with the **Elite Mapper II : Aspirant** title instead for having won both the [Monthly Beatmapping Contest #1](https://osu.ppy.sh/home/news/2013-10-20-monthly-beatmapping-contest-1-results) and the [Monthly Beatmapping Contest: Aspire (2014)](https://osu.ppy.sh/home/news/2014-11-13-monthly-beatmapping-contest-aspire-results).
 [^billiummoto-note]: ::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471) was awarded with the **osu!mixer II** title instead for having won both the [osu!remix contest #1](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results) and the [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) contest.
+[^yf-note]: ::{ flag=CN }:: [yf_bmp](https://osu.ppy.sh/users/1243669) was awarded with the **Elite Storyboarder II** title instead for having [already received the title](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020) due to outstanding contributions to the storyboarding scene, as well as having won the [triangles Beatmapping Contest](/wiki/Contests/triangles_Beatmapping_Contest).

@@ -52,7 +52,7 @@ While branching is technically optional, it is [highly recommended for a couple 
 
 ### Creating new files
 
-*Caution: If you are going to create article files using Windows Explorer, make sure the `File name extensions` option is enabled.* See [How to show or hide file name extensions in Windows Explorer](https://support.microsoft.com/en-us/help/865219/how-to-show-or-hide-file-name-extensions-in-windows-explorer) for instructions.
+*Caution: If you are going to create article files using Windows Explorer, make sure the `File name extensions` option is enabled.* See [Common file name extensions in Windows](https://support.microsoft.com/en-us/windows/common-file-name-extensions-in-windows-da4a4430-8e76-89c5-59f7-1cdbbc75cb01) for instructions.
 
 1. Use Windows Explorer, your favourite image editor, and/or your favourite text editor, to create new files. If you are creating new articles or translations, rename the file to follow the [Locales in the Article Styling Criteria](/wiki/Article_styling_criteria/Formatting#locales).
 2. Continue to [Committing and pushing](#committing-and-pushing).

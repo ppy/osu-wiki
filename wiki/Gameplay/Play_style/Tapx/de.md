@@ -17,7 +17,7 @@ tags:
 
 ## Streamen
 
-*Tipp: Das Tasten-Overlay wird alle Berührungen des Tablets als `M1` anzeigen.*
+*Anmerkung: Das Tasten-Overlay wird alle Berührungen des Tablets als `M1` anzeigen.*
 
 Das Streamen via Tapx wird durch den rapiden Wechsel zwischen dem Drücken des Stifts auf ein Tablet und dem Drücken einer zugewiesenen, zweiten Taste (standardmäßig `Z` und `X`) ausgeführt. Einige Spieler fühlen sich wohl beim Wechsel zwischen einem Tipp auf das Tablet und der zweiten Taste bei jedem [Hit-Objekt](/wiki/Hit_object), ähnlich wie bei Spielern, die [alternierend](/wiki/Play_style/Alternating) die Tastendrücke zwischen jedem Hit-Objekt bestimmen.
 

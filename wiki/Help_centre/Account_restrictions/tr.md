@@ -73,8 +73,6 @@ Eğer geri dönmenize izin vermişsek, hesabınızın kısıtlaması kalkmadan �
 - Paylaşılan bilgisayarlarda oynamak dahil, **başka hesaplarla bağlantınız olmamalı**.
 - **Herhangi bir ciddi olumsuz davranış derhal kısıtlamaya neden olacaktır**. Bu uzun susturulmaları da kapsar.
 
-Buna ek olarak, bir sene boyunca, hesabınız için hiçbir bayrak değişikliği yapmayacağız.
-
 Bazı durumlarda, itirazı kabul edilen kişinin resmi ve rozetli turnuvalara hem yarışmacı olarak hem de turnuva ekibinin bir üyesi olarak katılması yasaklanabilir. Bu yasağın süresi suç başına 1 yıldır (eğer kullanıcının ikinci itirazıysa, yasağın süresi 2 yıldır). Kısıtlamanın kalktığına dair e-posta bu yasaklamanın süresini net şekilde belirtir.
 
 **Resmi veya rozetli bir turnuva sırasında hile yapmak veya hesap paylaşmak kullanıcının gelecekteki tüm turnuvalardan kalıcı olarak yasaklanmasına yol açacaktır.** Bu yasağa itiraz edilemez (eğer itiraz ederseniz e-postanız görmezden gelinecektir) ve ne olursa olsun kaldırılamaz, azaltılamaz, veya ertelenemez.

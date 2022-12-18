@@ -49,15 +49,19 @@ Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7). Sebaga
 | Nama | Bahasa tambahan | Tanggung Jawab Utama |
 | :-- | :-- | :-- |
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) |  | Evaluasi, moderasi |
+| ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) |  | Evaluasi |
+| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | Belarusia, Rusia | Evaluasi |
 | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Kanton, Tionghoa | Evaluasi |
+| ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | Evaluasi |
 | ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Tionghoa | Evaluasi |
+| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Jerman | Evaluasi |
+| ::{ flag=SG }:: [Kotoha](https://osu.ppy.sh/users/7823498) | Tionghoa | Evaluasi |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Swedia | Struktural, komunikasi |
 | ::{ flag=GB }:: [NexusQI](https://osu.ppy.sh/users/13822800) |  | Evaluasi |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | Struktural |
 | ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | Evaluasi |
 | ::{ flag=AT }:: [Stixy](https://osu.ppy.sh/users/9000308) | Jerman, Serbia | Evaluasi |
 | ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) |  | Evaluasi |
-| ::{ flag=CL }:: [Uberzolik](https://osu.ppy.sh/users/1314547) | Spanyol, Perancis | Evaluasi |
 | ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | Belanda | Evaluasi |
 | ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | Polski | Evaluasi |
 
@@ -66,7 +70,9 @@ Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7). Sebaga
 | Nama | Bahasa tambahan | Tanggung Jawab Utama |
 | :-- | :-- | :-- |
 | ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | Jerman | Evaluasi |
+| ::{ flag=UK }:: [Dusk-](https://osu.ppy.sh/users/6092181) | Urdu, sedikit Arab | Evaluasi |
 | ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733) | Kanton, Tionghoa | Evaluasi |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Arab, Perancis, sedikit Italia | Evaluasi |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | Evaluasi |
 
 ### osu!catch
@@ -75,7 +81,7 @@ Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7). Sebaga
 | :-- | :-- | :-- |
 | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | Spanyol, Jerman | Evaluasi, moderasi |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Belanda | Evaluasi, struktural |
-| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) | | Evaluasi |
+| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  | Evaluasi |
 
 ### osu!mania
 

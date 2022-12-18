@@ -1,12 +1,10 @@
----
-outdated_translation: true
----
-
 # osu! Alumni
 
-Los **osu! Alumni** son miembros retirados o inactivos que realizaron importantes contribuciones durante su estancia. Si se tuviesen recursos disponibles, erigiríamos estatuas para cada miembro en la plaza de la ciudad. [Link](https://osu.ppy.sh/groups/16)
+Los **osu! Alumni** son miembros retirados o inactivos que realizaron importantes contribuciones durante su estancia. Si se tuviesen recursos disponibles, erigiríamos estatuas para cada miembro en la plaza de la ciudad.
 
-| Nombre | Epitafio |
+La [pagina del grupo osu! Alumni](https://osu.ppy.sh/groups/16) menciona a todos los miembros.
+
+| Nombre | Funciones pasadas |
 | :-- | :-- |
 | ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596) | BAT, GMT |
 | ::{ flag=ID }:: [-SiN-](https://osu.ppy.sh/users/10560) | Moderador del chat |
@@ -19,6 +17,7 @@ Los **osu! Alumni** son miembros retirados o inactivos que realizaron importante
 | ::{ flag=AU }:: [Aloda](https://osu.ppy.sh/users/1190127) | QAT |
 | ::{ flag=CA }:: [An64fan](https://osu.ppy.sh/users/38836) | BAT |
 | ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599) | GMT |
+| ::{ flag=GB }:: [aRiskOfRain](https://osu.ppy.sh/users/123790) | BAT |
 | ::{ flag=IT }:: [Armin](https://osu.ppy.sh/users/105902) | BAT |
 | ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) | QAT, NAT |
 | ::{ flag=FI }:: [Asphyxia](https://osu.ppy.sh/users/1715720) | BAT, GMT, QAT |
@@ -28,7 +27,6 @@ Los **osu! Alumni** son miembros retirados o inactivos que realizaron importante
 | ::{ flag=CN }:: [Ballance](https://osu.ppy.sh/users/165946) | Moderador del chat |
 | ::{ flag=ES }:: [Beuchi](https://osu.ppy.sh/users/67192) | GMT |
 | ::{ flag=AU }:: [Blaizer](https://osu.ppy.sh/users/62018) | osu!dev |
-| ::{ flag=US }:: [Blazevoir](https://osu.ppy.sh/users/120265) | GMT |
 | ::{ flag=US }:: [blissfulyoshi](https://osu.ppy.sh/users/20865) | BAT |
 | ::{ flag=US }:: [Blocko](https://osu.ppy.sh/users/4075092) | QAT |
 | ::{ flag=TW }:: [bossandy](https://osu.ppy.sh/users/360437) | BAT |
@@ -41,6 +39,7 @@ Los **osu! Alumni** son miembros retirados o inactivos que realizaron importante
 | ::{ flag=CA }:: [CheeseWarlock](https://osu.ppy.sh/users/9072) | BAT |
 | ::{ flag=IT }:: [Chewin](https://osu.ppy.sh/users/617323) | BAT |
 | ::{ flag=DE }:: [Clobohne](https://osu.ppy.sh/users/499343) | GMT |
+| ::{ flag=TR }:: [Coldrod](https://osu.ppy.sh/users/9065991) | GMT |
 | ::{ flag=CN }:: [Colin Hou](https://osu.ppy.sh/users/196614) | BAT |
 | ::{ flag=NO }:: [CXu](https://osu.ppy.sh/users/84841) | BAT |
 | ::{ flag=FR }:: [Cyclohexane](https://osu.ppy.sh/users/116078) | GMT |
@@ -50,11 +49,11 @@ Los **osu! Alumni** son miembros retirados o inactivos que realizaron importante
 | ::{ flag=CA }:: [Dakeyrus](https://osu.ppy.sh/users/10441) | GMT |
 | ::{ flag=DE }:: [Dangaard](https://osu.ppy.sh/users/19488) | BAT |
 | ::{ flag=US }:: [Daru](https://osu.ppy.sh/users/32480) | osu!dev |
+| ::{ flag=SE }:: [Davvy](https://osu.ppy.sh/users/10047413) | GMT |
 | ::{ flag=US }:: [DawnII](https://osu.ppy.sh/users/8399) | BAT |
 | ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370) | GMT |
 | ::{ flag=TW }:: [deepsea](https://osu.ppy.sh/users/7824) | BAT |
 | ::{ flag=US }:: [Derekku](https://osu.ppy.sh/users/91341) | Administración |
-| ::{ flag=GB }:: [DiamondCrash](https://osu.ppy.sh/users/123790) | BAT |
 | ::{ flag=TH }:: [DJPop](https://osu.ppy.sh/users/2363) | BAT |
 | ::{ flag=US }:: [dkun](https://osu.ppy.sh/users/154400) | BAT |
 | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983) | BAT |
@@ -65,7 +64,6 @@ Los **osu! Alumni** son miembros retirados o inactivos que realizaron importante
 | ::{ flag=AU }:: [Duoprism](https://osu.ppy.sh/users/7186) | BAT |
 | ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | osu!dev |
 | ::{ flag=US }:: [EiJi](https://osu.ppy.sh/users/2024) | BAT |
-| ::{ flag=KR }:: [Elfin](https://osu.ppy.sh/users/1399551) | GMT |
 | ::{ flag=CO }:: [ErunamoJAZZ](https://osu.ppy.sh/users/1869764) | Moderador del chat, GMT |
 | ::{ flag=FI }:: [ethox](https://osu.ppy.sh/users/441380) | Moderador del chat |
 | ::{ flag=MY }:: [ExPew](https://osu.ppy.sh/users/665612) | QAT |
@@ -88,9 +86,8 @@ Los **osu! Alumni** son miembros retirados o inactivos que realizaron importante
 | ::{ flag=JP }:: [Guy](https://osu.ppy.sh/users/91738) | BAT, moderador del chat, QAT |
 | ::{ flag=RU }:: [h3k1ru](https://osu.ppy.sh/users/291211) | GMT |
 | ::{ flag=NL }:: [happy30](https://osu.ppy.sh/users/27767) | BAT |
-| ::{ flag=US }:: [HappyStick](https://osu.ppy.sh/users/256802) | Torneos |
+| ::{ flag=US }:: [HappyStick](https://osu.ppy.sh/users/256802) | Gestor de torneos |
 | ::{ flag=MY }:: [HeatKai](https://osu.ppy.sh/users/332555) | BAT, moderador del chat |
-| ::{ flag=TR }:: [heyronii](https://osu.ppy.sh/users/5642779) | GMT |
 | ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323) | GMT |
 | ::{ flag=US }:: [Hitoshirenu Shourai](https://osu.ppy.sh/users/602) | BAT |
 | ::{ flag=US }:: [Hobbes2](https://osu.ppy.sh/users/8157492) | QAT |
@@ -106,7 +103,7 @@ Los **osu! Alumni** son miembros retirados o inactivos que realizaron importante
 | ::{ flag=US }:: [James2250](https://osu.ppy.sh/users/16978) | GMT |
 | ::{ flag=GB }:: [jericho2442](https://osu.ppy.sh/users/88904) | BAT |
 | ::{ flag=CA }:: [jonathanlfj](https://osu.ppy.sh/users/270377) | BAT |
-| ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | Torneos |
+| ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | Gestor de torneos |
 | ::{ flag=MX }:: [Kai](https://osu.ppy.sh/users/4537) | BAT |
 | ::{ flag=CA }:: [karterfreak](https://osu.ppy.sh/users/1031958) | GMT, creador de osu!media |
 | ::{ flag=KR }:: [Kawayi Rika](https://osu.ppy.sh/users/596298) | BAT |
@@ -115,11 +112,12 @@ Los **osu! Alumni** son miembros retirados o inactivos que realizaron importante
 | ::{ flag=CA }:: [Kibbleru](https://osu.ppy.sh/users/3193504) | BAT, QAT, NAT |
 | ::{ flag=US }:: [kingcobra52](https://osu.ppy.sh/users/9934) | BAT |
 | ::{ flag=AU }:: [kingking9](https://osu.ppy.sh/users/1277097) | GMT |
+| ::{ flag=DE }:: [Kite](https://osu.ppy.sh/users/134572) | GMT |
 | ::{ flag=CA }:: [Kitokofox](https://osu.ppy.sh/users/1815420) | Moderador del chat |
-| ::{ flag=FR }:: [Kurai](https://osu.ppy.sh/users/77089) | BAT, moderador del chat, GMT, QAT |
 | ::{ flag=FR }:: [Krah](https://osu.ppy.sh/users/1436748) | BAT, GMT, QAT |
 | ::{ flag=CL }:: [Krisom](https://osu.ppy.sh/users/99269) | BAT |
 | ::{ flag=KR }:: [KRZY](https://osu.ppy.sh/users/114017) | Moderador del chat |
+| ::{ flag=FR }:: [Kurai](https://osu.ppy.sh/users/77089) | BAT, moderador del chat, GMT, QAT |
 | ::{ flag=HU }:: [Kurokami](https://osu.ppy.sh/users/260933) | QAT |
 | ::{ flag=CL }:: [Kylecito](https://osu.ppy.sh/users/488) | BAT |
 | ::{ flag=CA }:: [Kytoxid](https://osu.ppy.sh/users/98460) | BAT |
@@ -133,6 +131,7 @@ Los **osu! Alumni** son miembros retirados o inactivos que realizaron importante
 | ::{ flag=CN }:: [ljqandylee](https://osu.ppy.sh/users/141469) | BAT |
 | ::{ flag=SE }:: [Loginer](https://osu.ppy.sh/users/819) | GMT |
 | ::{ flag=HR }:: [lolcubes](https://osu.ppy.sh/users/578401) | QAT |
+| ::{ flag=TW }:: [Loneight](https://osu.ppy.sh/users/663131) | BAT, moderador del chat, GMT |
 | ::{ flag=US }:: [Love](https://osu.ppy.sh/users/467487) | BAT |
 | ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | GMT |
 | ::{ flag=AU }:: [Lumino](https://osu.ppy.sh/users/59) | BAT |
@@ -158,28 +157,30 @@ Los **osu! Alumni** son miembros retirados o inactivos que realizaron importante
 | ::{ flag=US }:: [MOOMANiBE](https://osu.ppy.sh/users/8950) | BAT |
 | ::{ flag=NL }:: [mrtn](https://osu.ppy.sh/users/7013) | BAT |
 | ::{ flag=HU }:: [Mystyk](https://osu.ppy.sh/users/930165) | Moderador del chat |
-| ::{ flag=DE }:: [Myxomatosis](https://osu.ppy.sh/users/2202645) | BAT, QAT |
+| ::{ flag=DE }:: [Myxo](https://osu.ppy.sh/users/2202645) | BAT, QAT |
 | ::{ flag=NL }:: [n0ah](https://osu.ppy.sh/users/3086393) | GMT |
+| ::{ flag=US }:: [NaomiMinette](https://osu.ppy.sh/users/120265) | GMT |
 | ::{ flag=UY }:: [narakucrimson](https://osu.ppy.sh/users/287468) | BAT |
 | ::{ flag=HK }:: [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | QAT, NAT |
 | ::{ flag=CN }:: [NatsumeRin](https://osu.ppy.sh/users/151679) | BAT |
+| ::{ flag=FR }:: [Neil Watts](https://osu.ppy.sh/users/3048059) | Moderador del chat, GMT |
 | ::{ flag=TR }:: [Nishiji](https://osu.ppy.sh/users/167629) | GMT |
-| ::{ flag=PH }:: [NoHitter](https://osu.ppy.sh/users/124455) | BAT |
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) | QAT, NAT |
+| ::{ flag=PH }:: [NoHitter](https://osu.ppy.sh/users/124455) | BAT |
 | ::{ flag=US }:: [nuudles](https://osu.ppy.sh/users/21312) | osu!dev |
 | ::{ flag=CN }:: [Nymph](https://osu.ppy.sh/users/601990) | BAT |
 | ::{ flag=CN }:: [Nyquill](https://osu.ppy.sh/users/682935) | BAT, GMT |
 | ::{ flag=AU }:: [Oinari-sama](https://osu.ppy.sh/users/405508) | Moderador del chat, equipo de soporte |
 | ::{ flag=TH }:: [orioncomet](https://osu.ppy.sh/users/104827) | BAT |
 | ::{ flag=FI }:: [Orkel](https://osu.ppy.sh/users/39385) | Moderador del chat |
-| ::{ flag=FR }:: [Pachiru](https://osu.ppy.sh/users/2850983) | GMT |
 | ::{ flag=SG }:: [Pasonia](https://osu.ppy.sh/users/43345) | BAT |
 | ::{ flag=CA }:: [Pawsu](https://osu.ppy.sh/users/2371454) | GMT, equipo de soporte |
+| ::{ flag=PT }:: [Pereira006](https://osu.ppy.sh/users/537344) | BAT, moderador del chat, GMT |
 | ::{ flag=NL }:: [Pittigbaasje](https://osu.ppy.sh/users/2167433) | GMT |
 | ::{ flag=HK }:: [Pokie](https://osu.ppy.sh/users/207340) | BAT |
 | ::{ flag=CN }:: [popner](https://osu.ppy.sh/users/759860) | BAT |
 | ::{ flag=MY }:: [PROGUY](https://osu.ppy.sh/users/528181) | QAT |
-| ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) | QAT |
+| ::{ flag=SE }:: [PuffBuck](https://osu.ppy.sh/users/4234525) | Gestor de torneos |
 | ::{ flag=ES }:: [Raiden](https://osu.ppy.sh/users/2239480) | GMT, QAT |
 | ::{ flag=GB }:: [RandomJibberish](https://osu.ppy.sh/users/157879) | BAT |
 | ::{ flag=US }:: [RemmyX25](https://osu.ppy.sh/users/612) | BAT |
@@ -192,16 +193,18 @@ Los **osu! Alumni** son miembros retirados o inactivos que realizaron importante
 | ::{ flag=US }:: [Saturos](https://osu.ppy.sh/users/3781) | BAT |
 | ::{ flag=DZ }:: [Scotty](https://osu.ppy.sh/users/11085809) | NAT |
 | ::{ flag=US }:: [Seibei4211](https://osu.ppy.sh/users/31537) | BAT |
+| ::{ flag=IT }:: [Seijiro](https://osu.ppy.sh/users/2581696) | GMT |
 | ::{ flag=MD }:: [senaya](https://osu.ppy.sh/users/304103) | Moderador del chat |
 | ::{ flag=BR }:: [Seto Kousuke](https://osu.ppy.sh/users/2857314) | NAT |
 | ::{ flag=FR }:: [shARPII](https://osu.ppy.sh/users/776257) | Moderador del chat, GMT |
 | ::{ flag=US }:: [Shinde](https://osu.ppy.sh/users/103282) | MAT |
 | ::{ flag=CA }:: [Shinxyn](https://osu.ppy.sh/users/13996) | BAT |
 | ::{ flag=AR }:: [Shockwave](https://osu.ppy.sh/users/251631) | GMT |
+| ::{ flag=SG }:: [Shoegazer](https://osu.ppy.sh/users/2520707) | GMT |
 | ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | GMT |
 | ::{ flag=US }:: [Skyripper](https://osu.ppy.sh/users/31803) | GMT |
-| ::{ flag=HU }:: [Spkz](https://osu.ppy.sh/users/2964029) | GMT |
 | ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598) | NAT |
+| ::{ flag=HU }:: [Spkz](https://osu.ppy.sh/users/2964029) | GMT |
 | ::{ flag=BE }:: [Stack](https://osu.ppy.sh/users/6122935) | QAT, NAT |
 | ::{ flag=US }:: [Starrodkirby86](https://osu.ppy.sh/users/410) | BAT |
 | ::{ flag=GB }:: [Starry-](https://osu.ppy.sh/users/2166199) | QAT |
@@ -210,6 +213,7 @@ Los **osu! Alumni** son miembros retirados o inactivos que realizaron importante
 | ::{ flag=RU }:: [stymlice](https://osu.ppy.sh/users/5122436) | GMT |
 | ::{ flag=FR }:: [Sushi](https://osu.ppy.sh/users/43108) | BAT |
 | ::{ flag=JP }:: [Suzully](https://osu.ppy.sh/users/431791) | BAT |
+| ::{ flag=KR }:: [Sylphi](https://osu.ppy.sh/users/1399551) | GMT |
 | ::{ flag=US }:: [Sync](https://osu.ppy.sh/users/806921) | BAT |
 | ::{ flag=US }:: [Takuma](https://osu.ppy.sh/users/43677) | GMT |
 | ::{ flag=US }:: [Tapdancingmetroid](https://osu.ppy.sh/users/1733) | BAT |
@@ -223,12 +227,12 @@ Los **osu! Alumni** son miembros retirados o inactivos que realizaron importante
 | ::{ flag=FR }:: [Tommay](https://osu.ppy.sh/users/3132818) | GMT |
 | ::{ flag=AU }:: [tsububu](https://osu.ppy.sh/users/61) | BAT |
 | ::{ flag=TH }:: [Tyistiana](https://osu.ppy.sh/users/1421452) | NAT |
+| ::{ flag=CL }:: [Uberzolik](https://osu.ppy.sh/users/1314547) | NAT |
 | ::{ flag=PL }:: [Ukami](https://osu.ppy.sh/users/820865) | Moderador del chat, GMT |
 | ::{ flag=TR }:: [UnderminE](https://osu.ppy.sh/users/444223) | Moderador del chat |
-| ::{ flag=NL }:: [Uni](https://osu.ppy.sh/users/617106) | GMT |
 | ::{ flag=BE }:: [VeilStar](https://osu.ppy.sh/users/4255720) | GMT, equipo de soporte |
 | ::{ flag=PH }:: [vytalibus](https://osu.ppy.sh/users/10028) | BAT |
-| ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | GMT, torneos |
+| ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | GMT, gestor de torneos |
 | ::{ flag=KR }:: [Where](https://osu.ppy.sh/users/549172) | GMT |
 | ::{ flag=US }:: [whymeman](https://osu.ppy.sh/users/51994) | GMT |
 | ::{ flag=ID }:: [Winshley](https://osu.ppy.sh/users/864895) | Moderador del chat |

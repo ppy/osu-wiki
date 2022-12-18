@@ -36,7 +36,7 @@ Bu, `osu!.<PC hesap isminiz>.cfg` dosyasındaki seçeneklerin bir listesidir. Bu
 | `ScreenshotFormat` | Metin | Ekran görüntüsü formatı |
 | `MenuSnow` | 0 veya 1 | Kar |
 | `MenuParallax` | 0 veya 1 | Paralaks |
-| `ShowMenuTips` | 0 veya 1 | Menü ipuçları |
+| `ShowMenuTips` | 0 veya 1 | [Menü ipuçları](/wiki/Client/Menu_tips) |
 | `MenuVoice` | 0 veya 1 | Arayüz sesleri |
 | `MenuMusic` | 0 veya 1 | osu! müzik teması |
 | `SeasonalBackgrounds` | Metin | Mevsimsel arkaplanlar |
@@ -260,14 +260,14 @@ Daha fazla osu!mania düzeni seçenekleri mevcut temanın [skin.ini](/wiki/Skinn
 | `ConfirmExit` | 0 veya 1 | Oyundan çıkmadan önce osu!'nun onay isteyip istememesi |
 | `CustomFrameLimit` | Tam sayı | Oyun içerisinde üçüncü bir FPS sınırlayıcı ayarlama |
 | `Display` | Tam sayı | osu!'nun açılması gereken monitör dizini |
-| `EditorTip` | Tam sayı | Gösterilecek bir sonraki düzenleyici ipucunun dizini |
+| `EditorTip` | Tam sayı | Gösterilecek bir sonraki [düzenleyici ipucunun](/wiki/Client/Menu_tips#editor) dizini |
 | `GuideTips` | Metin | Daha önce gösterilen rehber ipuçlarının bir daha gösterilmemesi için onları takip eder |
 | `HighResolution` | 0 veya 1 | HD tema element desteğini zorlar |
 | `IgnoreBarline` | 0 veya 1 | osu!mania ölçü çizgilerinin gözükmesi/gizlenmesi |
 | `LastVersion` | Metin | Mevcut istemci sürümü |
 | `LastVersionPermissionsFailed` | Metin | Bir güncellemeyi tamamlamak için bilgisayar yönetici izinleri gerektiren son istemci sürümü |
 | `LowResolution` | 0 veya 1 | SD tema elementlerini kullanmaya zorlar (`HighResolution` seçeneğini geçersiz kılar) |
-| `MenuTip` | Tam sayı | Gösterilecek bir sonraki menü ipucunun dizini |
+| `MenuTip` | Tam sayı | Gösterilecek bir sonraki [menü ipucunun](/wiki/Client/Menu_tips#main-menu) dizini |
 | `MyPcSucks` | 0 veya 1 | Bütün süslü grafik ayarlarını devre dışı bırakır |
 | `OverrideRefreshRate` | 0 veya 1 | `RefreshRate` seçeneğinin kullanıp kullanılmaması |
 | `RefreshRate` | Tam sayı | Özel yenileme hızı |

@@ -430,7 +430,7 @@ Sunday, 18 August 2019:
 
 ### Stage regulations
 
-1. There are seven stages in this tournament: the Qualifiers, the Group Stage, the Round of 16, the Quarterfinals, the Semifinals, the Finals, and the Grand Finals.
+1. There are six stages in this tournament: the Qualifiers, the Group Stage, the Quarterfinals, the Semifinals, the Finals, and the Grand Finals.
 2. The team will be seeded with the average of their ranks on each map during the Qualifiers round.
 3. In case there are more than 32 registered teams, only the top 24 of the Qualifiers will go in the rest of the tournament.
 4. Teams will be drawn in **6 groups of 4** teams during a drawing show which will happen on Sunday August 11th.
@@ -443,12 +443,12 @@ Sunday, 18 August 2019:
 7. In Group stage, 'Win by default' will be considered as win by 4:0, +1.0 score difference ratio.
 8. The winning condition for each stage is:
    - Group Stage: BO9 (win 5 maps)
-   - Round of 16 and Quarterfinals: BO11 (win 6 maps)
+   - Quarterfinals: BO11 (win 6 maps)
    - Semifinals, Finals, and Grand Finals: BO13 (win 7 maps)
 
 ### Mappool instructions
 
-1. There will be 1 mappool for each of the following: Qualifiers, Group Stage, Round of 16, Quarterfinals, Semifinals, Finals, and Grand Finals.
+1. There will be 1 mappool for each of the following: Qualifiers, Group Stage, Quarterfinals, Semifinals, Finals, and Grand Finals.
 2. The Loser's Bracket will play on the same pool as the Winner's bracket of the same weekend.
 3. The Qualifiers pool will be different from all the other rounds, as it will have a format of 2 NoMod maps, 1 Hidden map, 1 HardRock map, 1 DoubleTime map.
 4. Each mappool consists of 7 brackets: NoMod, EX, Hidden, HardRock, DoubleTime, FreeMod, and Tiebreaker.

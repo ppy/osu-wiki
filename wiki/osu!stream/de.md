@@ -2,7 +2,7 @@
 
 ![](img/Os-Logo.jpg "Logo von osu!stream")
 
-**osu!stream** ist eine Version von osu!, die von Grund auf neu entwickelt wurde und extra für touch-fähige Geräte ausgelegt ist. Aktuell ist sie nur für Apples [iOS](http://en.wikipedia.org/wiki/IOS)-Plattform verfügbar. Ein [Android](http://en.wikipedia.org/wiki/Android_%28operating_system%29)-Port war geplant und beinahe fertig, wurde aber nicht veröffentlicht, da es Probleme bei der Audiolatenz gab, die den Spielspaß massiv beeinträchtigten.
+**osu!stream** ist eine Version von osu!, die von Grund auf neu entwickelt wurde und extra für touch-fähige Geräte ausgelegt ist. Aktuell ist sie nur für Apples [iOS](http://en.wikipedia.org/wiki/IOS)-Plattform verfügbar. Ein [Android](http://en.wikipedia.org/wiki/Android_%28operating_system%29)-Port war geplant und beinahe fertig, wurde aber noch nicht veröffentlicht, da es Probleme bei der Audiolatenz gab, die den Spielspaß massiv beeinträchtigten.
 
 Enthalten ist ein komplett überarbeitetes Spielsystem mit neuen Spielelementen wie den Hold-Circles und verbundenen Beats. Klassische osu! Beatmaps werden nicht ohne manuelle Umwandlung unterstützt. Stattdessen wurden neue Beatmaps explizit von einem besonderen Team an Mappern erstellt, um die Chance der neuen Spielelemente auszunutzen. Diese neuen Beatmaps haben einen [strikteren Standard](https://docs.google.com/document/d/1FYmHhRX-onR-osgTS6uHSOZuu_0JEbfRZePVySvvr9g).
 
@@ -12,13 +12,13 @@ Die Entwicklung für diese Version endete in 2020. Für mehr Informationen lies 
 
 ## Installation
 
-![](img/Os-Devices.jpg "osu!stream im iDevice")
+![](img/Os-Devices.jpg "osu!stream auf iOS-Geräten")
 
-### iDevice App Store Methode (empfohlen)
+### iOS App Store Methode (empfohlen)
 
-**Versichere dich, dass dein iDevice sich mit dem Internet verbinden kann (entweder über WLAN oder 3G/4G).**
+**Versichere dich, dass dein iOS-Gerät sich mit dem Internet verbinden kann (entweder über WLAN oder 3G/4G).**
 
-- Gehe zu "App Store" in deinem iDevice
+- Gehe zu "App Store" auf deinem iOS-Gerät
 - Suche nach osu!stream
 - Installiere osu!stream
   - Wenn nach der Apple ID und dem Passwort gefragt wird, gib diese bitte ein.
@@ -31,13 +31,13 @@ Die Entwicklung für diese Version endete in 2020. Für mehr Informationen lies 
 
 - Gehe zu [diesem Link und lade es dir herunter](http://itunes.apple.com/us/app/osu!stream/id436952197?ls=1&mt=8).
   - Wenn nach der Apple ID gefragt wird, gib die Apple ID und das Passwort ein.
-- Stecke dein iDevice in dein Gerät (welches osu!stream hat).
+- Stecke dein iOS-Gerät in dein Gerät (welches osu!stream hat).
 - Transferiere die osu!stream Dateien mit iTunes.
-- Entferne das iDevice und osu!stream kann gespielt werden.
+- Entferne das iOS-Gerät und osu!stream kann gespielt werden.
 
 ## Beatmaps hinzufügen
 
-**Versichere dich, dass das iDevice sich mit dem Internet verbinden kann (entweder über WLAN oder 3G/4G).**
+**Versichere dich, dass das iOS-Gerät sich mit dem Internet verbinden kann (entweder über WLAN oder 3G/4G).**
 
 - Öffne osu!stream.
 - Drücke auf das osu! Symbol und du solltest direkt in das Hauptmenü weitergeleitet werden (oder das Tutorial beim ersten Mal)
@@ -60,7 +60,7 @@ Die Entwicklung für diese Version endete in 2020. Für mehr Informationen lies 
 
 ### Neues Spielsystem
 
-**Tipp:** Teste die neuen Spielelemente im "Tutorial" Bildschirm.
+**Anmerkung:** Teste die neuen Spielelemente im "Tutorial" Bildschirm.
 
 #### Fingerführungsanzeige
 
@@ -116,7 +116,7 @@ Die Entwicklung für diese Version endete in 2020. Für mehr Informationen lies 
 
 ![](img/Os-ModeEasy.jpg "Leichter Modus")
 
-**Schwierigkeitsgrad: Easy + [NoFail](/wiki/Game_modifier/No_Fail)**
+**Schwierigkeitsgrad: Easy + [NoFail](/wiki/Gameplay/Game_modifier/No_Fail)**
 
 Der leichte Modus ist für Anfänger gedacht, die sich an die Spieltechnik von osu!stream gewöhnen müssen. Der Spielverlauf ist wesentlich langsamer, sodass neue Spieler den Flow und das Timing zum Treffen verstehen können. Lebensleisten werden nicht vergeben und durch das Spielen des leichten Modus wird der Expertenmodus nicht freigeschaltet.
 
@@ -331,7 +331,7 @@ Im **Expertenmodus wird stattdessen eine volle Lebensleiste vergeben**.
 
 Das Folgende füllt die Lebensleiste:
 
-- Einen Spinner und Hold-Bubbles vervollständigen.
+- Spinner und Hold-Circles vervollständigen.
 - Ein osu!, gold good!, green good!, 300er, oder 100er treffen,
   - Bei Hit-Circles füllen bessere Bewertungen die Lebensleiste mehr. Der letzte Hit-Circle in einer farbigen Combo vergibt mehr Lebenspunkte.
   - Bei Slidern wird die Lebensleiste abhängig von den vervollständigten Teilen gefüllt, nachdem der Slider beendet wurde.
@@ -339,9 +339,9 @@ Das Folgende füllt die Lebensleiste:
 Das Folgende reduziert die Lebensleiste:
 
 - Einen 50er erhalten.
-- Ein Hit-Object oder Slider verfehlen.
-- Nicht in einem Follow-Circle eines Sliders bleiben.
-- Nicht die Hold-Bubble halten, bis sie explodiert.
+- Ein Hit-Object oder einen Slider verfehlen.
+- Nicht im Follow-Circle eines Sliders bleiben.
+- Einen Hold-Circle nicht halten, bis er explodiert.
 - Einen Spinner nicht drehen.
 - Einen Spinner nicht mit einer "Clear" Nachricht vervollständigen.
 

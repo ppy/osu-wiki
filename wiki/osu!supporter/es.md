@@ -85,7 +85,7 @@ osu! ofrece a los supporters límites incrementados en varias funciones en líne
 
 | Valor | Limite regular | Limite de osu!supporter |
 | :-- | :-: | :-: |
-| [Beatmaps pendientes](/wiki/Beatmap/Category#work-in-progress-and-pending) | `4 + min(beatmaps rankeados, 2)` | `8 + min(beatmaps rankeados, 4)` |
+| [Beatmaps pendientes](/wiki/Beatmap/Category#work-in-progress-and-pending) | `4 + min(beatmaps rankeados, 4)` | `8 + min(beatmaps rankeados, 12)` |
 | Beatmaps favoritos | 100 | 1000 |
 | Amigos | 250 | 500 |
 

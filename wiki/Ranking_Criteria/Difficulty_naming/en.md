@@ -152,7 +152,7 @@ Mapsets of songs that originated from other rhythm games often borrow that game'
 
 #### CHUNITHM
 
-- ![](/wiki/shared/diff/expertplus-o.png?20211215) WORLD'S END
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) ULTIMA / WORLD'S END
 
 #### Ongeki
 

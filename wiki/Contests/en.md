@@ -8,9 +8,7 @@ This section is dedicated for contests held throughout the osu! community.
 
 Official contests are hosted (or otherwise recognised as official) by the [osu! team](/wiki/People/The_Team). Most official contests have their own pages on the [contests listing](https://osu.ppy.sh/community/contests).
 
-### Monthly Beatmapping Contest
-
-*Main page: [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest)*
+### [Monthly Beatmapping Contest](Monthly_Beatmapping_Contest)
 
 The **Monthly Beatmapping Contest**, in its initial concept, was a mapping contest where participating mappers competed to create the most outstanding beatmap of a given song with a proper [difficulty spread](/wiki/Beatmap/Difficulty#difficulty-levels) starting from Easy or Normal onwards in a month.
 
@@ -21,12 +19,12 @@ The **Monthly Beatmapping Contest**, in its initial concept, was a mapping conte
 | [#3](https://osu.ppy.sh/home/news/2013-12-15-monthly-beatmapping-contest-3-submissions-open) | Chasers - Lost | ![osu!][osu!] | ::{ flag=CA }:: [ktgster](https://osu.ppy.sh/users/53378) | ::{ flag=FR }:: [Cherry Blossom](https://osu.ppy.sh/users/1156742) | ::{ flag=MX }:: [DakeDekaane](https://osu.ppy.sh/users/1425253) | [#1](https://osu.ppy.sh/home/news/2014-02-19-monthly-beatmapping-contest-3-results) |
 | [#4](https://osu.ppy.sh/home/news/2014-02-14-monthly-beatmapping-contest-4-submissions-now) | Kuba Oms - My Love | ![osu!][osu!] | ::{ flag=KR }:: [W h i t e](https://osu.ppy.sh/users/685229) | ::{ flag=CA }:: [Little](https://osu.ppy.sh/users/2099102) | ::{ flag=DE }:: [Jenny](https://osu.ppy.sh/users/579428) | [#1](https://osu.ppy.sh/home/news/2014-04-28-monthly-beatmapping-contest-4-results) |
 | [#5](https://osu.ppy.sh/home/news/2014-05-07-monthly-beatmapping-contest-5-submissions-now) | Rameses B - Flaklypa | ![osu!][osu!] | ::{ flag=IT }:: [-kevincela-](https://osu.ppy.sh/users/266596) | ::{ flag=TH }:: [Nichiyouki](https://osu.ppy.sh/users/1011056) | ::{ flag=KR }:: [Abe Nana](https://osu.ppy.sh/users/739813) | [#1](https://osu.ppy.sh/home/news/2014-07-14-monthly-beatmapping-contest-5-results) |
-| [#6 (Aspire)](https://osu.ppy.sh/home/news/2014-07-21-monthly-beatmapping-contest-6) | LeaF - Evanescent | ![osu!][osu!] | ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000) | ::{ flag=IT }:: [Bonzi](https://osu.ppy.sh/users/1313969) and ::{ flag=PL }:: [fartownik](https://osu.ppy.sh/users/56917) | ::{ flag=DE }:: [Damnae](https://osu.ppy.sh/users/989377) and ::{ flag=US }:: [Jacob](https://osu.ppy.sh/users/976963) | [#1](https://osu.ppy.sh/home/news/2014-11-13-monthly-beatmapping-contest-aspire-results) |
+| [#6 (Aspire)](https://osu.ppy.sh/home/news/2014-07-21-monthly-beatmapping-contest-6) | LeaF - Evanescent | ![osu!][osu!] | ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000) | ::{ flag=IT }:: [Bonzi](https://osu.ppy.sh/users/1313969) and ::{ flag=PL }:: [fartownik](https://osu.ppy.sh/users/56917) | ::{ flag=FR }:: [Damnae](https://osu.ppy.sh/users/989377) and ::{ flag=US }:: [Jacob](https://osu.ppy.sh/users/976963) | [#1](https://osu.ppy.sh/home/news/2014-11-13-monthly-beatmapping-contest-aspire-results) |
 | [#7 (osu!)](https://osu.ppy.sh/home/news/2014-09-24-monthly-beatmapping-contest-7) | Soleily - Renatus | ![osu!][osu!] | ::{ flag=JP }:: [Gamu](https://osu.ppy.sh/users/611174) | ::{ flag=SG }:: [aplstepitaslast](https://osu.ppy.sh/users/2248413) | ::{ flag=KR }:: [KoiSuru\_](https://osu.ppy.sh/users/747356) | [#1](https://osu.ppy.sh/home/news/2015-03-04-monthly-beatmapping-contest-7-results) |
 | [#7 (osu!taiko)](https://osu.ppy.sh/home/news/2014-09-24-monthly-beatmapping-contest-7) | Soleily - Renatus | ![osu!taiko][osu!taiko] | ::{ flag=US }:: [MMzz](https://osu.ppy.sh/users/128993) | ::{ flag=DE }:: [Nwolf](https://osu.ppy.sh/users/1910766) | ::{ flag=TW }:: [qoot8123](https://osu.ppy.sh/users/766371) | [#1](https://osu.ppy.sh/home/news/2015-03-04-monthly-beatmapping-contest-7-results) |
 | [#7 (osu!catch)](https://osu.ppy.sh/home/news/2014-09-24-monthly-beatmapping-contest-7) | Soleily - Renatus | ![osu!catch][osu!catch] | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | ::{ flag=KR }:: [CLSW](https://osu.ppy.sh/users/531253) | *N/A* | [#1](https://osu.ppy.sh/home/news/2015-03-04-monthly-beatmapping-contest-7-results) |
 | [#7 (osu!mania)](https://osu.ppy.sh/home/news/2014-09-24-monthly-beatmapping-contest-7) | Soleily - Renatus | ![osu!mania][osu!mania] | ::{ flag=MY }:: [ExPew](https://osu.ppy.sh/users/665612) | ::{ flag=JP }:: [shionelove](https://osu.ppy.sh/users/501551) | ::{ flag=PL }:: [Tear](https://osu.ppy.sh/users/1340650) | [#1](https://osu.ppy.sh/home/news/2015-03-04-monthly-beatmapping-contest-7-results) |
-| [#8](https://osu.ppy.sh/home/news/2015-02-11-monthly-beatmapping-contest-8) | raja - the light | ![osu!][osu!] | ::{ flag=DE }:: [Damnae](https://osu.ppy.sh/users/989377) | ::{ flag=FR }:: [Cherry Blossom](https://osu.ppy.sh/users/1156742) | ::{ flag=RU }:: [Shadren](https://osu.ppy.sh/users/745494) and ::{ flag=CN }:: [Frey](https://osu.ppy.sh/users/695678) | [#1](https://osu.ppy.sh/home/news/2015-04-08-monthly-beatmapping-contest-8-results) |
+| [#8](https://osu.ppy.sh/home/news/2015-02-11-monthly-beatmapping-contest-8) | raja - the light | ![osu!][osu!] | ::{ flag=FR }:: [Damnae](https://osu.ppy.sh/users/989377) | ::{ flag=FR }:: [Cherry Blossom](https://osu.ppy.sh/users/1156742) | ::{ flag=RU }:: [Shadren](https://osu.ppy.sh/users/745494) and ::{ flag=CN }:: [Frey](https://osu.ppy.sh/users/695678) | [#1](https://osu.ppy.sh/home/news/2015-04-08-monthly-beatmapping-contest-8-results) |
 | [#9](https://osu.ppy.sh/home/news/2015-04-13-monthly-beatmapping-contest-9-taiko-only) | Furries in a Blender - Storm World | ![osu!taiko][osu!taiko] | ::{ flag=TW }:: [Firce777](https://osu.ppy.sh/users/274072) | ::{ flag=SE }:: [Hanjamon](https://osu.ppy.sh/users/1703330) and ::{ flag=JP }:: [Naryuga](https://osu.ppy.sh/users/522188) | ::{ flag=US }:: [MMzz](https://osu.ppy.sh/users/128993) | [#1](https://osu.ppy.sh/home/news/2015-06-27-monthly-beatmapping-contest-9-results) |
 | [#10](https://osu.ppy.sh/home/news/2015-06-15-monthly-beatmapping-contest-10-ctb-only) | Hylian Lemon - Foresight Is For Losers | ![osu!catch][osu!catch] | ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) | ::{ flag=GB }:: [WildOne94](https://osu.ppy.sh/users/3482692) | ::{ flag=ID }:: [Xinely](https://osu.ppy.sh/users/1521445) | [#1](https://osu.ppy.sh/home/news/2015-08-06-monthly-beatmap-contest-10-results-ctb) |
 | [#11](https://osu.ppy.sh/home/news/2015-08-22-monthly-beatmapping-contest-11-mania-only) | Freedom Planet - Dragon Valley (Toni Leys Remix feat. Esteban Bellucci) | ![osu!mania][osu!mania] | ::{ flag=ID }:: [LordRaika](https://osu.ppy.sh/users/3265023) | ::{ flag=VN }:: [Kuo Kyoka](https://osu.ppy.sh/users/2596306) | ::{ flag=ID }:: [Shionia-Chan](https://osu.ppy.sh/users/7015183) | [#1](https://osu.ppy.sh/home/news/2015-12-03-monthly-beatmapping-contest-11-results) |
@@ -58,21 +56,19 @@ After a long hiatus, the Monthly Beatmapping Contest was rebooted in January 202
 | [April 2021 (osu!catch)](https://osu.ppy.sh/community/contests/124) |  [MYUKKE.](https://osu.ppy.sh/beatmaps/artists/121) | ![osu!catch][osu!catch] | ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114) | ::{ flag=TH }:: [rew0825](https://osu.ppy.sh/users/2488026) | *N/A* | [#1](https://osu.ppy.sh/home/news/2021-06-25-results-monthly-beatmapping-contest-may-osu) |
 | [May 2021 (osu!)](https://osu.ppy.sh/community/contests/127) |  [Masahiro "Godspeed" Aoki](https://osu.ppy.sh/beatmaps/artists/136) | ![osu!][osu!] | ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334) | ::{ flag=RU }:: [kuyusu](https://osu.ppy.sh/users/11758667) | ::{ flag=RU }:: [kuyusu](https://osu.ppy.sh/users/11758667) | [#1](https://osu.ppy.sh/home/news/2021-06-25-results-monthly-beatmapping-contest-may-osu) |
 
-### Aspire
+### [Aspire](Aspire)
 
 **Aspire** is a one-of-a-kind mapping contest where participating mappers are challenged to create the most innovative beatmap imaginable without any restrictions from the [ranking criteria](/wiki/Ranking_Criteria). The contest encourages mappers to explore the technical possibilities of the game as far as possible.
 
 | Contest No. | Song | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Results |
 | :-: | :-- | :-- | :-- | :-- | :-- |
-| [#1](https://osu.ppy.sh/home/news/2014-07-21-monthly-beatmapping-contest-6) | [LeaF - Evanescent](https://osu.ppy.sh/beatmaps/artists/73) | ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000) | ::{ flag=IT }:: [Bonzi](https://osu.ppy.sh/users/1313969) and ::{ flag=PL }:: [fartownik](https://osu.ppy.sh/users/56917) | ::{ flag=DE }:: [Damnae](https://osu.ppy.sh/users/989377) and ::{ flag=US }:: [Jacob](https://osu.ppy.sh/users/976963) | [#1](https://osu.ppy.sh/home/news/2014-11-13-monthly-beatmapping-contest-aspire-results) |
+| [#1](https://osu.ppy.sh/home/news/2014-07-21-monthly-beatmapping-contest-6) | [LeaF - Evanescent](https://osu.ppy.sh/beatmaps/artists/73) | ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000) | ::{ flag=IT }:: [Bonzi](https://osu.ppy.sh/users/1313969) and ::{ flag=PL }:: [fartownik](https://osu.ppy.sh/users/56917) | ::{ flag=FR }:: [Damnae](https://osu.ppy.sh/users/989377) and ::{ flag=US }:: [Jacob](https://osu.ppy.sh/users/976963) | [#1](https://osu.ppy.sh/home/news/2014-11-13-monthly-beatmapping-contest-aspire-results) |
 | [#2](https://osu.ppy.sh/home/news/2016-05-17-aspire-returns-beatmap-contest) | [IAHN - Transform (Original Mix)](https://osu.ppy.sh/beatmaps/artists/3) | ::{ flag=CA }:: [Monstrata](https://osu.ppy.sh/users/2706438) | ::{ flag=JP }:: [Asahina Momoko](https://osu.ppy.sh/users/3650145) | ::{ flag=HK }:: [Regou](https://osu.ppy.sh/users/419954) | [#1](https://osu.ppy.sh/home/news/2016-07-23-aspire-2-concludes-winners-announced) |
 | [#3](https://osu.ppy.sh/home/news/2017-01-21-aspire-returns-for-2017) | [Helblinde - The Solace of Oblivion](https://osu.ppy.sh/beatmaps/artists/5) | ::{ flag=FI }:: [ProfessionalBox](https://osu.ppy.sh/users/3250792) | ::{ flag=HK }:: [MinG3012](https://osu.ppy.sh/users/1583218) | ::{ flag=SG }:: [emilia](https://osu.ppy.sh/users/2003326) | [#1](https://osu.ppy.sh/home/news/2017-04-03-aspire-2017-stage-one-concludes) |
 | [#4](https://osu.ppy.sh/home/news/2018-08-19-aspire-2018-begins) | [Culprate - Acid Rain](https://osu.ppy.sh/beatmaps/artists/29) | ::{ flag=TW }:: [SnowNiNo\_](https://osu.ppy.sh/users/2506267) | ::{ flag=FI }:: [DTM9 Nowa](https://osu.ppy.sh/users/5428909) | ::{ flag=LT }:: [seselis1](https://osu.ppy.sh/users/7321833) | [#1](https://osu.ppy.sh/home/news/2019-07-22-aspire-2018-results) |
 | [#5](https://osu.ppy.sh/home/news/2020-04-09-aspire-v-a-new-format) | Any song available in the [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists) as per April 2020 | ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619) *(community pick winner)*, ::{ flag=CN }:: [fanzhen0019](https://osu.ppy.sh/users/418699) *(mapper's pick winner)* | ::{ flag=CA }:: [Meow Mix](https://osu.ppy.sh/users/3021634) | ::{ flag=CN }:: [fanzhen0019](https://osu.ppy.sh/users/418699) | [#1](https://osu.ppy.sh/home/news/2020-08-23-aspire-v-results) |
 
-### osu! Mapping Olympiad
-
-*Main page: [osu! Mapping Olympiad](/wiki/Contests/Mapping_Olympiad)*
+### [osu! Mapping Olympiad](A_Labour_of_Love_Contest)
 
 The **osu! Mapping Olympiad** is a mapping contest that is held as a spiritual successor to the earlier (pre-2020) Monthly Beatmapping Contests. In this contest, participating mappers are tasked to create either a beatmap with a proper [difficulty spread](/wiki/Beatmap/Difficulty#difficulty-levels) starting from Easy or Normal onwards or a certain number of difficulties for any of the given songs in each corresponding iteration.
 
@@ -117,7 +113,7 @@ The **Community Mapping Contest** is a mapping contest where participating mappe
 | [#3.2 (osu!taiko)](https://osu.ppy.sh/home/news/2017-09-23-mapping-with-rewards-returns) | [\*namirin - closing eyes](https://osu.ppy.sh/beatmaps/artists/18) | ![osu!taiko][osu!taiko] | ::{ flag=HK }:: [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | ::{ flag=US }:: [Jonarwhal](https://osu.ppy.sh/users/3653035) | *N/A* | [#1](https://osu.ppy.sh/home/news/2020-05-11-mappers-report-april) |
 | [#3.3](https://osu.ppy.sh/home/news/2017-09-23-mapping-with-rewards-returns) | [Fractal Dreamers - Fortuna Redux](https://osu.ppy.sh/beatmaps/artists/15) | ![osu!][osu!] | ::{ flag=FI }:: [DTM9 Nowa](https://osu.ppy.sh/users/5428909) | ::{ flag=MY }:: [HootOwlStar](https://osu.ppy.sh/users/4341302) | *N/A* | [#1](https://osu.ppy.sh/home/news/2020-05-11-mappers-report-april) |
 
-### A Labour of Love
+### [A Labour of Love](A_Labour_of_Love_Contest)
 
 **A Labour of Love** is a team-based contest spanning over multiple artistic disciplines where participating teams are tasked to remix/rearrange a song that has been widely known throughout the osu! community, create a beatmap out of the remixed song, and design an original storyboard/background video as a visual accompaniment to said beatmap. As [indicated by this tweet](https://twitter.com/ppy/status/1333362145224843264), the contest is modeled after [THE BMS OF FIGHTERS events](https://www.bmsoffighters.net/) and other similar competitions.
 
@@ -171,7 +167,7 @@ The **Fan Art Contest** is a drawing contest where participating artists from th
 | [#17 (Winter 2018)](https://osu.ppy.sh/home/news/2018-11-19-winter-2018-fanart-contest) | Winter | ::{ flag=PL }:: [Chiruuu](https://osu.ppy.sh/users/8911572) | ::{ flag=VN }:: [PlsRyder](https://osu.ppy.sh/users/3457622) | ::{ flag=US }:: [Shuuzo](https://osu.ppy.sh/users/3661521) | [#1](https://osu.ppy.sh/home/news/2018-12-12-winter-2018-is-here) |
 | [#18 (Spring 2019)](https://osu.ppy.sh/home/news/2019-05-10-spring-2019-fanart-contest) | Spring | ::{ flag=US }:: [Tofumang](https://osu.ppy.sh/users/4817223) | ::{ flag=FI }:: [Sunako](https://osu.ppy.sh/users/2801166) | ::{ flag=CH }:: [Pvtz](https://osu.ppy.sh/users/4698044) | [#1](https://osu.ppy.sh/home/news/2019-06-03-spring-2019-fanart-contest-results) |
 | [#19 (Summer 2019)](https://osu.ppy.sh/home/news/2019-07-12-summer-2019-fanart-contest) | Summer | ::{ flag=FI }:: [Sunako](https://osu.ppy.sh/users/2801166) | ::{ flag=CH }:: [ItsBluu](https://osu.ppy.sh/users/6946083) | ::{ flag=MY }:: [xxxxxx2800](https://osu.ppy.sh/users/4084853) | [#1](https://osu.ppy.sh/home/news/2019-08-08-summer-2019-fanart-contest-results) |
-| [#20 (A Most Manic Art Contest)](https://osu.ppy.sh/home/news/2019-09-06-a-most-manic-contest) | A Most Manic Art Contest | ::{ flag=US }:: [Tofumang](https://osu.ppy.sh/users/4817223) | ::{ flag=HK }:: [crystalsuicune](https://osu.ppy.sh/users/9974) | [#1](https://osu.ppy.sh/home/news/2019-10-21-most-manic-art-contest-voting-results) | [#1](https://osu.ppy.sh/community/contests/80) |
+| [#20 (A Most Manic Art Contest)](https://osu.ppy.sh/home/news/2019-09-06-a-most-manic-contest) | osu!mania Mascot Design | ::{ flag=US }:: [Tofumang](https://osu.ppy.sh/users/4817223) | ::{ flag=SG }:: [Hecatia](https://osu.ppy.sh/users/8244635) | ::{ flag=HK }:: [crystalsuicune](https://osu.ppy.sh/users/9974) | [#1](https://osu.ppy.sh/home/news/2019-10-21-most-manic-art-contest-voting-results) |
 | [#21 (Halloween 2019)](https://osu.ppy.sh/home/news/2019-10-09-halloween-fanart-contest) | Halloween | ::{ flag=FI }:: [Sunako](https://osu.ppy.sh/users/2801166) | ::{ flag=NZ }:: [SJPumpkin](https://osu.ppy.sh/users/4840900) | ::{ flag=NL }:: [157](https://osu.ppy.sh/users/9315038) | [#1](https://osu.ppy.sh/home/news/2019-10-31-osu-spooktacular-halloween-special) |
 | [#22 (Winter 2019)](https://osu.ppy.sh/home/news/2019-11-12-winter-2019-fanart-contest) | Winter | ::{ flag=NL }:: [157](https://osu.ppy.sh/users/9315038) | ::{ flag=US }:: [Asatte](https://osu.ppy.sh/users/12323239) | ::{ flag=US }:: [Tofumang](https://osu.ppy.sh/users/4817223) | [#1](https://osu.ppy.sh/home/news/2019-12-10-winter-is-here) |
 | [#23 (Spring 2020)](https://osu.ppy.sh/home/news/2020-04-02-spring-indoors-2020-fanart-contest) | Indoor Activities | ::{ flag=US }:: [TofuMang](https://osu.ppy.sh/users/4817223) | ::{ flag=MY }:: [xxxxxx2800](https://osu.ppy.sh/users/4084853) | ::{ flag=GB }:: [snowyani2000](https://osu.ppy.sh/users/2691590) | [#1](https://osu.ppy.sh/home/news/2020-04-24-spring-indoors-2020-fanart-contest-results) |
@@ -183,6 +179,7 @@ The **Fan Art Contest** is a drawing contest where participating artists from th
 | [#29 (Halloween 2021)](https://osu.ppy.sh/home/news/2021-10-04-halloween-fanart-contest) | Halloween | ::{ flag=ID }:: [Dreamxiety](https://osu.ppy.sh/users/13103233) | ::{ flag=CA }:: [nyab](https://osu.ppy.sh/users/5738663) | ::{ flag=CZ }:: [eulorie](https://osu.ppy.sh/users/20349380) | [#1](https://osu.ppy.sh/home/news/2021-10-27-halloween-2021-fanart-results) | [#1](https://osu.ppy.sh/community/contests/135) |
 | [#30 (Winter 2021)](https://osu.ppy.sh/home/news/2021-11-23-winter-fanart-contest) | Winter | ::{ flag=RU }:: [Dem4eg-](https://osu.ppy.sh/users/7206818) | ::{ flag=ID }:: [Nimiru](https://osu.ppy.sh/users/11041959) | ::{ flag=CZ }:: [eulorie](https://osu.ppy.sh/users/20349380) | [#1](https://osu.ppy.sh/home/news/2021-12-17-winter-fanart-contest-results) | [#1](https://osu.ppy.sh/community/contests/136) |
 | [#31 (Spring 2022)](https://osu.ppy.sh/home/news/2022-04-11-place-to-belong-fanart-contest) | A Place to Belong | ::{ flag=ID }:: [Dreamxiety](https://osu.ppy.sh/users/13103233) | ::{ flag=NL }:: [utaaa](https://osu.ppy.sh/users/9315038) | ::{ flag=US }:: [Llamartist](https://osu.ppy.sh/users/14697690) | [#1](https://osu.ppy.sh/home/news/2022-05-08-aptb-fanart-results) | [#1](https://osu.ppy.sh/community/contests/142) |
+| [#32 (15th Anniversary Art Contest)](https://osu.ppy.sh/home/news/2022-08-15-15-anniversary-art-contest) | osu! mascots exploring part of osu!'s history | ::{ flag=ID }:: [Dreamxiety](https://osu.ppy.sh/users/13103233) | ::{ flag=HK }:: [illuminae2005](https://osu.ppy.sh/users/29866964) | ::{ flag=GB }:: [urgutz](https://osu.ppy.sh/users/11731553) | [#1](https://osu.ppy.sh/home/news/2022-09-15-anniversary-art-contest-results) | [#1](https://osu.ppy.sh/community/contests/153) |
 
 ### osu! Beatmap Blueprints Contest
 
@@ -214,7 +211,7 @@ The *osu! Beatmap Blueprints Contest* is a one-off contest held in commemoration
 | :-: | :-- | :-- | :-- | :-- | :-- |
 | [#1](https://osu.ppy.sh/home/news/2016-05-06-osu-circles-remix-contest) | [nekodex - circles!](https://osu.ppy.sh/beatmaps/artists/1) | ::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471) | ::{ flag=FR }:: [Kurokotei](https://osu.ppy.sh/users/398275) | ::{ flag=NL }:: [happy30](https://osu.ppy.sh/users/27767) | [#1](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results) |
 
-### Skinning Contest
+### [Skinning Contest](Skinning_Contest)
 
 The **Skinning Contest** is a skinning contest where artistic creators from all across the community compete to create the best skin in a limited time.
 
@@ -223,7 +220,7 @@ The **Skinning Contest** is a skinning contest where artistic creators from all 
 | [#1](/wiki/Contests/Skinning_Contest/1) | [FREEDOM DiVE↓](https://osu.ppy.sh/community/forums/topics/1293207) by ::{ flag=US }:: [BTMC](https://osu.ppy.sh/users/3171691) | [Minimalist 2.0](https://osu.ppy.sh/community/forums/topics/1286223) by ::{ flag=EE }:: [Krizto](https://osu.ppy.sh/users/13474556) | [notMiku](https://osu.ppy.sh/community/forums/topics/1292954) by ::{ flag=RU }:: [NikStrim](https://osu.ppy.sh/users/10577559) | [#1](https://osu.ppy.sh/home/news/2021-05-27-skinning-contest-results) |
 | [#2](/wiki/Contests/Skinning_Contest/2) | [- 『Wintherest』 -](https://osu.ppy.sh/community/forums/topics/1498493) by ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | [GanyuTeks:Futur Céleste](https://osu.ppy.sh/community/forums/topics/1489926) by ::{ flag=PH }:: [BPChingu](https://osu.ppy.sh/users/4236855) | [Azure Snowfall](https://osu.ppy.sh/community/forums/topics/1498492) by ::{ flag=BY }:: [thetasigma](https://osu.ppy.sh/users/6234482) | [#1](https://osu.ppy.sh/home/news/2022-02-25-skinning-contest-tides-of-winter-results) |
 
-### osu!trivium Quiz
+### [osu!trivium Quiz](osu!trivium_Quiz)
 
 The **osu!trivium Quiz** is a trivia contest where players compete in answering hard osu!-related trivia questions.
 
@@ -236,7 +233,19 @@ The **osu!trivium Quiz** is a trivia contest where players compete in answering 
 
 *Unofficial contests* are contests that are hosted by the members of the community.
 
-### osb! Storyboarding Contest
+### [Mapping to Pander: Taiko](M2P)
+
+**Mapping to Pander: Taiko** is an osu!taiko mapping contest series with two primary features: there is only one judge per iteration, and contestants may map any song.
+
+The goal this contest is simple: contestants must create a map that panders best to the chosen judge for the contest. The judge will not be given any criteria; it will be up to them how they score and rank the entries, either by making their own criteria, or simply sorting the maps from best to worst.
+
+| Contest No. | Judge | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Results |
+| :-: | :-- | :-- | :-- | :-- | :-- |
+| [#1](https://osu.ppy.sh/community/forums/topics/1624880) | ::{ flag=NL }:: [Boaz](https://osu.ppy.sh/users/13302996) | ::{ flag=JP }:: [_Rise](https://osu.ppy.sh/users/5217107) | ::{ flag=CL }:: [Metsaller](https://osu.ppy.sh/users/4364791) | ::{ flag=FI }:: [Antti](https://osu.ppy.sh/users/13281473) | [Results](https://docs.google.com/spreadsheets/d/1aR1GjF8diyjFhK_k_uOkU40zIKjaQbXhVbGDGmq5pdg/edit?usp=sharing) |
+| [#2](https://osu.ppy.sh/community/forums/topics/1639586) | ::{ flag=AR }:: [Axer](https://osu.ppy.sh/users/7299864) | ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) | ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957) | ::{ flag=US }:: [Vixlowo](https://osu.ppy.sh/users/20295114) | [Results](https://docs.google.com/spreadsheets/d/1ps3bOL2JlzwPEh0gVTLHnp7E48stwqHMH6-ljDSBJQs/edit?usp=sharing) |
+| [#3](https://osu.ppy.sh/community/forums/topics/1652502) | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) | ::{ flag=FI }:: [Antti](https://osu.ppy.sh/users/13281473) | ::{ flag=NL }:: [Boaz](https://osu.ppy.sh/users/13302996), ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) | [Results](https://docs.google.com/spreadsheets/d/1UXvS2ZdlRHOj8mltCX8LtluQwXrcXZ_B8D02LIdcJoc/edit?usp=sharing) |
+
+### [osb! Storyboarding Contest](osb!_Storyboarding_Contest)
 
 The **osb! Storyboarding Contest** is a storyboarding contest where participating storyboarders compete to create the best storyboard. This contest is hosted by osu! storyboarder banquet, the storyboarding community.
 
@@ -244,7 +253,7 @@ The **osb! Storyboarding Contest** is a storyboarding contest where participatin
 | :-: | :-- | :-- | :-- | :-- |
 | [#1](/wiki/Contests/osb!_Storyboarding_Contest/1) | ::{ flag=CA }:: [TheDuckMask](https://osu.ppy.sh/users/7405768) | ::{ flag=UA }:: [PantyDev](https://osu.ppy.sh/users/5420543) | ::{ flag=CA }:: [Gaia](https://osu.ppy.sh/users/2683648) | [#1](https://osu.ppy.sh/community/forums/topics/897075?n=1) |
 
-### osu! Beatmapping World Championship
+### [osu! Beatmapping World Championship](oBWC)
 
 <!-- Yes, OBWC is not an official contest according to https://twitter.com/paichiru/status/1408900730149249025 -->
 
@@ -255,7 +264,7 @@ The **osb! Storyboarding Contest** is a storyboarding contest where participatin
 | [#1 (2019)](/wiki/Contests/oBWC/1) | ::{ flag=FR }:: France ([Realazy](https://osu.ppy.sh/users/918297), [BOUYAAA](https://osu.ppy.sh/users/405449), [Irohas](https://osu.ppy.sh/users/4403937), [Linada](https://osu.ppy.sh/users/5239047), [PoNo](https://osu.ppy.sh/users/4610047), [Sotarks](https://osu.ppy.sh/users/4452992), and ::{ flag=CH }:: [Xenok](https://osu.ppy.sh/users/3256600)) | ::{ flag=SE }:: Sweden ([Liiraye](https://osu.ppy.sh/users/1280641), [Arbane](https://osu.ppy.sh/users/4150829), [bite you death](https://osu.ppy.sh/users/6398464), [Dilectus](https://osu.ppy.sh/users/4287454), [dqs01733](https://osu.ppy.sh/users/3372459), and [Zer0-](https://osu.ppy.sh/users/4260033)) | ::{ flag=HK }:: Hong Kong ([StarrStyx](https://osu.ppy.sh/users/4600383), [Chaoslitz](https://osu.ppy.sh/users/3621552), [how2miss](https://osu.ppy.sh/users/4477199), [Regou](https://osu.ppy.sh/users/419954), [Rizia](https://osu.ppy.sh/users/1367570), [Skystar](https://osu.ppy.sh/users/873961), and [Starfy](https://osu.ppy.sh/users/2045914)) | [#1](https://www.youtube.com/watch?v=_booyIRa5v8) |
 | [#2 (2020)](/wiki/Contests/oBWC/2) | ::{ flag=GB }:: United Kingdom ([hypercyte](https://osu.ppy.sh/users/9155377), [Aistre](https://osu.ppy.sh/users/4879380), [Altai](https://osu.ppy.sh/users/5745865), [Chugger](https://osu.ppy.sh/users/4491713), [DeviousPanda](https://osu.ppy.sh/users/4966334), [pocket-](https://osu.ppy.sh/users/6808091), and [Yusomi](https://osu.ppy.sh/users/4174940)) | ::{ flag=AR }:: Argentina ([MaestroSplinter](https://osu.ppy.sh/users/6707918), [chucentry](https://osu.ppy.sh/users/2498731), [Lince Cosmico](https://osu.ppy.sh/users/6070370), and [Megafan](https://osu.ppy.sh/users/6632605)) | ::{ flag=BR }:: Brazil ([Net0](https://osu.ppy.sh/users/5099768), [Enerugi](https://osu.ppy.sh/users/4475985), [Faito](https://osu.ppy.sh/users/9706291), [Kowari](https://osu.ppy.sh/users/5404892), [Maot](https://osu.ppy.sh/users/3914271), [Sakura Airi](https://osu.ppy.sh/users/8682057), and [Trynna](https://osu.ppy.sh/users/2652951)) | [#1](https://osu.ppy.sh/home/news/2020-10-22-beatmapping-world-championship-2020-concludes) |
 
-### osu!taiko Featured Artist Cup
+### [osu!taiko Featured Artist Cup](o!tFAC)
 
 The **osu!taiko Featured Artist Cup** is an osu!taiko mapping contest where contestants are simply asked to map a song from one of osu!'s Featured Artists. The contest sometimes features specific limitations/gimmicks in order to put the contestants' skills to the test.
 
@@ -263,8 +272,9 @@ The **osu!taiko Featured Artist Cup** is an osu!taiko mapping contest where cont
 | :-: | :-- | :-- | :-- | :-- |
 | [#1](/wiki/Contests/o!tFAC/1) | ::{ flag=KR }:: [woosungko](https://osu.ppy.sh/users/14184157) | ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) | ::{ flag=IT }:: [D3kuu](https://osu.ppy.sh/users/7807444) | [#1](https://osu.ppy.sh/community/forums/topics/1520800) |
 | [#2](/wiki/Contests/o!tFAC/2) | ::{ flag=AR }:: [KyeX](https://osu.ppy.sh/users/15118934) | ::{ flag=KR }:: [woosungko](https://osu.ppy.sh/users/14184157) | ::{ flag=FI }:: [duski](https://osu.ppy.sh/users/6506484) | [#1](https://osu.ppy.sh/community/forums/topics/1588200) |
+| [#3](/wiki/Contests/o!tFAC/3) | *TBD* | *TBD* | *TBD* | *TBD* |
 
-### Slider Velocity Showdown
+### [Slider Velocity Showdown](SVS)
 
 The **Slider Velocity Showdown** is an osu!taiko mapping contest with a focus on creativity and innovation. This contest is open to anyone who wants to flex their creative muscles, whether they have never placed an inherited point in their life or if they have been mapping for years.
 
@@ -330,7 +340,7 @@ Although the Pending Cup was initially intended mainly for the Chinese-speaking 
 
 | Song | Mode | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Results |
 | :-- | :-: | :-- | :-- | :-- | :-- |
-| kamome sano - archive::zip | ![osu!][osu!] | ::{ flag=FR }:: [Realazy](https://osu.ppy.sh/users/873961) | ::{ flag=RU }:: [Senseabel](https://osu.ppy.sh/users/6184386) | ::{ flag=US }:: [Axarious](https://osu.ppy.sh/users/2614511) | [#1](https://osu.ppy.sh/community/forums/topics/982516) |
+| kamome sano - archive\:\:zip | ![osu!][osu!] | ::{ flag=FR }:: [Realazy](https://osu.ppy.sh/users/873961) | ::{ flag=RU }:: [Senseabel](https://osu.ppy.sh/users/6184386) | ::{ flag=US }:: [Axarious](https://osu.ppy.sh/users/2614511) | [#1](https://osu.ppy.sh/community/forums/topics/982516) |
 | EmoCo. - This Club is not 4 U | ![osu!][osu!] | ::{ flag=CN }:: [Ellyu](https://osu.ppy.sh/users/4438154) | ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613) | ::{ flag=RS }:: [Seolv](https://osu.ppy.sh/users/8067876) | [#1](https://osu.ppy.sh/community/forums/topics/982516) |
 | BEMANI Sound Team "Nekomata Master" - The last of world music | ![osu!][osu!] | ::{ flag=PL }:: [Kalibe](https://osu.ppy.sh/users/3376777) | ::{ flag=CA }:: [J1\_](https://osu.ppy.sh/users/5918561) | ::{ flag=KR }:: [Heilia](https://osu.ppy.sh/users/9823042) | [#1](https://osu.ppy.sh/community/forums/topics/982516) |
 
@@ -385,7 +395,7 @@ The **Newspaper Cup** is a mapping contest that is similar to the Pending Cup in
 
 | Category | Mode | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Results |
 | :-- | :-: | :-- | :-- | :-- | :-- |
-| Vocal[^newspaper-cup-6-vocal] | ![osu!][osu!] | ::{ flag=CN }:: [Quantum Rosta](https://osu.ppy.sh/users/4814169) | ::{ flag=CA }:: [Elayue](https://osu.ppy.sh/users/6400861) | ::{ flag=CN }:: [Calvaria](https://osu.ppy.sh/users/12381096) | [#1](https://osu.ppy.sh/community/forums/topics/1047836) |
+| Vocal[^newspaper-cup-6-vocal] | ![osu!][osu!] | ::{ flag=CN }:: [Quantum Rosta](https://osu.ppy.sh/users/4814169) | ::{ flag=CN }:: [Elayue](https://osu.ppy.sh/users/6400861) | ::{ flag=CN }:: [Calvaria](https://osu.ppy.sh/users/12381096) | [#1](https://osu.ppy.sh/community/forums/topics/1047836) |
 | Instrumental[^newspaper-cup-6-instrumental] | ![osu!][osu!] | ::{ flag=KR }:: [Acylica](https://osu.ppy.sh/users/1943309) | ::{ flag=CN }:: [lililing](https://osu.ppy.sh/users/11025355) | ::{ flag=CN }:: [SuperBox](https://osu.ppy.sh/users/4783121) | [#1](https://osu.ppy.sh/community/forums/topics/1047836) |
 
 #### [Newspaper Cup \#7 (2021)](https://osu.ppy.sh/community/forums/topics/1203301)
@@ -394,6 +404,16 @@ The **Newspaper Cup** is a mapping contest that is similar to the Pending Cup in
 | :-- | :-: | :-- | :-- | :-- | :-- |
 | Vocal[^newspaper-cup-7-vocal] | ![osu!][osu!] | ::{ flag=EE }:: [Keqing](https://osu.ppy.sh/users/8501291) | ::{ flag=US }:: [Cubby](https://osu.ppy.sh/users/10914582) | ::{ flag=TW }:: [Hey lululu](https://osu.ppy.sh/users/4086497) | [#1](https://osu.ppy.sh/community/forums/topics/1274667) |
 | Instrumental[^newspaper-cup-7-instrumental] | ![osu!][osu!] | ::{ flag=CA }:: [Kyumo](https://osu.ppy.sh/users/14689984) | ::{ flag=US }:: [- ascended -](https://osu.ppy.sh/users/4564285) | ::{ flag=CL }:: [Sunazuka Akira](https://osu.ppy.sh/users/8846632) | [#1](https://osu.ppy.sh/community/forums/topics/1274667) |
+
+### Russian Community Beatmapping Contest
+
+The **Russian Community Beatmapping Contest** is a mapping contest for Russian-speaking community members with no specific country restrictions, meaning anyone who can speak Russian language can participate.
+
+| Contest No. | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Results |
+| :-: | :-- | :-- | :-- | :-- |
+| [#1](https://osu.ppy.sh/community/forums/topics/266652) | ::{ flag=RU }:: [Reiji-RJ](https://osu.ppy.sh/users/305389) | ::{ flag=RU }:: [fergas](https://osu.ppy.sh/users/3144542) | ::{ flag=RU }:: [Quashqai](https://osu.ppy.sh/users/2351223) | [Link](https://osu.ppy.sh/community/forums/topics/266652?n=73) |
+| [#2](https://osu.ppy.sh/community/forums/topics/475873) | ::{ flag=RU }:: [Reiji-RJ](https://osu.ppy.sh/users/305389) | ::{ flag=RU }:: [Reya](https://osu.ppy.sh/users/5960077) | ::{ flag=RU }:: [riffy](https://osu.ppy.sh/users/597957) | [Link](https://osu.ppy.sh/community/forums/topics/475873?n=91) |
+| [#3](https://osu.ppy.sh/community/forums/topics/1621520) | ::{ flag=RU }:: [Shikoruto](https://osu.ppy.sh/users/11665315) | ::{ flag=RU }:: [Aphestra](https://osu.ppy.sh/users/11949191) | ::{ flag=RU }:: [Vitas2222](https://osu.ppy.sh/users/11742599) | [Link](https://osu.ppy.sh/community/forums/topics/1621520?n=34) |
 
 ## Notes
 

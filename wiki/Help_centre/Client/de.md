@@ -149,7 +149,7 @@ Um die Beatmap-Datenbank gefahrlos zu einer Neuerstellung zu zwingen, versuche d
 7. Nenne sie um wie du möchtest. Es spielt keine Rolle, solange sie nicht "osu!" heißt. Anschließend drücke `Enter`.
 8. Starte osu! erneut.
 
-*Tipp: eine Fehlerbehebung dafür wurde in [Stable 20210519.3](https://osu.ppy.sh/home/changelog/stable40/20210519.3) am 19. Mai 2021 hinzugefügt. Wenn du diesem Problem immer noch begegnest, dann [lasse uns das bitte wissen](https://github.com/ppy/osu-stable-issues/issues).*
+*Anmerkung: eine Fehlerbehebung dafür wurde in [Stable 20210519.3](https://osu.ppy.sh/home/changelog/stable40/20210519.3) am 19. Mai 2021 hinzugefügt. Wenn du diesem Problem immer noch begegnest, dann [lasse uns das bitte wissen](https://github.com/ppy/osu-stable-issues/issues).*
 
 ### Meine Songliste scrollt weiter! {#songs-list-scrolling}
 

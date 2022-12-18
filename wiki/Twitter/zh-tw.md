@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: bf0efccf8db8b9dfb5ae645549a64c0623c27052
 ---
 
 # Twitter
@@ -25,4 +27,4 @@ osu! 有數個 Twitter 帳號，分別提供不同的功能。大部分的流量
 
 | 頭像 | 帳號名稱 | 說明 |
 | :-: | :-: | :-- |
-| ![Dean Herbert avatar](img/ppy.jpg) | [@ppy](https://twitter.com/ppy) | [osu! 的作者](/wiki/People/peppy)的個人 Twitter 帳號，推文不一定跟 osu! 有關係，但還是涵蓋了大部分。 |
+| ![Dean Herbert avatar](img/ppy.jpg?2) | [@ppy](https://twitter.com/ppy) | [osu! 的作者](/wiki/People/peppy)的個人 Twitter 帳號，推文不一定跟 osu! 有關係，但還是涵蓋了大部分。 |

@@ -6,7 +6,7 @@ date: 2022-01-14 17:00:00 +0000
 
 A call to arms for players from the osu!taiko and osu!mania game modes! We want your feedback on the way performance points and star rating development should proceed—read on to get involved!
 
-![](/wiki/shared/news/2022-01-14-taiko-mania-pp-sr-survey/star-rating.jpg)
+![](/wiki/shared/news/banners/star-rating.jpg)
 
 Six months ago, the osu!team released a [public survey](https://osu.ppy.sh/home/news/2021-08-17-pp-sr-survey) to assess the community's position on both current and future deployments of performance and difficulty calculation. The [results of the survey](https://osu.ppy.sh/home/news/2021-09-02-pp-sr-survey-results) helped us better understand the community's expectations, as well as determine the best path moving forward.
 

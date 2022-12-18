@@ -6,7 +6,7 @@ date: 2021-07-27 10:00:00 +0000
 
 A brand new set of changes to the performance points and star rating algorithms have just gone live - read on to discover what's new, and where things are headed in the future!
 
-![](/wiki/shared/news/2021-07-27-performance-points-star-rating-updates/star-rating.jpg)
+![](/wiki/shared/news/banners/star-rating.jpg)
 
 Thanks to the efforts of some very bright minds, a new batch of changes are live for both the osu! and osu!mania game modes. Read on below to check out all the changes stated in full (courtesy of a write-up from [spaceman_atlas](https://osu.ppy.sh/users/3035836)), including a number of graphs and charts to help things along.
 

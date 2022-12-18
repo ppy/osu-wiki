@@ -519,6 +519,8 @@ Notes :
 
 `mania-warningarrow.png`
 
+![](img/mania-warningarrow.png)
+
 | Versions | Peut être animé | Modifiable sur une beatmap | Blend Mode | Origine | Taille de SD suggérée |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | Toutes | ![Non][false] | ![Non][false] | Normal | Centre | - |

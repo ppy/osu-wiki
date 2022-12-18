@@ -12,7 +12,7 @@ tags:
 
 *For the list of people who have attained special user titles, see [Users with unique titles](/wiki/People/Users_with_unique_titles).*
 
-![Screenshot of Tom94's profile information](img/dev.png "The \"osu!dev\" title can be seen near the top of Tom94's profile.")
+![Screenshot of Ephemeral's profile information](img/dev.png?1 "The \"osu!team\" title can be seen near the top of Ephemeral's profile.")
 
 A **user title** is a short label on a user's profile page set by the [osu! team](/wiki/People/The_Team). Most titles indicate membership of a [user group](/wiki/People/The_Team#user-groups), but some users have earned [more unique titles](/wiki/People/Users_with_unique_titles) for specific achievements or contributions.
 
@@ -45,4 +45,9 @@ These titles were only visible on the sidebars of forum posts (not on the users'
 
 ## Trivia
 
+::: Infobox
+![](img/multiple-titles.png "VINXIS' two titles being displayed at the same time")
+:::
+
 - User titles are referred to as "rank titles" throughout the game's code. This is a leftover name from when osu! was built on top of [phpBB](https://www.phpbb.com/).
+- As of March 2021, users earning multiple titles are usually assigned a title that joins all of them together with slashes. Previously, it was more common to display only the most significant or most recent title.

@@ -12,16 +12,14 @@ tags:
 
 ## osu!
 
-In [osu!](/wiki/Game_mode/osu!), each [hit object](/wiki/Hit_object) has its own combo number and combo colour. When a new combo is started, the combo colour changes and the combo number resets to one. This counts up for each following object.
+In [osu!](/wiki/Game_mode/osu!), each [hit object](/wiki/Hit_object) has its own combo number and [combo colour](/wiki/Beatmapping/Combo_colour). When a new combo is started, the combo colour changes and the combo number resets to one. This counts up for each following object.
 
-*Note: Spinners force the next hit object to start a new combo.*
+*Note: [Spinners](/wiki/Gameplay/Hit_object/Spinner) force the next hit object to start a new combo.*
 
 ## osu!catch
 
-In [osu!catch](/wiki/Game_mode/osu!catch), each type of fruit is coloured by the currently selected combo colour. When a new combo is started, the combo colour changes. Unlike in osu!, fruits do not have a combo number.
+In [osu!catch](/wiki/Game_mode/osu!catch), each type of [fruit](/wiki/Gameplay/Hit_object/Fruit) is coloured by the currently selected combo colour. When a new combo is started, the combo colour changes. Unlike in osu!, fruits do not have a combo number.
 
 ## Other game modes
 
 [osu!taiko](/wiki/Game_mode/osu!taiko) and [osu!mania](/wiki/Game_mode/osu!mania) do not use new combos.
-
-<!--TODO: Insert lots of links-->

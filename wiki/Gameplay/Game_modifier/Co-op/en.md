@@ -48,7 +48,7 @@ The following table only affects beatmaps converted from [osu!](/wiki/Game_mode/
 
 *Note: The Co-op mod gives no penalty on osu!mania-specific beatmaps.*
 
-A detailed explanation about the second playfield can be found in the [osu!mania page under "Co-op"](/wiki/Game_mode/osu!mania#co-op).
+A detailed explanation about the second playfield can be found under [Game mode/osu!mania § Co-op](/wiki/Game_mode/osu!mania#co-op).
 
 ### Trivia
 

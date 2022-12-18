@@ -37,9 +37,11 @@ We'd also like to give an honorable mention to the third place entry from the co
 <br/>
 
 <center>
+
 [Full results available here!](https://osu.ppy.sh/community/contests/1)
 
 [![Contest results](https://puu.sh/qSlDm/dadeab2780.png)](https://osu.ppy.sh/community/contests/1)
+
 </center>
 
 <br/>

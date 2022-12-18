@@ -22,11 +22,11 @@ tags:
 
 ![Modauswahl](img/mod-selection-screen-DE.jpg "Vergleich der Modauswahl zwischen den Spielmodi osu! (oben links), osu!taiko (oben rechts), osu!catch (unten links) und osu!mania (unten rechts)")
 
-**Spielmodifikationen** (oder kurz "Mod") sind optionale Modifikationen an den Elementen und Einstellungen einer [Beatmap](/wiki/Beatmap), die Spieler in der `Modauswahl` (oben) aktivieren können. Mods können Beatmaps einfacher, schwerer oder einfach nur spaßig machen.
+**Spielmodifikationen** (oder kurz "Mod") sind optionale Veränderungen an den Elementen und Einstellungen einer [Beatmap](/wiki/Beatmap), die Spieler in der `Modauswahl` (oben) aktivieren können. Mods können Beatmaps einfacher, schwerer oder einfach nur spaßig machen.
 
 Spieler können die `Modauswahl` in der Songauswahl durch das Klicken des Buttons `Mods` nahe der linken, unteren Bildschirmecke oder durch das Drücken der Taste `F1` auf ihrer Tastatur erreichen. Einmal in der `Modauswahl`, gibt es Tastenkürzel, die zum Aktivieren oder Deaktivieren von bestimmten Mods verwendet werden können. Diese Kürzel können in den Einstellungen geändert werden.
 
-Im Auswahlmenü sind Mods in drei Kategorien aufgeteilt: `Einfacher`, `Schwieriger` sowie `Sonstige` und sie können den [`Punktemultiplikator`](/wiki/Game_modifier/Score_multiplier) entweder reduzieren, erhöhen oder entfernen. Wenn zwei Mods gleichzeitig genutzt werden, werden die jeweiligen Multiplikatoren der Mods miteinander multipliziert (z. B. `1.06-fach * 1.12-fach = 1.1872-fach`).
+Im Auswahlmenü sind Mods in drei Kategorien aufgeteilt: `Einfacher`, `Schwieriger` sowie `Sonstige` und sie können den [`Score-Multiplikator`](/wiki/Game_modifier/Score_multiplier) entweder reduzieren, erhöhen oder entfernen. Wenn zwei Mods gleichzeitig genutzt werden, werden die jeweiligen Multiplikatoren der Mods miteinander multipliziert (z. B. `1.06-fach * 1.12-fach = 1.1872-fach`).
 
 ## Liste der Mods
 
@@ -67,7 +67,7 @@ Neben jeder der unten aufgeführten Modifikation werden die Symbole für die kom
 
 ### Andere
 
-*Tipp: Diese Mods wurden vor einiger Zeit verwendet, aber sind jetzt nicht mehr verfügbar.*
+*Anmerkung: Diese Mods wurden vor einiger Zeit verwendet, aber sind jetzt nicht mehr verfügbar.*
 
 - [10K](/wiki/Game_modifier/10K) ![][osu!mania]
 - [Fade Out](/wiki/Game_modifier/Fade_Out) ![][osu!mania]

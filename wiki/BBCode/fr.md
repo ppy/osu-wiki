@@ -187,7 +187,7 @@ La balise `[profile]` est utilisée pour créer un lien vers la page de profil o
 
 *Note : L'ID utilisateur est une chaîne de chiffres qui suit directement le `/users/` dans l'URL d'une page de profil osu!*
 
-Si le lien est spécifié par le biais de l'identifiant de l'utilisateur, le texte entre les balises ouverte et fermée ne sera pas analysé et s'affichera sous la forme du nom d'utilisateur actuel de l'utilisateur. Toutefois, si la page de profil est spécifiée uniquement par le biais d'un nom d'utilisateur, et que cet utilisateur change de nom d'utilisateur, le lien cessera de fonctionner.
+Lorsque vous spécifiez des utilisateurs par le biais de leur identifiant, un texte de remplacement est nécessaire entre les balises ouvertes et fermées. En procédant ainsi, le nom de l'utilisateur s'affichera sur la page actuelle à la place du texte de remplacement. Lorsque vous spécifiez des utilisateurs uniquement par leur nom d'utilisateur, le lien ne fonctionnera plus s'ils changent leur nom d'utilisateur.
 
 ### Listes formatées
 
@@ -199,13 +199,23 @@ Si le lien est spécifié par le biais de l'identifiant de l'utilisateur, le tex
 [/list]
 ```
 
-La balise `[list]` est utilisée pour formater automatiquement de nombreux types de listes dans les forums osu! en utilisant un astérisque entre parenthèses (`[*]`) pour indiquer un nouvel élément dans la liste (voir ci-dessus). Par défaut, cela créera une liste simple, à puces.
+La balise `[list]` est utilisée pour formater automatiquement deux types de listes dans les forums osu! en utilisant un astérisque entre parenthèses (`[*]`) pour indiquer un nouvel élément dans la liste (voir ci-dessus). Par défaut, cela créera une liste simple, à puces.
 
-D'autres styles de liste peuvent être formatés en spécifiant l'argument `TYPE` comme `1`, `a`, `A`, `i`, ou `I`, qui formateront les listes comme étant numérotées, lettrées (minuscules), lettrées (majuscules), en chiffres romains (minuscules), et en chiffres romains (majuscules) respectivement.
+Si l'argument `TYPE` est spécifié (la valeur réelle n'a pas d'importance), cela créera une liste numérotée.
 
 *Remarque : Les listes formatées en BBCode peuvent être empilées les unes sur les autres et placées les unes dans les autres, bien que cela soit connu pour causer des problèmes de formatage.*
 
 Boutons de la barre d'outils : ![List button](img/list.png "Liste") ![Numbered list button](img/list-numbered.png "Liste numérotée")
+
+### Email
+
+```
+[email=ADDRESS]text[/email]
+```
+
+La balise `[email]` crée un lien hypertexte cliquable, qui ouvre un nouvel e-mail dans le programme de messagerie par défaut avec le champ d'adresse pré-rempli.
+
+Afin de créer un lien, deux arguments doivent être spécifiés : l'argument `ADDRESS` doit être une adresse email valide, tandis que `text` est le texte affiché qui sert d'hyperlien. Si l'argument `text` n'est pas défini, l'hyperlien ne sera pas créé correctement.
 
 ### Images
 

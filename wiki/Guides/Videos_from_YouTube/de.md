@@ -10,7 +10,7 @@ tags:
 
 # Videos von YouTube
 
-*Bitte beachte, dass das Herunterladen von YouTube-Videos ein Vertoß gegen die [Nutzungsbedingungen](https://www.youtube.com/t/terms) darstellt.*
+*Bitte beachte, dass das Herunterladen von YouTube-Videos einen Verstoß gegen die [Nutzungsbedingungen](https://www.youtube.com/t/terms) darstellt.*
 
 [YouTube](https://youtube.com) ist eine nützliche Quelle für Kreative, die nach Hintergrundvideos für ihre [Beatmaps](/wiki/Beatmap) schauen. Wenn ein Song ein Musikvideo hat, dann wird es in den meisten Fällen auf YouTube sein und wahrscheinlich in der richtigen Größe komprimiert. Die Qualität ist gut, aber die Videodatei ist auch nicht extrem groß.
 
@@ -22,7 +22,7 @@ Dieses Tutorial ist gedacht für alle, die **keine** Videos außerhalb von YouTu
 
 ## youtube-dl verwenden
 
-[youtube-dl](https://youtube-dl.org) ist Kommandozeilenprogramm, um Videos von YouTube und anderen Seiten herunterzuladen.
+[youtube-dl](https://youtube-dl.org) ist ein Kommandozeilenprogramm, um Videos von YouTube und anderen Seiten herunterzuladen.
 
 1. Lade youtube-dl herunter und starte es in einer Konsole deiner Wahl (PowerShell, CMD, Terminal)
 2. Tippe den Befehl unten ein und drücke `Enter`

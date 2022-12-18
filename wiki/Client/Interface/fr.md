@@ -13,7 +13,7 @@ Cet article explique tout ce que vous devez savoir sur l'utilisation du client d
 - \[3\] Cliquez sur `Edit` (ou appuyez sur `E`) pour éditer une [beatmap](/wiki/Beatmap).
 - \[4\] Cliquez sur `Options` (ou appuyez sur `O`) pour ouvrir la [barre latérale des options](/wiki/Client/Options).
 - \[5\] Cliquez sur `Exit` (ou appuyez sur `Esc`) pour quitter le jeu.
-- \[6\] Un conseil utile au hasard.
+- \[6\] Une [astuce](/wiki/Client/Menu_tips) utile au hasard.
 - \[7\] Le logo [ppy](https://ppy.sh/) ainsi que des informations sur le copyright. En cliquant dessus, vous accédez au [site](https://osu.ppy.sh/home).
 - \[8\] Lorsque des problèmes de connexion avec le [serveur Bancho](/wiki/Bancho_(server)) surviennent, une icône de chaîne brisé est affiché ici.
 - \[9\] Le [tchat](/wiki/Client/Interface/Chat_console), et à sa gauche un bouton pour la fenêtre de tchat étendue, qui liste les utilisateurs actuellement en ligne. Ils sont également affichable avec `F8` et `F9` respectivement.

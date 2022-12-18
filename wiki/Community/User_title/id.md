@@ -4,13 +4,15 @@ tags:
   - gelar forum
   - peringkat
   - warna pengguna
+outdated_translation: true
+outdated_since: fde8aa733a04647f9f0d9f7dec5186f21a4f77d5
 ---
 
 # Gelar pengguna
 
 *Untuk melihat daftar nama-nama pengguna yang memiliki gelar khusus, harap kunjungi laman [Pengguna dengan gelar khusus](/wiki/People/Users_with_unique_titles).*
 
-![Cuplikan laman profil Tom94](img/dev.png "Gelar \"osu!dev\" sebagaimana yang tersemat pada laman profil Tom94.")
+![Cuplikan laman profil Ephemeral](img/dev.png?1 "Gelar \"osu!team\" sebagaimana yang tersemat pada laman profil Ephemeral.")
 
 **Gelar pengguna** merupakan label atau tajuk khusus yang tersemat pada laman profil pengguna. Suatu gelar pengguna pada umumnya disematkan oleh [tim inti osu!](/wiki/People/The_Team) untuk menandakan status keanggotaan seseorang di dalam [gugus pengguna (*user group*)](/wiki/People/The_Team#gugus-pengguna) tertentu. Meskipun demikian, terdapat beberapa gelar yang [diberikan secara khusus](/wiki/People/Users_with_unique_titles) kepada pengguna-pengguna tertentu sebagai bentuk apresiasi atas pencapaian yang telah mereka raih dalam bidangnya masing-masing.
 

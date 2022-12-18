@@ -72,8 +72,6 @@ Sí decidimos dejarte regresar, requeriremos que aceptes algunos términos antes
 - **No deberás asociarte con otras cuentas.** incluye jugar en computadores compartidos.
 - **Cualquier mal comportamiento mayor resultará en una restricción inmediata.**. Esto incluye silenciamientos importantes.
 
-Adicionalmente, por un período de un año, no vamos a conceder cambios de bandera a tu cuenta.
-
 En algunos casos, un jugador apelado puede ser vetado de torneos oficiales y torneos con insignia, así como competidor y miembro del equipo en el torneo. La duración de este veto es de un año (sí es la segunda apelación del usuario, el veto dura 2 años). El correo de levantamiento de restricción aclarará la duración de este veto.
 
 **Hacer trampa o compartir cuenta durante un torneo oficial o torneo con insignia llevará al veto permanente del usuario en futuros torneos.** Este veto no puede ser apelado (tu correo será ignorado sí lo intentas) y no será removido, reducido, o exonerado bajo ninguna circunstancia.

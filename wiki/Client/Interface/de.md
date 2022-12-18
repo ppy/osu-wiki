@@ -13,7 +13,7 @@ Dieser Artikel erklärt alles, was du über die Benutzung des Spiel-Clients von 
 - \[3\] Klicke auf `Edit` (oder drücke `E`), um eine [Beatmap](/wiki/Beatmap) zu editieren.
 - \[4\] Klicke auf `Options` (oder drücke `O`), um die [Optionsleiste](/wiki/Client/Options) zu öffnen.
 - \[5\] Klicke auf `Exit` (oder drücke `Esc`), um das Spiel zu verlassen.
-- \[6\] Ein zufälliger, nützlicher Tipp.
+- \[6\] Ein zufälliger, nützlicher [Tipp](/wiki/Client/Menu_tips).
 - \[7\] Das [ppy](https://ppy.sh/)-Logo zusammen mit den Urheberrechtsinformationen. Beim Anklicken wird man zur [osu!-Webseite](https://osu.ppy.sh/home) weitergeleitet.
 - \[8\] Sobald Verbindungsprobleme mit dem [Bancho-Server](/wiki/Bancho_(server)) auftreten, wird hier ein gebrochenes Kettenglied angezeigt.
 - \[9\] Der [Chat](/wiki/Client/Interface/Chat_console) und zur linken Seite der Button für das erweiterte Chat-Fenster, welches alle aktuellen Online-Nutzer auflistet. Diese sind auch über `F8` bzw. `F9` entsprechend umschaltbar.
@@ -146,7 +146,7 @@ Sortiere Beatmaps in einer bestimmten Reihenfolge.
 
 ![](img/search-bar-DE.jpg)
 
-*Tipp: Du kannst die Chatkonsole oder die Optionsleiste nicht offen haben, wenn du nach etwas suchen möchtest. Ansonsten wird alles, was du tippst, als Text für den Chat oder als Suchanfrage in den Optionen interpretiert.*
+*Anmerkung: Du kannst die Chatkonsole oder die Optionsleiste nicht offen haben, wenn du nach etwas suchen möchtest. Ansonsten wird alles, was du tippst, als Text für den Chat oder als Suchanfrage in den Optionen interpretiert.*
 
 Nur Beatmaps, die den Kriterien deiner Suche entsprechen, werden angezeigt. Standardmäßig wird jede Suche mit den Künstlern, den Titeln, den Erstellern sowie den Tags der Beatmaps abgeglichen.
 
@@ -249,13 +249,13 @@ Klicke auf den Button `Mode`, um eine Liste der verfügbaren Spielmodi in osu! a
 
 Klicke auf den Button `Mods` oder drücke `F1`, um in die **[Modauswahl](/wiki/Game_modifier)** zu gelangen.
 
-In diesem Bereich kannst du Modifikationen (kurz "Mods") zum Spielverlauf hinzufügen. Einige Mods verringern die Schwierigkeit und verwenden einen Multiplikator, der den von dir erreichten Punktestand verringert. Dagegen steigern manche Mods die Schwierigkeit, aber verwenden einen Multiplikator, der den von dir erreichten Punktestand erhöht. Außerdem beeinflussen manche Mods den Spielverlauf auf eine andere Weise. [Relax](/wiki/Game_modifier/Relax) und [Auto Pilot](/wiki/Game_modifier/Autopilot) fallen unter diesen Kategorie.
+In diesem Bereich kannst du Modifikationen (kurz "Mods") zum Spielverlauf hinzufügen. Einige Mods verringern die Schwierigkeit und verwenden einen Multiplikator, der den von dir erreichten Punktestand verringert. Dagegen steigern manche Mods die Schwierigkeit, aber verwenden einen Multiplikator, der den von dir erreichten Punktestand erhöht. Außerdem beeinflussen manche Mods den Spielverlauf auf eine andere Weise. [Relax](/wiki/Game_modifier/Relax) und [Auto Pilot](/wiki/Game_modifier/Autopilot) fallen unter diese Kategorie.
 
-Bewege deinen Cursor über das Modsymbol, um dir die Beschreibung dazu anzeigen zu lassen. Klicke auf das Modsymbol, um die Mod zu aktivieren oder zu deaktivieren. Einige Mods, wie z. B. Double Time, haben mehrere Variationen — klicke nochmals auf die Mod, um durch die Variationen durchzuwechseln. Der Punktemultiplikator zeigt den kombinierten Effekt an, den alle selektierten Mods auf deinen Punktestand haben werden. Klicke auf `Mods zurücksetzen` oder drücke `1`, um alle aktuell ausgewählten Mods zu deaktivieren. Klicke auf `Schließen`, drücke `2` oder `ESC`, um zurück zur Songauswahl zu gelangen.
+Bewege deinen Cursor über das Modsymbol, um dir die Beschreibung dazu anzeigen zu lassen. Klicke auf das Modsymbol, um die Mod zu aktivieren oder zu deaktivieren. Einige Mods, wie z. B. Double Time, haben mehrere Variationen — klicke nochmals auf die Mod, um durch die Variationen durchzuwechseln. Der Score-Multiplikator zeigt den kombinierten Effekt an, den alle selektierten Mods auf deinen Punktestand haben werden. Klicke auf `Mods zurücksetzen` oder drücke `1`, um alle aktuell ausgewählten Mods zu deaktivieren. Klicke auf `Schließen`, drücke `2` oder `ESC`, um zurück zur Songauswahl zu gelangen.
 
 Klicke auf den Button `Random` oder drücke `F2`, damit das Spiel **zufällig durch alle Beatmaps blättert und eine davon auswählt.**
 
-*Tipp: Du kannst `Shift` und den Button `Random` oder `F2` drücken, um zu der vorher gewählten Beatmap zurückzukehren.*
+*Anmerkung: Du kannst `Shift` und den Button `Random` oder `F2` drücken, um zu der vorher gewählten Beatmap zurückzukehren.*
 
 ![](img/beatmap-options-DE.jpg "Mögliche Optionen für eine Beatmap")
 
@@ -297,7 +297,7 @@ Dies ist deine Online-Rangliste. Du kannst durch Herunterscrollen von der Ergebn
 - \[2\] `Save replay to Replays folder`: Du kannst dir das Replay später anschauen, indem du es entweder über die lokale Rangliste öffnest oder in das Verzeichnis `Replays` wechselst und dort mit einem Doppelklick ausführst.
 - \[3\] `Add as online favourite`: Füge die Beatmap zu deiner Favoritenliste hinzu, die auf deiner osu!-Profilseite in der Sektion `Beatmaps` zu finden ist.
 - \[4\] Lokale Rangliste: Alle deine Resultate werden auf deinem Computer gespeichert. Navigiere zur [Songauswahl](#songauswahl) und wähle `Lokale Rangliste` von dem Dropdown-Menü über dem Scoreboard aus, um diese einzusehen.
-- \[5\] Sektion `Beatmap Ranking`. Nur für Beatmaps mit Online-Ranglisten ([qualified](/wiki/Beatmap/Category#qualified), [ranked](/wiki/Beatmap/Category#ranked) oder [loved](/wiki/Beatmap/Category#loved)) verfügbar. Du musst außerdem online sein, um diese Sektion sehen zu können. Siehe unten für mehr Details.<!-- TODO: See if links here have to be adjusted as soon as the Category article is available -->
+- \[5\] Sektion `Beatmap Ranking`. Nur für Beatmaps mit Online-Ranglisten ([qualified](/wiki/Beatmap/Category#qualifiziert), [ranked](/wiki/Beatmap/Category#ranked) oder [loved](/wiki/Beatmap/Category#loved)) verfügbar. Du musst außerdem online sein, um diese Sektion sehen zu können. Siehe unten für mehr Details.
 - \[6\] Sektion `Overall Ranking`. Das ist nur verfügbar für Beatmaps mit Online-Ranglisten. Du musst außerdem online sein, um diese Sektion sehen zu können. Siehe unten für mehr Details.
 - \[7\] Informationen über die Beatmap mit der Spielanzahl und der Erfolgsrate.
 - \[8\] Bewertung der Beatmap. Bewerte nach deinem Ermessen, ob du die Beatmap mochtest oder nicht. Lasse es am besten bleiben, wenn du dich nicht entscheiden kannst.
@@ -314,7 +314,7 @@ Die Kategorien in der Ranglistenanzeige sind wie folgt:
 | `Max Combo` | Die höchste Combo, die du auf der Beatmap gespielt hast. | Die höchste Combo, die du jemals über alle Beatmaps gesehen erreicht hast. |
 | [`Ranked Score`](/wiki/Gameplay/Score/Ranked_score) | Dein [bestes Ergebnis](/wiki/Gameplay/Score/Ranked_score) auf der Beatmap. | Die Anzahl der Punkte von allen gerankten Beatmaps, die du jemals gespielt hast, wobei jede Beatmap genau einmal gezählt wird. |
 | [`Total Score`](/wiki/Gameplay/Score/Total_score) | Das wird nicht berücksichtigt, da es deine Position in der Online-Rangliste nicht beeinflusst. | Das gleiche wie beim gerankten Score, aber es werden alle verfügbaren Beatmaps auf der osu!-Webseite miteinbezogen, also auch gescheiterte Beatmaps oder Beatmaps, bei denen der alte Punktestand nicht überboten wurde. Das wird auf dein [Level](/wiki/Gameplay/Score/Total_score#level) angerechnet.<!-- TODO: Check link as soon as article is available --> |
-| [`Performance`](/wiki/Performance_points) | Die Menge an [ungewichteten PP](/wiki/Performance_points#why-didn't-i-gain-the-full-amount-of-pp-from-a-map-i-played?), die du für den Score erreichen würdest. | Deine gesamte Menge an Performance-Punkten und wie viele PP der eingereichte Score wert war.<!-- TODO: Check link as soon as article is available --> |
+| [`Performance`](/wiki/Performance_points) | Die Menge an [ungewichteten PP](/wiki/Performance_points#warum-habe-ich-von-der-beatmap,-die-ich-gespielt-habe,-nicht-die-volle-menge-an-pp-bekommen?), die du für den Score erreichen würdest. | Deine gesamte Menge an Performance-Punkten und wie viele PP der eingereichte Score wert war. |
 
 ### Medaillen
 

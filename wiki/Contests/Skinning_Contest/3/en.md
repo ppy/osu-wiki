@@ -17,8 +17,8 @@ The **Skinning Contest #3: Chromatic Alteration** is a free-for-all osu! skinnin
 | --: | :-- |
 | Announcement | 2022-07-18 |
 | Submission phase | 2022-07-18/2022-08-22 |
-| Voting phase | 2 week long, date TBD |
-| Results | TBD |
+| Voting phase | 2022-09-08/2022-09-22 |
+| Results | 2022-10-20 |
 
 ## Prizes
 
@@ -48,10 +48,45 @@ The Skinning Contest #3 is run by various community members.
 
 - **[Contest Page](https://osu.ppy.sh/community/contests/148)**
 - [Announcement newspost](https://osu.ppy.sh/home/news/2022-07-18-skinning-contest-chromatic-alteration-announcement)
+- [Voting newspost](https://osu.ppy.sh/home/news/2022-09-08-skinning-contest-chromatic-alteration-voting-open)
 - [Discussion Thread](https://osu.ppy.sh/community/forums/topics/1612258)
 - [Submission Thread](https://osu.ppy.sh/community/forums/topics/1612259)
 - [Discord server](https://discord.skinship.xyz)
 - [Official website](https://skinship.xyz)
+
+## Participants
+
+| Skinner | Entry |
+| :-- | :-- |
+| ::{ flag=ID }:: [My Angel Fu Hua](https://osu.ppy.sh/users/18065446) | [- Spektrum](https://osu.ppy.sh/community/forums/topics/1617742) |
+| ::{ flag=RU }:: [Shikima on osu](https://osu.ppy.sh/users/10793341) | [Hortus](https://osu.ppy.sh/community/forums/topics/1621380) |
+| ::{ flag=FR }:: [EverestTiger](https://osu.ppy.sh/users/14972711) | [GMK Blue Samurai](https://osu.ppy.sh/community/forums/topics/1625024) |
+| ::{ flag=MX }:: [NekoLoveFan](https://osu.ppy.sh/users/15581205) | [Night_blue](https://osu.ppy.sh/community/forums/topics/1626271) |
+| ::{ flag=TR }:: [BatuhanYtho](https://osu.ppy.sh/users/12091015) | [UmbraBlue Interface](https://osu.ppy.sh/community/forums/topics/1627623) |
+| ::{ flag=CA }:: [RUDEKA](https://osu.ppy.sh/users/13015586) | [DknsK](https://osu.ppy.sh/community/forums/topics/1627924) |
+| ::{ flag=ID }:: [ArchieA7](https://osu.ppy.sh/users/7087699) | [DeutanNami](https://osu.ppy.sh/community/forums/topics/1628183) |
+| ::{ flag=US }:: [Spoo](https://osu.ppy.sh/users/11805037) | [- Crystalized -](https://osu.ppy.sh/community/forums/topics/1628271) |
+| ::{ flag=BY }:: [thetasigma](https://osu.ppy.sh/users/6234482) | [霜滅 SOUMETSU](https://osu.ppy.sh/community/forums/topics/1628514) |
+| ::{ flag=FR }:: [Corne2Plum3](https://osu.ppy.sh/users/15646039) | [Ralsei Dark](https://osu.ppy.sh/community/forums/topics/1629393) |
+| ::{ flag=MX }:: [ZixkyST](https://osu.ppy.sh/users/11844975) | [RestriXion](https://osu.ppy.sh/community/forums/topics/1629589) |
+| ::{ flag=ID }:: [mousewing](https://osu.ppy.sh/users/10837448) | [- Yupi Colorful -](https://osu.ppy.sh/community/forums/topics/1630720) |
+| ::{ flag=US }:: [Cieu](https://osu.ppy.sh/users/2837685) | [minionalist.](https://osu.ppy.sh/community/forums/topics/1631007) |
+| ::{ flag=US }:: [-TunaSliders-](https://osu.ppy.sh/users/15420104) | [+=NE0SYNTH=+](https://osu.ppy.sh/community/forums/topics/1631101) |
+| ::{ flag=VN }:: [koomo](https://osu.ppy.sh/users/2168518) | [sour_grapes](https://osu.ppy.sh/community/forums/topics/1626950) |
+| ::{ flag=GR }:: [K-Riolf](https://osu.ppy.sh/users/30645221) | [GΩLDEN OCΞΛN](https://osu.ppy.sh/community/forums/topics/1631636) |
+| ::{ flag=PH }:: [Creameries](https://osu.ppy.sh/users/15851364) | [Lazuline Lutescent](https://osu.ppy.sh/community/forums/topics/1632482) |
+| ::{ flag=VN }:: [Tkieen](https://osu.ppy.sh/users/12561202) | [Sakuropia](https://osu.ppy.sh/community/forums/topics/1632497) |
+| ::{ flag=VN }:: [Ben_5917](https://osu.ppy.sh/users/6026593) | [sH/FT](https://osu.ppy.sh/community/forums/topics/1633136) |
+| ::{ flag=DE }:: [SiriusOnly](https://osu.ppy.sh/users/22287370) | [SHINOBI](https://osu.ppy.sh/community/forums/topics/1633153) |
+| ::{ flag=CA }:: [WD_ALT](https://osu.ppy.sh/users/21559352) | [Iced Tea](https://osu.ppy.sh/community/forums/topics/1633310) |
+| ::{ flag=US }:: [Syvatzia](https://osu.ppy.sh/users/19082107) | [Desert Tempest](https://osu.ppy.sh/community/forums/topics/1633645) |
+| ::{ flag=US }:: [Chromasia](https://osu.ppy.sh/users/7306251) | [Auburn and Azure](https://osu.ppy.sh/community/forums/topics/1633624) |
+
+## Podium
+
+*For the full results, see the [contest page](https://osu.ppy.sh/community/contests/148).*
+
+![](img/podium.png "Skinning Contest #3 podium")
 
 ## Ruleset
 

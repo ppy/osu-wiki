@@ -13,7 +13,7 @@ This article explains everything you need to know on how to use the osu! game cl
 - \[3\] Click `Edit` (or press `E`) to edit a [beatmap](/wiki/Beatmap).
 - \[4\] Click `Options` (or press `O`) to open the [options sidebar](/wiki/Client/Options).
 - \[5\] Click `Exit` (or press `Esc`) to exit the game.
-- \[6\] A random useful tip.
+- \[6\] A random useful [tip](/wiki/Client/Menu_tips).
 - \[7\] The [ppy](https://ppy.sh/) logo along with copyright information. Clicking on it leads to the [osu! website](https://osu.ppy.sh/home).
 - \[8\] When connection issues with the [Bancho server](/wiki/Bancho_(server)) arise, a broken chain link is shown here.
 - \[9\] The [chat](/wiki/Client/Interface/Chat_console), and to its left a toggle for the extended chat window, which lists currently online users. They are also toggleable with `F8` and `F9` respectively.

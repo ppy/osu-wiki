@@ -1,6 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: 5d060ae21b4df7739919dfc468c9456bb305acf6
 tags:
   - жалоба
   - жалобы
@@ -18,12 +16,13 @@ tags:
 
 | Ситуация | Что делать? |
 | :-- | :-- |
-| Оскорбления в личных сообщениях | **Ничего**: пользователя нужно [отправить в игнор](/wiki/Client/Interface/Chat_console#список-команд). Для постоянного эффекта используйте игнор-лист в [игровых настройках](/wiki/Client/Options) |
-| Нарушения, связанные с моддингом или маппингом | Свяжитесь с командой [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) или [модераторами](/wiki/People/The_Team/Global_Moderation_Team), следящими за порядком в моддинге и маппинге, через [сайт для NAT/BN](https://bn.mappersguild.com/reports) |
+| Скам или фишинг в личных сообщениях | Отправьте обычную жалобу |
+| Прочие оскорбительные или неприемлемые личные сообщения | **Ничего**: пользователя нужно [отправить в игнор](/wiki/Client/Interface/Chat_console#список-команд). Для постоянного эффекта используйте игнор-лист в [игровых настройках](/wiki/Client/Options) или заблокируйте пользователя, нажав на соответствующую кнопку в его профиле на сайте |
+| Плохое поведение [номинатора](/wiki/People/The_Team/Beatmap_Nominators) | Свяжитесь с командой [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) через [сайт для NAT/BN](https://bn.mappersguild.com/reports) |
 | Плохое поведение члена [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) или [модератора](/wiki/People/The_Team/Global_Moderation_Team) | Напишите письмо в [службу поддержки аккаунтов](/wiki/People/The_Team/Account_support_team) по адресу [support@ppy.sh](mailto:support@ppy.sh) |
 | Домогательство, приставания, крайне неприемлемое поведение | См. [Жалобы на приставания](/wiki/Reporting_bad_behaviour/Abuse) |
 
-Во всех прочих случаях см. ниже.
+Во всех прочих случаях см. далее.
 
 ## Игровой чат
 

@@ -198,7 +198,7 @@ Les **contributeurs de la communauté** sont les utilisateurs ayant fourni des s
 | :-- | :-- |
 | ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263) | Contribution exceptionnelle aux tournois de la communauté osu!taiko |
 | ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502) | Contribution exceptionnelle au développement d'osu!(lazer) |
-| ::{ flag=HR }:: [Susuko3](https://osu.ppy.sh/users/18945305) | Contribution exceptionnelle au développement d'osu!(lazer) et d'osu!framework |
+| ::{ flag=HR }:: [Susko3](https://osu.ppy.sh/users/18945305) | Contribution exceptionnelle au développement d'osu!(lazer) et d'osu!framework |
 | ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455) | Contribution exceptionnelle au développement et à la maintenance des points de performance d'osu! |
 | ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549) | Contribution exceptionnelle au développement des points de performance d'osu! |
 | ::{ flag=AU }:: [MBmasher](https://osu.ppy.sh/users/4498616) | Contribution exceptionnelle au développement des points de performance d'osu! et à la revitalisation du mod Flashlight |

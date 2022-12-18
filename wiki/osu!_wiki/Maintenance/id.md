@@ -62,18 +62,18 @@ osu! wiki terintegrasi ke dalam situs web osu!, yang berarti semua permintaan fi
 
 Beberapa fitur mungkin tidak berhubungan langsung dengan situs web osu!, tetapi mungkin berguna untuk berkontribusi atau pembenahan. Dalam kasus tersebut, fitur-fitur ini diimplementasikan oleh orang yang mampu membuat hal tersebut dan **tidak** ditambahkan ke situs web secara langsung:
 
-- [status osu-wiki](https://clayton.cc/osu-wiki-status/id): daftar artikel per bahasa, dan kategori pemeliharaan yang diperlukan (terjemahan, pembaruan, perluasan rintisan). Lihat [ppy/osu-wiki#2486](https://github.com/ppy/osu-wiki/issues/2486) untuk permintaan fungsionalitas.
+- [status osu-wiki](https://osu.wiki/status/id): daftar artikel per bahasa, dan kategori pemeliharaan yang diperlukan (terjemahan, pembaruan, perluasan rintisan). Lihat [ppy/osu-wiki#2486](https://github.com/ppy/osu-wiki/issues/2486) untuk permintaan fungsionalitas.
 - [osu-wiki-bin](https://github.com/cl8n/osu-wiki-bin): utilitas Node.js untuk pemeriksaan dan pengeditan otomatis (tautan invalid, pembaruan grup pengguna, penggantian teks di seluruh wiki, dan hal-hal lain)
 
 ## Rutinitas
 
-*Catatan: situs web [status osu-wiki](https://clayton.cc/osu-wiki-status/id) menampilkan daftar semua artikel yang membutuhkan pemeliharaan, dikelompokkan berdasarkan kategori.*
+*Catatan: situs web [status osu-wiki](https://osu.wiki/status/id) menampilkan daftar semua artikel yang membutuhkan pemeliharaan, dikelompokkan berdasarkan kategori.*
 
 Wiki bergantung pada masukan dari komunitas osu!. Kamu dapat membantu pengelola dan kontributor lain dengan melakukan apa yang kamu bisa lakukan. Untuk informasi tentang cara melakukannya, baca [panduan kontribusi](/wiki/osu!_wiki/Contribution_guide). Jika suatu saat kamu merasa perlu bantuan, mintalah bantuan di channel `#osu-wiki` di [server Discord osu!dev](/wiki/Community/osu!dev_Discord_server).
 
 ### Terjemahan
 
-*Untuk daftar terjemahan dan kelengkapannya, lihat: [status osu-wiki](https://clayton.cc/osu-wiki-status/en)*
+*Untuk daftar terjemahan dan kelengkapannya, lihat: [status osu-wiki](https://osu.wiki/status/en)*
 
 osu! wiki dibaca oleh orang-orang dari seluruh dunia. Untuk membantu komunitas lokal kamu dan menarik pemain, *mapper*, *modder*, dan pengembang baru yang luar biasa ke dalam game, Kamu dapat menerjemahkan artikel bahasa Inggris, atau memperbarui terjemahan yang ada yang tertinggal. Periksa [daftar bahasa](/wiki/Article_styling_criteria/Formatting#locales) yang didukung oleh osu! wiki, dan pastikan terjemahanmu mengikuti prinsip [paritas konten](/wiki/Article_styling_criteria/Writing#content-parity). Jika kamu seorang pembicara yang fasih dan penulis berpengalaman, ambil topik utama seperti artikel tentang [aturan](https://github.com/ppy/osu-wiki/tree/master/wiki/Rules) atau [kriteria ranking](https://github.com/ppy/osu-wiki/tree/master/wiki/Ranking_Criteria). Jika kamu baru memulai karir menulis kamu, pilih artikel kecil untuk menerima bantuan dan bimbingan dari pengulas dan penutur bahasa asli.
 

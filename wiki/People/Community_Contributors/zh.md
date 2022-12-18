@@ -156,8 +156,8 @@ no_native_review: true
 | 玩家 | 贡献 |
 | :-- | :-- |
 | ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) | 对社区事务，活动和锦标赛的杰出贡献 |
-| ::{ flag=SG }:: [hehe](https://osu.ppy.sh/users/2123087) | 对作图场景，活动和锦标赛的杰出贡献 |
-| ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) | 对作图，摸图和元数据场景的杰出贡献 |
+| ::{ flag=SG }:: [hehe](https://osu.ppy.sh/users/2123087) | 对作图领域，活动和锦标赛的杰出贡献 |
+| ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) | 对作图，摸图和元数据领域的杰出贡献 |
 | ::{ flag=SG }:: [Shoegazer](https://osu.ppy.sh/users/2520707) | 对 osu!mania 游戏模式的杰出贡献 |
 | ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) | 对 osu!catch 游戏模式和管理的杰出贡献 |
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | 对管理和领头人事务的杰出贡献 |
@@ -168,11 +168,51 @@ no_native_review: true
 | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983) | 对整个 osu! 社区的杰出贡献 |
 | ::{ flag=AT }:: [Omgforz](https://osu.ppy.sh/users/578943) | 对 osu! 世界杯的杰出贡献 |
 | ::{ flag=AU }:: [Kano](https://osu.ppy.sh/users/3036203) | 对 osu! 世界杯的杰出贡献 |
-| ::{ flag=US }:: [Halogen-](https://osu.ppy.sh/users/169992) | 对 osu!mania 锦标赛场景的杰出贡献 |
-| ::{ flag=DE }:: [Junihuhn](https://osu.ppy.sh/users/4182339) | 对 osu! 世界杯 & 锦标赛场景的杰出贡献 |
-| ::{ flag=NL }:: [Sartan](https://osu.ppy.sh/users/4100941) | 对 osu!catch 锦标赛场景的杰出贡献 |
+| ::{ flag=US }:: [Halogen-](https://osu.ppy.sh/users/169992) | 对 osu!mania 锦标赛领域的杰出贡献 |
+| ::{ flag=DE }:: [Junihuhn](https://osu.ppy.sh/users/4182339) | 对 osu! 世界杯 & 锦标赛领域的杰出贡献 |
+| ::{ flag=NL }:: [Sartan](https://osu.ppy.sh/users/4100941) | 对 osu!catch 锦标赛领域的杰出贡献 |
 | ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) | 对社区管理的杰出贡献 |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) | 对玩家支持和协助的杰出贡献 |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | 对玩家支持和协助做出了巨大贡献 |
 | ::{ flag=CL }:: [Milan-](https://osu.ppy.sh/users/1052994) | 对 Mappers's Guild 和 BN 的杰出贡献 |
 | ::{ flag=US }:: [Joehu](https://osu.ppy.sh/users/8549835) | 对 osu! 开源项目的杰出贡献 |
+
+## 2021
+
+### 三月
+
+*参见新闻报道：[Community Contributors: 2020](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020)*
+
+| 玩家 | 贡献 |
+| :-- | :-- |
+| ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761) | 对社区活动和开发的杰出贡献 |
+| ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | 对世界杯和社区活动的杰出贡献 |
+| ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613) | 对作图和摸图领域的杰出贡献 |
+| ::{ flag=PL }:: [spaceman_atlas](https://osu.ppy.sh/users/3035836) | 对通过许多项目为 osu! 开发的杰出贡献 |
+| ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | 对 osu! 皮肤制作和摸图的杰出贡献 |
+| ::{ flag=US }:: [I Must Decrease](https://osu.ppy.sh/users/2773526) | 对计分维护和开发的杰出贡献 |
+| ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189) | 对世界杯和社区锦标赛领域的杰出贡献 |
+
+## 2022
+
+### 六月
+
+*参见新闻报道：[Community Contributors: 2021](https://osu.ppy.sh/home/news/2022-06-30-community-contributors-2021)*
+
+| 玩家 | 贡献 |
+| :-- | :-- |
+| ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263) | 对 osu!taiko 社区锦标赛领域的杰出贡献 |
+| ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502) | 对 osu!(lazer) 开发的杰出贡献 |
+| ::{ flag=HR }:: [Susuko3](https://osu.ppy.sh/users/18945305) | 对 osu!(lazer) 和 osu!framework 开发的杰出贡献 |
+| ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455) | 对 osu! 表现分（PP）开发和维护的杰出贡献 |
+| ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549) | 对 osu! 表现分（PP）开发的杰出贡献 |
+| ::{ flag=AU }:: [MBmasher](https://osu.ppy.sh/users/4498616) | 对 osu! 表现分（PP）开发和振兴 Flashlight mod的杰出贡献 |
+| ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | 对 osu!wiki 计划的杰出贡献 |
+| ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) | 对 osu!wiki 计划的杰出贡献 |
+| ::{ flag=NZ }:: [Technocoder](https://osu.ppy.sh/users/10338558) | 对 macOS 技术支持的杰出贡献 |
+| ::{ flag=LT }:: [huu](https://osu.ppy.sh/users/6044237) | 对 Project loved 管理和组织的杰出贡献 |
+| ::{ flag=NL }:: [OliBomby](https://osu.ppy.sh/users/6573093) | 对通过开发实用程序对 osu! 作图领域的杰出贡献 |
+| ::{ flag=TR }:: [frukoyurdakul](https://osu.ppy.sh/users/7612550) | 对通过开发实用程序对 osu!taiko 作图领域的杰出贡献 |
+| ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | 对 osu! 锦标赛领域和世界杯的杰出贡献 |
+| ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | 对 osu! 锦标赛领域和世界杯的杰出贡献 |
+| ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815) | 对 osu! 现实活动和锦标赛领域的杰出贡献 |

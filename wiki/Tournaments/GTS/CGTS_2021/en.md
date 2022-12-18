@@ -896,7 +896,7 @@ This competition has come to an end and resulted in the following podium:
   2. [Kabocha - EmbryO (Eyenine) \[Egg\]](https://osu.ppy.sh/beatmapsets/1280143#taiko/2659224)
   3. [xi - Death Piano (Dark Espeon) \[Void Oni\]](https://osu.ppy.sh/beatmapsets/863856#taiko/1809505)
 - Tiebreaker
-  1. **[Sincroide - :::\_!\_::: (vrnl) \[Endgame\]](https://osu.ppy.sh/beatmapsets/776437#taiko/1631380)**
+  1. **[Sincroide - \:\:\:\_!\_\:\:\: (vrnl) \[Endgame\]](https://osu.ppy.sh/beatmapsets/776437#taiko/1631380)**
 
 ##### Finals
 

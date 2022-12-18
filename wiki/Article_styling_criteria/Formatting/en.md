@@ -667,6 +667,8 @@ There are two types of image links: inline and reference. Examples:
 
 Images should use the inline linking style. Reference link definitions must be placed at the bottom of the article.
 
+All block images on the page (that have nothing else on the same line) are combined into a single gallery, which can be navigated using arrow icons on both sides of the screen, keyboard shortcuts, or screen swipes on mobile devices<!-- https://github.com/ppy/osu-web/pull/8126 -->.
+
 ### Alternative and title text
 
 The text in the first pair of square brackets (*alternative text*) should describe the image literally. It is used by screen readers or when the image fails to load. It can be omitted if it is identical to the title text or if the image is included only for decorative purposes.
@@ -677,9 +679,9 @@ The text in the quotation marks (*title text*) should give additional context to
 
 If an image is the sole content of a paragraph, it displays as a centred block. Otherwise, it flows with the surrounding inline text.
 
-Block images with title text display the title text as a caption below the image.
+Block images with title text display the title text as a caption below the image. Avoid adding [HTML comment](#comments) or any other text on the same line as the image, as this will cause the caption not to be rendered.
 
-Block images are commonly paired with infobox<!-- TODO: link me! --> formatting to reduce their initial size and float them to the side of other content:
+Block images are commonly paired with [infobox](#infoboxes) formatting to reduce their initial size and float them to the side of other content:
 
 ```markdown
 ::: Infobox
@@ -797,6 +799,29 @@ The following is an example of what a table should look like:
 | Maria | No Contest | Mocha |  |
 ```
 
+## Infoboxes
+
+An infobox is a fixed-width block which is aligned to the right side of the article. It may contain a relevant image, which explains the surrounding text, or a block of navigation that links to other articles from the same category.
+
+Example use, rendered on the right:
+
+<!-- The real infobox is added for illustrative purposes, with Markdown syntax duplicated below for clarity. -->
+
+::: Infobox
+![](/wiki/shared/mods/SD.png "Sudden Death mod icon")
+:::
+
+```markdown
+::: Infobox
+![](/wiki/shared/mods/SD.png "Sudden Death mod icon")
+:::
+```
+
+Infoboxes should be used with caution in the following cases:
+
+- Short sections: the next section's heading appears below any infoboxes, leaving a large gap after the text.
+- Several images at once: instead, use individual infoboxes for better design.
+
 ## Footnotes
 
 Footnotes are short notes located at the end of the page. They are used for citing sources, or providing background information that would otherwise disrupt the flow of the article. Footnotes may contain text formatting and links.
@@ -823,15 +848,19 @@ The osu! wiki is a project that was meant to replace the old FAQ system.[^wiki-f
 
 Citations, or references, are used to identify a source of information. Citations via footnotes should be preferred over inline links.
 
-Example:
+References should whenever applicable specify author, date, service/platform, and title. The exact format may vary depending on the referenced material with a preference for brevity.
+
+Examples:
 
 ```markdown
-The first version of the osu!api was made available on July 2, 2013.[^api-first-usage] It had received critical acclaim from users.[^api-praise]
+The first version of the osu!api was made available on July 2, 2013.[^api-first-usage] It had received critical acclaim from users.[^api-praise] A new version of API, released several years later, contains many more capabilities.[^api-v2-2020] Endpoint versioning is common among web APIs.[^web-api]
 
 ## References
 
-[^api-first-usage]: [osu!api open beta](https://osu.ppy.sh/community/forums/posts/2403913)
-[^api-praise]: [osu!api open beta](https://osu.ppy.sh/community/forums/posts/2662247)
+[^api-first-usage]: [Forum thread by peppy (2013-07-02) "osu!api open beta"](https://osu.ppy.sh/community/forums/posts/2403913)
+[^api-praise]: [Forum post by Menchi (2013-11-02) in "osu!api open beta"](https://osu.ppy.sh/community/forums/posts/2662247)
+[^api-v2-2020]: [Tweet by @ppy (2020-03-20)](https://twitter.com/ppy/status/1263083636363948032)
+[^web-api]: ["Web API" on Wikipedia](https://en.wikipedia.org/wiki/Web_API)
 ```
 
 ### Notes

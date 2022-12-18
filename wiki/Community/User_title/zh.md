@@ -16,7 +16,7 @@ outdated_translation: true
 
 # 用户头衔
 
-![Tom94的个人信息](img/dev.png "在Tom94的主页上方可以看到\"osu!dev\" 头衔")
+![Ephemeral的个人信息](img/dev.png?1 "在Ephemeral的主页上方可以看到\"osu!team\" 头衔")
 
 **用户头衔**通常是一个位于用户主页的小标签，该标签由 [osu!team](/wiki/People/The_Team) 设置。大多数头衔都代表了一个[用户组](/wiki/People/The_Team#用户组)的成员身份。除此之外，还有一些[特殊头衔](/wiki/People/Users_with_unique_titles)，能获得这些头衔的用户都有着杰出的贡献或成就。
 

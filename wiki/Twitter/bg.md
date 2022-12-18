@@ -1,7 +1,3 @@
----
-no_native_review: true
----
-
 # Twitter
 
 osu! има няколко Twitter акаунта, всеки обслужващ различна цел. Повечето са с доста ниска активност, но ще помогнат да сте в течение със света на osu!.
@@ -20,9 +16,10 @@ osu! има няколко Twitter акаунта, всеки обслужващ
 | ![osu! avatar](img/osugame.jpg) | [@osugame](https://twitter.com/osugame) | Официален източник за новини и изявления. |
 | ![BanchoBoat avatar](img/banchoboat.jpg) | [@banchoboat](https://twitter.com/banchoboat) | Комедийно разпускане когато нещата се объркат. |
 | ![NAT avatar](img/osu_nat.png) | [@osu_nat](https://twitter.com/osu_nat) | Новини, уведомления и кратки обществени анкети от [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) (не се управлява от [osu! екип](/wiki/People/The_Team)). |
+| ![pp committee avatar](img/ppcommittee.png) | [@pp_committee](https://twitter.com/pp_committee) | Известия относно преизчисление на резултатите за всички видове игра, управлява се от [комитета по точки за представяне](/wiki/People/Performance_Points_Committee). |
 
 ## Личен
 
 | Аватар | Връзка | Описание |
 | :-: | :-: | :-- |
-| ![Dean Herbert avatar](img/ppy.jpg) | [@ppy](https://twitter.com/ppy) | Личен Twitter акаунт на [osu! създателя](/wiki/People/peppy), той не е насочен конкретно към osu!, но все пак обхваща голяма част от нещата. |
+| ![Dean Herbert avatar](img/ppy.jpg?2) | [@ppy](https://twitter.com/ppy) | Личен Twitter акаунт на [osu! създателя](/wiki/People/peppy), той не е насочен конкретно към osu!, но все пак обхваща голяма част от нещата. |

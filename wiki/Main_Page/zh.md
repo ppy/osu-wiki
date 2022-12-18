@@ -1,7 +1,5 @@
 ---
 layout: main_page
-outdated_since: 1834ccd496bf810403e12761b11dbf6ed360f82e
-outdated_translation: true
 ---
 
 <div class="wiki-main-page__blurb">
@@ -52,7 +50,7 @@ osu! 的谱面都是充满活力的社区内玩家们的智慧结晶，想与大
 
 组件：[AiMod](/wiki/Client/Beatmap_editor/AiMod) • [节拍细分](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) • [间距锁定 (DS)](/wiki/Client/Beatmap_editor/Distance_snap) • [编辑器菜单](/wiki/Client/Beatmap_editor/Menu) • [故事板负载](/wiki/Client/Beatmap_editor/SB_Load) • [编辑器时间轴](/wiki/Client/Beatmap_editor/Timelines)
 
-活动：[作图](/wiki/Beatmapping) • [排列](/wiki/Mapping_techniques) • [故事板](/wiki/Storyboard#storyboarding) • [皮肤](/wiki/Skinning)
+活动：[作图](/wiki/Beatmapping) • [排列](/wiki/Mapping_techniques) • [故事板](/wiki/Storyboard) • [皮肤](/wiki/Skinning)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -61,9 +59,9 @@ osu! 的谱面都是充满活力的社区内玩家们的智慧结晶，想与大
 
 谱面上架 (Ranking) 指的是让谱面获得排行榜功能，从而为众人所知的过程。下面的文章将指导你如何通过谱面审核流程，并介绍谱面质量控制与谱面上架的全过程。
 
-[提交](/wiki/Submission) • [摸图](/wiki/Modding) • [上架流程](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
+[提交谱面](/wiki/Submission) • [摸图](/wiki/Modding) • [谱面上架流程](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
 
-[Ranking 准则](/wiki/Ranking_Criteria)：[osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania)
+[谱面上架标准 (RC)](/wiki/Ranking_Criteria)：[osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -74,7 +72,7 @@ osu! 的谱面都是充满活力的社区内玩家们的智慧结晶，想与大
 
 [规章制度](/wiki/Rules) • [贡献者公约](/wiki/Contributor_Code_of_Conduct) • [行为准则：摸图和作图](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)
 
-媒体内容规范：[内容使用规范](/wiki/Rules/Content_Usage_Guidelines) • [少儿不宜内容](/wiki/Rules/Explicit_Content) • [歌曲内容规范](/wiki/Rules/Song_Content_Rules) • [视觉内容注意事项](/wiki/Rules/Visual_Content_Considerations)
+媒体内容规范：[内容使用规范](/wiki/Rules/Content_Usage_Guidelines) • [内容投票流程](/wiki/Rules/Content_Voting_Process) • [少儿不宜内容](/wiki/Rules/Explicit_Content) • [歌曲内容规范](/wiki/Rules/Song_Content_Rules) • [视觉内容注意事项](/wiki/Rules/Visual_Content_Considerations)
 
 [法律页面](/wiki/Legal): [服务条款](/wiki/Legal/Terms) • [隐私政策](/wiki/Legal/Privacy) • [版权政策 (DMCA)](/wiki/Legal/Copyright) • [歌曲许可](/wiki/Legal/Music_licensing)
 
@@ -98,9 +96,10 @@ osu! 的谱面都是充满活力的社区内玩家们的智慧结晶，想与大
 
 社交能把世界各地的 osu! 玩家连结起来。了解这些活动与竞赛，结识新朋友，或帮忙组织一个更好的活动！
 
+讨论区: [论坛](/wiki/Community/Forum) • [闲聊](/wiki/Community/Internet_Relay_Chat)
 [锦标赛](/wiki/Tournaments) • [聚光灯](/wiki/Beatmap_Spotlights) • [竞赛](/wiki/Contests) • [社区导师计划](/wiki/Community/Community_Mentorship_Program)
 
-[社区项目](/wiki/Community/Projects)：[精选艺术家](/wiki/Featured_Artists) • [osu! 社区会议](/wiki/Community/osu!_community_meetings) • [osu! 学院](/wiki/Community/Video_series/osu!academy) • [osu! 作图教程](/wiki/Community/Video_series/osu!mapping) • [osu! 讨论](/wiki/Community/Video_series/osu!talk)
+[社区项目](/wiki/Community/Projects) • [精选艺术家](/wiki/Featured_Artists) • [喜爱计划](/wiki/Community/Project_Loved) • [osu! 社区会议](/wiki/Community/osu!_community_meetings) • [osu! 学院](/wiki/Community/Video_series/osu!academy) • [osu! 作图教程](/wiki/Community/Video_series/osu!mapping) • [osu! 讨论](/wiki/Community/Video_series/osu!talk)
 
 组织：[osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
@@ -131,7 +130,7 @@ osu! 的谱面都是充满活力的社区内玩家们的智慧结晶，想与大
 
 就和这个页面一样，osu! wiki 的一切都由志愿者编写并维护。提交建议、报告问题、撰写新文章均在 [osu-wiki 的 GitHub 仓库](https://github.com/ppy/osu-wiki)进行。
 
-[osu! 的历史](/wiki/History_of_osu!) • [osu! wiki 的历史](/wiki/History_of_osu!/osu!_wiki) • [作图与摸图的发展历程](/wiki/Mapping_and_Modding_Timeline) • [愚人节玩笑](/wiki/History_of_osu!/April_Fools)
+[osu! 的历史](/wiki/History_of_osu!) • [osu! wiki 的历史](/wiki/History_of_osu!/osu!_wiki) • [作图与摸图的发展历程](/wiki/History_of_osu!/Mapping_and_Modding_Timeline) • [愚人节玩笑](/wiki/History_of_osu!/April_Fools)
 
 [网站导航](/wiki/Sitemap) • [wiki 贡献指南](/wiki/osu!_wiki/Contribution_guide) • [文章风格规范](/wiki/Article_styling_criteria) • [新闻风格规范](/wiki/News_styling_criteria)
 

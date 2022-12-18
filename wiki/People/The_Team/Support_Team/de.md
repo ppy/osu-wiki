@@ -17,7 +17,7 @@ Wenn jemand Hilfe im Forum brauchen sollte, sind sie die erste Anlaufstelle für
 
 Die [Gruppenseite für das Support-Team](https://osu.ppy.sh/groups/22) listet alle Mitglieder des Teams auf.
 
-*Tipp: Alle Mitglieder im Support-Team können Englisch zusätzlich zu den unten notierten Sprachen, sofern nicht anders vermerkt.*
+*Anmerkung: Alle Mitglieder im Support-Team können Englisch zusätzlich zu den unten notierten Sprachen, sofern nicht anders vermerkt.*
 
 | Name | Zusätzlich gesprochene Sprachen |
 | :-- | :-- |

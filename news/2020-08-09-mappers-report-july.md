@@ -171,7 +171,7 @@ The mapping phase of the Big Fans mapping contest just ended on the 25th and the
 
 Are there any other mapping contests going on, or being announced soon? Please let us know! We would love to give it more attention to the public. Doesn't matter if it's mode or language specific. Head over to the [forum post](https://osu.ppy.sh/community/forums/topics/1027590) where you can find the submission form!
 
-<a id="conclusion"></a>
+{#conclusion}
 
 ---
 
