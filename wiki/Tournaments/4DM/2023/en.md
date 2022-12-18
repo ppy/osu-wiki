@@ -31,9 +31,9 @@ The **4 Digit osu!mania World Cup 2023** (***4DM2023***) is a worldwide double-e
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, exclusive banner, 48% of total prize pool |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Exclusive banner, 36% of total prize pool |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Exclusive banner, 18% of total prize pool |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, exclusive banner, 48% of the total prize pool |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Exclusive banner, 36% of the total prize pool |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Exclusive banner, 18% of the total prize pool |
 | *4th place* | 1 month of osu!supporter |
 | *5th place* | 1 month of osu!supporter |
 | *6th place* | 1 month of osu!supporter |
@@ -81,35 +81,35 @@ The 4 Digit osu!mania World Cup 2023 is run by various community members.
 
 ### Registration
 
-1. In order to be eligible for this tournament:
-   1. Player must be within the osu!mania 4-key rank range of #1,000 and #9,999 both when they submit their registration form and until the end of the registration phase.
-   2. Player must not have violated the osu! community rules in the past 12 months.
-   3. Player must not exceed the global osu!mania rank of #250.
-   4. Player must not have been a part of a former winning 4 Digit MWC Team.
-   5. Player must not appear on the [Skillbans list](https://docs.google.com/spreadsheets/d/1udZFfvt3it7Hk_k4J89k-UMzY1gfELaBN_oxw53CUOA/edit#gid=757705500). (There may be possibility to appeal their placement on this list. More information on this is given in the [screening phase](#screening-phase) section)
+1. In order to be eligible for this tournament, players must...
+   1. ...be within the osu!mania 4-key rank range of #1,000 and #9,999 both when they submit their registration form and until the end of the registration phase.
+   2. ...not have violated the osu! community rules in the past 12 months.
+   3. ...not exceed the global osu!mania rank of #250.
+   4. ...not have been part of a former winning 4 Digit MWC Team.
+   5. ...not appear on the [skillbans list](https://docs.google.com/spreadsheets/d/1udZFfvt3it7Hk_k4J89k-UMzY1gfELaBN_oxw53CUOA/edit#gid=757705500). (There may be a possibility to appeal one's placement on this list. More information on this is given in the [screening phase](#screening-phase) section.)
 2. To register for this tournament:
-   1. Submit the [player registration form](https://forms.gle/hhTmPVZjvbuDx7QSA)
-   2. Join the [4DM Discord server](https://discord.gg/W2MQ647) (Failure to join may result in disqualification)
+   1. Submit the [player registration form](https://forms.gle/hhTmPVZjvbuDx7QSA).
+   2. Join the [4DM Discord server](https://discord.gg/W2MQ647). (Failure to join may result in disqualification.)
 
 ### Screening phase
 
-1. As player will read in the [prizes](#prizes) section, 4DM2023 plans to award the players on top 3 finishing teams with a **unique profile badge**. In order to make this happen, this tournament must meet the requirement of sending osu! staff a list of every player who signs up for this tournament in order for them to be screened for past or current violations of the osu! community rules. If players would like to read more about the screening process and profile badges, it is available through the following [article](/wiki/osu!tourney/Prizes#profile-badges). If in this screening, osu! staff finds that player have violated the osu! community rules in the past 12 months, then we as host sadly will have to deny their registration as eligible to participate in 4DM2023. All players found in violation after the screening will be given time to appeal their stance, and if osu! staff changes their mind on a player's eligibility and notifies a host of this, then they will still be eligible for participation in 4DM2023!
-2. Furthermore, there will be a **skill-based restriction system** developed and maintained by ::{ flag=TH }:: [HowToPlayLN](https://osu.ppy.sh/users/10879600), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), and ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061) in order to keep 4DM2023 fair to all players and as free of malicious sandbagging as possible. To read more about the general scope of this system, please visit the following [article](https://4digitmwc.github.io/skillban-articles/). To see who has been shown to be too skilled for the tournament by this system, visit the [Skillbans list](https://docs.google.com/spreadsheets/d/1udZFfvt3it7Hk_k4J89k-UMzY1gfELaBN_oxw53CUOA/edit#gid=757705500).
-3. This list of players shown on the sheet is subject to change until it is announced that the list of signed and barred players has been sent to osu! staff for review. Any player appearing on this list may not sign up for 4DM2023, however there will be an appeal system. If a player is shown as **true** on both the ranked and tournament columns on the above spreadsheet, that player may not appeal their restriction to sign. However if they are only **true** for one or the other, they may message `log.#7606` via Discord with a request to appeal their restriction and a council of tournament staff will deliberate and decide if they should be banned or not. If they have any further questions, please state them in the 4DM's `#questions` text channel in the Discord server.
+1. The planned *unique profile badge* prize depends on 4DM2023's eligibility for [official tournament support](https://osu.ppy.sh/wiki/en/Tournaments/Official_support). Players will be [screened](https://osu.ppy.sh/wiki/en/Tournaments/Official_support#tournament-screening) by osu! staff and players found to be ineligible for tournament play will be denied entry. Consult [accounts@ppy.sh](mailto:accounts@ppy.sh) for appeals; if a failed screening result is retracted and notified of to a host, the player will still be eligible for participation in the tournament.
+2. A [skill-based restriction system](https://4digitmwc.github.io/skillban-articles) developed and maintained by ::{ flag=TH }:: [HowToPlayLN](https://osu.ppy.sh/users/10879600), ::{ flag=FR }:: [Paturages](https://osu.ppy.sh/users/1375479), and ::{ flag=SG }:: [Polytetral](https://osu.ppy.sh/users/8612061) will be in effect in order to keep 4DM2023 fair to all players and as free of malicious sandbagging as possible. To see who has been shown to be too skilled for the tournament by this system, see the [skillbans list](https://docs.google.com/spreadsheets/d/1udZFfvt3it7Hk_k4J89k-UMzY1gfELaBN_oxw53CUOA/edit#gid=757705500).
+  - This list of players shown on the sheet is subject to change until it has been sent to osu! staff for review. Any player appearing on this list may not sign up for 4DM2023, but there will be an appeal system. Players shown as **true** on both the ranked and tournament columns may not appeal their restriction to sign. However if they are only **true** for one or the other, they may message log.\#7606 via Discord with a request to appeal their restriction, which will be reviewed by tournament staff. For questions, refer to 4DM's `#questions` channel in the Discord server.
 
 ### Teams
 
-1. Just like the official osu!mania World Cups, 4DM2023 will be a country based team tournament.
-   - The country whose team they will play for is determined by the country whose flag is represented on their osu! profile.
-   - At the end of the registration and screening phases, a team captain will be picked by the hosts from each country's signup list based on a number of aspects relating to tournament competency.
-   - This team captain will pick the members to play alongside them on their country's team. The deadline for captains to submit their countries' teams are by January 5th at 23:59 UTC.
+1. Just like the official osu!mania World Cups, 4DM2023 will be a country-based team tournament.
+   - The country flag displayed on the osu! profile determines which country a player may play for.
+   - At the end of the registration and screening phases, a team captain will be picked by the hosts from each country's signup list based on tournament competency.
+   - This team captain will pick the members to play alongside them on their country's team. The deadline for captains to submit their countries' teams is by January 5th at 23:59 UTC.
    - Teams will consist of a minimum of 3 members, and a maximum of 6 members per team.
 
 ### Structure
 
-#### Qualifiers stage
+#### Qualifiers
 
-1. After teams are selected, the first weekend of tournament play will be the qualifiers stage in order to cut down to the top 32 teams that will advance into the Round of 32, as well as to rank said teams in approximate order of skill. There will be a total of eight different qualifier maps, each meant to test a different skillset found in map pools throughout the tournament. The qualifier maps will follow this structure:
+1. After teams are selected, the first weekend of tournament play will be the qualifier stage in order to cut down to the top 32 teams that will advance into the Round of 32, as well as to rank said teams in approximate order of skill. There will be a total of eight different qualifier maps **custom-made** by the map selection team, each meant to test a different skillset found in mappools throughout the tournament. These maps will be released approximately one week before the qualifiers, and follow the structure below:
    - Stage 1: Slider Velocity (SV)
    - Stage 2: Rice Accuraccy
    - Stage 3: Early Stage Hybrid
@@ -118,41 +118,42 @@ The 4 Digit osu!mania World Cup 2023 is run by various community members.
    - Stage 6: Late Stage Hybrid
    - Stage 7: Rice Stamina
    - Stage 8: Rice Technical
-   - Each of these maps will be custom made by the Map Selection Team and will not be released until approximately one week before the qualifiers stage takes place in order to provide no advantage through familiarity.
-2. For the qualifiers stage, each team will play these eight maps in a scheduled boy, going in Stage 1 - 8 order. Teams will present three players to play each map (switching which three play between maps is allowed), and will play each of the qualifier maps up to two times in the lobby. Whichever team score was the highest per stage will be recorded. (For example, if a team scores 975000, 975000, 980000 on one go and then 980000, 985000, 970000 on the next go, the 2nd go will be the one recorded because the total team score was higher on the second go.)
-3. Teams will be ranked based on the **score rating** of their qualifier performances, meaning that each teams performance on each of the eight qualifier maps will be ranked compared to every other team and the ranks that each team achieves on these maps will then be added up. The teams will then be sorted based on their score rating from lowest to highest, with lower score ratings being ranked better than higher score ratings. Essentially, a team's qualifier performance is ranked based on how well they perform comparted to every other participating team.
+2. For the qualifier stage, each team will play these eight maps in order. Teams will present three players to play each map (switching which three play between maps is allowed), and will play each of the qualifier maps up to two times in the lobby. Whichever team score was the highest per stage will be recorded. (For example, if a team scores 975,000, 975,000, 980,000 on one go and then 980,000, 985,000, 970,000 on the next go, the 2nd go will be the one recorded because the total team score was higher.)
+3. Teams will be ranked based on the **score rating** of their qualifier performances, meaning that each team's performances on the eight qualifier maps will be compared against every other team. The ranks achieved are then summed together to form the score rating, where lower is better. Essentially, a team's qualifier performance is ranked based on how well they perform compared to every other participating team.
 
 #### Bracket stage
 
-1. After the qualifiers stage, the remaining 32 teams will be placed into a double-elimination bracket in a predetermined order where Rank 1 faces Rank 32, Rank 2 faces Rank 31, etc. (This follows the formula where A and B are placed to face in RO32 if "Team A Rank" + "Team B Rank" = 33.)
-2. The number of points needed to win each match as well as the size of the mappool used for the match will vary depending on stage. Mappools will be released approximately one week prior to their respective stages. The details for it are as follows:
-   - **Round of 32**: Best-of-9, first to 5 points wins. Mappool consists of 12 FreeMod maps and 1 Tiebreaker map.
-   - **Round of 16**: Best-of-9, first to 5 points wins. Mappool consists of 12 FreeMod maps and 1 Tiebreaker map.
-   - **Quarterfinals**: Best-of-11, first to 6 points wins. Mappool consists of 14 FreeMod maps and 1 Tiebreaker map.
-   - **Semifinals**: Best-of-11, first to 6 points wins. Mappool consists of 14 FreeMod maps and 1 Tiebreaker map.
-   - **Finals**: Best-of-13, first to 7 points wins. Mappool consists of 16 FreeMod maps and 1 Tiebreaker map.
-   - **Grand Finals**: Best-of-13, first to 7 points wins. Mappool consists of 16 FreeMod maps and 1 Tiebreaker map.
+1. After the qualifier stage, the remaining 32 teams will be placed into a double-elimination bracket in a predetermined order where the rank 1 player faces rank 32, rank 2 faces rank 31, etc.
+2. Each stage has a different win condition and mappool size. Mappools will be released approximately one week prior to their respective stages. The details for it are as follows:
+| Stage | Format | Mappool size |
+| :-- | :-- | :-- |
+| Round of 32 | Best of 9 | 12 FM, 1 TB |
+| Round of 16 | Best of 9 | 12 FM, 1 TB |
+| Quarterfinals | Best of 11 | 14 FM, 1 TB |
+| Semifinals | Best of 11 | 14 FM, 1 TB |
+| Finals | Best of 13 | 16 FM, 1 TB |
+| Grand Finals | Best of 13 | 16 FM, 1 TB |
 
 ### Match procedures
 
-1. Team captains will be notified of their match via ping on Discord by the referee of their match 30 minutes before the match is scheduled to commence. At this time, team captains shall give the link of one map they wish to play as warmup to the referee of their match. This map must be an osu!mania 4-key map and must be no longer than **4:00**. Referees may refuse a team's warmup and demand another one from the team captain if the map doesn't meet these guidelines or is found to be offensive. Failure to provide a warmup to the referee at this time mayu result in this team skipping their warmup map.
-2. Team captains will be invited to their match lobby by a referee no less than **5:00** before the match is scheduled to commence. In the time before the match, team captains will invite and gather their teams into the lobby.
+1. Team captains will be notified of their match via ping on Discord by the referee of their match 30 minutes before the match is scheduled to commence. At this time, team captains shall give the link of one map they wish to play as warmup to the referee of their match. This map must be an osu!mania 4K map and must be no longer than **4:00**. Referees may refuse a team's warmup and demand another one from the team captain if the map does not meet these guidelines or is found to be offensive. Failure to provide a warmup to the referee at this time may result in the team skipping their warmup map.
+2. Team captains will be invited to their match lobby by a referee no less than **five minutes** before the match is scheduled to commence. In the time before the match, team captains will invite and gather their teams into the lobby.
 3. When both team members have 3 members present in the lobby, the match will commence by each team playing their selected warmup.
-4. After warmups, both team captains will do `!roll` command in the lobby chat. The captain who rolls the higher number is the "Roll Winner" and the captain who rolls the lower number is the "Roll Loser". This will decide the order of protects, bans, and picks as laid out below:
-   - Roll Winner will choose one map from the FreeMod pool to Protect from being banned.
-   - Roll Loser will choose one map from the FreeMod pool to Protect from being banned.
-   - Roll Loser will choose one map from the FreeMod pool to Ban.
-   - Roll Winner will choose one map from the FreeMod pool to Ban.
-   - Roll Winner will choose one map from the FreeMod pool to Pick.
+4. After warmups, both team captains will `!roll` for the highest roll in the lobby chat. This will decide the order of protects, bans, and picks as laid out below:
+   1. The roll **winner protects** one Free Mod map from being banned.
+   2. The roll **loser protects** one Free Mod map from being banned.
+   3. The roll **loser bans** one Free Mod map.
+   4. The roll **winner bans** one Free Mod map.
+   5. The roll **winner picks** one Free Mod map.
 5. Teams will have **two minutes** to pick a beatmap and **two minutes** to get ready.
 6. After each map concludes, the team with the highest team score on the map will be awarded one point. Picks will alternate between team captains until a winner is decided by being the first to get the required amount of points to win that round.
-7. If both teams tie at match points, the Tiebreaker map will be played, the team who wins the Tiebreaker map will win the match.
+7. If both teams tie at match point, the tiebreaker map will be played, which determines the winner of the match.
 8. Each team will receive one "tactical timeout" of **two minutes** to be used as extra time to pick a beatmap. The tactical timeout may only be used by the team who has to pick.
-9. If a Tiebreaker gets played, both teams may use their tactical timeout, but only one timeout can be given.
-10. Matches will be played with `TeamVS` mode on `Score V2`.
-11. The Red Team will occupy slots 1 - 3, and the Blue Team will occupy slots 4 - 6.
-12. Allowed mods in the FreeMod pool are NoFail, Hidden, FadeIn, Flashlight, and Mirror. The tiebreaker map is also played under FreeMod conditions.
-13. Teams have a maximum of 3 minutes after the conclusion of the previous map to pick another map from the freemod pool to play (and are expected to pick in 2 minutes or less). If a team takes longer than 3 minutes to do so, a random beatmap from the freemod pool will be picked for them by the match referee.
+9. If a tiebreaker gets played, both teams may use their tactical timeout, but only one timeout can be given.
+10. Matches will be played with `Team VS` mode on `ScoreV2`.
+11. The Red Team will occupy slots 1–3, and the Blue Team will occupy slots 4–6.
+12. Allowed mods in the Free Mod pool are No Fail, Hidden, Fade In, Flashlight, and Mirror. The tiebreaker map is also played under Free Mod conditions.
+13. Teams have a maximum of 3 minutes after the conclusion of the previous map to pick another map from the Free Mod pool to play (and are expected to pick in 2 minutes or less). If a team takes longer than 3 minutes, a random beatmap from the Free Mod pool will be picked for them by the match referee.
 14. If a player disconnects during a match, their score is counted as a failed score. However, if this disconnect happens before 30 seconds of the map is played, the referee can decide to let the teams rematch. If this rematch happens, the rosters on both teams must stay the same unless the disconnected player cannot return to the lobby, in which case both teams are allowed to switch rosters.
 15. Failed scores do not count toward a team's total score, however a score which fails and then revives will still count. (Use NoFail if you believe you are in jeopardy of failing a map!)
 16. If team scores are an exact tie at the conclusion of a map, the map will be replayed.
