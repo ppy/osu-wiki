@@ -63,7 +63,7 @@ Ce qui suit est une liste complète de l'**état actuel** de lazer par rapport �
 | Statistiques du profil | ![Oui][true] | ![Oui][true] |
 | Médailles | ![Oui][true] | ![Non][false] |
 | Points de performance | ![Oui][true] | ![Partiellement][partial][^score-reset-isolated] |
-| Chat en temps réel | ![ParPartiellementtial][partial][^stable-chat] | ![Oui][true] |
+| Chat en temps réel | ![Partiellement][partial][^stable-chat] | ![Oui][true] |
 | Wiki / News / Changelog / Classements | ![Non][false] | ![Oui][true][^online-content] |
 | Profils des utilisateurs | ![Non][false] | ![Oui][true] |
 | Liste de beatmaps | ![Partiellement][partial][^direct-supporter] | ![Oui][true] |
