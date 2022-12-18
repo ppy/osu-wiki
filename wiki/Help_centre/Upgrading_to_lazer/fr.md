@@ -10,7 +10,7 @@ osu!(lazer) est la prochaine mise à jour majeure du jeu. C'est l'aboutissement 
 
 L'objectif final est que cette version soit publiée comme une mise à jour qui remplacera complètement la version stable existante du jeu, mais il y a encore du travail à faire avant que cela ne soit réalisable. En fin de compte, **les joueurs** décideront du moment où cela se produira et nous continuerons à supporter la version précédente jusqu'à ce que tous les utilisateurs aient migré.
 
-"lazer " est un nom de code et sera éventuellement abandonné lorsqu'il deviendra la version principale du jeu. Dans le reste de ce document, osu!(lazer) sera appelé "lazer" et osu!(stable) sera appelé "stable" pour plus de simplicité.
+"lazer" est un nom de code et sera éventuellement abandonné lorsqu'il deviendra la version principale du jeu. Dans le reste de ce document, osu!(lazer) sera appelé "lazer" et osu!(stable) sera appelé "stable" pour plus de simplicité.
 
 ## Comparaison des fonctionnalités
 
