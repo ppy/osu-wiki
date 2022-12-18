@@ -20,76 +20,76 @@ Ce qui suit est une liste complète de l'**état actuel** de lazer par rapport �
 
 | Fonctionnalité | stable | lazer |
 | :-- | :-- | :-- |
-| Windows 8.0 et moins | ![Yes][true] | ![No][false] |
-| macOS / Linux | ![Partial][partial][^wine] | ![Yes][true] |
-| DirectX / Vulkan | ![Partial][partial][^compatibility-mode] | ![No][false][^coming-soon] |
-| Support mobile | ![No][false] | ![Yes][true] |
-| Architecture multithread | ![No][false] | ![Yes][true] |
-| Vidéo accélérée au niveau matériel | ![No][false] | ![Yes][true] |
-| Mise à l'échelle de l'IU | ![No][false] | ![Yes][true] |
-| Règles personnalisées (modes de jeu) | ![No][false] | ![Partial][partial][^dll] |
-| Stockage des fichiers déduits | ![No][false] | ![Yes][true][^share-files] |
-| Ajustement de la surface de la tablette | ![No][false] | ![Yes][true] |
+| Windows 8.0 et moins | ![Oui][true] | ![Non][false] |
+| macOS / Linux | ![Partiellement][partial][^wine] | ![Oui][true] |
+| DirectX / Vulkan | ![Partiellement][partial][^compatibility-mode] | ![Non][false][^coming-soon] |
+| Support mobile | ![Non][false] | ![Oui][true] |
+| Architecture multithread | ![Non][false] | ![Oui][true] |
+| Vidéo accélérée au niveau matériel | ![Non][false] | ![Oui][true] |
+| Mise à l'échelle de l'IU | ![Non][false] | ![Oui][true] |
+| Règles personnalisées (modes de jeu) | ![Non][false] | ![Partiellement][partial][^dll] |
+| Stockage des fichiers déduits | ![Non][false] | ![Oui][true][^share-files] |
+| Ajustement de la surface de la tablette | ![Non][false] | ![Oui][true] |
 
 ### UI et skinning
 
 | Fonctionnalité | stable | lazer |
 | :-- | :-- | :-- |
-| Support de skin | ![Yes][true] | ![Partial][partial][^gameplay-only] |
-| Modes de regroupement par musique | ![Yes][true] | ![No][false] |
-| Skin en jeu / Modification de la mise en page de l'IU | ![No][false] | ![Yes][true] |
+| Support de skin | ![Oui][true] | ![Partiellement][partial][^gameplay-only] |
+| Modes de regroupement par musique | ![Oui][true] | ![Non][false] |
+| Skin en jeu / Modification de la mise en page de l'IU | ![Non][false] | ![Oui][true] |
 
 ### Gameplay et skinning
 
 | Fonctionnalité | stable | lazer |
 | :-- | :-- | :-- |
-| Affichage précis des points de performance | ![Partial][partial][^online] | ![Yes][true] |
-| Mods prédéfinis | ![No][false] | ![Yes][true] |
-| Paramètres par mod | ![No][false] | ![Yes][true] |
-| Nouveaux mods "amusants" | ![No][false] | ![Yes][true] |
-| Normalisation des combo colors[^normalisation] | ![No][false] | ![Yes][true] |
-| Maintenir pour le HUD | ![No][false] | ![Yes][true][^hold-for-hud] |
-| Calibrage de l'offset | ![Partial][partial][^offset-calibration-stable] | ![Yes][true][^offset-calibration-lazer] |
-| Sliders "serpents" osu! en glissant | ![No][false] | ![Yes][true][^can-disable] |
-| "Note lock" osu! favorable aux joueurs | ![No][false] | ![Yes][true][^note-lock] |
-| Colorisation de notes en fonction du temps sur osu!mania | ![No][false] | ![Yes][true] |
+| Affichage précis des points de performance | ![Partiellement][partial][^online] | ![Oui][true] |
+| Mods prédéfinis | ![Non][false] | ![Oui][true] |
+| Paramètres par mod | ![Non][false] | ![Oui][true] |
+| Nouveaux mods "amusants" | ![Non][false] | ![Oui][true] |
+| Normalisation des combo colors[^normalisation] | ![Non][false] | ![Oui][true] |
+| Maintenir pour le HUD | ![Non][false] | ![Oui][true][^hold-for-hud] |
+| Calibrage de l'offset | ![Partiellement][partial][^offset-calibration-stable] | ![Oui][true][^offset-calibration-lazer] |
+| Sliders "serpents" osu! en glissant | ![Non][false] | ![Oui][true][^can-disable] |
+| "Note lock" osu! favorable aux joueurs | ![Non][false] | ![Oui][true][^note-lock] |
+| Colorisation de notes en fonction du temps sur osu!mania | ![Non][false] | ![Oui][true] |
 
 ### Systèmes en ligne
 
 | Fonctionnalité | stable | lazer |
 | :-- | :-- | :-- |
-| Soumission des scores | ![Yes][true] | ![Partial][partial][^score-reset-balance] |
-| Tableaux de classement de beatmap | ![Yes][true] | ![Partial][partial][^score-reset-isolated] |
-| Statistiques du profil | ![Yes][true] | ![Yes][true] |
-| Médailles | ![Yes][true] | ![No][false] |
-| Points de performance | ![Yes][true] | ![Partial][partial][^score-reset-isolated] |
-| Chat en temps réel | ![Partial][partial][^stable-chat] | ![Yes][true] |
-| Wiki / News / Changelog / Classements | ![No][false] | ![Yes][true][^online-content] |
-| Profils des utilisateurs | ![No][false] | ![Yes][true] |
-| Liste de beatmaps | ![Partial][partial][^direct-supporter] | ![Yes][true] |
-| Taille illimitée des salles multijoueurs | ![No][false][^multi-room-max] | ![Yes][true] |
-| Mode spectateur multijoueur | ![No][false] | ![Yes][true] |
-| Comptes à rebours | ![Partial][partial][^countdown-timers-stable] | ![Yes][true][^countdown-timers-lazer] |
-| File d'attente par modes | ![No][false] | ![Yes][true][^queue-modes] |
-| Commandes multijoueurs | ![Yes][true] | ![No][false] |
-| Tag co-op | ![Yes][true] | ![No][false] |
-| Listes de lecture (classements établis par les utilisateurs) | ![No][false] | ![Yes][true] |
-| Mise à jour des beatmaps avec les changements en ligne | ![Partial][partial][^map-only] | ![Yes][true][^all-files] |
+| Soumission des scores | ![Oui][true] | ![Partiellement][partial][^score-reset-balance] |
+| Tableaux de classement de beatmap | ![Oui][true] | ![Partiellement][partial][^score-reset-isolated] |
+| Statistiques du profil | ![Oui][true] | ![Oui][true] |
+| Médailles | ![Oui][true] | ![Non][false] |
+| Points de performance | ![Oui][true] | ![Partiellement][partial][^score-reset-isolated] |
+| Chat en temps réel | ![ParPartiellementtial][partial][^stable-chat] | ![Oui][true] |
+| Wiki / News / Changelog / Classements | ![Non][false] | ![Oui][true][^online-content] |
+| Profils des utilisateurs | ![Non][false] | ![Oui][true] |
+| Liste de beatmaps | ![Partiellement][partial][^direct-supporter] | ![Oui][true] |
+| Taille illimitée des salles multijoueurs | ![Non][false][^multi-room-max] | ![Oui][true] |
+| Mode spectateur multijoueur | ![Non][false] | ![Oui][true] |
+| Comptes à rebours | ![Partiellement][partial][^countdown-timers-stable] | ![Oui][true][^countdown-timers-lazer] |
+| File d'attente par modes | ![Non][false] | ![Oui][true][^queue-modes] |
+| Commandes multijoueurs | ![Oui][true] | ![Non][false] |
+| Tag co-op | ![Oui][true] | ![Non][false] |
+| Listes de lecture (classements établis par les utilisateurs) | ![Non][false] | ![Oui][true] |
+| Mise à jour des beatmaps avec les changements en ligne | ![Partiellement][partial][^map-only] | ![Oui][true][^all-files] |
 
 ### Éditeur
 
 | Fonctionnalité | stable | lazer |
 | :-- | :-- | :-- |
-| Éditeur osu!taiko | ![No][false] | ![Yes][true] |
-| Éditeur osu!catch | ![No][false] | ![Yes][true] |
-| Éditeur osu!mania | ![Yes][true] | ![Yes][true] |
-| Difficulté ouverte comme référence | ![Yes][true] | ![No][false] |
-| SV / volume par objet | ![No][false] | ![Yes][true] |
-| Rotation de pattern | ![Yes][true] | ![Partial][partial][^editor-precise-rotation] |
-| Redimensionnement de pattern | ![No][false] | ![Yes][true] |
-| Soumission de beatmap | ![Yes][true] | ![No][false] |
-| Éditeur de storyboard | ![Yes][true] | ![No][false] |
-| Cross-compatibility | ![Yes][true] | ![Partial][partial][^incompatibilities] |
+| Éditeur osu!taiko | ![Non][false] | ![Oui][true] |
+| Éditeur osu!catch | ![Non][false] | ![Oui][true] |
+| Éditeur osu!mania | ![Oui][true] | ![Oui][true] |
+| Difficulté ouverte comme référence | ![Oui][true] | ![Non][false] |
+| SV / volume par objet | ![Non][false] | ![Oui][true] |
+| Rotation de pattern | ![Oui][true] | ![Partiellement][partial][^editor-precise-rotation] |
+| Redimensionnement de pattern | ![Non][false] | ![Oui][true] |
+| Soumission de beatmap | ![Oui][true] | ![Non][false] |
+| Éditeur de storyboard | ![Oui][true] | ![Non][false] |
+| Cross-compatibility | ![Oui][true] | ![Partiellement][partial][^incompatibilities] |
 
 ## Changer pour lazer
 
