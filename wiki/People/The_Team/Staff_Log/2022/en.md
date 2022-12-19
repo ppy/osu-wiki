@@ -608,7 +608,7 @@ Abbreviations for user groups are used throughout this log:
 - 2022-12-11: Added [ckharv](https://osu.ppy.sh/users/9967026) to **Probationary BN**
 - 2022-12-13: Added [Feerum](https://osu.ppy.sh/users/4815717) to **Probationary BN**
 - 2022-12-14: Added [ArtZone](https://osu.ppy.sh/users/15548034) to **Probationary BN**
-- 2022-12-14: Added [Smoke](https://osu.ppy.sh/users/10726630) to **Probationary BN**
+- 2022-12-19: Added [Smoke](https://osu.ppy.sh/users/10726630) to **Probationary BN**
 
 #### Moves
 
