@@ -250,6 +250,7 @@ The [osu! Alumni group page](https://osu.ppy.sh/groups/16) lists all of the memb
 | ::{ flag=CN }:: [Zero__wind](https://osu.ppy.sh/users/1822830) | BAT, GMT |
 | ::{ flag=CA }:: [Zerostarry](https://osu.ppy.sh/users/3480) | BAT |
 | ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) | GMT |
+| ::{ flag=TR }:: [Zeus-](https://osu.ppy.sh/users/5464437) | GMT |
 | ::{ flag=SG }:: [ZHSteven](https://osu.ppy.sh/users/142413) | BAT |
 | ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) | NAT |
 | ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) | osu!academy Founder, GMT |
