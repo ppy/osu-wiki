@@ -1,74 +1,85 @@
-# Menangani Perbuatan Curang
+# Menangani kecurangan
 
-## Mengapa saya dibanned?
+## Mengapa saya di-restrict?
 
-- 10 silence pada akunmu.
-- Kamu memberikan akunmu pada orang lain.
-- Menggunakan banyak akun.
-- Berbuat curang (lihat di bawah).
+Seorang pengguna dapat di-*restrict* apabila mereka melakukan salah satu hal berikut:
 
-## Apa-apa saja yang termasuk berbuat curang?
+- Berperilaku buruk secara terus-menerus terlepas dari berapa banyak pelanggaran yang telah mereka buat.
+- Mengelak dari hukuman dengan membuat akun baru.
+- Membagikan akun mereka dengan pengguna lain.
+- Menggunakan lebih dari satu akun (*multi-accounting*).
+- Berbuat curang (lihat keterangan lebih lanjut di bawah).
 
-Seperti yang disebutkan di [Aturan-aturan_Klien](/wiki/Rules), berbagai bentuk manipulasi pada program; peretasan skor, penggunaan makro untuk kombo penuh (full-combo), dan bidik-otomatis termasuk sebagai berbuat curang.
+## Apa yang dimaksud dengan multi-accounting?
 
-Ini adalah sebuah peraturan tegas; Pelaku perbuatan curang akan **dibanned secara permanen.**
+Masing-masing pengguna hanya dapat memiliki **satu** akun. Pembuatan akun baru sangat dilarang. Para pengguna yang baru mulai melanggar akan dihukum dengan *silence* yang durasinya bergantung pada jumlah akun yang telah mereka buat. Para pengguna yang telah secara terus-menerus membuat akun baru tanpa mengindahkan peringatan yang telah mereka terima sebelumnya akan di-*restrict* secara langsung.
 
-## Saya telah dibanned karena berbuat curang. Saya tidak melakukannya!
+## Apa yang dimaksud dengan berbuat curang?
 
-**osu! menggunakan meteran otomat tertentu digabungkan dengan konfirmasi secara manual.**
+[Peraturan osu!](/wiki/Rules) menyatakan segala bentuk manipulasi klien seperti submisi skor ilegal, penggunaan makro, penggunaan program *auto-aim*, dan lain sebagainya sebagai bentuk perbuatan curang.
 
-Para staf tidak akan pernah menempatkan status banned yang salah untuk perbuatan curang. Mereka telah yakin 100% bahkan mereka mengecek 2 hingga 3 kali sebelum mereka mengambil tindakan apapun.
+Peraturan ini berlaku tanpa ada kompromi. Para pelanggar akan langsung di-*restrict* pada pelanggaran mereka yang pertama hingga jangka waktu yang tidak ditentukan. [Tim layanan dukungan](/wiki/People/The_Team/Account_support_team) kami dapat mencabut hukuman ini apabila mereka berhasil mengajukan banding yang diterima.
 
-## Teman saya telah dibanned karena berbuat curang! Mereka tidak mungkin berbuat seperti itu! Kamu salah!
+## Saya telah di-*restrict* karena dianggap berbuat curang, namun saya tidak melakukan kecurangan apapun!
 
-Ini mungkin sulit untuk kamu terima, tapi kamu harus percaya kepada staf. peppy (dan para staf) tidak mencoba untuk memutuskan kekerabatanmu tapi peppy (dan para staf) tahu bahwa **tidak seorang pun** yang dapat dipercaya. Bahkan mereka yang sangat dekat padamu; mereka yang mungkin tidak pernah kamu duga bahwa mereka hanya berakting di belakangmu atau orang lain.
+Dalam menjatuhkan hukuman, osu! menggunakan berbagai tolok ukur otomatis yang digabungkan dengan konfirmasi manual sebagai dasarnya. Apabila kamu tidak tahu mengapa kamu sampai di-*restrict*, hubungi [accounts@ppy.sh](mailto:accounts@ppy.sh).
 
-## Buktikan kalau memang saya/mereka telah berbuat curang! Beritahu kami bagaimana caramu mengetahuinya!
+## Buktikan bahwa saya/pengguna lain yang saya kenal telah berbuat curang! Beri tahu kami mengapa kalian sampai bisa tahu!
 
-Para staf tidak dapat berbicara tentang bagaimana cara mereka membuktikan kamu/mereka berbuat curang. Catatan: memberitahukan tolak ukur cheater dapat membuatnya kurang berguna ke depannya dalam mendeteksi para pelaku perbuatan curang.
+Tim layanan dukungan kami tidak akan pernah mengungkap "bukti" apapun terkait dengan status *restriction* seseorang. Meskipun demikian, seluruh hukuman yang dijatuhkan akan selalu berdasar pada indikasi yang kuat. Kasus di mana kami menjatuhkan hukuman kepada pemain yang tidak berbuat curang sangat jarang terjadi.
 
-## Saya akan membuat sebuah video untuk membuktikan bahwa saya tak bersalah!
+## Saya akan membuat video untuk membuktikan bahwa saya tidak bersalah!
 
-Maaf, tapi jika kamu telah dibanned, mereka telah 100% yakin bahwa kamu telah berbuat curang. Maka walaupun kamu membuat video, itu tidak akan membantu.
+Mohon maaf, namun apabila kamu di-*restrict*, maka tim layanan dukungan kami telah sepenuhnya yakin bahwa kamu berbuat curang. Rekaman video tidak dapat dijadikan bukti karena rawan untuk dimanipulasi.
 
-## Saya menemukan seseorang yang memang berbuat curang. (Saya bisa mengetahui berdasarkan tayangan ulang/skor mereka!) Apa yang harus saya perbuat?
+## Saya menemukan seseorang yang jelas-jelas berbuat curang dari skor/tayangan ulang mereka! Apa yang sebaiknya saya lakukan?
 
-1. Tetap tenang.
-2. **JANGAN membicarakannya di obrolan publik**. (atau kamu akan mendapatkan spam)
-3. Jangan memberikan mereka perhatian yang tidak layak mereka dapatkan atau mengajak orang lain untuk menonton mereka.
-4. [Klik tautan "Report" di bagian kanan skor mereka pada info beatmap (website)](https://puu.sh/jAwxU/ff27ba387e.png)
-5. Gunakan perintah !report di dalam permainan untuk mengirim pesan ke moderator
+Tetap tenang dan **jangan membicarakan permainan mereka pada kanal percakapan publik**. Jangan berikan mereka perhatian yang tidak diinginkan atau meminta orang lain untuk menyaksikan mereka.
+Kamu disarankan untuk langsung melaporkan pengguna tersebut tanpa menyebut nama mereka di manapun juga melalui salah satu jalur pelaporan berikut.
 
-`Contoh: !report <username> is suspected to be a cheater.`
+### Laman profil pengguna
 
-Catatan: *Penggunaan perintah !report harus menggunakan bahasa Inggris agar para moderator mengerti laporan yang kamu berikan*
+**Jalur ini merupakan jalur pelaporan yang paling utama untuk melaporkan kecurangan, karena jalur ini memberikan tim layanan dukungan kami informasi yang paling lengkap seputar kecurangan yang terjadi.**
 
-Bantuanmu dalam memberantas perbuatan curang sangat diapresiasi. Kamu juga dapat mengirim surel secara langsung ke [osu@ppy.sh](mailto:osu@ppy.sh) untuk respon yang cukup cepat.
+Pada laman profil pengguna yang bersangkutan, klik tombol titik tiga yang terdapat di samping tombol `Kirim pesan` dan pilih `Laporkan`. Pada kotak dialog yang muncul, tulis segala informasi yang dapat membuktikan kecurangan pemain tersebut.
 
-## Apakah menggunakan perangkat keras yang dispesialisasikan dihitung sebagai berbuat curang?
+*Jangan lupa untuk menentukan mode permainan sebelum melapor.*
 
-Barang yang dianggap tidak apa-apa:
+### Laman beatmap
 
-- Peralatan seperti tablet dan layar sentuh
+Jalur pelaporan ini juga disarankan untuk digunakan karena segala laporan yang masuk akan turut diterima oleh tim kami secara seksama.
 
-Barang yang dianggap dapat membuatmu dibanned:
+Pada laman beatmap yang bersangkutan, kamu dapat melaporkan pengguna yang mencurigakan pada papan peringkat dengan cara mengklik tombol `Laporkan Skor` yang terdapat pada sisi kanan skor mereka.
 
-- Apapun yang dapat mengurangi keterampilan yang dibutuhkan untuk bermain TIDAK diperbolehkan SAMA SEKALI.
-  - Menggunakan komputer lebih dari satu secara sekaligus.
-  - Pembagi masukan (input splitter).
-  - Perangkat keras apapun yang secara fisik menjalankan mouse/keyboard/tablet (tap otomatis, dll)
-  - Apapun yang dianggap sebagai sebuah no-no.
+### In-game chat
 
-Nyatanya, ini sulit untuk mengawasi kecuali kami berdiri tepat di sampingmu, tapi jika kamu telah dituduh, buatlah sebuah video (menggunakan sebuah kamera) permainanmu pada sebuah map mungkin dapat sedikit melegakan.
+Jalur pelaporan ini **tidak disarankan** karena jalur ini pada dasarnya lebih dikhususkan untuk berbagai hal yang terkait dengan percakapan.
 
-## Bagaimana cara saya mengajukan sebuah pelepasan status banned?
+Gunakan perintah `!report` pada kanal percakapan publik manapun untuk melapor kepada moderator. Para pemain lainnya tidak akan dapat melihat isi laporan Anda pada layar mereka masing-masing.
 
-1. Kirimkan surelmu ke [accounts@ppy.sh](mailto:accounts@ppy.sh) dengan judul Ban Appeal: \<username\>
-2. Sertakan nama penggunamu ke tiket dan nyatakan bahwa kamu berharap status bannedmu dicabut.
-3. Waktu tunggu hingga **lima** hari. Jika kamu membuat sebuah pengajuan dan ditolak, segala pengajuan ke depannya akan ditolak.
+```
+Format: !report <nama pengguna> <alasan>
+Contoh: !report pengguna_ini berbuat curang
+```
 
-Catatan: *Isi surel harus berbahasa Inggris.*
+Kami sangat menghargai upayamu dalam melaporkan kecurangan. Walaupun kami meninjau setiap laporan yang kami terima, hal ini tidak berarti seluruh laporan yang ada akan secara serta-merta ditindaklanjuti lebih lanjut. Kamu dapat mengirim email ke [osu@ppy.sh](mailto:osu@ppy.sh) apabila kamu membutuhkan balasan yang cepat.
 
-## Bagaimana cara saya menghindari dari silence atau banned?
+## Apakah menggunakan perangkat khusus dihitung sebagai perbuatan curang?
 
-Kamu cukup mengikuti peraturan yang tertulis di sini: [Rules](/wiki/Rules)
+Penggunaan perangkat seperti tablet dan layar sentuh tidak melanggar peraturan. Meskipun demikian, penggunaan perangkat yang dapat mengurangi keterampilan yang dibutuhkan untuk bermain (seperti *fidget spinner* pada tablet) atau menghilangkan efek mod tertentu tidak dibenarkan. Hal ini berarti penggunaan PC ganda, *input splitter*, dan lain sebagainya sangat dilarang.
+
+## Bagaimana caranya untuk mengajukan banding terhadap status restriction saya?
+
+Tunggu tiga bulan sejak tanggal *restriction* terakhirmu sebelum mengajukan banding. Setelahnya, kirim email ke alamat [accounts@ppy.sh](mailto:accounts@ppy.sh) dengan subjek `Restriction Appeal: <username>`.
+
+Tim layanan dukungan kami akan mengharapkan mereka yang telah melanggar untuk menyertakan rekam jejak pelanggaran yang telah mereka lakukan secara selengkap-lengkapnya beserta alasan mengapa mereka tidak akan lagi melanggar ke depannya.
+
+*Tim kami dapat memerlukan waktu untuk memproses banding yang kamu ajukan, namun tidak akan ada banding yang diabaikan.*
+
+## Apa yang dapat saya lakukan apabila saya telah melanggar peraturan?
+
+Apabila kamu telah melanggar peraturan dan ingin mengaku, harap hubungi [accounts@ppy.sh](mailto:accounts@ppy.sh) dan jelaskan segala kesalahan yang telah kamu perbuat. Kejujuranmu sangat dihargai dan kamu tidak akan dijatuhi hukuman yang bersifat permanen.
+
+## Bagaimana caranya agar saya tidak sampai di-silence atau di-restrict?
+
+Baca dan pahami [peraturan yang berlaku](/wiki/Rules) secara seksama.
