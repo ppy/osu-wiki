@@ -51,6 +51,7 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | ::{ flag=PH }:: [-Aqua](https://osu.ppy.sh/users/7150015) | ฟิลิปปินส์ |
 | ::{ flag=IT }:: [-Syncro](https://osu.ppy.sh/users/4338923) | อิตาลี |
 | ::{ flag=FI }:: [Aakki](https://osu.ppy.sh/users/11077540) | ฟินแลนด์ |
+| ::{ flag=GB }:: [Aistre](https://osu.ppy.sh/users/4879380) |  |
 | ::{ flag=KR }:: [Amamya](https://osu.ppy.sh/users/1997633) | เกาหลี |
 | ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599) | อิตาลี |
 | ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549) |  |
@@ -106,7 +107,6 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | ชื่อ | ภาษาเพิ่มเติม |
 | :-- | :-- |
 | ::{ flag=FI }:: [Antti](https://osu.ppy.sh/users/13281473) | ฟินแลนด์, สวีเดน บ้าง |
-| ::{ flag=AR }:: [Axer](https://osu.ppy.sh/users/7299864) | สเปน |
 | ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | จีน, กวางตุ้ง |
 | ::{ flag=TR }:: [Burak](https://osu.ppy.sh/users/13213075) | ตุรกี |
 | ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | จีน, กวางตุ้ง |
@@ -135,6 +135,7 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | ชื่อ | ภาษาเพิ่มเติม |
 | :-- | :-- |
 | ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114) | กวางตุ้ง |
+| ::{ flag=GB }:: [bigh](https://osu.ppy.sh/users/16352736) |  |
 | ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | จีน, กวางตุ้ง |
 | ::{ flag=NL }:: [GIGACHAD](https://osu.ppy.sh/users/11081858) | ดัตช์ |
 | ::{ flag=PL }:: [Mniam](https://osu.ppy.sh/users/6050530) | โปแลนด์ |
@@ -144,6 +145,7 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | ::{ flag=CA }:: [Ymiir](https://osu.ppy.sh/users/3922569) |  |
 | ::{ flag=BR }:: [zerokt](https://osu.ppy.sh/users/13776127) | โปรตุเกส |
 | ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) | สเปน |
+| ::{ flag=ZA }:: [Zuid-Afrikaan](https://osu.ppy.sh/users/29282944) | แอฟริกานส์, ดัตช์ |
 
 #### osu!mania
 
@@ -179,6 +181,7 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | สเปน |
 | ::{ flag=ID }:: [RiP46](https://osu.ppy.sh/users/5222596) | อินโดนีเซีย |
 | ::{ flag=ID }:: [Rivals_7](https://osu.ppy.sh/users/4610379) | อินโดนีเซีย |
+| ::{ flag=CN }:: [Seiran-](https://osu.ppy.sh/users/14351534) | จีน |
 | ::{ flag=CN }:: [Shima Rin](https://osu.ppy.sh/users/6089608) | จีน |
 | ::{ flag=ID }:: [Syadow-](https://osu.ppy.sh/users/3484485) | อินโดนีเซีย |
 | ::{ flag=ID }:: [Syrion-](https://osu.ppy.sh/users/15380643) | อินโดนีเซีย |
@@ -191,6 +194,10 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 
 | ชื่อ | ภาษาเพิ่มเติม |
 | :-- | :-- |
+| ::{ flag=GB }:: [ckharv](https://osu.ppy.sh/users/9967026) |  |
+| ::{ flag=AU }:: [fvrex](https://osu.ppy.sh/users/11863699) |  |
+| ::{ flag=US }:: [Hobbes2](https://osu.ppy.sh/users/8157492) |  |
+| ::{ flag=US }:: [Smoke](https://osu.ppy.sh/users/10726630) |  |
 | ::{ flag=BE }:: [Stack](https://osu.ppy.sh/users/6122935) | ดัตช์ |
 
 #### osu!taiko
@@ -200,6 +207,7 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | ::{ flag=BR }:: [-Flashlight-](https://osu.ppy.sh/users/9731062) | โปรตุเกส |
 | ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) | |
 | ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) | จีน |
+| ::{ flag=AR }:: [Axer](https://osu.ppy.sh/users/7299864) | สเปน |
 | ::{ flag=JP }:: [Eriha](https://osu.ppy.sh/users/16320311) | ญี่ปุ่น |
 | ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230) | จีน, กวางตุ้ง |
 | ::{ flag=GB }:: [Metzo](https://osu.ppy.sh/users/10633982) | |
@@ -209,18 +217,18 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 
 | ชื่อ | ภาษาเพิ่มเติม |
 | :-- | :-- |
-| ::{ flag=GB }:: [bigh](https://osu.ppy.sh/users/16352736) |  |
 | ::{ flag=NL }:: [Chatie](https://osu.ppy.sh/users/6524765) | ดัตช์ |
+| ::{ flag=CA }:: [fuhie](https://osu.ppy.sh/users/7620002) |  |
 | ::{ flag=FR }:: [Natsuko](https://osu.ppy.sh/users/8266817) | ฝรั่งเศส |
-| ::{ flag=ZA }:: [Zuid-Afrikaan](https://osu.ppy.sh/users/29282944) | แอฟริกานส์, ดัตช์ |
 
 #### osu!mania
 
 | ชื่อ | ภาษาเพิ่มเติม |
 | :-- | :-- |
+| ::{ flag=KR }:: [ArtZone](https://osu.ppy.sh/users/15548034) | เกาหลี |
+| ::{ flag=DE }:: [Feerum](https://osu.ppy.sh/users/4815717) | เยอรมัน |
 | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | อินโดนีเซีย |
 | ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/14351534) | จีน |
-| ::{ flag=CN }:: [Seiran-](https://osu.ppy.sh/users/14351534) | จีน |
 
 ## ประวัติ
 
