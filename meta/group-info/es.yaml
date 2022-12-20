@@ -1,16 +1,13 @@
-outdated_since: 0522bc4c323f9a2b0c89a6b9582109a0608c6287
-outdated_translation: true
-
 separator: ", "
 alumni:
   roles:
-    academy: fundador de osu!academy
+    academy: fundador de la osu!academy
     admin: administración
     chat: moderador del chat
     dev: osu!dev
     media: creador de osu!media
     support: equipo de soporte
-    tournaments: gestor de torneos
+    tournaments: gestión de torneos
 gmt:
   all_mods: todos los moderadores
   areas:
@@ -18,17 +15,15 @@ gmt:
     chat: moderación del chat
     forum: moderación del foro
     team: presencia oficial del equipo
-    dev: desarrollador de osu!
+    dev: desarrollo de osu!
     player: soporte al jugador
     support: soporte técnico
-    tournaments: gestor de torneos
+    tournaments: gestión de torneos
     wiki: administración de la wiki
     mapping: moderación de la comunidad de mapping/modding
 nat:
-  areas:
-    communication: comunicación
-    evaluation: evaluación
-    moderation: moderación
-    structural: estructural
+  subgroups:
+    advisor: asesor
+    evaluator: evaluador
 languages:
   partial: algo de <language>
