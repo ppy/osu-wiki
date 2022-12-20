@@ -195,7 +195,6 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 | 닉네임 | 추가 언어 |
 | :-- | :-- |
 | ::{ flag=GB }:: [ckharv](https://osu.ppy.sh/users/9967026) |  |
-| ::{ flag=AU }:: [fvrex](https://osu.ppy.sh/users/11863699) |  |
 | ::{ flag=US }:: [Hobbes2](https://osu.ppy.sh/users/8157492) |  |
 | ::{ flag=US }:: [Smoke](https://osu.ppy.sh/users/10726630) |  |
 | ::{ flag=BE }:: [Stack](https://osu.ppy.sh/users/6122935) | 네덜란드어 |
@@ -227,6 +226,7 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 | :-- | :-- |
 | ::{ flag=KR }:: [ArtZone](https://osu.ppy.sh/users/15548034) | 한국어 |
 | ::{ flag=DE }:: [Feerum](https://osu.ppy.sh/users/4815717) | 독일어 |
+| ::{ flag=AU }:: [fvrex](https://osu.ppy.sh/users/11863699) | |
 | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | 인도네시아어 |
 | ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/14351534) | 중국어 |
 

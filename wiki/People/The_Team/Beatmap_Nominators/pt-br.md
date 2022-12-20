@@ -227,6 +227,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | :-- | :-- |
 | ::{ flag=KR }:: [ArtZone](https://osu.ppy.sh/users/15548034) | Coreano |
 | ::{ flag=DE }:: [Feerum](https://osu.ppy.sh/users/4815717) | Alemão |
+| ::{ flag=AU }:: [fvrex](https://osu.ppy.sh/users/11863699) |  
 | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | Indonésio |
 | ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/14351534) | Chinês |
 
