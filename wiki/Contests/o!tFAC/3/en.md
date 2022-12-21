@@ -38,13 +38,13 @@ The osu!taiko Featured Artist Cup #3 is run by various community members.
 
 ## Prizes
 
-This contest features the re-introduction of [MBC Points](/wiki/Contests/Monthly_Beatmapping_Contest#rewards) as a reward present in future official contests in order to provide a more streamlined path to the *Elite Mapper* title. The title is attainable by reaching 6 points.
+This contest features the re-introduction of *MBC points*, in the form of [contest points](/wiki/Contests/Contest_points), as a reward present in future official contests in order to provide a more streamlined path to the *Elite Mapper* title. The title is attainable by reaching 6 points.
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter, Ranked status[^prizes-ranked], unique profile badge, 3 Contest Points |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter, Ranked status[^prizes-ranked], 2 Contest Points |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter, Ranked status[^prizes-ranked], 1 Contest Point |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter, Ranked status[^prizes-ranked], unique profile badge, 3 points |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter, Ranked status[^prizes-ranked], 2 points |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter, Ranked status[^prizes-ranked], 1 point |
 
 ![o!tfac #3 badge](img/badge.png "osu!taiko Featured Artist Cup #3 winning team")
 

@@ -21,4 +21,5 @@ Ein normaler Artikel, mit einem ähnlichen Titel, muss die Kopfnote ["Für ander
 - [Score](Score)
 - [Snapping](Snapping)
 - [Star](Star)
+- [Timing](Timing)
 - [Version](Version)

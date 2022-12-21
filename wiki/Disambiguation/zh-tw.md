@@ -25,4 +25,5 @@ no_native_review: true
 - [分數](Score)
 - [貼齊](Snapping)
 - [星等](Star)
+- [Timing](Timing)
 - [版本](Version)
