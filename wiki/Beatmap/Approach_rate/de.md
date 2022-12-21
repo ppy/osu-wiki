@@ -3,8 +3,7 @@ tags:
   - approach time
   - AR
   - reading
-outdated_translation: true
-outdated_since: d45afabf155d19c4b9d8bd0f7b68e73bc1f4af16
+no_native_review: true
 ---
 
 # Approach-Rate
@@ -14,6 +13,8 @@ outdated_since: d45afabf155d19c4b9d8bd0f7b68e73bc1f4af16
 **Approach-Rate** (auch **Annäherungsrate** oder ***AR*** genannt) ist eine [Beatmap](/wiki/Beatmap)-Schwierigkeitseinstellung, die bestimmt, wann [Hit-Objekte](/wiki/Hit_object) im Verhältnis zu dem Zeitpunkt, an dem sie getroffen oder eingesammelt werden sollten, erscheinen. Sie existiert nur in [osu!](/wiki/Game_mode/osu!) und [osu!catch](/wiki/Game_mode/osu!catch).
 
 AR-Werte reichen von 0 bis 10. Höhere ARs bedeuten, dass Hit-Objekte für eine kürzere Zeitspanne sichtbar sind, was bedeutet, dass Spieler weniger Zeit zum Reagieren haben. Andererseits erlauben niedrigere ARs mehr Reaktionszeit, können aber dazu führen, dass zu viele Hit-Objekte gleichzeitig auf dem Bildschirm erscheinen.
+
+In [osu!taiko](/wiki/Game_mode/osu!taiko) und [osu!mania](/wiki/Game_mode/osu!mania) hat die Einstellung der Approach-Rate keinen Effekt. Die Scroll-Geschwindigkeit wird in beiden Modi von der [Slider-Geschwindigkeit](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) gesteuert, die von den [BPM](/wiki/Music_theory/Tempo) und dem Slider-Geschwindigkeitsmultiplikator abhängt. Außerdem kann das in osu!mania [vom Spieler selbst](/wiki/Game_mode/osu!mania#speed-change) angepasst werden.
 
 ## Timing der Animationen
 
@@ -40,6 +41,10 @@ Wie lange es dauert, bis das Hit-Objekt vollständig eingeblendet wird, hängt a
 - AR = 5: `Zeitspanne zum Einblenden = 800 ms`
 - AR > 5: `Zeitspanne zum Einblenden = 800 ms - 500 ms * (AR - 5) / 5`
 
+### Tabellenvergleich
+
+![](/wiki/shared/ARTable.jpg "Vergleich der Zeitfenster im Bezug auf die Sichtbarkeit für verschiedene Kombinationen an AR und Spielmodifikationen")
+
 ## Mod-Effekte
 
 Es gibt vier Mods, die die AR beeinflussen, wenn sie aktiviert sind:
@@ -49,8 +54,4 @@ Es gibt vier Mods, die die AR beeinflussen, wenn sie aktiviert sind:
 - [Double Time](/wiki/Game_modifier/Double_Time): Die AR wird nicht beeinflusst, aber wegen der Geschwindigkeitserhöhung um 50 % bleiben Hit-Objekte 33 % weniger lange sichtbar.
 - [Half Time](/wiki/Game_modifier/Half_Time): Die AR ist nicht beeinflusst, aber wegen der Geschwindigkeitsreduzierung um 25 % bleiben Hit-Objekte für eine um 33 % längere Zeit sichtbar.
 
-Obwohl die Mods "Half Time" und "Double Time" keinen Einfluss auf die AR haben, bewirkt die Änderung der Geschwindigkeit einen scheinbaren Unterschied im AR-Wert. ARs mit HT/DT werden häufig gemäß ihrer wahrgenommenen Werte bezeichnet. Zum Beispiel darf "AR8+DT" auch als "AR9.6" geschrieben werden.
-
-## osu!taiko und osu!mania
-
-Die AR ist sichtbar, wenn Beatmap-Informationen von [osu!taiko](/wiki/Game_mode/osu!taiko) oder [osu!mania](/wiki/Game_mode/osu!mania) angezeigt werden, aber es hat keinen Einfluss auf das Gameplay. Die Scrollgeschwindigkeit (Bildlaufgeschwindigkeit) in jedem Spielmodus wird durch andere Faktoren bestimmt.
+Obwohl die Mods "Half Time" und "Double Time" keinen Einfluss auf die AR haben, bewirkt die Änderung der Geschwindigkeit einen scheinbaren Unterschied im AR-Wert. ARs mit HT/DT werden häufig gemäß ihrer wahrgenommenen Werte bezeichnet. Zum Beispiel darf "AR 8 + DT" auch als "AR 9.6" geschrieben werden.

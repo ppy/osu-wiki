@@ -1,4 +1,7 @@
 ---
+no_native_review: true
+outdated_translation: true
+outdated_since: e55d19c5048d09bf313e20ed37b9f1b84fbfe3e2
 tags:
   - osu! staff
   - osu!team
@@ -6,7 +9,6 @@ tags:
   - staff
   - team
   - team osu!
-no_native_review: true
 ---
 
 # El Equipo
@@ -66,7 +68,7 @@ Los siguientes son grupos de usuarios compuestos por miembros de la comunidad qu
 | ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | Desarrollador de osu!, integrador IRC del chat en el juego, mantenimiento del sitio. [Blog](http://blog.echo.sh/) |
 | ::{ flag=US }:: [HappyStick](https://osu.ppy.sh/users/256802) | Organizador de torneos, streamer de la Copa Mundial y anfitrión de la osu! Coffee Hour |
 | ::{ flag=NL }:: [Intermezzo](https://osu.ppy.sh/users/136842) | Desarrollador de osu!, proveedor de osz2 y p2p backend |
-| ::{ flag=US }:: Jim | Diseñador original del sitio, proveedor de alojamiento en la era temprana. [Brave New Games](http://www.bravegamer.com/) |
+| ::{ flag=US }:: [Datawalke](https://osu.ppy.sh/users/142) | Diseñador original del sitio, proveedor de alojamiento en la era temprana. [Brave New Games](http://www.bravegamer.com/) |
 | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | Administrador y organizador de la Copa Mundial |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Organizador y administrador de la Copa Mundial, líder de QAT, administrador comunitario |
 | ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | Diseñador de skins épicas, contribuciones a la skin predeterminada y al conjunto de íconos predeterminados. [DeviantArt](https://luigihann.deviantart.com/) |

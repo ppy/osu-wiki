@@ -33,6 +33,7 @@ Die folgenden Chatbefehle sind für die Fernverwaltung von Mehrspieler-Turnierr�
   - Ansagen des Timers erscheinen jede Minute, 30 s, 10 s, 5 s und vorher.
 - `!mp aborttimer` - Stoppt den aktuellen Timer (normale Timer und Timer für den Spielbeginn).
 - `!mp kick <username>` - Kickt den Spieler aus dem Raum.
+- `!mp ban <username>` - Verbannt den Spieler aus dem Raum.
 - `!mp password [<password>]` - Ändert das Passwort des Raums. Das Passwort wird entfernt, sofern `<password>` nicht eingegeben wird.
 - `!mp addref <username> [<username>] …` - Fügt einen Schiedsrichter zum Raum hinzu. Maximal können 8 Schiedsrichter hinzugefügt werden. Nur der Ersteller des Raums kann einen Schiedsrichter hinzufügen.
   - Schiedsrichter müssen dem Raum über das Spiel oder durch die Eingabe des Raums über `/join #mp_<room_id>` im IRC beitreten.

@@ -67,7 +67,7 @@ outdated_since: 1175fe79cab9897bca0e60ff7056c7a1a2510bfe
 | ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | osu! 开发团队 & 游戏内聊天的一体化 & 网页维护 & [博客](http://blog.echo.sh/) |
 | ::{ flag=US }:: [HappyStick](https://osu.ppy.sh/users/256802) | osu! Coffee Hour 组织者 & 世界杯直播员、组织者 |
 | ::{ flag=NL }:: [Intermezzo](https://osu.ppy.sh/users/136842) | osu! 开发团队 & osz2/p2p 后端 |
-| ::{ flag=US }:: Jim | 初代网页设计 & [Brave New Games](http://www.bravegamer.com/) |
+| ::{ flag=US }:: [Datawalke](https://osu.ppy.sh/users/142) | 初代网页设计 & [Brave New Games](http://www.bravegamer.com/) |
 | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | 世界杯的组织者和管理者 |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | 世界杯的组织和管理者 & QAT 领导者 & 社区管理 |
 | ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | 杰出皮肤设计者 & 为默认皮肤和图标的设计做出贡献 & [DeviantArt](https://luigihann.deviantart.com/) |
