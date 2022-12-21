@@ -1,15 +1,8 @@
 ---
 layout: main_page
+outdated_translation: true
+outdated_since: 1da34ad18aa8565e779e579594fa8c606ee00808
 ---
-
-<!-- Do not add any empty lines inside this div. -->
-
-<div class="wiki-main-page__blurb">
-Chào mừng đến với osu! wiki, cơ sở kiến thức mã nguồn mở chứa nhiều thông tin liên quan đến osu!, một trò chơi nhịp điệu miễn phí để giành chiến thắng.
-</div>
-
-<div class="wiki-main-page__panels">
-<div class="wiki-main-page-panel wiki-main-page-panel--full">
 
 # Bắt đầu
 

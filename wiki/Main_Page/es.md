@@ -1,16 +1,9 @@
 ---
 no_native_review: true
 layout: main_page
+outdated_translation: true
+outdated_since: 1da34ad18aa8565e779e579594fa8c606ee00808
 ---
-
-<!-- Do not add any empty lines inside this div. -->
-
-<div class="wiki-main-page__blurb">
-Bienvenido a la wiki de osu!, la base de conocimientos de código abierto que contiene una amplia variedad de información relacionada con osu!, un juego de ritmo gratuito.
-</div>
-
-<div class="wiki-main-page__panels">
-<div class="wiki-main-page-panel wiki-main-page-panel--full">
 
 # Para empezar
 
