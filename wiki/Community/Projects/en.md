@@ -237,8 +237,8 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
   - [GitHub](https://github.com/RoanH/osu-BonusPP)
 - haitai — Unlock requirements for osu! [medals](/wiki/Medals).
   - [Website](http://haitai.jp/)
-- [osekai](https://osu.ppy.sh/community/forums/topics/1427698) — A team dedicated to making websites for osu! such as medal unlock requirements or alternative ranking leaderboards.
-  - [Website](https://osekai.net/)
+- [Osekai](https://osu.ppy.sh/community/forums/topics/1427698) — An open-source project dedicated to making websites highly related to osu!, such as [medal unlock requirements](/wiki/Medals/Unlock_requirements) listing or alternative ranking leaderboards.
+  - [GitHub](https://github.com/Osekai/osekai) | [Website](https://osekai.net/)
 - [osu! level calculator](https://osu.ppy.sh/community/forums/topics/199230) — Calculates the needed score to achieve a certain level.
   - [GitHub](https://github.com/thehowl/OsuLevelCalculator) | [Website](https://olc.howl.moe/)
 - [osu! Stats Watcher](https://osu.ppy.sh/community/forums/topics/269483) — Write player stats into a file, which can then be displayed using Open Broadcaster Software.
