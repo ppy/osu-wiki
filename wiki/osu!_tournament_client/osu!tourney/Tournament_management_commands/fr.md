@@ -33,6 +33,7 @@ Les commandes de tchat suivantes sont fournies pour la gestion à distance des s
   - Les annonces de la minuterie se produisent toutes les minutes, 30s, 10s, 5s et plus tôt.
 - `!mp aborttimer` - Arrête le minuteur en cours (minuteur normal et minuteur de début de match).
 - `!mp kick <username>` - Expulse le joueur de la salle.
+- `!mp ban <username>` - Bannit le joueur de la salle.
 - `!mp password [<password>]` - Change le mot de passe de la salle. Le mot de passe sera supprimé si `<password>` n'est pas précisé.
 - `!mp addref <username> [<username>] …` - Ajoute un arbitre à la salle. Un maximum de 8 arbitres peut être ajouté. Seul le créateur de la salle peut ajouter un arbitre.
   - Les arbitres doivent rejoindre la salle en jeu, ou en entrant dans le canal de discussion de la salle via `/join #mp_<room_id>` en IRC.

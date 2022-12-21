@@ -21,4 +21,5 @@ A regular article, if it has a similar title, must use the ["For other uses" hat
 - [Score](Score)
 - [Snapping](Snapping)
 - [Star](Star)
+- [Timing](Timing)
 - [Version](Version)
