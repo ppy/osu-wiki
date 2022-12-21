@@ -30,7 +30,7 @@ Explore [the map that introduced **nyankobrq** to osu!](https://osu.ppy.sh/beatm
 
 ### nyankobrq - Snorkel
 
-Or check out [this brand new map](https://osu.ppy.sh/beatmapsets/1886230) hosted by [Ogura Yui](https://osu.ppy.sh/users/6644401)!
+Or check out [this brand-new map](https://osu.ppy.sh/beatmapsets/1886230) hosted by [Ogura Yui](https://osu.ppy.sh/users/6644401)!
 
 <audio controls>
     <source src="LINK" type="audio/mpeg">
