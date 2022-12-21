@@ -41,7 +41,7 @@ Contest points have been used in the following contests:
 | :-- | :-- |
 | ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) | 3 |
 | ::{ flag=FI }:: [Jaltzu](https://osu.ppy.sh/users/2597417) | 2 |
-| ::{ flag=TH }:: [KappuChinooo](https://osu.ppy.sh/users/9582525) | 2 |
+| ::{ flag=TH }:: [Kusuhara Yui](https://osu.ppy.sh/users/9582525) | 2 |
 | ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097) | 1 |
 | ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719) | 1 |
 
