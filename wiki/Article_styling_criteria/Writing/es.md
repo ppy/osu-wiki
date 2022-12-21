@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Escritura
 
 *Para los estándares de formato, véase: [Criterios de estilo del artículo/Formato](../Formatting)*\
