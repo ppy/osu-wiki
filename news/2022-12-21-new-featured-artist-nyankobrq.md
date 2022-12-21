@@ -25,7 +25,7 @@ Haven't heard **nyankobrq**'s music yet? Use your circle-clicking instincts and 
 Explore [the map that introduced **nyankobrq** to osu!](https://osu.ppy.sh/beatmapsets/1684705) hosted by [climbx3145](https://osu.ppy.sh/users/14014646)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/330/Songs/nyankobrq%20_%20yaca%20-%20twinkle%20night%20(feat.%20somunia).mp3" type="audio/mpeg">
 </audio>
 
 ### nyankobrq - Snorkel
@@ -33,13 +33,13 @@ Explore [the map that introduced **nyankobrq** to osu!](https://osu.ppy.sh/beatm
 Or check out [this brand-new map](https://osu.ppy.sh/beatmapsets/1886230) hosted by [Ogura Yui](https://osu.ppy.sh/users/6644401)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/330/Songs/nyankobrq%20-%20Snorkel.mp3" type="audio/mpeg">
 </audio>
 
 ### nyankobrq - Hammer
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/330/Songs/nyankobrq%20-%20Hammer.mp3" type="audio/mpeg">
 </audio>
 
 ---
