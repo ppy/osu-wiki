@@ -66,7 +66,7 @@ Die folgenden Benutzergruppen bestehen aus Mitgliedern der osu!-Community, die h
 | ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | osu!-Entwickler, Entwickler von IRC-Integration für In-Game-Chat, Wartung der Website. [Blog](http://blog.echo.sh/) |
 | ::{ flag=US }:: [HappyStick](https://osu.ppy.sh/users/256802) | osu! Coffee Hour Gastgeber, World Cup Streamer, Turnierorganisator |
 | ::{ flag=NL }:: [Intermezzo](https://osu.ppy.sh/users/136842) | osu! Entwickler, Entwickler von osz2 und p2p Backend |
-| ::{ flag=US }:: Jim | Ursprünglicher Website-Designer, Hosting-Provider in den Anfangstagen. [Brave New Games](http://www.bravegamer.com/) |
+| ::{ flag=US }:: [Datawalke](https://osu.ppy.sh/users/142) | Ursprünglicher Website-Designer, Hosting-Provider in den Anfangstagen. [Brave New Games](http://www.bravegamer.com/) |
 | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | Organisator und Administrator des World Cups |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Organisator und Administrator des World Cups, QAT-Leiter, Community-Manager |
 | ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | Epischer Skin-Designer, Mitwirkender am Default-Skin und Iconset. [DeviantArt](https://luigihann.deviantart.com/) |
