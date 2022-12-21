@@ -21,4 +21,5 @@
 - [Score](Score)
 - [Snapping](Snapping)
 - [Star](Star)
+- [Timing](Timing)
 - [バージョン](Version)

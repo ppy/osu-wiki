@@ -1,3 +1,8 @@
+---
+outdated_since: be8ba0f4615a5d5580a1452220ae0bdf2e4d4229
+outdated_translation: true
+---
+
 # Aturan konten musik
 
 Dengan banyaknya variasi musik yang tersedia, sebagian besar lagu akan baik-baik saja untuk digunakan di osu!, asalkan tidak:
