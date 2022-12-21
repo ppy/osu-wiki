@@ -33,6 +33,7 @@ The following chat commands are provided for remote management of multiplayer to
   - Timer announcements occur every minute, 30s, 10s, 5s and earlier.
 - `!mp aborttimer` - Stops the current timer (both normal timers and match start timer)
 - `!mp kick <username>` - Kicks the player from the room.
+- `!mp ban <username>` - Bans the player from the room.
 - `!mp password [<password>]` - Changes the password of the room. The password will be removed if `<password>` is not provided.
 - `!mp addref <username> [<username>] …` - Adds a referee to the room. A maximum of 8 referees may be added. Only the creator of the room can add a referee.
   - Referees must join the room in-game, or by entering the room's chat channel through `/join #mp_<room_id>` in IRC.

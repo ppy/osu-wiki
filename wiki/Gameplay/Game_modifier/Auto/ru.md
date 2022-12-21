@@ -12,6 +12,8 @@ tags:
   - модификатор
   - авто
   - автоплей
+outdated_translation: true
+outdated_since: b4b151efd01d5d964baf3e101672b4a41a24ec4b
 ---
 
 # Auto (мод)

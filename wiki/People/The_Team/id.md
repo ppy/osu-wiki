@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: e55d19c5048d09bf313e20ed37b9f1b84fbfe3e2
 tags:
   - osu! staff
   - osu!team
@@ -64,7 +66,7 @@ osu! memiliki berbagai kelompok pengguna (*user group*) yang tersusun atas para 
 | ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | Pengembang osu!, perancang sistem IRC yang terintegrasi dengan *in-game chat*, pengasuh umum situs. [Blog](http://blog.echo.sh/) |
 | ::{ flag=US }:: [HappyStick](https://osu.ppy.sh/users/256802) | Pembawa acara osu! Coffee Hour, penyiar World Cup, penyelenggara turnamen |
 | ::{ flag=NL }:: [Intermezzo](https://osu.ppy.sh/users/136842) | Pengembang osu!, perancang infrastruktur *backend* sistem osz2 dan p2p |
-| ::{ flag=US }:: Jim | Perancang situs dan penyedia layanan *hosting* pada awal mula berdirinya osu!. [Brave New Games](http://www.bravegamer.com/) |
+| ::{ flag=US }:: [Datawalke](https://osu.ppy.sh/users/142) | Perancang situs dan penyedia layanan *hosting* pada awal mula berdirinya osu!. [Brave New Games](http://www.bravegamer.com/) |
 | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | Pengurus dan penyelenggara World Cup |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Pengurus dan penyelenggara World Cup, pemimpin QAT, manajer komunitas |
 | ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | Perancang skin ulung, kontributor utama skin *default* dan set ikon bawaan osu! pada masanya. [DeviantArt](https://luigihann.deviantart.com/) |

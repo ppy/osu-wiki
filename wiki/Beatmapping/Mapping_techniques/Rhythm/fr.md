@@ -77,7 +77,7 @@ Cela permet de créer une ligne droite.
 
 ### Hub and Spoke
 
-Nominateur(s) : Beuchi-chan
+Nominateur(s) : [Beuchi](https://osu.ppy.sh/users/67192)
 
 La formation **hub and spoke** est littéralement un moyeu avec des rayons qui dépassent.
 Cette technique nécessite au moins 8 à 9 objets qui sont séparés d'un demi battement les uns des autres.

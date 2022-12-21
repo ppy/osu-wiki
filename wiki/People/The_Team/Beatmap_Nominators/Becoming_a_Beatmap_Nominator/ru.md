@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 053605ecbcbd1eb5a62e91a331315884fb4b00da
+---
+
 # Как стать номинатором
 
 За зачисление в [номинаторы](/wiki/People/The_Team/Beatmap_Nominators) отвечает [команда оценки номинаций](/wiki/People/The_Team/Nomination_Assessment_Team) (NAT).
