@@ -65,7 +65,7 @@ Poniżej przedstawiono grupy użytkowników osu!, którzy swoimi działaniami ws
 | ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | Programista, utworzenie integracji IRC z czatem gry, zarządzanie stroną. [Blog](http://blog.echo.sh/) |
 | ::{ flag=US }:: [HappyStick](https://osu.ppy.sh/users/256802) | Prowadzenie osu! Coffee Hour, transmitowanie i organizowanie oficjalnych turniejów |
 | ::{ flag=NL }:: [Intermezzo](https://osu.ppy.sh/users/136842) | Programista, twórca osz2 i p2p |
-| ::{ flag=US }:: Jim | Projektant oryginalnej strony. [Brave New Games](http://www.bravegamer.com/) |
+| ::{ flag=US }:: [Datawalke](https://osu.ppy.sh/users/142) | Projektant oryginalnej strony. [Brave New Games](http://www.bravegamer.com/) |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Organizowanie oficjalnych turniejów, zarządzanie społecznością, członek administracji, lider QAT |
 | ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | Twórca skórek do gry, wkład w domyślną skórkę i zestaw ikon. [DeviantArt](https://luigihann.deviantart.com/) |
 | ::{ flag=CA }:: [mm201](https://osu.ppy.sh/users/30655) | Programista, twórca sliderów mm |
