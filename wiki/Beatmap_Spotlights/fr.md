@@ -1,6 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: ea7cf7dc2b9638a9e0bbd4abc46009d586b0899f
 tags:
   - charts
   - Ranking Charts
@@ -16,7 +14,9 @@ tags:
 
 Le **Beatmap Spotlights** (ou simplement *Spotlights*, anciennement *Ranking Charts*) est un programme récurrent de recommandation et de mise en avant des [beatmaps](/wiki/Beatmap) pour leur design et leur gameplay excellents et uniques. Il est accompagné d'une [ligue saisonnière](#saisons-spotlights), où les joueurs s'affrontent sur ces beatmaps pour gagner des [badges](#récompenses).
 
-La saison actuelle est celle de l'Été 2022.
+La saison actuelle est celle de l'Hiver 2023.
+
+La [page de groupe des Beatmap Spotlight Curators](https://osu.ppy.sh/groups/48) liste tous les membres de l'équipe. Voir la [page des Beatmap Spotlight Curators](/wiki/People/The_Team/Beatmap_Spotlight_Curators) pour une liste plus détaillée de tous les rôles au sein du BSC.
 
 ## Participation
 
@@ -27,61 +27,6 @@ Après l'installation et la connexion à votre compte, rendez-vous dans l'onglet
 S'il n'y a pas de lobbies ouverts, attendez la saison suivante. La pause entre les saisons dure généralement quelques semaines, et les nouvelles saisons sont annoncées sur la [page d'accueil](https://osu.ppy.sh/home).
 
 ![Beatmap Spotlights playlist lobby](img/spotlights-lobby.png)
-
-## Organisation
-
-Le projet Beatmap Spotlights est géré par différents membres de la communauté, tous modes de jeu confondus, sous la direction d'un chef de projet dédié.
-
-| Rôle | Membres |
-| :-- | :-- |
-| Chef du projet | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) |
-| Gestionnaire du projet | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) |
-| Gestionnaire du site web | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631), ::{ flag=US }:: [Snowleopard](https://osu.ppy.sh/users/3790227) |
-
-## Curateurs
-
-Chaque publication du Beatmap Spotlights est assemblée par une équipe de conservateurs dévoués et choisie individuellement sur la base d'un processus de demande et d'examen approfondi. Les membres en gras sont les chefs d'équipe respectifs.
-
-### Curateurs osu!
-
-- ::{ flag=FI }:: **[Nowaie](https://osu.ppy.sh/users/5428909)**
-- ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
-- ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334)
-- ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207)
-- ::{ flag=FI }:: [Lefafel](https://osu.ppy.sh/users/2295850)
-- ::{ flag=AT }:: [Omgforz](https://osu.ppy.sh/users/578943)
-- ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461)
-- ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955)
-
-### Curateurs osu!taiko
-
-- ::{ flag=TN }:: **[Hivie](https://osu.ppy.sh/users/14102976)**
-- ::{ flag=MY }:: [[Zeth]](https://osu.ppy.sh/users/9912966)
-- ::{ flag=AR }:: [Axer](https://osu.ppy.sh/users/7299864)
-- ::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438)
-- ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097)
-- ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)
-- ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719)
-
-### Curateurs osu!catch
-
-- ::{ flag=CA }:: **[SadEgg](https://osu.ppy.sh/users/10278243)**
-- ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164)
-- ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)
-- ::{ flag=CA }:: [WadBot](https://osu.ppy.sh/users/14571181)
-- ::{ flag=US }:: [wonjae](https://osu.ppy.sh/users/5032045)
-- ::{ flag=CA }:: [wwwww](https://osu.ppy.sh/users/8434466)
-
-### Curateurs osu!mania
-
-- ::{ flag=AU }:: **[Crumpey](https://osu.ppy.sh/users/3518705)**
-- ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773)
-- ::{ flag=GB }:: [Hydria](https://osu.ppy.sh/users/808176)
-- ::{ flag=MY }:: [Kibitz](https://osu.ppy.sh/users/7418493)
-- ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573)
-- ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/4790958)
-- ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785)
-- ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747)
 
 ## Saisons Spotlights
 
@@ -122,14 +67,14 @@ Pendant la saison, chaque participant reçoit un **badge** temporaire qui reflè
 
 | Badges | Palier de bracket | Placement |
 | :-: | :-- | :-- |
-| ![](img/badges/summer_2022/osu/ri_1.png) ![](img/badges/summer_2022/osu/ri_2.png) | Rhythm Incarnate | Les meilleurs des meilleurs |
-| ![](img/badges/summer_2022/osu/diamond_1.png) ![](img/badges/summer_2022/osu/diamond_2.png) | Diamond | Top 3% |
-| ![](img/badges/summer_2022/osu/platinum_1.png) ![](img/badges/summer_2022/osu/platinum_2.png) | Platinum | 3% – 10% |
-| ![](img/badges/summer_2022/osu/gold_1.png) ![](img/badges/summer_2022/osu/gold_2.png) | Gold | 10% – 25% |
-| ![](img/badges/summer_2022/osu/silver_1.png) ![](img/badges/summer_2022/osu/silver_2.png) | Silver | 25% – 50% |
-| ![](img/badges/summer_2022/osu/bronze_1.png) ![](img/badges/summer_2022/osu/bronze_2.png) | Bronze | 50% – 70% |
-| ![](img/badges/summer_2022/osu/copper_1.png) ![](img/badges/summer_2022/osu/copper_2.png) | Copper | 70% – 95% |
-| ![](img/badges/summer_2022/osu/iron_1.png) ![](img/badges/summer_2022/osu/iron_2.png) | Iron | 95% – 100% |
+| ![](img/badges/winter_2023/osu/ri_1.png) ![](img/badges/winter_2023/osu/ri_2.png) | Rhythm Incarnate | Les meilleurs des meilleurs |
+| ![](img/badges/winter_2023/osu/diamond_1.png) ![](img/badges/winter_2023/osu/diamond_2.png) | Diamond | Top 3% |
+| ![](img/badges/winter_2023/osu/platinum_1.png) ![](img/badges/winter_2023/osu/platinum_2.png) | Platinum | 3% – 10% |
+| ![](img/badges/winter_2023/osu/gold_1.png) ![](img/badges/winter_2023/osu/gold_2.png) | Gold | 10% – 25% |
+| ![](img/badges/winter_2023/osu/silver_1.png) ![](img/badges/winter_2023/osu/silver_2.png) | Silver | 25% – 50% |
+| ![](img/badges/winter_2023/osu/bronze_1.png) ![](img/badges/winter_2023/osu/bronze_2.png) | Bronze | 50% – 70% |
+| ![](img/badges/winter_2023/osu/copper_1.png) ![](img/badges/winter_2023/osu/copper_2.png) | Copper | 70% – 95% |
+| ![](img/badges/winter_2023/osu/iron_1.png) ![](img/badges/winter_2023/osu/iron_2.png) | Iron | 95% – 100% |
 
 Le seuil du niveau Rhythm Incarnate est choisi manuellement en fonction du nombre de participants de la saison et de la taille générale des autres niveaux, bien qu'il s'agisse d'un nombre absolu qui se situe entre le top 2 et le top 50 dans la plupart des cas.
 
