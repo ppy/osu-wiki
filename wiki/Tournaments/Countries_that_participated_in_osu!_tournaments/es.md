@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Países que participaron en torneos de osu!
 
 Este artículo enumera los países que han participado en torneos oficiales de [osu!](/wiki/Game_mode/osu!), [osu!taiko](/wiki/Game_mode/osu!taiko), [osu!catch](/wiki/Game_mode/osu!catch), y [osu!mania](/wiki/Game_mode/osu!mania). También proporciona las clasificaciones de los equipos que han llegado al top 3.
