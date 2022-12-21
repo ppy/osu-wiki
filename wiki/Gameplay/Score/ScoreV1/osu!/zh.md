@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # ScoreV1 (osu!)
 
 *另请参阅： [osu! 判定系统](/wiki/Gameplay/Judgement/osu!)*
