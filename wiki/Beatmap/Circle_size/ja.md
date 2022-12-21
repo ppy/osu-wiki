@@ -8,11 +8,11 @@ tags:
 
 円のサイズに関する基準は[ランキング基準](/wiki/Ranking_Criteria)を参照してください。
 
-**サークルサイズ** (***CS***)は[ヒットオブジェクト](/wiki/Hit_Object)のサイズを変更する[ビートマップ](/wiki/Beatmap)の難易度設定です。サークルサイズの範囲は0 ~ 10ですが、[ビートマップエディター](/wiki/Client/Beatmap_editor)で指定できるのは2 ~ 7の範囲です。その他の値は[.osuファイル](/wiki/osu!_File_Formats/Osu_(file_format))を直接編集してください。
+**サークルサイズ** (***CS***)は[ヒットオブジェクト](/wiki/Hit_Object)のサイズを変更する[ビートマップ](/wiki/Beatmap)の難易度設定です。サークルサイズの範囲は0 ~ 10ですが、[ビートマップエディター](/wiki/Client/Beatmap_editor)で指定できるのは2 ~ 7の範囲です。その他の値は[`.osu`ファイル](/wiki/osu!_File_Formats/Osu_(file_format))を直接編集してください。
 
 ## osu!
 
-osu!では、サークルサイズはサークルとスライダーのサイズを変更し、値を大きくするとヒットオブジェクトが小さくなります。スピナーはサークルサイズの影響を受けません。ヒットオブジェクトの大きさは次の式で求められます。
+[osu!](/wiki/Game_mode/osu!)では、サークルサイズは[サークル](/wiki/Gameplay/Hit_object/Hit_circle)と[スライダー](/wiki/Gameplay/Hit_object/Slider)のサイズを変更し、値を大きくするとヒットオブジェクトが小さくなります。[スピナー](/wiki/Gameplay/Hit_object/Spinner)はサークルサイズの影響を受けません。ヒットオブジェクトの大きさは次の式で求められます。
 
 `r = 54.4 - 4.48 * CS`<!-- 古いリプレイのバグを解消するためには最後に 1.00041 を掛けます -->
 
@@ -20,15 +20,15 @@ osu!では、サークルサイズはサークルとスライダーのサイズ�
 
 ## osu!taiko
 
-osu!taikoでは、サークルサイズはゲームプレイには影響ありません。
+[osu!taiko](/wiki/Game_mode/osu!taiko)では、サークルサイズはゲームプレイには影響ありません。
 
 ## osu!catch
 
-osu!catchでは、サークルサイズはキャッチャーとフルーツのサイズを表します。
+[osu!catch](/wiki/Game_mode/osu!catch)では、サークルサイズはキャッチャーと[フルーツ](/wiki/Gameplay/Hit_object/Fruit)のサイズを表します。
 
 ## osu!mania
 
-osu!maniaでは、サークルサイズはキー数を表します。
+[osu!mania](/wiki/Game_mode/osu!mania)では、サークルサイズはキー数を表します。
 
 ## Mod効果
 

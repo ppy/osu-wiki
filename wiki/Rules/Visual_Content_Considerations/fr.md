@@ -29,6 +29,7 @@ Les images ou éléments visuels contenant l'un des éléments suivants ne sont 
 - **du contenu érotique ou représentations graphiques de la sexualité**
 - **des exemples de consommation, de préparation de drogues ou d'identification à la sous-culture des drogues illicites**[^drug-nature]
 - **des représentations de contenus politiques, culturels, religieux ou sociaux délibérément incendiaires**
+- **des images représentant un comportement suicidaire ou de l'automutilation, y compris la préparation ou les tentatives imminentes**
 
 En outre, les images ou les éléments visuels dont on peut raisonnablement penser qu'ils sont de mauvaise qualité (qu'il s'agisse de la qualité objective de l'image ou de la composition/création subjective) peuvent également être empêchés d'être utilisés dans une beatmap lorsqu'ils ne sont pas directement liés à un sujet pertinent.
 

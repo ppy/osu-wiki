@@ -4,6 +4,8 @@ tags:
   - break time
   - rest
   - rest time
+outdated_translation: true
+outdated_since: 9bcdabe4c05001bba74292896082adb0be936761
 ---
 
 # 休息時間

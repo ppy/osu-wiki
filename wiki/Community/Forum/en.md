@@ -2,6 +2,7 @@
 tags:
   - forums
   - subforum
+  - sub-forum
 ---
 
 # Forum
@@ -14,7 +15,7 @@ The osu! forums provide features similar to most internet forums: [BBCode](/wiki
 
 ## Structure
 
-Each of the osu! forums contains a variety of **topics**, sometimes called threads, as well as smaller categories, or **subforums**. Most of the forums are English only, but there also exists a number of [language-specific](https://osu.ppy.sh/community/forums#forum-23) forums for local communities that are large enough.
+Each of the osu! forums contains a variety of **topics**, sometimes called threads, as well as smaller categories, or **subforums**. Most of the forums are English only, but there also exists a number of [language-specific](https://osu.ppy.sh/community/forums/23) forums for local communities that are large enough.
 
 While some forums, such as [Mapping Discussion](https://osu.ppy.sh/community/forums/56), have specific requirements or guidelines, all of them follow [the community rules](/wiki/Rules).
 
@@ -44,7 +45,7 @@ Additionally, there are other forums similar to Abandoned Wasteland, which serve
 
 ## History
 
-[The first public forum post](https://osu.ppy.sh/community/forums/topics/2) is dated August 28, 2007, and belongs to [peppy](/wiki/People/peppy). During that time, the osu! website used [phpBB](https://en.wikipedia.org/wiki/PhpBB) as its forum engine, which over the years has been significantly expanded to suit the game and community's needs. Some of its customisations included:
+[The first public forum post](https://osu.ppy.sh/community/forums/topics/2) is dated August 28, 2007, and belongs to ::{ flag=AU }:: [peppy](/wiki/People/peppy). During that time, the osu! website used [phpBB](https://en.wikipedia.org/wiki/PhpBB) as its forum engine, which over the years has been significantly expanded to suit the game and community's needs. Some of its customisations included:
 
 - Integration with the [beatmap submission system](/wiki/Submission)
 - The [kudosu](/wiki/Modding/Kudosu) and [beatmap ranking](/wiki/Beatmap_ranking_procedure) systems

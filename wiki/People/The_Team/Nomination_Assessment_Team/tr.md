@@ -70,7 +70,9 @@ NAT uzun zaman periyodlarıyla potansiyel NAT üyelerini gözetler, ve genellikl
 | İsim | Ek diller | Birincil sorumluluklar |
 | :-- | :-- | :-- |
 | ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | Almanca | Değerlendirme |
+| ::{ flag=UK }:: [Dusk-](https://osu.ppy.sh/users/6092181) | Urduca, biraz Arapça | Değerlendirme |
 | ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733) | Kantonca, Çince | Değerlendirme |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Arapça, Fransızca, biraz İtalyanca | Değerlendirme |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | Değerlendirme |
 
 ### osu!catch

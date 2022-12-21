@@ -70,7 +70,9 @@ Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7). Sebaga
 | Nama | Bahasa tambahan | Tanggung Jawab Utama |
 | :-- | :-- | :-- |
 | ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | Jerman | Evaluasi |
+| ::{ flag=UK }:: [Dusk-](https://osu.ppy.sh/users/6092181) | Urdu, sedikit Arab | Evaluasi |
 | ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733) | Kanton, Tionghoa | Evaluasi |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Arab, Perancis, sedikit Italia | Evaluasi |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | Evaluasi |
 
 ### osu!catch

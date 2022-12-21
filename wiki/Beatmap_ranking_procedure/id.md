@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: eba261b5bbbc70e338a61e8658c8040470402d3b
 ---
 
 # Prosedur ranking beatmap

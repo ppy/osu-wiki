@@ -42,7 +42,7 @@ The osu!mania 4K Chinese National Cup 2019 was run by various community members.
 | Mappool selector | ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=NZ }:: [Worms](https://osu.ppy.sh/users/1963937), ::{ flag=BR }:: [Sillyfangirl](https://osu.ppy.sh/users/2288363), ::{ flag=MX }:: [\[Crz\]Noire](https://osu.ppy.sh/users/6031847), ::{ flag=US }:: [\[Crz\]sel](https://osu.ppy.sh/users/9452257), ::{ flag=MX }:: [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763) |
 | Streamer | ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=NZ }:: [\[Crz\]NucleoAP](https://osu.ppy.sh/users/9237208), ::{ flag=CN }:: [crazybrother](https://osu.ppy.sh/users/8045083), ::{ flag=CN }:: [Rasis](https://osu.ppy.sh/users/1209363), ::{ flag=CN }:: [Empty\_Lotus](https://osu.ppy.sh/users/1212951), ::{ flag=CN }:: [Ayase Eli](https://osu.ppy.sh/users/6764156) |
 | Commentator | ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=NZ }:: [\[Crz\]NucleoAP](https://osu.ppy.sh/users/9237208), ::{ flag=CN }:: [crazybrother](https://osu.ppy.sh/users/8045083), ::{ flag=CN }:: [Rasis](https://osu.ppy.sh/users/1209363), ::{ flag=CN }:: [Empty\_Lotus](https://osu.ppy.sh/users/1212951) |
-| Designer | ::{ flag=CN }:: [Dr\_Tissues](https://osu.ppy.sh/users/5106681), ::{ flag=CN }:: [fazioli txt](https://osu.ppy.sh/users/9598315), ::{ flag=CN }:: [-Se Tsu Nya-](https://osu.ppy.sh/users/6073139) |
+| Designer | ::{ flag=CN }:: [Dr\_Tissues](https://osu.ppy.sh/users/5106681), ::{ flag=CN }:: [fazioli txt](https://osu.ppy.sh/users/9598315), ::{ flag=TW }:: [-Se Tsu Nya-](https://osu.ppy.sh/users/6073139) |
 | Referee | ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ::{ flag=NZ }:: [\[Crz\]NucleoAP](https://osu.ppy.sh/users/9237208), ::{ flag=CN }:: [crazybrother](https://osu.ppy.sh/users/8045083), ::{ flag=CN }:: [Rasis](https://osu.ppy.sh/users/1209363) |
 | Statistician | ::{ flag=CN }:: [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832) |
 
@@ -58,7 +58,7 @@ The osu!mania 4K Chinese National Cup 2019 was run by various community members.
 | Seed | Player |
 | :-: | :-- |
 | #1 | ::{ flag=CN }:: [Tamaki Iroha](https://osu.ppy.sh/users/11238501) |
-| #2 | ::{ flag=CN }:: [- xiaoluoli -](https://osu.ppy.sh/users/950281) |
+| #2 | ::{ flag=CN }:: [- xiaoluoli -](https://osu.ppy.sh/users/9502281) |
 | #3 | ::{ flag=HK }:: [\[Crz\]Murasame](https://osu.ppy.sh/users/11563203) |
 | #4 | ::{ flag=TW }:: [AradORiOn\_MMM](https://osu.ppy.sh/users/7960927) |
 | #5 | ::{ flag=CN }:: [Kakuko](https://osu.ppy.sh/users/10413362) |

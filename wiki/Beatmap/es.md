@@ -104,7 +104,7 @@ Más tarde, el sistema de charts se convirtió en el proyecto [Beatmaps destacad
 
 *Pagina principal: [Concursos](/wiki/Contests)*
 
-La comunidad de osu! organiza regularmente diferentes concursos para promover la creatividad y premiar a los mapeadores que hacen lo mejor que pueden. Los concursos van desde pequeños concursos, que se realizan dentro de las comunidades locales, hasta grandes que se llevan a cabo a escala mundial y tienen premios impresionantes. Los ganadores suelen recibir premios en forma de [etiquetas osu!supporter](/wiki/osu!supporter) y una insignia de perfil temática.
+La comunidad de osu! organiza regularmente diferentes concursos para promover la creatividad y premiar a los mapeadores que hacen lo mejor que pueden. Los concursos van desde pequeños concursos, que se realizan dentro de las comunidades locales, hasta grandes que se llevan a cabo a escala mundial y tienen premios impresionantes. Los ganadores suelen recibir premios en forma de [etiquetas osu!supporter](/wiki/osu!supporter) y una [insignia de perfil](/wiki/Community/Profile_badge) temática.
 
 ### Artistas destacados
 

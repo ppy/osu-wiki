@@ -1,7 +1,5 @@
 ---
 layout: main_page
-outdated_since: e5c6703afd341354b50be467f885400c871cd0de
-outdated_translation: true
 ---
 
 <div class="wiki-main-page__blurb">
@@ -61,9 +59,9 @@ osu! 的谱面都是充满活力的社区内玩家们的智慧结晶，想与大
 
 谱面上架 (Ranking) 指的是让谱面获得排行榜功能，从而为众人所知的过程。下面的文章将指导你如何通过谱面审核流程，并介绍谱面质量控制与谱面上架的全过程。
 
-[提交](/wiki/Submission) • [摸图](/wiki/Modding) • [上架流程](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
+[提交谱面](/wiki/Submission) • [摸图](/wiki/Modding) • [谱面上架流程](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
 
-[Ranking 准则](/wiki/Ranking_Criteria)：[osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania)
+[谱面上架标准 (RC)](/wiki/Ranking_Criteria)：[osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -98,9 +96,10 @@ osu! 的谱面都是充满活力的社区内玩家们的智慧结晶，想与大
 
 社交能把世界各地的 osu! 玩家连结起来。了解这些活动与竞赛，结识新朋友，或帮忙组织一个更好的活动！
 
+讨论区: [论坛](/wiki/Community/Forum) • [闲聊](/wiki/Community/Internet_Relay_Chat)
 [锦标赛](/wiki/Tournaments) • [聚光灯](/wiki/Beatmap_Spotlights) • [竞赛](/wiki/Contests) • [社区导师计划](/wiki/Community/Community_Mentorship_Program)
 
-[社区项目](/wiki/Community/Projects)：[精选艺术家](/wiki/Featured_Artists) • [osu! 社区会议](/wiki/Community/osu!_community_meetings) • [osu! 学院](/wiki/Community/Video_series/osu!academy) • [osu! 作图教程](/wiki/Community/Video_series/osu!mapping) • [osu! 讨论](/wiki/Community/Video_series/osu!talk)
+[社区项目](/wiki/Community/Projects) • [精选艺术家](/wiki/Featured_Artists) • [喜爱计划](/wiki/Community/Project_Loved) • [osu! 社区会议](/wiki/Community/osu!_community_meetings) • [osu! 学院](/wiki/Community/Video_series/osu!academy) • [osu! 作图教程](/wiki/Community/Video_series/osu!mapping) • [osu! 讨论](/wiki/Community/Video_series/osu!talk)
 
 组织：[osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 

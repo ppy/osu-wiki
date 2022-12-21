@@ -22,4 +22,4 @@ osu! possède plusieurs comptes Twitter, ayant chacun des objectifs spécifiques
 
 | Avatar | Compte | Description |
 | :-: | :-: | :-- |
-| ![Dean Herbert avatar](img/ppy.jpg) | [@ppy](https://twitter.com/ppy) | Le compte Twitter personnel du [créateur d'osu!](/wiki/People/peppy), qui n'est pas strictement lié à osu! mais en couvre néanmoins une grande partie. |
+| ![Dean Herbert avatar](img/ppy.jpg?2) | [@ppy](https://twitter.com/ppy) | Le compte Twitter personnel du [créateur d'osu!](/wiki/People/peppy), qui n'est pas strictement lié à osu! mais en couvre néanmoins une grande partie. |

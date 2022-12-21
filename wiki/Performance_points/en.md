@@ -14,8 +14,6 @@ Known thereafter as "pp" (an abbreviation for "performance points"), this new sy
 
 Several months after its reveal, the 20120722-24 osu! release officially implemented the system to fully replace the old [Ranked](/wiki/Beatmap/Category#ranked) score system, with new scores being calculated every 30 minutes. Later on in August of the same year, the system was improved to update in real-time.
 
-*Note: ppv1, the original build of the Performance Points system, also had a changelog, which can be viewed from its [forum topic](https://osu.ppy.sh/community/forums/topics/92185).*
-
 It continued to exist in this capacity for more than a year of service until [Tom94](https://osu.ppy.sh/users/1857058), the creator of the *osu!tp* scoring metric, joined the [osu! team](/wiki/People/The_Team) and implemented his design into the system. The resulting system was titled *ppv2*, and became live on January 27, 2014, therefore renaming the old system to *[ppv1](/wiki/Performance_points/ppv1)*
 
 On January 16, 2021, changes were made to the ppv2 system that aimed to more accurately award pp to more difficult aspects of maps. These changes were made in large part by the help of various individual members of the community such as [Xexxar](https://osu.ppy.sh/users/2773526) and [StanR](https://osu.ppy.sh/users/7217455). The specifics of the changes made are detailed in the [corresponding newspost](https://osu.ppy.sh/home/news/2021-01-14-performance-points-updates). Very briefly, the main points of interest in the update were as follows:
@@ -26,7 +24,7 @@ On January 16, 2021, changes were made to the ppv2 system that aimed to more acc
 - Adjust the rate of pp loss from misses to be more forgiving on longer maps with higher combo
 - Punish lower [accuracy](/wiki/Gameplay/Accuracy) plays with less pp gain
 
-ppv2 is currently in active service, with live updates published to its [changelog](https://osu.ppy.sh/p/changelog?category=pp).
+ppv2 is currently in active service, with updates in the form of news posts published by the [Performance Points Committee](/wiki/People/Performance_Points_Committee) whenever new changes are deployed.
 
 ## Calculation
 

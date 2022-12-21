@@ -4,6 +4,8 @@ tags:
   - hit window
   - OD
   - spinner difficulty
+outdated_translation: true
+outdated_since: 59fa09aa5fb8f605a3f45c021080958f3bc5d44a
 ---
 
 # Overall difficulty
@@ -14,9 +16,9 @@ tags:
 
 ## Timing
 
-Semakin tinggi nilai OD, semakin singkat pula jeda waktu untuk menekan [hit object](/wiki/Hit_object) baik secara umum ataupun dari segi perhitungan [skor](/wiki/Gameplay/Score). Waktu hit error maksimum untuk setiap hit object pada mode permainan osu! dan osu!mania berpusat pada ketepatan waktu hit object, sebagaimana yang dijelaskan dengan tabel di bawah.
+Semakin tinggi nilai OD, semakin singkat pula jeda waktu untuk menekan [hit object](/wiki/Hit_object) baik secara umum ataupun dari segi perhitungan [skor](/wiki/Gameplay/Score). Waktu hit error maksimum untuk setiap hit object pada mode permainan [osu!](/wiki/Game_mode/osu!) dan [osu!mania](/wiki/Game_mode/osu!mania) berpusat pada ketepatan waktu hit object, sebagaimana yang dijelaskan dengan tabel di bawah.
 
-Perlu dicatat pada osu! versi stable, hit window mode permainan osu! dan osu!taiko dapat lebih pendek 0,5 ms daripada hasil rumus perhitungan baik sebelum maupun sesudah waktu hit. Meskipun demikina, hal yang sebaliknya justru dapat terjadi pada mode osu!mania. Hal ini dikarenakan oleh mekanisme perhitungan waktu hit itu sendiri, di mana pada mode permainan osu! dan osu!taiko sebuah hit berada pada hit window apabila `hit error < pembulatan(hit window)`, namun pada mode permainan osu!mania sebuah hit berada pada hit window apabila `hit error <= pembulatan(hit window)`.
+Perlu dicatat pada osu! versi stable, hit window mode permainan osu! dan [osu!taiko](/wiki/Game_mode/osu!taiko) dapat lebih pendek 0,5 ms daripada hasil rumus perhitungan baik sebelum maupun sesudah waktu hit. Meskipun demikina, hal yang sebaliknya justru dapat terjadi pada mode osu!mania. Hal ini dikarenakan oleh mekanisme perhitungan waktu hit itu sendiri, di mana pada mode permainan osu! dan osu!taiko sebuah hit berada pada hit window apabila `hit error < pembulatan(hit window)`, namun pada mode permainan osu!mania sebuah hit berada pada hit window apabila `hit error <= pembulatan(hit window)`.[^judgement-rounding-ref]
 
 Sebagai contoh, hit window sebuah Great pada osu!taiko dengan OD 5 adalah ±34,5 ms, alih-alih ±35 ms seperti hasil rumus pada tabel. Pada mode permainan osu!mania, hit window sebuah MAX adalah ±16,5 ms, bukan ±16 ms seperti hasil rumus pada tabel.
 
@@ -52,7 +54,7 @@ Jika pemain menekan hit object di luar dari hit window 50, pemain akan mendapatk
 
 ## Slider dan spinner
 
-Pada mode permainan [osu!](/wiki/Game_mode/osu!), slider akan memberikan skor 300 selama mereka ditekan dalam hit window 50. Hal ini terkadang disebut dengan istilah *slideracc* yang telah dihapus di dalam [ScoreV2](/wiki/Game_modifier/ScoreV2).
+Pada mode permainan [osu!](/wiki/Game_mode/osu!), [slider](/wiki/Gameplay/Hit_object/Slider) akan memberikan skor 300 selama mereka ditekan dalam hit window 50. Hal ini terkadang disebut dengan istilah *slideracc* yang telah dihapus di dalam [ScoreV2](/wiki/Game_modifier/ScoreV2).
 
 Overall difficulty juga berefek pada [spinner](/wiki/Hit_object/Spinner), di mana mereka harus diputar lebih banyak agar *spinner metre* yang ada dapat terisi pada waktunya. Pada mode permainan [osu!taiko](/wiki/Game_mode/osu!taiko), denden juga perlu ditekan lebih banyak untuk dapat diselesaikan. Di samping itu, jumlah putaran per detik yang dibutuhkan untuk menyelesaikan spinner juga akan terdampak sesuai dengan rumus berikut:
 
@@ -74,3 +76,7 @@ Meskipun Half Time dan Double Time tidak mengganti nilai OD, tetapi perbedaan ke
 ## osu!catch
 
 Overall difficulty dapat ditemukan ketika melihat informasi beatmap, tetapi tidak ada pengaruhnya terhadap gameplay.
+
+## Referensi
+
+[^judgement-rounding-ref]: [Pesan dari spaceman_atlas di server Discord osu!dev di #osu-wiki (06-05-2022)](https://discord.com/channels/188630481301012481/218677502141399041/972241866382798889)

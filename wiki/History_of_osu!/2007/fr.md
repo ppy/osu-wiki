@@ -6,7 +6,7 @@ Ce qui suit contient certains des évènements majeurs de l'histoire d'osu! en 2
 
 ## Juillet
 
-osu! a débuté en tant que preuve de concept nommée "ouentest"[[1]][r]. La première version a été publiée le 1er juillet 2007 à un petit groupe d'amis proches de [peppy](https://osu.ppy.sh/users/2) et contenait un [éditeur de beatmaps](/wiki/Client/Beatmap_editor) très basique ainsi qu'un seul mode de jeu. L'éditeur pouvait seulement permettre la création de [beatmaps](/wiki/Beatmap) *très* simplistes sans fonction de recherche ou de [snapping](/wiki/Beatmapping/Snapping) disponibles, et il n'y avait ni sliders, ni spinners, seulement des cercles et des compteurs basiques de score/combo. La première version a pris environ 16 heures de programmation, et a été réalisée en *une seule nuit blanche*. `pUpdater` a été introduit (connu peu après sous le nom d'`osume`)[[2]][r] pour prendre en charge les mises à jour à la dernière version.
+osu! a débuté en tant que preuve de concept nommée "ouentest".[^ouentest] La première version a été publiée le 1er juillet 2007 à un petit groupe d'amis proches de [peppy](https://osu.ppy.sh/users/2) et contenait un [éditeur de beatmaps](/wiki/Client/Beatmap_editor) très basique ainsi qu'un seul mode de jeu. L'éditeur pouvait seulement permettre la création de [beatmaps](/wiki/Beatmap) *très* simplistes sans fonction de recherche ou de [snapping](/wiki/Beatmapping/Snapping) disponibles, et il n'y avait ni sliders, ni spinners, seulement des cercles et des compteurs basiques de score/combo. La première version a pris environ 16 heures de programmation, et a été réalisée en *une seule nuit blanche*. `pUpdater` a été introduit (connu peu après sous le nom d'`osume`) [^osume] pour prendre en charge les mises à jour à la dernière version.
 
 ![](img/2007-07_01.jpg "Sélection de musiques")
 
@@ -98,7 +98,5 @@ Les musiques peuvent être éditées en les glissant dans la fenêtre d'osu! ; l
 
 ## Références
 
-1. [post Twitter de peppy sur le début d'osu!](https://twitter.com/ppy/status/1141394137637249025?s=20)
-2. [pUpdater  (alias osume) post forum](https://osu.ppy.sh/community/forums/topics/4?n=1)
-
-[r]: #références
+[^ouentest]: [Tweet par @ppy (10/06/2019)](https://twitter.com/ppy/status/1141394137637249025?s=20)
+[^osume]: [Fil de discussion par peppy (28/08/2007) "pUpdater (aka osume)"](https://osu.ppy.sh/community/forums/topics/4?n=1)
