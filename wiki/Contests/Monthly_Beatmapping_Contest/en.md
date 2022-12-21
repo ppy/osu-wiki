@@ -102,7 +102,7 @@ The MBC was put on hold between October 2020 and March 2021 to provide time for 
 
 ## Rewards
 
-The Monthly Beatmapping Contest rewards users with *[contest points](/wiki/Contests/Contest_points)* for different types of results :
+The Monthly Beatmapping Contest rewards users with *[contest points](/wiki/Contests/Contest_points)* for different types of results:
 
 - **Judging winner:** 2 points
 - **Judging runner-up:** 1 point

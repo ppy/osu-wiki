@@ -56,4 +56,4 @@ Contest points have been used in the following contests:
 
 ## History
 
-- Prior to October 2022, contest points were exclusive to the [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) and were named *MBC points*. With the introduction of the [osu!taiko Featured Artist Cup #3](https://osu.ppy.sh/home/news/2022-10-23-osutaiko-featured-artist-cup-3), the points were renamed to *contest points* and have been repurposed to be used in other official mapping contests in order to provide a streamlined path to the *Elite Mapper* title.
+Prior to October 2022, contest points were exclusive to the [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) and were named *MBC points*. With the introduction of the [osu!taiko Featured Artist Cup #3](https://osu.ppy.sh/home/news/2022-10-23-osutaiko-featured-artist-cup-3), the points were renamed to *contest points* and have been repurposed to be used in other official mapping contests in order to provide a streamlined path to the *Elite Mapper* title.
