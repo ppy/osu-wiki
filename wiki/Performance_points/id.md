@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: b0dbd398396a49d6f8e793dfa279b0c0e65937f1
----
-
 <!-- Pennek also wrote a similar sub-article that may have small bits of extra info. If needed, find it here: https://github.com/ppy/osu-wiki/blob/be1fec96041971d2bace05eb216952a58b7cabbc/wiki/Performance_points/Performance_point_systems/en.md we should probably figure what to do with these two at some point-->
 
 # Performance points
@@ -19,8 +14,6 @@ Sistem baru ini, yang kemudian dikenal sebagai "pp" (singkatan untuk "performanc
 
 Beberapa bulan setelah pengungkapannya, osu! 20120722-24 secara resmi mengimplementasikan sistem tersebut untuk sepenuhnya mengganti sistem skoring [Ranked](/wiki/Beatmap/Category#ranked), dengan skor baru diperhitungkan setiap 30 menit. Pada Agustus di tahun yang sama, sistem ini ditingkatkan untuk meng-*update* secara *real-time*.
 
-*Catatan: ppv1, build awal dari sistem Performance Point, juga mempunyai sebuah changelog yang bisa dilihat di [topik forumnya](https://osu.ppy.sh/community/forums/topics/92185).*
-
 Sistem ini terus digunakan tanpa perubahan selama lebih dari satu tahun hingga [Tom94](https://osu.ppy.sh/users/1857058), pembuat dari pengitungan skor *osu!tp*, bergabung dengan [tim osu!](/wiki/People/The_Team) dan mengimplementasikan desainnya ke dalam sistem. Hasil dari sistem itu diberi nama *ppv2* dan dirilis pada tanggal 27 Januari 2014, yang membuat sistem lama itu diganti namanya menjadi *[ppv1](/wiki/Performance_points/ppv1)*
 
 Pada 16 Januari 2021, perubahan dilakukan pada sistem ppv2 yang bertujuan memberikan pp secara lebih akurat pada aspek yang lebih sulit pada suatu map. Perubahan ini sebagian besar dilakukan berkat bantuan berbagai pemain seperti [Xexxar](https://osu.ppy.sh/users/2773526) dan [StanR](https://osu.ppy.sh/users/7217455). Perubahan dijelaskan secara lebih detail di [post berita yang berhubungan](https://osu.ppy.sh/home/news/2021-01-14-performance-points-updates). Secara singkat, poin-poin perhatian utama pada pembaruan tersebut adalah sebagai berikut.
@@ -31,7 +24,7 @@ Pada 16 Januari 2021, perubahan dilakukan pada sistem ppv2 yang bertujuan member
 - Menyesuaikan nilai dari kerugian pp oleh miss untuk berdampak lebih kecil pada map lebih lama dengan kombo yang lebih tinggi
 - Mengurangi perolehan pp untuk [akurasi](/wiki/Gameplay/Accuracy) yang lebih rendah
 
-ppv2 pada saat ini bersifat aktif dengan pembaruan yang dirilis di [changelognya](https://osu.ppy.sh/p/changelog?category=pp).
+ppv2 pada saat ini bersifat aktif dengan pembaruan yang dirilis secara berkala oleh [Performance Points Committee](/wiki/People/Performance_Points_Committee) dalam bentuk postingan berita.
 
 ## Penghitungan
 

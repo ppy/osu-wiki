@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 689c2f3805a618b8f08342661faa1a0328fccfb1
----
-
 # Benutzer mit einzigartigen Titeln
 
 Nutzertitel sind in der Regel mit [Benutzergruppen](/wiki/People/The_Team#benutzergruppen) verbunden, aber die unten aufgelisteten Benutzer haben ihre Titel aus anderen Gründen erhalten. Die meisten Titel waren Auszeichnungen für Beiträge oder Errungenschaften, wobei die übrigen Titel Symbole der kultigen oder lustigen osu!-Geschichte sind.
@@ -133,6 +128,7 @@ Die meisten offiziellen Mapping-Wettbewerbe bieten den Titel **Elite Mapper** al
 - ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114)
 - ::{ flag=US }:: [Behonkiss](https://osu.ppy.sh/users/106)
 - ::{ flag=KR }:: [Beige](https://osu.ppy.sh/users/685229)
+- ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552)
 - ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565)
 - ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334)
 - ::{ flag=MY }:: [ExPew](https://osu.ppy.sh/users/665612)
@@ -140,6 +136,7 @@ Die meisten offiziellen Mapping-Wettbewerbe bieten den Titel **Elite Mapper** al
 - ::{ flag=JP }:: [Gamu](https://osu.ppy.sh/users/611174)
 - ::{ flag=GB }:: [hypercyte](https://osu.ppy.sh/users/9155377)
 - ::{ flag=CA }:: [jonathanlfj](https://osu.ppy.sh/users/270377)
+- ::{ flag=KR }:: [Kawawa](https://osu.ppy.sh/users/4647754)
 - ::{ flag=CA }:: [ktgster](https://osu.ppy.sh/users/53378)
 - ::{ flag=RU }:: [kuyusu](https://osu.ppy.sh/users/11758667)
 - ::{ flag=NL }:: [Kyshiro](https://osu.ppy.sh/users/640611)
@@ -161,6 +158,10 @@ Die meisten offiziellen Mapping-Wettbewerbe bieten den Titel **Elite Mapper** al
 - ::{ flag=LY }:: [Soul Evans](https://osu.ppy.sh/users/4490770)
 - ::{ flag=BE }:: [Sylas](https://osu.ppy.sh/users/3906405)
 - ::{ flag=KR }:: [Taeyang](https://osu.ppy.sh/users/2732340)
+- ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811)
+- ::{ flag=CN }:: [TtmnZk](https://osu.ppy.sh/users/2495509)
+- ::{ flag=CN }:: [yf\_bmp](https://osu.ppy.sh/users/1243669)
+- ::{ flag=CN }:: [Yugu](https://osu.ppy.sh/users/3161834)
 - ::{ flag=RU }:: [xbopost](https://osu.ppy.sh/users/6842421)
 - ::{ flag=SE }:: [Xgor](https://osu.ppy.sh/users/98661)
 - ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768)
@@ -170,7 +171,6 @@ Die meisten offiziellen Mapping-Wettbewerbe bieten den Titel **Elite Mapper** al
 Seit 2020 werden Mitglieder der [Beatmap-Nominators](/wiki/People/The_Team/Beatmap_Nominators) und des [Nomination-Assessment-Teams](/wiki/People/The_Team/Nomination_Assessment_Team) mit einer außergewöhnlichen Leistung zur Unterstützung des Ranlistensystems in einem bestimmten Jahr mit dem Titel **Elite Nominator** ausgezeichnet. Dieser Titel wird zu Beginn jedes Jahres für Beiträge vergeben, die während dem vergangen Jahr gemacht wurden, und halten etwa ein Jahr lang oder bis der Benutzer das Team verlässt.
 
 - ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229)
-- ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083)
 - ::{ flag=CA }:: [guden](https://osu.ppy.sh/users/11626065)
 - ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323)
 - ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)
@@ -272,10 +272,14 @@ Diese Storyboarder haben den Titel **Elite Storyboarder** dafür überreicht bek
 
 - ::{ flag=DK }:: [-Tochi](https://osu.ppy.sh/users/3664366)
 - ::{ flag=US }:: [11t](https://osu.ppy.sh/users/2112092)
+- ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552)
 - ::{ flag=FR }:: [Damnae](https://osu.ppy.sh/users/989377)
 - ::{ flag=PL }:: [Exile-](https://osu.ppy.sh/users/2559349)
 - ::{ flag=RU }:: [Shmiklak](https://osu.ppy.sh/users/5504231)
-- ::{ flag=CN }:: [yf_bmp](https://osu.ppy.sh/users/1243669)
+- ::{ flag=RU }:: [Tommy Phelps](https://osu.ppy.sh/users/10974581)
+- ::{ flag=DZ }:: [VenerableNyanta](https://osu.ppy.sh/users/12243368)
+- ::{ flag=CN }:: [yf_bmp](https://osu.ppy.sh/users/1243669)[^yf-note]
+- ::{ flag=CN }:: [Yumeno Himiko](https://osu.ppy.sh/users/1806962)
 
 ## Auf das Spiel bezogen
 
@@ -334,3 +338,4 @@ Diese Nutzer bekamen ihre entsprechenden Titel aus verschiedenen Gründen.
 [^mao-note]: ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515) wurde stattdessen mit dem Titel **Elite Mapper II** ausgezeichnet, da er den den Titel "Elite Mapper" auf zwei verschiedene Arten erfolgreich erworben hat: Das Gewinnen des Wettbewerbs [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) und das Überschreiten der 6-Punkte-Schwelle im neuen [monatlichen Beatmapping-Wettbewerbs](/wiki/Contests/Monthly_Beatmapping_Contest)-System.
 [^charles445-note]: ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000) wurde stattdessen mit dem Titel **Elite Mapper II : Aspirant** ausgezeichnet, da er sowohl den [Monthly Beatmapping Contest #1](https://osu.ppy.sh/home/news/2013-10-20-monthly-beatmapping-contest-1-results) als auch den [Monthly Beatmapping Contest: Aspire (2014)](https://osu.ppy.sh/home/news/2014-11-13-monthly-beatmapping-contest-aspire-results) gwonnen hatte.
 [^billiummoto-note]: ::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471) wurde stattdessen mit dem Titel **osu!mixer II** ausgezeichnet, da er sowohl den [osu!remix contest #1](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results) und den Wettbwerb [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) gewonnen hatte.
+[^yf-note]: ::{ flag=CN }:: [yf_bmp](https://osu.ppy.sh/users/1243669) wurde stattdessen mit dem Titel **Elite Storyboarder II** ausgezeichnet, da er [den Titel bereits erworben hatte](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020) aufgrund von herausragenden Beiträgen zur Storyboarding-Szene und da er den Wettbewerb [triangles Beatmapping Contest](/wiki/Contests/triangles_Beatmapping_Contest) gewann.

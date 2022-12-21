@@ -10,6 +10,8 @@ tags:
   - game modifier
   - modificateur de jeu
   - jeu auto
+outdated_translation: true
+outdated_since: b4b151efd01d5d964baf3e101672b4a41a24ec4b
 ---
 
 # Le mod Auto
