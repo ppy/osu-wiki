@@ -17,9 +17,9 @@ tags:
 
 ![玩家 HappyStick 在个人主页上展示的奖牌截图](img/HappyStick.png "在官网上，主页奖牌显示在头像和用户名下面")
 
-**主页奖牌** （有时被称为*牌子*、*奖牌*，俗称为*狗牌*）是展示在玩家个人主页上，因为取得了某些成绩而被颁发的小图片。它们最常是作为[锦标赛](/wiki/Tournaments)和[竞赛](/wiki/Contests)附带的奖品，也可以作为[社区贡献者](/wiki/People/Community_Contributors)、[聚光灯](/wiki/Beatmap_Spotlights#段位奖励)、或是对加入团队足够久玩家的奖励，从而颁发给玩家们。
+**主页奖牌** （有时被称为*牌子*、*奖牌*，俗称为*狗牌*）是展示在玩家个人主页上，因为取得了某些成绩而被颁发的小图片。它们最常是作为[锦标赛](/wiki/Tournaments)和[竞赛](/wiki/Contests)附带的奖品，也可以作为[社区贡献者](/wiki/People/Community_Contributors)、[聚光灯](/wiki/Beatmap_Spotlights#段位奖励)、或是对加入团队足够久玩家的奖励而颁发给玩家们。
 
-光标悬停在奖牌上时，会弹出一个小提示，它会告知你这块奖牌是如何颁发的。
+光标悬停在奖牌上时，会弹出一个小提示，它会告知你这块奖牌是为何颁发的。
 
 ## 比赛选种 (Seeding)
 
@@ -33,7 +33,7 @@ tags:
 
 旧版官网的多块主页奖牌会在玩家的名称与国家/地区旗之间垂直排列，而不像新版官网一样，在页面的一个板块内水平排列。
 
-旧版官网的这种设计的一个副作用是，当玩家获得了大量的主页奖牌，那么无法扩展的[玩家主页](/wiki/osu!supporter#可编辑的个人资料区块)高度限制将被打破。虽然这属于官网设计的意外，但却成了锦标赛界的一个笑料。<!-- More example userpages beyond Toy would be nice, else "running gag" doesn't have a source. -clayton --> ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) 在一条热门推特上提到了这一点，并展示出他截至发推之前所获得的大多数主页奖牌记录。<!-- I couldn't find a definitive source for this but I'm fairly certain that was part of the joke. Toy was the first to reach 10 badges about a year before this, and he was tied with DigitalHypno at 20 a few months later. Please add a source as a reference if you can find one! -clayton -->
+旧版官网的这种设计的一个副作用是，当玩家获得了大量的主页奖牌，那么无法扩展的[玩家主页](/wiki/osu!supporter#可编辑的个人资料区块)高度限制将被打破。虽然这属于官网设计的意外，但却成了锦标赛界的一个笑料。<!-- More example userpages beyond Toy would be nice, else "running gag" doesn't have a source. -clayton --> ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) 在一条热门推文上提到了这一点，并展示出他截至发推之前所获得的大多数主页奖牌记录。<!-- I couldn't find a definitive source for this but I'm fairly certain that was part of the joke. Toy was the first to reach 10 badges about a year before this, and he was tied with DigitalHypno at 20 a few months later. Please add a source as a reference if you can find one! -clayton -->
 
 ## 冷知识
 
