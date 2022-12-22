@@ -17,7 +17,7 @@ tags:
 
 以下列出的玩家是 **osu! 团队** 的核心成员，他们致力于给大家带来更有趣的游戏。
 
-| 名称 | 职责 <!-- TODO: "Featured Artist outreach" isn't a role but I'm not sure how to write it as one... --> |
+| 名称 | 职责 |
 | :-- | :-- |
 | ::{ flag=AU }:: **[peppy](https://osu.ppy.sh/users/2)** | 项目负责人 |
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | 摸图和作图领域顾问 |
@@ -37,8 +37,8 @@ tags:
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | 秩序维护员 |
 | ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) | osu! 开发者、osu!mania 社区喜爱评估者、bug 杀手（测试工程师） |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | 秩序维护员、锦标赛援助 |
-| ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) | 摸图和作图领域顾问 |
 | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | 内容审核和社区顾问 |
+| ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) | 摸图和作图领域顾问 |
 | ::{ flag=AU }:: [Zallius](https://osu.ppy.sh/users/55) | 濒危物种（团队吉祥物） |
 
 ## 用户组
@@ -58,8 +58,6 @@ tags:
 
 ## 不活跃的核心团队成员
 
-<!-- Jim is the only person here that has never had an osu! profile (PR #4611) -->
-
 | 名称 | 职责 |
 | :-- | :-- |
 | ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) | 秩序维护员和援助者、萌版人物设计。[Barrel Roll Weekly](http://brw.twinkfish.com/) |
@@ -71,7 +69,7 @@ tags:
 | ::{ flag=US }:: [HappyStick](https://osu.ppy.sh/users/256802) | osu! Coffee Hour 主办、世界杯比赛直播员、锦标赛组织者 |
 | ::{ flag=NL }:: [Intermezzo](https://osu.ppy.sh/users/136842) | osu! 开发者、osz2/p2p 后端开发者 |
 | ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) | 摸图和作图领域顾问 |
-| ::{ flag=US }:: Jim | 原版网站设计者、早期的托管服务器提供者。[Brave New Games](http://www.bravegamer.com/) |
+| ::{ flag=US }:: [Datawalke](https://osu.ppy.sh/users/142) | 原版网站设计者、早期的托管服务器提供者。[Brave New Games](http://www.bravegamer.com/) |
 | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | 世界杯比赛组织者与管理员 |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | 世界杯比赛组织者与管理员、QAT 领头、社区管理员 |
 | ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | 优秀的皮肤设计者 iconset 和 默认皮肤的贡献者。[DeviantArt](https://luigihann.deviantart.com/) |
