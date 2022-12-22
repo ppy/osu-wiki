@@ -114,4 +114,4 @@ Catcher 可以左右移动，而水果会从上落到下。Catcher 不能越过�
 
 - 在 2012 年 4 月 10 号前，osu!catch 模式的谱面都不能被 Rank 或包含在 Ranked 谱面当中。但现在有了变化，谱师可以制作 osu!catch 模式的谱面，跟随相关规则即有机会 Rank。目前规则的制定还在起步阶段，但是随着 osu!catch 玩家的反馈和 Ranked 谱面越来越多，规则也将会慢慢成长，最终和 osu! 模式的规则一样充分具体。
 - 第一张包含至少一个 osu!catch 谱面的 Ranked 谱面为 [Yousei Teikoku - Dare so Ka no Gekka (TV Size) (NatsumeRin)，osu!catch 难度由 Uran 客串制作](https://osu.ppy.sh/beatmapsets/13676)。
-- 第一张 Rank 的仅 osu!catch 模式谱面为 [Rita - Hajimari no Toki (Deif)](https://osu.ppy.sh/beatmapsets/91485)。
+- 第一张上架的 osu!catch 专谱为 [Rita - Hajimari no Toki (Deif)](https://osu.ppy.sh/beatmapsets/91485)。
