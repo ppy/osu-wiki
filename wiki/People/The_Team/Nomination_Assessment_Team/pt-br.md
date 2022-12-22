@@ -70,7 +70,9 @@ A [página do grupo de usuário da Equipe de Avaliação de Nomeação](https://
 | Nome | Línguas adicionais | Responsabilidades primárias |
 | :-- | :-- | :-- |
 | ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | Alemão | Avaliação |
+| ::{ flag=UK }:: [Dusk-](https://osu.ppy.sh/users/6092181) | Urdu, um pouco de árabe | Avaliação |
 | ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733) | Cantonês, chinês | Avaliação |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Árabe, francês, um pouco de italiano | Avaliação |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | Avaliação |
 
 ### osu!catch

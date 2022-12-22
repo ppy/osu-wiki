@@ -5,8 +5,6 @@ tags:
   - Seasonal Spotlights
   - 月赛
   - 赛季
-outdated_since: 8c02866257b6dbfeaee1d114a905c0bd8e5e3828
-outdated_translation: true
 ---
 
 # 聚光灯赛季
@@ -18,3 +16,4 @@ outdated_translation: true
 - [2022 冬](2022_Winter)
 - [2022 春](2022_Spring)
 - [2022 夏](2022_Summer)
+- [2023 冬](2023_Winter)
