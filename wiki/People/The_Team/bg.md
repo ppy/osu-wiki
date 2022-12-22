@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: e55d19c5048d09bf313e20ed37b9f1b84fbfe3e2
 no_native_review: true
 tags:
   - osu! staff
@@ -59,8 +61,6 @@ tags:
 
 ## Неактивни основни членове от екип
 
-<!-- Jim is the only person here that has never had an osu! profile (PR #4611) -->
-
 | Име | Роля |
 | :-- | :-- |
 | ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) | Пазител на общност и помощник, чиби артист. [Barrel Roll Weekly](http://brw.twinkfish.com/) |
@@ -70,7 +70,7 @@ tags:
 | ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | osu! разработчик, предостави IRC интеграцията за чат в игра, поддръжка на сайт. [Блог](http://blog.echo.sh/) |
 | ::{ flag=US }:: [HappyStick](https://osu.ppy.sh/users/256802) | osu! Coffee Hour домакин, стриймва World Cup, организира турнири |
 | ::{ flag=NL }:: [Intermezzo](https://osu.ppy.sh/users/136842) | osu! разработчик, предостави osz2 и p2p инфраструктура |
-| ::{ flag=US }:: Jim | Дизайнер на оригиналния сайт, предостави хостинг в ранните дни. [Brave New Games](http://www.bravegamer.com/) |
+| ::{ flag=US }:: [Datawalke](https://osu.ppy.sh/users/142) | Дизайнер на оригиналния сайт, предостави хостинг в ранните дни. [Brave New Games](http://www.bravegamer.com/) |
 | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | Организира и администрира World Cup |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Организира и администрира World Cup, QAT ръководител, обществен управител |
 | ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | Дизайнер на епични облици, има принос за основния облик и икони [DeviantArt](https://luigihann.deviantart.com/) |

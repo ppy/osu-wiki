@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 64ccf992af33530aa61a24276cdca20d892b7790
----
-
 # Concours
 
 Cette section est dédiée aux concours organisés par la communauté d'osu!.
@@ -170,7 +165,7 @@ Le **Fan Art Contest** est un concours de dessin dans lequel les artistes partic
 | [#17 (Winter 2018)](https://osu.ppy.sh/home/news/2018-11-19-winter-2018-fanart-contest) | Hiver | ::{ flag=PL }:: [Chiruuu](https://osu.ppy.sh/users/8911572) | ::{ flag=VN }:: [PlsRyder](https://osu.ppy.sh/users/3457622) | ::{ flag=US }:: [Shuuzo](https://osu.ppy.sh/users/3661521) | [#1](https://osu.ppy.sh/home/news/2018-12-12-winter-2018-is-here) |
 | [#18 (Spring 2019)](https://osu.ppy.sh/home/news/2019-05-10-spring-2019-fanart-contest) | Printemps | ::{ flag=US }:: [Tofumang](https://osu.ppy.sh/users/4817223) | ::{ flag=FI }:: [Sunako](https://osu.ppy.sh/users/2801166) | ::{ flag=CH }:: [Pvtz](https://osu.ppy.sh/users/4698044) | [#1](https://osu.ppy.sh/home/news/2019-06-03-spring-2019-fanart-contest-results) |
 | [#19 (Summer 2019)](https://osu.ppy.sh/home/news/2019-07-12-summer-2019-fanart-contest) | Été | ::{ flag=FI }:: [Sunako](https://osu.ppy.sh/users/2801166) | ::{ flag=CH }:: [ItsBluu](https://osu.ppy.sh/users/6946083) | ::{ flag=MY }:: [xxxxxx2800](https://osu.ppy.sh/users/4084853) | [#1](https://osu.ppy.sh/home/news/2019-08-08-summer-2019-fanart-contest-results) |
-| [#20 (A Most Manic Art Contest)](https://osu.ppy.sh/home/news/2019-09-06-a-most-manic-contest) | Un concours d'Art des plus maniaques | ::{ flag=US }:: [Tofumang](https://osu.ppy.sh/users/4817223) | ::{ flag=HK }:: [crystalsuicune](https://osu.ppy.sh/users/9974) | [#1](https://osu.ppy.sh/home/news/2019-10-21-most-manic-art-contest-voting-results) | [#1](https://osu.ppy.sh/community/contests/80) |
+| [#20 (A Most Manic Art Contest)](https://osu.ppy.sh/home/news/2019-09-06-a-most-manic-contest) | Design de la Mascotte osu!mania | ::{ flag=US }:: [Tofumang](https://osu.ppy.sh/users/4817223) | ::{ flag=SG }:: [Hecatia](https://osu.ppy.sh/users/8244635) | ::{ flag=HK }:: [crystalsuicune](https://osu.ppy.sh/users/9974) | [#1](https://osu.ppy.sh/home/news/2019-10-21-most-manic-art-contest-voting-results) |
 | [#21 (Halloween 2019)](https://osu.ppy.sh/home/news/2019-10-09-halloween-fanart-contest) | Halloween | ::{ flag=FI }:: [Sunako](https://osu.ppy.sh/users/2801166) | ::{ flag=NZ }:: [SJPumpkin](https://osu.ppy.sh/users/4840900) | ::{ flag=NL }:: [157](https://osu.ppy.sh/users/9315038) | [#1](https://osu.ppy.sh/home/news/2019-10-31-osu-spooktacular-halloween-special) |
 | [#22 (Winter 2019)](https://osu.ppy.sh/home/news/2019-11-12-winter-2019-fanart-contest) | Hiver | ::{ flag=NL }:: [157](https://osu.ppy.sh/users/9315038) | ::{ flag=US }:: [Asatte](https://osu.ppy.sh/users/12323239) | ::{ flag=US }:: [Tofumang](https://osu.ppy.sh/users/4817223) | [#1](https://osu.ppy.sh/home/news/2019-12-10-winter-is-here) |
 | [#23 (Spring 2020)](https://osu.ppy.sh/home/news/2020-04-02-spring-indoors-2020-fanart-contest) | Activités intérieures | ::{ flag=US }:: [TofuMang](https://osu.ppy.sh/users/4817223) | ::{ flag=MY }:: [xxxxxx2800](https://osu.ppy.sh/users/4084853) | ::{ flag=GB }:: [snowyani2000](https://osu.ppy.sh/users/2691590) | [#1](https://osu.ppy.sh/home/news/2020-04-24-spring-indoors-2020-fanart-contest-results) |
@@ -405,6 +400,16 @@ La **Newspaper Cup** est un concours de mapping similaire à la Pending Cup, mai
 | :-- | :-: | :-- | :-- | :-- | :-- |
 | Vocal[^newspaper-cup-7-vocal] | ![osu!][osu!] | ::{ flag=EE }:: [Keqing](https://osu.ppy.sh/users/8501291) | ::{ flag=US }:: [Cubby](https://osu.ppy.sh/users/10914582) | ::{ flag=TW }:: [Hey lululu](https://osu.ppy.sh/users/4086497) | [#1](https://osu.ppy.sh/community/forums/topics/1274667) |
 | Instrumentale[^newspaper-cup-7-instrumental] | ![osu!][osu!] | ::{ flag=CA }:: [Kyumo](https://osu.ppy.sh/users/14689984) | ::{ flag=US }:: [- ascended -](https://osu.ppy.sh/users/4564285) | ::{ flag=CL }:: [Sunazuka Akira](https://osu.ppy.sh/users/8846632) | [#1](https://osu.ppy.sh/community/forums/topics/1274667) |
+
+### Russian Community Beatmapping Contest
+
+La **Russian Community Beatmapping Contest** est un concours de mapping destiné aux membres de la communauté russophone, sans restriction de pays spécifique, ce qui signifie que toute personne parlant la langue russe peut participer.
+
+| N° du concours | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] | Résultats |
+| :-: | :-- | :-- | :-- | :-- |
+| [#1](https://osu.ppy.sh/community/forums/topics/266652) | ::{ flag=RU }:: [Reiji-RJ](https://osu.ppy.sh/users/305389) | ::{ flag=RU }:: [fergas](https://osu.ppy.sh/users/3144542) | ::{ flag=RU }:: [Quashqai](https://osu.ppy.sh/users/2351223) | [Link](https://osu.ppy.sh/community/forums/topics/266652?n=73) |
+| [#2](https://osu.ppy.sh/community/forums/topics/475873) | ::{ flag=RU }:: [Reiji-RJ](https://osu.ppy.sh/users/305389) | ::{ flag=RU }:: [Reya](https://osu.ppy.sh/users/5960077) | ::{ flag=RU }:: [riffy](https://osu.ppy.sh/users/597957) | [Link](https://osu.ppy.sh/community/forums/topics/475873?n=91) |
+| [#3](https://osu.ppy.sh/community/forums/topics/1621520) | ::{ flag=RU }:: [Shikoruto](https://osu.ppy.sh/users/11665315) | ::{ flag=RU }:: [Aphestra](https://osu.ppy.sh/users/11949191) | ::{ flag=RU }:: [Vitas2222](https://osu.ppy.sh/users/11742599) | [Link](https://osu.ppy.sh/community/forums/topics/1621520?n=34) |
 
 ## Notes
 

@@ -4,7 +4,8 @@ Avec une grande variété de musique disponible, la plupart d'entre elles pourro
 
 - Fortement politisées
 - Promotrice de tension ou de division raciale
-- Extrêmement et insupportablement fort ou excessivement écrêté
+- Extrêmement et insupportablement fort
+- Modifiées de façon à contenir une coupure audible ou une distorsion non voulue par l'artiste
 
 Veuillez noter que les musiques au contenu explicite sont [couvertes par des règles différentes](/wiki/Rules/Explicit_Content).
 
