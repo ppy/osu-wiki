@@ -104,7 +104,7 @@
 - **应使用[时间距离-空间距离等比例设定](/wiki/Mapping_techniques/Time-distance_equality)。** 如果为了变奏时在空间上把物件分开放置，则可以适当地变速。若物件时间上相隔大于等于 1 拍 (1/1)，从而导致它们在空间上有非常宽的距离时，也可以无需精确地使用时间距离-空间距离等比例设定。
 - **当使用[间距锁定 (DS)](/wiki/Client/Beatmap_editor/Distance_snap) 时，尽量保持在 0.8x-1.3x。** 太高或太低的值，搭配上此难度分段的[滑条速度](/wiki/Hit_object/Slider_velocity)可能会很违和。为了避免物件之间互相[重叠](/wiki/Mapping_techniques/Overlap)，可以适当增大此值。但如果经常需要增大此值避免重叠，则应同时考虑增加谱面的滑条速度。
 - **谱面物件密度应主要由 1/1 拍节奏，偶尔的 1/2 拍节奏，或者更慢的节奏组成。**
-- **避免圆圈、滑条头、滑条尾之间互相[重叠](/wiki/Mapping_techniques/Overlap)。** 这会迷惑新玩家，但相隔 1/2 拍的物件由于使用 [distance snap](/wiki/Client/Beatmap_editor/Distance_snap) 而导致的物件重叠则例外。
+- **避免圆圈、滑条头、滑条尾之间互相[重叠](/wiki/Mapping_techniques/Overlap)。** 这会迷惑新玩家，但相隔 1/2 拍的物件由于使用 [间距锁定](/wiki/Client/Beatmap_editor/Distance_snap) 而导致的物件重叠则例外。
 - **避免使用一长串间隔 1/2 拍的物件。** 跑火车式的长串物件之间的大量[重叠](/wiki/Mapping_techniques/Overlap)会迷惑新玩家，难以读图。
 - **避免使用多次折返的 1/2 拍滑条。** 因为后续的折返箭头显示的时间过短，新玩家会很难读图。
 - **避免全滑条段落。** 对新玩家来说，连续击打大量的滑条会非常累。此时应使用圆圈或放置短休息段来降低密度。
