@@ -1,8 +1,13 @@
 ---
 layout: main_page
-outdated_translation: true
-outdated_since: 1da34ad18aa8565e779e579594fa8c606ee00808
 ---
+
+<div class="wiki-main-page__blurb">
+欢迎来到 osu!wiki，一个包含大量 osu! 相关信息的开源知识库。
+</div>
+
+<div class="wiki-main-page__panels">
+<div class="wiki-main-page-panel wiki-main-page-panel--full">
 
 # 新手入门
 

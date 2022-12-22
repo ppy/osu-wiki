@@ -1,8 +1,15 @@
 ---
 layout: main_page
-outdated_translation: true
-outdated_since: 1da34ad18aa8565e779e579594fa8c606ee00808
 ---
+
+<!-- Do not add any empty lines inside this div. -->
+
+<div class="wiki-main-page__blurb">
+Selamat datang di osu! wiki, sebuah basis pengetahuan open-source yang mengandung berbagai informasi seputar segala sesuatu yang berhubungan dengan osu!.
+</div>
+
+<div class="wiki-main-page__panels">
+<div class="wiki-main-page-panel wiki-main-page-panel--full">
 
 # Pendahuluan
   

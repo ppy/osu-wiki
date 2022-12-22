@@ -1,8 +1,15 @@
 ---
 layout: main_page
-outdated_translation: true
-outdated_since: 1da34ad18aa8565e779e579594fa8c606ee00808
 ---
+
+<!-- Do not add any empty lines inside this div. -->
+
+<div class="wiki-main-page__blurb">
+osu!に関する様々な情報を集めたプロジェクト、osu! wikiへようこそ。
+</div>
+
+<div class="wiki-main-page__panels">
+<div class="wiki-main-page-panel wiki-main-page-panel--full">
 
 # はじめに
 

@@ -1,9 +1,14 @@
 ---
 layout: main_page
 no_native_review: true
-outdated_translation: true
-outdated_since: 1da34ad18aa8565e779e579594fa8c606ee00808
 ---
+
+<div class="wiki-main-page__blurb">
+Willkommen zum osu!-Wiki. Ein Projekt, das eine große Reichweite an osu!-basierten Informationen beinhaltet.
+</div>
+
+<div class="wiki-main-page__panels">
+<div class="wiki-main-page-panel wiki-main-page-panel--full">
 
 # Erste Schritte
 
