@@ -169,7 +169,7 @@ Daftar anggota osu! Alumni selengkapnya juga dapat dilihat pada [laman grup osu!
 | ::{ flag=PH }:: [NoHitter](https://osu.ppy.sh/users/124455) | BAT |
 | ::{ flag=US }:: [nuudles](https://osu.ppy.sh/users/21312) | osu!dev |
 | ::{ flag=CN }:: [Nymph](https://osu.ppy.sh/users/601990) | BAT |
-| ::{ flag=CN }:: [Nyquill](https://osu.ppy.sh/users/682935) | BAT, GMT |
+| ::{ flag=CA }:: [Nyquill](https://osu.ppy.sh/users/682935) | BAT, GMT |
 | ::{ flag=AU }:: [Oinari-sama](https://osu.ppy.sh/users/405508) | Chat Moderator, Support Team |
 | ::{ flag=TH }:: [orioncomet](https://osu.ppy.sh/users/104827) | BAT |
 | ::{ flag=FI }:: [Orkel](https://osu.ppy.sh/users/39385) | Chat Moderator |

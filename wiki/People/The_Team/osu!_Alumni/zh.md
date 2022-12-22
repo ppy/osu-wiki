@@ -176,7 +176,7 @@ tags:
 | ::{ flag=PH }:: [NoHitter](https://osu.ppy.sh/users/124455) | BAT |
 | ::{ flag=US }:: [nuudles](https://osu.ppy.sh/users/21312) | osu! 开发团队 |
 | ::{ flag=CN }:: [Nymph](https://osu.ppy.sh/users/601990) | BAT |
-| ::{ flag=CN }:: [Nyquill](https://osu.ppy.sh/users/682935) | BAT，GMT |
+| ::{ flag=CA }:: [Nyquill](https://osu.ppy.sh/users/682935) | BAT，GMT |
 | ::{ flag=AU }:: [Oinari-sama](https://osu.ppy.sh/users/405508) | 聊天管理员，支持团队 |
 | ::{ flag=TH }:: [orioncomet](https://osu.ppy.sh/users/104827) | BAT |
 | ::{ flag=FI }:: [Orkel](https://osu.ppy.sh/users/39385) | 聊天管理员 |

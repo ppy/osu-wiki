@@ -169,7 +169,7 @@ La [pagina del grupo osu! Alumni](https://osu.ppy.sh/groups/16) menciona a todos
 | ::{ flag=PH }:: [NoHitter](https://osu.ppy.sh/users/124455) | BAT |
 | ::{ flag=US }:: [nuudles](https://osu.ppy.sh/users/21312) | osu!dev |
 | ::{ flag=CN }:: [Nymph](https://osu.ppy.sh/users/601990) | BAT |
-| ::{ flag=CN }:: [Nyquill](https://osu.ppy.sh/users/682935) | BAT, GMT |
+| ::{ flag=CA }:: [Nyquill](https://osu.ppy.sh/users/682935) | BAT, GMT |
 | ::{ flag=AU }:: [Oinari-sama](https://osu.ppy.sh/users/405508) | Moderador del chat, equipo de soporte |
 | ::{ flag=TH }:: [orioncomet](https://osu.ppy.sh/users/104827) | BAT |
 | ::{ flag=FI }:: [Orkel](https://osu.ppy.sh/users/39385) | Moderador del chat |
