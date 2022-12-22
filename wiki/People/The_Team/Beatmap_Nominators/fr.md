@@ -98,7 +98,7 @@ Les listes ci-dessous indiquent dans quel(s) mode(s) de jeu chaque Beatmap Nomin
 | ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  |
 | ::{ flag=CN }:: [Yugu](https://osu.ppy.sh/users/3161834) | Chinois, japonais |
 | ::{ flag=IT }:: [Zekk](https://osu.ppy.sh/users/9704802) | Italien |
-| ::{ flag=SE }:: [Zer0-](https://osu.ppy.sh/users/11038155) | Suédois |
+| ::{ flag=SE }:: [Zer0-](https://osu.ppy.sh/users/4260033) | Suédois |
 
 #### osu!taiko
 

@@ -101,7 +101,7 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  |
 | ::{ flag=CN }:: [Yugu](https://osu.ppy.sh/users/3161834) | Chino, japonés |
 | ::{ flag=IT }:: [Zekk](https://osu.ppy.sh/users/9704802) | Italiano |
-| ::{ flag=SE }:: [Zer0-](https://osu.ppy.sh/users/11038155) | Sueco |
+| ::{ flag=SE }:: [Zer0-](https://osu.ppy.sh/users/4260033) | Sueco |
 
 #### osu!taiko
 

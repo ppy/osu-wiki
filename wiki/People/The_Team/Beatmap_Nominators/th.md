@@ -100,7 +100,7 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  |
 | ::{ flag=CN }:: [Yugu](https://osu.ppy.sh/users/3161834) | จีน, ญี่ปุ่น |
 | ::{ flag=IT }:: [Zekk](https://osu.ppy.sh/users/9704802) | อิตาลี |
-| ::{ flag=SE }:: [Zer0-](https://osu.ppy.sh/users/11038155) | สวีเดน |
+| ::{ flag=SE }:: [Zer0-](https://osu.ppy.sh/users/4260033) | สวีเดน |
 
 #### osu!taiko
 

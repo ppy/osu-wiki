@@ -100,7 +100,7 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 | ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  |
 | ::{ flag=CN }:: [Yugu](https://osu.ppy.sh/users/3161834) | 汉语，日语 |
 | ::{ flag=IT }:: [Zekk](https://osu.ppy.sh/users/9704802) | 意大利语 |
-| ::{ flag=SE }:: [Zer0-](https://osu.ppy.sh/users/11038155) | 瑞典语 |
+| ::{ flag=SE }:: [Zer0-](https://osu.ppy.sh/users/4260033) | 瑞典语 |
 
 #### osu!taiko
 

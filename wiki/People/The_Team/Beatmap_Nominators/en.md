@@ -100,7 +100,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  |
 | ::{ flag=CN }:: [Yugu](https://osu.ppy.sh/users/3161834) | Chinese, Japanese |
 | ::{ flag=IT }:: [Zekk](https://osu.ppy.sh/users/9704802) | Italian |
-| ::{ flag=SE }:: [Zer0-](https://osu.ppy.sh/users/11038155) | Swedish |
+| ::{ flag=SE }:: [Zer0-](https://osu.ppy.sh/users/4260033) | Swedish |
 
 #### osu!taiko
 
