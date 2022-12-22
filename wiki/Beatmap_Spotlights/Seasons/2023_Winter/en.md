@@ -14,7 +14,7 @@ tags:
 | Season start | Dec 6, 2022 |
 | Playlist lobby: Playlist A | Dec 6 - Dec 20, 2022 |
 | Playlist lobby: Playlist B | Dec 20 - Jan 3, 2023 |
-| Playlist lobby: Playlist C | Jan 3 - Sep 15, 2023 |
+| Playlist lobby: Playlist C | Jan 3 - Jan 15, 2023 |
 | Playlist lobby: Playlist A | Jan 15 - Jan 22, 2023 |
 | Playlist lobby: Playlist B | Jan 22 - Jan 29, 2023 |
 | Playlist lobby: Playlist C | Jan 29 - Feb 5, 2023 |
