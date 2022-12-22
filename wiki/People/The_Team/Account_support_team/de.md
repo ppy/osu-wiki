@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Account-Support-Team
 
 *Für ein Team, welches bestimmte Subforen moderiert, siehe: [Support-Team](/wiki/People/The_Team/Support_Team)*
