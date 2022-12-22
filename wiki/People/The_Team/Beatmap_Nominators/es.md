@@ -1,23 +1,21 @@
 ---
-outdated_since: e6d2ac5ef1b2877f5cddc5dd041f7b9c4511ed82
-outdated_translation: true
+no_native_review: true
 tags:
   - BN
   - BNG
-no_native_review: true
 ---
 
 # Beatmap Nominators
 
 *Véase también: [Reglas de los Beatmap Nominators](Rules), [Expectativas para los Beatmap Nominators](Expectations), [Información general para Beatmap Nominators](General_Information), y [Convertiéndose en un Beatmap Nominator](Becoming_a_Beatmap_Nominator)*
 
-Los **Beatmap Nominators** (***BN***) son un grupo a cargo de [nominar beatmaps](/wiki/Beatmap_ranking_procedure). Ellos tienen un nombre morado en los foros y en [discuciones de beatmaps](/wiki/Beatmap_discussion).
+Los **Beatmap Nominators** (***BN***) son un grupo a cargo de [nominar beatmaps](/wiki/Beatmap_ranking_procedure). Ellos tienen un nombre morado en los foros y en las [discusiones de beatmaps](/wiki/Beatmap_discussion).
 
-## Roles y Responsabilidades
+## Roles y responsabilidades
 
-Los miembros de los Beatmap Nominators son principalmente responsables de [modear](/wiki/Modding) y aprobar los [beatmaps pendientes](/wiki/Beatmap/Category#trabajos-en-progreso-y-pendientes) en el ciclo de clasificación. Los Beatmap Nominators son las personas a las que acudir para cualquier ayuda necesitada en cuanto al mapeo y al modding. Cualquier Beatmap Nominator puede [vetar un beatmap](Beatmap_Veto) si sienten que el mapa nominado tiene complicaciones que deben ser arreglados, las cuales no son violaciones directas del Criterio de Clasificación.
+Los miembros de los Beatmap Nominators son principalmente responsables de [modear](/wiki/Modding) y aprobar los [beatmaps pendientes](/wiki/Beatmap/Category#trabajos-en-progreso-y-pendientes) en el ciclo de clasificación. Los Beatmap Nominators son las personas a las que hay que acudir para pedir consejos o solicitudes sobre cualquier cosa relacionada con mapping y modding. Cualquier Beatmap Nominator puede [vetar un beatmap](Beatmap_Veto) si sienten que el mapa nominado tiene complicaciones que deben ser arreglados, las cuales no son violaciones directas del Criterio de Clasificación.
 
-Además, se espera que todos los Beatmap Nominators se adhieran a un conjunto flexible de ideales centrados en el servicio a la comunidad en general dirigiendo su atención a una amplia variedad de mapas y mapeadores, y esforzándose por mejorar constantemente su oficio, como se describe en [Expectativas para los Beatmap Nominators](Expectations).
+Además, se espera que todos los Beatmap Nominators se adhieran a un conjunto flexible de ideales centrados en el servicio a la comunidad en general dirigiendo su atención a una amplia variedad de mapas y mappers, y esforzándose por mejorar constantemente su oficio, como se describe en [las Expectativas para los Beatmap Nominators](Expectations).
 
 Los miembros de los Beatmap Nominators están divididos en dos grupos: miembros completos y miembros provisionales.
 
@@ -35,7 +33,7 @@ La provisión es usada para monitorizar nuevos o relativos Beatmap Nominators m�
 
 Los nuevos miembros de los Beatmap Nominators empiezan con un periodo largo de prueba de un mes. Si su comportamiento y nominaciones son satisfactorias, serán promovidos a los Beatmap Nominators completos después de una [evaluación](/wiki/People/The_Team/Nomination_Assessment_Team/Evaluations) positiva. De otra manera, seguirán en el periodo de prueba por otro mes o serán removidos de los Beatmap Nominators.
 
-Cuando un Beatmap Nominator es puesto a prueba, no pueden ser puestos nuevamente a prueba por la misma razón. Por ejemplo, si un Beatmap Nominator es puesto a prueba por mal comportamiento, será removido de los Beatmap Nominators si presentan el mismo mal comportamiento de nuevo, incluso si es que son Beatmap Nominators completos en su segunda infracción.
+Cuando un Beatmap Nominator es puesto a prueba, no puede ser puesto a prueba de nuevo por la misma razón durante aproximadamente un año. Por ejemplo, si un Beatmap Nominator es puesto a prueba por mal comportamiento, será eliminado de los Beatmap Nominators si vuelve a mostrar el mismo mal comportamiento recientemente, incluso si es un Beatmap Nominator completo durante la segunda infracción.
 
 ## Miembros del equipo
 
