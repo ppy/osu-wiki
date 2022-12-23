@@ -1,6 +1,6 @@
 # Formato
 
-*Para los estándares de escritura, véase: [Criterios de estilo del artículo/Redacción](../Writing)*\
+*Para los estándares de escritura, véase: [Criterios de estilo para artículos/Redacción](../Writing)*\
 *Aviso: Este artículo utiliza [RFC 2119](https://tools.ietf.org/html/rfc2119) para describir los niveles de exigencia.*
 
 ## Configuraciones regionales
