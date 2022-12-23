@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: eba261b5bbbc70e338a61e8658c8040470402d3b
+---
+
 # 谱面审核流程
 
 *参见： [Rank（消歧义页）](/wiki/Disambiguation/Rank)*

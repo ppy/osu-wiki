@@ -7,7 +7,7 @@ no_native_review: true
 
 ![BanchoBot's gebruikerskaart](img/BanchoBot.jpg "BanchoBot's gebruikerskaart")
 
-BanchoBot is een bot (d.w.z. een verzameling van opdrachten met geautomatiseerde antwoorden) die mensen in de chat helpt door bepaalde informatie weer te geven en spelgerelateerde berichten aan te kondigen. Hij werd geprogrammeerd door [Echo49](https://osu.ppy.sh/users/431) en is de host van de [Bancho IRC](/wiki/Community/Internet_Relay_Chat) (Internet Relay Chat). BanchoBot heeft ook z’n eigen [osu! profile](https://osu.ppy.sh/users/3) en [Twitteraccount](https://twitter.com/banchoboat)!
+BanchoBot is een bot (d.w.z. een verzameling van opdrachten met geautomatiseerde antwoorden) die mensen in de chat helpt door bepaalde informatie weer te geven en spelgerelateerde berichten aan te kondigen. Hij werd geprogrammeerd door ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) en is de host van de [Bancho IRC](/wiki/Community/Internet_Relay_Chat) (Internet Relay Chat). BanchoBot heeft ook z’n eigen [osu! profile](https://osu.ppy.sh/users/3) en [Twitteraccount](https://twitter.com/banchoboat)!
 
 ## Opdrachten
 

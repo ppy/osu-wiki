@@ -1157,6 +1157,10 @@
 "submission/beatmap_ranking_procedure":  "Beatmap_ranking_procedure"
 "submissions/beatmap_ranking_procedure": "Beatmap_ranking_procedure"
 
+"nom": "Beatmap_ranking_procedure#nominations"
+"nomination":  "Beatmap_ranking_procedure#nominations"
+"nominations": "Beatmap_ranking_procedure#nominations"
+
 # Grouped osu! UCI tournaments
 "tournaments/zotcade":      "Tournaments/osu!_UCI"
 "tournaments/zotcade/2019": "Tournaments/osu!_UCI/iDOL@NSTER"

@@ -25,4 +25,5 @@ Artigos que discutem tópicos com títulos similares, devem usar a [*hatnote* "P
 - [Score](Score)
 - [Snapping](Snapping)
 - [Star](Star)
+- [Timing](Timing)
 - [Versão](Version)

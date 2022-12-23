@@ -7,7 +7,7 @@ no_native_review: true
 
 ![BanchoBot felhasználói kártyája](img/BanchoBot.jpg "BanchoBot felhasználói kártyája")
 
-BanchoBot egy bot (vagyis néhány parancs automata válaszokkal), ami a chat-en át segíti az embereket különböző információk és játékkal kapcsolatos bejelentések megjelenítésével. [Echo49](https://osu.ppy.sh/users/431) programozta, és ez a [Bancho IRC](/wiki/Community/Internet_Relay_Chat) (Internet Relay Chat) host-ja is. BanchoBot-nak van saját [osu! profilja](https://osu.ppy.sh/users/3) és [Twitter fiókja](https://twitter.com/banchoboat) is!
+BanchoBot egy bot (vagyis néhány parancs automata válaszokkal), ami a chat-en át segíti az embereket különböző információk és játékkal kapcsolatos bejelentések megjelenítésével. ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) programozta, és ez a [Bancho IRC](/wiki/Community/Internet_Relay_Chat) (Internet Relay Chat) host-ja is. BanchoBot-nak van saját [osu! profilja](https://osu.ppy.sh/users/3) és [Twitter fiókja](https://twitter.com/banchoboat) is!
 
 ## Parancsok
 
