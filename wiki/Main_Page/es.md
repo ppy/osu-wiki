@@ -59,7 +59,7 @@ Actividades: [Beatmapping](/wiki/Beatmapping) • [Técnicas para mapping](/wiki
 
 La clasificación es el proceso de obtener una tabla de clasificación para un beatmap, lo que lo hace más popular y reconocido. Descubra lo que se necesita para recorrer este camino y cómo aumentar sus posibilidades de éxito a través de las revisiones de su beatmap, así como los procedimientos de control de calidad y el proceso de clasificación.
 
-[Envío](/wiki/Submission) • [Modding](/wiki/Modding) • [Procedimiento de clasificación](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Proyecto Amado](/wiki/Community/Project_Loved)
+[Envío](/wiki/Submission) • [Modding](/wiki/Modding) • [Procedimiento de clasificación](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
 
 [Criterios de clasificación](/wiki/Ranking_Criteria): [osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania)
 
@@ -111,7 +111,7 @@ Organizaciones: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
 osu! no hubiera sido posible sin la ayuda de muchos usuarios con el desarrollo, el mantenimiento y la gestión de la comunidad: su esfuerzo, tiempo y dedicación hacen que el juego viva y prospere.
 
-[El Equipo](/wiki/People/The_Team): [Desarrolladores](/wiki/People/The_Team/Developers) • [Equipo de Moderación Global](/wiki/People/The_Team/Global_Moderation_Team) • [Equipo de Soporte](/wiki/People/The_Team/Support_Team) • [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Equipo del Proyecto Amado](/wiki/People/The_Team/Project_Loved_Team) • [Beatmap Spotlight Curators](/wiki/People/The_Team/Beatmap_Spotlight_Curators)
+[El Equipo](/wiki/People/The_Team): [Desarrolladores](/wiki/People/The_Team/Developers) • [Equipo de Moderación Global](/wiki/People/The_Team/Global_Moderation_Team) • [Equipo de Soporte](/wiki/People/The_Team/Support_Team) • [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Equipo de Project Loved](/wiki/People/The_Team/Project_Loved_Team) • [Beatmap Spotlight Curators](/wiki/People/The_Team/Beatmap_Spotlight_Curators)
 
 [Colaboradores de la comunidad](/wiki/People/Community_Contributors) • [Usuarios con títulos únicos](/wiki/People/Users_with_unique_titles) • [Comité de torneos](/wiki/People/Tournament_Committee) • [Comité de puntos de rendimiento](/wiki/People/Performance_Points_Committee)
 
