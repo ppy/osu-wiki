@@ -18,7 +18,7 @@ La **División de Vigilancia Lingüística** (coloquialmente conocida como *LSD*
 
 ## Tareas
 
-Los miembros del LSD fueron seleccionados personalmente por el equipo de osu! de la comunidad para actuar como moderadores en comunidades y subforos de menor tráfico. A diferencia de los moderadores globales, no tenían características como apodos de colores o títulos de foros personalizados. En [IRC](/wiki/Community/Internet_Relay_Chat), sin embargo, eran [operadores](/wiki/Community/Internet_Relay_Chat#why-are-some-usernames-prefixed-with-different-signs?) y podían aplicar [silencios](/wiki/Silence).
+Los miembros del LSD fueron seleccionados personalmente por el equipo de osu! de la comunidad para actuar como moderadores en comunidades y subforos de menor tráfico. A diferencia de los moderadores globales, no tenían características como apodos de colores o títulos de foros personalizados. En [IRC](/wiki/Community/Internet_Relay_Chat), sin embargo, eran [operadores](/wiki/Community/Internet_Relay_Chat#¿por-qué-algunos-nombres-de-usuario-tienen-prefijos-con-diferentes-signos?) y podían aplicar [silencios](/wiki/Silence).
 
 El LSD también sirvió como un grupo intermediario para miembros prometedores pendientes de admisión en el [Equipo de Moderación Global](/wiki/People/The_Team/Global_Moderation_Team) en ocasiones, ya que los dos grupos generalmente compartían un objetivo común y conjuntos de habilidades similares.
 
