@@ -8,7 +8,7 @@ tags:
 
 *Para las publicaciones de noticias, véase: [Criterios de estilo de las noticias](/wiki/News_styling_criteria)*
 
-Los criterios de estilo del artículo (ASC) sirven como estándares de estilo obligatorios de la osu! wiki para mantener la coherencia en la claridad, el formato y el diseño en todos los artículos, y para ayudarlos a esforzarse por lograr la gramática adecuada, la ortografía correcta y la información correcta.
+Los criterios de estilo del artículo (ASC) sirven como estándares de estilo obligatorios de la osu! wiki para mantener la coherencia en la claridad, el formato y el diseño en todos los artículos, y para ayudarles a esforzarse por una gramática adecuada, la ortografía correcta y la información correcta.
 
 Estos artículos son herramientas para ayudar durante el proceso de revisión y representan al consenso formado por los colaboradores de la osu! wiki a lo largo de los años. Dado que la wiki es un esfuerzo colaborativo llevado a cabo a través de dicho proceso, no es necesario leer o memorizar todo el ASC a la vez. Si está buscando contribuir, revise la [guía de contribución](/wiki/osu!_wiki/Contribution_guide).
 
