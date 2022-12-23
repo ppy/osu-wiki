@@ -2,8 +2,6 @@
 layout: main_page
 ---
 
-<!-- Do not add any empty lines inside this div. -->
-
 <div class="wiki-main-page__blurb">
 Bienvenido a la osu! wiki, la base de conocimientos de código abierto que contiene una amplia gama de información relacionada con osu!, un juego de ritmo gratuito.
 </div>
@@ -50,7 +48,7 @@ Todos los beatmaps de osu! son creados por la imaginación desbordante de su com
 
 Secciones: [Composición](/wiki/Client/Beatmap_editor/Compose) • [Diseño](/wiki/Client/Beatmap_editor/Design) • [Tiempo](/wiki/Client/Beatmap_editor/Timing) • [Configuración de la canción](/wiki/Client/Beatmap_editor/Song_Setup)
 
-Componentes: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Division de ritmo](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) • [Distancia de ritmo](/wiki/Client/Beatmap_editor/Distance_snap) • [Menú](/wiki/Client/Beatmap_editor/Menu) • [Carga de SB](/wiki/Client/Beatmap_editor/SB_Load) • [Líneas de tiempo](/wiki/Client/Beatmap_editor/Timelines)
+Componentes: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Divisor de ritmo](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) • [Distancia de ritmo](/wiki/Client/Beatmap_editor/Distance_snap) • [Menú](/wiki/Client/Beatmap_editor/Menu) • [Carga de SB](/wiki/Client/Beatmap_editor/SB_Load) • [Líneas de tiempo](/wiki/Client/Beatmap_editor/Timelines)
 
 Actividades: [Beatmapping](/wiki/Beatmapping) • [Técnicas para mapping](/wiki/Mapping_techniques) • [Storyboarding](/wiki/Storyboard#storyboarding) • [Skinning](/wiki/Skinning)
 
