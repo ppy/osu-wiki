@@ -55,7 +55,7 @@ Los siguientes son grupos de usuarios que están formados por miembros de la com
 | [Equipo de Moderación Global](Global_Moderation_Team) | Vigilar los foros y el chat del juego |
 | [Nomination Assessment Team](Nomination_Assessment_Team) | Administrar a los Beatmap Nominators |
 | [osu! Alumni](osu!_Alumni) | Aquellos conocidos por sus contribuciones que desde entonces se han mudado |
-| [Equipo del Proyecto Amado](Project_Loved_Team) | Reconocer los beatmaps que más le gustan a la comunidad |
+| [Equipo del Project Loved](Project_Loved_Team) | Reconocer los beatmaps que más le gustan a la comunidad |
 | [Equipo de soporte](Support_Team) | Ayuda/Asistencia para solicitar funciones |
 
 ## Miembros del equipo central inactivos
