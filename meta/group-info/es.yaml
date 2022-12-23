@@ -2,12 +2,12 @@ separator: ", "
 alumni:
   roles:
     academy: fundador de la osu!academy
-    admin: administración
+    admin: administador
     chat: moderador del chat
     dev: osu!dev
     media: creador de osu!media
     support: equipo de soporte
-    tournaments: gestión de torneos
+    tournaments: gestor de torneos
 gmt:
   all_mods: todos los moderadores
   areas:
