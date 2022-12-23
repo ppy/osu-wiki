@@ -13,7 +13,7 @@ Bienvenido a la osu! wiki, la base de conocimientos de código abierto que conti
 
 # Para empezar
 
-Artículos y guías importantes que te ayudarán a sumergirte en osu!. En caso de que algo salga mal o parezca incierto, asegúrese de visitar el [foro de ayuda](https://osu.ppy.sh/forum/5).
+Artículos y guías importantes que te ayudarán a sumergirte en osu!. En caso de que algo salga mal o parezca incierto, visite el [foro de ayuda](https://osu.ppy.sh/forum/5).
 
 [Reglas](/wiki/Rules) • [Instalación](/wiki/Client/Installation) • [Registro](/wiki/Registration) • [Centro de ayuda](/wiki/Help_centre)
 
@@ -50,7 +50,7 @@ Todos los beatmaps de osu! son creados por la imaginación desbordante de su com
 
 Secciones: [Composición](/wiki/Client/Beatmap_editor/Compose) • [Diseño](/wiki/Client/Beatmap_editor/Design) • [Tiempo](/wiki/Client/Beatmap_editor/Timing) • [Configuración de la canción](/wiki/Client/Beatmap_editor/Song_Setup)
 
-Componentes: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Divisor de golpes](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) • [Distancia de golpes](/wiki/Client/Beatmap_editor/Distance_snap) • [Menú](/wiki/Client/Beatmap_editor/Menu) • [Carga de SB](/wiki/Client/Beatmap_editor/SB_Load) • [Líneas de tiempo](/wiki/Client/Beatmap_editor/Timelines)
+Componentes: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Division de ritmo](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) • [Distancia de ritmo](/wiki/Client/Beatmap_editor/Distance_snap) • [Menú](/wiki/Client/Beatmap_editor/Menu) • [Carga de SB](/wiki/Client/Beatmap_editor/SB_Load) • [Líneas de tiempo](/wiki/Client/Beatmap_editor/Timelines)
 
 Actividades: [Beatmapping](/wiki/Beatmapping) • [Técnicas para mapping](/wiki/Mapping_techniques) • [Storyboarding](/wiki/Storyboard#storyboarding) • [Skinning](/wiki/Skinning)
 
@@ -72,7 +72,7 @@ La clasificación es el proceso de obtener una tabla de clasificación para un b
 
 Lea los procedimientos y normas que garantizan la seguridad de osu! y su comunidad, desde las licencias de música y las pautas de los medios hasta las reglas del chat y del foro.
 
-[Reglas](/wiki/Rules) • [Código de conducta del colaborador](/wiki/Contributor_Code_of_Conduct) • [Código de conducta para modding y mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)
+[Reglas](/wiki/Rules) • [Código de conducta para colaboradores](/wiki/Contributor_Code_of_Conduct) • [Código de conducta para modding y mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)
 
 Regulación de medios: [Pautas de uso de contenido](/wiki/Rules/Content_Usage_Guidelines) • [Proceso de votación de contenido](/wiki/Rules/Content_Voting_Process) • [Contenido explícito](/wiki/Rules/Explicit_Content) • [Reglas de contenido musical](/wiki/Rules/Song_Content_Rules) • [Consideraciones de contenido visual](/wiki/Rules/Visual_Content_Considerations)
 
@@ -113,7 +113,7 @@ Organizaciones: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
 osu! no hubiera sido posible sin la ayuda de muchos usuarios con el desarrollo, el mantenimiento y la gestión de la comunidad: su esfuerzo, tiempo y dedicación hacen que el juego viva y prospere.
 
-[El equipo](/wiki/People/The_Team): [Desarrolladores](/wiki/People/The_Team/Developers) • [Equipo de Moderación Global](/wiki/People/The_Team/Global_Moderation_Team) • [Equipo de Soporte](/wiki/People/The_Team/Support_Team) • [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Equipo del Proyecto Amado](/wiki/People/The_Team/Project_Loved_Team) • [Beatmap Spotlight Curators](/wiki/People/The_Team/Beatmap_Spotlight_Curators)
+[El Equipo](/wiki/People/The_Team): [Desarrolladores](/wiki/People/The_Team/Developers) • [Equipo de Moderación Global](/wiki/People/The_Team/Global_Moderation_Team) • [Equipo de Soporte](/wiki/People/The_Team/Support_Team) • [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Equipo del Proyecto Amado](/wiki/People/The_Team/Project_Loved_Team) • [Beatmap Spotlight Curators](/wiki/People/The_Team/Beatmap_Spotlight_Curators)
 
 [Colaboradores de la comunidad](/wiki/People/Community_Contributors) • [Usuarios con títulos únicos](/wiki/People/Users_with_unique_titles) • [Comité de torneos](/wiki/People/Tournament_Committee) • [Comité de puntos de rendimiento](/wiki/People/Performance_Points_Committee)
 
@@ -131,7 +131,7 @@ Interactúa con osu! a través de otras aplicaciones y medios, o contribuir a su
 
 # Wiki y metapáginas
 
-Así como casi todo por aquí, la osu! wiki está escrita y mantenido por voluntarios. SugSugiera una mejora, informe un problema o incluso escriba su propio artículo en el [repositorio osu-wiki en GitHub](https://github.com/ppy/osu-wiki).
+Así como casi todo por aquí, la osu! wiki está escrita y mantenida por voluntarios. Sugiera una mejora, informe un problema o incluso escriba su propio artículo en el [repositorio osu-wiki en GitHub](https://github.com/ppy/osu-wiki).
 
 [Historia de osu!](/wiki/History_of_osu!) • [Historia de la osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [Cronología de mapping y modding](/wiki/History_of_osu!/Mapping_and_Modding_Timeline) • [April Fools](/wiki/History_of_osu!/April_Fools)
 
