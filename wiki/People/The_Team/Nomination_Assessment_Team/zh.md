@@ -73,7 +73,7 @@ tags:
 
 *注意：除非特殊说明，所有审核评估团队 (NAT) 成员除了下列语言以外还可以使用英语进行交流。*
 
-[审核评估团队 (NAT) 成员列表](https://osu.ppy.sh/groups/7)列出了所有在任团队成员。除了下面提到的领域外，所有审核评估团队 (NAT) 成员都能够[审查谱面内的音频或视觉内容](/wiki/Rules/Visual_Content_Considerations#getting-your-image-assessed)。
+[审核评估团队 (NAT) 成员列表](https://osu.ppy.sh/groups/7)列出了所有在任团队成员。除了下面提到的领域外，所有审核评估团队 (NAT) 成员都能够[审查谱面内的音频或视觉内容](/wiki/Rules/Visual_Content_Considerations)。
 
 <!-- NOTE FOR TRANSLATORS: Translating this section is different from other parts of the osu! wiki. See https://github.com/ppy/osu-wiki/blob/master/meta/group-info/TRANSLATING.md#group-articles. -->
 
