@@ -53,7 +53,7 @@ This contest featured the re-introduction of *MBC points*, in the form of [conte
 - [Contest news article](https://osu.ppy.sh/home/news/2022-10-23-osutaiko-featured-artist-cup-3)
 - [Contest listing](https://osu.ppy.sh/community/contests/155)
 - [Discord server](https://discord.gg/jMsVqwPVrD)
-- [Results news article](https://osu.ppy.sh/home/news/2022-12-24-results-osu!taiko-featured-artist-cup-3)
+- [Results news article](https://osu.ppy.sh/home/news/2022-12-26-results-osu!taiko-featured-artist-cup-3)
 - [Results sheet](https://docs.google.com/spreadsheets/d/1qktqbLOIE3TYonUdb3RuJvBmgBZXyc6syMr5S9oB8qU/edit?usp=sharing)
 - [Results stream VOD](https://www.twitch.tv/videos/1687153575)
 - [Teams registration form](https://forms.gle/HhX6FahJyg2YapB96)
