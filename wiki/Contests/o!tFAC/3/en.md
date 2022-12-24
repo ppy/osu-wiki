@@ -42,9 +42,9 @@ This contest featured the re-introduction of *MBC points*, in the form of [conte
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter, Ranked status[^prizes-ranked], unique profile badge, 3 points |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter, Ranked status[^prizes-ranked], unique profile badge, 2 points |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter, Ranked status[^prizes-ranked], unique profile badge, 1 point |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter, Ranked status,[^prizes-ranked] unique profile badge, 3 points |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter, Ranked status,[^prizes-ranked] unique profile badge, 2 points |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter, Ranked status,[^prizes-ranked] unique profile badge, 1 point |
 
 ![o!tfac #3 badges](img/badge.png)
 
@@ -62,7 +62,7 @@ This contest featured the re-introduction of *MBC points*, in the form of [conte
 
 This contest has come to an end and resulted in the following podium:
 
-| Rank | Team | Beatmap | Judging | Judge's Impression (20) | Ranking Criteria (20) | Structure (40) | Relevance (40) | Creativity (40) | Total (standardized/raw) |
+| Rank | Team | Beatmap | Judging | Judge's Impression (20) | Ranking Criteria (20) | Structure (40) | Relevance (40) | Creativity (40) | Total (standardised/raw) |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **Code:Red** (::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721), ::{ flag=TH }:: [Kusuhara Yui](https://osu.ppy.sh/users/9582525)) | [Camellia - Kamah (Scythe)](https://osu.ppy.sh/beatmapsets/1908845) | [details](https://mappersguild.com/contests/results?submission=6368c1a8da95e26e35ce3402) | 20 | 20 | 38 | 38 | 35 | **5.26** (151) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **?XD** (::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392), ::{ flag=SG }:: [_gt](https://osu.ppy.sh/users/8301957)) | [Kikuo - Ten Sho Sho Ten Sho](https://osu.ppy.sh/beatmapsets/1908844) | [details](https://mappersguild.com/contests/results?submission=6368c1abda95e26e35ce34a6) | 19 | 19 | 36 | 37 | 37 | **4.22** (148) |

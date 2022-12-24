@@ -8,9 +8,9 @@ The battle is over! Come join us in unveiling the winners of the osu!taiko mappi
 
 ![](https://assets.ppy.sh/contests/155/header.jpg)
 
-2 months ago, the [osu!taiko Featured Artist Cup](/wiki/Contests/o!tFAC) opened its gates to the world for the [third time](https://osu.ppy.sh/home/news/2022-10-23-osutaiko-featured-artist-cup-3), and after a careful process of judging, we're finally ready to crown the winners of this iteration!
+2 months ago, the [osu!taiko Featured Artist Cup](/wiki/Contests/o!tFAC) opened its gates to the world for the [third time](https://osu.ppy.sh/home/news/2022-10-23-osutaiko-featured-artist-cup-3), and after careful deliberation, we're finally ready to crown the winners of this iteration!
 
-Before we proceed, we'd like to announce that because of the very high amount of entries, and the sheer quality of the submissions, we will be awarding the top 3 teams with badges, instead of only the winning team! Check out the [following page](/wiki/Contests/Monthly_Beatmapping_Contest#rewards) for a detailed list of the rewards.
+Before we proceed, we'd like to announce that due to the high amount of entries, and the sheer quality of the submissions, we will be awarding the **top 3 teams** with badges, instead of only the winning team! Check out the [following page](/wiki/Contests/Monthly_Beatmapping_Contest#rewards) for a detailed list of the rewards.
 
 ![](/wiki/Contests/o!tFAC/3/img/badge.png)
 
@@ -26,7 +26,7 @@ In case you missed the results livestream, but still want to (somewhat) experien
 
 ### 3rd place
 
-Don't let the cute name fool you, because team **:3** didn't pull any punches in their take of [Camellia - BAD ACCESS (FROM A MOE MAID)](https://osu.ppy.sh/beatmapsets/1908855), with [woosungko](https://osu.ppy.sh/users/14184157), the winner of the first Featured Artist Cup, and [Horiiizon](https://osu.ppy.sh/users/8071438) giving it their all to create a very enjoyable and memorable experience, which has earned them a handsome 3rd place finish!
+Don't let the cute name fool you, because team **:3** didn't pull any punches in their take of [Camellia - BAD ACCESS (FROM A MOE MAID)](https://osu.ppy.sh/beatmapsets/1908855), with [woosungko](https://osu.ppy.sh/users/14184157), the winner of the first Featured Artist Cup, and [Horiiizon](https://osu.ppy.sh/users/8071438) giving it their all to create a very enjoyable and memorable experience, which has earned them a handsome 3rd-place finish!
 
 <div align="center">
     <iframe width="95%" height="400" src="https://www.youtube.com/embed/CdX1cvdk570" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -48,15 +48,15 @@ Team **?XD**, consisted of [arcpotato](https://osu.ppy.sh/users/12842392) and [_
     <iframe width="95%" height="400" src="https://www.youtube.com/embed/fcpIgCvV3RQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-It doesn't stop there, thanks to this win, and to his unmatched performance across other official mapping contests, [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) has reached 6 [contest points](/wiki/Contests/Contest_points) and will be crowned as an **Elite Mapper**!
+It doesn't stop there. Thanks to this win, and to his unmatched performance across other official mapping contests, [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) has reached 6 [contest points](/wiki/Contests/Contest_points) and will be crowned as an **Elite Mapper**!
 
 ### Full results
 
-If you're interested in seeing the full picture, [this spreadsheet](https://docs.google.com/spreadsheets/d/1qktqbLOIE3TYonUdb3RuJvBmgBZXyc6syMr5S9oB8qU/edit?usp=sharing) contains detailed judging results for all entries that have survived screening.
+If you're interested in seeing the full picture, [this spreadsheet](https://docs.google.com/spreadsheets/d/1qktqbLOIE3TYonUdb3RuJvBmgBZXyc6syMr5S9oB8qU/edit?usp=sharing) contains detailed judging results for all entries that survived screening.
 
 ## Conclusion
 
-To everyone who've submitted an entry, or even just cheered on from the sides, thank you all for being a part of this experience and we hope you've enjoyed this iteration!
+To everyone who submitted an entry, or even just cheered on from the sides, thank you all for being a part of this experience and we hope you've enjoyed this iteration!
 
 See you next year! <3
 
