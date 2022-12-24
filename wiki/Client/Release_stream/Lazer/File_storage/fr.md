@@ -7,7 +7,7 @@ Par défaut, osu!(lazer) stocke les fichiers de beatmaps, de skins, et de replay
 - `~/Library/Application Support/osu/files` (macOS),
 - `Android/data/sh.ppy.osulazer/files/files` (Android).
 
-Sur les ordinateurs, le stockage de fichiers peut aussi être bougé dans son entièreté vers une autre emplacement, en appuyant sur le bouton `Changer l'emplacement du dossier...` dans les paramètres du client.
+Sur les ordinateurs, le stockage de fichiers peut aussi être bougé dans son entièreté vers un autre emplacement, en appuyant sur le bouton `Changer l'emplacement du dossier...` dans les paramètres du client.
 
 ## Structure de stockage
 
@@ -39,7 +39,7 @@ Un lien physique est conceptuellement semblable à un *raccourci* dû au fait qu
 
 Pour faire simple, deux fichiers liés physiquement sont simplement deux noms différents pour le même fragment d'espace sur le disque dur. Cela veut dire qu'une fois que la migration se termine via des liens physiques, les répertoires `Songs` (sur stable) et `files` (sur lazer) vont tous les deux contenir des fichiers qui pointent vers des données partagées sur le disque. Supprimer des fichiers sur une installation ne va pas affecter l'autre. Changer les fichiers entraînera la séparation des fichiers, et n'affectera donc pas non plus l'autre installation, tant qu'osu! est habitué à faire ces changements.
 
-À noter que si l'utilisation du disque est vérifiée depuis la fenêtre `Propriétés` dans l'Explorateur ou d'une quelconque autre méthode similaire, il semblerait que les dossiers `Songs` et `files` utilisent de l'espace disque, ce qui pourrait induire en erreur les utilisateurs à penser que les données sont stockées deux fois. C'est un artéfact de la détermination de taille, et les vraies données stockées sur le disque ne sont **pas** dupliquées. Cela peut être vérifié en comparant la valeur totale de l'espace disponible sur le disque entier avant et après la migration.
+À noter que si l'utilisation du disque est vérifiée depuis la fenêtre `Propriétés` dans l'Explorateur ou d'une quelconque autre méthode similaire, il semblerait que les dossiers `Songs` et `files` utilisent de l'espace disque, ce qui pourrait induire en erreur les utilisateurs à penser que les données sont stockées deux fois. C'est un artéfact de la détermination de la taille, et les vraies données stockées sur le disque ne sont **pas** dupliquées. Cela peut être vérifié en comparant la valeur totale de l'espace disponible sur le disque entier avant et après la migration.
 
 Comme les liens physiques sont une fonctionnalité au niveau du système de fichiers, il est obligatoire que les deux fichiers liés physiquement se trouvent sur un même disque, et que ce disque soit formaté avec le format NTFS.
 
