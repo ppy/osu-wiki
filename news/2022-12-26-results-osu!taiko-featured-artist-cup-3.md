@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Results - osu!taiko Featured Artist Cup #3"
-date: 2022-11-26 02:00:00 +0000
+date: 2022-12-26 02:00:00 +0000
 ---
 
 The battle is over! Come join us in unveiling the winners of the osu!taiko mapping showdown of the year!
