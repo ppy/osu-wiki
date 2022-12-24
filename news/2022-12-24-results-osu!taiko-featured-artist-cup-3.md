@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Results - osu!taiko Featured Artist Cup #3"
-date: 2022-11-24 10:00:00 +0000
+date: 2022-11-24 11:00:00 +0000
 ---
 
 The battle is over! Come join us in unveiling the winners of the osu!taiko mapping showdown of the year!
@@ -12,7 +12,7 @@ The battle is over! Come join us in unveiling the winners of the osu!taiko mappi
 
 Before we proceed, we'd like to announce that due to the high amount of entries, and the sheer quality of the submissions, we will be awarding the **top 3 teams** with badges, instead of only the winning team! Check out the [following page](/wiki/Contests/Monthly_Beatmapping_Contest#rewards) for a detailed list of the rewards.
 
-![](/wiki/Contests/o!tFAC/3/img/badge.png)
+![](/wiki/Contests/o!tFAC/3/img/badge.png "o!tfac #3 winner badge") ![](/wiki/Contests/o!tFAC/3/img/badge2.png "o!tfac #3 2nd place badge") ![](/wiki/Contests/o!tFAC/3/img/badge3.png "o!tfac #3 3rd place badge")
 
 ## Results livestream
 
