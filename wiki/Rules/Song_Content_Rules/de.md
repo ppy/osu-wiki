@@ -5,7 +5,7 @@ Mit einer großen Vielfalt an verfügbarer Musik sind die meisten Songs für die
 - stark politisch ausgerichtet
 - Förderung von rassistischen Spannungen oder Spaltungen
 - extrem und unerträglich laut
-- enthält eine hörbare Übersteuerung oder Verzerrung, die nicht vom Künstler gewollt war
+- modifiziert, um hörbare Übersteuerungen oder Verzerrungen zu enthalten, die vom Künstler nicht beabsichtigt waren
 
 Bitte bedenke, dass Songs mit explizitem Inhalt [unter andere Regelungen fallen](/wiki/Rules/Explicit_Content).
 
