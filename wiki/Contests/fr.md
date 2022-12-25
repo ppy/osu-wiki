@@ -4,7 +4,7 @@ Cette section est dédiée aux concours organisés par la communauté d'osu!.
 
 ## Concours officiels
 
-*Voir également : [points de concours](Contest_points)*
+*Voir également : [Points de concours](Contest_points)*
 
 Les concours officiels sont organisés (ou reconnus comme officiels) par l'[équipe d'osu!](/wiki/People/The_Team). La plupart des concours officiels ont leurs propres pages sur la [liste des concours](https://osu.ppy.sh/community/contests).
 
@@ -70,7 +70,7 @@ Après une longue interruption, le Monthly Beatmapping Contest a été relancé 
 
 ### [osu!taiko Featured Artist Cup](o!tFAC)
 
-La **osu!taiko Featured Artist Cup** est un concours de mapping osu!taiko où il est demandé simplement aux concurrents de mapper une musique d'un Featured Artist d'osu!. Le concours a quelques fois des limitations/particularités spécifiques afin de tester le niveau des concurrents.
+L'**osu!taiko Featured Artist Cup** est un concours de mapping osu!taiko où il est demandé simplement aux concurrents de mapper une musique d'un Featured Artist d'osu!. Le concours a quelques fois des limitations/particularités spécifiques afin de tester le niveau des concurrents.
 
 | Numéro du concours | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Résultats |
 | :-: | :-- | :-- | :-- | :-- |
