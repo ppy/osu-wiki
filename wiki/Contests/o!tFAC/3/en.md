@@ -46,7 +46,7 @@ This contest featured the re-introduction of *MBC points*, in the form of [conte
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter, Ranked status,[^prizes-ranked] unique profile badge, 2 points |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter, Ranked status,[^prizes-ranked] unique profile badge, 1 point |
 
-![](img/badge.png "o!tfac #3 winner badge") ![](img/badge2.png "o!tfac #3 2nd place badge") ![](img/badge3.png "o!tfac #3 3rd place badge")
+![](img/badge.png?1 "o!tfac #3 winner badge") ![](img/badge2.png "o!tfac #3 2nd place badge") ![](img/badge3.png "o!tfac #3 3rd place badge")
 
 ## Links
 
