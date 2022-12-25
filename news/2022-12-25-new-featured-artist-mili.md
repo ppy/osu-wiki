@@ -118,7 +118,7 @@ Check out [this osu! map](https://osu.ppy.sh/beatmapsets/932901) by [Icekalt](ht
 
 ### Mili - Gertrauda
 
-Become a healthier person next year. Eat everything falls from the sky in [this osu!catch map](https://osu.ppy.sh/beatmapsets/807114) by [JierYagtama](https://osu.ppy.sh/users/7483452).
+Become a healthier person next year. Eat everything that falls from the sky in [this osu!catch map](https://osu.ppy.sh/beatmapsets/807114) by [JierYagtama](https://osu.ppy.sh/users/7483452).
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/331/Millenium%20Mother%2FMili%20-%20Gertrauda.mp3" type="audio/mpeg">
