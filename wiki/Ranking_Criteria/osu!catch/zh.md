@@ -2,11 +2,11 @@
 no_native_review: true
 ---
 
-# osu!catch ranking criteria
+# osu!catch 上架标准
 
-***注意: 这个文件是[通用 Ranking Criteria](/wiki/Ranking_Criteria)的扩展。***
+***注意: 此页面是[通用上架标准 (RC)](/wiki/Ranking_Criteria)的扩展。***
 
-为了使 [osu!catch](/wiki/Game_mode/osu!catch) 特定模式的[谱面](/wiki/Beatmap)通过[谱面 Ranking 程序](/wiki/Beatmap_ranking_procedure)，则必须遵守 **osu!catch Ranking Criteria** 内列出的[规定和准则](/wiki/Ranking_Criteria#一般术语)。
+若要将 [osu!catch](/wiki/Game_mode/osu!catch) 特定模式的[谱面](/wiki/Beatmap)，通过[谱面上架程序](/wiki/Beatmap_ranking_procedure)上架，则必须遵守 **osu!catch 上架标准 (osu!catch Ranking Criteria)** 内所陈列的[规定和准则](/wiki/Ranking_Criteria#一般术语)。
 
 ## 全局
 
