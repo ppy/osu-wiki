@@ -174,7 +174,7 @@
 
 #### 准则
 
-- **只应在滑条路径必须简单且易于跟随时，在[中果](/wiki/Hit_object/Juice_stream#中果)和滑条折返上使用[红果跳](/wiki/Gameplay/Hyperdash)。** 这避免了谱面不会出现过于混乱复杂的滑条排列。过于混乱复杂的滑条形状所产生的水滴、折返红果跳的游玩体验通常不佳，而且很毁准确率，收益极低。
+- **只应在滑条路径必须简单且易于跟随时，在[中果](/wiki/Hit_object/Juice_stream#中果)和滑条折返上使用[红果跳](/wiki/Gameplay/Hyperdash)。** 这避免了谱面不会出现过于混乱复杂的滑条排列。过于混乱复杂的滑条形状所产生的中果、折返红果跳的游玩体验通常不佳，而且很毁准确率，收益极低。
 - **不应连续使用比 1/8 更密的[红果跳](/wiki/Gameplay/Hyperdash)。**
 - **[边缘/极限跳](/wiki/Gameplay/Edge_dash)不能连续使用超过 3 个物件（2 次），也不应在[红果跳](/wiki/Gameplay/Hyperdash)之后使用。**
 - **包括滑条尾和滑条折返，[Combo](/wiki/Beatmapping/Combo) 不应该超过 16 个物件。** [转盘](/wiki/Hit_object/Spinner)除外。
