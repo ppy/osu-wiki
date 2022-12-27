@@ -144,8 +144,6 @@ Players are also eligible for prizes if they participate in the lazer playlists:
 ## Rules
 
 - **Submission must include the following:**
-  - A beatmap spread of *cYsmix - triangles* with 5 difficulties total: Easy, Normal, Hard, Insane, and Expert.
-- **Submission must include the following:**
   - A beatmap spread of *cYsmix - triangles* with **FIVE DIFFICULTIES TOTAL**: Easy, Normal, Hard, Insane, and Expert. [Download the beatmap template here!](https://assets.ppy.sh/artists/2/Songs/cYsmix%20-%20triangles.osz)
   - A storyboard with a `.osb` file no greater than **1 MB**. This is to ensure the storyboard is well optimised and doesn't take too long to parse and load into the game.
 - **Submission must be no greater than 10 MB.** While not required, we recommend designs that use simple shapes, keep resources to a minimum, and align with lazer's approach to UI design.
