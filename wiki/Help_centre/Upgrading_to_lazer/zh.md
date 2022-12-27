@@ -23,12 +23,12 @@ osu!(lazer)（也称为 osu! 激光版）是游戏的下一个大更新。这凝
 | :-- | :-- | :-- |
 | Windows 8.0 及更低 | ![支持][true] | ![不支持][false] |
 | macOS / Linux  | ![部分支持][partial][^wine] | ![支持][true] |
-| DirectX / Vulkan | ![部分支持l][partial][^compatibility-mode] | ![不支持][false][^coming-soon] |
+| DirectX / Vulkan | ![部分支持][partial][^compatibility-mode] | ![不支持][false][^coming-soon] |
 | 手机端支持 | ![不支持][false] | ![支持][true] |
 | 多线程结构 | ![不支持][false] | ![支持][true] |
 | 视频硬件加速编码 | ![不支持][false] | ![支持][true] |
 | 用户界面 (UI) 缩放 | ![不支持][false] | ![支持][true] |
-| 自定义游戏规则（游戏模式） | ![不支持][false] | ![部分支持l][partial][^dll]  |
+| 自定义游戏规则（游戏模式） | ![不支持][false] | ![部分支持][partial][^dll]  |
 | 去重文件存储 | ![不支持][false] | ![支持][true][^share-files] |
 | 数位板区域调整 | ![不支持][false] | ![支持][true] |
 
@@ -36,7 +36,7 @@ osu!(lazer)（也称为 osu! 激光版）是游戏的下一个大更新。这凝
 
 | 功能 | 稳定版 | 激光版  |
 | :-- | :-- | :-- |
-| 皮肤支持 | ![支持][true] | ![部分支持l][partial][^gameplay-only] |
+| 皮肤支持 | ![支持][true] | ![部分支持][partial][^gameplay-only] |
 | 歌曲选择分组模式 | ![支持][true] | ![不支持][false]  |
 | 游戏内皮肤 / UI 布局编辑 | ![不支持][false] | ![支持][true]  |
 
@@ -44,13 +44,13 @@ osu!(lazer)（也称为 osu! 激光版）是游戏的下一个大更新。这凝
 
 | 功能 | 稳定版  | 激光版  |
 | :-- | :-- | :-- |
-| 精准的表现分 (pp) 显示 | ![部分支持l][partial][^online]  | ![支持][true]  |
+| 精准的表现分 (pp) 显示 | ![部分支持][partial][^online]  | ![支持][true]  |
 | 模组 (Mods) 预设 | ![不支持][false]  | ![支持][true]  |
 | 精细调整每个模组 | ![不支持][false]  | ![支持][true]  |
 | 新的“娱乐”模组 | ![不支持][false]  | ![支持][true]  |
 | 标准化连击色[^normalisation] | ![不支持][false]  | ![支持][true]  |
 | 按住显示 HUD | ![不支持][false]  | ![支持][true][^hold-for-hud] |
-| 偏移值 (offset) 校准 | ![部分支持l][partial][^offset-calibration-stable] | ![支持][true][^offset-calibration-lazer] |
+| 偏移值 (offset) 校准 | ![部分支持][partial][^offset-calibration-stable] | ![支持][true][^offset-calibration-lazer] |
 | 光标拖动 osu! 滑条时，滑条“蛇形”缩回 | ![不支持][false]  | ![支持][true][^can-disable]  |
 | 对 osu! 玩家稍微友好的“物件锁 (note lock)” | ![不支持][false]  | ![支持][true][^note-lock]  |
 | osu!mania 基于时间轴给物件上色 | ![不支持][false]  | ![支持][true]  |
@@ -59,23 +59,23 @@ osu!(lazer)（也称为 osu! 激光版）是游戏的下一个大更新。这凝
 
 | 功能  | 稳定版  | 激光版 |
 | :-- | :-- | :-- |
-| 提交分数  | ![支持][true]  | ![部分支持l][partial][^score-reset-balance]  |
-| 谱面排行榜  | ![支持][true]  | ![部分支持l][partial][^score-reset-isolated] |
+| 提交分数  | ![支持][true]  | ![部分支持][partial][^score-reset-balance]  |
+| 谱面排行榜  | ![支持][true]  | ![部分支持][partial][^score-reset-isolated] |
 | 主页统计数据  | ![支持][true]  | ![支持][true] |
 | 奖章 (成就) | ![支持][true]  | ![不支持][false] |
-| 表现分 (pp) | ![支持][true]  | ![部分支持l][partial][^score-reset-isolated] |
-| 实时聊天  | ![部分支持l][partial][^stable-chat] | ![支持][true] |
+| 表现分 (pp) | ![支持][true]  | ![部分支持][partial][^score-reset-isolated] |
+| 实时聊天  | ![部分支持][partial][^stable-chat] | ![支持][true] |
 | Wiki / 新闻 / 更新日志 / 排行榜 | ![不支持][false]  | ![支持][true][^online-content]  |
 | 玩家主页  | ![不支持][false]  | ![支持][true] |
-| 谱面列表  | ![部分支持l][partial][^direct-supporter]  | ![支持][true] |
+| 谱面列表  | ![部分支持][partial][^direct-supporter]  | ![支持][true] |
 | 无限制的多人游戏房间大小  | ![不支持][false][^multi-room-max] | ![支持][true] |
 | 多人游戏观赛  | ![不支持][false]  | ![支持][true] |
-| 倒计时器  | ![部分支持l][partial][^countdown-timers-stable] | ![支持][true][^countdown-timers-lazer]  |
+| 倒计时器  | ![部分支持][partial][^countdown-timers-stable] | ![支持][true][^countdown-timers-lazer]  |
 | 队列模式  | ![不支持][false]  | ![支持][true][^queue-modes] |
 | 多人游戏指令  | ![支持][true]  | ![不支持][false] |
 | 合作模式 (Tag co-op)  | ![支持][true]  | ![不支持][false] |
 | 课题模式 (玩家策划的排行榜) | ![不支持][false]  | ![支持][true] |
-| 更新官网有新更新的谱面  | ![部分支持l][partial][^map-only]  | ![支持][true][^all-files] |
+| 更新官网有新更新的谱面  | ![部分支持][partial][^map-only]  | ![支持][true][^all-files] |
 
 ### 编辑器
 
@@ -86,11 +86,11 @@ osu!(lazer)（也称为 osu! 激光版）是游戏的下一个大更新。这凝
 | osu!mania 编辑器 | ![支持][true] | ![支持][true]  |
 | 打开一个难度作为参考 | ![支持][true] | ![不支持][false]  |
 | 按物件设定变速和音量 (SV / volume) | ![不支持][false] | ![支持][true]  |
-| 旋转物件 | ![支持][true] | ![部分支持l][partial][^editor-precise-rotation] |
+| 旋转物件 | ![支持][true] | ![部分支持][partial][^editor-precise-rotation] |
 | 缩放物件 | ![不支持][false] | ![支持][true]  |
 | 提交谱面 | ![支持][true] | ![不支持][false]  |
 | 故事板编辑器 | ![支持][true] | ![不支持][false]  |
-| 交叉兼容性 | ![支持][true] | ![部分支持l][partial][^incompatibilities] |
+| 交叉兼容性 | ![支持][true] | ![部分支持][partial][^incompatibilities] |
 
 ## 切换至激光版
 
