@@ -1,4 +1,4 @@
-# osu!taiko ranking criteria
+# osu!taiko 上架标准
 
 ***注意: 此页面是[通用上架标准 (RC)](/wiki/Ranking_Criteria)的扩展。***
 
