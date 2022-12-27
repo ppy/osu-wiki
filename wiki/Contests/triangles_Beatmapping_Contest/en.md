@@ -11,7 +11,7 @@ Submissions to this contest include:
   - following the [ranking criteria](/wiki/Ranking_Criteria) 
   - with 5 difficulties total: Easy, Normal, Hard, Insane, and Expert
 - A triangle-themed storyboard with a `.osb` file under 1 MB.
-- A team of 2-5 participants
+- A team of 2-5 participants.
 - A full submission under 10 MB total.
 
 ## Contest schedule
