@@ -144,24 +144,14 @@
 ## 规则
 
 - **参赛作品必须包括：**
-  
   - 曲目为 *cYsmix - triangles*，**总共有 5 个难度**：Easy、Normal、Hard、Insane、Expert 的一系列谱面。[在这里下载谱面模板！](https://assets.ppy.sh/artists/2/Songs/cYsmix%20-%20triangles.osz)
-  
   - 故事板，`.osb` 文件不大于 **1 MB**。这能保证故事板优化较好，也不需要花费太长的时间在游戏中解析并加载。
-  
 - **参赛作品不能大于 10 MB。** 虽然并不是规定，但我们建议使用简单形状的设计，尽量节省资源，并参考激光版的 UI 设计。
-
 - **参赛作品必须是 `.osz` 格式。**
-
 - **谱面只能是 *osu!* 游戏模式。** 不幸的是，给不同游戏模式的谱面统一评分不太现实。
-
 - **谱面应符合[谱面上架标准 (RC)](/wiki/Ranking_Criteria)**。 虽然我们可以忽视谱面失误，但如果参赛作品含有不大幅度修改就无法上架的问题，还是会取消资格。
-
 - **队名和参赛选手必须通过[这个表格](https://docs.google.com/forms/d/e/1FAIpQLSeExd07kLYqp-Mx-lM7Wwxii_qidSUasAlMi3HUHUsdfVSUyg/viewform?usp=sf_link)来确认。**
-  
   - 如果你所在的国家或地区不支持谷歌表格，[请给 pishifat 发送私信](https://osu.ppy.sh/community/chat?sendto=3178418)。
   - 队伍必须含有 2-5 名参赛选手。
-  
 - **在评审阶段结束之前，不允许公开发布参赛作品。**
-
 - **在社区投票结束之前，谱面不允许进入过审 (Qualified) 分类。**
