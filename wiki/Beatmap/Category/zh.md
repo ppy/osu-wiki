@@ -8,7 +8,7 @@
 
 当谱面被[谱面作者](/wiki/Beatmap/Beatmap_host)遗弃，将会纳入坟场 (Graveyard) 分类。这些谱面没有排行榜，但仍可以下载和游玩，玩家也能在其上的游玩提升[玩家的统计信息](#未上架谱面的统计信息)。在[选歌界面](/wiki/Client/Interface#选歌界面)，这类谱面会显示出一个问号(![](/wiki/shared/status/graveyard.png))的标识。
 
-当谱面处于[制作中和待定 (Work in Progress and Pending)](#制作中和待定-(work-in-progress-and-pending)) 状态，持续 4 周都没有更新后，将自动移入坟场分类。谱面作者可以从[谱面提交系统](/wiki/Beatmapping/Beatmap_submission)处更新谱面，从而恢复它（将谱面移入[待定](#制作中和待定-(work-in-progress-and-pending))状态）。处于坟场的谱面不会占用谱师的[谱面上传限制](/wiki/osu!supporter#increased-limits)，但如果要恢复它，则需要占用一个空闲的待定谱面格子。
+当谱面处于[制作中和待定 (Work in Progress and Pending)](#制作中和待定-(work-in-progress-and-pending)) 状态，持续 4 周都没有更新后，将自动移入坟场分类。谱面作者可以从[谱面提交系统](/wiki/Beatmapping/Beatmap_submission)处更新谱面，从而恢复它（将谱面移入[待定](#制作中和待定-(work-in-progress-and-pending))状态）。处于坟场的谱面不会占用谱师的[谱面上传限制](/wiki/osu!supporter#提高限额)，但如果要恢复它，则需要占用一个空闲的待定谱面格子。
 
 ### 制作中和待定 (Work in Progress and Pending)
 
@@ -18,7 +18,7 @@
 
 ### 过审 (Qualified)
 
-过审状态是谱面于[谱面上架流程](/wiki/Beatmap_ranking_procedure)中所处的最后一个阶段。当两名[谱面审核成员 (BN)](/wiki/People/The_Team/Beatmap_Nominators) 已经认为谱面达到了[上架标准](/wiki/Ranking_Criteria)并提名了谱面，谱面即会进入过审分类。过审分类下的谱面将进入[谱面上架队列](/wiki/Beatmap_ranking_procedure/Ranking_queue)，如果谱面没有[下架 (DQ)](/wiki/Beatmap_ranking_procedure#nomination-resets)，则最终会[上架 (Ranked)](#上架-(ranked))。这期间将作为谱面上架之前的最后一道防线，任何可能出现的缺陷和问题都将在这个阶段修改掉。
+过审状态是谱面于[谱面上架流程](/wiki/Beatmap_ranking_procedure)中所处的最后一个阶段。当两名[谱面审核成员 (BN)](/wiki/People/The_Team/Beatmap_Nominators) 已经认为谱面达到了[上架标准](/wiki/Ranking_Criteria)并提名了谱面，谱面即会进入过审分类。过审分类下的谱面将进入[谱面上架队列](/wiki/Beatmap_ranking_procedure/Ranking_queue)，如果谱面没有[下架 (DQ)](/wiki/Beatmap_ranking_procedure#提名重置)，则最终会[上架 (Ranked)](#上架-(ranked))。这期间将作为谱面上架之前的最后一道防线，任何可能出现的缺陷和问题都将在这个阶段修改掉。
 
 过审状态的谱面有排行榜，但是不能获得[表现分 (pp)](/wiki/Performance_points)，所有这期间在谱面上获得的成绩，也将在谱面移出过审状态时一并删除掉。在选歌界面，这类谱面会显示出一个对勾 (![](/wiki/shared/status/qualified.png)) 的标识。
 
