@@ -16,6 +16,6 @@ La [página de grupo de Project Loved](https://osu.ppy.sh/groups/31) enumera tod
 
 ## Curiosidades
 
-- ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) Toy creó el equipo original de capitanes en septiembre de 2017 junto con el sistema [Captain's Pick](/wiki/Beatmap/History_of_Loved#captain's-pick-and-project-loved-(sep-2017-–-present)) que luego pasó a llamarse Project Loved. Hasta finales de 2019, supervisó y gestionó todo el proyecto.
+- ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) Toy creó el equipo original de capitanes en septiembre de 2017 junto con el sistema [Captain's Pick](/wiki/Beatmap/History_of_Loved#captain's-pick-y-project-loved-(sept.-2017-—-presente)) que luego pasó a llamarse Project Loved. Hasta finales de 2019, supervisó y gestionó todo el proyecto.
 - Antes del 28 de abril de 2021, la [página del grupo Project Loved](https://osu.ppy.sh/groups/31) no era pública y solo se usaba con fines administrativos. A partir de ahora, está disponible públicamente.
   - Hasta el 16 de abril de 2021, las únicas personas que habían estado en el grupo eran ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350), ::{ flag=LT }:: [huu](https://osu.ppy.sh/users/6044237), ::{ flag=SG }:: [Shoegazer](https://osu.ppy.sh/users/2520707) y ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689). Ahora, todo el equipo de Project Loved pertenece al grupo.

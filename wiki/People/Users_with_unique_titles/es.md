@@ -4,7 +4,7 @@ Los títulos de usuario normalmente se asocian con [grupos de usuarios](/wiki/Pe
 
 ## Campeones actuales de la World Cup
 
-Cada año, los ganadores de las [World Cups oficiales](/wiki/Tournaments#official-world-cups) reciben el título de usuario **osu!/osu!taiko/osu!catch/osu!mania Champion**, que dura hasta la conclusión de la siguiente iteración de la World Cup correspondiente.
+Cada año, los ganadores de las [World Cups oficiales](/wiki/Tournaments#world-cups-oficiales) reciben el título de usuario **osu!/osu!taiko/osu!catch/osu!mania Champion**, que dura hasta la conclusión de la siguiente iteración de la World Cup correspondiente.
 
 Ganadores de la [OWC 2021](/wiki/Tournaments/OWC/2021) con el título de usuario **osu! Champion**:
 

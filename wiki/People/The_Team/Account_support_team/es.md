@@ -24,9 +24,9 @@ Debe comunicarse con este equipo con respecto a temas relacionados con la cuenta
   - eliminaciones de contenido del perfil;
   - eliminaciones de beatmaps;
   - eliminación de comentarios y publicaciones en el foro.
-- Instancias de mala conducta que [desea admitir](/wiki/Reporting_bad_behaviour/Handling_foul_play#what-can-i-do-if-i've-broken-the-rules?).
-- [Pérdida de acceso al correo electrónico](/wiki/Help_centre/Account#sign-in) vinculado a su cuenta de osu!, o cuando su cuenta es robada.
-- [Cambios en el nombre de usuario y correcciones ortográficas menores](/wiki/Help_centre/Account#name-changes).
+- Instancias de mala conducta que [desea admitir](/wiki/Reporting_bad_behaviour/Handling_foul_play#¿qué-puedo-hacer-si-he-roto-las-reglas?).
+- [Pérdida de acceso al correo electrónico](/wiki/Help_centre/Account#inicio-de-sesión) vinculado a su cuenta de osu!, o cuando su cuenta es robada.
+- [Cambios en el nombre de usuario y correcciones ortográficas menores](/wiki/Help_centre/Account#cambios-de-nombre).
 - [Registros de cuentas bot](/wiki/Bot_account).
 
 ### [support@ppy.sh](mailto:support@ppy.sh)
@@ -40,5 +40,5 @@ Debe comunicarse con este equipo con respecto a temas relacionados con la cuenta
 
 ### [privacy@ppy.sh](mailto:privacy@ppy.sh)
 
-- [Solicitudes de datos](/wiki/Legal/Privacy#data-controller) y preocupaciones de privacidad.
-- [Solicitudes de eliminación de cuenta](/wiki/Legal/Privacy#your-rights-and-control) permanentes.
+- [Solicitudes de datos](/wiki/Legal/Privacy#controlador-de-datos) y preocupaciones de privacidad.
+- [Solicitudes de eliminación de cuenta](/wiki/Legal/Privacy#sus-derechos-y-control) permanentes.
