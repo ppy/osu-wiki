@@ -64,7 +64,7 @@ Följande är användargrupper som består av osu! communitymedlemmar som hjälp
 | ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | osu! utvecklare, leverantör av IRC-integration för chatt i spelet, webbplatsunderhållare. [Blogg](http://blog.echo.sh/) |
 | ::{ flag=US }:: [HappyStick](https://osu.ppy.sh/users/256802) | osu! Coffee Hour host, World Cup streamer, turneringsarrangör |
 | ::{ flag=NL }:: [Intermezzo](https://osu.ppy.sh/users/136842) | osu! utvecklare, leverantör av osz2 och p2p backend |
-| ::{ flag=US }:: Jim | Original sajtdesigner. [Brave New Games](http://www.bravegamer.com/) |
+| ::{ flag=US }:: [Datawalke](https://osu.ppy.sh/users/142) | Original sajtdesigner. [Brave New Games](http://www.bravegamer.com/) |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | World Cup-arrangör och administratör, QAT-ledare, community manager |
 | ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | Epic skin designer, bidragare till default skinnet och ikonsättet. [DeviantArt](https://luigihann.deviantart.com/) |
 | ::{ flag=US }:: [mm201](https://osu.ppy.sh/users/30655) | osu! utvecklare, skaparen av mm sliders |

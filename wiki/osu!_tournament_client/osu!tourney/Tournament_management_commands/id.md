@@ -1,9 +1,4 @@
----
-outdated_since: 38bcf6a851d496d756294b1787e3a33456002279
-outdated_translation: true
----
-
-# Perintah Pengelolaan Klien Turnamen
+# Perintah pengelolaan turnamen
 
 Berikut ini adalah perintah yang disediakan untuk mengatur ruangan turnamen multiplayer:
 
@@ -38,6 +33,7 @@ Berikut ini adalah perintah yang disediakan untuk mengatur ruangan turnamen mult
   - Pengumuman pengatur waktu akan ditampilkan setiap menit, 30 detik, 10 detik, 5 detik, dan lebih awal.
 - `!mp aborttimer` - Menghentikan pengatur waktu saat ini (timer normal dan timer mulai pertandingan).
 - `!mp kick <username>` - Mengeluarkan pemain dari ruangan.
+- `!mp ban <username>` - Mengeluarkan pemain dari ruangan dan melarang mereka untuk masuk kembali.
 - `!mp password [<password>]` - Mengubah kata sandi ruangan. Kata sandi akan dihapus jika `<password>` tidak diberikan.
 - `!mp addref <username> [<username>] …` - Menambahkan wasit ke ruangan. Wasit yang dapat ditambahkan maksimal 8. Hanya pembuat ruangan yang dapat menambahkan wasit.
   - Wasit wajib bergabung ke ruangan dalam game, atau dengan memasuki saluran obrolan ruangan melalui `/join #mp_<room_id>` di IRC.

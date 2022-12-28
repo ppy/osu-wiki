@@ -51,6 +51,7 @@ Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masin
 | ::{ flag=PH }:: [-Aqua](https://osu.ppy.sh/users/7150015) | Filipino |
 | ::{ flag=IT }:: [-Syncro](https://osu.ppy.sh/users/4338923) | Italia |
 | ::{ flag=FI }:: [Aakki](https://osu.ppy.sh/users/11077540) | Suomi |
+| ::{ flag=GB }:: [Aistre](https://osu.ppy.sh/users/4879380) |  |
 | ::{ flag=KR }:: [Amamya](https://osu.ppy.sh/users/1997633) | Korea |
 | ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599) | Italia |
 | ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549) |  |
@@ -65,6 +66,7 @@ Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masin
 | ::{ flag=AU }:: [Iceluin](https://osu.ppy.sh/users/3558897) |  |
 | ::{ flag=CA }:: [jonathanlfj](https://osu.ppy.sh/users/270377) | Tionghoa, sedikit Perancis |
 | ::{ flag=KR }:: [KeyWee](https://osu.ppy.sh/users/10476879) | Korea |
+| ::{ flag=FR }:: [Kudosu](https://osu.ppy.sh/users/11038155) | Perancis |
 | ::{ flag=HK }:: [Kyle Y](https://osu.ppy.sh/users/3565813) | Tionghoa, Kanton |
 | ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613) | Jerman |
 | ::{ flag=KR }:: [Len](https://osu.ppy.sh/users/1686145) | Korea |
@@ -81,13 +83,13 @@ Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masin
 | ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) | Perancis |
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | Jerman |
 | ::{ flag=RU }:: [riffy](https://osu.ppy.sh/users/597957) | Rusia |
-| ::{ flag=US }:: [rosario wknd](https://osu.ppy.sh/users/6341518) |  |
 | ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | Tionghoa |
 | ::{ flag=HK }:: [Saggin](https://osu.ppy.sh/users/12464107) | Tionghoa, Kanton, sedikit Jepang |
 | ::{ flag=FR }:: [Sajinn](https://osu.ppy.sh/users/13513687) | Perancis |
 | ::{ flag=RU }:: [Shmiklak](https://osu.ppy.sh/users/5504231) | Rusia |
 | ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | Rusia |
 | ::{ flag=FR }:: [Sotarks](https://osu.ppy.sh/users/4452992) | Perancis |
+| ::{ flag=DE }:: [Sylvarus](https://osu.ppy.sh/users/4505918) | Jerman |
 | ::{ flag=FI }:: [TheKingHenry](https://osu.ppy.sh/users/5128277) | Suomi |
 | ::{ flag=TH }:: [timemon](https://osu.ppy.sh/users/2072005) | Thai |
 | ::{ flag=LT }:: [tomatas95](https://osu.ppy.sh/users/11403815) | Lituavi |
@@ -98,20 +100,19 @@ Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masin
 | ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  |
 | ::{ flag=CN }:: [Yugu](https://osu.ppy.sh/users/3161834) | Tionghoa, Jepang |
 | ::{ flag=IT }:: [Zekk](https://osu.ppy.sh/users/9704802) | Italia |
+| ::{ flag=SE }:: [Zer0-](https://osu.ppy.sh/users/4260033) | Swedia |
 
 #### osu!taiko
 
 | Nama | Bahasa tambahan |
 | :-- | :-- |
 | ::{ flag=FI }:: [Antti](https://osu.ppy.sh/users/13281473) | Suomi, sedikit Swedia |
-| ::{ flag=AR }:: [Axer](https://osu.ppy.sh/users/7299864) | Spanyol |
 | ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | Tionghoa, Kanton |
 | ::{ flag=TR }:: [Burak](https://osu.ppy.sh/users/13213075) | Turki |
 | ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | Tionghoa, Kanton |
 | ::{ flag=MX }:: [DakeDekaane](https://osu.ppy.sh/users/1425253) | Spanyol |
 | ::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142) | Vietnam |
 | ::{ flag=US }:: [eiri-](https://osu.ppy.sh/users/3388410) | Spanyol |
-| ::{ flag=JP }:: [Eriha](https://osu.ppy.sh/users/16320311) | Jepang |
 | ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851) | Jerman |
 | ::{ flag=US }:: [hac](https://osu.ppy.sh/users/17853754) |  |
 | ::{ flag=IE }:: [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) |  |
@@ -134,6 +135,7 @@ Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masin
 | Nama | Bahasa tambahan |
 | :-- | :-- |
 | ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114) | Kanton |
+| ::{ flag=GB }:: [bigh](https://osu.ppy.sh/users/16352736) |  |
 | ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | Tionghoa, Kanton |
 | ::{ flag=NL }:: [GIGACHAD](https://osu.ppy.sh/users/11081858) | Belanda |
 | ::{ flag=PL }:: [Mniam](https://osu.ppy.sh/users/6050530) | Polski |
@@ -143,6 +145,7 @@ Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masin
 | ::{ flag=CA }:: [Ymiir](https://osu.ppy.sh/users/3922569) |  |
 | ::{ flag=BR }:: [zerokt](https://osu.ppy.sh/users/13776127) | Portugis |
 | ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) | Spanyol |
+| ::{ flag=ZA }:: [Zuid-Afrikaan](https://osu.ppy.sh/users/29282944) | Afrikaans, Belanda |
 
 #### osu!mania
 
@@ -178,6 +181,7 @@ Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masin
 | ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Spanyol |
 | ::{ flag=ID }:: [RiP46](https://osu.ppy.sh/users/5222596) | Indonesia |
 | ::{ flag=ID }:: [Rivals_7](https://osu.ppy.sh/users/4610379) | Indonesia |
+| ::{ flag=CN }:: [Seiran-](https://osu.ppy.sh/users/14351534) | Tionghoa |
 | ::{ flag=CN }:: [Shima Rin](https://osu.ppy.sh/users/6089608) | Tionghoa |
 | ::{ flag=ID }:: [Syadow-](https://osu.ppy.sh/users/3484485) | Indonesia |
 | ::{ flag=ID }:: [Syrion-](https://osu.ppy.sh/users/15380643) | Indonesia |
@@ -190,8 +194,10 @@ Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masin
 
 | Nama | Bahasa tambahan |
 | :-- | :-- |
-| ::{ flag=FR }:: [Kudosu](https://osu.ppy.sh/users/11038155) | Perancis |
-| ::{ flag=DE }:: [Sylvarus](https://osu.ppy.sh/users/4505918) | Jerman |
+| ::{ flag=GB }:: [ckharv](https://osu.ppy.sh/users/9967026) |  |
+| ::{ flag=US }:: [Hobbes2](https://osu.ppy.sh/users/8157492) |  |
+| ::{ flag=US }:: [Smoke](https://osu.ppy.sh/users/10726630) |  |
+| ::{ flag=BE }:: [Stack](https://osu.ppy.sh/users/6122935) | Belanda |
 
 #### osu!taiko
 
@@ -200,26 +206,29 @@ Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masin
 | ::{ flag=BR }:: [-Flashlight-](https://osu.ppy.sh/users/9731062) | Portugis |
 | ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) | |
 | ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) | Tionghoa |
+| ::{ flag=AR }:: [Axer](https://osu.ppy.sh/users/7299864) | Spanyol |
+| ::{ flag=JP }:: [Eriha](https://osu.ppy.sh/users/16320311) | Jepang |
 | ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230) | Tionghoa, Kanton |
 | ::{ flag=GB }:: [Metzo](https://osu.ppy.sh/users/10633982) | |
 | ::{ flag=MY }:: [Rinze](https://osu.ppy.sh/users/19901680) | Tionghoa, Melayu |
-| ::{ flag=BR }:: [Toofu](https://osu.ppy.sh/users/11004271) | Portugis |
 
 #### osu!catch
 
 | Nama | Bahasa tambahan |
 | :-- | :-- |
-| ::{ flag=GB }:: [bigh](https://osu.ppy.sh/users/16352736) |  |
 | ::{ flag=NL }:: [Chatie](https://osu.ppy.sh/users/6524765) | Belanda |
+| ::{ flag=CA }:: [fuhie](https://osu.ppy.sh/users/7620002) |  |
 | ::{ flag=FR }:: [Natsuko](https://osu.ppy.sh/users/8266817) | Perancis |
-| ::{ flag=ZA }:: [Zuid-Afrikaan](https://osu.ppy.sh/users/29282944) | Afrikaans, Belanda |
 
 #### osu!mania
 
 | Nama | Bahasa tambahan |
 | :-- | :-- |
+| ::{ flag=KR }:: [ArtZone](https://osu.ppy.sh/users/15548034) | Korea |
+| ::{ flag=DE }:: [Feerum](https://osu.ppy.sh/users/4815717) | Jerman |
+| ::{ flag=AU }:: [fvrex](https://osu.ppy.sh/users/11863699) |  |
 | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | Indonesia |
-| ::{ flag=CN }:: [Seiran-](https://osu.ppy.sh/users/14351534) | Tionghoa |
+| ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/14351534) | Tionghoa |
 
 ## Sejarah
 

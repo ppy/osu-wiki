@@ -391,6 +391,15 @@ Ces chansons font partie du [osu! James Landino Collection EP](https://fanlink.t
 | :-: | :-: | :-- |
 | [NicDroid - Northern Lunar Node](https://www.youtube.com/watch?v=GWltdzuJeJY) | [#1](https://osu.ppy.sh/beatmapsets/1524569) | Tiebreaker des Grandes Finales |
 
+#### ![](/wiki/shared/mode/mania.png) [osu!mania LN Tournament 3](/wiki/Tournaments/o!mLN/3)
+
+| Musique | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [HowToPlayLN - LNCryption](https://soundcloud.com/indekkusu/lncryption) | [#1](https://osu.ppy.sh/beatmapsets/1893946) | Wildcard des Grandes Finales |
+| [HowToPlayLN - Normal Distribution (takehirotei "t-distribution" remix)](https://soundcloud.com/takehirotei/howtoplayln-normal-distribution-takehirotei-t-distribution-remixstatistically-significant) | [#1](https://osu.ppy.sh/beatmapsets/1880819) | Wildcard des quarts de finale |
+| [PSYQUI - Pallet (HowToPlayLN's Piano+Cello Rearrangement)](https://soundcloud.com/indekkusu/pallet-rearrangement) |  | Générique de fin |
+| [Supa7onyz pres. 5-let - Unsynchronized Rhythms](https://soundcloud.com/user-679008856/om-ln3-custom-song-supa7onyz-pres-5-let-unsynchronized-rhythms) | [#1](https://osu.ppy.sh/beatmapsets/1893947) | Technical des Grandes Finales |
+
 #### ![](/wiki/shared/mode/mania.png) osu! Philippines Nationals 2022
 
 | Musique | Beatmap | Notes |
@@ -435,6 +444,13 @@ Ces chansons font partie du [osu! James Landino Collection EP](https://fanlink.t
 | Musique | Beatmap | Notes |
 | :-: | :-: | :-- |
 | [Dz'Xa - COSMOBEAT](https://soundcloud.com/dz_xa/cosmobeat) | [#1](https://osu.ppy.sh/beatmapsets/1523659) | Tiebreaker des Grandes Finales |
+
+#### ![](/wiki/shared/mode/taiko.png) [Rising Global Taiko Showdown 2022](/wiki/Tournaments/GTS/RGTS_2022)
+
+| Musique | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [blobdash & breakchild - EPiSODES](https://soundcloud.com/blobdash/episodes) | [#1](https://osu.ppy.sh/beatmapsets/1901573) | Tiebreaker des Grandes Finales |
+| [Sephid - Hypothesize](https://www.youtube.com/watch?v=FvaJrO3wJbI)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1897397) | Tiebreaker des finales |
 
 #### ![](/wiki/shared/mode/taiko.png) [Squad Global Taiko Showdown 2021](/wiki/Tournaments/GTS/SGTS_2021)
 

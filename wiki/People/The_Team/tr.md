@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: e55d19c5048d09bf313e20ed37b9f1b84fbfe3e2
 tags:
   - osu! staff
   - osu!team
@@ -66,7 +68,7 @@ Aşağıdakiler osu!'nun sürdürülmesine yardımcı olan osu! topluluk üyeler
 | ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | osu! geliştiricisi, oyun-içi sohbet için IRC entegrasyonu sağlayıcı, site sorumlusu. [Blog](http://blog.echo.sh/) |
 | ::{ flag=US }:: [HappyStick](https://osu.ppy.sh/users/256802) | osu! Coffee Hour sunucusu, Dünya Kupası yayıncısı, turnuva organizatörü |
 | ::{ flag=NL }:: [Intermezzo](https://osu.ppy.sh/users/136842) | osu! geliştiricisi, osz2 ve p2p backend sağlayıcısı |
-| ::{ flag=US }:: Jim | Orijinal site tasarımcısı, sitenin ilk zamanlarındaki hosting sağlayıcısı. [Brave New Games](http://www.bravegamer.com/) |
+| ::{ flag=US }:: [Datawalke](https://osu.ppy.sh/users/142) | Orijinal site tasarımcısı, sitenin ilk zamanlarındaki hosting sağlayıcısı. [Brave New Games](http://www.bravegamer.com/) |
 | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | Dünya Kupası organizatörü ve yöneticisi |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Dünya Kupası organizatörü ve yöneticisi, QAT lideri, topluluk yöneticisi |
 | ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | Destansı tema tasarımcısı, varsayılan tema ve ikon seti katkısı. [DeviantArt](https://luigihann.deviantart.com/) |
