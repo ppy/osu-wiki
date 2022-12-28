@@ -15,7 +15,7 @@ L'obiettivo finale e' che questa versione venga rilasciata come aggiornamento ch
 
 Di seguito verra' rappresentato una lista dello **stato attuale** di lazer in confronto con stable. Nota bene che questo e' obiettivo volatile — l'obiettivo finale sara' quello di implementare tutte le novita' che i giocatori hanno voluto nel tempo.
 
-### Compatibilita' e prestazioni
+### Compatibilità e prestazioni
 
 | Novita' | stable | lazer |
 | :-- | :-- | :-- |
@@ -88,23 +88,23 @@ Di seguito verra' rappresentato una lista dello **stato attuale** di lazer in co
 | ridimensionamento dei pattern | ![No][false] | ![Yes][true] |
 | caricamento della beatmap | ![Yes][true] | ![No][false] |
 | Storyboard editor | ![Yes][true] | ![No][false] |
-| cross-client compatibilita' | ![Yes][true] | ![Partial][partial][^incompatibilities] |
+| Compatibilità cross-client | ![Yes][true] | ![Partial][partial][^incompatibilities] |
 
 ## Passare a lazer
 
 Quindi hai decido di dare una chance a Lazer? Bene!
 
-Puoi trovare il download [Qui](https://github.com/ppy/osu#running-osu). Nel futuro prossimo, sarai in grado di passare a lazer direttamente da stable (dall'impostazione `Release stream`) e' trovare il link di download nel sito di osu!.
+Puoi trovare il download [Qui](https://github.com/ppy/osu#running-osu). Prossimamente, sarai in grado di passare a lazer direttamente da stable (dall'impostazione `Release stream`) e' trovare il link di download nel sito di osu!.
 
 ## FAQ
 
 ### Migrazione
 
-#### Stable se ne andra' via? Sono forzato a giocare a Lazer?
+#### Stable se ne andrà via? Sono forzato a stare su Lazer?
 
-Stable continuera' a essere mantenuto finche' gli utenti lo utilizzeranno. Perlomeno, sara' mantenuto per diversi anni.
+Stable continuerà a essere mantenuto finche' gli utenti lo utilizzeranno. Perlomeno, sara' mantenuto per diversi anni.
 
-#### Posso importare tutti i miei dati da stable a lazer?
+#### Potrò importare tutti i miei dati da stable a lazer?
 
 Attualmente, beatmap, skin, punteggi, replay e collezioni possono essere importati in lazer. Nota bene, **le impostazioni non sono ancora state importate**, quindi dovrai ri-configurarle da zero.
 
@@ -176,17 +176,17 @@ Eseguire la configurazione guidata nella parte superiore delle impostazioni e co
 
 #### le vecchie skin funzioneranno nella selezione delle mappe e nella schermata del risultato?
 
-We'll do our best to bring back as much of this as we can without blocking new functionality. This will come later on.
+Faremo del nostro meglio per riportare queste funzionalità 
 
 #### posso usare il cursore della skin pure sul menu'?
 
-porteremo molto probabilmente questa novita' date le richieste di grande numero.
+porteremo molto probabilmente questa novita' date la richiesta elevata.
 
 ### Prestazioni
 
 #### perche' non posso avere gli fps illimitati?
 
-Al di sopra di una certa soglia, non c'è motivo di utilizzare frame rate più elevati. Lazer impiega diverse nuove tecnologie per garantire la latenza più bassa possibile senza richiedere frame rate elevati. Questo aspetto continuerà a migliorare in futuro, poiché abbiamo ancora alcuni miglioramenti da implementare.
+Al di sopra di una certa soglia, non c'è motivo di utilizzare frame rate più elevati. Lazer impiega diverse nuove tecnologie per garantire la latenza più bassa possibile senza richiedere frame rate elevati. Questo aspetto continuerà a migliorare in futuro, poiché abbiamo ancora ulteriori miglioramenti da implementare.
 
 Lazer esegue il polling per l'ingresso a 1000 Hz indipendentemente dal limitatore di FPS, motivo per cui anche l'impostazione massima del limitatore limiterà a 1000 FPS.
 
@@ -194,11 +194,11 @@ Se siete curiosi di sapere come questo influisce sulla latenza in ingresso e di 
 
 #### Se il polling dell'input viene eseguito solo a 1000 Hz, che ne è del mio mouse da gioco a 8000 Hz?
 
-Il sistema operativo continuerà a eseguire il polling alla frequenza più alta, anche se i vantaggi sono dimostrati essere trascurabili. Il polling a velocità così elevate può comportare costi aggiuntivi imprevisti e si consiglia di limitare i dispositivi a 1000 Hz per garantire la stabilità del sistema.
+Il sistema operativo continuerà a eseguire il polling alla frequenza più alta possibile, anche se i vantaggi sono dimostrati essere irrilevanti. Il polling a velocità così elevate può comportare richiesta di potenza aggiuntiva imprevista e si consiglia di limitare le proprie periferiche a 1000 Hz per garantire una esperienza stabile.
 
 #### Lazer non funziona in modo stabile. Cosa succede?
 
-Sebbene sulla maggior parte dell'hardware moderno vediamo che lazer supera stable, ci sono sempre casi limite in cui ogni utente ha una configurazione hardware diversa. Nella nostra roadmap a breve termine, stiamo cercando di supportare DirectX (alias "modalità di compatibilità" su stable) e Vulkan, che hanno entrambi un supporto driver migliore di OpenGL su tutto l'hardware. Una volta implementato, le prestazioni su hardware come i chipset integrati Intel miglioreranno notevolmente.
+Sebbene sulla maggior parte dell'hardware moderno notiamo che lazer supera stable, però, ci sono sempre casi dove utenti non hanno una configurazione hardware performante. Nella nostra roadmap a breve termine, stiamo cercando di supportare DirectX (alias "modalità compatibile" su stable) e Vulkan, che hanno entrambi un supporto driver migliore di OpenGL su tutto l'hardware. Una volta implementato, le prestazioni su hardware come i chipset integrati Intel miglioreranno notevolmente.
 
 ### Fornire feedback
 
