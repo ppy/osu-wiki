@@ -536,14 +536,14 @@ Abbreviations for user groups are used throughout this log:
 - 2022-11-08: Added [Hivie](https://osu.ppy.sh/users/14102976) to **NAT**
 - 2022-11-13: Added [Remuring](https://osu.ppy.sh/users/6522146) to **Project Loved Team**
 - 2022-11-19: Moved [Protastic101](https://osu.ppy.sh/users/6712747) from **osu! Alumni** to **GMT**
-- 2022-11-20: Removed [heyronii](https://osu.ppy.sh/users/5642779) from the **GMT**
-- 2022-11-20: Removed [Zeus-](https://osu.ppy.sh/users/5464437) from the **GMT**
-- 2022-11-20: Removed [Orkay](https://osu.ppy.sh/users/9321674) from the **GMT**
+- 2022-11-20: Removed [heyronii](https://osu.ppy.sh/users/5642779) from **osu! Alumni**
+- 2022-11-20: Removed [Zeus-](https://osu.ppy.sh/users/5464437) from **GMT**
+- 2022-11-20: Removed [Orkay](https://osu.ppy.sh/users/9321674) from **GMT**
 - 2022-11-21: Added [Venix](https://osu.ppy.sh/users/5999631) to **Beatmap Spotlight Curators**
-- 2022-11-22: Added [Zeus-](https://osu.ppy.sh/users/5464437) to the **Project Loved Team**
-- 2022-11-23: Removed [Zeus-](https://osu.ppy.sh/users/5464437) from the **Project Loved Team**
+- 2022-11-22: Added [Zeus-](https://osu.ppy.sh/users/5464437) to **Project Loved Team**
+- 2022-11-23: Removed [Zeus-](https://osu.ppy.sh/users/5464437) from **Project Loved Team**
 - 2022-11-27: Moved [Coldrod](https://osu.ppy.sh/users/9065991) from **GMT** to **osu! Alumni**
-- 2022-11-29: Added [PuffBuck](https://osu.ppy.sh/users/4234525) to the **osu! Alumni**
+- 2022-11-29: Added [PuffBuck](https://osu.ppy.sh/users/4234525) to **osu! Alumni**
 
 ### Beatmap Nominators
 
@@ -586,18 +586,40 @@ Abbreviations for user groups are used throughout this log:
 
 - 2022-12-02: Moved [Kite](https://osu.ppy.sh/users/134572) from **GMT** to **osu! Alumni**
 - 2022-12-03: Moved [Pereira006](https://osu.ppy.sh/users/537344) from **GMT** to **osu! Alumni**
-- 2022-12-03: Added [FAMoss](https://osu.ppy.sh/users/7707789) to the **GMT**
+- 2022-12-03: Added [FAMoss](https://osu.ppy.sh/users/7707789) to **GMT**
 - 2022-12-04: Moved [Loneight](https://osu.ppy.sh/users/663131) from **GMT** to **osu! Alumni**
+- 2022-12-06: Removed [Noffy](https://osu.ppy.sh/users/1541323) from **Project Loved Team**
+- 2022-12-06: Removed [Nokashi](https://osu.ppy.sh/users/5431196) from **Project Loved Team**
+- 2022-12-07: Added [Maxus](https://osu.ppy.sh/users/4335785) to **Project Loved Team**
+- 2022-12-07: Added [Eriha](https://osu.ppy.sh/users/16320311) to **Project Loved Team**
+- 2022-12-11: Added [Zeus](https://osu.ppy.sh/users/5464437) to **osu! Alumni**
+- 2022-12-06: Removed [stupud man](https://osu.ppy.sh/users/2141612) from **Project Loved Team**
+- 2022-12-11: Removed [Firika](https://osu.ppy.sh/users/9590557) from **GMT**
+- 2022-12-16: Added [-Kazu-](https://osu.ppy.sh/users/920861) to **Project Loved Team**
 
 ### Beatmap Nominators
 
 #### Additions
 
+- 2022-12-08: Added [Hobbes2](https://osu.ppy.sh/users/8157492) to **Probationary BN**
+- 2022-12-08: Added [fuhie](https://osu.ppy.sh/users/7620002) to **Probationary BN**
+- 2022-12-08: Added [Aistre](https://osu.ppy.sh/users/4879380) to **BN**
+- 2022-12-11: Added [fvrex](https://osu.ppy.sh/users/11863699) to **Probationary BN**
+- 2022-12-11: Added [ckharv](https://osu.ppy.sh/users/9967026) to **Probationary BN**
+- 2022-12-13: Added [Feerum](https://osu.ppy.sh/users/4815717) to **Probationary BN**
+- 2022-12-14: Added [ArtZone](https://osu.ppy.sh/users/15548034) to **Probationary BN**
+- 2022-12-19: Added [Smoke](https://osu.ppy.sh/users/10726630) to **Probationary BN**
+
 #### Moves
+
+- 2022-12-07: Moved [Axer](https://osu.ppy.sh/users/7299864) from **BN** to **Probationary BN**
+- 2022-12-13: Moved [Seiran-](https://osu.ppy.sh/users/14351534) from **Probationary BN** to **BN**
+- 2022-12-16: Moved [Zuid-Afrikaan](https://osu.ppy.sh/users/29282944) from **Probationary BN** to **BN**
+- 2022-12-16: Moved [bigh](https://osu.ppy.sh/users/16352736) from **Probationary BN** to **BN**
 
 #### Removals
 
-<!-- last updated 2022-12-06 09:29 UTC - Moved Loneight from GMT to osu! Alumni -->
+<!-- last updated 2022-12-19 21:17 UTC - Added Smoke to the Beatmap Nominators (Probationary) for [osu] -->
 
 <!--
 To update this article:
