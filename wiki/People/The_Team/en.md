@@ -56,8 +56,6 @@ The following are user groups which are made up of the osu! community members th
 
 ## Inactive core team members
 
-<!-- Jim is the only person here that has never had an osu! profile (PR #4611) -->
-
 | Name | Role |
 | :-- | :-- |
 | ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) | General housekeeper and helper, chibi artist. [Barrel Roll Weekly](http://brw.twinkfish.com/) |
@@ -69,7 +67,7 @@ The following are user groups which are made up of the osu! community members th
 | ::{ flag=US }:: [HappyStick](https://osu.ppy.sh/users/256802) | osu! Coffee Hour host, World Cup streamer, tournament organizer |
 | ::{ flag=NL }:: [Intermezzo](https://osu.ppy.sh/users/136842) | osu! developer, provider of osz2 and p2p backend |
 | ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) | Modding and mapping scene advisor |
-| ::{ flag=US }:: Jim | Original site designer, hosting provider in the early days. [Brave New Games](http://www.bravegamer.com/) |
+| ::{ flag=US }:: [Datawalke](https://osu.ppy.sh/users/142) | Original site designer, hosting provider in the early days. [Brave New Games](http://www.bravegamer.com/) |
 | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | World Cup organiser and administrator |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | World Cup organiser and administrator, QAT leader, community manager |
 | ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | Epic skin designer, contributor to default skin and iconset. [DeviantArt](https://luigihann.deviantart.com/) |
