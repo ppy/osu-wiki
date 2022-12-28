@@ -16,18 +16,18 @@ The **osu!mania 4K Community Tournament @ MUKASHI FESTIVAL ID Senayan Park** was
 | --: | :-- |
 | Registration phase | 2022-11-14/2022-11-27 |
 | Technical meeting | 2022-11-30 |
-| Opening | 2022-12-03 (11:00 UTC +7) |
-| Extra preliminary match | 2022-12-03 (11:15 UTC +7) |
-| Quarterfinal 1 | 2022-12-03 (10:50 UTC +7) |
-| Quarterfinal 2 | 2022-12-03 (12:25 UTC +7) |
-| Quarterfinal 3 | 2022-12-03 (13:00 UTC +7) |
-| Quarterfinal 4 | 2022-12-03 (13:35 UTC +7) |
-| *Break* | 2022-12-03 (14:00 UTC +7) |
-| Semifinal 1 | 2022-12-03 (14:30 UTC +7) |
-| Semifinal 2 | 2022-12-03 (15:05 UTC +7) |
-| 3rd-place match | 2022-12-03 (15:40 UTC +7) |
-| Grand Final | 2022-12-03 (16:30 UTC +7) |
-| Closing and awarding | 2022-12-03 (17:00 UTC +7) |
+| Opening | 2022-12-03 (11:00) |
+| Extra preliminary match | 2022-12-03 (11:15) |
+| Quarterfinal 1 | 2022-12-03 (10:50) |
+| Quarterfinal 2 | 2022-12-03 (12:25) |
+| Quarterfinal 3 | 2022-12-03 (13:00) |
+| Quarterfinal 4 | 2022-12-03 (13:35) |
+| *Break* | 2022-12-03 (14:00) |
+| Semifinal 1 | 2022-12-03 (14:30) |
+| Semifinal 2 | 2022-12-03 (15:05) |
+| 3rd-place match | 2022-12-03 (15:40) |
+| Grand Final | 2022-12-03 (16:30) |
+| Closing and awarding | 2022-12-03 (17:00) |
 
 ## Prizes
 
