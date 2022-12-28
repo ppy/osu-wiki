@@ -68,7 +68,7 @@ Les groupes d'utilisateurs suivants sont constitués de membres de la communaut�
 | ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | Développeur d'osu!, fournisseur de l'intégration IRC pour le tchat en jeu, mainteneur du site. [Blog](http://blog.echo.sh/) |
 | ::{ flag=US }:: [HappyStick](https://osu.ppy.sh/users/256802) | Hôte d'osu! Coffee Hour, Streamer de la World Cup, Organisateur de tournoi |
 | ::{ flag=NL }:: [Intermezzo](https://osu.ppy.sh/users/136842) | Développeur d'osu!, fournisseur d'osz2 et de backend p2p |
-| ::{ flag=US }:: Jim | Concepteur original du site, fournisseur d'hébergement à ses débuts. [Brave New Games](http://www.bravegamer.com/) |
+| ::{ flag=US }:: [Datawalke](https://osu.ppy.sh/users/142) | Concepteur original du site, fournisseur d'hébergement à ses débuts. [Brave New Games](http://www.bravegamer.com/) |
 | ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) | Conseiller sur le modding et le mapping |
 | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | Organisateur et administrateur de la World Cup |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Organisateur et administrateur de la World Cup, Leader de la QAT, responsable de la communauté |
