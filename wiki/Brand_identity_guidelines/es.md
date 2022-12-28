@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Directrices de identidad de marca
 
 Las directrices de identidad de marca son un conjunto de estándares para la marca de proyectos relacionados con osu!. Todo uso no requiere aprobación.
