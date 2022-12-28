@@ -220,7 +220,6 @@ tags:
 | :-- | :-- |
 | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | Индонезийский |
 | ::{ flag=CN }:: [Serian-](https://osu.ppy.sh/users/14351534) | Китайский |
-| ::{ flag=CN }:: [Seiran-](https://osu.ppy.sh/users/14351534) | Китайский |
 
 ## История
 

@@ -219,7 +219,6 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | :-- | :-- |
 | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | Indonesio |
 | ::{ flag=CN }:: [Serian-](https://osu.ppy.sh/users/14351534) | Chino |
-| ::{ flag=CN }:: [Seiran-](https://osu.ppy.sh/users/14351534) | Chino |
 
 ## Historia
 

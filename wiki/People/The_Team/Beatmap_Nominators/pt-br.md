@@ -220,7 +220,6 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | :-- | :-- |
 | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | Indonésio |
 | ::{ flag=CN }:: [Serian-](https://osu.ppy.sh/users/14351534) | Chinês |
-| ::{ flag=CN }:: [Seiran-](https://osu.ppy.sh/users/14351534) | Chinês |
 
 ## History
 

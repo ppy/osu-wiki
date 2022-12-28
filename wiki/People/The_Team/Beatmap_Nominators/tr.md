@@ -220,7 +220,6 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | :-- | :-- |
 | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | Endonezce |
 | ::{ flag=CN }:: [Serian-](https://osu.ppy.sh/users/14351534) | Çince |
-| ::{ flag=CN }:: [Seiran-](https://osu.ppy.sh/users/14351534) | Çince |
 
 ## Tarihçe
 

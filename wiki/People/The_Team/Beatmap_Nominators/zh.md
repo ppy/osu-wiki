@@ -220,7 +220,6 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 | :-- | :-- |
 | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | 印度尼西亚语 |
 | ::{ flag=CN }:: [Serian-](https://osu.ppy.sh/users/14351534) | 汉语 |
-| ::{ flag=CN }:: [Seiran-](https://osu.ppy.sh/users/14351534) | 汉语 |
 
 ## 历史
 

@@ -220,7 +220,6 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 | :-- | :-- |
 | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | 인도네시아어 |
 | ::{ flag=CN }:: [Serian-](https://osu.ppy.sh/users/14351534) | 중국어 |
-| ::{ flag=CN }:: [Seiran-](https://osu.ppy.sh/users/14351534) | 중국어 |
 
 ## 역사
 

@@ -53,7 +53,7 @@ La [pagina del grupo osu! Alumni](https://osu.ppy.sh/groups/16) menciona a todos
 | ::{ flag=US }:: [DawnII](https://osu.ppy.sh/users/8399) | BAT |
 | ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370) | GMT |
 | ::{ flag=TW }:: [deepsea](https://osu.ppy.sh/users/7824) | BAT |
-| ::{ flag=US }:: [Derekku](https://osu.ppy.sh/users/91341) | Administador |
+| ::{ flag=US }:: [Derekku](https://osu.ppy.sh/users/91341) | Administración |
 | ::{ flag=TH }:: [DJPop](https://osu.ppy.sh/users/2363) | BAT |
 | ::{ flag=US }:: [dkun](https://osu.ppy.sh/users/154400) | BAT |
 | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983) | BAT |
@@ -250,5 +250,5 @@ La [pagina del grupo osu! Alumni](https://osu.ppy.sh/groups/16) menciona a todos
 | ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) | GMT |
 | ::{ flag=SG }:: [ZHSteven](https://osu.ppy.sh/users/142413) | BAT |
 | ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) | NAT |
-| ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) | Fundador de la osu!academy, GMT |
+| ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) | Fundador de osu!academy, GMT |
 | ::{ flag=US }:: [Zyid](https://osu.ppy.sh/users/2778) | BAT |

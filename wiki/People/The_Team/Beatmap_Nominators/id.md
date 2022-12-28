@@ -220,7 +220,6 @@ Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masin
 | :-- | :-- |
 | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | Indonesia |
 | ::{ flag=CN }:: [Serian-](https://osu.ppy.sh/users/14351534) | Tionghoa |
-| ::{ flag=CN }:: [Seiran-](https://osu.ppy.sh/users/14351534) | Tionghoa |
 
 ## Sejarah
 
