@@ -12,12 +12,12 @@ The **osu!mania 4K Community Tournament @ MUKASHI FESTIVAL ID Senayan Park** was
 
 ## Tournament schedule
 
-| Event | Timestamp |
+| Event | Timestamp (UTC+7) |
 | --: | :-- |
 | Registration phase | 2022-11-14/2022-11-27 |
 | Technical meeting | 2022-11-30 |
 | Opening | 2022-12-03 (11:00 UTC +7) |
-| Extra Preliminary Match | 2022-12-03 (11:15 UTC +7) |
+| Extra preliminary match | 2022-12-03 (11:15 UTC +7) |
 | Quarterfinal 1 | 2022-12-03 (10:50 UTC +7) |
 | Quarterfinal 2 | 2022-12-03 (12:25 UTC +7) |
 | Quarterfinal 3 | 2022-12-03 (13:00 UTC +7) |
@@ -25,7 +25,7 @@ The **osu!mania 4K Community Tournament @ MUKASHI FESTIVAL ID Senayan Park** was
 | *Break* | 2022-12-03 (14:00 UTC +7) |
 | Semifinal 1 | 2022-12-03 (14:30 UTC +7) |
 | Semifinal 2 | 2022-12-03 (15:05 UTC +7) |
-| 3rd Place Match | 2022-12-03 (15:40 UTC +7) |
+| 3rd-place match | 2022-12-03 (15:40 UTC +7) |
 | Grand Final | 2022-12-03 (16:30 UTC +7) |
 | Closing and awarding | 2022-12-03 (17:00 UTC +7) |
 
@@ -80,9 +80,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=ID }:: **[LuxKooky](https://osu.ppy.sh/users/4691146)** |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=ID }:: **[\[ -Asriel- \]](https://osu.ppy.sh/users/11829623)** |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=ID }:: **[KinoJourney](https://osu.ppy.sh/users/15798093)**  |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=ID }:: [LuxKooky](https://osu.ppy.sh/users/4691146) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=ID }:: [\[ -Asriel- \]](https://osu.ppy.sh/users/11829623) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=ID }:: [KinoJourney](https://osu.ppy.sh/users/15798093)  |
 
 ## Mappools
 
@@ -147,7 +147,7 @@ This competition has come to an end and resulted in the following podium:
 
 | Match code  | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| 3rd Place Match | [\[ID\]Xenotia-](https://osu.ppy.sh/users/13865224) ::{ flag=ID }:: | 2 | **4** | ::{ flag=ID }:: **[KinoJourney](https://osu.ppy.sh/users/15798093)** | [#1](https://osu.ppy.sh/community/matches/105421643) |
+| 3rd-place match | [\[ID\]Xenotia-](https://osu.ppy.sh/users/13865224) ::{ flag=ID }:: | 2 | **4** | ::{ flag=ID }:: **[KinoJourney](https://osu.ppy.sh/users/15798093)** | [#1](https://osu.ppy.sh/community/matches/105421643) |
 
 ### Semifinals
 
@@ -169,34 +169,34 @@ This competition has come to an end and resulted in the following podium:
 
 | Match code | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Extra Preliminary Match | [Ihram-san](https://osu.ppy.sh/users/9908055) ::{ flag=ID }:: | 0 | **3** | ::{ flag=ID }:: **[LuxKooky](https://osu.ppy.sh/users/4691146)** | [#1](https://osu.ppy.sh/community/matches/105418155) |
+| Extra preliminary match | [Ihram-san](https://osu.ppy.sh/users/9908055) ::{ flag=ID }:: | 0 | **3** | ::{ flag=ID }:: **[LuxKooky](https://osu.ppy.sh/users/4691146)** | [#1](https://osu.ppy.sh/community/matches/105418155) |
 
 ## Ruleset
 
 ### General rules
 
-1. Beatmap scoring is based on **[ScoreV2](/wiki/Gameplay/Score#scorev2).**
-2. All matches will be played over a single day in at [Senayan Park, Central Jakarta](https://senayanpark.com/en/) (as part of MUKASHI FESTIVAL ID) following the Single Elimination system.
+1. Beatmap scoring is based on **[ScoreV2](/wiki/Gameplay/Score#scorev2)**.
+2. All matches will be played over a single day in at [Senayan Park, Central Jakarta](https://senayanpark.com/en/) (as part of MUKASHI FESTIVAL ID) following the single-elimination system.
    - The bracket for the tournament will be randomly generated using [random.org](https://random.org) during the technical meeting.
-3. All matches will be played using the setup provided by the Tournament Management on the spot.
+3. All matches will be played using the setup provided by the tournament management on the spot.
    - Players are allowed to bring in certain equipments (e.g. keyboard and laptop) and their own device settings should they wish to.
-4. All maps and mappools for the tournament will be announced by the Tournament Management in advance before the event takes place.
-5. Match schedules will be predetermined by the Tournament Management.
+4. All maps and mappools for the tournament will be announced by the tournament management in advance before the event takes place.
+5. Match schedules will be predetermined by the tournament management.
 6. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
 7. If a player disconnects, the referee will note the score the player had achieved at the end of the beatmap directly from their PC and adjust the outcome of the pick accordingly.
 8. Lag is not a valid reason to nullify a beatmap.
-9. If any problems during the match occur, the Tournament Management will make a decision based on the referee's report.
+9. If any problems during the match occur, the tournament management will make a decision based on the referee's report.
 10. It is expected that all players be polite and respectful to each other. Penalties will be given upon violation.
-    - If a player is found to be engaging in an act that is deemed to be distasteful or provocative, the corresponding player may be disqualified right away from the tournament and/or blacklisted from future iterations of the tournament by the Tournament Management.
+    - If a player is found to be engaging in an act that is deemed to be distasteful or provocative, the corresponding player may be disqualified right away from the tournament and/or blacklisted from future iterations of the tournament by the tournament management.
     - Usage of any tools or programs that are against the [osu! community rules](/wiki/Rules#community-rules) is strictly prohibited and will be straight up reported to the osu! team at will.
 
 ### Tournament registration
 
 1. All interested players are required to register into the tournament individually via [this form](https://docs.google.com/forms/d/e/1FAIpQLSfM4bHa5fqs5f9O-bb4SHqqPDTUjNjYvHzDNrZH3siRj_9hyA/closedform).
-2. To ensure valid and serious registrations, every registered player will be checked by the Tournament Management.
-3. The list of players who are deemed to be eligible to compete in the tournament will be published by the Tournament Management after the Registration phase has ended.
-   - Due to time constraints, the Tournament Management would only allow for around 8 players to participate in this tournament.
-4. All players are required to attend the technical meeting held online by the Tournament Management before the tournament commences.
+2. To ensure valid and serious registrations, every registered player will be checked by the tournament management.
+3. The list of players who are deemed to be eligible to compete in the tournament will be published by the tournament management after the registration phase has ended.
+   - Due to time constraints, the tournament management will only allow for around 8 players to participate in this tournament.
+4. All players are required to attend the technical meeting held online by the tournament management before the tournament commences.
 5. Test players, referees, and mappool selectors may not participate as players in this tournament.
 
 ### Match instructions
@@ -206,9 +206,9 @@ This competition has come to an end and resulted in the following podium:
    - The loser of the `!roll` gets the opposite by default.
 2. Map banning **does not apply** in the entirety of the tournament.
 3. **There will be no warm-up beatmaps to be played in the multiplayer lobby.** Players who are looking to warm up are expected to do so by their own during the grace period in between the matches.
-4. Although playing with mods is not mandatory, **all maps (including the tiebreaker) will be played with the FreeMod option enabled.**
-   - Players are allowed to play any map with NoFail, Hidden, FadeIn, Flashlight, and Mirror should they wish to.
+4. Although playing with mods is not mandatory, **all maps (including the tiebreaker) will be played with the Free Mod option enabled.**
+   - Players are allowed to play any map with No Fail, Hidden, Fade In, Flashlight, and Mirror should they wish to.
 5. Players who can compete in the next round are determined by:
-   - In the Extra Preliminary Match, the Quarterfinals, and the Semifinals, each player needs to win 3 points in order to win a match. (Best-of-5)
-   - In the 3rd Place Match and the Grand Final, each player needs to win 4 points in order to win a match. (Best-of-7)
+   - In the extra preliminary match, the Quarterfinals, and the Semifinals, each player needs to win 3 points in order to win a match. (Best of 5)
+   - In the 3rd-place match and the Grand Final, each player needs to win 4 points in order to win a match. (Best of 7)
 6. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
