@@ -1,6 +1,8 @@
 ---
 layout: main_page
 no_native_review: true
+outdated_translation: true
+outdated_since: 1da34ad18aa8565e779e579594fa8c606ee00808
 ---
 
 <div class="wiki-main-page__blurb">

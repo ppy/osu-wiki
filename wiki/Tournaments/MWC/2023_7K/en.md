@@ -42,7 +42,7 @@ The osu!mania 7K 2023 is run by the osu! team and various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) |
-| Mappool selector | ::{ flag=PL }:: [\_underjoy](https://osu.ppy.sh/users/2235750), ::{ flag=US }:: [Blocko](https://osu.ppy.sh/users/4075092), ::{ flag=US }:: [Jinjin](https://osu.ppy.sh/users/3360737), ::{ flag=PH }:: [MapleSyrup\-](https://osu.ppy.sh/users/1192936) |
+| Mappool selector | ::{ flag=PL }:: [\_underjoy](https://osu.ppy.sh/users/2235750), ::{ flag=US }:: [Blocko](https://osu.ppy.sh/users/4075092), ::{ flag=US }:: [Jinjin](https://osu.ppy.sh/users/3360737), ::{ flag=PH }:: [MapleSyrup\-](https://osu.ppy.sh/users/1192936), ::{ flag=KR }:: [Remuring](https://osu.ppy.sh/users/6522146) |
 | Referee | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=IN }:: [Speshimen](https://osu.ppy.sh/users/7720204), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=US }:: [\[K\]](https://osu.ppy.sh/users/16551387) |
 | Commentator | *TBA* |
 | Statistician | ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899) |
@@ -67,7 +67,7 @@ The osu!mania 7K 2023 is run by the osu! team and various community members.
 6. Use of the Visual Settings to alter background dim or disable beatmap elements like storyboards and skins are allowed.
    - Custom skin elements must not be used to alter core gameplay elements or mechanics in unintended ways.
 7. If less than the minimum amount of required players are present at match time, the match can be postponed for up to 10 minutes. If after this period there are still not enough players for either team, a *win by default* will be declared for the side with the most members present.
-   - The minimum amount of required players is the amount of players needed to play a beatmap without any vacant spots in the lobby (i.e. 4 participants must be present for the match to begin).
+   - The minimum amount of required players is the amount of players needed to play a beatmap without any vacant spots in the lobby (i.e. at least 2 participants from each team must be present for the match to begin).
 8. Exchanging players between games is allowed without limitations.
 9. If a game ends in a draw, it will be nullified and the beatmap will be replayed.
 10. Teams may ask for a rematch if a team member encounters technical issues while playing within 30 seconds or 25% of the beatmap drain length (whichever happens first) of the game's start. Referees may, at their discretion, veto this request.
