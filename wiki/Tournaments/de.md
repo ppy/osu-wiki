@@ -107,6 +107,13 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | 3 Digit World Cup 2020 | 16.03.2020 | 31.05.2020 | ::{ flag=US }:: Vereinigte Staaten | ::{ flag=BR }:: Brasilien | ::{ flag=TW }:: Taiwan |
 | [3 Digit World Cup 2021](3WC/2021) | 24.02.2021 | 09.05.2021 | ::{ flag=TW }:: Taiwan | ::{ flag=PL }:: Polen | ::{ flag=US }:: Vereinigte Staaten |
 
+#### Aetherian's Summer Singles
+
+| Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| Aetherian's Summer Singles 1 | 30.04.2021 | 13.7.2021 | ::{ flag=CA }:: [Flatpaper](https://osu.ppy.sh/users/11255340) | ::{ flag=CA }:: [FaintGun](https://osu.ppy.sh/users/10500541) | ::{ flag=PH }:: [NathanSS](https://osu.ppy.sh/users/8500628) |
+| [Aetherian's Summer Singles 2](AESS/2) | 06.05.2022 | 23.07.2022 | ::{ flag=PL }:: [maliszewski](https://osu.ppy.sh/users/12408961) | ::{ flag=KR }:: [[Karcher]](https://osu.ppy.sh/users/11443437) | ::{ flag=HK }:: [mcy4](https://osu.ppy.sh/users/2165650) |
+
 #### Ascaveth Invitational Tournament
 
 | Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
