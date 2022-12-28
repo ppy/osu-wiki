@@ -588,6 +588,50 @@ Cet article répertorie toutes les beatmaps showcase qui ont été créées par 
   - (![][osu!catch]) [-45 - Total Eclipse of The Sun](https://osu.ppy.sh/beatmapsets/1826327#fruits/3748082) organisé par ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565)
   - (![][osu!]) [-45 - Reishiki](https://osu.ppy.sh/beatmapsets/1557323#osu/3712677) organisé par ::{ flag=FR }:: [-45](https://osu.ppy.sh/users/13400075)
 
+### Septembre
+  
+- **[Andy Gillion](https://osu.ppy.sh/home/news/2022-09-14-new-featured-artist-andy-gillion)** (14/09/2022)
+  - (![][osu!]) [Andy Gillion - Insert Coin](https://osu.ppy.sh/beatmapsets/1842568#osu/3784709) organisé par ::{ flag=PL }:: [-Sylvari](https://osu.ppy.sh/users/3493804)
+- **[Alestorm](https://osu.ppy.sh/home/news/2022-09-21-new-featured-artist-alestorm)** (21/09/2022)
+  - (![][osu!]) [Alestorm - Shipwrecked](https://osu.ppy.sh/beatmapsets/1850895#osu/3802261) organisé par ::{ flag=CA }:: [Gordon](https://osu.ppy.sh/users/7856835)
+- **[Ritorikal](https://osu.ppy.sh/home/news/2022-09-24-new-featured-artist-ritorikal)** (24/09/2022)
+  - (![][osu!]) [Ritorikal - Synergy](https://osu.ppy.sh/beatmapsets/1742868#osu/3562994) organisé par ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323)
+
+### Octobre
+
+- **[Mono.](https://osu.ppy.sh/home/news/2022-10-01-new-featured-artist-mono)** (01/10/2022)
+  - (![][osu!]) [Mono. - ST4RDUST*XABER](https://osu.ppy.sh/beatmapsets/1810657#osu/3713836) organisé par ::{ flag=KR }:: [_Epreus](https://osu.ppy.sh/users/7342798)
+- **[Tokyo.MeltiMelt](https://osu.ppy.sh/home/news/2022-10-05-new-featured-artist-tokyo-meltimelt)** (05/10/2022)
+  - (![][osu!]) [Tokyo.MeltiMelt - I ain't need my heart feat. Hatsuki Yura](https://osu.ppy.sh/beatmapsets/1800571#osu/3691442) organisé par ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302)
+  - (![][osu!]) [Tokyo.MeltiMelt - Virgin Mary feat. Sennzai](https://osu.ppy.sh/beatmapsets/1830770#osu/3757790) organisé par ::{ flag=PH }:: [-Aqua](https://osu.ppy.sh/users/7150015)
+  - (![][osu!]) [Tokyo.MeltiMelt - the Beautiful Cure (feat. nayuta)](https://osu.ppy.sh/beatmapsets/1791173#osu/3670518) organisé par ::{ flag=GB }:: [Shii](https://osu.ppy.sh/users/9186316)
+- **[Hybrid Minds](https://osu.ppy.sh/home/news/2022-10-12-new-featured-artist-hybrid-minds)** (12/10/2022)
+  - (![][osu!]) [Hybrid Minds - Supernova](https://osu.ppy.sh/beatmapsets/1823175) organisé par ::{ flag=LT }:: [Strategas](https://osu.ppy.sh/users/2971837)
+- **[GLORYHAMMER](https://osu.ppy.sh/home/news/2022-10-15-new-featured-artist-gloryhammer)** (15/10/2022)
+  - (![][osu!]) [GLORYHAMMER - The Epic Rage of Furious Thunder](https://osu.ppy.sh/beatmapsets/1848202#osu/3796617) organisé par ::{ flag=TR }:: [Nymphe](https://osu.ppy.sh/users/10507407)
+- **[Hinkik](https://osu.ppy.sh/home/news/2022-10-26-new-featured-artist-hinkik)** (26/10/2022)
+  - (![][osu!]) [Hinkik - Explorers](https://osu.ppy.sh/beatmapsets/1861042#osu/3826149) organisé par ::{ flag=HU }:: [Nytrocide_](https://osu.ppy.sh/users/11327918)
+
+### Novembre
+
+- **[happy30](https://osu.ppy.sh/home/news/2022-11-02-new-featured-artist-happy30)** (02/11/2022)
+  - (![][osu!]) [happy30 - You spin my world](https://osu.ppy.sh/beatmapsets/1873680) organisé par ::{ flag=ID }:: [Kyouren](https://osu.ppy.sh/users/2013571)
+- **[Massive New Krew](https://osu.ppy.sh/home/news/2022-11-05-new-featured-artist-massive-new-krew)** (05/11/2022)
+  - (![][osu!]) [Massive New Krew - Bullshit](https://osu.ppy.sh/beatmapsets/1829152) organisé par ::{ flag=DE }:: [Icekalt](https://osu.ppy.sh/users/5410645)
+- **[E0ri4](https://osu.ppy.sh/home/news/2022-11-23-new-featured-artist-e0ri4)** (23/11/2022)
+  - (![][osu!]) [E0ri4 - L0V3 4RR0W 5H007](https://osu.ppy.sh/beatmapsets/1889263) organisé par ::{ flag=LT }:: [Strategas](https://osu.ppy.sh/users/2971837)
+- **[Innocent Key](https://osu.ppy.sh/home/news/2022-11-26-new-featured-artist-innocent-key)** (26/11/2022)
+  - (![][osu!]) [Innocent Key - Lunatic Red Eyes](https://osu.ppy.sh/beatmapsets/1879868) organisé par ::{ flag=TR }:: [Entry](https://osu.ppy.sh/users/10213311)
+  - (![][osu!mania]) [Innocent Key - Toho-Assisted-Speedrun!!!](https://osu.ppy.sh/beatmapsets/1852057) organisé par ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789)
+
+### Décembre
+
+- **[Ekcle](https://osu.ppy.sh/home/news/2022-12-07-new-featured-artist-ekcle)** (07/12/2022)
+  - (![][osu!]) [Ekcle - Crafted In Ice](https://osu.ppy.sh/beatmapsets/1868244) organisé par ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334)
+- **[LandRoot](https://osu.ppy.sh/home/news/2022-12-10-new-featured-artist-landroot)** (10/12/2022)
+  - (![][osu!]) [LandRoot - Need To De-stress](https://osu.ppy.sh/beatmapsets/1834399) organisé par ::{ flag=DE }:: [PaRaDogi](https://osu.ppy.sh/users/2054596)
+  - (![][osu!taiko]) [LandRoot - Need To De-stress](https://osu.ppy.sh/beatmapsets/1474263) organisé par ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015)
+
 ## Histoire
 
 Dès sa création, la Mappers' Guild s'est fixée comme objectif principal de "créer des packs de beatmaps promotionnels pour les Featured Artists à venir". Cela s'est reflété dans le tout premier projet majeur de la Guilde, dans lequel les membres de la Guilde ont préparé et classé six beatmaps des [musiques MOtOLOiD sous licence](https://osu.ppy.sh/beatmaps/artists/19) bien avant [l'annonce de l'artiste correspondant](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid).
