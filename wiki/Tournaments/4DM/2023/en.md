@@ -155,26 +155,26 @@ The 4 Digit osu!mania World Cup 2023 is run by various community members.
 12. Allowed mods in the Free Mod pool are No Fail, Hidden, Fade In, Flashlight, and Mirror. The tiebreaker map is also played under Free Mod conditions.
 13. Teams have a maximum of 3 minutes after the conclusion of the previous map to pick another map from the Free Mod pool to play (and are expected to pick in 2 minutes or less). If a team takes longer than 3 minutes, a random beatmap from the Free Mod pool will be picked for them by the match referee.
 14. If a player disconnects during a match, their score is counted as a failed score. However, if this disconnect happens before 30 seconds of the map is played, the referee can decide to let the teams rematch. If this rematch happens, the rosters on both teams must stay the same unless the disconnected player cannot return to the lobby, in which case both teams are allowed to switch rosters.
-15. Failed scores do not count toward a team's total score, however a score which fails and then revives will still count. (Use NoFail if you believe you are in jeopardy of failing a map!)
+15. Failed scores do not count towards a team's total score, however a score which fails and then revives will still count. (Use No Fail if you believe you are in jeopardy of failing a map!)
 16. If team scores are an exact tie at the conclusion of a map, the map will be replayed.
-17. If a team cannot gather 3 members into the match lobby by 10 minutes after the match’s scheduled start time, the opposing team will be declared a win by default. If neither team can gather 3 members into the match lobby by 10 minutes after the match’s scheduled start time, the team with the higher seed out of qualifiers will be declared a win by default.
+17. If a team cannot gather 3 members into the match lobby by 10 minutes after the match's scheduled start time, the opposing team will be declared to win by default. If neither team can gather 3 members into the match lobby by 10 minutes after the match's scheduled start time, the team with the higher seed out of qualifiers will be declared to win by default.
 18. If a player disconnects in the middle of a match and the team cannot provide a replacement, the match can be delayed by up to 10 minutes before a win by default is declared to the opposing team.
-19. For additional rules left out of this section of the forum, please see the [Additional Rules](#additional-rules) section below. As well, feel free to ask a host about any questions regarding rules or the tournament in general!
+19. For additional rules left out of this section of the forum, please see the [Additional rules](#additional-rules) section below. As well, feel free to ask a host about any questions regarding rules or the tournament in general!
 
 ### Additional rules
 
 NOTE: Staff will attempt to closely follow the rules of [the most recent 4K osu!mania World Cup](/wiki/Tournaments/MWC/2022_4K).
 
 1. The tournament hosts are responsible for scheduling all matches and informing players of when they are scheduled to play. If a team is unhappy with when they are scheduled by the hosts to play, they have the option to reschedule their match as late as the end of **Thursday of the week before the weekend** of their match. Instructions on how to do so will be provided in the Discord server.
-2. Please note that while the organizers will try to schedule all matches for the best possible time for both teams, timezone conflicts may force some matches to occur in the early mornings or late nights.
+2. Please note that while the organisers will try to schedule all matches for the best possible time for both teams, timezone conflicts may force some matches to occur in the early mornings or late nights.
 3. If no referee is available to referee a match, the match will be postponed.
 4. If no streamers are available to broadcast the match, the match will still occur without being broadcasted.
-5. If no commentators are available to commentate the match but broadcasters are available to broadcast the match, the match will still be broadcasted but without commentary. Please note that organizers will try to broadcast every match possible.
-6. Rescheduled matches will be prioritized under non-rescheduled matches in terms of being broadcasted.
+5. If no commentators are available to commentate the match but broadcasters are available to broadcast the match, the match will still be broadcasted but without commentary. Please note that organisers will try to broadcast every match possible.
+6. Rescheduled matches will be prioritised under non-rescheduled matches in terms of being broadcasted.
 7. Each respective stage of the tournament is to be completed in a single weekend, using the same mappool for the entire weekend. Weekday matches are allowed if both team captains agree to them and they take place before the weekend of that scheduled stage. Mappools will be released roughly a week before the stage they are to be played on. The latest a map in a released mappool may be slightly updated (e.g. as to fixing a notable timing or snapping issue) is by **23:59 UTC of the Monday after the mappool is released**.
-8. If one player on a team has their account restricted while still participating in the tournament for reasons of believed cheating, multi accounting, or anything else, this player's entire team shall be disqualified from the tournament with no exceptions. Depending on the case, the team most recently defeated in a match by the newly disqualified team may be allowed to advance in this disqualified team's place. If this happens, the result of this former match will be voided.
-9. Repeated and excessive toxic behavior toward any staff member, player, or spectator either in match multiplayer chatroom, the official discord server, or the official twitch channel chatroom is strictly prohibited and will lead to, in successive order with host’s discretion to skip certain steps:
+8. If one player on a team has their account restricted while still participating in the tournament for reasons of believed cheating, multi-accounting, or anything else, this player's entire team shall be disqualified from the tournament with no exceptions. Depending on the case, the team most recently defeated in a match by the newly disqualified team may be allowed to advance in this disqualified team's place. If this happens, the result of this former match will be voided.
+9. Repeated and excessive toxic behavior toward any staff member, player, or spectator either in match multiplayer chatroom, the official discord server, or the official twitch channel chatroom is strictly prohibited and will lead to, in successive order with host's discretion to skip certain steps:
    1. Casual, undocumented warning
    2. Formal, documented warning
-   3. Timeout of player wherever necessary for a subjective amount of time (Players on timeout during tournament match will be disallowed to play during their match and must be swapped out for other players)
-   4. Official ban from the tournament as well as a ban from the official Discord server and Twitch channel
+   3. Timeout of player wherever necessary for a subjective amount of time (disallowing them from playing in tournament matches)
+   4. Ban from the tournament as well as a ban from the official Discord server and Twitch channel
