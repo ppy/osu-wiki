@@ -39,6 +39,7 @@
 | ::{ flag=CA }:: [CheeseWarlock](https://osu.ppy.sh/users/9072) | BAT |
 | ::{ flag=IT }:: [Chewin](https://osu.ppy.sh/users/617323) | BAT |
 | ::{ flag=DE }:: [Clobohne](https://osu.ppy.sh/users/499343) | GMT |
+| ::{ flag=TR }:: [Coldrod](https://osu.ppy.sh/users/9065991) | GMT |
 | ::{ flag=CN }:: [Colin Hou](https://osu.ppy.sh/users/196614) | BAT |
 | ::{ flag=NO }:: [CXu](https://osu.ppy.sh/users/84841) | BAT |
 | ::{ flag=FR }:: [Cyclohexane](https://osu.ppy.sh/users/116078) | GMT |
@@ -87,7 +88,6 @@
 | ::{ flag=NL }:: [happy30](https://osu.ppy.sh/users/27767) | BAT |
 | ::{ flag=US }:: [HappyStick](https://osu.ppy.sh/users/256802) | Организатор турниров |
 | ::{ flag=MY }:: [HeatKai](https://osu.ppy.sh/users/332555) | BAT, модератор чата |
-| ::{ flag=TR }:: [heyronii](https://osu.ppy.sh/users/5642779) | GMT |
 | ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323) | GMT |
 | ::{ flag=US }:: [Hitoshirenu Shourai](https://osu.ppy.sh/users/602) | BAT |
 | ::{ flag=US }:: [Hobbes2](https://osu.ppy.sh/users/8157492) | QAT |
@@ -112,6 +112,7 @@
 | ::{ flag=CA }:: [Kibbleru](https://osu.ppy.sh/users/3193504) | BAT, QAT, NAT |
 | ::{ flag=US }:: [kingcobra52](https://osu.ppy.sh/users/9934) | BAT |
 | ::{ flag=AU }:: [kingking9](https://osu.ppy.sh/users/1277097) | GMT |
+| ::{ flag=DE }:: [Kite](https://osu.ppy.sh/users/134572) | GMT |
 | ::{ flag=CA }:: [Kitokofox](https://osu.ppy.sh/users/1815420) | Модератор чата |
 | ::{ flag=FR }:: [Krah](https://osu.ppy.sh/users/1436748) | BAT, GMT, QAT |
 | ::{ flag=CL }:: [Krisom](https://osu.ppy.sh/users/99269) | BAT |
@@ -130,6 +131,7 @@
 | ::{ flag=CN }:: [ljqandylee](https://osu.ppy.sh/users/141469) | BAT |
 | ::{ flag=SE }:: [Loginer](https://osu.ppy.sh/users/819) | GMT |
 | ::{ flag=HR }:: [lolcubes](https://osu.ppy.sh/users/578401) | QAT |
+| ::{ flag=TW }:: [Loneight](https://osu.ppy.sh/users/663131) | BAT, модератор чата, GMT |
 | ::{ flag=US }:: [Love](https://osu.ppy.sh/users/467487) | BAT |
 | ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | GMT |
 | ::{ flag=AU }:: [Lumino](https://osu.ppy.sh/users/59) | BAT |
@@ -167,17 +169,18 @@
 | ::{ flag=PH }:: [NoHitter](https://osu.ppy.sh/users/124455) | BAT |
 | ::{ flag=US }:: [nuudles](https://osu.ppy.sh/users/21312) | Разработчик osu! |
 | ::{ flag=CN }:: [Nymph](https://osu.ppy.sh/users/601990) | BAT |
-| ::{ flag=CN }:: [Nyquill](https://osu.ppy.sh/users/682935) | BAT, GMT |
+| ::{ flag=CA }:: [Nyquill](https://osu.ppy.sh/users/682935) | BAT, GMT |
 | ::{ flag=AU }:: [Oinari-sama](https://osu.ppy.sh/users/405508) | Модератор чата, сотрудник техподдержки |
 | ::{ flag=TH }:: [orioncomet](https://osu.ppy.sh/users/104827) | BAT |
 | ::{ flag=FI }:: [Orkel](https://osu.ppy.sh/users/39385) | Модератор чата |
 | ::{ flag=SG }:: [Pasonia](https://osu.ppy.sh/users/43345) | BAT |
 | ::{ flag=CA }:: [Pawsu](https://osu.ppy.sh/users/2371454) | GMT, сотрудник техподдержки |
+| ::{ flag=PT }:: [Pereira006](https://osu.ppy.sh/users/537344) | BAT, модератор чата, GMT |
 | ::{ flag=NL }:: [Pittigbaasje](https://osu.ppy.sh/users/2167433) | GMT |
 | ::{ flag=HK }:: [Pokie](https://osu.ppy.sh/users/207340) | BAT |
 | ::{ flag=CN }:: [popner](https://osu.ppy.sh/users/759860) | BAT |
 | ::{ flag=MY }:: [PROGUY](https://osu.ppy.sh/users/528181) | QAT |
-| ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) | QAT |
+| ::{ flag=SE }:: [PuffBuck](https://osu.ppy.sh/users/4234525) | Организатор турниров |
 | ::{ flag=ES }:: [Raiden](https://osu.ppy.sh/users/2239480) | GMT, QAT |
 | ::{ flag=GB }:: [RandomJibberish](https://osu.ppy.sh/users/157879) | BAT |
 | ::{ flag=US }:: [RemmyX25](https://osu.ppy.sh/users/612) | BAT |
@@ -245,6 +248,7 @@
 | ::{ flag=CN }:: [Zero__wind](https://osu.ppy.sh/users/1822830) | BAT, GMT |
 | ::{ flag=CA }:: [Zerostarry](https://osu.ppy.sh/users/3480) | BAT |
 | ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) | GMT |
+| ::{ flag=TR }:: [Zeus-](https://osu.ppy.sh/users/5464437) | GMT |
 | ::{ flag=SG }:: [ZHSteven](https://osu.ppy.sh/users/142413) | BAT |
 | ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) | NAT |
 | ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) | Основатель osu!academy, GMT |
