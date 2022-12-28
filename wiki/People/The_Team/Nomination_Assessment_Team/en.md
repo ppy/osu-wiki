@@ -87,7 +87,7 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | Evaluator |
 | ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Chinese | Evaluator |
 | ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | German | Evaluator |
-| ::{ flag=SG }:: [Kotoha](https://osu.ppy.sh/users/7823498) | Chinese | Evaluator |
+| ::{ flag=SG }:: [achyoo](https://osu.ppy.sh/users/7823498) | Chinese | Evaluator |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Swedish | Advisor[^task-naxess] |
 | ::{ flag=GB }:: [NexusQI](https://osu.ppy.sh/users/13822800) |  | Evaluator |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | Advisor[^task-pishifat] |
