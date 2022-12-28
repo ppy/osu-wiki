@@ -6,7 +6,7 @@ tags:
 
 # Обновление до lazer
 
-osu!(lazer) – это следующее глобальное обновление игры: кульминация нескольких лет скрупулёзной работы за кулисами по разработке игры заново, с нуля.
+osu!(lazer) – это следующее глобальное обновление игры: кульминация нескольких лет скрупулёзной работы "за кулисами" по разработке игры заново, с нуля.
 
 Конечной целью этого проекта является обновление, которое полностью заместит существующую стабильную версию, однако пока что ещё есть работа, которую нужно проделать, чтобы это стало реальностью. В конечном счёте **игроки** будут решать, когда это произойдёт; поддержка предыдущей версии не прекратится до тех пор, пока большинство игроков не перейдут на новую.
 
@@ -14,100 +14,100 @@ osu!(lazer) – это следующее глобальное обновлен�
 
 ## Сравнение функций
 
-Ниже приведёны таблицы функций **текущей версии** lazer по сравнению со stable. Заметьте: это статья будет постоянно обновляться, так как целью является разработка как всех функций, предсталенных в статье, так и тех, что хотят игроки.
+Ниже приведёны таблицы функций **текущей версии** lazer по сравнению со stable. Заметьте: это статья будет постоянно обновляться, так как одной из цели является разработка как всех функций, предсталенных в статье, так и тех, что хотят игроки.
 
 ### Совместимость и производительность
 
 | Функция | stable | lazer |
 | :-- | :-- | :-- |
-| Windows 8.0 and lower | ![Yes][true] | ![No][false] |
+| Windows 8.0 и ниже | ![Yes][true] | ![No][false] |
 | macOS / Linux | ![Partial][partial][^wine] | ![Yes][true] |
 | DirectX / Vulkan | ![Partial][partial][^compatibility-mode] | ![No][false][^coming-soon] |
-| Mobile support | ![No][false] | ![Yes][true] |
-| Multithreaded architecture | ![No][false] | ![Yes][true] |
-| Hardware-accelerated video | ![No][false] | ![Yes][true] |
-| UI scaling | ![No][false] | ![Yes][true] |
-| Custom rulesets (game modes) | ![No][false] | ![Partial][partial][^dll] |
-| De-duped file store | ![No][false] | ![Yes][true][^share-files] |
-| Tablet area adjustment | ![No][false] | ![Yes][true] |
+| Мобильная поддержка | ![No][false] | ![Yes][true] |
+| Многопоточная архитектура | ![No][false] | ![Yes][true] |
+| Аппаратное ускорение видео | ![No][false] | ![Yes][true] |
+| Масштабирование интерфейса | ![No][false] | ![Yes][true] |
+| Дополнительные игровые режимы | ![No][false] | ![Partial][partial][^dll] |
+| Единое хранилище данных | ![No][false] | ![Yes][true][^share-files] |
+| Встроенный драйвер для планшета | ![No][false] | ![Yes][true] |
 
-### UI and skinning
+### Интерфейс и скин
 
-| Feature | stable | lazer |
+| Функция | stable | lazer |
 | :-- | :-- | :-- |
-| Skin support | ![Yes][true] | ![Partial][partial][^gameplay-only] |
-| Song select grouping modes | ![Yes][true] | ![No][false] |
-| In-game skin / UI layout editing | ![No][false] | ![Yes][true] |
+| Поддержка скинов | ![Yes][true] | ![Partial][partial][^gameplay-only] |
+| Группировка карт в меню выбора песни | ![Yes][true] | ![No][false] |
+| Внутриигровой скин / Изменение элементов интерфейса | ![No][false] | ![Yes][true] |
 
-### Gameplay and skinning
+### Игра и скин
 
-| Feature | stable | lazer |
+| Функция | stable | lazer |
 | :-- | :-- | :-- |
 | Accurate performance point display | ![Partial][partial][^online] | ![Yes][true] |
-| Mod presets | ![No][false] | ![Yes][true] |
-| Per-mod settings | ![No][false] | ![Yes][true] |
-| New "fun" mods | ![No][false] | ![Yes][true] |
-| Combo colour normalisation[^normalisation] | ![No][false] | ![Yes][true] |
-| Hold for HUD | ![No][false] | ![Yes][true][^hold-for-hud] |
-| Offset calibration | ![Partial][partial][^offset-calibration-stable] | ![Yes][true][^offset-calibration-lazer] |
-| osu! sliders "snake" while dragging | ![No][false] | ![Yes][true][^can-disable] |
-| osu! player-friendly "note lock" | ![No][false] | ![Yes][true][^note-lock] |
-| osu!mania timing-based note colouring | ![No][false] | ![Yes][true] |
+| Пресеты модов | ![No][false] | ![Yes][true] |
+| Тонкая настройка модов | ![No][false] | ![Yes][true] |
+| Новые "развлекательные" моды | ![No][false] | ![Yes][true] |
+| Нормализация комбо-цветов[^normalisation] | ![No][false] | ![Yes][true] |
+| Показать скрытый интерфейс удержанием клавиши | ![No][false] | ![Yes][true][^hold-for-hud] |
+| Калибровка сдвига трека относительно карты | ![Partial][partial][^offset-calibration-stable] | ![Yes][true][^offset-calibration-lazer] |
+| Выдвигающиеся / Задвигающиеся слайдеры | ![No][false] | ![Yes][true][^can-disable] |
+| Облегчённая версия "note lock" | ![No][false] | ![Yes][true][^note-lock] |
+| Дольная окраска нот режима osu!mania | ![No][false] | ![Yes][true] |
 
-### Online systems
+### Онлайн-взаимодействия
 
-| Feature | stable | lazer |
+| Функция | stable | lazer |
 | :-- | :-- | :-- |
-| Score submission | ![Yes][true] | ![Partial][partial][^score-reset-balance] |
-| Beatmap leaderboards | ![Yes][true] | ![Partial][partial][^score-reset-isolated] |
-| Profile statistics | ![Yes][true] | ![Yes][true] |
-| Medals | ![Yes][true] | ![No][false] |
-| Performance points | ![Yes][true] | ![Partial][partial][^score-reset-isolated] |
-| Real-time chat | ![Partial][partial][^stable-chat] | ![Yes][true] |
-| Wiki / News / Changelog / Rankings | ![No][false] | ![Yes][true][^online-content] |
-| User profiles | ![No][false] | ![Yes][true] |
-| Beatmap listing | ![Partial][partial][^direct-supporter] | ![Yes][true] |
-| Unlimited multiplayer room size | ![No][false][^multi-room-max] | ![Yes][true] |
-| Multiplayer spectating | ![No][false] | ![Yes][true] |
-| Countdown timers | ![Partial][partial][^countdown-timers-stable] | ![Yes][true][^countdown-timers-lazer] |
-| Queue modes | ![No][false] | ![Yes][true][^queue-modes] |
-| Multiplayer commands | ![Yes][true] | ![No][false] |
-| Tag co-op | ![Yes][true] | ![No][false] |
-| Playlists (user-curated leaderboards) | ![No][false] | ![Yes][true] |
-| Updating beatmaps with online changes | ![Partial][partial][^map-only] | ![Yes][true][^all-files] |
+| Отправка рекордов на сервер | ![Yes][true] | ![Partial][partial][^score-reset-balance] |
+| Таблицы рекордов карт | ![Yes][true] | ![Partial][partial][^score-reset-isolated] |
+| Статистика профиля | ![Yes][true] | ![Yes][true] |
+| Медали | ![Yes][true] | ![No][false] |
+| Очки производительности | ![Yes][true] | ![Partial][partial][^score-reset-isolated] |
+| Чат без задержки | ![Partial][partial][^stable-chat] | ![Yes][true] |
+| Вики / Новости / Список изменений / Рейтинги | ![No][false] | ![Yes][true][^online-content] |
+| Профили игроков | ![No][false] | ![Yes][true] |
+| Библиотека карт | ![Partial][partial][^direct-supporter] | ![Yes][true] |
+| Неограниченный размер комнат мультиплеера | ![No][false][^multi-room-max] | ![Yes][true] |
+| Режим наблюдения в мультиплеере | ![No][false] | ![Yes][true] |
+| Таймеры обратного отсчёта | ![Partial][partial][^countdown-timers-stable] | ![Yes][true][^countdown-timers-lazer] |
+| Режимы очереди | ![No][false] | ![Yes][true][^queue-modes] |
+| Мультиплеерные команды | ![Yes][true] | ![No][false] |
+| Режим прохождения карты по секциям | ![Yes][true] | ![No][false] |
+| Плейлисты (сеты из карт с собственными таблицами рекордов) | ![No][false] | ![Yes][true] |
+| Обновление карт в реальном времени | ![Partial][partial][^map-only] | ![Yes][true][^all-files] |
 
-### Editor
+### Редактор
 
-| Feature | stable | lazer |
+| Функция | stable | lazer |
 | :-- | :-- | :-- |
-| osu!taiko editor | ![No][false] | ![Yes][true] |
-| osu!catch editor | ![No][false] | ![Yes][true] |
-| osu!mania editor | ![Yes][true] | ![Yes][true] |
-| Open difficulty as reference | ![Yes][true] | ![No][false] |
-| Per-object SV / volume | ![No][false] | ![Yes][true] |
-| Pattern rotation | ![Yes][true] | ![Partial][partial][^editor-precise-rotation] |
-| Pattern resizing | ![No][false] | ![Yes][true] |
-| Beatmap submission | ![Yes][true] | ![No][false] |
-| Storyboard editor | ![Yes][true] | ![No][false] |
-| Cross-compatibility | ![Yes][true] | ![Partial][partial][^incompatibilities] |
+| Редактор для osu!taiko | ![No][false] | ![Yes][true] |
+| Редактор для osu!catch | ![No][false] | ![Yes][true] |
+| Редактор для osu!mania | ![Yes][true] | ![Yes][true] |
+| Сравнение двух сложностей | ![Yes][true] | ![No][false] |
+| Настройка громкости хитсаундов для каждого объекта | ![No][false] | ![Yes][true] |
+| Вращение паттернов | ![Yes][true] | ![Partial][partial][^editor-precise-rotation] |
+| Изменение размеров паттернов | ![No][false] | ![Yes][true] |
+| Публикация карт | ![Yes][true] | ![No][false] |
+| Редактор сторибордов | ![Yes][true] | ![No][false] |
+| Кроссплатформенность | ![Yes][true] | ![Partial][partial][^incompatibilities] |
 
-## Switching to lazer
+## Переход в lazer
 
-So you've decided you want to give lazer a shot? Great!
+Решили попробовать поиграть в osu!lazer? Круто!
 
-You can find it for download [here](https://github.com/ppy/osu#running-osu). In the near future, you will be able to switch to lazer from stable (from the `Release stream` setting) and find the download link on the osu! website.
+Вы можете скачать его [тут](https://github.com/ppy/osu#running-osu). В ближайшем будущем вы сможете перейти на лазер через "ветку обновлений" в настройках игры или скачав его через основной сайт.
 
 ## FAQ
 
-### Migration
+### Перенос данных
 
-#### Is stable going away? Am I going to be forced to switch?
+#### Stable больше не будет поддерживаться? Я буду вынужден перейти в lazer?
 
-Stable will continue to be maintained as long as users are using it. At very least, it will be maintained for several years.
+Stable будет поддерживаться до тех пор, пока пользователи будут в него играть. По крайней мере, он будет ещё поддерживаться несколько лет.
 
-#### Can I import all my data from stable to lazer?
+#### Могу ли я импортировать все мои данные из stable в lazer?
 
-Currently, beatmaps, skins, scores, replays and collections can be imported into lazer. Of note, **settings are not yet imported** so you will need to set them up from scratch.
+На данный момент в lazer могут быть импортированы карты, скины, рекорды, записи игры и коллекции. Стоит отметить, что импорт настроек не поддерживается -  настраивать клиент игры придётся с нуля.
 
 #### If I import my beatmaps to lazer, will it use double the disk space?
 
@@ -115,13 +115,13 @@ If you have both lazer and stable on the same drive, [hard links](/wiki/Client/R
 
 In all other cases, importing beatmaps will use double the disk space.
 
-#### If I delete lazer will it break my stable install?
+#### If I delete lazer will it break my stable install? Если я удалю lazer, 
 
-No.
+Нет.
 
 #### If I delete stable will it break content in lazer that was imported from stable?
 
-No.
+Нет.
 
 #### If I install lazer, will I be able to return to stable?
 
@@ -257,10 +257,10 @@ You're likely thinking of another game.
 
 ### Notes
 
-[^wine]: Using wine.
+[^wine]: Используя wine.
 [^compatibility-mode]: DirectX via compatibility mode.
-[^coming-soon]: Coming soon.
-[^dll]: Manually via `.dll` files.
+[^coming-soon]: Cкоро.
+[^dll]: Используя файлы `.dll`.
 [^share-files]: Beatmaps and skins will share files and save on disk space.
 [^gameplay-only]: Gameplay only.
 [^online]: Via online retrieval.
