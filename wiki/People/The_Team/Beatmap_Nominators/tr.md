@@ -88,7 +88,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ::{ flag=RU }:: [Shmiklak](https://osu.ppy.sh/users/5504231) | Rusça |
 | ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | Rusça |
 | ::{ flag=FR }:: [Sotarks](https://osu.ppy.sh/users/4452992) | Fransızca |
-| ::{ flag=DE }:: [Sylvarus](https://osu.ppy.sh/users/4505918) | Almanca |
+| ::{ flag=DE }:: [Dignan](https://osu.ppy.sh/users/4505918) | Almanca |
 | ::{ flag=FI }:: [TheKingHenry](https://osu.ppy.sh/users/5128277) | Fince |
 | ::{ flag=TH }:: [timemon](https://osu.ppy.sh/users/2072005) | Tayca |
 | ::{ flag=LT }:: [tomatas95](https://osu.ppy.sh/users/11403815) | Litvanca |
@@ -99,7 +99,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  |
 | ::{ flag=CN }:: [Yugu](https://osu.ppy.sh/users/3161834) | Çince, Japonca |
 | ::{ flag=IT }:: [Zekk](https://osu.ppy.sh/users/9704802) | İtalyanca |
-| ::{ flag=SE }:: [Zer0-](https://osu.ppy.sh/users/11038155) | İsveççe |
+| ::{ flag=SE }:: [Kudosu](https://osu.ppy.sh/users/11038155) | İsveççe |
 
 #### osu!taiko
 
@@ -219,7 +219,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | İsim | Ek diller |
 | :-- | :-- |
 | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | Endonezce |
-| ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/14351534) | Çince |
+| ::{ flag=CN }:: [Serian-](https://osu.ppy.sh/users/14351534) | Çince |
 | ::{ flag=CN }:: [Seiran-](https://osu.ppy.sh/users/14351534) | Çince |
 
 ## Tarihçe

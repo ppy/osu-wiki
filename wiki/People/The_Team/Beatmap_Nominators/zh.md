@@ -88,7 +88,7 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 | ::{ flag=RU }:: [Shmiklak](https://osu.ppy.sh/users/5504231) | 俄语 |
 | ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | 俄语 |
 | ::{ flag=FR }:: [Sotarks](https://osu.ppy.sh/users/4452992) | 法语 |
-| ::{ flag=DE }:: [Sylvarus](https://osu.ppy.sh/users/4505918) | 德语 |
+| ::{ flag=DE }:: [Dignan](https://osu.ppy.sh/users/4505918) | 德语 |
 | ::{ flag=FI }:: [TheKingHenry](https://osu.ppy.sh/users/5128277) | 芬兰语 |
 | ::{ flag=TH }:: [timemon](https://osu.ppy.sh/users/2072005) | 泰语 |
 | ::{ flag=LT }:: [tomatas95](https://osu.ppy.sh/users/11403815) | 立陶宛语 |
@@ -99,7 +99,7 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 | ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  |
 | ::{ flag=CN }:: [Yugu](https://osu.ppy.sh/users/3161834) | 汉语，日语 |
 | ::{ flag=IT }:: [Zekk](https://osu.ppy.sh/users/9704802) | 意大利语 |
-| ::{ flag=SE }:: [Zer0-](https://osu.ppy.sh/users/11038155) | 瑞典语 |
+| ::{ flag=SE }:: [Kudosu](https://osu.ppy.sh/users/11038155) | 瑞典语 |
 
 #### osu!taiko
 
@@ -219,7 +219,7 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 | 名字 | 语言 |
 | :-- | :-- |
 | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | 印度尼西亚语 |
-| ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/14351534) | 汉语 |
+| ::{ flag=CN }:: [Serian-](https://osu.ppy.sh/users/14351534) | 汉语 |
 | ::{ flag=CN }:: [Seiran-](https://osu.ppy.sh/users/14351534) | 汉语 |
 
 ## 历史

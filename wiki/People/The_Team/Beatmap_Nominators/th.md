@@ -88,7 +88,7 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | ::{ flag=RU }:: [Shmiklak](https://osu.ppy.sh/users/5504231) | รัสเซีย |
 | ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | รัสเซีย |
 | ::{ flag=FR }:: [Sotarks](https://osu.ppy.sh/users/4452992) | ฝรั่งเศส |
-| ::{ flag=DE }:: [Sylvarus](https://osu.ppy.sh/users/4505918) | เยอรมัน |
+| ::{ flag=DE }:: [Dignan](https://osu.ppy.sh/users/4505918) | เยอรมัน |
 | ::{ flag=FI }:: [TheKingHenry](https://osu.ppy.sh/users/5128277) | ฟินแลนด์ |
 | ::{ flag=TH }:: [timemon](https://osu.ppy.sh/users/2072005) | ไทย |
 | ::{ flag=LT }:: [tomatas95](https://osu.ppy.sh/users/11403815) | ลิทัวเนีย |
@@ -99,7 +99,7 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  |
 | ::{ flag=CN }:: [Yugu](https://osu.ppy.sh/users/3161834) | จีน, ญี่ปุ่น |
 | ::{ flag=IT }:: [Zekk](https://osu.ppy.sh/users/9704802) | อิตาลี |
-| ::{ flag=SE }:: [Zer0-](https://osu.ppy.sh/users/11038155) | สวีเดน |
+| ::{ flag=SE }:: [Kudosu](https://osu.ppy.sh/users/11038155) | สวีเดน |
 
 #### osu!taiko
 
@@ -219,7 +219,7 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | ชื่อ | ภาษาเพิ่มเติม |
 | :-- | :-- |
 | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | อินโดนีเซีย |
-| ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/14351534) | จีน |
+| ::{ flag=CN }:: [Serian-](https://osu.ppy.sh/users/14351534) | จีน |
 | ::{ flag=CN }:: [Seiran-](https://osu.ppy.sh/users/14351534) | จีน |
 
 ## ประวัติ

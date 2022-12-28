@@ -88,7 +88,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | ::{ flag=RU }:: [Shmiklak](https://osu.ppy.sh/users/5504231) | Russo |
 | ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | Russo |
 | ::{ flag=FR }:: [Sotarks](https://osu.ppy.sh/users/4452992) | Francês |
-| ::{ flag=DE }:: [Sylvarus](https://osu.ppy.sh/users/4505918) | Alemão |
+| ::{ flag=DE }:: [Dignan](https://osu.ppy.sh/users/4505918) | Alemão |
 | ::{ flag=FI }:: [TheKingHenry](https://osu.ppy.sh/users/5128277) | Finlandês |
 | ::{ flag=TH }:: [timemon](https://osu.ppy.sh/users/2072005) | Tailandês |
 | ::{ flag=LT }:: [tomatas95](https://osu.ppy.sh/users/11403815) | Lituano |
@@ -99,7 +99,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  |
 | ::{ flag=CN }:: [Yugu](https://osu.ppy.sh/users/3161834) | Chinês, japonês |
 | ::{ flag=IT }:: [Zekk](https://osu.ppy.sh/users/9704802) | Italiano |
-| ::{ flag=SE }:: [Zer0-](https://osu.ppy.sh/users/11038155) | Sueco |
+| ::{ flag=SE }:: [Kudosu](https://osu.ppy.sh/users/11038155) | Sueco |
 
 #### osu!taiko
 
@@ -219,7 +219,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | Nome | Línguas adicionais |
 | :-- | :-- |
 | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | Indonésio |
-| ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/14351534) | Chinês |
+| ::{ flag=CN }:: [Serian-](https://osu.ppy.sh/users/14351534) | Chinês |
 | ::{ flag=CN }:: [Seiran-](https://osu.ppy.sh/users/14351534) | Chinês |
 
 ## History

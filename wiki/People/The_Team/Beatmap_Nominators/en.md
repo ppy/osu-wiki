@@ -88,7 +88,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ::{ flag=RU }:: [Shmiklak](https://osu.ppy.sh/users/5504231) | Russian |
 | ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | Russian |
 | ::{ flag=FR }:: [Sotarks](https://osu.ppy.sh/users/4452992) | French |
-| ::{ flag=DE }:: [Sylvarus](https://osu.ppy.sh/users/4505918) | German |
+| ::{ flag=DE }:: [Dignan](https://osu.ppy.sh/users/4505918) | German |
 | ::{ flag=FI }:: [TheKingHenry](https://osu.ppy.sh/users/5128277) | Finnish |
 | ::{ flag=TH }:: [timemon](https://osu.ppy.sh/users/2072005) | Thai |
 | ::{ flag=LT }:: [tomatas95](https://osu.ppy.sh/users/11403815) | Lithuanian |
@@ -99,7 +99,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  |
 | ::{ flag=CN }:: [Yugu](https://osu.ppy.sh/users/3161834) | Chinese, Japanese |
 | ::{ flag=IT }:: [Zekk](https://osu.ppy.sh/users/9704802) | Italian |
-| ::{ flag=SE }:: [Zer0-](https://osu.ppy.sh/users/11038155) | Swedish |
+| ::{ flag=SE }:: [Kudosu](https://osu.ppy.sh/users/11038155) | Swedish |
 
 #### osu!taiko
 
@@ -219,7 +219,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | Name | Additional languages |
 | :-- | :-- |
 | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | Indonesian |
-| ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/14351534) | Chinese |
+| ::{ flag=CN }:: [Serian-](https://osu.ppy.sh/users/14351534) | Chinese |
 | ::{ flag=CN }:: [Seiran-](https://osu.ppy.sh/users/14351534) | Chinese |
 
 ## History

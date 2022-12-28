@@ -88,7 +88,7 @@ Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masin
 | ::{ flag=RU }:: [Shmiklak](https://osu.ppy.sh/users/5504231) | Rusia |
 | ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | Rusia |
 | ::{ flag=FR }:: [Sotarks](https://osu.ppy.sh/users/4452992) | Perancis |
-| ::{ flag=DE }:: [Sylvarus](https://osu.ppy.sh/users/4505918) | Jerman |
+| ::{ flag=DE }:: [Dignan](https://osu.ppy.sh/users/4505918) | Jerman |
 | ::{ flag=FI }:: [TheKingHenry](https://osu.ppy.sh/users/5128277) | Suomi |
 | ::{ flag=TH }:: [timemon](https://osu.ppy.sh/users/2072005) | Thai |
 | ::{ flag=LT }:: [tomatas95](https://osu.ppy.sh/users/11403815) | Lituavi |
@@ -99,7 +99,7 @@ Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masin
 | ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  |
 | ::{ flag=CN }:: [Yugu](https://osu.ppy.sh/users/3161834) | Tionghoa, Jepang |
 | ::{ flag=IT }:: [Zekk](https://osu.ppy.sh/users/9704802) | Italia |
-| ::{ flag=SE }:: [Zer0-](https://osu.ppy.sh/users/11038155) | Swedia |
+| ::{ flag=SE }:: [Kudosu](https://osu.ppy.sh/users/11038155) | Swedia |
 
 #### osu!taiko
 
@@ -219,7 +219,7 @@ Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masin
 | Nama | Bahasa tambahan |
 | :-- | :-- |
 | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | Indonesia |
-| ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/14351534) | Tionghoa |
+| ::{ flag=CN }:: [Serian-](https://osu.ppy.sh/users/14351534) | Tionghoa |
 | ::{ flag=CN }:: [Seiran-](https://osu.ppy.sh/users/14351534) | Tionghoa |
 
 ## Sejarah

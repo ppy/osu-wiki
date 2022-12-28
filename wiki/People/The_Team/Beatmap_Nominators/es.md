@@ -87,7 +87,7 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | ::{ flag=RU }:: [Shmiklak](https://osu.ppy.sh/users/5504231) | Ruso |
 | ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | Ruso |
 | ::{ flag=FR }:: [Sotarks](https://osu.ppy.sh/users/4452992) | Francés |
-| ::{ flag=DE }:: [Sylvarus](https://osu.ppy.sh/users/4505918) | Alemán |
+| ::{ flag=DE }:: [Dignan](https://osu.ppy.sh/users/4505918) | Alemán |
 | ::{ flag=FI }:: [TheKingHenry](https://osu.ppy.sh/users/5128277) | Finés |
 | ::{ flag=TH }:: [timemon](https://osu.ppy.sh/users/2072005) | Tailandés |
 | ::{ flag=LT }:: [tomatas95](https://osu.ppy.sh/users/11403815) | Lituano |
@@ -98,7 +98,7 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  |
 | ::{ flag=CN }:: [Yugu](https://osu.ppy.sh/users/3161834) | Chino, japonés |
 | ::{ flag=IT }:: [Zekk](https://osu.ppy.sh/users/9704802) | Italiano |
-| ::{ flag=SE }:: [Zer0-](https://osu.ppy.sh/users/11038155) | Sueco |
+| ::{ flag=SE }:: [Kudosu](https://osu.ppy.sh/users/11038155) | Sueco |
 
 #### osu!taiko
 
@@ -218,7 +218,7 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
 | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | Indonesio |
-| ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/14351534) | Chino |
+| ::{ flag=CN }:: [Serian-](https://osu.ppy.sh/users/14351534) | Chino |
 | ::{ flag=CN }:: [Seiran-](https://osu.ppy.sh/users/14351534) | Chino |
 
 ## Historia
