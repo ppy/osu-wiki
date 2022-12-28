@@ -1,85 +1,85 @@
 <!-- TODO: tons of things to add here. might be related to Projects article -->
 
-# How you can help!
+# Come puoi aiutare!
 
-osu! has a very vibrant community composed of people from all around the world. And anyone can be a part of the community in their own way! 
+osu! ha una comunità molto vivace composta da persone provenienti da tutto il mondo. E tutti possono farne parte a modo loro! 
 
-Below are just a few of the ways you can help out in the community:
+Di seguito sono riportati alcuni dei modi con cui puoi aiutare la comunità:
 
-## Help out with the wiki
+## Aiutaci con la wiki
 
-[The wiki](https://github.com/ppy/osu-wiki) is our official knowledge base that contains anything and everything about osu!. And as such, the wiki is always looking for more contributors to help keep the site up-to-date with fresh, new knowledge or translations.
+[La wiki](https://github.com/ppy/osu-wiki) è la nostra documentazione ufficiale che contiene tutto quello che riguarda osu!. E in quanto tale, la wiki è sempre alla ricerca di nuovi collaboratori per aiutare a mantenere il sito aggiornato con nuove, fresche conoscenze o traduzioni.
 
-If you are a newcomer to the osu! wiki, you can read more about it in the [osu! wiki contribution guide](/wiki/osu!_wiki/Contribution_guide).
+Se sei nuovo nella osu! wiki, puoi leggere di più a riguardo nella [Guida per contibuire alla osu! wiki](/wiki/osu!_wiki/Contribution_guide).
 
-## Help keep osu! friendly and safe
+## Aiutaci a mantenere osu! amichevole e sicura
 
-In order to keep the official community hubs safe, osu! has a dedicated moderation team that monitors the forums and online chats around-the-clock. 
+Per mantenere gli hub ufficiali della comunità sicuri, osu! ha un team di moderazione dedicato che monitora il forum e le chat 24 ore su 24. 
 
-Fortunately, it is still easy for you to help keep everything safe here. The following are just a few of the many ways you can help:
+Per fortuna, è comunque facile per te aiutarci a mantenere la sicurezza. Ecco alcuni dei molti modi con cui puoi aiutarci:
 
-- Follow your favourite channels in the [osu! in-game chat](/wiki/Client/Interface/Chat_console), or participate on the forums.
-- If you see something happening that you think is inappropriate or disturbing in any way, use [the `!report` command](/wiki/Reporting_bad_behaviour) in the in-game chat to notify the moderators of it.
+- Segui i tuoi canali preferiti nella [chat in gioco di osu!](/wiki/Client/Interface/Chat_console), o partecipare nei forum.
+- Se vedi che qualcosa che pensi sia inappropriato o inquietante, usa [il comando `!report`](/wiki/Reporting_bad_behaviour) nella chat in gioco per notificare i moderatori.
 
-## Help other community members
+## Aiutare altri membri della comunità
 
-If you encounter someone who has an issue with the game, lend them a hand! Whether it is a driver issue, a beatmap question, or gameplay question, if you can answer it, you can help the person in solving their problem.
+Se incontri qualcuno che ha qualche problema col gioco, dagli una mano! Che sia un problema di drivers, una domanda sulle beatmap o sul gameplay, se puoi rispondere, puoi aiutare la persona a risolvere il suo problema.
 
 <!-- TODO: add ways to help outside of forums -->
 
-The following outlines how you can get started helping others on the forum:
+Ecco come puoi iniziare ad aiutare gli altri sul forum:
 
-- Choose a forum that sparks your interest, e.g.:
+- Scegli un forum che suscita il tuo interesse, es.:
   - [Help](https://osu.ppy.sh/community/forums/5)
   - [Mapping Discussion](https://osu.ppy.sh/community/forums/56)
   - [Storyboarding](https://osu.ppy.sh/community/forums/20)
   - [Skinning](https://osu.ppy.sh/community/forums/15)
   - [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13)
-- Read trough the forums pinned posts to learn the subforum-specific rules and any useful info that may be there.
-- Use the `Mark forum as read` button on the top.
-- Follow any new threads, reading each one and help out when you can — you can use the unread icons to make sure you keep up.
-- Read the [available guides](/wiki/Guides) to polish-up your osu! knowledge. If the guides in there don't satisfy you, then you can try contributing to them!
+- Leggi i topic fissati per imparare le regole di quel specifico forum e tutte le info utili che potrebbero contenere.
+- Usa il bottone `Segna il forum come già letto` in cima.
+- Segui qualsiasi nuovo thread, leggi ognuno di essi e aiuta quando puoi — puoi usare le icone non letto per assicurarti di rimanere aggiornato.
+- Leggi le [guide disponibili](/wiki/Guides) per migliorare la tua conoscenza di osu!. Se le guide non ti soddisfano, puoi provare a contribuire!
 
-## Help check/mod beatmaps!
+## Aiutaci a controllare/verificare le beatmaps!
 
-osu! has a dedicated team of reviewers, the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators), to check if submitted [beatmaps](/wiki/Beatmap) are ready to be ranked and played by everyone. However, that doesn't mean you cannot contribute to this sector:
+osu! ha un team dedicato alla revisione, i [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators), per controllare che le [beatmaps](/wiki/Beatmap) inviate siano pronte ad essere classificate per essere giocate da tutti. Tuttavia, questo non vuol dire che non puoi contribuire in questo settore:
 
-- Look through or search the [Pending Beatmaps](https://osu.ppy.sh/beatmapsets?s=pending) listing for any artists or songs you like and/or want to contribute to.
-- Play beatmaps in the [*Pending* or *Work-in-progress*](/wiki/Beatmap/Category#work-in-progress-and-pending) stages and leave feedback in the beatmap's discussion page.
-- Read the [Modding Guide](/wiki/Modding) and the [Ranking Criteria](/wiki/Ranking_Criteria) to know the basics of technical modding and what makes a beatmap rankable.
-- Join the `#mapping` and `#modreqs` channels in the in-game chat and either join in on the conversation or just follow along.
-- If you have the time and dedication, make a [Modding Queue](https://osu.ppy.sh/community/forums/60) to give beatmap creators a place to request you for mods.
+- Guardate o cercate mappe [In Attesa](https://osu.ppy.sh/beatmapsets?s=pending) contenenti artisti o canzoni che ti piacciono e/o a cui vuoi contribuire.
+- Gioca beatmaps nella categoria [*In Attesa* or *Work-in-progress*](/wiki/Beatmap/Category#work-in-progress-and-pending) e lasciate dei feedback nella sezioni discussioni della beatmap.
+- Leggi la [Guida al Modding](/wiki/Modding) e i [Criteri per il Ranking](/wiki/Ranking_Criteria) per conoscere le basi del modding tecnico e cosa rende una beatmap classificabile.
+- Unisciti ai canali  `#mapping` e `#modreqs` nella chat in gioco e unisciti al discorso o semplicamente leggi cosa viene scritto.
+- Se hai tempo e dedizione, apri una [Modding Queue](https://osu.ppy.sh/community/forums/60) per dare uno spazio ai creatori di beatmap un posto per richiedere delle mods.
 
-## Give feedback on player progress or skins!
+## Dai feedback sui progressi dei giocatori o sulle skins!
 
-Everyone loves to improve and requires feedback for this. Often users will ask for feedback on their gameplay progress in the [Gameplay & Rankings forum](https://osu.ppy.sh/community/forums/13) and others eagerly await feedback on their latest skin creation in the [Work In Progress Skins forum](https://osu.ppy.sh/community/forums/119).
+Tutti amano migliorarsi e necessitano di feedback. Spesso gli utenti chiedono feedback sui loro progressi nel gameplay nel [forum Gameplay & Rankings](https://osu.ppy.sh/community/forums/13) e altri attendono un feedback sulle loro ultime skin create nel [forum Work In Progress Skins](https://osu.ppy.sh/community/forums/119).
 
-## Help or join user-run community projects
+## Aiuta o unisciti a progetti gestiti dagli utenti
 
-osu! has a thriving community of technical and competitive people. They range from hobbyist tinkers to seasoned rhythm game veterans. There are a lot of proposals and projects being made exclusively for osu! and you can help them, or drive the future of osu! with your very own proposals/projects!
+osu! ha una comunità fiorente di persone tecniche e competitive. Variano da hobbisti a veterani dei rhythm games. Ci sono molte proposte e progetti sviluppati esclusivamente per osu! e tu puoi aiutarli, o guidare il futuro di osu! con le tue proposte/progetti!
 
-Below are just a few of the ways you can contribute:
+Ecco alcuni dei modi con cui puoi contribuire:
 
-- Browse the [Tournaments](https://osu.ppy.sh/community/forums/55) forum. Tournaments take a lot time and work to organise without hitches, and you can help out by being a spectator judge in some cases.
-- Check out what's going on in the [Development](https://osu.ppy.sh/community/forums/2) forum; this is where most serious projects happen.
-  - Join the [osu!dev Discord](https://discord.gg/ppy)! Even just following along and staying up-to-date with osu! development and projects is a good way to stay informed.
-- Join a [beatmap project](https://osu.ppy.sh/community/forums/53) and learn how fun collaborating with others can be!
-- Start your own project or join someone elses! Whether it's bringing back dancing pippi, or just making something cool for osu!, anything is accepted!
-  - Check out a [list of popular projects](/wiki/Community/Projects).
+- Sfoglia il forum [Tornei](https://osu.ppy.sh/community/forums/55). I tornei richiedono molto tempo e lavoro per organizzarli senza alcun intoppo, tu puoi aiutarli facendo da giudici spettatori in certi casi.
+- Guada cosa succede nel forum [Development](https://osu.ppy.sh/community/forums/2); quì è dove si svolgono la maggiorparte dei progetti seri.
+  - Unisciti al [Discord osu!dev](https://discord.gg/ppy)! Anche solamente seguendo e rimanendo aggiornato con lo sviluppo di osu! e i vari progetti è un ottimo modo di rimanere aggiornati.
+- Unisciti a un [beatmap project](https://osu.ppy.sh/community/forums/53) e scopri quando collaborare con altri può essere divertente!
+- Inizia un tuo progetto o unisciti a quello di qualcun'altro! Che si tratti di riportare in auge la pippi danzante, o solamente fare qualcosa di bello per osu!, tutto è lecito!
+  - Controlla la [lista di progetti popolari](/wiki/Community/Projects).
 
-## Contribute to the future of osu!
+## Contribuisci al futuro di osu!
 
-Started in 2017, the osu!(lazer) project is the current focus of [the osu! team](/wiki/People/The_Team), along with the new website, which is what you see today! If you would like to help make these projects even better and bring us closer to the future of osu!, there are a number of things you can do, but below are just a few examples:
+Iniziato nel 2017, il progetto osu!(lazer) è l'attuale focus del [team osu!](/wiki/People/The_Team), insieme al nuovo sito, che è quello che vedete oggi! Se volete vedere questi progetti ancora migliori e avvicinarci al futuro di osu!, ci sono molte cose che potete fare, di seguito riportiamo solo alcuni esempi:
 
-- Helping with the [osu!(lazer)](https://github.com/ppy/osu) project. There is so much to implement on the new version of osu!, and you can help make it happen!
-- Make the [website](https://github.com/ppy/osu-web) even better.
+- Aiutarci col progetto [osu!(lazer)](https://github.com/ppy/osu). C'è così tanto da implementare nella nuova versione di osu!, e puoi aiutarci a realizzarlo!
+- Rendi il [sito](https://github.com/ppy/osu-web) ancora migliore.
 
-## Avoid being negative! Make people happy!
+## Evita di essere negativo! Rendi le persone felici!
 
-There is an old saying that you should become part of the solution, not the problem. Simply by following this old saying, you'd be helping osu! by making the community a brighter place. People will always complain, but there are still so many ways you can help lighten up the mood in the community:
+C'è un vecchio detto che dice che dovresti essere parte della soluzione, non del problema. Semplicemente seguendo questo detto, puoi aiutare la comunità di osu! a renderla un posto migliore. Le persone si lamenteranno sempre, ma ci sono molti modi per migliorare l'umore nella comunità:
 
-- Be friendly to each other; life is too short to argue.
-- [Report cheaters when you see them](/wiki/Reporting_bad_behaviour/Handling_foul_play). Please do not complain about them through other mediums as a simple `!report <username> seems to be cheating` can fix your problems within minutes to hours.
-- Go out of your way to mediate negative situations and turn them into positive outcomes.
+- Sii amichevole con gli altri; la vita è troppo breve per discutere.
+- [Segnala i cheaters quando li vedi](/wiki/Reporting_bad_behaviour/Handling_foul_play). Per favore, non lamentarti di loro in alcun modo, perchè un semplice `!report <username> seems to be cheating` può risolvere i tuoi problemi in pochi minuti o poche ore.
+- Fai tutto il possibile per affrontare le situazioni negative e trasformarle in risultati positivi.
 
-**While this article cannot cover how much more you can help the osu! community, simply playing the game as well can make osu! even more awesome!**
+**Sebbene questo articolo non possa affrontare ulteriori modi di aiutare la comunità di osu!, anche solamente giocando al gioco ti rende fantastico!**
