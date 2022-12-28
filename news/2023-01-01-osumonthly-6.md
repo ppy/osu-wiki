@@ -8,7 +8,11 @@ Catch up with community happenings in December's edition of osu!monthly!
 
 ![](/wiki/shared/news/2023-01-01-osumonthly-6/banner.jpg)
 
-<!-- Introduction -->
+Welcome to the 6th edition of osu!monthly! December surely was a busy month with a lot of community rumbles
+
+If you want to contribute, feel free to reach out! The osu!monthly project is organised in the osu!dev Discord server, and if you have suggestions you can also contact 0x84f#0001 on Discord.
+
+If you are interested in checking out all of the previous editions, feel free to have a look at the forum post!
 
 ## Table of contents
 
@@ -22,7 +26,18 @@ Catch up with community happenings in December's edition of osu!monthly!
 
 ## What's new in osu!(lazer)
 
-<!-- 0x pls help -->
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/LgXrhrFFClY" frameborder="0" allowfullscreen></iframe>
+
+This month osu!(lazer) has received probably the most requested addition of all time, that being adding pp to osu!(lazer). You are now able to earn pp for all of your plays done in lazer, although currently it is being implemented via a [separate website](https://lazer.ppy.sh/home) with separate rankings. When it comes to mod customisation, currently only some mods give pp as a balance pass has not yet occurred, so please bear that in mind when you give osu!(lazer) a try.
+For full details we highly recommend watching the excellent video digest by [pishifat](https://osu.ppy.sh/users/3178418).
+
+A really cool and also very requested feature that was implemented this month is [hard links](/wiki/en/Client/Release_stream/Lazer/File_storage#via-hard-links) for your osu maps, meaning that now you will not have to effectively copy your entire maps library from stable to lazer. Check out the video below in order to see how you can set this up!
+
+<div align="center">
+    <video width="100%" controls>
+        <source src="" type="video/mp4" preload="none">
+    </video>
+</div>
 
 ## Community recap
 
@@ -75,14 +90,6 @@ If you're interested, the whole event was broadcasted on the [osusg twitch chann
         <source src="" type="video/mp4" preload="none">
     </video>
 </div>
-
-### Bosphorus Invitational
-
-![](wiki\shared\news\2023-01-01-osumonthly-6\bosphorus-banner.jpg)
-
-By the end of new year's January, there is yet another LAN tourney on the horizon. Organized by [Zeus-](https://osu.ppy.sh/users/5464437) with the support of [Boğaziçi University Gaming Club (BUOK)](http://buok.boun.edu.tr/), the very first iteration of **Bosphorus Invitational** aims to gather around some of the best circle clickers within the Turkish community at the border of the magnificent Bosphorus strait, where the continents meet.
-
-While the participation is invite-only, you're free to join us at the venue or through the [BUOK Twitch channel](https://www.twitch.tv/buoyunkulubu/) to keep the tabs on. See more on the details through the [forum post](https://osu.ppy.sh/community/forums/topics/1696844), which is also [available in Turkish](https://osu.ppy.sh/community/forums/topics/1696848)!
 
 ### Notable osu! plays of the month
 
@@ -192,7 +199,8 @@ This month on Twitter we saw [the announcement](https://twitter.com/keevyosu/sta
 
 ## Things to look out for in January
 
-<!-- Maybe results of the Art Contest ? / Others ideas ? -->
+- Yet another LAN tourney is on the horizon. Organized by [Zeus-](https://osu.ppy.sh/users/5464437) with the support of [Boğaziçi University Gaming Club (BUOK)](http://buok.boun.edu.tr/), the very first iteration of **Bosphorus Invitational** aims to gather around some of the best circle clickers within the Turkish community at the border of the magnificent Bosphorus strait where the continents meet, for an epic 1 day showdown of Turkey's best players. While the participation is invite-only, feel free to either visit the venue on the 29th or check out the tournament via the [BUOK Twitch channel](https://www.twitch.tv/buoyunkulubu/) to keep the tabs on. See more on the details through the [forum post](https://osu.ppy.sh/community/forums/topics/1696844), which is also [available in Turkish](https://osu.ppy.sh/community/forums/topics/1696848)!
+- The [New Beginnings Art Contest](/news/2022-12-24-new-beginnings-voting-open) voting has concluded by the time you are reading this, and should have it's results posted. Go and check out all of the wonderful creations from the community, and if you previously put your votes in, check if the creations you voted for have made their way to the top!
 
 ## End word
 
