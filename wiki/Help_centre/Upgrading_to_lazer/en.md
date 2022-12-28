@@ -144,7 +144,7 @@ I punteggi avranno gia' i punti performance calcolati (puoi vederlo nella sezion
 
 #### Lazer usa ScoreV2?
 
-Lazer attualmente utilizza un nuovo sistema di punteggio sperimentale che e' simile a ScoreV2 ma non e' uguale. questo e' ancora sotto sviluppo e stiamo raccogliendo pareri dai player in base a quanto bene va in vari contesti (solo play, classifiche, tornei etc.)
+Lazer attualmente utilizza un nuovo sistema di punteggio sperimentale che e' simile a ScoreV2 ma non e' identico. questo e' ancora sotto sviluppo e stiamo raccogliendo pareri dai player in base a quanto bene va in vari contesti (solo play, classifiche, tornei etc.)
 
 <!-- lint ignore no-heading-punctuation -->
 
