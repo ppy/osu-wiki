@@ -46,7 +46,7 @@ The amount of beatmaps that advance to the judging stage varies depending on the
 
 ### Judging
 
-Another group of at least 5 beatmappers (*judges*) are tasked with judging the finalists chosen by the screening crew. Only the top entries chosen by screeners reach the judging stage because of the contest's tight schedule. 
+Another group of at least 5 beatmappers (*judges*) are tasked with judging the finalists chosen by the screening crew. Only the top entries chosen by screeners reach the judging stage because of the contest's tight schedule.
 
 Judges disect each submission and provide ratings for categories to determine the contest's winner and runner-up.
 
@@ -102,67 +102,18 @@ The MBC was put on hold between October 2020 and March 2021 to provide time for 
 
 ## Rewards
 
-The Monthly Beatmapping Contest rewards users with points for different types of results (*MBC points*):
+The Monthly Beatmapping Contest rewards users with *[contest points](/wiki/Contests/Contest_points)* for different types of results:
 
 - **Judging winner:** 2 points
 - **Judging runner-up:** 1 point
 - **Screening crew's #1 pick:** 1 point
 
-MBC points reward users at certain thresholds:
+Contest points reward users at certain thresholds:
 
 - **Profile badges** are attainable at 2, 4, and 6 points each. The badges are tiered, meaning each new badge will replace the previous one (and they get progressively shinier!).
 - ***Elite Mapper* forum title** is attainable at 6 points.
 - One month of **osu!supporter** is rewarded for each point a user earns. This can be used by the winner or gifted to someone else.
 
 Participants who are in the [Mappers' Guild](/wiki/Community/Mappers_Guild) will receive small earnings within the guild for submitting a valid entry (5), screening (1), and judging (1). These values are unrelated to MBC points.
-
-### Points
-
-MBC points of every contest participant are listed below.
-
-#### osu!
-
-| User | Points |
-| :-- | :-- |
-| ::{ flag=RU }:: [xbopost](https://osu.ppy.sh/users/6842421) | 8 |
-| ::{ flag=RU }:: [kuyusu](https://osu.ppy.sh/users/11758667) | 8 |
-| ::{ flag=GB }:: [hypercyte](https://osu.ppy.sh/users/9155377) | 7 |
-| ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515) | 6 |
-| ::{ flag=KR }:: [Acylica](https://osu.ppy.sh/users/1943309) | 6 |
-| ::{ flag=BE }:: [Sylas](https://osu.ppy.sh/users/3906405) | 6 |
-| ::{ flag=TH }:: [- Frontier -](https://osu.ppy.sh/users/4314710) | 3 |
-| ::{ flag=GB }:: [Aistre](https://osu.ppy.sh/users/4879380) | 3 |
-| ::{ flag=DK }:: [melon boy](https://osu.ppy.sh/users/3053382) | 2 |
-| ::{ flag=RU }:: [Aphestra](https://osu.ppy.sh/users/11949191) | 2 |
-| ::{ flag=PL }:: [Kalibe](https://osu.ppy.sh/users/3376777) | 2 |
-| ::{ flag=US }:: [UndeadCapulet](https://osu.ppy.sh/users/2523533) | 2 |
-| ::{ flag=DE }:: [0ppInOsu](https://osu.ppy.sh/users/12551840) | 2 |
-| ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334) | 2 |
-| ::{ flag=US }:: [phyr](https://osu.ppy.sh/users/13181574) | 2 |
-| ::{ flag=CN }:: [Moecho](https://osu.ppy.sh/users/5075660) | 1 |
-| ::{ flag=GB }:: [Altai](https://osu.ppy.sh/users/5745865) | 1 |
-| ::{ flag=CN }:: [fanzhen0019](https://osu.ppy.sh/users/418699) | 1 |
-| ::{ flag=FR }:: [Halgoh](https://osu.ppy.sh/users/4109923) | 1 |
-| ::{ flag=KR }:: [Oriental](https://osu.ppy.sh/users/16142512) | 1 |
-| ::{ flag=ID }:: [ScubDomino](https://osu.ppy.sh/users/8972308) | 1 |
-
-#### osu!taiko
-
-| User | Points |
-| :-- | :-- |
-| ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) | 3 |
-| ::{ flag=FI }:: [Jaltzu](https://osu.ppy.sh/users/2597417) | 2 |
-| ::{ flag=TH }:: [KappuChinooo](https://osu.ppy.sh/users/9582525) | 2 |
-| ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097) | 1 |
-| ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719) | 1 |
-
-#### osu!catch
-
-| User | Points |
-| :-- | :-- |
-| ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114) | 2 |
-| ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134) | 2 |
-| ::{ flag=TH }:: [rew0825](https://osu.ppy.sh/users/2488026) | 1 |
-| ::{ flag=CA }:: [Unlucky_w](https://osu.ppy.sh/users/4820793) | 1 |
 
 Prior to June 2020, community vote winners/runner-ups would receive 2 and 1 points respectively.
