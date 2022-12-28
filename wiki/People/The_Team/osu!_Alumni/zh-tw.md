@@ -169,7 +169,7 @@ no_native_review: true
 | ::{ flag=PH }:: [NoHitter](https://osu.ppy.sh/users/124455) | BAT |
 | ::{ flag=US }:: [nuudles](https://osu.ppy.sh/users/21312) | osu! 開發人員 |
 | ::{ flag=CN }:: [Nymph](https://osu.ppy.sh/users/601990) | BAT |
-| ::{ flag=CN }:: [Nyquill](https://osu.ppy.sh/users/682935) | BAT、GMT |
+| ::{ flag=CA }:: [Nyquill](https://osu.ppy.sh/users/682935) | BAT、GMT |
 | ::{ flag=AU }:: [Oinari-sama](https://osu.ppy.sh/users/405508) | 聊天室管理員、支援團隊 |
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | QAT |
 | ::{ flag=TH }:: [orioncomet](https://osu.ppy.sh/users/104827) | BAT |
