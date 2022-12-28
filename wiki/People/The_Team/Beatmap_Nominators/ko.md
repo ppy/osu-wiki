@@ -51,6 +51,7 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 | ::{ flag=PH }:: [-Aqua](https://osu.ppy.sh/users/7150015) | 필리핀어 |
 | ::{ flag=IT }:: [-Syncro](https://osu.ppy.sh/users/4338923) | 이탈리아어 |
 | ::{ flag=FI }:: [Aakki](https://osu.ppy.sh/users/11077540) | 핀란드어 |
+| ::{ flag=GB }:: [Aistre](https://osu.ppy.sh/users/4879380) |  |
 | ::{ flag=KR }:: [Amamya](https://osu.ppy.sh/users/1997633) | 한국어 |
 | ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599) | 이탈리아어 |
 | ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549) |  |
@@ -106,7 +107,6 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 | 닉네임 | 추가 언어 |
 | :-- | :-- |
 | ::{ flag=FI }:: [Antti](https://osu.ppy.sh/users/13281473) | 핀란드어, 일부 스웨덴어 |
-| ::{ flag=AR }:: [Axer](https://osu.ppy.sh/users/7299864) | 스페인어 |
 | ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | 중국어, 광둥어 |
 | ::{ flag=TR }:: [Burak](https://osu.ppy.sh/users/13213075) | 터키어 |
 | ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | 중국어, 광둥어 |
@@ -135,6 +135,7 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 | 닉네임 | 추가 언어 |
 | :-- | :-- |
 | ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114) | 광둥어 |
+| ::{ flag=GB }:: [bigh](https://osu.ppy.sh/users/16352736) |  |
 | ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | 중국어, 광둥어 |
 | ::{ flag=NL }:: [GIGACHAD](https://osu.ppy.sh/users/11081858) | 네덜란드어 |
 | ::{ flag=PL }:: [Mniam](https://osu.ppy.sh/users/6050530) | 폴란드어 |
@@ -144,6 +145,7 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 | ::{ flag=CA }:: [Ymiir](https://osu.ppy.sh/users/3922569) |  |
 | ::{ flag=BR }:: [zerokt](https://osu.ppy.sh/users/13776127) | 포르투갈어 |
 | ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) | 스페인어 |
+| ::{ flag=ZA }:: [Zuid-Afrikaan](https://osu.ppy.sh/users/29282944) | 아프리칸스어, 네덜란드어 |
 
 #### osu!mania
 
@@ -179,6 +181,7 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 | ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | 스페인어 |
 | ::{ flag=ID }:: [RiP46](https://osu.ppy.sh/users/5222596) | 인도네시아어 |
 | ::{ flag=ID }:: [Rivals_7](https://osu.ppy.sh/users/4610379) | 인도네시아어 |
+| ::{ flag=CN }:: [Seiran-](https://osu.ppy.sh/users/14351534) | 중국어 |
 | ::{ flag=CN }:: [Shima Rin](https://osu.ppy.sh/users/6089608) | 중국어 |
 | ::{ flag=ID }:: [Syadow-](https://osu.ppy.sh/users/3484485) | 인도네시아어 |
 | ::{ flag=ID }:: [Syrion-](https://osu.ppy.sh/users/15380643) | 인도네시아어 |
@@ -191,6 +194,9 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 
 | 닉네임 | 추가 언어 |
 | :-- | :-- |
+| ::{ flag=GB }:: [ckharv](https://osu.ppy.sh/users/9967026) |  |
+| ::{ flag=US }:: [Hobbes2](https://osu.ppy.sh/users/8157492) |  |
+| ::{ flag=US }:: [Smoke](https://osu.ppy.sh/users/10726630) |  |
 | ::{ flag=BE }:: [Stack](https://osu.ppy.sh/users/6122935) | 네덜란드어 |
 
 #### osu!taiko
@@ -200,6 +206,7 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 | ::{ flag=BR }:: [-Flashlight-](https://osu.ppy.sh/users/9731062) | 포르투갈어 |
 | ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) | |
 | ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) | 중국어 |
+| ::{ flag=AR }:: [Axer](https://osu.ppy.sh/users/7299864) | 스페인어 |
 | ::{ flag=JP }:: [Eriha](https://osu.ppy.sh/users/16320311) | 일본어 |
 | ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230) | 중국어, 광둥어 |
 | ::{ flag=GB }:: [Metzo](https://osu.ppy.sh/users/10633982) | |
@@ -209,15 +216,17 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 
 | 닉네임 | 추가 언어 |
 | :-- | :-- |
-| ::{ flag=GB }:: [bigh](https://osu.ppy.sh/users/16352736) |  |
 | ::{ flag=NL }:: [Chatie](https://osu.ppy.sh/users/6524765) | 네덜란드어 |
+| ::{ flag=CA }:: [fuhie](https://osu.ppy.sh/users/7620002) |  |
 | ::{ flag=FR }:: [Natsuko](https://osu.ppy.sh/users/8266817) | 프랑스어 |
-| ::{ flag=ZA }:: [Zuid-Afrikaan](https://osu.ppy.sh/users/29282944) | 아프리칸스어, 네덜란드어 |
 
 #### osu!mania
 
 | 닉네임 | 추가 언어 |
 | :-- | :-- |
+| ::{ flag=KR }:: [ArtZone](https://osu.ppy.sh/users/15548034) | 한국어 |
+| ::{ flag=DE }:: [Feerum](https://osu.ppy.sh/users/4815717) | 독일어 |
+| ::{ flag=AU }:: [fvrex](https://osu.ppy.sh/users/11863699) |  |
 | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | 인도네시아어 |
 | ::{ flag=CN }:: [Serian-](https://osu.ppy.sh/users/14351534) | 중국어 |
 
