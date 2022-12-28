@@ -124,7 +124,7 @@ No.
 
 #### Se installo lazer, saro' in grado di ritornare su stable?
 
-Yes, lazer always installs alongside stable. Unless you choose to delete one or the other, both will be accessible.
+Si, lazer verra' sempre installato a fianco a stable. A meno che tu non decida di eliminare uno dei due, Entrambi saranno accessibili.
 
 #### posso importare i miei dati da lazer a stable?
 
@@ -234,7 +234,7 @@ Alcuni filtri nell'elenco delle beatmap sono ancora riservati ai sostenitori.
 
 Ci sono anche alcuni vantaggi aggiuntivi:
 
-- I sostenitori possono creare playlist che durano più a lungo.
+I sostenitori possono creare playlist che durano più a lungo.
 
 Intendiamo valutare nuovi vantaggi in futuro, ma al momento ci concentriamo sulla parità di funzionalità con la stable, quindi vi invitiamo a utilizzare l'acquisto del tag Supporter come un modo per... sostenere lo sviluppo del gioco!
 
