@@ -86,7 +86,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Mappools
 
-### Grand Final and 3rd Place Match
+### Grand Final and 3rd-place match
 
 **[Download the mappack here! (65 MB)](https://www.mediafire.com/file/tvy5z4ga3n66xlp/MUKASHIFESTIVAL-Final.rar/file)**
 
@@ -119,7 +119,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   1. **[technoplanet - Megastructure \[Extended Mix\] (Nimis) \[Croco's Insane\]](https://osu.ppy.sh/beatmapsets/1568277#mania/3205391)**
 
-### Extra Preliminary Match and Quarterfinals
+### Extra preliminary match and Quarterfinals
 
 **[Download the mappack here! (43 MB)](https://www.mediafire.com/file/sorsz9d3svnapbf/MUKASHIFESTIVAL-QF.rar/file)**
 
@@ -143,7 +143,7 @@ This competition has come to an end and resulted in the following podium:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Grand Final | **[LuxKooky](https://osu.ppy.sh/users/4691146)** ::{ flag=ID }:: | **4** | 1 | ::{ flag=ID }:: [\[ -Asriel- \]](https://osu.ppy.sh/users/11829623) | [#1](https://osu.ppy.sh/community/matches/105421255) |
 
-### 3rd Place Match
+### 3rd-place match
 
 | Match code  | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
@@ -165,7 +165,7 @@ This competition has come to an end and resulted in the following podium:
 | Quarterfinal 3 | **[\[ID\]Xenotia-](https://osu.ppy.sh/users/13865224)** ::{ flag=ID }:: | **3** | 0 | ::{ flag=ID }:: [Fansly](https://osu.ppy.sh/users/10410817) | [#1](https://osu.ppy.sh/community/matches/105419216) |
 | Quarterfinal 4 | [KarinaKatsuna](https://osu.ppy.sh/users/31669247) ::{ flag=ID }:: | 0 | **3** | ::{ flag=ID }:: **[\[ -Asriel- \]](https://osu.ppy.sh/users/11829623)** | [#1](https://osu.ppy.sh/community/matches/105419558) |
 
-### Extra Preliminary Match
+### Extra preliminary match
 
 | Match code | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
