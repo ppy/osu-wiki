@@ -33,7 +33,7 @@ tags:
 
 旧版官网的多块主页奖牌会在玩家的名称与国家/地区旗之间垂直排列，而不像新版官网一样，在页面的一个板块内水平排列。
 
-旧版官网的这种设计的一个副作用是，当玩家获得了大量的主页奖牌，那么无法扩展的[玩家主页](/wiki/osu!supporter#可编辑的个人资料区块)高度限制将被打破。虽然这属于官网设计的意外，但却成了锦标赛界的一个笑料。<!-- More example userpages beyond Toy would be nice, else "running gag" doesn't have a source. -clayton --> ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) 在一条热门推文上提到了这一点，并展示出他截至发推之前所获得的大多数主页奖牌记录。<!-- I couldn't find a definitive source for this but I'm fairly certain that was part of the joke. Toy was the first to reach 10 badges about a year before this, and he was tied with DigitalHypno at 20 a few months later. Please add a source as a reference if you can find one! -clayton -->
+旧版官网的这种设计的一个副作用是，当玩家获得了大量的主页奖牌，那么无法扩展的[玩家主页](/wiki/osu!supporter#可编辑的个人资料区块)高度限制将被打破。虽然这属于官网设计的意外，但却成了锦标赛界的一个笑料。::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) 在一条热门推文上提到了这一点，并展示出他截至发推之前所获得的大多数主页奖牌记录。
 
 ## 冷知识
 
@@ -41,5 +41,5 @@ tags:
 ![](https://assets.ppy.sh/profile-badges/tagwinner.png "Tag Tournament first-place badge")
 :::
 
-- 最初的两块主页奖牌在 2009年9月6日 被颁发给 ::{ flag=PL }:: [niedzwiedz1124](https://osu.ppy.sh/users/9610) 和 ::{ flag=PL }:: [White Wolf](https://osu.ppy.sh/users/39828)，作为他们在 [*Tag Tournament* （团队接力锦标赛）获胜](https://osu.ppy.sh/community/forums/topics/17169)的奖励。<!-- TODO: The changelog entry for badges being added is also on the same day, and should be mentioned. are these available online anywhere to link to? -clayton -->
+- 最初的两块主页奖牌在 2009年9月6日 被颁发给 ::{ flag=PL }:: [niedzwiedz1124](https://osu.ppy.sh/users/9610) 和 ::{ flag=PL }:: [White Wolf](https://osu.ppy.sh/users/39828)，作为他们在 [*Tag Tournament* （团队接力锦标赛）获胜](https://osu.ppy.sh/community/forums/topics/17169)的奖励。
 - 奖牌可以链接到其他网页以获取更多信息，但目前没有奖牌用到这个功能。
