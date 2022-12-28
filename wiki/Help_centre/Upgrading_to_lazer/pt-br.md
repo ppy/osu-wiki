@@ -3,110 +3,110 @@ tags:
   - game client
 ---
 
-# Upgrading to lazer
+# Atualizando para lazer
 
-osu!(lazer) é a próxima maior atualização para o jogo. É o fruto de vários anos de trabalho nos bastidores para meticulosamente reimplementar o jogo.
+osu!(lazer) é a próxima principal atualização para o jogo. É o fruto de vários anos de trabalho nos bastidores para meticulosamente reimplementar o jogo.
 
 O objetivo final é que esta versão seja lançada como uma atualização que irá substituir completamente a versão estável existente do jogo, mas ainda há algum trabalho a ser feito antes que isso seja possível. No fim das contas, **os jogadores** irão ditar quando isso acontecerá e nós iremos continuar a dar suporte para a versão anterior até que os jogadores tenham migrado de versão.
 
 "lazer" é um codinome e será eventualmente descartado uma vez que se torne a principal versão do jogo. O restante deste documento irá se referir a osu!(lazer) como "lazer" e osu!(estável) como "estável" para simplificar.
 
-## Comparativo de recursos
+## Comparativo de funcionalidades
 
-The following is a comprehensive list of the **current state** of lazer in comparison to stable. Note that this is a moving target — the end goal is to implement all the features that players care about over time.
+A seguir segue uma lista completa do **estado atual** de lazer em comparação com estável. Note que esta lista está em constante mudança - o objetivo final é implementar todos as funcionalidades que os jogadores gostam com o passar do tempo.
 
-### Compatibility and performance
+### Compatibilidade e performance
 
-| Feature | stable | lazer |
+| Funcionalidade | estável | lazer |
 | :-- | :-- | :-- |
-| Windows 8.0 and lower | ![Yes][true] | ![No][false] |
+| Windows 8.0 e anterior | ![Yes][true] | ![No][false] |
 | macOS / Linux | ![Partial][partial][^wine] | ![Yes][true] |
 | DirectX / Vulkan | ![Partial][partial][^compatibility-mode] | ![No][false][^coming-soon] |
-| Mobile support | ![No][false] | ![Yes][true] |
-| Multithreaded architecture | ![No][false] | ![Yes][true] |
-| Hardware-accelerated video | ![No][false] | ![Yes][true] |
-| UI scaling | ![No][false] | ![Yes][true] |
-| Custom rulesets (game modes) | ![No][false] | ![Partial][partial][^dll] |
-| De-duped file store | ![No][false] | ![Yes][true][^share-files] |
-| Tablet area adjustment | ![No][false] | ![Yes][true] |
+| Suporte a dispositivos móveis | ![No][false] | ![Yes][true] |
+| Arquitetura multitarefas | ![No][false] | ![Yes][true] |
+| Vídeo com aceleramento de hardware | ![No][false] | ![Yes][true] |
+| UI escalonável | ![No][false] | ![Yes][true] |
+| Rulesets customizáveis (modos de jogo) | ![No][false] | ![Partial][partial][^dll] |
+| Espaço de arquivos desduplicados | ![No][false] | ![Yes][true][^share-files] |
+| Ajuste de área da mesa digitalizadora | ![No][false] | ![Yes][true] |
 
-### UI and skinning
+### UI e skinning
 
-| Feature | stable | lazer |
+| Funcionalidade | estável | lazer |
 | :-- | :-- | :-- |
-| Skin support | ![Yes][true] | ![Partial][partial][^gameplay-only] |
-| Song select grouping modes | ![Yes][true] | ![No][false] |
-| In-game skin / UI layout editing | ![No][false] | ![Yes][true] |
+| Suporte de Skins | ![Yes][true] | ![Partial][partial][^gameplay-only] |
+| Modos de agrupamento na seleção de música | ![Yes][true] | ![No][false] |
+| Edição de UI e skin em jogo | ![No][false] | ![Yes][true] |
 
-### Gameplay and skinning
+### Gameplay e skinning
 
-| Feature | stable | lazer |
+| Funcionalidade | estável | lazer |
 | :-- | :-- | :-- |
-| Accurate performance point display | ![Partial][partial][^online] | ![Yes][true] |
-| Mod presets | ![No][false] | ![Yes][true] |
-| Per-mod settings | ![No][false] | ![Yes][true] |
-| New "fun" mods | ![No][false] | ![Yes][true] |
-| Combo colour normalisation[^normalisation] | ![No][false] | ![Yes][true] |
-| Hold for HUD | ![No][false] | ![Yes][true][^hold-for-hud] |
-| Offset calibration | ![Partial][partial][^offset-calibration-stable] | ![Yes][true][^offset-calibration-lazer] |
-| osu! sliders "snake" while dragging | ![No][false] | ![Yes][true][^can-disable] |
-| osu! player-friendly "note lock" | ![No][false] | ![Yes][true][^note-lock] |
-| osu!mania timing-based note colouring | ![No][false] | ![Yes][true] |
+| Exibição correta de performance points | ![Partial][partial][^online] | ![Yes][true] |
+| Pre-definição de mods | ![No][false] | ![Yes][true] |
+| Configuração por mod | ![No][false] | ![Yes][true] |
+| Novos mods "divertidos" | ![No][false] | ![Yes][true] |
+| Normalização das cores de combo [^normalisation] | ![No][false] | ![Yes][true] |
+| Segure para HUD | ![No][false] | ![Yes][true][^hold-for-hud] |
+| Ajuste de Offset | ![Partial][partial][^offset-calibration-stable] | ![Yes][true][^offset-calibration-lazer] |
+| osu! sliders "snake" quando segurados | ![No][false] | ![Yes][true][^can-disable] |
+| osu! "note lock" amigável para o jogador | ![No][false] | ![Yes][true][^note-lock] |
+| colorização das notas baseado em timing no osu!mania  | ![No][false] | ![Yes][true] |
 
-### Online systems
+### Sistemas online
 
-| Feature | stable | lazer |
+| Funcionalidade | estável | lazer |
 | :-- | :-- | :-- |
-| Score submission | ![Yes][true] | ![Partial][partial][^score-reset-balance] |
-| Beatmap leaderboards | ![Yes][true] | ![Partial][partial][^score-reset-isolated] |
-| Profile statistics | ![Yes][true] | ![Yes][true] |
-| Medals | ![Yes][true] | ![No][false] |
+| Envio de scores | ![Yes][true] | ![Partial][partial][^score-reset-balance] |
+| Placar de Beatmap | ![Yes][true] | ![Partial][partial][^score-reset-isolated] |
+| Estatísticas de perfil | ![Yes][true] | ![Yes][true] |
+| Medalhas | ![Yes][true] | ![No][false] |
 | Performance points | ![Yes][true] | ![Partial][partial][^score-reset-isolated] |
-| Real-time chat | ![Partial][partial][^stable-chat] | ![Yes][true] |
-| Wiki / News / Changelog / Rankings | ![No][false] | ![Yes][true][^online-content] |
-| User profiles | ![No][false] | ![Yes][true] |
-| Beatmap listing | ![Partial][partial][^direct-supporter] | ![Yes][true] |
-| Unlimited multiplayer room size | ![No][false][^multi-room-max] | ![Yes][true] |
-| Multiplayer spectating | ![No][false] | ![Yes][true] |
-| Countdown timers | ![Partial][partial][^countdown-timers-stable] | ![Yes][true][^countdown-timers-lazer] |
-| Queue modes | ![No][false] | ![Yes][true][^queue-modes] |
-| Multiplayer commands | ![Yes][true] | ![No][false] |
+| Chat em tempo real | ![Partial][partial][^stable-chat] | ![Yes][true] |
+| Wiki / Notícias / Changelog / Colocações | ![No][false] | ![Yes][true][^online-content] |
+| Perfis de usuários | ![No][false] | ![Yes][true] |
+| Lista de beatmaps | ![Partial][partial][^direct-supporter] | ![Yes][true] |
+| Tamanho ilimitado da sala de multijogador | ![No][false][^multi-room-max] | ![Yes][true] |
+| Espectar multijogador | ![No][false] | ![Yes][true] |
+| Timer de Contagem regressiva | ![Partial][partial][^countdown-timers-stable] | ![Yes][true][^countdown-timers-lazer] |
+| Modos de fila | ![No][false] | ![Yes][true][^queue-modes] |
+| Comandos no multijogador | ![Yes][true] | ![No][false] |
 | Tag co-op | ![Yes][true] | ![No][false] |
-| Playlists (user-curated leaderboards) | ![No][false] | ![Yes][true] |
-| Updating beatmaps with online changes | ![Partial][partial][^map-only] | ![Yes][true][^all-files] |
+| Playlists (placares selecionados pelos usuários) | ![No][false] | ![Yes][true] |
+| Atualizar beatmaps com as mudanças online | ![Partial][partial][^map-only] | ![Yes][true][^all-files] |
 
 ### Editor
 
-| Feature | stable | lazer |
+| Funcionalidade | estável | lazer |
 | :-- | :-- | :-- |
-| osu!taiko editor | ![No][false] | ![Yes][true] |
-| osu!catch editor | ![No][false] | ![Yes][true] |
-| osu!mania editor | ![Yes][true] | ![Yes][true] |
-| Open difficulty as reference | ![Yes][true] | ![No][false] |
-| Per-object SV / volume | ![No][false] | ![Yes][true] |
-| Pattern rotation | ![Yes][true] | ![Partial][partial][^editor-precise-rotation] |
-| Pattern resizing | ![No][false] | ![Yes][true] |
-| Beatmap submission | ![Yes][true] | ![No][false] |
-| Storyboard editor | ![Yes][true] | ![No][false] |
-| Cross-compatibility | ![Yes][true] | ![Partial][partial][^incompatibilities] |
+| Editor de osu!taiko | ![No][false] | ![Yes][true] |
+| Editor de osu!catch | ![No][false] | ![Yes][true] |
+| Editor de osu!mania | ![Yes][true] | ![Yes][true] |
+| Abrir a dificuldade como referência | ![Yes][true] | ![No][false] |
+| SV / volume por objeto | ![No][false] | ![Yes][true] |
+| Rotação de Pattern | ![Yes][true] | ![Partial][partial][^editor-precise-rotation] |
+| Redimensionamento de Pattern | ![No][false] | ![Yes][true] |
+| Envio de Beatmap | ![Yes][true] | ![No][false] |
+| Editor de Storyboard | ![Yes][true] | ![No][false] |
+| Cross-compatilibidade | ![Yes][true] | ![Partial][partial][^incompatibilities] |
 
-## Switching to lazer
+## Mudando para lazer
 
-So you've decided you want to give lazer a shot? Great!
+Então você decidiu que você que dar uma chance ao lazer? Ótimo!
 
-You can find it for download [here](https://github.com/ppy/osu#running-osu). In the near future, you will be able to switch to lazer from stable (from the `Release stream` setting) and find the download link on the osu! website.
+Você consegue encontra-lo para baixar [aqui](https://github.com/ppy/osu#running-osu). No futuro próximo, você será capaz de mudar para lazer do estável (da cocnfiguração `Taxa de atualizações`) e encontrar o link para baixar no site do osu!.
 
 ## FAQ
 
-### Migration
+### Migração
 
-#### Is stable going away? Am I going to be forced to switch?
+#### Estável está de despedida? Serei forcado a mudar?
 
-Stable will continue to be maintained as long as users are using it. At very least, it will be maintained for several years.
+Estável irá continuar a ser mantido enquanto estiver usuários usando-o. No mínimo, será mantido por diversos anos.
 
-#### Can I import all my data from stable to lazer?
+#### Consigo importar todos meus dados de estável para lazer?
 
-Currently, beatmaps, skins, scores, replays and collections can be imported into lazer. Of note, **settings are not yet imported** so you will need to set them up from scratch.
+Atualmente, beatmaps, skins, scores, replays e coleções podem ser importados para lazer. Em nota, **configurações ainda não são importadas** então você precisará configurá-las novamente do zero.
 
 #### If I import my beatmaps to lazer, will it use double the disk space?
 
