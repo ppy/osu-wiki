@@ -149,6 +149,7 @@ Die meisten offiziellen Mapping-Wettbewerbe bieten den Titel **Elite Mapper** al
 - ::{ flag=US }:: [MMzz](https://osu.ppy.sh/users/128993)
 - ::{ flag=CN }:: [Necho](https://osu.ppy.sh/users/4086593)
 - ::{ flag=FR }:: [Nofool](https://osu.ppy.sh/users/672430)
+- ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721)
 - ::{ flag=FI }:: [PianoLuigi](https://osu.ppy.sh/users/9665915)
 - ::{ flag=FR }:: [Realazy](https://osu.ppy.sh/users/918297)
 - ::{ flag=US }:: [RLC](https://osu.ppy.sh/users/1047883)
