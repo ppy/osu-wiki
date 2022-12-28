@@ -24,13 +24,15 @@ Es gibt einige Ausnahmen, in denen sich der Inhalt unterscheiden darf:
 
 ## Sprachregister
 
-Es gibt zwei Sprachregister im Wiki: neutral und informell.
+Es gibt drei Sprachregister im Wiki: formell, neutral und informell.
 
 Standardmäßig wird das neutrale Register verwendet.
 
 Das informelle Register wird speziell für eine kleine Handvoll von Artikeln benutzt. Einige Beispiele mit diesem Register sind das [FAQ](/wiki/FAQ) und das [Hilfecenter](/wiki/Help_centre).
 
-Alle Regeln der Artikelgestaltungskriterien müssen für beide Register befolgt werden. Ausnahmen für jedes Register werden dokumentiert.
+Für rechtliche Artikel (z. B. die [Datenschutzerklärung](/wiki/Legal/Privacy)) wird das formelle Register verwendet.
+
+Alle Regeln der Artikelgestaltungskriterien müssen für jedes Register befolgt werden. Ausnahmen der Register werden dokumentiert.
 
 ## Großschreibung
 

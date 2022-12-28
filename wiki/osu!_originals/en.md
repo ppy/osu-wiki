@@ -70,7 +70,7 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 #### [kiraku](https://osu.ppy.sh/beatmaps/artists/101)
 
 *For the announcement news post, see: [New Featured Artist: kiraku](https://osu.ppy.sh/home/news/2020-09-26-new-featured-artist-kiraku)*
- 
+
 | Song |
 | :-: |
 | [kiraku - connection](https://osu.ppy.sh/beatmaps/artists/tracks?artist=kiraku&query=connection) |
@@ -444,6 +444,13 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 | Song | Beatmap | Notes |
 | :-: | :-: | :-- |
 | [Dz'Xa - COSMOBEAT](https://soundcloud.com/dz_xa/cosmobeat) | [#1](https://osu.ppy.sh/beatmapsets/1523659) | Grand Finals tiebreaker |
+
+#### ![](/wiki/shared/mode/taiko.png) [Rising Global Taiko Showdown 2022](/wiki/Tournaments/GTS/RGTS_2022)
+
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [blobdash & breakchild - EPiSODES](https://soundcloud.com/blobdash/episodes) | [#1](https://osu.ppy.sh/beatmapsets/1901573) | Grand Finals tiebreaker |
+| [Sephid - Hypothesize](https://www.youtube.com/watch?v=FvaJrO3wJbI)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1897397) | Finals tiebreaker |
 
 #### ![](/wiki/shared/mode/taiko.png) [Squad Global Taiko Showdown 2021](/wiki/Tournaments/GTS/SGTS_2021)
 
