@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Offset (Begriffsabgrenzung)
 
 **Offset** kann Folgendes bedeuten:

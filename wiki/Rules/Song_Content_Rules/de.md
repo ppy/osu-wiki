@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Regeln für Songinhalte
 
 Mit einer großen Vielfalt an verfügbarer Musik sind die meisten Songs für die Verwendung in osu! geeignet, vorausgesetzt, sie sind nicht:
