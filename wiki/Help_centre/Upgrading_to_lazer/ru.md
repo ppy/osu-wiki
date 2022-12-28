@@ -84,7 +84,7 @@ osu!(lazer) – это следующее глобальное обновлен�
 | Редактор для osu!catch | ![No][false] | ![Yes][true] |
 | Редактор для osu!mania | ![Yes][true] | ![Yes][true] |
 | Сравнение двух сложностей | ![Yes][true] | ![No][false] |
-| Настройка громкости хитсаундов для каждого объекта | ![No][false] | ![Yes][true] |
+| Настройка громкости хитсаундов и скорости для каждого объекта | ![No][false] | ![Yes][true] |
 | Вращение паттернов | ![Yes][true] | ![Partial][partial][^editor-precise-rotation] |
 | Изменение размеров паттернов | ![No][false] | ![Yes][true] |
 | Публикация карт | ![Yes][true] | ![No][false] |
@@ -105,87 +105,87 @@ osu!(lazer) – это следующее глобальное обновлен�
 
 Stable будет поддерживаться до тех пор, пока пользователи будут в него играть. По крайней мере, он будет ещё поддерживаться несколько лет.
 
-#### Могу ли я импортировать все мои данные из stable в lazer?
+#### Могу ли я импортировать все свои данные из stable в lazer?
 
 На данный момент в lazer могут быть импортированы карты, скины, рекорды, записи игры и коллекции. Стоит отметить, что импорт настроек не поддерживается -  настраивать клиент игры придётся с нуля.
 
-#### If I import my beatmaps to lazer, will it use double the disk space?
+#### Если я импортирую свои карты в lazer, станут ли они занимать двойное место на диске?
 
-If you have both lazer and stable on the same drive, [hard links](/wiki/Client/Release_stream/Lazer/File_storage#via-hard-links) are used to avoid using extra disk space.
+Если установки lazer и stable находятся на одном и том же диске, то при импорте будут использованы [жёсткие ссылки](/wiki/Client/Release_stream/Lazer/File_storage#via-hard-links), которые помогут избежать занятие на диске дополнительного места.
 
-In all other cases, importing beatmaps will use double the disk space.
+В любых других случаях импорт карт займёт дополнительное место на диске.
 
-#### If I delete lazer will it break my stable install? Если я удалю lazer, 
-
-Нет.
-
-#### If I delete stable will it break content in lazer that was imported from stable?
+#### Произойдёт ли что-нибудь с моей установкой stable, если я удалю lazer?
 
 Нет.
 
-#### If I install lazer, will I be able to return to stable?
+#### Повлияет ли удаление stable на контент, который был импортирован из него в lazer?
 
-Yes, lazer always installs alongside stable. Unless you choose to delete one or the other, both will be accessible.
+Нет.
 
-#### Can I import data from lazer to stable?
+#### Смогу ли я вернуться в stable, если установлю lazer?
 
-No. This will not be supported.
+Да, lazer всегда устанавливается отдельно от stable. Пока вы не решите удалить одну из версий игры, они обе будут доступны.
 
-That said, individual scores and beatmaps can be exported from lazer and manually imported into stable for now.
+#### Могу ли я импортировать данные из lazer в stable?
 
-### Gameplay and scoring
+Нет. Такая возможность никогда не появится.
 
-#### If I set a score on lazer, will it show on my profile?
+Тем не менее, локальные рекорды и карты могут быть экспортированы и затем вручную импортированы в stable.
 
-Scores will show under "recently played" but not in "best performance" yet.
+### Игровой процесс и рейтинговая система
 
-#### If I set a score on lazer, will it give performance points?
+#### Будет ли отображаться поставленный в lazer рекорд в моём профиле?
 
-Scores will already have performance points calculated (you can see this in the "recently played" section of your profile), but it will not contribute to the total value yet.
+Пока что рекорды будут отображаться только в разделе "последние игры".
 
-#### Does lazer use ScoreV2?
+#### If I set a score on lazer, will it give performance points? Дают ли очки производительности за рекорды в lazer?
 
-Lazer currently uses a new experimental score implementation which is similar to ScoreV2 but not the same. This is still in development and we are looking for more feedback on how it feels in various contexts (solo play, leaderboards, tournaments etc.)
+Scores will already have performance points calculated (you can see this in the "recently played" section of your profile), but it will not contribute to the total value yet. Рекорды из lazer уже имеют подсчитанные очки производительности (вы можете увидеть их значение в разделе "последние игры" в своём профиле), но пока что они никак не влияют на pp, полученные в stable.
+
+#### В lazer используется система подсчёта очков ScoreV2?
+
+На данный момент в lazer используется система подсчёта очков близкая к ScoreV2. Она всё ещё в разработке: мы анализируем отзывы о её эффективности при различных сценариях использования (одиночный режим, таблицы рекордов, турниры и пр.).
 
 <!-- lint ignore no-heading-punctuation -->
 
-#### I prefer the classic scoring display, where scores get really big.
+#### Мне нравится классический режим подсчёта очков, где количество очков очень большое.
 
-You can actually change the `Score display mode` setting to `Classic` to get back the explosive style of scoring game-wide! It won't be a perfect match, but will give you the same feel of classic scoring and be applied everywhere you'd expect it to be.
+Вы действительно можете изменить `Режим подсчёта очков` на `Классический`, найдя соответствующий пункт в настройках. Он не будет идеально совпадать со stable, но даст ощущение классической системы подсчёта по всей игре.
 
-#### If I set a score on lazer, will it remain forever?
+#### Навсегда ли останется рекорд, поставленный в lazer?
 
-While we will try to preserve as many scores as possible, we **offer no guarantee that scores will remain indefinitely**. At any point we may choose to wipe a subset or all scores in order to preserve game balance.
+Мы постараемся сохранить так много рекордов, как только сможем, но мы **не гарантируем, что останутся абсолютно все рекорды**. В любой момент мы можем решить стереть часть или даже все рекорды для сохранения баланса в игре.
 
-#### Will scores set on stable eventually show in lazer?
+#### Будут ли когда-нибудь поставленные в stable рекорды отображаться в lazer?
 
-Yes. Once we finish balancing the combination of lazer and stable scores, both will be visible.
+Да. Когда мы сбалансируем рекорды lazer и stable, они будут отображаться вместе.
 
-#### Will all mods be ranked?
+#### Will all mods be ranked? Будут ли учитываться системой рейтинга абсолютно все моды?
 
-For now, scores of all mod combinations appear on leaderboards. Whether scores will give performance points with all mods (and if they do, whether there will be a bonus or penalty applied) is still in discussion.
+Пока что рекорды с любыми комбинациями модов отображаются в таблицах рекордов. Будут ли все моды учитываться системой рейтинга (и если да, то каким образом) - проблема, которая всё ещё обсуждается.
 
-#### I don't like the new gameplay mechanics. Can I restore the old gameplay mechanics like on stable?
+#### Мне не нравятся новые механики игры. Я хочу играть так, как это было в stable.
 
-Please try applying the "classic" mod, which will restore much of the old behaviour that you are used to. Also make sure to check the settings offered by classic mod, as it will let you further customise your experience and also understand what changes are being applied (as they are all listed there).
+Пожалуйста, попробуйте поиграть с модом "Classic", который восстанавливает старые механики, к которым вы привыкли. Также вы можете тонко настроить этот мод, поняв, какие измения можно применить.
 
-### Skinning and UI
+### Скины и интерфейс
 
-#### Something is behaving differently to stable and I don't like it!
+#### Я чувствую, что в lazer что-то не так по сравнению со stable и мне это не нравится!
 
-Please run the setup wizard at the top of settings and go through the settings on the `Behaviour` screen. A lot of the common settings which have defaults changed are listed here. There's also a single button you can press to apply the old behaviours as a starting point for your lazer journey.
+Пожалуйста, запустите мастер по настройке и дойдите до пункта `Настройки`. Большинство стандартных настроек, значения которых изменились в lazer, находятся здесь. Также вы просто можете нажать на кнопку "Старые настройки" - это станет отправной точкой вашего нового опыта в lazer.
 
-#### Will old skins eventually work in song select and results screens?
+#### Будут ли когда-нибудь старые скины изменять меню выбора песни и экран с результатами?
 
-We'll do our best to bring back as much of this as we can without blocking new functionality. This will come later on.
+Мы постараемся сделать всё возможное, чтобы вернуть поддержку этих функций без ... . Это скоро произойдет.
 
-#### Can I use my skin cursor in the menus as well?
+#### Могу ли я использовать курсор из скина по всей игре, а не только при прохождении карты?
 
-We will likely bring back support for this in the future due to popular demand.
+Мы вернём поддержку этой функции по причине массового спроса.
 
-### Performance
+### Производительность
 
-#### Why can't I run at unlimited FPS?
+#### Почему я не могу убрать ограничение по FPS?
 
 Above a certain threshold there is no reason to run at higher frame rates. Lazer employs various new technologies to ensure the lowest latency is achievable without requiring high frame rates. This will continue to improve going forward as we still have a few improvements left to implement.
 
@@ -193,15 +193,15 @@ Lazer polls for input at 1000 Hz regardless of FPS limiter, which is why the max
 
 If you are curious about how this affects input latency and test your own perception, please run the built-in "latency certifier" at the bottom of settings.
 
-#### If input is only polled at 1000 Hz, what about my 8000 Hz gaming mouse?
+#### If input is only polled at 1000 Hz, what about my 8000 Hz gaming mouse? 
 
 The operating system will still poll at the higher rate, although benefits are proven to be negligible. Polling at such high rates can have unforeseen overheads, and we recommend limiting devices to 1000 Hz for system stability.
 
-#### Lazer performs worse than stable for me. What gives?
+#### Lazer performs worse than stable for me. What gives? 
 
 While on most modern hardware we see lazer outperform stable, there are always edge cases when each user has a different hardware configuration. In our short-term roadmap, we are looking to support DirectX (aka "compatibility mode" on stable) and Vulkan, which both have better driver support than OpenGL across all hardware. Once this is implemented, performance on hardware like Intel integrated chipsets will improve greatly.
 
-### Providing feedback
+### Providing feedback 
 
 #### A feature that I depend on is missing! / Something has changed and I don't like it. / I have found a bug, what's the best way to report it?
 
