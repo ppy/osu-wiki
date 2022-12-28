@@ -216,7 +216,7 @@ Sebbene osu! possa sembrare un gioco semplice, ci sono centinaia e centinaia di 
 
 Un'altra area che ha richiesto un enorme sforzo è la conservazione storica, ovvero assicurarsi che le beatmap si comportino esattamente come dovrebbero, compresi i casi limite che non erano stati originariamente previsti. osu! è un ecosistema vivace e gli utenti si sono presi la libertà di estendere il gioco ben oltre i suoi limiti previsti, e noi stiamo facendo del nostro meglio per abbracciare e supportare tutto ciò in futuro.
 
-Infine, a differenza dell'ultima iterazione, stiamo dedicando tempo e diligenza per garantire che il codice di base sia utile anche in futuro. Abbiamo fatto il lavoro di base per consentire alle nuove funzionalità di essere online a velocità incredibile. Questo includerà nuovi componenti dell'interfaccia utente, nuovi modi di personalizzare il gioco, nuovi sistemi multigiocatore e, non dimentichiamolo, la possibilità di caricare e giocare tutte le beatmap esistenti su modalità di gioco (alias, set di regole) completamente nuove!
+Infine, a differenza dell'ultima iterazione, stiamo dedicando tempo e diligenza per garantire che la base del codice sia utile anche in futuro. Abbiamo fatto il lavoro di base per consentire alle nuove funzionalità di essere online a velocità incredibile. Questo includerà nuovi componenti dell'interfaccia utente, nuovi modi di personalizzare il gioco, nuovi sistemi multiplayer e, non dimentichiamolo, la possibilità di caricare e giocare tutte le beatmap esistenti su modalità di gioco (alias, ruleset personalizzati) completamente nuove!
 
 #### Cosa ci aspetta?
 
@@ -224,7 +224,7 @@ Abbiamo un'enorme quantità di funzioni e miglioramenti richiesti dagli utenti c
 
 #### Come si accede alla cartella delle canzoni?
 
-In lazer non esiste una cartella delle canzoni! Questo ci permette di fare cose interessanti, come non dover premere `F5` alla selezione del brano per aggiornare le beatmap (perché le beatmap sono sempre in buono stato) e di ridurre lo spazio su disco utilizzato dalle beatmap del 20-40%. È possibile leggere ulteriori informazioni su [il modo in cui lazer memorizza i file] (/wiki/Client/Release_stream/Lazer/File_storage).
+In lazer non esiste una cartella delle canzoni! Questo ci permette di fare cose interessanti, come non dover premere `F5` alla selezione della mappa per aggiornare le beatmap (perché le beatmap sono sempre in stato ottimale) e di ridurre lo spazio su disco utilizzato dalle beatmap del 20-40%. È possibile leggere ulteriori informazioni su [il modo in cui lazer memorizza i file] (/wiki/Client/Release_stream/Lazer/File_storage).
 
 Se è necessario apportare modifiche a una beatmap, utilizzare l'editor. In futuro introdurremo una modalità nell'editor che renderà temporaneamente accessibile la cartella di una beatmap per modifiche esterne. Ciò consentirà di utilizzare strumenti esterni su una beatmap durante il processo di creazione.
 
@@ -234,7 +234,7 @@ Alcuni filtri nell'elenco delle beatmap sono ancora riservati ai sostenitori.
 
 Ci sono anche alcuni vantaggi aggiuntivi:
 
-I sostenitori possono creare playlist che durano più a lungo.
+- I supporter possono creare playlist che durano più a lungo.
 
 Intendiamo valutare nuovi vantaggi in futuro, ma al momento ci concentriamo sulla parità di funzionalità con la stable, quindi vi invitiamo a utilizzare l'acquisto del tag Supporter come un modo per... sostenere lo sviluppo del gioco!
 
