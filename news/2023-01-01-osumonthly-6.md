@@ -8,11 +8,13 @@ Catch up with community happenings in December's edition of osu!monthly!
 
 ![](/wiki/shared/news/2023-01-01-osumonthly-6/banner.jpg)
 
-Welcome to the 6th edition of osu!monthly! December surely was a busy month with a lot of community rumbles
+Welcome to the 6th edition of osu!monthly! December surely was a busy month with a lot of community rumbles.
 
-If you want to contribute, feel free to reach out! The osu!monthly project is organised in the osu!dev Discord server, and if you have suggestions you can also contact 0x84f#0001 on Discord.
+If you want to contribute, feel free to reach out! The osu!monthly project is organised in the osu!dev [Discord server](https://discord.gg/ppy), and if you have suggestions you can also contact any one of the members that actively help out with osu!monthly.
 
-If you are interested in checking out all of the previous editions, feel free to have a look at the forum post!
+If you are interested in checking out all of the previous editions, feel free to have a look at the [forum post](https://osu.ppy.sh/community/forums/topics/1614314?n=1)!
+
+Seems that the end of the year brings the end of many osu! community events, the major one being tournaments. For far too long the tournament scene hasn't been well published, with the new additions from last month to this month, osu! monthly hopes this brings a favorable light on a part of the community that has been left in the dark.
 
 ## Table of contents
 
@@ -103,7 +105,19 @@ We all thought that the new pp record would stay in the first place for a long t
 
 ### Notable osu!taiko plays of the month
 
-*Section written by [XX](link)*
+*Section written by [Blushing](https://osu.ppy.sh/users/5927823) and [ianpep](https://osu.ppy.sh/users/7699030)*
+
+A little different template for the osu!taiko section this time around. For this rendition, we decided to capture the 5 most outstanding plays throughout 2022.
+
+Usually we only showcase osu!taiko specific maps, but [Ney's](https://osu.ppy.sh/users/5991961) immaculate play on [The Forgotten](https://osu.ppy.sh/scores/taiko/176006178), caught out attention and was one which was not easily forgotten. The score showcases some extreme 500bpm monostreams that was perfected by Ney's unique playstyle. With the map itself being 3 minutes long and only a brief moment to stop, this definitely lives up to being a play of the year.
+
+Ney wasn't the only one to have had a specific impact on the osu!taiko community. An osu!monthly veteran [Grape_Tea](https://osu.ppy.sh/users/9540073) does it again with their HDHR SS on [The Limit Does Not Exist](https://osu.ppy.sh/scores/taiko/172478839). Featuring blistering and unrelenting 280bpm streams, Grape_Tea seems to do the unsurmountable and brings the play up to the next level with HD and HR, a mod combo that is notorious for being unable to play with, let alone SS with.
+
+A newcomer to osu!monthly: [Nurend's](https://osu.ppy.sh/users/9905079) NC play on [Central Nucleus](https://osu.ppy.sh/scores/taiko/175579351), coming in at a whopping 9.7 stars, this map is nothing but a beast when paired with NC, featuring difficult 1/6 and 1/8 patterns that challenge even the pros. This score is made even more impressive with it being the first DT play on the map and with only 8 misses, it is no wonder why this is being showcased.
+
+One of the most showcased players for the osu!taiko section, [shinchikuhome](https://osu.ppy.sh/users/3174184) returns! Though, not just in name, it is all through merit on their exhausting DT FC on [Yomi yori Kikoyu, Koukoku no Tou to Honoo no Shoujo](https://osu.ppy.sh/scores/taiko/174662507). Mixing 330bpm streams with the best player in the world tends to give an explosive performance. This 5 minute behemoth of a map shows the needed finger control for the slower 1/3 sections and the insane speed needed for the intense streams that the number 1 global needs to master to defeat this monster.
+
+For the most voted play of the year, it was decided that [applerss](https://osu.ppy.sh/users/983349/taiko) insane FC of [Scattered Faith](https://osu.ppy.sh/scores/taiko/175098621). I mean, what else is there to say about this score? Scattered Faith is infamous in the osu!taiko community for being one of, if not, the fastest map currently ranked. Coming in at over 8 minutes long, and reaching up to 360bpm, this play is definitely deserving of its #1 finish.
 
 <iframe width="100%" height="315" src="link" frameborder="0" allowfullscreen></iframe>
 
@@ -201,9 +215,10 @@ This month on Twitter we saw [the announcement](https://twitter.com/keevyosu/sta
 
 - Yet another LAN tourney is on the horizon. Organized by [Zeus-](https://osu.ppy.sh/users/5464437) with the support of [Boğaziçi University Gaming Club (BUOK)](http://buok.boun.edu.tr/), the very first iteration of **Bosphorus Invitational** aims to gather around some of the best circle clickers within the Turkish community at the border of the magnificent Bosphorus strait where the continents meet, for an epic 1 day showdown of Turkey's best players. While the participation is invite-only, feel free to either visit the venue on the 29th or check out the tournament via the [BUOK Twitch channel](https://www.twitch.tv/buoyunkulubu/) to keep the tabs on. See more on the details through the [forum post](https://osu.ppy.sh/community/forums/topics/1696844), which is also [available in Turkish](https://osu.ppy.sh/community/forums/topics/1696848)!
 - The [New Beginnings Art Contest](/news/2022-12-24-new-beginnings-voting-open) voting has concluded by the time you are reading this, and should have it's results posted. Go and check out all of the wonderful creations from the community, and if you previously put your votes in, check if the creations you voted for have made their way to the top!
+- For those of you who are ***Full Beatmap Nominators*** and have an interest in being a part of the [NAT](https://osu.ppy.sh/wiki/en/People/The_Team/Nomination_Assessment_Team) they are going to be doing some specific osu! BN evaluating where the full BNs are able to "play NAT for a bit" from January 1 - 31, 2023. If you are interested, you might want to talk to your local NAT representative.
 
 ## End word
 
-<!-- End word -->
+As always, thank you for reading this month's edition of osu!monthly. We hope that 2022 treated you well and that the new year brings even more splendors. If you have any questions, comments, concerns, or want to contribute don't hesitate to say something in the osu! Dev discord. We thank you for an amazing reponse for half of the year and we hope this continues on for many more, it is not without you all creating community content that this cannot happen. Thank you, thank you, thank you!
 
 —XX
