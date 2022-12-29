@@ -518,4 +518,3 @@ Sunday, 6 November 2022:
 4. **There will be no FreeMod picks in the tournament.** However, in the case of a tiebreaker, the tiebreaker map will be played with the FreeMod option enabled which allows players to play the tiebreaker map with EZ, HR, HD, or any possible combinations of the three mods should they wish to.
    - Playing the tiebreaker map with a mod is *not* mandatory.
 5. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
-
