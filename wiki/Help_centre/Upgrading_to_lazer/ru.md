@@ -107,7 +107,7 @@ Stable будет поддерживаться до тех пор, пока по
 
 #### Могу ли я импортировать все свои данные из stable в lazer?
 
-На данный момент в lazer могут быть импортированы карты, скины, рекорды, записи игры и коллекции. Стоит отметить, что импорт настроек не поддерживается -  настраивать клиент игры придётся с нуля.
+На данный момент в lazer могут быть импортированы карты, скины, рекорды, записи игры и коллекции. Стоит отметить, что импорт настроек не поддерживается — настраивать клиент игры придётся с нуля.
 
 #### Если я импортирую свои карты в lazer, станут ли они занимать двойное место на диске?
 
@@ -139,9 +139,9 @@ Stable будет поддерживаться до тех пор, пока по
 
 Пока что рекорды будут отображаться только в разделе "последние игры".
 
-#### If I set a score on lazer, will it give performance points? Дают ли очки производительности за рекорды в lazer?
+#### Дают ли очки производительности за рекорды в lazer?
 
-Scores will already have performance points calculated (you can see this in the "recently played" section of your profile), but it will not contribute to the total value yet. Рекорды из lazer уже имеют подсчитанные очки производительности (вы можете увидеть их значение в разделе "последние игры" в своём профиле), но пока что они никак не влияют на pp, полученные в stable.
+Рекорды из lazer уже имеют подсчитанные очки производительности (вы можете увидеть их значение в разделе "последние игры" в своём профиле), но пока что они никак не влияют на pp, полученные в stable.
 
 #### В lazer используется система подсчёта очков ScoreV2?
 
@@ -161,9 +161,9 @@ Scores will already have performance points calculated (you can see this in the 
 
 Да. Когда мы сбалансируем рекорды lazer и stable, они будут отображаться вместе.
 
-#### Will all mods be ranked? Будут ли учитываться системой рейтинга абсолютно все моды?
+#### Будут ли учитываться системой рейтинга абсолютно все моды?
 
-Пока что рекорды с любыми комбинациями модов отображаются в таблицах рекордов. Будут ли все моды учитываться системой рейтинга (и если да, то каким образом) - проблема, которая всё ещё обсуждается.
+Пока что рекорды с любыми комбинациями модов отображаются в таблицах рекордов. Будут ли все моды учитываться системой рейтинга (и если да, то каким образом) — проблема, которая всё ещё обсуждается.
 
 #### Мне не нравятся новые механики игры. Я хочу играть так, как это было в stable.
 
@@ -173,7 +173,7 @@ Scores will already have performance points calculated (you can see this in the 
 
 #### Я чувствую, что в lazer что-то не так по сравнению со stable и мне это не нравится!
 
-Пожалуйста, запустите мастер по настройке и дойдите до пункта `Настройки`. Большинство стандартных настроек, значения которых изменились в lazer, находятся здесь. Также вы просто можете нажать на кнопку "Старые настройки" - это станет отправной точкой вашего нового опыта в lazer.
+Пожалуйста, запустите мастер по настройке и дойдите до пункта `Настройки`. Большинство стандартных настроек, значения которых изменились в lazer, находятся здесь. Также вы просто можете нажать на кнопку "Старые настройки" — это станет отправной точкой вашего нового опыта в lazer.
 
 #### Будут ли когда-нибудь старые скины изменять меню выбора песни и экран с результатами?
 
@@ -187,53 +187,53 @@ Scores will already have performance points calculated (you can see this in the 
 
 #### Почему я не могу убрать ограничение по FPS?
 
-Above a certain threshold there is no reason to run at higher frame rates. Lazer employs various new technologies to ensure the lowest latency is achievable without requiring high frame rates. This will continue to improve going forward as we still have a few improvements left to implement.
+Нет необходимости играть с частотой кадров выше определенного значения. В lazer используются различные новые технологии, позволяющие достичь низкой задержки без высоких значений по кадрам в секунду.
 
-Lazer polls for input at 1000 Hz regardless of FPS limiter, which is why the maximum limiter setting will also limit to 1000 FPS.
+Lazer опрашивает устройства ввода с частотой 1000 Hz несмотря на поставленное ограничение кадров, поэтому и максимальное значение ограничения — 1000 FPS.
 
-If you are curious about how this affects input latency and test your own perception, please run the built-in "latency certifier" at the bottom of settings.
+Если вам интересно, как это влияет на задержку ввода, и вы хотите почувствовать это на себе, запустите "верификатор задержки" ("latency certifier") в настройках, секция "Отладка"
 
-#### If input is only polled at 1000 Hz, what about my 8000 Hz gaming mouse? 
+#### Хорошо, но если частота опроса устройств ввода 1000 Hz, то что вы скажете насчёт моей мышки с частотой 8000 Hz?
 
-The operating system will still poll at the higher rate, although benefits are proven to be negligible. Polling at such high rates can have unforeseen overheads, and we recommend limiting devices to 1000 Hz for system stability.
+Доказано, что опрос системой устройств с такой высокой частотой даёт незначительные преимущества и может привести к непредвиденным нагрузкам, поэтому мы рекомендуем вам ограничить частоту до 1000 Hz для поддержания стабильности.
 
-#### Lazer performs worse than stable for me. What gives? 
+#### У меня lazer работает хуже, чем stable. В чём причина?
 
-While on most modern hardware we see lazer outperform stable, there are always edge cases when each user has a different hardware configuration. In our short-term roadmap, we are looking to support DirectX (aka "compatibility mode" on stable) and Vulkan, which both have better driver support than OpenGL across all hardware. Once this is implemented, performance on hardware like Intel integrated chipsets will improve greatly.
+На большинстве современных систем lazer работает стабильно, но всегда есть крайности: у каждого пользователя разная конфигурация оборудования. В кратчайшие сроки будет добавлена поддержка DirectX (aka "режим совместимости в stable) и Vulkan, которые имеют лучшую совместимость с драйверами по сравнению с OpenGL на всех устройствах. Как только обновление будет доступно, производительность на системах со встроенной видеокартой Intel станет в разы лучше.
 
-### Providing feedback 
+### Обратная связь
 
-#### A feature that I depend on is missing! / Something has changed and I don't like it. / I have found a bug, what's the best way to report it?
+#### Функции, которую я хочу, нет! / Что-то изменилось и мне это не нравится. / Я нашёл баг, как мне о нём сообщить?
 
-There's a very high chance we are already aware of this and tracking it for future implementation! Please search the [issue tracker](https://github.com/ppy/osu/issues) and [discussions page](https://github.com/ppy/osu/discussions). If you can't find any matching threads, feel free to [open a discussion](https://github.com/ppy/osu/discussions/new).
+С большой долей вероятности мы уже знаем об этом и отслеживаем для разработки в будущем! Пожалуйста, попробуйте поискать [в списке проблем](https://github.com/ppy/osu/issues) и [на странице обсуждений](https://github.com/ppy/osu/discussions). Если вы не можете найти то, что вас интересует, можете спокойно создавать [новое обсуждение](https://github.com/ppy/osu/discussions/new).
 
-Do note that we are already tracking over 1,000 issues of varying priorities, and it may take us some time to fix issues that only affect a small number of users.
+Обратите внимание: мы уже в курсе о более чем 1000 проблемах с разным приоритетом по разработке, поэтому исправление небольших багов может занять какое-то время.
 
-### Other
+### Прочее
 
-#### Why is it called "lazer"?
+#### Почему "lazer"?
 
-What is sharper than cutting–edge?
+Что может быть острее cutting–edge?
 
-#### Why is it taking so long to become the "main" release?
+#### Почему нужно столько времени для того, чтобы lazer стал основным клиентом?
 
-While osu! may seem like a simple game, there are hundreds on hundreds of features and systems that users have come to rely on. Depending on who you ask, lazer may have been in a fully playable state for years now, or it may be missing countless features.
+Кажется, что osu! — простая игра, но выходит так, что в ней сотни функций, на которые полагаются пользователи. Один может сказать, что в lazer уже можно играть на протяжении несколько лет, другой — что в lazer отсутствует масса необходимых функций.
 
-Another area which has taken a huge amount of effort is historical preservation — making sure that beatmaps behave exactly as they should, including edge cases that weren't originally planned for. osu! is a vibrant ecosystem and users have taken liberty to extend the game far beyond its planned extents, and we are trying our best to embrace and support this going forward.
+Одна из областей разработки, которая потребовала огромных усилий и времени — сохранение истории. Это обеспечение корректной работоспособности карт, включая незапланированные крайности. osu! — это динамично развивающаяся экосистема, и пользователи взяли на себя смелость расширить игру далеко за пределы запланированных масштабов. Мы делаем всё возможное, чтобы поддержать эту тендецию будущего.
 
-Finally, unlike the last iteration, we are putting in the time and diligence to ensure the code base will serve us well into the future. We have done the groundwork to allow new features to come online at blazing speed going forward. This will include new UI components, new ways to skin the game, new multiplayer systems and let's not forget the ability to load and play all your existing beatmaps on completely new game modes (a.k.a. rulesets)!
+Наконец, в отличии от разработки stable мы тратим время и силы на то, чтобы код игры в будущем служил нам верой и правдой. Мы заложили основу для того, чтобы новые функции в будущем выходили невероятно быстро. Это касается новых компонентов интерфейса, новых способах изменить игру через скрин, новых системах в мультиплеере, и не забывайте о возможности играть все существующие карты в совершенно новых режимах игры!
 
-#### What comes next?
+#### What comes next? Что дальше?
 
-We have a huge backlog of user-requested features and improvements that we will continue to push out at the speed of light. For those that have joined us recently and haven't experienced the momentum of osu! development, prepare to be in for a surprise.
+We have a huge backlog of user-requested features and improvements that we will continue to push out at the speed of light. For those that have joined us recently and haven't experienced the momentum of osu! development, prepare to be in for a surprise. Мы собрали огромное количество пользовательских запросов функций и улучшений, которые мы будем продолжать разрабатывать со скоростью света. Для тех, кто недавно присоединился к нашему сообществу и не испытал скачок в развитии разработки osu! — самое время 
 
-#### How do I access my songs folder?
+#### How do I access my songs folder? Как открыть папку с песнями?
 
 There is no songs folder in lazer! This allows us to do cool things like not require pressing `F5` at song select to refresh beatmaps (because beatmaps are always in a good state) and reduce the disk space used by beatmaps by 20–40%. You can read more about [the way lazer stores files](/wiki/Client/Release_stream/Lazer/File_storage).
 
 If you need to make changes to a beatmap, please use the editor. Going forward we will introduce a mode in the editor which makes a beatmap's folder temporarily accessible for external editing. This will allow you to use external tools on a beatmap during the creation process.
 
-#### Now that "osu!direct" is available to all players, will supporters have any new benefits?
+#### Now that "osu!direct" is available to all players, will supporters have any new benefits? 
 
 Some filters in the beatmap listing are still supporter-only.
 
@@ -243,19 +243,19 @@ There are also some additional benefits already:
 
 We do intend to look into new benefits in the future, but our focus is currently on feature parity with stable so please use your supporter tag purchase as a way to... support the game's development!
 
-#### If I cheat on lazer will I be banned?
+#### Если я буду читерить в lazer, меня забанят?
 
-Yes.
+Да.
 
-#### If I find someone cheating on lazer how should I report them?
+#### Должен ли я сообщать о читерах, которых заметил в lazer?
 
-The same way you usually would.
+Поступайте так, как считаете нужным.
 
-#### Where are the microtransactions?
+#### Где микротранзакции?
 
-You're likely thinking of another game.
+Вам стоит найти другую игру.
 
-### Notes
+### Заметки
 
 [^wine]: Используя wine.
 [^compatibility-mode]: DirectX via compatibility mode.
