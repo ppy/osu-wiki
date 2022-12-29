@@ -2,6 +2,7 @@
 tags:
   - game client
   - игровой клиент
+  - лазер
 ---
 
 # Обновление до lazer
@@ -43,7 +44,7 @@ osu!(lazer) – это следующее глобальное обновлен�
 
 | Функция | stable | lazer |
 | :-- | :-- | :-- |
-| Accurate performance point display | ![Partial][partial][^online] | ![Yes][true] |
+| Отображение количества pp в реальном времени | ![Partial][partial][^online] | ![Yes][true] |
 | Пресеты модов | ![No][false] | ![Yes][true] |
 | Тонкая настройка модов | ![No][false] | ![Yes][true] |
 | Новые "развлекательные" моды | ![No][false] | ![Yes][true] |
@@ -54,7 +55,7 @@ osu!(lazer) – это следующее глобальное обновлен�
 | Облегчённая версия "note lock" | ![No][false] | ![Yes][true][^note-lock] |
 | Дольная окраска нот режима osu!mania | ![No][false] | ![Yes][true] |
 
-### Онлайн-взаимодействия
+### Онлайн-взаимодействие
 
 | Функция | stable | lazer |
 | :-- | :-- | :-- |
@@ -223,25 +224,25 @@ Lazer опрашивает устройства ввода с частотой 1
 
 Наконец, в отличии от разработки stable мы тратим время и силы на то, чтобы код игры в будущем служил нам верой и правдой. Мы заложили основу для того, чтобы новые функции в будущем выходили невероятно быстро. Это касается новых компонентов интерфейса, новых способах изменить игру через скрин, новых системах в мультиплеере, и не забывайте о возможности играть все существующие карты в совершенно новых режимах игры!
 
-#### What comes next? Что дальше?
+#### Что будет дальше?
 
-We have a huge backlog of user-requested features and improvements that we will continue to push out at the speed of light. For those that have joined us recently and haven't experienced the momentum of osu! development, prepare to be in for a surprise. Мы собрали огромное количество пользовательских запросов функций и улучшений, которые мы будем продолжать разрабатывать со скоростью света. Для тех, кто недавно присоединился к нашему сообществу и не испытал скачок в развитии разработки osu! — самое время 
+Мы собрали огромное количество пользовательских запросов функций и улучшений, которые мы будем продолжать разрабатывать со скоростью света. Для тех, кто недавно присоединился к нашему сообществу и не испытал скачок в развитии разработки osu! — самое время 
 
-#### How do I access my songs folder? Как открыть папку с песнями?
+#### Как открыть папку с песнями?
 
-There is no songs folder in lazer! This allows us to do cool things like not require pressing `F5` at song select to refresh beatmaps (because beatmaps are always in a good state) and reduce the disk space used by beatmaps by 20–40%. You can read more about [the way lazer stores files](/wiki/Client/Release_stream/Lazer/File_storage).
+Папки с песнями в lazer в отличии от stable больше нет! Это позволяет, к примеру, не нажимать клавишу `F5` в меню выбора песни, чтобы обновить список карт (потому что карты всегда в "хорошем состоянии") и уменьшить занимаемое картами место на диске на 20-40%. Подробнее об этом вы можете узнать [тут](/wiki/Client/Release_stream/Lazer/File_storage).
 
-If you need to make changes to a beatmap, please use the editor. Going forward we will introduce a mode in the editor which makes a beatmap's folder temporarily accessible for external editing. This will allow you to use external tools on a beatmap during the creation process.
+Если вам нужно изменить карту — делайте это в редакторе. В будущем мы планируем разработать функцию редактора, позволяющую временно разблокировать папку с картой для изменения файлов в ней внешним путём.
 
-#### Now that "osu!direct" is available to all players, will supporters have any new benefits? 
+#### Если "osu!direct" в lazer стал доступным для всех, получат ли в будущем обладатели тега osu!supporter новые эксклюзивные функции?
 
-Some filters in the beatmap listing are still supporter-only.
+Некоторые критерии сортировки в библиотеке карт всё ещё доступны только владельцам тега osu!supporter.
 
-There are also some additional benefits already:
+В lazer уже есть некоторое количество преимуществ для тех, кто поддержал игру:
 
-- Supporters can create playlists that last longer
+- Можно создавать плейлисты длительностью более 2 недель
 
-We do intend to look into new benefits in the future, but our focus is currently on feature parity with stable so please use your supporter tag purchase as a way to... support the game's development!
+Мы действительно намерены в будущем сделать некоторые функции эксклюзивными, но пока что мы настроены на разработку и тест всех крутых функций, которых нет в stable, поэтому если вы хотите купить тег osu!supporter, то делайте это ради... поддержки разработки игры!
 
 #### Если я буду читерить в lazer, меня забанят?
 
@@ -258,31 +259,31 @@ We do intend to look into new benefits in the future, but our focus is currently
 ### Заметки
 
 [^wine]: Используя wine.
-[^compatibility-mode]: DirectX via compatibility mode.
+[^compatibility-mode]: Поддержка DirectX через режим совместимости.
 [^coming-soon]: Cкоро.
 [^dll]: Используя файлы `.dll`.
-[^share-files]: Beatmaps and skins will share files and save on disk space.
-[^gameplay-only]: Gameplay only.
-[^online]: Via online retrieval.
-[^normalisation]: This brings beatmap custom combo colours to the same brightness level.
-[^hold-for-hud]: Hold `Ctrl` to view the HUD momentarily while it's hidden.
-[^offset-calibration-stable]: Adjustable manually via key bindings.
-[^offset-calibration-lazer]: When retrying a beatmap, you can calibrate the offset based on your last play.
-[^can-disable]: Can be disabled.
-[^note-lock]: Still exists, but should not interfere.
-[^score-reset-balance]: Scores will be reset to ensure balance.
-[^score-reset-isolated]: Scores will be reset, currently isolated from stable scores.
-[^online-content]: Native access to most online content.
-[^direct-supporter]: osu!direct, osu!supporter-only.
-[^multi-room-max]: 16 players max.
-[^map-only]: Map only.
-[^all-files]: All files.
-[^editor-precise-rotation]: Missing precise angle rotation.
-[^incompatibilities]: Some editor features will cause beatmaps to play incorrectly in stable — will be fixed soon.
-[^stable-chat]: Messages can take up to 15 seconds to arrive.
-[^countdown-timers-stable]: Set a countdown using a command, no automatic start.
-[^countdown-timers-lazer]: Set a countdown from the game UI to automatically start the match.
-[^queue-modes]: Turn on to allow anyone in a lobby to queue new beatmaps, a.k.a. "host rotate".
+[^share-files]: Система общих карт и скинов, позволяющих не занимать дополнительное место на диске.
+[^gameplay-only]: Только при игровом процессе.
+[^online]: Только через сторонние приложения.
+[^normalisation]: Позволяет привести комбо-цвета к одному и тому же уровню яркости.
+[^hold-for-hud]: Удерживайте клавишу `Ctrl` чтобы показать скрытый вами интерфейс.
+[^offset-calibration-stable]: Может быть изменено только вручную.
+[^offset-calibration-lazer]: Перед тем, как начать проходить карту заново, вы можете откалибровать значение сдвига на основе предыдущей игры.
+[^can-disable]: Можно отключить.
+[^note-lock]: Всё ещё есть, но действует в "щадящем" режиме.
+[^score-reset-balance]: Рекорды могут быть удалены для сохранения баланса в игре.
+[^score-reset-isolated]: Часть рекордов будут удалены; пока что отображаются только рекорды из lazer.
+[^online-content]: Доступ к функциям сайта напрямую из игры.
+[^direct-supporter]: Через osu!direct, доступно с тегом osu!supporter.
+[^multi-room-max]: Максимальное количество участников: 16.
+[^map-only]: Только карты.
+[^all-files]: Все файлы.
+[^editor-precise-rotation]: Отсутствует точность угла вращения.
+[^incompatibilities]: Некоторые функции редактора могут помешать сыграть карту в stable (скоро будет исправлено).
+[^stable-chat]: Сообщения приходят с задержкой до 15 секунд.
+[^countdown-timers-stable]: Установка таймера через команду; нет поддержки автоматического старта игры.
+[^countdown-timers-lazer]: Установка таймера по кнопке через интерфейс для автоматического старта.
+[^queue-modes]: Можно включить, чтобы позволить любым участникам комнаты добавлять карты в очередь (аналог host-rotate).
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png
