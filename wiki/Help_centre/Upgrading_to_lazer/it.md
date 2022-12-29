@@ -5,48 +5,48 @@ tags:
 
 # Aggiornare a lazer
 
-osu!(lazer) e' il prossimo aggiornamento al client di osu!. E' il frutto di diversi anni di lavoro dietro le quinte per assimilare il piu' possibile il gioco principale.
+osu!(lazer) è il prossimo grande aggiornamento al client di osu!. È il frutto di diversi anni di lavoro dietro le quinte per reimplementare osu!.
 
-L'obiettivo finale e' che questa versione venga rilasciata come aggiornamento che sostituirà completamente la versione stabile esistente del gioco, ma c'e' ancora del lavoro da fare prima che sia fattibile. Alla fine della giornata, **i giocatori** determineranno quando cio' accadra' e continueremo a supportare la versione precedente fino a quando gli utenti non avranno effettuato la migrazione.
+L'obiettivo finale é quello di rilasciare questa versione come aggiornamento che sostituirá completamente l'attuale versione esistente del gioco, ma c'è ancora del lavoro da fare prima che sia fattibile. Alla fine, saranno **i giocatori** a determinare quando ciò accadrà e continueremo a supportare la versione precedente fino a quando gli utenti non avranno effettuato il passaggio.
 
-"lazer" e' un codice e eventualmente verra' scartato una volta che diventera' la release principale del gioco. Il resto di questo documento si riferira' a osu!(lazer) come "lazer" e osu!(stable) come "stable" per semplicita'.
+"lazer" è un nome in codice e verrà eventualmente scartato una volta che diventerà la versione di rilascio principale del gioco. Il resto di questo documento si riferirà a osu!(lazer) come "lazer" e osu!(stable) come "stable" per semplicità.
 
 ## Differenze tra stable e lazer
 
-Di seguito verra' rappresentato una lista dello **stato attuale** di lazer in confronto con stable. Nota bene che questo e' obiettivo volatile — l'obiettivo finale sara' quello di implementare tutte le novita' che i giocatori hanno voluto nel tempo.
+Di seguito verrà rappresentato una lista dello **stato attuale** di lazer in confronto con stable. Nota bene che questo è uno stato temporaneo — l'obiettivo finale è quello di implementare tutte le funzioni che i giocatori hanno richiesto nel corso degli anni.
 
 ### Compatibilità e prestazioni
 
-| Novita' | stable | lazer |
+| Funzionalitá | stable | lazer |
 | :-- | :-- | :-- |
-| Windows 8.0 e inferiori | ![Yes][true] | ![No][false] |
-| macOS / Linux | ![Partial][partial][^wine] | ![Yes][true] |
+| Windows 8.0 e versioni precedenti | ![Yes][true] | ![No][false] |
+| MacOS / Linux | ![Partial][partial][^wine] | ![Yes][true] |
 | DirectX / Vulkan | ![Partial][partial][^compatibility-mode] | ![No][false][^coming-soon] |
 | Supporto mobile | ![No][false] | ![Yes][true] |
 | Architettura Multithread | ![No][false] | ![Yes][true] |
 | Accelerazione-Hardware dei video | ![No][false] | ![Yes][true] |
 | Ridimensione dell'Interfaccia | ![No][false] | ![Yes][true] |
-| ruleset personalizzati (game modes) | ![No][false] | ![Partial][partial][^dll] |
+| Ruleset personalizzati (game modes) | ![No][false] | ![Partial][partial][^dll] |
 | Archivio dei file de-duplicato | ![No][false] | ![Yes][true][^share-files] |
-| Regolazione area della tavoletta | ![No][false] | ![Yes][true] |
+| Supporto alla tavoletta grafica | ![No][false] | ![Yes][true] |
 
 ### UI and skinning
 
-| Novita' | stable | lazer |
+| Funzionalitá | stable | lazer |
 | :-- | :-- | :-- |
 | Supporto alle skin | ![Yes][true] | ![Partial][partial][^gameplay-only] |
 | Raggruppamento delle canzoni | ![Yes][true] | ![No][false] |
-| In-gioco skin / Modifica del layout UI | ![No][false] | ![Yes][true] |
+| Modifica della skin e disposizione dell'UI direttamente in gioco | ![No][false] | ![Yes][true] |
 
 ### Gameplay and skinning
 
-| Novita' | stable | lazer |
+| Funzionalitá | stable | lazer |
 | :-- | :-- | :-- |
 | Accurate performance point display | ![Partial][partial][^online] | ![Yes][true] |
-| Mod pre selezionate | ![No][false] | ![Yes][true] |
+| Preimpostazioni per le mod | ![No][false] | ![Yes][true] |
 | Impostazioni per-mod | ![No][false] | ![Yes][true] |
-| Nuove divertenti mods | ![No][false] | ![Yes][true] |
-| Normalizzazione dei colori combo[^normalisation] | ![No][false] | ![Yes][true] |
+| Nuove mods "per divertimento" | ![No][false] | ![Yes][true] |
+| Colori delle combo[^normalisation] | ![No][false] | ![Yes][true] |
 | Tenere premuto per l'HUD | ![No][false] | ![Yes][true][^hold-for-hud] |
 | Calibrazione dell'offset | ![Partial][partial][^offset-calibration-stable] | ![Yes][true][^offset-calibration-lazer] |
 | osu! sliders "snake" while dragging | ![No][false] | ![Yes][true][^can-disable] |
@@ -55,7 +55,7 @@ Di seguito verra' rappresentato una lista dello **stato attuale** di lazer in co
 
 ### Online systems
 
-| Novita' | stable | lazer |
+| Funzionalitá | stable | lazer |
 | :-- | :-- | :-- |
 | Ricezione del punteggio | ![Yes][true] | ![Partial][partial][^score-reset-balance] |
 | Classifiche per beatmap | ![Yes][true] | ![Partial][partial][^score-reset-isolated] |
@@ -69,7 +69,7 @@ Di seguito verra' rappresentato una lista dello **stato attuale** di lazer in co
 | Illimitata grandezza delle stanze multiplayer | ![No][false][^multi-room-max] | ![Yes][true] |
 | Spettatore multiplayer | ![No][false] | ![Yes][true] |
 | Conto alla rovescia | ![Partial][partial][^countdown-timers-stable] | ![Yes][true][^countdown-timers-lazer] |
-| Modalita' di code | ![No][false] | ![Yes][true][^queue-modes] |
+| Modalità di code | ![No][false] | ![Yes][true][^queue-modes] |
 | Comandi multiplayer | ![Yes][true] | ![No][false] |
 | Tag co-op | ![Yes][true] | ![No][false] |
 | Playlists (user-curated leaderboards) | ![No][false] | ![Yes][true] |
@@ -77,12 +77,12 @@ Di seguito verra' rappresentato una lista dello **stato attuale** di lazer in co
 
 ### Editor
 
-| Novita' | stable | lazer |
+| Funzionalitá | stable | lazer |
 | :-- | :-- | :-- |
 | osu!taiko editor | ![No][false] | ![Yes][true] |
 | osu!catch editor | ![No][false] | ![Yes][true] |
 | osu!mania editor | ![Yes][true] | ![Yes][true] |
-| difficolta' aperta come riferimento | ![Yes][true] | ![No][false] |
+| difficoltà aperta come riferimento | ![Yes][true] | ![No][false] |
 | Per-oggetto SV / volume | ![No][false] | ![Yes][true] |
 | rotazione dei pattern | ![Yes][true] | ![Partial][partial][^editor-precise-rotation] |
 | ridimensionamento dei pattern | ![No][false] | ![Yes][true] |
@@ -94,41 +94,41 @@ Di seguito verra' rappresentato una lista dello **stato attuale** di lazer in co
 
 Quindi hai decido di dare una chance a Lazer? Bene!
 
-Puoi trovare il download [Qui](https://github.com/ppy/osu#running-osu). Prossimamente, sarai in grado di passare a lazer direttamente da stable (dall'impostazione `Release stream`) e' trovare il link di download nel sito di osu!.
+Puoi trovare il download [Qui](https://github.com/ppy/osu#running-osu). Prossimamente, sarai in grado di passare a lazer direttamente da stable (dall'impostazione `Release stream`) è trovare il link di download nel sito di osu!.
 
 ## FAQ
 
-### Migrazione
+### Passaggio
 
 #### Stable se ne andrà via? Sono forzato a stare su Lazer?
 
-Stable continuerà a essere mantenuto finche' gli utenti lo utilizzeranno. Perlomeno, sara' mantenuto per diversi anni.
+Stable continuerà a essere mantenuto finchè gli utenti lo utilizzeranno. Perlomeno, verrá mantenuto per diversi anni.
 
 #### Potrò importare tutti i miei dati da stable a lazer?
 
 Attualmente, beatmap, skin, punteggi, replay e collezioni possono essere importati in lazer. Nota bene, **le impostazioni non sono ancora state importate**, quindi dovrai ri-configurarle da zero.
 
-#### Se importo le mie mappe su lazer, verra' usato il doppio dello spazio?
+#### Se importo le mie mappe su lazer, verrà usato il doppio dello spazio?
 
 Se stable e lazer si trovano nello stesso disco, gli [hard links](/wiki/Client/Release_stream/Lazer/File_storage#via-hard-links) verranno usati per evitare il consumo di spazio aggiunto.
 
-in altri casi, nell'importazione delle beatmap usera' il doppio dello spazio.
+in altri casi, nell'importazione delle beatmap userà il doppio dello spazio.
 
-#### se disinstallo lazer, cio' causera' problemi alla cartella dove stable e' installato?
-
-No.
-
-#### se disinstallo stable, il contenuto importato da stable dara' problemi su lazer?
+#### se disinstallo lazer, ciò causerà problemi alla cartella dove stable è installato?
 
 No.
 
-#### Se installo lazer, saro' in grado di ritornare su stable?
+#### se disinstallo stable, il contenuto importato da stable darà problemi su lazer?
 
-Si, lazer verra' sempre installato a fianco a stable. A meno che tu non decida di eliminare uno dei due, Entrambi saranno accessibili.
+No.
+
+#### Se installo lazer, sarò in grado di ritornare su stable?
+
+Si, lazer verrà sempre installato a fianco a stable. A meno che tu non decida di eliminare uno dei due, Entrambi saranno accessibili.
 
 #### posso importare i miei dati da lazer a stable?
 
-No. Non verra' supportato.
+No. Non verrà supportato.
 
 Detto questo, i singoli score e mappe possono essere esportati da lazer e manualmente importati su stable per il momento.
 
@@ -140,11 +140,11 @@ gli score verranno mostrati sotto la sezione "Partite Recenti" ma non in "Miglio
 
 #### Se imposto un punteggio su lazer, darà punti performance?
 
-I punteggi avranno gia' i punti performance calcolati (puoi vederlo nella sezione "Partite recenti" del tuo profilo), ma non contribuiranno ancora al valore totale.
+I punteggi avranno già i punti performance calcolati (puoi vederlo nella sezione "Partite recenti" del tuo profilo), ma non contribuiranno ancora al valore totale.
 
 #### Lazer usa ScoreV2?
 
-Lazer attualmente utilizza un nuovo sistema di punteggio sperimentale che e' simile a ScoreV2 ma non e' identico. questo e' ancora sotto sviluppo e stiamo raccogliendo pareri dai player in base a quanto bene va in vari contesti (solo play, classifiche, tornei etc.)
+Lazer attualmente utilizza un nuovo sistema di punteggio sperimentale che è simile a ScoreV2 ma non è identico. questo è ancora sotto sviluppo e sstiamo ancora raccogliendo pareri e opinioni dai giocatori in base al contesto in cui viene usato (solo play, classifiche, tornei etc.).
 
 <!-- lint ignore no-heading-punctuation -->
 
@@ -160,13 +160,13 @@ Anche se cercheremo di preservare il maggior numero possibile di punteggi, **non
 
 Sì. Una volta terminato il bilanciamento della combinazione di punteggi in lazer e in stable, entrambi saranno visibili.
 
-#### Tutte le mod saranno Classificato?
+#### Tutte le mod saranno Classificate?
 
-Per ora, i punteggi di tutte le combinazioni di mod appaiono nelle classifiche. Si sta ancora discutendo se i punteggi daranno punti alle prestazioni con tutte le mod (e se lo faranno, se ci sarà un bonus o una penalità).
+Per ora, i punteggi di tutte le combinazioni di mod appaiono nelle classifiche. Si sta ancora discutendo se i punteggi daranno punti performance con tutte le mod (e se lo faranno, se ci sarà un bonus o una penalità).
 
 #### Non mi piacciono le nuove meccaniche di gioco. Posso ripristinare le vecchie meccaniche di gioco come su stable?
 
-Prova ad applicare la mod "classic", che ripristinera' gran parte del vecchio comportamento a cui sei abituato. Assicurati anche di controllare le impostazioni offerte dalla mod classica, in quanto ti consentiranno di personalizzare ulteriormente la tua esperienza e di capire quali modifiche vengono applicate (in quanto sono tutte elencate).
+Prova ad applicare la mod "classic", che ripristinerà gran parte delle vecchie meccaniche di gioco a cui sei abituato. Assicurati anche di controllare le impostazioni offerte dalla mod classica, in quanto ti consentiranno di personalizzare ulteriormente la tua esperienza e di capire quali modifiche vengono applicate (in quanto sono tutte elencate).
 
 ### Skinning e UI
 
@@ -176,19 +176,19 @@ Eseguire la configurazione guidata nella parte superiore delle impostazioni e co
 
 #### le vecchie skin funzioneranno nella selezione delle mappe e nella schermata del risultato?
 
-Faremo del nostro meglio per riportare queste funzionalità 
+Faremo del nostro meglio per riportare queste funzionalitá 
 
-#### posso usare il cursore della skin pure sul menu'?
+#### posso usare il cursore della skin pure sul menù?
 
-porteremo molto probabilmente questa novita' date la richiesta elevata.
+porteremo molto probabilmente questa novità date la richiesta elevata.
 
 ### Prestazioni
 
-#### perche' non posso avere gli fps illimitati?
+#### perchè non posso avere gli fps illimitati?
 
 Al di sopra di una certa soglia, non c'è motivo di utilizzare frame rate più elevati. Lazer impiega diverse nuove tecnologie per garantire la latenza più bassa possibile senza richiedere frame rate elevati. Questo aspetto continuerà a migliorare in futuro, poiché abbiamo ancora ulteriori miglioramenti da implementare.
 
-Lazer esegue il polling per l'ingresso a 1000 Hz indipendentemente dal limitatore di FPS, motivo per cui anche l'impostazione massima del limitatore limiterà a 1000 FPS.
+Lazer esegue il polling rate in ingresso a 1000 Hz indipendentemente dal limitatore di FPS, motivo per cui anche l'impostazione massima del limitatore limiterà a 1000 FPS.
 
 Se siete curiosi di sapere come questo influisce sulla latenza in ingresso e di verificare la vostra percezione, eseguite il "certificatore di latenza" integrato in fondo alle impostazioni.
 
@@ -204,19 +204,19 @@ Sebbene sulla maggior parte dell'hardware moderno notiamo che lazer supera stabl
 
 #### Manca una funzione da cui dipendo! / Qualcosa è cambiato e non mi piace. / Ho trovato un bug, qual è il modo migliore per segnalarlo?
 
-È molto probabile che ne siamo già a conoscenza e che lo stiamo monitorando per una futura implementazione! Cerca nell'[issue tracker](https://github.com/ppy/osu/issues) e nella [pagina delle discussioni](https://github.com/ppy/osu/discussions). Se non si riesce a trovare nessuna discussione corrispondente, sentirsi liberi di [aprire una discussione](https://github.com/ppy/osu/discussions/new).
+È molto probabile che ne siamo già a conoscenza e che lo stiamo monitorando per una futura implementazione! Cerca nell'[issue tracker](https://github.com/ppy/osu/issues) e nella [pagina delle discussioni](https://github.com/ppy/osu/discussions). Se non si riesce a trovare nessuna discussione corrispondente, sentitevi liberi di [aprire una discussione](https://github.com/ppy/osu/discussions/new).
 
 Si noti che stiamo già monitorando più di 1.000 problemi di varia priorità e che potrebbe volerci del tempo per risolvere problemi che riguardano solo un piccolo numero di utenti.
 
 ### Altro
 
-#### Perché ci vuole così tanto tempo per diventare la versione "principale"?
+#### Perché lazer ci sta mettendo così tanto tempo per diventare la versione "principale"?
 
 Sebbene osu! possa sembrare un gioco semplice, ci sono centinaia e centinaia di funzionalità e sistemi su cui gli utenti hanno fatto affidamento. A seconda di chi lo chieda, lazer potrebbe essere in uno stato completamente giocabile da anni o potrebbe mancare di innumerevoli funzionalità.
 
 Un'altra area che ha richiesto un enorme sforzo è la conservazione storica, ovvero assicurarsi che le beatmap si comportino esattamente come dovrebbero, compresi i casi limite che non erano stati originariamente previsti. osu! è un ecosistema vivace e gli utenti si sono presi la libertà di estendere il gioco ben oltre i suoi limiti previsti, e noi stiamo facendo del nostro meglio per abbracciare e supportare tutto ciò in futuro.
 
-Infine, a differenza dell'ultima iterazione, stiamo dedicando tempo e diligenza per garantire che la base del codice sia utile anche in futuro. Abbiamo fatto il lavoro di base per consentire alle nuove funzionalità di essere online a velocità incredibile. Questo includerà nuovi componenti dell'interfaccia utente, nuovi modi di personalizzare il gioco, nuovi sistemi multiplayer e, non dimentichiamolo, la possibilità di caricare e giocare tutte le beatmap esistenti su modalità di gioco (alias, ruleset personalizzati) completamente nuove!
+Infine, a differenza dell'ultima iterazione, stiamo dedicando tempo e diligenza per garantire che la base del codice sia utile anche in futuro. Abbiamo fatto tutto questo lavoro per consentire alle nuove funzionalità di essere online a velocità incredibile. Questo includerà nuovi componenti dell'interfaccia utente, nuovi modi di personalizzare il gioco, nuovi sistemi multiplayer e, non dimentichiamolo, la possibilità di caricare e giocare tutte le beatmap esistenti su modalità di gioco (alias, ruleset personalizzati) completamente nuove!
 
 #### Cosa ci aspetta?
 
@@ -238,7 +238,7 @@ Ci sono anche alcuni vantaggi aggiuntivi:
 
 Intendiamo valutare nuovi vantaggi in futuro, ma al momento ci concentriamo sulla parità di funzionalità con la stable, quindi vi invitiamo a utilizzare l'acquisto del tag Supporter come un modo per... sostenere lo sviluppo del gioco!
 
-#### Se baro su lazer verrò bannato?
+#### Se faccio uso di trucchi su lazer verrò bannato?
 
 Sì.
 
@@ -248,7 +248,7 @@ Nello stesso modo in cui lo faresti di solito.
 
 #### Dove sono le microtransazioni?
 
-Probabilmente stai pensando a un altro gioco.
+Probabilmente stai pensando ad un altro gioco.
 
 ### Notes
 
