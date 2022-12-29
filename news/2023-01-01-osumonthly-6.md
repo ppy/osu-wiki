@@ -30,6 +30,8 @@ Seems that the end of the year brings the end of many osu! community events, the
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/LgXrhrFFClY" frameborder="0" allowfullscreen></iframe>
 
+*Section written by [0x84f](https://osu.ppy.sh/users/7944724)*
+
 This month osu!(lazer) has received probably the most requested addition of all time, that being adding pp to osu!(lazer). You are now able to earn pp for all of your plays done in lazer, although currently it is being implemented via a [separate website](https://lazer.ppy.sh/home) with separate rankings. When it comes to mod customisation, currently only some mods give pp as a balance pass has not yet occurred, so please bear that in mind when you give osu!(lazer) a try.
 For full details we highly recommend watching the excellent video digest by [pishifat](https://osu.ppy.sh/users/3178418).
 
@@ -37,7 +39,7 @@ A really cool and also very requested feature that was implemented this month is
 
 <div align="center">
     <video width="100%" controls>
-        <source src="" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/osu-monthly/2022-12/lazer-featureshowcase-dec22.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
@@ -47,6 +49,8 @@ A really cool and also very requested feature that was implemented this month is
 
 ![](https://assets.ppy.sh/media/makeship-x-osu/header.jpg)
 
+*Section written by [Pisapou](https://osu.ppy.sh/users/16640021)*
+
 Have you ever dreamed of being able to cuddle or throw the osu! cookie, pippi, or the big and strong Taikonator 3000? Well it's time to jump on the opportunity and take a look at the Makeship x osu! collaboration.
 
 After a [small teaser](https://twitter.com/osugame/status/1600560233885339649?s=20&t=jMBRjxsv69dr1-lM2JLICQ) on Twitter, and a [subsequent giveaway](https://twitter.com/osugame/status/1601055681217384453) announcing the release of this collaboration, the osu! team has decided to bring back iconic osu! figures to life in the form of limited edition plushies. If you missed the launch of this partnership, don't hesitate to go and see the [official announcement](/news/2022-12-10-makeship-x-osu-plushies).
@@ -54,6 +58,8 @@ After a [small teaser](https://twitter.com/osugame/status/1600560233885339649?s=
 ### COE 2023 date reveal
 
 ![](/wiki/shared/news/2023-01-01-osumonthly-6/COE2023-banner.jpg)
+
+*Section written by [0x84f](https://osu.ppy.sh/users/7944724)*
 
 The dates have been announced for COE 2023, one of the biggest (if not the biggest) osu! event!
 
@@ -63,6 +69,8 @@ It certainly feels nice to know that the event will be held unlike the 2020 even
 
 ### osu! Wrapped 2022
 
+*Section written by [Pisapou](https://osu.ppy.sh/users/16640021)*
+
 It's been a tradition on osu! for several years to show off your yearly stats through various tools to showcase improvement (or just to show off), and the tradition keeps going this year! [osu! Wrapped 2022](https://api.netamaru.id/osu/wrapped), a web site created by [Netamaru](https://osu.ppy.sh/users/1830361) allows you to share your top 10 plays, your playcount and favorite mappers of the year in a single image!
 
 So don't hesitate to try and show your friends how much you have improved this year, or how much better you are than them!
@@ -70,6 +78,8 @@ So don't hesitate to try and show your friends how much you have improved this y
 ### osu! UTT Arena Tournament 2022
 
 ![](wiki/shared/news/2023-01-01-osumonthly-6/UTTArena-banner.jpg)
+
+*Section written by [Pisapou](https://osu.ppy.sh/users/16640021)*
 
 The French community is back in force once again this year with their osu! and osu!mania tournaments taking place at the [UTT Arena](https://osu.ppy.sh/community/forums/topics/1661444?n=1). But what makes this tournament so special besides the fact that it is organized in LAN? It's the way the maps are chosen. There are no bans as we are used to see, but a total of 51 maps (including 12 custom maps!) divided into skillsets, of which only once can be chosen for the duration of the tournament.
 
@@ -83,13 +93,15 @@ If you are interested in the replay of the event that was casted live, feel free
 
 ![](wiki/Tournaments/GSTLIVE/22/img/banner.png)
 
+*Section written by [_gt](https://osu.ppy.sh/users/8301957)*
+
 This month another Singaporean LAN took place, once again organised by [megumic](https://osu.ppy.sh/users/7537133) and [_gt](https://osu.ppy.sh/users/8301957). This time, the players fought on a mappool comprised of 29 custom maps, as well as 2 commissioned songs! 8 teams participated in the live tournament, with team *we go jim* consisting of [Eagle5324](https://osu.ppy.sh/users/11987104) and [Moroha29](https://osu.ppy.sh/users/9182389) taking home the final prize.
 
 If you're interested, the whole event was broadcasted on the [osusg twitch channel](https://twitch.tv/osusg), and you can find the [Twitch VOD here](https://www.twitch.tv/videos/1681272327), or if you just want a taste of the madness, check out this insane highlight below!
 
 <div align="center">
     <video width="100%" controls>
-        <source src="" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/osu-monthly/2022-12/GSTLive_highlight.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
@@ -134,6 +146,8 @@ For the most voted play of the year, it was decided that [applerss](https://osu.
 <iframe width="100%" height="315" src="link" frameborder="0" allowfullscreen></iframe>
 
 ## Mapping Recap
+
+*Section written by [Pisapou](https://osu.ppy.sh/users/16640021) & [Xahlt](https://osu.ppy.sh/users/13466351)*
 
 All year long, the mappers and people involved in mapping on osu! have not stopped doing amazing things, and this month was no exception. So we will try to summarize  all the things related to mapping that happened this month as best as possible in a few sentences.
 
@@ -205,7 +219,13 @@ This month on Twitter we saw [the announcement](https://twitter.com/keevyosu/sta
 
 ## Did you know?
 
-<!-- Do someone have an idea ? (tbh, i feel like we force ourselves to fill this part and I'm not sure it really adds anything)-->
+*Section written by [0x84f](https://osu.ppy.sh/users/7944724), fact provided by [Kurboh](https://osu.ppy.sh/users/15243233)*
+
+Anyone's who remotely familiar with osu! is surely aware of [Mismagius'](https://osu.ppy.sh/users/19048) and [ztrot's](https://osu.ppy.sh/users/6347) [Can't Defeat Airman](https://osu.ppy.sh/beatmapsets/24313#osu/104229), one of osu!'s most played maps of all time. You might also know that there's another [Can't Defeat Airman](https://osu.ppy.sh/beatmapsets/24084#osu/82033) set by [Sushi](https://osu.ppy.sh/users/43108), but did you know that they were supposed to be a part of the same mapset?
+
+That's right, originally the map by Mismagius and ztrot were supposed to be a guest difficulty on Sushi's mapset, however due to multiple reasons, some of them being that the map was considered too hard to be ranked at the time (so it would have to be [approved](https://osu.ppy.sh/wiki/en/Beatmap/Category)), and Sushi felt like the guest difficulty would overshadow his entire mapset.
+
+Sources: [1](https://osu.ppy.sh/community/forums/topics/43115?n=12), [2](/wiki/shared/news/2023-01-01-osumonthly-6/didyouknow-dec22.jpg)
 
 ## Monthly community quiz
 
@@ -215,10 +235,10 @@ This month on Twitter we saw [the announcement](https://twitter.com/keevyosu/sta
 
 - Yet another LAN tourney is on the horizon. Organized by [Zeus-](https://osu.ppy.sh/users/5464437) with the support of [Boğaziçi University Gaming Club (BUOK)](http://buok.boun.edu.tr/), the very first iteration of **Bosphorus Invitational** aims to gather around some of the best circle clickers within the Turkish community at the border of the magnificent Bosphorus strait where the continents meet, for an epic 1 day showdown of Turkey's best players. While the participation is invite-only, feel free to either visit the venue on the 29th or check out the tournament via the [BUOK Twitch channel](https://www.twitch.tv/buoyunkulubu/) to keep the tabs on. See more on the details through the [forum post](https://osu.ppy.sh/community/forums/topics/1696844), which is also [available in Turkish](https://osu.ppy.sh/community/forums/topics/1696848)!
 - The [New Beginnings Art Contest](/news/2022-12-24-new-beginnings-voting-open) voting has concluded by the time you are reading this, and should have it's results posted. Go and check out all of the wonderful creations from the community, and if you previously put your votes in, check if the creations you voted for have made their way to the top!
-- For those of you who are ***Full Beatmap Nominators*** and have an interest in being a part of the [NAT](https://osu.ppy.sh/wiki/en/People/The_Team/Nomination_Assessment_Team) they are going to be doing some specific osu! BN evaluating where the full BNs are able to "play NAT for a bit" from January 1 - 31, 2023. If you are interested, you might want to talk to your local NAT representative.
+- For those of you who are ***Full Beatmap Nominators*** and have an interest in being a part of the [NAT](https://osu.ppy.sh/wiki/en/People/The_Team/Nomination_Assessment_Team), they are going to be doing some specific osu! BN evaluating where the full BNs are able to "play NAT for a bit" from January 1 - 31, 2023. If you are interested, you might want to talk to your local NAT representative.
 
 ## End word
 
-As always, thank you for reading this month's edition of osu!monthly. We hope that 2022 treated you well and that the new year brings even more splendors. If you have any questions, comments, concerns, or want to contribute don't hesitate to say something in the osu! Dev discord. We thank you for an amazing reponse for half of the year and we hope this continues on for many more, it is not without you all creating community content that this cannot happen. Thank you, thank you, thank you!
+As always, thank you for reading this month's edition of osu!monthly. We hope that 2022 treated you well and that the new year brings even more splendors. If you have any questions, comments, concerns, or want to contribute don't hesitate to say something in the osu!dev discord. We thank you for an amazing reponse for half of the year and we hope this continues on for many more, it is not without you all creating community content that this cannot happen. Thank you, thank you, thank you!
 
-—XX
+—0x84f, Blushing, Pisapou, Xahlt
