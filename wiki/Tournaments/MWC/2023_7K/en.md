@@ -57,6 +57,8 @@ The osu!mania 7K 2023 is run by the osu! team and various community members.
 
 *Notice: Captains are listed in **bold**. The final team composition for each country is subject to change. If you have been selected as a captain, check your [inbox](https://osu.ppy.sh/community/chat) for more information. Countries not listed did not have enough players to meet the minimum team size criteria.*
 
+The complete player list can be found [here](https://gist.github.com/LeoFLT/c9e572884f0e731ba47fed1c11be3b88#file-mwc7k-2023-player-list-csv). 
+
 |  | Country | Members |
 | :-: | :-: | :-- |
 | ::{ flag=AR }:: | **Argentina** | **[lxLucasxl](https://osu.ppy.sh/users/3632846)** |
