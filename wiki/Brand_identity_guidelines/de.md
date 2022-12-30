@@ -6,7 +6,7 @@ no_native_review: true
 
 Die Richtlinien zur Markenidentität sind ein Standard zur Markenbildung von osu!-bezogenen Projekten. Alle Verwendungen benötigen keine Genehmigung.
 
-[Lade das Design-Kit hier herunter.](https://drive.google.com/file/d/1TmUot5nu49p71icz4u3G68njLAQOeQrG/view?usp=sharing) Der verlinkte Bausatz beinhaltet einige veraltete Dateien. Beachte ebenfalls, dass die enthaltene PDF nicht mehr aktuell ist und diese Seite stattdessen benutzt werden sollte.
+[Lade das Design-Kit hier herunter](https://drive.google.com/file/d/1TmUot5nu49p71icz4u3G68njLAQOeQrG/view). Der verlinkte Bausatz beinhaltet einige veraltete Dateien. Beachte ebenfalls, dass die enthaltene PDF nicht mehr aktuell ist und diese Seite stattdessen benutzt werden sollte.
 
 ## osu!
 
