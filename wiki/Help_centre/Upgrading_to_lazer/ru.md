@@ -21,9 +21,9 @@ osu!(lazer) – это следующее глобальное обновлен�
 
 | Возможность | stable | lazer |
 | :-- | :-- | :-- |
-| Windows 8.0 и ниже | ![Yes][true] | ![No][false] |
-| macOS / Linux | ![Partial][partial][^wine] | ![Yes][true] |
-| DirectX / Vulkan | ![Partial][partial][^compatibility-mode] | ![No][false][^coming-soon] |
+| Поддержка Windows 8.0 и ниже | ![Yes][true] | ![No][false] |
+| Поддержка macOS / Linux | ![Partial][partial][^wine] | ![Yes][true] |
+| Поддержка DirectX / Vulkan | ![Partial][partial][^compatibility-mode] | ![No][false][^coming-soon] |
 | Поддержка мобильных устройств | ![No][false] | ![Yes][true] |
 | Многопоточная архитектура | ![No][false] | ![Yes][true] |
 | Аппаратное ускорение видео | ![No][false] | ![Yes][true] |
