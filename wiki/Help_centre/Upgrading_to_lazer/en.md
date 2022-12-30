@@ -19,72 +19,76 @@ The following is a comprehensive list of the **current state** of lazer in compa
 
 | Feature | stable | lazer |
 | :-- | :-- | :-- |
-| Windows 8.0 and lower | ✅ | ❌ |
-| macOS / Linux | 🟠[^wine] | ✅ |
-| DirectX / Vulkan | 🟠[^compatibility-mode] | ❌[^coming-soon] |
-| Mobile support | ❌ | ✅ |
-| Multithreaded architecture | ❌ | ✅ |
-| Hardware-accelerated video | ❌ | ✅ |
-| UI scaling | ❌ | ✅ |
-| Custom rulesets (game modes) | ❌ | 🟠[^dll] |
-| De-duped file store | ❌ | ✅[^share-files] |
-| Tablet area adjustment | ❌ | ✅ |
+| Windows 8.0 and lower | ![Yes][true] | ![No][false] |
+| macOS / Linux | ![Partial][partial][^wine] | ![Yes][true] |
+| DirectX / Vulkan | ![Partial][partial][^compatibility-mode] | ![No][false][^coming-soon] |
+| Mobile support | ![No][false] | ![Yes][true] |
+| Multithreaded architecture | ![No][false] | ![Yes][true] |
+| Hardware-accelerated video | ![No][false] | ![Yes][true] |
+| UI scaling | ![No][false] | ![Yes][true] |
+| Custom rulesets (game modes) | ![No][false] | ![Partial][partial][^dll] |
+| De-duped file store | ![No][false] | ![Yes][true][^share-files] |
+| Tablet area adjustment | ![No][false] | ![Yes][true] |
 
 ### UI and skinning
 
 | Feature | stable | lazer |
 | :-- | :-- | :-- |
-| Skin support | ✅ | 🟠[^gameplay-only] |
-| Song select grouping modes | ✅ | ❌ |
-| In-game skin / UI layout editing | ❌ | ✅ |
+| Skin support | ![Yes][true] | ![Partial][partial][^gameplay-only] |
+| Song select grouping modes | ![Yes][true] | ![No][false] |
+| In-game skin / UI layout editing | ![No][false] | ![Yes][true] |
 
 ### Gameplay and skinning
 
 | Feature | stable | lazer |
 | :-- | :-- | :-- |
-| Accurate performance point display | 🟠[^online] | ✅ |
-| Mod presets | ❌ | ✅ |
-| Per-mod settings | ❌ | ✅ |
-| New "fun" mods | ❌ | ✅ |
-| Combo colour normalisation[^normalisation] | ❌ | ✅ |
-| Hold for HUD | ❌ | ✅[^hold-for-hud] |
-| Offset calibration | ❌ | ✅[^offset-calibration] |
-| osu! sliders "snake" while dragging | ❌ | ✅[^can-disable] |
-| osu! player-friendly "note lock" | ❌ | ✅[^note-lock] |
-| osu!mania timing-based note colouring | ❌ | ✅ |
+| Accurate performance point display | ![Partial][partial][^online] | ![Yes][true] |
+| Mod presets | ![No][false] | ![Yes][true] |
+| Per-mod settings | ![No][false] | ![Yes][true] |
+| New "fun" mods | ![No][false] | ![Yes][true] |
+| Combo colour normalisation[^normalisation] | ![No][false] | ![Yes][true] |
+| Hold for HUD | ![No][false] | ![Yes][true][^hold-for-hud] |
+| Offset calibration | ![Partial][partial][^offset-calibration-stable] | ![Yes][true][^offset-calibration-lazer] |
+| osu! sliders "snake" while dragging | ![No][false] | ![Yes][true][^can-disable] |
+| osu! player-friendly "note lock" | ![No][false] | ![Yes][true][^note-lock] |
+| osu!mania timing-based note colouring | ![No][false] | ![Yes][true] |
 
 ### Online systems
 
 | Feature | stable | lazer |
 | :-- | :-- | :-- |
-| Score submission | ✅ | 🟠[^score-reset-balance] |
-| Beatmap leaderboards | ✅ | 🟠[^score-reset-isolated] |
-| Profile statistics | ✅ | ✅ |
-| Medals | ✅ | ❌ |
-| Performance points | ✅ | 🟠[^score-reset-isolated] |
-| Real-time chat | ❌ | ✅ |
-| Wiki / News / Changelog / Rankings | ❌ | ✅[^online-content] |
-| User profiles | ❌ | ✅ |
-| Beatmap listing | 🟠[^direct-supporter] | ✅ |
-| Unlimited multiplayer room size | ❌[^multi-room-max] | ✅ |
-| Multiplayer spectating | ❌ | ✅ |
-| Tag co-op | ✅ | ❌ |
-| Playlists (user-curated leaderboards) | ❌ | ✅ |
-| Updating beatmaps with online changes | 🟠[^map-only] | ✅[^all-files] |
+| Score submission | ![Yes][true] | ![Partial][partial][^score-reset-balance] |
+| Beatmap leaderboards | ![Yes][true] | ![Partial][partial][^score-reset-isolated] |
+| Profile statistics | ![Yes][true] | ![Yes][true] |
+| Medals | ![Yes][true] | ![No][false] |
+| Performance points | ![Yes][true] | ![Partial][partial][^score-reset-isolated] |
+| Real-time chat | ![Partial][partial][^stable-chat] | ![Yes][true] |
+| Wiki / News / Changelog / Rankings | ![No][false] | ![Yes][true][^online-content] |
+| User profiles | ![No][false] | ![Yes][true] |
+| Beatmap listing | ![Partial][partial][^direct-supporter] | ![Yes][true] |
+| Unlimited multiplayer room size | ![No][false][^multi-room-max] | ![Yes][true] |
+| Multiplayer spectating | ![No][false] | ![Yes][true] |
+| Countdown timers | ![Partial][partial][^countdown-timers-stable] | ![Yes][true][^countdown-timers-lazer] |
+| Queue modes | ![No][false] | ![Yes][true][^queue-modes] |
+| Multiplayer commands | ![Yes][true] | ![No][false] |
+| Tag co-op | ![Yes][true] | ![No][false] |
+| Playlists (user-curated leaderboards) | ![No][false] | ![Yes][true] |
+| Updating beatmaps with online changes | ![Partial][partial][^map-only] | ![Yes][true][^all-files] |
 
 ### Editor
 
 | Feature | stable | lazer |
 | :-- | :-- | :-- |
-| osu!taiko editor | ❌ | ✅ |
-| osu!catch editor | ❌ | ✅ |
-| osu!mania editor | ✅ | ✅ |
-| Open difficulty as reference | ✅ | ❌ |
-| Per-object SV / volume | ❌ | ✅ |
-| Pattern rotation | ✅ | 🟠[^editor-precise-rotation] |
-| Pattern resizing | ❌ | ✅ |
-| Beatmap submission | ✅ | ❌ |
-| Cross-compatibility | ✅ | 🟠[^incompatibilities] |
+| osu!taiko editor | ![No][false] | ![Yes][true] |
+| osu!catch editor | ![No][false] | ![Yes][true] |
+| osu!mania editor | ![Yes][true] | ![Yes][true] |
+| Open difficulty as reference | ![Yes][true] | ![No][false] |
+| Per-object SV / volume | ![No][false] | ![Yes][true] |
+| Pattern rotation | ![Yes][true] | ![Partial][partial][^editor-precise-rotation] |
+| Pattern resizing | ![No][false] | ![Yes][true] |
+| Beatmap submission | ![Yes][true] | ![No][false] |
+| Storyboard editor | ![Yes][true] | ![No][false] |
+| Cross-compatibility | ![Yes][true] | ![Partial][partial][^incompatibilities] |
 
 ## Switching to lazer
 
@@ -106,7 +110,7 @@ Currently, beatmaps, skins, scores, replays and collections can be imported into
 
 #### If I import my beatmaps to lazer, will it use double the disk space?
 
-If you have both lazer and stable on the same drive, [hard links](https://en.wikipedia.org/wiki/Hard_link) are used to avoid using extra disk space.
+If you have both lazer and stable on the same drive, [hard links](/wiki/Client/Release_stream/Lazer/File_storage#via-hard-links) are used to avoid using extra disk space.
 
 In all other cases, importing beatmaps will use double the disk space.
 
@@ -206,9 +210,25 @@ Do note that we are already tracking over 1,000 issues of varying priorities, an
 
 ### Other
 
+#### Why is it called "lazer"?
+
+What is sharper than cutting–edge?
+
+#### Why is it taking so long to become the "main" release?
+
+While osu! may seem like a simple game, there are hundreds on hundreds of features and systems that users have come to rely on. Depending on who you ask, lazer may have been in a fully playable state for years now, or it may be missing countless features.
+
+Another area which has taken a huge amount of effort is historical preservation — making sure that beatmaps behave exactly as they should, including edge cases that weren't originally planned for. osu! is a vibrant ecosystem and users have taken liberty to extend the game far beyond its planned extents, and we are trying our best to embrace and support this going forward.
+
+Finally, unlike the last iteration, we are putting in the time and diligence to ensure the code base will serve us well into the future. We have done the groundwork to allow new features to come online at blazing speed going forward. This will include new UI components, new ways to skin the game, new multiplayer systems and let's not forget the ability to load and play all your existing beatmaps on completely new game modes (a.k.a. rulesets)!
+
+#### What comes next?
+
+We have a huge backlog of user-requested features and improvements that we will continue to push out at the speed of light. For those that have joined us recently and haven't experienced the momentum of osu! development, prepare to be in for a surprise.
+
 #### How do I access my songs folder?
 
-There is no songs folder in lazer! This allows us to do cool things like not require pressing `F5` at song select to refresh beatmaps (because beatmaps are always in a good state) and reduce the disk space used by beatmaps by 20–40%. You can read more about [the way lazer stores files](https://github.com/ppy/osu/wiki/User-file-storage).
+There is no songs folder in lazer! This allows us to do cool things like not require pressing `F5` at song select to refresh beatmaps (because beatmaps are always in a good state) and reduce the disk space used by beatmaps by 20–40%. You can read more about [the way lazer stores files](/wiki/Client/Release_stream/Lazer/File_storage).
 
 If you need to make changes to a beatmap, please use the editor. Going forward we will introduce a mode in the editor which makes a beatmap's folder temporarily accessible for external editing. This will allow you to use external tools on a beatmap during the creation process.
 
@@ -245,7 +265,8 @@ You're likely thinking of another game.
 [^online]: Via online retrieval.
 [^normalisation]: This brings beatmap custom combo colours to the same brightness level.
 [^hold-for-hud]: Hold `Ctrl` to view the HUD momentarily while it's hidden.
-[^offset-calibration]: When retrying a beatmap, you can calibrate the offset based on your last play.
+[^offset-calibration-stable]: Adjustable manually via key bindings.
+[^offset-calibration-lazer]: When retrying a beatmap, you can calibrate the offset based on your last play.
 [^can-disable]: Can be disabled.
 [^note-lock]: Still exists, but should not interfere.
 [^score-reset-balance]: Scores will be reset to ensure balance.
@@ -257,3 +278,11 @@ You're likely thinking of another game.
 [^all-files]: All files.
 [^editor-precise-rotation]: Missing precise angle rotation.
 [^incompatibilities]: Some editor features will cause beatmaps to play incorrectly in stable — will be fixed soon.
+[^stable-chat]: Messages can take up to 15 seconds to arrive.
+[^countdown-timers-stable]: Set a countdown using a command, no automatic start.
+[^countdown-timers-lazer]: Set a countdown from the game UI to automatically start the match.
+[^queue-modes]: Turn on to allow anyone in a lobby to queue new beatmaps, a.k.a. "host rotate".
+
+[true]: /wiki/shared/true.png
+[false]: /wiki/shared/false.png
+[partial]: /wiki/shared/partial.png

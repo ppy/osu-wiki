@@ -42,7 +42,7 @@ The osu!mania 7K 2023 is run by the osu! team and various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) |
-| Mappool selector | ::{ flag=PL }:: [\_underjoy](https://osu.ppy.sh/users/2235750), ::{ flag=US }:: [Blocko](https://osu.ppy.sh/users/4075092), ::{ flag=US }:: [Jinjin](https://osu.ppy.sh/users/3360737), ::{ flag=PH }:: [MapleSyrup\-](https://osu.ppy.sh/users/1192936), :: { flag=KR } :: [Remuring](https://osu.ppy.sh/users/6522146) |
+| Mappool selector | ::{ flag=PL }:: [\_underjoy](https://osu.ppy.sh/users/2235750), ::{ flag=US }:: [Blocko](https://osu.ppy.sh/users/4075092), ::{ flag=US }:: [Jinjin](https://osu.ppy.sh/users/3360737), ::{ flag=PH }:: [MapleSyrup\-](https://osu.ppy.sh/users/1192936), ::{ flag=KR }:: [Remuring](https://osu.ppy.sh/users/6522146) |
 | Referee | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=IN }:: [Speshimen](https://osu.ppy.sh/users/7720204), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=US }:: [\[K\]](https://osu.ppy.sh/users/16551387) |
 | Commentator | *TBA* |
 | Statistician | ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899) |
