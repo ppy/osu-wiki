@@ -65,7 +65,7 @@ So don't hesitate to try and show your friends how much you have improved this y
 
 ### osu! UTT Arena Tournament 2022
 
-![](wiki/shared/news/2023-01-01-osumonthly-6/UTTArena-banner.jpg)
+![](/wiki/shared/news/2023-01-01-osumonthly-6/UTTArena-banner.jpg)
 
 The French community is back in force once again this year with their osu! and osu!mania tournaments taking place at the [UTT Arena](https://osu.ppy.sh/community/forums/topics/1661444?n=1). But what makes this tournament so special besides the fact that it is organized in LAN? It's the way the maps are chosen. There are no bans as we are used to see, but a total of 51 maps (including 12 custom maps!) divided into skillsets, of which only once can be chosen for the duration of the tournament.
 
@@ -77,7 +77,7 @@ If you are interested in the replay of the event that was casted live, feel free
 
 ### GST:LIVE 2022
 
-![](wiki/Tournaments/GSTLIVE/22/img/banner.png)
+![](/wiki/Tournaments/GSTLIVE/22/img/banner.png)
 
 *Section written by [_gt](https://osu.ppy.sh/users/8301957)*
 
@@ -95,7 +95,7 @@ If you're interested, the whole event was broadcasted on the [osusg twitch chann
 
 ![](/wiki/shared/news/2023-01-01-osumonthly-6/osu!mania-LNTournament-3.jpg)
 
-Earlier this month, the third installation of the [osu!mania LN Tournament](https://osu.ppy.sh/wiki/en/Tournaments/o%21mLN/3) was concluded! For those unaware, the tournament hosted by [MashedPotato](https://osu.ppy.sh/users/10494860), [Polytetral](https://osu.ppy.sh/users/8612061), and [_yosh](https://osu.ppy.sh/users/7157133) is currently the biggest, most well-known tournament centered around long notes. By the end of 2022 they concluded their biggest, most ambitious iteration, with quite the assortment of custom songs, charts, and well-tailored mappools for the enjoyment of players and viewers alike!
+Earlier this month, the third installation of the [osu!mania LN Tournament](/wiki/en/Tournaments/o%21mLN/3) was concluded! For those unaware, the tournament hosted by [MashedPotato](https://osu.ppy.sh/users/10494860), [Polytetral](https://osu.ppy.sh/users/8612061), and [_yosh](https://osu.ppy.sh/users/7157133) is currently the biggest, most well-known tournament centered around long notes. By the end of 2022 they concluded their biggest, most ambitious iteration, with quite the assortment of custom songs, charts, and well-tailored mappools for the enjoyment of players and viewers alike!
 
 | Placing | Player |
 | :-: | :-- |
@@ -175,7 +175,7 @@ A big change has taken place in the application requirements of Beatmaps Nominat
 
 #### SEV handbook added to the wiki
 
-The way in which the BNs were judged could seem incomprehensible sometimes for the general public until very recently, since the [SEV rating](https://osu.ppy.sh/wiki/en/People/The_Team/Nomination_Assessment_Team/SEV_rating) has been added in the wiki. From the different punishable omissions, to the severity applied to each, everything is now detailed there (although in reality, SEV rating adapts to each case).
+The way in which the BNs were judged could seem incomprehensible sometimes for the general public until very recently, since the [SEV rating](/wiki/People/The_Team/Nomination_Assessment_Team/SEV_rating) has been added in the wiki. From the different punishable omissions, to the severity applied to each, everything is now detailed there (although in reality, SEV rating adapts to each case).
 
 ### Mapping highlight
 
@@ -259,7 +259,7 @@ WIP
 
 Anyone's who remotely familiar with osu! is surely aware of [Mismagius'](https://osu.ppy.sh/users/19048) and [ztrot's](https://osu.ppy.sh/users/6347) [Can't Defeat Airman](https://osu.ppy.sh/beatmapsets/24313#osu/104229), one of osu!'s most played maps of all time. You might also know that there's another [Can't Defeat Airman](https://osu.ppy.sh/beatmapsets/24084#osu/82033) set by [Sushi](https://osu.ppy.sh/users/43108), but did you know that they were supposed to be a part of the same mapset?
 
-That's right, originally the map by Mismagius and ztrot were supposed to be a guest difficulty on Sushi's mapset, however due to multiple reasons, some of them being that the map was considered too hard to be ranked at the time (so it would have to be [approved](https://osu.ppy.sh/wiki/en/Beatmap/Category)), and Sushi felt like the guest difficulty would overshadow his entire mapset.
+That's right, originally the map by Mismagius and ztrot were supposed to be a guest difficulty on Sushi's mapset, however due to multiple reasons, some of them being that the map was considered too hard to be ranked at the time (so it would have to be [approved](/wiki/Beatmap/Category), and Sushi felt like the guest difficulty would overshadow his entire mapset.
 
 Thanks to [Kurboh](https://osu.ppy.sh/users/15243233) for providing this cool fact, you can view the sources for the fact here: [1](https://osu.ppy.sh/community/forums/topics/43115?n=12), [2](/wiki/shared/news/2023-01-01-osumonthly-6/didyouknow-dec22.jpg)
 
@@ -282,7 +282,7 @@ Same rules apply, you have exactly 1 month after this news post goes up (or unti
 
 - Yet another LAN tourney is on the horizon. Organized by [Zeus-](https://osu.ppy.sh/users/5464437) with the support of [Boğaziçi University Gaming Club (BUOK)](http://buok.boun.edu.tr/), the very first iteration of **Bosphorus Invitational** aims to gather around some of the best circle clickers within the Turkish community at the border of the magnificent Bosphorus strait where the continents meet, for an epic 1 day showdown of Turkey's best players. While the participation is invite-only, feel free to either visit the venue on the 29th or check out the tournament via the [BUOK Twitch channel](https://www.twitch.tv/buoyunkulubu/) to keep the tabs on. See more on the details through the [forum post](https://osu.ppy.sh/community/forums/topics/1696844), which is also [available in Turkish](https://osu.ppy.sh/community/forums/topics/1696848)!
 - The [New Beginnings Art Contest](/news/2022-12-24-new-beginnings-voting-open) voting has concluded by the time you are reading this, and should have it's results posted. Go and check out all of the wonderful creations from the community, and if you previously put your votes in, check if the creations you voted for have made their way to the top!
-- For those of you who are ***Full Beatmap Nominators*** and have an interest in being a part of the [NAT](https://osu.ppy.sh/wiki/en/People/The_Team/Nomination_Assessment_Team), they are going to be doing some specific osu! BN evaluating where the full BNs are able to "play NAT for a bit" from January 1 - 31, 2023. If you are interested, you might want to talk to your local NAT representative.
+- For those of you who are ***Full Beatmap Nominators*** and have an interest in being a part of the [NAT](/wiki/People/The_Team/Nomination_Assessment_Team), they are going to be doing some specific osu! BN evaluating where the full BNs are able to "play NAT for a bit" from January 1 - 31, 2023. If you are interested, you might want to talk to your local NAT representative.
 
 ## End word
 
