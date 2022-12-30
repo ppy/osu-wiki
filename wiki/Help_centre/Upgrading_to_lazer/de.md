@@ -149,7 +149,7 @@ Lazer verwendet aktuell eine neue, experimentelle Score-Implementierung, die äh
 
 <!-- lint ignore no-heading-punctuation -->
 
-#### Ich bevorzuge die klassische Spielstandanzeige, bei dem Scores richtig groß werden.
+#### Ich bevorzuge die klassische Spielstandanzeige, bei der Scores richtig groß werden.
 
 Du kannst tatsächlich die Einstellung `Spielstandanzeigemodus` auf `Klassisch` stellen, um den explosiven Stil des Punktesystems im Spiel wiederherzustellen! Es wird keine perfekte Übereinstimmung sein, gibt dir aber das gleiche Gefühl wie beim klassischen Scoring und wird überall angewendet, wo du es erwarten würdest.
 
@@ -219,7 +219,7 @@ Was ist schärfer als eine scharfe Kante? Ein Laser! Es handelt sich um ein Wort
 
 Auch wenn osu! wie ein einfaches Spiel aussieht, gibt es Hunderte von Funktionen und Systemen, auf die sich die Nutzer inzwischen verlassen. Je nachdem, wen man fragt, ist lazer schon seit Jahren in einem voll spielbaren Zustand oder es fehlen noch zahlreiche Funktionen.
 
-Ein weiterer Bereich, in dem große Anstrengungen unternommen wurden, ist die historische Erhaltung — es wird sichergestellt, dass die Beatmaps sich genauso verhalten wie sie es sollen, einschließlich der Randfälle, die ursprünglich nicht eingeplant waren. osu! ist ein dynamisches Ökosystem und die Nutzer haben sich die Freiheit genommen, das Spiel weit über den geplanten Umfang hinaus zu erweitern. Wir versuchen unser Bestes, um das in Zukunft zu fördern und zu unterstützen.
+Ein weiterer Bereich, in dem große Anstrengungen unternommen wurden, ist die historische Erhaltung — es wird sichergestellt, dass die Beatmaps sich genauso verhalten, wie sie es sollen, einschließlich der Randfälle, die ursprünglich nicht eingeplant waren. osu! ist ein dynamisches Ökosystem und die Nutzer haben sich die Freiheit genommen, das Spiel weit über den geplanten Umfang hinaus zu erweitern. Wir versuchen unser Bestes, um das in Zukunft zu fördern und zu unterstützen.
 
 Zu guter Letzt investieren wir im Gegensatz zur letzten Iteration viel Zeit und Sorgfalt, um sicherzustellen, dass die Codebasis uns auch in Zukunft noch gute Dienste leisten wird. Wir haben die Voraussetzungen dafür geschaffen, dass neue Funktionen in Zukunft in rasantem Tempo online gehen können. Das beinhaltet neue UI-Komponenten, neue Möglichkeiten das Spiel zu verschönern, neue Mehrspieler-Systeme und nicht zu vergessen die Fähigkeit, alle deine existierenden Beatmaps in neuen Spielmodi (auch bekannt als Rulesets) zu spielen!
 
