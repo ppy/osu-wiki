@@ -51,7 +51,7 @@ El formato de serialización debe colocarse en la parte superior del archivo. Es
 
 *Nota: Evite traducir artículos en inglés con esta etiqueta. Además de esto, esta etiqueta debe agregarse cuando la traducción necesita su propia limpieza.*
 
-La etiqueta `needs_cleanup` se puede agregar a los artículos que necesitan ayuda para reescribir o formatear. También es aceptable abrir un problema en GitHub para este propósito. Esta etiqueta debe escribirse como se muestra a continuación:
+La etiqueta `needs_cleanup` puede ser agregada a los articulos que necesiten una reescritura o un cambio de formato. También es aceptable abrir un problema en GitHub para este propósito. Esta etiqueta debe escribirse como se muestra a continuación:
 
 ```yaml
 needs_cleanup: true
@@ -63,7 +63,7 @@ Al agregar esta etiqueta a un artículo, también se deben agregar [comentarios]
 
 *Nota: Evite traducir artículos en inglés con esta etiqueta. Si el artículo en inglés tiene esta etiqueta, la traducción también debe tener esta etiqueta.*
 
-Los artículos en inglés pueden quedar obsoletos cuando el contenido que contienen es engañoso o ya no es relevante. Estos deben recibir una etiqueta `outdated`, que debe escribirse como se muestra a continuación:
+Los artículos en inglés pueden quedar obsoletos cuando el contenido que contienen es erróneo o irrelevante. Estos deben recibir una etiqueta `outdated`, que debe escribirse como se muestra a continuación:
 
 ```yaml
 outdated: true
@@ -101,9 +101,9 @@ tags:
 
 ### Traducciones sin revisiones
 
-*Nota: Los mantenedores de la wiki determinarán y aplicarán esta marca antes de la fusión.*
+*Nota: Los mantenedores de la wiki determinarán y aplicarán esta etiqueta antes de la fusión.*
 
-A veces, las traducciones se agregan a la wiki sin la revisión de otros hablantes nativos del idioma. En este caso, se agrega la marca `no_native_review` para que los futuros traductores sepan que es posible que deba verificarse nuevamente. Esta etiqueta debe escribirse como se muestra a continuación:
+A veces, las traducciones se agregan a la wiki sin la revisión de otros hablantes nativos del idioma. En este caso, se agrega la etiqueta `no_native_review` la cual indica a futuros traductores sepan que es posible que deba verificarse nuevamente. Esta etiqueta debe escribirse como se muestra a continuación:
 
 ```yaml
 no_native_review: true
@@ -113,7 +113,7 @@ no_native_review: true
 
 *Véase también: [Nombre de las carpetas](#nombre-de-las-carpetas) y [Títulos](#títulos)*
 
-Los títulos de los artículos deben ser singulares y usar mayúsculas y minúsculas. Véase el [artículo de Convenciones de títulos de Wikipedia](https://es.wikipedia.org/wiki/Wikipedia:Convenciones_de_títulos) para obtener más detalles.
+Los títulos de los artículos deben ser singulares y usar mayúsculas y minúsculas. Véase el [artículo de convenciones de títulos de Wikipedia](https://es.wikipedia.org/wiki/Wikipedia:Convenciones_de_títulos) para obtener más detalles.
 
 Los títulos de los artículos deben coincdidir con el nombre de la carpeta en la que se encuentran (los espacios se pueden reemplazar los guiones bajos (`_`) cuando corresponda). Si el nombre de la carpeta cambia, el título del artículo debe cambiarse para que coincida y viceversa.
 
