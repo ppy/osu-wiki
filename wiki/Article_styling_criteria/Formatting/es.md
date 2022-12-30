@@ -79,7 +79,7 @@ Los artículos traducidos que están desactualizados deben usar la etiqueta `out
 outdated_translation: true
 ```
 
-Al desactualizar las traducciones, también deben recibir una etiqueta `outdated_since` que apunta a la primera confirmación donde se actualiza la versión en inglés.
+Al desactualizar las traducciones, también deben recibir una etiqueta `outdated_since` que apunta a la primera confirmación donde se actualizó la versión en inglés.
 
 ```yaml
 outdated_since: 29eac89cd535f8b071ca000af8fe4f0be22bdc9b
