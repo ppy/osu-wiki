@@ -3,11 +3,11 @@ tags:
   - game client
 ---
 
-# Atualizeo para o lazer
+# Atualizando para o lazer
 
 osu!(lazer) é a próxima principal atualização para o jogo. É o fruto de vários anos de trabalho nos bastidores para meticulosamente reimplementar o jogo.
 
-O objetivo final é que esta versão seja lançada como uma atualização que irá substituir completamente a versão estável existente do jogo, mas ainda há algum trabalho a ser feito antes que isso seja possível. No fim das contas, **os jogadores** irão ditar queo isso acontecerá e nós iremos continuar a dar suporte para a versão anterior até que os jogadores tenham migrado de versão.
+O objetivo final é que esta versão seja lançada como uma atualização que irá substituir completamente a versão estável existente do jogo, mas ainda há algum trabalho a ser feito antes que isso seja possível. No fim das contas, **os jogadores** irão ditar quando isso acontecerá e nós iremos continuar a dar suporte para a versão anterior até que os jogadores tenham migrado de versão.
 
 "lazer" é um codinome e será eventualmente descartado uma vez que se torne a principal versão do jogo. O restante deste documento irá se referir a osu!(lazer) como "lazer" e osu!(estável) como "estável" para simplificar.
 
@@ -90,7 +90,7 @@ A seguir segue uma lista completa do **estado atual** de lazer em comparação c
 | Editor de Storyboard | ![Yes][true] | ![No][false] |
 | Cross-compatilibidade | ![Yes][true] | ![Partial][partial][^incompatibilities] |
 
-## Mudeo para o lazer
+## Mudando para o lazer
 
 Então você decidiu que você que dar uma chance ao lazer? Ótimo!
 
@@ -102,7 +102,7 @@ Você consegue encontrá-lo para baixar [aqui](https://github.com/ppy/osu#runnin
 
 #### Estável está de despedida? Serei forcado a mudar?
 
-Estável irá continuar a ser mantido enquanto estiver usuários useo-o. No mínimo, será mantido por diversos anos.
+Estável irá continuar a ser mantido enquanto estiver usuários usando-o. No mínimo, será mantido por diversos anos.
 
 #### Consigo importar todos meus dados de estável para o lazer?
 
@@ -140,11 +140,11 @@ Pontuações vão ser exibidas na aba de "jogados recentemente" mas não na aba 
 
 #### Se eu fizer uma pontuação no lazer, irá me dar performance points?
 
-Pontuações já irão ter os performance points calculados (você consegue ver isso na aba de "jogados recentemente" no seu perfil), mas isso nçao irá contribuir para o valor total ainda.
+Pontuações já irão ter os performance points calculados (você consegue ver isso na aba de "jogados recentemente" no seu perfil), mas isso não irá contribuir para o valor total ainda.
 
 #### Lazer usa ScoreV2?
 
-Lazer atualmente usa uma nova implementação experimental de pontuação que é parecida com ScoreV2 mas não é a mesma. Isto ainda está em desenvolvimento e estamos preciseo de mais comentários e retorno de como isso se comporta em vários contextos (jogada solo, placares, torneios etc.)
+Lazer atualmente usa uma nova implementação experimental de pontuação que é parecida com ScoreV2 mas não é a mesma. Isto ainda está em desenvolvimento e estamos precisando de mais feedback de como isso se comporta em vários contextos (jogada solo, placares, torneios etc.)
 
 <!-- lint ignore no-heading-punctuation -->
 
@@ -172,116 +172,116 @@ Por favor tente aplicar o mod "clássico", que restaurará muito do antigo compo
 
 #### Alguma coisa está se comportando de maneira diferente do estável e eu não gosto disso!
 
-Please run the setup wizard at the top of settings e go through the settings on the `Behaviour` screen. A lot of the common settings which have defaults changed are listed here. There's also a single button you can press to apply the old behaviours as a starting point for your lazer journey.
+Por favor execute o assistente de configuração no topo da aba de configurações e navegue pelas configurações na tela de `Comportamento`. Muitas das configurações que possuem padrões estão listadas aqui. Há também um botão único que você pode pressionar para aplicar os comportamentos antigos como ponto de partida para sua jornada no lazer.
 
-#### Will old skins eventually work in song select e results screens?
+#### As skins antigas irão eventualmente funcionar na seleção de músicas e tela de resultados?
 
-We'll do our best to bring back as much of this as we can without blocking new functionality. This will come later on.
+Daremos nosso melhor para trazer de volta o máximo disso sem bloquear novas funções. Isso virá mais tarde.
 
-#### Can I use my skin cursor in the menus as well?
+#### Posso usar meu cursor da skin nos menus também?
 
-We will likely bring back support for this in the future due to popular deme.
+Nós provavelmente traremos de volta o suporte para isso no futuro de acordo com a demanda.
 
 ### Performance
 
-#### Why can't I run at unlimited FPS?
+#### Porque não posso rodar com FPS ilimitado?
 
-Above a certain threshold there is no reason to run at higher frame rates. Lazer employs various new technologies to ensure the lowest latency is achievable without requiring high frame rates. This will continue to improve going forward as we still have a few improvements left to implement.
+Acima de uma certa marca não há motivo para rodar o jogo a uma taxa de frames mais alta. Lazer emprega várias novas tecnologias para se garantir que a menor latência seja atingível sem precisar de altas taxa de frames. Isso irá continuar melhorando com o passar do tempo e ainda temos algumas melhorias faltando para implementar.
 
-Lazer polls for input at 1000 Hz regardless of FPS limiter, which is why the maximum limiter setting will also limit to 1000 FPS.
+Lazer registra entradas a 1000Hz sem relação ao limitador de FPS, que é o porque o limite máximo da configuração também limite a 1000 FPS.
 
-If you are curious about how this affects input latency e test your own perception, please run the built-in "latency certifier" at the bottom of settings.
+Se vocês está curioso sobre como isso afeta a latência da entrada e quer testar a sua própria percepção, por favor execute o "certificador de latência" imbutido na base das configurações.
 
-#### If input is only polled at 1000 Hz, what about my 8000 Hz gaming mouse?
+#### Se a entrada é registrada apenas a 1000Hz, e sobre meu mouse gamer de 8000Hz?
 
-The operating system will still poll at the higher rate, although benefits are proven to be negligible. Polling at such high rates can have unforeseen overheads, e we recommend limiting devices to 1000 Hz for system stability.
+O sistema operacional ainda vai registrar a essa taxa maior, entretanto os benefícios são certo de serem imperceptíveis. Registrar a altas taxas podem ter resultados imprevistos, e nós recomendamos limitar os dispositivos a 1000Hz para estabilidade do sistema.
 
-#### Lazer performs worse than stable for me. What gives?
+#### Lazer roda pior do que o estável para mim. Por que?
 
-While on most modern hardware we see lazer outperform stable, there are always edge cases when each user has a different hardware configuration. In our short-term roadmap, we are looking to support DirectX (aka "compatibility mode" on stable) e Vulkan, which both have better driver support than OpenGL across all hardware. Once this is implemented, performance on hardware like Intel integrated chipsets will improve greatly.
+Enquanto na maioria dos hardwares modernos nós vemos o lazer rodar melhor do que o estável, sempre haverá casos extremos onde cada usuário tem uma configuração diferente de hardware. Em nosso roadmap de curto prazo, estamos procurando dar suporte ao DirectX (mais conhecido como "modo de compatibilidade" no estável) e Vulkan, que ambos tem um suporte melhor que OpenGL entre todos os hardwares. Uma vez que isto seja implementado, a performance em hardware como chipset integrado Intel irá melhorar significativamente.
 
-### Providing feedback
+### Dar feedback
 
-#### A feature that I depend on is missing! / Something has changed e I don't like it. / I have found a bug, what's the best way to report it?
+#### Uma funcionalidade que eu dependo está faltando! / Algo mudou e eu não gostei. / Eu encontrei um bug, qual a melhor maneira de reportá-lo?
 
-There's a very high chance we are already aware of this e tracking it for future implementation! Please search the [issue tracker](https://github.com/ppy/osu/issues) e [discussions page](https://github.com/ppy/osu/discussions). If you can't find any matching threads, feel free to [open a discussion](https://github.com/ppy/osu/discussions/new).
+Existe uma grande chance de que nós já estamos cientes disso e monitorando-o para futura implementação! Por favor procure no There's a very high chance we are already aware of this e tracking it for future implementation! Please search the [monitorador de issue](https://github.com/ppy/osu/issues) e na [página de discussões](https://github.com/ppy/osu/discussions). Se você não conseguir encontrar nenhuma que se encaixa com o seu problema, fique à vontade para [abrir uma discussão](https://github.com/ppy/osu/discussions/new).
 
-Do note that we are already tracking over 1,000 issues of varying priorities, e it may take us some time to fix issues that only affect a small number of users.
+Note que já estamos monitorando mais de 1,000 issues de diversas prioridades, e pode ser que demore algum tempo para corrigirmos problemas que afetam apenas um pequeno número de usuários.
 
-### Other
+### Outros
 
-#### Why is it called "lazer"?
+#### Por que é chamado de "lazer"?Why is it called "lazer"?
 
-What is sharper than cutting–edge?
+O que é mais afiado do que uma ponta afiada?
 
-#### Why is it taking so long to become the "main" release?
+#### Por que está demorando tanto tempo para se tornar o "principal" lançamento?
 
-While osu! may seem like a simple game, there are hundreds on hundreds of features e systems that users have come to rely on. Depending on who you ask, lazer may have been in a fully playable state for years now, or it may be missing countless features.
+Enquanto osu! possa parecer um jogo simples, existem centenas de milhares de funcionalidades e sistemas que os usuários dependem. Dependendo de quem você pergunta, lazer está em um estado jogável por anos, ou esteja faltando incontáveis funcionalidades.
 
-Another area which has taken a huge amount of effort is historical preservation — making sure that beatmaps behave exactly as they should, including edge cases that weren't originally planned for. osu! is a vibrant ecosystem e users have taken liberty to extend the game far beyond its planned extents, e we are trying our best to embrace e support this going forward.
+Outra área que tem tomado um grande esforço é a preservação histórica - certificar que beatmaps se comportem da forma que devem, incluindo casos extremos que não foram originalmente planejados. osu! é um ecossistema enérgico e os usuários tomaram a liberdade de expandir o jogo muito além sua extensão planejada, e nós estamos tentando nosso melhor para acolher e ajudar isso daqui para frente.
 
-Finally, unlike the last iteration, we are putting in the time e diligence to ensure the code base will serve us well into the future. We have done the groundwork to allow new features to come online at blazing speed going forward. This will include new UI components, new ways to skin the game, new multiplayer systems e let's not forget the ability to load e play all your existing beatmaps on completely new game modes (a.k.a. rulesets)!
+Afinal, ao invés da última iteração, nós estamos colocando tempo e diligência para assegurar que o código base servirá bem à nós no futuro. Nós fizemos o alicerce para permitir novas funcionalidades virem online extremamente rápido daqui para frente. Isso irá incluir novos componentes de UI, novas formas de criar skins, novo sistema de multijogador e não vamos esquecer da habilidade de garregar e jogar todos os seus beatmaps preexistentes em modos de jogo completamente novos. (mais conhecidos como rulesets)!
 
-#### What comes next?
+#### O que vem a seguir?
 
-We have a huge backlog of user-requested features e improvements that we will continue to push out at the speed of light. For those that have joined us recently e haven't experienced the momentum of osu! development, prepare to be in for a surprise.
+Nós temos um grande backlog de funcionalidades requisitadas pelos usuários e melhorias que nós iremos continuar lançando na velocidade da luz. para aqueles que se juntaram a nós recentemente e não experenciaram o momento do desenvolvimento do osu!, preparem-se para ficarem surpresos.
 
-#### How do I access my songs folder?
+#### Como eu acesso minha pasta de músicas?
 
-There is no songs folder in lazer! This allows us to do cool things like not require pressing `F5` at song select to refresh beatmaps (because beatmaps are always in a good state) e reduce the disk space used by beatmaps by 20–40%. You can read more about [the way lazer stores files](/wiki/Client/Release_stream/Lazer/File_storage).
+Não há uma pasta de músicas no lazer! Isso nos permite fazer coisas legais como não precisar apertar `F5` na seleção de músicas para regarregar os beatmaps (por que beatmaps estão sempre em bom estado) e reduzir o espaço de disco requerido em 20%-40%. Você pode ler mais sobre [a maneira como lazer armazena arquivos](/wiki/Client/Release_stream/Lazer/File_storage).
 
-If you need to make changes to a beatmap, please use the editor. Going forward we will introduce a mode in the editor which makes a beatmap's folder temporarily accessible for external editing. This will allow you to use external tools on a beatmap during the creation process.
+Se você precisar fazer mudançar em um beatmap, por favor use o editor. Futuramente iremos introduzir um modo no editor que faz  com que a pasta do beatmap seja temporariamente acessível para edição externa. Isso permite que você use ferramentas externas em um beatmap durante o processo de criação.
 
-#### Now that "osu!direct" is available to all players, will supporters have any new benefits?
+#### Agora que "osu!direct" está disponível para todos os jogadores, apoiadores teram novos benefícios?
 
-Some filters in the beatmap listing are still supporter-only.
+Alguns filtros na listagem de beatmaps ainda são apenas para apoiadores.
 
-There are also some additional benefits already:
+Já existem alguns benefícios adicionais disponíveis:
 
-- Supporters can create playlists that last longer
+- Apoiadores podem criar seleções de música que duram mais
 
-We do intend to look into new benefits in the future, but our focus is currently on feature parity with stable so please use your supporter tag purchase as a way to... support the game's development!
+Nós pretendemos pensar sobre novos benefícios no futuro, mas nosso foco é atualmente na igualdade de funcionalidade com estável então por favor use sua compra de tag de apoiador como uma forma de... dar suporte ao desenvolvimento do jogo!
 
-#### If I cheat on lazer will I be banned?
+#### Se eu trapacear no lazer serei banido?
 
-Yes.
+Sim.
 
-#### If I find someone cheating on lazer how should I report them?
+#### Se eu encontrar alguém trapaceando no lazer como deverei reportá-la?
 
-The same way you usually would.
+Da mesma maneira que você normalmente faria.
 
-#### Where are the microtransactions?
+#### Onde estão as microtransações?
 
-You're likely thinking of another game.
+Você provavelmente está pensando em outro jogo.
 
-### Notes
+### Notas
 
-[^wine]: Using wine.
-[^compatibility-mode]: DirectX via compatibility mode.
-[^coming-soon]: Coming soon.
-[^dll]: Manually via `.dll` files.
-[^share-files]: Beatmaps e skins will share files e save on disk space.
-[^gameplay-only]: Gameplay only.
-[^online]: Via online retrieval.
-[^normalisation]: This brings beatmap custom combo colours to the same brightness level.
-[^hold-for-hud]: Hold `Ctrl` to view the HUD momentarily while it's hidden.
-[^offset-calibration-stable]: Adjustable manually via key bindings.
-[^offset-calibration-lazer]: When retrying a beatmap, you can calibrate the offset based on your last play.
-[^can-disable]: Can be disabled.
-[^note-lock]: Still exists, but should not interfere.
-[^score-reset-balance]: Scores will be reset to ensure balance.
-[^score-reset-isolated]: Scores will be reset, currently isolated from stable scores.
-[^online-content]: Native access to most online content.
-[^direct-supporter]: osu!direct, osu!supporter-only.
-[^multi-room-max]: 16 players max.
-[^map-only]: Map only.
-[^all-files]: All files.
-[^editor-precise-rotation]: Missing precise angle rotation.
-[^incompatibilities]: Some editor features will cause beatmaps to play incorrectly in stable — will be fixed soon.
-[^stable-chat]: Messages can take up to 15 seconds to arrive.
-[^countdown-timers-stable]: Set a countdown using a comme, no automatic start.
-[^countdown-timers-lazer]: Set a countdown from the game UI to automatically start the match.
-[^queue-modes]: Turn on to allow anyone in a lobby to queue new beatmaps, a.k.a. "host rotate".
+[^wine]: Usando wine.
+[^compatibility-mode]: DirectX através do modo de compatibilidade.
+[^coming-soon]: Em breve.
+[^dll]: Manualmente através arquivos `.dll`.
+[^share-files]: Beatmaps e skins irão compartilhar arquivos e economizar espaço de disco.
+[^gameplay-only]: Exclusivo da gameplay.
+[^online]: Através de requisição online.
+[^normalisation]: Isso torna luminosidade das cores de combo customizadas do beatmap para o mesmo nível.
+[^hold-for-hud]: Segure `Ctrl` para ver a HUD momentâneamente enquanto está escondida.
+[^offset-calibration-stable]: Ajustável manualmente através de atalhos de teclado.
+[^offset-calibration-lazer]: Quando tentar novamente um beatmap, você pode calibrar o offset baseado na sua última tentativa.
+[^can-disable]: Pode ser desabilitado.
+[^note-lock]: Ainda existe, mas não deve interferir.
+[^score-reset-balance]: Pontuações vão ser resetadas para garantir balanço.
+[^score-reset-isolated]: Pontuações vão ser resetadas, atualmente isoladas das pontuações do estável.
+[^online-content]: Acesso nativo para a maioria dos conteúdos online.
+[^direct-supporter]: osu!direct, exclusivo do osu!apoiador.
+[^multi-room-max]: máximo de 16 players.
+[^map-only]: Exclusivo do mapa.
+[^all-files]: Todos os arquivos.
+[^editor-precise-rotation]: Faltando rotação precisa de ângulo.
+[^incompatibilities]: Algumas funcionalidades do editor irão causar beatmaps rodarem incorretamente no estável - será consertado em breve.
+[^stable-chat]: Mensagens podem demorar até 15 segundo para chegar.
+[^countdown-timers-stable]: Definir uma contagem regressiva usando vírgula, em começo automático.
+[^countdown-timers-lazer]: Definir uma contagem regressiva para o UI do jogo para automaticamente começar a partida.
+[^queue-modes]: Habilitar para qualquer um no lobby possa adicionar novos mapas para a fila, mais conhecido como "host rotate".
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png
