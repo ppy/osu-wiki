@@ -26,10 +26,8 @@ gmt:
     wiki: Διαχείριση Wiki
     mapping: Συντονιστής κοινοτητας δημιουργίας/Συντονισμου χαρτων
 nat:
-  areas:
-    communication: Επικοινωνία
-    evaluation: Αξιολογηση
-    moderation: Συντονιστής
-    structural: Οικοδομικός
+  subgroups:
+    advisor: Σύμβουλος
+    evaluator: Αξιολογητής
 languages:
   partial: λιγο <language>
