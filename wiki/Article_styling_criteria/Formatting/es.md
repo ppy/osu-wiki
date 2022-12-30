@@ -113,7 +113,7 @@ no_native_review: true
 
 *Véase también: [Nombre de las carpetas](#nombre-de-las-carpetas) y [Títulos](#títulos)*
 
-Los títulos de los artículos deben ser singulares y usar mayúsculas y minúsculas. Véase el [artículo de convenciones de títulos de Wikipedia](https://es.wikipedia.org/wiki/Wikipedia:Convenciones_de_títulos) para obtener más detalles.
+Los títulos de los artículos deben ser singulares y usar mayúsculas y minúsculas. Véase el [artículo Convenciones de títulos de Wikipedia](https://es.wikipedia.org/wiki/Wikipedia:Convenciones_de_títulos) para obtener más detalles.
 
 Los títulos de los artículos deben coincdidir con el nombre de la carpeta en la que se encuentran (los espacios se pueden reemplazar los guiones bajos (`_`) cuando corresponda). Si el nombre de la carpeta cambia, el título del artículo debe cambiarse para que coincida y viceversa.
 
