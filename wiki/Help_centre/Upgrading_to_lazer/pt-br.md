@@ -272,7 +272,7 @@ Você provavelmente está pensando em outro jogo.
 [^score-reset-balance]: Pontuações vão ser resetadas para garantir balanço.
 [^score-reset-isolated]: Pontuações vão ser resetadas, atualmente isoladas das pontuações do estável.
 [^online-content]: Acesso nativo para a maioria dos conteúdos online.
-[^direct-supporter]: osu!direct, exclusivo do osu!apoiador.
+[^direct-supporter]: osu!direct, exclusivo do osu!supporter.
 [^multi-room-max]: máximo de 16 players.
 [^map-only]: Exclusivo do mapa.
 [^all-files]: Todos os arquivos.
