@@ -14,6 +14,10 @@ If you want to contribute, feel free to reach out! The osu!monthly project is or
 
 It seems that the end of the year brings the end of many osu! community events, the major one being tournaments. For far too long the tournament scene hasn't been well published, with the new additions from last month to this month, osu!monthly hopes this brings a favorable light on a part of the community that has been left in the dark.
 
+We also prepared a special recap of what we believe are notable (or maybe even the best!) plays of each game mode for this year, but please bear in mind that the selections are subjective, and while everyone has a right to agree or disagree, please do not go out of your way to harrass the individuals behind the selections.
+
+With that out of the way, let's see what happened in December!
+
 ## Table of contents
 
 - [What's new in osu!(lazer)](#what's-new-in-osu!(lazer))
@@ -87,9 +91,37 @@ If you're interested, the whole event was broadcasted on the [osusg twitch chann
     </video>
 </div>
 
+### osu!mania LN Tournament 3
+
+![](/wiki/shared/news/2023-01-01-osumonthly-6/osu!mania-LNTournament-3.jpg)
+
+Earlier this month, the third installation of the [osu!mania LN Tournament](https://osu.ppy.sh/wiki/en/Tournaments/o%21mLN/3) was concluded! For those unaware, the tournament hosted by [MashedPotato](https://osu.ppy.sh/users/10494860), [Polytetral](https://osu.ppy.sh/users/8612061), and [_yosh](https://osu.ppy.sh/users/7157133) is currently the biggest, most well-known tournament centered around long notes. By the end of 2022 they concluded their biggest, most ambitious iteration, with quite the assortment of custom songs, charts, and well-tailored mappools for the enjoyment of players and viewers alike!
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=PH }:: Silhoueska Elze |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=CZ }:: grillroasted |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=BR }:: DemiFiendSMT |
+
+For those who might've missed it, don't worry! The team broadcasted most, if not all matches on [their Twitch channel](https://www.twitch.tv/osumanialive). Even earlier matches were heavily contested by all players, this includes but is not limited to [the final, championship bout](https://www.twitch.tv/videos/1671582562) between [Silhoueska Elze](https://osu.ppy.sh/users/11517895) and [grillroasted](https://osu.ppy.sh/users/18271627), an 80 minute non-stop battle for the 1st place. Even a full on ARG was made just to showcase [LNCryption](https://osu.ppy.sh/beatmapsets/1893946#mania/3902893) by the hands of [HowToPlayLN](https://osu.ppy.sh/users/10879600) and the rest of the team which played a huge part on all custom made charts in the pools.
+
+With that said, congratulations to everyone who participated in and helped with the project! If you're interested in joining future tournaments, please don't be afraid to join their [Discord server](https://discord.gg/SPQtt3s).
+
 ### Notable osu! plays of the year
 
-WIP
+What better way to start this year's recap than with one, if not the best score by [worst hr player](https://osu.ppy.sh/users/14106450)? An insane [FC](https://osu.ppy.sh/scores/osu/4205034675) on [Nexta](https://osu.ppy.sh/beatmapsets/716079#osu/1902818) by Lapix, an extraordinary tech beatmap requiring a perfect mastery of aim and an incredible consistency. They gave us an eyeful with this almost perfect score showing us at the same time the extent of his talent.
+
+Now this is a play that you could not miss. After almost 5 years without a single FC, [\[Karcher\]](https://osu.ppy.sh/users/11443437) was the first to impress us with a first, then a second [FC](https://osu.ppy.sh/scores/osu/4209503586) only two days apart, on [Yomi Yori](https://osu.ppy.sh/beatmapsets/461744#osu/1031991). This second play of 9 minutes, during which Karcher keeps hitting all the streams at 220bpm, can only be impressive for any osu! player. Not only did \[Karcher\] definitely prove to us his stamina and consistency are incredible, but he got to claim a mind boggling $3333 bounty!
+
+How about moving on to a classic? [WhiteCat](https://osu.ppy.sh/users/4504101)'s 4x miss with HR on [Revolutionary Etude](https://osu.ppy.sh/beatmapsets/539300#osu/1142884) definitely falls under that category, a 10.36* map asking for extraordinary aim control with cross-screen jumps at 145bpm, along with solid reading skill due to higher approach rate caused by HR. A play that definitely contributed to reaffirming the fact that WhiteCat is one of the best when it comes to aim.
+
+How to summarise the plays of this year without talking about a score that got the "osu! pp world record" title, although only for 5 days. [aetrna](https://osu.ppy.sh/users/6447454)'s magnificent [HDDTHR FC](https://osu.ppy.sh/scores/osu/4327635852) on [Ascension to Heaven](https://osu.ppy.sh/beatmapsets/34348#osu/111680) worth 1357pp definitely proved that when it comes to speed, no one in the world can currently do it better than eatrna, showcasing amazing consistency on the map regardless of the fact that the streams were 300bpm. Even though aetrna wasn't extremely active this year, they still managed to leave a great mark for this year.
+
+And to finish this recap, a play made by someone you all know because he didn't stop impressing us all throughout this year, with new plays, each one being more mind boggling than the last. One of many fantastic plays by [mrekk](https://osu.ppy.sh/users/7562902), his [1240x combo](https://osu.ppy.sh/scores/osu/4342345523) on [AugoEidEs](https://osu.ppy.sh/beatmapsets/346104#osu/764082) definitely not only shattered the minds of every single player, but has also single-handedly shattered the skill ceiling once more as they keeps making plays that were thought to be impossible, possible.
+
+You can view all of the plays listed in the playlist below:
+
+<iframe src="https://www.youtube-nocookie.com/embed/videoseries?list=PLbY6YsbyBvHCxJkm5d4KKn5672r-5z3ir" allow="autoplay; encrypted-media" allowfullscreen="" width="100%" height="315" frameborder="0"></iframe>
 
 ### Notable osu!taiko plays of the year
 
@@ -97,7 +129,7 @@ A little different template for the osu!taiko section this time around. For this
 
 Usually we only showcase osu!taiko specific maps, but [Ney's](https://osu.ppy.sh/users/5991961) immaculate play on [The Forgotten](https://osu.ppy.sh/scores/taiko/176006178), caught out attention and was one which was not easily forgotten. The score showcases some extreme 500bpm monostreams that was perfected by Ney's unique playstyle. With the map itself being 3 minutes long and only a brief moment to stop, this definitely lives up to being a play of the year.
 
-Ney wasn't the only one to have had a specific impact on the osu!taiko community. An osu!monthly veteran [Grape_Tea](https://osu.ppy.sh/users/9540073) does it again with their HDHR SS on [The Limit Does Not Exist](https://osu.ppy.sh/scores/taiko/172478839). Featuring blistering and unrelenting 280bpm streams, Grape_Tea seems to do the unsurmountable and brings the play up to the next level with HD and HR, a mod combo that is notorious for being unable to play with, let alone SS with.
+Ney wasn't the only one to have had a specific impact on the osu!taiko community. An osu!monthly veteran [Grape_Tea](https://osu.ppy.sh/users/9540073) does it again with their HDHR SS on [The Limit Does Not Exist](https://osu.ppy.sh/scores/taiko/175189773). Featuring blistering and unrelenting 280bpm streams, Grape_Tea seems to do the unsurmountable and brings the play up to the next level with HD and HR, a mod combo that is notorious for being unable to play with, let alone SS with.
 
 A newcomer to osu!monthly: [Nurend's](https://osu.ppy.sh/users/9905079) NC play on [Central Nucleus](https://osu.ppy.sh/scores/taiko/175579351), coming in at a whopping 9.7 stars, this map is nothing but a beast when paired with NC, featuring difficult 1/6 and 1/8 patterns that challenge even the pros. This score is made even more impressive with it being the first DT play on the map and with only 8 misses, it is no wonder why this is being showcased.
 
@@ -107,7 +139,7 @@ For the most voted play of the year, it was decided that [applerss](https://osu.
 
 You can view all of the plays listed in the playlist below:
 
-<iframe width="100%" height="315" src="link" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/videoseries?list=PLbY6YsbyBvHBnVWWAfpMe31kx6b95GaAa" allow="autoplay; encrypted-media" allowfullscreen="" width="100%" height="315" frameborder="0"></iframe>
 
 ### Notable osu!catch plays of the year
 
@@ -125,15 +157,15 @@ This honorable mention is dedicated to what might be the worst choke in CTB hist
 
 You can view all of the plays listed in the playlist below:
 
-<iframe width="100%" height="315" src="link" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLbY6YsbyBvHCutfMUqsCqA5yqnWlz_Rsk" frameborder="0" allowfullscreen></iframe>
 
 ### Notable osu!mania plays of the year
 
 <iframe width="100%" height="315" src="link" frameborder="0" allowfullscreen></iframe>
 
-## Mapping Recap
+## Mapping recap
 
-All year long, the mappers and people involved in mapping on osu! have not stopped doing amazing things, and this month was no exception. So we will try to summarize  all the things related to mapping that happened this month as best as possible in a few sentences.
+All year long, the mappers and people involved in mapping on osu! have not stopped doing amazing things, and this month was no exception. So we will try to summarize all the things related to mapping that happened this month as best as possible in a few sentences.
 
 ### Mapping News
 
@@ -141,11 +173,11 @@ All year long, the mappers and people involved in mapping on osu! have not stopp
 
 A big change has taken place in the application requirements of Beatmaps Nominators. Indeed, the notion of ModScore has been totally removed (which wasa score based on the number of recent mods) from the required conditions evaluated during the application of future BNs. A way to encourage mappers and modders in the community to get involved in the ranking process by joining the BNG, now more accessible.
 
-#### SEV Handbook in the wiki
+#### SEV handbook added to the wiki
 
 The way in which the BNs were judged could seem incomprehensible sometimes for the general public until very recently, since the [SEV rating](https://osu.ppy.sh/wiki/en/People/The_Team/Nomination_Assessment_Team/SEV_rating) has been added in the wiki. From the different punishable omissions, to the severity applied to each, everything is now detailed there (although in reality, SEV rating adapts to each case).
 
-### Mappings Highlight
+### Mapping highlight
 
 Although, like most osu! players, you may be content with the beatmaps already installed on your computer, new extraordinary and trendy beatmaps are released every month and pass the ranked status. So we decided to add this new section to the monthly to keep you up to date with the most popular beatmaps among mappers, players and even music enthusiasts.
 
@@ -183,7 +215,7 @@ Their first map was ranked in august but since then they have not stopped. With 
 
 [melleganol](https://osu.ppy.sh/users/16452371) could be considered as a small mapper who ranks maps from time to time, until this December when four of their beatmaps came out of nowhere. It's with english pop or hip-hop music that they have completely created their own style and visuals, matching really well to this style of music. So by utilising their uniqueness they created a set on [sauceintherough by brakence](https://osu.ppy.sh/beatmapsets/1885603), whose top difficulty plays continuously with sliders and slider velocity to create a beatmap that is both fun to play and very visual, not to mention the custom hitsounds that complete this set so well. With such a mastered style, melleganol can only be on the right track!
 
-### Mapping Around Community
+### Mapping around the community
 
 #### Community Mentorship Program
 
@@ -196,6 +228,10 @@ For the past 11 years, the [Christmas Queue](https://osu.ppy.sh/community/forums
 #### keevy's Collab
 
 This month on Twitter we saw [the announcement](https://twitter.com/keevyosu/status/1605231073620905986) of the end of a long project led by [keevy](https://osu.ppy.sh/users/10584295): a song compilation map of [Camellia](https://osu.ppy.sh/beatmaps/artists/31)'s music! It is with the help of storyboarders, hitsounders, and nearly 50 mappers that this map could be created and offer to all players who try it a unique experience. It seems that keevy plans to organize other projects in the same style, so if you're interested in some mapping project, don't hesitate to [join them](https://discord.com/invite/BjWmtfAP)!
+
+#### OMDB (osu! map database)
+
+[OMDB (osu! map database)](https://omdb.nyahh.net/) is a new website created by [Apo11o](https://osu.ppy.sh/users/9558549) in order to allow for all community members to freely express their opinions about any and all maps on osu!. Not only is it possible to rate individual maps from 1 to 5, anyone can leave a comment on them and express what this map means for them. The tool can also be used to find new beatmaps with various listing options such as random or latest maps, or just looking at the most recent submitted votes on the front page. This project is still in development but the reception received so far has been positive. In short, if you want an alternative way to find and judge maps, this is your go-to place for that.
 
 ## Skinning Recap
 
@@ -252,4 +288,4 @@ Same rules apply, you have exactly 1 month after this news post goes up (or unti
 
 As always, thank you for reading this month's edition of osu!monthly. We hope that 2022 treated you well and that the new year brings even more splendors. If you have any questions, comments, concerns, or want to contribute don't hesitate to say something in the osu!dev discord. We thank you for an amazing reponse for half of the year and we hope this continues on for many more, it is not without you all creating community content that this cannot happen. Thank you, thank you, thank you!
 
-—0x84f, Blushing, ianpep, Patatitta, Pisapou, Xahlt
+—0x84f, Blushing, ianpep, Patatitta, Pisapou, RandomeLoL, Xahlt
