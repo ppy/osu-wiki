@@ -204,13 +204,13 @@ Enquanto na maioria dos hardwares modernos nós vemos o lazer rodar melhor do qu
 
 #### Uma funcionalidade que eu dependo está faltando! / Algo mudou e eu não gostei. / Eu encontrei um bug, qual a melhor maneira de reportá-lo?
 
-Existe uma grande chance de que nós já estamos cientes disso e monitorando-o para futura implementação! Por favor procure no There's a very high chance we are already aware of this e tracking it for future implementation! Please search the [monitorador de issue](https://github.com/ppy/osu/issues) e na [página de discussões](https://github.com/ppy/osu/discussions). Se você não conseguir encontrar nenhuma que se encaixa com o seu problema, fique à vontade para [abrir uma discussão](https://github.com/ppy/osu/discussions/new).
+Existe uma grande chance de que nós já estamos cientes disso e monitorando-o para futura implementação! Por favor procure no [monitorador de issue](https://github.com/ppy/osu/issues) e na [página de discussões](https://github.com/ppy/osu/discussions). Se você não conseguir encontrar nenhuma que se encaixa com o seu problema, fique à vontade para [abrir uma discussão](https://github.com/ppy/osu/discussions/new).
 
 Note que já estamos monitorando mais de 1,000 issues de diversas prioridades, e pode ser que demore algum tempo para corrigirmos problemas que afetam apenas um pequeno número de usuários.
 
 ### Outros
 
-#### Por que é chamado de "lazer"?Why is it called "lazer"?
+#### Por que é chamado de "lazer"?
 
 O que é mais afiado do que uma ponta afiada?
 
