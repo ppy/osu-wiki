@@ -680,7 +680,7 @@ Si una imagen es el único contenido de un párrafo, se muestra como un recuadro
 
 Las imágenes de bloque con texto de título muestran el texto del título como una leyenda debajo de la imagen. Evite agregar [comentarios HTML](#comentarios) o cualquier otro texto en la misma línea que la imagen, ya que esto hará que la leyenda no se reproduzca.
 
-Las imágenes de bloque suelen combinarse con el formato [cuadro de información](#cuadros-de-información) para reducir su tamaño inicial y colocarlas al lado de otro contenido:
+Las imágenes de bloque suelen combinarse con el formato [ficha](#ficha) para reducir su tamaño inicial y colocarlas al lado de otro contenido:
 
 ```markdown
 ::: Infobox
@@ -796,9 +796,9 @@ El siguiente es un ejemplo de cómo debería verse una tabla:
 | Maria | No participó | Mocha |  |
 ```
 
-## Cuadros de información
+## Fichas
 
-Un cuadro de información es un bloque de ancho fijo que se alinea al lado derecho del artículo. Puede contener una imagen relevante, que explica el texto circundante, o un bloque de navegación que enlaza con otros artículos de la misma categoría.
+Una ficha es un bloque de ancho fijo que se alinea al lado derecho del artículo. Puede contener una imagen relevante, que explica el texto circundante, o un bloque de navegación que enlaza con otros artículos de la misma categoría.
 
 Ejemplo de uso, representado a la derecha:
 
@@ -812,10 +812,10 @@ Ejemplo de uso, representado a la derecha:
 :::
 ```
 
-Los cuadros de información deben usarse con precaución en los siguientes casos:
+Las fichas deben usarse con precaución en los siguientes casos:
 
-- Secciones cortas: el encabezado de la siguiente sección aparece debajo de los cuadros de información, dejando un gran espacio después del texto.
-- Varias imágenes a la vez: en su lugar, use cuadros de información individuales para un mejor diseño.
+- Secciones cortas: el encabezado de la siguiente sección aparece debajo de las fichas, dejando un gran espacio después del texto.
+- Varias imágenes a la vez: en su lugar, use fichas individuales para un mejor diseño.
 
 ## Notas al pie
 
