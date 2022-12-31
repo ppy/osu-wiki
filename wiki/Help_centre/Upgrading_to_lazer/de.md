@@ -44,7 +44,7 @@ Im Folgenden findest du eine umfassende Liste des **aktuellen Status** von lazer
 | Feature | stable | lazer |
 | :-- | :-- | :-- |
 | Akkurate Performance-Punkte-Anzeige | ![Teilweise][partial][^online] | ![Ja][true] |
-| Mod zum Anpassen der Schwierigkeit | ![No][false] | ![Yes][true][^difficulty-adjust] |
+| Mod zum Anpassen der Schwierigkeit | ![Nein][false] | ![Ja][true][^difficulty-adjust] |
 | Mod-Voreinstellungen | ![Nein][false] | ![Ja][true] |
 | Einstellungen für Mods | ![Nein][false] | ![Ja][true] |
 | Neue "spaßige" Mods | ![Nein][false] | ![Ja][true] |
