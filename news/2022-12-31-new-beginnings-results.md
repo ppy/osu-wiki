@@ -14,11 +14,11 @@ Which in this case, is a new set of Art Contest finalists to start with!
 
 Thanks to the exhaustive efforts of **4273** unique voters, **19** finalists have been decided, with 15 from the initial voting and an extra 4 as chosen by the CEO of circles himself.
 
-Let's get stuck straight into things - and remember, you can click any banner to be taken to a full-size version of the art in all of its glorious quality.
+Let's get stuck straight into things — and remember, you can click any banner to be taken to a full-size version of the art in all of its glorious quality.
 
 [![](https://assets.ppy.sh/contests/160/banners/Dreamxiety.jpg)](https://assets.ppy.sh/contests/160/winners/Dreamxiety.png)
 
-Welcoming in 2023 with  **2203** votes (we can't make this stuff up, honestly) is [**Dreamxiety**](https://osu.ppy.sh/users/13103233)'s rendition of a kimono-clad pippi enjoying a sparkler amidst a sea of stars and floating lanterns!
+Welcoming in 2023 with **2203** votes (we can't make this stuff up, honestly) is [**Dreamxiety**](https://osu.ppy.sh/users/13103233)'s rendition of a kimono-clad pippi enjoying a sparkler amidst a sea of stars and floating lanterns!
 
 Here's the official count of Dreamxiety's wins so far: *many*. And with a style like this, it's not hard to see why. Well done!
 
@@ -28,7 +28,7 @@ Here's the official count of Dreamxiety's wins so far: *many*. And with a style 
 
 [![](https://assets.ppy.sh/contests/160/banners/Nimiru.jpg)](https://assets.ppy.sh/contests/160/winners/Nimiru.png)
 
-The new year festivities bloom in full with [**Nimiru**](https://osu.ppy.sh/users/11041959)'s take on a gorgeous Eastern-themed celebration.  **2029** voters approved.
+The new year festivities bloom in full with [**Nimiru**](https://osu.ppy.sh/users/11041959)'s take on a gorgeous Eastern-themed celebration. **2029** voters approved.
 
 The traditional media feel on this one is a rare treat!
 
@@ -54,7 +54,7 @@ Simply glorious!
 
 [![](https://assets.ppy.sh/contests/160/banners/Son_Goku.jpg)](https://assets.ppy.sh/contests/160/winners/Son%20Goku.png)
 
-A crowd of **1693** voters joined [**Son Goku**](https://osu.ppy.sh/users/14991975)'s pippi, Mocha, Chirou and a don in perusing through some festive stalls for future fortunes. Well, two of them, at least. Mocha's rocking a sparkler with mischief in her eyes and the don beside her clearly knows what's up.
+A crowd of **1693** voters joined [**Son Goku**](https://osu.ppy.sh/users/14991975)'s pippi, Mocha, Chirou and a don in perusing through some festive stalls for future fortunes. Well, two of them at least. Mocha's rocking a sparkler with mischief in her eyes and the don beside her clearly knows what's up.
 
 [![](https://assets.ppy.sh/contests/160/banners/ksenikust.jpg)](https://assets.ppy.sh/contests/160/winners/ksenikust.png)
 
@@ -62,7 +62,7 @@ A crowd of **1693** voters joined [**Son Goku**](https://osu.ppy.sh/users/149919
 
 [![](https://assets.ppy.sh/contests/160/banners/RedcXca.jpg)](https://assets.ppy.sh/contests/160/winners/RedcXca.png)
 
-[**RedcXca**](https://osu.ppy.sh/users/14056601) decrees that Alisa's time to shine is right now, and  **1404** voters agreed. Her base outfit really does fit the occasion, doesn't it?
+[**RedcXca**](https://osu.ppy.sh/users/14056601) decrees that Alisa's time to shine is right now, and **1404** voters agreed. Her base outfit really does fit the occasion, doesn't it?
 
 [![](https://assets.ppy.sh/contests/160/banners/Kitcat.jpg)](https://assets.ppy.sh/contests/160/winners/Kitcat.png)
 
