@@ -41,7 +41,7 @@ A continuación se enumeran las configuraciones regionales compatibles con la wi
 | `zh.md` | Chino (Simplificado) | 简体中文 |
 | `zh-tw.md` | Chino tradicional (Taiwán) | 繁體中文（台灣） |
 
-*Nota: El sitio web les dará a los lectores la versión de un artículo en su idioma seleccionado. Si no está disponible, se dará la versión en inglés.*
+*Nota: El sitio web les dará a los lectores la versión de un artículo en su idioma seleccionado. Si no está disponible, se dará la variante inglesa.*
 
 ## Formato de serialización
 
@@ -73,13 +73,13 @@ Al agregar esta etiqueta a un artículo, también se deben agregar [comentarios]
 
 ### Traducciones obsoletas
 
-Los artículos traducidos que están desactualizados deben usar la etiqueta `outdated_translation` cuando se actualiza la variante en inglés, excepto en el caso de cambios menores de redacción, gramática y similares, que no afecten al significado del artículo.
+Los artículos traducidos que estén obsoletos deben usar la etiqueta `outdated_translation` cuando se actualice la variante inglesa, excepto en el caso de cambios menores de redacción, gramática y similares que no afecten al significado del artículo.
 
 ```yaml
 outdated_translation: true
 ```
 
-Al desactualizar las traducciones, también deben recibir una etiqueta `outdated_since` que apunta a la primera confirmación donde se actualizó la versión en inglés.
+Al desactualizar las traducciones, también deben recibir una etiqueta `outdated_since` que apunta a la primera confirmación donde se actualizó la variante inglesa.
 
 ```yaml
 outdated_since: 29eac89cd535f8b071ca000af8fe4f0be22bdc9b
@@ -730,7 +730,7 @@ Se debe evitar anotar las imágenes, ya que es difícil para los traductores (y 
 
 #### Traducir imágenes anotadas
 
-Al traducir imágenes anotadas, la versión de la imagen localizada debe colocarse en el mismo directorio que la versión original (es decir, la versión en inglés). El nombre de archivo de una versión de imagen localizada debe comenzar con el nombre de la versión original, seguido de un guión, seguido del nombre de la configuración regional (en letras mayúsculas). Vea los siguientes ejemplos:
+Al traducir imágenes anotadas, la versión de la imagen localizada debe colocarse en el mismo directorio que la versión original (es decir, la variante inglesa). El nombre de archivo de una versión de imagen localizada debe comenzar con el nombre de la versión original, seguido de un guión, seguido del nombre de la configuración regional (en letras mayúsculas). Vea los siguientes ejemplos:
 
 - `hardrock-mod-vs-easy-mod.jpg` para ingles
 - `hardrock-mod-vs-easy-mod-DE.jpg` para alemán
