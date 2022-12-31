@@ -44,6 +44,7 @@ Im Folgenden findest du eine umfassende Liste des **aktuellen Status** von lazer
 | Feature | stable | lazer |
 | :-- | :-- | :-- |
 | Akkurate Performance-Punkte-Anzeige | ![Teilweise][partial][^online] | ![Ja][true] |
+| Mod zum Anpassen der Schwierigkeit | ![No][false] | ![Yes][true][^difficulty-adjust] |
 | Mod-Voreinstellungen | ![Nein][false] | ![Ja][true] |
 | Einstellungen für Mods | ![Nein][false] | ![Ja][true] |
 | Neue "spaßige" Mods | ![Nein][false] | ![Ja][true] |
@@ -189,13 +190,15 @@ Wir werden dies wahrscheinlich aufgrund von hoher Nachfrage in Zukunft wieder un
 
 Ab einer bestimmten Grenze gibt es keinen Grund, höhere Bildraten zu haben. Lazer setzt verschiedene neue Technologien ein, die sicher stellen, dass die geringste Latenzzeit erreicht wird, ohne dass hohe Bildwiederholraten benötigt werden. Dies wird sich in Zukunft noch weiter verbessern, da noch einige Verbesserungen anstehen.
 
-Lazer fragt Eingaben mit 1000 Hz unabhängig vom FPS-Limit ab. Das ist der Grund, warum die maximale Einstellung bei 1000 FPS liegt.
+Lazer fragt Eingaben mit 1.000 Hz unabhängig vom FPS-Limit ab. Das ist der Grund, warum die maximale Einstellung bei 1.000 FPS liegt.
 
 Wenn du neugierig bist, wie das die Eingabelatenz beeinflusst und deine eigene Wahrnehmung testen möchtest, dann führe bitte den eingebauten "Latency Certifier" am Ende der Einstellungen aus.
 
-#### Wenn Eingaben mit 1000 Hz abgefragt werden, was ist mit meiner 8000 Hz Gaming-Maus?
+Du kannst auch [dieses technische Dokument lesen (Englisch)](https://github.com/ppy/osu/wiki/Latency-and-unlimited-frame-rates), was den von uns eingeschlagenen Weg und die dahinter stehenden Überlegungen erläutert.
 
-Das Betriebssystem fragt weiterhin mit der hohen Rate ab, obwohl sich die Vorteile als vernachlässigbar erwiesen haben. Abfragen mit so hohen Raten können unvorhergesehene Dinge verursachen und wir empfehlen, die Geräte für die Systemstabilität auf 1000 Hz zu begrenzen.
+#### Wenn Eingaben mit 1.000 Hz abgefragt werden, was ist mit meiner 8.000 Hz Gaming-Maus?
+
+Das Betriebssystem fragt weiterhin mit der hohen Rate ab, obwohl sich die Vorteile als vernachlässigbar erwiesen haben. Abfragen mit so hohen Raten können unvorhergesehene Dinge verursachen und wir empfehlen, die Geräte für die Systemstabilität auf 1.000 Hz zu begrenzen.
 
 #### Lazer läuft für mich schlechter als stable. Warum das?
 
@@ -207,7 +210,7 @@ Während auf den meisten modernen Geräten lazer besser abschneidet als stable, 
 
 Es ist sehr wahrscheinlich, dass wir uns dessen bereits bewusst sind und es für die zukünftige Umsetzung einplanen! Bitte suche im [Issue-Tracker](https://github.com/ppy/osu/issues) und der [Diskussionsseite](https://github.com/ppy/osu/discussions). Wenn du keine passenden Threads finden kannst, darfst du gerne [eine Diskussion öffnen](https://github.com/ppy/osu/discussions/new).
 
-Bedenke, dass wir bereits über 1000 Issues mit unterschiedlichen Prioritäten verfolgen und es kann einige Zeit dauern, Fehler zu beheben, die nur einen kleinen Teil der Nutzer beeinträchtigt.
+Bedenke, dass wir bereits über 1.000 Issues mit unterschiedlichen Prioritäten verfolgen und es kann einige Zeit dauern, Fehler zu beheben, die nur einen kleinen Teil der Nutzer beeinträchtigt.
 
 ### Sonstiges
 
@@ -283,6 +286,7 @@ Du denkst wahrscheinlich an ein anderes Spiel.
 [^countdown-timers-stable]: Stelle einen Countdown mit einem Befehl ein, kein automatischer Start.
 [^countdown-timers-lazer]: Stelle einen Countdown in der Benutzeroberfläche ein, um das Match automatisch zu starten.
 [^queue-modes]: Aktiviere diese Option, damit jeder in einer Lobby neue Beatmaps in die Warteschlange stellen kann, auch bekannt als "host rotate".
+[^difficulty-adjust]: Ändere die Werte CS/AR/OD/HP einer Beatmap direkt in der Songauswahl.
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png
