@@ -25,16 +25,16 @@ If you like what you're hearing, register for this tournament at [**The Roundtab
 This tournament will be held online between January 21st and March 5th in 3 stages:
 
 - **Qualifier stage** 
-    - All registered players enter a multiplayer lobby to play every map in the map pool. 
-    - Top 16 players proceed to the next phase.
+  - All registered players enter a multiplayer lobby to play every map in the map pool. 
+  - Top 16 players proceed to the next phase.
 - **Bracket stage**
-    - 16 players are seeded into a 1v1 double elimination bracket.
-    - The winner receives an invitation to **The Roundtable II**.
-    - Players ranked 2nd through 6th proceed to the last phase.
-    - 2nd place in this bracket is NOT guaranteed an invitation to **The Roundtable II**.
+  - 16 players are seeded into a 1v1 double elimination bracket.
+  - The winner receives an invitation to **The Roundtable II**.
+  - Players ranked 2nd through 6th proceed to the last phase.
+  - 2nd place in this bracket is NOT guaranteed an invitation to **The Roundtable II**.
 - **Last Chance Bracket stage**
-    - 5 players enter a bracket based on their placements in the main bracket stage.
-    - Winner of the last chance bracket receives an invitation to **The Roundtable II**.
+  - 5 players enter a bracket based on their placements in the main bracket stage.
+  - Winner of the last chance bracket receives an invitation to **The Roundtable II**.
 
 If you're desperate for details, [**The Roundtable**'s website](https://theroundtable.gg) covers the exact rules and procedures for each stage.
 
