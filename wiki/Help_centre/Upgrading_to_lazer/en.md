@@ -188,13 +188,15 @@ We will likely bring back support for this in the future due to popular demand.
 
 Above a certain threshold there is no reason to run at higher frame rates. Lazer employs various new technologies to ensure the lowest latency is achievable without requiring high frame rates. This will continue to improve going forward as we still have a few improvements left to implement.
 
-Lazer polls for input at 1000 Hz regardless of FPS limiter, which is why the maximum limiter setting will also limit to 1000 FPS.
+Lazer polls for input at 1,000 Hz regardless of FPS limiter, which is why the maximum limiter setting will also limit to 1,000 FPS.
 
 If you are curious about how this affects input latency and test your own perception, please run the built-in "latency certifier" at the bottom of settings.
 
+You can also [read this technical document](https://github.com/ppy/osu/wiki/Latency-and-unlimited-frame-rates) explaining the path we are taking along with rationale behind it.
+
 #### If input is only polled at 1000 Hz, what about my 8000 Hz gaming mouse?
 
-The operating system will still poll at the higher rate, although benefits are proven to be negligible. Polling at such high rates can have unforeseen overheads, and we recommend limiting devices to 1000 Hz for system stability.
+The operating system will still poll at the higher rate, although benefits are proven to be negligible. Polling at such high rates can have unforeseen overheads, and we recommend limiting devices to 1,000 Hz for system stability.
 
 #### Lazer performs worse than stable for me. What gives?
 
