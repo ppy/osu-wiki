@@ -43,6 +43,7 @@ The following is a comprehensive list of the **current state** of lazer in compa
 | Feature | stable | lazer |
 | :-- | :-- | :-- |
 | Accurate performance point display | ![Partial][partial][^online] | ![Yes][true] |
+| Difficulty adjust mod | ![No][false] | ![Yes][true][^difficulty-adjust] |
 | Mod presets | ![No][false] | ![Yes][true] |
 | Per-mod settings | ![No][false] | ![Yes][true] |
 | New "fun" mods | ![No][false] | ![Yes][true] |
@@ -284,6 +285,7 @@ You're likely thinking of another game.
 [^countdown-timers-stable]: Set a countdown using a command, no automatic start.
 [^countdown-timers-lazer]: Set a countdown from the game UI to automatically start the match.
 [^queue-modes]: Turn on to allow anyone in a lobby to queue new beatmaps, a.k.a. "host rotate".
+[^difficulty-adjust]: Change CS/AR/OD of a beatmap directly from song select.
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png
