@@ -137,7 +137,7 @@ Los nombres de las carpetas solo deben usar estos caracteres:
 - guiones (`-`)
 - signos de exclamación (`!`)
 
-### Nombre de los archivos de los artículos
+### Nombre de los archivos de artículos
 
 El nombre de archivo de un artículo se puede encontrar en la columna `Nombre del archivo` de la [sección de configuraciones regionales](#configuraciones-regionales). La ubicación de un artículo traducido debe colocarse en la misma carpeta que el artículo en inglés
 
@@ -195,17 +195,17 @@ Los saltos de línea deben usar una barra invertida (`\`).
 
 Los saltos de línea deben usarse con moderación.
 
-## Notas de sombrero
+## Notas de navegación
 
 *No debe confundirse con [Avisos](#avisos).*
 
-Las notas de sombrero son notas breves situadas en la parte superior de un artículo o sección para ayudar a los lectores a navegar hacia artículos relacionados o informarles sobre temas afines.
+Las notas de navegación son notas breves situadas en la parte superior de un artículo o sección para ayudar a los lectores a navegar hacia artículos relacionados o informarles sobre temas afines.
 
-Las notas de sombrero deben estar en cursiva y colocarse inmediatamente después del encabezamiento. Si se utilizan varias notas de sombrero, deben estar en el mismo párrafo separados por un salto de línea.
+Las notas de navegación deben estar en cursiva y colocarse inmediatamente después del encabezamiento. Si se utilizan varias notas de navegación, deben estar en el mismo párrafo separados por un salto de línea.
 
 ### Página principal
 
-Las notas de sombrero *Página principal* dirigen al lector al artículo principal de un tema. Cuando se utiliza esta nota de sombrero, implica que la sección en la que se encuentra es un resumen de lo que trata la página enlazada. Esta nota de sombrero sólo debe tener un enlace. Deben tener el siguiente formato:
+Las notas de navegación *Página principal* dirigen al lector al artículo principal de un tema. Cuando se utiliza esta nota de sombrero, implica que la sección en la que se encuentra es un resumen de lo que trata la página enlazada. Esta nota de sombrero sólo debe tener un enlace. Deben tener el siguiente formato:
 
 ```markdown
 *Página principal: {artículo}*
@@ -215,7 +215,7 @@ Las notas de sombrero *Página principal* dirigen al lector al artículo princip
 
 ### Véase también
 
-Las notas de sombrero *Véase también* sugieren a los lectores otros puntos de interés de un determinado artículo o sección. Deben tener el siguiente formato:
+Las notas de navegación *Véase también* sugieren a los lectores otros puntos de interés de un determinado artículo o sección. Deben tener el siguiente formato:
 
 ```markdown
 *Véase también: {artículo}*
@@ -225,7 +225,7 @@ Las notas de sombrero *Véase también* sugieren a los lectores otros puntos de 
 
 ### Para véase
 
-Las notas de sombrero *Para véase* son similares a las notas de sombrero *Véase también*, pero suelen ser más descriptivas y directas. Esta nota de sombrero puede utilizar más de un enlace si es necesario. Deben tener el siguiente formato:
+Las notas de navegación *Para véase* son similares a las notas de navegación *Véase también*, pero suelen ser más descriptivas y directas. Esta nota de sombrero puede utilizar más de un enlace si es necesario. Deben tener el siguiente formato:
 
 ```markdown
 *Para {descripción}, véase: {artículo}*
@@ -235,7 +235,7 @@ Las notas de sombrero *Para véase* son similares a las notas de sombrero *Véas
 
 ### No debe confundirse con
 
-Las notas de sombrero *No debe confundirse con* ayudan a distinguir títulos o secciones de artículos ambiguos o malinterpretados. Esta nota de sombrero puede utilizar más de un enlace si es necesario. Deben tener el siguiente formato:
+Las notas de navegación *No debe confundirse con* ayudan a distinguir títulos o secciones de artículos ambiguos o malinterpretados. Esta nota de sombrero puede utilizar más de un enlace si es necesario. Deben tener el siguiente formato:
 
 ```markdown
 *No debe confundirse con {artículo}.*
@@ -245,7 +245,7 @@ Las notas de sombrero *No debe confundirse con* ayudan a distinguir títulos o s
 
 ### Para otros usos
 
-Las notas de sombrero *Para otros usos* son similares a las notas de sombrero *No debe confundirse con*, pero enlazan directamente con el [artículo de desambiguación](#artículos-de-desambiguación). Esta nota de sombrero sólo debe enlazar con el artículo de desambiguación. Deben tener el siguiente formato:
+Las notas de navegación *Para otros usos* son similares a las notas de navegación *No debe confundirse con*, pero enlazan directamente con el [artículo de desambiguación](#artículos-de-desambiguación). Esta nota de sombrero sólo debe enlazar con el artículo de desambiguación. Deben tener el siguiente formato:
 
 ```markdown
 *Para otros usos, véase {artículo de desambiguación}.*
@@ -253,9 +253,9 @@ Las notas de sombrero *Para otros usos* son similares a las notas de sombrero *N
 
 ## Avisos
 
-*No debe confundirse con [Notas de sombrero](#notas-de-sombrero).*
+*No debe confundirse con [Notas de navegación](#notas-de-navegación).*
 
-Se debe colocar un aviso donde corresponda en una sección, pero debe comenzar el párrafo y usar cursiva. Los avisos pueden contener negrita cuando corresponda, pero deben mantenerse al mínimo. Los avisos deben escribirse como oraciones completas. Por lo tanto, a diferencia de la mayoría de [notas de sombrero](#notas-de-sombrero), los avisos deben usar un punto (`.`) o un signo de exclamación (`!`) si corresponde. Cualquier cosa dentro del mismo párrafo de un aviso también debe estar en cursiva. Estos deben formatearse de la siguiente manera:
+Se debe colocar un aviso donde corresponda en una sección, pero debe comenzar el párrafo y usar cursiva. Los avisos pueden contener negrita cuando corresponda, pero deben mantenerse al mínimo. Los avisos deben escribirse como oraciones completas. Por lo tanto, a diferencia de la mayoría de [notas de navegación](#notas-de-navegación), los avisos deben usar un punto (`.`) o un signo de exclamación (`!`) si corresponde. Cualquier cosa dentro del mismo párrafo de un aviso también debe estar en cursiva. Estos deben formatearse de la siguiente manera:
 
 ```markdown
 *Nota: {nota}.*
@@ -272,16 +272,16 @@ Se debe colocar un aviso donde corresponda en una sección, pero debe comenzar e
 - `Precaución` debe usarse para advertir al lector que evite consecuencias no deseadas.
 - `Advertencia` debe usarse para advertir al lector que se pueden tomar medidas en su contra.
 
-## Notas de sombrero y avisos apilados
+## Notas de navegación y avisos apilados
 
-Se pueden apilar múltiples notas de sombrero y avisos cuando sea necesario. Al hacer esto, deben apilarse sin líneas en blanco y usar barras invertidas al final:
+Se pueden apilar múltiples notas de navegación y avisos cuando sea necesario. Al hacer esto, deben apilarse sin líneas en blanco y usar barras invertidas al final:
 
 ```markdown
 *Advertencia: {advertencia}.*\
 *Véase también: {artéculo}*
 ```
 
-En muchos casos, puede ser más adecuado incrustar notas de sombrero o avisos extraños en el texto del párrafo en lugar de apilar muchos de ellos.
+En muchos casos, puede ser más adecuado incrustar notas de navegación o avisos extraños en el texto del párrafo en lugar de apilar muchos de ellos.
 
 ## Enfatizando
 
@@ -350,7 +350,7 @@ El encabezamiento del título debe estar en la primera línea, a menos que se es
 
 Los encabezamientos de sección deben utilizar los niveles 2 a 5. El encabezamiento de sección que precede al [encabezamiento de título](#títulos) debe ser un encabezamiento de nivel 2. A diferencia de los títulos, los encabezamientos de sección pueden tener pequeños iconos de imagen.
 
-Los encabezamientos de sección no deben saltarse un nivel de encabezamiento (es decir, no deben pasar de un encabezamiento de nivel 2 a uno de nivel 4) y no deben contener formato ni enlaces.
+Los encabezamientos de sección no deben saltarse un nivel de encabezamiento (es decir, no deben pasar de un encabezamiento de nivel 2 a un encabezamiento de nivel 4) y no deben contener formato ni enlaces.
 
 *Aviso: En el sitio web, los niveles de encabezamiento 4 y 5 no aparecerán en la tabla de contenidos.*
 
@@ -368,7 +368,7 @@ Es posible redefinir el identificador de una sección, que se utiliza para enlaz
 ## Ideas para una partida multijugador {id=идеи-для-мультиплеера} <!-- sintaxis alternativa para identificadores Unicode -->
 ```
 
-Esta función también puede utilizarse para etiquetar una parte específica del artículo que no tiene título. Utilícela con moderación:
+Esta función también puede utilizarse para etiquetar una parte específica del artículo que no tiene encabezamiento. Utilícela con moderación:
 
 ```markdown
 > Eso es todo! ¡Estás en camino de convertirte en un campeón del ritmo!
@@ -680,7 +680,7 @@ Si una imagen es el único contenido de un párrafo, se muestra como un recuadro
 
 Las imágenes de bloque con texto de título muestran el texto del título como una leyenda debajo de la imagen. Evite agregar [comentarios HTML](#comentarios) o cualquier otro texto en la misma línea que la imagen, ya que esto hará que la leyenda no se reproduzca.
 
-Las imágenes de bloque suelen combinarse con el formato [ficha](#ficha) para reducir su tamaño inicial y colocarlas al lado de otro contenido:
+Las imágenes de bloque suelen combinarse con el formato [ficha](#fichas) para reducir su tamaño inicial y colocarlas al lado de otro contenido:
 
 ```markdown
 ::: Infobox
@@ -772,11 +772,11 @@ Los íconos de la bandera usan el código de dos letras (en mayúsculas) para co
 
 ## Tablas
 
-Las tablas del sitio web solo admiten encabezados en la primera fila.
+Las tablas del sitio web solo admiten encabezamientos en la primera fila.
 
 Las tablas no deben embellecerse (no rellene las celdas con espacios adicionales para que sus anchos sean uniformes). Deben tener una barra vertical (`|`) en los lados izquierdo y derecho y el texto de cada celda debe estar relleno con un espacio en ambos lados. Las celdas vacías deben usar una barra vertical (`|`) seguida de dos espacios y luego otra barra vertical (`|`).
 
-La fila delimitadora (la siguiente línea después del encabezado de la tabla) debe usar solo tres caracteres por columna (y debe completarse con un espacio en ambos lados), que debe verse como uno de los siguientes:
+La fila delimitadora (la siguiente línea después del encabezamiento de la tabla) debe usar solo tres caracteres por columna (y debe completarse con un espacio en ambos lados), que debe verse como uno de los siguientes:
 
 - `:--` (para alinear a la izquierda)
 - `:-:` (para alinear al centro)
@@ -814,7 +814,7 @@ Ejemplo de uso, representado a la derecha:
 
 Las fichas deben usarse con precaución en los siguientes casos:
 
-- Secciones cortas: el encabezado de la siguiente sección aparece debajo de las fichas, dejando un gran espacio después del texto.
+- Secciones cortas: el encabezamiento de la siguiente sección aparece debajo de las fichas, dejando un gran espacio después del texto.
 - Varias imágenes a la vez: en su lugar, use fichas individuales para un mejor diseño.
 
 ## Notas al pie
@@ -825,7 +825,7 @@ En la osu! wiki, las notas al pie se implementan usando una sintaxis especial (`
 
 Las referencias a pie de página se colocan directamente después de las palabras, frases u oraciones que explican, sin espacio entre ellas. Estas referencias deben colocarse después de la puntuación, excepto los paréntesis, cuando correspondan al contenido interior, y los guiones.
 
-Las notas a pie de página en sí deben colocarse en un encabezado separado de segundo nivel al final del artículo. Dependiendo del contenido, el encabezado utilizado puede ser `Referencias`, `Notas` o `Notas y referencias`.
+Las notas a pie de página en sí deben colocarse en un encabezamiento separado de segundo nivel al final del artículo. Dependiendo del contenido, el encabezamiento utilizado puede ser `Referencias`, `Notas` o `Notas y referencias`.
 
 Ejemplos de uso correcto:
 
