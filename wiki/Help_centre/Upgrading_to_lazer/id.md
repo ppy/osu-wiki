@@ -24,7 +24,7 @@ Berikut merupakan daftar berbagai hal yang membedakan versi lazer **saat ini** d
 | Dukungan untuk macOS / Linux | ![Parsial][partial][^wine] | ![Ya][true] |
 | Dukungan DirectX / Vulkan | ![Parsial][partial][^compatibility-mode] | ![Tidak][false][^coming-soon] |
 | Dukungan untuk perangkat mobile | ![Tidak][false] | ![Ya][true] |
-| Arsitektur multi-thread| ![Tidak][false] | ![Ya][true] |
+| Arsitektur multi-thread | ![Tidak][false] | ![Ya][true] |
 | Pemutaran video dengan akselerasi hardware | ![Tidak][false] | ![Ya][true] |
 | Skala antarmuka | ![Tidak][false] | ![Ya][true] |
 | Ruleset (mode permainan) khusus | ![Tidak][false] | ![Parsial][partial][^dll] |
@@ -59,7 +59,7 @@ Berikut merupakan daftar berbagai hal yang membedakan versi lazer **saat ini** d
 | Fitur | stable | lazer |
 | :-- | :-- | :-- |
 | Submisi skor | ![Ya][true] | ![Parsial][partial][^score-reset-balance] |
-| Papan peringkat beatmap| ![Ya][true] | ![Parsial][partial][^score-reset-isolated] |
+| Papan peringkat beatmap | ![Ya][true] | ![Parsial][partial][^score-reset-isolated] |
 | Statistik profil | ![Ya][true] | ![Ya][true] |
 | Medali | ![Ya][true] | ![Tidak][false] |
 | Performance point | ![Ya][true] | ![Parsial][partial][^score-reset-isolated] |
