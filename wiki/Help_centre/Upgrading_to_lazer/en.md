@@ -195,7 +195,7 @@ If you are curious about how this affects input latency and test your own percep
 
 You can also [read this technical document](https://github.com/ppy/osu/wiki/Latency-and-unlimited-frame-rates) explaining the path we are taking along with rationale behind it.
 
-#### If input is only polled at 1000 Hz, what about my 8000 Hz gaming mouse?
+#### If input is only polled at 1,000 Hz, what about my 8,000 Hz gaming mouse?
 
 The operating system will still poll at the higher rate, although benefits are proven to be negligible. Polling at such high rates can have unforeseen overheads, and we recommend limiting devices to 1,000 Hz for system stability.
 
@@ -285,7 +285,7 @@ You're likely thinking of another game.
 [^countdown-timers-stable]: Set a countdown using a command, no automatic start.
 [^countdown-timers-lazer]: Set a countdown from the game UI to automatically start the match.
 [^queue-modes]: Turn on to allow anyone in a lobby to queue new beatmaps, a.k.a. "host rotate".
-[^difficulty-adjust]: Change CS/AR/OD of a beatmap directly from song select.
+[^difficulty-adjust]: Change CS/AR/OD/HP of a beatmap directly from song select.
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png
