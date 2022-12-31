@@ -13,9 +13,9 @@ tags:
 
 *Nicht zu verwechseln mit [Beatmapping](/wiki/Beatmapping).*
 
-**osu!mapping** ist eine wöchentliche englische Videoreihe, die von ::{ flag=US }:: **[pishifat](https://osu.ppy.sh/users/3178418)** erstellt wurde und vom [Mapping-](/wiki/Beatmapping) und [Modding-](/wiki/Modding)Ökosystem handelt. Es wird auf dem [persönlichen YouTube-Kanal von pishifat](https://www.youtube.com/user/Pishifat) gehostet und die meisten Leute kennen es einfach als "pishifat videos" oder "pishi videos".
+**osu!mapping** ist eine wöchentliche englische Videoreihe, die von ::{ flag=US }:: **[pishifat](https://osu.ppy.sh/users/3178418)** erstellt wurde und vom [Mapping-](/wiki/Beatmapping) und [Modding-](/wiki/Modding)Ökosystem handelt. Es wird auf dem [persönlichen YouTube-Kanal von pishifat](https://www.youtube.com/user/Pishifat) gehostet und die meisten Leute kennen es einfach als "pishifat Videos" oder "pishi Videos".
 
-Die Serie ist so bekannt geworden in der osu!-Community, dass sie eine allgemein empfohlene Informationsquelle für neue Mapper ist. Das [osu!-Team](/wiki/People/The_Team) verlieh pishifat das [Contributor-Abzeichen](/wiki/People/Community_Contributors) für eine "vorbildliche Leistung in der Beatmap-Erstellung und Weiterbildung" als Dank für seine Bemühungen, die er in das Projekt steckte.
+Die Serie ist in der osu!-Community so bekannt geworden, dass sie eine allgemein empfohlene Informationsquelle für neue Mapper ist. Das [osu!-Team](/wiki/People/The_Team) verlieh pishifat das [Contributor-Abzeichen](/wiki/People/Community_Contributors) für eine "vorbildliche Leistung in der Beatmap-Erstellung und Weiterbildung" als Dank für seine Bemühungen, die er in das Projekt steckte.
 
 Die regelmäßigen Uploads von osu!mapping endeten im Januar 2019, aber es gibt noch Ideen, die Serie später zu erweitern.
 
@@ -27,9 +27,9 @@ Die regelmäßigen Uploads von osu!mapping endeten im Januar 2019, aber es gibt 
 
 ## Geschichte
 
-osu!mapping begann als eine Reaktion auf einen [Reddit-Beitrag](https://www.reddit.com/r/osugame/comments/4upysl/request_for_mappers_of_this_sub/), mit der Aufforderung an Mapper, Videos mit Mapping-Kommentaren zu erstellen. Am 31.07.2016 lud pishifat das erste Video hoch: [osu!mapping: concepts](https://www.youtube.com/watch?v=oL3az8FhlB4). Im Video erklärt er, wie er den Kommentar erstellen wollte, wie der Reddit-Nutzer vorschlug, sich aber schließlich dagegen entschied, weil eine reine Erläuterung des Gedankengangs über Mapping nicht geeignet wäre, um neuen Mappern die große Vielfalt der Mapping-Konzepte näher zu bringen. Stattdessen entschied er sich, eine Videoserie zu starten, in der sich jede Folge auf ein bestimmtes Konzept konzentriert und dessen Verwendung und Bedeutung gesondert untersucht wird.
+osu!mapping begann als eine Reaktion auf einen [Reddit-Beitrag](https://www.reddit.com/r/osugame/comments/4upysl/request_for_mappers_of_this_sub/), mit der Aufforderung an Mapper, Videos mit Mapping-Kommentierung zu erstellen. Am 31.07.2016 lud pishifat das erste Video hoch: [osu!mapping: concepts](https://www.youtube.com/watch?v=oL3az8FhlB4). Im Video erklärt er, wie er die Kommentierung so erstellen wollte, wie der Reddit-Nutzer vorschlug, sich aber schließlich dagegen entschied, weil eine reine Erläuterung des Gedankengangs über Mapping nicht geeignet wäre, um neuen Mappern die große Vielfalt der Mapping-Konzepte näher zu bringen. Stattdessen entschied er sich dazu eine Videoserie zu starten, in der sich jede Folge auf ein bestimmtes Konzept konzentriert und dessen Verwendung und Bedeutung gesondert untersucht wird.
 
-Die Serie konzentrierte sich zunächst auf Lerninhalte, wurde aber nach einigen Monaten erweitert und umfasste nun auch Diskussionen über den  Zustand von Mapping und Modding, persönliche/meinungsstarke Kommentare und Interviews. Es wurden auch einige Forschungsprojekte in Form von osu!mapping-Videos vorgestellt, vor allem [eine Studie der Einflüsse von Mappern](https://www.youtube.com/watch?v=TigwDc5iOcw).
+Die Serie konzentrierte sich zunächst auf Lerninhalte, wurde aber nach einigen Monaten erweitert und umfasst nun auch Diskussionen über den Zustand von Mapping und Modding, persönliche/meinungsstarke Kommentare und Interviews. Es wurden auch einige Forschungsprojekte in Form von osu!mapping-Videos vorgestellt, vor allem [eine Studie der Einflüsse von Mappern](https://www.youtube.com/watch?v=TigwDc5iOcw).
 
 ## Episoden
 
