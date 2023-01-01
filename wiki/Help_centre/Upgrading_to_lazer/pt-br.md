@@ -43,6 +43,7 @@ A seguir segue uma lista completa do **estado atual** de lazer em comparação c
 | Funcionalidade | estável | lazer |
 | :-- | :-- | :-- |
 | Exibição correta de performance points | ![Partial][partial][^online] | ![Yes][true] |
+| Mod de Ajuste de dificuldade | ![No][false] | ![Yes][true][^difficulty-adjust] |
 | Pre-definição de mods | ![No][false] | ![Yes][true] |
 | Configuração por mod | ![No][false] | ![Yes][true] |
 | Novos mods "divertidos" | ![No][false] | ![Yes][true] |
@@ -188,13 +189,15 @@ Nós provavelmente traremos de volta o suporte para isso no futuro de acordo com
 
 Acima de uma certa marca não há motivo para rodar o jogo a uma taxa de frames mais alta. Lazer emprega várias novas tecnologias para se garantir que a menor latência seja atingível sem precisar de altas taxa de frames. Isso irá continuar melhorando com o passar do tempo e ainda temos algumas melhorias faltando para implementar.
 
-Lazer registra entradas a 1000Hz sem relação ao limitador de FPS, que é o porque o limite máximo da configuração também limite a 1000 FPS.
+Lazer registra entradas a 1,000Hz sem relação ao limitador de FPS, que é o porque o limite máximo da configuração também limite a 1,000 FPS.
 
 Se vocês está curioso sobre como isso afeta a latência da entrada e quer testar a sua própria percepção, por favor execute o "certificador de latência" imbutido na base das configurações.
 
-#### Se a entrada é registrada apenas a 1000Hz, e sobre meu mouse gamer de 8000Hz?
+Você pode [ler também esse documento técnico](https://github.com/ppy/osu/wiki/Latency-and-unlimited-frame-rates) explicando o caminho que estamos seguindo juntamente com a base lógica por trás disso.
 
-O sistema operacional ainda vai registrar a essa taxa maior, entretanto os benefícios são certo de serem imperceptíveis. Registrar a altas taxas podem ter resultados imprevistos, e nós recomendamos limitar os dispositivos a 1000Hz para estabilidade do sistema.
+#### Se a entrada é registrada apenas a 1,000Hz, e sobre meu mouse gamer de 8,000Hz?
+
+O sistema operacional ainda vai registrar a essa taxa maior, entretanto os benefícios são certo de serem imperceptíveis. Registrar a altas taxas podem ter resultados imprevistos, e nós recomendamos limitar os dispositivos a 1,000Hz para estabilidade do sistema.
 
 #### Lazer roda pior do que o estável para mim. Por que?
 
@@ -282,6 +285,7 @@ Você provavelmente está pensando em outro jogo.
 [^countdown-timers-stable]: Definir uma contagem regressiva usando vírgula, em começo automático.
 [^countdown-timers-lazer]: Definir uma contagem regressiva para o UI do jogo para automaticamente começar a partida.
 [^queue-modes]: Habilitar para qualquer um no lobby possa adicionar novos mapas para a fila, mais conhecido como "host rotate".
+[^difficulty-adjust]: Muda o CS/AR/OD/HP de um beatmap diretamente da seleção de música.
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png
