@@ -44,6 +44,7 @@ Ce qui suit est une liste complète de l'**état actuel** de lazer par rapport �
 | Fonctionnalité | stable | lazer |
 | :-- | :-- | :-- |
 | Affichage précis des points de performance | ![Partiellement][partial][^online] | ![Oui][true] |
+| Ajustement de la difficulté de mods | ![Non][false] | ![Oui][true][^difficulty-adjust] |
 | Préréglages de mods | ![Non][false] | ![Oui][true] |
 | Paramètres par mod | ![Non][false] | ![Oui][true] |
 | Nouveaux mods "amusants" | ![Non][false] | ![Oui][true] |
@@ -189,13 +190,15 @@ Nous allons probablement rétablir cette fonctionnalité à l'avenir en raison d
 
 Au-delà d'un certain seuil, il n'y a aucune raison de fonctionner à des fréquences d'images plus élevées. Lazer utilise diverses nouvelles technologies pour s'assurer que la latence la plus faible possible soit atteinte sans nécessiter des fréquences d'images élevées. Cela continuera à s'améliorer à l'avenir, car il nous reste encore quelques améliorations à mettre en œuvre.
 
-Lazer prend en compte l'entrée à 1000 Hz indépendamment du limiteur de FPS, c'est pourquoi le réglage maximal du limiteur s'arrêtera également à 1000 FPS.
+Lazer prend en compte l'entrée à 1 000 Hz indépendamment du limiteur de FPS, c'est pourquoi le réglage maximal du limiteur s'arrêtera également à 1 000 FPS.
 
 Si vous êtes curieux de savoir comment cela affecte la latence d'entrée et de tester votre propre perception, veuillez exécuter le "certificateur de latence" intégré en bas des paramètres.
 
+Vous pouvez également [lire ce document technique] (https://github.com/ppy/osu/wiki/Latency-and-unlimited-frame-rates) qui explique la voie que nous empruntons et le raisonnement qu'elle implique.
+
 #### Si l'entrée n'est prise en compte qu'à 1000 Hz, qu'en est-il de ma souris gaming à 8000 Hz ?
 
-Le système d'exploitation continuera à prendre en compte à un taux plus élevé, bien que les avantages s'avèrent être négligeables. Le rafraîchissement à des taux aussi élevés peut avoir des surcharges imprévues, et nous recommandons de limiter les périphériques à 1000 Hz pour la stabilité du système.
+Le système d'exploitation continuera à prendre en compte à un taux plus élevé, bien que les avantages s'avèrent être négligeables. Le rafraîchissement à des taux aussi élevés peut avoir des surcharges imprévues, et nous recommandons de limiter les périphériques à 1 000 Hz pour la stabilité du système.
 
 #### Lazer se comporte moins bien que stable pour moi. Que se passe-t-il ?
 
@@ -283,6 +286,7 @@ Vous pensez probablement à un autre jeu.
 [^countdown-timers-stable]: Définir un compte à rebours à l'aide d'une commande, pas de démarrage automatique.
 [^countdown-timers-lazer]: Définissez un compte à rebours depuis l'UI du jeu pour lancer automatiquement le match.
 [^queue-modes]: Activez cette option pour permettre à n'importe qui dans un lobby de mettre en file d'attente de nouvelles beatmaps, alias "rotation de l'hôte".
+[^difficulty-adjust]: Changez le CS/AR/OD/HP d'une beatmap directement depuis la sélection des beatmaps.
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png
