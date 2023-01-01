@@ -48,7 +48,7 @@ Berikut merupakan para pemenang [MWC 4K 2022](/wiki/Tournaments/MWC/2022_4K) yan
 - ::{ flag=KR }:: [Poca](https://osu.ppy.sh/users/8581031)
 - ::{ flag=KR }:: [SuddenDeath](https://osu.ppy.sh/users/6699923)
 - ::{ flag=KR }:: [SnowScent](https://osu.ppy.sh/users/7945868)
-- 
+
 Berikut merupakan para pemenang [MWC 7K 2022](/wiki/Tournaments/MWC/2022_7K) yang saat ini menyandang gelar **osu!mania 7K Champion**:
 
 - ::{ flag=KR }:: [0133](https://osu.ppy.sh/users/12346181)
