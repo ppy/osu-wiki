@@ -18,9 +18,9 @@
 
 :::
 
-**osu! University** ist ein [Discord-Server](https://discord.com) mit Schwerpunkt auf der Diskussion über Verbesserungen, hauptsächlich im [osu!-Spielmodus](/wiki/Game_mode/osu!). Es werden regelmäßig verschiedene Events wie Interviews mit Spitzenspielern und [Turniere](/wiki/Tournaments) veranstaltet sowie Studien zur Optimierung durchgeführt und der Server ist auch bekannt dafür, kostenpflichtige Coaching-Dienste anzubieten.
+**osu! University** ist ein [Discord-Server](https://discord.com) mit Schwerpunkt auf Diskussion über Verbesserung, hauptsächlich im [osu!-Spielmodus](/wiki/Game_mode/osu!). Es werden regelmäßig verschiedene Events wie Interviews mit Spitzenspielern und [Turniere](/wiki/Tournaments) veranstaltet sowie Studien zur Optimierung durchgeführt und der Server ist auch bekannt dafür, kostenpflichtige Coaching-Dienste anzubieten.
 
-Der Server beherbergt auch den Platz für die Entwicklung, das Testen und den Support des Programms [Rewind](https://osu.ppy.sh/community/forums/topics/1451845), das ein Tool zur Analyse von [Replays](/wiki/Gameplay/Replay) ist.
+Der Server beherbergt auch den Platz für die Entwicklung, das Testen und den Support der Anwendung [Rewind](https://osu.ppy.sh/community/forums/topics/1451845), ein Tool zur Analyse von [Replays](/wiki/Gameplay/Replay).
 
 ## Personal
 

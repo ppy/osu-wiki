@@ -1,6 +1,6 @@
 # Discord-Server
 
-Indexseite für alle Artikel über [Discord-Server](https://discord.com/) aus der Community.
+Indexseite für alle Artikel über [Discord-Server](https://discord.com/) der Community.
 
 - [osu! Medal Hunters](osu!_Medal_Hunters)
 - [osu! University](osu!_University)

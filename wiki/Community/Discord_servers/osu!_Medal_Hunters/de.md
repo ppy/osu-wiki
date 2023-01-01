@@ -24,7 +24,7 @@ tags:
 
 *Hinweis: Die Zusammenarbeit bei der Suche nach Hush-Hush-Medaillen ist zwar erwünscht, aber es ist auch möglich, sie allein zu finden. Beachte, dass der Server Lösungen für Hush-Hush-Medaillen enthält.*
 
-**osu! Medal Hunters** ist der primär von der Medaillenjäger-Community genutzte [Discord-Server](https://discord.com), in dem Leute über  [Medaillen](/wiki/Medals) und [ihre Lösungen](/wiki/Medals/Unlock_requirements) diskutieren.
+**osu! Medal Hunters** ist der primär von der Medaillenjäger-Community genutzte [Discord-Server](https://discord.com), in dem Leute über [Medaillen](/wiki/Medals) und [ihre Lösungen](/wiki/Medals/Unlock_requirements) diskutieren.
 
 Viele Medaillenjäger arbeiten zusammen, um Lösungen für jede neue Hush-Hush-Medaille zu finden, die dem Spiel hinzugefügt wird. Jedes Mal, wenn neue Medaillen veröffentlicht werden, werden sie von einem der Server-Mitarbeiter angekündigt, Threads werden für jede Medaille erstellt und Leute arbeiten zusammen, um die Lösungen zu finden.
 
