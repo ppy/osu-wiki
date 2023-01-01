@@ -43,6 +43,7 @@ Sau đây là bảng so sánh **trạng thái hiện tại** của lazer so vớ
 | Tính năng | ổn định | lazer |
 | :-- | :-- | :-- |
 | Hiển thị điểm hiệu suất chính xác | ![Có một phần][partial][^online] | ![Có][true] |
+| Mod điều chỉnh độ khó | ![Không][false] | ![][true][^difficulty-adjust] |
 | Các mod cài đặt trước | ![Không][false] | ![Có][true] |
 | Các cài đặt mod | ![Không][false] | ![Có][true] |
 | Các mod "vui" | ![Không][false] | ![Có][true] |
@@ -188,13 +189,15 @@ Chúng tôi có thể sẽ hỗ trợ trở lại tính năng này trong tương
 
 Trên một ngưỡng nhất định, không có lý do gì để chạy ở tốc độ khung hình cao hơn. Lazer sử dụng nhiều công nghệ mới khác nhau để đảm bảo có thể đạt được độ trễ thấp nhất mà không yêu cầu tốc độ khung hình cao. Điều này sẽ tiếp tục cải thiện trong tương lai vì chúng tôi vẫn còn một số cải tiến cần thực hiện.
 
-Tần suất poll input của Lazer được đặt ở 1000 Hz bất kể mức giới hạn FPS, đó là lý do tại sao thiết lập mức giới hạn tối đa cũng sẽ giới hạn ở 1000 FPS.
+Tần suất poll input của Lazer được đặt ở 1,000 Hz bất kể mức giới hạn FPS, đó là lý do tại sao thiết lập mức giới hạn tối đa cũng sẽ giới hạn ở 1,000 FPS.
 
 Nếu bạn tò mò về cách điều này ảnh hưởng đến độ trễ đầu vào và muốn kiểm tra nhận thức của mình, vui lòng chạy "trình xác nhận độ trễ" tích hợp ở cuối mục cài đặt.
 
-#### Nếu input chỉ được poll ở 1000 Hz, vậy còn con chuột chơi game 8000 Hz của tôi thì sao?
+Bạn cũng có thể [đọc tài liệu kỹ thuật này](https://github.com/ppy/osu/wiki/Latency-and-unlimited-frame-rates), nó giải thích phương pháp của chúng tôi cùng với lí do đằng sau nó.
 
-Hệ điều hành sẽ vẫn poll ở tỷ lệ cao hơn, mặc dù lợi ích được chứng minh là không đáng kể. Việc poll ở tốc độ cao như vậy có thể gây ra các overhead không lường trước được và chúng tôi khuyên bạn nên giới hạn các thiết bị ở tần suất 1000 Hz để hệ thống ổn định.
+#### Nếu input chỉ được poll ở 1,000 Hz, vậy còn con chuột chơi game 8,000 Hz của tôi thì sao?
+
+Hệ điều hành sẽ vẫn poll ở tỷ lệ cao hơn, mặc dù lợi ích được chứng minh là không đáng kể. Việc poll ở tốc độ cao như vậy có thể gây ra các overhead không lường trước được và chúng tôi khuyên bạn nên giới hạn các thiết bị ở tần suất 1,000 Hz để hệ thống ổn định.
 
 #### Lazer hoạt động kém hơn ổn định đối với tôi. Tại sao?
 
@@ -282,6 +285,7 @@ Có vẻ như bạn đang nghĩ về một trò chơi khác.
 [^countdown-timers-stable]: Đặt đếm ngược bằng lệnh, không bắt đầu tự động.
 [^countdown-timers-lazer]: Đặt bộ đếm ngược từ giao diện người dùng trò chơi để tự động bắt đầu trận đấu.
 [^queue-modes]: Bật để cho phép bất kỳ ai trong phòng "xếp hàng" beatmap, hay còn gọi là "xoay tua chủ phòng" (host rotate).
+[^difficulty-adjust]: Thay đổi trực tiếp CS/AR/OD/HP của một beatmap từ nơi chọn bài hát.
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png
