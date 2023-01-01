@@ -107,6 +107,24 @@ For those who might've missed it, don't worry! The team broadcasted most, if not
 
 With that said, congratulations to everyone who participated in and helped with the project! If you're interested in joining future tournaments, please don't be afraid to join their [Discord server](https://discord.gg/SPQtt3s).
 
+### Artist of the Year
+
+![](/wiki/shared/news/2023-01-01-osumonthly-6/dreamxiety-banner.jpg)
+
+For the entire year, there has been only one holder for first place in the art contests, which is none other than [Dreamxiety](https://osu.ppy.sh/users/13103233)!
+
+Striking the osu! community with 4 amazing and professional-grade artworks for each of the osu! community fanart contests this year. It is without a doubt that her work captivated the hearts of not just the osu! community but the very essence of what osu! means.
+
+We all know art is subjective and each person has their opinions on the piece, yet when the artist wins first place in 4 different contests, it is hard to say that it is completely subjective. Dreamxiety creates her works with charm and detail that is found in those that truly love what they do, whether it be for the community, personal, or work-related means.
+
+Maintaining the same consistency throughout the contests is nothing but paramount to their dedication, poise, and desire to further themself and the rest of the community.
+
+However, contests don't mean anything unless there is a competition to be had — and competition that there was. Even though Dreamxiety created beautiful artwork, it is not without the rest of the artists, whether they were veterans or completely new to the scene, that they could have shone so well. With each new contest, the artists constantly stepped up their work creating higher quality, eye-catching works for the audience to sit and admire.
+
+If you haven't seen their work, maybe it's time to turn the "Seasonal Background" option on! For those who are interested in Dreamxiety's process of drawing the artwork, you can check it here below:
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/8EXTtdVNRT4" frameborder="0" allowfullscreen></iframe>
+
 ### Notable osu! plays of the year
 
 What better way to start this year's recap than with one, if not the best score by [worst hr player](https://osu.ppy.sh/users/14106450)? An insane [FC](https://osu.ppy.sh/scores/osu/4205034675) on [Nexta](https://osu.ppy.sh/beatmapsets/716079#osu/1902818) by Lapix, an extraordinary tech beatmap requiring a perfect mastery of aim and an incredible consistency. They gave us an eyeful with this almost perfect score showing us at the same time the extent of his talent.
@@ -270,11 +288,11 @@ For anyone who missed last month's edition, the question was:
 
 *"What turbulent seas does Bancho sail through in order to deliver your messages?"*
 
-and the answer was: *cho.ppy.sh*. Get it, choppy as in turbulent? As terrible as this pun was, it was enough for squidstain to answer correctly and acquire themselves a free month of osu!supporter. A lot of you had very creative answers and we hope to see that level creativity continue with this month's question, courtesy of our trivia master [chromb](https://osu.ppy.sh/users/10238680) and one of the trivia champs themselves, squidstain:
+and the answer was: *cho.ppy.sh*. Get it, choppy as in turbulent? As terrible as this pun was, it was enough for squidstain to answer correctly and acquire themselves a free month of osu!supporter. A lot of you had very creative answers and we hope to see that level creativity continue with this month's question, courtesy of our trivia master [chromb](https://osu.ppy.sh/users/10238680) and one of the trivia champs themselves (and previous month's winner), squidstain:
 
 **BYEAH (placeholder)**
 
-When we showed this question to Ephemeral (the osu! community manager), they liked it so much both due to the difficulty and creativity, that they have decided to grace the first person to correctly answer with **3 months of osu!supporter!**
+When we showed this question to [Ephemeral](https://osu.ppy.sh/users/102335) (the osu! community manager), they liked it so much both due to the difficulty and creativity, that they have decided to grace the first person to correctly answer with **3 months of osu!supporter!**
 
 Same rules apply, you have exactly 1 month after this news post goes up (or until the next news post is up, depending on the timing) to provide a correct answer via a comment, if no correct answer is provided by that time we will reveal the answer in the next edition and the prize will no longer be claimable. Good luck!
 
@@ -288,4 +306,4 @@ Same rules apply, you have exactly 1 month after this news post goes up (or unti
 
 As always, thank you for reading this month's edition of osu!monthly. We hope that 2022 treated you well and that the new year brings even more splendors. If you have any questions, comments, concerns, or want to contribute don't hesitate to say something in the osu!dev discord. We thank you for an amazing reponse for half of the year and we hope this continues on for many more, it is not without you all creating community content that this cannot happen. Thank you, thank you, thank you!
 
-—0x84f, Blushing, ianpep, Patatitta, Pisapou, RandomeLoL, Xahlt
+—0x84f, Blushing, ianpep, Patatitta, Pisapou, RandomeLoL, Wowcake, Xahlt
