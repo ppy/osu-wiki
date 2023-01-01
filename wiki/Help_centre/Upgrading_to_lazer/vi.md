@@ -197,7 +197,7 @@ Bạn cũng có thể [đọc tài liệu kỹ thuật này](https://github.com/
 
 #### Nếu input chỉ được poll ở 1,000 Hz, vậy còn con chuột chơi game 8,000 Hz của tôi thì sao?
 
-Hệ điều hành sẽ vẫn poll ở tỷ lệ cao hơn, mặc dù lợi ích được chứng minh là không đáng kể. Việc poll ở tốc độ cao như vậy có thể gây ra các overhead không lường trước được và chúng tôi khuyên bạn nên giới hạn các thiết bị ở tần suất 1,000 Hz để hệ thống ổn định.
+Hệ điều hành sẽ vẫn poll ở tần suất cao hơn, mặc dù lợi ích được chứng minh là không đáng kể. Việc poll ở tốc độ cao như vậy có thể gây ra các overhead không lường trước được và chúng tôi khuyên bạn nên giới hạn các thiết bị ở tần suất 1,000 Hz để hệ thống ổn định.
 
 #### Lazer hoạt động kém hơn ổn định đối với tôi. Tại sao?
 
