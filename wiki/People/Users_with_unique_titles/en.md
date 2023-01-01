@@ -10,7 +10,6 @@ Winners of [OWC 2022](/wiki/Tournaments/OWC/2022) with the **osu! Champion** use
 
 - ::{ flag=US }:: [BoshyMan741](https://osu.ppy.sh/users/4830687)
 - ::{ flag=US }:: [Decaten](https://osu.ppy.sh/users/5645231)
-- ::{ flag=US }:: [Exarch](https://osu.ppy.sh/users/5370153)
 - ::{ flag=US }:: [im a fancy lad](https://osu.ppy.sh/users/4908650)
 - ::{ flag=US }:: [Monko2k](https://osu.ppy.sh/users/4852013)
 - ::{ flag=US }:: [Rektygon](https://osu.ppy.sh/users/7813296)
