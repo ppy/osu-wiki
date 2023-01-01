@@ -37,7 +37,7 @@ The osu!mania 7K World Cup 2023 offers a minimum $1,200 cash prize pool and limi
 
 ## Organisation
 
-The osu!mania 7K 2023 is run by the osu! team and various community members.
+The osu!mania 7K World Cup 2023 is run by the osu! team and various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
