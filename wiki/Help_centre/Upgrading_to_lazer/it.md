@@ -43,6 +43,7 @@ Di seguito verrà rappresentata una lista dello **stato attuale** di lazer in co
 | Funzionalità | stable | lazer |
 | :-- | :-- | :-- |
 | Visualizzazione accurata dei punti performance | ![Partial][partial][^online] | ![Yes][true] |
+| Modifica difficoltà mod | ![No][false] | ![Yes][true][^difficulty-adjust] |
 | Preimpostazioni per le mod | ![No][false] | ![Yes][true] |
 | Impostazioni per-mod | ![No][false] | ![Yes][true] |
 | Nuove mods "per divertimento" | ![No][false] | ![Yes][true] |
@@ -192,9 +193,11 @@ Lazer prende l'input a 1000Hz indipendentemente dal limitatore di FPS, che è an
 
 Se siete curiosi di sapere come questo influisce sulla latenza in ingresso e di verificare la vostra percezione, eseguite il "Run latency certifier" integrato in fondo alle impostazioni.
 
-#### Se il polling dell'input viene eseguito solo a 1000 Hz, che ne è del mio mouse da gioco a 8000 Hz?
+You can also [read this technical document](https://github.com/ppy/osu/wiki/Latency-and-unlimited-frame-rates) explaining the path we are taking along with rationale behind it.
 
-Il sistema operativo continuerà a eseguire il polling alla frequenza più alta possibile, anche se i vantaggi sono trascurabili. Il polling a velocità così elevate può comportare richiesta di potenza aggiuntiva  e si consiglia di limitare le proprie periferiche a 1000 Hz per garantire una esperienza stabile.
+#### Se il polling dell'input viene eseguito solo a 1000 Hz, cosa succede al mio mouse da gioco a 8000 Hz?
+
+Il sistema operativo continuerà a eseguire il polling alla frequenza più alta possibile, anche se i vantaggi sono trascurabili. Il polling a potenza così elevata può comportare richiesta di potenza aggiuntiva e si consiglia di limitare le proprie periferiche a 1000 Hz per garantire la stabilità.
 
 #### Lazer performa peggio di stable per me. Che succede?
 
@@ -278,6 +281,7 @@ Probabilmente stai pensando ad un altro gioco.
 [^countdown-timers-stable]: Impostare un conto alla rovescia usando un comando, senza avvio automatico.
 [^countdown-timers-lazer]: Imposta un conto alla rovescia dall'interfaccia utente del gioco per avviare automaticamente la partita.
 [^queue-modes]: Attiva per consentire a chiunque in una lobby di mettere in coda nuove beatmap, anche detto "host rotate".
+[^difficulty-adjust]: Cambiare CS/AR/OD/HP di una beatmap direttamente dalla song select.
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png
