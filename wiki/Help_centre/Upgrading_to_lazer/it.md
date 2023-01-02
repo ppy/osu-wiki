@@ -193,7 +193,7 @@ Lazer prende l'input a 1000Hz indipendentemente dal limitatore di FPS, che è an
 
 Se siete curiosi di sapere come questo influisce sulla latenza in ingresso e di verificare la vostra percezione, eseguite il "Run latency certifier" integrato in fondo alle impostazioni.
 
-You can also [read this technical document](https://github.com/ppy/osu/wiki/Latency-and-unlimited-frame-rates) explaining the path we are taking along with rationale behind it.
+Potresti anche [leggere questo documento tecnico](https://github.com/ppy/osu/wiki/Latency-and-unlimited-frame-rates) spiegando il percorso che stiamo intraprendendo e le motivazioni dietro a questa decisione.
 
 #### Se il polling dell'input viene eseguito solo a 1000 Hz, cosa succede al mio mouse da gioco a 8000 Hz?
 
