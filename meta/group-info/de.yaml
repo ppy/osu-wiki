@@ -1,6 +1,3 @@
-outdated_since: 0522bc4c323f9a2b0c89a6b9582109a0608c6287
-outdated_translation: true
-
 separator: ", "
 alumni:
   roles:
@@ -25,11 +22,9 @@ gmt:
     wiki: Wiki-Administration
     mapping: Moderation der Mapping-/Modding-Community
 nat:
-  areas:
-    communication: Kommunikation
-    evaluation: Beurteilung
-    moderation: Moderation
-    structural: Strukturell
+  subgroups:
+    advisor: Berater
+    evaluator: Gutachter
 languages:
   partial: etwas <language>
   fil: Philippinisch
