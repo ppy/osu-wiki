@@ -48,13 +48,13 @@ El esfuerzo de desarrollo de osu! está liderado por ::{ flag=AU }:: **[peppy](h
 
 - ::{ flag=XX }:: [osu!team](https://osu.ppy.sh/users/4341397)
 
-### Colaboradores
+### Contribuidores
 
-Actualmente, los principales proyectos de osu! están alojados en GitHub y están disponibles para que cualquiera pueda colaborar. Estos son los usuarios que han colaborado significativamente a estos proyectos y han jugado un papel importante en su desarrollo.
+Actualmente, los principales proyectos de osu! están alojados en GitHub y están disponibles para que cualquiera pueda contribuir. Estos son los usuarios que han contribuido significativamente a estos proyectos y han jugado un papel importante en su desarrollo.
 
 #### osu!
 
-*Para obtener información detallada sobre las colaboraciones al proyecto de osu!, véase: [Colaboradores del repositorio `osu`](https://github.com/ppy/osu/graphs/contributors)*
+*Para obtener información detallada sobre las contribuciones al proyecto de osu!, véase: [Contribuidores del repositorio `osu`](https://github.com/ppy/osu/graphs/contributors)*
 
 - ::{ flag=CA }:: [DrabWeb](https://osu.ppy.sh/users/6946022)
 - ::{ flag=BY }:: [EVAST](https://osu.ppy.sh/users/8195163)
@@ -64,7 +64,7 @@ Actualmente, los principales proyectos de osu! están alojados en GitHub y está
 
 #### osu!framework
 
-*Para obtener información detallada sobre las colaboraciones al proyecto de osu!framework, véase: [Colaboradores del repositorio `osu-framework`](https://github.com/ppy/osu-framework/graphs/contributors)*
+*Para obtener información detallada sobre las contribuciones al proyecto de osu!framework, véase: [Contribuidores del repositorio `osu-framework`](https://github.com/ppy/osu-framework/graphs/contributors)*
 
 - ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502)
 - ::{ flag=CN }:: [huoyaoyuan](https://osu.ppy.sh/users/2428732)
@@ -74,7 +74,7 @@ Actualmente, los principales proyectos de osu! están alojados en GitHub y está
 
 #### osu!web
 
-*Para obtener información detallada sobre las colaboraciones al proyecto de osu!web, véase: [Colaboradores del repositorio `osu-web`](https://github.com/ppy/osu-web/graphs/contributors)*
+*Para obtener información detallada sobre las contribuciones al proyecto de osu!web, véase: [Contribuidores del repositorio `osu-web`](https://github.com/ppy/osu-web/graphs/contributors)*
 
 - ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350)
 - ::{ flag=ID }:: [GPR](https://osu.ppy.sh/users/10721349)
@@ -82,7 +82,7 @@ Actualmente, los principales proyectos de osu! están alojados en GitHub y está
 - ::{ flag=PL }:: [LiquidPL](https://osu.ppy.sh/users/5044384)
 - ::{ flag=PL }:: [TPGPL](https://osu.ppy.sh/users/3944705)
 
-## Colaboradores retirados
+## Contribuidores retirados
 
 A continuación se enumeran los usuarios que abandonaron los esfuerzos de desarrollo en curso y siguieron adelante.
 
