@@ -24,7 +24,8 @@ The NAT is responsible for a variety of mapping-related tasks, with each NAT mem
 Members of the **evaluator** subgroup are primarily responsible for:
 
 - **Evaluation:** Evaluating the proficiency and activity of both current Beatmap Nominators and applicants. *See [Evaluations](/wiki/People/The_Team/Nomination_Assessment_Team/Evaluations) for more details.*
-- **Modding:** Modding at least 3 beatmaps per month. This helps evaluators keep up to date with the mapping/modding community when evaluating current and aspiring Beatmap Nominators.
+- **Nominating:** Nominating at least 2 beatmaps per month. This helps evaluators keep up to date with the mapping/modding community when evaluating current and aspiring Beatmap Nominators.
+  - Modding activity and other contributions may be used as a backup metric when evaluating activity.
 
 Evaluators are in high demand due to the sheer volume of [BN applications](/wiki/People/The_Team/Beatmap_Nominators/Becoming_a_Beatmap_Nominator). They, unlike advisors, therefore occasionally look for new members to join them and help ease the workload. This is why BNs who wish to join the NAT are primarily judged based on their ability to evaluate, and most NAT members join and stay as evaluators.
 
@@ -38,7 +39,7 @@ As a group, **advisors** are required to maintain:
 - **Miscellaneous maintenance:** Included but not limited to:
   - Handling vetoes.
   - Maintaining the [RC Test](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test).
-  - Judging nomination reset severity.
+  - Judging nomination reset [severity](SEV_rating).
 
 Advisors make sure that BNs and other members of the mapping/modding community remain informed and feel heard, in addition to maintaining the components required to keep everything running in the mapping/modding scene. Advisors are generally made up of experienced evaluators that prefer to focus on managerial matters regarding the mapping/modding scene.
 
