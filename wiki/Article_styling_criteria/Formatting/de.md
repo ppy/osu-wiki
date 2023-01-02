@@ -816,7 +816,7 @@ Beispielverwendung, auf der rechten Seite sichtbar:
 Infoboxen sollten in den folgenden Fällen mit Vorsicht genutzt werden:
 
 - Kurze Abschnitte: Die Überschrift der nächsten Sektion erscheint unter jeder Infobox, wodurch eine große Lücke nach dem Text entsteht.
-- Mehrere Bilder auf einmal: benutze stattdessen einzelne Infoboxen für ein besseres Design.
+- Mehrere Bilder auf einmal: Benutze stattdessen einzelne Infoboxen für ein besseres Design.
 
 ## Fußnoten
 
