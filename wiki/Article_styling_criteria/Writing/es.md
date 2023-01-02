@@ -2,9 +2,9 @@
 no_native_review: true
 ---
 
-# Escritura
+# Redacción
 
-*Para los estándares de formato, véase: [Criterios de estilo del artículo/Formato](../Formatting)*\
+*Para los estándares de formato, véase: [Criterios de estilo para artículos/Formato](../Formatting)*\
 *Aviso: Este artículo utiliza [RFC 2119](https://tools.ietf.org/html/rfc2119) para describir los niveles de exigencia.*
 
 Este artículo se refiere a los estándares de escritura del español. Consulte la versión en inglés de esta página para conocer los estándares de escritura de los artículos en inglés.
