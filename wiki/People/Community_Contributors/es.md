@@ -6,7 +6,7 @@ no_native_review: true
 
 ![Medalla de colaborador](/wiki/shared/contributor.jpg "Medalla de colaborador")
 
-Los **colaboradores de la comunidad** son las personas que se han encargado de brindar servicio a la comunidad de osu! a un gran costo para ellos mismos: herramientas y características que muchos de nosotros damos por sentado hoy. Estos usuarios reciben una insignia para indicar que hicieron algo notable para toda la comunidad.
+Los **colaboradores de la comunidad** son aquellas personas que, a un gran coste para sí mismas, se han encargado de proporcionar servicios a la comunidad de osu!, creando herramientas y funcionalidades que muchos de nosotros damos por sentado hoy. Estos usuarios reciben una insignia para indicar que hicieron algo notable para toda la comunidad.
 
 No debe confundirse con [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), que son antiguos miembros de varios equipos de osu! que se retiraron, las insignias de colaborador de la comunidad se conceden a los colaboradores públicos que han ido más allá de la llamada del deber para mejorar osu! y el entorno de la comunidad.
 
