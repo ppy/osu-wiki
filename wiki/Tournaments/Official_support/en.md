@@ -187,7 +187,7 @@ We have historically had issues where unscrupulous organisers have geared tourna
 
 ### Can a player who has been eliminated from play in my tournament join the staff after the fact and not cause problems? {#player-join-staff}
 
-Yes. Players who have been eliminated from a tournament may be enlisted as staff to assist as a referee, mappool selector, custom mapper, and/or a playtester.
+Yes. Players who have been eliminated from a tournament may be enlisted as staff to assist to assist in any non-managerial position.
 
 ### If a user has not yet played any matches, can they join the staff? {#no-play-join-staff}
 
