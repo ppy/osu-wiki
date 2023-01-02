@@ -7,7 +7,7 @@ tags:
 
 osu!(lazer) é a próxima principal atualização para o jogo. É o fruto de vários anos de trabalho nos bastidores para meticulosamente reimplementar o jogo.
 
-O objetivo final é que esta versão seja lançada como uma atualização que irá substituir completamente a versão estável existente, mas ainda há algum trabalho a ser feito antes que isso seja possível. No fim das contas, **os jogadores** irão ditar quando isso acontecerá e nós iremos continuar a dar suporte para a versão anterior até que os jogadores tenham migrado de versão.
+O objetivo final é que esta versão seja lançada como uma atualização que irá substituir completamente a versão estável existente do jogo, mas ainda há algum trabalho a ser feito antes que isso seja possível. No fim das contas, **os jogadores** irão ditar quando isso acontecerá e nós iremos continuar a dar suporte para a versão anterior até que os jogadores tenham migrado.
 
 "lazer" é um codinome e será eventualmente descartado uma vez que se torne a principal versão do jogo. O restante deste documento irá se referir a osu!(lazer) como "lazer" e osu!(estável) como "estável" para simplificar.
 
