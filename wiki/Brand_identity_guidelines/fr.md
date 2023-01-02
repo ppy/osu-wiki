@@ -2,7 +2,7 @@
 
 Les directives d'identité de marque sont un ensemble de normes pour les projets liés à osu! Toute utilisation ne nécessite pas d'approbation.
 
-[Téléchargez le kit de conception ici.](https://drive.google.com/file/d/1TmUot5nu49p71icz4u3G68njLAQOeQrG/view?usp=sharing) Le kit de conception lié contient quelques actifs périmés. Notez également que le PDF inclus est obsolète et que cette page doit être utilisée à la place.
+[Téléchargez le kit de conception ici](https://drive.google.com/file/d/1TmUot5nu49p71icz4u3G68njLAQOeQrG/view). Le kit de conception lié contient quelques actifs périmés. Notez également que le PDF inclus est obsolète et que cette page doit être utilisée à la place.
 
 ## osu!
 

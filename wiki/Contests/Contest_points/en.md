@@ -39,11 +39,15 @@ Contest points have been used in the following contests:
 
 | User | Points |
 | :-- | :-- |
-| ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) | 3 |
+| ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) | 6 |
+| ::{ flag=TH }:: [Kusuhara Yui](https://osu.ppy.sh/users/9582525) | 5 |
 | ::{ flag=FI }:: [Jaltzu](https://osu.ppy.sh/users/2597417) | 2 |
-| ::{ flag=TH }:: [Kusuhara Yui](https://osu.ppy.sh/users/9582525) | 2 |
+| ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) | 2 |
+| ::{ flag=SG }:: [_gt](https://osu.ppy.sh/users/8301957) | 2 |
 | ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097) | 1 |
 | ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719) | 1 |
+| ::{ flag=KR }:: [woosungko](https://osu.ppy.sh/users/14184157) | 1 |
+| ::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438) | 1 |
 
 ### osu!catch
 
