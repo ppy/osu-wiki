@@ -1,10 +1,10 @@
 # ScoreV1 (osu!)
 
-*See also: [Julgamento dos hit objects do osu!](/wiki/Gameplay/Judgement/osu!)*
+*Veja também: [Julgamento dos hit objects](/wiki/Gameplay/Judgement/osu!)*
 
 No **ScoreV1**, cada tipo de objeto no osu! é pontuado de forma ligeiramente diferente. Porém, a pontuação total é uma simples soma de pontos atribuídos para cada objeto individualmente no beatmap.
 
-As regras para pontuação de cada tipo de objeto individualmente está descrito abaixo.
+As regras para pontuação de cada tipo de objeto estão descritas individualmente abaixo.
 
 ## Hit circles
 
