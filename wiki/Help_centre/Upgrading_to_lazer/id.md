@@ -204,7 +204,7 @@ Sistem operasi kamu akan tetap mengambil input pada frekuensi yang lebih tinggi,
 
 Walaupun secara umum lazer memiliki performa yang lebih baik dari stable, terdapat beberapa konfigurasi hardware tertentu yang belum memungkinkan lazer untuk berjalan secara optimal. Dalam waktu dekat, kami berencana untuk memecahkan masalah ini dengan menghadirkan dukungan API DirectX (atau yang dikenal pada stable dengan istilah "compatibility mode") dan Vulkan pada lazer. Kedua API ini memiliki dukungan lintas hardware yang lebih baik dibanding OpenGL dan dapat meningkatkan performa lazer pada hardware dengan chipset Intel yang terintegrasi.
 
-### Pemberian tanggapan
+### Memberikan tanggapan
 
 #### Fitur yang selama ini sering saya gunakan belum ada di lazer! / Saya tidak menyukai perubahan yang ada! / Saya menemukan bug. Ke mana saya harus melapor?
 
