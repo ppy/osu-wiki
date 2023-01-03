@@ -146,7 +146,7 @@ Skor yang dicetak pada lazer saat ini telah memiliki perhitungan pp-nya tersendi
 
 #### Apakah lazer menggunakan sistem ScoreV2?
 
-Lazer menggunakan sistem perhitungan skor khusus yang serupa (namun tidak sama) dengan ScoreV2. Sistem ini masih berada dalam tahap pengembangan, dan kami akan sangat menghargai segala masukan yang terkait dengan penerapan sistem ini baik itu dalam mode solo, playlist, multiplayer, ataupun yang lainnya.
+Lazer menggunakan sistem perhitungan skor khusus yang serupa (namun tidak sama) dengan ScoreV2. Sistem ini masih berada dalam pengembangan, dan kami masih menerima segala masukan terkait dengan penerapan sistem ini baik itu dalam permainan solo, playlist, multiplayer, ataupun yang lainnya.
 
 <!-- lint ignore no-heading-punctuation -->
 
@@ -198,7 +198,7 @@ Kamu juga dapat membaca [dokumen teknis ini](https://github.com/ppy/osu/wiki/Lat
 
 #### Apabila input yang osu! ambil terbatas hanya pada 1000 Hz, apa yang akan terjadi dengan input yang masuk dari mouse gaming 8000 Hz milik saya?
 
-Sistem operasi kamu akan tetap mengambil input pada frekuensi yang lebih tinggi, walaupun perbedaannya tidak akan terlihat. Berhubung frekuensi input yang berlebihan dapat menyebabkan berbagai masalah yang tidak diinginkan, kami menyarankanmu untuk membatasi frekuensi inputmu pada 1000 Hz.
+Sistem operasi kamu akan tetap mengambil input pada frekuensi yang lebih tinggi, walaupun perbedaan yang ada tidak akan terasa. Berhubung frekuensi input yang berlebihan dapat menyebabkan berbagai masalah yang tidak diinginkan, kami menyarankanmu untuk membatasi frekuensi inputmu pada 1000 Hz.
 
 #### Performa lazer saya lebih buruk dari stable. Apa penyebabnya?
 
