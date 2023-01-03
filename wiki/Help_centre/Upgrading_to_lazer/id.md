@@ -44,6 +44,7 @@ Berikut merupakan daftar berbagai hal yang membedakan versi lazer **saat ini** d
 | Fitur | stable | lazer |
 | :-- | :-- | :-- |
 | Tampilan performance point yang akurat | ![Parsial][partial][^online] | ![Ya][true] |
+| Mod pengatur kesulitan | ![Tidak][false] | ![Ya][true][^difficulty-adjust] |
 | Preset mod | ![Tidak][false] | ![Ya][true] |
 | Pengaturan khusus per mod | ![Tidak][false] | ![Ya][true] |
 | Mod "fun" baru | ![Tidak][false] | ![Ya][true] |
@@ -193,9 +194,11 @@ Lazer akan selalu mengambil input dalam rentang 1000 Hz terlepas dari batasan FP
 
 Apabila kamu ingin merasakan sendiri perbedaan jeda input yang ada antara berbagai FPS, kamu dapat menjalankan program "Latency Certifier" yang terdapat pada menu pengaturan.
 
+Kamu juga dapat membaca [dokumen teknis ini](https://github.com/ppy/osu/wiki/Latency-and-unlimited-frame-rates) yang menjelaskan mengapa dan atas dasar apa kami memasang batasan FPS pada lazer.
+
 #### Apabila input yang osu! ambil terbatas hanya pada 1000 Hz, apa yang akan terjadi dengan input yang masuk dari mouse gaming 8000 Hz milik saya?
 
-Sistem operasi kamu akan tetap mengambil input pada frekuensi yang lebih tinggi, namun kamu tidak akan dapat merasakan perbedaan yang ada. Berhubung frekuensi input yang berlebihan dapat menyebabkan berbagai masalah yang tidak diinginkan, kami menyarankanmu untuk membatasi frekuensi inputmu pada 1000 Hz.
+Sistem operasi kamu akan tetap mengambil input pada frekuensi yang lebih tinggi, walaupun perbedaannya tidak akan terlihat. Berhubung frekuensi input yang berlebihan dapat menyebabkan berbagai masalah yang tidak diinginkan, kami menyarankanmu untuk membatasi frekuensi inputmu pada 1000 Hz.
 
 #### Performa lazer saya lebih buruk dari stable. Apa penyebabnya?
 
@@ -221,7 +224,7 @@ Di balik kesederhanaannya, osu! tidak akan dapat berjalan tanpa dukungan berbaga
 
 Hal lainnya yang menjadi bahan pertimbangan kami adalah kompatibilitas beatmap. Sebagai permainan yang membebaskan para penggunanya untuk berkarya, osu! saat ini memiliki beraneka ragam beatmap yang sebagian di antaranya dirancang secara tidak umum. Sebelum kami merilis lazer, kami ingin memastikan bahwa seluruh beatmap yang ada dapat dimainkan di lazer tanpa masalah.
 
-Terakhir, tidak seperti stable, kami juga ingin memastikan agar kode program lazer dapat terus digunakan ke depannya. Dengan merancang ulang kode yang ada, kami dapat menghadirkan berbagai fitur khusus yang ke depannya akan meliputi komponen UI baru, metode skinning baru, sistem multiplayer baru, dan kemampuan untuk memainkan beatmap pada berbagai ruleset (mode permainan) baru.
+Terakhir, tidak seperti stable, kami juga ingin memastikan agar kode program lazer dapat terus digunakan ke depannya. Dengan merancang ulang kode yang ada, kami dapat menghadirkan berbagai fitur modern yang ke depannya akan meliputi komponen UI baru, metode skinning baru, sistem multiplayer baru, dan kemampuan untuk memainkan beatmap pada berbagai ruleset (mode permainan) baru.
 
 #### Apa yang akan dilakukan oleh tim osu! setelah lazer dirilis?
 
@@ -283,6 +286,7 @@ osu! tidak menganut sistem mikrotransaksi. Kamu mungkin sedang berpikir tentang 
 [^countdown-timers-stable]: Waktu hitungan mundur hanya dapat diatur melalui perintah khusus, dan permainan multiplayer tidak dapat dimulai secara otomatis.
 [^countdown-timers-lazer]: Permainan multiplayer dapat dimulai secara otomatis dengan waktu hitungan mundur yang dapat diatur melalui menu antarmuka yang tersedia.
 [^queue-modes]: Aktifkan mode ini agar masing-masing pemain dapat saling mengantrikan beatmap pada ruang multiplayer secara silih berganti (atau yang lebih dikenal dengan istilah "host rotate".)
+[^difficulty-adjust]: Nilai CS/AR/OD/HP beatmap dapat diubah secara langsung dari layar pemilihan lagu.
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png
