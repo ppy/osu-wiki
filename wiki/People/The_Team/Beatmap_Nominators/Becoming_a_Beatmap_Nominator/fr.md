@@ -12,7 +12,7 @@ Les moddeurs souhaitant postuler chez les Beatmap Nominators doivent remplir les
 
 - Ils ont accumulé au moins 200 [kudosu](/wiki/Modding/Kudosu) pour les moddeurs osu!, ou 150 [kudosu](/wiki/Modding/Kudosu) pour les moddeurs osu!taiko/osu!catch/osu!mania.
 - Ils fournissent 3 de leurs mods qui, selon eux, les qualifient pour faire partie des Beatmap Nominators.
-  - Les anciens BN/NAT sont autorisés à soumettre au minimum 2 mods pour leur candidature.
+  - Les anciens BN/NAT sont autorisés à soumettre un minimum de 2 mods pour leur candidature.
 
 ### Attentes en matière de modding
 
