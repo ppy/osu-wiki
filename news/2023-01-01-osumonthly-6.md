@@ -253,7 +253,7 @@ This month on Twitter we saw [the announcement](https://twitter.com/keevyosu/sta
 
 ## Skinning Recap
 
-Much to the dismay of skinners all around the globe, the bulletin was officially announced dead in late November of this year. However, after speaking to [RockRoller](https://osu.ppy.sh/users/8388854) we have agreed to include the recap in a smaller format as a part of osu!monthly, while still including the work of the [skinship](https://skinship.xyz/) team!
+Much to the dismay of skinners all around the globe, the Skinners' Bulletin was officially announced dead in late November of this year. However, after speaking to [RockRoller](https://osu.ppy.sh/users/8388854) we have agreed to include the recap in a smaller format as a part of osu!monthly, while still including the work of the [skinship](https://skinship.xyz/) team!
 
 So without further ado, let's jump straight into it.
 
@@ -261,17 +261,25 @@ So without further ado, let's jump straight into it.
 
 #### New mixed skins subforum
 
-The osu! skinning forums have disallowed mixed skins almost since it's inception, which included removing the posts from the forums. Around 2 years ago it was decided that posts promoting mixed skins should be allowed, and for any authors/artists that don't like their work being included without their permission can submit a DMCA claim. This has in turn caused a lot of bloat on the skinning forums, causing a huge drop in traffic.
+The osu! skinning forums have disallowed mixed skins almost since their inception, which included removal of the threads. Around 2 years ago this was indirectly changed, mixed skins were still not allowed, however moderators were not allowed to remove offending posts. Only the original creators of elements used could file a DMCA claim to take down these offending posts, but few did. This has in turn caused a lot of bloat on the skinning forums, causing a huge drop in traffic as fully original skins were now harder to find.
 
-About 2 months ago, RockRoller started making huge strides internally to incorporate a better place to have all the mixed skins on the forums, without taking away views from fully original skins, the result of which has been the new [Remixed Skins](https://osu.ppy.sh/community/forums/124) subforum, that allows for posting of said skins with the caviat that it is now the **only** place where they can be posted, and proper credits are required.
+About 2 months ago internal movements to improve skinning in osu! were started and the mixed skins quickly became a big topic in this. A new forum dedicated to mixed skins, now called **re**mixed skins was created, the [Remixed Skins](https://osu.ppy.sh/community/forums/124) subforum. This new subforum allows for posting of said skins with the caviat that proper credits are required. Original creators are of cource still able to make use of their rights and file DMCA claims if they have an issue with their elements being used in a skin.
 
-One thing worth pointing out is that the rules for the other two subforums, [Completed Skins](https://osu.ppy.sh/community/forums/109) and [Work In Progress](https://osu.ppy.sh/community/forums/119) skins, have remained the same, so please do keep note of that when you are submitting your skin for the osu! public to see.
+One thing worth pointing out is that the rules for the other two subforums, [Completed Skins](https://osu.ppy.sh/community/forums/109) and [Work In Progress](https://osu.ppy.sh/community/forums/119) skins, have remained the same, so please do keep note of that when you are submitting your skin.
 
 ### Featured skins of the month
 
-During the month of December the skinship team saw 21 skins submitted, and they have hand picked 3 of them to showcase with the usual quality skinship videos that we have grown accustomed to:
+Of course we did not port only the news section of the Skinners' Bulletin, but also the beloved skins of the month section in which we will continue to feature 3 skins every month, although we have cut down on its length. So without further ado lets get into this months skins.
 
-WIP
+- [ALTITUDE](https://osu.ppy.sh/community/forums/topics/1684016?n=1): This skin contains a nice mix of glowy minimalism and grunge aesthetics, with great use of techniques commonly seen in UI design
+- [io15](https://osu.ppy.sh/community/forums/topics/1688412?n=1): While still a work in progress, this skin shows off its flat abstract theme quite well, while also being reinforced with nice patterns and paint splashes
+- [INGENIUM X](https://osu.ppy.sh/community/forums/topics/1697586?n=1): A skin with a minimalist approach inspired by Ingenium from My Hero Academia, with bold shapes and gradients mimicking the heat levels seen on thermal cameras
+
+Check out a showcase of all of the skins below:
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/videoseries?list=PLA2Nwtxa4WMqd2iI0wTjLUeWU8Gudhnuv" frameborder="0" allowfullscreen></iframe>
+
+If you want to get into skinning but don't know where to start, feel free to drop a post under the [discussion thread](https://osu.ppy.sh/community/forums/topics/1612258), check out the [skinning tutorial](https://skinship.xyz/tutorial/introduction) or ask away on the [skinship Discord server](https://discord.skinship.xyz/)!
 
 ## Did you know?
 
