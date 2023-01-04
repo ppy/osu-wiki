@@ -95,7 +95,7 @@ If you're interested, the whole event was broadcasted on the [osusg twitch chann
 
 ![](/wiki/shared/news/2023-01-01-osumonthly-6/osu!mania-LNTournament-3.jpg)
 
-Earlier this month, the third installation of the [osu!mania LN Tournament](/wiki/Tournaments/o%21mLN/3) was concluded! For those unaware, the tournament hosted by [MashedPotato](https://osu.ppy.sh/users/10494860), [Polytetral](https://osu.ppy.sh/users/8612061), and [_yosh](https://osu.ppy.sh/users/7157133) is currently the biggest, most well-known tournament centered around long notes. By the end of 2022 they concluded their biggest, most ambitious iteration, with quite the assortment of custom songs, charts, and well-tailored mappools for the enjoyment of players and viewers alike!
+Earlier this month, the third installation of the [osu!mania LN Tournament](/wiki/Tournaments/o!mLN/3) was concluded! For those unaware, the tournament hosted by [MashedPotato](https://osu.ppy.sh/users/10494860), [Polytetral](https://osu.ppy.sh/users/8612061), and [_yosh](https://osu.ppy.sh/users/7157133) is currently the biggest, most well-known tournament centered around long notes. By the end of 2022 they concluded their biggest, most ambitious iteration, with quite the assortment of custom songs, charts, and well-tailored mappools for the enjoyment of players and viewers alike!
 
 | Placing | Player |
 | :-: | :-- |
