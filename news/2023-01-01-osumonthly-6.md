@@ -179,7 +179,19 @@ You can view all of the plays listed in the playlist below:
 
 ### Notable osu!mania plays of the year
 
-<iframe width="100%" height="315" src="link" frameborder="0" allowfullscreen></iframe>
+It has been a wild year for mania players. A lot of astonishing accomplishments have been achieved all throughout 2022 across all keymodes! While we've shown you a glimpse of them on each osu!monthly news post, we'd want to recap the most groundbreaking scores on the last newspost of the year.
+
+To start things off, we'd want to highlight [Doma - Umaru](https://osu.ppy.sh/users/10137852/mania)'s 6k performance across the year. Those with a keen eye might've seen them first place in many of the hardest 6 Key maps currently leaderboarded, such as [Leniane's Ragnarok](https://osu.ppy.sh/scores/mania/514011363) or [lemonguy's K.Y.A.F.A.](https://osu.ppy.sh/scores/mania/511013249) just to name a couple. But the cherry on top of the cake must be [Hachidaijigoku Jakontensei Kyousou Sanbika](https://osu.ppy.sh/scores/mania/498862818). This beatmap features an unrelenting volley of jacky chordstreams, extremely punishing bursts and fast 203 BPM tech streams just to top it off.
+
+Next one on the list is [Jakads](https://osu.ppy.sh/users/259972/mania), and their amazing performance on [aci's Rude Buster](https://osu.ppy.sh/scores/mania/479615854). The map needs of little introduction, but it currently is the hardest non-sped up chart currently leaderboarded. This score remains the only S rank ever submitted to it! Honorable mention to [dressurf](https://osu.ppy.sh/users/758406), who not only is [the runner up](https://osu.ppy.sh/scores/mania/491815877) of the previously shown score, but also for their last year's play on [Evening's PEACE BREAKER x1.4](https://osu.ppy.sh/scores/mania/466649715). Even after one year, it's still the only NM pass, and it's the only reason why this rate was Loved to begin with!
+
+What about 4k? Well, as a community, lots of limits were pushed this year. But without a doubt, [bojii](https://osu.ppy.sh/users/10083439) went above and beyond. They've managed to set astonishing records on mania's most ~~in~~famous charts! And while they've submitted godlike plays such as the first ever SS in [lemonguy's Azure Arbitrator](https://osu.ppy.sh/scores/mania/492399052), their biggest achievement thus far must be SS'ing [Aruel's Blastix Riotz](https://osu.ppy.sh/scores/mania/490775286). One of the most well-known high SR beatmaps ever ranked, let it be for its unforgiving layering, tricky motions, and arguably dated patterning. After 6 years, they were the first ones to ever submit a SS play to it, and we'd like to congratulate them for that!
+
+Finally, we'd like to highlight [CrewK](https://osu.ppy.sh/users/11488604) as one of the best SV players the game has seen in the past couple of years. You can scroll over any SV map currently Loved or even Ranked, and I assure you you'll find them there. This year's highlight however is on [HowToPlayLN's polyriddim FC](https://osu.ppy.sh/beatmapsets/1182702#mania/2769068), specifically the play on the *brrrrrrrrrrrrrr vip* difficulty. To summarize it, it's timing hell. A memory gauntlet to behold, only worsened by its unforgiving patterning. It's hard to put into words, so please, feel free to check out CrewK's awesome and unique full clear on the map!
+
+You can view all of the plays listed in the playlist below:
+
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLbY6YsbyBvHD3K_akt1j22zxeOixasi3f" frameborder="0" allowfullscreen></iframe>
 
 ## Mapping recap
 
@@ -272,7 +284,7 @@ One thing worth pointing out is that the rules for the other two subforums, [Com
 Of course we did not port only the news section of the Skinners' Bulletin, but also the beloved skins of the month section in which we will continue to feature 3 skins every month, although we have cut down on its length. So without further ado lets get into this months skins.
 
 - [ALTITUDE](https://osu.ppy.sh/community/forums/topics/1684016?n=1): This skin contains a nice mix of glowy minimalism and grunge aesthetics, with great use of techniques commonly seen in UI design
-- [io15](https://osu.ppy.sh/community/forums/topics/1688412?n=1): While still a work in progress, this skin shows off its flat abstract theme quite well, while also being reinforced with nice patterns and paint splashes
+- [io15](https://osu.ppy.sh/community/forums/topics/1688412?n=1): Being very recently finished, this skin based around a Hololive VTuber named Airani Iofifteen manages to show off its flat abstract theme quite well, while also being reinforced with nice patterns and paint splashes
 - [INGENIUM X](https://osu.ppy.sh/community/forums/topics/1697586?n=1): A skin with a minimalist approach inspired by Ingenium from My Hero Academia, with bold shapes and gradients mimicking the heat levels seen on thermal cameras
 
 Check out a showcase of all of the skins below:
@@ -309,6 +321,8 @@ Same rules apply, you have exactly 1 month after this news post goes up (or unti
 - Yet another LAN tourney is on the horizon. Organized by [Zeus-](https://osu.ppy.sh/users/5464437) with the support of [Boğaziçi University Gaming Club (BUOK)](http://buok.boun.edu.tr/), the very first iteration of **Bosphorus Invitational** aims to gather around some of the best circle clickers within the Turkish community at the border of the magnificent Bosphorus strait where the continents meet, for an epic 1 day showdown of Turkey's best players. While the participation is invite-only, feel free to either visit the venue on the 29th or check out the tournament via the [BUOK Twitch channel](https://www.twitch.tv/buoyunkulubu/) to keep the tabs on. See more on the details through the [forum post](https://osu.ppy.sh/community/forums/topics/1696844), which is also [available in Turkish](https://osu.ppy.sh/community/forums/topics/1696848)!
 - The [New Beginnings Art Contest](/news/2022-12-24-new-beginnings-voting-open) voting has concluded by the time you are reading this, and should have it's results posted. Go and check out all of the wonderful creations from the community, and if you previously put your votes in, check if the creations you voted for have made their way to the top!
 - For those of you who are ***Full Beatmap Nominators*** and have an interest in being a part of the [NAT](/wiki/People/The_Team/Nomination_Assessment_Team), they are going to be doing some specific osu! BN evaluating where the full BNs are able to "play NAT for a bit" from January 1 - 31, 2023. If you are interested, you might want to talk to your local NAT representative.
+- Qualifiers for the [osu!mania 7K World Cup](/news/2022-12-15-osu-mania-7k-world-cup-2023-registrations-now-open) are starting on the 8th of January, so be sure to tune in if you are a fan of top tier mania gameplay!
+- During January and February the [4 Digit 4K MWC 2023 tournament](https://osu.ppy.sh/community/forums/topics/1671710?n=1) will be held, and while the gameplay might not be as top tier as the official World Cup, mania enjoyers might find themselves highly interested in this tournament as well.
 
 ## End word
 
