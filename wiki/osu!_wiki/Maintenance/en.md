@@ -47,14 +47,72 @@ When adding redirects for a new or existing article, keep in mind that they shou
 
 The osu! wiki repository uses [continuous integration](https://docs.github.com/en/actions/guides/about-continuous-integration) (CI) to automatically check incoming pull requests for various common errors. The list of checks is configured in the [`continuous-integration.yml`](https://github.com/ppy/osu-wiki/blob/master/.github/workflows/continuous-integration.yml) file. 
 
-The [`package.json`](https://github.com/ppy/osu-wiki/blob/master/package.json) file lists all plugins used by the CI, from which some were written by the osu! wiki maintainers.
+The [`package.json`](https://github.com/ppy/osu-wiki/blob/master/package.json) file lists all (remark) plugins used by the CI, of which some were written by the osu! wiki maintainers.
 
 The CI checks are run automatically on every commit of a recurring contributor. In order to have their pull requests merged, contributors are expected to fix errors reported by the CI. To see the [status of checks](img/ci-status.png), do the following:
 
 1. Scroll down the pull request's page, find the `osu-wiki continuous integration` status row, and click the `Details` link.
 2. On the new page, expand the `run remark on changed files` step. Each finding is accompanied by its exact location in a file and a short description of why it is an error.
 
-If you need help with decrypting CI check errors, or fixing issues, ask in the `#osu-wiki` channel on Discord.
+Some errors also appear as annotations on the `Files changed` tab below the line where the issue was found.
+
+If you need help with decrypting CI check error messages, or fixing issues, ask in the `#osu-wiki` channel on Discord.
+
+#### Bypassing CI checks
+
+CI checks ensure that changes to the wiki keep it in a consistent state, but ways to bypass them exist as a fail safe, such that pull requests can still be merged in the event of false errors or discovered bugs in the checks. There are a few situations where intentionally bypassing a CI check is acceptable, as outlined below. Contact a [maintainer](/wiki/osu!_wiki/Maintenance/List_of_maintainers) if you need to bypass a check for a reason not mentioned here.
+
+For reference, below is a table of all CI checks in order:
+
+| # | Check | Tool | Explanation | Bypass |
+| :-: | :-- | :-- | :-- | :-- |
+| 1 | File sizes | [`scripts/ci/inspect_file_sizes.sh`](https://github.com/ppy/osu-wiki/blob/master/scripts/ci/inspect_file_sizes.sh) | Whether an image file is below the [news post and wiki article image file size limit](/wiki/Article_styling_criteria/Formatting#file-size) (1 MB). Gives a warning for files above 0.5 MB. | None. |
+| 2 | Markdown | [remark](https://github.com/remarkjs/remark) via [`scripts/ci/run_remark.sh`](https://github.com/ppy/osu-wiki/blob/master/scripts/ci/run_remark.sh) | Whether Markdown syntax is correct and consistent in wiki articles and news posts. | Add `<!-- lint ignore rule-name -->` above the offending line, where `rule-name` is the rule to ignore. |
+| 3 | YAML | [yamllint](https://github.com/adrienverge/yamllint) via [`scripts/ci/run_yamllint.py`](https://github.com/ppy/osu-wiki/blob/master/scripts/ci/run_yamllint.py) | Whether YAML syntax is correct and consistent in the [`redirect.yaml`](https://github.com/ppy/osu-wiki/blob/master/wiki/redirect.yaml) file and in [front matter](/wiki/Article_styling_criteria/Formatting#front-matter) |
+| 4 | Broken wiki links | `check-links` command of [`osu-wiki-tools`](https://github.com/Walavouchey/osu-wiki-tools) | Whether internal [wiki links](/wiki/Article_styling_criteria/Formatting#wiki-links) point to an actual article, news post (for news post links), or section thereof. | Add `SKIP_WIKILINK_CHECK` anywhere in the pull request description. |
+| 5 | Outdated translations | `check-outdated-articles` command of [`osu-wiki-tools`](https://github.com/Walavouchey/osu-wiki-tools) | Whether translations are properly [marked as outdated](/wiki/Article_styling_criteria/Formatting#outdated-translations) when updating an English article. | Add `SKIP_OUTDATED_CHECK` anywhere in the pull request description. |
+
+##### Markdown [`no-heading-punctuation`](https://github.com/remarkjs/remark-lint/tree/main/packages/remark-lint-no-heading-punctuation) remark lint rule
+
+Trailing periods in headings normally do not occur because headings are generally not sentences, and are therefore disallowed. Sometimes trailing punctuation is needed because e.g. a song title in the heading contains it, or a sentence is put into a heading in an FAQ section.
+
+```markdown
+<!-- lint ignore no-heading-punctuation -->
+
+### Amusing Reflection Rag.
+```
+
+##### Markdown [`heading-increment`](https://github.com/remarkjs/remark-lint/tree/main/packages/remark-lint-heading-increment) remark lint rule
+
+Normally, heading levels must only ever increase by one at a time. For [infoboxes](/wiki/Article_styling_criteria/Formatting#infoboxes) however, only heading levels of 4 and 5 are allowed, which may conflict with this rule.
+
+```markdown
+# List of peppy's favourite mappers
+
+::: Infobox
+<!-- lint ignore heading-increment -->
+
+#### peppy
+
+Creator of osu!.
+:::
+```
+
+##### Wiki link check
+
+*See also: [Article styling criteria/Formatting § Wiki links](/wiki/Article_styling_criteria/Formatting#wiki-links)*
+
+Contributors are encouraged to fix broken links while updating articles. That said, for some situations, that may require more work than is relevant for the pull request:
+
+- Small individual fixes to an article (that are not meant to generally clean up an article)
+- Section links to a translation where the section does not exist
+- Moving files around (for links already broken not as a result from this)
+
+##### Outdated translation check
+
+*See also: [Article styling criteria/Formatting § Outdated translations](/wiki/Article_styling_criteria/Formatting#outdated-translations) and [Article styling criteria/Writing § Content parity](/wiki/Article_styling_criteria/Writing#content-parity)*
+
+Skipping the outdated translation check (and not marking translations as outdated) check may be done for minor rewording, grammatical adjustments, and the like, that do not affect the meaning of the article.
 
 ### Development
 
@@ -66,6 +124,8 @@ Some features are not directly related to the osu! website, but may be useful fo
 
 - [osu-wiki status](https://osu.wiki/status/en): list of articles per language, and the category of maintenance they require (translation, update, stub expansion). See [ppy/osu-wiki#2486](https://github.com/ppy/osu-wiki/issues/2486) for functionality requests.
 - [osu-wiki-bin](https://github.com/cl8n/osu-wiki-bin): a Node.js utility for automated checks and edits (broken links, usergroup updates, wiki-wide text replacements, among other things)
+- [osu-wiki-tools](https://github.com/Walavouchey/osu-wiki-tools): a Python utility for automated checks (broken links, outdated articles) used in CI
+- [scissors](https://github.com/TicClick/scissors): a Rust utility for checking username and country flag mismatches in user links
 
 ## Routines
 
