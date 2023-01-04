@@ -24,19 +24,19 @@ La duración de un objeto que permanece visible en la pantalla (sin mods) oscila
 Consulte la infografía y las fórmulas a continuación para obtener una descripción general:
 
 ```
-                                        X = golpe/recolectar
-          a n t i c i p a d o           ↓
+                                        X = golpe/recolectado
+         v i s i b i l i d a d          ↓
 ├───────────────────────┬───────────────┤
 0 %     aparición        100 % opacidad
 ```
 
-El objeto empezará a aparecer cuando `X - anticipado` con:
+El objeto empezará a aparecer cuando `X - visibilidad` con:
 
-- AR < 5: `anticipado = 1200 ms + 600 ms * (5 - AR) / 5`
-- AR = 5: `anticipado = 1200 ms`
-- AR > 5: `anticipado = 1200 ms - 750 ms * (AR - 5) / 5`
+- AR < 5: `visibilidad = 1200 ms + 600 ms * (5 - AR) / 5`
+- AR = 5: `visibilidad = 1200 ms`
+- AR > 5: `visibilidad = 1200 ms - 750 ms * (AR - 5) / 5`
 
-La cantidad de tiempo que tarda para que el objeto de golpeo desaparezca por completo, también dependerá de la velocidad de aproximación:
+La cantidad de tiempo que tarda para que el objeto desaparezca por completo, también dependerá de la velocidad de aproximación:
 
 - AR < 5: `aparición = 800 ms + 400 ms * (5 - AR) / 5`
 - AR = 5: `aparición = 800 ms`
