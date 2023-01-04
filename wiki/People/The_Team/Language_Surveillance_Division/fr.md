@@ -26,4 +26,4 @@ La LSD a également servi de groupe intermédiaire pour les membres prometteurs 
 
 Après une [restructuration du personnel](https://osu.ppy.sh/community/forums/topics/123510) en 2013, la Language Surveillance Division a été rebaptisée **Chat Moderators** et a reçu sa propre liste de membres.
 
-Le [20 août 2015](/wiki/Staff_Log/2015#août), les Chat Moderators et de Global Moderation [ont été fusionnées](https://osu.ppy.sh/community/forums/posts/4435972), donnant ainsi à tous les modérateurs des surnoms rouges distinctifs dans le tchat et un pouvoir de gestion sur l'ensemble du forum. 
+Le [20 août 2015](/wiki/Staff_Log/2015#août), les Chat Moderators et de Global Moderation [ont été fusionnées](https://osu.ppy.sh/community/forums/posts/4435972), donnant ainsi à tous les modérateurs des surnoms rouges distinctifs dans le tchat et un pouvoir de gestion sur l'ensemble du forum.
