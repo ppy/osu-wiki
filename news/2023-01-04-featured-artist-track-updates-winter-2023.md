@@ -66,8 +66,10 @@ A listing of 100 songs wasn't enough for **BlackY**. We've gathered a few stragg
 - **BlackY - Flaming Eternity**
 - **BlackY - Mebius**
 - **BlackY - Swing Edge**
-
-*...and more coming very soon!*
+- **BlackY feat. Risa Yuzuki - Hyouhon**
+- **BlackY feat. Risa Yuzuki - PARADOXY**
+- **BlackY feat. Risa Yuzuki - Tadashisa ni Michizure**
+- **BlackY feat. Risa Yuzuki - UNLEASHED**
 
 Taste what's in store:
 
@@ -82,6 +84,13 @@ Taste what's in store:
 <audio controls>
     <source src="https://assets.ppy.sh/artists/150/Songs/BlackY%20-%20Mebius.mp3" type="audio/mpeg">
 </audio>
+
+### BlackY feat. Risa Yuzuki - PARADOXY
+
+<audio controls>
+    <source src="https://assets.ppy.sh/artists/211/PARAD%C3%98XY/BlackY%20feat.%20Risa%20Yuzuki%20-%20PARADOXY.mp3" type="audio/mpeg">
+</audio>
+
 
 ## [DJ Raisei](https://osu.ppy.sh/beatmaps/artists/204)
 
