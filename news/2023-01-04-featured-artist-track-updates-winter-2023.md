@@ -8,13 +8,13 @@ Your New Year's resolution is to learn how to map, right? We've picked up over *
 
 ![](/wiki/shared/news/banners/featured-artist.jpg)
 
-We announce new Featured Artists twice a week. Artists never stop producing music though, so we sometimes pick up songs from our backlog of artists. This post is a compilation of every new song we've licensed since [our batch last Summer](https://osu.ppy.sh/home/news/2022-07-02-featured-artist-track-updates-summer-2022).
+We announce new Featured Artists twice a week. Artists never stop producing music though, so we sometimes pick up songs from our backlog of artists. This post is a compilation of every new song we've licensed since [our batch last summer](https://osu.ppy.sh/home/news/2022-07-02-featured-artist-track-updates-summer-2022).
 
-Here's how this works: **click on an artist's name or banner to visit their Featured Artist page.** All new songs are marked with a slick *NEW* icon, which contractually obligates you to map them.
+Here's how this works: **click on an artist's name or banner to visit their Featured Artist page**. All new songs are marked with a slick *NEW* icon, which contractually obligates you to map them.
 
 ![](/wiki/shared/news/2022-01-02-featured-artist-track-updates-winter-2022/new.png)
 
-New songs are also listed below along with any relevant ranked/loved maps and an audio preview or two. These should give you a quick impression of what's in store, but also remember that all song previews are available from each Featured Artist page!
+New songs are also listed below along with any relevant Ranked/Loved maps and an audio preview or two. These should give you a quick impression of what's in store, but also remember that all song previews are available from each Featured Artist page!
 
 ---
 
@@ -95,7 +95,7 @@ Taste what's in store:
 
 [![](https://assets.ppy.sh/artists/204/header.jpg)](https://osu.ppy.sh/beatmaps/artists/204)
 
-This year's osu! World Cup received a lot of love from our Featured Artists, like **DJ Raisei** and his new osu!original song *T.R.A.P.*!
+This year's osu! World Cup received a lot of love from our Featured Artists, like **DJ Raisei** and his new osu! original song *T.R.A.P.*!
 
 ### DJ Raisei - T.R.A.P. <!-- lint ignore no-heading-punctuation -->
 
@@ -123,7 +123,7 @@ Check out [this map](https://osu.ppy.sh/beatmapsets/1846926) hosted by [wafer](h
 
 [![](https://assets.ppy.sh/artists/172/header.jpg)](https://osu.ppy.sh/beatmaps/artists/172)
 
-**II-L**'s songs dive into rhythmic territory that no other musicians dare to explore. With complexity like this, you'd never believe that **II-L**'s music could have vocals. In their osu!original for the recent osu! World Cup, *THE EARTH* shows that it's... somehow possible!
+**II-L**'s songs dive into rhythmic territory that no other musicians dare to explore. With complexity like this, you'd never believe that **II-L**'s music could have vocals. In their osu! original for the recent osu! World Cup, *THE EARTH* shows that it's... somehow possible!
 
 ### II-L feat. amelie xoxo - THE EARTH
 
@@ -137,7 +137,7 @@ Jump into [this map used as OWC's Grand Finals NM5](https://osu.ppy.sh/beatmapse
 
 [![](https://assets.ppy.sh/artists/35/header.jpg)](https://osu.ppy.sh/beatmaps/artists/35)
 
-If there's anything that the osu! audience loves more than a certain three digit number, it's **Imperial Circus Dead Decadence**. This Japanese death metal band has made an astounding impact on the osu! community thanks to songs like [Uta](https://osu.ppy.sh/beatmapsets/410162) and [Yomi yori](https://osu.ppy.sh/beatmapsets/575330), and we're here to slam their newest album down your ear-holes. In classic ICDD fashion, that album's name is *MOGARI - Shi e Fukeru Omoi wa Rikujoku Sura Kurai, Kanata no Sei o Aisuru Tame ni Inoti o Tataeru*.
+If there's anything that the osu! audience loves more than a certain three-digit number, it's **Imperial Circus Dead Decadence**. This Japanese death metal band has made an astounding impact on the osu! community thanks to songs like [Uta](https://osu.ppy.sh/beatmapsets/410162) and [Yomi yori](https://osu.ppy.sh/beatmapsets/575330), and we're here to slam their newest album down your ear-holes. In classic ICDD fashion (i.e. very long), that album's name is *MOGARI - Shi e Fukeru Omoi wa Rikujoku Sura Kurai, Kanata no Sei o Aisuru Tame ni Inoti o Tataeru*.
 
 - **Imperial Circus Dead Decadence - Bunretsu Shita Doke to Hakkyo no Shudo Onna**
 - **Imperial Circus Dead Decadence - Goku**
@@ -151,7 +151,7 @@ If there's anything that the osu! audience loves more than a certain three digit
 - **Imperial Circus Dead Decadence - Yomi yori Kikoyu, Koukoku no Tou to Honoo no Shoujo. -Mogari-**
 - **Imperial Circus Dead Decadence - Yoruha Tsumitobachi no Rasen**
 
-Here's some examples of what could the future's next 1000pp HR play:
+Here's some examples of what could the future's next 1000 pp HR play:
 
 ### Imperial Circus Dead Decadence - Kuroki Sakura wa Ai Sono Shi o Kou
 
@@ -169,11 +169,11 @@ Here's some examples of what could the future's next 1000pp HR play:
 
 [![](https://assets.ppy.sh/artists/58/header.jpg)](https://osu.ppy.sh/beatmaps/artists/58)
 
-**Kurokotei** and **Sennzai** teamed up to create an original song for osu! World Cup's Semi Finals Tiebreaker! It even came jam-packed with background art created by fellow Featured Artist [Se-U-Ra](https://osu.ppy.sh/beatmaps/artists/112). Can musicians draw? Find out for yourself:
+**Kurokotei** and **Sennzai** teamed up to create an original song for osu! World Cup's Semifinals tiebreaker! It even came jam-packed with background art created by fellow Featured Artist [Se-U-Ra](https://osu.ppy.sh/beatmaps/artists/112). Can musicians draw? Find out for yourself:
 
 ### Kurokotei feat. Sennzai - escape (the looking-glass, and what alice found there)
 
-Escape down the rabbithole and into [this map used as OWC's Semi Finals Tiebreaker](https://osu.ppy.sh/beatmapsets/1880652) hosted by [Realazy](https://osu.ppy.sh/users/918297)!
+Escape down the rabbit hole and into [this map used as OWC's Semifinals tiebreaker](https://osu.ppy.sh/beatmapsets/1880652) hosted by [Realazy](https://osu.ppy.sh/users/918297)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/58/Songs/Kurokotei%20feat.%20Sennzai%20-%20escape%20(the%20looking-glass%2C%20and%20what%20alice%20found%20there).mp3" type="audio/mpeg">
@@ -197,11 +197,11 @@ Explore [this beatmap](https://osu.ppy.sh/beatmapsets/1889094) hosted by [funny]
 
 [![](https://assets.ppy.sh/artists/247/header.jpg)](https://osu.ppy.sh/beatmaps/artists/247)
 
-Another artist, another OWC osu!original. **Raimukun** showcases an endless string of piano notes in their newest tune *Myths Orbis*!
+Another artist, another OWC osu! original. **Raimukun** showcases an endless string of piano notes in their newest tune *Myths Orbis*!
 
 ### Raimukun - Mythis Orbis
 
-Muscle spasm your way through [this map used as OWC's Grand Finals NM2](https://osu.ppy.sh/beatmapsets/1889095) hosted by [knowledgeking](https://osu.ppy.sh/users/8022517)!
+Muscle-spasm your way through [this map used as OWC's Grand Finals NM2](https://osu.ppy.sh/beatmapsets/1889095) hosted by [knowledgeking](https://osu.ppy.sh/users/8022517)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/247/Songs/Raimukun%20-%20Myths%20Orbis.mp3" type="audio/mpeg">
@@ -211,11 +211,11 @@ Muscle spasm your way through [this map used as OWC's Grand Finals NM2](https://
 
 [![](https://assets.ppy.sh/artists/184/header.jpg)](https://osu.ppy.sh/beatmaps/artists/184)
 
-You know the drill. osu! original here from last year's osu! World Cup. This one's from the Quarter Finals though, so it might be a tad more playable than other originals!
+You know the drill. osu! original here from last year's osu! World Cup. This one's from the Quarterfinals though, so it might be a tad more playable than other originals!
 
 ### Redside - Sidequest
 
-Experience [this map used as OWC's Quarter Finals HR3](https://osu.ppy.sh/beatmapsets/1876071) hosted by [Feiri](https://osu.ppy.sh/users/3214844)!
+Experience [this map used as OWC's Quarterfinals HR3](https://osu.ppy.sh/beatmapsets/1876071) hosted by [Feiri](https://osu.ppy.sh/users/3214844)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/184/Songs/Redside%20-%20Sidequest.mp3" type="audio/mpeg">
@@ -265,7 +265,7 @@ Play through [the map from the tournament](https://osu.ppy.sh/beatmapsets/181947
 
 [![](https://assets.ppy.sh/artists/185/header.jpg)](https://osu.ppy.sh/beatmaps/artists/185)
 
-**seatrus** joins us with two types of music: the first 8 songs are from his ever-growing backlog of tunes, and the remaining 1 song was created specifically for osu! World Cup 2022's Grand Finals Tiebreaker!
+**seatrus** joins us with two types of music: the first 8 songs are from his ever-growing backlog of tunes, and the remaining 1 song was created specifically for osu! World Cup 2022's Grand Finals tiebreaker!
 
 - **seatrus - ALiCE iN ViNEGAR SiNDROME**
 - **seatrus - Dilapidated Cathedral**
@@ -322,7 +322,7 @@ Considering **Sephid** joined osu! thanks to [a map from OWC 2020](https://osu.p
 
 ### Sephid - Thunderstrike 1988
 
-Have fun with [this map used as OWC's Quarter Finals HD3](https://osu.ppy.sh/beatmapsets/1889109) hosted by [Feiri](https://osu.ppy.sh/users/3214844)!
+Have fun with [this map used as OWC's Quarterfinals HD3](https://osu.ppy.sh/beatmapsets/1889109) hosted by [Feiri](https://osu.ppy.sh/users/3214844)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/196/Songs/Sephid%20-%20Thunderstrike%201988.mp3" type="audio/mpeg">
@@ -343,7 +343,7 @@ It's been over 3 years since **Street** drove into our Featured Artist collectio
 
 ### Street - hayate (with Kamiya Hiroto)
 
-Enjoy [this map used as OWC's Semi Finals DT4 slot](https://osu.ppy.sh/beatmapsets/1880316) hosted by [KKipalt](https://osu.ppy.sh/users/6889573)!
+Enjoy [this map used as OWC's Semifinals DT4 slot](https://osu.ppy.sh/beatmapsets/1880316) hosted by [KKipalt](https://osu.ppy.sh/users/6889573)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/89/Iroha/Street%20-%20hayate%20(with%20Kamiya%20Hiroto).mp3" type="audio/mpeg">
@@ -365,11 +365,11 @@ Enjoy [this map used as OWC's Semi Finals DT4 slot](https://osu.ppy.sh/beatmapse
 
 [![](https://assets.ppy.sh/artists/7/header.jpg)](https://osu.ppy.sh/beatmaps/artists/7)
 
-One of our oldest Featured Artists **Thaehan** is still around! Their newest osu!original *All or Nothing* immediately slammed its way into the scene as one of last year's osu! World Cup.
+One of our oldest Featured Artists **Thaehan** is still around! Their newest osu! original *All or Nothing* immediately slammed its way into the scene as one of last year's osu! World Cup originals.
 
 ### Thaehan - All or Nothing
 
-Experience [this map used as OWC's Semi Finals HR1](https://osu.ppy.sh/beatmapsets/1880625) hosted by [Zelq](https://osu.ppy.sh/users/8953955)!
+Experience [this map used as OWC's Semifinals HR1](https://osu.ppy.sh/beatmapsets/1880625) hosted by [Zelq](https://osu.ppy.sh/users/8953955)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/7/Songs/Thaehan%20-%20All%20or%20Nothing.mp3" type="audio/mpeg">
