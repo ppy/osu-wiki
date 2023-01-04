@@ -77,7 +77,7 @@ The complete player list can be found [here](https://gist.github.com/LeoFLT/c9e5
 | ::{ flag=HK }:: | **Hong Kong** | **[sjccsjcc](https://osu.ppy.sh/users/23401664)**, [Annbee](https://osu.ppy.sh/users/12018352), [Sn7\_1163](https://osu.ppy.sh/users/10353103), [DC2\_727](https://osu.ppy.sh/users/17483369) |
 | ::{ flag=ID }:: | **Indonesia** | **[Yanamon](https://osu.ppy.sh/users/2655836)** |
 | ::{ flag=IQ }:: | **Iraq** | **[The\_SMasher\_sni](https://osu.ppy.sh/users/29613861)**, [synix69](https://osu.ppy.sh/users/26329578) |
-| ::{ flag=JP }:: | **Japan** | **[Lenxis\_](https://osu.ppy.sh/users/10133496)** |
+| ::{ flag=JP }:: | **Japan** | **[My Angel Koishi](https://osu.ppy.sh/users/8273098)**, [N\_Sana](https://osu.ppy.sh/users/18828348), [rainlily](https://osu.ppy.sh/users/485007), [LuluM](https://osu.ppy.sh/users/13151924) |
 | ::{ flag=MO }:: | **Macau** | **[idqoos123](https://osu.ppy.sh/users/3946113)**, [Randumbs](https://osu.ppy.sh/users/27657112) |
 | ::{ flag=MY }:: | **Malaysia** | **[cheewee10](https://osu.ppy.sh/users/4477497)** |
 | ::{ flag=MX }:: | **Mexico** | **[Dex uwu](https://osu.ppy.sh/users/12084755)**, [Greninja\_498](https://osu.ppy.sh/users/24140109), [LuisGRBG](https://osu.ppy.sh/users/16345791), [SANTIA2705](https://osu.ppy.sh/users/24202059) |
