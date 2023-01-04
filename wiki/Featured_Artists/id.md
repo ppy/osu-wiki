@@ -27,7 +27,8 @@ Berikut merupakan jumlah Featured Artist baru yang ditambahkan ke dalam katalog 
 - **2019:** 31
 - **2020:** 65
 - **2021:** 101
-- **2022:** *belum ditentukan*
+- **2022:** 104
+- **2023:** *belum ditentukan*
 
 Featured Artist baru akan diumumkan setiap minggunya pada kolom [berita](https://osu.ppy.sh/home/news) yang tertera pada laman utama situs web osu!. Pada umumnya, pengumuman suatu Featured Artist baru akan mencakup cuplikan lagu-lagu dari musisi yang bersangkutan beserta dengan informasi seputar kontes mapping yang menggunakan lagu-lagu dari musisi tersebut atau beatmap-beatmap terkait yang dibuat oleh para anggota [Mappers' Guild](/wiki/Community/Mappers_Guild) apabila ada.
 
