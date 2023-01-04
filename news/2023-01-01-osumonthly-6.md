@@ -35,7 +35,7 @@ With that out of the way, let's see what happened in December!
 This month osu!(lazer) has received probably the most requested addition of all time, that being adding pp to osu!(lazer). You are now able to earn pp for all of your plays done in lazer, although currently it is being implemented via a [separate website](https://lazer.ppy.sh/home) with separate rankings. When it comes to mod customisation, currently only some mods give pp as a balance pass has not yet occurred, so please bear that in mind when you give osu!(lazer) a try.
 For full details we highly recommend watching the excellent video digest by [pishifat](https://osu.ppy.sh/users/3178418).
 
-A really cool and also very requested feature that was implemented this month is [hard links](/wiki/en/Client/Release_stream/Lazer/File_storage#via-hard-links) for your osu maps, meaning that now you will not have to effectively copy your entire maps library from stable to lazer. For more information about this particular feature either watch the latest osu!(lazer) update video above, or if you are just curious about this particular feature, you can watch that specific part of the video [here](https://youtu.be/LgXrhrFFClY?t=249).
+A really cool and also very requested feature that was implemented this month is [hard links](/wiki/Client/Release_stream/Lazer/File_storage#via-hard-links) for your osu maps, meaning that now you will not have to effectively copy your entire maps library from stable to lazer. For more information about this particular feature either watch the latest osu!(lazer) update video above, or if you are just curious about this particular feature, you can watch that specific part of the video [here](https://youtu.be/LgXrhrFFClY?t=249).
 
 ## Community recap
 
@@ -95,7 +95,7 @@ If you're interested, the whole event was broadcasted on the [osusg twitch chann
 
 ![](/wiki/shared/news/2023-01-01-osumonthly-6/osu!mania-LNTournament-3.jpg)
 
-Earlier this month, the third installation of the [osu!mania LN Tournament](/wiki/en/Tournaments/o%21mLN/3) was concluded! For those unaware, the tournament hosted by [MashedPotato](https://osu.ppy.sh/users/10494860), [Polytetral](https://osu.ppy.sh/users/8612061), and [_yosh](https://osu.ppy.sh/users/7157133) is currently the biggest, most well-known tournament centered around long notes. By the end of 2022 they concluded their biggest, most ambitious iteration, with quite the assortment of custom songs, charts, and well-tailored mappools for the enjoyment of players and viewers alike!
+Earlier this month, the third installation of the [osu!mania LN Tournament](/wiki/Tournaments/o%21mLN/3) was concluded! For those unaware, the tournament hosted by [MashedPotato](https://osu.ppy.sh/users/10494860), [Polytetral](https://osu.ppy.sh/users/8612061), and [_yosh](https://osu.ppy.sh/users/7157133) is currently the biggest, most well-known tournament centered around long notes. By the end of 2022 they concluded their biggest, most ambitious iteration, with quite the assortment of custom songs, charts, and well-tailored mappools for the enjoyment of players and viewers alike!
 
 | Placing | Player |
 | :-: | :-- |
