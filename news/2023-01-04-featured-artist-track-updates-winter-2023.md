@@ -91,7 +91,6 @@ Taste what's in store:
     <source src="https://assets.ppy.sh/artists/211/PARAD%C3%98XY/BlackY%20feat.%20Risa%20Yuzuki%20-%20PARADOXY.mp3" type="audio/mpeg">
 </audio>
 
-
 ## [DJ Raisei](https://osu.ppy.sh/beatmaps/artists/204)
 
 [![](https://assets.ppy.sh/artists/204/header.jpg)](https://osu.ppy.sh/beatmaps/artists/204)
