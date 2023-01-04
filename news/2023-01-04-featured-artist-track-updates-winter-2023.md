@@ -89,7 +89,7 @@ Taste what's in store:
 
 This year's osu! World Cup received a lot of love from our Featured Artists, like **DJ Raisei** and his new osu!original song *T.R.A.P.*!
 
-### DJ Raisei - T.R.A.P.
+### DJ Raisei - T.R.A.P. <!-- lint ignore no-heading-punctuation -->
 
 Check out [this beatmap](https://osu.ppy.sh/beatmapsets/1889105) hosted by [Halgoh](https://osu.ppy.sh/users/4109923) and used in OWC's Grand Finals NM4 slot.
 
