@@ -44,13 +44,13 @@ Listen through a few samples too:
 ### Ariabl'eyeS - Eigetsu Fiancailles
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/93/Meimei%20Fiancailles%20Act%201%2FAriabl%2527eyeS%20-%20Eigetsu%20Fiancailles.mp3" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/93/Meimei%20Fiancailles%20Act%201%2FAriabl'eyeS%20-%20Eigetsu%20Fiancailles.mp3" type="audio/mpeg">
 </audio>
 
 ### Ariabl'eyeS - Senketsu no Shoudou
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/93/Meimei%20Fiancailles%20Act%202%2FAriabl%2527eyeS%20-%20Senketsu%20no%20Shoudou.mp3" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/93/Meimei%20Fiancailles%20Act%202%2FAriabl'eyeS%20-%20Senketsu%20no%20Shoudou.mp3" type="audio/mpeg">
 </audio>
 
 ## [BlackY](https://osu.ppy.sh/beatmaps/artists/150)
