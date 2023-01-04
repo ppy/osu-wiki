@@ -27,4 +27,4 @@ The LSD also served as an intermediary group for promising members pending admis
 
 After a [staff restructuring](https://osu.ppy.sh/community/forums/topics/123510) in 2013, the Language Surveillance Division was renamed as the **Chat Moderators** and received its own members listing<!-- https://web.archive.org/web/20140209160121/http://osu.ppy.sh:80/g/18 -->.
 
-On [August 20, 2015](/wiki/Staff_Log/2015#august), the Chat Moderators and Global Moderation teams [were merged](https://osu.ppy.sh/community/forums/posts/4435972), effectively giving all moderators distinctive red nicknames in chat and management power over the whole forum. 
+On [August 20, 2015](/wiki/Staff_Log/2015#august), the Chat Moderators and Global Moderation teams [were merged](https://osu.ppy.sh/community/forums/posts/4435972), effectively giving all moderators distinctive red nicknames in chat and management power over the whole forum.

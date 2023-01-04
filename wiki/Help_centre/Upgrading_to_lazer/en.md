@@ -43,6 +43,7 @@ The following is a comprehensive list of the **current state** of lazer in compa
 | Feature | stable | lazer |
 | :-- | :-- | :-- |
 | Accurate performance point display | ![Partial][partial][^online] | ![Yes][true] |
+| Difficulty adjust mod | ![No][false] | ![Yes][true][^difficulty-adjust] |
 | Mod presets | ![No][false] | ![Yes][true] |
 | Per-mod settings | ![No][false] | ![Yes][true] |
 | New "fun" mods | ![No][false] | ![Yes][true] |
@@ -188,13 +189,15 @@ We will likely bring back support for this in the future due to popular demand.
 
 Above a certain threshold there is no reason to run at higher frame rates. Lazer employs various new technologies to ensure the lowest latency is achievable without requiring high frame rates. This will continue to improve going forward as we still have a few improvements left to implement.
 
-Lazer polls for input at 1000 Hz regardless of FPS limiter, which is why the maximum limiter setting will also limit to 1000 FPS.
+Lazer polls for input at 1,000 Hz regardless of FPS limiter, which is why the maximum limiter setting will also limit to 1,000 FPS.
 
 If you are curious about how this affects input latency and test your own perception, please run the built-in "latency certifier" at the bottom of settings.
 
-#### If input is only polled at 1000 Hz, what about my 8000 Hz gaming mouse?
+You can also [read this technical document](https://github.com/ppy/osu/wiki/Latency-and-unlimited-frame-rates) explaining the path we are taking along with rationale behind it.
 
-The operating system will still poll at the higher rate, although benefits are proven to be negligible. Polling at such high rates can have unforeseen overheads, and we recommend limiting devices to 1000 Hz for system stability.
+#### If input is only polled at 1,000 Hz, what about my 8,000 Hz gaming mouse?
+
+The operating system will still poll at the higher rate, although benefits are proven to be negligible. Polling at such high rates can have unforeseen overheads, and we recommend limiting devices to 1,000 Hz for system stability.
 
 #### Lazer performs worse than stable for me. What gives?
 
@@ -282,6 +285,7 @@ You're likely thinking of another game.
 [^countdown-timers-stable]: Set a countdown using a command, no automatic start.
 [^countdown-timers-lazer]: Set a countdown from the game UI to automatically start the match.
 [^queue-modes]: Turn on to allow anyone in a lobby to queue new beatmaps, a.k.a. "host rotate".
+[^difficulty-adjust]: Change CS/AR/OD/HP of a beatmap directly from song select.
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png
