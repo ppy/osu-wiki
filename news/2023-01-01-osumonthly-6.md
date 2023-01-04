@@ -45,7 +45,7 @@ A really cool and also very requested feature that was implemented this month is
 
 Have you ever dreamed of being able to cuddle or throw the osu! cookie, pippi, or the big and strong Taikonator 3000? Well it's time to jump on the opportunity and take a look at the Makeship x osu! collaboration.
 
-After a [small teaser](https://twitter.com/osugame/status/1600560233885339649?s=20&t=jMBRjxsv69dr1-lM2JLICQ) on Twitter, and a [subsequent giveaway](https://twitter.com/osugame/status/1601055681217384453) announcing the release of this collaboration, the osu! team has decided to bring back iconic osu! figures to life in the form of limited edition plushies. If you missed the launch of this partnership, don't hesitate to go and see the [official announcement](/news/2022-12-10-makeship-x-osu-plushies).
+After a [small teaser](https://twitter.com/osugame/status/1600560233885339649?s=20&t=jMBRjxsv69dr1-lM2JLICQ) on Twitter, and a [subsequent giveaway](https://twitter.com/osugame/status/1601055681217384453) announcing the release of this collaboration, the osu! team has decided to bring back iconic osu! figures to life in the form of limited edition plushies. If you missed the launch of this partnership, don't hesitate to go and see the [official announcement](https://osu.ppy.sh/home/news/2022-12-10-makeship-x-osu-plushies).
 
 ### COE 2023 date reveal
 
