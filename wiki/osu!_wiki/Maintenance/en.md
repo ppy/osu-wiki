@@ -28,7 +28,6 @@ On GitHub, pull requests and issues may be tagged and classified by using [label
 
 - `rule change`: the change affects an existing set of rules, such as the [ranking criteria](/wiki/Ranking_Criteria), and needs to be reviewed by the area's owner
 - `blocked`: the change has issues which must be resolved before proceeding, or depends on another issue which must be resolved first
-- `needs native review`: the translation needs to be checked by a person fluent in the respective language; alternatively, during the merge process it means that no such review took place
 - `needs rebase`: the pull request has too many small unstructured commits, which need to be rebased and worded in a better way; this is usually done by the maintainers right before the merge
 
 ### Links and redirects
@@ -141,7 +140,7 @@ The wiki relies on input from the osu! community. You can help the maintainers a
 
 The osu! wiki is read by people from all around the world. To help your local community and attract new awesome players, mappers, modders, and developers into the game, you can translate English articles, or update existing translations that have fallen behind. Check the [list of languages](/wiki/Article_styling_criteria/Formatting#locales) supported by the osu! wiki, and ensure your translation follows the [content parity](/wiki/Article_styling_criteria/Writing#content-parity) principle. If you are a fluent speaker and experienced writer, take on key topics such as articles on [rules](https://github.com/ppy/osu-wiki/tree/master/wiki/Rules) or the [ranking criteria](https://github.com/ppy/osu-wiki/tree/master/wiki/Ranking_Criteria). In case you are only beginning your writing career, pick a small article to receive help and guidance from native reviewers.
 
-A translation may be merged without a native review if it has been more than two weeks since its creation date.
+A translation may be merged without a native review if it has been more than one weeks since its creation date.
 
 ### Stub expansion
 
