@@ -47,7 +47,7 @@ When adding redirects for a new or existing article, keep in mind that they shou
 
 The osu! wiki repository uses [continuous integration](https://docs.github.com/en/actions/guides/about-continuous-integration) (CI) to automatically check incoming pull requests for various common errors. The list of checks is configured in the [`continuous-integration.yml`](https://github.com/ppy/osu-wiki/blob/master/.github/workflows/continuous-integration.yml) file. 
 
-The [`package.json`](https://github.com/ppy/osu-wiki/blob/master/package.json) file lists all (remark) plugins used by the CI, of which some were written by the osu! wiki maintainers.
+The [`package.json`](https://github.com/ppy/osu-wiki/blob/master/package.json) file lists all ([remark](https://github.com/remarkjs/remark)) plugins used by the CI, of which some were written by the osu! wiki maintainers.
 
 The CI checks are run automatically on every commit of a recurring contributor. In order to have their pull requests merged, contributors are expected to fix errors reported by the CI. To see the [status of checks](img/ci-status.png), do the following:
 
@@ -60,7 +60,7 @@ If you need help with decrypting CI check error messages, or fixing issues, ask 
 
 #### Bypassing CI checks
 
-CI checks ensure that changes to the wiki keep it in a consistent state, but ways to bypass them exist as a fail safe, such that pull requests can still be merged in the event of false errors or discovered bugs in the checks. There are a few situations where intentionally bypassing a CI check is acceptable, as outlined below. Contact a [maintainer](/wiki/osu!_wiki/Maintenance/List_of_maintainers) if you need to bypass a check for a reason not mentioned here.
+CI checks normally prevent pull requests with errors from getting merged. However, in the event of false errors or discovered bugs in the checks, they can still be bypassed as a fail safe. There are a few situations where intentionally bypassing a CI check is acceptable, as outlined below. Contact a [maintainer](/wiki/osu!_wiki/Maintenance/List_of_maintainers) if you need to bypass a check for a reason not mentioned here.
 
 For reference, below is a table of all CI checks in order:
 
@@ -74,7 +74,7 @@ For reference, below is a table of all CI checks in order:
 
 ##### Markdown [`no-heading-punctuation`](https://github.com/remarkjs/remark-lint/tree/main/packages/remark-lint-no-heading-punctuation) remark lint rule
 
-Trailing periods in headings normally do not occur because headings are generally not sentences, and are therefore disallowed. Sometimes trailing punctuation is needed because e.g. a song title in the heading contains it, or a sentence is put into a heading in an FAQ section.
+Trailing periods in headings normally do not occur because headings are generally not sentences, and are therefore disallowed. However, sometimes trailing punctuation may be needed because e.g. a song title or artist name contains it.
 
 ```markdown
 <!-- lint ignore no-heading-punctuation -->
@@ -104,7 +104,7 @@ Creator of osu!.
 
 Contributors are encouraged to fix broken links while updating articles. That said, for some situations, that may require more work than is relevant for the pull request:
 
-- Small individual fixes to an article (that are not meant to generally clean up an article)
+- Small individual fixes to articles (that are not meant to generally clean them up)
 - Section links to a translation where the section does not exist
 - Moving files around (for links already broken not as a result from this)
 
