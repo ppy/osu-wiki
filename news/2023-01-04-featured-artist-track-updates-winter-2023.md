@@ -322,7 +322,7 @@ Considering **Sephid** joined osu! thanks to [a map from OWC 2020](https://osu.p
 
 ### Sephid - Thunderstrike 1988
 
-Have fun with [this map used as OWC's Quarterfinals HD3](https://osu.ppy.sh/beatmapsets/1889109) hosted by [Feiri](https://osu.ppy.sh/users/3214844)!
+Have fun with [this map used as OWC's Grand Finals HD3](https://osu.ppy.sh/beatmapsets/1889109) hosted by [captin1](https://osu.ppy.sh/users/689997)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/196/Songs/Sephid%20-%20Thunderstrike%201988.mp3" type="audio/mpeg">
