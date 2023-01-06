@@ -11,6 +11,8 @@ The eventual goal is that this version will be released as an update which will 
 
 "lazer" is a codename and will eventually be dropped as it becomes the primary release of the game. The rest of this document will refer to osu!(lazer) as "lazer" and osu!(stable) as "stable" for simplicity.
 
+*Notice: We are still figuring out game balance and mechanics. For now, **scores set on lazer should not be considered permanent**.*
+
 ## Feature comparison
 
 The following is a comprehensive list of the **current state** of lazer in comparison to stable. Note that this is a moving target — the end goal is to implement all the features that players care about over time.
