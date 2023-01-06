@@ -5,13 +5,13 @@ tags:
 
 # Upgrading to lazer
 
+*Notice: We are still figuring out game balance and mechanics. For now, **scores set on lazer should not be considered permanent**.*
+
 osu!(lazer) is the next major update to the game. It is the culmination of several years of work behind the scenes to painstakingly reimplement the game.
 
 The eventual goal is that this version will be released as an update which will completely supersede the existing stable version of the game, but there's still some work to be done before that is feasible. At the end of the day, **the players** will dictate when this happens and we will continue to support the previous release until users have migrated across.
 
 "lazer" is a codename and will eventually be dropped as it becomes the primary release of the game. The rest of this document will refer to osu!(lazer) as "lazer" and osu!(stable) as "stable" for simplicity.
-
-*Notice: We are still figuring out game balance and mechanics. For now, **scores set on lazer should not be considered permanent**.*
 
 ## Feature comparison
 
