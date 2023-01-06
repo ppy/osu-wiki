@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!monthly, December 2022"
-date: 2023-01-01 09:00:00 +0000
+date: 2023-01-06 17:00:00 +0000
 ---
 
 Catch up with community happenings in December's edition of osu!monthly!
