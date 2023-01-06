@@ -215,19 +215,19 @@ Although, like most osu! players, you may be content with the beatmaps already i
 
 By the way, even if we don't mention all the beatmaps that have been ranked this month, you should know that they are all great, and worth a visit. Don't hesitate to take a look at the beatmap section of the osu! website and check out the most recent beatmaps!
 
-#### Mighty Morphin Power Rangers by Sytho - Community's favorite
+#### Alakrity - Mighty Morphin Power Rangers mapped by Sytho - Community's favorite
 
 An iconic song that recalls the childhood of many of us, [Alakrity - Mighty Morphin Power Rangers](https://osu.ppy.sh/beatmapsets/1758657) of the *Power Rangers* series and adapted as a beatmap on osu! by [Sytho](https://osu.ppy.sh/users/4175698) has definitely been the community's favourite, either as nostalgia throwback or another set to farm for those juicy performance points. With amazing guest difficulties made by [MakiDonalds](https://osu.ppy.sh/users/11610772), [Kirishima-](https://osu.ppy.sh/users/9234078) and [rpoj](https://osu.ppy.sh/users/17421591), this map has a good balance between streams and jumps, making it a pleasant to play, and players appreciated that as shown by its high number of plays, reaching 400k at the end of the month.
 
-#### Seishun Complex by \_kotachi\_ - Community's favorite
+#### kessoku band - Seishun Complex mapped by \_kotachi\_ - Community's favorite
 
 Another song that stood out this month is surely [kessoku band - Seishun Complex](https://osu.ppy.sh/beatmapsets/1863866) from the series *Bocchi the Rock!*, a manga recently adapted into anime. A song that the community liked a lot as shown in the "Popular Beatmaps" section of the home page in which this map has remained most of the month, thanks to [\_kotachi\_](https://osu.ppy.sh/users/4698485) and all their GDers. We can also mention [kessoku band - Guitar to Kodoku to Aoi Hoshi](https://osu.ppy.sh/beatmapsets/1880007) of the same anime but mapped by [ponbot](https://osu.ppy.sh/users/8939857) and their GDers, which was also very well received. Trendy song, loved by the community and mapped properly — a combo that works all the time.
 
-#### Heathens (Magnetude Bootleg) by funny - osu!monthly Mapping Team's favourite
+#### twenty one pilots - Heathens (Magnetude Bootleg) mapped by funny - osu!monthly Mapping Team's favourite
 
 It's a collab we've been waiting for a long time, and they sure didn't disappoint us! Some of the best tech mappers, including [0ppInOsu](https://osu.ppy.sh/users/12551840), [-Doodle](https://osu.ppy.sh/users/12337329), [enryotoki](https://osu.ppy.sh/users/10639122), [funny](https://osu.ppy.sh/users/8473573), [Halgoh](https://osu.ppy.sh/users/4109923), [Rorupan L9](https://osu.ppy.sh/users/9471638), [Sharu](https://osu.ppy.sh/users/5597639) and [Xarr](https://osu.ppy.sh/users/7262065), gathered around [twenty one pilots - Heathens (Magnetude Bootleg)](https://osu.ppy.sh/beatmapsets/1851103) to show us once again what they are capable of. With a lively and rhythmic song, wonderfully represented by complex yet organised sliders, and a storyboard that just adds another dimension to the map, this collab definitely caught our eye!
 
-#### Song Compilation V by Sotarks - Bonus
+#### Various Artists - Song Compilation V mapped by Sotarks - Bonus
 
 If you know a little bit about [Sotarks](https://osu.ppy.sh/users/4452992), you should know that he sometimes makes songs compilations. He has recently launched his [Songs Compilation V](https://osu.ppy.sh/beatmapsets/1892585), but this time with a different theme, memes. With guest difficulties by [Akitoshi](https://osu.ppy.sh/users/4754771), [Elinor](https://osu.ppy.sh/users/5419324), [Nymphe](https://osu.ppy.sh/users/10507407), [Pepekcz](https://osu.ppy.sh/users/7784933) and [Reform](https://osu.ppy.sh/users/3723568), Sotarks has linked fun, thanks to the songs, and seriousness, through its always excellent mapping, in a set completed by a beautiful storyboard made by [PoNo](https://osu.ppy.sh/users/4610047) that accompanies us throughout this journey to remind us of the memes through time.
 
