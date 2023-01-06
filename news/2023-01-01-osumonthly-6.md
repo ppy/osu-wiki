@@ -305,7 +305,7 @@ Thanks to [Kurboh](https://osu.ppy.sh/users/15243233) for providing this cool fa
 
 ## Monthly community quiz
 
-Congratulations to [squidstain](https://osu.ppy.sh/users/11073207) (as expected of an [osu!trivium](https://osu.ppy.sh/wiki/en/Contests/osu!trivium_Quiz/2021) Champion) for being the first person to answer last month's question and score themselves 1 month of osu!supporter!
+Congratulations to [squidstain](https://osu.ppy.sh/users/11073207) (as expected of an [osu!trivium](/wiki/Contests/osu!trivium_Quiz/2021) Champion) for being the first person to answer last month's question and score themselves 1 month of osu!supporter!
 
 For anyone who missed last month's edition, the question was:
 
