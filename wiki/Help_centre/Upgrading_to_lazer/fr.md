@@ -44,7 +44,7 @@ Ce qui suit est une liste complète de l'**état actuel** de lazer par rapport �
 | Fonctionnalité | stable | lazer |
 | :-- | :-- | :-- |
 | Affichage précis des points de performance | ![Partiellement][partial][^online] | ![Oui][true] |
-| Ajustement de la difficulté de mods | ![Non][false] | ![Oui][true][^difficulty-adjust] |
+| Ajustement de la difficulté des mods | ![Non][false] | ![Oui][true][^difficulty-adjust] |
 | Préréglages de mods | ![Non][false] | ![Oui][true] |
 | Paramètres par mod | ![Non][false] | ![Oui][true] |
 | Nouveaux mods "amusants" | ![Non][false] | ![Oui][true] |
@@ -194,7 +194,7 @@ Lazer prend en compte l'entrée à 1 000 Hz indépendamment du limiteur de FPS, 
 
 Si vous êtes curieux de savoir comment cela affecte la latence d'entrée et de tester votre propre perception, veuillez exécuter le "certificateur de latence" intégré en bas des paramètres.
 
-Vous pouvez également [lire ce document technique] (https://github.com/ppy/osu/wiki/Latency-and-unlimited-frame-rates) qui explique la voie que nous empruntons et le raisonnement qu'elle implique.
+Vous pouvez également [lire ce document technique](https://github.com/ppy/osu/wiki/Latency-and-unlimited-frame-rates) qui explique la voie que nous empruntons et le raisonnement qu'elle implique.
 
 #### Si l'entrée n'est prise en compte qu'à 1000 Hz, qu'en est-il de ma souris gaming à 8000 Hz ?
 
