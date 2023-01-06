@@ -313,7 +313,7 @@ For anyone who missed last month's edition, the question was:
 
 and the answer was: *cho.ppy.sh*. Get it, choppy as in turbulent? As terrible as this pun was, it was enough for squidstain to answer correctly and acquire themselves a free month of osu!supporter. A lot of you had very creative answers and we hope to see that level of creativity continues with this month's question, courtesy of our trivia master [chromb](https://osu.ppy.sh/users/10238680) and one of the trivia champs themselves (and previous month's winner), squidstain:
 
-**BYEAH (placeholder)**
+**What class must mappers experience to create perfect sliders?**
 
 When we showed this question to [Ephemeral](https://osu.ppy.sh/users/102335) (the osu! community manager), they liked it so much both due to the difficulty and creativity, that they have decided to grace the first person to correctly answer with **3 months of osu!supporter**!
 
