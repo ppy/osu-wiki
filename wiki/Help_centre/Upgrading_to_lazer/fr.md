@@ -6,6 +6,8 @@ tags:
 
 # Mise à jour vers lazer
 
+*Note : Nous sommes encore en train d'étudier l'équilibre et les mécanismes du jeu. Pour l'instant, **les scores obtenus avec lazer ne doivent pas être considérés comme permanents**.*
+
 osu!(lazer) est la prochaine mise à jour majeure du jeu. C'est l'aboutissement de plusieurs années de travail en coulisses pour réimplémenter minutieusement le jeu.
 
 L'objectif final est que cette version soit publiée comme une mise à jour qui remplacera complètement la version stable existante du jeu, mais il y a encore du travail à faire avant que cela ne soit réalisable. En fin de compte, **les joueurs** décideront du moment où cela se produira et nous continuerons à prendre en charge la version précédente jusqu'à ce que tous les utilisateurs aient migré.
