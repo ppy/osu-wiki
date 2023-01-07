@@ -8,7 +8,7 @@ We found something you've been seeking.
 
 ![](https://assets.ppy.sh/artists/332/header.jpg)
 
-Ever since [Glory Days](https://osu.ppy.sh/beatmapsets/1781620) made it to the ranked section, **Fellowship** was prophesized to join our Featured Artist catalogue.
+Ever since [Glory Days](https://osu.ppy.sh/beatmapsets/1781620) made it to the ranked section, **Fellowship** was prophesised to join our Featured Artist catalogue.
 
 If power metal and insane streams are your two favourite things, you might wanna check out [**Fellowship**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/332) for **10** future osu! classics.
 
