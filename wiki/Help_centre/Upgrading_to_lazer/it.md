@@ -85,11 +85,11 @@ Di seguito verrà rappresentata una lista dello **stato attuale** di lazer in co
 | osu!taiko editor | ![No][false] | ![Yes][true] |
 | osu!catch editor | ![No][false] | ![Yes][true] |
 | osu!mania editor | ![Yes][true] | ![Yes][true] |
-| difficoltà aperta come riferimento | ![Yes][true] | ![No][false] |
+| Difficoltà aperta come riferimento | ![Yes][true] | ![No][false] |
 | Per-oggetto SV / volume | ![No][false] | ![Yes][true] |
-| rotazione dei pattern | ![Yes][true] | ![Partial][partial][^editor-precise-rotation] |
-| ridimensionamento dei pattern | ![No][false] | ![Yes][true] |
-| caricamento della beatmap | ![Yes][true] | ![No][false] |
+| Rotazione dei pattern | ![Yes][true] | ![Partial][partial][^editor-precise-rotation] |
+| Ridimensionamento dei pattern | ![No][false] | ![Yes][true] |
+| Caricamento della beatmap | ![Yes][true] | ![No][false] |
 | Storyboard editor | ![Yes][true] | ![No][false] |
 | Compatibilità cross-client | ![Yes][true] | ![Partial][partial][^incompatibilities] |
 
@@ -115,13 +115,13 @@ Attualmente, beatmap, skin, punteggi, replay e collezioni possono essere importa
 
 Se stable e lazer si trovano nello stesso disco, gli [hard links](/wiki/Client/Release_stream/Lazer/File_storage#via-hard-links) verranno usati per evitare il consumo di spazio aggiunto.
 
-in altri casi, nell'importazione delle beatmap userà il doppio dello spazio.
+In altri casi, nell'importazione delle beatmap userà il doppio dello spazio.
 
-#### se disinstallo lazer, ciò causerà problemi alla cartella dove stable è installato?
+#### Se disinstallo lazer, ciò causerà problemi alla cartella dove stable è installato?
 
 No.
 
-#### se disinstallo stable, il contenuto importato da stable darà problemi su lazer?
+#### Se disinstallo stable, il contenuto importato da stable darà problemi su lazer?
 
 No.
 
@@ -129,7 +129,7 @@ No.
 
 Si, lazer verrà sempre installato a fianco a stable. A meno che tu non decida di eliminare uno dei due, entrambi saranno accessibili.
 
-#### posso importare i miei dati da lazer a stable?
+#### Posso importare i miei dati da lazer a stable?
 
 No. Non verrà supportato.
 
@@ -139,7 +139,7 @@ Detto questo, i singoli score e mappe possono essere esportati da lazer e manual
 
 #### Se faccio uno score su lazer, verrà visualizzato sul mio profilo?
 
-gli score verranno mostrati sotto la sezione "Partite Recenti" ma non in "Migliore Performance" per ora.
+Gli score verranno mostrati sotto la sezione "Partite Recenti" ma non in "Migliore Performance" per ora.
 
 #### Se imposto un punteggio su lazer, darà punti performance?
 
@@ -147,11 +147,11 @@ I punteggi avranno già i punti performance calcolati (puoi vederlo nella sezion
 
 #### Lazer usa ScoreV2?
 
-Lazer attualmente utilizza un nuovo sistema di punteggio sperimentale che è simile a ScoreV2 ma non è identico. questo è ancora sotto sviluppo e sstiamo ancora raccogliendo pareri e opinioni dai giocatori in base al contesto in cui viene usato (solo play, classifiche, tornei etc.).
+Lazer attualmente utilizza un nuovo sistema di punteggio sperimentale che è simile a ScoreV2 ma non è identico. questo è ancora sotto sviluppo e stiamo ancora raccogliendo pareri e opinioni dai giocatori in base al contesto in cui viene usato (solo play, classifiche, tornei etc.).
 
 <!-- lint ignore no-heading-punctuation -->
 
-#### preferisco il vecchio sistema di punteggio, dove il punteggio diventa veramente grande.
+#### Preferisco il vecchio sistema di punteggio, dove il punteggio diventa veramente grande.
 
 Puoi effettivamente modificare l'impostazione `Modalità di visualizzazione del punteggio` in `Classico` per ripristinare lo stile esplosivo del punteggio in tutto il gioco! Non sarà lo stesso, ma ti darà la stessa sensazione del punteggio classico e verrà applicato dove ti aspetteresti.
 
@@ -177,17 +177,17 @@ Prova ad applicare la mod "classic", che ripristinerà gran parte delle vecchie 
 
 Eseguire la configurazione guidata nella parte superiore delle impostazioni e controllare le impostazioni nella schermata `Comportamento`. Qui sono elencate molte delle impostazioni comuni che sono state modificate per impostazione predefinita. C'è anche un singolo pulsante che si può premere per applicare i vecchi comportamenti come punto di partenza per il vostro viaggio con il lazer.
 
-#### le vecchie skin funzioneranno nella selezione delle mappe e nella schermata del risultato?
+#### Le vecchie skin funzioneranno nella selezione delle mappe e nella schermata del risultato?
 
 Faremo del nostro meglio per riportare queste funzionalità
 
-#### posso usare il cursore della skin pure sul menù?
+#### Posso usare il cursore della skin pure sul menù?
 
-porteremo molto probabilmente questa novità date la richiesta elevata.
+Porteremo molto probabilmente questa novità date la richiesta elevata.
 
 ### Prestazioni
 
-#### perchè non posso avere gli fps illimitati?
+#### Perchè non posso avere gli fps illimitati?
 
 Al di sopra di una certa soglia, non c'è motivo di utilizzare frame rate più elevati. Lazer impiega diverse nuove tecnologie per garantire la latenza più bassa possibile senza richiedere frame rate elevati. Questo aspetto continuerà a migliorare in futuro, poiché abbiamo altre migliorie da implementare.
 
