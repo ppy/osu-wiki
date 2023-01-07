@@ -21,77 +21,77 @@ Di seguito verrà rappresentata una lista dello **stato attuale** di lazer in co
 
 | Funzionalità | stable | lazer |
 | :-- | :-- | :-- |
-| Windows 8.0 e versioni precedenti | ![Yes][true] | ![No][false] |
-| MacOS / Linux | ![Partial][partial][^wine] | ![Yes][true] |
-| DirectX / Vulkan | ![Partial][partial][^compatibility-mode] | ![No][false][^coming-soon] |
-| Supporto mobile | ![No][false] | ![Yes][true] |
-| Architettura Multithread | ![No][false] | ![Yes][true] |
-| Accelerazione-Hardware dei video | ![No][false] | ![Yes][true] |
-| Ridimensione dell'Interfaccia | ![No][false] | ![Yes][true] |
-| Ruleset personalizzati (game modes) | ![No][false] | ![Partial][partial][^dll] |
-| Archivio dei file de-duplicato | ![No][false] | ![Yes][true][^share-files] |
-| Supporto alla tavoletta grafica | ![No][false] | ![Yes][true] |
+| Windows 8.0 e versioni precedenti | ![Sì][true] | ![No][false] |
+| MacOS / Linux | ![Parziale][partial][^wine] | ![Sì][true] |
+| DirectX / Vulkan | ![Parziale][partial][^compatibility-mode] | ![No][false][^coming-soon] |
+| Supporto mobile | ![No][false] | ![Sì][true] |
+| Architettura Multithread | ![No][false] | ![Sì][true] |
+| Accelerazione-Hardware dei video | ![No][false] | ![Sì][true] |
+| Ridimensione dell'Interfaccia | ![No][false] | ![Sì][true] |
+| Ruleset personalizzati (game modes) | ![No][false] | ![Parziale][partial][^dll] |
+| Archivio dei file de-duplicato | ![No][false] | ![Sì][true][^share-files] |
+| Supporto alla tavoletta grafica | ![No][false] | ![Sì][true] |
 
 ### UI e skinning
 
 | Funzionalità | stable | lazer |
 | :-- | :-- | :-- |
-| Supporto alle skin | ![Yes][true] | ![Partial][partial][^gameplay-only] |
-| Raggruppamento delle canzoni | ![Yes][true] | ![No][false] |
-| Modifica della skin e disposizione dell'UI direttamente in gioco | ![No][false] | ![Yes][true] |
+| Supporto alle skin | ![Sì][true] | ![Parziale][partial][^gameplay-only] |
+| Raggruppamento delle canzoni | ![Sì][true] | ![No][false] |
+| Modifica della skin e disposizione dell'UI direttamente in gioco | ![No][false] | ![Sì][true] |
 
 ### Gameplay e skinning
 
 | Funzionalità | stable | lazer |
 | :-- | :-- | :-- |
-| Visualizzazione accurata dei punti performance | ![Partial][partial][^online] | ![Yes][true] |
-| Modifica difficoltà mod | ![No][false] | ![Yes][true][^difficulty-adjust] |
-| Preimpostazioni per le mod | ![No][false] | ![Yes][true] |
-| Impostazioni per-mod | ![No][false] | ![Yes][true] |
-| Nuove mods "per divertimento" | ![No][false] | ![Yes][true] |
-| Colori delle combo[^normalisation] | ![No][false] | ![Yes][true] |
-| Tenere premuto per l'HUD | ![No][false] | ![Yes][true][^hold-for-hud] |
-| Calibrazione dell'offset | ![Partial][partial][^offset-calibration-stable] | ![Yes][true][^offset-calibration-lazer] |
-| osu! sliders "serpentino" mentre trascinato | ![No][false] | ![Yes][true][^can-disable] |
-| osu! giocatore-friendly "note lock" | ![No][false] | ![Yes][true][^note-lock] |
-| osu!mania colorazione basata sul tempo | ![No][false] | ![Yes][true] |
+| Visualizzazione accurata dei punti performance | ![Parziale][partial][^online] | ![Sì][true] |
+| Modifica difficoltà mod | ![No][false] | ![Sì][true][^difficulty-adjust] |
+| Preimpostazioni per le mod | ![No][false] | ![Sì][true] |
+| Impostazioni per-mod | ![No][false] | ![Sì][true] |
+| Nuove mods "per divertimento" | ![No][false] | ![Sì][true] |
+| Colori delle combo[^normalisation] | ![No][false] | ![Sì][true] |
+| Tenere premuto per l'HUD | ![No][false] | ![Sì][true][^hold-for-hud] |
+| Calibrazione dell'offset | ![Parziale][partial][^offset-calibration-stable] | ![Sì][true][^offset-calibration-lazer] |
+| osu! sliders "serpentino" mentre trascinato | ![No][false] | ![Sì][true][^can-disable] |
+| osu! giocatore-friendly "note lock" | ![No][false] | ![Sì][true][^note-lock] |
+| osu!mania colorazione basata sul tempo | ![No][false] | ![Sì][true] |
 
 ### Sistemi online
 
 | Funzionalità | stable | lazer |
 | :-- | :-- | :-- |
-| Ricezione del punteggio | ![Yes][true] | ![Partial][partial][^score-reset-balance] |
-| Classifiche per beatmap | ![Yes][true] | ![Partial][partial][^score-reset-isolated] |
-| Statistiche del profilo | ![Yes][true] | ![Yes][true] |
-| Medaglie | ![Yes][true] | ![No][false] |
-| Punti performance | ![Yes][true] | ![Partial][partial][^score-reset-isolated] |
-| Chat in tempo reale | ![Partial][partial][^stable-chat] | ![Yes][true] |
-| Wiki / News / Changelog / Classifiche | ![No][false] | ![Yes][true][^online-content] |
-| Profilo Utente | ![No][false] | ![Yes][true] |
-| Lista beatmap | ![Partial][partial][^direct-supporter] | ![Yes][true] |
-| Stanze multiplayer senza limiti di partecipanti | ![No][false][^multi-room-max] | ![Yes][true] |
-| Spettatore multiplayer | ![No][false] | ![Yes][true] |
-| Conto alla rovescia | ![Partial][partial][^countdown-timers-stable] | ![Yes][true][^countdown-timers-lazer] |
-| Modalità di code | ![No][false] | ![Yes][true][^queue-modes] |
-| Comandi multiplayer | ![Yes][true] | ![No][false] |
-| Tag co-op | ![Yes][true] | ![No][false] |
-| Playlists (user-curated leaderboards) | ![No][false] | ![Yes][true] |
-| Aggiornare la mappa con cambiamenti in tempo reale | ![Partial][partial][^map-only] | ![Yes][true][^all-files] |
+| Ricezione del punteggio | ![Sì][true] | ![Parziale][partial][^score-reset-balance] |
+| Classifiche per beatmap | ![Sì][true] | ![Parziale][partial][^score-reset-isolated] |
+| Statistiche del profilo | ![Sì][true] | ![Sì][true] |
+| Medaglie | ![Sì][true] | ![No][false] |
+| Punti performance | ![Sì][true] | ![Parziale][partial][^score-reset-isolated] |
+| Chat in tempo reale | ![Parziale][partial][^stable-chat] | ![Sì][true] |
+| Wiki / News / Changelog / Classifiche | ![No][false] | ![Sì][true][^online-content] |
+| Profilo Utente | ![No][false] | ![Sì][true] |
+| Lista beatmap | ![Parziale][partial][^direct-supporter] | ![Sì][true] |
+| Stanze multiplayer senza limiti di partecipanti | ![No][false][^multi-room-max] | ![Sì][true] |
+| Spettatore multiplayer | ![No][false] | ![Sì][true] |
+| Conto alla rovescia | ![Parziale][partial][^countdown-timers-stable] | ![Sì][true][^countdown-timers-lazer] |
+| Modalità di code | ![No][false] | ![Sì][true][^queue-modes] |
+| Comandi multiplayer | ![Sì][true] | ![No][false] |
+| Tag co-op | ![Sì][true] | ![No][false] |
+| Playlists (user-curated leaderboards) | ![No][false] | ![Sì][true] |
+| Aggiornare la mappa con cambiamenti in tempo reale | ![Parziale][partial][^map-only] | ![Sì][true][^all-files] |
 
 ### Editor
 
 | Funzionalità | stable | lazer |
 | :-- | :-- | :-- |
-| osu!taiko editor | ![No][false] | ![Yes][true] |
-| osu!catch editor | ![No][false] | ![Yes][true] |
-| osu!mania editor | ![Yes][true] | ![Yes][true] |
-| Difficoltà aperta come riferimento | ![Yes][true] | ![No][false] |
-| Per-oggetto SV / volume | ![No][false] | ![Yes][true] |
-| Rotazione dei pattern | ![Yes][true] | ![Partial][partial][^editor-precise-rotation] |
-| Ridimensionamento dei pattern | ![No][false] | ![Yes][true] |
-| Caricamento della beatmap | ![Yes][true] | ![No][false] |
-| Storyboard editor | ![Yes][true] | ![No][false] |
-| Compatibilità cross-client | ![Yes][true] | ![Partial][partial][^incompatibilities] |
+| osu!taiko editor | ![No][false] | ![Sì][true] |
+| osu!catch editor | ![No][false] | ![Sì][true] |
+| osu!mania editor | ![Sì][true] | ![Sì][true] |
+| Difficoltà aperta come riferimento | ![Sì][true] | ![No][false] |
+| Per-oggetto SV / volume | ![No][false] | ![Sì][true] |
+| Rotazione dei pattern | ![Sì][true] | ![Parziale][partial][^editor-precise-rotation] |
+| Ridimensionamento dei pattern | ![No][false] | ![Sì][true] |
+| Caricamento della beatmap | ![Sì][true] | ![No][false] |
+| Storyboard editor | ![Sì][true] | ![No][false] |
+| Compatibilità cross-client | ![Sì][true] | ![Parziale][partial][^incompatibilities] |
 
 ## Passare a lazer
 
@@ -215,6 +215,10 @@ Si noti che stiamo già monitorando più di 1.000 problemi più o meno critici e
 
 ### Altro
 
+#### Perché si chiama "lazer" ?
+
+Cos'è più affilato di un bordo tagliente?
+
 #### Perché lazer ci sta mettendo così tanto tempo per diventare la versione "principale"?
 
 Sebbene osu! possa sembrare un gioco semplice, ci sono centinaia e centinaia di funzionalità e sistemi su cui gli utenti hanno fatto affidamento. A seconda di chi lo chieda, lazer potrebbe essere in uno stato completamente giocabile da anni o potrebbe mancare di innumerevoli funzionalità.
@@ -229,7 +233,7 @@ Abbiamo un'enorme quantità di funzioni e migliorie richiesti dagli utenti che c
 
 #### Come si accede alla cartella delle canzoni?
 
-In lazer non esiste una cartella delle canzoni! Questo ci permette di fare cose interessanti, come non dover premere `F5` alla selezione della mappa per aggiornare le beatmap (perché le beatmap sono sempre in stato ottimale) e di ridurre lo spazio su disco utilizzato dalle beatmap del 20-40%. È possibile leggere ulteriori informazioni su [il modo in cui lazer memorizza i file] (/wiki/Client/Release_stream/Lazer/File_storage).
+In lazer non esiste una cartella delle canzoni! Questo ci permette di fare cose interessanti, come non dover premere `F5` alla selezione della mappa per aggiornare le beatmap (perché le beatmap sono sempre in stato ottimale) e di ridurre lo spazio su disco utilizzato dalle beatmap del 20-40%. È possibile leggere ulteriori informazioni su [il modo in cui lazer memorizza i file](/wiki/Client/Release_stream/Lazer/File_storage).
 
 Se è necessario apportare modifiche a una beatmap, vi consigliamo di utilizzare l'editor. In futuro introdurremo una modalità nell'editor che renderà temporaneamente accessibile la cartella di una beatmap per modifiche esterne. Ciò consentirà di utilizzare strumenti esterni su una beatmap durante il processo di creazione.
 
@@ -257,9 +261,9 @@ Probabilmente stai pensando ad un altro gioco.
 
 ### Notes
 
-[^wine]: usando wine.
+[^wine]: Usando wine.
 [^compatibility-mode]: DirectX in modalità compatibilità.
-[^coming-soon]: arriva presto.
+[^coming-soon]: Arriva presto.
 [^dll]: Manualmente tramite i file `.dll`.
 [^share-files]: Le beatmap e le skin condivideranno i file e risparmieranno spazio su disco.
 [^gameplay-only]: Solo in gioco.
