@@ -87,7 +87,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/c9e
 | ::{ flag=RU }:: | **Russian Federation** | **[Mage](https://osu.ppy.sh/users/5527957)**, [timebuka](https://osu.ppy.sh/users/6857841), [karayss](https://osu.ppy.sh/users/7156634), [Kurisu Makise](https://osu.ppy.sh/users/2790640) |
 | ::{ flag=SA }:: | **Saudi Arabia** | **[HeSo71](https://osu.ppy.sh/users/12556314)**, [mrking et](https://osu.ppy.sh/users/27127815), [yui -](https://osu.ppy.sh/users/27404774) |
 | ::{ flag=SG }:: | **Singapore** | **[DarryllV](https://osu.ppy.sh/users/11759693)**, [Semiiiii](https://osu.ppy.sh/users/24170686), [Japeynius](https://osu.ppy.sh/users/13993659), [sukidayo-](https://osu.ppy.sh/users/16870002) |
-| ::{ flag=KR }:: | **South Korea** | **[yz1155](https://osu.ppy.sh/users/2071008)**, [dressurf](https://osu.ppy.sh/users/758406), [\_Ennill](https://osu.ppy.sh/users/12040572), [133](https://osu.ppy.sh/users/12346181) |
+| ::{ flag=KR }:: | **South Korea** | **[yz1155](https://osu.ppy.sh/users/2071008)**, [dressurf](https://osu.ppy.sh/users/758406), [\_Ennill](https://osu.ppy.sh/users/12040572), [0133](https://osu.ppy.sh/users/12346181) |
 | ::{ flag=ES }:: | **Spain** | **[aitor98](https://osu.ppy.sh/users/3154852)**, [CrewK fanboy](https://osu.ppy.sh/users/7860283), [Notpx-](https://osu.ppy.sh/users/8519296), [Motxi](https://osu.ppy.sh/users/9951483) |
 | ::{ flag=SE }:: | **Sweden** | **[Sadcat](https://osu.ppy.sh/users/4123399)**, [Craty](https://osu.ppy.sh/users/3918056), [Vortex-](https://osu.ppy.sh/users/4999669), [Yoshiori](https://osu.ppy.sh/users/5045509) |
 | ::{ flag=CH }:: | **Switzerland** | **[MC2BP](https://osu.ppy.sh/users/11296097)**, [CrashSmash](https://osu.ppy.sh/users/13942150) |
