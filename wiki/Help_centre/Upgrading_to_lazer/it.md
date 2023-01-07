@@ -5,6 +5,8 @@ tags:
 
 # Aggiornare a lazer
 
+*Avviso: Stiamo ancora cercando di bilanciare e di sistemare le meccaniche di gioco. Per ora, **I punteggi che sono stati effettuati su lazer non saranno permanenti**.*
+
 osu!(lazer) è il prossimo grande aggiornamento al client di osu!. È il frutto di diversi anni di lavoro dietro le quinte per reimplementare osu!.
 
 L'obiettivo finale é quello di rilasciare questa versione come aggiornamento che sostituirá completamente l'attuale versione esistente del gioco, ma c'è ancora del lavoro da fare prima che sia fattibile. Alla fine, saranno **i giocatori** a determinare quando ciò accadrà e continueremo a supportare la versione precedente fino a quando gli utenti non avranno effettuato il passaggio.
