@@ -34,6 +34,8 @@ The **Ulat Cup 2022** (***UCUP 2022***) was a double-elimination 1v1 osu! tourna
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter, customised profile banner |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter, customised profile banner |
 
+![](img/badge.png "UCUP 2022 winner badge")
+
 ## Organisation
 
 UCUP 2022 was run by various osu! community members predominantly hailing from the South East Asia region.
@@ -447,7 +449,7 @@ Sunday, 6 November 2022:
 | Upper | **[Yukixo](https://osu.ppy.sh/users/17847877)** ::{ flag=PH }:: | **5** | 3 | ::{ flag=ID }:: [-Ayame](https://osu.ppy.sh/users/7128826) | [#1](https://osu.ppy.sh/community/matches/104901104) |
 | Upper | **[Moroha29](https://osu.ppy.sh/users/10137131)** ::{ flag=SG }:: | **5** | 0 | ::{ flag=ID }:: [Grandidierite](https://osu.ppy.sh/users/11976077) | *win by default* |
 | Upper | [Miggie](https://osu.ppy.sh/users/12028437) ::{ flag=PH }:: | 0 | **5** | ::{ flag=ID }:: **[moyamoyano\_sa](https://osu.ppy.sh/users/3891439)** | *win by default* |
-| Upper | **[-TwiHD](https://osu.ppy.sh/users/5470299)** ::{ flag=SG }:: | **5** | 0 | ::{ flag=ID }:: [Inquisitives](https://osu.ppy.sh/users/10722794) | *win by default* |
+| Upper | **[-TwiHD](https://osu.ppy.sh/users/5470299)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=SG }:: [Inquisitives](https://osu.ppy.sh/users/10722794) | *win by default* |
 
 ## Ruleset
 
