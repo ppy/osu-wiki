@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 22188ef2a9149c3f0999652c9386734bb1215ffe
+---
+
 # Liste der Verantwortlichen des osu!-Wikis
 
 Die Betreuer schauen regelmäßig in den [Issue-Tracker](https://github.com/ppy/osu-wiki/issues) und überprüfen Änderungsvorschläge (Pull-Requests) von Mitwirkenden. Im Gegensatz zu anderen Beteiligten können sie Vorschläge bearbeiten und diese mit dem `master`-Branch des Repositorys zusammenführen, wodurch die Änderungen veröffentlicht werden.
