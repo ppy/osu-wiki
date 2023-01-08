@@ -11,7 +11,8 @@ Applicants are required to meet a minimum [kudosu](/wiki/Modding/Kudosu) thresho
 Modders aiming to apply to the Beatmap Nominators must fulfil the following criteria:
 
 - They have accumulated at least 200 [kudosu](/wiki/Modding/Kudosu) for osu! modders, or 150 [kudosu](/wiki/Modding/Kudosu) for osu!taiko/osu!catch/osu!mania modders.
-- They provide 2 to 3 of their mods which they think qualify them to be a part of the Beatmap Nominators.
+- They provide 3 of their mods which they think qualify them to be a part of the Beatmap Nominators.
+  - Previous members of BN/NAT are allowed to submit a minimum of 2 mods for their application.
 
 ### Modding expectations
 
