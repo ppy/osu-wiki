@@ -102,10 +102,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/c9e
 
 ### Qualifiers
 
-## Mappools
-
-### Qualifiers
-
 **[Download the mappack here (40 MB)](https://drive.google.com/uc?id=168igQG7WTn3wPmt6xMr1_ctWC4-aXeeU)**
 
 1. [onumi - CONFUSION PART ONE (paradoxus\_) \[Stage 1: W INVADER\]](https://osu.ppy.sh/beatmapsets/1918915#mania/3959885)
