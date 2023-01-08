@@ -1,7 +1,5 @@
 ---
 layout: main_page
-outdated_translation: true
-outdated_since: cf3b01c5846687ecd885132800a4ef5405f2a4f4
 ---
 
 <div class="wiki-main-page__blurb">
@@ -115,7 +113,7 @@ osu! no hubiera sido posible sin la ayuda de muchos usuarios con el desarrollo, 
 
 [El Equipo](/wiki/People/The_Team): [Desarrolladores](/wiki/People/The_Team/Developers) • [Equipo de Moderación Global](/wiki/People/The_Team/Global_Moderation_Team) • [Equipo de Soporte](/wiki/People/The_Team/Support_Team) • [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Equipo de Project Loved](/wiki/People/The_Team/Project_Loved_Team) • [Beatmap Spotlight Curators](/wiki/People/The_Team/Beatmap_Spotlight_Curators)
 
-[Colaboradores de la comunidad](/wiki/People/Community_Contributors) • [Usuarios con títulos únicos](/wiki/People/Users_with_unique_titles) • [Comité de torneos](/wiki/People/Tournament_Committee) • [Comité de puntos de rendimiento](/wiki/People/Performance_Points_Committee)
+[Colaboradores de la comunidad](/wiki/People/Community_Contributors) • [Usuarios con títulos únicos](/wiki/People/Users_with_unique_titles) • [Comité de torneos](/wiki/People/Tournament_Committee) • [Comité de puntos de rendimiento](/wiki/People/Performance_Points_Committee) • [Mantenedores de la osu! wiki](/wiki/people/osu!_wiki_maintainers)
 
 </div>
 <div class="wiki-main-page-panel">
