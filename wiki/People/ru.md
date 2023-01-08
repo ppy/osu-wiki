@@ -1,12 +1,8 @@
----
-outdated_translation: true
-outdated_since: cf3b01c5846687ecd885132800a4ef5405f2a4f4
----
-
 # Персоналии
 
 Заглавная статья о различных пользователях и группах.
 
+- [Администраторы osu! wiki](osu!_wiki_maintainers)
 - [Выдающиеся участники сообщества](Community_Contributors)
 - [Команда osu!](The_Team)
 - [Комитет по очкам производительности](Performance_Points_Committee)
