@@ -107,6 +107,13 @@ Unofficial tournaments/competitions hosted by the communities.
 | 3 Digit World Cup 2020 | 2020-03-16 | 2020-05-31 | ::{ flag=US }:: United States | ::{ flag=BR }:: Brazil | ::{ flag=TW }:: Taiwan |
 | [3 Digit World Cup 2021](3WC/2021) | 2021-02-24 | 2021-05-09 | ::{ flag=TW }:: Taiwan | ::{ flag=PL }:: Poland | ::{ flag=US }:: United States |
 
+#### Aetherian's Summer Singles
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| Aetherian's Summer Singles 1 | 2021-04-30 | 2021-7-13 | ::{ flag=CA }:: [Flatpaper](https://osu.ppy.sh/users/11255340) | ::{ flag=CA }:: [FaintGun](https://osu.ppy.sh/users/10500541) | ::{ flag=PH }:: [NathanSS](https://osu.ppy.sh/users/8500628) |
+| [Aetherian's Summer Singles 2](AESS/2) | 2022-05-06 | 2022-07-23 | ::{ flag=PL }:: [maliszewski](https://osu.ppy.sh/users/12408961) | ::{ flag=KR }:: [[Karcher]](https://osu.ppy.sh/users/11443437) | ::{ flag=HK }:: [mcy4](https://osu.ppy.sh/users/2165650) |
+
 #### Ascaveth Invitational Tournament
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
@@ -705,6 +712,12 @@ Unofficial tournaments/competitions hosted by the communities.
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu!mania South East Asia Champion 2020](SEAC/2020) | 2020-12-26 | 2021-02-14 | ::{ flag=MY }:: [xxxxxx2800](https://osu.ppy.sh/users/4084853) | ::{ flag=VN }:: [CPT\_Sivelia](https://osu.ppy.sh/users/12562107) | ::{ flag=VN }:: [TriDoanGaming](https://osu.ppy.sh/users/14009758) |
+
+#### MUKASHI FESTIVAL ID
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [osu!mania 4K Community Tournament @ MUKASHI FESTIVAL ID Senayan Park](MUKASHI/1) | 2022-12-03 | 2022-12-03 | ::{ flag=ID }:: [LuxKooky](https://osu.ppy.sh/users/4691146) | ::{ flag=ID }:: [\[ -Asriel- \]](https://osu.ppy.sh/users/11829623) | ::{ flag=ID }:: [KinoJourney](https://osu.ppy.sh/users/15798093) |
 
 #### Score Attack Showdown
 
