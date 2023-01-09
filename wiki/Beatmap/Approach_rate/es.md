@@ -25,16 +25,16 @@ Consulte la infografía y las fórmulas a continuación para obtener una descrip
 
 ```
                                         X = golpe/recolectado
-         v i s i b i l i d a d          ↓
+             p r e e m p t             ↓
 ├───────────────────────┬───────────────┤
 0 %     aparición        100 % opacidad
 ```
 
-El objeto empezará a aparecer cuando `X - visibilidad` con:
+El objeto empezará a aparecer cuando `X - preemt` con:
 
-- AR < 5: `visibilidad = 1200 ms + 600 ms * (5 - AR) / 5`
-- AR = 5: `visibilidad = 1200 ms`
-- AR > 5: `visibilidad = 1200 ms - 750 ms * (AR - 5) / 5`
+- AR < 5: `preemt = 1200 ms + 600 ms * (5 - AR) / 5`
+- AR = 5: `preemt = 1200 ms`
+- AR > 5: `preemt = 1200 ms - 750 ms * (AR - 5) / 5`
 
 La cantidad de tiempo que tarda para que el objeto desaparezca por completo, también dependerá de la velocidad de aproximación:
 
