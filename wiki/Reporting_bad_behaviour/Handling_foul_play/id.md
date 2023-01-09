@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Menangani kecurangan
 
 ## Mengapa saya di-restrict?
