@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # 三角作图比赛
 
 ![](https://assets.ppy.sh/contests/147/header.jpg)
