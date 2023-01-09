@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # SEV 分数
 
 SEV 是一套[审核评估团队](/wiki/People/The_Team/Nomination_Assessment_Team) (*NAT*) 使用的系统，用于评估[提名重置](/wiki/Beatmap_ranking_procedure#提名重置)与[谱面审核成员](/wiki/People/The_Team/Beatmap_Nominators) (*BN*) 的过错有多少关系，将提名重置透明化，连贯化。这个分数分为两个值，显示为明显性和严重性。它们的取值范围在 0 到 2 之间，以便于此系统易于理解，方便使用。
