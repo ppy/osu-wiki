@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 5bea05821dbae22d79f17499302a8e819767f31c
+---
+
 # Devenir un Beatmap Nominator
 
 Les utilisateurs souhaitant rejoindre les [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) doivent passer par un processus de candidature supervisé par la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (NAT).
