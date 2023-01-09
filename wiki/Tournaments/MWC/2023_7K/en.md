@@ -233,7 +233,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/c9e
    - Finals and Grand Finals: 16 beatmaps
 4. Each mappool has one tiebreaker, except for the Qualifiers.
 5. Possible mod choices for all beatmaps are [Hidden](/wiki/Game_modifier/Hidden), [Fade In](/wiki/Game_modifier/Fade_In), [Flashlight](/wiki/Game_modifier/Flashlight), and [Mirror](/wiki/Game_modifier/Mirror).
-6. The [No Fail](/wiki/Game_modifier/No_Fail) mod will be enforced on every beatmap.
+6. Failed scores will be counted in their integrity. To that end, the [No Fail](/wiki/Game_modifier/No_Fail) mod will be enforced on every beatmap.
 7. The tiebreaker will be played under Free Mod conditions.
 
 ### Scheduling instructions
