@@ -1,15 +1,11 @@
----
-outdated_since: be8ba0f4615a5d5580a1452220ae0bdf2e4d4229
-outdated_translation: true
----
-
 # Règles générales relatives au contenu des musiques
 
 Avec une grande variété de musique disponible, la plupart d'entre elles pourront être utilisées dans osu!, à condition qu'elles ne soient pas :
 
 - Fortement politisées
 - Promotrice de tension ou de division raciale
-- Extrêmement et insupportablement fort ou excessivement écrêté
+- Extrêmement et insupportablement fort
+- Modifiées de façon à contenir une coupure audible ou une distorsion non voulue par l'artiste
 
 Veuillez noter que les musiques au contenu explicite sont [couvertes par des règles différentes](/wiki/Rules/Explicit_Content).
 

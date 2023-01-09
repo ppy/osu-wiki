@@ -1,11 +1,14 @@
 ---
 layout: main_page
+no_native_review: true
+outdated_translation: true
+outdated_since: 616ba00a29147f8bab7bf9598df6985621b2d99b
 ---
 
 <!-- Do not add any empty lines inside this div. -->
 
 <div class="wiki-main-page__blurb">
-Selamat datang di osu! wiki, sebuah basis pengetahuan open-source yang mengandung berbagai informasi seputar segala sesuatu yang berhubungan dengan osu!.
+Selamat datang di osu! wiki, basis pengetahuan open-source yang mengandung berbagai informasi seputar segala sesuatunya yang berhubungan dengan osu!.
 </div>
 
 <div class="wiki-main-page__panels">
@@ -13,7 +16,7 @@ Selamat datang di osu! wiki, sebuah basis pengetahuan open-source yang mengandun
 
 # Pendahuluan
   
-Artikel-artikel berikut akan memandumu untuk dapat mengenal osu!. Apabila kamu memiliki pertanyaan lebih lanjut, harap kunjungi [sub-forum Help](https://osu.ppy.sh/forum/5).
+Berikut merupakan berbagai artikel pendahuluan yang akan memandu kamu untuk memulai permainanmu. Apabila kamu memiliki pertanyaan lebih lanjut, kamu dapat mengunjungi [sub-forum Help](https://osu.ppy.sh/forum/5).
 
 [Peraturan](/wiki/Rules) • [Instalasi](/wiki/Client/Installation) • [Pendaftaran](/wiki/Registration) • [Pusat Bantuan](/wiki/Help_centre)
   
@@ -24,18 +27,18 @@ Artikel-artikel berikut akan memandumu untuk dapat mengenal osu!. Apabila kamu m
 
 # Klien permainan
 
-osu! merupakan permainan yang kaya akan fitur. Kenali berbagai fitur yang ada beserta segala seluk-beluknya, mulai dari pengaturan yang tersedia, rincian teknisnya, hingga ragam format berkas yang osu! gunakan.
+osu! merupakan permainan yang kaya akan fitur. Kenali berbagai fitur yang osu! miliki beserta segala seluk-beluknya, mulai dari pengaturan yang tersedia, rincian teknisnya, hingga ragam format berkas yang osu! gunakan.
   
-[Tampilan antarmuka](/wiki/Client/Interface) • [Menu Options](/wiki/Client/Options) • [Menu Visual Settings](/wiki/Client/Interface/Visual_settings) • [Tombol-tombol shortcut](/wiki/Client/Keyboard_shortcuts) • [Berkas konfigurasi pengguna](/wiki/Client/Program_files/User_configuration_file) • [Berkas program osu!](/wiki/Client/Program_files)
+[Tampilan antarmuka](/wiki/Client/Interface) • [Menu Options](/wiki/Client/Options) • [Menu Visual Settings](/wiki/Client/Interface/Visual_settings) • [Tombol shortcut](/wiki/Client/Keyboard_shortcuts) • [Berkas konfigurasi pengguna](/wiki/Client/Program_files/User_configuration_file) • [Berkas program osu!](/wiki/Client/Program_files)
 
 [Format berkas](/wiki/Client/File_formats): [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format))
 
 </div>
 <div class="wiki-main-page-panel">
 
-# Gameplay
+# Permainan
   
-Semuanya tentang lingkaran, drum, buah, dan keyboard: mulai dari aspek kunci, konsep permainan, mekanika permainan, hingga lingkungan kompetitifnya.
+Segalanya tentang lingkaran, drum, buah, dan keyboard: mulai dari aspek kunci, konsep permainan, mekanika permainan, hingga lingkungan kompetitifnya.
 
 [Mode permainan](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
@@ -44,9 +47,9 @@ Semuanya tentang lingkaran, drum, buah, dan keyboard: mulai dari aspek kunci, ko
 </div>
 <div class="wiki-main-page-panel">
 
-# [Beatmap editor](/wiki/Client/Beatmap_editor)
+# [Editor beatmap](/wiki/Client/Beatmap_editor)
   
-Seluruh beatmap yang terdapat di osu! merupakan buah karya para anggota komunitas. Apakah kamu ingin membuat beatmap, namun masih belum tahu caranya? Pelajari artikel-artikel berikut agar kamu dapat menjadi mapper yang ulung.
+Seluruh beatmap yang tersedia di osu! merupakan hasil karya para anggota komunitasnya. Apakah kamu ingin membuat beatmap, namun masih belum tahu caranya? Pelajari berbagai artikel berikut agar kamu dapat menjadi mapper yang ulung.
 
 Bagian: [Compose](/wiki/Client/Beatmap_editor/Compose) • [Design](/wiki/Client/Beatmap_editor/Design) • [Timing](/wiki/Client/Beatmap_editor/Timing) • [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup)
 
@@ -59,7 +62,7 @@ Ragam kegiatan: [Beatmapping](/wiki/Beatmapping) • [Teknik mapping](/wiki/Mapp
 
 # Submisi dan proses ranking beatmap
   
-Agar suatu beatmap dapat memiliki *leaderboard*-nya tersendiri, beatmap tersebut harus melewati proses ranking beatmap yang berlaku di osu!. Ketahui bagaimana proses ini berlangsung dan seperti apa prosedur kontrol kualitas beatmap (*quality control*) yang osu! terapkan.
+Agar suatu beatmap dapat memiliki papan peringkatnya tersendiri, beatmap tersebut harus melewati proses ranking beatmap yang berlaku di osu!. Ketahui bagaimana proses ini berlangsung dan seperti apa prosedur kontrol kualitas beatmap (*quality control*) yang osu! terapkan.
 
 [Pengunggahan beatmap](/wiki/Submission) • [Modding](/wiki/Modding) • [Prosedur ranking beatmap](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
 
@@ -83,9 +86,9 @@ Peraturan media: [Pedoman Penggunaan Konten](/wiki/Rules/Content_Usage_Guideline
   
 # Bantuan
 
-Temukan jawaban atas berbagai pertanyaan yang umum diajukan di sini.
+Temukan jawaban atas berbagai pertanyaan yang umum diajukan di bawah ini.
 
-[Pusat bantuan](/wiki/Help_centre) • [Pemecahan masalah kinerja osu!](/wiki/Performance_troubleshooting) • [Account support team](/wiki/People/The_Team/Account_support_team) • [Sub-forum Help](https://osu.ppy.sh/forum/5)
+[Pusat bantuan](/wiki/Help_centre) • [Pemecahan masalah kinerja osu!](/wiki/Performance_troubleshooting) • [Tim dukungan akun](/wiki/People/The_Team/Account_support_team) • [Sub-forum Help](https://osu.ppy.sh/forum/5)
 
 Pembatasan profil: [Silence](/wiki/Silence) • [Restriction](/wiki/Help_centre/Account_restrictions)
 
@@ -111,18 +114,18 @@ Organisasi: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
 # [Orang-orang](/wiki/People)
   
-osu! tidak akan dapat berada pada titik ini tanpa dukungan dari mereka yang telah banyak mendukung kami dalam berbagai hal: upaya, dedikasi, dan jerih payah mereka memungkinkan kami untuk dapat terus tumbuh dan berkembang seiring waktu.
+osu! tidak akan dapat berada pada titik ini tanpa dukungan dari mereka yang telah banyak mendukung kami dalam berbagai hal: upaya, dedikasi, dan jerih payah mereka memungkinkan kami untuk terus tumbuh dan berkembang seiring waktu.
 
-[Tim inti](/wiki/People/The_Team): [Developer](/wiki/People/The_Team/Developers) • [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) • [Support Team](/wiki/People/The_Team/Support_Team) • [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) • [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team)
+[Tim inti](/wiki/People/The_Team): [Developer](/wiki/People/The_Team/Developers) • [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) • [Support Team](/wiki/People/The_Team/Support_Team) • [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) • [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team) • [Beatmap Spotlight Curators](/wiki/People/The_Team/Beatmap_Spotlight_Curators)
 
-[Para kontributor komunitas](/wiki/People/Community_Contributors) • [Daftar pengguna dengan gelar khusus](/wiki/People/Users_with_unique_titles) • [Tournament Committee](/wiki/People/Tournament_Committee) • [Performance Points Committee](/wiki/People/Performance_Points_Committee)
+[Kontributor komunitas](/wiki/People/Community_Contributors) • [Daftar pengguna dengan gelar khusus](/wiki/People/Users_with_unique_titles) • [Komite turnamen](/wiki/People/Tournament_Committee) • [Komite performance point](/wiki/People/Performance_Points_Committee)
 
 </div>
 <div class="wiki-main-page-panel">
 
 # Untuk para pengembang
   
-Berbagai hal yang sekiranya dapat berguna bagi mereka yang ingin turut serta mengembangkan osu!, baik dalam ruang lingkup pemrograman ataupun media.
+Berbagai hal yang sekiranya dapat berguna bagi mereka yang ingin turut serta dalam pengembangan osu!, baik dalam ruang lingkup pemrograman ataupun media.
 
 [API](/wiki/osu!api) • [Akun bot](/wiki/Bot_account) • [Pedoman identitas visual](/wiki/Brand_identity_guidelines) • [Server Discord osu!dev](/wiki/Community/osu!dev_Discord_server)
 
@@ -131,7 +134,7 @@ Berbagai hal yang sekiranya dapat berguna bagi mereka yang ingin turut serta men
 
 # Seputar wiki dan hal meta lainnya
   
-Segala sesuatunya yang terdapat di osu!, tidak terkecuali osu! wiki, utamanya dikelola dan dikembangkan oleh para sukarelawan. Apabila kamu memiliki saran, kritikan, atau bahkan ide seputar artikel baru untuk ditambahkan ke osu! wiki, harap kunjungi [repositori osu-wiki di situs web GitHub](https://github.com/ppy/osu-wiki).
+Sama seperti berbagai hal lainnya yang terdapat di osu!, osu! wiki juga dikembangkan dan dikelola oleh para sukarelawan. Apabila kamu memiliki saran, kritikan, atau bahkan ide seputar artikel baru untuk ditambahkan ke wiki ini, silakan kunjungi [repositori osu-wiki di GitHub](https://github.com/ppy/osu-wiki).
 
 [Sejarah osu!](/wiki/History_of_osu!) • [Sejarah osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [Sejarah mapping dan modding](/wiki/History_of_osu!/Mapping_and_Modding_Timeline) • [April Fools](/wiki/History_of_osu!/April_Fools)
 
