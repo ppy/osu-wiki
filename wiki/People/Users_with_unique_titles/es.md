@@ -67,7 +67,7 @@ Ganadores de las osu! World Cups anteriores con el título de usuario **Former o
 | [OWC 2015](/wiki/Tournaments/OWC/2015) | Former osu! Champion: 2015 | ::{ flag=US }:: [0120](https://osu.ppy.sh/users/1901534), ::{ flag=US }:: [Kitteh](https://osu.ppy.sh/users/2162669), ::{ flag=US }:: [Seouless](https://osu.ppy.sh/users/3328676), ::{ flag=IL }:: [Xilver15](https://osu.ppy.sh/users/3099689), ::{ flag=US }:: [Zodiaack](https://osu.ppy.sh/users/3096229) |
 | [OWC 2016](/wiki/Tournaments/OWC/2016) | Former osu! Champion: 2016 | ::{ flag=US }:: [Axarious](https://osu.ppy.sh/users/2614511), ::{ flag=US }:: [HappyStick](https://osu.ppy.sh/users/256802), ::{ flag=US }:: [Mlaw](https://osu.ppy.sh/users/3126596), ::{ flag=US }:: [mniminwoo](https://osu.ppy.sh/users/3929529), ::{ flag=US }:: [Ritzeh](https://osu.ppy.sh/users/1028387) |
 | [OWC 2017](/wiki/Tournaments/OWC/2017) | Former osu! Champion: 2017 | ::{ flag=PL }:: [Astar](https://osu.ppy.sh/users/27055), ::{ flag=PL }:: [MrBoom](https://osu.ppy.sh/users/1837989), ::{ flag=PL }:: [Piggey](https://osu.ppy.sh/users/4163860), ::{ flag=PL }:: [Rafis](https://osu.ppy.sh/users/2558286), ::{ flag=PL }:: [Wakson](https://osu.ppy.sh/users/3048222), ::{ flag=PL }:: [WubWoofWolf](https://osu.ppy.sh/users/39828), ::{ flag=PL }:: [Wilchq](https://osu.ppy.sh/users/2021758) |
-| [OWC 2018](/wiki/Tournaments/OWC/2018) | Former osu! Champion: 2018 | *N/A* |
+| [OWC 2018](/wiki/Tournaments/OWC/2018) | Former osu! Champion: 2018 | *n/a* |
 | [OWC 2019](/wiki/Tournaments/OWC/2019) | Former osu! Champion: 2019 | ::{ flag=US }:: [idke](https://osu.ppy.sh/users/4650315), ::{ flag=US }:: [t\[-\_-t\]](https://osu.ppy.sh/users/2644828), ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) |
 | [OWC 2020](/wiki/Tournaments/OWC/2020) | Former osu! Champion: 2020 | ::{ flag=US }:: [Apraxia](https://osu.ppy.sh/users/4194445), ::{ flag=US }:: [BTMC](https://osu.ppy.sh/users/3171691), ::{ flag=US }:: [kablaze](https://osu.ppy.sh/users/3043603), ::{ flag=US }:: [Rektygon](https://osu.ppy.sh/users/7813296), ::{ flag=US }:: [Vaxei](https://osu.ppy.sh/users/4787150) |
 | [OWC 2021](/wiki/Tournaments/OWC/2020) | Former osu! Champion: 2021 | ::{ flag=US }:: [Aireu](https://osu.ppy.sh/users/1650010), ::{ flag=US }:: [Aricin](https://osu.ppy.sh/users/1419095), ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207), ::{ flag=US }:: [Exarch](https://osu.ppy.sh/users/5370153), ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |
@@ -86,7 +86,7 @@ Ganadores de las osu!taiko World Cups anteriores con el título de usuario **For
 | [TWC 2018](/wiki/Tournaments/TWC/2018) | Former osu!taiko Champion: 2018 | ::{ flag=JP }:: [\_Rise](https://osu.ppy.sh/users/5217107), ::{ flag=JP }:: [tasuke912](https://osu.ppy.sh/users/2774767), ::{ flag=JP }:: [zkane2](https://osu.ppy.sh/users/6359835) |
 | [TWC 2019](/wiki/Tournaments/TWC/2019) | Former osu!taiko Champion: 2019 | ::{ flag=JP }:: [isobe](https://osu.ppy.sh/users/8047347), ::{ flag=JP }:: [v2fax](https://osu.ppy.sh/users/7739269) |
 | [TWC 2020](/wiki/Tournaments/TWC/2020) | Former osu!taiko Champion: 2020 | ::{ flag=JP }:: [iceOC](https://osu.ppy.sh/users/5482401), ::{ flag=JP }:: [kiyozi11](https://osu.ppy.sh/users/9551196) |
-| [TWC 2021](/wiki/Tournaments/TWC/2021) | Former osu!taiko Champion: 2021 | *N/A* |
+| [TWC 2021](/wiki/Tournaments/TWC/2021) | Former osu!taiko Champion: 2021 | *n/a* |
 
 Ganadores de las osu!catch World Cups anteriores con el título de usuario **Former osu!catch Champion**:
 
@@ -99,7 +99,7 @@ Ganadores de las osu!catch World Cups anteriores con el título de usuario **For
 | [CWC 2016](/wiki/Tournaments/CWC/2016) | Former osu!catch Champion: 2016 | ::{ flag=CN }:: [Callionet](https://osu.ppy.sh/users/3072921) |
 | [CWC 2017](/wiki/Tournaments/CWC/2017) | Former osu!catch Champion: 2017 | ::{ flag=KR }:: [ExGon](https://osu.ppy.sh/users/214187), ::{ flag=KR }:: [mjj741](https://osu.ppy.sh/users/1459769) |
 | [CWC 2018](/wiki/Tournaments/CWC/2018) | Former osu!catch Champion: 2018 | ::{ flag=CN }:: [- N a g i -](https://osu.ppy.sh/users/2956936), ::{ flag=CN }:: [Crystal](https://osu.ppy.sh/users/1646397), ::{ flag=CN }:: [Dusk](https://osu.ppy.sh/users/533210), ::{ flag=CN }:: [KagamineRin02](https://osu.ppy.sh/users/518503), ::{ flag=CN }:: [Kasumi](https://osu.ppy.sh/users/2331531), ::{ flag=CN }:: [Sakurano  Kurimu](https://osu.ppy.sh/users/1338103) |
-| [CWC 2019](/wiki/Tournaments/CWC/2019) | Former osu!catch Champion: 2019 | *N/A* |
+| [CWC 2019](/wiki/Tournaments/CWC/2019) | Former osu!catch Champion: 2019 | *n/a* |
 | [CWC 2020](/wiki/Tournaments/CWC/2020) | Former osu!catch Champion: 2020 | ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626), ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369), ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598), ::{ flag=KR }:: [T s u m i](https://osu.ppy.sh/users/4080520) |
 | [CWC 2021](/wiki/Tournaments/CWC/2021) | Former osu!catch Champion: 2021 | ::{ flag=KR }:: [Abstract-](https://osu.ppy.sh/users/3097304), ::{ flag=KR }:: [qwhj1027](https://osu.ppy.sh/users/7547506) |
 
