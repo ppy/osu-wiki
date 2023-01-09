@@ -9,7 +9,7 @@ tags:
 
 # Desarrolladores
 
-Los desarrolladores de osu! mantienen el juego y el sitio web funcionando corrigiendo errores y agregando nuevas funciones. La mayoría de ellos son empleados de ppy Pty Ltd, la empresa propietaria de osu!. Forman la mayor parte del [equipo de osu!](/wiki/People/The_Team).
+Los desarrolladores de osu! mantienen el juego y el sitio web funcionando corrigiendo errores y agregando nuevas funcionalidades. La mayoría de ellos son empleados de ppy Pty Ltd, la empresa propietaria de osu!. Forman la mayor parte del [equipo de osu!](/wiki/People/The_Team).
 
 Desarrolladores de osu! se pueden reconocer por sus colores de usuario rosa y los títulos de usuario "osu!dev" o "osu!team".
 
@@ -82,7 +82,7 @@ Actualmente, los principales proyectos de osu! están alojados en GitHub y está
 - ::{ flag=PL }:: [LiquidPL](https://osu.ppy.sh/users/5044384)
 - ::{ flag=PL }:: [TPGPL](https://osu.ppy.sh/users/3944705)
 
-## Colaboradores retirados
+## Contribuidores retirados
 
 A continuación se enumeran los usuarios que abandonaron los esfuerzos de desarrollo en curso y siguieron adelante.
 

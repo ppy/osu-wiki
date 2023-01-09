@@ -1,14 +1,10 @@
----
-no_native_review: true
----
+# Contribuidores de la comunidad
 
-# Colaboradores de la comunidad
+![Medalla de contribuidor](/wiki/shared/contributor.jpg "Medalla de contribuidor")
 
-![Medalla de colaborador](/wiki/shared/contributor.jpg "Medalla de colaborador")
+Los **contribuidores de la comunidad** son aquellas personas que, a un gran coste para sí mismas, se han encargado de proporcionar servicios a la comunidad de osu!, creando herramientas y funcionalidades que muchos de nosotros damos por sentado hoy. Estos usuarios reciben una insignia para indicar que hicieron algo notable para toda la comunidad.
 
-Los **colaboradores de la comunidad** son las personas que se han encargado de brindar servicio a la comunidad de osu! a un gran costo para ellos mismos: herramientas y características que muchos de nosotros damos por sentado hoy. Estos usuarios reciben una insignia para indicar que hicieron algo notable para toda la comunidad.
-
-No debe confundirse con [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), que son antiguos miembros de varios equipos de osu! que se retiraron, las insignias de colaborador de la comunidad se conceden a los colaboradores públicos que han ido más allá de la llamada del deber para mejorar osu! y el entorno de la comunidad.
+No debe confundirse con [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), que son antiguos miembros de varios equipos de osu! que se retiraron, las insignias de contribuidor de la comunidad se conceden a los contribuidores públicos que han ido más allá de la llamada del deber para mejorar osu! y el entorno de la comunidad.
 
 ## 2013
 
@@ -53,7 +49,7 @@ No debe confundirse con [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), que so
 | Usuario | Contribuciones |
 | :-- | :-- |
 | ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) | Fundación de la [osu!academy](/wiki/Community/Video_series/osu!academy) |
-| ::{ flag=CA }:: [karterfreak](https://osu.ppy.sh/users/1031958) | osu!weekly + Colaborador de noticias |
+| ::{ flag=CA }:: [karterfreak](https://osu.ppy.sh/users/1031958) | osu!weekly + Contribuidor de noticias |
 | ::{ flag=BG }:: [Flanster](https://osu.ppy.sh/users/447818) | Presencia excepcional de moderación (+10k asesinatos). |
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Presencia excepcional de moderación (+10k asesinatos). |
 | ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) | Presencia excepcional y compromiso de moderación (+30k asesinatos). |
@@ -215,3 +211,4 @@ No debe confundirse con [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), que so
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | Excelente contribución a la escena de torneos de osu! y las World Cups |
 | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | Excelente contribución a la escena de torneos de osu! y las World Cups |
 | ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815) | Excelente contribución a la escena de torneos y eventos IRL de osu! |
+ 

@@ -2,7 +2,8 @@
 
 Página de índice para artículos sobre personas o grupos.
 
-- [Colaboradores de la comunidad](Community_Contributors)
+- [Contribuidores de la comunidad](Community_Contributors)
+- [Mantenedores de la osu! wiki](osu!_wiki_maintainers)
 - [peppy](peppy)
 - [Comité de puntos de rendimiento](Performance_Points_Committee)
 - [El Equipo](The_Team)

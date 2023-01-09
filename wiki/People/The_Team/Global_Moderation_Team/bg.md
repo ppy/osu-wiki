@@ -80,7 +80,6 @@ tags:
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | Техническа поддръжка |
 | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109) | Португалски, Японски | Модериране на чат |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) |  | Поддръжка на играчи, Администрира wiki |
-| ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Китайски | Модериране обществото на създатели/редактори |
 | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) | Полски | Модериране на чат |
 | ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Китайски | Модериране обществото на създатели/редактори |
 | ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | Модериране обществото на създатели/редактори |
