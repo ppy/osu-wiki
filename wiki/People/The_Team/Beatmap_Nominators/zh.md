@@ -59,6 +59,7 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 | ::{ flag=KR }:: [Cellina](https://osu.ppy.sh/users/2490770) | 韩语 |
 | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | 葡萄牙语 |
 | ::{ flag=ES }:: [Didah](https://osu.ppy.sh/users/8030129) | 西班牙语 |
+| ::{ flag=DE }:: [Dignan](https://osu.ppy.sh/users/4505918) | 德语 |
 | ::{ flag=US }:: [eiri-](https://osu.ppy.sh/users/3388410) | 西班牙语 |
 | ::{ flag=BE }:: [Enneya](https://osu.ppy.sh/users/10959501) | 荷兰语 |
 | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |  |
@@ -89,7 +90,6 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 | ::{ flag=RU }:: [Shmiklak](https://osu.ppy.sh/users/5504231) | 俄语 |
 | ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | 俄语 |
 | ::{ flag=FR }:: [Sotarks](https://osu.ppy.sh/users/4452992) | 法语 |
-| ::{ flag=DE }:: [Dignan](https://osu.ppy.sh/users/4505918) | 德语 |
 | ::{ flag=FI }:: [TheKingHenry](https://osu.ppy.sh/users/5128277) | 芬兰语 |
 | ::{ flag=TH }:: [timemon](https://osu.ppy.sh/users/2072005) | 泰语 |
 | ::{ flag=LT }:: [tomatas95](https://osu.ppy.sh/users/11403815) | 立陶宛语 |

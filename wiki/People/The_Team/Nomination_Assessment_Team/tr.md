@@ -49,13 +49,13 @@ NAT uzun zaman periyodlarıyla potansiyel NAT üyelerini gözetler, ve genellikl
 | İsim | Ek diller | Birincil sorumluluklar |
 | :-- | :-- | :-- |
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) |  | Advisor |
+| ::{ flag=SG }:: [achyoo](https://osu.ppy.sh/users/7823498) | Çince | Evaluator |
 | ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) |  | Evaluator |
 | ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | Belarusça, Rusça | Evaluator |
 | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Kantonca, Çince | Evaluator |
 | ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | Evaluator |
 | ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Çince | Evaluator |
 | ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Almanca | Evaluator |
-| ::{ flag=SG }:: [achyoo](https://osu.ppy.sh/users/7823498) | Çince | Evaluator |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | İsveççe | Advisor |
 | ::{ flag=GB }:: [NexusQI](https://osu.ppy.sh/users/13822800) |  | Evaluator |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | Advisor |

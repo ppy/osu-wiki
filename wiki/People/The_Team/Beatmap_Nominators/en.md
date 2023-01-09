@@ -59,6 +59,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ::{ flag=KR }:: [Cellina](https://osu.ppy.sh/users/2490770) | Korean |
 | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Portuguese |
 | ::{ flag=ES }:: [Didah](https://osu.ppy.sh/users/8030129) | Spanish |
+| ::{ flag=DE }:: [Dignan](https://osu.ppy.sh/users/4505918) | German |
 | ::{ flag=US }:: [eiri-](https://osu.ppy.sh/users/3388410) | Spanish |
 | ::{ flag=BE }:: [Enneya](https://osu.ppy.sh/users/10959501) | Dutch |
 | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |  |
@@ -89,7 +90,6 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ::{ flag=RU }:: [Shmiklak](https://osu.ppy.sh/users/5504231) | Russian |
 | ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | Russian |
 | ::{ flag=FR }:: [Sotarks](https://osu.ppy.sh/users/4452992) | French |
-| ::{ flag=DE }:: [Dignan](https://osu.ppy.sh/users/4505918) | German |
 | ::{ flag=FI }:: [TheKingHenry](https://osu.ppy.sh/users/5128277) | Finnish |
 | ::{ flag=TH }:: [timemon](https://osu.ppy.sh/users/2072005) | Thai |
 | ::{ flag=LT }:: [tomatas95](https://osu.ppy.sh/users/11403815) | Lithuanian |
