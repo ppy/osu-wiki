@@ -16,7 +16,7 @@ Onde:
 
 - O *valor do hit* é o valor numérico do julgamento de hit circle (50, 100, ou 300).
 - O *multiplicador de combo* é equivalente ao (combo antes desse hit - 1) ou 0, o que for maior.
-- O *Multiplicador de dificuldade* é o valor específico ao beatmap jogado. Veja a [seção abaixo](#difficulty-multiplier) para a fórmula exata para computá-la.
+- O *Multiplicador de dificuldade* é o valor específico ao beatmap jogado. Veja a [seção abaixo](#multiplicador-de-dificuldade) para a fórmula exata para computá-la.
 - O *multiplicador de mod* é o multiplicador total de um conjunto de mods ativos.
 
 ### Multiplicador de dificuldade
