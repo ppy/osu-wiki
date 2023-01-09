@@ -74,7 +74,7 @@ Bien que les branches soient techniquement facultatives, elles sont [fortement r
 Par exemple, comme illustré ci-dessus, [pippi](/wiki/Mascots#pippi) a ajouté un fichier image, modifié le fichier `en.md` pour ajouter un titre et un lien vers l'image, et marqué les traductions comme obsolètes. A partir de cela, nous pouvons avoir deux commits, un pour les changements qui ont affecté le fichier `en.md`, et un pour marquer les traductions comme obsolètes.
 
 4. Sélectionnez les fichiers qui vont être placés dans le commit.
-5. Entrez le résumé du commit. Il est limité à 50 caractères et **doit être en anglais**.
+5. Entrez le résumé du commit. Il est limité à 72 caractères et **doit être en anglais**.
 6. Saisissez la description. Celle-ci est facultative, n'est pas limitée en nombre de caractères et peut être rédigée dans n'importe quelle langue.
 
   ![](img/github-desktop-first-commit.jpg "Premier commit")

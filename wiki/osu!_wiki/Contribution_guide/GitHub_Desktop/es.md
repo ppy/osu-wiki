@@ -74,7 +74,7 @@ Si bien la ramificación es técnicamente opcional, es [muy recomendable por un 
 Por ejemplo, como se muestra arriba, [pippi](/wiki/Mascots#pippi) agregó una imagen, modificó el archivo `en.md` para agregar un título y un enlace a la imagen, y marcó las traducciones como obsoletas. A partir de esto, podemos tener dos commits, una para los cambios que afectaron el archivo `en.md` y otra para marcar las traducciones como obsoletas.
 
 4. Seleccione los archivos que se van a añadir al commit.
-5. Escriba un resumen para el commit. Esto tiene un límite de 50 caracteres y **debe estar en inglés**.
+5. Escriba un resumen para el commit. Esto tiene un límite de 72 caracteres y **debe estar en inglés**.
 6. Escriba una descripción. Esto es opcional, no tiene límite de caracteres y puede estar en cualquier idioma.
 
    ![](img/github-desktop-first-commit.jpg "Primer commit")
