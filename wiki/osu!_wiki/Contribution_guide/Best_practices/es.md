@@ -46,14 +46,14 @@ Si encontró algún problema al usar la herramienta GitHub o si desea sobrescrib
 
 ## Haciendo cambios
 
-*Ver también: [Forking Workflow | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow) (en inglés)*
+*Véase también: [Forking Workflow | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)*
 
-Dentro de tu bifurcación de la osu! wiki, eres libre de hacer cualquier cambio y guardarlo. **Confirmaciones (commits)** son "puntos de guardado" individuales del repositorio. Las **ramas (branches)** son espacios de trabajo que le permiten alternar entre varias versiones del repositorio. Para facilitar su flujo de trabajo y mantener el historial de la wiki limpio y libre de ruido, siga estas pautas:
+Dentro de tu bifurcación de la osu! wiki, eres libre de hacer cualquier cambio y guardarlo. Los **commits** son «puntos de guardado» individuales del repositorio. Las **ramas** son espacios de trabajo que le permiten alternar entre varias versiones del repositorio. Para facilitar su flujo de trabajo y mantener el historial de la wiki limpio y libre de ruido, siga estas pautas:
 
 - [Sincroniza la rama `master`](#sincronizando-la-bifurcación).
 - Comience siempre el trabajo creando una nueva rama a partir de `master`, y solo mantenga allí sus cambios.
 - Confirme su trabajo cuando haya realizado cambios de tamaño razonable. Es mejor enviar un artículo completo en lugar de 10 ediciones pequeñas.
-- **Use mensajes de confirmación breves y significativos**, ya que permiten que los demás sepan lo que hay en el cuadro. Algo como `Rewrite the section about jump patterns` dice mucho más que `Update es.md`.
+- **Use mensajes de commits breves y significativos**, ya que permiten que los demás sepan lo que hay en el cuadro. Algo como `Rewrite the section about jump patterns` dice mucho más que `Update es.md`.
 
 ## Abriendo una solicitud de cambios
 
@@ -85,17 +85,17 @@ El uso de este sistema marcará automáticamente las sugerencias como resueltas.
 Hay dos razones por la que esto pudo haber pasado:
 
 - Editaste un archivo cuando tu rama estaba desactualizada.
-- Hubo una pobre comunicación entre tu y otra persona, así que los dos estaban editando el mismo artículo, pero los cambios de esa persona fueron unidos antes que los tuyos, ésto fue lo que causó que tus archivos editados estuviesen desactualizados.
+- Hubo una pobre comunicación entre tu y otra persona, así que los dos estaban editando el mismo artículo, pero los cambios de esa persona fueron unidos antes que los tuyos, esto fue lo que causó que tus archivos editados estuviesen desactualizados.
 
 Dependiendo de la severidad de los conflictos, puedes tener dos opciones para arreglar esto:
 
-1. Si tu solicitud de cambios tiene el botón `Resolve conflicts`, hazle clic. Ésto abrirá una versión levemente distinta del editor web.
+1. Si tu solicitud de cambios tiene el botón `Resolve conflicts`, hazle clic. Esto abrirá una versión levemente distinta del editor web.
 
    1. GitHub resaltará las áreas conflictivas. Encuentra una de ellas.
    2. Todo desde `<<<<<<<` hasta `=======` son tus cambios, donde todo desde `=======` hasta `>>>>>>> master` es lo que está en la rama `ppy/master`.
    3. Desde aquí, necesitarás arreglar manualmente el conflicto y eliminar las marcas `<<<<<<<`, `=======` y `>>>>>>> master`.
    4. Repite el proceso para todos los conflictos.
-   5. Cuando hayas terminado, haz clic en `Mark as resolved` (ésto estará disponible solo cuando todas las partes conflictivas del archivo se hayan resuelto).
+   5. Cuando hayas terminado, haz clic en `Mark as resolved` (esto estará disponible solo cuando todas las partes conflictivas del archivo se hayan resuelto).
 
 2. Si el botón `Resolve conflicts` está bloqueado dado que los conflictos son muy complicados para GitHub, se te acabó la suerte y necesitarás [actualizar tu rama](#sincronizando-la-bifurcación) y hacer los cambios de nuevo.
-   - *Nota: Ésto se cumple si es que estás limitado a usar la Interfaz Web de GitHub.* Todavía hay maneras de arreglarlo, pero no serán cubiertos en esta guía y puede que no valga el esfuerzo el usar esos métodos, porque sobreescribirás y revertirás los cambios conflictivos.
+   - *Nota: Esto se cumple si es que estás limitado a usar la Interfaz Web de GitHub.* Todavía hay maneras de arreglarlo, pero no serán cubiertos en esta guía y puede que no valga el esfuerzo el usar esos métodos, porque sobreescribirás y revertirás los cambios conflictivos.
