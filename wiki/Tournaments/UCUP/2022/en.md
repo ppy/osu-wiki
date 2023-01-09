@@ -458,7 +458,7 @@ Sunday, 6 November 2022:
 1. Beatmap scoring is based on **[ScoreV2](/wiki/Gameplay/Score#scorev2).**
 2. The mappools for each round will be announced by the tournament management in advance before the actual matches take place.
    - All beatmaps in the tournament will feature songs that are related to video games in one way or another.
-3. Match schedules will be predetermined by the tournament management. If there are any player(s) who are unable to attend the current schedule for any reason, all other affected players may apply and settle for a reschedule at the `#scheduling` channel in the tournament's Discord server.
+3. Match schedules will be predetermined by the tournament management. If there are any players who are unable to attend the current schedule for any reason, all other affected players may apply and settle for a reschedule at the `#scheduling` channel in the tournament's Discord server.
 4. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
 5. If a player does not show up within **10 minutes** of the start time, their opponent wins by default.
 6. If no staff or referee is available, the match will be postponed.
@@ -473,7 +473,7 @@ Sunday, 6 November 2022:
 ### Tournament registration
 
 1. All interested players are required to register into the tournament individually through [this form](https://forms.gle/8E5YcC4LbropHEnz6).
-   - In order to be eligible to play in the tournament, a player must Have the flag of any of the ten [ASEAN member states](https://asean.org/about-asean/member-states/) (::{ flag=BN }:: Brunei Darussalam, ::{ flag=KH }:: Cambodia, ::{ flag=ID }:: Indonesia, ::{ flag=LA }:: Laos, ::{ flag=MY }:: Malaysia, ::{ flag=MM }:: Myanmar, ::{ flag=PH }:: The Philippines, ::{ flag=SG }:: Singapore, ::{ flag=TH }:: Thailand, or ::{ flag=VN }:: Vietnam) displayed on their profile.
+   - In order to be eligible to play in the tournament, a player must have the flag of any of the ten [ASEAN member states](https://asean.org/about-asean/member-states/) (::{ flag=BN }:: Brunei Darussalam, ::{ flag=KH }:: Cambodia, ::{ flag=ID }:: Indonesia, ::{ flag=LA }:: Laos, ::{ flag=MY }:: Malaysia, ::{ flag=MM }:: Myanmar, ::{ flag=PH }:: The Philippines, ::{ flag=SG }:: Singapore, ::{ flag=TH }:: Thailand, or ::{ flag=VN }:: Vietnam) displayed on their profile.
 2. To ensure that all incoming registrations are serious and valid, every registered player will be checked in detail by the tournament management.
 3. The list of players who are deemed to be eligible to compete in the tournament will be published by the tournament management after the registration phase has ended.
 4. Testplayers, referees, and mappool selectors may not participate as players in this tournament.
@@ -482,11 +482,11 @@ Sunday, 6 November 2022:
 
 #### Qualifier rules
 
-1. Each player will have to sign up to one of the Qualifier lobbies that has been scheduled and prepared by the tournament management in advance.
+1. Each player will have to sign up to one of the Qualifier lobbies that have been scheduled and prepared by the tournament management in advance.
 2. In the lobby, all players will have to consecutively play all of the nine Qualifier beatmaps in the order of NM1 -> NM2 -> NM3 -> NM4 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2.
 3. Players **are not allowed** to ban any beatmaps in the Qualifiers.
 4. Players **are not allowed** to join in (or register for) more than one Qualifier lobby.
-5. Based on their performance in the Qualifier, players will be ranked based on their Z-Sum value (which is the total of all individual Z-Scores in each of the ten Qualifier beatmaps). A brief explanation on the concept of Z-Sum and Z-Scores can be found [here](http://www.statisticshowto.com/probability-and-statistics/z-score/).
+5. Based on their performance in the Qualifiers, players will be ranked based on their Z-Sum value (which is the total of all individual Z-Scores in each of the ten Qualifier beatmaps). A brief explanation on the concept of Z-Sum and Z-Scores can be found [here](http://www.statisticshowto.com/probability-and-statistics/z-score/).
 6. 32 players with the **highest Z-Sum value** will advance to the knock-out stages.
    - If there are two (or more) players who share the same Z-Sum value, the player that holds the higher total score combined from all ten Qualifier beatmaps will be placed in the higher seed.
 7. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
@@ -494,11 +494,11 @@ Sunday, 6 November 2022:
 #### Knock-out stage rules
 
 1. The 32 players who managed to get through from the Qualifiers will be matched to each other based on their Qualifiers seeding.
-2. Players will compete against each other using the double elimination system.
-3. The double elimination System works as follows:
+2. Players will compete against each other using the double-elimination system.
+3. The double-elimination system works as follows:
    - Players who lose in the upper bracket can still play again on the lower bracket.
    - Players who lose in the lower bracket will be eliminated from the tournament.
-   - In the Grand Final, the winner of the the upper bracket will only need to win a single match against their opponent in order to claim the championship title. The winner of the lower bracket, however, will need to win two matches and enforce a Bracket Reset against their opponent in order to claim the championship title.
+   - In the Grand Final, the winner of the the upper bracket will only need to win a single match against their opponent in order to claim the championship title. The winner of the lower bracket, however, will need to win two matches and enforce a *bracket reset* against their opponent in order to claim the championship title.
 4. Players who can compete in the next round are determined by:
    - In the Round of 32, each player needs to win 5 points in order to win a match. (Best of 9)
    - In the Round of 16 and the Quarterfinals, each player needs to win 6 points in order to win a match. (Best of 11)
