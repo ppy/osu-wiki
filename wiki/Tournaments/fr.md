@@ -80,6 +80,7 @@ L'osu! World Cup est un tournoi à double élimination par équipe de 4 formée 
 | [osu!mania 4K World Cup 2021](MWC/2021_4K) | 31/07/2021 | 19/09/2021 | ::{ flag=BR }:: Brésil | ::{ flag=US }:: États-Unis | ::{ flag=MY }:: Malaisie |
 | [osu!mania 7K World Cup 2022](MWC/2022_7K) | 16/12/2021 | 20/02/2022 | ::{ flag=KR }:: Corée du Sud | ::{ flag=CN }:: Chine | ::{ flag=MY }:: Malaisie |
 | [osu!mania 4K World Cup 2022](MWC/2022_4K) | 07/07/2022 | 18/09/2022 | ::{ flag=KR }:: Corée du Sud | ::{ flag=BR }:: Brésil | ::{ flag=US }:: États-Unis |
+| [osu!mania 7K World Cup 2023](MWC/2023_7K) | 15/12/2022 | 19/02/2023 | *À déterminer* | *À déterminer* | *À déterminer* |
 
 ## Tournois communautaires
 
@@ -105,6 +106,13 @@ Tournois et compétitions non-officiels gérés par la communauté.
 | 3 Digit World Cup | 15/03/2019 | 26/05/2019 | ::{ flag=KR }:: Corée du Sud | ::{ flag=RU }:: Fédération de Russie | ::{ flag=US }:: États-Unis |
 | 3 Digit World Cup 2020 | 16/03/2020 | 31/05/2020 | ::{ flag=US }:: États-Unis | ::{ flag=BR }:: Brésil | ::{ flag=TW }:: Taïwan |
 | [3 Digit World Cup 2021](3WC/2021) | 24/02/2021 | 09/05/2021 | ::{ flag=TW }:: Taïwan | ::{ flag=PL }:: Pologne | ::{ flag=US }:: États-Unis |
+
+#### Aetherian's Summer Singles
+
+| Nom | Début | Fin | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| Aetherian's Summer Singles 1 | 30/04/2021 | 13/7/2021 | ::{ flag=CA }:: [Flatpaper](https://osu.ppy.sh/users/11255340) | ::{ flag=CA }:: [FaintGun](https://osu.ppy.sh/users/10500541) | ::{ flag=PH }:: [NathanSS](https://osu.ppy.sh/users/8500628) |
+| [Aetherian's Summer Singles 2](AESS/2) | 06/05/2022 | 23/07/2022 | ::{ flag=PL }:: [maliszewski](https://osu.ppy.sh/users/12408961) | ::{ flag=KR }:: [[Karcher]](https://osu.ppy.sh/users/11443437) | ::{ flag=HK }:: [mcy4](https://osu.ppy.sh/users/2165650) |
 
 #### Ascaveth Invitational Tournament
 
@@ -704,6 +712,12 @@ Tournois et compétitions non-officiels gérés par la communauté.
 | Nom | Début | Fin | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu!mania South East Asia Champion 2020](SEAC/2020) | 26/12/2020 | 14/02/2021 | ::{ flag=MY }:: [xxxxxx2800](https://osu.ppy.sh/users/4084853) | ::{ flag=VN }:: [CPT\_Sivelia](https://osu.ppy.sh/users/12562107) | ::{ flag=VN }:: [TriDoanGaming](https://osu.ppy.sh/users/14009758) |
+
+#### MUKASHI FESTIVAL ID
+
+| Name | Start | End | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [osu!mania 4K Community Tournament @ MUKASHI FESTIVAL ID Senayan Park](MUKASHI/1) | 03/12/2022 | 03/12/2022 | ::{ flag=ID }:: [LuxKooky](https://osu.ppy.sh/users/4691146) | ::{ flag=ID }:: [\[ -Asriel- \]](https://osu.ppy.sh/users/11829623) | ::{ flag=ID }:: [KinoJourney](https://osu.ppy.sh/users/15798093) |
 
 #### Score Attack Showdown
 

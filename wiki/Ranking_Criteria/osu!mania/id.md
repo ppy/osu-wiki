@@ -153,6 +153,7 @@ Tambahan pedoman untuk tingkat kesulitan *7 key Normal*:
 - **Stream panjang 1/4 setidaknya memiliki jeda 1/2 setelah frase musik.** Ini bisa menyebabkan kesulitan untuk pemain pada level ini.
 - **Penempatan chord 1/4 setidaknya memiliki jeda 1/1 ketukan antara satu sama lain.** Penggunaan chord yang terlalu rapat akan menyebabkan kesulitan untuk pemain pada level ini.
 - **Hindari penggunaan chord di tengah 1/6 stream.** Namun, Anda masih bisa menggunakannya di awal atau akhir stream.
+- **Hindari penggunaan anchor lima note atau lebih.** Meskipun mudah dibaca oleh pemain, anchor yang lebih panjang akan menjadi lebih berat.
 - **Tidak disarankan menggunakan 1/4 jack.** Ini bisa menyebabkan kesulitan untuk pemain pada level ini.. Minijack dengan jeda yang cukup masih dapat diterima.
 - **Hindari penggunaan trill lebih dari 9 note secara berurutan.** Koordinasi dan keseimbangan tangan yang diperlukan untuk pola ini akan menyebabkan kesulitan untuk pemain pada level ini.
 - **Penggunaan long note harus ditahan setidaknya 1/4 ketukan.**
@@ -163,12 +164,10 @@ Tambahan pedoman untuk tingkat kesulitan *7 key Normal*:
 Tambahan pedoman untuk tingkat kesulitan *4 key Hard*:
 
 - **Hindari chord lebih dari tiga note.** Termasuk long note yang melibatkan lebih dari tiga kolom.
-- **Hindari penggunaan anchor lima note atau lebih.** Meskipun mudah dibaca oleh pemain, anchor yang lebih panjang akan menjadi lebih berat.
 
 Tambahan pedoman untuk tingkat kesulitan *7 key Hard*:
 
 - **Hindari penggunaan chord lebih dari empat note.** Termasuk pattern long note yang melibatkan lebih dari 4 kolom.
-- **Hindari penggunaan anchor lebih dari lima note atau lebih.** Meskipun mudah dibaca oleh pemain, anchor yang lebih panjang akan menjadi lebih berat.
 - **Jaga jarak chord chordstream pada interval 1/1 atau lebih.** Lebih rapat dari itu akan sukar untuk dibaca.
 - **Sesekali tangan dapat digunakan dalam stream, asalkan dipisahkan setidaknya satu takaran (4 ketukan)**
 

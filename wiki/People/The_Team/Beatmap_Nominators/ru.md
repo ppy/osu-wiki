@@ -51,6 +51,7 @@ tags:
 | ::{ flag=PH }:: [-Aqua](https://osu.ppy.sh/users/7150015) | Филиппинский |
 | ::{ flag=IT }:: [-Syncro](https://osu.ppy.sh/users/4338923) | Итальянский |
 | ::{ flag=FI }:: [Aakki](https://osu.ppy.sh/users/11077540) | Финский |
+| ::{ flag=GB }:: [Aistre](https://osu.ppy.sh/users/4879380) |  |
 | ::{ flag=KR }:: [Amamya](https://osu.ppy.sh/users/1997633) | Корейский |
 | ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599) | Итальянский |
 | ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549) |  |
@@ -99,14 +100,13 @@ tags:
 | ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  |
 | ::{ flag=CN }:: [Yugu](https://osu.ppy.sh/users/3161834) | Китайский, японский |
 | ::{ flag=IT }:: [Zekk](https://osu.ppy.sh/users/9704802) | Итальянский |
-| ::{ flag=SE }:: [Zer0-](https://osu.ppy.sh/users/11038155) | Шведский |
+| ::{ flag=SE }:: [Zer0-](https://osu.ppy.sh/users/4260033) | Шведский |
 
 #### osu!taiko
 
 | Имя | Языки |
 | :-- | :-- |
 | ::{ flag=FI }:: [Antti](https://osu.ppy.sh/users/13281473) | Финский, частично шведский |
-| ::{ flag=AR }:: [Axer](https://osu.ppy.sh/users/7299864) | Испанский |
 | ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | Китайский, кантонский |
 | ::{ flag=TR }:: [Burak](https://osu.ppy.sh/users/13213075) | Турецкий |
 | ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | Китайский, кантонский |
@@ -135,6 +135,7 @@ tags:
 | Имя | Языки |
 | :-- | :-- |
 | ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114) | Кантонский |
+| ::{ flag=GB }:: [bigh](https://osu.ppy.sh/users/16352736) |  |
 | ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | Китайский, кантонский |
 | ::{ flag=NL }:: [GIGACHAD](https://osu.ppy.sh/users/11081858) | Нидерландский |
 | ::{ flag=PL }:: [Mniam](https://osu.ppy.sh/users/6050530) | Польский |
@@ -144,6 +145,7 @@ tags:
 | ::{ flag=CA }:: [Ymiir](https://osu.ppy.sh/users/3922569) |  |
 | ::{ flag=BR }:: [zerokt](https://osu.ppy.sh/users/13776127) | Португальский |
 | ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) | Испанский |
+| ::{ flag=ZA }:: [Zuid-Afrikaan](https://osu.ppy.sh/users/29282944) | Африкаанс, нидерландский |
 
 #### osu!mania
 
@@ -179,6 +181,7 @@ tags:
 | ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Испанский |
 | ::{ flag=ID }:: [RiP46](https://osu.ppy.sh/users/5222596) | Индонезийский |
 | ::{ flag=ID }:: [Rivals_7](https://osu.ppy.sh/users/4610379) | Индонезийский |
+| ::{ flag=CN }:: [Seiran-](https://osu.ppy.sh/users/14351534) | Китайский |
 | ::{ flag=CN }:: [Shima Rin](https://osu.ppy.sh/users/6089608) | Китайский |
 | ::{ flag=ID }:: [Syadow-](https://osu.ppy.sh/users/3484485) | Индонезийский |
 | ::{ flag=ID }:: [Syrion-](https://osu.ppy.sh/users/15380643) | Индонезийский |
@@ -191,6 +194,9 @@ tags:
 
 | Имя | Языки |
 | :-- | :-- |
+| ::{ flag=GB }:: [ckharv](https://osu.ppy.sh/users/9967026) |  |
+| ::{ flag=US }:: [Hobbes2](https://osu.ppy.sh/users/8157492) |  |
+| ::{ flag=US }:: [Smoke](https://osu.ppy.sh/users/10726630) |  |
 | ::{ flag=BE }:: [Stack](https://osu.ppy.sh/users/6122935) | Нидерландский |
 
 #### osu!taiko
@@ -200,6 +206,7 @@ tags:
 | ::{ flag=BR }:: [-Flashlight-](https://osu.ppy.sh/users/9731062) | Португальский |
 | ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) | |
 | ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) | Китайский |
+| ::{ flag=AR }:: [Axer](https://osu.ppy.sh/users/7299864) | Испанский |
 | ::{ flag=JP }:: [Eriha](https://osu.ppy.sh/users/16320311) | Японский |
 | ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230) | Китайский, кантонский |
 | ::{ flag=GB }:: [Metzo](https://osu.ppy.sh/users/10633982) | |
@@ -209,18 +216,19 @@ tags:
 
 | Имя | Языки |
 | :-- | :-- |
-| ::{ flag=GB }:: [bigh](https://osu.ppy.sh/users/16352736) |  |
 | ::{ flag=NL }:: [Chatie](https://osu.ppy.sh/users/6524765) | Нидерландский |
+| ::{ flag=CA }:: [fuhie](https://osu.ppy.sh/users/7620002) |  |
 | ::{ flag=FR }:: [Natsuko](https://osu.ppy.sh/users/8266817) | Французский |
-| ::{ flag=ZA }:: [Zuid-Afrikaan](https://osu.ppy.sh/users/29282944) | Африкаанс, нидерландский |
 
 #### osu!mania
 
 | Имя | Языки |
 | :-- | :-- |
+| ::{ flag=KR }:: [ArtZone](https://osu.ppy.sh/users/15548034) | Корейский |
+| ::{ flag=DE }:: [Feerum](https://osu.ppy.sh/users/4815717) | Немецкий |
+| ::{ flag=AU }:: [fvrex](https://osu.ppy.sh/users/11863699) |  |
 | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | Индонезийский |
 | ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/14351534) | Китайский |
-| ::{ flag=CN }:: [Seiran-](https://osu.ppy.sh/users/14351534) | Китайский |
 
 ## История
 

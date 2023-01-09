@@ -50,7 +50,7 @@ Dans le mode [osu!catch](/wiki/Game_mode/osu!catch), le mod Auto va en fait alle
 
 ### osu!mania
 
-Dans le mode [osu!mania](/wiki/Game_mode/osu!mania), le mod Auto tentera d'effectuer une lecture parfaite, mais peut manquer des notes densément empilées (par exemple, plusieurs pressions de touches rapprochées sur une barre de maintien).
+Dans le mode [osu!mania](/wiki/Game_mode/osu!mania), le mod Auto tentera d'effectuer un score parfait, mais peut manquer des objets qui se chevauchent ou qui sont placés à moins de 1ms les uns des autres dans la même colonne.
 
 ## Le saviez-vous ?
 
