@@ -100,7 +100,7 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 | ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  |
 | ::{ flag=CN }:: [Yugu](https://osu.ppy.sh/users/3161834) | 중국어, 일본어 |
 | ::{ flag=IT }:: [Zekk](https://osu.ppy.sh/users/9704802) | 이탈리아어 |
-| ::{ flag=SE }:: [Kudosu](https://osu.ppy.sh/users/11038155) | 스웨덴어 |
+| ::{ flag=SE }:: [Zer0-](https://osu.ppy.sh/users/4260033) | 스웨덴어 |
 
 #### osu!taiko
 
@@ -228,7 +228,7 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 | ::{ flag=DE }:: [Feerum](https://osu.ppy.sh/users/4815717) | 독일어 |
 | ::{ flag=AU }:: [fvrex](https://osu.ppy.sh/users/11863699) |  |
 | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | 인도네시아어 |
-| ::{ flag=CN }:: [Serian-](https://osu.ppy.sh/users/14351534) | 중국어 |
+| ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/4790958) | 중국어 |
 
 ## 역사
 

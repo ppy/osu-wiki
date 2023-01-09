@@ -100,7 +100,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  |
 | ::{ flag=CN }:: [Yugu](https://osu.ppy.sh/users/3161834) | Çince, Japonca |
 | ::{ flag=IT }:: [Zekk](https://osu.ppy.sh/users/9704802) | İtalyanca |
-| ::{ flag=SE }:: [Kudosu](https://osu.ppy.sh/users/11038155) | İsveççe |
+| ::{ flag=SE }:: [Zer0-](https://osu.ppy.sh/users/4260033) | İsveççe |
 
 #### osu!taiko
 
@@ -228,7 +228,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ::{ flag=DE }:: [Feerum](https://osu.ppy.sh/users/4815717) | Almanca |
 | ::{ flag=AU }:: [fvrex](https://osu.ppy.sh/users/11863699) |  |
 | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | Endonezce |
-| ::{ flag=CN }:: [Serian-](https://osu.ppy.sh/users/14351534) | Çince |
+| ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/4790958) | Çince |
 
 ## Tarihçe
 

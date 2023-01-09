@@ -100,7 +100,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  |
 | ::{ flag=CN }:: [Yugu](https://osu.ppy.sh/users/3161834) | Chinês, japonês |
 | ::{ flag=IT }:: [Zekk](https://osu.ppy.sh/users/9704802) | Italiano |
-| ::{ flag=SE }:: [Kudosu](https://osu.ppy.sh/users/11038155) | Sueco |
+| ::{ flag=SE }:: [Zer0-](https://osu.ppy.sh/users/4260033) | Sueco |
 
 #### osu!taiko
 
@@ -228,7 +228,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | ::{ flag=DE }:: [Feerum](https://osu.ppy.sh/users/4815717) | Alemão |
 | ::{ flag=AU }:: [fvrex](https://osu.ppy.sh/users/11863699) |  |
 | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | Indonésio |
-| ::{ flag=CN }:: [Serian-](https://osu.ppy.sh/users/14351534) | Chinês |
+| ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/4790958) | Chinês |
 
 ## History
 

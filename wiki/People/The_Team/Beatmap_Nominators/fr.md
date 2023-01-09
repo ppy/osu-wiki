@@ -98,7 +98,7 @@ Les listes ci-dessous indiquent dans quel(s) mode(s) de jeu chaque Beatmap Nomin
 | ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  |
 | ::{ flag=CN }:: [Yugu](https://osu.ppy.sh/users/3161834) | Chinois, japonais |
 | ::{ flag=IT }:: [Zekk](https://osu.ppy.sh/users/9704802) | Italien |
-| ::{ flag=SE }:: [Kudosu](https://osu.ppy.sh/users/11038155) | Suédois |
+| ::{ flag=SE }:: [Zer0-](https://osu.ppy.sh/users/4260033) | Suédois |
 
 #### osu!taiko
 
@@ -226,7 +226,7 @@ Les listes ci-dessous indiquent dans quel(s) mode(s) de jeu chaque Beatmap Nomin
 | ::{ flag=DE }:: [Feerum](https://osu.ppy.sh/users/4815717) | Allemand |
 | ::{ flag=AU }:: [fvrex](https://osu.ppy.sh/users/11863699) |  |
 | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | Indonésien |
-| ::{ flag=CN }:: [Serian-](https://osu.ppy.sh/users/14351534) | Chinois |
+| ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/4790958) | Chinois |
 
 ## Historique
 
