@@ -1,5 +1,3 @@
-<!-- TODO: tons of things to add here. might be related to Projects article -->
-
 # Come puoi aiutare!
 
 osu! ha una comunità molto vivace composta da persone provenienti da tutto il mondo. E tutti possono farne parte a modo loro! 
@@ -24,8 +22,6 @@ Per fortuna, è comunque facile per te aiutarci a mantenere la sicurezza. Ecco a
 ## Aiutare altri membri della comunità
 
 Se incontri qualcuno che ha qualche problema col gioco, dagli una mano! Che sia un problema di drivers, una domanda sulle beatmap o sul gameplay, se puoi rispondere, puoi aiutare la persona a risolvere il suo problema.
-
-<!-- TODO: add ways to help outside of forums -->
 
 Ecco come puoi iniziare ad aiutare gli altri sul forum:
 
