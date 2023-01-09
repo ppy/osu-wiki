@@ -211,4 +211,3 @@ No debe confundirse con [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), que so
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | Excelente contribución a la escena de torneos de osu! y las World Cups |
 | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | Excelente contribución a la escena de torneos de osu! y las World Cups |
 | ::{ flag=NL }:: [cavoeboy](https://osu.ppy.sh/users/7361815) | Excelente contribución a la escena de torneos y eventos IRL de osu! |
- 
