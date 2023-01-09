@@ -1,5 +1,6 @@
 ---
-outdated_translation: true
+needs_cleanup: true
+no_native_review: true
 ---
 
 # FAQ（常见问题）
