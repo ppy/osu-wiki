@@ -534,6 +534,7 @@ Ces chansons font partie du [osu! James Landino Collection EP](https://fanlink.t
 | Apollo - SCUNTHORPE | [#1](https://osu.ppy.sh/beatmapsets/1677078) |
 | [cygnus - Psycho Gene](http://cygnus7.bandcamp.com/track/pyscho-gene) | [#1](https://osu.ppy.sh/beatmapsets/1884657) |
 | [Boaz Sound Team "ptar124" - How do you pronounce Boaz?](https://www.youtube.com/watch?v=WuSv1zFpAmE) | [#1](https://osu.ppy.sh/beatmapsets/1832938) |
+| Danzai - Error 001 | [#1](https://osu.ppy.sh/beatmapsets/20359) |
 | [Dictate - IMITATE](https://soundcloud.com/dictate/imitate)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1201530) |
 | dksslqj - Oriental Creation | [#1](https://osu.ppy.sh/beatmapsets/1678494) |
 | dksslqj - osu! Fan Cafe Logosong | [#1](https://osu.ppy.sh/beatmapsets/148421) |
