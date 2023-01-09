@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 5bea05821dbae22d79f17499302a8e819767f31c
+---
+
 # Devenir un Beatmap Nominator
 
 Les utilisateurs souhaitant rejoindre les [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) doivent passer par un processus de candidature supervisé par la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (NAT).
@@ -11,7 +16,8 @@ Les candidats doivent atteindre un seuil minimum de [kudosu](/wiki/Modding/Kudos
 Les moddeurs souhaitant postuler chez les Beatmap Nominators doivent remplir les critères suivants :
 
 - Ils ont accumulé au moins 200 [kudosu](/wiki/Modding/Kudosu) pour les moddeurs osu!, ou 150 [kudosu](/wiki/Modding/Kudosu) pour les moddeurs osu!taiko/osu!catch/osu!mania.
-- Ils fournissent 2 à 3 de leurs mods qui, selon eux, les qualifient pour faire partie des Beatmap Nominators.
+- Ils fournissent 3 de leurs mods qui, selon eux, les qualifient pour faire partie des Beatmap Nominators.
+  - Les anciens BN/NAT sont autorisés à soumettre un minimum de 2 mods pour leur candidature.
 
 ### Attentes en matière de modding
 
