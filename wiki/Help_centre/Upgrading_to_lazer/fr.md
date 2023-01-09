@@ -114,7 +114,7 @@ Actuellement, les beatmaps, skins, scores, replays et collections peuvent être 
 
 #### Si j'importe mes beatmaps dans lazer, cela utilisera-t-il deux fois plus d'espace disque ?
 
-Si vous avez lazer et stable sur le même disque, les [hard links](/wiki/Client/Release_stream/Lazer/File_storage#via-hard-links) sont utilisés pour éviter d'utiliser de l'espace disque supplémentaire.
+Si vous avez lazer et stable sur le même disque, les [hard links](/wiki/Client/Release_stream/Lazer/File_storage#par-des-liens-physiques) sont utilisés pour éviter d'utiliser de l'espace disque supplémentaire.
 
 Dans tous les autres cas, l'importation de beatmaps utilisera deux fois plus d'espace disque.
 
