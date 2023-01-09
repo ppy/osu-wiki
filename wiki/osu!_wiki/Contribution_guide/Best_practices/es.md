@@ -8,7 +8,7 @@ Esta página cubre algunas de las tareas que puede enfrentar mientras contribuye
 
 **Git** es un sistema de control de versiones que ayuda a administrar los cambios en los archivos. Los datos de wiki la wiki de osu! y el historial de cambios se almacenan en un repositorio de Git. **GitHub** es una plataforma de desarrollo que proporciona una interfaz web para repositorios Git y ofrece un conjunto de herramientas para la gestión de proyectos.
 
-## Sincronizando la bifurcación
+## Sincronizar la bifurcación
 
 Para realizar cambios en un repositorio ubicado en GitHub, un posible colaborador debe obtener una copia controlada llamada *bifurcación (fork)*. Cuando creas tu bifurcación del repositorio `osu-wiki`, tomas una instantánea de su contenido en ese mismo momento. Para hacer una contribución útil, **siempre sincronice su bifurcación** antes de realizar una serie de cambios; esto se puede hacer directamente desde GitHub:
 
@@ -44,7 +44,7 @@ Si encontró algún problema al usar la herramienta GitHub o si desea sobrescrib
 
 ![](img/github-actions-workflow-overview.png "Flujo de trabajo de Acciones de GitHub - Visión general del flujo de trabajo")
 
-## Haciendo cambios
+## Hacer cambios
 
 *Véase también: [Forking Workflow | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)*
 
@@ -55,7 +55,7 @@ Dentro de tu bifurcación de la osu! wiki, eres libre de hacer cualquier cambio 
 - Confirme su trabajo cuando haya realizado cambios de tamaño razonable. Es mejor enviar un artículo completo en lugar de 10 ediciones pequeñas.
 - **Use mensajes de commits breves y significativos**, ya que permiten que los demás sepan lo que hay en el cuadro. Algo como `Rewrite the section about jump patterns` dice mucho más que `Update es.md`.
 
-## Abriendo una solicitud de cambios
+## Abrir una solicitud de cambios
 
 Una solicitud de cambios muestra a otras personas cómo afectarán sus ediciones a los archivos. Agregue información a su solicitud de cambios para explicar sus intenciones:
 
@@ -68,7 +68,7 @@ Una solicitud de cambios muestra a otras personas cómo afectarán sus ediciones
   - [Resolución automática de problemas relevantes](https://docs.github.com/es/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)
 - Asegúrese de marcar la casilla de verificación `Allow edits from maintainers` ya que permitirá que los mantenedores de wiki lo ayuden a mejorar la solicitud de cambios cuando sea necesario
 
-## Aplicando revisiones
+## Aplicar revisiones
 
 Las revisiones se aplican mejor directamente a través de la interfaz web de GitHub. Use el botón `Add suggestion to batch` cuando esté en la pestaña `Files changed` para aplicar múltiples revisiones simultáneamente.
 
@@ -80,7 +80,7 @@ También puede usar el botón `Commit suggestion` para aplicar una sola sugerenc
 
 El uso de este sistema marcará automáticamente las sugerencias como resueltas. Al aplicar revisiones manualmente (por ejemplo, cuando el revisor no agregó una sugerencia directa), márquelas como resueltas *después de confirmar el cambio* para evitar olvidar alguna. Es preferible dejar que GitHub aplique las revisiones automáticamente, ya que garantiza que las sugerencias se apliquen correctamente y evita cualquier error de copia manual.
 
-## Resolviendo conflictos
+## Resolver conflictos
 
 Hay dos razones por la que esto pudo haber pasado:
 
