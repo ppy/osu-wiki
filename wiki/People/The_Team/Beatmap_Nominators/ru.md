@@ -59,6 +59,7 @@ tags:
 | ::{ flag=KR }:: [Cellina](https://osu.ppy.sh/users/2490770) | Корейский |
 | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Португальский |
 | ::{ flag=ES }:: [Didah](https://osu.ppy.sh/users/8030129) | Испанский |
+| ::{ flag=DE }:: [Dignan](https://osu.ppy.sh/users/4505918) | Немецкий |
 | ::{ flag=US }:: [eiri-](https://osu.ppy.sh/users/3388410) | Испанский |
 | ::{ flag=BE }:: [Enneya](https://osu.ppy.sh/users/10959501) | Нидерландский |
 | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |  |
@@ -89,7 +90,6 @@ tags:
 | ::{ flag=RU }:: [Shmiklak](https://osu.ppy.sh/users/5504231) | Русский |
 | ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | Русский |
 | ::{ flag=FR }:: [Sotarks](https://osu.ppy.sh/users/4452992) | Французский |
-| ::{ flag=DE }:: [Sylvarus](https://osu.ppy.sh/users/4505918) | Немецкий |
 | ::{ flag=FI }:: [TheKingHenry](https://osu.ppy.sh/users/5128277) | Финский |
 | ::{ flag=TH }:: [timemon](https://osu.ppy.sh/users/2072005) | Тайский |
 | ::{ flag=LT }:: [tomatas95](https://osu.ppy.sh/users/11403815) | Литовский |
@@ -228,7 +228,7 @@ tags:
 | ::{ flag=DE }:: [Feerum](https://osu.ppy.sh/users/4815717) | Немецкий |
 | ::{ flag=AU }:: [fvrex](https://osu.ppy.sh/users/11863699) |  |
 | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | Индонезийский |
-| ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/14351534) | Китайский |
+| ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/4790958) | Китайский |
 
 ## История
 

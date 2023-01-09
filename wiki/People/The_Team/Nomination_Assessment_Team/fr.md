@@ -79,13 +79,13 @@ La [page du groupe de la Nomination Assessment Team](https://osu.ppy.sh/groups/7
 | Nom | Langues supplémentaires | Sous-groupe assigné |
 | :-- | :-- | :-- |
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) |  | Conseiller[^task-mo] |
+| ::{ flag=SG }:: [achyoo](https://osu.ppy.sh/users/7823498) | Chinois | Évaluateur |
 | ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) |  | Évaluateur |
 | ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | Biélorusse, russe | Évaluateur |
 | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonais, chinois | Évaluateur |
 | ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | Évaluateur |
 | ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Chinois | Évaluateur |
 | ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Allemand | Évaluateur |
-| ::{ flag=SG }:: [Kotoha](https://osu.ppy.sh/users/7823498) | Chinois | Évaluateur |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Suédois | Conseiller[^task-naxess] |
 | ::{ flag=GB }:: [NexusQI](https://osu.ppy.sh/users/13822800) |  | Évaluateur |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | Conseiller[^task-pishifat] |
