@@ -2046,3 +2046,6 @@
 "cat":                                 "Beatmap_Spotlights/Chart_Assembly_Team"
 "chart_assembly_team":                 "Beatmap_Spotlights/Chart_Assembly_Team"
 "charts_assembly_team":                "Beatmap_Spotlights/Chart_Assembly_Team"
+
+# moved in #8588
+"osu!_wiki/maintenance/list_of_maintainers": "People/osu!_wiki_maintainers"

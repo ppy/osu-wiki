@@ -50,7 +50,7 @@ You have these requirements if you failed a Beatmap Nominator application and ap
 
 ### Rejoining after being removed from the Beatmap Nominators
 
-Users who have recently left the Beatmap Nominators may have different requirements to rejoin compared to when they first joined. For users who have performed well prior to leaving, they may be able to rejoin with relaxed requirements. The NAT will inform the user if they have the opportunity to fast-track their way back into the Beatmap Nominators.
+Users who have recently left the Beatmap Nominators may have different requirements to rejoin compared to when they first joined. For users who have performed well prior to leaving, they may be able to rejoin with relaxed requirements, or no requirements at all. The NAT will inform the user if they have the opportunity to fast-track their way back into the Beatmap Nominators.
 
 If you were a Beatmap Nominator before, these requirements apply unless you have failed an application since last time you were a Beatmap Nominator.
 
@@ -62,4 +62,6 @@ The 8-mod requirement for those applying after being removed for activity is sha
 | Activity | 30 days | 8 mods in 60 days |
 | Good | 30 days | *N/A* |
 
-Former Beatmap Nominators who resigned on good terms within the past year will become full members immediately upon rejoining.
+Former beatmap nominators who resigned on good terms within the past 6 months are given the option to instantly request a rejoin as a full member, without having to take the [Beatmap Nominator Test](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test), nor provide mods for evaluation.
+
+Former Beatmap Nominators who resigned on good terms within the past year still have to reapply properly in order to rejoin, and they will become full members immediately upon getting accepted.

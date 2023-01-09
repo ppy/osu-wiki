@@ -51,6 +51,8 @@ The osu!mania 7K World Cup 2023 is run by the osu! team and various community me
 
 - [Livestream](https://www.twitch.tv/osulive)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1690687)
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/106) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
+- [Information spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRQVIOCI9kotrvH-FWrip3BlS37lVN9AacPfTlDDXbW-zTfOxqKFtuKZw7yodW6UBSSzijuKJag0biI/pubhtml)
 - [Donate to the prize pool](https://opencollective.com/osu-tournaments/events/osu-mania-7k-world-cup-2023-502fec83)
 
 ## Participants
@@ -96,6 +98,21 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/c9e
 | ::{ flag=US }:: | **United States** | **[Terni](https://osu.ppy.sh/users/3279570)**, [-Squishy](https://osu.ppy.sh/users/4372604), [stupud man](https://osu.ppy.sh/users/2141612), [Alter-](https://osu.ppy.sh/users/4980256) |
 | ::{ flag=VE }:: | **Venezuela** | **[Adogg145](https://osu.ppy.sh/users/11956607)**, [sir aelay](https://osu.ppy.sh/users/12055954), [xXShyzDy0133Xx](https://osu.ppy.sh/users/13545528), [JeanfMz](https://osu.ppy.sh/users/25462042) |
 | ::{ flag=VN }:: | **Vietnam** | **[\_Moni\_](https://osu.ppy.sh/users/9710653)**, [\_ShirasuAzusa](https://osu.ppy.sh/users/16297375), [Jasver](https://osu.ppy.sh/users/10673080), [Seiren Shikino](https://osu.ppy.sh/users/8291500) |
+
+## Mappools
+
+### Qualifiers
+
+**[Download the mappack here (40 MB)](https://drive.google.com/uc?id=168igQG7WTn3wPmt6xMr1_ctWC4-aXeeU)**
+
+1. [onumi - CONFUSION PART ONE (paradoxus\_) \[Stage 1: W INVADER\]](https://osu.ppy.sh/beatmapsets/1918915#mania/3959885)
+2. [F-777 - Fasten Your Seatbelts (Critical\_Star) \[Stage 2: Buckle Up!\]](https://osu.ppy.sh/beatmapsets/1918922#mania/3959910)
+3. [seatrus - ILLEGAL LEGACY (\_Stan) \[Stage 3: PILLAGE\]](https://osu.ppy.sh/beatmapsets/1918914#mania/3959884)
+4. [HoneyComeBear - Rainy Girl (MapleSyrup-) \[Stage 4: Droplets\]](https://osu.ppy.sh/beatmapsets/1918912#mania/3959879)
+5. [Gram - ARCADIA (paulkappa) \[Stage 5: UTOPIA\]](https://osu.ppy.sh/beatmapsets/1918910#mania/3959876)
+6. [Umeboshi Chazuke - Banana! DX Choco Crepe! (Maxus) \[Stage 6: Sachetorte\]](https://osu.ppy.sh/beatmapsets/1918919#mania/3959892)
+7. [Neko Hacker feat. Nanahira - Shuwa\*Shuwa Parfait (Remuring) \[Stage 7: Dessert\]](https://osu.ppy.sh/beatmapsets/1918916#mania/3959886)
+8. [yumemidoll - Lyrith -Meikyuu Lyrith- (Leeju) \[Stage 8: Awakening\]](https://osu.ppy.sh/beatmapsets/1919014#mania/3960063)
 
 ## Ruleset
 
@@ -208,15 +225,16 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/c9e
 ### Mappool instructions
 
 1. Every stage will have its own mappool.
-2. Each mappool consists of a fixed amount of maps each stage which will all be played under Free Mod conditions. This means that there is a unique FreeMod bracket.
+2. Each mappool consists of a fixed amount of maps each stage which will all be played under Free Mod conditions. This means that there is a unique Free Mod bracket.
 3. The mappool sizes are as follows:
    - Qualifiers: 8 beatmaps
    - Round of 16: 12 beatmaps
    - Quarterfinals and Semifinals: 14 beatmaps
    - Finals and Grand Finals: 16 beatmaps
 4. Each mappool has one tiebreaker, except for the Qualifiers.
-5. Possible mod choices for all maps are [Hidden](/wiki/Game_modifier/Hidden), [FadeIn](/wiki/Game_modifier/Fade_In), [Flashlight](/wiki/Game_modifier/Flashlight), and [Mirror](/wiki/Game_modifier/Mirror).
-6. The tiebreaker will be played under Free Mod conditions.
+5. Possible mod choices for all beatmaps are [Hidden](/wiki/Game_modifier/Hidden), [Fade In](/wiki/Game_modifier/Fade_In), [Flashlight](/wiki/Game_modifier/Flashlight), and [Mirror](/wiki/Game_modifier/Mirror).
+6. Failed scores will be counted in their integrity. To that end, the [No Fail](/wiki/Game_modifier/No_Fail) mod will be enforced on every beatmap.
+7. The tiebreaker will be played under Free Mod conditions.
 
 ### Scheduling instructions
 
