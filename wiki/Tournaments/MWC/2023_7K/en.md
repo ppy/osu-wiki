@@ -225,15 +225,16 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/c9e
 ### Mappool instructions
 
 1. Every stage will have its own mappool.
-2. Each mappool consists of a fixed amount of maps each stage which will all be played under Free Mod conditions. This means that there is a unique FreeMod bracket.
+2. Each mappool consists of a fixed amount of maps each stage which will all be played under Free Mod conditions. This means that there is a unique Free Mod bracket.
 3. The mappool sizes are as follows:
    - Qualifiers: 8 beatmaps
    - Round of 16: 12 beatmaps
    - Quarterfinals and Semifinals: 14 beatmaps
    - Finals and Grand Finals: 16 beatmaps
 4. Each mappool has one tiebreaker, except for the Qualifiers.
-5. Possible mod choices for all maps are [Hidden](/wiki/Game_modifier/Hidden), [FadeIn](/wiki/Game_modifier/Fade_In), [Flashlight](/wiki/Game_modifier/Flashlight), and [Mirror](/wiki/Game_modifier/Mirror).
-6. The tiebreaker will be played under Free Mod conditions.
+5. Possible mod choices for all beatmaps are [Hidden](/wiki/Game_modifier/Hidden), [Fade In](/wiki/Game_modifier/Fade_In), [Flashlight](/wiki/Game_modifier/Flashlight), and [Mirror](/wiki/Game_modifier/Mirror).
+6. Failed scores will be counted in their integrity. To that end, the [No Fail](/wiki/Game_modifier/No_Fail) mod will be enforced on every beatmap.
+7. The tiebreaker will be played under Free Mod conditions.
 
 ### Scheduling instructions
 
