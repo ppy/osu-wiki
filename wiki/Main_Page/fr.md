@@ -1,7 +1,5 @@
 ---
 layout: main_page
-outdated_translation: true
-outdated_since: 1da34ad18aa8565e779e579594fa8c606ee00808
 ---
 
 <div class="wiki-main-page__blurb">
@@ -113,9 +111,9 @@ Organisations : [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
 osu! n'aurait pas été possible sans les nombreux utilisateurs qui participent au développement, à la maintenance et à la gestion de la communauté : leurs efforts, leur temps et leur dévouement font vivre et prospérer le jeu.
 
-[L'équipe](/wiki/People/The_Team) : [Développeurs](/wiki/People/The_Team/Developers) • [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) • [Équipe du support](/wiki/People/The_Team/Support_Team) • [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team)
+[L'équipe](/wiki/People/The_Team) : [Développeurs](/wiki/People/The_Team/Developers) • [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) • [Équipe du support](/wiki/People/The_Team/Support_Team) • [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team) • [Beatmap Spotlight Curators](/wiki/People/The_Team/Beatmap_Spotlight_Curators)
 
-[Les contributeurs de la communauté](/wiki/People/Community_Contributors) • [Utilisateurs ayant des titres uniques](/wiki/People/Users_with_unique_titles) • [Comité des tournois](/wiki/People/Tournament_Committee) • [Comité des points de performance](/wiki/People/Performance_Points_Committee)
+[Les contributeurs de la communauté](/wiki/People/Community_Contributors) • [Utilisateurs ayant des titres uniques](/wiki/People/Users_with_unique_titles) • [Comité des tournois](/wiki/People/Tournament_Committee) • [Comité des points de performance](/wiki/People/Performance_Points_Committee) • [Maintainers de l'osu! wiki](/wiki/People/osu!_wiki_maintainers)
 
 </div>
 <div class="wiki-main-page-panel">
