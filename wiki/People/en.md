@@ -3,6 +3,7 @@
 Index page for articles about people or groups.
 
 - [Community Contributors](Community_Contributors)
+- [osu! wiki maintainers](osu!_wiki_maintainers)
 - [peppy](peppy)
 - [Performance Points Committee](Performance_Points_Committee)
 - [The Team](The_Team)
