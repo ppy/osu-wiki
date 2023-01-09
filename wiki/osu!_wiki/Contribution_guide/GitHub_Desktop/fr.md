@@ -1,6 +1,6 @@
 # GitHub Desktop
 
-*Cet article est la suite de [la page principale](/wiki/osu!_wiki/Contribution_guide)* et suppose que vous utilisez [GitHub Desktop](https://desktop.github.com). **Même si vous travaillez localement, vous aurez toujours besoin d'accéder à GitHub pour créer des pull requests afin de réaliser vos changements.
+*Cet article est la suite de [la page principale](/wiki/osu!_wiki/Contribution_guide)* et suppose que vous utilisez [GitHub Desktop](https://desktop.github.com). **Vous pouvez utiliser d'autres clients Git selon vos propres conditions**. Même si vous travaillez localement, vous aurez toujours besoin d'accéder à GitHub pour créer des pull requests afin de réaliser vos changements.
 
 ## Installation de GitHub Desktop
 
@@ -74,7 +74,7 @@ Bien que les branches soient techniquement facultatives, elles sont [fortement r
 Par exemple, comme illustré ci-dessus, [pippi](/wiki/Mascots#pippi) a ajouté un fichier image, modifié le fichier `en.md` pour ajouter un titre et un lien vers l'image, et marqué les traductions comme obsolètes. A partir de cela, nous pouvons avoir deux commits, un pour les changements qui ont affecté le fichier `en.md`, et un pour marquer les traductions comme obsolètes.
 
 4. Sélectionnez les fichiers qui vont être placés dans le commit.
-5. Entrez le résumé du commit. Il est limité à 72 caractères et **doit être en anglais**.
+5. Entrez le résumé du commit. Il est limité à 50 caractères et **doit être en anglais**.
 6. Saisissez la description. Celle-ci est facultative, n'est pas limitée en nombre de caractères et peut être rédigée dans n'importe quelle langue.
 
   ![](img/github-desktop-first-commit.jpg "Premier commit")

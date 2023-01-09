@@ -1,6 +1,6 @@
 # GitHub-Desktop
 
-*Dieser Artikel wird auf [der Hauptseite](/wiki/osu!_wiki/Contribution_guide) fortgesetzt* und geht davon aus, dass du [GitHub-Desktop](https://desktop.github.com) benutzt. **Du kannst nach Belieben auch andere Git-Clients verwenden.** Selbst wenn du die Arbeit lokal anfertigst, musst du trotzdem auf GitHub zugreifen, um Änderungsanfragen (Pull-Requests) erstellen zu können, damit die Änderungen implementiert werden.
+*Dieser Artikel wird auf [der Hauptseite](/wiki/osu!_wiki/Contribution_guide) fortgesetzt* und geht davon aus, dass du [GitHub-Desktop](https://desktop.github.com) benutzt. **Du kannst nach Belieben auch andere Git-Clients verwenden**. Selbst wenn du die Arbeit lokal anfertigst, musst du trotzdem auf GitHub zugreifen, um Änderungsanfragen (Pull-Requests) erstellen zu können, damit die Änderungen implementiert werden.
 
 ## GitHub-Desktop installieren
 
@@ -74,7 +74,7 @@ Zwar ist die Nutzung von Branches eigentlich optional, sie ist allerdings [aus m
 Wie zum Beispiel oben zu sehen hat [pippi](/wiki/Mascots#pippi) eine Bilddatei hinzugefügt, die Datei `en.md` modifiziert, um einen Titel und einen Link zum Bild zu integrieren, und die Übersetzungen auf nicht mehr aktuell gesetzt. Daraus ergeben sich zwei Commits, den ersten für die Änderungen in der Datei `en.md` und den zweiten zum Kennzeichen der Übersetzungen als nicht mehr aktuell.
 
 4. Wähle die Dateien aus, die zur Versionshistorie hinzugefügt werden sollen.
-5. Lege die Zusammenfassung des Commits fest. Diese hat ein Limit von 72 Zeichen und **muss in Englisch sein**.
+5. Lege die Zusammenfassung des Commits fest. Diese hat ein Limit von 50 Zeichen und **muss in Englisch sein**.
 6. Gebe die Beschreibung ein. Sie ist optional, hat keine Zeichenbegrenzung und darf in jeder Sprache sein.
 
   ![](img/github-desktop-first-commit.jpg "Erster Commit")

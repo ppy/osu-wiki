@@ -1,6 +1,6 @@
 # GitHub Desktop
 
-*This article continues from [the main page](/wiki/osu!_wiki/Contribution_guide)* and assumes that you will be using [GitHub Desktop](https://desktop.github.com). **You may use other Git clients on your own terms.** Even if you do work locally, you will still need to access GitHub to create pull requests to make your changes happen.
+*This article continues from [the main page](/wiki/osu!_wiki/Contribution_guide)* and assumes that you will be using [GitHub Desktop](https://desktop.github.com). **You may use other Git clients on your own terms**. Even if you do work locally, you will still need to access GitHub to create pull requests to make your changes happen.
 
 ## Installing GitHub Desktop
 
@@ -74,7 +74,7 @@ While branching is technically optional, it is [highly recommended for a couple 
 For example, as pictured above, [pippi](/wiki/Mascots#pippi) had added an image file, modified the `en.md` file to add a title and a link to the image, and marked the translations as outdated. From this, we can have two commits, one for the changes that affected the `en.md` file, and one for marking the translations as outdated.
 
 4. Select the files that are going to be committed.
-5. Enter the commit summary. This has a 72 character limit and **must be in English**.
+5. Enter the commit summary. This has a 50 character limit and **must be in English**.
 6. Enter the description. This is optional, doesn't have a character limit, and could be in any language.
 
   ![](img/github-desktop-first-commit.jpg "First commit")
