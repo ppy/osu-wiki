@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 22188ef2a9149c3f0999652c9386734bb1215ffe
+---
+
 # Daftar pengelola osu! wiki
 
 Para pengelola osu! wiki bertanggung jawab untuk secara teratur mengawasi [*issue tracker*](https://github.com/ppy/osu-wiki/issues) dan meninjau ulang *pull request* yang dibuat oleh para kontributor. Mereka memiliki hak akses khusus untuk menyunting *pull request* yang ada dan menggabungkannya ke dalam *branch* `master` milik osu! wiki, yang akan langsung menerapkan berbagai perubahan yang diajukan secara seketika.
