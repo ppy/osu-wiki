@@ -11,14 +11,14 @@ Los títulos de usuarios son usualmente asociados con los [grupos de usuarios](/
 
 Cada año, los ganadores de las [copas del mundo oficiales](/wiki/Tournaments#official-world-cups) son otorgados con el título de **osu!/osu!taiko/osu!catch/osu!mania Champion** que dura hasta la conclusión de la siguiente iteración de la Copa del Mundo correspondiente.
 
-Ganadores de la [OWC 2021](/wiki/Tournaments/OWC/2021) con el título de **osu! Champion**:
+Ganadores de la [OWC 2022](/wiki/Tournaments/OWC/2022) con el título de **osu! Champion**:
 
-- ::{ flag=US }:: [Aireu](https://osu.ppy.sh/users/1650010)
-- ::{ flag=US }:: [Aricin](https://osu.ppy.sh/users/1419095)
-- ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207)
-- ::{ flag=US }:: [Exarch](https://osu.ppy.sh/users/5370153)
-- ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958)
+- ::{ flag=US }:: [BoshyMan741](https://osu.ppy.sh/users/4830687)
+- ::{ flag=US }:: [Decaten](https://osu.ppy.sh/users/5645231)
 - ::{ flag=US }:: [im a fancy lad](https://osu.ppy.sh/users/4908650)
+- ::{ flag=US }:: [Monko2k](https://osu.ppy.sh/users/4852013)
+- ::{ flag=US }:: [Rektygon](https://osu.ppy.sh/users/7813296)
+- ::{ flag=US }:: [Sawada](https://osu.ppy.sh/users/8198848)
 - ::{ flag=US }:: [Tekkito](https://osu.ppy.sh/users/7075211)
 - ::{ flag=US }:: [Utami](https://osu.ppy.sh/users/7512553)
 
@@ -31,23 +31,23 @@ Ganadores de la [TWC 2022](/wiki/Tournaments/TWC/2022) con el título de **osu!t
 - ::{ flag=JP }:: [syaron105](https://osu.ppy.sh/users/8741695)
 - ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719)
 
-Ganadores de la [CWC 2021](/wiki/Tournaments/CWC/2021) con el título de **osu!catch Champion**:
+Ganadores de la [CWC 2022](/wiki/Tournaments/CWC/2022) con el título de **osu!catch Champion**:
 
-- ::{ flag=KR }:: [Abstract-](https://osu.ppy.sh/users/3097304)
-- ::{ flag=KR }:: [Berea](https://osu.ppy.sh/users/3657951)
+- ::{ flag=KR }:: [Byeol](https://osu.ppy.sh/users/2754651)
 - ::{ flag=KR }:: [CTB Rushia1](https://osu.ppy.sh/users/4158549)
 - ::{ flag=KR }:: [DreStar](https://osu.ppy.sh/users/1808057)
-- ::{ flag=KR }:: [qwhj1027](https://osu.ppy.sh/users/7547506)
+- ::{ flag=KR }:: [JISAN](https://osu.ppy.sh/users/3657951)
 - ::{ flag=KR }:: [Rells](https://osu.ppy.sh/users/7937519)
+- ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276)
 
-Ganadores de la [MWC 4K 2021](/wiki/Tournaments/MWC/2021_4K) con el título de **osu!mania 4K Champion**:
+Ganadores de la [MWC 4K 2022](/wiki/Tournaments/MWC/2022_4K) con el título de **osu!mania 4K Champion**:
 
-- ::{ flag=BR }:: [Amerom](https://osu.ppy.sh/users/5691061)
-- ::{ flag=BR }:: [Lenn](https://osu.ppy.sh/users/11236829)
-- ::{ flag=BR }:: [LeMarcinho](https://osu.ppy.sh/users/13347579)
-- ::{ flag=BR }:: [Liight00](https://osu.ppy.sh/users/13601876)
-- ::{ flag=BR }:: [Lothus](https://osu.ppy.sh/users/9530019)
-- ::{ flag=BR }:: [SillyFangirl](https://osu.ppy.sh/users/2288363)
+- ::{ flag=KR }:: [Flying Samira](https://osu.ppy.sh/users/10329095)
+- ::{ flag=KR }:: [gaesol](https://osu.ppy.sh/users/12452131)
+- ::{ flag=KR }:: [lianic](https://osu.ppy.sh/users/13975661)
+- ::{ flag=KR }:: [Poca](https://osu.ppy.sh/users/8581031)
+- ::{ flag=KR }:: [SuddenDeath](https://osu.ppy.sh/users/6699923)
+- ::{ flag=KR }:: [SnowScent](https://osu.ppy.sh/users/7945868)
 
 Ganadores de la [MWC 7K 2022](/wiki/Tournaments/MWC/2022_7K) con el título de **osu!mania 7K Champion**:
 
@@ -72,9 +72,10 @@ Ganadores de las anteriores “osu! World Cups” con el título **Former osu! C
 | [OWC 2015](/wiki/Tournaments/OWC/2015) | Former osu! Champion: 2015 | ::{ flag=US }:: [0120](https://osu.ppy.sh/users/1901534), ::{ flag=US }:: [Kitteh](https://osu.ppy.sh/users/2162669), ::{ flag=US }:: [Seouless](https://osu.ppy.sh/users/3328676), ::{ flag=IL }:: [Xilver15](https://osu.ppy.sh/users/3099689), ::{ flag=US }:: [Zodiaack](https://osu.ppy.sh/users/3096229) |
 | [OWC 2016](/wiki/Tournaments/OWC/2016) | Former osu! Champion: 2016 | ::{ flag=US }:: [Axarious](https://osu.ppy.sh/users/2614511), ::{ flag=US }:: [HappyStick](https://osu.ppy.sh/users/256802), ::{ flag=US }:: [Mlaw](https://osu.ppy.sh/users/3126596), ::{ flag=US }:: [mniminwoo](https://osu.ppy.sh/users/3929529), ::{ flag=US }:: [Ritzeh](https://osu.ppy.sh/users/1028387) |
 | [OWC 2017](/wiki/Tournaments/OWC/2017) | Former osu! Champion: 2017 | ::{ flag=PL }:: [Astar](https://osu.ppy.sh/users/27055), ::{ flag=PL }:: [MrBoom](https://osu.ppy.sh/users/1837989), ::{ flag=PL }:: [Piggey](https://osu.ppy.sh/users/4163860), ::{ flag=PL }:: [Rafis](https://osu.ppy.sh/users/2558286), ::{ flag=PL }:: [Wakson](https://osu.ppy.sh/users/3048222), ::{ flag=PL }:: [WubWoofWolf](https://osu.ppy.sh/users/39828), ::{ flag=PL }:: [Wilchq](https://osu.ppy.sh/users/2021758) |
-| [OWC 2018](/wiki/Tournaments/OWC/2018) | Former osu! Champion: 2018 | ::{ flag=US }:: [Monko2k](https://osu.ppy.sh/users/4852013) |
-| [OWC 2019](/wiki/Tournaments/OWC/2019) | Former osu! Champion: 2019 | ::{ flag=US }:: [idke](https://osu.ppy.sh/users/4650315), ::{ flag=US }:: [t\[-_-t\]](https://osu.ppy.sh/users/2644828), ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) |
+| [OWC 2018](/wiki/Tournaments/OWC/2018) | Former osu! Champion: 2018 | *N/A* |
+| [OWC 2019](/wiki/Tournaments/OWC/2019) | Former osu! Champion: 2019 | ::{ flag=US }:: [idke](https://osu.ppy.sh/users/4650315), ::{ flag=US }:: [t\[-\_-t\]](https://osu.ppy.sh/users/2644828), ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) |
 | [OWC 2020](/wiki/Tournaments/OWC/2020) | Former osu! Champion: 2020 | ::{ flag=US }:: [Apraxia](https://osu.ppy.sh/users/4194445), ::{ flag=US }:: [BTMC](https://osu.ppy.sh/users/3171691), ::{ flag=US }:: [kablaze](https://osu.ppy.sh/users/3043603), ::{ flag=US }:: [Rektygon](https://osu.ppy.sh/users/7813296), ::{ flag=US }:: [Vaxei](https://osu.ppy.sh/users/4787150) |
+| [OWC 2021](/wiki/Tournaments/OWC/2020) | Former osu! Champion: 2021 | ::{ flag=US }:: [Aireu](https://osu.ppy.sh/users/1650010), ::{ flag=US }:: [Aricin](https://osu.ppy.sh/users/1419095), ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207), ::{ flag=US }:: [Exarch](https://osu.ppy.sh/users/5370153), ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |
 
 Ganadores de las anteriores “osu!taiko World Cups” con el título **Former osu!taiko Champion**:
 
@@ -104,7 +105,8 @@ Ganadores de las anteriores “osu!catch World Cups” con el título **Former o
 | [CWC 2017](/wiki/Tournaments/CWC/2017) | Former osu!catch Champion: 2017 | ::{ flag=KR }:: [ExGon](https://osu.ppy.sh/users/214187), ::{ flag=KR }:: [mjj741](https://osu.ppy.sh/users/1459769) |
 | [CWC 2018](/wiki/Tournaments/CWC/2018) | Former osu!catch Champion: 2018 | ::{ flag=CN }:: [- N a g i -](https://osu.ppy.sh/users/2956936), ::{ flag=CN }:: [Crystal](https://osu.ppy.sh/users/1646397), ::{ flag=CN }:: [Dusk](https://osu.ppy.sh/users/533210), ::{ flag=CN }:: [KagamineRin02](https://osu.ppy.sh/users/518503), ::{ flag=CN }:: [Kasumi](https://osu.ppy.sh/users/2331531), ::{ flag=CN }:: [Sakurano  Kurimu](https://osu.ppy.sh/users/1338103) |
 | [CWC 2019](/wiki/Tournaments/CWC/2019) | Former osu!catch Champion: 2019 | *N/A* |
-| [CWC 2020](/wiki/Tournaments/CWC/2020) | Former osu!catch Champion: 2020 | ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626), ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369), ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276), ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598), ::{ flag=KR }:: [T s u m i](https://osu.ppy.sh/users/4080520) |
+| [CWC 2020](/wiki/Tournaments/CWC/2020) | Former osu!catch Champion: 2020 | ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626), ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369), ::{ flag=KR }:: [Spectator](https://osu.ppy.sh/users/702598), ::{ flag=KR }:: [T s u m i](https://osu.ppy.sh/users/4080520) |
+| [CWC 2021](/wiki/Tournaments/CWC/2021) | Former osu!catch Champion: 2021 | ::{ flag=KR }:: [Abstract-](https://osu.ppy.sh/users/3097304), ::{ flag=KR }:: [qwhj1027](https://osu.ppy.sh/users/7547506) |
 
 Ganadores de las anteriores “osu!mania World Cups” con el título **Former osu!mania Champion**:
 
@@ -118,10 +120,11 @@ Ganadores de las anteriores “osu!mania World Cups” con el título **Former o
 | [MWC 7K 2017](/wiki/Tournaments/MWC/2017_7K) | Former osu!mania 7K Champion: 2017 | ::{ flag=KR }:: [Cobo-](https://osu.ppy.sh/users/1482965), ::{ flag=KR }:: [cr1sp](https://osu.ppy.sh/users/5332153) |
 | [MWC 4K 2017](/wiki/Tournaments/MWC/2017_4K) | Former osu!mania 4K Champion: 2017 | ::{ flag=KR }:: [cheetose](https://osu.ppy.sh/users/3817144), ::{ flag=KR }:: [Cobo-](https://osu.ppy.sh/users/1482965) |
 | [MWC 7K 2018](/wiki/Tournaments/MWC/2018_7K) | Former osu!mania 7K Champion: 2018 | ::{ flag=KR }:: [ideu-](https://osu.ppy.sh/users/137227), ::{ flag=KR }:: [Kim\_GodSSI](https://osu.ppy.sh/users/2218047) |
-| [MWC 4K 2018](/wiki/Tournaments/MWC/2018_4K) | Former osu!mania 4K Champion: 2018 | ::{ flag=KR }:: [\[ Special \]](https://osu.ppy.sh/users/8283444), ::{ flag=KR }:: [SnowScent](https://osu.ppy.sh/users/7945868) |
+| [MWC 4K 2018](/wiki/Tournaments/MWC/2018_4K) | Former osu!mania 4K Champion: 2018 | ::{ flag=KR }:: [\[ Special \]](https://osu.ppy.sh/users/8283444) |
 | [MWC 7K 2019](/wiki/Tournaments/MWC/2019_7K) | Former osu!mania 7K Champion: 2019 | ::{ flag=KR }:: [Jakads](https://osu.ppy.sh/users/259972), ::{ flag=KR }:: [wonder5193](https://osu.ppy.sh/users/8474029) |
-| [MWC 4K 2019](/wiki/Tournaments/MWC/2019_4K) | Former osu!mania 4K Champion: 2019 | ::{ flag=KR }:: [blueBloody](https://osu.ppy.sh/users/8046839), ::{ flag=KR }:: [Kalkai](https://osu.ppy.sh/users/10790649), ::{ flag=KR }:: [SuddenDeath](https://osu.ppy.sh/users/6699923), ::{ flag=KR }:: [Transcendence](https://osu.ppy.sh/users/903155), ::{ flag=KR }:: [Yeoul](https://osu.ppy.sh/users/4698728), ::{ flag=KR }:: [wonder5193](https://osu.ppy.sh/users/8474029) |
-| [MWC 4K 2020](/wiki/Tournaments/MWC/2020_4K) | Former osu!mania 4K Champion: 2019 | ::{ flag=BR }:: [Guilhermeziat](https://osu.ppy.sh/users/3661387), ::{ flag=BR }:: [Kyut](https://osu.ppy.sh/users/9328824), ::{ flag=BR }:: [Punnies](https://osu.ppy.sh/users/8700468) |
+| [MWC 4K 2019](/wiki/Tournaments/MWC/2019_4K) | Former osu!mania 4K Champion: 2019 | ::{ flag=KR }:: [blueBloody](https://osu.ppy.sh/users/8046839), ::{ flag=KR }:: [Kalkai](https://osu.ppy.sh/users/10790649), ::{ flag=KR }:: [Transcendence](https://osu.ppy.sh/users/903155), ::{ flag=KR }:: [Yeoul](https://osu.ppy.sh/users/4698728), ::{ flag=KR }:: [wonder5193](https://osu.ppy.sh/users/8474029) |
+| [MWC 4K 2020](/wiki/Tournaments/MWC/2020_4K) | Former osu!mania 4K Champion: 2020 | ::{ flag=BR }:: [Guilhermeziat](https://osu.ppy.sh/users/3661387), ::{ flag=BR }:: [Kyut](https://osu.ppy.sh/users/9328824), ::{ flag=BR }:: [Punnies](https://osu.ppy.sh/users/8700468) |
+| [MWC 4K 2021](/wiki/Tournaments/MWC/2021_4K) | Former osu!mania 4K Champion: 2021 | ::{ flag=BR }:: [Amerom](https://osu.ppy.sh/users/5691061), ::{ flag=BR }:: [Lenn](https://osu.ppy.sh/users/11236829), ::{ flag=BR }:: [LeMarcinho](https://osu.ppy.sh/users/13347579), ::{ flag=BR }:: [Lothus](https://osu.ppy.sh/users/9530019), ::{ flag=BR }:: [Orost](https://osu.ppy.sh/users/13601876), ::{ flag=BR }:: [SillyFangirl](https://osu.ppy.sh/users/2288363) |
 
 ## Ganadores oficiales de los concursos de mapping
 
@@ -174,10 +177,9 @@ Desde el 2020, los [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators
 - ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229)
 - ::{ flag=GB }:: [AJT](https://osu.ppy.sh/users/3181083)
 - ::{ flag=CA }:: [guden](https://osu.ppy.sh/users/11626065)
-- ::{ flag=ID }:: [Hinsvar](https://osu.ppy.sh/users/1249323)
 - ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)
 - ::{ flag=KR }:: [Luscent](https://osu.ppy.sh/users/2688581)
-- ::{ flag=GR }:: [Nokashi](https://osu.ppy.sh/users/5431196)
+- ::{ flag=KR }:: [Murumoo](https://osu.ppy.sh/users/8001433)
 - ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379)
 - ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637)
 - ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453)
@@ -225,32 +227,43 @@ Son [Artistas destacados](/wiki/Featured_Artists) con osu! y sus cuentas son pre
 
 | Usuario | Artista |
 | :-- | :-- |
+| ::{ flag=JP }:: [69\_de\_74](https://osu.ppy.sh/users/28700783) | [69 de 74](https://osu.ppy.sh/beatmaps/artists/268) |
 | ::{ flag=JP }:: [A\_\_](https://osu.ppy.sh/users/12011880) | [A?](https://osu.ppy.sh/beatmaps/artists/173) |
 | ::{ flag=US }:: [antiPLUR](https://osu.ppy.sh/users/7318723) | [antiPLUR / Internet Death Machine](https://osu.ppy.sh/beatmaps/artists/24) |
-| ::{ flag=US }:: [BigMoist10](https://osu.ppy.sh/users/20787676) | [The Gentle Men](https://osu.ppy.sh/beatmaps/artists/142) |
+| ::{ flag=HK }:: [Ardolf](https://osu.ppy.sh/users/12359061) | [Ardolf](https://osu.ppy.sh/beatmaps/artists/263) |
+| ::{ flag=US }:: [BigMoist10](https://osu.ppy.sh/users/20787676) | [The Gentle Men](https://osu.ppy.sh/beatmaps/artists/142) (member of) |
 | ::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471) | [BilliumMoto](https://osu.ppy.sh/beatmaps/artists/38) |
 | ::{ flag=AT }:: [creosu](https://osu.ppy.sh/users/13958834) | [Creo](https://osu.ppy.sh/beatmaps/artists/36) |
 | ::{ flag=NO }:: [cYsmix](https://osu.ppy.sh/users/272870) | [cYsmix](https://osu.ppy.sh/beatmaps/artists/2) |
-| ::{ flag=US }:: [Dictate](https://osu.ppy.sh/users/5983379) | [Dictate](https://osu.ppy.sh/beatmaps/artists/21) |
+| ::{ flag=JP }:: [DJ Raisei](https://osu.ppy.sh/users/9892920) | [DJ Raisei](https://osu.ppy.sh/beatmaps/artists/204) |
 | ::{ flag=US }:: [erikmcclure](https://osu.ppy.sh/users/19898921) | [Erik McClure](https://osu.ppy.sh/beatmaps/artists/125) |
-| ::{ flag=SE }:: [Helblinde](https://osu.ppy.sh/users/48053) | [Helblinde](https://osu.ppy.sh/beatmaps/artists/5) |
+| ::{ flag=NL }:: [happy30](https://osu.ppy.sh/users/27767) | [happy30](https://osu.ppy.sh/beatmaps/artists/317) |
+| ::{ flag=SE }:: [Helblinde](https://osu.ppy.sh/users/48053) | [Helblinde](https://osu.ppy.sh/beatmaps/artists/5), [Fractal Dreamers](https://osu.ppy.sh/beatmaps/artists/15) (member of) |
 | ::{ flag=JP }:: [II-L](https://osu.ppy.sh/users/15223576) | [II-L](https://osu.ppy.sh/beatmaps/artists/172) |
 | ::{ flag=JP }:: [kanki2](https://osu.ppy.sh/users/9595391) | [Lime / Kankitsu](https://osu.ppy.sh/beatmaps/artists/116) |
 | ::{ flag=DE }:: [KIRA_old_1](https://osu.ppy.sh/users/2138310) | [KIRA](https://osu.ppy.sh/beatmaps/artists/27) |
 | ::{ flag=RO }:: [kitazawakyouhei](https://osu.ppy.sh/users/15440027) | [Kitazawa Kyouhei](https://osu.ppy.sh/beatmaps/artists/165) |
 | ::{ flag=FR }:: [Kurokotei](https://osu.ppy.sh/users/398275) | [Kurokotei](https://osu.ppy.sh/beatmaps/artists/58) |
+| ::{ flag=KR }:: [LandRoot](https://osu.ppy.sh/users/12715622) | [LandRoot](https://osu.ppy.sh/beatmaps/artists/327) |
 | ::{ flag=MY }:: [Miraie](https://osu.ppy.sh/users/6483437) | [miraie](https://osu.ppy.sh/beatmaps/artists/162) |
 | ::{ flag=KR }:: [Nakagawa-Kanon](https://osu.ppy.sh/users/87065) | [Rabbit House](https://osu.ppy.sh/beatmaps/artists/242) |
 | ::{ flag=JP }:: [nakanojojo](https://osu.ppy.sh/users/10631848) | [Nakanojojo](https://osu.ppy.sh/beatmaps/artists/25) |
 | ::{ flag=JP }:: [Namirin](https://osu.ppy.sh/users/2264828) | [\*namirin](https://osu.ppy.sh/beatmaps/artists/18) |
 | ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) | [nekodex](https://osu.ppy.sh/beatmaps/artists/1) |
+| ::{ flag=US }:: [niu arx](https://osu.ppy.sh/users/5983379) | [niu arx / Dictate](https://osu.ppy.sh/beatmaps/artists/21) |
 | ::{ flag=US }:: [onumi](https://osu.ppy.sh/users/11204867) | [onumi](https://osu.ppy.sh/beatmaps/artists/32) |
 | ::{ flag=CA }:: [Redside](https://osu.ppy.sh/users/16039046) | [Redside](https://osu.ppy.sh/beatmaps/artists/184) |
+| ::{ flag=US }:: [Ritorikal](https://osu.ppy.sh/users/8061786) | [Ritorikal](https://osu.ppy.sh/beatmaps/artists/305) |
 | ::{ flag=PH }:: [rtnario](https://osu.ppy.sh/users/16222702) | [LEAF XCEED Music Division](https://osu.ppy.sh/beatmaps/artists/88) |
+| ::{ flag=GB }:: [SAMString](https://osu.ppy.sh/users/7273976) | [SAMString](https://osu.ppy.sh/beatmaps/artists/273) |
 | ::{ flag=US }:: [skymuted](https://osu.ppy.sh/users/7734050) | [Fractal Dreamers](https://osu.ppy.sh/beatmaps/artists/15) |
-| ::{ flag=ES }:: [sotuiofficial](https://osu.ppy.sh/users/14779258) | [Rising Sun Traxx](https://osu.ppy.sh/beatmaps/artists/41) |
+| ::{ flag=ES }:: [sotuiofficial](https://osu.ppy.sh/users/14779258) | [Rising Sun Traxx](https://osu.ppy.sh/beatmaps/artists/41) (founder) |
+| ::{ flag=KR }:: [thenewlimee](https://osu.ppy.sh/users/7802935) | [Raimukun](https://osu.ppy.sh/beatmaps/artists/247) |
 | ::{ flag=RU }:: [tieff](https://osu.ppy.sh/users/89619) | [tieff](https://osu.ppy.sh/beatmaps/artists/34) |
 | ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) | [VINXIS](https://osu.ppy.sh/beatmaps/artists/22) |
+| ::{ flag=JP }:: [xorsizer](https://osu.ppy.sh/users/20466752) | [Symholic](https://osu.ppy.sh/beatmaps/artists/130) (member of) |
+| ::{ flag=TH }:: [YuugenP](https://osu.ppy.sh/users/2014016) | [rN](https://osu.ppy.sh/beatmaps/artists/190) |
+| ::{ flag=US }:: [Zenpakuwu](https://osu.ppy.sh/users/13226945) | [Zenpaku](https://osu.ppy.sh/beatmaps/artists/190) |
 
 ## Ganadores del concurso "Mascot design" (Diseño de Mascota)
 

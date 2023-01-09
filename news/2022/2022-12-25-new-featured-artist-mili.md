@@ -10,7 +10,7 @@ date: 2022-12-25 08:30:00 +0000
 
 Do we really need to say more?
 
-**Mili** is the band behind [world.execute\(me\);](https://osu.ppy.sh/beatmapsets/470977), one of osu!'s coolest storyboards, and an endless slew of maps using songs from *Cytus* and *Deemo* like [Utopiasphere](https://osu.ppy.sh/beatmapsets/187177), [Nine Point Eight](https://osu.ppy.sh/beatmapsets/310702), and [Fable](https://osu.ppy.sh/beatmapsets/217722).
+**Mili** is the band behind [world.execute\(me\);](https://osu.ppy.sh/beatmapsets/470977), one of osu!'s coolest storyboards, and an endless slew of maps using songs from *Cytus* and *Deemo* like [Utopiosphere](https://osu.ppy.sh/beatmapsets/187177), [Nine Point Eight](https://osu.ppy.sh/beatmapsets/310702), and [Fable](https://osu.ppy.sh/beatmapsets/217722).
 
 And now they're one of osu!'s Featured Artists.
 
@@ -118,7 +118,7 @@ Check out [this osu! map](https://osu.ppy.sh/beatmapsets/932901) by [Icekalt](ht
 
 ### Mili - Gertrauda
 
-Become a healthier person next year. Eat everything falls from the sky in [this osu!catch map](https://osu.ppy.sh/beatmapsets/807114) by [JierYagtama](https://osu.ppy.sh/users/7483452).
+Become a healthier person next year. Eat everything that falls from the sky in [this osu!catch map](https://osu.ppy.sh/beatmapsets/807114) by [JierYagtama](https://osu.ppy.sh/users/7483452).
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/331/Millenium%20Mother%2FMili%20-%20Gertrauda.mp3" type="audio/mpeg">
@@ -174,7 +174,7 @@ Enjoy [this osu! map](https://osu.ppy.sh/beatmapsets/928652) by [celerih](https:
 
 ### Mili - Vitamins feat. world's end girlfriend
 
-Click circles to [this osu! map](https://osu.ppy.sh/beatmapsets/1473909) by [MeAqua tete](https://osu.ppy.sh/users/5645691) or Mili - Vitamins feat world's end girlfriend [osu! map](https://osu.ppy.sh/beatmapsets/1229050) by [ScubDomino](https://osu.ppy.sh/users/8972308)!
+Click circles to [this osu! map](https://osu.ppy.sh/beatmapsets/1473909) by [MeAqua tete](https://osu.ppy.sh/users/5645691) or [this osu! map](https://osu.ppy.sh/beatmapsets/1229050) hosted by [ScubDomino](https://osu.ppy.sh/users/8972308)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/331/Millenium%20Mother%2FMili%20-%20Vitamins%20feat.%20world's%20end%20girlfriend.mp3" type="audio/mpeg">
