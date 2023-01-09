@@ -84,13 +84,13 @@ outdated_translation: true
 | 名字 | 语言 | 小组 |
 | :-- | :-- | :-- |
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | | 顾问[^task-mo] |
+| ::{ flag=SG }:: [achyoo](https://osu.ppy.sh/users/7823498) | 汉语 | 评估者 |
 | ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) | | 评估者 |
 | ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | 白俄罗斯语，俄语 | 评估者 |
 | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | 粤语，汉语 | 评估者 |
 | ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) | | 评估者 |
 | ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | 汉语 | 评估者 |
 | ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | 德语 | 评估者 |
-| ::{ flag=SG }:: [Kotoha](https://osu.ppy.sh/users/7823498) | 汉语 | 评估者 |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | 瑞典语 | 顾问[^task-naxess] |
 | ::{ flag=GB }:: [NexusQI](https://osu.ppy.sh/users/13822800) | | 评估者 |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | | 顾问[^task-pishifat] |
