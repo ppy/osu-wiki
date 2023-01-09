@@ -31,7 +31,7 @@ If you want more informations about the first version of the osu!monthly, check 
 
 ### The resurection (2017-2018)
 
-Inspired by the first version of the osu!monthly, a new team was formed thanks to [clayton](https://osu.ppy.sh/users/3666350) and [Lay](https://osu.ppy.sh/users/3768185) and new iterations of the monthly could be published from October 2017 to February 2018. The format was still `.pdf` at the time, but with a more consistent and pleasing design.
+Inspired by the first version of the osu!monthly, a new team was formed thanks to [mangomizer](https://osu.ppy.sh/users/1893718) and [clayton](https://osu.ppy.sh/users/3666350) and new iterations of the monthly could be published from October 2017 to February 2018. The format was still `.pdf` at the time, but with a more consistent and pleasing design.
 
 #### Archives
 
