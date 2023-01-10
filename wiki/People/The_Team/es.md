@@ -74,7 +74,7 @@ Los siguientes son grupos de usuarios que están formados por miembros de la com
 | ::{ flag=US }:: [Datawalke](https://osu.ppy.sh/users/142) | Diseñador del sitio original, proveedor de alojamiento en los primeros días. [Brave New Games](http://www.bravegamer.com/) |
 | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | Organizador y administrador de la World Cup |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Organizador y administrador de la World Cup, lider del QAT, administrador de la comunidad |
-| ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | Diseñador de skins épicas, colaborador del conjunto de iconos y skins predeterminadas. [DeviantArt](https://luigihann.deviantart.com/) |
+| ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | Diseñador de skins épicas, contribuidor del conjunto de iconos y skins predeterminadas. [DeviantArt](https://luigihann.deviantart.com/) |
 | ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515) | Asesor de la escena de modding y mapping |
 | ::{ flag=CA }:: [mm201](https://osu.ppy.sh/users/30655) | Desarrollador de osu!, creator of mm sliders |
 | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) | Asesor de la escena de modding y mapping |
@@ -84,7 +84,7 @@ Los siguientes son grupos de usuarios que están formados por miembros de la com
 | ::{ flag=AU }:: [phill](https://osu.ppy.sh/users/53) | Diseñador del foro |
 | ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, extraordinario creador de cosas geniales |
 | ::{ flag=US }:: [Sarumaru](https://osu.ppy.sh/users/9427) | Diseñador original de ilustraciones y concepto de pippi.. [DeviantArt](https://sarumaru.deviantart.com/) |
-| ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | Líder y administrador de la comunidad inicial, colaborador de reuniones y preguntas frecuentes |
+| ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | Líder y administrador de la comunidad inicial, contribuidor de reuniones y preguntas frecuentes |
 | ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | Desarrollador de osu! y pp |
 | ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) | Gerente de Project Loved, asesor de la comunidad, divulgación de artistas destacados |
 | ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | Encargado general, organizador y administrador de la World Cup, mantenedor de la wiki |

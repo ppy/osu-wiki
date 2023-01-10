@@ -304,7 +304,7 @@ Estos jugadores recibieron sus respectivos títulos a través de un logro de jue
 | ::{ flag=US }:: [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist | Jugó todos los mapas clasificados de osu! a partir del 27 de abril de 2019 |
 | ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter | Ganó [The Hunt for the Girl in the Forest](https://osu.ppy.sh/community/forums/topics/662279) |
 
-## Colaboradores
+## Contribuidores
 
 Estos usuarios recibieron sus respectivos títulos por haber contribuido significativamente o ser una figura ejemplar en su campo de especialización.
 
