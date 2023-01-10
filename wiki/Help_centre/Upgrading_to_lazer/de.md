@@ -6,6 +6,8 @@ tags:
 
 # Umstellung auf lazer
 
+*Hinweis: Wir sind noch dabei, die Spielbalance und -mechanik zu verbessern. Für den Moment sollten **Scores, die auf lazer erreicht werden, nicht als dauerhaft angesehen werden**.*
+
 osu!(lazer) ist die nächste große Aktualisierung des Spiels. Es ist der Höhepunkt von mehreren Jahren Arbeit hinter den Kulissen, um das Spiel akribisch neu zu implementieren.
 
 Das Ziel ist, dass diese Version als Update veröffentlicht wird, das die bestehende stabile Version des Spiels vollständig ersetzt. Es gibt allerdings noch Arbeit zu erledigen, bevor das passieren kann. Am Ende des Tages entscheiden **die Spieler**, wann das geschieht und wir werden die vorherige Version weiter unterstützen, bis die Nutzer migriert sind.
