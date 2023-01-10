@@ -1,11 +1,11 @@
-# Gente
+# Personas
 
-Indice para los artículos sobre gente o grupos.
+Página de índice para artículos sobre personas o grupos.
 
-- [Colaboradores comunitarios](Community_Contributors)
+- [Contribuidores de la comunidad](Community_Contributors)
 - [Mantenedores de la osu! wiki](osu!_wiki_maintainers)
 - [peppy](peppy)
-- [Comité de Performance Points](Performance_Points_Committee)
+- [Comité de puntos de rendimiento](Performance_Points_Committee)
 - [El Equipo](The_Team)
-- [Comité de Torneos](Tournament_Committee)
+- [Comité de torneos](Tournament_Committee)
 - [Usuarios con títulos únicos](Users_with_unique_titles)
