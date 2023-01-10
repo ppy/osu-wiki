@@ -5,6 +5,8 @@ tags:
 
 # Nâng cấp lên lazer
 
+*Lưu ý: Chúng tôi vẫn đang tìm hiểu về sự cân bằng và cơ chế trò chơi. Bây giờ, **những điểm số được ghi trên lazer sẽ không tồn tại mãi mãi**.*
+
 osu!(lazer) là bản cập nhật quan trọng tiếp theo của trò chơi. Nó là kết quả của nhiều năm làm việc một cách bí mật để làm lại trò chơi một cách tỉ mỉ.
 
 Mục tiêu cuối cùng là phiên bản này sẽ thay thế hoàn toàn phiên bản ổn định của trò chơi, nhưng vẫn còn một vài việc phải hoàn thành trước khi nó khả thi. Cuối cùng, **người chơi** sẽ quyết định khi nào việc này sẽ xảy ra và chúng tôi sẽ tiếp tục hỗ trợ bản phát hành trước đó cho đến khi người dùng đã chuyển qua.
