@@ -799,7 +799,7 @@ Das folgende ist ein Beispiel, wie eine Tabelle aussehen sollte:
 
 Eine Infobox ist ein Block mit fester Breite, der an der rechten Seite des Artikels ausgerichtet ist. Er kann ein relevantes Bild enthalten, das den umgebenden Text erklärt, oder einen Navigationsblock, der auf andere Artikel derselben Kategorie verweist.
 
-Beispielverwendung, auf der rechten Seite sichtbar:
+Beispielverwendung, auf der rechten Seite sichtbar (oder oben auf schmalen Bildschirmen):
 
 <!-- The real infobox is added for illustrative purposes, with Markdown syntax duplicated below for clarity. -->
 
@@ -817,6 +817,8 @@ Infoboxen sollten in den folgenden Fällen mit Vorsicht genutzt werden:
 
 - Kurze Abschnitte: Die Überschrift der nächsten Sektion erscheint unter jeder Infobox, wodurch eine große Lücke nach dem Text entsteht.
 - Mehrere Bilder auf einmal: Benutze stattdessen einzelne Infoboxen für ein besseres Design.
+
+Nur Überschriftenebene 4 und 5 sind innerhalb einer Infobox erlaubt. Diese erscheinen nicht im Inhaltsverzeichnis und alles darunter ist zu groß. Eventuelle [CI-Prüfungsfehler](/wiki/osu!_wiki/Maintenance#ci-checks) müssen deshalb umgangen werden.
 
 ## Fußnoten
 
