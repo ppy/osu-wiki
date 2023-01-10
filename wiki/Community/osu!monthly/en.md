@@ -6,7 +6,7 @@
 
 osu!monthly is a community effort project with people within it contributing to its creation, therefore, anyone that wants to help and/or contribute (in ways such as writing, sharing opinions and thoughts, providing feedback) is always welcome to do so! However, only community members with consistent contributions can be considered as part of the [osu!monthly Team](/wiki/People/osu!monthly_Team).
 
-To start, join the [osu!dev Discord server](/wiki/Community/osu%21dev_Discord_server) and verify yourself with the intention to help with the progress of osu!monthly. After you get verified, head over to the #osu-news channel (in the `COMMUNITY` category) and start discussing your idea with the team!
+To start, join the [osu!dev Discord server](/wiki/Community/osu!dev_Discord_server) and verify yourself with the intention to help with the progress of osu!monthly. After you get verified, head over to the #osu-news channel (in the `COMMUNITY` category) and start discussing your idea with the team!
 
 It is also possible to reach out to 0x84f#0001 in Discord, the lead of the project, , but is not to be preferred.
 
