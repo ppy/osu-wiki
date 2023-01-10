@@ -15,7 +15,7 @@ The people listed below are the core of the osu!monthly Team and participate eve
 | ::{ flag=CA }:: [ianpep](https://osu.ppy.sh/users/7699030) | osu!taiko representative |
 | ::{ flag=ES }:: [Patatitta](https://osu.ppy.sh/users/16294034) | osu!catch representative |
 | ::{ flag=FR }:: [Pisapou](https://osu.ppy.sh/users/16640021) | Project editor |
-| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Helper |
+| ::{ flag=ES }:: [RandomeLoL](https://osu.ppy.sh/users/7080063) | Helper & osu!mania representative  |
 | ::{ flag=ES }:: [Tanza3D](https://osu.ppy.sh/users/10379965) | Project designer |
 | ::{ flag=ID }:: [Wowcake](https://osu.ppy.sh/users/16121851) | Helper |
 

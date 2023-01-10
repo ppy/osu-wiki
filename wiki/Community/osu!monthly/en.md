@@ -1,12 +1,12 @@
 # osu!monthly
 
-The **osu!monthly** is a self-generated project by members of the community, grouped under the name of the [osu!monthly Team](/wiki/People/osu!monthly_Team), to create a monthly newspaper that summarises the news of osu!. Although there have been many versions of this one, the project has always been the same and will remain so in the future: monthly summary of what's happening on osu! (and more precisely in the community).
+**osu!monthly** is a community project that is currently managed by the [osu!monthly Team](/wiki/People/osu!monthly_Team), and it's goal is to create a monthly news post that summarises various community and official events, news, announcements etc. that occurred within any given month. The project has been led by several other groups of community members in the past, with the goal always being the same: inform the average player about the previous and current events in order to shed light over the entire osu! community.
 
 ## Becoming an osu!monthly contributor
 
-The osu!monthly is a community effort project with people within the community contributing its making, therefore, anyone that wants to help, such as to write, share opinions and thoughts, or just to give any kind of feedback are pretty much welcomed! However, only the most regular people can really be considered as part of the [osu!monthly Team](/wiki/People/osu!monthly_Team).
+osu!monthly is a community effort project with people within it contributing to its creation, therefore, anyone that wants to help and/or contribute (in ways such as writing, sharing opinions and thoughts, providing feedback) is always welcome to do so! However, only community members with consistent contributions can be considered as part of the [osu!monthly Team](/wiki/People/osu!monthly_Team).
 
-To start, join the [osu!dev Discord server](/wiki/Community/osu%21dev_Discord_server) and verify yourself with the intention to help with the progress of osu!monthly. After being verified, head over to the #osu-news channel on the bottom and start discussing idaea with the people alike!
+To start, join the [osu!dev Discord server](/wiki/Community/osu%21dev_Discord_server) and verify yourself with the intention to help with the progress of osu!monthly. After you get verified, head over to the #osu-news channel (in the `COMMUNITY` category) and start discussing your idea with the team!
 
 It is also possible to reach out to 0x84f#0001 in Discord, the lead of the project, , but is not to be preferred.
 
@@ -29,7 +29,7 @@ The original run of osu!monthly created by [jjrocks](https://osu.ppy.sh/users/30
 | [osu!monthly #5](https://osumonthly.com/pdf/osu!monthly-1.pdf) | 2011-08-15 |
 | [osu!monthly #6](https://osumonthly.com/pdf/osu!monthly-1.pdf) | 2011-10-27 |
 
-More information can be found on the first version of the osu!monthly, check the [JJ's website](https://web.archive.org/web/20201112030400/http://jjwanda.com/projects/osumonthly.html)!
+More information can be found on the first version of the osu!monthly, check out [JJ's website](https://web.archive.org/web/20201112030400/http://jjwanda.com/projects/osumonthly.html)!
 
 ### The resurection (2017-2018)
 
@@ -45,9 +45,9 @@ Inspired by the first version of the osu!monthly, a new team was formed thanks t
 
 More information can be found on the second version of the osu!monthly, an official [website](https://osumonthly.com/) was also created at that time to list the team and archive the productions of the osu!monthly teams, so check it out!
 
-### A new beginning (2022 - now)
+### A new beginning (2022 - present)
 
-With a desire to once again revive this project, the [osu!monthly Team](/wiki/People/osu!monthly_Team) was formed with [0x84f](https://osu.ppy.sh/users/7944724) at the helm, and relaunched the project this time directly as newsposts, and not by `.pdf`. The project continues to perpetuate, and hopefully for a long time.
+With a desire to once again revive this project, the [osu!monthly Team](/wiki/People/osu!monthly_Team) was formed with [0x84f](https://osu.ppy.sh/users/7944724) at the helm, and relaunched the project this time directly as news posts, and not by `.pdf`. The project is currently ongoing.
 
 #### Archives
 
