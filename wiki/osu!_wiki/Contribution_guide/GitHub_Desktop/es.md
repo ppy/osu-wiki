@@ -28,7 +28,7 @@
 Si bien la ramificación es técnicamente opcional, es [muy recomendable por un par de razones](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow). Por nombrar algunas:
 
 - Las ramas aíslan diferentes cambios lógicos entre sí: puede trabajar en más de un artículo y revisarlos y fusionarlos por separado.
-- Cuando sus cambios están fuera de la rama `master`, puede [sincronizarlos de forma segura](/wiki/osu!_wiki/Contribution_guide/Best_practices#syncing-the-fork) sin conflictos de fusión.
+- Cuando sus cambios están fuera de la rama `master`, puede [sincronizarlos de forma segura](/wiki/osu!_wiki/Contribution_guide/Best_practices#sincronizando-la-bifurcación) sin conflictos de fusión.
 
 1. Haga clic en el menú desplegable `Current branch` ubicado en la parte superior del menú.
 
@@ -42,7 +42,7 @@ Si bien la ramificación es técnicamente opcional, es [muy recomendable por un 
 
 1. En la carpeta en la que clonó el repositorio, navegue hasta el archivo que desea editar. Los artículos están organizados por los nombres de las carpetas que son los nombres de los artículos y los archivos `.md` que son las traducciones.
 2. Una vez que encuentre el archivo correcto, ábralo con su editor de texto favorito.
-3. Ahora puede hacer sus cambios. Tómese un momento para pasar también por el [autocontrol](/wiki/osu!_wiki/Contribution_guide#self-check).
+3. Ahora puede hacer sus cambios. Tómese un momento para pasar también por la [autocomprobación](/wiki/osu!_wiki/Contribution_guide#autocomprobación).
 4. Continua a [Creando commits y enviando](#creando-commits-y-enviando).
 
 ### Mover archivos existentes
