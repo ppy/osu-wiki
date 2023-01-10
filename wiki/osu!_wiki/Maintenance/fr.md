@@ -11,9 +11,9 @@ Cet article décrit les aspects techniques ou administratifs de l'osu! wiki. Il 
 
 ## Administrateurs
 
-*Page principale : [Liste des maintainers de l'osu! wiki](/wiki/osu!_wiki/Maintenance/List_of_maintainers)*
+*Page principale : [Liste des maintainers de l'osu! wiki](/wiki/People/osu!_wiki_maintainers)*
 
-Les administrateurs sont des personnes ayant un [accès collaborateur](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-user-account-settings/permission-levels-for-a-user-account-repository#collaborator-access-for-a-repository-owned-by-a-user-account) au [dépôt `ppy/osu-wiki`](https://github.com/ppy/osu-wiki/), où tous les articles et les news sont stockés. Ils peuvent trier et étiqueter les problèmes, gérer les pull requests et prendre des décisions concernant le présent et l'avenir du wiki.
+Les administrateurs sont des personnes ayant un [accès collaborateur](https://docs.github.com/fr/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-personal-account-settings/permission-levels-for-a-personal-account-repository#collaborator-access-for-a-repository-owned-by-a-personal-account) au [dépôt `ppy/osu-wiki`](https://github.com/ppy/osu-wiki/), où tous les articles et les news sont stockés. Ils peuvent trier et étiqueter les problèmes, gérer les pull requests et prendre des décisions concernant le présent et l'avenir du wiki.
 
 Les maintainers effectuent la review finale des pull requests et les fusionnent. Si vous avez une contribution qui nécessite de l'attention, demandez à l'un d'entre eux dans le salon de discussion `#osu-wiki`.
 
@@ -48,7 +48,7 @@ Lorsque vous ajoutez des redirections pour un article nouveau ou existant, garde
 
 ### CI checks
 
-Le dépôt osu! wiki utilise une [continuous integration](https://docs.github.com/en/actions/guides/about-continuous-integration) (CI) pour vérifier automatiquement les pull requests entrantes afin de détecter diverses erreurs courantes. La liste des vérifications est configurée dans le fichier [`continuous-integration.yml`](https://github.com/ppy/osu-wiki/blob/master/.github/workflows/continuous-integration.yml). 
+Le dépôt osu! wiki utilise une [continuous integration](https://docs.github.com/fr/actions/automating-builds-and-tests/about-continuous-integration) (CI) pour vérifier automatiquement les pull requests entrantes afin de détecter diverses erreurs courantes. La liste des vérifications est configurée dans le fichier [`continuous-integration.yml`](https://github.com/ppy/osu-wiki/blob/master/.github/workflows/continuous-integration.yml).
 
 Le fichier [`package.json`](https://github.com/ppy/osu-wiki/blob/master/package.json) liste tous les plugins utilisés par le CI, dont certains ont été écrits par les maintainers de l'osu! wiki.
 
