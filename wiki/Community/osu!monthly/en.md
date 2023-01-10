@@ -4,7 +4,7 @@ The **osu!monthly** is a self-generated project by members of the community, gro
 
 ## Becoming an osu!monthly contributor
 
-The osu!monthly is a community effort project with people within the community contributing its making, therefore, anyone that wants to help, such as to write, share opinions and thoughts, or just to give any kind of feedback are pretty much welcomed! However, only the most regular people can really be considered as part of the [osu!monthly Team](/wiki/People/osu!monthly_Team/).
+The osu!monthly is a community effort project with people within the community contributing its making, therefore, anyone that wants to help, such as to write, share opinions and thoughts, or just to give any kind of feedback are pretty much welcomed! However, only the most regular people can really be considered as part of the [osu!monthly Team](/wiki/People/osu!monthly_Team).
 
 To start, join the [osu!dev Discord server](/wiki/Community/osu%21dev_Discord_server) and verify yourself with the intention to help with the progress of osu!monthly. After being verified, head over to the #osu-news channel on the bottom and start discussing idaea with the people alike!
 
@@ -47,7 +47,7 @@ More information can be found on the second version of the osu!monthly, an offic
 
 ### A new beginning (2022 - now)
 
-With a desire to once again revive this project, the [osu!monthly Team](/wiki/People/osu!monthly_Team/) was formed with [0x84f](https://osu.ppy.sh/users/7944724) at the helm, and relaunched the project this time directly as newsposts, and not by `.pdf`. The project continues to perpetuate, and hopefully for a long time.
+With a desire to once again revive this project, the [osu!monthly Team](/wiki/People/osu!monthly_Team) was formed with [0x84f](https://osu.ppy.sh/users/7944724) at the helm, and relaunched the project this time directly as newsposts, and not by `.pdf`. The project continues to perpetuate, and hopefully for a long time.
 
 #### Archives
 
