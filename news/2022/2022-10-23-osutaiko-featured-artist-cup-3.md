@@ -61,7 +61,7 @@ The top 3 teams that reign supreme will be awarded with the following prizes:
 - **2nd place:** 4 months of osu!supporter, and 2 Contest Points.
 - **3rd place:** 2 months of osu!supporter, and 1 Contest Point.
 
-![](/wiki/Contests/o!tFAC/3/img/badge.png "osu!taiko Featured Artist Cup #3 Winning Team")
+![](/wiki/Contests/o!tFAC/3/img/badge1.png "osu!taiko Featured Artist Cup #3 Winning Team")
 
 *Note: The top 3 entries will be fast-tracked to the Ranked section if the mappers choose to.*
 

@@ -57,6 +57,7 @@ Les listes ci-dessous indiquent dans quel(s) mode(s) de jeu chaque Beatmap Nomin
 | ::{ flag=KR }:: [Cellina](https://osu.ppy.sh/users/2490770) | Coréen |
 | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Portugais |
 | ::{ flag=ES }:: [Didah](https://osu.ppy.sh/users/8030129) | Espagnol |
+| ::{ flag=DE }:: [Dignan](https://osu.ppy.sh/users/4505918) | Allemand |
 | ::{ flag=US }:: [eiri-](https://osu.ppy.sh/users/3388410) | Espagnol |
 | ::{ flag=BE }:: [Enneya](https://osu.ppy.sh/users/10959501) | Néerlandais |
 | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |  |
@@ -87,7 +88,6 @@ Les listes ci-dessous indiquent dans quel(s) mode(s) de jeu chaque Beatmap Nomin
 | ::{ flag=RU }:: [Shmiklak](https://osu.ppy.sh/users/5504231) | Russe |
 | ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | Russe |
 | ::{ flag=FR }:: [Sotarks](https://osu.ppy.sh/users/4452992) | Français |
-| ::{ flag=DE }:: [Sylvarus](https://osu.ppy.sh/users/4505918) | Allemand |
 | ::{ flag=FI }:: [TheKingHenry](https://osu.ppy.sh/users/5128277) | Finnois |
 | ::{ flag=TH }:: [timemon](https://osu.ppy.sh/users/2072005) | Thaï |
 | ::{ flag=LT }:: [tomatas95](https://osu.ppy.sh/users/11403815) | Lituanien |
@@ -226,7 +226,7 @@ Les listes ci-dessous indiquent dans quel(s) mode(s) de jeu chaque Beatmap Nomin
 | ::{ flag=DE }:: [Feerum](https://osu.ppy.sh/users/4815717) | Allemand |
 | ::{ flag=AU }:: [fvrex](https://osu.ppy.sh/users/11863699) |  |
 | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | Indonésien |
-| ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/14351534) | Chinois |
+| ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/4790958) | Chinois |
 
 ## Historique
 

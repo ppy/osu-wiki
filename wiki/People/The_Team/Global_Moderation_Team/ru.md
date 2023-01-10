@@ -76,7 +76,6 @@ tags:
 | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109) | Португальский, японский | Модерация чата |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) |  | Поддержка игроков, администрирование вики |
 | ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | Индонезийский | Модерация маппинг-сообщества |
-| ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Китайский | Модерация маппинг-сообщества |
 | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) | Польский | Модерация чата |
 | ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Китайский | Модерация маппинг-сообщества |
 | ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | Модерация маппинг-сообщества |
