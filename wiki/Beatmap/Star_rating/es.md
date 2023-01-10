@@ -8,7 +8,7 @@ tags:
 
 # Calificación por estrellas
 
-La **calificación por estrellas** (***SR*** por *Star Rating*) describe la dificultad de un [beatmap](/wiki/Beatmap), que se calcula automáticamente por el ciente de osu!. La calificación por estrellas juega un papel importante en la forma en que se otorgan los [puntos de rendimiento](/wiki/Performance_points). Este número se puede ver en la [pantalla de selección de canciones](/wiki/Client/Interface#song-select) y en la página de información de un beatmap.
+La **calificación por estrellas** (***SR*** por *Star Rating*) describe la dificultad de un [beatmap](/wiki/Beatmap), que se calcula automáticamente por el ciente de osu!. La calificación por estrellas juega un papel importante en la forma en que se otorgan los [puntos de rendimiento](/wiki/Performance_points). Este número se puede ver en la [pantalla de selección de canciones](/wiki/Client/Interface#selector-de-canciones) y en la página de información de un beatmap.
 
 ## Dificultad
 
