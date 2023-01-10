@@ -6,9 +6,9 @@ This article describes technical or administrative aspects of the osu! wiki. It 
 
 ## Administrators
 
-*Main page: [List of the osu! wiki maintainers](/wiki/osu!_wiki/Maintenance/List_of_maintainers)*
+*Main page: [List of the osu! wiki maintainers](/wiki/People/osu!_wiki_maintainers)*
 
-The administrators are people with [collaborator access](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-user-account-settings/permission-levels-for-a-user-account-repository#collaborator-access-for-a-repository-owned-by-a-user-account) to the [`ppy/osu-wiki` repository](https://github.com/ppy/osu-wiki/), where all articles and news posts are stored. They can triage and label issues, manage open pull requests, and make decisions regarding the osu! wiki's present and future.
+The administrators are people with [collaborator access](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-personal-account-settings/permission-levels-for-a-personal-account-repository#collaborator-access-for-a-repository-owned-by-a-personal-account) to the [`ppy/osu-wiki` repository](https://github.com/ppy/osu-wiki/), where all articles and news posts are stored. They can triage and label issues, manage open pull requests, and make decisions regarding the osu! wiki's present and future.
 
 Maintainers perform the final review of pull requests and merge them. If you have a contribution in need of attention, ask one of them in the `#osu-wiki` channel.
 
@@ -44,7 +44,7 @@ When adding redirects for a new or existing article, keep in mind that they shou
 
 ### CI checks
 
-The osu! wiki repository uses [continuous integration](https://docs.github.com/en/actions/guides/about-continuous-integration) (CI) to automatically check incoming pull requests for various common errors. The list of checks is configured in the [`continuous-integration.yml`](https://github.com/ppy/osu-wiki/blob/master/.github/workflows/continuous-integration.yml) file. 
+The osu! wiki repository uses [continuous integration](https://docs.github.com/en/actions/automating-builds-and-tests/about-continuous-integration) (CI) to automatically check incoming pull requests for various common errors. The list of checks is configured in the [`continuous-integration.yml`](https://github.com/ppy/osu-wiki/blob/master/.github/workflows/continuous-integration.yml) file.
 
 The [`package.json`](https://github.com/ppy/osu-wiki/blob/master/package.json) file lists all ([remark](https://github.com/remarkjs/remark)) plugins used by the CI, of which some were written by the osu! wiki maintainers.
 
@@ -59,7 +59,7 @@ If you need help with decrypting CI check error messages, or fixing issues, ask 
 
 #### Bypassing CI checks
 
-CI checks normally prevent pull requests with errors from getting merged. However, in the event of false errors or discovered bugs in the checks, they can still be bypassed as a fail safe. There are a few situations where intentionally bypassing a CI check is acceptable, as outlined below. Contact a [maintainer](/wiki/osu!_wiki/Maintenance/List_of_maintainers) if you need to bypass a check for a reason not mentioned here.
+CI checks normally prevent pull requests with errors from getting merged. However, in the event of false errors or discovered bugs in the checks, they can still be bypassed as a fail safe. There are a few situations where intentionally bypassing a CI check is acceptable, as outlined below. Contact a [maintainer](/wiki/People/osu!_wiki_maintainers) if you need to bypass a check for a reason not mentioned here.
 
 For reference, below is a table of all CI checks in order:
 
