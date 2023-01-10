@@ -1,18 +1,18 @@
 # osu!monthly
 
-The **osu!monthly** is a self-generated project by members of the community, grouped under the name of the [osu!monthly Team](/wiki/People/osu!monthly_Team), to create a monthly newspaper that summarizes the news of osu!. Although there have been many different versions of this one, the project has always been the same and will remain so in the future: monthly summary of what's happening on osu! (and more precisely in the community).
+The **osu!monthly** is a self-generated project by members of the community, grouped under the name of the [osu!monthly Team](/wiki/People/osu!monthly_Team), to create a monthly newspaper that summarises the news of osu!. Although there have been many versions of this one, the project has always been the same and will remain so in the future: monthly summary of what's happening on osu! (and more precisely in the community).
 
 ## Becoming an osu!monthly contributor
 
-The osu!monthly is a community effort project with people within the community contributing its making, therefore, anyone that wants to help contributing, such as to write, share your opinions and thoughts, or just to give any kind of feedback are pretty much welcomed! However, only the most regular people can really be considered as part of the [osu!monthly Team](/wiki/People/osu!monthly_Team/).
+The osu!monthly is a community effort project with people within the community contributing its making, therefore, anyone that wants to help, such as to write, share opinions and thoughts, or just to give any kind of feedback are pretty much welcomed! However, only the most regular people can really be considered as part of the [osu!monthly Team](/wiki/People/osu!monthly_Team/).
 
-To start, join the [osu!dev Discord server](/wiki/Community/osu%21dev_Discord_server) and verify yourself with the intention to help with the progress of osu!monthly. After you got verified, head over to the #osu-news channel on the bottom and start discussing your idea with the people alike!
+To start, join the [osu!dev Discord server](/wiki/Community/osu%21dev_Discord_server) and verify yourself with the intention to help with the progress of osu!monthly. After being verified, head over to the #osu-news channel on the bottom and start discussing idaea with the people alike!
 
-Or if you're not feeling to do any of that, feel free to reach out to 0x84f#0001 in Discord, the lead of the project.
+It is also possible to reach out to 0x84f#0001 in Discord, the lead of the project, , but is not to be preferred.
 
 ## History and Archives
 
-Below you will find the archive of all iterations of osu!monthly as well as information on the development of osu!monthly over time.
+Below is an archive of all iterations of osu!monthly as well as information on the development of osu!monthly over time.
 
 ### The beginnings (2011)
 
@@ -29,7 +29,7 @@ The original run of osu!monthly created by [jjrocks](https://osu.ppy.sh/users/30
 | [osu!monthly #5](https://osumonthly.com/pdf/osu!monthly-1.pdf) | 2011-08-15 |
 | [osu!monthly #6](https://osumonthly.com/pdf/osu!monthly-1.pdf) | 2011-10-27 |
 
-If you want more informations about the first version of the osu!monthly, check the [JJ's website](https://web.archive.org/web/20201112030400/http://jjwanda.com/projects/osumonthly.html)!
+More information can be found on the first version of the osu!monthly, check the [JJ's website](https://web.archive.org/web/20201112030400/http://jjwanda.com/projects/osumonthly.html)!
 
 ### The resurection (2017-2018)
 
@@ -43,7 +43,7 @@ Inspired by the first version of the osu!monthly, a new team was formed thanks t
 | [osu!monthly #2](https://osumonthly.com/pdf/osu!monthly-2017-11.pdf) | 2017-12-26 |
 | [osu!monthly #3](https://osumonthly.com/pdf/osu!monthly-2018-02.pdf) | 2018-02-17 |
 
-If you want more informations about the second version of the osu!monthly, an official [website](https://osumonthly.com/) was also created at that time to list the team and archive the productions of the osu!monthly teams, so check it out!
+More information can be found on the second version of the osu!monthly, an official [website](https://osumonthly.com/) was also created at that time to list the team and archive the productions of the osu!monthly teams, so check it out!
 
 ### A new beginning (2022 - now)
 

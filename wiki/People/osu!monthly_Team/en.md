@@ -21,7 +21,7 @@ The people listed below are the core of the osu!monthly Team and participate eve
 
 ### Other contributors
 
-The people listed below remain vital to the osu!monthly even if they do not write, as they seeks the information that constitutes it in addition to the main contributors.
+The people listed below remain vital to the osu!monthly even if they do not write, as they seek the information that constitutes it in addition to the main contributors.
 
 | Name | Affiliated section |
 | :-- | :-- |
