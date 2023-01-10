@@ -20,12 +20,14 @@ The original run of osu!monthly created by [jjrocks](https://osu.ppy.sh/users/30
 
 #### Archives
 
-- [osu!monthly #1](https://osumonthly.com/pdf/osu!monthly-1.pdf) - Realesed 2011-03-05
-- [osu!monthly #2](https://osumonthly.com/pdf/osu!monthly-1.pdf) - Realesed 2011-05-06
-- [osu!monthly #3](https://osumonthly.com/pdf/osu!monthly-1.pdf) - Realesed 2011-06-07
-- [osu!monthly #4](https://osumonthly.com/pdf/osu!monthly-1.pdf) - Realesed 2011-07-07
-- [osu!monthly #5](https://osumonthly.com/pdf/osu!monthly-1.pdf) - Realesed 2011-08-15
-- [osu!monthly #6](https://osumonthly.com/pdf/osu!monthly-1.pdf) - Realesed 2011-10-27
+| Name | Date of publication |
+| :-- | :-- |
+| [osu!monthly #1](https://osumonthly.com/pdf/osu!monthly-1.pdf) | 2011-03-05 |
+| [osu!monthly #2](https://osumonthly.com/pdf/osu!monthly-1.pdf) | 2011-05-06 |
+| [osu!monthly #3](https://osumonthly.com/pdf/osu!monthly-1.pdf) | 2011-06-07 |
+| [osu!monthly #4](https://osumonthly.com/pdf/osu!monthly-1.pdf) | 2011-07-07 |
+| [osu!monthly #5](https://osumonthly.com/pdf/osu!monthly-1.pdf) | 2011-08-15 |
+| [osu!monthly #6](https://osumonthly.com/pdf/osu!monthly-1.pdf) | 2011-10-27 |
 
 If you want more informations about the first version of the osu!monthly, check the [JJ's website](https://web.archive.org/web/20201112030400/http://jjwanda.com/projects/osumonthly.html)!
 
@@ -35,9 +37,11 @@ Inspired by the first version of the osu!monthly, a new team was formed thanks t
 
 #### Archives
 
-- [osu!monthly #1](https://osumonthly.com/pdf/osu!monthly-2017-10.pdf) - Released 2017-11-04
-- [osu!monthly #2](https://osumonthly.com/pdf/osu!monthly-2017-11.pdf) - Released 2017-12-26
-- [osu!monthly #3](https://osumonthly.com/pdf/osu!monthly-2018-02.pdf) - Released 2018-02-17
+| Name | Date of publication |
+| :-- | :-- |
+| [osu!monthly #1](https://osumonthly.com/pdf/osu!monthly-2017-10.pdf) | 2017-11-04 |
+| [osu!monthly #2](https://osumonthly.com/pdf/osu!monthly-2017-11.pdf) | 2017-12-26 |
+| [osu!monthly #3](https://osumonthly.com/pdf/osu!monthly-2018-02.pdf) | 2018-02-17 |
 
 If you want more informations about the second version of the osu!monthly, an official [website](https://osumonthly.com/) was also created at that time to list the team and archive the productions of the osu!monthly teams, so check it out!
 
@@ -47,9 +51,11 @@ With a desire to once again revive this project, the [osu!monthly Team](/wiki/Pe
 
 #### Archives
 
-- [osu!monthly returns, July 2022](https://osu.ppy.sh/home/news/2022-08-01-osumonthly-1) - Released 2022-08-01
-- [osu!monthly, August 2022](https://osu.ppy.sh/home/news/2022-09-01-osumonthly-2) - Released 2022-09-01
-- [osu!monthly, September 2022](https://osu.ppy.sh/home/news/2022-10-02-osumonthly-3) - Released 2022-10-02
-- [osu!monthly, October 2022](https://osu.ppy.sh/home/news/2022-11-01-osumonthly-4) - Released 2022-11-01
-- [osu!monthly, November 2022](https://osu.ppy.sh/home/news/2022-12-01-osumonthly-5) - Released 2022-12-05
-- [osu!monthly, December 2022](https://osu.ppy.sh/home/news/2023-01-06-osumonthly-6) - Released 2023-01-06
+| Name | Date of publication |
+| :-- | :-- |
+| [osu!monthly returns, July 2022](https://osu.ppy.sh/home/news/2022-08-01-osumonthly-1) | 2022-08-01 |
+| [osu!monthly, August 2022](https://osu.ppy.sh/home/news/2022-09-01-osumonthly-2) | 2022-09-01 |
+| [osu!monthly, September 2022](https://osu.ppy.sh/home/news/2022-10-02-osumonthly-3) | 2022-10-02 |
+| [osu!monthly, October 2022](https://osu.ppy.sh/home/news/2022-11-01-osumonthly-4) | 2022-11-01 |
+| [osu!monthly, November 2022](https://osu.ppy.sh/home/news/2022-12-01-osumonthly-5) | 2022-12-05 |
+| [osu!monthly, December 2022](https://osu.ppy.sh/home/news/2023-01-06-osumonthly-6) | 2023-01-06 |
