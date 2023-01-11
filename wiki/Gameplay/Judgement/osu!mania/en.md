@@ -8,7 +8,7 @@ These are commonly referred to by their score value (except for misses), i.e. a 
 
 | Image | Name | [Hit value](/wiki/Gameplay/Score/ScoreV1/osu!mania) | [Accuracy](/wiki/Gameplay/Accuracy#osu!mania) | Max hit error (ms) |
 | :-: | :-: | --: | --: | :-- |
-| ![](/wiki/shared/judgement/osu!mania/mania-hit300g.gif) | PERFECT | 320 | 100% | `22.4 - 0.6 * OD` if OD <= 5, and `24.9 - 1.1 * OD` if OD >=5 |
+| ![](/wiki/shared/judgement/osu!mania/mania-hit300g.gif) | PERFECT | 320 | 100% | `16` |
 | ![](/wiki/shared/judgement/osu!mania/mania-hit300.png) | GREAT | 300 | 100% | `64 - 3 * OD` |
 | ![](/wiki/shared/judgement/osu!mania/mania-hit200.png) | GOOD | 200 | 66.67% | `97 - 3 * OD` |
 | ![](/wiki/shared/judgement/osu!mania/mania-hit100.png) | OK | 100 | 33.33% | `127 - 3 * OD` |
@@ -17,31 +17,50 @@ These are commonly referred to by their score value (except for misses), i.e. a 
 
 The hit window depends on the beatmap's [overall difficulty (OD)](/wiki/Beatmap/Overall_difficulty). A hit is then considered inside a hit window if `hit error <= max hit error`, meaning the value listed is half of the hit window width.
 
-The hit error and max hit error values are rounded to the nearest integer, meaning the window is effectively 0.5 ms longer on both sides than what the formulas suggest.
+The hit error is rounded and the max hit error values are truncated to the nearest integer, meaning the windows may be up to 0.5 ms longer or shorter on both sides than what the formulas suggest.
+
+Beatmaps converted from the osu! mode (a.k.a. *converts*) use different hit windows:
+
+| Name | Max hit error (ms) |
+| :-: | :-- |
+| PERFECT | 16 |
+| GREAT | 34 if OD > 4, otherwise 47 |
+| GOOD | 67 if OD > 4, otherwise 77 |
+| OK | 97 |
+| MEH | 121 |
+| MISS | 158 |
+
+Rate-changing mods ([Double Time](/wiki/Gameplay/Game_modifier/Double_Time), [Half Time](/wiki/Gameplay/Game_modifier/Half_Time) and [Nightcore](/wiki/Gameplay/Game_modifier/Nightcore)) do not affect hit window durations in osu!mania.
 
 ## Judgement mechanics
 
 ### Notes
 
-A note is judged with a PERFECT, GREAT, GOOD, OK, MEH, or MISS depending on how accurately it is hit. Hitting a note before the MISS window has no effect, and not hitting a note will cause a MISS after the MEH window passes.
+A note is judged with a PERFECT, GREAT, GOOD, OK, MEH, or MISS depending on how accurately it is hit. Hitting a note before the MISS window has no effect, and not hitting a note will cause a miss after the OK window passes (late MEH hits are impossible).
 
 ### Hold notes
 
-Hold notes are given one judgement depending on the timing of both the keypress at the head and the release at the tail, according to the following table:
+Hold notes are given one judgement depending on the timing of both the keypress at the head and the release at the tail, according to the following table, where the *combined hit error* is *head hit error* + *tail release error* (both being positive):
 
-|  |  |  |  |  |  |  |  |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Head/Tail | **PERFECT** | **GREAT** | **GOOD** | **OK** | **MEH** | **MISS** | **Hold** |
-| **PERFECT** | PERFECT | GREAT | GREAT | GREAT | GOOD | MISS | GOOD |
-| **GREAT** | GREAT | GREAT | GOOD | GOOD | GOOD | MISS | GOOD |
-| **GOOD** | GOOD | GOOD | GOOD | OK | OK | MISS | OK |
-| **OK** | OK | OK | OK | OK | MEH | MISS | MEH |
-| **MEH** | MEH | MEH | MEH | MEH | MEH | MISS | MEH |
-| **MISS** | MISS | MISS | MISS | MISS | MISS | MISS | MEH |
+| Judgement | Requirement |
+| :-: | :-- |
+| PERFECT | head hit error <= max error for PERFECT \* 1.2 **AND** combined hit error <= max error for PERFECT \* 2.4 |
+| GREAT | head hit error <= max error for GREAT \* 1.1 **AND** combined hit error <= max error for GREAT  \* 2.2 |
+| GOOD | head hit error <= max error for GOOD **AND** combined hit error <= max error for GOOD  \* 2 |
+| OK | head hit error <= max error for OK **AND** combined hit error <= max error for OK  \* 2 |
+| MEH | Anything else that is not a miss |
+| MISS | Not having the key pressed from the tail's early MEH window start to late OK window end |
 
-Where:
+Releasing the key during the hold note body will prevent judgements higher than MEH.
 
-- "MISS" means not pressing the key during the MEH window. The actual MISS window is irrelevant for hold notes.
-- "Hold" means having the key held down during the MEH window of the hold note tail.
+Late MEH hits or releases are impossible and result in a miss instead.
 
-Releasing the key during the hold note body causes the head judgement to be discarded and treated as a miss, breaking combo. Continuing to hold the key to the hold note tail will therefore always give a MEH.
+## ScoreV2
+
+The [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) mod changes a few things about osu!mania judgement mechanics:
+
+- The PERFECT hit window is changed to `22.4 - 0.6 * OD` if OD <= 5, and `24.9 - 1.1 * OD` if OD >=5.
+- Hold notes receive two seperate judgements at the head and tail, as if they were regular notes.
+  - Hold note tail release windows become 1.5x longer.
+  - Releasing the key during the hold note body prevent tail judgements higher than MEH.
+  - Again, late MEH hits or releases result in misses instead.
