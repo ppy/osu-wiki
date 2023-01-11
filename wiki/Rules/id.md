@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Peraturan
 
 Berikut merupakan berbagai peraturan yang kami terapkan sebagai pedoman dasar kami dalam mewujudkan komunitas osu! yang ramah dan terbuka bagi semua kalangan.
