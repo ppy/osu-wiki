@@ -4,22 +4,22 @@ tags:
   - timestamps
 ---
 
-# Timestamp
+# タイムスタンプ
 
-**Timestamps** are used in [modding](/wiki/Modding) to refer to times or [hit objects](/wiki/Hit_object) of a [beatmap](/wiki/Beatmap). When posted on [beatmap discussions](/wiki/Beatmap_discussion), they create special links that can be used to easily jump to that point in the [editor](/wiki/Client/Beatmap_editor).
+**タイムスタンプ** は[Modding](/wiki/Modding)の際にその時間や[ビートマップ](/wiki/Beatmap)上の[ヒットオブジェクト](/wiki/Hit_object)のことを示します。[ビートマップディスカッション](/wiki/Beatmap_discussion)の投稿につけると、そのリンクにクリックするだけで[エディター](/wiki/Client/Beatmap_editor)で簡単に指定した時間に飛べるというものです。
 
-Copying (`Ctrl` + `C`) a selection of hit objects in the editor will put a timestamp on the clipboard. The time in the bottom-left can also be clicked on and copied.
+エディターでヒットオブジェクトを選択してコピー(`Ctrl` + `C`)または左下の時間をクリックするとタイムスタンプがクリップボードに保存されます。
 
-## Format
+## フォーマット
 
-Timestamp syntax: `minutes:seconds:milliseconds (combo numbers)`\
-Link syntax: `osu://edit/timestamp`
+タイムスタンプ: `分:秒:ミリ秒 (コンボ数)`\
+リンク: `osu://edit/タイムスタンプ`
 
-`minutes` and `seconds` are padded to 2 digits, and `milliseconds` is padded to 3. `combo numbers` are optional and separated by commas.
+`分` と`秒` は2桁で、`ミリ秒` は3桁、 そして`コンボ数` はカンマで区切られて書かれています。
 
-### Example
+### 例
 
-For a reference to objects 5 and 6 at 12 seconds and 34 milliseconds into a map:
+マップ上の12.34にある5と6を示すとき:
 
-Timestamp: `00:12:034 (5,6)`\
-Link: `osu://edit/00:12:034 (5,6)`
+タイムスタンプ: `00:12:034 (5,6)`\
+リンク: `osu://edit/00:12:034 (5,6)`
