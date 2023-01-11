@@ -30,7 +30,7 @@ Beatmaps converted from the osu! mode (a.k.a. *converts*) use different hit wind
 | MEH | 121 |
 | MISS | 158 |
 
-Rate-changing mods ([Double Time](/wiki/Gameplay/Game_modifier/Double_Time), [Half Time](/wiki/Gameplay/Game_modifier/Half_Time) and [Nightcore](/wiki/Gameplay/Game_modifier/Nightcore)) do not affect hit window durations in osu!mania.
+Rate-changing mods ([Double Time](/wiki/Gameplay/Game_modifier/Double_Time), [Half Time](/wiki/Gameplay/Game_modifier/Half_Time), and [Nightcore](/wiki/Gameplay/Game_modifier/Nightcore)) do not affect hit window durations in osu!mania.
 
 ## Judgement mechanics
 
@@ -44,10 +44,10 @@ Hold notes are given one judgement depending on the timing of both the keypress 
 
 | Judgement | Requirement |
 | :-: | :-- |
-| PERFECT | head hit error <= max error for PERFECT \* 1.2 **AND** combined hit error <= max error for PERFECT \* 2.4 |
-| GREAT | head hit error <= max error for GREAT \* 1.1 **AND** combined hit error <= max error for GREAT  \* 2.2 |
-| GOOD | head hit error <= max error for GOOD **AND** combined hit error <= max error for GOOD  \* 2 |
-| OK | head hit error <= max error for OK **AND** combined hit error <= max error for OK  \* 2 |
+| PERFECT | Head hit error <= max error for PERFECT \* 1.2 **AND** combined hit error <= max error for PERFECT \* 2.4 |
+| GREAT | Head hit error <= max error for GREAT \* 1.1 **AND** combined hit error <= max error for GREAT  \* 2.2 |
+| GOOD | Head hit error <= max error for GOOD **AND** combined hit error <= max error for GOOD  \* 2 |
+| OK | Head hit error <= max error for OK **AND** combined hit error <= max error for OK  \* 2 |
 | MEH | Anything else that is not a miss |
 | MISS | Not having the key pressed from the tail's early MEH window start to late OK window end |
 
@@ -62,5 +62,5 @@ The [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) mod changes a few things abo
 - The PERFECT hit window is changed to `22.4 - 0.6 * OD` if OD <= 5, and `24.9 - 1.1 * OD` if OD >=5.
 - Hold notes receive two seperate judgements at the head and tail, as if they were regular notes.
   - Hold note tail release windows become 1.5x longer.
-  - Releasing the key during the hold note body prevent tail judgements higher than MEH.
+  - Releasing the key during the hold note body prevents tail judgements higher than MEH.
   - Again, late MEH hits or releases result in misses instead.
