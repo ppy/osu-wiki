@@ -33,15 +33,15 @@ osu!taikoとは日本のリズムゲーム[太鼓の達人]([https://en.wikipedi
 
 osu!taikoでは時間経過によって体力は減らず、ヒットオブジェクトのみが体力ゲージに作用します。 休憩地帯でコンボが減ることはありません。osu!と違い、50コンボ毎にCombo Milestonという特定の動きをします。ヒット毎の追加点は100コンボまで10コンボ毎に増え、コンボが切れると最初の追加点に戻ります。*キアイタイム*　中はすべての追加点が20%増えます。獲得した点数は画面右上の赤い字で示されます。
 
-#### ノーツ
+#### 音符
 
 ![Taiko hit circles](/wiki/shared/Taiko_hitcircles.jpg "osu!taikoヒットサークル")
 
-流れてくるノーツは赤か水色であり、それぞれドンとカッと呼ばれます。
+主な流れてくる音符は赤か水色であり、それぞれドンとカッと呼ばれます。
 
-小さい赤ノーツは太鼓内側のキー(デフォルトは'X'と'C')を一つ押すか*タタコン*の中心部を叩きます。小さい青ノーツは太鼓外側のキー(デフォルトは'Z'と'V')を一つ押すか*タタコン*の外側を叩きます。 **大きい**ノーツはその色のキーをどちらも押すことにより通常のノーツの倍の点数が加算されます。
+小さい赤い音符は太鼓内側のキー(デフォルトは'X'と'C')を一つ押すか*タタコン*の中心部を叩きます。小さい青い音符は太鼓外側のキー(デフォルトは'Z'と'V')を一つ押すか*タタコン*の外側を叩きます。 **大きい**音符はその色のキーをどちらも押すことにより通常の音符の倍の点数が加算されます。
 
-判定枠の丸の中にノーツが収まるときに打つと点数がもらえ、間違った色や両色の同時押しはミスとして認識します。
+判定枠の丸の中に音符が収まるときに打つと点数がもらえ、間違った色や両色の同時押しはミスとして認識します。
 
 #### 連打
 
@@ -56,9 +56,9 @@ rather than drumrolling as fast as possible as in *Taiko no Tatsujin*.
 Drumrolls can be ignored with no health penalty, as it does not recover the health bar at all.
 However, it will cost possible points gained from the drumroll. Each successful hit on the tiny hit circle gives a static 300 score.
 
-#### Dendens/Shaker
+#### デンデン太鼓/シェーカー
 
-![Taiko spinner](/wiki/shared/Taiko_spinner.jpg "osu!taiko spinner (denden)")
+![Taiko spinner](/wiki/shared/Taiko_spinner.jpg "osu!taikoスピナー(デンデン)")
 
 Hit the inner and outer drum **in order** (like red, blue, red, blue, red, blue, ...) until the denden counter reached 0. Starting colour does not matter (allowed to start with blue if desired), and failing to complete it will incur miss health penalty but no combo break. Hitting the same colour will not decrement the denden counter, until a different colour is hit instead.
 
