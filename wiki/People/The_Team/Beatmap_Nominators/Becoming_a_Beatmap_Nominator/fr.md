@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 5bea05821dbae22d79f17499302a8e819767f31c
----
-
 # Devenir un Beatmap Nominator
 
 Les utilisateurs souhaitant rejoindre les [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) doivent passer par un processus de candidature supervisé par la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (NAT).
@@ -55,7 +50,7 @@ Vous avez ces conditions si vous avez échoué à une demande pour rejoindre les
 
 ### Réintégration après avoir été retiré des Beatmap Nominators
 
-Les utilisateurs qui ont récemment quitté les Beatmap Nominators peuvent avoir des exigences différentes pour se réinscrire par rapport à leur première adhésion. Pour les utilisateurs qui ont eu de bons résultats avant leur départ, il est possible qu'ils puissent se réinscrire avec des exigences plus souples. Le NAT informera l'utilisateur s'il a la possibilité d'accélérer son retour dans les Beatmap Nominators.
+Les utilisateurs qui ont récemment quitté les Beatmap Nominators peuvent avoir des exigences différentes pour se réinscrire par rapport à leur première adhésion. Pour les utilisateurs qui ont eu de bons résultats avant leur départ, il est possible qu'ils puissent se réinscrire avec des exigences plus souples, voir pas d'exigences du tout. Le NAT informera l'utilisateur s'il a la possibilité d'accélérer son retour dans les Beatmap Nominators.
 
 Si vous étiez auparavant un Beatmap Nominator, ces exigences s'appliquent à moins que vous n'ayez échoué une demande depuis la dernière fois que vous étiez un Beatmap Nominator.
 
@@ -67,4 +62,6 @@ L'exigence de 8 mods pour ceux qui postulent après avoir été retirés suite �
 | Activité | 30 jours | 8 mods en 60 jours |
 | Bon | 30 jours | *N/A* |
 
-Les anciens Beatmap Nominators qui ont démissionné en bons termes au cours de l'année écoulée deviennent membres à part entière dès leur réadmission.
+Les anciens Beatmap Nominators qui ont démissionné en bons termes au cours des 6 derniers mois ont la possibilité de demander instantanément à être réintégrés en tant que membres à part entière, sans avoir à passer le [Beatmap Nominator Test](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test), ni à fournir de mods pour l'évaluation.
+
+Les anciens Beatmap Nominators qui ont démissionné en bons termes au cours de l'année écoulée doivent quand même faire une nouvelle demande en bonne et due forme afin de se réinscrire, et deviendront membres à part entière dès qu'ils seront acceptés.
