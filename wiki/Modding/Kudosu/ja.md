@@ -4,7 +4,7 @@ stub: true
 
 # Kudosu
 
-**Kudosu(クドス)**は[MOD](/wiki/Modding)の貢献度を示すポイントのことです。[ビートマップディスカッション](/wiki/Beatmap_discussion)で正しくMODをした際に貰え、合計ポイントはプロフィール内で確認できます。
+**Kudosu(クドス)** は[MOD](/wiki/Modding)の貢献度を示すポイントのことです。[ビートマップディスカッション](/wiki/Beatmap_discussion)で正しくMODをした際に貰え、合計ポイントはプロフィール内で確認できます。
 
 Kudosuはビートマップに対して助言になる、または的確な指摘をした投稿に対してマッパーは投稿上部にあるグッドボタンを押すことによりmodderへkudosuを与えることができます。
 
@@ -12,4 +12,4 @@ Kudosuはビートマップに対して助言になる、または的確な指�
 
 現在、kudosuは[ビートマップノミネーター](/wiki/People/The_Team/Beatmap_Nominators/Becoming_a_Beatmap_Nominator)に[なる](/wiki/People/The_Team/Beatmap_Nominators)ための基準に使われており、ユーザーはosu!で200票、またはosu!taiko、osu!catch、osu!maniaのどれか一つで150票持っているとそのモードのノミネーターになる条件を一つ満たすことができます。
 
-時折り出てくる*kudosu!(クドス!)*は*kudos*と*osu!*をまとめた[かばん語(混声語)](https://ja.wikipedia.org/wiki/%E3%81%8B%E3%81%B0%E3%82%93%E8%AA%9E)です。
+時折り出てくる*kudosu!(クドス!)* は*kudosu* と*osu!* をまとめた[かばん語(混声語)](https://ja.wikipedia.org/wiki/%E3%81%8B%E3%81%B0%E3%82%93%E8%AA%9E)です。
