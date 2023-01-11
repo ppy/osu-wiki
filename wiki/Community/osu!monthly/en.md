@@ -8,7 +8,7 @@ osu!monthly is a community effort project with people within it contributing to 
 
 To start, join the [osu!dev Discord server](/wiki/Community/osu!dev_Discord_server) and verify yourself with the intention to help with the progress of osu!monthly. After you get verified, head over to the #osu-news channel (in the `COMMUNITY` category) and start discussing your idea with the team!
 
-It is also possible to reach out to 0x84f#0001 in Discord, the lead of the project, , but is not to be preferred.
+It is also possible to reach out to 0x84f#0001 in Discord, the lead of the project, but is not to be preferred.
 
 ## History and Archives
 
