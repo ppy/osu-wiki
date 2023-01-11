@@ -2,6 +2,7 @@
 tags:
   - game client
   - klien permainan
+no_native_review: true
 ---
 
 # Beralih ke lazer
