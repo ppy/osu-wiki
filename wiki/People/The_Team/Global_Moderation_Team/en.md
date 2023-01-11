@@ -74,7 +74,6 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109) | Portuguese, Japanese | Chat moderation |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) |  | Player support, wiki administration |
 | ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | Indonesian | Mapping/modding community moderation |
-| ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Chinese | Mapping/modding community moderation |
 | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) | Polish | Chat moderation |
 | ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Chinese | Mapping/modding community moderation |
 | ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | Mapping/modding community moderation |
