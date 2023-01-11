@@ -25,7 +25,7 @@ If you haven't heard **Euchaeta**'s sound yet, that's about to change. Witness [
 Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/1858201) hosted by [Niva](https://osu.ppy.sh/users/197805)!
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/333/Songs/Euchaeta%20-%20A%20Songwriter's%20Cosmos.mp3%22 type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/333/Songs/Euchaeta%20-%20A%20Songwriter's%20Cosmos.mp3" type="audio/mpeg">
 </audio>
 
 ### Euchaeta - Spirit Away
