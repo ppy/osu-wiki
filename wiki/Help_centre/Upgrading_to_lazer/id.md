@@ -6,7 +6,9 @@ tags:
 
 # Beralih ke lazer
 
-osu!(lazer) merupakan versi rilis utama osu! yang akan datang. Versi ini merupakan hasil jerih payah  tim kami selama bertahun-tahun untuk meremajakan ulang osu! yang selama ini kita kenal.
+*Catatan: Kami masih menyeimbangkan berbagai aspek permainan yang ada. Oleh karenanya, **skor yang tercatat pada lazer saat ini masih belum bersifat permanen**.*
+
+osu!(lazer) merupakan versi rilis utama osu! yang akan datang. Versi ini merupakan hasil jerih payah tim kami selama bertahun-tahun untuk meremajakan ulang osu! yang selama ini kita kenal.
 
 Pada saatnya nanti, apabila semuanya telah siap, osu!(lazer) akan dirilis sebagai pembaruan khusus yang menggantikan versi osu! yang saat ini digunakan. Pembaruan ini hanya akan diluncurkan apabila waktunya dirasa telah tepat oleh **para pemain**, dan versi osu! sebelumnya akan tetap didukung hingga sebagian besar pemain telah beralih ke osu!(lazer).
 
