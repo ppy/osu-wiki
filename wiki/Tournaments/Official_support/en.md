@@ -9,7 +9,7 @@ tags:
 
 The [osu! team](/wiki/People/The_Team) runs a program where they may opt to provide community-run tournaments that abide by a certain set of criteria and expectations with extra support, at their discretion.
 
-This article was last updated on January 8, 2023. For any queries and clarifications, please consult the `#tournaments` channel on the [osu!dev Discord server](https://discord.com/invite/ppy) or send an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+This article was last updated on January 13, 2023. For any queries and clarifications, please consult the `#tournaments` channel on the [osu!dev Discord server](https://discord.com/invite/ppy) or send an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Benefits
 
@@ -188,7 +188,7 @@ We have historically had issues where unscrupulous organisers have geared tourna
 
 ### Can a player who has been eliminated from play in my tournament join the staff after the fact and not cause problems? {#player-join-staff}
 
-Yes. Players who have been eliminated from a tournament may be enlisted as staff to assist in any non-managerial position (referees, mappool selectors, mappool playtesters, custom mappers, judges, etc.) This list is not exhaustive. If you have any doubts about any role not noted here, please contact [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+Yes. Players who have been eliminated from a tournament may be enlisted as staff to assist in any non-organizational position (Organizers, admins..) This list is not exhaustive. If you have any doubts about any role not noted here, please contact [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ### If a user has not yet played any matches, can they join the staff? {#no-play-join-staff}
 
