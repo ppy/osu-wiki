@@ -71,7 +71,6 @@ tags:
 | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109) | ポルトガル語、日本語 | チャットモデレーション |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) |  | プレーヤーサポート、wiki管理者 |
 | ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | インドネシア語 | Mapping/modding コミュニティ モデレーション |
-| ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | 中国語 | Mapping/modding コミュニティ モデレーション |
 | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) | ポーランド語 | チャットモデレーション |
 | ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | 中国語 | Mapping/modding コミュニティ モデレーション |
 | ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | Mapping/modding コミュニティ モデレーション |
