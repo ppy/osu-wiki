@@ -39,102 +39,100 @@ osu!taikoでは時間経過によって体力は減らず、ヒットオブジ�
 
 主な流れてくる音符は赤か水色であり、それぞれドンとカッと呼ばれます。
 
-小さい赤い音符は太鼓内側のキーを一つ押すか*タタコン*の中心部を叩きます。小さい青い音符は太鼓外側のキーを一つ押すか*タタコン*の外側を叩きます。 **大きい**音符はその色のキーをどちらも押すことにより通常の音符の倍の点数が加算されます。
+小さい赤い音符は太鼓内側のキーを一つ押すか*タタコン*の中心部を叩きます。小さい青い音符は太鼓外側のキーを一つ押すか*タタコン*の外側を叩きます。 **大きい**音符はその色のキーをどちらも押すことにより通常の音符の倍のスコアが加算されます。
 
-判定枠の丸の中に音符が収まるときに打つと点数がもらえ、間違った色や両色の同時押しはミスとして認識します。
+判定枠の丸の中に音符が収まるときに打つとスコアがもらえ、間違った色や二色の同時押しはミスとして認識します。
 
 #### 連打
 
 ![Taiko drumroll](/wiki/shared/Taiko_drumroll.jpg "osu!taiko連打")
 
-太鼓の面または縁をタイミングよく連続して打つと得点が加算されます。**大きい**連打の場合は両方のキーを同時に連続して打つと得点が加算されます。とにかく連打すればいい*太鼓の達人*と違って中にある点の位置で叩かないと点は入りません。
+太鼓の面または縁をタイミングよく連続して打つとスコアが加算されます。**大きい**連打の場合は両方のキーを同時に連続して打つとスコアが加算されます。とにかく連打すればいい*太鼓の達人*と違って中にある点の位置で叩かないと点は入りません。
 
-連打は別にしなくても体力ゲージは減りません。しかし1回叩くごとに300点が加算されるので点数を増やしたいのなら叩いたほうがよいでしょう。
+連打は別にしなくても体力ゲージは減りません。しかし1回叩くごとに300点が加算されるのでスコアを増やしたいのなら叩いたほうがよいでしょう。
 
 #### デンデン太鼓/シェーカー
 
 ![Taiko spinner](/wiki/shared/Taiko_spinner.jpg "osu!taikoスピナー(デンデン)")
 
-!Flag!
+太鼓の面と縁をカウンターが0になるまで**交互に**打つ。始める色はどちらでもよくカウンターが0にならなかった場合コンボは切れないが体力ゲージは減ります。違う色が叩かれるまでカウンターは減らず、同じ色を連続で叩いてもペナルティはない。
 
-Hit the inner and outer drum **in order** (like red, blue, red, blue, red, blue, ...) until the denden counter reached 0. Starting colour does not matter (allowed to start with blue if desired), and failing to complete it will incur miss health penalty but no combo break. Hitting the same colour will not decrement the denden counter, until a different colour is hit instead.
-
-It does not increment the combo counter, and does not recover the health bar in any way. Each successful denden hit only gives a static 300 score, and denden completion will give a perfect(GREAT) large note score.
+コンボには加算されず、叩ききっても体力ゲージは増加しません。一打につき300点が加算され、叩ききると大音符一つと同じ点数が加算される。
 
 ## プレイスタイル
 
-*Refer to [Play Styles page under osu!taiko](/wiki/Play_style).*
+*[osu!taikoのプレイスタイル](/wiki/Play_style)を参照してください。*
 
-## Controls
+## 操作
 
-The default controls for osu!taiko are:
+osu!taikoのデフォルト操作:
 
-| Type | Mouse | Keyboard | TaTaCon |
+| タイプ | マウス | キーボード | タタコン |
 | :-- | :-- | :-- | :-- |
-| Red | Left click(L) | `X`(L) / `C`(R) | Flat surface of the drum |
-| Blue | Right click(L) | `Z`(L) / `V`(R) | Outer surface of the drum |
+| 赤 | 左クリック(左) | `X`(左) / `C`(右) | 面 |
+| 青 | 右クリック(左) | `Z`(左) / `V`(右) | 縁 |
 
-The placement of in-game cursor does not matter when playing.
+カーソル位置は関係ありません。
 
-If [Relax](/wiki/Game_modifier/Relax) mod was used, the score judgement only account for hit timing only (automatically rectify wrong colour hit with correct colour).
+[Relax](/wiki/Game_modifier/Relax)が有効の時、叩くタイミングのみ補正がかかります。
 
-*TaTaCon* drum controller were primarily made for the home ports of *Taiko no Tatsujin* and *Taiko: Drum Master*.
+*タタコン*とは*太鼓の達人*用に作られた太鼓型のコントローラーのことである。
 
-## Scoring
+## スコア
 
-[Score in osu!taiko](/wiki/Gameplay/Score/osu!taiko) is a weighted sum of multiple components of gameplay. It depends on the following:
+[osu!taikoのスコア](/wiki/Gameplay/Score/osu!taiko)は演奏中のスコアの合計です。 次に従ってスコアは作られます:
 
-- [Judgement](/wiki/Gameplay/Judgement/osu!taiko) determines a hit object's base scoring value (300, 100, or 0 in case of a miss). The value of regular and large notes depends on hit timing, while every other object's base value is constant.
-- [Accuracy](/wiki/Gameplay/Accuracy#osu!taiko) depends on judgement and shows how precise hits are. Late or early key presses, as well as misses, decrease overall accuracy.
-- [Combo](/wiki/Gameplay/Combo_(score_multiplier)) is a score multiplier: clearing a hit object contributes more to the total score when combo is high and vice versa. Combo may be [broken](/wiki/Gameplay/Judgement/Combobreak) by a miss. In osu!taiko, the score multiplier derived from combo is limited and doesn't affect total score as much as it does in osu! or osu!catch.
-- [Kiai time](/wiki/Gameplay/Kiai_time): in osu!taiko, active kiai time increases score gain by 20%, just as it does in the original *Taiko no Tatsujin* series.
+- [判定](/wiki/Gameplay/Judgement/osu!taiko)によって叩いたときの基本スコアは変化します(300、100、0)。 単音符(小音符と大音符)のスコアは叩いたタイミングによって決まり、他の音符のスコアは一定です。
+- [正確性](/wiki/Gameplay/Accuracy#osu!taiko)は叩いた精度を表し、判定枠より遅かったり早かったりミスをしたりすると減ります。
+- [コンボ](/wiki/Gameplay/Combo_(score_multiplier))は多いと追加できるスコアの量が増え、少ないと減ります。コンボはミスすることにより[ブレイク](/wiki/Gameplay/Judgement/Combobreak)します。osu!taikoはコンボによるスコア上昇が制限されているのでosu!やosu!catchに比べて合計スコアがそんなに大きくなりません。
+- [キアイタイム](/wiki/Gameplay/Kiai_time):　osu!taikoではキアイ中*太鼓の達人*と同じように加算するスコアが20%増えます。
 
-In addition to giving score, each cleared object fills a small part of the [health bar](/wiki/Client/Interface/Health_bar), which must be at least **50% full** for a player to pass a beatmap.
+スコアとは別に、[体力ゲージ](/wiki/Client/Interface/Health_bar)は音符を叩くことによって増え、**ゲージ全体の50%**が埋まってないとクリアできません。
 
-After completing a beatmap, the score is assigned a [grade](/wiki/Gameplay/Grade#osu!taiko), a short accuracy assessment in the form of a single letter. A golden or silver SS denotes 100% accuracy, and everything else, from S to D, depends on the amount of 300s, 100s, and misses.
+クリア後、スコアは[ランク](/wiki/Gameplay/Grade#osu!taiko)に割り当てられます。金色と銀色のSSは100%を表し、SからDまでは300, 100, 50, ミスの数(精度)に依存します。
 
-## Skinning
+## スキン
 
-*Refer to [Skinning page of osu!taiko](/wiki/Skinning/osu!taiko) for full information.*
+*詳細は[osu!taikoのスキニング](/wiki/Skinning/osu!taiko)を参照してください。*
 
-## osu!taiko Mapping
+## osu!taikoマップ作成
 
-- The red notes refer to normal hit circle,
-  - large red notes needs a finish hitsound.
-- The blue notes needs to have a whistle/clap hitsound on that hit circle,
-  - large blue notes need both finish and whistle together.
-- The sliders represents the long yellow note (also known as drumroll)
-- The spinner represents a shaker.
+- 赤い音符を配置するときは何のオプションもつけていない状態でサークルを置いてください。
+  - 大きいものにはフィニッシュをつけます。
+- 青い音符にはクラップまたはウィッスルをつけます。
+  - 大きいものにはフィニッシュとクラップまたはウィッスルをつけます。
+- スライダーは黄色い音符を表します(連打音符)。
+- スピナーはシェイカー音符を表します。
 
-Design placement of the notes does not matter.
+下画面で置いた位置はゲーム自体と何の関係もありません。
 
-### osu! conversion notes
+### osu!を変換したときのメモ
 
-When a map conversion happens (playing an osu! map in osu!taiko mode), very short sliders (usually less than a beat) are automatically converted to red or blue notes, depending on the hitsound used.
+マップを変換したとき(osu!のビートマップをosu!taikoモードでやるとき)、短いスライダーはその音によって赤か青の小音符に変換されます。
 
-For maps with 125BPM or lower, 1/8 drumrolls are given instead of 1/4 drumrolls.
+BPMが125より遅いマップでは1/4の代わりに1/8が置かれます。
 
-Do note that 1/8 rhythms are not often used in music. It is not suggested to place slider when in 1/8 rhythm.
+通常1/8はあまり曲には使われておらず、スライダーを1/8で置くことはあまり良くないでしょう。
 
-Also note that 1/6 drumrolls are given if the slider tick rate of **3** was used.
+スライダーのティックレートが**3**のときは1/6が使われます。
 
-## Trivia
+## トリビア
 
-### Gameplay
+### ゲーム
 
-- Playing on an empty playfield does not incur any miss.
-- Drumroll: The upper limit on number of hits on the slider is:
-  - 4 times of the length of slider, or
-  - 8 times of the length of the slider in songs that is equal or lower than 125BPM.
-- Unlike the other game modes, *Kiai Time* has an effect on scores because it refers to the *"Go-Go Time"* in *Taiko no Tatsujin*. While *Kiai Time* is active, the drum in the upper-left changes animation (named *pippidon* or *Don*/*Katsu* in *Taiko no Tatsujin*), the playfield has a background gradient and the hit area gains a fire graphic around it.
-  - Additionally, all hit notes gain a 1.2x score multiplier, long yellow notes included, except for hits on a shaker (the final hit is still multiplied).
-- Mascot for osu!taiko is [pippidon](/wiki/Mascots#pippi).
-- When played by [Auto](/wiki/Game_modifier/Auto), the player name will be *mekkadosu!*.
+- 何も音符が置かれていないところで叩いてもミスと判断されません。
+- 連打: スライダー内に置かれる点の間隔は:
+  - 1小節を四等分した長さ
+  - BPM125以下の場合は八等分した長さ
+- 他のモードと違い*キアイ*中にスコアが変動するのは*太鼓の達人*の*ゴーゴタイム*から来ています。 *キアイ*中、左上にいる太鼓のキャラクター(*ピッピドン*もしくは*太鼓の達人*の*どんちゃん*/*カッちゃん*)が変化し、プレイ画面の背景にグラデーションが付き判定枠の周りに炎ができます。
+  - そして、シェイカー以外の(シェイカーの最後のヒットは例外)すべての音符を叩いた際の追加スコアは1.2倍になります。
+- osu!taikoのマスコットの名前は[ピッピドン](/wiki/Mascots#pippi)です。
+- [オート](/wiki/Game_modifier/Auto)中のプレイヤーの名前は*mekkadosu!(メカドス!)*
 
-### History
+### 歴史
 
 ![osu!taiko logo in the Special Modes](img/Taiko_logo.jpg "スペシャルモードでのロゴ")
 
-- The `Use Taiko skin for Taiko mode` in Options sidebar under Skin section will use the `taiko` folder's skin elements when playing in osu!taiko, regardless of current skin's taiko elements. The folder used to hold *[Taiko by LuiginHann](https://osu.ppy.sh/community/forums/topics/41319)* skin, which could be downloaded from the now-deprecated `osume.exe` (an osu! updater when osu! need to update) under `Skin` tab.
-- The first ranked beatmap which contains at least one osu!taiko difficulty is [Taiko no Tatsujin - Saitama2000 (Kharl)](https://osu.ppy.sh/beatmapsets/210)
-- The first ranked osu!taiko-only beatmap is [Mutsuhiko Izumi - Red Goose (lepidopodus)](https://osu.ppy.sh/beatmapsets/55920)
+- 設定内のスキンタブの中にある`太鼓プレイ時は太鼓専用のスキンを使用`オプションを有効にするとosu!taiko中のスキンを`taiko`ファイル内のものにします。このフォルダにはかつて`osume.exe`(旧osu!アップデーター)の`Skin`タブからダウンロードできた*[LuiginHann氏のTaiko](https://osu.ppy.sh/community/forums/topics/41319)*スキンが入っていました。
+- 最初のosu!taikoマップを含んだビートマップは[Taiko no Tatsujin - Saitama2000 (Kharl)](https://osu.ppy.sh/beatmapsets/210)というマップ
+- 最初のosu!taikoマップのみのビートマップは[Mutsuhiko Izumi - Red Goose (lepidopodus)](https://osu.ppy.sh/beatmapsets/55920)というマップ
