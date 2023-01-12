@@ -1,12 +1,14 @@
 # osu!monthly Team
 
-The contributors of [osu!monthly](/wiki/Community/osu!monthly) are often motivated and active players in the community, keeping track of what is going on each month to allow the project to live and perpetuate as the iterations go on.
+The **osu!monthly Team** manages the [osu!monthly](/wiki/Community/osu!monthly) newsletter.
+
+The contributors of [osu!monthly](/wiki/Community/osu!monthly) are active players in the community, keeping track of what is going on each month and curating the content to be included in each issue.
 
 ## Team members
 
 ### Main contributors
 
-The people listed below are the core of the osu!monthly Team and participate every month in the production of the newspost, mainly by writing the articles.
+The people listed below are the core of the osu!monthly Team and participate every month in the production of the news post.
 
 | Name | Role |
 | :-- | :-- |
@@ -23,7 +25,7 @@ The people listed below are the core of the osu!monthly Team and participate eve
 
 ### Other contributors
 
-The people listed below remain vital to the osu!monthly even if they do not write, as they seek the information that constitutes it in addition to the main contributors.
+The people listed below remain vital to the osu!monthly even if they do not write for it, as they provide information in addition to the main contributors.
 
 | Name | Affiliated section |
 | :-- | :-- |
@@ -32,7 +34,7 @@ The people listed below remain vital to the osu!monthly even if they do not writ
 
 ## Notes
 
-[^task-taiko]: Mainly handles writing osu!taiko related articles
-[^task-mania]: Mainly handles writing osu!mania related articles
-[^task-catch]: Mainly handles writing osu!catch related articles
+[^task-taiko]: Mainly handles writing osu!taiko-related sections
+[^task-mania]: Mainly handles writing osu!mania-related sections
+[^task-catch]: Mainly handles writing osu!catch-related sections
 [^task-Tanza3D]: Creates the osu!monthly banners
