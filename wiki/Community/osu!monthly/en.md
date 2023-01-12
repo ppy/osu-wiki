@@ -1,14 +1,12 @@
 # osu!monthly
 
-**osu!monthly** is a community project that is currently managed by the [osu!monthly Team](/wiki/People/osu!monthly_Team), and it's goal is to create a monthly news post that summarises various community and official events, news, announcements etc. that occurred within any given month. The project has been led by several other groups of community members in the past, with the goal always being the same: inform the average player about the previous and current events in order to shed light over the entire osu! community.
+**osu!monthly** is a monthly newsletter managed by the [osu!monthly Team](/wiki/People/osu!monthly_Team), with the goal of summarising the various community and official events, news, announcements, etc. that occur every month. The project has been led by several other groups of community members in the past, with the goal always being the same: inform the average player about the previous and current events in order to shed light over the entire osu! community.
 
 ## Becoming an osu!monthly contributor
 
-osu!monthly is a community effort project with people within it contributing to its creation, therefore, anyone that wants to help and/or contribute (in ways such as writing, sharing opinions and thoughts, providing feedback) is always welcome to do so! However, only community members with consistent contributions can be considered as part of the [osu!monthly Team](/wiki/People/osu!monthly_Team).
+osu!monthly is a community effort with many people contributing to its creation. Anyone that wants to help or contribute, in ways such as writing, sharing opinions and thoughts, or providing feedback, is always welcome to do so. The [osu!monthly Team](/wiki/People/osu!monthly_Team) consists of such contributors who consistently help out with the project.
 
-To start, join the [osu!dev Discord server](/wiki/Community/osu!dev_Discord_server) and verify yourself with the intention to help with the progress of osu!monthly. After you get verified, head over to the #osu-news channel (in the `COMMUNITY` category) and start discussing your idea with the team!
-
-It is also possible to reach out to 0x84f#0001 in Discord, the lead of the project, but is not to be preferred.
+All discussion and project organisation takes place in the `#osu-news` channel of the [osu!dev Discord server](/wiki/Community/osu!dev_Discord_server).
 
 ## History and Archives
 
