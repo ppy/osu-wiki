@@ -8,15 +8,17 @@ osu!monthly is a community effort with many people contributing to its creation.
 
 All discussion and project organisation takes place in the `#osu-news` channel of the [osu!dev Discord server](/wiki/Community/osu!dev_Discord_server).
 
-## History and Archives
-
-Below is an archive of all iterations of osu!monthly as well as information on the development of osu!monthly over time.
-
-### The beginnings (2011)
+## History
 
 The original run of osu!monthly created by [jjrocks](https://osu.ppy.sh/users/30985), [Corin](https://osu.ppy.sh/users/639270), and friends ran from March 2011 to October 2011. The magazine was then released in a `.pdf` format with all the most important information about the osu! community.
 
-#### Archives
+Inspired by the first version of the osu!monthly, a new team was formed thanks to [mangomizer](https://osu.ppy.sh/users/1893718) and [clayton](https://osu.ppy.sh/users/3666350) and new iterations of the monthly could be published from October 2017 to February 2018. The format was still `.pdf` at the time, but with a more consistent and pleasing design.
+
+With a desire to once again revive this project, the [osu!monthly Team](/wiki/People/osu!monthly_Team) was formed with [0x84f](https://osu.ppy.sh/users/7944724) at the helm, and relaunched the project this time directly as news posts, and not by `.pdf`. The project is currently ongoing.
+
+## Archives
+
+### Season 1 (2011)
 
 | Name | Date of publication |
 | :-- | :-- |
@@ -29,11 +31,7 @@ The original run of osu!monthly created by [jjrocks](https://osu.ppy.sh/users/30
 
 More information can be found on the first version of the osu!monthly, check out [JJ's website](https://web.archive.org/web/20201112030400/http://jjwanda.com/projects/osumonthly.html)!
 
-### The resurection (2017-2018)
-
-Inspired by the first version of the osu!monthly, a new team was formed thanks to [mangomizer](https://osu.ppy.sh/users/1893718) and [clayton](https://osu.ppy.sh/users/3666350) and new iterations of the monthly could be published from October 2017 to February 2018. The format was still `.pdf` at the time, but with a more consistent and pleasing design.
-
-#### Archives
+### Season 2 (2017 - 2018)
 
 | Name | Date of publication |
 | :-- | :-- |
@@ -43,11 +41,7 @@ Inspired by the first version of the osu!monthly, a new team was formed thanks t
 
 More information can be found on the second version of the osu!monthly, an official [website](https://osumonthly.com/) was also created at that time to list the team and archive the productions of the osu!monthly teams, so check it out!
 
-### A new beginning (2022 - present)
-
-With a desire to once again revive this project, the [osu!monthly Team](/wiki/People/osu!monthly_Team) was formed with [0x84f](https://osu.ppy.sh/users/7944724) at the helm, and relaunched the project this time directly as news posts, and not by `.pdf`. The project is currently ongoing.
-
-#### Archives
+### Season 3 (2022 - present)
 
 | Name | Date of publication |
 | :-- | :-- |
