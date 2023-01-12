@@ -47,24 +47,21 @@ osu!taikoでは時間経過によって体力は減らず、ヒットオブジ�
 
 ![Taiko drumroll](/wiki/shared/Taiko_drumroll.jpg "osu!taiko連打")
 
-! Flag !
-Hit the inner (or outer) drum continuously for points until the end of the drumroll.
-For **LARGE** note, hit both buttons on the inner (or outer) drum simultaneously and continuously until it is done.
-Do note that drumrolls hits were hardcapped and only counted when hitting on the tiny hit circles,
-rather than drumrolling as fast as possible as in *Taiko no Tatsujin*.
+太鼓の面または縁をタイミングよく連続して打つと得点が加算されます。**大きい**連打の場合は両方のキーを同時に連続して打つと得点が加算されます。とにかく連打すればいい*太鼓の達人*と違って中にある点の位置で叩かないと点は入りません。
 
-Drumrolls can be ignored with no health penalty, as it does not recover the health bar at all.
-However, it will cost possible points gained from the drumroll. Each successful hit on the tiny hit circle gives a static 300 score.
+連打は別にしなくても体力ゲージは減りません。しかし1回叩くごとに300点が加算されるので点数を増やしたいのなら叩いたほうがよいでしょう。
 
 #### デンデン太鼓/シェーカー
 
 ![Taiko spinner](/wiki/shared/Taiko_spinner.jpg "osu!taikoスピナー(デンデン)")
 
+!Flag!
+
 Hit the inner and outer drum **in order** (like red, blue, red, blue, red, blue, ...) until the denden counter reached 0. Starting colour does not matter (allowed to start with blue if desired), and failing to complete it will incur miss health penalty but no combo break. Hitting the same colour will not decrement the denden counter, until a different colour is hit instead.
 
 It does not increment the combo counter, and does not recover the health bar in any way. Each successful denden hit only gives a static 300 score, and denden completion will give a perfect(GREAT) large note score.
 
-## Play Styles
+## プレイスタイル
 
 *Refer to [Play Styles page under osu!taiko](/wiki/Play_style).*
 
