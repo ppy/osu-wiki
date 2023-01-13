@@ -28,7 +28,7 @@
 Si bien la ramificación es técnicamente opcional, es [muy recomendable por un par de razones](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow). Por nombrar algunas:
 
 - Las ramas aíslan diferentes cambios lógicos entre sí: puede trabajar en más de un artículo y revisarlos y fusionarlos por separado.
-- Cuando sus cambios están fuera de la rama `master`, puede [sincronizarlos de forma segura](/wiki/osu!_wiki/Contribution_guide/Best_practices#sincronizando-la-bifurcación) sin conflictos de fusión.
+- Cuando sus cambios están fuera de la rama `master`, puede [sincronizarlos de forma segura](/wiki/osu!_wiki/Contribution_guide/Best_practices#sincronizar-la-bifurcación) sin conflictos de fusión.
 
 1. Haga clic en el menú desplegable `Current branch` ubicado en la parte superior del menú.
 
@@ -43,30 +43,30 @@ Si bien la ramificación es técnicamente opcional, es [muy recomendable por un 
 1. En la carpeta en la que clonó el repositorio, navegue hasta el archivo que desea editar. Los artículos están organizados por los nombres de las carpetas que son los nombres de los artículos y los archivos `.md` que son las traducciones.
 2. Una vez que encuentre el archivo correcto, ábralo con su editor de texto favorito.
 3. Ahora puede hacer sus cambios. Tómese un momento para pasar también por la [autocomprobación](/wiki/osu!_wiki/Contribution_guide#autocomprobación).
-4. Continua a [Creando commits y enviando](#creando-commits-y-enviando).
+4. Continua a [Creando commits y enviando](#crear-commits-y-envio).
 
 ### Mover archivos existentes
 
 1. Use el Explorador de Windows para mover archivos.
-2. Continua a [Creando commits y enviando](#creando-commits-y-enviando).
+2. Continua a [Creando commits y enviando](#crear-commits-y-envio).
 
 ### Crear nuevos archivos
 
 *Precaución: si va a crear archivos de artículos con el Explorador de Windows, asegúrese de que la opción `Extensiones de nombre de archivo` esté habilitada.* Véase [Extensiones de nombre de archivo comunes en Windows](https://support.microsoft.com/es-es/windows/extensiones-de-nombre-de-archivo-comunes-en-windows-da4a4430-8e76-89c5-59f7-1cdbbc75cb01) para obtener instrucciones.
 
 1. Use Explorador de Windows, su editor de imágenes favorito y/o su editor de texto favorito para crear nuevos archivos. Si está creando nuevos artículos o traducciones, cambie el nombre del archivo para que siga las [configuraciones regionales en los criterios de estilo del artículo](/wiki/Article_styling_criteria/Formatting#locales).
-2. Continua a [Creando commits y enviando](#creando-commits-y-enviando).
+2. Continua a [Creando commits y enviando](#crear-commits-y-envio).
 
 ### Eliminar archivos
 
 1. Use el Explorador de Windows para eliminar archivos.
-2. Continua a [Creando commits y enviando](#creando-commits-y-enviando).
+2. Continua a [Creando commits y enviando](#crear-commits-y-envio).
 
-## Creando commits y enviando
+## Crear commits y envio
 
 1. Vuelva a GitHub Desktop. Debería verse algo similar a esto:
 
-  ![](img/github-desktop-changes.jpg "Your mileage may vary.")
+  ![](img/github-desktop-changes.jpg "El número de archivos puede variar.")
 
 2. De manera predeterminada, GitHub Desktop seleccionará automáticamente todos sus cambios.
 3. Es mejor separar cada acción «grande» como un solo commit.
