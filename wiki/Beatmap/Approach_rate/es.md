@@ -50,9 +50,9 @@ La cantidad de tiempo que tarda para que el objeto desaparezca por completo, tam
 
 Hay cuatro mods que alteran la velocidad de aproximación cuando se activan:
 
-- [Easy](/wiki/Game_modifier/Easy): reduce a la mitad el valor de AR.
-- [Hard Rock](/wiki/Game_modifier/Hard_Rock): multiplica el valor de AR por 1.4, hasta un máximo de 10.
-- [Double Time](/wiki/Game_modifier/Double_Time): el valor de AR no se ve afectado, pero debido al aumento del 50 % en la velocidad del juego, los objetos permanecen en la pantalla durante un 33 % menos de tiempo.
-- [Half Time](/wiki/Game_modifier/Half_Time): el valor de AR no se ve afectado, pero debido a la disminución del 25 % en la velocidad del juego, los objetos permanecen en la pantalla durante un 33 % más de tiempo.
+- [Easy](/wiki/Game_modifier/Easy): Reduce a la mitad el valor de AR.
+- [Hard Rock](/wiki/Game_modifier/Hard_Rock): Multiplica el valor de AR por 1.4, hasta un máximo de 10.
+- [Double Time](/wiki/Game_modifier/Double_Time): El valor de AR no se ve afectado, pero debido al aumento del 50 % en la velocidad del juego, los objetos permanecen en la pantalla durante un 33 % menos de tiempo.
+- [Half Time](/wiki/Game_modifier/Half_Time): El valor de AR no se ve afectado, pero debido a la disminución del 25 % en la velocidad del juego, los objetos permanecen en la pantalla durante un 33 % más de tiempo.
 
 Si bien Half Time y Double Time no cambian el valor de AR, la diferencia de velocidad conduce a un cambio aparente de AR. Los AR de HT/DT se denominan comúnmente en términos de su valor percibido. Por ejemplo, "AR 8 + DT" también se puede escribir como "AR 9.6".
