@@ -44,6 +44,7 @@ osu!(lazer)（也称为 osu! 激光版）是游戏的下一个大更新。这凝
 
 | 功能 | 稳定版  | 激光版  |
 | :-- | :-- | :-- |
+| 难度调整 (DA) 模组 | ![No][false] | ![Yes][true][^difficulty-adjust] |
 | 精准的表现分 (pp) 显示 | ![部分支持][partial][^online]  | ![支持][true]  |
 | 模组 (Mods) 预设 | ![不支持][false]  | ![支持][true]  |
 | 精细调整每个模组 | ![不支持][false]  | ![支持][true]  |
@@ -75,7 +76,7 @@ osu!(lazer)（也称为 osu! 激光版）是游戏的下一个大更新。这凝
 | 多人游戏指令  | ![支持][true]  | ![不支持][false] |
 | 合作模式 (Tag co-op)  | ![支持][true]  | ![不支持][false] |
 | 课题模式 (玩家策划的排行榜) | ![不支持][false]  | ![支持][true] |
-| 更新官网有新更新的谱面  | ![部分支持][partial][^map-only]  | ![支持][true][^all-files] |
+| 更新在官网上改动过的谱面  | ![部分支持][partial][^map-only]  | ![支持][true][^all-files] |
 
 ### 编辑器
 
@@ -194,6 +195,8 @@ osu!(lazer)（也称为 osu! 激光版）是游戏的下一个大更新。这凝
 
 如果你想知道帧率会如何影响输入延迟，并想测试你自己的感知力，请在设置底部运行“延迟测试器”。
 
+你也能[阅读这篇科技文章](https://github.com/ppy/osu/wiki/Latency-and-unlimited-frame-rates)，它能解释我们的所作所为，以及背后的理由。
+
 #### 如果输入限制在 1000 HZ，那我 8000 HZ 回报率的鼠标怎么办？
 
 操作系统仍旧会以更高的频率轮询，尽管事实证明收效甚微。高轮询率可能会带来意外的问题，我们建议将设备限制在 1000 HZ，确保系统稳定。
@@ -284,6 +287,7 @@ osu!(lazer)（也称为 osu! 激光版）是游戏的下一个大更新。这凝
 [^countdown-timers-stable]: 使用指令来倒计时。对局不会自动开始。
 [^countdown-timers-lazer]: 在游戏内用户界面 (UI) 设置倒计时，对局会自动开始。
 [^queue-modes]: 开启它，允许房内按队列选择谱面。即“房主轮换”(host rotate)。
+[^difficulty-adjust]: 直接在歌曲选择界面更改谱面的 CS/AR/OD/HP。
 
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png
