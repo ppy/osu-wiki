@@ -19,6 +19,11 @@ Records of osu!'s history, all in the osu! wiki.
 - [2016](2016) - scorev2, announcement of a new open-source "lazer" version of osu! (previously known as "osu!lazer"), and an osu! wiki overhaul
 - [2017](2017) - release of the first lazer build of osu!, and Discord integration on the stable client
 - [2018](2018) - ?
+- [2019](2019) - ?
+- [2020](2020) - ?
+- [2021](2021) - ?
+- [2022](2022) - 15 years of osu!, ?
+- [2023](2023) - ?
 
 ## Other records
 
