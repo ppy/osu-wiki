@@ -62,7 +62,7 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 | ::{ flag=HU }:: [[ Another ]](https://osu.ppy.sh/users/3416573) | Hungarian | Chat moderation |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Russian | Chat moderation |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | Forum moderation |
-| ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | Tournament management{^task-Azer] |
+| ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | Tournament management[^task-Azer] |
 | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419) | Chinese, Malay | Chat moderation |
 | ::{ flag=US }:: [Chaos](https://osu.ppy.sh/users/2628870) |  | Chat moderation |
 | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | Swedish, Spanish | Chat moderation, tournament management |
@@ -165,4 +165,4 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 
 ## Notes
 
-[^task-Azer]: Is a part of the GMT but they are not held to the same responsibilities.
+[^task-Azer]: While not actually being part of the GMT itself, Azer is in the user group by technicality due to needing GMT-level permissions as a World Cup organiser.
