@@ -1,3 +1,7 @@
+---
+outdated_translation: true
+---
+
 # Liste des musiques d'osu!stream
 
 *Pour des informations sur le jeu de base, voir : [osu!stream](/wiki/osu!stream)*
