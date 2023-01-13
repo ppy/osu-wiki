@@ -105,7 +105,7 @@ Se alienta a los contribuidores a corregir los enlaces rotos mientras actualizan
 
 ##### Comprobación de traducción obsoleta
 
-*Véase también: [Criterios de estilo para artículos/Formato § Outdated translations](/wiki/Article_styling_criteria/Formatting#traducciones-obsoletas) y [Criterios de estilo para artículos/Redacción § Paridad de contenido](/wiki/Article_styling_criteria/Writing#paridad-de-contenido)*
+*Véase también: [Criterios de estilo para artículos/Formato § Traducciones obsoletas](/wiki/Article_styling_criteria/Formatting#traducciones-obsoletas) y [Criterios de estilo para artículos/Redacción § Paridad de contenido](/wiki/Article_styling_criteria/Writing#paridad-de-contenido)*
 
 Se puede omitir la comprobación de traducción desactualizada (y no marcar las traducciones como desactualizadas) para modificaciones menores, ajustes gramaticales y similares, que no afectan el significado del artículo.
 
