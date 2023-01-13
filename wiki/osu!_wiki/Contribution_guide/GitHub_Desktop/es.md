@@ -77,14 +77,14 @@ Por ejemplo, como se muestra arriba, [pippi](/wiki/Mascots#pippi) agregó una im
 5. Escriba un resumen para el commit. Esto tiene un límite de 72 caracteres y **debe estar en inglés**.
 6. Escriba una descripción. Esto es opcional, no tiene límite de caracteres y puede estar en cualquier idioma.
 
-   ![](img/github-desktop-first-commit.jpg "Primer commit")
+  ![](img/github-desktop-first-commit.jpg "Primer commit")
 
 7. Haga clic en el botón azul `Commit to` y, si corresponde, reinicie desde el paso 4 para realizar los otros commits que desea realizar.
 
-   ![](img/github-desktop-second-commit.jpg "Segundo commit")
+  ![](img/github-desktop-second-commit.jpg "Segundo commit")
 
 8. Una vez que haya terminado de hacer sus commits, haga clic en el botón `Publish branch` en la parte superior.
 
-   ![](img/github-desktop-push.jpg)
+  ![](img/github-desktop-push.jpg)
 
 9. Continue a [Revisión](/wiki/osu!_wiki/Contribution_guide#revisión) para obtener la última información sobre su solicitud de cambios y cambios.
