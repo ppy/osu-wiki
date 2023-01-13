@@ -1,6 +1,6 @@
 # osu!stream
 
-*For the list of songs featured in the game, see: [osu!stream song list](/wiki/osu!stream/Song_List/)*
+*For the list of songs featured in the game, see: [osu!stream song list](/wiki/osu!stream/Song_List)*
 
 ![](img/Os-Logo.jpg "osu!stream logo")
 
