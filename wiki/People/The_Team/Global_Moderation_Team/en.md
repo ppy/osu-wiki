@@ -62,7 +62,7 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 | ::{ flag=HU }:: [[ Another ]](https://osu.ppy.sh/users/3416573) | Hungarian | Chat moderation |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Russian | Chat moderation |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | Forum moderation |
-| ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | Tournament management |
+| ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | Tournament management{^task-Azer] |
 | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419) | Chinese, Malay | Chat moderation |
 | ::{ flag=US }:: [Chaos](https://osu.ppy.sh/users/2628870) |  | Chat moderation |
 | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | Swedish, Spanish | Chat moderation, tournament management |
@@ -162,3 +162,7 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 | `#vietnamese` |  | ::{ flag=VN }:: [My Angel Chino](https://osu.ppy.sh/users/20547597), ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) |
 
 <!-- TODO: History section wanted (Chat operators/GreenBAT, etc, etc) -->
+
+## Notes
+
+[^task-Azer]: Is a part of the GMT but they are not held to the same responsibilities.
