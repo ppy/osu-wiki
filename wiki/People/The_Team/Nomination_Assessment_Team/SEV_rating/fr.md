@@ -1,6 +1,6 @@
 # SEV rating
 
-Le SEV est un système de mseure utilisé par la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (*NAT*) pour évaluer la pertinence d'une [réinitialisation denomination](/wiki/Beatmap_ranking_procedure#nomination-resets) par rapport aux évaluations des [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BN*), ce qui arrure à la fois transparence et cohérence. Cette mesure est divisé en deux valeurs affichée sous le format *Évidence/Sévérité*. Ces deux valeurs vont de 0 à 2, ce qui en fait un système simple à comprendre et rapide à utiliser.
+Le SEV est un système de mesure utilisé par la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (*NAT*) pour évaluer la pertinence d'une [réinitialisation de nomination](/wiki/Beatmap_ranking_procedure#nomination-resets) par rapport aux évaluations des [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BN*), ce qui arrure à la fois transparence et cohérence. Cette mesure est divisé en deux valeurs affichée sous le format *Évidence/Sévérité*. Ces deux valeurs vont de 0 à 2, ce qui en fait un système simple à comprendre et rapide à utiliser.
 
 ## Évidence et sévérité
 
