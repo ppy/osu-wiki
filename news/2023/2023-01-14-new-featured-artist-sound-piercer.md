@@ -14,7 +14,7 @@ If you listen to **Sound piercer** loud enough to pierce your ear drums, your he
 
 **8** tunes that'll vibrate your inner ears juuuust right are now ripe for the picking from [**Sound piercer**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/334)!
 
-[Hanatachi ni Kibou o](https://osu.ppy.sh/beatmapsets?q=%22Hanatachi%20ni%20Kibou%20o%22) is **Sound piercer**'s claim to fame here on osu!, somehow receiving ranked maps from *seven* different mappers throughout the last few years! Watch how [Juicy-](https://osu.ppy.sh/users/13097638) manages to pull off a 187 BPM singletapping-only play on [Log Off Now's rendition of the song](https://osu.ppy.sh/beatmapsets/1378089), then explore everything else **Sound piercer** has to offer:
+[Hanatachi ni Kibou o](https://osu.ppy.sh/beatmapsets?q=%22Hanatachi%20ni%20Kibou%20o%22) is **Sound piercer**'s claim to fame here on osu!, somehow receiving Ranked maps from *seven* different mappers throughout the last few years! Watch how [Juicy-](https://osu.ppy.sh/users/13097638) manages to pull off a 187 BPM singletapping-only play on [Log Off Now's rendition of the song](https://osu.ppy.sh/beatmapsets/1378089), then explore everything else **Sound piercer** has to offer:
 
 <div align="center">
     <video width="100%" controls>
