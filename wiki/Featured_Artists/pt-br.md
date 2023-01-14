@@ -27,7 +27,8 @@ Novos lançamentos Artistas em Destaque por ano:
 - **2019:** 31
 - **2020:** 65
 - **2021:** 101
-- **2022:** *a ser determinado*
+- **2022:** 104
+- **2023:** *a ser determinado*
 
 Novos Artistas em Destaque são anunciados semanalmente no [feed de notícias](https://osu.ppy.sh/home/news) do osu!. A maioria dos anúncios incluem uma lista de músicas licenciadas de artistas e um link para a sua página de Artista em Destaque, através de alguns anúncios são pareados com concursos de mapeamento ou beatmaps criados pela [Mappers' Guild](/wiki/Community/Mappers_Guild).
 

@@ -59,6 +59,7 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | ::{ flag=KR }:: [Cellina](https://osu.ppy.sh/users/2490770) | เกาหลี |
 | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | โปรตุเกส |
 | ::{ flag=ES }:: [Didah](https://osu.ppy.sh/users/8030129) | สเปน |
+| ::{ flag=DE }:: [Dignan](https://osu.ppy.sh/users/4505918) | เยอรมัน |
 | ::{ flag=US }:: [eiri-](https://osu.ppy.sh/users/3388410) | สเปน |
 | ::{ flag=BE }:: [Enneya](https://osu.ppy.sh/users/10959501) | ดัตช์ |
 | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |  |
@@ -89,7 +90,6 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | ::{ flag=RU }:: [Shmiklak](https://osu.ppy.sh/users/5504231) | รัสเซีย |
 | ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | รัสเซีย |
 | ::{ flag=FR }:: [Sotarks](https://osu.ppy.sh/users/4452992) | ฝรั่งเศส |
-| ::{ flag=DE }:: [Sylvarus](https://osu.ppy.sh/users/4505918) | เยอรมัน |
 | ::{ flag=FI }:: [TheKingHenry](https://osu.ppy.sh/users/5128277) | ฟินแลนด์ |
 | ::{ flag=TH }:: [timemon](https://osu.ppy.sh/users/2072005) | ไทย |
 | ::{ flag=LT }:: [tomatas95](https://osu.ppy.sh/users/11403815) | ลิทัวเนีย |
@@ -228,7 +228,7 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | ::{ flag=DE }:: [Feerum](https://osu.ppy.sh/users/4815717) | เยอรมัน |
 | ::{ flag=AU }:: [fvrex](https://osu.ppy.sh/users/11863699) |  |
 | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | อินโดนีเซีย |
-| ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/14351534) | จีน |
+| ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/4790958) | จีน |
 
 ## ประวัติ
 
