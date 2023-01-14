@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 1b5403b0be44652b95ae8edbab1f76b09bfb8b38
+---
+
 # Устройство osu! wiki
 
 *См. также: [Руководство по работе с osu! wiki](/wiki/osu!_wiki/Contribution_guide)*
@@ -6,9 +11,9 @@
 
 ## Администраторы
 
-*Основная статья: [Список администраторов osu! wiki](/wiki/osu!_wiki/Maintenance/List_of_maintainers)*
+*Основная статья: [Список администраторов osu! wiki](/wiki/People/osu!_wiki_maintainers)*
 
-Администраторы — лица, у которых есть [совместный доступ](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-user-account-settings/permission-levels-for-a-user-account-repository#collaborator-access-for-a-repository-owned-by-a-user-account) к [репозиторию `ppy/osu-wiki`](https://github.com/ppy/osu-wiki/), где хранятся все статьи и новости. Они разбирают связанные с проектом задачи и проблемы, проверяют пулл-реквесты и принимают решения, определяющие развитие osu! wiki.
+Администраторы — лица, у которых есть [совместный доступ](https://docs.github.com/ru/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-personal-account-settings/permission-levels-for-a-personal-account-repository#collaborator-access-for-a-repository-owned-by-a-personal-account) к [репозиторию `ppy/osu-wiki`](https://github.com/ppy/osu-wiki/), где хранятся все статьи и новости. Они разбирают связанные с проектом задачи и проблемы, проверяют пулл-реквесты и принимают решения, определяющие развитие osu! wiki.
 
 Администраторы также принимают или отклюняют пулл-реквесты. Если ваши правки пора публиковать, или вам нужно ревью, попросите кого-нибудь из них в канале `#osu-wiki`.
 
@@ -43,7 +48,7 @@
 
 ### Автоматизированные проверки
 
-В репозитории osu! wiki настроены [автоматизированные проверки](https://docs.github.com/en/actions/guides/about-continuous-integration) (CI), отлавливающие распространённые ошибки в пулл-реквестах. Список проверок можно найти в файле [`continuous-integration.yml`](https://github.com/ppy/osu-wiki/blob/master/.github/workflows/continuous-integration.yml).
+В репозитории osu! wiki настроены [автоматизированные проверки](https://docs.github.com/ru/actions/automating-builds-and-tests/about-continuous-integration) (CI), отлавливающие распространённые ошибки в пулл-реквестах. Список проверок можно найти в файле [`continuous-integration.yml`](https://github.com/ppy/osu-wiki/blob/master/.github/workflows/continuous-integration.yml).
 
 В файле [`package.json`](https://github.com/ppy/osu-wiki/blob/master/package.json) перечислены все плагины для CI (некоторые из них написаны администраторами osu! wiki).
 
