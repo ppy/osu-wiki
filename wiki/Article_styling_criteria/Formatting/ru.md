@@ -828,9 +828,9 @@ osu! wiki — проект, пришедший на замену системе 
 
 ## Ссылки
 
-[^api-first-usage]: ["osu!api open beta", тема от peppy (02.07.2013)](https://osu.ppy.sh/community/forums/posts/2403913)
-[^api-praise]: [Пост Menchi (02.11.2013) в теме "osu!api open beta"](https://osu.ppy.sh/community/forums/posts/2662247)
-[^api-v2-2020]: [Твит @ppy (20.03.2020)](https://twitter.com/ppy/status/1263083636363948032)
+[^api-first-usage]: ["osu!api open beta", тема от peppy, 02.07.2013](https://osu.ppy.sh/community/forums/posts/2403913)
+[^api-praise]: [Пост Menchi в теме "osu!api open beta", 02.11.2013](https://osu.ppy.sh/community/forums/posts/2662247)
+[^api-v2-2020]: [Твит @ppy, 20.03.2020](https://twitter.com/ppy/status/1263083636363948032)
 [^web-api]: [Web API — Википедия](https://en.wikipedia.org/wiki/Web_API)
 ```
 
