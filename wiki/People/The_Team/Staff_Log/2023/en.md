@@ -8,7 +8,7 @@ Abbreviations for user groups are used throughout this log:
 
 ## January
 
-- 2023-01-14: Removed [Quenlla](https://osu.ppy.sh/users/4725379) from **NAT** to **osu! Alumni**
+- 2023-01-14: Moved [Quenlla](https://osu.ppy.sh/users/4725379) from **NAT** to **osu! Alumni**
 
 ### Beatmap Nominators
 
@@ -20,8 +20,8 @@ Abbreviations for user groups are used throughout this log:
 - 2023-01-09: Added [Seto Kousuke](https://osu.ppy.sh/users/2857314) to **Probationary BN**
 - 2023-01-09: Added [Krisom](https://osu.ppy.sh/users/99269) to **Probationary BN**
 - 2023-01-09: Added [Bazz B](https://osu.ppy.sh/users/9063995) to **Probationary BN**
-- 2023-01-09: Added [rosario wknd](https://osu.ppy.sh/users/6341518) to **Probationary BN**
-- 2023-01-09: Added [-Keitaro](https://osu.ppy.sh/users/3378391) to **Probationary BN**
+- 2023-01-09: Added [rosario wknd](https://osu.ppy.sh/users/6341518) to **BN**
+- 2023-01-09: Added [-Keitaro](https://osu.ppy.sh/users/3378391) to **BN**
 - 2023-01-12: Added [Mimari](https://osu.ppy.sh/users/14339830) to **Probationary BN**
 - 2023-01-14: Added [Quenlla](https://osu.ppy.sh/users/4725379) to **BN**
 

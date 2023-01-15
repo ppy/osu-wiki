@@ -49,6 +49,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | Nome | Línguas adicionais |
 | :-- | :-- |
 | ::{ flag=PH }:: [-Aqua](https://osu.ppy.sh/users/7150015) | Filipino |
+| ::{ flag=ID }:: [-Keitaro](https://osu.ppy.sh/users/3378391) | Indonésio |
 | ::{ flag=IT }:: [-Syncro](https://osu.ppy.sh/users/4338923) | Italiano |
 | ::{ flag=FI }:: [Aakki](https://osu.ppy.sh/users/11077540) | Finlandês |
 | ::{ flag=GB }:: [Aistre](https://osu.ppy.sh/users/4879380) |  |
@@ -82,6 +83,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) | Francês |
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | Alemão |
 | ::{ flag=RU }:: [riffy](https://osu.ppy.sh/users/597957) | Russo |
+| ::{ flag=US }:: [rosario wknd](https://osu.ppy.sh/users/6341518) |  |
 | ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | Chinês |
 | ::{ flag=HK }:: [Saggin](https://osu.ppy.sh/users/12464107) | Chinês, cantonês, um pouco de japonês |
 | ::{ flag=FR }:: [Sajinn](https://osu.ppy.sh/users/13513687) | Francês |
@@ -197,7 +199,6 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 
 | Nome | Línguas adicionais |
 | :-- | :-- |
-| ::{ flag=ID }:: [-Keitaro](https://osu.ppy.sh/users/3378391) | Indonésio |
 | ::{ flag=JP }:: [-Rei](https://osu.ppy.sh/users/8200707) | Japonês |
 | ::{ flag=BY }:: [Bazz B](https://osu.ppy.sh/users/9063995) | Russo, bielorrusso |
 | ::{ flag=PL }:: [browiec](https://osu.ppy.sh/users/9426712) | Polonês |
@@ -208,7 +209,6 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | ::{ flag=CL }:: [Krisom](https://osu.ppy.sh/users/99269) | Espanhol |
 | ::{ flag=KR }:: [Len](https://osu.ppy.sh/users/1686145) | Coreano |
 | ::{ flag=US }:: [Mimari](https://osu.ppy.sh/users/14339830) |  |
-| ::{ flag=US }:: [rosario wknd](https://osu.ppy.sh/users/6341518) |  |
 | ::{ flag=CA }:: [Ryax](https://osu.ppy.sh/users/8949769) |  |
 | ::{ flag=BR }:: [Seto Kousuke](https://osu.ppy.sh/users/2857314) | Português |
 | ::{ flag=US }:: [Smoke](https://osu.ppy.sh/users/10726630) |  |

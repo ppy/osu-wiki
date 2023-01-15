@@ -49,6 +49,7 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | ชื่อ | ภาษาเพิ่มเติม |
 | :-- | :-- |
 | ::{ flag=PH }:: [-Aqua](https://osu.ppy.sh/users/7150015) | ฟิลิปปินส์ |
+| ::{ flag=ID }:: [-Keitaro](https://osu.ppy.sh/users/3378391) | อินโดนีเซีย |
 | ::{ flag=IT }:: [-Syncro](https://osu.ppy.sh/users/4338923) | อิตาลี |
 | ::{ flag=FI }:: [Aakki](https://osu.ppy.sh/users/11077540) | ฟินแลนด์ |
 | ::{ flag=GB }:: [Aistre](https://osu.ppy.sh/users/4879380) |  |
@@ -82,6 +83,7 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) | ฝรั่งเศส |
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | เยอรมัน |
 | ::{ flag=RU }:: [riffy](https://osu.ppy.sh/users/597957) | รัสเซีย |
+| ::{ flag=US }:: [rosario wknd](https://osu.ppy.sh/users/6341518) |  |
 | ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | จีน |
 | ::{ flag=HK }:: [Saggin](https://osu.ppy.sh/users/12464107) | จีน, กวางตุ้ง, ญี่ปุ่น บ้าง |
 | ::{ flag=FR }:: [Sajinn](https://osu.ppy.sh/users/13513687) | ฝรั่งเศส |
@@ -197,7 +199,6 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 
 | ชื่อ | ภาษาเพิ่มเติม |
 | :-- | :-- |
-| ::{ flag=ID }:: [-Keitaro](https://osu.ppy.sh/users/3378391) | อินโดนีเซีย |
 | ::{ flag=JP }:: [-Rei](https://osu.ppy.sh/users/8200707) | ญี่ปุ่น |
 | ::{ flag=BY }:: [Bazz B](https://osu.ppy.sh/users/9063995) | รัสเซีย, เบลารุส |
 | ::{ flag=PL }:: [browiec](https://osu.ppy.sh/users/9426712) | โปแลนด์ |
@@ -208,7 +209,6 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | ::{ flag=CL }:: [Krisom](https://osu.ppy.sh/users/99269) | สเปน |
 | ::{ flag=KR }:: [Len](https://osu.ppy.sh/users/1686145) | เกาหลี |
 | ::{ flag=US }:: [Mimari](https://osu.ppy.sh/users/14339830) |  |
-| ::{ flag=US }:: [rosario wknd](https://osu.ppy.sh/users/6341518) |  |
 | ::{ flag=CA }:: [Ryax](https://osu.ppy.sh/users/8949769) |  |
 | ::{ flag=BR }:: [Seto Kousuke](https://osu.ppy.sh/users/2857314) | โปรตุเกส |
 | ::{ flag=US }:: [Smoke](https://osu.ppy.sh/users/10726630) |  |

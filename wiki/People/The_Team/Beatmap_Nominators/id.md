@@ -49,6 +49,7 @@ Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masin
 | Nama | Bahasa tambahan |
 | :-- | :-- |
 | ::{ flag=PH }:: [-Aqua](https://osu.ppy.sh/users/7150015) | Filipino |
+| ::{ flag=ID }:: [-Keitaro](https://osu.ppy.sh/users/3378391) | Indonesia |
 | ::{ flag=IT }:: [-Syncro](https://osu.ppy.sh/users/4338923) | Italia |
 | ::{ flag=FI }:: [Aakki](https://osu.ppy.sh/users/11077540) | Suomi |
 | ::{ flag=GB }:: [Aistre](https://osu.ppy.sh/users/4879380) |  |
@@ -82,6 +83,7 @@ Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masin
 | ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) | Perancis |
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | Jerman |
 | ::{ flag=RU }:: [riffy](https://osu.ppy.sh/users/597957) | Rusia |
+| ::{ flag=US }:: [rosario wknd](https://osu.ppy.sh/users/6341518) |  |
 | ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | Tionghoa |
 | ::{ flag=HK }:: [Saggin](https://osu.ppy.sh/users/12464107) | Tionghoa, Kanton, sedikit Jepang |
 | ::{ flag=FR }:: [Sajinn](https://osu.ppy.sh/users/13513687) | Perancis |
@@ -197,7 +199,6 @@ Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masin
 
 | Nama | Bahasa tambahan |
 | :-- | :-- |
-| ::{ flag=ID }:: [-Keitaro](https://osu.ppy.sh/users/3378391) | Indonesia |
 | ::{ flag=JP }:: [-Rei](https://osu.ppy.sh/users/8200707) | Jepang |
 | ::{ flag=BY }:: [Bazz B](https://osu.ppy.sh/users/9063995) | Rusia, Belarusia |
 | ::{ flag=PL }:: [browiec](https://osu.ppy.sh/users/9426712) | Polski |
@@ -208,7 +209,6 @@ Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masin
 | ::{ flag=CL }:: [Krisom](https://osu.ppy.sh/users/99269) | Spanyol |
 | ::{ flag=KR }:: [Len](https://osu.ppy.sh/users/1686145) | Korea |
 | ::{ flag=US }:: [Mimari](https://osu.ppy.sh/users/14339830) |  |
-| ::{ flag=US }:: [rosario wknd](https://osu.ppy.sh/users/6341518) |  |
 | ::{ flag=CA }:: [Ryax](https://osu.ppy.sh/users/8949769) |  |
 | ::{ flag=BR }:: [Seto Kousuke](https://osu.ppy.sh/users/2857314) | Portugis |
 | ::{ flag=US }:: [Smoke](https://osu.ppy.sh/users/10726630) |  |

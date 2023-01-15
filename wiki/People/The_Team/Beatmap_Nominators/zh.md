@@ -49,6 +49,7 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 | 名字 | 语言 |
 | :-- | :-- |
 | ::{ flag=PH }:: [-Aqua](https://osu.ppy.sh/users/7150015) | 菲律宾语 |
+| ::{ flag=ID }:: [-Keitaro](https://osu.ppy.sh/users/3378391) | 印度尼西亚语 |
 | ::{ flag=IT }:: [-Syncro](https://osu.ppy.sh/users/4338923) | 意大利语 |
 | ::{ flag=FI }:: [Aakki](https://osu.ppy.sh/users/11077540) | 芬兰语 |
 | ::{ flag=GB }:: [Aistre](https://osu.ppy.sh/users/4879380) |  |
@@ -82,6 +83,7 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 | ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) | 法语 |
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | 德语 |
 | ::{ flag=RU }:: [riffy](https://osu.ppy.sh/users/597957) | 俄语 |
+| ::{ flag=US }:: [rosario wknd](https://osu.ppy.sh/users/6341518) |  |
 | ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | 汉语 |
 | ::{ flag=HK }:: [Saggin](https://osu.ppy.sh/users/12464107) | 汉语，粤语，一部分日语 |
 | ::{ flag=FR }:: [Sajinn](https://osu.ppy.sh/users/13513687) | 法语 |
@@ -197,7 +199,6 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 
 | 名字 | 语言 |
 | :-- | :-- |
-| ::{ flag=ID }:: [-Keitaro](https://osu.ppy.sh/users/3378391) | 印度尼西亚语 |
 | ::{ flag=JP }:: [-Rei](https://osu.ppy.sh/users/8200707) | 日语 |
 | ::{ flag=BY }:: [Bazz B](https://osu.ppy.sh/users/9063995) | 俄语，白俄罗斯语 |
 | ::{ flag=PL }:: [browiec](https://osu.ppy.sh/users/9426712) | 波兰语 |
@@ -208,7 +209,6 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 | ::{ flag=CL }:: [Krisom](https://osu.ppy.sh/users/99269) | 西班牙语 |
 | ::{ flag=KR }:: [Len](https://osu.ppy.sh/users/1686145) | 韩语 |
 | ::{ flag=US }:: [Mimari](https://osu.ppy.sh/users/14339830) |  |
-| ::{ flag=US }:: [rosario wknd](https://osu.ppy.sh/users/6341518) |  |
 | ::{ flag=CA }:: [Ryax](https://osu.ppy.sh/users/8949769) |  |
 | ::{ flag=BR }:: [Seto Kousuke](https://osu.ppy.sh/users/2857314) | 葡萄牙语 |
 | ::{ flag=US }:: [Smoke](https://osu.ppy.sh/users/10726630) |  |
