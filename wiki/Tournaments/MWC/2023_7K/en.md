@@ -51,6 +51,7 @@ The osu!mania 7K World Cup 2023 is run by the osu! team and various community me
 
 - [Livestream](https://www.twitch.tv/osulive)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1690687)
+- [Challonge bracket](https://challonge.com/MWC7K_2023)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/106) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
 - [Information spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRQVIOCI9kotrvH-FWrip3BlS37lVN9AacPfTlDDXbW-zTfOxqKFtuKZw7yodW6UBSSzijuKJag0biI/pubhtml)
 - [Donate to the prize pool](https://opencollective.com/osu-tournaments/events/osu-mania-7k-world-cup-2023-502fec83)
