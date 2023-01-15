@@ -1,10 +1,10 @@
 # SEV rating
 
-Le SEV est un système de mesure utilisé par la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (*NAT*) pour évaluer la pertinence d'une [réinitialisation de nomination](/wiki/Beatmap_ranking_procedure#nomination-resets) par rapport aux évaluations des [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BN*), ce qui arrure à la fois transparence et cohérence. Cette mesure est divisé en deux valeurs affichée sous le format *Évidence/Sévérité*. Ces deux valeurs vont de 0 à 2, ce qui en fait un système simple à comprendre et rapide à utiliser.
+Le SEV est un système de mesure utilisé par la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (*NAT*) pour évaluer la pertinence d'une [réinitialisation de nomination](/wiki/Beatmap_ranking_procedure#réinitialisation-de-la-nomination) par rapport aux évaluations des [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BN*), ce qui arrure à la fois transparence et cohérence. Cette mesure est divisé en deux valeurs affichée sous le format *Évidence/Sévérité*. Ces deux valeurs vont de 0 à 2, ce qui en fait un système simple à comprendre et rapide à utiliser.
 
 ## Évidence et sévérité
 
-*Note: Une réinitialisation effectuée pour corriger des choses qui seraient considérées comme correctes si elles n'étaient pas corrigées est toujours notée 0/0. Ceci afin de ne pas décourager les modders et l'application d'améliorations sur les [beatmaps qualifiée](/wiki/Beatmap/Category#qualified).*
+*Note: Une réinitialisation effectuée pour corriger des choses qui seraient considérées comme correctes si elles n'étaient pas corrigées est toujours notée 0/0. Ceci afin de ne pas décourager les modders et l'application d'améliorations sur les [beatmaps qualifiée](/wiki/Beatmap/Category#qualifiée).*
 
 **L'évidence** concerne la facilité avec laquelle on peut repérer le problème.
 
