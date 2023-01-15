@@ -44,7 +44,7 @@
 | [ircII](http://www.eterna.com.au/ircii/) | Напишите `IGNORE * CRAP` |
 | [Irssi](https://irssi.org) | Напишите `/ignore * JOINS PARTS QUITS` |
 | [Weechat](https://weechat.org/) | Напишите `/filter add joinquit * irc_join,irc_part,irc_quit *` |
- | [Konversation](https://konversation.kde.org/) | Зайдите в `Settings` -> `Configure Konversation...` (`Ctrl` + `Shift` + `,`) -> `Behavior` -> `Chat Window` и отметьте галочку `Hide Join/Part/Nick Events` |
+| [Konversation](https://konversation.kde.org/) | Зайдите в `Settings` -> `Configure Konversation...` (`Ctrl` + `Shift` + `,`) -> `Behavior` -> `Chat Window` и отметьте галочку `Hide Join/Part/Nick Events` |
 | [KVIrc](https://www.kvirc.net/) | См. [справку по KVIrc](https://github.com/kvirc/KVIrc/wiki/FAQ#how-do-i-suppress-join-part-and-quit-messages) |
 | [mIRC](https://www.mirc.com/) | В настройках (`Tools` -> `Options`, либо `Alt` + `O`) выберите пункт `IRC`, нажмите кнопку `Events...` и выберите `Hide` для типов Joins и Parts |
 | [Quassel IRC](https://quassel-irc.org/) | Кликните правой клавишей мыши по чату, откройте пункт `Hide Events` и выберите `Joins/Parts/Quits` |
