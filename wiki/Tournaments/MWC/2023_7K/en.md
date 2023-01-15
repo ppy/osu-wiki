@@ -162,7 +162,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/c9e
 
 The final standings for the Qualifier stage can be found at the following [spreadsheet](https://docs.google.com/spreadsheets/d/1vYAoyjGk1cNt2iiXZDceghrrdnkGuE7snb0apXyIYGg).
 
-| Seed | Country | avg. rank[^qualifiers-seeding] | avg. score[^qualifiers-tiebreaker] |
+| Seed | Country | avg. rank¹ | avg. score² |
 | :-: | :-- | :-- | :-- |
 | #1 | ::{ flag=KR }:: South Korea | 1.75 | 1,976,351 |
 | #2 | ::{ flag=PH }:: Philippines | 2.38 | 1,975,095 |
@@ -201,6 +201,9 @@ The final standings for the Qualifier stage can be found at the following [sprea
 | #35 | ::{ flag=NZ }:: New Zealand | 35.25 | 1,005,053 |
 | #36 | ::{ flag=CH }:: Switzerland | 35.75 | 974,743 |
 | #37 | ::{ flag=IQ }:: Iraq | 36.88 | 812,483 |
+
+¹: used as the main seeding method
+²: used as a tiebreaker when two teams have the same average rank
 
 ## Ruleset
 
