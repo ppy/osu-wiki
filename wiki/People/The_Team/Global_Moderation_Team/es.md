@@ -6,6 +6,8 @@ tags:
   - chat mod
   - moderador
   - moderadores
+outdated_translation: true
+outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 ---
 
 # Equipo de Moderación Global
@@ -74,7 +76,6 @@ La [página del grupo del Equipo de Moderacion Global](https://osu.ppy.sh/groups
 | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109) | Portugués, japonés | Moderación del chat |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) |  | Soporte al jugador, administración de la wiki |
 | ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | Indonesio | Moderación de la comunidad de mapping/modding |
-| ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Chino | Moderación de la comunidad de mapping/modding |
 | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) | Polaco | Moderación del chat |
 | ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Chino | Moderación de la comunidad de mapping/modding |
 | ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | Moderación de la comunidad de mapping/modding |
