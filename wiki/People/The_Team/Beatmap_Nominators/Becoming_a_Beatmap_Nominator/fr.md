@@ -50,7 +50,7 @@ Vous avez ces conditions si vous avez échoué à une demande pour rejoindre les
 
 ### Réintégration après avoir été retiré des Beatmap Nominators
 
-Les utilisateurs qui ont récemment quitté les Beatmap Nominators peuvent avoir des exigences différentes pour se réinscrire par rapport à leur première adhésion. Pour les utilisateurs qui ont eu de bons résultats avant leur départ, il est possible qu'ils puissent se réinscrire avec des exigences plus souples, voir pas d'exigences du tout. Le NAT informera l'utilisateur s'il a la possibilité d'accélérer son retour dans les Beatmap Nominators.
+Les utilisateurs qui ont récemment quitté les Beatmap Nominators peuvent avoir des exigences différentes pour se réinscrire par rapport à leur première adhésion. Pour les utilisateurs qui ont eu de bons résultats avant leur départ, il est possible qu'ils puissent se réinscrire avec des exigences plus souples, voire pas d'exigences du tout. Le NAT informera l'utilisateur s'il a la possibilité d'accélérer son retour dans les Beatmap Nominators.
 
 Si vous étiez auparavant un Beatmap Nominator, ces exigences s'appliquent à moins que vous n'ayez échoué une demande depuis la dernière fois que vous étiez un Beatmap Nominator.
 
