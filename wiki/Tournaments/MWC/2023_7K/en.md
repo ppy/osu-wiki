@@ -340,5 +340,5 @@ The final standings for the Qualifier stage can be found at the following [sprea
 
 ## Notes
 
-[^qualifiers-seeding]: used as the main seeding method
-[^qualifiers-tiebreaker]: used as a tiebreaker when two teams have the same average rank
+[^qualifiers-seeding]: Used as the main seeding method
+[^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same average rank
