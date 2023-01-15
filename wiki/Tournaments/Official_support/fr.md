@@ -70,7 +70,7 @@ En outre, tout matériel promotionnel ou tout service associé à un tournoi bé
 - Si un utilisateur répond aux critères d'inscription (s'il y en a), le tournoi ne doit pas empêcher ceux qui passent le screening de participer sans que de nombreuses preuves soient présentées publiquement contre eux et sans l'approbation de l'équipe de support aux comptes.
   - Il s'agit notamment d'empêcher de jouer les utilisateurs qui sont suspectés de "sandbag" leur performance. Si un organisateur a des raisons valables de penser que la présence de tels joueurs affecte l'intégrité compétitive de son tournoi, il peut soumettre le problème au [Comité des tournois](/wiki/People/Tournament_Committee) pour un examen au cas par cas en utilisant le [formulaire de report de tournoi](https://pif.ephemeral.ink/tournament-reports).
 - Un arbitre dédié doit être présent lors de chaque match. Les joueurs ne peuvent pas s'auto-arbitrer.
-  - L'utilisation de bots est autorisée lors des matchs de la phase de qualification, à condition qu'ils soit supervisée par un membre du staff.
+  - L'utilisation de bots est autorisée lors des matchs de la phase de qualification, à condition qu'ils soient supervisés par un membre du staff.
 - Tous les matchs multijoueur relatifs au tournoi doivent être créés avec la commande `!mp make`, afin qu'ils n'expirent pas. Les résultats doivent être enregistrés et rendus publics sur le post original du forum du tournoi dans un format clair et accessible.
 
 Une fois le tournoi terminé, les organisateurs du tournoi devront envoyer les éléments suivants à l'équipe de support aux comptes :
