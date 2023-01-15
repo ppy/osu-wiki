@@ -39,6 +39,8 @@ Abbreviations for user groups are used throughout this log:
 - 2023-01-03: Removed [Burak](https://osu.ppy.sh/users/13213075) from **BN**
 - 2023-01-05: Removed [VINXIS](https://osu.ppy.sh/users/4323406) from **BN**
 
+<!-- last updated with Quenlla's removal from NAT + addition to BN @ 01:23 GMT on 1/15/2023>
+
 <!--
 To update this article:
 
