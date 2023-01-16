@@ -34,7 +34,7 @@ See also:
 
 Price: **Free**
 
-This song pack features two songs of different variety that are available to download free of charge.
+This song pack features two songs of different variety.
 
 | Song | Mapper | Difficulty Rating |
 | :-- | :-- | :-- |
@@ -64,7 +64,7 @@ See also:
 
 Price: **Free**
 
-This song pack features two songs of different variety that are available to download free of charge.
+This song pack features two songs of different variety.
 
 | Song | Mapper | Difficulty Rating |
 | :-- | :-- | :-- |
@@ -132,7 +132,7 @@ See also:
 
 Price: **Free** / **USD$0.99** (pre-[2020 update](https://news.osustream.com/post/611013728007274496/osustream-2020-release))
 
-This song pack features four electronic-oriented songs from select independent musicians.
+This song pack features four electronic-oriented songs from selected independent musicians.
 
 | Song | Mapper | Difficulty Rating |
 | :-- | :-- | :-- |
