@@ -97,7 +97,7 @@ Créateur d'osu!.
 
 ##### Vérification des liens du wiki
 
-*Voir également : [Critères de mise en forme d'article § Liens Wiki](/wiki/Article_styling_criteria/Formatting#liens-Wiki)*
+*Voir également : [Critères de mise en forme d'article § Liens Wiki](/wiki/Article_styling_criteria/Formatting#liens-wiki)*
 
 Les contributeurs sont encouragés à réparer les liens cassés lors de la mise à jour des articles. Cela dit, dans certaines situations, cela peut demander plus de travail que ce qui est pertinent pour la pull request :
 
