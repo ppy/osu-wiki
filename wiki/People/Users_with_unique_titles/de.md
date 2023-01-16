@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 62e81909868cf39fcce5b9aca68d95bf5ea367a4
----
-
 # Benutzer mit einzigartigen Titeln
 
 Nutzertitel sind in der Regel mit [Benutzergruppen](/wiki/People/The_Team#benutzergruppen) verbunden, aber die unten aufgelisteten Benutzer haben ihre Titel aus anderen Gründen erhalten. Die meisten Titel waren Auszeichnungen für Beiträge oder Errungenschaften, wobei die übrigen Titel Symbole der kultigen oder lustigen osu!-Geschichte sind.
@@ -178,7 +173,7 @@ Die meisten offiziellen Mapping-Wettbewerbe bieten den Titel **Elite Mapper** al
 
 ## Elite Nominators
 
-Seit 2020 werden Mitglieder der [Beatmap-Nominators](/wiki/People/The_Team/Beatmap_Nominators) und des [Nomination-Assessment-Teams](/wiki/People/The_Team/Nomination_Assessment_Team) mit einer außergewöhnlichen Leistung zur Unterstützung des Ranlistensystems in einem bestimmten Jahr mit dem Titel **Elite Nominator** ausgezeichnet. Dieser Titel wird zu Beginn jedes Jahres für Beiträge vergeben, die während dem vergangen Jahr gemacht wurden, und halten etwa ein Jahr lang oder bis der Benutzer das Team verlässt.
+Seit 2020 werden Mitglieder der [Beatmap-Nominators](/wiki/People/The_Team/Beatmap_Nominators) und des [Nomination-Assessment-Teams](/wiki/People/The_Team/Nomination_Assessment_Team) mit einer außergewöhnlichen Leistung zur Unterstützung des Ranglistensystems in einem bestimmten Jahr mit dem Titel **Elite Nominator** ausgezeichnet. Dieser Titel wird zu Beginn jedes Jahres für Beiträge vergeben, die während dem vergangen Jahr gemacht wurden, und halten etwa ein Jahr lang oder bis der Benutzer das Team verlässt.
 
 - ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229)
 - ::{ flag=CA }:: [guden](https://osu.ppy.sh/users/11626065)
@@ -211,9 +206,9 @@ Die osu!remix-Wettbewerbe überreichen als den ersten Preis den Titel **osu!mixe
 - ::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471)[^billiummoto-note]
 - ::{ flag=FR }:: [Shinwoir](https://osu.ppy.sh/users/8984574)
 
-## Aktuelle Gewinner des Wettbewerbs osu!trivium Quiz
+## Titelverteidiger von osu!trivium Quiz
 
-Die Wettbewerbe [osu!trivium Quiz](/wiki/Contests/osu!trivium_Quiz) vergeben ihrer siegreichem Mannschaft oder Einzelperson den Titel **osu!trivium Champion**, der für ein Jahr lang hält. Dies sind die Titelverteidiger für 2021:
+Die Wettbewerbe [osu!trivium Quiz](/wiki/Contests/osu!trivium_Quiz) vergeben ihrer siegreichen Mannschaft oder Einzelperson den Titel **osu!trivium Champion**, der für ein Jahr lang hält. Dies sind die Titelverteidiger für 2021:
 
 - ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114)
 - ::{ flag=MY }:: [cdh](https://osu.ppy.sh/users/2403621)
