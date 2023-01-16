@@ -1,11 +1,8 @@
----
-outdated_translation: true
-outdated_since: 22188ef2a9149c3f0999652c9386734bb1215ffe
----
-
 # Maintainers de l'osu! wiki
 
-Les maintainers jettent régulièrement un œil au [suivi des issues](https://github.com/ppy/osu-wiki/issues) et examinent les pull requests des contributeurs. Contrairement aux autres contributeurs, ils peuvent modifier les pull requests et les merge dans la branche `master` du dépôt, rendant ainsi les changements publics.
+Les **maintainers de l'osu! wiki** maintiennent l'[osu! wiki](/wiki/osu!_wiki) via son [dépôt de projet sur GitHub](https://github.com/ppy/osu-wiki).
+
+Les maintainers jettent régulièrement un œil au [suivi des issues](https://github.com/ppy/osu-wiki/issues) et examinent les pull requests (des demandes de modification) des contributeurs. Contrairement aux autres contributeurs, ils peuvent modifier les pull requests et les merge dans la branche `master` du dépôt, rendant ainsi les changements publics.
 
 Si vous avez besoin d'aide pour faire une contribution ou si vous voulez une review de votre pull request, envoyez un message dans le salon de discussion `#osu-wiki` du [serveur Discord osu!dev](/wiki/Community/osu!dev_Discord_server) et un maintainer ou un autre contributeur vous répondra (tous les maintainers comprennent l'anglais).
 
@@ -41,7 +38,7 @@ Curateurs, rédacteurs et approbateurs de tous les [news posts](https://osu.ppy.
 
 ## Anciens maintainers
 
-Cette liste comprend les maintainers de la configuration MediaWiki, que l'osu! wiki [avait](/wiki/History_of_osu!/osu!_wiki) :
+Cette liste comprend les maintainers de la configuration MediaWiki, dont l'osu! wiki [disposait auparavant](/wiki/History_of_osu!/osu!_wiki) :
 
 - ::{ flag=RU }:: [\[Dellirium\]](https://osu.ppy.sh/users/519032)
 - ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370)
