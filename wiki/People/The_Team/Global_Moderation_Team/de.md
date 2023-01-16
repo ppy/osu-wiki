@@ -5,8 +5,6 @@ tags:
   - moderators
   - chat mod
   - Moderatoren
-outdated_translation: true
-outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 ---
 
 # Globales Moderationsteam
@@ -63,7 +61,7 @@ Die [Seite für das globale Moderationsteam](https://osu.ppy.sh/groups/4) listet
 | ::{ flag=HU }:: [[ Another ]](https://osu.ppy.sh/users/3416573) | Ungarisch | Chat-Moderation |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Russisch | Chat-Moderation |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | Forum-Moderation |
-| ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | Verwaltung von Turnieren |
+| ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | Verwaltung von Turnieren[^task-Azer] |
 | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419) | Chinesisch, Malaiisch | Chat-Moderation |
 | ::{ flag=US }:: [Chaos](https://osu.ppy.sh/users/2628870) |  | Chat-Moderation |
 | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | Schwedisch, Spanisch | Chat-Moderation, Verwaltung von Turnieren |
@@ -161,3 +159,7 @@ Die [Seite für das globale Moderationsteam](https://osu.ppy.sh/groups/4) listet
 | `#turkish` | [Türkçe](https://osu.ppy.sh/community/forums/93) |  |
 | `#ukrainian` |  | ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) |
 | `#vietnamese` |  | ::{ flag=VN }:: [My Angel Chino](https://osu.ppy.sh/users/20547597), ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) |
+
+## Anmerkungen
+
+[^task-Azer]: Azer ist zwar nicht Teil des GMTs selbst, gehört aber technisch gesehen zur Benutzergruppe, da er als Organisator des World Cups Berechtigungen auf GMT-Ebene benötigt.
