@@ -618,7 +618,6 @@ Abbreviations for user groups are used throughout this log:
 - 2022-12-24: Added [-Rei](https://osu.ppy.sh/users/8200707) to **Probationary BN**
 - 2022-12-30: Added [Heroine](https://osu.ppy.sh/users/12727076) to **Probationary BN**
 
-
 #### Moves
 
 - 2022-12-07: Moved [Axer](https://osu.ppy.sh/users/7299864) from **BN** to **Probationary BN**
