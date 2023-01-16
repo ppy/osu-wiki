@@ -57,11 +57,11 @@ Si vous avez besoin d'aide pour décrypter les erreurs de vérification des CI, 
 
 #### Contourner une CI checks
 
-Les CI checks empêchent normalement les pull requests contenant des erreurs d'être fusionnées. Cependant, en cas de fausses erreurs ou de découverte de bugs dans les vérifications, il est toujours possible de les contourner par sécurité. Il existe quelques situations dans lesquelles il est acceptable de contourner intentionnellement une CI check, comme indiqué ci-dessous. Contactez un [mainteneur] (/wiki/People/osu!_wiki_maintainers) si vous devez contourner une vérification pour une raison non mentionnée ici.
+Les CI checks empêchent normalement les pull requests contenant des erreurs d'être fusionnées. Cependant, en cas de fausses erreurs ou de découverte de bugs dans les vérifications, il est toujours possible de les contourner par sécurité. Il existe quelques situations dans lesquelles il est acceptable de contourner intentionnellement une CI check, comme indiqué ci-dessous. Contactez un [maintainer](/wiki/People/osu!_wiki_maintainers) si vous devez contourner une vérification pour une raison non mentionnée ici.
 
 Pour référence, vous trouverez ci-dessous un tableau de toutes les CI checks dans l'ordre :
 
-| # | Check | Outil | Explication| Contournement |
+| # | Check | Outil | Explication | Contournement |
 | :-: | :-- | :-- | :-- | :-- |
 | 1 | Tailles de fichiers | [`scripts/ci/inspect_file_sizes.sh`](https://github.com/ppy/osu-wiki/blob/master/scripts/ci/inspect_file_sizes.sh) | Indique si une image est inférieur à la [limite de taille des images des news post et des articles du wiki](/wiki/Article_styling_criteria/Formatting#taille-du-fichier) (1 MB). Donne un avertissement pour les fichiers supérieurs à 0,5 Mo. | Aucun. |
 | 2 | Markdown | [remark](https://github.com/remarkjs/remark) via [`scripts/ci/run_remark.sh`](https://github.com/ppy/osu-wiki/blob/master/scripts/ci/run_remark.sh) | Vérifie si la syntaxe Markdown est correcte et cohérente dans les articles du wiki et les news post. | Ajouter `<!-- lint ignore rule-name -->` au-dessus de la ligne incriminée, où `rule-name` est la règle à ignorer. |
