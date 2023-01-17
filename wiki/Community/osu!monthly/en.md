@@ -2,7 +2,7 @@
 
 **osu!monthly** is a monthly newsletter managed by the [osu!monthly Team](/wiki/People/osu!monthly_Team), with the goal of summarising the various community and official events, news, announcements, etc. that occur every month. The project has been led by several other groups of community members in the past, with the goal always being the same: inform the average player about the previous and current events in order to shed light over the entire osu! community.
 
-## Becoming an osu!monthly contributor
+## Becoming a contributor
 
 osu!monthly is a community effort with many people contributing to its creation. Anyone that wants to help or contribute, in ways such as writing, sharing opinions and thoughts, or providing feedback, is always welcome to do so. The [osu!monthly Team](/wiki/People/osu!monthly_Team) consists of such contributors who consistently help out with the project.
 
@@ -10,11 +10,11 @@ All discussion and project organisation takes place in the `#osu-news` channel o
 
 ## History
 
-The original run of osu!monthly created by [jjrocks](https://osu.ppy.sh/users/30985), [Corin](https://osu.ppy.sh/users/639270), and friends ran from March 2011 to October 2011. The magazine was then released in a `.pdf` format with all the most important information about the osu! community.
+The original run of osu!monthly created by [jjrocks](https://osu.ppy.sh/users/30985), [Corin](https://osu.ppy.sh/users/639270), and friends ran from March 2011 to October 2011. The magazine was then released in a PDF format with all the most important information about the osu! community.
 
-Inspired by the first version of the osu!monthly, a new team was formed thanks to [mangomizer](https://osu.ppy.sh/users/1893718) and [clayton](https://osu.ppy.sh/users/3666350) and new iterations of the monthly could be published from October 2017 to February 2018. The format was still `.pdf` at the time, but with a more consistent and pleasing design.
+Inspired by the first version of the osu!monthly, a new team was formed, thanks to [mangomizer](https://osu.ppy.sh/users/1893718) and [clayton](https://osu.ppy.sh/users/3666350), and new iterations of the monthly could be published from October 2017 to February 2018. The format was still PDF at the time, but with more consistent and pleasing design.
 
-With a desire to once again revive this project, the [osu!monthly Team](/wiki/People/osu!monthly_Team) was formed with [0x84f](https://osu.ppy.sh/users/7944724) at the helm, and relaunched the project this time directly as news posts, and not by `.pdf`. The project is currently ongoing.
+With a desire to once again revive this project, the [osu!monthly team](/wiki/People/osu!monthly_Team) was formed with [0x84f](https://osu.ppy.sh/users/7944724) at the helm, and relaunched the project, this time directly as news posts. The project is currently ongoing.
 
 ## Archives
 
@@ -29,9 +29,9 @@ With a desire to once again revive this project, the [osu!monthly Team](/wiki/Pe
 | [osu!monthly #5](https://osumonthly.com/pdf/osu!monthly-1.pdf) | 2011-08-15 |
 | [osu!monthly #6](https://osumonthly.com/pdf/osu!monthly-1.pdf) | 2011-10-27 |
 
-More information can be found on the first version of the osu!monthly, check out [JJ's website](https://web.archive.org/web/20201112030400/http://jjwanda.com/projects/osumonthly.html)!
+More information about the first version of the osu!monthly may be found on [JJ's website](https://web.archive.org/web/20201112030400/http://jjwanda.com/projects/osumonthly.html).
 
-### Season 2 (2017 - 2018)
+### Season 2 (2017–2018)
 
 | Name | Date of publication |
 | :-- | :-- |
@@ -39,9 +39,9 @@ More information can be found on the first version of the osu!monthly, check out
 | [osu!monthly #2](https://osumonthly.com/pdf/osu!monthly-2017-11.pdf) | 2017-12-26 |
 | [osu!monthly #3](https://osumonthly.com/pdf/osu!monthly-2018-02.pdf) | 2018-02-17 |
 
-More information can be found on the second version of the osu!monthly, an official [website](https://osumonthly.com/) was also created at that time to list the team and archive the productions of the osu!monthly teams, so check it out!
+More information about the second version of the osu!monthly may be found on [the official website](https://osumonthly.com/), which also contains the team listing and production archives.
 
-### Season 3 (2022 - present)
+### Season 3 (2022–present)
 
 | Name | Date of publication |
 | :-- | :-- |

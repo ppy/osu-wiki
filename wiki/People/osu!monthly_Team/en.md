@@ -8,7 +8,7 @@ The contributors of [osu!monthly](/wiki/Community/osu!monthly) are active player
 
 ### Main contributors
 
-The people listed below are the core of the osu!monthly Team and participate every month in the production of the news post.
+The people listed below are the core of the osu!monthly Team and participate every month in the production of the news posts.
 
 | Name | Role |
 | :-- | :-- |
@@ -34,7 +34,7 @@ The people listed below remain vital to the osu!monthly even if they do not writ
 
 ## Notes
 
-[^task-taiko]: Mainly handles writing osu!taiko-related sections
-[^task-mania]: Mainly handles writing osu!mania-related sections
-[^task-catch]: Mainly handles writing osu!catch-related sections
+[^task-taiko]: Responsible for osu!taiko sections
+[^task-mania]: Responsible for osu!mania sections
+[^task-catch]: Responsible for osu!catch sections
 [^task-Tanza3D]: Creates the osu!monthly banners
