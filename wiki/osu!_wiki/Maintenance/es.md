@@ -10,7 +10,6 @@ Este artículo describe aspectos técnicos o administrativos de la osu! wiki. Ta
 
 Los administradores son personas con [acceso de colaborador](https://docs.github.com/es/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-personal-account-settings/permission-levels-for-a-personal-account-repository#collaborator-access-for-a-repository-owned-by-a-personal-account) al [repositorio `ppy/osu-wiki`](https://github.com/ppy/osu-wiki/), donde se almacenan todos los artículos y publicaciones de noticias. Pueden clasificar y etiquetar problemas, administrar solicitudes de cambios abiertas y tomar decisiones con respecto al presente y futuro de la osu! wiki.
 
-
 Los mantenedores realizan la revisión final de las solicitudes de cambios y las fusionan. Si tiene una contribución que necesita atención, pregúntele a uno de ellos en el canal `#osu-wiki`.
 
 ## Detalles técnicos
