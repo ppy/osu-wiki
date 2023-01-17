@@ -16,7 +16,7 @@ Los mantenedores realizan la revisión final de las solicitudes de cambios y las
 
 ### Rastreador de problemas
 
-El [rastreador de problemas](https://github.com/ppy/osu-wiki/issues) de la osu! wiki contiene ideas y solicitudes de posibles mejoras, tanto para los artículos en sí como para las partes del sitio web relacionadas con la wiki. Abra un problema si tiene una solicitud de función o si encontró un error en una de las páginas. enga en cuenta que **esto solo se limita a la osu! wiki**, si necesita ayuda con otros proyectos oficiales relacionados con osu!, use sus propios rastreadores de problemas:
+El [rastreador de problemas](https://github.com/ppy/osu-wiki/issues) de la osu! wiki contiene ideas y solicitudes de posibles mejoras, tanto para los artículos en sí como para las partes del sitio web relacionadas con la wiki. Abra un problema si tiene una solicitud de función o si encontró un error en una de las páginas. Tenga en cuenta que **esto solo se limita a la osu! wiki**, si necesita ayuda con otros proyectos oficiales relacionados con osu!, use sus propios rastreadores de problemas:
 
 - [osu!(lazer)](https://github.com/ppy/osu)
 - [El sitio web de osu!](https://github.com/ppy/osu-web/)
