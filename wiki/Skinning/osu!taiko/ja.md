@@ -502,6 +502,7 @@ osu!taikoの演奏画面を変えたいときはスキンフォルダ内の`taik
 - ビートマップからの変更ができないのは不具合によるもの
 - [osu!](/wiki/Game_mode/osu!)にも使われる
 - スピナーで1打叩くたびに反時計回りする
+
 ---
 
 `spinner-approachcircle.png`
