@@ -148,10 +148,10 @@ Una de las características clave de cualquier wiki es la conectividad, lo que s
 
 ### Nuevos artículos
 
-osu! es un entorno en constante cambio: la comunidad crea nuevos beatmaps, inventa nuevas formas de autoexpresión y hace otras cosas *nuevas*. Si un determinado evento o término no está cubierto, no dude en escribir un artículo al respecto y contribuir al acervo de conocimiento global. ¿Nuevo torneo o concurso? ¡Nueva característica de osu!? ¿Parte desconocida de la historia? Haga un buen uso de sus agudas habilidades de escritura.
+osu! es un entorno en constante cambio: la comunidad crea nuevos beatmaps, inventa nuevas formas de autoexpresión y hace otras cosas *nuevas*. Si un determinado evento o término no está cubierto, no dude en escribir un artículo al respecto y contribuir al acervo de conocimiento global. ¿Nuevo torneo o concurso? ¿Nueva característica de osu!? ¿Parte desconocida de la historia? Haga un buen uso de sus agudas habilidades de escritura.
 
 ### Actualizaciones
 
-*Para conocer el posible alcance del trabajo, véase: [Lista de TODOs sin seguimiento (inglés)](https://github.com/search?q=TODO+repo%3Appy%2Fosu-wiki+filename%3Aen.md)*
+*Para conocer el posible alcance del trabajo, véase: [Lista de TODO sin seguimiento (inglés)](https://github.com/search?q=TODO+repo%3Appy%2Fosu-wiki+filename%3Aen.md)*
 
 Los artículos existentes también necesitan mantenimiento. Si ha encontrado un error de hecho, o faltan detalles, o si simplemente desea reescribir/ampliar el artículo de acuerdo con la realidad, dé un paso adelante y haga la osu! wiki un lugar mejor. En caso de que el cambio que planee sea lo suficientemente grande o significativo, asegúrese de mencionarlo para su discusión en el canal `#osu-wiki` o [cree un problema de seguimiento](https://github.com/ppy/osu-wiki/issues/new).
