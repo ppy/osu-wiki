@@ -11,9 +11,9 @@ Este artículo describe aspectos técnicos y administrativos de la osu! wiki. Ta
 
 ## Administradores
 
-*Sitio principal: [Lista de administradores de la osu! wiki](/wiki/osu!_wiki/Maintenance/List_of_maintainers)*
+*Sitio principal: [Lista de administradores de la osu! wiki](/wiki/People/osu!_wiki_maintainers)*
 
-Los administradores son personas con [permisos de colaborador](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-user-account-settings/permission-levels-for-a-user-account-repository#collaborator-access-for-a-repository-owned-by-a-user-account) en el [repositorio `ppy/osu-wiki`](https://github.com/ppy/osu-wiki/), donde todos los artículos y noticias son publicados y almacenados. Ellos pueden clasificar y etiquetar problemas, administrar "pull request" y tomar decisiones con respecto al presente y futuro de la osu!wiki.
+Los administradores son personas con [permisos de colaborador](https://docs.github.com/es/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-personal-account-settings/permission-levels-for-a-personal-account-repository#collaborator-access-for-a-repository-owned-by-a-personal-account) en el [repositorio `ppy/osu-wiki`](https://github.com/ppy/osu-wiki/), donde todos los artículos y noticias son publicados y almacenados. Ellos pueden clasificar y etiquetar problemas, administrar "pull request" y tomar decisiones con respecto al presente y futuro de la osu!wiki.
 
 Los administradores llevan a cabo la última revisión de las "pull request" y las unen. Si tu tienes una contribución que necesita atención, puedes preguntarle a uno de ellos en el canal `#osu-wiki`.
 
@@ -49,7 +49,7 @@ Al agregar redirecciones para un artículo nuevo o existente, ten en cuenta que 
 
 ### Integración continua (CI checks)
 
-El repositorio de la osu! wiki usa la [integracion continua](https://docs.github.com/en/actions/guides/about-continuous-integration) (CI) para revisar de manera automatica las 'pull request' entrantes por varios errores comunes. La lista de revisiones esta configurada al archivo [`continuous-integration.yml`](https://github.com/ppy/osu-wiki/blob/master/.github/workflows/continuous-integration.yml).
+El repositorio de la osu! wiki usa la [integracion continua](https://docs.github.com/es/actions/automating-builds-and-tests/about-continuous-integration) (CI) para revisar de manera automatica las 'pull request' entrantes por varios errores comunes. La lista de revisiones esta configurada al archivo [`continuous-integration.yml`](https://github.com/ppy/osu-wiki/blob/master/.github/workflows/continuous-integration.yml).
 
 El archivo [`package.json`](https://github.com/ppy/osu-wiki/blob/master/package.json) lista todos los complementos usados por el CI, de los cuales algunos fueron escritos por los administradores de la osu! wiki.
 

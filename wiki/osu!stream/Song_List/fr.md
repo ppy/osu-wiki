@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 64371c026467a1a6f68b477c908674ffe23da6e2
+---
+
 # Liste des musiques d'osu!stream
 
 *Pour des informations sur le jeu de base, voir : [osu!stream](/wiki/osu!stream)*
