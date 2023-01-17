@@ -4,9 +4,9 @@
 
 ## Becoming a contributor
 
-osu!monthly is a community effort with many people contributing to its creation. Anyone that wants to help or contribute, in ways such as writing, sharing opinions and thoughts, or providing feedback, is always welcome to do so. The [osu!monthly Team](/wiki/People/osu!monthly_Team) consists of such contributors who consistently help out with the project.
+The osu!monthly is a community effort, so anyone who wants to help or contribute is always welcome to do so. All discussion and project organisation takes place in the `#osu-news` channel of the [osu!dev Discord server](/wiki/Community/osu!dev_Discord_server).
 
-All discussion and project organisation takes place in the `#osu-news` channel of the [osu!dev Discord server](/wiki/Community/osu!dev_Discord_server).
+The [osu!monthly Team](/wiki/People/osu!monthly_Team) consists of such contributors who consistently help out with the project.
 
 ## History
 
