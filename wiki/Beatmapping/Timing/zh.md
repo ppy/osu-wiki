@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # 测定时间轴 (Timing)
 
 **测定时间轴 (Timing)** 又称为计时、测轴、测时，是通过测定歌曲每段[计时部分](/wiki/Beatmapping/Timing_section)的位置、[每分钟节拍数 (BPM)](/wiki/Beatmapping/Beats_per_minute)、[拍子记号](/wiki/Music_theory/Time_signature)，来确定歌曲音乐结构的过程。
