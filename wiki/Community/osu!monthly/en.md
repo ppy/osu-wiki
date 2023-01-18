@@ -1,12 +1,10 @@
 # osu!monthly
 
-**osu!monthly** is a monthly newsletter managed by the [osu!monthly Team](/wiki/People/osu!monthly_Team), with the goal of summarising the various community and official events, news, announcements, etc. that occur every month. The project has been led by several other groups of community members in the past, with the goal always being the same: inform the average player about the previous and current events in order to shed light over the entire osu! community.
+**osu!monthly** is a monthly newsletter managed by the [osu!monthly team](/wiki/People/osu!monthly_Team), with the goal of summarising the various community and official events, news, announcements, etc. that occur every month. The project has been led by several other groups of community members in the past, with the goal always being the same: inform the average player about the previous and current events in order to shed light over the entire osu! community.
 
 ## Becoming a contributor
 
 The osu!monthly is a community effort, so anyone who wants to help or contribute is always welcome to do so. All discussion and project organisation takes place in the `#osu-news` channel of the [osu!dev Discord server](/wiki/Community/osu!dev_Discord_server).
-
-The [osu!monthly Team](/wiki/People/osu!monthly_Team) consists of such contributors who consistently help out with the project.
 
 ## History
 
