@@ -20,8 +20,8 @@ Wenn du ein Gast bist, stehen dir diese Optionen zur Verfügung:
 
 | Name | Beschreibung | Typ | Standardwert |
 | :-- | :-- | :-- | :-- |
-| `Benutzername` | Gebe deinen Benutzernamen an. | Text | *(leer)* |
-| `Passwort` | Gebe dein Passwort an. | Passwort | *(leer)* |
+| `Benutzername` | Gib deinen Benutzernamen an. | Text | *(leer)* |
+| `Passwort` | Gib dein Passwort an. | Passwort | *(leer)* |
 | `Benutzername speichern` | Sofern angekreuzt, wird der Spiel-Client den eingegebenen Benutzernamen speichern. | Checkbox | `Aktiviert` |
 | `Passwort speichern` | Sofern angekreuzt, wird der Spiel-Client das eingegebene Passwort speichern. Dadurch bleibst du eingeloggt. | Checkbox | `Deaktiviert` |
 | `Einloggen` | Logge dich mit den angegebenen Anmeldedaten bei osu! ein. Das Drücken von `Enter` im Benutzernamen- oder Passwortfeld funktioniert ebenfalls. | Button |  |
