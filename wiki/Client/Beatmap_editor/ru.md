@@ -1,6 +1,6 @@
 # Редактор карт
 
-![Скриншот вкладки Compose, показывающий карту от pishifat на песню Donor Song](img/compose.jpg)
+![Скриншот вкладки Compose с открытой картой от pishifat на песню Donor Song](img/compose.jpg)
 
 *Список горячих клавиш редактора см. тут: [Горячие клавиши § Редактор карт](/wiki/Client/Keyboard_shortcuts#beatmap-editor)*
 
