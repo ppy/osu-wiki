@@ -10,20 +10,46 @@ A **judgement** (a.k.a. **hit result**) is the outcome of interacting with a [hi
 | ![](/wiki/shared/judgement/osu!taiko/taiko-hit100k.png) ![](/wiki/shared/judgement/osu!taiko/taiko-hit100.png) | OK | 100 | 50% | `120 - 8 * OD` if OD <= 5, and `110 - 6 * OD` if OD >= 5 |
 | ![](/wiki/shared/judgement/osu!taiko/taiko-hit0.png) | MISS | 0 | 0% | `135 - 8 * OD` if OD <= 5, and `120 - 5 * OD` if OD >= 5 |
 
-The hit window depends on the beatmap's [overall difficulty (OD)](/wiki/Beatmap/Overall_difficulty). A hit is then considered inside a hit window if `hit error < max hit error`, meaning the value listed is half of the hit window width.
+The hit window depends on the beatmap's [overall difficulty (OD)](/wiki/Beatmap/Overall_difficulty). A hit is then considered inside a hit window if `hit error < max hit error`, meaning the value listed is half of the hit window width. The MISS window by exception compares `hit error <= max hit error` instead.
 
-The hit error and max hit error values are rounded to the nearest integer, meaning the window is effectively 0.5 ms shorter on both sides than what the formulas suggest. The MISS window by exception is 0.5 ms longer on both sides, because it compares `hit error <= max hit error` instead.
+The hit error is rounded and the max hit error values are truncated to the nearest integer, meaning the windows may be up to 0.5 ms longer or shorter on both sides than what the formulas suggest.
 
 ## Judgement mechanics
 
 ### Small/large notes
 
-Small and large notes are judged with a GREAT, OK, or MISS depending on how accurately they are hit. Hitting a note before the MISS window has no effect, and not hitting a note will cause a MISS after the Meh window passes. Hitting the wrong key for the colour of the note will also cause a MISS.
+Small and large notes are judged with a GREAT, OK, or MISS depending on how accurately they are hit. Hitting a note before the MISS window has no effect, and not hitting a note will cause a MISS after the MEH window passes. Hitting the wrong key for the colour of the note will also cause a MISS.
+
+Large notes may be hit with two keys of the correct colour at the same time (within less than 30 ms of each other) for double the score.
 
 ### Drum rolls
 
-Drum rolls give 300 score (600 during Kiai time) per correctly timed hit on a drum roll tick.<!-- TODO: what is the hit window for one of these? -->
+Drum rolls give 300 score (360 during Kiai time) while large drum rolls give 720 score (864 during Kiai time), per correctly timed drum roll tick.
+
+Hitting too quickly or too slowly will prevent the ticks from being collected. The bounds are roughly hitting twice as fast as ticks appear and hitting slower than every 5th tick.
+
+With [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) enabled, drum rolls also give judgements depending on how many ticks are hit:
+
+| Judgement | Requirement |
+| GREAT | Ticks hit >= amount of ticks * (`0.3` if OD <= 6, otherwise `0.1 + OD / 30`) |
+| OK | At least one tick hit |
+| MISS | Anything else |
 
 ### Swells
 
-Swells give 300 score per hit, as well as a GREAT judgement on the last hit. Failing to complete the required amount of hits results in a [health](/wiki/Gameplay/Health) punishment, but does not give a MISS.
+Swells give 300 score per hit. Failing to complete the required amount of hits results in a [health](/wiki/Gameplay/Health) punishment, but they do not give judgements.
+
+With [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) enabled, swells give judgements depending on how many times they are hit:
+
+| Judgement | Required hits |
+| GREAT | 100% |
+| OK | 50% |
+| MISS | 0% |
+
+## ScoreV2
+
+The [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) mod changes a few things about osu!taiko judgement mechanics:
+
+- Drum roll drum speed restrictions are lifted.
+- Drum rolls give judgements depending on how many ticks are hit.
+- Swells give judgements depending on how many times they are hit.
