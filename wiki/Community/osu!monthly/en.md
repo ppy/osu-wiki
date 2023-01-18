@@ -23,11 +23,11 @@ With a desire to once again revive this project, the [osu!monthly team](/wiki/Pe
 | Name | Date of publication |
 | :-- | :-- |
 | [osu!monthly #1](https://osumonthly.com/pdf/osu!monthly-1.pdf) | 2011-03-05 |
-| [osu!monthly #2](https://osumonthly.com/pdf/osu!monthly-1.pdf) | 2011-05-06 |
-| [osu!monthly #3](https://osumonthly.com/pdf/osu!monthly-1.pdf) | 2011-06-07 |
-| [osu!monthly #4](https://osumonthly.com/pdf/osu!monthly-1.pdf) | 2011-07-07 |
-| [osu!monthly #5](https://osumonthly.com/pdf/osu!monthly-1.pdf) | 2011-08-15 |
-| [osu!monthly #6](https://osumonthly.com/pdf/osu!monthly-1.pdf) | 2011-10-27 |
+| [osu!monthly #2](https://osumonthly.com/pdf/osu!monthly-2.pdf) | 2011-05-06 |
+| [osu!monthly #3](https://osumonthly.com/pdf/osu!monthly-3.pdf) | 2011-06-07 |
+| [osu!monthly #4](https://osumonthly.com/pdf/osu!monthly-4.pdf) | 2011-07-07 |
+| [osu!monthly #5](https://osumonthly.com/pdf/osu!monthly-5.pdf) | 2011-08-15 |
+| [osu!monthly #6](https://osumonthly.com/pdf/osu!monthly-6.pdf) | 2011-10-27 |
 
 More information about the first version of the osu!monthly may be found on [JJ's website](https://web.archive.org/web/20201112030400/http://jjwanda.com/projects/osumonthly.html).
 
