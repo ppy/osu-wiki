@@ -1,6 +1,6 @@
-# osu!monthly Team
+# osu!monthly team
 
-The **osu!monthly Team** manages the [osu!monthly](/wiki/Community/osu!monthly) newsletter.
+The **osu!monthly team** manages the [osu!monthly](/wiki/Community/osu!monthly) newsletter.
 
 The contributors of [osu!monthly](/wiki/Community/osu!monthly) are active players in the community, keeping track of what is going on each month and curating the content to be included in each issue.
 
@@ -8,7 +8,7 @@ The contributors of [osu!monthly](/wiki/Community/osu!monthly) are active player
 
 ### Main contributors
 
-The people listed below are the core of the osu!monthly Team and participate every month in the production of the news posts.
+The people listed below are the core of the osu!monthly team and participate every month in the production of the news posts.
 
 | Name | Role |
 | :-- | :-- |
