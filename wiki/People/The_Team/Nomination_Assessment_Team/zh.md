@@ -83,20 +83,19 @@ outdated_translation: true
 
 | 名字 | 语言 | 小组 |
 | :-- | :-- | :-- |
-| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | | 顾问[^task-mo] |
+| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) |  | 顾问[^task-mo] |
 | ::{ flag=SG }:: [achyoo](https://osu.ppy.sh/users/7823498) | 汉语 | 评估者 |
-| ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) | | 评估者 |
+| ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) |  | 评估者 |
 | ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | 白俄罗斯语，俄语 | 评估者 |
 | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | 粤语，汉语 | 评估者 |
-| ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) | | 评估者 |
+| ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | 评估者 |
 | ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | 汉语 | 评估者 |
 | ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | 德语 | 评估者 |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | 瑞典语 | 顾问[^task-naxess] |
-| ::{ flag=GB }:: [NexusQI](https://osu.ppy.sh/users/13822800) | | 评估者 |
-| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | | 顾问[^task-pishifat] |
-| ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) | | 评估者 |
+| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | 顾问[^task-pishifat] |
+| ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | 评估者 |
 | ::{ flag=AT }:: [Stixy](https://osu.ppy.sh/users/9000308) | 德语，塞尔维亚语 | 评估者 |
-| ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) | | 顾问[^task-uberfazz] |
+| ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) |  | 顾问[^task-uberfazz] |
 | ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | 荷兰语 | 评估者 |
 | ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | 波兰语 | 评估者 |
 
@@ -105,10 +104,10 @@ outdated_translation: true
 | 名字 | 语言 | 小组 |
 | :-- | :-- | :-- |
 | ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | 德语 | 评估者 |
-| ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | 乌尔都语，一些阿拉伯语 | 评估者 |
+| ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | 乌尔都语，一部分阿拉伯语 | 评估者 |
 | ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733) | 粤语，汉语 | 评估者 |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | 阿拉伯语，法语，一些意大利语 | 评估者 |
-| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | | 评估者 |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | 阿拉伯语，法语，一部分意大利语 | 评估者 |
+| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | 评估者 |
 
 ### osu!catch
 
@@ -116,7 +115,7 @@ outdated_translation: true
 | :-- | :-- | :-- |
 | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | 西班牙语，德语 | 评估者 |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | 荷兰语 | 评估者 |
-| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) | | 评估者 |
+| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  | 评估者 |
 
 ### osu!mania
 
@@ -125,8 +124,7 @@ outdated_translation: true
 | ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229) | 汉语 | 评估者 |
 | ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | 越南语 | 评估者 |
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | 印度尼西亚语 | 评估者 |
-| ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | 西班牙语，葡萄牙语，加利西亚语，意大利语，日语 | 评估者 |
-| ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872) | | 评估者 |
+| ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872) |  | 评估者 |
 
 ## 备注
 

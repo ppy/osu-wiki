@@ -71,7 +71,7 @@ Ranking ist der Prozess eine Beatmap auf einer Rangliste darzustellen und die Be
 
 # Regeln und Jura
 
-Lese über die Prozeduren und Kontrollen, die osu! und seine Community schützen; von Musiklizenzierung und Medienrichtlinien bis hin zu Chat- und Forumregeln.
+Lies über die Prozeduren und Kontrollen, die osu! und seine Community schützen; von Musiklizenzierung und Medienrichtlinien bis hin zu Chat- und Forumregeln.
 
 [Regeln](/wiki/Rules) • [Verhaltenskodex für Mitwirkende](/wiki/Contributor_Code_of_Conduct) • [Verhaltenskodex für das Modding und Mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)
 
