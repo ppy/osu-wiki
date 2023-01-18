@@ -2,7 +2,7 @@
 
 ![Gameplay of osu!taiko](/wiki/shared/taiko-gameplay.jpg "osu!taikoインターフェイス")
 
-osu!taikoとは日本のリズムゲーム[太鼓の達人]([https://en.wikipedia.org/wiki/Taiko_no_Tatsujin](https://ja.wikipedia.org/wiki/%E5%A4%AA%E9%BC%93%E3%81%AE%E9%81%94%E4%BA%BA))から*いくつか* 要素をもらってできたosu!のモードである。
+osu!taikoとは日本のリズムゲーム[太鼓の達人](https://ja.wikipedia.org/wiki/%E5%A4%AA%E9%BC%93%E3%81%AE%E9%81%94%E4%BA%BA)から*いくつか* 要素をもらってできたosu!のモードである。
 
 ## ![](/wiki/shared/mode/taiko.png) ゲームプレイ
 
