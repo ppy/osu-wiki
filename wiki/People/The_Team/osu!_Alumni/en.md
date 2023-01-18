@@ -182,6 +182,7 @@ The [osu! Alumni group page](https://osu.ppy.sh/groups/16) lists all of the memb
 | ::{ flag=HK }:: [Pokie](https://osu.ppy.sh/users/207340) | BAT |
 | ::{ flag=CN }:: [popner](https://osu.ppy.sh/users/759860) | BAT |
 | ::{ flag=MY }:: [PROGUY](https://osu.ppy.sh/users/528181) | QAT |
+| ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | NAT |
 | ::{ flag=SE }:: [PuffBuck](https://osu.ppy.sh/users/4234525) | Tournament Management |
 | ::{ flag=ES }:: [Raiden](https://osu.ppy.sh/users/2239480) | GMT, QAT |
 | ::{ flag=GB }:: [RandomJibberish](https://osu.ppy.sh/users/157879) | BAT |

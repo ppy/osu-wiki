@@ -6,6 +6,8 @@ tags:
   - chat mod
   - moderador
   - moderadores
+outdated_translation: true
+outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 ---
 
 # Equipo de Moderación Global
@@ -62,10 +64,10 @@ La [página del grupo del Equipo de Moderacion Global](https://osu.ppy.sh/groups
 | ::{ flag=HU }:: [[ Another ]](https://osu.ppy.sh/users/3416573) | Húngaro | Moderación del chat |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Ruso | Moderación del chat |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | Moderación del foro |
-| ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | Gestor de torneos |
+| ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | Gestión de torneos |
 | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419) | Chino, malayo | Moderación del chat |
 | ::{ flag=US }:: [Chaos](https://osu.ppy.sh/users/2628870) |  | Moderación del chat |
-| ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | Sueco, español | Moderación del chat, gestor de torneos |
+| ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | Sueco, español | Moderación del chat, gestión de torneos |
 | ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) |  | Moderación del chat |
 | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107) | Coreano, japonés | Moderación del chat |
 | ::{ flag=AR }:: [Darksonic](https://osu.ppy.sh/users/570042) | Español | Moderación del chat, moderación del foro |
@@ -85,11 +87,11 @@ La [página del grupo del Equipo de Moderacion Global](https://osu.ppy.sh/groups
 | ::{ flag=RU }:: [Kudou Chitose](https://osu.ppy.sh/users/9936528) | Ruso | Moderación del chat |
 | ::{ flag=RU }:: [Kyubey](https://osu.ppy.sh/users/2195646) | Ruso | Moderación del chat |
 | ::{ flag=FI }:: [Laurakko](https://osu.ppy.sh/users/7253731) | Finés | Moderación del chat |
-| ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | Portugués, español | Moderación del chat, gestor de torneos |
+| ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | Portugués, español | Moderación del chat, gestión de torneos |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Alemán | Moderación de la comunidad de mapping/modding |
-| ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | Cantonés, chino | Gestor de torneos |
+| ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | Cantonés, chino | Gestión de torneos |
 | ::{ flag=BR }:: [Maot](https://osu.ppy.sh/users/3914271) | Portugués | Moderación de la comunidad de mapping/modding |
-| ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) |  | Desarrollador de osu! |
+| ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) |  | Desarrollo de osu! |
 | ::{ flag=VN }:: [My Angel Chino](https://osu.ppy.sh/users/20547597) | Vietnamita | Moderación del chat |
 | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Filipino | Moderación del chat, moderación del foro, soporte técnico |
 | ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) |  | Moderación de la comunidad de mapping/modding |
@@ -101,7 +103,7 @@ La [página del grupo del Equipo de Moderacion Global](https://osu.ppy.sh/groups
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | Alemán, serbio | Moderación del chat, moderación de la comunidad de mapping/modding |
 | ::{ flag=PH }:: [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Filipino | Moderación del chat |
 | ::{ flag=XX }:: [osu!team](https://osu.ppy.sh/users/4341397) |  | Presencia oficial del equipo |
-| ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | Alemán | Gestor de torneos |
+| ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) | Alemán | Gestión de torneos |
 | ::{ flag=FR }:: [Pachiru](https://osu.ppy.sh/users/2850983) | Francés, algo de español | Moderación del chat |
 | ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) | Cantonés, chino | Moderación del chat |
 | ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369) | Coreano, japonés | Moderación del chat |
