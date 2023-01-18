@@ -1,52 +1,56 @@
 # 测定时间轴 (Timing)
 
-**测定时间轴 (Timing)** 是通过测定歌曲的[曲速 (BPM)](/wiki/Beatmapping/Beats_per_minute)、一个或多个[偏移量 (Offsets)](/wiki/Disambiguation/Offset)、[拍子记号](/wiki/Music_theory/Time_signature)，来确定歌曲音乐结构的过程。Timing 这个词有时也指代以上这些设置（时间轴参数）。
+**测定时间轴 (Timing)** 又称为计时、测轴、测时，是通过测定歌曲每段[计时部分](/wiki/Beatmapping/Timing_section)的位置、[每分钟节拍数 (BPM)](/wiki/Beatmapping/Beats_per_minute)、[拍子记号](/wiki/Music_theory/Time_signature)，来确定歌曲音乐结构的过程。
 
-时间轴提供了一个[类似标尺的布局](/wiki/Client/Beatmap_editor/Timelines#timing)，可以用于按照一定的[节拍细分](/wiki/Beatmapping/Snapping)，确定[打击物件](/wiki/Gameplay/Hit_object)应出现的时间点。这有助于谱师和玩家按照歌曲的乐理来作图。此外，时间轴还能控制以下几点效果：
+谱面编辑器提供了[时间轴 (Timing) 设定](/wiki/Client/Beatmap_editor/Timing)，用于放置[打击物件](/wiki/Gameplay/Hit_object)的时间轴也显示为一个[类似标尺的布局](/wiki/Client/Beatmap_editor/Timelines#timing)。当谱师放置物件时，它们会[对齐](/wiki/Beatmapping/Snapping)到时间轴的标线，即[小节](/wiki/Music_theory/Measure)细分线上。这保证物件能轻松地对齐歌曲里存在的音符。
 
-- 控制在主菜单和[选歌界面](/wiki/Client/Interface#选歌界面)出现的，[osu! 粉饼](/wiki/Client/Interface/Cookie)的心跳效果
+此外，时间轴还能控制以下几点效果：
+
+- 控制在主菜单和[选歌界面](/wiki/Client/Interface#选歌界面)出现的，[osu! 粉饼](/wiki/Client/Interface/Cookie)的心跳效果（以及随着节拍展示的其他主菜单显示效果）
 - 控制 [Kiai 时间](/wiki/Gameplay/Kiai_time)内打击物件的闪烁效果
-- 使用 [Nightcore](/wiki/Gameplay/Game_modifier/Nightcore) 模组时，给音乐添加动次打次音效
+- 使用 [Nightcore](/wiki/Gameplay/Game_modifier/Nightcore) 模组时，给音乐添加鼓轨道音效
 - 控制 [osu!taiko](/wiki/Game_mode/osu!taiko) 和 [osu!mania](/wiki/Game_mode/osu!mania) 模式的小节线
 
-时间轴反映了**指定歌曲的部分特征**。如果更换或者修改了歌曲文件，影响了波形，此时可能会影响到原先测定好的时间轴。所以建议先按照[谱面上架标准 (RC)](/wiki/Ranking_Criteria#音频) 来处理将用于作图的歌曲文件，再测量歌曲的时间轴。
+时间轴反映了*它所确定的歌曲文件的部分特征*。如果更换或者修改了歌曲文件，影响了波形，此时就可能会影响到原先已经测定好的时间轴。所以，建议先按照[谱面上架标准 (RC)](/wiki/Ranking_Criteria#音频) 来处理将用于作图的歌曲文件，再测量歌曲的时间轴。
 
 ## 歌曲结构
 
 *主页面：[乐理](/wiki/Music_theory)*
 
-大多数歌曲遵循一定的乐理，节拍和旋律会按照特定的节奏重复播放。此时就可以基于它，用时间轴记录下这些特征。
+几乎所有歌曲都可以按照不同的节拍来分段。测定时间轴 (Timing) 的目标是将它们划分好，从而为制作谱面创造先决条件。在论述测定时间轴的过程前，先了解音乐理论中的一些概念将会很有帮助。
 
-- 歌曲的[节拍](/wiki/Music_theory/Beat)，通常描述为歌曲的基础音符（四分音符）。对于其他时值的音符，常用分数和倍数来描述。
-- [小节](/wiki/Music_theory/Measure)，通常含有规定拍数的音符，并在歌曲中重复出现。通常地，歌曲的小节第一拍会被强调，称之为[下拍](/wiki/Music_theory/Downbeat)。
-- [拍子记号](/wiki/Music_theory/Time_signature)展示了一个小节中含有多少个节拍（四分音符）。
-- [每分钟节拍数 (BPM)](/wiki/Music_theory/Tempo) 通常用于描述歌曲曲速。
+- [节拍](/wiki/Music_theory/Beat)是节奏的基本单位，通常对应着四分音符。对于其他时值的音符，常用分数和倍数来描述。
+- [小节](/wiki/Music_theory/Measure)，一般含有固定数量的节拍，并在歌曲中重复出现。通常地，歌曲的小节第一拍会被强调，称之为[下拍](/wiki/Music_theory/Downbeat)。
+- [拍子记号](/wiki/Music_theory/Time_signature)表明了一个小节中含有多少拍（多少个四分音符）。
+- [曲速](/wiki/Music_theory/Tempo)即歌曲的速度，通常用每分钟节拍数 (BPM) 来估定。
 
-## 测定歌曲时间轴
+## 测定流程
 
 *主页面：[如何测定歌曲时间轴 (Timing)](/wiki/Guides/How_to_Time_Songs)*\
 *参见：[谱面编辑器——测定时间轴标签页](/wiki/Client/Beatmap_editor/Timing)*
 
 ### 单红线
 
-[非继承时间点（红线）的偏移量 (Offset)](/wiki/Beatmapping/Offset) 确定了从歌曲开始到第一个下拍播放的毫秒数。这个偏移量将作为开头，并用于计算其他节拍出现的时间位置。通常来说，对于现代制作的数字化音频，只需要一根非继承时间点（红线），就可以作为最终测好的时间轴来使用了。
+歌曲文件的开头位置，与歌曲第一个下拍的位置之间的时间，称为偏移量 (offset)。它通常也是第一根红线的位置，osu! 会利用它来推算出其他节拍的位置。使用一根红线通常就能满足无缝衔接或是使用现代数字制作的歌曲。它们没有变奏和变拍，也没有重置重音<!-- TODO: link -->。
 
-谱师通常依靠自己的乐感，来确定歌曲的基本节奏结构，并验证其是否准确。为了做到这一点，谱师们会仔细听类似的重复声音，并按照声音出现的时间有节奏敲击 `T` 键或节拍器按钮。注意，这能给 osu! 提供计算[曲速 (BPM)](/wiki/Beatmapping/Beats_per_minute) 的必要信息。之后如有必要，还可以测试和精调时间轴：
+在[测定时间轴标签页](/wiki/Client/Beatmap_editor/Timing)，跟着歌曲节拍点击 `T` 键或节拍器按钮，能让 osu! 测定出大致的 BPM。可以手动调整这个值，来确保时间轴完美贴合歌曲。还有几件事需要注意：
 
-- 将含有小数，可能有误差的 BPM 四舍五入为整数；
-- 需要调节偏移量，将红线[移动到](/wiki/Guides/Setting_the_Offset_on_the_Correct_Beat)歌曲第一个下拍播放的位置。
+- 几乎没有歌曲使用含有小数的 BPM。如果手动测量出过于细化的值，则它很可能不准确。
+- 根据[谱面上架标准 (RC)](/wiki/Ranking_Criteria#时间轴)，偏移量[必须处于歌曲第一个下拍的位置](/wiki/Guides/Setting_the_Offset_on_the_Correct_Beat)。
 
 ### 多红线
 
-![](img/complex-timing.png "一个含有复杂时间轴的谱面例子：由 Lan wings 制作的\"MiddleIsland — Roze\"，使用了近 300 根红线来贴合 3 分钟的钢琴曲。")
+![](img/complex-timing.png "一个含有复杂时间轴的谱面例子：由 Lan wings 制作的 MiddleIsland — Roze，使用了近 300 根红线来贴合 3 分钟，含有钢琴和小提琴演奏的歌曲。")
 
-如果歌曲需要多个非继承时间点（红线）来贴合，那么谱面也能拥有多根红线。
+部分歌曲的特点是拥有多变的节奏（变奏曲）。使用它们制作的谱面时间轴将含有多个偏移值 (offset)。含有多个 BPM，但是段落分明的歌曲称为**多 BPM 歌曲**，而曲速逐渐变化的歌曲称为**变 BPM 歌曲**。为前者测定时间轴，需要的红线较少，而后者则需要几十上百根红线。
 
-通常情况下，可能是因为一首歌内含有不同的曲速 (BPM)。变速的地方可能比较突然，并且很好识别。此时，再加一根红线通常就足够了。除此之外，如果歌曲的曲速 (BPM) 不断按一定的规律变化，则谱师需要按着这种变化，添加成百上千根红线。
+在没有使用节拍器时，混音或演奏的歌曲的时间轴通常会出现曲速差异、随机的节奏变化、音符漂移等情况。这通常是因为艺术家为了表达某些艺术效果刻意为之，或是人为错误导致。当测定这一类歌曲的时间轴时，需要考虑到这一点。然而，这是一项艰巨的任务——除非你有丰富的经验，否则最好不要使用这些歌曲作图。
 
-不过，部分歌曲的节奏也许不如理想中那样稳定。如果这些歌曲并未按照精确的节奏来录制，或是干脆就没有精确的节奏。录制成的歌曲可能会有随机的曲速浮动、曲速变化等。此时，谱师通常需要添加许多根红线，来描述这些与理想音符相差过远的实际音符。这是一项艰巨的任务——除非你有丰富的经验，否则最好不要使用这些歌曲作图。
+对于完美契合节拍器的单一或复杂节奏歌曲，如果谱面使用简单的时间轴，仍易于游玩，则可忽略小的时间轴错误（比如某个物件对于它所反映的音符，提前或延后几毫秒出现）。或者，也可以使用 Audacity 等程序直接编辑音频文件，对齐音符来纠正时间轴错误。
 
-最后，当歌曲的拍子记号变化时，需要添加新红线。如：歌曲从普通节奏变更为华尔兹舞曲节奏时，通常需要将 4/4 拍调节为 3/4 拍。
+有些歌曲在没有变奏或者变拍时，也可能需要添加新红线，来细微调整偏移值 (offset)。这通常是由于混音时未能准确对齐音符，或是在某个小节中增删了节拍导致的。
+
+最后，当歌曲变拍或是重置了重音的位置时，需要添加新红线。比如：歌曲从普通节奏变更为华尔兹舞曲节奏时，通常需要将 4/4 拍调节为 3/4 拍。或者，变为新节奏的小节提前出现，此时需要另一根新红线来重置重音。
 
 ## 社区求助
 
@@ -56,5 +60,5 @@
 
 ## 参见
 
-- *[测定歌曲时间轴 (Timing) 基础](https://www.youtube.com/watch?v=8nsbrOhLE9w)*：[osu! 学院](/wiki/Community/Video_series/osu!academy) YouTube 系列的一集
-- *[测定歌曲时间轴 (Timing)](https://www.youtube.com/watch?v=xauZuMPgiQw)*：[osu! 作图教程](/wiki/Community/Video_series/osu!mapping) YouTube 系列的一集
+- *[osu! 学院 章节 7-2 - 测定歌曲时间轴 (Timing) 基础](https://www.youtube.com/watch?v=8nsbrOhLE9w)*：[osu! 学院](/wiki/Community/Video_series/osu!academy) YouTube 系列的一集
+- *[osu! 作图：测定歌曲时间轴 (Timing)](https://www.youtube.com/watch?v=xauZuMPgiQw)*：[osu! 作图](/wiki/Community/Video_series/osu!mapping) YouTube 系列的一集
