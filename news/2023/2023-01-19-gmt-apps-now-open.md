@@ -18,7 +18,7 @@ While usually we seek new members in a [process of recommendations and nominatio
 
 Before you apply, though, be sure to take a look through the list of factors regarding your application below:
 
-- **You must be at least 18 years old. This is [NOT negotiable](/legal/Terms#your-responsibilities-in-volunteer-positions).** The GMT role means that you will have to deal with content of inappropriate nature that's not suitable for all ages.
+- **You must be at least 18 years old. This is [NOT negotiable](https://osu.ppy.sh/legal/Terms#your-responsibilities-in-volunteer-positions).** The GMT role means that you will have to deal with content of inappropriate nature that's not suitable for all ages.
 - **Your account must be at least one year old.** This is to ensure you are somewhat familiar with the osu! community at very least.
 - You must be active within the osu! community. While we will not stick to chat or forum activity metrics explicitly (at least when it's not your everyday area of focus), we expect you to be active and engaged in certain communities.
 - If selected, you will need to adhere to the [Contributor Covenant Code of Conduct](/wiki/Rules/Contributor_Code_of_Conduct).
