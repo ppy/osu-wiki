@@ -8,9 +8,9 @@ Been an active community member for a while? Felt an inner urge to chase after s
 
 ![](/wiki/shared/news/banners/gmt-generic.jpg)
 
-It's been over 2 years since the last GMT application cycle, and while some things changed around, one thing remains the same - we may be looking for you!
+It's been over 2 years since the [last GMT application cycle](https://osu.ppy.sh/home/news/2020-10-04-global-moderation-team-applications-open), and while some things changed around, one thing remains the same - we may be looking for you!
 
-The Global Moderation Team is reponsible for keeping the community in a good condition, with a place for every single being. The GMT is covering a handful of niches, most notable ones being in-game chat and forum moderation, let's not ignore the other parts though. The greennamed peers are also there to help moderate osu! subcommunities, such as beatmapping one. The members of the team will also give you assistance with some of your technical issues. The inherent goal for us is to reach closer and closer to the living community.
+The [Global Moderation Team](https://osu.ppy.sh/groups/4) is reponsible for keeping the community in a good condition, with a place for every single being. The GMT is covering a handful of niches, most notable ones being in-game chat and forum moderation, let's not ignore the other parts though. The greennamed peers are also there to help moderate osu! subcommunities, such as beatmapping one. The members of the team will also give you assistance with some of your technical issues. The inherent goal for us is to reach closer and closer to the living community.
 
 That being said, this time we will look not only for chat or forum moderators. If you feel you're a prominent figure in the osu! community and would like to help us with the community moderation side of things, be sure to shoot us an application as well!
 
@@ -23,17 +23,17 @@ Before applying, though, be sure to take a look of a list of factors regarding y
 - You must be active within osu! community. While we will not stick to chat or forums metrics explcitly (at least when it's not your everyday area of focus), we expect you to be active and engaged in certain communities.
 - If selected, you will need to adhere to [Contributor Covenant Code of Conduct](/wiki/Rules/Contributor_Code_of_Conduct).
 
-While we will look into every single application, and we count on you to apply, there are certain areas that require more moderation manpower in particular. We're actively seeking moderators for the following channels: **#arabic, #bulgarian, #czech, #greek, #hebrew, #italian, #romanian, #turkish**.
+While we will look into every single application, and we count on you to apply, there are certain areas that require more moderation manpower in particular. We're actively seeking moderators for the following channels: **`#arabic`, `#bulgarian`, `#czech`, `#greek`, `#hebrew`, `#italian`, `#romanian`, `#turkish`**.
 
-Think we are waiting for you? **[Click here to apply!](https://form-auth.ppy.sh/form/2023-gmt-apps)** After an osu! OAuth verification, you will be able to fill a Google Forms questionnaire, be sure to reserve some time as you will surely need some time to answer the questions we prepared for you!
+Think we are waiting for you? **[Click here to apply!](https://form-auth.ppy.sh/form/2023-gmt-apps)** After authentication, you will be able to fill a Google Forms questionnaire, be sure to reserve some time as you will surely need some time to answer the questions we prepared for you!
 
 The applications will remain open for 2 weeks, closing at **February 2nd, 2023 23:59 UTC+0**.
 
-Please note that we are expecting a significant amount of applications to come in and therefore, it might take us a while to evaluate every single of them. We will reach to promising members in a few weeks from applications close date, so be sure to stay patient!
+Please note that we are expecting a significant amount of applications to come in and therefore, it might take us a while to evaluate every single of them. We will reach to promising members in a few weeks from the close date, so please be patient!
 
 ---
 
-If you have any questions regarding the whole process, be sure to comment it below this newspost, or reach to any of [the Global Moderators](https://osu.ppy.sh/groups/4).
+If you have any questions regarding the whole process, comment it below this newspost, or reach to any of [the Global Moderators](https://osu.ppy.sh/groups/4).
 
 Good luck to everyone participating!
 
