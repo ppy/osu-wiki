@@ -206,7 +206,9 @@ Flooding the game with profile badges dilutes the prestige of the prize for ever
 
 ### Can I request a badge for a beatmap contest or other type of competition? {#contest-support}
 
-Yes! See [Official contest support](/wiki/Contests/Official_support) for details.
+For beatmap contests, yes! See [Official contest support](/wiki/Contests/Official_support) for details.
+
+For other contests, email us and ask personally. We'll try to work something out.
 
 ## Notes
 
