@@ -8,9 +8,9 @@ A contest is eligible for contest points based on how many valid submissions are
 
 | # of submissions | 1st place points | 2nd place points | 3rd place points |
 | :-- | :-- | :-- | :-- |
-| 10-19 | 1 | 0 | 0 |
-| 20-39 | 2 | 1 | 0 |
-| 40+ | 3 | 2 | 1 |
+| 10-24 | 1 | 0 | 0 |
+| 25-49 | 2 | 1 | 0 |
+| 50+ | 3 | 2 | 1 |
 
 ## Leaderboard
 
