@@ -7,9 +7,11 @@ tags:
 
 # Official contest support
 
+*For tournament support, see: [Official tournament support](/wiki/Tournaments/Official_support).*
+
 [Beatmapping contests](/wiki/Contests) are eligible to recieve support from the [osu! team](/wiki/People/The_Team) provided they meet certain criteria.
 
-*For tournament support, see: [Official tournament support](/wiki/Tournaments/Official_support).*
+For other contests, email us at [tournaments@ppy.sh](mailto:tournaments@ppy.sh). We'll try to work something out.
 
 ## Benefits
 
@@ -38,8 +40,8 @@ Contests which abide by the following criteria are eligible for official support
 
 In addition to the criteria above, contests which abide by these rules are eligible for official support for **[contest points](/wiki/Contests/Contest_points) to earn the *Elite Mapper* user title:**
 
-- **The contest must exclusively use songs listed in osu!'s [Featured Artist library](https://osu.ppy.sh/beatmaps/artists).**
-- **The contest must be published on [osu!'s front page news](https://osu.ppy.sh/home/news) and the [contest listing](https://osu.ppy.sh/community/contests).** For credibility of the *Elite Mapper* title, a contest must have maximum visibility.
+- **The contest must exclusively use songs listed in osu!'s [Featured Artist library](https://osu.ppy.sh/beatmaps/artists) or other songs explicitly permitted for use in osu!.**
+- **The contest's initial announcement must be published on [osu!'s front page news](https://osu.ppy.sh/home/news) and the [contest listing](https://osu.ppy.sh/community/contests).** For credibility of the *Elite Mapper* title, a contest must have maximum visibility.
 
 ## Requesting support
 
