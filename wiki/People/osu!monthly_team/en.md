@@ -8,7 +8,7 @@ The contributors of [osu!monthly](/wiki/Community/osu!monthly) are active player
 
 ### Main contributors
 
-The people listed below are the core of the osu!monthly team and participate every month in the production of the news posts.
+The people listed below are the core of the osu!monthly team and participate every month in the production of the news post.
 
 | Name | Role |
 | :-- | :-- |
