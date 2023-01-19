@@ -2,7 +2,7 @@
 
 ![Скриншот вкладки Compose с открытой картой от pishifat на песню Donor Song](img/compose.jpg)
 
-*Список горячих клавиш редактора см. тут: [Горячие клавиши § Редактор карт](/wiki/Client/Keyboard_shortcuts#beatmap-editor)*
+*Список горячих клавиш редактора см. тут: [Горячие клавиши § Редактор карт](/wiki/Client/Keyboard_shortcuts#режим-редактирования-карт)*
 
 **Редактор карт** — внутриигровой компонент osu!, позволяющий создавать [карты](/wiki/Beatmap) (этот процесс называется [маппингом](/wiki/Beatmapping)).
 
@@ -27,7 +27,7 @@
 
 ## Song setup
 
-[Song setup](/wiki/Client/Beatmap_editor/Song_Setup) даёт возможность заполнить [метаданные](/wiki/Client/Beatmap_editor/Song_Setup#song-and-map-metadata) [карты](/wiki/Beatmap) и прочие настройки, которые относятся к ней целиком. Сюда относятся название песни и её исполнителя, название сложности, комбо-цвета и т.д.
+[Song setup](/wiki/Client/Beatmap_editor/Song_Setup) даёт возможность заполнить [метаданные](/wiki/Client/Beatmap_editor/Song_Setup#song-and-map-meta-data) [карты](/wiki/Beatmap) и прочие настройки, которые относятся к ней целиком. Сюда относятся название песни и её исполнителя, название сложности, комбо-цвета и т.д.
 
 ## Прочие компоненты
 
