@@ -64,7 +64,7 @@ tags:
 
 ## osu!catch
 
-在 [osu!catch](/wiki/Game_mode/osu!catch) 模式下，血量会以一个固定的速度流失，这叫做[掉血](/wiki/Beatmapping/Health_drain)。通过接住水果（Fruits/Juice Drops）可以回复血量。
+在 [osu!catch](/wiki/Game_mode/osu!catch) 模式下，血量会以一个固定的速度流失，这叫做[掉血](/wiki/Beatmapping/Health_drain)。通过接住水果（Fruits）和水果串（Juice Drops）可以回复血量。
 
 每成功接住一个水果时，相应的评分会显示出来，根据这个评分，总分和血量也会相应变化。在一串连击的末尾获得 **激** 也会一下回复许多血量。反过来，漏掉水果会扣血。漏掉香蕉（Bananas）不会影响血量。
 
@@ -72,12 +72,12 @@ tags:
 
 血量回复：
 
-- 成功接住一个水果（Fruit）、一串水果（Juice Drop）或者香蕉。
+- 成功接住一个水果、水果串或者香蕉。
 
 血量流失：
 
 - 谱面的自然掉血
-- 漏掉一个或一串水果
+- 漏掉水果或水果串
 
 不影响血量：
 
