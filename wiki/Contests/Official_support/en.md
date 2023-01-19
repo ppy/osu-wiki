@@ -63,4 +63,4 @@ If approved, you will need to submit the following:
 - A list of applicable badge recipients (a.k.a. the winners of your contest).
 - An appropriately designed badge (see profile badge design criteria on the [official tournament support article](/wiki/Tournaments/Official_support#profile-badges)).
 
-In exceptionally rare cases, a contest may be granted the privilege of awarding badges to its top three finalists. A tournament that has received this distinction is recognised for attaining the highest level of production quality and organisation possible — this is given exclusively at the discretion of the osu! team. Hosts will be contacted directly if applicable.
+In exceptionally rare cases, a contest may be granted the privilege of awarding badges to its top three finalists. A contest that has received this distinction is recognised for attaining the highest level of production quality and organisation possible — this is given exclusively at the discretion of the osu! team. Hosts will be contacted directly if applicable.
