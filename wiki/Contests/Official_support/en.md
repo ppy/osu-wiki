@@ -16,7 +16,7 @@ tags:
 Officially supported contests have access to certain benefits:
 
 - **Profile badge prizes for first-place winners.** See profile badge design criteria on the [official tournament support article](/wiki/Tournaments/Official_support#profile-badges).
-- **Progress towards *Elite Mapper* user title.** See [contest points](wiki/Contests/Contest_points) for more details.
+- **Progress towards *Elite Mapper* user title.** See [contest points](/wiki/Contests/Contest_points) for more details.
 
 ## Eligibility
 
@@ -36,7 +36,7 @@ Contests which abide by the following criteria are eligible for official support
 - **Submissions to the contest should be anonymized.** This limits judging bias removing name association between a mapper and their map. If a contest has special circumstances that warrant removing anonymity, this rule may be lifted, but otherwise must be followed.
 - **The contest's organisers must not participate in the contest.** This includes both submitting a map *and* judging submissions. Anyone with access to judging information or un-anonymized submissions is considered a "contest organiser".
 
-In addition to the criteria above, contests which abide by these rules are eligible for official support for **[contest points](wiki/Contests/Contest_points) to earn the *Elite Mapper* user title:**
+In addition to the criteria above, contests which abide by these rules are eligible for official support for **[contest points](/wiki/Contests/Contest_points) to earn the *Elite Mapper* user title:**
 
 - **The contest must exclusively use songs listed in osu!'s [Featured Artist library](https://osu.ppy.sh/beatmaps/artists).**
 - **The contest must be published on [osu!'s front page news](https://osu.ppy.sh/home/news) and the [contest listing](https://osu.ppy.sh/community/contests).** For credibility of the *Elite Mapper* title, a contest must have maximum visibility.
