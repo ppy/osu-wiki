@@ -10,7 +10,7 @@ Been an active community member for a while? Felt an inner urge to chase after s
 
 It's been over 2 years since the [last GMT application cycle](https://osu.ppy.sh/home/news/2020-10-04-global-moderation-team-applications-open), and while some things have changed, one thing remains the same — we may be looking for you!
 
-The [Global Moderation Team](https://osu.ppy.sh/groups/4) is responsible for keeping the community in a good condition, keeping it a welcoming place for everyone. Our green-coloured peers of the GMT not only help moderate the in-game chat and forums, but also engage with the mapping community among others. The members of the team can also give you assistance with some of your technical issues. The inherent goal for is to reach closer and closer to the living community.
+The [Global Moderation Team](https://osu.ppy.sh/groups/4) is responsible for keeping the community in a good condition, keeping it a welcoming place for everyone. Our green-coloured peers of the GMT not only help moderate the in-game chat and forums, but also engage with the mapping community among others. The members of the team can also give you assistance with some of your technical issues. The inherent goal for us to reach closer and closer to the living community.
 
 That being said, this time we will look not only for chat or forum moderators. If you feel you're a prominent figure in the osu! community and would like to help us with the community moderation side of things, be sure to shoot us an application as well!
 
@@ -18,12 +18,12 @@ While usually we seek new members in a [process of recommendations and nominatio
 
 Before you apply, though, be sure to take a look through the list of factors regarding your application below:
 
-- **You must be at least 18 years old. This is NOT negotiable.** The GMT role means that you will have to deal with content of inappropriate nature that's not suitable for all ages.
+- **You must be at least 18 years old. This is [NOT negotiable](/legal/Terms#your-responsibilities-in-volunteer-positions).** The GMT role means that you will have to deal with content of inappropriate nature that's not suitable for all ages.
 - **Your account must be at least one year old.** This is to ensure you are somewhat familiar with the osu! community at very least.
 - You must be active within the osu! community. While we will not stick to chat or forum activity metrics explicitly (at least when it's not your everyday area of focus), we expect you to be active and engaged in certain communities.
 - If selected, you will need to adhere to the [Contributor Covenant Code of Conduct](/wiki/Rules/Contributor_Code_of_Conduct).
 
-While we will look into every single application, and we count on you to apply, there are certain areas that require more moderation manpower in particular. We're actively seeking moderators for the following channels: `#arabic`, `#bulgarian`, `#czech`, `#greek`, `#hebrew`, `#italian`, `#romanian` and `#turkish`.
+While we will look into every single application, and we count on you to apply, there are certain areas that critically require manpower in particular. We're actively seeking moderators for the following channels: `#arabic`, `#bulgarian`, `#czech`, `#greek`, `#hebrew`, `#italian`, `#romanian` and `#turkish`.
 
 What are you waiting for? **[Click here to apply!](https://form-auth.ppy.sh/form/2023-gmt-apps)** After authentication, you will be able to fill a Google Forms questionnaire, so be sure to reserve enough time as you will most likely need some time to answer the questions we've prepared for you!
 
