@@ -11,6 +11,8 @@ The [osu! team](/wiki/People/The_Team) runs a program where they may opt to prov
 
 This article was last updated on January 8, 2023. For any queries and clarifications, please consult the `#tournaments` channel on the [osu!dev Discord server](https://discord.com/invite/ppy) or send an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
+*For beatmapping contest support, see: [Official contest support](/wiki/Contests/Official_support).*
+
 ## Benefits
 
 Officially supported tournaments have access to:
@@ -204,9 +206,7 @@ Flooding the game with profile badges dilutes the prestige of the prize for ever
 
 ### Can I request a badge for a beatmap contest or other type of competition? {#contest-support}
 
-For beatmap contests, yes, just follow the same rules as above. We highly recommend using [Featured Artists](https://osu.ppy.sh/beatmaps/artists) for such contests and will flagrantly give preferential treatment to those who do.
-
-For other contests, email us and ask personally. We'll try to work something out.
+Yes! See [Official contest support](/wiki/Contests/Official_support) for details.
 
 ## Notes
 

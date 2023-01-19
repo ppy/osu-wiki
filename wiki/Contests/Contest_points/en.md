@@ -2,10 +2,15 @@
 
 Contest points are points that are used as a reward in official mapping contests. They are mainly used to determine the eligibility of a user to receive the *Elite Mapper* title, which is awarded to users who have reached 6 points.
 
-Contest points have been used in the following contests:
+## Points key
 
-- [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest)
-- [osu!taiko Featured Artist Cup](/wiki/Contests/o!tFAC)
+A contest is eligible for contest points based on how many valid submissions are created.
+
+| # of submissions | 1st place points | 2nd place points | 3rd place points |
+| :-- | :-- | :-- | :-- |
+| 10-19 | 1 | 0 | 0 |
+| 20-39 | 2 | 1 | 0 |
+| 40+ | 3 | 2 | 1 |
 
 ## Leaderboard
 
@@ -58,6 +63,22 @@ Contest points have been used in the following contests:
 | ::{ flag=TH }:: [rew0825](https://osu.ppy.sh/users/2488026) | 1 |
 | ::{ flag=CA }:: [Unlucky_w](https://osu.ppy.sh/users/4820793) | 1 |
 
+### osu!mania
+
+| User | Points |
+| :-- | :-- |
+| ::{ flag=KR }:: [Kawawa](https://osu.ppy.sh/users/4647754) | 2 |
+| ::{ flag=US }:: [lemonguy](https://osu.ppy.sh/users/4693052) | 1 |
+
+## Previous contests
+
+Contest points have been used in the following contests:
+
+- [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest)
+- [osu!taiko Featured Artist Cup](/wiki/Contests/o!tFAC)
+
 ## History
 
 Prior to October 2022, contest points were exclusive to the [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) and were named *MBC points*. With the introduction of the [osu!taiko Featured Artist Cup #3](https://osu.ppy.sh/home/news/2022-10-23-osutaiko-featured-artist-cup-3), the points were renamed to *contest points* and have been repurposed to be used in other official mapping contests in order to provide a streamlined path to the *Elite Mapper* title.
+
+As of January 2023, contest point eligibility has been outlined based on the [points key](#points-key). Points earned prior to this change will not be adjusted.
