@@ -36,7 +36,7 @@ Contests which abide by the following criteria are eligible for official support
 - **The contest must have at least 5 judges.** Contests with fewer judges allow each judge too much influence on overall results.
 - **A user cannot participate in more than one submission to the contest.**
 - **Submissions to the contest should be anonymised.** This limits judging bias removing name association between a mapper and their map. This rule may be ignored only if a contest has special circumstances that warrant removing anonymity.
-- **The contest's organisers must not participate in the contest.** This includes both submitting a map *and* judging submissions. Anyone with access to judging information or un-anonymised submissions is considered a "contest organiser".
+- **The contest's organisers must not participate in the contest.** This includes both submitting a map *and* judging/screening submissions. Anyone with access to judging/screening information or un-anonymised submissions is considered a "contest organiser".
 
 In addition to the criteria above, contests which abide by these rules are eligible for official support for **[contest points](/wiki/Contests/Contest_points) to earn the *Elite Mapper* user title:**
 
