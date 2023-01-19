@@ -16,7 +16,7 @@ That being said, this time we will look not only for chat or forum moderators. I
 
 While usually we seek new members in a [process of recommendations and nominations](/wiki/People/The_Team/Global_Moderation_Team#becoming-a-moderator), we're also opening applications like this one from time to time to look for fresh blood we might not be otherwise noticing — not everyone is so outspoken and perceptible at the end of the day! While we will still continue using the our classic methods, we believe that reaching out to the community directly is vastly valuable to the team's health.
 
-Before applying, though, be sure to take a look of a list of factors regarding your application below:
+Though, before you apply, be sure to take a look through the list of factors regarding your application below:
 
 - **You must be at least 18 years old. This is NOT negotiable.** The GMT role means that you will have to deal with content of inappropriate nature that's not suitable for all ages.
 - **Your account must be at least one year old.** This is to ensure you are somewhat familiar with the osu! community at very least.
