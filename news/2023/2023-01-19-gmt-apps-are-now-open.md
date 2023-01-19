@@ -10,7 +10,7 @@ Been an active community member for a while? Felt an inner urge to chase after s
 
 It's been over 2 years since the [last GMT application cycle](https://osu.ppy.sh/home/news/2020-10-04-global-moderation-team-applications-open), and while some things have changed, one thing remains the same — we may be looking for you!
 
-The [Global Moderation Team](https://osu.ppy.sh/groups/4) is responsible for keeping the community in a good condition, with a place for every single being. The GMT is covering a handful of niches, most notable ones being in-game chat and forum moderation, let's not ignore the other parts though. The greennamed peers are also there to help moderate osu! sub communities, such as beatmapping one. The members of the team will also give you assistance with some of your technical issues. The inherent goal for us is to reach closer and closer to the living community.
+The [Global Moderation Team](https://osu.ppy.sh/groups/4) is responsible for keeping the community in a good condition, keeping it a welcoming place for everyone. Our green-coloured peers of the GMT not only help moderate the in-game chat and forums, but also engage with the mapping community among others. The members of the team can also give you assistance with some of your technical issues. The inherent goal for is to reach closer and closer to the living community.
 
 That being said, this time we will look not only for chat or forum moderators. If you feel you're a prominent figure in the osu! community and would like to help us with the community moderation side of things, be sure to shoot us an application as well!
 
