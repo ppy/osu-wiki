@@ -1,14 +1,14 @@
-# L'équipe du osu!monthly
+# L'équipe de l'osu!monthly
 
-**L'équipe du osu!monthly** gère le bulletin d'information [osu!monthly](/wiki/Community/osu!monthly).
+**L'équipe de l'osu!monthly** gère le bulletin d'information [osu!monthly](/wiki/Community/osu!monthly).
 
-Les contributeurs du [osu!monthly](/wiki/Community/osu!monthly) sont des joueurs actifs de la communauté, qui suivent ce qui se passe chaque mois et sélectionnent le contenu à inclure dans chaque numéro.
+Les contributeurs de l'[osu!monthly](/wiki/Community/osu!monthly) sont des joueurs actifs de la communauté, qui suivent ce qui se passe chaque mois et sélectionnent le contenu à inclure dans chaque numéro.
 
 ## Membres de l'équipe
 
 ### Principaux contributeurs
 
-Les personnes listées ci-dessous constituent le cœur de l'équipe du osu!monthly et participent chaque mois à la production du news post.
+Les personnes listées ci-dessous constituent le cœur de l'équipe de l'osu!monthly et participent chaque mois à la production des articles de news.
 
 | Nom | Rôle |
 | :-- | :-- |
@@ -25,11 +25,11 @@ Les personnes listées ci-dessous constituent le cœur de l'équipe du osu!month
 
 ### Autres contributeurs
 
-Les personnes listées ci-dessous restent indispensables au osu!monthly même si elles n'y écrivent pas, car elles fournissent des informations en plus des principaux contributeurs.
+Les personnes listées ci-dessous restent indispensables à l'osu!monthly même si elles n'y écrivent pas, car elles fournissent des informations en plus des principaux contributeurs.
 
 | Nom | Section associée |
 | :-- | :-- |
-| ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) and the [skinship team](https://skinship.xyz/) | Skinning recap |
+| ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) et l'[équipe skinship](https://skinship.xyz/) | Skinning recap |
 | ::{ flag=FR }:: [Xahlt](https://osu.ppy.sh/users/13466351) | Mapping recap |
 
 ## Notes
