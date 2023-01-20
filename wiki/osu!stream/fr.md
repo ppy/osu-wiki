@@ -1,6 +1,6 @@
 # osu!stream
 
-*Pour la liste des musiques featured dans le jeu, voir : [osu!stream song list](/wiki/osu!stream/Song_List)*
+*Pour la liste des musiques incluses dans le jeu, voir : [Liste des musiques d'osu!stream](/wiki/osu!stream/Song_List)*
 
 ![](img/Os-Logo.jpg "logo d'osu!stream")
 
@@ -12,7 +12,7 @@ Contrairement à osu!, osu!stream propose un système de jeu entièrement nouvea
 
 Le développement d'osu!stream a commencé en 2011 dans le but de présenter une version d'osu! pouvant être jouée en déplacement, suite au projet [osu! iPhone](https://github.com/ppy/osu-iPhone) précédemment abandonné. À l'origine, il s'agissait d'une application exclusive à iOS, car l'infrastructure d'Android à l'époque rendait inévitables les problèmes de latence audio sur cette plateforme.
 
-Le jeu a été présenté pour la première fois dans [une vidéo YouTube cryptique](https://www.youtube.com/watch?v=6Jyzgm_-joM) en juin 2011. Après sa sortie publique quelques mois plus tard, les coulisses du jeu ont été détaillées dans le [osu!monthly \#5](https://osu.ppy.sh/community/forums/topics/59924) ainsi qu'une interview de peppy.
+Le jeu a été présenté pour la première fois dans [une vidéo YouTube cryptique](https://www.youtube.com/watch?v=6Jyzgm_-joM) en juin 2011. Après sa sortie publique quelques mois plus tard, les coulisses du jeu ont été détaillées dans l'[osu!monthly \#5](https://osu.ppy.sh/community/forums/topics/59924) ainsi qu'une interview de peppy.
 
 Le développement de base d'osu!stream a cessé en 2020. Pour plus d'informations, lisez le [post du blog](https://blog.ppy.sh/osu-stream-2020-release/) concernant sa dernière version. Le code source ainsi que les outils de conversion et de test des beatmaps ont été mis à disposition la même année sous une licence permissive sur [GitHub](https://github.com/ppy/osu-stream), et toutes les beatmaps précédemment payantes sont désormais disponibles gratuitement dans la "Boutique" du jeu.
 
