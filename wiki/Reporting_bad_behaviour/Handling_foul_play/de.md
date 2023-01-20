@@ -34,7 +34,7 @@ Sorry, aber dein Account wurde eingeschränkt. Das Support-Team ist sich bereits
 
 ## Ich habe jemanden gefunden, der definitiv schummelt. Das erkenne ich an seinem Replay/Score! Was sollte ich tun?
 
-Bleib gelassen und **diskutiere seine Spiele nicht im öffentlichen Chat**. Gebe ihm keine unrechtmäßige Aufmerksamkeit oder frage andere, ihn beim Spielen zuzusehen.
+Bleib gelassen und **diskutiere seine Spiele nicht im öffentlichen Chat**. Gib ihm keine unrechtmäßige Aufmerksamkeit oder frage andere, ihn beim Spielen zuzusehen.
 Du solltest den Benutzer melden und ihn nirgendwo erwähnen. Es gibt drei Wege, das zu tun.
 
 ### Benutzerprofil

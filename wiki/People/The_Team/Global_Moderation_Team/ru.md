@@ -64,7 +64,7 @@ tags:
 | ::{ flag=HU }:: [[ Another ]](https://osu.ppy.sh/users/3416573) | Венгерский | Модерация чата |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Русский | Модерация чата |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | Модерация форума |
-| ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | Организация турниров |
+| ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | Организация турниров[^task-Azer] |
 | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419) | Китайский, малайский | Модерация чата |
 | ::{ flag=US }:: [Chaos](https://osu.ppy.sh/users/2628870) |  | Модерация чата |
 | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | Шведский, испанский | Модерация чата, организация турниров |
@@ -162,3 +162,7 @@ tags:
 | `#turkish` | [Türkçe](https://osu.ppy.sh/community/forums/93) |  |
 | `#ukrainian` |  | ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) |
 | `#vietnamese` |  | ::{ flag=VN }:: [My Angel Chino](https://osu.ppy.sh/users/20547597), ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) |
+
+## Примечания
+
+[^task-Azer]: Хотя Azer и не является модератором, его добавили в эту группу ради технических возможностей, необходимых для организации и управления osu! World Cup.

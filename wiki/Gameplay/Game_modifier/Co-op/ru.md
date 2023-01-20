@@ -13,8 +13,6 @@ tags:
   - кооп
   - совместная игра
   - игра с друзьями
-outdated_translation: true
-outdated_since: a1204aec65f4533d47725e5a423e288bc4a41a40
 ---
 
 # Co-op (мод)
@@ -55,7 +53,7 @@ outdated_since: a1204aec65f4533d47725e5a423e288bc4a41a40
 
 *Примечание: на картах для osu!mania Co-op не понижает множитель очков.*
 
-Подробнее о том, как работает второе игровое поле, см. [osu!mania § Co-op](/wiki/Game_mode/osu!mania#co-op).
+Подробнее о том, как работает второе игровое поле, см. [Game mode/osu!mania § Co-op](/wiki/Game_mode/osu!mania#co-op).
 
 ### Факты
 

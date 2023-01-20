@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 5f10ef5c2d3a1926ac10d4b6e48fa574eb4ca2ae
+---
+
 # Спільнота
 
 Ця сторінка описує як гравцям можна зв'язатися один з одним.
