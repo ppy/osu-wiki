@@ -106,10 +106,11 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/c9e
 
 | Team A | Team B | Match time |
 | --: | :-- | :-- |
-| South Korea ::{ flag=KR }:: | ::{ flag=VN }:: Vietnam | [Jan 21 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230121T120000&p1=1440&p2=235&p3=95) |
 | China ::{ flag=CN }:: | ::{ flag=FR }:: France | [Jan 21 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230121T130000&p1=1440&p2=33&p3=195) |
-| Brazil ::{ flag=BR }:: | ::{ flag=CA }:: Canada | [Jan 21 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230121T170000&p1=1440&p2=45&p3=188) |
-| United States ::{ flag=US }:: | ::{ flag=CL }:: Chile | [Jan 21 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230121T180000&p1=1440&p2=263&p3=232) |
+| South Korea ::{ flag=KR }:: | ::{ flag=VN }:: Vietnam | [Jan 21 (Sat) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230121T133000&p1=1440&p2=235&p3=95) |
+| Malaysia ::{ flag=MY }:: | ::{ flag=AR }:: Argentina | [Jan 21 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230121T150000&p1=1440&p2=122&p3=51) |
+| United States ::{ flag=US }:: | ::{ flag=CL }:: Chile | [Jan 21 (Sat) 22:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230121T220000&p1=1440&p2=263&p3=232) |
+| Brazil ::{ flag=BR }:: | ::{ flag=CA }:: Canada | [Jan 21 (Sat) 23:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230121T230000&p1=1440&p2=45&p3=188) |
 
 ### Sunday, 22 January 2023
 
@@ -117,7 +118,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/c9e
 | --: | :-- | :-- |
 | Indonesia ::{ flag=ID }:: | ::{ flag=JP }:: Japan | [Jan 22 (Sun) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230122T090000&p1=1440&p2=108&p3=248) |
 | Philippines ::{ flag=PH }:: | ::{ flag=RU }:: Russian Federation | [Jan 22 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230122T100000&p1=1440&p2=145&p3=166) |
-| Malaysia ::{ flag=MY }:: | ::{ flag=AR }:: Argentina | [Jan 22 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230122T140000&p1=1440&p2=122&p3=51) |
 | Spain ::{ flag=ES }:: | ::{ flag=TH }:: Thailand | [Jan 22 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230122T150000&p1=1440&p2=141&p3=28) |
 
 ## Mappools
