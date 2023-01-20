@@ -1,6 +1,6 @@
 # osu!taiko
 
-![Gameplay of osu!taiko](/wiki/shared/taiko-gameplay.jpg "osu!taikoインターフェイス")
+![osu!taikoのゲーム画面](/wiki/shared/taiko-gameplay.jpg "osu!taikoインターフェイス")
 
 osu!taikoとは日本のリズムゲーム[太鼓の達人](https://ja.wikipedia.org/wiki/%E5%A4%AA%E9%BC%93%E3%81%AE%E9%81%94%E4%BA%BA)から*いくつか* 要素をもらってできたosu!のモードである。
 
@@ -16,7 +16,7 @@ osu!taikoとは日本のリズムゲーム[太鼓の達人](https://ja.wikipedia
 
 #### 操作画面
 
-![Taiko playfield](/wiki/shared/Taiko_playfield.jpg "osu!taikoプレイ画面")
+![プレイ画面](/wiki/shared/Taiko_playfield.jpg "osu!taikoプレイ画面")
 
 *太鼓の達人* を遊んだことがあるプレイヤーへ、このゲームの相違点:
 
@@ -35,7 +35,7 @@ osu!taikoでは時間経過によって体力は減らず、ヒットオブジ�
 
 #### 音符
 
-![Taiko hit circles](/wiki/shared/Taiko_hitcircles.jpg "osu!taikoヒットサークル")
+![ヒットサークル](/wiki/shared/Taiko_hitcircles.jpg "osu!taikoヒットサークル")
 
 主な流れてくる音符は赤か水色であり、それぞれドンとカッと呼ばれます。
 
@@ -45,7 +45,7 @@ osu!taikoでは時間経過によって体力は減らず、ヒットオブジ�
 
 #### 連打
 
-![Taiko drumroll](/wiki/shared/Taiko_drumroll.jpg "osu!taiko連打")
+![連打](/wiki/shared/Taiko_drumroll.jpg "osu!taiko連打")
 
 太鼓の面または縁をタイミングよく連続して打つとスコアが加算されます。**大きい**連打の場合は両方のキーを同時に連続して打つとスコアが加算されます。とにかく連打すればいい*太鼓の達人*と違って中にある点の位置で叩かないと点は入りません。
 
@@ -53,7 +53,7 @@ osu!taikoでは時間経過によって体力は減らず、ヒットオブジ�
 
 #### デンデン太鼓/シェーカー
 
-![Taiko spinner](/wiki/shared/Taiko_spinner.jpg "osu!taikoスピナー(デンデン)")
+![スピナー](/wiki/shared/Taiko_spinner.jpg "osu!taikoスピナー(デンデン)")
 
 太鼓の面と縁をカウンターが0になるまで**交互に**打つ。始める色はどちらでもよくカウンターが0にならなかった場合コンボは切れないが体力ゲージは減ります。違う色が叩かれるまでカウンターは減らず、同じ色を連続で叩いてもペナルティはない。
 

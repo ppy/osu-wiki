@@ -7,7 +7,7 @@ tags:
 
 # ジャンルと言語
 
-![A screenshot of genre, language, and tags on a beatmap page](img/beatmap-info.png "ビートマップページに掲載されているジャンルと言語")
+![ビートマップページに掲載されているジャンルと言語](img/beatmap-info.png "ビートマップページに掲載されているジャンルと言語")
 
 サイト上に投稿された[ビートマップ](/wiki/Beatmap)には分類をしやすくするため**ジャンル**と**言語**の欄がある。これはビートマップの[メタデータ](/wiki/Beatmap_Editor/Song_Setup#song-and-map-metadata)の一つとして考えられる。
 
@@ -15,7 +15,7 @@ tags:
 
 ## ビートマップリスト
 
-![The available filters on the beatmap listing](img/beatmap-listing.png?1)
+![ビートマップリストで使用できるフィルター](img/beatmap-listing.png?1)
 
 [ビートマップリスト](https://osu.ppy.sh/beatmapsets)では`検索の詳細設定`欄にジャンルと言語のフィルターがある。
 
