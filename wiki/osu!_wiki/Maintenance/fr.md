@@ -53,20 +53,20 @@ Les vérifications du CI sont exécutées automatiquement sur chaque commit d'un
 
 Certaines erreurs apparaissent également sous forme d'annotations dans l'onglet `Files changed`, sous la ligne où le problème a été trouvé.
 
-Si vous avez besoin d'aide pour décrypter les erreurs de vérification des CI, ou pour résoudre des problèmes, demandez dans le salon de discussion `#osu-wiki` sur Discord.
+Si vous avez besoin d'aide pour décrypter les messages d'erreur des CI checks, ou pour résoudre des problèmes, demandez dans le salon de discussion `#osu-wiki` sur Discord.
 
-#### Contourner une CI checks
+#### Contourner une CI check
 
-Les CI checks empêchent normalement les pull requests contenant des erreurs d'être fusionnées. Cependant, en cas de fausses erreurs ou de découverte de bugs dans les vérifications, il est toujours possible de les contourner par sécurité. Il existe quelques situations dans lesquelles il est acceptable de contourner intentionnellement une CI check, comme indiqué ci-dessous. Contactez un [maintainer](/wiki/People/osu!_wiki_maintainers) si vous devez contourner une vérification pour une raison non mentionnée ici.
+Les CI checks empêchent normalement les pull requests contenant des erreurs d'être merged. Cependant, en cas de fausses erreurs ou de découverte de bugs dans les vérifications, il est toujours possible de les contourner par sécurité. Il existe quelques situations dans lesquelles il est acceptable de contourner intentionnellement une CI check, comme indiqué ci-dessous. Contactez un [maintainer](/wiki/People/osu!_wiki_maintainers) si vous devez contourner une CI check pour une raison non mentionnée ici.
 
 Pour référence, vous trouverez ci-dessous un tableau de toutes les CI checks dans l'ordre :
 
 | # | Check | Outil | Explication | Contournement |
 | :-: | :-- | :-- | :-- | :-- |
 | 1 | Tailles de fichiers | [`scripts/ci/inspect_file_sizes.sh`](https://github.com/ppy/osu-wiki/blob/master/scripts/ci/inspect_file_sizes.sh) | Indique si une image est inférieur à la [limite de taille des images des news post et des articles du wiki](/wiki/Article_styling_criteria/Formatting#taille-du-fichier) (1 MB). Donne un avertissement pour les fichiers supérieurs à 0,5 Mo. | Aucun. |
-| 2 | Markdown | [remark](https://github.com/remarkjs/remark) via [`scripts/ci/run_remark.sh`](https://github.com/ppy/osu-wiki/blob/master/scripts/ci/run_remark.sh) | Vérifie si la syntaxe Markdown est correcte et cohérente dans les articles du wiki et les news post. | Ajouter `<!-- lint ignore rule-name -->` au-dessus de la ligne incriminée, où `rule-name` est la règle à ignorer. |
+| 2 | Markdown | [remark](https://github.com/remarkjs/remark) via [`scripts/ci/run_remark.sh`](https://github.com/ppy/osu-wiki/blob/master/scripts/ci/run_remark.sh) | Vérifie si la syntaxe Markdown est correcte et cohérente dans les articles du wiki et les articles de news. | Ajouter `<!-- lint ignore rule-name -->` au-dessus de la ligne incriminée, où `rule-name` est la règle à ignorer. |
 | 3 | YAML | La commande `check-yaml` de [`osu-wiki-tools`](https://github.com/Walavouchey/osu-wiki-tools) | Vérifie si la syntaxe YAML est correcte et cohérente dans le fichier [`redirect.yaml`](https://github.com/ppy/osu-wiki/blob/master/wiki/redirect.yaml) et dans la [page de garde](/wiki/Article_styling_criteria/Formatting#page-de-garde) | Aucun. |
-| 4 | Liens wiki cassés | La commande `check-links` de [`osu-wiki-tools`](https://github.com/Walavouchey/osu-wiki-tools) | Vérifie si les [liens wiki](/wiki/Article_styling_criteria/Formatting#liens-wiki) internes pointent vers un article, une news post (pour les liens de news post), ou une section de celui-ci. | Ajouter `SKIP_WIKILINK_CHECK` n'importe où dans la description de la pull request. |
+| 4 | Liens wiki cassés | La commande `check-links` de [`osu-wiki-tools`](https://github.com/Walavouchey/osu-wiki-tools) | Vérifie si les [liens wiki](/wiki/Article_styling_criteria/Formatting#liens-wiki) internes pointent vers un article du wiki, un article de news (pour les liens d'articles de news), ou une section de celui-ci. | Ajouter `SKIP_WIKILINK_CHECK` n'importe où dans la description de la pull request. |
 | 5 | Traductions obsolètes | La commande `check-outdated-articles` de [`osu-wiki-tools`](https://github.com/Walavouchey/osu-wiki-tools) | Vérifie si les traductions sont correctement [marquées comme obsolètes](/wiki/Article_styling_criteria/Formatting#articles-obsolètes) lors de la mise à jour d'un article en anglais. | Ajouter `SKIP_OUTDATED_CHECK` n'importe où dans la description de la pull request. |
 
 ##### Règle lint de remark pour le [`no-heading-punctuation`](https://github.com/remarkjs/remark-lint/tree/main/packages/remark-lint-no-heading-punctuation) en Markdown
@@ -121,8 +121,8 @@ Certaines fonctionnalités ne sont pas directement liées au site web d'osu!, ma
 
 - [osu-wiki status](https://osu.wiki/status/fr) : liste des articles par langue, et la catégorie de maintenance qu'ils requièrent (traduction, mise à jour). Voir [ppy/osu-wiki#2486](https://github.com/ppy/osu-wiki/issues/2486) pour les demandes de fonctionnalités.
 - [osu-wiki-bin](https://github.com/cl8n/osu-wiki-bin) : un utilitaire Node.js pour les vérifications et les modifications automatisées (liens cassés, mises à jour des groupes d'utilisateurs, remplacement de textes à l'échelle du wiki, etc.)
-- [osu-wiki-tools](https://github.com/Walavouchey/osu-wiki-tools): un utilitaire Python pour les vérifications automatisées (liens cassés, articles périmés) utilisé en CI
-- [scissors](https://github.com/TicClick/scissors): un utilitaire Rust pour vérifier les incompatibilités de nom d'utilisateur et de drapeau de pays dans les liens d'utilisateur
+- [osu-wiki-tools](https://github.com/Walavouchey/osu-wiki-tools) : un utilitaire Python pour les vérifications automatisées (liens cassés, articles obsolètes) utilisé en CI
+- [scissors](https://github.com/TicClick/scissors) : un utilitaire Rust pour vérifier les incompatibilités de nom d'utilisateur et de drapeau de pays dans les liens d'utilisateurs
 
 ## Routines
 
@@ -136,7 +136,7 @@ Le wiki repose sur les contributions de la communauté d'osu!. Vous pouvez aider
 
 L'osu! wiki est lu par des gens du monde entier. Pour aider votre communauté locale et attirer de nouveaux joueurs, mappeurs, moddeurs et développeurs géniaux dans le jeu, vous pouvez traduire les articles anglais ou mettre à jour les traductions existantes qui ont pris du retard. Consultez la [liste des langues](/wiki/Article_styling_criteria/Formatting#locales) prises en charge par l'osu! wiki et assurez-vous que votre traduction respecte le principe de [parité de contenu](/wiki/Article_styling_criteria/Writing#parité-de-contenu). Si vous êtes un utilisateur courant et un rédacteur expérimenté, prenez en charge des sujets clés tels que des articles sur les [règles](https://github.com/ppy/osu-wiki/tree/master/wiki/Rules) ou les [critères de classement](https://github.com/ppy/osu-wiki/tree/master/wiki/Ranking_Criteria). Si vous débutez votre carrière de rédacteur, choisissez un petit article pour recevoir l'aide et les conseils de réviseurs natifs.
 
-Une traduction peut être fusionnée sans native review s'il s'est écoulé plus d'une semaines depuis sa date de création.
+Une traduction peut être merged sans review d'un traducteur natif s'il s'est écoulé plus d'une semaine depuis la date de création de la Pull Request.
 
 ### Expansion des stubs
 
