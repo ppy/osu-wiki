@@ -1,6 +1,5 @@
 ---
-outdated: true
-needs_cleanup: true
+stub: true
 ---
 
 # History of osu! 2009
