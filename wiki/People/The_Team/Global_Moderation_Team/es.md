@@ -8,20 +8,20 @@ tags:
   - moderadores
 ---
 
-# Equipo de moderación global
+# Global Moderation Team
 
 *Véase también: [Mod (desambiguación)](/wiki/Disambiguation/Mod).*
 
-El **Equipo de moderación global** (anteriormente conocido como Global Mod Team, Administradores, o GreenBAT), comúnmente conocido como **GMT**, son miembros de la comunidad que se centran principalmente en la moderación de los jugadores y en los problemas relacionados con el equipo y la comunidad en general. Se distinguen por su título de usuario y el color del nombre de usuario, que es rojo en el juego y verde cítrico en los foros.
+**Global Moderation Team** (anteriormente conocido como Global Mod Team, Administradores, o GreenBAT), comúnmente conocido como **GMT**, son miembros de la comunidad que se centran principalmente en la moderación de los jugadores y en los problemas relacionados con el equipo y la comunidad en general. Se distinguen por su título de usuario y el color del nombre de usuario, que es rojo en el juego y verde cítrico en los foros.
 
-**Todos los moderadores globales juran respetar [el código de conducta del contribuidor](/wiki/Contributor_Code_of_Conduct) además de las [reglas de la comunidad](/wiki/Rules) normales.**
+**Todos los Global Moderators juran respetar [el código de conducta del contribuidor](/wiki/Contributor_Code_of_Conduct) además de las [reglas de la comunidad](/wiki/Rules) normales.**
 
 ## Roles y responsabilidades
 
 ***Nota: Para denunciar que un moderador se está portando mal o infringiendo el código de conducta del contribuidor, comuníquese con el [equipo de soporte de cuentas](/wiki/People/The_Team/Account_support_team#support@ppy.sh).***\
 *Véase también: [Reportar mal comportamiento](/wiki/Reporting_bad_behaviour)*
 
-El Equipo de moderación global es responsable del bienestar del chat y del foro, y se encarga de las interacciones dentro de la comunidad. Deben abordarse con cualquier pregunta relacionada con el aspecto de moderación del juego, que incluiría (pero no se limita a):
+Global Moderation Team es responsable del bienestar del chat y del foro, y se encarga de las interacciones dentro de la comunidad. Deben abordarse con cualquier pregunta relacionada con el aspecto de moderación del juego, que incluiría (pero no se limita a):
 
 - problemas con el chat (por ejemplo, silencios o acoso)
 - conducta inapropiada en el foro (por ejemplo, comentarios inapropiados)
@@ -30,7 +30,7 @@ El Equipo de moderación global es responsable del bienestar del chat y del foro
 
 ## Convertirse en moderador
 
-Convertirse en miembro del Equipo de moderación global requiere una cantidad considerable de contribución. Los miembros potenciales a menudo se notan por su disposición a ayudar a otros usuarios, actividad dentro de la comunidad y buen comportamiento. Se prefiere la capacidad de hablar otros idiomas además del inglés. Los candidatos se discuten dentro del equipo para determinar su posible incorporación como miembro del equipo.
+Convertirse en miembro de Global Moderation Team requiere una cantidad considerable de contribución. Los miembros potenciales a menudo se notan por su disposición a ayudar a otros usuarios, actividad dentro de la comunidad y buen comportamiento. Se prefiere la capacidad de hablar otros idiomas además del inglés. Los candidatos se discuten dentro del equipo para determinar su posible incorporación como miembro del equipo.
 
 ### Cómo ser considerado
 
@@ -54,7 +54,7 @@ Por lo general, el equipo observará a las personas durante varias semanas o mes
 
 *Nota: Todos los miembros del GMT hablan inglés además de los idiomas que se enumeran a continuación, a menos que se indique lo contrario.*
 
-La [página del grupo equipo de moderacion global](https://osu.ppy.sh/groups/4) enumera todos los miembros del equipo. Además de las áreas mencionadas a continuación, todos los miembros del GMT participan en la [revisión del contenido visual y auditivo incluido en los beatmaps](/wiki/Rules/Visual_Content_Considerations#getting-your-image-assessed).
+La [página del grupo Global Moderation Team](https://osu.ppy.sh/groups/4) enumera todos los miembros del equipo. Además de las áreas mencionadas a continuación, todos los miembros del GMT participan en la [revisión del contenido visual y auditivo incluido en los beatmaps](/wiki/Rules/Visual_Content_Considerations#getting-your-image-assessed).
 
 | Nombre | Idiomas adicionales | Área principal |
 | :-- | :-- | :-- |
