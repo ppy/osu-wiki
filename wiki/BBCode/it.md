@@ -1,107 +1,107 @@
 # BBCode
 
-**BBCode** is a [markup language](https://en.wikipedia.org/wiki/Markup_language) that is used in the osu! forums and, to a larger extent, the vast majority of forums on the Internet. Used to enable rich text formatting, it is made up of tags that surround text to denote formatting, attributes, embedding, and more. It is used in various places across the osu! website, such as forum posts, signatures, user pages, and beatmap descriptions.
+**BBCode** è un [linguaggio di markup](https://it.wikipedia.org/wiki/Linguaggio_di_markup) che viene usato nei forum di osu! e, più su larga scala, nella stragrande maggioranza dei forum online. Utilizzato per abilitare la formattazione del rich text, è composto da tag che circondano il testo per indicare la formattazione, gli attributi, l'incorporamento e altro. Viene utilizzato in vari luoghi del sito osu!, come post del forum, firme, pagine utente e descrizioni delle mappe.
 
-![The forum post editor with its buttons](img/editor.jpg?1 "The edit box in the forums")
+![L'editor dei post del forum con i suoi bottoni](img/editor.jpg?1 "The edit box in the forums")
 
-## Behaviour
+## Comportamento
 
-Clicking a markup button without highlighting any text will create a set of open and closed tags around the text cursor in the post editor. Highlighting the text before clicking a markup button will surround said text with the tags.
+Facendo clic su un pulsante di markup senza evidenziare alcun testo, si creeranno un insieme di tag aperti e chiusi intorno al cursore nell'editor del post. Evidenziando il testo prima di fare clic su un pulsante di markup, si circonderà suddetto testo con i tag.
 
-Users, who wish to combine formatting onto a single section of text, can do so by placing BBCode tags inside of one another. However, the order and nesting of these tags **must be respected** when combining. Failure to do so will break the formatting.
+Gli utenti che desiderano combinare la formattazione in una singola sezione di testo, possono farlo posizionando i tag BBCode all'interno di un altro. Tuttavia, l'ordine e l'annidamento di questi tag **devono essere rispettati** durante la combinazione. Il mancato rispetto di queste regole causerà la rottura della formattazione.
 
 A set of correct and incorrect usages of nested tags is described below:
 
-- `[centre][b]text[/b][/centre]` is correct
-- `[b][centre]text[/b][/centre]` is incorrect
+- `[centre][b]testo di sopra[/b][/centre]` è corretto
+- `[b][centre]testo di sotto[/b][/centre]` è errato
 
-## Tags
+## Tag
 
-BBCode, like many other markup languages, formats text using a system of tags, which is indicated by a pair of square brackets (`[]`). These tags are divided into "opening" and "closing" tags, which are differentiated via the inclusion of a forward slash (`/`). Specifically, closing tags contain a forward slash right after the opening bracket, while open tags do not.
+BBCode, come molti altri linguaggi di markup, formatta il testo utilizzando un sistema di tag, indicato da una coppia di parentesi quadre ([]). Questi tag sono divisi in "tag di apertura" e "tag di chiusura", che vengono differenziati tramite l'inclusione di una barra (/). In particolare, i tag di chiusura contengono una barra subito dopo la parentesi di apertura, mentre i tag di apertura non la contengono.
 
-It is also important to note that open tags occasionally include equals signs (`=`) inside to indicate URLs, font sizes, and other such elements.
+È anche importante notare che i tag di apertura includono occasionalmente segni di uguale (=) all'interno per indicare URL, dimensioni del carattere e altri elementi simili.
 
-BBCode tags, which are supported on the osu! website, are listed and described in detail below.
+I tag BBCode, supportati sul sito osu!, sono elencati e descritti in dettaglio di seguito.
 
 ### Bold
 
 ```
-[b]text[/b]
+[b]testo[/b]
 ```
 
-The `[b]` tag is used to strongly emphasise text through the use of bolding. BBCode bolding does not affect the font size.
+Il tag `[b]` viene utilizzato per enfatizzare fortemente il testo attraverso l'uso del grassetto. Il grassetto BBCode non influisce sulla dimensione del carattere.
 
-Toolbar button: ![Bold button](img/bold.png "Bold")
+Bottone della barra degli strumenti: ![Bottone Grassetto](img/bold.png "Bold")
 
 ### Italic
 
 ```
-[i]text[/i]
+[i]testo[/i]
 ```
 
-The `[i]` tag is used to lightly emphasise text by slanting the text forward (i.e. italicising).
+Il tag `[i]` viene utilizzato per enfatizzare leggermente il testo inclinando il testo in avanti (cioè in corsivo).
 
-Toolbar button: ![Italic button](img/italic.png "Italic")
+Bottone della barra degli strumenti: ![Italic button](img/italic.png "Italic")
 
 ### Underline
 
 ```
-[u]text[/u]
+[u]testo[/u]
 ```
 
-The `[u]` tag is used to emphasise text by drawing a horizontal line underneath said text (i.e. underlining). The horizontal line that is drawn will be affected by other tags like bolding and italicising.
+Il tag `[u]` viene utilizzato per enfatizzare il testo tracciando una linea orizzontale sotto il testo (cioè sottolineando). La linea orizzontale tracciata verrà influenzata da altri tag come il grassetto e il corsivo.
 
 ### Strikethrough
 
 ```
-[strike]text[/strike]
+[strike]testo[/strike]
 ```
 
-*Note: "strikethrough" may also be known as "strike".*
+*Nota: "barrato" può essere anche conosciuto come "cancellato".*
 
-The `[strike]` tag is used to indicate a removal of previously included text through the use of a horizontal line that "crosses out" the text (i.e. a "strikethrough").
+Il tag `[strike]` viene utilizzato per indicare la rimozione di un testo precedentemente incluso mediante l'uso di una linea orizzontale che "cancella" il testo (cioè un "barrato").
 
-Toolbar button: ![Strike button](img/strike.png "Strikethrough")
+Bottone della barra degli strumenti: ![Strike button](img/strike.png "Strikethrough")
 
 ### Colour
 
 ```
-[color=HEXCODE]text[/color]
+[color=HEXCODE]testo[/color]
 ```
 
-*For a list of all colour names, see [X11 color names](https://en.wikipedia.org/wiki/X11_color_names#Color_name_chart)*
+*Per un elenco di tutti i nomi dei colori, vedi Nomi dei colori X11*
 
-The `[color]` tag is used to stylise text through various types of web-safe colours. The tag uses the [HEX code](https://en.wikipedia.org/wiki/Web_colors#Hex_triplet) format to specify the colour, although it can also be specified through HTML colour names like "red" or "green." To specify, replace the `HEXCODE` argument with a colour's corresponding HEX code or HTML name.
+Il tag `[color]` viene utilizzato per formattare il testo attraverso vari tipi di colori sicuri per il web. Il tag utilizza il formato codice HEX per specificare il colore, anche se può essere specificato anche attraverso i nomi dei colori HTML come "rosso" o "verde". Per specificare, sostituire l'argomento `HEXCODE` con il codice HEX o il nome HTML corrispondente del colore.
 
-The aforementioned argument does not take quotation marks (`"`), and does not have a default colour. If no argument is specified, or if quotation marks are used, the tag will not be parsed as a BBCode tag.
+L'argomento menzionato non utilizza le virgolette (`"`), e non ha un colore predefinito. Se non viene specificato alcun argomento o se vengono utilizzate le virgolette, il tag non verrà analizzato come tag BBCode.
 
 ### Font size
 
 ```
-[size=NUMBER]text[/size]
+[size=NUMERO]testo[/size]
 ```
 
-The `[size]` tag is used to stylise text through the use of differing font sizes. Currently, there are four sizes that are supported by the osu! website: 50, 85, 100, and 150. The sizes are internally referred to as "tiny", "small", "normal", and "large" respectively.
+Il tag `[size]` viene utilizzato per formattare il testo attraverso l'uso di dimensioni del carattere diverse. Attualmente, sul sito osu! sono supportate quattro dimensioni: 50, 85, 100 e 150. Le dimensioni sono internamente denominate "tiny", "small", "normal" e "large" rispettivamente.
 
-The `NUMBER` argument does not accept quotation marks, and only accepts one of the four supported sizes. If a number, that is not one of the supported four, is inputted, the text will revert to the default size.
+L'argomento `NUMERO` non accetta i segni di citazione e accetta solo una delle quattro dimensioni supportate. Se viene inserito un numero che non fa parte delle quattro supportate, il testo tornerà alla dimensione predefinita.
 
-Toolbar button: ![Font size options](img/font-size.png "Font size")
+Bottone della barra degli strumenti: ![Font size options](img/font-size.png "Font size")
 
 ### Spoiler
 
-*Not to be confused with [Spoilerbox](#spoilerbox).*
+*Da non confondere con [Spoilerbox](#spoilerbox).*
 
 ```
-[spoiler]text[/spoiler]
+[spoiler]testo[/spoiler]
 ```
 
-The `[spoiler]` tag is used to cover up sensitive information with a solid black foreground that reveals the text underneath it upon being highlighted. If stacked with the [`[color]`](#colour) tag, the black cover will not be affected. However, the text under the black cover will still be coloured, whether it is readable or not.
+Il tag `[spoiler]` viene utilizzato per coprire informazioni sensibili con un primo piano nero solido che rivela il testo sottostante quando viene evidenziato. Se impilato con il tag [`[color]`](#colour), la copertura nera non verrà influenzata. Tuttavia, il testo sotto la copertura nera sarà comunque colorato, che sia leggibile o meno.
 
-The tag is most commonly used to prevent spoiling critical/sensitive information regarding a TV show, movie, or other media. It is also sometimes used for comedic effect or emphasis.
+Il tag viene comunemente utilizzato per evitare di rovinare informazioni critiche/sensibili riguardanti una serie TV, un film o altri media. Viene talvolta utilizzato anche a scopo comico o enfasi.
 
 ### Box
 
-*Not to be confused with [Spoilerbox](#spoilerbox).*
+*Da non confondere con [Spoilerbox](#spoilerbox).*
 
 ```
 [box=NAME]
@@ -109,37 +109,37 @@ text
 [/box]
 ```
 
-The `[box]` tag is used to hide text and images inside of a clickable hyperlink. Upon clicking, the contents inside will be revealed in a similar fashion to a dropdown menu.
+Il tag [box] viene utilizzato per nascondere testo e immagini all'interno di un collegamento ipertestuale cliccabile. Cliccando, i contenuti all'interno verranno rivelati in modo simile a un menu a discesa.
 
-The custom hyperlink text is denoted by the `NAME` argument. Specifying this argument will create a heading text inside the box using that argument, and will adjust the size of the box accordingly. If left unspecified, the `[box]` tag will create a box with no heading text inside by default (which cannot be clicked on). The argument does not use quotations marks (`"`), and will render whitespace.
+Il testo del collegamento personalizzato è denotato dall'argomento NAME. Specificare questo argomento creerà un testo di intestazione all'interno del box utilizzando quell'argomento e regolerà la dimensione del box di conseguenza. Se lasciato non specificato, il tag [box] creerà un box senza testo di intestazione all'interno per impostazione predefinita (che non può essere cliccato). L'argomento non utilizza i segni di citazione (") e renderà gli spazi vuoti.
 
-The tag is most commonly used to hide large walls of text and images that may bloat up the size of a forum post. Most notably in FAQ or [skin](/wiki/Skinning) release posts.
+Il tag viene comunemente utilizzato per nascondere grandi quantità di testo e immagini che possono ingrossare la dimensione di un post sul forum. In particolare in FAQ o post di rilascio skin.
 
-*Note: the BBCode box's toolbar button is called a "spoiler box", but does not create a `[spoilerbox]` tag.*
+Nota: il box BBCode Bottone della barra degli strumenti è chiamato "spoiler box", ma non crea un tag [spoilerbox].
 
-Toolbar button: ![Box button](img/spoilerbox.png "Box")
+Bottone della barra degli strumenti: ![Box button](img/spoilerbox.png "Box")
 
 ### Spoilerbox
 
 ```
-[spoilerbox]text[/spoilerbox]
+[spoilerbox]testo[/spoilerbox]
 ```
 
-A *spoilerbox* is a special type of BBCode box that does not have a specifiable `NAME` argument. The name of a spoilerbox is always shown as `SPOILER`. Spoilerboxes have their own tag (`[spoilerbox]`) but are functionally identical to BBCode [boxes](#box).
+Una spoilerbox è un tipo speciale di box BBCode che non ha un argomento NAME specificabile. Il nome di una spoilerbox è sempre mostrato come SPOILER. Le spoilerbox hanno il loro proprio tag ([spoilerbox]) ma sono funzionalmente identiche ai box BBCode boxes.
 
 ### Quote
 
 ```
-[quote="NAME"]
-text
+[quote="NOME"]
+testo
 [/quote]
 ```
 
-The `[quote]` tag is used to stylistically format long quotations (a.k.a. "block quotes") through the use of indenting, colouring, bolding, and separating the text via a pink vertical line. The actual contents of the quote are placed between the open and closed tags, while the `NAME` argument specifies the author of the quote (although this is optional). The text inside the quotes will render whitespace and line breaks.
+Il tag `[quote]` viene utilizzato per formattare in modo stilistico lunghe citazioni (chiamate anche "block quote") utilizzando l'indentazione, il colore, il grassetto e separando il testo tramite una linea verticale rosa. I contenuti effettivi della citazione vengono collocati tra i tag di apertura e di chiusura, mentre l'argomento NAME specifica l'autore della citazione (anche questo è facoltativo). Il testo all'interno delle citazioni renderà gli spazi vuoti e i ritorni a capo.
 
-*Notice: The `NAME` argument must be enclosed in quotation marks (`"`).*
+Nota: l'argomento NAME deve essere racchiuso tra virgolette (").
 
-Long quotations are typically used in more formal writings in place of in-line quotations when said quotation is three or more lines long. Within the osu! forums, however, they are most commonly used to reply to another user's comment, which can be done automatically through the `Quote reply` button located in the top-right of the desired comment (shown below). However, this button will **only appear if the cursor is nearby**.
+Le lunghe citazioni vengono tipicamente utilizzate in scritti più formali al posto delle citazioni in linea quando la citazione è lunga tre o più righe. All'interno dei forum di osu!, tuttavia, vengono utilizzate principalmente per rispondere al commento di un altro utente, cosa che può essere fatta automaticamente tramite il pulsante "Rispondi con citazione" situato in alto a destra del commento desiderato (mostrato di seguito). Tuttavia, questo pulsante apparirà solo se il cursore è vicino.
 
 ![Quote reply button](img/quotereply.png)
 
@@ -147,101 +147,101 @@ Long quotations are typically used in more formal writings in place of in-line q
 
 ```
 [code]
-text
+testo
 [/code]
 ```
 
-The `[code]` tag is used to create *preformatted code blocks* (a.k.a. *preformatted text*). On the osu! website, the `[code]` tag will format text in a monospace font inside of a semi-transparent grey box. Formatting text inside of a code block will tell the editor to treat the text between those tags literally, thus preventing the conversion of any tags or source code into something else.
+Il tag [code] viene utilizzato per creare blocchi di codice preformattati (chiamati anche testo preformattato). Sullo sito web di osu!, il tag [code] formatterà il testo in un carattere monospace all'interno di un box grigio semi-trasparente. Formattare il testo all'interno di un blocco di codice dirà all'editor di trattare il testo tra quei tag letteralmente, evitando così la conversione di qualsiasi tag o codice sorgente in qualcos'altro.
 
-Within the osu! forums, code blocks are most often used to post source code for a [storyboard](/wiki/Storyboard), or in tutorials that require showing the syntax for tags, commands, or source code.
+All'interno dei forum di osu!, i blocchi di codice vengono utilizzati principalmente per pubblicare il codice sorgente per una storyboard o in tutorial che richiedono di mostrare la sintassi per i tag, i comandi o il codice sorgente.
 
 ### Centre
 
 ```
-[centre]text[/centre]
+[centre]testo[/centre]
 ```
 
-The `[centre]` tag is used to align text to the centre of a box. This is most often used for stylistic effect in titles, headers, or poems. If placed inside of or surrounding a `[quote]` tag, the text inside the quote block will be centred, but the stylistic lines and such will not.
+Il tag [centre] viene utilizzato per allineare il testo al centro di una casella. Questo viene utilizzato principalmente per l'effetto stilistico nei titoli, intestazioni o poesie. Se inserito all'interno o intorno a un tag [quote], il testo all'interno del blocco di citazione verrà centrato, ma le linee stilistiche e simili non lo saranno.
 
 ### URL
 
 ```
-[url=LINK]text[/url]
+[url=LINK]testo[/url]
 ```
 
-The `[url]` tag is used to turn regular text into clickable hyperlinks.
+Il tag [url] viene utilizzato per trasformare il testo normale in collegamenti ipertestuali cliccabili.
 
-*Note: Using this tag is not necessary should one wish not to use custom hyperlink text, as the forum editor parses proper URLs into links automatically.*
+Nota: utilizzare questo tag non è necessario se si desidera non utilizzare il testo del collegamento personalizzato, poiché l'editor del forum analizza automaticamente gli URL appropriati in collegamenti.
 
-To create hyperlinks with the `[url]` tag, users must specify two arguments: the linked text to be displayed, and the specific URL of the website to navigate to. The former must be specified between the open and closed tags, and the latter must be specified as the `LINK` argument, without quotation marks (`"`). If no text is specified, the text will default to the name of the URL.
+Per creare i collegamenti ipertestuali con il tag [url], gli utenti devono specificare due argomenti: il testo collegato da visualizzare e l'URL specifico del sito web su cui navigare. Il primo deve essere specificato tra i tag di apertura e chiusura e il secondo deve essere specificato come argomento LINK, senza virgolette ("). Se non viene specificato alcun testo, il testo verrà impostato per default sul nome dell'URL.
 
-Toolbar button: ![URL button](img/url.png "URL")
+Bottone della barra degli strumenti: ![URL button](img/url.png "URL")
 
 ### Profile
 
 ```
-[profile=userid]username[/profile]
+[profile=userid]nome utente[/profile]
 ```
 
-The `[profile]` tag is used to link to a user's osu! profile page by using their username or user ID. Usage of the `[profile]` tag differs from the use of `[url]` tag in that the `[profile]` tag displays a user card when hovering over the link that is created by the tag.
+Il tag [profile] viene utilizzato per collegare alla pagina del profilo di un utente di osu! utilizzando il loro nome utente o ID utente. L'utilizzo del tag [profile] differisce dall'uso del tag [url] nel senso che il tag [profile] visualizza una scheda utente quando si passa sopra al collegamento creato dal tag.
 
-*Note: The user ID is a string of numbers that directly follow the `/users/` in the URL of an osu! profile page.*
+Nota: l'ID utente è una stringa di numeri che segue direttamente /users/ nell'URL di una pagina del profilo osu!
 
-When specifying users only by their user IDs, a placeholder text is required between the open and closed tags. Doing so will display the username on the actual page, not the placeholder text. When specifying users only by their username, the link will not function once they change their username.
+Quando si specificano gli utenti solo tramite i loro ID, è richiesto un testo di placeholder tra i tag di apertura e chiusura. Ciò farà visualizzare il nome utente nella pagina effettiva, non il testo di placeholder. Quando si specificano gli utenti solo tramite il loro nome utente, il collegamento non funzionerà una volta che cambieranno il loro nome utente.
 
 ### Formatted lists
 
 ```
 [list=TYPE]
-[*]item 1
-[*]item 2
-[*]item 3
+[*]oggetto 1
+[*]oggetto 2
+[*]oggetto 3
 [/list]
 ```
 
-The `[list]` tag is used to automatically format two different types of lists throughout the osu! forums by using an asterisk enclosed in brackets (`[*]`) to indicate a new item in the list (shown above). By default, this will create a plain, bulleted list.
+Il tag [list] viene utilizzato per formattare automaticamente due tipi diversi di elenchi nei forum di osu! utilizzando un asterisco racchiuso tra parentesi ([*]) per indicare un nuovo elemento nell'elenco (mostrato sopra). Di default, questo creerà un elenco semplice con i puntini.
 
-If the `TYPE` argument is specified (the actual value doesn't matter), it will create a numbered list.
+Se si specifica l'argomento TYPE (il valore effettivo non ha importanza), verrà creato un elenco numerato.
 
-*Notice: BBCode-formatted lists can be stacked on top of each other and placed inside one another, although this has been known to cause issues with formatting.*
+Nota: gli elenchi formattati in BBCode possono essere sovrapposti l'uno all'altro e inseriti l'uno nell'altro, anche se questo è stato noto per causare problemi di formattazione.
 
-Toolbar buttons: ![List button](img/list.png "List") ![Numbered list button](img/list-numbered.png "Numbered list")
+Bottone della barra degli strumentis: ![List button](img/list.png "List") ![Numbered list button](img/list-numbered.png "Numbered list")
 
 ### Email
 
 ```
-[email=ADDRESS]text[/email]
+[email=INDIRIZZO]testo[/email]
 ```
 
-The `[email]` tag creates a clickable hyperlink, which opens a new email in the default mail program with the address field pre-populated.
+Il tag [email] crea un collegamento ipertestuale cliccabile, che apre una nuova email nel programma di posta predefinito con il campo indirizzo precompilato.
 
-In order to create a link, two arguments need to be specified: the `ADDRESS` argument needs to be a valid email address, while `text` is the displayed text that serves as a hyperlink. If the `text` argument is not defined, the hyperlink will not be created correctly.
+Per creare un collegamento, è necessario specificare due argomenti: l'argomento ADDRESS deve essere un indirizzo email valido, mentre il testo è il testo visualizzato che funge da collegamento ipertestuale. Se l'argomento testo non è definito, il collegamento non verrà creato correttamente.
 
 ### Images
 
 ```
-[img]ADDRESS[/img]
+[img]INDIRIZZO[/img]
 ```
 
-The `[img]` tag is used to include online images into osu! forum posts. To use the tag, users must paste in the direct image address (represented by the `ADDRESS` argument above) sourced from a website. Local file paths (e.g. `C:\Users\Name\Pictures\image.jpg`) **will not work**.
+Il tag [img] viene utilizzato per includere immagini online nei post dei forum di osu!. Per utilizzare il tag, gli utenti devono incollare l'indirizzo immagine diretto (rappresentato dall'argomento ADDRESS sopra) proveniente da un sito web. I percorsi del file locali (ad esempio C:\Users\Name\Pictures\image.jpg) non funzioneranno.
 
-*Notice: A website URL is **not** the same as an image address.*
+Nota: un URL del sito web non è lo stesso di un indirizzo immagine.
 
-In order to obtain an image address, one must navigate to the website it is sourced on, hover their mouse over the image, right-click on the image, and select `Copy image address`. Then, the address should be copied and pasted in between the tags.
+Per ottenere un indirizzo immagine, è necessario navigare sul sito web di provenienza, posizionare il mouse sopra l'immagine, fare clic con il tasto destro sull'immagine e selezionare "Copia indirizzo immagine". Quindi, l'indirizzo dovrebbe essere copiato e incollato tra i tag.
 
-Although images can be sourced from anywhere, osu! recommends that users upload images to reputable image sharing sites like [Imgur](https://imgur.com), as some websites do not appreciate direct links to their images (otherwise known as "hotlinks").
+Sebbene le immagini possano essere prese da qualsiasi sito, osu! raccomanda agli utenti di caricare le immagini su siti di condivisione di immagini affidabili come Imgur, poiché alcuni siti web non apprezzano i collegamenti diretti alle loro immagini (noti come "hotlinks").
 
-Toolbar button: ![Image button](img/image.png "Image")
+Bottone della barra degli strumenti: ![Image button](img/image.png "Image")
 
 ### YouTube
 
 ```
-[youtube]VIDEO_ID[/youtube]
+[youtube]ID_DEL_VIDEO[/youtube]
 ```
 
-The `[youtube]` tag is used to embed a [YouTube](https://youtube.com) video on the website. The tag requires the user to input only the video ID  (**not** the entire URL) between the two tags (represented by the `VIDEO_ID` argument above).
+Il tag [youtube] viene utilizzato per incorporare un video di YouTube sul sito web. Il tag richiede all'utente di inserire solo l'ID del video (non l'intero URL) tra i due tag (rappresentato dall'argomento VIDEO_ID sopra).
 
-A YouTube video's ID is located in the URL of the video, and is the string of 11 characters *directly after* the `v=`.
+L'ID di un video di YouTube si trova nell'URL del video e consiste nella stringa di 11 caratteri direttamente dopo il v=.
 
 ### Audio
 
@@ -249,66 +249,66 @@ A YouTube video's ID is located in the URL of the video, and is the string of 11
 [audio]URL[/audio]
 ```
 
-The `[audio]` tag is used to embed an [HTML5](https://en.wikipedia.org/wiki/HTML5) audio player from an online audio source. Audio files can be sourced from anywhere, as long as the file exists from a given URL. Local file paths (e.g., `C:\Users\Name\Music\audio.mp3`) **will not work**.
+Il tag [audio] viene utilizzato per incorporare un lettore audio HTML5 da una fonte audio online. I file audio possono essere presi da qualsiasi luogo, a patto che il file esista da un determinato URL. I percorsi del file locali (ad esempio C:\Users\Name\Music\audio.mp3) non funzioneranno.
 
-*Caution: Please beware that not all file-sharing services appreciate the ripping of their audio files, due to the music piracy concerns. osu! is not responsible for any copyright issues that users may encounter in that regard.*
+Attenzione: si prega di essere consapevoli del fatto che non tutti i servizi di condivisione file apprezzano il ripping dei loro file audio, a causa dei problemi di pirateria musicale. osu! non è responsabile per eventuali problemi di copyright che gli utenti possono incontrare in tal senso.
 
-To embed audio files through this method, users must paste its source URL (e.g. `https://www.example.com/example.mp3`) between the two `[audio]` tags.
+Per incorporare file audio tramite questo metodo, gli utenti devono incollare il loro URL di origine (ad esempio https://www.example.com/example.mp3) tra i due tag [audio].
 
 <!-- Example online audio file URL for wiki editors: https://actions.google.com/sounds/v1/alarms/digital_watch_alarm_long.ogg -->
 
 ### Heading (v1)
 
 ```
-[heading]text[/heading]
+[heading]testo[/heading]
 ```
 
-The `[heading]` tag is used to format text into big, pink headers. The tag does not support multi-leveled headers, and cannot be specifically linked to.
+Il tag [heading] viene utilizzato per formattare il testo in grandi intestazioni rosa. Il tag non supporta intestazioni multi-livello e non può essere specificamente collegato.
 
-Toolbar button: ![Heading button](img/heading.png "Heading")
+Bottone della barra degli strumenti: ![Heading button](img/heading.png "Heading")
 
 ### Notice
 
 ```
 [notice]
-text
+testo
 [/notice]
 ```
 
-The `[notice]` tag is used to place paragraphs into a large, outlined box with a dark body colour. The button is primarily used to denote notices or warnings regarding a certain subject on the website.
+Il tag [notice] viene utilizzato per inserire paragrafi in una grande scatola con un bordo e un colore del corpo scuro. Il bottone viene principalmente utilizzato per segnalare avvisi o avvertenze riguardo un determinato argomento sul sito web.
 
 ## Legacy
 
-The following are BBCode tags that were once used in various places across the osu! website, but are now unavailable for use. Their usages and syntax are described below for historical purposes.
+I seguenti sono i tag BBCode che una volta venivano utilizzati in vari posti del sito web di osu!, ma ora non sono più disponibili per l'uso. Le loro modalità d'uso e la sintassi vengono descritte di seguito a scopo storico.
 
 ### Google
 
 ```
-[google]search query[/google]
+[google]query di ricerca[/google]
 ```
 
-The `[google]` tag is an outdated tag that was once used in the osu! forums to link to a Google search query using the provided text between two tags.
+Il tag [google] è un tag obsoleto che una volta veniva utilizzato nei forum di osu! per collegare una query di ricerca di Google utilizzando il testo fornito tra due tag.
 
-The tag would redirect users to a Google search through their account, meaning that the exact same results would not be given to everyone, as Google personalises users' results. Likewise, this also means that some search results would be hidden to certain users due to language or country restrictions.
-
+Il tag avrebbe reindirizzato gli utenti a una ricerca di Google attraverso il loro account, il che significa che gli stessi risultati non sarebbero stati forniti a tutti, poiché Google personalizza i risultati degli utenti. Allo stesso modo, questo significa anche che alcuni risultati di ricerca sarebbero stati nascosti a determinati utenti a causa di restrizioni linguistiche o geografiche.
 ### Lucky
 
 ```
-[lucky]search query[/lucky]
+[lucky]query di ricerca[/lucky]
 ```
 
-The `[lucky]` tag is an outdated tag that was once used in the osu! forums to link to a website directed from Google's `I'm Feeling Lucky` button using the provided text. The website linked through this tag would not be the same for everyone due to the nature of the button itself.
+Il tag [lucky] è un tag obsoleto che una volta veniva utilizzato nei forum di osu! per collegare un sito web indirizzato dal pulsante "Sono fortunato" di Google utilizzando il testo fornito. Il sito web collegato attraverso questo tag non sarebbe stato lo stesso per tutti a causa della natura del pulsante stesso.
+
 
 ### Heading (v2)
 
 ```
-[text]
+[testo]
 ```
 
-The *Heading (v2)* tag is an outdated tag that was once used in the osu! forums to format text into a fancier-looking, purple heading with a horizontal line. The tag only worked in the Beatmaps forum, and only appeared after posting (not in preview). It had no button when it was in service, and was denoted by an open and closed bracket (no opening and closing tags).
+Il tag "Intestazione (v2)" è un tag obsoleto che una volta veniva utilizzato nei forum di osu! per formattare il testo in un'intestazione di aspetto più elaborato, viola con una linea orizzontale. Il tag funzionava solo nel forum Beatmaps e appariva solo dopo la pubblicazione (non in anteprima). Non aveva alcun bottone quando era in servizio e veniva indicato da una parentesi aperta e chiusa (senza tag di apertura e chiusura).
 
 ## Trivia
 
-- This wiki article was adapted from the ["HOW TO: Forum BBCodes"](https://osu.ppy.sh/community/forums/topics/445599) forum thread by [Stefan](https://osu.ppy.sh/users/626907).
-- There used to be a bug which allowed users to make the text transparent by using the [colour tag](#colour) and typing "transparent" after the equals sign (`=`).
-  - As of now, the text will revert back to the default colour (white) when this happens.
+- Questo articolo wiki è stato adattato dalla discussione del forum "COME: Forum BBCodes" di Stefan.
+- In passato c'era un bug che consentiva agli utenti di rendere il testo trasparente utilizzando il tag colore e digitando "trasparente" dopo il segno uguale (=).
+- Al momento, il testo tornerà al colore predefinito (bianco) quando ciò accade.
