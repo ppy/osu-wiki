@@ -9,7 +9,7 @@ osu! are mai multe conturi de Twitter, fiecare având scopuri particulare. Major
 | ![osu!status avatar](img/osustatus.jpg) | [@osustatus](https://twitter.com/osustatus) | Notificări cu trafic redus privind problemele legate de site-ul web și [Bancho](/wiki/Bancho_(server)). |
 | ![osu! support avatar](img/osusupport.jpg) | [@osusupport](https://twitter.com/osusupport) | Ajutor pentru rezolvarea problemelor legate de cont și/sau de comunitate. Administrat de [echipa de suport](/wiki/People/The_Team/Account_support_team). |
 
-## Comunitare
+## Comunitate
 
 | Avatar | Handle | Descriere |
 | :-: | :-: | :-- |
