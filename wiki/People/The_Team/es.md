@@ -52,10 +52,10 @@ Los siguientes son grupos de usuarios que están formados por miembros de la com
 | [Beatmap Nominators](Beatmap_Nominators) | Usuarios que van más allá de la llamada para asegurarse de que sus mapas sean calificados |
 | [Beatmap Spotlight Curators](Beatmap_Spotlight_Curators) | Responsables de seleccionar mapas de alta calidad para [beatmaps destacados](/wiki/Beatmap_Spotlights) |
 | [Desarrolladores](Developers) | Haciendo que el juego sea increíble agregando nuevas funciones y corrigiendo los errores |
-| [Equipo de Moderación Global](Global_Moderation_Team) | Vigilar los foros y el chat del juego |
+| [Global Moderation Team](Global_Moderation_Team) | Vigilar los foros y el chat del juego |
 | [Nomination Assessment Team](Nomination_Assessment_Team) | Administrar a los Beatmap Nominators |
 | [osu! Alumni](osu!_Alumni) | Aquellos conocidos por sus contribuciones que desde entonces se han mudado |
-| [Equipo del Project Loved](Project_Loved_Team) | Reconocer los beatmaps que más le gustan a la comunidad |
+| [Project Loved Team](Project_Loved_Team) | Reconocer los beatmaps que más le gustan a la comunidad |
 | [Equipo de soporte](Support_Team) | Ayuda/Asistencia para solicitar funciones |
 
 ## Miembros del equipo central inactivos
