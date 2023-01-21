@@ -31,16 +31,10 @@ tags:
 
 ## Настройка хитсаундов
 
-Самый удобный способ добавления [хитсаундов](/wiki/Beatmapping/Hitsound) к слайдеру — через   is most effectively done by selecting each part of a slider by double-clicking it in the [timeline](/wiki/Client/Beatmap_editor/Timelines). This will highlight the element in red and limit hitsounds to the selected part. If this selection isn't done, hitsounds will apply to the whole slider and will sound confusing for sliders that cover multiple, different sounds.
+Самый удобный способ добавления [хитсаундов](/wiki/Beatmapping/Hitsound) к слайдеру — по частям: на верхней [временной шкале](/wiki/Client/Beatmap_editor/Timelines) нужно дважды кликнуть по нужному компоненту слайдера. Выбранный элемент будет подсвечен красным, и все выбранные хитсаунды будут применяться только к нему. Если вместо этого по слайдеру кликнуть один раз, то изменения будут применяться ко всему слайдеру сразу, что может дать неожиданный эффект или плохо звучать, если музыка требует нескольких разных звуков.
 
-To change a slider's volume mid-slider, the current sampleset has to be changed alongside the volume for the change to take effect. This is necessary because the osu! client doesn't take sliderbodies properly into account when hitsound volumes are changed.
+Чтобы на время поменять громкость хитсаундов в середине слайдера, нужно изменить не только уровень громкости, но и номер сэмплсета (набора хитсаундов). Это необходимо, поскольку osu! не распознаёт траекторию слайдеров как самостоятельный объект и старается не делать лишних действий.
 
-## Slider techniques
+## Применение слайдеров
 
-Sliders are often mapped to long or held sounds in music, but can be used anywhere as long as there is rhythm to support it. Sliders are used to make reading intuitive when songs have rhythm-changes since slidertails give feedback but are played passively. Sliders are also used to simplify rhythm on easier difficulties.
-
-<!-- TODO: Include Skinnable Property-->
-
-<!-- TODO: Mention Sliderleniency and Slider Art here-->
-
-<!-- TODO: Add links and images-->
+Чаще всего слайдеры размещают на длинных, продолжительных звуках, но в целом их можно ставить везде, где это позволяет делать музыка. Помимо этого, слайдеры используются для того, чтобы упростить прохождение ритмически сложных участков песни (так как они менее чувствительны к неточным нажатиям, чем ноты), а также на низких сложностях, где нужно упростить ритм.
