@@ -21,7 +21,7 @@ tags:
 ***Nota: Para denunciar que un moderador se está portando mal o infringiendo el código de conducta del contribuidor, comuníquese con el [equipo de soporte de cuentas](/wiki/People/The_Team/Account_support_team#support@ppy.sh).***\
 *Véase también: [Reportar mal comportamiento](/wiki/Reporting_bad_behaviour)*
 
-Global Moderation Team es responsable del bienestar del chat y del foro, y se encarga de las interacciones dentro de la comunidad. Deben abordarse con cualquier pregunta relacionada con el aspecto de moderación del juego, que incluiría (pero no se limita a):
+El Global Moderation Team es responsable del bienestar del chat y del foro, y se encarga de las interacciones dentro de la comunidad. Deben abordarse con cualquier pregunta relacionada con el aspecto de moderación del juego, que incluiría (pero no se limita a):
 
 - problemas con el chat (por ejemplo, silencios o acoso)
 - conducta inapropiada en el foro (por ejemplo, comentarios inapropiados)
@@ -30,7 +30,7 @@ Global Moderation Team es responsable del bienestar del chat y del foro, y se en
 
 ## Convertirse en moderador
 
-Convertirse en miembro de Global Moderation Team requiere una cantidad considerable de contribución. Los miembros potenciales a menudo se notan por su disposición a ayudar a otros usuarios, actividad dentro de la comunidad y buen comportamiento. Se prefiere la capacidad de hablar otros idiomas además del inglés. Los candidatos se discuten dentro del equipo para determinar su posible incorporación como miembro del equipo.
+Convertirse en miembro del Global Moderation Team requiere una cantidad considerable de contribución. Los miembros potenciales a menudo se notan por su disposición a ayudar a otros usuarios, actividad dentro de la comunidad y buen comportamiento. Se prefiere la capacidad de hablar otros idiomas además del inglés. Los candidatos se discuten dentro del equipo para determinar su posible incorporación como miembro del equipo.
 
 ### Cómo ser considerado
 
