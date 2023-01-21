@@ -17,7 +17,7 @@ osu! are mai multe conturi de Twitter, fiecare având scopuri particulare. Major
 | ![BanchoBoat avatar](img/banchoboat.jpg) | [@banchoboat](https://twitter.com/banchoboat) | Comedy relief when things go wrong. |
 | ![NAT avatar](img/osu_nat.png) | [@osu_nat](https://twitter.com/osu_nat) | Știri, anunțuri și scurte sondaje de opinie ale comunității de către [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) (nu este condus de [echipa osu!](/wiki/People/The_Team)). |
 
-## Personal
+## Personale
 
 | Avatar | Handle | Descriere |
 | :-: | :-: | :-- |
