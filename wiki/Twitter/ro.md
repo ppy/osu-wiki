@@ -1,6 +1,6 @@
 # Twitter
 
-osu! are mai multe conturi de Twitter, fiecare având scopuri specifice. Cele mai multe au un trafic foarte redus, dar vă vor ajuta să vă țineți la curent în afara ecosistemului osu!
+osu! are mai multe conturi de Twitter, fiecare având scopuri particulare. Majoritatea au un flux redus de postări, dar vă vor ajuta să vă țineți la curent în afara ecosistemului osu!
 
 ## Servicii
 
