@@ -1,5 +1,5 @@
 ---
-tags:
+tags: 
   - upload
   - delete
   - beatmap
@@ -9,40 +9,40 @@ tags:
   - warning
 ---
 
-# Beatmapping and Editor
+# Beatmapping e l'Editor
 
-*Main page: [Help centre](/wiki/Help_centre)*
+*Pagina principale: [Centro di Supporto](/wiki/it/Help_centre)*
 
-This section is dedicated to issues with the Beatmap Editor and beatmapping in general.
+Questa sezione è dedicata ai problemi riguardo il Beatmap Editor e generalmente beatmapping.  
 
-## How do I upload/update my map? {#upload-beatmap}
+## Come carico/aggiorno la mia mappa? {#upload-beatmap}
 
-**You can do this through the in-game editor.**
+**Puoi farlo tramite l'editor in gioco.**
 
-To upload your beatmap, go into the editor and hit `File` > `Upload Beatmap`.
+Per caricare la tua beatmap, vai nell'editor e clicca `File` > `Carica Beatmap`.
 
-This will make your beatmap available for others to download on the website. Updating a map is the same process for a map that has already been uploaded.
+Questo renderà la tua beatmap disponibile da scaricare agli altri giocatori sul sito web. La stessa procedura vale nel caso si voglia aggiornare una mappa già caricata.
 
-Each user has a limited number of maps they can simultaneously upload. Leaving a map inactive for a month (28 days), by not updating it, will send it to the [Beatmap Graveyard](/wiki/Beatmap/Category#graveyard). To revive a beatmap from the graveyard back into a Pending or WIP status, update it.
+Ogni utente ha un numero limitato di mappe che possono caricare. Lasciare la mappa inattiva per un mese (28 giorni), senza aggiornarla, verrà mandata nelle [Beatmap Abbandonate](/wiki/Beatmap/Category#graveyard). Per risvegliare una beatmap da quelle abbandonate a quelle in attesa o WIP, basta aggiornarla.
 
-## The editor is telling me "The beatmap you are trying to submit isn't yours!" {#wrong-author}
+## l'editor mi dice che "la beatmap che stai cercando di caricare non è tua!" {#wrong-author}
 
-**This can happen if the creator of the beatmap is not properly set within the beatmap files.**
+**Questo può succedere nel caso il creatore della beatmap non è propriamente impostato nei file della beatmap.**
 
-In the editor, click `File` in the menu, then `Open .osu in Notepad`. Check the line `Creator:` under the `Metadata` section and make sure that it's set to your exact username, capitalisation included.
+Nell'editor, clicca `File` nel menu, poi `Apri .osu in Notepad`. Controlla la riga `Creator:` sotto la sezione `Metadata` e assicurati che combaci esattamente con il tuo nome utente, Maiuscole e minuscole incluse.
 
-If it isn't, manually change it for every difficulty in your beatmap, reload the beatmap, and you should be able to submit it.
+Nel caso non lo fosse, cambia manualmente la riga per ogni difficoltà nella tua beatmap, ricarica la mappa e dovresti essere in grado di caricarla.
 
-If you are still having issues or want more information on this, have a read through the [BSS issues page](/wiki/Guides/BSS_Issues).
+Se hai ancora problemi o desideri avere più informazioni a riguardo, ti invitiamo a leggere la [Pagina riguardante problemi BSS](/wiki/Guides/BSS_Issues).
 
-## I am an osu!supporter, but I don't have 20 pending slots! {#upload-slots}
+## Sono un osu!supporter, ma non ho 20 slot per le mappe in attesa! {#upload-slots}
 
-**The number of slots available depends on the number of ranked maps you have. For details, see [osu!supporter § Increased limits](/wiki/osu!supporter#increased-limits).**
+**Il numero di slot disponibili dipende dal tuo numero di mappe classificate. Per maggiori dettagli, leggi [osu!supporter § Limiti aumentati](/wiki/osu!supporter#increased-limits).**
 
-## How can I delete my beatmap? {#delete-beatmap}
+## Come elimino la mia beatmap? {#delete-beatmap}
 
-**The [support team](/wiki/People/The_Team/Account_support_team) does not take requests to manually delete uploaded beatmaps.**
+**Il [team di supporto](/wiki/People/The_Team/Account_support_team) non accettano richieste per eliminare manualmente le beatmap caricate.**
 
-You can delete your beatmap yourself by waiting for it to decay to the beatmap Graveyard, which it will do so after a month (28 days) without updates.
+Puoi cancellare la tua beatmap da solo aspettando un mese (28 giorni) senza aggiornarla, così che vada nelle mappe abbandonate.
 
-Once your beatmap is in the Graveyard, you can delete it yourself by going to the [Discussion page](/wiki/Beatmap_discussion) of your beatmap and clicking the `Delete` button that appears on the right side of the screen after scrolling down.
+Una volta che la tua mappa è abbandonata, puoi eliminarla andando nella [Pagina discussione](/wiki/Beatmap_discussion) della tua beatmap e cliccare il tasto `Elimina` che apparirà sulla parte destra dello schermo dopo aver scorso in basso.
