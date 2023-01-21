@@ -1,7 +1,3 @@
----
-outdated_translation: true
----
-
 # Installazione
 
 *Vedi anche: [Installazione/macOS](/wiki/Client/Installation/macOS)*
@@ -18,12 +14,12 @@ Questa pagina ti spiegherà approssimativamente come far funzionare osu! su un d
 1. Vai alla [pagina di download](https://osu.ppy.sh/home/download) e scarica l'installer.
 2. Individua ed esegui l'installer.
 3. Mentre l'installer è in esecuzione, c'è un periodo di tempo di 10 secondi che ti permette di scegliere il percorso d'installazione.
-   - Se vuoi cambiarlo, clicca il testo sotto la parola "Hi!" e seleziona il percorso di installazione.
+   - Se vuoi cambiarlo, clicca il testo sotto la parola `Hi!` e seleziona il percorso di installazione.
    - osu! verrà installato in quel percorso quando il timer sarà finito; in caso tu non faccia niente, verrà installato nella cartella AppData.
 4. Quando l'installer avrà finito, osu! si aprirà ed osu!direct scaricherà delle mappe iniziali in automatico.
 5. osu! ti richiederà di registrarti o fare il login.
    - Se hai già un account, esegui il login.
-   - Se devi registrarti, vedi [Registrazione](/wiki/Registration), poi fai il login.
+   - Se devi registrarti, vedi [Registrazione](/wiki/Registration).
 
 ## Troubleshooting
 
