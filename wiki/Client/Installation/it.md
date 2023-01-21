@@ -25,6 +25,17 @@ Questa pagina ti spiegherà approssimativamente come far funzionare osu! su un d
    - Se hai già un account, esegui il login.
    - Se devi registrarti, vedi [Registrazione](/wiki/Registration), poi fai il login.
 
+## Troubleshooting
+
+Se stai usando Windows 7 a 64-bit, potresti riscontrare delle difficoltà a installare osu! correttamente. Prova a installare la versione 64-bit di .NET Framework, nel caso l'osu!installer non l'abbia già fatto. [Scaricalo da qui](https://download.microsoft.com/download/2/0/e/20e90413-712f-438c-988e-fdaa79a8ac3d/dotnetfx35.exe)
+
+---
+
+**Se l'installer mostra errori quando provi ad installarlo, puoi provare alcune cose:**
+
+- Prova a reinstallare l'ultima versione di .NET Framework. [Puoi trovarlo qui](https://dotnet.microsoft.com/download).
+- Pulisci il tuo PC! Fai una scansione con un antivirus, e pulisci il registro di sistema. Un buon programma per una pulizia generica è CCleaner. Scansiona sia i tuoi file che il registro di sistema. L'installer può fallire se ci sono delle voci di registro provenienti da una copia precedente di osu! ancora presenti nel tuo sistema.
+
 ## Aggiungere beatmap
 
 *Vedi anche: [Beatmaps](/wiki/Beatmap)*
