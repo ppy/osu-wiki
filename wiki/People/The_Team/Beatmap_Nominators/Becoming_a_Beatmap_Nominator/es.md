@@ -11,7 +11,7 @@ Los solicitantes deben cumplir con un umbral mínimo de [kudosu](/wiki/Modding/K
 Los modders que deseen postularse para los Beatmap Nominators deben cumplir con los siguientes criterios:
 
 - Han acumulado al menos 200 [kudosu](/wiki/Modding/Kudosu) para modders de osu!, o 150 [kudosu](/wiki/Modding/Kudosu) para modders de osu!taiko/osu!catch/osu!mania.
-- Proporcionan 3 de sus mods que creen que los calificarían para ser parte de Beatmap Nominators.
+- Proporcionan 3 de sus mods que creen que los calificarían para ser parte de los Beatmap Nominators.
   - Los miembros anteriores del BN/NAT pueden enviar un mínimo de 2 mods para su solicitud.
 
 ### Expectativas de modding
