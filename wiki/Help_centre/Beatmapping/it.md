@@ -7,6 +7,9 @@ tags:
   - editor
   - status
   - warning
+  - caricare
+  - attenzione
+  - 
 ---
 
 # Beatmapping e l'Editor
