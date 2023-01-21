@@ -10,7 +10,7 @@ We're proud to add legendary vocalist **kakichoco** to our collection of Feature
 
 You'd expect the performance points algorithm to be *more* balanced right after a rework, but **kakichoco**'s [Zan'ei](https://osu.ppy.sh/beatmapsets/1759729) proved that wrong.
 
-Ever since [mrekk](https://osu.ppy.sh/users/7562902)'s [1,244pp score](https://osu.ppy.sh/scores/osu/4185178306) last summer (since rebalanced to *only* 1,033pp), **kakichoco** has become a household name in every osu! player's beatmap library, and we're here to pull her into our Featured Artist library too!
+Ever since [mrekk](https://osu.ppy.sh/users/7562902)'s [1,244 pp score](https://osu.ppy.sh/scores/osu/4185178306) last summer (since rebalanced to *only* 1,033 pp), **kakichoco** has become a household name in every osu! player's beatmap library, and we're here to pull her into our Featured Artist library too!
 
 **7** songs from **kakichoco**'s debut album of originals *Enrai* are ready to pluck from [her Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/336)!
 
