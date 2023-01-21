@@ -11,7 +11,7 @@ Los solicitantes deben cumplir con un umbral mínimo de [kudosu](/wiki/Modding/K
 Los modders que deseen postularse para los Beatmap Nominators deben cumplir con los siguientes criterios:
 
 - Han acumulado al menos 200 [kudosu](/wiki/Modding/Kudosu) para modders de osu!, o 150 [kudosu](/wiki/Modding/Kudosu) para modders de osu!taiko/osu!catch/osu!mania.
-- Proporcionan 3 de sus mods que creen que los calificarían para ser parte de los Beatmap Nominators.
+- Proporcionan 3 de sus mods que creen que los calificarían para ser parte de Beatmap Nominators.
   - Los miembros anteriores del BN/NAT pueden enviar un mínimo de 2 mods para su solicitud.
 
 ### Expectativas de modding
@@ -50,9 +50,9 @@ Tienes estos requisitos si no pasaste una solicitud de Beatmap Nominator y vuelv
 
 ### Volver a unirse después de haber sido eliminado de los Beatmap Nominators
 
-Los usuarios que abandonaron recientemente Beatmap Nominators pueden tener diferentes requisitos para volver a unirse en comparación con cuando se unieron por primera vez. Para los usuarios que han tenido un buen desempeño antes de irse, es posible que puedan volver a unirse con requisitos relajados o sin ningún requisito. El NAT informará al usuario si tiene la oportunidad de acelerar su camino de regreso a los Beatmap Nominators.
+Los usuarios que abandonaron recientemente los Beatmap Nominators pueden tener diferentes requisitos para volver a unirse en comparación con cuando se unieron por primera vez. Para los usuarios que han tenido un buen desempeño antes de irse, es posible que puedan volver a unirse con requisitos relajados o sin ningún requisito. El NAT informará al usuario si tiene la oportunidad de acelerar su camino de regreso a los Beatmap Nominators.
 
-Si antes era un Beatmap Nominator, estos requisitos se aplican a menos que haya fallado una solicitud desde la última vez que fue Beatmap Nominator.
+Si antes era Beatmap Nominator, estos requisitos se aplican a menos que haya fallado una solicitud desde la última vez que fue Beatmap Nominator.
 
 El requisito de 8 mods para aquellos que solicitan después de ser eliminados por actividad se comparte en todos los modos.
 
