@@ -33,7 +33,7 @@ For now, the correct procedure to manually modify skins or beatmaps outside of t
 
 ### Via hard links
 
-On most Windows systems, osu!(lazer) will be able to import data from the stable version of the game without having to create a second copy of the data on disk. This is possible thanks to an operating system feature called *hard links*.
+On most systems, osu!(lazer) will be able to import data from the stable version of the game without having to create a second copy of the data on disk. This is possible thanks to an operating system feature called *hard links*.
 
 A hard link is conceptually similar to a *shortcut* in that it is a method that allows a user to have the same file available from multiple different places on their filesystem. However, while shortcuts are just plain files that point to a different file (and therefore require additional space), hard links work one level deeper, at the level of the filesystem itself.
 
@@ -41,7 +41,13 @@ In simple terms, two hard-linked files are just two different names for the same
 
 Note that if disk usage is checked using the `Properties` window in Explorer or any other similar method, it will appear that both the `Songs` directory and the `files` directory are consuming disk space, potentially misleading users to think that the data is stored twice. This is an artifact of file size accounting, and the actual underlying data is **not** duplicated. This can be verified by comparing the total amount of free space on the entire disk before and after the migration.
 
-As hard links are a filesystem-level feature, it is required that the hard-linked files reside on a common drive, and that the drive is formatted using NTFS.
+#### Supported systems
+
+As hard links are a filesystem-level feature, it is required that the hard-linked files reside on a common drive.
+
+- **Windows:** The drive must be formatted using NTFS.
+- **macOS:** The file system must support hard links.
+- **Linux:** The file system must support hard links.
 
 ### Via file copy
 
