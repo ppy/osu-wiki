@@ -21,4 +21,4 @@ osu! are mai multe conturi de Twitter, fiecare având scopuri particulare. Major
 
 | Avatar | Handle | Descriere |
 | :-: | :-: | :-- |
-| ![Dean Herbert avatar](img/ppy.jpg) | [@ppy](https://twitter.com/ppy) | Contul personal de Twitter al [creatorului osu!](/wiki/People/peppy), care nu este strict legat de osu!, dar care acoperă o mare parte din acesta. |
+| ![Dean Herbert avatar](img/ppy.jpg?2) | [@ppy](https://twitter.com/ppy) | Contul personal de Twitter al [creatorului osu!](/wiki/People/peppy), care nu este strict legat de osu!, dar care acoperă o mare parte din acesta. |
