@@ -182,7 +182,7 @@ For the full Spotlights Team members list, check out the [Beatmap Spotlight Cura
 | :-- | :-- |
 | Season start | Dec 6, 2022 |
 | Playlist lobby: Playlist A | Dec 6 - Dec 20, 2022 |
-| Playlist lobby: Playlist B | Dec 20 - Jan 3, 2023 |
+| Playlist lobby: Playlist B | Dec 20, 2022 - Jan 3, 2023 |
 | Playlist lobby: Playlist C | Jan 3 - Jan 17, 2023 |
 | Playlist lobby: Playlist A | Jan 17 - Jan 24, 2023 |
 | Playlist lobby: Playlist B | Jan 24 - Jan 31, 2023 |
