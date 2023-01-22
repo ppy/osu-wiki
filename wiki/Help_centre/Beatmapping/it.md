@@ -14,9 +14,9 @@ tags:
 
 # Beatmapping e l'Editor
 
-*Pagina principale: [Centro di Supporto](/wiki/it/Help_centre)*
+*Pagina principale: [Centro di Supporto](/wiki/Help_centre)*
 
-Questa sezione è dedicata ai problemi riguardo il Beatmap Editor e generalmente beatmapping.  
+Questa sezione è dedicata ai problemi riguardanti il l'editor delle beatmap e, più in generale,al beatmapping.  
 
 ## Come carico/aggiorno la mia mappa? {#upload-beatmap}
 
@@ -28,13 +28,13 @@ Questo renderà la tua beatmap disponibile da scaricare agli altri giocatori sul
 
 Ogni utente ha un numero limitato di mappe che possono caricare. Lasciare la mappa inattiva per un mese (28 giorni), senza aggiornarla, verrà mandata nelle [Beatmap Abbandonate](/wiki/Beatmap/Category#graveyard). Per risvegliare una beatmap da quelle abbandonate a quelle in attesa o WIP, basta aggiornarla.
 
-## l'editor mi dice che "la beatmap che stai cercando di caricare non è tua!" {#wrong-author}
+## L'editor dice che "la beatmap che stai cercando di caricare non è tua!" {#wrong-author}
 
-**Questo può succedere nel caso il creatore della beatmap non è propriamente impostato nei file della beatmap.**
+**Questo può succedere nel caso il creatore della beatmap non è stato impostato correttamente nei file della beatmap.**
 
-Nell'editor, clicca `File` nel menu, poi `Apri .osu in Notepad`. Controlla la riga `Creator:` sotto la sezione `Metadata` e assicurati che combaci esattamente con il tuo nome utente, Maiuscole e minuscole incluse.
+Nell'editor, clicca `File` nella barra degli strumenti, poi `Apri .osu in Notepad`. Controlla la riga `Creator:` sotto la sezione `Metadata` e assicurati che combaci esattamente con il tuo nome utente, maiuscole e minuscole incluse.
 
-Nel caso non lo fosse, cambia manualmente la riga per ogni difficoltà nella tua beatmap, ricarica la mappa e dovresti essere in grado di caricarla.
+Nel caso non lo fosse, cambia manualmente la riga per ogni difficoltà della tua beatmap, ricarica la mappa e dovresti essere in grado di caricarla.
 
 Se hai ancora problemi o desideri avere più informazioni a riguardo, ti invitiamo a leggere la [Pagina riguardante problemi BSS](/wiki/Guides/BSS_Issues).
 
