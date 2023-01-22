@@ -52,7 +52,7 @@ Ci sono due modi per aggiungere beatmap, tramite sito web o osu!direct (che rich
 
 *Nota: Devi essere un osu!supporter ed avere una connessione internet per usare osu!direct.*
 
-1. Apri osu!, se non l'avessi già fatto.
+1. Apri osu!, e clicca il pulsante osu!direct nella parte destra della schermata principale.
 2. Trova una canzone che ti piacce.
 3. Fai doppio click sulla canzone nella lista o clicca `Download` a destra per scaricarla.
    - Se invece non vuoi scaricare il video, clicca `DL NoVideo`.
