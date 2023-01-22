@@ -21,9 +21,9 @@ tags:
 
 ## References
 
-[^cat-birth]: [(ограниченный доступ) Пост от Derekku в теме "MAT Lounge", 29.08.2011](https://osu.ppy.sh/community/forums/posts/1004797)
-[^cat-recruitment-2013]: ["2013 NewCAT Applications", тема от Makar, 19.05.2013](https://osu.ppy.sh/community/forums/topics/133248)
-[^cat-hiatus]: [(ограниченный доступ) "Ranking charts overhaul", тема от Ephemeral, 17.09.2013](https://osu.ppy.sh/community/forums/topics/155384)
-[^cat-crisis]: [(ограниченный доступ) "encouraging staff activity + CAT", тема от Ephemeral, 02.10.2013](https://osu.ppy.sh/community/forums/topics/157800)
-[^cat-recruitment-2014]: [(ограниченный доступ) "[IMPORTANT] Recruiting NewCATs", тема от Loctav, 16.06.2014](https://osu.ppy.sh/community/forums/topics/218032)
-[^cat-death]: ["February 2015 Monthly Ranking Charts - New Season!", новость от Loctav 18.03.2015](https://osu.ppy.sh/home/news/2015-03-18-february-2015-monthly-ranking-charts-new-season)
+[^cat-birth]: [(ограниченный доступ) Пост от Derekku в теме «MAT Lounge», 29.08.2011](https://osu.ppy.sh/community/forums/posts/1004797)
+[^cat-recruitment-2013]: [«2013 NewCAT Applications», тема от Makar, 19.05.2013](https://osu.ppy.sh/community/forums/topics/133248)
+[^cat-hiatus]: [(ограниченный доступ) «Ranking charts overhaul», тема от Ephemeral, 17.09.2013](https://osu.ppy.sh/community/forums/topics/155384)
+[^cat-crisis]: [(ограниченный доступ) «encouraging staff activity + CAT», тема от Ephemeral, 02.10.2013](https://osu.ppy.sh/community/forums/topics/157800)
+[^cat-recruitment-2014]: [(ограниченный доступ) «[IMPORTANT] Recruiting NewCATs», тема от Loctav, 16.06.2014](https://osu.ppy.sh/community/forums/topics/218032)
+[^cat-death]: [«February 2015 Monthly Ranking Charts - New Season!», новость от Loctav 18.03.2015](https://osu.ppy.sh/home/news/2015-03-18-february-2015-monthly-ranking-charts-new-season)
