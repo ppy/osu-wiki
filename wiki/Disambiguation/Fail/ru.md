@@ -3,4 +3,4 @@
 **Фейл** может означать:
 
 - Проваленное прохождение [карты](/wiki/Beatmap).
-- [Состояние сториборда](/wiki/Storyboard/Scripting/General_Rules#layers) во время [перерыва](/wiki/Beatmap/Break) в карте.
+- Название [слоя сториборда](/wiki/Storyboard/Scripting/General_Rules#слои) во время [перерыва](/wiki/Beatmap/Break) в карте.

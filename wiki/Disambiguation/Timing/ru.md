@@ -4,4 +4,4 @@
 
 - [Тайминг](/wiki/Beatmapping/Timing) — процесс определения музыкальной структуры песни, необходимый для точной расстановки объектов.
 - [Timing](/wiki/Client/Beatmap_editor/Timing) — одноимённая вкладка редактора карт, где собраны настройки, относящиеся к таймингу.
-- Ширина [окон попаданий](/wiki/Beatmap/Overall_difficulty#timing), на основе которых вычисляются [оценки за нажатия](/wiki/Gameplay/Judgement).
+- Ширина [окон попаданий](/wiki/Beatmap/Overall_difficulty#тайминг), на основе которых вычисляются [оценки за нажатия](/wiki/Gameplay/Judgement).
