@@ -183,11 +183,11 @@ For the full Spotlights Team members list, check out the [Beatmap Spotlight Cura
 | Season start | Dec 6, 2022 |
 | Playlist lobby: Playlist A | Dec 6 - Dec 20, 2022 |
 | Playlist lobby: Playlist B | Dec 20 - Jan 3, 2023 |
-| Playlist lobby: Playlist C | Jan 3 - Sep 15, 2023 |
-| Playlist lobby: Playlist A | Jan 15 - Jan 22, 2023 |
-| Playlist lobby: Playlist B | Jan 22 - Jan 29, 2023 |
-| Playlist lobby: Playlist C | Jan 29 - Feb 5, 2023 |
-| Season conclusion | Feb 5, 2023 |
+| Playlist lobby: Playlist C | Jan 3 - Jan 17, 2023 |
+| Playlist lobby: Playlist A | Jan 17 - Jan 24, 2023 |
+| Playlist lobby: Playlist B | Jan 24 - Jan 31, 2023 |
+| Playlist lobby: Playlist C | Jan 31 - Feb 7, 2023 |
+| Season conclusion | Feb 7, 2023 |
 
 The Winter Season 2023 leaderboard will be available over at the [Beatmap Spotlights Winter 2023 wiki article](/wiki/Beatmap_Spotlights/Seasons/2023_Winter) once the first batch of lobbies conclude in the coming weeks.
 

@@ -18,10 +18,10 @@ tags:
 | Playlist lobby: Playlist A | 6 décembre - 20 décembre 2022 |
 | Playlist lobby: Playlist B | 20 décembre - 3 janvier 2022 |
 | Playlist lobby: Playlist C | 3 janvier - 15 janvier 2022 |
-| Playlist lobby: Playlist A | 15 janvier - 22 janvier 2022 |
-| Playlist lobby: Playlist B | 22 janvier - 29 janvier 2022 |
-| Playlist lobby: Playlist C | 29 janvier - 5 février 2022 |
-| Conclusion de la saison | 5 février 2022 |
+| Playlist lobby: Playlist A | 17 janvier - 24 janvier 2022 |
+| Playlist lobby: Playlist B | 24 janvier - 31 janvier 2022 |
+| Playlist lobby: Playlist C | 31 janvier - 7 février 2022 |
+| Conclusion de la saison | 7 février 2022 |
 
 ## Lobbies multijoueurs hebdomadaires
 
