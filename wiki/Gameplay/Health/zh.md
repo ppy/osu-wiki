@@ -1,5 +1,9 @@
 ---
 tags:
+  - health points
+  - hit points
+  - HP
+  - life
   - 生命值
   - 生命
   - 血量
@@ -99,5 +103,3 @@ tags:
 血量流失：
 
 - 打出 **50** 或者漏掉音符
-
-<!--TODO: Insert links-->
