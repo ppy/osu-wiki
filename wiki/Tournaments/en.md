@@ -752,6 +752,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Touhou Project Mania Cup 1st](TMC/1st) | 2020-09-14 | 2020-12-06 | MY 2.5 + TH 1.5 | yuyupa | SMOrcat |
+| [Touhou Project Mania Cup 2nd](TMC/2nd) | 2021-12-20 | 2022-03-20 | Black Stick Rot | rice quadruplets | Hourai Elixir |
 
 ### Multimode
 
