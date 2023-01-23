@@ -6,7 +6,7 @@ tags:
 
 # osu!supporter
 
-**osu!supporter** (o il **tag osu!supporter**) è un titolo temporaneo conferito ai giocatori che supportano osu! tramite donazioni monetarie volontarie per aiutarlo a prosperare. I supporter ricevono una serie di benefici estetici e pratici, la maggior parte dei quali sono attivi solo quando il titolo è presente. Le funzionalità extra di osu!supporter non danno alcun vantaggio nel gioco, nelle prestazioni o nei punteggi e non lo faranno mai.
+**osu!supporter** (o il **tag osu!supporter**) è un titolo temporaneo conferito ai giocatori che supportano osu! tramite donazioni monetarie volontarie per aiutarne lo sviluppo. I supporter ricevono una serie di benefici estetici e pratici, la maggior parte dei quali sono attivi solo quando il titolo è presente. Le funzionalità extra di osu!supporter non danno alcun vantaggio nel gioco, nelle prestazioni o nei punteggi e non lo faranno mai.
 
 Il tag osu!supporter può essere ottenuto dalla sua [pagina del negozio](https://osu.ppy.sh/store/products/supporter-tag).
 
@@ -42,7 +42,7 @@ I supporter ricevono una nuova sezione del profilo denominata `me!`, spesso chia
 
 La sezione `me!` può essere un buon posto per:
 
-- Banner, collaborazioni e infografiche per dare un tocco al profilo
+- Banner, collaborazioni e infografiche per dare un tocco in più al profilo
 - Alcuni paragrafi o elementi che forniscono informazioni sulla vita di un giocatore
 - Una vetrina di mappe preferite, mappatori o qualsiasi altra cosa che considerano importante
 
@@ -53,7 +53,7 @@ I supporter possono personalizzare ulteriormente il loro profilo impostando un'i
 - Premere l'icona a forma di matita nell'angolo in basso a destra del posto riservato alla copertina.
 - Selezionare una nuova copertina tra alcune opzioni predefinite o caricare la propria immagine (le sue dimensioni dovrebbero essere 2400x640).
 
-Una volta che osu!supporter scade, la copertina rimarrà, ma non potrà essere modificata.
+Una volta che l'osu!supporter scade, la copertina rimarrà, ma non potrà essere modificata.
 
 ### Un cambio nome utente gratuito
 
@@ -67,11 +67,11 @@ osu!direct è il motore di ricerca e download di beatmap all'interno del gioco d
 
 - I link alle beatmap nella chat, che puntano alle beatmap sul sito osu!, ora fanno comparire la finestra di download all'interno del gioco
 - Download automatici delle beatmap durante la riproduzione in una lobby [multigiocatore](/wiki/Client/Interface/Multiplayer) o mentre si guarda un altro giocatore in modalità [spettatore](/wiki/Gameplay/Spectating) (può essere disattivato nelle impostazioni)
-- Collegamento automatico delle beatmap che si stanno giocando nella chat `#spectator` per gli spettatori (può essere [disattivato nelle impostazioni](/wiki/Client/Options#alerts-and-privacy))
+- Annuncio automatico delle beatmap che si stanno giocando nella chat `#spectator` per gli spettatori (può essere [disattivato nelle impostazioni](/wiki/Client/Options#alerts-and-privacy))
 
 ### Classifiche estese
 
-Inoltre, i supporter hanno accesso a una serie di [classifiche](/wiki/Beatmap#leaderboards) beatmap-specifiche disponibili sia in-game che sul sito web:
+Inoltre, i supporter hanno accesso a una serie di [classifiche](/wiki/Beatmap#leaderboards) specifiche per beatmap disponibili sia in-game che sul sito web:
 
 - Classifiche globali per ogni combinazione di [modificatori di gioco](/wiki/Gameplay/Game_modifier)
 - Classifiche specifiche per paese per i giocatori che hanno la stessa bandiera
@@ -89,7 +89,7 @@ osu! offre ai supporter limiti più rilassati per varie funzionalità online:
 
 Inoltre, i portatori di osu!supporter hanno limiti di download delle mappe più flessibili.
 
-### Extra skinnable elements
+### Ulteriori elementi personalizzabili della skin
 
 Dopo aver ottenuto osu!supporter, alcuni elementi visivi e uditivi dell'interfaccia osu! diventano personalizzabili:
 
