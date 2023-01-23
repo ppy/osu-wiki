@@ -1,6 +1,10 @@
 ---
-outdated_translation: true
 tags:
+  - letter grade
+  - rank
+  - silver s
+  - sh
+  - xh
   - ランク
 ---
 
