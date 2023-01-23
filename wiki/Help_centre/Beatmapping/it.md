@@ -1,5 +1,5 @@
 ---
-tags: 
+tags:
   - upload
   - delete
   - beatmap
@@ -9,7 +9,6 @@ tags:
   - warning
   - caricare
   - attenzione
-  - 
 ---
 
 # Beatmapping e l'Editor
