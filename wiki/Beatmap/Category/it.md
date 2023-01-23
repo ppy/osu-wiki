@@ -1,51 +1,50 @@
-# Beatmap category
+# Categorie di beatmap
 
-[Beatmaps](/wiki/Beatmap) submitted online are split into categories depending on their recent activity, [nomination](/wiki/Beatmap_ranking_procedure#qualification) status, and popularity.
+Le [beatmaps](/wiki/Beatmap) caricate online sono suddivise in categorie in base alla loro recente attività , [nominazioni](/wiki/Beatmap_ranking_procedure#qualification) stato e popolarità.
 
-## Present categories
+## Categorie presenti
 
-### Graveyard
+### Mappe abbandonate
 
-The graveyard is a place where beatmaps abandoned by their [hosts](/wiki/Beatmap/Beatmap_host) reside. These beatmaps do not have leaderboards, but they can still be downloaded and played, and they continue to [contribute to play statistics](#unranked-beatmaps-statistics). They use the question mark icon (![](/wiki/shared/status/graveyard.png)) in the [song selection screen](/wiki/Client/Interface#song-select).
+La sezione "Mappe abbandonate" è un luogo dove risiedono le beatmap abbandonate dai loro [hosts](/wiki/Beatmap/Beatmap_host). Queste mappe non hanno classifiche, ma possono ancora essere scaricate e giocate e continuano a [contribuire alle statistiche di gioco](#unranked-beatmaps-statistics). Utilizzano l'icona del punto interrogativo (![](/wiki/shared/status/graveyard.png)) nella [schermata di selezione dei brani](/wiki/Client/Interface#song-select).
 
-A beatmap is moved to the graveyard from [Work in Progress and Pending](#work-in-progress-and-pending) automatically once it hasn't been updated for 4 weeks. The author can revive the beatmap (i.e. bring back to [Pending](#work-in-progress-and-pending)) by updating it via the [beatmap submission system](/wiki/Beatmapping/Beatmap_submission). A beatmap in the graveyard doesn't count towards a mapper's [total upload limit](/wiki/osu!supporter#increased-limits), but reviving it requires a free pending slot.
+Una beatmap viene spostata automaticamente nelle mappe abbandonate dalle [Beatmap in lavorazione e in attesa](#work-in-progress-and-pending) quando non viene aggiornata per 4 settimane. L'autore può far rivivere la beatmap (cioè riportarla [In attesa](#work-in-progress-and-pending)) aggiornandola tramite il [sistema di caricamento delle beatmap](/wiki/Beatmapping/Beatmap_submission). Una beatmap nelle abbandonate non conta per il [limite totale di caricamento](/wiki/osu!supporter#increased-limits) di un mappatore , ma per riportarla in vita è necessario uno slot libero in sospeso.
 
-### Work in Progress and Pending
+### Mappe in lavorazione e in attesa
 
-Work in Progress (commonly initialised as *WIP*) and Pending are the two categories beatmaps are put into on initial submission. Beatmaps in these categories can move to the [Qualified](#qualified) category upon [nomination](/wiki/Beatmap_ranking_procedure#nominations) by at least two [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators). This usually includes a great amount of feedback from [modders](/wiki/Modding/Modder) through [modding](/wiki/Modding). Work in Progress and Pending beatmaps do not have leaderboards, but [contribute to play statistics](#unranked-beatmaps-statistics). They use the question mark icon (![](/wiki/shared/status/pending.png)) in the song selection screen.
+Le mappe in lavorazione (comunemente abbreviate in *WIP*) e in attesa sono le due categorie in cui vengono inseriti i beatmap al momento dell'invio iniziale. I beatmap in queste categorie possono passare alla categoria [Qualificate](#qualificati) dalla [nomina](/wiki/Beatmap_ranking_procedure#nominations) da parte di almeno due [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators). Questo di solito include una grande quantità di feedback da parte dei [modder](/wiki/Modding/Modder) attraverso il [modding](/wiki/Modding). Le beatmap in lavorazione e in attesa non hanno classifiche, ma [contribuiscono alle statistiche di gioco](#unranked-beatmaps-statistics). Utilizzano l'icona del punto interrogativo (![](/wiki/shared/status/pending.png)) nella schermata di selezione dei brani.
 
-Inactive beatmaps that have been in this category for 4 weeks are automatically moved into the [Graveyard](#graveyard) category.
 
-### Qualified
+### Qualificate
 
-Qualified is last stage of the [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure). These beatmaps have been nominated by at least two [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) who have made sure that the beatmap meets the standards of the [ranking criteria](/wiki/Ranking_Criteria). Beatmaps put into Qualified enter a [ranking queue](/wiki/Beatmap_ranking_procedure/Ranking_queue), and will eventually be [Ranked](#ranked) if they aren't [disqualified](/wiki/Beatmap_ranking_procedure#nomination-resets) from the queue. This period serves as a last line of defence in which any flaws and mistakes that might have slipped through can be fixed.
+Quando la mappa è qualificata siamo nell'ultima fase della [procedura di classificazione delle beatmap](/wiki/Beatmap_ranking_procedure). Queste beatmap sono state nominate da almeno due [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) che si sono assicurati che la beatmap soddisfi gli standard dei [criteri di classificazione](/wiki/Ranking_Criteria). Le beatmap messe nella sezione Qualificate entrano in una [coda di classificazione](/wiki/Beatmap_ranking_procedure/Ranking_queue), e alla fine saranno [Classificate](#ranked) se non vengono [squalificate](/wiki/Beatmap_ranking_procedure#nomination-resets) dalla coda. Questo periodo serve come ultima fase di controllo per correggere eventuali difetti ed errori che potrebbero essere sfuggiti.
 
-Qualified beatmaps have leaderboards, but no [performance points](/wiki/Performance_points) will be awarded and all scores will be deleted when it moves out of Qualified. They use the check icon (![](/wiki/shared/status/qualified.png)) in the song selection screen.
+Le beatmap qualificate hanno classifiche, ma non vengono assegnati [punti performance](/wiki/Performance_points) e tutti i punteggi vengono cancellati quando escono dalla categoria Qualificate. Usano l'icona della spunta (![](/wiki/shared/status/qualified.png)) nella schermata di selezione dei brani.
 
-### Ranked
+### Classificate
 
-Ranked beatmaps are endorsed as official content, in the sense that they have reached or surpassed the standards of the [ranking criteria](/wiki/Ranking_Criteria). They allow players to compete on leaderboards and gain [performance points](/wiki/Performance_points) from setting scores. Once a beatmap has achieved Ranked status, its status cannot be altered again (except in extraordinary cases). Ranked beatmaps use the double upwards chevron icon (![](/wiki/shared/status/ranked.png)) in the song selection screen.
+Le beatmap classificate sono approvate come contenuto ufficiale, nel senso che hanno raggiunto o superato gli standard dei [criteri di classificazione](/wiki/Ranking_Criteria). Permettono ai giocatori di competere nelle classifiche e di guadagnare [punti performance](/wiki/Performance_points) grazie ai punteggi ottenuti. Una volta che una beatmap ha raggiunto lo stato di classificata, il suo stato non può essere più modificato (tranne in casi straordinari). Le beatmap classificate utilizzano l'icona del doppio chevron verso l'alto (![](/wiki/shared/status/ranked.png)) nella schermata di selezione dei brani.
 
-### Loved
+### Amate
 
-*For history of the Loved category, see: [History of Loved](/wiki/Beatmap/History_of_Loved)*
+*Per la storia della categoria Amate vedere: [Storia delle beatmap Amate](/wiki/Beatmap/Storia_degli_Amati)*.
 
-Loved beatmaps may not meet the [ranking criteria](/wiki/Ranking_Criteria), but are *loved* by the community and thus are regularly added based on community votes in [Project Loved](/wiki/Community/Project_Loved). They have leaderboards, but no [performance points](/wiki/Performance_points) will be awarded and all scores will be deleted if it moves out of Loved (this usually only happens on the creator's request). Loved beatmaps use the heart icon (![](/wiki/shared/status/loved.png)) in the song selection screen.
+Le beatmap Amate possono non soddisfare i [criteri di classificazione](/wiki/Ranking_Criteria), ma sono *amate* dalla comunità e quindi vengono regolarmente aggiunte in base ai voti della comunità in [Project Loved](/wiki/Community/Project_Loved). Hanno classifiche, ma non vengono assegnati [punti performance](/wiki/Performance_points) e tutti i punteggi vengono cancellati se escono dalla categoria Amati (di solito questo avviene solo su richiesta del creatore). Le beatmap amate utilizzano l'icona del cuore (![](/wiki/shared/status/loved.png)) nella schermata di selezione dei brani.
 
-## History
+## Storia
 
-### Approved
+### Approvate
 
-The Approved beatmap category was used between 2008 and 2014 to house beatmaps that exceeded length and maximum score requirements on older renditions of the [ranking criteria](/wiki/Ranking_Criteria), as well as rare beatmaps that broke other rules on the criteria.
+La categoria delle beatmap approvate è stata utilizzata tra il 2008 e il 2014 per ospitare le beatmap che superavano i requisiti di lunghezza e punteggio massimo previsti dalle vecchie versioni dei [criteri di classificazione](/wiki/Ranking_Criteria), oltre a rare beatmap che infrangevano altre regole dei criteri.
 
-Approved beatmaps did not affect a user's score ranking until shortly after the shift from score ranking to [performance points](/wiki/Performance_points) ranking. Following this change, Approved status was used exclusively for beatmaps with more than 6 minutes of [drain time](/wiki/Gameplay/Drain_time).
+Le beatmap approvate non hanno influenzato la classifica per punteggio degli utenti fino a poco dopo il passaggio a quella per [punti performance](/wiki/Performance_points). In seguito a questo cambiamento, lo stato di "Approvato" è stato utilizzato esclusivamente per le beatmap con più di 6 minuti di [tempo di gioco](/wiki/Gameplay/Drain_time).
 
-Approved beatmaps use the check icon (![](/wiki/shared/status/approved.png)) in the song selection screen and function the same as ranked beatmaps.
+Le beatmap approvate utilizzano l'icona della spunta (![](/wiki/shared/status/approved.png)) nella schermata di selezione dei brani e funzionano come le beatmap classificate.
 
-### Appearance of Qualified
+### Appearizione della sezione Qualificate
 
-The [Qualified](#qualified) category was introduced in August 2014 during [Restructuring of the BAT](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat) to give newly ranked beatmaps more visibility. If a beatmap in Qualified had to be disqualified and moved back to Pending, it wouldn't impact players' statistics, because the category itself was designed to give transient scores from the very start. This had set correct expectations and greatly reduced the community's negative feedback to unranks.
+La categoria [Qualificate](#qualified) è stata introdotta nell'agosto 2014 durante la [Ristrutturazione del BAT](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat) per dare maggiore visibilità alle beatmap appena classificate. Se una beatmap Qualificata fosse stata squalificata e spostata di nuovo in attesa, non avrebbe avuto alcun impatto sulle statistiche dei giocatori, perché la categoria stessa era stata progettata per dare punteggi transitori fin dall'inizio. Le aspettative preimpostate si sono dimostrate corrette e si è ridotto notevolmente il feedback negativo della comunità nei confronti delle declassificazioni.
 
-### Unranked beatmaps statistics
+### Statistiche delle mappe non classificate
 
-After [7 August 2020](https://osu.ppy.sh/home/changelog/stable40/20200807.3), beatmaps from [Graveyard](#graveyard), as well as [Work in Progress and Pending](#work-in-progress-and-pending), started contributing to users' play count and total score. They also received play statistics on their individual pages (play count, success rate, and points of failure), which was only shown before for beatmaps from [Qualified](#qualified) and [Ranked](#ranked).
+Dopo il [7 agosto 2020](https://osu.ppy.sh/home/changelog/stable40/20200807.3), le beatmap [Abbandonate](#graveyard) e [In lavorazione e in attesa](#work-in-progress-and-pending) hanno iniziato a contribuire al conteggio delle partite giocate degli utenti e al punteggio totale. Hanno anche ricevuto statistiche di gioco sulle loro pagine individuali (conteggio delle partite, percentuale di successo e punti di fallimento), cosa che prima veniva mostrata solo per le beatmap [Qualificate](#qualified) e [Classificate](#ranked).
