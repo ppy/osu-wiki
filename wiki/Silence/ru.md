@@ -5,8 +5,6 @@ tags:
   - бан чата
   - блок чата
   - молчанка
-outdated_translation: true
-outdated_since: 203a715b0188784607756ebee4cd0a3daa7ddf3d
 ---
 
 # Сайленс
@@ -52,4 +50,4 @@ outdated_since: 203a715b0188784607756ebee4cd0a3daa7ddf3d
 
 ## Примечания
 
-[^chat-cleanup]: [Blog post by ppy (2012-12-17) "This Week in osu!"](https://blog.ppy.sh/post/38114063519/this-week-in-osu-5)
+[^chat-cleanup]: ["This Week in osu!", блог-пост от ppy, 17.12.2012](https://blog.ppy.sh/post/38114063519/this-week-in-osu-5)
