@@ -1,6 +1,6 @@
 # Categorie di beatmap
 
-Le [beatmaps](/wiki/Beatmap) caricate online sono suddivise in categorie in base alla loro recente attività , [nominazioni](/wiki/Beatmap_ranking_procedure#qualification) stato e popolarità.
+Le [beatmaps](/wiki/Beatmap) caricate online sono suddivise in categorie in base alla loro recente attività , stato della [nominazione](/wiki/Beatmap_ranking_procedure#qualification) e popolarità.
 
 ## Categorie presenti
 
@@ -27,7 +27,7 @@ Le beatmap classificate sono approvate come contenuto ufficiale, nel senso che h
 
 ### Amate
 
-*Per la storia della categoria Amate vedere: [Storia delle beatmap Amate](/wiki/Beatmap/Storia_degli_Amati)*.
+*Per la storia della categoria Amate vedere: [Storia delle beatmap Amate](/wiki/Beatmap/History_of_Loved)*.
 
 Le beatmap Amate possono non soddisfare i [criteri di classificazione](/wiki/Ranking_Criteria), ma sono *amate* dalla comunità e quindi vengono regolarmente aggiunte in base ai voti della comunità in [Project Loved](/wiki/Community/Project_Loved). Hanno classifiche, ma non vengono assegnati [punti performance](/wiki/Performance_points) e tutti i punteggi vengono cancellati se escono dalla categoria Amati (di solito questo avviene solo su richiesta del creatore). Le beatmap amate utilizzano l'icona del cuore (![](/wiki/shared/status/loved.png)) nella schermata di selezione dei brani.
 
