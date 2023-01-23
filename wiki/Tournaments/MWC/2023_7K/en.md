@@ -124,7 +124,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/c9e
 
 ### Quarterfinals
 
-**[Download the mappack here (87 MB)](https://drive.google.com/uc?id=11NJfnHIOB6TBqbrxKC7kRVkppahj9fl0)**
+**[Download the mappack here (83 MB)](https://drive.google.com/uc?id=11NJfnHIOB6TBqbrxKC7kRVkppahj9fl0)**
 
 - Rice
   1. [linear ring with RNAcid - Gypsophila (Evening) \[cocoon st2\]](https://osu.ppy.sh/beatmapsets/1715584#mania/3568135)
@@ -132,7 +132,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/c9e
   3. [69 de 74 - Aratanaru Ketsui (Level 51) \[World Guardian\]](https://osu.ppy.sh/beatmapsets/1927387#mania/3980102)
   4. [Street - Reincarnation (Maxus) \[Metempsychosis\]](https://osu.ppy.sh/beatmapsets/1927411#mania/3980150)
   5. [\*wakadori - Fuzzy-Navel (Evening) \[move lv.17 1.1x (155bpm)\]](https://osu.ppy.sh/beatmapsets/1715094#mania/3504373)
-  6. [The Flashbulb - Mellann (lenpai) \[ionized\] *(temporary link)*](https://leoflt.com/s/Qmjv)
+  6. [The Flashbulb - Mellann (lenpai) \[ionized\]](https://osu.ppy.sh/beatmapsets/1927701#mania/3980859)
 - Long Note
   1. [Mitsukiyo - Juu Rokuji no Hitoritabi (Jinjin) \[Afternoon Stroll\]](https://osu.ppy.sh/beatmapsets/1927396#mania/3980125)
   2. [Jay Chou - Nocturne (Wilben\_Chan) \[Death Love\]](https://osu.ppy.sh/beatmapsets/1187083#mania/2473984)
