@@ -12,7 +12,7 @@ tags:
 
 # 混合指法（Hybrid）
 
-**混合指法（Hybrid）** 是 [osu!](/wiki/Game_mode/osu!) 模式中的一种指法。在这种指法中，玩家混合使用 [单键指法（Single-tapping）](/wiki/Play_style/Single-tapping) 和 [切键指法（Alternating）](/wiki/Play_style/Alternating) 来点击圆圈，拖动滑条和旋转转盘。这种指法在各种水准的玩家中都有应用。此外，使用这种指法所需要的技巧和经验也因谱面风格而异。
+**混合指法（Hybrid）** 是 [osu!](/wiki/Game_mode/osu!) 模式中的一种指法。在这种指法中，玩家混合使用 [单键指法（Single-tapping）](/wiki/Play_style/Single-tapping) 和 [切键指法（Alternating）](/wiki/Play_style/Alternating) 来点击圆圈、拖动滑条和旋转转盘。这种指法在各种水准的玩家中都有应用。此外，使用这种指法所需要的技巧和经验也因谱面风格而异。
 
 ## 用途和用法
 

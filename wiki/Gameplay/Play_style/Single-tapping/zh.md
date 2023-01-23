@@ -11,11 +11,12 @@ tags:
   - 指法
   - 单键
   - 游戏风格
+  - 玩法
 ---
 
 # 单键指法（Single-tapping）
 
-**单键指法（Single-tapping）** 是 [osu!](/wiki/Game_mode/osu!) 模式中的一种指法。在这种指法中，玩家只用一个键（默认是 `Z` 或者 `X`）点击圆圈，拖动滑条和旋转转盘。这种指法在各种水准的玩家中都很常用，而且也是最容易学习和适应的。
+**单键指法（Single-tapping）** 是 [osu!](/wiki/Game_mode/osu!) 模式中的一种指法。在这种指法中，玩家只用一个键（默认是 `Z` 或者 `X`）点击圆圈、拖动滑条和旋转转盘。这种指法在各种水准的玩家中都很常用，而且也是最容易学习和适应的。
 
 不过，名虽如此，但大多数单键玩家其实并不总是用“单键”打图。许多玩家会选择单键打大多数物件，但针对 [连打（Streams）](/wiki/Beatmap/Pattern/Stream) 以及 [堆叠（Stacks）](/wiki/Mapping_techniques/Stack) 则采取其它方法处理。这种时候他们通常用 [切键指法（Alternating）](/wiki/Play_style/Alternating) 或者 [双键指法（Double tapping）](/wiki/Play_style/Double_tapping)。
 
