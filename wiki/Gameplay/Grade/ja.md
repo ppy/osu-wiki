@@ -1,7 +1,14 @@
 ---
-outdated_translation: true
 tags:
+  - letter grade
+  - rank
+  - silver s
+  - silver ss
+  - sh
+  - xh
   - ランク
+  - シルバーS
+  - シルバーSS
 ---
 
 # グレード
