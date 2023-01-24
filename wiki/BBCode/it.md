@@ -312,4 +312,4 @@ Il tag *Intestazione (v2)* è un tag obsoleto che una volta veniva utilizzato ne
 
 - Questo articolo è stato adattato dalla discussione del forum ["HOW TO: Forum BBCodes"](https://osu.ppy.sh/community/forums/topics/445599) di [Stefan](https://osu.ppy.sh/users/626907).
 - In passato c'era un bug che consentiva agli utenti di rendere il testo trasparente utilizzando il [tag colore](#colore) e digitando "transparent" dopo il segno d'uguaglianza (`=`).
-    - Al momento, il testo tornerà al colore predefinito (bianco) quando ciò accade.
+  - Al momento, il testo tornerà al colore predefinito (bianco) quando ciò accade.
