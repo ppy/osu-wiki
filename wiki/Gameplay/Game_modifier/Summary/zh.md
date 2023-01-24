@@ -34,41 +34,41 @@
 *注：表中所述倍率仅影响从 osu! 模式转换到 osu!mania 模式的谱面，对专门的 osu!mania 谱面没有影响。*
 
 | 原始键数/模组键数 | 1K   | 2K   | 3K   | 4K       | 5K       | 6K       | 7K       | 8K   | 9K   |
-|:---------:| ----:| ----:| ----:| --------:| --------:| --------:| --------:| ----:| ----:|
-| 4K        | 0.78 | 0.82 | 0.86 | **1.00** | 0.90     | 0.90     | 0.90     | 0.90 | 0.90 |
-| 5K        | 0.74 | 0.78 | 0.82 | 0.86     | **1.00** | 0.90     | 0.90     | 0.90 | 0.90 |
-| 6K        | 0.70 | 0.74 | 0.78 | 0.82     | 0.86     | **1.00** | 0.90     | 0.90 | 0.90 |
-| 7K        | 0.66 | 0.70 | 0.74 | 0.78     | 0.82     | 0.86     | **1.00** | 0.90 | 0.90 |
+| :-: | --: | --: | --: | --: | --: | --: | --: | --: | --: |
+| 4K | 0.78 | 0.82 | 0.86 | **1.00** | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
+| 5K | 0.74 | 0.78 | 0.82 | 0.86 | **1.00** | 0.90 | 0.90 | 0.90 | 0.90 |
+| 6K | 0.70 | 0.74 | 0.78 | 0.82 | 0.86 | **1.00** | 0.90 | 0.90 | 0.90 |
+| 7K | 0.66 | 0.70 | 0.74 | 0.78 | 0.82 | 0.86 | **1.00** | 0.90 | 0.90 |
 
 ### xK 带 Co-Op 模组分数倍率
 
 *注：表中所述倍率仅影响从 osu! 模式转换到 osu!mania 模式的谱面，对专门的 osu!mania 谱面没有影响。类似的，Co-Op 对专门的 osu!mania 谱面亦不扣分。*
 
 |  原始键数/模组键数   | 1K   | 2K       | 3K       | 4K   | 5K   | 6K   | 7K   | 8K   | 9K   |
-|:---:| ----:| --------:| --------:| ----:| ----:| ----:| ----:| ----:| ----:|
-| 4K  | 0.82 | **1.00** | 0.90     | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
-| 5K  | 0.78 | 0.86     | 0.90     | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
-| 6K  | 0.74 | 0.82     | **1.00** | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
-| 7K  | 0.70 | 0.78     | 0.86     | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
+| :-: | --: | --: | --: | --: | --: | --: | --: | --: | --: |
+| 4K | 0.82 | **1.00** | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
+| 5K | 0.78 | 0.86 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
+| 6K | 0.74 | 0.82 | **1.00** | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
+| 7K | 0.70 | 0.78 | 0.86 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
 
 ## 冲突的模组
 
 *注：模组冲突关系是两两相互的，这意味着，选择下表所列出一边的**任何**模组将会同时取消掉另一边的**所有**模组。*
 
-| 这些模组……                                                                          | ……与这些模组冲突                                                                                                                                                                                                                                                          |
-|:------------------------------------------------------------------------------- |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ![Hard Rock](/wiki/shared/mods/HR.png)                                          | ![Easy](/wiki/shared/mods/EZ.png)                                                                                                                                                                                                                                  |
-| ![Double Time](/wiki/shared/mods/DT.png) ![Nightcore](/wiki/shared/mods/NC.png) | ![Half Time](/wiki/shared/mods/HT.png)                                                                                                                                                                                                                             |
-| ![No Fail](/wiki/shared/mods/NF.png)                                            | ![Sudden Death](/wiki/shared/mods/SD.png) ![Perfect](/wiki/shared/mods/PF.png) ![Relax](/wiki/shared/mods/RL.png) ![Auto Pilot](/wiki/shared/mods/AP.png)                                                                                                          |
-| ![Sudden Death](/wiki/shared/mods/SD.png) ![Perfect](/wiki/shared/mods/PF.png)  | ![No Fail](/wiki/shared/mods/NF.png) ![Relax](/wiki/shared/mods/RL.png) ![Auto Pilot](/wiki/shared/mods/AP.png) ![Auto](/wiki/shared/mods/AT.png) ![Cinema](/wiki/shared/mods/CM.png)                                                                              |
-| ![Relax](/wiki/shared/mods/RL.png)                                              | ![Sudden Death](/wiki/shared/mods/SD.png) ![Perfect](/wiki/shared/mods/PF.png) ![No Fail](/wiki/shared/mods/NF.png) ![Auto Pilot](/wiki/shared/mods/AP.png) ![Auto](/wiki/shared/mods/AT.png) ![Cinema](/wiki/shared/mods/CM.png)                                  |
-| ![Auto Pilot](/wiki/shared/mods/AP.png)                                         | ![Sudden Death](/wiki/shared/mods/SD.png) ![Perfect](/wiki/shared/mods/PF.png) ![No Fail](/wiki/shared/mods/NF.png) ![Relax](/wiki/shared/mods/RL.png) ![Spun Out](/wiki/shared/mods/SO.png) ![Auto](/wiki/shared/mods/AT.png) ![Cinema](/wiki/shared/mods/CM.png) |
-| ![Auto](/wiki/shared/mods/AT.png) ![Cinema](/wiki/shared/mods/CM.png)           | ![Sudden Death](/wiki/shared/mods/SD.png) ![Perfect](/wiki/shared/mods/PF.png) ![Relax](/wiki/shared/mods/RL.png) ![Auto Pilot](/wiki/shared/mods/AP.png) ![Spun Out](/wiki/shared/mods/SO.png)                                                                    |
+| 这些模组…… | ……与这些模组冲突 |
+| :-- | :-- |
+| ![Hard Rock](/wiki/shared/mods/HR.png) | ![Easy](/wiki/shared/mods/EZ.png) |
+| ![Double Time](/wiki/shared/mods/DT.png) ![Nightcore](/wiki/shared/mods/NC.png) | ![Half Time](/wiki/shared/mods/HT.png) |
+| ![No Fail](/wiki/shared/mods/NF.png) | ![Sudden Death](/wiki/shared/mods/SD.png) ![Perfect](/wiki/shared/mods/PF.png) ![Relax](/wiki/shared/mods/RL.png) ![Auto Pilot](/wiki/shared/mods/AP.png) |
+| ![Sudden Death](/wiki/shared/mods/SD.png) ![Perfect](/wiki/shared/mods/PF.png) | ![No Fail](/wiki/shared/mods/NF.png) ![Relax](/wiki/shared/mods/RL.png) ![Auto Pilot](/wiki/shared/mods/AP.png) ![Auto](/wiki/shared/mods/AT.png) ![Cinema](/wiki/shared/mods/CM.png) |
+| ![Relax](/wiki/shared/mods/RL.png) | ![Sudden Death](/wiki/shared/mods/SD.png) ![Perfect](/wiki/shared/mods/PF.png) ![No Fail](/wiki/shared/mods/NF.png) ![Auto Pilot](/wiki/shared/mods/AP.png) ![Auto](/wiki/shared/mods/AT.png) ![Cinema](/wiki/shared/mods/CM.png) |
+| ![Auto Pilot](/wiki/shared/mods/AP.png) | ![Sudden Death](/wiki/shared/mods/SD.png) ![Perfect](/wiki/shared/mods/PF.png) ![No Fail](/wiki/shared/mods/NF.png) ![Relax](/wiki/shared/mods/RL.png) ![Spun Out](/wiki/shared/mods/SO.png) ![Auto](/wiki/shared/mods/AT.png) ![Cinema](/wiki/shared/mods/CM.png) |
+| ![Auto](/wiki/shared/mods/AT.png) ![Cinema](/wiki/shared/mods/CM.png) | ![Sudden Death](/wiki/shared/mods/SD.png) ![Perfect](/wiki/shared/mods/PF.png) ![Relax](/wiki/shared/mods/RL.png) ![Auto Pilot](/wiki/shared/mods/AP.png) ![Spun Out](/wiki/shared/mods/SO.png) |
 
 ### osu!mania
 
 | 这些模组……                                                                   | ……与这些模组冲突                               |
-|:------------------------------------------------------------------------ |:--------------------------------------- |
+| :-- | :-- |
 | ![Hidden](/wiki/shared/mods/HD.png) ![Fade In](/wiki/shared/mods/FI.png) | ![Flashlight](/wiki/shared/mods/FL.png) |
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
