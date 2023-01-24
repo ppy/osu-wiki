@@ -19,8 +19,8 @@ Additionally, we'll be continuing the **Mappers' Favourite** trend established i
 Speaking of the mapping community, here's some interesting stats from 2022 to showcase how things have developed:
 
 - In osu! during 2022, **18,620** difficulties were ranked across **3,406** sets for a total of **37,954** minutes of content. This is **3.9%** more maps overall than 2021.
-- In osu!taiko during 2022, **4,873** difficulties were ranked across **1,116** sets for a total of **12,778** minutes of content. 2022 was a good year for those fond of don and kats, as this is a whopping **37.4%** increase in total sets compared to 2021's numbers. Wow!
-- In osu!catch during 2022, **1,780** difficulties were ranked across **364** sets for a total of **3,593** minutes of content.  This is **0.2%** more than 2021's numbers, which means our high fibre fanatics are keeping their throughput pretty steady!
+- In osu!taiko during 2022, **4,873** difficulties were ranked across **1,116** sets for a total of **12,778** minutes of content. 2022 was a good year for those fond of dons and kats, as this is a whopping **37.4%** increase in total sets compared to 2021's numbers. Wow!
+- In osu!catch during 2022, **1,780** difficulties were ranked across **364** sets for a total of **3,593** minutes of content. This is **0.2%** more than 2021's numbers, which means our high-fibre fanatics are keeping their throughput pretty steady!
 - In osu!mania during 2022, **4,622** difficulties were ranked across **891** sets for a total of **12,000** minutes of content. This is an **ASTRONOMICAL** increase of **115.73%** compared to 2021's numbers, highlighting an absolutely explosive display of growth.
 
 If those numbers have hyped you up, there's only one thing to do (vote):
