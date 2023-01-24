@@ -61,9 +61,9 @@
 
 ## 按钮
 
-`button-左侧.png`
+`button-left.png`
 
-![](img/button-左侧.png)
+![](img/button-left.png)
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -92,9 +92,9 @@
 
 ---
 
-`button-右侧.png`
+`button-right.png`
 
-![](img/button-右侧.png)
+![](img/button-right.png)
 
 | 版本 | 可以使用动画？ | 可以在谱面中自定义？ | 混合模式 | 定位点 | 推荐 SD 大小 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
