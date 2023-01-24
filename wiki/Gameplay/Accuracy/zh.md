@@ -2,7 +2,7 @@
 
 准确率（也称准确度）用于刻画玩家打击[物件](/wiki/Hit_object)的时间与标准时间有多接近，亦即打得多准。玩家有三种准确度：谱面的准确度，取决于谱面的物件得分；总准确度，它是为让更好的得分更加突出而权衡的；[表现分（pp）](/wiki/Performance_points)准确度，取决于提交的得分的准确度。
 
-## 游戏模式
+## 各模式下的准确率计算方法
 
 ### ![](/wiki/shared/mode/osu.png) osu!
 
@@ -34,13 +34,9 @@
 *[API](https://github.com/ppy/osu-wiki/blob/master/wiki/osu!api) 用户请注意：*
 
 - `count100` 代表接住的水果串（Drops）数目。
-
 - `count50` 代表接住的水果串节点（Droplets）数目。
-
 - `countMiss` 代表漏掉的水果（Fruits）数与水果串（Drops）数的*总和*。
-
 - `countKatu` 代表漏掉的水果串节点（Droplets）数目。
-
 - `countGeki` 的值不能用于计算准确率。它只代表连击末尾的水果数。
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania
@@ -60,7 +56,6 @@
 *API 用户请注意：*
 
 - `countGeki` 代表彩 300 的数量。
-
 - `countKatu` 代表 200 的数量。
 
 ## 表现图
