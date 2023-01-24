@@ -4,7 +4,7 @@
 
 *注意：所有的模组在 osu!mania 模式都不会增加分数加成。*
 
-| 模组 | 名称（缩写）| 分数加成 | 效果 |
+| 模组 | 名称（缩写） | 分数加成 | 效果 |
 | :-- | :-- | :-- | :-- |
 | ![Easy](/wiki/shared/mods/EZ.png) | Easy (EZ) | • ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: 0.50x | • ![][osu!]：圆圈变大，扣血变少，准确度要求变低 • ![][osu!taiko]：音符移动变慢，准确度要求变低 • ![][osu!catch]：水果变大，扣血变少，准确度要求变低 • ![][osu!mania]：扣血变少，准确度要求变低 |
 | ![No Fail](/wiki/shared/mods/NF.png) | No Fail (NF) | • ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]: 0.50x | • ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]：无论打成什么样都能通过谱面 |
