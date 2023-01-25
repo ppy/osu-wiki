@@ -8,19 +8,19 @@ tags:
 
 _For specific stream types unrelated to 4-key, refer to [chordstreams](mania/chordstreams)._
 
-**Streams** are constant notes within the same snap interval that occur for at least one beat, avoiding an occurance of a [minijack](/wiki/Beatmap/Pattern/Mania/Jacks/en.md#Minijack). There are many different types of streams that impose different levels of strain on the player. When stream is used on its own, it's likely referring to a **single note stream**.
+**Streams** are constant notes within the same snap interval that occur for at least one beat, avoiding an occurance of a [minijack](/wiki/Beatmap/Pattern/Mania/Jacks/en.md#Minijack). There are many different types of streams that impose different levels of strain on the player. When a stream is used on its own, it's likely referring to a **single note stream**.
 
 ![](img/stream.png "This image shows a specific type of stream known as a roll.")
 
 A **roll** is a common variation of a stream consisting of notes that go from the first to the last column or last to the first column.
 
-**Streams** that appear shorter than one beat are typically referred to as **bursts**, and are more of a shorter quick succession of notes. They commonly use snaps higher than 1/4th.
+**Streams** that appear shorter than one beat are typically referred to as **bursts**, which are a shorter and quick succession of notes. They commonly use snaps higher than 1/4th.
 
 ![](img/burst.png)
 
 ## Jumpstream
 
-**Jumpstreams** are streams that involve jumps. Usually, the stream itself is on 1/4th snaps whilst the jumps land on snaps greater than 1/4th. This is the most common type of stream pattern used in 4-key osu!mania.
+**Jumpstreams** are streams that involve [jumps](/wiki/Beatmap/Pattern/Mania/Chords/en.md#Jumps). Usually, the stream itself is on 1/4th snaps whilst the jumps land on snaps greater than 1/4th. This is the most common type of stream pattern used in 4-key osu!mania.
 
 ![](img/jumpstream.png)
 
@@ -28,7 +28,7 @@ A **roll** is a common variation of a stream consisting of notes that go from th
 
 ## Handstream
 
-**Handstreams** are streams that involve hands, and may involve jumps as well. Similar to jumpstreams, the stream itself is on 1/4th snaps whilst the chords can land on snaps greater than 1/4th.
+**Handstreams** are streams that involve [hands](/wiki/Beatmap/Pattern/Mania/Chords/en.md#Hands), and may involve jumps as well. Similar to jumpstreams, the stream itself is on 1/4th snaps whilst the chords can land on snaps greater than 1/4th.
 
 ![](img/handstream.png)
 

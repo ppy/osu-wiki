@@ -6,7 +6,7 @@ tags:
 
 # Trills
 
-A **Trill** is two or more consecutive notes that alternate between two different columns. 
+A **Trill** is three or more consecutive notes that alternate between two different columns. 
 
 ![](img/trill.png)
 

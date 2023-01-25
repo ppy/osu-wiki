@@ -6,11 +6,11 @@ tags:
 
 # Long Notes
 
-Also referred to in-game as holds, **long notes** are notes that require you to hold and release them afterwards. They are often referred to as LNs for short and are used to represent prolonged sounds in the music.
+Also referred to as holds in the editor, **long notes** are notes that require you to hold and release them afterwards. They are often referred to as noodles or LNs and are used to represent prolonged sounds in the music.
 
 ![](img/ln.png)
 
-**Releases** are known to be their own term. It refers to the ending of a **long note**, the part that requires you to release the key.
+**Releases** refers to the ending of a **long note**, the part that requires you to release the key. They are known to have their own term due to release timing in osu!mania being taken into consideration when awarding judgements for the entire long note.
 
 ## Shields
 
@@ -18,7 +18,7 @@ Also referred to in-game as holds, **long notes** are notes that require you to 
 
 ![](img/shield.png)
 
-**Reverse shields** occur when a consecutive note follows a long note's release.
+**Reverse shields** occur when a consecutive note follows a long note's release within the same column.
 
 ![](img/rshield.png)
 

@@ -6,7 +6,7 @@ tags:
 
 # Chords
 
-A **chord** is two or more notes that are hit at the same time. They are known to increase density and highlight different sounds within the music.
+A **chord** is a group of two or more notes that are hit at the same time. They are known to increase density and highlight different sounds within the music.
 
 ## Jumps
 
