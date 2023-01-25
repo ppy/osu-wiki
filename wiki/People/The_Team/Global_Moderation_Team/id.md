@@ -159,6 +159,6 @@ Daftar anggota GMT selengkapnya dapat dilihat pada laman grup [Global Moderation
 | `#ukrainian` |  | ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) |
 | `#vietnamese` |  | ::{ flag=VN }:: [My Angel Chino](https://osu.ppy.sh/users/20547597), ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) |
 
-## Notes
+## Catatan
 
 [^task-Azer]: Meskipun Azer tidak menjadi seorang GMT, Azer secara teknis termasuk dalam kelompok pengguna karena ia membutuhkan level akses GMT dalam tugasnya sebagai penyelenggara turnamen World Cup.
