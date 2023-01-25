@@ -4,13 +4,13 @@ title: "New Featured Artist: WINTERHORDE"
 date: 2023-01-25 11:00:00 +0000
 ---
 
-Melodic black/death metal band **WINTERHORDE** takes a step into our library of Featured Artist.
+Melodic black/death metal band **WINTERHORDE** takes a step into our library of Featured Artists.
 
 ![](https://assets.ppy.sh/artists/337/header.jpg)
 
 **WINTERHORDE**'s music is everything a metalhead could ask for: high-tempo, high-intensity, and abundantly dense with drums. Stream-focused metal mapping (which should really be called *blast beatmapping*) is their speciality, as made crystal clear by maps like [Chronic Death](https://osu.ppy.sh/beatmapsets/1699956) and [Worms of Soul](https://osu.ppy.sh/beatmapsets/1724057).
 
-Wrench your mind around the **6** tracks we've picked up for [**WINTERHORDE**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/337), all pre-timed and ready for your Ctrl+Shift+F mastery.
+Wrench your mind around the **6** tracks we've picked up for [**WINTERHORDE**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/337), all pre-timed and ready for your `Ctrl` + `Shift` + `F` mastery.
 
 Experience **WINTERHORDE**'s sound for yourself:
 
@@ -30,7 +30,7 @@ Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/1724057)
 
 ### WINTERHORDE - Chronic Death
 
-Or try [this other ultra-difficult marathon](https://osu.ppy.sh/beatmapsets/1699956) hosted by [iamtickrate](https://osu.ppy.sh/users/10772580)!
+Or try [this other ultra difficult marathon](https://osu.ppy.sh/beatmapsets/1699956) hosted by [iamtickrate](https://osu.ppy.sh/users/10772580)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/337/Maestro/Winterhorde%20-%20Chronic%20Death.mp3" type="audio/mpeg">
