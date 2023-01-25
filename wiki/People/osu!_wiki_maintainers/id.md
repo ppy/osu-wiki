@@ -1,11 +1,8 @@
----
-outdated_translation: true
-outdated_since: 22188ef2a9149c3f0999652c9386734bb1215ffe
----
+# Pengelola osu! wiki
 
-# Daftar pengelola osu! wiki
+Para **pengelola osu! wiki** mengelola [osu! wiki](/wiki/osu!_wiki) melalui [repositori proyek GitHub-nya](https://github.com/ppy/osu-wiki).
 
-Para pengelola osu! wiki bertanggung jawab untuk secara teratur mengawasi [*issue tracker*](https://github.com/ppy/osu-wiki/issues) dan meninjau ulang *pull request* yang dibuat oleh para kontributor. Mereka memiliki hak akses khusus untuk menyunting *pull request* yang ada dan menggabungkannya ke dalam *branch* `master` milik osu! wiki, yang akan langsung menerapkan berbagai perubahan yang diajukan secara seketika.
+Para pengelola bertanggung jawab untuk secara teratur mengawasi [*issue tracker*](https://github.com/ppy/osu-wiki/issues) dan meninjau ulang *pull request* (permintaan sunting) yang dibuat oleh para kontributor. Mereka memiliki hak akses khusus untuk menyunting *pull request* yang ada dan menggabungkannya ke dalam *branch* `master` milik osu! wiki, yang akan langsung menerapkan berbagai perubahan yang diajukan secara seketika.
 
 Jika kamu memerlukan bantuan untuk memberikan kontribusi atau ingin *pull request* kamu ditinjau ulang, kamu dapat mengirim pesan di channel `#osu-wiki` di [server Discord osu!dev](/wiki/Community/osu!dev_Discord_server) dan pengelola atau kontributor lain akan merespon pesan tersebut (semua pengelola dapat berbahasa Inggris).
 
