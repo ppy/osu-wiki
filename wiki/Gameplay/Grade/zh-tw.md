@@ -6,6 +6,8 @@ tags:
   - sh
   - xh
   - 評價
+  - 銀 s
+  - 銀 ss
 no_native_review: true
 ---
 

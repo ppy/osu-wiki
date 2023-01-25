@@ -1,12 +1,12 @@
-# Difficulty naming
+# 難易度名
 
-The purpose of difficulty naming is to inform players how difficult a map is. This article lists common conventions as well as other alternatives that have been gathered throughout the years. However, as long as the set of difficulty names is descriptive and clearly indicates progression of difficulty, you may use any desired kind of scheme.
+難易度名はプレイヤーがプレイできるかどうかの指標になります。ここではよく使われる、またはその代わりとなる難易度名のリストを掲載します。もし難易度名が掲載されているものでなくても、その難易度が分かるような名前であれば使えます。
 
-## Default
+## デフォルト
 
-These difficulty names are the most commonly used for each game mode.
+これら難易度名はもっとも使われているものです。
 
-*Note: The special difficulty name **Marathon** historically allowed mappers to submit maps of longer songs, and thus became popular for single-difficulty mapsets. Today, the name has no special meaning and is typically only used for very long songs or song compilations.*
+*注釈: **Marathon** という特別な難易度はかつては長い譜面を上げる際に単一難易度のマップセットでも知名度を持てるためにつけられていました。しかし近年はそんな意味などなく、ただ長い曲や総集編などに使われています。*
 
 ### osu!
 
@@ -40,9 +40,9 @@ These difficulty names are the most commonly used for each game mode.
 - ![](/wiki/shared/diff/insane-m.png?20211215) Insane
 - ![](/wiki/shared/diff/expert-m.png?20211215) Expert
 
-## Difficulty naming schemes from other games
+## 他のゲーム由来の難易度名
 
-Mapsets of songs that originated from other rhythm games often borrow that game's difficulty naming scheme. Usage of these difficulty names is acceptable for any song. Some of the common naming schemes that made their way into osu! are listed here:
+他の音ゲーの曲を使っている場合、その音ゲーの難易度の区分が使われることがあります。これらはどんなマップセットでも使えます。過去にosu!で見られたものを掲載します。:
 
 ### Beatmania IIDX
 
@@ -94,7 +94,7 @@ Mapsets of songs that originated from other rhythm games often borrow that game'
 
 ### SOUND VOLTEX
 
-*Note: Large mapsets of SOUND VOLTEX songs often use difficulty names from multiple versions of the game, even if the song does not appear in all of them.*
+*注釈: 多くのSOUND VOLTEXの難易度名はそのバージョンにその曲が無くても過去のバージョン名から名前がついています。*
 
 - ![](/wiki/shared/diff/easy-o.png?20211215) BASIC / BSC
 - ![](/wiki/shared/diff/normal-o.png?20211215) NOVICE / NOV
@@ -138,7 +138,7 @@ Mapsets of songs that originated from other rhythm games often borrow that game'
 - ![](/wiki/shared/diff/insane-o.png?20211215) Ultra
 - ![](/wiki/shared/diff/expert-o.png?20211215) Master
 
-### maimai, CHUNITHM, Ongeki
+### maimai, CHUNITHM, オンゲキ
 
 - ![](/wiki/shared/diff/easy-o.png?20211215) EASY
 - ![](/wiki/shared/diff/normal-o.png?20211215) BASIC
@@ -154,7 +154,7 @@ Mapsets of songs that originated from other rhythm games often borrow that game'
 
 - ![](/wiki/shared/diff/expertplus-o.png?20211215) ULTIMA / WORLD'S END
 
-#### Ongeki
+#### オンゲキ
 
 - ![](/wiki/shared/diff/expertplus-o.png?20211215) LUNATIC
 
@@ -178,7 +178,7 @@ Mapsets of songs that originated from other rhythm games often borrow that game'
 
 - ![](/wiki/shared/diff/expert-o.png?20211215) Special
 
-### Touhou Project
+### 東方project
 
 - ![](/wiki/shared/diff/easy-o.png?20211215) Easy
 - ![](/wiki/shared/diff/normal-o.png?20211215) Normal
@@ -186,15 +186,15 @@ Mapsets of songs that originated from other rhythm games often borrow that game'
 - ![](/wiki/shared/diff/insane-o.png?20211215) Lunatic
 - ![](/wiki/shared/diff/expert-o.png?20211215) Extra / Extra Stage / Phantasm
 
-## Widely accepted alternatives
+## 広義的な難易度名
 
-The following difficulty names are common alternatives and additions to the default difficulty names:
+これら難易度名はよく使われる難易度名の代わりに使われたり追加難易度名にも使われています。:
 
-- ![](/wiki/shared/diff/easy-o.png?20211215) Beginner: in a default Easy-Normal-Hard-Insane-Expert spread, it refers to the lowest level of difficulty, even below Easy.
-- ![](/wiki/shared/diff/easy-t.png?20211215) Shokyuu: in a default Kantan-Futsuu-Muzukashii-Oni-Inner Oni spread, it refers to the lowest level of difficulty that's below Kantan.
-- ![](/wiki/shared/diff/normal-o.png?20211215) Advanced: in a default Easy-Normal-Hard-Insane-Expert spread, it's a difficulty between Normal and Hard.
-- ![](/wiki/shared/diff/hard-o.png?20211215) Hyper: in a default Easy-Normal-Hard-Insane-Expert spread, a difficulty between Hard and Insane.
-- ![](/wiki/shared/diff/expert-o.png?20211215) Extra: it can be used as a substitute for Expert.
-- ![](/wiki/shared/diff/expertplus-o.png?20211215) Extreme: it can be used to represent a more difficult Expert.
-- ![](/wiki/shared/diff/expertplus-t.png?20211215) Hell Oni: it can be used to represent a more difficult Inner Oni.
-- ![](/wiki/shared/diff/expertplus-c.png?20211215) Deluge: it can be used to represent a more difficult Overdose.
+- ![](/wiki/shared/diff/easy-o.png?20211215) Beginner: デフォルトのEasy-Normal-Hard-Insane-ExpertのマップセットでEasyより簡単な難易度につけられる難易度名。
+- ![](/wiki/shared/diff/easy-t.png?20211215) Shokyuu: デフォルトのKantan-Futsuu-Muzukashii-Oni-Inner OniのマップセットでKantanより簡単な難易度につけられる難易度名。
+- ![](/wiki/shared/diff/normal-o.png?20211215) Advanced: デフォルトのEasy-Normal-Hard-Insane-ExpertのマップセットでNormalとHardの間の時につけられる難易度名。
+- ![](/wiki/shared/diff/hard-o.png?20211215) Hyper: デフォルトのEasy-Normal-Hard-Insane-ExpertのマップセットでHardとInsaneの間の時につけられる難易度名。
+- ![](/wiki/shared/diff/expert-o.png?20211215) Extra: Expertの代わりにつけられる難易度名。
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) Extreme: Expertより難しい難易度であることを示す難易度名。
+- ![](/wiki/shared/diff/expertplus-t.png?20211215) Hell Oni: Inner Oniより難しい難易度であることを示す難易度名。
+- ![](/wiki/shared/diff/expertplus-c.png?20211215) Deluge: Overdoseより難しい難易度であることを示す難易度名。
