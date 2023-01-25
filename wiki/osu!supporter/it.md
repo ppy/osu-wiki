@@ -144,7 +144,7 @@ osu!supporter può anche essere regalato ad un altro giocatore inserendo il loro
 Una volta che la transazione è stata completata, sarà presente un evento nella sezione `Attività recenti` del profilo del compratore e del ricevente:
 
 - `{nome utente} è diventato un osu!supporter - grazie per la tua generosità!` se l'utente ha acquistato per la prima volta osu!supporter.
--  `{nome utente} ha scelto ancora una volta di sostenere osu! - grazie per la tua generosità!` se l'utente ha già acquistato osu!supporter in precedenza.
+- `{nome utente} ha scelto ancora una volta di sostenere osu! - grazie per la tua generosità!` se l'utente ha già acquistato osu!supporter in precedenza.
 - `{note utente} ha ricevuto in regalo l'osu!supporter!` nel caso il tag sia stato regalato.
 
 In più, sia il compratore che il ricevente riceveranno una notifica via e-mail per l'acquisto.
