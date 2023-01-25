@@ -18,7 +18,7 @@ These are general terms that apply to all key modes of osu!mania.
 - [Jacks](Jacks)
 - [Anchor](Anchors)
 - [Trills](Trills)
-- [Long Notes](Long%20Notes)
+- [Long Notes](Long_Notes)
 
 ## Patterns specific to higher keymodes
 
