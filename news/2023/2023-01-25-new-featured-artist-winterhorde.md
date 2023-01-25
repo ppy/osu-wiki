@@ -46,7 +46,7 @@ Or try [this other ultra-difficult marathon](https://osu.ppy.sh/beatmapsets/1699
 
 [**WINTERHORDE**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/337) has even more songs for you to smash your keyboard along to. Pick whichever suits your fancy and design your own finger-demolishing canvas of chaos (also known as a beatmap).
 
-Our next Featured Artist might be a day late for... undisclosed reasons. Keep an eye on the [@osugame Twitter](https://twitter.com/osugame) for when it drops, and maybe watch this weekend's [MWC7K](/wiki/Tournaments/MWC/2023_7K) for... similar undisclosed reasons.
+Our next Featured Artist might be a day late for... undisclosed reasons. Keep an eye on the [@osugame Twitter](https://twitter.com/osugame) for when it drops, and maybe watch this weekend's [MWC 7K](/wiki/Tournaments/MWC/2023_7K) for... similar undisclosed reasons.
 
 Stay tuned.
 
