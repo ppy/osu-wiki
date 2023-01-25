@@ -161,4 +161,4 @@ Daftar anggota GMT selengkapnya dapat dilihat pada laman grup [Global Moderation
 
 ## Catatan
 
-[^task-Azer]: Meskipun Azer tidak menjadi seorang GMT, Azer secara teknis termasuk dalam kelompok pengguna karena ia membutuhkan level akses GMT dalam tugasnya sebagai penyelenggara turnamen World Cup.
+[^task-Azer]: Walaupun Azer bukan merupakan bagian dari GMT, Azer secara teknis termasuk ke dalam kelompok pengguna ini karena ia memerlukan izin akses GMT dalam tugasnya sebagai penyelenggara turnamen World Cup.

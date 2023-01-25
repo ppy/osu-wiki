@@ -1,6 +1,6 @@
 # Pengelola osu! wiki
 
-Para **pengelola osu! wiki** mengelola [osu! wiki](/wiki/osu!_wiki) melalui [repositori proyek GitHub-nya](https://github.com/ppy/osu-wiki).
+Para **pengelola osu! wiki** mengelola [osu! wiki](/wiki/osu!_wiki) melalui [repositori GitHub osu! wiki](https://github.com/ppy/osu-wiki).
 
 Para pengelola bertanggung jawab untuk secara teratur mengawasi [*issue tracker*](https://github.com/ppy/osu-wiki/issues) dan meninjau ulang *pull request* (permintaan sunting) yang dibuat oleh para kontributor. Mereka memiliki hak akses khusus untuk menyunting *pull request* yang ada dan menggabungkannya ke dalam *branch* `master` milik osu! wiki, yang akan langsung menerapkan berbagai perubahan yang diajukan secara seketika.
 
