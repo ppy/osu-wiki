@@ -1,9 +1,3 @@
----
-layout: main_page
-outdated_since: e5c6703afd341354b50be467f885400c871cd0de
-outdated_translation: true
----
-
 <div class="wiki-main-page__blurb">
 Benvenuto nella wiki di osu!, la base open-source di conoscenze contenente un'ampia gamma di informazioni su osu!, un gioco di ritmo free-to-win.
 </div>
