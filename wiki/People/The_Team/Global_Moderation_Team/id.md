@@ -4,8 +4,6 @@ tags:
   - moderator
   - moderators
   - chat mod
-outdated_translation: true
-outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 ---
 
 # Global Moderation Team
@@ -62,7 +60,7 @@ Daftar anggota GMT selengkapnya dapat dilihat pada laman grup [Global Moderation
 | ::{ flag=HU }:: [[ Another ]](https://osu.ppy.sh/users/3416573) | Hungaria | Moderasi chat |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Rusia | Moderasi chat |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | Moderasi forum |
-| ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | Manajemen turnamen |
+| ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | Manajemen turnamen[^task-Azer] |
 | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419) | Tionghoa, Melayu | Moderasi chat |
 | ::{ flag=US }:: [Chaos](https://osu.ppy.sh/users/2628870) |  | Moderasi chat |
 | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | Swedia, Spanyol | Moderasi chat, manajemen turnamen |
@@ -160,3 +158,7 @@ Daftar anggota GMT selengkapnya dapat dilihat pada laman grup [Global Moderation
 | `#turkish` | [Türkçe](https://osu.ppy.sh/community/forums/93) |  |
 | `#ukrainian` |  | ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) |
 | `#vietnamese` |  | ::{ flag=VN }:: [My Angel Chino](https://osu.ppy.sh/users/20547597), ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) |
+
+## Catatan
+
+[^task-Azer]: Walaupun Azer bukan merupakan bagian dari GMT, Azer secara teknis termasuk ke dalam kelompok pengguna ini karena ia memerlukan izin akses GMT dalam tugasnya sebagai penyelenggara turnamen World Cup.
