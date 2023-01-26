@@ -255,7 +255,7 @@ Chúng tôi dự định sẽ xem xét các lợi ích mới trong tương lai, 
 
 Y như cách mà bạn vẫn hay làm thôi.
 
-#### Giao dịch vi mô ở đâu?
+#### Liệu tôi có bị lừa về độ miễn phí của trò chơi không?
 
 Có vẻ như bạn đang nghĩ về một trò chơi khác.
 
