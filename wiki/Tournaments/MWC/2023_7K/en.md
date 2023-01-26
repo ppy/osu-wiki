@@ -106,19 +106,19 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/c9e
 
 | Team A | Team B | Match time |
 | --: | :-- | :-- |
+| Philippines ::{ flag=PH }:: | ::{ flag=JP }:: Japan | [Jan 28 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230128T120000&p1=1440&p2=145&p3=248) |
 | Russian Federation ::{ flag=RU }:: | ::{ flag=ID }:: Indonesia | [Jan 28 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230128T130000&p1=1440&p2=166&p3=108) |
 | Argentina ::{ flag=AR }:: | ::{ flag=TH }:: Thailand | [Jan 28 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230128T140000&p1=1440&p2=51&p3=28) |
-| Vietnam ::{ flag=VN }:: | ::{ flag=CA }:: Canada | [Jan 28 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230128T160000&p1=1440&p2=95&p3=188) |
 | France ::{ flag=FR }:: | ::{ flag=CL }:: Chile | [Jan 28 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230128T170000&p1=1440&p2=195&p3=232) |
 
 ### Sunday, 29 January 2023
 
 | Team A | Team B | Match time |
 | --: | :-- | :-- |
-| Philippines ::{ flag=PH }:: | ::{ flag=JP }:: Japan | [Jan 29 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230129T120000&p1=1440&p2=145&p3=248) |
-| Malaysia ::{ flag=MY }:: | ::{ flag=ES }:: Spain | [Jan 29 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230129T130000&p1=1440&p2=122&p3=141) |
-| South Korea ::{ flag=KR }:: | ::{ flag=BR }:: Brazil | [Jan 29 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230129T140000&p1=1440&p2=235&p3=45) |
-| China ::{ flag=CN }:: | ::{ flag=US }:: United States | [Jan 29 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230129T150000&p1=1440&p2=33&p3=263) |
+| Vietnam ::{ flag=VN }:: | ::{ flag=CA }:: Canada | [Jan 29 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230129T040000&p1=1440&p2=95&p3=188) |
+| China ::{ flag=CN }:: | ::{ flag=US }:: United States | [Jan 29 (Sun) 06:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230129T060000&p1=1440&p2=33&p3=263) |
+| Malaysia ::{ flag=MY }:: | ::{ flag=ES }:: Spain | [Jan 29 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230129T110000&p1=1440&p2=122&p3=141) |
+| South Korea ::{ flag=KR }:: | ::{ flag=BR }:: Brazil | [Jan 29 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230129T150000&p1=1440&p2=235&p3=45) |
 
 ## Mappools
 
