@@ -108,7 +108,7 @@ GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
 | 23 | **近月少女的礼仪** | ::{ flag=CN }:: **[Zyuuu](https://osu.ppy.sh/users/15389275)**, ::{ flag=CN }:: [tito31158](https://osu.ppy.sh/users/16436669), ::{ flag=CN }:: [Koishi-0514](https://osu.ppy.sh/users/7546593), ::{ flag=CN }:: [yem sky](https://osu.ppy.sh/users/10588209), ::{ flag=CN }:: [FALSEFAST](https://osu.ppy.sh/users/25508274) |
 | 24 | **又一个倒霉蛋** | ::{ flag=CN }:: **[fishbone2445](https://osu.ppy.sh/users/17640814)**, ::{ flag=CN }:: [chana](https://osu.ppy.sh/users/18375016), ::{ flag=CN }:: [ALWW](https://osu.ppy.sh/users/18786195), ::{ flag=CN }:: [KafuChino](https://osu.ppy.sh/users/14826575), ::{ flag=CN }:: [spensll](https://osu.ppy.sh/users/4547744) |
 
-## 赛果
+## 领奖台
 
 比赛已经结束，领奖台名次如下：
 
