@@ -1,9 +1,7 @@
 ---
-no_native_review: true
 tags:
  - NAT
  - 审核评估
-outdated_translation: true
 ---
 
 # 审核评估团队 (NAT)
