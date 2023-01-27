@@ -21,35 +21,35 @@
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
-![准确度 = 0.5(GOOD的数量 + GREAT的数量) / (BAD的数量 + GOOD的数量 + GREAT的数量)](img/accuracy_taiko.png "osu!taiko的准确度公式")
+![准确度 = (良的数量 + 0.5 \* 可的数量 ) / (良的数量 + 可的数量 + 不可的数量)](img/accuracy_taiko.png "osu!taiko的准确度公式")
 
-在 osu!taiko 模式中，准确度以物件准确度（击打物件时的时间差）除以已计分的物件总量计算。物件准确度被归类为 GREAT（良，记为 100%），GOOD（可，记为 50%），以及 MISS/BAD（不可，记为 0%, 且连击会断掉)。长条（Drum rolls）和转盘（Spinners）不会影响准确度。
+在 osu!taiko 模式中，准确度以物件准确度（击打物件时的时间偏差）除以已计分的物件总量计算。物件准确度被归类为良（GREAT，记为 100%），可（GOOD，记为 50%），以及不可（MISS/BAD，记为 0%，且会断掉连击)。长条（Drum rolls）和转盘（Spinners）不会影响准确度。
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
 ![准确度 = (droplets的数量 + drops的数量 + 水果的数量) / (错过的droplets的数量 + 错过的drops的数量 + 错过的水果的数量 + droplets的数量 + drops的数量 + 水果的数量)](img/accuracy_catch.png "osu!catch的准确度公式")
 
-在 osu!catch 模式中，准确度以收集的非转盘物件数量的总和，除以非转盘物件数量总和计算。所有物件的价值相同，但香蕉除外，因为它算是一种转盘。
+在 osu!catch 模式中，准确度以收集的非转盘物件数量的总和，除以非转盘物件数量总和计算。所有物件的价值相同，但香蕉除外，因为它属于转盘的一部分。
 
 *[API](https://github.com/ppy/osu-wiki/blob/master/wiki/osu!api) 用户请注意：*
 
-- `count100` 代表接住的水果串（Drops）数目。
-- `count50` 代表接住的水果串节点（Droplets）数目。
-- `countMiss` 代表漏掉的水果（Fruits）数与水果串（Drops）数的*总和*。
-- `countKatu` 代表漏掉的水果串节点（Droplets）数目。
+- `count100` 代表接住的中果数。
+- `count50` 代表接住的小果数。
+- `countMiss` 代表漏掉的大果与中果数的*总和*。
+- `countKatu` 代表漏掉的小果数。
 - `countGeki` 的值不能用于计算准确率。它只代表连击末尾的水果数。
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 
 在 osu!mania 模式中, 准确度计算方式类似 [osu!](#osu!) 模式。但是，彩 300 的权重大小会受到 ScoreV2 模组的影响。
 
-若没有开启 ScoreV2，彩 300 和金 300 的权重一样，都是 300：
+若没有开启 ScoreV2，彩 300 和普通 300 的权重一样，都是 300：
 
-![Accuracy = (300 \* (number of MAXs + number of 300s) + 200 \* number of 200s + 100 \* number of 100s + 50 \* number of 50s) / (300 \* (number of MAXs + number of 300s + number of 200s + number of 100s + number of 50s + number of misses))](img/accuracy_mania_updated_score_v1.png "Accuracy formula for osu!mania with ScoreV1")
+![Accuracy = (300 \* (彩 300 数量 + 300 数量) + 200 \* 200 数量 + 100 \* 100 数量 + 50 \* 50 数量) / (300 \* (彩 300 数量 + 300 数量 + 200 数量 + 100 数量 + 50 数量 + 失误数量))](img/accuracy_mania_updated_score_v1.png "Accuracy formula for osu!mania with ScoreV1")
 
 若开启了 ScoreV2，彩 300 的权重会增加到 305：
 
-![Accuracy = 305 \* number of MAXs + 300 \* number of 300s + 200 \* number of 200s + 100 \* number of 100s + 50 \* number of 50s) / (305 \* (number of MAXs + number of 300s + number of 200s + number of 100s + number of 50s + number of misses))](img/accuracy_mania_updated_score_v2.png "Accuracy formula for osu!mania with ScoreV2")
+![Accuracy = 305 \* 彩 300 数量 + 300 \* 300 数量 + 200 \* 200 数量 + 100 \* 100 数量 + 50 \* 50 数量) / (305 \* (彩 300 数量 + 300 数量 + 200 数量 + 100 数量 + 50 数量 + 失误数量))](img/accuracy_mania_updated_score_v2.png "Accuracy formula for osu!mania with ScoreV2")
 
 *API 用户请注意：*
 
@@ -68,7 +68,7 @@
 
 光标悬停在表现图上方时， 将显示一个包含 `偏差（Error）` 和 `不稳定度（Unstable Rate）` 评估的提示框。
 
-由于 [DT](/wiki/Game_modifier/Double_Time) (Double Time) 和 [HT](/wiki/Game_modifier/Half_Time) (Half Time) 模组的实现方法，偏差和不稳定度的值将会被乘以谱面的速度变化率。当使用 DT 模组时，要获得不稳定度的合理值，将结果除以 1.5 即可。类似的，当使用 HT 模组时将结果乘 1.33 即可。
+由于 [DT](/wiki/Game_modifier/Double_Time) (Double Time) 和 [HT](/wiki/Game_modifier/Half_Time) (Half Time) 模组的实现方法，偏差和不稳定度的值将会乘上谱面的速度变化率。当使用 DT 模组时，要获得合理的不稳定度，将结果除以 1.5 即可。类似的，当使用 HT 模组时将结果乘 1.33 即可。
 
 #### 偏差（Error）
 
@@ -76,7 +76,7 @@
 
 #### 不稳定度（Unstable rate）
 
-`Unstable Rate` 代表打击时间的不稳定程度，越低越好（顶尖玩家往往保持在 100 以下）。该值衡量的是打击时间的稳定性，因此总是提前 15 毫秒击打，和总是准时击打相比，其不稳定度是一样的。按公式算出来的结果基本上就是击打误差（单位：毫秒）乘 10。[这段代码](https://gist.github.com/peppy/3a11cb58c856b6af7c1916422f668899)展示了 osu! Stable 版是如何计算不稳定度的，可以作为参考。
+`不稳定度` 简称为 UR，即打击时间的不稳定程度，越低越好（顶尖玩家往往保持在 100 以下）。该值衡量的是打击时间的稳定性，因此总是提前 15 毫秒击打，和总是准时击打相比，其不稳定度是一样的。按公式算出来的结果基本上就是击打误差（单位：毫秒）乘 10。[这段代码](https://gist.github.com/peppy/3a11cb58c856b6af7c1916422f668899)展示了 osu! 稳定版是如何计算不稳定度的，可以作为参考。
 
 ### 转盘信息（Spin）
 
