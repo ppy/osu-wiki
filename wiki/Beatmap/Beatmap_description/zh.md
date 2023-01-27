@@ -4,7 +4,7 @@
 
 ## 使用与信息
 
-[上架 (ranked)](/wiki/Beatmap/Category#ranked)谱面的流行说明通常包含以下要素：
+[上架 (ranked)](/wiki/Beatmap/Category#上架-(ranked))谱面的流行说明通常包含以下要素：
 
 - 所有[客串难度](/wiki/Beatmap/Guest_difficulty)及其制作者的列表
 - 帮助玩家决定是否想要下载谱面的信息
@@ -12,7 +12,7 @@
 
 ### 图片
 
-许多谱面说明至少包含一张图片（通常为 [GIF](https://en.wikipedia.org/wiki/GIF) 动画或相似格式），用来在短时间内表示与说明谱师、歌曲和/或谱面。它们也可以用于给标题或开头增添风格，提升质量。如果想要学习如何插入图片，详见[此页](/wiki/BBCode#images)。
+许多谱面说明至少包含一张图片（通常为 [GIF](https://en.wikipedia.org/wiki/GIF) 动画或相似格式），用来在短时间内表示与说明谱师、歌曲和/或谱面。它们也可以用于给标题或开头增添风格，提升质量。如果想要学习如何插入图片，详见[此页](/wiki/BBCode#图片)。
 
 ### 难度列表
 
