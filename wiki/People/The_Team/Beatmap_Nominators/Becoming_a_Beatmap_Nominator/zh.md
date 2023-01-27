@@ -11,7 +11,8 @@ BN 申请程序于 [NAT 官网](http://bn.mappersguild.com/bnapps)进行。
 申请者必须达到以下标准：
 
 - 作为 osu! 模式的摸图员，至少获取 200 个 [kudosu](/wiki/Modding/Kudosu)，作为 osu!taiko/osu!catch/osu!mania 的摸图员，至少获取 150 个 [kudosu](/wiki/Modding/Kudosu)。
-- 提交 2 到 3 个摸（俗称上狗摸）。这些摸需要阐述可以提名或者不能提名这些谱面的理由。
+- 提交 3 个摸（俗称上狗摸）。这些摸需要阐述可以提名或者不能提名这些谱面的理由。
+  - 前 BN/NAT 成员在申请时只需要提交至少 2 个摸。
 
 ### 摸图期望（上狗摸要求）
 
