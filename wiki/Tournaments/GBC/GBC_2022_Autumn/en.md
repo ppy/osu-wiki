@@ -48,7 +48,7 @@ The **GB Cup 2022 Autumn** (***GBC 2022 Autumn***) was a 3v3 captain draft-based
 
 ## Organisation
 
-The GB Cup 2022 Autumn is run by the Team GB and various community members.
+The GB Cup 2022 Autumn was run by the Team GB and various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
