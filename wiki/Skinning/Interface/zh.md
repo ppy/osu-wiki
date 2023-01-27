@@ -1134,7 +1134,7 @@
 
 - 动画文件名： `scorebar-colour-{n}.png`.
 - 混合模式不同：
-  - 如果使用 `scorebar-marker.png` ，则使用相乘模式。
+  - 如果使用 `scorebar-marker.png` ，则使用相乘模式混合。
     - 接近危急区时随时间变黑，在危急区内变红。
   - 其余情况下，使用普通模式。
 - 位置不同：
@@ -1229,9 +1229,9 @@
 - 默认情况下也用于显示连击数。
 - 混合模式不同：
   - 如果用于连击计数器：
-    - 在 [osu!](/wiki/Game_mode/osu!) 与 [osu!catch](/wiki/Game_mode/osu!catch) 中，对后续放大的图片使用相加模式。
+    - 在 [osu!](/wiki/Game_mode/osu!) 与 [osu!catch](/wiki/Game_mode/osu!catch) 中，对后续放大的图片使用相加模式混合。
     - 除此之外，在 osu!catch 中，后续的图片会使用大果的连击颜色。
-    - 在 osu!mania 中，使用相乘模式。
+    - 在 osu!mania 中，使用相乘模式混合。
 
 ---
 
@@ -1248,9 +1248,9 @@
 - 默认情况下也用于显示连击数。
 - 混合模式不同：
   - 如果用于连击计数器：
-    - 在 [osu!](/wiki/Game_mode/osu!) 与 [osu!catch](/wiki/Game_mode/osu!catch) 中，对后续放大的图片使用相加模式。
+    - 在 [osu!](/wiki/Game_mode/osu!) 与 [osu!catch](/wiki/Game_mode/osu!catch) 中，对后续放大的图片使用相加模式混合。
     - 除此之外，在 osu!catch 中，后续的图片会使用大果的连击颜色。
-    - 在 osu!mania 中，使用相乘模式。
+    - 在 osu!mania 中，使用相乘模式混合。
 
 ---
 
@@ -1267,9 +1267,9 @@
 - 默认情况下也用于显示连击数。
 - 混合模式不同：
   - 如果用于连击计数器：
-    - 在 [osu!](/wiki/Game_mode/osu!) 与 [osu!catch](/wiki/Game_mode/osu!catch) 中，对后续放大的图片使用相加模式。
+    - 在 [osu!](/wiki/Game_mode/osu!) 与 [osu!catch](/wiki/Game_mode/osu!catch) 中，对后续放大的图片使用相加模式混合。
     - 除此之外，在 osu!catch 中，后续的图片会使用大果的连击颜色。
-    - 在 osu!mania 中，使用相乘模式。
+    - 在 osu!mania 中，使用相乘模式混合。
 
 ---
 
@@ -1286,9 +1286,9 @@
 - 默认情况下也用于显示连击数。
 - 混合模式不同：
   - 如果用于连击计数器：
-    - 在 [osu!](/wiki/Game_mode/osu!) 与 [osu!catch](/wiki/Game_mode/osu!catch) 中，对后续放大的图片使用相加模式。
+    - 在 [osu!](/wiki/Game_mode/osu!) 与 [osu!catch](/wiki/Game_mode/osu!catch) 中，对后续放大的图片使用相加模式混合。
     - 除此之外，在 osu!catch 中，后续的图片会使用大果的连击颜色。
-    - 在 osu!mania 中，使用相乘模式。
+    - 在 osu!mania 中，使用相乘模式混合。
 
 ---
 
@@ -1305,9 +1305,9 @@
 - 默认情况下也用于显示连击数。
 - 混合模式不同：
   - 如果用于连击计数器：
-    - 在 [osu!](/wiki/Game_mode/osu!) 与 [osu!catch](/wiki/Game_mode/osu!catch) 中，对后续放大的图片使用相加模式。
+    - 在 [osu!](/wiki/Game_mode/osu!) 与 [osu!catch](/wiki/Game_mode/osu!catch) 中，对后续放大的图片使用相加模式混合。
     - 除此之外，在 osu!catch 中，后续的图片会使用大果的连击颜色。
-    - 在 osu!mania 中，使用相乘模式。
+    - 在 osu!mania 中，使用相乘模式混合。
 
 ---
 
@@ -1324,9 +1324,9 @@
 - 默认情况下也用于显示连击数。
 - 混合模式不同：
   - 如果用于连击计数器：
-    - 在 [osu!](/wiki/Game_mode/osu!) 与 [osu!catch](/wiki/Game_mode/osu!catch) 中，对后续放大的图片使用相加模式。
+    - 在 [osu!](/wiki/Game_mode/osu!) 与 [osu!catch](/wiki/Game_mode/osu!catch) 中，对后续放大的图片使用相加模式混合。
     - 除此之外，在 osu!catch 中，后续的图片会使用大果的连击颜色。
-    - 在 osu!mania 中，使用相乘模式。
+    - 在 osu!mania 中，使用相乘模式混合。
 
 ---
 
@@ -1343,9 +1343,9 @@
 - 默认情况下也用于显示连击数。
 - 混合模式不同：
   - 如果用于连击计数器：
-    - 在 [osu!](/wiki/Game_mode/osu!) 与 [osu!catch](/wiki/Game_mode/osu!catch) 中，对后续放大的图片使用相加模式。
+    - 在 [osu!](/wiki/Game_mode/osu!) 与 [osu!catch](/wiki/Game_mode/osu!catch) 中，对后续放大的图片使用相加模式混合。
     - 除此之外，在 osu!catch 中，后续的图片会使用大果的连击颜色。
-    - 在 osu!mania 中，使用相乘模式。
+    - 在 osu!mania 中，使用相乘模式混合。
 
 ---
 
@@ -1362,9 +1362,9 @@
 - 默认情况下也用于显示连击数。
 - 混合模式不同：
   - 如果用于连击计数器：
-    - 在 [osu!](/wiki/Game_mode/osu!) 与 [osu!catch](/wiki/Game_mode/osu!catch) 中，对后续放大的图片使用相加模式。
+    - 在 [osu!](/wiki/Game_mode/osu!) 与 [osu!catch](/wiki/Game_mode/osu!catch) 中，对后续放大的图片使用相加模式混合。
     - 除此之外，在 osu!catch 中，后续的图片会使用大果的连击颜色。
-    - 在 osu!mania 中，使用相乘模式。
+    - 在 osu!mania 中，使用相乘模式混合。
 
 ---
 
@@ -1381,9 +1381,9 @@
 - 默认情况下也用于显示连击数。
 - 混合模式不同：
   - 如果用于连击计数器：
-    - 在 [osu!](/wiki/Game_mode/osu!) 与 [osu!catch](/wiki/Game_mode/osu!catch) 中，对后续放大的图片使用相加模式。
+    - 在 [osu!](/wiki/Game_mode/osu!) 与 [osu!catch](/wiki/Game_mode/osu!catch) 中，对后续放大的图片使用相加模式混合。
     - 除此之外，在 osu!catch 中，后续的图片会使用大果的连击颜色。
-    - 在 osu!mania 中，使用相乘模式。
+    - 在 osu!mania 中，使用相乘模式混合。
 
 ---
 
@@ -1400,9 +1400,9 @@
 - 默认情况下也用于显示连击数。
 - 混合模式不同：
   - 如果用于连击计数器：
-    - 在 [osu!](/wiki/Game_mode/osu!) 与 [osu!catch](/wiki/Game_mode/osu!catch) 中，对后续放大的图片使用相加模式。
+    - 在 [osu!](/wiki/Game_mode/osu!) 与 [osu!catch](/wiki/Game_mode/osu!catch) 中，对后续放大的图片使用相加模式混合。
     - 除此之外，在 osu!catch 中，后续的图片会使用大果的连击颜色。
-    - 在 osu!mania 中，使用相乘模式。
+    - 在 osu!mania 中，使用相乘模式混合。
 
 ---
 
@@ -1465,7 +1465,7 @@
 - 此元素只用于 [osu!](/wiki/Game_mode/osu!) 中的连击。
 - 混合模式不同：
   - 如果用于连击计数器：
-    - 对后续放大的图片使用相加模式。
+    - 对后续放大的图片使用相加模式混合。
 
 ## 结算等级显示
 
