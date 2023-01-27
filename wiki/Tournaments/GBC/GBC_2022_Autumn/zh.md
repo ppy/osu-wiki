@@ -44,6 +44,8 @@ tags:
 | *第 17-21 名* | ￥60 |
 | *第 22-24 名* | ￥30 |
 
+![](img/badge_official.png "GBC 2022 秋季赛冠军缎带") ![](img/badge_1st.png "GBC 2022 秋季赛冠军 KanonBot 缎带") ![](img/badge_2nd.png "GBC 2022 秋季赛亚军 KanonBot 缎带") ![](img/badge_3rd.png "GBC 2022 秋季赛季军 KanonBot 缎带")
+
 ## 组织
 
 GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
@@ -51,15 +53,16 @@ GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
 | Position | Member(s) |
 | :-- | :-- |
 | 主办方 | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
-| 工作人员 | ::{ flag=CN }:: [\[GB\]gluefly](https://osu.ppy.sh/users/8715409), ::{ flag=GB }:: [-Deepdive-](https://osu.ppy.sh/users/13338645), ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501) |
-| 图池管理 | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260), ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501) |
+| 工作人员 | ::{ flag=CN }:: [\[GB\]gluefly](https://osu.ppy.sh/users/8715409),  ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018) |
+| 图池管理 | ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501), ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
 | 变速图池管理 | ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561) |
-| 图池助手 | ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=GB }:: [-Deepdive-](https://osu.ppy.sh/users/13338645), ::{ flag=CN }:: [Lubei_01](https://osu.ppy.sh/users/11692528) |
-| 裁判 | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=CN }:: [\[GB\]Edward_Tsui](https://osu.ppy.sh/users/8609627), ::{ flag=CN }:: [\[GB\]gluefly](https://osu.ppy.sh/users/8715409), ::{ flag=CN }:: [\[GB\]Rush_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501), ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [\[GB\]Thaumiel](https://osu.ppy.sh/users/15017771), ::{ flag=CN }:: [\[GB\]Natro](https://osu.ppy.sh/users/27233308), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [\[GB\]Yuria](https://osu.ppy.sh/users/13092888), ::{ flag=CN }:: [\[GB\]Tyris](https://osu.ppy.sh/users/10497659) |
-| 解说 | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
-| 转播 | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617) |
-| 设计 | ::{ flag=CN }:: [\[GB\]PlayandyoU](https://osu.ppy.sh/users/14759634), ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561)  |
-| 数据统计&wiki编写 | ::{ flag=CN }:: [\[GB\]Rush\_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=CN }:: [\[GB\]Yuria](https://osu.ppy.sh/users/13092888), ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [\[GB\]Natro](https://osu.ppy.sh/users/27233308) |
+| 图池助手 | ::{ flag=GB }:: [-Deepdive-](https://osu.ppy.sh/users/13338645), ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=CN }:: [Lubei_01](https://osu.ppy.sh/users/11692528), ::{ flag=VN }:: [Lott](https://osu.ppy.sh/users/13821222) |
+| 裁判 | ::{ flag=CN }:: [\[GB\]Edward_Tsui](https://osu.ppy.sh/users/8609627), ::{ flag=CN }:: [\[GB\]gluefly](https://osu.ppy.sh/users/8715409), ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=CN }:: [\[GB\]Rush_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501), ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
+| 解说 | ::{ flag=CN }:: [Tachibana Gekka](https://osu.ppy.sh/users/4363530), ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
+| 客座解说 | ::{ flag=GB }:: [-Deepdive-](https://osu.ppy.sh/users/13338645), ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619), |
+| 转播 | ::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617), ::{ flag=CN }:: [crazybrother](https://osu.ppy.sh/users/8045083), ::{ flag=CN }:: [MadSamurai](https://osu.ppy.sh/users/8646045), ::{ flag=CN }:: [\[GB\]Tyris](https://osu.ppy.sh/users/10497659), ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
+| 设计 | ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=CN }:: [\[GB\]PlayandyoU](https://osu.ppy.sh/users/14759634), ::{ flag=CN }:: [\[GB\]Voidmoyu](https://osu.ppy.sh/users/16573996) |
+| 数据统计 & wiki 编写 | ::{ flag=CN }:: [\[GB\]Natro](https://osu.ppy.sh/users/27233308), ::{ flag=CN }:: [\[GB\]Rush\_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=CN }:: [\[GB\]Yuria](https://osu.ppy.sh/users/13092888), ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
 
 ## 链接
 
@@ -105,14 +108,15 @@ GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
 | 23 | **近月少女的礼仪** | ::{ flag=CN }:: **[Zyuuu](https://osu.ppy.sh/users/15389275)**, ::{ flag=CN }:: [tito31158](https://osu.ppy.sh/users/16436669), ::{ flag=CN }:: [Koishi-0514](https://osu.ppy.sh/users/7546593), ::{ flag=CN }:: [yem sky](https://osu.ppy.sh/users/10588209), ::{ flag=CN }:: [FALSEFAST](https://osu.ppy.sh/users/25508274) |
 | 24 | **又一个倒霉蛋** | ::{ flag=CN }:: **[fishbone2445](https://osu.ppy.sh/users/17640814)**, ::{ flag=CN }:: [chana](https://osu.ppy.sh/users/18375016), ::{ flag=CN }:: [ALWW](https://osu.ppy.sh/users/18786195), ::{ flag=CN }:: [KafuChino](https://osu.ppy.sh/users/14826575), ::{ flag=CN }:: [spensll](https://osu.ppy.sh/users/4547744) |
 
-## 赛程: 半决赛
+## 赛果
 
-### 2022 年 12 月 10 日，星期六
+比赛已经结束，领奖台名次如下：
 
-| A 队 | B 队 | 比赛时间 (UTC+8) |
-| --: | :-- | :-- |
-| 黎曼猜想 | ban位先ban行李箱 | Dec 10 (Sat) 20:00 |
-| 猫猫面馆 | 均衡教派 | Dec 10 (Sat) 21:30 |
+| 名次 | 队伍 |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "冠军") | 猫猫面馆 |
+| ![Silver crown](/wiki/shared/crown-silver.png "亚军") | 黎曼猜想 |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "季军") | 均衡教派 |
 
 ## 图池
 
@@ -239,20 +243,42 @@ GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
 
 ## 赛果
 
+### 决赛
+
+可在[此处](https://docs.qq.com/sheet/DWnNnTnNMUW9zTnVE)查询本轮详细数据。
+
+2022 年 12 月 17 日，星期六：
+
+| A 队 |  |  | B 队 | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| ban位先ban行李箱 | 3 | **7** | **均衡教派** | [#1](https://osu.ppy.sh/community/matches/105689730) |
+| **猫猫面馆** | **7** | 1 | 黎曼猜想 | [#1](https://osu.ppy.sh/community/matches/105691127) |
+
+### 半决赛
+
+可在[此处](https://docs.qq.com/sheet/DWnNnTnNMUW9zTnVE)查询本轮详细数据。
+
+2022 年 12 月 10 日，星期六：
+
+| A 队 |  |  | B 队 | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| **黎曼猜想** | **7** | 5 | ban位先ban行李箱 | [#1](https://osu.ppy.sh/community/matches/105556220) |
+| **猫猫面馆** | **7** | 5 | 均衡教派 | [#1](https://osu.ppy.sh/community/matches/105557675) |
+
 ### 八强赛
 
 可在[此处](https://docs.qq.com/sheet/DWnNib25NSVhLT1No?tab=BB08J2)查询本轮详细数据。
 
 2022 年 12 月 3 日，星期六：
 
-| Team A |  |  | Team B | Match link |
+| A 队 |  |  | B 队 | 比赛链接 |
 | --: | :-: | :-: | :-- | :-- |
 | **黎曼猜想** | **7** | 5 | 奖励一把大天空 | [#1](https://osu.ppy.sh/community/matches/105422717) |
 | 经典米托镂空鱼香鸡肉丸 | 6 | **7** | **ban位先ban行李箱** | [#1](https://osu.ppy.sh/community/matches/105424329) |
 
 2022 年 12 月 4 日，星期日：
 
-| Team A |  |  | Team B | Match link |
+| A 队 |  |  | B 队 | 比赛链接 |
 | --: | :-: | :-: | :-- | :-- |
 | 铁戈金马 | 3 | **7** | **猫猫面馆** | [#1](https://osu.ppy.sh/community/matches/105440006) |
 | **均衡教派** | **7** | 5 | DAMWONGaming | [#1](https://osu.ppy.sh/community/matches/105447980) |
