@@ -2,7 +2,7 @@
 
 本页面展示锦标赛。锦标赛有专门的论坛，可以通过[此链接](https://osu.ppy.sh/community/forums/55)找到。
 
-请访问[官方锦标赛支持页面](https://osu.ppy.sh/wiki/en/Tournaments/Official_support)，详细了解如何为您的锦标赛申请官方支持（徽章、筛选流程等）。
+请访问[官方锦标赛支持页面](/wiki/Tournaments/Official_support)，详细了解如何为您的锦标赛申请官方支持（徽章、筛选流程等）。
 
 ## 官方世界杯
 
@@ -26,7 +26,7 @@ osu! 世界杯是国家间的 4v4 组队对抗赛，赛制为单败淘汰制。�
 | [osu! 世界杯 2019](OWC/2019) | 2019-11-09 | 2019-12-22 | ::{ flag=US }:: 美国 | ::{ flag=KR }:: 韩国 | ::{ flag=GB }:: 英国 |
 | [osu! 世界杯 2020](OWC/2020) | 2020-10-24 | 2020-12-06 | ::{ flag=US }:: 美国 | ::{ flag=DE }:: 德国 | ::{ flag=CA }:: 加拿大 |
 | [osu! 世界杯 2021](OWC/2021) | 2021-10-09 | 2021-11-28 | ::{ flag=US }:: 美国 | ::{ flag=DE }:: 德国 | ::{ flag=KR }:: 韩国 |
-| [osu! 世界杯 2021](OWC/2022) | 2022-10-15 | 2022-11-27 | ::{ flag=US }:: 美国 | ::{ flag=KR }:: 韩国 | ::{ flag=DE }:: 德国 |
+| [osu! 世界杯 2022](OWC/2022) | 2022-10-15 | 2022-11-27 | ::{ flag=US }:: 美国 | ::{ flag=KR }:: 韩国 | ::{ flag=DE }:: 德国 |
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko 世界杯
 
