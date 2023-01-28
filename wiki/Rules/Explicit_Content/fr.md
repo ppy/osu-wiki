@@ -1,3 +1,8 @@
+---
+outdated_since: 164a0364b14766421dfef73d0ebc37dd0356ba20
+outdated_translation: true
+---
+
 # Contenu explicite
 
 ![Capture d'écran d'une beatmap contenant un contenu explicite](img/explicit-tag.jpg "Un exemple de beatmap qui est marqué avec le tag 'explicite'.")
