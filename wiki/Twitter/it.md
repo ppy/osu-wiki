@@ -1,6 +1,6 @@
 # Twitter
 
-osu! ha diversi account Twitter, ogniuno per scopi diversi. La maggior parte postano sporadicamente, ma possono aiutare a tenerti informato al di fuori dell'ecosistema di osu!.
+osu! ha diversi account Twitter, ognuno per scopi diversi. La maggior parte pubblicano sporadicamente, ma possono aiutare a tenerti informato al di fuori dell'ecosistema di osu!.
 
 ## Servizio
 
@@ -16,10 +16,10 @@ osu! ha diversi account Twitter, ogniuno per scopi diversi. La maggior parte pos
 | ![osu! avatar](img/osugame.jpg) | [@osugame](https://twitter.com/osugame) | Fonte primaria per notizie e annunci. |
 | ![BanchoBoat avatar](img/banchoboat.jpg) | [@banchoboat](https://twitter.com/banchoboat) | Per tirarti su il morale quando le cose vanno male. |
 | ![NAT avatar](img/osu_nat.png) | [@osu_nat](https://twitter.com/osu_nat) | Notizie, annunci, e veloci sondaggi dal [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) (non gestito dal [team di osu!](/wiki/People/The_Team)). |
-| ![pp committee avatar](img/ppcommittee.png) | [@pp_committee](https://twitter.com/pp_committee) | Annunci riguardanti il calcolo della difficoltà per ogni modalità di gioco, gestito dal [Comitato Punti Prestazioni](/wiki/People/Performance_Points_Committee). |
+| ![pp committee avatar](img/ppcommittee.png) | [@pp_committee](https://twitter.com/pp_committee) | Annunci riguardanti il calcolo della difficoltà per ogni modalità di gioco, gestito dal [Comitato Punti Performance](/wiki/People/Performance_Points_Committee). |
 
 ## Personali
 
 | Avatar | Account | Descrizione |
 | :-: | :-: | :-- |
-| ![Dean Herbert avatar](img/ppy.jpg?2) | [@ppy](https://twitter.com/ppy) | L'account Twitter personale del [creatore di osu!]((/wiki/People/peppy)), che non si limita solo ad osu!. |
+| ![Dean Herbert avatar](img/ppy.jpg?2) | [@ppy](https://twitter.com/ppy) | L'account Twitter personale del [creatore di osu!]((/wiki/People/peppy)), che non riguarda strettamente solo osu!, ma se ne occupa per la maggior parte.   |
