@@ -1,6 +1,6 @@
 # Vuoi veramente chiederlo a peppy?
 
-Ciao! peppy comprende il tuo bisogno di contattarlo personalmente, ma lui chiede che innanzitutto tu capisca che questo **non è** il posto dove vuoi chiedergli aiuto o assistenza. Lui tiene il supporto di osu! separato dai messaggi personali e inoltre ritiene che è abbastanza difficile stare dietro ai PM sul forum. Quindi ti chiede che tu faccia una delle seguenti opzioni:
+Ciao! peppy comprende il tuo bisogno di contattarlo personalmente, ma lui chiede che innanzitutto tu capisca che questo **non è** il posto adatto per chiedere aiuto o assistenza. Lui gestisce i messaggi di supporto di osu! separati rispetto a i messaggi personali e inoltre ritiene che sia abbastanza difficile stare dietro ai PM sul forum. Quindi ti chiede che tu segua una delle seguenti opzioni:
 
 ## Supporto Tecnico
 
