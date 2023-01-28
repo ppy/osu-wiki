@@ -16,7 +16,7 @@ tags:
 | :-: | :-: | :-: | :-: |
 | [打击圈](/wiki/Hit_object/Hit_circle) | 打击圈 | [水果](/wiki/Hit_object/Fruit) | 音符 |
 | [滑条](/wiki/Hit_object/Slider) | 连续击鼓 | [水果串](/wiki/Hit_object/Juice_stream) | 面条 |
-| [转盘](/wiki/Hit_object/Spinner) | Denden | [香蕉](/wiki/Hit_object/Banana) | x |
+| [转盘](/wiki/Hit_object/Spinner) | 拨浪鼓 | [香蕉](/wiki/Hit_object/Banana) | x |
 | x | x | [超级水果](/wiki/Hit_object/Hyperfruit) | x |
 
 从编程的角度来看， osu!mania 中的面条并不等同于 osu! 的滑条。不过为了简化起见，在这个表中把它们放在一起。其他在游戏过程中不参与互动的元素（如血条或 kiai 星星）则被认为是游戏玩法的增强或用户界面的一部分。

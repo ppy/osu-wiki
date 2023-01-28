@@ -11,7 +11,7 @@ tags:
 
 在 osu! 中，打击圈最上面有数字，以显示其在一个连击串中的位置。打击圈外围也有在其周围收缩的[缩圈](/wiki/Hit_object/Approach_circle)。一旦两者重合，玩家就应该点击或触碰打击圈来得分。
 
-在 osu!taiko 中，打击圈作为红色或蓝色物件 （Don 或 Katu）自右向左出现。当打击圈与白色[判定](/wiki/Gameplay/Judgement)圈靠近并对齐时，需要按下正确的键来得分。
+在 osu!taiko 中，打击圈作为红色或蓝色物件（咚或咔）自右向左出现。当打击圈与白色[判定](/wiki/Gameplay/Judgement)圈靠近并对齐时，需要按下正确的键来得分。
 
 <!-- TODO: Include Skinnable Property-->
 
