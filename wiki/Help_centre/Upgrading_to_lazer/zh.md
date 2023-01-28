@@ -114,7 +114,7 @@ osu!(lazer) 是游戏的下一个大更新。这凝结了几年以来精心幕�
 
 #### 如果我将我的谱面导入 lazer，它会多占用一份我的磁盘吗？
 
-如果稳定版和 lazer 安装在同一张磁盘上，lazer 会使用[硬链接](/wiki/Client/Release_stream/Lazer/File_storage#via-hard-links)来避免占用额外的磁盘空间。
+如果稳定版和 lazer 安装在同一张磁盘上，lazer 会使用[硬链接](/wiki/Client/Release_stream/Lazer/File_storage#通过硬链接)来避免占用额外的磁盘空间。
 
 在其他所有情况下，它们会占用双份的磁盘空间。
 
