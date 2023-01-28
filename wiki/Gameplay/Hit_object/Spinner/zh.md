@@ -12,7 +12,3 @@ tags:
 转盘外部的白色圆圈显示完成转盘的剩余时间。当时间不足时，此圆圈会变红。使用*皮肤版本 1.0* 的早期[谱面](/wiki/Beatmap)有仪表或标尺来指示玩家完成转盘的程度。转盘下的小方框显示每分钟的转数。其中的数字指的是以目前速度继续旋转一分钟的情况下可能的转数。如果在旋转期间过早松开鼠标或键盘按键（或者笔没有碰到数位板），转盘就会停止读出转数。
 
 每分钟可达到的最大转数是 477 转，同时也是 [Auto](/wiki/Game_modifier/Auto) 模组的旋转速度。而 [Spun Out](/wiki/Game_modifier/Spun_Out) 模组的旋转速度较低，为每分钟 287 转。
-
-<!-- TODO: Include Skinnable Property-->
-
-<!-- TODO: Add links and images-->
