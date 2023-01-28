@@ -299,7 +299,6 @@ Il tag avrebbe reindirizzato gli utenti a una ricerca di Google attraverso il lo
 
 Il tag `[lucky]` è un tag obsoleto che una volta veniva utilizzato nei forum di osu! per collegare un sito web indirizzato dal pulsante `Mi sento fortunato` di Google utilizzando il testo fornito. Il sito web collegato attraverso questo tag non sarebbe stato lo stesso per tutti a causa della natura del pulsante stesso.
 
-
 ### Intestazione (v2)
 
 ```
