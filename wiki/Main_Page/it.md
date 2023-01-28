@@ -1,3 +1,7 @@
+---
+layout: main_page
+---
+
 <div class="wiki-main-page__blurb">
 Benvenuto nella wiki di osu!, la base open-source di conoscenze contenente un'ampia gamma di informazioni su osu!, un gioco di ritmo free-to-win.
 </div>
@@ -96,7 +100,7 @@ Posti: [Forum](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_C
 
 [Tornei](/wiki/Tournaments) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Concorsi](/wiki/Contests) • [Programma di mentorship della comunità](/wiki/Community/Community_Mentorship_Program)
 
-[Progetti](/wiki/Community/Projects): [Artisti in evidenza](/wiki/Featured_Artists) • [Progetto Amata](/wiki/Community/Project_Loved) • [Incontri](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk)
+[Progetti](/wiki/Community/Projects) • [Artisti in evidenza](/wiki/Featured_Artists) • [Progetto Amata](/wiki/Community/Project_Loved) • [Incontri](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk)
 
 Organizzazioni: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
@@ -109,7 +113,7 @@ osu! non sarebbe stato possibile senza i molti utenti che aiutano con lo svilupp
 
 [Il Team](/wiki/People/The_Team): [Sviluppatori](/wiki/People/The_Team/Developers) • [Team di Moderazione Globale](/wiki/People/The_Team/Global_Moderation_Team) • [Team di Supporto](/wiki/People/The_Team/Support_Team) • [Team di Valutazione Nomine](/wiki/People/The_Team/Nomination_Assessment_Team) • [Nominatori di Beatmap](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Team Progetto Loved](/wiki/People/The_Team/Project_Loved_Team) • [Curatori Beatmap Spotlight](/wiki/People/The_Team/Beatmap_Spotlight_Curators)
 
-[Collaboratri della Comunità](/wiki/People/Community_Contributors) • [Utenti con titoli unici](/wiki/People/Users_with_unique_titles) • [Comitato Tornei](/wiki/People/Tournament_Committee) • [Comitato Punti Performance](/wiki/People/Performance_Points_Committee)
+[Collaboratori della Comunità](/wiki/People/Community_Contributors) • [Utenti con titoli unici](/wiki/People/Users_with_unique_titles) • [Comitato Tornei](/wiki/People/Tournament_Committee) • [Comitato Punti Performance](/wiki/People/Performance_Points_Committee) • [Manuntentori della osu! wiki](/wiki/People/osu!_wiki_maintainers)
 
 </div>
 <div class="wiki-main-page-panel">
