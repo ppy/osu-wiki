@@ -63,7 +63,6 @@ outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
 | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109) | 葡萄牙语，日语 | 聊天管理员 |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) |  | 玩家支持团队，wiki 管理员 |
 | ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | 印度尼西亚语 | 作图、摸图社群管理员 |
-| ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | 汉语 | 作图、摸图社群管理员 |
 | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) | 波兰语 | 聊天管理员 |
 | ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | 汉语 | 作图、摸图社群管理员 |
 | ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | 作图、摸图社群管理员 |

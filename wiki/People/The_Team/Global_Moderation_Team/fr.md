@@ -64,7 +64,7 @@ La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la
 | ::{ flag=HU }:: [[ Another ]](https://osu.ppy.sh/users/3416573) | Hongrois | Modération du tchat |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Russe | Modération du tchat |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | Modération du forum |
-| ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | Gestion des tournois |
+| ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | Gestion des tournois[^task-Azer] |
 | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419) | Chinois, malais | Modération du tchat |
 | ::{ flag=US }:: [Chaos](https://osu.ppy.sh/users/2628870) |  | Modération du tchat |
 | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | Suédois, espagnol | Modération du tchat, gestion des tournois |
@@ -76,7 +76,6 @@ La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la
 | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109) | Portugais, japonais | Modération du tchat |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) |  | Support aux joueurs, administration du wiki |
 | ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | Indonésien | Modération de la communauté modding/mapping |
-| ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Chinois | Modération de la communauté modding/mapping |
 | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) | Polonais | Modération du tchat |
 | ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Chinois | Modération de la communauté modding/mapping |
 | ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | Modération de la communauté modding/mapping |
@@ -163,3 +162,7 @@ La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la
 | `#turkish` | [Türkçe](https://osu.ppy.sh/community/forums/93) |  |
 | `#ukrainian` |  | ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) |
 | `#vietnamese` |  | ::{ flag=VN }:: [My Angel Chino](https://osu.ppy.sh/users/20547597), ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) |
+
+## Notes
+
+[^task-Azer]: Bien que ne faisant pas partie de la GMT elle-même, Azer fait techniquement partie du groupe d'utilisateurs car il a besoin de permissions du niveau des GMT en tant qu'organisateur de la World Cup.
