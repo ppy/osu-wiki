@@ -33,6 +33,6 @@ Ce serveur est principalement composé de :
 
 ## Vérification
 
-Afin d'accéder aux salons du serveur, les utilisateurs doivent confirmer leur identité en postant leur profil osu! dans le salon `#arrival`.
+Afin d'accéder aux salons du serveur, les utilisateurs doivent confirmer leur identité avec leur compte osu! en utilisant [AxerBot](https://osu.ppy.sh/community/forums/topics/1604925).
 
-![Processus d'authentification](img/auth.jpg "En rejoignant le serveur, les utilisateurs enverront leur profil osu!. Un administrateur modifiera alors leur profil en conséquence.")
+![Message d'authentification d'AxerBot](img/auth.jpg "En rejoignant le serveur, AxerBot invitera l'utilisateur à confirmer son identité avec son profil osu! en utilisant OAuth2.")
