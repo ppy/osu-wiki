@@ -9,7 +9,7 @@ tags:
 
 *For tournament support, see: [Official tournament support](/wiki/Tournaments/Official_support).*
 
-[Beatmapping contests](/wiki/Contests) are eligible to recieve support from the [osu! team](/wiki/People/The_Team) provided they meet certain criteria.
+[Beatmapping contests](/wiki/Contests) are eligible to receive support from the [osu! team](/wiki/People/The_Team) provided they meet certain criteria.
 
 For other contests, email us at [tournaments@ppy.sh](mailto:tournaments@ppy.sh). We'll try to work something out.
 
@@ -56,7 +56,7 @@ If your contest satisfies the [eligibility criteria](#eligibility), you can make
   - Previous iterations of the same contest series (if applicable).
   - Your contest on the [Mappers' Guild contest listing](https://mappersguild.com/contests/listing) (if applicable).
 
-Once we receive your request, the osu! team will send an approval or denial of your contest's official support status. 
+Once we receive your request, the osu! team will send an approval or denial of your contest's official support status.
 
 The osu! team may choose to deny official support to any contest that fits the eligibility criteria at their discretion. This ensures no foul play occurs by contest organisers taking advantage of criteria loopholes, so if you are running a contest without ill intent, you likely do not need to worry about this.
 
