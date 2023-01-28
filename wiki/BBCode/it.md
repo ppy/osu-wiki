@@ -95,7 +95,7 @@ Bottone della barra degli strumenti: ![Opzioni dimensione font](img/font-size.pn
 [spoiler]testo[/spoiler]
 ```
 
-Il tag `[spoiler]` viene utilizzato per coprire informazioni sensibili con un primo piano nero opaco che rivela il testo sottostante quando viene evidenziato. Se usato in combinazione con il tag [`[color]`](#colour), la copertura nera non verrà influenzata. Tuttavia, il testo sotto la copertura nera sarà comunque colorato, che sia leggibile o meno.
+Il tag `[spoiler]` viene utilizzato per coprire informazioni sensibili con un primo piano nero opaco che rivela il testo sottostante quando viene evidenziato. Se usato in combinazione con il tag [`[color]`](#colore), la copertura nera non verrà influenzata. Tuttavia, il testo sotto la copertura nera sarà comunque colorato, che sia leggibile o meno.
 
 Il tag viene comunemente utilizzato per evitare di rovinare informazioni critiche/sensibili riguardanti serie TV, film o altri media. Viene talvolta utilizzato anche a scopo comico o per enfasi.
 
