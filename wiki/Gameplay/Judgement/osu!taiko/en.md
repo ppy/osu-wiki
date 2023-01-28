@@ -12,7 +12,7 @@ A **judgement** (a.k.a. **hit result**) is the outcome of interacting with a [hi
 
 The hit window depends on the beatmap's [overall difficulty (OD)](/wiki/Beatmap/Overall_difficulty). A hit is then considered inside a hit window if `hit error < max hit error`, meaning the value listed is half of the hit window width. The MISS window by exception compares `hit error <= max hit error` instead.
 
-The hit error is rounded and the max hit error values are truncated to the nearest integer, meaning the windows may be up to 0.5 ms longer or shorter on both sides than what the formulas suggest.
+The hit error is rounded and the max hit error values are truncated to the nearest integer, meaning that for GREATs and OKs, hit windows may be up to 1.5 ms shorter on both sides, while miss windows may be up to 0.5 ms shorter or longer on both sides, than what the formulas suggest.
 
 ## Judgement mechanics
 
