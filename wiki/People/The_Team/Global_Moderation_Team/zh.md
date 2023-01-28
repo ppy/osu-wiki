@@ -163,8 +163,6 @@ tags:
 | `#ukrainian` |  | ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) |
 | `#vietnamese` |  | ::{ flag=VN }:: [My Angel Chino](https://osu.ppy.sh/users/20547597), ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) |
 
-<!-- TODO: History section wanted (Chat operators/GreenBAT, etc, etc) -->
-
 ## 备注
 
 [^task-Azer]: 虽然 Azer 不属于全局管理团队 (GMT)，但从技术上来说，由于组织世界杯需要 GMT 级别的权限，也将他纳入了团队组。
