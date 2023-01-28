@@ -1,3 +1,8 @@
+---
+outdated_since: 164a0364b14766421dfef73d0ebc37dd0356ba20
+outdated_translation: true
+---
+
 # Expliziter Inhalt
 
 ![Screenshot einer Beatmap, die expliziten Inhalt enthält](img/explicit-tag-DE.jpg "Ein Beispiel einer Beatmap, die mit dem Tag 'explizit' markiert wurde.")
