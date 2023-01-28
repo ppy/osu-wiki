@@ -57,27 +57,32 @@ There are some additional quirks with how sliders influence [combo](/wiki/Gamepl
 
 Each [spinner](/wiki/Gameplay/Hit_object/Spinner) has a set number of spins required to complete it. This number depends on the [overall difficulty](/wiki/Beatmap/Overall_difficulty#sliders-and-spinners) of the beatmap.
 
-| Judgement | Spins required |
+| Judgement | Spins required[^half-spins] |
 | :-: | :-- |
 | GREAT | 100% |
 | OK | One spin less than the required number |
 | MEH | 25% |
 | MISS | 0% |
 
-The required spins depends on the duration of the spinner and the overall difficulty. The spins per second required are given as follows:
+The spin requirements can be broken down into the following formulas:
 
-<!-- TODO: needs verification -->
-
-| OD | Spins per second |
-| :-: | :-- |
-| < 5 | `5 - 2 * (5 - OD) / 5` |
-| = 5 | `5` |
-| > 5 | `5 + 2.5 * (OD - 5) / 5` |
+|  |  |
+| :-- | :-- |
+| Minimum spins per second | `1.5 + 0.2 * OD` if OD < 5, `1.25 + 0.25 * OD` if OD >= 5 |
+| Minimum spins required | Spinner length in seconds * minimum spins per second + 0.5 |
 
 If a spinner is very short, the number of spins required may be calculated to be 0, and thus the spinner will always complete itself with a GREAT.
 
 ## History
 
-The spinner judgement algorithm has been significantly changed in the [20190513.2 Stable release](https://osu.ppy.sh/home/changelog/stable40/20190513.2). Prior to the change, non-MISS judgements were significantly harder to achieve, as the difference between a MEH and an OK, as well as between a MEH and a GREAT, was equal to a half of a spin. Some beatmaps would even feature spinners that could never be judged with a GREAT, as they were too short to complete fully.
+The spinner judgement algorithm has been significantly changed in the [20190513.2 Stable release](https://osu.ppy.sh/home/changelog/stable40/20190513.2). The differences were as follows:
+
+- The difference between OK and MEH, as well as between MEH and GREAT, was equal to a half of a spin, making non-MISS judgements significantly harder to achieve.
+- Spinners being too short may have prevented them from being fully cleared.
+- All spinners required half of a spin more to complete.
 
 Replays set prior to May 10, 2019 (when the change was [introduced in the Cutting Edge version](https://osu.ppy.sh/home/changelog/cuttingedge/20190510.1)) use this old algorithm rather than the one currently in effect.
+
+## Notes
+
+[^half-spins]: Spins are internally calculated in terms of half revolutions. The formulas listed in this page are adjusted to be in terms of full spins for simplicity, so this value is thus rounded down to the nearest half.
