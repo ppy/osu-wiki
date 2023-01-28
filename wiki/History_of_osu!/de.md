@@ -17,7 +17,7 @@ Aufzeichnungen der Geschichte von osu!, alle im osu!-Wiki.
 - [2015](2015) - jizz (neu gestaltetes osu!web), osu!weekly und osu!coins
 - [2016](2016) - scorev2, Ankündigung einer neuen quelloffenen Version von osu! namens "lazer" (vorher bekannt als "osu!lazer") und eine Überarbeitung des osu!-Wikis
 - [2017](2017) - erste Veröffentlichung des Builds lazer von osu! und Discord-Integration auf dem Stable-Client
-- [2018](2018) - ?
+- [2018](2018)–Heute - ?
 
 ## Andere Aufzeichnungen
 

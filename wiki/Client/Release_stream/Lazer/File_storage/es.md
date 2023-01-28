@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: f81ecb4fb414080dc0c8eeaae490a79d006b2d00
+---
+
 # Almacenamiento de archivos en osu!(lazer)
 
 De forma predeterminada, osu!(lazer) almacena beatmaps, skins y archivos de repetición de puntuaciones en los siguientes directorios:
