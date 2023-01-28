@@ -13,7 +13,7 @@ tags:
 
 # 滑条锚点
 
-*滑条锚点 (Slider anchors)*或**锚点**可以改变[滑条体](/wiki/Hit_object/Sliderbody)的形态。有白色、红色两种锚点。白色锚点形成光滑曲线，在放置滑条尾或红色锚点前会影响其他白色锚点。红色锚点是终点，可以用来建立锐角。
+*滑条锚点 (Slider anchors)*或**锚点**可以改变[滑条体](/wiki/Hit_object/Sliderbody)的形态。有白色、红色两种锚点。白色锚点形成光滑曲线，在放置滑条尾或红色锚点前会影响其他白色锚点。红色锚点是曲线的端点，可以用来建立锐角。
 
 <!-- TODO: Insert curve algorithm in here somewhere maybe-->
 
