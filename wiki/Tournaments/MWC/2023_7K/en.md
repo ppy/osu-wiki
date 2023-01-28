@@ -58,8 +58,6 @@ The osu!mania 7K World Cup 2023 is run by the osu! team and various community me
 
 ## Participants
 
-The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/c9e572884f0e731ba47fed1c11be3b88#file-mwc7k-2023-player-list-csv). 
-
 |  | Country | Members |
 | :-: | :-: | :-- |
 | ::{ flag=AR }:: | **Argentina** | **[lxLucasxl](https://osu.ppy.sh/users/3632846)**, [LeongKat](https://osu.ppy.sh/users/11429144), [Greedom](https://osu.ppy.sh/users/10696707), [ottenst](https://osu.ppy.sh/users/13488325) |
@@ -100,27 +98,52 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/c9e
 | ::{ flag=VE }:: | **Venezuela** | **[Adogg145](https://osu.ppy.sh/users/11956607)**, [sir aelay](https://osu.ppy.sh/users/12055954), [xXShyzDy0133Xx](https://osu.ppy.sh/users/13545528), [JeanfMz](https://osu.ppy.sh/users/25462042) |
 | ::{ flag=VN }:: | **Vietnam** | **[\_Moni\_](https://osu.ppy.sh/users/9710653)**, [\_ShirasuAzusa](https://osu.ppy.sh/users/16297375), [Jasver](https://osu.ppy.sh/users/10673080), [Seiren Shikino](https://osu.ppy.sh/users/8291500) |
 
-## Match schedule: Round of 16
+The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/c9e572884f0e731ba47fed1c11be3b88#file-mwc7k-2023-player-list-csv). 
 
-### Saturday, 21 January 2023
+## Match schedule: Quarterfinals
 
-| Team A | Team B | Match time |
-| --: | :-- | :-- |
-| South Korea ::{ flag=KR }:: | ::{ flag=VN }:: Vietnam | [Jan 21 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230121T120000&p1=1440&p2=235&p3=95) |
-| China ::{ flag=CN }:: | ::{ flag=FR }:: France | [Jan 21 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230121T130000&p1=1440&p2=33&p3=195) |
-| Brazil ::{ flag=BR }:: | ::{ flag=CA }:: Canada | [Jan 21 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230121T170000&p1=1440&p2=45&p3=188) |
-| United States ::{ flag=US }:: | ::{ flag=CL }:: Chile | [Jan 21 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230121T180000&p1=1440&p2=263&p3=232) |
-
-### Sunday, 22 January 2023
+### Saturday, 28 January 2023
 
 | Team A | Team B | Match time |
 | --: | :-- | :-- |
-| Indonesia ::{ flag=ID }:: | ::{ flag=JP }:: Japan | [Jan 22 (Sun) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230122T090000&p1=1440&p2=108&p3=248) |
-| Philippines ::{ flag=PH }:: | ::{ flag=RU }:: Russian Federation | [Jan 22 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230122T100000&p1=1440&p2=145&p3=166) |
-| Malaysia ::{ flag=MY }:: | ::{ flag=AR }:: Argentina | [Jan 22 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230122T140000&p1=1440&p2=122&p3=51) |
-| Spain ::{ flag=ES }:: | ::{ flag=TH }:: Thailand | [Jan 22 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230122T150000&p1=1440&p2=141&p3=28) |
+| Philippines ::{ flag=PH }:: | ::{ flag=JP }:: Japan | [Jan 28 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230128T120000&p1=1440&p2=145&p3=248) |
+| Russian Federation ::{ flag=RU }:: | ::{ flag=ID }:: Indonesia | [Jan 28 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230128T130000&p1=1440&p2=166&p3=108) |
+| Argentina ::{ flag=AR }:: | ::{ flag=TH }:: Thailand | [Jan 28 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230128T140000&p1=1440&p2=51&p3=28) |
+| France ::{ flag=FR }:: | ::{ flag=CL }:: Chile | [Jan 28 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230128T170000&p1=1440&p2=195&p3=232) |
+
+### Sunday, 29 January 2023
+
+| Team A | Team B | Match time |
+| --: | :-- | :-- |
+| Vietnam ::{ flag=VN }:: | ::{ flag=CA }:: Canada | [Jan 29 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230129T040000&p1=1440&p2=95&p3=188) |
+| China ::{ flag=CN }:: | ::{ flag=US }:: United States | [Jan 29 (Sun) 06:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230129T060000&p1=1440&p2=33&p3=263) |
+| Malaysia ::{ flag=MY }:: | ::{ flag=ES }:: Spain | [Jan 29 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230129T110000&p1=1440&p2=122&p3=141) |
+| South Korea ::{ flag=KR }:: | ::{ flag=BR }:: Brazil | [Jan 29 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230129T150000&p1=1440&p2=235&p3=45) |
 
 ## Mappools
+
+### Quarterfinals
+
+**[Download the mappack here (83 MB)](https://drive.google.com/uc?id=11NJfnHIOB6TBqbrxKC7kRVkppahj9fl0)**
+
+- Rice
+  1. [linear ring with RNAcid - Gypsophila (Evening) \[cocoon st2\]](https://osu.ppy.sh/beatmapsets/1715584#mania/3568135)
+  2. [ProjectG as 'ProjectG' - For No Reason (pwhk) \[Black Another\]](https://osu.ppy.sh/beatmapsets/1927394#mania/3980120)
+  3. [69 de 74 - Aratanaru Ketsui (Level 51) \[World Guardian\]](https://osu.ppy.sh/beatmapsets/1927387#mania/3980102)
+  4. [Street - Reincarnation (Maxus) \[Metempsychosis\]](https://osu.ppy.sh/beatmapsets/1927411#mania/3980150)
+  5. [\*wakadori - Fuzzy-Navel (Evening) \[move lv.17 1.1x (155bpm)\]](https://osu.ppy.sh/beatmapsets/1715094#mania/3504373)
+  6. [The Flashbulb - Mellann (lenpai) \[ionized\]](https://osu.ppy.sh/beatmapsets/1927701#mania/3980859)
+- Long Note
+  1. [Mitsukiyo - Juu Rokuji no Hitoritabi (Jinjin) \[Afternoon Stroll\]](https://osu.ppy.sh/beatmapsets/1927396#mania/3980125)
+  2. [Jay Chou - Nocturne (Wilben\_Chan) \[Death Love\]](https://osu.ppy.sh/beatmapsets/1187083#mania/2473984)
+  3. [HARDCORE TANO\*C & Elizabeth & Lily  & Rune - DIVE with U (paulkappa) \[Memorable Farewell\]](https://osu.ppy.sh/beatmapsets/1927399#mania/3980130)
+  4. [Murasaki Shion - Mage of Violet (MapleSyrup-) \[Magic Garlic\]](https://osu.ppy.sh/beatmapsets/1927398#mania/3980129)
+- Hybrid
+  1. [Silentroom - Shuu no Hazama (paradoxus\_) \[Drizzle (MWC Edit)\]](https://osu.ppy.sh/beatmapsets/1130083#mania/3980148)
+  2. [PSYQUI - Remorse (paradoxus\_) \[Reality (MWC Edit)\]](https://osu.ppy.sh/beatmapsets/1376065#mania/3980151)
+  3. [BilliumMoto & Sobrem - Simurgh (\_Stan) \[Benevolence\]](https://osu.ppy.sh/beatmapsets/1927400#mania/3980132)
+- Tiebreaker
+  1. **[Camellia - We Could Get More Machinegun Psystyle! (And More Genre Switches) (Remuring) \[Relentless\]](https://osu.ppy.sh/beatmapsets/1927406#mania/3980140)**
 
 ### Round of 16
 
@@ -157,6 +180,28 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/c9e
 8. [yumemidoll - Lyrith -Meikyuu Lyrith- (Leeju) \[Stage 8: Awakening\]](https://osu.ppy.sh/beatmapsets/1919014#mania/3960063)
 
 ## Match results
+
+### Round of 16
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1whBz-k0PNOh_3d5GEke17DhqRv-6S9sjJo6H4W4EsUU).
+
+Saturday, 21 January 2023:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **China** ::{ flag=CN }:: | **5** | 0 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/106382606) |
+| **South Korea** ::{ flag=KR }:: | **5** | 0 | ::{ flag=VN }:: Vietnam | [#1](https://osu.ppy.sh/community/matches/106383306) |
+| **Malaysia** ::{ flag=MY }:: | **5** | 0 | ::{ flag=AR }:: Argentina | [#1](https://osu.ppy.sh/community/matches/106385060) |
+| **United States** ::{ flag=US }:: | **5** | 0 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/106394289) |
+| **Brazil** ::{ flag=BR }:: | **5** | 2 | ::{ flag=CA }:: Canada | [#1](https://osu.ppy.sh/community/matches/106395437) |
+
+Sunday, 22 January 2023:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Indonesia ::{ flag=ID }:: | 4 | **5** | ::{ flag=JP }:: **Japan** | [#1](https://osu.ppy.sh/community/matches/106403206) |
+| **Philippines** ::{ flag=PH }:: | **5** | 0 | ::{ flag=RU }:: Russian Federation | [#1](https://osu.ppy.sh/community/matches/106403972) |
+| **Spain** ::{ flag=ES }:: | **5** | 0 | ::{ flag=TH }:: Thailand | [#1](https://osu.ppy.sh/community/matches/106408840) |
 
 ### Qualifiers
 

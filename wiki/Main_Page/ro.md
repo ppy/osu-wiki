@@ -1,7 +1,5 @@
 ---
 layout: main_page
-outdated_since: e5c6703afd341354b50be467f885400c871cd0de
-outdated_translation: true
 ---
 
 <div class="wiki-main-page__blurb">
@@ -98,9 +96,11 @@ Fă-ți partea ta: [Cum și cu ce poți să ajuți](/wiki/Community/How_you_can_
 
 Interacțiunea socială este una dintre aspectele principale care motivează jucătorii osu! din jurul lumii. Explorează activitățile și concursurile, contactează alți oameni sau ajută la organizarea următorului mare eveniment!
 
+Locații: [Forum](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_Chat)
+
 [Turnee](/wiki/Tournaments) • [Promovări Beatmap-uri](/wiki/Beatmap_Spotlights) • [Concursuri](/wiki/Contests) • [Programul de mentorat al comunității](/wiki/Community/Community_Mentorship_Program)
 
-[Proiecte](/wiki/Community/Projects): [Artiști Oficiali](/wiki/Featured_Artists) • [Întâlniri ale comunității osu!](/wiki/Community/osu!_community_meetings) • [Academia osu!](/wiki/Community/Video_series/osu!academy) • [Crearea de beatmap-uri osu!](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk)
+[Proiecte](/wiki/Community/Projects) • [Artiști Oficiali](/wiki/Featured_Artists) • [Proiectul Iubit](/wiki/Community/Project_Loved) • [Întâlniri ale comunității osu!](/wiki/Community/osu!_community_meetings) • [Academia osu!](/wiki/Community/Video_series/osu!academy) • [Crearea de beatmap-uri osu!](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk)
 
 Organizații: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
@@ -111,9 +111,9 @@ Organizații: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
 osu! nu ar fi fost posibil fără ajutorul multor utilizatori care au ajutat cu dezvoltarea, mentenanța și managementul comunității: eforturile, timpul și dedicația lor fac jocul să trăiască și să prospere.
 
-[Echipa](/wiki/People/The_Team): [Dezvoltatorii](/wiki/People/The_Team/Developers) • [Echipa Moderare Globală](/wiki/People/The_Team/Global_Moderation_Team) • [Echipa de Suport](/wiki/People/The_Team/Support_Team) • [Evaluatori Nominalizări](/wiki/People/The_Team/Nomination_Assessment_Team) • [Nominalizatori Beatmap-uri](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Echipa Proiectului Iubit](/wiki/People/The_Team/Project_Loved_Team)
+[Echipa](/wiki/People/The_Team): [Dezvoltatorii](/wiki/People/The_Team/Developers) • [Echipa Moderare Globală](/wiki/People/The_Team/Global_Moderation_Team) • [Echipa de Suport](/wiki/People/The_Team/Support_Team) • [Evaluatori Nominalizări](/wiki/People/The_Team/Nomination_Assessment_Team) • [Nominalizatori Beatmap-uri](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Echipa Proiectului Iubit](/wiki/People/The_Team/Project_Loved_Team) • [Curatori de Beatmap-uri Promovate](/wiki/People/The_Team/Beatmap_Spotlight_Curators)
 
-[Contribuitori ai Comunității](/wiki/People/Community_Contributors) • [Utilizatori cu titluri unice](/wiki/People/Users_with_unique_titles) • [Comitetul de Turnee](/wiki/People/Tournament_Committee) • [Comitetul Punctelor de Performanță](/wiki/People/Performance_Points_Committee)
+[Contribuitori ai Comunității](/wiki/People/Community_Contributors) • [Utilizatori cu titluri unice](/wiki/People/Users_with_unique_titles) • [Comitetul de Turnee](/wiki/People/Tournament_Committee) • [Comitetul Punctelor de Performanță](/wiki/People/Performance_Points_Committee) • [Întreținători osu! wiki](/wiki/People/osu!_wiki_maintainers)
 
 </div>
 <div class="wiki-main-page-panel">
