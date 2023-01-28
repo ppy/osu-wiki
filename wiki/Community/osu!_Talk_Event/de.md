@@ -1,6 +1,7 @@
 ---
 tags:
   - osu! University
+no_native_review: true
 ---
 
 # osu! Talk Event
