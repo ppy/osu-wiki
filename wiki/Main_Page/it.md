@@ -111,7 +111,7 @@ Organizzazioni: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
 osu! non sarebbe stato possibile senza i molti utenti che aiutano con lo sviluppo, la manutenzione, e la gestione della comunità: i loro sforzi, tempo, e dedizione fanno vivere e prosperare il gioco.
 
-[Il Team](/wiki/People/The_Team): [Sviluppatori](/wiki/People/The_Team/Developers) • [Team di Moderazione Globale](/wiki/People/The_Team/Global_Moderation_Team) • [Team di Supporto](/wiki/People/The_Team/Support_Team) • [Team di Valutazione Nomine](/wiki/People/The_Team/Nomination_Assessment_Team) • [Nominatori di Beatmap](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Team Progetto Loved](/wiki/People/The_Team/Project_Loved_Team) • [Curatori Beatmap Spotlight](/wiki/People/The_Team/Beatmap_Spotlight_Curators)
+[Il Team](/wiki/People/The_Team): [Sviluppatori](/wiki/People/The_Team/Developers) • [Team di Moderazione Globale](/wiki/People/The_Team/Global_Moderation_Team) • [Team di Supporto](/wiki/People/The_Team/Support_Team) • [Team di Valutazione Nomine](/wiki/People/The_Team/Nomination_Assessment_Team) • [Nominatori di Beatmap](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Team Progetto Amata](/wiki/People/The_Team/Project_Loved_Team) • [Curatori Beatmap Spotlight](/wiki/People/The_Team/Beatmap_Spotlight_Curators)
 
 [Collaboratori della Comunità](/wiki/People/Community_Contributors) • [Utenti con titoli unici](/wiki/People/Users_with_unique_titles) • [Comitato Tornei](/wiki/People/Tournament_Committee) • [Comitato Punti Performance](/wiki/People/Performance_Points_Committee) • [Manuntentori della osu! wiki](/wiki/People/osu!_wiki_maintainers)
 
