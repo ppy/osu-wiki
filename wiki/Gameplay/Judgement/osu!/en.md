@@ -55,11 +55,11 @@ There are some additional quirks with how sliders influence [combo](/wiki/Gamepl
 
 ### Spinners
 
-Each [spinner](/wiki/Gameplay/Hit_object/Spinner) has a set number of spins required to complete it. This number depends on the [overall difficulty](/wiki/Beatmap/Overall_difficulty#sliders-and-spinners) of the beatmap.
+Each [spinner](/wiki/Gameplay/Hit_object/Spinner) has a set number of spins required to complete it. This number depends on the [overall difficulty](/wiki/Beatmap/Overall_difficulty#sliders-and-spinners) of the beatmap. Spinner rotation speed is calculated based on cursor velocity and does not necessarily correspond to how many times the cursor has revolved around the spinner.
 
 | Judgement | Spins required[^half-spins] |
 | :-: | :-- |
-| GREAT | 100% |
+| GREAT[^spinner-clear] | 100% |
 | OK | One spin less than the required number |
 | MEH | 25% |
 | MISS | 0% |
@@ -68,7 +68,7 @@ The spin requirements can be broken down into the following formulas:
 
 |  |  |
 | :-- | :-- |
-| Minimum spins per second | `1.5 + 0.2 * OD` if OD < 5, `1.25 + 0.25 * OD` if OD >= 5 |
+| Minimum spins per second[^minimum-spm] | `1.5 + 0.2 * OD` if OD < 5, `1.25 + 0.25 * OD` if OD >= 5 |
 | Minimum spins required | Spinner length in seconds * minimum spins per second + 0.5 |
 
 If a spinner is very short, the number of spins required may be calculated to be 0, and thus the spinner will always complete itself with a GREAT.
@@ -86,3 +86,5 @@ Replays set prior to May 10, 2019 (when the change was [introduced in the Cuttin
 ## Notes
 
 [^half-spins]: Spins are internally calculated in terms of half revolutions. The formulas listed in this page are adjusted to be in terms of full spins for simplicity, so this value is thus rounded down to the nearest half.
+[^spinner-clear]: As a presumable oversight, the ["Clear" text](/wiki/Skinning/osu!#spinner) (`spinner-clear.png`) appears one half of a revolution before the required amount of spins to get a GREAT judgement.
+[^minimum-spm]: Due to the +0.5 constant in the below formula, the actual minimum average is `0.5 / spinner length in seconds` spins per second faster.
