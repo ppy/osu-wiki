@@ -1,6 +1,6 @@
 # Mantenedores de la osu! wiki
 
-Los **mantenedores de la osu! wiki** mantienen la [osu! wiki](/wiki/osu!_wiki) a través del [repositorio del proyeco en GitHub](https://github.com/ppy/osu-wiki).
+Los **mantenedores de la osu! wiki** mantienen la [osu! wiki](/wiki/osu!_wiki) a través del [repositorio del proyecto en GitHub](https://github.com/ppy/osu-wiki).
 
 Los mantenedores se ocupan regularmente del [rastreador de problemas](https://github.com/ppy/osu-wiki/issues) y revisan las solicitudes de cambios de los contribuidores. A diferencia de otros contribuidores, pueden editar solicitudes de cambios y fusionarlas a la rama `master` del repositorio, haciendo públicos los cambios de manera efectiva.
 
