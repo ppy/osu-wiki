@@ -15,7 +15,7 @@ These are commonly referred to by their score value (except for misses), i.e. a 
 
 The hit window depends on the beatmap's [overall difficulty (OD)](/wiki/Beatmap/Overall_difficulty). A hit is then considered inside a hit window if `hit error < max hit error`, meaning the value listed is half of the hit window width.
 
-The hit error and max hit error values are rounded to the nearest integer, meaning the window is effectively 0.5 ms shorter on both sides than what the formulas suggest.
+The hit error is rounded and the max hit error values are truncated to the nearest integer, meaning the windows may be up to 0.5 ms longer or shorter on both sides than what the formulas suggest.
 
 ### Geki and Katu
 
