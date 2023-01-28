@@ -1,3 +1,8 @@
+---
+outdated_since: 164a0364b14766421dfef73d0ebc37dd0356ba20
+outdated_translation: true
+---
+
 # Откровенное содержание
 
 ![](img/explicit-tag.jpg "Пример карты с пометкой «Откровенное содержание».")
