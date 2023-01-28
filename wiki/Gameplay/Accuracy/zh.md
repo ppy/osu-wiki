@@ -45,11 +45,11 @@
 
 若没有开启 ScoreV2，彩 300 和普通 300 的权重一样，都是 300：
 
-![Accuracy = (300 \* (彩 300 数量 + 300 数量) + 200 \* 200 数量 + 100 \* 100 数量 + 50 \* 50 数量) / (300 \* (彩 300 数量 + 300 数量 + 200 数量 + 100 数量 + 50 数量 + 失误数量))](img/accuracy_mania_updated_score_v1.png "Accuracy formula for osu!mania with ScoreV1")
+![准确度 = (300 \* (彩 300 数量 + 300 数量) + 200 \* 200 数量 + 100 \* 100 数量 + 50 \* 50 数量) / (300 \* (彩 300 数量 + 300 数量 + 200 数量 + 100 数量 + 50 数量 + 失误数量))](img/accuracy_mania_updated_score_v1.png "osu!mania 的准确度公式（ScoreV1）")
 
 若开启了 ScoreV2，彩 300 的权重会增加到 305：
 
-![Accuracy = 305 \* 彩 300 数量 + 300 \* 300 数量 + 200 \* 200 数量 + 100 \* 100 数量 + 50 \* 50 数量) / (305 \* (彩 300 数量 + 300 数量 + 200 数量 + 100 数量 + 50 数量 + 失误数量))](img/accuracy_mania_updated_score_v2.png "Accuracy formula for osu!mania with ScoreV2")
+![准确度 = 305 \* 彩 300 数量 + 300 \* 300 数量 + 200 \* 200 数量 + 100 \* 100 数量 + 50 \* 50 数量) / (305 \* (彩 300 数量 + 300 数量 + 200 数量 + 100 数量 + 50 数量 + 失误数量))](img/accuracy_mania_updated_score_v2.png "osu!mania 的准确度公式（ScoreV2）")
 
 *API 用户请注意：*
 
