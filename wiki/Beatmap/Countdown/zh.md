@@ -14,4 +14,4 @@ tags:
 
 当倒计时启用时，可以使用 `Countdown Speed` 按钮 (`Half`, `Normal`, `Double`) 与 `Countdown Offset` 按钮控制倒计时动画。 `Countdown Speed` 按钮将倒计时动画调节为 0.5 倍速、原速与 2 倍速。 `Countdown Offset` 设置在第一个[打击物件](/wiki/Hit_object)前[节奏](/wiki/Beatmapping/Beats_per_minute)上的补偿。例如，一个带有补偿 2 的倒计时动画会比正常情况早 2 拍出现。对于有开头的图，跳过开头会直接到达倒计时。
 
-倒计时动画可以通过[自定义皮肤](/wiki/Skinning/Interface#countdown)修改。
+倒计时动画可以通过[自定义皮肤](/wiki/Skinning/Interface#倒计时)修改。
