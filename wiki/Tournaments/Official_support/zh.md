@@ -13,6 +13,8 @@ tags:
 
 # 官方锦标赛支持
 
+*关于作图比赛支持，请参见：[官方竞赛支持](/wiki/Contests/Official_support)。*
+
 [osu! 团队](/wiki/People/The_Team)正在推行一个项目，如果基于社区的锦标赛各项标准均符合官方团队的要求，他们可以向这些锦标赛酌情提供额外的支持。
 
 文章最后于 2023年1月8日 更新。如果有任何疑问或需要问题解答，请在 [osu!dev Discord 服务器](https://discord.com/invite/ppy)的 `#tournaments` 咨询，或是发送邮件至 [tournaments@ppy.sh](mailto:tournaments@ppy.sh)。
@@ -210,9 +212,7 @@ tags:
 
 ### 我能给作图比赛或者其他类型的比赛申请主页奖牌（牌子）吗？{#contest-support}
 
-如果是作图比赛，可以。遵守以上的规定即可申请。我们强烈建议在作图比赛的选曲中使用[精选艺术家 (FA)](https://osu.ppy.sh/beatmaps/artists) 的创作作品，若使用，我们会优先宣传这些比赛。
-
-对于其他比赛的疑问，请直接发送电子邮件给我们。我们会想办法解决的。
+可以！请参阅[官方竞赛支持](/wiki/Contests/Official_support)了解更多。
 
 ## 备注
 
