@@ -44,7 +44,8 @@ tags:
 | *第 17-21 名* | ￥60 |
 | *第 22-24 名* | ￥30 |
 
-![](img/badge_official.png "GBC 2022 秋季赛冠军缎带") ![](img/badge_1st.png "GBC 2022 秋季赛冠军 KanonBot 缎带") ![](img/badge_2nd.png "GBC 2022 秋季赛亚军 KanonBot 缎带") ![](img/badge_3rd.png "GBC 2022 秋季赛季军 KanonBot 缎带")
+![](img/badge_official.png "GBC 2022 秋季赛冠军缎带")\
+![](img/badge_1st.png "GBC 2022 秋季赛冠军 KanonBot 缎带") ![](img/badge_2nd.png "GBC 2022 秋季赛亚军 KanonBot 缎带") ![](img/badge_3rd.png "GBC 2022 秋季赛季军 KanonBot 缎带")
 
 ## 组织
 
