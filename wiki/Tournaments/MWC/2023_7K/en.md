@@ -42,22 +42,21 @@ The osu!mania 7K World Cup 2023 is run by the osu! team and various community me
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) |
-| Mappool selector | ::{ flag=PL }:: [\_underjoy](https://osu.ppy.sh/users/2235750), ::{ flag=US }:: [Blocko](https://osu.ppy.sh/users/4075092), ::{ flag=US }:: [Jinjin](https://osu.ppy.sh/users/3360737), ::{ flag=PH }:: [MapleSyrup\-](https://osu.ppy.sh/users/1192936), ::{ flag=KR }:: [Remuring](https://osu.ppy.sh/users/6522146) |
+| Mappool selector | ::{ flag=PL }:: **[\_underjoy](https://osu.ppy.sh/users/2235750)**, ::{ flag=US }:: [Blocko](https://osu.ppy.sh/users/4075092), ::{ flag=US }:: [Jinjin](https://osu.ppy.sh/users/3360737), ::{ flag=PH }:: [MapleSyrup\-](https://osu.ppy.sh/users/1192936), ::{ flag=KR }:: [Remuring](https://osu.ppy.sh/users/6522146) |
 | Referee | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=IN }:: [Speshimen](https://osu.ppy.sh/users/7720204), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=US }:: [\[K\]](https://osu.ppy.sh/users/16551387) |
-| Commentator | *TBA* |
-| Statistician | ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899) |
+| Commentator | ::{ flag=MY }:: [Cryolien](https://osu.ppy.sh/users/1626983), ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656), ::{ flag=ID }:: [Mipha\-](https://osu.ppy.sh/users/5767941), ::{ flag=AU }:: [PotassiumF](https://osu.ppy.sh/users/4247722), ::{ flag=SG }:: [Raveille](https://osu.ppy.sh/users/1388767), ::{ flag=PH }:: [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ::{ flag=PH }:: [SurfChu85](https://osu.ppy.sh/users/4469895), ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811), ::{ flag=US }:: [\-mint\-](https://osu.ppy.sh/users/8976576), ::{ flag=US }:: [\-Sparky\-](https://osu.ppy.sh/users/3187959) |
+| Statistician |  ::{ flag=BR }:: **[LeoFLT](https://osu.ppy.sh/users/3668779)**, ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899) |
 
 ## Links
 
 - [Livestream](https://www.twitch.tv/osulive)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1690687)
+- [Challonge bracket](https://challonge.com/MWC7K_2023)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/106) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
 - [Information spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRQVIOCI9kotrvH-FWrip3BlS37lVN9AacPfTlDDXbW-zTfOxqKFtuKZw7yodW6UBSSzijuKJag0biI/pubhtml)
 - [Donate to the prize pool](https://opencollective.com/osu-tournaments/events/osu-mania-7k-world-cup-2023-502fec83)
 
 ## Participants
-
-The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/c9e572884f0e731ba47fed1c11be3b88#file-mwc7k-2023-player-list-csv). 
 
 |  | Country | Members |
 | :-: | :-: | :-- |
@@ -99,7 +98,73 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/c9e
 | ::{ flag=VE }:: | **Venezuela** | **[Adogg145](https://osu.ppy.sh/users/11956607)**, [sir aelay](https://osu.ppy.sh/users/12055954), [xXShyzDy0133Xx](https://osu.ppy.sh/users/13545528), [JeanfMz](https://osu.ppy.sh/users/25462042) |
 | ::{ flag=VN }:: | **Vietnam** | **[\_Moni\_](https://osu.ppy.sh/users/9710653)**, [\_ShirasuAzusa](https://osu.ppy.sh/users/16297375), [Jasver](https://osu.ppy.sh/users/10673080), [Seiren Shikino](https://osu.ppy.sh/users/8291500) |
 
+The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/c9e572884f0e731ba47fed1c11be3b88#file-mwc7k-2023-player-list-csv). 
+
+## Match schedule: Quarterfinals
+
+### Saturday, 28 January 2023
+
+| Team A | Team B | Match time |
+| --: | :-- | :-- |
+| Philippines ::{ flag=PH }:: | ::{ flag=JP }:: Japan | [Jan 28 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230128T120000&p1=1440&p2=145&p3=248) |
+| Russian Federation ::{ flag=RU }:: | ::{ flag=ID }:: Indonesia | [Jan 28 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230128T130000&p1=1440&p2=166&p3=108) |
+| Argentina ::{ flag=AR }:: | ::{ flag=TH }:: Thailand | [Jan 28 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230128T140000&p1=1440&p2=51&p3=28) |
+| France ::{ flag=FR }:: | ::{ flag=CL }:: Chile | [Jan 28 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230128T170000&p1=1440&p2=195&p3=232) |
+
+### Sunday, 29 January 2023
+
+| Team A | Team B | Match time |
+| --: | :-- | :-- |
+| Vietnam ::{ flag=VN }:: | ::{ flag=CA }:: Canada | [Jan 29 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230129T040000&p1=1440&p2=95&p3=188) |
+| China ::{ flag=CN }:: | ::{ flag=US }:: United States | [Jan 29 (Sun) 06:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230129T060000&p1=1440&p2=33&p3=263) |
+| Malaysia ::{ flag=MY }:: | ::{ flag=ES }:: Spain | [Jan 29 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230129T110000&p1=1440&p2=122&p3=141) |
+| South Korea ::{ flag=KR }:: | ::{ flag=BR }:: Brazil | [Jan 29 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230129T150000&p1=1440&p2=235&p3=45) |
+
 ## Mappools
+
+### Quarterfinals
+
+**[Download the mappack here (83 MB)](https://drive.google.com/uc?id=11NJfnHIOB6TBqbrxKC7kRVkppahj9fl0)**
+
+- Rice
+  1. [linear ring with RNAcid - Gypsophila (Evening) \[cocoon st2\]](https://osu.ppy.sh/beatmapsets/1715584#mania/3568135)
+  2. [ProjectG as 'ProjectG' - For No Reason (pwhk) \[Black Another\]](https://osu.ppy.sh/beatmapsets/1927394#mania/3980120)
+  3. [69 de 74 - Aratanaru Ketsui (Level 51) \[World Guardian\]](https://osu.ppy.sh/beatmapsets/1927387#mania/3980102)
+  4. [Street - Reincarnation (Maxus) \[Metempsychosis\]](https://osu.ppy.sh/beatmapsets/1927411#mania/3980150)
+  5. [\*wakadori - Fuzzy-Navel (Evening) \[move lv.17 1.1x (155bpm)\]](https://osu.ppy.sh/beatmapsets/1715094#mania/3504373)
+  6. [The Flashbulb - Mellann (lenpai) \[ionized\]](https://osu.ppy.sh/beatmapsets/1927701#mania/3980859)
+- Long Note
+  1. [Mitsukiyo - Juu Rokuji no Hitoritabi (Jinjin) \[Afternoon Stroll\]](https://osu.ppy.sh/beatmapsets/1927396#mania/3980125)
+  2. [Jay Chou - Nocturne (Wilben\_Chan) \[Death Love\]](https://osu.ppy.sh/beatmapsets/1187083#mania/2473984)
+  3. [HARDCORE TANO\*C & Elizabeth & Lily  & Rune - DIVE with U (paulkappa) \[Memorable Farewell\]](https://osu.ppy.sh/beatmapsets/1927399#mania/3980130)
+  4. [Murasaki Shion - Mage of Violet (MapleSyrup-) \[Magic Garlic\]](https://osu.ppy.sh/beatmapsets/1927398#mania/3980129)
+- Hybrid
+  1. [Silentroom - Shuu no Hazama (paradoxus\_) \[Drizzle (MWC Edit)\]](https://osu.ppy.sh/beatmapsets/1130083#mania/3980148)
+  2. [PSYQUI - Remorse (paradoxus\_) \[Reality (MWC Edit)\]](https://osu.ppy.sh/beatmapsets/1376065#mania/3980151)
+  3. [BilliumMoto & Sobrem - Simurgh (\_Stan) \[Benevolence\]](https://osu.ppy.sh/beatmapsets/1927400#mania/3980132)
+- Tiebreaker
+  1. **[Camellia - We Could Get More Machinegun Psystyle! (And More Genre Switches) (Remuring) \[Relentless\]](https://osu.ppy.sh/beatmapsets/1927406#mania/3980140)**
+
+### Round of 16
+
+**[Download the mappack here (64 MB)](https://drive.google.com/uc?id=17McatraFn9Lh4CQh_umP_WtZyvulUK32)**
+
+- Rice
+  1. [Ponchi feat. haxchi - Anemone (Jinjin) \[Jinjin x Lenpai's Breeze\]](https://osu.ppy.sh/beatmapsets/1923271#mania/3970302)
+  2. [Silentroom - Primatrix (Jinjin) \[Another\]](https://osu.ppy.sh/beatmapsets/1923272#mania/3970303)
+  3. [I to U $creaming - Rain (lenpai) \[Downpour\]](https://osu.ppy.sh/beatmapsets/1794743#mania/3678656)
+  4. [xi - Angel's Ladder (Wonki) \[Extra\]](https://osu.ppy.sh/beatmapsets/1563321#mania/3962497)
+  5. [Masahiro "Godspeed" Aoki - busy come, busy go (instrumental version) (Kawawa) \[busy days\]](https://osu.ppy.sh/beatmapsets/1634843#mania/3336691)
+- Long Note
+  1. [Hinatabi Bitter Sweets - Hana no Yakusoku (SurfChu85) \[a blooming promise\]](https://osu.ppy.sh/beatmapsets/1923261#mania/3970284)
+  2. [Y&Co. - Daisuke (MapleSyrup-) \[Dance to the Groove\]](https://osu.ppy.sh/beatmapsets/1923258#mania/3970271)
+  3. [M2U - Wake Me Up! (feat. Narae) (Kawawa) \[Kim\_GodSSI's God Narae\]](https://osu.ppy.sh/beatmapsets/802184#mania/1686000)
+- Hybrid
+  1. [fishbowl feat. Yukichikasaku/men - Shinkai (Rio1-) \[Ocean\]](https://osu.ppy.sh/beatmapsets/1722448#mania/3520304)
+  2. [Sobrem x Silentroom - Random (\_Stan) \[Concentrate\]](https://osu.ppy.sh/beatmapsets/1740952#mania/3559020)
+  3. [ARForest - Colors (Umo-) \[Achromatopsia\]](https://osu.ppy.sh/beatmapsets/1369976#mania/2832683)
+- Tiebreaker
+  1. **[seatrus+Metalliz - Bu++erfly EffecT (Blocko) \[Blocko+Jinjin's Enchan+menT\]](https://osu.ppy.sh/beatmapsets/1923268#mania/3970299)**
 
 ### Qualifiers
 
@@ -113,6 +178,74 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/c9e
 6. [Umeboshi Chazuke - Banana! DX Choco Crepe! (Maxus) \[Stage 6: Sachetorte\]](https://osu.ppy.sh/beatmapsets/1918919#mania/3959892)
 7. [Neko Hacker feat. Nanahira - Shuwa\*Shuwa Parfait (Remuring) \[Stage 7: Dessert\]](https://osu.ppy.sh/beatmapsets/1918916#mania/3959886)
 8. [yumemidoll - Lyrith -Meikyuu Lyrith- (Leeju) \[Stage 8: Awakening\]](https://osu.ppy.sh/beatmapsets/1919014#mania/3960063)
+
+## Match results
+
+### Round of 16
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1whBz-k0PNOh_3d5GEke17DhqRv-6S9sjJo6H4W4EsUU).
+
+Saturday, 21 January 2023:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **China** ::{ flag=CN }:: | **5** | 0 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/106382606) |
+| **South Korea** ::{ flag=KR }:: | **5** | 0 | ::{ flag=VN }:: Vietnam | [#1](https://osu.ppy.sh/community/matches/106383306) |
+| **Malaysia** ::{ flag=MY }:: | **5** | 0 | ::{ flag=AR }:: Argentina | [#1](https://osu.ppy.sh/community/matches/106385060) |
+| **United States** ::{ flag=US }:: | **5** | 0 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/106394289) |
+| **Brazil** ::{ flag=BR }:: | **5** | 2 | ::{ flag=CA }:: Canada | [#1](https://osu.ppy.sh/community/matches/106395437) |
+
+Sunday, 22 January 2023:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Indonesia ::{ flag=ID }:: | 4 | **5** | ::{ flag=JP }:: **Japan** | [#1](https://osu.ppy.sh/community/matches/106403206) |
+| **Philippines** ::{ flag=PH }:: | **5** | 0 | ::{ flag=RU }:: Russian Federation | [#1](https://osu.ppy.sh/community/matches/106403972) |
+| **Spain** ::{ flag=ES }:: | **5** | 0 | ::{ flag=TH }:: Thailand | [#1](https://osu.ppy.sh/community/matches/106408840) |
+
+### Qualifiers
+
+The final standings for the Qualifier stage can be found at the following [spreadsheet](https://docs.google.com/spreadsheets/d/1vYAoyjGk1cNt2iiXZDceghrrdnkGuE7snb0apXyIYGg).
+
+| Seed | Country | avg. rank[^qualifiers-seeding] | avg. score[^qualifiers-tiebreaker] |
+| :-: | :-- | :-- | :-- |
+| #1 | ::{ flag=KR }:: South Korea | 1.75 | 1,976,351 |
+| #2 | ::{ flag=PH }:: Philippines | 2.38 | 1,975,095 |
+| #3 | ::{ flag=MY }:: Malaysia | 4.38 | 1,968,643 |
+| #4 | ::{ flag=CN }:: China | 4.5 | 1,964,956 |
+| #5 | ::{ flag=US }:: United States | 5.63 | 1,957,122 |
+| #6 | ::{ flag=ES }:: Spain | 6.75 | 1,957,103 |
+| #7 | ::{ flag=ID }:: Indonesia | 7.63 | 1,952,710 |
+| #8 | ::{ flag=BR }:: Brazil | 9 | 1,938,567 |
+| #9 | ::{ flag=CA }:: Canada | 9.25 | 1,943,683 |
+| #10 | ::{ flag=JP }:: Japan | 9.63 | 1,933,396 |
+| #11 | ::{ flag=TH }:: Thailand | 10.25 | 1,939,273 |
+| #12 | ::{ flag=CL }:: Chile | 11.75 | 1,929,811 |
+| #13 | ::{ flag=FR }:: France | 13.25 | 1,915,229 |
+| #14 | ::{ flag=AR }:: Argentina | 13.38 | 1,916,453 |
+| #15 | ::{ flag=RU }:: Russian Federation | 13.5 | 1,919,663 |
+| #16 | ::{ flag=VN }:: Vietnam | 17.38 | 1,885,764 |
+| #17 | ::{ flag=SE }:: Sweden | 17.5 | 1,881,425 |
+| #18 | ::{ flag=EE }:: Estonia | 18.13 | 1,874,259 |
+| #19 | ::{ flag=NL }:: Netherlands | 18.5 | 1,881,200 |
+| #20 | ::{ flag=DE }:: Germany | 20.88 | 1,860,795 |
+| #21 | ::{ flag=VE }:: Venezuela | 21 | 1,853,156 |
+| #22 | ::{ flag=GB }:: United Kingdom | 21.38 | 1,854,283 |
+| #23 | ::{ flag=SA }:: Saudi Arabia | 21.63 | 1,849,507 |
+| #24 | ::{ flag=HK }:: Hong Kong | 22.5 | 1,833,206 |
+| #25 | ::{ flag=CZ }:: Czech Republic | 24.5 | 1,824,395 |
+| #26 | ::{ flag=FI }:: Finland | 25.13 | 1,811,318 |
+| #27 | ::{ flag=DK }:: Denmark | 26.63 | 1,778,302 |
+| #28 | ::{ flag=MX }:: Mexico | 28.13 | 1,716,002 |
+| #29 | ::{ flag=MO }:: Macau | 29.5 | 1,628,845 |
+| #30 | ::{ flag=NO }:: Norway | 30.38 | 1,583,204 |
+| #31 | ::{ flag=AU }:: Australia | 31 | 1,581,975 |
+| #32 | ::{ flag=EC }:: Ecuador | 31.25 | 1,528,364 |
+| #33 | ::{ flag=SG }:: Singapore | 33.13 | 1,340,752 |
+| #34 | ::{ flag=PE }:: Peru | 33.63 | 1,260,170 |
+| #35 | ::{ flag=NZ }:: New Zealand | 35.25 | 1,005,053 |
+| #36 | ::{ flag=CH }:: Switzerland | 35.75 | 974,743 |
+| #37 | ::{ flag=IQ }:: Iraq | 36.88 | 812,483 |
 
 ## Ruleset
 
@@ -249,3 +382,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/c9e
    - **Do not ask for a reschedule unless it is absolutely needed. The tournament managers reserve the right to deny any rescheduling request.**
    - Late reschedule requests will not be accepted under any circumstances.
 6. Captains are responsible for their team's availability.
+
+## Notes
+
+[^qualifiers-seeding]: Used as the main seeding method
+[^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same average rank

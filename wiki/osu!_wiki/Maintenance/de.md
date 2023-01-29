@@ -11,9 +11,9 @@ Dieser Artikel beschreibt technische oder administrative Aspekte des osu!-Wikis.
 
 ## Administratoren
 
-*Hauptseite: [Liste der Verantwortlichen des osu!-Wikis](/wiki/osu!_wiki/Maintenance/List_of_maintainers)*
+*Hauptseite: [Liste der Verantwortlichen des osu!-Wikis](/wiki/People/osu!_wiki_maintainers)*
 
-Die Administratoren sind Personen mit [erhöhten Rechten](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-user-account-settings/permission-levels-for-a-user-account-repository#collaborator-access-for-a-repository-owned-by-a-user-account) im [Repository `ppy/osu-wiki`](https://github.com/ppy/osu-wiki/), in dem alle Artikel und News-Beiträge gespeichert werden. Sie können Issues einstufen sowie kennzeichnen, offene Änderungsanfragen (Pull-Requests) verwalten und Entscheidungen über die Gegenwart und Zukunft des osu!-Wikis treffen.
+Die Administratoren sind Personen mit [erhöhten Rechten](https://docs.github.com/de/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-personal-account-settings/permission-levels-for-a-personal-account-repository#collaborator-access-for-a-repository-owned-by-a-personal-account) im [Repository `ppy/osu-wiki`](https://github.com/ppy/osu-wiki/), in dem alle Artikel und News-Beiträge gespeichert werden. Sie können Issues einstufen sowie kennzeichnen, offene Änderungsanfragen (Pull-Requests) verwalten und Entscheidungen über die Gegenwart und Zukunft des osu!-Wikis treffen.
 
 Verantwortliche führen eine finale Überprüfung von Änderungsvorschlägen durch und wenden diese an. Wenn du bei einem Beitrag Hilfe benötigst, frage einen Betreuer im Kanal `#osu-wiki`.
 
@@ -48,7 +48,7 @@ Bedenke, dass beim Hinzufügen von Weiterleitungen für neue oder bereits existi
 
 ### CI-Checks
 
-Das Repository für das osu!-Wiki nutzt [kontinuierliche Integration](https://docs.github.com/en/actions/guides/about-continuous-integration) (auch *continuous integration* oder *CI* genannt), um eingegangene Änderungsanfragen automatisch auf typische Fehler zu überprüfen. Die Liste der Checks wird in der Datei [`continuous-integration.yml`](https://github.com/ppy/osu-wiki/blob/master/.github/workflows/continuous-integration.yml) konfiguriert.
+Das Repository für das osu!-Wiki nutzt [kontinuierliche Integration](https://docs.github.com/de/actions/automating-builds-and-tests/about-continuous-integration) (auch *continuous integration* oder *CI* genannt), um eingegangene Änderungsanfragen automatisch auf typische Fehler zu überprüfen. Die Liste der Checks wird in der Datei [`continuous-integration.yml`](https://github.com/ppy/osu-wiki/blob/master/.github/workflows/continuous-integration.yml) konfiguriert.
 
 Die Datei [`package.json`](https://github.com/ppy/osu-wiki/blob/master/package.json) listet alle Plugins auf, die in der CI genutzt werden. Manche davon wurden von den Betreuern des osu!-Wikis entwickelt.
 

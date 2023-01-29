@@ -12,8 +12,6 @@ tags:
   - модификатор
   - авто
   - автоплей
-outdated_translation: true
-outdated_since: b4b151efd01d5d964baf3e101672b4a41a24ec4b
 ---
 
 # Auto (мод)
@@ -54,7 +52,7 @@ outdated_since: b4b151efd01d5d964baf3e101672b4a41a24ec4b
 
 ### osu!mania
 
-В [osu!mania](/wiki/Game_mode/osu!mania) мод Auto постарается идеально пройти карту, но может пропустить близко стоящие друг к другу ноты.
+В [osu!mania](/wiki/Game_mode/osu!mania) мод Auto постарается идеально пройти карту, но может пропустить объекты из одного столбца, которые пересекаются, либо между которыми проходит 1 мс или меньше.
 
 ## Факты
 

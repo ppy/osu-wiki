@@ -3,10 +3,13 @@ tags:
   - letter grade
   - rank
   - silver s
+  - silver ss
   - sh
   - xh
   - Rang
   - Benotung
+  - Silber S
+  - Silber SS
 ---
 
 # Note
@@ -48,7 +51,7 @@ Von der niedrigsten zur höchsten sind die etwaigen Noten D, C, B, A, S und SS. 
 | A | Zwischen 94,01 % und 98,00 % Genauigkeit |
 | B | Zwischen 90,01 % und 94,00 % Genauigkeit |
 | C | Zwischen 85,01 % und 90,00 % Genauigkeit |
-| D | Jede andere Genauigkeit unter 85.00 % |
+| D | Jede andere Genauigkeit unter 85,00 % |
 
 ## osu!mania
 

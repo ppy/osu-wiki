@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 5f10ef5c2d3a1926ac10d4b6e48fa574eb4ca2ae
+---
+
 # Komunitas
 
 Berikut ini merupakan daftar artikel yang membahas seputar cara komunikasi yang terjadi di komunitas osu!. Jika kamu mencari cara berkontribusi tetapi belum tahu harus mulai dari mana, kamu dapat membaca artikel [Bagaimana kamu dapat membantu!](/wiki/Community/How_you_can_help!) untuk mengetahui cara berkontribusi.
