@@ -44,7 +44,7 @@ The **GB Cup 2022 Autumn** (***GBC 2022 Autumn***) was a 3v3 captain draft-based
 | *17-21st place* | ¥60 CNY |
 | *22-24th place* | ¥30 CNY |
 
-![](img/badge_official.png "GBC 2022 Autumn winner profile badge")  
+![](img/badge_official.png "GBC 2022 Autumn winner profile badge")\
 ![](img/badge_1st.png "GBC 2022 Autumn 1st KanonBot profile badge") ![](img/badge_2nd.png "GBC 2022 Autumn 2nd KanonBot profile badge") ![](img/badge_3rd.png "GBC 2022 Autumn 3rd KanonBot profile badge")
 
 ## Organisation
