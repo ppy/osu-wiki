@@ -12,7 +12,7 @@ Melding classical instrumentation with an unmatched rhythm game style, **Sobrem*
 
 **9** revolutionary tunes have made their mark in [**Sobrem**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/338), all pre-timed for your upcoming mapping trials.
 
-**Sobrem** debuted as one of osu!'s Featured Artists through [MWC7K 2023](https://osu.ppy.sh/wiki/en/Tournaments/MWC/2023_7K)'s map pool reveal earlier today. Witness legendary osu!mania player [Jinjin](https://osu.ppy.sh/users/3360737) play through his own World Cup creation down here, then explore everything else for yourself:
+**Sobrem** debuted as one of osu!'s Featured Artists through [MWC7K 2023](/wiki/Tournaments/MWC/2023_7K)'s map pool reveal earlier today. Witness legendary osu!mania player [Jinjin](https://osu.ppy.sh/users/3360737) play through his own World Cup creation down here, then explore everything else for yourself:
 
 <div align="center">
     <video width="100%" controls>
