@@ -12,10 +12,10 @@ To those who're new to what we do, Project Loved hosts community voting polls ea
 
 As always, we would like to thank everyone for your participation in the November votes. If you would like to view the results from the previous round, you may do so by clicking the following links:
 
-- [Results for osu!](https://osu.ppy.sh/community/forums/posts/1675562)
-- [Results for osu!taiko](https://osu.ppy.sh/community/forums/posts/1675561)
-- [Results for osu!catch](https://osu.ppy.sh/community/forums/posts/1675560)
-- [Results for osu!mania](https://osu.ppy.sh/community/forums/posts/1675559)
+- [Results for osu!](https://osu.ppy.sh/community/forums/topics/1691276)
+- [Results for osu!taiko](https://osu.ppy.sh/community/forums/topics/1691275)
+- [Results for osu!catch](https://osu.ppy.sh/community/forums/topics/1691274)
+- [Results for osu!mania](https://osu.ppy.sh/community/forums/topics/1691273)
 
 Before we proceed, here's some updates straight from Project Loved HQ:
 
