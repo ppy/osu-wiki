@@ -33,6 +33,6 @@ Der Server besteht hauptsächlich aus:
 
 ## Verifizierung
 
-Um Zugriff auf die Kanäle zu erhalten, müssen Nutzer ihre Identität bestätigen, indem sie ihr osu!-Profil im Kanal `#arrival` teilen.
+Um Zugriff auf die Kanäle zu erhalten, müssen Nutzer ihre Identität mit ihrem osu!-Account unter Verwendung von [AxerBot](https://osu.ppy.sh/community/forums/topics/1604925) bestätigen.
 
-![Authentifizierungsprozess](img/auth.jpg "Beim Betreten des Servers können Nutzer ihr osu!-Profil teilen und ein Administrator wird ihr Profil entsprechend bearbeiten")
+![Authentifizierungsnachricht von AxerBot](img/auth.jpg "Beim Betreten des Servers bittet AxerBot den Nutzer, seine Identität mit seinem osu!-Profil unter Verwendung von OAuth2 zu bestätigen.")
