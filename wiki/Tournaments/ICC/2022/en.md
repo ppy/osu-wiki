@@ -28,9 +28,9 @@ The **Indonesia Convert Cup 2022** (***ICC 2022***) was a double-elimination 1v1
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 1 year of osu!supporter, unique profile badge, customised profile banner |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter, customised profile banner |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter, customised profile banner |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 30 USD, unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 20 USD |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 10 USD |
 
 ![](img/badge.png "Indonesia Convert Cup Open 2022 winner badge")
 
