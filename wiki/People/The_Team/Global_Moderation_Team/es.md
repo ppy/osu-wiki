@@ -18,7 +18,7 @@ El **Global Moderation Team** (anteriormente conocido como el Global Mod Team, A
 
 ## Roles y responsabilidades
 
-***Nota: Para denunciar que un moderador se está portando mal o infringiendo el código de conducta del contribuidor, comuníquese con el [equipo de soporte de cuentas](/wiki/People/The_Team/Account_support_team#support@ppy.sh).***\
+***Nota: Para denunciar que un moderador por mal comportamiento o por infringir el código de conducta del contribuidor, comuníquese con el [equipo de soporte de cuentas](/wiki/People/The_Team/Account_support_team#support@ppy.sh).***\
 *Véase también: [Reportar mal comportamiento](/wiki/Reporting_bad_behaviour)*
 
 El Global Moderation Team es responsable del bienestar del chat y del foro, y se encarga de las interacciones dentro de la comunidad. Deben abordarse con cualquier pregunta relacionada con el aspecto de moderación del juego, que incluiría (pero no se limita a):
@@ -41,7 +41,7 @@ Los factores más importantes a considerar son el comportamiento, la actividad, 
 3. Tener una comprensión adecuada de [las reglas](/wiki/Rules) y cómo se aplican. Es importante saber qué es aceptable dentro de osu! y lo que no es.
 4. Sea paciente. El GMT no agrega espontáneamente miembros que han estado ayudando durante solo unos días. Se necesita tiempo para que el GMT evalúe a alguien⁠: su personalidad, en qué puede ayudar, su actividad, etc.
 
-Por lo general, el equipo observará a las personas durante varias semanas o meses para asegurarse de que sean una valiosa incorporación al equipo. Por favor sea paciente y no se exceda. Siéntase libre de preguntarle a cualquier persona del GMT sobre cualquier pregunta relacionada con las reglas, informar a los usuarios y cualquier otro problema.
+Por lo general, el equipo observará a las personas durante varias semanas o meses para asegurarse de que sean una valiosa incorporación al equipo. Por favor sea paciente y no se exceda. Siéntase libre de preguntarle a cualquier persona del GMT sobre cualquier pregunta relacionada con las reglas, reportar a los usuarios y cualquier otro problema.
 
 ### Algunas cosas que no se deben hacer
 
@@ -54,7 +54,7 @@ Por lo general, el equipo observará a las personas durante varias semanas o mes
 
 *Nota: Todos los miembros del GMT hablan inglés además de los idiomas que se enumeran a continuación, a menos que se indique lo contrario.*
 
-La [página del grupo Global Moderation Team](https://osu.ppy.sh/groups/4) enumera todos los miembros del equipo. Además de las áreas mencionadas a continuación, todos los miembros del GMT participan en la [revisión del contenido visual y auditivo incluido en los beatmaps](/wiki/Rules/Visual_Content_Considerations#getting-your-image-assessed).
+La [página del grupo Global Moderation Team](https://osu.ppy.sh/groups/4) enumera todos los miembros del equipo. Además de las áreas mencionadas a continuación, todos los miembros del GMT participan en la [revisión del contenido visual y auditivo incluido en los beatmaps](/wiki/Rules/Visual_Content_Considerations#evaluación-de-su-imagen).
 
 | Nombre | Idiomas adicionales | Área principal |
 | :-- | :-- | :-- |
