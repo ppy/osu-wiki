@@ -12,7 +12,7 @@ tags:
 
 *Véase también: [Mod (desambiguación)](/wiki/Disambiguation/Mod).*
 
-**Global Moderation Team** (anteriormente conocido como Global Mod Team, Administradores, o GreenBAT), comúnmente conocido como **GMT**, son miembros de la comunidad que se centran principalmente en la moderación de los jugadores y en los problemas relacionados con el equipo y la comunidad en general. Se distinguen por su título de usuario y el color del nombre de usuario, que es rojo en el juego y verde cítrico en los foros.
+El **Global Moderation Team** (anteriormente conocido como el Global Mod Team, Administradores, o GreenBAT), comúnmente conocido como **GMT**, son miembros de la comunidad que se centran principalmente en la moderación de los jugadores y en los problemas relacionados con el equipo y la comunidad en general. Se distinguen por su título de usuario y el color del nombre de usuario, que es rojo en el juego y verde cítrico en los foros.
 
 **Todos los Global Moderators juran respetar [el código de conducta del contribuidor](/wiki/Contributor_Code_of_Conduct) además de las [reglas de la comunidad](/wiki/Rules) normales.**
 
@@ -21,7 +21,7 @@ tags:
 ***Nota: Para denunciar que un moderador se está portando mal o infringiendo el código de conducta del contribuidor, comuníquese con el [equipo de soporte de cuentas](/wiki/People/The_Team/Account_support_team#support@ppy.sh).***\
 *Véase también: [Reportar mal comportamiento](/wiki/Reporting_bad_behaviour)*
 
-Global Moderation Team es responsable del bienestar del chat y del foro, y se encarga de las interacciones dentro de la comunidad. Deben abordarse con cualquier pregunta relacionada con el aspecto de moderación del juego, que incluiría (pero no se limita a):
+El Global Moderation Team es responsable del bienestar del chat y del foro, y se encarga de las interacciones dentro de la comunidad. Deben abordarse con cualquier pregunta relacionada con el aspecto de moderación del juego, que incluiría (pero no se limita a):
 
 - problemas con el chat (por ejemplo, silencios o acoso)
 - conducta inapropiada en el foro (por ejemplo, comentarios inapropiados)
