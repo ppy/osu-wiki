@@ -1,15 +1,15 @@
 # GitHub Desktop
 
-*Este artículo es la continuación de [la página principal](/wiki/osu!_wiki/Contribution_guide)* y asume que usará [GitHub Desktop](https://desktop.github.com). **Puede usar otros clientes de Git en sus propios términos.** Incluso si trabaja localmente, aún necesitará acceder a GitHub para crear solicitudes de cambios para que se realicen los cambios.
+*Este artículo es la continuación de [la página principal](/wiki/osu!_wiki/Contribution_guide)* y asume que usará [GitHub Desktop](https://desktop.github.com). **Puede usar otros clientes de Git en sus propios términos**. Incluso si trabaja localmente, aún necesitará acceder a GitHub para crear solicitudes de cambios para que se realicen los cambios.
 
-## Instalar GitHub Desktop
+## Instalación de GitHub Desktop
 
 1. Instale [GitHub Desktop](https://desktop.github.com) si aún no lo tiene instalado.
 2. Cuando se complete la instalación, GitHub Desktop le pedirá que inicie sesión, haga clic en `Sign in to GitHub.com`.
 3. Complete las indicaciones tal como aparecen.
-4. Continua a [Clonar](#clonar).
+4. Continua a [Clonación](#clonación).
 
-## Clonar
+## Clonación
 
 1. Haga clic en `Clone a repository`.
 
@@ -43,26 +43,26 @@ Si bien la ramificación es técnicamente opcional, es [muy recomendable por un 
 1. En la carpeta en la que clonó el repositorio, navegue hasta el archivo que desea editar. Los artículos están organizados por los nombres de las carpetas que son los nombres de los artículos y los archivos `.md` que son las traducciones.
 2. Una vez que encuentre el archivo correcto, ábralo con su editor de texto favorito.
 3. Ahora puede hacer sus cambios. Tómese un momento para pasar también por la [autocomprobación](/wiki/osu!_wiki/Contribution_guide#autocomprobación).
-4. Continua a [Creando commits y enviando](#crear-commits-y-envío).
+4. Continua a [Creación de commits y envío](#creación-de-commits-y-envío).
 
 ### Mover archivos existentes
 
 1. Use el Explorador de Windows para mover archivos.
-2. Continua a [Creando commits y enviando](#crear-commits-y-envío).
+2. Continua a [Creación de commits y envío](#creación-de-commits-y-envío).
 
 ### Crear nuevos archivos
 
 *Precaución: si va a crear archivos de artículos con el Explorador de Windows, asegúrese de que la opción `Extensiones de nombre de archivo` esté habilitada.* Véase [Extensiones de nombre de archivo comunes en Windows](https://support.microsoft.com/es-es/windows/extensiones-de-nombre-de-archivo-comunes-en-windows-da4a4430-8e76-89c5-59f7-1cdbbc75cb01) para obtener instrucciones.
 
-1. Use Explorador de Windows, su editor de imágenes favorito y/o su editor de texto favorito para crear nuevos archivos. Si está creando nuevos artículos o traducciones, cambie el nombre del archivo para que siga las [configuraciones regionales en los criterios de estilo del artículo](/wiki/Article_styling_criteria/Formatting#locales).
-2. Continua a [Creando commits y enviando](#crear-commits-y-envío).
+1. Use Explorador de Windows, su editor de imágenes favorito y/o su editor de texto favorito para crear nuevos archivos. Si está creando nuevos artículos o traducciones, cambie el nombre del archivo para que siga las [configuraciones regionales en los criterios de estilo del artículo](/wiki/Article_styling_criteria/Formatting#configuraciones-regionales).
+2. Continua a [Creación de commits y envío](#creación-de-commits-y-envío).
 
 ### Eliminar archivos
 
 1. Use el Explorador de Windows para eliminar archivos.
-2. Continua a [Creando commits y enviando](#crear-commits-y-envío).
+2. Continua a [Creación de commits y envío](#creación-de-commits-y-envío).
 
-## Crear commits y envío
+## Creación de commits y envío
 
 1. Vuelva a GitHub Desktop. Debería verse algo similar a esto:
 
