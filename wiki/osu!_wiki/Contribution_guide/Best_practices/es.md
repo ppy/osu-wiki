@@ -48,7 +48,7 @@ Si encontró algún problema al usar la herramienta GitHub o si desea sobrescrib
 
 *Véase también: [Forking Workflow | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)*
 
-Dentro de tu bifurcación de la osu! wiki, eres libre de hacer cualquier cambio y guardarlo. Los **commits** son «puntos de guardado» individuales del repositorio. Las **ramas** son espacios de trabajo que le permiten alternar entre varias versiones del repositorio. Para facilitar su flujo de trabajo y mantener el historial de la wiki limpio y libre de ruido, siga estas pautas:
+Dentro de tu bifurcación de la osu! wiki, eres libre de hacer cualquier cambio y guardarlo. Los **commits** son «puntos de guardado» individuales del repositorio. Las **ramas (branches)** son espacios de trabajo que le permiten alternar entre varias versiones del repositorio. Para facilitar su flujo de trabajo y mantener el historial de la wiki limpio y libre de ruido, siga estas pautas:
 
 - [Sincroniza la rama `master`](#sincronizar-la-bifurcación).
 - Comience siempre el trabajo creando una nueva rama a partir de `master`, y solo mantenga allí sus cambios.
