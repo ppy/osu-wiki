@@ -130,7 +130,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/c9e
 
 ### Semifinals
 
-**[Download the mappack here (78 MB)](https://drive.google.com/uc?id=1kJIEsziaFSJCMVusbnFQXA8VdJZWinNl)**
+**[Download the mappack here (74 MB)](https://drive.google.com/uc?id=1kJIEsziaFSJCMVusbnFQXA8VdJZWinNl)**
 
 - Rice
   1. [F-777 - Ludicrous Speed (Fvrwvrd's Deathcore Remix) \[Ft. Infant Annihilator\] (Critical\_Star) \[Nimble As Lightning\]](https://osu.ppy.sh/beatmapsets/1931470#mania/3990194)
@@ -140,7 +140,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/c9e
   5. [LeaF - Chronostasis (pwhk) \[Causal Violation\]](https://osu.ppy.sh/beatmapsets/1931468#mania/3990189)
   6. [Toromaru - Uncharted Sky (Jinjin) \[\_UJ x Jinjin's Azure Adventure\]](https://osu.ppy.sh/beatmapsets/1931471#mania/3990195)
 - Long Note
-  1. [Zame - Lake Valor Remaster (Makiba) \[Release/Control+ (cut)\] *(temporary link)*](https://leoflt.com/s/r2cM)
+  1. [Zame - Lake Valor Remaster (Makiba) \[Release/Control+ (cut)\]](https://osu.ppy.sh/beatmapsets/1754833#mania/3990527)
   2. [M2U - Myosotis Remixed by Yamato Kasai from Mili (feat. Guriri, Lucy) (SurfChu85) \[forget me not Remixed by Maple and Jinjin\]](https://osu.ppy.sh/beatmapsets/1931481#mania/3990210)
   3. [Lime - Replica (Jinjin) \[Duplicated Collab\]](https://osu.ppy.sh/beatmapsets/1931473#mania/3990197)
   4. [Usada Pekora - PEKORANDOMBRAIN! (MapleSyrup-) \[HAHAHAHAHAHAHAHAHAHA\]](https://osu.ppy.sh/beatmapsets/1794093#mania/3990206)
