@@ -129,7 +129,7 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
   2. [Sakurakou K-ON Bu - Cagayake!GIRLS (TheShadowOfDark) \[Never-Ending Girls' Song (ICCO Edit)\]](https://osu.ppy.sh/beatmapsets/1888638#fruits/3889637)
   3. [Shimotsuki Haruka & Yamamoto Mineko - Masterpiece! (Nana Abe) \[Lydie\]](https://osu.ppy.sh/beatmapsets/1259704#fruits/2618969)
 - Tiebreaker
-  1. **[	Sad Keyboard Guy, sleepless & Myntian - Alter//Strife feat. vally.exe (Alvearia) \[Sharded Memories Into Spaces Once Gone\]](https://osu.ppy.sh/beatmapsets/1881706#fruits/3873990)**
+  1. **[Sad Keyboard Guy, sleepless & Myntian - Alter//Strife feat. vally.exe (Alvearia) \[Sharded Memories Into Spaces Once Gone\]](https://osu.ppy.sh/beatmapsets/1881706#fruits/3873990)**
 
 ### Finals (week 1)
 
@@ -172,7 +172,7 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
   2. [BEMANI Sound Team "Nekomata Gekidan" - Afterimage d'automne (Lulu-) \[Decaying Foliage\]](https://osu.ppy.sh/beatmapsets/1083051#fruits/2271628)
   3. [Brymir - Nephilim (LMT) \[Unholy Ritualus\]](https://osu.ppy.sh/beatmapsets/1271973#fruits/2643166)
 - HardRock
-  1. [S	Higuchi Madoka (CV: Tsuchiya Rio) - Itsudatte Bokura wa (Higuchi Madoka ver.) (\[Boy\]DaLat) \[Hikan's Extra\]](https://osu.ppy.sh/beatmapsets/1747715#fruits/3587675)
+  1. [S Higuchi Madoka (CV: Tsuchiya Rio) - Itsudatte Bokura wa (Higuchi Madoka ver.) (\[Boy\]DaLat) \[Hikan's Extra\]](https://osu.ppy.sh/beatmapsets/1747715#fruits/3587675)
   2. [LeaF - Calamity Fortune (Frostings) \[Cataclysm\]](https://osu.ppy.sh/beatmapsets/359168#fruits/789752)
   3. [-45 - Aci-L (Luscent) \[Collab Extra\]](https://osu.ppy.sh/beatmapsets/1783108#fruits/3651716) 
 - DoubleTime
