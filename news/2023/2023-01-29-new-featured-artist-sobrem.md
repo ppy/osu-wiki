@@ -22,7 +22,7 @@ Melding classical instrumentation with an unmatched rhythm game style, **Sobrem*
 
 ### Widowmaker - Giselle
 
-Check out [this map from the osu!mania 7K World Cup 2023](LINK) hosted by [Jinjin](https://osu.ppy.sh/users/3360737) or [this avant-garde map](https://osu.ppy.sh/beatmapsets/955075) hosted by [rrtyui](https://osu.ppy.sh/users/352328)!
+Check out [this map from the osu!mania 7K World Cup 2023](https://osu.ppy.sh/beatmapsets/1931456) hosted by [Jinjin](https://osu.ppy.sh/users/3360737) or [this avant-garde map](https://osu.ppy.sh/beatmapsets/955075) hosted by [rrtyui](https://osu.ppy.sh/users/352328)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/338/Giselle/Widowmaker%20-%20Giselle.mp3" type="audio/mpeg">
