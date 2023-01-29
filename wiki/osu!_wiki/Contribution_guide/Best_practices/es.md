@@ -6,7 +6,7 @@ Esta página cubre algunas de las tareas que puede enfrentar mientras contribuye
 
 *Para obtener más información sobre Git y GitHub, consulte la [Documentación de GitHub](https://docs.github.com/es)*
 
-**Git** es un sistema de control de versiones que ayuda a administrar los cambios en los archivos. Los datos de wiki la wiki de osu! y el historial de cambios se almacenan en un repositorio de Git. **GitHub** es una plataforma de desarrollo que proporciona una interfaz web para repositorios Git y ofrece un conjunto de herramientas para la gestión de proyectos.
+**Git** es un sistema de control de versiones que ayuda a administrar los cambios en los archivos. Los datos de la osu! wiki y el historial de cambios se almacenan en un repositorio de Git. **GitHub** es una plataforma de desarrollo que proporciona una interfaz web para repositorios Git y ofrece un conjunto de herramientas para la gestión de proyectos.
 
 ## Sincronizar la bifurcación
 
