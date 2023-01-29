@@ -18,7 +18,7 @@ El **Global Moderation Team** (anteriormente conocido como el Global Mod Team, A
 
 ## Roles y responsabilidades
 
-***Nota: Para denunciar que un moderador por mal comportamiento o por infringir el código de conducta del contribuidor, comuníquese con el [equipo de soporte de cuentas](/wiki/People/The_Team/Account_support_team#support@ppy.sh).***\
+***Nota: Para denunciar a un moderador por mal comportamiento o por infringir el código de conducta del contribuidor, comuníquese con el [equipo de soporte de cuentas](/wiki/People/The_Team/Account_support_team#support@ppy.sh).***\
 *Véase también: [Reportar mal comportamiento](/wiki/Reporting_bad_behaviour)*
 
 El Global Moderation Team es responsable del bienestar del chat y del foro, y se encarga de las interacciones dentro de la comunidad. Deben abordarse con cualquier pregunta relacionada con el aspecto de moderación del juego, que incluiría (pero no se limita a):
