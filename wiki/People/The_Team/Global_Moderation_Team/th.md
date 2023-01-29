@@ -4,6 +4,8 @@ tags:
   - moderator
   - moderators
   - chat mod
+outdated_translation: true
+outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 ---
 
 # ทีมผู้ดูแล
@@ -72,7 +74,6 @@ tags:
 | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109) | โปรตุเกส, ญี่ปุ่น | ผู้ดูแลแชท |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) |  | ผู้สนับสนุนผู้เล่น, ผู้ดูแลวิกิ |
 | ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | อินโดนีเซีย | ผู้ดูแลชุมชนการแมป/การ mod |
-| ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | จีน | ผู้ดูแลชุมชนการแมป/การ mod |
 | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) | โปแลนด์ | ผู้ดูแลแชท |
 | ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | จีน | ผู้ดูแลชุมชนการแมป/การ mod |
 | ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | ผู้ดูแลชุมชนการแมป/การ mod |
@@ -144,7 +145,7 @@ tags:
 | `#greek` |  |  |
 | `#hebrew` |  |  |
 | `#hungarian` | [Magyar](https://osu.ppy.sh/community/forums/95) | ::{ flag=HU }:: [[ Another ]](https://osu.ppy.sh/users/3416573) |
-| `#indonesian` | [Indonesian](https://osu.ppy.sh/community/forums/73) | ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986), ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) |
+| `#indonesian` | [Indonesian](https://osu.ppy.sh/community/forums/73) | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986), ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) |
 | `#italian` | [Italiano](https://osu.ppy.sh/community/forums/36) |  |
 | `#japanese` | [日本語](https://osu.ppy.sh/community/forums/32) | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107), ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109), ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326), ::{ flag=JP }:: [KSHR](https://osu.ppy.sh/users/409957), ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369), ::{ flag=JP }:: [S o h](https://osu.ppy.sh/users/2234772), ::{ flag=KR }:: [ToGlette](https://osu.ppy.sh/users/1076236) |
 | `#korean` | [한국어](https://osu.ppy.sh/community/forums/58) | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107), ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369), ::{ flag=KR }:: [ruexia](https://osu.ppy.sh/users/385069), ::{ flag=KR }:: [ToGlette](https://osu.ppy.sh/users/1076236) |

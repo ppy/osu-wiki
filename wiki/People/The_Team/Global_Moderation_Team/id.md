@@ -60,7 +60,7 @@ Daftar anggota GMT selengkapnya dapat dilihat pada laman grup [Global Moderation
 | ::{ flag=HU }:: [[ Another ]](https://osu.ppy.sh/users/3416573) | Hungaria | Moderasi chat |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Rusia | Moderasi chat |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | Moderasi forum |
-| ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | Manajemen turnamen |
+| ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | Manajemen turnamen[^task-Azer] |
 | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419) | Tionghoa, Melayu | Moderasi chat |
 | ::{ flag=US }:: [Chaos](https://osu.ppy.sh/users/2628870) |  | Moderasi chat |
 | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | Swedia, Spanyol | Moderasi chat, manajemen turnamen |
@@ -72,7 +72,6 @@ Daftar anggota GMT selengkapnya dapat dilihat pada laman grup [Global Moderation
 | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109) | Portugis, Jepang | Moderasi chat |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) |  | Dukungan pengguna, administrasi osu!wiki |
 | ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | Indonesia | Moderasi komunitas mapping/modding |
-| ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Tionghoa | Moderasi komunitas mapping/modding |
 | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) | Polski | Moderasi chat |
 | ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Tionghoa | Moderasi komunitas mapping/modding |
 | ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | Moderasi komunitas mapping/modding |
@@ -144,7 +143,7 @@ Daftar anggota GMT selengkapnya dapat dilihat pada laman grup [Global Moderation
 | `#greek` |  |  |
 | `#hebrew` |  |  |
 | `#hungarian` | [Magyar](https://osu.ppy.sh/community/forums/95) | ::{ flag=HU }:: [[ Another ]](https://osu.ppy.sh/users/3416573) |
-| `#indonesian` | [Indonesian](https://osu.ppy.sh/community/forums/73) | ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986), ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) |
+| `#indonesian` | [Indonesian](https://osu.ppy.sh/community/forums/73) | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986), ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) |
 | `#italian` | [Italiano](https://osu.ppy.sh/community/forums/36) |  |
 | `#japanese` | [日本語](https://osu.ppy.sh/community/forums/32) | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107), ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109), ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326), ::{ flag=JP }:: [KSHR](https://osu.ppy.sh/users/409957), ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369), ::{ flag=JP }:: [S o h](https://osu.ppy.sh/users/2234772), ::{ flag=KR }:: [ToGlette](https://osu.ppy.sh/users/1076236) |
 | `#korean` | [한국어](https://osu.ppy.sh/community/forums/58) | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107), ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369), ::{ flag=KR }:: [ruexia](https://osu.ppy.sh/users/385069), ::{ flag=KR }:: [ToGlette](https://osu.ppy.sh/users/1076236) |
@@ -159,3 +158,7 @@ Daftar anggota GMT selengkapnya dapat dilihat pada laman grup [Global Moderation
 | `#turkish` | [Türkçe](https://osu.ppy.sh/community/forums/93) |  |
 | `#ukrainian` |  | ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) |
 | `#vietnamese` |  | ::{ flag=VN }:: [My Angel Chino](https://osu.ppy.sh/users/20547597), ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) |
+
+## Catatan
+
+[^task-Azer]: Walaupun Azer bukan merupakan bagian dari GMT, Azer secara teknis termasuk ke dalam kelompok pengguna ini karena ia memerlukan izin akses GMT dalam tugasnya sebagai penyelenggara turnamen World Cup.

@@ -1,6 +1,6 @@
 ---
 layout: main_page
-outdated_since: e5c6703afd341354b50be467f885400c871cd0de
+outdated_since: 616ba00a29147f8bab7bf9598df6985621b2d99b
 outdated_translation: true
 ---
 
@@ -98,9 +98,11 @@ Faça sua parte: [No que ajudar e como](/wiki/Community/How_you_can_help!) • [
 
 A interação social é um dos principais combustíveis do osu! e de jogadores ao redor do mundo. Explore atividades e competições, converse com outros e ajuda a organizar o próximo grande evento!
 
+Locais: [Fórum](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_Chat)
+
 [Torneios](/wiki/Tournaments) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Competições](/wiki/Contests) • [Programa de mentoria da cominidade](/wiki/Community/Community_Mentorship_Program)
 
-[Projetos](/wiki/Community/Projects): [Artistas em Destaque](/wiki/Featured_Artists) • [Reuniões de comunidade do osu!](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk)
+[Projetos](/wiki/Community/Projects) • [Artistas em Destaque](/wiki/Featured_Artists) • [Project Loved](/wiki/Community/Project_Loved) • [Reuniões de comunidade do osu!](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk)
 
 Organizações: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
@@ -111,7 +113,7 @@ Organizações: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
 O osu! não seria possivel sem vários usuários com seu desenvolvimento, manutenção, e gerenciamento da comunidade: seus esforços, tempo, e dedicação fazem o jogo viver e prosperar.
 
-[O time](/wiki/People/The_Team): [Desenvolvedores](/wiki/People/The_Team/Developers) • [Time de Moderação Global](/wiki/People/The_Team/Global_Moderation_Team) • [Time de Suporte](/wiki/People/The_Team/Support_Team) • [Time de Avaliação de nomeações](/wiki/People/The_Team/Nomination_Assessment_Team) • [Nomeadores de Beatmap](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Time do Project Loved](/wiki/People/The_Team/Project_Loved_Team)
+[O time](/wiki/People/The_Team): [Desenvolvedores](/wiki/People/The_Team/Developers) • [Time de Moderação Global](/wiki/People/The_Team/Global_Moderation_Team) • [Time de Suporte](/wiki/People/The_Team/Support_Team) • [Time de Avaliação de nomeações](/wiki/People/The_Team/Nomination_Assessment_Team) • [Nomeadores de Beatmap](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Time do Project Loved](/wiki/People/The_Team/Project_Loved_Team) • [Curadores do Beatmap Spotlight](/wiki/People/The_Team/Beatmap_Spotlight_Curators)
 
 [Contribuidores da comunidade](/wiki/People/Community_Contributors) • [Usuários com títulos únicos](/wiki/People/Users_with_unique_titles) • [Comitê de Torneios](/wiki/People/Tournament_Committee) • [Comitê de Pontos de Performance](/wiki/People/Performance_Points_Committee)
 

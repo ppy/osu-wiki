@@ -3,11 +3,15 @@ tags:
   - letter grade
   - rank
   - silver s
+  - silver ss
   - sh
   - xh
   - lettre
   - classement
   - s argenté
+  - ss argenté
+  - s d'argent
+  - ss d'argent
   - notes
 ---
 

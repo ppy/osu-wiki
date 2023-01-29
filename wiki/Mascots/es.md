@@ -30,7 +30,7 @@ Yuzu es la mascota de osu!catch que se unió en 2014-06-22. Nació en 2000-04-10
 
 ![Mani & Mari](https://assets.ppy.sh/media/mari-mani/wiki-key-condensed.png "Mani & Mari")
 
-Diseñados por [xiemon](https://osu.ppy.sh/users/5203667) después de ser seleccionado en el [Most Manic Art Contest](https://osu.ppy.sh/community/contests/80) y anunciadas como las mascotas oficiales de osu!mania el 2020-09-18, Mani and Mari son gemelos que no se soportan del todo, pero se parecen más de lo que les gustaría admitir.
+Diseñados por [xiemon](https://osu.ppy.sh/users/5203667) después de ser seleccionados en [Most Manic Art Contest](https://osu.ppy.sh/community/contests/80) y anunciados como las mascotas oficiales de osu!mania el 2020-09-18, Mani and Mari son gemelos que no se soportan del todo, pero se parecen más de lo que les gustaría admitir.
 
 Mani es algo así como un inconformista, siempre buscando explorar nuevos estilos y cosas, mientras que su hermana Mari (anteriormente conocida como Maria) es una perfeccionista rígida y clásica con una inclinación por ser el centro de atención. Los dos se llevan como el aceite y el agua.
 
@@ -52,7 +52,7 @@ Mocha es la mascota de osu!taiko. Inicialmente fue diseñada durante el [sexto c
 
 一本木龍太 (Ryūta Ippongi) fue el chibi-fruit catcher de osu!catch que se unió en 2008, pero fue reemplazado por [Yuzu](#yuzu) en el 2014. Fue creado por [iNiS Corporation](https://en.wikipedia.org/wiki/INiS) y una vez fue parte del viejo sitio web. También apareció en [Yandere Simulator](https://yanderesimulator.com) como un NPC.
 
-Ryuuta también fue presentado en el skin de [LuigiHann](https://osu.ppy.sh/users/1079), [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357/).
+Ryuuta también fue presentado en la skin de [LuigiHann](https://osu.ppy.sh/users/1079), [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357/).
 
 ### Agent J
 
@@ -62,15 +62,15 @@ Ryuuta también fue presentado en el skin de [LuigiHann](https://osu.ppy.sh/user
 
 Agent J, también conocido como BA-2 (Beat Agent-2) o J, fue una de las mascotas de osu! en 2008 pero fue retirado en el 2014. Fue creado por iNiS Corporation y una vez fue parte del viejo sitio web.
 
-Agent J también fue presentado en el skin de [LuigiHann](https://osu.ppy.sh/users/1079), [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357).
+Agent J también fue presentado en la skin de [LuigiHann](https://osu.ppy.sh/users/1079), [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357).
 
 ### Don
 
 ![Don](img/Don.png "Don")
 
-> Don es el protagonista de las series de [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin). Es un tambor de taiko con un borde blanco y cuatro patas, una cara roja (que parece ser naranja moly), y un cuerpo azul claro. El sueño de Don es compartir la belleza de Taiko con el mundo. Han pasado tres años desde que el se mudó a la Casa Wada, y se ha vuelto bastante popular en la ciudad. Tiene un apetito monstruoso y algunas veces tiene compras caras en la Casa Wada que pueden hacerse algo de lo peor. Generalmente termina sus oraciones con "Ta-don", que significa "Ba-dum" en japonés.
+> Don es el protagonista de las series de [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin). Es un tambor de taiko con un borde blanco y cuatro patas, una cara roja (que parece ser naranja moly), y un cuerpo azul claro. El sueño de Don es compartir la belleza de Taiko con el mundo. Han pasado tres años desde que el se mudó a la Casa Wada, y se ha vuelto bastante popular en la ciudad. Tiene un apetito monstruoso y algunas veces tiene compras caras en la Casa Wada que pueden hacerse algo de lo peor. Generalmente termina sus oraciones con «Ta-don», que significa «Ba-dum» en japonés.
 
-和田どん (Wada Don), también conocido cono Don o Don-chan, fue una de las mascotas de osu! para osu!taiko que se unió en 2008-05. Mide 48cm de alto y pesa más de 100kg. Aparece en el skin para osu!taiko. Su arte fue diseñado por Yukiko Yokoo (横尾有希子) y su voz fue creada por Narahashi Miki (楢橋 美紀).
+和田どん (Wada Don), también conocido cono Don o Don-chan, fue una de las mascotas de osu! para osu!taiko que se unió en 2008-05. Mide 48cm de alto y pesa más de 100kg. Aparece en la skin para osu!taiko. Su arte fue diseñado por Yukiko Yokoo (横尾有希子) y su voz fue creada por Narahashi Miki (楢橋 美紀).
 
 ## Comunidad
 
@@ -78,7 +78,7 @@ Agent J también fue presentado en el skin de [LuigiHann](https://osu.ppy.sh/use
 
 ![Aiko](img/Aiko.png "Aiko")
 
-Diseñada por [JMC](https://osu.ppy.sh/users/774010), Aiko fue una de las participantes en el concurso de diseño de mascotas para osu!taiko. Es una chica energética con pasión para osu!taiko, ¡incluso si ella no es la mejor! Luciendo un par de zapatos "Tabi" elegantes y un séquito de accesorios de pippidon, la mascota de tiempos pasados vive en esta chica valiente. Ella es bastante pequeña con sólo 154cm de altura, y nació en 1999-04-06.
+Diseñada por [JMC](https://osu.ppy.sh/users/774010), Aiko fue una de las participantes en el concurso de diseño de mascotas para osu!taiko. Es una chica energética con pasión para osu!taiko, ¡incluso si ella no es la mejor! Luciendo un par de zapatos «Tabi» elegantes y un séquito de accesorios de pippidon, la mascota de tiempos pasados vive en esta chica valiente. Ella es bastante pequeña con sólo 154cm de altura, y nació en 1999-04-06.
 
 ### Alisa
 

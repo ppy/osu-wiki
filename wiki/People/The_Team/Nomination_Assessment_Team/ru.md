@@ -53,15 +53,14 @@ NAT самостоятельно отслеживает появление но�
 | Имя | Языки | Сферы деятельности |
 | :-- | :-- | :-- |
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) |  | Advisor |
+| ::{ flag=SG }:: [achyoo](https://osu.ppy.sh/users/7823498) | Китайский | Evaluator |
 | ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) |  | Evaluator |
 | ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | Белорусский, русский | Evaluator |
 | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Кантонский, китайский | Evaluator |
 | ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | Evaluator |
 | ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Китайский | Evaluator |
 | ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Немецкий | Evaluator |
-| ::{ flag=SG }:: [Kotoha](https://osu.ppy.sh/users/7823498) | Китайский | Evaluator |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Шведский | Advisor |
-| ::{ flag=GB }:: [NexusQI](https://osu.ppy.sh/users/13822800) |  | Evaluator |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | Advisor |
 | ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | Evaluator |
 | ::{ flag=AT }:: [Stixy](https://osu.ppy.sh/users/9000308) | Немецкий, сербский | Evaluator |
@@ -94,5 +93,4 @@ NAT самостоятельно отслеживает появление но�
 | ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229) | Китайский | Evaluator |
 | ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | Вьетнамский | Evaluator |
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Индонезийский | Evaluator |
-| ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | Испанский, португальский, галисийский, итальянский, японский | Evaluator |
 | ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Evaluator |
