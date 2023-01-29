@@ -35,4 +35,4 @@ Ce serveur est principalement composé de :
 
 Afin d'accéder aux salons du serveur, les utilisateurs doivent confirmer leur identité avec leur compte osu! en utilisant [AxerBot](https://osu.ppy.sh/community/forums/topics/1604925).
 
-![Message d'authentification d'AxerBot](img/auth.jpg "En rejoignant le serveur, AxerBot invitera l'utilisateur à confirmer son identité avec son profil osu! en utilisant OAuth2.")
+![Message d'authentification d'AxerBot](img/auth.jpg?1 "En rejoignant le serveur, AxerBot invitera l'utilisateur à confirmer son identité avec son profil osu! en utilisant OAuth2.")
