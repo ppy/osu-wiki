@@ -35,4 +35,4 @@ The server mainly consists of:
 
 In order to gain access to the channels, users must verify their identity with their osu! accounts using [AxerBot](https://osu.ppy.sh/community/forums/topics/1604925).
 
-![Authentication message from AxerBot](img/auth.jpg "When joining the server, AxerBot will prompt the user to verify their identity with their osu! profile using OAuth2.")
+![Authentication message from AxerBot](img/auth.jpg?1 "When joining the server, AxerBot will prompt the user to verify their identity with their osu! profile using OAuth2.")
