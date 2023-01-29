@@ -81,7 +81,7 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
 | 13 | ::{ flag=ID }:: [Dedot](https://osu.ppy.sh/users/8805157) | 14.50 |
 | 14 | ::{ flag=ID }:: [Sololiquy](https://osu.ppy.sh/users/4350087) | 14.63 |
 | 15 | ::{ flag=AU }:: [TheTixTop](https://osu.ppy.sh/users/19236870) | 16.75 |
-| 16 | ::{ flag=MY }:: [\[MY\]error\_exe](hhttps://osu.ppy.sh/users/6056288) | 17.50 |
+| 16 | ::{ flag=MY }:: [\[MY\]error\_exe](https://osu.ppy.sh/users/6056288) | 17.50 |
 | 17 | ::{ flag=AU }:: [pandaBear](https://osu.ppy.sh/users/107553) | 17.88 |
 | 18 | ::{ flag=TH }:: [Kukkai](https://osu.ppy.sh/users/7811952) | 17.88 |
 | 19 | ::{ flag=ID }:: [Mamat](https://osu.ppy.sh/users/3031177) | 17.88 |
