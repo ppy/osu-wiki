@@ -327,7 +327,7 @@ These users were awarded their respective titles for having significantly contri
 | ::{ flag=US }:: [nuudles](https://osu.ppy.sh/users/21312) | iPhone Dev |
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | osu!taiko Paragon |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | osu! Paragon |
-| ::{ flag=SW }:: [PuffBuck](https://osu.ppy.sh/users/4234525) | Always Watching | <!-- for osulive moderation and other osu! world cup contributions --> | 
+| ::{ flag=SE }:: [PuffBuck](https://osu.ppy.sh/users/4234525) | Always Watching <!-- osulive moderator, hype train conductor and osu! world cup contributor --> | 
 | ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter |
 | ::{ flag=SG }:: [Shoegazer](https://osu.ppy.sh/users/2520707) | osu!mania Paragon |
 | ::{ flag=NL }:: [statementreply](https://osu.ppy.sh/users/126198) | Pro Tester |
