@@ -8,7 +8,7 @@ tags:
 
 ![Indonesia Convert Cup Open 2022 logo](img/logo.jpg)
 
-The **Indonesia Convert Cup 2022** (***ICC 2022***) was a double-elimination 1v1 osu!catch tournament hosted by ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422) in which all the beatmaps were osu! converts. Despite its name, the tournament was open to all players from all ten [ASEAN member states](https://asean.org/about-asean/member-states/) as well as ::{ flag=TL }:: Timor-Leste, ::{ flag=NZ }:: New Zealand, and ::{ flag=AU }:: Australia with 3,000 playcounts or more in the osu!catch game mode to their name. It was regarded as the third instalment of the Indonesia Convert Cup tournament series.
+The **Indonesia Convert Cup Open 2022** (***ICCO 2022***) was a double-elimination 1v1 osu!catch tournament hosted by ::{ flag=ID }:: [Urabe Mikoto](https://osu.ppy.sh/users/1272422) in which all the beatmaps were osu! converts. Despite its name, the tournament was open to all players from all ten [ASEAN member states](https://asean.org/about-asean/member-states/) as well as ::{ flag=TL }:: Timor-Leste, ::{ flag=NZ }:: New Zealand, and ::{ flag=AU }:: Australia with 3,000 play count or more in the osu!catch game mode to their name. It was regarded as the third instalment of the Indonesia Convert Cup tournament series.
 
 ## Tournament schedule
 
@@ -64,7 +64,7 @@ ICCO 2022 was run by various osu! community members from Indonesia and beyond.
 
 Listed below are the players who managed to qualify into the Round of 32 (along with their seed number and average map rank combined across each Qualifier beatmap) out of 39 registered players in total.
 
-| Seed No. | Player | Avg. Map Rank |
+| Seed no. | Player | Avg. map rank |
 | :-: | :-- | :-- |
 | 1 | ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877) | 2.88 |
 | 2 | ::{ flag=ID }:: [Netamaru](https://osu.ppy.sh/users/1830361) | 3.75 |
@@ -101,7 +101,7 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
 
 ## Podium
 
-![](img/podium.jpg "ICCO 2022 podium")
+![ICCO 2022 podium](img/podium.jpg "ICCO 2022 podium")
 
 ## Mappools
 
@@ -111,7 +111,7 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
 
 - NoMod
   1. [Sasaki Sayaka - FEELxALIVE (KuranteMelodii) \[BAKUON AR9.7\]](https://osu.ppy.sh/beatmapsets/477628#fruits/1020297)
-  2. [Umeboshi Chazuke - Galaxy in Toybox (DC update ver.) (Star Stream) \[\Expert\]](https://osu.ppy.sh/beatmapsets/1155525#fruits/2411404)
+  2. [Umeboshi Chazuke - Galaxy in Toybox (DC update ver.) (Star Stream) \[Expert\]](https://osu.ppy.sh/beatmapsets/1155525#fruits/2411404)
   3. [sasakure.UK - Xlo (Yusomi) \[Another AR9.7\]](https://osu.ppy.sh/beatmapsets/1018087#fruits/2130633)
   4. [USAO - Cthugha (Otosaka-Yu) \[MASTER\]](https://osu.ppy.sh/beatmapsets/1370925#fruits/2834637)
   5. [Iyowa feat. KAFU - Kyu-kurarin (0ugi) \[0pp's Tecxpert\]](https://osu.ppy.sh/beatmapsets/1591460#fruits/3405314)
@@ -139,7 +139,7 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
   1. [HO-KAGO TEA TIME - Girls in Wonderland (TheShadowOfDark) \[Walao's Extra\]](https://osu.ppy.sh/beatmapsets/1266700#fruits/2659748)
   2. [A-One feat. ayaponzu\* - Justice Monster (Chizu-kun) \[Phantasm\]](https://osu.ppy.sh/beatmapsets/1513750#fruits/3099250)
   3. [Roselia - Shin'ai (-Aqua) \[Agony\]](https://osu.ppy.sh/beatmapsets/765499#fruits/1674700)
-  4. [EmoCosine - MAGENTA POTION (short ver. (Starfy) \[Hallucination\]](https://osu.ppy.sh/beatmapsets/1079970#fruits/3075536)
+  4. [EmoCosine - MAGENTA POTION (short ver.) (Starfy) \[Hallucination\]](https://osu.ppy.sh/beatmapsets/1079970#fruits/3075536)
   5. [Yooh - Decoy (fanzhen0019) \[D\]](https://osu.ppy.sh/beatmapsets/1074610#fruits/2248810)
   6. [Nei Kino - Usan no Kaori (Parachute) \[Insane\]](https://osu.ppy.sh/beatmapsets/189625#fruits/451764)  
 - Hidden
@@ -172,7 +172,7 @@ Listed below are the players who managed to qualify into the Round of 32 (along 
   2. [BEMANI Sound Team "Nekomata Gekidan" - Afterimage d'automne (Lulu-) \[Decaying Foliage\]](https://osu.ppy.sh/beatmapsets/1083051#fruits/2271628)
   3. [Brymir - Nephilim (LMT) \[Unholy Ritualus\]](https://osu.ppy.sh/beatmapsets/1271973#fruits/2643166)
 - HardRock
-  1. [S Higuchi Madoka (CV: Tsuchiya Rio) - Itsudatte Bokura wa (Higuchi Madoka ver.) (\[Boy\]DaLat) \[Hikan's Extra\]](https://osu.ppy.sh/beatmapsets/1747715#fruits/3587675)
+  1. [Higuchi Madoka (CV: Tsuchiya Rio) - Itsudatte Bokura wa (Higuchi Madoka ver.) (\[Boy\]DaLat) \[Hikan's Extra\]](https://osu.ppy.sh/beatmapsets/1747715#fruits/3587675)
   2. [LeaF - Calamity Fortune (Frostings) \[Cataclysm\]](https://osu.ppy.sh/beatmapsets/359168#fruits/789752)
   3. [-45 - Aci-L (Luscent) \[Collab Extra\]](https://osu.ppy.sh/beatmapsets/1783108#fruits/3651716) 
 - DoubleTime
@@ -467,9 +467,9 @@ Sunday, 23 October 2022:
 #### Qualifier rules
 
 1. Each player will have to sign up to one of the Qualifier lobbies that have been scheduled and prepared by the tournament management in advance.
-2. In the lobby, all players will have to consecutively play all of the nine Qualifier beatmaps in the order of NM1 -> NM2 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2.
+2. In the lobby, all players will have to consecutively play all of the eight Qualifier beatmaps in the order of NM1 -> NM2 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2.
 3. Players **are not allowed** to ban any beatmaps in the Qualifiers.
-4. Players **are not allowed** to join in (or register for) more than one Qualifier lobby.
+4. Players **are not allowed** to join (or register for) more than one Qualifier lobby.
 5. Based on their performance in the Qualifiers, players will be ranked based on their average rank combined across each Qualifier beatmap.
 6. 32 players with the **highest average rank overall** will advance to the knock-out stages.
    - If there are two (or more) players who share the same average rank, the player holding the higher total score combined from all eight Qualifier beatmaps will be placed in the higher seed.
@@ -501,7 +501,7 @@ Sunday, 23 October 2022:
    - Banning does not apply in the Qualifier lobbies.
 3. Each player is free to select one warm-up beatmap. Using beatmaps with questionable content is prohibited. 
    - Warm-ups do not apply in the Qualifier lobbies.
-4. **There will be no dedicated FreeMod picks in the tournament.** However, when playing a map from the HardRock or Double Time pool, Hidden can be used optionally on top of the corresponding mod by any player.
+4. **There will be no dedicated FreeMod picks in the tournament.** However, when playing a map from the HardRock or DoubleTime pool, Hidden can be used optionally on top of the corresponding mod by any player.
 5. In the case of a tiebreaker, the tiebreaker map will be played with the FreeMod option enabled which allows players to play the tiebreaker map with Easy, HardRock, Hidden, or any possible combinations of the three mods should they wish to.
    - Playing the tiebreaker map with a mod is *not* mandatory.
 6. The results of each match and any other relevant information regarding the match will be noted by the referee after the match has been concluded.
