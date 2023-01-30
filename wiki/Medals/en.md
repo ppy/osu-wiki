@@ -16,7 +16,7 @@ It is worth noting however that the contents of all the Video Game Packs, Anime 
 
 ## Dedication
 
-**Dedication medals** are medals awarded upon reaching certain playcount milestones in a single game mode.
+**Dedication medals** are medals awarded upon reaching certain playcount milestones in the osu! gamemode, or by reaching total hit count milestones in osu!taiko, osu!catch, and osu!mania.
 
 ## Mod Introduction
 
