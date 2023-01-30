@@ -203,7 +203,7 @@ Estas canciones son parte de [osu! James Landino Collection EP](https://fanlink.
 
 | Canción | Beatmap | Notas |
 | :-: | :-: | :-- |
-| Toromaru - Uncharted Sky[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1931471) | RC6 de semifinales |
+| Toromaru - Uncharted Sky[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1931471) | Semifinales RC6 |
 
 ### Lanzamientos de torneos administrados por la comunidad
 
