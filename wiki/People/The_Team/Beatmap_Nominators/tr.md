@@ -50,26 +50,23 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | :-- | :-- |
 | ::{ flag=PH }:: [-Aqua](https://osu.ppy.sh/users/7150015) | Filipince |
 | ::{ flag=ID }:: [-Keitaro](https://osu.ppy.sh/users/3378391) | Endonezce |
-| ::{ flag=IT }:: [-Syncro](https://osu.ppy.sh/users/4338923) | İtalyanca |
 | ::{ flag=FI }:: [Aakki](https://osu.ppy.sh/users/11077540) | Fince |
 | ::{ flag=GB }:: [Aistre](https://osu.ppy.sh/users/4879380) |  |
-| ::{ flag=KR }:: [Amamya](https://osu.ppy.sh/users/1997633) | Korece |
 | ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599) | İtalyanca |
 | ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549) |  |
 | ::{ flag=KR }:: [Beomsan](https://osu.ppy.sh/users/3626063) | Korece |
 | ::{ flag=KR }:: [Cellina](https://osu.ppy.sh/users/2490770) | Korece |
+| ::{ flag=GB }:: [ckharv](https://osu.ppy.sh/users/9967026) |  |
 | ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Portekizce |
 | ::{ flag=DE }:: [Dignan](https://osu.ppy.sh/users/4505918) | Almanca |
 | ::{ flag=US }:: [eiri-](https://osu.ppy.sh/users/3388410) | İspanyolca |
 | ::{ flag=BE }:: [Enneya](https://osu.ppy.sh/users/10959501) | Felemenkçe |
 | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |  |
 | ::{ flag=TW }:: [Flask](https://osu.ppy.sh/users/959763) | Çince |
-| ::{ flag=AU }:: [Iceluin](https://osu.ppy.sh/users/3558897) |  |
+| ::{ flag=US }:: [Hobbes2](https://osu.ppy.sh/users/8157492) |  |
 | ::{ flag=CA }:: [jonathanlfj](https://osu.ppy.sh/users/270377) | Çince, biraz Fransızca |
 | ::{ flag=KR }:: [KeyWee](https://osu.ppy.sh/users/10476879) | Korece |
-| ::{ flag=FR }:: [Kudosu](https://osu.ppy.sh/users/11038155) | Fransızca |
 | ::{ flag=HK }:: [Kyle Y](https://osu.ppy.sh/users/3565813) | Çince, Kantonca |
-| ::{ flag=DE }:: [Lasse](https://osu.ppy.sh/users/896613) | Almanca |
 | ::{ flag=GB }:: [Log Off Now](https://osu.ppy.sh/users/4378277) |  |
 | ::{ flag=KR }:: [Luscent](https://osu.ppy.sh/users/2688581) | Korece |
 | ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) | Çince |
@@ -82,7 +79,6 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ::{ flag=US }:: [Nevo](https://osu.ppy.sh/users/7451883) |  |
 | ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) | Fransızca |
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | Almanca |
-| ::{ flag=RU }:: [riffy](https://osu.ppy.sh/users/597957) | Rusça |
 | ::{ flag=US }:: [rosario wknd](https://osu.ppy.sh/users/6341518) |  |
 | ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | Çince |
 | ::{ flag=HK }:: [Saggin](https://osu.ppy.sh/users/12464107) | Çince, Kantonca, biraz Japonca |
@@ -108,16 +104,15 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ::{ flag=FI }:: [Antti](https://osu.ppy.sh/users/13281473) | Fince, biraz İsveççe |
 | ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) | Çince |
 | ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | Çince, Kantonca |
+| ::{ flag=JP }:: [Chromoxx](https://osu.ppy.sh/users/1881639) | Japonca |
 | ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | Çince, Kantonca |
 | ::{ flag=MX }:: [DakeDekaane](https://osu.ppy.sh/users/1425253) | İspanyolca |
 | ::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142) | Vietnamca |
 | ::{ flag=US }:: [eiri-](https://osu.ppy.sh/users/3388410) | İspanyolca |
 | ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851) | Almanca |
-| ::{ flag=US }:: [hac](https://osu.ppy.sh/users/17853754) |  |
 | ::{ flag=IE }:: [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) |  |
 | ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | Portekizce |
 | ::{ flag=NL }:: [ikin5050](https://osu.ppy.sh/users/4007649) | Felemenkçe |
-| ::{ flag=US }:: [Jonarwhal](https://osu.ppy.sh/users/3653035) |  |
 | ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326) | Japonca, Kantonca, Çince |
 | ::{ flag=US }:: [Lumenite-](https://osu.ppy.sh/users/6256027) |  |
 | ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402) |  |
@@ -139,6 +134,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ::{ flag=GB }:: [bigh](https://osu.ppy.sh/users/16352736) |  |
 | ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | Çince, Kantonca |
 | ::{ flag=NL }:: [Chatie](https://osu.ppy.sh/users/6524765) | Felemenkçe |
+| ::{ flag=CA }:: [fuhie](https://osu.ppy.sh/users/7620002) |  |
 | ::{ flag=NL }:: [GIGACHAD](https://osu.ppy.sh/users/11081858) | Felemenkçe |
 | ::{ flag=PL }:: [Mniam](https://osu.ppy.sh/users/6050530) | Lehçe |
 | ::{ flag=TH }:: [rew0825](https://osu.ppy.sh/users/2488026) | Tayca |
@@ -161,6 +157,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ::{ flag=ID }:: [Al-Reina](https://osu.ppy.sh/users/7037423) | Endonezce |
 | ::{ flag=ID }:: [Amiichii](https://osu.ppy.sh/users/9228569) | Endonezce |
 | ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | İspanyolca |
+| ::{ flag=KR }:: [ArtZone](https://osu.ppy.sh/users/15548034) | Korece |
 | ::{ flag=GB }:: [Asherz007](https://osu.ppy.sh/users/9014047) |  |
 | ::{ flag=US }:: [Crisper](https://osu.ppy.sh/users/16482505) |  |
 | ::{ flag=MY }:: [Critical_Star](https://osu.ppy.sh/users/3793196) | Malayca |
@@ -171,6 +168,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | Endonezce |
 | ::{ flag=DE }:: [Feerum](https://osu.ppy.sh/users/4815717) | Almanca |
 | ::{ flag=CN }:: [FLeVI](https://osu.ppy.sh/users/12519616) | Çince |
+| ::{ flag=AU }:: [fvrex](https://osu.ppy.sh/users/11863699) |  |
 | ::{ flag=CA }:: [guden](https://osu.ppy.sh/users/11626065) |  |
 | ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | Çince |
 | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | Endonezce |
@@ -188,6 +186,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ::{ flag=KR }:: [secXcscX](https://osu.ppy.sh/users/13543418) | Korece |
 | ::{ flag=CN }:: [Seiran-](https://osu.ppy.sh/users/14351534) | Çince |
 | ::{ flag=CN }:: [Shima Rin](https://osu.ppy.sh/users/6089608) | Çince |
+| ::{ flag=KR }:: [Sun](https://osu.ppy.sh/users/4115819) | Korece |
 | ::{ flag=ID }:: [Syadow-](https://osu.ppy.sh/users/3484485) | Endonezce |
 | ::{ flag=ID }:: [Syrion-](https://osu.ppy.sh/users/15380643) | Endonezce |
 | ::{ flag=TW }:: [Touru0711](https://osu.ppy.sh/users/8625854) | Çince |
@@ -202,13 +201,14 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ::{ flag=JP }:: [-Rei](https://osu.ppy.sh/users/8200707) | Japonca |
 | ::{ flag=BY }:: [Bazz B](https://osu.ppy.sh/users/9063995) | Rusça, Belarusça |
 | ::{ flag=PL }:: [browiec](https://osu.ppy.sh/users/9426712) | Lehçe |
-| ::{ flag=GB }:: [ckharv](https://osu.ppy.sh/users/9967026) |  |
+| ::{ flag=ID }:: [Creamy Candy](https://osu.ppy.sh/users/9769199) | Endonezce |
 | ::{ flag=ES }:: [Didah](https://osu.ppy.sh/users/8030129) | İspanyolca |
 | ::{ flag=US }:: [Heroine](https://osu.ppy.sh/users/12727076) |  |
-| ::{ flag=US }:: [Hobbes2](https://osu.ppy.sh/users/8157492) |  |
 | ::{ flag=CL }:: [Krisom](https://osu.ppy.sh/users/99269) | İspanyolca |
 | ::{ flag=KR }:: [Len](https://osu.ppy.sh/users/1686145) | Korece |
 | ::{ flag=US }:: [Mimari](https://osu.ppy.sh/users/14339830) |  |
+| ::{ flag=CA }:: [Nijika Ijichi](https://osu.ppy.sh/users/10964252) |  |
+| ::{ flag=RU }:: [riffy](https://osu.ppy.sh/users/597957) | Rusça |
 | ::{ flag=CA }:: [Ryax](https://osu.ppy.sh/users/8949769) |  |
 | ::{ flag=BR }:: [Seto Kousuke](https://osu.ppy.sh/users/2857314) | Portekizce |
 | ::{ flag=US }:: [Smoke](https://osu.ppy.sh/users/10726630) |  |
@@ -223,21 +223,20 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ::{ flag=AR }:: [Axer](https://osu.ppy.sh/users/7299864) | İspanyolca |
 | ::{ flag=JP }:: [Eriha](https://osu.ppy.sh/users/16320311) | Japonca |
 | ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230) | Çince, Kantonca |
+| ::{ flag=US }:: [Jonarwhal](https://osu.ppy.sh/users/3653035) |  |
 
 #### osu!catch
 
 | İsim | Ek diller |
 | :-- | :-- |
-| ::{ flag=CA }:: [fuhie](https://osu.ppy.sh/users/7620002) |  |
 | ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276) | Korece |
 
 #### osu!mania
 
 | İsim | Ek diller |
 | :-- | :-- |
-| ::{ flag=KR }:: [ArtZone](https://osu.ppy.sh/users/15548034) | Korece |
-| ::{ flag=AU }:: [fvrex](https://osu.ppy.sh/users/11863699) |  |
-
+| ::{ flag=KR }:: [Aruel](https://osu.ppy.sh/users/3984370) | Korece |
+| ::{ flag=CN }:: [AWMRone](https://osu.ppy.sh/users/10351684) | Çince |
 ## Tarihçe
 
 - Beatmap Aday Göstericiler eskiden *Beatmap Değerlendirme Takımı (Beatmap Appreciation Team)* (BAT) olarak adlandırılırdı.
