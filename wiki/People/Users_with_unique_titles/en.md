@@ -315,19 +315,19 @@ These users were awarded their respective titles for having significantly contri
 | User | Title |
 | :-- | :-- |
 | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) | World Cup Organiser |
-| ::{ flag=CN }:: [Ballance](https://osu.ppy.sh/users/165946) | osu!painter <!-- achievements and some other graphics --> |
+| ::{ flag=CN }:: [Ballance](https://osu.ppy.sh/users/165946) | osu!painter<!-- achievements and some other graphics --> |
 | ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000) | osu! Paragon |
 | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | World Cup Organiser |
-| ::{ flag=US }:: [Daru](https://osu.ppy.sh/users/32480) | osu!painter <!-- maria and yuzu and a bunch of artwork for old site --> |
+| ::{ flag=US }:: [Daru](https://osu.ppy.sh/users/32480) | osu!painter<!-- maria and yuzu and a bunch of artwork for old site --> |
 | ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) | osu!catch Paragon |
-| ::{ flag=DE }:: [LastExceed](https://osu.ppy.sh/users/6232245) | Master of the Fade <!-- implemented fade in and hidden mod in osu!(lazer) and notable Fade In player --> |
+| ::{ flag=DE }:: [LastExceed](https://osu.ppy.sh/users/6232245) | Master of the Fade<!-- implemented fade in and hidden mod in osu!(lazer) and notable Fade In player --> |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | World Cup Organiser |
 | ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | Resident Skinner |
 | ::{ flag=NO }:: [MillhioreF](https://osu.ppy.sh/users/941094) | Pro Tester |
 | ::{ flag=US }:: [nuudles](https://osu.ppy.sh/users/21312) | iPhone Dev |
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | osu!taiko Paragon |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | osu! Paragon |
-| ::{ flag=SE }:: [PuffBuck](https://osu.ppy.sh/users/4234525) | Always Watching <!-- osulive moderator, hype train conductor and osu! world cup contributor --> | 
+| ::{ flag=SE }:: [PuffBuck](https://osu.ppy.sh/users/4234525) | Always Watching<!-- osulive moderator, hype train conductor and osu! world cup contributor --> |
 | ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter |
 | ::{ flag=SG }:: [Shoegazer](https://osu.ppy.sh/users/2520707) | osu!mania Paragon |
 | ::{ flag=NL }:: [statementreply](https://osu.ppy.sh/users/126198) | Pro Tester |
@@ -341,8 +341,8 @@ These users were awarded their respective titles for miscellanous reasons.
 | User | Title |
 | :-- | :-- |
 | ::{ flag=SH }:: [BanchoBot](https://osu.ppy.sh/users/3) | w00t p00t |
-| ::{ flag=US }:: [Derekku](https://osu.ppy.sh/users/91341) | COOL DUDE <!-- old forum meme --> |
-| ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Popcorn Fairy <!-- movie threater pictures in staff chats, or something --> |
+| ::{ flag=US }:: [Derekku](https://osu.ppy.sh/users/91341) | COOL DUDE<!-- old forum meme --> |
+| ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Popcorn Fairy<!-- movie threater pictures in staff chats, or something --> |
 | ::{ flag=AU }:: [phill_old](https://osu.ppy.sh/users/53) | ¿ |
 | ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) | Former osu! Champion: 2019 / Grilled Dodongo |
 | ::{ flag=HM }:: [Zallius](https://osu.ppy.sh/users/55) | Boats |
