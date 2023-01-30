@@ -323,6 +323,7 @@ Estos usuarios recibieron sus respectivos títulos por haber contribuido signifi
 | ::{ flag=US }:: [nuudles](https://osu.ppy.sh/users/21312) | iPhone Dev |
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | osu!taiko Paragon |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | osu! Paragon |
+| ::{ flag=SE }:: [PuffBuck](https://osu.ppy.sh/users/4234525) | Always Watching |
 | ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter |
 | ::{ flag=SG }:: [Shoegazer](https://osu.ppy.sh/users/2520707) | osu!mania Paragon |
 | ::{ flag=NL }:: [statementreply](https://osu.ppy.sh/users/126198) | Pro Tester |
