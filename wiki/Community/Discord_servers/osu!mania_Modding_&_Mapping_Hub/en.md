@@ -33,6 +33,6 @@ The server mainly consists of:
 
 ## Verification
 
-In order to gain access to the channels, users must verify their identity by posting their osu! profiles in the `#arrival` channel.
+In order to gain access to the channels, users must verify their identity with their osu! accounts using [AxerBot](https://osu.ppy.sh/community/forums/topics/1604925).
 
-![Authentication process](img/auth.jpg "When joining the server, users will post their osu! profile, and an administrator will edit their profiles accordingly")
+![Authentication message from AxerBot](img/auth.jpg?1 "When joining the server, AxerBot will prompt the user to verify their identity with their osu! profile using OAuth2.")
