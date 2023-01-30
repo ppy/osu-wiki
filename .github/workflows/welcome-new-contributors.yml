@@ -1,0 +1,29 @@
+name: 'Welcome new contributors'
+
+on:
+  pull_request_target:
+    types: [opened]
+
+jobs:
+  welcome-new-contributor:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 'Greet the contributor'
+        uses: garg3133/welcome-new-contributors@v1.2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          pr-message: |
+            Thank you for contributing to the osu! wiki.
+
+            Please take note of the following:
+
+            - Make sure you've read [this self-check checklist](https://osu.ppy.sh/wiki/en/osu%21_wiki/Contribution_guide#self-check).
+            - Translations that have not been reviewed by a native speaker will be merged after a minimum of 1 week. If there are no reviewers for your language, please mention it explicitly.
+            - Refrain from continually updating the branch with `master` yourself. A [maintainer](https://osu.ppy.sh/wiki/People/osu%21_wiki_maintainers) will do this before merging anyway.
+            - Apply review suggestions in batches from the `Files changed` tab like this:
+
+              ![Demo GIF](https://user-images.githubusercontent.com/36758269/214177263-b6ead137-e7e0-43a0-9aec-00f81894ebf7.gif)
+
+            See the [contribution guide](https://osu.ppy.sh/wiki/en/osu%21_wiki/Contribution_guide) for more information.
+
+            All changes are run through [continuous integration checks](https://osu.ppy.sh/wiki/en/osu%21_wiki/Maintenance#ci-checks), which provide automatic detection for common errors. If you need help with decrypting CI check error messages, or with any other issues, ask in the `#osu-wiki` channel on the [osu!dev Discord server](https://discord.com/invite/ppy).
