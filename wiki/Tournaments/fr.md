@@ -582,7 +582,7 @@ Tournois et compétitions non-officiels gérés par la communauté.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Indonesia Convert Cup 2020](ICC/2020) | 13/09/2020 | 08/11/2020 | ::{ flag=ID }:: [dika312](https://osu.ppy.sh/users/741613) | ::{ flag=ID }:: [Galaxi](https://osu.ppy.sh/users/2552435) | ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986) |
 | [Indonesia Convert Cup 2021](ICC/2021) | 16/08/2021 | 11/10/2021 | ::{ flag=ID }:: [Dika312](https://osu.ppy.sh/users/741613) | ::{ flag=ID }:: [Netamaru](https://osu.ppy.sh/users/1830361) | ::{ flag=ID }:: [Madoka Ayukawa](https://osu.ppy.sh/users/1595221) |
-| [Indonesia Convert Cup Open 2022](ICC/2022) | 2022-10-10 | 2022-11-27 | ::{ flag=ID }:: [Netamaru](https://osu.ppy.sh/users/1830361) | ::{ flag=CA }:: [Henrick](https://osu.ppy.sh/users/8840982) | ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877) |
+| [Indonesia Convert Cup Open 2022](ICC/2022) | 10/10/2022 | 17/11/2022 | ::{ flag=ID }:: [Netamaru](https://osu.ppy.sh/users/1830361) | ::{ flag=CA }:: [Henrick](https://osu.ppy.sh/users/8840982) | ::{ flag=ID }:: [Chroneko](https://osu.ppy.sh/users/5472877) |
 
 #### osu! Cup Master
 
