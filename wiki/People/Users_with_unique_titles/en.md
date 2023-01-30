@@ -330,6 +330,7 @@ These users were awarded their respective titles for having significantly contri
 | ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter |
 | ::{ flag=SG }:: [Shoegazer](https://osu.ppy.sh/users/2520707) | osu!mania Paragon |
 | ::{ flag=NL }:: [statementreply](https://osu.ppy.sh/users/126198) | Pro Tester |
+| ::{ flag=SW }:: [PuffBuck](https://osu.ppy.sh/users/4234525) | Always Watching | <!-- for osulive moderation and other osu! world cup contributions --!> | 
 
 ## Other
 
