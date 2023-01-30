@@ -1,42 +1,44 @@
-# Equipo de apoyo de cuentas
+# Equipo de soporte de cuentas
 
-*Para un equipo que modera ciertos subforos, ver: [Equipo de apoyo](/wiki/People/The_Team/Support_Team)*
+*Para un equipo que modera ciertos subforos, véase: [Equipo de soporte](/wiki/People/The_Team/Support_Team)*
 
-**El equipo de apoyo de cuentas** es un grupo de personas que administran las cuentas de los usuarios, así como aceptan apelaciones de silencio y restricción.
+El **equipo de soporte de cuentas** es un grupo de personas que administran las cuentas de los usuarios, además de aceptar apelaciones de silencio y restricción.
 
 ## Puntos de contacto
 
-El equipo puede ser contactado enviando un correo a [support@ppy.sh](mailto:support@ppy.sh), [accounts@ppy.sh](mailto:accounts@ppy.sh), o [privacy@ppy.sh](mailto:privacy@ppy.sh). La identidad de sus miembros se mantiene en secreto para protegerlos de una atención no deseada.
+Solo se puede contactar al equipo enviando un correo electrónico a [support@ppy.sh](mailto:support@ppy.sh), [accounts@ppy.sh](mailto:accounts@ppy.sh) o [privacy@ppy.sh](mailto:privacy@ppy.sh). Las identidades de sus miembros se mantienen en secreto para protegerlos de atención no deseada.
 
-Usualmente toma algunos días para que el soporte llegue al correo electrónico. Si no hay respuesta en una semana, vale la pena enviar un mensaje de seguimiento sobre el caso.
+Por lo general, el soporte tarda unos días en llegar al correo electrónico. Si no hay respuesta dentro de una semana, vale la pena enviar un mensaje de seguimiento sobre el caso.
 
 ## Roles y tareas
 
 *Artículo principal: [Centro de ayuda](/wiki/Help_centre)*\
-*Ver también: [Restricciones de la cuenta](/wiki/Help_centre/Account_restrictions)*
+*Véase también: [Restricciones de cuenta](/wiki/Help_centre/Account_restrictions)*
 
-Debe contactar con este equipo para tratar temas relacionados con la cuenta que están fuera de su control. Por favor, recuerda proporcionar el mayor contexto posible sobre tu tema y envía un correo electrónico desde la dirección asociada a tu cuenta osu!
+Debe comunicarse con este equipo con respecto a temas relacionados con la cuenta que están fuera de su control. ¡Recuerde proporcionar tanto contexto sobre su problema como sea posible y envíe un correo electrónico desde la dirección asociada con su cuenta de osu!.
 
 ### [accounts@ppy.sh](mailto:accounts@ppy.sh)
 
-- [Apelaciones de las restricciones colocadas en su cuenta](/wiki/Help_centre/Account_restrictions), incluyendo:
+- [Apelaciones de restricciones impuestas a su cuenta](/wiki/Help_centre/Account_restrictions), que incluyen:
   - silencios;
   - eliminaciones de contenido del perfil;
-  - eliminaciones de beatmap;
-  - publicaciones del foro o eliminación de comentarios.
-- Casos de mal comportamiento que [desea admitir](/wiki/Reporting_bad_behaviour/Handling_foul_play#what-can-i-do-if-i've-broken-the-rules?).
-- [Pérdida de acceso al correo electrónico](/wiki/Help_centre/Account#sign-in) ligado a tu cuenta de osu!, o cuando tu cuenta es robada.
-- Nombre de usuario [revierte y realiza pequeñas correcciones ortográficas](/wiki/Help_centre/Account#name-changes).
-- [Registros de cuenta bot](/wiki/Bot_account).
+  - eliminaciones de beatmaps;
+  - eliminación de comentarios y publicaciones en el foro.
+- Instancias de mala conducta que [desea admitir](/wiki/Reporting_bad_behaviour/Handling_foul_play#¿qué-puedo-hacer-si-he-roto-las-reglas?).
+- [Pérdida de acceso al correo electrónico](/wiki/Help_centre/Account#inicio-de-sesión) vinculado a su cuenta de osu!, o cuando su cuenta es robada.
+- [Cambios en el nombre de usuario y correcciones ortográficas menores](/wiki/Help_centre/Account#cambios-de-nombre).
+- [Registros de cuentas bot](/wiki/Bot_account).
 
 ### [support@ppy.sh](mailto:support@ppy.sh)
 
-- Preocupaciones sobre el comportamiento de un moderador.
-- Preocupaciones sobre un moderador incumpliendo [el Código de Conducta de Contribuyentes](/wiki/Contributor_Code_of_Conduct)
-- [Cuestiones de pago](/wiki/Help_centre/Account#supporter) para los pedidos de [osu!store](https://osu.ppy.sh/store/listing).
+*Nota: Para denunciar un caso extremo de mala conducta o abuso sexual por parte de cualquier usuario, incluido un moderador, véase [Reportar abuso](/wiki/Reporting_bad_behaviour/Abuse).*
+
+- Inquietudes sobre el mal comportamiento de un moderador.
+- Inquietudes sobre un moderador que infringe [el Código de conducta del contribuidor](/wiki/Contributor_Code_of_Conduct).
+- [Problemas de pago](/wiki/Help_centre/Account#supporter) para pedidos de la [osu!store](https://osu.ppy.sh/store/listing).
 - Problemas técnicos que no pudieron o no han sido resueltos en [el foro de ayuda](https://osu.ppy.sh/community/forums/5), como [problemas de conectividad](/wiki/Help_centre/Client#online-features).
 
 ### [privacy@ppy.sh](mailto:privacy@ppy.sh)
 
-- [Solicitudes de datos](/wiki/Legal/Privacy#data-controller) y preocupaciones de privacidad.
-- **Permanente** [solicitudes de eliminación de cuentas](/wiki/Legal/Privacy#your-rights-and-control) para residentes de la UE ([GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation) cobertura).
+- [Solicitudes de datos](/wiki/Legal/Privacy#controlador-de-datos) y preocupaciones de privacidad.
+- [Solicitudes de eliminación de cuenta](/wiki/Legal/Privacy#sus-derechos-y-control) permanentes.

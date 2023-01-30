@@ -650,7 +650,7 @@ Tournois et compétitions non-officiels gérés par la communauté.
 | Nom | Début | Fin | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [GB Cup 2022 Spring](GBC/GBC_2022_Spring) | 09/04/2022 | 15/05/2022 | 金戈铁马的鲜丰水果摊 | 太美丽了理塘 | GBC最强阵容9个Miyes |
-| [GB Cup 2022 Autumn](GBC/GBC_2022_Autumn) | 15/10/2022 | 18/12/2022 | *TBD* | *TBD* | *TBD* |
+| [GB Cup 2022 Autumn](GBC/GBC_2022_Autumn) | 15/10/2022 | 18/12/2022 | 猫猫面馆 | 黎曼猜想 | 均衡教派 |
 
 #### Mania Beginner's Showdown
 
