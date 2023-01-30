@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 689c2f3805a618b8f08342661faa1a0328fccfb1
----
-
 # Daftar pengguna dengan gelar khusus
 
 Pada umumnya, gelar yang disandang oleh seorang pengguna mencerminkan status keanggotaan mereka dalam suatu [kelompok pengguna (*user group*)](/wiki/People/The_Team#kelompok-pengguna). Meskipun demikian, terdapat beberapa pengguna yang secara khusus dianugerahi gelar-gelar tertentu dengan berbagai alasan mulai dari prestasi, kontribusi, hingga momen unik yang mereka torehkan.
@@ -136,6 +131,7 @@ osu! pada umumnya menganugerahkan para pemenang kontes mapping yang berstatus re
 - ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114)
 - ::{ flag=US }:: [Behonkiss](https://osu.ppy.sh/users/106)
 - ::{ flag=KR }:: [Beige](https://osu.ppy.sh/users/685229)
+- ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552)
 - ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565)
 - ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334)
 - ::{ flag=MY }:: [ExPew](https://osu.ppy.sh/users/665612)
@@ -143,6 +139,7 @@ osu! pada umumnya menganugerahkan para pemenang kontes mapping yang berstatus re
 - ::{ flag=JP }:: [Gamu](https://osu.ppy.sh/users/611174)
 - ::{ flag=GB }:: [hypercyte](https://osu.ppy.sh/users/9155377)
 - ::{ flag=CA }:: [jonathanlfj](https://osu.ppy.sh/users/270377)
+- ::{ flag=KR }:: [Kawawa](https://osu.ppy.sh/users/4647754)
 - ::{ flag=CA }:: [ktgster](https://osu.ppy.sh/users/53378)
 - ::{ flag=RU }:: [kuyusu](https://osu.ppy.sh/users/11758667)
 - ::{ flag=NL }:: [Kyshiro](https://osu.ppy.sh/users/640611)
@@ -155,6 +152,7 @@ osu! pada umumnya menganugerahkan para pemenang kontes mapping yang berstatus re
 - ::{ flag=US }:: [MMzz](https://osu.ppy.sh/users/128993)
 - ::{ flag=CN }:: [Necho](https://osu.ppy.sh/users/4086593)
 - ::{ flag=FR }:: [Nofool](https://osu.ppy.sh/users/672430)
+- ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721)
 - ::{ flag=FI }:: [PianoLuigi](https://osu.ppy.sh/users/9665915)
 - ::{ flag=FR }:: [Realazy](https://osu.ppy.sh/users/918297)
 - ::{ flag=US }:: [RLC](https://osu.ppy.sh/users/1047883)
@@ -164,6 +162,10 @@ osu! pada umumnya menganugerahkan para pemenang kontes mapping yang berstatus re
 - ::{ flag=LY }:: [Soul Evans](https://osu.ppy.sh/users/4490770)
 - ::{ flag=BE }:: [Sylas](https://osu.ppy.sh/users/3906405)
 - ::{ flag=KR }:: [Taeyang](https://osu.ppy.sh/users/2732340)
+- ::{ flag=US }:: [Toaph Daddy](https://osu.ppy.sh/users/7616811)
+- ::{ flag=CN }:: [TtmnZk](https://osu.ppy.sh/users/2495509)
+- ::{ flag=CN }:: [yf\_bmp](https://osu.ppy.sh/users/1243669)
+- ::{ flag=CN }:: [Yugu](https://osu.ppy.sh/users/3161834)
 - ::{ flag=RU }:: [xbopost](https://osu.ppy.sh/users/6842421)
 - ::{ flag=SE }:: [Xgor](https://osu.ppy.sh/users/98661)
 - ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768)
@@ -232,7 +234,7 @@ osu! menganugerahkan gelar **Featured Artist** kepada para [Featured Artist](/wi
 | ::{ flag=JP }:: [DJ Raisei](https://osu.ppy.sh/users/9892920) | [DJ Raisei](https://osu.ppy.sh/beatmaps/artists/204) |
 | ::{ flag=US }:: [erikmcclure](https://osu.ppy.sh/users/19898921) | [Erik McClure](https://osu.ppy.sh/beatmaps/artists/125) |
 | ::{ flag=NL }:: [happy30](https://osu.ppy.sh/users/27767) | [happy30](https://osu.ppy.sh/beatmaps/artists/317) |
-| ::{ flag=SE }:: [Helblinde](https://osu.ppy.sh/users/48053) | [Helblinde](https://osu.ppy.sh/beatmaps/artists/5), [Fractal Dreamers](https://osu.ppy.sh/beatmaps/artists/15) (anggota) |
+| ::{ flag=SE }:: [Helblinde](https://osu.ppy.sh/users/48053) | [Helblinde](https://osu.ppy.sh/beatmaps/artists/5), [Fractal Dreamers](https://osu.ppy.sh/beatmaps/artists/15) (anggota dari) |
 | ::{ flag=JP }:: [II-L](https://osu.ppy.sh/users/15223576) | [II-L](https://osu.ppy.sh/beatmaps/artists/172) |
 | ::{ flag=JP }:: [kanki2](https://osu.ppy.sh/users/9595391) | [Lime / Kankitsu](https://osu.ppy.sh/beatmaps/artists/116) |
 | ::{ flag=DE }:: [KIRA_old_1](https://osu.ppy.sh/users/2138310) | [KIRA](https://osu.ppy.sh/beatmaps/artists/27) |
@@ -255,7 +257,7 @@ osu! menganugerahkan gelar **Featured Artist** kepada para [Featured Artist](/wi
 | ::{ flag=KR }:: [thenewlimee](https://osu.ppy.sh/users/7802935) | [Raimukun](https://osu.ppy.sh/beatmaps/artists/247) |
 | ::{ flag=RU }:: [tieff](https://osu.ppy.sh/users/89619) | [tieff](https://osu.ppy.sh/beatmaps/artists/34) |
 | ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) | [VINXIS](https://osu.ppy.sh/beatmaps/artists/22) |
-| ::{ flag=JP }:: [xorsizer](https://osu.ppy.sh/users/20466752) | [Symholic](https://osu.ppy.sh/beatmaps/artists/130) (anggota) |
+| ::{ flag=JP }:: [xorsizer](https://osu.ppy.sh/users/20466752) | [Symholic](https://osu.ppy.sh/beatmaps/artists/130) (anggota dari) |
 | ::{ flag=TH }:: [YuugenP](https://osu.ppy.sh/users/2014016) | [rN](https://osu.ppy.sh/beatmaps/artists/190) |
 | ::{ flag=US }:: [Zenpakuwu](https://osu.ppy.sh/users/13226945) | [Zenpaku](https://osu.ppy.sh/beatmaps/artists/190) |
 
@@ -282,10 +284,14 @@ osu! menganugerahkan gelar **Elite Storyboarder** kepada para pembuat storyboard
 
 - ::{ flag=DK }:: [-Tochi](https://osu.ppy.sh/users/3664366)
 - ::{ flag=US }:: [11t](https://osu.ppy.sh/users/2112092)
+- ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552)
 - ::{ flag=FR }:: [Damnae](https://osu.ppy.sh/users/989377)
 - ::{ flag=PL }:: [Exile-](https://osu.ppy.sh/users/2559349)
 - ::{ flag=RU }:: [Shmiklak](https://osu.ppy.sh/users/5504231)
-- ::{ flag=CN }:: [yf_bmp](https://osu.ppy.sh/users/1243669)
+- ::{ flag=RU }:: [Tommy Phelps](https://osu.ppy.sh/users/10974581)
+- ::{ flag=DZ }:: [VenerableNyanta](https://osu.ppy.sh/users/12243368)
+- ::{ flag=CN }:: [yf_bmp](https://osu.ppy.sh/users/1243669)[^yf-note]
+- ::{ flag=CN }:: [Yumeno Himiko](https://osu.ppy.sh/users/1806962)
 
 ## Terkait dengan permainan
 
@@ -318,6 +324,7 @@ Para pengguna berikut memperoleh gelarnya masing-masing atas kontribusi mereka y
 | ::{ flag=US }:: [nuudles](https://osu.ppy.sh/users/21312) | iPhone Dev |
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | osu!taiko Paragon |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | osu! Paragon |
+| ::{ flag=SE }:: [PuffBuck](https://osu.ppy.sh/users/4234525) | Always Watching |
 | ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter |
 | ::{ flag=SG }:: [Shoegazer](https://osu.ppy.sh/users/2520707) | osu!mania Paragon |
 | ::{ flag=NL }:: [statementreply](https://osu.ppy.sh/users/126198) | Pro Tester |
@@ -340,3 +347,4 @@ Para pengguna berikut memperoleh gelarnya masing-masing atas berbagai alasan yan
 [^mao-note]: ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515) saat ini menyandang gelar **Elite Mapper II** atas keberhasilannya dalam meraih gelar Elite Mapper pada dua kontes mapping yang berbeda, yakni [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) dan [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest).
 [^charles445-note]: ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000) saat ini menyandang gelar **Elite Mapper II: Aspirant** atas keberhasilannya dalam menjuarai [Monthly Beatmapping Contest #1](https://osu.ppy.sh/home/news/2013-10-20-monthly-beatmapping-contest-1-results) dan [Monthly Beatmapping Contest: Aspire (2014)](https://osu.ppy.sh/home/news/2014-11-13-monthly-beatmapping-contest-aspire-results) secara bersamaan.
 [^billiummoto-note]: ::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471) saat ini menyandang gelar **osu!mixer II** atas keberhasilannya dalam menjuarai dua kontes osu!remix yang berbeda, yakni [osu!remix contest #1](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results) dan [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest).
+[^yf-note]: ::{ flag=CN }:: [yf_bmp](https://osu.ppy.sh/users/1243669) saat ini menyandang gelar **Elite Storyboarder II** atas keberhasilannya karena ia telah [menyandang gelar sebelumnya](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020) atas kontribusi yang luar biasa pada bidang storyboarding dan menjuarai [triangles Beatmapping Contest](/wiki/Contests/triangles_Beatmapping_Contest).
