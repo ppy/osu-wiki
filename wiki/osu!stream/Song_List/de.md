@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 64371c026467a1a6f68b477c908674ffe23da6e2
----
-
 # Songliste von osu!stream
 
 *Für Informationen über das Hauptspiel, siehe: [osu!stream](/wiki/osu!stream)*
@@ -39,7 +34,7 @@ Siehe auch:
 
 Preis: **Kostenlos**
 
-Dieses Songpaket enthält zwei Songs von haru☆ und Garbled Waves.
+Dieses Songpaket enthält zwei Songs.
 
 | Song | Mapper | Schwierigkeitsgrad |
 | :-- | :-- | :-- |
@@ -69,7 +64,7 @@ Siehe auch:
 
 Preis: **Kostenlos**
 
-Dieses Songpaket enthält zwei Songs von Bomb Boy und daniwellP.
+Dieses Songpaket enthält zwei Songs.
 
 | Song | Mapper | Schwierigkeitsgrad |
 | :-- | :-- | :-- |
@@ -120,7 +115,7 @@ Siehe auch:
 
 Preis: **Kostenlos** / **USD$2.99** (vor dem [2020-Update](https://news.osustream.com/post/611013728007274496/osustream-2020-release))
 
-Dieses Songpaket enthält vier Songs, die von dem unabhängigen Plattenlabel Tsundere Recordings bereitgestellt wurden.
+Dieses Songpaket enthält vier Songs, die von dem Plattenlabel Tsundere Recordings bereitgestellt wurden.
 
 | Song | Mapper | Schwierigkeitsgrad |
 | :-- | :-- | :-- |
@@ -137,7 +132,7 @@ Siehe auch:
 
 Preis: **Kostenlos** / **USD$0.99** (vor dem [2020-Update](https://news.osustream.com/post/611013728007274496/osustream-2020-release))
 
-Dieses Songpaket enthält vier elektronisch orientierte Songs von verschiedenen Künstlern aus aller Welt.
+Dieses Songpaket enthält vier elektronisch orientierte Songs von ausgewählten unabhängigen Musikern.
 
 | Song | Mapper | Schwierigkeitsgrad |
 | :-- | :-- | :-- |
@@ -207,16 +202,16 @@ Siehe auch:
 
 Preis: **Kostenlos** / **USD$1.99** (vor dem [Update v1.1](https://news.osustream.com/post/10624373514/osustream-v11-release))
 
-Dieses Songpaket enthält vier Songs/Arrangements von originalen Kompositionen des Touhou Projects von verschiedenen Musikern aus aller Welt.
+Dieses Songpaket enthält vier originale Arrangements von Songs des Touhou Projects von verschiedenen Musikern aus aller Welt.
 
 Ursprünglich war dieses Songpaket im Hauptspiel mit einer Preisangabe von USD$1.99 enthalten. Da es jedoch rechtliche Bedenken durch die Verbreitung von Eigentum, welches in Verbindung mit dem Touhou Project stand, im App-Store als kostenpflichtiger Inhalt gab, wurde dieses Songpaket später im [Update v1.1](https://news.osustream.com/post/10624373514/osustream-v11-release) entfernt. Dieses Songpaket wurde erneut als kostenloser Inhalt im [2020-Update](https://news.osustream.com/post/611013728007274496/osustream-2020-release) veröffentlicht.
 
 | Song | Mapper | Schwierigkeitsgrad |
 | :-- | :-- | :-- |
-| Amane - Eternal Fullmoon | *unbekannt* | *unbekannt* |
-| Amane - Snow, White, Echo | ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | *unbekannt* |
-| sou1 - The Maid's Blood and the Pocket Watch | ::{ flag=TW }:: [Alace](https://osu.ppy.sh/users/25993) | *unbekannt* |
-| Lix - Phantom Ensemble -Ark Trance mix- | ::{ flag=PH }:: [James](https://osu.ppy.sh/users/5728) | *unbekannt* |
+| Amane - Eternal Fullmoon | ::{ flag=PH }:: [James](https://osu.ppy.sh/users/5728) | ![0/10](img/dif0.png "0/10") |
+| Amane - Snow, White, Echo | ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | ![0/10](img/dif0.png "0/10") |
+| sou1 - The Maid's Blood and the Pocket Watch | ::{ flag=TW }:: [Alace](https://osu.ppy.sh/users/25993) | ![4/10](img/dif4.png "4/10") |
+| Lix - Phantom Ensemble -Ark Trance mix- | ::{ flag=PH }:: [James](https://osu.ppy.sh/users/5728) | ![4/10](img/dif4.png "4/10") |
 
 Siehe auch:
 
@@ -228,16 +223,16 @@ Siehe auch:
 
 Preis: **Kostenlos** / **USD$1.99** (vor dem [Update v1.1](https://news.osustream.com/post/10624373514/osustream-v11-release))
 
-Dieses Songpaket enthält vier Songs/Arrangements von originalen Kompositionen des Touhou Projects von verschiedenen Musikern aus aller Welt.
+Dieses Songpaket enthält vier originale Arrangements von Songs des Touhou Projects von verschiedenen Musikern aus aller Welt.
 
 Ursprünglich war dieses Songpaket im Hauptspiel mit einer Preisangabe von USD$1.99 enthalten. Da es jedoch rechtliche Bedenken durch die Verbreitung von Eigentum, welches in Verbindung mit dem Touhou Project stand, im App-Store als kostenpflichtiger Inhalt gab, wurde dieses Songpaket später im [Update v1.1](https://news.osustream.com/post/10624373514/osustream-v11-release) entfernt. Dieses Songpaket wurde erneut als kostenloser Inhalt im [2020-Update](https://news.osustream.com/post/611013728007274496/osustream-2020-release) veröffentlicht.
 
 | Song | Mapper | Schwierigkeitsgrad |
 | :-- | :-- | :-- |
-| Lix - Electro Magnetic Pulse | *unbekannt* | *unbekannt* |
-| haru☆ - Septette for the Dead Princess | ::{ flag=US }:: [Lybydose](https://osu.ppy.sh/users/64501) | *unbekannt* |
-| Amane - BOOZEHOUND (DJ mix) | ::{ flag=FR }:: [Sushi](https://osu.ppy.sh/users/43108) | *unbekannt* |
-| Amane - Being Proof | ::{ flag=PH }:: [James](https://osu.ppy.sh/users/5728) | *unbekannt* |
+| Lix - Electro Magnetic Pulse | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | ![3/10](img/dif3.png "3/10") |
+| haru☆ - Septette for the Dead Princess | ::{ flag=US }:: [Lybydose](https://osu.ppy.sh/users/64501) | ![4/10](img/dif4.png "4/10") |
+| Amane - BOOZEHOUND (DJ mix) | ::{ flag=FR }:: [Sushi](https://osu.ppy.sh/users/43108) | ![2/10](img/dif2.png "2/10") |
+| Amane - Being Proof | ::{ flag=PH }:: [James](https://osu.ppy.sh/users/5728) | ![3/10](img/dif3.png "3/10") |
 
 Siehe auch:
 

@@ -18,9 +18,10 @@ La **Global Moderation Team** (anciennement appelée Global Mod Team, Administra
 
 **Tous les Global Moderators sont tenus de respecter le [Code de conduite Contributor Covenant](/wiki/Contributor_Code_of_Conduct) en plus des [règles de la communauté](/wiki/Rules) normales.**
 
+***Remarque : pour signaler qu'un modérateur s'est mal comporté ou a enfreint le code de conduite des contributeurs, contactez l'[équipe de support aux comptes](/wiki/People/The_Team/Account_support_team#support@ppy.sh).***
+
 ## Rôles et responsabilités
 
-***Remarque : pour signaler qu'un modérateur s'est mal comporté ou a enfreint le code de conduite des contributeurs, contactez l'[équipe de support aux comptes](/wiki/People/The_Team/Account_support_team#support@ppy.sh).***\
 *Voir aussi : [Signaler un mauvais comportement](/wiki/Reporting_bad_behaviour)*
 
 La Global Moderation Team est responsable du bien-être du tchat et du forum, et s'occupe des interactions au sein de la communauté. Vous pouvez la solliciter pour toute question relative à la modération du jeu, ce qui inclut (mais ne se limite pas à) :
