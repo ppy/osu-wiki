@@ -14,9 +14,10 @@ tags:
 
 **Seluruh anggota Global Moderator telah disumpah untuk menjunjung tinggi [Kode Etik Kontributor](/wiki/Contributor_Code_of_Conduct) di samping [Peraturan Komunitas](/wiki/Rules) yang berlaku.**
 
+***Catatan: Untuk melaporkan moderator yang berperilaku buruk atau melanggar Kode Etik Kontributor, silakan hubungi [account support team](/wiki/People/The_Team/Account_support_team#support@ppy.sh).***
+
 ## Peran dan tanggung jawab
 
-***Catatan: Untuk melaporkan moderator yang berperilaku buruk atau melanggar Kode Etik Kontributor, silakan hubungi [account support team](/wiki/People/The_Team/Account_support_team#support@ppy.sh).***\
 *Lihat juga: [Melaporkan perbuatan yang tidak pantas](/wiki/Reporting_bad_behaviour).*
 
 Global Moderation Team bertanggung jawab atas ketentraman obrolan dan forum serta interaksi di dalam komunitas. Mereka dapat kamu rujuk apabila kamu memiliki pertanyaan atau laporan yang berkaitan dengan aspek moderasi permainan, yang mencakup (namun tidak terbatas pada):

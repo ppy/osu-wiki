@@ -196,6 +196,12 @@ Ces chansons font partie du [osu! James Landino Collection EP](https://fanlink.t
 | :-: | :-: | :-- |
 | [aa...hisuichazuke... - steganography](https://www.youtube.com/watch?v=CRD-2sk6Zt8)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1846639) | Tiebreaker des Grandes Finales |
 
+#### ![](/wiki/shared/mode/mania.png) [osu!mania 7K World Cup 2023](/wiki/Tournaments/MWC/2023_7K)
+
+| Musique | Beatmap | Notes |
+| :-: | :-: | :-- |
+| Toromaru - Uncharted Sky[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1931471) | RC6 des demi-finales |
+
 ### Sorties des tournois gérés par la communauté
 
 #### ![](/wiki/shared/mode/mania.png) [4 Digit osu!mania World Cup 4](/wiki/Tournaments/4DM/4)
