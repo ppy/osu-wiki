@@ -237,6 +237,7 @@ Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masin
 | :-- | :-- |
 | ::{ flag=KR }:: [Aruel](https://osu.ppy.sh/users/3984370) | Korea |
 | ::{ flag=CN }:: [AWMRone](https://osu.ppy.sh/users/10351684) | Tionghoa |
+
 ## Sejarah
 
 - Beatmap Nominator pada awalnya dikenal dengan nama *Beatmap Appreciation Team* (BAT).

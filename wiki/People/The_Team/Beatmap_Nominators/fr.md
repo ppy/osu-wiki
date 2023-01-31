@@ -235,6 +235,7 @@ Les listes ci-dessous indiquent dans quel(s) mode(s) de jeu chaque Beatmap Nomin
 | :-- | :-- |
 | ::{ flag=KR }:: [Aruel](https://osu.ppy.sh/users/3984370) | Coréen |
 | ::{ flag=CN }:: [AWMRone](https://osu.ppy.sh/users/10351684) | Chinois |
+
 ## Historique
 
 - Les Beatmap Nominators s'appelaient autrefois la [Beatmap Appreciation Team](/wiki/Modding/Beatmap_Appreciation_Team) (BAT).

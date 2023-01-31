@@ -237,6 +237,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | :-- | :-- |
 | ::{ flag=KR }:: [Aruel](https://osu.ppy.sh/users/3984370) | Coreano |
 | ::{ flag=CN }:: [AWMRone](https://osu.ppy.sh/users/10351684) | Chinês |
+
 ## History
 
 - Os Nomeadores de Beatmap eram conhecidos anteriormente como os *Beatmap Appreciation Team* (BAT).

@@ -236,6 +236,7 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 | :-- | :-- |
 | ::{ flag=KR }:: [Aruel](https://osu.ppy.sh/users/3984370) | 韩语 |
 | ::{ flag=CN }:: [AWMRone](https://osu.ppy.sh/users/10351684) | 汉语 |
+
 ## 历史
 
 - BN 的前身叫做[谱面评估团队 (BAT)](/wiki/Modding/Beatmap_Appreciation_Team)。

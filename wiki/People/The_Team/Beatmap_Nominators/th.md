@@ -237,6 +237,7 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | :-- | :-- |
 | ::{ flag=KR }:: [Aruel](https://osu.ppy.sh/users/3984370) | เกาหลี |
 | ::{ flag=CN }:: [AWMRone](https://osu.ppy.sh/users/10351684) | จีน |
+
 ## ประวัติ
 
 - Beatmap Nominators ได้ถูกเรียกในอดีตว่า *Beatmap Appreciation Team* (BAT)

@@ -237,6 +237,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | :-- | :-- |
 | ::{ flag=KR }:: [Aruel](https://osu.ppy.sh/users/3984370) | Korece |
 | ::{ flag=CN }:: [AWMRone](https://osu.ppy.sh/users/10351684) | Çince |
+
 ## Tarihçe
 
 - Beatmap Aday Göstericiler eskiden *Beatmap Değerlendirme Takımı (Beatmap Appreciation Team)* (BAT) olarak adlandırılırdı.

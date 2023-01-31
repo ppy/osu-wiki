@@ -236,6 +236,7 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | :-- | :-- |
 | ::{ flag=KR }:: [Aruel](https://osu.ppy.sh/users/3984370) | Coreano |
 | ::{ flag=CN }:: [AWMRone](https://osu.ppy.sh/users/10351684) | Chino |
+
 ## Historia
 
 - Los Beatmap Nominators fueron previamente llamados los [Beatmap Appreciation Team](/wiki/Modding/Beatmap_Appreciation_Team) (BAT).

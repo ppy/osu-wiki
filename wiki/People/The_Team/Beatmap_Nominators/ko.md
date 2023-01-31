@@ -237,6 +237,7 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 | :-- | :-- |
 | ::{ flag=KR }:: [Aruel](https://osu.ppy.sh/users/3984370) | 한국어 |
 | ::{ flag=CN }:: [AWMRone](https://osu.ppy.sh/users/10351684) | 중국어 |
+
 ## 역사
 
 - BN은 예전에 *비트맵 평가 팀* (Beatmap Appreciation Team, BAT)으로 불렸습니다.

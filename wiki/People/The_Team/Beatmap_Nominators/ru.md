@@ -237,6 +237,7 @@ tags:
 | :-- | :-- |
 | ::{ flag=KR }:: [Aruel](https://osu.ppy.sh/users/3984370) | Корейский |
 | ::{ flag=CN }:: [AWMRone](https://osu.ppy.sh/users/10351684) | Китайский |
+
 ## История
 
 - Изначально команда, ранкающая карты, называлась [Beatmap Appreciation Team](/wiki/Modding/Beatmap_Appreciation_Team) (команда оценки карт).

@@ -237,6 +237,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | :-- | :-- |
 | ::{ flag=KR }:: [Aruel](https://osu.ppy.sh/users/3984370) | Korean |
 | ::{ flag=CN }:: [AWMRone](https://osu.ppy.sh/users/10351684) | Chinese |
+
 ## History
 
 - The Beatmap Nominators were previously called the [Beatmap Appreciation Team](/wiki/Modding/Beatmap_Appreciation_Team) (BAT).
