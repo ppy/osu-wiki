@@ -16,9 +16,10 @@ tags:
 
 **全局管理团队的所有成员，都应宣誓和遵守[贡献者公约](/wiki/Contributor_Code_of_Conduct)以及[普通的社区规则](/wiki/Rules)。**
 
+***注意：如果发现全局管理团队 (GMT) 成员有违反贡献者公约或其他不良行为，请联系[账号支持团队](/wiki/People/The_Team/Account_support_team#support@ppy.sh)并举报。***
+
 ## 角色和职责
 
-***注意：如果发现全局管理团队 (GMT) 成员有违反贡献者公约或其他不良行为，请联系[账号支持团队](/wiki/People/The_Team/Account_support_team#support@ppy.sh)并举报。***\
 *参见：[举报不良行为](/wiki/Reporting_bad_behaviour)*
 
 全局管理团队 (GMT) 成员负责保证聊天和论坛和谐发展，确保社区内有一个正常的交流环境。其他玩家可以向他们举报与游戏管理有关的任何问题，包括但不限于：
