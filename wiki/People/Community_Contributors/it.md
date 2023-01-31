@@ -65,7 +65,7 @@ Gli utenti attuali che hanno questo badge sono inseriti in questa tabella:
 
 | Utente | Contributi |
 | :-- | :-- |
-| ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000) | Anni di sostegno e miglioramento della qualità del mapping, fornendo assistenza in molte occasioni per aiutare a risolvere vari problemi della comunità.  |
+| ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000) | Anni di sostegno e miglioramento della qualità del mapping, fornendo assistenza in molte occasioni per aiutare a risolvere vari problemi della comunità. |
 
 ### Novembre
 
@@ -161,7 +161,7 @@ Gli utenti attuali che hanno questo badge sono inseriti in questa tabella:
 | ::{ flag=US }:: [Chaos](https://osu.ppy.sh/users/2628870) | Eccezionali contributi al Global Moderation Team |
 | ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | Eccezionali contributi al progetto Mentorship |
 | ::{ flag=CL }:: [Uberzolik](https://osu.ppy.sh/users/1314547) | Eccezionali contributi al progetto Mentorship |
-| ::{ flag=SE }:: [PuffBuck](https://osu.ppy.sh/users/4234525) | Eccezionali contributi alla moderazione e organizzazione della World Cup  |
+| ::{ flag=SE }:: [PuffBuck](https://osu.ppy.sh/users/4234525) | Eccezionali contributi alla moderazione e organizzazione della World Cup |
 | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983) | Eccezionali, costanti contributi alla comunità di osu in generale |
 | ::{ flag=AT }:: [Omgforz](https://osu.ppy.sh/users/578943) | Eccezionali contributi alla osu! World Cup |
 | ::{ flag=AU }:: [Kano](https://osu.ppy.sh/users/3036203) | Eccezionali contributi alla osu! World Cup |
