@@ -60,7 +60,7 @@ These rules only apply to the **beatmapping phase**. The storyboarding phase wil
 - **Submissions must not be Qualified until after the community vote ends.**
 - **Each team cannot create more than one submission.**
 
-After you've read these rules found your mapping partner, **submit your team name and member list to [this form](https://docs.google.com/forms/d/e/1FAIpQLScZjjjyIwR_5phQeu5YhFIcMAm1Psu3vA89GhhJjxA8DuELnQ/viewform?fbzx=-2909660251574194870).**  Once confirmed, your team will be published on the [**Twin Trials** contest wiki page](/wiki/Contests/Twin_Trials_Contest)!
+After you've read these rules found your mapping partner, **submit your team name and member list to [this form](https://docs.google.com/forms/d/e/1FAIpQLScZjjjyIwR_5phQeu5YhFIcMAm1Psu3vA89GhhJjxA8DuELnQ/viewform?fbzx=-2909660251574194870).** Once confirmed, your team will be published on the [**Twin Trials** contest wiki page](/wiki/Contests/Twin_Trials_Contest)!
 
 ## Songs
 
@@ -120,7 +120,7 @@ The beatmapping phase of this contest is essentially four simultaneously running
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter, [*Elite Mapper* contest points](/wiki/Contests/Contest_points) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter, [*Elite Mapper* contest points](/wiki/Contests/Contest_points) |
 
-As mentioned earlier, the winning beatmap (from the game mode with the highest submission count) will be used as the base for the **storyboarding phase.** If the winning mappers and storyboarders agree to combine their creations, their collaboration will be **bundled with new installations of osu!(lazer).**
+As mentioned earlier, the winning beatmap (from the game mode with the highest submission count) will be used as the base for the **storyboarding phase**. If the winning mappers and storyboarders agree to combine their creations, their collaboration will be **bundled with new installations of osu!(lazer)**.
 
 ### Community Vote
 
@@ -147,7 +147,7 @@ Once your beatmap is ready, head to the contest listing for the mode you'd dedic
 - [osu!catch](https://osu.ppy.sh/community/contests/168)
 - [osu!mania](https://osu.ppy.sh/community/contests/169)
 
-For the most up to date info about the contest (including teams and contest status), keep the [**Twin Trials** contest wiki page](/wiki/Contests/Twin_Trials_Contest) bookmarked!
+For the most up-to-date info about the contest (including teams and contest status), keep the [**Twin Trials** contest wiki page](/wiki/Contests/Twin_Trials_Contest) bookmarked!
 
 Find your partner and get started already. The next generation is waiting for you.
 
