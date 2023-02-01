@@ -67,6 +67,16 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 | [James Landino - Shiba Island](https://osu.ppy.sh/beatmaps/artists/tracks?artist=James%20Landino&query=Shiba%Island) |
 | [James Landino - Spellbound](https://osu.ppy.sh/beatmaps/artists/tracks?artist=James%20Landino&query=Spellbound) |
 
+These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-trials-contest-beatmapping-phase) as part of the [Twin Trials Contest](/wiki/Contests/Twin_Trials_Contest).
+
+| Song |
+| :-: |
+| [James Landino - Anti Hero](https://osu.ppy.sh/beatmaps/artists/tracks?artist=James%20Landino&is_default_sort=true&query=%22Anti%20Hero%22) |
+| [James Landino - Arsene's Bazaar](https://osu.ppy.sh/beatmaps/artists/tracks?artist=James%20Landino&is_default_sort=true&query=%22Arsene%27s%20Bazaar%22) |
+| [James Landino - Dreaming (with Funk Fiction & Andy Studer)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=James%20Landino&is_default_sort=true&query=%22Dreaming%20(with%20Funk%20Fiction%20%26%20Andy%20Studer)%22) |
+| [James Landino - RUN2ME](https://osu.ppy.sh/beatmaps/artists/tracks?artist=James%20Landino&is_default_sort=true&query=%22RUN2ME%22) |
+| [James Landino - Shiba Paradise](https://osu.ppy.sh/beatmaps/artists/tracks?artist=James%20Landino&is_default_sort=true&query=%22Shiba%20Paradise%22) |
+
 #### [kiraku](https://osu.ppy.sh/beatmaps/artists/101)
 
 *For the announcement news post, see: [New Featured Artist: kiraku](https://osu.ppy.sh/home/news/2020-09-26-new-featured-artist-kiraku)*
@@ -194,6 +204,12 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 | Song | Beatmap | Notes |
 | :-: | :-: | :-- |
 | [aa...hisuichazuke... - steganography](https://www.youtube.com/watch?v=CRD-2sk6Zt8)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1846639) | Grand Finals tiebreaker |
+
+#### ![](/wiki/shared/mode/mania.png) [osu!mania 7K World Cup 2023](/wiki/Tournaments/MWC/2023_7K)
+
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| Toromaru - Uncharted Sky[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1931471) | Semifinals RC6 |
 
 ### Community-run tournament releases
 
@@ -532,6 +548,12 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 | Song | Beatmap |
 | :-: | :-: |
 | Apollo - SCUNTHORPE | [#1](https://osu.ppy.sh/beatmapsets/1677078) |
+| [Clemaister - Celestial](https://soundcloud.com/clemaister/celestial) | [#1](https://osu.ppy.sh/beatmapsets/19931) |
+| [Clemaister - Chip Layer](https://soundcloud.com/clemaister/chip-layer) | [#1](https://osu.ppy.sh/beatmapsets/28775) |
+| [Clemaister - Classic Style](https://soundcloud.com/clemaister/classic-style) | [#1](https://osu.ppy.sh/beatmapsets/18920) |
+| [Clemaister - Getting up](https://soundcloud.com/clemaister/getting-up) | [#1](https://osu.ppy.sh/beatmapsets/20130) |
+| Clemaister - New Story | [#1](https://osu.ppy.sh/beatmapsets/19902) |
+| [Clemaister (ft. Kamoflage) - Rewind](https://soundcloud.com/clemaister/rewind) | [#1](https://osu.ppy.sh/beatmapsets/18920) |
 | [cygnus - Psycho Gene](http://cygnus7.bandcamp.com/track/pyscho-gene) | [#1](https://osu.ppy.sh/beatmapsets/1884657) |
 | Danzai - Error 001 | [#1](https://osu.ppy.sh/beatmapsets/20359) |
 | [Dictate - IMITATE](https://soundcloud.com/dictate/imitate)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1201530) |
@@ -550,6 +572,7 @@ These songs are part of the [osu! James Landino Collection EP](https://fanlink.t
 | Ketchup - ProjectUnreality | [#1](https://osu.ppy.sh/beatmapsets/9077) |
 | [Natteke ft. tieff - Endless Tower](https://www.youtube.com/watch?v=TNAGrCBfQKc)[^fa-feature] | [#1](https://osu.ppy.sh/beatmapsets/17076) |
 | [Natteke ft. tieff - The Dream](https://www.youtube.com/watch?v=vtVT3A-ALUQ)[^fa-feature] | [#1](https://osu.ppy.sh/beatmapsets/16599#osu/59406) |
+| Nobuo Uematsu - Battle theme (Clemaister remix) | [#1](https://osu.ppy.sh/beatmapsets/18679) |
 | [osu! training man - TRAINING-1](https://www.youtube.com/watch?v=jS2r8PuyymI)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1727804) |
 | [Porter Robinson & Madeon - Shelter (happy30 Remix)](https://open.spotify.com/album/0hgYsO1FgdGq5now2QjVUn)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/527621) |
 | [Rabbit House - Muspelheim](https://soundcloud.com/dksslqj/muspelheim)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/815126) |
