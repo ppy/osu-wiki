@@ -11,16 +11,16 @@ Todos los osu! originals que han sido licenciados por el juego están autorizado
 | Canción | Notas |
 | :-: | :-- |
 | [cYsmix - triangles](https://soundcloud.com/olemlanglie/cysmix-triangles-osulazer)[^fa-catalogue] | Tema principal actual de osu!(lazer) |
-| [nekodex - aureole](https://soundcloud.com/nekodex/aureole)[^fa-catalogue] | Tema de osu! para Navidad/Invierno 2017 |
+| [nekodex - aureole](https://soundcloud.com/nekodex/aureole)[^fa-catalogue] | Tema de osu! para Navidad/invierno 2017 |
 | [nekodex - circles!](https://soundcloud.com/nekodex/circles)[^fa-catalogue] | Tema de osu! de 2015 |
-| [nekodex - carol of the circles](https://soundcloud.com/nekodex/carol-of-the-circles)[^fa-catalogue] | Tema de osu! para Navidad/Invierno 2019 |
-| [nekodex - Little Drummer Girl](https://soundcloud.com/nekodex/carol-of-the-circles)[^fa-catalogue] | Tema de osu! para Navidad/Invierno 2020 |
+| [nekodex - carol of the circles](https://soundcloud.com/nekodex/carol-of-the-circles)[^fa-catalogue] | Tema de osu! para Navidad/invierno 2019 |
+| [nekodex - Little Drummer Girl](https://soundcloud.com/nekodex/carol-of-the-circles)[^fa-catalogue] | Tema de osu! para Navidad/invierno 2020 |
 | [nekodex - Liquid Future](https://soundcloud.com/nekodex/liquid-future)[^fa-catalogue] | Composición original para [osu!stream](/wiki/osu!stream) |
 | [nekodex - new beginnings](https://osu.ppy.sh/beatmapsets/1011011) | Canción actual del tutorial |
 | [nekodex - osu!stream theme](https://soundcloud.com/nekodex/osu-stream-theme) | Tema principal de [osu!stream](/wiki/osu!stream) |
 | [nekodex - welcome to christmas!](https://soundcloud.com/nekodex/welcome-to-christmas)[^fa-catalogue] | Tema principal de [osu!stream](/wiki/osu!stream) |
 | [nekodex - welcome to osu!](https://soundcloud.com/nekodex/welcome-to-osu) | Antiguo tema de osu! |
-| [Peter Lambert - osu! tutorial](https://osu.ppy.sh/beatmapsets/3756) | Antigua canción de tutorial |
+| [Peter Lambert - osu! tutorial](https://osu.ppy.sh/beatmapsets/3756) | Antigua canción del tutorial |
 
 ### Lanzamientos exclusivos de artistas destacados
 
