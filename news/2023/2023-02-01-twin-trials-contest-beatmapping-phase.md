@@ -64,7 +64,7 @@ After you've read these rules found your mapping partner, **submit your team nam
 
 ## Songs
 
-Over the few months, [James Landino](https://osu.ppy.sh/beatmaps/artists/39) spent his time crafting a new set of awesome tunes spanning the genre spectrum, all specifically designed for osu! beatmaps.
+Over the last few months, [James Landino](https://osu.ppy.sh/beatmaps/artists/39) spent his time crafting a new set of awesome tunes spanning the genre spectrum, all specifically designed for osu! beatmaps.
 
 Pick any of these as the canvas for your new-age classic:
 
