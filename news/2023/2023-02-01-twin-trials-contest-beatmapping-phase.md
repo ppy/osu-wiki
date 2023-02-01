@@ -6,7 +6,7 @@ date: 2023-02-01 09:00:00 +0000
 
 Craving to prove your unmatched beatmapping prowess? This multi-phase contest is open to all game modes, so it might be exactly what you're looking for!
 
-![](/wiki/shared/news/2023-02-01-twin-trials-contest-beatmapping-phase/twin_trials.png)
+![](https://assets.ppy.sh/contests/166/header.jpg)
 
 How do you define a *classic beatmap*?
 

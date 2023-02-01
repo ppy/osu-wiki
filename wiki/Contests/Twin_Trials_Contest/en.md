@@ -1,6 +1,6 @@
 # Twin Trials Contest
 
-![](/wiki/shared/news/2023-02-01-twin-trials-contest-beatmapping-phase/twin_trials.png)
+![](https://assets.ppy.sh/contests/166/header.jpg)
 
 **Twin Trials** is a beatmapping and storyboarding contest highlighting 5 custom-made tracks by [Featured Artist](wiki/Featured_Artists) [*James Landino*](https://osu.ppy.sh/beatmaps/artists/39).
 
