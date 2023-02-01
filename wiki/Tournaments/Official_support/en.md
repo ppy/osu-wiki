@@ -73,6 +73,7 @@ In addition, all promotional material or any services associated with a tourname
   - This includes preventing users who are perceived to be "sandbagging" from play. Should an organiser have valid concerns about the presence of such players affecting the competitive integrity of their tournament, they may raise the issue to the [Tournament Committee](/wiki/People/Tournament_Committee) for a case-by-case review using the [tournament reports form](https://pif.ephemeral.ink/tournament-reports).
 - A dedicated referee must be present during every match. Players cannot "self-ref".
   - The use of bots is allowed on qualifier stage matches, provided that it is supervised by a staff member.
+- Asynchronous matches are not allowed under any circumstances. All participating teams must be present at the scheduled match time.
 - All multiplayer matches relevant to the tournament must be created with the `!mp make` command, so that they do not expire. The results must be recorded and made publicly available on the original tournament forum post in a clear and accessible format.
 
 Once the tournament has concluded, the tournament organisers will need to submit the following to the account support team:
