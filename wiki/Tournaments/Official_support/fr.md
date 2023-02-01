@@ -4,7 +4,7 @@ tags:
   - badges
   - badged
 outdated_translation: true
-outdated_since: d741631f9ac3b2376d85e380e4d1d8a82cca28e5
+outdate_since: 936ee8446406b7b2340514ada4970f608c31908a
 ---
 
 # Support officiel aux tournois
