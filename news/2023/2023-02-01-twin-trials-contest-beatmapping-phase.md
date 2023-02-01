@@ -33,7 +33,7 @@ This contest is split into **two phases**: *beatmapping* and *storyboarding*.
 | Event | Timestamp |
 | --: | :-- |
 | Announcement | 2023-02-01 |
-| Submission | 2022-02-01 to 2023-03-15 |
+| Submission | 2023-02-01 to 2023-03-15 |
 | Judging | 2023-03-15 to 2023-04-05 |
 | Community vote and lazer playlists | 2023-04-10 to 2023-04-24 |
 | Results | 2023-05-01 |
