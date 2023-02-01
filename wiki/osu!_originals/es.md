@@ -1,9 +1,3 @@
----
-no_native_review: true
-outdated_translation: true
-outdated_since: bf9d20fcbe65f7be2d7ea7e84579e15ae593fb08
----
-
 # osu! originals
 
 Los **osu! originals** son canciones que se hicieron específicamente para (o estrenadas por primera vez en) osu! u otros eventos relacionados con osu!, como torneos, concursos y anuncios de [artistas destacados](/wiki/Featured_Artists). Si bien no todos los osu! originals tienen licencia oficial y están incluidos en la [biblioteca de artistas destacados](https://osu.ppy.sh/beatmaps/artists), las canciones que sí lo tienen se distinguen comúnmente por la etiqueta `ORIGINAL` en las páginas de sus respectivos artistas.
@@ -72,6 +66,8 @@ Estas canciones son parte de [osu! James Landino Collection EP](https://fanlink.
 | [James Landino - Reaction feat. Slyleaf](https://osu.ppy.sh/beatmaps/artists/tracks?artist=James%20Landino&query=Reaction%20feat.%20Slyleaf) |
 | [James Landino - Shiba Island](https://osu.ppy.sh/beatmaps/artists/tracks?artist=James%20Landino&query=Shiba%Island) |
 | [James Landino - Spellbound](https://osu.ppy.sh/beatmaps/artists/tracks?artist=James%20Landino&query=Spellbound) |
+
+Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-trials-contest-beatmapping-phase) más tarde como parte del [concurso Twin Trials](/wiki/Contests/Twin_Trials_Contest).
 
 | Canción |
 | :-: |
