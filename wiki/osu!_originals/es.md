@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: bf9d20fcbe65f7be2d7ea7e84579e15ae593fb08
 ---
 
 # osu! originals
@@ -70,6 +72,14 @@ Estas canciones son parte de [osu! James Landino Collection EP](https://fanlink.
 | [James Landino - Reaction feat. Slyleaf](https://osu.ppy.sh/beatmaps/artists/tracks?artist=James%20Landino&query=Reaction%20feat.%20Slyleaf) |
 | [James Landino - Shiba Island](https://osu.ppy.sh/beatmaps/artists/tracks?artist=James%20Landino&query=Shiba%Island) |
 | [James Landino - Spellbound](https://osu.ppy.sh/beatmaps/artists/tracks?artist=James%20Landino&query=Spellbound) |
+
+| Canción |
+| :-: |
+| [James Landino - Anti Hero](https://osu.ppy.sh/beatmaps/artists/tracks?artist=James%20Landino&is_default_sort=true&query=%22Anti%20Hero%22) |
+| [James Landino - Arsene's Bazaar](https://osu.ppy.sh/beatmaps/artists/tracks?artist=James%20Landino&is_default_sort=true&query=%22Arsene%27s%20Bazaar%22) |
+| [James Landino - Dreaming (with Funk Fiction & Andy Studer)](https://osu.ppy.sh/beatmaps/artists/tracks?artist=James%20Landino&is_default_sort=true&query=%22Dreaming%20(with%20Funk%20Fiction%20%26%20Andy%20Studer)%22) |
+| [James Landino - RUN2ME](https://osu.ppy.sh/beatmaps/artists/tracks?artist=James%20Landino&is_default_sort=true&query=%22RUN2ME%22) |
+| [James Landino - Shiba Paradise](https://osu.ppy.sh/beatmaps/artists/tracks?artist=James%20Landino&is_default_sort=true&query=%22Shiba%20Paradise%22) |
 
 #### [kiraku](https://osu.ppy.sh/beatmaps/artists/101)
 
@@ -198,6 +208,12 @@ Estas canciones son parte de [osu! James Landino Collection EP](https://fanlink.
 | Canción | Beatmap | Notas |
 | :-: | :-: | :-- |
 | [aa...hisuichazuke... - steganography](https://www.youtube.com/watch?v=CRD-2sk6Zt8)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1846639) | Desempate de la gran final |
+
+#### ![](/wiki/shared/mode/mania.png) [osu!mania 7K World Cup 2023](/wiki/Tournaments/MWC/2023_7K)
+
+| Canción | Beatmap | Notas |
+| :-: | :-: | :-- |
+| Toromaru - Uncharted Sky[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1931471) | Semifinales RC6 |
 
 ### Lanzamientos de torneos administrados por la comunidad
 
