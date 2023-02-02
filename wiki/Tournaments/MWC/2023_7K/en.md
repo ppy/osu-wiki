@@ -106,25 +106,25 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/c9e
 
 | Team A | Team B | Match time |  |
 | --: | :-- | :-- | :-: |
-| China ::{ flag=CN }:: | ::{ flag=ID }:: Indonesia | [Feb 4 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230204T100000&p1=1440&p2=33&p3=108) | [^losers-bracket] |
-| Japan ::{ flag=JP }:: | ::{ flag=FR }:: France | [Feb 4 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230204T120000&p1=1440&p2=248&p3=195) | [^losers-bracket] |
+| China ::{ flag=CN }:: | ::{ flag=ID }:: Indonesia | [Feb 4 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230204T120000&p1=1440&p2=33&p3=108) | [^losers-bracket] |
+| Japan ::{ flag=JP }:: | ::{ flag=FR }:: France | [Feb 4 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230204T130000&p1=1440&p2=248&p3=195) | [^losers-bracket] |
 | Brazil ::{ flag=BR }:: | ::{ flag=TH }:: Thailand | [Feb 4 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230204T150000&p1=1440&p2=45&p3=28) | [^losers-bracket] |
-| Spain ::{ flag=ES }:: | ::{ flag=CA }:: Canada | [Feb 4 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230204T170000&p1=1440&p2=141&p3=188) | [^losers-bracket] |
+| Spain ::{ flag=ES }:: | ::{ flag=CA }:: Canada | [Feb 4 (Sat) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230204T190000&p1=1440&p2=141&p3=188) | [^losers-bracket] |
 
 ### Sunday, 5 February 2023
 
 | Team A | Team B | Match time |  |
 | --: | :-- | :-- | :-: |
-| South Korea ::{ flag=KR }:: | ::{ flag=US }:: United States | [Feb 5 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230205T030000&p1=1440&p2=235&p3=263) | [^winners-bracket] |
 | Canada ::{ flag=CA }:: | ::{ flag=JP }:: Japan | [Feb 5 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230205T040000&p1=1440&p2=188&p3=248) | [^potential-match] |
-| Philippines ::{ flag=PH }:: | ::{ flag=MY }:: Malaysia | [Feb 5 (Sun) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230205T080000&p1=1440&p2=145&p3=122) | [^winners-bracket] |
+| South Korea ::{ flag=KR }:: | ::{ flag=US }:: United States | [Feb 5 (Sun) 05:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230205T050000&p1=1440&p2=235&p3=263) | [^winners-bracket] |
 | Spain ::{ flag=ES }:: | ::{ flag=JP }:: Japan | [Feb 5 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230205T100000&p1=1440&p2=141&p3=248) | [^potential-match] |
 | China ::{ flag=CN }:: | ::{ flag=TH }:: Thailand | [Feb 5 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230205T110000&p1=1440&p2=33&p3=28) | [^potential-match] |
 | Indonesia ::{ flag=ID }:: | ::{ flag=TH }:: Thailand | [Feb 5 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230205T110000&p1=1440&p2=108&p3=28) | [^potential-match] |
-| China ::{ flag=CN }:: | ::{ flag=BR }:: Brazil | [Feb 5 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230205T150000&p1=1440&p2=33&p3=45) | [^potential-match] |
+| Philippines ::{ flag=PH }:: | ::{ flag=MY }:: Malaysia | [Feb 5 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230205T120000&p1=1440&p2=145&p3=122) | [^winners-bracket] |
 | Indonesia ::{ flag=ID }:: | ::{ flag=BR }:: Brazil | [Feb 5 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230205T150000&p1=1440&p2=108&p3=45) | [^potential-match] |
-| Spain ::{ flag=ES }:: | ::{ flag=FR }:: France | [Feb 5 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230205T170000&p1=1440&p2=141&p3=195) | [^potential-match] |
+| China ::{ flag=CN }:: | ::{ flag=BR }:: Brazil | [Feb 5 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230205T160000&p1=1440&p2=33&p3=45) | [^potential-match] |
 | Canada ::{ flag=CA }:: | ::{ flag=FR }:: France | [Feb 5 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230205T170000&p1=1440&p2=188&p3=195) | [^potential-match] |
+| Spain ::{ flag=ES }:: | ::{ flag=FR }:: France | [Feb 5 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230205T180000&p1=1440&p2=141&p3=195) | [^potential-match] |
 
 ## Mappools
 
