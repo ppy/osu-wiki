@@ -30,7 +30,7 @@ Community-run tournaments which abide by the following hard criteria are eligibl
 - Staff members must not participate in the tournament themselves at any point, and players are unable to later assist as staff either. For our definition on "staff", please refer to the [FAQ](#what-is-considered-staff).
 - The forum thread for the tournament **MUST** contain a clearly visible link in a normal-sized font to the [tournament reports form](https://pif.ephemeral.ink/tournament-reports) as the very last content of the original post.
   - `https://pif.ephemeral.ink/tournament-reports`
-  - This report form is overseen by the [Tournament Committee](/wiki/People/Tournament_Committee). We encourage all users — players and staff alike — to make use of this form where necessary.
+  - This report form is overseen by the [Tournament Committee](/wiki/People/Tournament_Committee). We encourage all users — players and staff alike — to make use of this form where necessary. Any breaches of [expectations](#expectations), [other procedures](#other-procedures), or [eligibility](#eligibility) requirements should prompt a report.
 - The tournament must adhere to all [expectations](#expectations) of officially supported tournaments.
 
 ## Requesting Support
@@ -177,12 +177,6 @@ Please do not submit a main menu banner with your original request — you will 
 
 ## Frequently Asked Questions
 
-### Why does a tournament have to run at least twice or more in order to qualify for profile badges without experienced staff present? {#twice-or-more}
-
-The second iteration of a tournament is often free of a lot of the organisational issues of the first tournament, and has established a solid workflow and staff involved in its production. They are far less likely to peter out or be subject to questionable choices. The tournament is also far more identifiable if it runs more than just once.
-
-For all of these reasons (and more), we ask that profile badge prizes are only awarded to tournaments that have successfully run at least once before, unless a sizeable majority of the team is experienced and accomplished at running tournaments in the past.
-
 ### What is considered "staff" as far as tournament management goes? {#what-is-considered-staff}
 
 If a user has access to information that could conceivably influence the outcome of the tournament/contest, they are considered staff. To clarify, we consider organisers, referees, mappool selectors, mappool playtesters, custom mappers, judges, or any other form of managerial position directly involved in the maintenance and operation of the tournament/contest to be a part of its staff. This list is not exhaustive — if you have any doubts, please contact [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
@@ -213,5 +207,4 @@ Yes! See [Official contest support](/wiki/Contests/Official_support) for details
 
 ## Notes
 
-[^experience]: An "experienced" staff member is loosely defined as someone who has contributed significantly to the successful running of at least **three** badge-receiving tournaments beforehand, or has been a part of an official World Cup volunteer team for any game mode. This may vary at the discretion of the account support team.
 [^play-commence]: Play "commences" once any seedings or brackets have been determined. Therefore, qualifiers may be exempt from this.
