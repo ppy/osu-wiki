@@ -27,11 +27,11 @@ Community-run tournaments which abide by the following hard criteria are eligibl
 
 - The tournament series must run no more than four times per year.
 - The tournament must operate on a Round of 16 double-elimination format at a minimum, **OR**, have at least 64 players (or 16 teams) participating. Larger scales and formats are permitted.
-- The tournament is organised and run by an *experienced team of accomplished and reputable staff*,[^experience] **OR**, the tournament *has been run at least once before without receiving rewards*.
 - Staff members must not participate in the tournament themselves at any point, and players are unable to later assist as staff either. For our definition on "staff", please refer to the [FAQ](#what-is-considered-staff).
 - The forum thread for the tournament **MUST** contain a clearly visible link in a normal-sized font to the [tournament reports form](https://pif.ephemeral.ink/tournament-reports) as the very last content of the original post.
   - `https://pif.ephemeral.ink/tournament-reports`
   - This report form is overseen by the [Tournament Committee](/wiki/People/Tournament_Committee). We encourage all users — players and staff alike — to make use of this form where necessary.
+- The tournament must adhere to all [expectations](#expectations) of officially supported tournaments.
 
 ## Requesting Support
 
@@ -74,7 +74,7 @@ In addition, all promotional material or any services associated with a tourname
 - A dedicated referee must be present during every match. Players cannot "self-ref".
   - The use of bots is allowed on qualifier stage matches, provided that it is supervised by a staff member.
 - Asynchronous matches are not allowed under any circumstances. All participating teams must be present at the scheduled match time.
-- All multiplayer matches relevant to the tournament must be created with the `!mp make` command, so that they do not expire. The results must be recorded and made publicly available on the original tournament forum post in a clear and accessible format.
+- All multiplayer matches relevant to the tournament must be created with the `!mp make` command, so that they do not expire. The results must be recorded and made publicly available on the original tournament forum post or an outside source linked on the forum post in a clear and accessible format.
 
 Once the tournament has concluded, the tournament organisers will need to submit the following to the account support team:
 
@@ -120,6 +120,8 @@ User4,Team2,1234567
 ```
 
 Once screening concludes, the account support team will provide a list of any users who failed screening and are not considered eligible for tournament play, without providing specific reasoning. Individual users who are unhappy with their screening outcome should be told to consult [accounts@ppy.sh](mailto:accounts@ppy.sh) via email.
+
+Only players who are participating in the tournament or would be likely substitutes for a team made during the course of the tournament should be sent for screening. For example, in a country-based tournament using a tryouts system, organizers are encouraged to send only the players determined to be participating after the tryouts process concludes, along with several substitutes for each team in the event one or more of the players on a given country's team get screened. For clarifications on whether a tournament should send all registrations or only relevant registrations, please contact a member of the [Tournament Committee](/wiki/People/Tournament_Committee).
 
 **Allowing users that have failed screening to play in your tournament will result in an immediate withdrawal of support and will result in future requests for support to be denied.**
 
