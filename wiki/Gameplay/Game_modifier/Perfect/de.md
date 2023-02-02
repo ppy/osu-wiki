@@ -28,7 +28,7 @@ no_native_review: true
 
 ## Beschreibung
 
-Die Mod **Perfect** ist eine [Spielmodifikation](/wiki/Game_modifier), die versucht, Spielern zu helfen, die die Note SS erreichen wollen. [Beatmaps](/wiki/Beatmap) gelten automatisch als nicht bestanden und werden neugestartet, sobald eine Note verfehlt wurde oder wenn bei einem [Hit-Objekt](/wiki/Hit_object) eine andere Punktzahl als 300 oder mehr erzielt wurde.
+Die Mod **Perfect** ist eine [Spielmodifikation](/wiki/Game_modifier), die versucht, Spielern zu helfen, die die Note SS erreichen wollen. [Beatmaps](/wiki/Beatmap) gelten automatisch als nicht bestanden und werden neugestartet, sobald eine Note verfehlt wurde oder wenn bei einem [Hit-Objekt](/wiki/Hit_object) eine andere Punktzahl als 300 erzielt wurde.
 
 Eine der folgenden Handlungen **wird dafür sorgen**, dass die Mod Perfect die Beatmap neustartet:
 

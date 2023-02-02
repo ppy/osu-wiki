@@ -601,7 +601,7 @@ Die URL aus der Adressleiste deines Webbrowsers sollte so kopiert werden, wie si
 
 Alle Benutzernamen müssen bei ihrer ersten Nennung verlinkt werden. Andere Nennungen sind optional, müssen aber im ganzen Artikel für alle Benutzernamen konsistent sein. Wenn es schwierig ist, die Benutzer-ID zu bestimmen, darf hier die Verlinkung übersprungen werden.
 
-Wenn zu anderen Benutzerprofilen verlinkt wird, muss die Benutzer-ID verwendet werden. Benutze die neue Webseite (`https://osu.ppy.sh/users/{Benutzername})`), um an die Benutzer-ID zu gelangen.
+Wenn zu anderen Benutzerprofilen verlinkt wird, muss die Benutzer-ID verwendet werden. Benutze die neue Webseite (`https://osu.ppy.sh/users/{Benutzername}`), um an die Benutzer-ID zu gelangen.
 
 Der Linktext des Benutzerlinks sollte den aktuellen Namen des Benutzers verwenden.
 

@@ -45,9 +45,9 @@ Note that if disk usage is checked using the `Properties` window in Explorer or 
 
 As hard links are a filesystem-level feature, it is required that the hard-linked files reside on a common drive.
 
-- **Windows:** The drive must be formatted using NTFS.
-- **macOS:** The file system must support hard links.
-- **Linux:** The file system must support hard links.
+- **Windows**: The drive must be formatted using NTFS.
+- **macOS**: The file system must support hard links.
+- **Linux**: The file system must support hard links.
 
 ### Via file copy
 

@@ -7,6 +7,8 @@ tags:
 
 # Official tournament support
 
+*For beatmapping contest support, see: [Official contest support](/wiki/Contests/Official_support).*
+
 The [osu! team](/wiki/People/The_Team) runs a program where they may opt to provide community-run tournaments that abide by a certain set of criteria and expectations with extra support, at their discretion.
 
 This article was last updated on January 8, 2023. For any queries and clarifications, please consult the `#tournaments` channel on the [osu!dev Discord server](https://discord.com/invite/ppy) or send an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
@@ -71,6 +73,7 @@ In addition, all promotional material or any services associated with a tourname
   - This includes preventing users who are perceived to be "sandbagging" from play. Should an organiser have valid concerns about the presence of such players affecting the competitive integrity of their tournament, they may raise the issue to the [Tournament Committee](/wiki/People/Tournament_Committee) for a case-by-case review using the [tournament reports form](https://pif.ephemeral.ink/tournament-reports).
 - A dedicated referee must be present during every match. Players cannot "self-ref".
   - The use of bots is allowed on qualifier stage matches, provided that it is supervised by a staff member.
+- Asynchronous matches are not allowed under any circumstances. All participating teams must be present at the scheduled match time.
 - All multiplayer matches relevant to the tournament must be created with the `!mp make` command, so that they do not expire. The results must be recorded and made publicly available on the original tournament forum post in a clear and accessible format.
 
 Once the tournament has concluded, the tournament organisers will need to submit the following to the account support team:
@@ -188,7 +191,7 @@ We have historically had issues where unscrupulous organisers have geared tourna
 
 ### Can a player who has been eliminated from play in my tournament join the staff after the fact and not cause problems? {#player-join-staff}
 
-No. Players who have been eliminated from the tournament/contest may not be enlisted as staff or assist in any organisational capacity with the sole exception of setting replays for mappool showcases. They can, however, be enlisted as a helper.
+No. Players who have been eliminated from the tournament/contest may not be enlisted as staff or assist in any organisational capacity with the exceptions of refereeing, playtesting mappools, and setting replays for mappool showcases. They can, however, be enlisted as a helper.
 
 ### If a user has not yet played any matches, can they join the staff? {#no-play-join-staff}
 
@@ -204,9 +207,7 @@ Flooding the game with profile badges dilutes the prestige of the prize for ever
 
 ### Can I request a badge for a beatmap contest or other type of competition? {#contest-support}
 
-For beatmap contests, yes, just follow the same rules as above. We highly recommend using [Featured Artists](https://osu.ppy.sh/beatmaps/artists) for such contests and will flagrantly give preferential treatment to those who do.
-
-For other contests, email us and ask personally. We'll try to work something out.
+Yes! See [Official contest support](/wiki/Contests/Official_support) for details.
 
 ## Notes
 
