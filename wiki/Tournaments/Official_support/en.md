@@ -11,7 +11,7 @@ tags:
 
 The [osu! team](/wiki/People/The_Team) runs a program where they may opt to provide community-run tournaments that abide by a certain set of criteria and expectations with extra support, at their discretion.
 
-This article was last updated on February 1, 2023. For any queries and clarifications, please consult the `#tournaments` channel on the [osu!dev Discord server](https://discord.com/invite/ppy) or send an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+This article was last updated on February 2, 2023. For any queries and clarifications, please consult the `#tournaments` channel on the [osu!dev Discord server](https://discord.com/invite/ppy) or send an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Benefits
 
@@ -27,11 +27,11 @@ Community-run tournaments which abide by the following hard criteria are eligibl
 
 - The tournament series must run no more than four times per year.
 - The tournament must operate on a Round of 16 double-elimination format at a minimum, **OR**, have at least 64 players (or 16 teams) participating. Larger scales and formats are permitted.
-- The tournament is organised and run by an *experienced team of accomplished and reputable staff*,[^experience] **OR**, the tournament *has been run at least once before without receiving rewards*.
 - Staff members must not participate in the tournament themselves at any point, and players are unable to later assist as staff either. For our definition on "staff", please refer to the [FAQ](#what-is-considered-staff).
 - The forum thread for the tournament **MUST** contain a clearly visible link in a normal-sized font to the [tournament reports form](https://pif.ephemeral.ink/tournament-reports) as the very last content of the original post.
   - `https://pif.ephemeral.ink/tournament-reports`
-  - This report form is overseen by the [Tournament Committee](/wiki/People/Tournament_Committee). We encourage all users — players and staff alike — to make use of this form where necessary.
+  - This report form is overseen by the [Tournament Committee](/wiki/People/Tournament_Committee). We encourage all users — players and staff alike — to make use of this form where necessary. Any breaches of [expectations](#expectations), [other procedures](#other-procedures), or [eligibility](#eligibility) requirements should prompt a report.
+- The tournament must adhere to all [expectations](#expectations) of officially supported tournaments.
 
 ## Requesting Support
 
@@ -74,7 +74,7 @@ In addition, all promotional material or any services associated with a tourname
 - A dedicated referee must be present during every match. Players cannot "self-ref".
   - The use of bots is allowed on qualifier stage matches, provided that it is supervised by a staff member.
 - Asynchronous matches are not allowed under any circumstances. All participating teams must be present at the scheduled match time.
-- All multiplayer matches relevant to the tournament must be created with the `!mp make` command, so that they do not expire. The results must be recorded and made publicly available on the original tournament forum post in a clear and accessible format.
+- All multiplayer matches relevant to the tournament must be created with the `!mp make` command, so that they do not expire. The results must be recorded and made publicly available on the original tournament forum post or an outside source linked on the forum post in a clear and accessible format.
 
 Once the tournament has concluded, the tournament organisers will need to submit the following to the account support team:
 
@@ -120,6 +120,8 @@ User4,Team2,1234567
 ```
 
 Once screening concludes, the account support team will provide a list of any users who failed screening and are not considered eligible for tournament play, without providing specific reasoning. Individual users who are unhappy with their screening outcome should be told to consult [accounts@ppy.sh](mailto:accounts@ppy.sh) via email.
+
+Only players who are participating in the tournament **or** would be likely substitutes for a team made during the course of the tournament should be sent for screening. For example, in a country-based tournament using a tryouts system, organisers are encouraged to send only the players determined to be participating after the tryouts conclude, along with several substitutes for each team in the event they need to participate. For clarifications on which registrants are relevant for screening for a particular tournament, contact the [Tournament Committee](/wiki/People/Tournament_Committee).
 
 **Allowing users that have failed screening to play in your tournament will result in an immediate withdrawal of support and will result in future requests for support to be denied.**
 
@@ -175,12 +177,6 @@ Please do not submit a main menu banner with your original request — you will 
 
 ## Frequently Asked Questions
 
-### Why does a tournament have to run at least twice or more in order to qualify for profile badges without experienced staff present? {#twice-or-more}
-
-The second iteration of a tournament is often free of a lot of the organisational issues of the first tournament, and has established a solid workflow and staff involved in its production. They are far less likely to peter out or be subject to questionable choices. The tournament is also far more identifiable if it runs more than just once.
-
-For all of these reasons (and more), we ask that profile badge prizes are only awarded to tournaments that have successfully run at least once before, unless a sizeable majority of the team is experienced and accomplished at running tournaments in the past.
-
 ### What is considered "staff" as far as tournament management goes? {#what-is-considered-staff}
 
 If a user has access to information that could conceivably influence the outcome of the tournament/contest, they are considered staff. To clarify, we consider organisers, referees, mappool selectors, mappool playtesters, custom mappers, judges, or any other form of managerial position directly involved in the maintenance and operation of the tournament/contest to be a part of its staff. This list is not exhaustive — if you have any doubts, please contact [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
@@ -211,5 +207,4 @@ Yes! See [Official contest support](/wiki/Contests/Official_support) for details
 
 ## Notes
 
-[^experience]: An "experienced" staff member is loosely defined as someone who has contributed significantly to the successful running of at least **three** badge-receiving tournaments beforehand, or has been a part of an official World Cup volunteer team for any game mode. This may vary at the discretion of the account support team.
 [^play-commence]: Play "commences" once any seedings or brackets have been determined. Therefore, qualifiers may be exempt from this.
