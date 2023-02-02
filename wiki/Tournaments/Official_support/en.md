@@ -11,7 +11,7 @@ tags:
 
 The [osu! team](/wiki/People/The_Team) runs a program where they may opt to provide community-run tournaments that abide by a certain set of criteria and expectations with extra support, at their discretion.
 
-This article was last updated on January 8, 2023. For any queries and clarifications, please consult the `#tournaments` channel on the [osu!dev Discord server](https://discord.com/invite/ppy) or send an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+This article was last updated on February 2, 2023. For any queries and clarifications, please consult the `#tournaments` channel on the [osu!dev Discord server](https://discord.com/invite/ppy) or send an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Benefits
 
