@@ -13,7 +13,13 @@ These are commonly referred to by their score value (except for misses), i.e. a 
 | ![](/wiki/shared/judgement/osu!/hit50.png) | MEH | 50 | 16.67% | `200 - 10 * OD` |
 | ![](/wiki/shared/judgement/osu!/hit0.png) | MISS | 0 | 0% | `400` |
 
-The hit window depends on the beatmap's [overall difficulty (OD)](/wiki/Beatmap/Overall_difficulty). A hit is then considered inside a hit window if `hit error < max hit error`, meaning the value listed is half of the hit window width.
+The hit window depends on the beatmap's [overall difficulty (OD)](/wiki/Beatmap/Overall_difficulty). A hit is then considered inside a hit window if `hit error < max hit error`, meaning the value listed is half of the hit window width.<!-- internal reference: https://github.com/peppy/osu-stable-reference/blob/1531237b63392e82c003c712faa028406073aa8f/osu!/GameplayElements/HitObjectManager.cs#L1521-L1536 -->
+
+<!--
+internal reference:
+hit error rounding https://github.com/peppy/osu-stable-reference/blob/1531237b63392e82c003c712faa028406073aa8f/osu!/Audio/AudioEngine.cs#L1286
+hit window truncation https://github.com/peppy/osu-stable-reference/blob/1531237b63392e82c003c712faa028406073aa8f/osu!/GameplayElements/HitObjectManager.cs#L467-L469
+-->
 
 The hit error is rounded and the max hit error values are truncated to the nearest integer, meaning the windows may be up to 1.5 ms shorter on both sides than what the formulas suggest.
 
@@ -37,6 +43,8 @@ A [hit circle](/wiki/Gameplay/Hit_object/Hit_circle) is judged with a GREAT, OK,
 
 ### Sliders
 
+<!-- internal reference: https://github.com/peppy/osu-stable-reference/blob/1531237b63392e82c003c712faa028406073aa8f/osu!/GameplayElements/HitObjects/Osu/SliderOsu.cs#L1693-L1719 -->
+
 [Sliders](/wiki/Gameplay/Hit_object/Slider) consist of multiple parts: the [slider head](/wiki/Gameplay/Hit_object/Slider/Sliderhead), [slider tail](/wiki/Gameplay/Hit_object/Slider/Slidertail), [slider ticks](/wiki/Gameplay/Hit_object/Slider/Slider_tick), and [slider repeats](/wiki/Gameplay/Hit_object/Slider/Reverse_slider). The slider as a whole is judged based on how many parts of the slider the player has hit, as outlined below:
 
 | Judgement | Slider completion |
@@ -51,11 +59,16 @@ The slider head only needs to be hit within the MEH hit window for a successful 
 There are some additional quirks with how sliders influence [combo](/wiki/Gameplay/Combo_(score_multiplier)):
 
 - Tapping the slider head too early (before the MEH hit window), missing a slider tick, or missing a repeat does not incur a MISS, but will cause a [combo break](/wiki/Gameplay/Judgement/Combobreak). The other slider parts can still be hit if a key is held down. This is colloquially referred to as a [slider break](/wiki/Gameplay/Judgement/Slider_break).
-- MISSing the slider end does not incur a MISS, but will not increment combo.
+- Missing the slider end does not incur a MISS, but will not increment combo.
 
 ### Spinners
 
 Each [spinner](/wiki/Gameplay/Hit_object/Spinner) has a set number of spins required to complete it. This number depends on the [overall difficulty](/wiki/Beatmap/Overall_difficulty#sliders-and-spinners) of the beatmap. Spinner rotation speed is calculated based on cursor velocity and does not necessarily correspond to how many times the cursor has revolved around the spinner.
+
+<!--
+internal reference: https://github.com/peppy/osu-stable-reference/blob/1531237b63392e82c003c712faa028406073aa8f/osu!/GameplayElements/HitObjects/Osu/SpinnerOsu.cs#L419-L461
+also applies to the spinner history section
+-->
 
 | Judgement | Spins required[^half-spins] |
 | :-: | :-- |
@@ -66,9 +79,19 @@ Each [spinner](/wiki/Gameplay/Hit_object/Spinner) has a set number of spins requ
 
 The spin requirements can be broken down into the following formulas:
 
+<!--
+internal reference:
+https://github.com/peppy/osu-stable-reference/blob/1531237b63392e82c003c712faa028406073aa8f/osu!/GameplayElements/HitObjects/Osu/SpinnerOsu.cs#L229
+    min required half spins for GREAT = (int)(spinner length in seconds * min half spins per second) (+1 as explained in the ^minimum-sps footnote, due to comparing count > requirement)
+https://github.com/peppy/osu-stable-reference/blob/1531237b63392e82c003c712faa028406073aa8f/osu!/GameplayElements/HitObjectManager.cs#L464-L465
+    min required half spins per second for GREAT = `3 + 0.4 * OD` if OD < 5, `2.5 + 0.5 * OD` if OD >= 5
+
+note that the above formulas are divided in half in the tables below for nicer units
+-->
+
 |  |  |
 | :-- | :-- |
-| Minimum spins per second[^minimum-spm] | `1.5 + 0.2 * OD` if OD < 5, `1.25 + 0.25 * OD` if OD >= 5 |
+| Minimum spins per second[^minimum-sps] | `1.5 + 0.2 * OD` if OD < 5, `1.25 + 0.25 * OD` if OD >= 5 |
 | Minimum spins required | Spinner length in seconds * minimum spins per second + 0.5 |
 
 If a spinner is very short, the number of spins required may be calculated to be 0, and thus the spinner will always complete itself with a GREAT.
@@ -86,5 +109,5 @@ Replays set prior to May 10, 2019 (when the change was [introduced in the Cuttin
 ## Notes
 
 [^half-spins]: Spins are internally calculated in terms of half revolutions. The formulas listed in this page are adjusted to be in terms of full spins for simplicity, so this value is thus rounded down to the nearest half.
-[^spinner-clear]: As a presumable oversight, the ["Clear" text](/wiki/Skinning/osu!#spinner) (`spinner-clear.png`) appears one half of a revolution before the required amount of spins to get a GREAT judgement.
-[^minimum-spm]: Due to the +0.5 constant in the below formula, the actual minimum average is `0.5 / spinner length in seconds` spins per second faster.
+[^spinner-clear]: As a presumable oversight, the ["Clear" text](/wiki/Skinning/osu!#spinner) (`spinner-clear.png`) appears one half of a revolution before the required amount of spins to get a GREAT judgement.<!-- internal reference: https://github.com/peppy/osu-stable-reference/blob/1531237b63392e82c003c712faa028406073aa8f/osu!/GameplayElements/HitObjects/Osu/SpinnerOsu.cs#L302-L303 comparison logic isn't the same as L457 & L440-->
+[^minimum-sps]: Due to the +0.5 constant in the formula for minimum spins required, the actual minimum average is `0.5 / spinner length in seconds` spins per second faster.
