@@ -7,7 +7,7 @@ De forma predeterminada, osu!(lazer) almacena beatmaps, skins y archivos de repe
 - `~/Library/Application Support/osu/files` (macOS),
 - `Android/data/sh.ppy.osulazer/files/files` (Android).
 
-En las plataformas de escritorio, el almacén de archivos también se puede mover en su totalidad a otra ubicación, utilizando el botón `Cambiar ubicación de carpeta...` en la configuración del cliente.
+En las plataformas de escritorio, el almacén de archivos también se puede mover en su totalidad a otra ubicación, usando el botón `Cambiar ubicación de carpeta...` en la configuración del cliente.
 
 ## Estructura de almacenamiento
 
@@ -33,15 +33,21 @@ Por ahora, el procedimiento correcto para modificar manualmente skins o beatmaps
 
 ### A través de enlaces duros
 
-En la mayoría de los sistemas Windows, osu!(lazer) podrá importar datos de la versión estable del juego sin tener que crear una segunda copia de los datos en el disco. Esto es posible gracias a una característica del sistema operativo llamada *enlaces duros*.
+En la mayoría de los sistemas, osu!(lazer) podrá importar datos de la versión estable del juego sin tener que crear una segunda copia de los datos en el disco. Esto es posible gracias a una característica del sistema operativo llamada *enlaces duros*.
 
 Un enlace duro es conceptualmente similar a un *acceso directo* en que es un método que permite a un usuario tener el mismo archivo disponible desde múltiples lugares diferentes en su sistema de archivos. Sin embargo, mientras que los accesos directos son simplemente archivos simples que apuntan a un archivo diferente (y por lo tanto requieren espacio adicional), los enlaces duros funcionan un nivel más profundo, al nivel del propio sistema de archivos.
 
-En términos simples, dos archivos con enlaces duros son solo dos nombres diferentes para el mismo espacio físico en el disco duro. Esto significa que una vez que la migración se complete usando enlaces duros, tanto la carpeta `Songs` en stable, como la carpeta `files` en lazer contendrán archivos que apuntarán a datos subyacentes compartidos en el disco. Eliminar archivos de una instalación no afectará a la otra. Actualizar o editar archivos hace que los archivos se separen y, por lo tanto, tampoco afectará a la otra instalación, siempre que osu! se utilize para hacer los cambios.
+En términos simples, dos archivos con enlaces duros son solo dos nombres diferentes para el mismo espacio físico en el disco duro. Esto significa que una vez que la migración se complete usando enlaces duros, tanto la carpeta `Songs` en stable, como la carpeta `files` en lazer contendrán archivos que apuntarán a datos subyacentes compartidos en el disco. Eliminar archivos de una instalación no afectará a la otra. Actualizar o editar archivos hace que los archivos se separen y, por lo tanto, tampoco afectará a la otra instalación, siempre que osu! se use para hacer los cambios.
 
 Tenga en cuenta que si se comprueba el uso del disco mediante la ventana `Propiedades` en el Explorador o cualquier otro método similar, parecerá que tanto el directorio `Songs` como el directorio `files` están consumiendo espacio en el disco, lo que podría inducir a error a los usuarios a pensar que los datos se almacenan dos veces. Este es un artefacto de la contabilidad del tamaño del archivo, y los datos subyacentes reales **no** se duplican. Esto se puede verificar comparando la cantidad total de espacio libre en todo el disco antes y después de la migración.
 
-Dado que los enlaces duros son una característica a nivel del sistema de archivos, se requiere que los archivos enlazados residan en una unidad común y que la unidad esté formateada con NTFS.
+### Sistemas compatibles
+
+Dado que los enlaces duros son una característica a nivel del sistema de archivos, se requiere que los archivos enlazados residan en una unidad común.
+
+- **Windows**: La unidad debe estar formateada usando NTFS.
+- **macOS**: El sistema de archivos debe soportar enlaces duros.
+- **Linux**: El sistema de archivos debe soportar enlaces duros.
 
 ### A través de la copia de archivos
 
