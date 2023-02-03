@@ -16,7 +16,7 @@ Le **medaglie Abilità** sono medaglie assegnate col raggiungimento di svariati 
 
 ## Dedizione
 
-Le **medaglie Dedizione** sono medaglie conseguite al raggiungimento di un determinato numero di partite in una singola modalità di gioco.
+Le **medaglie Dedizione** sono medaglie conseguite al raggiungimento di un determinato numero di partite nella modalità di gioco osu!, oppure raggiungendo un determinato numero di partite in osu!taiko, osu!catch e osu!mania.
 
 ## Introduzione Alle Mod
 
