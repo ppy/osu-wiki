@@ -58,7 +58,8 @@ These rules only apply to the **beatmapping phase**. The storyboarding phase wil
   - Teams must have 2 members. No more, no less.
 - **Submissions must not be publicly revealed until after the judging phase ends.**
 - **Submissions must not be Qualified until after the community vote ends.**
-- **A user cannot create more than one submission per game mode.**
+- **Each team cannot create more than one submission per game mode.**
+- **A user cannot participate in more than one team per game mode.**
 
 After you've read these rules found your mapping partner, **submit your team name and member list to [this form](https://docs.google.com/forms/d/e/1FAIpQLScZjjjyIwR_5phQeu5YhFIcMAm1Psu3vA89GhhJjxA8DuELnQ/viewform?fbzx=-2909660251574194870).** Once confirmed, your team will be published on the [**Twin Trials** contest wiki page](/wiki/Contests/Twin_Trials_Contest)!
 

@@ -86,4 +86,5 @@ The storyboarding phase prizes will be announced after the beatmapping phase end
   - Teams must have 2 members.
 - **Submissions must not be publicly revealed until after the judging phase ends.**
 - **Submissions must not be Qualified until after the community vote ends.**
-- **A user cannot create more than one submission per game mode.**
+- **Each team cannot create more than one submission per game mode.**
+- **A user cannot participate in more than one team per game mode.**
