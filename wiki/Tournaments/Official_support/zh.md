@@ -10,14 +10,16 @@ tags:
   - 比赛
   - 锦标赛
 outdated_translation: true
-outdated_since: 87e666b9ddf53bdfb7dfdbfe70f2589824f96d37
+outdated_since: 936ee8446406b7b2340514ada4970f608c31908a
 ---
 
 # 官方锦标赛支持
 
+*关于作图比赛支持，请参见：[官方竞赛支持](/wiki/Contests/Official_support)。*
+
 [osu! 团队](/wiki/People/The_Team)正在推行一个项目，如果基于社区的锦标赛各项标准均符合官方团队的要求，他们可以向这些锦标赛酌情提供额外的支持。
 
-文章最后于 2022年1月9日 更新。如果有任何疑问或需要问题解答，请在 [osu!dev Discord 服务器](https://discord.com/invite/ppy)的 `#tournaments` 咨询，或是发送邮件至 [tournaments@ppy.sh](mailto:tournaments@ppy.sh)。
+文章最后于 2023年1月8日 更新。如果有任何疑问或需要问题解答，请在 [osu!dev Discord 服务器](https://discord.com/invite/ppy)的 `#tournaments` 咨询，或是发送邮件至 [tournaments@ppy.sh](mailto:tournaments@ppy.sh)。
 
 ## 益处
 
@@ -78,6 +80,7 @@ outdated_since: 87e666b9ddf53bdfb7dfdbfe70f2589824f96d37
 - 如果玩家满足报名标准（如果有），那么在没有充分公开的证据，并且没有在账号支持团队列出的名单中的话，不得阻止通过筛选 (Screen) 的玩家参加锦标赛。
   - 主办方也不能阻止故意压低实力而想要在锦标赛中炸鱼 (Sandbagging) 的玩家。如果主办担心这类玩家可能会打破锦标赛的公平性，请使用[锦标赛举报表格](https://pif.ephemeral.ink/tournament-reports)向[锦标赛委员会](/wiki/People/Tournament_Committee)举报，便于委员会逐案审查。
 - 每场对局都需要有一位专职裁判在场。选手不能自行裁决。
+  - 在有工作人员监督的情况下，可以在资格赛阶段中使用机器人作为房间裁判。
 - 所有与锦标赛相关的对局都需要从 `!mp make` 命令创建得来，这能保护比赛记录不会过期。赛程结果必须记录下来，并以浅显易懂的格式写在原始的锦标赛论坛帖上。
 
 锦标赛结束后，锦标赛主办需要向账户支持团队提交以下信息：
@@ -94,7 +97,7 @@ outdated_since: 87e666b9ddf53bdfb7dfdbfe70f2589824f96d37
 
 ### 选手
 
-参与官方支持锦标赛的选手必须随时随地遵守 [osu! 社区规则](/wiki/Rules)，不管你的排名多高，获得了什么成就和奖章。选手们还应该尊重锦标赛的所有志愿者，不要故意浪费他们的时间，以及不要骚扰他们影响锦标赛的顺利进行。 
+参与官方支持锦标赛的选手必须随时随地遵守 [osu! 社区规则](/wiki/Rules)，不管你的排名多高，获得了什么成就和奖章。选手们还应该尊重锦标赛的所有志愿者，不要故意浪费他们的时间，以及不要骚扰他们影响锦标赛的顺利进行。
 
 根据账户支持团队的裁定，会根据违规选手的违规行为严重程度，发布有期限或无期限的锦标赛封禁。屡教不改者可能会遭到永久禁赛的处罚。
 
@@ -211,9 +214,7 @@ outdated_since: 87e666b9ddf53bdfb7dfdbfe70f2589824f96d37
 
 ### 我能给作图比赛或者其他类型的比赛申请主页奖牌（牌子）吗？{#contest-support}
 
-如果是作图比赛，可以。遵守以上的规定即可申请。我们强烈建议在作图比赛的选曲中使用[精选艺术家 (FA)](https://osu.ppy.sh/beatmaps/artists) 的创作作品，若使用，我们会优先宣传这些比赛。
-
-对于其他比赛的疑问，请直接发送电子邮件给我们。我们会想办法解决的。
+可以！请参阅[官方竞赛支持](/wiki/Contests/Official_support)了解更多。
 
 ## 备注
 

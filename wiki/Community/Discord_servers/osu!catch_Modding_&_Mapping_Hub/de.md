@@ -35,4 +35,4 @@ Der Server besteht hauptsächlich aus:
 
 Um Zugriff auf die Kanäle zu erhalten, müssen Nutzer ihre Identität bestätigen, indem sie ihr osu!-Profil im Kanal `#arrival` teilen und angeben, für welche Rolle(n) sie sich interessieren.
 
-![Authentifizierungsprozess](img/auth.jpg "Beim Betreten des Servers können Nutzer ihr osu!-Profil teilen und nach einer bestimmten Rolle fragen. Ein Administrator wird ihr Profil entsprechend bearbeiten")
+![Authentifizierungsprozess](img/auth.jpg?1 "Beim Betreten des Servers können Nutzer ihr osu!-Profil teilen und nach einer bestimmten Rolle fragen. Ein Administrator wird ihr Profil entsprechend bearbeiten")

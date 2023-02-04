@@ -57,7 +57,6 @@ Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7). Sebaga
 | ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Tionghoa | Evaluator |
 | ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Jerman | Evaluator |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Swedia | Advisor |
-| ::{ flag=GB }:: [NexusQI](https://osu.ppy.sh/users/13822800) |  | Evaluator |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | Advisor |
 | ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | Evaluator |
 | ::{ flag=AT }:: [Stixy](https://osu.ppy.sh/users/9000308) | Jerman, Serbia | Evaluator |
@@ -90,5 +89,4 @@ Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7). Sebaga
 | ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229) | Tionghoa | Evaluator |
 | ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | Vietnam | Evaluator |
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Indonesia | Evaluator |
-| ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | Spanyol, Portugis, Galisia, Italia, Jepang | Evaluator |
 | ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Evaluator |

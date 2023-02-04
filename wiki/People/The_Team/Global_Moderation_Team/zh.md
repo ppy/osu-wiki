@@ -3,55 +3,69 @@ tags:
   - GMT
   - moderator
   - moderators
+  - chat mod
   - 管理员
   - 版主
-outdated_translation: true
-outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
 ---
 
-# Global Moderation Team
+# 全局管理团队 (GMT)
 
-**Global Moderation Team**（以前叫 Administrators / Global Mod Team / "绿BAT"），通常简称为 **GMT**，是社区内主要负责管理论坛、聊天室以及整个社区纪律的成员。
+*参见：[Mod（消歧义）](/wiki/Disambiguation/Mod)
 
-## 角色及责任
+**全局管理团队** 全称为 Global Moderation Team (***GMT***)，也称为管理员、绿 BAT，主要负责管理玩家、处理与管理团队和整个社区的相关问题。可以通过玩家头衔和玩家名称颜色来认出他们。他们的玩家名称在游戏中是红色，在论坛上是柑橘绿色。
 
-**Global Moderation Team** 负责维护聊天室跟论坛的公众利益，以及照顾社群内不同人之间的交流/需要。只有关于游戏管理的时候才能接触他们，其中包括（但不限于）聊天问题（禁言或骚扰）和论坛问题（垃圾评论或不良行为）。大部分 GMT 都应有 modding 的经验，如果下表有他们的名字，代表他们都不介意帮你看图哟！
+**全局管理团队的所有成员，都应宣誓和遵守[贡献者公约](/wiki/Contributor_Code_of_Conduct)以及[普通的社区规则](/wiki/Rules)。**
 
-## 如何成为 GMT
+***注意：如果发现全局管理团队 (GMT) 成员有违反贡献者公约或其他不良行为，请联系[账号支持团队](/wiki/People/The_Team/Account_support_team#support@ppy.sh)并举报。***
 
-要成为 **Global Moderation Team** 的成员是一个颇为困难及错综复杂的过程。一个潜在成员经常因愿意帮助其他用户，社区内的活动和良好行为而受到关注且因为他拥有精通第二语言的能力而能够被提拔。最后通过一系列的团队讨论以及检查后决定他们能否成为正式成员。GMT 潜在成员的惯例筛选往往始于 **Chat Moderators**（聊天室管理）。
+## 角色和职责
 
-### 如何为别人着想
+*参见：[举报不良行为](/wiki/Reporting_bad_behaviour)*
 
-需要考虑的最重要因素是行为，活动，对规则的理解和耐心：
+全局管理团队 (GMT) 成员负责保证聊天和论坛和谐发展，确保社区内有一个正常的交流环境。其他玩家可以向他们举报与游戏管理有关的任何问题，包括但不限于：
 
-1. 通过礼貌和尊重其他使用者等表现良好的行为。确保您的帐户没有任何严重的禁言或问题。
-2. 通过参与聊天或论坛中的活动。通过举报系统举报任何不当行为和问题。回答问题并协助他人解决问题。
-3. 对[规则](/wiki/Rules)以及如何运用有适当的了解。重要的是要知道在 osu! 中什么可以被接受，什么不可以。
-4. 要有耐心。GMT 不会添加仅贡献了几天的成员。GMT 需要花费时间来评估某人——他们的个性、他们可以提供的帮助、他们的活动等。
+- 聊天相关的问题（比如刷屏和骚扰）
+- 论坛上的不良行为（比如不适宜的帖子）
+- 谱面讨论和评论区的问题
+- 玩家主页的问题（比如头像、主页头图或个人介绍中出现不雅、冒犯性的内容）
 
-通常，团队会观察数周，以确保他们对团队有价值。请耐心等待，不要过火。随时向 GMT 的任何人询问有关规则、举报用户以及任何其他问题。
+## 加入全局管理团队 (GMT)
+
+加入全局管理团队 (GMT) 的玩家，通常做出过大量的贡献。全局管理团队内部会讨论，并确定潜在的候选玩家。这些候选玩家通常是因为乐于帮助其他玩家、建设社区、表现良好而受到团队关注。如果他们能说英语之外的语言，则优先度会大大提升。
+
+### 如何成为候选玩家
+
+最重要的考虑因素是玩家的行为、活跃度、对[规章制度](/wiki/Rules)的理解程度，以及耐心：
+
+1. 行为表现良好：尊重其他玩家，保持礼貌。重点是需要保持你的账号没有任何严重的禁言或其他问题。
+2. 在游戏中活跃：参加聊天和论坛讨论，通过举报系统[举报不当行为](/wiki/Reporting_bad_behaviour)，回答并协助他人解决问题。
+3. 深入理解[规章制度](/wiki/Rules)：理解规章制度，以及规章制度是如何实现的。重点是弄清楚什么能出现在 osu! 中，而什么不能。
+4. 耐心等待。团队不收三分热度的帮助者。团队评估某人是否有资格加入需要时间——他们的性格、能帮忙做什么、活跃度、等等。
+
+通常来说，团队会持续观察潜在的候选玩家几周甚至数月之久，来确保他们是值得加入团队的玩家。请耐心等待，少安毋躁。可以随时向团队的任何成员询问有关规则，举报玩家或其他任何问题。
 
 ### 有些事情不该做
 
-1. 不要向任何 GMT 询问您作为潜在候选人的地位。GMT 并不想增加任何为达到目的而做出贡献的人。无私的心态是关键。
-2. 不要举报聊天中的所有小事。了解什么值得举报和什么不值得是一项重要技能。
-3. 在不知道自己的回答正确与否的情况下，不要回答别人的问题，尤其是在论坛上。欢迎提出建议，但误导他人对任何人都没有帮助。如果您不知道如何解决这个问题，请让其他人回答并向他们学习。
-4. 不要过度做事。团队寻求持续的贡献，而不是超额的投入。众所周知，这会使人精疲力尽，并使他们失去耐心和决心。别紧张，放轻松！
+1. 不要持续不断地询问团队成员关于你是否被纳入了潜在候选玩家的问题。团队不想纳入任何只为了达到自己的目的而做出贡献的玩家。无私奉献的心态才是关键。
+2. 不要向他们举报聊天中的每一件小事。知道该举报什么，不该举报什么很重要。
+3. 不要在自己不知道答案是否正确的时候回答问题，特别是在论坛上。提出建议是好的，但误导人可没有任何好处。如果你不知道如何解决问题，请让其他人回答并向他们学习。
+4. 不要做得太过火。团队需要你持之以恒地贡献，而不需要超负荷地支出。众所周知，这会让你精疲力尽，变得失去耐心和违反承诺。放轻松！
 
-## 成员
+## 团队成员
 
-[GMT 团队成员页面](https://osu.ppy.sh/groups/4)列出了所有在任团队成员。
+*注意：除非特殊说明，所有全局管理团队 (GMT) 成员除了下列语言以外还可以使用英语进行交流。*
 
-*小提示：除非特殊说明，所有 GMT 成员除了下列语言以外还可以使用英语进行交流。*
+[全局管理团队 (GMT) 成员列表](https://osu.ppy.sh/groups/4)列出了所有在任团队成员。除了下面提到的领域外，所有全局管理团队 (GMT) 成员都能够[审查谱面内的音频或视觉内容](/wiki/Rules/Visual_Content_Considerations)。
 
-| 名字 | 语言 | 专注范围 |
+<!-- NOTE FOR TRANSLATORS: Translating this section is different from other parts of the osu! wiki. See https://github.com/ppy/osu-wiki/blob/master/meta/group-info/TRANSLATING.md#group-articles. -->
+
+| 名字 | 语言 | 专职范围 |
 | :-- | :-- | :-- |
 | ::{ flag=DE }:: [- Felix](https://osu.ppy.sh/users/8503985) | 德语 | 聊天管理员 |
 | ::{ flag=HU }:: [[ Another ]](https://osu.ppy.sh/users/3416573) | 匈牙利语 | 聊天管理员 |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | 俄语 | 聊天管理员 |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | 论坛管理员 |
-| ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | 锦标赛管理员 |
+| ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | 锦标赛管理员[^task-Azer] |
 | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419) | 汉语，马来语 | 聊天管理员 |
 | ::{ flag=US }:: [Chaos](https://osu.ppy.sh/users/2628870) |  | 聊天管理员 |
 | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | 瑞典语，西班牙语 | 聊天管理员，锦标赛管理员 |
@@ -85,7 +99,6 @@ outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
 | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) | 印度尼西亚语 | 聊天管理员 |
 | ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) | 法语 | 聊天管理员 |
 | ::{ flag=BR }:: [Nukrid](https://osu.ppy.sh/users/2307484) | 葡萄牙语，西班牙语 | 聊天管理员 |
-| ::{ flag=NL }:: [Uni](https://osu.ppy.sh/users/617106) | 荷兰语 | 聊天管理员 |
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | 德语 | 作图、摸图社群管理员 |
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | 德语，塞尔维亚语 | 聊天管理员，作图、摸图社群管理员 |
 | ::{ flag=PH }:: [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | 菲律宾语 | 聊天管理员 |
@@ -125,7 +138,7 @@ outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
 | `#cantonese` |  | ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326), ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) |
 | `#chinese` | [中文](https://osu.ppy.sh/community/forums/25) | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419), ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326), ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729), ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) |
 | `#czechoslovak` |  |  |
-| `#dutch` | [Nederlands](https://osu.ppy.sh/community/forums/69) | ::{ flag=NL }:: [Uni](https://osu.ppy.sh/users/617106) |
+| `#dutch` | [Nederlands](https://osu.ppy.sh/community/forums/69) |  |
 | `#english` |  | *全局管理员* |
 | `#filipino` | [Tagalog](https://osu.ppy.sh/community/forums/76) | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078), ::{ flag=PH }:: [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210), ::{ flag=KR }:: [ToGlette](https://osu.ppy.sh/users/1076236), ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927) |
 | `#finnish` | [Suomi](https://osu.ppy.sh/community/forums/24) | ::{ flag=FI }:: [Laurakko](https://osu.ppy.sh/users/7253731) |
@@ -134,7 +147,7 @@ outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
 | `#greek` |  |  |
 | `#hebrew` |  |  |
 | `#hungarian` | [Magyar](https://osu.ppy.sh/community/forums/95) | ::{ flag=HU }:: [[ Another ]](https://osu.ppy.sh/users/3416573) |
-| `#indonesian` | [Indonesian](https://osu.ppy.sh/community/forums/73) | ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986), ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) |
+| `#indonesian` | [Indonesian](https://osu.ppy.sh/community/forums/73) | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986), ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) |
 | `#italian` | [Italiano](https://osu.ppy.sh/community/forums/36) |  |
 | `#japanese` | [日本語](https://osu.ppy.sh/community/forums/32) | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107), ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109), ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326), ::{ flag=JP }:: [KSHR](https://osu.ppy.sh/users/409957), ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369), ::{ flag=JP }:: [S o h](https://osu.ppy.sh/users/2234772), ::{ flag=KR }:: [ToGlette](https://osu.ppy.sh/users/1076236) |
 | `#korean` | [한국어](https://osu.ppy.sh/community/forums/58) | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107), ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369), ::{ flag=KR }:: [ruexia](https://osu.ppy.sh/users/385069), ::{ flag=KR }:: [ToGlette](https://osu.ppy.sh/users/1076236) |
@@ -149,3 +162,7 @@ outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
 | `#turkish` | [Türkçe](https://osu.ppy.sh/community/forums/93) |  |
 | `#ukrainian` |  | ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) |
 | `#vietnamese` |  | ::{ flag=VN }:: [My Angel Chino](https://osu.ppy.sh/users/20547597), ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) |
+
+## 备注
+
+[^task-Azer]: 虽然 Azer 不属于全局管理团队 (GMT)，但从技术上来说，由于组织世界杯需要 GMT 级别的权限，也将他纳入了团队组。
