@@ -231,6 +231,7 @@
 | ::{ flag=CL }:: [Uberzolik](https://osu.ppy.sh/users/1314547) | NAT |
 | ::{ flag=PL }:: [Ukami](https://osu.ppy.sh/users/820865) | Sohbet moderatörü, GMT |
 | ::{ flag=TR }:: [UnderminE](https://osu.ppy.sh/users/444223) | Sohbet moderatörü |
+| ::{ flag=NL }:: [Uni](https://osu.ppy.sh/users/617106) | GMT |
 | ::{ flag=BE }:: [VeilStar](https://osu.ppy.sh/users/4255720) | GMT, destek ekibi |
 | ::{ flag=PH }:: [vytalibus](https://osu.ppy.sh/users/10028) | BAT |
 | ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | GMT, turnuva yönetimi |
