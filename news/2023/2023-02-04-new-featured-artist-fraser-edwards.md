@@ -10,7 +10,7 @@ A certain power metal band may not be a Featured Artist yet, but **FRASER EDWARD
 
 Renowned guitarist **FRASER EDWARDS** has been making an impact in the metal world for over a decade. Whether it's through his band *Ascension*, his guitar work for *Sharky Sharky*, or his contributions to a whole bunch of other metal units, **FRASER EDWARDS** has proven himself to be a master of his craft.
 
-Today, we're here to highlight **31** of his solo releases ranging far across the metal spectrum, all of which are ready for mapping from [**FRASER EDWARDS**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/338)!
+Today, we're here to highlight **31** of his solo releases ranging far across the metal spectrum, all of which are ready for mapping from [**FRASER EDWARDS**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/339)!
 
 See what the hype is about for yourself:
 
@@ -50,7 +50,7 @@ Try out [this Loved osu! map](https://osu.ppy.sh/beatmapsets/1173967) hosted by 
 
 ---
 
-We get it. You don't wanna deal with timing your maps. That's why we do it for you. Head to [**FRASER EDWARDS**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/338) and pick out pre-timed `.osz`s for your favourite songs.
+We get it. You don't wanna deal with timing your maps. That's why we do it for you. Head to [**FRASER EDWARDS**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/339) and pick out pre-timed `.osz`s for your favourite songs.
 
 Once you're done with your **FRASER EDWARDS** mapping journey, keep an eye on the [@osugame Twitter](https://twitter.com/osugame) for another batch of artists coming next week!
 
