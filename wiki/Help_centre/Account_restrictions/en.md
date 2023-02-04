@@ -8,7 +8,7 @@ When an account is restricted, it is unable to interact with the community until
 
 The following features are disabled for restricted accounts:
 
-- multiplayer games
+- ability to participate in multiplayer rooms
 - in-game chat
 - private messaging
 - posting in forum threads or comment sections
