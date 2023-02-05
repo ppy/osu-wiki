@@ -45,7 +45,7 @@ If an account has been found to be rightfully restricted, we will ask that the u
 - **Keep enjoying the game!** While your account is restricted and you are on cooldown, you are more than welcome to continue playing the game (as long as you play on your original account!). The scores you achieve while restricted will be submitted, and unless your account is rolled back, they will remain after you become unrestricted.
 - **Maintain good behaviour.** We understand that being restricted can be frustrating, but think of it as a chance to take some time off, away from the community. Try to avoid interacting with the community for at least a few days (whether it be via Discord, social media, or other forms of contact) to cool down and reflect on the actions that may have contributed to your account being restricted.
 - **Make sure you respect the rules.** Long-term restrictions are punishments for breaking the rules. If you continue to do so while restricted, the cooldown before you can appeal will be reset to at least **three months** from your last offence. This includes, for example, continuing to cheat (six months in this case), accessing others' accounts, or creating new accounts to evade a restriction.
-- **Follow the support team's instructions.** The three-month cooldown is a chance to take time off and reflect on your actions. If you attempt submitting an appeal before the cooldown period is over, your emails will be ignored. If you are unsure when your cooldown expires, when you will be allowed to appeal, or which of your accounts you should be playing on (and appealing from), you are welcome to send us an email to ask.
+- **Follow the support team's instructions.** The cooldown period is a chance to take time off and reflect on your actions. If you attempt submitting an appeal before the cooldown period is over, your emails will be ignored. If you are unsure when your cooldown expires, when you will be allowed to appeal, or which of your accounts you should be playing on (and appealing from), you are welcome to send us an email to ask.
 - **Do not hesitate to contact us if you have any questions.** As long as you are not trying to circumvent punishment, we will happily answer any questions you have about your account's restriction!
 
 ## My cooldown has passed. How do I appeal? {#appeal}
@@ -68,7 +68,7 @@ If we decide to let you return, we will require that you agree to some terms bef
 - **You should not associate with other accounts** including playing on shared computers.
 - **Any major misbehaviour will result in immediate restriction**. This includes major silences.
 
-In some cases, an appeal returnee may be banned from official and badged tournaments, both as a competitor and member of the tournament's team. The duration of this ban is 1 year per offence (if a user is on their second appeal, the ban lasts 2 years). The unrestriction email will clarify the duration of this ban.
+Appeal returnees under the standard terms above are also banned from official and badged tournaments, both as a competitor and member of the tournament's team. The duration of this ban is 1 year per offence (if a user is on their second appeal, the ban lasts 2 years). The unrestriction email will clarify the duration of this ban.
 
 **Cheating or account sharing during an official or badged tournament will lead to the user's permanent ban from any future ones.** This ban cannot be appealed (your email will be ignored if you attempt to) and will not be removed, reduced, or waived under any circumstances.
 
