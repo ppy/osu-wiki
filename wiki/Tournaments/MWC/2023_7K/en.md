@@ -100,33 +100,51 @@ The osu!mania 7K World Cup 2023 is run by the osu! team and various community me
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/c9e572884f0e731ba47fed1c11be3b88#file-mwc7k-2023-player-list-csv). 
 
-## Match schedule: Semifinals
+## Match schedule: Finals
 
-### Saturday, 4 February 2023
-
-| Team A | Team B | Match time |  |
-| --: | :-- | :-- | :-: |
-| China ::{ flag=CN }:: | ::{ flag=ID }:: Indonesia | [Feb 4 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230204T120000&p1=1440&p2=33&p3=108) | [^losers-bracket] |
-| Japan ::{ flag=JP }:: | ::{ flag=FR }:: France | [Feb 4 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230204T130000&p1=1440&p2=248&p3=195) | [^losers-bracket] |
-| Brazil ::{ flag=BR }:: | ::{ flag=TH }:: Thailand | [Feb 4 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230204T150000&p1=1440&p2=45&p3=28) | [^losers-bracket] |
-| Spain ::{ flag=ES }:: | ::{ flag=CA }:: Canada | [Feb 4 (Sat) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230204T190000&p1=1440&p2=141&p3=188) | [^losers-bracket] |
-
-### Sunday, 5 February 2023
+### Saturday, 11 February 2023
 
 | Team A | Team B | Match time |  |
 | --: | :-- | :-- | :-: |
-| Canada ::{ flag=CA }:: | ::{ flag=JP }:: Japan | [Feb 5 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230205T040000&p1=1440&p2=188&p3=248) | [^potential-match] |
-| South Korea ::{ flag=KR }:: | ::{ flag=US }:: United States | [Feb 5 (Sun) 05:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230205T050000&p1=1440&p2=235&p3=263) | [^winners-bracket] |
-| Spain ::{ flag=ES }:: | ::{ flag=JP }:: Japan | [Feb 5 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230205T100000&p1=1440&p2=141&p3=248) | [^potential-match] |
-| China ::{ flag=CN }:: | ::{ flag=TH }:: Thailand | [Feb 5 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230205T110000&p1=1440&p2=33&p3=28) | [^potential-match] |
-| Indonesia ::{ flag=ID }:: | ::{ flag=TH }:: Thailand | [Feb 5 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230205T110000&p1=1440&p2=108&p3=28) | [^potential-match] |
-| Philippines ::{ flag=PH }:: | ::{ flag=MY }:: Malaysia | [Feb 5 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230205T120000&p1=1440&p2=145&p3=122) | [^winners-bracket] |
-| Indonesia ::{ flag=ID }:: | ::{ flag=BR }:: Brazil | [Feb 5 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230205T150000&p1=1440&p2=108&p3=45) | [^potential-match] |
-| China ::{ flag=CN }:: | ::{ flag=BR }:: Brazil | [Feb 5 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230205T160000&p1=1440&p2=33&p3=45) | [^potential-match] |
-| Canada ::{ flag=CA }:: | ::{ flag=FR }:: France | [Feb 5 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230205T170000&p1=1440&p2=188&p3=195) | [^potential-match] |
-| Spain ::{ flag=ES }:: | ::{ flag=FR }:: France | [Feb 5 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230205T180000&p1=1440&p2=141&p3=195) | [^potential-match] |
+| Malaysia ::{ flag=MY }:: | ::{ flag=CN }:: China | [Feb 11 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230211T130000&p1=1440&p2=122&p3=33) | [^winners-bracket] |
+| United States ::{ flag=US }:: | ::{ flag=JP }:: Japan | [Feb 11 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230211T150000&p1=1440&p2=263&p3=248) | [^winners-bracket] |
+
+### Sunday, 12 February 2023
+
+| Team A | Team B | Match time |  |
+| --: | :-- | :-- | :-: |
+| Malaysia ::{ flag=MY }:: | ::{ flag=US }:: United States | [Feb 12 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230212T040000&p1=1440&p2=122&p3=263) | [^potential-match] |
+| China ::{ flag=CN }:: | ::{ flag=US }:: United States | [Feb 12 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230212T040000&p1=1440&p2=33&p3=263) | [^potential-match] |
+| Malaysia ::{ flag=MY }:: | ::{ flag=JP }:: Japan | [Feb 12 (Sun) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230212T080000&p1=1440&p2=122&p3=248) | [^potential-match] |
+| China ::{ flag=CN }:: | ::{ flag=JP }:: Japan | [Feb 12 (Sun) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230212T080000&p1=1440&p2=33&p3=248) | [^potential-match] |
+| South Korea ::{ flag=KR }:: | ::{ flag=PH }:: Philippines | [Feb 12 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230212T100000&p1=1440&p2=235&p3=145) | [^losers-bracket] |
 
 ## Mappools
+
+### Finals
+
+**[Download the mappack here (131 MB)](https://drive.google.com/uc?id=1HaLN16aTNmWvz-ZgpXceNnxaXsL-0re0)**
+
+- Rice
+  1. [Mitsuyoshi Takenobu no Otouto - Koakuma no Yuuenchi (pwhk) \[Daemon Playground\]](https://osu.ppy.sh/beatmapsets/1935798#mania/4000930)
+  2. [LV.4 feat. Yuu Ikeba - Sentimental Surge (\_underjoy) \[Outburst\]](https://osu.ppy.sh/beatmapsets/1935688#mania/4000612)
+  3. [xi remixed by cosMo@bousouP - FREEDOM DiVE \[METAL+DIMENSIONS\] (Cut Ver.) (Wonki) \[Extra\]](https://osu.ppy.sh/beatmapsets/1935496#mania/4000121)
+  4. [Helblinde - Unconquered (Jinjin) \[Invictus\]](https://osu.ppy.sh/beatmapsets/1935526#mania/4000233)
+  5. [96-glass - I'm Kidding (Cut Ver.) (lenpai) \[probably funny\]](https://osu.ppy.sh/beatmapsets/1935502#mania/4000138)
+  6. [HyuN feat. Syepias - CROSS SOUL (paulkappa) \[Vanity in the Dark\]](https://osu.ppy.sh/beatmapsets/1935504#mania/4000148)
+  7. [Asatsumei - MEI VS KILLER FISH - THE ULTIMATE BATTLE!!! (Maxus) \[Maxus vs. CS Battle of the QuagETs!!!\]](https://osu.ppy.sh/beatmapsets/1935512#mania/4000169)
+- Long Note
+  1. [GYARI - Akari Has Arrived! (Leeju) \[Leeju's 7K Mogumogu\]](https://osu.ppy.sh/beatmapsets/1935481#mania/4000086)
+  2. [in love with a ghost - complex feelings about my own existence feat. jungkook (Jinjin) \[existential crisis feat. noodles\]](https://osu.ppy.sh/beatmapsets/1935525#mania/4000231)
+  3. [sky\_delta - Cryonix (\_Kobii) \[Hope \[190BPM\]\]](https://osu.ppy.sh/beatmapsets/1935499#mania/4000132)
+  4. [Iyowa (covered by suisoh) - Netsu Ijou (Cut Ver.) (ruka) \[Prayers\]](https://osu.ppy.sh/beatmapsets/1935503#mania/4000142)
+  5. [Nijisanji - Virtual to LIVE (LostCool) \[Towards a Bright Tomorrow (MWC Edit)\]](https://osu.ppy.sh/beatmapsets/1139542#mania/4000232)
+- Hybrid
+  1. [Tatsh - Xevel (paulkappa) \[SORROW (MWC Edit)\]](https://osu.ppy.sh/beatmapsets/1602668#mania/3687994)
+  2. [t+pazolite & Getty - Twisted Drop Party (Remuring) \[I'm a bad boy\]](https://osu.ppy.sh/beatmapsets/1935508#mania/4000157)
+  3. [Hino Isuka vs. s-don - Glooorious!! (\_underjoy) \[Booouncing!!\]](https://osu.ppy.sh/beatmapsets/1935691#mania/4000616)
+- Tiebreaker
+  1. **[Frums - of Ambrosia (Blocko) \[Blocko's 7K Amrita (MWC edit)\]](https://osu.ppy.sh/beatmapsets/1935552#mania/4000296)**
 
 ### Semifinals
 
@@ -209,6 +227,28 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/c9e
 8. [yumemidoll - Lyrith -Meikyuu Lyrith- (Leeju) \[Stage 8: Awakening\]](https://osu.ppy.sh/beatmapsets/1919014#mania/3960063)
 
 ## Match results
+
+### Semifinals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/18ipwo22IkNTCRlQXflvVqIVmsM3TjPdzOiZ2xaiaYhk).
+
+Saturday, 4 February 2023:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **China** ::{ flag=CN }:: | **6** | 0 | ::{ flag=ID }:: Indonesia | [#1](https://osu.ppy.sh/community/matches/106650407) |
+| **Japan** ::{ flag=JP }:: | **6** | 1 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/106651220) |
+| Brazil ::{ flag=BR }:: | 2 | **6** | ::{ flag=TH }:: **Thailand** | [#1](https://osu.ppy.sh/community/matches/106653966) |
+| **Spain** ::{ flag=ES }:: | **6** | 2 | ::{ flag=CA }:: Canada | [#1](https://osu.ppy.sh/community/matches/106659867) |
+
+Sunday, 5 February 2023:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **South Korea** ::{ flag=KR }:: | **6** | 0 | ::{ flag=US }:: United States | [#1](https://osu.ppy.sh/community/matches/106669977) |
+| Spain ::{ flag=ES }:: | 2 | **6** | ::{ flag=JP }:: **Japan** | [#1](https://osu.ppy.sh/community/matches/106673765) |
+| **China** ::{ flag=CN }:: | **6** | 0 | ::{ flag=TH }:: Thailand | [#1](https://osu.ppy.sh/community/matches/106674541) |
+| **Philippines** ::{ flag=PH }:: | **0** | -1 | ::{ flag=MY }:: Malaysia | [*win by default*](https://osu.ppy.sh/community/matches/106676391) |
 
 ### Quarterfinals
 
