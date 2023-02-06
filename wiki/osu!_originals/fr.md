@@ -213,6 +213,8 @@ Ces chansons font partie du [osu! James Landino Collection EP](https://fanlink.t
 
 | Musique | Beatmap | Notes |
 | :-: | :-: | :-- |
+| Hino Isuka vs. s-don - Glooorious!![^fa] | [#1](https://osu.ppy.sh/beatmapsets/1935691) | HB3 des finales |
+| LV.4 feat. Yuu Ikeba - Sentimental Surge[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1935688) | RC6 des finales |
 | Toromaru - Uncharted Sky[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1931471) | RC6 des demi-finales |
 
 ### Sorties des tournois gérés par la communauté
