@@ -8,6 +8,8 @@ Wenn ein Account eingeschränkt wird, dann kann dieser nicht mit der Community i
 
 Die folgenden Features sind für eingeschränkte Accounts deaktiviert:
 
+- Möglichkeit zur Teilnahme an offiziellen Wettbewerben
+- Beitritt von Mehrspieler-Räumen
 - Chat im Spiel
 - Private Nachrichten
 - Beiträge in Foren oder Kommentarsektionen
