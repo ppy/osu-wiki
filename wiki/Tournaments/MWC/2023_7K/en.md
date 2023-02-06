@@ -123,10 +123,10 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/c9e
 
 ### Finals
 
-**[Download the mappack here (130 MB)](https://drive.google.com/uc?id=1HaLN16aTNmWvz-ZgpXceNnxaXsL-0re0)**
+**[Download the mappack here (131 MB)](https://drive.google.com/uc?id=1HaLN16aTNmWvz-ZgpXceNnxaXsL-0re0)**
 
 - Rice
-  1. [Mitsuyoshitakenobu no ototo - Koakuma no yuenchi (pwhk) \[Daemon Playground\]](https://osu.ppy.sh/beatmapsets/1935522#mania/4000219)
+  1. [Mitsuyoshi Takenobu no Otouto - Koakuma no Yuuenchi (pwhk) \[Daemon Playground\]](https://osu.ppy.sh/beatmapsets/1935522#mania/4000930)
   2. [LV.4 feat. Yuu Ikeba - Sentimental Surge (\_underjoy) \[Outburst\]](https://osu.ppy.sh/beatmapsets/1935688#mania/4000612)
   3. [xi remixed by cosMo@bousouP - FREEDOM DiVE \[METAL+DIMENSIONS\] (Cut Ver.) (Wonki) \[Extra\]](https://osu.ppy.sh/beatmapsets/1935496#mania/4000121)
   4. [Helblinde - Unconquered (Jinjin) \[Invictus\]](https://osu.ppy.sh/beatmapsets/1935526#mania/4000233)
