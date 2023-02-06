@@ -57,7 +57,7 @@ Les gagnants de la [MWC 7K 2022](/wiki/Tournaments/MWC/2022_7K) avec le titre d'
 
 Les gagnants des précédentes osu! World Cups avec le titre d'utilisateur **Former osu! Champion** :
 
-| Tournoi | Titre | Porteurs du titre |
+| Tournoi | Titre | Tenants du titre |
 | :-: | :-- | :-- |
 | [OWC #1](/wiki/Tournaments/OWC/1) | Former osu! Champion : #1 | ::{ flag=TW }:: [0222101916](https://osu.ppy.sh/users/122650), ::{ flag=TW }:: [Rucker](https://osu.ppy.sh/users/147515), ::{ flag=TW }:: [Tomoka Rin](https://osu.ppy.sh/users/125308), ::{ flag=TW }:: [Uan](https://osu.ppy.sh/users/147623), ::{ flag=TW }:: [ZRush](https://osu.ppy.sh/users/398097) |
 | [OWC #2](/wiki/Tournaments/OWC/2) | Former osu! Champion : #2 | ::{ flag=KR }:: [Remilia-Scarlet](https://osu.ppy.sh/users/602783) |
@@ -74,7 +74,7 @@ Les gagnants des précédentes osu! World Cups avec le titre d'utilisateur **For
 
 Les gagnants des précédentes osu!taiko World Cups avec le titre d'utilisateur **Former osu!taiko Champion** :
 
-| Tournoi | Titre | Porteurs du titre |
+| Tournoi | Titre | Tenants du titre |
 | :-:| :-- | :-- |
 | [TWC 2011](/wiki/Tournaments/TWC/2011) | Former osu!taiko Champion : #1 | ::{ flag=TW }:: [Numbers 596108](https://osu.ppy.sh/users/194653), ::{ flag=TW }:: [TW-KUMA01](https://osu.ppy.sh/users/244499) |
 | [TWC 2012](/wiki/Tournaments/TWC/2012) | Former osu!taiko Champion : #2 | ::{ flag=JP }:: [-Asuke-](https://osu.ppy.sh/users/863073), ::{ flag=JP }:: [pota-row](https://osu.ppy.sh/users/858415), ::{ flag=JP }:: [TTTL](https://osu.ppy.sh/users/164583) |
@@ -90,7 +90,7 @@ Les gagnants des précédentes osu!taiko World Cups avec le titre d'utilisateur 
 
 Les gagnants des précédentes osu!catch World Cups avec le titre d'utilisateur **Former osu!catch Champion** :
 
-| Tournoi | Titre | Porteurs du titre |
+| Tournoi | Titre | Tenants du titre |
 | :-:| :-- | :-- |
 | [CWC](/wiki/Tournaments/CWC/1) | Former osu!catch Champion : #1 | ::{ flag=HK }:: [HineX](https://osu.ppy.sh/users/13854), ::{ flag=CN }:: [hy1hy1hy](https://osu.ppy.sh/users/243877), ::{ flag=CN }:: [joynama](https://osu.ppy.sh/users/169128) |
 | [CWC 2013](/wiki/Tournaments/CWC/2013) | Former osu!catch Champion : 2013 | ::{ flag=CL }:: [eldnl](https://osu.ppy.sh/users/285756), ::{ flag=CL }:: [Dark Diego](https://osu.ppy.sh/users/723787), ::{ flag=CL }:: [DaxMasterix](https://osu.ppy.sh/users/264914), ::{ flag=CL }:: [lineqtxz](https://osu.ppy.sh/users/989542) |
@@ -105,7 +105,7 @@ Les gagnants des précédentes osu!catch World Cups avec le titre d'utilisateur 
 
 Les gagnants des précédentes osu!mania World Cups avec le titre d'utilisateur **Former osu!mania Champion** :
 
-| Tournoi | Titre | Porteurs du titre |
+| Tournoi | Titre | Tenants du titre |
 | :-:| :-- | :-- |
 | [MWC 2014 (4K)](/wiki/Tournaments/MWC/2014) | Former osu!mania 4K Champion : 2014 | ::{ flag=KR }:: [Abcdullah](https://osu.ppy.sh/users/4140104), ::{ flag=KR }:: [jhlee1033](https://osu.ppy.sh/users/140148) |
 | [MWC 2014 (7K)](/wiki/Tournaments/MWC/2014) | Former osu!mania 7K Champion : 2014 | ::{ flag=KR }:: [jhlee0133](https://osu.ppy.sh/users/140148) |
@@ -205,7 +205,7 @@ Les concours osu!remix attribuent le titre **osu!mixer** comme premier prix.
 - ::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471)[^billiummoto-note]
 - ::{ flag=FR }:: [Shinwoir](https://osu.ppy.sh/users/8984574)
 
-## Porteurs du titre osu!trivium Quiz
+## Tenants du titre osu!trivium Quiz
 
 Les [osu!trivium Quiz contests](/wiki/Contests/osu!trivium_Quiz) décernent à l'équipe ou à la personne gagnante le titre d'**osu!trivium Champion**, qui dure un an. Voici les détenteurs du titre pour 2021 :
 
