@@ -207,15 +207,15 @@ Have you been looking for a serious mapping tournament for a long time but can't
 
 On January 16th an official poll has been opened up to the public in order to gauge their opinion on the state of skinning, both from the skinning community's perspective, but also from the entire player base. By the time this edition of osu!monthly is released the poll will have been closed, however you can still contribute [through the forum](https://osu.ppy.sh/community/forums/15) if you think you have an opinion worth sharing.
 
-#### New skinning event coming soon
+#### Skin of the Year 2023 voting is now live
 
-The skinship team have been hard at work to bring the next big event into fruition, so keep your eyes peeled throughout February!
+The skinning community has been hard at work creating new skins for others to enjoy, so we highly encourage you to check out the [news post](soon) and cast your votes!
 
 ### Featured skins of the month
 
 As should be tradition by now, 3 skins from the month of January have been selected to be showcased on osu!monthly:
 
-- [Skadi (Arknights)](https://osu.ppy.sh/community/forums/topics/1706882?n=1) - Inspired by Skadi from *Arknights*, this skin revolves around an obvious theme while still keeping to minimalism, especially in the gameplay section
+- [Skadi Arknights](https://osu.ppy.sh/community/forums/topics/1706882?n=1) - Inspired by Skadi from *Arknights*, this skin revolves around an obvious theme while still keeping to minimalism, especially in the gameplay section
 - [Pink Bean - MapleStory](https://osu.ppy.sh/community/forums/topics/1700282?n=1) - Pink Bean from *Maplestory* is a memorable character, and this skin pays homage to both the original game and the beloved character with its style and design choices
 - [5WC 2023](https://osu.ppy.sh/community/forums/topics/1699533?n=1) - A skin made specially for the upcoming 5 Digit World Cup 2023 Tournament. Created in the author's consistent and gorgeous design style, as well as following this year's branding for 5WC, it truly shows how much love and care the organizers put into their tourneys
 
