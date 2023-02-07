@@ -22,8 +22,6 @@ tags:
 
 在滑条结束后，也可以移动、添加或删除滑条控制点。在选中滑条后，右击删除控制点，按住 `Ctrl` 同时单击滑条内部添加控制点，双击（或按住 `Ctrl` 同时单击）已有控制点来将其改为红色控制点。可以通过在时间线中拖拽滑条尾来使滑条折返。
 
-<!-- TODO: Insert curve types/algorithm in here maybe-->
-
 谱师也可以在 `Timing` 部分调节谱面上滑条点的数目。更多的节点使连击数目更快上升（每个节点对应一个连击），因此也提供了得到更高分数的机会。但由于[判定](/wiki/Gameplay/Judgement)更严，滑条点也为玩家提供了更多失败的机会。
 
 ## 为滑条设置音效
@@ -35,9 +33,3 @@ tags:
 ## 滑条技巧
 
 歌曲中出现较长或持续的声音时，通常可以使用滑条。但只要节奏支持，就可以在任何地方使用。当歌曲有节奏变化时，因为滑条可以提供被动反馈，所以适当安排滑条可以使读谱更直观。也可以在更低的难度中使用滑条，来简化旋律。
-
-<!-- TODO: Include Skinnable Property-->
-
-<!-- TODO: Mention Sliderleniency and Slider Art here-->
-
-<!-- TODO: Add links and images-->
