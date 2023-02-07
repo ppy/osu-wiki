@@ -1,0 +1,203 @@
+<?xml version="1.0" standalone="no"?>
+<svg id="top_level" xmlns="http://www.w3.org/2000/svg" width="716" height="527" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 716 527">
+  <defs>
+    <style type="text/css">
+      svg {
+        font-family: Arial, sans-serif;
+        overflow: visible;
+      }
+
+      rect {
+        shape-rendering: crispEdges;
+      }
+
+      .title {
+        fill: #444;
+        font-size: 24px;
+      }
+
+      .bracket-line {
+        fill: none;
+        stroke: #666;
+        stroke-width: 2px;
+      }
+
+      .match--base-background {
+        fill: #eee;
+      }
+
+      .match--wrapper-background {
+        fill-opacity: 0;
+      }
+
+      .match--identifier {
+        fill: #777;
+        font-size: 10px;
+      }
+
+      .match--seed {
+        fill: #222;
+        font-size: 10px;
+        letter-spacing: -1px;
+      }
+
+      .match--seed-background {
+        fill: #d3d3d3;
+      }
+
+      .match--player-score-background {
+        fill: #d3d3d3;
+      }
+
+      .match--player-score-background.-winner {
+        fill: #F68800;
+      }
+
+      .match--player-name {
+        fill: #222;
+        font-size: 12px;
+      }
+
+      .match--player-name.-placeholder {
+        font-style: italic;
+        font-size: 11px;
+        fill: #bbb;
+      }
+
+      .match--player-score {
+        fill: #111;
+        font-size: 12px;
+      }
+
+      .match--player-background {
+        fill: #eee;
+      }
+
+      .match--player-divider {
+        stroke: #fff;
+        stroke-width: 1px;
+      }
+
+      .match--station-background {
+        fill: #f3f3f3;
+        opacity: 0.5;
+      }
+
+      .match--station {
+        font-size: 11px;
+        fill: #222;
+      }
+
+      .round-label {
+        cursor: pointer;
+      }
+
+      .round-label rect {
+        fill: #ddd;
+      }
+
+      .round-label text {
+        fill: #444;
+        font-size: 12px;
+      }
+
+      text.round-label--best-of {
+        fill: #369;
+        font-weight: bold;
+      }
+
+      .round-header-label text {
+        fill: #444;
+        font-size: 16px;
+        font-weight: bold;
+      }
+
+      .round-header-label text.round-header-label--best-of {
+        fill: #369;
+        font-size: 12px;
+      }
+
+      @media only print {
+        svg#top_level {
+          width: 100%;
+          height: 100%;
+        }
+      }
+    </style>
+  </defs>
+
+    <svg
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:cc="http://creativecommons.org/ns#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns="http://www.w3.org/2000/svg"
+     style="overflow:visible; shape-rendering:auto;"
+     xml:space="preserve"
+     enable-background="new 0 0 842 330.625"
+     overflow="visible"
+     viewBox="0 0 467.41202 82.080627"
+     height="54"
+     width="300"
+     id="Layer_1"
+     version="1.1"><metadata
+       id="metadata3278"><rdf:RDF><cc:Work
+           rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+             rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+       id="defs3276" /><g
+       transform="translate(-216.82224,0)"
+       id="g3250"><g
+         id="g3254"><path
+           style="fill:#ff7324;fill-opacity:1;fill-rule:evenodd"
+           id="path3256"
+           d="m 291.496,17.625 c -21.852,5.605 -41.235,15.521 -56.801,32.248 3.926,4.251 8.416,5.555 13.744,6.55 11.443,-11.805 25.47,-19.303 41.265,-23.855 3.881,-1.12 1.923,-11.453 1.792,-14.943 z"
+           clip-rule="evenodd" /><path
+           style="fill:#ff7324;fill-opacity:1;fill-rule:evenodd"
+           id="path3258"
+           d="m 233.925,18.311 c -16.354,9.442 -21.958,30.361 -12.517,46.714 4.875,8.443 12.81,14.021 21.594,16.141 26.505,6.385 48.655,-21.885 47.718,-46.69 -15.059,4.472 -28.147,11.792 -38.855,22.549 31.46,5.422 3.104,27.607 -17.051,13.984 -14.457,-9.772 -16.144,-28.107 -7.929,-41.825 5.047,-8.429 12.112,-11.646 20.633,-15.281 -4.652,0.476 -9.282,1.918 -13.593,4.408 z"
+           clip-rule="evenodd" /><path
+           style="fill:#ff7324;fill-opacity:1;fill-rule:evenodd"
+           id="path3260"
+           d="m 291.387,0 c -29.036,8.964 -60.413,17.076 -62.222,35.94 -0.402,2.803 0.189,5.862 2.14,9.24 0.625,1.081 1.263,2.048 1.917,2.919 14.912,-16.892 33.967,-26.92 56.605,-32.691 3.915,-0.998 1.692,-11.919 1.56,-15.408 z"
+           clip-rule="evenodd" /></g></g><g
+       id="text2995"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><path
+         id="path3740"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;line-height:125%;font-family:FuturaRO;-inkscape-font-specification:'FuturaRO Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         d="m 133.56,20.400628 0,11.264 q -4.16,-5.12 -10.624,-5.12 -6.528,0 -10.56,5.184 -3.648,4.736 -3.648,11.456 0,6.528 3.776,11.2 4.032,5.056 10.368,5.056 6.272,0 10.688,-5.12 l 0,11.2 q -6.144,2.88 -10.944,2.88 -10.176,0 -16.96,-7.488 -6.656,-7.296 -6.656,-17.536 0,-10.624 6.528,-18.048 6.784,-7.744 17.28,-7.744 5.504,0 10.752,2.816 z" /><path
+         id="path3742"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;line-height:125%;font-family:FuturaRO;-inkscape-font-specification:'FuturaRO Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         d="m 149.212,37.872628 17.408,0 0,-19.008 9.408,0 0,48.256 -9.408,0 0,-21.568 -17.408,0 0,21.568 -9.408,0 0,-48.256 9.408,0 0,19.008 z" /><path
+         id="path3744"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;line-height:125%;font-family:FuturaRO;-inkscape-font-specification:'FuturaRO Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         d="m 209.553,56.944628 -16.768,0 -3.968,10.176 -9.92,0 18.816,-49.536 7.296,0 18.304,49.536 -10.048,0 -3.712,-10.176 z m -2.624,-7.68 -6.016,-17.536 -5.44,17.536 11.456,0 z" /><path
+         id="path3746"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;line-height:125%;font-family:FuturaRO;-inkscape-font-specification:'FuturaRO Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         d="m 235.587,18.864628 0,40.064 13.312,0 0,8.192 -22.72,0 0,-48.256 9.408,0 z" /><path
+         id="path3748"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;line-height:125%;font-family:FuturaRO;-inkscape-font-specification:'FuturaRO Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         d="m 261.337,18.864628 0,40.064 13.312,0 0,8.192 -22.72,0 0,-48.256 9.408,0 z" /><path
+         id="path3750"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;line-height:125%;font-family:FuturaRO;-inkscape-font-specification:'FuturaRO Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         d="m 299.247,68.400628 q -10.496,0 -17.28,-7.552 -6.592,-7.36 -6.592,-17.92 0,-10.496 6.656,-17.792 6.848,-7.552 17.216,-7.552 10.368,0 17.216,7.552 6.656,7.296 6.656,17.792 0,10.56 -6.592,17.92 -6.784,7.552 -17.28,7.552 z m 0,-41.536 q -6.08,0 -10.24,4.864 -3.904,4.608 -3.904,10.816 0,5.952 4.032,11.072 4.352,5.504 10.112,5.504 5.76,0 10.112,-5.504 4.032,-5.12 4.032,-11.072 0,-6.144 -3.968,-10.816 -4.16,-4.864 -10.176,-4.864 z" /><path
+         id="path3752"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;line-height:125%;font-family:FuturaRO;-inkscape-font-specification:'FuturaRO Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         d="m 327.679,67.120628 0,-49.536 6.784,0 25.408,33.728 0.128,-32.448 9.408,0 0,49.216 -6.784,0 -25.408,-33.728 -0.128,32.768 -9.408,0 z" /><path
+         id="path3754"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;line-height:125%;font-family:FuturaRO;-inkscape-font-specification:'FuturaRO Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         d="m 398.128,41.456628 20.8,0 0,1.216 q 0,11.072 -5.312,18.048 -5.888,7.68 -16.64,7.68 -10.304,0 -16.768,-7.552 -6.208,-7.232 -6.208,-17.664 0,-10.752 6.336,-17.984 6.592,-7.616 17.216,-7.616 6.144,0 11.2,3.072 5.12,3.008 7.872,8.448 l -8.32,4.48 q -1.472,-3.392 -4.48,-5.504 -2.944,-2.176 -6.528,-2.176 -6.4,0 -10.24,5.632 -3.328,4.992 -3.328,11.648 0,6.72 3.392,11.52 3.84,5.376 10.24,5.376 4.416,0 7.68,-3.264 3.328,-3.264 3.328,-7.68 l -10.24,0 0,-7.68 z" /><path
+         id="path3756"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;line-height:125%;font-family:FuturaRO;-inkscape-font-specification:'FuturaRO Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         d="m 448.514,27.056628 -15.552,0 0,10.624 14.976,0 0,8.192 -14.976,0 0,13.056 15.552,0 0,8.192 -24.96,0 0,-48.256 24.96,0 0,8.192 z" /><path
+         id="path3758"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:64px;line-height:125%;font-family:FuturaRO;-inkscape-font-specification:'FuturaRO Bold';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         d="m 461.716,57.008628 q 2.432,0 4.032,1.6 1.664,1.6 1.664,4.032 0,2.368 -1.664,4.096 -1.664,1.664 -4.032,1.664 -2.432,0 -4.096,-1.664 -1.6,-1.664 -1.6,-4.096 0,-2.368 1.664,-3.968 1.664,-1.664 4.032,-1.664 z m -4.544,-3.776 0,-34.368 9.088,0 0,34.368 -9.088,0 z" /></g>
+    </svg>
+  <text y="85" class="title">Yuyuko&#39;s Hidden Cup Season 2</text>
+  <svg y="110">
+    <svg class="tournament-bracket -for-print" width="716" height="367" x="0" y="0"><g><g class="rounds" transform="translate(0,0)"><svg class="round" x="0"><g class="round-label" data-toggle="" data-href="/zh_CN/tournaments/12516185/rounds/new_or_edit?number=1&amp;title=%E7%AC%AC1%E8%BD%AE"><rect width="243" height="25"></rect><text x="122" y="17" width="243" height="15" text-anchor="middle">第1轮</text></g></svg><svg class="round" x="244"><g class="round-label" data-toggle="" data-href="/zh_CN/tournaments/12516185/rounds/new_or_edit?number=2&amp;title=%E5%8D%8A%E5%86%B3%E8%B5%9B"><rect width="243" height="25"></rect><text x="122" y="17" width="243" height="15" text-anchor="middle">半决赛</text></g></svg><svg class="round" x="488"><g class="round-label" data-toggle="" data-href="/zh_CN/tournaments/12516185/rounds/new_or_edit?number=3&amp;title=%E5%86%B3%E8%B5%9B"><rect width="243" height="25"></rect><text x="122" y="17" width="243" height="15" text-anchor="middle">决赛</text></g></svg></g><g transform="translate(244 231.99999999999997)" class="bracket-line-container"><path d="M 228 26 L 236 26 L 236 1 L 244 1" class="bracket-line" data-line-length="41"></path></g><g transform="translate(0 231.99999999999997)" class="bracket-line-container"><path d="M 228 1 L 236 1 L 236 27" class="bracket-line" data-line-length="41"></path></g><g transform="translate(0 259)" class="bracket-line-container"><path d="M 228 26.00000000000003 L 236 26.00000000000003 L 236 1 L 244 1" class="bracket-line" data-line-length="41.00000000000003"></path></g><g transform="translate(244 89)" class="bracket-line-container"><path d="M 228 1 L 236 1 L 236 26 L 244 26" class="bracket-line" data-line-length="41"></path></g><g transform="translate(0 62)" class="bracket-line-container"><path d="M 228 1 L 236 1 L 236 27" class="bracket-line" data-line-length="41"></path></g><g transform="translate(0 89)" class="bracket-line-container"><path d="M 228 26 L 236 26 L 236 1 L 244 1" class="bracket-line" data-line-length="41"></path></g><g transform="translate(488 204)" class="match -complete " data-identifier="7" data-match-id="306652367"><defs><clipPath id="match-clippath-7"><rect x="26" y="5" width="200" height="45" rx="3" ry="3"></rect></clipPath></defs><text x="11" y="31" width="24" height="10" text-anchor="middle" class="match--identifier">7</text><rect x="24" y="3" width="204" height="49" rx="3" ry="3" class="match--wrapper-background "></rect><rect x="26" y="5" width="200" height="45" rx="3" ry="3" class="match--base-background"></rect><g clip-path="url(#match-clippath-7)"><svg x="0" y="5" class="match--player" data-participant-id="193506065"><title>已经结束啦</title><defs><clipPath id="clipPath9937339"><rect x="50" y="0" width="143" height="22"></rect></clipPath><clipPath id="portraitClipPath9937339"><path></path></clipPath></defs><path d="M 50 0 h 147 v 22 h -147 Z" class="match--player-background"></path><path d="M 26 0 h 24 v 22 h -24 Z" class="match--seed-background"></path><text x="38" y="14" width="10" height="12" text-anchor="middle" class="match--seed">4</text><text clip-path="url(#clipPath9937339)" x="55" y="15" width="147" height="12" text-anchor="start" class="match--player-name ">已经结束啦</text><path d="M 197 0 h 29 v 22 h -29 Z" class="match--player-score-background "></path><text x="211" y="15" width="21" height="12" text-anchor="middle" class="match--player-score ">2</text></svg><svg x="0" y="28" class="match--player" data-participant-id="193506066"><title>懒人三项</title><defs><clipPath id="clipPath2165442"><rect x="50" y="0" width="143" height="22"></rect></clipPath><clipPath id="portraitClipPath2165442"><path></path></clipPath></defs><path d="M 50 0 h 147 v 22 h -147 Z" class="match--player-background"></path><path d="M 26 0 h 24 v 22 h -24 Z" class="match--seed-background"></path><text x="38" y="14" width="10" height="12" text-anchor="middle" class="match--seed">5</text><text clip-path="url(#clipPath2165442)" x="55" y="15" width="147" height="12" text-anchor="start" class="match--player-name  -winner">懒人三项</text><path d="M 197 0 h 29 v 22 h -29 Z" class="match--player-score-background -winner"></path><text x="211" y="15" width="21" height="12" text-anchor="middle" class="match--player-score -winner">7</text><line x1="26" y1="-0.5" x2="226" y2="-0.5" class="match--player-divider"></line></svg></g></g><g transform="translate(244 231)" class="match -complete " data-identifier="5" data-match-id="306652366"><defs><clipPath id="match-clippath-5"><rect x="26" y="5" width="200" height="45" rx="3" ry="3"></rect></clipPath></defs><text x="11" y="31" width="24" height="10" text-anchor="middle" class="match--identifier">5</text><rect x="24" y="3" width="204" height="49" rx="3" ry="3" class="match--wrapper-background "></rect><rect x="26" y="5" width="200" height="45" rx="3" ry="3" class="match--base-background"></rect><g clip-path="url(#match-clippath-5)"><svg x="0" y="5" class="match--player" data-participant-id="193506066"><title>懒人三项</title><defs><clipPath id="clipPath4443258"><rect x="50" y="0" width="143" height="22"></rect></clipPath><clipPath id="portraitClipPath4443258"><path></path></clipPath></defs><path d="M 50 0 h 147 v 22 h -147 Z" class="match--player-background"></path><path d="M 26 0 h 24 v 22 h -24 Z" class="match--seed-background"></path><text x="38" y="14" width="10" height="12" text-anchor="middle" class="match--seed">5</text><text clip-path="url(#clipPath4443258)" x="55" y="15" width="147" height="12" text-anchor="start" class="match--player-name  -winner">懒人三项</text><path d="M 197 0 h 29 v 22 h -29 Z" class="match--player-score-background -winner"></path><text x="211" y="15" width="21" height="12" text-anchor="middle" class="match--player-score -winner">7</text></svg><svg x="0" y="28" class="match--player" data-participant-id="193506060"><title>主播教我HD刷170</title><defs><clipPath id="clipPath19471"><rect x="50" y="0" width="143" height="22"></rect></clipPath><clipPath id="portraitClipPath19471"><path></path></clipPath></defs><path d="M 50 0 h 147 v 22 h -147 Z" class="match--player-background"></path><path d="M 26 0 h 24 v 22 h -24 Z" class="match--seed-background"></path><text x="38" y="14" width="10" height="12" text-anchor="middle" class="match--seed">1</text><text clip-path="url(#clipPath19471)" x="55" y="15" width="147" height="12" text-anchor="start" class="match--player-name ">主播教我HD刷170</text><path d="M 197 0 h 29 v 22 h -29 Z" class="match--player-score-background "></path><text x="211" y="15" width="21" height="12" text-anchor="middle" class="match--player-score ">2</text><line x1="26" y1="-0.5" x2="226" y2="-0.5" class="match--player-divider"></line></svg></g></g><g transform="translate(0 259)" class="match -complete " data-identifier="3" data-match-id="306652365"><defs><clipPath id="match-clippath-3"><rect x="26" y="5" width="200" height="45" rx="3" ry="3"></rect></clipPath></defs><text x="11" y="31" width="24" height="10" text-anchor="middle" class="match--identifier">3</text><rect x="24" y="3" width="204" height="49" rx="3" ry="3" class="match--wrapper-background "></rect><rect x="26" y="5" width="200" height="45" rx="3" ry="3" class="match--base-background"></rect><g clip-path="url(#match-clippath-3)"><svg x="0" y="5" class="match--player" data-participant-id="193506060"><title>主播教我HD刷170</title><defs><clipPath id="clipPath7487262"><rect x="50" y="0" width="143" height="22"></rect></clipPath><clipPath id="portraitClipPath7487262"><path></path></clipPath></defs><path d="M 50 0 h 147 v 22 h -147 Z" class="match--player-background"></path><path d="M 26 0 h 24 v 22 h -24 Z" class="match--seed-background"></path><text x="38" y="14" width="10" height="12" text-anchor="middle" class="match--seed">1</text><text clip-path="url(#clipPath7487262)" x="55" y="15" width="147" height="12" text-anchor="start" class="match--player-name  -winner">主播教我HD刷170</text><path d="M 197 0 h 29 v 22 h -29 Z" class="match--player-score-background -winner"></path><text x="211" y="15" width="21" height="12" text-anchor="middle" class="match--player-score -winner">6</text></svg><svg x="0" y="28" class="match--player" data-participant-id="193506047"><title>无所谓 帕老师会出手</title><defs><clipPath id="clipPath9180305"><rect x="50" y="0" width="143" height="22"></rect></clipPath><clipPath id="portraitClipPath9180305"><path></path></clipPath></defs><path d="M 50 0 h 147 v 22 h -147 Z" class="match--player-background"></path><path d="M 26 0 h 24 v 22 h -24 Z" class="match--seed-background"></path><text x="38" y="14" width="10" height="12" text-anchor="middle" class="match--seed">6</text><text clip-path="url(#clipPath9180305)" x="55" y="15" width="147" height="12" text-anchor="start" class="match--player-name ">无所谓 帕老师会出手</text><path d="M 197 0 h 29 v 22 h -29 Z" class="match--player-score-background "></path><text x="211" y="15" width="21" height="12" text-anchor="middle" class="match--player-score ">1</text><line x1="26" y1="-0.5" x2="226" y2="-0.5" class="match--player-divider"></line></svg></g></g><g transform="translate(0 204)" class="match -complete " data-identifier="4" data-match-id="306652364"><defs><clipPath id="match-clippath-4"><rect x="26" y="5" width="200" height="45" rx="3" ry="3"></rect></clipPath></defs><text x="11" y="31" width="24" height="10" text-anchor="middle" class="match--identifier">4</text><rect x="24" y="3" width="204" height="49" rx="3" ry="3" class="match--wrapper-background "></rect><rect x="26" y="5" width="200" height="45" rx="3" ry="3" class="match--base-background"></rect><g clip-path="url(#match-clippath-4)"><svg x="0" y="5" class="match--player" data-participant-id="193506062"><title>东雪莲后援会</title><defs><clipPath id="clipPath1891866"><rect x="50" y="0" width="143" height="22"></rect></clipPath><clipPath id="portraitClipPath1891866"><path></path></clipPath></defs><path d="M 50 0 h 147 v 22 h -147 Z" class="match--player-background"></path><path d="M 26 0 h 24 v 22 h -24 Z" class="match--seed-background"></path><text x="38" y="14" width="10" height="12" text-anchor="middle" class="match--seed">3</text><text clip-path="url(#clipPath1891866)" x="55" y="15" width="147" height="12" text-anchor="start" class="match--player-name ">东雪莲后援会</text><path d="M 197 0 h 29 v 22 h -29 Z" class="match--player-score-background "></path><text x="211" y="15" width="21" height="12" text-anchor="middle" class="match--player-score ">1</text></svg><svg x="0" y="28" class="match--player" data-participant-id="193506066"><title>懒人三项</title><defs><clipPath id="clipPath3940534"><rect x="50" y="0" width="143" height="22"></rect></clipPath><clipPath id="portraitClipPath3940534"><path></path></clipPath></defs><path d="M 50 0 h 147 v 22 h -147 Z" class="match--player-background"></path><path d="M 26 0 h 24 v 22 h -24 Z" class="match--seed-background"></path><text x="38" y="14" width="10" height="12" text-anchor="middle" class="match--seed">5</text><text clip-path="url(#clipPath3940534)" x="55" y="15" width="147" height="12" text-anchor="start" class="match--player-name  -winner">懒人三项</text><path d="M 197 0 h 29 v 22 h -29 Z" class="match--player-score-background -winner"></path><text x="211" y="15" width="21" height="12" text-anchor="middle" class="match--player-score -winner">6</text><line x1="26" y1="-0.5" x2="226" y2="-0.5" class="match--player-divider"></line></svg></g></g><g transform="translate(488 89)" class="match -complete " data-identifier="8" data-match-id="306652368"><defs><clipPath id="match-clippath-8"><rect x="26" y="5" width="200" height="45" rx="3" ry="3"></rect></clipPath></defs><text x="11" y="31" width="24" height="10" text-anchor="middle" class="match--identifier">8</text><rect x="24" y="3" width="204" height="49" rx="3" ry="3" class="match--wrapper-background "></rect><rect x="26" y="5" width="200" height="45" rx="3" ry="3" class="match--base-background"></rect><g clip-path="url(#match-clippath-8)"><svg x="0" y="5" class="match--player" data-participant-id="193506064"><title>老年娱乐</title><defs><clipPath id="clipPath8513955"><rect x="50" y="0" width="143" height="22"></rect></clipPath><clipPath id="portraitClipPath8513955"><path></path></clipPath></defs><path d="M 50 0 h 147 v 22 h -147 Z" class="match--player-background"></path><path d="M 26 0 h 24 v 22 h -24 Z" class="match--seed-background"></path><text x="38" y="14" width="10" height="12" text-anchor="middle" class="match--seed">2</text><text clip-path="url(#clipPath8513955)" x="55" y="15" width="147" height="12" text-anchor="start" class="match--player-name ">老年娱乐</text><path d="M 197 0 h 29 v 22 h -29 Z" class="match--player-score-background "></path><text x="211" y="15" width="21" height="12" text-anchor="middle" class="match--player-score ">2</text></svg><svg x="0" y="28" class="match--player" data-participant-id="193506066"><title>懒人三项</title><defs><clipPath id="clipPath1488445"><rect x="50" y="0" width="143" height="22"></rect></clipPath><clipPath id="portraitClipPath1488445"><path></path></clipPath></defs><path d="M 50 0 h 147 v 22 h -147 Z" class="match--player-background"></path><path d="M 26 0 h 24 v 22 h -24 Z" class="match--seed-background"></path><text x="38" y="14" width="10" height="12" text-anchor="middle" class="match--seed">5</text><text clip-path="url(#clipPath1488445)" x="55" y="15" width="147" height="12" text-anchor="start" class="match--player-name  -winner">懒人三项</text><path d="M 197 0 h 29 v 22 h -29 Z" class="match--player-score-background -winner"></path><text x="211" y="15" width="21" height="12" text-anchor="middle" class="match--player-score -winner">7</text><line x1="26" y1="-0.5" x2="226" y2="-0.5" class="match--player-divider"></line></svg></g></g><g transform="translate(244 62)" class="match -complete " data-identifier="6" data-match-id="306652363"><defs><clipPath id="match-clippath-6"><rect x="26" y="5" width="200" height="45" rx="3" ry="3"></rect></clipPath></defs><text x="11" y="31" width="24" height="10" text-anchor="middle" class="match--identifier">6</text><rect x="24" y="3" width="204" height="49" rx="3" ry="3" class="match--wrapper-background "></rect><rect x="26" y="5" width="200" height="45" rx="3" ry="3" class="match--base-background"></rect><g clip-path="url(#match-clippath-6)"><svg x="0" y="5" class="match--player" data-participant-id="193506065"><title>已经结束啦</title><defs><clipPath id="clipPath1065281"><rect x="50" y="0" width="143" height="22"></rect></clipPath><clipPath id="portraitClipPath1065281"><path></path></clipPath></defs><path d="M 50 0 h 147 v 22 h -147 Z" class="match--player-background"></path><path d="M 26 0 h 24 v 22 h -24 Z" class="match--seed-background"></path><text x="38" y="14" width="10" height="12" text-anchor="middle" class="match--seed">4</text><text clip-path="url(#clipPath1065281)" x="55" y="15" width="147" height="12" text-anchor="start" class="match--player-name ">已经结束啦</text><path d="M 197 0 h 29 v 22 h -29 Z" class="match--player-score-background "></path><text x="211" y="15" width="21" height="12" text-anchor="middle" class="match--player-score ">2</text></svg><svg x="0" y="28" class="match--player" data-participant-id="193506064"><title>老年娱乐</title><defs><clipPath id="clipPath9924815"><rect x="50" y="0" width="143" height="22"></rect></clipPath><clipPath id="portraitClipPath9924815"><path></path></clipPath></defs><path d="M 50 0 h 147 v 22 h -147 Z" class="match--player-background"></path><path d="M 26 0 h 24 v 22 h -24 Z" class="match--seed-background"></path><text x="38" y="14" width="10" height="12" text-anchor="middle" class="match--seed">2</text><text clip-path="url(#clipPath9924815)" x="55" y="15" width="147" height="12" text-anchor="start" class="match--player-name  -winner">老年娱乐</text><path d="M 197 0 h 29 v 22 h -29 Z" class="match--player-score-background -winner"></path><text x="211" y="15" width="21" height="12" text-anchor="middle" class="match--player-score -winner">7</text><line x1="26" y1="-0.5" x2="226" y2="-0.5" class="match--player-divider"></line></svg></g></g><g transform="translate(0 89)" class="match -complete " data-identifier="2" data-match-id="306652362"><defs><clipPath id="match-clippath-2"><rect x="26" y="5" width="200" height="45" rx="3" ry="3"></rect></clipPath></defs><text x="11" y="31" width="24" height="10" text-anchor="middle" class="match--identifier">2</text><rect x="24" y="3" width="204" height="49" rx="3" ry="3" class="match--wrapper-background "></rect><rect x="26" y="5" width="200" height="45" rx="3" ry="3" class="match--base-background"></rect><g clip-path="url(#match-clippath-2)"><svg x="0" y="5" class="match--player" data-participant-id="193506064"><title>老年娱乐</title><defs><clipPath id="clipPath3502950"><rect x="50" y="0" width="143" height="22"></rect></clipPath><clipPath id="portraitClipPath3502950"><path></path></clipPath></defs><path d="M 50 0 h 147 v 22 h -147 Z" class="match--player-background"></path><path d="M 26 0 h 24 v 22 h -24 Z" class="match--seed-background"></path><text x="38" y="14" width="10" height="12" text-anchor="middle" class="match--seed">2</text><text clip-path="url(#clipPath3502950)" x="55" y="15" width="147" height="12" text-anchor="start" class="match--player-name  -winner">老年娱乐</text><path d="M 197 0 h 29 v 22 h -29 Z" class="match--player-score-background -winner"></path><text x="211" y="15" width="21" height="12" text-anchor="middle" class="match--player-score -winner">6</text></svg><svg x="0" y="28" class="match--player" data-participant-id="193506062"><title>东雪莲后援会</title><defs><clipPath id="clipPath1762203"><rect x="50" y="0" width="143" height="22"></rect></clipPath><clipPath id="portraitClipPath1762203"><path></path></clipPath></defs><path d="M 50 0 h 147 v 22 h -147 Z" class="match--player-background"></path><path d="M 26 0 h 24 v 22 h -24 Z" class="match--seed-background"></path><text x="38" y="14" width="10" height="12" text-anchor="middle" class="match--seed">3</text><text clip-path="url(#clipPath1762203)" x="55" y="15" width="147" height="12" text-anchor="start" class="match--player-name ">东雪莲后援会</text><path d="M 197 0 h 29 v 22 h -29 Z" class="match--player-score-background "></path><text x="211" y="15" width="21" height="12" text-anchor="middle" class="match--player-score ">1</text><line x1="26" y1="-0.5" x2="226" y2="-0.5" class="match--player-divider"></line></svg></g></g><g transform="translate(0 35)" class="match -complete " data-identifier="1" data-match-id="306652361"><defs><clipPath id="match-clippath-1"><rect x="26" y="5" width="200" height="45" rx="3" ry="3"></rect></clipPath></defs><text x="11" y="31" width="24" height="10" text-anchor="middle" class="match--identifier">1</text><rect x="24" y="3" width="204" height="49" rx="3" ry="3" class="match--wrapper-background "></rect><rect x="26" y="5" width="200" height="45" rx="3" ry="3" class="match--base-background"></rect><g clip-path="url(#match-clippath-1)"><svg x="0" y="5" class="match--player" data-participant-id="193506060"><title>主播教我HD刷170</title><defs><clipPath id="clipPath1451920"><rect x="50" y="0" width="143" height="22"></rect></clipPath><clipPath id="portraitClipPath1451920"><path></path></clipPath></defs><path d="M 50 0 h 147 v 22 h -147 Z" class="match--player-background"></path><path d="M 26 0 h 24 v 22 h -24 Z" class="match--seed-background"></path><text x="38" y="14" width="10" height="12" text-anchor="middle" class="match--seed">1</text><text clip-path="url(#clipPath1451920)" x="55" y="15" width="147" height="12" text-anchor="start" class="match--player-name ">主播教我HD刷170</text><path d="M 197 0 h 29 v 22 h -29 Z" class="match--player-score-background "></path><text x="211" y="15" width="21" height="12" text-anchor="middle" class="match--player-score ">2</text></svg><svg x="0" y="28" class="match--player" data-participant-id="193506065"><title>已经结束啦</title><defs><clipPath id="clipPath9388608"><rect x="50" y="0" width="143" height="22"></rect></clipPath><clipPath id="portraitClipPath9388608"><path></path></clipPath></defs><path d="M 50 0 h 147 v 22 h -147 Z" class="match--player-background"></path><path d="M 26 0 h 24 v 22 h -24 Z" class="match--seed-background"></path><text x="38" y="14" width="10" height="12" text-anchor="middle" class="match--seed">4</text><text clip-path="url(#clipPath9388608)" x="55" y="15" width="147" height="12" text-anchor="start" class="match--player-name  -winner">已经结束啦</text><path d="M 197 0 h 29 v 22 h -29 Z" class="match--player-score-background -winner"></path><text x="211" y="15" width="21" height="12" text-anchor="middle" class="match--player-score -winner">6</text><line x1="26" y1="-0.5" x2="226" y2="-0.5" class="match--player-divider"></line></svg></g></g><g class="rounds" transform="translate(0,170)"><svg class="round" x="0"><g class="round-label" data-toggle="" data-href="/zh_CN/tournaments/12516185/rounds/new_or_edit?number=-1&amp;title=%E8%B4%A5%E8%80%85%E7%BB%84%E5%9B%9E%E5%90%88+1"><rect width="243" height="25"></rect><text x="122" y="17" width="243" height="15" text-anchor="middle">败者组回合 1</text></g></svg><svg class="round" x="244"><g class="round-label" data-toggle="" data-href="/zh_CN/tournaments/12516185/rounds/new_or_edit?number=-2&amp;title=%E8%B4%A5%E8%80%85%E7%BB%84%E5%9B%9E%E5%90%88+2"><rect width="243" height="25"></rect><text x="122" y="17" width="243" height="15" text-anchor="middle">败者组回合 2</text></g></svg><svg class="round" x="488"><g class="round-label" data-toggle="" data-href="/zh_CN/tournaments/12516185/rounds/new_or_edit?number=-3&amp;title=%E8%B4%A5%E8%80%85%E7%BB%84%E5%9B%9E%E5%90%88+3"><rect width="243" height="25"></rect><text x="122" y="17" width="243" height="15" text-anchor="middle">败者组回合 3</text></g></svg></g></g></svg>
+<script>
+console.error.apply(console, ["Warning: Failed prop type: The prop `theme` is marked as required in `TournamentBracket`, but its value is `undefined`.\n    in TournamentBracket"]);
+</script>
+  </svg>
+</svg>
