@@ -1,6 +1,6 @@
 # GitHub-Desktop
 
-*Dieser Artikel wird auf [der Hauptseite](/wiki/osu!_wiki/Contribution_guide) fortgesetzt* und geht davon aus, dass du [GitHub-Desktop](https://desktop.github.com) benutzt. **Du kannst nach Belieben auch andere Git-Clients verwenden.** Selbst wenn du die Arbeit lokal anfertigst, musst du trotzdem auf GitHub zugreifen, um Änderungsanfragen (Pull-Requests) erstellen zu können, damit die Änderungen implementiert werden.
+*Dieser Artikel wird auf [der Hauptseite](/wiki/osu!_wiki/Contribution_guide) fortgesetzt* und geht davon aus, dass du [GitHub-Desktop](https://desktop.github.com) benutzt. **Du kannst nach Belieben auch andere Git-Clients verwenden**. Selbst wenn du die Arbeit lokal anfertigst, musst du trotzdem auf GitHub zugreifen, um Änderungsanfragen (Pull-Requests) erstellen zu können, damit die Änderungen implementiert werden.
 
 ## GitHub-Desktop installieren
 

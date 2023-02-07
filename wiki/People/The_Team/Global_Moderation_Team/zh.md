@@ -16,9 +16,10 @@ tags:
 
 **全局管理团队的所有成员，都应宣誓和遵守[贡献者公约](/wiki/Contributor_Code_of_Conduct)以及[普通的社区规则](/wiki/Rules)。**
 
+***注意：如果发现全局管理团队 (GMT) 成员有违反贡献者公约或其他不良行为，请联系[账号支持团队](/wiki/People/The_Team/Account_support_team#support@ppy.sh)并举报。***
+
 ## 角色和职责
 
-***注意：如果发现全局管理团队 (GMT) 成员有违反贡献者公约或其他不良行为，请联系[账号支持团队](/wiki/People/The_Team/Account_support_team#support@ppy.sh)并举报。***\
 *参见：[举报不良行为](/wiki/Reporting_bad_behaviour)*
 
 全局管理团队 (GMT) 成员负责保证聊天和论坛和谐发展，确保社区内有一个正常的交流环境。其他玩家可以向他们举报与游戏管理有关的任何问题，包括但不限于：
@@ -98,7 +99,6 @@ tags:
 | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) | 印度尼西亚语 | 聊天管理员 |
 | ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) | 法语 | 聊天管理员 |
 | ::{ flag=BR }:: [Nukrid](https://osu.ppy.sh/users/2307484) | 葡萄牙语，西班牙语 | 聊天管理员 |
-| ::{ flag=NL }:: [Uni](https://osu.ppy.sh/users/617106) | 荷兰语 | 聊天管理员 |
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | 德语 | 作图、摸图社群管理员 |
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | 德语，塞尔维亚语 | 聊天管理员，作图、摸图社群管理员 |
 | ::{ flag=PH }:: [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | 菲律宾语 | 聊天管理员 |
@@ -138,7 +138,7 @@ tags:
 | `#cantonese` |  | ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326), ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) |
 | `#chinese` | [中文](https://osu.ppy.sh/community/forums/25) | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419), ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326), ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729), ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) |
 | `#czechoslovak` |  |  |
-| `#dutch` | [Nederlands](https://osu.ppy.sh/community/forums/69) | ::{ flag=NL }:: [Uni](https://osu.ppy.sh/users/617106) |
+| `#dutch` | [Nederlands](https://osu.ppy.sh/community/forums/69) |  |
 | `#english` |  | *全局管理员* |
 | `#filipino` | [Tagalog](https://osu.ppy.sh/community/forums/76) | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078), ::{ flag=PH }:: [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210), ::{ flag=KR }:: [ToGlette](https://osu.ppy.sh/users/1076236), ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927) |
 | `#finnish` | [Suomi](https://osu.ppy.sh/community/forums/24) | ::{ flag=FI }:: [Laurakko](https://osu.ppy.sh/users/7253731) |

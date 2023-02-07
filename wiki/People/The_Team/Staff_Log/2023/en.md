@@ -9,6 +9,7 @@ Abbreviations for user groups are used throughout this log:
 ## January
 
 - 2023-01-14: Moved [Quenlla](https://osu.ppy.sh/users/4725379) from **NAT** to **osu! Alumni**
+- 2023-01-27: Moved [Uni](https://osu.ppy.sh/users/617106) from **GMT** to **osu! Alumni**
 
 ### Beatmap Nominators
 
@@ -24,6 +25,12 @@ Abbreviations for user groups are used throughout this log:
 - 2023-01-09: Added [-Keitaro](https://osu.ppy.sh/users/3378391) to **BN**
 - 2023-01-12: Added [Mimari](https://osu.ppy.sh/users/14339830) to **Probationary BN**
 - 2023-01-14: Added [Quenlla](https://osu.ppy.sh/users/4725379) to **BN**
+- 2023-01-16: Added [Chromoxx](https://osu.ppy.sh/users/1881639) to **BN**
+- 2023-01-18: Added [Nijika Ijichi](https://osu.ppy.sh/users/10964252) to **Probationary BN**
+- 2023-01-23: Added [Creamy Candy](https://osu.ppy.sh/users/9769199) to **Probationary BN**
+- 2023-01-23: Added [Aruel](https://osu.ppy.sh/users/3984370) to **Probationary BN**
+- 2023-01-24: Added [AWMRone](https://osu.ppy.sh/users/10351684) to **Probationary BN**
+- 2023-01-27: Added [Sun](https://osu.ppy.sh/users/4115819) to **BN**
 
 #### Moves
 
@@ -33,13 +40,26 @@ Abbreviations for user groups are used throughout this log:
 - 2023-01-03: Moved [arcpotato](https://osu.ppy.sh/users/12842392) from **Probationary BN** to **BN**
 - 2023-01-05: Moved [Chatie](https://osu.ppy.sh/users/6524765) from **Probationary BN** to **BN**
 - 2023-01-13: Moved [Feerum](https://osu.ppy.sh/users/4815717) from **Probationary BN** to **BN**
+- 2023-01-16: Moved [ArtZone](https://osu.ppy.sh/users/15548034) from **Probationary BN** to **BN**
+- 2023-01-16: Moved [fvrex](https://osu.ppy.sh/users/11863699) from **Probationary BN** to **BN**
+- 2023-01-18: Moved [fuhie](https://osu.ppy.sh/users/7620002) from **Probationary BN** to **BN**
+- 2023-01-22: Moved [Jonarwhal](https://osu.ppy.sh/users/3653035) from **BN** to **Probationary BN**
+- 2023-01-23: Moved [Hobbes2](https://osu.ppy.sh/users/8157492) from **Probationary BN** to **BN**
+- 2023-01-23: Moved [ckharv](https://osu.ppy.sh/users/9967026) from **Probationary BN** to **BN**
+- 2023-01-23: Moved [riffy](https://osu.ppy.sh/users/597957) from **BN** to **Probationary BN**
 
 #### Removals
 
 - 2023-01-03: Removed [Burak](https://osu.ppy.sh/users/13213075) from **BN**
 - 2023-01-05: Removed [VINXIS](https://osu.ppy.sh/users/4323406) from **BN**
+- 2023-01-16: Removed [Iceluin](https://osu.ppy.sh/users/3558897) from **BN**
+- 2023-01-21: Removed [Amamya](https://osu.ppy.sh/users/1997633) from **BN**
+- 2023-01-21: Removed [Lasse](https://osu.ppy.sh/users/896613) from **BN**
+- 2023-01-24: Removed [hac](https://osu.ppy.sh/users/17853754) from **BN**
+- 2023-01-24: Removed [Kudosu](https://osu.ppy.sh/users/11038155) from **BN**
+- 2023-01-27: Removed [-Syncro](https://osu.ppy.sh/users/4338923) from **BN**
 
-<!-- last updated with Quenlla's removal from NAT + addition to BN @ 01:23 GMT on 1/15/2023>
+<!-- last updated with Uni's removal from GMT + addition to Alumni @ 01:23 GMT on 1/30/2023>
 
 <!--
 To update this article:

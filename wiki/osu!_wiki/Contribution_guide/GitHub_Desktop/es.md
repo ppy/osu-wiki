@@ -1,99 +1,90 @@
----
-outdated_translation: true
-outdated_since: 3243add9ee2ee9f9c516288c3d2736509618bc9c
-no_native_review: true
----
+# GitHub Desktop
 
-# GitHub para Escritorio
+*Este artículo es la continuación de [la página principal](/wiki/osu!_wiki/Contribution_guide)* y asume que usará [GitHub Desktop](https://desktop.github.com). **Puede usar otros clientes de Git en sus propios términos**. Incluso si trabaja localmente, aún necesitará acceder a GitHub para crear solicitudes de cambios para que se realicen los cambios.
 
-*Éste artículo es la continuación de [la página principal](/wiki/osu!_wiki/Contribution_guide)* y asume que estarás usando [GitHub para Escritorio](https://desktop.github.com). **Puedes usar otros clientes de Git bajo tus propios términos.** Incluso si es que trabajas localmente, seguirás necesitando entrar a GitHub para crear 'pull requests' para hacer que tus cambios pasen.
+## Instalación de GitHub Desktop
 
-## Instalando GitHub para Escritorio
+1. Instale [GitHub Desktop](https://desktop.github.com) si aún no lo tiene instalado.
+2. Cuando se complete la instalación, GitHub Desktop le pedirá que inicie sesión, haga clic en `Sign in to GitHub.com`.
+3. Complete las indicaciones tal como aparecen.
+4. Continua a [Clonación](#clonación).
 
-1. Instala [GitHub para Escritorio](https://desktop.github.com) si es que todavía no lo tienes instalado.
-2. Cuando la instalación se haya completado, GitHub para Escritorio te pedirá iniciar sesión, haz click en `Sign in to GitHub.com`.
-3. Rellena los datos que te pidan.
-4. Continua en [Clonando](#clonando).
+## Clonación
 
-## Clonando
+1. Haga clic en `Clone a repository`.
 
-1. Haz click en `Clone a repository`.
+2. Esto mostrará una lista de sus repositorios; seleccione el repositorio `osu-wiki`.
 
-2. Ésto te mostrará una lista de tus repositorios; selecciona el repositorio `osu-wiki`.
-
-3. Selecciona la carpeta en donde quieres clonar el repositorio. No importa dónde lo clones, solo recuerda dónde es.
+3. Seleccione la ubicación de la clonación. No importa dónde clone el repositorio, solo recuerde dónde lo clonó.
 
    ![](img/github-desktop-select-repo.jpg)
 
-4. Haz click en `Clone`. Ésto puede tomar un momento dependiendo de tu velocidad de internet.
+4. Haga clic en `Clone`. Esto puede tomar un tiempo dependiendo de su entorno de red.
 
-5. Continua en [Ramificando](#ramificando).
+5. Continua a [Ramifición](#ramifición).
 
-## Ramificando
+## Ramifición
 
-Mientras que la ramificación es técnicamente opcional, es [altamente recomendable por un par de razones](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow). Para nombrar unas cuantas:
+Si bien la ramificación es técnicamente opcional, es [muy recomendable por un par de razones](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow). Por nombrar algunas:
 
-- Las ramificaciones aislan diferentes cambios lógicos unos de otros: puedes trabajar en más de un artículo y tenerlos revisados y unidos de manera separada.
-- Cuando tus cambios están fuera de tu ramificación `master`, puedes [sincronizarlo de manera segura](/wiki/osu!_wiki/Contribution_guide/Best_practices#syncing-the-fork) sin conflictos de unión.
+- Las ramas aíslan diferentes cambios lógicos entre sí: puede trabajar en más de un artículo y revisarlos y fusionarlos por separado.
+- Cuando sus cambios están fuera de la rama `master`, puede [sincronizarlos de forma segura](/wiki/osu!_wiki/Contribution_guide/Best_practices#sincronizar-la-bifurcación) sin conflictos de fusión.
 
-1. Haz click en la opción desplegable `Current branch` localizado en la parte de arriba del menú.
+1. Haga clic en el menú desplegable `Current branch` ubicado en la parte superior del menú.
 
-2. Ingresa el nombre de la ramificación. Es recomendable el usar el resumen de tus cambios como el nombre de tu ramificación. Por ejemplo, editar el artículo `Forums` puede resultar en una ramificación llamada `update-forums`.
+2. Introduzca el nombre de la rama. Se sugiere utilizar el resumen de sus cambios como nombre de la rama. Por ejemplo, editar el artículo `Foros` puede resultar en que la rama se llame `update-forums`.
 
    ![](img/github-desktop-branch.jpg)
 
-3. Continua en [Editando](#editando).
+3. Continua a [Edición](#edición).
 
-## Editando
+## Edición
 
-1. En el archivo en el que has clonado el repositorio, navega al archivo que quieres editar. Los artículos están organizados por el nombre de las carpetas siendo el nombre de los artículos y los archivos `.md` siendo las traducciones.
-2. Una vez que has encontrado el archivo correcto, ábrelo usando tu editor de texto favorito.
-3. Ahora puedes hacer tus cambios. Cuando haces cambios, sigue el [Criterio de Estilo de Artículos](/wiki/Article_styling_criteria) tanto como puedas.
-4. Continua en [Haciendo 'commits' y 'pushes'](#haciendo-'commits'-y-'pushes').
+1. En la carpeta en la que clonó el repositorio, navegue hasta el archivo que desea editar. Los artículos están organizados por los nombres de las carpetas que son los nombres de los artículos y los archivos `.md` que son las traducciones.
+2. Una vez que encuentre el archivo correcto, ábralo con su editor de texto favorito.
+3. Ahora puede hacer sus cambios. Tómese un momento para pasar también por la [autocomprobación](/wiki/osu!_wiki/Contribution_guide#autocomprobación).
+4. Continua a [Creación de commits y envío](#creación-de-commits-y-envío).
 
-### Moviendo archivos existentes
+### Mover archivos existentes
 
-1. Usa el Explorador de Archivos de Windows para mover archivos a cualquier parte.
-2. Continua en [Haciendo 'commits' y 'pushes'](#haciendo-'commits'-y-'pushes').
+1. Use el Explorador de Windows para mover archivos.
+2. Continua a [Creación de commits y envío](#creación-de-commits-y-envío).
 
-### Creando nuevos archivos
+### Crear nuevos archivos
 
-*Precaución: Si vas a crear artículos usando el Explorador de Archivos de Windows, asegúrate de que la opción `Extensiones de nombre de archivo` esté activa.* Vea [Cómo mostrar o esconder las extensiones de los archivos en el explorador de Windows](https://support.microsoft.com/en-us/help/865219/how-to-show-or-hide-file-name-extensions-in-windows-explorer) para las instrucciones.
+*Precaución: si va a crear archivos de artículos con el Explorador de Windows, asegúrese de que la opción `Extensiones de nombre de archivo` esté habilitada.* Véase [Extensiones de nombre de archivo comunes en Windows](https://support.microsoft.com/es-es/windows/extensiones-de-nombre-de-archivo-comunes-en-windows-da4a4430-8e76-89c5-59f7-1cdbbc75cb01) para obtener instrucciones.
 
-1. Usa el Explorador de Archivos de Windows, tu editor de imágenes favorito y/o tu editor de texto favorito para crear nuevos archivos. Si estás creando nuevos artículos o traducciones, renombra el archivo siguiendo los [Archivos en el Criterio de Estilo de Artículos](/wiki/Article_styling_criteria/Formatting#locales).
-2. Continua en [Haciendo 'commits' y 'pushes'](#haciendo-'commits'-y-'pushes').
+1. Use Explorador de Windows, su editor de imágenes favorito y/o su editor de texto favorito para crear nuevos archivos. Si está creando nuevos artículos o traducciones, cambie el nombre del archivo para que siga las [configuraciones regionales en los criterios de estilo del artículo](/wiki/Article_styling_criteria/Formatting#configuraciones-regionales).
+2. Continua a [Creación de commits y envío](#creación-de-commits-y-envío).
 
-### Eliminando archivos
+### Eliminar archivos
 
-1. Usa el Explorador de Archivos de Windows para eliminar archivos.
-2. Continua en [Haciendo 'commits' y 'pushes'](#haciendo-'commits'-y-'pushes').
+1. Use el Explorador de Windows para eliminar archivos.
+2. Continua a [Creación de commits y envío](#creación-de-commits-y-envío).
 
-## Haciendo 'commits' y 'pushes'
+## Creación de commits y envío
 
-1. Vuelve a GitHub para Escritorio. Debería de verse algo similar a esto:
+1. Vuelva a GitHub Desktop. Debería verse algo similar a esto:
 
-   ![](img/github-desktop-changes.jpg)
+  ![](img/github-desktop-changes.jpg "El número de archivos puede variar.")
 
-2. Por defecto, GitHub para Escritorio automáticamente seleccionará todos tus cambios.
+2. De manera predeterminada, GitHub Desktop seleccionará automáticamente todos sus cambios.
+3. Es mejor separar cada acción «grande» como un solo commit.
 
-3. Lo mejor es separar cada acción "grande" como un 'commit' aparte.
+Por ejemplo, como se muestra arriba, [pippi](/wiki/Mascots#pippi) agregó una imagen, modificó el archivo `en.md` para agregar un título y un enlace a la imagen, y marcó las traducciones como obsoletas. A partir de esto, podemos tener dos commits, una para los cambios que afectaron el archivo `en.md` y otra para marcar las traducciones como obsoletas.
 
-Por ejemplo, como se muestra arriba, [pippi](/wiki/Mascots#pippi) ha agregado una imagen, ha modificado el archivo `en.md` para agregar un título y un link a la imagen y ha marcado las traducciones como desactualizadas. De esto podemos hacer dos 'commits', una para los cambios que afectan al archivo `en.md` y otra para marcar las traducciones como desactualizadas.
+4. Seleccione los archivos que se van a añadir al commit.
+5. Escriba un resumen para el commit. Esto tiene un límite de 72 caracteres y **debe estar en inglés**.
+6. Escriba una descripción. Esto es opcional, no tiene límite de caracteres y puede estar en cualquier idioma.
 
-4. Selecciona los archivos que vayas a añadir al 'commit'.
+  ![](img/github-desktop-first-commit.jpg "Primer commit")
 
-5. Escribe un resumen para el commit. Ésto tiene un límite de 72 caracteres y **debe de estar en Inglés**.
+7. Haga clic en el botón azul `Commit to` y, si corresponde, reinicie desde el paso 4 para realizar los otros commits que desea realizar.
 
-6. Escribe una descripción. Ésto es opcional, no tiene un límite de caracteres y puede ser en cualquier idioma.
+  ![](img/github-desktop-second-commit.jpg "Segundo commit")
 
-   ![](img/github-desktop-first-commit.jpg "Primer 'commit'")
+8. Una vez que haya terminado de hacer sus commits, haga clic en el botón `Publish branch` en la parte superior.
 
-7. Haz click en el botón azul `Commit to` y, si es que aplica, empieza de nuevo desde el paso 4 para hacer los otros 'commits' que quieras hacer.
+  ![](img/github-desktop-push.jpg)
 
-   ![](img/github-desktop-second-commit.jpg "Segundo 'commit'")
-
-8. Una vez hayas terminado de hacer tus 'commits', haz click en el botón `Publish branch` en la parte superior.
-
-   ![](img/github-desktop-push.jpg)
-
-9. Continua a [Finalizando](/wiki/osu!_wiki/Contribution_guide#finalizando) para la última pieza de información en relación a tus cambios y a tu 'pull request'.
+9. Continue a [Revisión](/wiki/osu!_wiki/Contribution_guide#revisión) para obtener la última información sobre su solicitud de cambios y cambios.
