@@ -4,7 +4,7 @@ title: "Skin of the Year 2022: Voting Open"
 date: 2023-02-09 09:00:00 +0000
 ---
 
-Do you think you got what it takes to select the BEST skin of 2022? Let us know by casting your vote!
+Do you think you got what it takes to select the BEST skins of 2022? Let us know by casting your vote!
 
 ![](/wiki/shared/news/2023-02-01-Skin-of-the-Year-2022/SOTY-2022-banner.jpg)
 
