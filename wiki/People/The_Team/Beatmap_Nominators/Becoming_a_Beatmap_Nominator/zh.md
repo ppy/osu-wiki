@@ -1,23 +1,18 @@
----
-outdated_translation: true
-outdated_since: 053605ecbcbd1eb5a62e91a331315884fb4b00da
----
-
 # 成为 BN
 
 想要加入[谱面审核团队 (BN)](/wiki/People/The_Team/Beatmap_Nominators) 的玩家需要在[审核评估团队 (NAT)](/wiki/People/The_Team/Nomination_Assessment_Team) 成员的监管下通过 BN 申请程序。
 
 BN 申请程序于 [NAT 官网](http://bn.mappersguild.com/bnapps)进行。
 
-想要通过 BN 申请，玩家需要达到摸图活跃要求，提交两张自己摸过的谱面的链接，并完成基于[谱面上架标准 (RC)](/wiki/Ranking_Criteria) 而设立的 [BN 考试](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test)。一旦结果确定，NAT 会给你发送一条信息。关于申请的更多信息已在网页内列出。
+想要通过 BN 申请，玩家需要达到 [kudosu](/wiki/Modding/Kudosu) 数量要求，提交两张自己摸过的谱面的链接，并完成基于[谱面上架标准 (RC)](/wiki/Ranking_Criteria) 而设立的 [BN 考试](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test)。一旦结果确定，NAT 会给你发送一条信息。关于申请的更多信息已在网页内列出。
 
 ## 基础标准
 
 申请者必须达到以下标准：
 
-- 过去至少三个月内有摸图活动。
-- 取决于申请游戏模式，至少获取 150 或 200 个 [kudosu](/wiki/Modding/Kudosu)。
-- 提交 2 到 3 个摸（俗称上狗摸）。这些摸需要阐述可以提名或者不能提名这些谱面的理由。
+- 作为 osu! 模式的摸图员，至少获取 200 个 [kudosu](/wiki/Modding/Kudosu)，作为 osu!taiko/osu!catch/osu!mania 的摸图员，至少获取 150 个 [kudosu](/wiki/Modding/Kudosu)。
+- 提交 3 个摸（俗称上狗摸）。这些摸需要阐述可以提名或者不能提名这些谱面的理由。
+  - 前 BN/NAT 成员在申请时只需要提交至少 2 个摸。
 
 ### 摸图期望（上狗摸要求）
 
@@ -39,59 +34,34 @@ BN 申请程序于 [NAT 官网](http://bn.mappersguild.com/bnapps)进行。
   - 摸图能力：熟记通用[上架标准 (RC)](/wiki/Ranking_Criteria) 以及每个游戏模式特定的标准。除此之外，检查歌曲元数据，测定歌曲时间轴等其他能力也会被考虑在内。
 - NAT 完成评估后，将会讨论并决定申请者是否能够加入 BN 团队。
 
-## 摸图活跃度
-
-申请 osu! 模式的 BN 需要申请者达到一定的摸图活跃度。目前，osu!taiko、osu!catch、osu!mania 模式对摸图活跃度**不做要求**。
-
-### 什么摸图帖才算合格
-
-- 一旦注册成功，网页会自动计算你三个月内的 kudosu 分数。
-- 如果至少有一条玩家在谱面讨论区发出的建议或问题摸图帖收到了赞成票 (kudosu)，同时收到赞成票 (kudosu) 的时间在三个月内，即被视为合格的摸图帖。
-- 因为摸图活跃度只考虑你在社区的所有活动，所以写摸的游戏模式不重要。
-- 因为网站计算数据是从主页的摸图历史记录内收集得到，所以收到 kudosu 的时间点**很重要**。
-
-### 如何计算最低分数
-
-- 这取决于申请者过去几个月所取得的总`摸图分数 (ModScore)`。这个值由以下公式计算得出：
-
-![摸图分数 (ModScore) 公式](/wiki/shared/Modscore_new_wiki.png "摸图分数 (ModScore) 公式")
-
-`m` = 单月内摸图的最低限制
-`M` = 单月内摸图的总数
-
-- [该网页](http://bn.mappersguild.com/bnapps)含有能够计算`摸图分数 (ModScore)` 的工具。
-- 为了满足最低要求，过去三个月内`摸图分数 (ModScore)` 的总和必须大于等于 0。
-- 整体的最低要求按以下方式设定：
-  - osu!taiko、osu!catch、osu!mania：`m` = 3，且获得的 kudosu 数量大于等于 150。
-  - osu!：`m` = 4，且获得的 kudosu 数量大于等于 200。
-- 建议尽量满足或者超出这些预期要求，因为它们可能会因为申请数量不同而略微变动。
-
 ## 冷却期
 
-取决于你所在的状态不同，申请失败再次申请之前所需的冷却期和摸图分数 (ModScore) 要求也会不同。
+取决于你所在的状态不同，申请失败再次申请之前所需的冷却期要求也会不同。
 
 ### 申请失败
 
 申请者在申请 BN 失败后，再次提交申请前需满足以下要求：
 
-| 种类 | 冷却期 | 活跃度要求 |
-| :-- | :-- | :-- |
-| 常规 (Standard) | 90 天 | 过去 90 天的`摸图分数 (ModScore)` 大于等于 0 |
-| 冷却缩短 (Reduced) | 60 天 | 过去 90 天的`摸图分数 (ModScore)` 大于等于 0 |
-| 未通过 [BN 考试](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) | 30 天 | 过去 90 天的`摸图分数 (ModScore)` 大于等于 0 |
+| 种类 | 冷却期 |
+| :-- | :-- |
+| 常规 (Standard) | 90 天 |
+| 缩短 (Reduced) | 45-60 天 |
+| 未通过 [BN 考试](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) | 30 天 |
 
-### 在离开后重新加入 BN 团队
+### 在离开后重回 BN 团队
 
-对于在离开后重新加入 BN 团队玩家的要求与第一次加入的要求不太一样。如果玩家在离开团队之前表现良好，他们在重新加入时的要求也可能会适当放宽。NAT 会提示那些能够快速返回 BN 工作的玩家。
+对于玩家，在离开后重回 BN 团队的要求，与第一次加入的要求不太一样。如果玩家在离开团队之前表现良好，他们在重回团队时的要求可能会适当放宽，甚至可以无要求直接加入。NAT 会提示那些能够快速返回 BN 团队的玩家。
 
 如果你曾是 BN，且你未能通过 BN 申请，则需要满足这些要求，以再次提交申请。
 
-`摸图分数 (ModScore)` 要求仅在 osu! 模式生效，而不是 osu!taiko、osu!catch、osu!mania。但是因活跃度不足而撤职的 BN，不管是什么游戏模式，8 条摸的要求都需要完成。
+不管是什么游戏模式，因活跃度不足而撤职的 BN 重回团队时，都需要完成 8 条摸的要求。
 
 | 种类 | 冷却期 | 活跃度要求 |
 | :-- | :-- | :-- |
-| 常规 (Standard) | 60 天 | 过去 60 天的`摸图分数 (ModScore)` 大于等于 0 |
-| 活跃度不足 (Activity) | 30 天 | `摸图分数 (ModScore)` 无要求，但需要在 60 天内提 8 条摸 |
-| 良好 (Good) | 30 天 | 过去 30 天的`摸图分数 (ModScore)` 大于等于 0 |
+| 常规 (Standard) | 60 天 | *N/A* |
+| 活跃度不足 (Activity) | 30 天 | 在 60 天内提交 8 条摸 |
+| 良好 (Good) | 30 天 | *N/A* |
 
-对于在过去一年内表现优秀的前 BN，将在加入成功后立即升为正式 (Full) BN。
+对于在过去 6 个月内正常辞职的前 BN，可以在申请受理后，立即升为正式 BN。无需参加 [BN 考试](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test)和提交用于评估的摸。
+
+对于在过去一年内正常辞职的前 BN，想要重回团队时，依旧需要提交申请。但是只要申请通过，他们将立即升为正式 BN。

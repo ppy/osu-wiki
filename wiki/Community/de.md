@@ -17,6 +17,7 @@ Diese Seite listet Möglichkeiten für Menschen aus der gesamten osu!-Community 
 - [Community-Mentorenprogramm](/wiki/Community/Community_Mentorship_Program)
 - [Mappers' Guild](/wiki/Community/Mappers_Guild)
 - [osu!-Wiki](/wiki/osu!_wiki)
+- [osu!monthly](/wiki/Community/osu!monthly)
 - [Project Loved](/wiki/Community/Project_Loved)
 
 ## Initiativen
