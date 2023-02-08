@@ -1,18 +1,18 @@
 ---
 layout: post
 title: "osu!monthly, January 2023"
-date: 2023-02-01 17:00:00 +0000
+date: 2023-02-10 17:00:00 +0000
 ---
 
 New year, new osu!, right? Catch up with all that's changed since last year!
 
-![](/wiki/shared/news/2023-02-01-osumonthly-7/banner.jpg)
+![](/wiki/shared/news/2023-02-10-osumonthly-7/banner.jpg)
 
 Welcome to the 7th edition of osu!monthly! It is hard to believe that it has been 7 editions, 7 months for writing for the community. While the new year brings in new changes and more excitement for the upcoming year know that if it happens in osu!, we've got it covered, though we cannot always cover everything and are always looking for content curators, writers, and osu! enthusiasts to come and help out. If you are interested or have feedback don't be shy and let us know in the [osu!dev Discord server](https://discord.gg/ppy).
 
-The osu!monthly [forum post](https://osu.ppy.sh/community/forums/topics/1614314?n=1) has somewhat been disbanded after a lengthy discussion in how to reduce bloat and improve readability of the newsletter, it has now been since transformed into a permanent [osu! wiki page](https://osu.ppy.sh/wiki/en/People/osu%21monthly_team) listing the "osu!monthly team" that'll be used to sign the newsletter, but don't fret, all contributors are welcome and encouraged to help.
+The osu!monthly [forum post](https://osu.ppy.sh/community/forums/topics/1614314?n=1) has somewhat been disbanded after a lengthy discussion in how to reduce bloat and improve readability of the newsletter, it has now been since transformed into a permanent [osu! wiki page](https://osu.ppy.sh/wiki/en/People/osu!monthly_team) listing the "osu!monthly team" that'll be used to sign the newsletter, but don't fret, all contributors are welcome and encouraged to help.
 
-If you'd like to look at the previous editions of osu!monthly then make sure to check out the [wiki page](https://osu.ppy.sh/wiki/en/Community/osu%21monthly) that lists not only this revival, but all other editions of the infamous project.
+If you'd like to look at the previous editions of osu!monthly then make sure to check out the [wiki page](https://osu.ppy.sh/wiki/en/Community/osu!monthly) that lists not only this revival, but all other editions of the infamous project.
 
 Now that we have rambled on and on, let's check out what January had in store for us!
 
@@ -70,9 +70,17 @@ The GMT is a group of community members who moderate chat, forums, beatmap discu
 
 These have already closed as of February 2nd. Good luck to all applicants!
 
+### 4 digits Mania World Cup (4DMWC)
+
+It's surprising how much the tournament scene has evolved throughout the years in osu!mania. Even more so given how many people take it for granted. But after many years of unyielding dedication, we finally got to where we are!
+
+Having been active users in the osu!mania tournament scene, players [Polytetral](https://osu.ppy.sh/users/8612061), [HowToPlayLN](https://osu.ppy.sh/users/10879600), [DannyPX](https://osu.ppy.sh/users/11253722), and alongside other contributors have [briefly gone through its history](https://github.com/4digitmwc/media-centre-articles/blob/main/opinions/week3.md). 
+
+For anyone interested on contributing or reading their periodic articles, you can find them all in the [official 4 Digit Mania World Cup Website](https://4digitmwc.github.io/media-centre/) or scouting through their [GitHub repository](https://github.com/4digitmwc/media-centre-articles). Also, a good way to stay updated with their ongoing tournament is through their [Twitch channel](https://www.twitch.tv/4digitmwc)!
+
 ### Bosphorus Invitational
 
-![](/wiki/shared/news/2023-02-01-osumonthly-7/bosphorus-banner.jpg)
+![](/wiki/shared/news/2023-02-10-osumonthly-7/bosphorus-banner.jpg)
 
 Hosted by [Zeus-](https://osu.ppy.sh/users/5464437) with the help and support of the [Boğaziçi University Gaming Club (BUOK)](https://buok.boun.edu.tr/), and sponsored by [Estanbul Esports and Gaming Center](https://www.estanbulgaming.com/?lang=en), [**Bosphorus Invitational**](https://osu.ppy.sh/community/forums/topics/1696844) is a 1v1 invite-only LAN tournament organized at Boğaziçi University South Campus, located right next to the Bosphorus Strait where the event derives its name from. The tournament featured some of the best osu! players among Turkish rankings, who are invited to participate in a friendly 1v1 showdown throughout the day. Took place on 29th of January, the event featured approximately 70 attendees, all of which hyped up to cheer for their favourite participant in the tournament and enjoy the engaging atmosphere.
 
@@ -136,8 +144,11 @@ Another notable play worthy of mention this month is [Majimanjiwwwww's](https://
 
 You might be surprised to see [Yomi yori Kikoyu, Koukoku no Tou to Honoo no Shoujo](https://osu.ppy.sh/beatmapsets/461744#fruits/1031991) in the osu!catch section, but believe it or not, this map has enjoyed great competition over the years, culminating on the play [ArMa79](https://osu.ppy.sh/users/4982799) set this January. Marking the first-ever FC on this more than legendary map that's jam-packed with insane tech and precision patterns, the incredible effort put by ArMa79 to defeat one of the hardest convert maps in the game is truly admirable; however, this is not the only convert map this month, as we've seen a new DT PP record for this category of play. We are of course talking about [Aryssiel](https://osu.ppy.sh/users/2389481/fruits)'s 1xmiss play on [Heavy Rotation](https://osu.ppy.sh/beatmapsets/1524839#fruits/3119805) with DT, tragically choking an even more impressive, 860pp play. To put this into context, the previous record held by [b-a-d-s123](https://osu.ppy.sh/users/3656717) on [Team Magma & Aqua Leader Battle Theme (Unofficial)](https://osu.ppy.sh/scores/fruits/207475584) is only 724pp, we wish the best for Aryssiel if he ever tries to fix this choke.
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/3gvbI7qierI" frameborder="0" allowfullscreen></iframe>
+
 ### Notable osu!mania plays of the year
 
+Unfortunately the monthly team did not see any mania plays worth mentioning this month, but if you believe this is incorrect feel free to reach out to us either via the osu!dev Discord server or reach out directly to [RandomeLoL](https://osu.ppy.sh/users/7080063) and [kadoen](https://osu.ppy.sh/users/12780575) who are in charge of this section.
 
 ## Mapping Recap
 
@@ -225,20 +236,20 @@ As should be tradition by now, 3 skins from the month of January have been selec
 
 The art and name for osu!stream came from a community member! In mid 2010, [Koko Ban](https://osu.ppy.sh/users/60603) on the forums would [show off their idea](https://osu.ppy.sh/community/forums/topics/13087?n=645) for another osu! game by posting a fan concept. The community received it really well, and when peppy decided to work on the iOS version of the game, Koko Ban was commissioned to do the full visual game design. Thanks once again to [Kurboh](https://osu.ppy.sh/users/15243233) for providing this cool titbit of osu! lore.
 
-Source: ![](/wiki/shared/news/2023-02-01-osumonthly-7/did-you-know.jpg)
+Source: ![](/wiki/shared/news/2023-02-10-osumonthly-7/did-you-know.jpg)
 
 ## Monthly community quiz
 
 We admit that the last month's question was brutal, and we'll be looking into balancing the difficulty over the next few issues.
 The correct answer was
 
-![](/wiki/shared/news/2023-02-01-osumonthly-7/jan23-quiz.jpg)
+![](/wiki/shared/news/2023-02-10-osumonthly-7/jan23-quiz.jpg)
 
 Anyway, on to this month's question, it's February, Valentine's Day is coming soon, so here's a nice lovely question for you all:
 
 "*soonTM*"
 
-Good luck to everyone, and as always there's a month of osu! supporter up for grabs to the first person to get a correct answer!
+Good luck to everyone, and as always there's a month of osu!supporter up for grabs to the first person to get a correct answer!
 
 ## Things to look out for in February
 
