@@ -1,11 +1,8 @@
----
-outdated_translation: true
-outdated_since: 22188ef2a9149c3f0999652c9386734bb1215ffe
----
-
 # Maintainers de l'osu! wiki
 
-Les maintainers jettent régulièrement un œil au [suivi des issues](https://github.com/ppy/osu-wiki/issues) et examinent les pull requests des contributeurs. Contrairement aux autres contributeurs, ils peuvent modifier les pull requests et les merge dans la branche `master` du dépôt, rendant ainsi les changements publics.
+Les **maintainers de l'osu! wiki** maintiennent l'[osu! wiki](/wiki/osu!_wiki) via son [dépôt de projet sur GitHub](https://github.com/ppy/osu-wiki).
+
+Les maintainers jettent régulièrement un œil au [suivi des issues](https://github.com/ppy/osu-wiki/issues) et examinent les pull requests (des demandes de modification) des contributeurs. Contrairement aux autres contributeurs, ils peuvent modifier les pull requests et les merge dans la branche `master` du dépôt, rendant ainsi les changements publics.
 
 Si vous avez besoin d'aide pour faire une contribution ou si vous voulez une review de votre pull request, envoyez un message dans le salon de discussion `#osu-wiki` du [serveur Discord osu!dev](/wiki/Community/osu!dev_Discord_server) et un maintainer ou un autre contributeur vous répondra (tous les maintainers comprennent l'anglais).
 
@@ -13,7 +10,7 @@ Si vous avez besoin d'aide pour faire une contribution ou si vous voulez une rev
 
 | Profil osu! | Profil GitHub | Statut | Langues supplémentaires |
 | :-- | :-- | :-- | :-- |
-| ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350) | [cl8n](https://github.com/cl8n) | **Actif** |  |
+| ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350) | [cl8n](https://github.com/cl8n) | Inactif |  |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | [Ephemeralis](https://github.com/Ephemeralis) | **Actif** |  |
 | ::{ flag=US }:: [Joehu](https://osu.ppy.sh/users/8549835) | [Joehuu](https://github.com/Joehuu) | Inactif |  |
 | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | [juankristal](https://github.com/juankristal) | Inactif | Espagnol |
@@ -41,7 +38,7 @@ Curateurs, rédacteurs et approbateurs de tous les [news posts](https://osu.ppy.
 
 ## Anciens maintainers
 
-Cette liste comprend les maintainers de la configuration MediaWiki, que l'osu! wiki [avait](/wiki/History_of_osu!/osu!_wiki) :
+Cette liste comprend les maintainers de la configuration MediaWiki, dont l'osu! wiki [disposait auparavant](/wiki/History_of_osu!/osu!_wiki) :
 
 - ::{ flag=RU }:: [\[Dellirium\]](https://osu.ppy.sh/users/519032)
 - ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370)

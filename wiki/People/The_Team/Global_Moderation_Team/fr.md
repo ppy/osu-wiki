@@ -8,8 +8,6 @@ tags:
   - modérateurs
   - modérateur de tchat
   - modérateur de chat
-outdated_translation: true
-outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 ---
 
 # Global Moderation Team
@@ -20,9 +18,10 @@ La **Global Moderation Team** (anciennement appelée Global Mod Team, Administra
 
 **Tous les Global Moderators sont tenus de respecter le [Code de conduite Contributor Covenant](/wiki/Contributor_Code_of_Conduct) en plus des [règles de la communauté](/wiki/Rules) normales.**
 
+***Remarque : pour signaler qu'un modérateur s'est mal comporté ou a enfreint le code de conduite des contributeurs, contactez l'[équipe de support aux comptes](/wiki/People/The_Team/Account_support_team#support@ppy.sh).***
+
 ## Rôles et responsabilités
 
-***Remarque : pour signaler qu'un modérateur s'est mal comporté ou a enfreint le code de conduite des contributeurs, contactez l'[équipe de support aux comptes](/wiki/People/The_Team/Account_support_team#support@ppy.sh).***\
 *Voir aussi : [Signaler un mauvais comportement](/wiki/Reporting_bad_behaviour)*
 
 La Global Moderation Team est responsable du bien-être du tchat et du forum, et s'occupe des interactions au sein de la communauté. Vous pouvez la solliciter pour toute question relative à la modération du jeu, ce qui inclut (mais ne se limite pas à) :
@@ -66,7 +65,7 @@ La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la
 | ::{ flag=HU }:: [[ Another ]](https://osu.ppy.sh/users/3416573) | Hongrois | Modération du tchat |
 | ::{ flag=CH }:: [\[ryuu\]](https://osu.ppy.sh/users/5698467) | Russe | Modération du tchat |
 | ::{ flag=US }:: [abraker](https://osu.ppy.sh/users/4635891) |  | Modération du forum |
-| ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | Gestion des tournois |
+| ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578) |  | Gestion des tournois[^task-Azer] |
 | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419) | Chinois, malais | Modération du tchat |
 | ::{ flag=US }:: [Chaos](https://osu.ppy.sh/users/2628870) |  | Modération du tchat |
 | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | Suédois, espagnol | Modération du tchat, gestion des tournois |
@@ -100,7 +99,6 @@ La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la
 | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) | Indonésien | Modération du tchat |
 | ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) | Français | Modération du tchat |
 | ::{ flag=BR }:: [Nukrid](https://osu.ppy.sh/users/2307484) | Portugais, espagnol | Modération du tchat |
-| ::{ flag=NL }:: [Uni](https://osu.ppy.sh/users/617106) | Néerlandais | Modération du tchat |
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | Allemand | Modération de la communauté modding/mapping |
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | Allemand, serbe | Modération du tchat, modération de la communauté modding/mapping |
 | ::{ flag=PH }:: [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Philippin | Modération du tchat |
@@ -140,7 +138,7 @@ La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la
 | `#cantonese` |  | ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326), ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) |
 | `#chinese` | [中文](https://osu.ppy.sh/community/forums/25) | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419), ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326), ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729), ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) |
 | `#czechoslovak` |  |  |
-| `#dutch` | [Nederlands](https://osu.ppy.sh/community/forums/69) | ::{ flag=NL }:: [Uni](https://osu.ppy.sh/users/617106) |
+| `#dutch` | [Nederlands](https://osu.ppy.sh/community/forums/69) |  |
 | `#english` |  | *Tous les modérateurs* |
 | `#filipino` | [Tagalog](https://osu.ppy.sh/community/forums/76) | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078), ::{ flag=PH }:: [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210), ::{ flag=KR }:: [ToGlette](https://osu.ppy.sh/users/1076236), ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927) |
 | `#finnish` | [Suomi](https://osu.ppy.sh/community/forums/24) | ::{ flag=FI }:: [Laurakko](https://osu.ppy.sh/users/7253731) |
@@ -149,7 +147,7 @@ La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la
 | `#greek` |  |  |
 | `#hebrew` |  |  |
 | `#hungarian` | [Magyar](https://osu.ppy.sh/community/forums/95) | ::{ flag=HU }:: [[ Another ]](https://osu.ppy.sh/users/3416573) |
-| `#indonesian` | [Indonesian](https://osu.ppy.sh/community/forums/73) | ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789), ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986), ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) |
+| `#indonesian` | [Indonesian](https://osu.ppy.sh/community/forums/73) | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805), ::{ flag=ID }:: [Shurelia](https://osu.ppy.sh/users/3807986), ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) |
 | `#italian` | [Italiano](https://osu.ppy.sh/community/forums/36) |  |
 | `#japanese` | [日本語](https://osu.ppy.sh/community/forums/32) | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107), ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109), ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326), ::{ flag=JP }:: [KSHR](https://osu.ppy.sh/users/409957), ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369), ::{ flag=JP }:: [S o h](https://osu.ppy.sh/users/2234772), ::{ flag=KR }:: [ToGlette](https://osu.ppy.sh/users/1076236) |
 | `#korean` | [한국어](https://osu.ppy.sh/community/forums/58) | ::{ flag=KR }:: [Civil oath](https://osu.ppy.sh/users/3216107), ::{ flag=KR }:: [Petit](https://osu.ppy.sh/users/4637369), ::{ flag=KR }:: [ruexia](https://osu.ppy.sh/users/385069), ::{ flag=KR }:: [ToGlette](https://osu.ppy.sh/users/1076236) |
@@ -164,3 +162,7 @@ La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la
 | `#turkish` | [Türkçe](https://osu.ppy.sh/community/forums/93) |  |
 | `#ukrainian` |  | ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) |
 | `#vietnamese` |  | ::{ flag=VN }:: [My Angel Chino](https://osu.ppy.sh/users/20547597), ::{ flag=ID }:: [Sies](https://osu.ppy.sh/users/6491991) |
+
+## Notes
+
+[^task-Azer]: Bien que ne faisant pas partie de la GMT elle-même, Azer fait techniquement partie du groupe d'utilisateurs car il a besoin de permissions du niveau des GMT en tant qu'organisateur de la World Cup.
