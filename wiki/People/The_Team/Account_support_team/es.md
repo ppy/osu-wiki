@@ -15,7 +15,7 @@ Por lo general, el soporte tarda unos días en llegar al correo electrónico. Si
 *Artículo principal: [Centro de ayuda](/wiki/Help_centre)*\
 *Véase también: [Restricciones de cuenta](/wiki/Help_centre/Account_restrictions)*
 
-Debe comunicarse con este equipo con respecto a temas relacionados con la cuenta que están fuera de su control. ¡Recuerde proporcionar tanto contexto sobre su problema como sea posible y envíe un correo electrónico desde la dirección asociada con su cuenta de osu!.
+Debe comunicarse con este equipo con respecto a temas relacionados con la cuenta que están fuera de su control. Recuerde proporcionar tanto contexto sobre su problema como sea posible y envíe un correo electrónico desde la dirección asociada con su cuenta de osu!.
 
 ### [accounts@ppy.sh](mailto:accounts@ppy.sh)
 
