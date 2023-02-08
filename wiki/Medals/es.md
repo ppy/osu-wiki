@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: f714d893c0500d01629c73bb90c0f16bee32843e
 ---
 
 # Medallas
