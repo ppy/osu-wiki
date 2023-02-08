@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 5da77d5a1a4f3ca9f88000e232dbf7b005144764
+---
+
 # Ограничение аккаунта
 
 *Основная статья: [Справочный центр](/wiki/Help_centre)*
