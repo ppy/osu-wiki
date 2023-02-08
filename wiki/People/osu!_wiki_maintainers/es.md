@@ -1,6 +1,6 @@
 # Mantenedores de la osu! wiki
 
-Los **mantenedores de la osu! wiki** mantienen la [osu! wiki](/wiki/osu!_wiki) a través del [repositorio del proyeco en GitHub](https://github.com/ppy/osu-wiki).
+Los **mantenedores de la osu! wiki** mantienen la [osu! wiki](/wiki/osu!_wiki) a través del [repositorio del proyecto en GitHub](https://github.com/ppy/osu-wiki).
 
 Los mantenedores se ocupan regularmente del [rastreador de problemas](https://github.com/ppy/osu-wiki/issues) y revisan las solicitudes de cambios de los contribuidores. A diferencia de otros contribuidores, pueden editar solicitudes de cambios y fusionarlas a la rama `master` del repositorio, haciendo públicos los cambios de manera efectiva.
 
@@ -10,7 +10,7 @@ Si necesita ayuda para hacer una contribución o desea una revisión de su solic
 
 | Perfil de osu! | Perfil de GitHub | Estado | Idiomas adicionales |
 | :-- | :-- | :-- | :-- |
-| ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350) | [cl8n](https://github.com/cl8n) | **Activo** |  |
+| ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350) | [cl8n](https://github.com/cl8n) | Inactivo |  |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | [Ephemeralis](https://github.com/Ephemeralis) | **Activo** |  |
 | ::{ flag=US }:: [Joehu](https://osu.ppy.sh/users/8549835) | [Joehuu](https://github.com/Joehuu) | Inactivo |  |
 | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | [juankristal](https://github.com/juankristal) | Inactivo | Español |
