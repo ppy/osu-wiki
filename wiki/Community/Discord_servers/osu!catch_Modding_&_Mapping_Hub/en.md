@@ -35,4 +35,4 @@ The server mainly consists of:
 
 In order to gain access to the channels, users must verify their identity by posting their osu! profiles in the `#arrival` channel and stating what role(s) they are interested in.
 
-![Authentication process](img/auth.jpg "When joining the server, users will post their osu! profile and ask for a certain role, and an administrator will edit their profiles accordingly")
+![Authentication process](img/auth.jpg?1 "When joining the server, users will post their osu! profile and ask for a certain role, and an administrator will edit their profiles accordingly")
