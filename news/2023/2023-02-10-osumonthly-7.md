@@ -10,9 +10,9 @@ New year, new osu!, right? Catch up with all that's changed since last year!
 
 Welcome to the 7th edition of osu!monthly! It is hard to believe that it has been 7 editions, 7 months for writing for the community. While the new year brings in new changes and more excitement for the upcoming year know that if it happens in osu!, we've got it covered, though we cannot always cover everything and are always looking for content curators, writers, and osu! enthusiasts to come and help out. If you are interested or have feedback don't be shy and let us know in the [osu!dev Discord server](https://discord.gg/ppy).
 
-The osu!monthly [forum post](https://osu.ppy.sh/community/forums/topics/1614314?n=1) has somewhat been disbanded after a lengthy discussion in how to reduce bloat and improve readability of the newsletter, it has now been since transformed into a permanent [osu! wiki page](https://osu.ppy.sh/wiki/en/People/osu!monthly_team) listing the "osu!monthly team" that'll be used to sign the newsletter, but don't fret, all contributors are welcome and encouraged to help.
+The osu!monthly [forum post](https://osu.ppy.sh/community/forums/topics/1614314?n=1) has somewhat been disbanded after a lengthy discussion in how to reduce bloat and improve readability of the newsletter, it has now been since transformed into a permanent [osu! wiki page](/wiki/People/osu!monthly_team) listing the "osu!monthly team" that'll be used to sign the newsletter, but don't fret, all contributors are welcome and encouraged to help.
 
-If you'd like to look at the previous editions of osu!monthly then make sure to check out the [wiki page](https://osu.ppy.sh/wiki/en/Community/osu!monthly) that lists not only this revival, but all other editions of the infamous project.
+If you'd like to look at the previous editions of osu!monthly then make sure to check out the [wiki page](/wiki/Community/osu!monthly) that lists not only this revival, but all other editions of the infamous project.
 
 Now that we have rambled on and on, let's check out what January had in store for us!
 
@@ -64,7 +64,7 @@ A few years back all the song DLC's have been made free for everyone, so everyon
 
 ![](/wiki/shared/news/banners/gmt-generic.jpg)
 
-After a whopping 2 years since last time, the [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) [opened up applications](https://osu.ppy.sh/home/news/2023-01-19-gmt-apps-now-open for) for upcoming members last month. Specifically, they were looking for new chat moderators for languages where manpower was lacking.
+After a whopping 2 years since last time, the [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) [opened up applications](https://osu.ppy.sh/home/news/2023-01-19-gmt-apps-now-open) for upcoming members last month. Specifically, they were looking for new chat moderators for languages where manpower was lacking.
 
 The GMT is a group of community members who moderate chat, forums, beatmap discussions and also check for inappropriate user-uploaded content. New members are usually added through an internal [recommendation and nomination process](/wiki/People/The_Team/Global_Moderation_Team#how-to-be-considered).
 
@@ -124,7 +124,7 @@ Experience a unique project brought to you by [clxxiii](https://osu.ppy.sh/users
 
 ### Notable osu! plays of the year
 
-2023 started off with a bang, with [lifeline](https://osu.ppy.sh/u/11367222) being the first person to [HDDT FC](https://osu.ppy.sh/scores/osu/4356860873) the top difficulty of [No Title](https://osu.ppy.sh/beatmapsets/320118#osu/714001), one of the most played maps ever. Next to that we have [mrekk](https://osu.ppy.sh/users/7562902)'s [2nd 3 mod FC](https://osu.ppy.sh/scores/osu/4357810044) on [Wing My Way](https://osu.ppy.sh/beatmaps/46827?mode=osu), which was previously only FC'd by Adamqs (one of the greatest 3 mod players of all time). Alongside the two we have a couple of more cool plays such as the [2nd HR FC](https://osu.ppy.sh/scores/osu/4368139903) on [Ekoro](https://osu.ppy.sh/users/284905)'s [Everything Will Freeze](https://osu.ppy.sh/beatmapsets/158023#osu/555797) by [MineFrostID](https://osu.ppy.sh/users/12159899/), [xootynator](https://osu.ppy.sh/u/3717598)'s first [HDHR FC](https://osu.ppy.sh/scores/osu/4363537357) on [Inside the Winter Storm](https://osu.ppy.sh/beatmapsets/613814#osu/1294935) and [chocomint](https://osu.ppy.sh/u/124493)'s first [HDHR FC](https://osu.ppy.sh/scores/osu/4367683519) on [Ringing Bloom](https://osu.ppy.sh/beatmapsets/1066605#osu/2233275).
+2023 started off with a bang, with [lifeline](https://osu.ppy.sh/users/11367222) being the first person to [HDDT FC](https://osu.ppy.sh/scores/osu/4356860873) the top difficulty of [No Title](https://osu.ppy.sh/beatmapsets/320118#osu/714001), one of the most played maps ever. Next to that we have [mrekk](https://osu.ppy.sh/users/7562902)'s [2nd 3 mod FC](https://osu.ppy.sh/scores/osu/4357810044) on [Wing My Way](https://osu.ppy.sh/beatmaps/46827?mode=osu), which was previously only FC'd by Adamqs (one of the greatest 3 mod players of all time). Alongside the two we have a couple of more cool plays such as the [2nd HR FC](https://osu.ppy.sh/scores/osu/4368139903) on [Ekoro](https://osu.ppy.sh/users/284905)'s [Everything Will Freeze](https://osu.ppy.sh/beatmapsets/158023#osu/555797) by [MineFrostID](https://osu.ppy.sh/users/12159899/), [xootynator](https://osu.ppy.sh/users/3717598)'s first [HDHR FC](https://osu.ppy.sh/scores/osu/4363537357) on [Inside the Winter Storm](https://osu.ppy.sh/beatmapsets/613814#osu/1294935) and [chocomint](https://osu.ppy.sh/users/124493)'s first [HDHR FC](https://osu.ppy.sh/scores/osu/4367683519) on [Ringing Bloom](https://osu.ppy.sh/beatmapsets/1066605#osu/2233275).
 
 Check out lifeline's play on No Title below:
 
@@ -253,7 +253,7 @@ Good luck to everyone, and as always there's a month of osu!supporter up for gra
 
 ## Things to look out for in February
 
-- The [Twin Trials mapping & storyboarding competition](/news/2023-02-01-twin-trials-contest-beatmapping-phase) has been announced, it is split into two parts to accommodate for both map creation and storyboarding, if you have not by any chance seen this on the front page, check it out now! The winners of the beatmapping and storyboarding competitions will get a chance to combine their creations and have them included with every new osu!(lazer) install!
+- The [Twin Trials mapping & storyboarding competition](https://osu.ppy.sh/home/news/2023-02-01-twin-trials-contest-beatmapping-phase) has been announced, it is split into two parts to accommodate for both map creation and storyboarding, if you have not by any chance seen this on the front page, check it out now! The winners of the beatmapping and storyboarding competitions will get a chance to combine their creations and have them included with every new osu!(lazer) install!
 - The [Roundtable II qualifier tournament](https://osu.ppy.sh/community/forums/topics/1699086?n=1) has commenced, with the best osu! players in the world battling out to be one of the two people that will get a guaranteed spot on the upcoming LAN Roundtable II tournament that will be done on in Los Angeles, CA. What makes this prize even more tempting is the fact that all travelling and living costs will be covered for the two winners!
 
 ## End word
