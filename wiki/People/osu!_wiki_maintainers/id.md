@@ -1,11 +1,8 @@
----
-outdated_translation: true
-outdated_since: 22188ef2a9149c3f0999652c9386734bb1215ffe
----
+# Pengelola osu! wiki
 
-# Daftar pengelola osu! wiki
+Para **pengelola osu! wiki** mengelola [osu! wiki](/wiki/osu!_wiki) melalui [repositori GitHub osu! wiki](https://github.com/ppy/osu-wiki).
 
-Para pengelola osu! wiki bertanggung jawab untuk secara teratur mengawasi [*issue tracker*](https://github.com/ppy/osu-wiki/issues) dan meninjau ulang *pull request* yang dibuat oleh para kontributor. Mereka memiliki hak akses khusus untuk menyunting *pull request* yang ada dan menggabungkannya ke dalam *branch* `master` milik osu! wiki, yang akan langsung menerapkan berbagai perubahan yang diajukan secara seketika.
+Para pengelola bertanggung jawab untuk secara teratur mengawasi [*issue tracker*](https://github.com/ppy/osu-wiki/issues) dan meninjau ulang *pull request* (permintaan sunting) yang dibuat oleh para kontributor. Mereka memiliki hak akses khusus untuk menyunting *pull request* yang ada dan menggabungkannya ke dalam *branch* `master` milik osu! wiki, yang akan langsung menerapkan berbagai perubahan yang diajukan secara seketika.
 
 Jika kamu memerlukan bantuan untuk memberikan kontribusi atau ingin *pull request* kamu ditinjau ulang, kamu dapat mengirim pesan di channel `#osu-wiki` di [server Discord osu!dev](/wiki/Community/osu!dev_Discord_server) dan pengelola atau kontributor lain akan merespon pesan tersebut (semua pengelola dapat berbahasa Inggris).
 
@@ -13,7 +10,7 @@ Jika kamu memerlukan bantuan untuk memberikan kontribusi atau ingin *pull reques
 
 | Profil osu! | Profil GitHub | Status | Bahasa tambahan |
 | :-- | :-- | :-- | :-- |
-| ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350) | [cl8n](https://github.com/cl8n) | **Aktif** |  |
+| ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350) | [cl8n](https://github.com/cl8n) | Nonaktif |  |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | [Ephemeralis](https://github.com/Ephemeralis) | **Aktif** |  |
 | ::{ flag=US }:: [Joehu](https://osu.ppy.sh/users/8549835) | [Joehuu](https://github.com/Joehuu) | Nonaktif |  |
 | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | [juankristal](https://github.com/juankristal) | Nonaktif | Spanyol |
