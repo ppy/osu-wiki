@@ -241,7 +241,7 @@ Source: ![](/wiki/shared/news/2023-02-10-osumonthly-7/did-you-know.jpg)
 ## Monthly community quiz
 
 We admit that the last month's question was brutal, and we'll be looking into balancing the difficulty over the next few issues.
-The correct answer was
+The correct answer was '05Z2 Lazer Radiation', referring to the presence of a 'Perfect Curve' slider type in the osu!lazer editor, along with this banner that was at the bottom of some (very) early osu!(lazer) builds.
 
 ![](/wiki/shared/news/2023-02-10-osumonthly-7/jan23-quiz.jpg)
 
