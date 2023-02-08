@@ -16,7 +16,7 @@ Las descripciones populares de beatmaps [clasificados](/wiki/Beatmap/Category#cl
 
 ### Imágenes
 
-Muchas descripciones de beatmaps contienen al menos una imagen (a menudo un [GIF](https://es.wikipedia.org/wiki/Graphics_Interchange_Format) animado de algún tipo) que se usa para expresar e ilustrar al creador, la canción y/o beatmap de una manera llamativa. También pueden servir como título o encabezado para agregar estilo y calidad. Para saber cómo agregar una imagen, consulta la [sección de imágenes del artículo de BBCode](/wiki/BBCode#imágenes).
+Muchas descripciones de beatmaps contienen al menos una imagen (a menudo un [GIF](https://es.wikipedia.org/wiki/Graphics_Interchange_Format) animado de algún tipo) que se usa para expresar e ilustrar al creador, la canción y/o beatmap de una manera llamativa. También pueden servir como título o encabezamiento para agregar estilo y calidad. Para saber cómo agregar una imagen, consulta la [sección de imágenes del artículo de BBCode](/wiki/BBCode#imágenes).
 
 ### Secciones de dificultad
 
