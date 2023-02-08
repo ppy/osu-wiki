@@ -171,7 +171,7 @@ The osu!taiko Loved candidates were chosen by [Boaz](https://osu.ppy.sh/users/13
 100 BPM, 2:25 | 4.89★\
 *description written by [Boaz](https://osu.ppy.sh/users/13302996)*
 
-Starting off this new year's taiko picks with a bang, featuring \[[Zeth\]](https://osu.ppy.sh/users/9912966)'s gimmicky and aesthetically pleasing *NULCTRL*. Not only does this map include some amazing SVs, it also makes use of extremely creative barlines and kiai flashes which go very well with the song.
+Starting off this new year's taiko picks with a bang, featuring [\[Zeth\]](https://osu.ppy.sh/users/9912966)'s gimmicky and aesthetically pleasing *NULCTRL*. Not only does this map include some amazing SVs, it also makes use of extremely creative barlines and kiai flashes which go very well with the song.
 
 Even though this map isn't very hard mechanically, I believe many players should experience this original and innovative map. So what are you waiting for, are you ready to play this satisfying map to please your eyes? 👀
 
