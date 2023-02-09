@@ -35,4 +35,4 @@ Ce serveur est principalement composé de :
 
 Afin d'accéder aux salons du serveur, les utilisateurs doivent confirmer leur identité en postant leur profil osu! dans le salon `#arrival` en indiquant quel(s) rôle(s) les intéresse.
 
-![Processus d'authentification](img/auth.jpg "En rejoignant le serveur, les utilisateurs enverront leur profil osu! et demanderont un certain rôle. Un administrateur modifiera alors leur profil en conséquence.")
+![Processus d'authentification](img/auth.jpg?1 "En rejoignant le serveur, les utilisateurs enverront leur profil osu! et demanderont un certain rôle. Un administrateur modifiera alors leur profil en conséquence.")

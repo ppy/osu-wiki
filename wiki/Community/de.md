@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 5f10ef5c2d3a1926ac10d4b6e48fa574eb4ca2ae
----
-
 # Community
 
 Diese Seite listet Möglichkeiten für Menschen aus der gesamten osu!-Community auf, miteinander in Kontakt zu treten. Wenn du nach Beteiligungsmöglichkeiten Ausschau hältst, aber nicht weißt, womit du anfangen sollst, lies unbedingt [Wie du helfen kannst!](/wiki/Community/How_you_can_help!).
@@ -22,6 +17,7 @@ Diese Seite listet Möglichkeiten für Menschen aus der gesamten osu!-Community 
 - [Community-Mentorenprogramm](/wiki/Community/Community_Mentorship_Program)
 - [Mappers' Guild](/wiki/Community/Mappers_Guild)
 - [osu!-Wiki](/wiki/osu!_wiki)
+- [osu!monthly](/wiki/Community/osu!monthly)
 - [Project Loved](/wiki/Community/Project_Loved)
 
 ## Initiativen
