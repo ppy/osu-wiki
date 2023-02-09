@@ -14,7 +14,7 @@ Now's your chance to become a part of history in this first-of-a-kind skin compe
 
 ## Voting details
 
-All skins that have been released during 2022 and were added to [the compendium](https://compendium.skinship.xyz/) are eligible to compete, **including contest & podium entries**. Everyone gets **15** votes each to cast, and you can spend as many or as little as you like.
+All skins that have been released during 2022 and have been added to [the compendium](https://compendium.skinship.xyz/) are eligible to compete, **including contest & podium entries**. Everyone gets **15** votes each to cast, and you can spend as many or as few as you like.
 
 The top-voted entry will receive a unique profile badge based on their entry and 3 months of osu!supporter for their victory, while the remaining finalists will receive 1 month of osu!supporter each.
 
