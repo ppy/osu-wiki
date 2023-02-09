@@ -22,7 +22,7 @@ We urge you to check out the sheer amount of creativity that various artists hav
   
 [**Click here to get involved and vote for 2022's Skin of the Year!**](https://osu.ppy.sh/community/contests/170)
 
-The votes will remain open for **14 days** after this post goes up, closing officially on the **23rd of February**. Hopefully, that should be enough time to go through the catalogue and pick your favourites.
+The voting will remain open for **14 days** after this post goes up, closing officially on the **23rd of February**. Hopefully, that should be enough time to go through the catalogue and pick your favourites.
 
 Thanks to everyone who submitted their hard work to the compendium, and good luck!
 
