@@ -6,7 +6,7 @@ tags:
 
 # Yuyuko's Hidden Cup Season 2
 
-![YHC S2 banner](img/banner.jpg) 
+![YHC S2 banner](img/banner.jpg)
 
 The **Yuyuko's Hidden Cup Season 2** (***YHC S2***) was a team-based 3v3 double-elimination osu! tournament hosted by ::{ flag=CN }:: [SIyuyuko](https://osu.ppy.sh/users/9794030). It was the 2nd instalment of the Yuyuko's Hidden Cup.
 
@@ -27,7 +27,7 @@ The **Yuyuko's Hidden Cup Season 2** (***YHC S2***) was a team-based 3v3 double-
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Random snacks (worth roughly USD 8) per player, an unofficial badge |
 | *the MVP of the tournament* | 1 month of osu!supporter |
 
-![](img/Podium.png "YHCS2 podium")
+![](img/badge.png "YHCS2 badge")
 
 ## Organisation
 
@@ -37,7 +37,7 @@ The Yuyuko's Hidden Cup Season 2 was run by various community members.
 | :-- | :-- |
 | Manager | ::{ flag=CN }:: [SIyuyuko](https://osu.ppy.sh/users/9794030) |
 | Mappool selector | ::{ flag=CN }:: [SIyuyuko](https://osu.ppy.sh/users/9794030), ::{ flag=CN }:: [Muziyami](https://osu.ppy.sh/users/7003013) |
-| Mappool playtester | ::{ flag=CN }:: [Hakumo Shiro](https://osu.ppy.sh/users/5179557), ::{ flag=CN }:: [Hakumo Ai](https://osu.ppy.sh/users/5179557), ::{ flag=CN }:: [VialVistas](https://osu.ppy.sh/users/9697708), ::{ flag=CN }:: [Crystal](https://osu.ppy.sh/users/1646397) ::{ flag=CN }:: [Sayori_yui](https://osu.ppy.sh/users/7183040) ::{ flag=CN }:: [Senbe1](https://osu.ppy.sh/users/6911753) |
+| Mappool playtester | ::{ flag=CN }:: [Hakumo Shiro](https://osu.ppy.sh/users/5179557), ::{ flag=CN }:: [Hakumo Ai](https://osu.ppy.sh/users/5179557), ::{ flag=CN }:: [VialVistas](https://osu.ppy.sh/users/9697708), ::{ flag=CN }:: [Crystal](https://osu.ppy.sh/users/1646397) ::{ flag=CN }:: [Sayori\_yui](https://osu.ppy.sh/users/7183040) ::{ flag=CN }:: [Senbe1](https://osu.ppy.sh/users/6911753) |
 | Streamer | ::{ flag=CN }:: [SIyuyuko](https://osu.ppy.sh/users/9794030), ::{ flag=CN }:: [Muziyami](https://osu.ppy.sh/users/7003013) |
 | Commentator | ::{ flag=CN }:: [SIyuyuko](https://osu.ppy.sh/users/9794030), ::{ flag=CN }:: [Muziyami](https://osu.ppy.sh/users/7003013) |
 | Designer | ::{ flag=CN }:: [Muziyami](https://osu.ppy.sh/users/7003013) |
@@ -72,7 +72,7 @@ The Yuyuko's Hidden Cup Season 2 was run by various community members.
 
 ![](img/groups.png "YHCS2 group stage bracket")
 
-![](img/bracket.png "YHCS2 bracket") 
+![](img/bracket.png "YHCS2 bracket")
 
 ## Podium
 

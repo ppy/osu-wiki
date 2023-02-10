@@ -8,7 +8,7 @@ tags:
 
 # 第二届幽幽杯
 
-![YHC S2 横幅](img/banner.jpg) 
+![YHC S2 横幅](img/banner.jpg)
 
 **第二届幽幽杯** (***YHC S2***) 是基于 osu! 主模式，娱乐为主的多人 (3v3) 打图游玩锦标赛，主办是 ::{ flag=CN }:: [SIyuyuko](https://osu.ppy.sh/users/9794030)。这是该系列赛的第二届比赛。
 
@@ -29,7 +29,7 @@ tags:
 | ![Gold crown](/wiki/shared/crown-gold.png "第一名") | 队内每个玩家获得随机的零食包（大约价值 USD 8）、一个非官方的主页奖牌 |
 | *整场比赛的 MVP* | 1 个月的 osu! 支持者 |
 
-![](img/Podium.png "YHCS2 奖牌")
+![](img/badge.png "YHCS2 奖牌")
 
 ## 组织
 
@@ -39,7 +39,7 @@ tags:
 | :-- | :-- |
 | 主办 | ::{ flag=CN }:: [SIyuyuko](https://osu.ppy.sh/users/9794030) |
 | 选图 | ::{ flag=CN }:: [SIyuyuko](https://osu.ppy.sh/users/9794030), ::{ flag=CN }:: [Muziyami](https://osu.ppy.sh/users/7003013) |
-| 试图 | ::{ flag=CN }:: [Hakumo Shiro](https://osu.ppy.sh/users/5179557), ::{ flag=CN }:: [Hakumo Ai](https://osu.ppy.sh/users/5179557), ::{ flag=CN }:: [VialVistas](https://osu.ppy.sh/users/9697708), ::{ flag=CN }:: [Crystal](https://osu.ppy.sh/users/1646397) ::{ flag=CN }:: [Sayori_yui](https://osu.ppy.sh/users/7183040) ::{ flag=CN }:: [Senbe1](https://osu.ppy.sh/users/6911753) |
+| 试图 | ::{ flag=CN }:: [Hakumo Shiro](https://osu.ppy.sh/users/5179557), ::{ flag=CN }:: [Hakumo Ai](https://osu.ppy.sh/users/5179557), ::{ flag=CN }:: [VialVistas](https://osu.ppy.sh/users/9697708), ::{ flag=CN }:: [Crystal](https://osu.ppy.sh/users/1646397) ::{ flag=CN }:: [Sayori\_yui](https://osu.ppy.sh/users/7183040) ::{ flag=CN }:: [Senbe1](https://osu.ppy.sh/users/6911753) |
 | 直播 | ::{ flag=CN }:: [SIyuyuko](https://osu.ppy.sh/users/9794030), ::{ flag=CN }:: [Muziyami](https://osu.ppy.sh/users/7003013) |
 | 解说 | ::{ flag=CN }:: [SIyuyuko](https://osu.ppy.sh/users/9794030), ::{ flag=CN }:: [Muziyami](https://osu.ppy.sh/users/7003013) |
 | 设计 | ::{ flag=CN }:: [Muziyami](https://osu.ppy.sh/users/7003013) |
@@ -74,7 +74,7 @@ tags:
 
 ![](img/groups.png "YHCS2 小组赛对阵")
 
-![](img/bracket.png "YHCS2 淘汰赛对阵") 
+![](img/bracket.png "YHCS2 淘汰赛对阵")
 
 ## 颁奖
 
