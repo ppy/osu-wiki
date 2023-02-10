@@ -110,7 +110,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/c9e
 | Malaysia ::{ flag=MY }:: | ::{ flag=CN }:: China | [Feb 11 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230211T130000&p1=1440&p2=122&p3=33) | [^losers-bracket] |
 | Eliminated | Players | [Feb 11 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230211T150000&p1=1440) | [^showmatch] |
 
-
 ### Sunday, 12 February 2023
 
 | Team A | Team B | Match time |  |
