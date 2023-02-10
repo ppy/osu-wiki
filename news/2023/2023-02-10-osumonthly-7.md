@@ -105,7 +105,7 @@ Any map ranked during 2022 will automatically show up in the poll if you've play
 
 The [Ranked section](https://osu.ppy.sh/beatmapsets?s=ranked) is undeniably osu!'s poster child. New players, casual users, and diehard gamers all end up coming into contact with the content featured in there, and ever since it was first introduced, it has been evolving across the years. But how has this affected the amount of content being pumped out if we were to put it into numbers across all modes? In this article we'll compare 2021's content output with last year's numbers and its potential why's!
 
-Starting with osu!, during 2022 **18,620** difficulties were ranked across **3,406** sets for a total of **37,954** minutes of content. This is a **3.9%** increase from 2021. While it might not seem a lot, we have to realize that the Ranked Queue during this period of time was almost always full! And the small bump in the queue's size helped just a bit.
+Starting with osu!, during 2022 **18,620** difficulties were ranked across **3,406** sets for a total of **37,954** minutes of content. This is a **3.9%** increase from 2021. While it might not seem a lot, we have to realise that the ranking queue during this period of time was almost always full! And the [small bump in the queue's size](https://github.com/ppy/osu-web/issues/8547#issuecomment-1022821624) from 10 to 12 at the end of January may have helped just a bit.
 
 osu!taiko, on the other hand, saw **4,873** ranked difficulties across **1,116** sets for a total increase of **37.4%** from 2021, amounting to **12,778** minutes of content. Thanks to the efforts of the taiko NAT and BNG, they were able to pump out quite a good amount of content, with no signs of stopping in 2023!
 
