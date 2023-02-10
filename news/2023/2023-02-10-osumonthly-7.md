@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!monthly, January 2023"
-date: 2023-02-10 17:00:00 +0000
+date: 2023-02-10 19:00:00 +0000
 ---
 
 New year, new osu!, right? Catch up with all that's changed since last year!
@@ -26,7 +26,9 @@ Now that we have finished rambling, let's check out what January had in store fo
   - [Notable osu!catch plays of the year](#notable-osu!catch-plays-of-the-year)
   - [Notable osu!mania plays of the year](#notable-osu!mania-plays-of-the-year)
 - [Mapping recap](#mapping-recap)
-  - [Mapper Highlight](#mapper-highlight)
+  - [Mapping highlight](#mapping-highlight)
+  - [Mapper highlight](#mapper-highlight)
+  - [Mapping around the community](#mapping-around-the-community)
 - [Skinning Recap](#skinning-recap)
   - [Skinning news](#skinning-news)
   - [Featured skins of the month](#featured-skins-of-the-month)
@@ -127,7 +129,7 @@ Experience a unique project brought to you by [clxxiii](https://osu.ppy.sh/users
 
 2023 started off with a bang, with [lifeline](https://osu.ppy.sh/users/11367222) being the first person to [HDDT FC](https://osu.ppy.sh/scores/osu/4356860873) the top difficulty of [Reol - No title](https://osu.ppy.sh/beatmapsets/320118#osu/714001), one of the most played maps ever. Next to that we have [mrekk](https://osu.ppy.sh/users/7562902)'s [2nd 3 mod FC](https://osu.ppy.sh/scores/osu/4357810044) on [KOTOKO - Wing my Way](https://osu.ppy.sh/beatmapsets/12035#osu/46827), which was previously FC'd only by Adamqs (one of the greatest 3-mod players of all time). 
 
-Alongside these two, we have a couple of more cool plays such as the [2nd HR FC](https://osu.ppy.sh/scores/osu/4368139903) on [Ekoro](https://osu.ppy.sh/users/284905)'s [UNDEAD CORPORATION - Everything will freeze](https://osu.ppy.sh/beatmapsets/158023#osu/555797) mapped by [MineFrostID](https://osu.ppy.sh/users/12159899/), [xootynator](https://osu.ppy.sh/users/3717598)'s first [HDHR FC](https://osu.ppy.sh/scores/osu/4363537357) on [DragonForce - Inside the Winter Storm](https://osu.ppy.sh/beatmapsets/613814#osu/1294935) and [chocomint](https://osu.ppy.sh/users/124493)'s first [HDHR FC](https://osu.ppy.sh/scores/osu/4367683519) on [Roselia - Ringing Bloom](https://osu.ppy.sh/beatmapsets/1066605#osu/2233275).
+Alongside these two, we have a couple of more cool plays such as [MineFrostID](https://osu.ppy.sh/users/12159899/)'s [2nd HR FC](https://osu.ppy.sh/scores/osu/4368139903) on [Ekoro](https://osu.ppy.sh/users/284905)'s map of [UNDEAD CORPORATION - Everything will freeze](https://osu.ppy.sh/beatmapsets/158023#osu/555797), [xootynator](https://osu.ppy.sh/users/3717598)'s first [HDHR FC](https://osu.ppy.sh/scores/osu/4363537357) on [DragonForce - Inside the Winter Storm](https://osu.ppy.sh/beatmapsets/613814#osu/1294935) and [chocomint](https://osu.ppy.sh/users/124493)'s first [HDHR FC](https://osu.ppy.sh/scores/osu/4367683519) on [Roselia - Ringing Bloom](https://osu.ppy.sh/beatmapsets/1066605#osu/2233275).
 
 Check out lifeline's play on *Reol - No title* below:
 
@@ -201,7 +203,7 @@ Quite active in the Ranked section since the beginning of 2022, [chaser01](https
 
 Here is a person who is really on the rise. Until the end of 2022, [KennethBBG](https://osu.ppy.sh/users/13032817) was still part of the big family of mappers with about five Ranked maps, but since this January, he hasn't stopped for a second and has ranked about 6 more maps! That's an astronomical amount that surely required a lot of effort, but it made him jump straight into the big league with rhythmic and Japanese music like [Akizuki Kanna (CV: McLaren) - Only you! (Short Ver.)](https://osu.ppy.sh/beatmapsets/1853621). We hope that he will continue like this and that other people as motivated as him will do the same in the coming months!
 
-### Mapping Around Community
+### Mapping around the community
 
 Numerous projects, small or large, managed independently or by large teams, and with the aim of reaching out to the osu! mapping community, are created regularly but often have too little visibility. We will therefore try to summarise in this section the various events accomplished by the community, throughout the month.
 
