@@ -1,6 +1,10 @@
 ---
+outdated_translation: true
+outdated_since: aa750946913bfd81cd3ede0b23dbf925b56d7bdd
 no_native_review: true
 ---
+
+<!--The strings regarding gifting on the website have been updated as of https://github.com/ppy/osu-web/pull/9820. To update this page, also check if the corresponding strings on crowdin need to be updated. Furthermore, this text should have the same structure as the English article.-->
 
 # osu!supporter
 
