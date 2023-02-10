@@ -49,7 +49,11 @@ January has been full of small changes that add up to a big changelog, so if you
 
 A huge feature of osu!(lazer) that's a complete game changer for people coming over from osu!(stable) is the fact that you do not need to have an osu!supporter tag in order to download maps directly — you can now do it directly from the in-game browser! You might also notice the fact that once a map is downloaded, it is automatically imported in the background (no need to press F5 anymore), and the in-game browser will show you which maps you already have!
 
-![](https://assets.ppy.sh/media/osu-monthly/2023-01/feature-showcase-jan23.mp4)
+<div align="center">
+    <video width="100%" controls>
+        <source src="https://assets.ppy.sh/media/osu-monthly/2023-01/feature-showcase-jan23.mp4" type="video/mp4" preload="none">
+    </video>
+</div>
 
 ## Community recap
 
