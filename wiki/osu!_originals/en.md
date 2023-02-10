@@ -209,6 +209,8 @@ These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-
 
 | Song | Beatmap | Notes |
 | :-: | :-: | :-- |
+| Hino Isuka vs. s-don - Glooorious!![^fa] | [#1](https://osu.ppy.sh/beatmapsets/1935691) | Finals HB3 |
+| LV.4 feat. Yuu Ikeba - Sentimental Surge[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1935688) | Finals RC6 |
 | Toromaru - Uncharted Sky[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1931471) | Semifinals RC6 |
 
 ### Community-run tournament releases

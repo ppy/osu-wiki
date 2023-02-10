@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 5da77d5a1a4f3ca9f88000e232dbf7b005144764
----
-
 # Einschränkungen des Accounts
 
 *Hauptseite: [Hilfecenter](/wiki/Help_centre)*
@@ -13,6 +8,8 @@ Wenn ein Account eingeschränkt wird, dann kann dieser nicht mit der Community i
 
 Die folgenden Features sind für eingeschränkte Accounts deaktiviert:
 
+- Möglichkeit zur Teilnahme an offiziellen Wettbewerben
+- Beitritt von Mehrspieler-Räumen
 - Chat im Spiel
 - Private Nachrichten
 - Beiträge in Foren oder Kommentarsektionen
@@ -50,7 +47,7 @@ Wir bitten Spieler von zu Recht eingeschränkten Accounts einige Zeit zu warten,
 - **Habe Spaß am Spiel!** Während dein Account eingeschränkt ist und du eine Auszeit hast, kannst du immer noch das Spiel spielen (solange du auf deinem originalen Account spielst!). Die Scores, die du erreichst, werden eingereicht und bleiben dir erhalten nachdem die Einschränkung aufgehoben wurde, sofern dein Account nicht zurückgesetzt wird.
 - **Behalte gutes Verhalten bei.** Wir verstehen, dass ein eingeschränkter Account frustrierend sein kann, aber siehe es als Chance, um etwas Auszeit zu nehmen - weg von der Community. Versuche Interaktionen mit der Community für zumindest ein paar Tage zu vermeiden (egal, ob es über Discord, Social Media oder andere Formen von Kontakten ist), um die Aktionen zu reflektieren, die gegebenenfalls zu einer Einschränkung deines Accounts geführt haben.
 - **Versichere dich, dass du die Regeln respektierst.** Langfristige Einschränkungen sind Bestrafungen für das Brechen der Regeln. Wenn du während der Einschränkung weitermachst, dann wird die Auszeit für das Einreichen einer Beschwerde auf mindestens **drei Monate** zurückgesetzt. Das beinhaltet beispielsweise weiteres Schummeln (in diesem Fall sechs Monate), auf den Account anderer Spieler zugreifen oder neue Accounts erstellen, um der Einschränkung zu entgehen.
-- **Folge den Anweisungen des Support-Teams.** Die dreimonatige Auszeit ist eine Chance, um deine eigenen Aktionen zu reflektieren. Wenn du versucht Beschwerde vor dem Ablaufen der Auszeit einzureichen, werden deine E-Mails ignoriert. Wenn du unsicher bist, wann deine Auszeit ausläuft, und du Beschwerde einlegen darfst oder auf welchem Account du spielen solltest (und die Beschwerde aus einreichen), darfst du uns gerne eine E-Mail senden, um zu fragen.
+- **Folge den Anweisungen des Support-Teams.** Die Auszeit ist eine Chance, um deine eigenen Aktionen zu reflektieren. Wenn du versucht Beschwerde vor dem Ablaufen der Auszeit einzureichen, werden deine E-Mails ignoriert. Wenn du unsicher bist, wann deine Auszeit ausläuft, und du Beschwerde einlegen darfst oder auf welchem Account du spielen solltest (und die Beschwerde aus einreichen), darfst du uns gerne eine E-Mail senden, um zu fragen.
 - **Zögere nicht uns zu kontaktieren, wenn du irgendwelche Fragen hast.** Solange du nicht versuchst, die Strafe zu umgehen, werden wir dir gerne jede Frage über die Einschränkung deines Accounts beantworten!
 
 ## Meine Auszeit ist vorbei. Wie lege ich Beschwerde ein? {#appeal}
@@ -73,7 +70,7 @@ Wenn wir uns entscheiden, dich wieder zuzulassen, musst du einigen Bedingungen z
 - **Du solltest deinen Account nicht mit anderen Konten verknüpfen**, einschließlich das Spielen auf gemeinsam genutzten Computern.
 - **Jedes Fehlverhalten wird in einer sofortigen Einschränkung enden**. Dies beinhaltet schwerwiegende Stummschaltungen.
 
-In einigen Fällen kann ein wieder zugelassener Spieler von offiziellen und mit einem Abzeichen versehenen Turnieren ausgeschlossen werden, sowohl als Teilnehmer als auch als Mitglied des Organisationsteams. Die Dauer der Sperrung ist 1 Jahr pro Verstoß (wenn der Nutzer zum zweiten Mal Beschwerde eingelegt hat, dauert die Sperrung 2 Jahre). Die E-Mail zur Entsperrung wird die Dauer der Sperrung darlegen.
+Wieder zugelassene Spieler im Sinne der oben genannten Standardbedingungen sind ebenfalls von offiziellen und mit einem Abzeichen versehenen Turnieren ausgeschlossen, sowohl als Teilnehmer als auch als Mitglied des Organisationsteams. Die Dauer der Sperrung ist 1 Jahr pro Verstoß (wenn der Nutzer zum zweiten Mal Beschwerde eingelegt hat, dauert die Sperrung 2 Jahre). Die E-Mail zur Entsperrung wird die Dauer der Sperrung darlegen.
 
 **Das Cheaten oder Teilen von Accounts während eines offiziellen Turniers oder eines Turniers mit Abzeichen wird zu einer dauerhaften Sperrung des Nutzers zu zukünftigen Turnieren führen.** Für diese Sperrung kann keine Beschwerde eingelegt werden (deine E-Mail wird ignoriert, solltest du es versuchen) und die Sperrung wird unter allen Umständen nicht entfernt, gemildert oder aufgegeben.
 
