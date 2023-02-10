@@ -10,6 +10,8 @@ New year, new osu!, right? Catch up with all that's changed since last year!
 
 Welcome to the 7th edition of osu!monthly! It is hard to believe that it has been 7 editions, 7 months of writing for the community. While the new year brings in new changes and more excitement for the upcoming year, know that if it happens in osu!, we've got it covered, though we cannot always cover everything and are always looking for content curators, writers, and osu! enthusiasts to come and help out. If you are interested or have feedback don't be shy and let us know in the [osu!dev Discord server](https://discord.gg/ppy).
 
+This one came out a little later than usual due to unexpected delays, so thank you for being patient.
+
 The osu!monthly [forum post](https://osu.ppy.sh/community/forums/topics/1614314?n=1) has somewhat been disbanded after a lengthy discussion in how to reduce bloat and improve readability of the newsletter. Instead, it has now been transformed into a permanent [osu! wiki page](/wiki/People/osu!monthly_team) listing the "osu!monthly team" that'll be used to sign the newsletter.
 
 If you'd like to look at the previous editions of osu!monthly then make sure to check out the [wiki page](/wiki/Community/osu!monthly) that lists not only this revival, but all other editions of the infamous project.
@@ -103,11 +105,16 @@ In case you wish to see how the matches went on, the livestream VOD can be found
 
 ![](https://assets.ppy.sh/contests/162/header.jpg)
 
-Votings are now open for polls in all four game modes in order to decide the best beatmaps of the last year. They are only open until Tuesday next week, so be quick and [get your vote in](https://osu.ppy.sh/home/news/2023-01-24-community-choice-2022-open)!
+Last month, [votings were opened](https://osu.ppy.sh/home/news/2023-01-24-community-choice-2022-open) for polls in all four game modes in order to decide the best beatmaps of the last year. Any map ranked during 2022 automatically showed up in the polls if you had played it at least once.
 
-Profile badges will be awarded to the winners of each game mode, and finalists will get 6 months of osu!supporter. Anyone who got their beatmap ranked in 2022 will also have their vote count towards the *Mappers' Favourite* category, the winners of which will receive a separate badge.
+These votings have recently closed, so check out the results for each game mode below:
 
-Any map ranked during 2022 will automatically show up in the poll if you've played it at least once. See the [announcement news post](https://osu.ppy.sh/home/news/2023-01-24-community-choice-2022-open) and vote for your favourite maps!
+- [osu!](https://osu.ppy.sh/community/contests/162)
+- [osu!taiko](https://osu.ppy.sh/community/contests/163)
+- [osu!catch](https://osu.ppy.sh/community/contests/164)
+- [osu!mania](https://osu.ppy.sh/community/contests/165)
+
+The winners of each game mode get profile badges, and finalists get 6 months of osu!supporter. Anyone who got their beatmap ranked in 2022 will also have their vote count towards the *Mappers' Favourite* category, the winners of which will be announced in a separate news post soon and receive a separate badge.
 
 ### Ranked statistics across osu!
 
