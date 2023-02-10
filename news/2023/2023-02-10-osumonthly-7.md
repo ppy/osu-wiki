@@ -23,10 +23,10 @@ Now that we have finished rambling, let's check out what January had in store fo
 - [Table of contents](#table-of-contents)
 - [What's new in osu!(lazer)](#what's-new-in-osu!(lazer))
 - [Community recap](#community-recap)
-  - [Notable osu! plays of the year](#notable-osu!-plays-of-the-year)
-  - [Notable osu!taiko plays of the year](#notable-osu!taiko-plays-of-the-year)
-  - [Notable osu!catch plays of the year](#notable-osu!catch-plays-of-the-year)
-  - [Notable osu!mania plays of the year](#notable-osu!mania-plays-of-the-year)
+  - [Notable osu! plays of the month](#notable-osu!-plays-of-the-month)
+  - [Notable osu!taiko plays of the month](#notable-osu!taiko-plays-of-the-month)
+  - [Notable osu!catch plays of the month](#notable-osu!catch-plays-of-the-month)
+  - [Notable osu!mania plays of the month](#notable-osu!mania-plays-of-the-month)
 - [Mapping recap](#mapping-recap)
   - [Mapping highlight](#mapping-highlight)
   - [Mapper highlight](#mapper-highlight)
@@ -136,7 +136,7 @@ Many thanks to [Ephemeral](https://osu.ppy.sh/users/102335) for giving us this d
 
 Experience a unique project brought to you by [clxxiii](https://osu.ppy.sh/users/10962678)! [osu! Rankdle](https://rankdle.clxxiii.dev/), a spin-off of [Rankdle](https://rankdle.com/) will make you put your skills to the test and guess a player's rank based on their osu! gameplay. The site is currently in beta, and clxxiii is continuously improving it to provide the best experience. Be sure to check it out and see if you can rise to the challenge.
 
-### Notable osu! plays of the year
+### Notable osu! plays of the month
 
 2023 started off with a bang, with [lifeline](https://osu.ppy.sh/users/11367222) being the first person to [HDDT FC](https://osu.ppy.sh/scores/osu/4356860873) the top difficulty of [Reol - No title](https://osu.ppy.sh/beatmapsets/320118#osu/714001), one of the most played maps ever. Next to that we have [mrekk](https://osu.ppy.sh/users/7562902)'s [2nd 3 mod FC](https://osu.ppy.sh/scores/osu/4357810044) on [KOTOKO - Wing my Way](https://osu.ppy.sh/beatmapsets/12035#osu/46827), which was previously FC'd only by Adamqs (one of the greatest 3-mod players of all time). 
 
@@ -146,7 +146,7 @@ Check out lifeline's play on *Reol - No title* below:
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/7nz29w31jpM" frameborder="0" allowfullscreen></iframe>
 
-### Notable osu!taiko plays of the year
+### Notable osu!taiko plays of the month
 
 [shinchikuhome](https://osu.ppy.sh/users/3174184) strikes again! This time, being the first FC on a map considered by many to be one of the hardest maps currently Ranked. This map is Nepuri's set of [Kobaryo - New Game Plus](https://osu.ppy.sh/beatmapsets/797710#taiko/1675265), a 9* map that remained un-FC'd for nearly 4.5 years, until this month. Known for its near-impossible 400 BPM dense speed sections, it was recently FC'd by shinchikuhome with a solid 97.46% accuracy, earning them #1 on the map. If you haven't seen this play before, or want to rewatch it again, please check it out below!
 
@@ -156,7 +156,7 @@ Another notable play worthy of mention this month is [Majimanjiwwwww](https://os
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/VbtrG3OCdsw" frameborder="0" allowfullscreen></iframe>
 
-### Notable osu!catch plays of the year
+### Notable osu!catch plays of the month
 
 You might be surprised to see [Imperial Circus Dead Decadence - Yomi yori Kikoyu, Koukoku no Tou to Honoo no Shoujo](https://osu.ppy.sh/beatmapsets/461744#fruits/1031991) in the osu!catch section, but believe it or not, this map has enjoyed great competition over the years, culminating on the play [ArMa79](https://osu.ppy.sh/users/4982799) set this January, marking the first-ever FC on this more than legendary map that's jam-packed with insane tech and precision patterns. 
 
@@ -166,7 +166,7 @@ To put this into context, the [previous record](https://osu.ppy.sh/scores/fruits
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/3gvbI7qierI" frameborder="0" allowfullscreen></iframe>
 
-### Notable osu!mania plays of the year
+### Notable osu!mania plays of the month
 
 Unfortunately the monthly team did not see any mania plays worth mentioning this month, but if you believe this is incorrect feel free to reach out to us either via the osu!dev Discord server or reach out directly to [RandomeLoL](https://osu.ppy.sh/users/7080063) and [kadoen](https://osu.ppy.sh/users/12780575) who are in charge of this section.
 
