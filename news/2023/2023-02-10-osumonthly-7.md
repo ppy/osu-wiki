@@ -233,7 +233,7 @@ As should be tradition by now, 3 skins from the month of January have been selec
 
 ## Did you know?
 
-The art and name for [osu!stream](/wiki/osu!stream) came from a community member! In mid-2010, [Koko Ban](https://osu.ppy.sh/users/60603) on the forums would [show off their idea](https://osu.ppy.sh/community/forums/topics/13087?n=645) for a different version of osu! by posting a fan concept. The community received it really well, and when peppy decided to work on this iOS version of the game, Koko Ban was commissioned to do the full visual game design. Thanks once again to [Kurboh](https://osu.ppy.sh/users/15243233) for providing this cool titbit of osu! lore and to [peppy](https://osu.ppy.sh/users/2) [for confirming this via the osu!dev Discord](https://discord.com/channels/188630481301012481/1003689172420276246/1068522857262489700).
+The art and name for [osu!stream](/wiki/osu!stream) came from a community member! In mid-2010, [Koko Ban](https://osu.ppy.sh/users/60603) on the forums would [show off their idea](https://osu.ppy.sh/community/forums/topics/13087?n=645) for a different version of osu! by posting a fan concept. The community received it really well, and when peppy decided to work on this iOS version of the game, Koko Ban was commissioned to do the full visual game design. Thanks once again to [Kurboh](https://osu.ppy.sh/users/15243233) for providing this cool titbit of osu! lore and to [peppy](https://osu.ppy.sh/users/2) [for confirming this via the osu!dev Discord server](https://discord.com/channels/188630481301012481/1003689172420276246/1068522857262489700).
 
 ## Monthly community quiz
 
