@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!monthly, January 2023"
-date: 2023-02-10 17:00:00 +0000
+date: 2023-02-10 19:00:00 +0000
 ---
 
 New year, new osu!, right? Catch up with all that's changed since last year!
@@ -127,7 +127,7 @@ Experience a unique project brought to you by [clxxiii](https://osu.ppy.sh/users
 
 2023 started off with a bang, with [lifeline](https://osu.ppy.sh/users/11367222) being the first person to [HDDT FC](https://osu.ppy.sh/scores/osu/4356860873) the top difficulty of [Reol - No title](https://osu.ppy.sh/beatmapsets/320118#osu/714001), one of the most played maps ever. Next to that we have [mrekk](https://osu.ppy.sh/users/7562902)'s [2nd 3 mod FC](https://osu.ppy.sh/scores/osu/4357810044) on [KOTOKO - Wing my Way](https://osu.ppy.sh/beatmapsets/12035#osu/46827), which was previously FC'd only by Adamqs (one of the greatest 3-mod players of all time). 
 
-Alongside these two, we have a couple of more cool plays such as the [2nd HR FC](https://osu.ppy.sh/scores/osu/4368139903) on [Ekoro](https://osu.ppy.sh/users/284905)'s [UNDEAD CORPORATION - Everything will freeze](https://osu.ppy.sh/beatmapsets/158023#osu/555797) mapped by [MineFrostID](https://osu.ppy.sh/users/12159899/), [xootynator](https://osu.ppy.sh/users/3717598)'s first [HDHR FC](https://osu.ppy.sh/scores/osu/4363537357) on [DragonForce - Inside the Winter Storm](https://osu.ppy.sh/beatmapsets/613814#osu/1294935) and [chocomint](https://osu.ppy.sh/users/124493)'s first [HDHR FC](https://osu.ppy.sh/scores/osu/4367683519) on [Roselia - Ringing Bloom](https://osu.ppy.sh/beatmapsets/1066605#osu/2233275).
+Alongside these two, we have a couple of more cool plays such as [MineFrostID](https://osu.ppy.sh/users/12159899/)'s [2nd HR FC](https://osu.ppy.sh/scores/osu/4368139903) on [Ekoro](https://osu.ppy.sh/users/284905)'s map of [UNDEAD CORPORATION - Everything will freeze](https://osu.ppy.sh/beatmapsets/158023#osu/555797), [xootynator](https://osu.ppy.sh/users/3717598)'s first [HDHR FC](https://osu.ppy.sh/scores/osu/4363537357) on [DragonForce - Inside the Winter Storm](https://osu.ppy.sh/beatmapsets/613814#osu/1294935) and [chocomint](https://osu.ppy.sh/users/124493)'s first [HDHR FC](https://osu.ppy.sh/scores/osu/4367683519) on [Roselia - Ringing Bloom](https://osu.ppy.sh/beatmapsets/1066605#osu/2233275).
 
 Check out lifeline's play on *Reol - No title* below:
 
