@@ -26,7 +26,9 @@ Now that we have finished rambling, let's check out what January had in store fo
   - [Notable osu!catch plays of the year](#notable-osu!catch-plays-of-the-year)
   - [Notable osu!mania plays of the year](#notable-osu!mania-plays-of-the-year)
 - [Mapping recap](#mapping-recap)
-  - [Mapper Highlight](#mapper-highlight)
+  - [Mapping highlight](#mapping-highlight)
+  - [Mapper highlight](#mapper-highlight)
+  - [Mapping around the community](#mapping-around-the-community)
 - [Skinning Recap](#skinning-recap)
   - [Skinning news](#skinning-news)
   - [Featured skins of the month](#featured-skins-of-the-month)
@@ -201,7 +203,7 @@ Quite active in the Ranked section since the beginning of 2022, [chaser01](https
 
 Here is a person who is really on the rise. Until the end of 2022, [KennethBBG](https://osu.ppy.sh/users/13032817) was still part of the big family of mappers with about five Ranked maps, but since this January, he hasn't stopped for a second and has ranked about 6 more maps! That's an astronomical amount that surely required a lot of effort, but it made him jump straight into the big league with rhythmic and Japanese music like [Akizuki Kanna (CV: McLaren) - Only you! (Short Ver.)](https://osu.ppy.sh/beatmapsets/1853621). We hope that he will continue like this and that other people as motivated as him will do the same in the coming months!
 
-### Mapping Around Community
+### Mapping around the community
 
 Numerous projects, small or large, managed independently or by large teams, and with the aim of reaching out to the osu! mapping community, are created regularly but often have too little visibility. We will therefore try to summarise in this section the various events accomplished by the community, throughout the month.
 
