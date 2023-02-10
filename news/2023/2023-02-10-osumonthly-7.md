@@ -27,7 +27,6 @@ Now that we have finished rambling, let's check out what January had in store fo
   - [Notable osu!mania plays of the year](#notable-osumania-plays-of-the-year)
 - [Mapping recap](#mapping-recap)
   - [Mapper Highlight](#mapper-highlight)
-  - [Mapping around the community](#mapping-around-the-community)
 - [Skinning Recap](#skinning-recap)
   - [Skinning news](#skinning-news)
   - [Featured skins of the month](#featured-skins-of-the-month)
@@ -234,7 +233,7 @@ As should be tradition by now, 3 skins from the month of January have been selec
 
 ## Did you know?
 
-The art and name for [osu!stream](/wiki/osu!stream) came from a community member! In mid-2010, [Koko Ban](https://osu.ppy.sh/users/60603) on the forums would [show off their idea](https://osu.ppy.sh/community/forums/topics/13087?n=645) for a different version of osu! by posting a fan concept. The community received it really well, and when peppy decided to work on this iOS version of the game, Koko Ban was commissioned to do the full visual game design. Thanks once again to [Kurboh](https://osu.ppy.sh/users/15243233) for providing this cool titbit of osu! lore and to [peppy](https://osu.ppy.sh/users/2) for confirming.
+The art and name for [osu!stream](/wiki/osu!stream) came from a community member! In mid-2010, [Koko Ban](https://osu.ppy.sh/users/60603) on the forums would [show off their idea](https://osu.ppy.sh/community/forums/topics/13087?n=645) for a different version of osu! by posting a fan concept. The community received it really well, and when peppy decided to work on this iOS version of the game, Koko Ban was commissioned to do the full visual game design. Thanks once again to [Kurboh](https://osu.ppy.sh/users/15243233) for providing this cool titbit of osu! lore and to [peppy](https://osu.ppy.sh/users/2) [for confirming this via the osu!dev Discord](https://discord.com/channels/188630481301012481/1003689172420276246/1068522857262489700).
 
 ## Monthly community quiz
 
