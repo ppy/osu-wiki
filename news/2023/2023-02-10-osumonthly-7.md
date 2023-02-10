@@ -243,7 +243,7 @@ The correct answer was "05Z2", referring to the presence of a "perfect curve" sl
 
 ![](/wiki/shared/news/2023-02-10-osumonthly-7/jan23-quiz.jpg)
 
-By the way, "05Z2" itself is a reference to the `.osz2` file format, which is only used internally in the game servers.
+By the way, "05Z2" itself is a reference to the `.osz2` file format, which is used internally in the game servers and osu!stream.
 
 Anyway, on to this month's question. It's February, Valentine's Day is coming soon, so here's a nice lovely question for you all:
 
