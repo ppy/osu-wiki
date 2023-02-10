@@ -8,7 +8,7 @@ tags:
 
 # 第二届幽幽杯
 
-![YHC S2 Banner](img/banner.jpg) 
+![YHC S2 横幅](img/banner.jpg) 
 
 **第二届幽幽杯** (***YHC S2***) 是基于 osu! 主模式，娱乐为主的多人 (3v3) 打图游玩锦标赛，主办是 ::{ flag=CN }:: [SIyuyuko](https://osu.ppy.sh/users/9794030)。这是该系列赛的第二届比赛。
 
@@ -29,7 +29,7 @@ tags:
 | ![Gold crown](/wiki/shared/crown-gold.png "第一名") | 队内每个玩家获得随机的零食包（大约价值 USD 8）、一个非官方的主页奖牌 |
 | *整场比赛的 MVP* | 1 个月的 osu! 支持者 |
 
-![](img/Podium.png "YHCS2 podium")
+![](img/Podium.png "YHCS2 奖牌")
 
 ## 组织
 
@@ -57,10 +57,10 @@ tags:
 
 | 队伍代号 | 队名 | 成员 |
 | :-: | :-: | :-- |
-| **A** | **老年娱乐** | [**Spell**](https://osu.ppy.sh/users/13003552), [_Yukinoshita](https://osu.ppy.sh/users/15343685), [HUYI520](https://osu.ppy.sh/users/15337997), [mike233333](https://osu.ppy.sh/users/15436106), [lizhanyiawa](https://osu.ppy.sh/users/13928307) |
+| **A** | **老年娱乐** | [**Spell**](https://osu.ppy.sh/users/13003552), [\_Yukinoshita](https://osu.ppy.sh/users/15343685), [HUYI520](https://osu.ppy.sh/users/15337997), [mike233333](https://osu.ppy.sh/users/15436106), [lizhanyiawa](https://osu.ppy.sh/users/13928307) |
 | **B** | **无所谓 帕老师会出手** | [**QianLi1611**](https://osu.ppy.sh/users/36367809), [The Origin](https://osu.ppy.sh/users/10225377), [USAIKO](https://osu.ppy.sh/users/30018494), [AliceMana](https://osu.ppy.sh/users/11531025), [LimeSeptum](https://osu.ppy.sh/users/13256419) |
 | **C** | **已经结束啦** | [**Ayaaaachi**](https://osu.ppy.sh/users/16022736), [innnnovation](https://osu.ppy.sh/users/18443135), [dawnstar](https://osu.ppy.sh/users/17426219), [eric1388](https://osu.ppy.sh/users/20384257), [Lzq12345](https://osu.ppy.sh/users/15012640) |
-| **D** | **懒人三项** | [**RoyMaster**](https://osu.ppy.sh/users/28365836), [Sakura Luna](https://osu.ppy.sh/users/1608105), [cirnosaikyo](https://osu.ppy.sh/users/19971407), [small_pineapple](https://osu.ppy.sh/users/20989945), [_Eilphy](https://osu.ppy.sh/users/15175276) |
+| **D** | **懒人三项** | [**RoyMaster**](https://osu.ppy.sh/users/28365836), [Sakura Luna](https://osu.ppy.sh/users/1608105), [cirnosaikyo](https://osu.ppy.sh/users/19971407), [small_pineapple](https://osu.ppy.sh/users/20989945), [\_Eilphy](https://osu.ppy.sh/users/15175276) |
 | **E** | **主播教我HD刷170** | [**Neutron torpedo**](https://osu.ppy.sh/users/24657559), [SugersakiE](https://osu.ppy.sh/users/15091523), [Kevin0036](https://osu.ppy.sh/users/24004891), [qimengxunkong](https://osu.ppy.sh/users/16849347), [dongguadongde](https://osu.ppy.sh/users/28494479) |
 | **F** | **东雪莲后援会** | [**Kieost**](https://osu.ppy.sh/users/17823832), [-XiAoyu](https://osu.ppy.sh/users/19061410), [Yin0508](https://osu.ppy.sh/users/15730382), [Zxian](https://osu.ppy.sh/users/20672564), [YuKiRoKi](https://osu.ppy.sh/users/16668536) |
 
@@ -72,9 +72,9 @@ tags:
 | **主播教我HD刷170** | **已经结束啦** |
 | **东雪莲后援会** | **懒人三项** |
 
-![](img/groups.svg "YHCS2 group stage bracket")
+![](img/groups.png "YHCS2 小组赛对阵")
 
-![](img/bracket.svg "YHCS2 bracket") 
+![](img/bracket.png "YHCS2 淘汰赛对阵") 
 
 ## 颁奖
 
@@ -92,7 +92,7 @@ tags:
 
 **[在这里下载谱面包！(122.5 MB)](https://drive.google.com/file/d/12rFoRjc-raITz7Ib55JDOA9RHvwnEOmJ/view?usp=share_link)**
 
-- HD
+- Hidden
   1. [Hana - Sakura no Uta (Zekk) [Subahibi's Extra]](https://osu.ppy.sh/beatmapsets/1648596#osu/3468294)
   2. [Water Color Melody. - MotherGoose o Kikinagara (AdveNt) [Insane]](https://osu.ppy.sh/beatmapsets/1347987#osu/3113813)
   3. [BlackY feat. Risa Yuzuki - Shuumatsu Kinema (My Angel Jeremy) [Insane]](https://osu.ppy.sh/beatmapsets/1820113#osu/3735247)
@@ -100,67 +100,67 @@ tags:
   5. [hitorie - Little Cry Baby (moph) [Insane]](https://osu.ppy.sh/beatmapsets/1098258#osu/2381878)
   6. [Sakamoto Maaya - Dokuhaku (Kalibe) [Insane]](https://osu.ppy.sh/beatmapsets/1426532#osu/2938608)
   7. [Silent Siren - LOVE no Shirushi (alacat) [Insane]](https://osu.ppy.sh/beatmapsets/122444#osu/313165)
-- NM
+- NoMod
   1. [nowisee - microser (bilibilicnm) [Extra]](https://osu.ppy.sh/beatmapsets/1456710#osu/3017432)
   2. [Metomate - Guren (Hey lululu) [lu^3 x lealu's Insane]](https://osu.ppy.sh/beatmapsets/1544987#osu/3157972)
-- DT
+- DoubleTime
   1. [Ylvis - The Fox (W h i t e) [Fox]](https://osu.ppy.sh/beatmapsets/119980#osu/307804)
   2. [kozato - Tsuki -Yue- (Gust) [kanor's Hard]](https://osu.ppy.sh/beatmapsets/1401651#osu/2896899)
   3. [Lana Del Rey - Summertime Sadness (piroshki) [A Sweet Kiss]](https://osu.ppy.sh/beatmapsets/1401651#osu/2896899)
-- FM
+- FreeMod
   1. [Charli XCX - Boom Clap (schoolboy) [Expert]](https://osu.ppy.sh/beatmapsets/730792#osu/1542345)
-  2. [Soleily feat. SUNRaiSE - Rise Above (Nytrocide_) [-Sylvari's Insane]](https://osu.ppy.sh/beatmapsets/1767895#osu/3661739)
+  2. [Soleily feat. SUNRaiSE - Rise Above (Nytrocide\_) [-Sylvari's Insane]](https://osu.ppy.sh/beatmapsets/1767895#osu/3661739)
   3. [Tokyo Jihen - Sounan (Uberzolik) [AIR's Insane]](https://osu.ppy.sh/beatmapsets/967321#osu/2033671)
-- TB
-  1. [**DystopiaGround - AugoEidEs (jonathanlfj) [Angelic]**](https://osu.ppy.sh/beatmapsets/136969#osu/342543)
+- Tiebreaker
+  1. **[DystopiaGround - AugoEidEs (jonathanlfj) [Angelic]](https://osu.ppy.sh/beatmapsets/136969#osu/342543)**
 
 ### 淘汰赛第一轮 (Round 2)
 
 **[在这里下载谱面包！(121.4 MB)](https://drive.google.com/file/d/1nOrkgMX0pNqj9b-HgxLBjCc-pJF5FAEm/view?usp=share_link)**
 
-- HD
+- Hidden
   1. [BAND-MAID - I can’t live without you. (Lasse) [Insane]](https://osu.ppy.sh/beatmapsets/1093430#osu/2288966)
   2. [Lime - Renai Syndrome (apaffy) [Another]](https://osu.ppy.sh/beatmapsets/166062#osu/859667)
   3. [Sangatsu no Phantasia - Koufuku na Wagamama (Jiysea) [Insane]](https://osu.ppy.sh/beatmapsets/1478828#osu/3035501)
   4. [M2U - Promise (feat. Sherie) (Ultima Fox) [Serenity]](https://osu.ppy.sh/beatmapsets/1005492#osu/2104403)
   5. [Toromaru - Enigma (Avena) [EXHAUST]](https://osu.ppy.sh/beatmapsets/460380#osu/1003687)
   6. [senya - Sono Kami no Dilemma ni (Serafeim) [Wheel of Misfortune]](https://osu.ppy.sh/beatmapsets/1391331#osu/2872872)
-- NM
+- NoMod
   1. [Vivy (CV: Yagi Kairi) - Sing My Pleasure (Andrea) [Collab Insane]](https://osu.ppy.sh/beatmapsets/1470500#osu/3019025)
-  2. [Run Girls, Run！ - Share the light (Amateurre) [Shizurre's Insane]](https://osu.ppy.sh/beatmapsets/1693654#osu/3461651)
-- DT
+  2. [Run Girls, Run! - Share the light (Amateurre) [Shizurre's Insane]](https://osu.ppy.sh/beatmapsets/1693654#osu/3461651)
+- DoubleTime
   1. [senya - Hitorishizuka (Satellite) [Satellite]](https://osu.ppy.sh/beatmapsets/95839#osu/261417)
   2. [Silver Forest Feat. Aki & Sakura Mayuko - Summer time Heaven -after (RVMathew) [Lunatic Lite]](https://osu.ppy.sh/beatmapsets/729279#osu/1554793)
-- FM
+- FreeMod
   1. [Akatsuki Records - Silent Silence Siren (Zelq) [Rolniczy's Insane]](https://osu.ppy.sh/beatmapsets/866443#osu/1824472)
   2. [Good Kid - Slingshot (wafer) [Crowley's Insane]](https://osu.ppy.sh/beatmapsets/1802930#osu/3739576)
   3. [cadode - Kaika (VINXIS) [Shadows]](https://osu.ppy.sh/beatmapsets/1754413#osu/3590290)
-- TB
-  1. [**earthmind - Another Heaven (Kalibe) [Sakura]**](https://osu.ppy.sh/beatmapsets/571626#osu/1308941)
+- Tiebreaker
+  1. **[earthmind - Another Heaven (Kalibe) [Sakura]](https://osu.ppy.sh/beatmapsets/571626#osu/1308941)**
 
 ### 小组赛 (Round 1)
 
 **[在这里下载谱面包！(103 MB)](https://drive.google.com/file/d/16EGRC4DnalO_YEiENcBLBTi9H05XcHiE/view?usp=share_link)**
 
-- HD
+- Hidden
   1. [Wakeshima Kanon - world's end, girl's rondo (Agatsu) [Irohas' Insane]](https://osu.ppy.sh/beatmapsets/997439#osu/2089366)
   2. [dj TAKA - snow storm (Oracle) [Another]](https://osu.ppy.sh/beatmapsets/151033#osu/372448)
   3. [Tsukuyomi - Dareka no Shinzou ni Nareta nara (Mononymous) [too's Insane]](https://osu.ppy.sh/beatmapsets/1544600#osu/3239199)
   4. [:) feat. KAFU - Alma (Ducky-) [Insane]](https://osu.ppy.sh/beatmapsets/1677752#osu/3448129)
   5. [kessoku band - Guitar to Kodoku to Aoi Hoshi (ponbot) [Ame's Insane]](https://osu.ppy.sh/beatmapsets/1880007#osu/3902695)
   6. [DJ YOSHITAKA - Evans (Leader) [vikala's Insane]](https://osu.ppy.sh/beatmapsets/1023491#osu/2141049)
-- NM
+- NoMod
   1. [Limonene - (please) replay (Realazy) [(lasse's) insane]](https://osu.ppy.sh/beatmapsets/1279941#osu/2661092)
   2. [yanaginagi - Usotsuki (Cellina) [Collab Insane]](https://osu.ppy.sh/beatmapsets/1791297#osu/3743459)
-- DT
+- DoubleTime
   1. [Marina and the Diamonds - Teen Idle (-Waterlemon) [Hard]](https://osu.ppy.sh/beatmapsets/1784342#osu/3675891)
   2. [Gesu no Kiwami Otome. - Digital Mogura (dsco) [Hard]](https://osu.ppy.sh/beatmapsets/737340#osu/2587641)
-- FM
+- FreeMod
   1. [Silver Forest - Kero (9) destiny (Bloxi) [Kloster's Lunatic]](https://osu.ppy.sh/beatmapsets/1670776#osu/3424391)
   2. [MindaRyn - Like Flames (MajK00) [AkagEnu's Insane]](https://osu.ppy.sh/beatmapsets/1693866#osu/3521488)
   3. [BlackY feat. Risa Yuzuki - Stellalude (Hinsvar) [Insane]](https://osu.ppy.sh/beatmapsets/1515209#osu/3139469)
-- TB
-  1. [**Marika - Truth and Light (ponbot) [gazimal’s Insane]**](https://osu.ppy.sh/beatmapsets/1594534#osu/3256904)
+- Tiebreaker
+  1. **[Marika - Truth and Light (ponbot) [gazimal’s Insane]](https://osu.ppy.sh/beatmapsets/1594534#osu/3256904)**
 
 ## 比赛结果
 
@@ -168,19 +168,19 @@ tags:
 
 | 队伍 1 |  |  | 队伍 2 | 比赛链接 |
 | --: | :-: | :-: | :-- | :-- |
-| 已经结束啦 ::{ flag=CN }:: | 2 | **7** | ::{ flag=CN }:: **老年娱乐** | [#106494978](https://osu.ppy.sh/community/matches/106494978) |
-| 主播教我HD刷170 ::{ flag=CN }:: | 2 | **7** | ::{ flag=CN }:: **懒人三项** | [#106474264](https://osu.ppy.sh/community/matches/106474264) |
-| 已经结束啦 ::{ flag=CN }:: | 2 | **7** | ::{ flag=CN }:: **懒人三项** | [#106647542](https://osu.ppy.sh/community/matches/106647542) |
-| 老年娱乐 ::{ flag=CN }:: | 2 | **7** | ::{ flag=CN }:: **懒人三项** | [#106652243](https://osu.ppy.sh/community/matches/106652243) |
+| 已经结束啦 ::{ flag=CN }:: | 2 | **7** | ::{ flag=CN }:: **老年娱乐** | [#1](https://osu.ppy.sh/community/matches/106494978) |
+| 主播教我HD刷170 ::{ flag=CN }:: | 2 | **7** | ::{ flag=CN }:: **懒人三项** | [#1](https://osu.ppy.sh/community/matches/106474264) |
+| 已经结束啦 ::{ flag=CN }:: | 2 | **7** | ::{ flag=CN }:: **懒人三项** | [#1](https://osu.ppy.sh/community/matches/106647542) |
+| 老年娱乐 ::{ flag=CN }:: | 2 | **7** | ::{ flag=CN }:: **懒人三项** | [#1](https://osu.ppy.sh/community/matches/106652243) |
 
 ### 淘汰赛第一轮 (Round 2)
 
 | 队伍 1 |  |  | 队伍 2 | 比赛链接 |
 | --: | :-: | :-: | :-- | :-- |
-| 主播教我HD刷170 ::{ flag=CN }:: | 2 | **6** | ::{ flag=CN }:: **已经结束啦** | [#106265442](https://osu.ppy.sh/community/matches/106265442) |
-| **老年娱乐**::{ flag=CN }:: | **6** | 1 | ::{ flag=CN }:: 东雪莲后援会 | [#106245589](https://osu.ppy.sh/community/matches/106245589) |
-| **主播教我HD刷170** ::{ flag=CN }:: | **6** | 1 | ::{ flag=CN }:: 无所谓 帕老师会出手 | [#106267609](https://osu.ppy.sh/community/matches/106267609) |
-| 东雪莲后援会 ::{ flag=CN }:: | 1 | **6** | ::{ flag=CN }:: **懒人三项** | [#106288941](https://osu.ppy.sh/community/matches/106288941) |
+| 主播教我HD刷170 ::{ flag=CN }:: | 2 | **6** | ::{ flag=CN }:: **已经结束啦** | [#1](https://osu.ppy.sh/community/matches/106265442) |
+| **老年娱乐**::{ flag=CN }:: | **6** | 1 | ::{ flag=CN }:: 东雪莲后援会 | [#1](https://osu.ppy.sh/community/matches/106245589) |
+| **主播教我HD刷170** ::{ flag=CN }:: | **6** | 1 | ::{ flag=CN }:: 无所谓 帕老师会出手 | [#1](https://osu.ppy.sh/community/matches/106267609) |
+| 东雪莲后援会 ::{ flag=CN }:: | 1 | **6** | ::{ flag=CN }:: **懒人三项** | [#1](https://osu.ppy.sh/community/matches/106288941) |
 
 ### 小组赛 (Round 1)
 
@@ -188,17 +188,17 @@ tags:
 
 | 队伍 1 |  |  | 队伍 2 | 比赛链接 |
 | --: | :-: | :-: | :-- | :-- |
-| 无所谓 帕老师会出手 ::{ flag=CN}:: | 1 | **5** | ::{ flag=CN }:: **主播教我HD刷170** | [#105951662](https://osu.ppy.sh/community/matches/105951662) |
-| **主播教我HD刷170** ::{ flag=CN }:: | **5** | 2 | ::{ flag=CN }:: 东雪莲后援会 | [#105992915](https://osu.ppy.sh/community/matches/105992915) |
-| **东雪莲后援会** ::{ flag=CN }:: | **5** | 1 | ::{ flag=CN }:: 无所谓 帕老师会出手 | [#106089411](https://osu.ppy.sh/community/matches/106089411) |
+| 无所谓 帕老师会出手 ::{ flag=CN}:: | 1 | **5** | ::{ flag=CN }:: **主播教我HD刷170** | [#1](https://osu.ppy.sh/community/matches/105951662) |
+| **主播教我HD刷170** ::{ flag=CN }:: | **5** | 2 | ::{ flag=CN }:: 东雪莲后援会 | [#1](https://osu.ppy.sh/community/matches/105992915) |
+| **东雪莲后援会** ::{ flag=CN }:: | **5** | 1 | ::{ flag=CN }:: 无所谓 帕老师会出手 | [#1](https://osu.ppy.sh/community/matches/106089411) |
 
 #### B 组
 
 | 队伍 1 |  |  | 队伍 2 | 比赛链接 |
 | --: | :-: | :-: | :-- | :-- |
-| 老年娱乐 ::{ flag=CN }:: | **5** | 1 | ::{ flag=CN }:: 已经结束啦 | [#105975299](https://osu.ppy.sh/community/matches/105975299) |
-| 已经结束啦 ::{ flag=CN }:: | **5** | 1 | ::{ flag=CN }:: 懒人三项 | [#105990432](https://osu.ppy.sh/community/matches/105990432) |
-| 懒人三项 ::{ flag=CN }:: | 4 | **5** | ::{ flag=CN }:: 老年娱乐 | [#106113040](https://osu.ppy.sh/community/matches/106113040) |
+| **老年娱乐** ::{ flag=CN }:: | **5** | 1 | ::{ flag=CN }:: 已经结束啦 | [#1](https://osu.ppy.sh/community/matches/105975299) |
+| **已经结束啦** ::{ flag=CN }:: | **5** | 1 | ::{ flag=CN }:: 懒人三项 | [#1](https://osu.ppy.sh/community/matches/105990432) |
+| 懒人三项 ::{ flag=CN }:: | 4 | **5** | ::{ flag=CN }:: **老年娱乐** | [#1](https://osu.ppy.sh/community/matches/106113040) |
 
 ## 规则
 
@@ -280,7 +280,7 @@ tags:
    - 用于比赛的房间的参数应设定为：`游戏模式："osu!"`、`组队模式："Team Vs"`、 `计分模式："ScoreV2"`。用于比赛的房间名格式应为：`YHCS2: ({红队队名}) VS ({蓝队队名})`。VS 左侧的队伍是红队，右侧的队伍是蓝队。
 2. 在比赛所有阶段内，两支队伍能在图池中挑选并**禁掉一张图** (1 Ban)。被禁掉的图在该场比赛中都不能选用。
 3. 两支队伍的队长需要在比赛房间里至少使用一次 `!roll` 指令。
-   - 对于 `!roll` 点数较大的队伍，队长能够决定他所在的队伍是先**选图**还是先禁图。
+   - 对于 `!roll` 点数较大的队伍，队长能够决定他所在的队伍是先**选图**还是先**禁图**。
    - 队伍可以“双选” (一直选) 同一模组的图 (指在上一属于自己队伍选图的对局时选了一张图，在下一次属于自己队伍选图的对局时，选了与上一张图属于同一模组的另外一张图)。
    - 对于 `!roll` 点数较小的队伍，他们选图禁图的先后顺序由 `!roll` 点数较大的队伍所决定。
 4. 禁好图后，两队将开始挑选 (Pick) 赛图。
@@ -289,8 +289,7 @@ tags:
      - 裁判将会口头警告。
    - 多次超时：
      - 选图超时：裁判将使用 `!roll X` 命令（x 是剩余可挑选，除去决胜图 (TB) 的图数量）来随机挑选一张图池内剩余的图。
-     - 来随机挑选一张图池内剩余的图。准备超时：裁判将不管实际的对阵情况，直接使用 `!mp start 10` 指令强制开始对局，并使用 `!mp kick` 指令踢出
-     - 优先踢出房间内某队超过应上场人数的选手，确定场上剩余的选手处于正确的位置（固定每个队合乎赛图要求的首选对阵），并使用 `!mp start 10` 强制开启对局。结算的成绩将作为该局的结果。
+     - 准备超时：裁判将不管实际的对阵情况，使用 `!mp kick` 指令优先踢出房间内某队超过应上场人数的选手，确定场上剩余的选手处于正确的位置（固定每个队合乎赛图要求的首选对阵），并直接使用 `!mp start 10` 强制开启对局。结算的成绩将作为该局的结果。
      - 多次超时将受到主办更严重的处罚。
 6. 两支队伍有申请一次*技术性暂停*的机会 (2 分钟)。可用来作出决策或是应对突发状况。*技术性暂停完全是自愿的。*
    - 决胜图 (TB) 之前，如果双方队长同意，则可以附加一次技术性暂停。
@@ -320,4 +319,4 @@ tags:
    - 比赛时间不得晚于这周**周日的 22:00 UTC+8**。
    - **主办方有拒绝重新调整比赛开始时间的权利。除非必要，最好不要重新调整时间。**
    - 任何情况下，不接受过晚的比赛时间重新安排请求。
-5. 队长需要负责确保自己队伍内的选手是否可以上场。
+5. 队长需要负责确保自己队伍内的选手是否可以准时上场。
