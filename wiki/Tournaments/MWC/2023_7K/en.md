@@ -119,6 +119,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/c9e
 | China ::{ flag=CN }:: | ::{ flag=JP }:: Japan | [Feb 12 (Sun) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230212T090000&p1=1440&p2=33&p3=248) | [^potential-match] |
 | Malaysia ::{ flag=MY }:: | ::{ flag=US }:: United States | [Feb 12 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230212T100000&p1=1440&p2=122&p3=263) | [^potential-match] |
 | China ::{ flag=CN }:: | ::{ flag=US }:: United States | [Feb 12 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230212T100000&p1=1440&p2=33&p3=263) | [^potential-match] |
+| Malaysia ::{ flag=MY }:: | ::{ flag=JP }:: Japan | [Feb 12 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230212T110000&p1=1440&p2=122&p3=248) | [^potential-match] |
 
 ## Mappools
 
