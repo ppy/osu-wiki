@@ -264,18 +264,16 @@ More discussion and consideration will be needed for how much of Aspire beatmaps
 
 ### osu!taiko
 
-#### The playfield always has the same width regardless of resolution
+#### The playfield aspect ratio is limited
 
-![](img/taiko-playfield-shenanigans.gif)
-
-The stable client would display more or fewer notes depending on aspect ratio, which is changed in lazer with the intent to provide an even playing field for players with different monitors and scaling settings.
+The osu!taiko playfield is stretched based on window size, making the apparent AR of gameplay change in line with window size. Originally this was limited completely as it affects playability but switched to only limiting the maximum aspect ratio due to community push-back for having it "as it was on stable".
 
 |  |  |
 | :-- | :-: |
 | Breaks backwards compatibility | No |
-| Classic mod revert support | Partial |
+| Classic mod revert support | Yes |
 | Intentionally changed | Yes |
-| Needs further consideration | Yes |
+| Needs further consideration | Maybe |
 
 #### Notes that overlap swells cannot be hit
 
