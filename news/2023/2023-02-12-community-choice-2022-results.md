@@ -103,7 +103,6 @@ The acclaim for [**GTS Sound Team - \<\<\/nttld.:beings\>\> \~Truth in Uncertain
 - [**seatrus - O**](https://osu.ppy.sh/beatmapsets/1693010) by [**rubies87**](https://osu.ppy.sh/users/4949934) with **14** votes.
 - [**II-L - VANGUARD-1**](https://osu.ppy.sh/beatmapsets/1407228) by [**Axer**](https://osu.ppy.sh/users/7299864) with **13** votes.
 
-
 ## osu!catch
 
 ### Community Choice
@@ -139,7 +138,6 @@ The osu!catch mapping community simply could not shake the **Kobaryo - Villain V
 - [**Srav3R vs. Getty - DUAL BREAKER XX**](https://osu.ppy.sh/beatmapsets/1688341) by [**Jemzuu**](https://osu.ppy.sh/users/7890134) with **8** votes.
 - [**PSYQUI - Hype feat. Such**](https://osu.ppy.sh/beatmapsets/1714422) by [**Crowley**](https://osu.ppy.sh/users/6341006) with **8** votes.
 - [**kanemiko - Electrolytes**](https://osu.ppy.sh/beatmapsets/1774562) by [**Unlucky_w**](https://osu.ppy.sh/users/4820793) with **7** votes.
-
 
 ## osu!mania
 
