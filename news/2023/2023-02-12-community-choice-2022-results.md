@@ -4,6 +4,14 @@ title: "Community Choice 2022: Results"
 date: 2023-02-12 08:00:00 +0000
 ---
 
+You've had your say, and the results are in! Find out which maps are the Community Choice and Mapper's Favourite from 2022 for each mode!
+
+![](https://assets.ppy.sh/contests/162/header.jpg)
+
+In case you missed it, the Community Choice polls are an extra special event we host each year where the community huddles close and votes for their favourite maps from the past year. The mapping community gets an nod in their very own Mapper's Favourite category, which counts only the votes of anyone who's ever Ranked a beatmap or guest difficulty.
+
+Let's get stuck straight into the results:
+
 ## osu!
 
 ### Community Choice
