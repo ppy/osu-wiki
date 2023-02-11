@@ -12,7 +12,9 @@ In case you missed it, the Community Choice polls are an extra special event we 
 
 Note: this year, the Mapper's Favourite category *only considers mappers that have had at least 1 map ranked in the contest's respective game mode*. Someone who ranked a map in osu!taiko no longer has their vote count towards the osu!catch Mapper's Favourite category, for example. This should help make the results a bit more accurate overall compared to previous years.
 
-Let's get stuck straight into the results:
+Additionally, every person who has outwardly contributed to a winning mapset for either Community Choice picks or Mapper's Favourite picks will receive the profile badge prize, and the osu! supporter prize will be divided among all contributors, with every contributor receiving at least 1 month's worth of osu!supporter no matter how many there are. You might understand why we made these changes as you read on!
+
+With all that out of the way, let's get stuck straight into the results:
 
 ## osu!
 
