@@ -26,7 +26,7 @@ Seizing the lead in both the Community Choice with an absolutely dominating perf
 
 Let's just get it out in the air straight away: it wasn't even close. *Non-breath oblige* pulled out so many stops that practically every other map in the running was left wondering what a stop even was in the first place. The result was so decisive and one-sided that we had to check to make sure something wasn't broken with a whopping **1,278** votes — the closest competitor in second had only *778*. Damn.
 
-The votes just kept repeating. And repeating. And repeating. And repeating. And repeating. Such is the power of *Non-breath-oblige*.
+The votes just kept coming on repeat. On repeat. On repeat. On repeat. On repeat. On repeat. On repeat. Such is the power of *Non-breath oblige*.
 
 Finalists:
 
