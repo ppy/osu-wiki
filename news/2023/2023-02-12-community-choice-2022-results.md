@@ -177,7 +177,7 @@ It is rumoured (jokingly) that in the osu!mania community, a map's worth can be 
 - [**Grimes - Kill V. Maim**](https://osu.ppy.sh/beatmapsets/1181796) by [**BringoBrango**](https://osu.ppy.sh/users/10274043) with **14** votes.
 - [**laura les - Haunted (dive to the heart remix)**](https://osu.ppy.sh/beatmapsets/1683972) by [**Monheim**](https://osu.ppy.sh/users/6814203) with **13** votes.
 - [**Camellia - Electromagnetic Stealth Girl Born In Philadelphia**](https://osu.ppy.sh/beatmapsets/1608630) by [**lovely_hyahya**](https://osu.ppy.sh/users/10318380) with **13** votes.
-- [**ReeK - SUPER SEX DELIVERY 2 - ENTER THE CUM ZONE**](https://osu.ppy.sh/beatmapsets/1756972) by [**Ryax**](https://osu.ppy.sh/users/8949769) with **13** votes.
+- [**\[REDACTED\]**](https://osu.ppy.sh/beatmapsets/1756972) by [**Ryax**](https://osu.ppy.sh/users/8949769) with **13** votes.
 - [**-45 - Reikou Hatsuden**](https://osu.ppy.sh/beatmapsets/1502322) by [**Monheim**](https://osu.ppy.sh/users/6814203) with **13** votes.
 - [**Gram vs. Camellia - Ragnarok**](https://osu.ppy.sh/beatmapsets/999032) by [**_Kobii**](https://osu.ppy.sh/users/6209713) with **12** votes.
 
