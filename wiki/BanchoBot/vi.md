@@ -62,10 +62,10 @@ Danh sách các lệnh của BanchoBot có thể tìm thấy bên dưới:
 ### Roll
 
 ```
-!roll <argument>/<number>
+!roll <câu nói gì đó>/<số>
 ```
 
-`!roll` rút một con số ngẫu nhiên từ 1 đến số được chọn. Nếu không xác định một con số chính xác hoặc argument được đưa ra, con số tối đa sẽ được đặt là 100. Dưới đây là ví dụ khi gửi lệnh này:
+`!roll` rút một con số ngẫu nhiên từ 1 đến số được chọn. Nếu không xác định một con số chính xác hay một câu nói gì đó được đưa ra, con số tối đa sẽ được đặt là 100. Dưới đây là ví dụ khi gửi lệnh này:
 
 ```
 13:00 pippi: !roll 1000

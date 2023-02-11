@@ -106,18 +106,19 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/c9e
 
 | Team A | Team B | Match time |  |
 | --: | :-- | :-- | :-: |
-| Malaysia ::{ flag=MY }:: | ::{ flag=CN }:: China | [Feb 11 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230211T130000&p1=1440&p2=122&p3=33) | [^winners-bracket] |
-| United States ::{ flag=US }:: | ::{ flag=JP }:: Japan | [Feb 11 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230211T150000&p1=1440&p2=263&p3=248) | [^winners-bracket] |
+| South Korea ::{ flag=KR }:: | ::{ flag=PH }:: Philippines | [Feb 11 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230211T120000&p1=1440&p2=235&p3=145) | [^winners-bracket] |
+| Malaysia ::{ flag=MY }:: | ::{ flag=CN }:: China | [Feb 11 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230211T130000&p1=1440&p2=122&p3=33) | [^losers-bracket] |
+| Eliminated | Players | [Feb 11 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230211T150000&p1=1440) | [^showmatch] |
 
 ### Sunday, 12 February 2023
 
 | Team A | Team B | Match time |  |
 | --: | :-- | :-- | :-: |
-| Malaysia ::{ flag=MY }:: | ::{ flag=US }:: United States | [Feb 12 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230212T040000&p1=1440&p2=122&p3=263) | [^potential-match] |
-| China ::{ flag=CN }:: | ::{ flag=US }:: United States | [Feb 12 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230212T040000&p1=1440&p2=33&p3=263) | [^potential-match] |
-| Malaysia ::{ flag=MY }:: | ::{ flag=JP }:: Japan | [Feb 12 (Sun) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230212T080000&p1=1440&p2=122&p3=248) | [^potential-match] |
-| China ::{ flag=CN }:: | ::{ flag=JP }:: Japan | [Feb 12 (Sun) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230212T080000&p1=1440&p2=33&p3=248) | [^potential-match] |
-| South Korea ::{ flag=KR }:: | ::{ flag=PH }:: Philippines | [Feb 12 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230212T100000&p1=1440&p2=235&p3=145) | [^losers-bracket] |
+| United States ::{ flag=US }:: | ::{ flag=JP }:: Japan | [Feb 12 (Sun) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230212T080000&p1=1440&p2=263&p3=248) | [^losers-bracket] |
+| China ::{ flag=CN }:: | ::{ flag=JP }:: Japan | [Feb 12 (Sun) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230212T090000&p1=1440&p2=33&p3=248) | [^potential-match] |
+| Malaysia ::{ flag=MY }:: | ::{ flag=US }:: United States | [Feb 12 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230212T100000&p1=1440&p2=122&p3=263) | [^potential-match] |
+| China ::{ flag=CN }:: | ::{ flag=US }:: United States | [Feb 12 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230212T100000&p1=1440&p2=33&p3=263) | [^potential-match] |
+| Malaysia ::{ flag=MY }:: | ::{ flag=JP }:: Japan | [Feb 12 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230212T110000&p1=1440&p2=122&p3=248) | [^potential-match] |
 
 ## Mappools
 
@@ -126,7 +127,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/c9e
 **[Download the mappack here (131 MB)](https://drive.google.com/uc?id=1HaLN16aTNmWvz-ZgpXceNnxaXsL-0re0)**
 
 - Rice
-  1. [Mitsuyoshi Takenobu no Otouto - Koakuma no Yuuenchi (pwhk) \[Daemon Playground\]](https://osu.ppy.sh/beatmapsets/1935522#mania/4000930)
+  1. [Mitsuyoshi Takenobu no Otouto - Koakuma no Yuuenchi (pwhk) \[Daemon Playground\]](https://osu.ppy.sh/beatmapsets/1935798#mania/4000930)
   2. [LV.4 feat. Yuu Ikeba - Sentimental Surge (\_underjoy) \[Outburst\]](https://osu.ppy.sh/beatmapsets/1935688#mania/4000612)
   3. [xi remixed by cosMo@bousouP - FREEDOM DiVE \[METAL+DIMENSIONS\] (Cut Ver.) (Wonki) \[Extra\]](https://osu.ppy.sh/beatmapsets/1935496#mania/4000121)
   4. [Helblinde - Unconquered (Jinjin) \[Invictus\]](https://osu.ppy.sh/beatmapsets/1935526#mania/4000233)
@@ -479,5 +480,6 @@ The final standings for the Qualifier stage can be found at the following [sprea
 [^winners-bracket]: Winners bracket match
 [^losers-bracket]: Losers bracket match
 [^potential-match]: Potential match – final matchup depends on the results of the preceding Losers Bracket matches
+[^showmatch]: Finals stage showmatch – players from eliminated countries team up
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same average rank

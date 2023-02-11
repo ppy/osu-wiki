@@ -1,6 +1,6 @@
 # Comité des tournois
 
-Le **Comité des tournois** (*Tournament Committee* en anglais) est un groupe d'organisateurs et d'assistants compétents et reconnus dans le domaine des tournois. 
+Le **Comité des tournois** (*Tournament Committee* en anglais) est un groupe d'organisateurs et d'assistants compétents et reconnus dans le domaine des tournois.
 
 Leurs responsabilités comprennent :
 
@@ -14,10 +14,11 @@ Ce comité a été annoncé pour la première fois au public le 22 juillet 2021 
 
 Vous pouvez aider le comité des tournois en continuant à organiser d'excellents tournois ! Si vous avez des problèmes ou des préoccupations concernant un aspect quelconque d'un tournoi communautaire, nous vous encourageons à les porter à notre attention via le formulaire de signalement des tournois.
 
-Les personnes désireuses de rejoindre le comité des tournois peuvent nous faire part de leur intérêt en envoyant un courriel à [tournaments@ppy.sh](mailto:tournaments@ppy.sh). Les candidats retenus doivent avoir une grande expérience des tournois, que ce soit en tant que joueur ou staff. 
+Les personnes désireuses de rejoindre le comité des tournois peuvent nous faire part de leur intérêt en envoyant un courriel à [tournaments@ppy.sh](mailto:tournaments@ppy.sh). Les candidats retenus doivent avoir une grande expérience des tournois, que ce soit en tant que joueur ou staff.
 
 ## Membres
 
+- ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595)
 - ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578)
 - ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
 - ::{ flag=US }:: [D I O](https://osu.ppy.sh/users/3958619)
