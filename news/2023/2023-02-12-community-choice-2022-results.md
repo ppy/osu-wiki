@@ -8,7 +8,7 @@ You've had your say, and the results are in! Find out which maps are the Communi
 
 ![](https://assets.ppy.sh/contests/162/header.jpg)
 
-In case you missed it, the Community Choice polls are an extra special event we host each year where the community huddles close and votes for their favourite maps from the past year. The mapping community gets an nod in their very own Mapper's Favourite category, which counts only the votes of anyone who's ever Ranked a beatmap or guest difficulty.
+In case you missed it, the Community Choice polls are an extra special event we host each year where the community huddles close and votes for their favourite maps from the past year. The mapping community gets a nod too in their very own Mapper's Favourite category, which counts only the votes of anyone who's ever ranked a beatmap or guest difficulty.
 
 Let's get stuck straight into the results:
 
@@ -18,15 +18,15 @@ Let's get stuck straight into the results:
 
 [![](/wiki/shared/news/2023-02-12-community-choice-2022-results/non-breath-oblige.jpg)](https://osu.ppy.sh/beatmapsets/1889729)
 
-Seizing the lead in both the Community Choice with an absolutely dominating performance is **15 Voices - Non-breath-oblige** by [**Delis**](https://osu.ppy.sh/users/1603923), featuring guest difficulties from [Trynna](https://osu.ppy.sh/users/2652951), [Dumli-](https://osu.ppy.sh/users/3068044), [allein](https://osu.ppy.sh/users/6221637), [Mirash](https://osu.ppy.sh/users/2841009), [toybot](https://osu.ppy.sh/users/2848604) and [Silverboxer](https://osu.ppy.sh/users/2166762), plus the nomination prowess of [Ryuusei Aika](https://osu.ppy.sh/users/7777875) and [UberFazz](https://osu.ppy.sh/users/8646059).
+Seizing the lead in both the Community Choice with an absolutely dominating performance is [**15 Voices - Non-breath oblige**](https://osu.ppy.sh/beatmapsets/1889729) by [**Delis**](https://osu.ppy.sh/users/1603923), featuring guest difficulties from [Trynna](https://osu.ppy.sh/users/2652951), [Dumli-](https://osu.ppy.sh/users/3068044), [allein](https://osu.ppy.sh/users/6221637), [Mirash](https://osu.ppy.sh/users/2841009), [toybot](https://osu.ppy.sh/users/2848604) and [Silverboxer](https://osu.ppy.sh/users/2166762), plus the nomination prowess of [Ryuusei Aika](https://osu.ppy.sh/users/7777875) and [UberFazz](https://osu.ppy.sh/users/8646059).
 
-Let's just get it out in the air straight away: it wasn't even close. *Non-breath-oblige* pulled out so many stops that practically every other map in the running was left wondering what a stop even was in the first place. The result was so decisive and one-sided that we had to check to make sure something wasn't broken with a whopping **1278** votes — the closest competitor in second had only *778*. Damn.
+Let's just get it out in the air straight away: it wasn't even close. *Non-breath oblige* pulled out so many stops that practically every other map in the running was left wondering what a stop even was in the first place. The result was so decisive and one-sided that we had to check to make sure something wasn't broken with a whopping **1,278** votes — the closest competitor in second had only *778*. Damn.
 
 The votes just kept repeating. And repeating. And repeating. And repeating. And repeating. Such is the power of *Non-breath-oblige*.
 
 Finalists:
 
-- [**15 Voices - Non-breath oblige**](https://osu.ppy.sh/beatmapsets/1889729) by [**Delis**](https://osu.ppy.sh/users/1603923) with **1278** votes.
+- [**15 Voices - Non-breath oblige**](https://osu.ppy.sh/beatmapsets/1889729) by [**Delis**](https://osu.ppy.sh/users/1603923) with **1,278** votes.
 - [**kessoku band - Guitar to Kodoku to Aoi Hoshi**](https://osu.ppy.sh/beatmapsets/1880007) by [**ponbot**](https://osu.ppy.sh/users/8939857) with **778** votes.
 - [**Fellowship - Glory Days**](https://osu.ppy.sh/beatmapsets/1781620) by [**nebuwua**](https://osu.ppy.sh/users/14729352) with **694** votes.
 - [**DragonForce - My Heart Will Go On by [Karcher]**](https://osu.ppy.sh/beatmapsets/1658809) by [**mx10001**](https://osu.ppy.sh/users/11443437) with **546** votes.
@@ -62,13 +62,13 @@ Finalists:
 
 [![](/wiki/shared/news/2023-02-12-community-choice-2022-results/truth.jpg)](https://osu.ppy.sh/beatmapsets/1859338)
 
-**GTS Sound Team - \<\<\/nttld.:beings\>\> \~Truth in Uncertainty\~** is a collaboration of absolutely titanic proportions, demonstrated not only by its *enormous* contributor list (which we will proceed to share in a moment), but also by its substantial **96** vote total, leading over the closest competitor by a considerable margin.
+[**GTS Sound Team - \<\<\/nttld.:beings\>\> \~Truth in Uncertainty\~**](https://osu.ppy.sh/beatmapsets/1859338) is a collaboration of absolutely titanic proportions, demonstrated not only by its *enormous* contributor list (which we will proceed to share in a moment), but also by its substantial **96** vote total, leading over the closest competitor by a considerable margin.
 
 Okay, deep breaths. Here we go.
 
-A joint collaboration between the composters of the GTS Sound Team (namely [SDMNE](https://soundcloud.com/sdmne), [Sparxe](https://soundcloud.com/sparxenic), [blobdash](https://soundcloud.com/blobdash), [Raphlesia](https://soundcloud.com/raphlesia), [ptar124](https://soundcloud.com/part-lerts), [kyou1110](https://soundcloud.com/kyou1110), [II-L](https://soundcloud.com/ii-l), [rN](https://soundcloud.com/rurinn), [takehirotei](https://soundcloud.com/takehirotei) and [katagiri](https://soundcloud.com/katagiri) and the GTS Mapping Team (namely [Cychloryn](https://osu.ppy.sh/users/6921736), [Nwolf](https://osu.ppy.sh/users/1910766), [Mew](https://osu.ppy.sh/users/2345156), [gaston_2199](https://osu.ppy.sh/users/5938161), [Raphalge](https://osu.ppy.sh/users/3918650), [Ak1o](https://osu.ppy.sh/users/1600041), [Hivie](https://osu.ppy.sh/users/14102976), [Alchyr](https://osu.ppy.sh/users/4993032), [rubies87](https://osu.ppy.sh/users/4949934), [Briesmas](https://osu.ppy.sh/users/2865172), [UnagiDon](https://osu.ppy.sh/users/2062410), [Gamelan4](https://osu.ppy.sh/users/9856910), [Heaxys](https://osu.ppy.sh/users/5671417), [Ideal](https://osu.ppy.sh/users/3869519), [HiroK](https://osu.ppy.sh/users/4050738), [5\_5](https://osu.ppy.sh/users/6853438), [BabySnakes](https://osu.ppy.sh/users/4669728), [MTNTWarz](https://osu.ppy.sh/users/14036825), [Rinze](https://osu.ppy.sh/users/19901680), [cdh](https://osu.ppy.sh/users/2403621), [Cynplytholowazy](https://osu.ppy.sh/users/3901754) and [Horiiizon](https://osu.ppy.sh/users/8071438)), *\<\<\/nttld.:beings\>\> \~Truth in Uncertainty\~* is a visually stunning mapping masterpiece, helped along the way into Ranked by beatmap nominators [Axer](https://osu.ppy.sh/users/7299864) and [op45667](https://osu.ppy.sh/users/21973491).
+A joint collaboration between the composers of the GTS Sound Team (namely [SDMNE](https://soundcloud.com/sdmne), [Sparxe](https://soundcloud.com/sparxenic), [blobdash](https://soundcloud.com/blobdash), [Raphlesia](https://soundcloud.com/raphlesia), [ptar124](https://soundcloud.com/part-lerts), [kyou1110](https://soundcloud.com/kyou1110), [II-L](https://soundcloud.com/ii-l), [rN](https://soundcloud.com/rurinn), [takehirotei](https://soundcloud.com/takehirotei) and [katagiri](https://soundcloud.com/katagiri) and the GTS Mapping Team (namely [Cychloryn](https://osu.ppy.sh/users/6921736), [Nwolf](https://osu.ppy.sh/users/1910766), [Mew](https://osu.ppy.sh/users/2345156), [gaston_2199](https://osu.ppy.sh/users/5938161), [Raphalge](https://osu.ppy.sh/users/3918650), [Ak1o](https://osu.ppy.sh/users/1600041), [Hivie](https://osu.ppy.sh/users/14102976), [Alchyr](https://osu.ppy.sh/users/4993032), [rubies87](https://osu.ppy.sh/users/4949934), [Briesmas](https://osu.ppy.sh/users/2865172), [UnagiDon](https://osu.ppy.sh/users/2062410), [Gamelan4](https://osu.ppy.sh/users/9856910), [Heaxys](https://osu.ppy.sh/users/5671417), [Ideal](https://osu.ppy.sh/users/3869519), [HiroK](https://osu.ppy.sh/users/4050738), [5\_5](https://osu.ppy.sh/users/6853438), [BabySnakes](https://osu.ppy.sh/users/4669728), [MTNTWarz](https://osu.ppy.sh/users/14036825), [Rinze](https://osu.ppy.sh/users/19901680), [cdh](https://osu.ppy.sh/users/2403621), [Cynplytholowazy](https://osu.ppy.sh/users/3901754) and [Horiiizon](https://osu.ppy.sh/users/8071438)), *\<\<\/nttld.:beings\>\> \~Truth in Uncertainty\~* is a visually stunning mapping masterpiece, helped along the way into Ranked by Beatmap Nominators [Axer](https://osu.ppy.sh/users/7299864) and [op45667](https://osu.ppy.sh/users/21973491).
 
-With more people than an average game development team dedicated to one piece of art alone, the sheer level of creativity involved in this piece simply cannot be understated. Melding so many ideas and styles together is an absolutely herculean effort, one that the osu!taiko community clearly recognizes in full.
+With more people than an average game development team dedicated to one piece of art alone, the sheer level of creativity involved in this piece simply cannot be understated. Melding so many ideas and styles together is an absolutely herculean effort, one that the osu!taiko community clearly recognises in full.
 
 Finalists:
 
@@ -87,7 +87,7 @@ Finalists:
 
 [![](/wiki/shared/news/2023-02-12-community-choice-2022-results/truth.jpg)](https://osu.ppy.sh/beatmapsets/1859338)
 
-The acclaim for **GTS Sound Team - \<\<\/nttld.:beings\>\> \~Truth in Uncertainty\~** continued strongly in the mapping scene, though with *that* many osu!taiko mappers involved in its creation from start to finish, it isn't too surprising.
+The acclaim for [**GTS Sound Team - \<\<\/nttld.:beings\>\> \~Truth in Uncertainty\~**](https://osu.ppy.sh/beatmapsets/1859338) continued strongly in the mapping scene, though with *that* many osu!taiko mappers involved in its creation from start to finish, it isn't too surprising.
 
 - [**GTS Sound Team - \<\<\/nttld.:beings\>\> \~Truth in Uncertainty\~**](https://osu.ppy.sh/beatmapsets/1859338) by [**Hivie**](https://osu.ppy.sh/users/14102976) with **31** votes.
 - [**TJ.hangneil - Apollo**](https://osu.ppy.sh/beatmapsets/1739877) by [**Axer**](https://osu.ppy.sh/users/7299864) with **25** votes.
@@ -106,7 +106,7 @@ The acclaim for **GTS Sound Team - \<\<\/nttld.:beings\>\> \~Truth in Uncertaint
 
 [![](/wiki/shared/news/2023-02-12-community-choice-2022-results/chad.jpg)](https://osu.ppy.sh/beatmapsets/1857120)
 
-**91** osu!catch players stood up and said yes, actually, they do play osu!catch, and they're wondering how you know. It probably has something to do with **Bring Me The Horizon - Can You Feel My Heart (Cut Ver.)** by  [**GIGACHAD**](https://osu.ppy.sh/users/11081858) featuring a guest difficulty by [Zuid-Afrikaan](https://osu.ppy.sh/users/29282944) and ushered into Ranked by the nominations of [Myxo](https://osu.ppy.sh/users/2202645) and [Natsuko](https://osu.ppy.sh/users/8266817).
+**91** osu!catch players stood up and said yes, actually, they do play osu!catch, and they're wondering how you know. It probably has something to do with [**Bring Me The Horizon - Can You Feel My Heart (Cut Ver.)**](https://osu.ppy.sh/beatmapsets/1857120) by [**GIGACHAD**](https://osu.ppy.sh/users/11081858) featuring a guest difficulty by [Zuid-Afrikaan](https://osu.ppy.sh/users/29282944) and ushered into Ranked by nominators [Myxo](https://osu.ppy.sh/users/2202645) and [Natsuko](https://osu.ppy.sh/users/8266817).
 
 - [**Bring Me The Horizon - Can You Feel My Heart (Cut Ver.)**](https://osu.ppy.sh/beatmapsets/1857120) by [**GIGACHAD**](https://osu.ppy.sh/users/11081858) with **91** votes.
 - [**Kurokotei - Galaxy Collapse**](https://osu.ppy.sh/beatmapsets/521900) by [**CLSW**](https://osu.ppy.sh/users/531253) with **60** votes.
@@ -123,7 +123,7 @@ The acclaim for **GTS Sound Team - \<\<\/nttld.:beings\>\> \~Truth in Uncertaint
 
 [![](/wiki/shared/news/2023-02-12-community-choice-2022-results/chad.jpg)](https://osu.ppy.sh/beatmapsets/1857120)
 
-The osu!catch mapping community simply could not escape the *dashing* jawline of  **Bring Me The Horizon - Can You Feel My Heart (Cut Ver.)** by  [**GIGACHAD**](https://osu.ppy.sh/users/11081858) yet again with a total of **16** votes cast for the most chad creation of all.
+The osu!catch mapping community simply could not escape the *dashing* jawline of [**Bring Me The Horizon - Can You Feel My Heart (Cut Ver.)**](https://osu.ppy.sh/beatmapsets/1857120) by  [**GIGACHAD**](https://osu.ppy.sh/users/11081858) yet again with a total of **16** votes cast for the most chad creation of all.
 
 - [**Bring Me The Horizon - Can You Feel My Heart (Cut Ver.)**](https://osu.ppy.sh/beatmapsets/1857120) by [**GIGACHAD**](https://osu.ppy.sh/users/11081858) with **16** votes.
 - [**Kobaryo - Villain Virus [feat. Camellia] by x_angelkawaii_x**](https://osu.ppy.sh/beatmapsets/1689443) by [**Rocma**](https://osu.ppy.sh/users/566276) with **14** votes.
@@ -180,10 +180,10 @@ It is rumoured (jokingly) that in the osu!mania community, a map's worth can be 
 
 That's it for Community Choice 2022! A big thank you to everyone who took the time to have their say and vote for their favourites.
 
-As an extra aside, we've expanded the Mappers' Favourite voting this year to include anyone who has ever had a beatmap Ranked including guest difficulties, which increased the total eligible mapper pool by around about 11%.
+As an extra aside, we've expanded the Mappers' Favourite voting this year to include anyone who has ever had a beatmap Ranked *including guest difficulties*, which increased the total eligible mapper pool by around about 11%.
 
-To keep things fresh in 2024, we'll likely be shaking up how this poll is run If you've got a spicy idea for how to spruce up the polls, toss them in the comments below — but you only get points if you manage to suggest something that doesn't involve removing someone else's ability to vote!
+To keep things fresh in 2024, we'll likely be shaking up how this poll is run. If you've got a spicy idea for how to spruce up the polls, toss them in the comments below — but you only get points if you manage to suggest something that doesn't involve removing someone else's ability to vote!
 
-If you're interested in checking out the full voting totals, [click this link to be taken to the Community Choice 2022 Results spreadsheet](https://docs.google.com/spreadsheets/d/1TXQe1IpdXEDmHNu_bm4JKpk_r1y4oZRGon2LM-lw6aY/edit?usp=sharing). If only the top 50 entries are your jam, [the contest listings](https://osu.ppy.sh/community/contests/162) have all the details for you, plus clickable links.
+If you're interested in checking out the full voting totals, have a quick glance over the [Community Choice 2022 results spreadsheet](https://docs.google.com/spreadsheets/d/1TXQe1IpdXEDmHNu_bm4JKpk_r1y4oZRGon2LM-lw6aY/edit?usp=sharing). If only the top 50 entries are your jam, [the contest listings](https://osu.ppy.sh/community/contests/162) have all the details for you, plus clickable links.
 
 —Ephemeral
