@@ -35,7 +35,7 @@ Finalists:
 - [**kakichoco - Zan'ei**](https://osu.ppy.sh/beatmapsets/1759729) by [**Lasse**](https://osu.ppy.sh/users/896613) with **455** votes.
 - [**Down - Ekoro**](https://osu.ppy.sh/beatmapsets/1683876) by [**Down**](https://osu.ppy.sh/users/4694602) with **433** votes.
 - [**Serenity - Lionheart**](https://osu.ppy.sh/beatmapsets/1390922) by [**AdeAAa**](https://osu.ppy.sh/users/12914206) with **376** votes.
-- [**kessoku band - Seishun Complex**](https://osu.ppy.sh/beatmapsets/1863866) by [**_kotachi_**](https://osu.ppy.sh/users/4698485) with **335** votes.
+- [**kessoku band - Seishun Complex**](https://osu.ppy.sh/beatmapsets/1863866) by [**\_kotachi\_**](https://osu.ppy.sh/users/4698485) with **335** votes.
 
 ### Mappers' Favourite
 
@@ -142,7 +142,7 @@ The osu!catch mapping community simply could not escape the *dashing* jawline of
 
 [![](/wiki/shared/news/2023-02-12-community-choice-2022-results/reikou.jpg)](https://osu.ppy.sh/beatmapsets/1502322)
 
-Edging into first place with **156** votes is [**-45 - Reikou Hatsuden**](https://osu.ppy.sh/beatmapsets/1502322) by [**Monheim**], featuring guest difficulties by [hna](https://osu.ppy.sh/users/12335541) and [LeiN\-](https://osu.ppy.sh/users/2162939)!
+Edging into first place with **156** votes is [**-45 - Reikou Hatsuden**](https://osu.ppy.sh/beatmapsets/1502322) by [**Monheim**](https://osu.ppy.sh/users/6814203), featuring guest difficulties by [hna](https://osu.ppy.sh/users/12335541) and [LeiN\-](https://osu.ppy.sh/users/2162939)!
 
 Players clearly enjoyed the chordjack madness and judging from the fierce competition in the set's leaderboards, things aren't likely to change on that front any time soon.
 
