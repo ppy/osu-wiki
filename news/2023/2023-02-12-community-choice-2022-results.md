@@ -181,7 +181,6 @@ It is rumoured (jokingly) that in the osu!mania community, a map's worth can be 
 - [**-45 - Reikou Hatsuden**](https://osu.ppy.sh/beatmapsets/1502322) by [**Monheim**](https://osu.ppy.sh/users/6814203) with **13** votes.
 - [**Gram vs. Camellia - Ragnarok**](https://osu.ppy.sh/beatmapsets/999032) by [**_Kobii**](https://osu.ppy.sh/users/6209713) with **12** votes.
 
-
 ---
 
 That's it for Community Choice 2022! A big thank you to everyone who took the time to have their say and vote for their favourites.
