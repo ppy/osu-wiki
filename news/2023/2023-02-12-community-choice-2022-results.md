@@ -51,7 +51,7 @@ Finalists:
 
 ...but that's not all! [**Soushi Sakiyama - Gyakkou**](https://osu.ppy.sh/beatmapsets/1523018) hosted by [**Gillstar**](https://osu.ppy.sh/users/7948210) kept up every step of the way with **42** votes of its own, with some guest difficulty help from the mapping talents of [Myxo](https://osu.ppy.sh/users/2202645), [amity](https://osu.ppy.sh/users/10676118), [toybot](https://osu.ppy.sh/users/2848604) (again) and [Fixxis](https://osu.ppy.sh/users/4673089), plus some beatmap nomination from [Akito](https://osu.ppy.sh/users/5716327) and [Fisky](https://osu.ppy.sh/users/8352623).
 
-Yep, that's right — a *two way tie* for the spot of Mapper's Favourite. A certain not-obliging breath wasn't far behind either! Take that, mapping Twitter.
+Yep, that's right — a *two-way tie* for the spot of Mapper's Favourite. A certain non-obliging breath wasn't far behind either! Take that, mapping Twitter.
 
 Finalists:
 
