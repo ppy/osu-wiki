@@ -10,6 +10,8 @@ You've had your say, and the results are in! Find out which maps are the Communi
 
 In case you missed it, the Community Choice polls are an extra special event we host each year where the community huddles close and votes for their favourite maps from the past year. The mapping community gets a nod too in their very own Mapper's Favourite category, which counts only the votes of anyone who's ever ranked a beatmap or guest difficulty.
 
+Note: this year, the Mapper's Favourite category *only considers mappers that have had at least 1 map ranked in the contest's respective game mode*. Someone who ranked a map in osu!taiko no longer has their vote count towards the osu!catch Mapper's Favourite category, for example. This should help make the results a bit more accurate overall compared to previous years.
+
 Let's get stuck straight into the results:
 
 ## osu!
@@ -39,22 +41,23 @@ Finalists:
 
 ### Mappers' Favourite
 
-[![](/wiki/shared/news/2023-02-12-community-choice-2022-results/non-breath-oblige.jpg)](https://osu.ppy.sh/beatmapsets/1889729)
+[![](/wiki/shared/news/2023-02-12-community-choice-2022-results/heathens.jpg)](https://osu.ppy.sh/beatmapsets/1851103)
 
-Over in osu!'s mapping scene, the response was a little more subdued but still strongly supportive of Delis' collaborative creation, sporting a total of **46** votes overall. Mapping Twitter is in shambles. Nobody knows if it will ever recover.
+2022 was the year of heresy as far as the mapping community was concerned, with the monster collab in [**twenty one pilots - Heathens (Magnetude Bootleg)**](https://osu.ppy.sh/beatmapsets/1851103) showcasing the talents of [**funny**](https://osu.ppy.sh/users/8473573), [Sharu](https://osu.ppy.sh/users/5597639), [0ppInOsu](https://osu.ppy.sh/users/12551840), [Halgoh](https://osu.ppy.sh/users/4109923), [enryotoki](https://osu.ppy.sh/users/10639122), [Rorupan L9](https://osu.ppy.sh/users/9471638), [Xarr](https://osu.ppy.sh/users/7262065) and [-Doodle](https://osu.ppy.sh/users/12337329) for the world to see.
 
 Finalists:
 
-- [**15 Voices - Non-breath oblige**](https://osu.ppy.sh/beatmapsets/1889729) by [**Delis**](https://osu.ppy.sh/users/1603923) with **46** votes.
-- [**twenty one pilots - Heathens (Magnetude Bootleg)**](https://osu.ppy.sh/beatmapsets/1851103) by [**funny**](https://osu.ppy.sh/users/8473573) with **43** votes.
-- [**Soushi Sakiyama - Gyakkou**](https://osu.ppy.sh/beatmapsets/1523018) by [**Gillstar**](https://osu.ppy.sh/users/7948210) with **43** votes.
-- [**UKRampage - Yumenoshima feat. mami**](https://osu.ppy.sh/beatmapsets/1644513) by [**Gillstar**](https://osu.ppy.sh/users/7948210) with **38** votes.
-- [**TAG underground - POSSESSION**](https://osu.ppy.sh/beatmapsets/1691083) by [**pewdekz**](https://osu.ppy.sh/users/5754859) with **36** votes.
+- [**twenty one pilots - Heathens (Magnetude Bootleg)**](https://osu.ppy.sh/beatmapsets/1851103) by [**funny**](https://osu.ppy.sh/users/8473573) with **42** votes.
+- [**Soushi Sakiyama - Gyakkou**](https://osu.ppy.sh/beatmapsets/1523018) by [**Gillstar**](https://osu.ppy.sh/users/7948210) with **42** votes.
+- [**15 Voices - Non-breath oblige**](https://osu.ppy.sh/beatmapsets/1889729) by [**Delis**](https://osu.ppy.sh/users/1603923) with **40** votes.
+- [**UKRampage - Yumenoshima feat. mami**](https://osu.ppy.sh/beatmapsets/1644513) by [**Gillstar**](https://osu.ppy.sh/users/7948210) with **36** votes.
 - [**Shimotsuki Haruka - Tsubasa o Kudasai**](https://osu.ppy.sh/beatmapsets/1754815) by [**misho15_701_4_0**](https://osu.ppy.sh/users/11299666) with **34** votes.
-- [**[Kyoro] - Mochio-**](https://osu.ppy.sh/beatmapsets/1473006) by [**Snow Note**](https://osu.ppy.sh/users/643394) with **33** votes.
-- [**Tarako - Bing Chilling-ish**](https://osu.ppy.sh/beatmapsets/1820912) by [**Aurorance**](https://osu.ppy.sh/users/13142180) with **32** votes.
-- [**Hoshimachi Suisei - Stellar Stellar**](https://osu.ppy.sh/beatmapsets/1680549) by [**ImWater**](https://osu.ppy.sh/users/10616849) with **30** votes.
-- [**Feryquitous vs. xi - Orca**](https://osu.ppy.sh/beatmapsets/1166748) by [**lcfc**](https://osu.ppy.sh/users/7322726) with **29** votes.
+- [**[Kyoro] - Mochio-**](https://osu.ppy.sh/beatmapsets/1473006) by [**Snow Note**](https://osu.ppy.sh/users/643394) with **31** votes.
+- [**TAG underground - POSSESSION**](https://osu.ppy.sh/beatmapsets/1691083) by [**pewdekz**](https://osu.ppy.sh/users/5754859) with **30** votes.
+- [**DUSTCELL - DERO by Heilia**](https://osu.ppy.sh/beatmapsets/1318423) by [**cotton__123**](https://osu.ppy.sh/users/9823042) with **29** votes.
+- [**Hoshimachi Suisei - Stellar Stellar**](https://osu.ppy.sh/beatmapsets/1680549) by [**ImWater**](https://osu.ppy.sh/users/10616849) with **29** votes.
+- [**Feryquitous vs. xi - Orca**](https://osu.ppy.sh/beatmapsets/1166748) by [**lcfc**](https://osu.ppy.sh/users/7322726) with **28** votes.
+
 
 ## osu!taiko
 
@@ -89,16 +92,17 @@ Finalists:
 
 The acclaim for [**GTS Sound Team - \<\<\/nttld.:beings\>\> \~Truth in Uncertainty\~**](https://osu.ppy.sh/beatmapsets/1859338) continued strongly in the mapping scene, though with *that* many osu!taiko mappers involved in its creation from start to finish, it isn't too surprising.
 
-- [**GTS Sound Team - \<\<\/nttld.:beings\>\> \~Truth in Uncertainty\~**](https://osu.ppy.sh/beatmapsets/1859338) by [**Hivie**](https://osu.ppy.sh/users/14102976) with **31** votes.
+- [**GTS Sound Team - <</nttld.:beings>> ~Truth in Uncertainty~**](https://osu.ppy.sh/beatmapsets/1859338) by [**Hivie**](https://osu.ppy.sh/users/14102976) with **31** votes.
 - [**TJ.hangneil - Apollo**](https://osu.ppy.sh/beatmapsets/1739877) by [**Axer**](https://osu.ppy.sh/users/7299864) with **25** votes.
-- [**Hoshimachi Suisei - Stellar Stellar**](https://osu.ppy.sh/beatmapsets/1589361) by [**[Zeth]**](https://osu.ppy.sh/users/9912966) with **17** votes.
-- [**leroy - dyed my hair black**](https://osu.ppy.sh/beatmapsets/1507426) by [**Genjuro**](https://osu.ppy.sh/users/3196091) with **17** votes.
-- [**DJ Majokko Mirakurun - DJ Majokko Mirakurun [ Producer Mix ] [ Nightcore ]**](https://osu.ppy.sh/beatmapsets/1797642) by [**Genjuro**](https://osu.ppy.sh/users/3196091) with **16** votes.
 - [**Hudson Lee - Nothing To Fear**](https://osu.ppy.sh/beatmapsets/1549349) by [**ZTH**](https://osu.ppy.sh/users/5258461) with **16** votes.
-- [**seatrus - O**](https://osu.ppy.sh/beatmapsets/1693010) by [**rubies87**](https://osu.ppy.sh/users/4949934) with **14** votes.
-- [**sienna sleep - navi 98**](https://osu.ppy.sh/beatmapsets/1856862) by [**Hivie**](https://osu.ppy.sh/users/14102976) with **14** votes.
-- [**Supire - Aquaphilia**](https://osu.ppy.sh/beatmapsets/1811200) by [**Dekovner**](https://osu.ppy.sh/users/19859015) with **14** votes.
+- [**leroy - dyed my hair black**](https://osu.ppy.sh/beatmapsets/1507426) by [**Genjuro**](https://osu.ppy.sh/users/3196091) with **16** votes.
+- [**DJ Majokko Mirakurun - DJ Majokko Mirakurun [ Producer Mix ] [ Nightcore ]**](https://osu.ppy.sh/beatmapsets/1797642) by [**Genjuro**](https://osu.ppy.sh/users/3196091) with **15** votes.
+- [**Hoshimachi Suisei - Stellar Stellar**](https://osu.ppy.sh/beatmapsets/1589361) by [**[Zeth]**](https://osu.ppy.sh/users/9912966) with **15** votes.
 - [**Camellia - Looking for Edge of Ground**](https://osu.ppy.sh/beatmapsets/1678197) by [**Genjuro**](https://osu.ppy.sh/users/3196091) with **14** votes.
+- [**Supire - Aquaphilia**](https://osu.ppy.sh/beatmapsets/1811200) by [**Dekovner**](https://osu.ppy.sh/users/19859015) with **14** votes.
+- [**seatrus - O**](https://osu.ppy.sh/beatmapsets/1693010) by [**rubies87**](https://osu.ppy.sh/users/4949934) with **14** votes.
+- [**II-L - VANGUARD-1**](https://osu.ppy.sh/beatmapsets/1407228) by [**Axer**](https://osu.ppy.sh/users/7299864) with **13** votes.
+
 
 ## osu!catch
 
@@ -110,31 +114,32 @@ The acclaim for [**GTS Sound Team - \<\<\/nttld.:beings\>\> \~Truth in Uncertain
 
 - [**Bring Me The Horizon - Can You Feel My Heart (Cut Ver.)**](https://osu.ppy.sh/beatmapsets/1857120) by [**GIGACHAD**](https://osu.ppy.sh/users/11081858) with **91** votes.
 - [**Kurokotei - Galaxy Collapse**](https://osu.ppy.sh/beatmapsets/521900) by [**CLSW**](https://osu.ppy.sh/users/531253) with **60** votes.
-- [**Kobaryo - Villain Virus [feat. Camellia] by x_angelkawaii_x**](https://osu.ppy.sh/beatmapsets/1689443) by [**Rocma**](https://osu.ppy.sh/users/566276) with **60** votes.
+- [**Kobaryo - Villain Virus [feat. Camellia]*](https://osu.ppy.sh/beatmapsets/1689443) by [**Rocma**](https://osu.ppy.sh/users/566276) with **60** votes.
 - [**D-D-Dice vs. siromaru - Catch the Glory**](https://osu.ppy.sh/beatmapsets/1794214) by [**Bunnrei**](https://osu.ppy.sh/users/829284) with **59** votes.
 - [**xi - Last Resort**](https://osu.ppy.sh/beatmapsets/1625860) by [**fuhie**](https://osu.ppy.sh/users/7620002) with **56** votes.
 - [**ZxNX - Schadenfreude**](https://osu.ppy.sh/beatmapsets/1698949) by [**Jemzuu**](https://osu.ppy.sh/users/7890134) with **52** votes.
-- [**Camellia as "fluX Xroise" - Xronier ("geneXe" Long ver.) by x_angelkawaii_x**](https://osu.ppy.sh/beatmapsets/1506066) by [**Rocma**](https://osu.ppy.sh/users/566276) with **49** votes.
+- [**Camellia as "fluX Xroise" - Xronier ("geneXe" Long ver.)**](https://osu.ppy.sh/beatmapsets/1506066) by [**Rocma**](https://osu.ppy.sh/users/566276) with **49** votes.
 - [**Silentroom - XHRONOXAPSULE**](https://osu.ppy.sh/beatmapsets/1715139) by [**Jemzuu**](https://osu.ppy.sh/users/7890134) with **48** votes.
 - [**Kenshi Yonezu - KICK BACK (TV Size)**](https://osu.ppy.sh/beatmapsets/1864673) by [**Ascendance**](https://osu.ppy.sh/users/2931883) with **47** votes.
 - [**Mia REGINA - I got it! (Slax Remix)**](https://osu.ppy.sh/beatmapsets/1764078) by [**-Rustyy**](https://osu.ppy.sh/users/16355636) with **46** votes.
 
 ### Mappers' Favourite
 
-[![](/wiki/shared/news/2023-02-12-community-choice-2022-results/chad.jpg)](https://osu.ppy.sh/beatmapsets/1857120)
+[![](/wiki/shared/news/2023-02-12-community-choice-2022-results/villainvirus.jpg)](https://osu.ppy.sh/beatmapsets/1689443)
 
-The osu!catch mapping community simply could not escape the *dashing* jawline of [**Bring Me The Horizon - Can You Feel My Heart (Cut Ver.)**](https://osu.ppy.sh/beatmapsets/1857120) by  [**GIGACHAD**](https://osu.ppy.sh/users/11081858) yet again with a total of **16** votes cast for the most chad creation of all.
+The osu!catch mapping community simply could not shake the **Kobaryo - Villain Virus [feat. Camellia]** infection courtesy of [**Rocma**](https://osu.ppy.sh/users/566276), plus an added guest difficulty from [Jemzuu](https://osu.ppy.sh/users/7890134). osu! remains as the only game mode free from this grave pathogen, but for how long?
 
-- [**Bring Me The Horizon - Can You Feel My Heart (Cut Ver.)**](https://osu.ppy.sh/beatmapsets/1857120) by [**GIGACHAD**](https://osu.ppy.sh/users/11081858) with **16** votes.
-- [**Kobaryo - Villain Virus [feat. Camellia] by x_angelkawaii_x**](https://osu.ppy.sh/beatmapsets/1689443) by [**Rocma**](https://osu.ppy.sh/users/566276) with **14** votes.
-- [**Silentroom - XHRONOXAPSULE**](https://osu.ppy.sh/beatmapsets/1715139) by [**Jemzuu**](https://osu.ppy.sh/users/7890134) with **13** votes.
-- [**D-D-Dice vs. siromaru - Catch the Glory**](https://osu.ppy.sh/beatmapsets/1794214) by [**Bunnrei**](https://osu.ppy.sh/users/829284) with **12** votes.
-- [**Frums - theyaremanycolors**](https://osu.ppy.sh/beatmapsets/1612932) by [**Spectator**](https://osu.ppy.sh/users/702598) with **12** votes.
-- [**Camellia as "fluX Xroise" - Xronier ("geneXe" Long ver.) by x_angelkawaii_x**](https://osu.ppy.sh/beatmapsets/1506066) by [**Rocma**](https://osu.ppy.sh/users/566276) with **12** votes.
-- [**ZxNX - Schadenfreude**](https://osu.ppy.sh/beatmapsets/1698949) by [**Jemzuu**](https://osu.ppy.sh/users/7890134) with **11** votes.
-- [**Kurokotei - Galaxy Collapse**](https://osu.ppy.sh/beatmapsets/521900) by [**CLSW**](https://osu.ppy.sh/users/531253) with **10** votes.
-- [**Rish feat. Choko - Tanaka**](https://osu.ppy.sh/beatmapsets/1717748) by [**Kukkai**](https://osu.ppy.sh/users/7811952) with **10** votes.
-- [**ptar124 - AmbidextrouS ~The Alchemist of The Left x The Sage of The Right~**](https://osu.ppy.sh/beatmapsets/1698560) by [**Deif**](https://osu.ppy.sh/users/318565) with **9** votes.
+- [**Kobaryo - Villain Virus [feat. Camellia]**](https://osu.ppy.sh/beatmapsets/1689443) by [**Rocma**](https://osu.ppy.sh/users/566276) with **12** votes.
+- [**D-D-Dice vs. siromaru - Catch the Glory**](https://osu.ppy.sh/beatmapsets/1794214) by [**Bunnrei**](https://osu.ppy.sh/users/829284) with **11** votes.
+- [**Silentroom - XHRONOXAPSULE**](https://osu.ppy.sh/beatmapsets/1715139) by [**Jemzuu**](https://osu.ppy.sh/users/7890134) with **11** votes.
+- [**ZxNX - Schadenfreude**](https://osu.ppy.sh/beatmapsets/1698949) by [**Jemzuu**](https://osu.ppy.sh/users/7890134) with **10** votes.
+- [**Camellia as "fluX Xroise" - Xronier ("geneXe" Long ver.)**](https://osu.ppy.sh/beatmapsets/1506066) by [**Rocma**](https://osu.ppy.sh/users/566276) with **10** votes.
+- [**Frums - theyaremanycolors**](https://osu.ppy.sh/beatmapsets/1612932) by [**Spectator**](https://osu.ppy.sh/users/702598) with **9** votes.
+- [**Kurokotei - Galaxy Collapse**](https://osu.ppy.sh/beatmapsets/521900) by [**CLSW**](https://osu.ppy.sh/users/531253) with **9** votes.
+- [**Srav3R vs. Getty - DUAL BREAKER XX**](https://osu.ppy.sh/beatmapsets/1688341) by [**Jemzuu**](https://osu.ppy.sh/users/7890134) with **8** votes.
+- [**PSYQUI - Hype feat. Such**](https://osu.ppy.sh/beatmapsets/1714422) by [**Crowley**](https://osu.ppy.sh/users/6341006) with **8** votes.
+- [**kanemiko - Electrolytes**](https://osu.ppy.sh/beatmapsets/1774562) by [**Unlucky_w**](https://osu.ppy.sh/users/4820793) with **7** votes.
+
 
 ## osu!mania
 
@@ -165,22 +170,21 @@ Taking the top spot with a decent lead is [**shimizushi - Eternal White**](https
 
 It is rumoured (jokingly) that in the osu!mania community, a map's worth can be measured by how many contentious comments it has. In *Eternal White*'s case, this means it may be one of the most valuable maps to hit Ranked in the past three years.
 
-- [**shimizushi - Eternal White**](https://osu.ppy.sh/beatmapsets/1683685) by [**Seiran-**](https://osu.ppy.sh/users/14351534) with **24** votes.
-- [**technoplanet - Awakening [Long Version]**](https://osu.ppy.sh/beatmapsets/1326970) by [**Touru0711**](https://osu.ppy.sh/users/8625854) with **18** votes.
-- [**laura les - Haunted (dive to the heart remix)**](https://osu.ppy.sh/beatmapsets/1683972) by [**Monheim**](https://osu.ppy.sh/users/6814203) with **17** votes.
+- [**shimizushi - Eternal White**](https://osu.ppy.sh/beatmapsets/1683685) by [**Seiran-**](https://osu.ppy.sh/users/14351534) with **23** votes.
 - [**Silentroom vs. Frums - Aegleseeker**](https://osu.ppy.sh/beatmapsets/1666003) by [**Jinjin**](https://osu.ppy.sh/users/3360737) with **16** votes.
+- [**technoplanet - Awakening [Long Version]**](https://osu.ppy.sh/beatmapsets/1326970) by [**Touru0711**](https://osu.ppy.sh/users/8625854) with **16** votes.
 - [**Camellia - Looking for Edge of Ground**](https://osu.ppy.sh/beatmapsets/1560424) by [**tyrcs**](https://osu.ppy.sh/users/13026904) with **16** votes.
-- [**Camellia - Electromagnetic Stealth Girl Born In Philadelphia**](https://osu.ppy.sh/beatmapsets/1608630) by [**lovely_hyahya**](https://osu.ppy.sh/users/10318380) with **14** votes.
-- [**-45 - Reikou Hatsuden**](https://osu.ppy.sh/beatmapsets/1502322) by [**Monheim**](https://osu.ppy.sh/users/6814203) with **14** votes.
 - [**Grimes - Kill V. Maim**](https://osu.ppy.sh/beatmapsets/1181796) by [**BringoBrango**](https://osu.ppy.sh/users/10274043) with **14** votes.
-- [**[REDACTED]**](https://osu.ppy.sh/beatmapsets/1756972) by [**Ryax**](https://osu.ppy.sh/users/8949769) with **13** votes.
-- [**coltrane - zeke didn't "invent dariacore", i did**](https://osu.ppy.sh/beatmapsets/1736615) by [**Stability**](https://osu.ppy.sh/users/6701738) with **13** votes.
+- [**laura les - Haunted (dive to the heart remix)**](https://osu.ppy.sh/beatmapsets/1683972) by [**Monheim**](https://osu.ppy.sh/users/6814203) with **13** votes.
+- [**Camellia - Electromagnetic Stealth Girl Born In Philadelphia**](https://osu.ppy.sh/beatmapsets/1608630) by [**lovely_hyahya**](https://osu.ppy.sh/users/10318380) with **13** votes.
+- [**ReeK - SUPER SEX DELIVERY 2 - ENTER THE CUM ZONE**](https://osu.ppy.sh/beatmapsets/1756972) by [**Ryax**](https://osu.ppy.sh/users/8949769) with **13** votes.
+- [**-45 - Reikou Hatsuden**](https://osu.ppy.sh/beatmapsets/1502322) by [**Monheim**](https://osu.ppy.sh/users/6814203) with **13** votes.
+- [**Gram vs. Camellia - Ragnarok**](https://osu.ppy.sh/beatmapsets/999032) by [**_Kobii**](https://osu.ppy.sh/users/6209713) with **12** votes.
+
 
 ---
 
 That's it for Community Choice 2022! A big thank you to everyone who took the time to have their say and vote for their favourites.
-
-As an extra aside, we've expanded the Mappers' Favourite voting this year to include anyone who has ever had a beatmap Ranked *including guest difficulties*, which increased the total eligible mapper pool by around about 11%.
 
 To keep things fresh in 2024, we'll likely be shaking up how this poll is run. If you've got a spicy idea for how to spruce up the polls, toss them in the comments below — but you only get points if you manage to suggest something that doesn't involve removing someone else's ability to vote!
 
