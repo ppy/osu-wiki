@@ -58,7 +58,6 @@ Finalists:
 - [**Hoshimachi Suisei - Stellar Stellar**](https://osu.ppy.sh/beatmapsets/1680549) by [**ImWater**](https://osu.ppy.sh/users/10616849) with **29** votes.
 - [**Feryquitous vs. xi - Orca**](https://osu.ppy.sh/beatmapsets/1166748) by [**lcfc**](https://osu.ppy.sh/users/7322726) with **28** votes.
 
-
 ## osu!taiko
 
 ### Community Choice
@@ -126,7 +125,7 @@ The acclaim for [**GTS Sound Team - \<\<\/nttld.:beings\>\> \~Truth in Uncertain
 
 [![](/wiki/shared/news/2023-02-12-community-choice-2022-results/villainvirus.jpg)](https://osu.ppy.sh/beatmapsets/1689443)
 
-The osu!catch mapping community simply could not shake the **Kobaryo - Villain Virus [feat. Camellia]** infection courtesy of [**Rocma**](https://osu.ppy.sh/users/566276), plus an added guest difficulty from [Jemzuu](https://osu.ppy.sh/users/7890134). osu! remains as the only game mode free from this grave pathogen, but for how long?
+The osu!catch mapping community simply could not shake the **Kobaryo - Villain Virus \[feat. Camellia\]** infection courtesy of [**Rocma**](https://osu.ppy.sh/users/566276), plus an added guest difficulty from [Jemzuu](https://osu.ppy.sh/users/7890134). osu! remains as the only game mode free from this grave pathogen, but for how long?
 
 - [**Kobaryo - Villain Virus [feat. Camellia]**](https://osu.ppy.sh/beatmapsets/1689443) by [**Rocma**](https://osu.ppy.sh/users/566276) with **12** votes.
 - [**D-D-Dice vs. siromaru - Catch the Glory**](https://osu.ppy.sh/beatmapsets/1794214) by [**Bunnrei**](https://osu.ppy.sh/users/829284) with **11** votes.
