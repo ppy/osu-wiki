@@ -39,11 +39,17 @@ Finalists:
 - [**Serenity - Lionheart**](https://osu.ppy.sh/beatmapsets/1390922) by [**AdeAAa**](https://osu.ppy.sh/users/12914206) with **376** votes.
 - [**kessoku band - Seishun Complex**](https://osu.ppy.sh/beatmapsets/1863866) by [**\_kotachi\_**](https://osu.ppy.sh/users/4698485) with **335** votes.
 
-### Mappers' Favourite
+### Mapper's Favourite
 
 [![](/wiki/shared/news/2023-02-12-community-choice-2022-results/heathens.jpg)](https://osu.ppy.sh/beatmapsets/1851103)
 
-2022 was the year of heresy as far as the mapping community was concerned, with the monster collab in [**twenty one pilots - Heathens (Magnetude Bootleg)**](https://osu.ppy.sh/beatmapsets/1851103) showcasing the talents of [**funny**](https://osu.ppy.sh/users/8473573), [Sharu](https://osu.ppy.sh/users/5597639), [0ppInOsu](https://osu.ppy.sh/users/12551840), [Halgoh](https://osu.ppy.sh/users/4109923), [enryotoki](https://osu.ppy.sh/users/10639122), [Rorupan L9](https://osu.ppy.sh/users/9471638), [Xarr](https://osu.ppy.sh/users/7262065) and [-Doodle](https://osu.ppy.sh/users/12337329) for the world to see.
+2022 was the year of heresy as far as the mapping community was concerned as they cast **42** votes for the monster collab in [**twenty one pilots - Heathens (Magnetude Bootleg)**](https://osu.ppy.sh/beatmapsets/1851103), showcasing the talents of [**funny**](https://osu.ppy.sh/users/8473573), [Sharu](https://osu.ppy.sh/users/5597639), [0ppInOsu](https://osu.ppy.sh/users/12551840), [Halgoh](https://osu.ppy.sh/users/4109923), [enryotoki](https://osu.ppy.sh/users/10639122), [Rorupan L9](https://osu.ppy.sh/users/9471638), [Xarr](https://osu.ppy.sh/users/7262065) and [-Doodle](https://osu.ppy.sh/users/12337329) for the world to see. Can't forget the nominators involved in the process too, namely [SMOKELIND](https://osu.ppy.sh/users/9327302) and [Sajinn](https://osu.ppy.sh/users/13513687).
+
+[![](/wiki/shared/news/2023-02-12-community-choice-2022-results/gyakkou.jpg)](https://osu.ppy.sh/beatmapsets/1523018)
+
+...but that's not all! [**Soushi Sakiyama - Gyakkou**](https://osu.ppy.sh/beatmapsets/1523018) hosted by [**Gillstar**](https://osu.ppy.sh/users/7948210) kept up every step of the way with **42** votes of its own, with some guest difficulty help from the mapping talents of [Myxo](https://osu.ppy.sh/users/2202645), [amity](https://osu.ppy.sh/users/10676118), [toybot](https://osu.ppy.sh/users/2848604) (again) and [Fixxis](https://osu.ppy.sh/users/4673089), plus some beatmap nomination from [Akito](https://osu.ppy.sh/users/5716327) and [Fisky](https://osu.ppy.sh/users/8352623).
+
+Yep, that's right — a *two way tie* for the spot of Mapper's Favourite. A certain not-obliging breath wasn't far behind either! Take that, mapping Twitter.
 
 Finalists:
 
@@ -85,7 +91,7 @@ Finalists:
 - [**xi - FREEDOM DiVE**](https://osu.ppy.sh/beatmapsets/1613246) by [**gaston_2199**](https://osu.ppy.sh/users/5938161) with **37** votes.
 - [**sienna sleep - navi 98**](https://osu.ppy.sh/beatmapsets/1856862) by [**Hivie**](https://osu.ppy.sh/users/14102976) with **36** votes.
 
-### Mappers' Favourite
+### Mapper's Favourite
 
 [![](/wiki/shared/news/2023-02-12-community-choice-2022-results/truth.jpg)](https://osu.ppy.sh/beatmapsets/1859338)
 
@@ -121,7 +127,7 @@ The acclaim for [**GTS Sound Team - \<\<\/nttld.:beings\>\> \~Truth in Uncertain
 - [**Kenshi Yonezu - KICK BACK (TV Size)**](https://osu.ppy.sh/beatmapsets/1864673) by [**Ascendance**](https://osu.ppy.sh/users/2931883) with **47** votes.
 - [**Mia REGINA - I got it! (Slax Remix)**](https://osu.ppy.sh/beatmapsets/1764078) by [**-Rustyy**](https://osu.ppy.sh/users/16355636) with **46** votes.
 
-### Mappers' Favourite
+### Mapper's Favourite
 
 [![](/wiki/shared/news/2023-02-12-community-choice-2022-results/villainvirus.jpg)](https://osu.ppy.sh/beatmapsets/1689443)
 
@@ -159,7 +165,7 @@ Players clearly enjoyed the chordjack madness and judging from the fierce compet
 - [**Toby Fox - Rude Buster (Camellia Remix)**](https://osu.ppy.sh/beatmapsets/1720248) by [**[GB]V1do**](https://osu.ppy.sh/users/17527968) with **106** votes.
 - [**t+pazolite - Party in the HOLLOWood feat. Nanahira (HOLLOWeen Sitchaka Metchaka Remix)**](https://osu.ppy.sh/beatmapsets/1027900) by [**_Asha**](https://osu.ppy.sh/users/11103764) with **106** votes.
 
-### Mappers' Favourite
+### Mapper's Favourite
 
 [![](/wiki/shared/news/2023-02-12-community-choice-2022-results/eternal-white.jpg)](https://osu.ppy.sh/beatmapsets/1683685)
 
