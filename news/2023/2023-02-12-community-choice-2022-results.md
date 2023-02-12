@@ -99,7 +99,7 @@ Finalists:
 
 The acclaim for [**GTS Sound Team - \<\<\/nttld.:beings\>\> \~Truth in Uncertainty\~**](https://osu.ppy.sh/beatmapsets/1859338) continued strongly in the mapping scene, though with *that* many osu!taiko mappers involved in its creation from start to finish, it isn't too surprising.
 
-- [**GTS Sound Team - \<\</nttld.:beings\>\>\~Truth in Uncertaint\~**](https://osu.ppy.sh/beatmapsets/1859338) by [**Hivie**](https://osu.ppy.sh/users/14102976) with **31** votes.
+- [**GTS Sound Team - \<\</nttld.:beings\>\>\~Truth in Uncertainty\~**](https://osu.ppy.sh/beatmapsets/1859338) by [**Hivie**](https://osu.ppy.sh/users/14102976) with **31** votes.
 - [**TJ.hangneil - Apollo**](https://osu.ppy.sh/beatmapsets/1739877) by [**Axer**](https://osu.ppy.sh/users/7299864) with **25** votes.
 - [**Hudson Lee - Nothing To Fear**](https://osu.ppy.sh/beatmapsets/1549349) by [**ZTH**](https://osu.ppy.sh/users/5258461) with **16** votes.
 - [**leroy - dyed my hair black**](https://osu.ppy.sh/beatmapsets/1507426) by [**Genjuro**](https://osu.ppy.sh/users/3196091) with **16** votes.
