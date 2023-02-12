@@ -214,7 +214,9 @@ Ces chansons font partie du [osu! James Landino Collection EP](https://fanlink.t
 | Musique | Beatmap | Notes |
 | :-: | :-: | :-- |
 | [Hino Isuka vs. s-don - Glooorious!!](https://www.youtube.com/watch?v=qvf4Wm5t0wM)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1935691) | HB3 des finales |
+| katagiri - Kyuukou[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1939261) | Tiebreaker des Grandes Finales |
 | LV.4 feat. Yuu Ikeba - Sentimental Surge[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1935688) | RC6 des finales |
+| SAMString - Ataraxia[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1939418) | LN3 des Grandes Finales |
 | Toromaru - Uncharted Sky[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1931471) | RC6 des demi-finales |
 
 ### Sorties des tournois gérés par la communauté
