@@ -247,7 +247,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/c9e
 7. [Neko Hacker feat. Nanahira - Shuwa\*Shuwa Parfait (Remuring) \[Stage 7: Dessert\]](https://osu.ppy.sh/beatmapsets/1918916#mania/3959886)
 8. [yumemidoll - Lyrith -Meikyuu Lyrith- (Leeju) \[Stage 8: Awakening\]](https://osu.ppy.sh/beatmapsets/1919014#mania/3960063)
 
-
 ## Match results
 
 ### Finals
