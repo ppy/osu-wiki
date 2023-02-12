@@ -152,7 +152,7 @@ Estas canciones son parte de [osu! James Landino Collection EP](https://fanlink.
 | Canción | Beatmap | Notas |
 | :-: | :-: | :-- |
 | [DJ Raisei - T.R.A.P.](https://soundcloud.com/raisei/traptrap)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1889105) | Gran final NM4 |
-| Down - Down | [#1](https://osu.ppy.sh/beatmapsets/1880545) | Semifinales FM4 |
+| [Down - Down](https://open.spotify.com/album/4pMakhbTjq8kwg679WxBuf) | [#1](https://osu.ppy.sh/beatmapsets/1880545) | Semifinales FM4 |
 | [II-L ft. amelie xoxo - THE EARTH](https://soundcloud.com/ii-l/the-earth)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1889101) | Gran final NM5 |
 | [Kurokotei feat. Sennzai - escape (the looking-glass, and what alice found there)](https://www.youtube.com/watch?v=rYmTItO3caw)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1880652) | Desempate de las semifinales |
 | [NIWASHI - Harder Than Diamond](https://open.spotify.com/album/069ssNdAa8pqjgJ6Pk06Jq)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1884920) | Finales FM4 |
@@ -213,7 +213,7 @@ Estas canciones son parte de [osu! James Landino Collection EP](https://fanlink.
 
 | Canción | Beatmap | Notas |
 | :-: | :-: | :-- |
-| Hino Isuka vs. s-don - Glooorious!![^fa] | [#1](https://osu.ppy.sh/beatmapsets/1935691) | Finales HB3 |
+| [Hino Isuka vs. s-don - Glooorious!!](https://www.youtube.com/watch?v=qvf4Wm5t0wM)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1935691) | Finales HB3 |
 | LV.4 feat. Yuu Ikeba - Sentimental Surge[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1935688) | Finales RC6 |
 | Toromaru - Uncharted Sky[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1931471) | Semifinales RC6 |
 
