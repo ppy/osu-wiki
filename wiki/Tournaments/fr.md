@@ -413,6 +413,13 @@ Tournois et compétitions non-officiels gérés par la communauté.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Yuri Cup](YC/1) | 22/02/2020 | 05/04/2020 | Corim's Bad Dream | a la verga | Rtzero x Rtzer0 |
 
+#### Yuyuko's Hidden Cup
+
+| Nom | Début | Fin | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| Yuyuko's Hidden Cup Season 1 | 17/05/2022 | 04/07/2022 | 都怪幽神 | HD怎么打 | 队名叫有新意的名字 / 请在此处填写队名 |
+| [Yuyuko's Hidden Cup Season 2](YHC/2) | 26/11/2022 | 05/02/2023 | 懒人三项 | 老年娱乐 | 已经结束啦 |
+
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
 #### 3 Digit Taiko World Cup
@@ -753,6 +760,7 @@ Tournois et compétitions non-officiels gérés par la communauté.
 | Nom | Début | Fin | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Touhou Project Mania Cup 1st](TMC/1st) | 14/09/2020 | 06/12/2020 | MY 2.5 + TH 1.5 | yuyupa | SMOrcat |
+| [Touhou Project Mania Cup 2nd](TMC/2nd) | 20/12/2021 | 20/03/2022 | Black Stick Rot | rice quadruplets | Hourai Elixir |
 
 ### Multimode
 

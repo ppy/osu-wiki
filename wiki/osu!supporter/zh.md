@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: aa750946913bfd81cd3ede0b23dbf925b56d7bdd
 tags:
   - support
   - supporter
@@ -7,6 +9,8 @@ tags:
   - 支持者标签
   - 撒泼特
 ---
+
+<!--The strings on the website on line 154 have been updated as of https://github.com/ppy/osu-web/pull/9820. To update this page, also check if the corresponding strings on crowdin need to be updated.-->
 
 # osu! 支持者
 
