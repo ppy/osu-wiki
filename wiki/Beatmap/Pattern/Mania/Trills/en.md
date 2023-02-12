@@ -1,10 +1,8 @@
 ---
 stub: true
-tags:
-  - Trills
 ---
 
-# Trills
+# Trill
 
 A **Trill** is three or more consecutive notes that alternate between two different columns. 
 
@@ -12,9 +10,9 @@ A **Trill** is three or more consecutive notes that alternate between two differ
 
 **Trills** are often characterized based on whether they require two hand movements or one. These are known as **one-handed trills** and **two-handed trills**.
 
-## Chordtrills, Jumptrills and Split-Trills
+## Chordtrill, jumptrill and split-trill
 
-**Chordtrills** make use of two consecutive alternating chords instead of singular notes. 
+**Chordtrills** make use of two consecutive alternating chords instead of singular notes. They can also be imagined as multiple trills occurring at once within the same snap intervals of each other.
 
 ![](img/chordtrill.png)
 

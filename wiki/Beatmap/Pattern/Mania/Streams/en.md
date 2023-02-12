@@ -1,10 +1,8 @@
 ---
 stub: true
-tags:
-  - streams
 ---
 
-# Streams
+# Stream
 
 _For specific stream types unrelated to 4-key, refer to [chordstreams](mania/chordstreams)._
 
@@ -36,6 +34,6 @@ This is also a type of chordstream.
 
 ## Quadstream
 
-**Quadstreams** is a term that is almost exclusively used for 4-key osu!mania. Similar to the previous two types of streams, it's a stream that involves the usage of quads as well as other smaller chords. Contrastingly, it creates [minijacks](/wiki/Beatmap/Pattern/Mania/Jacks/en.md#Minijack) between the quad and the succession of notes.
+**Quadstreams** is a term that is almost exclusively used for 4K osu!mania. Similar to the previous two types of streams, it's a stream that involves the usage of quads as well as other smaller chords. Contrastingly, it creates [minijacks](/wiki/Beatmap/Pattern/Mania/Jacks/en.md#Minijack) between the quad and the succession of notes.
 
 ![](img/quadstream.png)

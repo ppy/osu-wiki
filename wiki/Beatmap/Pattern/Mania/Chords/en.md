@@ -1,33 +1,31 @@
 ---
 stub: true
-tags:
-  - chords
 ---
 
-# Chords
+# Chord
 
 A **chord** is a group of two or more notes that are hit at the same time. They are known to increase density and highlight different sounds within the music.
 
-## Jumps
+## Jump
 
 Also known as doubles, **jumps** are two notes pressed at the same  time. This is the most common chord type in 4-key osu!mania.
 
 ![](img/jump.png)
 
-## Hands
+## Hand
 
 Also known as triples, **hands** are three notes pressed at the same time.
 
 ![](img/hand.png)
 
-## Quads and further chord sizes
+## Quad and other chord sizes
 
-**Quads** are four notes pressed at the same time. Past this amount of notes, chords are typically referred to numerically, such as "five note chord," or "six note chord." Larger chord sizes like these are more common in key modes higher than 4-key.
+**Quads** are four notes pressed at the same time. Past this amount of notes, chords are typically referred to numerically, such as "five-note chord", or "six-note chord". Larger chord sizes like these are more common in key modes higher than 4K.
 
 ![](img/quad.png)
 
-## Grace notes
+## Grace note
 
-**Grace notes** are two or more notes in different columns that are meant to be played in rapid succession from one another. This is commonly done with snappings higher than 1/6th. During gameplay, they appear very similar to chords. 
+**Grace notes** are two or more notes in different columns that are meant to be played in rapid succession from one another. This is commonly done with snappings higher than 1/6. During gameplay, they appear very similar to chords. 
 
 ![](img/grace.png)
