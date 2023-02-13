@@ -181,7 +181,7 @@ Todas las opciones en esta sección representan colores. Son tripletes separados
 - **`x` (Integer)** e **`y` (Integer):** Posición en [osu! pixels](/wiki/Client/Beatmap_editor/osu!_pixel) del objeto.
 - **`time` (Integer):** Tiempo en que se va a golpear el objeto, en milisegundos desde el comienzo del audio del beatmap.
 - **`type` (Integer):** Indicadores de bits que indican el tipo del objeto. Véase [la sección de tipos](#tipo).
-- **`hitSound` (Integer):** Indicadores de bits que indican el hitsound aplicado al objeto. Véase [la sección de hitsounds].
+- **`hitSound` (Integer):** Indicadores de bits que indican el hitsound aplicado al objeto. Véase [la sección de hitsounds](#hitsounds).
 - **`objectParams` (Lista separada por comas):** Parámetros adicionales específicos del tipo de objeto.
 - **`hitSample` (Lista separada por dos puntos):** Información sobre qué muestras se reproducen cuando se golpea el objeto. Está estrechamente relacionado con `hitSound`; véase [la sección de hitsounds](#hitsounds). Si no está escrito, por defecto es `0:0:0:0:`.
 

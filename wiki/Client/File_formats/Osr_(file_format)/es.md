@@ -45,7 +45,7 @@ Los desplazamientos de bytes no se incluyen en esta tabla debido a los valores d
 
 | Mod | Información almacenada |
 | :-- | :-- |
-| Target Practice | Precisión total de todos los golpes. Divida esto por la cantidad de objetivos en el mapa para encontrar la precisión que se muestra en el juego.|
+| Target Practice | Precisión total de todos los golpes. Divida esto por la cantidad de objetivos en el mapa para encontrar la precisión que se muestra en el juego. |
 
 Los datos restantes contienen información sobre el movimiento del ratón y las pulsaciones de teclas en una cadena [LZMA](https://es.wikipedia.org/wiki/LZMA).
 
