@@ -78,7 +78,7 @@ I seguenti sono gruppi utente che sono composti da membri della comunità di osu
 | ::{ flag=CA }:: [Nyquill](https://osu.ppy.sh/users/682935) | Sviluppatore di osu!, organizzatore della Mappers' Guild |
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | Consigliere della scena Modding e mapping |
 | ::{ flag=AU }:: [phill](https://osu.ppy.sh/users/53) | Designer del forum |
-| ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, tizio che fa cose straordinarie |
+| ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, ragazzo che crea cose straordinarie |
 | ::{ flag=US }:: [Sarumaru](https://osu.ppy.sh/users/9427) | Concept originale di pippi e designer di artwork. [DeviantArt](https://sarumaru.deviantart.com/) |
 | ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | Primo community manager e leader, meeting minutes e collaboratore delle FAQ |
 | ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | Sviluppatore di osu! e dei pp |
@@ -86,4 +86,4 @@ I seguenti sono gruppi utente che sono composti da membri della comunità di osu
 | ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | Governante Generale, organizzatore e amministrazione della World Cup, manutentore della wiki |
 | ::{ flag=CN }:: [woc2006](https://osu.ppy.sh/users/1105845) | Sviluppatore di osu!, sviluppatore della modalità osu!mania |
 | ::{ flag=JP }:: [yelle](https://osu.ppy.sh/users/4916903) | Gestore del [osu!store](https://osu.ppy.sh/store/listing) |
-| ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) | Professore nella [osu!academy](/wiki/Community/Video_series/osu!academy), designer dei media e dei personaggi |
+| ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) | Professore nella [osu!academy](/wiki/Community/Video_series/osu!academy), design dei media e dei personaggi |
