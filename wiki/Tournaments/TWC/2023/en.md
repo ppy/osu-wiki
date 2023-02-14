@@ -4,16 +4,10 @@ tags:
   - TWC2023
   - TWC 2023
 ---
-<!--
-change:
-  - {REG_LINK}
-  - {OC_LINK}
-  - {SIGNUP_LINK}
-  - {FORUM_THREAD}
--->
+
 # osu!taiko World Cup 2023
 
-![TWC 2023 banner](img/twc-2023-banner.jpg)
+![TWC 2023 banner](img/twc2023-banner.jpg)
 
 The **osu!taiko World Cup 2023** (***TWC 2023***) is an upcoming country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It is the thirteenth instalment of the osu!taiko World Cup.
 
@@ -33,7 +27,7 @@ The **osu!taiko World Cup 2023** (***TWC 2023***) is an upcoming country-based o
 
 ## Prizes
 
-The osu!taiko World Cup 2023 offers a minimum $2,000 cash prize pool and limited edition merch. The prize pool can be further increased from **[community donations]({OC_LINK})!**
+The osu!taiko World Cup 2023 offers a minimum $2,000 cash prize pool and limited edition merch. The prize pool can be further increased from community donations.
 
 | Placing | Prizes |
 | :-: | :-- |
@@ -55,8 +49,6 @@ The osu!taiko World Cup 2023 is run by various community members.
 
 ## Links
 
-- [Register here]({REG_LINK})
-- [Discussion thread]({FORUM_THREAD})
 - [Livestream](https://www.twitch.tv/osulive)
 
 ## Ruleset
@@ -187,7 +179,7 @@ The osu!taiko World Cup 2023 is run by various community members.
    - Hidden
    - Hard Rock
    - Hidden + Hard Rock
-8. For FreeMod, each team is **required** to have both Hidden AND Hard Rock selected among its players. A player may shoulder all the mods for their team (e.g. one player selects Hidden + Hard Rock, and the remaining players select no mods (NoMod)), or it may be split among all members (e.g. the first player selects Hidden, the second selects Hidden + Hard Rock, and the third selects no mods (No Mod)). Teams may "overmod", that is, select more mods than what is required.
+8. For FreeMod, each team is **required** to have both Hidden AND Hard Rock selected among its players. A player may shoulder all the mods for their team (e.g. one player selects Hidden + Hard Rock, and the remaining players select no mods (NoMod)), or it may be split among all members (e.g. the first player selects Hidden, the second selects Hard Rock, and the third selects no mods (No Mod)). Teams may "overmod", that is, select more mods than what is required.
 9. Failed scores will be counted in their integrity. To that end, the [No Fail](/wiki/Game_modifier/No_Fail) mod will be enforced on every beatmap.
    - Teams that purposefully disregard this instruction and team fail as a result will lose said game.
 10. The tiebreaker will be played under Free Mod conditions, but players will be exempt from the mod requirement.
