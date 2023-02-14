@@ -27,7 +27,7 @@ The **osu!taiko World Cup 2023** (***TWC 2023***) is an upcoming country-based o
 
 ## Prizes
 
-The osu!taiko World Cup 2023 offers a minimum $2,000 cash prize pool and limited edition merch. The prize pool can be further increased from community donations.
+The osu!taiko World Cup 2023 offers a minimum $2,000 cash prize pool and limited-edition merch. The prize pool can be further increased from community donations.
 
 | Placing | Prizes |
 | :-: | :-- |
@@ -45,7 +45,7 @@ The osu!taiko World Cup 2023 is run by various community members.
 | Mappool selector | *TBA* |
 | Commentator | *TBA* |
 | Referee | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=IN }:: [Speshimen](https://osu.ppy.sh/users/7720204), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=US }:: [\[K\]](https://osu.ppy.sh/users/16551387) |
-| Statistician |  ::{ flag=BR }:: **[LeoFLT](https://osu.ppy.sh/users/3668779)**, ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899) |
+| Statistician | ::{ flag=BR }:: **[LeoFLT](https://osu.ppy.sh/users/3668779)**, ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899) |
 
 ## Links
 
@@ -102,7 +102,6 @@ The osu!taiko World Cup 2023 is run by various community members.
    - The provisional captain will receive a private message on the osu! website containing further instructions, via the announcement feature, titled "osu!taiko World Cup 2023 - Team {Country Name}".
 2. The provisional captain will then form their team by selecting players from the candidate pool for their country.
    - Captains are expected to choose team members with honesty and good will, with the aim of fielding the strongest team possible.
-   - Captains are expected to submit their finalised team list **before the deadline**[^team-submission-deadline].
    - Captains are allowed to exclude themselves from the team list.
    - Captains are allowed to conduct and coordinate "tryouts", tests to gauge player aptitude, on their own terms.
    - Captains are allowed, at any time, to transfer their role to other prospective team members. Once given, only the new captain may assign the captaincy to another player.
@@ -149,7 +148,7 @@ The osu!taiko World Cup 2023 is run by various community members.
 2. Each team may ban **one beatmap** to be selected from the pool. These beatmaps can not be picked by any team for the entire duration of the match.
 3. Each captain must use `!roll` once in the match's chatroom.
    - The winner of the `!roll` starts picking the first beatmap of the match.
-   - The loser of the `!roll` starts banning one beatmap, followed by the winner of the  `!roll` to ban a beatmap.
+   - The loser of the `!roll` starts banning one beatmap, followed by the winner of the `!roll` to ban a beatmap.
 4. After bans are decided, both teams will take turns in picking a beatmap from the mappool.
 5. Teams will be allowed 2 minutes to pick a beatmap and 2 minutes to press the `Ready` button on their client. If a team takes more time than alloted for either action, the procedures adopted will be as follows:
    - For the first occurrence:
@@ -178,16 +177,16 @@ The osu!taiko World Cup 2023 is run by various community members.
    - Hidden
    - Hard Rock
    - Hidden + Hard Rock
-8. For FreeMod, each team is **required** to have both Hidden AND Hard Rock selected among its players. A player may shoulder all the mods for their team (e.g. one player selects Hidden + Hard Rock, and the remaining players select no mods (NoMod)), or it may be split among all members (e.g. the first player selects Hidden, the second selects Hard Rock, and the third selects no mods (No Mod)). Teams may "overmod", that is, select more mods than what is required.
-9. Failed scores will be counted in their integrity. To that end, the [No Fail](/wiki/Game_modifier/No_Fail) mod will be enforced on every beatmap.
+8. For FreeMod, each team is **required** to have both Hidden **and** Hard Rock selected among its players. A player may shoulder all the mods for their team (e.g. one player selects Hidden + Hard Rock, and the remaining players select no mods (NoMod)), or it may be split among all members (e.g. the first player selects Hidden, the second selects Hard Rock, and the third selects no mods (No Mod)). Teams may "overmod", that is, select more mods than what is required.
+9. Failed scores will be counted. To that end, the [No Fail](/wiki/Game_modifier/No_Fail) mod will be enforced on every beatmap.
    - Teams that purposefully disregard this instruction and team fail as a result will lose said game.
-10. The tiebreaker will be played under Free Mod conditions, but players will be exempt from the mod requirement.
+10. The tiebreaker will be played under FreeMod conditions, but players will be exempt from the mod requirement.
 
 ### Scheduling instructions
 
 1. Each stage will be held on **a single weekend**.
 2. Matches in Qualifiers will be held during specific time slots proposed by the tournament managers. Each team may to choose a time slot in which they want to play.
-   - **A team that doesn't pick a time slot by March 16, 2023 (23:59 UTC) will be considered disqualified.**
+   - **A team that does not pick a time slot by March 16, 2023 (23:59 UTC) will be considered disqualified.**
 3. All bracket stages will be held between Saturday 00:00 and Sunday 19:00 UTC.
 4. Match scheduling will be handled by the tournament managers. Schedules will be released on the Sunday before the first matches of the stage. The tournament managers will try to create the schedule to respect the participants' time zones.
    - In the Quarterfinals and subsequent stages, team captains may inform tournament managers if they expect a specific time slot to be unavailable in the following week.
@@ -196,7 +195,3 @@ The osu!taiko World Cup 2023 is run by various community members.
    - **Do not ask for a reschedule unless it is absolutely necessary. The tournament managers reserve the right to deny any rescheduling request.**
    - Late reschedule requests will not be accepted under any circumstances.
 6. Captains are responsible for their team's availability.
-
-## Notes
-
-[^team-submission-deadline]: March 9, 2023 (23:59 UTC)
