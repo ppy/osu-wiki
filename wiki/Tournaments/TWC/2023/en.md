@@ -134,7 +134,7 @@ The osu!taiko World Cup 2023 is run by various community members.
 7. An optional 3-minute break will be offered between the first and second playthrough of the mappool.
 8. All teams will play their qualifiers in separate rooms. It is *suggested* that teams do not broadcast or share their results publicly to avoid seed manipulation.
    - Teams may be grouped into a singular room if there are not enough referees available at match time.
-9. Only the top 32 seeded teams will advance to the Round of 16.
+9. Only the top 32 seeded teams will advance to the Round of 32.
 10. The Qualifiers stage results will be published both on this page as well as a spreadsheet which will feature detailed information about every score submitted.
 
 ### Stage instructions
@@ -176,7 +176,7 @@ The osu!taiko World Cup 2023 is run by various community members.
 2. Each mappool consists of 5 brackets: [NoMod](/wiki/Game_modifier#nomod), [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock), [Double Time](/wiki/Game_modifier/Double_Time) and [FreeMod](/wiki/Game_modifier#freemod).
 3. The mappool sizes are as follows:
    - Qualifiers: 10 beatmaps
-   - Round of 16: 14 beatmaps
+   - Round of 32 and Round of 16: 14 beatmaps
    - Quarterfinals and Semifinals: 15 beatmaps
    - Finals and Grand Finals: 16 beatmaps
 4. Each mappool has one tiebreaker, except for the Qualifiers.
@@ -187,6 +187,7 @@ The osu!taiko World Cup 2023 is run by various community members.
   - Hidden
   - Hard Rock
   - Hidden + Hard Rock
+
 For FreeMod, each team is **required** to have both Hidden AND Hard Rock selected among its players. A player may shoulder all the mods for their team (e.g. one player selects Hidden + Hard Rock, and the remaining players select no mods (NoMod)), or it may be split among all members (e.g. the first player selects Hidden, the second selects Hidden + Hard Rock, and the third selects no mods (No Mod)). Teams may "overmod", that is, select more mods than what is required.
 8. Failed scores will be counted in their integrity. To that end, the [No Fail](/wiki/Game_modifier/No_Fail) mod will be enforced on every beatmap.
    - Teams that purposefully disregard this instruction and team fail as a result will lose said game.
