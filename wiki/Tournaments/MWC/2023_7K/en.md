@@ -100,27 +100,47 @@ The osu!mania 7K World Cup 2023 is run by the osu! team and various community me
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/c9e572884f0e731ba47fed1c11be3b88#file-mwc7k-2023-player-list-csv). 
 
-## Match schedule: Finals
+## Match schedule: Grand Finals
 
-### Saturday, 11 February 2023
-
-| Team A | Team B | Match time |  |
-| --: | :-- | :-- | :-: |
-| South Korea ::{ flag=KR }:: | ::{ flag=PH }:: Philippines | [Feb 11 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230211T120000&p1=1440&p2=235&p3=145) | [^winners-bracket] |
-| Malaysia ::{ flag=MY }:: | ::{ flag=CN }:: China | [Feb 11 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230211T130000&p1=1440&p2=122&p3=33) | [^losers-bracket] |
-| Eliminated | Players | [Feb 11 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230211T150000&p1=1440) | [^showmatch] |
-
-### Sunday, 12 February 2023
+### Saturday, 18 February 2023
 
 | Team A | Team B | Match time |  |
 | --: | :-- | :-- | :-: |
-| United States ::{ flag=US }:: | ::{ flag=JP }:: Japan | [Feb 12 (Sun) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230212T080000&p1=1440&p2=263&p3=248) | [^losers-bracket] |
-| China ::{ flag=CN }:: | ::{ flag=JP }:: Japan | [Feb 12 (Sun) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230212T090000&p1=1440&p2=33&p3=248) | [^potential-match] |
-| Malaysia ::{ flag=MY }:: | ::{ flag=US }:: United States | [Feb 12 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230212T100000&p1=1440&p2=122&p3=263) | [^potential-match] |
-| China ::{ flag=CN }:: | ::{ flag=US }:: United States | [Feb 12 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230212T100000&p1=1440&p2=33&p3=263) | [^potential-match] |
-| Malaysia ::{ flag=MY }:: | ::{ flag=JP }:: Japan | [Feb 12 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230212T110000&p1=1440&p2=122&p3=248) | [^potential-match] |
+| South Korea ::{ flag=KR }:: | ::{ flag=MY }:: Malaysia | [Feb 18 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230218T120000&p1=1440&p2=235&p3=122) | [^losers-finals] |
+
+### Sunday, 19 February 2023
+
+| Team A | Team B | Match time |  |
+| --: | :-- | :-- | :-: |
+| Philippines ::{ flag=PH }:: | ::{ flag=KR }:: South Korea | [Feb 19 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230219T120000&p1=1440&p2=145&p3=235) | [^grand-finals] |
+| Philippines ::{ flag=PH }:: | ::{ flag=MY }:: Malaysia | [Feb 19 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230219T120000&p1=1440&p2=145&p3=122) | [^grand-finals] |
 
 ## Mappools
+
+### Grand Finals
+
+**[Download the mappack here (105 MB)](https://drive.google.com/uc?id=1o3K_OQdOW6VpaVEqI0tX6TXO1upOo3sl)**
+
+- Rice
+  1. [ROKINA - Schwerkraft (Jinjin) \[Event Horizon\]](https://osu.ppy.sh/beatmapsets/1939270#mania/4009399)
+  2. [BACO (Flonne / Rasperyl) - Love & Justice (Jinjin) \[GOD+\]](https://osu.ppy.sh/beatmapsets/1939269#mania/4009398)
+  3. [aaaa - For All (Level 51) \[Lifeweaver\]](https://osu.ppy.sh/beatmapsets/1939268#mania/4009397)
+  4. [syzfonics - The Azure Box (pwhk) \[the Sky is the Limit\]](https://osu.ppy.sh/beatmapsets/1939263#mania/4009392)
+  5. [Hylen - Minerva (paulkappa) \[Death's Gaze\]](https://osu.ppy.sh/beatmapsets/1939250#mania/4009321)
+  6. [MisomyL - Mukishitsu Sekai ni Irudori o (Evening) \[Iroshizuku st1 1.2x (186bpm)\]](https://osu.ppy.sh/beatmapsets/1714977#mania/3504148)
+  7. [Frums - ultra-blazures (Wonki) \[Blazing inferno\]](https://osu.ppy.sh/beatmapsets/1939259#mania/4009367)
+- Long Note
+  1. [Camellia - Never Gonna Give You Up (Camellia Remix) (Leeju) \[rickrollab\]](https://osu.ppy.sh/beatmapsets/1939327#mania/4009578)
+  2. [Wolpis Carter - Batsubyou (Kim\_GodSSI) \[Love You (Cut Ver.)\]](https://osu.ppy.sh/beatmapsets/1657994#mania/4009444)
+  3. [SAMString - Ataraxia (Remuring) \[REMUJinjin's Tranquility\]](https://osu.ppy.sh/beatmapsets/1939418#mania/4009794)
+  4. [polysha - Ultimate Weapon -the Last Ruling- (Cut Ver.) (ruka) \[Majestic\]](https://osu.ppy.sh/beatmapsets/1939252#mania/4009324)
+  5. [wotoha - Digital Life Hacker (LostCool) \[Digital Friend Request (MWC Edit)\]](https://osu.ppy.sh/beatmapsets/1710778#mania/4009429)
+- Hybrid
+  1. [Rabbit House & Evin a'k - optimal solution (Maxus) \[parallel world\]](https://osu.ppy.sh/beatmapsets/1939282#mania/4009453)
+  2. [seatrus - MONONOKE (Remuring) \[SPIRIT\]](https://osu.ppy.sh/beatmapsets/1668945#mania/4009804)
+  3. [SDMNE - Beyond The Aexis (Leeju) \[Leeju's 7K Celestia\]](https://osu.ppy.sh/beatmapsets/1939330#mania/4009587)
+- Tiebreaker
+  1. **[katagiri - Kyuukou (\_underjoy) \[Overflow\]](https://osu.ppy.sh/beatmapsets/1939261#mania/4009375)**
 
 ### Finals
 
@@ -228,6 +248,24 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/c9e
 8. [yumemidoll - Lyrith -Meikyuu Lyrith- (Leeju) \[Stage 8: Awakening\]](https://osu.ppy.sh/beatmapsets/1919014#mania/3960063)
 
 ## Match results
+
+### Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1J0ARNkYDcIBxwff76Q02uBjOsSsp9e7b-DyZqzdPhZg).
+
+Saturday, 11 February 2023:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| South Korea ::{ flag=KR }:: | 4 | **7** | ::{ flag=PH }:: **Philippines** | [#1](https://osu.ppy.sh/community/matches/106783100) |
+| **Malaysia** ::{ flag=MY }:: | **7** | 5 | ::{ flag=CN }:: China | [#1](https://osu.ppy.sh/community/matches/106784356) |
+
+Sunday, 12 February 2023:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| United States ::{ flag=US }:: | 2 | **7** | ::{ flag=JP }:: **Japan** | [#1](https://osu.ppy.sh/community/matches/106803907) |
+| **Malaysia** ::{ flag=MY }:: | **7** | 0 | ::{ flag=JP }:: Japan | [#1](https://osu.ppy.sh/community/matches/106805914) |
 
 ### Semifinals
 
@@ -477,9 +515,7 @@ The final standings for the Qualifier stage can be found at the following [sprea
 
 ## Notes
 
-[^winners-bracket]: Winners bracket match
-[^losers-bracket]: Losers bracket match
-[^potential-match]: Potential match – final matchup depends on the results of the preceding Losers Bracket matches
-[^showmatch]: Finals stage showmatch – players from eliminated countries team up
+[^grand-finals]: Grand Finals match – matchup depends on the winner of the losers bracket Finals match
+[^losers-finals]: Losers bracket Finals match
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same average rank
