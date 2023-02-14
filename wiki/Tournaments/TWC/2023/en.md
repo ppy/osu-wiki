@@ -183,10 +183,10 @@ The osu!taiko World Cup 2023 is run by various community members.
 5. The NoMod bracket will be played with the [No Fail](/wiki/Game_modifier/No_Fail) mod activated.
 6. The [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock) and [Double Time](/wiki/Game_modifier/Double_Time) brackets will be played with the respective mods activated along with the No Fail mod.
 7. The [FreeMod](/wiki/Game_modifier#freemod) bracket will have Free Mods activated. The valid mod combinations for each player are:
-  - [NoMod](/wiki/Game_modifier#nomod) – no mods selected
-  - Hidden
-  - Hard Rock
-  - Hidden + Hard Rock
+   - [NoMod](/wiki/Game_modifier#nomod) – no mods selected
+   - Hidden
+   - Hard Rock
+   - Hidden + Hard Rock
 8. For FreeMod, each team is **required** to have both Hidden AND Hard Rock selected among its players. A player may shoulder all the mods for their team (e.g. one player selects Hidden + Hard Rock, and the remaining players select no mods (NoMod)), or it may be split among all members (e.g. the first player selects Hidden, the second selects Hidden + Hard Rock, and the third selects no mods (No Mod)). Teams may "overmod", that is, select more mods than what is required.
 9. Failed scores will be counted in their integrity. To that end, the [No Fail](/wiki/Game_modifier/No_Fail) mod will be enforced on every beatmap.
    - Teams that purposefully disregard this instruction and team fail as a result will lose said game.
