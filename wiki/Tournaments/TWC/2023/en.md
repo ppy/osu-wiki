@@ -131,7 +131,6 @@ The osu!taiko World Cup 2023 is run by various community members.
 
 ### Stage instructions
 
-
 1. Following the Qualifiers, a double-elimination bracket will be played — for teams in the winners bracket, the winning team continues in the same bracket, while the losing team gets moved to the losers bracket, where any further defeats will eliminate the team from the competition.
 2. Teams in the losers bracket must play up to 2 matches each weekend, starting from the Quarterfinals.
 
@@ -201,4 +200,3 @@ The osu!taiko World Cup 2023 is run by various community members.
 ## Notes
 
 [^team-submission-deadline]: March 9, 2023 (23:59 UTC)
-[^quals-submission-deadline]: March 16, 2023 (23:59 UTC)
