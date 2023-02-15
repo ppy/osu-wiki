@@ -310,7 +310,27 @@ In stable, drumrolls could not be hit too quickly or too slowly. This restrictio
 
 ### osu!catch
 
-<!-- TODO: are there any differences... ? -->
+#### Hyperdash generation can be different in some cases
+
+This may lead to inaccurate judgements in replays and increased difficulty.
+
+|  |  |
+| :-- | :-: |
+| Breaks backwards compatibility | Yes |
+| Classic mod revert support | No |
+| Intentionally changed | No |
+| Needs further consideration | Yes |
+
+#### Juice stream generation can be different in some cases
+
+This may lead to inaccurate judgements in replays.
+
+|  |  |
+| :-- | :-: |
+| Breaks backwards compatibility | Yes |
+| Classic mod revert support | No |
+| Intentionally changed | No |
+| Needs further consideration | Yes |
 
 ### osu!mania
 
@@ -400,12 +420,17 @@ Performance points are not integrated into global or beatmap-specific leaderboar
 
 ### Storyboarding
 
-#### Storyboard editor not implemented
+#### The storyboard editor is not implemented
 
 There are [designs](https://www.figma.com/file/ytnnne2TH8Z956Jxhiypqq/Beatmap-Editor-2) for an upcoming built-in storyboard editor similar to the one in stable, but no work on this has started yet.
 
-  - The trigger system is not implemented
-  - Beatmap backgrounds do not have the correct stretch mode for 4:3 storyboards.
+#### The trigger system is not implemented
+
+![](img/sb-triggers.gif)
+
+#### Beatmap backgrounds do not have the correct stretch mode for 4:3 storyboards.
+
+![](img/non-widescreen-sb.jpg)
 
 ## Some cosmetic features are missing
 
