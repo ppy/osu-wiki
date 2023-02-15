@@ -27,7 +27,7 @@ The **osu!taiko World Cup 2023** (***TWC 2023***) is an upcoming country-based o
 
 ## Prizes
 
-The osu!taiko World Cup 2023 offers a minimum $2,000 cash prize pool and limited-edition merch. The prize pool can be further increased from community donations.
+The osu!taiko World Cup 2023 offers a minimum $2,000 cash prize pool and limited-edition merch. The prize pool can be further increased from [community donations](https://opencollective.com/osu-tournaments/events/osu-taiko-world-cup-2023-13130e56).
 
 | Placing | Prizes |
 | :-: | :-- |
@@ -49,7 +49,10 @@ The osu!taiko World Cup 2023 is run by various community members.
 
 ## Links
 
+- **[Register here](https://osu.ppy.sh/community/tournaments/37)**
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1722224)
 - [Livestream](https://www.twitch.tv/osulive)
+- [Donate to the prize pool](https://opencollective.com/osu-tournaments/events/osu-taiko-world-cup-2023-13130e56)
 
 ## Ruleset
 
