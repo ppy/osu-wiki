@@ -209,11 +209,11 @@ These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-
 
 | Song | Beatmap | Notes |
 | :-: | :-: | :-- |
-| [Hino Isuka vs. s-don - Glooorious!!](https://www.youtube.com/watch?v=qvf4Wm5t0wM)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1935691) | Finals HB3 |
-| katagiri - Kyuukou[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1939261) | Grand Finals tiebreaker |
-| LV.4 feat. Yuu Ikeba - Sentimental Surge[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1935688) | Finals RC6 |
-| SAMString - Ataraxia[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1939418) | Grand Finals LN3 |
-| Toromaru - Uncharted Sky[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1931471) | Semifinals RC6 |
+| [Hino Isuka vs. s-don - Glooorious!!](https://www.youtube.com/watch?v=qvf4Wm5t0wM)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1935691) | Finals HB3 |
+| [katagiri - Kyuukou](https://soundcloud.com/katagiri/kyuukou)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1939261) | Grand Finals tiebreaker |
+| [LV.4 feat. Yuu Ikeba - Sentimental Surge](https://osu.ppy.sh/beatmaps/artists/tracks?artist=LV.4&query=Sentimental%20Surge)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1935688) | Finals RC6 |
+| [SAMString - Ataraxia](https://osu.ppy.sh/beatmaps/artists/tracks?artist=SAMString&query=Ataraxia)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1939418) | Grand Finals LN3 |
+| [Toromaru - Uncharted Sky](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Toromaru&query=Uncharted%20Sky)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1931471) | Semifinals RC6 |
 
 ### Community-run tournament releases
 
