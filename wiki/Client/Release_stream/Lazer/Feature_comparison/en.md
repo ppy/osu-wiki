@@ -75,7 +75,9 @@ This makes it harder to continue from a pause in the middle of active gameplay, 
 
 #### The Flashlight gradient does not match stable
 
-<!-- comparison images for relevant game modes  -->
+<!-- TODO: comparison images for relevant game modes  -->
+
+<!-- TODO: verify for osu! mode -->
 
 |  |  |
 | :-- | :-: |
@@ -93,7 +95,7 @@ This makes it harder to continue from a pause in the middle of active gameplay, 
 | Breaks backwards compatibility | No |
 | Classic mod revert support | No |
 | Intentionally changed | No |
-| Needs further consideration | No? |
+| Needs further consideration | Yes |
 
 #### The health system is different
 
@@ -103,7 +105,7 @@ This is mostly due to changes to the judgement system. For example, Geki and Kat
 | :-- | :-: |
 | Breaks backwards compatibility | Yes |
 | Classic mod revert support | No |
-| Intentionally changed | No? |
+| Intentionally changed | Yes |
 | Needs further consideration | Yes |
 
 #### All game modes use the same grading system
@@ -124,7 +126,7 @@ All game modes use a grading system similar to the one in osu!mania on stable (c
 | Breaks backwards compatibility | Yes |
 | Classic mod revert support | No |
 | Intentionally changed | Yes |
-| Needs further consideration | Yes? |
+| Needs further consideration | Yes |
 
 #### Hitsound volume cannot be adjusted in between notes
 
@@ -134,7 +136,7 @@ In stable, it is possible to change the volume of ghost taps in osu!taiko and os
 | :-- | :-: |
 | Breaks backwards compatibility | Yes |
 | Classic mod revert support | No |
-| Intentionally changed | No? |
+| Intentionally changed | No |
 | Needs further consideration | Yes |
 
 #### Hit window edge calculations don't match stable
@@ -238,7 +240,7 @@ In stable, slider ends would play their hitsounds even if they were missed, as l
 
 #### The spinner spin speed cap of 477 RPM has been removed
 
-Instead of a speed cap, spinners now have a score cap. The reason for this is inconsistency in how score is awarded, because the algorithm is dependent on frame rate.
+Instead of a speed cap, spinners now have a score cap. This was done as a simple initial implementation which may be revised in the future.
 
 |  |  |
 | :-- | :-: |
@@ -294,7 +296,7 @@ In stable, drumrolls could not be hit too quickly or too slowly. This restrictio
 | :-- | :-: |
 | Breaks backwards compatibility | Yes |
 | Classic mod revert support | No |
-| Intentionally changed | No |
+| Intentionally changed | Yes? |
 | Needs further consideration | Yes |
 
 #### Swells give a maximum of 50 score instead of 300 for each tick
@@ -338,20 +340,11 @@ This does allow for cheesing (a.k.a. "manipulating") by allowing wrist-jacking w
 | Intentionally changed | Yes |
 | Needs further consideration | Yes |
 
-#### Hold notes may sometimes have missing ticks
+#### Extreme scroll speeds are limited
 
-This is a bug that has not yet been fixed.
+<!-- TODO: how exactly -->
 
-|  |  |
-| :-- | :-: |
-| Breaks backwards compatibility | Yes |
-| Classic mod revert support | No |
-| Intentionally changed | No |
-| Needs further consideration | Yes |
-
-#### SV is limited to between 0.01 and 10
-
-Some beatmaps with SV gimmicks like teleports or stops will not look as intended, but are otherwise playable.
+Some beatmaps with SV gimmicks like teleports or stops do look as intended, but are otherwise playable.
 
 |  |  |
 | :-- | :-: |
@@ -362,7 +355,7 @@ Some beatmaps with SV gimmicks like teleports or stops will not look as intended
 
 #### The PERFECT judgement hit window scales with OD
 
-This used to be a constant +-16 ms regardless of overall difficulty.
+This used to be a constant ±16 ms regardless of overall difficulty.
 
 |  |  |
 | :-- | :-: |
@@ -434,5 +427,5 @@ These are features that are planned to come back at some point, but have not due
 
 - Open source
 - New user file storage structure
-- `Unlimited` refresh rate setting is renamed to `basically unlimited` and is limited to 1000 Hz
+- `Unlimited` refresh rate setting is renamed to `Basically unlimited` and is limited to 1000 Hz
 - The mouse cursor is always confined in fullscreen mode
