@@ -4,7 +4,7 @@ title: "osu! originals - osu!mania 7K World Cup 2023"
 date: 2023-02-15 11:00:00 +0000
 ---
 
-As [MWC7K](/wiki/Tournaments/MWC/2023_7K) approaches its climax, explore **5** brand-new songs created specifically for the tournament!
+As the [osu!mania World Cup 7K 2023](/wiki/Tournaments/MWC/2023_7K) approaches its climax, take a moment to explore some of the **5** brand-new songs created specifically for the tournament!
 
 ![](/wiki/shared/news/banners/featured-artist.jpg)
 
