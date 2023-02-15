@@ -9,7 +9,7 @@ tags:
 
 ![TWC 2023 banner](img/twc2023-banner.jpg)
 
-The **osu!taiko World Cup 2023** (***TWC 2023***) is an upcoming country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It is the thirteenth instalment of the osu!taiko World Cup.
+The **osu!taiko World Cup 2023** (***TWC 2023***) is a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It is the thirteenth instalment of the osu!taiko World Cup.
 
 ## Tournament schedule
 
