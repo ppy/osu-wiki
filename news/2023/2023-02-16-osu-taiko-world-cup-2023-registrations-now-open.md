@@ -4,21 +4,21 @@ title: "osu!taiko World Cup 2023: Registrations Now Open!"
 date: 2023-02-16 08:00:00 +0000
 ---
 
-Bring along your favorite percussion instrument as we once again drum to the beat. The osu!taiko World Cup is back for its 13th instalment!
+Bring along your favourite percussion instrument as we once again drum to the beat. The osu!taiko World Cup is back for its 13th instalment!
 
 ![](/wiki/Tournaments/TWC/2023/img/twc2023-banner.jpg)
 
-The TWC has a reputation among its managers as a testing grounds of sorts as far as the official tournaments go, and this year couldn't be any different – we are bringing back the 3 versus 3 format, which made its last appearance in 2017, in the hopes that it shakes things up a bit (looking at you, Japan). This relatively small change impacts many rules, so make sure to get up to speed by reading the [wiki article](/wiki/Tournaments/TWC/2023#ruleset).
+The TWC has a reputation among its managers as being a testing ground of sorts as far as the official tournaments go, and this year couldn't be any different – we are bringing back the 3 vs. 3 format, which made its last appearance in 2017, in the hopes that it'd shake things up a bit (looking at you, Japan). This relatively small change impacts many rules, so make sure to get up to speed by reading the [wiki article](/wiki/Tournaments/TWC/2023#ruleset).
 
 Continuing our ongoing efforts towards diversifying the ways the community can contribute to the World Cups, we have created an **[Open Collective](https://opencollective.com/osu-tournaments/events/osu-taiko-world-cup-2023-13130e56)** to allow for donations, which will be added to the prize pool at the end of the competition.
 
-If you're still not familiar with Open Collective, it is a platform that allows us to coordinate the finances of the World Cups in a transparent way, and also allows users to help support the tournament in greater amounts outside of purchasing profile banners or subscribing to the osu!live Twitch channel. You can do any one (or all) of these things if you want, they'll all still go towards the tournament!
+If you're still not familiar with Open Collective, it is a platform that allows us to coordinate the finances of the World Cups in a transparent way, and also allows users to help support the tournament in greater amounts outside of purchasing profile banners or subscribing to the osu!live Twitch channel. You can do any one (or all) of these things if you want and they'll still go towards the tournament!
 
 You can donate directly to the prize pool of the upcoming World Cup of your choosing in a lump sum with or without an Open Collective account, and you can even leave a little message of support that will be displayed beneath your contribution, if you like.
 
 *Please note that any "tips" made during the payment process go to Open Collective and not to us!* 
 
-For more details, refer to the [osu!taiko World Cup 2023 wiki article](/wiki/Tournaments/TWC/2023). You can discuss this event in the [official discussion thread](https://osu.ppy.sh/community/forums/topics/1722224) or at the public [community server](https://discord.gg/0Vxo9AsejDkGlk3H).
+For more details, refer to the [osu!taiko World Cup 2023 wiki article](/wiki/Tournaments/TWC/2023). You can discuss this event in the [official discussion thread](https://osu.ppy.sh/community/forums/topics/1722224) or at the public [osu! community server](https://discord.gg/0Vxo9AsejDkGlk3H).
 
 ## Tournament schedule
 
@@ -36,7 +36,7 @@ For more details, refer to the [osu!taiko World Cup 2023 wiki article](/wiki/Tou
 
 ## Prizes
 
-The osu!taiko World Cup 2023 offers a $2,000 prize pool, along with limited edition merch! The prize pool may increase further from **[community donations](https://opencollective.com/osu-tournaments/events/osu-taiko-world-cup-2023-13130e56)**!
+The osu!taiko World Cup 2023 offers a $2,000 prize pool, along with limited-edition merch! The prize pool may increase further from **[community donations](https://opencollective.com/osu-tournaments/events/osu-taiko-world-cup-2023-13130e56)**!
 
 - **1st:** 50% of the prize pool, single-run merch, profile badge, **osu!taiko Champion** user title for one year
 - **2nd:** 30% of the prize pool, single-run merch, profile badge
