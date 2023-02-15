@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "osu!taiko World Cup 2023: Registrations Now Open!"
-date: 2023-02-16 08:00:00 +0000
+date: 2023-02-16 00:00:00 +0000
 ---
 
-Bring along your favourite percussion instrument as we once again drum to the beat. The osu!taiko World Cup is back for its 13th instalment!
+Bring along your favourite percussion instrument as we once again drum to the beat, as the osu!taiko World Cup is back for its 13th instalment!
 
 ![](/wiki/Tournaments/TWC/2023/img/twc2023-banner.jpg)
 
-The TWC has a reputation among its managers as being a testing ground of sorts as far as the official tournaments go, and this year couldn't be any different – we are bringing back the 3 vs. 3 format, which made its last appearance in 2017, in the hopes that it'd shake things up a bit (looking at you, Japan). This relatively small change impacts many rules, so make sure to get up to speed by reading the [wiki article](/wiki/Tournaments/TWC/2023#ruleset).
+The osu!taiko World Cup has a reputation among its managers as being a testing ground of sorts as far as the official tournaments go, and this year couldn't be any different – we are bringing back the 3 vs. 3 format, which made its last appearance in 2017, in the hopes that it'll shake things up a bit (looking at you, Japan). This relatively small change impacts many rules, so make sure to get up to speed by reading the [wiki article](/wiki/Tournaments/TWC/2023#ruleset).
 
 Continuing our ongoing efforts towards diversifying the ways the community can contribute to the World Cups, we have created an **[Open Collective](https://opencollective.com/osu-tournaments/events/osu-taiko-world-cup-2023-13130e56)** to allow for donations, which will be added to the prize pool at the end of the competition.
 
