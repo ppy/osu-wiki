@@ -10,7 +10,7 @@ As the [osu!mania World Cup 7K 2023](/wiki/Tournaments/MWC/2023_7K) approaches i
 
 But first, some context.
 
-Our Featured Artist program has expanded over the years, and we've only recently started dipping our feet into the depths of *original song commissions* (which we call [osu! originals](/wiki/osu!_originals)). You might've seen a few osu! originals already via Featured Artist announcements or the recent [Twin Trials contest](https://osu.ppy.sh/home/news/2023-02-01-twin-trials-contest-beatmapping-phase).
+Our Featured Artist program has expanded over the years, and we've only recently started dipping our feet into the depths of *original tournament track commissions* (also known under the [osu! originals](/wiki/osu!_originals) label). You might've seen a few osu! originals already via Featured Artist announcements over the years, or perhaps from the recent [Twin Trials contest](https://osu.ppy.sh/home/news/2023-02-01-twin-trials-contest-beatmapping-phase).
 
 Thanks largely to [mangomizer](https://osu.ppy.sh/users/1893718) and each game mode's world cup staff, you may have noticed a bunch of osu! originals in our official tournaments too!
 
