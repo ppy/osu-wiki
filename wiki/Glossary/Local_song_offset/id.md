@@ -17,8 +17,8 @@ Di awal permainan, Offset lokal dapat diubah dengan menekan:
 
 Jika offset lokal telah ditentukan, osu! akan menampilkan offset lokal pada antarmuka di atas papan skor.
 
-![Local Offset](img/local-offset.jpg "Offset Lokal")
+![Offset lokal](img/local-offset.jpg "Offset lokal")
 
-osu! juga akan memberi tahu Kamu tentang perubahan lokal offset sebelum memulai permainan.
+osu! juga akan memberi tahu Kamu tentang perubahan offset lokal sebelum memulai permainan.
 
-![Local Offset Notice](img/local-offset-notice.png "Pemberitahuan Offset Lokal")
+![Pemberitahuan offset lokal](img/local-offset-notice.png "Pemberitahuan offset lokal")
