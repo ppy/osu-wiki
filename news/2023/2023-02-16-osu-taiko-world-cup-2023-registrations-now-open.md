@@ -8,7 +8,7 @@ Bring along your favorite percussion instrument as we once again drum to the bea
 
 ![](/wiki/Tournaments/TWC/2023/img/twc2023-banner.jpg)
 
-The TWC has a reputation among its managers as a testing grounds of sorts as far as the official tournaments go, and this year couldn't be any different – we are bringing back the 3 versus 3 format, which made its last appearance in 2017, in the hopes that it shakes things up a bit (looking at you, Japan). This relatively small change impacts many rules, so make sure to get up to speed by reading the [wiki article](https://osu.ppy.sh/wiki/Tournaments/TWC/2023#ruleset).
+The TWC has a reputation among its managers as a testing grounds of sorts as far as the official tournaments go, and this year couldn't be any different – we are bringing back the 3 versus 3 format, which made its last appearance in 2017, in the hopes that it shakes things up a bit (looking at you, Japan). This relatively small change impacts many rules, so make sure to get up to speed by reading the [wiki article](/wiki/Tournaments/TWC/2023#ruleset).
 
 Continuing our ongoing efforts towards diversifying the ways the community can contribute to the World Cups, we have created an **[Open Collective](https://opencollective.com/osu-tournaments/events/osu-taiko-world-cup-2023-13130e56)** to allow for donations, which will be added to the prize pool at the end of the competition.
 
@@ -18,7 +18,7 @@ You can donate directly to the prize pool of the upcoming World Cup of your choo
 
 *Please note that any "tips" made during the payment process go to Open Collective and not to us!* 
 
-For more details, refer to the [osu!taiko World Cup 2023 wiki article](https://osu.ppy.sh/wiki/Tournaments/TWC/2023). You can discuss this event in the [official discussion thread](https://osu.ppy.sh/community/forums/topics/1722224) or at the public [community server](https://discord.gg/0Vxo9AsejDkGlk3H).
+For more details, refer to the [osu!taiko World Cup 2023 wiki article](/wiki/Tournaments/TWC/2023). You can discuss this event in the [official discussion thread](https://osu.ppy.sh/community/forums/topics/1722224) or at the public [community server](https://discord.gg/0Vxo9AsejDkGlk3H).
 
 ## Tournament schedule
 
@@ -30,7 +30,7 @@ For more details, refer to the [osu!taiko World Cup 2023 wiki article](https://o
 | Round of 32 | Mar 25 & Mar 26 |
 | Round of 16 | Apr 01 & Apr 02 |
 | Quarterfinals | Apr 08 & Apr 09 |
-| Semifinals |Apr 15 & Apr 16 |
+| Semifinals | Apr 15 & Apr 16 |
 | Finals | Apr 22 & Apr 23 |
 | Grand Finals | Apr 29 & Apr 30 |
 
