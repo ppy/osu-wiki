@@ -4,13 +4,13 @@ title: "osu! originals - osu!mania 7K World Cup 2023"
 date: 2023-02-15 11:00:00 +0000
 ---
 
-As [MWC7K](/wiki/Tournaments/MWC/2023_7K) approaches its climax, explore **5** brand new songs created specifically for the tournament!
+As [MWC7K](/wiki/Tournaments/MWC/2023_7K) approaches its climax, explore **5** brand-new songs created specifically for the tournament!
 
 ![](/wiki/shared/news/banners/featured-artist.jpg)
 
 But first, some context.
 
-Our Featured Artist program has expanded over the years, and we've only recently started dipping our feet into the depths of *original song commissions* (which we call [osu! originals](/wiki/osu%21_originals)). You might've seen a few osu! originals already via Featured Artist announcements or the recent [Twin Trials contest](https://osu.ppy.sh/home/news/2023-02-01-twin-trials-contest-beatmapping-phase).
+Our Featured Artist program has expanded over the years, and we've only recently started dipping our feet into the depths of *original song commissions* (which we call [osu! originals](/wiki/osu!_originals)). You might've seen a few osu! originals already via Featured Artist announcements or the recent [Twin Trials contest](https://osu.ppy.sh/home/news/2023-02-01-twin-trials-contest-beatmapping-phase).
 
 Thanks largely to [mangomizer](https://osu.ppy.sh/users/1893718) and each game mode's world cup staff, you may have noticed a bunch of osu! originals in our official tournaments too!
 
@@ -24,7 +24,7 @@ In case you missed any of the new songs, this article highlights every osu! orig
 
 ### Toromaru - Uncharted Sky
 
-This high tempo jazzy tune by [**Toromaru**](https://osu.ppy.sh/beatmaps/artists/279) isn't what you'd expect from a rhythm game, but it's exactly what you need. This acted as a *Rice* pick in the [Semifinals map pool](/wiki/Tournaments/MWC/2023_7K#semifinals.1).
+This high-tempo jazzy tune by [**Toromaru**](https://osu.ppy.sh/beatmaps/artists/279) isn't what you'd expect from a rhythm game, but it's exactly what you need. This acted as a *Rice* pick in the [Semifinals map pool](/wiki/Tournaments/MWC/2023_7K#semifinals.1).
 
 Play the [7-star map](https://osu.ppy.sh/beatmapsets/1931471) for yourself, created by [Jinjin](https://osu.ppy.sh/users/3360737) and [\_underjoy](https://osu.ppy.sh/users/2235750)!
 
@@ -64,7 +64,7 @@ Check out [the 9-star beatmap](https://osu.ppy.sh/beatmapsets/1939418) created b
 
 ### katagiri - Kyuukou
 
-The [Grand finals tiebreaker](/wiki/Tournaments/MWC/2023_7K#grand-finals) is a coveted position for any beatmap, and this masterpiece by [**katagiri**](https://osu.ppy.sh/beatmaps/artists/176) and its has the slot secured.
+The [Grand Finals tiebreaker](/wiki/Tournaments/MWC/2023_7K#grand-finals) is a coveted position for any beatmap, and this masterpiece by [**katagiri**](https://osu.ppy.sh/beatmaps/artists/176) has the slot secured.
 
 If you can somehow play a [10.76-star beatmap](https://osu.ppy.sh/beatmapsets/1939261), give this collab by [\_underjoy](https://osu.ppy.sh/users/2235750), [Jinjin](https://osu.ppy.sh/users/3360737), [Blocko](https://osu.ppy.sh/users/4075092), [Remuring](https://osu.ppy.sh/users/6522146) and [MapleSyrup-](https://osu.ppy.sh/users/1192936) a go.
 
