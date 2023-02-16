@@ -106,14 +106,9 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/c9e
 
 | Team A | Team B | Match time |  |
 | --: | :-- | :-- | :-: |
-| South Korea ::{ flag=KR }:: | ::{ flag=MY }:: Malaysia | [Feb 18 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230218T120000&p1=1440&p2=235&p3=122) | [^losers-finals] |
-
-### Sunday, 19 February 2023
-
-| Team A | Team B | Match time |  |
-| --: | :-- | :-- | :-: |
-| Philippines ::{ flag=PH }:: | ::{ flag=KR }:: South Korea | [Feb 19 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230219T120000&p1=1440&p2=145&p3=235) | [^grand-finals] |
-| Philippines ::{ flag=PH }:: | ::{ flag=MY }:: Malaysia | [Feb 19 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230219T120000&p1=1440&p2=145&p3=122) | [^grand-finals] |
+| South Korea ::{ flag=KR }:: | ::{ flag=MY }:: Malaysia | [Feb 18 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230218T110000&p1=1440&p2=235&p3=122) | [^losers-finals] |
+| Philippines ::{ flag=PH }:: | ::{ flag=KR }:: South Korea | [Feb 18 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230218T120000&p1=1440&p2=145&p3=235) | [^grand-finals] |
+| Philippines ::{ flag=PH }:: | ::{ flag=MY }:: Malaysia | [Feb 18 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230218T120000&p1=1440&p2=145&p3=122) | [^grand-finals] |
 
 ## Mappools
 
