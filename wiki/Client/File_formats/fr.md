@@ -21,7 +21,7 @@ Savoir comment faire un skin ou une archive de beatmap via osu! rendra vos œuvr
 
 ### Utilisation d'un archiveur
 
-1. Installez un archiveur de fichiers qui peut produire des fichiers `.zip`, tel que [7-Zip](https://www.7-zip.org) ou [WinRAR](https://www.win-rar.com).
+1. Installez un archiveur de fichiers qui peut produire des fichiers `.zip`, tel que [7-Zip](https://www.7-zip.org/) ou [WinRAR](https://www.rarlab.com/).
 2. Mettez tous les fichiers que vous voulez archiver dans un dossier séparé.
 3. Cliquez avec le bouton droit de la souris sur le dossier et sélectionnez "Ajouter à l'archive..." (vous pouvez aussi le faire à partir de l'archiveur de fichiers lui-même).
 4. Sélectionnez le format d'archive ZIP.

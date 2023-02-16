@@ -16,7 +16,7 @@ Es ist jedoch erwähnenswert, dass sich der Inhalt aller Video Game Packs, Anime
 
 ## Dedication
 
-**Dedication Medaillen** (zu Dt. Hingabe) sind Medaillen, die vergeben werden, sobald bestimmte Meilensteine bei der Spielanzahl in einem einzigen Spielmodus erreicht werden.
+**Dedication Medaillen** (zu Dt. Hingabe) sind Medaillen, die vergeben werden, sobald bestimmte Meilensteine bei der Spielanzahl im osu!-Spielmodus oder bei der Gesamttrefferzahl in osu!taiko, osu!catch und osu!mania erreicht werden.
 
 ## Mod Introduction
 
