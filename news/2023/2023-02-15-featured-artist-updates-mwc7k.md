@@ -18,7 +18,7 @@ In case you missed any of the new songs, this article highlights every osu! orig
 
 <div align="center">
     <video width="95%" controls>
-        <source src="https://assets.ppy.sh/media/fa/mwc7k2023-exclusives.mp4" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/fa/mwc7k2023-exclusives.mp4?2023" type="video/mp4" preload="none">
     </video>
 </div>
 
