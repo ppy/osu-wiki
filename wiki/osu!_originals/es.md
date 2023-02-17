@@ -140,7 +140,7 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 | Canción | Beatmap | Notas |
 | :-: | :-: | :-- |
 | [katagiri - Buta Musou](https://soundcloud.com/katagiri/buta-musou)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1633225) | Gran final NM1 |
-| [Raphlesia - Showdown](https://soundcloud.com/raphlesia/showdown) | [#1](https://osu.ppy.sh/beatmapsets/1627494) | Finales HR3 |
+| [Raphlesia - Showdown](https://soundcloud.com/raphlesia/showdown) | [#1](https://osu.ppy.sh/beatmapsets/1627494) | Final HR3 |
 | [Yooh - RPG](https://www.youtube.com/watch?v=oGO87WH2FWM)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1633250) | Desempate de la gran final |
 
 #### ![](/wiki/shared/mode/osu.png) [osu! World Cup 2022](/wiki/Tournaments/OWC/2022)
@@ -151,11 +151,11 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 | [Down - Down](https://open.spotify.com/album/4pMakhbTjq8kwg679WxBuf) | [#1](https://osu.ppy.sh/beatmapsets/1880545) | Semifinales FM4 |
 | [II-L ft. amelie xoxo - THE EARTH](https://soundcloud.com/ii-l/the-earth)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1889101) | Gran final NM5 |
 | [Kurokotei feat. Sennzai - escape (the looking-glass, and what alice found there)](https://www.youtube.com/watch?v=rYmTItO3caw)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1880652) | Desempate de las semifinales |
-| [NIWASHI - Harder Than Diamond](https://open.spotify.com/album/069ssNdAa8pqjgJ6Pk06Jq)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1884920) | Finales FM4 |
+| [NIWASHI - Harder Than Diamond](https://open.spotify.com/album/069ssNdAa8pqjgJ6Pk06Jq)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1884920) | Final FM4 |
 | [Rabbit House - Sanctuary](https://soundcloud.com/dksslqj/sanctuary)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1889094) | Gran final HR2 |
 | [Raimukun - Mythis Orbis](https://soundcloud.com/channel-thenewlimee/myths-orbis)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1889095) | Gran final NM2 |
 | [Redside - Sidequest](https://soundcloud.com/redside100/sidequest)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1880625) | Cuartos de final HR3 |
-| [rN - onostrapha](https://www.youtube.com/watch?v=DyBxCLcrY-c)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1884914) | Finales FM2 |
+| [rN - onostrapha](https://www.youtube.com/watch?v=DyBxCLcrY-c)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1884914) | Final FM2 |
 | [seatrus - EXXTRA JUDGEMENT](https://soundcloud.com/seatrus_frontier/seatrus-exxtra-judgement)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1889132) | Desempate de la gran final |
 | [Sephid - Thunderstrike 1988](https://www.youtube.com/watch?v=iddcX63D2Ag)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1889109) | Gran final HD3 |
 | [Thaehan - All or Nothing](https://www.youtube.com/watch?v=lrtA205InoQ)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1880625) | Semifinales HR1 |
@@ -209,9 +209,9 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 
 | Canción | Beatmap | Notas |
 | :-: | :-: | :-- |
-| [Hino Isuka vs. s-don - Glooorious!!](https://www.youtube.com/watch?v=qvf4Wm5t0wM)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1935691) | Finales HB3 |
+| [Hino Isuka vs. s-don - Glooorious!!](https://www.youtube.com/watch?v=qvf4Wm5t0wM)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1935691) | Final HB3 |
 | [katagiri - Kyuukou](https://soundcloud.com/katagiri/kyuukou)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1939261) | Desempate de la gran final |
-| [LV.4 feat. Yuu Ikeba - Sentimental Surge](https://osu.ppy.sh/beatmaps/artists/tracks?artist=LV.4&query=Sentimental%20Surge)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1935688) | Finales RC6 |
+| [LV.4 feat. Yuu Ikeba - Sentimental Surge](https://osu.ppy.sh/beatmaps/artists/tracks?artist=LV.4&query=Sentimental%20Surge)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1935688) | Final RC6 |
 | [SAMString - Ataraxia](https://osu.ppy.sh/beatmaps/artists/tracks?artist=SAMString&query=Ataraxia)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1939418) | Gran final LN3 |
 | [Toromaru - Uncharted Sky](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Toromaru&query=Uncharted%20Sky)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1931471) | Semifinales RC6 |
 
@@ -285,7 +285,7 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 | [Acylica - yoshicorsace](https://www.youtube.com/watch?v=PwxRJUPhYAo) | [#1](https://osu.ppy.sh/beatmapsets/1842665) | Semifinales NM4 |
 | [Aoi - King Atlantis](https://www.youtube.com/watch?v=TLJkMNmDed4)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1850986) | Desempate de la gran final |
 | [Down - Halfslashed](https://www.youtube.com/watch?v=r2RH3_a7ld4) | [#1](https://osu.ppy.sh/beatmapsets/1837962) | Cuartos de final FM1 |
-| [Down - UberFazz](https://www.youtube.com/watch?v=S3E9D1d48Nc) | [#1](https://osu.ppy.sh/beatmapsets/1846742) | Finales FM2 |
+| [Down - UberFazz](https://www.youtube.com/watch?v=S3E9D1d48Nc) | [#1](https://osu.ppy.sh/beatmapsets/1846742) | Final FM2 |
 | [Fuyuki Seana - OVERFLOW SKIES](https://soundcloud.com/sylp-hide/overflow-skies) | [#1](https://osu.ppy.sh/beatmapsets/1846756) | Desempate de la final |
 | [ikaruga\_nex - SICK ROCK CRAZY](https://soundcloud.com/ikaruga_nex/corsace-open-2022-sick-rock-crazy) | [#1](https://osu.ppy.sh/beatmapsets/1838305) | Desempate de cuartos de final |
 | [Kara - AGAVEiL](https://soundcloud.com/karalineavu/agaveill) | [#1](https://osu.ppy.sh/beatmapsets/1842694) | Desempate de semifinales |
@@ -298,7 +298,7 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 
 | Canción | Beatmap | Notas |
 | :-: | :-: | :-- |
-| [Kushper - MENDENIKANOID](https://www.youtube.com/watch?v=hvs6-APcZ8Y) | [#1](https://osu.ppy.sh/beatmapsets/1828651) | Finales NM5 |
+| [Kushper - MENDENIKANOID](https://www.youtube.com/watch?v=hvs6-APcZ8Y) | [#1](https://osu.ppy.sh/beatmapsets/1828651) | Final NM5 |
 
 #### ![](/wiki/shared/mode/mania.png) DDS Tournament
 
@@ -311,7 +311,7 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 | Canción | Beatmap | Notas |
 | :-: | :-: | :-- |
 | [Down - Solo Cup](https://open.spotify.com/album/4qMVTbgHvQThqza3pOgvag) | [#1](https://osu.ppy.sh/beatmapsets/1760520) | Semifinales FM1 |
-| [Down - Duo Cup](https://open.spotify.com/album/4osLwBbvDI7DnWfdujXbGM) | [#1](https://osu.ppy.sh/beatmapsets/1765192) | Finales FM1 |
+| [Down - Duo Cup](https://open.spotify.com/album/4osLwBbvDI7DnWfdujXbGM) | [#1](https://osu.ppy.sh/beatmapsets/1765192) | Final FM1 |
 | [Down - Trio Cup](https://open.spotify.com/album/7cWOHX315psZpXDp5jC0at) | [#1](https://osu.ppy.sh/beatmapsets/1769914) | Gran final DT2 |
 
 #### ![](/wiki/shared/mode/taiko.png) [Expert Global Taiko Showdown 2021](/wiki/Tournaments/GTS/EGTS_2021)
@@ -322,7 +322,7 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 | [Ice - Conclusio Catastropha](https://www.youtube.com/watch?v=N_ocBDUwSGc) | [#1](https://osu.ppy.sh/beatmapsets/1621712) | Desempate de semifinales |
 | [II-L - Unidentified Frequency Op.3 (Type-Triangle)](https://www.youtube.com/watch?v=vhsfT7PCp8A)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1632950) | Gran final NM5 |
 | [katagiri - Taboo Assembly](https://soundcloud.com/katagiri/taboo-assembly)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1651850) | Gran final NM1 |
-| [ptar124 - Aqua Regia](https://www.youtube.com/watch?v=bUPpSzA0NwI) | [#1](https://osu.ppy.sh/beatmapsets/1627334) | Finales NM1 |
+| [ptar124 - Aqua Regia](https://www.youtube.com/watch?v=bUPpSzA0NwI) | [#1](https://osu.ppy.sh/beatmapsets/1627334) | Final NM1 |
 | [ReeK - Multigenre Smackdown](https://soundcloud.com/reek_wobs/multigenre-smackdown-global-taiko-showdown-2021-finals-tiebreaker) | [#1](https://osu.ppy.sh/beatmapsets/1627304) | Desempate de la final |
 | [SDMNE - PATERA](https://soundcloud.com/sdmne/patera-from-egts-2021-tribute) | [#1](https://osu.ppy.sh/beatmapsets/1616127) | Desempate de cuartos de final |
 
@@ -339,9 +339,9 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 | [DJ Witch Girl MIR4CLEN - Danrit](https://soundcloud.com/mir4clen/osutaiko) | [#1](https://osu.ppy.sh/beatmapsets/1842746) | Octavos de final FM3 |
 | [Gardens - Rafflesia](https://soundcloud.com/gardensdtm/rafflesia) | [#1](https://osu.ppy.sh/beatmapsets/1833491) | Desempate de treintaidosavos de final |
 | [GTS Sound Team -《/nttld.:beings》 \~Truth in Uncertainty\~](https://soundcloud.com/sdmne/nttldbeings-truth-in-uncertainty)[^fa-feature] | [#1](https://osu.ppy.sh/beatmapsets/1859338#taiko/3822143) | Desempate de la gran final |
-| [ikaruga_nex vs. Kagetora. - Grabinschrift der Gotter](https://soundcloud.com/ikaruga_nex/egts-2022-finals-tb-ikaruga_nex-vs-grabinschrift-der-gotter) | [#1](https://osu.ppy.sh/beatmapsets/1855299) | Desempate de las finales |
+| [ikaruga_nex vs. Kagetora. - Grabinschrift der Gotter](https://soundcloud.com/ikaruga_nex/egts-2022-finals-tb-ikaruga_nex-vs-grabinschrift-der-gotter) | [#1](https://osu.ppy.sh/beatmapsets/1855299) | Desempate de la final |
 | [KAH - Judge UP↑ DOWN↓](https://soundcloud.com/kah_growsong/gts2022judge-up-down) | [#1](https://osu.ppy.sh/beatmapsets/1828735) | Sesentaicuatroavos de final FM3 |
-| [katagiri - Bootleg Heaven](https://www.youtube.com/watch?v=7a2k9yvExv4)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1855270) | Finales NM6 |
+| [katagiri - Bootleg Heaven](https://www.youtube.com/watch?v=7a2k9yvExv4)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1855270) | Final NM6 |
 | [Kou! - Sanzui](https://soundcloud.com/kou_desu/sanzui) | [#1](https://osu.ppy.sh/beatmapsets/1846769) | Cuartos de final  FM1 |
 | [kyou1110 - Mam rozbite sluchatka placem](https://www.youtube.com/watch?v=eAaJjlP2N_A) | [#1](https://osu.ppy.sh/beatmapsets/1846616) | Desempate de cuartos de final |
 | [NIWASHI - Silence is Golden, Speech is Golden](https://soundcloud.com/n1wa5h1/niwashi-silence-is-golden-speech-is-golden)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1833489) | Dieciseisavos de final NM1 |
@@ -440,9 +440,9 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 | [cexiria - Over the Sphere](https://soundcloud.com/cexiria/over-the-sphere) | [#1](https://osu.ppy.sh/beatmapsets/1875981) | Desempate de cuartos de final |
 | [HowToPlayLN - Disintegration of the Isolated Forest](https://soundcloud.com/indekkusu/isolated-forest) | [#1](https://osu.ppy.sh/beatmapsets/1880505) | Desempate de semifinales |
 | [HowToPlayLN - Eternal Bliss (HowToPlayLN's 'Nirvana' Remix)](https://soundcloud.com/indekkusu/eternal-bliss-remix) | [#1](https://osu.ppy.sh/beatmapsets/1867368) | Fase de grupos FM2 |
-| [HowToPlayLN - ph0eniix.z](https://soundcloud.com/indekkusu/ph0eniixz) | [#1](https://osu.ppy.sh/beatmapsets/1885288) | Finales NM2 |
+| [HowToPlayLN - ph0eniix.z](https://soundcloud.com/indekkusu/ph0eniixz) | [#1](https://osu.ppy.sh/beatmapsets/1885288) | Final NM2 |
 | [SiLiS - Desir -Saigo no Odori-](https://soundcloud.com/silis/desir-saigo-no-odori) | [#1](https://osu.ppy.sh/beatmapsets/1871708) | Octavos de final NM3 |
-| [Sparxe - What do you C?](https://sparxe.bandcamp.com/track/what-do-you-c) | [#1](https://osu.ppy.sh/beatmapsets/1885333) | Desempate de las finales |
+| [Sparxe - What do you C?](https://sparxe.bandcamp.com/track/what-do-you-c) | [#1](https://osu.ppy.sh/beatmapsets/1885333) | Desempate de la final |
 | [Tartarate vs. cexiria - Pink Aquarium](https://soundcloud.com/tartrate/pink-aquarium) | [#1](https://osu.ppy.sh/beatmapsets/1862333) | Clasificatorias NM1 |
 | [takehirotei as "Infinite Limit" - I.R.I.S](https://www.youtube.com/watch?v=Xata6N3LAyU) | [#1](https://osu.ppy.sh/beatmapsets/1889529) | Desempate de la gran final |
 | [xavy - ko](https://soundcloud.com/xavylo/nukonaritai) | [#1](https://osu.ppy.sh/beatmapsets/1889530) | Gran Final NM3 |
@@ -470,7 +470,7 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 | Canción | Beatmap | Notas |
 | :-: | :-: | :-- |
 | [blobdash & breakchild - EPiSODES](https://soundcloud.com/blobdash/episodes) | [#1](https://osu.ppy.sh/beatmapsets/1901573) | Desempate de la gran final |
-| [Sephid - Hypothesize](https://www.youtube.com/watch?v=FvaJrO3wJbI)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1897397) | Desempate de las finales |
+| [Sephid - Hypothesize](https://www.youtube.com/watch?v=FvaJrO3wJbI)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1897397) | Desempate de la final |
 
 #### ![](/wiki/shared/mode/taiko.png) [Squad Global Taiko Showdown 2021](/wiki/Tournaments/GTS/SGTS_2021)
 
