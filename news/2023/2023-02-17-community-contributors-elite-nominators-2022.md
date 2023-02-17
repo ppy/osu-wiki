@@ -66,7 +66,7 @@ Not to mention that this was all done while consistently maintaining his leaders
 
 Joining the Beatmap Nominators in June 2021, [meiqth](https://osu.ppy.sh/users/12565402) has been consistently performing at a top level with zero signs of slowing down, and to the surprise of no one, they took 2022 by storm with a consistently excellent performance in nominating a very diverse catalogue of over 200 beatmaps, almost entirely without issues. 
 
-Not only satisfied with merely that, they also went out of their way to be one of the very few people who actively tackled the daunting task of Quality Assurance in order to make sure no sneaky unrankables or quality issues accidentally make their way into the Ranked section, nipping problems in the bud long before they ever get to inconvenience players.
+Not only satisfied with merely that, they also went out of their way to be one of the *very* few people who actively tackled the daunting task of Quality Assurance in order to make sure no sneaky unrankables or quality issues accidentally make their way into the Ranked section, nipping problems in the bud long before they ever get to inconvenience players.
 
 This well-deserved award is a testament to the huge impact that meiqth has made as a Beatmap Nominator by being a very active, dedicated, and helpful figure in the osu!taiko mapping scene.
 
