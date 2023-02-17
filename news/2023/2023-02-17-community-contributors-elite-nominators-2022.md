@@ -40,7 +40,7 @@ Through commitment to his craft and a clear vision for the future of mapping, Mi
 
 [![](/wiki/shared/news/2023-02-17-community-contributors-elite-nominators-2022/moonpoint.jpg)](https://osu.ppy.sh/users/9558549)
 
-Continuing his excellent performance from 2021, [moonpoint](https://osu.ppy.sh/users/9558549) (formerly known as Apo11o) has proven himself time and time again as a prudent nominator. He's constantly pushed the Ranked section in innovative ways, promoting many map styles and song genres that would likely be ignored otherwise. This was especially notable in 2022, with Apo11o scoring above most other Beatmap Nominators in terms of variety and total beatmap set length, even going out of his way to spot issues in qualified maps and reset their nominations on many occasions.
+Continuing his excellent performance from 2021, [moonpoint](https://osu.ppy.sh/users/9558549) (formerly known as Apo11o) has proven himself time and time again as a prudent nominator. He's constantly pushed the Ranked section in innovative ways, promoting many map styles and song genres that would likely be ignored otherwise. This was especially notable in 2022, with moonpoint scoring above most other Beatmap Nominators in terms of variety and total beatmap set length, even going out of his way to spot issues in qualified maps and reset their nominations on many occasions.
 
 moonpoint's spotless tenure as a Beatmap Nominator cannot (and will not) go unnoticed, leaving his spot among the Elite an inevitability.
 
@@ -112,7 +112,7 @@ Despite only contributing for a few short months during 2022, [secXcscX](https:/
 
 Scoring a grand total of 91 nominations, secXcscX is the primary, initial, and early force of the content boost in the community that really opened up plenty of opportunities for new mappers to get their first Ranked map during 2022's great revival. The same holds true for lengthy maps that normally would have gone unnoticed due to the large effort involved in checking them properly. 
 
-His nominations are consistently at a high quality to a level that we think makes him an ideal role model for others in the community, and it is in all these traits together that we figure secXcscX is well-deserving of the Elite Nominator title.
+His nominations are consistently at a high quality to a level that we think makes him an ideal role model for others in the community, and it is in all these traits together that we figure secXcscX is well deserving of the Elite Nominator title.
 
 ---
 
