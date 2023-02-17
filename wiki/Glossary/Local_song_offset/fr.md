@@ -6,7 +6,7 @@ stub: true
 
 *Pour le offset pendant le beatmapping, voir : [Offset](/wiki/Beatmapping/Offset)*
 
-Le **Local song offset** est un décalage qui déplace l'apparence des [objets](/wiki/Hit_object) par rapport à l'audio des [beatmaps](/wiki/Beatmap) individuels. Cela peut être utile pour les joueurs qui ont des retards auditifs ou visuels. Le local song offset fonctionne avec le décalage global pour calculer un décalage total.
+Le **Local song offset** est un décalage qui déplace l'apparence des [objets](/wiki/Hit_object) par rapport à l'audio des [beatmaps](/wiki/Beatmap) individuels. Cela peut être utile pour les joueurs qui ont des retards auditifs ou visuels. Le local song offset fonctionne avec le [décalage global](/wiki/Client/Options/Universal_offset) pour calculer un décalage total.
 
 Au début du jeu, le local song offset peut être modifié en appuyant sur :
 
@@ -15,6 +15,10 @@ Au début du jeu, le local song offset peut être modifié en appuyant sur :
 - `Alt` + `+` pour augmenter le décalage de 1 milliseconde
 - `Alt` + `-` pour diminuer le décalage de 1 milliseconde
 
-Si un local offset est défini, osu! affichera le local offset dans l'interface au-dessus du tableau d'affichage. osu! vous informera également du local offset avant de commencer le jeu.
+Si un local offset est défini, osu! affichera le local offset dans l'interface au-dessus du tableau d'affichage.
 
-<!-- TODO: Add links and stuff -->
+![Local offset](img/local-offset.jpg "Local offset")
+
+osu! vous informera également du local offset avant de commencer le jeu.
+
+![Notification de local offset](img/local-offset-notice.png "Notification de local offset")
