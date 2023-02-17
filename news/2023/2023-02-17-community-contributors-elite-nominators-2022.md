@@ -58,7 +58,7 @@ His overall performance was excellent, showcasing a high degree of activity whil
 
 [Hivie](https://osu.ppy.sh/users/14102976) is back again to prove that anything is possible with enough shawarma and beautiful anime females. Rising to the top once again and contributing immensely to everything inside and out of the Beatmap Nominators, managing to reach over 200 nominations with barely any issues is just the first thing on his growing list of accomplishments. 
 
-He has also run some of the most successful mapping contests the mode has ever seen in the form of [TFAC](/wiki/Contests/o%21tFAC) and [M2P](/wiki/Contests/M2P), and created a [Discord bot](https://osu.ppy.sh/community/forums/topics/1604925) for mapping and modding related statistics which has seen prevalence in over 380 Discord servers! 
+He has also run some of the most successful mapping contests the mode has ever seen in the form of [TFAC](/wiki/Contests/o!tFAC) and [M2P](/wiki/Contests/M2P), and created a [Discord bot](https://osu.ppy.sh/community/forums/topics/1604925) for mapping and modding related statistics which has seen prevalence in over 380 Discord servers! 
 
 Not to mention that this was all done while consistently maintaining his leadership in Project Loved, Beatmap Spotlights, and the Community Mentorship Program. We hope to keep him kidnapped at the NAT headquarters for as long as possible, as who knows what could go wrong if we set him loose upon the world without restraint. 
 
