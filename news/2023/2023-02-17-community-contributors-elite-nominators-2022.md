@@ -14,7 +14,7 @@ Today, we will be acknowledging a handful more of these esteemed individuals who
 
 ## osu!
 
-[![](/wiki/shared/news/2023-02-17-community-contributors-elite-nominators-2022/Ryuusei%20Aika.jpg)](https://osu.ppy.sh/users/7777875)
+[![](/wiki/shared/news/2023-02-17-community-contributors-elite-nominators-2022/Ryuusei-Aika.jpg)](https://osu.ppy.sh/users/7777875)
 
 After returning to the Beatmap Nominators at the start of 2022, [Ryuusei Aika](https://osu.ppy.sh/users/7777875) wasted no time in making his mark on the Ranked section. Whether it is adding to the variety in Ranked by pushing a whole host of mapping styles and unique mappers, or putting in the effort to check larger and longer beatmap sets, or even just the sheer number of nominations made (with over 160 nominations in 2022), Ryuusei Aika has done it all with very little issue.
 
