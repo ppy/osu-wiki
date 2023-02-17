@@ -17,8 +17,8 @@ Au début du jeu, le local song offset peut être modifié en appuyant sur :
 
 Si un local offset est défini, osu! affichera le local offset dans l'interface au-dessus du tableau d'affichage.
 
-![Local Offset](img/local-offset.jpg "Décalage local")
+![Local offset](img/local-offset.jpg "Local offset")
 
 osu! vous informera également du local offset avant de commencer le jeu.
 
-![Local Offset Notice](img/local-offset-notice.png "Notification de décalage local")
+![Notification de local offset](img/local-offset-notice.png "Notification de local offset")
