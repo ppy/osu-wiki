@@ -22,10 +22,10 @@ Todos los osu! originals que han sido licenciados por el juego están autorizado
 | [nekodex - carol of the circles](https://soundcloud.com/nekodex/carol-of-the-circles)[^fa-catalogue] | Tema de osu! para Navidad/Invierno 2019 |
 | [nekodex - Little Drummer Girl](https://soundcloud.com/nekodex/carol-of-the-circles)[^fa-catalogue] | Tema de osu! para Navidad/Invierno 2020 |
 | [nekodex - Liquid Future](https://soundcloud.com/nekodex/liquid-future)[^fa-catalogue] | Composición original para [osu!stream](/wiki/osu!stream) |
-| [nekodex - new beginnings](https://osu.ppy.sh/beatmapsets/1011011) | Canción actual del tutorial |
-| [nekodex - osu!stream theme](https://soundcloud.com/nekodex/osu-stream-theme) | Tema principal de [osu!stream](/wiki/osu!stream) |
+| [nekodex - new beginnings](https://osu.ppy.sh/beatmapsets/1011011)[^fa] | Canción actual del tutorial |
+| [nekodex - osu!stream theme](https://soundcloud.com/nekodex/osu-stream-theme)[^fa] | Tema principal de [osu!stream](/wiki/osu!stream) |
 | [nekodex - welcome to christmas!](https://soundcloud.com/nekodex/welcome-to-christmas)[^fa-catalogue] | Tema principal de [osu!stream](/wiki/osu!stream) |
-| [nekodex - welcome to osu!](https://soundcloud.com/nekodex/welcome-to-osu) | Antiguo tema de osu! |
+| [nekodex - welcome to osu!](https://soundcloud.com/nekodex/welcome-to-osu)[^fa] | Antiguo tema de osu! |
 | [Peter Lambert - osu! tutorial](https://osu.ppy.sh/beatmapsets/3756) | Antigua canción de tutorial |
 
 ### Lanzamientos exclusivos de artistas destacados
@@ -151,18 +151,18 @@ Estas canciones son parte de [osu! James Landino Collection EP](https://fanlink.
 
 | Canción | Beatmap | Notas |
 | :-: | :-: | :-- |
-| [DJ Raisei - T.R.A.P.](https://soundcloud.com/raisei/traptrap)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1889105) | Gran final NM4 |
-| Down - Down | [#1](https://osu.ppy.sh/beatmapsets/1880545) | Semifinales FM4 |
-| [II-L ft. amelie xoxo - THE EARTH](https://soundcloud.com/ii-l/the-earth)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1889101) | Gran final NM5 |
-| [Kurokotei feat. Sennzai - escape (the looking-glass, and what alice found there)](https://www.youtube.com/watch?v=rYmTItO3caw)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1880652) | Desempate de las semifinales |
+| [DJ Raisei - T.R.A.P.](https://soundcloud.com/raisei/traptrap)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1889105) | Gran final NM4 |
+| [Down - Down](https://open.spotify.com/album/4pMakhbTjq8kwg679WxBuf) | [#1](https://osu.ppy.sh/beatmapsets/1880545) | Semifinales FM4 |
+| [II-L ft. amelie xoxo - THE EARTH](https://soundcloud.com/ii-l/the-earth)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1889101) | Gran final NM5 |
+| [Kurokotei feat. Sennzai - escape (the looking-glass, and what alice found there)](https://www.youtube.com/watch?v=rYmTItO3caw)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1880652) | Desempate de las semifinales |
 | [NIWASHI - Harder Than Diamond](https://open.spotify.com/album/069ssNdAa8pqjgJ6Pk06Jq)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1884920) | Finales FM4 |
-| [Rabbit House - Sanctuary](https://soundcloud.com/dksslqj/sanctuary)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1889094) | Gran final HR2 |
-| [Raimukun - Mythis Orbis](https://soundcloud.com/channel-thenewlimee/myths-orbis)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1889095) | Gran final NM2 |
-| [Redside - Sidequest](https://soundcloud.com/redside100/sidequest)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1880625) | Cuartos de final HR3 |
-| [rN - onostrapha](https://www.youtube.com/watch?v=DyBxCLcrY-c)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1884914) | Finales FM2 |
-| [seatrus - EXXTRA JUDGEMENT](https://soundcloud.com/seatrus_frontier/seatrus-exxtra-judgement)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1889132) | Desempate de la gran final |
-| [Sephid - Thunderstrike 1988](https://www.youtube.com/watch?v=iddcX63D2Ag)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1889109) | Gran final HD3 |
-| [Thaehan - All or Nothing](https://www.youtube.com/watch?v=lrtA205InoQ)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1880625) | Semifinales HR1 |
+| [Rabbit House - Sanctuary](https://soundcloud.com/dksslqj/sanctuary)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1889094) | Gran final HR2 |
+| [Raimukun - Mythis Orbis](https://soundcloud.com/channel-thenewlimee/myths-orbis)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1889095) | Gran final NM2 |
+| [Redside - Sidequest](https://soundcloud.com/redside100/sidequest)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1880625) | Cuartos de final HR3 |
+| [rN - onostrapha](https://www.youtube.com/watch?v=DyBxCLcrY-c)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1884914) | Finales FM2 |
+| [seatrus - EXXTRA JUDGEMENT](https://soundcloud.com/seatrus_frontier/seatrus-exxtra-judgement)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1889132) | Desempate de la gran final |
+| [Sephid - Thunderstrike 1988](https://www.youtube.com/watch?v=iddcX63D2Ag)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1889109) | Gran final HD3 |
+| [Thaehan - All or Nothing](https://www.youtube.com/watch?v=lrtA205InoQ)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1880625) | Semifinales HR1 |
 
 #### ![](/wiki/shared/mode/taiko.png) [osu!taiko World Cup 2021](/wiki/Tournaments/TWC/2021)
 
@@ -213,9 +213,11 @@ Estas canciones son parte de [osu! James Landino Collection EP](https://fanlink.
 
 | Canción | Beatmap | Notas |
 | :-: | :-: | :-- |
-| Hino Isuka vs. s-don - Glooorious!![^fa] | [#1](https://osu.ppy.sh/beatmapsets/1935691) | Finales HB3 |
-| LV.4 feat. Yuu Ikeba - Sentimental Surge[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1935688) | Finales RC6 |
-| Toromaru - Uncharted Sky[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1931471) | Semifinales RC6 |
+| [Hino Isuka vs. s-don - Glooorious!!](https://www.youtube.com/watch?v=qvf4Wm5t0wM)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1935691) | Finales HB3 |
+| [katagiri - Kyuukou](https://soundcloud.com/katagiri/kyuukou)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1939261) | Desempate de la gran final |
+| [LV.4 feat. Yuu Ikeba - Sentimental Surge](https://osu.ppy.sh/beatmaps/artists/tracks?artist=LV.4&query=Sentimental%20Surge)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1935688) | Finales RC6 |
+| [SAMString - Ataraxia](https://osu.ppy.sh/beatmaps/artists/tracks?artist=SAMString&query=Ataraxia)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1939418) | Gran final LN3 |
+| [Toromaru - Uncharted Sky](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Toromaru&query=Uncharted%20Sky)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1931471) | Semifinales RC6 |
 
 ### Lanzamientos de torneos administrados por la comunidad
 
@@ -277,7 +279,7 @@ Estas canciones son parte de [osu! James Landino Collection EP](https://fanlink.
 
 | Canción | Beatmap | Notas |
 | :-: | :-: | :-- |
-| [katagiri - Palace of Melancholia](https://www.youtube.com/watch?v=-Wq8Kk9Trsw) | [#1](https://osu.ppy.sh/beatmapsets/1581367) | Desempate de la gran final |
+| [katagiri - Palace of Melancholia](https://www.youtube.com/watch?v=-Wq8Kk9Trsw)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1581367) | Desempate de la gran final |
 | [VINXIS - FALL](https://www.youtube.com/watch?v=_FlHUWVjHvY)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1581340) | Gran final NM6 |
 
 #### ![](/wiki/shared/mode/osu.png) Corsace Open 2022
@@ -294,7 +296,7 @@ Estas canciones son parte de [osu! James Landino Collection EP](https://fanlink.
 | [NTRSOUND and Estia - Wisps of Nifl](https://soundcloud.com/estia_dtm/wisps-of-nifl) | [#1](https://osu.ppy.sh/beatmapsets/1833757) | Desempate de octavos de final |
 | [Rabbit House - Divine Ordeal](https://soundcloud.com/dksslqj/divine-ordeal)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1829371) | Desempate de dieciseisavos de final |
 | [rN - Anteisce](https://yuugenp.bandcamp.com/track/anteisce)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1850922) | Gran final NM6 |
-| [seatrus - Querasis](https://www.youtube.com/watch?v=VuHjtzlw4ig)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1850936) | Gran final HD3 |
+| [seatrus - Querasis](https://www.youtube.com/watch?v=VuHjtzlw4ig)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1850936) | Gran final HD3 |
 
 #### ![](/wiki/shared/mode/osu.png) DACH Cup
 
@@ -340,7 +342,7 @@ Estas canciones son parte de [osu! James Landino Collection EP](https://fanlink.
 | [DJ Raisei - Fractured Angel](https://www.youtube.com/watch?v=YlaYNIXJAyM)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1838114) | Desempate de dieciseisavos de final |
 | [DJ Witch Girl MIR4CLEN - Danrit](https://soundcloud.com/mir4clen/osutaiko) | [#1](https://osu.ppy.sh/beatmapsets/1842746) | Octavos de final FM3 |
 | [Gardens - Rafflesia](https://soundcloud.com/gardensdtm/rafflesia) | [#1](https://osu.ppy.sh/beatmapsets/1833491) | Desempate de treintaidosavos de final |
-| [GTS Sound Team -《/nttld.:beings》 \~Truth in Uncertainty\~](https://soundcloud.com/sdmne/nttldbeings-truth-in-uncertainty)[^fa-feature] | [#1](https://osu.ppy.sh/beatmapsets/1859338#taiko/3822143) | Desempate de la gran final |
+| [GTS Sound Team - 《/nttld.:beings》 \~Truth in Uncertainty\~](https://soundcloud.com/sdmne/nttldbeings-truth-in-uncertainty)[^fa-feature] | [#1](https://osu.ppy.sh/beatmapsets/1859338#taiko/3822143) | Desempate de la gran final |
 | [ikaruga_nex vs. Kagetora. - Grabinschrift der Gotter](https://soundcloud.com/ikaruga_nex/egts-2022-finals-tb-ikaruga_nex-vs-grabinschrift-der-gotter) | [#1](https://osu.ppy.sh/beatmapsets/1855299) | Desempate de las finales |
 | [KAH - Judge UP↑ DOWN↓](https://soundcloud.com/kah_growsong/gts2022judge-up-down) | [#1](https://osu.ppy.sh/beatmapsets/1828735) | Sesentaicuatroavos de final FM3 |
 | [katagiri - Bootleg Heaven](https://www.youtube.com/watch?v=7a2k9yvExv4)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1855270) | Finales NM6 |
@@ -392,7 +394,7 @@ Estas canciones son parte de [osu! James Landino Collection EP](https://fanlink.
 
 | Canción | Beatmap | Notas |
 | :-: | :-: | :-- |
-| [SAMString - Crystalised Euphoria](https://www.youtube.com/watch?v=EMsWUqqlwy8)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1819473) | Gran final NM7 |
+| [SAMString - Crystalised Euphoria](https://www.youtube.com/watch?v=EMsWUqqlwy8)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1819473) | Gran final NM7 |
 
 #### ![](/wiki/shared/mode/osu.png) osu! Malaysia Tournament 2021
 
@@ -545,7 +547,7 @@ Estas canciones son parte de [osu! James Landino Collection EP](https://fanlink.
 
 | Canción |
 | :-: |
-| [SAMString - Akarui Taiyo](https://soundcloud.com/samstring/akarui-taiyo)[^fa] |
+| [SAMString - Akarui Taiyo](https://soundcloud.com/samstring/akarui-taiyo)[^fa-catalogue] |
 
 ### Lanzamientos independientes de beatmaps
 
@@ -571,7 +573,7 @@ Estas canciones son parte de [osu! James Landino Collection EP](https://fanlink.
 | [Down - Yamangomcpro6th](https://open.spotify.com/album/7pJAbAElVYKbJ0L3dJGjPz) | [#1](https://osu.ppy.sh/beatmapsets/1715340) |
 | handsome muscle - Lost in nightmare | [#1](https://osu.ppy.sh/beatmapsets/552125) |
 | [happy30 - As the wind blows](https://www.youtube.com/watch?v=XFZGRVIji9w)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/355073) |
-| [happy30 - wob wob](https://www.youtube.com/watch?v=XFZGRVIji9w) | [#1](https://osu.ppy.sh/beatmapsets/115621) |
+| happy30 - wob wob[^fa] | [#1](https://osu.ppy.sh/beatmapsets/115621) |
 | [happy30 - You spin my world](https://open.spotify.com/track/6B0mNLZUnFetKLANIngdHj)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/485205) |
 | Jar - ztrout's Visit to The Proctologist | [#1](https://osu.ppy.sh/beatmapsets/21145) |
 | Ketchup - ProjectUnreality | [#1](https://osu.ppy.sh/beatmapsets/9077) |

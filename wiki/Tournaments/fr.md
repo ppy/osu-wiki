@@ -44,6 +44,7 @@ L'osu! World Cup est un tournoi à double élimination par équipe de 4 formée 
 | [osu!taiko World Cup 2020](TWC/2020) | 07/03/2020 | 12/04/2020 | ::{ flag=JP }:: Japon | ::{ flag=KR }:: Corée du Sud | ::{ flag=GB }:: Royaume-Uni |
 | [osu!taiko World Cup 2021](TWC/2021) | 06/03/2021 | 11/04/2021 | ::{ flag=JP }:: Japon | ::{ flag=KR }:: Corée du Sud | ::{ flag=BR }:: Brésil |
 | [osu!taiko World Cup 2022](TWC/2022) | 12/03/2022 | 24/04/2022 | ::{ flag=JP }:: Japon | ::{ flag=KR }:: Corée du Sud | ::{ flag=ID }:: Indonésie |
+| [osu!taiko World Cup 2023](TWC/2023) | 18/03/2023 | 30/04/2023 | *À déterminer* | *À déterminer* | *À déterminer* |
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch World Cup
 
@@ -760,6 +761,7 @@ Tournois et compétitions non-officiels gérés par la communauté.
 | Nom | Début | Fin | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Touhou Project Mania Cup 1st](TMC/1st) | 14/09/2020 | 06/12/2020 | MY 2.5 + TH 1.5 | yuyupa | SMOrcat |
+| [Touhou Project Mania Cup 2nd](TMC/2nd) | 20/12/2021 | 20/03/2022 | Black Stick Rot | rice quadruplets | Hourai Elixir |
 
 ### Multimode
 
