@@ -46,7 +46,7 @@ moonpoint's spotless tenure as a Beatmap Nominator cannot (and will not) go unno
 
 [![](/wiki/shared/news/2023-02-17-community-contributors-elite-nominators-2022/fieryrage.jpg)](https://osu.ppy.sh/users/3533958)
 
-A long-time member of the Beatmap Nominators, [fieryrage](https://osu.ppy.sh/users/3533958), really popped off this year, well and truly leaving his mark throughout the ranked section.
+A long-time member of the Beatmap Nominators, [fieryrage](https://osu.ppy.sh/users/3533958) really popped off this year, well and truly leaving his mark throughout the Ranked section.
 
 His overall performance was excellent, showcasing a high degree of activity while still maintaining consistent attention to detail and thorough modding — certainly no small feat for anyone familiar with the task! A mapper could rarely say "I was [By Myself](https://osu.ppy.sh/beatmapsets/1152507)" in 2022 with how often fieryrage helped both new and returning ones alike rank their maps!
 
