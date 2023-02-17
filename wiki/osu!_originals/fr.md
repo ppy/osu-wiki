@@ -356,7 +356,7 @@ Ces chansons font partie du [osu! James Landino Collection EP](https://fanlink.t
 | [stoops & breakchild - blue noah 2022](https://soundcloud.com/breakchildaltuwu/blue-noah-2022) | [#1](https://osu.ppy.sh/beatmapsets/1837866) | FM2 des seizièmes de finale |
 | [takehirotei as "Infinite Limit" - Rules of the Chaos Dilemma](https://soundcloud.com/takehirotei/egts-sf-tb-takehirotei-as-infinite-limit-rules-of-the-chaos-dilemma) | [#1](https://osu.ppy.sh/beatmapsets/1850782) | Tiebreaker des demi-finales |
 
-#### ![](/wiki/shared/mode/osu.png) GST:LIVE 2022
+#### ![](/wiki/shared/mode/osu.png) [GST:LIVE 2022](/wiki/Tournaments/GSTLIVE/22)
 
 | Musique | Beatmap | Notes |
 | :-: | :-: | :-- |
