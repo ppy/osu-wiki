@@ -40,7 +40,7 @@ Through commitment to his craft and a clear vision for the future of mapping, Mi
 
 [![](/wiki/shared/news/2023-02-17-community-contributors-elite-nominators-2022/moonpoint.jpg)](https://osu.ppy.sh/users/9558549)
 
-Continuing his excellent performance from 2021, moonpoint (formerly known as Apo11o) has proven himself time and time again as a prudent nominator. He's constantly pushed the Ranked section in innovative ways, promoting many map styles and song genres that would likely be ignored otherwise. This was especially notable in 2022, with Apo11o scoring above most other Beatmap Nominators in terms of variety and total beatmap set length, even going out of his way to spot issues in qualified maps and reset their nominations on many occasions.
+Continuing his excellent performance from 2021, [moonpoint](https://osu.ppy.sh/users/9558549) (formerly known as Apo11o) has proven himself time and time again as a prudent nominator. He's constantly pushed the Ranked section in innovative ways, promoting many map styles and song genres that would likely be ignored otherwise. This was especially notable in 2022, with Apo11o scoring above most other Beatmap Nominators in terms of variety and total beatmap set length, even going out of his way to spot issues in qualified maps and reset their nominations on many occasions.
 
 moonpoint's spotless tenure as a Beatmap Nominator cannot (and will not) go unnoticed, leaving his spot among the Elite an inevitability.
 
