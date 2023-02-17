@@ -16,7 +16,7 @@ Today, we will be acknowledging a handful more of these esteemed individuals who
 
 [![](/wiki/shared/news/2023-02-17-community-contributors-elite-nominators-2022/Ryuusei%20Aika.jpg)](https://osu.ppy.sh/users/7777875)
 
-After returning to the Beatmap Nominators at the start of 2022, [Ryuusei Aika](https://osu.ppy.sh/users/7777875) wasted no time in making his mark on the ranked section. Whether it ise adding to the variety in ranked by pushing a whole host of mapping styles and unique mappers, or putting in the effort to check larger and longer beatmap sets, or even just the sheer number of nominations made (with over 160 nominations in 2022), Ryuusei Aika has done it all with very little issue.
+After returning to the Beatmap Nominators at the start of 2022, [Ryuusei Aika](https://osu.ppy.sh/users/7777875) wasted no time in making his mark on the ranked section. Whether it is adding to the variety in ranked by pushing a whole host of mapping styles and unique mappers, or putting in the effort to check larger and longer beatmap sets, or even just the sheer number of nominations made (with over 160 nominations in 2022), Ryuusei Aika has done it all with very little issue.
 
 His efforts throughout the year have not gone unnoticed, with his overall performance across multiple facets resulting in him sporting the best score across the board in 2022. Beyond the mapping accolades he has achieved over the years (such as Mappers' Choice Award 2021: Grand User award), Ryuusei Aika today adds the vaunted Elite Nominator title to his collection, with his contributions as a Beatmap Nominator leaving a profound impact on the mapping scene.
 
@@ -66,7 +66,7 @@ Not to mention that this was all done while consistently maintaining his leaders
 
 Joining the Beatmap Nominators in June 2021, [meiqth](https://osu.ppy.sh/users/12565402) has been consistently performing at a top level with zero signs of slowing down, and to the surprise of no one, they took 2022 by storm with a consistently excellent performance in nominating a very diverse catalogue of over 200 beatmaps, almost entirely without issues. 
 
-Not only satisfied with merely that, they also went out of their way to be one of the very few people who actively tackled the daunting task of Quality Assurance in order to make sure no sneaky unrankables or quality issues accidentally make their way into the Ranked section, nipping problems in the bud long before they ever get to inconvenience players.
+Not only satisfied with merely that, they also went out of their way to be one of the very few people who actively tackled the daunting task of Quality Assurance in order to make sure no sneaky unrankables or quality issues accidentally made their way into the Ranked section, nipping problems in the bud long before they ever get to inconvenience players.
 
 This well-deserved award is a testament to the huge impact that meiqth has made as a Beatmap Nominator by being a very active, dedicated, and helpful figure in the osu!taiko mapping scene.
 
