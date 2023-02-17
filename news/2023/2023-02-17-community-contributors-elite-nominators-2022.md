@@ -10,7 +10,7 @@ Share a moment with us as we acknowledge the best of the best among those who he
 
 In the osu! community, the Elite titles exist as an acknowledgement given to those who have truly gone above and beyond the pale, achieving incredible feats that lay the ground for the rest of us to follow. These accolades cover a variety of domains, from beatmap nomination, mapping, storyboarding, refereeing and more. 
 
-Today, we will be acknowledging a handful more of these esteemed individuals who have tirelessly toiled to ensure all of us have amazing new maps to experience from their efforts in the modding and mapping community. The following accolades have been compiled and written by members of the [Nomination Assessment Team](https://osu.ppy.sh/wiki/en/People/The_Team/Nomination_Assessment_Team).
+Today, we will be acknowledging a handful more of these esteemed individuals who have tirelessly toiled to ensure all of us have amazing new maps to experience from their efforts in the modding and mapping community. The following accolades have been compiled and written by members of the [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team).
 
 ## osu!
 
@@ -58,7 +58,7 @@ His overall performance was excellent, showcasing a high degree of activity whil
 
 [Hivie](https://osu.ppy.sh/users/14102976) is back again to prove that anything is possible with enough shawarma and beautiful anime females. Rising to the top once again and contributing immensely to everything inside and out of the Beatmap Nominators, managing to reach over 200 nominations with barely any issues is just the first thing on his growing list of accomplishments. 
 
-He has also run some of the most successful mapping contests the mode has ever seen in the form of [TFAC](https://osu.ppy.sh/wiki/en/Contests/o%21tFAC) and [M2P](https://osu.ppy.sh/wiki/en/Contests/M2P), and created a [Discord bot](https://osu.ppy.sh/community/forums/topics/1604925) for mapping and modding related statistics which has seen prevalence in over 380 Discord servers! 
+He has also run some of the most successful mapping contests the mode has ever seen in the form of [TFAC](/wiki/Contests/o%21tFAC) and [M2P](/wiki/Contests/M2P), and created a [Discord bot](https://osu.ppy.sh/community/forums/topics/1604925) for mapping and modding related statistics which has seen prevalence in over 380 Discord servers! 
 
 Not to mention that this was all done while consistently maintaining his leadership in Project Loved, Beatmap Spotlights, and the Community Mentorship Program. We hope to keep him kidnapped at the NAT headquarters for as long as possible, as who knows what could go wrong if we set him loose upon the world without restraint. 
 
