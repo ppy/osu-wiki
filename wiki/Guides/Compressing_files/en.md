@@ -123,8 +123,6 @@ Software such as [MediaInfo](https://mediaarea.net/en/MediaInfo) can be used to 
 
 MediaInfo is very easy to use; after installing, open MediaInfo then open your file, and done. The technical information about that file will then appear.
 
-Screenshots are taken from a Linux desktop, but these should also apply on Windows and macOS.
-
 1. Open MediaInfo, and open the video or audio file you want to check.
 
 After opening MediaInfo, go into `File`, then `Open` and `Open file(s)...`.
