@@ -1,17 +1,29 @@
 # Compressing files
 
-Each beatmap has a file size limit dictated by its total length. This guide will help you to get your beatmap under that limit.
+Each beatmap has a file size limit dictated by it's total length and any video and audio content must meet requirements for formats, resolutions, and bit rates.
 
-There are 2 types of compression. **Lossy** and **Lossless** compression.
+This guide will help you get your beatmap under that limit and meet such requirements.
 
-- **Lossless** implies that the quality never degrades and can be repeatedly compressed or decompressed.
-- **Lossy** is a much more powerful form of compression which sacrifices quality for space/processor demand.
+## Introduction
+
+There are 2 types of compression. **Lossless** and **Lossy** compression.
+
+- **Lossless** compression implies that the quality never degrades and can thus be repeatedly compressed and decompressed.
+- **Lossy** compression uses certain powerful techniques to reduce file size at the expense of quality.
+
+To convert, or reduce either file size, average bitrate, or resolution of a audio or video file requires a process called **re-encoding**, or more known as **transcoding**. Transcoding an already lossy-compressed audio or video using lossy compression can result in varying degrees of further quality reduction depending on the settings used.
+
+Due to that reason, re-encoding should be avoided except if the source audio or video file is any of the following:
+
+- Too large in file size
+- Too high of a resolution or average bit rate
+- Encoded in a incompatible format
 
 ## Video
 
-Videos are usually where people go wrong. There are thousands of video codecs out there, and *believe it or not, YouTube is usually a terrible place to get videos*.
+Videos encoded in the H.264 lossy video compression format is supported usually using the .mp4 file extension. Other formats such as H.265, VP9 and AV1 and file extensions such as .mkv and .mov are currently not supported.
 
-H.264 is a good codec to use but like most video codecs, it is lossy. This means you want to avoid re-encoding the video multiple times, but instead encode from the high resolution source once.
+The [Ranking Criteria](/wiki/Ranking_Criteria) specifies a maximum video resolution with a width of 1280 pixels and height of 720 pixels, thus 1280x720 in the 16:9 aspect ration.
 
 ### Using Handbrake
 
@@ -51,23 +63,24 @@ If you are on Windows, first [download FFmpeg](https://ffmpeg.org/download.html)
 Open a terminal and paste in the following command, changing the values as needed:
 
 ```
-ffmpeg -i input -c:v libx264 -crf 20 -preset slower -an -sn -map_metadata -1 -map_chapters -1 -vf scale=-1:720 output.mp4
+ffmpeg -i input -c:v libx264 -crf 20 -preset slower -profile:v high -vf scale=-1:720 -an -sn -map_metadata -1 -map_chapters -1 output.mp4
 ```
 
 - `-i input`: Your source file. If the file name contains spaces, wrap it around double quotes (`"`).
 - `-c:v libx264`: Specify that the video should be encoded using the x264 encoder, producing video in the H.264 format.
 - `-crf 20`: The compression quality, where lower values give better quality at the expense of larger files and vice versa. The recommended range is around 20-25.
 - `-preset slower`: Specify an encoding preset, with recommended values ranging from `ultrafast` to `veryslow`. Slower presets allow the encoder to give you higher quality for the same bitrate, or lower bitrate for the same quality. More information about available presets can be found on [FFmpeg's official website](https://trac.ffmpeg.org/wiki/Encode/H.264#Preset).
+- `profile:v high`: Specify that the video should be encoded with the H.264 High profile.
+- `-vf scale=-1:720`: Downscale the video to a height of 720 pixels. The `-1` lets FFmpeg automatically determine the width of the new video based on the aspect ratio of the source.
 - `-an -sn`: Remove audio and subtitles if present.
 - `-map_metadata -1 -map_chapters -1`: Remove metadata and chapters if present.
-- `-vf scale=-1:720`: Downscale the video to a height of 720 pixels. The `-1` lets FFmpeg automatically determine the width of the new video based on the aspect ratio of the source.
 - `output.mp4`: Your output file. If the file name contains spaces, wrap it around double quotes (`"`).
 
 ## Audio
 
-The audio bitrate determines a lot about the size of the audio file. You can use [Audacity](https://www.audacityteam.org/) to change the bitrate of your audio files.
+Audio encoded in either MP3 or OGG (Vorbis) lossy audio compression formats are supported with .mp3 and .ogg file extensions, respectively. Other formats such as AAC and OGG (Opus) and any lossless formats are not supported.
 
-The [Ranking Criteria](/wiki/Ranking_Criteria#audio) has a rule noting that anything with an average bitrate above 192kbps is not allowed. In addition to this, anything under 128kbps is usually considered to be low quality.
+The [Ranking Criteria](/wiki/Ranking_Criteria#audio) specifies that average bit rate must be below 192kbps and above 128kbps. As reference, osu! Featured Artists songs are encoding with a constant bit rate of 192kbps.
 
 ### Using Audacity
 
@@ -97,3 +110,29 @@ ffmpeg -i input -c:a libmp3lame -q:a 4 -vn -sn -map_metadata -1 -map_chapters -1
 - `-vn -sn`: Remove video and subtitles if present.
 - `-map_metadata -1 -map_chapters -1`: Remove metadata and chapters if present.
 - `output.mp3`: Your output file. If the file name contains spaces, wrap it around double quotes (`"`).
+
+## Verify
+
+Optionally, after transcoding your audio or video files, it is recommended to check the technical information of such files to confirm that it has been processed in a way you expected, and in a way that would meet bit rate and other requirements.
+
+Software such as [MediaInfo](https://mediaarea.net/en/MediaInfo) can be used to see such information.
+
+### Using MediaInfo
+
+MediaInfo is very easy to use; after installing, open MediaInfo then open your file, and done. The technical information about that file will then appear.
+
+Screenshots are taken from a Linux desktop, but these should also apply on Windows and macOS.
+
+1. Open MediaInfo, and open the video or audio file you want to check.
+
+After opening MediaInfo, go into `File`, then `Open` and `Open file(s)...`.
+
+2. Change view from text to HTML.
+
+Once the file is opened, a condensed series of information about that file will appear but to see more, go into `View` and change it to `HTML`.
+
+3. Scroll down to the appropriate section.
+
+For video, scroll down to the `Video` section. For audio, instead scroll down to the `Audio` section.
+
+Here, you want to confirm certain things such as the format, resolution, and frame rate, or bit rate to see if it is what you have expected.
