@@ -23,7 +23,7 @@ Due to that reason, re-encoding should be avoided except if the source audio or 
 
 Videos encoded in the H.264 lossy video compression format is supported usually using the .mp4 file extension. Other formats such as H.265, VP9 and AV1 and file extensions such as .mkv and .mov are currently not supported.
 
-The [Ranking Criteria](/wiki/Ranking_Criteria) specifies a maximum video resolution with a width of 1280 pixels and height of 720 pixels, thus 1280x720 in the 16:9 aspect ration.
+The [Ranking Criteria](/wiki/Ranking_Criteria) specifies a maximum video resolution with a width of 1280 pixels and height of 720 pixels, or 1280x720 in the 16:9 aspect ratio.
 
 ### Using Handbrake
 
