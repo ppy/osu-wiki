@@ -10,7 +10,7 @@ tags:
 
 ![MWC 7K 2023 banner](img/mwc7k-2023-banner.jpg)
 
-The **osu!mania 7K World Cup 2023** (***MWC 7K 2023***) is a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/The_Team). It is the seventh instalment of the osu!mania 7K World Cup.
+The **osu!mania 7K World Cup 2023** (***MWC 7K 2023***) was a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/The_Team). It was the seventh instalment of the osu!mania 7K World Cup.
 
 ## Tournament schedule
 
@@ -27,7 +27,7 @@ The **osu!mania 7K World Cup 2023** (***MWC 7K 2023***) is a country-based osu!m
 
 ## Prizes
 
-The osu!mania 7K World Cup 2023 offers a minimum $1,200 cash prize pool and limited edition merch. The prize pool can be further increased from **[community donations](https://opencollective.com/osu-tournaments/events/osu-mania-7k-world-cup-2023-502fec83)!**
+The osu!mania 7K World Cup 2023 offered a minimum $1,200 cash prize pool and limited edition merch. The prize pool was further increased to $1,320 from **[community donations](https://opencollective.com/osu-tournaments/events/osu-mania-7k-world-cup-2023-502fec83).**
 
 | Placing | Prizes |
 | :-: | :-- |
@@ -37,7 +37,7 @@ The osu!mania 7K World Cup 2023 offers a minimum $1,200 cash prize pool and limi
 
 ## Organisation
 
-The osu!mania 7K World Cup 2023 is run by the osu! team and various community members.
+The osu!mania 7K World Cup 2023 was run by the osu! team and various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -100,15 +100,9 @@ The osu!mania 7K World Cup 2023 is run by the osu! team and various community me
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/c9e572884f0e731ba47fed1c11be3b88#file-mwc7k-2023-player-list-csv). 
 
-## Match schedule: Grand Finals
+## Podium
 
-### Saturday, 18 February 2023
-
-| Team A | Team B | Match time |  |
-| --: | :-- | :-- | :-: |
-| South Korea ::{ flag=KR }:: | ::{ flag=MY }:: Malaysia | [Feb 18 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230218T110000&p1=1440&p2=235&p3=122) | [^losers-finals] |
-| Philippines ::{ flag=PH }:: | ::{ flag=KR }:: South Korea | [Feb 18 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230218T120000&p1=1440&p2=145&p3=235) | [^grand-finals] |
-| Philippines ::{ flag=PH }:: | ::{ flag=MY }:: Malaysia | [Feb 18 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230218T120000&p1=1440&p2=145&p3=122) | [^grand-finals] |
+![](img/podium.jpg "MWC7K 2023 podium")
 
 ## Mappools
 
@@ -243,6 +237,17 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/c9e
 8. [yumemidoll - Lyrith -Meikyuu Lyrith- (Leeju) \[Stage 8: Awakening\]](https://osu.ppy.sh/beatmapsets/1919014#mania/3960063)
 
 ## Match results
+
+### Grand Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1yUga7xaDiXO7a0vRAmG7F8VNF3Jkvl_CMSiwBKPx47o).
+
+Saturday, 18 February 2023:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **South Korea** ::{ flag=KR }:: | **7** | 3 | ::{ flag=MY }:: Malaysia | [#1](https://osu.ppy.sh/community/matches/106910375) |
+| **Philippines** ::{ flag=PH }:: | **7** | 2 | ::{ flag=KR }:: South Korea | [#1](https://osu.ppy.sh/community/matches/106911235) |
 
 ### Finals
 
