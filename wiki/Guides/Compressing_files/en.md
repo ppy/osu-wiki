@@ -19,11 +19,13 @@ Due to that reason, re-encoding should be avoided except if the source audio or 
 - Too high of a resolution or average bit rate
 - Encoded in a incompatible format
 
+If you have to re-encode, it is suggested to use the highest quality source file available (e.g. highest resolution and/or bit rate) from which to be re-encoded from.
+
 ## Video
 
-Videos encoded in the H.264 lossy video compression format is supported usually using the .mp4 file extension. Other formats such as H.265, VP9 and AV1 and file extensions such as .mkv and .mov are currently not supported.
+Videos encoded in the H.264 format is supported usually using the .mp4 file extension. Other formats such as H.265, VP9 and AV1 and file extensions such as .mkv and .mov are currently not supported.
 
-The [Ranking Criteria](/wiki/Ranking_Criteria) specifies a maximum video resolution with a width of 1280 pixels and height of 720 pixels, or 1280x720 in the 16:9 aspect ratio.
+The [Ranking Criteria](/wiki/Ranking_Criteria#video_and_background) specifies a maximum video resolution with a width of 1280 pixels and height of 720 pixels, or 1280x720 in the 16:9 aspect ratio.
 
 ### Using Handbrake
 
@@ -78,7 +80,7 @@ ffmpeg -i input -c:v libx264 -crf 20 -preset slower -profile:v high -vf scale=-1
 
 ## Audio
 
-Audio encoded in either MP3 or OGG (Vorbis) lossy audio compression formats are supported with .mp3 and .ogg file extensions, respectively. Other formats such as AAC and OGG (Opus) and any lossless formats are not supported.
+Audio encoded in either MP3 or OGG (Vorbis) formats are supported with .mp3 and .ogg file extensions, respectively. Other formats such as AAC and OGG (Opus) and any lossless formats are not supported.
 
 The [Ranking Criteria](/wiki/Ranking_Criteria#audio) specifies that average bit rate must be below 192kbps and above 128kbps. As reference, osu! Featured Artists songs are encoding with a constant bit rate of 192kbps.
 
