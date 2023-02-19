@@ -66,17 +66,6 @@ This makes it harder to continue from a pause in the middle of active gameplay, 
 | Intentionally changed | Yes |
 | Needs further consideration | Yes |
 
-#### The Flashlight gradient does not match stable
-
-<!-- TODO: comparison images for relevant game modes  -->
-
-|  |  |
-| :-- | :-: |
-| Breaks backwards compatibility | No |
-| Classic mod revert support | No |
-| Intentionally changed | No |
-| Needs further consideration | Yes |
-
 #### The Easy mod no longer pauses gameplay when recovering from failure
 
 <!-- paragraph? -->
@@ -281,6 +270,19 @@ In stable, drumrolls could not be hit too quickly or too slowly. This restrictio
 | Intentionally changed | Yes? |
 | Needs further consideration | Yes |
 
+#### The Flashlight centre is aligned with the hit receptor
+
+<!-- TODO: comparison image  -->
+
+In stable, the Flashlight centre is offset a bit down and to the right, making more hit objects visible.
+
+|  |  |
+| :-- | :-: |
+| Breaks backwards compatibility | No |
+| Classic mod revert support | No |
+| Intentionally changed | No |
+| Needs further consideration | Yes |
+
 ### osu!catch
 
 #### Hyperdash generation can be different in some cases
@@ -373,6 +375,17 @@ In stable, osu!mania reverts changes to hit windows resulting from applications 
 |  |  |
 | :-- | :-: |
 | Breaks backwards compatibility | Yes |
+| Classic mod revert support | No |
+| Intentionally changed | No |
+| Needs further consideration | Yes |
+
+#### The Flashlight mod does not have a gradient
+
+<!-- TODO: comparison image  -->
+
+|  |  |
+| :-- | :-: |
+| Breaks backwards compatibility | No |
 | Classic mod revert support | No |
 | Intentionally changed | No |
 | Needs further consideration | Yes |
