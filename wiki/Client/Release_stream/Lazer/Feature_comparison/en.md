@@ -411,9 +411,19 @@ There are [designs](https://www.figma.com/file/ytnnne2TH8Z956Jxhiypqq/Beatmap-Ed
 
 ![](img/sb-triggers.gif)
 
-#### Beatmap backgrounds do not have the correct stretch mode for 4:3 storyboards.
+#### Beatmap backgrounds do not have the correct fill mode for 4:3 storyboards
 
-![](img/non-widescreen-sb.jpg)
+![](img/sb-bg-fill-mode.jpg)
+
+In stable, beatmap backgrounds and storyboards fill the height of the screen. In lazer, backgrounds fill the width of the screen, while storyboards still fill the height.
+
+This discrepancy causes inconsistent fill modes when a storyboard is overlayed on top of an already existing beatmap background.
+
+#### 4:3-only storyboards are not cropped to the intended aspect ratio
+
+![](img/sb-crop.jpg)
+
+Some storyboards are not designed to support anything other than a 4:3 aspect ratio, but storyboards in lazer always render at 16:9.
 
 ## Some cosmetic features are missing
 
