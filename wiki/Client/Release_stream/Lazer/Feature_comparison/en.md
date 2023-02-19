@@ -51,8 +51,6 @@ This page documents all new and missing features compared to osu!(stable), as we
 - No black bar behind the playfield in osu!taiko
 - Timing-based note colouring in osu!mania
 
-<!-- - osu!catch ?-->
-
 ## Gameplay differences 
 
 ### General
@@ -71,8 +69,6 @@ This makes it harder to continue from a pause in the middle of active gameplay, 
 #### The Flashlight gradient does not match stable
 
 <!-- TODO: comparison images for relevant game modes  -->
-
-<!-- TODO: verify for osu! mode -->
 
 |  |  |
 | :-- | :-: |
@@ -323,8 +319,6 @@ This functions similarly to ScoreV2 in stable.
 | Needs further consideration | No |
 
 #### Hold note ticks give score and are responsible for combo breaks
-
-![](img/hold-note-release-combo-break.gif)
 
 In stable, releasing during a hold note body would break combo immediately, but now it only breaks when missing a hold note tick.
 
