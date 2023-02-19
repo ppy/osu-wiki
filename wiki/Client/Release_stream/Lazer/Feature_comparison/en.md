@@ -285,15 +285,6 @@ In stable, drumrolls could not be hit too quickly or too slowly. This restrictio
 | Intentionally changed | Yes? |
 | Needs further consideration | Yes |
 
-#### Swells give a maximum of 50 score instead of 300 for each tick
-
-|  |  |
-| :-- | :-: |
-| Breaks backwards compatibility | Yes |
-| Classic mod revert support | No |
-| Intentionally changed | No? |
-| Needs further consideration | Yes |
-
 ### osu!catch
 
 #### Hyperdash generation can be different in some cases
@@ -350,7 +341,7 @@ This does allow for cheesing (a.k.a. "manipulating") by allowing wrist-jacking w
 
 <!-- TODO: how exactly -->
 
-Some beatmaps with SV gimmicks like teleports or stops do look as intended, but are otherwise playable.
+Some beatmaps with SV gimmicks like teleports or stops do not look as intended, but are otherwise playable.
 
 |  |  |
 | :-- | :-: |
