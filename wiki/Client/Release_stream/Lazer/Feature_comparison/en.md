@@ -55,11 +55,6 @@ This page documents all new and missing features compared to osu!(stable), as we
 
 ## Gameplay differences 
 
-<!--
-- Multiplayer
-  - TAG co-op mode doesn't exist
--->
-
 ### General
 
 #### Song playback ramps up and down when pausing and unpausing
@@ -130,6 +125,8 @@ All game modes use a grading system similar to the one in osu!mania on stable (c
 
 #### Hitsound volume cannot be adjusted in between notes
 
+<!-- TODO: may be fixed by https://github.com/ppy/osu/pull/22659 -->
+
 In stable, it is possible to change the volume of ghost taps in osu!taiko and osu!mania, or create gradual osu!taiko swell volume changes. In lazer, there is only per-note volume, making that impossible.
 
 |  |  |
@@ -139,7 +136,7 @@ In stable, it is possible to change the volume of ghost taps in osu!taiko and os
 | Intentionally changed | No |
 | Needs further consideration | Yes |
 
-#### Hit window edge calculations don't match stable
+#### Hit window edge calculations do not match stable
 
 When a hit lands right at the edge of the hit window, a different judgement may be given depending on the client version.
 
@@ -192,7 +189,7 @@ When a slider reaches its start time, the slider head will begin to move along t
 
 This kind of makes sense when you look at it, but adds complexity to computing gameplay (and potentially adds replay errors, especially with higher OD values and slider velocity).
 
-The rationale behind this change is simple: without it, having `Snaking out sliders` enabled becomes very awkward to visualise when a player hits late. Do you leave the original circle in place and delay the outward snaking? How does it catch up to the actual location of the slider ball if so? And on the contrary, if you don't delay the snaking, do you leave the head circle detached from the slider (please no)?
+The rationale behind this change is simple: without it, having `Snaking out sliders` enabled becomes very awkward to visualise when a player hits late. Do you leave the original circle in place and delay the outward snaking? How does it catch up to the actual location of the slider ball if so? And on the contrary, if you do not delay the snaking, do you leave the head circle detached from the slider (please no)?
 
 |  |  |
 | :-- | :-: |
@@ -261,21 +258,10 @@ More discussion and consideration will be needed for how much of Aspire beatmaps
 | :-- | :-: |
 | Breaks backwards compatibility | Yes |
 | Classic mod revert support | No |
-| Intentionally changed | Yes |
+| Intentionally changed | No |
 | Needs further consideration | Yes |
 
 ### osu!taiko
-
-#### The playfield aspect ratio is limited
-
-The osu!taiko playfield is stretched based on window size, making the apparent AR of gameplay change in line with window size. Originally this was limited completely as it affects playability but switched to only limiting the maximum aspect ratio due to community push-back for having it "as it was on stable".
-
-|  |  |
-| :-- | :-: |
-| Breaks backwards compatibility | No |
-| Classic mod revert support | Yes |
-| Intentionally changed | Yes |
-| Needs further consideration | Maybe |
 
 #### Notes that overlap swells cannot be hit
 
@@ -418,6 +404,12 @@ Medals do not get awarded. This is a feature that will be enabled after anti-che
 
 Performance points are not integrated into global or beatmap-specific leaderboards, but are instead integrated in a separate version of the website for now: <https://lazer.ppy.sh/>.
 
+### Multiplayer
+
+#### TAG co-op mode is not implemented
+
+This is planned, but no work has been started on this yet.
+
 ### Storyboarding
 
 #### The storyboard editor is not implemented
@@ -436,7 +428,7 @@ There are [designs](https://www.figma.com/file/ytnnne2TH8Z956Jxhiypqq/Beatmap-Ed
 
 These are features that are planned to come back at some point, but have not due to low priority.
 
-- Beatmap and replay comments do not exist
+- [Niconico](https://en.wikipedia.org/wiki/Niconico)-style scrolling replay comments
 - Combo bursts and their associated sounds
 - Countdowns
 - Cursor ripples
@@ -454,3 +446,4 @@ These are features that are planned to come back at some point, but have not due
 - New user file storage structure
 - `Unlimited` refresh rate setting is renamed to `Basically unlimited` and is limited to 1000 Hz
 - The mouse cursor is always confined in fullscreen mode
+- Support for wider range of aspect ratios
