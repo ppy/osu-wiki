@@ -1,6 +1,6 @@
 # Compressing files
 
-Each beatmap has a file size limit dictated by it's total length and any video and audio content must meet requirements for formats, resolutions, and bit rates.
+Each beatmap has a [file size limit dictated by its total length](/wiki/Beatmapping/Beatmap_submission#limitations), and any [video](/wiki/Ranking_Criteria#video-and-background) and [audio](/wiki/Ranking_Criteria#audio) content must meet format, resolution, and bit rate requirements.
 
 This guide will help you get your beatmap under that limit and meet such requirements.
 
@@ -9,23 +9,23 @@ This guide will help you get your beatmap under that limit and meet such require
 There are 2 types of compression. **Lossless** and **Lossy** compression.
 
 - **Lossless** compression implies that the quality never degrades and can thus be repeatedly compressed and decompressed.
-- **Lossy** compression uses certain powerful techniques to reduce file size at the expense of quality.
+- **Lossy** compression uses certain powerful techniques to greatly reduce file size at the expense of quality.
 
-To convert, or reduce either file size, average bitrate, or resolution of a audio or video file requires a process called **re-encoding**, or more known as **transcoding**. Transcoding an already lossy-compressed audio or video using lossy compression can result in varying degrees of further quality reduction depending on the settings used.
+The process of converting between audio and video formats, to reduce file size, average bitrate, or resolution, is called **re-encoding** or **transcoding**. Transcoding an already lossy-compressed audio or video using lossy compression can result in varying degrees of further quality reduction depending on the settings used.
 
-Due to that reason, re-encoding should be avoided except if the source audio or video file is any of the following:
+Due to that reason, re-encoding should be avoided except if the original audio or video file is any of the following:
 
 - Too large in file size
 - Too high of a resolution or average bit rate
-- Encoded in a incompatible format
+- Encoded in an incompatible format
 
-If you have to re-encode, it is suggested to use the highest quality source file available (e.g. highest resolution and/or bit rate) from which to be re-encoded from.
+In case re-encoding is necessary, it is suggested to use the highest-quality source file available, i.e. with the highest resolution and/or bit rate.
 
 ## Video
 
-Videos encoded in the H.264 format is supported usually using the .mp4 file extension. Other formats such as H.265, VP9 and AV1 and file extensions such as .mkv and .mov are currently not supported.
+The osu! game client supports video encoded in the H.264 format with the `.mp4` file extension. Other formats such as H.265, VP9, and AV1 and file extensions such as `.mkv` and `.mov` are currently not supported.
 
-The [Ranking Criteria](/wiki/Ranking_Criteria#video_and_background) specifies a maximum video resolution with a width of 1280 pixels and height of 720 pixels, or 1280x720 in the 16:9 aspect ratio.
+The [ranking criteria](/wiki/Ranking_Criteria#video_and_background) specify a maximum video resolution of 1280x720 pixels.
 
 ### Using Handbrake
 
@@ -80,7 +80,7 @@ ffmpeg -i input -c:v libx264 -crf 20 -preset slower -profile:v high -vf scale=-1
 
 ## Audio
 
-Audio encoded in either MP3 or OGG (Vorbis) formats are supported with .mp3 and .ogg file extensions, respectively. Other formats such as AAC and OGG (Opus) and any lossless formats are not supported.
+Audio encoded in either MP3 or OGG (Vorbis) formats are supported with `.mp3` and `.ogg` file extensions, respectively. Other formats such as AAC and OGG (Opus) and any lossless formats are not supported by the game client.
 
 The [Ranking Criteria](/wiki/Ranking_Criteria#audio) specifies that average bit rate must be below 192kbps and above 128kbps. As reference, osu! Featured Artists songs are encoding with a constant bit rate of 192kbps.
 
@@ -113,26 +113,15 @@ ffmpeg -i input -c:a libmp3lame -q:a 4 -vn -sn -map_metadata -1 -map_chapters -1
 - `-map_metadata -1 -map_chapters -1`: Remove metadata and chapters if present.
 - `output.mp3`: Your output file. If the file name contains spaces, wrap it around double quotes (`"`).
 
-## Verify
+## Verification
 
-Optionally, after transcoding your audio or video files, it is recommended to check the technical information of such files to confirm that it has been processed in a way you expected, and in a way that would meet bit rate and other requirements.
+It is recommended to check the technical information of transcoded audio and video files to confirm that they have been processed as expected, and in a way that would meet bit rate and other requirements.
 
 Software such as [MediaInfo](https://mediaarea.net/en/MediaInfo) can be used to see such information.
 
 ### Using MediaInfo
 
-MediaInfo is very easy to use; after installing, open MediaInfo then open your file, and done. The technical information about that file will then appear.
+MediaInfo is very easy to use. After installing, open the file with MediaInfo and the technical information about that file will appear.
 
-1. Open MediaInfo, and open the video or audio file you want to check.
-
-After opening MediaInfo, go into `File`, then `Open` and `Open file(s)...`.
-
-2. Change view from text to HTML.
-
-Once the file is opened, a condensed series of information about that file will appear but to see more, go into `View` and change it to `HTML`.
-
-3. Scroll down to the appropriate section.
-
-For video, scroll down to the `Video` section. For audio, instead scroll down to the `Audio` section.
-
-Here, you want to confirm certain things such as the format, resolution, and frame rate, or bit rate to see if it is what you have expected.
+1. Right-click any file and select MediaInfo from the context menu, or use `File` -> `Open` -> `Open file(s)...` in MediaInfo.
+2. Change the view from `Basic` to either `Tree`, `Text`, or `HTML`. The default `Basic` view only displays a condensed series of information.
