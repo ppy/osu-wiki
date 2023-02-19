@@ -4,30 +4,30 @@ Users interested in joining the [Beatmap Nominators](/wiki/People/The_Team/Beatm
 
 Applications are conducted via the [NAT website](http://bn.mappersguild.com/bnapps).
 
-Applicants are required to meet a minimum [kudosu](/wiki/Modding/Kudosu) threshold, submit at least two maps they have recently modded, and complete a [Beatmap Nominator Test](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) on the [Ranking Criteria](/wiki/Ranking_Criteria) in order to submit their application. A message from the NAT will be sent once a verdict has been decided. More information on applying can be found [on the website]((http://bn.mappersguild.com/bnapps)).
+Applicants are required to meet a minimum [kudosu](/wiki/Modding/Kudosu) threshold, submit at least two [maps](/wiki/Beatmap) they have recently [modded](/wiki/Modding), and complete a [Beatmap Nominator Test](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) on the [Ranking Criteria](/wiki/Ranking_Criteria) in order to submit their application. A message from the NAT will be sent once a verdict has been decided. More information on applying can be found [on the website]((http://bn.mappersguild.com/bnapps)).
 
 ## Basic criteria
 
 Modders aiming to apply to the Beatmap Nominators must fulfil the following criteria:
 
-- They have accumulated at least 200 [kudosu](/wiki/Modding/Kudosu) for osu! modders, or 150 [kudosu](/wiki/Modding/Kudosu) for osu!taiko/osu!catch/osu!mania modders.
+- They have accumulated at least 200 [kudosu](/wiki/Modding/Kudosu) for [osu!](/wiki/Game_mode/osu!) modders, or 150 kudosu for [osu!taiko](wiki/Game_mode/osu!taiko)/[osu!catch](/wiki/Game_mode/osu!catch)/[osu!mania](/wiki/Game_mode/osu!mania) modders.
 - They provide 3 of their mods which they think qualify them to be a part of the Beatmap Nominators.
   - Previous members of BN/NAT are allowed to submit a minimum of 2 mods for their application.
 
 ### Modding expectations
 
-*See also: [Common modding mistakes](/wiki/Guides/) and [osu!mania modding guide](/wiki/Guides/osu!mania_modding_guide/)*
+*See also: [Common modding mistakes](/wiki/Guides) and [osu!mania modding guide](/wiki/Guides/osu!mania_modding_guide)*
 
 Submitted mods should show that a user is capable of analysing and improving maps to a standard fit for the Beatmap Nominators.
 
 The following are modding traits expected of Beatmap Nominators. Failure to display any of these traits may result in a rejected application.
 
 - **Coverage of all common difficulty levels**
-  - Most beatmaps will have a spread of [difficulties](/wiki/Beatmap/Difficulty/) ranging from easy up to expert, and so Beatmap Nominators must be proficient in modding such difficulties. Proficiency in modding extremely high level difficulties is not required.
+  - Most beatmaps will have a spread of [difficulties](/wiki/Beatmap/Difficulty) ranging from easy up to expert, and so Beatmap Nominators must be proficient in modding such difficulties. Proficiency in modding extremely high level difficulties is not required.
 - **Identification of unrankable issues, including ones tools can't detect, such as incorrect timing or metadata**
 - **Comparison between parts of a map to support issues or suggestions**
   - Referencing other parts of the map is useful for keeping suggestions in line with the original styles and ideas the mapper has in their map.
-- **Commentary about a wide variety of map elements, such as rhythm, spacing, movement, intensity, contrast, and consistency**
+- **Commentary about a wide variety of map elements, such as [rhythm](/wiki/Beatmapping/Mapping_techniques/Rhythm), spacing, movement, intensity, contrast, and consistency**
   - While Beatmap Nominators are encouraged to ask for help when needed, they should be able to judge almost all aspects of mapping independently to a decent level.
 - **Identification of both isolated issues and general map-wide issues**
 - **Consideration of mappers' intentions when identifying issues and giving suggestions**
@@ -49,6 +49,7 @@ During the individual stage, 2-4 evaluators are randomly assigned to the applica
 The evaluators will look over your application and evaluate your modding performance and your behaviour. They will typically comment down any positive and negative posts in the mods. Each evaluator will then vote “pass”, “neutral”, or “fail” for the application.
 
 Applicants will be evaluated on the following criteria:
+
 - Modding: Knowledge of the general [Ranking Criteria](/wiki/Ranking_Criteria) and specific criteria of each game mode. Adherence to the [modding expectations](#modding-expectations). Additional abilities like Metadata, Timing, and some others will also be taken into consideration.
 - General attitude: Tone of delivery of the mods and other behavioural expectations from the [Code of Conduct](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping), as well as general behaviour in chat/forums.
 
