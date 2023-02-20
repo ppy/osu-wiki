@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Aturan konten musik
 
 Dengan banyaknya variasi musik yang tersedia, sebagian besar lagu akan baik-baik saja untuk digunakan di osu!, asalkan tidak:

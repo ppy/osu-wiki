@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Konten eksplisit
 
 ![Tampilan beatmap yang mengandung konten eksplisit](img/explicit-tag.jpg "Contoh beatmap yang ditandai dengan label 'eksplisit'.")
