@@ -2,6 +2,8 @@
 stub: true
 tags:
   - patterns
+outdated_since: 5b5b5e3d7a589696c027660ee4ca56ebccd48b79
+outdated_translation: true
 ---
 
 # Pattern

@@ -4,6 +4,8 @@ stub: true
 tags:
   - patterns
   - 排法
+outdated_since: 5b5b5e3d7a589696c027660ee4ca56ebccd48b79
+outdated_translation: true
 ---
 
 # 排法
