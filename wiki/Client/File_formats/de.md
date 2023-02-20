@@ -21,7 +21,7 @@ Wenn du weißt, wie du ein Skin- oder Beatmap-Archiv erstellst, welches von osu!
 
 ### Verwendung einer Archivierungssoftware
 
-1. Installiere ein Dateiarchivierungsprogramm, das `.zip`-Dateien erzeugen kann, wie z. B. [7-Zip](https://www.7-zip.org) oder [WinRAR](https://www.win-rar.com).
+1. Installiere ein Dateiarchivierungsprogramm, das `.zip`-Dateien erzeugen kann, wie z. B. [7-Zip](https://www.7-zip.org/) oder [WinRAR](https://www.rarlab.com/).
 2. Lege alle Dateien, die du archivieren möchtest, in einen separaten Ordner.
 3. Klicke mit der rechten Maustaste auf den Ordner und wähle  `Zu einem Archiv hinzufügen...` (alternativ kannst du das auch im Archivierungsprogramm selbst machen).
 4. Selektiere das Archivformat ZIP.

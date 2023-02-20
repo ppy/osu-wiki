@@ -330,7 +330,7 @@ The third object is a slider:
 - At the position (100,100)
 - At 12.6 seconds
 - Starting a new combo
-- With a compound bézier curve slider body, where the first curve's control points are (100,100), (200,200), and (250,200), and the second curve's control points are (250,200), and (300,150). The duplicated control points denote a [red anchor point](/wiki/Hit_object/Slider_anchor). 
+- With a compound bézier curve slider body, where the first curve's control points are (100,100), (200,200), and (250,200), and the second curve's control points are (250,200), and (300,150). The duplicated control points denote a [red anchor point](/wiki/Hit_object/Slider_anchor).
 - Repeating once
 - 310.123 osu! pixels long
 - With a whistle hitsound at the beginning, and a whistle hitsound playing with the soft set at the end

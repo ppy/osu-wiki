@@ -1,7 +1,5 @@
 ---
 layout: main_page
-outdated_translation: true
-outdated_since: 1da34ad18aa8565e779e579594fa8c606ee00808
 ---
 
 <!-- Do not add any empty lines inside this div. -->
@@ -115,9 +113,9 @@ osu!のビートマップはすべて、ユーザーの手によって作られ�
 
 osu!は、開発、メンテナンス、コミュニティ管理に協力する多くのユーザーなしでは成り立ちませんでした。
 
-[チーム](/wiki/People/The_Team): [開発者](/wiki/People/The_Team/Developers) • [グローバル モデレーション チーム(GMT)](/wiki/People/The_Team/Global_Moderation_Team) • [サポートチーム](/wiki/People/The_Team/Support_Team) • [ノミネーション アシスタント チーム(NAT)](/wiki/People/The_Team/Nomination_Assessment_Team) • [ビートマップ ノミネーター(BN)](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Project Loved](/wiki/People/The_Team/Project_Loved_Team) • [ビートマップ スポットライト キュレーター(BSC)](wiki/People/The_Team/Beatmap_Spotlight_Curators)
+[チーム](/wiki/People/The_Team): [開発者](/wiki/People/The_Team/Developers) • [グローバル モデレーション チーム(GMT)](/wiki/People/The_Team/Global_Moderation_Team) • [サポートチーム](/wiki/People/The_Team/Support_Team) • [ノミネーション アシスタント チーム(NAT)](/wiki/People/The_Team/Nomination_Assessment_Team) • [ビートマップ ノミネーター(BN)](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Project Loved](/wiki/People/The_Team/Project_Loved_Team) • [ビートマップ スポットライト キュレーター(BSC)](/wiki/People/The_Team/Beatmap_Spotlight_Curators)
 
-[コミュニティへの貢献](/wiki/People/Community_Contributors) • [ユニークなタイトルを持つユーザー](/wiki/People/Users_with_unique_titles) • [トーナメント委員会](/wiki/People/Tournament_Committee) • [パフォーマンスポイント委員会](/wiki/People/Performance_Points_Committee) • [osu!wikiのモデレーター](/wiki/People/osu!_wiki_maintainers)
+[コミュニティへの貢献](/wiki/People/Community_Contributors) • [ユニークなタイトルを持つユーザー](/wiki/People/Users_with_unique_titles) • [トーナメント委員会](/wiki/People/Tournament_Committee) • [パフォーマンスポイント委員会](/wiki/People/Performance_Points_Committee) • [osu! wikiのモデレーター](/wiki/People/osu!_wiki_maintainers)
 
 </div>
 <div class="wiki-main-page-panel">
