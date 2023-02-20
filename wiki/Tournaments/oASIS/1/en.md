@@ -78,7 +78,38 @@ Listed below are the players who managed to qualify into the Round of 16 (along 
 | 15 | ::{ flag=ID }:: [HyuugaDesuka](https://osu.ppy.sh/users/22684871) | 7.705 |
 | 16 | ::{ flag=ID }:: [-Lunix](https://osu.ppy.sh/users/12964890) | 7.550 |
 
-## Mappools  
+## Mappools
+
+### Quarterfinals
+
+**[Download the mappack here! (152 MB)](https://mappack.yewonkim.tk/download?filename=oasis2023qf1676803648731.zip)**
+
+- NoMod
+  1. [Satono Diamond (CV: Tachibana Hina) & Kitasan Black (CV: Yano Hinaki) - Ambitious World (SatonoDiamond) \[Let's start my Challenge!\]](https://osu.ppy.sh/beatmapsets/1809169#osu/3710664)
+  2. [celas - Azul (Remix) (Satellite) \[Fort's Extra\]](https://osu.ppy.sh/beatmapsets/1369453#osu/3160793)
+  3. [Rise Against - Disparity By Design (pishifat) \[Extra\]](https://osu.ppy.sh/beatmapsets/360325#osu/1768260)
+  4. [Mitsukiyo - Constant Moderato (araran) \[Sunazuka Akira's Extra\]](https://osu.ppy.sh/beatmapsets/1640689#osu/3369276)
+  5. [Ariana Grande - 7 rings (wafer) \[6 rings\]](https://osu.ppy.sh/beatmapsets/1168016#osu/2436954)
+- Hidden
+  1. [Yorushika - Arugu (Faito) \[Enerugi's Extra\]](https://osu.ppy.sh/beatmapsets/1108809#osu/2372012)
+  2. [Silver Forest - Tsurupettan (YokesPai) \[kolik's Lunatic\]](https://osu.ppy.sh/beatmapsets/1731247#osu/3538794)
+  3. [Enako feat. Pmarusama - Identity Meltdown (TV Size) (Reiszen) \[Expert\]](https://osu.ppy.sh/beatmapsets/1911771#osu/3943503)
+- HardRock
+  1. [LIP x LIP - Chiisana Lion feat. Minami (CV: Toyonaga Toshiyuki) (Jian) \[SeaRasp's Insane\]](https://osu.ppy.sh/beatmapsets/905572#osu/1901118)
+  2. [TOMOSUKE feat. Crystal Paloa - Seasons (jycool) \[seasons\]](https://osu.ppy.sh/beatmapsets/1732626#osu/3541530)
+  3. [HyuN - You'Re aRleAdY dEAd (J1\_) \[lfj's Insane\]](https://osu.ppy.sh/beatmapsets/891441#osu/1863464)
+- DoubleTime
+  1. [eufonius - pieces (My Angel Rize) \[Frontier's Insane\]](https://osu.ppy.sh/beatmapsets/1115379#osu/2396844)
+  2. [Xceon feat. Mayumi Morinaga - Ikuseisou no Monogatari \~The Story of Eternity\~ (Seikatu) \[Insane\]](https://osu.ppy.sh/beatmapsets/306782#osu/686559)
+  3. [:) feat. KAFU - Egonomy (Ryuusei Aika) \[kieg's Hard\]](https://osu.ppy.sh/beatmapsets/1745150#osu/3594762)
+  4. [\*NSYNC - I Want You Back (Aranel) \[Apology\]](https://osu.ppy.sh/beatmapsets/1737620#osu/3551511)
+- FreeMod
+  1. [Nekrogoblikon - Dressed as Goblins (Dada) \[Another\]](https://osu.ppy.sh/beatmapsets/1233657#osu/2867842)
+  2. [onoken - K8017 (tsukamaete) \[Another\]](https://osu.ppy.sh/beatmapsets/13470#osu/49822)
+  3. [kamome sano - Elemental Creation (kamome sano Remix) (UberFazz) \[EXHAUST\]](https://osu.ppy.sh/beatmapsets/1569809#osu/3205645)
+  4. [Yunomi & nicamoq - Indoor Kei Nara Trackmaker (curryrice Remix) (toybot) \[sing's master\]](https://osu.ppy.sh/beatmapsets/926885#osu/1935933)
+- Tiebreaker
+  1. **[Eisyo-kobu - Oriental Blossom (Rolni) \[Infinity\]](https://osu.ppy.sh/beatmapsets/1023172#osu/2140353)**
 
 ### Round of 16
 
@@ -125,6 +156,33 @@ Listed below are the players who managed to qualify into the Round of 16 (along 
   1. [Eri Sasaki - Ring of Fortune (CelsiusLK) \[Insane\]](https://osu.ppy.sh/beatmapsets/317236#osu/706798)
   2. [SHK - SO HOT (Remix by SHK) (AngelHoney) \[Hard\]](https://osu.ppy.sh/beatmapsets/40086#osu/127409)
   3. [HyuN - Illusion of Inflict (Icekalt) \[Light Insane\]](https://osu.ppy.sh/beatmapsets/968923#osu/2041171)
+
+## Match results
+
+### Round of 16
+
+Friday, 17 February 2023:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[Icun](https://osu.ppy.sh/users/17908427)** ::{ flag=ID }:: | **5** | 2 | ::{ flag=ID }:: [CubeixID200](https://osu.ppy.sh/users/10678919) | [#1](https://osu.ppy.sh/community/matches/106873620) |
+| Upper | **[-CircleParadox-](https://osu.ppy.sh/users/10423227)** ::{ flag=ID }:: | **5** | 4 | ::{ flag=ID }:: [Frixell](https://osu.ppy.sh/users/15601286) | [#1](https://osu.ppy.sh/community/matches/106891584) |
+
+Saturday, 18 February 2023:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | [Zoont](https://osu.ppy.sh/users/7109269) ::{ flag=ID }:: | 4 | **5** | ::{ flag=ID }:: **[cerena](https://osu.ppy.sh/users/5411734)** | [#1](https://osu.ppy.sh/community/matches/106913383) |
+| Upper | **[nsfuu](https://osu.ppy.sh/users/10849159)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: [ArchieA7](https://osu.ppy.sh/users/7087699) | [#1](https://osu.ppy.sh/community/matches/106914487) |
+| Upper | **[akebono](https://osu.ppy.sh/users/1815316)** ::{ flag=ID }:: | **5** | 4 | ::{ flag=ID }:: [HyuugaDesuka](https://osu.ppy.sh/users/22684871) | [#1](https://osu.ppy.sh/community/matches/106915198) |
+| Upper | **[im a cute bunny](https://osu.ppy.sh/users/12578000)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [-Lunix](https://osu.ppy.sh/users/12964890) | [#1](https://osu.ppy.sh/community/matches/106912181) |
+
+Sunday, 19 February 2023:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | [AlanEt](https://osu.ppy.sh/users/15037088) ::{ flag=ID }:: | 4 | **5** | ::{ flag=ID }:: **[fnayR](https://osu.ppy.sh/users/2800253)** | [#1](https://osu.ppy.sh/community/matches/106937367) |
+| Upper | **[SDKO](https://osu.ppy.sh/users/4858555)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [Honoka-Chan](https://osu.ppy.sh/users/11912828) | [#1](https://osu.ppy.sh/community/matches/106931400) |
 
 ## Ruleset
 
@@ -188,7 +246,7 @@ Listed below are the players who managed to qualify into the Round of 16 (along 
    - The winner of the `!roll` gets to determine who gets the first pick and the second ban.
    - The loser of the `!roll` gets the opposite by default.
    - This rule does not apply in the Qualifier lobbies.
-2. Each player has to ban **one beatmap** from the corresponding mappool. These beatmaps will not be allowed to be picked by any player during the entire match.
+2. Each player has to ban **two beatmaps** from the corresponding mappool. These beatmaps will not be allowed to be picked by any player during the entire match.
    - Barring the tiebreaker, there are no restrictions as to which maps may and may not be banned in a match.
    - Banning does not apply in the Qualifier lobbies.
 3. **There will be no warm-up beatmaps to be played in the multiplayer lobby.** Players who are looking to warm up before the match are expected to do so by their own before the match commences.
