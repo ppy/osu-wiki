@@ -12,7 +12,7 @@ Also referred to as holds in the editor, **hold notes** (long notes) are notes t
 
 ## Shield
 
-**Shields** occur when a note is placed consecutively before a hold note in the same column. They play very similarly to [minijacks](/wiki/Beatmap/Pattern/Mania/Jacks/en.md#Minijack).
+**Shields** occur when a note is placed consecutively before a hold note in the same column. They play very similarly to [minijacks](/wiki/Beatmap/Pattern/Mania/Jacks#minijack).
 
 ![](img/shield.png)
 

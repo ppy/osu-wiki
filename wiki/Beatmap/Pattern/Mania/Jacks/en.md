@@ -4,7 +4,7 @@ stub: true
 
 # Jack
 
-Within pattern specific context, **jacks** are typically used to refer to 3 or more consecutive notes within the same column. They are referred to as **jacks** since the motion required to play them mimics the motion of a jackhammer. Jacks are typically snapped at 1/4th or higher snap intervals and tend to be less notes overall, differentiating it from an [anchor](wiki/pattern/mania/anchors). You will often see jacks represent consecutive repeated sounds that occur within the music.
+Within pattern specific context, **jacks** are typically used to refer to 3 or more consecutive notes within the same column. They are referred to as **jacks** since the motion required to play them mimics the motion of a jackhammer. Jacks are typically snapped at 1/4th or higher snap intervals and tend to be less notes overall, differentiating it from an [anchor](/wiki/Beatmap/Pattern/Mania/Anchors). You will often see jacks represent consecutive repeated sounds that occur within the music.
 
 ![](img/jack.png "This image displays a jack within it's traditional usage of the word.")
 
