@@ -62,6 +62,6 @@ El requisito de 8 mods para aquellos que solicitan después de ser eliminados po
 | Actividad | 30 days | 8 mods en 60 días |
 | Buena | 30 days | *n/a* |
 
-Los antiguos Beatmap Nominators que renunciaron en buenos términos en los últimos 6 meses tienen la opción de solicitar instantáneamente volver a unirse como miembros de pleno derecho, sin tener que realizar la [prueba de Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test), ni proporcionar mods para la evaluación.
+Los antiguos Beatmap Nominators que renunciaron en buenos términos en los últimos 6 meses tienen la opción de solicitar instantáneamente volver a unirse como miembros completos, sin tener que realizar la [prueba de Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test), ni proporcionar mods para la evaluación.
 
-Los antiguos Beatmap Nominators que renunciaron en buenos términos durante el año pasado todavía tienen que volver a presentar la solicitud correctamente para volver a unirse, y se convertirán en miembros de pleno derecho inmediatamente después de ser aceptados.
+Los antiguos Beatmap Nominators que renunciaron en buenos términos durante el año pasado todavía tienen que volver a presentar la solicitud correctamente para volver a unirse, y se convertirán en miembros completos inmediatamente después de ser aceptados.
