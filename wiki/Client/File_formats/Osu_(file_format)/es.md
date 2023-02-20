@@ -94,7 +94,7 @@ Estas opciones solo son relevantes cuando se abren mapas en el [editor de beatma
 *Sintaxis del fondo:* `0,0,filename,xOffset,yOffset`
 
 - **`filename` (String):** Ubicación de la imagen de fondo relativa al directorio del beatmap. Las comillas dobles generalmente se incluyen alrededor del nombre del archivo, pero no son obligatorias.
-- **`xOffset` (Integer)** y **`yOffset` (Integer):** Desplazamiento en [osu! pixels](/wiki/Client/Beatmap_editor/osu!_pixel) del centro de la pantalla. Por ejemplo, un desplazamiento de `50,100` haría que el fondo mostrara 50 osu! pixelsa la derecha y 100 osu! pixels hacia abajo desde el centro de la pantalla. Si el desplazamiento es `0,0`, escribirlo es opcional.
+- **`xOffset` (Integer)** y **`yOffset` (Integer):** Desplazamiento en [osu! pixels](/wiki/Client/Beatmap_editor/osu!_pixel) del centro de la pantalla. Por ejemplo, un desplazamiento de `50,100` haría que el fondo mostrara 50 osu! pixels a la derecha y 100 osu! pixels hacia abajo desde el centro de la pantalla. Si el desplazamiento es `0,0`, escribirlo es opcional.
 
 ### Vídeos
 
