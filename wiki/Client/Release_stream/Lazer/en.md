@@ -28,9 +28,9 @@ tags:
 
 ## History
 
-The project started in mid-2015[^peppy-2017] as a new design for the stable client's interface made by [flyte](https://osu.ppy.sh/users/3103765), osu!'s lead designer. This was first showcased in a teaser video the same year.<!-- TODO: can't find a link/archive for this -->
+The project started in mid-2015[^peppy-2017] as a new design for the stable client's interface codenamed "osu!next" made by [flyte](https://osu.ppy.sh/users/3103765), osu!'s lead designer. This was first showcased in a [teaser video](https://www.youtube.com/watch?v=lrWyqpNUwBo) the same year.
 
-Draft versions were uploaded on flyte's [design blog "osu!next"](https://osunext.tumblr.com/) starting from 2016.
+Draft versions were uploaded on flyte's [design blog](https://osunext.tumblr.com/) starting from 2016.
 
 Implementing the design and new planned features using stable's code base proved to be difficult or even nearly impossible due to technical debt. As such, work started on a complete rewrite of the client early 2016 and a first release was published on GitHub on 12 February 2017, containing a bare-minimum implementation of gameplay in the osu! game mode, and the new menu designs.
 
