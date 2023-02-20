@@ -4,7 +4,7 @@ stub: true
 
 # Chordstream
 
-_For stream types specific to 4-key, refer to [streams](mania/streams)._
+*For stream types specific to 4-key, refer to [streams](mania/streams).*
 
 **Chordstreams** are a type of [stream](wiki/pattern/mania/streams/en.md#streams) which involve different chord sizes. The stream is usually on 1/4 with chords every 1/1 or 1/2 snap interval. In key modes outside of 4K, "chordstream" usually refers to streams involving 3 or more notes within the chords.
 

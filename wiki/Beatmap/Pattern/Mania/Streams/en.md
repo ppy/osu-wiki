@@ -4,7 +4,7 @@ stub: true
 
 # Stream
 
-_For specific stream types unrelated to 4-key, refer to [chordstreams](mania/chordstreams)._
+*For specific stream types unrelated to 4-key, refer to [chordstreams](mania/chordstreams).*
 
 **Streams** are constant notes within the same snap interval that occur for at least one beat, avoiding an occurance of a [minijack](/wiki/Beatmap/Pattern/Mania/Jacks/en.md#Minijack). There are many different types of streams that impose different levels of strain on the player. When a stream is used on its own, it's likely referring to a **single note stream**.
 
