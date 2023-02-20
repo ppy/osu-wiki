@@ -15,4 +15,4 @@ A **pattern** is a small set of [hit objects](/wiki/Hit_object) within a [beatma
 - [Jump](Jump)
 - [Stream](Stream)
 
-Refer to [osu!mania Patterns](Mania) for patterns specific to the osu!mania game mode.
+Refer to [osu!mania patterns](osu!mania) for patterns specific to the osu!mania game mode.
