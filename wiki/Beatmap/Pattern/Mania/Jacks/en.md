@@ -24,6 +24,6 @@ A **longjack** is a more strenuous type of **jack** which uses 4 or more consecu
 
 ## Chordjack
 
-**Chordjacks** features a mix of different types of jacks along with chords. This term is typically only used for patterns denser than [quadstreams](mania/streams/quadstreams) and as such a more frequent usage of chords is required.
+**Chordjacks** features a mix of different types of jacks along with chords. This term is typically only used for patterns denser than [quadstreams](/wiki/Beatmap/Pattern/Mania/Streams#quadstream) and as such a more frequent usage of chords is required.
 
 ![](img/chordjack.png)
