@@ -12,7 +12,17 @@ A **pattern** is a small set of [hit objects](/wiki/Hit_object) within a [beatma
 
 <!-- TODO: add more -->
 
-- [Jump](Jump)
-- [Stream](Stream)
+### osu!
 
-Refer to [osu!mania patterns](osu!mania) for patterns specific to the osu!mania game mode.
+- [Jump](osu!/Jump)
+- [Stream](osu!/Stream)
+
+### osu!mania
+
+- [Chord](osu!mania/Chord)
+- [Stream](osu!mania/Stream)
+- [Jack](osu!mania/Jack)
+- [Anchor](osu!mania/Anchor)
+- [Trill](osu!mania/Trill)
+- [Hold note](osu!mania/Hold_note)
+- [Chordstream](osu!mania/Chordstream)
