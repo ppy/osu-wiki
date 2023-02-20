@@ -2,7 +2,7 @@
 stub: true
 ---
 
-# Hold Note
+# Hold note
 
 Also referred to as holds in the editor, **hold notes** (long notes) are notes that require you to hold and release them afterwards. They are often referred to as long notes, noodles or LNs and are used to represent prolonged sounds in the music.
 
