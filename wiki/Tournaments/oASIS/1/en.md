@@ -157,6 +157,33 @@ Listed below are the players who managed to qualify into the Round of 16 (along 
   2. [SHK - SO HOT (Remix by SHK) (AngelHoney) \[Hard\]](https://osu.ppy.sh/beatmapsets/40086#osu/127409)
   3. [HyuN - Illusion of Inflict (Icekalt) \[Light Insane\]](https://osu.ppy.sh/beatmapsets/968923#osu/2041171)
 
+## Match results
+
+### Round of 16
+
+Friday, 17 February 2023:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[Icun](https://osu.ppy.sh/users/17908427)** ::{ flag=ID }:: | **5** | 2 | ::{ flag=ID }:: [CubeixID200](https://osu.ppy.sh/users/10678919) | [#1](https://osu.ppy.sh/community/matches/106873620) |
+| Upper | **[-CircleParadox-](https://osu.ppy.sh/users/10423227)** ::{ flag=ID }:: | **5** | 4 | ::{ flag=ID }:: [Frixell](https://osu.ppy.sh/users/15601286) | [#1](https://osu.ppy.sh/community/matches/106891584) |
+
+Saturday, 18 February 2023:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | [Zoont](https://osu.ppy.sh/users/7109269) ::{ flag=ID }:: | 4 | **5** | ::{ flag=ID }:: **[cerena](https://osu.ppy.sh/users/5411734)** | [#1](https://osu.ppy.sh/community/matches/106913383) |
+| Upper | **[nsfuu](https://osu.ppy.sh/users/10849159)** ::{ flag=ID }:: | **5** | 1 | ::{ flag=ID }:: [ArchieA7](https://osu.ppy.sh/users/7087699) | [#1](https://osu.ppy.sh/community/matches/106914487) |
+| Upper | **[akebono](https://osu.ppy.sh/users/1815316)** ::{ flag=ID }:: | **5** | 4 | ::{ flag=ID }:: [HyuugaDesuka](https://osu.ppy.sh/users/22684871) | [#1](https://osu.ppy.sh/community/matches/106915198) |
+| Upper | **[im a cute bunny](https://osu.ppy.sh/users/12578000)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [-Lunix](https://osu.ppy.sh/users/12964890) | [#1](https://osu.ppy.sh/community/matches/106912181) |
+
+Sunday, 19 February 2023:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | [AlanEt](https://osu.ppy.sh/users/15037088) ::{ flag=ID }:: | 4 | **5** | ::{ flag=ID }:: **[fnayR](https://osu.ppy.sh/users/2800253)** | [#1](https://osu.ppy.sh/community/matches/106937367) |
+| Upper | **[SDKO](https://osu.ppy.sh/users/4858555)** ::{ flag=ID }:: | **5** | 0 | ::{ flag=ID }:: [Honoka-Chan](https://osu.ppy.sh/users/11912828) | [#1](https://osu.ppy.sh/community/matches/106931400) |
+
 ## Ruleset
 
 ### General rules
