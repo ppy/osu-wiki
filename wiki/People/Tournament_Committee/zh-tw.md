@@ -22,6 +22,7 @@ no_native_review: true
 
 ## 成員
 
+- ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595)
 - ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578)
 - ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
 - ::{ flag=US }:: [D I O](https://osu.ppy.sh/users/3958619)

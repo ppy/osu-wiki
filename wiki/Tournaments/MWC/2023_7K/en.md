@@ -10,7 +10,7 @@ tags:
 
 ![MWC 7K 2023 banner](img/mwc7k-2023-banner.jpg)
 
-The **osu!mania 7K World Cup 2023** (***MWC 7K 2023***) is a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/The_Team). It is the seventh instalment of the osu!mania 7K World Cup.
+The **osu!mania 7K World Cup 2023** (***MWC 7K 2023***) was a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/The_Team). It was the seventh instalment of the osu!mania 7K World Cup.
 
 ## Tournament schedule
 
@@ -27,7 +27,7 @@ The **osu!mania 7K World Cup 2023** (***MWC 7K 2023***) is a country-based osu!m
 
 ## Prizes
 
-The osu!mania 7K World Cup 2023 offers a minimum $1,200 cash prize pool and limited edition merch. The prize pool can be further increased from **[community donations](https://opencollective.com/osu-tournaments/events/osu-mania-7k-world-cup-2023-502fec83)!**
+The osu!mania 7K World Cup 2023 offered a minimum $1,200 cash prize pool and limited edition merch. The prize pool was further increased to $1,320 from **[community donations](https://opencollective.com/osu-tournaments/events/osu-mania-7k-world-cup-2023-502fec83).**
 
 | Placing | Prizes |
 | :-: | :-- |
@@ -37,7 +37,7 @@ The osu!mania 7K World Cup 2023 offers a minimum $1,200 cash prize pool and limi
 
 ## Organisation
 
-The osu!mania 7K World Cup 2023 is run by the osu! team and various community members.
+The osu!mania 7K World Cup 2023 was run by the osu! team and various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -54,7 +54,6 @@ The osu!mania 7K World Cup 2023 is run by the osu! team and various community me
 - [Challonge bracket](https://challonge.com/MWC7K_2023)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/106) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
 - [Information spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRQVIOCI9kotrvH-FWrip3BlS37lVN9AacPfTlDDXbW-zTfOxqKFtuKZw7yodW6UBSSzijuKJag0biI/pubhtml)
-- [Donate to the prize pool](https://opencollective.com/osu-tournaments/events/osu-mania-7k-world-cup-2023-502fec83)
 
 ## Participants
 
@@ -100,33 +99,61 @@ The osu!mania 7K World Cup 2023 is run by the osu! team and various community me
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/c9e572884f0e731ba47fed1c11be3b88#file-mwc7k-2023-player-list-csv). 
 
-## Match schedule: Semifinals
+## Podium
 
-### Saturday, 4 February 2023
-
-| Team A | Team B | Match time |  |
-| --: | :-- | :-- | :-: |
-| China ::{ flag=CN }:: | ::{ flag=ID }:: Indonesia | [Feb 4 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230204T100000&p1=1440&p2=33&p3=108) | [^losers-bracket] |
-| Japan ::{ flag=JP }:: | ::{ flag=FR }:: France | [Feb 4 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230204T120000&p1=1440&p2=248&p3=195) | [^losers-bracket] |
-| Brazil ::{ flag=BR }:: | ::{ flag=TH }:: Thailand | [Feb 4 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230204T150000&p1=1440&p2=45&p3=28) | [^losers-bracket] |
-| Spain ::{ flag=ES }:: | ::{ flag=CA }:: Canada | [Feb 4 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230204T170000&p1=1440&p2=141&p3=188) | [^losers-bracket] |
-
-### Sunday, 5 February 2023
-
-| Team A | Team B | Match time |  |
-| --: | :-- | :-- | :-: |
-| South Korea ::{ flag=KR }:: | ::{ flag=US }:: United States | [Feb 5 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230205T030000&p1=1440&p2=235&p3=263) | [^winners-bracket] |
-| Canada ::{ flag=CA }:: | ::{ flag=JP }:: Japan | [Feb 5 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230205T040000&p1=1440&p2=188&p3=248) | [^potential-match] |
-| Philippines ::{ flag=PH }:: | ::{ flag=MY }:: Malaysia | [Feb 5 (Sun) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230205T080000&p1=1440&p2=145&p3=122) | [^winners-bracket] |
-| Spain ::{ flag=ES }:: | ::{ flag=JP }:: Japan | [Feb 5 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230205T100000&p1=1440&p2=141&p3=248) | [^potential-match] |
-| China ::{ flag=CN }:: | ::{ flag=TH }:: Thailand | [Feb 5 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230205T110000&p1=1440&p2=33&p3=28) | [^potential-match] |
-| Indonesia ::{ flag=ID }:: | ::{ flag=TH }:: Thailand | [Feb 5 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230205T110000&p1=1440&p2=108&p3=28) | [^potential-match] |
-| China ::{ flag=CN }:: | ::{ flag=BR }:: Brazil | [Feb 5 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230205T150000&p1=1440&p2=33&p3=45) | [^potential-match] |
-| Indonesia ::{ flag=ID }:: | ::{ flag=BR }:: Brazil | [Feb 5 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230205T150000&p1=1440&p2=108&p3=45) | [^potential-match] |
-| Spain ::{ flag=ES }:: | ::{ flag=FR }:: France | [Feb 5 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230205T170000&p1=1440&p2=141&p3=195) | [^potential-match] |
-| Canada ::{ flag=CA }:: | ::{ flag=FR }:: France | [Feb 5 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230205T170000&p1=1440&p2=188&p3=195) | [^potential-match] |
+![](img/podium.jpg "MWC7K 2023 podium")
 
 ## Mappools
+
+### Grand Finals
+
+**[Download the mappack here (105 MB)](https://drive.google.com/uc?id=1o3K_OQdOW6VpaVEqI0tX6TXO1upOo3sl)**
+
+- Rice
+  1. [ROKINA - Schwerkraft (Jinjin) \[Event Horizon\]](https://osu.ppy.sh/beatmapsets/1939270#mania/4009399)
+  2. [BACO (Flonne / Rasperyl) - Love & Justice (Jinjin) \[GOD+\]](https://osu.ppy.sh/beatmapsets/1939269#mania/4009398)
+  3. [aaaa - For All (Level 51) \[Lifeweaver\]](https://osu.ppy.sh/beatmapsets/1939268#mania/4009397)
+  4. [syzfonics - The Azure Box (pwhk) \[the Sky is the Limit\]](https://osu.ppy.sh/beatmapsets/1939263#mania/4009392)
+  5. [Hylen - Minerva (paulkappa) \[Death's Gaze\]](https://osu.ppy.sh/beatmapsets/1939250#mania/4009321)
+  6. [MisomyL - Mukishitsu Sekai ni Irudori o (Evening) \[Iroshizuku st1 1.2x (186bpm)\]](https://osu.ppy.sh/beatmapsets/1714977#mania/3504148)
+  7. [Frums - ultra-blazures (Wonki) \[Blazing inferno\]](https://osu.ppy.sh/beatmapsets/1939259#mania/4009367)
+- Long Note
+  1. [Camellia - Never Gonna Give You Up (Camellia Remix) (Leeju) \[rickrollab\]](https://osu.ppy.sh/beatmapsets/1939327#mania/4009578)
+  2. [Wolpis Carter - Batsubyou (Kim\_GodSSI) \[Love You (Cut Ver.)\]](https://osu.ppy.sh/beatmapsets/1657994#mania/4009444)
+  3. [SAMString - Ataraxia (Remuring) \[REMUJinjin's Tranquility\]](https://osu.ppy.sh/beatmapsets/1939418#mania/4009794)
+  4. [polysha - Ultimate Weapon -the Last Ruling- (Cut Ver.) (ruka) \[Majestic\]](https://osu.ppy.sh/beatmapsets/1939252#mania/4009324)
+  5. [wotoha - Digital Life Hacker (LostCool) \[Digital Friend Request (MWC Edit)\]](https://osu.ppy.sh/beatmapsets/1710778#mania/4009429)
+- Hybrid
+  1. [Rabbit House & Evin a'k - optimal solution (Maxus) \[parallel world\]](https://osu.ppy.sh/beatmapsets/1939282#mania/4009453)
+  2. [seatrus - MONONOKE (Remuring) \[SPIRIT\]](https://osu.ppy.sh/beatmapsets/1668945#mania/4009804)
+  3. [SDMNE - Beyond The Aexis (Leeju) \[Leeju's 7K Celestia\]](https://osu.ppy.sh/beatmapsets/1939330#mania/4009587)
+- Tiebreaker
+  1. **[katagiri - Kyuukou (\_underjoy) \[Overflow\]](https://osu.ppy.sh/beatmapsets/1939261#mania/4009375)**
+
+### Finals
+
+**[Download the mappack here (131 MB)](https://drive.google.com/uc?id=1HaLN16aTNmWvz-ZgpXceNnxaXsL-0re0)**
+
+- Rice
+  1. [Mitsuyoshi Takenobu no Otouto - Koakuma no Yuuenchi (pwhk) \[Daemon Playground\]](https://osu.ppy.sh/beatmapsets/1935798#mania/4000930)
+  2. [LV.4 feat. Yuu Ikeba - Sentimental Surge (\_underjoy) \[Outburst\]](https://osu.ppy.sh/beatmapsets/1935688#mania/4000612)
+  3. [xi remixed by cosMo@bousouP - FREEDOM DiVE \[METAL+DIMENSIONS\] (Cut Ver.) (Wonki) \[Extra\]](https://osu.ppy.sh/beatmapsets/1935496#mania/4000121)
+  4. [Helblinde - Unconquered (Jinjin) \[Invictus\]](https://osu.ppy.sh/beatmapsets/1935526#mania/4000233)
+  5. [96-glass - I'm Kidding (Cut Ver.) (lenpai) \[probably funny\]](https://osu.ppy.sh/beatmapsets/1935502#mania/4000138)
+  6. [HyuN feat. Syepias - CROSS SOUL (paulkappa) \[Vanity in the Dark\]](https://osu.ppy.sh/beatmapsets/1935504#mania/4000148)
+  7. [Asatsumei - MEI VS KILLER FISH - THE ULTIMATE BATTLE!!! (Maxus) \[Maxus vs. CS Battle of the QuagETs!!!\]](https://osu.ppy.sh/beatmapsets/1935512#mania/4000169)
+- Long Note
+  1. [GYARI - Akari Has Arrived! (Leeju) \[Leeju's 7K Mogumogu\]](https://osu.ppy.sh/beatmapsets/1935481#mania/4000086)
+  2. [in love with a ghost - complex feelings about my own existence feat. jungkook (Jinjin) \[existential crisis feat. noodles\]](https://osu.ppy.sh/beatmapsets/1935525#mania/4000231)
+  3. [sky\_delta - Cryonix (\_Kobii) \[Hope \[190BPM\]\]](https://osu.ppy.sh/beatmapsets/1935499#mania/4000132)
+  4. [Iyowa (covered by suisoh) - Netsu Ijou (Cut Ver.) (ruka) \[Prayers\]](https://osu.ppy.sh/beatmapsets/1935503#mania/4000142)
+  5. [Nijisanji - Virtual to LIVE (LostCool) \[Towards a Bright Tomorrow (MWC Edit)\]](https://osu.ppy.sh/beatmapsets/1139542#mania/4000232)
+- Hybrid
+  1. [Tatsh - Xevel (paulkappa) \[SORROW (MWC Edit)\]](https://osu.ppy.sh/beatmapsets/1602668#mania/3687994)
+  2. [t+pazolite & Getty - Twisted Drop Party (Remuring) \[I'm a bad boy\]](https://osu.ppy.sh/beatmapsets/1935508#mania/4000157)
+  3. [Hino Isuka vs. s-don - Glooorious!! (\_underjoy) \[Booouncing!!\]](https://osu.ppy.sh/beatmapsets/1935691#mania/4000616)
+- Tiebreaker
+  1. **[Frums - of Ambrosia (Blocko) \[Blocko's 7K Amrita (MWC edit)\]](https://osu.ppy.sh/beatmapsets/1935552#mania/4000296)**
 
 ### Semifinals
 
@@ -209,6 +236,57 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/c9e
 8. [yumemidoll - Lyrith -Meikyuu Lyrith- (Leeju) \[Stage 8: Awakening\]](https://osu.ppy.sh/beatmapsets/1919014#mania/3960063)
 
 ## Match results
+
+### Grand Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1yUga7xaDiXO7a0vRAmG7F8VNF3Jkvl_CMSiwBKPx47o).
+
+Saturday, 18 February 2023:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **South Korea** ::{ flag=KR }:: | **7** | 3 | ::{ flag=MY }:: Malaysia | [#1](https://osu.ppy.sh/community/matches/106910375) |
+| **Philippines** ::{ flag=PH }:: | **7** | 2 | ::{ flag=KR }:: South Korea | [#1](https://osu.ppy.sh/community/matches/106911235) |
+
+### Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1J0ARNkYDcIBxwff76Q02uBjOsSsp9e7b-DyZqzdPhZg).
+
+Saturday, 11 February 2023:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| South Korea ::{ flag=KR }:: | 4 | **7** | ::{ flag=PH }:: **Philippines** | [#1](https://osu.ppy.sh/community/matches/106783100) |
+| **Malaysia** ::{ flag=MY }:: | **7** | 5 | ::{ flag=CN }:: China | [#1](https://osu.ppy.sh/community/matches/106784356) |
+
+Sunday, 12 February 2023:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| United States ::{ flag=US }:: | 2 | **7** | ::{ flag=JP }:: **Japan** | [#1](https://osu.ppy.sh/community/matches/106803907) |
+| **Malaysia** ::{ flag=MY }:: | **7** | 0 | ::{ flag=JP }:: Japan | [#1](https://osu.ppy.sh/community/matches/106805914) |
+
+### Semifinals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/18ipwo22IkNTCRlQXflvVqIVmsM3TjPdzOiZ2xaiaYhk).
+
+Saturday, 4 February 2023:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **China** ::{ flag=CN }:: | **6** | 0 | ::{ flag=ID }:: Indonesia | [#1](https://osu.ppy.sh/community/matches/106650407) |
+| **Japan** ::{ flag=JP }:: | **6** | 1 | ::{ flag=FR }:: France | [#1](https://osu.ppy.sh/community/matches/106651220) |
+| Brazil ::{ flag=BR }:: | 2 | **6** | ::{ flag=TH }:: **Thailand** | [#1](https://osu.ppy.sh/community/matches/106653966) |
+| **Spain** ::{ flag=ES }:: | **6** | 2 | ::{ flag=CA }:: Canada | [#1](https://osu.ppy.sh/community/matches/106659867) |
+
+Sunday, 5 February 2023:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **South Korea** ::{ flag=KR }:: | **6** | 0 | ::{ flag=US }:: United States | [#1](https://osu.ppy.sh/community/matches/106669977) |
+| Spain ::{ flag=ES }:: | 2 | **6** | ::{ flag=JP }:: **Japan** | [#1](https://osu.ppy.sh/community/matches/106673765) |
+| **China** ::{ flag=CN }:: | **6** | 0 | ::{ flag=TH }:: Thailand | [#1](https://osu.ppy.sh/community/matches/106674541) |
+| **Philippines** ::{ flag=PH }:: | **0** | -1 | ::{ flag=MY }:: Malaysia | [*win by default*](https://osu.ppy.sh/community/matches/106676391) |
 
 ### Quarterfinals
 
@@ -436,8 +514,5 @@ The final standings for the Qualifier stage can be found at the following [sprea
 
 ## Notes
 
-[^winners-bracket]: Winners bracket match
-[^losers-bracket]: Losers bracket match
-[^potential-match]: Potential match – final matchup depends on the results of the preceding Losers Bracket matches
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same average rank

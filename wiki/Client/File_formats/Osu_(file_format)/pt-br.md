@@ -273,7 +273,7 @@ Ao construir curvas para um slider, `x` e `y` são utilizados para o primeiro po
 
 Existem quatro tipos de curvas do slider no osu!:
 
-- **Bézier (B):** [Curvas de Bézier](https://pt.wikipedia.org/wiki/Curva_de_B%C3%A9zier) de grau arbitrário podem ser feitas. Múltiplas curvas de bézier podem ser conectadas em um único slider repetindo seus pontos de interseção.
+- **Bézier (B):** [Curvas de Bézier](https://pt.wikipedia.org/wiki/Curva_de_Bézier) de grau arbitrário podem ser feitas. Múltiplas curvas de bézier podem ser conectadas em um único slider repetindo seus pontos de interseção.
 - **Centripetal catmull-rom (C):** [Curvas de catmull](https://en.wikipedia.org/wiki/Centripetal_Catmull–Rom_spline) são uma alternativa de interpolação às curvas de bézier. Elas são raramente utilizadas hoje devido a sua falta de beleza.
 - **Linear (L):** Essas curvas formam um caminho reto entre todos seus pontos.
 - **Círculo perfeito (P):** Círculos perfeitos são limitados a três pontos (incluindo a posição do hit object) que definem o limite de um círculo. Utilizar mais que três pontos resultará na troca do tipo de curva para bézier.
