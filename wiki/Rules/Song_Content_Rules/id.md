@@ -1,6 +1,5 @@
 ---
-outdated_since: be8ba0f4615a5d5580a1452220ae0bdf2e4d4229
-outdated_translation: true
+no_native_review: true
 ---
 
 # Aturan konten musik
@@ -9,15 +8,16 @@ Dengan banyaknya variasi musik yang tersedia, sebagian besar lagu akan baik-baik
 
 - Mengandung hal yang sangat politis
 - Bersifat diskriminatif terhadap suatu ras ataupun kalangan tertentu
-- Memiliki volume lagu yang dengan sengaja dipasang sedemikian keras hingga memunculkan efek *clipping* yang berlebihan
+- Memiliki volume lagu yang sangat keras
+- Dimodifikasi secara sengaja hingga menghasilkan efek *clipping* atau distorsi yang tidak diinginkan oleh artis
 
 Harap diperhatikan bahwa lagu dengan konten eksplisit telah memiliki [regulasi konten eksplisit](/wiki/Rules/Explicit_Content) terpisah.
 
 ## Apa yang dapat tergolong sebagai konten "sangat politis"?
 
-Perlu diingat bahwa ini merupakan gim ritme dan secara ketat membahasa membahas hal itu sesuai dengan [peraturan komunitas \#3](/wiki/Rules#peraturan-komunitas), konten yang diangap terlalu politis oleh pemerintah dilarang digunakan.
+Dengan tujuan untuk membuat permainan tentang ritme tetap berpusat pada ritme dan sesuai dengan [peraturan komunitas](/wiki/Rules#peraturan-komunitas) #3, konten yang dianggap terlalu politis oleh administrasi dilarang digunakan.
 
-Kami tidak menganut satu perspektif tertentu dari dunia perpolitikan—osu! sangat tidak ingin terlibat dengan hal yang politis dan kami ingin semua orang bersenang-senang di gim ini, bukannya memulai perseteruan atau pertengkaran mengenai politik.
+Kami tidak menganut satu perspektif tertentu dari dunia perpolitikan—osu! sangat tidak ingin terlibat dengan hal yang politis dan kami ingin semua orang bersenang-senang di game ini, bukannya memulai perseteruan atau pertengkaran mengenai politik.
 
 ## Apa yang akan terjadi jika lagu yang saya gunakan kurang baik digunakan?
 
