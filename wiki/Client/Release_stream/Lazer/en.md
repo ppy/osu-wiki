@@ -12,6 +12,7 @@ tags:
 # Lazer release stream
 
 ::: Infobox
+
 ![](/img/lazer.png "The osu!(lazer) client logo, a stylised version of the osu! cookie")
 
 [Download](https://github.com/ppy/osu#running-osu) • [Issue tracker](https://github.com/ppy/osu/issues) • [Discussions](https://github.com/ppy/osu/discussions)
@@ -20,6 +21,7 @@ tags:
 | :-- | :-- |
 | First release | 2017-02-12 |
 | Open source | Yes |
+
 :::
 
 *For common questions regarding updating to lazer, and the new client itself, see: [Help Centre/Upgrading to lazer](/wiki/Help_centre/Upgrading_to_lazer)*
