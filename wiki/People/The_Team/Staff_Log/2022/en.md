@@ -592,7 +592,7 @@ Abbreviations for user groups are used throughout this log:
 - 2022-12-06: Removed [Nokashi](https://osu.ppy.sh/users/5431196) from **Project Loved Team**
 - 2022-12-07: Added [Maxus](https://osu.ppy.sh/users/4335785) to **Project Loved Team**
 - 2022-12-07: Added [Eriha](https://osu.ppy.sh/users/16320311) to **Project Loved Team**
-- 2022-12-11: Added [Zeus](https://osu.ppy.sh/users/5464437) to **osu! Alumni**
+- 2022-12-11: Added [Zeus-](https://osu.ppy.sh/users/5464437) to **osu! Alumni**
 - 2022-12-06: Removed [stupud man](https://osu.ppy.sh/users/2141612) from **Project Loved Team**
 - 2022-12-11: Removed [Firika](https://osu.ppy.sh/users/9590557) from **GMT**
 - 2022-12-16: Added [-Kazu-](https://osu.ppy.sh/users/920861) to **Project Loved Team**
