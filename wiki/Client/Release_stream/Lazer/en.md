@@ -36,7 +36,7 @@ Draft versions were uploaded on flyte's [design blog](https://osunext.tumblr.com
 
 Implementing the design and new planned features using stable's code base proved to be difficult or even nearly impossible due to technical debt. As such, work started on a complete rewrite of the client early 2016 and a first release was published on GitHub on 12 February 2017, containing a bare-minimum implementation of gameplay in the osu! game mode, and the new menu designs.
 
-A framework is concurrently written as a separate project, the osu!framework, acting as a space for game components and systems that could be useful in other games.
+A framework is concurrently maintained as a separate project, the [osu!framework](https://github.com/ppy/osu-framework), to separate lower-level responsibilities at a code level. It is hoped that the framework could be useful in other games or applications.
 
 ## References
 
