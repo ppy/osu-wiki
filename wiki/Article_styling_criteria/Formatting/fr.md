@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 88d0725244a8214079c1dddabcb434d39ee850fd
----
-
 # Mise en forme
 
 *Pour les normes de rédaction, voir : [Critères de mise en forme d'article/Rédaction](../Writing)*\
@@ -75,6 +70,20 @@ outdated: true
 ```
 
 Lorsque vous ajoutez cette balise à un article, vous devez également ajouter des [commentaires](#commentaires) pour expliquer ce qui doit être mis à jour pour supprimer la balise.
+
+### Traductions obsolètes
+
+Les articles traduits qui sont obsolètes doivent utiliser le tag `outdated_translation` lorsque la variante anglaise est mise à jour, à l'exception de reformulations mineures, d'ajustements grammaticaux et autres, qui n'affectent pas le sens de l'article.
+
+```yaml
+outdated_translation: true
+```
+
+Lorsque les traductions deviennent obsolètes, elles doivent également recevoir le tag `outdated_since` qui pointe vers le premier commit où la version anglaise est mise à jour.
+
+```yaml
+outdated_since: 29eac89cd535f8b071ca000af8fe4f0be22bdc9b
+```
 
 ### Tags
 
@@ -805,7 +814,7 @@ Voici un exemple de ce à quoi doit ressembler un tableau :
 
 Une infobox est un bloc de largeur fixe qui est aligné sur le côté droit de l'article. Il peut contenir une image pertinente, qui explique le texte environnant, ou un bloc de navigation qui renvoie à d'autres articles de la même catégorie.
 
-Exemple d'utilisation, rendu à droite :
+Exemple d'utilisation, rendu à droite (ou au-dessus, sur les petits écrans) :
 
 ::: Infobox
 ![](/wiki/shared/mods/SD.png "Icône du mod Sudden Death")
@@ -821,6 +830,8 @@ Les infoboxes doivent être utilisées avec prudence dans les cas suivants :
 
 - Les sections courtes : le titre de la section suivante apparaît sous les infoboxes, laissant un grand vide après le texte.
 - Plusieurs images à la fois : utilisez plutôt des infoboxes individuelles pour un meilleur rendu.
+
+Seuls les niveaux de titre 4 et 5 sont autorisés dans une infobox. Ceux-ci n'apparaissent pas dans la table des matières et tout ce qui est inférieur est trop grand. Toute [erreur de CI checks](/wiki/osu!_wiki/Maintenance#ci-checks) peut devoir être contournée pour cette raison.
 
 ## Notes de bas de page
 
