@@ -1,12 +1,8 @@
 ---
-outdated_translation: true
-outdated_since: aa750946913bfd81cd3ede0b23dbf925b56d7bdd
 tags:
   - supporter tag
   - osu!supporter tag
 ---
-
-<!--The strings on the website on line 150 have been updated as of https://github.com/ppy/osu-web/pull/9820. To update this page, also check if the corresponding strings on crowdin need to be updated.-->
 
 # osu!supporter
 
@@ -147,8 +143,8 @@ osu!supporter peut également être offert à un autre joueur en entrant son nom
 
 Une fois la transaction terminée, un nouvel événement apparaîtra dans la section `Activité récente` du profil du donateur et du bénéficiaire :
 
-- `{nom_d'utilisateur} a choisi de soutenir osu! - merci pour votre générosité !` si c'est la première fois que l'utilisateur reçoit un osu!supporter.
-- `{nom_d'utilisateur} a de nouveau choisi de soutenir osu! - merci pour votre générosité !` si l'utilisateur a déjà été un osu!supporter auparavant.
+- `{nom_d'utilisateur} a soutenu osu! - merci pour votre générosité !` si c'est la première fois que l'utilisateur reçoit un osu!supporter ou l'offre à quelqu'un d'autre.
+- `{nom_d'utilisateur} a de nouveau choisi de soutenir osu! - merci pour votre générosité !` si l'utilisateur a déjà été un osu!supporter ou l'a déjà offert auparavant.
 - `{nom_d'utilisateur} a reçu l'osu!supporter en cadeau !` dans le cas où le tag a été offert.
 
 En outre, le donateur et le bénéficiaire recevront tous deux des notifications par e-mail mentionnant l'achat.
