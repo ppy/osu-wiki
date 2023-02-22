@@ -25,7 +25,7 @@ A continuación se enumeran las configuraciones regionales compatibles con la wi
 | `it.md` | Italiano | Italiano |
 | `ja.md` | Japonés | 日本語 |
 | `ko.md` | Coreano | 한국어 |
-| `nl.md` | Holandés | Nederlands |
+| `nl.md` | Neerlandés | Nederlands |
 | `no.md` | Noruego | Norsk |
 | `pl.md` | Polaco | Polski |
 | `pt.md` | Portugués | Português |
@@ -41,7 +41,7 @@ A continuación se enumeran las configuraciones regionales compatibles con la wi
 | `zh.md` | Chino (Simplificado) | 简体中文 |
 | `zh-tw.md` | Chino tradicional (Taiwán) | 繁體中文（台灣） |
 
-*Nota: El sitio web les dará a los lectores la versión de un artículo en su idioma seleccionado. Si no está disponible, se dará la variante inglesa.*
+*Nota: El sitio web les dará a los lectores la versión de un artículo en su idioma seleccionado. Si no está disponible, se dará la versión en inglés.*
 
 ## Formato de serialización
 
@@ -73,13 +73,13 @@ Al agregar esta etiqueta a un artículo, también se deben agregar [comentarios]
 
 ### Traducciones obsoletas
 
-Los artículos traducidos que estén obsoletos deben usar la etiqueta `outdated_translation` cuando se actualice la variante inglesa, excepto en el caso de cambios menores de redacción, gramática y similares que no afecten al significado del artículo.
+Los artículos traducidos que estén obsoletos deben usar la etiqueta `outdated_translation` cuando se actualice la versión en inglés, excepto en el caso de cambios menores de redacción, gramática y similares que no afecten al significado del artículo.
 
 ```yaml
 outdated_translation: true
 ```
 
-Al desactualizar las traducciones, también deben recibir una etiqueta `outdated_since` que apunta a la primera confirmación donde se actualizó la variante inglesa.
+Al desactualizar las traducciones, también deben recibir una etiqueta `outdated_since` que apunta a la primera confirmación donde se actualizó la versión en inglés.
 
 ```yaml
 outdated_since: 29eac89cd535f8b071ca000af8fe4f0be22bdc9b
@@ -89,7 +89,7 @@ outdated_since: 29eac89cd535f8b071ca000af8fe4f0be22bdc9b
 
 Las etiquetas ayudan al motor de búsqueda del sitio web a consultar mejor los artículos. Las etiquetas deben estar escritas en el mismo idioma que el artículo e incluir la lista original de etiquetas. Las etiquetas deben usar letras minúsculas cuando corresponda.
 
-Por ejemplo, un artículo llamado "Discusión de beatmap" puede incluir las siguientes etiquetas:
+Por ejemplo, un artículo llamado «Discusión de beatmaps» puede incluir las siguientes etiquetas:
 
 ```yaml
 tags:
@@ -358,8 +358,6 @@ Los encabezamientos de sección no deben saltarse un nivel de encabezamiento (es
 
 Es posible redefinir el identificador de una sección, que se utiliza para enlazar directamente con ella. Los identificadores personalizados deben utilizarse en caso de que los generados automáticamente sean demasiado largos o contengan signos de puntuación complicados o imágenes:
 
-<!-- TODO: remove the {id=...} example when https://github.com/ppy/osu-web/issues/8057 is closed -->
-
 ```markdown
 ## Ya ha pasado el tiempo de espera. ¿Cómo puedo apelar? {#apelación}
 
@@ -454,7 +452,7 @@ La marca para el código es una marca grave (`` ` ``). Para poner marcas graves 
 Cuando represente las teclas del teclado, use letras mayúsculas para caracteres individuales y mayúsculas y minúsculas para los modificadores. Use el símbolo más (`+`) (sin código) para representar combinaciones de teclas. (Ejemplo que se muestra a continuación.)
 
 ```markdown
-pippi se escribe con una "p" minúscula como peppy.
+pippi se escribe con una «p» minúscula como peppy.
 
 Presione `Ctrl` + `O` para abrir el cuadro de diálogo abierto.
 ```
@@ -730,7 +728,7 @@ Se debe evitar anotar las imágenes, ya que es difícil para los traductores (y 
 
 #### Traducir imágenes anotadas
 
-Al traducir imágenes anotadas, la versión de la imagen localizada debe colocarse en el mismo directorio que la versión original (es decir, la variante inglesa). El nombre de archivo de una versión de imagen localizada debe comenzar con el nombre de la versión original, seguido de un guión, seguido del nombre de la configuración regional (en letras mayúsculas). Vea los siguientes ejemplos:
+Al traducir imágenes anotadas, la versión de la imagen localizada debe colocarse en el mismo directorio que la versión original (es decir, la versión en inglés). El nombre de archivo de una versión de imagen localizada debe comenzar con el nombre de la versión original, seguido de un guión, seguido del nombre de la configuración regional (en letras mayúsculas). Vea los siguientes ejemplos:
 
 - `hardrock-mod-vs-easy-mod.jpg` para ingles
 - `hardrock-mod-vs-easy-mod-DE.jpg` para alemán
@@ -787,7 +785,7 @@ La fila delimitadora (la siguiente línea después del encabezamiento de la tabl
 El siguiente es un ejemplo de cómo debería verse una tabla:
 
 ```markdown
-| Equipo "Picturesque" rojo | Puntuación | Equipo "Statuesque" azul | Promedio de estrellas de los beatmaps |
+| Equipo «Picturesque» rojo | Puntuación | Equipo «Statuesque» azul | Promedio de estrellas de los beatmaps |
 | :-- | :-: | --: | :-- |
 | **peppy** | 5 - 2 | pippi | 9.3 estrellas |
 | Aiko | 1 - 6 | **Alisa** | 4.2 estrellas |
