@@ -29,12 +29,6 @@ El registro informal es especial y se da a un pequeño puñado de artículos. Al
 
 Para ambos registros, se deben seguir todas las reglas de esta parte del criterio para el estilo de los artículos. Las excepciones para cualquiera de los dos registros serán anotadas.
 
-## Localismos
-
-*Para ejemplos de localismos, véase [Localismo](https://es.wikipedia.org/wiki/Localismo#Español_o_castellano)*
-
-No use localismos, ya que cualquier jugador de cualquier país debería poder entender estos artículos.
-
 ## Capitalización
 
 ### Nombres de los artículos
