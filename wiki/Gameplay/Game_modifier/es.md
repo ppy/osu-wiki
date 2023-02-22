@@ -1,5 +1,4 @@
 ---
-no_native_review: true
 tags:
  - mod
  - game modifier
@@ -17,15 +16,15 @@ tags:
 
 # Modificador de juego
 
-*Para otros usos, véase [Mod (disambiguation)](/wiki/Disambiguation/Mod).*
+*Para otros usos, véase [Mod (desambiguación)](/wiki/Disambiguation/Mod).*
 
-![Pantalla de selección de mod](img/mod-selection-screen.jpg "comparación entre las pantallas de selección de mods de los modos de juego osu!(arriba a la izquierda), osu!taiko (arriba a la derecha), osu!catch (abajo a la izquierda) y osu!mania (abajo a la derecha)")
+![Pantalla de selección de mods](img/mod-selection-screen.jpg "comparación entre las pantallas de selección de mods de los modos de juego osu! (arriba a la izquierda), osu!taiko (arriba a la derecha), osu!catch (abajo a la izquierda) y osu!mania (abajo a la derecha)")
 
-Los **modificadores de juego** (o "mod" para abreviar) son modificaciones opcionales de los elementos y ajustes de un [beatmap](/wiki/Beatmap) que los jugadores pueden habilitar desde la `Pantalla de selección de mods` (arriba). Los mods pueden hacer los beatmaps más fáciles, más difíciles o simplemente divertidos.
+Los **modificadores de juego** (o «mods» para abreviar) son modificaciones opcionales de los elementos y ajustes de un [beatmap](/wiki/Beatmap) que los jugadores pueden habilitar desde la `Pantalla de selección de mods` (arriba). Los mods pueden hacer los beatmaps más fáciles, más difíciles o simplemente divertidos.
 
-Los jugadores pueden acceder a la `Pantalla de selección de mods` en la pantalla de selección de canciones haciendo clic en el botón `Mods` cerca de la esquina inferior izquierda de la pantalla o presionando `F1` en su teclado. Una vez en la `Pantalla de selección de mods`, también hay atajos de teclado que pueden ser usados para seleccionar mods específicos. Estos atajos pueden ser cambiados en las Opciones.
+Los jugadores pueden acceder a la `Pantalla de selección de mods` en la pantalla de selección de canciones haciendo clic en el botón `Mods` cerca de la esquina inferior izquierda de la pantalla o presionando `F1` en su teclado. Una vez en la `Pantalla de selección de mods`, también hay atajos de teclado que pueden ser usados para seleccionar mods específicos. Estos atajos pueden ser cambiados en Opciones.
 
-En la pantalla de selección, los mods se separan en tres categorías: `Reducción de dificultad`, `Aumento de dificultad`, y `Especial`, y pueden reducir, aumentar o eliminar el [`Multiplicador de puntuación`](/wiki/Game_modifier/Score_multiplier). Cuando se usan dos mods simultáneamente, el multiplicador respectivo de los mods se multiplicará conjuntamente (por ejemplo, `1.06x * 1.12x = 1.1872x`).
+En la pantalla de selección, los mods se separan en tres categorías: `Reducción de dificultad`, `Aumento de dificultad`, y `Especiales`, y pueden reducir, aumentar o eliminar el [`multiplicador de puntuación`](/wiki/Game_modifier/Score_multiplier). Cuando se usan dos mods simultáneamente, el multiplicador respectivo de los mods se multiplicará conjuntamente (por ejemplo, `1.06x * 1.12x = 1.1872x`).
 
 ## Lista de mods
 
@@ -50,7 +49,7 @@ Cada uno de los mods enumerados a continuación tendrá el icono de sus modos de
   - [Fade In (FI)](/wiki/Game_modifier/Fade_In) ![][osu!mania]
 - [Flashlight (FL)](/wiki/Game_modifier/Flashlight) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
-### Especial
+### Especiales
 
 - [Relax (RL)](/wiki/Game_modifier/Relax) ![][osu!] ![][osu!taiko] ![][osu!catch]
 - [Autopilot (AP)](/wiki/Game_modifier/Autopilot) ![][osu!]
@@ -76,11 +75,11 @@ Cada uno de los mods enumerados a continuación tendrá el icono de sus modos de
 
 #### NoMod
 
-En los partidos de [torneo](/wiki/Tournaments), **NoMod** (***NM***) se refiere a no usar ningún mod. Muchos torneos requieren que se usen algunos mods de forma predeterminada como parte de sus reglas o formato, como [No Fail](/wiki/Game_modifier/No_Fail) o [ScoreV2](/wiki/Game_modifier/ScoreV2), , que se convierten en excepciones a esta noción.
+En los partidos de [torneos](/wiki/Tournaments), **NoMod** (***NM***) se refiere a no usar ningún mod. Muchos torneos requieren que se usen algunos mods de forma predeterminada como parte de sus reglas o formato, como [No Fail](/wiki/Game_modifier/No_Fail) o [ScoreV2](/wiki/Game_modifier/ScoreV2), que se convierten en excepciones a esta noción.
 
 #### FreeMod
 
-En los partidos de [torneo](/wiki/Tournaments), **FreeMod** (***FM***) se refiere a ser libre de elegir cualquier mod o combinación de mods. Algunos torneos también proporcionan reglas que especifican criterios adicionales, como qué mods están permitidos y en qué combinaciones, o si no se permite tener mods cuando se especifica FreeMod.
+En los partidos de [torneos](/wiki/Tournaments), **FreeMod** (***FM***) se refiere a ser libre de elegir cualquier mod o combinación de mods. Algunos torneos también proporcionan reglas que especifican criterios adicionales, como qué mods están permitidos y en qué combinaciones, o si no se permite tener mods cuando se especifica FreeMod.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
