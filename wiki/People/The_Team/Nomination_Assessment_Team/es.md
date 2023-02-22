@@ -45,7 +45,7 @@ Los asesores se aseguran de que los BN y otros miembros de la comunidad de mappi
 
 ---
 
-Dividir el NAT en dos grupos es necesario para la organización general y la productividad del grupo, lo que permite una asignación de tareas más ágil. Delegar tareas evita que los miembros de NAT se sientan abrumados y, al mismo tiempo, evita la difusión de la responsabilidad.
+Dividir el NAT en dos grupos es necesario para la organización general y la productividad del grupo, lo que permite una asignación de tareas más ágil. Delegar tareas evita que los miembros de NAT se sientan abrumados y, al mismo tiempo, evita la difusión de responsabilidades.
 
 **Un miembro del NAT puede participar en cualquier tarea dentro de cualquiera de los subgrupos, independientemente de cómo se indique su subgrupo.** Por ejemplo, si un miembro del NAT es un evaluador, aún puede hacer anuncios o participar en debates sobre propuestas. Los subgrupos asignados solo describen de qué es responsable formalmente cada miembro.
 
