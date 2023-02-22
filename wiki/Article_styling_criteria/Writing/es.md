@@ -300,7 +300,7 @@ Se debe usar la coma en serie, también conocida como coma de Oxford o Harvard.
 
 ### Raya
 
-Consulte el [artículo sobre las rayas del «Diccionario panhispánico de dudas»](https://www.rae.es/dpd/raya). Sin embargo, al puntuar una oración, use guiones largos con espacios alrededor (" — "), no signos menos separados (" − "). No se deben usar guiones ("‑") en lugar de rayas.
+Consulte el [artículo sobre las rayas del «Diccionario panhispánico de dudas»](https://www.rae.es/dpd/raya). Al puntuar una oración, use rayas (`—`), no signos menos (`−`). No se deben usar guiones (`‑`) en lugar de rayas.
 
 ### Citas
 
