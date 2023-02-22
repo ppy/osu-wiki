@@ -10,7 +10,7 @@ Renowned composer **KASHIWA Daisuke** marches into our Featured Artist collectio
 
 **KASHIWA Daisuke** will make you reconsider what makes music *music*. While he's known for producing electronica-esque songs, his sound is heavily inspired by progressive rock and contemporary music, leading to an unorthodox style that only **KASHIWA Daisuke** can design.
 
-This unconventional style has barely reached other rhythm games, yet here on osu!, **KASHIWA Daisuke** has thrived throughout the osu!mania community thanks to maps like [Aqua Regia](https://osu.ppy.sh/beatmapsets/1378372) and [april.#02](https://osu.ppy.sh/beatmapsets/494325), and recently reached circle clickers through [Red Skirts](https://osu.ppy.sh/beatmapsets/1745894) and [Sacred Play Secret Place](https://osu.ppy.sh/beatmapsets/1908078), the latter of which was made specifically for this artist's announcement!
+This unconventional style has barely reached other rhythm games, yet here on osu!, **KASHIWA Daisuke** has thrived throughout the osu!mania community thanks to maps like [Aqua Regia](https://osu.ppy.sh/beatmapsets/1378372) and [april.#02](https://osu.ppy.sh/beatmapsets/494325), and recently reached circle clickers through [Red Skirts](https://osu.ppy.sh/beatmapsets/1745894) and [Sacred Play Secret Place](https://osu.ppy.sh/beatmapsets/1908078), the latter of which was made specifically for this announcement!
 
 **10** masterpieces can be discovered (in the form of pre-timed beatmap templates) from [**KASHIWA Daisuke**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/343)!
 
