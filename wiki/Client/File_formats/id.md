@@ -21,7 +21,7 @@ Agar hasil karyamu dapat disebarluaskan kepada pengguna lain, penting bagimu unt
 
 ### Menggunakan aplikasi pengarsip
 
-1. Instal aplikasi pengarsip berkas yang dapat menghasilkan berkas `.zip`, seperti [7-Zip](https://www.7-zip.org) atau [WinRAR](https://www.win-rar.com).
+1. Instal aplikasi pengarsip berkas yang dapat menghasilkan berkas `.zip`, seperti [7-Zip](https://www.7-zip.org/) atau [WinRAR](https://www.rarlab.com/).
 2. Letakkan seluruh berkas yang ingin kamu arsipkan ke dalam satu folder terpisah.
 3. Klik kanan folder tersebut dan pilih `Add to archive...` (atau lakukan hal yang sama dari aplikasi pengarsip yang kamu gunakan secara langsung).
 4. Pilih format arsip ZIP.
