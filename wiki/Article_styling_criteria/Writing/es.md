@@ -314,7 +314,7 @@ Por extensión, el [énfasis](/wiki/Article_styling_criteria/Formatting#enfatiza
 
 ### Cita en bloque
 
-Al citar texto de alguien, especifique la persona que se cita después de la [cita en bloque](/wiki/Article_styling_criteria/Formatting#citas_en_bloque) con una raya (`—`). Si la cita original es de una fuente que no está en español, especifíquela entre paréntesis.  
+Al citar texto de alguien, especifique la persona que se cita después de la [cita en bloque](/wiki/Article_styling_criteria/Formatting#citas-en-bloque) con una raya (`—`). Si la cita original es de una fuente que no está en español, especifíquela entre paréntesis.  
 
 ```markdown
 > pls disfrutar juego
