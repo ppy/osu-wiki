@@ -14,8 +14,8 @@ The **Aetherian's Summer Singles** (***AESS***) was a 1v1 single-elimination tou
 | Round of 32 | 2021-06-11/2021-06-13 |
 | Round of 16 | 2021-06-18/2021-06-20 |
 | Quarterfinals | 2021-06-25/2021-06-27 |
-| Semifinals| 2021-07-02/2021-07-04 |
-| Finals| 2021-07-11/2021-07-13 |
+| Semifinals | 2021-07-02/2021-07-04 |
+| Finals | 2021-07-11/2021-07-13 |
 
 ## Prizes
 
