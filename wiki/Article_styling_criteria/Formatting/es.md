@@ -18,7 +18,7 @@ A continuación se enumeran las configuraciones regionales compatibles con la wi
 | `de.md` | Alemán | Deutsch |
 | `el.md` | Griego | Ελληνικά |
 | `es.md` | Español | Español |
-| `fi.md` | Finlandés | Suomi |
+| `fi.md` | Finés | Suomi |
 | `fr.md` | Francés | Français |
 | `hu.md` | Húngaro | Magyar |
 | `id.md` | Indonesio | Bahasa Indonesia |
