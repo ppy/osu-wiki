@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: f714d893c0500d01629c73bb90c0f16bee32843e
----
-
 # Médailles
 
 Les **médailles**, précédemment connues sous le nom de *réalisations*, sont des badges sur le profil d'un utilisateur qui indiquent certains objectifs qui ont été atteints par l'utilisateur. Actuellement, il y a **280** médailles à débloquer dans huit catégories différentes au total : [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), [Beatmap Spotlights](#beatmap-spotlights), [Seasonal Spotlights](#seasonal-spotlights), et [Beatmap Challenge Packs](#beatmap-challenge-packs).
@@ -21,7 +16,7 @@ Les médailles **Skill** sont des médailles attribuées à la suite de divers a
 
 ## Dedication
 
-Les médailles **Dedication** sont des médailles attribuées lorsque vous atteignez certains seuils de nombre de parties dans un seul mode de jeu.
+Les médailles **Dedication** sont des médailles attribuées lorsque vous atteignez certains seuils de nombre de parties dans le mode de jeu osu! ou lorsque vous atteignez un certains nombre de hits dans les modes osu!taiko, osu!catch et osu!mania.
 
 ## Mod Introduction
 
