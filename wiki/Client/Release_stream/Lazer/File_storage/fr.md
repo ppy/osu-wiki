@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: f81ecb4fb414080dc0c8eeaae490a79d006b2d00
----
-
 # Stockage de fichiers dans osu!(lazer)
 
 Par défaut, osu!(lazer) stocke les fichiers de beatmaps, de skins, et de replays de scores dans les répertoires suivants :
@@ -38,7 +33,7 @@ Pour le moment, la procédure correcte pour manuellement modifier les skins ou l
 
 ### Par des liens physiques
 
-Sur la plupart des systèmes Windows, osu!(lazer) va être capable d'importer des données depuis la version stable du jeu sans avoir à créer de secondes copies des données sur le disque. Cela est possible grâce à une fonctionnalité du système d'exploitation appelée *"liens physiques"*.
+Sur la plupart des systèmes, osu!(lazer) va être capable d'importer des données depuis la version stable du jeu sans avoir à créer de secondes copies des données sur le disque. Cela est possible grâce à une fonctionnalité du système d'exploitation appelée *"liens physiques"*.
 
 Un lien physique est conceptuellement semblable à un *raccourci* dû au fait que c'est une méthode qui permet à un utilisateur d'avoir le même fichier à différents emplacements sur son système de fichiers. Cependant, alors que les raccourcis ne sont juste que de simples fichiers qui pointent vers un fichier différent (et requièrent ainsi un espace additionnel), les liens physiques fonctionnent à un niveau plus profond, au niveau du système de fichiers en lui-même.
 
@@ -46,7 +41,13 @@ Pour faire simple, deux fichiers liés physiquement sont simplement deux noms di
 
 À noter que si l'utilisation du disque est vérifiée depuis la fenêtre `Propriétés` dans l'Explorateur ou d'une quelconque autre méthode similaire, il semblera que les dossiers `Songs` et `files` utilisent de l'espace disque, ce qui pourrait induire en erreur les utilisateurs à penser que les données sont stockées deux fois. C'est un artéfact de la détermination de la taille du fichier, et les vraies données stockées sur le disque ne sont **pas** dupliquées. Cela peut être vérifié en comparant la valeur totale de l'espace disponible sur le disque entier avant et après la migration.
 
-Comme les liens physiques sont une fonctionnalité au niveau du système de fichiers, il est obligatoire que les deux fichiers liés physiquement se trouvent sur un même disque, et que ce disque soit formaté avec le format NTFS.
+#### Supported systems
+
+Comme les liens physiques sont une fonctionnalité au niveau du système de fichiers, il est obligatoire que les deux fichiers liés physiquement se trouvent sur un même disque.
+
+- **Windows**: Le lecteur doit être formaté en NTFS.
+- **macOS**: Le système de fichiers doit prendre en charge les liens physiques.
+- **Linux**: Le système de fichiers doit prendre en charge les liens physiques.
 
 ### Par copie de fichiers
 
