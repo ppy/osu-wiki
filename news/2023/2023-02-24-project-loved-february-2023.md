@@ -10,7 +10,7 @@ Come vote on this month's carefully curated selection of beatmaps for the Loved 
 
 To those who're new to what we do, Project Loved hosts community voting polls each month to decide which beatmaps get added to the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). All of the maps are chosen by the [Loved captains](https://loved.sh/team) of their respective game modes. Each beatmap banner in this news post will redirect you to the respective poll, or you can view them all directly on the [Project Loved forum](https://osu.ppy.sh/community/forums/120). The voting process lasts for 10 days, so don't forget to vote! More info can be found on the [wiki page](/wiki/Community/Project_Loved) and [website](https://loved.sh).
 
-As always, we would like to thank everyone for your participation in the December votes. If you would like to view the results from the previous round, you may do so by clicking the following links:
+As always, we would like to thank everyone for your participation in the January votes. If you would like to view the results from the previous round, you may do so by clicking the following links:
 
 - [Results for osu!](https://osu.ppy.sh/community/forums/topics/1714798)
 - [Results for osu!taiko](https://osu.ppy.sh/community/forums/topics/1714797)
