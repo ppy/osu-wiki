@@ -40,11 +40,11 @@ Additionally, in order to keep the audio quality of the song at a reasonable lev
 
 Any problems with these rules are usually sorted out while the beatmap is up for voting.
 
-## osu!-specific criteria
+### osu!-specific criteria
 
 Starting from February 2023, beatmaps of the osu! game mode considered for Loved will follow these new categories as well as the rules and guidelines below, which are similar to the ranking criteria, but adapted for the more lenient process Project Loved is known for.
 
-### Categorisation
+#### Categorisation
 
 Every month, beatmaps are chosen according to 9 categories, with the goal of ensuring variety for every selection of beatmaps by the captains.
 
@@ -64,7 +64,7 @@ Additionally, up to three *wildcard* beatmaps may be chosen from any category, a
 
 For any questions regarding what goes in each category, contact the osu! Loved captains.
 
-### Rules
+#### Rules
 
 **All rules are exactly that: rules.** They are not guidelines and may not be broken under any circumstance.
 
@@ -80,7 +80,7 @@ For any questions regarding what goes in each category, contact the osu! Loved c
 - **Beatmap timing must not negatively impact gameplay.** Unlike the ranking criteria, which requires near-millisecond-accurate timing for all beatmaps, there is some leeway for complex songs. If unsure whether the timing for a beatmap is appropriate, contact one of the osu! Loved captains.
 - **Beatmaps with concepts relying on storyboards must not be easily abusable by players through file editing.** This judged on a case-by-case basis to ensure fair competition for people who play the beatmap as intended. Issues may be mitigated by using approach rate 0, making invisible notes' timing windows more natural, and utilising difficulty-specific storyboarding via the `.osu` file instead of the `.osb` file.
 
-### Guidelines
+#### Guidelines
 
 **Guidelines may be ignored under exceptional circumstances.** These exceptional circumstances can be justified by an explanation as of why the guideline has been ignored and why not ignoring it will interfere with the overall quality of the creation.
 
@@ -89,7 +89,7 @@ For any questions regarding what goes in each category, contact the osu! Loved c
 - **Uninherited timing points should be the same in every difficulty of a beatmap.** This may be ignored for certain gimmicks involving changing BPM, slider velocity, or other factors that are not relevant in every difficulty.
 - **All difficulties in the beatmap should be finished.** This means reaching the start and end point of the song, excluding unmappable sections, intros, or outros. For example, in a 5-minute song with multiple difficulties, if the Extra and Hard difficulties are 4:30 in length, the Insane cannot be 1 minute long. If all difficulties have large amounts of the song left unmapped, the audio file should be cut accordingly.
 
-### Nomination priority
+#### Nomination priority
 
 There are no strict rules governing which maps a captain must nominate for Loved, but generally the nominated maps are very well known and appreciated by the community (as the title "Loved" implies). Sometimes a beatmap will also be preferred if it is significantly older than others or contains beatmaps with unique and high-quality mapping styles.
 
