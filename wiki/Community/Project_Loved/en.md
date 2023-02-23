@@ -48,17 +48,21 @@ Starting from February 2023, beatmaps of the osu! game mode considered for Loved
 
 Every month, beatmaps are chosen according to 9 categories, with the goal of ensuring variety for every selection of maps by the captains.
 
-- **Popular Playcounts:** Beatmaps that have reached a very high amount of popularity in the community, having at least 100,000 playcount.
-- **Outstanding Oldies:** Beatmaps that have been submitted more than six years before their Loved nomination date.
-- **Small Spectacules:** Beatmaps that are deemed outstanding by the captains, yet do not have a huge following, having less than 5,000 playcount.
-- **Daredevil Difficulties:** Beatmaps that are known for their extreme difficulty, nominated with the prime goal of allowing top player competition.
-- **Ranked Rejects:** Beatmaps with full difficulty spreads that have been popular for a long time, yet never reached Ranked status.
-- **Gameplay Gimmicks:** Beatmaps that apply gameplay gimmicks in unconventional ways, such as Aspire, storyboard based maps, and other edge cases.
-- **Meme Monstrosities:** Beatmaps that are popular due to their humorous content, as well as maps that focus on local communities' subcultures.
-- **Second Shots:** Beatmaps that have been rejected in past Loved votings which receive a second chance.
-- **Chill Champions:** Beatmaps that are casual-friendly, not having a difficulty over 5 stars.
+| Category | Explanation |
+| :-: | :-- |
+| Popular Playcounts | Popular beatmaps in the community, with at least 100,000 playcount. |
+| Outstanding Oldies | Beatmaps submitted more than six years ago. |
+| Small Spectacules | Outstanding beatmaps as determined by the captains, with less than 5,000 playcount. |
+| Daredevil Difficulties | Beatmaps known for extreme difficulty, nominated with the goal of fostering competition among top players. |
+| Ranked Rejects | Beatmaps with full spreads that follow ranking criteria, yet never reached Ranked status. |
+| Gameplay Gimmicks | Beatmaps with unconventional gameplay gimmicks, such as via storyboards or Aspire-like mapping. |
+| Meme Monstrosities | Beatmaps popular for their humorous content, or with focus on local communities' subcultures. |
+| Second Shots | Beatmaps rejected in past Loved votings, receiving a second chance. |
+| Chill Champions | Beatmaps that are casual-friendly, with no difficulty above 5 stars. |
 
-Additionally, up to three wildcard beatmaps may be chosen from any category, adding to a total of twelve maps per month. For any questions regarding what goes in each category, contact the osu! Loved captains.
+Additionally, up to three *wildcard* beatmaps may be chosen from any category, adding to a total of twelve maps per month.
+
+For any questions regarding what goes in each category, contact the osu! Loved captains.
 
 ### Basic Loved requirements
 
