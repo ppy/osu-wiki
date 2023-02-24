@@ -10,7 +10,7 @@ Come vote on this month's carefully curated selection of beatmaps for the Loved 
 
 To those who're new to what we do, Project Loved hosts community voting polls each month to decide which beatmaps get added to the [Loved category](https://osu.ppy.sh/beatmapsets?s=loved). All of the maps are chosen by the [Loved captains](https://loved.sh/team) of their respective game modes. Each beatmap banner in this news post will redirect you to the respective poll, or you can view them all directly on the [Project Loved forum](https://osu.ppy.sh/community/forums/120). The voting process lasts for 10 days, so don't forget to vote! More info can be found on the [wiki page](/wiki/Community/Project_Loved) and [website](https://loved.sh).
 
-As always, we would like to thank everyone for your participation in the December votes. If you would like to view the results from the previous round, you may do so by clicking the following links:
+As always, we would like to thank everyone for your participation in the January votes. If you would like to view the results from the previous round, you may do so by clicking the following links:
 
 - [Results for osu!](https://osu.ppy.sh/community/forums/topics/1714798)
 - [Results for osu!taiko](https://osu.ppy.sh/community/forums/topics/1714797)
@@ -19,7 +19,7 @@ As always, we would like to thank everyone for your participation in the Decembe
 
 Before continuing, we've got some important news to share with you from Project Loved HQ:
 
-- As of the start of this year, the process of picking maps for Loved in the osu! game mode has been completely revamped, involving a streamlined set of beatmap categories, rules, and guidelines that mappers and captains need to follow. If you're interested to know more about what has changed, then consider reading [this page] (LINK).
+- As of the start of this year, the process of picking maps for Loved in the osu! game mode has been completely revamped, involving a streamlined set of beatmap categories, rules, and guidelines that mappers and captains need to follow. If you're interested to know more about what has changed, then consider reading [the Project Loved wiki page](/wiki/Community/Project_Loved).
 
 - Ding ding! A delivery of *two* new Project Loved Team members has arrived! Featuring [Blushing](https://osu.ppy.sh/users/5927823), who will assist with making sure that all descriptions are clear from any sneaky blunders, and [Civil oath](https://osu.ppy.sh/users/3216107), who will make sure that all backgrounds comply with osu!'s rules and standards. Please take a moment to give them a heartwarming welcome!
 
@@ -41,10 +41,10 @@ That should be all for now. Don't forget if you have any questions, or you're in
 
 ### Navigation
 
-- [osu!](#osu!)
-- [osu!taiko](#osu!taiko)
-- [osu!catch](#osu!catch)
-- [osu!mania](#osu!mania)
+- [osu!](#osu)
+- [osu!taiko](#osutaiko)
+- [osu!catch](#osucatch)
+- [osu!mania](#osumania)
 
 ## osu!
 
@@ -54,7 +54,7 @@ The osu! Loved candidates were chosen by [Mismagius](https://osu.ppy.sh/users/19
 
 [![](/wiki/shared/news/2023-02-24-project-loved-february-2023/1192060.jpg)](https://osu.ppy.sh/community/forums/topics/1725981)
 
-[Camellia - #1f1e33](https://osu.ppy.sh/beatmapsets/1192060#osu) by [Realazy](https://osu.ppy.sh/users/918297), [- Heatwave -](https://osu.ppy.sh/users/4166621), [-\[Pino\]-](https://osu.ppy.sh/users/10120527), [Acylica](https://osu.ppy.sh/users/1943309), [captin1](https://osu.ppy.sh/users/689997), [cotton__123](https://osu.ppy.sh/users/9823042), [CrazyrabbitKGE](https://osu.ppy.sh/users/4481526), [Cubby](https://osu.ppy.sh/users/10914582), [IOException](https://osu.ppy.sh/users/2688103), [Kloyd](https://osu.ppy.sh/users/1574070), [lcfc](https://osu.ppy.sh/users/7322726), [Lobelia](https://osu.ppy.sh/users/4030114), [Niva](https://osu.ppy.sh/users/197805), [Otosaka-Yu](https://osu.ppy.sh/users/3170678), [Regou](https://osu.ppy.sh/users/419954), [ScubDomino](https://osu.ppy.sh/users/8972308), [Seonah](https://osu.ppy.sh/users/11011335), [seros](https://osu.ppy.sh/users/10562853), [xen-](https://osu.ppy.sh/users/31821681) and [xLolicore-](https://osu.ppy.sh/users/4525153)\
+[Camellia - #1f1e33](https://osu.ppy.sh/beatmapsets/1192060#osu) by [Realazy](https://osu.ppy.sh/users/918297), [- Heatwave -](https://osu.ppy.sh/users/4166621), [-\[Pino\]-](https://osu.ppy.sh/users/10120527), [Acylica](https://osu.ppy.sh/users/1943309), [captin1](https://osu.ppy.sh/users/689997), [cotton__123](https://osu.ppy.sh/users/9823042), [CrazyrabbitKGE](https://osu.ppy.sh/users/4481526), [Cubby](https://osu.ppy.sh/users/10914582), [IOException](https://osu.ppy.sh/users/2688103), [Kloyd](https://osu.ppy.sh/users/1574070), [lcfc](https://osu.ppy.sh/users/7322726), [Lobelia](https://osu.ppy.sh/users/4030114), [Niva](https://osu.ppy.sh/users/197805), [Otosaka-Yu](https://osu.ppy.sh/users/3170678), [Regou](https://osu.ppy.sh/users/419954), [ScubDomino](https://osu.ppy.sh/users/8972308), [Seonah](https://osu.ppy.sh/users/11011335), [seros](https://osu.ppy.sh/users/10562853), [Xen](https://osu.ppy.sh/users/4026817) and [xLolicore-](https://osu.ppy.sh/users/4525153)\
 181 BPM, 2:39 | 3.69★ – 7.48★\
 *description written by [rHO](https://osu.ppy.sh/users/1629553)*
 
@@ -64,7 +64,7 @@ Housing a lot of your favorite mappers and offering an abundance of challenging 
 
 [![](/wiki/shared/news/2023-02-24-project-loved-february-2023/16831.jpg)](https://osu.ppy.sh/community/forums/topics/1725980)
 
-[NicoNicoDouga - Nanairo no Nico Nico Douga](https://osu.ppy.sh/beatmapsets/16831#osu) by [Doomsday](https://osu.ppy.sh/users/18983), [adam2046](https://osu.ppy.sh/users/8358), [aRiskOfRain](https://osu.ppy.sh/users/123790), [Beuchi](https://osu.ppy.sh/users/67192), [Cristian](https://osu.ppy.sh/users/194345), [Derekku](https://osu.ppy.sh/users/91341), [Diasios](https://osu.ppy.sh/users/25999), [DJPop](https://osu.ppy.sh/users/2363), [Emdyion](https://osu.ppy.sh/users/190213), [Gabi](https://osu.ppy.sh/users/57057), [ignorethis](https://osu.ppy.sh/users/27343), [Kecco](https://osu.ppy.sh/users/172707), [Lesjuh](https://osu.ppy.sh/users/44308), [Lilac](https://osu.ppy.sh/users/58197), [LuigiHann](https://osu.ppy.sh/users/1079), [Lybydose](https://osu.ppy.sh/users/64501), [Mashley](https://osu.ppy.sh/users/41481), [Mismagius](https://osu.ppy.sh/users/19048), [Nachy](https://osu.ppy.sh/users/95637), [Neo@lex](https://osu.ppy.sh/users/4970), [pieguyn](https://osu.ppy.sh/users/107485), [Sallad4ever](https://osu.ppy.sh/users/185422), [Shinxyn](https://osu.ppy.sh/users/13996), [Shohei Ohtani](https://osu.ppy.sh/users/135630), [Takuma](https://osu.ppy.sh/users/43677), [tieff](https://osu.ppy.sh/users/89619), [Wizard Of Orz](https://osu.ppy.sh/users/10466), [Xgor](https://osu.ppy.sh/users/98661) and [Zatoichi](https://osu.ppy.sh/users/35199)\
+[simo - Nanairo no Nico Nico Douga](https://osu.ppy.sh/beatmapsets/16831#osu) by [Doomsday](https://osu.ppy.sh/users/18983), [adam2046](https://osu.ppy.sh/users/8358), [aRiskOfRain](https://osu.ppy.sh/users/123790), [Beuchi](https://osu.ppy.sh/users/67192), [Cristian](https://osu.ppy.sh/users/194345), [Derekku](https://osu.ppy.sh/users/91341), [Diasios](https://osu.ppy.sh/users/25999), [DJPop](https://osu.ppy.sh/users/2363), [Emdyion](https://osu.ppy.sh/users/190213), [Gabi](https://osu.ppy.sh/users/57057), [ignorethis](https://osu.ppy.sh/users/27343), [Kecco](https://osu.ppy.sh/users/172707), [Lesjuh](https://osu.ppy.sh/users/44308), [Lilac](https://osu.ppy.sh/users/58197), [LuigiHann](https://osu.ppy.sh/users/1079), [Lybydose](https://osu.ppy.sh/users/64501), [Mashley](https://osu.ppy.sh/users/41481), [Mismagius](https://osu.ppy.sh/users/19048), [Nachy](https://osu.ppy.sh/users/95637), [Neo@lex](https://osu.ppy.sh/users/4970), [pieguyn](https://osu.ppy.sh/users/107485), [Sallad4ever](https://osu.ppy.sh/users/185422), [Shinxyn](https://osu.ppy.sh/users/13996), [Shohei Ohtani](https://osu.ppy.sh/users/135630), [Takuma](https://osu.ppy.sh/users/43677), [tieff](https://osu.ppy.sh/users/89619), [Wizard Of Orz](https://osu.ppy.sh/users/10466), [Xgor](https://osu.ppy.sh/users/98661) and [Zatoichi](https://osu.ppy.sh/users/35199)\
 182.5 BPM, 11:20 | 4.56★, 5.56★\
 *description written by [Wixonater](https://osu.ppy.sh/users/10083084)*
 
@@ -235,7 +235,7 @@ So, do you want this to have a leaderboard?
 [![](/wiki/shared/news/2023-02-24-project-loved-february-2023/970662.jpg)](https://osu.ppy.sh/community/forums/topics/1725965)
 
 [kors k vs. Camellia - The Rolling](https://osu.ppy.sh/beatmapsets/970662#fruits) by [Fauzan 2000](https://osu.ppy.sh/users/9317817)\
-170 BPM, 4:09 | 8.58★\
+170 BPM, 4:08 | 8.53★\
 *description written by [Dahcreeper](https://osu.ppy.sh/users/6926006)*
 
 [Fauzan 2000](https://osu.ppy.sh/users/9317817) coming in with his second Loved map this month, which also just happens to be another very challenging map! With *The Rolling*, we have a stamina-intensive map that features consistent wiggle patterns, far spacings, hyperchains and much more. This map is perfect if you're looking for a challenge, as the difficulty increases every minute until the end, which challenges even the best of players. Do you have what it takes to go for an A, S, or even a full combo?
