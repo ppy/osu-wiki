@@ -103,7 +103,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/c9e
 
 ## Podium
 
-![](img/podium.jpg "MWC7K 2023 podium")
+![](img/podium.jpg?1 "MWC7K 2023 podium")
 
 ## Mappools
 
