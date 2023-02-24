@@ -143,7 +143,21 @@ Long quotations are typically used in more formal writings in place of in-line q
 
 ![Quote reply button](img/quotereply.png)
 
+### Inline code
+
+*Not to be confused with [Code block](#code-block).*
+
+```
+[c]text[/c]
+```
+
+The `[c]` tag allows for highlighting inline text in a monospace font. On the osu! website, the text will be formatted with a grey box around it. On the contrary to [code blocks](#code-block), the tag may only be placed in single lines.
+
+Within the osu! forums, this is useful for emphasising e.g. keyboard shortcuts or button descriptions.
+
 ### Code block
+
+*Not to be confused with [Inline code](#inline-code).*
 
 ```
 [code]
