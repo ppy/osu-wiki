@@ -20,13 +20,9 @@ As always, we would like to thank everyone for your participation in the January
 Before continuing, we've got some important news to share with you from Project Loved HQ:
 
 - As of the start of this year, the process of picking maps for Loved in the osu! game mode has been completely revamped, involving a streamlined set of beatmap categories, rules, and guidelines that mappers and captains need to follow. If you're interested to know more about what has changed, then consider reading [the Project Loved wiki page](/wiki/Community/Project_Loved).
-
 - Ding ding! A delivery of *two* new Project Loved Team members has arrived! Featuring [Blushing](https://osu.ppy.sh/users/5927823), who will assist with making sure that all descriptions are clear from any sneaky blunders, and [Civil oath](https://osu.ppy.sh/users/3216107), who will make sure that all backgrounds comply with osu!'s rules and standards. Please take a moment to give them a heartwarming welcome!
-
 - Unfortunately, all good things come to an end, as we have to bid farewell to [DeviousPanda](https://osu.ppy.sh/users/4966334). We want to thank him for his valuable contributions to the osu! Loved section, and we hope he enjoys the retirement home alongside our other veterans.
-
 - On brighter news, this means that we'll be opening applications again for the the osu! game mode, so if you've ever wanted to be a part of promoting the community's most beloved beatmaps to an equally adored section, then this might be your chance! You can apply by filling out the form below:
-
 [![osu! Loved Captain application banner](/wiki/shared/news/banners/project-loved/apply-osu.png)](https://docs.google.com/forms/d/e/1FAIpQLSe3OKdYzv0WTkytBqTgnuyg73Hh-d1gqslyRRUc7NHt_Swt6w/viewform?usp=sharing)
 
 That should be all for now. Don't forget if you have any questions, or you're interested in participating in Project Loved discussions of a certain game mode, you can reach out in one of the Project Loved Discord servers listed below:
@@ -41,10 +37,10 @@ That should be all for now. Don't forget if you have any questions, or you're in
 
 ### Navigation
 
-- [osu!](#osu)
-- [osu!taiko](#osutaiko)
-- [osu!catch](#osucatch)
-- [osu!mania](#osumania)
+- [osu!](#osu!)
+- [osu!taiko](#osu!taiko)
+- [osu!catch](#osu!catch)
+- [osu!mania](#osu!mania)
 
 ## osu!
 
@@ -330,7 +326,7 @@ I'm gonna be real with you here... I have no idea who [Firiya](https://osu.ppy.s
 
 Their mapping catalogue is incredibly small, culminating to a mere total of three (3) maps at the time of writing. Nevertheless, we are featuring their LN map of *Heart Forecast* in this wave of Loved entries.
 
-The map itself, dating from 2020, has amassed enough attention from past tournaments, including [Speed of Light 2](/wiki/en/Tournaments/SOL/2020)'s Round of 32. Its entry-level LN map design has made it an attractive choice for newer players looking to improve their skills while also enjoying a popular song. A number of seasoned players will find this entry to be quite nostalgic, bringing back memories of once being a long note newbie. If you are still learning long notes, I do recommend you check this map out.
+The map itself, dating from 2020, has amassed enough attention from past tournaments, including [Speed of Light 2](/wiki/Tournaments/SOL/2020)'s Round of 32. Its entry-level LN map design has made it an attractive choice for newer players looking to improve their skills while also enjoying a popular song. A number of seasoned players will find this entry to be quite nostalgic, bringing back memories of once being a long note newbie. If you are still learning long notes, I do recommend you check this map out.
 
 This description is being written a few days after Valentine's day, and I just noticed this is the second love-related osu!mania entry in this wave. Did you enjoy your Valentine's day? Do you enjoy this pick? Please tell us about it in the thread comments and (fore)cast your vote!
 
@@ -344,7 +340,7 @@ Disclaimer: one sentence in this entire description has been copy-pasted directl
 
 We introduce [TakJun](https://osu.ppy.sh/users/4356322) to the Loved voting stage with his chart of [ReviXy](https://osu.ppy.sh/beatmapsets/1489038#mania)!
 
-ReviXy was used as the dense chordstream pick for the Semifinals round of [osu!mania 7K World Cup 2022](/wiki/en/Tournaments/MWC/2022_7K). It ended up being one of the most well-received charts from that tournament due to the its high quality and playability. If you feel that the base rate is too easy, there are higher rates for you to play too.
+ReviXy was used as the dense chordstream pick for the Semifinals round of [osu!mania 7K World Cup 2022](/wiki/Tournaments/MWC/2022_7K). It ended up being one of the most well-received charts from that tournament due to the its high quality and playability. If you feel that the base rate is too easy, there are higher rates for you to play too.
 
 There is not really much more to say about ReviXy than this. If you want to see TakJun enter the Loved section, remember to give him your support.
 
