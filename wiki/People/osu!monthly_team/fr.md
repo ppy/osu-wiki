@@ -29,7 +29,7 @@ Les personnes listées ci-dessous restent indispensables à l'osu!monthly même 
 
 | Nom | Section associée |
 | :-- | :-- |
-| ::{ flag=US }:: [Nowaie](https://osu.ppy.sh/users/5428909) | Mapping recap |
+| ::{ flag=FI }:: [Nowaie](https://osu.ppy.sh/users/5428909) | Mapping recap |
 | ::{ flag=US }:: [olc](https://osu.ppy.sh/users/7081160) | Mapping recap |
 | ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) et l'[équipe skinship](https://skinship.xyz/) | Skinning recap |
 | ::{ flag=US }:: [wafer](https://osu.ppy.sh/users/9416836) | Mapping recap |
