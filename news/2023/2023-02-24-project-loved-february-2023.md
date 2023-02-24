@@ -272,9 +272,9 @@ The osu!mania Loved candidates were chosen by [-NoName-](https://osu.ppy.sh/user
 175 BPM, 2:47 | 4.07★, 4.07★\
 *description written by [Paturages](https://osu.ppy.sh/users/1375479)*
 
-Many SV enthusiasts know DJ WITCH GIRL MIR4CLEN for bringing us \[Mafain](https://osu.ppy.sh/beatmapsets/1569493) among many other "SVable" tunes and remixes. [[Fairy\]Phy](https://osu.ppy.sh/users/4777360)'s chart of *who do you love* is another popular map that takes advantage of the bombastic and iconic drops that DJ WITCH GIRL MIR4CLEN has made themselves known and infamous for.
+Many SV enthusiasts know DJ WITCH GIRL MIR4CLEN for bringing us [Mafain](https://osu.ppy.sh/beatmapsets/1569493) among many other "SVable" tunes and remixes. [\[Fairy\]Phy](https://osu.ppy.sh/users/4777360)'s chart of *who do you love* is another popular map that takes advantage of the bombastic and iconic drops that DJ WITCH GIRL MIR4CLEN has made themselves known and infamous for.
 
-\[Fairy\]Phy is better known as an SV-oriented player from Japan, carrying their osu!mania World Cup team many times alongside names such as \[CrewK](https://osu.ppy.sh/users/11488604) and [inteliser](https://osu.ppy.sh/users/1824775). Many SV players have contributed back to the community through learning how to create their own SV maps — [Fairy\]Phy is one such case, and *who do you love* is a good example of player insight providing an enjoyable experience.
+\[Fairy\]Phy is better known as an SV-oriented player from Japan, carrying their osu!mania World Cup team many times alongside names such as [CrewK](https://osu.ppy.sh/users/11488604) and [inteliser](https://osu.ppy.sh/users/1824775). Many SV players have contributed back to the community through learning how to create their own SV maps — \[Fairy\]Phy is one such case, and *who do you love* is a good example of player insight providing an enjoyable experience.
 
 The execution of the drops are very flashy and demanding of memorization — this is probably good content you can learn for your local talent show if you need to. The teleports and rhythms will take you a little while to learn, but no worries, you can try and get a feel for them through grinding the NSV difficulty.
 
@@ -350,7 +350,7 @@ There is not really much more to say about ReviXy than this. If you want to see 
 170 BPM, 2:55 | 6.46★\
 *description written by [-NoName-](https://osu.ppy.sh/users/10400730)*
 
-\[taba2](https://osu.ppy.sh/users/7850508) is back to the Loved voting with his chart of *More One Night (Assertive Hardcore Bootleg) [long ver.\]*!
+[taba2](https://osu.ppy.sh/users/7850508) is back to the Loved voting with his chart of *More One Night (Assertive Hardcore Bootleg) \[long ver.\]*!
 
 If you find our above nomination of ReviXy to be too difficult, we have something a bit easier here for you. Despite being speed-charted, taba2's chart maintains high quality while being straightforward to play for intermediately skilled 7K players. In a similar vein to [qodtjr](https://osu.ppy.sh/users/3021168)'s chart of [Mr.T - electro peaceful (akiy2344's 8bit-fuu cover)](https://osu.ppy.sh/beatmapsets/707059#mania/1494875), people will be able to score very high on this chart due to its accessibility.
 
