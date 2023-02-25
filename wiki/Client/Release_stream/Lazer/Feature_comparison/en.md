@@ -254,7 +254,7 @@ In stable, drumrolls could not be hit too quickly or too slowly. This restrictio
 | :-- | :-: |
 | Breaks backwards compatibility | Yes |
 | Classic mod revert support | No |
-| Intentionally changed | Yes? |
+| Intentionally changed | Yes |
 | Needs further consideration | Yes |
 
 #### The Flashlight centre is aligned with the hit receptor
@@ -352,7 +352,7 @@ Beatmaps converted from the osu! game mode into osu!mania had a set of hit windo
 | :-- | :-: |
 | Breaks backwards compatibility | Yes |
 | Classic mod revert support | No |
-| Intentionally changed | Yes? |
+| Intentionally changed | Yes |
 | Needs further consideration | No? |
 
 #### Audio rate adjustments affect hit windows in osu!mania
