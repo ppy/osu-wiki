@@ -47,7 +47,6 @@ Le premier osu! community meeting a eu lieu le 19 septembre 2021. Tous les meeti
 | 14 | [3 avril 2022](https://youtu.be/UWT18LaoeKw) | [Document de synthèse](https://docs.google.com/document/d/1LzKpXwIKxcpYgEAK4zdEIVuMNJckoo9SWN-UoAvOto8) | Passage en revue des résultats du sondage sur le score, questions diverses de la communauté |
 | 15<!-- TODO (walavouchey): there's one before this one but the recording is audio-only and there are no notes yet --> | [25 Février 2023](https://youtu.be/idmI03A8jR8) | [Document de synthèse](https://docs.google.com/document/d/13cMCrQN4vvaQFA59BmFHk6D7PH9fwT2ANmhkm5cmzxE) | Mécaniquess de jeu et équilibre d'osu!(lazer) |
 
-
 ## Liens associés
 
 - [Discord osu!dev](https://discord.gg/ppy)

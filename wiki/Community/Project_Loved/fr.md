@@ -40,7 +40,7 @@ En outre, afin de maintenir la qualité audio de la musique à un niveau raisonn
 
 Tout problème lié à ces règles est généralement résolu pendant que la beatmap est proposée au vote.
 
-### critères spécifiques à osu!
+### Critères spécifiques à osu!
 
 À partir de février 2023, les beatmaps du mode de jeu osu! pris en considération pour être Loved suivront ces nouvelles catégories ainsi que les règles et directives ci-dessous, qui sont similaires aux critères de classement, mais adaptées au processus plus indulgent pour lequel le Project Loved est connu.
 
