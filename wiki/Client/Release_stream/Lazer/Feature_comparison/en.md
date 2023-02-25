@@ -108,19 +108,6 @@ All game modes use a grading system similar to the one in osu!mania on stable (c
 | Intentionally changed | Yes |
 | Needs further consideration | Yes |
 
-#### Hitsound volume cannot be adjusted in between notes
-
-<!-- TODO: may be fixed by https://github.com/ppy/osu/pull/22659 -->
-
-In stable, it is possible to change the volume of ghost taps in osu!taiko and osu!mania, or create gradual osu!taiko swell volume changes. In lazer, there is only per-note volume, making that impossible.
-
-|  |  |
-| :-- | :-: |
-| Breaks backwards compatibility | Yes |
-| Classic mod revert support | No |
-| Intentionally changed | No |
-| Needs further consideration | Yes |
-
 #### Hit window edge calculations do not match stable
 
 When a hit lands right at the edge of the hit window, a different judgement may be given depending on the client version.
