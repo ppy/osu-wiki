@@ -73,7 +73,7 @@ Zusätzlich sollten alle Werbematerialien oder andere Dienstleistungen, die im Z
 - Wenn ein Nutzer die Kriterien zum Registrieren erfüllt (falls vorhanden), darf das Turnier keinen an der Teilnahme hindern, der das Screening-Verfahren besteht, außer es werden zahlreiche Beweise gegen den Teilnehmer öffentlich vorgelegt und das Account-Support-Team stimmt zu.
   - Dazu gehört, dass Spieler, die als absichtliche Verlierer wahrgenommen werden (*Sandbagging*), vom Spiel ausgeschlossen werden. Sollten Veranstalter berechtigte Bedenken über die Anwesenheit solcher Spieler haben, die die Wettbewerbsintegrität des Turniers beeinflussen, können sie das Problem mit Hilfe des [Meldeformulars für Turniere](https://pif.ephemeral.ink/tournament-reports) an das [Turnierkomitee](/wiki/People/Tournament_Committee) für eine Einzelfallüberprüfung melden.
 - Ein engagierter Schiedsrichter muss bei jedem Match präsent sein. Spieler können nicht selbst Schiedsrichter sein.
-  - Der Einsatz von Bots ist für die Qualifizierungsphase erlaubt, sofern dies von einem Mitarbeiter beaufsichtigt wird.
+  - Der Einsatz von Bots ist für die Qualifizierungsphase gestattet, sofern dies von einem Mitarbeiter beaufsichtigt wird.
 - Asynchrone Spiele sind unter keinen Umständen erlaubt. Alle teilnehmenden Teams müssen zur geplanten Spielzeit anwesend sein.
 - Alle Mehrspieler-Spiele, die für das Turnier relevant sind, müssen mit dem Befehl `!mp make` erstellt werden, damit sie nicht verfallen. Die Ergebnisse müssen aufgenommen und im originalen Forumsbeitrag (oder auf einer externen Quelle, die im Forumsbeitrag verlinkt wird) in einem klaren Format öffentlich zugänglich gemacht werden.
 
