@@ -63,7 +63,7 @@ tags:
 
 ## 挑战曲包
 
-**挑战曲包奖章**，或称为[*技能包奖章*](https://osu.ppy.sh/home/news/2020-11-20-featured-artist-beatmap-updates-from-the-mappers-guild#pack-medal-updates)，需要玩家*不使用任何[降低难度](/wiki/Game_modifier#降低难度)或者[特殊](/wiki/Game_modifier#特殊)的难度模组*，并成功通过特定的[主题曲包](https://osu.ppy.sh/beatmaps/packs?type=theme)或者[艺术家/专辑曲包](https://osu.ppy.sh/beatmaps/packs?type=artist)所有谱面的最高难度后获得。这些曲包经过专业设计，用来测试玩家对游戏各种方面的理解，以及玩家的特定技能水平，例如，是否能轻松应对某个[星级](/wiki/Beatmapping/Star_rating)范围内的谱面。
+**挑战曲包奖章**，或称为[*技能包奖章*](https://osu.ppy.sh/home/news/2020-11-20-featured-artist-beatmap-updates-from-the-mappers-guild#skill-packs)，需要玩家*不使用任何[降低难度](/wiki/Game_modifier#降低难度)或者[特殊](/wiki/Game_modifier#特殊)的难度模组*，并成功通过特定的[主题曲包](https://osu.ppy.sh/beatmaps/packs?type=theme)或者[艺术家/专辑曲包](https://osu.ppy.sh/beatmaps/packs?type=artist)所有谱面的最高难度后获得。这些曲包经过专业设计，用来测试玩家对游戏各种方面的理解，以及玩家的特定技能水平，例如，是否能轻松应对某个[星级](/wiki/Beatmapping/Star_rating)范围内的谱面。
 
 除非另外说明，否则玩家必须在 [osu!](/wiki/Game_mode/osu!) 游戏模式中完成谱面，才有资格获得奖章。
 
