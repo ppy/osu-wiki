@@ -1,6 +1,6 @@
 ---
+outdated_since: 2d4959ec9ad9cb438363d7bf8e8220687a899602
 outdated_translation: true
-outdated_since: 7b5392b2431adcb81b085063ca0375ce3c992f7b
 ---
 
 # Ranking criteria
