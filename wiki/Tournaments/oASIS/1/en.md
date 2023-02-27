@@ -86,7 +86,7 @@ Listed below are the players who managed to qualify into the Round of 16 (along 
 
 - NoMod
   1. [CloZee - Koto (galvenize) \[Extra\]](https://osu.ppy.sh/beatmapsets/517055#osu/1098833)
-  2. [DM Ashura - Classical Insanity (Kurashina Asuka) \[agitato]](https://osu.ppy.sh/beatmapsets/1644511#osu/3356836)
+  2. [DM Ashura - Classical Insanity (Kurashina Asuka) \[agitato\]](https://osu.ppy.sh/beatmapsets/1644511#osu/3356836)
   3. [Nanahoshi Kangengakudan feat. Hatsune Miku - No.39 (pkk) \[No Sankyuu\]](https://osu.ppy.sh/beatmapsets/531488#osu/1126317)
   4. [KARUT - Starting Pistol (Millie) \[osu!id uma Collab\]](https://osu.ppy.sh/beatmapsets/1946772#osu/4027884)
   5. [Mili - String Theocracy (\[Arc\]) \[Theatrically Interesting\]](https://osu.ppy.sh/beatmapsets/1192164#osu/2484169)
