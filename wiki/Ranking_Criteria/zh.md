@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: 8c56ed23ae6de441e56810d08640071e3cb1aeda
 ---
 
 # 谱面上架标准 (RC)
