@@ -60,6 +60,7 @@ Important to understand before using:
   - **...lower than 3:30**, the lowest difficulty of each included game mode cannot be harder than a Normal.
   - **...between 3:30 and 4:15**, the lowest difficulty of each included game mode cannot be harder than a Hard.
   - **...between 4:15 and 5:00**, the lowest difficulty of each included game mode cannot be harder than an Insane.
+  - **[Break time](/wiki/Beatmap/Break) can only be included up to a maximuim of 30 seconds in the [play time](/wiki/Beatmap/Play_time) calculations listed above.** For example, if a beatmap has 2 minutes of drain time and 2 minutes of break time, it would equate to 2:30 in the calculation.
   - **osu!mania beatmaps are bound by a different set of drain time thresholds and other spread rules defined in the [osu!mania ranking criteria](/wiki/Ranking_Criteria/osu!mania).**
 - **Difficulty names in a beatmap must be clearly progressive and accurately indicating of their respective difficulties, excluding:**
   - The highest difficulty of each game mode.
