@@ -190,6 +190,31 @@ Listed below are the players who managed to qualify into the Round of 16 (along 
 
 ## Match results
 
+### Quarterfinals
+
+Friday, 24 February 2023:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | [nsfuu](https://osu.ppy.sh/users/10849159) ::{ flag=ID }:: | 4 | **6** | ::{ flag=ID }:: **[cerena](https://osu.ppy.sh/users/5411734)** | [#1](https://osu.ppy.sh/community/matches/107028501) |
+
+Saturday, 25 February 2023:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[CubeixID200](https://osu.ppy.sh/users/10678919)** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: [Honoka-Chan](https://osu.ppy.sh/users/11912828) | [#1](https://osu.ppy.sh/community/matches/107045025) |
+
+Sunday, 26 February 2023:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | [SDKO](https://osu.ppy.sh/users/4858555) ::{ flag=ID }:: | 3 | **6** | ::{ flag=ID }:: **[Icun](https://osu.ppy.sh/users/17908427)** | [#1](https://osu.ppy.sh/community/matches/107066197) |
+| Lower | **[HyuugaDesuka](https://osu.ppy.sh/users/22684871)** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: [AlanEt](https://osu.ppy.sh/users/15037088) | [#1](https://osu.ppy.sh/community/matches/107069121) |
+| Lower | **[Frixell](https://osu.ppy.sh/users/15601286)** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: [-Lunix](https://osu.ppy.sh/users/12964890) | [#1](https://osu.ppy.sh/community/matches/107070091) |
+| Upper | **[im a cute bunny](https://osu.ppy.sh/users/12578000)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: [-CircleParadox-](https://osu.ppy.sh/users/10423227) | [#1](https://osu.ppy.sh/community/matches/107071382) |
+| Upper | **[akebono](https://osu.ppy.sh/users/1815316)** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: [fnayR](https://osu.ppy.sh/users/2800253) | [#1](https://osu.ppy.sh/community/matches/107071230) |
+| Lower | **[Zoont](https://osu.ppy.sh/users/7109269)** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: [ArchieA7](https://osu.ppy.sh/users/7087699) | [#1](https://osu.ppy.sh/community/matches/107072405) |
+
 ### Round of 16
 
 Friday, 17 February 2023:
