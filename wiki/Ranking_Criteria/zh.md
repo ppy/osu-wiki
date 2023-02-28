@@ -1,4 +1,6 @@
 ---
+outdated_since: 2d4959ec9ad9cb438363d7bf8e8220687a899602
+outdated_translation: true
 no_native_review: true
 outdated_translation: true
 outdated_since: 8c56ed23ae6de441e56810d08640071e3cb1aeda
