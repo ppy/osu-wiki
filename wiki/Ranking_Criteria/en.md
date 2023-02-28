@@ -56,11 +56,11 @@ Important to understand before using:
 - **All game modes within a beatmap must form a spread starting from the lowest difficulty level dictated by the song's [drain time](/wiki/Beatmap/Drain_time).** For difficulties above the lowest required difficulty level, the spread cannot skip any difficulty levels and there cannot be any drastically large difficulty gaps between any two difficulties.
 - **Each difficulty must comply with its mode's difficulty-specific ranking criteria.** See the [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch), and [osu!mania](/wiki/Ranking_Criteria/osu!mania) ranking criteria for more information.
 - **Every difficulty of a beatmap must have a minimum [drain time](/wiki/Beatmap/Drain_time) of 30 seconds.**
-- **If the [play time](/wiki/Beatmap/Play_time) of each difficulty is...**
+- **[Break time](/wiki/Beatmap/Break) can only represent up to 30 seconds of the [play time](/wiki/Beatmap/Play_time) calculations listed below.** For example, if a beatmap has 3 minutes of drain time and 1 minute of break time, it would equate to 3:30 in the calculation.
+- **If the [play time](/wiki/Beatmap/Play_time) of the highest difficulty is...**
   - **...lower than 3:30**, the lowest difficulty of each included game mode cannot be harder than a Normal.
   - **...between 3:30 and 4:15**, the lowest difficulty of each included game mode cannot be harder than a Hard.
   - **...between 4:15 and 5:00**, the lowest difficulty of each included game mode cannot be harder than an Insane.
-  - **[Break time](/wiki/Beatmap/Break) can only be included up to a maximum of 30 seconds in the [play time](/wiki/Beatmap/Play_time) calculations listed above.** For example, if a beatmap has 2 minutes of drain time and 2 minutes of break time, it would equate to 2:30 in the calculation.
   - **osu!mania beatmaps are bound by a different set of drain time thresholds and other spread rules defined in the [osu!mania ranking criteria](/wiki/Ranking_Criteria/osu!mania).**
 - **Difficulty names in a beatmap must be clearly progressive and accurately indicating of their respective difficulties, excluding:**
   - The highest difficulty of each game mode.
