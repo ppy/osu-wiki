@@ -53,7 +53,7 @@ La [pagina del grupo osu! Alumni](https://osu.ppy.sh/groups/16) menciona a todos
 | ::{ flag=US }:: [DawnII](https://osu.ppy.sh/users/8399) | BAT |
 | ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370) | GMT |
 | ::{ flag=TW }:: [deepsea](https://osu.ppy.sh/users/7824) | BAT |
-| ::{ flag=US }:: [Derekku](https://osu.ppy.sh/users/91341) | Administración |
+| ::{ flag=US }:: [Derekku](https://osu.ppy.sh/users/91341) | Administador |
 | ::{ flag=TH }:: [DJPop](https://osu.ppy.sh/users/2363) | BAT |
 | ::{ flag=US }:: [dkun](https://osu.ppy.sh/users/154400) | BAT |
 | ::{ flag=GB }:: [Doomsday](https://osu.ppy.sh/users/18983) | BAT |
@@ -169,7 +169,7 @@ La [pagina del grupo osu! Alumni](https://osu.ppy.sh/groups/16) menciona a todos
 | ::{ flag=PH }:: [NoHitter](https://osu.ppy.sh/users/124455) | BAT |
 | ::{ flag=US }:: [nuudles](https://osu.ppy.sh/users/21312) | osu!dev |
 | ::{ flag=CN }:: [Nymph](https://osu.ppy.sh/users/601990) | BAT |
-| ::{ flag=CN }:: [Nyquill](https://osu.ppy.sh/users/682935) | BAT, GMT |
+| ::{ flag=CA }:: [Nyquill](https://osu.ppy.sh/users/682935) | BAT, GMT |
 | ::{ flag=AU }:: [Oinari-sama](https://osu.ppy.sh/users/405508) | Moderador del chat, equipo de soporte |
 | ::{ flag=TH }:: [orioncomet](https://osu.ppy.sh/users/104827) | BAT |
 | ::{ flag=FI }:: [Orkel](https://osu.ppy.sh/users/39385) | Moderador del chat |
@@ -180,6 +180,7 @@ La [pagina del grupo osu! Alumni](https://osu.ppy.sh/groups/16) menciona a todos
 | ::{ flag=HK }:: [Pokie](https://osu.ppy.sh/users/207340) | BAT |
 | ::{ flag=CN }:: [popner](https://osu.ppy.sh/users/759860) | BAT |
 | ::{ flag=MY }:: [PROGUY](https://osu.ppy.sh/users/528181) | QAT |
+| ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | NAT |
 | ::{ flag=SE }:: [PuffBuck](https://osu.ppy.sh/users/4234525) | Gestor de torneos |
 | ::{ flag=ES }:: [Raiden](https://osu.ppy.sh/users/2239480) | GMT, QAT |
 | ::{ flag=GB }:: [RandomJibberish](https://osu.ppy.sh/users/157879) | BAT |
@@ -230,6 +231,7 @@ La [pagina del grupo osu! Alumni](https://osu.ppy.sh/groups/16) menciona a todos
 | ::{ flag=CL }:: [Uberzolik](https://osu.ppy.sh/users/1314547) | NAT |
 | ::{ flag=PL }:: [Ukami](https://osu.ppy.sh/users/820865) | Moderador del chat, GMT |
 | ::{ flag=TR }:: [UnderminE](https://osu.ppy.sh/users/444223) | Moderador del chat |
+| ::{ flag=NL }:: [Uni](https://osu.ppy.sh/users/617106) | GMT |
 | ::{ flag=BE }:: [VeilStar](https://osu.ppy.sh/users/4255720) | GMT, equipo de soporte |
 | ::{ flag=PH }:: [vytalibus](https://osu.ppy.sh/users/10028) | BAT |
 | ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | GMT, gestor de torneos |
@@ -248,7 +250,8 @@ La [pagina del grupo osu! Alumni](https://osu.ppy.sh/groups/16) menciona a todos
 | ::{ flag=CN }:: [Zero__wind](https://osu.ppy.sh/users/1822830) | BAT, GMT |
 | ::{ flag=CA }:: [Zerostarry](https://osu.ppy.sh/users/3480) | BAT |
 | ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) | GMT |
+| ::{ flag=TR }:: [Zeus-](https://osu.ppy.sh/users/5464437) | GMT |
 | ::{ flag=SG }:: [ZHSteven](https://osu.ppy.sh/users/142413) | BAT |
 | ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) | NAT |
-| ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) | Fundador de osu!academy, GMT |
+| ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) | Fundador de la osu!academy, GMT |
 | ::{ flag=US }:: [Zyid](https://osu.ppy.sh/users/2778) | BAT |

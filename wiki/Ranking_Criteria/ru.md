@@ -1,6 +1,6 @@
 ---
+outdated_since: 2d4959ec9ad9cb438363d7bf8e8220687a899602
 outdated_translation: true
-outdated_since: 097575f6a3dae8c477c302dce2d1c9f76b71bb89
 ---
 
 # Критерии ранкинга

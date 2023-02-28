@@ -113,9 +113,9 @@ osu!のビートマップはすべて、ユーザーの手によって作られ�
 
 osu!は、開発、メンテナンス、コミュニティ管理に協力する多くのユーザーなしでは成り立ちませんでした。
 
-[チーム](/wiki/People/The_Team): [開発者](/wiki/People/The_Team/Developers) • [グローバル モデレーション チーム(GMT)](/wiki/People/The_Team/Global_Moderation_Team) • [サポートチーム](/wiki/People/The_Team/Support_Team) • [ノミネーション アシスタント チーム(NAT)](/wiki/People/The_Team/Nomination_Assessment_Team) • [ビートマップ ノミネーター(BN)](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Project Loved](/wiki/People/The_Team/Project_Loved_Team)
+[チーム](/wiki/People/The_Team): [開発者](/wiki/People/The_Team/Developers) • [グローバル モデレーション チーム(GMT)](/wiki/People/The_Team/Global_Moderation_Team) • [サポートチーム](/wiki/People/The_Team/Support_Team) • [ノミネーション アシスタント チーム(NAT)](/wiki/People/The_Team/Nomination_Assessment_Team) • [ビートマップ ノミネーター(BN)](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Project Loved](/wiki/People/The_Team/Project_Loved_Team) • [ビートマップ スポットライト キュレーター(BSC)](/wiki/People/The_Team/Beatmap_Spotlight_Curators)
 
-[コミュニティへの貢献](/wiki/People/Community_Contributors) • [ユニークなタイトルを持つユーザー](/wiki/People/Users_with_unique_titles) • [トーナメント委員会](/wiki/People/Tournament_Committee) • [パフォーマンスポイント委員会](/wiki/People/Performance_Points_Committee)
+[コミュニティへの貢献](/wiki/People/Community_Contributors) • [ユニークなタイトルを持つユーザー](/wiki/People/Users_with_unique_titles) • [トーナメント委員会](/wiki/People/Tournament_Committee) • [パフォーマンスポイント委員会](/wiki/People/Performance_Points_Committee) • [osu! wikiのモデレーター](/wiki/People/osu!_wiki_maintainers)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -131,7 +131,7 @@ osu!は、開発、メンテナンス、コミュニティ管理に協力する�
 
 # wikiについて
 
-ここにあるほとんどのwikiは、ボランティアによって執筆・翻訳されています。改善を提案したり、問題を報告したり、独自の記事を書いたりすることもできます。
+ここにあるほとんどのwikiは、ボランティアによって執筆・翻訳されています。[GitHubのリポジトリ](https://github.com/ppy/osu-wiki)から、改善を提案したり、問題を報告したり、独自の記事を書いたりすることもできます。
 
 [osu!の歴史](/wiki/History_of_osu!) • [osu! wikiの歴史](/wiki/History_of_osu!/osu!_wiki) • [MappingとModdingの変更履歴](/wiki/History_of_osu!/Mapping_and_Modding_Timeline) • [エイプリルフール](/wiki/History_of_osu!/April_Fools)
 

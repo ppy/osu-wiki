@@ -3,13 +3,15 @@ tags:
   - badge
   - badges
   - badged
+outdated_translation: true
+outdated_since: d741631f9ac3b2376d85e380e4d1d8a82cca28e5
 ---
 
 # Support officiel aux tournois
 
 L'[équipe d'osu!](/wiki/People/The_Team) gère un programme dans le cadre duquel elle peut choisir de fournir un support supplémentaire aux tournois gérés par la communauté qui respectent un certain nombre de critères et d'attentes, à sa discrétion.
 
-Cet article a été mis à jour le 9 janvier 2022. Pour toute question ou clarification, veuillez consulter le salon textuel `#tournaments` sur le serveur Discord [osu!dev](https://discord.com/invite/ppy) ou envoyer un e-mail à [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+Cet article a été mis à jour le 8 janvier 2023. Pour toute question ou clarification, veuillez consulter le salon textuel `#tournaments` sur le serveur Discord [osu!dev](https://discord.com/invite/ppy) ou envoyer un e-mail à [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Avantages
 
@@ -70,6 +72,7 @@ En outre, tout matériel promotionnel ou tout service associé à un tournoi bé
 - Si un utilisateur répond aux critères d'inscription (s'il y en a), le tournoi ne doit pas empêcher ceux qui passent le screening de participer sans que de nombreuses preuves soient présentées publiquement contre eux et sans l'approbation de l'équipe de support aux comptes.
   - Il s'agit notamment d'empêcher de jouer les utilisateurs qui sont suspectés de "sandbag" leur performance. Si un organisateur a des raisons valables de penser que la présence de tels joueurs affecte l'intégrité compétitive de son tournoi, il peut soumettre le problème au [Comité des tournois](/wiki/People/Tournament_Committee) pour un examen au cas par cas en utilisant le [formulaire de report de tournoi](https://pif.ephemeral.ink/tournament-reports).
 - Un arbitre dédié doit être présent lors de chaque match. Les joueurs ne peuvent pas s'auto-arbitrer.
+  - L'utilisation de bots est autorisée lors des matchs de la phase de qualification, à condition qu'ils soient supervisés par un membre du staff.
 - Tous les matchs multijoueur relatifs au tournoi doivent être créés avec la commande `!mp make`, afin qu'ils n'expirent pas. Les résultats doivent être enregistrés et rendus publics sur le post original du forum du tournoi dans un format clair et accessible.
 
 Une fois le tournoi terminé, les organisateurs du tournoi devront envoyer les éléments suivants à l'équipe de support aux comptes :

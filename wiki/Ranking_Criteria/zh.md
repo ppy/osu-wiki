@@ -1,6 +1,7 @@
 ---
+outdated_since: 2d4959ec9ad9cb438363d7bf8e8220687a899602
 outdated_translation: true
-outdated_since: e94e24c7ece448f53534306951591330c8d06378
+no_native_review: true
 ---
 
 # 谱面上架标准 (RC)
@@ -181,8 +182,8 @@ outdated_since: e94e24c7ece448f53534306951591330c8d06378
 ### 规定
 
 - **[非继承时间点（红线）](/wiki/Client/Beatmap_editor/Timing#非继承时间点（红线）)必须准确地记录歌曲的拍子记号。** 如果错误的拍子记号持续超过一个小节，则必须在下一处强拍添加新的非继承时间点（红线），以重置拍子记号。如果歌曲含有部分不受编辑器支持的 #/4 拍子记号，则可使用非继承时间点（红线）重置节拍器，或直接编辑 `.osu` 文件得到。对于其他不受编辑器支持的时间记号，请参见[范例图表](/wiki/shared/timing/Timing_signature_reference_chart.png)或者查阅[八分拍歌曲测定](/wiki/Guides/Timing_Songs_With_8-Signatures)。
-- **谱面时间轴必须精确。** 即时间轴的 [BPM](/wiki/Beatmapping/Beats_per_minute) 和[偏移量](/wiki/Beatmapping/Offset)需要完全贴合歌曲。无规律的变奏歌曲也许不可能完美地测定，此时应在不影响谱面游玩的情况下尽量精确测定。如果某段含有复杂节奏的段落被休息段或者持续的转盘覆盖，也可以不用精确测量这个段落。
-- **谱面所有难度的[非继承时间点（红线）](/wiki/Client/Beatmap_editor/Timing#非继承时间点（红线）)必须相同。** 任意一个难度内所有的非继承时间点（红线）的 [BPM](/wiki/Beatmapping/Beats_per_minute) 和[偏移量](/wiki/Beatmapping/Offset)必须与其他难度相同。
+- **谱面时间轴必须精确。** 即时间轴的 [BPM](/wiki/Beatmapping/Beats_per_minute) 和每一个[非继承时间点（红线）](/wiki/Client/Beatmap_editor/Timing#非继承时间点（红线）)的偏移量需要完全贴合歌曲。无规律的变奏歌曲也许不可能完美地测定，此时应在不影响谱面游玩的情况下尽量精确测定。如果某段含有复杂节奏的段落被休息段或者持续的转盘覆盖，也可以不用精确测量这个段落。
+- **谱面所有难度的[非继承时间点（红线）](/wiki/Client/Beatmap_editor/Timing#非继承时间点（红线）)必须相同。** 任意一个难度内所有的非继承时间点（红线）的 [BPM](/wiki/Beatmapping/Beats_per_minute) 和偏移量必须与其他难度相同。
 - **[非继承时间点（红线）](/wiki/Client/Beatmap_editor/Timing#非继承时间点（红线）)只能用于测定或重置时间轴。** 多余的非继承时间点（红线）可能会影响主菜单脉冲特效或导致谱面时间轴偏移，在使用 [Nightcore 模组](/wiki/Gameplay/Game_modifier/Nightcore) 时也可能会出现多余错位的打击音效。以下两种情况除外：
   - 使 NightCore 模组的节拍和歌曲段落（一般为 4 小节）的开头对齐。
   - 在含有节拍细分不支持细分类型（如 1/11）的歌曲段落使用。
@@ -240,7 +241,7 @@ outdated_since: e94e24c7ece448f53534306951591330c8d06378
   - **最大文件大小：** 2.5MB
 - **视频的分辨率不得超过 1280 像素宽，720 像素高。** 另外，应该避免把较低分辨率的视频放大到较高分辨率并编码成文件。这样可保证视频文件不会变得不必要的大，或在视频解码时占用过多计算资源。
 - **视频编码必须使用 H.264 标准。**
-- **视频[偏移](/wiki/Beatmapping/Offset)必须与歌曲完美同步。** 错误的偏移会带来误导性的视觉表达。如果同一个视频被用于多个难度，其偏移必须一致。
+- **视频的偏移量必须与歌曲完美同步。** 错误的偏移量会带来误导性的视觉表达。如果同一个视频被用于多个难度，其偏移量必须一致。
 - **视频文件不应含有音轨。** osu! 不会使用视频文件中的音频轨道，并且，删除音轨能够缩减谱面文件大小。即使视频文件原有的音轨没有声音，也应予以删除。
   - *参见 [压制视频文件](/wiki/Guides/Compressing_files#video) 获取更多信息。*
 

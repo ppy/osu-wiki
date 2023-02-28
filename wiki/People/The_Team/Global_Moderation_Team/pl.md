@@ -66,7 +66,6 @@ Lista wszystkich moderatorów globalnych jest dostępna na [stronie grupy](https
 | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109) | Portugalski, japoński | Moderowanie czatu |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) |  | Zarządzanie społecznością, zarządzanie wiki osu! |
 | ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | Indonezyjski | Moderowanie społeczności twórców i moderów beatmap |
-| ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Chiński | Moderowanie społeczności twórców i moderów beatmap |
 | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) | Polski | Moderowanie czatu |
 | ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Chiński | Moderowanie społeczności twórców i moderów beatmap |
 | ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | Moderowanie społeczności twórców i moderów beatmap |
@@ -89,7 +88,6 @@ Lista wszystkich moderatorów globalnych jest dostępna na [stronie grupy](https
 | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) | Indonezyjski | Moderowanie czatu |
 | ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) | Francuski | Moderowanie czatu |
 | ::{ flag=BR }:: [Nukrid](https://osu.ppy.sh/users/2307484) | Portugalski, hiszpański | Moderowanie czatu |
-| ::{ flag=NL }:: [Uni](https://osu.ppy.sh/users/617106) | Niderlandzki | Moderowanie czatu |
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | Niemiecki | Moderowanie społeczności twórców i moderów beatmap |
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | Niemiecki, serbski | Moderowanie czatu, moderowanie społeczności twórców i moderów beatmap |
 | ::{ flag=PH }:: [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | Filipiński | Moderowanie czatu |
@@ -129,7 +127,7 @@ Lista wszystkich moderatorów globalnych jest dostępna na [stronie grupy](https
 | `#cantonese` |  | ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326), ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) |
 | `#chinese` | [中文](https://osu.ppy.sh/community/forums/25) | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419), ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326), ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729), ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) |
 | `#czechoslovak` |  |  |
-| `#dutch` | [Nederlands](https://osu.ppy.sh/community/forums/69) | ::{ flag=NL }:: [Uni](https://osu.ppy.sh/users/617106) |
+| `#dutch` | [Nederlands](https://osu.ppy.sh/community/forums/69) |  |
 | `#english` |  | *Wszyscy moderatorzy* |
 | `#filipino` | [Tagalog](https://osu.ppy.sh/community/forums/76) | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078), ::{ flag=PH }:: [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210), ::{ flag=KR }:: [ToGlette](https://osu.ppy.sh/users/1076236), ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927) |
 | `#finnish` | [Suomi](https://osu.ppy.sh/community/forums/24) | ::{ flag=FI }:: [Laurakko](https://osu.ppy.sh/users/7253731) |

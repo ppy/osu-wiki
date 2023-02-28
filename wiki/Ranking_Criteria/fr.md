@@ -1,6 +1,6 @@
 ---
+outdated_since: 2d4959ec9ad9cb438363d7bf8e8220687a899602
 outdated_translation: true
-outdated_since: e94e24c7ece448f53534306951591330c8d06378
 ---
 
 # Critères de classement
@@ -181,8 +181,8 @@ Cette catégorie contient des déclarations d'allocation explicites de concepts 
 ### Règles
 
 - **Les [points de timing non hérités](/wiki/Client/Beatmap_editor/Timing#points-de-timing-non-hérités) doivent être utilisés pour mapper avec précision les signatures temporelles de la musique.** Si une signature temporelle incorrecte dure plus d'une mesure, un point de timing non hérité doit être ajouté sur le prochain downbeat pour réinitialiser la signature temporelle. Pour les signatures #/4 non prises en charge par l'éditeur, les réinitialisations du métronome ou l'édition du fichier `.osu` sont acceptables. Pour les autres signatures temporelles non prises en charge, reportez-vous à ce [tableau exemplaire](/wiki/shared/timing/Timing_signature_reference_chart.png), et consultez le guide [Timing des musiques avec des signatures en #/8](/wiki/Guides/Timing_Songs_With_8-Signatures) pour plus d'informations.
-- **Les beatmaps doivent avoir un timing parfait.** Cela signifie que le [BPM](/wiki/Beatmapping/Beats_per_minute) et l'[offset](/wiki/Beatmapping/Offset) sont exactement synchronisés avec la musique. Les beatmaps dont le BPM change constamment peuvent être impossibles à timer parfaitement et doivent être aussi précis que possible sans affecter négativement la jouabilité. Un timing complexe pendant les breaks ou les spinners est facultatif.
-- **Les [points de timing non hérités](/wiki/Client/Beatmap_editor/Timing#points-de-timing-non-hérités) doivent être les mêmes dans toutes les difficultés d'une beatmap.** Chaque point doit avoir le même [BPM](/wiki/Beatmapping/Beats_per_minute) et [offset](/wiki/Beatmapping/Offset) dans chaque difficulté.
+- **Les beatmaps doivent avoir un timing parfait.** Cela signifie que le [BPM](/wiki/Beatmapping/Beats_per_minute) et l'offset de chaque [point de timing non hérité](/wiki/Client/Beatmap_editor/Timing#points-de-timing-non-hérités) sont exactement synchronisés avec la musique. Les beatmaps dont le BPM change constamment peuvent être impossibles à timer parfaitement et doivent être aussi précis que possible sans affecter négativement la jouabilité. Un timing complexe pendant les breaks ou les spinners est facultatif.
+- **Les [points de timing non hérités](/wiki/Client/Beatmap_editor/Timing#points-de-timing-non-hérités) doivent être les mêmes dans toutes les difficultés d'une beatmap.** Chaque point doit avoir le même [BPM](/wiki/Beatmapping/Beats_per_minute) et offset dans chaque difficulté.
 - **Les [points de timing non hérités](/wiki/Client/Beatmap_editor/Timing#points-de-timing-non-hérités) ne doivent être utilisés que lorsque cela est nécessaire pour le timing.** Les points de timing inutiles peuvent affecter involontairement la pulsation du menu principal, ajouter des sons indésirables au mod [Nightcore](/wiki/Gameplay/Game_modifier/Nightcore), ou provoquer un décalage du timing. Les utilisations acceptables sont les suivantes :
   - Alignement des battements du mod Nightcore avec le début des sections musicales.
   - Adaptation pour les objets dans les sections musicales nécessitant des diviseurs de temps non soutenus (par exemple 1/11).
@@ -240,7 +240,7 @@ Cette catégorie contient des déclarations d'allocation explicites de concepts 
   - **Taille maximale du fichier :** 2.5MB
 - **Les dimensions d'une vidéo ne doivent pas dépasser une largeur de 1280 et une hauteur de 720 pixels.** En outre, il faut éviter de convertir une vidéo de faible résolution en une résolution plus élevée. Cela permet de s'assurer que les fichiers vidéo ne deviennent pas excessivement volumineux ou gourmands en ressources.
 - **Une vidéo doit être encodée en H.264.**
-- **L'[offset](/wiki/Beatmapping/Offset) d'une vidéo doit être correct s'il est en rythme avec la musique.** Un offset incorrect peut donner lieu à une représentation visuelle trompeuse de la musique. Si la même vidéo apparaît dans plusieurs difficultés, elle doit toujours avoir le même offset.
+- **L'offset d'une vidéo doit être correct s'il est en rythme avec la musique.** Un offset incorrect peut donner lieu à une représentation visuelle trompeuse de la musique. Si la même vidéo apparaît dans plusieurs difficultés, elle doit toujours avoir le même offset.
 - **La piste audio d'une vidéo doit être supprimée du fichier vidéo.** La piste audio de la vidéo n'est pas utilisée dans osu!, et la supprimer réduit la taille du fichier beatmap. Cela inclut les vidéos avec des pistes audio muettes.
   - *Voir [Compression des fichiers § Vidéo](/wiki/Guides/Compressing_files#vidéo) pour des conseils.*
 

@@ -4,6 +4,8 @@ tags:
   - moderator
   - moderators
   - chat mod
+outdated_translation: true
+outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 ---
 
 # ทีมผู้ดูแล
@@ -72,7 +74,6 @@ tags:
 | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109) | โปรตุเกส, ญี่ปุ่น | ผู้ดูแลแชท |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) |  | ผู้สนับสนุนผู้เล่น, ผู้ดูแลวิกิ |
 | ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | อินโดนีเซีย | ผู้ดูแลชุมชนการแมป/การ mod |
-| ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | จีน | ผู้ดูแลชุมชนการแมป/การ mod |
 | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) | โปแลนด์ | ผู้ดูแลแชท |
 | ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | จีน | ผู้ดูแลชุมชนการแมป/การ mod |
 | ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | ผู้ดูแลชุมชนการแมป/การ mod |
@@ -95,7 +96,6 @@ tags:
 | ::{ flag=ID }:: [Niva](https://osu.ppy.sh/users/197805) | อินโดนีเซีย | ผู้ดูแลแชท |
 | ::{ flag=FR }:: [Nozhomi](https://osu.ppy.sh/users/2716981) | ฝรั่งเศส | ผู้ดูแลแชท |
 | ::{ flag=BR }:: [Nukrid](https://osu.ppy.sh/users/2307484) | โปรตุเกส, สเปน | ผู้ดูแลแชท |
-| ::{ flag=NL }:: [Uni](https://osu.ppy.sh/users/617106) | ดัตช์ | ผู้ดูแลแชท |
 | ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) | เยอรมัน | ผู้ดูแลชุมชนการแมป/การ mod |
 | ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) | เยอรมัน, เซอร์เบีย | ผู้ดูแลแชท, ผู้ดูแลชุมชนการแมป/การ mod |
 | ::{ flag=PH }:: [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | ฟิลิปปินส์ | ผู้ดูแลแชท |
@@ -135,7 +135,7 @@ tags:
 | `#cantonese` |  | ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326), ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729) |
 | `#chinese` | [中文](https://osu.ppy.sh/community/forums/25) | ::{ flag=MY }:: [bibitaru](https://osu.ppy.sh/users/4482419), ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326), ::{ flag=HK }:: [Petal](https://osu.ppy.sh/users/7354729), ::{ flag=TW }:: [spboxer3](https://osu.ppy.sh/users/197974) |
 | `#czechoslovak` |  |  |
-| `#dutch` | [Nederlands](https://osu.ppy.sh/community/forums/69) | ::{ flag=NL }:: [Uni](https://osu.ppy.sh/users/617106) |
+| `#dutch` | [Nederlands](https://osu.ppy.sh/community/forums/69) |  |
 | `#english` |  | *ผู้ดูแลทั้งหมด* |
 | `#filipino` | [Tagalog](https://osu.ppy.sh/community/forums/76) | ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078), ::{ flag=PH }:: [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210), ::{ flag=KR }:: [ToGlette](https://osu.ppy.sh/users/1076236), ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927) |
 | `#finnish` | [Suomi](https://osu.ppy.sh/community/forums/24) | ::{ flag=FI }:: [Laurakko](https://osu.ppy.sh/users/7253731) |

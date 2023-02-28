@@ -536,14 +536,14 @@ Abbreviations for user groups are used throughout this log:
 - 2022-11-08: Added [Hivie](https://osu.ppy.sh/users/14102976) to **NAT**
 - 2022-11-13: Added [Remuring](https://osu.ppy.sh/users/6522146) to **Project Loved Team**
 - 2022-11-19: Moved [Protastic101](https://osu.ppy.sh/users/6712747) from **osu! Alumni** to **GMT**
-- 2022-11-20: Removed [heyronii](https://osu.ppy.sh/users/5642779) from the **GMT**
-- 2022-11-20: Removed [Zeus-](https://osu.ppy.sh/users/5464437) from the **GMT**
-- 2022-11-20: Removed [Orkay](https://osu.ppy.sh/users/9321674) from the **GMT**
+- 2022-11-20: Removed [heyronii](https://osu.ppy.sh/users/5642779) from **osu! Alumni**
+- 2022-11-20: Removed [Zeus-](https://osu.ppy.sh/users/5464437) from **GMT**
+- 2022-11-20: Removed [Orkay](https://osu.ppy.sh/users/9321674) from **GMT**
 - 2022-11-21: Added [Venix](https://osu.ppy.sh/users/5999631) to **Beatmap Spotlight Curators**
-- 2022-11-22: Added [Zeus-](https://osu.ppy.sh/users/5464437) to the **Project Loved Team**
-- 2022-11-23: Removed [Zeus-](https://osu.ppy.sh/users/5464437) from the **Project Loved Team**
+- 2022-11-22: Added [Zeus-](https://osu.ppy.sh/users/5464437) to **Project Loved Team**
+- 2022-11-23: Removed [Zeus-](https://osu.ppy.sh/users/5464437) from **Project Loved Team**
 - 2022-11-27: Moved [Coldrod](https://osu.ppy.sh/users/9065991) from **GMT** to **osu! Alumni**
-- 2022-11-29: Added [PuffBuck](https://osu.ppy.sh/users/4234525) to the **osu! Alumni**
+- 2022-11-29: Added [PuffBuck](https://osu.ppy.sh/users/4234525) to **osu! Alumni**
 
 ### Beatmap Nominators
 
@@ -586,29 +586,53 @@ Abbreviations for user groups are used throughout this log:
 
 - 2022-12-02: Moved [Kite](https://osu.ppy.sh/users/134572) from **GMT** to **osu! Alumni**
 - 2022-12-03: Moved [Pereira006](https://osu.ppy.sh/users/537344) from **GMT** to **osu! Alumni**
-- 2022-12-03: Added [FAMoss](https://osu.ppy.sh/users/7707789) to the **GMT**
+- 2022-12-03: Added [FAMoss](https://osu.ppy.sh/users/7707789) to **GMT**
 - 2022-12-04: Moved [Loneight](https://osu.ppy.sh/users/663131) from **GMT** to **osu! Alumni**
+- 2022-12-06: Removed [Noffy](https://osu.ppy.sh/users/1541323) from **Project Loved Team**
+- 2022-12-06: Removed [Nokashi](https://osu.ppy.sh/users/5431196) from **Project Loved Team**
+- 2022-12-07: Added [Maxus](https://osu.ppy.sh/users/4335785) to **Project Loved Team**
+- 2022-12-07: Added [Eriha](https://osu.ppy.sh/users/16320311) to **Project Loved Team**
+- 2022-12-11: Added [Zeus-](https://osu.ppy.sh/users/5464437) to **osu! Alumni**
+- 2022-12-06: Removed [stupud man](https://osu.ppy.sh/users/2141612) from **Project Loved Team**
+- 2022-12-11: Removed [Firika](https://osu.ppy.sh/users/9590557) from **GMT**
+- 2022-12-16: Added [-Kazu-](https://osu.ppy.sh/users/920861) to **Project Loved Team**
+- 2022-12-20: Added [Kasumi-sama](https://osu.ppy.sh/users/6177263) to **Project Loved Team**
+- 2022-12-24: Removed [NexusQI](https://osu.ppy.sh/users/13822800) from **NAT**
+- 2022-12-28: Removed [UberFazz](https://osu.ppy.sh/users/8646059) from **Project Loved Team**
 
 ### Beatmap Nominators
 
 #### Additions
 
+- 2022-12-08: Added [Hobbes2](https://osu.ppy.sh/users/8157492) to **Probationary BN**
+- 2022-12-08: Added [fuhie](https://osu.ppy.sh/users/7620002) to **Probationary BN**
+- 2022-12-08: Added [Aistre](https://osu.ppy.sh/users/4879380) to **BN**
+- 2022-12-11: Added [fvrex](https://osu.ppy.sh/users/11863699) to **Probationary BN**
+- 2022-12-11: Added [ckharv](https://osu.ppy.sh/users/9967026) to **Probationary BN**
+- 2022-12-13: Added [Feerum](https://osu.ppy.sh/users/4815717) to **Probationary BN**
+- 2022-12-14: Added [ArtZone](https://osu.ppy.sh/users/15548034) to **Probationary BN**
+- 2022-12-19: Added [Smoke](https://osu.ppy.sh/users/10726630) to **Probationary BN**
+- 2022-12-22: Added [Rocma](https://osu.ppy.sh/users/566276) to **Probationay BN**
+- 2022-12-22: Added [browiec](https://osu.ppy.sh/users/9426712) to **Probationary BN**
+- 2022-12-24: Added [NexusQI](https://osu.ppy.sh/users/13822800) to **BN**
+- 2022-12-24: Added [-Rei](https://osu.ppy.sh/users/8200707) to **Probationary BN**
+- 2022-12-30: Added [Heroine](https://osu.ppy.sh/users/12727076) to **Probationary BN**
+
 #### Moves
+
+- 2022-12-07: Moved [Axer](https://osu.ppy.sh/users/7299864) from **BN** to **Probationary BN**
+- 2022-12-13: Moved [Seiran-](https://osu.ppy.sh/users/14351534) from **Probationary BN** to **BN**
+- 2022-12-16: Moved [Zuid-Afrikaan](https://osu.ppy.sh/users/29282944) from **Probationary BN** to **BN**
+- 2022-12-16: Moved [bigh](https://osu.ppy.sh/users/16352736) from **Probationary BN** to **BN**
+- 2022-12-23: Moved [Rinze](https://osu.ppy.sh/users/19901680) from **Probationary BN** to **BN**
+- 2022-12-23: Moved [Metzo](https://osu.ppy.sh/users/10633982) from **Probationary BN** to **BN**
+- 2022-12-30: Moved [Usaha](https://osu.ppy.sh/users/6443117) from **BN** to **Probationary BN**
+- 2022-12-30: Moved [Len](https://osu.ppy.sh/users/1686145) from **BN** to **Probationary BN**
+- 2022-12-30: Moved [Didah](https://osu.ppy.sh/users/8030129) from **BN** to **Probationary BN**
 
 #### Removals
 
-<!-- last updated 2022-12-06 09:29 UTC - Moved Loneight from GMT to osu! Alumni -->
-
-<!--
-To update this article:
-
-- Go to the #groupfeed channel of Aiess Discord server <https://discord.gg/2XV5dcW>
-- Use the "last updated" marker above to find the relevant message sent by Aiess
-- Add entries for all of the messages after that one
-  - For dates, use the timestamp in Aiess embeds (NOT the date of the Discord message), converted to UTC
-  - If a user was added from one group and removed from another at the same time, it can be logged as a "Move" here. The only time this shouldn't be done is when one of the groups is BN and another is not, since we group BN logging separately in this article (e.g. remove from BN + add to NAT != move from BN to NAT, for logging purposes)
-- Update the "last updated" marker above with the current time and the last message from Aiess
-- Make the same updates to group member lists in their relevant articles
-
-—clayton
--->
+- 2022-12-23: Removed [Natsuko](https://osu.ppy.sh/users/8266817) from **Probationary BN**
+- 2022-12-23: Removed [Myxo](https://osu.ppy.sh/users/2202645) from **BN**
+- 2022-12-23: Removed [-Flashlight-](https://osu.ppy.sh/users/9731062) from **Probationary BN**
+- 2022-12-30: Removed [NexusQI](https://osu.ppy.sh/users/13822800) from **BN**
