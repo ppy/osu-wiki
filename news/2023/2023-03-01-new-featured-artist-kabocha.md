@@ -44,6 +44,8 @@ Or bang some drums to [this osu!taiko map](https://osu.ppy.sh/beatmapsets/185151
     <source src="https://assets.ppy.sh/artists/345/Who%20is%20the%20Predator%2FKabocha%20feat.%20Ayu%20-%20Gyokuza%20no%20Ue%20no%20Ningyo%20Hime.mp3">
 </audio>
 
+<!-- lint ignore no-heading-punctuation-->
+
 ### Kabocha feat. Nanahira - Niina e.
 
 <audio controls>
