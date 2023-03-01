@@ -38,99 +38,99 @@ Before we dive into the results, let's take a peek at the various handsome rewar
 [![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-maps-collab-1.png)](https://osu.ppy.sh/beatmapsets/1357624)\
 [![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-maps-collab-2.png)](https://osu.ppy.sh/beatmapsets/1633250)\
 [![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-maps-collab-3.png)](https://osu.ppy.sh/beatmapsets/1388906)
-{#osu!-maps-collab}
+{id=osu!-maps-collab}
 
 ![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-maps-complex-0.png)\
 [![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-maps-complex-1.png)](https://osu.ppy.sh/beatmapsets/1312076)\
 [![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-maps-complex-2.png)](https://osu.ppy.sh/beatmapsets/1376486)\
 [![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-maps-complex-3.png)](https://osu.ppy.sh/beatmapsets/1306570)
-{#osu!-maps-complex}
+{id=osu!-maps-complex}
 
 ![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-maps-high-bpm-alternator-0.png)\
 [![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-maps-high-bpm-alternator-1.png)](https://osu.ppy.sh/beatmapsets/1301330)\
 [![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-maps-high-bpm-alternator-2.png)](https://osu.ppy.sh/beatmapsets/1529362)\
 [![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-maps-high-bpm-alternator-3.png)](https://osu.ppy.sh/beatmapsets/1382362)
-{#osu!-maps-high-bpm-alternator}
+{id=osu!-maps-high-bpm-alternator}
 
 ![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-maps-hitsounding-0.png)\
 [![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-maps-hitsounding-1.png)](https://osu.ppy.sh/beatmapsets/1333932)\
 [![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-maps-hitsounding-2.png)](https://osu.ppy.sh/beatmapsets/1633250)\
 [![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-maps-hitsounding-3.png)](https://osu.ppy.sh/beatmapsets/1579180)
-{#osu!-maps-hitsounding}
+{id=osu!-maps-hitsounding}
 
 ![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-maps-marathon-0.png)\
 [![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-maps-marathon-1.png)](https://osu.ppy.sh/beatmapsets/1610231)\
 [![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-maps-marathon-2.png)](https://osu.ppy.sh/beatmapsets/1459218)\
 [![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-maps-marathon-3.png)](https://osu.ppy.sh/beatmapsets/1633250)
-{#osu!-maps-marathon}
+{id=osu!-maps-marathon}
 
 ![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-maps-slider-tech-0.png)\
 [![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-maps-slider-tech-1.png)](https://osu.ppy.sh/beatmapsets/1188437)\
 [![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-maps-slider-tech-2.png)](https://osu.ppy.sh/beatmapsets/1190470)\
 [![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-maps-slider-tech-3.png)](https://osu.ppy.sh/beatmapsets/1329045)
-{#osu!-maps-slider-tech}
+{id=osu!-maps-slider-tech}
 
 ![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-maps-small-circles-0.png)\
 [![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-maps-small-circles-1.png)](https://osu.ppy.sh/beatmapsets/1283652)\
 [![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-maps-small-circles-2.png)](https://osu.ppy.sh/beatmapsets/1251587)\
 [![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-maps-small-circles-3.png)](https://osu.ppy.sh/beatmapsets/1321964)
-{#osu!-maps-small-circles}
+{id=osu!-maps-small-circles}
 
 ![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-maps-unorthodox-0.png)\
 [![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-maps-unorthodox-1.png)](https://osu.ppy.sh/beatmapsets/1376486)\
 [![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-maps-unorthodox-2.png)](https://osu.ppy.sh/beatmapsets/1329045)\
 [![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-maps-unorthodox-3.png)](https://osu.ppy.sh/beatmapsets/1322727)
-{#osu!-maps-unorthodox}
+{id=osu!-maps-unorthodox}
 
 ![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-maps-vanilla-0.png)\
 [![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-maps-vanilla-1.png)](https://osu.ppy.sh/beatmapsets/1301789)\
 [![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-maps-vanilla-2.png)](https://osu.ppy.sh/beatmapsets/1286287)\
 [![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-maps-vanilla-3.png)](https://osu.ppy.sh/beatmapsets/1312079)\
 [![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-maps-vanilla-4.png)](https://osu.ppy.sh/beatmapsets/1348249)
-{#osu!-maps-vanilla}
+{id=osu!-maps-vanilla}
 
 ![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-maps-grand-award-0.png)\
 [![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-maps-grand-award-1.png)](https://osu.ppy.sh/beatmapsets/1188437)\
 [![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-maps-grand-award-2.png)](https://osu.ppy.sh/beatmapsets/1529362)\
 [![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-maps-grand-award-3.png)](https://osu.ppy.sh/beatmapsets/1610231)
-{#osu!-maps-grand-award}
+{id=osu!-maps-grand-award}
 
 ![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-users-hitsounder-0.png)\
 [![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-users-hitsounder-1.png)](https://osu.ppy.sh/users/8972308)\
 [![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-users-hitsounder-2.png)](https://osu.ppy.sh/users/10969875)\
 [![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-users-hitsounder-3.png)](https://osu.ppy.sh/users/2495509)
-{#osu!-users-hitsounder}
+{id=osu!-users-hitsounder}
 
 ![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-users-mapper-0.png)\
 [![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-users-mapper-1.png)](https://osu.ppy.sh/users/7081160)\
 [![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-users-mapper-2.png)](https://osu.ppy.sh/users/4966334)\
 [![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-users-mapper-3.png)](https://osu.ppy.sh/users/7777875)
-{#osu!-users-mapper}
+{id=osu!-users-mapper}
 
 ![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-users-modder-0.png)\
 [![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-users-modder-1.png)](https://osu.ppy.sh/users/3181083)\
 [![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-users-modder-2.png)](https://osu.ppy.sh/users/4323406)\
 [![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-users-modder-3.png)](https://osu.ppy.sh/users/896613)
-{#osu!-users-modder}
+{id=osu!-users-modder}
 
 ![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-users-most-promising-0.png)\
 [![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-users-most-promising-1.png)](https://osu.ppy.sh/users/10562853)\
 [![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-users-most-promising-2.png)](https://osu.ppy.sh/users/12551840)\
 [![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-users-most-promising-3.png)](https://osu.ppy.sh/users/12704035)
-{#osu!-users-most-promising}
+{id=osu!-users-most-promising}
 
 ![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-users-outstanding-contributor-0.png)\
 [![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-users-outstanding-contributor-1.png)](https://osu.ppy.sh/users/4323406)\
 [![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-users-outstanding-contributor-2.png)](https://osu.ppy.sh/users/6573093)\
 [![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-users-outstanding-contributor-3.png)](https://osu.ppy.sh/users/3178418)
-{#osu!-users-outstanding-contributor}
+{id=osu!-users-outstanding-contributor}
 
 ![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-users-grand-award-0.png)\
 [![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-users-grand-award-1.png)](https://osu.ppy.sh/users/7777875)\
 [![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-users-grand-award-2.png)](https://osu.ppy.sh/users/7081160)\
 [![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-users-grand-award-3.png)](https://osu.ppy.sh/users/1231762)\
 [![](/wiki/shared/news/2022-12-08-mappers-choice-awards/osu!-users-grand-award-4.png)](https://osu.ppy.sh/users/4323406)
-{#osu!-users-grand-award}
+{id=osu!-users-grand-award}
 
 ## osu!taiko
 

@@ -46,7 +46,7 @@ El repositorio de la osu! wiki usa [integración continua](https://docs.github.c
 
 El archivo [`package.json`](https://github.com/ppy/osu-wiki/blob/master/package.json) enumera todos los complementos ([remark](https://github.com/remarkjs/remark)) utilizados por la IC, de los cuales algunos fueron escritos por los mantenedores de la osu! wiki.
 
-Las comprobaciones de IC se ejecutan automáticamente en cada commit de un colaborador recurrente. Para fusionar sus solicitudes de cambios, se espera que los contribuyentes corrijan los errores informados por la IC. Para ver el [estado de verificación](img/ci-status.png), haga lo siguiente:
+Las comprobaciones de IC se ejecutan automáticamente en cada commit de un colaborador recurrente. Para fusionar sus solicitudes de cambios, se espera que los contribuidores corrijan los errores informados por la IC. Para ver el [estado de verificación](img/ci-status.png), haga lo siguiente:
 
 1. Desplácese hacia abajo en la página de la solicitud de cambios, encuentra en la barra de estado `osu-wiki continuous integration` y haga clic en el enlace `Details`.
 2. En la nueva página, expanda el paso `run remark on changed files`. Cada hallazgo va acompañado de su ubicación exacta en un archivo y una breve descripción de por qué es un error.
