@@ -70,7 +70,7 @@ Si nous décidons de vous laisser revenir, nous vous demanderons que vous accept
 - **Vous ne vous associerez pas avec d'autres comptes.** Cela inclut de jouer sur un ordinateur partagé.
 - **Le moindre mauvais comportement majeur aura pour résultat une restriction immédiate.** Cela inclut les silences majeurs.
 
-Les retours d'appel dans les conditions standard ci-dessus sont également interdits de tournois officiels, à la fois en tant que joueur et membre de l'équipe du tournoi. La durée de ce bannissement est d'un an par restriction (si l'utilisateur en est à sa deuxième restriction, le bannissement durera 2 ans). L'équipe de support aux comptes clarifiera la durée de ce bannissement.
+Les retours d'appel dans les conditions standard ci-dessus sont également interdits de tournois officiels et badgés, à la fois en tant que joueur et membre de l'équipe du tournoi. La durée de ce bannissement est d'un an par restriction (si l'utilisateur en est à sa deuxième restriction, le bannissement durera 2 ans). L'équipe de support aux comptes clarifiera la durée de ce bannissement.
 
 **Tricher ou partager son compte durant un tournoi officiel mènera à un bannissement permanent de l'utilisateur.** Vous ne pouvez pas faire appel quant à ce bannissement (votre mail sera ignoré si vous essayez) et ne sera pas supprimé, réduit ou levé dans n'importe quelles circonstances.
 
