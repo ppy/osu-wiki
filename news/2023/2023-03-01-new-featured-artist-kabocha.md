@@ -24,7 +24,7 @@ Witness multiple osu! players as they struggle to maintain decent accuracy on a 
 
 ### Kabocha feat. mikanzil - HOTCHPOTCH Hitoribocchi
 
-Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/1934595) hosted by [Garden](https://osu.ppy.sh/users/2849992)
+Check out [the map from the video above](https://osu.ppy.sh/beatmapsets/1934595) hosted by [Garden](https://osu.ppy.sh/users/2849992)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/345/Hacchi%20Pocchi%20Hitoribocchi%2FKabocha%20feat.%20mikanzil%20-%20HOTCHPOTCH%20Hitoribocchi.mp3">
