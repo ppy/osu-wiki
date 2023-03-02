@@ -117,6 +117,8 @@ You can witness it for yourself below:
 
 However, that's only the tip of the iceberg. Although we have had many technical 10-star FCs, mrekk is the first player to ever achieve the 10-star Full Combo medal without using a touch device.
 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/NvadDZnESvI" frameborder="0" allowfullscreen></iframe>
+
 And lastly, before mrekk set the score shown above, he also set a score on [THE ORAL CIGARETTES - 5150](https://osu.ppy.sh/beatmapsets/1587493#osu/3242187) with HDDT 4 minutes prior to the 10-star FC, in another map that requires high skill in both speed and consistency. The length of the map matters especially at 9.85 stars, not just speed, which makes this that much harder to FC.
 
 No fancy video embed for this one unfortunately, but here's a link to the [video of the play](https://www.youtube.com/watch?v=ulPJlMacvtc)!
