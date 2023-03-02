@@ -227,7 +227,7 @@ Check out all the skins highlighted with this showcase playlist below:
 
 ## Did you know?
 
-In the earliest osu! days, a separate program was used to update osu! called "osume". Besides its function of updating the game, skins that were deemed finished and of good quality were also made downloadable straight through the updater.
+In the earliest osu! days, a separate program was used to update osu! called "osume". Besides its function of updating the game, skins that were deemed finished and of good quality were also made downloadable straight through the updater. Thanks to [Kurboh](https://osu.ppy.sh/users/15243233) for providing this cool osu! fact.
 
 ![](/wiki/shared/news/2023-03-02-osumonthly-8/did-you-know-feb23.png)
 
