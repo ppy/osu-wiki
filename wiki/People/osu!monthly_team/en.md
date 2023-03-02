@@ -14,6 +14,7 @@ The people listed below are the core of the osu!monthly team and participate eve
 | :-- | :-- |
 | ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Maintainer |
 | ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823) | Co-maintainer |
+| ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | Co-maintainer |
 | ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) | Trivia Tinkerer |
 | ::{ flag=CA }:: [ianpep](https://osu.ppy.sh/users/7699030) | Writer[^task-taiko] |
 | ::{ flag=ES }:: [kadoen](https://osu.ppy.sh/users/12780575) | Writer[^task-mania] |
