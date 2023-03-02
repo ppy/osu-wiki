@@ -143,7 +143,7 @@ osu!supporter peut également être offert à un autre joueur en entrant son nom
 
 Une fois la transaction terminée, un nouvel événement apparaîtra dans la section `Activité récente` du profil du donateur et du bénéficiaire :
 
-- `{nom_d'utilisateur} a soutenu osu! - merci pour votre générosité !` si c'est la première fois que l'utilisateur reçoit un osu!supporter ou l'offre à quelqu'un d'autre.
+- `{nom_d'utilisateur} a soutenu osu! - merci pour votre générosité !` si c'est la première fois que l'utilisateur achète un tag osu!supporter ou l'offre à quelqu'un d'autre.
 - `{nom_d'utilisateur} a de nouveau choisi de soutenir osu! - merci pour votre générosité !` si l'utilisateur a déjà été un osu!supporter ou l'a déjà offert auparavant.
 - `{nom_d'utilisateur} a reçu l'osu!supporter en cadeau !` dans le cas où le tag a été offert.
 
