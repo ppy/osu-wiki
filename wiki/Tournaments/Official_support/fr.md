@@ -31,7 +31,7 @@ Les tournois gérés par la communauté qui respectent les critères stricts sui
 - Le fil de discussion du forum pour le tournoi **DOIT** contenir un lien clairement visible dans une police de taille normale vers le [formulaire de rapport de tournoi](https://pif.ephemeral.ink/tournament-reports) comme tout dernier contenu du message original.
   - `https://pif.ephemeral.ink/tournament-reports`
   - Ce formulaire de rapport est supervisé par le [Comité des tournois](/wiki/People/Tournament_Committee). Nous encourageons tous les utilisateurs, qu'ils soient joueurs ou membres du staff, à utiliser ce formulaire si nécessaire. Tout manquement aux [attentes](#attentes), aux [autres procédures](#autres-procédures) ou aux conditions d'[éligibilité](#éligibilité) doit faire l'objet d'un rapport.
-- Le tournoi doit se conformer à toutes les [attentes](#attentes) des tournois officiellement soutenus.
+- Le tournoi doit se conformer à toutes les [attentes](#attentes) des tournois bénéficiant de support officiel.
 
 ## Demande de support
 
@@ -74,7 +74,7 @@ En outre, tout matériel promotionnel ou tout service associé à un tournoi bé
 - Un arbitre dédié doit être présent lors de chaque match. Les joueurs ne peuvent pas s'auto-arbitrer.
   - L'utilisation de bots est autorisée lors des matchs de la phase de qualification, à condition qu'ils soient supervisés par un membre du staff.
 - Les matchs asynchrones ne sont en aucun cas autorisés. Toutes les équipes participantes doivent être présentes à l'heure prévue du match.
-- Tous les matchs multijoueur relatifs au tournoi doivent être créés avec la commande `!mp make`, afin qu'ils n'expirent pas. Les résultats doivent être enregistrés et rendus publics sur le post original du forum du tournoi ou sur une source extérieure linkn dans le post du forum dans un format clair et accessible.
+- Tous les matchs multijoueur relatifs au tournoi doivent être créés avec la commande `!mp make`, afin qu'ils n'expirent pas. Les résultats doivent être enregistrés et rendus publics sur le post original du forum du tournoi ou sur une source extérieure dans le post du forum dans un format clair et accessible.
 
 Une fois le tournoi terminé, les organisateurs du tournoi devront envoyer les éléments suivants à l'équipe de support aux comptes :
 
@@ -121,7 +121,7 @@ Utilisateur4,Équipe2,1234567
 
 Une fois le screening terminé, l'équipe de support aux comptes fournira une liste de tous les utilisateurs qui n'ont pas passé le screening et qui ne sont pas considérés comme éligibles pour le tournoi, sans fournir de raison spécifique. Les utilisateurs qui ne sont pas satisfaits du résultat du screening doivent être invités à consulter [accounts@ppy.sh](mailto:accounts@ppy.sh) par e-mail.
 
-Seuls les joueurs qui participent au tournoi **ou** qui seraient des remplaçants probables pour une équipe constituée au cours du tournoi devraient être envoyés en screening. Par exemple, dans le cas d'un tournoi national utilisant un système d'essais, les organisateurs sont encouragés à n'envoyer que les joueurs dont il a été déterminé qu'ils participeraient au tournoi après la fin des essais, ainsi que plusieurs remplaçants pour chaque équipe au cas où ils devraient participer. Pour savoir quelles sont les personnes inscrites au screening à un tournoi particulier, contactez le [Comité du tournoi](/wiki/People/Tournament_Committee).
+Seuls les joueurs qui participent au tournoi **ou** qui seraient de potentiels remplaçants pour une équipe constituée au cours du tournoi devraient être envoyés pour passer le screening. Par exemple, dans le cas d'un tournoi national utilisant un système de tryouts, les organisateurs sont encouragés à n'envoyer que les joueurs dont la participation au tournoi a été déterminée suite aux tryouts, ainsi que plusieurs remplaçants pour chaque équipe au cas où ils devraient participer. Pour savoir quels joueurs sont inscrits au screening à un tournoi, contactez le [Comité des tournois](/wiki/People/Tournament_Committee).
 
 **Le fait d'autoriser des utilisateurs qui n'ont pas réussi à passer le screening à participer à votre tournoi entraînera le retrait immédiat du support et le refus de toute demande de support ultérieure.**
 
