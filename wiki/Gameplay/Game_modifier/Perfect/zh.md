@@ -28,28 +28,28 @@ tags:
 
 ## 说明
 
-The **Perfect** mod is a [游戏模组](/wiki/Game_modifier) that aims to aid players who are going for an SS grade by automatically failing and retrying [beatmaps](/wiki/Beatmap) upon missing a note or obtaining any score on a [hit object](/wiki/Hit_object) other than 300 or more.
+**Perfect** [游戏模组](/wiki/Game_modifier)通过在漏掉音符、[打击物件](/wiki/Hit_object)获得 300 以外的得分等等情况下，自动认定失败、重新开始[谱面](/wiki/Beatmap)，旨在帮助想要获得 SS 等级的玩家。
 
-Any of the following acts **will cause** the Perfect mod to restart the beatmap:
+下列任一情况**会导致**此模组重新开始谱面：
 
-- Missing a note
-- Obtaining a `100` or `50`
-- Failing a spinner
-- Sliderbreaking
+- 漏音符
+- 获得 `100` 或 `50`
+- 未能完成转盘
+- 断滑条
 
-Any of the following acts **will not cause** the Perfect mod to restart the beatmap:
+下列情况**不会导致**此模组重新开始谱面：
 
-- Obtaining a `300`
-- Completing a spinner
-- Obtaining a Rainbow 300/MAX score ([osu!mania](/wiki/Game_mode/osu!mania))
-- Obtaining a 300 score value (osu!mania)
+- 获得 `300`
+- 完成转盘
+- 获得彩虹 300/MAX 得分（[osu!mania](/wiki/Game_mode/osu!mania)）
+- 获得 300 分（osu!mania）
 
-This mod has the same effect across all [game modes](/wiki/Game_mode)
+此模组对所有[游戏模式](/wiki/Game_mode)效果相同。
 
 ## 杂项
 
-- If there is a skippable prologue, the Perfect mod will not automatically skip it because it uses restart functionality as opposed to a quick-retry.
-- The Perfect mod is a variant of the [Sudden Death](/wiki/Game_modifier/Sudden_Death) mod.
+- 如果谱面开头可跳过，由于此模组使用重新开始功能而非快速重试，将不会自动跳过开头。
+- 此模组是 [Sudden Death](/wiki/Game_modifier/Sudden_Death) 模组的变体。
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

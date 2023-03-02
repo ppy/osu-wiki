@@ -29,7 +29,7 @@ tags:
 
 *注意：启用此模组会导致成绩不计入排名。*
 
-The **Target Practice** mod is an experimental [游戏模组](/wiki/Game_modifier) that removes all the mapped [hit objects](/wiki/Hit_object) and replaces them with a simplified and consistent set of "targets."
+The **Target Practice**n experimental [游戏模组](/wiki/Game_modifier) that removes all the mapped [hit objects](/wiki/Hit_object) and replaces them with a simplified and consistent set of "targets."
 
 During a play with the Target Practice mod enabled, players will be presented with a set of "targets" that slowly increase in size and brightness. The player is then expected to tap or click the targets when they are at full brightness and size and the time is right. A consistent metronome will be played in the background to indicate to players when they should tap the target.
 

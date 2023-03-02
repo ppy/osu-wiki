@@ -26,11 +26,11 @@ tags:
 
 ## 说明
 
-The **No Fail** mod is a [游戏模组](/wiki/Game_modifier) that prevents the player from failing on [beatmaps](/wiki/Beatmap). Enabling the No Fail mod makes the player incapable of failing a [beatmap](/wiki/Beatmap) even if the [life bar](/wiki/Client/Interface/Health_bar) drops to zero. Although, if the player has not scored any points during the beatmap, the play *will* fail instead.
+**No Fail** [游戏模组](/wiki/Game_modifier)避免玩家游玩[谱面](/wiki/Beatmap)失败。启用模组后，即使[生命值](/wiki/Client/Interface/Health_bar)降到零，玩家也不会失败。尽管如此，如果玩家在游玩谱面期间没有任何得分，则*会*判定游玩失败。
 
-As of 16 January 2021, the No Fail mod may incur a certain penalty to the amount of [performance points](/wiki/Performance_points) that a player gains from a play depending on how many misses they get. Starting from a base value of 1.0x (100%), each miss will decrease the performance point gain multiplier by -0.02x (0.5%) up to a maximum of 0.9x (90%). <!-- pp change newspost: https://osu.ppy.sh/home/news/2021-01-14-performance-points-updates -->
+截至 2021年1月，取决于漏掉的物件数，此模组会对玩家游玩所得[表现分](/wiki/Performance_points)造成不利影响。从基准值 1.0x (100%)开始，每个漏掉的物件会使表现分系数减少 0.02x (0.5%)，最大值为0.9x (90%)。
 
-This mod has the same effect across all [game modes](/wiki/Game_mode).
+此模组对所有[游戏模式](/wiki/Game_mode)效果相同。
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

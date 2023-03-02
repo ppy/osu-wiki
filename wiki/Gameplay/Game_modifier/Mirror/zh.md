@@ -26,17 +26,17 @@ tags:
 
 ## 说明
 
-The **Mirror** mod is a [游戏模组](/wiki/Game_modifier) for [osu!mania](/wiki/Game_mode/osu!mania) that attempts to aid left-hand-dominant players in playing [beatmaps](/wiki/Beatmap) that were originally mapped with right-handed patterns in-mind. The mod achieves this by reflecting the notes across a virtual y-axis that runs down the middle of the osu!mania keyboard. I.e., it "mirrors" the notes. Specifically, the mirroring of notes is as follows:
+**Mirror** [游戏模组](/wiki/Game_modifier)用于 [osu!mania](/wiki/Game_mode/osu!mania)，通过将 osu!mania 中的音符沿虚拟的 Y 轴进行轴对称实现这一点，帮助惯用左手的玩家游玩原来以惯用右手为准而编写的[谱面](/wiki/Beatmap)。换而言之，它“镜像”了音符。具体来讲，音符的镜像效果如下：
 
-![MR gameplay](img/MR-comparison-mania.jpg "Comparison between a regular play (left) vs. a play with the Mirror mod enabled (right) in osu!mania")
+![MR 模组游玩界面](img/MR-comparison-mania.jpg "osu!mania 中正常游玩（左图）与启用 Mirror 模组（右图）的比较")
 
-The reasoning behind this is that many osu!mania beatmaps are mapped by right-hand-dominant creators, and thus many of the beatmaps patterns are made to be more comfortable to right-hand-dominant osu!mania players. Thus, many left-hand-dominant players — particularly higher-ranking ones — feel that the mirrored note placement caused by the mod allows their left-hand to be utilised more effectively.
+引入此模组主要是因为许多 osu!mania 谱面由惯用右手的谱师编写，谱面样式让惯用右手的 osu!mania 玩家更为舒适。因此，许多惯用左手的玩家（尤其是排名较高的）会感觉此模组下镜像的音符位置能让他们的左手得到更好利用。
 
 ## 杂项
 
-- The Mirror mod was added in September 2019, in response to a [feature request](https://osu.ppy.sh/community/forums/topics/956618) by user [Kamuy](https://osu.ppy.sh/users/7439226).
-  - At the time of the feature request's posting, there was already a Mirror-like mod that was implemented in [osu!(lazer)](https://github.com/ppy/osu#osu), but due to the Mirror mod's nature of increasing accessibility, it was added into the Stable release of osu! at the time.
-  - The current Mirror mod had actually been requested multiple times, and years before Kamuy's feature request, but Kamuy's was the only post that actually gained enough attention for the mod to actually be added.
-- The Mirror mod is the only game modifier in the "特殊" category that affects neither the amount of [performance points (pp)](/wiki/Performance_points) nor [score](/wiki/Gameplay/Score) that a player gains, whilst still being rankable.
+- Mirror 模组在2019年9月被引入，以回应用户 [Kamuy](https://osu.ppy.sh/users/7439226) 发出的[功能请求](https://osu.ppy.sh/community/forums/topics/956618)。
+  - 在功能请求帖发出时，[osu!(lazer)](https://github.com/ppy/osu#osu) 中已经实现了类似于 Mirror 的模组。但由于此模组自然会提高可访问性，就也将其引入了稳定版。
+  - 实际上，在 Kamuy 的功能请求帖发出多年前，已被多次请求引入 Mirror 模组。然而， Kamuy 的帖子是唯一一个引起足够注意的，使得这得以实现。
+- Mirror 模组是“特殊”类别中唯一在可排名的同时不影响玩家所得[表现分 (Performance points)](/wiki/Performance_points)与[分数](/wiki/Gameplay/Score)模组。
 
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

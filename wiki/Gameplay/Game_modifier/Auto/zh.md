@@ -32,7 +32,7 @@ tags:
 
 *注意：启用此模组会导致成绩不计入排名，也不会保存到本地排行榜。*
 
-The **Auto** mod is a [游戏模组](/wiki/Game_modifier) that allows players to watch a perfect playthrough of the selected beatmap.
+The **Auto** [游戏模组](/wiki/Game_modifier) that allows players to watch a perfect playthrough of the selected beatmap.
 
 The mod functions exactly like a [replay](/wiki/Gameplay/Replay), with the options for 0.5x/1.0x/2.0x speed playback to be used and comments on the beatmap to be seen and made like normal. The Auto mod will always get an SS grade, with the exception of a few special cases.
 

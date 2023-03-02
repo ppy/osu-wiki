@@ -29,7 +29,7 @@ tags:
 
 ## 说明
 
-The **Flashlight** mod is a [游戏模组](/wiki/Game_modifier) that aims to artificially increase the difficulty of a [beatmap](/wiki/Beatmap) by limiting the visible area of the screen.
+The **Flashlight** [游戏模组](/wiki/Game_modifier) that aims to artificially increase the difficulty of a [beatmap](/wiki/Beatmap) by limiting the visible area of the screen.
 
 ### osu!
 

@@ -32,7 +32,7 @@ tags:
 
 *注意：启用此模组会导致成绩不计入排名，也不会保存到本地排行榜。*
 
-The **Relax** mod is a [游戏模组](/wiki/Game_modifier) that aims to allow a relaxing experience to players. Due to its nature, the mod is typically utilised to analyse/practice difficult [patterns](/wiki/Beatmap/Pattern) on [beatmaps](/wiki/Beatmap), or for when players want to give their tapping hands a rest.
+The **Relax** [游戏模组](/wiki/Game_modifier) that aims to allow a relaxing experience to players. Due to its nature, the mod is typically utilised to analyse/practice difficult [patterns](/wiki/Beatmap/Pattern) on [beatmaps](/wiki/Beatmap), or for when players want to give their tapping hands a rest.
 
 ### osu!
 
