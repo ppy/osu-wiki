@@ -831,7 +831,7 @@ Les infoboxes doivent être utilisées avec prudence dans les cas suivants :
 - Les sections courtes : le titre de la section suivante apparaît sous les infoboxes, laissant un grand vide après le texte.
 - Plusieurs images à la fois : utilisez plutôt des infoboxes individuelles pour un meilleur rendu.
 
-Seuls les niveaux de titre 4 et 5 sont autorisés dans une infobox. Ceux-ci n'apparaissent pas dans la table des matières et tout ce qui est inférieur est trop grand. Toute [erreur de CI checks](/wiki/osu!_wiki/Maintenance#ci-checks) peut devoir être contournée pour cette raison.
+Seuls les niveaux de titre 4 et 5 sont autorisés dans une infobox. Ceux-ci n'apparaissent pas dans la table des matières et tout ce qui est inférieur est trop grand. Toute [erreur de CI check](/wiki/osu!_wiki/Maintenance#ci-checks) peut avoir besoin d'être contournée pour cette raison.
 
 ## Notes de bas de page
 
