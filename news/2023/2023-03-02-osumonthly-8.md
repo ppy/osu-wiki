@@ -137,7 +137,7 @@ Another play that excells at showing just how far this game can be pushed is [ap
 
 ### Notable osu!catch plays of the month
 
-[rostld](https://osu.ppy.sh/users/4365562)'s [SS](https://osu.ppy.sh/scores/fruits/211566395) on [Reol - Asymmetry](https://osu.ppy.sh/beatmapsets/310499#fruits/698249) was a long time coming, as this map has seen some serious competition since it was first ranked in 2015. Even after so many tries by so many different players, an FC never happened. However, recently, a €50 bounty was set for the first person to obtain a full combo, and that's exactly what rostld did, finally laying this legendary map to rest.
+[rostld](https://osu.ppy.sh/users/4365562)'s [SS](https://osu.ppy.sh/scores/fruits/211566395) on [Reol - Asymmetry](https://osu.ppy.sh/beatmapsets/310499#fruits/698249) was a long time coming, as this map has seen some serious competition since it was first ranked in 2015. Even after so many tries by so many different players, an FC never happened. However, recently, a &euro;50 bounty was set for the first person to obtain a full combo, and that's exactly what rostld did, finally laying this legendary map to rest.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/N--0yzx0wbw" frameborder="0" allowfullscreen></iframe>
 
@@ -227,7 +227,7 @@ Check out all the skins highlighted with this showcase playlist below:
 
 ## Did you know?
 
-In the earliest osu! days, a separate program was used to update osu! called "osume". Besides its function of updating the game, skins that were deemed finished and of good quality were also made downloadable straight through the updater.
+In the earliest osu! days, a separate program was used to update osu! called "osume". Besides its function of updating the game, skins that were deemed finished and of good quality were also made downloadable straight through the updater. Thanks to [Kurboh](https://osu.ppy.sh/users/15243233) for providing this cool osu! fact.
 
 ![](/wiki/shared/news/2023-03-02-osumonthly-8/did-you-know-feb23.png)
 
@@ -241,7 +241,7 @@ Now, on to this month's question:
 
 **What would the aristocracy have to do with osu!(lazer)?**
 
-chromb incorporated™ wishes everyone the best of luck in finding the answer to this THRILLING question and remember — there's a month of osu! supporter up for grabs for the first person to guess the correct answer!
+chromb incorporated&trade; wishes everyone the best of luck in finding the answer to this THRILLING question and remember — there's a month of osu! supporter up for grabs for the first person to guess the correct answer!
 
 ## Things to look out for in March
 
