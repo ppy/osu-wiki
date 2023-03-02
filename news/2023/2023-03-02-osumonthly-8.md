@@ -49,9 +49,9 @@ New in the month of February:
 
 Check out the [full changelog complete with images and comparison videos](https://osu.ppy.sh/home/changelog/lazer/2023.207.0).
 
-<!-- {{DELETE_COMMENT}} below are the changes for the upcoming release that may roll out on March 2. delete and cover in next month's post if it doesn't release in time. -->
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Kmm5VlFCYE8" frameborder="0" allowfullscreen></iframe>
 
-There was also an update that came out *earlier today*. While perhaps technically late for February, we decided to cover it anyway as an exception. Have a look at the latest [osu!(lazer) update video]({{UPDATE_VIDEO_LINK}}) or view the [full changelog]({{CHANGELOG_LINK}}).
+There was also an update that came out *earlier today*. While perhaps technically late for February, we decided to cover it anyway as an exception. Have a look at the latest osu!(lazer) update video above, or view the [full changelog](https://osu.ppy.sh/home/changelog/lazer/2023.301.0).
 
 - **Skin editor clipboard.** You can now copy-paste skin elements across skins and game screens. This only works on UI components (stuff you can select and move around), so no copy-pasting hit circles or cursors just yet.
 - **Separate skin layout editing for each game mode.** Got your stats showing neatly right beside the osu!mania playfield, but it looks like jank when you switch to osu!taiko? Not a problem anymore.
@@ -62,8 +62,6 @@ There was also an update that came out *earlier today*. While perhaps technicall
 As always, there are a bunch of improvements made each release, but these were probably the few showstoppers you should know about.
 
 By the way, did you know that you can enable storyboards on the main menu in osu!(lazer) with osu!supporter?
-
-<!-- {{DELETE_COMMENT}} make sure below video is uploaded -->
 
 <div align="center">
     <video width="100%" controls>
