@@ -109,8 +109,6 @@ A wonderful discovery this month is [LeFeraille's YouTube channel](https://www.y
 
 ### Notable osu! plays of the month
 
-Notable osu! plays of the month
-
 One milestone? Two milestones? How about three.
 
 Once again, [mrekk](https://osu.ppy.sh/users/7562902) has surprised all of us with what he could do, as he [FC'd the top difficulty](https://osu.ppy.sh/scores/osu/4382393442) of [Nevo](https://osu.ppy.sh/users/7451883)'s rendition of [THE ORAL CIGARETTES - Mou Ii kai?](https://osu.ppy.sh/beatmapsets/807850#osu/1695382), something that many top players have attempted to do, and failed, with the closest attempts before being [aetrna](https://osu.ppy.sh/users/6447454)'s 1-miss attempt from 2.5 years ago and [Rimuru](https://osu.ppy.sh/users/9269034)'s 2 misses the very same month, making mrekk's play a good endgame score with its 10 stars of difficulty induced by 288 BPM streams with HDDT scattered across the map, as well as the huge jumps at the end.
