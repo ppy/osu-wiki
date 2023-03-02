@@ -80,6 +80,37 @@ Listed below are the players who managed to qualify into the Round of 16 (along 
 
 ## Mappools
 
+### Semifinals
+
+**[Download the mappack here! (164 MB)](https://mappack.yewonkim.tk/download?filename=oasis2023sf1677415305247.zip)**
+
+- NoMod
+  1. [CloZee - Koto (galvenize) \[Extra\]](https://osu.ppy.sh/beatmapsets/517055#osu/1098833)
+  2. [DM Ashura - Classical Insanity (Kurashina Asuka) \[agitato\]](https://osu.ppy.sh/beatmapsets/1644511#osu/3356836)
+  3. [Nanahoshi Kangengakudan feat. Hatsune Miku - No.39 (pkk) \[No Sankyuu\]](https://osu.ppy.sh/beatmapsets/531488#osu/1126317)
+  4. [KARUT - Starting Pistol (Millie) \[osu!id uma Collab\]](https://osu.ppy.sh/beatmapsets/1946772#osu/4027884)
+  5. [Mili - String Theocracy (\[Arc\]) \[Theatrically Interesting\]](https://osu.ppy.sh/beatmapsets/1192164#osu/2484169)
+- Hidden
+  1. [Kenshi Yonezu - KICK BACK (iljaaz) \[KALIBE'S EXTRA\]](https://osu.ppy.sh/beatmapsets/1864481#osu/3838743)
+  2. [DJ Okawari - Canon (Short Ver.) (backstep) \[Peaceful\]](https://osu.ppy.sh/beatmapsets/44305#osu/138830)
+  3. [Nor - Usagi Flap (Raids) \[KAITEN INSANE 22,366,819 AZUSA SANDBAG METHOD?!?\]](https://osu.ppy.sh/beatmapsets/1876276#osu/3861173)
+- HardRock
+  1. [TUYU - Itsuka Otona ni Nareru to Ii ne. (Len) \[Not Classic Extra\]](https://osu.ppy.sh/beatmapsets/1773106#osu/3630306)
+  2. [onoken - unisonote (GreenHue) \[Kloyd's Extra\]](https://osu.ppy.sh/beatmapsets/1142060#osu/2385221)
+  3. [Sataka Ryohei feat. Aitsuki Nakuru - Killer neuron (SMOKELIND) \[Nymphe & Ermi's I\]](https://osu.ppy.sh/beatmapsets/1781376#osu/3676552)
+- DoubleTime
+  1. [Aya Hirayama - Sayonara Rolling Star (Bariton) \[keep rolling\~!\]](https://osu.ppy.sh/beatmapsets/731892#osu/1544394)
+  2. [45 - System 0 (Doomsdaddy) \[Witchcraft\]](https://osu.ppy.sh/beatmapsets/1778456#osu/3642351)
+  3. [Yuyoyuppe - AiAe (Fort) \[Insane\]](https://osu.ppy.sh/beatmapsets/257793#osu/663881)
+  4. [Dio ft. Sef - Tijdmachine (GladiOol) \[Lesjuh's Hard\]](https://osu.ppy.sh/beatmapsets/6997#osu/129876)
+- FreeMod
+  1. [FOLiACETATE - Heterochromia Iridis (ktgster) \[Another\]](https://osu.ppy.sh/beatmapsets/106443#osu/279607)
+  2. [NIWASHI - Sapphire On Fire (DeviousPanda) \[Feiri's Another\]](https://osu.ppy.sh/beatmapsets/1461145#osu/3022593)
+  3. [inabakumori - Tokoshizume (xyperX) \[Kard's Insane\]](https://osu.ppy.sh/beatmapsets/1777533#osu/3657734)
+  4. [Thaehan - Never Give Up (verychill) \[Nowa's Extra\]](https://osu.ppy.sh/beatmapsets/1048705#osu/2699387)
+- Tiebreaker
+  1. **[Krik/Krak - Archetype no Ido no Kaibutsu (Adinda) \[Illusion\]](https://osu.ppy.sh/beatmapsets/1654863#osu/3377955)**
+
 ### Quarterfinals
 
 **[Download the mappack here! (152 MB)](https://mappack.yewonkim.tk/download?filename=oasis2023qf1676803648731.zip)**
@@ -158,6 +189,31 @@ Listed below are the players who managed to qualify into the Round of 16 (along 
   3. [HyuN - Illusion of Inflict (Icekalt) \[Light Insane\]](https://osu.ppy.sh/beatmapsets/968923#osu/2041171)
 
 ## Match results
+
+### Quarterfinals
+
+Friday, 24 February 2023:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | [nsfuu](https://osu.ppy.sh/users/10849159) ::{ flag=ID }:: | 4 | **6** | ::{ flag=ID }:: **[cerena](https://osu.ppy.sh/users/5411734)** | [#1](https://osu.ppy.sh/community/matches/107028501) |
+
+Saturday, 25 February 2023:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[CubeixID200](https://osu.ppy.sh/users/10678919)** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: [Honoka-Chan](https://osu.ppy.sh/users/11912828) | [#1](https://osu.ppy.sh/community/matches/107045025) |
+
+Sunday, 26 February 2023:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | [SDKO](https://osu.ppy.sh/users/4858555) ::{ flag=ID }:: | 3 | **6** | ::{ flag=ID }:: **[Icun](https://osu.ppy.sh/users/17908427)** | [#1](https://osu.ppy.sh/community/matches/107066197) |
+| Lower | **[HyuugaDesuka](https://osu.ppy.sh/users/22684871)** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: [AlanEt](https://osu.ppy.sh/users/15037088) | [#1](https://osu.ppy.sh/community/matches/107069121) |
+| Lower | **[Frixell](https://osu.ppy.sh/users/15601286)** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: [-Lunix](https://osu.ppy.sh/users/12964890) | [#1](https://osu.ppy.sh/community/matches/107070091) |
+| Upper | **[im a cute bunny](https://osu.ppy.sh/users/12578000)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: [-CircleParadox-](https://osu.ppy.sh/users/10423227) | [#1](https://osu.ppy.sh/community/matches/107071382) |
+| Upper | **[akebono](https://osu.ppy.sh/users/1815316)** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: [fnayR](https://osu.ppy.sh/users/2800253) | [#1](https://osu.ppy.sh/community/matches/107071230) |
+| Lower | **[Zoont](https://osu.ppy.sh/users/7109269)** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: [ArchieA7](https://osu.ppy.sh/users/7087699) | [#1](https://osu.ppy.sh/community/matches/107072405) |
 
 ### Round of 16
 
