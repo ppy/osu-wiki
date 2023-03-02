@@ -81,7 +81,7 @@ L'osu! World Cup est un tournoi à double élimination par équipe de 4 formée 
 | [osu!mania 4K World Cup 2021](MWC/2021_4K) | 31/07/2021 | 19/09/2021 | ::{ flag=BR }:: Brésil | ::{ flag=US }:: États-Unis | ::{ flag=MY }:: Malaisie |
 | [osu!mania 7K World Cup 2022](MWC/2022_7K) | 16/12/2021 | 20/02/2022 | ::{ flag=KR }:: Corée du Sud | ::{ flag=CN }:: Chine | ::{ flag=MY }:: Malaisie |
 | [osu!mania 4K World Cup 2022](MWC/2022_4K) | 07/07/2022 | 18/09/2022 | ::{ flag=KR }:: Corée du Sud | ::{ flag=BR }:: Brésil | ::{ flag=US }:: États-Unis |
-| [osu!mania 7K World Cup 2023](MWC/2023_7K) | 15/12/2022 | 19/02/2023 | *À déterminer* | *À déterminer* | *À déterminer* |
+| [osu!mania 7K World Cup 2023](MWC/2023_7K) | 15/12/2022 | 18/02/2023 | ::{ flag=PH }:: Philippines | ::{ flag=KR }:: Corée du Sud | ::{ flag=MY }:: Malaisie |
 
 ## Tournois communautaires
 
@@ -112,7 +112,7 @@ Tournois et compétitions non-officiels gérés par la communauté.
 
 | Nom | Début | Fin | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| Aetherian's Summer Singles 1 | 30/04/2021 | 13/7/2021 | ::{ flag=CA }:: [Flatpaper](https://osu.ppy.sh/users/11255340) | ::{ flag=CA }:: [FaintGun](https://osu.ppy.sh/users/10500541) | ::{ flag=PH }:: [NathanSS](https://osu.ppy.sh/users/8500628) |
+| [Aetherian's Summer Singles 1](AESS/1) | 30/04/2021 | 13/7/2021 | ::{ flag=CA }:: [Flatpaper](https://osu.ppy.sh/users/11255340) | ::{ flag=CA }:: [FaintGun](https://osu.ppy.sh/users/10500541) | ::{ flag=PH }:: [NathanSS](https://osu.ppy.sh/users/8500628) |
 | [Aetherian's Summer Singles 2](AESS/2) | 06/05/2022 | 23/07/2022 | ::{ flag=PL }:: [maliszewski](https://osu.ppy.sh/users/12408961) | ::{ flag=KR }:: [[Karcher]](https://osu.ppy.sh/users/11443437) | ::{ flag=HK }:: [mcy4](https://osu.ppy.sh/users/2165650) |
 
 #### Ascaveth Invitational Tournament

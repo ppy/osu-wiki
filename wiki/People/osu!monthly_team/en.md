@@ -30,8 +30,10 @@ The people listed below remain vital to the osu!monthly even if they do not writ
 
 | Name | Affiliated section |
 | :-- | :-- |
+| ::{ flag=FI }:: [Nowaie](https://osu.ppy.sh/users/5428909) | Mapping recap |
+| ::{ flag=US }:: [olc](https://osu.ppy.sh/users/7081160) | Mapping recap |
 | ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) and the [skinship team](https://skinship.xyz/) | Skinning recap |
-| ::{ flag=FR }:: [Xahlt](https://osu.ppy.sh/users/13466351) | Mapping recap |
+| ::{ flag=US }:: [wafer](https://osu.ppy.sh/users/9416836) | Mapping recap |
 
 ## Notes
 
