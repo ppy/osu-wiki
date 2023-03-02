@@ -41,13 +41,13 @@ Pour faire simple, deux fichiers liés physiquement sont simplement deux noms di
 
 À noter que si l'utilisation du disque est vérifiée depuis la fenêtre `Propriétés` dans l'Explorateur ou d'une quelconque autre méthode similaire, il semblera que les dossiers `Songs` et `files` utilisent de l'espace disque, ce qui pourrait induire en erreur les utilisateurs à penser que les données sont stockées deux fois. C'est un artéfact de la détermination de la taille du fichier, et les vraies données stockées sur le disque ne sont **pas** dupliquées. Cela peut être vérifié en comparant la valeur totale de l'espace disponible sur le disque entier avant et après la migration.
 
-#### Systèmes supportés
+#### Systèmes pris en charge
 
 Comme les liens physiques sont une fonctionnalité au niveau du système de fichiers, il est obligatoire que les deux fichiers liés physiquement se trouvent sur un même disque.
 
-- **Windows**: Le lecteur doit être formaté en NTFS.
-- **macOS**: Le système de fichiers doit prendre en charge les liens physiques.
-- **Linux**: Le système de fichiers doit prendre en charge les liens physiques.
+- **Windows** : Le lecteur doit être formaté en NTFS.
+- **macOS** : Le système de fichiers doit prendre en charge les liens physiques.
+- **Linux** : Le système de fichiers doit prendre en charge les liens physiques.
 
 ### Par copie de fichiers
 
