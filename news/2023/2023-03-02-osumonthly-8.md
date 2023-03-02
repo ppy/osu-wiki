@@ -95,13 +95,13 @@ More meetings to make decisions about game mechanics in osu!(lazer) are expected
 
 #### Automated audio spectograms with AxerBot
 
-As you probably know, many Discord bots are created by members of the community in order to make life easier for players or simply connect the osu! database with Discord. [AxerBot](https://osu.ppy.sh/community/forums/topics/1604925?n=1) is one of these bots, created by [Hivie](https://osu.ppy.sh/users/14102976) and [Sebola](https://osu.ppy.sh/users/15821708), and which received an important update this month that will please numerous mappers
+As you probably know, many Discord bots are created by members of the community in order to make life easier for players or simply connect the osu! database with Discord. [AxerBot](https://osu.ppy.sh/community/forums/topics/1604925?n=1) is one of these bots, created by [Hivie](https://osu.ppy.sh/users/14102976) and [Sebola](https://osu.ppy.sh/users/15821708), and which received an important update last month that will please numerous mappers
 
 The bot now allows creating and displaying an audio file's spectrogram and fix any potential bloating issues, in addition to all its already existing features such as the ability to view many mapping and playing stats or having rich integration with the [BN website](https://bn.mappersguild.com/). These kinds of bots will only impress us with new features making life easier from day to day, and we hope to see new ones soon!
 
 #### LeFeraille's osu! anime
 
-A wonderful discovery this month is [LeFeraille's YouTube channel](https://www.youtube.com/channel/UC8fLmUUi8wyT4dopcIEybpA), and its amazing and funny animations. This month in particular, a video called ["Pippi is a tournament player"](https://www.youtube.com/watch?v=FpyaQE_J548) features Pippi and Default, two friends playing osu! and discussing tournaments while throwing references and jokes left and right. If you have four minutes to dedicate to this little creator, don't hesitate to go and have a look!
+A wonderful discovery last month is [LeFeraille's YouTube channel](https://www.youtube.com/channel/UC8fLmUUi8wyT4dopcIEybpA), and its amazing and funny animations. This month in particular, a video called ["Pippi is a tournament player"](https://www.youtube.com/watch?v=FpyaQE_J548) features Pippi and Default, two friends playing osu! and discussing tournaments while throwing references and jokes left and right. If you have four minutes to dedicate to this little creator, don't hesitate to go and have a look!
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/FpyaQE_J548" allowfullscreen></iframe>
 
@@ -116,8 +116,6 @@ You can witness it for yourself below:
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/u5RLfYX_KCw" frameborder="0" allowfullscreen></iframe>
 
 However, that's only the tip of the iceberg. Although we have had many technical 10-star FCs, mrekk is the first player to ever achieve the 10-star Full Combo medal without using a touch device.
-
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/u5RLfYX_KCw" frameborder="0" allowfullscreen></iframe>
 
 And lastly, before mrekk set the score shown above, he also set a score on [THE ORAL CIGARETTES - 5150](https://osu.ppy.sh/beatmapsets/1587493#osu/3242187) with HDDT 4 minutes prior to the 10-star FC, in another map that requires high skill in both speed and consistency. The length of the map matters especially at 9.85 stars, not just speed, which makes this that much harder to FC.
 
@@ -143,7 +141,7 @@ Another play that excells at showing just how far this game can be pushed is [ap
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/N--0yzx0wbw" frameborder="0" allowfullscreen></iframe>
 
-Most of the greatest scores in the game happen in singleplayer, where a player can restart and retry as many times as they desire. However, that is not what happened this time. Top player [roido](https://osu.ppy.sh/users/6829103) set the first ever HD SS on [Crim Nanakusa - dialnote](https://osu.ppy.sh/beatmapsets/1935722#fruits/4000779) during an AxS 4 tournament match. The nerve control required to set a score as good as this in an environment as competitive as this is truly unbelievable. If you are curious about how the match went down, check out the [match history](https://osu.ppy.sh/community/matches/106811263) or the VOD below.
+Most of the greatest scores in the game happen in singleplayer, where a player can restart and retry as many times as they desire. However, that is not what happened this time. Top player [roido](https://osu.ppy.sh/users/6829103) set the first ever HD SS on [Crim Nanakusa - dialnote](https://osu.ppy.sh/beatmapsets/1935722#fruits/4000779) during an [AxS 8](https://osu.ppy.sh/community/forums/topics/1689014) tournament match. The nerve control required to set a score as good as this in an environment as competitive as this is truly unbelievable. If you are curious about how the match went down, check out the [match history](https://osu.ppy.sh/community/matches/106811263) or the VOD below.
 
 <iframe height="378" width="100%" src="https://player.twitch.tv/?autoplay=false&video=1736191743&t=00h29m02s&parent=osu.ppy.sh" frameborder="0" allowfullscreen="true"></iframe>
 
@@ -223,7 +221,7 @@ You know the drill by now. 3 skins hand-picked by the skinship team that were ma
 - [ArtemFauna](https://osu.ppy.sh/community/forums/topics/1716182?n=1) - This skin is based on VTuber [Ceres Fauna](https://www.youtube.com/@CeresFauna), and is in line with the theme of the character in question using green hues as the dominant colour, as well as the general nature theme being present both in gameplay and menus.
 - [kokopium](https://osu.ppy.sh/community/forums/topics/1728192?n=1) - Heavily themed around Kokomi from *Genshin Impact* (with a dash of Raiden as well), this skin takes various elements from the game and inserts them into osu!. If you are a fan of Kokomi, or just *Genshin Impact* in general, you will surely enjoy this skin.
 
-Check out all the skins highlighted with this showcase video below:
+Check out all the skins highlighted with this showcase playlist below:
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/videoseries?list=PLA2Nwtxa4WMpC1mSZ8oExgKkttfwvh_Mr" frameborder="0" allowfullscreen></iframe>
 
