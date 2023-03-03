@@ -99,9 +99,9 @@ As you probably know, many Discord bots are created by members of the community 
 
 The bot now allows creating and displaying an audio file's spectrogram and fix any potential bloating issues, in addition to all its already existing features such as the ability to view many mapping and playing stats or having rich integration with the [BN website](https://bn.mappersguild.com/). These kinds of bots will only impress us with new features making life easier from day to day, and we hope to see new ones soon!
 
-#### LeFeraille's osu! anime
+#### LeFerraille's osu! anime
 
-A wonderful discovery last month is [LeFeraille's YouTube channel](https://www.youtube.com/channel/UC8fLmUUi8wyT4dopcIEybpA), and its amazing and funny animations. This month in particular, a video called ["Pippi is a tournament player"](https://www.youtube.com/watch?v=FpyaQE_J548) features Pippi and Default, two friends playing osu! and discussing tournaments while throwing references and jokes left and right. If you have four minutes to dedicate to this little creator, don't hesitate to go and have a look!
+A wonderful discovery last month is [LeFerraille](https://osu.ppy.sh/users/11001039)'s [YouTube channel](https://www.youtube.com/channel/UC8fLmUUi8wyT4dopcIEybpA), and its amazing and funny animations. This month in particular, a video called ["Pippi is a tournament player"](https://www.youtube.com/watch?v=FpyaQE_J548) features Pippi and Default, two friends playing osu! and discussing tournaments while throwing references and jokes left and right. If you have four minutes to dedicate to this little creator, don't hesitate to go and have a look!
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/FpyaQE_J548" allowfullscreen></iframe>
 
