@@ -8,7 +8,7 @@ date: 2023-03-01 09:00:00 +0000
 
 ![](https://assets.ppy.sh/artists/345/header.jpg)
 
-From *SOUND VOLTEX* to *Taiko no Tatusjin*, Japanese composer and producer **Kabocha** made waves in rhythm game scenes for years.
+From *SOUND VOLTEX* to *Taiko no Tatsujin*, Japanese composer and producer **Kabocha** made waves in rhythm game scenes for years.
 
 It wasn't always that way, though. Before gaining traction in rhythm games, his style was a combination of visual kei and EDM, which has continually transformed thanks to his growing involvement in doujin production circles.
 
