@@ -57,6 +57,8 @@ The osu!taiko World Cup 2023 is run by various community members.
 
 *Notice: Captains are listed in **bold**. The final team composition for each country is subject to change. If you have been selected as a captain, check your [inbox](https://osu.ppy.sh/community/chat) for more information. Countries not listed did not have enough players to meet the minimum team size criteria.*
 
+|  | Country | Members |
+| :-: | :-: | :-- |
 | ::{ flag=AU }:: | **Australia** | **[r1chyy](https://osu.ppy.sh/users/11499467)** |
 | ::{ flag=AT }:: | **Austria** | **[Cupcake\_Lover](https://osu.ppy.sh/users/1776389)** |
 | ::{ flag=BR }:: | **Brazil** | **[Skull Kid](https://osu.ppy.sh/users/3044264)** |
@@ -90,6 +92,7 @@ The osu!taiko World Cup 2023 is run by various community members.
 | ::{ flag=KR }:: | **South Korea** | **[oL0](https://osu.ppy.sh/users/1134683)** |
 | ::{ flag=ES }:: | **Spain** | **[AlvaroYL](https://osu.ppy.sh/users/6333166)** |
 | ::{ flag=CH }:: | **Switzerland** | **[MC2BP](https://osu.ppy.sh/users/11296097)** |
+| ::{ flag=TW }:: | **Taiwan** | **[stu00608](https://osu.ppy.sh/users/1977606)** |
 | ::{ flag=GB }:: | **United Kingdom** | **[goheegy](https://osu.ppy.sh/users/8057655)** |
 | ::{ flag=VN }:: | **Vietnam** | **[AuroraPhasmata](https://osu.ppy.sh/users/13664116)** |
 
