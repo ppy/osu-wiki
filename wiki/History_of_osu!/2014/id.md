@@ -6,7 +6,7 @@ Sistem [*performance point* (pp)](/wiki/Performance_points) dinonaktifkan untuk 
 
 ## Maret
 
-Pada 1 Maret 2014, sistem *performance point* untuk mode permainan [osu!taiko](/wiki/Game_mode/osu!taiko), [osu!catch](/wiki/Game_mode/osu!catch), dan [osu!mania](/wiki/Game_mode/osu!mania) yang telah direncanakan berbulan-bulan sebelumnya oleh Tom94 resmi digunakan sebagai sistem peringkat resmi untuk ketiga mode permainan tersebut. Perubahan ini disertai dengan peringatan bahwa pengembangan sistem pp yang ada pada saat itu masih berjalan dan masukan lebih lanjut masih sangat dibutuhkan.[^all-gamemodes]
+Pada 1 Maret 2014, sistem *performance point* untuk mode permainan [osu!taiko](/wiki/Game_mode/osu!taiko), [osu!catch](/wiki/Game_mode/osu!catch), dan [osu!mania](/wiki/Game_mode/osu!mania) yang telah direncanakan berbulan-bulan sebelumnya oleh Tom94 resmi digunakan sebagai sistem peringkat resmi untuk ketiga mode permainan tersebut. Perubahan ini disertai dengan peringatan bahwa pengembangan sistem pp yang ada pada saat itu masih berjalan dan masukan lebih lanjut masih sangat dibutuhkan.[^all-game-modes]
 
 Dari area *skinning*, elemen `playfield.jpg` yang sebelumnya dapat dimodifikasi resmi dipensiunkan dan diganti dengan gambar bawaan yang tidak dapat diubah. Elemen `playfield.jpg` merupakan elemen *skinning* yang memungkinkan para pemain untuk menggunakan gambar apa pun yang mereka inginkan sebagai latar belakang beatmap yang dimainkan apabila beatmap yang bersangkutan tidak memiliki latar belakang. Fungsionalitas ini kemudian diperkenalkan kembali melalui elemen baru `menu-background.jpg` yang mengubah tampilan gambar latar beatmap dan menu utama secara bersamaan.[^change-background][^skinning]
 
@@ -35,7 +35,7 @@ Di samping itu, dalam rangka meningkatkan laju pengembangan dan penumpasan bug (
 [^ranking-maintenance]: [osu! newspost by peppy (20 January 2014) - "Performance Ranking Maintenance"](https://osu.ppy.sh/home/news/2014-01-20-performance-ranking-maintenance)
 [^new-perf-ranking]: [osu! newspost by Tom94 (26 January 2014) - "New Performance Ranking"](https://osu.ppy.sh/home/news/2014-01-26-new-performance-ranking)
 [^pp-article]: [osu! wiki article - "Performance points"](/wiki/Performance_points)
-[^all-gamemodes]: [osu! newspost by Tom94 (1 March 2014) - "Performance ranking for all gamemodes"](https://osu.ppy.sh/home/news/2014-03-01-performance-ranking-for-all-gamemodes)
+[^all-game-modes]: [osu! newspost by Tom94 (1 March 2014) - "Performance ranking for all gamemodes"](https://osu.ppy.sh/home/news/2014-03-01-performance-ranking-for-all-gamemodes)
 [^change-background]: [osu! forum comment (Resolved Issues) by Pawsu - "[resolved] How to change all beatmap backgrounds")](https://osu.ppy.sh/community/forums/topics/397827?start=4749640)
 [^skinning]: [osu! wiki article - "Skinning history"](/wiki/Skinning/History)
 [^fanart]: [osu! newspost by LuigiHann (3 April 2014) - "osu! Monthly Fanart Contest #1 - Ends this week!"](https://osu.ppy.sh/home/news/2014-04-03-osu-monthly-fanart-contest-1-ends-this-week)
