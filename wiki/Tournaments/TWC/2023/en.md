@@ -59,6 +59,7 @@ The osu!taiko World Cup 2023 is run by various community members.
 
 |  | Country | Members |
 | :-: | :-: | :-- |
+| ::{ flag=AR }:: | **Argentina** | **[Axer](https://osu.ppy.sh/users/7299864)** |
 | ::{ flag=AU }:: | **Australia** | **[r1chyy](https://osu.ppy.sh/users/11499467)** |
 | ::{ flag=AT }:: | **Austria** | **[Cupcake\_Lover](https://osu.ppy.sh/users/1776389)** |
 | ::{ flag=BR }:: | **Brazil** | **[Skull Kid](https://osu.ppy.sh/users/3044264)** |
@@ -94,7 +95,8 @@ The osu!taiko World Cup 2023 is run by various community members.
 | ::{ flag=CH }:: | **Switzerland** | **[MC2BP](https://osu.ppy.sh/users/11296097)** |
 | ::{ flag=TW }:: | **Taiwan** | **[stu00608](https://osu.ppy.sh/users/1977606)** |
 | ::{ flag=GB }:: | **United Kingdom** | **[goheegy](https://osu.ppy.sh/users/8057655)** |
-| ::{ flag=VN }:: | **Vietnam** | **[AuroraPhasmata](https://osu.ppy.sh/users/13664116)** |
+| ::{ flag=US }:: | **United States** | **[AuroraPhasmata](https://osu.ppy.sh/users/13664116)** |
+| ::{ flag=VN }:: | **Vietnam** | **[davidminh0111](https://osu.ppy.sh/users/9623142)** |
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad463970c6b5c22f623fcefd8d5e63d#file-twc-2023-player-list-csv). 
 
