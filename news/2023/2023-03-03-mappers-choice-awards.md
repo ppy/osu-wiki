@@ -32,7 +32,7 @@ Check out the [Mapper's Choice Awards 2022 website](https://mca.corsace.io/2022/
 | --: | :-- |
 | Nomination phase | 2023-03-03 – 2023-03-06 |
 | Voting phase | 2023-03-08 – 2023-03-13 |
-| Results stream (on the [Corsace Twitch channel](https://www.twitch.tv/corsace)) | 2023-03-18 |
+| Results stream (on the [Corsace YouTube channel](https://www.youtube.com/@Corsace)) | 2023-03-18 |
 | Results (on the [Corsace website](https://mca.corsace.io/2022/)) | 2023-03-19 |
 
 ### Rewards
