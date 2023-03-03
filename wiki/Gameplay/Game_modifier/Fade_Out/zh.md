@@ -10,10 +10,6 @@ tags:
   - 游戏模组
 ---
 
-<!-- TODO:
-- add score multiplier, shortcut key, and caption values
-- Add information on when and why the Fade Out mod was removed -->
-
 # Fade Out （模组）
 
 ![FO 模组图标](/wiki/shared/mods/FO.png "Fade Out (FO) 模组图标")
