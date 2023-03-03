@@ -8,7 +8,7 @@ The entire [performance points (pp)](/wiki/Performance_points) system was comple
 
 On 1 March 2014 the performance points system redesign by Tom94 in months prior was ready to be set live for [osu!taiko](/wiki/Game_mode/osu!taiko), [osu!catch](/wiki/Game_mode/osu!catch), and [osu!mania](/wiki/Game_mode/osu!mania) as the official ranking system for those modes, along with a reminder that the current system was not yet 100% finished, and further feedback from players was still needed.[^all-game-modes]
 
-As [skinning](/wiki/Skinning) elements expanded, the element, `playfield.jpg` was deprecated and replaced with a new generic one that is not modifiable. `playfield.jpg` was an element that allowed skinners to use any image as the default background of a beatmap if one was not supplied. This functionality was later brought in the form of `menu-background.jpg`, which changed both the main screen and default playfield backgrounds.[^change-background][^skinning] <!--date needed-->
+As [skinning](/wiki/Skinning) elements expanded, the element, `playfield.jpg` was deprecated and replaced with a new generic one that is not modifiable. `playfield.jpg` was an element that allowed skinners to use any image as the default background of a beatmap if one was not supplied. This functionality was later brought in the form of `menu-background.jpg`, which changed both the main screen and default playfield backgrounds.[^change-background][^skinning]<!--date needed-->
 
 ![](img/2014-03_01.jpg "Default background for beatmaps without specified backgrounds")
 
@@ -26,9 +26,9 @@ On 21 August 2014, a [newspost](https://osu.ppy.sh/home/news/2014-08-21-restruct
 
 ## October
 
-October brought a handful of new additions to the base game, including a new sign in screen and new system for scrolling in [osu!mania](/wiki/Game_mode/osu!mania) based off of beatmap BPM, new intro and outro sequences, and a custom theme song that was to be played on startup (as opposed to a random beatmap). <!--citation needed-->
+October brought a handful of new additions to the base game, including a new sign in screen and new system for scrolling in [osu!mania](/wiki/Game_mode/osu!mania) based off of beatmap BPM, new intro and outro sequences, and a custom theme song that was to be played on startup (as opposed to a random beatmap).<!--citation needed-->
 
-Additionally, [peppy](https://osu.ppy.sh/users/2) also released the "osu!test" build (now known as "Cutting Edge") to all players, as opposed to just [osu!supporters](https://osu.ppy.sh/home/support) in an attempt to help debugging efforts. <!--citation needed-->
+Additionally, [peppy](https://osu.ppy.sh/users/2) also released the "osu!test" build (now known as "Cutting Edge") to all players, as opposed to just [osu!supporters](https://osu.ppy.sh/home/support) in an attempt to help debugging efforts.<!--citation needed-->
 
 ## References
 
