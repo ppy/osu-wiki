@@ -32,13 +32,13 @@ Di samping itu, dalam rangka meningkatkan laju pengembangan dan penumpasan bug (
 
 ## Referensi
 
-[^ranking-maintenance]: [osu! newspost by peppy (20 January 2014) - "Performance Ranking Maintenance"](https://osu.ppy.sh/home/news/2014-01-20-performance-ranking-maintenance)
-[^new-perf-ranking]: [osu! newspost by Tom94 (26 January 2014) - "New Performance Ranking"](https://osu.ppy.sh/home/news/2014-01-26-new-performance-ranking)
-[^pp-article]: [osu! wiki article - "Performance points"](/wiki/Performance_points)
-[^all-game-modes]: [osu! newspost by Tom94 (1 March 2014) - "Performance ranking for all gamemodes"](https://osu.ppy.sh/home/news/2014-03-01-performance-ranking-for-all-gamemodes)
-[^change-background]: [osu! forum comment (Resolved Issues) by Pawsu - "[resolved] How to change all beatmap backgrounds")](https://osu.ppy.sh/community/forums/topics/397827?start=4749640)
-[^skinning]: [osu! wiki article - "Skinning history"](/wiki/Skinning/History)
-[^fanart]: [osu! newspost by LuigiHann (3 April 2014) - "osu! Monthly Fanart Contest #1 - Ends this week!"](https://osu.ppy.sh/home/news/2014-04-03-osu-monthly-fanart-contest-1-ends-this-week)
-[^fanart-results]: [osu! newspost by LuigiHann (21 May 2014) - "First Official osu! Fanart Contest Results!"](https://osu.ppy.sh/home/news/2014-05-21-first-official-osu-fanart-contest-results)
-[^download]: [osu! newspost by peppy (18 June 2014) - "Download restrictions removed"](https://osu.ppy.sh/home/news/2014-06-18-download-restrictions-removed)
-[^bat]: [osu! newspost by Ephemeral (21 August 2014) - "Restructuring of the BAT"](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat)
+[^ranking-maintenance]: [osu! newspost by peppy (2014-01-20) "Performance Ranking Maintenance"](https://osu.ppy.sh/home/news/2014-01-20-performance-ranking-maintenance)
+[^new-perf-ranking]: [osu! newspost by Tom94 (2014-01-26) "New Performance Ranking"](https://osu.ppy.sh/home/news/2014-01-26-new-performance-ranking)
+[^pp-article]: [osu! wiki article "Performance points"](/wiki/Performance_points)
+[^all-game-modes]: [osu! newspost by Tom94 (2014-03-01) "Performance ranking for all gamemodes"](https://osu.ppy.sh/home/news/2014-03-01-performance-ranking-for-all-gamemodes)
+[^change-background]: [osu! forum comment (Resolved Issues) by Pawsu (2015-12-20) "[resolved] How to change all beatmap backgrounds")](https://osu.ppy.sh/community/forums/topics/397827?start=4749640)
+[^skinning]: [osu! wiki article "Skinning history"](/wiki/Skinning/History)
+[^fanart]: [osu! newspost by LuigiHann (2014-04-03) "osu! Monthly Fanart Contest #1 - Ends this week!"](https://osu.ppy.sh/home/news/2014-04-03-osu-monthly-fanart-contest-1-ends-this-week)
+[^fanart-results]: [osu! newspost by LuigiHann (2014-05-21) "First Official osu! Fanart Contest Results!"](https://osu.ppy.sh/home/news/2014-05-21-first-official-osu-fanart-contest-results)
+[^download]: [osu! newspost by peppy (2014-06-18) "Download restrictions removed"](https://osu.ppy.sh/home/news/2014-06-18-download-restrictions-removed)
+[^bat]: [osu! newspost by Ephemeral (2014-08-21) "Restructuring of the BAT"](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat)
