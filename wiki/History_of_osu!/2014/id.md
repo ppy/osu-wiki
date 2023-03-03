@@ -1,3 +1,10 @@
+---
+outdated_translation: true
+outdated_since: df4b0dcdbd340e2f26e11e79eb047274dfcb5ef3
+---
+
+<!--TODO: The reference format was changed in https://github.com/ppy/osu-wiki/pull/8876. To update this article, please take a look if format adjustments of the "references" section are required.-->
+
 # Sejarah osu! 2014
 
 ## Januari
