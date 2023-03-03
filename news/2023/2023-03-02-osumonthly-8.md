@@ -237,7 +237,7 @@ In the earliest osu! days, a separate program was used to update osu! called "os
 
 For the second month in a row, the quiz question for February has remained unanswered by anyone! 
 
-The correct answer was [Reol - +Danshi](https://osu.ppy.sh/beatmapsets/300748#osu/674514), a *Loved* map where all of the map's object are placed in a pleasing circle shape. As for why it is referred to as the *circle of life*... maybe consider asking your parents.
+The correct answer was [Reol - +Danshi](https://osu.ppy.sh/beatmapsets/300748#osu/674514), a *Loved* map where all of the map's objects are placed in a pleasing circle shape. As for why it is referred to as the *circle of life*... maybe consider asking your parents.
 
 Now, on to this month's question:
 
