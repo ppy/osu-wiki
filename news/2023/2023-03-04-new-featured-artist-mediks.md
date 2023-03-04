@@ -8,7 +8,7 @@ date: 2023-03-01 09:00:00 +0000
 
 ![](https://assets.ppy.sh/artists/346/header.jpg)
 
-Producer trio **Mediks** isn't your ordinary electronic music unit. Specializing in an unorthodox offshoot of drum & bass, these producers spill out tracks that reach a special niche in both the EDM and osu! communities, best known to circle clickers by their million-plays beatmap of [Outbreak](https://osu.ppy.sh/beatmapsets/527082)!
+Producer trio **Mediks** isn't your ordinary electronic music unit. Specialising in an unorthodox offshoot of drum & bass, these producers spill out tracks that reach a special niche in both the EDM and osu! communities, best known to circle clickers by their million-play beatmap of [Outbreak](https://osu.ppy.sh/beatmapsets/527082)!
 
 **6** uncommon takes on drum & bass can be found on [**Mediks**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/346), including everything from their iconic *Outbreak* EP.
 
@@ -34,13 +34,13 @@ Or you can try out [this sequel map](https://osu.ppy.sh/beatmapsets/550808) by [
 
 ### Mediks - Doomsday
 
-Finish your circle clicking session with [this final map](https://osu.ppy.sh/beatmapsets/545677) hosted by [you-know-who](https://osu.ppy.sh/beatmapsets/545677).
+Finish your circle clicking session with [this final map](https://osu.ppy.sh/beatmapsets/545677) hosted by [you-know-who](https://osu.ppy.sh/users/2971837).
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/346/Outbreak/Mediks%20-%20Doomsday.mp3">
 </audio>
 
-### Mediks - Blown Away - Raise Spirit Remix
+### Mediks feat. Astronaut - Blown Away (Raise Spirit Remix)
 
 If you're looking for something *fresh*, [this marathon](https://osu.ppy.sh/beatmapsets/1950373) hosted by [Zer0-](https://osu.ppy.sh/users/4260033) was uploaded just a few hours ago!
 
