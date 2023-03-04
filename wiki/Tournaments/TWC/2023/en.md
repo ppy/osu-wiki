@@ -52,6 +52,7 @@ The osu!taiko World Cup 2023 is run by various community members.
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1722224)
 - [Livestream](https://www.twitch.tv/osulive)
 - [Donate to the prize pool](https://opencollective.com/osu-tournaments/events/osu-taiko-world-cup-2023-13130e56)
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/110) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
 
 ## Participants
 
