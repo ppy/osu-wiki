@@ -542,7 +542,7 @@ Ces chansons font partie du [osu! James Landino Collection EP](https://fanlink.t
 
 ### Concours gérés par la communauté
 
-#### ![](/wiki/shared/mode/taiko.png)  Mapping to Pander: Taiko #1
+#### ![](/wiki/shared/mode/taiko.png) Mapping to Pander: Taiko #1
 
 | Musique |
 | :-: |
@@ -553,6 +553,12 @@ Ces chansons font partie du [osu! James Landino Collection EP](https://fanlink.t
 | Musique |
 | :-: |
 | [SAMString - Akarui Taiyo](https://soundcloud.com/samstring/akarui-taiyo)[^fa-catalogue] |
+
+#### ![](/wiki/shared/mode/taiko.png) Mapping Global Taiko Showdown 2023
+
+| Musique |
+| :-: |
+| [SDMNE feat. Nam1541 - VOID'S BLOSSOM // - + - // Tragedy\_Eternal](https://soundcloud.com/sdmne/voids-blossom-tragedy_eternal-feat-nam1541) |
 
 ### Beatmaps créées de façon autonome
 
