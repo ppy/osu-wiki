@@ -49,10 +49,56 @@ The osu!taiko World Cup 2023 is run by various community members.
 
 ## Links
 
-- **[Register here](https://osu.ppy.sh/community/tournaments/37)**
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1722224)
 - [Livestream](https://www.twitch.tv/osulive)
 - [Donate to the prize pool](https://opencollective.com/osu-tournaments/events/osu-taiko-world-cup-2023-13130e56)
+
+## Participants
+
+*Notice: Captains are listed in **bold**. The final team composition for each country is subject to change. If you have been selected as a captain, check your [inbox](https://osu.ppy.sh/community/chat) for more information. Countries not listed did not have enough players to meet the minimum team size criteria.*
+
+|  | Country | Members |
+| :-: | :-: | :-- |
+| ::{ flag=AR }:: | **Argentina** | **[Axer](https://osu.ppy.sh/users/7299864)** |
+| ::{ flag=AU }:: | **Australia** | **[r1chyy](https://osu.ppy.sh/users/11499467)** |
+| ::{ flag=AT }:: | **Austria** | **[Cupcake\_Lover](https://osu.ppy.sh/users/1776389)** |
+| ::{ flag=BR }:: | **Brazil** | **[Skull Kid](https://osu.ppy.sh/users/3044264)** |
+| ::{ flag=CA }:: | **Canada** | **[beary605](https://osu.ppy.sh/users/2198070)** |
+| ::{ flag=CL }:: | **Chile** | **[Ulqui](https://osu.ppy.sh/users/1263669)** |
+| ::{ flag=CN }:: | **China** | **[Ookura Risona](https://osu.ppy.sh/users/2073644)** |
+| ::{ flag=CO }:: | **Colombia** | **[L1ght](https://osu.ppy.sh/users/9050875)** |
+| ::{ flag=CZ }:: | **Czech Republic** | **[ToraThePotato](https://osu.ppy.sh/users/10742918)** |
+| ::{ flag=DK }:: | **Denmark** | **[Tsukani](https://osu.ppy.sh/users/5146144)** |
+| ::{ flag=EE }:: | **Estonia** | **[PaskAcc](https://osu.ppy.sh/users/9040795)** |
+| ::{ flag=FI }:: | **Finland** | **[duski](https://osu.ppy.sh/users/6506484)** |
+| ::{ flag=FR }:: | **France** | **[QALF](https://osu.ppy.sh/users/11525993)** |
+| ::{ flag=DE }:: | **Germany** | **[Minekuchi](https://osu.ppy.sh/users/9584873)** |
+| ::{ flag=HK }:: | **Hong Kong** | **[thomas1195](https://osu.ppy.sh/users/1691488)** |
+| ::{ flag=ID }:: | **Indonesia** | **[Joltzzz](https://osu.ppy.sh/users/15436568)** |
+| ::{ flag=IT }:: | **Italy** | **[Ikkun](https://osu.ppy.sh/users/1059945)** |
+| ::{ flag=JP }:: | **Japan** | **[ekumea1123](https://osu.ppy.sh/users/9119501)** |
+| ::{ flag=LV }:: | **Latvia** | **[waywern2012](https://osu.ppy.sh/users/5870453)** |
+| ::{ flag=LT }:: | **Lithuania** | **[wwww](https://osu.ppy.sh/users/3997162)** |
+| ::{ flag=MY }:: | **Malaysia** | **[Jerry](https://osu.ppy.sh/users/605973)** |
+| ::{ flag=MX }:: | **Mexico** | **[Awwy](https://osu.ppy.sh/users/4183406)** |
+| ::{ flag=NL }:: | **Netherlands** | **[TaikoMom](https://osu.ppy.sh/users/9086438)** |
+| ::{ flag=NZ }:: | **New Zealand** | **[Sparxe](https://osu.ppy.sh/users/5750235)** |
+| ::{ flag=NO }:: | **Norway** | **[petterde](https://osu.ppy.sh/users/7555792)** |
+| ::{ flag=PE }:: | **Peru** | **[alemagno333](https://osu.ppy.sh/users/11411697)** |
+| ::{ flag=PH }:: | **Philippines** | **[Pochacco](https://osu.ppy.sh/users/2927742)** |
+| ::{ flag=PL }:: | **Poland** | **[bernard351](https://osu.ppy.sh/users/9511518)** |
+| ::{ flag=PT }:: | **Portugal** | **[BabySnakes](https://osu.ppy.sh/users/4669728)** |
+| ::{ flag=RU }:: | **Russian Federation** | **[Den4ik228](https://osu.ppy.sh/users/7115174)** |
+| ::{ flag=SG }:: | **Singapore** | **[Prehistoria](https://osu.ppy.sh/users/8364237)** |
+| ::{ flag=KR }:: | **South Korea** | **[oL0](https://osu.ppy.sh/users/1134683)** |
+| ::{ flag=ES }:: | **Spain** | **[AlvaroYL](https://osu.ppy.sh/users/6333166)** |
+| ::{ flag=CH }:: | **Switzerland** | **[MC2BP](https://osu.ppy.sh/users/11296097)** |
+| ::{ flag=TW }:: | **Taiwan** | **[stu00608](https://osu.ppy.sh/users/1977606)** |
+| ::{ flag=GB }:: | **United Kingdom** | **[goheegy](https://osu.ppy.sh/users/8057655)** |
+| ::{ flag=US }:: | **United States** | **[AuroraPhasmata](https://osu.ppy.sh/users/13664116)** |
+| ::{ flag=VN }:: | **Vietnam** | **[davidminh0111](https://osu.ppy.sh/users/9623142)** |
+
+The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad463970c6b5c22f623fcefd8d5e63d#file-twc-2023-player-list-csv). 
 
 ## Ruleset
 
