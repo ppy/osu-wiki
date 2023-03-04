@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: Mediks"
-date: 2023-03-01 09:00:00 +0000
+date: 2023-03-04 09:00:00 +0000
 ---
 
 **Mediks** revives our Featured Artist library!
