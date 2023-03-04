@@ -146,7 +146,7 @@ Abbreviations for user groups are used throughout this log:
 - 2023-03-02: Removed [Ymiir](https://osu.ppy.sh/users/3922569) from **BN**
 - 2023-03-03: Removed [eiri-](https://osu.ppy.sh/users/3388410) from **BN (taiko)**
 
-<!-- last updated with Uni's removal from GMT + addition to Alumni @ 01:23 GMT on 1/30/2023>
+<!-- last updated with eiri's removal from taiko BN + addition to osu BN on 03/03/2023>
 
 <!--
 To update this article:
