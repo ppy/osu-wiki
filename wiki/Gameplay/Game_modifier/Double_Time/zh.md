@@ -14,7 +14,7 @@ tags:
 ![DT 模组图标](/wiki/shared/mods/DT.png "Double Time (DT) 模组图标")
 
 *对于所有模组的列表，参见：[游戏模组 (Mods)](/wiki/Game_modifier)*\
-*See also: [Nightcore （模组）](/wiki/Game_modifier/Nightcore)*
+*另见：[Nightcore （模组）](/wiki/Game_modifier/Nightcore)*
 
 ## 关于
 
@@ -32,30 +32,30 @@ tags:
 
 ## 说明
 
-*Note: The method used to increase the speed does not increase the pitch of the song.*
+*注意：此模组用于增加速度，不会提高歌曲音调。*
 
-The **Double Time** [游戏模组](/wiki/Game_modifier) that attempts to increase the difficulty of a [beatmap](/wiki/Beatmap) by increasing their overall speed (BPM) by 150% (1.5x), reducing the length of the song by 33%, and increasing the [approach rate (AR)](/wiki/Beatmapping/Approach_rate), [overall difficulty (OD)](/wiki/Beatmapping/Overall_difficulty), and [health (HP)](/wiki/Gameplay/Health).
+**Double Time** [游戏模组](/wiki/Game_modifier)将[谱面](/wiki/Beatmap)的总体速度提高至 150% （1.5 倍），将歌曲长度缩短 33%，增加[缩圈速度 (AR)](/wiki/Beatmapping/Approach_rate)、[整体难度 (OD)](/wiki/Beatmapping/Overall_difficulty)以及 [掉血速度 (HP)](/wiki/Gameplay/Health)，旨在尝试增加谱面难度。
 
-The Double Time mod is widely regarded as one of the best mods used for gaining large amounts of [performance points](/wiki/Performance_points) on easier difficulties in [osu!](/wiki/Game_mode/osu!).
+Double Time 模组被公认为在 [osu!](/wiki/Game_mode/osu!) 简单难度中获得大量[表现分](/wiki/Performance_points)的最佳模组之一。
 
 ### osu!taiko
 
-In [osu!taiko](/wiki/Game_mode/osu!taiko), the hit leniency is greatly reduced when the Double Time mod is enabled due to osu!taiko's already strict overall difficulty along with its considerably more difficult-to-hit slider ticks. Because of this, the Double Time mod is widely regarded as the hardest mod in osu!taiko and is seldom used.
+在 [osu!taiko](/wiki/Game_mode/osu!taiko) 中，由于 osu!taiko 的判定难度已经很严格了，滑条点也更难打击，启用此模组时会大大降低击打判定的宽松程度。因此此模组被公认为 osu!taiko 中最难的模组，也很少被使用。
 
 ### osu!catch
 
-In [osu!catch](/wiki/Game_mode/osu!catch), there is no overall difficulty to increase. Thus this mod only increases the BPM and AR. As a result, it is only worth a 1.06x multiplier (as opposed to 1.12x multiplier for every other mod).
+在 [osu!catch](/wiki/Game_mode/osu!catch) 中，没有总体难度可供增加。因此此模组只会增加 BPM 和 AR 值，也只值 1.06x 系数（与其他增加难度模组的 1.12x 不同）。
 
-Although this mod does greatly increase the hyperdash leniency, making fruits require hyperdashes that are near impossible to catch in some cases.
+尽管此模组大大增加了红果跳的宽松度，在一些情况中，同时也会让需要红果跳的水果几乎无法收集。
 
 ## 杂项
 
-- When the Double Time mod is enabled, the `Length`, `BPM`, and `Objects` values are coloured in a light red with the new values. (Pictured below.)
-  - The `Objects` value is coloured a light red even though no change in value is actually made.
-- The `AR`, `OD`, and `HP` values will have a superscript triangle next to their values indicate a small increase in their values. (Pictured below.)
-- The name "Double Time" could be labelled as a misnomer, as the DT mod does not actually increase the speed of a beatmap by two times (200%); it speeds up beatmaps by 1.5x (150%).
+- 当启用 Double Time 模组时，`长度`、 `BPM` 和`物件数`的新值会变为浅红色。（见下图）
+  - 尽管没有对物件数作出更改，`物件数` 值也会变浅红。
+- `AR` 、 `OD` 与 `HP` 值旁会出现上标小三角，标志着对应值的小幅度提升。（见下图）
+- 模组名 “Double Time” 可能是一种误称。此模组实际上不会让谱面速度翻倍（变为 200%）；它让谱面速度变为 1.5 倍（150%）。
 
-![Changed values](img/GM_DT.jpg "Screenshot of beatmap values being changed by the Double Time mod")
+![改变的参数](img/GM_DT.jpg "Double Time 模组改变的谱面参数截图")
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

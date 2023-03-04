@@ -14,12 +14,12 @@ tags:
 ![PF 模组图标](/wiki/shared/mods/PF.png "Perfect (PF) 模组图标")
 
 *对于所有模组的列表，参见：[游戏模组 (Mods)](/wiki/Game_modifier)*\
-*See also: [Sudden Death （模组）](/wiki/Game_modifier/Sudden_Death)*
+*另见：[Sudden Death （模组）](/wiki/Game_modifier/Sudden_Death)*
 
 ## 关于
 
 - 缩写： PF
-- 类别： Difficulty Increase
+- 类别： 增加难度
 - 得分系数： 1.00x
 - 默认快捷键： `S` `S` 或 `Shift`+`S`
 - 描述： `不SS，便重试。`

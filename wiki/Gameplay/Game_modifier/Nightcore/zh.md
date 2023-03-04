@@ -14,7 +14,7 @@ tags:
 ![NC 模组图标](/wiki/shared/mods/NC.png "Nightcore (NC) 模组图标")
 
 *请勿与 [Nightcore （流派）](https://en.wikipedia.org/wiki/Nightcore) 混淆。*\
-*See also: [NC （消歧义）](/wiki/Disambiguation/NC), [Double Time （模组）](/wiki/Game_modifier/Double_Time)*\
+*另见：[NC （消歧义）](/wiki/Disambiguation/NC), [Double Time （模组）](/wiki/Game_modifier/Double_Time)*\
 *对于所有模组的列表，参见：[游戏模组 (Mods)](/wiki/Game_modifier)*
 
 ## 关于
@@ -33,16 +33,16 @@ tags:
 
 ## 说明
 
-The **Nightcore** [游戏模组](/wiki/Game_modifier) that works in the exact same way as it's variant mod, Double Time, but also increases the pitch and adds a drum track to the background that — in 4/4 time — goes in the order of a bass drum on beats 1 and 3, clap on beats 2 and 4, and crash on beat 1 every 4 measures.
+**Nightcore** [游戏模组](/wiki/Game_modifier)的工作方式与其变体模组 Double Time 完全一致，但也会提高音乐音调，并在后台播放鼓点音效。在 4/4 拍中，第一拍、第三拍播放低音鼓声，第二拍、第四排播放击掌声，每四个小节的第一拍播放碰撞声。
 
-The [score multiplier](/wiki/Game_modifier/Score_multiplier) stays the same as it would with the Double Time mod enabled, and the beatmap itself is unaffected beyond what the Double Time mod will do.
+[得分系数](/wiki/Game_modifier/Score_multiplier)与 Double Time 模组启用时保持一致，谱面除 Double Time 模组所作更改外不会受到其他任何影响。
 
-This mod has the same effect across all game modes.
+此模组在所有游戏模式中效果相同。
 
 ## 杂项
 
-- The Nightcore mod was originally an [April Fools joke](https://osu.ppy.sh/community/forums/topics/49733) but was then added into the game as an actual playable mod.
-- The Nightcore mod gets its name from the genre (or to some, sub-genre) "Nightcore" in which songs are edited or created to be sped-up by about 10–30% and have higher pitched vocals. Though the validity and history of this type of music is controversial.
+- Nightcore 模组最初是个[愚人节玩笑](https://osu.ppy.sh/community/forums/topics/49733)，但随后作为实际可玩的模组被引入游戏。
+- 此模组得名于 “Nightcore” 流派（或者说是子流派），其中的歌曲在编辑或创作时加速了大约 10-30% ，人声音调也更高。这种音乐的有效性与历史沿革依然有争议。
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

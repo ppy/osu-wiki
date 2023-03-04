@@ -28,16 +28,16 @@ tags:
 
 ## 说明
 
-The **Fade In** [游戏模组](/wiki/Game_modifier) for [osu!mania](/wiki/Game_mode/osu!mania) that increases the difficulty of [beatmaps](/wiki/Beatmap) by causing notes disappear and then fade in as they approach the [judgement](/wiki/Gameplay/Judgement) bar. Hence the name.
+**Fade In** [游戏模组](/wiki/Game_modifier)用于 [osu!mania](/wiki/Game_mode/osu!mania)，通过隐藏音符并在其接近[判定](/wiki/Gameplay/Judgement)线时渐显来增加[谱面](/wiki/Beatmap)难度，也因此而得名。
 
-The speed at which the notes fade in is based on the combo, with higher combo causing the notes to fade in later and remain invisible longer. I.e., the notes fade in later and later the higher and higher a player increases their combo.
+音符渐显的速度取决于连击数，较高连击数会使音符渐显推迟、延长其不可见的时间。换而言之，玩家的连击数越高，就会越晚显示音符。
 
-The fading size only stops when a 500x combo milestone is reached (at which point it covers about 70% of the playfield). If a combo is broken at any point, the fading size will revert to 0x combo size (which is about 20% of the playfield).
+消失区域只会在达成 500x 连击里程碑时停止扩张（此时覆盖约 70% 的游玩区域）。如果断连，消失区域会回到 0x 连击时的大小（此时覆盖约 20% 的游玩区域）。
 
-![FI gameplay comparisons](img/FI-combo-comparison-mania.jpg "Gameplay with the Fade In mod at 89x combo (top-left), at 332x combo (top-middle), at 513x combo (top-right/bottom-left), and at 900x combo (bottom-right) in osu!mania")
+![FI 模组下的游玩比较](img/FI-combo-comparison-mania.jpg "osu!mania 中，使用 Fade In 模组在 89x 连击 （左上）、 332x 连击（右上）、 513x 连击（左下）与 900x 连击（右下）的比较图")
 
 ## 杂项
 
-- If a beatmap is passed with an S or SS grade with the Fade In mod enabled, said beatmap will award the silver variant of that grade instead.
+- 若使用此模组以 S 或 SS 等级完成谱面，则会获得银 S 或银 SS 等级。
 
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"

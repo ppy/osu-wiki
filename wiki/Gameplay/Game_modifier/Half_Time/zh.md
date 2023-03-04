@@ -28,19 +28,19 @@ tags:
 
 ## 说明
 
-*Note: The method used to slow down the song may cause it to sound muddy or robotic.*
+*注意：使用此模组降低歌曲速度同时，可能会导致声音模糊，或听起来像机器人。*
 
-The **Half Time** [游戏模组](/wiki/Game_modifier) that decreases the overall [beatmap](/wiki/Beatmap)'s speed (BPM) to 75% of the original, increases the length of the song by 33%, and decreases the [approach rate (AR)](/wiki/Beatmapping/Approach_rate), [overall difficulty (OD)](/wiki/Beatmapping/Overall_difficulty), [and health (HP)](/wiki/Gameplay/Health) by a small amount.
+**Half Time** [游戏模组](/wiki/Game_modifier) that decreases the overall [beatmap](/wiki/Beatmap)'s speed (BPM) to 75% of the original, increases the length of the song by 33%, and decreases the [approach rate (AR)](/wiki/Beatmapping/Approach_rate), [overall difficulty (OD)](/wiki/Beatmapping/Overall_difficulty), [and health (HP)](/wiki/Gameplay/Health) by a small amount.
 
 ### osu!taiko
 
-In [osu!taiko](/wiki/Game_mode/osu!taiko), the slowed song and BPM causes the notes to become very dense due to the decrease in AR. However, due to the way dendens are calculated in osu!taiko, they now take more hits to clear and cause them to award a **higher total value than without the mod** because denden hits are not affected by the [score multiplier](/wiki/Game_modifier/Score_multiplier).
+在 [osu!taiko](/wiki/Game_mode/osu!taiko), the slowed song and BPM causes the notes to become very dense due to the decrease in AR. However, due to the way dendens are calculated in osu!taiko, they now take more hits to clear and cause them to award a **higher total value than without the mod** because denden hits are not affected by the [score multiplier](/wiki/Game_modifier/Score_multiplier).
 
 As a result, using the Half Time mod will lead to an increase in maximum possible score for maps with very low combos and many long dendens. This effect will be even more significant when [Hard Rock](/wiki/Game_modifier/Hard_Rock) is turned on simultaneously.
 
 ### osu!catch
 
-In [osu!catch](/wiki/Game_mode/osu!catch), the BPM and the speed of the catcher are lowered by the same factor as in other modes. All the [fruits](/wiki/Hit_object/Fruit), [drops](/wiki/Hit_object/Juice_stream#drop), [droplets](/wiki/Hit_object/Juice_stream#droplet) and [bananas](/wiki/Hit_object/Banana) stay untouched.
+在 [osu!catch](/wiki/Game_mode/osu!catch), the BPM and the speed of the catcher are lowered by the same factor as in other modes. All the [fruits](/wiki/Hit_object/Fruit), [drops](/wiki/Hit_object/Juice_stream#drop), [droplets](/wiki/Hit_object/Juice_stream#droplet) and [bananas](/wiki/Hit_object/Banana) stay untouched.
 
 ## 杂项
 

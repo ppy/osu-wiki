@@ -19,7 +19,7 @@ tags:
 ## 关于
 
 - 缩写： FL
-- 类别： Difficulty Increase
+- 类别： 增加难度
 - 得分系数：
   - ![][osu!] ![][osu!taiko] ![][osu!catch]: 1.12x
   - ![][osu!mania]: 1.00x
@@ -29,48 +29,48 @@ tags:
 
 ## 说明
 
-The **Flashlight** [游戏模组](/wiki/Game_modifier) that aims to artificially increase the difficulty of a [beatmap](/wiki/Beatmap) by limiting the visible area of the screen.
+**Flashlight** [游戏模组](/wiki/Game_modifier)通过限制屏幕可见区域来人为增加[谱面](/wiki/Beatmap)难度。
 
 ### osu!
 
-In [osu!](/wiki/Game_mode/osu!), only a small, illuminated circle (i.e., the visible area) surrounding the cursor is shown which will display the parts of the playfield that are contained within that circle. The size of this circle will change depending on the player's current combo.
+在 [osu!](/wiki/Game_mode/osu!) 中，光标周围只有一个照亮的小圆圈（即可见区域），显示圆圈范围内的游玩界面。可见区域的大小取决于玩家目前连击数而改变。
 
-The visible area will become smaller at 100x combo and again at 200x combo. If the player's combo is broken at any point, the visible area will return to its original size. Additionally, when sliding a [slider](/wiki/Hit_object/Slider), the visible area will partially darken until the slider is completed.
+在连击数为 100x 时可见区域会缩小，连击数为 200x 时会再次缩小。如果在任何时候断连，可见区会扩大到原始大小。此外，可见区在完成[滑条](/wiki/Hit_object/Slider)期间会变暗。
 
-All of this adds up to an effect that looks like a virtual flashlight is being shone on the player's cursor:
+此模组的所有功能累加起来，呈现出玩家光标上有虚拟手电筒照着的效果。
 
-![FL gameplay osu!](img/FL-comparison-osu.jpg "Comparison between a play with the Flashlight mod enabled at 13x combo (top-middle), 100x combo (bottom-left), and at 200x combo (bottom-right)")
+![FL 模组下的 osu! 游玩界面](img/FL-comparison-osu.jpg "使用 Flashlight 模组在 13x 连击（上图）、  100x 连击（左下）与 200x 连击（右下）的比较图")
 
-It should be noted that when paired with the Hidden mod, the "flashlight's" visible area barely matters: with limited vision, the fading of the hit objects may occur while the cursor is not focused to the hit object's appearance point.
+需要注意，当与 Hidden 模组并用时，“手电筒”的可见区域几乎不重要：由于可见区域限制，打击物件可能会在光标未处于打击物件出现点时渐隐。
 
-The Flashlight mod is widely regarded by many as the hardest mod in osu!, and scores obtained with it typically require players to memorise the entire beatmap.
+此模组被公认为 osu! 中最难的模组，使用它得分常常需要玩家背下整张谱面。
 
 ### osu!taiko
 
-In [osu!taiko](/wiki/Game_mode/osu!taiko), the position of visible area is fixed at the hitting area. And similarly to osu!, the visible area shrinks as the combo increases: shrinking at 100x and 200x combo while returning to its original size if the combo breaks.
+在 [osu!taiko](/wiki/Game_mode/osu!taiko) 中，可见区域固定于打击区。与 osu! 相似，可见区域随连击数增加而缩小：在连击数为 100x 和 200x 时会缩小，断连时会回到原始大小。
 
-![FL gameplay taiko](img/FL-taiko.jpg "Gameplay of osu!taiko with the Flashlight mod enabled")
+![FL 模组下的 osu!taiko 游玩界面](img/FL-taiko.jpg "启用 Flashlight 模组时的 osu!taiko 游玩界面")
 
-When paired with the Hidden mod, the "flashlight's" visible area becomes a moot point because notes are technically "invisible" because the notes fade out completely upon reaching the visible area. This also requires complete memorisation of the beatmap.
+当与 Hidden 模组并用时，“手电筒”的可见区域失去了意义：由于音符在到达可见区域时已完全消失，就在技术上变得“不可见”。这也需要熟背整张谱面。
 
 ### osu!catch
 
-In [osu!catch](/wiki/Game_mode/osu!catch), the Flashlight mod's behaviour is the same as in osu!, except for the fact that the visible area follows the catcher instead of the cursor. And due to the nature of osu!catch, the visible area is notably larger than in osu! or osu!taiko.
+在 [osu!catch](/wiki/Game_mode/osu!catch) 中，此模组表现与 osu! 中相同，但可见区域跟随小人而非光标移动。由于 osu!catch 的性质，可见区域比 osu! 与 osu!taiko 中的大得多。
 
-![FL gameplay catch](img/FL-catch.jpg "Gameplay of osu!catch with the Flashlight mod enabled")
+![FL 模组下的 osu!catch 游玩界面](img/FL-catch.jpg "启用 Flashlight 模组时的 osu!catch 游玩界面")
 
-When paired with the Hidden mod, the fruits are momentarily visible if the catcher is *directly under* the fruits. That is, up until the player reaches 100x combo, at which point the fruits become completely invisible by the time the fruits reach the visible area. Much like osu! and osu!taiko, this also requires complete memorisation of the beatmap.
+当与 Hidden 模组并用时，如果小人在水果*正下方*，顷刻间会看到水果。具体来说，在玩家连击数达到 100x 时，水果在到达可见区域时已经完全不可见了。与 osu! 与 osu!taiko 中类似，这也需要熟背整张谱面。
 
 ### osu!mania
 
-In [osu!mania](/wiki/Game_mode/osu!mania), the visible area is restricted to a relatively thin horizontal bar at the centre of the track whilst everything else is obstructed from view. In that sense, the Flashlight mod could be thought of as the Hidden mod and [Fade In](/wiki/Game_modifier/Fade_In) mod combined. (That is, without the changing sizes of the visible area.)
+在 [osu!mania](/wiki/Game_mode/osu!mania) 中，可见区域限于轨道中部相对较小的水平区域，玩家不能看到其他部分的东西。从这里来说，此模组可以类比为 Hidden 与 [Fade In](/wiki/Game_modifier/Fade_In) 模组的结合体。（也就是说，可见区域大小不会改变）
 
-![FL gameplay mania](img/FL-mania.jpg "Gameplay of osu!mania with the Flashlight mod enabled")
+![FL 模组下的 osu!mania 游玩界面](img/FL-mania.jpg "启用 Flashlight 模组时的 osu!mania 游玩界面")
 
 ## 杂项
 
-- If a beatmap is passed with an S or SS grade with the Flashlight mod enabled, the beatmap will award the silver variant of the grade instead.
-- The Flashlight mod was originally subjected to heavy controversy regarding the implementation in 2010 for being the easiest mod to hack on; subsequently forcing the mod to be unranked until a patch was implemented to cover the Flashlight mod implementation loophole.
+- 若使用此模组以 S 或 SS 等级完成谱面，则会获得银 S 或银 SS 等级。
+- 最初在2010年时，此模组由于最容易被黑而饱受争议；随后此模组被迫不计入排名，直到一个补丁填补了此模组的实现漏洞。
   - [Flashlight mod disabled #2](https://osu.ppy.sh/community/forums/topics/41039)
   - [Flashlight is back!](https://osu.ppy.sh/community/forums/topics/41519)
 

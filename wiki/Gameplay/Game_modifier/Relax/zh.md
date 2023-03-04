@@ -18,7 +18,7 @@ tags:
 
 ## 关于
 
-- 缩写： RL or RX
+- 缩写： RL 或 RX
 - 类别： 特殊
 - 得分系数： 0.00x
 - 默认快捷键： `Z`
@@ -32,25 +32,25 @@ tags:
 
 *注意：启用此模组会导致成绩不计入排名，也不会保存到本地排行榜。*
 
-The **Relax** [游戏模组](/wiki/Game_modifier) that aims to allow a relaxing experience to players. Due to its nature, the mod is typically utilised to analyse/practice difficult [patterns](/wiki/Beatmap/Pattern) on [beatmaps](/wiki/Beatmap), or for when players want to give their tapping hands a rest.
+**Relax** [游戏模组](/wiki/Game_modifier)旨在给予令玩家放松的游戏体验。出于其功能，此模组典型的用途是分析或练习[谱面](/wiki/Beatmap)打击物件的棘手[排法](/wiki/Beatmap/Pattern)，或是让玩家的手指放松一下。
 
 ### osu!
 
-In [osu!](/wiki/Game_mode/osu!), enabling the Relax mod only requires the player to hover their cursor over [hit objects](/wiki/Hit_object); all hit objects will be automatically tapped by osu!. The mod makes it impossible to fail the beatmap in all game modes.
+在 [osu!](/wiki/Game_mode/osu!) 中启用此模组后，玩家只需要将光标移到[打击物件](/wiki/Hit_object)上， osu! 会自动点击物件。此模组让玩家在所有游戏模式中不会失败。
 
-The Relax mod also disables the in-game interface, thus hiding the [score](/wiki/Gameplay/Score), [combo](/wiki/Beatmapping/Combo), and misses, although this can be re-enabled by pressing `Shift`+`Tab`. Additionally, the spins per minute (SPM) value will be doubled, allowing the player to spin much faster and thus obtain a higher score than would in a regular play.
+此模组也会禁用游戏中界面，因此会隐藏[分数](/wiki/Gameplay/Score)、[连击数](/wiki/Beatmapping/Combo)和断连。可以按`Shift`+`Tab` 键重新启用游戏中界面。除此之外，每分钟转数（SPM）也会翻倍，让玩家更快旋转转盘，获得与正常游玩相比更高的分数。
 
 ### osu!taiko
 
-In [osu!taiko](/wiki/Game_mode/osu!taiko), the Relax mod removes colour judgement: the correct colour for the note is hit regardless of the colour given. Although the colours of the notes will not be changed.
+在 [osu!taiko](/wiki/Game_mode/osu!taiko) 中，此模组去除了红蓝判定：无论点击哪种颜色，都会打出音符对应的正确颜色。尽管如此，此模组也不会改变音符原有颜色。
 
-Along with this, the Relax mod will also give more lenient timing to collect the slider ticks during drumrolls, while dendens can be cleared with any colour sequence instead of alternating the colour sequence. The animated mascot will also be removed.
+除此之外，此模组也会在长条中为收集滑条点给予更宽松的计时策略，转盘也无需改变颜色阵列，可以使用任何颜色阵列完成。同时也会移除吉祥物动画。
 
-As opposed to osu!, the Relax mod in osu!taiko *will* display score, combo, and misses.
+与 osu! 相反，此模组*会*在 osu!taiko 模式中显示分数、连击数和断连。
 
 ### osu!catch
 
-In [osu!catch](/wiki/Game_mode/osu!catch), the Relax mod allows the character to be moved freely at any speed with the mouse or other cursor-moving peripheral.
+在 [osu!catch](/wiki/Game_mode/osu!catch) 中，此模组允许小人随鼠标或其他能移动光标的设备以任意速度自由移动。
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

@@ -16,7 +16,7 @@ tags:
 ![TP 模组图标](/wiki/shared/mods/TP.png "Target Practice (TP) 模组图标")
 
 *对于所有模组的列表，参见：[游戏模组 (Mods)](/wiki/Game_modifier)*\
-*注意： the Target Practice mod is only accessible in the `Cutting Edge` build.*
+*注意：只能在`测试版（Cutting Edge）`中使用此模组。*
 
 ## 关于
 
@@ -29,17 +29,17 @@ tags:
 
 *注意：启用此模组会导致成绩不计入排名。*
 
-The **Target Practice**n experimental [游戏模组](/wiki/Game_modifier) that removes all the mapped [hit objects](/wiki/Hit_object) and replaces them with a simplified and consistent set of "targets."
+**Target Practice** 是一个实验性[游戏模组](/wiki/Game_modifier)，移除谱面中所有已有的[打击物件](/wiki/Hit_object)，取而代之的是经简化、持续如一的“靶子”。
 
-During a play with the Target Practice mod enabled, players will be presented with a set of "targets" that slowly increase in size and brightness. The player is then expected to tap or click the targets when they are at full brightness and size and the time is right. A consistent metronome will be played in the background to indicate to players when they should tap the target.
+在启用此模组游玩时，会向玩家显示大小与亮度缓慢增加的一组“靶子”。当其亮度最高、大小最大时，玩家需要在适当的时间点击它们。此模组也会在后台播放节拍声来指示玩家点击靶子的时机。
 
-The mod's use is mostly for fun, but can also be used to practice maintaining a consistent tempo.
+使用此模组大多是为了娱乐，但也可用于练习维持持续的节奏。
 
-![TP Gameplay](img/TP-gameplay.jpg "osu! gameplay with the Target Practice mod enabled")
+![TP 模组下的游玩界面](img/TP-gameplay.jpg "启用 Target Practice 模组时的 osu! 游玩界面")
 
 ## 杂项
 
-- The Target Practice Mod will use the [combo colours](/wiki/Glossary/Combo_colour) that are marked in the player's current [skin.ini](/wiki/Skinning/skin.ini) folder.
-- Upon failing a play with the Target Practice mod enabled, the player will be brought to the Ranking Screen, instead of a fail screen.
+- 此模组会使用玩家在 [skin.ini](/wiki/Skinning/skin.ini) 文件夹中设置的[连击颜色](/wiki/Glossary/Combo_colour)。
+- 启用此模组后，当游玩失败时，会直接显示结算屏幕而非失败屏幕。
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"

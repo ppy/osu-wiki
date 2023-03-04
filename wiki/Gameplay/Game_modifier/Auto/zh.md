@@ -32,30 +32,30 @@ tags:
 
 *注意：启用此模组会导致成绩不计入排名，也不会保存到本地排行榜。*
 
-The **Auto** [游戏模组](/wiki/Game_modifier) that allows players to watch a perfect playthrough of the selected beatmap.
+**Auto** [游戏模组](/wiki/Game_modifier)让玩家看看所选谱面完美的自动表演。
 
-The mod functions exactly like a [replay](/wiki/Gameplay/Replay), with the options for 0.5x/1.0x/2.0x speed playback to be used and comments on the beatmap to be seen and made like normal. The Auto mod will always get an SS grade, with the exception of a few special cases.
+此模组的功能酷似[回放](/wiki/Gameplay/Replay)，照常可以设置 0.5x/1.0x/2.0x 的回放速度，也可以看到谱面评论。除了极少数特殊情况，启用此模组的游玩总会获得 SS 等级。
 
 ### osu!
 
-In [osu!](/wiki/Game_mode/osu!), when encountered with a spinner, the Auto mod will spin to a maximum of 477 spins per minute (SPM) in a anticlockwise rotation.
+在 [osu!](/wiki/Game_mode/osu!) 中，此模组会以每分钟最高 477 转（SPM）的速度逆时针旋转转盘。
 
 ### osu!taiko
 
-In [osu!taiko](/wiki/Game_mode/osu!taiko), the Auto mod will attempt a perfect playthrough, but won't always get an SS grade. It will occasionally miss a tick on drum rolls that do not start on a whole or half beat and will not always be able to complete dendens on maps with a very high overall difficulty.
+在 [osu!taiko](/wiki/Game_mode/osu!taiko) 中，此模组会尝试进行完美游玩，但不总会得到 SS 等级。可能会偶然漏掉未从一整拍或半拍开始的长条上的一个点，也可能无法完成整体难度较高谱面中的转盘。
 
 ### osu!catch
 
-In [osu!catch](/wiki/Game_mode/osu!catch), the Auto mod will actually go beyond perfect and use unlimited speed to catch *every single banana* in a spinner, despite such a feat being impossible for a human player.
+在 [osu!catch](/wiki/Game_mode/osu!catch) 中，此模组实际上会超越完美，使用无限的速度接到转盘中*每一个*香蕉，尽管如此壮举对人类玩家来说是不可能的。
 
 ### osu!mania
 
-In [osu!mania](/wiki/Game_mode/osu!mania), the Auto mod will attempt a perfect playthrough, but may miss objects in the same column that are overlapping or placed within 1 ms of each other.
+在 [osu!mania](/wiki/Game_mode/osu!mania) 中，此模组会尝试进行完美游玩，但可能会漏掉同一列重叠或间隔小于 1 毫秒的物件。
 
 ## 杂项
 
-- When watching an Auto replay, the username displayed in the leaderboard will be "osu!."
-- After watching an Auto replay, the mod will deselect itself and the user will be forced to reselect the mod if they wish to watch the replay again. This will happen whether or not the replay is watched all the way through.
+- 当观看 Auto 模组的回放时，排行榜中显示的用户名是“osu!”。
+- 在观看 Auto 模组的回放后，无论是否完整观看回放，都会自动禁用此模组。如果玩家想再看一遍回放，就必须要重新选择此模组。
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

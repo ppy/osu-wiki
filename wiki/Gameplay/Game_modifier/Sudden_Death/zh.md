@@ -14,7 +14,7 @@ tags:
 ![SD 模组图标](/wiki/shared/mods/SD.png "Sudden Death (SD) 模组图标")
 
 *对于所有模组的列表，参见：[游戏模组 (Mods)](/wiki/Game_modifier)*\
-*See also: [Perfect （模组）](/wiki/Game_modifier/Perfect)*
+*另见：[Perfect （模组）](/wiki/Game_modifier/Perfect)*
 
 ## 关于
 
@@ -28,27 +28,27 @@ tags:
 
 ## 说明
 
-The **Sudden Death** [游戏模组](/wiki/Game_modifier) that causes players to fail a [beatmap](/wiki/Beatmap) upon missing a [hit object](/wiki/Hit_object) or failing to collect a slider tick. This is useful for players who are going for an [full combo (FC)](/wiki/Full_combo). Although there is some debate as to whether the use of the Sudden Death mod or the act of retrying at the first [combo break](/wiki/Gameplay/Judgement/Combobreak) is helpful or harmful for players wanting to improve quickly,
+**Sudden Death** [游戏模组](/wiki/Game_modifier)使玩家在漏掉[打击物件](/wiki/Hit_object)或没能收集滑条点时被判定[谱面](/wiki/Beatmap)失败，对于追求[全连 (FC)](/wiki/Full_combo)的玩家很有用。然而，对于在首次[断连](/wiki/Gameplay/Judgement/Combobreak)时对追求快速进步的玩家是否有利这一问题，还是众说纷纭。
 
-To be more specific, the Sudden Death mod will only fail the beatmap if any of the following happen:
+具体来说，此模组只会在出现下列情况时判定失败：
 
-- Missing a note
-- Failing to collect a slider tick (osu! game mode only)
-- Failing to complete a spinner
+- 漏掉音符
+- 没能收集滑条点（仅限 osu! 模式）
+- 没能完成转盘
 
-The Sudden Death mod **will not** fail the beatmap if any of the following happen:
+此模组在出现下列情况时**不会**判定失败：
 
-- Missing a [slidertail](/wiki/Hit_object/Slidertail) (i.e. a sliderbreak)
-- Not holding/collecting on the empty slider path
+- 漏掉[滑条尾](/wiki/Hit_object/Slidertail)（即：断滑条）
+- 没有在空的滑条路径按住按键
 
-Unlike the Sudden Death mod's variant [Perfect](/wiki/Game_modifier/Perfect), the beatmap will not automatically retry the map. Instead, the player will be left with a normal failure screen upon missing.
+不同于变体 [Perfect](/wiki/Game_modifier/Perfect)，此模组不会自动重试谱面，只会在断连时显示常规的失败屏幕。
 
-This mod has the same effect across all [game modes](/wiki/Game_mode).
+此模组对所有[游戏模式](/wiki/Game_mode)有相同效果。
 
 ### 杂项
 
-- Missing a note with the Sudden Death mod enabled will result in an extra large miss figure to appear in [osu!](/wiki/Game_mode/osu!).
-- When playing with Sudden Death mod enabled in osu!, there are rare cases where the player may survive from a full life bar drain for breaking the combo count. If the player managed to preserve at least a sliver of health by getting a slider tick in a very short time-margin right after the combo broke and before the life bar is drained completely, the player can continue playing the beatmap as is and no large miss figure will be imposed.
+- 在 [osu!](/wiki/Game_mode/osu!) 中启用此模组时，漏掉音符时会出现特大的 “Miss” 标志。
+- 在 osu! 中启用此模组时，玩家在极罕见的情况下能在断连时免于掉完血。如果玩家能够在断连后极短时间内，在血条被清空前到达滑条点，就可以照原样继续游玩谱面，不会显示特大的 “Miss” 标志。
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
