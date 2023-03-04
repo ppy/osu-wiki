@@ -4,26 +4,26 @@ stub: true
 
 # Jack
 
-Within pattern specific context, **jacks** are typically used to refer to 3 or more consecutive notes within the same column. They are referred to as **jacks** since the motion required to play them mimics the motion of a jackhammer. Jacks are typically snapped at 1/4th or higher snap intervals and tend to be less notes overall, differentiating it from an [anchor](/wiki/Beatmap/Pattern/osu!mania/Anchor). You will often see jacks represent consecutive repeated sounds that occur within the music.
+**Jacks** typically refer to 3 or more consecutive notes within the same column. Jacks are typically snapped at a 1/4 snap interval or higher and tend to feature less notes overall, differentiating them from [anchors](/wiki/Beatmap/Pattern/osu!mania/Anchor). Jacks often represent consecutive repeated sounds that occur in music.
 
-![](img/jack.png "This image displays a jack within it's traditional usage of the word.")
+They are referred to as **jacks** since the motion required to play them mimics the motion of a jackhammer.
 
-Commonly, the term **jack** can also refer to the general idea of having consecutive notes in the same column. Any of the following specifications can be referred to as just **jacks**.
+![](img/jack.png "A jack in the traditional sense of the word.")
 
 ## Minijack
 
-A **minijack** is a type of **jack** which only features two notes and is the least demanding version of a **jack**.
+A **minijack** is a type of jack which only features 2 notes and is the least demanding version of a jack.
 
 ![](img/minijack.png)
 
 ## Longjack
 
-A **longjack** is a more strenuous type of **jack** which uses 4 or more consecutive notes, typically isolated from any other pattern. This term may also be used when the same consecutive jumps or hands are used.
+A **longjack** is a more strenuous type of jack which uses 4 or more consecutive notes, typically isolated from any other pattern. This term may also be used when the same [jumps](/wiki/Beatmap/Pattern/osu!mania/Chord#jump) or [hands](/wiki/Beatmap/Pattern/osu!mania/Chord#hand) are used consecutively.
 
 ![](img/longjack.png)
 
 ## Chordjack
 
-**Chordjacks** features a mix of different types of jacks along with chords. This term is typically only used for patterns denser than [quadstreams](/wiki/Beatmap/Pattern/osu!mania/Stream#quadstream) and as such a more frequent usage of chords is required.
+**Chordjacks** feature a mix of different types of jacks along with [chords](/wiki/Beatmap/Pattern/osu!mania/Chord). This term is typically only used for patterns denser than [quadstreams](/wiki/Beatmap/Pattern/osu!mania/Stream#quadstream) and as such the more frequent usage of chords is emphasised.
 
 ![](img/chordjack.png)

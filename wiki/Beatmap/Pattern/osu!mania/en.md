@@ -12,4 +12,4 @@ Index page for [osu!mania](/wiki/Game_mode/osu!mania)-specific [pattern](..) typ
 - [Anchor](Anchor)
 - [Trill](Trill)
 - [Hold note](Hold_note)
-- [Chordstream](Chordstream)
+- [Chordstream](Stream#Chordstream)

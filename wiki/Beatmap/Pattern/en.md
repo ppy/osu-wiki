@@ -25,4 +25,4 @@ A **pattern** is a small set of [hit objects](/wiki/Hit_object) within a [beatma
 - [Anchor](osu!mania/Anchor)
 - [Trill](osu!mania/Trill)
 - [Hold note](osu!mania/Hold_note)
-- [Chordstream](osu!mania/Chordstream)
+- [Chordstream](osu!mania/Stream#Chordstream)

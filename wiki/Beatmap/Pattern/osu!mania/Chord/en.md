@@ -8,7 +8,9 @@ A **chord** is a group of two or more notes that are hit at the same time. They 
 
 ## Jump
 
-Also known as doubles, **jumps** are two notes pressed at the same  time. This is the most common chord type in 4-key osu!mania.
+Also known as doubles, **jumps** are two notes pressed at the same time. This is the most common chord type in 4K osu!mania.
+
+The term comes from *Dance Dance Revolution* and similar games where performing doubles requires the player to literally jump between corresponding arrows on the controller pad.
 
 ![](img/jump.png)
 

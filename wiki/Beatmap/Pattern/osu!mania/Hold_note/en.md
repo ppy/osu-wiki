@@ -4,11 +4,11 @@ stub: true
 
 # Hold note
 
-Also referred to as holds in the editor, **hold notes** (long notes) are notes that require you to hold and release them afterwards. They are often referred to as long notes, noodles or LNs and are used to represent prolonged sounds in the music.
+**Hold notes** (a.k.a. **long notes**) are notes that require you to hold and release them afterwards. They are often also referred to as "noodles" or "LNs" and are used to represent prolonged sounds in the music.
 
 ![](img/ln.png)
 
-**Releases** refers to the ending of a **hold note**, the part that requires you to release the key. They are known to have their own term due to release timing in osu!mania being taken into consideration when awarding judgements for the entire hold note.
+**Releases** refer to hold note ends, i.e. the part that requires the key to be released. They have special significance due to release timing being taken into consideration in the [osu!mania judgment system](/wiki/Gameplay/Judgement/osu!mania).
 
 ## Shield
 
@@ -22,6 +22,6 @@ Also referred to as holds in the editor, **hold notes** (long notes) are notes t
 
 ## Inverse
 
-**Inverse** is a type of hold note pattern in which all the notes in each column are hold notes and after each release, another hold note follows in that column. This creates what looks like a wall of hold notes and forms dense patterning with heavier reliance on reading.
+**Inverse** is a type of hold note pattern in which all notes are replaced with hold notes that extend to right before the next one in the same column. This creates what looks like a wall of hold notes and forms dense patterning with heavier reliance on reading ability.
 
 ![](img/inverse.png)
