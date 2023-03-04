@@ -230,7 +230,7 @@ These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-
 | [Akiri vs. HowToPlayLN - Cognitohazadrous Ocular Vision Impairing Disease](https://soundcloud.com/indekkusu/akiri-vs-howtoplayln-cognitohazadrous-ocular-vision-impairing-disease) | | Cutscene Background Music |
 | [DJ Witch Girl MIR4CLEN - P0rn0](https://soundcloud.com/mir4clen/p0rn0-1) | [#1](https://osu.ppy.sh/beatmapsets/1943788#mania/4021087) | Grand Finals SV1 |
 | [HowToPlayLN - Lost in Space](https://soundcloud.com/indekkusu/4dm2023-trailer) | | Trailer Music |
-| [HowToPlayLN - monochroma.](https://soundcloud.com/indekkusu/monochroma) | | Cutscene BGM |
+| [HowToPlayLN - monochroma.](https://soundcloud.com/indekkusu/monochroma) | | Cutscene Background Music |
 | [HowToPlayLN - wandering through the stars](https://soundcloud.com/indekkusu/wandering-through-the-stars) | | Cutscene Background Music |
 | [HowToPlayLN - crescent moon island but it's bossa nova](https://soundcloud.com/indekkusu/crescent-moon-island-but-its-bossa-nova) | | Cutscene Background Music |
 | [HowToPlayLN - polychromatic dissociation](https://soundcloud.com/indekkusu/polychromatic-dissociation) | | Cutscene Background Music |
