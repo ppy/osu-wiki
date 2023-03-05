@@ -22,11 +22,11 @@ Even though we have 2 space themed skins in a row, [RUDEKA](https://osu.ppy.sh/u
 
 ![](/wiki/shared/news/2023-03-05-skin-of-the-year-2022-results/The-Memory-of-Mumei.jpg)
 
-A previous contest winner has made their way into the top 10 skins of 2022, so feel free to congratulate [thetasigma](https://osu.ppy.sh/users/6234482) on their 7th place! [The Memory of Mumei](https://osu.ppy.sh/community/forums/topics/1569498) gives off a brass, steampunk vibe with beautiful drawings by several artists, which is why **765** community members considered it worthy of their top 10.
+A previous contest winner has made their way into the top 10 skins of 2022, so feel free to congratulate [thetasigma](https://osu.ppy.sh/users/6234482) on their 7th place! [The Memory of Mumei](https://osu.ppy.sh/community/forums/topics/1569498) gives off a brass, steampunk vibe with beautiful drawings by several artists, which is why **753** community members considered it worthy of their top 10.
 
 ![](/wiki/shared/news/2023-03-05-skin-of-the-year-2022-results/Soumetsu.jpg)
 
-What, this guy again? Not only did [thetasigma](https://osu.ppy.sh/users/6234482) win 2 out of the top 10 places, they also managed to get their 2 entries voted right next to each other! [霜滅 SOUMETSU](https://osu.ppy.sh/community/forums/topics/1628514?n=1) features Ayaka from *Genshin Impact* while only using the Protanopia colour spectrum from the [Chromatic Alteration skinning contest](/wiki/Contests/Skinning_Contest/3), the result of which is a high quality skins worthy of **753** votes.
+What, this guy again? Not only did [thetasigma](https://osu.ppy.sh/users/6234482) win 2 out of the top 10 places, they also managed to get their 2 entries voted right next to each other! [霜滅 SOUMETSU](https://osu.ppy.sh/community/forums/topics/1628514?n=1) features Ayaka from *Genshin Impact* while only using the Protanopia colour spectrum from the [Chromatic Alteration skinning contest](/wiki/Contests/Skinning_Contest/3), the result of which is a high quality skins worthy of **765** votes.
 
 ![](/wiki/shared/news/2023-03-05-skin-of-the-year-2022-results/Whatsapp.jpg)
 
