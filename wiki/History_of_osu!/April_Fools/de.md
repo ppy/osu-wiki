@@ -187,7 +187,7 @@ Der Aprilscherz 2020 wiederholte den gleichen Scherz aus dem Vorjahr, der dazu f
 
 ### Soundeffekt eines niesenden Mädchens
 
-Der Aprilscherz 2021 wiederholte den gleichen Scherz aus den beiden Vorjahren, der dazu führte, dass man mit einer etwa 5%igen Wahrscheinlichkeit den Soundeffekt eines niesenden Mädchens beim Öffnen einer Beatmap hörte.[^sneeze-2-reddit][^sneeze-2-reddit-2]
+Der Aprilscherz 2021 wiederholte den gleichen Scherz aus den beiden Vorjahren, der dazu führte, dass man mit einer etwa 5%igen Wahrscheinlichkeit den Soundeffekt eines niesenden Mädchens beim Öffnen einer Beatmap hörte.[^sneeze-2-forums][^sneeze-2-forums-2]
 
 ## Referenzen
 
