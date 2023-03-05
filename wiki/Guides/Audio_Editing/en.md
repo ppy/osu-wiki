@@ -10,20 +10,20 @@ This article serves as guide to help you do minor edits to your audio files for 
 
 [Audacity](https://www.audacityteam.org/download) is a free, open-source audio editing and recording software. It uses the [LAME](https://lame.sourceforge.io) encoding library to be able to export audio in the MP3 audio format and is built into Audacity on Windows and macOS.
 
-Linux users should refer to the following article on the [Audacity Reference Manual](https://manual.audacityteam.org/man/installing_and_updating_audacity_on_linux.html#linlame) for more information, as certain Linux distributions may still not provide LAME when installing Audacity but most do provide it.
+Linux users should refer to the [Audacity Reference Manual](https://manual.audacityteam.org/man/installing_and_updating_audacity_on_linux.html#linlame) for more information, as certain Linux distributions may not provide LAME when installing Audacity, but most do provide it.
 
 ### Lowering Bit Rate
 
 *For information on compression in general, see: [Compressing files](/wiki/Guides/Compressing_files)*
 
-Install and open Audacity then follow these steps:
+Install and open Audacity, then follow these steps:
 
 1. Open the `.mp3` file that you want to lower the bit rate on.
-2. Press `Ctrl` + `Shift` + `E`, then change `Save as type:` to `MP3 Files` or:
-   1. Click `File`, then `Export` and `Export as MP3`.
+2. Press `Ctrl` + `Shift` + `E`, then in `Save as type:` select `MP3 Files`, or:
+   1. Click `File`, then `Export`, then `Export as MP3`.
 3. In the `Format Options`, change the following settings: 
-   1. `Preset` as the bit rate mode
-   2. `Medium, 145-185 kbps` as the quality.
+   1. `Bit Rate Mode`: `Preset`
+   2. `Quality`: `Medium, 145-185 kbps`
 4. Navigate to the location you want to save the file as.
    - You could rename the file too.
 5. Click `Save` and a dialog will appear to enter metadata.
@@ -47,11 +47,11 @@ Install and open Audacity then follow these steps:
    2. Click `Paste`
 6. Play through the entire music and make sure that the loop sounds good.
 7. Repeat as needed.
-8. Press `Ctrl` + `Shift` + `E`, then change `Save as type:` to `MP3 Files` or:
-   1. Click `File`, then `Export` and `Export as MP3`.
+8. Press `Ctrl` + `Shift` + `E`, then in `Save as type:` select `MP3 Files`, or:
+   1. Click `File`, then `Export`, then `Export as MP3`.
 9. In the `Format Options`, change the following settings: 
-   1. `Preset` as the bit rate mode
-   2. `Medium, 145-185 kbps` as the quality.
+   1. `Bit Rate Mode`: `Preset`
+   2. `Quality`: `Medium, 145-185 kbps`
 10. Navigate to the location you want to save the file as.
     - You could rename the file too.
 11. Click `Save` and a dialog will appear to enter metadata.
@@ -68,11 +68,11 @@ Install and open Audacity, then follow these steps:
 4. Click and drag the last 3 to 5 seconds towards the end.
 5. Click `Effect`.
 6. Click `Fade Out`.
-7. Press `Ctrl` + `Shift` + `E`, then change `Save as type:` to `MP3 Files` or:
-   1. Click `File`, then `Export` and `Export as MP3`.
+7. Press `Ctrl` + `Shift` + `E`, then in `Save as type:` select `MP3 Files`, or:
+   1. Click `File`, then `Export`, then `Export as MP3`.
 8. In the `Format Options`, change the following settings: 
-   1. `Preset` as the bit rate mode
-   2. `Medium, 145-185 kbps` as the quality.
+   1. `Bit Rate Mode`: `Preset`
+   2. `Quality`: `Medium, 145-185 kbps`
 9. Navigate to the location you want to save the file as.
    - You could rename the file too.
 10. Click `Save` and a dialog will appear to enter metadata.
@@ -80,7 +80,7 @@ Install and open Audacity, then follow these steps:
 
 ## mp3DirectCut
 
-[mp3DirectCut](https://mpesch3.de) is a free-to-use audio editing software that can directly edit MP3 files without re-encoding which could result in less quality loss. It is recommended when needing to raise/lower the volume or crop the audio.
+[mp3DirectCut](https://mpesch3.de) is a free-to-use audio editing software that can directly edit MP3 files without re-encoding, often preventing loss of quality. It is recommended when needing to raise/lower the volume or crop the audio.
 
 ### Looping
 
