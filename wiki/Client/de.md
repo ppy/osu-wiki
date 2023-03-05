@@ -3,8 +3,6 @@ stub: true
 tags:
   - game client
   - Spiel-Client
-outdated_translation: true
-outdated_since: 8bbc54dbe5020acbe00421da87d9d511d1538fe4
 ---
 
 # Client
@@ -13,12 +11,13 @@ Indexseite für Artikel über den Spiel-Client von osu! und seine Hauptabschnitt
 
 ## Übersicht
 
+- [Beatmap-Editor](Beatmap_editor)
 - [Installation](Installation)
 - [Benutzeroberfläche](Interface)
 - [Menütipps](Menu_tips)
-- [Tastenkürzel](Keyboard_shortcuts)
 - [Optionen](Options)
-- [Beatmap-Editor](Beatmap_editor)
+- [Updatequelle](Release_stream)
+- [Tastenkürzel](Keyboard_shortcuts)
 
 ## Technische Details
 

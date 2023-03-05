@@ -1,8 +1,3 @@
----
-outdated_since: 2d4959ec9ad9cb438363d7bf8e8220687a899602
-outdated_translation: true
----
-
 # Ranking criteria osu!mania
 
 ***Perhatian: Artikel ini merupakan perpanjangan dari [ranking criteria umum](/wiki/Ranking_Criteria).***
@@ -65,6 +60,7 @@ Aturan dan pedoman secara keseluruhan berlaku untuk setiap jenis tingkat kesulit
 - **Tidak boleh ada lebih dari 6 note yang ditekan pada saat yang bersamaan di tingkat kesulitan Insane atau dibawahnya.** Menggunakan lebih dari 6 note juga wajib mengikuti spread yang wajar ke tingkat kesulitan berikutnya yang lebih rendah. Aturan ini tidak berlaku untuk bagian akhir dari long note, karena long note dilepas, tidak ditekan.
 - **Beatmap hanya dapat menggunakan 4 sampai 10 key.** Selain itu tidak didukung untuk Ranked Section.
 - **Jika terdapat beberapa key mode dalam satu set beatmap, indikator key mode wajib dicantumkan pada setiap tingkat kesulitan. Jika tidak, key mode tidak perlu dicantumkan.**
+- **Beatmap yang dibuat untuk mode permainan khusus N+1 wajib mengaktifkan pengaturan khusus mode N+1 pada tab `Advanced` di menu Song Setup dan menyertakan keterangan "N+1" pada tag. Untuk beatmap yang memiliki lebih dari satu jumlah key di dalamnya, seluruh tingkat kesulitan yang dibuat untuk mode ini wajib menyertakan notasi "N+1" (semisal "7K+1" alih-alih "8K") pada nama tingkat kesulitannya.**
 - **Jika [drain time](/wiki/Beatmap/Drain_time) dari setiap kesulitan...**
   - **...lebih rendah dari durasi 2:30**, kesulitan paling rendah dari setiap *keymode* tidak boleh lebih susah dari Normal, ATAU setiap *keymode* wajib memasukkan *spread* setidaknya 3 tingkat kesulitan di bawah kesulitan paling tinggi.
   - **...di antara durasi 2:30 dan 3:15**, kesulitan paling rendah dari setiap *keymode* tidak boleh lebih susah dari Hard, ATAU setiap *keymode* wajib memasukkan *spread* setidaknya 2 tingkat kesulitan di bawah kesulitan paling tinggi.
