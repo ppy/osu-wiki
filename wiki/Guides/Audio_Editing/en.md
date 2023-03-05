@@ -26,10 +26,10 @@ Install and open Audacity then follow these steps:
 3. In the "Format Options", change the following settings: 
    1. `Preset` as the bit rate mode
    2. `Medium, 145-185 kbps` as the quality.
-5. Navigate to the location you want to save the file as.
+4. Navigate to the location you want to save the file as.
    - You could rename the file too.
-6. Click `Save` and a dialog will appear to enter metadata.
-7. Click `OK` once done entering metadata.
+5. Click `Save` and a dialog will appear to enter metadata.
+6. Click `OK` once done entering metadata.
 
 ### Looping
 
