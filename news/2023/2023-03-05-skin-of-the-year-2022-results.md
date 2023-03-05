@@ -44,17 +44,23 @@ For people with a habit of searching for high quality original skins on the foru
 
 Anime girls and skins, name me a more iconic duo... we'll wait. Speaking of duos, this is [BatuhanYtho](https://osu.ppy.sh/users/12091015)'s 2nd entry in this contest. **1054** voters loved *this* specific duo as the [Shiroko Swimsuit](https://osu.ppy.sh/community/forums/topics/1641543?n=1) skin combines a clean skin optimised for gameplay with Shiroko from *Blue Archive* in a swimsuit, watching your every move.
 
+<iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/_270uMuckh0" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ![](https://assets.ppy.sh/profile-badges/SOTY2022-3rd@2x.png)
 
 ![](/wiki/shared/news/2023-03-05-skin-of-the-year-2022-results/Moonshine.jpg)
 
 If someone were to tell you that all that was separating [Moonshine 2.0](https://osu.ppy.sh/community/forums/topics/1610388) from securing a 1st place spot was 27 votes, would you believe them? Well believe it or not, [moonstaar](https://osu.ppy.sh/users/27339355) has achieved 2nd place with an amazing **1181** votes with their minimalistic, yet ever so satisfying entry!
 
+<iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/lNeXQIIfVKA" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ![](https://assets.ppy.sh/profile-badges/SOTY2022-2nd@2x.png)
 
 ![](/wiki/shared/news/2023-03-05-skin-of-the-year-2022-results/If-there-was-an-endpoint.jpg)
 
 With a mind-blowing **1208** votes, [if there was an endpoint.](https://osu.ppy.sh/community/forums/topics/1672096) by [- Koshiin -](https://osu.ppy.sh/users/19135423) won the hearts and minds of people. "TUYU" is a band which doesn't need much introduction to the community, and the author truly did an amazing job making something osu! players would love. With beautiful art from the song of the same name as the skin, they did truly bring an amazing endpoint to this news post. Congratulations!
+
+<iframe width="100%" height="400" src="https://www.youtube-nocookie.com/embed/Ew3gfYjavZc" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![](https://assets.ppy.sh/profile-badges/SOTY2022-1st@2x.png)
 
