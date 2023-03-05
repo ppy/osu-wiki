@@ -4,11 +4,11 @@ title: "Skin of the Year 2022: Results"
 date: 2023-03-05 10:00:00 +0000
 ---
 
-The first ever "skin of the year" contest has concluded in a spectacular down-to-the-wire fashion! Tune in to see the results!
+The first-ever Skin of the Year poll has concluded in a spectacular down-to-the-wire fashion! Tune in to see the results!
 
 ![](/wiki/shared/news/2023-03-05-skin-of-the-year-2022-results/banner.jpg)
 
-After a gruelling 2 week-long battle that had the top 2 skins being neck in neck for 1st place until the very end, the dust has settled, the votes were locked in, and a winner was chosen. After all... there can be only one!
+After a gruelling 2 week-long battle that had the top 2 skins being neck in neck for 1st place until the very end, the dust has settled, the votes are locked in, and a winner has finally been chosen. After all... there can be only one!
 
 ---
 
@@ -30,7 +30,7 @@ What, this guy again? Not only did [thetasigma](https://osu.ppy.sh/users/6234482
 
 ![](/wiki/shared/news/2023-03-05-skin-of-the-year-2022-results/Whatsapp.jpg)
 
-**795** members of the WhatsApp gang showed up for the voting while blasting the WhatsApp trap remix and cast their votes for [XetThe](https://osu.ppy.sh/users/16274977)'s [WhatsApp skin](https://osu.ppy.sh/community/forums/topics/1521212), which netted them the 6th place. All jokes aside, XetThe took a gimmick and made something actually pleasing to look at and play with.
+**795** members of the WhatsApp gang showed up for the voting while blasting the WhatsApp trap remix and cast their votes for [XetThe](https://osu.ppy.sh/users/16274977)'s [WhatsApp skin](https://osu.ppy.sh/community/forums/topics/1521212), which netted them 6th place. All jokes aside, XetThe took a gimmick and made something actually pleasing to look at and play with.
 
 ![](/wiki/shared/news/2023-03-05-skin-of-the-year-2022-results/Hitori-Gotou.jpg)
 
@@ -38,12 +38,11 @@ Do you like Bocchi the Rock? Do you like the colour pink? Then [Hitori Gotou](ht
 
 ![](/wiki/shared/news/2023-03-05-skin-of-the-year-2022-results/Wintherest.jpg)
 
-For people with a habit of searching for high quality original skins on the forums, seeing [Redo_](https://osu.ppy.sh/users/7122165)'s name pop definitely rings a bell! Their [- 『Wintherest』 -](https://osu.ppy.sh/community/forums/topics/1498493) entry achieved 1st place during the ["Tides of Winter" skinning contest](/wiki/Contests/Skinning_Contest/2) a year ago, and still holds up with an impressive 4th place this time around with **932** votes! If you are an enjoyer of Winter you will definitely enjoy this entry.
+For people with a habit of searching for high quality original skins on the forums, seeing [Redo_](https://osu.ppy.sh/users/7122165)'s name pop definitely rings a bell! Their [- 『Wintherest』 -](https://osu.ppy.sh/community/forums/topics/1498493) entry achieved 1st place during the ["Tides of Winter" skinning contest](/wiki/Contests/Skinning_Contest/2) a year ago, and still holds up with an impressive 4th place this time around with **932** votes! If you're an avid winter enjoyer, you're sure to enjoy this entry.
 
 ![](/wiki/shared/news/2023-03-05-skin-of-the-year-2022-results/Shiroko-Swimsuit.jpg)
 
-Anime girls and skins, name me a more iconic duo... I'll wait.
-Speaking of duos, this is [BatuhanYtho](https://osu.ppy.sh/users/12091015)'s 2nd entry in this contest. **1054** voters loved *this* specific duo as the [Shiroko Swimsuit](https://osu.ppy.sh/community/forums/topics/1641543?n=1) skin combines a clean skin optimised for gameplay with Shiroko from *Blue Archive* in a swimsuit, watching your every move.
+Anime girls and skins, name me a more iconic duo... we'll wait. Speaking of duos, this is [BatuhanYtho](https://osu.ppy.sh/users/12091015)'s 2nd entry in this contest. **1054** voters loved *this* specific duo as the [Shiroko Swimsuit](https://osu.ppy.sh/community/forums/topics/1641543?n=1) skin combines a clean skin optimised for gameplay with Shiroko from *Blue Archive* in a swimsuit, watching your every move.
 
 ![](https://assets.ppy.sh/profile-badges/SOTY2022-3rd@2x.png)
 
