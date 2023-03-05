@@ -6,7 +6,7 @@ This article serves as guide to help you do minor edits to your audio files for 
 
 *By no means is this the software that you can only use, rather this only lists from those who had added them here. If you know of other tools that could be used and can explain how to use them for the described sections below, please add them.*
 
-## Audacity (and LAME)
+## Audacity
 
 [Audacity](https://www.audacityteam.org/download) is a free, open-source audio editing and recording software. It uses the [LAME](https://lame.sourceforge.io) encoding library to be able to export audio in the MP3 audio format.
 
@@ -61,7 +61,7 @@ Install and open Audacity then follow these steps:
 
 ### Cropping
 
-Install and open Audacity then follow these steps:
+Install and open Audacity, then follow these steps:
 
 1. Open the `.mp3` file that you want to crop.
 2. Click and drag to highlight the parts you want to crop.
