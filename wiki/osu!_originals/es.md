@@ -223,6 +223,22 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 | :-: | :-: | :-- |
 | [BilliumMoto x Akiri - Cryochemistry](https://soundcloud.com/billiummoto/cryochemistry)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1698378) | Desempate de la gran final |
 
+#### ![](/wiki/shared/mode/mania.png) [4 Digit osu!mania World Cup 2023](/wiki/Tournaments/4DM/2023)
+
+| Canción | Beatmap | Notas |
+| :-: | :-: | :-- |
+| [Akiri vs. HowToPlayLN - Cognitohazadrous Ocular Vision Impairing Disease](https://soundcloud.com/indekkusu/akiri-vs-howtoplayln-cognitohazadrous-ocular-vision-impairing-disease) |  | Cutscene background music |
+| [DJ Witch Girl MIR4CLEN - P0rn0](https://soundcloud.com/mir4clen/p0rn0-1) | [#1](https://osu.ppy.sh/beatmapsets/1943788#mania/4021087) | Gran final SV1 |
+| [HowToPlayLN - Lost in Space](https://soundcloud.com/indekkusu/4dm2023-trailer) |  | Trailer music |
+| [HowToPlayLN - monochroma.](https://soundcloud.com/indekkusu/monochroma) |  | Cutscene background music |
+| [HowToPlayLN - wandering through the stars](https://soundcloud.com/indekkusu/wandering-through-the-stars) |  | Cutscene background music |
+| [HowToPlayLN - crescent moon island but it's bossa nova](https://soundcloud.com/indekkusu/crescent-moon-island-but-its-bossa-nova) |  | Cutscene background music |
+| [HowToPlayLN - polychromatic dissociation](https://soundcloud.com/indekkusu/polychromatic-dissociation) |  | Cutscene background music |
+| [Imaginary Reality - Stardust Antagonism](https://soundcloud.com/imaginaryrea1ity/stardust-antagonism) |  | Cutscene background music |
+| [Imaginary Reality vs. HowToPlayLN - Throughout The Memories](https://soundcloud.com/indekkusu/throughout-the-memories) |  | Cutscene background music |
+| [takehirotei vs. HowToPlayLN - Essence](https://soundcloud.com/indekkusu/essence) | [#1](https://osu.ppy.sh/beatmapsets/1943786#mania/4021083) | Desempate de la gran final |
+| [takehirotei vs. HowToPlayLN - Essence \~among the constellations\~](https://soundcloud.com/indekkusu/essence-among-the-constellations) |  | Créditos |
+
 #### ![](/wiki/shared/mode/taiko.png) [Advanced Global Taiko Showdown 2022](/wiki/Tournaments/GTS/AGTS_2022)
 
 | Canción | Beatmap | Notas |
