@@ -143,7 +143,7 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | ::{ flag=NL }:: [GIGACHAD](https://osu.ppy.sh/users/11081858) | ดัตช์ |
 | ::{ flag=PL }:: [Mniam](https://osu.ppy.sh/users/6050530) | โปแลนด์ |
 | ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276) | เกาหลี |
-| ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) |  ||
+| ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) |  |
 | ::{ flag=BR }:: [zerokt](https://osu.ppy.sh/users/13776127) | โปรตุเกส |
 | ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) | สเปน |
 | ::{ flag=ZA }:: [Zuid-Afrikaan](https://osu.ppy.sh/users/29282944) | แอฟริกานส์, ดัตช์ |

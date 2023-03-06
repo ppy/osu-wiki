@@ -141,7 +141,7 @@ tags:
 | ::{ flag=NL }:: [GIGACHAD](https://osu.ppy.sh/users/11081858) | Нидерландский |
 | ::{ flag=PL }:: [Mniam](https://osu.ppy.sh/users/6050530) | Польский |
 | ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276) | Корейский |
-| ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) |  ||
+| ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) |  |
 | ::{ flag=BR }:: [zerokt](https://osu.ppy.sh/users/13776127) | Португальский |
 | ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) | Испанский |
 | ::{ flag=ZA }:: [Zuid-Afrikaan](https://osu.ppy.sh/users/29282944) | Африкаанс, нидерландский |

@@ -143,7 +143,7 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 | ::{ flag=NL }:: [GIGACHAD](https://osu.ppy.sh/users/11081858) | 네덜란드어 |
 | ::{ flag=PL }:: [Mniam](https://osu.ppy.sh/users/6050530) | 폴란드어 |
 | ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276) | 한국어 |
-| ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) |  ||
+| ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) |  |
 | ::{ flag=BR }:: [zerokt](https://osu.ppy.sh/users/13776127) | 포르투갈어 |
 | ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) | 스페인어 |
 | ::{ flag=ZA }:: [Zuid-Afrikaan](https://osu.ppy.sh/users/29282944) | 아프리칸스어, 네덜란드어 |

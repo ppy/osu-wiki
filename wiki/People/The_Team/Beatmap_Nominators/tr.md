@@ -143,7 +143,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ::{ flag=NL }:: [GIGACHAD](https://osu.ppy.sh/users/11081858) | Felemenkçe |
 | ::{ flag=PL }:: [Mniam](https://osu.ppy.sh/users/6050530) | Lehçe |
 | ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276) | Korece |
-| ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) |  ||
+| ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) |  |
 | ::{ flag=BR }:: [zerokt](https://osu.ppy.sh/users/13776127) | Portekizce |
 | ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) | İspanyolca |
 | ::{ flag=ZA }:: [Zuid-Afrikaan](https://osu.ppy.sh/users/29282944) | Afrikaanca, Felemenkçe |
