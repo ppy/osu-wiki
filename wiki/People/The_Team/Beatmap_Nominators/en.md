@@ -143,7 +143,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ::{ flag=NL }:: [GIGACHAD](https://osu.ppy.sh/users/11081858) | Dutch |
 | ::{ flag=PL }:: [Mniam](https://osu.ppy.sh/users/6050530) | Polish |
 | ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276) | Korean |
-| ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) |  ||
+| ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) |  |
 | ::{ flag=BR }:: [zerokt](https://osu.ppy.sh/users/13776127) | Portuguese |
 | ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) | Spanish |
 | ::{ flag=ZA }:: [Zuid-Afrikaan](https://osu.ppy.sh/users/29282944) | Afrikaans, Dutch |
