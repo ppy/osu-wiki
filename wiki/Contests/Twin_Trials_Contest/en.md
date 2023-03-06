@@ -42,7 +42,7 @@ The storyboarding phase schedule will be revealed after the beatmapping phase en
 
 ### osu!
 
-| Team name | Beatmappers | Submission |
+| Team name | Members | Submission |
 | :-- | :-- | :-- |
 | 3ABTPA B Tpu | ::{{ flag=RU }}:: [Florescence](https://osu.ppy.sh/users/6495550), ::{{ flag=UA }}:: [aishiteiru-](https://osu.ppy.sh/users/10566388) | *TBD* |
 | 7km | ::{{ flag=DE }}:: [0ppInOsu](https://osu.ppy.sh/users/12551840), ::{{ flag=RU }}:: [pccl](https://osu.ppy.sh/users/11665315) | *TBD* |
@@ -74,7 +74,7 @@ The storyboarding phase schedule will be revealed after the beatmapping phase en
 
 ### osu!taiko
 
-| Team name | Beatmappers | Submission |
+| Team name | Members | Submission |
 | :-- | :-- | :-- |
 | #TeamCancelled | ::{{ flag=PL }}:: [h3oCharles](https://osu.ppy.sh/users/8712289), ::{{ flag=MK }}:: [soirT](https://osu.ppy.sh/users/21076274) | *TBD* |
 | Frozen Bananas | ::{{ flag=JP }}:: [uone](https://osu.ppy.sh/users/5321719), ::{{ flag=JP }}:: [iceOC](https://osu.ppy.sh/users/5482401) | *TBD* |
@@ -89,7 +89,7 @@ The storyboarding phase schedule will be revealed after the beatmapping phase en
 
 ### osu!catch
 
-| Team name | Beatmappers | Submission |
+| Team name | Members | Submission |
 | :-- | :-- | :-- |
 | Alien Tails | ::{{ flag=ES }}:: [Deif](https://osu.ppy.sh/users/318565), ::{{ flag=HK }}:: [autofanboy](https://osu.ppy.sh/users/636114) | *TBD* |
 | Catch the AFK | ::{{ flag=CN }}:: [sxy62146214](https://osu.ppy.sh/users/8386591), ::{{ flag=MY }}:: [Summerleopard](https://osu.ppy.sh/users/8437630) | *TBD* |
@@ -101,7 +101,7 @@ The storyboarding phase schedule will be revealed after the beatmapping phase en
 
 ### osu!mania
 
-| Team name | Beatmappers | Submission |
+| Team name | Members | Submission |
 | :-- | :-- | :-- |
 | Frailure | ::{{ flag=US }}:: [Feraligatr](https://osu.ppy.sh/users/7439226), ::{{ flag=GB }}:: [Chandelure](https://osu.ppy.sh/users/12013943) | *TBD* |
 | IceDynamix | ::{{ flag=DE }}:: [EimitMaggi999](https://osu.ppy.sh/users/10922297), ::{{ flag=DE }}:: [Vincus](https://osu.ppy.sh/users/16124906) | *TBD* |
