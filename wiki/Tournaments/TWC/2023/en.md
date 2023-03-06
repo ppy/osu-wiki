@@ -63,7 +63,7 @@ The osu!taiko World Cup 2023 is run by various community members.
 | ::{ flag=AR }:: | **Argentina** | **[Axer](https://osu.ppy.sh/users/7299864)** |
 | ::{ flag=AU }:: | **Australia** | **[r1chyy](https://osu.ppy.sh/users/11499467)** |
 | ::{ flag=AT }:: | **Austria** | **[Amane](https://osu.ppy.sh/users/6821436)** |
-| ::{ flag=BR }:: | **Brazil** | **[Skull Kid](https://osu.ppy.sh/users/3044264)** |
+| ::{ flag=BR }:: | **Brazil** | **[Foxeru](https://osu.ppy.sh/users/7479684)**, [Skull Kid](https://osu.ppy.sh/users/3044264), [Kyoumo](https://osu.ppy.sh/users/8145223), [miwoo](https://osu.ppy.sh/users/12630336), [ImTutu](https://osu.ppy.sh/users/16262582), [Spicy Onion](https://osu.ppy.sh/users/11799110) |
 | ::{ flag=CA }:: | **Canada** | **[beary605](https://osu.ppy.sh/users/2198070)** |
 | ::{ flag=CL }:: | **Chile** | **[Ulqui](https://osu.ppy.sh/users/1263669)**, [Necromancy-](https://osu.ppy.sh/users/1890084), [\[GS\]Myuka](https://osu.ppy.sh/users/10072733), [Escocyan](https://osu.ppy.sh/users/9057823), [iNeon](https://osu.ppy.sh/users/10907480), [Shiny Froakie](https://osu.ppy.sh/users/6194830) |
 | ::{ flag=CN }:: | **China** | **[Ookura Risona](https://osu.ppy.sh/users/2073644)** |
@@ -91,7 +91,7 @@ The osu!taiko World Cup 2023 is run by various community members.
 | ::{ flag=PT }:: | **Portugal** | **[BabySnakes](https://osu.ppy.sh/users/4669728)** |
 | ::{ flag=RU }:: | **Russian Federation** | **[fullaltshallah](https://osu.ppy.sh/users/9976154)**, [Den4ik228](https://osu.ppy.sh/users/7115174), [taikoshallah](https://osu.ppy.sh/users/11117835), [Dayzeek](https://osu.ppy.sh/users/5009970), [rollshallah](https://osu.ppy.sh/users/8188876), [krokodil\_koban](https://osu.ppy.sh/users/24910091) |
 | ::{ flag=SG }:: | **Singapore** | **[MattrexDark](https://osu.ppy.sh/users/7171110)**, [Element118](https://osu.ppy.sh/users/2283992), [IJosephI\[GS\]](https://osu.ppy.sh/users/13353749), [TheFunk](https://osu.ppy.sh/users/13981991) |
-| ::{ flag=KR }:: | **South Korea** | **[oL0](https://osu.ppy.sh/users/1134683)** |
+| ::{ flag=KR }:: | **South Korea** | **[oL0](https://osu.ppy.sh/users/1134683)**, [Laby](https://osu.ppy.sh/users/9085164), [4\_4](https://osu.ppy.sh/users/1152851), [ChoSeung](https://osu.ppy.sh/users/6367560), [ILOVEMARISA](https://osu.ppy.sh/users/8767392), [RaiRator](https://osu.ppy.sh/users/5054081) |
 | ::{ flag=ES }:: | **Spain** | **[AlvaroYL](https://osu.ppy.sh/users/6333166)**, [Alsael](https://osu.ppy.sh/users/13938746), [MantequillAlex](https://osu.ppy.sh/users/11499752), [OneBurstMan](https://osu.ppy.sh/users/5285438), [Celoluna](https://osu.ppy.sh/users/14571758), [Penvoltio](https://osu.ppy.sh/users/8849448) |
 | ::{ flag=CH }:: | **Switzerland** | **[MC2BP](https://osu.ppy.sh/users/11296097)**, [cholarmor](https://osu.ppy.sh/users/21502158), [Oui](https://osu.ppy.sh/users/5538419), [Zero1519](https://osu.ppy.sh/users/547957) |
 | ::{ flag=TW }:: | **Taiwan** | **[stu00608](https://osu.ppy.sh/users/1977606)** |
