@@ -301,5 +301,5 @@ Kategori ini berisi perbolehan eksplisit mengenai konsep dan peraturan yang bias
 ## Catatan
 
 [^character-voice-actor]: `CV` (Aktor Suara) digunakan ketika lagu dinyanyikan di dalam tampilan suara karakter oleh seorang yang bukan dari karakter aktor suara.
-[^maximum-dimensions]: Background yang juga digunakan sebagai gambar storyboard harus mengikuti [aturan dimensi maksimal bagi gambar storyboard](/wiki/Ranking_Criteria#pedoman.7)
+[^maximum-dimensions]: Background yang juga digunakan sebagai gambar storyboard harus mengikuti [aturan dimensi maksimal bagi gambar storyboard](/wiki/Ranking_Criteria#peraturan.7)
 [^normal-vs-addition]: [Hitsound](/wiki/Beatmapping/Hitsound) terdiri dari sampel *hitnormal* yang selalu ada, dan kombinasi dari sampel whistle, finish, atau clap *additions*.
