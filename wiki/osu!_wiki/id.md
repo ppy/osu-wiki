@@ -31,8 +31,7 @@ Artikel disusun menurut [kriteria gaya artikel](/wiki/Article_styling_criteria) 
 
 Meskipun memiliki akhiran *wiki* dalam namanya, osu! wiki tidak sepenuhnya memenuhi [konsep Wiki](https://id.wikipedia.org/wiki/Wiki):
 
-- Peningkatan artikel yang ada dan pembuatan yang baru adalah dianjurkan, tetapi pengetahuan dasar tentang [GitHub] dibutuhkan untuk dapat berkontribusi, yang meningkatkan ambang batas yang diperlukan untuk masuk. osu! wiki tetapi telah menyediakan sebuah [panduan kontribusi](/wiki/osu!_wiki/Contribution_guide) untuk membantu kontributor baru agar dapat mulai berkontribusi.
-
+- Peningkatan artikel yang ada dan pembuatan yang baru adalah dianjurkan, tetapi pengetahuan dasar tentang [GitHub](https://github.com) dibutuhkan untuk dapat berkontribusi, yang meningkatkan ambang batas yang diperlukan untuk masuk. osu! wiki tetapi telah menyediakan sebuah [panduan kontribusi](/wiki/osu!_wiki/Contribution_guide) untuk membantu kontributor baru agar dapat mulai berkontribusi.
 - Semua perubahan pada osu! wiki telah dimoderasi sebelumnya dan menjalani proses peninjauan, di mana seorang kontributor diharapkan untuk berkolaborasi dengan pengelola wiki dan menanggapi umpan balik.
 
 ## Lisensi
