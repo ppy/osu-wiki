@@ -159,11 +159,7 @@ Due to the large number of players, the results will be presented using the **[E
 3. Players will have a 120-second break between playing two beatmaps.
 
 ### Mappool information
-1. The tournament will have sixteen separate mappools, with 2 mappools used per week.
-    - Group EX use mappool \#1, mappool \#5, mappool \#9, mappool \#13.
-    - Group S use mappool \#2, mappool \#6, mappool \#10, mappool \#14.
-    - Group A use mappool \#3, mappool \#7, mappool \#11, mappool \#15.
-    - Group B use mappool \#4, mappool \#8, mappool \#12, mappool \#16.
+1. Each group has four mappools, and each group uses one mappool per round.
 2. Each mappool consists of 7 beatmaps that will all be played under [FreeMod](/wiki/Game_modifier#freemod) conditions. This means that there is a unique FreeMod bracket.
     - Possible mod choices for the FreeMod bracket are `No Fail`, `Hidden`, `Fade In`, `Flashlight`, and `Mirror`.
 3. The type of beatmap included in the mappool is not fixed.
