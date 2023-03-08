@@ -29,11 +29,13 @@ The **GB Cup 2023 Spring** (***GBC 2023 Spring***) is a osu!mania 4-key points-b
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge(Pending), KanonBot profile badge, TBA |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | KanonBot profile badge, TBA |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | KanonBot profile badge, TBA |
-| *Full attendance award* | TBA |
-| *Others* | TBA |
+| *Full attendance award* | 10 RMB(Group B), 15RMB (Group A), 20 RMB(Group S), 25 RMB(Group EX) |
+| ![Gold crown](/wiki/shared/crown-gold.png "playoff 1st place") | Profile badge(Pending), KanonBot profile badge, 100 RMB |
+| ![Silver crown](/wiki/shared/crown-silver.png "playoff 2nd place") | KanonBot profile badge, 80 RMB |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "playoff 3rd place") | KanonBot profile badge, 50 RMB |
+| *playoff 4th place* | 30 RMB |
+| *playoff 5th place ~ 6th place* | 20 RMB |
+| *playoff 7th place ~ 16th place* | 10 RMB |
 
 ## Organisation
 
@@ -79,29 +81,7 @@ The GB Cup 2023 Spring is run by the Team GB and various community members.
 
 ## Match results
 
-### Regular stage 1
-
-Saturday, 25 March 2023:
-
-| Group | Rank | Player | Match link |
-| --: | :-: | :-- | :-- |
-| Group EX | *1st place* | Player | [#1](MatchLink) |
-| Group EX | *2nd place* | Player | [#1](MatchLink) |
-| Group EX | *3rd place* | Player | [#1](MatchLink) |
-| Group A | *1st place* | Player | [#1](MatchLink) |
-| Group A | *2nd place* | Player | [#1](MatchLink) |
-| Group A | *3rd place* | Player | [#1](MatchLink) |
-
-Sunday, 26 March 2023:
-
-| Group | Rank | Player | Match link |
-| --: | :-: | :-- | :-- |
-| Group EX | *1st place* | Player | [#1](MatchLink) |
-| Group EX | *2nd place* | Player | [#1](MatchLink) |
-| Group EX | *3rd place* | Player | [#1](MatchLink) |
-| Group A | *1st place* | Player | [#1](MatchLink) |
-| Group A | *2nd place* | Player | [#1](MatchLink) |
-| Group A | *3rd place* | Player | [#1](MatchLink) |
+Due to the large number of players, the results will be presented using the **[Event Information Form](https://docs.qq.com/sheet/DTXNmQXJ2VG9qbWhY?tab=uitssi)**.
 
 ## Ruleset
 
@@ -112,29 +92,29 @@ Sunday, 26 March 2023:
 2. Beatmap scoring is based on `Score V2`.
 3. The GB Cup 2023 Spring consists of **4 groups(Group EX, Group S, Group A, Group B)**, with only **2 groups** played each week.
     - Each group has an overrun buffer of *100 pp*.
-4. All groups have attendance awards, from lowest to highest, in Group B (), Group A (), Group S () and Group EX ().
-5. The maps for each round will be announced by the mappool selectors on the official stream, on the Sunday before the actual matches take place.
+    - If a player upgrades after the start of the tournament, 50% of the points will be kept.
+4. The maps for each round will be announced by the mappool selectors on the official stream, on the Sunday before the actual matches take place.
     - Each mappool contains 7 beatmaps, and the type is not fixed.
-6. Players choose their time before the start of this week's match.
+5. Players choose their time before the start of this week's match.
     - Players with special time requirements need to contact the referee in advance to agree on a special match time. The Organizer does not guarantee that anyone's request will be met, and players need to properly communicate with the referee in advance;
-7. Every week, the referee creates multiplayer room at a fixed time, and the players who need to play a match will enter the room.
-8. There is **no warm-up phase** for the match.
-9. Use of the Visual Settings to alter background dim or disable beatmap elements like storyboards and skins is allowed.
+6. Every week, the referee creates multiplayer room at a fixed time, and the players who need to play a match will enter the room.
+7. There is **no warm-up phase** for the match.
+8. Use of the Visual Settings to alter background dim or disable beatmap elements like storyboards and skins is allowed.
     - Custom skin elements **must not** be used to alter core gameplay mechanics.
-10. Possible mod choices for the FreeMod bracket are `No Fail`, `Hidden`, `Fade In`, `Flashlight`, and `Mirror`.
-11. The referees will select the beatmaps in order to play the match. If a player encounters a technical problem during the match, players can ask the referees to rematch the beatmap that encountered technical problems after all the beatmaps have been selected.
+9. Possible mod choices for the FreeMod bracket are `No Fail`, `Hidden`, `Fade In`, `Flashlight`, and `Mirror`.
+10. The referees will select the beatmaps in order to play the match. If a player encounters a technical problem during the match, players can ask the referees to rematch the beatmap that encountered technical problems after all the beatmaps have been selected.
     - "Lag spikes" will not be considered as a valid reason to rematch a beatmap.
     - Even if you need to rematch the beatmap after all the beatmaps have been selected, you should first complete the scoring of other beatmaps in the graph pool.
     - This rule should not to be abused. Referees may veto a rematch request if they find that this is the case.
-12. Unless there are special reasons, the organizer will only record each player's first score of the beatmap in the official room.
-13. The default rest time is **120 seconds**. If all the players in the room agree to start early and get ready, the referee can start the match early.
-14. Players are expected to keep the match running fluently and without delays. Excessive match delays from the players' side may result in penalties being applied at the referee's discretion. Disrupting the match by foul play, insulting or provoking other players or staff, delaying the match, or other deliberate inappropriate misbehaviour are strictly prohibited, and will be punished accordingly.
-15. All players and staff must be treated with respect. Instructions of the referees and the host are to be followed. Decisions labelled as final are not to be objected.
-16. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms, too.
-17. Disrupting the match by foul play or seed manipulation will result in disqualification, and any such players will be announced.
-18. Unexpected incidents will be handled by the host. Referees may allow higher tolerance depending on the given circumstances. This is up to their discretion.
-19. The host may request liveplays or recordings of individual players at any point.
-20. The host reserves the right to modify these rules at any moment. Any such changes will be announced in advance.
+11. Unless there are special reasons, the organizer will only record each player's first score of the beatmap in the official room.
+12. The default rest time is **120 seconds**. If all the players in the room agree to start early and get ready, the referee can start the match early.
+13. Players are expected to keep the match running fluently and without delays. Excessive match delays from the players' side may result in penalties being applied at the referee's discretion. Disrupting the match by foul play, insulting or provoking other players or staff, delaying the match, or other deliberate inappropriate misbehaviour are strictly prohibited, and will be punished accordingly.
+14. All players and staff must be treated with respect. Instructions of the referees and the host are to be followed. Decisions labelled as final are not to be objected.
+15. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms, too.
+16. Disrupting the match by foul play or seed manipulation will result in disqualification, and any such players will be announced.
+17. Unexpected incidents will be handled by the host. Referees may allow higher tolerance depending on the given circumstances. This is up to their discretion.
+18. The host may request liveplays or recordings of individual players at any point.
+19. The host reserves the right to modify these rules at any moment. Any such changes will be announced in advance.
 
 ### Registration
 1. Please **fill [this form](https://wj.qq.com/s2/11825634/aba7/)** to register.
@@ -167,6 +147,7 @@ Sunday, 26 March 2023:
         - top 90% ~ top 100%: 2 points
     - If the ranking is decimal, it is rounded up.
     - If the ranking happens to meet the target, it is also rounded up.
+    - The ranking of each round is calculated by summing the rankings of all single beatmaps.
 - In Playoff, players need to win specifies the number of beatmaps to win.
     - The number of beatmaps depends on the actual situation.
 
@@ -195,6 +176,7 @@ Sunday, 26 March 2023:
 3. The organizer will provide alternative tournament slots before the start of matches each week, creating a schedule that is satisfactory to all players.
     - If you need to play the match during a special time period, please inform the organizer in advance, the organizer will try to fulfill the requirements of the players, but **cannot** guarantee that all of them will be realized.
 4. Matches may not be scheduled to any time **beyond Sunday, 23:59 (UTC+08)** of the week they are to be played at.
+    - Even if needed, the match must be completed by next Wednesday, and later reschedule requests will be rejected.
     - **Do not ask for reschedule unless it is absolutely needed. The host reserves the right to deny any reschedule requests.**
 
 ### Playoff
