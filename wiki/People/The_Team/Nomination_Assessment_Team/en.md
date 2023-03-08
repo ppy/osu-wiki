@@ -71,7 +71,7 @@ Before adding a new advisor, the addition is sanity checked with the rest of the
 
 ## NAT Leadership
 
-As of March 2023, the NAT has decided to re-adopt the concept of [leadership](/wiki/Modding/QAT_Leaders), which was previously used in the [QAT](/wiki/Modding/Quality_Assurance_Team). NAT leaders have the combined responsibility of both evaluators and advisors so they can watch over and stay involved with every aspect of the NAT.
+As of March 2023, the NAT has decided to re-adopt the concept of leadership, which was [previously used](/wiki/Modding/QAT_Leaders) in the [QAT](/wiki/Modding/Quality_Assurance_Team). NAT leaders have the combined responsibility of both evaluators and advisors so they can watch over and stay involved with every aspect of the NAT.
 
 The current NAT leaders are ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) and ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099).
 
@@ -79,10 +79,10 @@ The current NAT leaders are ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/141
 
 NAT leaders aim to cover the following tasks:
 
-- **Activity management:** Constantly monitoring the activity of other NAT members and handling cases of low activity, either through regular checkups or through exit interviews, in case the activity issues of a certain member are problematic.
+- **Activity management:** Constantly monitoring the activity of other NAT members and handling cases of low activity, either through regular checkups or through exit interviews, in case of activity issues regarding certain members.
 - **Communication:**
-  - Acting as a bridge between the osu!team, the NAT, and the mapping community, constantly communicating any changes/concerns/demands raised by either of those three parties.
-  - Encourage participation in internal and external discussions by proactively engaging all parties, keeping discussions organized, and facilitating the combination of different viewpoints to form a practical course of action.
+  - Acting as a bridge between the osu! team, the NAT, and the mapping community, constantly communicating any changes, concerns, or demands raised.
+  - Encourage participation in internal and external discussions by proactively engaging all parties, keeping discussions organised, and facilitating the combination of different viewpoints to form a practical course of action.
   - Promote new or existing ideas that can easily get lost in the midst of discussions/ranking criteria proposals.
 - **Problem solving:** Taking initiative to be involved with critical decision making and handling delicate concerns raised by the team or the community.
 
