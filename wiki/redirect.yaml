@@ -247,8 +247,7 @@
 "notelock":                    "Gameplay/Judgement/Notelock"
 "gameplay/notelock":           "Gameplay/Judgement/Notelock"
 "nuke":                        "Modding/Nuke"
-"offset":                      "Disambiguation/Offset"
-"offsets":                     "Disambiguation/Offset"
+"offsets":                     "Offset"
 "pass":                        "Gameplay/Pass"
 "passed":                      "Gameplay/Pass"
 "passing":                     "Gameplay/Pass"
@@ -2049,3 +2048,5 @@
 
 # moved in #8588
 "osu!_wiki/maintenance/list_of_maintainers": "People/osu!_wiki_maintainers"
+
+"disambiguation/offset":               "offset"
