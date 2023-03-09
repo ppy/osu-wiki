@@ -15,7 +15,7 @@ Pour soumettre une beatmap pour la catégorie loved, veuillez visiter la [page d
 - [Proposition pour le mode osu!catch](https://loved.sh/submissions/fruits)
 - [Proposition pour le mode osu!mania](https://loved.sh/submissions/mania)
 
-Les beatmaps nominées sont ensuite publiées sur le forum [Project Loved](https://osu.ppy.sh/community/forums/120), où les membres de la communauté peuvent voter s'ils souhaitent que la beatmap soit "loved" ou non. Les beatmaps qui atteignent un certain pourcentage de votes positifs à la fin du scrutin sont transférées dans la catégorie Loved.
+Les beatmaps nominées sont ensuite publiées sur le forum [Project Loved](https://osu.ppy.sh/community/forums/120), où les membres de la communauté peuvent voter s'ils souhaitent que la beatmap soit "loved" ou non. Les beatmaps avec 85% de votes positifs à la fin du scrutin sont transférées dans la catégorie Loved.
 
 ## Éligibilité
 
