@@ -56,17 +56,15 @@ The osu!taiko World Cup 2023 is run by various community members.
 
 ## Participants
 
-*Notice: Captains are listed in **bold**. The final team composition for each country is subject to change. If you have been selected as a captain, check your [inbox](https://osu.ppy.sh/community/chat) for more information. Countries not listed did not have enough players to meet the minimum team size criteria.*
-
 |  | Country | Members |
 | :-: | :-: | :-- |
-| ::{ flag=AR }:: | **Argentina** | **[Axer](https://osu.ppy.sh/users/7299864)** |
+| ::{ flag=AR }:: | **Argentina** | **[Axer](https://osu.ppy.sh/users/7299864)**, [-EikoNoChikara-](https://osu.ppy.sh/users/5040981), [Ingrid10](https://osu.ppy.sh/users/9786011), [Megafan](https://osu.ppy.sh/users/6632605), [Atreevete](https://osu.ppy.sh/users/2615199), [mati-bmp](https://osu.ppy.sh/users/24719267) |
 | ::{ flag=AU }:: | **Australia** | **[r1chyy](https://osu.ppy.sh/users/11499467)**, [Tsubasa2](https://osu.ppy.sh/users/6835183), [Sivies](https://osu.ppy.sh/users/3597096), [NangLordSazzo](https://osu.ppy.sh/users/11457644), [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046), [Beat43210](https://osu.ppy.sh/users/5664171) |
 | ::{ flag=AT }:: | **Austria** | **[Amane](https://osu.ppy.sh/users/6821436)**, [animexamera](https://osu.ppy.sh/users/7511357), [Mina\_yo](https://osu.ppy.sh/users/2678422), [Feli-san](https://osu.ppy.sh/users/23636963), [Cupcake\_Lover](https://osu.ppy.sh/users/1776389), [JakobDerNoob](https://osu.ppy.sh/users/15260267) |
 | ::{ flag=BR }:: | **Brazil** | **[Foxeru](https://osu.ppy.sh/users/7479684)**, [Skull Kid](https://osu.ppy.sh/users/3044264), [Kyoumo](https://osu.ppy.sh/users/8145223), [miwoo](https://osu.ppy.sh/users/12630336), [ImTutu](https://osu.ppy.sh/users/16262582), [Spicy Onion](https://osu.ppy.sh/users/11799110) |
 | ::{ flag=CA }:: | **Canada** | **[Dizzayy](https://osu.ppy.sh/users/12014683)**, [Ascrute](https://osu.ppy.sh/users/13175389), [Nanners](https://osu.ppy.sh/users/459886), [SMG3](https://osu.ppy.sh/users/7189946), [beary605](https://osu.ppy.sh/users/2198070), [honkers](https://osu.ppy.sh/users/3075337) |
 | ::{ flag=CL }:: | **Chile** | **[Ulqui](https://osu.ppy.sh/users/1263669)**, [Necromancy-](https://osu.ppy.sh/users/1890084), [\[GS\]Myuka](https://osu.ppy.sh/users/10072733), [Escocyan](https://osu.ppy.sh/users/9057823), [iNeon](https://osu.ppy.sh/users/10907480), [Shiny Froakie](https://osu.ppy.sh/users/6194830) |
-| ::{ flag=CN }:: | **China** | **[Ookura Risona](https://osu.ppy.sh/users/2073644)** |
+| ::{ flag=CN }:: | **China** | **[superSSS](https://osu.ppy.sh/users/4315477)**, [szh134](https://osu.ppy.sh/users/6844521), [WLYMinato](https://osu.ppy.sh/users/12703319), [shoucan91](https://osu.ppy.sh/users/9383908), [Ookura Risona](https://osu.ppy.sh/users/2073644), [\[GB\]Edward\_Tsui](https://osu.ppy.sh/users/8609627) |
 | ::{ flag=CO }:: | **Colombia** | **[L1ght](https://osu.ppy.sh/users/9050875)**, [ParraCharlie](https://osu.ppy.sh/users/18425848), [Hermite](https://osu.ppy.sh/users/7945286), [sti](https://osu.ppy.sh/users/1271807) |
 | ::{ flag=CZ }:: | **Czech Republic** | **[Golden](https://osu.ppy.sh/users/12639462)**, [iTzzMar0](https://osu.ppy.sh/users/13108155), [FlipRop](https://osu.ppy.sh/users/10806437), [ToraThePotato](https://osu.ppy.sh/users/10742918), [nevqr](https://osu.ppy.sh/users/14269506), [Spinasson](https://osu.ppy.sh/users/21448085) |
 | ::{ flag=DK }:: | **Denmark** | **[Captain](https://osu.ppy.sh/users/2563435)**, [Tsukani](https://osu.ppy.sh/users/5146144), [Leriola](https://osu.ppy.sh/users/18539549), [melon boy](https://osu.ppy.sh/users/3053382) |
@@ -82,7 +80,7 @@ The osu!taiko World Cup 2023 is run by various community members.
 | ::{ flag=LT }:: | **Lithuania** | **[ramojusd](https://osu.ppy.sh/users/14400817)**, [Atago](https://osu.ppy.sh/users/7011843), [Beesu](https://osu.ppy.sh/users/9117835), [wwww](https://osu.ppy.sh/users/3997162) |
 | ::{ flag=MY }:: | **Malaysia** | **[CrabCow](https://osu.ppy.sh/users/9755504)**, [\[Zeth\]](https://osu.ppy.sh/users/9912966), [6gicha](https://osu.ppy.sh/users/12273160), [HHVanilla Ice](https://osu.ppy.sh/users/12803930), [Jerry](https://osu.ppy.sh/users/605973) |
 | ::{ flag=MX }:: | **Mexico** | **[Iojioji](https://osu.ppy.sh/users/1346121)**, [-HiddenTaco-](https://osu.ppy.sh/users/7320933), [Hivan111](https://osu.ppy.sh/users/13525805), [Awwy](https://osu.ppy.sh/users/4183406), [Maximil4813N](https://osu.ppy.sh/users/20089489), [ZaveryK](https://osu.ppy.sh/users/10913397) |
-| ::{ flag=NL }:: | **Netherlands** | **[TaikoMom](https://osu.ppy.sh/users/9086438)** |
+| ::{ flag=NL }:: | **Netherlands** | **[Cookie\_Tree](https://osu.ppy.sh/users/502722)**, [StrijkIjzer](https://osu.ppy.sh/users/4130926), [Hypello](https://osu.ppy.sh/users/1594036), [Tyronix](https://osu.ppy.sh/users/11290311), [R1ght4](https://osu.ppy.sh/users/21564948), [SmokyBeen](https://osu.ppy.sh/users/13832554) |
 | ::{ flag=NZ }:: | **New Zealand** | **[Sparxe](https://osu.ppy.sh/users/5750235)**, [Zed0x](https://osu.ppy.sh/users/12136108), [New Zealand](https://osu.ppy.sh/users/9039824), [idk123456](https://osu.ppy.sh/users/18718856), [Blujae](https://osu.ppy.sh/users/10613885), [Bwhaa](https://osu.ppy.sh/users/7960435) |
 | ::{ flag=NO }:: | **Norway** | **[Vendelicious](https://osu.ppy.sh/users/8818089)**, [petterde](https://osu.ppy.sh/users/7555792), [Loff](https://osu.ppy.sh/users/8947341), [Mist31](https://osu.ppy.sh/users/18916920), [Defectum](https://osu.ppy.sh/users/8631719) |
 | ::{ flag=PE }:: | **Peru** | **[alemagno333](https://osu.ppy.sh/users/11411697)**, [ZupOSU](https://osu.ppy.sh/users/23361435), [FabriGamer84](https://osu.ppy.sh/users/20882798), [Pachekin](https://osu.ppy.sh/users/8257441) |
@@ -97,7 +95,7 @@ The osu!taiko World Cup 2023 is run by various community members.
 | ::{ flag=TW }:: | **Taiwan** | **[monkeydluffy3u4](https://osu.ppy.sh/users/2277798)**, [sevgo7](https://osu.ppy.sh/users/23487206), [Polemo03](https://osu.ppy.sh/users/10726804), [Smallwu](https://osu.ppy.sh/users/2512120), [Yuemiao](https://osu.ppy.sh/users/4493348), [stu00608](https://osu.ppy.sh/users/1977606) |
 | ::{ flag=GB }:: | **United Kingdom** | **[goheegy](https://osu.ppy.sh/users/8057655)**, [Horiiizon](https://osu.ppy.sh/users/8071438), [Dusk-](https://osu.ppy.sh/users/6092181), [overdahedge2014](https://osu.ppy.sh/users/9864847), [Daniels](https://osu.ppy.sh/users/12439209), [InspectElement](https://osu.ppy.sh/users/8484987) |
 | ::{ flag=US }:: | **United States** | **[cheese salad](https://osu.ppy.sh/users/6349821)**, [AuroraPhasmata](https://osu.ppy.sh/users/13664116), [ChurroChef](https://osu.ppy.sh/users/9258564), [FrootLoopy542](https://osu.ppy.sh/users/5468461), [pet](https://osu.ppy.sh/users/1656336), [R J](https://osu.ppy.sh/users/6490509) |
-| ::{ flag=VN }:: | **Vietnam** | **[davidminh0111](https://osu.ppy.sh/users/9623142)** |
+| ::{ flag=VN }:: | **Vietnam** | **[davidminh0111](https://osu.ppy.sh/users/9623142)**, [-M\_A\_T\_C\_H\_A-](https://osu.ppy.sh/users/26012543), [crazynt\_ngu](https://osu.ppy.sh/users/7844013), [hi\_there\_osu](https://osu.ppy.sh/users/22698999), [njshift1](https://osu.ppy.sh/users/16688499), [Creeperbrine303](https://osu.ppy.sh/users/22515524) |
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad463970c6b5c22f623fcefd8d5e63d#file-twc-2023-player-list-csv). 
 
