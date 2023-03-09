@@ -1,3 +1,8 @@
+---
+outdated_since: 96cf49c598294957efd202a00af9e7814a41cdfd
+outdated_translation: true
+---
+
 # Edição de Audio
 
 A [osu!academy](/wiki/Community/Video_series/osu!academy) já explicou isso em [Episodio 15: Audio Encoding (4:02)](https://www.youtube.com/watch?v=muu3HkG38kk). E também explica como instalar e usar Audacity com a funcionalidade de exportação .mp3 do LAME.

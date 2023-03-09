@@ -54,15 +54,18 @@ La [página del grupo de evaluación de nominaciones](https://osu.ppy.sh/groups/
 | ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) |  | Evaluador |
 | ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | Bielorruso, ruso | Evaluador |
 | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonés, chino | Evaluador |
+| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Portugués | Evaluador |
 | ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | Evaluador |
 | ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Chino | Evaluador |
 | ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Alemán | Evaluador |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Sueco | Asesor |
+| ::{ flag=GB }:: [nexusqi](https://osu.ppy.sh/users/13822800) |  | Evaluador |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | Asesor |
 | ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | Evaluador |
 | ::{ flag=AT }:: [Stixy](https://osu.ppy.sh/users/9000308) | Alemán, serbio | Evaluador |
 | ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) |  | Asesor |
 | ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | Neerlandés | Evaluador |
+| ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  | Evaluador |
 | ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | Polaco | Evaluador |
 
 ### osu!taiko

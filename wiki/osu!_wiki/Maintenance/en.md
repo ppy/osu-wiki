@@ -111,7 +111,7 @@ Contributors are encouraged to fix broken links while updating articles. That sa
 
 *See also: [Article styling criteria/Formatting § Outdated translations](/wiki/Article_styling_criteria/Formatting#outdated-translations) and [Article styling criteria/Writing § Content parity](/wiki/Article_styling_criteria/Writing#content-parity)*
 
-Skipping the outdated translation check (and not marking translations as outdated) check may be done for minor rewording, grammatical adjustments, and the like, that do not affect the meaning of the article.
+Skipping the outdated translation check (and not marking translations as outdated) may be done for minor rewording, grammatical adjustments, and the like, that do not affect the meaning of the article.
 
 ### Development
 

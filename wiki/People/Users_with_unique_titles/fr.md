@@ -1,11 +1,6 @@
----
-outdated_translation: true
-outdated_since: 62e81909868cf39fcce5b9aca68d95bf5ea367a4
----
-
 # Utilisateurs avec des titres uniques
 
-Les titres d'utilisateurs sont généralement associés aux [groupes d'utilisateurs](/wiki/People/The_Team#groupes-d'utilisateurs), mais les utilisateurs listés ci-dessous ont reçu leur titre pour d'autres raisons. La plupart des titres étaient des récompenses pour des contributions ou des réalisations, les autres étant des symboles de l'histoire emblématique ou amusante d'osu!.
+Les titres d'utilisateurs sont généralement associés aux [groupes d'utilisateurs](/wiki/People/The_Team#groupes-d'utilisateurs), mais les utilisateurs listés ci-dessous ont reçu leur titre pour d'autres raisons. La plupart des titres étaient des récompenses pour des contributions ou des exploits, les autres étant des symboles de l'histoire emblématique ou amusante d'osu!.
 
 ## Titulaires actuels de la World Cup
 
@@ -62,7 +57,7 @@ Les gagnants de la [MWC 7K 2022](/wiki/Tournaments/MWC/2022_7K) avec le titre d'
 
 Les gagnants des précédentes osu! World Cups avec le titre d'utilisateur **Former osu! Champion** :
 
-| Tournoi | Titre | Porteurs des titres |
+| Tournoi | Titre | Tenants du titre |
 | :-: | :-- | :-- |
 | [OWC #1](/wiki/Tournaments/OWC/1) | Former osu! Champion : #1 | ::{ flag=TW }:: [0222101916](https://osu.ppy.sh/users/122650), ::{ flag=TW }:: [Rucker](https://osu.ppy.sh/users/147515), ::{ flag=TW }:: [Tomoka Rin](https://osu.ppy.sh/users/125308), ::{ flag=TW }:: [Uan](https://osu.ppy.sh/users/147623), ::{ flag=TW }:: [ZRush](https://osu.ppy.sh/users/398097) |
 | [OWC #2](/wiki/Tournaments/OWC/2) | Former osu! Champion : #2 | ::{ flag=KR }:: [Remilia-Scarlet](https://osu.ppy.sh/users/602783) |
@@ -79,7 +74,7 @@ Les gagnants des précédentes osu! World Cups avec le titre d'utilisateur **For
 
 Les gagnants des précédentes osu!taiko World Cups avec le titre d'utilisateur **Former osu!taiko Champion** :
 
-| Tournoi | Titre | Porteurs des titres |
+| Tournoi | Titre | Tenants du titre |
 | :-:| :-- | :-- |
 | [TWC 2011](/wiki/Tournaments/TWC/2011) | Former osu!taiko Champion : #1 | ::{ flag=TW }:: [Numbers 596108](https://osu.ppy.sh/users/194653), ::{ flag=TW }:: [TW-KUMA01](https://osu.ppy.sh/users/244499) |
 | [TWC 2012](/wiki/Tournaments/TWC/2012) | Former osu!taiko Champion : #2 | ::{ flag=JP }:: [-Asuke-](https://osu.ppy.sh/users/863073), ::{ flag=JP }:: [pota-row](https://osu.ppy.sh/users/858415), ::{ flag=JP }:: [TTTL](https://osu.ppy.sh/users/164583) |
@@ -95,7 +90,7 @@ Les gagnants des précédentes osu!taiko World Cups avec le titre d'utilisateur 
 
 Les gagnants des précédentes osu!catch World Cups avec le titre d'utilisateur **Former osu!catch Champion** :
 
-| Tournoi | Titre | Porteurs des titres |
+| Tournoi | Titre | Tenants du titre |
 | :-:| :-- | :-- |
 | [CWC](/wiki/Tournaments/CWC/1) | Former osu!catch Champion : #1 | ::{ flag=HK }:: [HineX](https://osu.ppy.sh/users/13854), ::{ flag=CN }:: [hy1hy1hy](https://osu.ppy.sh/users/243877), ::{ flag=CN }:: [joynama](https://osu.ppy.sh/users/169128) |
 | [CWC 2013](/wiki/Tournaments/CWC/2013) | Former osu!catch Champion : 2013 | ::{ flag=CL }:: [eldnl](https://osu.ppy.sh/users/285756), ::{ flag=CL }:: [Dark Diego](https://osu.ppy.sh/users/723787), ::{ flag=CL }:: [DaxMasterix](https://osu.ppy.sh/users/264914), ::{ flag=CL }:: [lineqtxz](https://osu.ppy.sh/users/989542) |
@@ -110,7 +105,7 @@ Les gagnants des précédentes osu!catch World Cups avec le titre d'utilisateur 
 
 Les gagnants des précédentes osu!mania World Cups avec le titre d'utilisateur **Former osu!mania Champion** :
 
-| Tournoi | Titre | Porteurs des titres |
+| Tournoi | Titre | Tenants du titre |
 | :-:| :-- | :-- |
 | [MWC 2014 (4K)](/wiki/Tournaments/MWC/2014) | Former osu!mania 4K Champion : 2014 | ::{ flag=KR }:: [Abcdullah](https://osu.ppy.sh/users/4140104), ::{ flag=KR }:: [jhlee1033](https://osu.ppy.sh/users/140148) |
 | [MWC 2014 (7K)](/wiki/Tournaments/MWC/2014) | Former osu!mania 7K Champion : 2014 | ::{ flag=KR }:: [jhlee0133](https://osu.ppy.sh/users/140148) |
@@ -210,7 +205,7 @@ Les concours osu!remix attribuent le titre **osu!mixer** comme premier prix.
 - ::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471)[^billiummoto-note]
 - ::{ flag=FR }:: [Shinwoir](https://osu.ppy.sh/users/8984574)
 
-## Gagnants actuels du concours osu!trivium Quiz
+## Tenants du titre osu!trivium Quiz
 
 Les [osu!trivium Quiz contests](/wiki/Contests/osu!trivium_Quiz) décernent à l'équipe ou à la personne gagnante le titre d'**osu!trivium Champion**, qui dure un an. Voici les détenteurs du titre pour 2021 :
 
@@ -231,7 +226,7 @@ Les [Featured Artists](/wiki/Featured_Artists) possédant un compte osu! reçoiv
 | ::{ flag=JP }:: [A\_\_](https://osu.ppy.sh/users/12011880) | [A?](https://osu.ppy.sh/beatmaps/artists/173) |
 | ::{ flag=US }:: [antiPLUR](https://osu.ppy.sh/users/7318723) | [antiPLUR / Internet Death Machine](https://osu.ppy.sh/beatmaps/artists/24) |
 | ::{ flag=HK }:: [Ardolf](https://osu.ppy.sh/users/12359061) | [Ardolf](https://osu.ppy.sh/beatmaps/artists/263) |
-| ::{ flag=US }:: [BigMoist10](https://osu.ppy.sh/users/20787676) | [The Gentle Men](https://osu.ppy.sh/beatmaps/artists/142) (member of) |
+| ::{ flag=US }:: [BigMoist10](https://osu.ppy.sh/users/20787676) | [The Gentle Men](https://osu.ppy.sh/beatmaps/artists/142) (membre) |
 | ::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471) | [BilliumMoto](https://osu.ppy.sh/beatmaps/artists/38) |
 | ::{ flag=AT }:: [creosu](https://osu.ppy.sh/users/13958834) | [Creo](https://osu.ppy.sh/beatmaps/artists/36) |
 | ::{ flag=NO }:: [cYsmix](https://osu.ppy.sh/users/272870) | [cYsmix](https://osu.ppy.sh/beatmaps/artists/2) |
@@ -257,11 +252,11 @@ Les [Featured Artists](/wiki/Featured_Artists) possédant un compte osu! reçoiv
 | ::{ flag=PH }:: [rtnario](https://osu.ppy.sh/users/16222702) | [LEAF XCEED Music Division](https://osu.ppy.sh/beatmaps/artists/88) |
 | ::{ flag=GB }:: [SAMString](https://osu.ppy.sh/users/7273976) | [SAMString](https://osu.ppy.sh/beatmaps/artists/273) |
 | ::{ flag=US }:: [skymuted](https://osu.ppy.sh/users/7734050) | [Fractal Dreamers](https://osu.ppy.sh/beatmaps/artists/15) |
-| ::{ flag=ES }:: [sotuiofficial](https://osu.ppy.sh/users/14779258) | [Rising Sun Traxx](https://osu.ppy.sh/beatmaps/artists/41) (founder) |
+| ::{ flag=ES }:: [sotuiofficial](https://osu.ppy.sh/users/14779258) | [Rising Sun Traxx](https://osu.ppy.sh/beatmaps/artists/41) (fondateur) |
 | ::{ flag=KR }:: [thenewlimee](https://osu.ppy.sh/users/7802935) | [Raimukun](https://osu.ppy.sh/beatmaps/artists/247) |
 | ::{ flag=RU }:: [tieff](https://osu.ppy.sh/users/89619) | [tieff](https://osu.ppy.sh/beatmaps/artists/34) |
 | ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) | [VINXIS](https://osu.ppy.sh/beatmaps/artists/22) |
-| ::{ flag=JP }:: [xorsizer](https://osu.ppy.sh/users/20466752) | [Symholic](https://osu.ppy.sh/beatmaps/artists/130) (member of) |
+| ::{ flag=JP }:: [xorsizer](https://osu.ppy.sh/users/20466752) | [Symholic](https://osu.ppy.sh/beatmaps/artists/130) (membre) |
 | ::{ flag=TH }:: [YuugenP](https://osu.ppy.sh/users/2014016) | [rN](https://osu.ppy.sh/beatmaps/artists/190) |
 | ::{ flag=US }:: [Zenpakuwu](https://osu.ppy.sh/users/13226945) | [Zenpaku](https://osu.ppy.sh/beatmaps/artists/190) |
 
@@ -349,6 +344,6 @@ Ces utilisateurs ont reçu leurs titres respectifs pour des raisons diverses.
 ## Notes
 
 [^mao-note]: ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515) a reçu le titre de **Elite Mapper II** pour avoir réussi à obtenir le titre d'Elite Mapper par deux moyens différents : La victoire au concours [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) et le dépassement du seuil de 6 points dans le nouveau système [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest).
-[^charles445-note]: ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000) a reçu le titre **Elite Mapper II : Aspirant** pour avoir remporté le [Monthly Beatmapping Contest #1](https://osu.ppy.sh/home/news/2013-10-20-monthly-beatmapping-contest-1-results) et le [Monthly Beatmapping Contest : Aspire (2014)](https://osu.ppy.sh/home/news/2014-11-13-monthly-beatmapping-contest-aspire-results).
+[^charles445-note]: ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000) a reçu le titre **Elite Mapper II: Aspirant** pour avoir remporté le [Monthly Beatmapping Contest #1](https://osu.ppy.sh/home/news/2013-10-20-monthly-beatmapping-contest-1-results) et le [Monthly Beatmapping Contest : Aspire (2014)](https://osu.ppy.sh/home/news/2014-11-13-monthly-beatmapping-contest-aspire-results).
 [^billiummoto-note]: ::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471) a reçu le titre **osu!mixer II** pour avoir remporté l'[osu!remix contest #1](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results) et le concours [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest).
 [^yf-note]: ::{ flag=CN }:: [yf_bmp](https://osu.ppy.sh/users/1243669) a reçu le titre **Elite Storyboarder II** pour avoir [déjà reçu ce titre](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020) en raison de ses contributions exceptionnelles à la scène du storyboarding, ainsi que pour avoir remporté le [triangles Beatmapping Contest](/wiki/Contests/triangles_Beatmapping_Contest).

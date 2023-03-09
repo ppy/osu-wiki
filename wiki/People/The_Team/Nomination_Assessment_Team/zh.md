@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: 445b42a5a6e2c8af0e0fc0c9f38ca1a67599ade3
 tags:
  - NAT
  - 审核评估
@@ -87,15 +89,18 @@ tags:
 | ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) |  | 评估者 |
 | ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | 白俄罗斯语，俄语 | 评估者 |
 | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | 粤语，汉语 | 评估者 |
+| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | 葡萄牙语 | 评估者 |
 | ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | 评估者 |
 | ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | 汉语 | 评估者 |
 | ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | 德语 | 评估者 |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | 瑞典语 | 顾问[^task-naxess] |
+| ::{ flag=GB }:: [nexusqi](https://osu.ppy.sh/users/13822800) |  | 评估者 |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | 顾问[^task-pishifat] |
 | ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | 评估者 |
 | ::{ flag=AT }:: [Stixy](https://osu.ppy.sh/users/9000308) | 德语，塞尔维亚语 | 评估者 |
 | ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) |  | 顾问[^task-uberfazz] |
 | ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | 荷兰语 | 评估者 |
+| ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  | 评估者 |
 | ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | 波兰语 | 评估者 |
 
 ### osu!taiko
