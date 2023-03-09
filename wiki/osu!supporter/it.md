@@ -85,7 +85,7 @@ osu! offre ai supporter limiti più rilassati per varie funzionalità online:
 
 | Valore | Limite normale | Limite osu!supporter |
 | :-- | :-: | :-: |
-| [Beatmap in attesa](/wiki/Beatmap/Category#work-in-progress-and-pending) | `4 + min(beatmap classificate, 4)`, fino ad **8**[^pending-beatmaps-ref] | `8 + min(beatmap classificate, 12)`, fino a **20**[^pending-beatmaps-ref] |
+| [Beatmap in attesa](/wiki/Beatmap/Category#mappe-in-lavorazione-e-in-attesa) | `4 + min(beatmap classificate, 4)`, fino ad **8**[^pending-beatmaps-ref] | `8 + min(beatmap classificate, 12)`, fino a **20**[^pending-beatmaps-ref] |
 | Beatmap preferite online | 100 | 1000 |
 | Numero di amici | 250 | 500 |
 
