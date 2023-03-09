@@ -125,6 +125,7 @@ The 4 Digit osu!mania World Cup 2023 is run by various community members.
 
 1. After the qualifier stage, the remaining 32 teams will be placed into a double-elimination bracket in a predetermined order where the rank 1 player faces rank 32, rank 2 faces rank 31, etc.
 2. Each stage has a different win condition and mappool size. Mappools will be released approximately one week prior to their respective stages. The details for it are as follows:
+
 | Stage | Format | Mappool size |
 | :-- | :-- | :-- |
 | Round of 32 | Best of 9 | 12 FM, 1 TB |
