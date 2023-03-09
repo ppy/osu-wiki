@@ -135,7 +135,6 @@ Abbreviations for user groups are used throughout this log:
 
 - 2023-03-01: Added [Lafayla](https://osu.ppy.sh/users/5312547) to **Probationary BN**
 - 2023-03-02: Added [wwwww](https://osu.ppy.sh/users/8434466) to **Probationary BN**
-- 2023-03-03: Added [eiri-](https://osu.ppy.sh/users/3388410) to **BN (osu!)**
 
 #### Moves
 
@@ -144,9 +143,8 @@ Abbreviations for user groups are used throughout this log:
 - 2023-03-01: Removed [Aakki](https://osu.ppy.sh/users/11077540) from **BN**
 - 2023-03-02: Removed [Chatie](https://osu.ppy.sh/users/6524765) from **BN**
 - 2023-03-02: Removed [Ymiir](https://osu.ppy.sh/users/3922569) from **BN**
-- 2023-03-03: Removed [eiri-](https://osu.ppy.sh/users/3388410) from **BN (taiko)**
 
-<!-- last updated with eiri's removal from taiko BN + addition to osu BN on 03/03/2023>
+<!-- last updated with eiri's move from osu! + osu!taiko to osu! BN on 03/03/2023 (not logged here)>
 
 <!--
 To update this article:
