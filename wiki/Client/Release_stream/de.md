@@ -1,5 +1,7 @@
 ---
 stub: true
+outdated_translation: true
+outdated_since: 896609cada0adeea7ea6bc83689487af01e722fb
 ---
 
 # Updatequelle
