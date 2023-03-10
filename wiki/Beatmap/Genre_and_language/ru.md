@@ -25,12 +25,12 @@ tags:
 
 Чтобы поменять у карты жанр или язык, откройте её страницу и наведите курсор на область со словами `Genre` и `Language`. При наличии прав доступа там появится иконка карандаша, на которую нужно нажать. Возможность редактирования зависит от [групп](/wiki/People/The_Team#группы-пользователей), в которых вы состоите, и от [категории](/wiki/Beatmap/Category#существующие-категории) карты:
 
-- Владелец карты может редактировать её поля, если карта находится в категориях [WIP](/wiki/Beatmap/Category#work-in-progress-и-pending), [Pending](/wiki/Beatmap/Category#work-in-progress-и-pending), [Graveyard](/wiki/Beatmap/Category#graveyard), и не имеет номинаций<!-- TODO: link -->.
+- Владелец карты может редактировать её поля, если карта находится в категориях [WIP](/wiki/Beatmap/Category#work-in-progress-и-pending), [Pending](/wiki/Beatmap/Category#work-in-progress-и-pending), [Graveyard](/wiki/Beatmap/Category#graveyard), и не имеет [номинаций](/wiki/Beatmap_ranking_procedure#номинация).
 - [Номинаторы](/wiki/People/The_Team/Beatmap_Nominators) могут редактировать поля карт в категориях [Qualified](/wiki/Beatmap/Category#qualified), WIP и Pending.
 - Члены [команды Project Loved](/wiki/People/The_Team/Project_Loved_Team) могут редактировать поля карт в категории [Loved](/wiki/Beatmap/Category#loved).
 - Члены [команды оценки номинаций](/wiki/People/The_Team/Nomination_Assessment_Team) и [глобальные модераторы](/wiki/People/The_Team/Global_Moderation_Team) могут редактировать поля любых карт.
 
-Если у карты не выбраны жанр или язык (вместо них стоит `Unspecified`), её нельзя номинировать<!-- TODO: link -->.
+Если у карты не выбраны жанр или язык (вместо них стоит `Unspecified`), её нельзя [номинировать](/wiki/Beatmap_ranking_procedure#номинация).
 
 ## Таблица жанров
 
