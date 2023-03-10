@@ -23,12 +23,12 @@ The [beatmap listing](https://osu.ppy.sh/beatmapsets) has filters available for 
 
 Genre and language can be changed on the website by clicking the pencil icon when hovering over a beatmap's details. The ability to do so is determined by the user's [user groups](/wiki/People/The_Team#user-groups) and the beatmap's [category](/wiki/Beatmap/Category#present-categories):
 
-- Mapset owners are allowed when the beatmap is in the [WIP](/wiki/Beatmap/Category#work-in-progress-and-pending), [Pending](/wiki/Beatmap/Category#work-in-progress-and-pending), or [Graveyard](/wiki/Beatmap/Category#graveyard) categories, and does not have any nominations<!-- TODO: link -->.
+- Mapset owners are allowed when the beatmap is in the [WIP](/wiki/Beatmap/Category#work-in-progress-and-pending), [Pending](/wiki/Beatmap/Category#work-in-progress-and-pending), or [Graveyard](/wiki/Beatmap/Category#graveyard) categories, and does not have any [nominations](/wiki/Beatmap_ranking_procedure#nominations).
 - [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) are allowed when the beatmap is in the [Qualified](/wiki/Beatmap/Category#qualified), WIP, or Pending categories.
 - [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team) members are allowed when the beatmap is in the [Loved](/wiki/Beatmap/Category#loved) category.
 - [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) and [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) members are allowed for all categories.
 
-A beatmap is unable to be nominated<!-- TODO: link --> if it has the `Unspecified` genre or language.
+A beatmap is unable to be [nominated](/wiki/Beatmap_ranking_procedure#nominations) if it has the `Unspecified` genre or language.
 
 ## List of genres
 

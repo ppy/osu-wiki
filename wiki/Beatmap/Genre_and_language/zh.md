@@ -28,12 +28,12 @@ tags:
 
 谱面的歌曲风格与语言能通过在谱面详情处悬停光标，并点击铅笔按钮来修改。修改权限取决于玩家所在的[用户组](/wiki/People/The_Team#用户组)和[谱面状态](/wiki/Beatmap/Category#谱面类别)：
 
-- 谱师可以在谱面处于[制作中 (WIP)](/wiki/Beatmap/Category#work-in-progress-和-pending)、[待定 (Pending)](/wiki/Beatmap/Category#work-in-progress-和-pending)、[坟场 (Graveyard)](/wiki/Beatmap/Category#graveyard) 状态，且并没有被提名<!-- TODO: link -->时修改。
+- 谱师可以在谱面处于[制作中 (WIP)](/wiki/Beatmap/Category#work-in-progress-和-pending)、[待定 (Pending)](/wiki/Beatmap/Category#work-in-progress-和-pending)、[坟场 (Graveyard)](/wiki/Beatmap/Category#graveyard) 状态，且并没有被[提名](/wiki/Beatmap_ranking_procedure#nominations)时修改。
 - [谱面审核成员 (BN)](/wiki/People/The_Team/Beatmap_Nominators) 可以在谱面处于[过审 (Qualified)](/wiki/Beatmap/Category#qualified)、制作中 (WIP)、待定 (Pending) 状态时修改。
 - [社区喜爱计划团队 (LVD)](/wiki/People/The_Team/Project_Loved_Team) 成员可以在谱面处于[社区喜爱 (Loved)](/wiki/Beatmap/Category#loved) 状态时修改。
 - [审核评估团队 (NAT)](/wiki/People/The_Team/Nomination_Assessment_Team) 和[全局管理团队 (GMT)](/wiki/People/The_Team/Global_Moderation_Team) 成员能在谱面处于任何状态时修改。
 
-歌曲风格或语言标注为`未指定 (Unspecified)` 的谱面无法被提名<!-- TODO: link -->。
+歌曲风格或语言标注为`未指定 (Unspecified)` 的谱面无法被[提名](/wiki/Beatmap_ranking_procedure#nominations)。
 
 ## 歌曲风格列表
 
