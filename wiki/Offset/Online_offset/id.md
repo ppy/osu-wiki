@@ -8,7 +8,7 @@ outdated_since: d4dc177e49049cea28274febee6d73247f0862ab
 
 # Online offset
 
-*Untuk penggunaan lainnya, lihat [Offset (disambiguasi)](/wiki/Disambiguation/Offset).*
+*Untuk penggunaan lainnya, lihat [Offset](/wiki/Offset).*
 
 **Online offset** adalah sebuah offset yang diaplikasikan kepada [beatmap](/wiki/Beatmap) setelah mendapat status [ranked](/wiki/Beatmap/Category#ranked). Ini biasanya dilakukan jika sebuah beatmap membutuhkan sedikit perubahan timing untuk menyesuaikannya dengan musiknya. Nilai online offset ditentukan dari universal offset top player dan nilai offset lokal.
 

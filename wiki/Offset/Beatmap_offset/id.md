@@ -6,7 +6,7 @@ tags:
 
 # Offset
 
-*Untuk penggunaan lainnya, lihat [Offset (disambiguasi)](/wiki/Disambiguation/Offset).*
+*Untuk penggunaan lainnya, lihat [Offset](/wiki/Offset).*
 
 Sebuah **offset** pada suatu [beatmap](/wiki/Beatmap) adalah waktu antara dimulainya file audio dan downbeat pertama dari musik yang diukur dalam milidetik. Offset digunakan untuk menentukan [timing](/wiki/Client/Beatmap_editor/Timing) dari sebuah beatmap, di samping [beats per minute (BPM)](/wiki/Beatmapping/Beats_per_minute) dan [metre](https://en.wikipedia.org/wiki/Metre_(music)).
 
