@@ -28,6 +28,8 @@ tags:
 
 "Lazer" is the code name for the next major update to osu!. While the other release streams are feature-locked, lazer will continue to receive updates and eventually become the new "stable" client, with other versions renamed accordingly.
 
+Being the next major version, lazer introduces many new game features and aspects, as well as changes in existing gameplay and/or editor mechanics. For a exhaustive list, see [Feature comparison](/wiki/Client/Release_stream/Lazer/Feature_comparison).
+
 ## History
 
 The project started in mid-2015[^peppy-2017] as a new design for the stable client's interface codenamed "osu!next" made by [flyte](https://osu.ppy.sh/users/3103765), osu!'s lead designer. This was first showcased in a [teaser video](https://www.youtube.com/watch?v=lrWyqpNUwBo) the same year.
