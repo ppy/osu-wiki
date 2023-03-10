@@ -108,7 +108,7 @@ osu!direct 是游戏客户端内的谱面列表，可用于快速浏览并且提
 
 早期，社区就已出现多种方法展示独特和优秀的谱面（推图）。其中，也是最早被公式记录的一种方法就是收集一部分已上架 (Ranked) 谱面来举办月度或季度榜单，总分名列前茅的顶流玩家能获得 [osu! 支持者](/wiki/osu!supporter)作为奖品。
 
-季赛、月赛系统逐渐演变为[谱面聚光灯](/wiki/Beatmap_Spotlights)计划。虽然它们的性质差不多，但在新版客户端 (lazer) 里显示为游玩列表 (playlist)。
+季赛、月赛系统逐渐演变为[谱面聚光灯](/wiki/Beatmap_Spotlights)计划。虽然它们的性质差不多，但在新版客户端 [osu!(lazer)](/wiki/Client/Release_stream/Lazer) 里显示为游玩列表 (playlist)。
 
 ### 作图比赛
 

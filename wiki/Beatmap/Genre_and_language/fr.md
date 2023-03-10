@@ -12,7 +12,7 @@ tags:
 
 Les [beatmaps](/wiki/Beatmap) soumises au site web ont des champs **genre** et **langue** pour aider à catégoriser les musiques. Ils sont considérés comme faisant partie des [métadonnées](/wiki/Beatmap_Editor/Song_Setup#métadonnées-des-musiques-et-des-beatmaps) d'une beatmap.
 
-Le genre et la langue n'ont pas de fonction dans le jeu, mais seront disponibles comme options de recherche dans osu!(lazer).
+Le genre et la langue n'ont pas de fonction dans le jeu, mais seront disponibles comme options de recherche dans [osu!(lazer)](/wiki/Client/Release_stream/Lazer).
 
 ## Liste des beatmaps
 
