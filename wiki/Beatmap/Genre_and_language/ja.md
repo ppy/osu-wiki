@@ -23,12 +23,12 @@ tags:
 
 ジャンルと言語はビートマップが掲載されているページの鉛筆ボタンを押すことにより変更できる。これができるのはそのビートマップの[役割](/wiki/People/The_Team#user-groups)とビートマップの[カテゴリー](/wiki/Beatmap/Category#present-categories)で異なる:
 
-- マップセット所有者はビートマップが[WIP](/wiki/Beatmap/Category#work-in-progress-and-pending)、[Pending](/wiki/Beatmap/Category#work-in-progress-and-pending)または[Graveyard](/wiki/Beatmap/Category#graveyard)でノミネーションが一つもないとき変更できる。
+- マップセット所有者はビートマップが[WIP](/wiki/Beatmap/Category#work-in-progress-and-pending)、[Pending](/wiki/Beatmap/Category#work-in-progress-and-pending)または[Graveyard](/wiki/Beatmap/Category#graveyard)で[ノミネーション](/wiki/Beatmap_ranking_procedure#nominations)が一つもないとき変更できる。
 - [ビートマップノミネーター](/wiki/People/The_Team/Beatmap_Nominators)はビートマップが[Qualified](/wiki/Beatmap/Category#qualified)、WIPまたはPendingのとき変更できる。
 - [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team)のメンバーは[Loved](/wiki/Beatmap/Category#loved)のとき変更できる。
 - [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team)のメンバーと[Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team)のメンバーはすべてのカテゴリーのとき変更できる。
 
-ビートマップはジャンルか言語が`未分類`のときノミネートができない。
+ビートマップはジャンルか言語が`未分類`のとき[ノミネート](/wiki/Beatmap_ranking_procedure#nominations)ができない。
 
 ## ジャンルのリスト
 
