@@ -8,9 +8,9 @@ date: 2023-03-11 09:00:00 +0000
 
 ![](https://assets.ppy.sh/artists/348/header.jpg)
 
-Spanning more than two decades, **SWORD OF JUSTICE** is a solo project launched by guitarist Toshinori Hiramatsu launched in 2002 and inspired by video game music from the 80's and 90's.
+Spanning more than two decades, **SWORD OF JUSTICE** is a solo project launched by guitarist Toshinori Hiramatsu in 2002 and inspired by video game music from the 80's and 90's.
 
-**SWORD OF JUSTICE** arrived in osu! during *2009* thanks to a simple beatmap of [Happy Birthday](https://osu.ppy.sh/beatmapsets/9389), well before many of you may have even realized the game existed! Since then, their newer music has made it to the limelight through [Glacial Blaze](https://osu.ppy.sh/beatmapsets/1499138) and [Asmodeus](https://osu.ppy.sh/beatmapsets/1452407)'s mapping machinations, forever cementing their place in osu!.
+**SWORD OF JUSTICE** arrived in osu! during *2009* thanks to a simple beatmap of [Happy Birthday](https://osu.ppy.sh/beatmapsets/9389), well before many of you may have even realised the game existed! Since then, their newer music has made it to the limelight through [Glacial Blaze](https://osu.ppy.sh/beatmapsets/1499138) and [Asmodeus](https://osu.ppy.sh/beatmapsets/1452407)'s mapping machinations, forever cementing their place in osu!.
 
 **7** modern classics are ready for mapping from [**SWORD OF JUSTICE**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/348)!
 
