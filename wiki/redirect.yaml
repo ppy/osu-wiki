@@ -2050,5 +2050,8 @@
 # moved in #8588
 "osu!_wiki/maintenance/list_of_maintainers": "People/osu!_wiki_maintainers"
 
+"health_drain":              "Gameplay/Health"
+"beatmapping/health_drain":  "Gameplay/Health"
+
 "lazer":             "Client/Release_stream/Lazer"
 "osu!lazer":         "Client/Release_stream/Lazer"
