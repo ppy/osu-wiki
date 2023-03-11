@@ -38,6 +38,6 @@ needs_cleanup: true
 | 2018-02-07 | [Article tagging support was implemented](https://github.com/ppy/osu-web/pull/2331) to allow better search results for wiki articles. |
 | 2018–2021 | *Undocumented* |
 | 2021-05-12 | First implementation of [infoboxes](https://github.com/ppy/osu-web/pull/7546) that may add additional information to articles. |
-| 2021-06-01 | [Basic implementation](https://github.com/ppy/osu/pull/12950) of the osu! wiki in osu!(lazer) was added (English only). |
+| 2021-06-01 | [Basic implementation](https://github.com/ppy/osu/pull/12950) of the osu! wiki in [osu!(lazer)](/wiki/Client/Release_stream/Lazer) was added (English only). |
 | 2021-08-08 | [Gallery support](https://github.com/ppy/osu-web/pull/8126) was implemented. Now, images from one article can be viewed at once in a gallery. |
 | 2021-08-12 | Support for [footnotes](https://github.com/ppy/osu-web/pull/8125) was integrated. This allows to add links to notes and references for placing them in a specific section at the end of each article. |

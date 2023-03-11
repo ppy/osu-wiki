@@ -15,7 +15,7 @@ Toutes les osu! originals sous licence officielle peuvent être utilisées sur o
 
 | Musique | Notes |
 | :-: | :-- |
-| [cYsmix - triangles](https://soundcloud.com/olemlanglie/cysmix-triangles-osulazer)[^fa-catalogue] | Thème principal actuel d'osu!(lazer) |
+| [cYsmix - triangles](https://soundcloud.com/olemlanglie/cysmix-triangles-osulazer)[^fa-catalogue] | Thème principal actuel d'[osu!(lazer)](/wiki/Client/Release_stream/Lazer) |
 | [nekodex - aureole](https://soundcloud.com/nekodex/aureole)[^fa-catalogue] | Thème d'osu! lors de l'hiver/Noël 2017 |
 | [nekodex - circles!](https://soundcloud.com/nekodex/circles)[^fa-catalogue] | Thème d'osu! en 2015 |
 | [nekodex - carol of the circles](https://soundcloud.com/nekodex/carol-of-the-circles)[^fa-catalogue] | Thème d'osu! lors de l'hiver/Noël 2019 |

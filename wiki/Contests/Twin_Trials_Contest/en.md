@@ -126,7 +126,7 @@ Because this contest is available to all [game modes](/wiki/Game_mode), each gam
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter, [*Elite Mapper* contest points](/wiki/Contests/Contest_points) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter, [*Elite Mapper* contest points](/wiki/Contests/Contest_points) |
 
-The winning beatmap (from the game mode with the highest submission count) will be used as the base for the **storyboarding phase**. If the winning mappers and storyboarders agree to combine their creations, their collaboration will be **bundled with new installations of osu!(lazer)**.
+The winning beatmap (from the game mode with the highest submission count) will be used as the base for the **storyboarding phase**. If the winning mappers and storyboarders agree to combine their creations, their collaboration will be **bundled with new installations of [osu!(lazer)](/wiki/Client/Release_stream/Lazer)**.
 
 ### Community vote
 

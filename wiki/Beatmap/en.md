@@ -101,7 +101,7 @@ The top 500 scores on every difficulty of a beatmap provide [replays](/wiki/Game
 
 Since its early days, the community has had various ways to showcase unique and excellent maps. One of the first documented approaches were monthly and seasonal charts consisting of a small subset of ranked beatmaps, where top players from leaderboards displaying total score across these maps would be awarded with [osu!supporter](/wiki/osu!supporter).
 
-The chart system has later evolved into the [Beatmap Spotlights](/wiki/Beatmap_Spotlights) project, which now operates on similar conditions, but takes place in osu!(lazer)'s playlists instead.
+The chart system has later evolved into the [Beatmap Spotlights](/wiki/Beatmap_Spotlights) project, which now operates on similar conditions, but takes place in [osu!(lazer)](/wiki/Client/Release_stream/Lazer)'s playlists instead.
 
 ### Beatmap contests
 

@@ -69,7 +69,7 @@ A continuación se indican algunas de las formas en que puede contribuir:
 
 ## Contribuye al futuro de osu!
 
-Empezado en 2017, El proyecto osu!(lazer) es el objetivo principal de [the osu! team](/wiki/People/The_Team), junto con el nuevo sitio web, ¡que es lo que ves hoy! Si quieres ayudar a que estos proyectos sean aún mejores y nos acerquen al futuro de osu!, hay varias cosas que puedes hacer, pero a continuación te damos algunos ejemplos:
+Empezado en 2017, El proyecto [osu!(lazer)](/wiki/Client/Release_stream/Lazer) es el objetivo principal de [the osu! team](/wiki/People/The_Team), junto con el nuevo sitio web, ¡que es lo que ves hoy! Si quieres ayudar a que estos proyectos sean aún mejores y nos acerquen al futuro de osu!, hay varias cosas que puedes hacer, pero a continuación te damos algunos ejemplos:
 
 - Ayudando con el proyecto [osu!(lazer)](https://github.com/ppy/osu). ¡Hay mucho que implementar en la nueva versión de osu!, ¡y tú puedes ayudar a hacerlo realidad!
 - Haz el [sitio web](https://github.com/ppy/osu-web) aún mejor.

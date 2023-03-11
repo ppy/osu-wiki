@@ -16,7 +16,7 @@ tags:
 
 在官网上发布的[谱面](/wiki/Beatmap)都拥有一块用于帮助分类歌曲，名为**歌曲风格**和**语言**的区域。它们也是谱面[元数据](/wiki/Beatmap_Editor/Song_Setup#歌曲信息设定与相关信息设定(song-and-map-meta-data))的一部分。
 
-除了能在新版客户端 (lazer 版)内用于搜索以外，歌曲风格与语言在客户端中没有任何实际功能。
+除了能在新版客户端 [(lazer 版)](/wiki/Client/Release_stream/Lazer)内用于搜索以外，歌曲风格与语言在客户端中没有任何实际功能。
 
 ## 谱面列表
 

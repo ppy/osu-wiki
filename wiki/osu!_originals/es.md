@@ -10,7 +10,7 @@ Todos los osu! originals que han sido licenciados por el juego están autorizado
 
 | Canción | Notas |
 | :-: | :-- |
-| [cYsmix - triangles](https://soundcloud.com/olemlanglie/cysmix-triangles-osulazer)[^fa-catalogue] | Tema principal actual de osu!(lazer) |
+| [cYsmix - triangles](https://soundcloud.com/olemlanglie/cysmix-triangles-osulazer)[^fa-catalogue] | Tema principal actual de [osu!(lazer)](/wiki/Client/Release_stream/Lazer) |
 | [nekodex - aureole](https://soundcloud.com/nekodex/aureole)[^fa-catalogue] | Tema de osu! para Navidad/invierno 2017 |
 | [nekodex - circles!](https://soundcloud.com/nekodex/circles)[^fa-catalogue] | Tema de osu! de 2015 |
 | [nekodex - carol of the circles](https://soundcloud.com/nekodex/carol-of-the-circles)[^fa-catalogue] | Tema de osu! para Navidad/invierno 2019 |
