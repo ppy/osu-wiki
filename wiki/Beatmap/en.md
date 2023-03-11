@@ -95,8 +95,6 @@ The top 500 scores on every difficulty of a beatmap provide [replays](/wiki/Game
 
 ### Charts and Spotlights
 
-<!-- TODO: charts, as well as Chart Assembly Team, need to be referenced here when they receive a dedicated article (issue #4685) -->
-
 <!-- TODO: would be very cool to have a separate article for osu!(lazer) as well (issue #4686) -->
 
 *Main article: [Beatmap Spotlights](/wiki/Beatmap_Spotlights)*

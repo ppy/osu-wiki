@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 442efe1ddbcbc90c52993ae5117c9abfb191125e
+---
+
 # Utilisateurs avec des titres uniques
 
 Les titres d'utilisateurs sont généralement associés aux [groupes d'utilisateurs](/wiki/People/The_Team#groupes-d'utilisateurs), mais les utilisateurs listés ci-dessous ont reçu leur titre pour d'autres raisons. La plupart des titres étaient des récompenses pour des contributions ou des exploits, les autres étant des symboles de l'histoire emblématique ou amusante d'osu!.
