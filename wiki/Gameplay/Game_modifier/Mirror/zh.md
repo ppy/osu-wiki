@@ -35,7 +35,7 @@ tags:
 ## 杂项
 
 - Mirror 模组在2019年9月被引入，以回应用户 [Kamuy](https://osu.ppy.sh/users/7439226) 发出的[功能请求](https://osu.ppy.sh/community/forums/topics/956618)。
-  - 在功能请求帖发出时，[osu!(lazer)](https://github.com/ppy/osu#osu) 中已经实现了类似于 Mirror 的模组。但由于此模组自然会提高可访问性，就也将其引入了稳定版。
+  - 在功能请求帖发出时，[osu!(lazer)](/wiki/Client/Release_stream/Lazer) 中已经实现了类似于 Mirror 的模组。但由于此模组自然会提高可访问性，就也将其引入了稳定版。
   - 实际上，在 Kamuy 的功能请求帖发出多年前，已被多次请求引入 Mirror 模组。然而， Kamuy 的帖子是唯一一个引起足够注意的，使得这得以实现。
 - Mirror 模组是“特殊”类别中唯一在可排名的同时不影响玩家所得[表现分 (Performance points)](/wiki/Performance_points)与[分数](/wiki/Gameplay/Score)模组。
 
