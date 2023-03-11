@@ -69,7 +69,7 @@ osu! 茁壮成长的社区也不乏技术力高超或竞技心火热的人，无
 
 ## 为 osu! 的未来添砖加瓦
 
-从 2017 年开始，[osu! 团队](/wiki/People/The_Team)的主要精力就转移到了 osu!(lazer) 项目和新网站上，就是你现在看到的网站！你可以用很多方式让这些项目变得越来越好，让 osu! 逐渐靠近未来，以下是一部分建议：
+从 2017 年开始，[osu! 团队](/wiki/People/The_Team)的主要精力就转移到了 [osu!(lazer)](/wiki/Client/Release_stream/Lazer) 项目和新网站上，就是你现在看到的网站！你可以用很多方式让这些项目变得越来越好，让 osu! 逐渐靠近未来，以下是一部分建议：
 
 - 为 [osu!(lazer)](https://github.com/ppy/osu) 项目作出贡献。新版本的 osu! 有很多新东西需要加入，而你可以帮助实现这个目标！
 - 让[网站](https://github.com/ppy/osu-web)越来越好。

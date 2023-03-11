@@ -11,7 +11,7 @@ tags:
 
 サイト上に投稿された[ビートマップ](/wiki/Beatmap)には分類をしやすくするため**ジャンル**と**言語**の欄がある。これはビートマップの[メタデータ](/wiki/Beatmap_Editor/Song_Setup#song-and-map-metadata)の一つとして考えられる。
 
-ゲーム上に変化はないがosu!(lazer)ではそれによってジャンル分けができる。
+ゲーム上に変化はないが[osu!(lazer)](/wiki/Client/Release_stream/Lazer)ではそれによってジャンル分けができる。
 
 ## ビートマップリスト
 

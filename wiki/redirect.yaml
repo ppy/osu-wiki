@@ -2052,3 +2052,6 @@
 
 "health_drain":              "Gameplay/Health"
 "beatmapping/health_drain":  "Gameplay/Health"
+
+"lazer":             "Client/Release_stream/Lazer"
+"osu!lazer":         "Client/Release_stream/Lazer"

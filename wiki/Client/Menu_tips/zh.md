@@ -92,7 +92,7 @@ no_native_review: true
 
 <!-- Source: https://github.com/ppy/osu/blob/master/osu.Game/Screens/Menu/Disclaimer.cs -->
 
-这些提示出现在 [Lazer 版本客户端](https://github.com/ppy/osu-lazer)，导航页前的启动页下方。
+这些提示出现在 [osu!(lazer)](/wiki/Client/Release_stream/Lazer)，导航页前的启动页下方。
 
 - 你能在游戏里随时按下 `Ctrl` + `T`，来唤出工具栏！
 - 你能在游戏里随时按下 `Ctrl` + `O`，来唤出选项栏！
