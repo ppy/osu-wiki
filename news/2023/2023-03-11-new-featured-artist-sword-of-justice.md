@@ -43,7 +43,7 @@ Or try [this marathon](https://osu.ppy.sh/beatmapsets/1452407) also hosted by [A
 Go back to the roots of osu! with [this old-school map](https://osu.ppy.sh/beatmapsets/9389) hosted by [alvisto](https://osu.ppy.sh/users/95480)!
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/348/Beyond%20the%20Darkness%2FSWORD%20OF%20JUSTICE%20-%20Asmodeus.mp3">
+    <source src="https://assets.ppy.sh/artists/348/Songs/SWORD%20OF%20JUSTICE%20-%20Happy%20Birthday%20to%20You.mp3">
 </audio>
 
 ---
