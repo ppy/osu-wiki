@@ -112,7 +112,7 @@ The storyboarding phase schedule will be revealed after the beatmapping phase en
 | Shiba Inu | ::{ flag=PH }:: [ERA Hatsuki](https://osu.ppy.sh/users/11306351), ::{ flag=DE }:: [hexe](https://osu.ppy.sh/users/26190106) | *TBD* |
 | The Furries Are Mitosising | ::{ flag=US }:: [SilentWuffer](https://osu.ppy.sh/users/11355206), ::{ flag=VN }:: [NotiiJohn0](https://osu.ppy.sh/users/12578741) | *TBD* |
 | The Perth Maptus 🌵 | ::{ flag=AU }:: [I LOVE REQUIS 2](https://osu.ppy.sh/users/14390680), ::{ flag=AU }:: [[ Decku ]](https://osu.ppy.sh/users/13360768) | *TBD* |
-| """world cup""" | ::{ flag=GB }:: [epic man 2](https://osu.ppy.sh/users/14566000), ::{ flag=KR }:: [GDBlack](https://osu.ppy.sh/users/16976072) | *TBD* |
+| "world cup" | ::{ flag=GB }:: [epic man 2](https://osu.ppy.sh/users/14566000), ::{ flag=KR }:: [GDBlack](https://osu.ppy.sh/users/16976072) | *TBD* |
 
 ## Prizes
 
