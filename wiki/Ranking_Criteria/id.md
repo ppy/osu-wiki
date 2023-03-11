@@ -10,7 +10,7 @@ Perubahan aturan dan pedoman dalam dokumen ini diusulkan dan dibahas di [forum R
 
 ## Alat-alat
 
-Kamu sangat direkomendasikan menggunakan [Mapset Verifier (MV)](https://github.com/Naxesss/MapsetVerifier) untuk membantu dalam memeriksa apakah beatmapmu sudah sesuai dengan Ranking Criteria. Verifikasi menggunakan [AiMod](/wiki/Client/Beatmap_editor/AiMod) dari klien lama (stable) sudah usang dan tidak dirawat, dan verifikasi beatmap di dalam klien baru (lazer) masih [dalam tahap pengembangan (WIP)](https://github.com/ppy/osu/issues/12091#issuecomment-878760791).
+Kamu sangat direkomendasikan menggunakan [Mapset Verifier (MV)](https://github.com/Naxesss/MapsetVerifier) untuk membantu dalam memeriksa apakah beatmapmu sudah sesuai dengan Ranking Criteria. Verifikasi menggunakan [AiMod](/wiki/Client/Beatmap_editor/AiMod) dari klien lama (stable) sudah usang dan tidak dirawat, dan verifikasi beatmap di dalam klien baru [osu!(lazer)](/wiki/Client/Release_stream/Lazer) masih [dalam tahap pengembangan (WIP)](https://github.com/ppy/osu/issues/12091#issuecomment-878760791).
 
 Hal-hal yang perlu diperhatikan sebelum menggunakan Mapset Verifier (MV):
 
