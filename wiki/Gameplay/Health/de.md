@@ -15,7 +15,7 @@ tags:
 
 ## osu!
 
-In [osu!](/wiki/Game_mode/osu!) sinkt die Gesundheit mit einer stetigen Rate, die [Health-Drain](/wiki/Beatmapping/Health_drain) genannt wird, kann aber durch das Treffen von Noten oder das Drehen von Spinnern wieder aufgefüllt werden.
+In [osu!](/wiki/Game_mode/osu!) sinkt die Gesundheit mit einer stetigen Rate, die Health-Drain genannt wird, kann aber durch das Treffen von Noten oder das Drehen von Spinnern wieder aufgefüllt werden.
 
 Sprünge bei der Punktzahl gibt es, nachdem Circles getroffen wurden, wobei die Änderung der Punktzahl und des Gesundheitswerts von der Genauigkeit des Treffers abhängen. Ein perfekt getimter Treffer (300) füllt die Gesundheit mehr auf als ein schlecht platzierter Treffer (50). Spieler bekommen ebenfalls einen größeren Auftrieb, wenn sie ein Katu oder ein Geki am Ende einer Combo erreichen. Ein Miss dagegen verringert die Gesundheit. Wenn Spinner früher abgeschlossen werden, dann gibt das weitere Drehen zusätzliche Gesundheit. Für eine Übersicht über die Wiederherstellung und den Verlust von Gesundheit, siehe unten:
 
@@ -66,7 +66,7 @@ Kein Effekt:
 
 ## osu!catch
 
-In [osu!catch](/wiki/Game_mode/osu!catch) sinkt die Gesundheit mit einer stetigen Rate, die [Health-Drain](/wiki/Beatmapping/Health_drain) genannt wird, kann aber durch das Fangen von Fruits und Drops wieder aufgefüllt werden.
+In [osu!catch](/wiki/Game_mode/osu!catch) sinkt die Gesundheit mit einer stetigen Rate, die Health-Drain genannt wird, kann aber durch das Fangen von Fruits und Drops wieder aufgefüllt werden.
 
 Sprünge bei der Punktzahl gibt es für das Fangen von Fruits, wobei die Änderung der Punktzahl und des Gesundheitswerts von den gefangenen Hit-Objekten abhängen. Spieler bekommen ebenfalls einen größeren Auftrieb, wenn sie das Ende einer Combo fangen, was zu einem geki führt. Fruits nicht zu fangen verringert dagegen die Leben. Bananen können ohne Einfluss auf die Gesundheit ignoriert werden. Für eine Übersicht über die Wiederherstellung und den Verlust von Gesundheit, siehe unten:
 
@@ -85,7 +85,7 @@ Kein Effekt:
 
 ## osu!mania
 
-In [osu!mania](/wiki/Game_mode/osu!mania) beeinflussen nur Hit-Objekte die Lebensleiste, da [Health-Drain](/wiki/Beatmapping/Health_drain) deaktiviert ist.
+In [osu!mania](/wiki/Game_mode/osu!mania) beeinflussen nur Hit-Objekte die Lebensleiste, da Health-Drain deaktiviert ist.
 
 Sprünge bei der Punktzahl gibt es, nachdem Notes getroffen wurden, wobei die Änderung der Punktzahl und des Gesundheitswerts von der Genauigkeit des Treffers abhängen. Ein perfekt getimter Treffer (300) füllt die Gesundheit mehr auf als ein schlecht platzierter Treffer (50). Ein Miss dagegen verringert die Gesundheit. Eine Regeneration der Lebensleiste erfolgt beim Halten von Hold-Notes langsam. Für eine Übersicht über die Wiederherstellung und den Verlust von Gesundheit, siehe unten:
 

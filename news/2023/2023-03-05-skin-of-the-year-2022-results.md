@@ -18,7 +18,7 @@ Starting this top 10 off strong, we have [Sagittarius A](https://osu.ppy.sh/comm
 
 ![](/wiki/shared/news/2023-03-05-skin-of-the-year-2022-results/Cosmos.jpg)
 
-Even though we have 2 space themed skins in a row, [RUDEKA](https://osu.ppy.sh/users/13015586)'s [Cosmos](https://osu.ppy.sh/community/forums/topics/1586852?n=1) stays unique with a simple, yet detailed style. With a soothing blue tone being present, along with depictions of the cosmos displayed across the skin, it is easy to how this entry gained **747** votes, which some might think is 20 too many.
+Even though we have 2 space themed skins in a row, [RUDEKA](https://osu.ppy.sh/users/13015586)'s [Cosmos](https://osu.ppy.sh/community/forums/topics/1586852?n=1) stays unique with a simple, yet detailed style. With a soothing blue tone being present, along with depictions of the cosmos displayed across the skin, it is easy to see how this entry gained **747** votes, which some might think is 20 too many.
 
 ![](/wiki/shared/news/2023-03-05-skin-of-the-year-2022-results/The-Memory-of-Mumei.jpg)
 
@@ -34,7 +34,7 @@ What, this guy again? Not only did [thetasigma](https://osu.ppy.sh/users/6234482
 
 ![](/wiki/shared/news/2023-03-05-skin-of-the-year-2022-results/Hitori-Gotou.jpg)
 
-Do you like Bocchi the Rock? Do you like the colour pink? Then [Hitori Gotou](https://osu.ppy.sh/community/forums/topics/1695565?n=1) is for you! [Hoshinomori](https://osu.ppy.sh/users/25025133) was able to secure themselves the 5th spot in this contest with **886** votes, all of them being from Bocchi the Rock enjoyers.
+Do you like Bocchi the Rock? Do you like the colour pink? Then [Hitori Gotou](https://osu.ppy.sh/community/forums/topics/1695565?n=1) is for you! [Ayayk](https://osu.ppy.sh/users/25025133) was able to secure themselves the 5th spot in this contest with **886** votes, all of them being from Bocchi the Rock enjoyers.
 
 ![](/wiki/shared/news/2023-03-05-skin-of-the-year-2022-results/Wintherest.jpg)
 
