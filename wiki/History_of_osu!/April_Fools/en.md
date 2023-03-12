@@ -149,7 +149,7 @@ As part of the handful of April Fools' day jokes for 2016, the [osu! cookie](/wi
 
 ## 2017
 
-As announced in a [tweet by peppy](https://twitter.com/ppy/status/848021525663842304), there was no April Fools' day joke for osu! in 2017 due to development on the lazer version of the osu! client.
+As announced in a [tweet by peppy](https://twitter.com/ppy/status/848021525663842304), there was no April Fools' day joke for osu! in 2017 due to development on the [lazer](/wiki/Client/Release_stream/Lazer) version of the osu! client.
 
 ## 2018
 
@@ -167,7 +167,7 @@ For the April Fools' day of 2019, there was approximately a 1 in 20 chance of he
 
 ### MillhioreF joins the Featured Artists
 
-[MillhioreF](https://osu.ppy.sh/users/941094) — a long-time osu! moderator, developer and [Easy mod](/wiki/Game_modifier/Easy) player — was announced in [a newspost](https://osu.ppy.sh/home/news/2020-04-01-new-featured-artist-millhioref) to have "joined" the list of [Featured Artists](/wiki/Featured_Artists) as "Millhiore Firianno Biscotti" on 1 April 2020 with a selection of five songs to boot:[^irish-fa]:
+[MillhioreF](https://osu.ppy.sh/users/941094) — a long-time osu! moderator, developer and [Easy mod](/wiki/Game_modifier/Easy) player — was announced in [a newspost](https://osu.ppy.sh/home/news/2020-04-01-new-featured-artist-millhioref) to have "joined" the list of [Featured Artists](/wiki/Featured_Artists) as "Millhiore Firianno Biscotti" on 1 April 2020 with a selection of five songs to boot:[^irish-fa]
 
 - Waltz o' the Irish
 - The Waltzing Irishman

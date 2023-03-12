@@ -155,7 +155,7 @@ Dans le cadre de la poignée de blagues du poisson d'avril 2016, l'[osu! cookie]
 
 ## 2017
 
-Comme annoncé dans un [Tweet de peppy](https://twitter.com/ppy/status/848021525663842304), il n'y a pas eu de blague du poisson d'avril pour osu! en 2017 en raison du développement de la version lazer du client d'osu!.
+Comme annoncé dans un [Tweet de peppy](https://twitter.com/ppy/status/848021525663842304), il n'y a pas eu de blague du poisson d'avril pour osu! en 2017 en raison du développement de la version [lazer](/wiki/Client/Release_stream/Lazer) du client d'osu!.
 
 ## 2018
 
@@ -173,7 +173,7 @@ Pour le poisson d'avril 2019, il y avait environ 1 chance sur 20 d'entendre l'ef
 
 ### MillhioreF rejoint les Featured Artists
 
-[MillhioreF](https://osu.ppy.sh/users/941094), un modérateur, développeur et joueur du mod [Easy](/wiki/Game_modifier/Easy) de longue date d'osu! - a été annoncé dans [un newspost](https://osu.ppy.sh/home/news/2020-04-01-new-featured-artist-millhioref) comme ayant "rejoint" la liste des [Featured Artists](/wiki/Featured_Artists) en tant que "Millhiore Firianno Biscotti" le 1er avril 2020 avec une sélection de cinq musiques pour commencer [^irish-fa] :
+[MillhioreF](https://osu.ppy.sh/users/941094), un modérateur, développeur et joueur du mod [Easy](/wiki/Game_modifier/Easy) de longue date d'osu! - a été annoncé dans [un newspost](https://osu.ppy.sh/home/news/2020-04-01-new-featured-artist-millhioref) comme ayant "rejoint" la liste des [Featured Artists](/wiki/Featured_Artists) en tant que "Millhiore Firianno Biscotti" le 1er avril 2020 avec une sélection de cinq musiques pour commencer :[^irish-fa]
 
 - Waltz o' the Irish
 - The Waltzing Irishman

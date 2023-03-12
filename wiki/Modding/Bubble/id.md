@@ -15,7 +15,7 @@ tags:
 
 Sebagai langkah selanjutnya dari [sistem ranking lama](/wiki/Modding/Forum_modding) setelah [proto-bubble](/wiki/Modding/Proto-bubble), sebuah bubble berarti sebuah [beatmap](/wiki/Beatmap) telah siap untuk di-ranked menurut modder. Beatmap yang di-bubble akan dicek oleh anggota BAT atau BN lainnya dan diberikan status [ranked](/wiki/Beatmap/Category#ranked) atau [approved](/wiki/Beatmap/Category#approved) selama map hanya memerlukan perubahan yang kecil saja.
 
-Pada [prosedur ranking beatmap](/wiki/Beatmap_ranking_procedure) modern, ekuivalen dari sebuah bubble adalah nominasi pertama yang diberikan oleh seorang [beatmap nominator](/wiki/People/The_Team/Beatmap_Nominators).
+Pada [prosedur ranking beatmap](/wiki/Beatmap_ranking_procedure) modern, ekuivalen dari sebuah bubble adalah [nominasi](/wiki/Beatmap_ranking_procedure#nominasi) pertama yang diberikan oleh seorang [beatmap nominator](/wiki/People/The_Team/Beatmap_Nominators).
 
 ## Sejarah
 

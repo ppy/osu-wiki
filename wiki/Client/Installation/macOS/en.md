@@ -33,7 +33,7 @@ If you have difficulties opening osu!, then the following steps may help you:
 
 ## osu!(lazer)
 
-[osu!(lazer)](https://github.com/ppy/osu) is the future game client of osu! currently in development. If you do not care about earning [performance points](/wiki/Performance_points), then it is recommended you try it out. In order to install it, take the following steps:
+[osu!(lazer)](/wiki/Client/Release_stream/Lazer) is the future game client of osu! currently in development. If you do not care about earning [performance points](/wiki/Performance_points), then it is recommended you try it out. In order to install it, take the following steps:
 
 1. Go to the [osu!(lazer) download page](https://github.com/ppy/osu/releases/latest), download `osu!.app.zip` and unzip it.
 2. Double click on osu! and press `Open` to open it.
