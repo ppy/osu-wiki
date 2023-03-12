@@ -29,7 +29,7 @@ tags:
 
 | 名次 | 奖励 |
 | :-: | :-- |
-| *常规赛全勤奖* | 10 RMB(B组), 15 RMB(A组), 20 RMB(S组), 25 RMB(EX组) |
+| *常规赛全勤奖* | 15 RMB(B组), 20 RMB(A组), 25 RMB(S组), 30 RMB(EX组) |
 | ![Gold crown](/wiki/shared/crown-gold.png "季后赛冠军") | 主页奖章(Pending), 猫猫定制勋章, 100 RMB |
 | ![Silver crown](/wiki/shared/crown-silver.png "季后赛亚军") | 猫猫定制勋章, 80 RMB |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "季后赛季军") | 猫猫定制勋章, 50 RMB |
@@ -49,7 +49,7 @@ GBC 2023 春季周常活动由 GB 成员和多位社区成员举办。
 | 裁判 | ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [\[GB\]Natro](https://osu.ppy.sh/users/27233308), ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260), ::{ flag=CN }:: [\[GB\]V1do](https://osu.ppy.sh/users/17527968), ::{ flag=CN }:: [Lucky Clover](https://osu.ppy.sh/users/24989144), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [\[GB\]sherweifa](https://osu.ppy.sh/users/17457562), ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [\[GB\]Akamite](https://osu.ppy.sh/users/13418334) |
 | 解说 | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
 | 转播 | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617), ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273) |
-| 数据统计 & wiki 编写 | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [\[GB\]Natro](https://osu.ppy.sh/users/27233308) |
+| 数据统计 & wiki 编写 | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [\[GB\]Natro](https://osu.ppy.sh/users/27233308), ::{ flag=CN }:: [FAIRYBYUN](https://osu.ppy.sh/users/17575228) |
 
 ## 链接
 
@@ -71,8 +71,11 @@ GBC 2023 春季周常活动由 GB 成员和多位社区成员举办。
 | B组 | Pending |
 
 ## 图池
+由于谱面非常多，可以通过 **[赛事信息表格](https://docs.qq.com/sheet/DTXNmQXJ2VG9qbWhY?tab=uitssi)** 查看图池。
 
-### 常规赛第一轮 (EX 组)
+### EX 组
+
+#### 第一轮
 
 **[Download the mappack here! (SIZE)](LINK)**
 
