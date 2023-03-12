@@ -205,3 +205,4 @@ The rules are largely the same as in the regular season.
 9. Unexpected incidents will be handled by the host. Referees may allow higher tolerance depending on the given circumstances. This is up to their discretion.
 10. The host may request liveplays or recordings of individual players or teams at any point.
 11. The host reserves the right to modify these rules at any moment. Any such changes will be announced in advance.
+
