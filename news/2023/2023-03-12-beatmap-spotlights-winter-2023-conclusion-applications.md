@@ -4,23 +4,25 @@ title: "Beatmap Spotlights Winter 2023 Conclusion & Applications"
 date: 2023-03-12 13:00:00 +0000
 ---
 
-The Winter 2023 season of the Beatmap Spotlights has come to an end⁠ — come check out the top 50 for each game mode, and vote on your favourite beatmaps from the season! We are also seeking fresh blood so be sure to apply if you're interesting in helping with curation process.
+The Winter 2023 season of the Beatmap Spotlights has come to an end⁠, so come check out the top 50 for each game mode and vote on your favourite beatmaps from the season! We're also looking for people interested in helping make the Beatmap Spotlights team more awesome!
 
 ![](/wiki/shared/news/banners/beatmap-spotlights.jpg)
 
-After quite some time, the Winter 2023 season is officially concluded now! You can now freely chime onto the final ranking and compare your position with whoever you wish! If you'd also like to help with picking beatmaps for Beatmaps Spotlights, it's your time to shine, read on below for more details!
+After quite some time, the Winter 2023 season has officially concluded. You can now freely delve into the final rankings and see where you stand, and especially perceptive Spotlight enjoyers should note the final Winter 2023 profile badges making themselves known shortly.
 
 ## Beatmap Spotlights Curators applications
 
-We are looking for new promising candidates to join the ranks of [Beatmap Spotlights Curators](https://osu.ppy.sh/groups/48). Our main point of interest is people heavily involved in mapping, outstanding players, and exceptional tournament mappoolers. If you don't feel like filling any of mentioned niches, and believe you'd be a valuable asset to the team, feel free to submit your application as well, we will look into every single one at the end of the day!
+We are looking for new promising candidates to join the ranks of [Beatmap Spotlights Curators](https://osu.ppy.sh/groups/48). 
+
+If you're heavily involved in mapping, are an outstanding player or an exceptional tournament mappooler, we'd be excited to check out your application — but don't fret if you don't neatly slot into any of these descriptions, we'd love to hear from you anyway if you're just passionate and wanting to help push the Beatmap Spotlights to the next level.
 
 **[Click here to apply!](https://forms.gle/oTFFjZkv8ondGNmo9)**
 
 ## Beatmap of the Season - Players' Pick
 
-We're continuing with *Beatmap of the Season - Players' Pick*! Combined with the [Spotlights curators'](/wiki/Beatmap_Spotlights#curators) picks, we will figure the most outstanding creations covered by Winter 2023 playlists!
+We're continuing with *Beatmap of the Season - Players' Pick* polls! Combined with the [Spotlights curators'](/wiki/Beatmap_Spotlights#curators) picks, we will figure the most outstanding creations covered by Winter 2023 playlists!
 
-The results of both the curator and player picks will be announced at the launch of the Spring 2023 season of the Beatmap Spotlights, and the creators of winning entries will be awarded with **3 months of osu!supporter** each. If you'd like to make your opinions known on the best maps of the season, this is the place to do it!
+The results of both selections will be announced at the launch of the Spring 2023 season of the Beatmap Spotlights, and the creators of winning entries will be awarded with **3 months of osu!supporter** each. If you'd like to make your opinions known on the best maps of the season, this is the place to do it!
 
 Check out each respective game mode's contest and vote today:
 
