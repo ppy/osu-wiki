@@ -29,7 +29,7 @@ The **GB Cup 2023 Spring** (***GBC 2023 Spring***) is a osu!mania 4-key points-b
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| *Full attendance award* | 10 RMB(Group B), 15RMB (Group A), 20 RMB(Group S), 25 RMB(Group EX) |
+| *Full attendance award* | 15 RMB(Group B), 20 RMB (Group A), 25 RMB(Group S), 30 RMB(Group EX) |
 | ![Gold crown](/wiki/shared/crown-gold.png "playoff 1st place") | Profile badge(Pending), KanonBot profile badge, 100 RMB |
 | ![Silver crown](/wiki/shared/crown-silver.png "playoff 2nd place") | KanonBot profile badge, 80 RMB |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "playoff 3rd place") | KanonBot profile badge, 50 RMB |
@@ -50,7 +50,7 @@ The GB Cup 2023 Spring is run by the Team GB and various community members.
 | Commentator | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
 | Designer | ::{ flag=CN }:: [\[GB\]Voidmoyu](https://osu.ppy.sh/users/16573996), ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
 | Referee | ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [\[GB\]Natro](https://osu.ppy.sh/users/27233308), ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260), ::{ flag=CN }:: [\[GB\]V1do](https://osu.ppy.sh/users/17527968), ::{ flag=CN }:: [Lucky Clover](https://osu.ppy.sh/users/24989144), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [\[GB\]sherweifa](https://osu.ppy.sh/users/17457562), ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [\[GB\]Akamite](https://osu.ppy.sh/users/13418334) |
-| Statistician & wiki editor | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [\[GB\]Natro](https://osu.ppy.sh/users/27233308) |
+| Statistician & wiki editor | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [\[GB\]Natro](https://osu.ppy.sh/users/27233308), ::{ flag=CN }:: [FAIRYBYUN](https://osu.ppy.sh/users/17575228) |
 
 ## Links
 
@@ -205,4 +205,3 @@ The rules are largely the same as in the regular season.
 9. Unexpected incidents will be handled by the host. Referees may allow higher tolerance depending on the given circumstances. This is up to their discretion.
 10. The host may request liveplays or recordings of individual players or teams at any point.
 11. The host reserves the right to modify these rules at any moment. Any such changes will be announced in advance.
-
