@@ -35,7 +35,7 @@ The voting will remain open for **7 days** from the date of this news post, so m
 
 [Click here for the full leaderboards of every game mode!](https://docs.google.com/spreadsheets/d/e/2PACX-1vQYzvSpSpLn6-2EOdvQr7dGYdm4kPPjOJa7wRB2_8aWto51uWmrr629HaF25eXQfJIY5sXxHNdJ1miy/pubhtml)
 
-| Rank | Tier | ![][osu!] Player | Tier | ![][osu!taiko] Player | Tier | ![][osu!catch] Player | Tier | ![][osu!mania] Player
+| Rank | Tier | ![][osu!] Player | Tier | ![][osu!taiko] Player | Tier | ![][osu!catch] Player | Tier | ![][osu!mania] Player |
 | :-: | :-: | :-- | :-: | :-- | :-: | :-- | :-: | :-- |
 | #1 | ![][winter-2023-osu!-ri-3] | [fieryrage](https://osu.ppy.sh/users/3533958) | ![][winter-2023-taiko-ri-3] | [uone](https://osu.ppy.sh/users/5321719) | ![][winter-2023-ctb-ri-3] | [daxeroz](https://osu.ppy.sh/users/1170156) | ![][winter-2023-mania-ri-3] | [ZYuan](https://osu.ppy.sh/users/3337688) |
 | #2 | ![][winter-2023-osu!-ri-3] | [Haadez](https://osu.ppy.sh/users/8925266) | ![][winter-2023-taiko-ri-2] | [AuroraPhasmata](https://osu.ppy.sh/users/13664116) | ![][winter-2023-ctb-ri-2] | [Firu](https://osu.ppy.sh/users/10516547) | ![][winter-2023-mania-ri-2] | [Cryolien](https://osu.ppy.sh/users/1626983) |
