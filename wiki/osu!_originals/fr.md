@@ -15,7 +15,7 @@ Toutes les osu! originals sous licence officielle peuvent être utilisées sur o
 
 | Musique | Notes |
 | :-: | :-- |
-| [cYsmix - triangles](https://soundcloud.com/olemlanglie/cysmix-triangles-osulazer)[^fa-catalogue] | Thème principal actuel d'osu!(lazer) |
+| [cYsmix - triangles](https://soundcloud.com/olemlanglie/cysmix-triangles-osulazer)[^fa-catalogue] | Thème principal actuel d'[osu!(lazer)](/wiki/Client/Release_stream/Lazer) |
 | [nekodex - aureole](https://soundcloud.com/nekodex/aureole)[^fa-catalogue] | Thème d'osu! lors de l'hiver/Noël 2017 |
 | [nekodex - circles!](https://soundcloud.com/nekodex/circles)[^fa-catalogue] | Thème d'osu! en 2015 |
 | [nekodex - carol of the circles](https://soundcloud.com/nekodex/carol-of-the-circles)[^fa-catalogue] | Thème d'osu! lors de l'hiver/Noël 2019 |
@@ -226,6 +226,21 @@ Ces chansons font partie du [osu! James Landino Collection EP](https://fanlink.t
 | :-: | :-: | :-- |
 | [BilliumMoto x Akiri - Cryochemistry](https://soundcloud.com/billiummoto/cryochemistry)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1698378) | Tiebreaker des Grandes Finales |
 
+#### ![](/wiki/shared/mode/mania.png) [4 Digit osu!mania World Cup 2023](/wiki/Tournaments/4DM/2023)
+
+| Musique | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [Akiri vs. HowToPlayLN - Cognitohazadrous Ocular Vision Impairing Disease](https://soundcloud.com/indekkusu/akiri-vs-howtoplayln-cognitohazadrous-ocular-vision-impairing-disease) |  | Musique de fond pendant les cutscenes |
+| [HowToPlayLN - Lost in Space](https://soundcloud.com/indekkusu/4dm2023-trailer) |  | Musique du trailer |
+| [HowToPlayLN - monochroma.](https://soundcloud.com/indekkusu/monochroma) |  | Musique de fond pendant les cutscenes |
+| [HowToPlayLN - wandering through the stars](https://soundcloud.com/indekkusu/wandering-through-the-stars) |  | Musique de fond pendant les cutscenes |
+| [HowToPlayLN - crescent moon island but it's bossa nova](https://soundcloud.com/indekkusu/crescent-moon-island-but-its-bossa-nova) |  | Musique de fond pendant les cutscenes |
+| [HowToPlayLN - polychromatic dissociation](https://soundcloud.com/indekkusu/polychromatic-dissociation) |  | Musique de fond pendant les cutscenes |
+| [Imaginary Reality - Stardust Antagonism](https://soundcloud.com/imaginaryrea1ity/stardust-antagonism) |  | Musique de fond pendant les cutscenes |
+| [Imaginary Reality vs. HowToPlayLN - Throughout The Memories](https://soundcloud.com/indekkusu/throughout-the-memories) |  | Musique de fond pendant les cutscenes |
+| [takehirotei vs. HowToPlayLN - Essence](https://soundcloud.com/indekkusu/essence) | [#1](https://osu.ppy.sh/beatmapsets/1943786#mania/4021083) | Tiebreaker des Grandes Finales |
+| [takehirotei vs. HowToPlayLN - Essence \~among the constellations\~](https://soundcloud.com/indekkusu/essence-among-the-constellations) |  | Générique de fin |
+
 #### ![](/wiki/shared/mode/taiko.png) [Advanced Global Taiko Showdown 2022](/wiki/Tournaments/GTS/AGTS_2022)
 
 | Musique | Beatmap | Notes |
@@ -339,7 +354,6 @@ Ces chansons font partie du [osu! James Landino Collection EP](https://fanlink.t
 | [blobdash - Resentment](https://soundcloud.com/blobdash/resentment) | [#1](https://osu.ppy.sh/beatmapsets/1850544) | FM2 des demi-finales |
 | [blobdash & Raphlesia - Recollection](https://soundcloud.com/blobdash/recollection) | [#1](https://osu.ppy.sh/beatmapsets/1828727) | Tiebreaker des 48e de finale |
 | [DJ Raisei - Fractured Angel](https://www.youtube.com/watch?v=YlaYNIXJAyM)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1838114) | Tiebreaker des seizièmes de finale |
-| [DJ Witch Girl MIR4CLEN - Danrit](https://soundcloud.com/mir4clen/osutaiko) | [#1](https://osu.ppy.sh/beatmapsets/1842746) | FM3 des huitièmes de finale |
 | [Gardens - Rafflesia](https://soundcloud.com/gardensdtm/rafflesia) | [#1](https://osu.ppy.sh/beatmapsets/1833491) | Tiebreaker des 32e de finale |
 | [ikaruga_nex vs. Kagetora. - Grabinschrift der Gotter](https://soundcloud.com/ikaruga_nex/egts-2022-finals-tb-ikaruga_nex-vs-grabinschrift-der-gotter) | [#1](https://osu.ppy.sh/beatmapsets/1855299) | Tiebreaker des finales |
 | [KAH - Judge UP↑ DOWN↓](https://soundcloud.com/kah_growsong/gts2022judge-up-down) | [#1](https://osu.ppy.sh/beatmapsets/1828735) | FM3 des 64e de finale |
@@ -542,7 +556,7 @@ Ces chansons font partie du [osu! James Landino Collection EP](https://fanlink.t
 
 ### Concours gérés par la communauté
 
-#### ![](/wiki/shared/mode/taiko.png)  Mapping to Pander: Taiko #1
+#### ![](/wiki/shared/mode/taiko.png) Mapping to Pander: Taiko #1
 
 | Musique |
 | :-: |
@@ -553,6 +567,12 @@ Ces chansons font partie du [osu! James Landino Collection EP](https://fanlink.t
 | Musique |
 | :-: |
 | [SAMString - Akarui Taiyo](https://soundcloud.com/samstring/akarui-taiyo)[^fa-catalogue] |
+
+#### ![](/wiki/shared/mode/taiko.png) Mapping Global Taiko Showdown 2023
+
+| Musique |
+| :-: |
+| [SDMNE feat. Nam1541 - VOID'S BLOSSOM // - + - // Tragedy\_Eternal](https://soundcloud.com/sdmne/voids-blossom-tragedy_eternal-feat-nam1541) |
 
 ### Beatmaps créées de façon autonome
 

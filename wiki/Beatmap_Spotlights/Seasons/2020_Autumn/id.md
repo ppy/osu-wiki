@@ -26,7 +26,7 @@ tags:
 
 ## Lobi multiplayer mingguan
 
-Untuk saat ini, bergabung dengan lobi multiplayer mingguan mengharuskan peserta untuk mengunduh dan menginstal [osu!(lazer)](https://github.com/ppy/osu/releases).
+Untuk saat ini, bergabung dengan lobi multiplayer mingguan mengharuskan peserta untuk mengunduh dan menginstal [osu!(lazer)](/wiki/Client/Release_stream/Lazer).
 
 1. Lobi akan terbuka sepanjang minggu.
 2. Daftar putar kini juga dapat menampilkan mod

@@ -32,6 +32,6 @@
 | 07.02.2018 | [Unterstützung für Artikel-Tagging wurde implementiert](https://github.com/ppy/osu-web/pull/2331), um bessere Suchergebnisse für Wiki-Artikel zu ermöglichen. |
 | 2018 bis 2021 | *Undokumentiert* |
 | 12.05.2021 | Erste Implementierung von [Infoboxen](https://github.com/ppy/osu-web/pull/7546), die zusätzliche Informationen für Artikel liefern. |
-| 01.06.2021 | [Grundlegende Umsetzung](https://github.com/ppy/osu/pull/12950) des osu!-Wikis in osu!(lazer) wurde hinzugefügt (nur Englisch). |
+| 01.06.2021 | [Grundlegende Umsetzung](https://github.com/ppy/osu/pull/12950) des osu!-Wikis in [osu!(lazer)](/wiki/Client/Release_stream/Lazer) wurde hinzugefügt (nur Englisch). |
 | 08.08.2021 | [Galerieunterstützung](https://github.com/ppy/osu-web/pull/8126) wurde implementiert. Jetzt können Bilder aus einem Artikel auf einmal in einer Galerie angesehen werden. |
 | 12.08.2021 | Unterstützung für [Fußnoten](https://github.com/ppy/osu-web/pull/8125) wurde integriert. Das ermöglicht das Hinzufügen von Links zu Anmerkungen und Referenzen, um sie in einem spezifischen Abschnitt am Ende jedes Artikels zu platzieren. |

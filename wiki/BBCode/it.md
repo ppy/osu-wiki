@@ -1,3 +1,8 @@
+---
+outdated_since: 2c129e5211a4caee7f4b7f2b189c6644b435fbbe
+outdated_translation: true
+---
+
 # BBCode
 
 **BBCode** è un [linguaggio di markup](https://it.wikipedia.org/wiki/Linguaggio_di_markup) che viene usato nei forum di osu! e, più su larga scala, nella stragrande maggioranza dei forum online. Utilizzato per abilitare la formattazione del rich text, è composto da tag che circondano il testo per indicare la formattazione, gli attributi, l'incorporamento e altro. Viene utilizzato in vari luoghi all'interno del sito di osu!, come post del forum, firme, pagine utente e descrizioni delle mappe.

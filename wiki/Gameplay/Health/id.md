@@ -12,7 +12,7 @@ tags:
 
 ## osu!
 
-Di [osu!](/wiki/Game_mode/osu!), health akan menurun dan itu disebut sebagai [health drain](/wiki/Beatmapping/Health_drain), tapi dapat dinaikkan ketika menekan not dengan benar dan memiliki akurasi yang sangat bagus.
+Di [osu!](/wiki/Game_mode/osu!), health akan menurun dan itu disebut sebagai health drain, tapi dapat dinaikkan ketika menekan not dengan benar dan memiliki akurasi yang sangat bagus.
 
 Score burst akan muncul setelah menekan hit circle, mengganti skor dan nilai health tergantung dari akurasi hit itu sendiri. Hit yang sempurna (300) akan memulihkan lebih banyak health daripada Hit yang jelek (50). Pemain juga menerima tambahan besar health ketika mendapatkan katu atau geki pada kombo terakhir. Sebuah miss akan menguras health. Jika spinner diselesaikan, bersamaan dengan spin akan mendapatkan tambahan health. Untuk melihat gambaran pemulihan health dan kehilangan health, silahkan lihat:
 
@@ -63,7 +63,7 @@ Tidak berefek:
 
 ## osu!catch
 
-Di [osu!catch](/wiki/Game_mode/osu!catch), health akan menurun dan itu disebut sebagai [health drain](/wiki/Beatmapping/Health_drain), tapi dapat dinaikkan ketika menangkap fruits dan drops.
+Di [osu!catch](/wiki/Game_mode/osu!catch), health akan menurun dan itu disebut sebagai health drain, tapi dapat dinaikkan ketika menangkap fruits dan drops.
 
 Score burst akan muncul setelah menangkap fruit, mengganti skor dan nilai health tergantung saat menangkap hit object. Pemain juga menerima tambahan besar jika menangkap kombo terakhir yang ada di geki. Kehilangan fruit akan menguras health. Bananas dapat diabaikan dan tidak ada health penalti. Untuk gambaran tentang pemulihan health dan kehilangan health, silahkan lihat:
 
@@ -82,7 +82,7 @@ Tidak berefek:
 
 ## osu!mania
 
-Di [osu!mania](/wiki/Game_mode/osu!mania), hanya hit object yang memberikan efek, karena [health drain](/wiki/Beatmapping/Health_drain) dimatikan.
+Di [osu!mania](/wiki/Game_mode/osu!mania), hanya hit object yang memberikan efek, karena health drain dimatikan.
 
 Score burst akan muncul setelah menekan not, mengganti skor dan nilai health tergantung dari akurasi hit itu sendiri. Hit yang sempurna (300) akan memulihkan banyak health daripada Hit yang buruk (50). Kehilangan not akan menguras health. Health bar memulih ketika menekan not. Untuk gambaran tentang pemulihan health dan kehilangan health, silahkan lihat:
 
