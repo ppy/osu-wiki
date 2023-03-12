@@ -80,6 +80,37 @@ Listed below are the players who managed to qualify into the Round of 16 (along 
 
 ## Mappools
 
+### Finals (week 2)
+
+**[Download the mappack here! (178 MB)](https://cdn.discordapp.com/attachments/913324595002605572/1084511862235856977/oasis2023gf1678633193617.zip)**
+
+- NoMod
+  1. [KINEMA106 - Juusou (Mordred) \[Iron Rain\]](https://osu.ppy.sh/beatmapsets/1301393#osu/2699247)
+  2. [Maverick - opaque (Niva) \[-TwiNM2\]](https://osu.ppy.sh/beatmapsets/1955283#osu/4049716)
+  3. [F A K E S - Last Words (DeviousPanda) \[werf's Extra\]](https://osu.ppy.sh/beatmapsets/1497474#osu/3119382)
+  4. [Redside - Sidequest (Feiri) \[collab adventure\]](https://osu.ppy.sh/beatmapsets/1876071#osu/3860793)
+  5. [IOSYS - Marisa Tanked My Score With an Incredible Hand (Yauxo) \[Special\]](https://osu.ppy.sh/beatmapsets/963766#osu/2017787)
+- Hidden
+  1. [Nana Mizuki - FINAL COMMANDER (Gravified) \[LAST BREATH\]](https://osu.ppy.sh/beatmapsets/1222526#osu/2542811)
+  2. [Nanamori-chu \* Goraku-bu - Happy Time wa Owaranai (Cut Ver.) (-Keitaro) \[Insane\]](https://osu.ppy.sh/beatmapsets/1057015#osu/2210722)
+  3. [Hino Isuka - Mechanical Jager (Livia) \[MEGA\]](https://osu.ppy.sh/beatmapsets/902823#osu/1884850)
+- HardRock
+  1. [School Food Punishment - RPG (Moete) \[Remorse\]](https://osu.ppy.sh/beatmapsets/1393720#osu/2877058)
+  2. [ak+q - Ignotus (Ryuusei Aika) \[FUTURE+\]](https://osu.ppy.sh/beatmapsets/761244#osu/1600778)
+  3. [sakuraburst - Glacierfall (Park Remix) (ScubDomino) \[celine's exp\*rt\]](https://osu.ppy.sh/beatmapsets/1329045#osu/2769942)
+- DoubleTime
+  1. [Matsushita - Kiritorisen (Millie) \[Origami feat. Seox\]](https://osu.ppy.sh/beatmapsets/1955342#osu/4049869)
+  2. [seleP feat. Lily - Re;2 (Elcheer) \[Re;Vengeance\]](https://osu.ppy.sh/beatmapsets/1557197#osu/3181150)
+  3. [Jun.A - Kawaii Daisensou no Refrain (Athanasia-) \[Insane (nerf)\]](https://osu.ppy.sh/beatmapsets/1783165#osu/3652107)
+  4. [zts - liberatedliberator (deetz) \[Dada's Insane\]](https://osu.ppy.sh/beatmapsets/907805#osu/1902670)
+- FreeMod
+  1. [Rohi - Slan Leat (VINXIS) \[RLC's Extra\]](https://osu.ppy.sh/beatmapsets/1177073#osu/2454945)
+  2. [Frums - Wavetapper (-jordan-) \[Expert\]](https://osu.ppy.sh/beatmapsets/1507849#osu/3088183)
+  3. [Tsukiko - Haruka Kanata (imoutosan) \[Error: 80 - 32\]](https://osu.ppy.sh/beatmapsets/138296#osu/362479)
+  4. [NIWASHI - Y (Down) \[PaRaDogi's Extra\]](https://osu.ppy.sh/beatmapsets/1689372#osu/3455084)
+- Tiebreaker
+  1. **[Masayoshi Minoshima feat.nomico - Lost Emotion (Amane UK Hardcore Remix) (MaridiuS) \[Despondency\]](https://osu.ppy.sh/beatmapsets/618953#osu/1304748)**
+
 ### Finals (week 1)
 
 **[Download the mappack here! (159 MB)](https://mappack.yewonkim.tk/download?filename=oasis2023f1678040967898.zip)**
@@ -220,6 +251,27 @@ Listed below are the players who managed to qualify into the Round of 16 (along 
   3. [HyuN - Illusion of Inflict (Icekalt) \[Light Insane\]](https://osu.ppy.sh/beatmapsets/968923#osu/2041171)
 
 ## Match results
+
+### Finals (week 1)
+
+Friday, 10 March 2023:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Icun](https://osu.ppy.sh/users/17908427) ::{ flag=ID }:: | 3 | **7** | ::{ flag=ID }:: **[nsfuu](https://osu.ppy.sh/users/10849159)** | [#1](https://osu.ppy.sh/community/matches/107284824) |
+
+Saturday, 11 March 2023:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [cerena](https://osu.ppy.sh/users/5411734) ::{ flag=ID }:: | 3 | **7** | ::{ flag=ID }:: **[SDKO](https://osu.ppy.sh/users/4858555)** | [#1](https://osu.ppy.sh/community/matches/107300886) |
+
+Sunday, 12 March 2023:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[im a cute bunny](https://osu.ppy.sh/users/12578000)** ::{ flag=ID }:: | **7** | 4 | ::{ flag=ID }:: [akebono](https://osu.ppy.sh/users/1815316) | [#1](https://osu.ppy.sh/community/matches/107306855) |
+| Lower | [nsfuu](https://osu.ppy.sh/users/10849159) ::{ flag=ID }:: | 0 | **7** | ::{ flag=ID }:: **[SDKO](https://osu.ppy.sh/users/4858555)** | *win by default* |
 
 ### Semifinals
 
