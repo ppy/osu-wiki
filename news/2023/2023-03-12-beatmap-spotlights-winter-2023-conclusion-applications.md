@@ -24,10 +24,10 @@ The results of both the curator and player picks will be announced at the launch
 
 Check out each respective game mode's contest and vote today:
 
-- [osu!](https://osu.ppy.sh/community/contests/156)
-- [osu!taiko](https://osu.ppy.sh/community/contests/157)
-- [osu!catch](https://osu.ppy.sh/community/contests/158)
-- [osu!mania](https://osu.ppy.sh/community/contests/159)
+- [osu!](https://osu.ppy.sh/community/contests/171)
+- [osu!taiko](https://osu.ppy.sh/community/contests/172)
+- [osu!catch](https://osu.ppy.sh/community/contests/173)
+- [osu!mania](https://osu.ppy.sh/community/contests/174)
 
 The voting will remain open for **7 days** from the date of this news post, so make sure to vote in time!
 
