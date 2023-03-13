@@ -137,7 +137,7 @@ Notes:
 
 Notes:
 
-- The sample played when hovering above Charts in the main menu.
+- The sample played when hovering above `Charts` in the main menu.
 
 ---
 
