@@ -6,6 +6,8 @@ tags:
   - tidsseksjon
   - kiai -modus
 no_native_review: true
+outdated_since: 6ba070987dcb26a0db6d9758aec6ad510c6a1b50
+outdated_translation: true
 ---
 
 # Kiai -tid
