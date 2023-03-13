@@ -151,7 +151,7 @@ Als Teil der Aprilscherze für 2016 drehte sich der [osu!-Cookie](/wiki/Brand_id
 
 ## 2017
 
-Wie in einem [Tweet von peppy](https://twitter.com/ppy/status/848021525663842304) angekündigt, gab es im Jahre 2017 aufgrund der Entwicklung der Lazer-Version des osu!-Clients keinen Aprilscherz.
+Wie in einem [Tweet von peppy](https://twitter.com/ppy/status/848021525663842304) angekündigt, gab es im Jahre 2017 aufgrund der Entwicklung der [Lazer-Version](/wiki/Client/Release_stream/Lazer) des osu!-Clients keinen Aprilscherz.
 
 ## 2018
 
