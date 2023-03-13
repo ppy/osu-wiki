@@ -42,10 +42,11 @@ The osu!taiko World Cup 2023 is run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) |
-| Mappool selector | *TBA* |
+| Mappool selector | ::{ flag=GB }:: **[mangomizer](https://osu.ppy.sh/users/1893718)**, ::{ flag=US }:: [Lumenite\-](https://osu.ppy.sh/users/6256027), ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910), ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097) |
+| Mappool playtester | ::{ flag=JP }:: [4sbet1](https://osu.ppy.sh/users/11563671), ::{ flag=BR }:: [HiroK](https://osu.ppy.sh/users/4050738), ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352), ::{ flag=SE }:: [Nurend](https://osu.ppy.sh/users/9905079), ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650) |
 | Commentator | *TBA* |
 | Referee | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=IN }:: [Speshimen](https://osu.ppy.sh/users/7720204), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=US }:: [\[K\]](https://osu.ppy.sh/users/16551387) |
-| Statistician | ::{ flag=BR }:: **[LeoFLT](https://osu.ppy.sh/users/3668779)**, ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899) |
+| Statistician | ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899) |
 
 ## Links
 
@@ -98,6 +99,28 @@ The osu!taiko World Cup 2023 is run by various community members.
 | ::{ flag=VN }:: | **Vietnam** | **[davidminh0111](https://osu.ppy.sh/users/9623142)**, [-M\_A\_T\_C\_H\_A-](https://osu.ppy.sh/users/26012543), [crazynt\_ngu](https://osu.ppy.sh/users/7844013), [hi\_there\_osu](https://osu.ppy.sh/users/22698999), [njshift1](https://osu.ppy.sh/users/16688499), [Creeperbrine303](https://osu.ppy.sh/users/22515524) |
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad463970c6b5c22f623fcefd8d5e63d#file-twc-2023-player-list-csv). 
+
+## Mappools
+
+### Qualifiers
+
+**[Download the mappack here (52 MB)](https://drive.google.com/uc?id=14RYknWcAXdrIXN7K5PBgxp6fMlOn5Szb)**
+
+- No Mod
+  1. [Rabbit House - Seculo Seculorum (raynald) \[Forever\]](https://osu.ppy.sh/beatmapsets/1955322#taiko/4049804)
+  2. [False Noise - Space Angel (Cut Ver.) (4sbet1) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1955325#taiko/4049809)
+  3. [Rish feat. Choko - Take (\_gt) \[1200\]](https://osu.ppy.sh/beatmapsets/1955326#taiko/4049810)
+- Hidden
+  1. [Silentroom - NULCTRL (Boaz) \[NYCTOPHOBIA\]](https://osu.ppy.sh/beatmapsets/1955317#taiko/4049793)
+  2. [ELFENSJoN - INHERIT (flr) \[RECEIVE\]](https://osu.ppy.sh/beatmapsets/1955340#taiko/4049866)
+- Hard Rock
+  1. [Cinamoro - Variations on D Minor (feat. PLORALD) (Nwolf) \[Variations on Nwolf\]](https://osu.ppy.sh/beatmapsets/1955319#taiko/4049801)
+  2. [UNDEAD CORPORATION - Blow (Grimbow) \[Oni\]](https://osu.ppy.sh/beatmapsets/1955320#taiko/4049802)
+- Double Time
+  1. [meganeko - Ninox (osu! edit) (Nao Tomori) \[Oni\]](https://osu.ppy.sh/beatmapsets/1955324#taiko/4049807)
+  2. [kakichoco - Hakudou (Nardoxyribonucleic) \[Oni\]](https://osu.ppy.sh/beatmapsets/1955347#taiko/4049875)
+- FreeMod
+  1. [Zekk - ReIMEI (cdh) \[AsHITA\]](https://osu.ppy.sh/beatmapsets/1955236#taiko/4049602)
 
 ## Ruleset
 
