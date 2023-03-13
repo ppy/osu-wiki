@@ -103,7 +103,7 @@ Skor yang berada pada peringkat 500 atau lebih tinggi pada masing-masing tingkat
 
 Sejak awal berdirinya osu!, komunitas osu! telah banyak berinisiatif untuk dapat mengedepankan berbagai beatmap yang dinilai unik dan luar biasa. Salah satu upaya yang dilakukan oleh komunitas osu! untuk melakukan hal ini adalah dengan membuat Ranking Chart bulanan dan musiman, yang berisikan berbagai beatmap pilihan yang berasal dari kurun waktu tertentu. Setiap bulan atau musimnya, pemain yang berhasil memperoleh total skor terbanyak dari seluruh map yang terkandung dalam masing-masing Ranking Chart akan memperoleh [osu!supporter](/wiki/osu!supporter).
 
-Seiring berjalannya waktu, sistem Ranking Chart ini kemudian perlahan mulai berubah wujud menjadi [Beatmap Spotlights](/wiki/Beatmap_Spotlights) modern yang memanfaatkan fitur *playlist* milik osu!(lazer).
+Seiring berjalannya waktu, sistem Ranking Chart ini kemudian perlahan mulai berubah wujud menjadi [Beatmap Spotlights](/wiki/Beatmap_Spotlights) modern yang memanfaatkan fitur *playlist* milik [osu!(lazer)](/wiki/Client/Release_stream/Lazer).
 
 ### Kontes beatmap
 

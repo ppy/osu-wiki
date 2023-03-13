@@ -65,7 +65,7 @@ Hier sind einige Beispiele, wie du beitragen kannst:
 
 ## Trage zur Zukunft von osu! bei!
 
-Das 2017 gestartete osu!(lazer)-Projekt ist der aktuelle Schwerpunkt des osu!-Teams, zusammen mit der neuen Webseite, die du heute siehst! Wenn du dabei helfen möchtest, diese Projekte noch besser zu machen und uns näher an die Zukunft von osu! zu bringen, dann gibt es eine Reihe von Dingen, die du machen kannst, unten sind jedoch nur einige Beispiele:
+Das 2017 gestartete [osu!(lazer)](/wiki/Client/Release_stream/Lazer)-Projekt ist der aktuelle Schwerpunkt des osu!-Teams, zusammen mit der neuen Webseite, die du heute siehst! Wenn du dabei helfen möchtest, diese Projekte noch besser zu machen und uns näher an die Zukunft von osu! zu bringen, dann gibt es eine Reihe von Dingen, die du machen kannst, unten sind jedoch nur einige Beispiele:
 
 - Hilf im [osu!(lazer)](https://github.com/ppy/osu)-Projekt. Es gibt in der neuen Version von osu! so viel zu implementieren und du kannst dabei helfen!
 - Mache die [Webseite](https://github.com/ppy/osu-web) noch besser.

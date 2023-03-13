@@ -161,7 +161,7 @@ tags:
 
 如果该玩家**确实**游玩了所有游戏模式，我们将使用一个 [非线性函数](https://www.desmos.com/calculator/b89siyv9j8) 来计算这个用户名的保持时间。这样是为了防止有人抢占活跃玩家或只是近期不活跃的玩家的用户名。
 
-另外，你不能拿走拥有 [ranked 铺面](/wiki/Beatmap/Category#ranked) 或 [个人资料徽章](/wiki/Community/Profile_badge) 的玩家的用户名。
+另外，你不能拿走拥有 [ranked 铺面](/wiki/Beatmap/Category#上架-(ranked)) 或 [个人资料徽章](/wiki/Community/Profile_badge) 的玩家的用户名。
 
 ### 我可以改回我之前使用的用户名么？ {#revert-username}
 
