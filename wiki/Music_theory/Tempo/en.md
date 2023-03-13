@@ -32,4 +32,3 @@ Many osu! elements base their timings around the current song's tempo:
 The [Timing](/wiki/Client/Beatmap_editor/Timing) tab of the [beatmap editor](/wiki/Client/Beatmap_editor) contains a BPM estimation tool, which assists in finding a beatmap's timing settings by calculating them from tapping along with the song. The results obtained, however, usually require additional adjustment to be fully synced with the song.
 
 Most modern songs use a single BPM, which requires a single timing point. More complex songs may require multiple timing points and metronome resets<!-- TODO: link --> to be timed correctly. Timing points are shown as red lines in the timeline at the bottom of the editor.
-
