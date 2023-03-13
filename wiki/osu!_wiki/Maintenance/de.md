@@ -44,7 +44,7 @@ Bedenke, dass beim Hinzufügen von Weiterleitungen für neue oder bereits existi
 
 Das Repository für das osu!-Wiki nutzt [kontinuierliche Integration](https://docs.github.com/de/actions/automating-builds-and-tests/about-continuous-integration) (auch *continuous integration* oder *CI* genannt), um eingegangene Änderungsanfragen automatisch auf typische Fehler zu überprüfen. Die Liste der Checks wird in der Datei [`continuous-integration.yml`](https://github.com/ppy/osu-wiki/blob/master/.github/workflows/continuous-integration.yml) konfiguriert.
 
-Die Datei [`package.json`](https://github.com/ppy/osu-wiki/blob/master/package.json) listet alle Plugins ([remark](https://github.com/remarkjs/remark)) auf, die in der CI genutzt werden. Manche davon wurden von den Betreuern des osu!-Wikis entwickelt.
+Die Datei [`package.json`](https://github.com/ppy/osu-wiki/blob/master/package.json) listet alle ([remark](https://github.com/remarkjs/remark)) Plugins auf, die in der CI genutzt werden. Manche davon wurden von den Betreuern des osu!-Wikis entwickelt.
 
 Die CI-Checks laufen automatisch bei jedem Commit eines regelmäßigen Mitwirkenden. Damit die Änderungsanfrage akzeptiert wird, wird von den Mitwirkenden erwartet, dass sie alle Fehler beheben, die von der CI aufgezeigt werden. Um den [Status der Überprüfungen](img/ci-status.png) zu sehen, mache das Folgende:
 
@@ -71,7 +71,7 @@ Nachstehend findest du eine Tabelle mit allen CI-Kontrollen in der richtigen Rei
 
 ##### Lint-Regel [`no-heading-punctuation`](https://github.com/remarkjs/remark-lint/tree/main/packages/remark-lint-no-heading-punctuation) von remark für Markdown
 
-Titel sind im Allgemeinen keine vollständigen Sätze. Dadurch treten Satzzeichen am Ende von Überschriften normalerweise nicht auf und sind auch nicht erlaubt. Satzzeichen am Ende des Titels werden jedoch manchmal gebraucht, da sie beispielsweise in Songtiteln oder Künstlernamen enthalten sind.
+Titel sind im Allgemeinen keine vollständigen Sätze. Dadurch treten Satzzeichen am Ende von Überschriften normalerweise nicht auf und sind auch nicht erlaubt. Satzzeichen am Ende des Titels werden jedoch manchmal gebraucht, wenn sie beispielsweise in Songtiteln oder Künstlernamen enthalten sind.
 
 ```markdown
 <!-- lint ignore no-heading-punctuation -->
@@ -122,7 +122,7 @@ Einige Features sind nicht direkt mit der osu!-Webseite verwandt, können aber n
 - [osu-wiki status](https://osu.wiki/status/de): Listet alle Artikel pro Sprache auf und die Kategorie der Instandhaltung, die sie benötigen (Übersetzung, Aktualisierung, Erweiterung von unvollständigen Artikeln). Siehe [ppy/osu-wiki#2486](https://github.com/ppy/osu-wiki/issues/2486) für Funktionalitätswünsche.
 - [osu-wiki-bin](https://github.com/cl8n/osu-wiki-bin): ein Node.js-Hilfsprogramm für automatische Überprüfungen und Bearbeitungen (defekte Links, Aktualisierungen in Nutzergruppen, Textersetzungen im gesamten Wiki und andere Dinge)
 - [osu-wiki-tools](https://github.com/Walavouchey/osu-wiki-tools): ein Python-Tool für automatisierte Überprüfungen (kaputte Links, nicht mehr aktuelle Artikel), die in der CI verwendet werden
-- [scissors](https://github.com/TicClick/scissors): ein Rust-Tool zur Überprüfung von Unstimmigkeiten zwischen Benutzernamen und Länderkennzeichen in Benutzerlinks
+- [scissors](https://github.com/TicClick/scissors): ein Rust-Tool zur Überprüfung von Unstimmigkeiten zwischen Benutzernamen und Länderflaggen in Benutzerlinks
 
 ## Abläufe
 
