@@ -3,6 +3,8 @@ no_native_review: true
 stub: true
 tags:
   - BPM
+outdated_translation: true
+outdated_since: e41f859079680fcfa5a56db92d53ecad540fad4b
 ---
 
 # Tempo

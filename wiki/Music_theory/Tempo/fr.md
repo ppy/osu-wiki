@@ -3,6 +3,8 @@ stub: true
 tags:
   - BPM
   - tempo
+outdated_translation: true
+outdated_since: e41f859079680fcfa5a56db92d53ecad540fad4b
 ---
 
 # Battement par minute
