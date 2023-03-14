@@ -30,5 +30,4 @@ However, if multiple mods are enabled, the score multiplier value would be the t
 ## Trivia
 
 - The Mod Multiplier is shown on osu!(Stable)'s `Mod Selection Screen` as "Score Multiplier", while in osu!lazer it is shown as "Difficulty Multiplier". Nevertheless, it is still a part of the Score Multiplier.
-
 - osu! used to round down the Score Multiplier to the nearest hundredth until a patch<!-- in (year)--> fixed the rounding problem by only rounding up if the thousandths value is 0.005 or higher.
