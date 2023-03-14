@@ -114,7 +114,6 @@ The [Ranking Criteria](/wiki/Ranking_Criteria#audio) specifies that average bit 
 4. Pick a file location to save the file, then click `Save` and a new dialog will appear for you to optionally enter in the metadata of the audio file.
 
 5. Once done filling out the metadata, click `OK` to start re-encoding.
-
 ### Using FFmpeg
 
 To encode in the MP3 format, paste the following command into your terminal and change the values as needed:
