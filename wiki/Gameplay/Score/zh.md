@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: e0b3202c9065e43dcc36608ebc3605db8852e02e
+---
+
 # 分数
 
 *对于其他用法，请参阅[分数（消歧义)](/wiki/Disambiguation/Score)。*
