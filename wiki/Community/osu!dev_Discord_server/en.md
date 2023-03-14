@@ -9,9 +9,9 @@ tags:
 
 The permanent invite link is <https://discord.gg/ppy>.
 
-## Verification
+## New Members
 
-New members of the server aren't allowed to send messages by default. If they want to send messages, they can post in `#arrival` with a brief overview of their intentions, and a member of the osu! team will add a role that lifts the restriction.
+New members of the server may feel free to introduce themselves in the `#introductions` channel. Doing so is not a requirement to interact with the rest of the server.
 
 ## Projects
 
