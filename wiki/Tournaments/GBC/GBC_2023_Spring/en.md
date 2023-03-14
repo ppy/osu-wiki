@@ -29,13 +29,15 @@ The **GB Cup 2023 Spring** (***GBC 2023 Spring***) is a osu!mania 4-key points-b
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| *Full attendance award* | 15 RMB(Group B), 20 RMB (Group A), 25 RMB(Group S), 30 RMB(Group EX) |
+| *Full attendance award* | KanonBot profile badge(All Group), 15 RMB(Group B), 25 RMB (Group A), 35 RMB(Group S), 45 RMB(Group EX) |
 | ![Gold crown](/wiki/shared/crown-gold.png "playoff 1st place") | Profile badge(Pending), KanonBot profile badge, 100 RMB |
-| ![Silver crown](/wiki/shared/crown-silver.png "playoff 2nd place") | KanonBot profile badge, 80 RMB |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "playoff 3rd place") | KanonBot profile badge, 50 RMB |
-| *playoff 4th place* | 30 RMB |
-| *playoff 5th place ~ 6th place* | 20 RMB |
-| *playoff 7th place ~ 16th place* | 10 RMB |
+| ![Silver crown](/wiki/shared/crown-silver.png "playoff 2nd place") | KanonBot profile badge, 90 RMB |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "playoff 3rd place") | KanonBot profile badge, 70 RMB |
+| *playoff 4th place* | 50 RMB |
+| *playoff 5th place ~ 6th place* | 40 RMB |
+| *playoff 7th place ~ 8th place* | 30 RMB |
+| *playoff 9th place ~ 12th place* | 20 RMB |
+| *playoff 13th place ~ 16th place* | 10 RMB |
 
 ## Organisation
 
@@ -44,12 +46,12 @@ The GB Cup 2023 Spring is run by the Team GB and various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
-| Stuff | ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [\[GB\]Natro](https://osu.ppy.sh/users/27233308), ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260), ::{ flag=CN }:: [\[GB\]V1do](https://osu.ppy.sh/users/17527968), ::{ flag=CN }:: [Lucky Clover](https://osu.ppy.sh/users/24989144), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [\[GB\]sherweifa](https://osu.ppy.sh/users/17457562), ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [\[GB\]Akamite](https://osu.ppy.sh/users/13418334) |
+| Staff | ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [\[GB\]Natro](https://osu.ppy.sh/users/27233308), ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260), ::{ flag=CN }:: [\[GB\]V1do](https://osu.ppy.sh/users/17527968), ::{ flag=CN }:: [Lucky Clover](https://osu.ppy.sh/users/24989144), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [\[GB\]sherweifa](https://osu.ppy.sh/users/17457562), ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [\[GB\]Akamite](https://osu.ppy.sh/users/13418334), ::{ falg=CN }:: [alivn](https://osu.ppy.sh/users/15807665) |
 | Mappool selector | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260), ::{ flag=CN }:: [\[GB\]V1do](https://osu.ppy.sh/users/17527968), ::{ flag=CN }:: [Lucky Clover](https://osu.ppy.sh/users/24989144), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [\[GB\]sherweifa](https://osu.ppy.sh/users/17457562), ::{ flag=GB }:: [-Deepdive-](https://osu.ppy.sh/users/13338645) |
 | Streamer | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617), ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273) |
 | Commentator | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
 | Designer | ::{ flag=CN }:: [\[GB\]Voidmoyu](https://osu.ppy.sh/users/16573996), ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
-| Referee | ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [\[GB\]Natro](https://osu.ppy.sh/users/27233308), ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260), ::{ flag=CN }:: [\[GB\]V1do](https://osu.ppy.sh/users/17527968), ::{ flag=CN }:: [Lucky Clover](https://osu.ppy.sh/users/24989144), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [\[GB\]sherweifa](https://osu.ppy.sh/users/17457562), ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [\[GB\]Akamite](https://osu.ppy.sh/users/13418334) |
+| Referee | ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [\[GB\]Natro](https://osu.ppy.sh/users/27233308), ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260), ::{ flag=CN }:: [\[GB\]V1do](https://osu.ppy.sh/users/17527968), ::{ flag=CN }:: [Lucky Clover](https://osu.ppy.sh/users/24989144), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [\[GB\]sherweifa](https://osu.ppy.sh/users/17457562), ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [\[GB\]Akamite](https://osu.ppy.sh/users/13418334), ::{ falg=CN }:: [alivn](https://osu.ppy.sh/users/15807665) |
 | Statistician & wiki editor | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [\[GB\]Natro](https://osu.ppy.sh/users/27233308), ::{ flag=CN }:: [FAIRYBYUN](https://osu.ppy.sh/users/17575228) |
 
 ## Links
@@ -60,7 +62,7 @@ The GB Cup 2023 Spring is run by the Team GB and various community members.
   - [Bilibili stream](https://live.bilibili.com/10183) (::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617))
   - [Bilibili stream](https://live.bilibili.com/6605693) (::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273))
 - [GBC QQ Group](https://jq.qq.com/?_wv=1027&k=zqBeTqMW)
-- [Statistics sheet](https://docs.qq.com/sheet/DTXNmQXJ2VG9qbWhY?tab=uitssi)
+- [Information spreadsheet](https://docs.qq.com/sheet/DTXNmQXJ2VG9qbWhY?tab=uitssi)
 
 ## Participants
 
@@ -75,9 +77,17 @@ The GB Cup 2023 Spring is run by the Team GB and various community members.
 
 ### Regular stage 1
 
+#### Group EX
+
+#### Group S
+
+#### Group A
+
+#### Group B
+
 ## Match results
 
-Due to the large number of players, the results will be presented using the **[Event Information Form](https://docs.qq.com/sheet/DTXNmQXJ2VG9qbWhY?tab=uitssi)**.
+Due to the large number of players, the match results will be presented using the **[Event Information Form](https://docs.qq.com/sheet/DTXNmQXJ2VG9qbWhY?tab=uitssi)**.
 
 ## Ruleset
 
@@ -100,9 +110,9 @@ Due to the large number of players, the results will be presented using the **[E
    - Custom skin elements **must not** be used to alter core gameplay mechanics.
 9. Possible mod choices for the FreeMod bracket are `No Fail`, `Hidden`, `Fade In`, `Flashlight`, and `Mirror`.
 10. The referees will select the beatmaps in order to play the match. If a player encounters a technical problem during the match, players can ask the referees to rematch the beatmap that encountered technical problems after all the beatmaps have been selected.
-   - "Lag spikes" will not be considered as a valid reason to rematch a beatmap.
-   - Even if you need to rematch the beatmap after all the beatmaps have been selected, you should first complete the scoring of other beatmaps in the graph pool.
-   - This rule should not to be abused. Referees may veto a rematch request if they find that this is the case.
+    - "Lag spikes" will not be considered as a valid reason to rematch a beatmap.
+    - Even if you need to rematch the beatmap after all the beatmaps have been selected, you should first complete the scoring of other beatmaps in the mappool.
+    - This rule should not to be abused. Referees may veto a rematch request if they find that this is the case.
 11. Unless there are special reasons, the organizer will only record each player's first score of the beatmap in the official room.
 12. The default rest time is **120 seconds**. If all the players in the room agree to start early and get ready, the referee can start the match early.
 13. Players are expected to keep the match running fluently and without delays. Excessive match delays from the players' side may result in penalties being applied at the referee's discretion. Disrupting the match by foul play, insulting or provoking other players or staff, delaying the match, or other deliberate inappropriate misbehaviour are strictly prohibited, and will be punished accordingly.
@@ -202,7 +212,7 @@ The rules are largely the same as in the regular season.
    - Both players will alternate picking a beatmap from the mappool.
      - If there is a tie in one beatmap, the beatmap will start again. A beatmap will not be restarted more than twice.
 8. Players are allowed to rematch if any player disconnects early on during a beatmap(Send a message in the game in time to notify the referee to restart the match).
-   - The match must aobrt before the match started more than 30 seconds or playing more than 1/4 of the beatmaps.
+   - If needed, the match must abort before the match started more than 30 seconds or playing more than 1/4 of the beatmaps.
    - The same mods and beatmap must be used when the match restarts.
    - Please make sure there are no technical issues before the start of the tournament.
 9. Unexpected incidents will be handled by the host. Referees may allow higher tolerance depending on the given circumstances. This is up to their discretion.
