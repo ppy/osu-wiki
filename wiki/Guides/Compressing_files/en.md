@@ -44,6 +44,7 @@ This section will show you how to remove audio from videos using [Handbrake](htt
 ![Removing audio tracks from the audio tab in Handbrake](img/removeaudio-handbrake.png "Removing the audio tracks")
 
 4. Go into the `Video` tab and make sure to set the following settings:
+
    - `Video Encoder` set to `H.264 (x264)` to encode in the H.264 format using the x264 encoder.
    - `Framerate (FPS)` set to `Same as source`, and select `Constant Framerate`.
    - `Constant Quality` set to a value between 20 to 25, with smaller values resulting in larger, higher quality files.
@@ -104,6 +105,7 @@ The [Ranking Criteria](/wiki/Ranking_Criteria#audio) specifies that average bit 
 ![Export as MP3](img/exportmenu-audacity.png "Export as MP3")
 
 3. Change the export options to the following settings to help compress your file:
+
    - For MP3, use `Preset` and select the quality as `Medium, 145-185 kbps`.
    - For OGG (Vorbis), set the `Quality` to a value of `5` which is the default value.
 
@@ -140,7 +142,6 @@ ffmpeg -i input -c:a libmp3lame -q:a 4 -vn -sn -map_metadata -1 -map_chapters -1
 - `-vn -sn`: Remove video and subtitles if present.
 - `-map_metadata -1 -map_chapters -1`: Remove metadata and chapters if present.
 - `output.ogg`: Your output file. If the file name contains spaces, wrap it around double quotes (`"`).
-
 
 ## Verification
 
