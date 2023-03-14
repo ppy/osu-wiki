@@ -113,7 +113,7 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | Chinês, cantonês |
 | ::{ flag=MX }:: [DakeDekaane](https://osu.ppy.sh/users/1425253) | Espanhol |
 | ::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142) | Vietnamita |
-| ::{ flag=BR }:: [DOUG](https://osu.ppy.sh/users/13806900) | Português |
+| ::{ flag=BR }:: [D0UG](https://osu.ppy.sh/users/13806900) | Português |
 | ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851) | Alemão |
 | ::{ flag=US }:: [hac](https://osu.ppy.sh/users/17853754) |  |
 | ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | Português |
@@ -136,21 +136,18 @@ As tabelas listadas abaixo listam os modos de jogo em qual cada Nomeador de Beat
 | Nome | Línguas adicionais |
 | :-- | :-- |
 | ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114) | Cantonês |
-| ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | Chinês, cantonês |
-| ::{ flag=NL }:: [GIGACHAD](https://osu.ppy.sh/users/11081858) | Holandês |
 | ::{ flag=PL }:: [Mniam](https://osu.ppy.sh/users/6050530) | Polonês |
+| ::{ flag=ZA }:: [Pieter](https://osu.ppy.sh/users/29282944) | Africâner, holandês |
 | ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276) | Coreano |
 | ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) |  |
 | ::{ flag=BR }:: [zerokt](https://osu.ppy.sh/users/13776127) | Português |
 | ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) | Espanhol |
-| ::{ flag=ZA }:: [Zuid-Afrikaan](https://osu.ppy.sh/users/29282944) | Africâner, holandês |
 
 #### osu!mania
 
 | Nome | Línguas adicionais |
 | :-- | :-- |
 | ::{ flag=TW }:: [_Rokii](https://osu.ppy.sh/users/12770065) | Chinês |
-| ::{ flag=KR }:: [-Ming-](https://osu.ppy.sh/users/20127755) | Coreano |
 | ::{ flag=AU }:: [[ Decku ]](https://osu.ppy.sh/users/13360768) |  |
 | ::{ flag=CN }:: [[Crz]Alleyne](https://osu.ppy.sh/users/11279273) | Chinês |
 | ::{ flag=TW }:: [[Sick]Catcat](https://osu.ppy.sh/users/11544934) | Chinês |
