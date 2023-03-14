@@ -88,9 +88,9 @@ La [página del grupo Nomination Assessment Team](https://osu.ppy.sh/groups/7) e
 | ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | Evaluador |
 | ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Chino | Evaluador |
 | ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Alemán | Evaluador |
-| ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Sueco | Asesor |
+| ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Sueco | Asesor[^task-naxess] |
 | ::{ flag=GB }:: [nexusqi](https://osu.ppy.sh/users/13822800) |  | Evaluador |
-| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | Asesor |
+| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | Asesor[^task-pishifat] |
 | ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | Evaluador |
 | ::{ flag=AT }:: [Stixy](https://osu.ppy.sh/users/9000308) | Alemán, serbio | Evaluador |
 | ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) |  | Asesor[^task-uberfazz] |
