@@ -88,7 +88,7 @@ ffmpeg -i input -c:v libx264 -crf 20 -preset slower -profile:v high -vf scale=-1
 
 ## Audio
 
-Audio encoded in either MP3 or OGG (Vorbis) formats are supported with `.mp3` and `.ogg` file extensions, respectively. Other formats such as AAC and OGG (Opus) and any lossless formats, with the exception of uncompressed PCM audio with the `.wav` file extension for hitsounds, are currently not supported by the game client.
+Audio encoded in either MP3 or OGG (Vorbis) formats are supported with `.mp3` and `.ogg` file extensions, respectively. Other formats such as AAC and OGG (Opus) and any lossless formats, except for uncompressed PCM audio with the `.wav` file extension for hitsounds, are currently not supported by the game client.
 
 OGG (Vorbis) generally provides better quality than MP3 for a given bitrate, and is also often used for hitsounds.
 
