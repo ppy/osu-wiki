@@ -499,6 +499,12 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 | :-: | :-: | :-- |
 | [Ice vs Yukino - R4incarnation](https://soundcloud.com/iceloki/r4incarnation-vs-yukino) | [#1](https://osu.ppy.sh/beatmapsets/1698384) | Desempate de la gran final |
 
+#### ![](/wiki/shared/mode/taiko.png) Squad Global Taiko Showdown 2023
+
+| Canción | Beatmap | Notas |
+| :-: | :-: | :-- |
+| [Null Specification - Crevasse Hoar](https://soundcloud.com/uchphppii24c/crevasse-hoar) | [#1](https://osu.ppy.sh/beatmapsets/1952276) | Desempate de la final |
+
 #### ![](/wiki/shared/mode/osu.png) The Perennial 2022
 
 | Canción | Beatmap | Notas |

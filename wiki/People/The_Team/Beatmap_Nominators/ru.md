@@ -55,8 +55,8 @@ tags:
 | ::{ flag=PL }:: [browiec](https://osu.ppy.sh/users/9426712) | Польский |
 | ::{ flag=KR }:: [Cellina](https://osu.ppy.sh/users/2490770) | Корейский |
 | ::{ flag=GB }:: [ckharv](https://osu.ppy.sh/users/9967026) |  |
+| ::{ flag=ID }:: [Creamy Candy](https://osu.ppy.sh/users/9769199) | Индонезийский |
 | ::{ flag=ES }:: [Didah](https://osu.ppy.sh/users/8030129) | Испанский |
-| ::{ flag=DE }:: [Dignan](https://osu.ppy.sh/users/4505918) | Немецкий |
 | ::{ flag=US }:: [eiri-](https://osu.ppy.sh/users/3388410) | Испанский |
 | ::{ flag=BE }:: [Enneya](https://osu.ppy.sh/users/10959501) | Нидерландский |
 | ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958) |  |
@@ -74,7 +74,7 @@ tags:
 | ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909) | Китайский |
 | ::{ flag=US }:: [Mimari](https://osu.ppy.sh/users/14339830) |  |
 | ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009) | Русский |
-| ::{ flag=DK }:: [Morrighan](https://osu.ppy.sh/users/12042090) | Датский |
+| ::{ flag=GB }:: [mnyui](https://osu.ppy.sh/users/14261540) |  |
 | ::{ flag=US }:: [Nao Tomori](https://osu.ppy.sh/users/5364763) |  |
 | ::{ flag=RU }:: [NeKroMan4ik](https://osu.ppy.sh/users/11387664) | Русский |
 | ::{ flag=SG }:: [neonat](https://osu.ppy.sh/users/1561995) | Китайский |
@@ -90,7 +90,6 @@ tags:
 | ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302) | Русский |
 | ::{ flag=US }:: [Smoke](https://osu.ppy.sh/users/10726630) |  |
 | ::{ flag=CA }:: [Sparhten](https://osu.ppy.sh/users/7601720) |  |
-| ::{ flag=FR }:: [Sotarks](https://osu.ppy.sh/users/4452992) | Французский |
 | ::{ flag=BE }:: [Stack](https://osu.ppy.sh/users/6122935) | Нидерландский |
 | ::{ flag=TH }:: [timemon](https://osu.ppy.sh/users/2072005) | Тайский |
 | ::{ flag=LT }:: [tomatas95](https://osu.ppy.sh/users/11403815) | Литовский |
@@ -99,7 +98,6 @@ tags:
 | ::{ flag=US }:: [wafer](https://osu.ppy.sh/users/9416836) |  |
 | ::{ flag=CN }:: [Yugu](https://osu.ppy.sh/users/3161834) | Китайский, японский |
 | ::{ flag=IT }:: [Zekk](https://osu.ppy.sh/users/9704802) | Итальянский |
-| ::{ flag=SE }:: [Zer0-](https://osu.ppy.sh/users/4260033) | Шведский |
 
 #### osu!taiko
 
@@ -114,7 +112,6 @@ tags:
 | ::{ flag=MX }:: [DakeDekaane](https://osu.ppy.sh/users/1425253) | Испанский |
 | ::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142) | Вьетнамский |
 | ::{ flag=BR }:: [DOUG](https://osu.ppy.sh/users/13806900) | Португальский |
-| ::{ flag=BE }:: [Enneya](https://osu.ppy.sh/users/10959501) | Нидерландский |
 | ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851) | Немецкий |
 | ::{ flag=US }:: [hac](https://osu.ppy.sh/users/17853754) |  |
 | ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | Португальский |
@@ -201,18 +198,21 @@ tags:
 | Имя | Языки |
 | :-- | :-- |
 | ::{ flag=JP }:: [-Rei](https://osu.ppy.sh/users/8200707) | Японский |
-| ::{ flag=ID }:: [Creamy Candy](https://osu.ppy.sh/users/9769199) | Индонезийский |
 | ::{ flag=CA }:: [Lafayla](https://osu.ppy.sh/users/5312547) |  |
 | ::{ flag=CA }:: [MochiA](https://osu.ppy.sh/users/9312734) |  |
 | ::{ flag=CA }:: [Nijika Ijichi](https://osu.ppy.sh/users/10964252) |  |
-| ::{ flag=RU }:: [riffy](https://osu.ppy.sh/users/597957) | Русский |
+| ::{ flag=FR }:: [Sotarks](https://osu.ppy.sh/users/4452992) | Французский |
 | ::{ flag=BA }:: [Stompy_](https://osu.ppy.sh/users/16429579) |  |
+| ::{ flag=SE }:: [Zer0-](https://osu.ppy.sh/users/4260033) | Шведский |
 
 #### osu!taiko
 
 | Имя | Языки |
 | :-- | :-- |
-| ::{flag=US}:: [maxie](https://osu.ppy.sh/users/6447505) |  |
+| ::{ flag=BR }:: [-Flashlight-](https://osu.ppy.sh/users/9731062) | Португальский |
+| ::{ flag=MY }:: [cdh](https://osu.ppy.sh/users/2403621) | Малайский |
+| ::{ flag=BE }:: [Enneya](https://osu.ppy.sh/users/10959501) | Нидерландский |
+| ::{ flag=US }:: [maxie](https://osu.ppy.sh/users/6447505) |  |
 
 #### osu!catch
 
@@ -226,7 +226,8 @@ tags:
 | Имя | Языки |
 | :-- | :-- |
 | ::{ flag=CN }:: [AWMRone](https://osu.ppy.sh/users/10351684) | Китайский |
-| ::{ flag= US}:: [Monoseul](https://osu.ppy.sh/users/16010604) |  |
+| ::{ flag=GB }:: [Hydria](https://osu.ppy.sh/users/808176) |  |
+| ::{ flag=US }:: [Monoseul](https://osu.ppy.sh/users/16010604) |  |
 | ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) |  |
 
 ## История

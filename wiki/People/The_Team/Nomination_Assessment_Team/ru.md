@@ -87,7 +87,6 @@ NAT самостоятельно отслеживает появление но�
 | :-- | :-- | :-- |
 | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | Испанский, немецкий | Evaluator |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Нидерландский | Evaluator |
-| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  | Evaluator |
 
 ### osu!mania
 

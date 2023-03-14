@@ -501,6 +501,12 @@ Ces chansons font partie du [osu! James Landino Collection EP](https://fanlink.t
 | :-: | :-: | :-- |
 | [Ice vs Yukino - R4incarnation](https://soundcloud.com/iceloki/r4incarnation-vs-yukino) | [#1](https://osu.ppy.sh/beatmapsets/1698384) | Tiebreaker des Grandes Finales |
 
+#### ![](/wiki/shared/mode/taiko.png) Squad Global Taiko Showdown 2023
+
+| Musique | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [Null Specification - Crevasse Hoar](https://soundcloud.com/uchphppii24c/crevasse-hoar) | [#1](https://osu.ppy.sh/beatmapsets/1952276) | Tiebreaker des finales |
+
 #### ![](/wiki/shared/mode/osu.png) The Perennial 2022
 
 | Musique | Beatmap | Notes |
