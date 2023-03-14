@@ -30,8 +30,6 @@ La [beatmap](/wiki/Beatmap) ["Best of No.1 Hits - Lemon Tree (MillhioreF)"](http
 
 Après un certain temps, la beatmap originale a été supprimée à la demande de son créateur, mais elle a finalement été remise en ligne le 24 août 2012 par [MillhioreF](https://osu.ppy.sh/users/941094) à des fins d'archivage.[^lemontree-post-millhioref]
 
----
-
 ## 2010
 
 ### touhosu!
@@ -46,15 +44,11 @@ La plaisanterie découle en grande partie d'une [demande de fonctionnalité de l
 
 Il a également été rapporté à l'époque que [Ephemeral](https://osu.ppy.sh/users/102335) avait fait remarquer en plaisantant que l'achat d'un tag osu!supporter ferait apparaître une Marisa Kirisame nue sur l'écran du menu principal au lieu d'une Marisa entièrement habillée. Cependant, cette affirmation n'était qu'une blague et a été rapidement réfutée par d'autres.[^touhousu-forums-2]
 
----
-
 ## 2011
 
 ### osu!core
 
 "osu!core" est le nom donné à la blague du poisson d'avril 2011 d'osu!. Cette blague a eu pour effet d'accélérer le son de chaque beatmap dans le style des remixes de [Nightcore](https://fr.wikipedia.org/wiki/Nightcore). Bien qu'il ne s'agisse que d'un poisson d'avril, il est devenu réalité lorsque le mod [Nightcore](/wiki/Game_modifier/Nightcore) a été introduit en tant que [modificateur de jeu](/wiki/Game_modifier) jouable dans osu! plus tard.[^nightcore-yt][^nightcore-frontpage][^fl-forums]
-
----
 
 ## 2012
 
@@ -76,7 +70,7 @@ Le "Bad Apple Ranking Chart" était un tableau de classement basé sur une vari�
 
 > Attendez avec impatience nos prochains graphiques, les graphiques Renai Circulation et Irony !
 
-— Cyclone, "Bad Apple Ranking Chart!"][^bad-apple-news]
+—Cyclone, "Bad Apple Ranking Chart!"[^bad-apple-news]
 
 Le classement a été ouvert le 1er avril 2012 et fermé le 2 avril 2012. A la fin de la période de classement, [Mesita](https://osu.ppy.sh/users/201459) était le joueur numéro 1 avec un score classé de 145,623,328.[^bad-aple-frontpage]
 
@@ -95,8 +89,6 @@ Les beatmaps inclus dans le tableau de classement sont énumérés ci-dessous :
 
 Le clip de "Bad Apple!!" était une sorte de blague à l'époque, les remixes de la musique combinés à d'autres tournures ironiques étant monnaie courante dans les beatmaps de l'époque, d'où son apparition en tant que poisson d'avril.
 
----
-
 ## 2013
 
 ### BanchoBot devient une tsundere
@@ -107,8 +99,6 @@ Le 1er avril 2013, [BanchoBot](/wiki/BanchoBot) a été transformé en [tsundere
 
 ![](img/2013-tsundere-banchobot.jpg "Interactions avec BanchoBot le 1er avril 2013")
 
----
-
 ## 2014
 
 ### Shiba Inu apparaît dans osu!
@@ -116,8 +106,6 @@ Le 1er avril 2013, [BanchoBot](/wiki/BanchoBot) a été transformé en [tsundere
 Le 1er avril 2014, l'écran du menu principal d'osu! a été temporairement modifié (illustré ci-dessous) pour inclure des déclarations multicolores et grammaticalement incorrectes accompagnées de la célèbre image d'un certain [Shiba Inu](https://fr.wikipedia.org/wiki/Shiba_(chien)) dans le style du [Doge meme](https://fr.wikipedia.org/wiki/Doge_(mème)) qui était populaire à l'époque.[^shiba-inu-reddit][^shiba-inu-reddit-2][^shiba-inu-forums]
 
 ![](img/2014-main-screen-doge.jpg "L'écran principal d'osu! le 1er avril 2014")
-
----
 
 ## 2015
 
@@ -131,7 +119,7 @@ Le 31 mars 2015, [peppy](https://osu.ppy.sh/users/2) a publié [un newspost](htt
 
 > Au taux de rendement actuel, il serait peu probable que je puisse acheter un jet personnel de mon vivant, ce qui est l'un de mes principaux objectifs de vie. J'ai donc discuté avec l'équipe des autres formes de monétisation possibles, en étudiant les tendances actuelles des jeux gratuits similaires actuellement disponibles sur le marché.
 
-— peppy, "osu!coins"][^osu-coins-news]
+—peppy, "osu!coins"[^osu-coins-news]
 
 *Remarque : En [temps universel coordonné (UTC)](https://fr.wikipedia.org/wiki/Temps_universel_coordonné), le message a été publié le 31 mars 2015. Cependant, au moment de la publication, peppy vivait actuellement en Australie, où la date actuelle était le 1er avril 2015.*
 
@@ -140,8 +128,6 @@ En bref, pour jouer ou recommencer une [beatmap](/wiki/Beatmap), les utilisateur
 L'écran principal d'osu! comportait également un barrage d'osu!coins qui montaient lentement en arrière-plan, ainsi qu'un thème principal légèrement modifié, dans lequel l'exclamation "circles!" était remplacée par un "and buy the coins" à la sonorité robotique avant le beat drop. De nouvelles textures, des effets sonores, des animations et de la musique ont été créés pour cette blague, y compris un compteur qui affiche le nombre d'osu!coins dont disposent les joueurs tout au long de leurs parties.[^osu-coins-yt-2][^osu-coins-yt-3]
 
 La mise à jour a été généralement bien accueillie par les joueurs et a bénéficié d'un soutien réel pour une mise en œuvre future sans monétisation. Malgré cela, peppy a annulé l'implémentation d'osu!coins le jour suivant avec [une remarque dans la mise à jour du journal des modifications](https://osu.ppy.sh/comments/121803) sur les commentaires.[^osu-coins-yt-4][^osu-coins-forums][^osu-coins-changelog]
-
----
 
 ## 2016
 
@@ -167,13 +153,9 @@ Le 1er avril 2016, de nombreux joueurs d'osu! ont eu la surprise de découvrir q
 
 Dans le cadre de la poignée de blagues du poisson d'avril 2016, l'[osu! cookie](/wiki/Brand_identity_guidelines) du site web d'osu! tournait occasionnellement de 180 degrés dans le sens des aiguilles d'une montre, puis repartait rapidement à la verticale de 180 degrés dans la même direction.[^osu-cookie-forums][^osu-cookie-frontpage][^osu-cookie-forums-2][^osu-cookie-forums-3]
 
----
-
 ## 2017
 
-Comme annoncé dans un [Tweet de peppy](https://twitter.com/ppy/status/848021525663842304), il n'y a pas eu de blague du poisson d'avril pour osu! en 2017 en raison du développement de la version lazer du client d'osu!.
-
----
+Comme annoncé dans un [Tweet de peppy](https://twitter.com/ppy/status/848021525663842304), il n'y a pas eu de blague du poisson d'avril pour osu! en 2017 en raison du développement de la version [lazer](/wiki/Client/Release_stream/Lazer) du client d'osu!.
 
 ## 2018
 
@@ -181,21 +163,17 @@ Comme annoncé dans un [Tweet de peppy](https://twitter.com/ppy/status/848021525
 
 Le 1er avril 2018, l'[osu! cookie](/wiki/Brand_identity_guidelines) de l'écran du menu principal tournait lentement dans le sens des aiguilles d'une montre au fur et à mesure que le temps passait, et le cookie de l'écran de sélection des beatmaps tournait lentement dans le sens inverse des aiguilles d'une montre. En passant la souris sur ces cookies, vous les agrandissez comme d'habitude, mais vous les faites tourner plus vite.[^osu-cookie-web-reddit][^osu-cookie-web-reddit-2][^osu-cookie-web-reddit-3][^osu-cookie-web-forums][^osu-cookie-web-forums-2]
 
----
-
 ## 2019
 
 ### Effet sonore d'une fille qui éternue
 
 Pour le poisson d'avril 2019, il y avait environ 1 chance sur 20 d'entendre l'effet sonore d'une fille qui éternue en ouvrant une beatmap.[^sneeze-reddit][^sneeze-reddit-2][^sneeze-forums]
 
----
-
 ## 2020
 
 ### MillhioreF rejoint les Featured Artists
 
-[MillhioreF](https://osu.ppy.sh/users/941094), un modérateur, développeur et joueur du mod [Easy](/wiki/Game_modifier/Easy) de longue date d'osu! - a été annoncé dans [un newspost](https://osu.ppy.sh/home/news/2020-04-01-new-featured-artist-millhioref) comme ayant "rejoint" la liste des [Featured Artists](/wiki/Featured_Artists) en tant que "Millhiore Firianno Biscotti" le 1er avril 2020 avec une sélection de cinq musiques pour commencer [^irish-fa] :
+[MillhioreF](https://osu.ppy.sh/users/941094), un modérateur, développeur et joueur du mod [Easy](/wiki/Game_modifier/Easy) de longue date d'osu! - a été annoncé dans [un newspost](https://osu.ppy.sh/home/news/2020-04-01-new-featured-artist-millhioref) comme ayant "rejoint" la liste des [Featured Artists](/wiki/Featured_Artists) en tant que "Millhiore Firianno Biscotti" le 1er avril 2020 avec une sélection de cinq musiques pour commencer :[^irish-fa]
 
 - Waltz o' the Irish
 - The Waltzing Irishman
@@ -208,8 +186,6 @@ Pour le poisson d'avril 2019, il y avait environ 1 chance sur 20 d'entendre l'ef
 ### Effet sonore d'une fille qui éternue
 
 Le poisson d'avril 2020 a recyclé la même blague de l'année précédente, ce qui a entraîné une probabilité d'environ 1 sur 20 d'entendre l'effet sonore d'une fille éternuant en ouvrant une beatmap.[^sneeze-2-reddit][^sneeze-2-reddit-2]
-
----
 
 ## 2021
 

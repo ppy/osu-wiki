@@ -53,15 +53,18 @@ NAT มีการเฝ้ามองผู้สมัคร NAT ที่�
 | ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) |  | Evaluator |
 | ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | เบลารุส, รัสเซีย | Evaluator |
 | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | กวางตุ้ง, จีน | Evaluator |
+| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | โปรตุเกส | Evaluator |
 | ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | Evaluator |
 | ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | จีน | Evaluator |
 | ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | เยอรมัน | Evaluator |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | สวีเดน | Advisor |
+| ::{ flag=GB }:: [nexusqi](https://osu.ppy.sh/users/13822800) |  | Evaluator |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | Advisor |
 | ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | Evaluator |
 | ::{ flag=AT }:: [Stixy](https://osu.ppy.sh/users/9000308) | เยอรมัน, เซอร์เบีย | Evaluator |
 | ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) |  | Advisor |
 | ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | ดัตช์ | Evaluator |
+| ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  | Evaluator |
 | ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | โปแลนด์ | Evaluator |
 
 ### osu!taiko
@@ -80,7 +83,6 @@ NAT มีการเฝ้ามองผู้สมัคร NAT ที่�
 | :-- | :-- | :-- |
 | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | สเปน, เยอรมัน | Evaluator |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | ดัตช์ | Evaluator |
-| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  | Evaluator |
 
 ### osu!mania
 

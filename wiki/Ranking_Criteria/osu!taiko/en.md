@@ -79,7 +79,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 #### Rules
 
-- **If a 1/2 pattern is used, the patterns must stay simplistic and be followed by a rest moment.** Finisher notes must not be used in patterns as such. For songs that follow a swing beat, this limit is 1/3.
+- **If a 1/2 pattern is used, the patterns must stay simplistic and be followed by a rest moment.** Colour changes or finisher notes must not be used in patterns as such. For songs that follow a swing beat, this limit is 1/3.
 - **Notes must be at least 1/2 of a beat apart.** Anything faster is too complex for beginner players. For songs which follow a swing beat, this limit is 1/3 instead.
 
 #### Guidelines
@@ -99,7 +99,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 #### Rules
 
-- **If a 1/3 pattern is used, the patterns must stay simplistic.** Finisher notes must not be used in patterns as such.
+- **If a 1/3 pattern is used, the patterns must stay simplistic.** Colour changes or finisher notes must not be used in patterns as such.
 - **Notes must be at least 1/3 of a beat apart.** Anything faster is too complex for beginner players.
 
 If a Futsuu difficulty is required and used as the *lowest difficulty* of a beatmap, it must also abide by these rules:

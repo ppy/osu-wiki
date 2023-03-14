@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: 445b42a5a6e2c8af0e0fc0c9f38ca1a67599ade3
 tags:
   - NAT
 ---
@@ -83,15 +85,18 @@ La [page du groupe de la Nomination Assessment Team](https://osu.ppy.sh/groups/7
 | ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) |  | Évaluateur |
 | ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | Biélorusse, russe | Évaluateur |
 | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonais, chinois | Évaluateur |
+| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Portugais | Évaluateur |
 | ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | Évaluateur |
 | ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Chinois | Évaluateur |
 | ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Allemand | Évaluateur |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Suédois | Conseiller[^task-naxess] |
+| ::{ flag=GB }:: [nexusqi](https://osu.ppy.sh/users/13822800) |  | Évaluateur |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | Conseiller[^task-pishifat] |
 | ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | Évaluateur |
 | ::{ flag=AT }:: [Stixy](https://osu.ppy.sh/users/9000308) | Allemand, serbe | Évaluateur |
 | ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) |  | Conseiller[^task-uberfazz] |
 | ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | Néerlandais | Évaluateur |
+| ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  | Évaluateur |
 | ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | Polonais | Évaluateur |
 
 ### osu!taiko
@@ -110,7 +115,6 @@ La [page du groupe de la Nomination Assessment Team](https://osu.ppy.sh/groups/7
 | :-- | :-- | :-- |
 | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | Espagnol, allemand | Évaluateur |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Néerlandais | Évaluateur |
-| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  | Évaluateur |
 
 ### osu!mania
 

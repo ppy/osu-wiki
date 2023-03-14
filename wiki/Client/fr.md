@@ -2,6 +2,8 @@
 stub: true
 tags:
   - game client
+outdated_translation: true
+outdated_since: 8bbc54dbe5020acbe00421da87d9d511d1538fe4
 ---
 
 # Client
