@@ -103,7 +103,7 @@ The [Ranking Criteria](/wiki/Ranking_Criteria#audio) specifies that average bit 
 
 ![Export as MP3](img/exportmenu-audacity.png "Export as MP3")
 
-3. Change the export options to the following setitngs to help compress your file:
+3. Change the export options to the following settings to help compress your file:
    - For MP3, use `Preset` and select the quality as `Medium, 145-185 kbps`.
    - For OGG (Vorbis), set the `Quality` to a value of `5` which is the default value.
 
