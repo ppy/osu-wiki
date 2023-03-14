@@ -11,7 +11,7 @@ There are 2 types of compression. **Lossless** and **Lossy** compression.
 - **Lossless** compression implies that the quality never degrades and can thus be repeatedly compressed and decompressed.
 - **Lossy** compression uses certain powerful techniques to greatly reduce file size at the expense of quality.
 
-The process of converting between audio and video formats, to reduce file size, average bitrate, or resolution, is called **re-encoding** or **transcoding**. Transcoding an already lossy-compressed audio or video using lossy compression can result in varying degrees of further quality reduction depending on the settings used.
+The process of converting between audio and video formats, to reduce file size, average bitrate, or resolution, is called **re-encoding** or **transcoding**. Re-encoding an already lossy-compressed audio or video using lossy compression can result in varying degrees of further quality reduction depending on the settings used.
 
 Due to that reason, re-encoding should be avoided except if the original audio or video file is any of the following:
 
@@ -23,7 +23,7 @@ In case re-encoding is necessary, it is suggested to use the highest-quality sou
 
 ## Video
 
-The osu! game client supports video encoded in the H.264 format with the `.mp4` file extension. Other formats such as H.265, VP9, and AV1 and file extensions such as `.mkv` and `.mov` are currently not supported.
+The osu! game client supports video encoded in the H.264 format with the `.mp4` file extension. Other formats such as H.265, VP9, and AV1 and file extensions such as `.mkv` and `.mov` are currently not supported by the game client.
 
 The [ranking criteria](/wiki/Ranking_Criteria#video_and_background) specify a maximum video resolution of 1280x720 pixels.
 
@@ -43,8 +43,13 @@ This section will show you how to remove audio from videos using [Handbrake](htt
 
 ![Removing audio tracks from the audio tab in Handbrake](img/removeaudio-handbrake.png "Removing the audio tracks")
 
-4. Go into the `Video` tab and make sure the video codec is set as `H.264 (X264)`. Change the `Constant Quality` to between 20–25. Smaller values will produce larger file sizes but with a higher video quality.
-5. If you are willing to spend more time encoding, change the `Encoder Preset` under `Encoder Options`. Slower presets deliver better video quality and may also reduce video file size, but do not go down to placebo as it takes much longer than `VerySlow` for very little improvement in quality. Set the framerate to be the same as the source and set it to constant framerate.
+4. Go into the `Video` tab and make sure to set the following settings:
+   - `Video Encoder` set to `H.264 (x264)` to encode in the H.264 format using the x264 encoder.
+   - `Framerate (FPS)` set to `Same as source`, and select `Constant Framerate`.
+   - `Constant Quality` set to a value between 20 to 25, with smaller values resulting in larger, higher quality files.
+   - `Encoder Profile` set to `High` to use the H.264 High profile.
+
+5. Set an `Encoder Preset` depending on how long you are willing to spend time encoding, from `VeryFast` to `Placebo` with `VerySlow` being recommended. Slower presets results in better video quality and may also reduce video file size. Do not use `Placebo` as it takes much longer to encode than `VerySlow` for very little improvement in quality.
 
 ![Setting the video codec and quality in Handbrake](img/codecquality-handbrake.png "Setting the video codec and constant quality")
 
@@ -53,6 +58,8 @@ This section will show you how to remove audio from videos using [Handbrake](htt
 ![Setting the video dimensions in Handbrake](img/dimensions-handbrake.png "Setting the video dimensions")
 
 7. Lastly, pick the file location you want to save your result to, then click `Start Encode`.
+
+Optionally, you can save the configuration as a new preset by clicking the `Save New Preset` button, name the preset accordingly then saving it for later use. When you need to re-encode a video again, select the preset you just created after opening the source file, then pick a file location you want to save it to and click `Start Encode`.
 
 ![Encoding and saving the video](img/save-handbrake.png "Encoding and saving the video")
 
@@ -80,9 +87,11 @@ ffmpeg -i input -c:v libx264 -crf 20 -preset slower -profile:v high -vf scale=-1
 
 ## Audio
 
-Audio encoded in either MP3 or OGG (Vorbis) formats are supported with `.mp3` and `.ogg` file extensions, respectively. Other formats such as AAC and OGG (Opus) and any lossless formats are not supported by the game client.
+Audio encoded in either MP3 or OGG (Vorbis) formats are supported with `.mp3` and `.ogg` file extensions, respectively. Other formats such as AAC and OGG (Opus) and any lossless formats are currently not supported by the game client.
 
-The [Ranking Criteria](/wiki/Ranking_Criteria#audio) specifies that average bit rate must be below 192kbps and above 128kbps. As reference, osu! Featured Artists songs are encoding with a constant bit rate of 192kbps.
+OGG (Vorbis) generally provides better quality than MP3 for a given bitrate, and is also often used for hitsounds.
+
+The [Ranking Criteria](/wiki/Ranking_Criteria#audio) specifies that average bit rate must be below 192kbps and above 128kbps. For reference, osu! Featured Artists songs are encoded with a constant bit rate of 192kbps.
 
 ### Using Audacity
 
@@ -90,17 +99,23 @@ The [Ranking Criteria](/wiki/Ranking_Criteria#audio) specifies that average bit 
 
 ![Importing audio into Audacity](img/import-audacity.png "Importing audio into Audacity")
 
-2. Export the audio as MP3.
+2. Export the audio as MP3 or OGG, respectively.
 
 ![Export as MP3](img/exportmenu-audacity.png "Export as MP3")
 
-3. Change the export options to help compress your file. Use `Preset` and select the quality as `Medium, 145-185 kbps`. If you want, you can enter in the metadata in the next dialog. When ready, click `OK`.
+3. Change the export options to the following setitngs to help compress your file:
+   - For MP3, use `Preset` and select the quality as `Medium, 145-185 kbps`.
+   - For OGG (Vorbis), set the `Quality` to a value of `5` which is the default value.
 
-![Export settings](img/exportsettings-audacity.png "Export settings")
+![Export settings](img/exportsettings-audacity.png "MP3 Export settings")
+
+4. Pick a file location to save the file, then click `Save` and a new dialog will appear for you to optionally enter in the metadata of the audio file.
+
+5. Once done filling out the metadata, click `OK` to start re-encoding.
 
 ### Using FFmpeg
 
-Paste the following command into your terminal and change the values as needed:
+To encode in the MP3 format, paste the following command into your terminal and change the values as needed:
 
 ```
 ffmpeg -i input -c:a libmp3lame -q:a 4 -vn -sn -map_metadata -1 -map_chapters -1 output.mp3
@@ -108,10 +123,24 @@ ffmpeg -i input -c:a libmp3lame -q:a 4 -vn -sn -map_metadata -1 -map_chapters -1
 
 - `-i input`: Your source file. If the file name contains spaces, wrap it around double quotes (`"`).
 - `-c:a libmp3lame`: Specify that the audio should be encoded using the LAME MP3 encoder.
-- `-q:a 4`: Use the same variable bitrate range as in the Audacity example, where a lower number means higher bitrate. If you want constant bitrate, you would instead use for instance `-b:a 128k` for a constant 128kbps bitrate.
+- `-q:a 4`: Use the same variable bitrate range as in the Audacity example, **where a lower number means higher bitrate.** If you want constant bitrate, you would instead use for instance `-b:a 128k` for a constant 128kbps bitrate.
 - `-vn -sn`: Remove video and subtitles if present.
 - `-map_metadata -1 -map_chapters -1`: Remove metadata and chapters if present.
 - `output.mp3`: Your output file. If the file name contains spaces, wrap it around double quotes (`"`).
+
+To encode in the OGG (Vorbis) format, paste the following command into your terminal and change the values as needed:
+
+```
+ffmpeg -i input -c:a libmp3lame -q:a 4 -vn -sn -map_metadata -1 -map_chapters -1 output.ogg
+```
+
+- `-i input`: Your source file. If the file name contains spaces, wrap it around double quotes (`"`).
+- `-c:a libvorbis`: Specify that the audio should be encoded using the LAME MP3 encoder.
+- `-q:a 5`: Use the same variable bitrate range as in the Audacity example, **where a higher number means higher average bit rate.** If you want constant bitrate, you would instead use for instance `-b:a 128k` for a constant 128kbps bitrate.
+- `-vn -sn`: Remove video and subtitles if present.
+- `-map_metadata -1 -map_chapters -1`: Remove metadata and chapters if present.
+- `output.ogg`: Your output file. If the file name contains spaces, wrap it around double quotes (`"`).
+
 
 ## Verification
 
