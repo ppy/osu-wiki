@@ -9,9 +9,7 @@ tags:
 
 The permanent invite link is <https://discord.gg/ppy>.
 
-## New Members
-
-New members of the server may feel free to introduce themselves in the `#introductions` channel. Doing so is not a requirement to interact with the rest of the server.
+People new to the server may feel free to introduce themselves in the `#introductions` channel, but doing so is not a requirement to interact with the rest of the server.
 
 ## Projects
 
