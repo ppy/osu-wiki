@@ -12,9 +12,9 @@ tags:
 
 ## Description
 
-Beatmap collaborations usually have the "Collab" word or possession of multiple usernames in their difficulty name or [beatmap description](/wiki/Beatmap/Beatmap_description), although it is not a strict [ranking criteria](/wiki/Ranking_Criteria) requirement. It is also common for frequent participants to invent amalgamations of their usernames[^name-example] and use them consistently throughout the mapping career.
+Beatmap collaborations usually have the word "Collab" or multiple usernames attached to their difficulty name or [beatmap description](/wiki/Beatmap/Beatmap_description), although it is not a strict [ranking criteria](/wiki/Ranking_Criteria) requirement. It is also common for frequent participants to invent amalgamations of their usernames[^name-example] and use them consistently throughout their mapping career.
 
-The mapping usually starts with the [beatmap host](/wiki/Beatmap/Beatmap_host) splitting the pre-[timed](/wiki/Beatmapping/Timing) beatmap template into several parts[^collab-split] and assigning the said parts among the collaborators according to a shared agreement. Mappers complete[^blind-collab] their parts by laying out the [hit objects](/wiki/Gameplay/Hit_object), applying [hitsounds](/wiki/Beatmapping/Hitsound), using [inherited timing points](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point) where necessary, and then pass their work back to the host, who then combines the changes into a single difficulty by carefully editing the difficulty's [`.osu` file](/wiki/Client/File_formats/Osu_(file_format)).
+The mapping usually starts with the [beatmap host](/wiki/Beatmap/Beatmap_host) splitting a pre-[timed](/wiki/Beatmapping/Timing) beatmap template into several parts[^collab-split] and assigning them to the collaborators according to some agreed-upon distribution. Mappers complete[^blind-collab] their parts by laying out the [hit objects](/wiki/Gameplay/Hit_object), applying [hitsounds](/wiki/Beatmapping/Hitsound), using [inherited timing points](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point) where necessary, and then pass their work back to the host, who then combines the changes into a single difficulty by carefully editing its [`.osu` file](/wiki/Client/File_formats/Osu_(file_format)).
 
 ## Notes and references
 
