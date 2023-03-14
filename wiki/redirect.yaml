@@ -244,8 +244,7 @@
 "notelock":                    "Gameplay/Judgement/Notelock"
 "gameplay/notelock":           "Gameplay/Judgement/Notelock"
 "nuke":                        "Modding/Nuke"
-"offset":                      "Disambiguation/Offset"
-"offsets":                     "Disambiguation/Offset"
+"offsets":                     "Offset"
 "pass":                        "Gameplay/Pass"
 "passed":                      "Gameplay/Pass"
 "passing":                     "Gameplay/Pass"
@@ -2058,3 +2057,5 @@
 "beats_per_minute":             "Music_theory/Tempo"
 "beatmapping/beats_per_minute": "Music_theory/Tempo"
 "tempo":                        "Music_theory/Tempo"
+
+"disambiguation/offset":               "offset"

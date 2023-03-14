@@ -18,7 +18,6 @@ no_native_review: true
 - [Mod](Mod)
 - [NC](NC)
 - [NM](NM)
-- [偏移](Offset)
 - [osu!](osu!)
 - [應援團](Ouendan)
 - [Rank](Rank)
