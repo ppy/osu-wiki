@@ -6,7 +6,7 @@ Users encountering problems with the client may [create an issue on GitHub](http
 
 ## Setup
 
-To start the osu! tournament client, you need to specify a launch argument to the osu!(lazer) executable. To do this, create a new shortcut on the desktop and set the location for it to `%LOCALAPPDATA%/osulazer/osu!.exe --tournament`. This will make that specific shortcut start up osu!(lazer) in the tournament client mode.
+To start the osu! tournament client, you need to specify a launch argument to the [osu!(lazer)](/wiki/Client/Release_stream/Lazer) executable. To do this, create a new shortcut on the desktop and set the location for it to `%LOCALAPPDATA%/osulazer/osu!.exe --tournament`. This will make that specific shortcut start up osu!(lazer) in the tournament client mode.
 
 Because the osu! tournament client is only an overlay for osu!tourney, that will need to be set up as well. Set the Release stream in osu!tourney to `Cutting Edge (Experimental)` and create an empty file called `ipc.txt` inside the installation folder of osu!tourney. After that, follow the [osu!tourney setup guide](/wiki/osu!tourney/Setup).
 
@@ -21,7 +21,7 @@ Open the osu! tournament client and you will see this setup screen:
 
 ## Managing Tournaments
 
-Tournament configurations for osu!(lazer) are stored in `%APPDATA%/osu/tournaments`. On first start up of the client a directory called `default` is made inside this folder. A user can maintain multiple tournament configurations and switch between them as needed to get the appropriate customisations applied.
+Tournament configurations for [osu!(lazer)](/wiki/Client/Release_stream/Lazer) are stored in `%APPDATA%/osu/tournaments`. On first start up of the client a directory called `default` is made inside this folder. A user can maintain multiple tournament configurations and switch between them as needed to get the appropriate customisations applied.
 
 To create a new tournament configuration, create a new directory in the `tournaments` directory with the name of your tournament.
 

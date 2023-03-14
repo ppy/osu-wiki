@@ -80,6 +80,68 @@ Listed below are the players who managed to qualify into the Round of 16 (along 
 
 ## Mappools
 
+### Finals (week 2)
+
+**[Download the mappack here! (178 MB)](https://cdn.discordapp.com/attachments/913324595002605572/1084511862235856977/oasis2023gf1678633193617.zip)**
+
+- NoMod
+  1. [KINEMA106 - Juusou (Mordred) \[Iron Rain\]](https://osu.ppy.sh/beatmapsets/1301393#osu/2699247)
+  2. [Maverick - opaque (Niva) \[-TwiNM2\]](https://osu.ppy.sh/beatmapsets/1955283#osu/4049716)
+  3. [F A K E S - Last Words (DeviousPanda) \[werf's Extra\]](https://osu.ppy.sh/beatmapsets/1497474#osu/3119382)
+  4. [Redside - Sidequest (Feiri) \[collab adventure\]](https://osu.ppy.sh/beatmapsets/1876071#osu/3860793)
+  5. [IOSYS - Marisa Tanked My Score With an Incredible Hand (Yauxo) \[Special\]](https://osu.ppy.sh/beatmapsets/963766#osu/2017787)
+- Hidden
+  1. [Nana Mizuki - FINAL COMMANDER (Gravified) \[LAST BREATH\]](https://osu.ppy.sh/beatmapsets/1222526#osu/2542811)
+  2. [Nanamori-chu \* Goraku-bu - Happy Time wa Owaranai (Cut Ver.) (-Keitaro) \[Insane\]](https://osu.ppy.sh/beatmapsets/1057015#osu/2210722)
+  3. [Hino Isuka - Mechanical Jager (Livia) \[MEGA\]](https://osu.ppy.sh/beatmapsets/902823#osu/1884850)
+- HardRock
+  1. [School Food Punishment - RPG (Moete) \[Remorse\]](https://osu.ppy.sh/beatmapsets/1393720#osu/2877058)
+  2. [ak+q - Ignotus (Ryuusei Aika) \[FUTURE+\]](https://osu.ppy.sh/beatmapsets/761244#osu/1600778)
+  3. [sakuraburst - Glacierfall (Park Remix) (ScubDomino) \[celine's exp\*rt\]](https://osu.ppy.sh/beatmapsets/1329045#osu/2769942)
+- DoubleTime
+  1. [Matsushita - Kiritorisen (Millie) \[Origami feat. Seox\]](https://osu.ppy.sh/beatmapsets/1955342#osu/4049869)
+  2. [seleP feat. Lily - Re;2 (Elcheer) \[Re;Vengeance\]](https://osu.ppy.sh/beatmapsets/1557197#osu/3181150)
+  3. [Jun.A - Kawaii Daisensou no Refrain (Athanasia-) \[Insane (nerf)\]](https://osu.ppy.sh/beatmapsets/1783165#osu/3652107)
+  4. [zts - liberatedliberator (deetz) \[Dada's Insane\]](https://osu.ppy.sh/beatmapsets/907805#osu/1902670)
+- FreeMod
+  1. [Rohi - Slan Leat (VINXIS) \[RLC's Extra\]](https://osu.ppy.sh/beatmapsets/1177073#osu/2454945)
+  2. [Frums - Wavetapper (-jordan-) \[Expert\]](https://osu.ppy.sh/beatmapsets/1507849#osu/3088183)
+  3. [Tsukiko - Haruka Kanata (imoutosan) \[Error: 80 - 32\]](https://osu.ppy.sh/beatmapsets/138296#osu/362479)
+  4. [NIWASHI - Y (Down) \[PaRaDogi's Extra\]](https://osu.ppy.sh/beatmapsets/1689372#osu/3455084)
+- Tiebreaker
+  1. **[Masayoshi Minoshima feat.nomico - Lost Emotion (Amane UK Hardcore Remix) (MaridiuS) \[Despondency\]](https://osu.ppy.sh/beatmapsets/618953#osu/1304748)**
+
+### Finals (week 1)
+
+**[Download the mappack here! (159 MB)](https://mappack.yewonkim.tk/download?filename=oasis2023f1678040967898.zip)**
+
+- NoMod
+  1. [Yorushika - Matasaburo (Rosiie) \[Summer Wind\]](https://osu.ppy.sh/beatmapsets/1485959#osu/3047001)
+  2. [Xi - Youyoumu \~ Run or Dash (GYGY) \[Extra\]](https://osu.ppy.sh/beatmapsets/1782703#osu/3650832)
+  3. [Akatsuki Records - HANIPAGANDA (Night Mare) \[ZELQ'S EXTRA STAGE\]](https://osu.ppy.sh/beatmapsets/1083844#osu/2309567)
+  4. [onoken - felys final remix (Elayue) \[Acylica's Extreme\]](https://osu.ppy.sh/beatmapsets/1319560#osu/2771203)
+  5. [Hataya Naofumi - Looting the Louvre (oneplusone) \[Invasion du musee du Louvre\]](https://osu.ppy.sh/beatmapsets/1893902#osu/3902785)
+- Hidden
+  1. [Risa Yuzuki - S'il Vous President (gazimal) \[P, P, President\]](https://osu.ppy.sh/beatmapsets/1736708#osu/3549507)
+  2. [DJ Sharpnel - IVALTEK (happy30) \[HappyMiX\]](https://osu.ppy.sh/beatmapsets/50429#osu/154988)
+  3. [Official HIGE DANdism - Mixed Nuts (Amateurre) \[Liyuuchie's Ascent Extra\]](https://osu.ppy.sh/beatmapsets/1802422#osu/3695972)
+- HardRock
+  1. [t+pazolite - cheatreal (caren\_sk) \[RLC's Extra\]](https://osu.ppy.sh/beatmapsets/88180#osu/442170)
+  2. [Anamanaguchi - John Hughes (Bonsai) \[Sushi's Insane\]](https://osu.ppy.sh/beatmapsets/655256#osu/1388633)
+  3. [tomatoism - Someone Special (Jiysea) \[L e c a n d y ' s E x p e r t\]](https://osu.ppy.sh/beatmapsets/1282080#osu/2662928)
+- DoubleTime
+  1. [Shimotsuki Haruka - Kaleidoscope (Shurelia) \[Insane\]](https://osu.ppy.sh/beatmapsets/169622#osu/410798)
+  2. [DIANA - Beethoven Virus (Orkay) \[Insane\]](https://osu.ppy.sh/beatmapsets/1724615#osu/3524604)
+  3. [ALiCE'S EMOTiON - Tag (Hardbeat Remix) (Takos) \[Patchouli\]](https://osu.ppy.sh/beatmapsets/28991#osu/96525)
+  4. [Kakichoco - Barbed Eye (Starfy) \[Chaoz's Insane\]](https://osu.ppy.sh/beatmapsets/482726#osu/1047447)
+- FreeMod
+  1. [UNDEAD CORPORATION - BLOW (hehe) \[Extra\]](https://osu.ppy.sh/beatmapsets/1019640#osu/3325194)
+  2. [Komiya Mao - Yozakura (melloe) \[Seasons\]](https://osu.ppy.sh/beatmapsets/477903#osu/1020839)
+  3. [Hatsune Miku - Hidari Migi -migihidari- (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmapsets/24177#osu/87223)
+  4. [BUTAOTOME - Gensou no Satellite (ScubDomino) \[add me on genshin 800950001\]](https://osu.ppy.sh/beatmapsets/1109181#osu/2317907)
+- Tiebreaker
+  1. **[Shaun Martin - Madiba (over\_loadcode) \[Dynamic\]](https://osu.ppy.sh/beatmapsets/1301789#osu/2700108)**
+
 ### Semifinals
 
 **[Download the mappack here! (164 MB)](https://mappack.yewonkim.tk/download?filename=oasis2023sf1677415305247.zip)**
@@ -189,6 +251,57 @@ Listed below are the players who managed to qualify into the Round of 16 (along 
   3. [HyuN - Illusion of Inflict (Icekalt) \[Light Insane\]](https://osu.ppy.sh/beatmapsets/968923#osu/2041171)
 
 ## Match results
+
+### Finals (week 1)
+
+Friday, 10 March 2023:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Icun](https://osu.ppy.sh/users/17908427) ::{ flag=ID }:: | 3 | **7** | ::{ flag=ID }:: **[nsfuu](https://osu.ppy.sh/users/10849159)** | [#1](https://osu.ppy.sh/community/matches/107284824) |
+
+Saturday, 11 March 2023:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [cerena](https://osu.ppy.sh/users/5411734) ::{ flag=ID }:: | 3 | **7** | ::{ flag=ID }:: **[SDKO](https://osu.ppy.sh/users/4858555)** | [#1](https://osu.ppy.sh/community/matches/107300886) |
+
+Sunday, 12 March 2023:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[im a cute bunny](https://osu.ppy.sh/users/12578000)** ::{ flag=ID }:: | **7** | 4 | ::{ flag=ID }:: [akebono](https://osu.ppy.sh/users/1815316) | [#1](https://osu.ppy.sh/community/matches/107306855) |
+| Lower | [nsfuu](https://osu.ppy.sh/users/10849159) ::{ flag=ID }:: | 0 | **7** | ::{ flag=ID }:: **[SDKO](https://osu.ppy.sh/users/4858555)** | *win by default* |
+
+### Semifinals
+
+Friday, 3 March 2023:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[nsfuu](https://osu.ppy.sh/users/10849159)** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: [Frixell](https://osu.ppy.sh/users/15601286) | [#1](https://osu.ppy.sh/community/matches/107153567) |
+
+Saturday, 4 March 2023:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [-CircleParadox-](https://osu.ppy.sh/users/10423227) ::{ flag=ID }:: | 2 | **6** | ::{ flag=ID }:: **[Zoont](https://osu.ppy.sh/users/7109269)** | [#1](https://osu.ppy.sh/community/matches/107172717) |
+| Upper | **[im a cute bunny](https://osu.ppy.sh/users/12578000)** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: [Icun](https://osu.ppy.sh/users/17908427) | [#1](https://osu.ppy.sh/community/matches/107171437) |
+| Lower | **[fnayR](https://osu.ppy.sh/users/2800253)** ::{ flag=ID }:: | **6** | 2 | ::{ flag=ID }:: [CubeixID200](https://osu.ppy.sh/users/10678919) | [#1](https://osu.ppy.sh/community/matches/107175274) |
+| Lower | **[SDKO](https://osu.ppy.sh/users/4858555)** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: [HyuugaDesuka](https://osu.ppy.sh/users/22684871) | [#1](https://osu.ppy.sh/community/matches/107174242) |
+
+Sunday, 5 March 2023:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[SDKO](https://osu.ppy.sh/users/4858555)** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: [Zoont](https://osu.ppy.sh/users/7109269) | [#1](https://osu.ppy.sh/community/matches/107197629) |
+
+Monday, 6 March 2023:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[nsfuu](https://osu.ppy.sh/users/10849159)** ::{ flag=ID }:: | **6** | 0 | ::{ flag=ID }:: [fnayR](https://osu.ppy.sh/users/2800253) | [#1](https://osu.ppy.sh/community/matches/107197662) |
+| Upper | **[akebono](https://osu.ppy.sh/users/1815316)** ::{ flag=ID }:: | **6** | 3 | ::{ flag=ID }:: [cerena](https://osu.ppy.sh/users/5411734) | [#1](https://osu.ppy.sh/community/matches/107210408) |
 
 ### Quarterfinals
 

@@ -78,7 +78,7 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) | Polish | Chat moderation |
 | ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Chinese | Mapping/modding community moderation |
 | ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | Mapping/modding community moderation |
-| ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837) | French | Chat moderation |
+| ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837) | French, Spanish | Chat moderation |
 | ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) |  | Chat moderation, mapping/modding community moderation |
 | ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326) | Cantonese, Chinese, Japanese | Chat moderation |
 | ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) | Russian | Chat moderation |
