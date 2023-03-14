@@ -129,22 +129,41 @@ Abbreviations for user groups are used throughout this log:
 
 ## March
 
+- 2023-03-04: Moved [Secre](https://osu.ppy.sh/users/2306637) from **NAT** to **osu! Alumni**
+- 2023-03-12: Removed [[Zeth]](https://osu.ppy.sh/users/9912966) from **Beatmap Spotlight Curators**
+- 2023-03-12: Added [megumic](https://osu.ppy.sh/users/7537133) to **Project Loved Team**
+- 2023-03-12: Added [Kingling](https://osu.ppy.sh/users/7010761) to **Project Loved Team**
+- 2023-03-12: Added [Aistre](https://osu.ppy.sh/users/4879380) to **Project Loved Team**
+
 ### Beatmap Nominators
 
 #### Additions
 
 - 2023-03-01: Added [Lafayla](https://osu.ppy.sh/users/5312547) to **Probationary BN**
 - 2023-03-02: Added [wwwww](https://osu.ppy.sh/users/8434466) to **Probationary BN**
+- 2023-03-09: Added [cdh](https://osu.ppy.sh/users/2403621) to **Probationary BN**
+- 2023-03-09: Added [-Flashlight-](https://osu.ppy.sh/users/9731062) to **Probationary BN**
+- 2023-03-11: Added [mnyui](https://osu.ppy.sh/users/14261540) to **BN**
+- 2023-03-12: Added [Hydria](https://osu.ppy.sh/users/808176) to **Probationary BN**
 
 #### Moves
+
+- 2023-03-08: Moved [Zer0-](https://osu.ppy.sh/users/4260033) from **BN** to **Probationary BN**
+- 2023-03-10: Moved [Creamy Candy](https://osu.ppy.sh/users/9769199) from **Probationary BN** to **BN**
+- 2023-03-11: Moved [Sotarks](https://osu.ppy.sh/users/4452992) from **BN** to **Probationary BN**
 
 #### Removals
 
 - 2023-03-01: Removed [Aakki](https://osu.ppy.sh/users/11077540) from **BN**
 - 2023-03-02: Removed [Chatie](https://osu.ppy.sh/users/6524765) from **BN**
 - 2023-03-02: Removed [Ymiir](https://osu.ppy.sh/users/3922569) from **BN**
+- 2023-03-04: Removed [Dignan](https://osu.ppy.sh/users/4505918) from **BN**
+- 2023-03-05: Removed [-Ming-](https://osu.ppy.sh/users/20127755) from **BN**
+- 2023-03-08: Removed [GIGACHAD](https://osu.ppy.sh/users/11081858) from **BN**
+- 2023-03-09: Removed [Morrighan](https://osu.ppy.sh/users/12042090) from **BN**
+- 2023-03-10: Removed [riffy](https://osu.ppy.sh/users/597957) from **Probationary BN**
 
-<!-- last updated with eiri's move from osu! + osu!taiko to osu! BN on 03/03/2023 (not logged here)>
+<!-- last updated with megumic, Kingling, Aistre added to Project Loved 14-03-2023 at 00:34AM UTC>
 
 <!--
 To update this article:
