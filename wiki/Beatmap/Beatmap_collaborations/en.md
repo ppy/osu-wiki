@@ -22,4 +22,4 @@ Although mappers usually rely on the parts already completed to make gameplay tr
 
 ## Notes and references
 
-[^name-example]: For example, [masazi - mayday B](https://osu.ppy.sh/beatmapsets/74277#osu/233068), a beatmap by [Vass\_Bass](https://osu.ppy.sh/users/188248) has a collaboration difficulty with [Reiji-RJ](https://osu.ppy.sh/users/305389), forming the difficulty name "Vass-RJ".
+[^name-example]: For example, [masazi - mayday B](https://osu.ppy.sh/beatmapsets/74277#osu/233068), a beatmap by [Vass\_Bass](https://osu.ppy.sh/users/188248), has a collaboration difficulty with [Reiji-RJ](https://osu.ppy.sh/users/305389) named "Vass-RJ".
