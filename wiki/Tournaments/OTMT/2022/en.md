@@ -42,14 +42,14 @@ The osu!taiko Malaysian Tournament 2022 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/u/605973) |
-| Mappool selector | ::{ flag=MY }:: [cdh](https://osu.ppy.sh/u/2403621), ::{ flag=MY }:: [\[Zeth\]](https://osu.ppy.sh/u/9912966), ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/u/605973) |
-| Referee | ::{ flag=PH }:: [Aiery](https://osu.ppy.sh/u/10363380), ::{ flag=MY }:: [IoEtoile](https://osu.ppy.sh/users/6709853), ::{ flag=MY }:: [Hand Sanitiser](https://osu.ppy.sh/u/5091293), ::{ flag=NL }:: [ikin5050](https://osu.ppy.sh/users/4007649), ::{ flag=ID }:: [XK2238](https://osu.ppy.sh/users/1139209), ::{ flag=MY }:: [\[Zeth\]](https://osu.ppy.sh/u/9912966), ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/u/12842392), ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/u/605973), ::{ flag=MY }:: [cdh](https://osu.ppy.sh/u/2403621) |
-| Streamer | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/u/605973), ::{ flag=MY }:: [Iyouka](https://osu.ppy.sh/u/7138499), ::{ flag=SG }:: [Spartric](https://osu.ppy.sh/users/7740442), ::{ flag=MY }:: [Cheeeeeeeeeew](https://osu.ppy.sh/u/7798789), ::{ flag=PH }:: [Aiery](https://osu.ppy.sh/u/10363380) |
-| Commentator | ::{ flag=DE }:: [Joogs](https://osu.ppy.sh/users/8844167), ::{ flag=GB }:: [My Angel Subaru](https://osu.ppy.sh/u/17797595), ::{ flag=GB }:: [overdahedge2014](https://osu.ppy.sh/u/9864847), ::{ flag=PH }:: [Aiery](https://osu.ppy.sh/u/10363380), ::{ flag=ID }:: [XK2238](https://osu.ppy.sh/users/1139209), ::{ flag=MY }:: [Ping7731](https://osu.ppy.sh/u/7289284), ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/u/605973), ::{ flag=MY }:: [HenNEET](https://osu.ppy.sh/u/14225265), ::{ flag=MY }:: [CrabCow](https://osu.ppy.sh/u/9755504), ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/u/3918650), ::{ flag=MY }:: [Xeltic Rival](https://osu.ppy.sh/u/7500364), ::{ flag=MY }:: [cdh](https://osu.ppy.sh/u/2403621), ::{ flag=MY }:: [\[Zeth\]](https://osu.ppy.sh/u/9912966), ::{ flag=MY }:: [Cryolien](https://osu.ppy.sh/u/1626983), ::{ flag=MY }:: [MTNTWarz](https://osu.ppy.sh/u/14036825) |
-| Designer | ::{ flag=MY }:: [Iyouka](https://osu.ppy.sh/u/7138499) |
+| Organiser | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) |
+| Mappool selector | ::{ flag=MY }:: [cdh](https://osu.ppy.sh/users/2403621), ::{ flag=MY }:: [\[Zeth\]](https://osu.ppy.sh/users/9912966), ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) |
+| Referee | ::{ flag=PH }:: [Aiery](https://osu.ppy.sh/users/10363380), ::{ flag=MY }:: [IoEtoile](https://osu.ppy.sh/users/6709853), ::{ flag=MY }:: [Hand Sanitiser](https://osu.ppy.sh/users/5091293), ::{ flag=NL }:: [ikin5050](https://osu.ppy.sh/users/4007649), ::{ flag=ID }:: [XK2238](https://osu.ppy.sh/users/1139209), ::{ flag=MY }:: [\[Zeth\]](https://osu.ppy.sh/users/9912966), ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392), ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973), ::{ flag=MY }:: [cdh](https://osu.ppy.sh/users/2403621) |
+| Streamer | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973), ::{ flag=MY }:: [Iyouka](https://osu.ppy.sh/users/7138499), ::{ flag=SG }:: [Spartric](https://osu.ppy.sh/users/7740442), ::{ flag=MY }:: [Cheeeeeeeeeew](https://osu.ppy.sh/users/7798789), ::{ flag=PH }:: [Aiery](https://osu.ppy.sh/users/10363380) |
+| Commentator | ::{ flag=DE }:: [Joogs](https://osu.ppy.sh/users/8844167), ::{ flag=GB }:: [My Angel Subaru](https://osu.ppy.sh/users/17797595), ::{ flag=GB }:: [overdahedge2014](https://osu.ppy.sh/users/9864847), ::{ flag=PH }:: [Aiery](https://osu.ppy.sh/users/10363380), ::{ flag=ID }:: [XK2238](https://osu.ppy.sh/users/1139209), ::{ flag=MY }:: [Ping7731](https://osu.ppy.sh/users/7289284), ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973), ::{ flag=MY }:: [HenNEET](https://osu.ppy.sh/users/14225265), ::{ flag=MY }:: [CrabCow](https://osu.ppy.sh/users/9755504), ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650), ::{ flag=MY }:: [Xeltic Rival](https://osu.ppy.sh/users/7500364), ::{ flag=MY }:: [cdh](https://osu.ppy.sh/users/2403621), ::{ flag=MY }:: [\[Zeth\]](https://osu.ppy.sh/users/9912966), ::{ flag=MY }:: [Cryolien](https://osu.ppy.sh/users/1626983), ::{ flag=MY }:: [MTNTWarz](https://osu.ppy.sh/users/14036825) |
+| Designer | ::{ flag=MY }:: [Iyouka](https://osu.ppy.sh/users/7138499) |
 | Website editor | ::{ flag=MY }:: [Kokoro Amamiya](https://osu.ppy.sh/users/9534110) |
-| Wiki editor | ::{ flag=MY }:: [cdh](https://osu.ppy.sh/u/2403621) |
+| Wiki editor | ::{ flag=MY }:: [cdh](https://osu.ppy.sh/users/2403621) |
 
 ## Links
 
@@ -63,23 +63,23 @@ The osu!taiko Malaysian Tournament 2022 was run by various community members.
 
 | Seed | Members |
 | :-- | :-- |
-| Top | ::{ flag=MY }:: [CrabCow](https://osu.ppy.sh/u/9755504), ::{ flag=MY }:: [JyaKeii](https://osu.ppy.sh/u/12086753), ::{ flag=MY }:: [vun](https://osu.ppy.sh/u/6932501), ::{ flag=MY }:: [HHVanilla Ice](https://osu.ppy.sh/u/12803930), ::{ flag=MY }:: [vernonlim](https://osu.ppy.sh/u/10167542), ::{ flag=MY }:: [HenNEET](https://osu.ppy.sh/u/14225265), ::{ flag=MY }:: [Fury Dragon](https://osu.ppy.sh/u/6332530), ::{ flag=MY }:: [K0rd31HP](https://osu.ppy.sh/u/15231510) |
-| High | ::{ flag=MY }:: [Megumin-Sama](https://osu.ppy.sh/u/6201335), ::{ flag=MY }:: [Ping7731](https://osu.ppy.sh/u/7289284), ::{ flag=MY }:: [pisu](https://osu.ppy.sh/u/8339729), ::{ flag=MY }:: [PollyDoggo](https://osu.ppy.sh/u/11584592), ::{ flag=MY }:: [DXA FonG](https://osu.ppy.sh/u/15019527), ::{ flag=MY }:: [Admirable](https://osu.ppy.sh/u/9888395), ::{ flag=MY }:: [Kirowlet](https://osu.ppy.sh/u/7066483), ::{ flag=MY }:: [Kyrzer](https://osu.ppy.sh/u/5616675) |
-| Low | ::{ flag=MY }:: [shaofoong](https://osu.ppy.sh/u/2398341), ::{ flag=MY }:: [zhev](https://osu.ppy.sh/u/6570008), ::{ flag=MY }:: [NickkyOnce](https://osu.ppy.sh/u/10508577), ::{ flag=MY }:: [5oulpoint](https://osu.ppy.sh/u/10194919), ::{ flag=MY }:: [Minisora](https://osu.ppy.sh/u/9627666), ::{ flag=MY }:: [Haryume](https://osu.ppy.sh/u/9351030), ::{ flag=MY }:: [King Hong](https://osu.ppy.sh/u/7263047), ::{ flag=MY }:: [Ayashiki](https://osu.ppy.sh/u/6859713) |
-| Unseeded | ::{ flag=MY }:: [arebang9462](https://osu.ppy.sh/u/1810773), ::{ flag=MY }:: [Axorite](https://osu.ppy.sh/u/9124278), ::{ flag=MY }:: [Agagak](https://osu.ppy.sh/u/3645490) |
+| Top | ::{ flag=MY }:: [CrabCow](https://osu.ppy.sh/users/9755504), ::{ flag=MY }:: [JyaKeii](https://osu.ppy.sh/users/12086753), ::{ flag=MY }:: [vun](https://osu.ppy.sh/users/6932501), ::{ flag=MY }:: [HHVanilla Ice](https://osu.ppy.sh/users/12803930), ::{ flag=MY }:: [vernonlim](https://osu.ppy.sh/users/10167542), ::{ flag=MY }:: [HenNEET](https://osu.ppy.sh/users/14225265), ::{ flag=MY }:: [Fury Dragon](https://osu.ppy.sh/users/6332530), ::{ flag=MY }:: [K0rd31HP](https://osu.ppy.sh/users/15231510) |
+| High | ::{ flag=MY }:: [Megumin-Sama](https://osu.ppy.sh/users/6201335), ::{ flag=MY }:: [Ping7731](https://osu.ppy.sh/users/7289284), ::{ flag=MY }:: [pisu](https://osu.ppy.sh/users/8339729), ::{ flag=MY }:: [PollyDoggo](https://osu.ppy.sh/users/11584592), ::{ flag=MY }:: [DXA FonG](https://osu.ppy.sh/users/15019527), ::{ flag=MY }:: [Admirable](https://osu.ppy.sh/users/9888395), ::{ flag=MY }:: [Kirowlet](https://osu.ppy.sh/users/7066483), ::{ flag=MY }:: [Kyrzer](https://osu.ppy.sh/users/5616675) |
+| Low | ::{ flag=MY }:: [shaofoong](https://osu.ppy.sh/users/2398341), ::{ flag=MY }:: [zhev](https://osu.ppy.sh/users/6570008), ::{ flag=MY }:: [NickkyOnce](https://osu.ppy.sh/users/10508577), ::{ flag=MY }:: [5oulpoint](https://osu.ppy.sh/users/10194919), ::{ flag=MY }:: [Minisora](https://osu.ppy.sh/users/9627666), ::{ flag=MY }:: [Haryume](https://osu.ppy.sh/users/9351030), ::{ flag=MY }:: [King Hong](https://osu.ppy.sh/users/7263047), ::{ flag=MY }:: [Ayashiki](https://osu.ppy.sh/users/6859713) |
+| Unseeded | ::{ flag=MY }:: [arebang9462](https://osu.ppy.sh/users/1810773), ::{ flag=MY }:: [Axorite](https://osu.ppy.sh/users/9124278), ::{ flag=MY }:: [Agagak](https://osu.ppy.sh/users/3645490) |
 
 ## Groups
 
 | Group | Top seed | High seed | Low seed | Unseeded |
 | :-: | :-- | :-- | :-- | :-- |
-| **A** | ::{ flag=MY }:: [HHVanilla Ice](https://osu.ppy.sh/u/12803930) | ::{ flag=MY }:: [Admirable](https://osu.ppy.sh/u/9888395) | ::{ flag=MY }:: [zhev](https://osu.ppy.sh/u/6570008) | N/A |
-| **B** | ::{ flag=MY }:: [vernonlim](https://osu.ppy.sh/u/10167542) | ::{ flag=MY }:: [DXA FonG](https://osu.ppy.sh/u/15019527) | ::{ flag=MY }:: [Ayashiki](https://osu.ppy.sh/u/6859713) | N/A |
-| **C** | ::{ flag=MY }:: [JyaKeii](https://osu.ppy.sh/u/12086753) | ::{ flag=MY }:: [Ping7731](https://osu.ppy.sh/u/7289284) | ::{ flag=MY }:: [King Hong](https://osu.ppy.sh/u/7263047) | N/A |
-| **D** | ::{ flag=MY }:: [K0rd31HP](https://osu.ppy.sh/u/15231510) | ::{ flag=MY }:: [Kirowlet](https://osu.ppy.sh/u/7066483) | ::{ flag=MY }:: [Minisora](https://osu.ppy.sh/u/9627666) | ::{ flag=MY }:: [Axorite](https://osu.ppy.sh/u/9124278) |
-| **E** | ::{ flag=MY }:: [vun](https://osu.ppy.sh/u/6932501) | ::{ flag=MY }:: [Megumin-Sama](https://osu.ppy.sh/u/6201335) | ::{ flag=MY }:: [shaofoong](https://osu.ppy.sh/u/2398341) | N/A |
-| **F** | ::{ flag=MY }:: [Fury Dragon](https://osu.ppy.sh/u/6332530) | ::{ flag=MY }:: [Kyrzer](https://osu.ppy.sh/u/5616675) | ::{ flag=MY }:: [5oulpoint](https://osu.ppy.sh/u/10194919) | ::{ flag=MY }:: [arebang9462](https://osu.ppy.sh/u/1810773) |
-| **G** | ::{ flag=MY }:: [HenNEET](https://osu.ppy.sh/u/14225265) | ::{ flag=MY }:: [PollyDoggo](https://osu.ppy.sh/u/11584592) | ::{ flag=MY }:: [NickkyOnce](https://osu.ppy.sh/u/10508577) | N/A |
-| **H** | ::{ flag=MY }:: [CrabCow](https://osu.ppy.sh/u/9755504) | ::{ flag=MY }:: [pisu](https://osu.ppy.sh/u/8339729) | ::{ flag=MY }:: [Haryume](https://osu.ppy.sh/u/9351030) | ::{ flag=MY }:: [Agagak](https://osu.ppy.sh/u/3645490) |
+| **A** | ::{ flag=MY }:: [HHVanilla Ice](https://osu.ppy.sh/users/12803930) | ::{ flag=MY }:: [Admirable](https://osu.ppy.sh/users/9888395) | ::{ flag=MY }:: [zhev](https://osu.ppy.sh/users/6570008) | N/A |
+| **B** | ::{ flag=MY }:: [vernonlim](https://osu.ppy.sh/users/10167542) | ::{ flag=MY }:: [DXA FonG](https://osu.ppy.sh/users/15019527) | ::{ flag=MY }:: [Ayashiki](https://osu.ppy.sh/users/6859713) | N/A |
+| **C** | ::{ flag=MY }:: [JyaKeii](https://osu.ppy.sh/users/12086753) | ::{ flag=MY }:: [Ping7731](https://osu.ppy.sh/users/7289284) | ::{ flag=MY }:: [King Hong](https://osu.ppy.sh/users/7263047) | N/A |
+| **D** | ::{ flag=MY }:: [K0rd31HP](https://osu.ppy.sh/users/15231510) | ::{ flag=MY }:: [Kirowlet](https://osu.ppy.sh/users/7066483) | ::{ flag=MY }:: [Minisora](https://osu.ppy.sh/users/9627666) | ::{ flag=MY }:: [Axorite](https://osu.ppy.sh/users/9124278) |
+| **E** | ::{ flag=MY }:: [vun](https://osu.ppy.sh/users/6932501) | ::{ flag=MY }:: [Megumin-Sama](https://osu.ppy.sh/users/6201335) | ::{ flag=MY }:: [shaofoong](https://osu.ppy.sh/users/2398341) | N/A |
+| **F** | ::{ flag=MY }:: [Fury Dragon](https://osu.ppy.sh/users/6332530) | ::{ flag=MY }:: [Kyrzer](https://osu.ppy.sh/users/5616675) | ::{ flag=MY }:: [5oulpoint](https://osu.ppy.sh/users/10194919) | ::{ flag=MY }:: [arebang9462](https://osu.ppy.sh/users/1810773) |
+| **G** | ::{ flag=MY }:: [HenNEET](https://osu.ppy.sh/users/14225265) | ::{ flag=MY }:: [PollyDoggo](https://osu.ppy.sh/users/11584592) | ::{ flag=MY }:: [NickkyOnce](https://osu.ppy.sh/users/10508577) | N/A |
+| **H** | ::{ flag=MY }:: [CrabCow](https://osu.ppy.sh/users/9755504) | ::{ flag=MY }:: [pisu](https://osu.ppy.sh/users/8339729) | ::{ flag=MY }:: [Haryume](https://osu.ppy.sh/users/9351030) | ::{ flag=MY }:: [Agagak](https://osu.ppy.sh/users/3645490) |
 
 ## Podium
 
@@ -122,7 +122,7 @@ This competition has come to an end and resulted in the following podium:
 ### Finals
 
 - NoMod
-  1. [ Hommarju feat. mamiko -  Katayoku no tori (vzk) \[Judgment (OTMT ver.)\]](https://osu.ppy.sh/b/3880490)
+  1. [Hommarju feat. mamiko -  Katayoku no tori (vzk) \[Judgment (OTMT ver.)\]](https://osu.ppy.sh/b/3880490)
   2. [HowToPlayLN - ph0eniix.z (ph0eniixz) \[phoenix\]](https://osu.ppy.sh/b/3881843)
   3. [Se-U-Ra - Pale and dazzling dreamscape (ekumea1123) \[Inner Oni\]](https://osu.ppy.sh/b/3823066)
   4. [Brandy - Cross Time !! (\_gt) \[Fever Time!!\]](https://osu.ppy.sh/b/3881848)
@@ -413,11 +413,11 @@ Sunday, 23 October 2022:
 2. ScoreV2 with the Team VS option will be used.
 3. The win condition of each round is as listed below:
 
-| Round	| Format |
+| Round | Format |
 | :-- | :-- |
 | Group stage | Best of 9 |
-| Round of 16 |	Best of 9 |
-| Quarterfinals	| Best of 11 |
+| Round of 16 | Best of 9 |
+| Quarterfinals | Best of 11 |
 | Semifinals | Best of 11 |
 | Finals | Best of 13 |
 | Grand Finals | Best of 13 |
