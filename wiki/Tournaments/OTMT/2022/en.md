@@ -14,15 +14,15 @@ The **osu!taiko Malaysian Tournament 2022** (**OTMT 2022**) was a double-elimina
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2022-09-17 to 2022-10-01 |
+| Registration phase | 2022-09-17/2022-10-01 |
 | Qualifier showcase | 2022-10-08 |
-| Qualifiers | 2022-10-15 to 2022-10-16 |
+| Qualifiers | 2022-10-15/2022-10-16 |
 | Seeding Reveal | 2022-10-16 |
-| Group stage | 2022-10-22 to 2022-10-23 |
-| Round of 16 | 2022-10-29 to 2022-10-30 |
-| Quarterfinals | 2022-11-05 to 2022-11-06 |
-| Semifinals | 2022-11-12 to 2022-11-13 |
-| Finals | 2022-11-19 to 2022-11-20 |
+| Group stage | 2022-10-22/2022-10-23 |
+| Round of 16 | 2022-10-29/2022-10-30 |
+| Quarterfinals | 2022-11-05/2022-11-06 |
+| Semifinals | 2022-11-12/2022-11-13 |
+| Finals | 2022-11-19/2022-11-20 |
 | Grand Finals | 2022-11-27 |
 
 ## Prizes
