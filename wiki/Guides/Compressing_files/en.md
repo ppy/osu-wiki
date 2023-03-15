@@ -134,7 +134,7 @@ ffmpeg -i input -c:a libmp3lame -q:a 4 -vn -sn -map_metadata -1 -map_chapters -1
 To encode in the OGG (Vorbis) format, paste the following command into your terminal and change the values as needed:
 
 ```
-ffmpeg -i input -c:a libmp3lame -q:a 4 -vn -sn -map_metadata -1 -map_chapters -1 output.ogg
+ffmpeg -i input -c:a libmp3lame -q:a 5 -vn -sn -map_metadata -1 -map_chapters -1 output.ogg
 ```
 
 - `-i input`: Your source file. If the file name contains spaces, wrap it around double quotes (`"`).
