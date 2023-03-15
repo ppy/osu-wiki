@@ -96,7 +96,7 @@ The [Ranking Criteria](/wiki/Ranking_Criteria#audio) specifies that average bit 
 
 ### Using Audacity
 
-*For information on editing audio in Audacity, see: [Audio editing guide](/wiki/Guides/Audio_editing_guide#audacity)*
+*For information on editing audio in Audacity, see: [Audio editing guide](/wiki/Guides/Audio_Editing#audacity)*
 
 1. Import the audio file into Audacity.
 
