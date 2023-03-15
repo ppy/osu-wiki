@@ -30,7 +30,6 @@ Check out any of these maps:
 - [Loved osu! map](https://osu.ppy.sh/beatmapsets/322808) by [Ekoro](https://osu.ppy.sh/users/284905)
 - [Loved osu!catch map](https://osu.ppy.sh/beatmapsets/528694) by [Kyptoric](https://osu.ppy.sh/users/1361268)
 
-
 <audio controls>
     <source src="https://assets.ppy.sh/artists/349/Yotogibanashi%20no%20Kamikakushi%2FMinstrel%20-%20Yotogibanashi%20no%20Kamikakushi.mp3">
 </audio>
