@@ -288,10 +288,10 @@ Saturday, 12 November 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | --: | :-: | :--- | :---: |
-| **K0rd31HP** ::{ flag=MY }:: | **6** | 0 | ::{ flag=MY }:: DXA FonG | [#1](https://osu.ppy.sh/mp/105007846) |
-| **HenNEET** ::{ flag=MY }:: | **6** | 0 | ::{ flag=MY }:: Megumin-Sama | [#1](https://osu.ppy.sh/mp/105008568) |
-| **Ping7731** ::{ flag=MY }:: | **6** | 2 | ::{ flag=MY }:: Fury Dragon | [#1](https://osu.ppy.sh/mp/105009207) |
-| **JyaKeii** ::{ flag=MY }:: | **6** | 0 | ::{ flag=MY }:: vernonlim | [#1](https://osu.ppy.sh/mp/105013643) |
+| **K0rd31HP** ::{ flag=MY }:: | **6** | 0 | ::{ flag=MY }:: DXA FonG | [#1](https://osu.ppy.sh/community/matches/105007846) |
+| **HenNEET** ::{ flag=MY }:: | **6** | 0 | ::{ flag=MY }:: Megumin-Sama | [#1](https://osu.ppy.sh/community/matches/105008568) |
+| **Ping7731** ::{ flag=MY }:: | **6** | 2 | ::{ flag=MY }:: Fury Dragon | [#1](https://osu.ppy.sh/community/matches/105009207) |
+| **JyaKeii** ::{ flag=MY }:: | **6** | 0 | ::{ flag=MY }:: vernonlim | [#1](https://osu.ppy.sh/community/matches/105013643) |
 | **HHVanilla Ice** ::{ flag=MY }:: | **6** | 0 | ::{ flag=MY }:: Admirable | [#1](https://osu.ppy.sh/community/matches/105017733) |
 
 Sunday, 13 November 2022:
@@ -308,7 +308,7 @@ Saturday, 5 November 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | --: | :-: | :--- | :---: |
-| **Megumin-Sama** ::{ flag=MY }:: | **6** | 0 | ::{ flag=MY }:: PollyDoggo | [#1](https://osu.ppy.sh/mp/104867722) |
+| **Megumin-Sama** ::{ flag=MY }:: | **6** | 0 | ::{ flag=MY }:: PollyDoggo | [#1](https://osu.ppy.sh/community/matches/104867722) |
 | 5oulpoint ::{ flag=MY }:: | -1 | **0** | ::{ flag=MY }:: **Admirable** | *WBD* |
 | HHVanilla Ice ::{ flag=MY }:: | 0 | **6** | ::{ flag=MY }:: **JyaKeii** | [#1](https://osu.ppy.sh/community/matches/104872046) |
 | **DXA FonG** ::{ flag=MY }:: | **6** | 0 | ::{ flag=MY }:: Kirowlet | [#1](https://osu.ppy.sh/community/matches/104873236) |
@@ -328,7 +328,7 @@ Saturday, 29 October 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | --: | :-: | :--- | :---: |
-| **HenNEET** ::{ flag=MY }:: | **5** | 0 | ::{ flag=MY }:: DXA FonG | [#1](https://osu.ppy.sh/mp/104717113) |
+| **HenNEET** ::{ flag=MY }:: | **5** | 0 | ::{ flag=MY }:: DXA FonG | [#1](https://osu.ppy.sh/community/matches/104717113) |
 | **HHVanilla Ice** ::{ flag=MY }:: | **5** | 1 | ::{ flag=MY }:: pisu | [#1](https://osu.ppy.sh/community/matches/104717619) |
 | Megumin-Sama ::{ flag=MY }:: | 0 | **5** | ::{ flag=MY }:: **K0rd31HP** | [#1](https://osu.ppy.sh/community/matches/104720469) |
 | **Ping7731** ::{ flag=MY }:: | **5** | 0 | ::{ flag=MY }:: 5oulpoint | [#1](https://osu.ppy.sh/community/matches/104721943) |
