@@ -150,14 +150,6 @@ Notes:
 
 ---
 
-`menu-charts-click.wav`
-
-Notes:
-
-- Plays when clicking on `Charts` in the main menu.
-
----
-
 `menu-direct-click.wav`
 
 Notes:
@@ -291,14 +283,6 @@ Notes:
 Notes:
 
 - Plays when hovering above Back in the main menu.
-
----
-
-`menu-charts-hover.wav`
-
-Notes:
-
-- Plays when hovering above Charts in the main menu.
 
 ---
 

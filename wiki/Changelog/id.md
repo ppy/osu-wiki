@@ -8,7 +8,7 @@ tags:
 
 **[Riwayat perubahan](https://osu.ppy.sh/home/changelog)** atau *changelog* adalah sebuah halaman di mana [tim pengembang osu!](/wiki/People/The_Team/Developers) merinci penyempurnaan, penambahan, dan *bug fix* pada permainan setiap harinya. Semua perubahan dari rilisan sebelumnya dicatat di sini untuk kepentingan pengarsipan.
 
-Riwayat perubahan untuk situs web dan osu!(lazer) dibuat secara otomatis dari versi rilis di repositori GitHub proyek tersebut, sedangkan yang lain dibuat secara manual.
+Riwayat perubahan untuk situs web dan [osu!(lazer)](/wiki/Client/Release_stream/Lazer) dibuat secara otomatis dari versi rilis di repositori GitHub proyek tersebut, sedangkan yang lain dibuat secara manual.
 
 ## Sejarah
 

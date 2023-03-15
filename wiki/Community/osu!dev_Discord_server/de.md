@@ -2,6 +2,8 @@
 tags:
   - development
   - Softwareentwicklung
+outdated_translation: true
+outdated_since: 7ca332517b46ef83f80a09c1b9082b437bacd39a
 ---
 
 # osu!dev Discord-Server
@@ -20,7 +22,7 @@ Jedes Projekt wird in seinem dafür vorgesehenen Kanal diskutiert:
 
 | Projekt | Kanal |
 | :-- | :-- |
-| [osu!(lazer)](https://github.com/ppy/osu) | `#osu-lazer` |
+| [osu!(lazer)](/wiki/Client/Release_stream/Lazer) | `#osu-lazer` |
 | [osu!framework](https://github.com/ppy/osu-framework) | `#osu-framework` |
 | [osu!web](https://github.com/ppy/osu-web) | `#osu-web` |
 | [osu!](/wiki/Game_mode/osu!) [Star Rating](/wiki/Beatmapping/Star_rating) und [Performance-Punkte](/wiki/Performance_points) | `#difficulty-osu` |

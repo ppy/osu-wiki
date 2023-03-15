@@ -2,6 +2,8 @@
 tags:
   - development
 no_native_review: true
+outdated_translation: true
+outdated_since: 7ca332517b46ef83f80a09c1b9082b437bacd39a
 ---
 
 # Servidor de Discord do osu!dev
@@ -20,7 +22,7 @@ Cada desenvolvimento principal discutido no servidor tem seu próprio canal:
 
 | Projeto | Canal |
 | :-- | :-- |
-| [osu!(lazer)](https://github.com/ppy/osu) | `#osu-lazer` |
+| [osu!(lazer)](/wiki/Client/Release_stream/Lazer) | `#osu-lazer` |
 | [osu!framework](https://github.com/ppy/osu-framework) | `#osu-framework` |
 | [osu!web](https://github.com/ppy/osu-web) | `#osu-web` |
 | [Classificação de estrelas](/wiki/Beatmapping/Star_rating) e [pontos de performance](/wiki/Performance_points) no [osu!](/wiki/Game_mode/osu!) | `#difficulty-osu` |
