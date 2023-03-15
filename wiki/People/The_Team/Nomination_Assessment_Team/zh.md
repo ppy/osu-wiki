@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: 445b42a5a6e2c8af0e0fc0c9f38ca1a67599ade3
 tags:
  - NAT
  - 审核评估
@@ -117,7 +119,6 @@ tags:
 | :-- | :-- | :-- |
 | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | 西班牙语，德语 | 评估者 |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | 荷兰语 | 评估者 |
-| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  | 评估者 |
 
 ### osu!mania
 

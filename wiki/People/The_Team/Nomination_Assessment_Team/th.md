@@ -83,7 +83,6 @@ NAT มีการเฝ้ามองผู้สมัคร NAT ที่�
 | :-- | :-- | :-- |
 | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | สเปน, เยอรมัน | Evaluator |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | ดัตช์ | Evaluator |
-| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  | Evaluator |
 
 ### osu!mania
 

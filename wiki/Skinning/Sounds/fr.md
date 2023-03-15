@@ -1,3 +1,8 @@
+---
+outdated_since: 7f11c0debbe18e861931071cd38678a1ff0118e9
+outdated_translation: true
+---
+
 # Skinning des sons
 
 `.wav`, `.mp3`, et/ou `.ogg` sont des formats valides pour les sons.

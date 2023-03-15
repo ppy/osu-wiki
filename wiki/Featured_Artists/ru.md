@@ -35,7 +35,7 @@ tags:
 
 ## Применение в сообществе
 
-При создании карт рекомендуется использовать базу Featured Artist. Все загруженные туда песни уже [затаймлены](/wiki/Client/Beatmap_editor/Timing) и разрешены к использованию в osu!, их можно мапать, не беспокоясь о последствиях. Замапанные песни также будут особым образом помечены в [osu!(lazer)](https://github.com/ppy/osu/releases), новом игровом клиенте osu!.
+При создании карт рекомендуется использовать базу Featured Artist. Все загруженные туда песни уже [затаймлены](/wiki/Client/Beatmap_editor/Timing) и разрешены к использованию в osu!, их можно мапать, не беспокоясь о последствиях. Замапанные песни также будут особым образом помечены в [osu!(lazer)](/wiki/Client/Release_stream/Lazer), новом игровом клиенте osu!.
 
 Во всех соревнованиях по маппингу, указанных на [странице конкурсов сообщества](https://osu.ppy.sh/community/contests), — например, [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) и [Mapping Olympiad](/wiki/Contests/Mapping_Olympiad), — фигурируют только песни из программы Featured Artists. Это же требование есть и в некоторых неофициальных конкурсах.
 

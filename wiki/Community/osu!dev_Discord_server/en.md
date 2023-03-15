@@ -9,9 +9,7 @@ tags:
 
 The permanent invite link is <https://discord.gg/ppy>.
 
-## Verification
-
-New members of the server aren't allowed to send messages by default. If they want to send messages, they can post in `#arrival` with a brief overview of their intentions, and a member of the osu! team will add a role that lifts the restriction.
+People new to the server may feel free to introduce themselves in the `#introductions` channel, but doing so is not a requirement to interact with the rest of the server.
 
 ## Projects
 
@@ -19,7 +17,7 @@ Each main development discussed in the server has its own channel:
 
 | Project | Channel |
 | :-- | :-- |
-| [osu!(lazer)](https://github.com/ppy/osu) | `#osu-lazer` |
+| [osu!(lazer)](/wiki/Client/Release_stream/Lazer) | `#osu-lazer` |
 | [osu!framework](https://github.com/ppy/osu-framework) | `#osu-framework` |
 | [osu!web](https://github.com/ppy/osu-web) | `#osu-web` |
 | [osu!](/wiki/Game_mode/osu!) [star rating](/wiki/Beatmapping/Star_rating) and [performance points](/wiki/Performance_points) | `#difficulty-osu` |
