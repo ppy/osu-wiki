@@ -4,7 +4,7 @@ stub: true
 
 # Offset lokal
 
-*Untuk offset ketika membuat sebuah beatmap, kunjungi: [Offset](/wiki/Beatmapping/Offset)*
+*Untuk penggunaan lainnya, lihat [Offset](/wiki/Offset).*
 
 **Offset lokal** adalah offset yang memindahkan tampilan [hit object](/wiki/Hit_object) dalam kaitannya dengan audio individu dari sebuah [beatmap](/wiki/Beatmap). Ini dapat membantu pemain yang mengalami penundaan pendengaran maupun visual. Offset lokal bekerja bersama offset global untuk menghitung [offset total](/wiki/Client/Options/Universal_offset).
 

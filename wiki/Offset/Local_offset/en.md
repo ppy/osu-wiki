@@ -4,7 +4,7 @@ stub: true
 
 # Local song offset
 
-*For offset while beatmapping, see: [Offset](/wiki/Beatmapping/Offset)*
+*For other uses, see [Offset](/wiki/Offset).*
 
 **Local song offset** is an offset which moves the appearance of [hit objects](/wiki/Hit_object) in relation to the audio of individual [beatmaps](/wiki/Beatmap). This can be helpful for players who experience auditory or visual delays. Local song offset works alongside the [global offset](/wiki/Client/Options/Universal_offset) to calculate a total offset.
 

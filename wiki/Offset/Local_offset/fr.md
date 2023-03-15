@@ -4,7 +4,7 @@ stub: true
 
 # Local song offset
 
-*Pour le offset pendant le beatmapping, voir : [Offset](/wiki/Beatmapping/Offset)*
+*Pour d'autres utilisations, voir [Offset](/wiki/Offset).*
 
 Le **Local song offset** est un décalage qui déplace l'apparence des [objets](/wiki/Hit_object) par rapport à l'audio des [beatmaps](/wiki/Beatmap) individuels. Cela peut être utile pour les joueurs qui ont des retards auditifs ou visuels. Le local song offset fonctionne avec le [décalage global](/wiki/Client/Options/Universal_offset) pour calculer un décalage total.
 
