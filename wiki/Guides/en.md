@@ -13,7 +13,6 @@ Below is a sorted list of guides created by members of the osu! community, most 
 - [Custom sample overrides](Custom_Sample_Overrides)
 - [How to change a map's artist or title](Changing_the_Artist_or_Title)
 - [How to resolve BSS issues](BSS_Issues)
-- [How to start a beatmap collaboration](Collab_Information)
 - [How to start a beatmap project](Starting_a_Beatmap_Project)
 - [How to time Songs](How_to_Time_Songs)
 - [Music theory](/wiki/Music_theory)

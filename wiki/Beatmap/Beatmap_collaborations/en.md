@@ -6,8 +6,6 @@ tags:
 
 # Beatmap collaborations
 
-*For help starting a collaboration, see: [How to start a beatmap collaboration](/wiki/Guides/Collab_Information)*
-
 **Beatmap collaborations**, or ***collabs***, are single [difficulties](/wiki/Beatmap/Difficulty) or [beatmaps](/wiki/Beatmap) with [guest difficulties](/wiki/Beatmap/Guest_difficulty) created by multiple people. While the term *collab* usually refers to beatmaps, it also means any other media created by several participants, such as [storyboards](/wiki/Storyboard) or songs.
 
 ## Description
