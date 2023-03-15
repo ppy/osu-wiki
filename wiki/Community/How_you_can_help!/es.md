@@ -45,7 +45,7 @@ A continuación se describe cómo puedes empezar a ayudar a los demás en el for
 osu! cuenta con un equipo de revisores dedicado, los [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators), para comprobar si los [beatmaps](/wiki/Beatmap) enviados están listos para ser clasificados y jugados por todos. Sin embargo, eso no significa que no puedas contribuir a este sector:
 
 - Busca en la página web o en el [Pending Beatmaps](https://osu.ppy.sh/beatmapsets?s=pending) una lista de los artistas o canciones que te gusten y/o quieras contribuir.
-- Juega beatmaps en estados de [*Pending* o *Work-in-progress*](/wiki/Beatmap/Category#work-in-progress-and-pending) y deja tus comentarios en la página de discusión del beatmap.
+- Juega beatmaps en estados de [*Pending* o *Work-in-progress*](/wiki/Beatmap/Category#trabajos-en-progreso-y-pendientes) y deja tus comentarios en la página de discusión del beatmap.
 - Lee la [Modding Guide](/wiki/Modding) y el [Ranking Criteria](/wiki/Ranking_Criteria) para conocer los fundamentos del modding técnico y lo que hace que un beatmap sea clasificable.
 - [Únete a los canales de `#mapping` y `#modreqs` en el chat del juego y únete a la conversación o simplemente siguela.
 - Si tienes tiempo y dedicación, haz un [Modding Queue](https://osu.ppy.sh/community/forums/60) para que los creadores de beatmaps tengan un lugar donde solicitarte mods.

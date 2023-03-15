@@ -158,9 +158,6 @@
 "background":                  "Beatmap/Background"
 "bn":                          "People/The_Team/Beatmap_Nominators"
 "beatmap_nominator":           "People/The_Team/Beatmap_Nominators"
-"bpm":                         "Beatmapping/Beats_per_minute"
-"beat_per_minute":             "Beatmapping/Beats_per_minute"
-"beats_per_minute":            "Beatmapping/Beats_per_minute"
 "break":                       "Beatmap/Break"
 "breaks":                      "Beatmap/Break"
 "choke":                       "Gameplay/Choke"
@@ -247,8 +244,7 @@
 "notelock":                    "Gameplay/Judgement/Notelock"
 "gameplay/notelock":           "Gameplay/Judgement/Notelock"
 "nuke":                        "Modding/Nuke"
-"offset":                      "Disambiguation/Offset"
-"offsets":                     "Disambiguation/Offset"
+"offsets":                     "Offset"
 "pass":                        "Gameplay/Pass"
 "passed":                      "Gameplay/Pass"
 "passing":                     "Gameplay/Pass"
@@ -2055,3 +2051,11 @@
 
 "lazer":             "Client/Release_stream/Lazer"
 "osu!lazer":         "Client/Release_stream/Lazer"
+
+"bpm":                          "Music_theory/Tempo"
+"beat_per_minute":              "Music_theory/Tempo"
+"beats_per_minute":             "Music_theory/Tempo"
+"beatmapping/beats_per_minute": "Music_theory/Tempo"
+"tempo":                        "Music_theory/Tempo"
+
+"disambiguation/offset":               "offset"

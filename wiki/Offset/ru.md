@@ -1,4 +1,9 @@
-# Оффсет (значения)
+---
+outdated_translation: true
+outdated_since: 87257df3878d4da3af9de4d36ddd84a23e478a10
+---
+
+# Оффсет
 
 **Оффсет** может означать:
 
