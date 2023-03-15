@@ -44,12 +44,12 @@ Ganadores de la [MWC 4K 2022](/wiki/Tournaments/MWC/2022_4K) con el título de u
 - ::{ flag=KR }:: [SuddenDeath](https://osu.ppy.sh/users/6699923)
 - ::{ flag=KR }:: [SnowScent](https://osu.ppy.sh/users/7945868)
 
-Ganadores de la [MWC 7K 2022](/wiki/Tournaments/MWC/2022_7K) con el título de usuario **osu!mania 7K Champion**:
+Ganadores de la [MWC 7K 2023](/wiki/Tournaments/MWC/2022_7K) con el título de usuario **osu!mania 7K Champion**:
 
-- ::{ flag=KR }:: [0133](https://osu.ppy.sh/users/12346181)
-- ::{ flag=KR }:: [dressurf](https://osu.ppy.sh/users/758406)
-- ::{ flag=KR }:: [Estonians](https://osu.ppy.sh/users/7014697)
-- ::{ flag=KR }:: [yz1155](https://osu.ppy.sh/users/2071008)
+- ::{ flag=PH }:: [bojii](https://osu.ppy.sh/users/10083439)
+- ::{ flag=PH }:: [- Kura -](https://osu.ppy.sh/users/11420405)
+- ::{ flag=PH }:: [Berrii](https://osu.ppy.sh/users/877011)
+- ::{ flag=PH }:: [Arona](https://osu.ppy.sh/users/8748664)
 
 ## Poseedores anteriores de títulos de la World Cup
 
@@ -120,6 +120,7 @@ Ganadores de las osu!mania World Cups anteriores con el título de usuario **For
 | [MWC 4K 2019](/wiki/Tournaments/MWC/2019_4K) | Former osu!mania 4K Champion: 2019 | ::{ flag=KR }:: [blueBloody](https://osu.ppy.sh/users/8046839), ::{ flag=KR }:: [Kalkai](https://osu.ppy.sh/users/10790649), ::{ flag=KR }:: [Transcendence](https://osu.ppy.sh/users/903155), ::{ flag=KR }:: [Yeoul](https://osu.ppy.sh/users/4698728), ::{ flag=KR }:: [wonder5193](https://osu.ppy.sh/users/8474029) |
 | [MWC 4K 2020](/wiki/Tournaments/MWC/2020_4K) | Former osu!mania 4K Champion: 2020 | ::{ flag=BR }:: [Guilhermeziat](https://osu.ppy.sh/users/3661387), ::{ flag=BR }:: [Kyut](https://osu.ppy.sh/users/9328824), ::{ flag=BR }:: [Punnies](https://osu.ppy.sh/users/8700468) |
 | [MWC 4K 2021](/wiki/Tournaments/MWC/2021_4K) | Former osu!mania 4K Champion: 2021 | ::{ flag=BR }:: [Amerom](https://osu.ppy.sh/users/5691061), ::{ flag=BR }:: [Lenn](https://osu.ppy.sh/users/11236829), ::{ flag=BR }:: [LeMarcinho](https://osu.ppy.sh/users/13347579), ::{ flag=BR }:: [Lothus](https://osu.ppy.sh/users/9530019), ::{ flag=BR }:: [Orost](https://osu.ppy.sh/users/13601876), ::{ flag=BR }:: [SillyFangirl](https://osu.ppy.sh/users/2288363) |
+| [MWC 7K 2022](/wiki/Tournaments/MWC/2022_7K) | Former osu!mania 7K Champion: 2022 | ::{ flag=KR }:: [0133](https://osu.ppy.sh/users/12346181), ::{ flag=KR }:: [dressurf](https://osu.ppy.sh/users/758406), ::{ flag=KR }:: [Estonians](https://osu.ppy.sh/users/7014697), ::{ flag=KR }:: [yz1155](https://osu.ppy.sh/users/2071008) |
 
 ## Ganadores de los concursos de mapping oficiales
 
@@ -174,16 +175,19 @@ La mayoría de los concursos oficiales de mapping ofrecen el título **Elite Map
 
 Desde 2020, los miembros de [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) y [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) con una exhibición excepcional para apoyar el sistema de clasificación en un año determinado son recompensados con el título **Elite Nominator**. Este título se otorga al inicio de cada año por las contribuciones realizadas durante el último, y dura aproximadamente un año o hasta que el usuario deja el equipo.
 
-- ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229)
-- ::{ flag=CA }:: [guden](https://osu.ppy.sh/users/11626065)
-- ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)
-- ::{ flag=KR }:: [Luscent](https://osu.ppy.sh/users/2688581)
-- ::{ flag=KR }:: [Murumoo](https://osu.ppy.sh/users/8001433)
-- ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379)
-- ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637)
-- ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453)
-- ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059)
-- ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406)
+- ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306)
+- ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958)
+- ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)[^elite-note]
+- ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315)
+- ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402)
+- ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785)
+- ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009)
+- ::{ flag=GB }:: [moonpoint](https://osu.ppy.sh/users/9558549)
+- ::{ flag=CN }:: [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
+- ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637)[^elite-note]
+- ::{ flag=KR }:: [SecxcscX](https://osu.ppy.sh/users/13543418)
+- ::{ flag=RU }:: [SMOKELIND](https://osu.ppy.sh/users/9327302)
+- ::{ flag=BR }:: [zerokt](https://osu.ppy.sh/users/13776127)
 
 ## Ganadores de los concursos Aspire mapping
 
@@ -344,6 +348,7 @@ Estos usuarios recibieron sus respectivos títulos por diversas razones.
 ## Notas
 
 [^mao-note]: ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515) recibió el título **Elite Mapper II** en su lugar por haber obtenido con éxito el título Elite Mapper a través de dos medios diferentes: Ganando el concurso [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) y superando el umbral de 6 puntos en el nuevo sistema de [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest).
+[^elite-note]: ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) y ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) recibieron el título **Elite Nominator II** en su lugar por haber sido nombrados Elite Nominators durante dos años seguidos.
 [^charles445-note]: ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000) recibió el título **Elite Mapper II: Aspirant** por haber ganado tanto [Monthly Beatmapping Contest #1](https://osu.ppy.sh/home/news/2013-10-20-monthly-beatmapping-contest-1-results) como [Monthly Beatmapping Contest: Aspire (2014)](https://osu.ppy.sh/home/news/2014-11-13-monthly-beatmapping-contest-aspire-results).
 [^billiummoto-note]: ::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471) recibió el título **osu!mixer II** por haber ganado tanto [osu!remix contest #1](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results) como el concurso [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest).
 [^yf-note]: ::{ flag=CN }:: [yf_bmp](https://osu.ppy.sh/users/1243669) recibió el título **Elite Storyboarder II** por haber [recibido el título](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020) debido a sus destacadas contribuciones a la escena del guión gráfico, además de haber ganado el concurso [triangles Beatmapping Contest](/wiki/Contests/triangles_Beatmapping_Contest).

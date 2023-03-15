@@ -80,7 +80,7 @@ tags:
 | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) | 波兰语 | 聊天管理员 |
 | ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | 汉语 | 作图、摸图社群管理员 |
 | ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | 作图、摸图社群管理员 |
-| ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837) | 法语 | 聊天管理员 |
+| ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837) | 法语，西班牙语 | 聊天管理员 |
 | ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) |  | 聊天管理员，作图、摸图社群管理员 |
 | ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326) | 粤语，汉语，日语 | 聊天管理员 |
 | ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) | 俄语 | 聊天管理员 |

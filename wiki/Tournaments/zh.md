@@ -44,6 +44,7 @@ osu! 世界杯是国家间的 4v4 组队对抗赛，赛制为单败淘汰制。�
 | [osu!taiko 世界杯 2020](TWC/2020) | 2020-03-07 | 2020-04-12 | ::{ flag=JP }:: 日本 | ::{ flag=KR }:: 韩国 | ::{ flag=GB }:: 英国 |
 | [osu!taiko 世界杯 2021](TWC/2021) | 2021-03-06 | 2021-04-11 | ::{ flag=JP }:: 日本 | ::{ flag=KR }:: 韩国 | ::{ flag=BR }:: 巴西 |
 | [osu!taiko 世界杯 2022](TWC/2022) | 2022-03-12 | 2022-04-24 | ::{ flag=JP }:: 日本 | ::{ flag=KR }:: 韩国 | ::{ flag=ID }:: 印度尼西亚 |
+| [osu!taiko 世界杯 2023](TWC/2023) | 2023-03-18 | 2023-04-30 | *TBD* | *TBD* | *TBD* |
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch 世界杯
 
@@ -80,7 +81,7 @@ osu! 世界杯是国家间的 4v4 组队对抗赛，赛制为单败淘汰制。�
 | [osu!mania 4K 世界杯 2021](MWC/2021_4K) | 2021-07-31 | 2021-09-19 | ::{ flag=BR }:: 巴西 | ::{ flag=US }:: 美国 | ::{ flag=MY }:: 马来西亚 |
 | [osu!mania 7K 世界杯 2022](MWC/2022_7K) | 2021-12-16 | 2022-02-20 | ::{ flag=KR }:: 韩国 | ::{ flag=CN }:: 中国 | ::{ flag=MY }:: 马来西亚 |
 | [osu!mania 4K 世界杯 2022](MWC/2022_4K) | 2022-07-07 | 2022-09-18 | ::{ flag=KR }:: 韩国 | ::{ flag=BR }:: 巴西 | ::{ flag=US }:: 美国 |
-| [osu!mania 7K 世界杯 2023](MWC/2023_7K) | 2022-12-15 | 2023-02-19 | *TBD* | *TBD* | *TBD* |
+| [osu!mania 7K 世界杯 2023](MWC/2023_7K) | 2022-12-15 | 2023-02-18 | ::{ flag=PH }:: 菲律宾 | ::{ flag=KR }:: 韩国 | ::{ flag=MY }:: 马来西亚 |
 
 ## 社区锦标赛
 
@@ -111,7 +112,7 @@ osu! 世界杯是国家间的 4v4 组队对抗赛，赛制为单败淘汰制。�
 
 | 名称 | 开始时间 | 结束时间 | ![冠军][GCrown] | ![亚军][SCrown] | ![季军][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| Aetherian's Summer Singles 1 | 2021-04-30 | 2021-7-13 | ::{ flag=CA }:: [Flatpaper](https://osu.ppy.sh/users/11255340) | ::{ flag=CA }:: [FaintGun](https://osu.ppy.sh/users/10500541) | ::{ flag=PH }:: [NathanSS](https://osu.ppy.sh/users/8500628) |
+| [Aetherian's Summer Singles 1](AESS/1) | 2021-04-30 | 2021-7-13 | ::{ flag=CA }:: [Flatpaper](https://osu.ppy.sh/users/11255340) | ::{ flag=CA }:: [FaintGun](https://osu.ppy.sh/users/10500541) | ::{ flag=PH }:: [NathanSS](https://osu.ppy.sh/users/8500628) |
 | [Aetherian's Summer Singles 2](AESS/2) | 2022-05-06 | 2022-07-23 | ::{ flag=PL }:: [maliszewski](https://osu.ppy.sh/users/12408961) | ::{ flag=KR }:: [[Karcher]](https://osu.ppy.sh/users/11443437) | ::{ flag=HK }:: [mcy4](https://osu.ppy.sh/users/2165650) |
 
 #### Ascaveth Invitational Tournament

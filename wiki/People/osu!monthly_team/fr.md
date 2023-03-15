@@ -14,6 +14,7 @@ Les personnes listées ci-dessous constituent le cœur de l'équipe de l'osu!mon
 | :-- | :-- |
 | ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Maintainer |
 | ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823) | Co-maintainer |
+| ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | Co-maintainer |
 | ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) | Bricoleur de Trivia |
 | ::{ flag=CA }:: [ianpep](https://osu.ppy.sh/users/7699030) | Rédacteur[^task-taiko] |
 | ::{ flag=ES }:: [kadoen](https://osu.ppy.sh/users/12780575) | Rédacteur[^task-mania] |
@@ -29,8 +30,10 @@ Les personnes listées ci-dessous restent indispensables à l'osu!monthly même 
 
 | Nom | Section associée |
 | :-- | :-- |
+| ::{ flag=FI }:: [Nowaie](https://osu.ppy.sh/users/5428909) | Mapping recap |
+| ::{ flag=US }:: [olc](https://osu.ppy.sh/users/7081160) | Mapping recap |
 | ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) et l'[équipe skinship](https://skinship.xyz/) | Skinning recap |
-| ::{ flag=FR }:: [Xahlt](https://osu.ppy.sh/users/13466351) | Mapping recap |
+| ::{ flag=US }:: [wafer](https://osu.ppy.sh/users/9416836) | Mapping recap |
 
 ## Notes
 

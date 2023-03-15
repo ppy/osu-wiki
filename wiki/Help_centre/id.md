@@ -29,7 +29,7 @@ Harap tentukan jenis permasalahan yang paling menggambarkan masalah yang kamu ha
 | [Instalasi dan pendaftaran](/wiki/Help_centre/Installation_and_registration) | Pengunduhan, pembuatan akun |
 | [osu!store](/wiki/Help_centre/Store) | osu!go, osu!keyboard, osu!tablet, berbagai piranti dan cinderamata resmi lainnya |
 | [Larangan turnamen](/wiki/Help_centre/Tournament_bans) | Segala hal seputar larangan turnamen (*tournament ban*): garis besar, alasan umum, masa hukuman |
-| [Beralih ke lazer](/wiki/Help_centre/Upgrading_to_lazer) | Proses migrasi menuju versi osu! utama yang akan datang |
+| [Beralih ke lazer](/wiki/Help_centre/Upgrading_to_lazer) | Proses migrasi [menuju versi](/wiki/Client/Release_stream/Lazer) osu! utama yang akan datang |
 | [Situs web](/wiki/Help_centre/Website) | Pemblokiran pengguna, layanan dukungan, tampilan situs web |
 
 ## Bantu kami memahami masalahmu {#diagnostics}

@@ -1,3 +1,8 @@
+---
+outdated_since: 96cf49c598294957efd202a00af9e7814a41cdfd
+outdated_translation: true
+---
+
 # Руководство по редактированию аудио
 
 [osu!academy](/wiki/Community/Video_series/osu!academy) рассказали об этом в [Episode 15: Audio Encoding (4:02)](https://www.youtube.com/watch?v=muu3HkG38kk). В этом выпуске также рассказывается, как установить и использовать Audacity с возможностью экспорта в `.mp3` (LAME). 

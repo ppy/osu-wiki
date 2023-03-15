@@ -53,15 +53,18 @@ A [página do grupo de usuário da Equipe de Avaliação de Nomeação](https://
 | ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) |  | Avaliador |
 | ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | Bielorrusso, russo | Avaliador |
 | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonês, chinês | Avaliador |
+| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Português | Avaliador |
 | ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | Avaliador |
 | ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Chinês | Avaliador |
 | ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Alemão | Avaliador |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Sueco | Orientador |
+| ::{ flag=GB }:: [nexusqi](https://osu.ppy.sh/users/13822800) |  | Avaliador |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | Orientador |
 | ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | Avaliador |
 | ::{ flag=AT }:: [Stixy](https://osu.ppy.sh/users/9000308) | Alemão, sérvio | Avaliador |
 | ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) |  | Orientador |
 | ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | Holandês | Avaliador |
+| ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  | Avaliador |
 | ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | Polonês | Avaliador |
 
 ### osu!taiko
@@ -80,7 +83,6 @@ A [página do grupo de usuário da Equipe de Avaliação de Nomeação](https://
 | :-- | :-- | :-- |
 | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | Espanhol, alemão | Avaliador |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Holandês | Avaliador |
-| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  | Avaliador |
 
 ### osu!mania
 
