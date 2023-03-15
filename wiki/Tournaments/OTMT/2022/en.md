@@ -6,7 +6,7 @@ tags:
 
 # osu!taiko Malaysian Tournament 2022
 
-![OTMT 2022 Banner](img/banner2022.png "OTMT 2022 Banner")
+![OTMT 2022 Banner](img/banner2022.png "OTMT 2022 banner")
 
 The **osu!taiko Malaysian Tournament 2022** (**OTMT 2022**) was a double-elimination 1v1 osu!taiko tournament hosted by ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973). The tournament was restricted to players with the Malaysian flag ::{ flag=MY }:: only. It was the second installment of the osu!taiko Malaysian Tournament.
 
@@ -34,31 +34,31 @@ The **osu!taiko Malaysian Tournament 2022** (**OTMT 2022**) was a double-elimina
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | RM107 (~25USD), 1 month osu!supporter, custom deskpad, custom IRIS voice line |
 | *4th place* | RM56 (~13USD), 1 month osu!supporter, custom IRIS voice line |
 
-![OTMT 2022 Winner Badge](img/badge2022.png "OTMT 2022 Winner Badge")
+![OTMT 2022 winner badge](img/badge2022.png "OTMT 2022 winner badge")
 
- ## Organisation
+## Organisation
 
 The osu!taiko Malaysian Tournament 2022 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organizer | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/u/605973) |
+| Organiser | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/u/605973) |
 | Mappool selector | ::{ flag=MY }:: [cdh](https://osu.ppy.sh/u/2403621), ::{ flag=MY }:: [\[Zeth\]](https://osu.ppy.sh/u/9912966), ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/u/605973) |
 | Referee | ::{ flag=PH }:: [Aiery](https://osu.ppy.sh/u/10363380), ::{ flag=MY }:: [IoEtoile](https://osu.ppy.sh/users/6709853), ::{ flag=MY }:: [Hand Sanitiser](https://osu.ppy.sh/u/5091293), ::{ flag=NL }:: [ikin5050](https://osu.ppy.sh/users/4007649), ::{ flag=ID }:: [XK2238](https://osu.ppy.sh/users/1139209), ::{ flag=MY }:: [\[Zeth\]](https://osu.ppy.sh/u/9912966), ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/u/12842392), ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/u/605973), ::{ flag=MY }:: [cdh](https://osu.ppy.sh/u/2403621) |
 | Streamer | ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/u/605973), ::{ flag=MY }:: [Iyouka](https://osu.ppy.sh/u/7138499), ::{ flag=SG }:: [Spartric](https://osu.ppy.sh/users/7740442), ::{ flag=MY }:: [Cheeeeeeeeeew](https://osu.ppy.sh/u/7798789), ::{ flag=PH }:: [Aiery](https://osu.ppy.sh/u/10363380) |
 | Commentator | ::{ flag=DE }:: [Joogs](https://osu.ppy.sh/users/8844167), ::{ flag=GB }:: [My Angel Subaru](https://osu.ppy.sh/u/17797595), ::{ flag=GB }:: [overdahedge2014](https://osu.ppy.sh/u/9864847), ::{ flag=PH }:: [Aiery](https://osu.ppy.sh/u/10363380), ::{ flag=ID }:: [XK2238](https://osu.ppy.sh/users/1139209), ::{ flag=MY }:: [Ping7731](https://osu.ppy.sh/u/7289284), ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/u/605973), ::{ flag=MY }:: [HenNEET](https://osu.ppy.sh/u/14225265), ::{ flag=MY }:: [CrabCow](https://osu.ppy.sh/u/9755504), ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/u/3918650), ::{ flag=MY }:: [Xeltic Rival](https://osu.ppy.sh/u/7500364), ::{ flag=MY }:: [cdh](https://osu.ppy.sh/u/2403621), ::{ flag=MY }:: [\[Zeth\]](https://osu.ppy.sh/u/9912966), ::{ flag=MY }:: [Cryolien](https://osu.ppy.sh/u/1626983), ::{ flag=MY }:: [MTNTWarz](https://osu.ppy.sh/u/14036825) |
 | Designer | ::{ flag=MY }:: [Iyouka](https://osu.ppy.sh/u/7138499) |
-| Website Editor | ::{ flag=MY }:: [Kokoro Amamiya](https://osu.ppy.sh/users/9534110) |
+| Website editor | ::{ flag=MY }:: [Kokoro Amamiya](https://osu.ppy.sh/users/9534110) |
 | Wiki editor | ::{ flag=MY }:: [cdh](https://osu.ppy.sh/u/2403621) |
 
 ## Links
 
-- [Official Website](https://otmt2022.osumalaysia.org/)
+- [Website](https://otmt2022.osumalaysia.org/)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1629138)
 - [Livestream](https://www.twitch.tv/osutaikomalaysia)
 - [Challonge bracket](https://challonge.com/eq90t8gq)
-- [Schedule Spreadsheet](https://docs.google.com/spreadsheets/d/1ujdTXdpU2SyCneFrgARIsfUnOsfwL7rrS2nhTimSElo/edit#gid=1945276977)
- 
+- [Schedule spreadsheet](https://docs.google.com/spreadsheets/d/1ujdTXdpU2SyCneFrgARIsfUnOsfwL7rrS2nhTimSElo/edit#gid=1945276977)
+
 ## Participants
 
 | Seed | Members |
@@ -67,12 +67,12 @@ The osu!taiko Malaysian Tournament 2022 was run by various community members.
 | High | ::{ flag=MY }:: [Megumin-Sama](https://osu.ppy.sh/u/6201335), ::{ flag=MY }:: [Ping7731](https://osu.ppy.sh/u/7289284), ::{ flag=MY }:: [pisu](https://osu.ppy.sh/u/8339729), ::{ flag=MY }:: [PollyDoggo](https://osu.ppy.sh/u/11584592), ::{ flag=MY }:: [DXA FonG](https://osu.ppy.sh/u/15019527), ::{ flag=MY }:: [Admirable](https://osu.ppy.sh/u/9888395), ::{ flag=MY }:: [Kirowlet](https://osu.ppy.sh/u/7066483), ::{ flag=MY }:: [Kyrzer](https://osu.ppy.sh/u/5616675) |
 | Low | ::{ flag=MY }:: [shaofoong](https://osu.ppy.sh/u/2398341), ::{ flag=MY }:: [zhev](https://osu.ppy.sh/u/6570008), ::{ flag=MY }:: [NickkyOnce](https://osu.ppy.sh/u/10508577), ::{ flag=MY }:: [5oulpoint](https://osu.ppy.sh/u/10194919), ::{ flag=MY }:: [Minisora](https://osu.ppy.sh/u/9627666), ::{ flag=MY }:: [Haryume](https://osu.ppy.sh/u/9351030), ::{ flag=MY }:: [King Hong](https://osu.ppy.sh/u/7263047), ::{ flag=MY }:: [Ayashiki](https://osu.ppy.sh/u/6859713) |
 | Unseeded | ::{ flag=MY }:: [arebang9462](https://osu.ppy.sh/u/1810773), ::{ flag=MY }:: [Axorite](https://osu.ppy.sh/u/9124278), ::{ flag=MY }:: [Agagak](https://osu.ppy.sh/u/3645490) |
-  
+
 ## Groups
 
 | Group | Top seed | High seed | Low seed | Unseeded |
 | :-: | :-- | :-- | :-- | :-- |
-| **A** | ::{ flag=MY }:: [HHVanilla Ice](https://osu.ppy.sh/u/12803930) | ::{ flag=MY }:: [Admirable](https://osu.ppy.sh/u/9888395) | ::{ flag=MY }:: [zhev](https://osu.ppy.sh/u/6570008) | N/A | 
+| **A** | ::{ flag=MY }:: [HHVanilla Ice](https://osu.ppy.sh/u/12803930) | ::{ flag=MY }:: [Admirable](https://osu.ppy.sh/u/9888395) | ::{ flag=MY }:: [zhev](https://osu.ppy.sh/u/6570008) | N/A |
 | **B** | ::{ flag=MY }:: [vernonlim](https://osu.ppy.sh/u/10167542) | ::{ flag=MY }:: [DXA FonG](https://osu.ppy.sh/u/15019527) | ::{ flag=MY }:: [Ayashiki](https://osu.ppy.sh/u/6859713) | N/A |
 | **C** | ::{ flag=MY }:: [JyaKeii](https://osu.ppy.sh/u/12086753) | ::{ flag=MY }:: [Ping7731](https://osu.ppy.sh/u/7289284) | ::{ flag=MY }:: [King Hong](https://osu.ppy.sh/u/7263047) | N/A |
 | **D** | ::{ flag=MY }:: [K0rd31HP](https://osu.ppy.sh/u/15231510) | ::{ flag=MY }:: [Kirowlet](https://osu.ppy.sh/u/7066483) | ::{ flag=MY }:: [Minisora](https://osu.ppy.sh/u/9627666) | ::{ flag=MY }:: [Axorite](https://osu.ppy.sh/u/9124278) |
@@ -95,7 +95,7 @@ This competition has come to an end and resulted in the following podium:
 ## Mappools
 
 ### Grand Finals
-  
+
 - NoMod
   1. [Camellia - R U Still XXXX? (qish & My Angel Subaru) \[Collab of the xxxx\]](https://osu.ppy.sh/b/3891622)
   2. [Kolaa - async (ph0eniixz) \[ascended (otmt. ver)\]](https://osu.ppy.sh/b/3891658)
@@ -117,7 +117,7 @@ This competition has come to an end and resulted in the following podium:
   2. [EmoCosine - Nekojarashi (ler1211) \[Nya! (OTMT Edit.)\]](https://osu.ppy.sh/b/3891674)
   3. [Loli in early 20s - Wa Yoderi (Megafan) \[Seishinbyou (OTMT Ver.)\]](https://osu.ppy.sh/b/3892525)
 - Tiebreaker
-  1. **[takehirotei as "Infinite Limit" - I.R.I.S (Jerry, cdh, taiko_maniac1811, ler1211, MTNTWarz, \[Zeth\] & CallMeLyra) \[Streets of IRIS\]](https://osu.ppy.sh/b/3891701)** 
+  1. **[takehirotei as "Infinite Limit" - I.R.I.S (Jerry, cdh, taiko_maniac1811, ler1211, MTNTWarz, \[Zeth\] & CallMeLyra) \[Streets of IRIS\]](https://osu.ppy.sh/b/3891701)**
 
 ### Finals
 
@@ -145,7 +145,7 @@ This competition has come to an end and resulted in the following podium:
   1. **[Sparxe - What Do You C? (gaston\_2199, Megafan & KyeX) \[A Sight To Behold\]](https://osu.ppy.sh/b/3881919)**
 
 ### Semifinals
-  
+
 - NoMod
   1. [Tsumiki - Anonymous Fanfare (KTYN) \[// 404 Not Found. //\]](https://osu.ppy.sh/b/3871454)
   2. [cosMo@BousouP - Second Heaven GravityPfArrange (Hirok) \[Inner Oni\]](https://osu.ppy.sh/b/1597508)
@@ -167,7 +167,7 @@ This competition has come to an end and resulted in the following podium:
   3. [Erehamonika - Der Wald (Kors K Remix) (NoFool) \[Hard Oni\]](https://osu.ppy.sh/b/932407)
 - Tiebreaker
   1. **[HowToPlayLN - Disintegration of the Isolated Forest (Ph0eNiiXZ & Kusuhara Yui) \[Sacred Utopia Collab (OTMT edit)\]](https://osu.ppy.sh/b/3871512)**
-  
+
 ### Quarterfinals
 
 - NoMod
@@ -190,7 +190,7 @@ This competition has come to an end and resulted in the following podium:
   3. [Alex C. feat Yasmin K. - Angel of Darkness (Nightcore Mix) (Rinze) \[OTMT Angel\]](https://osu.ppy.sh/b/3860600)
 - Tiebreaker
   1. **[cexiria - Over the Sphere (MTNTWarz & X a v y) \[Brilliant Andromeda, Boundless Universe\]](https://osu.ppy.sh/b/3860613)**
-  
+
 ### Round of 16
 
 - NoMod
@@ -212,7 +212,7 @@ This competition has come to an end and resulted in the following podium:
   2. [Kairiki Bear feat. Hatsune Miku - Bug (\[Zeth\]) \[Paranoia\]](https://osu.ppy.sh/b/3851165)
 - Tiebreaker
   1. **[Houshou Marine - I'm Your Treasure Box (qish, Fynbi & Eyenine) \[Oh Treasure, My Treasure\]](https://osu.ppy.sh/b/3851207)**
-  
+
 ### Group stage
 
 - NoMod
@@ -253,13 +253,13 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-Saturday, 26 Nov 2022:
+Saturday, 26 November 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | --: | :-: | :--- | :---: |
 | JyaKeii ::{ flag=MY }:: | 1 | **7** | ::{ flag=MY }:: **HHVanilla Ice** | [#1](https://osu.ppy.sh/community/matches/105290868) |
 
-Saturday, 27 Nov 2022:
+Saturday, 27 November 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | --: | :-: | :--- | :---: |
@@ -268,13 +268,13 @@ Saturday, 27 Nov 2022:
 
 ### Finals
 
-Saturday, 19 Nov 2022:
+Saturday, 19 November 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | --: | :-: | :--- | :---: |
 | **vernonlim** ::{ flag=MY }:: | **7** | 4 | ::{ flag=MY }:: HenNEET | [#1](https://osu.ppy.sh/community/matches/105157104) |
 
-Sunday, 20 Nov 2022:
+Sunday, 20 November 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | --: | :-: | :--- | :---: |
@@ -284,7 +284,7 @@ Sunday, 20 Nov 2022:
 
 ### Semifinals
 
-Saturday, 12 Nov 2022:
+Saturday, 12 November 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | --: | :-: | :--- | :---: |
@@ -294,7 +294,7 @@ Saturday, 12 Nov 2022:
 | **JyaKeii** ::{ flag=MY }:: | **6** | 0 | ::{ flag=MY }:: vernonlim | [#1](https://osu.ppy.sh/mp/105013643) |
 | **HHVanilla Ice** ::{ flag=MY }:: | **6** | 0 | ::{ flag=MY }:: Admirable | [#1](https://osu.ppy.sh/community/matches/105017733) |
 
-Sunday, 13 Nov 2022:
+Sunday, 13 November 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | --: | :-: | :--- | :---: |
@@ -304,7 +304,7 @@ Sunday, 13 Nov 2022:
 
 ### Quarterfinals
 
-Saturday, 5 Nov 2022:
+Saturday, 5 November 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | --: | :-: | :--- | :---: |
@@ -315,16 +315,16 @@ Saturday, 5 Nov 2022:
 | Ping7731 ::{ flag=MY }:: | 0 | **6** | ::{ flag=MY }:: **CrabCow** | [#1](https://osu.ppy.sh/community/matches/104874540) |
 | K0rd31HP ::{ flag=MY }:: | 0 | **6** | ::{ flag=MY }:: **vernonlim** | [#1](https://osu.ppy.sh/community/matches/104875898) |
 
-Sunday, 6 Nov 2022:
+Sunday, 6 November 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | --: | :-: | :--- | :---: |
 | HenNEET ::{ flag=MY }:: | 2 | **6** | ::{ flag=MY }:: **vun** | [#1](https://osu.ppy.sh/community/matches/104895179) |
-| pisu ::{ flag=MY }:: | 2 | **6** | ::{ flag=MY }:: **Fury Dragon** | [#1](https://osu.ppy.sh/community/matches/104899742) | 
+| pisu ::{ flag=MY }:: | 2 | **6** | ::{ flag=MY }:: **Fury Dragon** | [#1](https://osu.ppy.sh/community/matches/104899742) |
 
 ### Round of 16
 
-Saturday, 29 Oct 2022:
+Saturday, 29 October 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | --: | :-: | :--- | :---: |
@@ -335,7 +335,7 @@ Saturday, 29 Oct 2022:
 | **JyaKeii** ::{ flag=MY }:: | **5** | 2 | ::{ flag=MY }:: Fury Dragon | [#1](https://osu.ppy.sh/community/matches/104724934) |
 | Admirable ::{ flag=MY }:: | 0 | **5** | ::{ flag=MY }:: **CrabCow** | [#1](https://osu.ppy.sh/community/matches/104726284) |
 
-Sunday, 30 Oct 2022:
+Sunday, 30 October 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | --: | :-: | :--- | :---: |
@@ -344,19 +344,19 @@ Sunday, 30 Oct 2022:
 
 ### Group stage
 
-Thursday, 20 Oct 2022:
+Thursday, 20 October 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | --: | :-: | :--- | :---: |
 | **CrabCow** ::{ flag=MY }:: | **5** | 0 | ::{ flag=MY }:: Agagak | [#1](https://osu.ppy.sh/community/matches/104538537) |
 
-Friday, 21 Oct 2022:
+Friday, 21 October 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | --: | :-: | :--- | :---: |
 | **CrabCow Fanboy** ::{ flag=MY }:: | **5** | 0 | ::{ flag=MY }:: Agagak | [#1](https://osu.ppy.sh/community/matches/104556227) |
 
-Saturday, 22 Oct 2022:
+Saturday, 22 October 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | --: | :-: | :--- | :---: |
@@ -378,7 +378,7 @@ Saturday, 22 Oct 2022:
 | **vernonlim** ::{ flag=MY }:: | **5** | 0 | ::{ flag=MY }:: Ayashiki | [#1](https://osu.ppy.sh/community/matches/104583111) |
 | **Ping7731** ::{ flag=MY }:: | **5** | 0 | ::{ flag=MY }:: King Hong | [#1](https://osu.ppy.sh/community/matches/104583381) |
 
-Sunday, 23 Oct 2022:
+Sunday, 23 October 2022:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | --: | :-: | :--- | :---: |
@@ -402,67 +402,74 @@ Sunday, 23 Oct 2022:
 ### Registration rules
 
 1. This tournament is open to ALL players with the Malaysian flag on their profile. However, it is highly recommended that you are able to at least play the Group stage pool of the previous OTMT if you are participating this year.
-2. You MUST join the [osu!taiko Malaysia Discord Server](https://discord.gg/8PTAJJaPKa) to be eligible for the tournament.
-3. Registrations must be submitted through the [official OTMT website](https://otmt2022.osumalaysia.org/home) when the links are available on 17th September.
-3. All registered players will undergo an initial screening process by the osu!staff and any players that do not pass the screening will not be eligible to participate in the tournament. Results of the screening will be announced in the Discord server.
-4. The star rating of the mappool throughout the tournament is estimated to go from ~4.5* in the early rounds to ~7* in the later stages.
+2. You MUST join the [osu!taiko Malaysia Discord server](https://discord.gg/8PTAJJaPKa) to be eligible for the tournament.
+3. Registrations must be submitted through the [OTMT website](https://otmt2022.osumalaysia.org/home) when the links are available on 17 September.
+4. All registered players will undergo an initial screening process by the osu! staff and any players that do not pass the screening will not be eligible to participate in the tournament. Results of the screening will be announced in the Discord server.
+5. The star rating of the mappool throughout the tournament is estimated to go from ~4.5* in the early rounds to ~7* in the later stages.
 
 ### General rules
 
 1. The tournament is a 1v1 osu!taiko match; highest score wins.
 2. ScoreV2 with the Team VS option will be used.
-3. The score format of each round is as listed below:
+3. The win condition of each round is as listed below:
 
-| Round	| Format | 
-| --- |  --- |
-| Group stage	| Best of 9	| 
-| Round of 16 |	Best of 9	| 
-| Quarterfinals	| Best of 11 | 
-| Semifinals | Best of 11	| 
+| Round	| Format |
+| :-- | :-- |
+| Group stage | Best of 9 |
+| Round of 16 |	Best of 9 |
+| Quarterfinals	| Best of 11 |
+| Semifinals | Best of 11 |
 | Finals | Best of 13 |
-| Grand Finals | Best of 13 | 
+| Grand Finals | Best of 13 |
 
 4. The tournament host will release the mappool and schedules one week before each round.
-5. If required, players may request for a reschedule of their matches via the #otmt-reschedule channel in the Discord server.
+5. If required, players may request for a reschedule of their matches via the `#otmt-reschedule` channel in the Discord server.
    - Reschedules will only be allowed before the Thursdays, 23:59 UTC+8 of every week.
 
 ### Tournament structure
 
 1. The tournament starts off with the Qualifiers stage to sort the players into their respective seedings in the Top 32 (Top Seed, High Seed, Low Seed, etc).
-2. The top 32 players will then advance to the Group stage to further narrow down the players into the Top 16.
+2. The top 32 players will then advance to the Group stage to further narrow down the players into the top 16.
 3. In the Group stage, players will be arranged into 8 separate groups of 4, with each group consisting of one player from each seed ranking (top, high, mid, low).
-4. The four players will be matched against each other throughout the weekend and the two (2) players with the highest number of W:L (win-loss) ratio will advance to the RO16.
+4. The four players will be matched against each other throughout the weekend and the 2 players with the highest number of W:L (win-loss) ratio will advance to the Round of 16.
 5. If the number of registrants are below 32, some groups will only consist of 3 players.
-  
+
 ### Match rules
-  
-1. Players are required to be present at the times of their match, a reminder in the form of a Discord ping will be given to the players 15 minutes before every match.
+
+1. Players are required to be present at the times of their match, and a reminder in the form of a Discord ping will be given to the players 15 minutes before every match.
 2. Invites to the room will then be sent out 10 minutes before each match.
 3. Failure to arrive on time will result in the following penalties:
-   - 5-minutes: Player's warmup will be skipped.
-   - 10-minutes: Player's map ban privilege goes to the opposing player.
-   - 15-minutes: Player loses by default.
-4. Warmups must be sent to the referees at least 30 minutes before the start of the map, the warmup should be less than 3 minutes in length and not contain inappropriate content. The referee reserves the right to reject maps that they deem to be inappropriate.
-5. At the start of each match, players will be asked to **!roll** to determine who picks or bans first. The player with the higher roll will get to pick first and ban second.
+   - 5 minutes: The player's warmup will be skipped.
+   - 10 minutes: The player's map ban privilege goes to the opposing player.
+   - 15 minutes: The player loses by default.
+4. Warmups must be sent to the referees at least 30 minutes before the start of the map. The warmup should be less than 3 minutes in length and not contain inappropriate content. The referee reserves the right to reject maps at their discretion.
+5. At the start of each match, players will be asked to `!roll` to determine who picks or bans first. The player with the higher roll will get to pick first and ban second.
 6. Banned maps and tiebreakers are not allowed to be picked throughout the match.
-7. Each player will be given a maximum of 2 minutes to select their picks. If a pick has not been decided before the countdown timer ends, the map will be randomized with !roll.
-8. After a map has been decided, players will then have a maximum of 2 minutes to ready up before the referee forces a start.
+7. Each player will be given a maximum of 2 minutes to select their picks. If a pick has not been decided before the countdown timer ends, the map will be randomised with a `!roll`.
+8. After a map has been decided, players will then have a maximum of 2 minutes to ready up before the referee forces the match to start.
 9. Players should ensure that they have all the maps downloaded before the start of their match. In the event that a player is missing a map, they will automatically lose the point if they are unable to download it within the 2 minutes given.
-10. Players may ask for a Tactical Timeout during a match, and this will add an extra 2 minutes to the timer. This can only be used ONCE per match.
+10. Players may ask for a *tactical timeout* during a match, which will add an extra 2 minutes to the timer. This can only be used **once** per match.
 11. A rematch of the same map will be given if a player disconnects within the first 30 seconds of the map. Any subsequent disconnections on the same map will be treated as a point loss.
     - Lag is not a valid reason to restart a map.
 12. In the event of a tie in scores, the map will be played again (both players will not gain points).
-13. In the unlikely event that both players get a tied score two times in a row on the same map, the map will be nullified and another map needs to be picked (by the other player).
+13. In the unlikely event that both players get a tied score twice in a row on the same map, the map will be nullified and another map needs to be picked by the other player.
 14. Failed scores will be counted.
-15. If both players reach match point (need 1 more point to win), the Tiebreaker map will be played.
+15. If both players reach match point (needing 1 more point to win), the tiebreaker map will be played.
 16. Unexpected incidents will be handled by the referee or tournament host.
-  
 
-### Mappool Structure
-  
-1. The mappool consists of the following brackets: NoMod, Hidden, HardRock, DoubleTime, FreeMod, and Tiebreaker.
-2. The Hidden, HardRock and DoubleTime brackets consists of 2 maps each across all stages.
-3. The NoMod bracket consists of 3 maps in Group Stage, 4 maps in RO16, 4 maps in Quarterfinals, 5 maps in Semifinals, 6 maps in Finals and Grand Finals.
-4. The FreeMod bracket consists of 2 maps in Group Stage and RO16, with 3 maps across the remaining stages.
-5. Players may choose to play with NoMod, Hidden, HardRock or a combination of Hidden and HardRock for the FreeMod picks.
-6. The Tiebreaker will be played under FreeMod conditions.
+### Mappool structure
+
+1. The mappool consists of the following brackets: NoMod, Hidden, HardRock, DoubleTime, FreeMod, and tiebreaker.
+2. The amount of maps per stage and bracket of the mappool is as follows:
+
+| Bracket / Stage | Group stage | Round of 16 | Quarterfinals | Semifinals | Finals | Grand Finals |
+| :-- | --: | --: | --: | --: | --: | --: |
+| NoMod | 3 | 4 | 4 | 5 | 6 | 6 |
+| Hidden | 2 | 2 | 2 | 2 | 2 | 2 |
+| HardRock | 2 | 2 | 2 | 2 | 2 | 2 |
+| DoubleTime | 2 | 2 | 2 | 2 | 2 | 2 |
+| FreeMod | 2 | 2 | 3 | 3 | 3 | 3 |
+| Tiebreaker | 1 | 1 | 1 | 1 | 1 | 1 |
+
+3. Players may choose to play with NoMod, Hidden, or HardRock, or a combination of Hidden and HardRock for the FreeMod picks.
+4. The tiebreaker will be played under FreeMod conditions.
