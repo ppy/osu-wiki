@@ -7,7 +7,7 @@ outdated_since: d4dc177e49049cea28274febee6d73247f0862ab
 
 # 在线偏移量
 
-*其他用途，请参见 [偏移量 (解疑)](/wiki/Disambiguation/Offset).*
+*其他用途，请参见 [偏移量](/wiki/Offset).*
 
 **在线偏移量** 是在谱面[ranked](/wiki/Beatmap/Category#ranked)后可以应用于谱面的偏移量。这通常是在[谱面](/wiki/Beatmap)需要微调的时候完成的。在线偏移量的优先级在玩家的全局偏移值和局部偏移值之上。
 

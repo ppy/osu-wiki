@@ -5,7 +5,7 @@ tags:
 
 # Online offset
 
-*For other uses, see [Offset (disambiguation)](/wiki/Disambiguation/Offset).*
+*For other uses, see [Offset](/wiki/Offset).*
 
 **Online offset** is an offset that can be applied to a [beatmap](/wiki/Beatmap) after it is initially [ranked](/wiki/Beatmap/Category#ranked). This is usually done when a beatmap needs small timing changes to correctly line it up with the song. Online offset values are applied on top of a player's [universal offset](/wiki/Client/Options/Universal_offset) and [local offset](/wiki/Glossary/Local_song_offset) values.<!--technically it's universal offset -> online offset -> local offset but that's probably not worth mentioning here-->
 

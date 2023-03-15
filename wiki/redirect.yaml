@@ -232,7 +232,6 @@
 "ki_bar":                      "Client/Interface/Health_bar"
 "kiai_bar":                    "Client/Interface/Health_bar"
 "spirit_bar":                  "Client/Interface/Health_bar"
-"local_song_offset":           "Glossary/Local_song_offset"
 "m4m":                         "Modding/Mod_for_mod"
 "m_4_m":                       "Modding/Mod_for_mod"
 "mod_4_mod":                   "Modding/Mod_for_mod"
@@ -244,7 +243,6 @@
 "notelock":                    "Gameplay/Judgement/Notelock"
 "gameplay/notelock":           "Gameplay/Judgement/Notelock"
 "nuke":                        "Modding/Nuke"
-"offsets":                     "Offset"
 "pass":                        "Gameplay/Pass"
 "passed":                      "Gameplay/Pass"
 "passing":                     "Gameplay/Pass"
@@ -1245,9 +1243,6 @@
 "overmapped": "Beatmapping/Overmapping"
 "overmap": "Beatmapping/Overmapping"
 
-"online_offset": "Beatmap/Online_offset"
-"online_song_offset": "Beatmap/Online_offset"
-
 # Deleted Skinning_Tutorial, redirect to Skinning/Guides_and_important_threads
 "skinning_tutorial": "Skinning/Guides_and_important_threads"
 "skinning_tutorial/interface": "Skinning/Guides_and_important_threads"
@@ -1435,7 +1430,6 @@
 "glossary/ignore_list":             "Client/Options/Ignore_list"
 "options/keyboard_bindings":        "Client/Options/Keyboard_bindings"
 "options/offset_wizard":            "Client/Options/Offset_Wizard"
-"universal_offset":                 "Client/Options/Universal_offset"
 "osu!_program_files":               "Client/Program_files"
 "osu!_program_files/user_configuration_file": "Client/Program_files/User_configuration_file"
 
@@ -2058,4 +2052,17 @@
 "beatmapping/beats_per_minute": "Music_theory/Tempo"
 "tempo":                        "Music_theory/Tempo"
 
-"disambiguation/offset":               "offset"
+"offsets":                             "Offset"
+"disambiguation/offset":               "Offset"
+"online_offset":                       "Offset/Online_offset"
+"online_song_offset":                  "Offset/Online_offset"
+"beatmap/online_offset":               "Offset/Online_offset"
+"beatmap_offset":                      "Offset/Beatmap_offset"
+"beatmapping/offset":                  "Offset/Beatmap_offset"
+"uo":                                  "Offset/Universal_offset"
+"universal_offset":                    "Offset/Universal_offset"
+"client/options/universal_offset":     "Offset/Universal_offset"
+"offline_offset":                      "Offset/Local_offset"
+"local_offset":                        "Offset/Local_offset"
+"local_song_offset":                   "Offset/Local_offset"
+"glossary/local_song_offset":          "Offset/Local_offset"
