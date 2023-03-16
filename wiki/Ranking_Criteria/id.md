@@ -1,8 +1,3 @@
----
-outdated_since: 7b5392b2431adcb81b085063ca0375ce3c992f7b
-outdated_translation: true
----
-
 # Ranking criteria
 
 *Untuk ranking criteria [mode permainan](/wiki/Game_mode) yang spesifik, kunjungi: [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch), dan [osu!mania](osu!mania)*
@@ -15,7 +10,7 @@ Perubahan aturan dan pedoman dalam dokumen ini diusulkan dan dibahas di [forum R
 
 ## Alat-alat
 
-Kamu sangat direkomendasikan menggunakan [Mapset Verifier (MV)](https://github.com/Naxesss/MapsetVerifier) untuk membantu dalam memeriksa apakah beatmapmu sudah sesuai dengan Ranking Criteria. Verifikasi menggunakan [AiMod](/wiki/Client/Beatmap_editor/AiMod) dari klien lama (stable) sudah usang dan tidak dirawat, dan verifikasi beatmap di dalam klien baru (lazer) masih [dalam tahap pengembangan (WIP)](https://github.com/ppy/osu/issues/12091#issuecomment-878760791).
+Kamu sangat direkomendasikan menggunakan [Mapset Verifier (MV)](https://github.com/Naxesss/MapsetVerifier) untuk membantu dalam memeriksa apakah beatmapmu sudah sesuai dengan Ranking Criteria. Verifikasi menggunakan [AiMod](/wiki/Client/Beatmap_editor/AiMod) dari klien lama (stable) sudah usang dan tidak dirawat, dan verifikasi beatmap di dalam klien baru [osu!(lazer)](/wiki/Client/Release_stream/Lazer) masih [dalam tahap pengembangan (WIP)](https://github.com/ppy/osu/issues/12091#issuecomment-878760791).
 
 Hal-hal yang perlu diperhatikan sebelum menggunakan Mapset Verifier (MV):
 
@@ -35,6 +30,7 @@ Hal-hal yang perlu diperhatikan sebelum menggunakan Mapset Verifier (MV):
 ### Peraturan
 
 - **Tidak ada dua hit object yang dapat ditempatkan pada tick yang sama.** Hal ini termasuk hit circle dan durasi slider dan spinner. beatmap osu!mania dikecualikan dari peraturan ini.
+- **Wajib ada setidaknya 10 milidetik antara sebuah hit circle dan objek berikutnya, dan setidaknya 20 milidetik antara akhir dari sebuah slider dan objek berikutnya.** Kesulitan pada osu!mania dan osu!catch dikecualikan dari ini.
 - **Tidak boleh ada gambar tidak senonoh di [background](/wiki/Beatmap/Background)/storyboard/konten video.** Hal ini termasuk ketelanjangan, hampir ketelanjangan, referensi seksual, kekerasan, penyalahgunaan obat, dll. Lihat [Pertimbangan Konten Visual](/wiki/Rules/Visual_Content_Considerations) untuk aturan yang lebih detail.
 - **Beatmap dengan storyboard atau video yang mengandung sorotan cahaya yang berulang, gambar yang berkedip, atau elemen visual yang kontras, kecerahan, atau warnanya berubah dengan cepat dalam jangka waktu yang singkat harus menggunakan peringatan epilepsi.** Jika peringatan mengganggu gameplay, audio lead-in harus dibuat lebih lama. Efek kedip pada 3 Hz (3 kedipan per detik) dan di bawahnya tidak memungkinkan timbulnya kekhawatiran. Jika ragu, tambahkan peringatan dan konfirmasi kebutuhannya selama proses modding.
 - **Tidak boleh ada file yang tidak digunakan atau file 0-byte di folder beatmap.** File 0-byte mencegah file lain di folder beatmap untuk diunggah dengan benar. File `thumbs.db` yang dibuat secara otomatis adalah satu-satunya pengecualian.
@@ -111,17 +107,18 @@ Hal-hal yang perlu diperhatikan sebelum menggunakan Mapset Verifier (MV):
 - **Koma, `vs.`, `feat.`, `CV:` dan simbol lain yang menghubungkan atau menunjuk artis harus disertai spasi.** Kecuali koma, spasi juga diperlukan jika penanda diawali dengan kata.
 - **Segala bentuk `vs.`, `Vs.`, `VS`, dll. harus ditulis sebagai `vs.` ketika digunakan sebagai penanda kolaborasi antara dua atau lebih artis.**
 - **Segala bentuk `feat.`, `ft.`, `Ft.`, etc. harus ditulis sebagai `feat.` ketika digunakan sebagai penanda tamu artis dalam lagu tersebut.**
-- **Jika karakter fiksi digunakan sebagai penyanyi lagu, nama mereka harus dirubah dalam format `Nama Karakter (CV: Aktor Suara)`.** Untuk laga hidup, gunakan pengisi suara saja.
+- **Jika karakter fiksi digunakan sebagai penyanyi lagu, nama mereka harus dirubah dalam format `Nama Karakter (CV: Aktor Suara)` atau format `Nama Karakter (VO: Pengisi Suara)`[^character-voice-actor].** Untuk laga hidup, gunakan pengisi suara saja.
 - **Jika sebuah lagu digunakan dalam program televisi, serial web, atau serial direct-to-video, seperti lagu pembuka/penutup/sisipan, gunakan penanda `(TV Size)` di akhir judul.** Jika sudah ada penanda TV size di judul, ganti dengan `(TV Size)`.
 - **Jika judul lagu berisi penanda versi singkat atau game, penanda tersebut harus distandardisasi menjadi `(Short Ver.)` dan `(Game Ver.)` berturutan.**
 - **Versi singkat yang tidak resmi harus menambahkan penanda `(Cut Ver.)` di akhir judul.** Jika penanda panjang lagu sudah ada di judul lagu, `(Cut Ver.)` akan menggantinya. Hal ini untuk membedakan versi singkat tidak resmi dari versi panjang lagu tersebut. Lagu yang dipersingkat dengan bagian yang hampir sama dengan versi resminya, dan lagu yang merupakan loop penuh dari lagu yang berulang tidak dianggap dipotong.
   - Catatan: Jika potongan tidak resmi berisi bagian dengan urutan yang sama dan panjangnya mirip dengan ukuran TV resmi, versi pendek, atau versi game, itu termasuk sebagai potongan resmi dan menggunakan penanda yang sesuai. Cover dan remix tidak dihitung.
-- **Jika lagu telah diedit untuk memiliki tempo yang lebih tinggi, gunakan penanda `(Sped Up Ver.)` di akhir judul.** ika sudah ada penanda versi dipercepat dalam judul, ganti dengan `(Sped Up Ver.)`. Lagu yang dipercepat pada genre Techno, Trance, Dance, atau genre serupa lainnya harus menggunakan penanda `(Nightcore Mix)`.
+- **Jika lagu telah diedit untuk memiliki tempo yang lebih tinggi, gunakan penanda `(Sped Up Ver.)` di akhir judul.** ika sudah ada penanda versi dipercepat dalam judul, ganti dengan `(Sped Up Ver.)`. Lagu yang dipercepat pada genre Techno, Trance, Dance, atau genre serupa lainnya harus menggunakan penanda `(
+Mix)`.
   - Catatan: Untuk lagu yang keduanya dipotong dan dipercepat, gabungkan penanda menjadi `(Sped Up & Cut Ver.)` atau `(Nightcore & Cut Ver.)`.
 - **Karakter unicode khusus harus diubah ke huruf standar terdekatnya atau dihapus dari kolom romanisasi dalam file `.osu`.** `★ ☆ ⚝ ✪` dan sejenisnya diganti dengan tanda bintang (`*`). Karakter khusus lainnya harus diromanisasi atau dihilangkan berdasarkan kasus.
 - **Jika lagu mapset terdiri dari dua atau lebih lagu, cantumkan masing-masing judul lagu dengan simbol pemisah di antaranya atau gunakan judul yang menjelaskan kontennya.** Jika judul menjadi terlalu panjang, judul deskriptif dapat digunakan sebagai gantinya.
 - **Jika simbol digunakan untuk mengelompokkan bagian-bagian judul, spasi harus digunakan sebelum dan sesudah grup, tetapi tidak sebelum atau sesudah simbol dalam grup.**
-- **Jika sebuah seri yang digunakan sebagai sumber memiliki sub-seri, label yang paling tepat harus digunakan sebagai sumber.** Jika sebuah lagu berada pada beberapa sub-seri, seri/franchise utama dapat digunakan sebagai gantinya.
+- **Jika media yang digunakan sebagai sumber memiliki sub-seri, label yang paling tepat harus digunakan sebagai sumber.** Jika sebuah lagu berada pada beberapa sub-seri, media utama dapat digunakan sebagai gantinya.
 
 #### Romanisasi
 
@@ -148,7 +145,7 @@ Hal-hal yang perlu diperhatikan sebelum menggunakan Mapset Verifier (MV):
 
 - **Jika creator mapset telah me-remix atau meng-cover lagu tersebut, mereka bebas memberi judul yang sesuai untuk menandakan bahwa lagu ini adalah versi khusus.** Dalam hal ini, lagu asli masih harus ditunjukkan dengan jelas di judul atau tags agar pemain dapat mencari lagu aslinya.
 - **Dalam kompilasi atau remix, judul lagu asli dan artis harus dimasukkan dalam tags.** Hal ini untuk memastikan bahwa pemain dapat menemukan semua beatmap dari satu lagu dengan mencari hal yang sama tanpa mendapat hasil yang sangat berbeda.
-- **Lagu dengan metadata yang berisi karakter unicode yang ambigu atau sulit ditulis harus menambahkan variasi atau romanisasi yang mudah dicari dari kata-kata tersebut ke tags beatmap.**
+- **Metadata yang berisi karakter unicode yang ambigu atau sulit ditulis harus menyertai variasi atau romanisasi yang mudah dicari dari kata-kata tersebut ke tags beatmap.**
 - **Jika sumber lagu tersedia dalam format unicode dan romawi, opsi yang tidak digunakan di kolom sumber harus ditambahkan ke tags.**
 - **[Genre dan bahasa](/wiki/Beatmap/Genre_and_language) lagu harus ditambahkan ke tags beatmap.** Hal ini untuk memungkinkan pengguna menelusuri istilah ini dalam game seperti yang mereka lakukan di situs web. Untuk lagu instrumental, "instrumental" dianggap sebagai tag bahasa. Pengecualian berlaku jika bahasa dan/atau genre tidak jelas, atau yang lain juga dapat digunakan. Dalam kasus yang terakhir, satu tag untuk masing-masing dapat dimasukkan.
 - **Tags harus ditambahkan untuk artis terkait, nama alternatif untuk artis, judul, atau sumber, kontraksi di bagian mana pun dari metadata dengan apostrof dihilangkan, dan apa pun yang dapat membantu pemain menemukan mapset.**
@@ -181,7 +178,7 @@ Kategori ini berisi perbolehan eksplisit mengenai konsep dan peraturan yang bias
 - **[Uninherited timing points](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) harus digunakan untuk memetakan tanda birama lagu secara akurat.** Jika tanda birama yang salah berlangsung selama lebih dari satu bar, sebuah uninherited timing point harus ditambahkan pada break berikutnya untuk mengatur ulang tanda birama. Untuk birama #/4 yang tidak didukung editor, pengaturan ulang metronom (*metronome reset*) atau pengeditan berkas `.osu` diperbolehkan. Untuk tanda birama yang tidak didukung, lihat [bagan referensi](/wiki/shared/timing/Timing_signature_reference_chart.png), dan lihat panduan [Timing songs with #/8-signatures](/wiki/Guides/Timing_Songs_With_8-Signatures) untuk informasi lebih lanjut.
 - **Beatmap harus di-time dengan sempurna.** Ini berarti [BPM](/wiki/Beatmapping/Beats_per_minute) dan [offset](/wiki/Beatmapping/Offset) tersinkron dengan lagu. Beatmap dengan BPM yang terus berubah mungkin mustahil untuk di-time dengan sempurna sehingga harus seakurat mungkin tanpa mempengaruhi gameplay secara negatif. Timing yang rumit selama break atau spinner itu opsional.
 - **[Uninherited timing points](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) harus sama di setiap tingkat kesulitan sebuah beatmap.** Setiap titik harus memiliki [BPM](/wiki/Beatmapping/Beats_per_minute) dan [offset](/wiki/Beatmapping/Offset) di setiap tingkat kesulitan.
-- **Tidak boleh ada tambahan [uninherited timing points](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) di tingkat kesulitan apapun.** Hal ini dapat secara tidak sengaja memengaruhi denyut menu utama, menambah suara yang tidak diinginkan ke mod [Nightcore](/wiki/Game_modifier/Nightcore), atau menyebabkan timing bergeser. Penggunaan yang dapat diterima meliputi:
+- **[Uninherited timing points](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) hanya boleh digunakan bila diperlukan untuk tujuan timing.** Timing points yang tidak diperlukan dapat secara tidak sengaja memengaruhi denyut menu utama, menambah suara yang tidak diinginkan ke mod [Nightcore](/wiki/Game_modifier/Nightcore), atau menyebabkan timing bergeser. Penggunaan yang dapat diterima meliputi:
   - Menyelaraskan ketukan mod Nightcore dengan dimulainya bagian musik.
   - Mengakomodasi objek dalam bagian musik yang membutuhkan pembagi beat snap yang tidak didukung (mis. 1/11).
 - **Tidak boleh ada dua [uninherited](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) atau dua [inherited timing points](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point) di titik yang sama.** Memiliki dua uninherited atau dua inherited timing point di atas satu sama lain akan menyebabkan perilaku yang tidak diinginkan untuk pengaturan kecepatan slider dan volume.
@@ -202,8 +199,8 @@ Kategori ini berisi perbolehan eksplisit mengenai konsep dan peraturan yang bias
   - **...memiliki rata-rata bit rate tidak kurang dari 128 kbps**, apabila tidak menemukan sumber yang lebih baik. Sebaliknya, gunakan kualitas audio terbaik yang ada.
   - **...tidak di-*encode* menjadi lebih tinggi daripada bitrate yang rendah.**
 - **Beatmap hanya dapat berisi satu file lagu yang digunakan oleh semua tingkat kesulitan.** Beberapa file lagu dalam satu set beatmap tidak didukung dan menghasilkan perilaku yang tidak terduga dengan waktu pratinjau, metadata, dll.
-- **Beatmap wajib memiliki [hitsound](/wiki/Beatmapping/Hitsound).** Hitnormal memberikan umpan balik kepada pemain, dan additions (peluit, tepuk tangan, dan penutup) memberi aksen pada bagian penting dari musik.
-  - **beatmap pada osu!mania tidak memerlukan hitsound additions.** Hal ini untuk memudahkan para mapper osu!mania dari berbagai latar belakang untuk didekati dengan lebih mudah. Masih sangat disarankan untuk menambahkan hitsound untuk meningkatkan nuansa beatmap kamu. Jika hitsound tidak digunakan, maka addition dan *sample control point* tidak boleh ditambahkan.
+- **Beatmap wajib memiliki [hitsound](/wiki/Beatmapping/Hitsound).** Hitnormal memberikan umpan balik kepada pemain, dan additions (peluit, tepuk tangan, dan penutup) memberi aksen pada bagian penting dari musik.[^normal-vs-addition]
+  - **beatmap pada osu!mania tidak memerlukan hitsound additions.**[^normal-vs-addition] Hal ini untuk memudahkan para mapper osu!mania dari berbagai latar belakang untuk didekati dengan lebih mudah. Masih sangat disarankan untuk menambahkan hitsound untuk meningkatkan nuansa beatmap kamu. Jika hitsound tidak digunakan, maka addition dan *sample control point* tidak boleh ditambahkan.
 - **Semua objek yang diklik harus memiliki suara [hitsound aktif](/wiki/Beatmapping/Hitsound#hitsound-aktif).** Beatmap osu!mania dikecualikan dari ini karena konstruksi ritme mode ini.
 - **[Hitsound aktif](/wiki/Beatmapping/Hitsound#hitsound-aktif) harus menggunakan format file `.wav` atau` .ogg`.** File `.mp3` memiliki sedikit tundaan, dan oleh karena itu hanya digunakan untuk [hitsound pasif](/wiki/Beatmapping/Hitsound#hitsound-pasif), seperti suara ambient.
 - **[Hitsound aktif](/wiki/Beatmapping/Hitsound#hitsound-aktif) tidak boleh memiliki tundaan lebih dari 5 milidetik.** "Tundaan" disini merupakan puncak suara daripada awal suara. Hal ini memastikan umpan balik hitsound tersinkron dengan lagu secara efektif. `normal-hitfinish.wav` skin default mengalami sedikit tundaan, namun masih dapat digunakan sebagai hitsound kustom.
@@ -236,8 +233,8 @@ Kategori ini berisi perbolehan eksplisit mengenai konsep dan peraturan yang bias
 - **Berikut ini adalah persyaratan untuk gambar latar:**
   - **Lebar minimum:** 160px
   - **Tinggi minimum:** 120px
-  - **Lebar maksimum:** 2560px
-  - **Tinggi maksimum:** 1440px
+  - **Lebar maksimum:** 2560px[^maximum-dimensions]
+  - **Tinggi maksimum:** 1440px[^maximum-dimensions]
   - **Ukuran file maksimum:** 2.5MB
 - **Dimensi video tidak boleh melebihi lebar 1280 dan tinggi 720 pixel.** Selain itu, meng-upscale video resolusi rendah ke resolusi yang lebih tinggi harus dihindari untuk memastikan file video tidak menjadi terlalu besar atau menghabiskan banyak sumber daya.
 - **[Offset](/wiki/Beatmapping/Offset) video harus benar jika itu sinkron dengan lagu.** Offset yang salah dapat menyebabkan representasi visual yang tidak sesuai dengan lagu. Jika video yang sama muncul dalam beberapa tingkat kesulitan, itu harus selalu memiliki offset yang sama.
@@ -300,3 +297,9 @@ Kategori ini berisi perbolehan eksplisit mengenai konsep dan peraturan yang bias
   - **Coba untuk tidak mengaktifkan beberapa sprite saat tidak dirender.** Sprite aktif akan tetap memproses perintah terlepas dari terlihat atau tidaknya sprite tersebut. Jika hal ini terjadi untuk periode waktu yang lama, buat sprite baru, ketika visibilitas diperoleh kembali.
   - **Saat menggunakan banyak perintah dengan jenis yang sama pada sebuah sprite, coba tinggalkan setidaknya 16 milidetik di antara waktu mulainya.** 60 perintah per detik seringkali lebih dari cukup bagi sprite untuk membuat transisi yang mulus pada setup biasa. Ini dilakukan untuk mengurangi ukuran file dan waktu pemuatan.
   - **Pudarkan sprite yang aktif dari trigger setelah selesai digunakan.** Trigger akan aktif dari perintah pertama dan tetap aktif sampai akhir tingkat kesulitan, itulah mengapa memudarkannya setelah selesai disarankan.
+
+## Catatan
+
+[^character-voice-actor]: `CV` (Aktor Suara) digunakan ketika lagu dinyanyikan oleh seorang yang dari karakter aktor suara. `VO` (Pengisi Suara) digunakan ketika lagu dinyanyikan di dalam tampilan suara karakter oleh seorang yang bukan dari karakter aktor suara.
+[^maximum-dimensions]: Background yang juga digunakan sebagai gambar storyboard harus mengikuti [aturan dimensi maksimal bagi gambar storyboard](/wiki/Ranking_Criteria#peraturan.7)
+[^normal-vs-addition]: [Hitsound](/wiki/Beatmapping/Hitsound) terdiri dari sampel *hitnormal* yang selalu ada, dan kombinasi dari sampel whistle, finish, atau clap *additions*.
