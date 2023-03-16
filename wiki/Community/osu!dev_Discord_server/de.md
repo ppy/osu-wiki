@@ -2,8 +2,6 @@
 tags:
   - development
   - Softwareentwicklung
-outdated_translation: true
-outdated_since: 7ca332517b46ef83f80a09c1b9082b437bacd39a
 ---
 
 # osu!dev Discord-Server
@@ -12,9 +10,7 @@ outdated_since: 7ca332517b46ef83f80a09c1b9082b437bacd39a
 
 Der dauerhafte Einladungslink lautet <https://discord.gg/ppy>.
 
-## Verifizierung
-
-Neue Mitglieder des Servers haben normalerweise nicht die Erlaubnis Nachrichten zu senden. Im `#arrival`-Kanal kann man sich mit einem kurzen Überblick über seine Intentionen vorstellen. Ein Mitglied des osu!-Teams wird dann eine Rolle hinzufügen, um die Beschränkung aufzuheben.
+Wer neu auf dem Server ist, kann sich gerne im Kanal `#introductions` vorstellen. Das ist jedoch keine Voraussetzung, um mit dem Rest des Servers zu interagieren.
 
 ## Projekte
 
