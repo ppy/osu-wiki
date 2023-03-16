@@ -67,7 +67,7 @@ osu! так устроено, что ранкнутые карты, которы
 - Загляните в [турнирный форум](https://osu.ppy.sh/community/forums/55).
   Возможно, вы выступите там в качестве зрителя или судьи;
 - Исследуйте [форум разработчиков](https://osu.ppy.sh/community/forums/2). Активность там низкая, но их [проекты](https://osu.ppy.sh/community/forums/topics/58855) [более](https://osu.ppy.sh/community/forums/topics/80027) [серьёзны](https://osu.ppy.sh/community/forums/topics/79354) и масштабны;
-- Влейтесь в какой-нибудь [проект по маппингу](https://osu.ppy.sh/community/forums/53) и сделайте вместе с другими мапперами совместную карту — [коллаб](/wiki/Guides/Collab_Information);
+- Влейтесь в какой-нибудь [проект по маппингу](https://osu.ppy.sh/community/forums/53) и сделайте вместе с другими мапперами совместную карту — [коллаб](/wiki/Beatmap/Beatmap_collaborations);
 - Если у вас есть хорошая идея, начните свой собственный проект.
 
 ## Будущее osu!
