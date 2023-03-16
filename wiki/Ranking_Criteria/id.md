@@ -107,7 +107,7 @@ Hal-hal yang perlu diperhatikan sebelum menggunakan Mapset Verifier (MV):
 - **Koma, `vs.`, `feat.`, `CV:` dan simbol lain yang menghubungkan atau menunjuk artis harus disertai spasi.** Kecuali koma, spasi juga diperlukan jika penanda diawali dengan kata.
 - **Segala bentuk `vs.`, `Vs.`, `VS`, dll. harus ditulis sebagai `vs.` ketika digunakan sebagai penanda kolaborasi antara dua atau lebih artis.**
 - **Segala bentuk `feat.`, `ft.`, `Ft.`, etc. harus ditulis sebagai `feat.` ketika digunakan sebagai penanda tamu artis dalam lagu tersebut.**
-- **Jika karakter fiksi digunakan sebagai penyanyi lagu, nama mereka harus dirubah dalam format `Nama Karakter (CV: Aktor Suara)` atau format `Nama Karakter (VO: Aktor Suara)`[^character-voice-actor].** Untuk laga hidup, gunakan pengisi suara saja.
+- **Jika karakter fiksi digunakan sebagai penyanyi lagu, nama mereka harus dirubah dalam format `Nama Karakter (CV: Aktor Suara)` atau format `Nama Karakter (VO: Pengisi Suara)`[^character-voice-actor].** Untuk laga hidup, gunakan pengisi suara saja.
 - **Jika sebuah lagu digunakan dalam program televisi, serial web, atau serial direct-to-video, seperti lagu pembuka/penutup/sisipan, gunakan penanda `(TV Size)` di akhir judul.** Jika sudah ada penanda TV size di judul, ganti dengan `(TV Size)`.
 - **Jika judul lagu berisi penanda versi singkat atau game, penanda tersebut harus distandardisasi menjadi `(Short Ver.)` dan `(Game Ver.)` berturutan.**
 - **Versi singkat yang tidak resmi harus menambahkan penanda `(Cut Ver.)` di akhir judul.** Jika penanda panjang lagu sudah ada di judul lagu, `(Cut Ver.)` akan menggantinya. Hal ini untuk membedakan versi singkat tidak resmi dari versi panjang lagu tersebut. Lagu yang dipersingkat dengan bagian yang hampir sama dengan versi resminya, dan lagu yang merupakan loop penuh dari lagu yang berulang tidak dianggap dipotong.
@@ -300,6 +300,6 @@ Kategori ini berisi perbolehan eksplisit mengenai konsep dan peraturan yang bias
 
 ## Catatan
 
-[^character-voice-actor]: `CV` (Aktor Suara) digunakan ketika lagu dinyanyikan di dalam tampilan suara karakter oleh seorang yang bukan dari karakter aktor suara.
+[^character-voice-actor]: `CV` (Aktor Suara) digunakan ketika lagu dinyanyikan oleh seorang yang dari karakter aktor suara. `VO` (Pengisi Suara) digunakan ketika lagu dinyanyikan di dalam tampilan suara karakter oleh seorang yang bukan dari karakter aktor suara.
 [^maximum-dimensions]: Background yang juga digunakan sebagai gambar storyboard harus mengikuti [aturan dimensi maksimal bagi gambar storyboard](/wiki/Ranking_Criteria#peraturan.7)
 [^normal-vs-addition]: [Hitsound](/wiki/Beatmapping/Hitsound) terdiri dari sampel *hitnormal* yang selalu ada, dan kombinasi dari sampel whistle, finish, atau clap *additions*.
