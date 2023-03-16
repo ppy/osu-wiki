@@ -10,9 +10,7 @@ tags:
 
 Der dauerhafte Einladungslink lautet <https://discord.gg/ppy>.
 
-## Verifizierung
-
-Neue Mitglieder des Servers haben normalerweise nicht die Erlaubnis Nachrichten zu senden. Im `#arrival`-Kanal kann man sich mit einem kurzen Überblick über seine Intentionen vorstellen. Ein Mitglied des osu!-Teams wird dann eine Rolle hinzufügen, um die Beschränkung aufzuheben.
+Wer neu auf dem Server ist, kann sich gerne im Kanal `#introductions` vorstellen. Das ist jedoch keine Voraussetzung, um mit dem Rest des Servers zu interagieren.
 
 ## Projekte
 
@@ -20,7 +18,7 @@ Jedes Projekt wird in seinem dafür vorgesehenen Kanal diskutiert:
 
 | Projekt | Kanal |
 | :-- | :-- |
-| [osu!(lazer)](https://github.com/ppy/osu) | `#osu-lazer` |
+| [osu!(lazer)](/wiki/Client/Release_stream/Lazer) | `#osu-lazer` |
 | [osu!framework](https://github.com/ppy/osu-framework) | `#osu-framework` |
 | [osu!web](https://github.com/ppy/osu-web) | `#osu-web` |
 | [osu!](/wiki/Game_mode/osu!) [Star Rating](/wiki/Beatmapping/Star_rating) und [Performance-Punkte](/wiki/Performance_points) | `#difficulty-osu` |

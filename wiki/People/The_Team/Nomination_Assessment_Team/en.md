@@ -69,6 +69,23 @@ Evaluators who show proficiency in the advisory tasks outlined above, to the poi
 
 Before adding a new advisor, the addition is sanity checked with the rest of the NAT in case of objections. If no issues arise, the new advisor will then be subject to activity expectations depending on their specific situation. If the contribution of an advisor is considered lacklustre or unnecessary at some later point, again as judged by the designated member, then they will be moved back to being an evaluator.
 
+## NAT Leadership
+
+As of March 2023, the NAT has decided to re-adopt the concept of leadership, which was [previously used](/wiki/Modding/QAT_Leaders) in the [QAT](/wiki/Modding/Quality_Assurance_Team). NAT leaders have the combined responsibility of both evaluators and advisors so they can watch over and stay involved with every aspect of the NAT.
+
+The current NAT leaders are ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) and ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099).
+
+### Responsibilities
+
+NAT leaders aim to cover the following tasks:
+
+- **Activity management:** Constantly monitoring the activity of other NAT members and handling cases of low activity, either through regular checkups or through exit interviews, in case of activity issues regarding certain members.
+- **Communication:**
+  - Acting as a bridge between the osu! team, the NAT, and the mapping community, constantly communicating any changes, concerns, or demands raised.
+  - Encourage participation in internal and external discussions by proactively engaging all parties, keeping discussions organised, and facilitating the combination of different viewpoints to form a practical course of action.
+  - Promote new or existing ideas that can easily get lost in the midst of discussions/ranking criteria proposals.
+- **Problem solving:** Taking initiative to be involved with critical decision making and handling delicate concerns raised by the team or the community.
+
 ## Team members
 
 *Note: All NAT members speak English in addition to the language(s) listed below unless noted otherwise.*
@@ -107,8 +124,8 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | German | Evaluator |
 | ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | Urdu, some Arabic | Evaluator |
 | ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733) | Cantonese, Chinese | Evaluator |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Arabic, French, some Italian | Evaluator |
-| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | Evaluator |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Arabic, French, some Italian | Leader |
+| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | Leader |
 
 ### osu!catch
 
@@ -116,7 +133,6 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | :-- | :-- | :-- |
 | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | Spanish, German | Evaluator |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Dutch | Evaluator |
-| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  | Evaluator |
 
 ### osu!mania
 

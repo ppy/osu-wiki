@@ -305,7 +305,9 @@ Para pengguna berikut memperoleh gelarnya masing-masing atas keberhasilan mereka
 | Pengguna | Gelar | Pencapaian |
 | :-- | :-- | :-- |
 | ::{ flag=NO }:: [-GN](https://osu.ppy.sh/users/895581) | Champion Above Champions | Menorehkan FC NoMod pertama pada beatmap [Shotgun Symphony+ [Impossibly Intense]](https://osu.ppy.sh/beatmapsets/7671#osu/32570) |
+| ::{ flag=US }:: [EEEEEEEEEEEEEEE](https://osu.ppy.sh/users/2927048) | osu!completionist | Memainkan semua beatmap osu! yang berstatus Ranked hingga tanggal 15 Maret 2023 |
 | ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) | Drum Decimator | Menorehkan FC pada semua beatmap osu!taiko yang berstatus Ranked hingga tanggal 3 November 2019 |
+| ::{ flag=PL }:: [Przegrany](https://osu.ppy.sh/users/7635621) | osu!completionist | Memainkan semua beatmap osu! yang berstatus Ranked hingga tanggal 11 Agustus 2021 |
 | ::{ flag=NL }:: [Shirotora_old](https://osu.ppy.sh/users/11820) | Bested the Reaper's Game | Gelar ini diberikan oleh ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) sebagai tanda pencapaian peringkat #104 dalam kurun waktu sepekan, yang merupakan referensi dari [*The World Ends with You*](https://id.wikipedia.org/wiki/The_World_Ends_with_You) |
 | ::{ flag=US }:: [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist | Memainkan semua beatmap osu! yang berstatus Ranked hingga tanggal 27 April 2019 |
 | ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter | Memenangkan perlombaan [The Hunt for the Girl in the Forest](https://osu.ppy.sh/community/forums/topics/662279) |

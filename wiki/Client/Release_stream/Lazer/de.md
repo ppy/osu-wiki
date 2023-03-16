@@ -12,6 +12,8 @@ tags:
 
 # Updatequelle lazer
 
+*Für eine vollständige Liste an neuen Funktionen und anderen Unterschieden im Vergleich zu osu!(stable), siehe: [Funktionsvergleich von osu!(lazer)](/wiki/Client/Release_stream/Lazer/Feature_comparison).*
+
 ::: Infobox
 
 ![](img/lazer.png "Das Client-Logo von osu!(lazer), eine stylisierte Version des osu!-Cookies")
