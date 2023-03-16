@@ -13,7 +13,6 @@
 - [自定默认打击声样本](Custom_Sample_Overrides)
 - [如何更改一张谱面的曲师名或标题](Changing_the_Artist_or_Title)
 - [如何解决谱面提交系统的问题](BSS_Issues)
-- [如何开始与他人协作创作谱面](Collab_Information)
 - [如何开始一个谱面项目](Starting_a_Beatmap_Project)
 - [如何测定歌曲时间轴](How_to_Time_Songs)
 - [基础乐理](/wiki/Music_theory)
