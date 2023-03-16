@@ -303,9 +303,11 @@ Estos jugadores recibieron sus respectivos títulos a través de un logro de jue
 | Usuario | Título | Logro |
 | :-- | :-- | :-- |
 | ::{ flag=NO }:: [-GN](https://osu.ppy.sh/users/895581) | Champion Above Champions | Consiguió el primer NoMod FC en [Shotgun Symphony+ [Impossibly Intense]](https://osu.ppy.sh/beatmapsets/7671#osu/32570) |
+| ::{ flag=US }:: [EEEEEEEEEEEEEEE](https://osu.ppy.sh/users/2927048) | osu!completionist | Jugó todos los mapas clasificados de osu! hasta el 15 de marzo de 2023 |
 | ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) | Drum Decimator | Consiguió FC en todos los mapas clasificados de osu!taiko a partir del 3 de noviembre de 2019 |
+| ::{ flag=PL }:: [Przegrany](https://osu.ppy.sh/users/7635621) | osu!completionist | Jugó todos los mapas clasificados de osu! hasta el 11 de agosto de 2021 |
 | ::{ flag=NL }:: [Shirotora_old](https://osu.ppy.sh/users/11820) | Bested the Reaper's Game | Otorgado por ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) a finales de 2008 por alcanzar el puesto 104 en 1 semana, como referencia a [*The World Ends with You*](https://es.wikipedia.org/wiki/The_World_Ends_with_You) |
-| ::{ flag=US }:: [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist | Jugó todos los mapas clasificados de osu! a partir del 27 de abril de 2019 |
+| ::{ flag=US }:: [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist | Jugó todos los mapas clasificados de osu! hasta el 27 de abril de 2019 |
 | ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter | Ganó [The Hunt for the Girl in the Forest](https://osu.ppy.sh/community/forums/topics/662279) |
 
 ## Contribuidores

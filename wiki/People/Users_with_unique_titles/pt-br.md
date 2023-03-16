@@ -194,9 +194,11 @@ Esses jogadores conseguiram seus títulos com alguma conquista maluca ou complet
 | Usuário | Título | Conquista |
 | :-- | :-- | :-- |
 | ::{ flag=NO }:: [-GN](https://osu.ppy.sh/users/895581) | Champion Above Champions | Fez o primeiro score NoMod FC na [Shotgun Symphony+ [Impossibly Intense]](https://osu.ppy.sh/beatmapsets/7671#osu/32570) |
-| ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) | Drum Decimator | Fez scores FCs em todos os mapas de osu!taiko Ranqueados a partir de 3 de  Novembro de 2019 |
+| ::{ flag=US }:: [EEEEEEEEEEEEEEE](https://osu.ppy.sh/users/2927048) | osu!completionist | Jogou todos os mapas de osu! a partir de 15 de Março de 2023 |
+| ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) | Drum Decimator | Fez scores FCs em todos os mapas de osu!taiko Ranqueados a partir de 3 de Novembro de 2019 |
+| ::{ flag=PL }:: [Przegrany](https://osu.ppy.sh/users/7635621) | osu!completionist | Jogou todos os mapas de osu! a partir de 11 de Agosto de 2021 |
 | ::{ flag=NL }:: [Shirotora_old](https://osu.ppy.sh/users/11820) | Bested the Reaper's Game | *Não documentado* |
-| ::{ flag=US }:: [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist | Jogou todos os mapas de osu! a partir de 27 April 2019 |
+| ::{ flag=US }:: [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist | Jogou todos os mapas de osu! a partir de 27 de Abril de 2019 |
 | ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter | Ganhou [The Hunt for the Girl in the Forest](https://osu.ppy.sh/community/forums/topics/662279) |
 
 ### Contribuintes
