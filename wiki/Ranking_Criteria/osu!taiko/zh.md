@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: c4cb59021d4e076aea3aa13c257a8b0a7fb70a6c
 ---
 
 # osu!taiko 上架标准

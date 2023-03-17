@@ -3,6 +3,8 @@ no_native_review: true
 tags:
   - development
   - 開發
+outdated_translation: true
+outdated_since: 7ca332517b46ef83f80a09c1b9082b437bacd39a
 ---
 
 # osu!dev Discord 伺服器

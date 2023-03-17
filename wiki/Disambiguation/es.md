@@ -18,7 +18,6 @@ Un artículo regular, si tiene un titulo similar, tiene que usar la [nota "Para 
 - [Mod](Mod)
 - [NC](NC)
 - [NM](NM)
-- [Offset](Offset)
 - [osu!](osu!)
 - [Ouendan](Ouendan)
 - [Rank](Rank)
