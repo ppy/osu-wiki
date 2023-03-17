@@ -110,7 +110,6 @@ tags:
 | ::{ flag=TR }:: [Burak](https://osu.ppy.sh/users/13213075) | Турецкий |
 | ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | Китайский, кантонский |
 | ::{ flag=MX }:: [DakeDekaane](https://osu.ppy.sh/users/1425253) | Испанский |
-| ::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142) | Вьетнамский |
 | ::{ flag=BR }:: [D0UG](https://osu.ppy.sh/users/13806900) | Португальский |
 | ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733) | Кантонский, китайский |
 | ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851) | Немецкий |

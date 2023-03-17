@@ -112,7 +112,6 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ::{ flag=TR }:: [Burak](https://osu.ppy.sh/users/13213075) | Turkish |
 | ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | Chinese, Cantonese |
 | ::{ flag=MX }:: [DakeDekaane](https://osu.ppy.sh/users/1425253) | Spanish |
-| ::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142) | Vietnamese |
 | ::{ flag=BR }:: [D0UG](https://osu.ppy.sh/users/13806900) | Portuguese |
 | ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733) | Cantonese, Chinese |
 | ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851) | German |

@@ -112,7 +112,6 @@ Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masin
 | ::{ flag=TR }:: [Burak](https://osu.ppy.sh/users/13213075) | Turki |
 | ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | Tionghoa, Kanton |
 | ::{ flag=MX }:: [DakeDekaane](https://osu.ppy.sh/users/1425253) | Spanyol |
-| ::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142) | Vietnam |
 | ::{ flag=BR }:: [D0UG](https://osu.ppy.sh/users/13806900) | Portugis |
 | ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733) | Kanton, Tionghoa |
 | ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851) | Jerman |

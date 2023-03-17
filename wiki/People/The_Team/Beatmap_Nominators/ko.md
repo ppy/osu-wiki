@@ -112,7 +112,6 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 | ::{ flag=TR }:: [Burak](https://osu.ppy.sh/users/13213075) | 터키어 |
 | ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | 중국어, 광둥어 |
 | ::{ flag=MX }:: [DakeDekaane](https://osu.ppy.sh/users/1425253) | 스페인어 |
-| ::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142) | 베트남어 |
 | ::{ flag=BR }:: [D0UG](https://osu.ppy.sh/users/13806900) | 포르투갈어 |
 | ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733) | 광둥어, 중국어 |
 | ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851) | 독일어 |

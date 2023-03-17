@@ -167,8 +167,9 @@ Abbreviations for user groups are used throughout this log:
 - 2023-03-08: Removed [GIGACHAD](https://osu.ppy.sh/users/11081858) from **BN**
 - 2023-03-09: Removed [Morrighan](https://osu.ppy.sh/users/12042090) from **BN**
 - 2023-03-10: Removed [riffy](https://osu.ppy.sh/users/597957) from **Probationary BN**
+- 2023-03-17: Removed [davidminh0111](https://osu.ppy.sh/users/9623142) from **BN**
 
-<!-- last updated with Faputa moved from NAT to BN 17/03/2023 14:43 UTC>
+<!-- last updated with davidminh0111 removed from BN 17/03/2023 23:52 UTC>
 
 <!--
 To update this article:

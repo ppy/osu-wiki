@@ -112,7 +112,6 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ::{ flag=TR }:: [Burak](https://osu.ppy.sh/users/13213075) | Türkçe |
 | ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | Çince, Kantonca |
 | ::{ flag=MX }:: [DakeDekaane](https://osu.ppy.sh/users/1425253) | İspanyolca |
-| ::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142) | Vietnamca |
 | ::{ flag=BR }:: [D0UG](https://osu.ppy.sh/users/13806900) | Portekizce |
 | ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733) | Kantonca, Çince |
 | ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851) | Almanca |
