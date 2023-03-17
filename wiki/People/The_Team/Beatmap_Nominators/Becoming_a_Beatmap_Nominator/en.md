@@ -4,7 +4,7 @@ Users interested in joining the [Beatmap Nominators](/wiki/People/The_Team/Beatm
 
 Applications are conducted via the [NAT website](http://bn.mappersguild.com/bnapps).
 
-Applicants are required to meet a minimum [kudosu](/wiki/Modding/Kudosu) threshold, submit at least two [maps](/wiki/Beatmap) they have recently [modded](/wiki/Modding), and complete a [Beatmap Nominator Test](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) on the [Ranking Criteria](/wiki/Ranking_Criteria) in order to submit their application. A message from the NAT will be sent once a verdict has been decided. More information on applying can be found [on the website]((http://bn.mappersguild.com/bnapps)).
+Applicants are required to meet a minimum [kudosu](/wiki/Modding/Kudosu) threshold, submit at least two [beatmaps](/wiki/Beatmap) they have recently [modded](/wiki/Modding), and complete a [Beatmap Nominator Test](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) on the [ranking criteria](/wiki/Ranking_Criteria) in order to submit their application. A message from the NAT will be sent once a verdict has been decided. More information on applying can be found [on the website]((http://bn.mappersguild.com/bnapps)).
 
 ## Basic criteria
 
@@ -18,40 +18,40 @@ Modders aiming to apply to the Beatmap Nominators must fulfil the following crit
 
 *See also: [Common modding mistakes](/wiki/Guides) and [osu!mania modding guide](/wiki/Guides/osu!mania_modding_guide)*
 
-Submitted mods should show that a user is capable of analysing and improving maps to a standard fit for the Beatmap Nominators.
+Submitted mods should show that a user is capable of analysing and improving beatmaps to a standard fit for the Beatmap Nominators.
 
 The following are modding traits expected of Beatmap Nominators. Failure to display any of these traits may result in a rejected application.
 
-- **Coverage of all common difficulty levels**
+- **Coverage of all common difficulty levels.**
   - Most beatmaps will have a spread of [difficulties](/wiki/Beatmap/Difficulty) ranging from easy up to expert, and so Beatmap Nominators must be proficient in modding such difficulties. Proficiency in modding extremely high level difficulties is not required.
-- **Identification of unrankable issues, including ones tools can't detect, such as incorrect timing or metadata**
-- **Comparison between parts of a map to support issues or suggestions**
-  - Referencing other parts of the map is useful for keeping suggestions in line with the original styles and ideas the mapper has in their map.
-- **Commentary about a wide variety of map elements, such as [rhythm](/wiki/Beatmapping/Mapping_techniques/Rhythm), spacing, movement, intensity, contrast, and consistency**
+- **Identification of unrankable issues, including ones tools cannot detect, such as incorrect timing or metadata.**
+- **Comparison between parts of a beatmap to support issues or suggestions.**
+  - Referencing other parts of the beatmap is useful for keeping suggestions in line with the original styles and ideas the mapper has in their map.
+- **Commentary about a wide variety of beatmap elements, such as [rhythm](/wiki/Music_theory/Rhythm), spacing, movement, intensity, contrast, and consistency.**
   - While Beatmap Nominators are encouraged to ask for help when needed, they should be able to judge almost all aspects of mapping independently to a decent level.
 - **Identification of both isolated issues and general map-wide issues**
-- **Consideration of mappers' intentions when identifying issues and giving suggestions**
+- **Consideration of mappers' intentions when identifying issues and giving suggestions.**
   - Avoid suggesting your own mapping styles or preferences if they contradict the mapper's intended style. If there is an issue related to the mapper's style, try to frame your suggestions around what they originally intended.
-- **Ability to make useful suggestions and spot mistakes for mappers of varying experience**
-  - Beatmap Nominators will often deal with very experienced mappers or high quality maps which may not require much feedback. It is important therefore to still be able to spot mistakes and suggest improvements for even the most seasoned of mappers.
-  - For the application, it is not recommended to submit mods of maps from beginner mappers which lack the fundamentals. Instead, submitted mods should be on maps that are ready for a BN to look at.
-- **Communicating with the mapper in as clear a manner as possible**
-  - Mod posts should explain clearly the issue and the solution as clearly and concisely as possible to avoid confusing the mapper, or even having their suggestion applied incorrectly. Specialised terminology should also be generally avoided.
+- **Ability to make useful suggestions and spot mistakes for mappers of varying experience levels.**
+  - Beatmap Nominators will often deal with very experienced mappers or high-quality maps which may not require much feedback. It is important therefore to still be able to spot mistakes and suggest improvements for even the most seasoned of mappers.
+  - For the application, it is not recommended to submit mods on maps from beginner mappers which lack the fundamentals. Instead, submitted mods should be on maps that are ready for a BN to look at.
+- **Clear communication with the mapper.**
+  - Mod posts should explain the issue and the solution as clearly and concisely as possible to avoid confusing the mapper, or even having their suggestion applied incorrectly. Specialised terminology should also generally be avoided.
 
-## Application Process
+## Application process
 
-![Application Flowchart](img/ApplicationFlowchart.png "Flowchart outlining the Beatmap Nominator application process")
+![Application flowchart](img/ApplicationFlowchart.png "Flowchart outlining the Beatmap Nominator application process")
 
 ### Individual stage
 
-During the individual stage, 2-4 evaluators are randomly assigned to the application. Sometimes, BNs are invited to be an evaluator, but there will always be at least one NAT assigned to the application.
+During the individual stage, 2–4 evaluators are randomly assigned to the application. Sometimes, BNs are invited to be an evaluator, but there will always be at least one NAT assigned to the application.
 
-The evaluators will look over your application and evaluate your modding performance and your behaviour. They will typically comment down any positive and negative posts in the mods. Each evaluator will then vote “pass”, “neutral”, or “fail” for the application.
+The evaluators will look over your application and evaluate your modding performance and your behaviour. They will typically comment down any positive and negative posts in the mods. Each evaluator will then vote "pass", "neutral", or "fail" for the application.
 
 Applicants will be evaluated on the following criteria:
 
-- Modding: Knowledge of the general [Ranking Criteria](/wiki/Ranking_Criteria) and specific criteria of each game mode. Adherence to the [modding expectations](#modding-expectations). Additional abilities like Metadata, Timing, and some others will also be taken into consideration.
-- General attitude: Tone of delivery of the mods and other behavioural expectations from the [Code of Conduct](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping), as well as general behaviour in chat/forums.
+- **Modding:** Knowledge of the general [ranking criteria](/wiki/Ranking_Criteria) and specific criteria of each [game mode](/wiki/Game_mode). Adherence to the [modding expectations](#modding-expectations). Additional abilities relating to metadata, timing, and some others will also be taken into consideration.
+- **General attitude:** Tone of delivery of the mods and other behavioural expectations from the [Code of Conduct](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping), as well as general behaviour in chat/forums.
 
 Any comments and votes from evaluators at this stage are hidden from other evaluators.
 

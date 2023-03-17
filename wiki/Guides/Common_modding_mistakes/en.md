@@ -4,9 +4,9 @@
 
 This guide will show examples of common mistakes beginner [modders](/wiki/Modding/Modder) often make when they [mod](/wiki/Modding) a [beatmap](/wiki/Beatmap).
 
-The tables below are formatted so that an example of poor modding is shown in the left column, and an explanation as to why this is a mistake in the right column.
+The points introduced below are formatted such that an example of poor modding is shown above, and an explanation as to why it is a mistake below.
 
-Examples shown in this section may use references to the [osu!](/wiki/Game_mode/osu!) game mode, but they could also be applied to other [game modes](/wiki/Game_mode).
+While the examples shown imply an [osu!](/wiki/Game_mode/osu!)-specific mapping context, they may also be applied to other [game modes](/wiki/Game_mode).
 
 ---
 
@@ -30,17 +30,17 @@ Examples shown in this section may use references to the [osu!](/wiki/Game_mode/
 00:02:000 - Same as #72727
 ```
 
-**For recurring issues, consider grouping them into one general point with some examples instead.** If you still feel that pointing everything out is absolutely necessary, then either the mapper doesn't know what they're doing or your explanation likely isn't good enough.
+**For recurring issues, consider grouping them into one general point with some examples instead.** If you still feel that pointing everything out is absolutely necessary, then either the mapper does not know what they are doing or your explanation likely is not good enough.
 
 ---
 
 ```md
 00:00:000 - These objects are placed weirdly and it's probably unrankable.
 00:01:000 - This spacing is unrankable.
-00:02:000 - I don’t think this rhythm is rankable.
+00:02:000 - I don't think this rhythm is rankable.
 ```
 
-**Avoid saying or suggesting that something is unrankable unless the [Ranking Criteria](/wiki/Ranking_Criteria) explicitly says that it is.** This may cause serious confusion for newer mappers. If something is unrankable, it means it cannot progress further through the ranking process, without exception, so use this phrase with care.
+**Avoid saying or suggesting that something is unrankable unless the [ranking criteria](/wiki/Ranking_Criteria) explicitly says that it is.** This may cause serious confusion for newer mappers. If something is unrankable, it means it cannot progress further through the [ranking process](/wiki/Beatmap_ranking_procedure), without exception, so use this phrase with care.
 
 ---
 
@@ -48,7 +48,7 @@ Examples shown in this section may use references to the [osu!](/wiki/Game_mode/
 00:00:000 - lol
 00:01:000 - this looks stupid
 00:02:000 - wow xD
-00:03:000 - don’t do this
+00:03:000 - don't do this
 ```
 
 **When pointing out an issue, be clear and formal to avoid miscommunication.** You should always state what the problem is even if it seems obvious.
@@ -61,7 +61,7 @@ Examples shown in this section may use references to the [osu!](/wiki/Game_mode/
 00:02:000 - Appears in kiai too.
 ```
 
-**If something is seemingly all over the map, it may actually be intentional.** In these cases, either explain thoroughly why you think it is wrong, or make sure they're appearing at similar moments in the song. If they're inconsistent and there is seemingly no pattern, it might be worth questioning.
+**If something is seemingly all over the map, it may actually be intentional.** In these cases, either explain thoroughly why you think it is wrong, or make sure they are appearing at similar moments in the song. If they are inconsistent and there is seemingly no pattern, it might be worth questioning.
 
 ---
 
@@ -69,7 +69,7 @@ Examples shown in this section may use references to the [osu!](/wiki/Game_mode/
 In general, notes should be mapped to distinct sounds in the song in order to properly reflect it. Keeping the rhythm density in level with the intensity of the song is /.../
 ```
 
-**Always include at least one example, at the very least a timestamp.** Without giving an example in the map you are modding, the mapper will likely be confused as to where and what the problems are. As a modder you may find yourself speaking too broadly, mostly rambling rather than trying to improve the map itself.
+**Always include at least one example, and at very least a timestamp.** Without giving an example in the map you are modding, the mapper will likely be confused as to where and what the problems are. As a modder you may find yourself speaking too broadly, mostly rambling rather than trying to improve the map itself.
 
 ---
 
@@ -80,7 +80,7 @@ Widescreen support is inconsistent and your map doesn't have a storyboard, so di
 00:02:000 - Move up by 1px.
 ```
 
-**Modding is about improving the map, not changing it because it can be changed.** If the change you’re suggesting is extremely small, take a step back and ask whether it is actually improving the map in any significant way. If not, it may not even be worth mentioning.
+**Modding is about improving the map, not changing it because it can be changed.** If the change you are suggesting is extremely small, take a step back and ask whether it is actually improving the map in any significant way. If not, it may not even be worth mentioning.
 
 ---
 
@@ -98,7 +98,7 @@ Your mapping style is really bad; just map like everyone else.
 00:00:000 - Why are there giant sliders all over? Map these sections properly.
 ```
 
-**The goal of modding is to help improve the map.** It is not to force your opinions on the mapper. If the mapper is denying things you believe would improve the map, then that's on them. In these cases, just accept it and move on, but consider their reasoning and try predicting this in similar future cases.
+**The goal of modding is to help improve the map.** It is not to force your opinions on the mapper. If the mapper is denying things you believe would improve the map, then that is on them. In these cases, just accept it and move on, but consider their reasoning and try predicting this in similar future cases.
 
 ```md
 00:00:000 - This is bad rhythm.
@@ -107,7 +107,7 @@ Your mapping style is really bad; just map like everyone else.
 00:03:000 - The flow is bad here.
 ```
 
-**While pointing out an issue is important, it is also important to provide suggestions and alternatives.** By doing this, the mapper will see what you've got in mind and can also apply this directly to the map. It's especially helpful when the mapper knows of an issue but cannot resolve it themselves.
+**While pointing out an issue is important, it is also important to provide suggestions and alternatives.** By doing this, the mapper will see what you have in mind and can also apply it directly to the map. It is especially helpful when the mapper knows of an issue but cannot resolve it themselves.
 
 ---
 
@@ -115,9 +115,9 @@ Your mapping style is really bad; just map like everyone else.
 You should probably just remap this tbh.
 ```
 
-**If you really think the mapper should remap, you have to tell them where they're going wrong and why.** There's no point in remapping if there’s nothing to learn from it, so it's something you'd want to cover in your mod. Remember to give examples!
+**If you really think the mapper should remap, you have to tell them where they are going wrong and why.** There is no point in remapping if there is nothing to learn from it, so it is something you should cover in your mod. Remember to give examples!
 
-**Remaps should also be left as a last resort.** Avoid suggesting to do this unless the map’s concept is fundamentally flawed, and a remap would be less effort on the mapper than improving the current map.
+**Remaps should also be left as a last resort.** Avoid suggesting to do this unless the map's concept is fundamentally flawed, and remapping would impose less effort on the mapper than improving the current map.
 
 ---
 
@@ -126,7 +126,7 @@ My mod is of better quality because I have better experience than you, you must 
 You don't know what quality is, just apply my mod because I know what quality is.
 ```
 
-**Whether a mod is of quality or not is up to the mapper.** Solely looking at a mod won't really say much. To tell whether it's good or not, you have to put yourself into the mapper's perspective. Would they apply these suggestions? Are they actually useful? Will the mapper understand the reasoning?
+**Whether a mod is of quality or not is up to the mapper.** Solely looking at a mod will not really say much. To tell whether it is good or not, you have to put yourself into the mapper's perspective. Would they apply these suggestions? Are they actually useful? Will the mapper understand the reasoning?
 
 ---
 
@@ -137,7 +137,7 @@ You don't know what quality is, just apply my mod because I know what quality is
 00:03:000 - rhythm is bad
 ```
 
-**When posting an issue, avoid vague words like "good" and "bad".** Not everyone is on the same page about what is good and what isn't, especially in terms of situational and subjective aspects like flow. Try to use more objective terms like “comfortable/uncomfortable”, “calm/intense”, etc. Remember to add examples to your mods where possible.
+**When posting an issue, avoid vague words like "good" and "bad".** Not everyone is on the same page about what is good and what is not, especially in terms of situational and subjective aspects like [flow](/wiki/Beatmapping/Mapping_techniques/Flow). Try to use more objective terms like "comfortable/uncomfortable", "calm/intense", etc. Remember to add examples to your mods where possible.
 
 ---
 
@@ -155,7 +155,7 @@ You don't know what quality is, just apply my mod because I know what quality is
 Aesthetics is subjective so I'll ignore that.
 ```
 
-**What you may think is objective to you is in fact still subjective to a certain degree.** It’s best to avoid thinking that subjectivity is black and white, and just mention anything you believe would help the map.
+**What you may think is objective to you is in fact still subjective to a certain degree.** It is best to avoid thinking that subjectivity is black and white, and just mention anything you believe would help the map.
 
 ---
 
@@ -165,7 +165,7 @@ learn how to map first and then I can mod this properly
 this map would look great in the trash can
 ```
 
-**Refrain from making rude or sarcastic remarks when modding.** This sort of behaviour is what you'd eventually get silenced for, and not something others would end up liking you for. Be sure to always follow the [Code of Conduct](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping#making-a-mod-post) when modding for a better modding environment for everyone.
+**Refrain from making rude or sarcastic remarks when modding.** This sort of behaviour is what would eventually get you [silenced](/wiki/Silence), and not something others would end up liking you for. Be sure to always follow the [Code of Conduct](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping#making-a-mod-post) when modding for a better modding environment for everyone.
 
 ---
 
@@ -175,4 +175,4 @@ this map would look great in the trash can
 00:02:000 - Would be cool if you did this like 00:00:500.
 ```
 
-**What you think is best isn't a valid justification.** Rather than just saying that you think your suggestion is better, explain *why* you think it's better. Explaining that it's more consistent or is parallel with some other object etc. would be a more reasonable justification for example.
+**Preference is not valid justification.** Rather than just saying that you think your suggestion is better, explain *why* you think it is better. Explaining that it is more consistent or is parallel with some other object etc. would be a more reasonable justification, for example.
