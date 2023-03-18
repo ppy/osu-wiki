@@ -15,7 +15,6 @@ Unten findet sich eine Liste an Tutorials, die von Mitgliedern der osu!-Communit
 - [Benutzerdefinierte Überschreibung von Audiosamples](Custom_Sample_Overrides)
 - [Wie man den Künstler oder Titel einer Map ändert](Changing_the_Artist_or_Title)
 - [Wie man Probleme mit dem BSS löst](BSS_Issues)
-- [Wie man eine Beatmap-Kollaboration startet](Collab_Information)
 - [Wie man ein Beatmap-Projekt anfängt](Starting_a_Beatmap_Project)
 - [Wie man Songs timt](How_to_Time_Songs)
 - [Musiktheorie](/wiki/Music_theory)
