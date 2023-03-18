@@ -10,7 +10,7 @@ date: 2023-03-18 09:00:00 +0000
 
 ...as if [VINXIS](https://osu.ppy.sh/beatmaps/artists/22), [tieff](https://osu.ppy.sh/beatmaps/artists/34), [happy30](https://osu.ppy.sh/users/27767), [Kurokotei](https://osu.ppy.sh/users/398275), and [Nakagawa-Kanon](https://osu.ppy.sh/beatmaps/artists/242) weren't enough proof already.
 
-**Down** is a beatmapper-turned-musician whose first steps into music production came from the [A Labour of Love](https://osu.ppy.sh/wiki/Contests/A_Labour_of_Love_Contest) beatmapping contest, where he designed a *questionable* remix for the classic [Kuba Oms - My Love](https://osu.ppy.sh/beatmapsets/163112). Since then, he's branched out into every genre known to man, taking influence from different composers and designing primarily *Touhou* arrangements in all sorts of styles.
+**Down** is a beatmapper-turned-musician whose first steps into music production came from the [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) beatmapping contest, where he designed a *questionable* remix for the classic [Kuba Oms - My Love](https://osu.ppy.sh/beatmapsets/163112). Since then, he's branched out into every genre known to man, taking influence from different composers and designing primarily *Touhou* arrangements in all sorts of styles.
 
 [**Down**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/350) has **13** songs for you to experiment with, more than half of which are named after mappers.
 
