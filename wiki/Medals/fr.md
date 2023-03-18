@@ -16,7 +16,7 @@ Les médailles **Skill** sont des médailles attribuées à la suite de divers a
 
 ## Dedication
 
-Les médailles **Dedication** sont des médailles attribuées lorsque vous atteignez certains seuils de nombre de parties dans un seul mode de jeu.
+Les médailles **Dedication** sont des médailles attribuées lorsque vous atteignez certains seuils de nombre de parties dans le mode de jeu osu! ou lorsque vous atteignez un certain nombre de hits dans les modes osu!taiko, osu!catch et osu!mania.
 
 ## Mod Introduction
 

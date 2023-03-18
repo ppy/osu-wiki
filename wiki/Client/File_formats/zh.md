@@ -21,7 +21,7 @@
 
 ### 使用压缩软件创建
 
-1. 安装一个可以创建 `.zip` 文件的压缩软件，如 [7-Zip](https://www.7-zip.org) 或者 [WinRAR](https://www.win-rar.com)。
+1. 安装一个可以创建 `.zip` 文件的压缩软件，如 [7-Zip](https://www.7-zip.org/) 或者 [WinRAR](https://www.rarlab.com/)。
 2. 将所有需压缩的文件集中在一个文件夹内。
 3. 右击文件夹，选择 `添加到压缩文件...` （或者，你也可以在压缩软件内选择并压缩它）
 4. 选择 ZIP 压缩文件格式。

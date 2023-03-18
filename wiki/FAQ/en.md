@@ -415,7 +415,7 @@ For osu!taiko, **OnosakiHito** has compiled a set of beatmaps for beginners to l
 
 For osu!catch, **Kingkevin30** has compiled a nice list of osu!catch beatmaps and basic explanation about osu!catch. It can be found [here](https://osu.ppy.sh/community/forums/topics/131067).
 
-For osu!mania, **Entozer** has compiled a decent list sorted by relative player's difficulties, with **Drace** providing an experienced gameplay insight for beginners starting out in osu!mania. Both of it can be found [here](https://osu.ppy.sh/community/forums/topics/147552) (**Entozer**'s beatmap guide), and [here](https://osu.ppy.sh/community/forums/topics/146615) (**Drace**'s improvement guide)
+For osu!mania, **Entozer** has compiled a decent list sorted by relative player's difficulties, with **Drace** providing an experienced gameplay insight for beginners starting out in osu!mania. Both of them can be found [here](https://osu.ppy.sh/community/forums/topics/147552) (**Entozer**'s beatmap guide), and [here](https://osu.ppy.sh/community/forums/topics/146615) (**Drace**'s improvement guide)
 
 Alternatively, the website's beatmap search bar has a feature to [sort the ranked beatmap list by difficulty](https://osu.ppy.sh/beatmapsets?sort=difficulty_asc). The easiest maps are at the top of the list.
 

@@ -8,7 +8,7 @@ Quelle que soit la nature du contenu audio, assurez-vous qu'il est également co
 
 ## Qu'est-ce qui est considéré comme un contenu explicite ?
 
-Le contenu explicite se réfère principalement au **contenu audio d'une beatmap**, surtout en ce qui concerne le thème, le sujet ou l'utilisation *lourde* de langage explicite. Il ne s'applique pas aux éléments visuels d'une beatmap, qui doivent respecter les [considérations relatives au contenu visuel](/wiki/Rules/Visual_Content_Considerations).
+Le contenu explicite se réfère principalement au **contenu audio d'une beatmap**, surtout en ce qui concerne le thème, le sujet ou l'utilisation *lourde* de langage explicite. Il ne s'applique pas aux éléments visuels d'une beatmap, qui doivent respecter les [considérations relatives au contenu visuel](/wiki/Rules/Visual_Content_Considerations), ou à tout autre aspect modifiable par l'utilisateur d'une beatmap (comme les tags ou les noms de difficulté d'une beatmap) qui **doivent** respecter les [règles de la communauté d'osu!](/wiki/Rules) comme d'habitude.
 
 D'une manière générale, la plupart des formes de musique peuvent être utilisées dans les beatmaps, à quelques exceptions près, pour autant qu'elles soient tagués de manière appropriée.
 
@@ -20,7 +20,7 @@ L'utilisation de blasphèmes doit être soutenue, significative, fortement incen
 
 En outre, une discussion vive et soutenue sur des sujets controversés ou sur tout ce qu'une personne raisonnable considérerait comme "lourd" doit être considérée comme explicite. Voici quelques exemples (mais pas tous) :
 
-- Imagerie, impact ou conséquences du suicide
+- Imagerie, impact, ou conséquences de suicide
 - Violence fortement sous-entendue
 - Représentation/discussion de conséquences violentes avec des détails sanglants.
 - Références sexuelles extrêmement manifestes ou allusions à des actes sexuels

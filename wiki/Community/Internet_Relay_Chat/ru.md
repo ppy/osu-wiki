@@ -1,8 +1,3 @@
----
-outdated_since: cf0ddf848ad418ee3a61282b7e83aa437082021d
-outdated_translation: true
----
-
 # Internet Relay Chat
 
 *Подробнее об IRC: [Internet Relay Chat (Википедия)](https://ru.wikipedia.org/wiki/Internet_Relay_Chat)*
@@ -17,7 +12,7 @@ outdated_translation: true
 
 ## Подключение
 
-Клиент нужно настроить, добавив туда адрес сервера (как именно это сделать, описано в документации выбранного вами клиента):
+Клиент нужно настроить, добавив туда адрес сервера (как именно это сделать, описано в документации к клиенту):
 
 - Сервер: `irc.ppy.sh`
 - Порт: `6667` (по умолчанию)
@@ -49,6 +44,7 @@ outdated_translation: true
 | [ircII](http://www.eterna.com.au/ircii/) | Напишите `IGNORE * CRAP` |
 | [Irssi](https://irssi.org) | Напишите `/ignore * JOINS PARTS QUITS` |
 | [Weechat](https://weechat.org/) | Напишите `/filter add joinquit * irc_join,irc_part,irc_quit *` |
+| [Konversation](https://konversation.kde.org/) | Зайдите в `Settings` -> `Configure Konversation...` (`Ctrl` + `Shift` + `,`) -> `Behavior` -> `Chat Window` и отметьте галочку `Hide Join/Part/Nick Events` |
 | [KVIrc](https://www.kvirc.net/) | См. [справку по KVIrc](https://github.com/kvirc/KVIrc/wiki/FAQ#how-do-i-suppress-join-part-and-quit-messages) |
 | [mIRC](https://www.mirc.com/) | В настройках (`Tools` -> `Options`, либо `Alt` + `O`) выберите пункт `IRC`, нажмите кнопку `Events...` и выберите `Hide` для типов Joins и Parts |
 | [Quassel IRC](https://quassel-irc.org/) | Кликните правой клавишей мыши по чату, откройте пункт `Hide Events` и выберите `Joins/Parts/Quits` |
@@ -86,4 +82,4 @@ outdated_translation: true
 
 ### Человек пишет в чат, но я не вижу его ник в списке пользователей на канале
 
-Он отправляет сообщения через [веб-чат](https://osu.ppy.sh/community/chat) или [osu!(lazer)](https://github.com/ppy/osu).
+Он отправляет сообщения через [веб-чат](https://osu.ppy.sh/community/chat) или [osu!(lazer)](/wiki/Client/Release_stream/Lazer).

@@ -1,3 +1,8 @@
+---
+outdated_since: 2d4959ec9ad9cb438363d7bf8e8220687a899602
+outdated_translation: true
+---
+
 # Criterios de clasificación de osu!mania
 
 ***Aviso: Este artículo es una extensión de los [criterios generales de clasificación](/wiki/Ranking_Criteria).***
@@ -153,6 +158,7 @@ Pautas adicionales para dificultades *Normal de 7 teclas*:
 - **Los streams largos de notas de 1/4 deben incluir, como mínimo, una pausa de 1/2 donde sea natural implementarla después de cada frase musical.** Estos pueden ser demasiado exigentes físicamente para los jugadores de este nivel.
 - **Chords dentro de streams 1/4 deben estar separados por al menos una pulsación de 1/1 del uno del otro.** Uso más denso de los chords es demasiado difícil para jugadores de este nivel.
 - **Evite el uso de chords durante streams de 1/6.** Sin embargo, el uso de un chord al principio o al final del stream está bien.
+- **Evite los anchors de cinco o más notas.** Aunque son fáciles de leer para los jugadores, los anchors largos son agotadores.
 - **Se desaconseja el uso de jacks de 1/4.** Estos pueden ser muy demandantes físicamente para jugadores de este nivel. Minijacks con un amplio tiempo de descanso en medio son aceptables.
 - **Evite utilizar más de 9 notas consecutivas en un trill.** La coordinación y balance de manos requerida para este patrón es muy alto para jugadores de este nivel.
 - **Las notas largas deben ser presionadas durante al menos 1/4 de una pulsación.**
@@ -163,12 +169,10 @@ Pautas adicionales para dificultades *Normal de 7 teclas*:
 Pautas adicionales para dificultades *Hard de 4 teclas*:
 
 - **Evite chords con más de 3 notas.** Esto incluye patrones de notas largas que implican notas en más de tres columnas.
-- **Evite los anchors de cinco o más notas.** Aunque son fáciles de leer para los jugadores, los anchors largos son agotadores.
 
 Pautas adicionales para dificultades *Hard de 7 teclas*:
 
 - **Evite los chords de cuatro o más notas.** Esto incluye patrones de notas largas que implican notas en más de cuatro columnas.
-- **Evite los anchors de cinco o más notas.** Aunque son fáciles de leer para los jugadores, los anchors largos son agotadores.
 - **Mantenga la distancia de los chords en un chordstream en 1/1 o intervalo más grande.** Cualquier cosa más densa que eso puede perjudicar la legibilidad.
 - **Hands ocasionales pueden ser usados en streams, siempre que estén separados por al menos un compás (4 pulsaciones).**
 

@@ -10,7 +10,6 @@ Vous trouverez ci-dessous une liste triée des guides créés par les membres de
 - [Changer l'artiste ou le titre d'une beatmap](Changing_the_Artist_or_Title)
 - [Comment régler le timing d'une musique](How_to_Time_Songs)
 - [Comment démarrer un projet de beatmap](Starting_a_Beatmap_Project)
-- [Comment démarrer une collaboration sur une beatmap](Collab_Information)
 - [Comment régler le décalage sur le bon rythme](Setting_the_Offset_on_the_Correct_Beat)
 - [Compression des fichiers](Compressing_files)
 - [Guide de l'édition audio](Audio_Editing)

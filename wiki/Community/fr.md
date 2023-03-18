@@ -17,6 +17,7 @@ Cette page répertorie les moyens par lesquels les utilisateurs de tout le site 
 - [Community mentorship program](/wiki/Community/Community_Mentorship_Program)
 - [Mappers' Guild](/wiki/Community/Mappers_Guild)
 - [osu! wiki](/wiki/osu!_wiki)
+- [osu!monthly](/wiki/Community/osu!monthly)
 - [Project Loved](/wiki/Community/Project_Loved)
 
 ## Initiatives

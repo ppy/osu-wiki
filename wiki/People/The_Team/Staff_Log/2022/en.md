@@ -592,10 +592,13 @@ Abbreviations for user groups are used throughout this log:
 - 2022-12-06: Removed [Nokashi](https://osu.ppy.sh/users/5431196) from **Project Loved Team**
 - 2022-12-07: Added [Maxus](https://osu.ppy.sh/users/4335785) to **Project Loved Team**
 - 2022-12-07: Added [Eriha](https://osu.ppy.sh/users/16320311) to **Project Loved Team**
-- 2022-12-11: Added [Zeus](https://osu.ppy.sh/users/5464437) to **osu! Alumni**
+- 2022-12-11: Added [Zeus-](https://osu.ppy.sh/users/5464437) to **osu! Alumni**
 - 2022-12-06: Removed [stupud man](https://osu.ppy.sh/users/2141612) from **Project Loved Team**
 - 2022-12-11: Removed [Firika](https://osu.ppy.sh/users/9590557) from **GMT**
 - 2022-12-16: Added [-Kazu-](https://osu.ppy.sh/users/920861) to **Project Loved Team**
+- 2022-12-20: Added [Kasumi-sama](https://osu.ppy.sh/users/6177263) to **Project Loved Team**
+- 2022-12-24: Removed [NexusQI](https://osu.ppy.sh/users/13822800) from **NAT**
+- 2022-12-28: Removed [UberFazz](https://osu.ppy.sh/users/8646059) from **Project Loved Team**
 
 ### Beatmap Nominators
 
@@ -609,6 +612,11 @@ Abbreviations for user groups are used throughout this log:
 - 2022-12-13: Added [Feerum](https://osu.ppy.sh/users/4815717) to **Probationary BN**
 - 2022-12-14: Added [ArtZone](https://osu.ppy.sh/users/15548034) to **Probationary BN**
 - 2022-12-19: Added [Smoke](https://osu.ppy.sh/users/10726630) to **Probationary BN**
+- 2022-12-22: Added [Rocma](https://osu.ppy.sh/users/566276) to **Probationay BN**
+- 2022-12-22: Added [browiec](https://osu.ppy.sh/users/9426712) to **Probationary BN**
+- 2022-12-24: Added [NexusQI](https://osu.ppy.sh/users/13822800) to **BN**
+- 2022-12-24: Added [-Rei](https://osu.ppy.sh/users/8200707) to **Probationary BN**
+- 2022-12-30: Added [Heroine](https://osu.ppy.sh/users/12727076) to **Probationary BN**
 
 #### Moves
 
@@ -616,21 +624,15 @@ Abbreviations for user groups are used throughout this log:
 - 2022-12-13: Moved [Seiran-](https://osu.ppy.sh/users/14351534) from **Probationary BN** to **BN**
 - 2022-12-16: Moved [Zuid-Afrikaan](https://osu.ppy.sh/users/29282944) from **Probationary BN** to **BN**
 - 2022-12-16: Moved [bigh](https://osu.ppy.sh/users/16352736) from **Probationary BN** to **BN**
+- 2022-12-23: Moved [Rinze](https://osu.ppy.sh/users/19901680) from **Probationary BN** to **BN**
+- 2022-12-23: Moved [Metzo](https://osu.ppy.sh/users/10633982) from **Probationary BN** to **BN**
+- 2022-12-30: Moved [Usaha](https://osu.ppy.sh/users/6443117) from **BN** to **Probationary BN**
+- 2022-12-30: Moved [Len](https://osu.ppy.sh/users/1686145) from **BN** to **Probationary BN**
+- 2022-12-30: Moved [Didah](https://osu.ppy.sh/users/8030129) from **BN** to **Probationary BN**
 
 #### Removals
 
-<!-- last updated 2022-12-19 21:17 UTC - Added Smoke to the Beatmap Nominators (Probationary) for [osu] -->
-
-<!--
-To update this article:
-
-- Go to the #groupfeed channel of Aiess Discord server <https://discord.gg/2XV5dcW>
-- Use the "last updated" marker above to find the relevant message sent by Aiess
-- Add entries for all of the messages after that one
-  - For dates, use the timestamp in Aiess embeds (NOT the date of the Discord message), converted to UTC
-  - If a user was added from one group and removed from another at the same time, it can be logged as a "Move" here. The only time this shouldn't be done is when one of the groups is BN and another is not, since we group BN logging separately in this article (e.g. remove from BN + add to NAT != move from BN to NAT, for logging purposes)
-- Update the "last updated" marker above with the current time and the last message from Aiess
-- Make the same updates to group member lists in their relevant articles
-
-—clayton
--->
+- 2022-12-23: Removed [Natsuko](https://osu.ppy.sh/users/8266817) from **Probationary BN**
+- 2022-12-23: Removed [Myxo](https://osu.ppy.sh/users/2202645) from **BN**
+- 2022-12-23: Removed [-Flashlight-](https://osu.ppy.sh/users/9731062) from **Probationary BN**
+- 2022-12-30: Removed [NexusQI](https://osu.ppy.sh/users/13822800) from **BN**

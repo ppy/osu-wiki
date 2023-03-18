@@ -41,9 +41,9 @@ Normalerweise informieren dich viele IRC-Clients, sobald ein Benutzer einen Chan
 | IRC-Client | Beschreibung |
 | :-- | :-- |
 | [HexChat](https://hexchat.github.io/) | Setze einen Haken bei "Hide join and part messages" unter `Settings` -> `Preferences` -> `Chatting` -> `General` (nannte sich Advanced vor der Version 2.9.6) |
-| [ircII](http://www.eterna.com.au/ircii/) | Gebe `IGNORE * CRAP` ein |
+| [ircII](http://www.eterna.com.au/ircii/) | Gib `IGNORE * CRAP` ein |
 | [Irssi](https://irssi.org) | Tippe `/ignore * JOINS PARTS QUITS` ein |
-| [Weechat](https://weechat.org/) | Gebe `/filter add joinquit * irc_join,irc_part,irc_quit *` ein |
+| [Weechat](https://weechat.org/) | Gib `/filter add joinquit * irc_join,irc_part,irc_quit *` ein |
 | [Konversation](https://konversation.kde.org/) | Setze einen Haken bei "Hide Join/Part/Nick Events" unter `Settings` -> `Configure Konversation...` (`Strg` + `Shift` + `,`) -> `Behavior` -> `Chat Window` |
 | [KVIrc](https://www.kvirc.net/) | (Beziehe dich auf [die KVIrc Wikiseite](https://github.com/kvirc/KVIrc/wiki/FAQ#how-do-i-suppress-join-part-and-quit-messages)) |
 | [mIRC](https://www.mirc.com/) | Gehe zu den mIRC Optionen (`Tools` -> `Options`, oder `Alt` + `O`), wähle `IRC` aus, klicke den Button `Events...`  und selektiere `Hide` für Joins und Parts |
@@ -84,4 +84,4 @@ Benutzer, die über den osu!-Client oder die Website verbunden sind, haben kein 
 
 ### Jemand sendet Nachrichten, aber er ist nicht in der Liste der Channel-Benutzer!
 
-Er verwendet entweder die [Web-Version des Chats](https://osu.ppy.sh/community/chat) oder ist via [osu!(lazer)](https://github.com/ppy/osu) verbunden.
+Er verwendet entweder die [Web-Version des Chats](https://osu.ppy.sh/community/chat) oder ist via [osu!(lazer)](/wiki/Client/Release_stream/Lazer) verbunden.

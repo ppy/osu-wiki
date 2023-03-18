@@ -13,16 +13,16 @@ tags:
 | :-- | :-- |
 | Season start | Dec 6, 2022 |
 | Playlist lobby: Playlist A | Dec 6 - Dec 20, 2022 |
-| Playlist lobby: Playlist B | Dec 20 - Jan 3, 2023 |
-| Playlist lobby: Playlist C | Jan 3 - Jan 15, 2023 |
-| Playlist lobby: Playlist A | Jan 15 - Jan 22, 2023 |
-| Playlist lobby: Playlist B | Jan 22 - Jan 29, 2023 |
-| Playlist lobby: Playlist C | Jan 29 - Feb 5, 2023 |
-| Season conclusion | Feb 5, 2023 |
+| Playlist lobby: Playlist B | Dec 20, 2022 - Jan 3, 2023 |
+| Playlist lobby: Playlist C | Jan 3 - Jan 17, 2023 |
+| Playlist lobby: Playlist A | Jan 17 - Jan 24, 2023 |
+| Playlist lobby: Playlist B | Jan 24 - Jan 31, 2023 |
+| Playlist lobby: Playlist C | Jan 31 - Feb 7, 2023 |
+| Season conclusion | Feb 7, 2023 |
 
 ## Weekly multiplayer lobbies
 
-As of now, joining the weekly multiplayer lobbies requires participants to download and install [osu!(lazer)](https://github.com/ppy/osu/releases).
+As of now, joining the weekly multiplayer lobbies requires participants to download and install [osu!(lazer)](/wiki/Client/Release_stream/Lazer).
 
 1. Every 2 weeks of a season, a single playlist lobby is opened. Everyone can participate for the two weeks.
    - After the first wave of lobbies, playlists will be opened again on a weekly basis.

@@ -15,7 +15,7 @@ La **bubble** (![Icône de la bubble](/wiki/shared/icon/bubble.gif)) était une 
 
 L'étape suivante de l'[ancien système de classement](/wiki/Modding/Forum_modding) après une [proto-bubble](/wiki/Modding/Proto-bubble), une bubble régulière signifie qu'une [beatmap](/wiki/Beatmap) est prête à être classée du point de vue du moddeur. Les beatmaps avec une bubble étaient éventuellement vérifiées par un autre membre de la BAT ou d'un BN et [classée](/wiki/Beatmap/Category#classée) ou [approuvée](/wiki/Beatmap/Category#approuvée) tant que des modifications mineures de la beatmap étaient nécessaires.
 
-Dans la [procédure de classement du beatmap](/wiki/Beatmap_ranking_procedure) moderne, l'équivalent d'une bubble est la première nomination donnée par un [beatmap nominator](/wiki/People/The_Team/Beatmap_Nominators).
+Dans la [procédure de classement du beatmap](/wiki/Beatmap_ranking_procedure) moderne, l'équivalent d'une bubble est la première [nomination](/wiki/Beatmap_ranking_procedure#nominations) donnée par un [beatmap nominator](/wiki/People/The_Team/Beatmap_Nominators).
 
 ## Histoire
 

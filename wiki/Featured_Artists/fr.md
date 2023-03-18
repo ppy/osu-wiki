@@ -27,13 +27,14 @@ Les nouvelles sorties de Featured Artists par an :
 - **2019 :** 31
 - **2020 :** 65
 - **2021 :** 101
-- **2022 :** *à déterminer*
+- **2022 :** 104
+- **2023 :** *à déterminer*
 
 Les nouveaux Featured Artists sont annoncés chaque semaine sur le [fil d'actualités](https://osu.ppy.sh/home/news) d'osu!. La plupart des annonces comprennent une liste des musiques sous licence de l'artiste et un lien vers sa page de Featured Artist, mais certaines annonces sont associées à des concours de mapping ou à des beatmaps créés par la [Mappers' Guild](/wiki/Community/Mappers_Guild).
 
 ## Utilisation par la communauté
 
-Les mappeurs sont encouragés à créer des beatmaps pour les musiques des Featured Artists. Ces morceaux sont fournis avec des données de [timing](/wiki/Client/Beatmap_editor/Timing) et sont déjà autorisés à être utilisés sur osu!, ce qui permet aux utilisateurs de se lancer immédiatement dans la création de beatmap sans crainte. La version en cours de développement d'osu!, appelée [osu!(lazer)](https://github.com/ppy/osu/releases), mettra ces beatmaps en évidence dans le jeu.
+Les mappeurs sont encouragés à créer des beatmaps pour les musiques des Featured Artists. Ces morceaux sont fournis avec des données de [timing](/wiki/Client/Beatmap_editor/Timing) et sont déjà autorisés à être utilisés sur osu!, ce qui permet aux utilisateurs de se lancer immédiatement dans la création de beatmap sans crainte. La version en cours de développement d'osu!, appelée [osu!(lazer)](/wiki/Client/Release_stream/Lazer), mettra ces beatmaps en évidence dans le jeu.
 
 Tous les concours de mapping publiés sur la [liste des concours communautaires](https://osu.ppy.sh/community/contests), tels que le [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) et le [Mapping Olympiad](/wiki/Contests/Mapping_Olympiad), exigent des participants qu'ils mappent les musiques des Featured Artists. Certains concours organisés par la communauté utilisent également ces musiques.
 
