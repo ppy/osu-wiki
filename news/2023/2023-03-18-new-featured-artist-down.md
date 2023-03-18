@@ -80,7 +80,7 @@ Aaaaaaaaand check out [this map](https://osu.ppy.sh/users/9858638) hosted by [pa
 
 ---
 
-Start mapping any song above (and more) from [**Down**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/350)! If your name is something like [UberFazz](https://osu.ppy.sh/users/8646059), [Halfslashed](https://osu.ppy.sh/users/4598899), [Lince Cosmico](https://osu.ppy.sh/users/6070370), or [DeviousPanda](https://osu.ppy.sh/users/4966334), the ranked section is waiting for your debut.
+Start mapping any song above (and more) from [**Down**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/350)! If your name is something like [UberFazz](https://osu.ppy.sh/users/8646059), [Halfslashed](https://osu.ppy.sh/users/4598899), [Lince Cosmico](https://osu.ppy.sh/users/6070370), or [DeviousPanda](https://osu.ppy.sh/users/4966334), the Ranked section is waiting for your debut.
 
 It's the weekend, which means there's two more Featured Artists to look forward to next week! Glue your eyes to the [@osugame Twitter](https://twitter.com/osugame) for more details and we'll see you again very very very soon.
 
