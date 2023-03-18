@@ -35,7 +35,7 @@ Work in Progress （通常缩写为 *WIP* ） 和 Pending 是谱面初次提交�
 
 ### Qualified
 
-让一张铺面进入 Qualified 类别是 [谱面 ranking 流程](/wiki/Beatmap_ranking_procedure) 的最后一步。这样的谱面应当是被至少两名 [谱面提名小组](/wiki/People/The_Team/Beatmap_Nominators) 成员提名并均认同该谱面符合 [ranking 准则](/wiki/Ranking_Criteria) 中规范的谱面。 在 Qualified 类别中的谱面会进入 [ranking 队列](/wiki/Beatmap_ranking_procedure#ranked) 中，并且最终会成为一张 [Ranked](#ranked) 状态的谱面，除非这些谱面从队列中被 [disqualified](/wiki/Beatmap_ranking_procedure#nomination-resets) 出去。作为错误与缺陷的最后一道防线，这种举措（disqualify）能够消除并改正可能的存在遗漏之处。
+让一张谱面进入 Qualified 类别是 [谱面 ranking 流程](/wiki/Beatmap_ranking_procedure) 的最后一步。这样的谱面应当是被至少两名 [谱面提名小组](/wiki/People/The_Team/Beatmap_Nominators) 成员提名并均认同该谱面符合 [ranking 准则](/wiki/Ranking_Criteria) 中规范的谱面。 在 Qualified 类别中的谱面会进入 [ranking 队列](/wiki/Beatmap_ranking_procedure#ranked) 中，并且最终会成为一张 [Ranked](#ranked) 状态的谱面，除非这些谱面从队列中被 [disqualified](/wiki/Beatmap_ranking_procedure#nomination-resets) 出去。作为错误与缺陷的最后一道防线，这种举措（disqualify）能够消除并改正可能的存在遗漏之处。
 
 类别为 Qualified 的谱面拥有排行榜，但不会有 [PP](/wiki/Performance_points) 的奖励，并且一旦该谱面的类别不再是 Qualified ，所有的成绩都将会被移除。这些谱面在选歌界面中使用对勾图标（![](/wiki/shared/status/qualified.png)）。
 

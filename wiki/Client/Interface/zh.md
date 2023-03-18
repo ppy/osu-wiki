@@ -184,7 +184,7 @@ outdated_since: fd0451ee3c5f57bafae83570739d9dc9f09906a5
 
 各种各样的东西可以出现在这里：
 
-- “Not Submiited” 意味着这张谱面没有通过铺面提交系统提交至osu!网站或被谱面制作者删除。
+- “Not Submiited” 意味着这张谱面没有通过谱面提交系统提交至osu!网站或被谱面制作者删除。
 - “Update to latest version”意味着这张谱面有更新的版本可以下载，点击这个按钮以更新。
   - **注意：**一旦你更新了谱面，将无法还原。如果您出于某种原因（比如为了保存分数）希望保留较旧的版本，那么就不要更新。
 - “Latest pending version”意味着这张谱面被上传到了osu!网站但还没Ranked。
