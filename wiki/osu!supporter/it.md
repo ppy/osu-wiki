@@ -1,6 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: aa750946913bfd81cd3ede0b23dbf925b56d7bdd
 tags:
   - supporter tag
   - osu!supporter tag
@@ -87,7 +85,7 @@ osu! offre ai supporter limiti più rilassati per varie funzionalità online:
 
 | Valore | Limite normale | Limite osu!supporter |
 | :-- | :-: | :-: |
-| [Beatmap in attesa](/wiki/Beatmap/Category#work-in-progress-and-pending) | `4 + min(beatmap classificate, 4)`, fino ad **8**[^pending-beatmaps-ref] | `8 + min(beatmap classificate, 12)`, fino a **20**[^pending-beatmaps-ref] |
+| [Beatmap in attesa](/wiki/Beatmap/Category#mappe-in-lavorazione-e-in-attesa) | `4 + min(beatmap classificate, 4)`, fino ad **8**[^pending-beatmaps-ref] | `8 + min(beatmap classificate, 12)`, fino a **20**[^pending-beatmaps-ref] |
 | Beatmap preferite online | 100 | 1000 |
 | Numero di amici | 250 | 500 |
 
@@ -147,8 +145,8 @@ osu!supporter può anche essere regalato ad un altro giocatore inserendo il loro
 
 Una volta che la transazione è stata completata, sarà presente un evento nella sezione `Attività recenti` del profilo del compratore e del ricevente:
 
-- `{nome utente} è diventato un osu!supporter - grazie per la tua generosità!` se l'utente ha acquistato per la prima volta osu!supporter.
-- `{nome utente} ha scelto ancora una volta di sostenere osu! - grazie per la tua generosità!` se l'utente ha già acquistato osu!supporter in precedenza.
+- `{nome utente} ha supportato osu! - grazie per la tua generosità!` se l'utente ha acquistato o regalato per la prima volta osu!supporter.
+- `{nome utente} ha scelto ancora una volta di sostenere osu! - grazie per la tua generosità!` se l'utente ha già acquistato o regalato osu!supporter in precedenza.
 - `{note utente} ha ricevuto in regalo l'osu!supporter!` nel caso il tag sia stato regalato.
 
 In più, sia il compratore che il ricevente riceveranno una notifica via e-mail per l'acquisto.
