@@ -11,6 +11,8 @@ tags:
 
 # Lazer release stream
 
+*For an exhaustive list of new features and other differences compared to osu!(stable), see: [osu!(lazer) feature comparison](/wiki/Client/Release_stream/Lazer/Feature_comparison).*
+
 ::: Infobox
 
 ![](img/lazer.png "The osu!(lazer) client logo, a stylised version of the osu! cookie")

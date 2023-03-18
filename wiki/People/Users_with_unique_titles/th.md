@@ -192,7 +192,9 @@ Storyboarders ที่แสดงความสามารถในการ
 | ผู้เล่น | Title | ความสำเร็จ |
 | :-- | :-- | :-- |
 | ::{ flag=NO }:: [-GN](https://osu.ppy.sh/users/895581) | Champion Above Champions | ได้ NoMod FC บน [Shotgun Symphony+ [Impossibly Intense]](https://osu.ppy.sh/beatmapsets/7671#osu/32570) เป็นคนแรก |
+| ::{ flag=US }:: [EEEEEEEEEEEEEEE](https://osu.ppy.sh/users/2927048) | osu!completionist | เล่น แมป osu! ทุกแมปใน 15 มีนาคม 2566 |
 | ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) | Drum Decimator | ได้ FC บนแมป osu! taiko ที่ Ranked่ ทุกอันสำเร็จใน 3 พฤษจิกายน 2562 |
+| ::{ flag=PL }:: [Przegrany](https://osu.ppy.sh/users/7635621) | osu!completionist | เล่น แมป osu! ทุกแมปใน 11 สิงหาคม 2564 |
 | ::{ flag=NL }:: [Shirotora_old](https://osu.ppy.sh/users/11820) | Bested the Reaper's Game | *ไม่ได้บันทึกไว้* |
 | ::{ flag=US }:: [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist | เล่น แมป osu! ทุกแมปใน 27 เมษายน 2562 |
 | ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter | ชนะ [The Hunt for the Girl in the Forest](https://osu.ppy.sh/community/forums/topics/662279) |

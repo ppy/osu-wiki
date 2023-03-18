@@ -193,7 +193,9 @@ Poniżsi gracze otrzymali swoje tytuły za znaczące osiągnięcia w grze lub uk
 | Użytkownik | Tytuł | Osiągnięcie |
 | :-- | :-- | :-- |
 | ::{ flag=NO }:: [-GN](https://osu.ppy.sh/users/895581) | Champion Above Champions | Uzyskanie pierwszego Full Combo bez modyfikatorów rozgrywki na beatmapie [Shotgun Symphony+ \[Impossibly Intense\]](https://osu.ppy.sh/beatmapsets/7671#osu/32570) |
+| ::{ flag=US }:: [EEEEEEEEEEEEEEE](https://osu.ppy.sh/users/2927048) | osu!completionist | Ukończenie wszystkich rankingowych beatmap w trybie osu! (według stanu z 15 marca 2023) |
 | ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) | Drum Decimator | Uzyskanie Full Combo na wszystkich rankingowych beatmapach w trybie osu!taiko (według stanu z 3 listopada 2019) |
+| ::{ flag=PL }:: [Przegrany](https://osu.ppy.sh/users/7635621) | osu!completionist | Ukończenie wszystkich rankingowych beatmap w trybie osu! (według stanu z 11 sierpnia 2021) |
 | ::{ flag=NL }:: [Shirotora_old](https://osu.ppy.sh/users/11820) | Bested the Reaper's Game | *Nieznane* |
 | ::{ flag=US }:: [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist | Ukończenie wszystkich rankingowych beatmap w trybie osu! (według stanu z 27 kwietnia 2019) |
 | ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter | Zwycięzca wyzwania [„The Hunt for the Girl in the Forest”](https://osu.ppy.sh/community/forums/topics/662279) |

@@ -1,14 +1,13 @@
 ---
-stub: true
 tags:
   - коллабы
   - collab
   - совместная сложность
+outdated_since: 988e208e02efa394d1cfb592ab72bf6c05af3f26
+outdated_translation: true
 ---
 
 # Совместная сложность
-
-*Подробнее: [Руководство по совместному маппингу](/wiki/Guides/Collab_Information)*
 
 **Совместная сложность** (англ. *collab*, жарг. *коллаб*) — это [сложность](/wiki/Beatmap/Difficulty) или самостоятельная [карта](/wiki/Beatmap) с [гостевыми сложностями](/wiki/Beatmap/Guest_difficulty), созданная несколькими людьми. 
 

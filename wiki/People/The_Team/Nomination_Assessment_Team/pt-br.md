@@ -83,7 +83,6 @@ A [página do grupo de usuário da Equipe de Avaliação de Nomeação](https://
 | :-- | :-- | :-- |
 | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | Espanhol, alemão | Avaliador |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Holandês | Avaliador |
-| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  | Avaliador |
 
 ### osu!mania
 

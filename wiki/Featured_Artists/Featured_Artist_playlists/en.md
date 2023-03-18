@@ -5,7 +5,7 @@ tags:
 
 # Featured Artist playlists
 
-Each month, new **Featured Artist playlists** are published in [osu!(lazer)](https://github.com/ppy/osu/releases) highlighting [Featured Artist](/wiki/Featured_Artists) content across all [game modes](/wiki/Game_mode). The playlists avoid a strict format, so playlist parameters, beatmap selections, and prize criteria vary each month.
+Each month, new **Featured Artist playlists** are published in [osu!(lazer)](/wiki/Client/Release_stream/Lazer) highlighting [Featured Artist](/wiki/Featured_Artists) content across all [game modes](/wiki/Game_mode). The playlists avoid a strict format, so playlist parameters, beatmap selections, and prize criteria vary each month.
 
 ![Featured Artist playlist lobby](img/playlist.jpg "osu!(lazer) Featured Artist playlist lobby")
 

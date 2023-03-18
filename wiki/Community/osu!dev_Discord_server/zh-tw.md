@@ -3,6 +3,8 @@ no_native_review: true
 tags:
   - development
   - 開發
+outdated_translation: true
+outdated_since: 7ca332517b46ef83f80a09c1b9082b437bacd39a
 ---
 
 # osu!dev Discord 伺服器
@@ -21,7 +23,7 @@ tags:
 
 | 專案 | 頻道 |
 | :-- | :-- |
-| [osu!(lazer)](https://github.com/ppy/osu) | `#osu-lazer` |
+| [osu!(lazer)](/wiki/Client/Release_stream/Lazer) | `#osu-lazer` |
 | [osu!framework](https://github.com/ppy/osu-framework) | `#osu-framework` |
 | [osu!web](https://github.com/ppy/osu-web) | `#osu-web` |
 | [osu!](/wiki/Game_mode/osu!) [star rating](/wiki/Beatmapping/Star_rating) 和 [pp](/wiki/Performance_points) | `#difficulty-osu` |

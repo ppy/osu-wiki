@@ -4,9 +4,9 @@ outdated_translation: true
 
 # Momento Kiai
 
-![Las estrellas bañan la pantalla indicando que el Momento Kiai ha comenzado.](img/Kiai_Time_test.jpg "Las estrellas bañan la pantalla indicando que el Tiempo Kiai ha comenzado.")
+![Las estrellas bañan la pantalla indicando que el Momento Kiai ha comenzado.](img/kiai-time-osu-gameplay.png "Las estrellas bañan la pantalla indicando que el Tiempo Kiai ha comenzado.")
 
-![El Momento Kiai aparece en la esquina superior izquierda de la pantalla cuando está activo durante el modo de edición.](img/Kiai_Time_edit.jpg "El Tiempo Kiai se muestra en la esquina superior izquierda de la pantalla cuando está activo durante el modo de edición.")
+![El Momento Kiai aparece en la esquina superior izquierda de la pantalla cuando está activo durante el modo de edición.](img/kiai-time-editor.png "El Tiempo Kiai se muestra en la esquina superior izquierda de la pantalla cuando está activo durante el modo de edición.")
 
 El **Momento Kiai** está definido por el [mapper](/wiki/Beatmapping) en un [beatmap](/wiki/Beatmap) entre 2 [Secciones de Tiempo](/wiki/Client/Beatmap_editor/Timing). Puedes reconocer un Momento Kiai porque la pantalla parpadea y verás una fuente estelar, luego todos los [Objetos de Golpeo](/wiki/Hit_object) parpadearán al ritmo del [ritmo principal](/wiki/Client/Beatmap_editor/Timing) y las estrellas explotarán desde el cursor cuando un [Objeto de golpeo](/wiki/Hit_object) se golpee o caiga del cursor cuando sigas un [control deslizante](/wiki/Hit_object/Slider) o una [Ruleta](/wiki/Hit_object/Spinner).
 

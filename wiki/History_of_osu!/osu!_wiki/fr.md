@@ -32,6 +32,6 @@
 | 07/02/2018 | [La prise en charge de mots clés d'articles a été implémentée](https://github.com/ppy/osu-web/pull/2331) pour permettre de meilleurs résultats de recherche pour les articles du wiki. |
 | De 2018 à 2021 | *Aucune documentation* |
 | 12/05/2021 | Première implémentation des [infoboxes](https://github.com/ppy/osu-web/pull/7546) qui peuvent ajouter des informations supplémentaires aux articles. |
-| 01/06/2021 | [Une implémentation de base](https://github.com/ppy/osu/pull/12950) de l'osu! wiki sur osu!(lazer) a été ajoutée (seulement en anglais). |
+| 01/06/2021 | [Une implémentation de base](https://github.com/ppy/osu/pull/12950) de l'osu! wiki sur [osu!(lazer)](/wiki/Client/Release_stream/Lazer) a été ajoutée (seulement en anglais). |
 | 08/08/2021 | [La prise en charge de la galerie](https://github.com/ppy/osu-web/pull/8126) a été implémentée. Désormais, les images d'un article peuvent être visualisées simultanément dans une galerie. |
 | 12/08/2021 | La prise en charge des [notes de bas de page](https://github.com/ppy/osu-web/pull/8125) a été intégrée. Cela permet d'ajouter des liens vers des notes et des références pour les placer dans une section spécifique à la fin de chaque article. |

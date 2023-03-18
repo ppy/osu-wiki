@@ -4,9 +4,9 @@ outdated_translation: true
 
 # Kiai Time
 
-![Lançamento de estrelas na tela indicando que o Kiai Time foi ativado.](img/Kiai_Time_test.jpg "Lançamento de estrelas na tela indicando que o Kiai Time foi ativado.")
+![Lançamento de estrelas na tela indicando que o Kiai Time foi ativado.](img/kiai-time-osu-gameplay.png "Lançamento de estrelas na tela indicando que o Kiai Time foi ativado.")
 
-![Kiai Time aparece na parte superior esquerda do editor quando ativado.](img/Kiai_Time_edit.jpg "Kiai Time aparece na parte superior esquerda do editor quando ativado.")
+![Kiai Time aparece na parte superior esquerda do editor quando ativado.](img/kiai-time-editor.png "Kiai Time aparece na parte superior esquerda do editor quando ativado.")
 
 **Kiai Time** é aplicado pelo [mapper](/wiki/Beatmapping) em um [beatmap](/wiki/Beatmap) entre duas [Timing Sections](/wiki/Client/Beatmap_editor/Timing). Você pode reconhecer i kiai time por causa dos flashes na tela e você também vera uma fonte jogando estrelas, também acontecem efeitos de flash nos [Hit Objects](/wiki/Hit_object) de acordo com a [main beat](/wiki/Client/Beatmap_editor/Timing) e estrelas vão explodir do cursor quando um [Circle](/wiki/Hit_object/Hit_circle) é acertado ou vão cair do cursor quando seguindo um [slider](/wiki/Hit_object/Slider) ou um [Spinner](/wiki/Hit_object/Spinner).
 
