@@ -46,12 +46,12 @@ The GB Cup 2023 Spring is run by the Team GB and various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
-| Staff | ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [\[GB\]Natro](https://osu.ppy.sh/users/27233308), ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260), ::{ flag=CN }:: [\[GB\]V1do](https://osu.ppy.sh/users/17527968), ::{ flag=CN }:: [Lucky Clover](https://osu.ppy.sh/users/24989144), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [\[GB\]sherweifa](https://osu.ppy.sh/users/17457562), ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [\[GB\]Akamite](https://osu.ppy.sh/users/13418334), ::{ flag=CN }:: [alivn](https://osu.ppy.sh/users/15807665) |
+| Staff | ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [\[GB\]Natro](https://osu.ppy.sh/users/27233308), ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260), ::{ flag=CN }:: [\[GB\]V1do](https://osu.ppy.sh/users/17527968), ::{ flag=CN }:: [Lucky Clover](https://osu.ppy.sh/users/24989144), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [\[GB\]sherweifa](https://osu.ppy.sh/users/17457562), ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [\[GB\]Akamite](https://osu.ppy.sh/users/13418334), ::{ falg=CN }:: [alivn](https://osu.ppy.sh/users/15807665) |
 | Mappool selector | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260), ::{ flag=CN }:: [\[GB\]V1do](https://osu.ppy.sh/users/17527968), ::{ flag=CN }:: [Lucky Clover](https://osu.ppy.sh/users/24989144), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [\[GB\]sherweifa](https://osu.ppy.sh/users/17457562), ::{ flag=GB }:: [-Deepdive-](https://osu.ppy.sh/users/13338645) |
 | Streamer | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617), ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273) |
 | Commentator | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
 | Designer | ::{ flag=CN }:: [\[GB\]Voidmoyu](https://osu.ppy.sh/users/16573996), ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
-| Referee | ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [\[GB\]Natro](https://osu.ppy.sh/users/27233308), ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260), ::{ flag=CN }:: [\[GB\]V1do](https://osu.ppy.sh/users/17527968), ::{ flag=CN }:: [Lucky Clover](https://osu.ppy.sh/users/24989144), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [\[GB\]sherweifa](https://osu.ppy.sh/users/17457562), ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [\[GB\]Akamite](https://osu.ppy.sh/users/13418334), ::{ flag=CN }:: [alivn](https://osu.ppy.sh/users/15807665) |
+| Referee | ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [\[GB\]Natro](https://osu.ppy.sh/users/27233308), ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260), ::{ flag=CN }:: [\[GB\]V1do](https://osu.ppy.sh/users/17527968), ::{ flag=CN }:: [Lucky Clover](https://osu.ppy.sh/users/24989144), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [\[GB\]sherweifa](https://osu.ppy.sh/users/17457562), ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [\[GB\]Akamite](https://osu.ppy.sh/users/13418334), ::{ falg=CN }:: [alivn](https://osu.ppy.sh/users/15807665) |
 | Statistician & wiki editor | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [\[Crz\]Alleyne](https://osu.ppy.sh/users/11279273), ::{ flag=CN }:: [\[GB\]Natro](https://osu.ppy.sh/users/27233308), ::{ flag=CN }:: [FAIRYBYUN](https://osu.ppy.sh/users/17575228) |
 
 ## Links
@@ -73,18 +73,6 @@ The GB Cup 2023 Spring is run by the Team GB and various community members.
 | Group A | Pending |
 | Group B | Pending |
 
-## Mappools
-
-### Regular stage 1
-
-#### Group EX
-
-#### Group S
-
-#### Group A
-
-#### Group B
-
 ## Match results
 
 Due to the large number of players, the match results will be presented using the **[Event Information Form](https://docs.qq.com/sheet/DTXNmQXJ2VG9qbWhY?tab=uitssi)**.
@@ -95,9 +83,9 @@ Due to the large number of players, the match results will be presented using th
 
 1. The GB Cup 2023 Spring is a points-based weekly group tournament, played on the osu!mania game mode.
    - Points earned by players in weekly matches are converted based on the total ranking of the mappool.
-   - The total ranking of the mappool is based on the ranking of single beatmap.
+   - The total ranking of the mappool is based on the sum of the rankings of each player in each map.
 2. Beatmap scoring is based on `Score V2`.
-3. The GB Cup 2023 Spring consists of **4 groups(Group EX, Group S, Group A, Group B)**, with only **2 groups** played each week.
+3. The GB Cup 2023 Spring consists of **4 groups(Group EX, Group S, Group A, Group B)**, with only **2 groups** playing each week.
    - Each group has an overrun buffer of *100 pp*.
    - If a player upgrades after the start of the tournament, 50% of the points will be kept.
 4. The maps for each round will be announced by the mappool selectors on the official stream, on the Sunday before the actual matches take place.
@@ -109,7 +97,7 @@ Due to the large number of players, the match results will be presented using th
 8. Use of the Visual Settings to alter background dim or disable beatmap elements like storyboards and skins is allowed.
    - Custom skin elements **must not** be used to alter core gameplay mechanics.
 9. Possible mod choices for the FreeMod bracket are `No Fail`, `Hidden`, `Fade In`, `Flashlight`, and `Mirror`.
-10. The referees will select the beatmaps in order to play the match. If a player encounters a technical problem during the match, players can ask the referees to rematch the beatmap that encountered technical problems after all the beatmaps have been selected.
+10. The referees will select the beatmaps in order to play the match. If a player encounters a technical problem during the match, players can ask the referees to rematch the beatmap where the player encountered technical issues after all the beatmaps have been selected.
     - "Lag spikes" will not be considered as a valid reason to rematch a beatmap.
     - Even if you need to rematch the beatmap after all the beatmaps have been selected, you should first complete the scoring of other beatmaps in the mappool.
     - This rule should not to be abused. Referees may veto a rematch request if they find that this is the case.
@@ -165,7 +153,7 @@ Due to the large number of players, the match results will be presented using th
 1. A referee will create a multiplayer room 5 minutes before the scheduled match time. Players must join the lobby in that period.
    - The room settings are `Game mode: "osu!mania"`, `Team mode: "Head-to-Head"` and `Score mode: "ScoreV2"`. The room name must follow the pattern of `GBC 2023 Spr`.
 2. The referees will select the beatmaps in order to play the match. 
-   - If a player encounters a technical problem during the match, players can ask the referees to rematch the beatmap that encountered technical problems after all the beatmaps have been selected.
+   - If a player encounters a technical problem during the match, players can ask the referees to rematch the beatmap where the player encountered technical issues after all the beatmaps have been selected.
 3. Players will have a 120-second break between playing two beatmaps.
 
 ### Mappool information
@@ -180,7 +168,7 @@ Due to the large number of players, the match results will be presented using th
 1. Each stage of the tournament is played for **two weeks**.
    - Group EX playing in the same week as Group S, Group A playing in the same week as Group B.
 2. All matches will be held between Saturday, 08:00 and Sunday 23:59 (UTC+08).
-   - Only for special reasons will the time be adjusted to the weekday to play.
+   - Only for special reasons the time will be changed to the weekday to play.
 3. The organizer will provide alternative tournament slots before the start of matches each week, creating a schedule that is satisfactory to all players.
    - If you need to play the match during a special time period, please inform the organizer in advance, the organizer will try to fulfill the requirements of the players, but **cannot** guarantee that all of them will be realized.
 4. Matches may not be scheduled to any time **beyond Sunday, 23:59 (UTC+08)** of the week they are to be played at.
@@ -195,10 +183,10 @@ The rules are largely the same as in the regular season.
 2. There is **no warm-up phase** for the playoff.
 3. There will be four separate mappools.
    - Each playoff rounds use different mappool.
-   - The number and the type of beatmaps is depends on the actual situation.
+   - The number and the type of beatmaps depends on the actual situation.
    - Each mappool has one tiebreaker.
    - Possible mod choices for the FreeMod bracket are `No Fail`, `Hidden`, `Fade In`, `Flashlight`, and `Mirror`.
-4. PLayers will have 2 minutes to pick a beatmap and ban a beatmap, players will have 2 minutes to get ready. If a player takes more time than allowed, the procedures adopted will be as follows:
+4. Players will have 2 minutes to pick a beatmap and ban a beatmap, players will have 2 minutes to get ready. If a player takes more time than allowed, the procedures adopted will be as follows:
    - For map bans, the player forfeits the ban.
    - For map picks, a random map will be chosen from the mappool using `!roll X`, where `X` is the number of maps that were neither picked nor banned, excluding the tiebreaker.
    - For a ready timer, the referee will use `!mp start 10` command.
@@ -207,7 +195,7 @@ The rules are largely the same as in the regular season.
 6. A referee will create a multiplayer room 10 minutes before the scheduled match time. Players must join the lobby in that period.
    - The room settings are `Game mode: "osu!mania"`, `Team mode: "Team Vs"` and `Score mode: "ScoreV2"`. The room name must follow the pattern of `GBC 2023 Spr: ({Player A}) vs ({Player B})`.
 7. Each player must use `!roll` once in `#multiplayer`.
-   - The winner of the `!roll` could choose to pick first or ban first of the match. The other choose will be used by loser team.
+   - The winner of the `!roll` could choose to pick first or ban first of the match. The other choose will be automatically chosen by loser team.
    - Each player can ban one beatmap from the mappool. These beatmaps can not be picked by any player for the entire duration of the match.
    - Both players will alternate picking a beatmap from the mappool.
      - If there is a tie in one beatmap, the beatmap will start again. A beatmap will not be restarted more than twice.
