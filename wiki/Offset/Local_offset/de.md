@@ -21,4 +21,4 @@ Sofern ein lokales Offset konfiguriert ist, zeigt osu! das lokale Offset in der 
 
 osu! wird dich auch vor dem Spielstart über das lokale Offset informieren.
 
-![Hinweis auf den lokalen Offset](img/local-offset-notice-DE.png "Hinweis auf den lokalen Offset")
+![Hinweis auf den lokalen Offset](img/local-offset-notice-DE.jpg "Hinweis auf den lokalen Offset")
