@@ -78,13 +78,13 @@ On Linux, most Linux distributions either already provide or pre-install FFmpeg 
 To use FFmpeg to re-encode a video file, open a terminal and paste in the following command, changing the values as needed:
 
 ```
-ffmpeg -i input -c:v libx264 -crf 20 -preset slower -profile:v high -vf scale=-1:720 -an -sn -map_metadata -1 -map_chapters -1 output.mp4
+ffmpeg -i input -c:v libx264 -crf 20 -preset veryslow -profile:v high -vf scale=-1:720 -an -sn -map_metadata -1 -map_chapters -1 output.mp4
 ```
 
 - `-i input`: Your source file. If the file name contains spaces, wrap it around double quotes (`"`).
 - `-c:v libx264`: Specify that the video should be encoded using the x264 encoder, producing video in the H.264 format.
 - `-crf 20`: The compression quality, where lower values give better quality at the expense of larger files and vice versa. The recommended range is around 20-25.
-- `-preset slower`: Specify an encoding preset, with recommended values ranging from `ultrafast` to `veryslow`. Slower presets allow the encoder to give you higher quality for the same bit rate, or lower bit rate for the same quality. More information about available presets can be found on [FFmpeg's official website](https://trac.ffmpeg.org/wiki/Encode/H.264#Preset).
+- `-preset veryslow`: Specify an encoding preset, with recommended values ranging from `ultrafast` to `veryslow`. Slower presets allow the encoder to give you higher quality for the same bit rate, or lower bit rate for the same quality. More information about available presets can be found on [FFmpeg's official website](https://trac.ffmpeg.org/wiki/Encode/H.264#Preset).
 - `profile:v high`: Specify that the video should be encoded with the H.264 High profile.
 - `-vf scale=-1:720`: Downscale the video to a height of 720 pixels. The `-1` lets FFmpeg automatically determine the width of the new video based on the aspect ratio of the source.
 - `-an -sn`: Remove audio and subtitles if present.
@@ -120,11 +120,12 @@ To begin, download and install [Audacity](https://www.audacityteam.org/) first t
    - For OGG (Vorbis), keep the `Quality` slider at `5` which is the default value.
 
 4. Pick a file location and type a file name to save the file, then click `Save` and a new dialog will appear for you to enter metadata.
-5. Once done entering metadata, which can be left blank if desired, click `OK` to start re-encoding.
-
-**NOTE:** Clicking `Cancel` on the metadata dialog will result in your audio file not being re-encoded.
 
 ![Export settings](img/exportsettings-audacity.png "Export settings")
+
+6. Once done entering metadata, which can be left blank if desired, click `OK` to start re-encoding.
+
+**NOTE:** Clicking `Cancel` on the metadata dialog will result in your audio file not being re-encoded.
 
 ### Using FFmpeg
 
@@ -160,7 +161,7 @@ ffmpeg -i input -c:a libvorbis -q:a 5 -vn -sn -map_metadata -1 -map_chapters -1 
 
 ## Verification
 
-It is recommended to check the technical information of transcoded audio and video files to confirm that they have been processed as expected, and in a way that would meet bit rate and other requirements.
+It is recommended to check the technical information of re-encoded audio and video files to confirm that they have been processed as expected, and in a way that would meet bit rate and other requirements.
 
 Software such as [MediaInfo](https://mediaarea.net/en/MediaInfo) can be used to see such information.
 
@@ -170,3 +171,21 @@ MediaInfo is very easy to use. After installing, open the file with MediaInfo an
 
 1. Right-click any file and select MediaInfo from the context menu, or use `File` -> `Open` -> `Open file(s)...` in MediaInfo.
 2. Change the view from `Basic` to either `Tree`, `Text`, or `HTML`. The default `Basic` view only displays a condensed series of information.
+
+For video, the parts that are most important will be the following:
+- `Format` and `Format/Info`, which must be `AVC` and `Advanced Video Codec`, respectively.
+- `Width`, which must be at or below `1280 pixels`.
+- `Height`, which must be at or below `720 pixels`.
+- `Frame rate mode`, which must be `Constant`.
+
+For audio, the parts that are most important will instead be the following:
+- `Overall bitrate`, which must be between `192kbps` and `128kbps` as specified in the ranking criteria.
+- For MP3, make sure to check these parts:
+  - `Format`, which must be `MPEG Audio`.
+  - `Format profile` which must be `Version 1`.
+  - `Format settings` which must be `Layer 3`.
+- For OGG (Vorbis), make sure to check these parts:
+  - `Format`, which must be `Vorbis`.
+
+If everything seems correct and the file size is small enough, then you can put either re-encoded audio or video file into your beatmap.
+
