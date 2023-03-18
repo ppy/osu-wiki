@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # 비트맵 veto
 
 *비트맵 veto* 는 [비트맵 노미네이터](/wiki/People/The_Team/Beatmap_Nominators) 의 판단하에 비트맵 퀄리티의 관점에서 [랭크](/wiki/Beatmap/Category#ranked) 섹션으로 보내기에는 중요한 문제가 있다고 판단했을 때 비트맵을 Qualification 상태로부터 내리는 행동을 말합니다. 비트맵이 다시 [Qualification](/wiki/Beatmap_ranking_procedure#qualification) 상태로 돌아가기 전에 Veto를 진행한 비트맵 노미네이터가 판단하기에 해결해야 하는 퀄리티 문제에 대해 추가로 토론하나 해명을 할 수 있도록 유도하는 것이 그들의 주 책임이 됩니다.
