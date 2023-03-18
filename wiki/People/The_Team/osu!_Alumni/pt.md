@@ -70,6 +70,7 @@ outdated_translation: true
 | ::{ flag=AR }:: [Extor](https://osu.ppy.sh/users/555) | BAT |
 | ::{ flag=AU }:: [eyup](https://osu.ppy.sh/users/88) | BAT |
 | ::{ flag=DE }:: [Ezoda](https://osu.ppy.sh/users/1231180) | Support Team |
+| ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733) | QAT, NAT |
 | ::{ flag=SG }:: [Faust](https://osu.ppy.sh/users/65152) | BAT |
 | ::{ flag=US }:: [foulcoon](https://osu.ppy.sh/users/19883) | BAT |
 | ::{ flag=FI }:: [Fraeon](https://osu.ppy.sh/users/2271) | BAT |
