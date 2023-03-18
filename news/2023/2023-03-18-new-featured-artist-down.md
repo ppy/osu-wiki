@@ -78,6 +78,14 @@ Aaaaaaaaand check out [this map](https://osu.ppy.sh/users/9858638) hosted by [pa
     <source src="https://assets.ppy.sh/artists/350/Songs/Down%20-%20Yamangomcpro6th.mp3">
 </audio>
 
+### Down - Down
+
+Can we perhaps interest you in the cult classic [Down - Down \[Down\]](https://osu.ppy.sh/beatmapsets/1880545#osu/3871587), as mapped by [Down](https://osu.ppy.sh/users/4694602)?
+
+<audio controls>
+    <source src="https://assets.ppy.sh/artists/350/Songs/Down%20-%20Down.mp3">
+</audio>
+
 ---
 
 Start mapping any song above (and more) from [**Down**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/350)! If your name is something like [UberFazz](https://osu.ppy.sh/users/8646059), [Halfslashed](https://osu.ppy.sh/users/4598899), [Lince Cosmico](https://osu.ppy.sh/users/6070370), or [DeviousPanda](https://osu.ppy.sh/users/4966334), the Ranked section is waiting for your debut.
