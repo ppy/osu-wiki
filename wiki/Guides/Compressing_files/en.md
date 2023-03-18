@@ -52,9 +52,10 @@ To begin, download and install [Handbrake](https://handbrake.fr/) first then fol
    - `Framerate (FPS)` set to `Same as source` with `Constant Framerate` selected.
    - `Constant Quality` set to a value of between 20 to 25, with smaller values resulting in larger, higher quality files.
    - `Encoder Profile` set to `High` to use the H.264 High profile.
-   - `Encoder Level` set to `Auto` to let Handbrake decide automatically on which level to use.
 
-5. Depending on how long you are willing to spend time encoding, change the `Encoder Preset` under `Encoder Options` to a preset from `Ultrafast` to `Placebo`, with slower presets resulting in better video quality and may also reduce video file size. Do not use the `Placebo` preset as it takes much longer to encode than `Veryslow` for very little improvement in quality or file size.
+5. Depending on how long you are willing to spend time encoding, change the `Encoder Preset` under `Encoder Options` to a preset from `Ultrafast` to `Placebo` with `Veryslow` being recommended. Slower presets results in better video quality and may also reduce video file size.
+
+**NOTE:** Do not use the `Placebo` preset as it takes much longer to encode than `Veryslow` for very little improvement in quality or file size.
 
 ![Setting the video codec and quality in Handbrake](img/codecquality-handbrake.png "Setting the video codec and constant quality")
 
@@ -68,13 +69,13 @@ To begin, download and install [Handbrake](https://handbrake.fr/) first then fol
 
 ### Using FFmpeg
 
-**FFmpeg is a program used through a [command-line interface (CLI)](https://en.wikipedia.org/wiki/Command-line_interface), meaning it does not have any [graphical user interface (GUI)] by itself.** While this may seem intimidating, FFmpeg can offer more flexibility than other tools, such as when integrated into a script.
+**FFmpeg is a program used through a [command-line interface (CLI)](https://en.wikipedia.org/wiki/Command-line_interface), meaning it does not have any [graphical user interface (GUI)](https://en.wikipedia.org/wiki/Graphical_user_interface) by itself.** While this may seem intimidating, FFmpeg can offer more flexibility than other tools, such as when integrated into a script.
 
 To install FFmpeg on Windows, [download FFmpeg](https://ffmpeg.org/download.html) and add its directory to your `PATH` environment variable. On macOS, you can alternatively install it using the [brew](https://brew.sh/) package manager.
 
 On Linux, most Linux distributions either already provide or pre-install FFmpeg by default but some may not provide it. Users of such distributions should research their respective distribution for more information.
    
-To use FFmpeg to re-encode video files, open a terminal and paste in the following command, changing the values as needed:
+To use FFmpeg to re-encode a video file, open a terminal and paste in the following command, changing the values as needed:
 
 ```
 ffmpeg -i input -c:v libx264 -crf 20 -preset slower -profile:v high -vf scale=-1:720 -an -sn -map_metadata -1 -map_chapters -1 output.mp4
@@ -118,7 +119,7 @@ To begin, download and install [Audacity](https://www.audacityteam.org/) first t
    - For MP3, use `Preset` and select the quality as `Medium, 145-185 kbps`. 
    - For OGG (Vorbis), keep the `Quality` slider at `5` which is the default value.
 
-4. Pick a file location to save the file, then click `Save` and a new dialog will appear for you to enter metadata.
+4. Pick a file location and type a file name to save the file, then click `Save` and a new dialog will appear for you to enter metadata.
 5. Once done entering metadata, which can be left blank if desired, click `OK` to start re-encoding.
 
 **NOTE:** Clicking `Cancel` on the metadata dialog will result in your audio file not being re-encoded.
@@ -151,7 +152,7 @@ ffmpeg -i input -c:a libvorbis -q:a 5 -vn -sn -map_metadata -1 -map_chapters -1 
 ```
 
 - `-i input`: Your source file. If the file name contains spaces, wrap it around double quotes (`"`).
-- `-c:a libmp3lame`: Specify that the audio should be encoded using the LAME MP3 encoder.
+- `-c:a libvorbis`: Specify that the audio should be encoded using the LAME MP3 encoder.
 - `-q:a 5`: Use the same variable bit rate range as in the Audacity example, **where a higher number means higher bit rate**. If you want constant bit rate, you would instead use for instance `-b:a 128k` for a constant 128kbps bit rate.
 - `-vn -sn`: Remove video and subtitles if present.
 - `-map_metadata -1 -map_chapters -1`: Remove metadata and chapters if present.
