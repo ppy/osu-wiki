@@ -97,7 +97,7 @@ Für die 500 besten Scores auf jedem Schwierigkeitsgrad einer Beatmap werden [Re
 
 Seit ihrem Anfang hatte die Community verschiedene Mittel, um einzigartige und exzellente Beatmaps zur Schau zu stellen. Einer der ersten dokumentierten Ansätze waren monatliche und saisonale Charts, die aus einer kleinen Teilmenge an gerankten Beatmaps bestanden. Top-Spieler, die in den Ranglisten Scores in all diesen Beatmaps erreichten, wurden hierbei mit [osu!supporter](/wiki/osu!supporter) belohnt.
 
-Das Chart-System entwickelte sich später weiter in das Projekt [Beatmap Spotlights](/wiki/Beatmap_Spotlights), welches jetzt unter ähnlichen Bedingungen betrieben wird, aber stattdessen in Playlists von osu!(lazer) stattfindet.
+Das Chart-System entwickelte sich später weiter in das Projekt [Beatmap Spotlights](/wiki/Beatmap_Spotlights), welches jetzt unter ähnlichen Bedingungen betrieben wird, aber stattdessen in Playlists von [osu!(lazer)](/wiki/Client/Release_stream/Lazer) stattfindet.
 
 ### Beatmap-Wettbewerbe
 

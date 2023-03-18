@@ -13,7 +13,6 @@ Berikut adalah daftar berbagai panduan yang telah dibuat oleh anggota-anggota ko
 - [Custom sample overrides](Custom_Sample_Overrides)
 - [Cara mengganti artis atau judul lagu dari sebuah beatmap](Changing_the_Artist_or_Title)
 - [Cara menyelesaikan masalah pada BSS](BSS_Issues)
-- [Informasi kolaborasi](Collab_Information)
 - [Cara memulai proyek beatmap](Starting_a_Beatmap_Project)
 - [Cara mengatur timing musik](How_to_Time_Songs)
 - [Teori musik](/wiki/Music_theory)

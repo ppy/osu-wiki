@@ -1,6 +1,8 @@
 ---
 tags:
   - development
+outdated_translation: true
+outdated_since: 7ca332517b46ef83f80a09c1b9082b437bacd39a
 ---
 
 # Server Discord osu!dev
@@ -19,7 +21,7 @@ Ogni sviluppo principale discusso nel server ha un suo canale:
 
 | Progetto | Canale |
 | :-- | :-- |
-| [osu!(lazer)](https://github.com/ppy/osu) | `#osu-lazer` |
+| [osu!(lazer)](/wiki/Client/Release_stream/Lazer) | `#osu-lazer` |
 | [osu!framework](https://github.com/ppy/osu-framework) | `#osu-framework` |
 | [osu!web](https://github.com/ppy/osu-web) | `#osu-web` |
 | [Classificazione stelle](/wiki/Beatmapping/Star_rating) e [punti performance](/wiki/Performance_points) di [osu!](/wiki/Game_mode/osu!) | `#difficulty-osu` |

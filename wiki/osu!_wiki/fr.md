@@ -36,6 +36,6 @@ Bien que son nom contienne le suffixe *wiki*, l'osu! wiki ne répond pas entièr
 
 ## Licence
 
-La majorité du contenu de l'osu! wiki est sous licence [CC-BY-NC 4.0](https://github.com/ppy/osu-wiki/blob/master/LICENCE.md). Cela signifie qu'en général, le matériel du wiki peut être utilisé de manière non commerciale (voir le [résumé rapide](https://tldrlegal.com/license/creative-commons-attribution-noncommercial-4.0-international-(cc-by-nc-4.0))). Certains contenus peuvent être couverts par des licences tierces différentes, qui seront alors citées localement et remplaceront la licence globale.
+La majorité du contenu de l'osu! wiki est sous licence [CC-BY-NC 4.0](https://github.com/ppy/osu-wiki/blob/master/LICENCE.md). Cela signifie qu'en général, le matériel du wiki peut être utilisé de manière non commerciale (voir le [résumé rapide](https://creativecommons.org/licenses/by-nc/4.0/deed.fr)). Certains contenus peuvent être couverts par des licences tierces différentes, qui seront alors citées localement et remplaceront la licence globale.
 
 Veuillez noter que cela ne couvre pas l'utilisation de la marque "osu!" ou "ppy" dans tout logiciel, ressource, publicité ou promotion, car celle-ci est protégée par le droit des marques. Si vous avez besoin d'une autorisation pour l'utilisation de ces termes, veuillez [nous contacter](mailto:contact@ppy.sh).

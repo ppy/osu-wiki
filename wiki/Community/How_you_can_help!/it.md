@@ -41,7 +41,7 @@ Ecco come puoi iniziare ad aiutare gli altri sul forum:
 osu! ha un team dedicato alla revisione, i [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators), per controllare che le [beatmaps](/wiki/Beatmap) inviate siano pronte ad essere classificate per essere giocate da tutti. Tuttavia, questo non vuol dire che non puoi contribuire in questo settore:
 
 - Guardate o cercate mappe [In Attesa](https://osu.ppy.sh/beatmapsets?s=pending) contenenti artisti o canzoni che ti piacciono e/o a cui vuoi contribuire.
-- Gioca beatmaps nella categoria [*In Attesa* or *Work-in-progress*](/wiki/Beatmap/Category#work-in-progress-and-pending) e lasciate dei feedback nella sezioni discussioni della beatmap.
+- Gioca beatmaps nella categoria [*In Attesa* or *Work-in-progress*](/wiki/Beatmap/Category#mappe-in-lavorazione-e-in-attesa) e lasciate dei feedback nella sezioni discussioni della beatmap.
 - Leggi la [Guida al Modding](/wiki/Modding) e i [Criteri per il Ranking](/wiki/Ranking_Criteria) per conoscere le basi del modding tecnico e cosa rende una beatmap classificabile.
 - Unisciti ai canali  `#mapping` e `#modreqs` nella chat in gioco e unisciti al discorso o semplicamente leggi cosa viene scritto.
 - Se hai tempo e dedizione, apri una [Modding Queue](https://osu.ppy.sh/community/forums/60) per dare uno spazio ai creatori di beatmap un posto per richiedere delle mods.
@@ -65,7 +65,7 @@ Ecco alcuni dei modi con cui puoi contribuire:
 
 ## Contribuisci al futuro di osu!
 
-Iniziato nel 2017, il progetto osu!(lazer) è l'attuale focus del [team osu!](/wiki/People/The_Team), insieme al nuovo sito, che è quello che vedete oggi! Se volete vedere questi progetti ancora migliori e avvicinarci al futuro di osu!, ci sono molte cose che potete fare, di seguito riportiamo solo alcuni esempi:
+Iniziato nel 2017, il progetto [osu!(lazer)](/wiki/Client/Release_stream/Lazer) è l'attuale focus del [team osu!](/wiki/People/The_Team), insieme al nuovo sito, che è quello che vedete oggi! Se volete vedere questi progetti ancora migliori e avvicinarci al futuro di osu!, ci sono molte cose che potete fare, di seguito riportiamo solo alcuni esempi:
 
 - Aiutarci col progetto [osu!(lazer)](https://github.com/ppy/osu). C'è così tanto da implementare nella nuova versione di osu!, e puoi aiutarci a realizzarlo!
 - Rendi il [sito](https://github.com/ppy/osu-web) ancora migliore.

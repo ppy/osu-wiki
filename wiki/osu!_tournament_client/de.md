@@ -6,7 +6,7 @@ Nutzer, die Probleme mit dem Client haben, können [auf GitHub ein Issue erstell
 
 ## Einstellung
 
-Um den osu!-Turnier-Client zu starten, musst du ein Startargument zur ausführbaren Datei von osu!(lazer) spezifizieren. Kreiere zu diesem Zweck eine Desktop-Verknüpfung und setze den Speicherort auf `%LOCALAPPDATA%/osulazer/osu!.exe --tournament`. Durch die spezielle Verknüpfung wird osu!(lazer) im Turnier-Client-Modus gestartet.
+Um den osu!-Turnier-Client zu starten, musst du ein Startargument zur ausführbaren Datei von [osu!(lazer)](/wiki/Client/Release_stream/Lazer) spezifizieren. Kreiere zu diesem Zweck eine Desktop-Verknüpfung und setze den Speicherort auf `%LOCALAPPDATA%/osulazer/osu!.exe --tournament`. Durch die spezielle Verknüpfung wird osu!(lazer) im Turnier-Client-Modus gestartet.
 
 Da der osu!-Turnier-Client nur ein Overlay für osu!tourney ist, muss das ebenfalls eingerichtet werden. Setze die Updatequelle in osu!tourney zu `Cutting Edge (Experimentell)` und erstelle eine leere Datei namens `ipc.txt` innerhalb des Installationsordners von osu!tourney. Folge danach der [osu!tourney-Einrichtungsanleitung](/wiki/osu!tourney/Setup).
 
@@ -21,7 +21,7 @@ Da der osu!-Turnier-Client nur ein Overlay für osu!tourney ist, muss das ebenfa
 
 ## Turniere verwalten
 
-Turnierkonfigurationen für osu!(lazer) werden in `%APPDATA%/osu/tournaments` gespeichert. Beim ersten Start des Clients wird ein Verzeichnis namens `default` innerhalb des Ordners erstellt. Ein Nutzer kann mehrere Turnierkonfigurationen verwalten und nach Bedarf zwischen ihnen wechseln, um die geeigneten Anpassungen anzuwenden.
+Turnierkonfigurationen für [osu!(lazer)](/wiki/Client/Release_stream/Lazer) werden in `%APPDATA%/osu/tournaments` gespeichert. Beim ersten Start des Clients wird ein Verzeichnis namens `default` innerhalb des Ordners erstellt. Ein Nutzer kann mehrere Turnierkonfigurationen verwalten und nach Bedarf zwischen ihnen wechseln, um die geeigneten Anpassungen anzuwenden.
 
 Um eine neue Turnierkonfiguration zu erstellen, lege einen Ordner mit dem Namen deines Turniers im Verzeichnis `tournaments` an.
 
