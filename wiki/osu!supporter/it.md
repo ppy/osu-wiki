@@ -2,6 +2,7 @@
 tags:
   - supporter tag
   - osu!supporter tag
+no_native_review: true
 ---
 
 <!--The strings on the website on line 150 have been updated as of https://github.com/ppy/osu-web/pull/9820. To update this page, also check if the corresponding strings on crowdin need to be updated.-->
