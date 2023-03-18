@@ -401,7 +401,7 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 | :-: | :-: | :-- |
 | [BilliumMoto & Dictate - 1KARUGA](https://soundcloud.com/billiummoto/1karuga)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1649302) | Desempate de la gran final |
 
-#### Korean Rising Taiko Tournament #2
+#### ![](/wiki/shared/mode/taiko.png) Korean Rising Taiko Tournament #2
 
 | Canción | Beatmap | Notas |
 | :-: | :-: | :-- |
