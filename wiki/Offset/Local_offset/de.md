@@ -1,0 +1,24 @@
+---
+stub: true
+---
+
+# Lokales Song-Offset
+
+*Für andere Bedeutungen, siehe [Offset](/wiki/Offset).*
+
+**Lokales Song-Offset** ist ein Versatz, der das Erscheinen von [Hit-Objekten](/wiki/Hit_object) in Bezug auf das Audio individueller [Beatmaps](/wiki/Beatmap) verschiebt. Dies kann für Spieler hilfreich sein, die auditive oder visuelle Verzögerungen haben. Das lokale Song-Offset bildet gemeinsam mit dem [globalen Offset](/wiki/Client/Options/Universal_offset) einen Gesamtversatz.
+
+Zu Beginn des Spiels kann das lokale Song-Offset durch Drücken folgender Tasten geändert werden:
+
+- `+`, um den Versatz um 5 Millisekunden zu erhöhen
+- `-`, um den Versatz um 5 Millisekunden zu verringern
+- `Alt` + `+`, um den Versatz um 1 Millisekunde zu erhöhen
+- `Alt` + `-`, um den Versatz um 1 Millisekunde zu verringern
+
+Sofern ein lokales Offset konfiguriert ist, zeigt osu! das lokale Offset in der Benutzeroberfläche über der Rangliste an.
+
+![Lokales Offset](img/local-offset-DE.jpg "Lokales Offset")
+
+osu! wird dich auch vor dem Spielstart über das lokale Offset informieren.
+
+![Hinweis auf den lokalen Offset](img/local-offset-notice-DE.png "Hinweis auf den lokalen Offset")
