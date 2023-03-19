@@ -110,10 +110,11 @@ Les listes ci-dessous indiquent dans quel(s) mode(s) de jeu chaque Beatmap Nomin
 | ::{ flag=TR }:: [Burak](https://osu.ppy.sh/users/13213075) | Turc |
 | ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | Chinois, cantonais |
 | ::{ flag=MX }:: [DakeDekaane](https://osu.ppy.sh/users/1425253) | Espagnol |
-| ::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142) | Vietnamien |
-| ::{ flag=BR }:: [DOUG](https://osu.ppy.sh/users/13806900) | Portugais |
+| ::{ flag=BR }:: [D0UG](https://osu.ppy.sh/users/13806900) | Portugais |
+| ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733) | Cantonais, chinois |
 | ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851) | Allemand |
 | ::{ flag=US }:: [hac](https://osu.ppy.sh/users/17853754) |  |
+| ::{ flag=IE }:: [HEAVENLY MOON](https://osu.ppy.sh/users/6751666) |  |
 | ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | Portugais |
 | ::{ flag=NL }:: [ikin5050](https://osu.ppy.sh/users/4007649) | Néerlandais |
 | ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230) | Chinois, cantonais |
@@ -134,21 +135,18 @@ Les listes ci-dessous indiquent dans quel(s) mode(s) de jeu chaque Beatmap Nomin
 | Nom | Langues supplémentaires |
 | :-- | :-- |
 | ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114) | Cantonais |
-| ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | Chinois, cantonais |
-| ::{ flag=NL }:: [GIGACHAD](https://osu.ppy.sh/users/11081858) | Néerlandais |
 | ::{ flag=PL }:: [Mniam](https://osu.ppy.sh/users/6050530) | Polonais |
+| ::{ flag=ZA }:: [Pieter](https://osu.ppy.sh/users/29282944) | Afrikaans, néerlandais |
 | ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276) | Coréen |
 | ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) |  |
 | ::{ flag=BR }:: [zerokt](https://osu.ppy.sh/users/13776127) | Portugais |
 | ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) | Espagnol |
-| ::{ flag=ZA }:: [Zuid-Afrikaan](https://osu.ppy.sh/users/29282944) | Afrikaans, néerlandais |
 
 #### osu!mania
 
 | Nom | Langues supplémentaires |
 | :-- | :-- |
 | ::{ flag=TW }:: [_Rokii](https://osu.ppy.sh/users/12770065) | Chinois |
-| ::{ flag=KR }:: [-Ming-](https://osu.ppy.sh/users/20127755) | Coréen |
 | ::{ flag=AU }:: [[ Decku ]](https://osu.ppy.sh/users/13360768) |  |
 | ::{ flag=CN }:: [[Crz]Alleyne](https://osu.ppy.sh/users/11279273) | Chinois |
 | ::{ flag=TW }:: [[Sick]Catcat](https://osu.ppy.sh/users/11544934) | Chinois |
@@ -159,6 +157,7 @@ Les listes ci-dessous indiquent dans quel(s) mode(s) de jeu chaque Beatmap Nomin
 | ::{ flag=KR }:: [ArtZone](https://osu.ppy.sh/users/15548034) | Coréen |
 | ::{ flag=KR }:: [Aruel](https://osu.ppy.sh/users/3984370) | Coréen |
 | ::{ flag=GB }:: [Asherz007](https://osu.ppy.sh/users/9014047) |  |
+| ::{ flag=CN }:: [AWMRone](https://osu.ppy.sh/users/10351684) | Chinois |
 | ::{ flag=US }:: [Crisper](https://osu.ppy.sh/users/16482505) |  |
 | ::{ flag=MY }:: [Critical_Star](https://osu.ppy.sh/users/3793196) | Malais |
 | ::{ flag=KR }:: [DenYi](https://osu.ppy.sh/users/14998645) | Coréen |
@@ -225,10 +224,10 @@ Les listes ci-dessous indiquent dans quel(s) mode(s) de jeu chaque Beatmap Nomin
 
 | Nom | Langues supplémentaires |
 | :-- | :-- |
-| ::{ flag=CN }:: [AWMRone](https://osu.ppy.sh/users/10351684) | Chinois |
 | ::{ flag=GB }:: [Hydria](https://osu.ppy.sh/users/808176) |  |
 | ::{ flag=US} :: [Monoseul](https://osu.ppy.sh/users/16010604) |  |
 | ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) |  |
+| ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) | Danois |
 
 ## Historique
 

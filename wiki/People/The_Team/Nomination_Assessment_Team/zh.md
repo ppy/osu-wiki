@@ -109,7 +109,6 @@ tags:
 | :-- | :-- | :-- |
 | ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | 德语 | 评估者 |
 | ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | 乌尔都语，一部分阿拉伯语 | 评估者 |
-| ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733) | 粤语，汉语 | 评估者 |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | 阿拉伯语，法语，一部分意大利语 | 评估者 |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | 评估者 |
 

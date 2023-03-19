@@ -104,7 +104,6 @@ La [página del grupo Nomination Assessment Team](https://osu.ppy.sh/groups/7) e
 | :-- | :-- | :-- |
 | ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | Alemán | Evaluador |
 | ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | Urdu, algo de árabe | Evaluador |
-| ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733) | Cantonés, chino | Evaluador |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Árabe, francés, algo de italiano | Evaluador |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | Evaluador |
 

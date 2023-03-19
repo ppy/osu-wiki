@@ -73,7 +73,6 @@ NAT uzun zaman periyodlarıyla potansiyel NAT üyelerini gözetler, ve genellikl
 | :-- | :-- | :-- |
 | ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | Almanca | Evaluator |
 | ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | Urduca, biraz Arapça | Evaluator |
-| ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733) | Kantonca, Çince | Evaluator |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Arapça, Fransızca, biraz İtalyanca | Evaluator |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | Evaluator |
 

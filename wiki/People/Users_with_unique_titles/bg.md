@@ -201,7 +201,9 @@ no_native_review: true
 | Потребител | Титла | Постижение |
 | :-- | :-- | :-- |
 | ::{ flag=NO }:: [-GN](https://osu.ppy.sh/users/895581) | Champion Above Champions | Отбеляза първият резултат без мод с макс комбо на [Shotgun Symphony+ [Impossibly Intense]](https://osu.ppy.sh/beatmapsets/7671#osu/32570) |
+| ::{ flag=US }:: [EEEEEEEEEEEEEEE](https://osu.ppy.sh/users/2927048) | osu!completionist | Изигра всички класирани osu! бийтмапове към 15 март 2023 |
 | ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) | Drum Decimator | Отбеляза макс комбо на всички класирани osu!taiko бийтмапове към 3 ноември 2019 |
+| ::{ flag=PL }:: [Przegrany](https://osu.ppy.sh/users/7635621) | osu!completionist | Изигра всички класирани osu! бийтмапове към 11 август 2021 |
 | ::{ flag=NL }:: [Shirotora_old](https://osu.ppy.sh/users/11820) | Bested the Reaper's Game | *Не е документирано* <!-- TODO: a reference to TWEWY's 104 building, because he got to rank #104 in a certain amt of time.. need to investigate further --> |
 | ::{ flag=US }:: [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist | Изигра всички класирани osu! бийтмапове към 27 април 2019 |
 | ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter | Спечели [The Hunt for the Girl in the Forest](https://osu.ppy.sh/community/forums/topics/662279) |
