@@ -4,7 +4,7 @@
 
 *对于谱面编辑器的快捷键，参见： [参考快捷键 § 谱面编辑器](/wiki/Client/Keyboard_shortcuts#谱面编辑器)*
 
-**谱面编辑器**是 osu! 的游戏中的图形界面，用于创建[谱面](/wiki/Beatmap)。[作图](/wiki/Beatmapping) 指的是为 osu! 创建谱面的行为。
+**谱面编辑器**是 osu! 的游戏中的图形界面，用于创建[谱面](/wiki/Beatmap)。[作图](/wiki/Beatmapping)指的是为 osu! 创建谱面的行为。
 
 谱面编辑器被分为4个主要部分，可以在编辑器左上角看到：
 
