@@ -2,7 +2,7 @@
 
 ![编辑器中 Donor Song 谱面（pishifat 作图）的 `compose` 标签页截图](Compose/img/Compose.jpg)
 
-*对于谱面编辑器的快捷键，参见： [参考快捷键 § 谱面编辑器](/wiki/Client/Keyboard_shortcuts#beatmap-editor)*
+*对于谱面编辑器的快捷键，参见： [参考快捷键 § 谱面编辑器](/wiki/Client/Keyboard_shortcuts#谱面编辑器)*
 
 **谱面编辑器**是 osu! 的游戏中的图形界面，用于创建[谱面](/wiki/Beatmap)。[作图](/wiki/Beatmapping) 指的是为 osu! 创建谱面的行为。
 
