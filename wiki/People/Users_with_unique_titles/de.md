@@ -306,7 +306,9 @@ Diesen Spielern wurden ihre entsprechenden Titel entweder durch eine verrückte 
 | Benutzer | Titel | Errungenschaft |
 | :-- | :-- | :-- |
 | ::{ flag=NO }:: [-GN](https://osu.ppy.sh/users/895581) | Champion Above Champions | Hat die erste NoMod FC auf [Shotgun Symphony+ [Impossibly Intense]](https://osu.ppy.sh/beatmapsets/7671#osu/32570) erreicht |
+| ::{ flag=US }:: [EEEEEEEEEEEEEEE](https://osu.ppy.sh/users/2927048) | osu!completionist | Spielte alle gerankten osu!-Beatmaps ab dem 15. März 2023 |
 | ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) | Drum Decimator | Erreichte FCs auf allen gerankten osu!taiko-Beatmaps ab dem 3. November 2019 |
+| ::{ flag=PL }:: [Przegrany](https://osu.ppy.sh/users/7635621) | osu!completionist | Spielte alle gerankten osu!-Beatmaps ab dem 11. August 2021 |
 | ::{ flag=NL }:: [Shirotora_old](https://osu.ppy.sh/users/11820) | Bested the Reaper's Game | Wurde durch ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) Ende 2008 überreicht für das Erreichen des Rangs #104 in einer Woche, als eine Referenz auf [*The World Ends with You*](https://de.wikipedia.org/wiki/The_World_Ends_with_You) <!-- source: https://osu.ppy.sh/community/forums/posts/60664 (Shirotora_old's forum signature) --> |
 | ::{ flag=US }:: [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist | Spielte alle gerankten osu!-Beatmaps ab dem 27. April 2019 |
 | ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter | Gewann [The Hunt for the Girl in the Forest](https://osu.ppy.sh/community/forums/topics/662279) |

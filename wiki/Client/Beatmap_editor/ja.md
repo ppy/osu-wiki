@@ -4,7 +4,7 @@
 
 ![pishifatのDonor Songのビートマップを表示したエディタの作曲タブのスクリーンショット](img/compose.jpg)
 
-*ビートマップエディターのショートカットについては、次を参照してください: [Shortcut key reference § Beatmap editor](/wiki/Client/Keyboard_shortcuts#beatmap-editor)*
+*ビートマップエディターのショートカットについては、次を参照してください: [Shortcut key reference § Beatmap editor](/wiki/Client/Keyboard_shortcuts#ビートマップエディター)*
 
 **ビートマップエディター**は、osu!のゲーム内で[ビートマップ](/wiki/Beatmap)を作成するためのグラフィカルなインターフェースです。[ビートマッピング](/wiki/Beatmapping)とは、osu!のビートマップを作成することです。
 
