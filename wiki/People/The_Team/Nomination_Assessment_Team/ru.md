@@ -57,15 +57,18 @@ NAT самостоятельно отслеживает появление но�
 | ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) |  | Evaluator |
 | ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | Белорусский, русский | Evaluator |
 | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Кантонский, китайский | Evaluator |
+| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Португальский | Evaluator |
 | ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | Evaluator |
 | ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Китайский | Evaluator |
 | ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Немецкий | Evaluator |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Шведский | Advisor |
+| ::{ flag=GB }:: [nexusqi](https://osu.ppy.sh/users/13822800) |  | Evaluator |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | Advisor |
 | ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | Evaluator |
 | ::{ flag=AT }:: [Stixy](https://osu.ppy.sh/users/9000308) | Немецкий, сербский | Evaluator |
 | ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) |  | Advisor |
 | ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | Нидерландский | Evaluator |
+| ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  | Evaluator |
 | ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | Польский | Evaluator |
 
 ### osu!taiko
@@ -74,7 +77,6 @@ NAT самостоятельно отслеживает появление но�
 | :-- | :-- | :-- |
 | ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | Немецкий | Evaluator |
 | ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | Урду, частично арабский | Evaluator |
-| ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733) | Кантонский, китайский | Evaluator |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Арабский, французский, частично итальянский | Evaluator |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | Evaluator |
 
@@ -84,7 +86,6 @@ NAT самостоятельно отслеживает появление но�
 | :-- | :-- | :-- |
 | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | Испанский, немецкий | Evaluator |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Нидерландский | Evaluator |
-| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  | Evaluator |
 
 ### osu!mania
 

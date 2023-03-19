@@ -32,7 +32,7 @@ Der Grund dahinter ist, dass viele osu!mania-Beatmaps von Rechtshändern kreiert
 ## Trivia
 
 - Die Mod Mirror wurde im September 2019 als Reaktion auf eine [Feature-Anfrage](https://osu.ppy.sh/community/forums/topics/956618) von [Kamuy](https://osu.ppy.sh/users/7439226) hinzugefügt.
-  - Zum Zeitpunkt der Veröffentlichung der Feature-Anfrage gab es bereits eine ähnliche Mod, die in [osu!(lazer)](https://github.com/ppy/osu#osu) implementiert war. Aufgrund der erhöhten Zugänglichkeit wurde die Mod Mirror auch in die Updatequelle Stable eingebaut.
+  - Zum Zeitpunkt der Veröffentlichung der Feature-Anfrage gab es bereits eine ähnliche Mod, die in [osu!(lazer)](/wiki/Client/Release_stream/Lazer) implementiert war. Aufgrund der erhöhten Zugänglichkeit wurde die Mod Mirror auch in die Updatequelle Stable eingebaut.
   - Die aktuelle Mod Mirror wurde tatsächlich mehrfach gewünscht, und zwar schon Jahre vor Kamuys Antrag, aber der Beitrag von Kamuy war der einzige, der genug Aufmerksamkeit erhielt, sodass die Mod wirklich implementiert wurde.
 - Die Mod Mirror ist die einzige Spielmodifikation in der Kategorie "Sonstige", die weder die Menge an [Performance-Punkten (pp)](/wiki/Performance_points) noch den [Score](/wiki/Gameplay/Score) beeinflusst, die ein Spieler erreicht, und dennoch gerankt werden kann.
 

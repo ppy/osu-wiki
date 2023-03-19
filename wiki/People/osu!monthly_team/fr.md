@@ -14,6 +14,7 @@ Les personnes listées ci-dessous constituent le cœur de l'équipe de l'osu!mon
 | :-- | :-- |
 | ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Maintainer |
 | ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823) | Co-maintainer |
+| ::{ flag=SE }:: [Walavouchey](https://osu.ppy.sh/users/5773079) | Co-maintainer |
 | ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) | Bricoleur de Trivia |
 | ::{ flag=CA }:: [ianpep](https://osu.ppy.sh/users/7699030) | Rédacteur[^task-taiko] |
 | ::{ flag=ES }:: [kadoen](https://osu.ppy.sh/users/12780575) | Rédacteur[^task-mania] |

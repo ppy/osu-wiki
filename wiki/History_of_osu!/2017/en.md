@@ -12,7 +12,7 @@ Links:
 
 ## February
 
-[Ben Briggs](https://osu.ppy.sh/beatmaps/artists/11) was announced to be another Featured Artist. The first lazer build of osu! was released!
+[Ben Briggs](https://osu.ppy.sh/beatmaps/artists/11) was announced to be another Featured Artist. The first [lazer](/wiki/Client/Release_stream/Lazer) build of osu! was released!
 
 Links:
 
@@ -123,7 +123,7 @@ Links:
 
 ## December
 
-The Winter 2017 Fanart Contest results were in, awarding [Leissss](https://osu.ppy.sh/users/4750716) with the most votes. OWC 2017 concluded with Poland being victorious. Thanks to LiquidPL, the cringey download page in osu!web has been redone. The day before Christmas, another handful of community contributors were announced. Every player received osu!supporter status temporarily for testing purposes, which coincidentally happened on Christmas Eve. peppy ends the year with a video, giving 2017 a year-in-review in regards to the lazer version of osu!.
+The Winter 2017 Fanart Contest results were in, awarding [Leissss](https://osu.ppy.sh/users/4750716) with the most votes. OWC 2017 concluded with Poland being victorious. Thanks to LiquidPL, the cringey download page in osu!web has been redone. The day before Christmas, another handful of community contributors were announced. Every player received osu!supporter status temporarily for testing purposes, which coincidentally happened on Christmas Eve. peppy ends the year with a video, giving 2017 a year-in-review in regards to the [lazer](/wiki/Client/Release_stream/Lazer) version of osu!.
 
 Links:
 

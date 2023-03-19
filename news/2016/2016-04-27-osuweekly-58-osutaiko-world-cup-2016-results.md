@@ -25,7 +25,7 @@ What a busy week! In addition to the conclusion of the osu!taiko World Cup 2016,
 
 ---
 
-![](http://w.ppy.sh/d/d6/Twc_2016_logo.png)
+![](/wiki/shared/news/banners/TWC_2016.png)
 
 **It may come as a surprise for a lot of you, but the team representing Japan this year is filled with new faces and talent.** Led by captain [tasuke912](https://osu.ppy.sh/users/tasuke912), the high ranking super team devastated the competition coming into the Grand Finals. Throughout the course of the tournament, there was not a match where Japan did not deliver a convincing and complete victory.
 

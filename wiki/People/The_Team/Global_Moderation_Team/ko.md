@@ -42,7 +42,7 @@ Global Moderation Team은 채팅 채널과 포럼의 쾌적한 운용을 책임�
 | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) | 폴란드어 | 채팅 관리 |
 | ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | 중국어 | 매핑/모딩 커뮤니티 관리 |
 | ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | 매핑/모딩 커뮤니티 관리 |
-| ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837) | 프랑스어 | 채팅 관리 |
+| ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837) | 프랑스어, 스페인어 | 채팅 관리 |
 | ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) |  | 채팅 관리, 매핑/모딩 커뮤니티 관리 |
 | ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326) | 광둥어, 중국어, 일본어 | 채팅 관리 |
 | ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) | 러시아어 | 채팅 관리 |
