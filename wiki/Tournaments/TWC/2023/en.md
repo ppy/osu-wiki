@@ -181,7 +181,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad
 
 The final standings for the Qualifier stage can be found at the following [spreadsheet](https://docs.google.com/spreadsheets/d/1CbqJJuGEPjObjSS40BqfbZfi5On-osqtWECKq9BLGKE?rm=minimal).
 
-| Seed | Country | rank sum | avg. score[^qualifiers-tiebreaker] |
+| Seed | Country | rank sum[^qualifiers-seeding] | avg. score[^qualifiers-tiebreaker] |
 | :-: | :-- | :-- | :-- |
 | #1 | ::{ flag=JP }:: Japan | 15 | 3,188,549 |
 | #2 | ::{ flag=US }:: United States | 38 | 3,150,243 |
