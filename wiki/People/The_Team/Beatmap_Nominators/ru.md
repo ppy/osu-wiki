@@ -110,10 +110,11 @@ tags:
 | ::{ flag=TR }:: [Burak](https://osu.ppy.sh/users/13213075) | Турецкий |
 | ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | Китайский, кантонский |
 | ::{ flag=MX }:: [DakeDekaane](https://osu.ppy.sh/users/1425253) | Испанский |
-| ::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142) | Вьетнамский |
 | ::{ flag=BR }:: [D0UG](https://osu.ppy.sh/users/13806900) | Португальский |
+| ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733) | Кантонский, китайский |
 | ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851) | Немецкий |
 | ::{ flag=US }:: [hac](https://osu.ppy.sh/users/17853754) |  |
+| ::{ flag=IE }:: [HEAVENLY MOON](https://osu.ppy.sh/users/6751666) |  |
 | ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | Португальский |
 | ::{ flag=NL }:: [ikin5050](https://osu.ppy.sh/users/4007649) | Нидерландский |
 | ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230) | Китайский, кантонский |
@@ -156,6 +157,7 @@ tags:
 | ::{ flag=KR }:: [ArtZone](https://osu.ppy.sh/users/15548034) | Корейский |
 | ::{ flag=KR }:: [Aruel](https://osu.ppy.sh/users/3984370) | Корейский |
 | ::{ flag=GB }:: [Asherz007](https://osu.ppy.sh/users/9014047) |  |
+| ::{ flag=CN }:: [AWMRone](https://osu.ppy.sh/users/10351684) | Китайский |
 | ::{ flag=US }:: [Crisper](https://osu.ppy.sh/users/16482505) |  |
 | ::{ flag=MY }:: [Critical_Star](https://osu.ppy.sh/users/3793196) | Малайский |
 | ::{ flag=KR }:: [DenYi](https://osu.ppy.sh/users/14998645) | Корейский |
@@ -222,10 +224,10 @@ tags:
 
 | Имя | Языки |
 | :-- | :-- |
-| ::{ flag=CN }:: [AWMRone](https://osu.ppy.sh/users/10351684) | Китайский |
 | ::{ flag=GB }:: [Hydria](https://osu.ppy.sh/users/808176) |  |
 | ::{ flag=US }:: [Monoseul](https://osu.ppy.sh/users/16010604) |  |
 | ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) |  |
+| ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) | Голла́ндский |
 
 ## История
 
