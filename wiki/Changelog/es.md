@@ -8,7 +8,7 @@ tags:
 
 El **[registro de cambios](https://osu.ppy.sh/home/changelog)** es una página donde el [equipo de desarrollo de osu!](/wiki/People/The_Team/Developers) detallan sus mejoras, adiciones y correcciones de errores día a día al juego. Todos los cambios de versiones anteriores se registran aquí con fines de archivo.
 
-Los registros de cambios para el sitio web y osu!(lazer) se generan automáticamente en función de las versiones de GitHub de esos proyectos, mientras que el resto se mantiene manualmente.
+Los registros de cambios para el sitio web y [osu!(lazer)](/wiki/Client/Release_stream/Lazer) se generan automáticamente en función de las versiones de GitHub de esos proyectos, mientras que el resto se mantiene manualmente.
 
 ## Historia
 

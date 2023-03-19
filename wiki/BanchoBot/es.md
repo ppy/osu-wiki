@@ -123,7 +123,7 @@ Hay un total de 7 estados que se pueden mostrar con el comando `!stats`: Editing
 !faq list
 ```
 
-`!faq` muestra el contenido de una entrada. Alternativamente, el argumento `list` se puede usar para mostrar todas las entradas disponibles. Por defecto, BanchoBot responderá en Ingles,  pero es posible recibir una respuesta en otro idioma anteponiendo la entrada con el [código de dos letras](/wiki/Article_styling_criteria/Formatting#locales). A continuación se muestran ejemplos de envío de este comando:
+`!faq` muestra el contenido de una entrada. Alternativamente, el argumento `list` se puede usar para mostrar todas las entradas disponibles. Por defecto, BanchoBot responderá en Ingles,  pero es posible recibir una respuesta en otro idioma anteponiendo la entrada con el [código de dos letras](/wiki/Article_styling_criteria/Formatting#configuraciones-regionales). A continuación se muestran ejemplos de envío de este comando:
 
 ```
 13:03 pippi: !faq peppy
