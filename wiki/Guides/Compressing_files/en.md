@@ -172,20 +172,20 @@ MediaInfo is very easy to use. After installing, open the file with MediaInfo an
 1. Right-click any file and select MediaInfo from the context menu, or use `File` -> `Open` -> `Open file(s)...` in MediaInfo.
 2. Change the view from `Basic` to either `Tree`, `Text`, or `HTML`. The default `Basic` view only displays a condensed series of information.
 
-For video, the parts that are most important will be the following:
+For video, technical information that are most important will be the following:
 - `Format` and `Format/Info`, which must be `AVC` and `Advanced Video Codec`, respectively.
 - `Width`, which must be at or below `1280 pixels`.
 - `Height`, which must be at or below `720 pixels`.
 - `Frame rate mode`, which must be `Constant`.
 
-For audio, the parts that are most important will instead be the following:
+For audio, technical information that are most important will instead be the following:
 - `Overall bitrate`, which must be between `192kbps` and `128kbps` as specified in the ranking criteria.
-- For MP3, make sure to check these parts:
+- For MP3, make sure to look for:
   - `Format`, which must be `MPEG Audio`.
   - `Format profile` which must be `Version 1`.
   - `Format settings` which must be `Layer 3`.
-- For OGG (Vorbis), make sure to check these parts:
-  - `Format`, which must be `Vorbis`.
+- For OGG (Vorbis), make sure to look for:
+  - `Format`, which must be both `OGG` and `Vorbis`.
 
 If everything seems correct and the file size is small enough, then you can put either re-encoded audio or video file into your beatmap.
 
