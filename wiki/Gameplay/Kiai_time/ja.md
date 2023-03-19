@@ -3,6 +3,8 @@ stub: true
 tags:
   - タイミングセクション
   - 気合いモード
+outdated_since: 6ba070987dcb26a0db6d9758aec6ad510c6a1b50
+outdated_translation: true
 ---
 
 # 気合いタイム

@@ -23,8 +23,8 @@ The NAT is responsible for a variety of mapping-related tasks, with each NAT mem
 
 Members of the **evaluator** subgroup are primarily responsible for:
 
-- **Evaluation:** Evaluating the proficiency and activity of both current Beatmap Nominators and applicants. *See [Evaluations](/wiki/People/The_Team/Nomination_Assessment_Team/Evaluations) for more details.*
-- **Nomination:** Nominating at least 2 beatmaps per month. This helps evaluators keep up to date with the mapping/modding community when evaluating current and aspiring Beatmap Nominators.
+- **Evaluation**: Evaluating the proficiency and activity of both current Beatmap Nominators and applicants. *See [Evaluations](/wiki/People/The_Team/Nomination_Assessment_Team/Evaluations) for more details.*
+- **Nomination**: Nominating at least 2 beatmaps per month. This helps evaluators keep up to date with the mapping/modding community when evaluating current and aspiring Beatmap Nominators.
   - Modding activity and other contributions may be used as a backup metric when evaluating activity.
 
 Evaluators are in high demand due to the sheer volume of [BN applications](/wiki/People/The_Team/Beatmap_Nominators/Becoming_a_Beatmap_Nominator). They, unlike advisors, therefore occasionally look for new members to join them and help ease the workload. This is why BNs who wish to join the NAT are primarily judged based on their ability to evaluate, and most NAT members join and stay as evaluators.
@@ -33,10 +33,10 @@ Evaluators are in high demand due to the sheer volume of [BN applications](/wiki
 
 As a group, **advisors** are required to maintain:
 
-- **Communication:** Promoting transparency and maintaining good relations with not only the rest of the mapping/modding community, but also within the NAT itself. This includes, but not limited to, making announcements, participating in discussions about proposals, asking/answering questions through surveys, and updating the [ranking criteria](/wiki/Ranking_Criteria) as well as other documentation.
-- **Development:** Developing and maintaining tools and websites to help improve the ranking process (such as [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier), [Aiess](https://github.com/Naxesss/Aiess), or [the NAT/BN website](https://bn.mappersguild.com/home)).
-- **Moderation:** Handling user reports and assessing inappropriate behaviour of Beatmap Nominators, as well as processing beatmap content reviews. This subcategory is a joint effort between the NAT and the GMT.
-- **Miscellaneous maintenance:** Included but not limited to:
+- **Communication**: Promoting transparency and maintaining good relations with not only the rest of the mapping/modding community, but also within the NAT itself. This includes, but not limited to, making announcements, participating in discussions about proposals, asking/answering questions through surveys, and updating the [ranking criteria](/wiki/Ranking_Criteria) as well as other documentation.
+- **Development**: Developing and maintaining tools and websites to help improve the ranking process (such as [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier), [Aiess](https://github.com/Naxesss/Aiess), or [the NAT/BN website](https://bn.mappersguild.com/home)).
+- **Moderation**: Handling user reports and assessing inappropriate behaviour of Beatmap Nominators, as well as processing beatmap content reviews. This subcategory is a joint effort between the NAT and the GMT.
+- **Miscellaneous maintenance**: Included but not limited to:
   - Handling [vetoes](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto).
   - Maintaining the [RC Test](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test).
   - Judging nomination reset [severity](SEV_rating).
@@ -123,7 +123,6 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | :-- | :-- | :-- |
 | ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | German | Evaluator |
 | ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | Urdu, some Arabic | Evaluator |
-| ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733) | Cantonese, Chinese | Evaluator |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Arabic, French, some Italian | Leader |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | Leader |
 
@@ -133,7 +132,6 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | :-- | :-- | :-- |
 | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | Spanish, German | Evaluator |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Dutch | Evaluator |
-| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  | Evaluator |
 
 ### osu!mania
 

@@ -14,7 +14,6 @@
 - [Мод](Mod)
 - [NC](NC)
 - [NM](NM)
-- [Оффсет](Offset)
 - [Ouendan](Ouendan)
 - [osu!](osu!)
 - [Ранк](Rank)

@@ -26,8 +26,8 @@ tags:
 
 属于**评估者** (Evaluators) 小组的成员主要负责：
 
-- **评估：** 评估所有谱面审核成员和谱面审核成员团队申请者的申请，确保他们足够专业和活跃。参阅 [BN 评估](/wiki/People/The_Team/Nomination_Assessment_Team/Evaluations)页面了解更多信息。
-- **提名：** 评估者成员一个月至少要提名两张谱面。这能帮助评估者在评估在职的谱面审核成员 (BN)，或是想要加入谱面审核成员 (BN) 的申请者时，能以作图和摸图社区的最新情况作为参考。
+- **评估**：评估所有谱面审核成员和谱面审核成员团队申请者的申请，确保他们足够专业和活跃。参阅 [BN 评估](/wiki/People/The_Team/Nomination_Assessment_Team/Evaluations)页面了解更多信息。
+- **提名**：评估者成员一个月至少要提名两张谱面。这能帮助评估者在评估在职的谱面审核成员 (BN)，或是想要加入谱面审核成员 (BN) 的申请者时，能以作图和摸图社区的最新情况作为参考。
   - 评估者成员的摸图活跃度和其他方面的贡献，可用于作为确定他们活跃度时的备用参考。
 
 评估者职位与只会偶尔纳入新成员，帮助降低工作负担的顾问职位不同，由于 [BN 申请](/wiki/People/The_Team/Beatmap_Nominators/Becoming_a_Beatmap_Nominator)的数量庞大，相应地，也需要非常多的评估者来处理。这就是在寻求想加入审核评估团队 (NAT) 的谱面审核成员 (BN) 时，主要评判标准是他们的评估能力的原因。大多数审核评估团队 (NAT) 成员都是作为评估者而留在团队中的。
@@ -36,10 +36,10 @@ tags:
 
 属于**顾问** (Advisors) 小组的成员主要负责：
 
-- **沟通：** 与其他审核评估团队 (NAT) 成员，或是与作图和摸图社区的其他成员保持良好的关系，促进之间的沟通透明无阻。这包括但不限于发布公告、参加相关提案的讨论、预先调查并提出或回答问题、更新[谱面上架标准 (RC)](/wiki/Ranking_Criteria) 和其他文件。
-- **开发：** 开发并维护能够辅助谱面上架流程的工具和网页（比如 [Mapset Verifier (MV)](https://github.com/Naxesss/MapsetVerifier)、[Aiess](https://github.com/Naxesss/Aiess)、[NAT/BN 网页](https://bn.mappersguild.com/home)）。
-- **管理：** 处理玩家举报，评估谱面审核成员 (BN) 的不良行为，以及处理和审查谱面内容。这部分工作通常由审核评估团队 (NAT) 和全局管理团队 (GMT) 合作完成。
-- **杂项处理：** 包括但不限于：
+- **沟通**：与其他审核评估团队 (NAT) 成员，或是与作图和摸图社区的其他成员保持良好的关系，促进之间的沟通透明无阻。这包括但不限于发布公告、参加相关提案的讨论、预先调查并提出或回答问题、更新[谱面上架标准 (RC)](/wiki/Ranking_Criteria) 和其他文件。
+- **开发**：开发并维护能够辅助谱面上架流程的工具和网页（比如 [Mapset Verifier (MV)](https://github.com/Naxesss/MapsetVerifier)、[Aiess](https://github.com/Naxesss/Aiess)、[NAT/BN 网页](https://bn.mappersguild.com/home)）。
+- **管理**：处理玩家举报，评估谱面审核成员 (BN) 的不良行为，以及处理和审查谱面内容。这部分工作通常由审核评估团队 (NAT) 和全局管理团队 (GMT) 合作完成。
+- **杂项处理**：包括但不限于：
  - 处理谱面否决 (Veto)。
  - 维护 [RC 考试](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test).
  - 判决提名重置的[严重程度](SEV_rating)。
@@ -109,7 +109,6 @@ tags:
 | :-- | :-- | :-- |
 | ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | 德语 | 评估者 |
 | ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | 乌尔都语，一部分阿拉伯语 | 评估者 |
-| ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733) | 粤语，汉语 | 评估者 |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | 阿拉伯语，法语，一部分意大利语 | 评估者 |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | 评估者 |
 
@@ -119,7 +118,6 @@ tags:
 | :-- | :-- | :-- |
 | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | 西班牙语，德语 | 评估者 |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | 荷兰语 | 评估者 |
-| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  | 评估者 |
 
 ### osu!mania
 

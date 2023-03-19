@@ -4,9 +4,9 @@ outdated_translation: true
 
 # Czas Kiai
 
-![Fontanna gwiazd oznaczająca początek Czasu Kiai.](img/Kiai_Time_test.jpg "Fontanna gwiazd oznaczająca początek Czasu Kiai.")
+![Fontanna gwiazd oznaczająca początek Czasu Kiai.](img/kiai-time-osu-gameplay.png "Fontanna gwiazd oznaczająca początek Czasu Kiai.")
 
-![Znaczek Czasu Kiai w Edytorze.](img/Kiai_Time_edit.jpg "Znaczek Czasu Kiai w Edytorze.")
+![Znaczek Czasu Kiai w Edytorze.](img/kiai-time-editor.png "Znaczek Czasu Kiai w Edytorze.")
 
 **Czas Kiai** jest umieszczany przez [twórcę mapy](/wiki/Beatmapping) między dwoma [miejscami](/wiki/Client/Beatmap_editor/Timing) w [beatmapie](/wiki/Beatmap). Czas Kiai łatwo zauważyć, ponieważ wraz z jego rozpoczęciem pojawia się gwiezdna fontanna, a ekran oraz [elementy beatmapy](/wiki/Hit_object) zaczynają migać zgodnie z [rytmem](/wiki/Client/Beatmap_editor/Timing) piosenki. Gdy Czas Kiai jest aktywny, z kursora będą wylatywały gwiazdki przy każdym naciśnięciu kółka, przeciągnięciu slidera oraz kręceniu spinnerem.
 
