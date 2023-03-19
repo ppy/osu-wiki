@@ -1,5 +1,6 @@
 ---
-stub: true
+outdated_translation: true
+outdated_since: 6fc378747b2b9382b8a66b100927a87fea9d5ded
 ---
 
 # Универсальный оффсет
