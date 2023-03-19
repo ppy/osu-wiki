@@ -25,8 +25,8 @@ Les NAT sont responsables d'une variété de tâches liées au mapping qui peuve
 
 Les membres du sous-groupe des **évaluateurs** sont principalement responsables de :
 
-- **L'évaluation :** Évaluer les compétences et l'activité des Beatmap Nominators actuels et des candidats. *Voir [Évaluations](/wiki/People/The_Team/Nomination_Assessment_Team/Evaluations) pour plus de détails.*
-- **Le modding :** Modder au moins 3 beatmaps par mois. Cela aide les évaluateurs à se tenir au courant de l'évolution de la communauté de mapping/modding lors de l'évaluation des Beatmap Nominators actuels et des candidats.
+- **L'évaluation** : Évaluer les compétences et l'activité des Beatmap Nominators actuels et des candidats. *Voir [Évaluations](/wiki/People/The_Team/Nomination_Assessment_Team/Evaluations) pour plus de détails.*
+- **Le modding** : Modder au moins 3 beatmaps par mois. Cela aide les évaluateurs à se tenir au courant de l'évolution de la communauté de mapping/modding lors de l'évaluation des Beatmap Nominators actuels et des candidats.
 
 Les évaluateurs sont très demandés en raison du grand nombre de [candidatures BN](/wiki/People/The_Team/Beatmap_Nominators/Becoming_a_Beatmap_Nominator). Contrairement aux conseillers, ils recherchent donc occasionnellement de nouveaux membres pour les rejoindre et les aider à alléger la charge de travail. C'est pourquoi les BN qui souhaitent rejoindre la NAT sont principalement jugés en fonction de leur capacité à évaluer, et la plupart des membres de la NAT rejoignent et restent en tant qu'évaluateurs.
 
@@ -34,10 +34,10 @@ Les évaluateurs sont très demandés en raison du grand nombre de [candidatures
 
 En tant que groupe, les **conseillers** sont chargés de maintenir :
 
-- **La communication :** Promouvoir la transparence et maintenir de bonnes relations avec non seulement le reste de la communauté de mapping/modding, mais également au sein de la NAT elle-même. Cela inclut, sans s'y limiter, la publication d'annonces, la participation aux discussions sur les propositions, la pose de questions et l'apport de réponses dans le cadre de sondages, et la mise à jour des [critères de classement](/wiki/Ranking_Criteria) ainsi que d'autres documents.
-- **Le développement :** Développer et maintenir des outils et des sites web qui aideront à améliorer le processus de classement (tels que [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier), [Aiess](https://github.com/Naxesss/Aiess), ou [le site web des NAT/BN](https://bn.mappersguild.com/home)).
-- **La modération :** Traiter les signalements des utilisateurs et évaluer les comportements inappropriés des Beatmap Nominators, tout en traitant les passages en revue du contenu des beatmaps. Cette sous-catégorie est un effort conjoint entre la NAT et la GMT.
-- **L'entretien divers :** Inclut sans s'y limiter :
+- **La communication** : Promouvoir la transparence et maintenir de bonnes relations avec non seulement le reste de la communauté de mapping/modding, mais également au sein de la NAT elle-même. Cela inclut, sans s'y limiter, la publication d'annonces, la participation aux discussions sur les propositions, la pose de questions et l'apport de réponses dans le cadre de sondages, et la mise à jour des [critères de classement](/wiki/Ranking_Criteria) ainsi que d'autres documents.
+- **Le développement** : Développer et maintenir des outils et des sites web qui aideront à améliorer le processus de classement (tels que [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier), [Aiess](https://github.com/Naxesss/Aiess), ou [le site web des NAT/BN](https://bn.mappersguild.com/home)).
+- **La modération** : Traiter les signalements des utilisateurs et évaluer les comportements inappropriés des Beatmap Nominators, tout en traitant les passages en revue du contenu des beatmaps. Cette sous-catégorie est un effort conjoint entre la NAT et la GMT.
+- **L'entretien divers** : Inclut sans s'y limiter :
   - La gestion des veto.
   - La maintenance du [Test des BN](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test).
   - Le jugement de la gravité des réinitialisations de nominations.
@@ -105,7 +105,6 @@ La [page du groupe de la Nomination Assessment Team](https://osu.ppy.sh/groups/7
 | :-- | :-- | :-- |
 | ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | Allemand | Évaluateur |
 | ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | Ourdou, un peu d'arabe | Évaluateur |
-| ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733) | Cantonais, chinois | Évaluateur |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Arabe, français, un peu d'italien | Évaluateur |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | Évaluateur |
 
