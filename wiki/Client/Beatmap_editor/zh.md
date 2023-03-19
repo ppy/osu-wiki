@@ -1,22 +1,42 @@
----
-outdated_translation: true
----
-
 # Beatmap Editor
 
-![osu!的谱面编辑器 (Windows 系统)](Compose/img/Compose.jpg "osu!的谱面编辑器 (Windows 系统)")
+![编辑器中 Donor Song 谱面（pishifat 作图）的 `compose` 标签页截图](Compose/img/Compose.jpg)
 
-**谱面编辑器**是 osu! 的游戏中的图形界面，用于创建[谱面](/wiki/Beatmap)。它被分为4种模式：
+*对于谱面编辑器的快捷键，参见： [参考快捷键 § 谱面编辑器](/wiki/Client/Keyboard_shortcuts#beatmap-editor)*
 
-- [Compose](Compose)：这是其中[打击物件放置和编辑的部分](/wiki/Hit_object)。大部分所花费的时间会在这里完成。
-- [Design](Design)：这就是故事板设计，多数作图者只会在这里使用“背景图片/视频”按钮。
-- [Timing](Timing)：这是设置乐曲的 BPM 和 Offset。这个窗口还控制点击音效。
-- [Song setup](Song_Setup)：这是关于地图的各种选项进行设置。这包括颜色和难度设置。
+**谱面编辑器**是 osu! 的游戏中的图形界面，用于创建[谱面](/wiki/Beatmap)。[作图](/wiki/Beatmapping) 指的是为 osu! 创建谱面的行为。
 
-## Related articles
+谱面编辑器被分为4个主要部分，可以在编辑器左上角看到：
 
-- [作图](/wiki/Beatmapping)
-- [音符时值](Beat_Snap_Divisor)
-- [间距锁定](Distance_snap)
-- [自定义音效](/wiki/Guides/Custom_Sample_Overrides)
-- [Kiai 时间](/wiki/Gameplay/Kiai_time)
+- Compose
+- Design
+- Timing
+- Song setup
+
+## Compose
+
+[Compose（作曲）](/wiki/Client/Beatmap_editor/Compose)是编辑器中放置[打击物件](/wiki/Hit_object)与其他游戏相关元素的部分。谱师因此会在这里花最多时间。
+
+## Design
+
+[Design（设计）](/wiki/Client/Beatmap_editor/Design)提供制作[故事板](/wiki/Storyboard)（随谱面出现的视觉效果）的一种方式。由于故事板常带有复杂效果，需要使用许多故事板命令，作图者也会[利用脚本制作故事板](/wiki/Storyboard/Scripting)取而代之。
+
+## Timing
+
+[Timing](/wiki/Client/Beatmap_editor/Timing)负责管理歌曲的时间轴区间、控制谱面打击音效。由于谱面需要正确的时间轴测定与恰当反馈，来让游玩体验与歌曲节奏相符，这部分就很必要了。
+
+## Song setup
+
+[Song setup](wiki/Client/Beatmap_editor/Song_Setup)设置谱面的[元数据](/wiki/Client/Beatmap_editor/Song_Setup#song-and-map-metadata)，以及对谱面普遍存在的其他东西。这包括歌曲名、艺术家、难度名、连击颜色等等。
+
+## 其他
+
+谱面编辑器的其他组件包括：
+
+- [AiMod](AiMod)：报告谱面问题的自动化系统
+- [音符时值](Beat_Snap_Divisor)：决定物件与时间线对齐的方式
+- [间距锁定](Distance_snap)：影响物件间距离的系数
+- [Kiai 时间](/wiki/Gameplay/Kiai_time)：谱面的特殊时间轴区间，有助于强调谱面的一部分
+- [菜单](Menu)：帮助你在谱面编辑器中导航
+- [故事板负载](SB_Load)：体现故事板需求的数值
+- [时间线](Timelines)：显示已放置物件、休息时段等等
