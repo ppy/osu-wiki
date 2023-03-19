@@ -1,4 +1,4 @@
-# Beatmap Editor
+# 谱面编辑器
 
 ![编辑器中 Donor Song 谱面（pishifat 作图）的 `compose` 标签页截图](Compose/img/Compose.jpg)
 
@@ -27,7 +27,7 @@
 
 ## Song setup
 
-[Song setup（歌曲设定）](wiki/Client/Beatmap_editor/Song_Setup)设置谱面的[元数据](/wiki/Client/Beatmap_editor/Song_Setup#song-and-map-metadata)，以及对谱面普遍存在的其他东西。这包括歌曲名、艺术家、难度名、连击颜色等等。
+[Song setup（歌曲设定）](/wiki/Client/Beatmap_editor/Song_Setup)设置谱面的[元数据](/wiki/Client/Beatmap_editor/Song_Setup#song-and-map-metadata)，以及对谱面普遍存在的其他东西。这包括歌曲名、艺术家、难度名、连击颜色等等。
 
 ## 其他
 
