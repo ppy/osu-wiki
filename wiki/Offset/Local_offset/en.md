@@ -11,7 +11,7 @@ tags:
 
 ## Behaviour
 
-Local offset is customized on a per-beatmap basis. It works by moving all hit objects and [timing points](/wiki/Client/Beatmap_editor/Timing) of a beatmap by a specificed amount of milliseconds. Negative values move objects earlier in time (closer to the beginning), while positive values move them later, which is notably different from how [universal offset](/wiki/Client/Options/Universal_offset) functions.
+Local offset is customized on a per-beatmap basis. It works by shifting all gameplay elements relative to the audio track by a specificed amount of milliseconds. Negative values move objects earlier in time (closer to the beginning), while positive values move them later, which is notably different from how [universal offset](/wiki/Client/Options/Universal_offset) functions.
 
 Most of the time, the local offset is best kept at 0 (provided that beatmaps have their timing set up correctly), unless individual hardware issues get in the way. In case of several players getting the same hit difference[^hit-difference], it is worth contacting a member of the [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team), who can confirm the issue and apply [online offset](/wiki/Offset/Online_offset) to fix it once and for all.
 

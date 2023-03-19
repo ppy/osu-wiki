@@ -15,8 +15,8 @@ tags:
 
 Universal offset works by adding a specified delay between every beatmap's song and the other associated sounds and graphics. Since it is applied to the audio rather than beatmap objects, it produces an effect opposite than these of [local](/wiki/Offset/Local_offset) or [online](/wiki/Offset/Online_offset) offsets:
 
-- Positive values will make hit objects and sounds appear **earlier**
-- Negative values will make hit objects and sounds appear **later**
+- Positive values will move gameplay elements **earlier**
+- Negative values will move gameplay elements **later**
 
 It is usually worth keeping the universal offset at its default value, `0`, since an incorrectly determined universal offset will cause significant timing problems on all beatmaps. However, if **all beatmaps** have a consistent and noticeable delay, using a different value may be beneficial.[^local-offset] Each player's optimal universal offset value differs due to variations in their systems.
 
