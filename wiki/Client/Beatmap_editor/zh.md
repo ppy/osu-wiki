@@ -23,11 +23,11 @@
 
 ## Timing
 
-[Timing](/wiki/Client/Beatmap_editor/Timing)负责管理歌曲的时间轴区间、控制谱面打击音效。由于谱面需要正确的时间轴测定与恰当反馈，来让游玩体验与歌曲节奏相符，这部分就很必要了。
+[Timing（测定时间轴）](/wiki/Client/Beatmap_editor/Timing)负责管理歌曲的时间轴区间、控制谱面打击音效。由于谱面需要正确的时间轴测定与恰当反馈，来让游玩体验与歌曲节奏相符，这部分就很必要了。
 
 ## Song setup
 
-[Song setup](wiki/Client/Beatmap_editor/Song_Setup)设置谱面的[元数据](/wiki/Client/Beatmap_editor/Song_Setup#song-and-map-metadata)，以及对谱面普遍存在的其他东西。这包括歌曲名、艺术家、难度名、连击颜色等等。
+[Song setup（歌曲设定）](wiki/Client/Beatmap_editor/Song_Setup)设置谱面的[元数据](/wiki/Client/Beatmap_editor/Song_Setup#song-and-map-metadata)，以及对谱面普遍存在的其他东西。这包括歌曲名、艺术家、难度名、连击颜色等等。
 
 ## 其他
 
