@@ -27,10 +27,15 @@ Community-run tournaments which abide by the following hard criteria are eligibl
 
 - The tournament series must run no more than two times per year.
 - The tournament must operate on a Round of 16 double-elimination format at a minimum — alternative scales and formats may be permitted at the sole discretion of the osu! team. hosts should contact [tournaments@ppy.sh](mailto:tournaments@ppy.sh) if they are seeking to receive tournament support for a non-traditional tournament format or size.
-- Staff members must not participate in the tournament themselves at any point, and players are unable to later assist as staff either. For our definition on "staff", please refer to the [FAQ](#what-is-considered-staff).
 - The forum thread for the tournament **MUST** contain a clearly visible link in a normal-sized font to the [tournament reports form](https://pif.ephemeral.ink/tournament-reports) as the very last content of the original post.
   - `https://pif.ephemeral.ink/tournament-reports`
   - This report form is overseen by the [Tournament Committee](/wiki/People/Tournament_Committee). We encourage all users — players and staff alike — to make use of this form where necessary. Any breaches of [expectations](#expectations), [other procedures](#other-procedures), or [eligibility](#eligibility) requirements should prompt a report.
+- The tournament only allows players of exceptional skill to participate, disallowing players lower than the following ranks in each mode to compete with a chance of winning the tournament
+  - osu!: 100,000
+  - osu!taiko: 10,000
+  - osu!catch: 5,000
+  - osu!mania: 40,000
+  - This does not apply to open rank tournaments.
 - The tournament must adhere to all [expectations](#expectations) of officially supported tournaments.
 
 ## Requesting Support
@@ -75,7 +80,7 @@ In addition, all promotional material or any services associated with a tourname
   - The use of bots is allowed on qualifier stage matches, provided that it is supervised by a staff member.
 - Asynchronous matches are not allowed under any circumstances. All participating teams must be present at the scheduled match time.
 - All multiplayer matches relevant to the tournament must be created with the `!mp make` command, so that they do not expire. The results must be recorded and made publicly available on the original tournament forum post or an outside source linked on the forum post in a clear and accessible format.
-- All rule changes should be communicated clearly to all participants. Those should keep the expectations noted [here](#tournaments).
+- All rule changes should be communicated clearly to all participants. Those should keep the expectations noted [above](#tournaments).
 
 Once the tournament has concluded, the tournament organisers will need to submit the following to the account support team:
 
@@ -92,8 +97,12 @@ Users under an active tournament ban are expected to disclose their tournament b
 With regards to staff roles, the following rules apply:
 
 - Streamers, commentators, and graphic designers may play in the tournament.
+  - Users under an active tournament ban may enlist as one of these roles, but we encourage careful consideration of such choices as said individuals have already infringed upon the rules once (or more).
 - Eliminated players may be enlisted as referees, mappool playtesters, and/or replay creators.
-- Staff with any role not listed here, may not participate in a badged tournament UNLESS the host requests an exemption for them when sending in their initial request for support. These will then be assessed on a case-by-case basis.
+- Staff with any role not listed here, may not participate in a badged tournament.
+  - Users under an active tournament ban may not be enlisted in these roles UNLESS an exemption is requested for them along with the initial request for support, though we, once more, encourage careful consideration. The account support team will then assess these on a case-by-case basis with the user's history in mind.
+
+Anyone whose conduct results in a tournament losing its official support may not fulfill the same roles in, nor be the host or admin of, another badged tournament for at least 4 months.
 
 ### Players
 
@@ -134,7 +143,7 @@ Only players who are participating in the tournament **or** would be likely subs
 
 ### Profile Badges
 
-Officially supported tournaments that satisfy the [expectations above](#expectations) are eligible to request profile badge prizes following completion. Please submit your request at most 2 weeks after tournament completion. **Badges will never be approved until after the conclusion of the tournament.**
+Officially supported tournaments that satisfy the [expectations above](#expectations) are eligible to request profile badge prizes following completion. Profile badge prizes must be requested at most two weeks after tournament completion. **Badges will never be approved until after the conclusion of the tournament.**
 
 Profile badge images must adhere to the following standards:
 
@@ -150,20 +159,13 @@ Please consult the following examples of approved badge designs:
 
 Badge images that do not meet these standards will be refused with given reasoning, and you may be asked to completely redesign your badge in some cases. This is fairly uncommon, but should be accounted for.
 
-No badges can be given for tournaments with certain rank-range restrictions. The range-ranges that cannot receive profile badge prizes are as follows:
-
-- osu!: 100k to infinity.
-- osu!taiko: 10k to infinity.
-- osu!catch: 5k to infinty.
-- osu!mania: 40k to infinity.
-
 In exceptionally rare cases, a tournament may be granted the privilege of awarding badges to its top three finalists. A tournament that has received this distinction is recognised for attaining the highest level of production quality and organisation possible — this is given exclusively at the discretion of the osu! team. If you believe your tournament meets the expectations to receive this distinction, you may request it when submitting your initial badge request.
 
 Examples of exceptional tournaments that have met these expectations:
 
-- [Corsace Open 2022](https://osu.ppy.sh/community/forums/topics/1607468)
-- [EGTS 2022](https://osu.ppy.sh/wiki/en/Tournaments/GTS/EGTS_2022)
-- [SOFT 6](https://osu.ppy.sh/wiki/en/Tournaments/SOFT/6)
+- [Corsace Open](https://osu.ppy.sh/community/forums/topics/1607468)
+- [Expert Global Taiko Showdown](https://osu.ppy.sh/wiki/en/Tournaments/GTS/EGTS_2022)
+- [Springtime osu!mania Free-for-all Tournament](https://osu.ppy.sh/wiki/en/Tournaments/SOFT/6)
 
 ### Requesting main-menu banner support
 
