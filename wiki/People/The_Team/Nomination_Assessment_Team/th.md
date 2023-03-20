@@ -73,7 +73,6 @@ NAT มีการเฝ้ามองผู้สมัคร NAT ที่�
 | :-- | :-- | :-- |
 | ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | เยอรมัน | Evaluator |
 | ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | อูรดู, อาหรับ บ้าง | Evaluator |
-| ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733) | กวางตุ้ง, จีน | Evaluator |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | อาหรับ, ฝรั่งเศส, อิตาลี บ้าง | Evaluator |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | Evaluator |
 

@@ -134,6 +134,7 @@ Abbreviations for user groups are used throughout this log:
 - 2023-03-12: Added [megumic](https://osu.ppy.sh/users/7537133) to **Project Loved Team**
 - 2023-03-12: Added [Kingling](https://osu.ppy.sh/users/7010761) to **Project Loved Team**
 - 2023-03-12: Added [Aistre](https://osu.ppy.sh/users/4879380) to **Project Loved Team**
+- 2023-03-16: Moved [Faputa](https://osu.ppy.sh/users/845733) from **NAT** to **osu! Alumni**
 
 ### Beatmap Nominators
 
@@ -145,12 +146,16 @@ Abbreviations for user groups are used throughout this log:
 - 2023-03-09: Added [-Flashlight-](https://osu.ppy.sh/users/9731062) to **Probationary BN**
 - 2023-03-11: Added [mnyui](https://osu.ppy.sh/users/14261540) to **BN**
 - 2023-03-12: Added [Hydria](https://osu.ppy.sh/users/808176) to **Probationary BN**
+- 2023-03-14: Added [Tailsdk](https://osu.ppy.sh/users/6751666) to **Probationary BN**
+- 2023-03-14: Added [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) to **BN**
+- 2023-03-16: Added [Faputa](https://osu.ppy.sh/users/845733) to **BN**
 
 #### Moves
 
 - 2023-03-08: Moved [Zer0-](https://osu.ppy.sh/users/4260033) from **BN** to **Probationary BN**
 - 2023-03-10: Moved [Creamy Candy](https://osu.ppy.sh/users/9769199) from **Probationary BN** to **BN**
 - 2023-03-11: Moved [Sotarks](https://osu.ppy.sh/users/4452992) from **BN** to **Probationary BN**
+- 2023-03-14: Moved [AWMRone](https://osu.ppy.sh/users/10351684) from **Probationary BN** to **BN**
 
 #### Removals
 
@@ -162,8 +167,9 @@ Abbreviations for user groups are used throughout this log:
 - 2023-03-08: Removed [GIGACHAD](https://osu.ppy.sh/users/11081858) from **BN**
 - 2023-03-09: Removed [Morrighan](https://osu.ppy.sh/users/12042090) from **BN**
 - 2023-03-10: Removed [riffy](https://osu.ppy.sh/users/597957) from **Probationary BN**
+- 2023-03-17: Removed [davidminh0111](https://osu.ppy.sh/users/9623142) from **BN**
 
-<!-- last updated with megumic, Kingling, Aistre added to Project Loved 14-03-2023 at 00:34AM UTC>
+<!-- last updated with davidminh0111 removed from BN 17/03/2023 23:52 UTC>
 
 <!--
 To update this article:
