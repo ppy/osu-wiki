@@ -2,7 +2,7 @@
 stub: true
 ---
 
-# osu!mania patterns
+# osu! patterns
 
 Index page for [osu!](/wiki/Game_mode/osu!)-specific [pattern](..) types.
 
