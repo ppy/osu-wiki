@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: b0dbd398396a49d6f8e793dfa279b0c0e65937f1
+---
+
 # Performans puanları
 
 **Performans puanları** (ya da kısaca **pp**) bir oyuncunun osu!'daki kaydettiği ilerlemeyle nispeten doğru orantılı olmayı amaçlayan bir sıralama ölçütüdür.

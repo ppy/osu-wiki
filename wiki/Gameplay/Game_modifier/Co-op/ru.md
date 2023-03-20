@@ -53,7 +53,7 @@ tags:
 
 *Примечание: на картах для osu!mania Co-op не понижает множитель очков.*
 
-Подробнее о том, как работает второе игровое поле, см. [osu!mania § Co-op](/wiki/Game_mode/osu!mania#co-op).
+Подробнее о том, как работает второе игровое поле, см. [Game mode/osu!mania § Co-op](/wiki/Game_mode/osu!mania#co-op).
 
 ### Факты
 

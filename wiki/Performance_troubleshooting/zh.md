@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 3e4e31b7b5983646161932fea4a20b98232ea8e8
+---
+
 # osu! 性能问题检查
 
 osu! 会尽最大努力以合理的默认设置运行，并在你做某些会导致游戏性能下降的事情时主动提醒您。

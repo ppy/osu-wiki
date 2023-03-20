@@ -4,9 +4,9 @@ Les [beatmaps](/wiki/Beatmap) peuvent être publiées sur le site web d'osu! via
 
 ![](img/bss_warning.png "Écran du Beatmap Submission System")
 
-En sélectionnant `Upload Beatmap...` dans le menu déroulant `File` de l'éditeur (raccourci : `Ctrl` + `Shift` + `U`), vous ouvrirez la fenêtre du **Beatmap Submission System** (***BSS***). Il s'agit initialement d'une liste de ressources pour aider les utilisateurs à poser des questions sur le mapping, à trouver des commentaires sur leurs beatmaps et à s'assurer que leurs beatmaps sont adaptées au classement. Si vous rencontrez des problèmes lors de l'utilisation du BSS, consultez le guide [BSS Issues](/wiki/Guides/BSS_Issues).
+En sélectionnant `Upload Beatmap...` dans le menu déroulant `File` de l'éditeur (raccourci : `Ctrl` + `Shift` + `U`), vous ouvrirez la fenêtre du **Beatmap Submission System** (***BSS***). Il s'agit initialement d'une liste de ressources pour aider les utilisateurs à poser des questions sur le mapping, à trouver des [commentaires](/wiki/Modding) sur leurs beatmaps et à s'assurer que leurs beatmaps sont adaptées au classement. Si vous rencontrez des problèmes lors de l'utilisation du BSS, consultez le guide [BSS Issues](/wiki/Guides/BSS_Issues).
 
-Si la beatmap qu'un utilisateur télécharge n'est pas déjà sur le site d'osu!, la fenêtre BSS indique combien de nouveaux téléchargements un utilisateur peut publier. Si la beatmap est nominée, la fenêtre prévient que la nomination sera réinitialisée par la mise à jour de la beatmap. Si la beatmap est dans le cimetière, la fenêtre prévient que la beatmap sera élevée à la catégorie en attente.
+Si la beatmap qu'un utilisateur télécharge n'est pas déjà sur le site d'osu!, la fenêtre BSS indique combien de nouveaux téléchargements un utilisateur peut publier. Si la beatmap est nominée, la fenêtre prévient que la nomination sera réinitialisée par la mise à jour de la beatmap. Si la beatmap est dans le [cimetière](/wiki/Beatmap/Category#cimetière), la fenêtre prévient que la beatmap sera élevée à la catégorie en attente.
 
 ## Options de soumission
 
@@ -22,6 +22,6 @@ Deux cases à cocher apparaissent près du bas de la fenêtre. La première dit 
 
 Les beatmaps ne seront pas soumises si elles dépassent la taille du fichier en ligne ou la limite de difficulté. La taille limite des fichiers est de 5 Mo, plus 10 Mo supplémentaires pour chaque minute, et elle est plafonnée à 100 Mo. La limite de difficulté est actuellement de 128.
 
-Les utilisateurs ont droit à un nombre limité de beatmaps en attente. Cette limite varie en fonction du nombre de beatmaps classées que possède l'utilisateur et du fait qu'il soit ou non un [osu!supporter](/wiki/osu!supporter). Les utilisateurs sans osu!supporter peuvent avoir 4 beatmaps en attente plus 1 par beatmap classé (jusqu'à 2). Avec osu!supporter, cela passe à 8 beatmaps en attente plus 1 par beatmap classé (jusqu'à 12) pour un total de 20.
+Les utilisateurs ont droit à un nombre limité de beatmaps en attente. Cette limite varie en fonction du nombre de beatmaps classées que possède l'utilisateur et du fait qu'il soit ou non un [osu!supporter](/wiki/osu!supporter). Les utilisateurs sans osu!supporter peuvent avoir 4 beatmaps en attente plus 1 par beatmap classé (jusqu'à 4). Avec osu!supporter, cela passe à 8 beatmaps en attente plus 1 par beatmap classé (jusqu'à 12) pour un total de 20.
 
-La vitesse de téléchargement varie en fonction des fichiers modifiés. Si seuls les fichiers `.osu` sont modifiés, ce sont les seuls fichiers du dossier de la beatmap qui seront traités et téléchargés. Si d'autres ressources sont modifiées, tous les fichiers du dossier de la beatmap seront traités et téléchargés.
+La vitesse de téléchargement varie en fonction des fichiers modifiés. Si seuls les fichiers [`.osu`](/wiki/Client/File_formats/Osu_(file_format)) sont modifiés, ce sont les seuls fichiers du dossier de la beatmap qui seront traités et téléchargés. Si d'autres ressources sont modifiées, tous les fichiers du dossier de la beatmap seront traités et téléchargés.

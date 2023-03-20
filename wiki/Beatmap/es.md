@@ -98,13 +98,13 @@ Las 500 mejores puntuaciones en cada dificultad de un beatmap proporcionan [repe
 
 Desde sus primeros días, la comunidad ha tenido varias formas de mostrar mapas únicos y excelentes. Uno de los primeros enfoques documentados fueron los charts mensuales y estacionales que consistían en un pequeño subconjunto de beatmaps clasificados, donde los mejores jugadores de las tablas de clasificación que mostraban la puntuación total en estos mapas serían premiados con [osu!supporter](/wiki/osu!supporter).
 
-Más tarde, el sistema de charts se convirtió en el proyecto [Beatmaps destacados](/wiki/Beatmap_Spotlights), que ahora funciona en condiciones similares, pero en su lugar tiene lugar en las listas de juego de osu!(lazer).
+Más tarde, el sistema de charts se convirtió en el proyecto [Beatmaps destacados](/wiki/Beatmap_Spotlights), que ahora funciona en condiciones similares, pero en su lugar tiene lugar en las listas de juego de [osu!(lazer)](/wiki/Client/Release_stream/Lazer).
 
 ### Concursos de beatmaps
 
 *Pagina principal: [Concursos](/wiki/Contests)*
 
-La comunidad de osu! organiza regularmente diferentes concursos para promover la creatividad y premiar a los mapeadores que hacen lo mejor que pueden. Los concursos van desde pequeños concursos, que se realizan dentro de las comunidades locales, hasta grandes que se llevan a cabo a escala mundial y tienen premios impresionantes. Los ganadores suelen recibir premios en forma de [etiquetas osu!supporter](/wiki/osu!supporter) y una insignia de perfil temática.
+La comunidad de osu! organiza regularmente diferentes concursos para promover la creatividad y premiar a los mapeadores que hacen lo mejor que pueden. Los concursos van desde pequeños concursos, que se realizan dentro de las comunidades locales, hasta grandes que se llevan a cabo a escala mundial y tienen premios impresionantes. Los ganadores suelen recibir premios en forma de [etiquetas osu!supporter](/wiki/osu!supporter) y una [insignia de perfil](/wiki/Community/Profile_badge) temática.
 
 ### Artistas destacados
 

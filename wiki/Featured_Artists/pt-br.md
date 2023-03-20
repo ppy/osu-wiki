@@ -27,13 +27,14 @@ Novos lançamentos Artistas em Destaque por ano:
 - **2019:** 31
 - **2020:** 65
 - **2021:** 101
-- **2022:** *a ser determinado*
+- **2022:** 104
+- **2023:** *a ser determinado*
 
 Novos Artistas em Destaque são anunciados semanalmente no [feed de notícias](https://osu.ppy.sh/home/news) do osu!. A maioria dos anúncios incluem uma lista de músicas licenciadas de artistas e um link para a sua página de Artista em Destaque, através de alguns anúncios são pareados com concursos de mapeamento ou beatmaps criados pela [Mappers' Guild](/wiki/Community/Mappers_Guild).
 
 ## Usos da comunidade
 
-Mapeadores são encorajados a criar mapas com faixas de Artistas em Destaque. Essas faixas possuem dados de [timing](/wiki/Client/Beatmap_editor/Timing) e já são disponibilizados para usar no osu!, permitindo usuários para começar o mapeamento sem preocupações. O trabalho em progresso do desenvolvimento do osu! vulgo [osu!(lazer)](https://github.com/ppy/osu/releases)<!-- TODO: wiki link needs own page -->, irá marcar esses mapas proeminentemente em jogo.
+Mapeadores são encorajados a criar mapas com faixas de Artistas em Destaque. Essas faixas possuem dados de [timing](/wiki/Client/Beatmap_editor/Timing) e já são disponibilizados para usar no osu!, permitindo usuários para começar o mapeamento sem preocupações. O trabalho em progresso do desenvolvimento do osu! vulgo [osu!(lazer)](/wiki/Client/Release_stream/Lazer), irá marcar esses mapas proeminentemente em jogo.
 
 Todos os concursos de mapeamento publicados na [listagem de concursos da comunidade](https://osu.ppy.sh/community/contests), assim como os [Concursos de Mapeamento Mensais](/wiki/Contests/Monthly_Beatmapping_Contest) e a [Olimpíada de Mapeamento](/wiki/Contests/Mapping_Olympiad), precisam que participantes façam beatmaps de músicas de Artistas em Destaque. Alguns concursos feitos pela comunidade utilizam essas músicas também.
 

@@ -22,11 +22,9 @@ gmt:
     wiki: Wiki-Administration
     mapping: Moderation der Mapping-/Modding-Community
 nat:
-  areas:
-    communication: Kommunikation
-    evaluation: Beurteilung
-    moderation: Moderation
-    structural: Strukturell
+  subgroups:
+    advisor: Berater
+    evaluator: Gutachter
 languages:
   partial: etwas <language>
   fil: Philippinisch

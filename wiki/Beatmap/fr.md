@@ -97,16 +97,16 @@ Les 500 meilleures scores sur chaque difficulté d'une beatmap fourni des [repla
 
 Depuis ses débuts, la communauté a eu de nombreuses occasions de mettre en avant leurs meilleures beatmaps. Une des premières approche a été la création de tops mensuels et saisonniers appelés charts constitués d'un groupe restreint de beatmaps classées, où les meilleurs joueurs du classement par points totaux réalisés sur ces beatmaps reçoivent l'[osu!supporter](/wiki/osu!supporter).
 
-Le système de charts à ensuite évolué pour devenir le projet [Beatmap Spotlights](/wiki/Beatmap_Spotlights), qui fonctionne de façon similaire, avec des playlists qui peuvent être jouées sur le client osu!(lazer).
+Le système de charts à ensuite évolué pour devenir le projet [Beatmap Spotlights](/wiki/Beatmap_Spotlights), qui fonctionne de façon similaire, avec des playlists qui peuvent être jouées sur le client [osu!(lazer)](/wiki/Client/Release_stream/Lazer).
 
 ### Concours de beatmaps
 
 *Page principal: [Concours](/wiki/Contests)*
 
-La communauté d'osu! organise régulièrement différents concours pour promouvoir la créativité des mappers motivés. Les concours vont des petites compétitions qui sont réalisés au sein de communautés locales à celles qui ont lieu à une échelle mondiale et qui prévoient des prix plus conséquent. Les gagnants reçoivent souvent des récompenses sous la forme de [tags d'osu!supporter](/wiki/osu!supporter) et d'un badge de profil personnalisé.
+La communauté d'osu! organise régulièrement différents concours pour promouvoir la créativité des mappers motivés. Les concours vont des petites compétitions qui sont réalisés au sein de communautés locales à celles qui ont lieu à une échelle mondiale et qui prévoient des prix plus conséquent. Les gagnants reçoivent souvent des récompenses sous la forme de [tags d'osu!supporter](/wiki/osu!supporter) et d'un [badge de profil](/wiki/Community/Profile_badge) personnalisé.
 
-### Artistes Associés
+### Featured Artists
 
-*Page principale: [Artistes Associés](/wiki/Featured_Artists)*
+*Page principale: [Featured Artists](/wiki/Featured_Artists)*
 
-Les Artistes Associés (Featured Artists) est un programme de l'[équipe du jeu](/wiki/People/The_Team) visant à licencier la musique de différents artistes pour osu!, les rendant ainsi disponible au mapping. La [liste des Artistes Associés](https://osu.ppy.sh/beatmaps/artists) du site internet présente chaque artiste impliqué et fournit des modèles pré-paramétrés pour le mapping.
+Les Featured Artists sont un programme de l'[équipe du jeu](/wiki/People/The_Team) visant à licencier la musique de différents artistes pour osu!, les rendant ainsi disponible au mapping. La [liste des Featured Artists](https://osu.ppy.sh/beatmaps/artists) du site internet présente chaque artiste impliqué et fournit des modèles pré-paramétrés pour le mapping.

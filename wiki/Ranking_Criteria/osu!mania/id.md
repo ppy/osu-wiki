@@ -60,6 +60,7 @@ Aturan dan pedoman secara keseluruhan berlaku untuk setiap jenis tingkat kesulit
 - **Tidak boleh ada lebih dari 6 note yang ditekan pada saat yang bersamaan di tingkat kesulitan Insane atau dibawahnya.** Menggunakan lebih dari 6 note juga wajib mengikuti spread yang wajar ke tingkat kesulitan berikutnya yang lebih rendah. Aturan ini tidak berlaku untuk bagian akhir dari long note, karena long note dilepas, tidak ditekan.
 - **Beatmap hanya dapat menggunakan 4 sampai 10 key.** Selain itu tidak didukung untuk Ranked Section.
 - **Jika terdapat beberapa key mode dalam satu set beatmap, indikator key mode wajib dicantumkan pada setiap tingkat kesulitan. Jika tidak, key mode tidak perlu dicantumkan.**
+- **Beatmap yang dibuat untuk mode permainan khusus N+1 wajib mengaktifkan pengaturan khusus mode N+1 pada tab `Advanced` di menu Song Setup dan menyertakan keterangan "N+1" pada tag. Untuk beatmap yang memiliki lebih dari satu jumlah key di dalamnya, seluruh tingkat kesulitan yang dibuat untuk mode ini wajib menyertakan notasi "N+1" (semisal "7K+1" alih-alih "8K") pada nama tingkat kesulitannya.**
 - **Jika [drain time](/wiki/Beatmap/Drain_time) dari setiap kesulitan...**
   - **...lebih rendah dari durasi 2:30**, kesulitan paling rendah dari setiap *keymode* tidak boleh lebih susah dari Normal, ATAU setiap *keymode* wajib memasukkan *spread* setidaknya 3 tingkat kesulitan di bawah kesulitan paling tinggi.
   - **...di antara durasi 2:30 dan 3:15**, kesulitan paling rendah dari setiap *keymode* tidak boleh lebih susah dari Hard, ATAU setiap *keymode* wajib memasukkan *spread* setidaknya 2 tingkat kesulitan di bawah kesulitan paling tinggi.
@@ -153,6 +154,7 @@ Tambahan pedoman untuk tingkat kesulitan *7 key Normal*:
 - **Stream panjang 1/4 setidaknya memiliki jeda 1/2 setelah frase musik.** Ini bisa menyebabkan kesulitan untuk pemain pada level ini.
 - **Penempatan chord 1/4 setidaknya memiliki jeda 1/1 ketukan antara satu sama lain.** Penggunaan chord yang terlalu rapat akan menyebabkan kesulitan untuk pemain pada level ini.
 - **Hindari penggunaan chord di tengah 1/6 stream.** Namun, Anda masih bisa menggunakannya di awal atau akhir stream.
+- **Hindari penggunaan anchor lima note atau lebih.** Meskipun mudah dibaca oleh pemain, anchor yang lebih panjang akan menjadi lebih berat.
 - **Tidak disarankan menggunakan 1/4 jack.** Ini bisa menyebabkan kesulitan untuk pemain pada level ini.. Minijack dengan jeda yang cukup masih dapat diterima.
 - **Hindari penggunaan trill lebih dari 9 note secara berurutan.** Koordinasi dan keseimbangan tangan yang diperlukan untuk pola ini akan menyebabkan kesulitan untuk pemain pada level ini.
 - **Penggunaan long note harus ditahan setidaknya 1/4 ketukan.**
@@ -163,12 +165,10 @@ Tambahan pedoman untuk tingkat kesulitan *7 key Normal*:
 Tambahan pedoman untuk tingkat kesulitan *4 key Hard*:
 
 - **Hindari chord lebih dari tiga note.** Termasuk long note yang melibatkan lebih dari tiga kolom.
-- **Hindari penggunaan anchor lima note atau lebih.** Meskipun mudah dibaca oleh pemain, anchor yang lebih panjang akan menjadi lebih berat.
 
 Tambahan pedoman untuk tingkat kesulitan *7 key Hard*:
 
 - **Hindari penggunaan chord lebih dari empat note.** Termasuk pattern long note yang melibatkan lebih dari 4 kolom.
-- **Hindari penggunaan anchor lebih dari lima note atau lebih.** Meskipun mudah dibaca oleh pemain, anchor yang lebih panjang akan menjadi lebih berat.
 - **Jaga jarak chord chordstream pada interval 1/1 atau lebih.** Lebih rapat dari itu akan sukar untuk dibaca.
 - **Sesekali tangan dapat digunakan dalam stream, asalkan dipisahkan setidaknya satu takaran (4 ketukan)**
 

@@ -7,7 +7,7 @@ tags:
 
 ![Banner osu! Talk Event](img/banner.png)
 
-**osu! Talk Event** merupakan acara *talk show* hasil gagasan osu! University yang mengundang berbagai narasumber untuk membahas seputar berbagai macam topik yang terpusat pada tema tertentu dalam setiap iterasinya.
+**osu! Talk Event** merupakan acara *talk show* hasil gagasan [osu! University](/wiki/Community/Discord_servers/osu!_University) yang mengundang berbagai narasumber untuk membahas seputar berbagai macam topik yang terpusat pada tema tertentu dalam setiap iterasinya.
 
 Para pembicara membicarakan topiknya masing-masing pada *channel* Stage yang terdapat di [server Discord osu!dev](/wiki/Community/osu!dev_Discord_server). Selama acara berlangsung, berbagai utas terkait di *channel* `#community-meetings` akan dibuka sebagai tempat berdiskusi.
 

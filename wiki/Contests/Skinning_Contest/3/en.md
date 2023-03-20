@@ -17,8 +17,8 @@ The **Skinning Contest #3: Chromatic Alteration** is a free-for-all osu! skinnin
 | --: | :-- |
 | Announcement | 2022-07-18 |
 | Submission phase | 2022-07-18/2022-08-22 |
-| Voting phase | 2 week long, date TBD |
-| Results | TBD |
+| Voting phase | 2022-09-08/2022-09-22 |
+| Results | 2022-10-20 |
 
 ## Prizes
 
@@ -49,6 +49,7 @@ The Skinning Contest #3 is run by various community members.
 - **[Contest Page](https://osu.ppy.sh/community/contests/148)**
 - [Announcement newspost](https://osu.ppy.sh/home/news/2022-07-18-skinning-contest-chromatic-alteration-announcement)
 - [Voting newspost](https://osu.ppy.sh/home/news/2022-09-08-skinning-contest-chromatic-alteration-voting-open)
+- [Results Out newspost](https://osu.ppy.sh/home/news/2022-10-20-skinning-contest-chromatic-alteration-results)
 - [Discussion Thread](https://osu.ppy.sh/community/forums/topics/1612258)
 - [Submission Thread](https://osu.ppy.sh/community/forums/topics/1612259)
 - [Discord server](https://discord.skinship.xyz)
@@ -81,6 +82,12 @@ The Skinning Contest #3 is run by various community members.
 | ::{ flag=CA }:: [WD_ALT](https://osu.ppy.sh/users/21559352) | [Iced Tea](https://osu.ppy.sh/community/forums/topics/1633310) |
 | ::{ flag=US }:: [Syvatzia](https://osu.ppy.sh/users/19082107) | [Desert Tempest](https://osu.ppy.sh/community/forums/topics/1633645) |
 | ::{ flag=US }:: [Chromasia](https://osu.ppy.sh/users/7306251) | [Auburn and Azure](https://osu.ppy.sh/community/forums/topics/1633624) |
+
+## Podium
+
+*For the full results, see the [contest page](https://osu.ppy.sh/community/contests/148).*
+
+![](img/podium.png "Skinning Contest #3 podium")
 
 ## Ruleset
 

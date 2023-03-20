@@ -1,7 +1,8 @@
 ---
 layout: main_page
-outdated_since: e5c6703afd341354b50be467f885400c871cd0de
+no_native_review: true
 outdated_translation: true
+outdated_since: 1da34ad18aa8565e779e579594fa8c606ee00808
 ---
 
 <div class="wiki-main-page__blurb">
@@ -70,7 +71,7 @@ Ranking ist der Prozess eine Beatmap auf einer Rangliste darzustellen und die Be
 
 # Regeln und Jura
 
-Lese über die Prozeduren und Kontrollen, die osu! und seine Community schützen; von Musiklizenzierung und Medienrichtlinien bis hin zu Chat- und Forumregeln.
+Lies über die Prozeduren und Kontrollen, die osu! und seine Community schützen; von Musiklizenzierung und Medienrichtlinien bis hin zu Chat- und Forumregeln.
 
 [Regeln](/wiki/Rules) • [Verhaltenskodex für Mitwirkende](/wiki/Contributor_Code_of_Conduct) • [Verhaltenskodex für das Modding und Mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)
 
@@ -98,9 +99,11 @@ Was du tun kannst: [Wie und mit was helfen](/wiki/Community/How_you_can_help!) �
 
 Eine aktive Community ist eines der Dinge, die osu! voranbringen. Entdecke die Aktivitäten und Veranstaltungen, freunde dich mit anderen an oder helfe, das nächste Event zu organisieren!
 
+Orte: [Forum](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_Chat)
+
 [Turniere](/wiki/Tournaments) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Wettbewerbe](/wiki/Contests) • [Mentorenprogramm](/wiki/Community/Community_Mentorship_Program)
 
-[Projekte](/wiki/Community/Projects): [Featured Artists](/wiki/Featured_Artists) • [osu! Community Meetings](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk)
+[Projekte](/wiki/Community/Projects) • [Featured Artists](/wiki/Featured_Artists) • [Project Loved](/wiki/Community/Project_Loved) • [osu! Community Meetings](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk)
 
 Organisationen: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
@@ -113,7 +116,7 @@ osu! würde nicht ohne die Hilfe von vielen Menschen existieren, die in der Entw
 
 [Das Team](/wiki/People/The_Team): [Entwickler](/wiki/People/The_Team/Developers) • [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) • [Support Team](/wiki/People/The_Team/Support_Team) • [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team)
 
-[Community-Mitwirkende](/wiki/People/Community_Contributors) • [Benutzer mit einzigartigen Titeln](/wiki/People/Users_with_unique_titles) • [Turnierkomitee](/wiki/People/Tournament_Committee) • [Performance-Punkte-Komitee](/wiki/People/Performance_Points_Committee)
+[Community-Mitwirkende](/wiki/People/Community_Contributors) • [Benutzer mit einzigartigen Titeln](/wiki/People/Users_with_unique_titles) • [Turnierkomitee](/wiki/People/Tournament_Committee) • [Performance-Punkte-Komitee](/wiki/People/Performance_Points_Committee) • [Betreuer des osu!-Wikis](/wiki/people/osu!_wiki_maintainers)
 
 </div>
 <div class="wiki-main-page-panel">

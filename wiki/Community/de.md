@@ -4,6 +4,7 @@ Diese Seite listet Möglichkeiten für Menschen aus der gesamten osu!-Community 
 
 ## Orte
 
+- [Community-Discord-Server](/wiki/Community/Discord_servers)
 - [Forum](/wiki/Community/Forum)
 - [Internet Relay Chat](/wiki/Community/Internet_Relay_Chat) (IRC)
 - [osu!dev Discord-Server](/wiki/Community/osu!dev_Discord_server)
@@ -16,6 +17,7 @@ Diese Seite listet Möglichkeiten für Menschen aus der gesamten osu!-Community 
 - [Community-Mentorenprogramm](/wiki/Community/Community_Mentorship_Program)
 - [Mappers' Guild](/wiki/Community/Mappers_Guild)
 - [osu!-Wiki](/wiki/osu!_wiki)
+- [osu!monthly](/wiki/Community/osu!monthly)
 - [Project Loved](/wiki/Community/Project_Loved)
 
 ## Initiativen

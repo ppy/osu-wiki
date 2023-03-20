@@ -18,7 +18,7 @@ Les utilisateurs qui sont réduits au silence par les modérateurs ne peuvent pa
 - Envoyer et mettre à jour les beatmaps
 - Participer à des jeux [multijoueurs](/wiki/Client/Interface/Multiplayer)
 
-En outre, tous les messages d'un utilisateur réduit au silence sont supprimés de tous les canaux de discussion et des conversations privées [[1]](https://blog.ppy.sh/post/38114063519/this-week-in-osu-5).
+En outre, tous les messages d'un utilisateur réduit au silence sont supprimés de tous les canaux de discussion et des conversations privées.[^chat-cleanup]
 
 ::: Infobox
 ![](img/silence-ingame.png "Avertissement de silence dans le tchat")
@@ -38,3 +38,7 @@ Si vous pensez avoir été injustement réduit au silence, contactez [l'équipe 
 - Télécharger ou publier du contenu inapproprié par d'autres moyens. (Par exemple, avatars de profil, envois des beatmap, détails de profil, bio de page d'utilisateur, bannière, etc.)
 
 La durée d'un silence peut varier en fonction de la gravité de l'infraction. Les silences peuvent s'empiler les uns sur les autres, ajoutant plus de temps pour chacun d'eux. Veuillez noter que si une infraction est suffisamment grave, ou si un joueur est un récidiviste, elle peut entraîner une [restriction du compte](/wiki/Help_centre/Account_restrictions) au lieu d'un silence.
+
+## Références
+
+[^chat-cleanup]: [Post de blog par ppy (17/12/2012) "This Week in osu!"](https://blog.ppy.sh/post/38114063519/this-week-in-osu-5)

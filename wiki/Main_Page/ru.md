@@ -1,7 +1,5 @@
 ---
 layout: main_page
-outdated_translation: true
-outdated_since: 7ef47d8797f027d541e55beec0cb43e184a44fed
 ---
 
 <div class="wiki-main-page__blurb">
@@ -13,7 +11,7 @@ outdated_since: 7ef47d8797f027d541e55beec0cb43e184a44fed
 
 # Знакомство с игрой
 
-Важные статьи и руководства, которые помогут погрузиться в osu!. В случае проблем или недопонимания загляните на [форум техподдержки](https://osu.ppy.sh/forum/5), или в тему «[Вопросы и проблемы](https://osu.ppy.sh/community/forums/topics/9668)».
+Важные статьи и руководства, которые помогут погрузиться в osu!. В случае проблем или недопонимания загляните на [форум техподдержки](https://osu.ppy.sh/forum/5) или в тему «[Вопросы и проблемы](https://osu.ppy.sh/community/forums/topics/9668)».
 
 [Правила](/wiki/Rules) • [Установка](/wiki/Client/Installation) • [Регистрация](/wiki/Registration) • [Справочный центр](/wiki/Help_centre)
 
@@ -87,7 +85,7 @@ osu! — это ваш проводник в мир ритма, музыки и 
 
 [Справочный центр](/wiki/Help_centre) • [Проблемы с производительностью](/wiki/Performance_troubleshooting) • [Служба поддержки](/wiki/People/The_Team/Account_support_team) • Тема «[Вопросы и проблемы](https://osu.ppy.sh/community/forums/topics/9668)» • [Форум техподдержки](https://osu.ppy.sh/forum/5)
 
-Ограничения: [Сайленс](/wiki/Silence) • [Рестрикт аккаунта](/wiki/Help_centre/Account_restrictions)
+Ограничения: [Сайленс](/wiki/Silence) • [Ограничение аккаунта](/wiki/Help_centre/Account_restrictions)
 
 Поддержание порядка: [Как и где помочь osu!](/wiki/Community/How_you_can_help!) • [Жалобы на чужое поведение](/wiki/Reporting_bad_behaviour) • [Жалобы на домогательства](/wiki/Reporting_bad_behaviour/Abuse) • [Жалобы на читеров](/wiki/Reporting_bad_behaviour/Handling_foul_play)
 
@@ -98,11 +96,13 @@ osu! — это ваш проводник в мир ритма, музыки и 
 
 Социальное взаимодействие — одна из самых сильных сторон osu!, вдохновляющая игроков по всему миру. Изучите программы и конкурсы, наладьте контакт с другими людьми или помогите организовать новое масштабное событие!
 
+Места для общения: [Форум](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_Chat)
+
 [Турниры](/wiki/Tournaments) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Конкурсы](/wiki/Contests) • [Программа менторства](/wiki/Community/Community_Mentorship_Program)
 
-[Проекты](/wiki/Community/Projects): [Featured Artists](/wiki/Featured_Artists) • [Собрания сообщества osu!](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk)
+[Проекты](/wiki/Community/Projects) • [Featured Artists](/wiki/Featured_Artists) • [Собрания сообщества osu!](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk)
 
-Организаторы: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
+Организации: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -113,7 +113,7 @@ osu! бы не было без многих пользователей, учас
 
 [Команда osu!](/wiki/People/The_Team): [Разработчики](/wiki/People/The_Team/Developers) • [Команда глобальной модерации](/wiki/People/The_Team/Global_Moderation_Team) • [Команда поддержки](/wiki/People/The_Team/Support_Team) • [Команда оценки номинаций](/wiki/People/The_Team/Nomination_Assessment_Team) • [Номинаторы карт](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Команда проекта Loved](/wiki/People/The_Team/Project_Loved_Team)
 
-[Выдающиеся участники сообщества](/wiki/People/Community_Contributors) • [Пользователи с уникальными титулами](/wiki/People/Users_with_unique_titles) • [Комитет по турнирам](/wiki/People/Tournament_Committee) • [Комитет PP](/wiki/People/Performance_Points_Committee)
+[Выдающиеся участники сообщества](/wiki/People/Community_Contributors) • [Пользователи с уникальными титулами](/wiki/People/Users_with_unique_titles) • [Комитет по турнирам](/wiki/People/Tournament_Committee) • [Комитет PP](/wiki/People/Performance_Points_Committee) • [Администраторы osu! wiki](/wiki/People/osu!_wiki_maintainers)
 
 </div>
 <div class="wiki-main-page-panel">

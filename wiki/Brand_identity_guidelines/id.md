@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 6ad4fe3d4e5b620cfeb663af478a908a6220f9ba
+---
+
 # Pedoman identitas merek
 
 Pedoman identitas merek (*brand identity guidelines*) merupakan serangkaian standar yang mengatur ketentuan penggunaan logo dan cookie osu! pada berbagai proyek yang terkait dengan osu!. Seluruh aset yang tertera di bawah ini dapat digunakan tanpa membutuhkan persetujuan dari pihak osu! terlebih dahulu.

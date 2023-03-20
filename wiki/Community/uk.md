@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 5f10ef5c2d3a1926ac10d4b6e48fa574eb4ca2ae
+---
+
 # Спільнота
 
 Ця сторінка описує як гравцям можна зв'язатися один з одним.
@@ -8,6 +13,7 @@
 - [Форум](/wiki/Community/Forum)
 - [Internet Relay Chat](/wiki/Community/Internet_Relay_Chat) (IRC)
 - [Діскорд сервер osu!dev](/wiki/Community/osu!dev_Discord_server)
+- [Discord-сервери спiльноти](/wiki/Community/Discord_servers)
 - [Офлайн організації](/wiki/Community/Organisations)
 
 ## Проекти

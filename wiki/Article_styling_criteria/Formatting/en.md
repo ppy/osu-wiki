@@ -73,7 +73,7 @@ When adding this tag to an article, [comments](#comments) should also be added t
 
 ### Outdated translations
 
-Translated articles that are outdated must use the `outdated_translation` tag when the English variant is updated, except for minor wording, grammar changes, and the like, that do not affect the meaning of the article.
+Translated articles that are outdated must use the `outdated_translation` tag when the English variant is updated, except for minor rewording, grammatical adjustments, and the like, that do not affect the meaning of the article.
 
 ```yaml
 outdated_translation: true
@@ -601,7 +601,7 @@ The URL from the address bar of your web browser should be copied as it is when 
 
 All usernames must be linked on first occurrence. Other occurrences are optional, but must be consistent throughout the entire article for all usernames. If it is difficult to determine the user's id, it may be skipped over.
 
-When linking to a user profile, the user's id number must be used. Use the new website (`https://osu.ppy.sh/users/{username})`) to get the user's id.
+When linking to a user profile, the user's id number must be used. Use the new website (`https://osu.ppy.sh/users/{username}`) to get the user's id.
 
 The link text of the user link should be the user's current name.
 
@@ -803,7 +803,7 @@ The following is an example of what a table should look like:
 
 An infobox is a fixed-width block which is aligned to the right side of the article. It may contain a relevant image, which explains the surrounding text, or a block of navigation that links to other articles from the same category.
 
-Example use, rendered on the right:
+Example use, rendered on the right (or above, on narrow displays):
 
 <!-- The real infobox is added for illustrative purposes, with Markdown syntax duplicated below for clarity. -->
 
@@ -821,6 +821,8 @@ Infoboxes should be used with caution in the following cases:
 
 - Short sections: the next section's heading appears below any infoboxes, leaving a large gap after the text.
 - Several images at once: instead, use individual infoboxes for better design.
+
+Only heading levels 4 and 5 are allowed inside an infobox. These do not appear in the table of contents and anything lower is too large. Any [CI check errors](/wiki/osu!_wiki/Maintenance#ci-checks) may need to be bypassed because of this.
 
 ## Footnotes
 
@@ -848,15 +850,19 @@ The osu! wiki is a project that was meant to replace the old FAQ system.[^wiki-f
 
 Citations, or references, are used to identify a source of information. Citations via footnotes should be preferred over inline links.
 
-Example:
+References should whenever applicable specify author, date, service/platform, and title. The exact format may vary depending on the referenced material with a preference for brevity.
+
+Examples:
 
 ```markdown
-The first version of the osu!api was made available on July 2, 2013.[^api-first-usage] It had received critical acclaim from users.[^api-praise]
+The first version of the osu!api was made available on July 2, 2013.[^api-first-usage] It had received critical acclaim from users.[^api-praise] A new version of API, released several years later, contains many more capabilities.[^api-v2-2020] Endpoint versioning is common among web APIs.[^web-api]
 
 ## References
 
-[^api-first-usage]: [osu!api open beta](https://osu.ppy.sh/community/forums/posts/2403913)
-[^api-praise]: [osu!api open beta](https://osu.ppy.sh/community/forums/posts/2662247)
+[^api-first-usage]: [Forum thread by peppy (2013-07-02) "osu!api open beta"](https://osu.ppy.sh/community/forums/posts/2403913)
+[^api-praise]: [Forum post by Menchi (2013-11-02) in "osu!api open beta"](https://osu.ppy.sh/community/forums/posts/2662247)
+[^api-v2-2020]: [Tweet by @ppy (2020-03-20)](https://twitter.com/ppy/status/1263083636363948032)
+[^web-api]: ["Web API" on Wikipedia](https://en.wikipedia.org/wiki/Web_API)
 ```
 
 ### Notes

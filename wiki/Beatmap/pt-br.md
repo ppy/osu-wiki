@@ -101,13 +101,13 @@ O top 500 em cada dificuldade tem [replays](/wiki/Gameplay/Replay), que podem se
 
 Desde seus primeiros dias, a comunidade teve várias formas de exibir mapas excelentes e únicos. Uma das primeiras formas documentadas foram *charts* mensais e sazonais consistindo de um pequeno conjunto de *beatmaps* ranqueados, em que jogadores do topo da tabela de classificação exibiam pontuações totais entre os mapas e seriam premiados com [osu!supporter](/wiki/osu!supporter).
 
-O sistema de *chart* mais tarde evoluiu no projeto [Beatmap Spotlights](/wiki/Beatmap_Spotlights), que agora opera em condições similares, mas ocorre nas *playlists* do osu!(lazer).
+O sistema de *chart* mais tarde evoluiu no projeto [Beatmap Spotlights](/wiki/Beatmap_Spotlights), que agora opera em condições similares, mas ocorre nas *playlists* do [osu!(lazer)](/wiki/Client/Release_stream/Lazer).
 
 ### Concursos de beatmap
 
 *Artigo principal: [Concursos](/wiki/Contests)*
 
-A comunidade do osu! regularmente realiza diferentes concursos em prol de promover criatividade e premiar *mappers* que dão seu melhor. Concursos vão de pequenas competições, que são feitas dentro das comunidades locais, até maiores que são condizidos em escala global e têm prêmios de tirar o fôlego. Ganhadores frequentemente recebem prêmios em forma de [osu!supporter tags](/wiki/osu!supporter) e uma insígnia temática no perfil.
+A comunidade do osu! regularmente realiza diferentes concursos em prol de promover criatividade e premiar *mappers* que dão seu melhor. Concursos vão de pequenas competições, que são feitas dentro das comunidades locais, até maiores que são condizidos em escala global e têm prêmios de tirar o fôlego. Ganhadores frequentemente recebem prêmios em forma de [osu!supporter tags](/wiki/osu!supporter) e uma [insígnia temática no perfil](/wiki/Community/Profile_badge).
 
 ### Artistas em destaque
 

@@ -152,7 +152,7 @@ Mapsets of songs that originated from other rhythm games often borrow that game'
 
 #### CHUNITHM
 
-- ![](/wiki/shared/diff/expertplus-o.png?20211215) WORLD'S END
+- ![](/wiki/shared/diff/expertplus-o.png?20211215) ULTIMA / WORLD'S END
 
 #### Ongeki
 
@@ -194,7 +194,7 @@ The following difficulty names are common alternatives and additions to the defa
 - ![](/wiki/shared/diff/easy-t.png?20211215) Shokyuu: in a default Kantan-Futsuu-Muzukashii-Oni-Inner Oni spread, it refers to the lowest level of difficulty that's below Kantan.
 - ![](/wiki/shared/diff/normal-o.png?20211215) Advanced: in a default Easy-Normal-Hard-Insane-Expert spread, it's a difficulty between Normal and Hard.
 - ![](/wiki/shared/diff/hard-o.png?20211215) Hyper: in a default Easy-Normal-Hard-Insane-Expert spread, a difficulty between Hard and Insane.
-- ![](/wiki/shared/diff/expert-o.png?20211215) Extra: it can used as a substitute for Expert.
+- ![](/wiki/shared/diff/expert-o.png?20211215) Extra: it can be used as a substitute for Expert.
 - ![](/wiki/shared/diff/expertplus-o.png?20211215) Extreme: it can be used to represent a more difficult Expert.
 - ![](/wiki/shared/diff/expertplus-t.png?20211215) Hell Oni: it can be used to represent a more difficult Inner Oni.
 - ![](/wiki/shared/diff/expertplus-c.png?20211215) Deluge: it can be used to represent a more difficult Overdose.

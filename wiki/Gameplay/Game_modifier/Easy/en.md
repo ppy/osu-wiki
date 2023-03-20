@@ -51,7 +51,7 @@ In [osu!taiko](/wiki/Game_mode/osu!taiko), the Easy mod decreases the [slider ve
 
 *Note: The amount of hits that are required to finish a [spinner](/wiki/Hit_object/Spinner) is reduced to the value of the OD.*
 
-Unlike the other game modes, using the Easy mod in osu!taiko reduces note score requirement to gain health in osu!taiko makes the life bar fill up much more quickly to replace the two additional "lives" as it impossible to fail in the middle of a song in taiko.
+Unlike in other game modes, using the Easy mod in osu!taiko reduces note score requirement to gain health, making the life bar fill up much more quickly instead of adding two additional "lives", as it is impossible to fail in the middle of a song in taiko.
 
 ### osu!catch
 

@@ -22,11 +22,9 @@ gmt:
     wiki: wiki 管理员
     mapping: 作图、摸图社群管理员
 nat:
-  areas:
-    communication: 沟通
-    evaluation: 评估
-    moderation: 管理
-    structural: 结构
+  subgroups:
+    advisor: 顾问
+    evaluator: 评估者
 languages:
   partial: 一部分<language>
   zh: 汉语

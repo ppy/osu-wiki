@@ -233,8 +233,8 @@ Outils et/ou services créés par la communauté d'osu!. Vous êtes libres d'ajo
   - [GitHub](https://github.com/RoanH/osu-BonusPP)
 - haitai—Conditions de déblocage pour les [médailles](/wiki/Medals) d'osu!.
   - [Site](http://haitai.jp/)
-- [osekai](https://osu.ppy.sh/community/forums/topics/1427698)—Une équipe dédiée à la création de sites web pour osu! tels que les conditions de déblocage des médailles ou les classements alternatifs.
-  - [Site](https://osekai.net/)
+- [Osekai](https://osu.ppy.sh/community/forums/topics/1427698)—Un projet open-source dédié à la création de sites web fortement liés à osu!, comme la liste [des conditions de déblocage des médailles](/wiki/Medals/Unlock_requirements) ou des classements alternatifs.
+  - [GitHub](https://github.com/Osekai/osekai) | [Site](https://osekai.net/)
 - [osu! level calculator](https://osu.ppy.sh/community/forums/topics/199230)—Calcule le score nécessaire pour atteindre un certain niveau.
   - [GitHub](https://github.com/thehowl/OsuLevelCalculator) | [Site](https://olc.howl.moe/)
 - [osu! Stats Watcher](https://osu.ppy.sh/community/forums/topics/269483)—Enregistre les statistiques d'un joueur dans un fichier, qui peut ensuite être affiché à l'aide d'Open Broadcaster Software.

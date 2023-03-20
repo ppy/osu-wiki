@@ -1,4 +1,5 @@
 ---
+no_native_review: true
 tags:
   - 谱面
   - 谱面集
@@ -24,7 +25,7 @@ tags:
 
 *主页面：[难度](/wiki/Beatmap/Difficulty)*
 
-**难度**是一个包含了击打物件位置、音效、诸如[kiai 时间](/wiki/Gameplay/Kiai_time)等特殊效果的文件，以[`.osu` 后缀名](/wiki/osu!_File_Formats/Osu_(file_format))来存储。它也包含一些像[难度设定](/wiki/Client/Beatmap_editor/Song_Setup#谱面难度设定(difficulty))之类会影响游玩的参数。谱面中的不同难度有不同的结构，有时候只能在一个[游戏模式](/wiki/Game_mode)下游玩。[谱面星级](/wiki/Beatmapping/Star_rating)系统用于可视化描述难度需要的实力水平。
+**难度**是一个包含了击打物件位置、音效、诸如 [Kiai 时间](/wiki/Gameplay/Kiai_time)等特殊效果的文件，以[`.osu` 后缀名](/wiki/osu!_File_Formats/Osu_(file_format))来存储。它也包含一些像[难度设定](/wiki/Client/Beatmap_editor/Song_Setup#谱面难度设定(difficulty))之类会影响游玩的参数。谱面中的不同难度有不同的结构，有时候只能在一个[游戏模式](/wiki/Game_mode)下游玩。[谱面星级](/wiki/Beatmapping/Star_rating)系统用于可视化描述难度需要的实力水平。
 
 ## 提交
 
@@ -44,20 +45,20 @@ tags:
 https://osu.ppy.sh/beatmapsets/{SID}#{游戏模式}/{BID}
 ```
 
-### 谱面状态
+### 谱面分类
 
-*主页面：[谱面状态](Category)*
+*主页面：[谱面分类](Category)*
 
-所有提交后的谱面都会归于以下列出的一种状态，而且谱面状态有可能会变更：
+所有提交后的谱面都会归于以下列出的一种分类，而且谱面分类有可能会变更：
 
-- [坟场 (Graveyard)](Category#graveyard)
-- [制作中/待定 (Work in Progress / Pending)](Category#work-in-progress-和-pending)
-- [过审 (Qualified)](Category#qualified)
-- [上架 (Ranked)](Category#ranked)
-- [达标 (Approved)](Category#approved)
-- [社区喜爱 (Loved)](Category#loved)
+- [坟场 (Graveyard)](Category#坟场-(graveyard))
+- [制作中和待定 (Work in Progress and Pending)](Category#制作中和待定-(work-in-progress-and-pending))
+- [过审 (Qualified)](Category#过审-(qualified))
+- [上架 (Ranked)](Category#上架-(ranked))
+- [达标 (Approved)](Category#达标-(approved))
+- [社区喜爱 (Loved)](Category#社区喜爱-(loved))
 
-有些谱面状态包含[提交规则](/wiki/Ranking_Criteria)，同时，变更为这种状态的谱面会获得[排行榜](#排行榜)。谱面获得排行榜的主流方法是通过[谱面上架 (Ranking) 程序](/wiki/Beatmap_ranking_procedure)，另一种方法是让谱面进入[社区喜爱 (loved)](Category#loved)状态。
+如果谱面要纳入部分分类，则必须符合[上架标准](/wiki/Ranking_Criteria)，同时，变更为这种分类的谱面会获得[排行榜](#排行榜)。谱面获得排行榜的主流方法是通过[谱面上架程序](/wiki/Beatmap_ranking_procedure)，另一种方法是让谱面进入[社区喜爱 (loved)](Category#社区喜爱-(loved))状态。
 
 ## 下载谱面
 
@@ -107,13 +108,13 @@ osu!direct 是游戏客户端内的谱面列表，可用于快速浏览并且提
 
 早期，社区就已出现多种方法展示独特和优秀的谱面（推图）。其中，也是最早被公式记录的一种方法就是收集一部分已上架 (Ranked) 谱面来举办月度或季度榜单，总分名列前茅的顶流玩家能获得 [osu! 支持者](/wiki/osu!supporter)作为奖品。
 
-季赛、月赛系统逐渐演变为[谱面聚光灯](/wiki/Beatmap_Spotlights)计划。虽然它们的性质差不多，但在新版客户端 (lazer) 里显示为游玩列表 (playlist)。
+季赛、月赛系统逐渐演变为[谱面聚光灯](/wiki/Beatmap_Spotlights)计划。虽然它们的性质差不多，但在新版客户端 [osu!(lazer)](/wiki/Client/Release_stream/Lazer) 里显示为游玩列表 (playlist)。
 
 ### 作图比赛
 
 *主页面：[竞赛](/wiki/Contests)*
 
-osu! 社区经常举办不同的作图比赛来促进谱面创新和奖励优秀的谱师。这些作图比赛既有小到仅由本地社区举办的；也有全球参与，奖励极其丰厚的。优胜者通常能获得 [osu! 支持者](/wiki/osu!supporter)标签和独特的个人界面徽章。
+osu! 社区经常举办不同的作图比赛来促进谱面创新和奖励优秀的谱师。这些作图比赛既有小到仅由本地社区举办的；也有全球参与，奖励极其丰厚的。优胜者通常能获得 [osu! 支持者](/wiki/osu!supporter)标签和独特的个人[主页奖牌](/wiki/Community/Profile_badge)。
 
 ### 精选艺术家
 

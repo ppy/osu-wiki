@@ -14,7 +14,7 @@ La série principale d'osu!academy sert d'introduction générale au vaste monde
 
 | Numéro | Titre | Description |
 | :-: | :-- | :-- |
-| 0 | [Lazer installer setup guide](https://www.youtube.com/watch?v=kO5ISAzRbPE) | [ztrot](https://osu.ppy.sh/users/6347) couvre le processus d'installation du client osu!(lazer). |
+| 0 | [Lazer installer setup guide](https://www.youtube.com/watch?v=kO5ISAzRbPE) | [ztrot](https://osu.ppy.sh/users/6347) couvre le processus d'installation du client [osu!(lazer)](/wiki/Client/Release_stream/Lazer). |
 | 1 | [osu! Installation/Account Setup/Beatmap Downloads](https://www.youtube.com/watch?v=0V5GwzmMhpU) | [pishifat](https://osu.ppy.sh/users/3178418) explique comment installer osu!, créer un compte et télécharger de nouvelles beatmaps. |
 | 2 | [Standard Gameplay/Settings Adjustments](https://www.youtube.com/watch?v=mswLEXK0eDk) | [ztrot](https://osu.ppy.sh/users/6347) présente le mode osu! et explique comment régler les paramètres du jeu. |
 | 3 | [Introduction to osu!mania](https://www.youtube.com/watch?v=UAomychlbic) | [LoliFlan](https://osu.ppy.sh/users/447818) couvre les bases du mode osu!mania, y compris le gameplay, les raccourcis clavier, les objets, et plus encore. |

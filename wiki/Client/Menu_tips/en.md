@@ -90,7 +90,7 @@ These tips appear in the [beatmap editor](/wiki/Client/Beatmap_editor) below the
 
 <!-- Source: https://github.com/ppy/osu/blob/master/osu.Game/Screens/Menu/Disclaimer.cs -->
 
-These tips appear in the [lazer version of the client](https://github.com/ppy/osu-lazer) upon startup, before the intro sequence.
+These tips appear in [osu!(lazer)](/wiki/Client/Release_stream/Lazer) upon startup, before the intro sequence.
 
 - You can press `Ctrl` + `T` anywhere in the game to toggle the toolbar!
 - You can press `Ctrl` + `O` anywhere in the game to access options!

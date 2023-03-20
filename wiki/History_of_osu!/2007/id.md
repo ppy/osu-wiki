@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: f2c89f5c250e64121a2a94aab12046306fa6147d
+---
+
 # Sejarah osu! 2007
 
 Berikut ini adalah beberapa peristiwa besar yang terjadi di osu! selama tahun 2007. Terima kasih kepada [Sinistro](https://osu.ppy.sh/users/5530) atas bantuannya dalam menyusun sejarah osu! tahun 2007/2008.
@@ -6,7 +11,7 @@ Berikut ini adalah beberapa peristiwa besar yang terjadi di osu! selama tahun 20
 
 ## Juli
 
-osu! dimulai sebagai *proof-of-concept* bernama "ouentest"[[1]][r]. Versi pertama dirilis pada tanggal 1 Juli 2007 untuk sekelompok kecil teman dekat [peppy](https://osu.ppy.sh/users/2) dan memiliki sebuah [editor beatmap](/wiki/Client/Beatmap_editor) dan mode permainan yang sangat mendasar. Editor hanya dapat membuat [beatmap](/wiki/Beatmap) yang *sangat* sederhana tanpa fungsi *seeking* atau [*snapping*](/wiki/Beatmapping/Snapping) dan tidak ada slider atau spinner, hanya circle dan penghitung skor/kombo yang mendasar. Rilis pertama memakan waktu sekitar 16 jam waktu coding dan dilakukan dalam *single all-nighter*. `pUpdater` diperkenalkan (lekas dikenal sebagai `osume`)[[2]][r] untuk menangani pembaruan ke versi terbaru.
+osu! dimulai sebagai *proof-of-concept* bernama "ouentest".[^ouentest] Versi pertama dirilis pada tanggal 1 Juli 2007 untuk sekelompok kecil teman dekat [peppy](https://osu.ppy.sh/users/2) dan memiliki sebuah [editor beatmap](/wiki/Client/Beatmap_editor) dan mode permainan yang sangat mendasar. Editor hanya dapat membuat [beatmap](/wiki/Beatmap) yang *sangat* sederhana tanpa fungsi *seeking* atau [*snapping*](/wiki/Beatmapping/Snapping) dan tidak ada slider atau spinner, hanya circle dan penghitung skor/kombo yang mendasar. Rilis pertama memakan waktu sekitar 16 jam waktu coding dan dilakukan dalam *single all-nighter*. `pUpdater` diperkenalkan (lekas dikenal sebagai `osume`) [^osume] untuk menangani pembaruan ke versi terbaru.
 
 ![](img/2007-07_01.jpg "Pemilihan Lagu")
 
@@ -98,7 +103,5 @@ Lagu-lagu dapat disunting dengan menyeretnya ke jendela osu!. Keterangan alat di
 
 ## References
 
-1. [Kiriman forum Twitter oleh peppy tentang awal mula osu!](https://twitter.com/ppy/status/1141394137637249025?s=20)
-2. [Kiriman forum pUpdater  (aka osume)](https://osu.ppy.sh/community/forums/topics/4?n=1)
-
-[r]: #references
+[^ouentest]: [Kiriman forum Twitter oleh peppy tentang awal mula osu!](https://twitter.com/ppy/status/1141394137637249025?s=20)
+[^osume]: [pUpdater (aka osume)](https://osu.ppy.sh/community/forums/topics/4?n=1)

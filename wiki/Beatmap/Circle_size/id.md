@@ -8,11 +8,11 @@ tags:
 
 *Untuk peraturan seputar circle size, dapat dilihat pada: [Kriteria Ranking](/wiki/Ranking_Criteria)*
 
-**Circle size** (***CS***) adalah pengaturan kesulitan pada [beatmap](/wiki/Beatmap) yang memengaruhi ukuran dari [hit objects](/wiki/Hit_object). Nilai Circle size rentangnya mulai dari 0 sampai 10, tapi hanya nilai 2 sampai 7 yang dapat digunakan di dalam [beatmap editor](/wiki/Client/Beatmap_editor). Nilai lain dapat digunakan apabila menggunakan cara manual editing [file .osu](/wiki/osu!_File_Formats/Osu_(file_format)) pada sebuah map.
+**Circle size** (***CS***) adalah pengaturan kesulitan pada [beatmap](/wiki/Beatmap) yang memengaruhi ukuran dari [hit objects](/wiki/Hit_object). Nilai Circle size rentangnya mulai dari 0 sampai 10, tapi hanya nilai 2 sampai 7 yang dapat digunakan di dalam [beatmap editor](/wiki/Client/Beatmap_editor). Nilai lain dapat digunakan apabila menggunakan cara manual editing [file `.osu`](/wiki/osu!_File_Formats/Osu_(file_format)) pada sebuah map.
 
 ## osu!
 
-Di osu!, circle size mengubah ukuran dari hit circle dan slider, dengan nilai yang tinggi akan membuat hit object yang kecil. Spinner tidak terpengaruh oleh circle size. Circle size dihasilkan melalui rumus dibawah ini:
+Di [osu!](/wiki/Game_mode/osu!), circle size mengubah ukuran dari [hit circle](/wiki/Gameplay/Hit_object/Hit_circle) dan [slider](/wiki/Gameplay/Hit_object/Slider), dengan nilai yang tinggi akan membuat hit object yang kecil. [Spinner](/wiki/Gameplay/Hit_object/Spinner) tidak terpengaruh oleh circle size. Circle size dihasilkan melalui rumus dibawah ini:
 
 `r = 54.4 - 4.48 * CS`<!-- multiplied by 1.00041 in the end to account for some bug in old replays -->
 
@@ -20,15 +20,15 @@ Di mana `r` adalah radius ukur dalam satuan [osu!pixels](/wiki/osu!pixel), dan `
 
 ## osu!taiko
 
-Di osu!taiko, circle size tidak mempengaruhi gameplay.
+Di [osu!taiko](/wiki/Game_mode/osu!taiko), circle size tidak mempengaruhi gameplay.
 
 ## osu!catch
 
-Di osu!catch, circle size ditentukan dari besar catcher dan buah.
+Di [osu!catch](/wiki/Game_mode/osu!catch), circle size ditentukan dari besar catcher dan [buah](/wiki/Gameplay/Hit_object/Fruit).
 
 ## osu!mania
 
-Di osu!mania, circle size mengacu pada jumlah kunci.
+Di [osu!mania](/wiki/Game_mode/osu!mania), circle size mengacu pada jumlah kunci.
 
 ## Efek mod
 

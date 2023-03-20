@@ -27,4 +27,4 @@ osu! 有数个 Twitter 账号，每个都有其明确的用途。大多数账号
 
 | 头像 | 账号 | 描述 |
 | :-: | :-: | :-- |
-| ![Dean Herbert 头像](img/ppy.jpg) | [@ppy](https://twitter.com/ppy) | [osu! 作者](/wiki/People/peppy)的个人 Twitter 账号，推文不一定跟 osu! 有关，但还是涵盖了大部分。 |
+| ![Dean Herbert 头像](img/ppy.jpg?2) | [@ppy](https://twitter.com/ppy) | [osu! 作者](/wiki/People/peppy)的个人 Twitter 账号，推文不一定跟 osu! 有关，但还是涵盖了大部分。 |

@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: e55d19c5048d09bf313e20ed37b9f1b84fbfe3e2
 tags:
   - osu! staff
   - osu!team
@@ -66,7 +68,7 @@ tags:
 | ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | Разработчик osu!, автор IRC-сервера osu!Bancho, администратор сайта. [Личный блог](http://blog.echo.sh/) |
 | ::{ flag=US }:: [HappyStick](https://osu.ppy.sh/users/256802) | Ведущий osu! Coffee Hour, стример международных турниров, организатор турниров |
 | ::{ flag=NL }:: [Intermezzo](https://osu.ppy.sh/users/136842) | Разработчик osu!, автор реализации osz2 и p2p-бэкенда osu! |
-| ::{ flag=US }:: Jim | Дизайнер самой первой версии сайта, хостер osu! в ранние дни. Персональный проект: [Brave New Games](http://www.bravegamer.com/) |
+| ::{ flag=US }:: [Datawalke](https://osu.ppy.sh/users/142) | Дизайнер самой первой версии сайта, хостер osu! в ранние дни. Персональный проект: [Brave New Games](http://www.bravegamer.com/) |
 | ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656) | Организатор и администратор международных турниров |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Организатор и администратор международных турниров, лидер QAT, менеджер сообщества |
 | ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | Автор эпичных скинов, соавтор стандартного скина и иконок. [Профиль на DeviantArt](https://luigihann.deviantart.com/) |

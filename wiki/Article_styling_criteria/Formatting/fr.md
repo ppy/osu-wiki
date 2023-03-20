@@ -71,6 +71,20 @@ outdated: true
 
 Lorsque vous ajoutez cette balise à un article, vous devez également ajouter des [commentaires](#commentaires) pour expliquer ce qui doit être mis à jour pour supprimer la balise.
 
+### Traductions obsolètes
+
+Les articles traduits qui sont obsolètes doivent utiliser le tag `outdated_translation` lorsque la variante anglaise est mise à jour, à l'exception de reformulations mineures, d'ajustements grammaticaux et autres, qui n'affectent pas le sens de l'article.
+
+```yaml
+outdated_translation: true
+```
+
+Lorsque les traductions deviennent obsolètes, elles doivent également recevoir le tag `outdated_since` qui pointe vers le premier commit où la version anglaise est mise à jour.
+
+```yaml
+outdated_since: 29eac89cd535f8b071ca000af8fe4f0be22bdc9b
+```
+
 ### Tags
 
 Les tags aident le moteur de recherche du site à mieux rechercher les articles. Les balises doivent être rédigées dans la même langue que l'article et inclure la liste originale des balises. Les tags doivent utiliser des lettres minuscules, le cas échéant.
@@ -589,7 +603,7 @@ L'URL de la barre d'adresse de votre navigateur doit être copiée telle qu'elle
 
 Tous les noms d'utilisateur doivent être liés à la première occurrence. Les autres occurrences sont facultatives, mais doivent être cohérentes tout au long de l'article pour tous les noms d'utilisateur. S'il est difficile de déterminer l'identifiant de l'utilisateur, il peut être ignoré.
 
-Lorsque vous créez un lien vers un profil d'utilisateur, le numéro d'identification de l'utilisateur doit être utilisé. Utilisez le nouveau site web (`https://osu.ppy.sh/users/{username})`) pour obtenir l'id de l'utilisateur.
+Lorsque vous créez un lien vers un profil d'utilisateur, le numéro d'identification de l'utilisateur doit être utilisé. Utilisez le nouveau site web (`https://osu.ppy.sh/users/{username}`) pour obtenir l'id de l'utilisateur.
 
 Le texte du lien de l'utilisateur doit être le nom actuel de l'utilisateur.
 
@@ -800,7 +814,7 @@ Voici un exemple de ce à quoi doit ressembler un tableau :
 
 Une infobox est un bloc de largeur fixe qui est aligné sur le côté droit de l'article. Il peut contenir une image pertinente, qui explique le texte environnant, ou un bloc de navigation qui renvoie à d'autres articles de la même catégorie.
 
-Exemple d'utilisation, rendu à droite :
+Exemple d'utilisation, rendu à droite (ou au-dessus, sur les petits écrans) :
 
 ::: Infobox
 ![](/wiki/shared/mods/SD.png "Icône du mod Sudden Death")
@@ -816,6 +830,8 @@ Les infoboxes doivent être utilisées avec prudence dans les cas suivants :
 
 - Les sections courtes : le titre de la section suivante apparaît sous les infoboxes, laissant un grand vide après le texte.
 - Plusieurs images à la fois : utilisez plutôt des infoboxes individuelles pour un meilleur rendu.
+
+Seuls les niveaux de titre 4 et 5 sont autorisés dans une infobox. Ceux-ci n'apparaissent pas dans la table des matières et tout ce qui est inférieur est trop grand. Toute [erreur de CI check](/wiki/osu!_wiki/Maintenance#ci-checks) peut avoir besoin d'être contournée pour cette raison.
 
 ## Notes de bas de page
 
@@ -843,15 +859,19 @@ L'osu! wiki est un projet destiné à remplacer l'ancien système de FAQ.[^wiki-
 
 Les citations, ou références, sont utilisées pour identifier une source d'information. Les citations par le biais de notes de bas de page doivent être préférées aux liens en ligne.
 
-Exemple :
+Les citations doivent, dès que possible, préciser l'auteur, la date, le service/la plateforme et le titre. Le format exact peut varier en fonction des citations, avec une préférence pour la brièveté.
+
+Exemples :
 
 ```markdown
-La première version de l'osu!api a été mise à disposition le 2 juillet 2013[^api-first-usage] Elle avait été saluée par la critique des utilisateurs.[^api-praise]
+La première version de l'osu!api a été mise à disposition le 2 juillet 2013.[^api-first-usage] Elle avait été saluée par la critique des utilisateurs.[^api-praise] Une nouvelle version de l'API, publiée plusieurs années plus tard, contient beaucoup plus de capacités.[^api-v2-2020] Le versionnage des points de terminaison est courant parmi les API web.[^web-api]
 
 ## Références
 
-[^api-first-usage]: [osu!api bêta ouverte](https://osu.ppy.sh/community/forums/posts/2403913)
-[^api-praise]: [osu!api bêta ouverte](https://osu.ppy.sh/community/forums/posts/2662247)
+[^api-first-usage]: [Forum de discussion par peppy (02/07/2013) "osu!api bêta ouverte"](https://osu.ppy.sh/community/forums/posts/2403913)
+[^api-praise]: [Post par Menshi (02/11/2013) sur "osu!api bêta ouverte"](https://osu.ppy.sh/community/forums/posts/2662247)
+[^api-v2-2020]: [Tweet de @ppy (20/03/2020)](https://twitter.com/ppy/status/1263083636363948032)
+[^web-api]: ["Web API" sur Wikipedia](https://en.wikipedia.org/wiki/Web_API)
 ```
 
 ### Notes

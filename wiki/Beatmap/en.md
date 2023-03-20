@@ -95,21 +95,19 @@ The top 500 scores on every difficulty of a beatmap provide [replays](/wiki/Game
 
 ### Charts and Spotlights
 
-<!-- TODO: charts, as well as Chart Assembly Team, need to be referenced here when they receive a dedicated article (issue #4685) -->
-
 <!-- TODO: would be very cool to have a separate article for osu!(lazer) as well (issue #4686) -->
 
 *Main article: [Beatmap Spotlights](/wiki/Beatmap_Spotlights)*
 
 Since its early days, the community has had various ways to showcase unique and excellent maps. One of the first documented approaches were monthly and seasonal charts consisting of a small subset of ranked beatmaps, where top players from leaderboards displaying total score across these maps would be awarded with [osu!supporter](/wiki/osu!supporter).
 
-The chart system has later evolved into the [Beatmap Spotlights](/wiki/Beatmap_Spotlights) project, which now operates on similar conditions, but takes place in osu!(lazer)'s playlists instead.
+The chart system has later evolved into the [Beatmap Spotlights](/wiki/Beatmap_Spotlights) project, which now operates on similar conditions, but takes place in [osu!(lazer)](/wiki/Client/Release_stream/Lazer)'s playlists instead.
 
 ### Beatmap contests
 
 *Main page: [Contests](/wiki/Contests)*
 
-osu! community regularly runs different contests in order to promote creativity and award mappers who do their best. Contests range from small competitions, which are made inside local communities, to large ones that are conducted on a global scale and have breathtaking prizes. Winners often receive awards in form of [osu!supporter tags](/wiki/osu!supporter) and a themed profile badge.
+osu! community regularly runs different contests in order to promote creativity and award mappers who do their best. Contests range from small competitions, which are made inside local communities, to large ones that are conducted on a global scale and have breathtaking prizes. Winners often receive awards in form of [osu!supporter tags](/wiki/osu!supporter) and a themed [profile badge](/wiki/Community/Profile_badge).
 
 ### Featured Artists
 

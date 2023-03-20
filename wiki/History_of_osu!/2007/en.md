@@ -6,7 +6,7 @@ The following is some of the major events in osu!'s history since its beginning.
 
 ## July
 
-osu! began as a proof-of-concept named "ouentest"[[1]][r]. The first version was released on July 1, 2007 to a small group of [peppy](https://osu.ppy.sh/users/2)'s close friends and featured a very basic [beatmap editor](/wiki/Client/Beatmap_editor) and play mode. The editor could only make *very* simple [beatmaps](/wiki/Beatmap) with no seeking or [snapping](/wiki/Beatmapping/Snapping) functions available and there were no sliders or spinners, only circles and basic scoring/combo counters. The first release took approximately 16 hours of coding time and was done in a *single all-nighter*. `pUpdater` was introduced (soon to be known as `osume`)[[2]][r] to handle updating to the latest version.<!-- "pUpdater" and "osume" need article stubs to link to -->
+osu! began as a proof-of-concept named "ouentest".[^ouentest] The first version was released on July 1, 2007 to a small group of [peppy](https://osu.ppy.sh/users/2)'s close friends and featured a very basic [beatmap editor](/wiki/Client/Beatmap_editor) and play mode. The editor could only make *very* simple [beatmaps](/wiki/Beatmap) with no seeking or [snapping](/wiki/Beatmapping/Snapping) functions available and there were no sliders or spinners, only circles and basic scoring/combo counters. The first release took approximately 16 hours of coding time and was done in a *single all-nighter*. `pUpdater` was introduced (soon to be known as `osume`) [^osume] to handle updating to the latest version.<!-- "pUpdater" and "osume" need article stubs to link to -->
 
 ![](img/2007-07_01.jpg "Song Selection")
 
@@ -98,7 +98,5 @@ Songs could be edited by dragging them into the osu! window; tooltips were added
 
 ## References
 
-1. [peppy's Twitter post about the start of osu!](https://twitter.com/ppy/status/1141394137637249025?s=20)
-2. [pUpdater  (aka osume) forum post](https://osu.ppy.sh/community/forums/topics/4?n=1)
-
-[r]: #references
+[^ouentest]: [Tweet by @ppy (2019-06-19)](https://twitter.com/ppy/status/1141394137637249025?s=20)
+[^osume]: [Forum thread by peppy (2007-08-28) "pUpdater (aka osume)"](https://osu.ppy.sh/community/forums/topics/4?n=1)

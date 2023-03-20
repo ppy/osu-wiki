@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: c4cb59021d4e076aea3aa13c257a8b0a7fb70a6c
+---
+
 # Ranking criteria osu!taiko
 
 ***Perhatian: Artikel ini merupakan perpanjangan dari [ranking criteria umum](/wiki/Ranking_Criteria).***
