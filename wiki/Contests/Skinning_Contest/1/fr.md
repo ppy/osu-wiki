@@ -9,26 +9,26 @@ tags:
 
 ![Bannière du Skinning Contest #1](img/banner.jpg)
 
-Le **Skinning Contest #1** était un concours de skinning ouvert à tous organisé par [skinship](https://skinship.xyz), une des plus grandes communautés de skinning d'osu!. C'était le premier concours de skinning officiel, et la première itération des concours de skinning par skinship.
+Le **Skinning Contest #1** était un concours de skinning ouvert à tous organisé par [skinship](https://skinship.xyz), une des plus grandes communautés de skinning d'osu!. C'était le premier concours de skinning officiel, et la première itération des Skinning Contests organisés par skinship.
 
-## Planning du Concours
+## Planning du concours
 
 | Evenement | Date |
 | --: | :-- |
 | Annonce | 08/03/2021 |
-| Phase d'envoi | 08/03/2021/08/04/2021 |
-| Phase de vote | 29/04/2021/13/05/2021 |
+| Phase d'envoi | 08/03/2021 - 08/04/2021 |
+| Phase de vote | 29/04/2021 - 13/05/2021 |
 | Résultats | 27/05/2021 |
 
 ## Prix
 
 | Position | Prix |
 | :-: | :-- |
-| ![Courrone d'Or](/wiki/shared/crown-gold.png "1ère place") | 6 mois d'osu!supporter, un badge de profil unique |
-| ![Courrone d'Argent](/wiki/shared/crown-silver.png "2nde place") | 4 mois d'osu!supporter, un badge de profil unique |
-| ![Couronne de Bronze](/wiki/shared/crown-bronze.png "3ème place") | 2 mois d'osu!supporter, un badge de profil unique |
+| ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | 6 mois d'osu!supporter, un badge de profil unique |
+| ![Couronne d'argent](/wiki/shared/crown-silver.png "2nde place") | 4 mois d'osu!supporter, un badge de profil unique |
+| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | 2 mois d'osu!supporter, un badge de profil unique |
 
-![](img/badge-winner.png "Badge du gagnant Skinning Contest #1 ") ![](img/badge-2nd.png "Badge de deuxième place du Skinning Contest #1") ![](img/badge-3rd.png "Badge de Troisième place du Skinning Contest #1")
+![](img/badge-winner.png "Badge du gagnant Skinning Contest #1 ") ![](img/badge-2nd.png "Badge de deuxième place du Skinning Contest #1") ![](img/badge-3rd.png "Badge de troisième place du Skinning Contest #1")
 
 ## Organisation
 
@@ -39,21 +39,21 @@ Le Skinning Contest #1 a été tenu par plusieurs membres de la communauté.
 | ::{ flag=DE }:: [Master-TigerKun](https://osu.ppy.sh/users/10688456) | Planning du concours |
 | ::{ flag=RO }:: [Matt2e2](https://osu.ppy.sh/users/12144912) | Planning du concours, design graphique |
 | ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | Planning du concours |
-| ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | Planning du concours, screening des entrées , preparation du showcase |
-| ::{ flag=GB }:: [tetsui](https://osu.ppy.sh/users/10974678) | Planning du concours, preparation du showcase |
+| ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | Planning du concours, screening des entrées, préparation du showcase |
+| ::{ flag=GB }:: [tetsui](https://osu.ppy.sh/users/10974678) | Planning du concours, préparation du showcase |
 | ::{ flag=NL }:: [vvivi](https://osu.ppy.sh/users/10432755) | Planning du concours |
-| ::{ flag=PL }:: [watterino](https://osu.ppy.sh/users/3512261) | Monteur vidéo, preparation du showcase |
+| ::{ flag=PL }:: [watterino](https://osu.ppy.sh/users/3512261) | Monteur vidéo, préparation du showcase |
 
 ## Liens
 
 - **[Page du concours](https://osu.ppy.sh/community/contests/126)**
 - [Article d'annonce](https://osu.ppy.sh/home/news/2021-03-08-skinning-contest-announcement)
-- [Article de Vote](https://osu.ppy.sh/home/news/2021-04-29-skinning-contest-voting-open)
+- [Article des votes](https://osu.ppy.sh/home/news/2021-04-29-skinning-contest-voting-open)
 - [Article des résultats](https://osu.ppy.sh/home/news/2021-05-27-skinning-contest-results)
-- [Thread de discussion](https://osu.ppy.sh/community/forums/topics/1266342)
-- [Thread d'envoi des entrées](https://osu.ppy.sh/community/forums/topics/1266324)
+- [Fil de discussion](https://osu.ppy.sh/community/forums/topics/1266342)
+- [Post forum des entrées au concours](https://osu.ppy.sh/community/forums/topics/1266324)
 - [Serveur Discord](https://discord.skinship.xyz)
-- [Site Officiel](https://skinship.xyz)
+- [Site officiel](https://skinship.xyz)
 
 ## Participants
 
@@ -93,20 +93,20 @@ Le Skinning Contest #1 a été tenu par plusieurs membres de la communauté.
 
 ## Podium
 
-*Pour les resultats complets, se référer à la [page du concours](https://osu.ppy.sh/community/contests/126).*
+*Pour les résultats complets, se référer à la [page du concours](https://osu.ppy.sh/community/contests/126).*
 
 ![](img/podium.png "Podium du Skinning Contest #1")
 
 ## Règles
 
-- Les entrées ne doivent pas contenir du contenu inaproprié, malveillant ou épileptique, et doivent suivre les [règles de la communauté osu!](/wiki/Rules).
-- Tous les assets doivent être crées par vous, ou après demande et crédit de l'auteur. Cela inclut, mais ne se limite pas à:
+- Les entrées ne doivent pas contenir de contenu inaproprié, malveillant ou épileptique, et doivent suivre les [règles de la communauté d'osu!](/wiki/Rules).
+- Tous les assets doivent être créés par vous-même, ou utilisés après demande et crédit de l'auteur. Cela inclut, mais ne se limite pas à :
   - polices
   - icônes
   - textures
-  - oeuvres (ex: oeuvres d'animes)
+  - œuvres (ex : œuvres d'animes)
   - sons
-- La plupart des menus in-game et au moins un mode de jeu doivent être skinnés. En d'autres termes, en plus des élémets de gameplay, les éléments suivants ne doivent pas être laissés par défaut:
+- La plupart des menus en jeu et au moins un mode de jeu doivent être skinnés. En d'autres termes, en plus des éléments de gameplay, les éléments suivants ne doivent pas être laissés par défaut :
   - Écran de résultats
   - Sélection de beatmap (pas forcément la sélection de mode)
   - Icônes des mods
