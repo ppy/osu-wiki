@@ -6,7 +6,7 @@ L'[éditeur de beatmap](/wiki/Client/Beatmap_editor) fournit des [paramètres de
 
 De plus, le timing d'une beatmap contrôle les fonctionnalités suivantes:
 
-- Le battement de l'[osu! cookie](/wiki/Client/Interface/Cookie) dans le menu principal et la [séléction de beatmap](/wiki/Client/Interface#song-select) (et aussi les autre menus qui suivent le rhythme)
+- Le battement de l'[osu! cookie](/wiki/Client/Interface/Cookie) dans le menu principal et la [séléction de beatmap](/wiki/Client/Interface#selection-des-beatmaps) (et aussi les autre menus qui suivent le rhythme)
 - La pulsation des objets pendant les [kiai](/wiki/Gameplay/Kiai_time)
 - Les Drum track ajoutés avec le mod [Nightcore](/wiki/Gameplay/Game_modifier/Nightcore) mod
 - L'apparition des barres verticales dans les mode [osu!taiko](/wiki/Game_mode/osu!taiko) et horizontales dans le mode [osu!mania](/wiki/Game_mode/osu!mania)
