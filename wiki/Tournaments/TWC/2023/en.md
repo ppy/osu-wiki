@@ -138,13 +138,13 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad
   1. [Kola Kid - spaceman (Gamelan4) \[freedom\]](https://osu.ppy.sh/beatmapsets/1108777#taiko/2317154)
   2. [Sobrem x Silentroom - Random (rubies87) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1627748#taiko/3323050)
   3. [Rabbit House - Randa no Hen feat. Mitchell (fieryrage) \[i am the taiko player now\]](https://osu.ppy.sh/beatmapsets/1959471#taiko/4060306)
-  4. [Waterflame - Time Machine (Cut Ver.) (Fynbi) \[Shift\] *(temporary link)*](https://leoflt.com/s/N1kF)
+  4. [Waterflame - Time Machine (Cut Ver.) (Fynbi) \[Shift\]](https://osu.ppy.sh/beatmapsets/1959541#taiko/4060422)
 - Hidden
-  1. [Yuyoyuppe - Kami no Kotoba (Cut Ver.) (Hivie) \[Sorrow (TWC Edit)\] *(temporary link)*](https://leoflt.com/s/e5jk)
+  1. [Yuyoyuppe - Kami no Kotoba (Cut Ver.) (Hivie) \[Sorrow (TWC Edit)\]](https://osu.ppy.sh/beatmapsets/1959510#taiko/4060369)
   2. [MisoilePunch - Overrrload!! (iloveyou4ever) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1837749#taiko/3773552)
 - Hard Rock
   1. [m108 - Crescent Sakura (Antti) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1449942#taiko/2981326)
-  2. [Se-U-Ra - F-Rozenette (ikin5050) \[Inner Oni\] *(temporary link)*](https://leoflt.com/s/gB9c)
+  2. [Se-U-Ra - F-Rozenette (ikin5050) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1959488#taiko/4060333)
 - Double Time
   1. [Blue Stahli - Blue Stahli (Jaltzu) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1576838#taiko/3221023)
   2. [wotoha - Digital Life Hacker (BlackBN) \[Irone's Oni\]](https://osu.ppy.sh/beatmapsets/1522733#taiko/3119398)
