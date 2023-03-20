@@ -162,8 +162,8 @@ In exceptionally rare cases, a tournament may be granted the privilege of awardi
 Examples of exceptional tournaments that have met these expectations:
 
 - [Corsace Open](https://osu.ppy.sh/community/forums/topics/1607468)
-- [Expert Global Taiko Showdown](en/Tournaments/GTS/EGTS_2022)
-- [Springtime osu!mania Free-for-all Tournament](en/Tournaments/SOFT/6)
+- [Expert Global Taiko Showdown](wiki/Tournaments/GTS/EGTS_2022)
+- [Springtime osu!mania Free-for-all Tournament](wiki/Tournaments/SOFT/6)
 
 ### Requesting main-menu banner support
 
