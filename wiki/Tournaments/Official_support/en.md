@@ -30,7 +30,7 @@ Community-run tournaments which abide by the following hard criteria are eligibl
 - The forum thread for the tournament **MUST** contain a clearly visible link in a normal-sized font to the [tournament reports form](https://pif.ephemeral.ink/tournament-reports) as the very last content of the original post.
   - `https://pif.ephemeral.ink/tournament-reports`
   - This report form is overseen by the [Tournament Committee](/wiki/People/Tournament_Committee). We encourage all users — players and staff alike — to make use of this form where necessary. Any breaches of [expectations](#expectations), [other procedures](#other-procedures), or [eligibility](#eligibility) requirements should prompt a report.
-- The tournament only allows players of exceptional skill to participate, disallowing players lower than the following ranks in each mode to compete with a chance of winning the tournament:
+- The tournament only allows players of exceptional skill to participate, disallowing players lower than the following ranks in each game mode:
   - osu!: 100,000
   - osu!taiko: 10,000
   - osu!catch: 5,000
@@ -92,15 +92,13 @@ Once the tournament has concluded, the tournament organisers will need to submit
 
 Tournament organisers are expected to ensure that their tournaments run smoothly and with minimal disruption where possible.
 
-Users under an active tournament ban are expected to disclose their tournament ban status to any officially supported tournament they intend to help with.
-
 With regards to staff roles, the following rules apply:
 
 - Streamers, commentators, and graphic designers may play in the tournament.
-  - Users under an active tournament ban may enlist as one of these roles, but we encourage careful consideration of such choices as said individuals have already infringed upon the rules once (or more).
 - Eliminated players may be enlisted as referees, mappool playtesters, and/or replay creators.
-- Staff with any role not listed here, may not participate in a badged tournament.
-  - Users under an active tournament ban may not be enlisted in these roles UNLESS an exemption is requested for them along with the initial request for support, though we, once more, encourage careful consideration. The account support team will then assess these on a case-by-case basis with the user's history in mind.
+- Staff with any role not listed here, may not play in a badged tournament.
+
+Users under an active tournament ban are expected to disclose their tournament ban status to any officially supported tournament they intend to help with. They may be enlisted as streamers, commentators, or graphic designers at the host's discretion, but we encourage careful consideration of such choices as said individuals have already infringed upon the rules once (or more). They may not act as any other staff role UNLESS the host requests an exemption for them when sending in their initial request for support. The account support team will then assess these on a case-by-case basis with the user's history in mind.
 
 Anyone whose conduct results in a tournament losing its official support may not fulfill the same roles in, nor be the host or admin of, another badged tournament for at least 4 months.
 
@@ -164,8 +162,8 @@ In exceptionally rare cases, a tournament may be granted the privilege of awardi
 Examples of exceptional tournaments that have met these expectations:
 
 - [Corsace Open](https://osu.ppy.sh/community/forums/topics/1607468)
-- [Expert Global Taiko Showdown](https://osu.ppy.sh/wiki/en/Tournaments/GTS/EGTS_2022)
-- [Springtime osu!mania Free-for-all Tournament](https://osu.ppy.sh/wiki/en/Tournaments/SOFT/6)
+- [Expert Global Taiko Showdown](en/Tournaments/GTS/EGTS_2022)
+- [Springtime osu!mania Free-for-all Tournament](en/Tournaments/SOFT/6)
 
 ### Requesting main-menu banner support
 
