@@ -3,6 +3,8 @@ stub: true
 tags:
   - patterns
   - pola
+outdated_since: a5ad0f458e2ddbb953e39e1902e3cd5201c54f45
+outdated_translation: true
 ---
 
 # Pattern
