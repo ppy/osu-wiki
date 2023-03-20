@@ -15,7 +15,7 @@ Le **Skinning Contest #1** était un concours de skinning ouvert à tous organis
 
 | Evenement | Date |
 | --: | :-- |
-| Annonce | 08-03-2021 |
+| Annonce | 08/03/2021 |
 | Phase d'envoi | 08/03/2021/08/04/2021 |
 | Phase de vote | 29/04/2021/13/05/2021 |
 | Résultats | 27/05/2021 |
@@ -107,11 +107,11 @@ Le Skinning Contest #1 a été tenu par plusieurs membres de la communauté.
   - oeuvres (ex: oeuvres d'animes)
   - sons
 - La plupart des menus in-game et au moins un mode de jeu doivent être skinnés. En d'autres termes, en plus des élémets de gameplay, les éléments suivants ne doivent pas être laissés par défaut:
-  - Panneau de ranking
-  - Selection de map (pas forcément la sélection de mode)
-  - Icônes de mods
+  - Écran de résultats
+  - Sélection de beatmap (pas forcément la sélection de mode)
+  - Icônes des mods
   - Menus de pause et de fail
-  - Le main menu est optionnel, mais fortement recommandé
+  - Le menu principal est optionnel, mais fortement recommandé
 - Les entrées doivent être des nouvelles créations, seuls les skins postés durant la période d'envoi seront acceptés.
-- Chaque entrée doit être accompagnée d'un thread sur le forum pour participer au concours.
+- Chaque entrée doit être accompagnée d'un post sur le forum pour participer au concours.
 - Les entrées doivent être faites à temps, les retardataires ne seront pas acceptés.
