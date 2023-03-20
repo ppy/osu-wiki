@@ -3,7 +3,7 @@ stub: true
 tags:
   - patterns
   - паттерн
-outdated_since: 5b5b5e3d7a589696c027660ee4ca56ebccd48b79
+outdated_since: a5ad0f458e2ddbb953e39e1902e3cd5201c54f45
 outdated_translation: true
 ---
 
