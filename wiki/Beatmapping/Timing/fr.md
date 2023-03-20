@@ -6,7 +6,7 @@ L'[éditeur de beatmap](/wiki/Client/Beatmap_editor) fournit des [paramètres de
 
 De plus, le timing d'une beatmap contrôle les fonctionnalités suivantes:
 
-- Le battement de l'[osu! cookie](/wiki/Client/Interface/Cookie) dans le menu principal et la [séléction de beatmap](/wiki/Client/Interface#selection-des-beatmaps) (et aussi les autre menus qui suivent le rhythme)
+- Le battement de l'[osu! cookie](/wiki/Client/Interface/Cookie) dans le menu principal et la [séléction de beatmap](/wiki/Client/Interface#menu-principal) (et aussi les autre menus qui suivent le rhythme)
 - La pulsation des objets pendant les [kiai](/wiki/Gameplay/Kiai_time)
 - Les Drum track ajoutés avec le mod [Nightcore](/wiki/Gameplay/Game_modifier/Nightcore) mod
 - L'apparition des barres verticales dans les mode [osu!taiko](/wiki/Game_mode/osu!taiko) et horizontales dans le mode [osu!mania](/wiki/Game_mode/osu!mania)
@@ -32,7 +32,7 @@ Presque chaque chanson peut être divisée en plusieurs sections de différents 
 
 ### BPM Unique
 
-La quantité de temps entre le début du fichier audio et le premier downbeat, aussi appelé "offset" ou décalage, est typiquement la place du premier [point de timing non hérité](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point), le point de départ qu'utilise le jeu pour calculer la position des autres beats. Un de ces points de timing est souvent suffisant pour les chansons produites digitalement, n'ayant pas de BPM ni de changement de time signature, ou de metronome reset.<!-- TODO: link -->.
+La quantité de temps entre le début du fichier audio et le premier downbeat, aussi appelé "offset" ou décalage, est typiquement la place du premier [point de timing non hérité](/wiki/Client/Beatmap_editor/Timing#points-de-timing-non-hérités), le point de départ qu'utilise le jeu pour calculer la position des autres beats. Un de ces points de timing est souvent suffisant pour les chansons produites digitalement, n'ayant pas de BPM ni de changement de time signature, ou de metronome reset.<!-- TODO: link -->.
 
 Dans la section [timing](/wiki/Client/Beatmap_editor/Timing), appuyer sur la touche `T` ou cliquer sur le bouton métronome au rythme de la chanson permet à osu! de calculer un BPM approximatif. Cette valeur peut être ajustée manuellement jusqu'à ce qu'elle soit correcte et s'aligne avec la musique. Quelques choses sont à noter:
 
