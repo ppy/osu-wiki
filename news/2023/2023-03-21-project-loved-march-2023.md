@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Project Loved: March 2023"
-date: 2023-03-21 18:00:00 +0000
+date: 2023-03-21 17:00:00 +0000
 ---
 
 Celebrate the start of spring with an equally charming set of Loved nominations!
@@ -20,7 +20,7 @@ As always, we would like to thank everyone for your participation in the Februar
 Before we move on, here's an update from the innings of Project Loved:
 
 - As you may recall, we've opened applications for the osu! Loved captain position [last month](https://osu.ppy.sh/home/news/2023-02-24-project-loved-february-2023). We went through all the applicants carefully and we're more than happy to announce that [Aistre](https://osu.ppy.sh/users/4879380), [Kingling](https://osu.ppy.sh/users/7010761), and [megumic](https://osu.ppy.sh/users/7537133) will be joining the osu! captains in order to make sure that all of your favourite beatmaps are given the *lovable* treatment they deserve!
-- We'd also like to take a moment to thank [Irisu](https://osu.ppy.sh/users/8595858) for her valuable contributions towards the development of the [Project Loved website](https://loved.sh/) and the task of making sure that descriptions are crispy clean, as she has decided to move on from the project. We wish her the best in her future endeavors!
+- We'd also like to take a moment to thank [Irisu](https://osu.ppy.sh/users/8595858) for her valuable contributions towards the development of the [Project Loved website](https://loved.sh/) and the task of making sure that descriptions are crispy clean, as she has decided to move on from the project. We wish her the best in her future endeavours!
 
 That should be it for now. Don't forget if you have any questions, or you're interested in participating in Project Loved discussions of a certain game mode, you can reach out in one of the Project Loved Discord servers listed below:
 
@@ -336,7 +336,7 @@ Do not lose contact: support Orca-'s second Loved entry by voting in the thread!
 
 As per usual, we have our monthly jack pick! This time around, by the hands of [Elementaires](https://osu.ppy.sh/users/2284328). While technically not new to Project Loved given their participation in [Moe Shop's <3](https://osu.ppy.sh/beatmapsets/502203#mania/1111137), this is their first standalone pick.
 
-People who have been in the community for a while may recall that this map was featured in the [osu!mania 4K World Cup 2018](/wiki/en/Tournaments/MWC/2018_4K#round-of-16). Time flies, doesn't it? Ever since then, it has garnered its fair share of popularity. For those who aren't aware of the chart, it's a run-of-the-mill, very varied and easy-going jack beatmap! While mostly chordjack, it plays around with several other ideas, which makes it all the more fun with rates while you jump from one segment to another, adapting your playstyle in the process.
+People who have been in the community for a while may recall that this map was featured in the [osu!mania 4K World Cup 2018](/wiki/Tournaments/MWC/2018_4K#round-of-16). Time flies, doesn't it? Ever since then, it has garnered its fair share of popularity. For those who aren't aware of the chart, it's a run-of-the-mill, very varied and easy-going jack beatmap! While mostly chordjack, it plays around with several other ideas, which makes it all the more fun with rates while you jump from one segment to another, adapting your playstyle in the process.
 
 We hope that the resurgence of a legacy chart as a chordjack pick is well received. As always, please let us know so we know what the community most expects moving on!
 
