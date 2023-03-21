@@ -96,7 +96,7 @@ With regards to staff roles, the following rules apply:
 
 - Streamers, commentators, and graphic designers may play in the tournament.
 - Eliminated players may be enlisted as referees, mappool playtesters, and/or replay creators.
-- Staff with any role not listed here, may not play in a badged tournament.
+- Staff with any role not listed here, may not play in a badged tournament — if you have any doubts, please contact [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 Users under an active tournament ban are expected to disclose their tournament ban status to any officially supported tournament they intend to help with. They may be enlisted as streamers, commentators, or graphic designers at the host's discretion, but we encourage careful consideration of such choices as said individuals have already infringed upon the rules once (or more). They may not act as any other staff role UNLESS the host requests an exemption for them when sending in their initial request for support. The account support team will then assess these on a case-by-case basis with the user's history in mind.
 
