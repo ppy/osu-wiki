@@ -10,7 +10,7 @@ tags:
 
 ![osu! Amateur Solo Indonesia Showdown logo](img/logo.jpg)
 
-The **osu! Amateur Solo Indonesia Showdown** (***oASIS/o!ASIS***) was a double-elimination 1v1 osu! tournament hosted by ::{ flag=ID }:: [Millie](https://osu.ppy.sh/users/3484548). The tournament was open to all players from Indonesia with a global rank of #10,000 or lower. It was the first instalment of the osu! Amateur Solo Indonesia Showdown tournament series.
+The **osu! Amateur Solo Indonesia Showdown** (***oASIS*** or ***o!ASIS***) was a double-elimination 1v1 osu! tournament hosted by ::{ flag=ID }:: [Millie](https://osu.ppy.sh/users/3484548). The tournament was open to all players from Indonesia with a global rank of #10,000 or lower. It was the first instalment of the osu! Amateur Solo Indonesia Showdown tournament series.
 
 ## Tournament schedule
 
