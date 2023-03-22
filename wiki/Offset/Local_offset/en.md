@@ -11,9 +11,14 @@ tags:
 
 ## Behaviour
 
-Local offset is customized on a per-beatmap basis. It works by shifting all gameplay elements relative to the audio track by a specificed amount of milliseconds. Negative values move objects earlier in time (closer to the beginning), while positive values move them later, which is notably different from how [universal offset](/wiki/Client/Options/Universal_offset) functions.
+Local offset is customised on a per-beatmap basis. It works by shifting all gameplay elements ([hit objects](/wiki/Gameplay/Hit_object), background [storyboards](/wiki/Storyboard) and videos, as well as storyboard sound samples) relative to the audio track by a specified amount of milliseconds:
 
-Most of the time, the local offset is best kept at 0 (provided that beatmaps have their timing set up correctly), unless individual hardware issues get in the way. In case of several players getting the same hit difference[^hit-difference], it is worth contacting a member of the [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team), who can confirm the issue and apply [online offset](/wiki/Offset/Online_offset) to fix it once and for all.
+- **Negative** values will move gameplay elements **earlier**.
+- **Positive** values will move gameplay elements **later**.
+
+Note that the [universal offset](/wiki/Client/Options/Universal_offset) shifts elements in the opposite direction.
+
+Most of the time, the local offset is best kept at 0 (provided that beatmaps have their timing set up correctly), unless individual hardware issues get in the way. In case of several players getting the same hit difference[^hit-difference], it is worth contacting a member of the [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team), who can confirm the issue and apply an [online offset](/wiki/Offset/Online_offset).
 
 ## Controls
 
@@ -34,4 +39,4 @@ osu! will also notify you of the local offset before starting gameplay.
 
 ## Notes and references
 
-[^hit-difference]: The required offset may be deduced either from the timings on the score meter<!-- TODO: link --> landing mostly in the same non-centered location, or from consistent [hit error](/wiki/Gameplay/Accuracy#error) values from the [results screen](/wiki/Client/Interface#results-screen).
+[^hit-difference]: The required offset may be deduced either from the timings on the score meter<!-- TODO: link --> landing mostly in the same non-centred location, or from consistent [hit error](/wiki/Gameplay/Accuracy#error) values from the [results screen](/wiki/Client/Interface#results-screen).

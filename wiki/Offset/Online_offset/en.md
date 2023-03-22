@@ -11,7 +11,10 @@ tags:
 
 ## Behaviour
 
-Online offset is customized for individual mistimed beatmaps by a website administrator or a member of tne [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team), and is automatically fetched by [osu!](/wiki/Client) together with the [leaderboards](/wiki/Ranking). Similarly to the local offset, it works by shifting all gameplay elements relative to the audio track by a specificed amount of milliseconds. Negative values move objects earlier in time (closer to the beginning), while positive values move them later.
+The online offset is customised for individual mistimed beatmaps by a website administrator or a member of the [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team), and is automatically fetched by osu! together with the [leaderboards](/wiki/Ranking). Similarly to the local offset, it works by shifting all gameplay elements relative to the audio track by a specified amount of milliseconds:
+
+- **Negative** values move gameplay elements **earlier**.
+- **Positive** values move gameplay elements **later**.
 
 All online offset values are stored locally for later use. This allows the values to be applied even if a player is playing offline as long as they have been connected to the internet prior to importing or playing the beatmap.
 
