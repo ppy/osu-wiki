@@ -10,11 +10,11 @@ date: 2023-03-22 11:00:00 +0000
 
 If you're done with all of the complex rhythm game songs and intense rock tracks that our latest Featured Artists provide, this artist is just for you.
 
-American electronic producer **Kenneyon** offers a modern upbeat sound with a focus on future-bass and related electronic subgenres, showcasing a refreshing style here in the osu! scene.
+American electronic producer **Kenneyon** offers a modern upbeat sound with a focus on future bass and related electronic subgenres, showcasing a refreshing style here in the osu! scene.
 
 [**Kenneyon**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/351) has most of the tools you need: **7** awesome tunes available as beatmap templates. You'll have to provide the mapping know-how, so good luck on that front.
 
-**Kenneyon** is a newcomer to the osu! scene, but anyone can recognize how their charming style could slot in with our community. Give these songs a genuine listen to see if you're interested in mapping something new:
+**Kenneyon** is a newcomer to the osu! scene, but anyone can recognise how their charming style could slot in with our community. Give these songs a genuine listen to see if you're interested in mapping something new:
 
 <div align="center">
     <video width="95%" controls>
