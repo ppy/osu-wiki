@@ -7,7 +7,14 @@ tags:
 
 *For other uses, see [Offset](/wiki/Offset).*
 
-**Online offset** is an offset that can be applied to a [beatmap](/wiki/Beatmap) after it is initially [ranked](/wiki/Beatmap/Category#ranked). This is usually done when a beatmap needs small timing changes to correctly line it up with the song. Online offset values are applied on top of a player's [universal offset](/wiki/Client/Options/Universal_offset) and [local offset](/wiki/Glossary/Local_song_offset) values.<!--technically it's universal offset -> online offset -> local offset but that's probably not worth mentioning here-->
+**Online offset** is an offset that can be applied to a [beatmap](/wiki/Beatmap) after it is initially [ranked](/wiki/Beatmap/Category#ranked). This is usually done when a beatmap needs small [timing](/wiki/Beatmapping/Timing) changes to correctly line it up with the song. Online offset values are applied on top of a player's [universal offset](/wiki/Client/Options/Universal_offset) and [local offset](/wiki/Glossary/Local_song_offset) values.
+
+## Behaviour
+
+The online offset is customised for individual mistimed beatmaps by a website administrator or a member of the [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team), and is automatically fetched by osu! together with the [leaderboards](/wiki/Ranking). Similarly to the local offset, it works by shifting all gameplay elements relative to the audio track by a specified amount of milliseconds:
+
+- **Negative** values move gameplay elements **earlier**.
+- **Positive** values move gameplay elements **later**.
 
 All online offset values are stored locally for later use. This allows the values to be applied even if a player is playing offline as long as they have been connected to the internet prior to importing or playing the beatmap.
 

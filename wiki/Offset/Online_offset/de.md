@@ -1,6 +1,8 @@
 ---
 tags:
   - online song offset
+outdated_translation: true
+outdated_since: c982b3d23c9577d6d0353a006ca6528771511319
 ---
 
 # Online-Offset
