@@ -2057,11 +2057,11 @@
 
 "offsets":                             "Offset"
 "disambiguation/offset":               "Offset"
+"beatmap_offset":                      "Offset"
+"beatmapping/offset":                  "Offset"
 "online_offset":                       "Offset/Online_offset"
 "online_song_offset":                  "Offset/Online_offset"
 "beatmap/online_offset":               "Offset/Online_offset"
-"beatmap_offset":                      "Offset/Beatmap_offset"
-"beatmapping/offset":                  "Offset/Beatmap_offset"
 "uo":                                  "Offset/Universal_offset"
 "universal_offset":                    "Offset/Universal_offset"
 "client/options/universal_offset":     "Offset/Universal_offset"
@@ -2069,3 +2069,8 @@
 "local_offset":                        "Offset/Local_offset"
 "local_song_offset":                   "Offset/Local_offset"
 "glossary/local_song_offset":          "Offset/Local_offset"
+
+# moved in #8595
+
+"beatmap/pattern/jump": "Beatmap/Pattern/osu!/Jump"
+"beatmap/pattern/stream": "Beatmap/Pattern/osu!/Stream"

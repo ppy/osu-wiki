@@ -100,7 +100,60 @@ The osu!taiko World Cup 2023 is run by various community members.
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad463970c6b5c22f623fcefd8d5e63d#file-twc-2023-player-list-csv). 
 
+## Match schedule: Round of 32
+
+### Saturday, 25 March 2023
+
+| Team A | Team B | Match time |
+| --: | :-- | :-- |
+| Italy ::{ flag=IT }:: | ::{ flag=AU }:: Australia | [Mar 25 (Sat) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230325T090000&p1=1440&p2=215&p3=57) |
+| Philippines ::{ flag=PH }:: | ::{ flag=RU }:: Russian Federation | [Mar 25 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230325T100000&p1=1440&p2=145&p3=166) |
+| Japan ::{ flag=JP }:: | ::{ flag=DK }:: Denmark | [Mar 25 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230325T110000&p1=1440&p2=248&p3=69) |
+| China ::{ flag=CN }:: | ::{ flag=NL }:: Netherlands | [Mar 25 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230325T120000&p1=1440&p2=33&p3=16) |
+| Germany ::{ flag=DE }:: | ::{ flag=AR }:: Argentina | [Mar 25 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230325T130000&p1=1440&p2=37&p3=51) |
+| Finland ::{ flag=FI }:: | ::{ flag=MX }:: Mexico | [Mar 25 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230325T160000&p1=1440&p2=101&p3=155) |
+| Brazil ::{ flag=BR }:: | ::{ flag=NO }:: Norway | [Mar 25 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230325T170000&p1=1440&p2=45&p3=187) |
+| United States ::{ flag=US }:: | ::{ flag=PT }:: Portugal | [Mar 25 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230325T180000&p1=1440&p2=263&p3=133) |
+| Canada ::{ flag=CA }:: | ::{ flag=PL }:: Poland | [Mar 25 (Sat) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230325T190000&p1=1440&p2=188&p3=262) |
+
+### Sunday, 26 March 2023
+
+| Team A | Team B | Match time |
+| --: | :-- | :-- |
+| South Korea ::{ flag=KR }:: | ::{ flag=SG }:: Singapore | [Mar 26 (Sun) 05:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230326T050000&p1=1440&p2=235&p3=236) |
+| Indonesia ::{ flag=ID }:: | ::{ flag=NZ }:: New Zealand | [Mar 26 (Sun) 07:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230326T070000&p1=1440&p2=108&p3=264) |
+| Taiwan ::{ flag=TW }:: | ::{ flag=VN }:: Vietnam | [Mar 26 (Sun) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230326T080000&p1=1440&p2=241&p3=95) |
+| United Kingdom ::{ flag=GB }:: | ::{ flag=HK }:: Hong Kong | [Mar 26 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230326T100000&p1=1440&p2=136&p3=102) |
+| Malaysia ::{ flag=MY }:: | ::{ flag=ES }:: Spain | [Mar 26 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230326T110000&p1=1440&p2=122&p3=141) |
+| France ::{ flag=FR }:: | ::{ flag=CH }:: Switzerland | [Mar 26 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230326T120000&p1=1440&p2=195&p3=270) |
+| Chile ::{ flag=CL }:: | ::{ flag=CZ }:: Czechia | [Mar 26 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230326T150000&p1=1440&p2=232&p3=204) |
+
 ## Mappools
+
+### Round of 32
+
+**[Download the mappack here (83 MB)](https://drive.google.com/uc?id=1iRH0Yk6l-l3xGbR8R-DmYPYoLGCd-VnF)**
+
+- No Mod
+  1. [Kola Kid - spaceman (Gamelan4) \[freedom\]](https://osu.ppy.sh/beatmapsets/1108777#taiko/2317154)
+  2. [Sobrem x Silentroom - Random (rubies87) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1627748#taiko/3323050)
+  3. [Rabbit House - Randa no Hen feat. Mitchell (fieryrage) \[i am the taiko player now\]](https://osu.ppy.sh/beatmapsets/1959471#taiko/4060306)
+  4. [Waterflame - Time Machine (Cut Ver.) (Fynbi) \[Shift\]](https://osu.ppy.sh/beatmapsets/1959541#taiko/4060422)
+- Hidden
+  1. [Yuyoyuppe - Kami no Kotoba (Cut Ver.) (Hivie) \[Sorrow (TWC Edit)\]](https://osu.ppy.sh/beatmapsets/1959510#taiko/4060369)
+  2. [MisoilePunch - Overrrload!! (iloveyou4ever) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1837749#taiko/3773552)
+- Hard Rock
+  1. [m108 - Crescent Sakura (Antti) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1449942#taiko/2981326)
+  2. [Se-U-Ra - F-Rozenette (ikin5050) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1959488#taiko/4060333)
+- Double Time
+  1. [Blue Stahli - Blue Stahli (Jaltzu) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1576838#taiko/3221023)
+  2. [wotoha - Digital Life Hacker (BlackBN) \[Irone's Oni\]](https://osu.ppy.sh/beatmapsets/1522733#taiko/3119398)
+- FreeMod
+  1. [Redside - Sidequest (Maimaing) \[Taikoquest\]](https://osu.ppy.sh/beatmapsets/1959473#taiko/4060309)
+  2. [Tokyo Machine - OKAY (trollocat) \[INNER ONI\]](https://osu.ppy.sh/beatmapsets/1198443#taiko/2495986)
+  3. [antiPLUR - One Life Left to Live (Nwolf) \[Last Stand\]](https://osu.ppy.sh/beatmapsets/1198823#taiko/2496686)
+- Tiebreaker
+  1. **[FRASER EDWARDS - The Reckoning (Garpo) \[Oni\]](https://osu.ppy.sh/beatmapsets/1959475#taiko/4060311)**
 
 ### Qualifiers
 
@@ -121,6 +174,53 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad
   2. [kakichoco - Hakudou (Nardoxyribonucleic) \[Oni\]](https://osu.ppy.sh/beatmapsets/1955347#taiko/4049875)
 - FreeMod
   1. [Zekk - ReIMEI (cdh) \[AsHITA\]](https://osu.ppy.sh/beatmapsets/1955236#taiko/4049602)
+
+## Match results
+
+### Qualifiers
+
+The final standings for the Qualifier stage can be found at the following [spreadsheet](https://docs.google.com/spreadsheets/d/1CbqJJuGEPjObjSS40BqfbZfi5On-osqtWECKq9BLGKE?rm=minimal).
+
+| Seed | Country | rank sum[^qualifiers-seeding] | avg. score[^qualifiers-tiebreaker] |
+| :-: | :-- | :-- | :-- |
+| #1 | ::{ flag=JP }:: Japan | 15 | 3,188,549 |
+| #2 | ::{ flag=US }:: United States | 38 | 3,150,243 |
+| #3 | ::{ flag=TW }:: Taiwan | 42 | 3,151,622 |
+| #4 | ::{ flag=IT }:: Italy | 64 | 3,108,182 |
+| #5 | ::{ flag=KR }:: South Korea | 65 | 3,133,854 |
+| #6 | ::{ flag=FR }:: France | 67 | 3,122,894 |
+| #7 | ::{ flag=GB }:: United Kingdom | 75 | 3,112,485 |
+| #8 | ::{ flag=CN }:: China | 78 | 3,106,324 |
+| #9 | ::{ flag=DE }:: Germany | 80 | 3,118,375 |
+| #10 | ::{ flag=CL }:: Chile | 90 | 3,102,489 |
+| #11 | ::{ flag=CA }:: Canada | 97 | 3,072,844 |
+| #12 | ::{ flag=BR }:: Brazil | 125 | 3,022,580 |
+| #13 | ::{ flag=FI }:: Finland | 127 | 3,048,516 |
+| #14 | ::{ flag=MY }:: Malaysia | 130 | 3,053,763 |
+| #15 | ::{ flag=ID }:: Indonesia | 162 | 2,948,985 |
+| #16 | ::{ flag=PH }:: Philippines | 166 | 2,909,632 |
+| #17 | ::{ flag=RU }:: Russian Federation | 169 | 2,890,699 |
+| #18 | ::{ flag=NZ }:: New Zealand | 184 | 2,923,327 |
+| #19 | ::{ flag=ES }:: Spain | 196 | 2,846,605 |
+| #20 | ::{ flag=MX }:: Mexico | 216 | 2,824,348 |
+| #21 | ::{ flag=NO }:: Norway | 217 | 2,778,873 |
+| #22 | ::{ flag=PL }:: Poland | 225 | 2,805,191 |
+| #23 | ::{ flag=CZ }:: Czechia | 237 | 2,747,543 |
+| #24 | ::{ flag=AR }:: Argentina | 237 | 2,712,566 |
+| #25 | ::{ flag=NL }:: Netherlands | 244 | 2,738,199 |
+| #26 | ::{ flag=HK }:: Hong Kong | 246 | 2,736,969 |
+| #27 | ::{ flag=CH }:: Switzerland | 247 | 2,692,935 |
+| #28 | ::{ flag=SG }:: Singapore | 271 | 2,626,553 |
+| #29 | ::{ flag=AU }:: Australia | 283 | 2,575,849 |
+| #30 | ::{ flag=VN }:: Vietnam | 295 | 2,498,277 |
+| #31 | ::{ flag=PT }:: Portugal | 297 | 2,513,787 |
+| #32 | ::{ flag=DK }:: Denmark | 312 | 2,309,432 |
+| #33 | ::{ flag=PE }:: Peru | 322 | 2,266,169 |
+| #34 | ::{ flag=CO }:: Colombia | 341 | 2,028,499 |
+| #35 | ::{ flag=EE }:: Estonia | 351 | 1,923,887 |
+| #36 | ::{ flag=LV }:: Latvia | 359 | 1,834,846 |
+| #37 | ::{ flag=AT }:: Austria | 360 | 1,771,295 |
+| #38 | ::{ flag=LT }:: Lithuania | 380 | 1,271,631 |
 
 ## Ruleset
 
@@ -266,3 +366,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad
    - **Do not ask for a reschedule unless it is absolutely necessary. The tournament managers reserve the right to deny any rescheduling request.**
    - Late reschedule requests will not be accepted under any circumstances.
 6. Captains are responsible for their team's availability.
+
+## Notes
+
+[^qualifiers-seeding]: Used as the main seeding method
+[^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rank sum
