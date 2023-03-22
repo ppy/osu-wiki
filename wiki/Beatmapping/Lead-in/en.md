@@ -8,12 +8,10 @@ tags:
 
 *See also: [Offset](/wiki/Offset)*
 
-The **lead-in** is a period of silence inserted at the beginning of a [beatmap](/wiki/Beatmap). It is designed to give players time to react to incoming [hit objects](/wiki/Hit_object) if a [mapper](/wiki/Beatmapping) has placed them close to the start of the song.
+The **lead-in** is the amount of time the game gives for players to react before the first [hit object](/wiki/Hit_object) of a [beatmap](/wiki/Beatmap). This can be customised by [mappers](/wiki/Beatmapping) by editing the `AudioLeadIn` field in a [beatmap difficulty](/wiki/Beatmap/Difficulty)'s [`.osu` file](/wiki/Client/File_formats/Osu_(file_format)), which contains the lead-in duration in milliseconds.
 
 ## Behaviour
 
-The minimal lead-in automatically[^automatic-note] used by osu! is 2 seconds. Custom, longer times may be used by editing the `AudioLeadIn` field of the [`.osu` file](/wiki/Client/File_formats/Osu_(file_format)), which contains the lead-in duration in milliseconds. Using custom lead-in is required by the [ranking criteria](/wiki/Ranking_Criteria#General) in case the beatmap contains a [storyboard](/wiki/Storyboard) and an epilepsy warning, which may potentially cover first hit objects.
+The minimum lead-in time automatically used by osu! is 1.8 seconds. With the lowest [approach rate](/wiki/Beatmap/Approach_rate) of 0, this is the amount of time a hit object becomes visible before it needs to be hit. Any [storyboard](/wiki/Storyboard) or video that plays before the first hit object may extend the lead-in time.<!-- internal reference: https://github.com/peppy/osu-stable-reference/blob/master/osu!/GameModes/Play/Player.cs#L1342-L1351 -->
 
-## Notes and references
-
-[^automatic-note]: [Forum thread by chimpalump "[resolved] Some Mania maps have excessive leadin [confirmed]", 2013-07-24](https://osu.ppy.sh/community/forums/topics/145043)
+Using a custom lead-in is required by the [ranking criteria](/wiki/Ranking_Criteria#general) in case the beatmap contains an epilepsy warning, which may potentially cover the first hit objects.
