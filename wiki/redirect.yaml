@@ -1489,11 +1489,12 @@
 "beatmap_submission_system":        "Beatmapping/Beatmap_submission"
 "submission":                       "Beatmapping/Beatmap_submission"
 
-"lead-in":                          "Beatmapping/Lead-in"
-"lead_in":                          "Beatmapping/Lead-in"
-"lead-in_time":                     "Beatmapping/Lead-in"
-"lead_in_time":                     "Beatmapping/Lead-in"
-"glossary/lead-in":                 "Beatmapping/Lead-in"
+"lead-in":                          "Beatmap/Lead-in_time"
+"lead_in":                          "Beatmap/Lead-in_time"
+"lead-in_time":                     "Beatmap/Lead-in_time"
+"lead_in_time":                     "Beatmap/Lead-in_time"
+"glossary/lead-in":                 "Beatmap/Lead-in_time"
+"beatmapping/lead-in":              "Beatmap/Lead-in_time"
 
 "mapping_technique":                "Beatmapping/Mapping_techniques"
 "map_techs":                        "Beatmapping/Mapping_techniques"
