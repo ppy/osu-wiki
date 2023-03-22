@@ -2,7 +2,7 @@
 
 Index page for articles about people or groups.
 
-- [Account Support Team](Account_Support_Team)
+- [Account support team](Account_support_team)
 - [Beatmap Nominators](Beatmap_Nominators)
 - [Beatmap Spotlight curators](Beatmap_Spotlight_Curators)
 - [Community Contributors](Community_Contributors)

@@ -35,7 +35,7 @@ The people listed below are the core of the **osu! team** and are chiefly respon
 | ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) | Modding and mapping scene advisor |
 | ::{ flag=AU }:: [Zallius](https://osu.ppy.sh/users/55) | Endangered species |
 
-In addition to the above, the [account support team](Account_support_team) is there to help with what is beyond the reach.
+In addition to the above, the [account support team](/wiki/People/Account_support_team) is there to help with what is beyond the reach.
 
 ## Inactive core team members
 
