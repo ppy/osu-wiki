@@ -4,6 +4,8 @@ tags:
   - badges
   - badged
   - Abzeichen
+outdated_translation: true
+outdated_since: 43f67096dc184164d6d4ec03e05a6da73eeac72f
 ---
 
 # Offizielle Turnierunterstützung
