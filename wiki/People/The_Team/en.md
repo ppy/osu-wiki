@@ -39,21 +39,6 @@ The people listed below are the core of the **osu! team** and are chiefly respon
 
 In addition to the above, the [account support team](Account_support_team) is there to help with what is beyond the reach.
 
-## User groups
-
-The following are user groups which are made up of the osu! community members that help maintain osu!. Most of these user groups can be recognised by their forum colours, in-game chat colours, profile titles, and/or profile badges.
-
-| Name | Description |
-| :-- | :-- |
-| [Beatmap Nominators](Beatmap_Nominators) | Users going above and beyond the call to ensure your maps get qualified |
-| [Beatmap Spotlight Curators](Beatmap_Spotlight_Curators) | Responsible for selecting high-quality maps for the [Beatmap Spotlights](/wiki/Beatmap_Spotlights) |
-| [Developers](Developers) | Making the game awesome by adding new features and fixing the bugs |
-| [Global Moderation Team](Global_Moderation_Team) | Keeping watch over the forums and in-game chat |
-| [Nomination Assessment Team](Nomination_Assessment_Team) | Managing the Beatmap Nominators |
-| [osu! Alumni](osu!_Alumni) | Those known for their contributions who have since moved on |
-| [Project Loved Team](Project_Loved_Team) | Recognising the beatmaps that the community loves most |
-| [Support Team](Support_Team) | Help / Feature Request assistance |
-
 ## Inactive core team members
 
 | Name | Role |
