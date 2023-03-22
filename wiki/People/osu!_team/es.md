@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: 7099cd48c3ad38ccf49bec40c04c9c505c297369
 tags:
   - osu! staff
   - osu!team
@@ -12,8 +14,6 @@ tags:
 ---
 
 # El Equipo
-
-*Para obtener una lista de promociones y retiros, véase: [Registro de personal](/wiki/Staff_Log)*
 
 Las personas que se enumeran a continuación son el núcleo del **equipo de osu!** y son los principales responsables de ayudar a que el juego sea increíble para todos.
 
@@ -42,21 +42,6 @@ Las personas que se enumeran a continuación son el núcleo del **equipo de osu!
 | ::{ flag=AU }:: [Zallius](https://osu.ppy.sh/users/55) | Especie en peligro |
 
 Además de lo anterior, el [equipo de soporte de cuentas](Account_support_team) está ahí para ayudar con lo que está fuera del alcance.
-
-## Grupos de usuarios
-
-Los siguientes son grupos de usuarios que están formados por miembros de la comunidad de osu! que ayudan a mantener osu!. La mayoría de estos grupos de usuarios se pueden reconocer por los colores del foro, los colores del chat en el juego, los títulos de perfil y/o las insignias de perfil.
-
-| Nombre | Descripción |
-| :-- | :-- |
-| [Beatmap Nominators](Beatmap_Nominators) | Usuarios que van más allá de la llamada para asegurarse de que sus mapas sean calificados |
-| [Beatmap Spotlight Curators](Beatmap_Spotlight_Curators) | Responsables de seleccionar mapas de alta calidad para [beatmaps destacados](/wiki/Beatmap_Spotlights) |
-| [Desarrolladores](Developers) | Haciendo que el juego sea increíble agregando nuevas funciones y corrigiendo los errores |
-| [Global Moderation Team](Global_Moderation_Team) | Vigilar los foros y el chat del juego |
-| [Nomination Assessment Team](Nomination_Assessment_Team) | Administrar a los Beatmap Nominators |
-| [osu! Alumni](osu!_Alumni) | Aquellos conocidos por sus contribuciones que desde entonces se han mudado |
-| [Project Loved Team](Project_Loved_Team) | Reconocer los beatmaps que más le gustan a la comunidad |
-| [Equipo de soporte](Support_Team) | Ayuda/Asistencia para solicitar funciones |
 
 ## Miembros del equipo central inactivos
 

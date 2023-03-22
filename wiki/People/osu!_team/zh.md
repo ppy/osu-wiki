@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: 7099cd48c3ad38ccf49bec40c04c9c505c297369
 no_native_review: true
 tags:
   - osu! staff
@@ -13,8 +15,6 @@ tags:
 ---
 
 # 团队
-
-*有关入职和离职的人员变动记录，参阅：[工作人员日志](/wiki/Staff_Log)*
 
 以下列出的玩家是 **osu! 团队** 的核心成员，他们致力于给大家带来更有趣的游戏。
 
@@ -41,21 +41,6 @@ tags:
 | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | 内容审核和社区顾问 |
 | ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) | 摸图和作图领域顾问 |
 | ::{ flag=AU }:: [Zallius](https://osu.ppy.sh/users/55) | 濒危物种（团队吉祥物） |
-
-## 用户组
-
-以下列出的玩家组由帮助维护 osu! 的社区成员组成。可以通过观察论坛、游戏内聊天、的用户名颜色或个人资料上列出的头衔和徽章来识别这些成员。
-
-| 名称 | 描述 |
-| :-- | :-- |
-| [谱面审核成员 (BN)](Beatmap_Nominators) | 能给你的谱面提供修改意见，变得更好从而进入上架状态的玩家 |
-| [聚光灯策展人 (BSC)](Beatmap_Spotlight_Curators) | 负责为[谱面聚光灯](/wiki/Beatmap_Spotlights)挑选高质量谱面的玩家 |
-| [开发者](Developers) | 添加更多功能，修复问题来提升游戏的趣味性的玩家 |
-| [全局管理团队 (GMT)](Global_Moderation_Team) | 管理论坛和聊天室的玩家 |
-| [审核评估团队 (NAT)](Nomination_Assessment_Team) | 管理所有谱面审核成员 (BN) 的玩家 |
-| [osu! 名人堂](osu!_Alumni) | 曾经为社区做出了杰出贡献的玩家 |
-| [社区喜爱计划 (Project Loved) 团队](Project_Loved_Team) | 挑选出社区内玩家喜爱谱面的玩家 |
-| [支持团队](Support_Team) | 处理帮助请求或新功能请求的玩家 |
 
 ## 不活跃的核心团队成员
 

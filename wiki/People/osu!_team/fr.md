@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: 7099cd48c3ad38ccf49bec40c04c9c505c297369
 tags:
   - osu! staff
   - osu!team
@@ -10,8 +12,6 @@ tags:
 ---
 
 # L'équipe
-
-*Pour une liste des promotions et des départs à la retraite, voir : [Staff Log](/wiki/Staff_Log)*
 
 Les personnes énumérées ci-dessous constituent le noyau de l'**équipe d'osu!** et sont principalement chargées d'aider à rendre le jeu génial pour tout le monde.
 
@@ -40,21 +40,6 @@ Les personnes énumérées ci-dessous constituent le noyau de l'**équipe d'osu!
 | ::{ flag=AU }:: [Zallius](https://osu.ppy.sh/users/55) | Espèce en voie de disparition |
 
 En plus de ce qui précède, l'[équipe de support aux comptes](Account_support_team) est là pour aider à résoudre les problèmes hors de portée.
-
-## Groupes d'utilisateurs
-
-Les groupes d'utilisateurs suivants sont constitués de membres de la communauté d'osu! qui contribuent à la maintenance d'osu!. La plupart de ces groupes d'utilisateurs peuvent être reconnus grâce à leurs couleurs sur le forum, aux couleurs du tchat en jeu, aux titres des profils et/ou aux badges des profils.
-
-| Nom | Description |
-| :-- | :-- |
-| [Beatmap Nominators](Beatmap_Nominators) | Des utilisateurs qui vont au-delà de ce qui est demandé pour s'assurer que vos beatmaps soient qualifiées. |
-| [Beatmap Spotlight Curators](Beatmap_Spotlight_Curators) | Responsables de la sélection de beatmaps de haute qualité pour le [Beatmap Spotlights](/wiki/Beatmap_Spotlights) |
-| [Developers](Developers) | Rendent le jeu génial en ajoutant de nouvelles fonctionnalités et en corrigeant les bugs. |
-| [Global Moderation Team](Global_Moderation_Team) | Surveillent les forums et le tchat en jeu. |
-| [Nomination Assessment Team](Nomination_Assessment_Team) | Gérent les Beatmap Nominators |
-| [osu! Alumni](osu!_Alumni) | Connus pour leur contribution et qui sont partis depuis lors |
-| [Project Loved Team](Project_Loved_Team) | Reconnaissent les beatmaps les plus appréciées par la communauté |
-| [Équipe du support](Support_Team) | Aident/Assistent aux demandes de fonctionnalités |
 
 ## Membres inactifs de l'équipe centrale
 

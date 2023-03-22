@@ -12,8 +12,6 @@ outdated_since: 1175fe79cab9897bca0e60ff7056c7a1a2510bfe
 
 # Teamet
 
-*För en lista över befodranden och avgångar, se: [Personallogg](/wiki/Staff_Log)*
-
 Personerna nedan är kärnan i **osu! teamet**och är främst ansvariga för att göra spelet fantastiskt för alla.
 
 | Namn | Roll<!-- TODO: "Featured Artist outreach" isn't a role but I'm not sure how to write it as one... --> |
@@ -38,20 +36,6 @@ Personerna nedan är kärnan i **osu! teamet**och är främst ansvariga för att
 | ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) | Project Loved ledare, communityrådgivare, Featured Artist outreach |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Allmän housekeeper, turneringsassistent |
 | ::{ flag=AU }:: [Zallius](https://osu.ppy.sh/users/55) | Utrotningshotade arter |
-
-## Användargrupper
-
-Följande är användargrupper som består av osu! communitymedlemmar som hjälper till att upprätthålla osu!. De flesta av dessa användargrupper kan kännas igenom sina forumfärger, chattfärger i spelet, profiltitlar och / eller profilbadges.
-
-| Namn | Beskrivning |
-| :-- | :-- |
-| [Beatmap Nominators](Beatmap_Nominators) | Användare som jobbar hårt för att säkerställa att dina beatmaps blir qualified. |
-| [Utvecklare](Developers) | Gör spelet fantastiskt genom att lägga till nya funktioner och fixa buggarna. |
-| [Global Moderation Team](Global_Moderation_Team) | Håller koll på forumet och in-game chatten |
-| [Nomination Assessment Team](Nomination_Assessment_Team) | Hanterar Beatmap-nominatorerna |
-| [osu! Alumni](osu!_Alumni) | De kända för sina bidrag som sedan har gått vidare |
-| [Project Loved Team](Project_Loved_Team) | Upptäcker och tar reda på beatmapsen som communityn älskar mest. |
-| [Support Team](Support_Team) | Hjälp / Feature Request support |
 
 ## Inaktiva kärnteamsmedlemmar
 

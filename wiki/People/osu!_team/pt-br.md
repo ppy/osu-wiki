@@ -11,8 +11,6 @@ outdated_since: 1175fe79cab9897bca0e60ff7056c7a1a2510bfe
 
 # A Equipe
 
-*Para uma lista de promoções e aposentamentos, veja: [Staff Log](/wiki/Staff_Log)*
-
 As pessoas listadas abaixo são o núcleo do **osu!team** e são principalmente responsáveis em ajudar a fazer o jogo incrível para todo mundo.
 
 | Nome | Função |
@@ -38,20 +36,6 @@ As pessoas listadas abaixo são o núcleo do **osu!team** e são principalmente 
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Faxineiro geral, assistente de torneio |
 | ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | Faxineiro geral, assistente de torneio, zelador da wiki |
 | ::{ flag=AU }:: [Zallius](https://osu.ppy.sh/users/55) | Espécie em extinção |
-
-## Grupos de usuário
-
-Os seguintes são grupos de usuário que são feitos de membros da comunidade do osu! que ajudaram a manter o jogo. A maioria desses grupos de usuário podem ser reconhecidos pelas cores de fórum, cores no chat dentro do jogo, títulos de perfil, e/ou medalhas de perfil.
-
-| Nome | Descrição |
-| :-- | :-- |
-| [Beatmap Nominators](Beatmap_Nominators) | Usuários indo além do chamado do dever para garantir que seus mapas sejam qualificados |
-| [Developers](Developers) | Fazendo o jogo incrível adicionando novas funções e consertando bugs |
-| [Global Moderation Team](Global_Moderation_Team) | Mantendo vigia sobre os forums e o chat do jogo |
-| [Nomination Assessment Team](Nomination_Assessment_Team) | Gerenciando os Beatmap Nominators |
-| [osu! Alumni](osu!_Alumni) | Aqueles conhecidos por suas contribuições que desde então seguiram com suas vidas |
-| [Project Loved Team](Project_Loved_Team) | Reconhecendo os beatmaps que a comunidade mais amam |
-| [Support Team](Support_Team) | Assistência de Ajuda / Solicitação de Funções |
 
 ## Membros do time principal inativos
 

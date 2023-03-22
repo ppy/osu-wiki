@@ -12,8 +12,6 @@ outdated_since: 1175fe79cab9897bca0e60ff7056c7a1a2510bfe
 
 # Zespół
 
-*Sprawdź [„Dziennik zmian w zespole”](/wiki/Staff_Log), by dowiedzieć się więcej o tym, jak zmieniał się skład zespołu.*
-
 Użytkownicy wymienieni poniżej należą do **zespołu osu!** i są odpowiedzalni za zarządzanie grą i społecznością.
 
 | Użytkownik | Rola |
@@ -39,20 +37,6 @@ Użytkownicy wymienieni poniżej należą do **zespołu osu!** i są odpowiedzal
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Pomoc ogólna, organizowanie turniejów |
 | ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | Pomoc ogólna, organizowanie turniejów, zarządzanie wiki |
 | ::{ flag=AU }:: [Zallius](https://osu.ppy.sh/users/55) | Gatunki zagrożone wyginięciem |
-
-## Grupy użytkowników
-
-Poniżej przedstawiono grupy użytkowników osu!, którzy swoimi działaniami wspierają rozwój gry. Większość z nich można rozpoznać poprzez kolor nazwy użytkownika na czacie i forum, tytuł na profilu lub odznakę.
-
-| Nazwa | Opis |
-| :-- | :-- |
-| [Nominatorzy beatmap](Beatmap_Nominators) | Modowanie i kwalifikowanie beatmap |
-| [Programiści](Developers) | Poprawianie gry poprzez naprawę błędów i dodawanie nowych funkcji |
-| [Moderatorzy globalni](Global_Moderation_Team) | Sprawowanie nadzoru nad czatem i forum |
-| [Zespół zapewniania jakości](Nomination_Assessment_Team) | Zarządzanie zespołem nominatorów beatmap |
-| [Alumni osu!](osu!_Alumni) | Użytkownicy, którzy zapisali się w historii osu! |
-| [Zespół Project Loved](Project_Loved_Team) | Zarządzanie ulubionymi beatmapami społeczności |
-| [Pomoc techniczna](Support_Team) | Odpowiadanie na pytania i prośby |
 
 ## Nieaktywni członkowie zespołu
 

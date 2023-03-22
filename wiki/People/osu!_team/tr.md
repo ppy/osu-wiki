@@ -13,8 +13,6 @@ tags:
 
 # Ekip
 
-*Kimlerin terfi ettiğini veya emekliye ayrıldığını öğrenmek için, buraya bakın: [Personel Kayıtları](/wiki/Staff_Log)*
-
 Aşağıdaki listelenen kişiler osu! ekibinin çekirdek kadrosunu oluşturmakta, ve oyunu herkes için harika hale getirmekten sorumludur.
 
 | İsim | Rol Tanımı |
@@ -42,20 +40,6 @@ Aşağıdaki listelenen kişiler osu! ekibinin çekirdek kadrosunu oluşturmakta
 | ::{ flag=AU }:: [Zallius](https://osu.ppy.sh/users/55) | Tehlike altındaki tür |
 
 Yukarıdakilere ek olarak, [hesap destek ekibi](Account_support_team) erişiminizin ötesindeki konularda size yardımcı olmak için bulunurlar.
-
-## Kullanıcı grupları
-
-Aşağıdakiler osu!'nun sürdürülmesine yardımcı olan osu! topluluk üyelerinden oluşturulmuş kullanıcı gruplarıdır. Bu kullanıcıların çoğu forumdaki renklerinden, oyun-içi sohbet renklerinden, profil ünvanları, ve/veya profil rozetlerinden ayırt edilebilir.
-
-| İsim | Rol Tanımı |
-| :-- | :-- |
-| [Beatmap Aday Göstericiler](Beatmap_Nominators) | Maplerinizin nitelikli olması için canla başla çalışırlar |
-| [Geliştiriciler](Developers) | Yeni özellikler ekleyerek ve hataları düzelterek oyunu güzelleştirirler |
-| [Küresel Moderasyon Takımı](Global_Moderation_Team) | Forumları ve oyun-içi sohbeti gözetlerler |
-| [Aday Gösterme Denetleme Takımı](Nomination_Assessment_Team) | Beatmap Aday Göstericileri yönetirler |
-| [osu! Alumni](osu!_Alumni) | Katkılarından ötürü asla unutulmayanlar |
-| [Project Loved Takımı](Project_Loved_Team) | Topluluğun en sevdiği beatmapleri bulurlar |
-| [Destek Ekibi](Support_Team) | Yardım / Özellik Talebi desteği |
 
 ## İnaktif çekirdek kadro üyeleri
 
