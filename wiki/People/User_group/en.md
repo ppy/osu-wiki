@@ -11,6 +11,8 @@ tags:
 
 Listed below are **user groups**, most of which are made up of osu! community members that help maintain osu!. Most of these user groups can be recognised by their [forum](/wiki/Community/Forum) colours, [in-game chat](/wiki/Client/Interface/Chat_console) colours, [user titles](/wiki/Community/User_title), and/or user group badges.
 
+Clicking the badges will lead to the respective group listings, while the names link to the wiki articles.
+
 | ID | Badge | Name | Description |
 | :-: | :-: | :-- | :-- |
 | 4 | [![GMT](/wiki/shared/group/GMT.png)](https://osu.ppy.sh/groups/4) | [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) | Keeping watch over the forums and in-game chat |
