@@ -2068,3 +2068,8 @@
 "local_offset":                        "Offset/Local_offset"
 "local_song_offset":                   "Offset/Local_offset"
 "glossary/local_song_offset":          "Offset/Local_offset"
+
+# moved in #8595
+
+"beatmap/pattern/jump": "Beatmap/Pattern/osu!/Jump"
+"beatmap/pattern/stream": "Beatmap/Pattern/osu!/Stream"
