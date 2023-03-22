@@ -5,11 +5,11 @@ tags:
 
 # User group
 
-*Notice: The Chat Bot and Announce user group listings are not public.*
+*Note: The Chat Bot and Announce user group listings are not public.*
 
 ![User group badge example](img/user-group-badge.png "User group badge on a user's profile page")
 
-Listed below are **user groups**, most of which are made up of osu! community members that help maintain osu!. Most of these user groups can be recognised by their forum colours, in-game chat colours, profile titles, and/or user group badges.
+Listed below are **user groups**, most of which are made up of osu! community members that help maintain osu!. Most of these user groups can be recognised by their [forum](/wiki/Community/Forum) colours, [in-game chat](/wiki/Client/Interface/Chat_console) colours, [user titles](/wiki/Community/User_title), and/or user group badges.
 
 | ID | Badge | Name | Description |
 | :-: | :-: | :-- | :-- |
