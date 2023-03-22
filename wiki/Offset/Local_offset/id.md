@@ -1,5 +1,6 @@
 ---
-stub: true
+outdated_translation: true
+outdated_since: 0529dd5b3a87b4708c0f80355fa3610c34629973
 ---
 
 # Offset lokal
