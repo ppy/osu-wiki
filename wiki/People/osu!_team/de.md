@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: 7099cd48c3ad38ccf49bec40c04c9c505c297369
 no_native_review: true
 tags:
   - osu! staff
@@ -9,8 +11,6 @@ tags:
 ---
 
 # Das Team
-
-*Für eine Liste der Beförderungen und Rücktritte, siehe: [Mitarbeiter-Log](/wiki/Staff_Log)*
 
 Die unten aufgeführten Personen bilden den Kern des **osu!-Teams** und sind hauptverantwortlich dafür, dass das Spiel für alle großartig ist.
 
@@ -39,21 +39,6 @@ Die unten aufgeführten Personen bilden den Kern des **osu!-Teams** und sind hau
 | ::{ flag=AU }:: [Zallius](https://osu.ppy.sh/users/55) | Gefährdete Art |
 
 Darüber hinaus ist das [Account-Support-Team](Account_support_team) da, um bei den Dingen zu helfen, die außerhalb der Reichweite liegen.
-
-## Benutzergruppen
-
-Die folgenden Benutzergruppen bestehen aus Mitgliedern der osu!-Community, die helfen, osu! zu erhalten. Die meisten dieser Benutzergruppen sind an den jeweiligen Farben im Forum, Chatfarben im Spiel, Profiltiteln und/oder Profilabzeichen zu erkennen.
-
-| Name | Beschreibung |
-| :-- | :-- |
-| [Beatmap Nominators](Beatmap_Nominators) | Sorgen dafür, dass deine Beatmap in den "qualifiziert"-Status kommt |
-| [Beatmap Spotlight Curators](Beatmap_Spotlight_Curators) | Verantwortlich für das Auswählen hochqualitativer Beatmaps für die [Beatmap Spotlights](/wiki/Beatmap_Spotlights) |
-| [Entwickler](Developers) | Machen das Spiel besser, indem sie neue Inhalte zum Spiel hinzufügen und Fehler beheben |
-| [Global Moderation Team](Global_Moderation_Team) | Behalten die Übersicht über die Foren und den Spiel-Chat |
-| [Nomination Assessment Team](Nomination_Assessment_Team) | Verwaltung der Beatmap Nominators |
-| [osu! Alumni](osu!_Alumni) | Diejenigen, die für ihre Beiträge bekannt sind und inzwischen weitergezogen sind |
-| [Project Loved Team](Project_Loved_Team) | Erkennen der Beatmaps, die die Community am meisten liebt |
-| [Support-Team](Support_Team) | Hilfe / Feature-Request Unterstützung |
 
 ## Inaktive Mitglieder des Kernteams
 

@@ -11,8 +11,6 @@ tags:
 
 # Tim
 
-*Untuk rekam jejak anggota yang dipromosikan ke dan dipensiunkan dari jajaran staf osu! seiring waktu, harap lihat: [Staff Log](/wiki/Staff_Log)*
-
 Nama-nama yang tercantum di bawah ini merupakan anggota **tim inti osu!** yang bertanggung jawab secara langsung untuk menjadikan osu! permainan yang istimewa bagi semua.
 
 | Nama | Peran |
@@ -40,20 +38,6 @@ Nama-nama yang tercantum di bawah ini merupakan anggota **tim inti osu!** yang b
 | ::{ flag=AU }:: [Zallius](https://osu.ppy.sh/users/55) | Spesies yang terancam punah |
 
 Di samping nama-nama di atas, osu! juga memiliki [tim dukungan akun](Account_support_team) (*account support team*) yang bergerak secara terpisah untuk menangani berbagai permasalahan yang bersifat pribadi.
-
-## Kelompok pengguna
-
-osu! memiliki berbagai kelompok pengguna (*user group*) yang tersusun atas para anggota komunitas terpilih dengan tanggung jawab dan fungsinya masing-masing. Pada umumnya, anggota kelompok pengguna tertentu dapat dikenali dari warna khusus pada forum dan kanal obrolan serta gelar dan/atau lencana khusus yang mereka miliki.
-
-| Nama | Deskripsi |
-| :-- | :-- |
-| [Beatmap Nominator](Beatmap_Nominators) | Menjaga standar kualitas beatmap dan mendorong beatmap yang dianggap layak ke dalam kategori Qualified |
-| [Developer](Developers) | Membuat osu! tampil menawan dengan mewujudkan berbagai fitur baru dan memastikan osu! bebas dari *bug* |
-| [Global Moderation Team](Global_Moderation_Team) | Mengawasi forum dan kanal obrolan |
-| [Nomination Assessment Team](Nomination_Assessment_Team) | Mengevaluasi kinerja Beatmap Nominator |
-| [osu! Alumni](osu!_Alumni) | Para pendahulu yang telah banyak berjasa pada masanya |
-| [Project Loved Team](Project_Loved_Team) | Mengukuhkan beatmap yang dicintai oleh komunitas |
-| [Support Team](Support_Team) | Memberikan bantuan pada sub-forum Help dan Feature Request |
 
 ## Anggota tim inti osu! yang kini sudah tidak lagi aktif
 
