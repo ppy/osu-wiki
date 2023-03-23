@@ -1,10 +1,10 @@
 # Becoming a Beatmap Nominator
 
-Users interested in joining the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) need to go through an application process overseen by the [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (NAT).
+Users interested in joining the [Beatmap Nominators](/wiki/People/Beatmap_Nominators) need to go through an application process overseen by the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (NAT).
 
 Applications are conducted via the [BN website](https://bn.mappersguild.com/bnapps).
 
-Applicants are required to meet a minimum [kudosu](/wiki/Modding/Kudosu) threshold, submit at least two [beatmaps](/wiki/Beatmap) they have recently [modded](/wiki/Modding), and complete a [Beatmap Nominator Test](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) on the [ranking criteria](/wiki/Ranking_Criteria) in order to submit their application. A message from the NAT will be sent once a verdict has been decided. More information on applying can be found [on the website](https://bn.mappersguild.com/bnapps).
+Applicants are required to meet a minimum [kudosu](/wiki/Modding/Kudosu) threshold, submit at least two [beatmaps](/wiki/Beatmap) they have recently [modded](/wiki/Modding), and complete a [Beatmap Nominator Test](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test) on the [ranking criteria](/wiki/Ranking_Criteria) in order to submit their application. A message from the NAT will be sent once a verdict has been decided. More information on applying can be found [on the website](https://bn.mappersguild.com/bnapps).
 
 ## Basic criteria
 
@@ -42,7 +42,7 @@ The following are modding traits expected of Beatmap Nominators. Failure to disp
 
 ![Application flowchart](img/ApplicationFlowchart.png "Flowchart outlining the Beatmap Nominator application process")
 
-Every application submitted to the BN website that passes the [Beatmap Nominator Test](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) will be reviewed by evaluators to determine whether or not the applicant can enter the Beatmap Nominator group.
+Every application submitted to the BN website that passes the [Beatmap Nominator Test](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test) will be reviewed by evaluators to determine whether or not the applicant can enter the Beatmap Nominator group.
 
 When a user applies to become a BN, the NAT will be notified via the "bnsite" Discord bot in their respective Discord channel. The notification will include the applicant's name and test score, as well as which evaluators have been assigned to the application.
 
@@ -74,7 +74,7 @@ At this stage, the comments and votes from each evaluator are revealed to the ot
 
 Feedback is then written based on the comments of the evaluators and the application result is sent back to the applicant by the [mappersguild bot](https://osu.ppy.sh/users/23648635) as an osu! chat message, after which the evaluation will be archived for future reference. Successful applicants are added as a probationary BN immediately after the result is sent.
 
-In the case of [failed applications](/wiki/People/The_Team/Beatmap_Nominators/Becoming_a_Beatmap_Nominator#failed-applications), the NAT will also determine the length of the user's [cooldown](#failed-applications) before they may apply again. In case it is reduced from the standard cooldown duration, the conditions will be indicated in the feedback sent to the applicant.
+In the case of [failed applications](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator#failed-applications), the NAT will also determine the length of the user's [cooldown](#failed-applications) before they may apply again. In case it is reduced from the standard cooldown duration, the conditions will be indicated in the feedback sent to the applicant.
 
 ## Cooldowns
 
@@ -88,7 +88,7 @@ You have these requirements if you failed a Beatmap Nominator application and ap
 | :-- | :-- |
 | Standard | 90 days |
 | Reduced | 45–60 days |
-| Failed the [Beatmap Nominator Test](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) | 30 days |
+| Failed the [Beatmap Nominator Test](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test) | 30 days |
 
 The cooldown may be reduced for applicants with relatively few issues they need to work on before becoming a Beatmap Nominator.
 
@@ -106,6 +106,6 @@ If you were a Beatmap Nominator before, these requirements apply unless you have
 
 The 8-mod requirement for those applying after being removed for activity is shared across all modes.
 
-Former beatmap nominators who resigned on good terms within the past 6 months are given the option to instantly request a rejoin as a full member, without having to take the [Beatmap Nominator Test](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test), nor provide mods for evaluation.
+Former beatmap nominators who resigned on good terms within the past 6 months are given the option to instantly request a rejoin as a full member, without having to take the [Beatmap Nominator Test](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test), nor provide mods for evaluation.
 
 Former Beatmap Nominators who resigned on good terms within the past year still have to reapply properly in order to rejoin, and they will become full members immediately upon getting accepted.

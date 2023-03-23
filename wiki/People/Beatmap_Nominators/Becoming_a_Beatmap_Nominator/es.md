@@ -5,11 +5,11 @@ outdated_since: eae3775c73509625064d00690d2fd605d3a8da2f
 
 # Convertirse en Beatmap Nominator
 
-Los usuarios interesados en unirse a los [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) deben pasar por un proceso de solicitud supervisado por el [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (NAT).
+Los usuarios interesados en unirse a los [Beatmap Nominators](/wiki/People/Beatmap_Nominators) deben pasar por un proceso de solicitud supervisado por el [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (NAT).
 
 Las solicitudes se realizan a través del [sitio web del NAT](http://bn.mappersguild.com/bnapps).
 
-Los solicitantes deben cumplir con un umbral mínimo de [kudosu](/wiki/Modding/Kudosu), enviar al menos dos mapas que hayan moddeado recientemente y completar una [prueba de Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) en los [criterios de clasificación](/wiki/Ranking_Criteria) para enviar su solicitud. Se enviará un mensaje del NAT una vez que se haya decidido un veredicto. Puede encontrar más información sobre la aplicación en el sitio web.
+Los solicitantes deben cumplir con un umbral mínimo de [kudosu](/wiki/Modding/Kudosu), enviar al menos dos mapas que hayan moddeado recientemente y completar una [prueba de Beatmap Nominator](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test) en los [criterios de clasificación](/wiki/Ranking_Criteria) para enviar su solicitud. Se enviará un mensaje del NAT una vez que se haya decidido un veredicto. Puede encontrar más información sobre la aplicación en el sitio web.
 
 ## Criterios básicos
 
@@ -51,7 +51,7 @@ Tienes estos requisitos si no pasaste una solicitud de Beatmap Nominator y vuelv
 | :-- | :-- |
 | Estándar | 90 días |
 | Reducido | 45–60 días |
-| Falló la [prueba de Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) | 30 días |
+| Falló la [prueba de Beatmap Nominator](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test) | 30 días |
 
 ### Volver a unirse después de haber sido eliminado de los Beatmap Nominators
 
@@ -67,6 +67,6 @@ El requisito de 8 mods para aquellos que solicitan después de ser eliminados po
 | Actividad | 30 days | 8 mods en 60 días |
 | Buena | 30 days | *n/a* |
 
-Los antiguos Beatmap Nominators que renunciaron en buenos términos en los últimos 6 meses tienen la opción de solicitar instantáneamente volver a unirse como miembros completos, sin tener que realizar la [prueba de Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test), ni proporcionar mods para la evaluación.
+Los antiguos Beatmap Nominators que renunciaron en buenos términos en los últimos 6 meses tienen la opción de solicitar instantáneamente volver a unirse como miembros completos, sin tener que realizar la [prueba de Beatmap Nominator](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test), ni proporcionar mods para la evaluación.
 
 Los antiguos Beatmap Nominators que renunciaron en buenos términos durante el año pasado todavía tienen que volver a presentar la solicitud correctamente para volver a unirse, y se convertirán en miembros completos inmediatamente después de ser aceptados.

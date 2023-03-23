@@ -5,11 +5,11 @@ outdated_since: eae3775c73509625064d00690d2fd605d3a8da2f
 
 # 成为 BN
 
-想要加入[谱面审核团队 (BN)](/wiki/People/The_Team/Beatmap_Nominators) 的玩家需要在[审核评估团队 (NAT)](/wiki/People/The_Team/Nomination_Assessment_Team) 成员的监管下通过 BN 申请程序。
+想要加入[谱面审核团队 (BN)](/wiki/People/Beatmap_Nominators) 的玩家需要在[审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) 成员的监管下通过 BN 申请程序。
 
 BN 申请程序于 [NAT 官网](http://bn.mappersguild.com/bnapps)进行。
 
-想要通过 BN 申请，玩家需要达到 [kudosu](/wiki/Modding/Kudosu) 数量要求，提交两张自己摸过的谱面的链接，并完成基于[谱面上架标准 (RC)](/wiki/Ranking_Criteria) 而设立的 [BN 考试](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test)。一旦结果确定，NAT 会给你发送一条信息。关于申请的更多信息已在网页内列出。
+想要通过 BN 申请，玩家需要达到 [kudosu](/wiki/Modding/Kudosu) 数量要求，提交两张自己摸过的谱面的链接，并完成基于[谱面上架标准 (RC)](/wiki/Ranking_Criteria) 而设立的 [BN 考试](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test)。一旦结果确定，NAT 会给你发送一条信息。关于申请的更多信息已在网页内列出。
 
 ## 基础标准
 
@@ -51,7 +51,7 @@ BN 申请程序于 [NAT 官网](http://bn.mappersguild.com/bnapps)进行。
 | :-- | :-- |
 | 常规 (Standard) | 90 天 |
 | 缩短 (Reduced) | 45-60 天 |
-| 未通过 [BN 考试](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) | 30 天 |
+| 未通过 [BN 考试](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test) | 30 天 |
 
 ### 在离开后重回 BN 团队
 
@@ -67,6 +67,6 @@ BN 申请程序于 [NAT 官网](http://bn.mappersguild.com/bnapps)进行。
 | 活跃度不足 (Activity) | 30 天 | 在 60 天内提交 8 条摸 |
 | 良好 (Good) | 30 天 | *N/A* |
 
-对于在过去 6 个月内正常辞职的前 BN，可以在申请受理后，立即升为正式 BN。无需参加 [BN 考试](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test)和提交用于评估的摸。
+对于在过去 6 个月内正常辞职的前 BN，可以在申请受理后，立即升为正式 BN。无需参加 [BN 考试](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test)和提交用于评估的摸。
 
 对于在过去一年内正常辞职的前 BN，想要重回团队时，依旧需要提交申请。但是只要申请通过，他们将立即升为正式 BN。

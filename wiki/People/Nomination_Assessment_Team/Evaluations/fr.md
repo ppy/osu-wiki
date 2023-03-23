@@ -1,6 +1,6 @@
 # Évaluations des Beatmap Nominators
 
-Les évaluations de ceux qui demandent à devenir [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators) (*BN*) ainsi que des Beatmap Nominators actuels sont effectuées par les membres de la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (*NAT*). Ces évaluations suivent un format défini afin de garantir que chaque candidature et chaque nominateur seront examinés régulièrement. Toutes les évaluations ont lieu sur le [site web de la NAT](https://bn.mappersguild.com/).
+Les évaluations de ceux qui demandent à devenir [Beatmap Nominator](/wiki/People/Beatmap_Nominators) (*BN*) ainsi que des Beatmap Nominators actuels sont effectuées par les membres de la [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (*NAT*). Ces évaluations suivent un format défini afin de garantir que chaque candidature et chaque nominateur seront examinés régulièrement. Toutes les évaluations ont lieu sur le [site web de la NAT](https://bn.mappersguild.com/).
 
 Chaque évaluation comporte deux phases : *individuelle* et *groupe*. Ces phases diffèrent dans les détails de leur fonctionnement pour les candidatures ou les évaluations régulières des BN et seront détaillées ci-dessous.
 
@@ -14,7 +14,7 @@ Les références à Discord dans cet article se rapportent au serveur Discord de
 
 Chaque BN est examiné régulièrement par les membres de la NAT.
 
-Pour les Beatmap Nominators en [probation](/wiki/People/The_Team/Beatmap_Nominators#beatmap-nominators-probatoires), ou qui ont reçu un avertissement d'[activité](/wiki/People/The_Team/Beatmap_Nominators/Rules#activité), leur prochaine évaluation sera programmée environ 1 mois après avoir été mis en probation ou avoir reçu leur avertissement.
+Pour les Beatmap Nominators en [probation](/wiki/People/Beatmap_Nominators#beatmap-nominators-probatoires), ou qui ont reçu un avertissement d'[activité](/wiki/People/Beatmap_Nominators/Rules#activité), leur prochaine évaluation sera programmée environ 1 mois après avoir été mis en probation ou avoir reçu leur avertissement.
 
 Pour les Beatmap Nominators sans avertissements récents, leurs évaluations seront programmées tous les 3 mois.
 
@@ -24,7 +24,7 @@ Tout comme les candidatures, les évaluations actuelles des BN sont attribuées 
 
 ### Phase individuelle
 
-La phase individuelle sera affichée sur le site web des BN deux semaines avant l'échéance, ce qui permettra aux membres de la NAT de savoir quelles évaluations sont à venir afin de les aider à gérer leur charge de travail de manière appropriée. Au cours de la phase individuelle, les membres de la NAT peuvent soumettre leurs évaluations sur la performance du Beatmap Nominator. Ces évaluations tiendront compte des nominations du BN, des éventuelles réinitialisations de nominations qui ont eu lieu sur leurs nominations, ainsi que du modding global du BN sur un échantillon de ses beatmaps nominées. Les membres de la NAT vérifieront également si le BN respecte les [règles pour les Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators/Rules) et les [attentes](/wiki/People/The_Team/Beatmap_Nominators/Expectations) de manière appropriée.
+La phase individuelle sera affichée sur le site web des BN deux semaines avant l'échéance, ce qui permettra aux membres de la NAT de savoir quelles évaluations sont à venir afin de les aider à gérer leur charge de travail de manière appropriée. Au cours de la phase individuelle, les membres de la NAT peuvent soumettre leurs évaluations sur la performance du Beatmap Nominator. Ces évaluations tiendront compte des nominations du BN, des éventuelles réinitialisations de nominations qui ont eu lieu sur leurs nominations, ainsi que du modding global du BN sur un échantillon de ses beatmaps nominées. Les membres de la NAT vérifieront également si le BN respecte les [règles pour les Beatmap Nominators](/wiki/People/Beatmap_Nominators/Rules) et les [attentes](/wiki/People/Beatmap_Nominators/Expectations) de manière appropriée.
 
 ### Phase de groupe
 

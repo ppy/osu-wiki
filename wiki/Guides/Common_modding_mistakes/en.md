@@ -1,6 +1,6 @@
 # Common modding mistakes
 
-*See also: [Becoming a Beatmap Nominator § Modding expectations](/wiki/People/The_Team/Beatmap_Nominators/Becoming_a_Beatmap_Nominator)*
+*See also: [Becoming a Beatmap Nominator § Modding expectations](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator)*
 
 This guide will show examples of common mistakes beginner [modders](/wiki/Modding/Modder) often make when they [mod](/wiki/Modding) a [beatmap](/wiki/Beatmap).
 
