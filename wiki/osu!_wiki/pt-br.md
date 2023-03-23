@@ -23,7 +23,7 @@ Traduções em diferentes línguas estão disponíveis para alguns artigos. Elas
 
 ## Modelo
 
-O osu! wiki é construído em torno de um conceito de acessibilidade: edições e traduções são encorajadas e podem ser feitas por qualquer pessoa capaz e conhecedora. Os dados dos artigos estão armazenados em um [repositório GitHub](https://github.com/ppy/osu-wiki) e atualizados pelos colaboradores através de [pull requests](/wiki/osu!_wiki/Contribution_guide), que são posteriormente revistos e fundidos pelos [mantedores da wiki](/wiki/osu!_wiki/Maintenance/List_of_maintainers).
+O osu! wiki é construído em torno de um conceito de acessibilidade: edições e traduções são encorajadas e podem ser feitas por qualquer pessoa capaz e conhecedora. Os dados dos artigos estão armazenados em um [repositório GitHub](https://github.com/ppy/osu-wiki) e atualizados pelos colaboradores através de [pull requests](/wiki/osu!_wiki/Contribution_guide), que são posteriormente revistos e fundidos pelos [mantedores da wiki](/wiki/People/osu!_wiki_maintainers).
 
 Os artigos são editados usando [GitHub-flavoured Markdown](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/). Adicionalmente, o motor do website implementa características personalizadas cruciais para o wiki como um todo, tais como redirecionamentos, elementos principais, ou melhorias de formatação.<!-- TODO: article on custom features of the wiki? it could help us ease the ASC a bit as well -->
 

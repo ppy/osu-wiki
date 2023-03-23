@@ -9,7 +9,7 @@ tags:
 
 ![RD 模组图标](/wiki/shared/mods/RD.png "Random (RD) 模组图标")
 
-*对于所有模组的列表，参见：[游戏模组 (Mods)](/wiki/Game_modifier)*
+*对于所有模组的列表，参见：[游戏模组 (Mods)](/wiki/Gameplay/Game_modifier)*
 
 ## 关于
 
@@ -22,7 +22,7 @@ tags:
 
 ## 说明
 
-**Random** [游戏模组](/wiki/Game_modifier)用于 [osu!mania](/wiki/Game_mode/osu!mania) 中，在每次游玩谱面时重排音符位置，旨在给予玩家有趣快乐的体验。此模组不会改变音符长度。
+**Random** [游戏模组](/wiki/Gameplay/Game_modifier)用于 [osu!mania](/wiki/Game_mode/osu!mania) 中，在每次游玩谱面时重排音符位置，旨在给予玩家有趣快乐的体验。此模组不会改变音符长度。
 
 ![RD 模组下的 osu!mania 游玩界面](img/RD-comparison-mania.jpg "osu!mania 正常游玩（左图）与 Random 模组启用后（右图）的界面对比")
 

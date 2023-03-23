@@ -18,7 +18,7 @@ Você poder ver os círculos na parte inferior da tela, e no topo da tela você 
 
 *Explicação completa: [osu! Standard](/wiki/Game_mode/osu!)*
 
-como a maioria dos usuários de computadores não possuem tela touchscreen, o jogo foi feito para ser jogado com mouse. Algumas musicas passam do limite do que podemos considerar Jogável com apenas o mouse, mas a maioria das musicas ranqueadas são jogáveis com apenas mouse, para musicas mais difíceis é mais apropriado usar o teclado junto. Existem outros tipos de dispositivos que podem ser usados para jogar, visite [Play Styles](/wiki/Play_style) para mais informação.
+como a maioria dos usuários de computadores não possuem tela touchscreen, o jogo foi feito para ser jogado com mouse. Algumas musicas passam do limite do que podemos considerar Jogável com apenas o mouse, mas a maioria das musicas ranqueadas são jogáveis com apenas mouse, para musicas mais difíceis é mais apropriado usar o teclado junto. Existem outros tipos de dispositivos que podem ser usados para jogar, visite [Play Styles](/wiki/Gameplay/Play_style) para mais informação.
 
 #### Básico sobre a Jogabilidade
 
@@ -146,7 +146,7 @@ Talvez você precise reconfigurar os comandos para que fiquem mais confortáveis
 
 #### Controlando o catcher
 
-Caso o mod [Relax](/wiki/Game_modifier/Relax) estiver sendo utilizado, o catcher pode ser movido com o mouse.
+Caso o mod [Relax](/wiki/Gameplay/Game_modifier/Relax) estiver sendo utilizado, o catcher pode ser movido com o mouse.
 
 - Por padrão, as setas esquerda \[<-\] e direita \[->\] do teclado são usadas para mover o catcher.
 - Pressionando o botão \[SHIFT\] esquerdo com uma das setas faz com que o catcher correr naquela direção (indicado por um brilho ao redor do catcher).
@@ -249,8 +249,8 @@ Padrão de teclas *Esquerda-a-Direita* (estilo Beatmania IIDX)
 
 **Classificações Especiais:**
 
-- SS Prateado (SSH) = 100% precisão jogando com mod '[Hidden](/wiki/Game_modifier/Hidden)' e/ou '[Flashlight](/wiki/Game_modifier/Flashlight)'
-- S Prateado (SH) = acima de 90% de 300s, menos de 1% de 50s sem perder nenhuma nota e jogando com o mod '[Hidden](/wiki/Game_modifier/Hidden)' e/ou '[Flashlight](/wiki/Game_modifier/Flashlight)'.
+- SS Prateado (SSH) = 100% precisão jogando com mod '[Hidden](/wiki/Gameplay/Game_modifier/Hidden)' e/ou '[Flashlight](/wiki/Gameplay/Game_modifier/Flashlight)'
+- S Prateado (SH) = acima de 90% de 300s, menos de 1% de 50s sem perder nenhuma nota e jogando com o mod '[Hidden](/wiki/Gameplay/Game_modifier/Hidden)' e/ou '[Flashlight](/wiki/Gameplay/Game_modifier/Flashlight)'.
 
 **A respeito dos "Ranks" na pagina do perfil:**
 

@@ -8,7 +8,7 @@ Dieser Artikel erklärt alles, was du über die Benutzung des Spiel-Clients von 
 
 ![](img/main-menu-DE.jpg "Hauptmenü")
 
-- \[1\] Der [osu!-Cookie](/wiki/Client/Interface/Cookie). Beim Anklicken wird das Hauptmenü geöffnet. Er pulsiert abhängig von den [BPM](/wiki/Beatmapping/Beats_per_minute) der Musik und Balken erstrecken sich um den Cookie, die das Audiospektrum visualisieren. Wenn kein Song spielt, pulsiert der Cookie mit langsamen 60 BPM.
+- \[1\] Der [osu!-Cookie](/wiki/Client/Interface/Cookie). Beim Anklicken wird das Hauptmenü geöffnet. Er pulsiert abhängig von den [BPM](/wiki/Music_theory/Tempo) der Musik und Balken erstrecken sich um den Cookie, die das Audiospektrum visualisieren. Wenn kein Song spielt, pulsiert der Cookie mit langsamen 60 BPM.
 - \[2\] Klicke auf `Play` (oder drücke `P`), um osu! entweder für dich selbst oder mit anderen zu spielen.
 - \[3\] Klicke auf `Edit` (oder drücke `E`), um eine [Beatmap](/wiki/Beatmap) zu editieren.
 - \[4\] Klicke auf `Options` (oder drücke `O`), um die [Optionsleiste](/wiki/Client/Options) zu öffnen.
@@ -87,15 +87,15 @@ Dieser Bereich zeigt **Informationen zu der Beatmap und der ausgewählten Schwie
 
 Der Songtitel wird normalerweise in romanisierter Sprache angezeigt (unteres Bild), aber wenn du `Metadaten in Originalsprache` in den [Optionen](/wiki/Client/Options) auswählst, dann wird der Titel in Unicode dargestellt (oberes Bild). Der Schwierigkeitsstufenname der Beatmap wird zwischen eckigen Klammern (`[]`) angezeigt. Der Ersteller, der die Beatmap kreiert hat, wird unter dem Titel angezeigt und hier sind außerdem noch weitere Informationen zu sehen. Von links nach rechts bedeuten die Werte Folgendes:
 
-- **Dauer**: Die Gesamtlänge der Beatmap, von Anfang bis Ende, die Pausen mit eingeschlossen. Nicht zu verwechseln mit der [Drain-Zeit](/wiki/Gameplay/Drain_time).
+- **Dauer**: Die Gesamtlänge der Beatmap, von Anfang bis Ende, die Pausen mit eingeschlossen. Nicht zu verwechseln mit der [Drain-Zeit](/wiki/Beatmap/Drain_time).
 - **BPM**: *Beats Pro Minute*, das Tempo des Songs. Wenn hier zwei BPM sowie ein BPM in Klammern angezeigt wird, dann bedeutet das, dass sich die BPM während des Songs ändern. Es werden die langsamsten und die schnellsten BPM gezeigt und der Wert in den Klammern ist der häufigste BPM-Wert in der Beatmap.
-- **Objekte**: Die Gesamtanzahl an [Hit-Objekten](/wiki/Hit_object) in der Beatmap.
-- **Circles**: Die Gesamtanzahl der [Hit-Circles](/wiki/Hit_object/Hit_circle) (osu! und osu!taiko), [Früchte](/wiki/Hit_object/Fruit) (osu!catch) oder reguläre Noten (osu!mania) in der Beatmap.
-- **Slider**: Die Gesamtanzahl der [Slider](/wiki/Hit_object/Slider) (osu!), Trommelschläge (osu!taiko), [Juice-Streams](/wiki/Hit_object/Juice_stream) (osu!catch) oder Hold-Notes (osu!mania) in der Beatmap.
-- **Spinner**: Die Gesamtanzahl der [Spinner](/wiki/Hit_object/Spinner) (osu!), Dendens (osu!taiko) oder [Banana-Shower](/wiki/Hit_object/Banana) (osu!catch) in der Beatmap.
-- **OD**: Die [allgemeine Schwierigkeit](/wiki/Beatmapping/Overall_difficulty) von der Beatmap.
-- **HP**: Die [HP Drain-Rate](/wiki/Beatmapping/HP_drain_rate). Siehe den Artikel über [Gesundheit](/wiki/Gameplay/Health) für mehr Details.
-- **Star Rating**: Die [Sternebewertung](/wiki/Beatmapping/Star_rating) der Beatmap. Die Menge an Sternen ist auch leicht erkennbar im Beatmap-Karussell.
+- **Objekte**: Die Gesamtanzahl an [Hit-Objekten](/wiki/Gameplay/Hit_object) in der Beatmap.
+- **Circles**: Die Gesamtanzahl der [Hit-Circles](/wiki/Gameplay/Hit_object/Hit_circle) (osu! und osu!taiko), [Früchte](/wiki/Gameplay/Hit_object/Fruit) (osu!catch) oder reguläre Noten (osu!mania) in der Beatmap.
+- **Slider**: Die Gesamtanzahl der [Slider](/wiki/Gameplay/Hit_object/Slider) (osu!), Trommelschläge (osu!taiko), [Juice-Streams](/wiki/Gameplay/Hit_object/Juice_stream) (osu!catch) oder Hold-Notes (osu!mania) in der Beatmap.
+- **Spinner**: Die Gesamtanzahl der [Spinner](/wiki/Gameplay/Hit_object/Spinner) (osu!), Dendens (osu!taiko) oder [Banana-Shower](/wiki/Gameplay/Hit_object/Banana) (osu!catch) in der Beatmap.
+- **OD**: Die [allgemeine Schwierigkeit](/wiki/Beatmap/Overall_difficulty) von der Beatmap.
+- **HP**: Die [HP Drain-Rate](/wiki/Beatmap/HP_drain_rate). Siehe den Artikel über [Gesundheit](/wiki/Gameplay/Health) für mehr Details.
+- **Star Rating**: Die [Sternebewertung](/wiki/Beatmap/Star_rating) der Beatmap. Die Menge an Sternen ist auch leicht erkennbar im Beatmap-Karussell.
 
 ### Gruppe und Sortierung
 
@@ -160,15 +160,15 @@ Unterstützte Filter:
 | `creator` | Name des Beatmap-Erstellers |
 | `title` | Songtitel |
 | `difficulty` | Name des Schwierigkeitsgrads der Beatmap |
-| `ar` | [Approach-Rate](/wiki/Beatmapping/Approach_rate) |
-| `cs` | [Circle-Size](/wiki/Beatmapping/Circle_size) |
-| `od` | [Allgemeine Schwierigkeit](/wiki/Beatmapping/Overall_difficulty) |
-| `hp` | [HP Drain-Rate](/wiki/Beatmapping/HP_drain_rate) |
+| `ar` | [Approach-Rate](/wiki/Beatmap/Approach_rate) |
+| `cs` | [Circle-Size](/wiki/Beatmap/Circle_size) |
+| `od` | [Allgemeine Schwierigkeit](/wiki/Beatmap/Overall_difficulty) |
+| `hp` | [HP Drain-Rate](/wiki/Beatmap/HP_drain_rate) |
 | `key`, `keys` | Anzahl der Keys (nur osu!mania und konvertierte Beatmaps) |
-| `star`, `stars` | [Sternebewertung](/wiki/Beatmapping/Star_rating) |
+| `star`, `stars` | [Sternebewertung](/wiki/Beatmap/Star_rating) |
 | `bpm` | Beats pro Minute |
 | `length` | Länge in Sekunden |
-| `drain` | [Drain-Zeit](/wiki/Gameplay/Drain_time) in Sekunden |
+| `drain` | [Drain-Zeit](/wiki/Beatmap/Drain_time) in Sekunden |
 | `mode` | Spielmodus. Das kann `osu`, `taiko`, `catch` oder `mania` sein sowie `o`/`t`/`c`/`m` in Kurzform. |
 | `status` | Beatmap-Status. Der Wert kann `ranked`, `approved`, `pending`, `notsubmitted`, `unknown` oder `loved` sein bzw. `r`/`a`/`p`/`n`/`u`/`l` in Kurzform. |
 | `played` | Die Zeit in Tagen, seit wann zuletzt gespielt wurde |
@@ -194,7 +194,7 @@ Du kannst auch eine Schwierigkeitsstufen- oder Beatmap-ID in deine Suche eingebe
 
 Eine Vielzahl von Dingen wird in diesem Bereich angezeigt:
 
-- Wenn `Not submitted` angezeigt wird, dann handelt es sich um eine Beatmap, welche noch nicht über das [Beatmap Submission System](/wiki/Submission) auf die osu!-Webseite hochgeladen oder vom Ersteller gelöscht wurde.
+- Wenn `Not submitted` angezeigt wird, dann handelt es sich um eine Beatmap, welche noch nicht über das [Beatmap Submission System](/wiki/Beatmapping/Beatmap_submission) auf die osu!-Webseite hochgeladen oder vom Ersteller gelöscht wurde.
 - `Update to latest version` erscheint, wenn eine neue Version der Beatmap zur Verfügung steht. Klicke auf die Box, um die Beatmap zu aktualisieren.
   - *Hinweis: Sobald du eine Beatmap aktualisiert, werden alle dazugehörigen lokalen Scores gelöscht. Replays für lokale Scores können mit einem Rechtsklick darauf exportiert werden.*
 - Wenn `Latest pending version` erscheint, bedeutet das, dass die Beatmap auf die osu!-Webseite hochgeladen wurde, aber noch nicht gerankt ist.
@@ -247,9 +247,9 @@ Klicke auf den Button `Mode`, um eine Liste der verfügbaren Spielmodi in osu! a
 
 ![](img/game-modifiers-DE.jpg "Spielmodifikationen")
 
-Klicke auf den Button `Mods` oder drücke `F1`, um in die **[Modauswahl](/wiki/Game_modifier)** zu gelangen.
+Klicke auf den Button `Mods` oder drücke `F1`, um in die **[Modauswahl](/wiki/Gameplay/Game_modifier)** zu gelangen.
 
-In diesem Bereich kannst du Modifikationen (kurz "Mods") zum Spielverlauf hinzufügen. Einige Mods verringern die Schwierigkeit und verwenden einen Multiplikator, der den von dir erreichten Punktestand verringert. Dagegen steigern manche Mods die Schwierigkeit, aber verwenden einen Multiplikator, der den von dir erreichten Punktestand erhöht. Außerdem beeinflussen manche Mods den Spielverlauf auf eine andere Weise. [Relax](/wiki/Game_modifier/Relax) und [Auto Pilot](/wiki/Game_modifier/Autopilot) fallen unter diese Kategorie.
+In diesem Bereich kannst du Modifikationen (kurz "Mods") zum Spielverlauf hinzufügen. Einige Mods verringern die Schwierigkeit und verwenden einen Multiplikator, der den von dir erreichten Punktestand verringert. Dagegen steigern manche Mods die Schwierigkeit, aber verwenden einen Multiplikator, der den von dir erreichten Punktestand erhöht. Außerdem beeinflussen manche Mods den Spielverlauf auf eine andere Weise. [Relax](/wiki/Gameplay/Game_modifier/Relax) und [Auto Pilot](/wiki/Gameplay/Game_modifier/Autopilot) fallen unter diese Kategorie.
 
 Bewege deinen Cursor über das Modsymbol, um dir die Beschreibung dazu anzeigen zu lassen. Klicke auf das Modsymbol, um die Mod zu aktivieren oder zu deaktivieren. Einige Mods, wie z. B. Double Time, haben mehrere Variationen — klicke nochmals auf die Mod, um durch die Variationen durchzuwechseln. Der Score-Multiplikator zeigt den kombinierten Effekt an, den alle selektierten Mods auf deinen Punktestand haben werden. Klicke auf `Mods zurücksetzen` oder drücke `1`, um alle aktuell ausgewählten Mods zu deaktivieren. Klicke auf `Schließen`, drücke `2` oder `ESC`, um zurück zur Songauswahl zu gelangen.
 
@@ -309,7 +309,7 @@ Die Kategorien in der Ranglistenanzeige sind wie folgt:
 
 | Kategorie | Beatmap Ranking | Overall Ranking |
 | :-: | :-- | :-- |
-| `Overall` | Deine Position auf der Rangliste der Beatmap. Beachte, dass Scores mit [Mods](/wiki/Game_modifier) auch auf dieser Rangliste auftauchen. | Dein [globaler Rang](/wiki/Ranking#performance-points-ranking) gegen jeden in der Welt.<!-- TODO: Fix link as soon as article is available --> |
+| `Overall` | Deine Position auf der Rangliste der Beatmap. Beachte, dass Scores mit [Mods](/wiki/Gameplay/Game_modifier) auch auf dieser Rangliste auftauchen. | Dein [globaler Rang](/wiki/Ranking#performance-points-ranking) gegen jeden in der Welt.<!-- TODO: Fix link as soon as article is available --> |
 | [`Accuracy`](/wiki/Gameplay/Accuracy) | Wie akkurat du die Beatmap gespielt hast. Dies zählt nur, wenn der alte Punktestand überboten wird. | Ein gewichteter Durchschnitt der Genauigkeit deiner besten Scores. |
 | `Max Combo` | Die höchste Combo, die du auf der Beatmap gespielt hast. | Die höchste Combo, die du jemals über alle Beatmaps gesehen erreicht hast. |
 | [`Ranked Score`](/wiki/Gameplay/Score/Ranked_score) | Dein [bestes Ergebnis](/wiki/Gameplay/Score/Ranked_score) auf der Beatmap. | Die Anzahl der Punkte von allen gerankten Beatmaps, die du jemals gespielt hast, wobei jede Beatmap genau einmal gezählt wird. |

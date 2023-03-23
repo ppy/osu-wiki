@@ -68,115 +68,115 @@ outdated_since: 627216096f80308b675f9761f2166ca0f83532e6
 
 #### 규칙
 
-- **서로 1비트 이하로 떨어져 있는 오브젝트는 완벽하게 [오버랩](/wiki/Mapping_techniques/Overlap)되서는 안 됩니다.**
+- **서로 1비트 이하로 떨어져 있는 오브젝트는 완벽하게 [오버랩](/wiki/Beatmapping/Mapping_techniques/Overlap)되서는 안 됩니다.**
 - **[시각적 동선을 따라가지 않는 리버스](/wiki/Ranking_Criteria/osu!/img/Unintuitive_slider_reverse_arrow.png)를 사용해서는 안 됩니다.** 이는 슬라이더의 방향을 올바르지 않게 표시합니다.
 
 #### 가이드라인
 
-- **[균등한 시간-거리](/wiki/Mapping_techniques/Time-distance_equality)를 사용해야 합니다.** 다른 박자에 대하여 뚜렷하게 다른 스페이싱을 사용했다면 가변적으로 인정될 수 있습니다. 히트 오브젝트 간 박자 간격이 2비트 초과이며 상대적으로 큰 스페이싱을 가진다면 균등 시간-거리는 너무 정확하게는 맞추지 않아도 괜찮습니다.
-- **[디스턴스 스냅](/wiki/Client/Beatmap_editor/Distance_snap)이 사용되었을 경우, 0.8배 ~ 1.2배 사이를 유지하세요.** 이보다 너무 높거나 낮은 배율은 [슬라이더 속도](/wiki/Hit_object/Slider_velocity)와 스페이싱 간의 직관성을 해칠 수 있습니다. [오버랩](/wiki/Mapping_techniques/Overlap)을 피하기 위해 높은 배율의 디스턴스 스냅이 사용될 수도 있지만 이를 너무 자주 사용한다고 생각할 경우 슬라이더 속도를 높여야 합니다.
+- **[균등한 시간-거리](/wiki/Beatmapping/Mapping_techniques/Time-distance_equality)를 사용해야 합니다.** 다른 박자에 대하여 뚜렷하게 다른 스페이싱을 사용했다면 가변적으로 인정될 수 있습니다. 히트 오브젝트 간 박자 간격이 2비트 초과이며 상대적으로 큰 스페이싱을 가진다면 균등 시간-거리는 너무 정확하게는 맞추지 않아도 괜찮습니다.
+- **[디스턴스 스냅](/wiki/Client/Beatmap_editor/Distance_snap)이 사용되었을 경우, 0.8배 ~ 1.2배 사이를 유지하세요.** 이보다 너무 높거나 낮은 배율은 [슬라이더 속도](/wiki/Gameplay/Hit_object/Slider/Slider_velocity)와 스페이싱 간의 직관성을 해칠 수 있습니다. [오버랩](/wiki/Beatmapping/Mapping_techniques/Overlap)을 피하기 위해 높은 배율의 디스턴스 스냅이 사용될 수도 있지만 이를 너무 자주 사용한다고 생각할 경우 슬라이더 속도를 높여야 합니다.
 - **노트 밀도는 주로 1/1, 2/1, 또는 이보다 느린 박자로 구성되어야 합니다.**
 - **1/2 비트보다 짧은 슬라이더의 사용을 지양하세요.** 이는 새로운 플레이어들이 읽기에 너무 빠릅니다.
-- **서클, 슬라이더 머리, 슬라이더 꼬리를 [오버랩](/wiki/Mapping_techniques/Overlap)하는 것은 지양하세요.** 이는 새로운 플레이어들에게 헷갈릴 수 있습니다. [디스턴스 스냅](/wiki/Client/Beatmap_editor/Distance_snap)으로 인한 1/1 오버랩은 더 높은 스페이싱 혹은 [슬라이더 속도](/wiki/Hit_object/Slider_velocity)를 이용해야 합니다.
+- **서클, 슬라이더 머리, 슬라이더 꼬리를 [오버랩](/wiki/Beatmapping/Mapping_techniques/Overlap)하는 것은 지양하세요.** 이는 새로운 플레이어들에게 헷갈릴 수 있습니다. [디스턴스 스냅](/wiki/Client/Beatmap_editor/Distance_snap)으로 인한 1/1 오버랩은 더 높은 스페이싱 혹은 [슬라이더 속도](/wiki/Gameplay/Hit_object/Slider/Slider_velocity)를 이용해야 합니다.
 - **다중 리버스 1/1 슬라이더의 사용을 지양하세요.** 새로운 플레이어들은 한 번에 여러 개의 리버스를 읽을 수 없는데, 이는 리버스가 보여지는 시간이 너무 짧기 때문입니다.
 - **한 구간에서 슬라이더만 사용하는 것을 지양하세요.** 한 번에 여러 개의 슬라이더를 따라가는 것은 새로운 플레이어들에게는 힘든 일일 수도 있습니다. 이러한 상황에서는, 서클 또는 노트 없는 잠깐의 공백이 사용되어야 합니다.
-- **[슬라이더 속도](/wiki/Hit_object/Slider_velocity)를 너무 자주 바꾸지는 마세요.** 슬라이더 속도는 노래의 구간 속도에 맞추어 바뀌어야 하며 너무 급격하게 바뀌어서도 안 됩니다.
+- **[슬라이더 속도](/wiki/Gameplay/Hit_object/Slider/Slider_velocity)를 너무 자주 바꾸지는 마세요.** 슬라이더 속도는 노래의 구간 속도에 맞추어 바뀌어야 하며 너무 급격하게 바뀌어서도 안 됩니다.
 - **직관적이고 알아보기 쉬운 슬라이더 모양을 사용하세요.** 새로운 플레어들은 복잡한 슬라이더 모양을 이해하지 못할 수도 있습니다.
 - **스피너의 끝 지점과 그다음 노트 사이에는 4비트 이상의 간격이 주어져야 합니다.** 이는 스피너를 돌린 뒤 다음 노트를 클릭하기까지 충분한 시간을 부여하기 위함입니다.
 - **4비트보다 짧은 스피너의 사용을 지양하세요.** 플레이어들은 스피너를 인식하기까지 충분한 시간이 필요합니다.
 - **슬라이더 리버스에 도달한 후 4비트 이내에 리버스 화살표와 같은 자리에 히트 오브젝트를 놓는 것을 지양하세요.** 이는 플레이어에게 리버스 화살표를 인식할 수 있는 충분한 시간을 부여하기 위함입니다.
-- **4비트 이내의 슬라이더 몸통끼리 서로 완전히 [오버랩](/wiki/Mapping_techniques/Overlap)되는 것을 지양하세요.** 이는 슬라이더 몸통을 읽기 애매하게 하며 자칫 플레이어들이 서클로 리딩하게 할 수도 있습니다.
+- **4비트 이내의 슬라이더 몸통끼리 서로 완전히 [오버랩](/wiki/Beatmapping/Mapping_techniques/Overlap)되는 것을 지양하세요.** 이는 슬라이더 몸통을 읽기 애매하게 하며 자칫 플레이어들이 서클로 리딩하게 할 수도 있습니다.
 - **콤보를 아무 이유 없이 너무 짧거나 길게 하지 마세요.** 콤보는 노래의 구간이나 악구와 같이 음악에 따른 패턴에 맞추어야 합니다.
-- **기본 스킨 또는 비트맵 지정 스킨의 요소들과 히트 오브젝트들이 [오버랩](/wiki/Mapping_techniques/Overlap)되지 않게 하세요.** 이는 스킨화 할 수 있는 모든 스킨 요소(인터페이스 포함)를 의미합니다.
+- **기본 스킨 또는 비트맵 지정 스킨의 요소들과 히트 오브젝트들이 [오버랩](/wiki/Beatmapping/Mapping_techniques/Overlap)되지 않게 하세요.** 이는 스킨화 할 수 있는 모든 스킨 요소(인터페이스 포함)를 의미합니다.
 
 #### 난이도 세팅 가이드라인
 
-- [AR](/wiki/Beatmapping/Approach_rate)은 5 이하여야 합니다.
-- [OD](/wiki/Beatmapping/Overall_difficulty) / [HP](/wiki/Beatmapping/HP_drain_rate)는 1 이상 3 이하여야 합니다.
-- [CS](/wiki/Beatmapping/Circle_size)는 4 이하여야 합니다.
+- [AR](/wiki/Beatmap/Approach_rate)은 5 이하여야 합니다.
+- [OD](/wiki/Beatmap/Overall_difficulty) / [HP](/wiki/Beatmap/HP_drain_rate)는 1 이상 3 이하여야 합니다.
+- [CS](/wiki/Beatmap/Circle_size)는 4 이하여야 합니다.
 
 ### ![](/wiki/shared/diff/normal-o.png?20211215) Normal
 
 #### 규칙
 
-- **서로 1비트 이하로 떨어져 있는 오브젝트는 완벽하게 [오버랩](/wiki/Mapping_techniques/Overlap)되서는 안 됩니다.**
+- **서로 1비트 이하로 떨어져 있는 오브젝트는 완벽하게 [오버랩](/wiki/Beatmapping/Mapping_techniques/Overlap)되서는 안 됩니다.**
 - **[시각적 동선을 따라가지 않는 리버스](/wiki/Ranking_Criteria/osu!/img/Unintuitive_slider_reverse_arrow.png)를 사용해서는 안 됩니다.** 이는 슬라이더의 방향을 올바르지 않게 표시합니다.
 
 #### 가이드라인
 
-- **[균등한 시간-거리](/wiki/Mapping_techniques/Time-distance_equality)를 사용해야 합니다.** 다른 박제에 대하여 뚜렷하게 다른 스페이싱을 사용했다면 가변적으로 인정될 수 있습니다. 히트 오브젝트 간 박자 간격이 1비트 초과이며 상대적으로 큰 스페이싱을 가진다면 균등 시간-거리는 너무 정확하게는 맞추지 않아도 괜찮습니다.
-- **[디스턴스 스냅](/wiki/Client/Beatmap_editor/Distance_snap)이 사용되었을 경우, 0.8배 ~ 1.3배 사이를 유지하세요.** 이보다 너무 높거나 낮은 배율은 [슬라이더 속도](/wiki/Hit_object/Slider_velocity)와 스페이싱 간의 직관성을 해칠 수 있습니다. [오버랩](/wiki/Mapping_techniques/Overlap)을 피하기 위해 높은 배율의 디스턴스 스냅이 사용될 수도 있지만 이를 너무 자주 사용한다고 생각할 경우 슬라이더 속도를 높여야 합니다.
+- **[균등한 시간-거리](/wiki/Beatmapping/Mapping_techniques/Time-distance_equality)를 사용해야 합니다.** 다른 박제에 대하여 뚜렷하게 다른 스페이싱을 사용했다면 가변적으로 인정될 수 있습니다. 히트 오브젝트 간 박자 간격이 1비트 초과이며 상대적으로 큰 스페이싱을 가진다면 균등 시간-거리는 너무 정확하게는 맞추지 않아도 괜찮습니다.
+- **[디스턴스 스냅](/wiki/Client/Beatmap_editor/Distance_snap)이 사용되었을 경우, 0.8배 ~ 1.3배 사이를 유지하세요.** 이보다 너무 높거나 낮은 배율은 [슬라이더 속도](/wiki/Gameplay/Hit_object/Slider/Slider_velocity)와 스페이싱 간의 직관성을 해칠 수 있습니다. [오버랩](/wiki/Beatmapping/Mapping_techniques/Overlap)을 피하기 위해 높은 배율의 디스턴스 스냅이 사용될 수도 있지만 이를 너무 자주 사용한다고 생각할 경우 슬라이더 속도를 높여야 합니다.
 - **노트 밀도는 주로 1/1, 가끔 1/2, 또는 이보다 느린 박자로 구성되어야 합니다.**
-- **서클, 슬라이더 머리, 슬라이더 꼬리를 [오버랩](/wiki/Mapping_techniques/Overlap)하는 것은 지양하세요.** 이는 새로운 플레이어들에게 헷갈릴 수 있습니다. [디스턴스 스냅](/wiki/Client/Beatmap_editor/Distance_snap)으로 인한 1/2 오버랩은 예외입니다.
-- **1/2 박자 간격으로 연속되는 히트오브젝트는 지양해주세요.** 이러한 지속적인 히트오브젝트 [오버랩](/wiki/Mapping_techniques/Overlap)은 새로운 플레이어들에게 헷갈릴 수 있습니다.
+- **서클, 슬라이더 머리, 슬라이더 꼬리를 [오버랩](/wiki/Beatmapping/Mapping_techniques/Overlap)하는 것은 지양하세요.** 이는 새로운 플레이어들에게 헷갈릴 수 있습니다. [디스턴스 스냅](/wiki/Client/Beatmap_editor/Distance_snap)으로 인한 1/2 오버랩은 예외입니다.
+- **1/2 박자 간격으로 연속되는 히트오브젝트는 지양해주세요.** 이러한 지속적인 히트오브젝트 [오버랩](/wiki/Beatmapping/Mapping_techniques/Overlap)은 새로운 플레이어들에게 헷갈릴 수 있습니다.
 - **다중 리버스 1/2 슬라이더의 사용을 지양하세요.** 새로운 플레이어들은 한 번에 여러개의 리버스를 읽을 수 없는데, 이는 리버스가 보여지는 시간이 너무 짧기 때문입니다.
 - **한 구간에서 슬라이더만 사용하는 것을 지양하세요.** 한 번에 여러개의 슬라이더를 따라가는 것은 새로운 플레이어들에게는 힘든 일일수도 있습니다. 이러한 상황에서는, 서클 또는 노트 없는 잠깐의 공백이 사용되어야 합니다.
-- **[스택](/wiki/Mapping_techniques/Stack)은 사용 가능합니다, 단 1/1과 1/2 사이를 자주 바꾸는 것은 지양하세요.** 이 둘은 시각적으로 같기 때문에 새로운 플레이어들에게 리딩 문제를 초래할 수 있습니다.
-- **[슬라이더 속도](/wiki/Hit_object/Slider_velocity)를 너무 자주 바꾸지는 마세요.** 슬라이더 속도는 노래의 구간 속도에 맞추어 바뀌어야 하며 너무 급격하게 바뀌어서도 안 됩니다.
+- **[스택](/wiki/Beatmapping/Mapping_techniques/Stack)은 사용 가능합니다, 단 1/1과 1/2 사이를 자주 바꾸는 것은 지양하세요.** 이 둘은 시각적으로 같기 때문에 새로운 플레이어들에게 리딩 문제를 초래할 수 있습니다.
+- **[슬라이더 속도](/wiki/Gameplay/Hit_object/Slider/Slider_velocity)를 너무 자주 바꾸지는 마세요.** 슬라이더 속도는 노래의 구간 속도에 맞추어 바뀌어야 하며 너무 급격하게 바뀌어서도 안 됩니다.
 - **직관적이고 알아보기 쉬운 슬라이더 모양을 사용하세요.** 새로운 플레어들은 복잡한 슬라이더 모양을 이해하지 못할 수도 있습니다.
 - **스피너의 끝 지점과 그다음 노트 사이에는 2비트 이상의 간격이 주어져야 합니다.** 이는 스피너를 돌린 뒤 다음 노트를 클릭하기까지 충분한 시간을 부여하기 위함입니다.
 - **3비트보다 짧은 스피너의 사용을 지양하세요.** 플레이어들은 스피너를 인식하기까지 충분한 시간이 필요합니다.
 - **슬라이더 리버스에 도달한 후 3비트 이내에 리버스 화살표와 같은 자리에 히트 오브젝트를 놓는 것을 지양하세요.** 이는 플레이어에게 리버스 화살표를 인식할 수 있는 충분한 시간을 부여하기 위함입니다.
-- **3비트 이내의 슬라이더 몸통끼리 서로 완전히 [오버랩](/wiki/Mapping_techniques/Overlap)되는 것을 지양하세요.** 이는 슬라이더 몸통을 읽기 애매하게 하며 자칫 플레이어들이 서클로 리딩하게 할 수도 있습니다.
+- **3비트 이내의 슬라이더 몸통끼리 서로 완전히 [오버랩](/wiki/Beatmapping/Mapping_techniques/Overlap)되는 것을 지양하세요.** 이는 슬라이더 몸통을 읽기 애매하게 하며 자칫 플레이어들이 서클로 리딩하게 할 수도 있습니다.
 - **콤보를 아무 이유 없이 너무 짧거나 길게 하지 마세요.** 콤보는 노래의 구간이나 악구와 같이 음악에 따른 패턴에 맞추어야 합니다. 
-- **기본 스킨 또는 비트맵 지정 스킨의 요소들과 히트 오브젝트들이 [오버랩](/wiki/Mapping_techniques/Overlap)되지 않게 하세요.** 이는 스킨화 할 수 있는 모든 스킨 요소(인터페이스 포함)를 의미합니다.
+- **기본 스킨 또는 비트맵 지정 스킨의 요소들과 히트 오브젝트들이 [오버랩](/wiki/Beatmapping/Mapping_techniques/Overlap)되지 않게 하세요.** 이는 스킨화 할 수 있는 모든 스킨 요소(인터페이스 포함)를 의미합니다.
 
 만약 Normal 난이도가 요구되는 스프레드이고 해당 맵셋에서 *가장 낮은* 난이도라면, 다음 가이드라인 또한 지켜야 합니다:
 
 - **3개 초과의 1/2 클릭 박자를 연속적으로 배치하는 것을 지양하세요.**
 - **매 두 마디마다 1/1 혹은 더 긴 박자 간격을 넣으세요.** 두 마디 이상의 슬라이더같은 긴 슬라이더가 있는 구간만 예외로 인정됩니다.
 - **1/2 슬라이더를 4개 초과해서 연속으로 넣지 마세요.**
-- **클릭 가능한 노트 중 1/2 박자를 이용하는 노트들은 반드시 서로 [오버랩](/wiki/Mapping_techniques/Overlap)되야 합니다.** 서클 뒤에 따라오는 슬라이더 끝 같은 (클리커블이 아닌) 패시브 박자 같은 경우 오버랩 되지 않는 선에서 허용됩니다.
-- **1.3 초과의 [슬라이더 속도](/wiki/Hit_object/Slider_velocity) 사용을 지양하세요.**
+- **클릭 가능한 노트 중 1/2 박자를 이용하는 노트들은 반드시 서로 [오버랩](/wiki/Beatmapping/Mapping_techniques/Overlap)되야 합니다.** 서클 뒤에 따라오는 슬라이더 끝 같은 (클리커블이 아닌) 패시브 박자 같은 경우 오버랩 되지 않는 선에서 허용됩니다.
+- **1.3 초과의 [슬라이더 속도](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) 사용을 지양하세요.**
 
 #### 난이도 세팅 가이드라인
 
-- [AR](/wiki/Beatmapping/Approach_rate)은 4 이상 6 이하여야 합니다.
-- [OD](/wiki/Beatmapping/Overall_difficulty) / [HP](/wiki/Beatmapping/HP_drain_rate)는 3 이상 5 이하여야 합니다.
-- [CS](/wiki/Beatmapping/Circle_size)는 5 이하여야 합니다.
+- [AR](/wiki/Beatmap/Approach_rate)은 4 이상 6 이하여야 합니다.
+- [OD](/wiki/Beatmap/Overall_difficulty) / [HP](/wiki/Beatmap/HP_drain_rate)는 3 이상 5 이하여야 합니다.
+- [CS](/wiki/Beatmap/Circle_size)는 5 이하여야 합니다.
 
 ### ![](/wiki/shared/diff/hard-o.png?20211215) Hard
 
 #### Rules
 
-- **서로 1/2비트 이하로 떨어져 있는 오브젝트는 완벽하게 [오버랩](/wiki/Mapping_techniques/Overlap)되서는 안 됩니다.** 슬라이더 머리나 꼬리는 몸통이 보인다는 가정 하에 예외입니다.
+- **서로 1/2비트 이하로 떨어져 있는 오브젝트는 완벽하게 [오버랩](/wiki/Beatmapping/Mapping_techniques/Overlap)되서는 안 됩니다.** 슬라이더 머리나 꼬리는 몸통이 보인다는 가정 하에 예외입니다.
 - **[시각적 동선을 따라가지 않는 리버스](/wiki/Ranking_Criteria/osu!/img/Unintuitive_slider_reverse_arrow.png)를 사용해서는 안 됩니다.** 이는 슬라이더의 방향을 올바르지 않게 표시합니다.
 
 #### 가이드라인
 
 - **스피너의 끝 지점과 그다음 노트 사이에는 1비트 이상의 간격이 주어져야 합니다.** 이는 스피너를 돌린 뒤 다음 노트를 클릭하기까지 충분한 시간을 부여하기 위함입니다.
 - **노트 밀도는 주로 1/2, 가끔 1/4, 또는 이보다 느린 박자로 구성되어야 합니다.**
-- **한번에 5타 초과의 [연타](/wiki/Beatmap/Pattern/Stream)를 넣는 것을 지양하세요.** 노래에 맞추어 넣어야 할 경우 짧은 길이의 리버스 슬라이더로 대체하여 넣을 수 있습니다.
-- **다른 박자에 대하여 시각적으로 같은 배치를 지양하세요.** [점프](/wiki/Beatmap/Pattern/Jump)를 통해 강조를 주는 것은 권장되나, 다른 박자와는 확실히 구분될 수 있어야 합니다.
+- **한번에 5타 초과의 [연타](/wiki/Beatmap/Pattern/osu!/Stream)를 넣는 것을 지양하세요.** 노래에 맞추어 넣어야 할 경우 짧은 길이의 리버스 슬라이더로 대체하여 넣을 수 있습니다.
+- **다른 박자에 대하여 시각적으로 같은 배치를 지양하세요.** [점프](/wiki/Beatmap/Pattern/osu!/Jump)를 통해 강조를 주는 것은 권장되나, 다른 박자와는 확실히 구분될 수 있어야 합니다.
 - **슬라이더 틱 히트사운드는 권장되지 않습니다.** 만약 사용하고 싶다면, 볼륨이 제대로 맞춰져 있는지 확인해보세요 (다른 히트사운드보다 너무 작은 경우 등). 너무 시끄러운 슬라이더 틱은 (특히 한 번이나 두 번 정도밖에 쓰이지 않으면) 듣기에 매우 불편할 수 있습니다.
 - **2비트보다 짧은 스피너의 사용을 지양하세요.** 플레이어들은 스피너를 인식하기까지 충분한 시간이 필요합니다.
 - **슬라이더 리버스에 도달한 후 2비트 이내에 리버스 화살표와 같은 자리에 히트 오브젝트를 놓는 것을 지양하세요.** 이는 플레이어에게 리버스 화살표를 인식할 수 있는 충분한 시간을 부여하기 위함입니다.
-- **2비트 이내의 슬라이더 몸통끼리 서로 완전히 [오버랩](/wiki/Mapping_techniques/Overlap)되는 것을 지양하세요.** 이는 슬라이더 몸통을 읽기 애매하게 하며 자칫 플레이어들이 서클로 리딩하게 할 수도 있습니다.
+- **2비트 이내의 슬라이더 몸통끼리 서로 완전히 [오버랩](/wiki/Beatmapping/Mapping_techniques/Overlap)되는 것을 지양하세요.** 이는 슬라이더 몸통을 읽기 애매하게 하며 자칫 플레이어들이 서클로 리딩하게 할 수도 있습니다.
 
 #### 난이도 세팅 가이드라인
 
-- [AR](/wiki/Beatmapping/Approach_rate)은 6 이상 8 이하여야 합니다.
-- [OD](/wiki/Beatmapping/Overall_difficulty)는 5 이상 7 이하여야 합니다.
-- [HP](/wiki/Beatmapping/HP_drain_rate)는 4 이상 6 이하여야 합니다.
-- [CS](/wiki/Beatmapping/Circle_size)는 6 이하여야 합니다.
+- [AR](/wiki/Beatmap/Approach_rate)은 6 이상 8 이하여야 합니다.
+- [OD](/wiki/Beatmap/Overall_difficulty)는 5 이상 7 이하여야 합니다.
+- [HP](/wiki/Beatmap/HP_drain_rate)는 4 이상 6 이하여야 합니다.
+- [CS](/wiki/Beatmap/Circle_size)는 6 이하여야 합니다.
 
 ### ![](/wiki/shared/diff/insane-o.png?20211215) Insane
 
 #### 가이드라인
 
-- **서로 1/4비트 이하로 떨어져 있는 오브젝트는 완벽하게 [오버랩](/wiki/Mapping_techniques/Overlap)되서는 안 됩니다.** (특히 단순한 Insane 난이도의 경우)
+- **서로 1/4비트 이하로 떨어져 있는 오브젝트는 완벽하게 [오버랩](/wiki/Beatmapping/Mapping_techniques/Overlap)되서는 안 됩니다.** (특히 단순한 Insane 난이도의 경우)
 - **[시각적 동선을 따라가지 않는 리버스](/wiki/Ranking_Criteria/osu!/img/Unintuitive_slider_reverse_arrow.png)를 사용해서는 안 됩니다.** 이는 슬라이더의 방향을 올바르지 않게 표시합니다.
-- **화면을 가로지르는 [점프](/wiki/Beatmap/Pattern/Jump) 혹은 노트들끼리 겹치지 않는 [연타](/wiki/Beatmap/Pattern/Stream)의 사용을 지양하세요.** 이들은 Expert 레벨 이상의 매핑을 위한 기술입니다.
+- **화면을 가로지르는 [점프](/wiki/Beatmap/Pattern/osu!/Jump) 혹은 노트들끼리 겹치지 않는 [연타](/wiki/Beatmap/Pattern/osu!/Stream)의 사용을 지양하세요.** 이들은 Expert 레벨 이상의 매핑을 위한 기술입니다.
 - **슬라이더 틱 히트사운드는 권장되지 않습니다.** 만약 사용하고 싶다면, 볼륨이 제대로 맞춰져 있는지 확인해보세요 (다른 히트사운드보다 너무 작은 경우 등). 너무 시끄러운 슬라이더 틱은 (특히 한 번이나 두 번 정도밖에 쓰이지 않으면) 듣기에 매우 불편할 수 있습니다.
 - **슬라이더 리버스에 도달한 후 1/2비트 이내에 리버스 화살표와 같은 자리에 히트 오브젝트를 놓는 것을 지양하세요.** 이는 플레이어에게 리버스 화살표를 인식할 수 있는 충분한 시간을 부여하기 위함입니다.
-- **1/2비트 이내의 슬라이더 몸통끼리 서로 완전히 [오버랩](/wiki/Mapping_techniques/Overlap)되는 것을 지양하세요.** 이는 슬라이더 몸통을 읽기 애매하게 하며 자칫 플레이어들이 서클로 리딩하게 할 수도 있습니다.
+- **1/2비트 이내의 슬라이더 몸통끼리 서로 완전히 [오버랩](/wiki/Beatmapping/Mapping_techniques/Overlap)되는 것을 지양하세요.** 이는 슬라이더 몸통을 읽기 애매하게 하며 자칫 플레이어들이 서클로 리딩하게 할 수도 있습니다.
 
 #### 난이도 세팅 가이드라인
 
-- [AR](/wiki/Beatmapping/Approach_rate)은 7 이상 9.3 이하여야 합니다.
-- [OD](/wiki/Beatmapping/Overall_difficulty)는 7 이상 9 이하여야 합니다.
-- [HP](/wiki/Beatmapping/HP_drain_rate)는 5 이상 8 이하여야 합니다.
-- [CS](/wiki/Beatmapping/Circle_size)는 7 이하여야 합니다.
+- [AR](/wiki/Beatmap/Approach_rate)은 7 이상 9.3 이하여야 합니다.
+- [OD](/wiki/Beatmap/Overall_difficulty)는 7 이상 9 이하여야 합니다.
+- [HP](/wiki/Beatmap/HP_drain_rate)는 5 이상 8 이하여야 합니다.
+- [CS](/wiki/Beatmap/Circle_size)는 7 이하여야 합니다.
 
 ### ![](/wiki/shared/diff/expert-o.png?20211215) Expert
 
@@ -187,6 +187,6 @@ outdated_since: 627216096f80308b675f9761f2166ca0f83532e6
 
 #### 난이도 세팅 가이드라인
 
-- [AR](/wiki/Beatmapping/Approach_rate) / [OD](/wiki/Beatmapping/Overall_difficulty)는 8 이상이여야 합니다.
-- [HP](/wiki/Beatmapping/HP_drain_rate)는 5 이상이여야 합니다.
-- [CS](/wiki/Beatmapping/Circle_size)는 7 이하여야 합니다.
+- [AR](/wiki/Beatmap/Approach_rate) / [OD](/wiki/Beatmap/Overall_difficulty)는 8 이상이여야 합니다.
+- [HP](/wiki/Beatmap/HP_drain_rate)는 5 이상이여야 합니다.
+- [CS](/wiki/Beatmap/Circle_size)는 7 이하여야 합니다.

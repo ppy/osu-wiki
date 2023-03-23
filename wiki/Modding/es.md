@@ -29,7 +29,7 @@ Cuando te encuentres con un problema, selecciona los objetos de golpeo que sean 
 
 Todos los mod posts deben abordar cuál es el problema, porque es un problema, y como arreglarlo. Revise el [Código de conducta para Modding y Mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping#making-a-mod-post) para más detalles en cómo dar formato a los mod posts.
 
-Los beatmappers regularmente ofrecen [kudosu](/wiki/Modding/Kudosu) a los mod posts que ellos consideren como útiles al cliquear el botón de votar *pulgar arriba*. Esta estadística es rastreada por medio del perfil del usuario y se toma en cuenta al aplicar para ingresar a los [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators).
+Los beatmappers regularmente ofrecen [kudosu](/wiki/Modding/Kudosu) a los mod posts que ellos consideren como útiles al cliquear el botón de votar *pulgar arriba*. Esta estadística es rastreada por medio del perfil del usuario y se toma en cuenta al aplicar para ingresar a los [Beatmap Nominators](/wiki/People/Beatmap_Nominators).
 
 ## Tipos de mod posts
 

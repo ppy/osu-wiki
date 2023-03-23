@@ -14,7 +14,7 @@ Toute violation sévère des [règles de la communauté](/wiki/Rules) qui a lieu
 
 Comme exemple, un tel comportement inclurait le dessin ou l'écriture de symboles haineux/insultants (croix gammée par exemple) en utilisant la fumée du curseur dans les matchs diffusés.
 
-Tous les utilisateurs retournant dans le jeu après une procédure de restriction dans le cadre des conditions d'appel standard sont également soumis à un [bannissement temporaire des tournois d'une durée d'un an](/wiki/Help_centre/Account_restrictions#reasons), qui peut-être prolongé à la discrétion de [l'Équipe de support aux comptes](/wiki/People/The_Team/Account_support_team).
+Tous les utilisateurs retournant dans le jeu après une procédure de restriction dans le cadre des conditions d'appel standard sont également soumis à un [bannissement temporaire des tournois d'une durée d'un an](/wiki/Help_centre/Account_restrictions#reasons), qui peut-être prolongé à la discrétion de [l'Équipe de support aux comptes](/wiki/People/Account_support_team).
 
 ## Quelles sont les causes d'un bannissement permanent des tournois ? {#why-permanent}
 
@@ -34,7 +34,7 @@ Cela inclut des situations comme :
 
 Qu'il soit temporaire ou permanent, **il n'est pas possible de faire appel concernant un bannissement des tournois**.
 
-Dans des cas particuliers, [l'Équipe de support aux comptes](/wiki/People/The_Team/Account_support_team) peut étudier des cas individuels à leur discrétion et retirer ou réappliquer des sanctions appropriées pour être sûr que cela reste cohérent avec les situations passées.
+Dans des cas particuliers, [l'Équipe de support aux comptes](/wiki/People/Account_support_team) peut étudier des cas individuels à leur discrétion et retirer ou réappliquer des sanctions appropriées pour être sûr que cela reste cohérent avec les situations passées.
 
 ## Que puis-je faire en cas de bannissement des tournois ? {#while-banned}
 
