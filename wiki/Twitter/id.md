@@ -9,8 +9,6 @@ osu! memiliki beberapa akun Twitter, masing-masing akun melayani untuk tujuan te
 | ![Avatar osu!status](img/osustatus.jpg) | [@osustatus](https://twitter.com/osustatus) | Diperuntukkan untuk penyedian dengan lalu lintas rendah tentang masalah situs dan [Bancho](/wiki/Bancho_(server)). |
 | ![Avatar osu! support](img/osusupport.jpg) | [@osusupport](https://twitter.com/osusupport) | Diperuntukkan untuk mengatasi masalah mengenai akun maupun komunitas. Dikelola oleh [account support team](/wiki/People/The_Team/Account_support_team). |
 
-
-
 ## Komunitas
 
 | Avatar | Akun | Deskripsi |
