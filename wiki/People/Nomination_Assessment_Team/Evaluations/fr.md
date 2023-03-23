@@ -10,32 +10,6 @@ Si un membre de la NAT est indisponible ou ne peut pas effectuer l'évaluation q
 
 Les références à Discord dans cet article se rapportent au serveur Discord des BN, dont l'accès est limité aux membres de la BN, de la NAT, de la GMT et aux anciens membres pour l'organisation, la discussion et la socialisation du groupe.
 
-## Candidatures des Beatmap Nominators
-
-Chaque candidature soumise au site web de la NAT qui réussit le [Beatmap Nominator Test](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test) sera examinée par les membres de la NAT afin de déterminer si le candidat peut ou non entrer dans le groupe des Beatmap Nominators. Pour plus d'informations sur la façon de postuler, consultez la page [Devenir un Beatmap Nominator](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator).
-
-### Processus
-
-Lorsqu'un utilisateur postule pour devenir un BN, la NAT sera notifiée via le bot Discord "bnsite" dans leur salon Discord respectif. La notification comprendra le nom et le résultat du test du candidat, ainsi que les membres de la NAT qui ont été affectés à la demande.
-
-Les membres de la NAT peuvent ensuite examiner la demande complète sur le site web de la NAT, qui comprend toutes les informations que le candidat a soumises, ses résultats au test, ainsi qu'un historique des évaluations antérieures si l'utilisateur a fait une candidature ou a été un BN auparavant.
-
-L'évaluation est divisée en deux phases : *individuelle* et *groupe*.
-
-### La phase individuelle
-
-La phase individuelle a une date limite de 7 jours après que le candidat ait envoyé sa candidature, et est remplie individuellement par chaque membre de la NAT assigné. Chaque membre de la NAT soumettra son évaluation du modding et des candidatures des candidats, afin de déterminer s'ils répondent aux [critères de base](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator#critères-de-base) pour devenir BN. Pendant cette phase, ils ne discutent pas de leurs conclusions entre eux afin de se forger pleinement une opinion individuelle sur la candidature.
-
-Une fois que trois membres de la NAT auront soumis leurs évaluations individuelles, la demande passera automatiquement à la phase de groupe sur le site web de la NAT.
-
-### La phase de groupe
-
-La phase de groupe a une date limite de 14 jours après que le candidat ait envoyé sa demande. Au cours de la phase de groupe, les membres de la NAT peuvent lire les évaluations des autres membres et discuter davantage si nécessaire pour parvenir à un consensus final. Une fois le consensus atteint, ils publient le résultat sur le site web de la NAT et rédigent le retour d'évaluation final pour le candidat. 
-
-Dans le cas de [candidatures rejetées](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator#demandes-rejetées), la NAT déterminera également la durée du délai de l'utilisateur avant qu'il puisse postuler à nouveau. Le délai standard est de 90 jours à partir de la date de la candidature, mais la durée peut être réduite pour les candidats ayant relativement peu de problèmes à résoudre avant de devenir des Beatmap Nominators. Dans ce cas, les conditions de réduction du délai d'attente seront indiquées dans le feedback envoyé aux candidats.
-
-Une fois que le consensus est atteint et que les commentaires sont rédigés, les membres de la NAT les examinent afin d'affiner l'exactitude et la clarté des commentaires pour le candidat. Ils envoient ensuite le feedback au candidat, après quoi l'évaluation sera archivée pour référence future. Le feedback lui-même sera envoyé par le [mappersguild bot](https://osu.ppy.sh/users/23648635) comme un message dans le tchat d'osu!.
-
 ## Évaluations actuelles des Beatmap Nominators
 
 Chaque BN est examiné régulièrement par les membres de la NAT.

@@ -4,7 +4,7 @@ outdated_translation: true
 
 # Beatmap Aday Gösterici olma
 
-[Beatmap Aday Göstericilere](/wiki/People/Beatmap_Nominators) katılmak isteyen kullanıcıların [Aday Gösterme Denetleme Takımı](/wiki/People/Nomination_Assessment_Team) (NAT) tarafından yönetilen bir başvuru sürecinden geçmesi gerekir. Başvurular [NAT websitesi](http://bn.mappersguild.com/) üzerinden yürütülür.
+[Beatmap Aday Göstericilere](/wiki/People/Beatmap_Nominators) katılmak isteyen kullanıcıların [Aday Gösterme Denetleme Takımı](/wiki/People/Nomination_Assessment_Team) (NAT) tarafından yönetilen bir başvuru sürecinden geçmesi gerekir. Başvurular [BN websitesi](http://bn.mappersguild.com/) üzerinden yürütülür.
 
 Bir kullanıcının başvurmak için belirli bir modlama aktivite gereksinimini karşılaması, yakın tarihte modladığı iki tane mapi göndermesi, ve [Derecelendirme Kriterleri](/wiki/Ranking_Criteria) ile ilgili bir testi tamamması gerekir. Bir başvuru gönderildiğinde yeni bir başvuru göndermeden önce 90 günlük bir bekleme süresi bulunur. Bir karara varıldığında NAT tarafından bir mesaj gönderilecektir. Başvurularla ilgili daha fazla bilgiye bu websiteden ulaşılabilir.
 
