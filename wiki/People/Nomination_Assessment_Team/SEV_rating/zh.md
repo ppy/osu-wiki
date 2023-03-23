@@ -4,7 +4,7 @@ no_native_review: true
 
 # SEV 分数
 
-SEV 是一套[审核评估团队](/wiki/People/The_Team/Nomination_Assessment_Team) (*NAT*) 使用的系统，用于评估[提名重置](/wiki/Beatmap_ranking_procedure#提名重置)与[谱面审核成员](/wiki/People/The_Team/Beatmap_Nominators) (*BN*) 的过错有多少关系，将提名重置透明化，连贯化。这个分数分为两个值，显示为明显性和严重性。它们的取值范围在 0 到 2 之间，以便于此系统易于理解，方便使用。
+SEV 是一套[审核评估团队](/wiki/People/Nomination_Assessment_Team) (*NAT*) 使用的系统，用于评估[提名重置](/wiki/Beatmap_ranking_procedure#提名重置)与[谱面审核成员](/wiki/People/Beatmap_Nominators) (*BN*) 的过错有多少关系，将提名重置透明化，连贯化。这个分数分为两个值，显示为明显性和严重性。它们的取值范围在 0 到 2 之间，以便于此系统易于理解，方便使用。
 
 ## 明显性和严重性
 
@@ -41,7 +41,7 @@ SEV 是一套[审核评估团队](/wiki/People/The_Team/Nomination_Assessment_Te
 
 ## 使用
 
-SEV 分数用于[评估谱面审核成员 (BN)](/wiki/People/The_Team/Nomination_Assessment_Team/Evaluations)，并与他们提名谱面的数量做比较。
+SEV 分数用于[评估谱面审核成员 (BN)](/wiki/People/Nomination_Assessment_Team/Evaluations)，并与他们提名谱面的数量做比较。
 
 偶尔的失误能促使成员进步。但如果失误发生得太频繁，或是两次在同一个地方出错，这就变成了问题。所以评估不关注单个 SEV 分数，而是综合每个分数来考虑。
 

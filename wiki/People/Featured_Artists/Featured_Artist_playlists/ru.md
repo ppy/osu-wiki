@@ -6,7 +6,7 @@ tags:
 
 # Плейлисты Featured Artist
 
-В [osu!(lazer)](/wiki/Client/Release_stream/Lazer) каждый месяц размещаются новые **плейлисты, составленные из музыки [Featured Artist](/wiki/Featured_Artists)**, карты в которых замапаны во всех [игровых режимах](/wiki/Game_mode). У таких плейлистов нет строгого формата: их условия, подборка карт, а также призы за прохождение меняются от месяца к месяцу.
+В [osu!(lazer)](/wiki/Client/Release_stream/Lazer) каждый месяц размещаются новые **плейлисты, составленные из музыки [Featured Artist](/wiki/People/Featured_Artists)**, карты в которых замапаны во всех [игровых режимах](/wiki/Game_mode). У таких плейлистов нет строгого формата: их условия, подборка карт, а также призы за прохождение меняются от месяца к месяцу.
 
 ![Комната с плейлистом Featured Artist](img/playlist.jpg "Комната с плейлистом Featured Artist в osu!(lazer)")
 

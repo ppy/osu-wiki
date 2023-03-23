@@ -53,5 +53,5 @@ Reszta zespołu pomaga z kontrolą jakości, zarządzaniem i organizacją.
 
 ## Ciekawostki
 
-- We wrześniu 2017 roku użytkownik ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) stworzył pierwszy zespół kapitanów wraz z systemem [Captain's Pick](/wiki/Beatmap/History_of_Loved#captain's-pick-and-project-loved-(sep-2017-–-present)), którego nazwa została później zmieniona na Project Loved. Do późnego 2019 roku Toy nadzorował i zarządzał całym projektem.
+- We wrześniu 2017 roku użytkownik ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) stworzył pierwszy zespół kapitanów wraz z systemem [Captain's Pick](/wiki/History_of_osu!/History_of_Loved#captain's-pick-and-project-loved-(sep-2017-–-present)), którego nazwa została później zmieniona na Project Loved. Do późnego 2019 roku Toy nadzorował i zarządzał całym projektem.
 - Grupa zespołu Project Loved ma numer 31, ale jej strona nie jest dostępna dla wszystkich. Członkowstwo w grupie pozwala na moderowanie [forum Project Loved](https://osu.ppy.sh/community/forums/120) i nadawanie beatmapom statusu ulubionych społeczności. Jedynymi członkami tej grupy są: ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350), ::{ flag=LT }:: [huu](https://osu.ppy.sh/users/6044237) oraz ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689).

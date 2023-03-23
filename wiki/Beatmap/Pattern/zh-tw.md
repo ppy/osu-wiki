@@ -10,7 +10,7 @@ outdated_translation: true
 
 # 排法
 
-**排法**是指[圖譜](/wiki/Beatmap)中的一組[打擊物件](/wiki/Hit_object)以有意義的方式排列。
+**排法**是指[圖譜](/wiki/Beatmap)中的一組[打擊物件](/wiki/Gameplay/Hit_object)以有意義的方式排列。
 
 ## 常見排法
 

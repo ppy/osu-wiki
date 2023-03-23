@@ -10,13 +10,13 @@ tags:
 
 *参见：[BN 评估](Evaluations)，[SEV 分数](SEV_rating)*
 
-**审核评估团队** 全称为 Nomination Assessment Team (***NAT***)，是负责监督[谱面审核成员](/wiki/People/The_Team/Beatmap_Nominators) (*BN*)，并确保 osu! 的谱面相关功能或社区保持正常的一群玩家。
+**审核评估团队** 全称为 Nomination Assessment Team (***NAT***)，是负责监督[谱面审核成员](/wiki/People/Beatmap_Nominators) (*BN*)，并确保 osu! 的谱面相关功能或社区保持正常的一群玩家。
 
-他们用户名通常标记为红色。和[全局管理团队](/wiki/People/The_Team/Global_Moderation_Team) (*GMT*) 一样，他们拥有全网站的管理和审核权限。同时，他们也和 [正式](/wiki/People/The_Team/Beatmap_Nominators#正式成员)[谱面审核成员](/wiki/People/The_Team/Beatmap_Nominators) (*BN*) 一样，能够提名谱面，或重置谱面的提名。大多数情况中，审核评估团队 (NAT) 成员就是具有不同职责的谱面审核成员 (*BN*)。因此，对于审核评估团队的所有成员，所有加在谱面审核成员 (*BN*) 身上的 [BN 规则](/wiki/People/The_Team/Beatmap_Nominators/Rules)和[对 BN 的期望](/wiki/People/The_Team/Beatmap_Nominators/Expectations)都适用。但是他们无需遵守类似活跃度要求的规则。
+他们用户名通常标记为红色。和[全局管理团队](/wiki/People/Global_Moderation_Team) (*GMT*) 一样，他们拥有全网站的管理和审核权限。同时，他们也和 [正式](/wiki/People/Beatmap_Nominators#正式成员)[谱面审核成员](/wiki/People/Beatmap_Nominators) (*BN*) 一样，能够提名谱面，或重置谱面的提名。大多数情况中，审核评估团队 (NAT) 成员就是具有不同职责的谱面审核成员 (*BN*)。因此，对于审核评估团队的所有成员，所有加在谱面审核成员 (*BN*) 身上的 [BN 规则](/wiki/People/Beatmap_Nominators/Rules)和[对 BN 的期望](/wiki/People/Beatmap_Nominators/Expectations)都适用。但是他们无需遵守类似活跃度要求的规则。
 
-**审核评估团队的所有成员，都应宣誓和遵守[贡献者公约](/wiki/Contributor_Code_of_Conduct)以及[普通的社区规则](/wiki/Rules)。**
+**审核评估团队的所有成员，都应宣誓和遵守[贡献者公约](/wiki/Rules/Contributor_Code_of_Conduct)以及[普通的社区规则](/wiki/Rules)。**
 
-***注意：如果发现审核评估团队 (NAT) 成员有违反贡献者公约或其他不良行为，请联系[账号支持团队](/wiki/People/The_Team/Account_support_team#support@ppy.sh)并举报。***
+***注意：如果发现审核评估团队 (NAT) 成员有违反贡献者公约或其他不良行为，请联系[账号支持团队](/wiki/People/Account_support_team#support@ppy.sh)并举报。***
 
 ## 职责
 
@@ -26,11 +26,11 @@ tags:
 
 属于**评估者** (Evaluators) 小组的成员主要负责：
 
-- **评估**：评估所有谱面审核成员和谱面审核成员团队申请者的申请，确保他们足够专业和活跃。参阅 [BN 评估](/wiki/People/The_Team/Nomination_Assessment_Team/Evaluations)页面了解更多信息。
+- **评估**：评估所有谱面审核成员和谱面审核成员团队申请者的申请，确保他们足够专业和活跃。参阅 [BN 评估](/wiki/People/Nomination_Assessment_Team/Evaluations)页面了解更多信息。
 - **提名**：评估者成员一个月至少要提名两张谱面。这能帮助评估者在评估在职的谱面审核成员 (BN)，或是想要加入谱面审核成员 (BN) 的申请者时，能以作图和摸图社区的最新情况作为参考。
   - 评估者成员的摸图活跃度和其他方面的贡献，可用于作为确定他们活跃度时的备用参考。
 
-评估者职位与只会偶尔纳入新成员，帮助降低工作负担的顾问职位不同，由于 [BN 申请](/wiki/People/The_Team/Beatmap_Nominators/Becoming_a_Beatmap_Nominator)的数量庞大，相应地，也需要非常多的评估者来处理。这就是在寻求想加入审核评估团队 (NAT) 的谱面审核成员 (BN) 时，主要评判标准是他们的评估能力的原因。大多数审核评估团队 (NAT) 成员都是作为评估者而留在团队中的。
+评估者职位与只会偶尔纳入新成员，帮助降低工作负担的顾问职位不同，由于 [BN 申请](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator)的数量庞大，相应地，也需要非常多的评估者来处理。这就是在寻求想加入审核评估团队 (NAT) 的谱面审核成员 (BN) 时，主要评判标准是他们的评估能力的原因。大多数审核评估团队 (NAT) 成员都是作为评估者而留在团队中的。
 
 ### 顾问
 
@@ -41,7 +41,7 @@ tags:
 - **管理**：处理玩家举报，评估谱面审核成员 (BN) 的不良行为，以及处理和审查谱面内容。这部分工作通常由审核评估团队 (NAT) 和全局管理团队 (GMT) 合作完成。
 - **杂项处理**：包括但不限于：
  - 处理谱面否决 (Veto)。
- - 维护 [RC 考试](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test).
+ - 维护 [RC 考试](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test).
  - 判决提名重置的[严重程度](SEV_rating)。
 
 顾问需要确保谱面审核成员 (BN) 和作图和摸图社区的其他成员之间保持良好的沟通，互相之间接受对方的意见。此外，顾问还负责维护与作图和摸图相关的一切运行所需的组件。顾问通常由经验丰富的评估员组成，他们更常关注作图和摸图相关的管理事务。
@@ -62,7 +62,7 @@ tags:
 
 若要加入审核评估团队 (NAT)，则你必须是正式谱面审核成员 (Full BN)，或是曾加入审核评估团队 (NAT)，现在仍服务于社区的玩家。大部分审核评估团队 (NAT) 候选人，最初都是由于他们在作图和摸图社区作出了卓越贡献，从而上任的。这能证明他们有能力胜任审核评估团队 (NAT) 的四类事项。
 
-由于所有新上任的审核评估团队 (NAT) 成员都要从评估者做起，所以新成员必须在评估这一方面较其他玩家更加熟练。正式谱面审核成员 (Full BN) 有练习评估的机会，即与审核评估团队 (NAT) 成员的真实评估一起，[模拟练习评估流程](/wiki/People/The_Team/Nomination_Assessment_Team/Evaluations#mock-evaluations)。如果他们的模拟评估结果与审核评估团队 (NAT) 成员的结果很相似（或者评估中提到的原因大同小异），那么他们则很可能成为审核评估团队 (NAT) 候选人。
+由于所有新上任的审核评估团队 (NAT) 成员都要从评估者做起，所以新成员必须在评估这一方面较其他玩家更加熟练。正式谱面审核成员 (Full BN) 有练习评估的机会，即与审核评估团队 (NAT) 成员的真实评估一起，[模拟练习评估流程](/wiki/People/Nomination_Assessment_Team/Evaluations#mock-evaluations)。如果他们的模拟评估结果与审核评估团队 (NAT) 成员的结果很相似（或者评估中提到的原因大同小异），那么他们则很可能成为审核评估团队 (NAT) 候选人。
 
 审核评估团队 (NAT) 成员会长期关注潜在的候选人，和谱面审核成员 (BN) 评估一样，团队成员偶尔也会开会，来决定这些候选人是否应进入团队。如果谱面审核成员 (BN) 想要知道自己是否被考虑进候选人，或是有加入审核评估团队 (NAT) 等相关问题，可以询问现团队成员。然而，根据现状来看，团队的人员变动不会太频繁，只有当某位成员不活跃，或是团队有更多工作要做时，才会考虑纳入新成员。
 

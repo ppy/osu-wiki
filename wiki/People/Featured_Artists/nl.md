@@ -12,7 +12,7 @@ Elke pagina uit de [aanbevolen artiesten lijst](https://osu.ppy.sh/beatmaps/arti
 
 ## Selectie
 
-De nieuwe toevoegingen aan de aanbevolen artiesten-bibliotheek worden indirect geselecteerd door de osu! community. Als beatmappers maps maken en ranken van een bepaalde artiest, kan het zijn dat het [osu! team](/wiki/People/The_Team) de artiesten contacteert om hun toevoeging aan het aanbevolen artiesten programma te bespreken. Soms worden artiesten echter uitgenodigd voor andere redenen, zoals wanneer er een hoge interesse van de osu! community verwacht wordt.
+De nieuwe toevoegingen aan de aanbevolen artiesten-bibliotheek worden indirect geselecteerd door de osu! community. Als beatmappers maps maken en ranken van een bepaalde artiest, kan het zijn dat het [osu! team](/wiki/People/osu!_team) de artiesten contacteert om hun toevoeging aan het aanbevolen artiesten programma te bespreken. Soms worden artiesten echter uitgenodigd voor andere redenen, zoals wanneer er een hoge interesse van de osu! community verwacht wordt.
 
 De meeste nummers in het aanbevolen artiesten programma zijn niet-exclusief gelicencieerd aan osu!. In uitzonderlijke gevallen maken artiesten nummers exclusief voor osu!, die ook gelabeld worden als *osu! exclusive* op hun aanbevolen artiest pagina.
 

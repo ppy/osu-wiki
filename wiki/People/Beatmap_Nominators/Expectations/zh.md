@@ -1,8 +1,8 @@
 # 对 BN 的期望
 
-*参见：[谱面审核成员 (BN) 规章制度](/wiki/People/The_Team/Beatmap_Nominators/Rules)*
+*参见：[谱面审核成员 (BN) 规章制度](/wiki/People/Beatmap_Nominators/Rules)*
 
-作为 osu! 社区和 osu! 团队的核心人物，[谱面审核成员 (BN)](/wiki/People/The_Team/Beatmap_Nominators) 通常相比于其他玩家要求更高。这里列出的期望是由[审核评估团队 (NAT)](/wiki/People/The_Team/Nomination_Assessment_Team) 讨论得出的结果。虽然这些期望几乎不可能完美达成，但如果 BN 多次严重地违反这些期望，NAT 能综合常识，逐案判断这些行为的影响和恶劣程度，并警告或者直接革职 BN。
+作为 osu! 社区和 osu! 团队的核心人物，[谱面审核成员 (BN)](/wiki/People/Beatmap_Nominators) 通常相比于其他玩家要求更高。这里列出的期望是由[审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) 讨论得出的结果。虽然这些期望几乎不可能完美达成，但如果 BN 多次严重地违反这些期望，NAT 能综合常识，逐案判断这些行为的影响和恶劣程度，并警告或者直接革职 BN。
 
 注意，BN 应时刻遵循[摸图和作图的行为规范](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)。同时，应时刻把维持上架谱面的质量当做第一要务。
 
@@ -14,4 +14,4 @@
 - **让上架谱面区百花齐放。** 作为上架谱面区的主要贡献者，BN 应尽力提供来自不同谱师的内容。BN 可以拥有自己的喜好，但这不意味着总是提名固定的 BN 或谱师制作的谱面。
 - **提升自己！** 成为 BN 只是这条旅程的起点，将来你还会学习接触到很多东西。BN 并不是一个总帮助他人的角色，当不确定某些事情时，也可以询问他人。
 
-希望当选 BN 的玩家在[寻求加入 BN](/wiki/People/The_Team/Beatmap_Nominators/Becoming_a_Beatmap_Nominator) 前，应熟读谨记以上期望。
+希望当选 BN 的玩家在[寻求加入 BN](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator) 前，应熟读谨记以上期望。

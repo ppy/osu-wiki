@@ -10,7 +10,7 @@ tags:
 
 # 開發團隊
 
-osu!的開發人員透過加入新功能和修復 bug 以維護遊戲和網站。他們大部分都是 ppy 私人有限公司的員工。並在 [osu!team](/wiki/People/The_Team) 中佔大多數。
+osu!的開發人員透過加入新功能和修復 bug 以維護遊戲和網站。他們大部分都是 ppy 私人有限公司的員工。並在 [osu!team](/wiki/People/osu!_team) 中佔大多數。
 
 osu!的開發人員可透過其粉色的使用者名稱及 "osu!dev" 或  "osu!team" 這兩個玩家頭銜識別。
 

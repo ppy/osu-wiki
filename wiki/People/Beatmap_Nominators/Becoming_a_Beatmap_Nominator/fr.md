@@ -1,10 +1,10 @@
 # Devenir un Beatmap Nominator
 
-Les utilisateurs souhaitant rejoindre les [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) doivent passer par un processus de candidature supervisé par la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (NAT).
+Les utilisateurs souhaitant rejoindre les [Beatmap Nominators](/wiki/People/Beatmap_Nominators) doivent passer par un processus de candidature supervisé par la [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (NAT).
 
 Les candidatures se font via le [site web de la NAT](http://bn.mappersguild.com/bnapps).
 
-Les candidats doivent atteindre un seuil minimum de [kudosu](/wiki/Modding/Kudosu), soumettre au moins deux beatmaps qu'ils ont récemment moddées et passer un [test](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) sur les [critères de classement](/wiki/Ranking_Criteria) afin de soumettre leur candidature. Un message de la NAT sera envoyé dès qu'un verdict aura été rendu. Vous trouverez plus d'informations sur les modalités de candidature sur le site web.
+Les candidats doivent atteindre un seuil minimum de [kudosu](/wiki/Modding/Kudosu), soumettre au moins deux beatmaps qu'ils ont récemment moddées et passer un [test](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test) sur les [critères de classement](/wiki/Ranking_Criteria) afin de soumettre leur candidature. Un message de la NAT sera envoyé dès qu'un verdict aura été rendu. Vous trouverez plus d'informations sur les modalités de candidature sur le site web.
 
 ## Critères de base
 
@@ -46,7 +46,7 @@ Vous avez ces conditions si vous avez échoué à une demande pour rejoindre les
 | :-- | :-- |
 | Standard | 90 jours |
 | Réduit | 45-60 jours |
-| Avoir échoué le [Beatmap Nominator Test](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) | 30 jours |
+| Avoir échoué le [Beatmap Nominator Test](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test) | 30 jours |
 
 ### Réintégration après avoir été retiré des Beatmap Nominators
 
@@ -62,6 +62,6 @@ L'exigence de 8 mods pour ceux qui postulent après avoir été retirés suite �
 | Activité | 30 jours | 8 mods en 60 jours |
 | Bon | 30 jours | *N/A* |
 
-Les anciens Beatmap Nominators qui ont démissionné en bons termes au cours des 6 derniers mois ont la possibilité de demander instantanément à être réintégrés en tant que membres à part entière, sans avoir à passer le [Beatmap Nominator Test](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test), ni à fournir de mods pour l'évaluation.
+Les anciens Beatmap Nominators qui ont démissionné en bons termes au cours des 6 derniers mois ont la possibilité de demander instantanément à être réintégrés en tant que membres à part entière, sans avoir à passer le [Beatmap Nominator Test](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test), ni à fournir de mods pour l'évaluation.
 
 Les anciens Beatmap Nominators qui ont démissionné en bons termes au cours de l'année écoulée doivent quand même faire une nouvelle demande en bonne et due forme afin de se réinscrire, et deviendront membres à part entière dès qu'ils seront acceptés.

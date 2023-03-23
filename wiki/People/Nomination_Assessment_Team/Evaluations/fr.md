@@ -1,6 +1,6 @@
 # Évaluations des Beatmap Nominators
 
-Les évaluations de ceux qui demandent à devenir [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators) (*BN*) ainsi que des Beatmap Nominators actuels sont effectuées par les membres de la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (*NAT*). Ces évaluations suivent un format défini afin de garantir que chaque candidature et chaque nominateur seront examinés régulièrement. Toutes les évaluations ont lieu sur le [site web de la NAT](https://bn.mappersguild.com/).
+Les évaluations de ceux qui demandent à devenir [Beatmap Nominator](/wiki/People/Beatmap_Nominators) (*BN*) ainsi que des Beatmap Nominators actuels sont effectuées par les membres de la [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (*NAT*). Ces évaluations suivent un format défini afin de garantir que chaque candidature et chaque nominateur seront examinés régulièrement. Toutes les évaluations ont lieu sur le [site web de la NAT](https://bn.mappersguild.com/).
 
 Chaque évaluation comporte deux phases : *individuelle* et *groupe*. Ces phases diffèrent dans les détails de leur fonctionnement pour les candidatures ou les évaluations régulières des BN et seront détaillées ci-dessous.
 
@@ -12,7 +12,7 @@ Les références à Discord dans cet article se rapportent au serveur Discord de
 
 ## Candidatures des Beatmap Nominators
 
-Chaque candidature soumise au site web de la NAT qui réussit le [Beatmap Nominator Test](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) sera examinée par les membres de la NAT afin de déterminer si le candidat peut ou non entrer dans le groupe des Beatmap Nominators. Pour plus d'informations sur la façon de postuler, consultez la page [Devenir un Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators/Becoming_a_Beatmap_Nominator).
+Chaque candidature soumise au site web de la NAT qui réussit le [Beatmap Nominator Test](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test) sera examinée par les membres de la NAT afin de déterminer si le candidat peut ou non entrer dans le groupe des Beatmap Nominators. Pour plus d'informations sur la façon de postuler, consultez la page [Devenir un Beatmap Nominator](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator).
 
 ### Processus
 
@@ -24,7 +24,7 @@ L'évaluation est divisée en deux phases : *individuelle* et *groupe*.
 
 ### La phase individuelle
 
-La phase individuelle a une date limite de 7 jours après que le candidat ait envoyé sa candidature, et est remplie individuellement par chaque membre de la NAT assigné. Chaque membre de la NAT soumettra son évaluation du modding et des candidatures des candidats, afin de déterminer s'ils répondent aux [critères de base](/wiki/People/The_Team/Beatmap_Nominators/Becoming_a_Beatmap_Nominator#critères-de-base) pour devenir BN. Pendant cette phase, ils ne discutent pas de leurs conclusions entre eux afin de se forger pleinement une opinion individuelle sur la candidature.
+La phase individuelle a une date limite de 7 jours après que le candidat ait envoyé sa candidature, et est remplie individuellement par chaque membre de la NAT assigné. Chaque membre de la NAT soumettra son évaluation du modding et des candidatures des candidats, afin de déterminer s'ils répondent aux [critères de base](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator#critères-de-base) pour devenir BN. Pendant cette phase, ils ne discutent pas de leurs conclusions entre eux afin de se forger pleinement une opinion individuelle sur la candidature.
 
 Une fois que trois membres de la NAT auront soumis leurs évaluations individuelles, la demande passera automatiquement à la phase de groupe sur le site web de la NAT.
 
@@ -32,7 +32,7 @@ Une fois que trois membres de la NAT auront soumis leurs évaluations individuel
 
 La phase de groupe a une date limite de 14 jours après que le candidat ait envoyé sa demande. Au cours de la phase de groupe, les membres de la NAT peuvent lire les évaluations des autres membres et discuter davantage si nécessaire pour parvenir à un consensus final. Une fois le consensus atteint, ils publient le résultat sur le site web de la NAT et rédigent le retour d'évaluation final pour le candidat. 
 
-Dans le cas de [candidatures rejetées](/wiki/People/The_Team/Beatmap_Nominators/Becoming_a_Beatmap_Nominator#demandes-rejetées), la NAT déterminera également la durée du délai de l'utilisateur avant qu'il puisse postuler à nouveau. Le délai standard est de 90 jours à partir de la date de la candidature, mais la durée peut être réduite pour les candidats ayant relativement peu de problèmes à résoudre avant de devenir des Beatmap Nominators. Dans ce cas, les conditions de réduction du délai d'attente seront indiquées dans le feedback envoyé aux candidats.
+Dans le cas de [candidatures rejetées](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator#demandes-rejetées), la NAT déterminera également la durée du délai de l'utilisateur avant qu'il puisse postuler à nouveau. Le délai standard est de 90 jours à partir de la date de la candidature, mais la durée peut être réduite pour les candidats ayant relativement peu de problèmes à résoudre avant de devenir des Beatmap Nominators. Dans ce cas, les conditions de réduction du délai d'attente seront indiquées dans le feedback envoyé aux candidats.
 
 Une fois que le consensus est atteint et que les commentaires sont rédigés, les membres de la NAT les examinent afin d'affiner l'exactitude et la clarté des commentaires pour le candidat. Ils envoient ensuite le feedback au candidat, après quoi l'évaluation sera archivée pour référence future. Le feedback lui-même sera envoyé par le [mappersguild bot](https://osu.ppy.sh/users/23648635) comme un message dans le tchat d'osu!.
 
@@ -40,7 +40,7 @@ Une fois que le consensus est atteint et que les commentaires sont rédigés, le
 
 Chaque BN est examiné régulièrement par les membres de la NAT.
 
-Pour les Beatmap Nominators en [probation](/wiki/People/The_Team/Beatmap_Nominators#beatmap-nominators-probatoires), ou qui ont reçu un avertissement d'[activité](/wiki/People/The_Team/Beatmap_Nominators/Rules#activité), leur prochaine évaluation sera programmée environ 1 mois après avoir été mis en probation ou avoir reçu leur avertissement.
+Pour les Beatmap Nominators en [probation](/wiki/People/Beatmap_Nominators#beatmap-nominators-probatoires), ou qui ont reçu un avertissement d'[activité](/wiki/People/Beatmap_Nominators/Rules#activité), leur prochaine évaluation sera programmée environ 1 mois après avoir été mis en probation ou avoir reçu leur avertissement.
 
 Pour les Beatmap Nominators sans avertissements récents, leurs évaluations seront programmées tous les 3 mois.
 
@@ -50,7 +50,7 @@ Tout comme les candidatures, les évaluations actuelles des BN sont attribuées 
 
 ### Phase individuelle
 
-La phase individuelle sera affichée sur le site web des BN deux semaines avant l'échéance, ce qui permettra aux membres de la NAT de savoir quelles évaluations sont à venir afin de les aider à gérer leur charge de travail de manière appropriée. Au cours de la phase individuelle, les membres de la NAT peuvent soumettre leurs évaluations sur la performance du Beatmap Nominator. Ces évaluations tiendront compte des nominations du BN, des éventuelles réinitialisations de nominations qui ont eu lieu sur leurs nominations, ainsi que du modding global du BN sur un échantillon de ses beatmaps nominées. Les membres de la NAT vérifieront également si le BN respecte les [règles pour les Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators/Rules) et les [attentes](/wiki/People/The_Team/Beatmap_Nominators/Expectations) de manière appropriée.
+La phase individuelle sera affichée sur le site web des BN deux semaines avant l'échéance, ce qui permettra aux membres de la NAT de savoir quelles évaluations sont à venir afin de les aider à gérer leur charge de travail de manière appropriée. Au cours de la phase individuelle, les membres de la NAT peuvent soumettre leurs évaluations sur la performance du Beatmap Nominator. Ces évaluations tiendront compte des nominations du BN, des éventuelles réinitialisations de nominations qui ont eu lieu sur leurs nominations, ainsi que du modding global du BN sur un échantillon de ses beatmaps nominées. Les membres de la NAT vérifieront également si le BN respecte les [règles pour les Beatmap Nominators](/wiki/People/Beatmap_Nominators/Rules) et les [attentes](/wiki/People/Beatmap_Nominators/Expectations) de manière appropriée.
 
 ### Phase de groupe
 

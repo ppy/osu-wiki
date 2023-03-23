@@ -1,6 +1,6 @@
 # Support Team
 
-*Para un equipo que administra cuentas, véase: [Equipo de soporte de cuentas](/wiki/People/The_Team/Account_support_team)*
+*Para un equipo que administra cuentas, véase: [Equipo de soporte de cuentas](/wiki/People/Account_support_team)*
 
 El **Support Team**, también conocido como **Support Team Redux**, son miembros del personal de osu! que se enfocan en la moderación del foro en varios subforos: [Development](https://osu.ppy.sh/community/forums/2), [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13) (excluyendo [Tournaments](https://osu.ppy.sh/community/forums/55) y [Mapping Techniques](https://osu.ppy.sh/community/forums/61)), [Skinning](https://osu.ppy.sh/community/forums/15), [Feature Requests](https://osu.ppy.sh/community/forums/4), y [Help](https://osu.ppy.sh/community/forums/5).
 

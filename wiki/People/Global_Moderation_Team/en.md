@@ -12,9 +12,9 @@ tags:
 
 The **Global Moderation Team** (formerly known as the Global Mod Team, Administrators, or GreenBAT), commonly referred to as **GMT**, are members of the community who are focused primarily on player moderation and issues pertinent to the team and the community at large. They are distinguished by their user title and the username colour, which is red in-game and citrus green on the forums.
 
-**All Global Moderators are sworn to uphold [the Contributor Code of Conduct](/wiki/Contributor_Code_of_Conduct) in addition to the normal [Community Rules](/wiki/Rules).**
+**All Global Moderators are sworn to uphold [the Contributor Code of Conduct](/wiki/Rules/Contributor_Code_of_Conduct) in addition to the normal [Community Rules](/wiki/Rules).**
 
-***Note: To report a moderator misbehaving or breaking the Contributor Code of Conduct, contact the [account support team](/wiki/People/The_Team/Account_support_team#support@ppy.sh).***
+***Note: To report a moderator misbehaving or breaking the Contributor Code of Conduct, contact the [account support team](/wiki/People/Account_support_team#support@ppy.sh).***
 
 ## Roles and responsibilities
 

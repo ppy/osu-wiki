@@ -16,9 +16,9 @@ tags:
 
 La **Global Moderation Team** (anciennement appelée Global Mod Team, Administrators ou GreenBAT), communément appelée **GMT**, est composée de membres de la communauté qui se concentrent principalement sur la modération des joueurs et sur les questions pertinentes pour l'équipe et la communauté dans son ensemble. Ils se distinguent par leur titre d'utilisateur et la couleur de leur nom d'utilisateur, qui est rouge dans le jeu et vert agrume sur les forums.
 
-**Tous les Global Moderators sont tenus de respecter le [Code de conduite Contributor Covenant](/wiki/Contributor_Code_of_Conduct) en plus des [règles de la communauté](/wiki/Rules) normales.**
+**Tous les Global Moderators sont tenus de respecter le [Code de conduite Contributor Covenant](/wiki/Rules/Contributor_Code_of_Conduct) en plus des [règles de la communauté](/wiki/Rules) normales.**
 
-***Remarque : pour signaler qu'un modérateur s'est mal comporté ou a enfreint le code de conduite des contributeurs, contactez l'[équipe de support aux comptes](/wiki/People/The_Team/Account_support_team#support@ppy.sh).***
+***Remarque : pour signaler qu'un modérateur s'est mal comporté ou a enfreint le code de conduite des contributeurs, contactez l'[équipe de support aux comptes](/wiki/People/Account_support_team#support@ppy.sh).***
 
 ## Rôles et responsabilités
 

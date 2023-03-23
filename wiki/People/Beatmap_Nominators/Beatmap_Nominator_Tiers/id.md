@@ -1,8 +1,8 @@
 # Tingkatan Beatmap Nominator
 
-**Tingkatan Beatmap Nominator** adalah sebuah cara untuk mengelompokkan [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators) (*BN*) menjadi dua tingkat yaitu tingkat atas dan tingkat bawah, sama seperti [Mapping Assistance Team](/wiki/Modding/Mapping_Assistance_Team) dan [Beatmap Appreciation Team](/wiki/Modding/Beatmap_Appreciation_Team). Sistem ini digunakan sejak April 2017 sampai dengan September 2017.
+**Tingkatan Beatmap Nominator** adalah sebuah cara untuk mengelompokkan [Beatmap Nominator](/wiki/People/Beatmap_Nominators) (*BN*) menjadi dua tingkat yaitu tingkat atas dan tingkat bawah, sama seperti [Mapping Assistance Team](/wiki/People/Mapping_Assistance_Team) dan [Beatmap Appreciation Team](/wiki/People/Beatmap_Appreciation_Team). Sistem ini digunakan sejak April 2017 sampai dengan September 2017.
 
-Sistem ini diterapkan sebagai tanggapan dari perubahan fungsi [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) (*QAT*) dari memastikan kualitas beatmap yang dikualifikasi menjadi manajemen BN secara umum. Dengan memberikan izin kualifikasi hanya kepada anggota BN yang "paling mampu", QAT berharap kualitas ranked beatmap akan membaik.
+Sistem ini diterapkan sebagai tanggapan dari perubahan fungsi [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) (*QAT*) dari memastikan kualitas beatmap yang dikualifikasi menjadi manajemen BN secara umum. Dengan memberikan izin kualifikasi hanya kepada anggota BN yang "paling mampu", QAT berharap kualitas ranked beatmap akan membaik.
 
 ## Izin
 
@@ -11,7 +11,7 @@ Sistem ini diterapkan sebagai tanggapan dari perubahan fungsi [Quality Assurance
 
 ## Tes Tingkatan Beatmap Nominator
 
-Untuk memutuskan tingkatan dari masing-masing Beatmap Nominator, semua anggota BN akan diberikan sebuah [Tes BN](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test). Tidak seperti tes BN sebelumnya, tes ini dirancang untuk mengidentifikasi masalah umum dalam sebuah mapset.
+Untuk memutuskan tingkatan dari masing-masing Beatmap Nominator, semua anggota BN akan diberikan sebuah [Tes BN](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test). Tidak seperti tes BN sebelumnya, tes ini dirancang untuk mengidentifikasi masalah umum dalam sebuah mapset.
 
 Skor tes secara keseluruhan tidak dapat diandalkan karena sebagian besar pengguna memiliki skor yang sangat rendah. Rencana awalnya adalah untuk membagi pengguna menjadi beberapa tingkatan berdasarkan skor tes, tetapi separuh keatas dari hasil skor tes terlalu rendah untuk menjadi pilihan yang layak. Sebaliknya, hanya 13 pengguna teratas dengan skor >50% yang diterima di tingkat kedua. Skor tertinggi diraih oleh [Yuii-](https://osu.ppy.sh/users/2935923) yaitu 76%.
 
@@ -27,4 +27,4 @@ Komunitas mapping melihat perubahan ini tidak produktif dan tidak ada gunanya, d
 
 ![](img/commentary.png "Contoh dari komentar komunitas terhadap tingkatan BN")
 
-Tingkatan Beatmap Nominator adalah pendahulu dari pembeda [Full Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators#full-beatmap-nominator) dan [Probationary Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators#probationary-beatmap-nominator) yang sudah diterapkan sejak September 2017. Izin mereka hampir sama, namun pengguna tidak bisa tetap berada di tingkat yang lebih rendah (probation) lebih dari 2 bulan. Jika seorang pengguna tidak siap untuk menjadi Full BN setelah 2 bulan, mereka akan dihapus dari BN.
+Tingkatan Beatmap Nominator adalah pendahulu dari pembeda [Full Beatmap Nominators](/wiki/People/Beatmap_Nominators#full-beatmap-nominator) dan [Probationary Beatmap Nominators](/wiki/People/Beatmap_Nominators#probationary-beatmap-nominator) yang sudah diterapkan sejak September 2017. Izin mereka hampir sama, namun pengguna tidak bisa tetap berada di tingkat yang lebih rendah (probation) lebih dari 2 bulan. Jika seorang pengguna tidak siap untuk menjadi Full BN setelah 2 bulan, mereka akan dihapus dari BN.

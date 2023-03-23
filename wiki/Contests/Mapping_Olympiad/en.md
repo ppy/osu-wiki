@@ -22,7 +22,7 @@
 - Storyboards will not be considered in the judging process.
 - Usage of custom [hitsounds](/wiki/Beatmapping/Hitsound) is allowed.
 - Collaboration on entries is not permitted.
-- Maps submitted to the contest must not be uploaded using the [Beatmap Submission System](/wiki/Submission) (BSS) until the contest is concluded and the winners are announced.
+- Maps submitted to the contest must not be uploaded using the [Beatmap Submission System](/wiki/Beatmapping/Beatmap_submission) (BSS) until the contest is concluded and the winners are announced.
 
 ## Previous contests
 

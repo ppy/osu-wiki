@@ -11,7 +11,7 @@ La [liste des Featured Artists](https://osu.ppy.sh/beatmaps/artists) du site pr�
 
 ## Sélection
 
-Les ajouts récents à la bibliothèque des Featured Artists sont sélectionnés indirectement par la communauté d'osu!. Si des mappeurs créent et classent des beatmaps pour un artiste, l'[équipe d'osu!](/wiki/People/The_Team) contacte l'artiste pour discuter du programme des Featured Artists. Cependant, certains artistes sont parfois invités à devenir des Featured Artists en fonction d'autres facteurs, tels que l'intérêt qu'ils devraient présenter pour le public du beatmapping d'osu!
+Les ajouts récents à la bibliothèque des Featured Artists sont sélectionnés indirectement par la communauté d'osu!. Si des mappeurs créent et classent des beatmaps pour un artiste, l'[équipe d'osu!](/wiki/People/osu!_team) contacte l'artiste pour discuter du programme des Featured Artists. Cependant, certains artistes sont parfois invités à devenir des Featured Artists en fonction d'autres facteurs, tels que l'intérêt qu'ils devraient présenter pour le public du beatmapping d'osu!
 
 La plupart des musiques figurant dans le programme des Featured Artists font l'objet d'une licence non exclusive pour osu!. Dans de rares cas, un artiste créera des morceaux exclusivement pour osu!, qui seront étiquetés *osu! exclusive* sur leur liste de Featured Artist.
 

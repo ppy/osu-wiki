@@ -1,6 +1,6 @@
 # Équipe de support aux comptes
 
-*Pour l'équipe qui modère certains sous-forums, voir : [Équipe du support](/wiki/People/The_Team/Support_Team)*
+*Pour l'équipe qui modère certains sous-forums, voir : [Équipe du support](/wiki/People/Support_Team)*
 
 L'**équipe de support aux comptes** est un groupe d'utilisateurs administrant les comptes utilisateurs et les demandes concernant les silences et les restrictions.
 
@@ -34,7 +34,7 @@ Vous devriez contacter cette équipe pour les sujets concernant votre compte qui
 *Remarque : Pour signaler un cas extrême de mauvaise conduite ou d'abus sexuel de n'importe quel utilisateur (modérateur inclus), voir : [Signaler un abus](/wiki/Reporting_bad_behaviour/Abuse).*
 
 - Préoccupations concernant la mauvaise conduite d'un modérateur.
-- Préoccupations concernant un modérateur brisant [le Code de conduite du contributeur](/wiki/Contributor_Code_of_Conduct).
+- Préoccupations concernant un modérateur brisant [le Code de conduite du contributeur](/wiki/Rules/Contributor_Code_of_Conduct).
 - [Problèmes de paiement](/wiki/Help_centre/Account#supporter) pour les commandes concernant l'[osu!store](https://osu.ppy.sh/store/listing).
 - Problèmes techniques n'ayant pas pu être résolus dans le [forum d'aide](https://osu.ppy.sh/community/forums/5), tels que les [problèmes de connectivité](/wiki/Help_centre/Client#online-features).
 

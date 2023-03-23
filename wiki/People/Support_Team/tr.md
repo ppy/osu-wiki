@@ -1,6 +1,6 @@
 # Destek Ekibi
 
-*Hesapları yöneten ekip için, bakınız: [Hesap destek ekibi](/wiki/People/The_Team/Account_support_team)*
+*Hesapları yöneten ekip için, bakınız: [Hesap destek ekibi](/wiki/People/Account_support_team)*
 
 **Destek Ekibi**, aynı zamanda **Destek Ekibi Redux** olarak da bilinir, osu! ekibinin birtakım alt forumların moderasyonundan sorumlu üyeleridir. Bu forumlar şu şekilde sıralanır: [Geliştirme](https://osu.ppy.sh/community/forums/2), [Oynanış & Sıralama](https://osu.ppy.sh/community/forums/13) ([Turnuvalar](https://osu.ppy.sh/community/forums/55) ve [Mapleme Teknikleri](https://osu.ppy.sh/community/forums/61) hariç), [Temalar](https://osu.ppy.sh/community/forums/15), [Özellik İstekleri](https://osu.ppy.sh/community/forums/4), ve [Yardım](https://osu.ppy.sh/community/forums/5).
 

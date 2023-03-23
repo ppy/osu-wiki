@@ -13,7 +13,7 @@ tags:
 ![EZ Modsymbol](/wiki/shared/mods/EZ.png "Easy (EZ) Modsymbol")
 
 *Für andere Bedeutungen, siehe [Easy (Begriffsabgrenzung)](/wiki/Disambiguation/Easy).*\
-*Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Game_modifier)*
+*Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Gameplay/Game_modifier)*
 
 ## Übersicht
 
@@ -30,7 +30,7 @@ tags:
 
 ## Beschreibung
 
-Die Mod **Easy** ist eine [Spielmodifikation](/wiki/Game_modifier), die versucht, die Schwierigkeit einer [Beatmap](/wiki/Beatmap) zu verringern. Dies soll durch die Halbierung aller Schwierigkeitseinstellungen der selektierten Beatmap erreicht werden.
+Die Mod **Easy** ist eine [Spielmodifikation](/wiki/Gameplay/Game_modifier), die versucht, die Schwierigkeit einer [Beatmap](/wiki/Beatmap) zu verringern. Dies soll durch die Halbierung aller Schwierigkeitseinstellungen der selektierten Beatmap erreicht werden.
 
 In allen [Spielmodi](/wiki/Game_mode) außer [osu!taiko](/wiki/Game_mode/osu!taiko) gewährt die Mod Easy dem Spieler zwei zusätzliche "Leben" während eines Spiels, wenn die [Lebensleiste](/wiki/Client/Interface/Health_bar) auf Null fällt. Sofern das geschieht, pausiert das Spiel, um die Lebensleiste langsam wieder zu etwa 80 % zu füllen und ein "Leben" vom Spieler zu entnehmen. Während diesem Effekt wird kein Sound abgespielt.
 
@@ -38,7 +38,7 @@ Die Befüllung wird dem Spieler mit dem Ready-Sound (`readysound.wav`) signalisi
 
 ### osu!
 
-In [osu!](/wiki/Game_mode/osu!) verringert die Mod Easy die [Circle-Size (CS)](/wiki/Client/Beatmap_editor/Song_Setup#circle-size), die [Approach-Rate (AR)](/wiki/Beatmapping/Approach_rate), die [allgemeine Schwierigkeit (OD)](/wiki/Client/Beatmap_editor/Song_Setup#overall-difficulty) und die [HP-Drain](/wiki/Client/Beatmap_editor/Song_Setup#hp-drain-rate) um die Hälfte.
+In [osu!](/wiki/Game_mode/osu!) verringert die Mod Easy die [Circle-Size (CS)](/wiki/Client/Beatmap_editor/Song_Setup#circle-size), die [Approach-Rate (AR)](/wiki/Beatmap/Approach_rate), die [allgemeine Schwierigkeit (OD)](/wiki/Client/Beatmap_editor/Song_Setup#overall-difficulty) und die [HP-Drain](/wiki/Client/Beatmap_editor/Song_Setup#hp-drain-rate) um die Hälfte.
 
 ![EZ Gameplay in osu!](img/EZ-comparison-osu.jpg "Vergleich in osu! zwischen einem regulären Spiel (links) und einem Spiel, bei dem die Mod Easy aktiviert ist (rechts)")
 
@@ -48,9 +48,9 @@ Allerdings ist es erwähnenswert, dass viele Spieler die Verwendung der Mod Easy
 
 ### osu!taiko
 
-In [osu!taiko](/wiki/Game_mode/osu!taiko) verringert die Mod Easy die [Slider-Geschwindigkeit](/wiki/Hit_object/Slider_velocity), die allgemeine Schwierigkeit (OD) und die HP-Drain um die Hälfte.
+In [osu!taiko](/wiki/Game_mode/osu!taiko) verringert die Mod Easy die [Slider-Geschwindigkeit](/wiki/Gameplay/Hit_object/Slider/Slider_velocity), die allgemeine Schwierigkeit (OD) und die HP-Drain um die Hälfte.
 
-*Anmerkung: Die Menge der Treffer, die benötigt werden, um einen [Spinner](/wiki/Hit_object/Spinner) zu vervollständigen, wird auf den Wert der OD reduziert.*
+*Anmerkung: Die Menge der Treffer, die benötigt werden, um einen [Spinner](/wiki/Gameplay/Hit_object/Spinner) zu vervollständigen, wird auf den Wert der OD reduziert.*
 
 Im Gegensatz zu anderen Spielmodi reduziert die Verwendung der Mod Easy in osu!taiko die erforderliche Punktzahl, um Gesundheit zu generieren. Dadurch füllt sich die Lebensleiste viel schneller anstatt, dass zwei zusätzliche "Leben" hinzugefügt werden, da es in osu!taiko unmöglich ist, in der Mitte eines Songs zu scheitern.
 
@@ -68,9 +68,9 @@ In [osu!mania](/wiki/Game_mode/osu!mania) sind die Effekte die gleichen wie in o
 
 ## Trivia
 
-- Beim Anschauen eines Replays, bei dem ein weiteres Leben zum Einsatz kommt, wird die Nachfüllanimation für die Gesundheit ignoriert und das Replay fortgesetzt, als ob der Spieler mit der Mod [No Fail](/wiki/Game_modifier/No_Fail) spielen würde.
+- Beim Anschauen eines Replays, bei dem ein weiteres Leben zum Einsatz kommt, wird die Nachfüllanimation für die Gesundheit ignoriert und das Replay fortgesetzt, als ob der Spieler mit der Mod [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) spielen würde.
 - Im [Mehrspielermodus](/wiki/Client/Interface/Multiplayer) funktioniert der Effekt von "Leben" im Teammodus [Tag Co-op / Tag Team Vs](/wiki/Client/Interface/Multiplayer#tag-co-op-/-tag-team-vs) nicht.
-- Die Mod Easy hebt die Mod [Hard Rock](/wiki/Game_modifier/Hard_Rock) auf und umgekehrt.
+- Die Mod Easy hebt die Mod [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock) auf und umgekehrt.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

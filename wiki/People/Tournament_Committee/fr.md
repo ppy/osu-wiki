@@ -5,7 +5,7 @@ Le **Comité des tournois** (*Tournament Committee* en anglais) est un groupe d'
 Leurs responsabilités comprennent :
 
 - La gestion des signalements reçus sur le [formulaire de signalement des tournois](https://pif.ephemeral.ink/tournament-reports)
-- L'observation générale des tournois ainsi que conseiller [l'équipe de support aux comptes](/wiki/People/The_Team/Account_support_team) au cas par cas.
+- L'observation générale des tournois ainsi que conseiller [l'équipe de support aux comptes](/wiki/People/Account_support_team) au cas par cas.
 - Revoir régulièrement la page [Support officiel des tournois](/wiki/Tournaments/Official_support) pour y apporter des modifications si nécessaire.
 
 Ce comité a été annoncé pour la première fois au public le 22 juillet 2021 via le canal `#tournaments` du [serveur Discord osu!dev](https://discord.com/invite/ppy) en réponse à la croissance rapide des tournois communautaires d'osu!.

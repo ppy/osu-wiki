@@ -20,4 +20,4 @@ In [osu!taiko](/wiki/Game_mode/osu!taiko) ist es unmöglich, eine Beatmap *währ
 
 In osu!, osu!catch und osu!taiko wird die Lebensleiste in der linken oberen Ecke des Bildschirms angezeigt. Im Gegensatz dazu ist sie in osu!mania um 90 Grad gegen den Uhrzeigersinn gedreht und befindet sich rechts vom Spielfeld.
 
-In osu! und osu!catch leert sich die Lebensleiste mit einer konstanten Rate während des gesamten Verlaufs einer Beatmap, mit der Ausnahme von Pausen. Dieser Effekt ist bekannt als [Health-Drain](/wiki/Beatmapping/Health_drain).
+In osu! und osu!catch leert sich die Lebensleiste mit einer konstanten Rate während des gesamten Verlaufs einer Beatmap, mit der Ausnahme von Pausen. Dieser Effekt ist bekannt als [Health-Drain](/wiki/Gameplay/Health).

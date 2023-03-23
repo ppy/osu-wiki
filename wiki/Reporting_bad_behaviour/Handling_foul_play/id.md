@@ -22,7 +22,7 @@ Masing-masing pengguna hanya dapat memiliki **satu** akun. Pembuatan akun baru s
 
 [Peraturan osu!](/wiki/Rules) menyatakan segala bentuk manipulasi klien seperti submisi skor ilegal, penggunaan makro, penggunaan program *auto-aim*, dan lain sebagainya sebagai bentuk perbuatan curang.
 
-Peraturan ini berlaku tanpa ada kompromi. Para pelanggar akan langsung di-*restrict* pada pelanggaran mereka yang pertama hingga jangka waktu yang tidak ditentukan. [Tim layanan dukungan](/wiki/People/The_Team/Account_support_team) kami dapat mencabut hukuman ini apabila mereka berhasil mengajukan banding yang diterima.
+Peraturan ini berlaku tanpa ada kompromi. Para pelanggar akan langsung di-*restrict* pada pelanggaran mereka yang pertama hingga jangka waktu yang tidak ditentukan. [Tim layanan dukungan](/wiki/People/Account_support_team) kami dapat mencabut hukuman ini apabila mereka berhasil mengajukan banding yang diterima.
 
 ## Saya telah di-*restrict* karena dianggap berbuat curang, namun saya tidak melakukan kecurangan apapun!
 

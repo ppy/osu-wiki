@@ -1,8 +1,8 @@
 # Attentes à l'égard des Beatmap Nominators
 
-*Voir également : [Règles des Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators/Rules)*
+*Voir également : [Règles des Beatmap Nominators](/wiki/People/Beatmap_Nominators/Rules)*
 
-En tant que figures centrales de leurs communautés respectives et d'osu! dans son ensemble, les [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) sont tenus à un niveau plus élevé que les autres utilisateurs. Les attentes énumérées ici sont le résultat de discussions au sein de la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team). Bien qu'il soit déraisonnable de s'aligner parfaitement sur ces attentes, les écarts trop importants peuvent conduire à des avertissements et/ou à l'exclusion des Beatmap Nominators. Toutes les situations sont jugées au cas par cas selon la fréquence, la gravité, l'impact et le bon sens.
+En tant que figures centrales de leurs communautés respectives et d'osu! dans son ensemble, les [Beatmap Nominators](/wiki/People/Beatmap_Nominators) sont tenus à un niveau plus élevé que les autres utilisateurs. Les attentes énumérées ici sont le résultat de discussions au sein de la [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team). Bien qu'il soit déraisonnable de s'aligner parfaitement sur ces attentes, les écarts trop importants peuvent conduire à des avertissements et/ou à l'exclusion des Beatmap Nominators. Toutes les situations sont jugées au cas par cas selon la fréquence, la gravité, l'impact et le bon sens.
 
 Pour rappel, les Beatmap Nominators doivent faire de leur mieux pour adhérer au [code de conduite pour le modding et le mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping) à tout moment. Ils doivent également toujours agir dans le meilleur intérêt du maintien de la qualité de la catégorie classée.
 
@@ -14,4 +14,4 @@ Pour rappel, les Beatmap Nominators doivent faire de leur mieux pour adhérer au
 - **Promouvoir la variété.** En tant que principaux contributeurs à la catégorie classée, les Beatmap Nominators doivent avoir pour objectif de fournir à la communauté du contenu provenant de différents mappeurs. Ils peuvent avoir des préférences, mais leurs nominations ne doivent pas être composées uniquement d'autres BN ou des mêmes mappeurs.
 - **Continuez de vous améliorer !** Devenir un Beatmap Nominator n'est que le début de son parcours. Il y a encore beaucoup de choses à discuter et à apprendre. Les Beatmap Nominator doivent non seulement aider les autres, mais aussi demander de l'aide lorsqu'ils ne sont pas sûrs de quelque chose.
 
-Ceux qui souhaitent devenir un Beatmap Nominator doivent comprendre ces attentes avant de [chercher à le devenir](/wiki/People/The_Team/Beatmap_Nominators/Becoming_a_Beatmap_Nominator).
+Ceux qui souhaitent devenir un Beatmap Nominator doivent comprendre ces attentes avant de [chercher à le devenir](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator).

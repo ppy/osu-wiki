@@ -4,7 +4,7 @@ no_native_review: true
 
 # 帳號支援團隊
 
-*關於管理論壇的團隊，請見：[支援團隊](/wiki/People/The_Team/Support_Team)*
+*關於管理論壇的團隊，請見：[支援團隊](/wiki/People/Support_Team)*
 
 **帳號支援團隊** 是管理玩家帳號的小組，同時也接受禁言及限制申訴。
 
@@ -38,7 +38,7 @@ no_native_review: true
 *提醒：若要檢舉任何玩家 (包括管理員) 的極端不當行為或性騷擾，請見[檢舉性騷擾](/wiki/Reporting_bad_behaviour/Abuse)。*
 
 - 對於管理員不當行為的疑慮。
-- 對於管理員觸犯了[貢獻者行為準則](/wiki/Contributor_Code_of_Conduct)的疑慮。
+- 對於管理員觸犯了[貢獻者行為準則](/wiki/Rules/Contributor_Code_of_Conduct)的疑慮。
 - [osu!store](https://osu.ppy.sh/store/listing) 的[付款問題](/wiki/Help_centre/Account#supporter)。
 - 無法或尚未在[幫助論壇](https://osu.ppy.sh/community/forums/5)獲得解決的技術性問題，例如[連線異常](/wiki/Help_centre/Client#online-features)。
 

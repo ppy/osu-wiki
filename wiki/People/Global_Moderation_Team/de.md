@@ -13,9 +13,9 @@ tags:
 
 **Globales Moderationsteam** (früher auch bekannt als Globales Modteam, Administratoren oder “GreenBAT”), allgemein auch **GMT**, sind Mitglieder der osu!-Belegschaft, die in erster Linie für die Moderation der Spieler sowie einschlägige Probleme im Team und in der gesamten Community zuständig sind. Sie sind anhand ihres Nutzertitels und ihrer Nutzerfarbe, die rot im Spiel und Zitrusgrün in den Foren ist, zu erkennen.
 
-**Alle globalen Moderatoren müssen sich an den [Verhaltenskodex für Mitwirkende](/wiki/Contributor_Code_of_Conduct) zusätzlich zu den normalen [Community-Richtlinien](/wiki/Rules) halten.**
+**Alle globalen Moderatoren müssen sich an den [Verhaltenskodex für Mitwirkende](/wiki/Rules/Contributor_Code_of_Conduct) zusätzlich zu den normalen [Community-Richtlinien](/wiki/Rules) halten.**
 
-***Anmerkung: Um das Fehlverhalten eines Moderators zu melden, kontaktiere das [Account-Support-Team](/wiki/People/The_Team/Account_support_team#support@ppy.sh).***
+***Anmerkung: Um das Fehlverhalten eines Moderators zu melden, kontaktiere das [Account-Support-Team](/wiki/People/Account_support_team#support@ppy.sh).***
 
 ## Rollen und Verantwortlichkeiten
 

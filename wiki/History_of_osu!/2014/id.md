@@ -9,7 +9,7 @@ outdated_since: df4b0dcdbd340e2f26e11e79eb047274dfcb5ef3
 
 ## Januari
 
-Sistem [*performance point* (pp)](/wiki/Performance_points) dinonaktifkan untuk proses pemeliharaan pada tanggal 20 Januari 2014 akibat kesalahan perhitungan yang terjadi pada beberapa bulan sebelumnya.[^ranking-maintenance] Penonaktifan tersebut diikuti oleh pengumuman pada tanggal 26 Januari 2014 yang menjelaskan seputar perombakan sistem pp secara menyeluruh.[^new-perf-ranking][^pp-article] Sistem baru ini dirancang dan diimplementasikan oleh [Tom94](https://osu.ppy.sh/users/1857058) dan bertujuan agar skor pp ke depannya dihitung berdasarkan nilai kesulitan ("*difficulty value*") yang terpisah dari [*star rating*](/wiki/Beatmapping/Star_rating) untuk seluruh kombinasi [*beatmap*](/wiki/Beatmap) dan [*mod*](/wiki/Game_modifier) yang berlaku.[^ranking-maintenance] Sebagai dampaknya, sistem pp yang lama kemudian dikenal sebagai "ppv1" dan sistem pp yang baru dinamakan "ppv2".
+Sistem [*performance point* (pp)](/wiki/Performance_points) dinonaktifkan untuk proses pemeliharaan pada tanggal 20 Januari 2014 akibat kesalahan perhitungan yang terjadi pada beberapa bulan sebelumnya.[^ranking-maintenance] Penonaktifan tersebut diikuti oleh pengumuman pada tanggal 26 Januari 2014 yang menjelaskan seputar perombakan sistem pp secara menyeluruh.[^new-perf-ranking][^pp-article] Sistem baru ini dirancang dan diimplementasikan oleh [Tom94](https://osu.ppy.sh/users/1857058) dan bertujuan agar skor pp ke depannya dihitung berdasarkan nilai kesulitan ("*difficulty value*") yang terpisah dari [*star rating*](/wiki/Beatmap/Star_rating) untuk seluruh kombinasi [*beatmap*](/wiki/Beatmap) dan [*mod*](/wiki/Gameplay/Game_modifier) yang berlaku.[^ranking-maintenance] Sebagai dampaknya, sistem pp yang lama kemudian dikenal sebagai "ppv1" dan sistem pp yang baru dinamakan "ppv2".
 
 ## Maret
 
@@ -29,7 +29,7 @@ Pada tanggal 18 Juni 2014, [peppy](https://osu.ppy.sh/users/2) mengumumkan bahwa
 
 ## Agustus
 
-Pada tanggal 21 Agustus 2014, melalui sebuah [*newspost*](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat), osu! mengumumkan bahwa regu [Beatmap Appreciation Team (BAT)](/wiki/Modding/Beatmap_Appreciation_Team) akan direstrukturisasi dan dipecah menjadi dua tim yaitu Beatmap Appreciation Team dan [Quality Assurance Team (QAT)](/wiki/Modding/Quality_Assurance_Team).[^bat]
+Pada tanggal 21 Agustus 2014, melalui sebuah [*newspost*](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat), osu! mengumumkan bahwa regu [Beatmap Appreciation Team (BAT)](/wiki/People/Beatmap_Appreciation_Team) akan direstrukturisasi dan dipecah menjadi dua tim yaitu Beatmap Appreciation Team dan [Quality Assurance Team (QAT)](/wiki/People/Quality_Assurance_Team).[^bat]
 
 ## Oktober
 

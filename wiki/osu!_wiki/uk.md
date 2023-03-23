@@ -28,7 +28,7 @@ outdated_since: 3e747e2c31e5baabc871781b9987251ebc6da964
 
 ## Модель
 
-osu! вікі побудована на основі концепції доступності: редагування та переклад заохочуються і можуть буди виконані всіма, хто здатний та здібний. дані для статей зберігаються в [репозиторії GitHub](https://github.com/ppy/osu-wiki) і оновлюються учасниками через [пулл-реквести](/wiki/osu!_wiki/Contribution_guide), які потім будуть переглянуті та об'єднані [підтримувачами вікі](/wiki/osu!_wiki/Maintenance/List_of_maintainers).
+osu! вікі побудована на основі концепції доступності: редагування та переклад заохочуються і можуть буди виконані всіма, хто здатний та здібний. дані для статей зберігаються в [репозиторії GitHub](https://github.com/ppy/osu-wiki) і оновлюються учасниками через [пулл-реквести](/wiki/osu!_wiki/Contribution_guide), які потім будуть переглянуті та об'єднані [підтримувачами вікі](/wiki/People/osu!_wiki_maintainers).
 
 Статті відформатовано за допомогою [GitHub-flavoured Markdown](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/). В додаток до цього, маханізм вебсайту реалізую специфічні функції, важливі для вікі в цілому, такі як перенаправлення, заголовок або покращення форматування.<!-- TODO: article on custom features of the wiki? it could help us ease the ASC a bit as well -->
 

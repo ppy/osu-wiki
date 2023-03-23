@@ -1,10 +1,10 @@
 # Becoming a Beatmap Nominator
 
-Users interested in joining the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) need to go through an application process overseen by the [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (NAT).
+Users interested in joining the [Beatmap Nominators](/wiki/People/Beatmap_Nominators) need to go through an application process overseen by the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (NAT).
 
 Applications are conducted via the [NAT website](http://bn.mappersguild.com/bnapps).
 
-Applicants are required to meet a minimum [kudosu](/wiki/Modding/Kudosu) threshold, submit at least two maps they have recently modded, and complete a [Beatmap Nominator Test](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) on the [Ranking Criteria](/wiki/Ranking_Criteria) in order to submit their application. A message from the NAT will be sent once a verdict has been decided. More information on applying can be found on the website.
+Applicants are required to meet a minimum [kudosu](/wiki/Modding/Kudosu) threshold, submit at least two maps they have recently modded, and complete a [Beatmap Nominator Test](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test) on the [Ranking Criteria](/wiki/Ranking_Criteria) in order to submit their application. A message from the NAT will be sent once a verdict has been decided. More information on applying can be found on the website.
 
 ## Basic criteria
 
@@ -46,7 +46,7 @@ You have these requirements if you failed a Beatmap Nominator application and ap
 | :-- | :-- |
 | Standard | 90 days |
 | Reduced | 45–60 days |
-| Failed the [Beatmap Nominator Test](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) | 30 days |
+| Failed the [Beatmap Nominator Test](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test) | 30 days |
 
 ### Rejoining after being removed from the Beatmap Nominators
 
@@ -62,6 +62,6 @@ The 8-mod requirement for those applying after being removed for activity is sha
 | Activity | 30 days | 8 mods in 60 days |
 | Good | 30 days | *N/A* |
 
-Former beatmap nominators who resigned on good terms within the past 6 months are given the option to instantly request a rejoin as a full member, without having to take the [Beatmap Nominator Test](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test), nor provide mods for evaluation.
+Former beatmap nominators who resigned on good terms within the past 6 months are given the option to instantly request a rejoin as a full member, without having to take the [Beatmap Nominator Test](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test), nor provide mods for evaluation.
 
 Former Beatmap Nominators who resigned on good terms within the past year still have to reapply properly in order to rejoin, and they will become full members immediately upon getting accepted.

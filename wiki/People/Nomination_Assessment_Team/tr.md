@@ -7,15 +7,15 @@ tags:
 
 # Aday Gösterme Denetleme Takımı
 
-**Aday Gösterme Denetleme Takımı** (*Nomination Assessment Team*, ***NAT***) [Beatmap Aday Göstericiler](/wiki/People/The_Team/Beatmap_Nominators) (*BN*) ekibinin moderatörleridir ve osu!'nun beatmap oluşturma kısmının fonksiyonel kalmasından sorumludurlar.
+**Aday Gösterme Denetleme Takımı** (*Nomination Assessment Team*, ***NAT***) [Beatmap Aday Göstericiler](/wiki/People/Beatmap_Nominators) (*BN*) ekibinin moderatörleridir ve osu!'nun beatmap oluşturma kısmının fonksiyonel kalmasından sorumludurlar.
 
-NAT üyeleri kırmızı renk kullanıcı isimlerinden ve ünvanlarından ayırt edilebilirler. [Küresel Moderasyon Takımı](/wiki/People/The_Team/Global_Moderation_Team) (*GMT*) gibi, onların da site çaplı moderasyon yetkileri vardır ve oyun-içi sohbet kanallarında koyu kırmızı kullanıcı ismine sahiptirler.
+NAT üyeleri kırmızı renk kullanıcı isimlerinden ve ünvanlarından ayırt edilebilirler. [Küresel Moderasyon Takımı](/wiki/People/Global_Moderation_Team) (*GMT*) gibi, onların da site çaplı moderasyon yetkileri vardır ve oyun-içi sohbet kanallarında koyu kırmızı kullanıcı ismine sahiptirler.
 
-**Aday Gösterme Denetleme Takımının tüm üyeleri, normal [Topluluk Kurallarının](/wiki/Rules) yanısıra, [İştirakçi Etik Davranış Kurallarına](/wiki/Contributor_Code_of_Conduct) uyacaklarına dair ant içmişlerdir.**
+**Aday Gösterme Denetleme Takımının tüm üyeleri, normal [Topluluk Kurallarının](/wiki/Rules) yanısıra, [İştirakçi Etik Davranış Kurallarına](/wiki/Rules/Contributor_Code_of_Conduct) uyacaklarına dair ant içmişlerdir.**
 
 ## Sorumluluklar
 
-***Not: Uygunsuz davranış sergileyen veya İştirakçi Etik Davranış Kurallarına uymayan bir NAT üyesini bildirmek için, [hesap destek ekibiyle](/wiki/People/The_Team/Account_support_team#support@ppy.sh) iletişime geçin.***
+***Not: Uygunsuz davranış sergileyen veya İştirakçi Etik Davranış Kurallarına uymayan bir NAT üyesini bildirmek için, [hesap destek ekibiyle](/wiki/People/Account_support_team#support@ppy.sh) iletişime geçin.***
 
 NAT mapping ile ilgili pek çok işten sorumludur, bunlar dört alt kategoride incelenebilir:
 
@@ -26,7 +26,7 @@ NAT mapping ile ilgili pek çok işten sorumludur, bunlar dört alt kategoride i
 
 Bir NAT üyesi, birincil sorumlulukları ne olarak listelenmiş olsa da, seçtikleri alt kategori içerisinde her türlü iş üzerinde çalışabilir. Örneğin, eğer bir NAT üyesi Yapısal alt kategorisi üzerinde yoğunlaşmışsa, o alt kategori içerisindeki tüm işlerden sorumlu değildir ve bir başka alt kategori içerisindeki işlerde yardımcı olabilir.
 
-Moderasyon yetkilerine ek olarak, NAT aynı zamanda beatmapleri [aday gösterme](/wiki/Beatmap_ranking_procedure#nominations), [niteliklendirme](/wiki/Beatmap_ranking_procedure#qualification), ve [aday gösterimini sıfırlama](/wiki/Beatmap_ranking_procedure#nomination-resets) yetkilerini de bulundurur. Bu noktada çoğunlukla [asil BN'lerle](/wiki/People/The_Team/Beatmap_Nominators#asil-beatmap-aday-göstericiler) eşit kabul edilirler, aynı zamanda tüm BN kuralları ve aktivite harici beklentilerin tamamı NAT üyeleri için geçerlidir. NAT üyeleri, osu! mapleme ve modlama topluluğu içerisindeki ek görev ve sorumluluklarından dolayı BN'ler gibi düzenli olarak map aday göstermeleri beklenmez.
+Moderasyon yetkilerine ek olarak, NAT aynı zamanda beatmapleri [aday gösterme](/wiki/Beatmap_ranking_procedure#nominations), [niteliklendirme](/wiki/Beatmap_ranking_procedure#qualification), ve [aday gösterimini sıfırlama](/wiki/Beatmap_ranking_procedure#nomination-resets) yetkilerini de bulundurur. Bu noktada çoğunlukla [asil BN'lerle](/wiki/People/Beatmap_Nominators#asil-beatmap-aday-göstericiler) eşit kabul edilirler, aynı zamanda tüm BN kuralları ve aktivite harici beklentilerin tamamı NAT üyeleri için geçerlidir. NAT üyeleri, osu! mapleme ve modlama topluluğu içerisindeki ek görev ve sorumluluklarından dolayı BN'ler gibi düzenli olarak map aday göstermeleri beklenmez.
 
 Birincil olarak değerlendirme alt kategorisine katkıda bulunan NAT üyeleri her ay en az 3 beatmap modlamaktan sorumludur. Bu, Beatmap Aday Göstericilerini değerlendirirken NAT'nin modding topluluğu ile güncel kalmalarını sağlar. Modding aktivite gereksinimlerini karşılayamayan üyeler uyarılır. Eğer sonraki ay içerisinde aktiviteleri gelişmezse, NAT üyelikleri sonlandırılır. Mapping ile ilgili diğer projeler üzerinde çalışan NAT üyeleri duruma göre modding gereksinimlerinden muaf tutulabilirler.
 
