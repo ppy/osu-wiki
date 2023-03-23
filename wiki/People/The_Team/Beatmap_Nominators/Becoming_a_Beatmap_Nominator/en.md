@@ -52,7 +52,7 @@ Evaluation is broken into two stages: *individual* and *group*.
 
 ### Individual stage
 
-During the *individual stage*, lasting at most 7 days, 2–4 evaluators are randomly assigned to the application. Sometimes, BNs are invited to act as evaluators, but there will always be at least one NAT assigned.
+During the *individual stage*, lasting at most 7 days, 2–3 evaluators are randomly assigned to the application. Sometimes, BNs are invited to act as evaluators, but there will always be at least one NAT assigned.
 
 The evaluators will look over the application and evaluate the applicant's modding performance and behaviour. They will typically note down any positive and negative posts in the mods. Each evaluator will then vote "pass", "neutral", or "fail" for the application.
 
