@@ -32,7 +32,7 @@ Backgrounds, deathstreams, sliders, spinners, storyboards, — anything that you
 
 Think about what the mascots might be doing in this beatmap — are they escaping from the cursors of doom? Are they chilling in an especially recognizable spot? Are they interacting with the other denizens that live in this beatmap world?
 
-As before, you'll have **27 days** from now to mull over your creation, so you've got plenty of time to make it all work.
+As before, you'll have **27 days** from now to mull over your creation, so you've got plenty of time to make it all work. The top three finalists will receive a custom profile badge of their winning work (as is tradition), and every finalist will receive 3 months of osu!supporter.
 
 Naturally, this is a very broad and exciting theme, and we're very curious to see where people go with it... but not before we're sure they've read the rules below:
 
