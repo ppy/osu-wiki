@@ -10,7 +10,7 @@ tags:
 
 **Bancho** (terkadang disebut *osu!Bancho*) merupakan sebuah kode nama dari komponen server yang menangani interaksi real-time antara pemain yang menggunakan versi stable klien permainan osu!:
 
-- Sistem chat, [online presence](/wiki/Client/Interface/Chat_console#extended-chat-console), dan [gateway IRC](/wiki/Community/Internet_Relay_Chat)
+- Sistem chat, [online presence](/wiki/Client/Interface/Chat_console#konsol-chat-yang-diperluas), dan [gateway IRC](/wiki/Community/Internet_Relay_Chat)
 - Mode [spectator](/wiki/Gameplay/Spectating)
 - [Sistem multiplayer](/wiki/Client/Interface/Multiplayer) dan [managemen turnamen](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands)
 
