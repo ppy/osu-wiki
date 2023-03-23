@@ -58,7 +58,7 @@ Anggota-anggota Mappers' Guild tertentu terkadang diberikan kesempatan untuk mem
 
 ### Kontes Beatmapping
 
-Mappers' Guild juga berfungsi selaku sarana kontes beatmapping. Sejak Januari 2020, seluruh iterasi [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) telah diselenggarakan, dijurikan, dan dinilai dengan sistem yang ditentukan oleh Mappers' Guild. Di samping itu, siapapun dapat menyelenggarakan kontesnya tersendiri melalui Mappers' Guild untuk meningkatkan aksesibilitas ke komunitas mapping.
+Mappers' Guild juga berfungsi selaku sarana kontes beatmapping. Sejak bulan Januari tahun 2020, seluruh iterasi [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) telah diselenggarakan, dijurikan, dan dinilai dengan sistem yang ditentukan oleh Mappers' Guild. Di samping itu, siapapun dapat menyelenggarakan kontesnya tersendiri melalui Mappers' Guild untuk meningkatkan aksesibilitas ke komunitas mapping.
 
 ## Sejarah
 
@@ -72,4 +72,4 @@ Seiring waktu, Mappers' Guild terus berkembang dan melebarkan sayapnya tanpa hen
 
 Walaupun Mappers' Guild telah memiliki sistem *quest* dan lain sebagainya sejak awal, para pengelola Mappers' Guild di kala itu sering merasa kewalahan dalam mengelola segala sesuatunya secara manual. Oleh karenanya, pada akhir tahun 2018 ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) dan ::{ flag=CL }:: [Milan-](https://osu.ppy.sh/users/1052994) berinisiatif untuk membuat situs web Mappers' Guild yang memungkinkan para anggotanya untuk dapat mengorganisir *quest*/*party* dan menembus imbalan-imbalan mereka dengan lebih mudah dan teratur.
 
-Situs web Mappers' Guild diluncurkan secara resmi pada 1 Maret 2019, dan merupakan tempat di mana segala sesuatunya tentang Mappers' Guild saat ini dikendalikan. Sejak dibuka untuk umum, Mappers' Guild telah memiliki lebih dari 500 anggota dan telah rutin [menerbitkan topik-topik berita](https://osu.ppy.sh/home/news/2019-11-29-featured-artist-beatmap-updates-from-the-mappers-guild) seputar perkembangan konten-konten Featured Artist terkini setiap beberapa bulan sekali.
+Situs web Mappers' Guild diluncurkan secara resmi pada tanggal 1 Maret 2019, dan merupakan tempat di mana segala sesuatunya tentang Mappers' Guild saat ini dikendalikan. Sejak dibuka untuk umum, Mappers' Guild telah memiliki lebih dari 500 anggota dan telah rutin [menerbitkan topik-topik berita](https://osu.ppy.sh/home/news/2019-11-29-featured-artist-beatmap-updates-from-the-mappers-guild) seputar perkembangan konten-konten Featured Artist terkini setiap beberapa bulan sekali.
