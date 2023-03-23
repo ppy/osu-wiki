@@ -66,7 +66,7 @@ osu!にはたくさんのショートカットキーがあります。ゲーム�
 
 | キー | 動作 |
 | :-- | :-- |
-| `F1` | [Mod選択メニュー](/wiki/Game_modifier)を表示します。 |
+| `F1` | [Mod選択メニュー](/wiki/Gameplay/Game_modifier)を表示します。 |
 | `F2` | ビートマップをランダムに選択します。 |
 | `Shift` + `F2` | 1つ前のランダムな譜面を選択します。 |
 | `F3` | ビートマップオプションを表示します。 |
@@ -76,8 +76,8 @@ osu!にはたくさんのショートカットキーがあります。ゲーム�
 | `Ctrl` + `2` | ゲームモードを[osu!taiko](/wiki/Game_mode/osu!taiko)に切り替えます。 |
 | `Ctrl` + `3` | ゲームモードを[osu!catch](/wiki/Game_mode/osu!catch)に切り替えます。 |
 | `Ctrl` + `4` | ゲームモードを[osu!mania](/wiki/Game_mode/osu!mania)に切り替えます。 |
-| `Ctrl` + `Enter` | [Auto mod](/wiki/Game_modifier/Auto)でビートマップをプレイします。 |
-| `Ctrl` + `Shift` + `Enter` | [Cinema mod](/wiki/Game_modifier/Cinema)でビートマップをプレイします。 |
+| `Ctrl` + `Enter` | [Auto mod](/wiki/Gameplay/Game_modifier/Auto)でビートマップをプレイします。 |
+| `Ctrl` + `Shift` + `Enter` | [Cinema mod](/wiki/Gameplay/Game_modifier/Cinema)でビートマップをプレイします。 |
 | `Ctrl` + `A` | Auto modの有無を切り替えます。 |
 | `Ctrl` + `F3`, `Ctrl` + `+` | osu!maniaのスクロール速度を上げます (osu!maniaモードの場合) 。 |
 | `Ctrl` + `F4`, `Ctrl` + `-` | osu!maniaのスクロール速度を下げます (osu!maniaモードの場合) 。 |
@@ -91,7 +91,7 @@ osu!にはたくさんのショートカットキーがあります。ゲーム�
 
 ### Mod選択画面
 
-*メインページ: [Game modifiers](/wiki/Game_modifier)*\
+*メインページ: [Game modifiers](/wiki/Gameplay/Game_modifier)*\
 *注: ショートカットキーを押すと、Modのオン/オフが切り替わります。これらのショートカットを使うには、Mod選択画面にいる必要があります。*\
 *注: Target practice (osu!)、1K、2K (osu!mania)、Co-op (osu!mania)、Mirror (osu!mania)にはショートカットキーがありません。*
 
@@ -280,7 +280,7 @@ osu!にはたくさんのショートカットキーがあります。ゲーム�
 | `Ctrl` + `C` | 選択範囲をコピー |
 | `Ctrl` + `V` | 現在の場所にスプライトを貼り付けます (貼り付けたスプライトは、ビートマップが保存されて再読み込みされるまで、レイヤーリストに表示されません) 。 |
 | `Delete` | 選択したスプライトをレイヤーから削除します。 |
-| `W`, `A`, `S`, `D` | 選択したスプライトを1[osu!pixel](/wiki/osupixel)ずつ移動します。 |
+| `W`, `A`, `S`, `D` | 選択したスプライトを1[osu!pixel](/wiki/Client/Beatmap_editor/osu!_pixel)ずつ移動します。 |
 
 ### タイミング
 

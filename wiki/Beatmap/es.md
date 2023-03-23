@@ -7,7 +7,7 @@ no_native_review: true
 
 # Beatmap
 
-Un **beatmap** (a veces llamado *beatmapset*) es un conjunto de niveles de juego ([dificultades](#dificultad)) que se componen de varios [objetos de golpeo](/wiki/Hit_object) y casi siempre representan una sola canción. También incluye otros componentes, todos empaquetados en un archivo con [la extensión .osz](/wiki/osu!_File_Formats/Osz_(file_format)):
+Un **beatmap** (a veces llamado *beatmapset*) es un conjunto de niveles de juego ([dificultades](#dificultad)) que se componen de varios [objetos de golpeo](/wiki/Gameplay/Hit_object) y casi siempre representan una sola canción. También incluye otros componentes, todos empaquetados en un archivo con [la extensión .osz](/wiki/Client/File_formats/Osz_(file_format)):
 
 - la canción en sí, almacenada en formato MP3 u OGG.
 - [imágenes de fondo](/wiki/Beatmap/Background), o un video, actuando como un campo de juego.
@@ -21,15 +21,15 @@ Un **beatmap** (a veces llamado *beatmapset*) es un conjunto de niveles de juego
 
 *Artículo principal: [Dificultad](/wiki/Beatmap/Difficulty)*
 
-Una dificultad es un archivo con [la extensión .osu](/wiki/osu!_File_Formats/Osu_(file_format)) que describe la ubicación de los objetos de golpeo sonidos de golpeo y efectos especiales como el [tiempo de kiai](/wiki/Gameplay/Kiai_time). También contiene [configuraciones de dificultad](/wiki/Client/Beatmap_editor/Song_Setup#difficulty) y otros parámetros que afectan directamente el juego. Las dificultades de un beatmap tienen una estructura diferente y, a veces, se pueden jugar en un solo [modo de juego](/wiki/Game_mode). El sistema de [clasificación por estrellas](/wiki/Beatmapping/Star_rating) se utiliza para visualizar el requisito de habilidad de una dificultad.
+Una dificultad es un archivo con [la extensión .osu](/wiki/Client/File_formats/Osu_(file_format)) que describe la ubicación de los objetos de golpeo sonidos de golpeo y efectos especiales como el [tiempo de kiai](/wiki/Gameplay/Kiai_time). También contiene [configuraciones de dificultad](/wiki/Client/Beatmap_editor/Song_Setup#difficulty) y otros parámetros que afectan directamente el juego. Las dificultades de un beatmap tienen una estructura diferente y, a veces, se pueden jugar en un solo [modo de juego](/wiki/Game_mode). El sistema de [clasificación por estrellas](/wiki/Beatmap/Star_rating) se utiliza para visualizar el requisito de habilidad de una dificultad.
 
 ## Envío
 
-*Artículo principal: [Envío](/wiki/Submission)*
+*Artículo principal: [Envío](/wiki/Beatmapping/Beatmap_submission)*
 
-Los autores de beatmaps pueden [enviar](/wiki/Submission) sus creaciones a la [lista pública de beatmaps](https://osu.ppy.sh/beatmapsets). Si bien cada beatmap se atribuye a una [sola persona](/wiki/Beatmap/Beatmap_host), a menudo es un esfuerzo conjunto: algunas dificultades pueden ser mapeadas por otras personas que trabajan [en colaboración](/wiki/Beatmap/Beatmap_collaborations) o [por separado](/wiki/Beatmap/Guest_difficulty).
+Los autores de beatmaps pueden [enviar](/wiki/Beatmapping/Beatmap_submission) sus creaciones a la [lista pública de beatmaps](https://osu.ppy.sh/beatmapsets). Si bien cada beatmap se atribuye a una [sola persona](/wiki/Beatmap/Beatmap_host), a menudo es un esfuerzo conjunto: algunas dificultades pueden ser mapeadas por otras personas que trabajan [en colaboración](/wiki/Beatmap/Beatmap_collaborations) o [por separado](/wiki/Beatmap/Guest_difficulty).
 
-Después del envío, el beatmap obtiene campos de metadatos adicionales, como descripción, idioma, género y el marcador de contenido explícito, que el propio autor del beatmap puede cambiar en el sitio web. El beatmap también adquiere el [texto del título](/wiki/Beatmap/Title_text), cuya apariencia puede modificarse con la ayuda del [Equipo de Evaluación de Nominaciones](/wiki/People/The_Team/Nomination_Assessment_Team).
+Después del envío, el beatmap obtiene campos de metadatos adicionales, como descripción, idioma, género y el marcador de contenido explícito, que el propio autor del beatmap puede cambiar en el sitio web. El beatmap también adquiere el [texto del título](/wiki/Beatmap/Title_text), cuya apariencia puede modificarse con la ayuda del [Equipo de Evaluación de Nominaciones](/wiki/People/Nomination_Assessment_Team).
 
 ### Identificación
 
@@ -86,7 +86,7 @@ Los beatmapas que se clasificaron en el mismo mes, o que comparten el mismo tema
 Los jugadores de osu! de todos los modos de juego usan beatmaps para [subir de rango globalmente](/wiki/Performance_points) y [competir entre sí](/wiki/Ranking). osu! tiene diferentes tipos de marcadores específicos de beatmaps, todos los cuales, excepto el primero, solo están disponibles para [osu!supporters](/wiki/osu!supporter):
 
 - Clasificación global, que funciona en toda la base de jugadores activa;
-- Clasificación global para cada combinación de [modificadores de juego](/wiki/Game_modifier);
+- Clasificación global para cada combinación de [modificadores de juego](/wiki/Gameplay/Game_modifier);
 - Clasificación específica del país hecha de jugadores que llevan la misma bandera;
 - Clasificación de amigos que muestra la posición de un jugador en el mapa en comparación con sus amigos.
 
@@ -108,6 +108,6 @@ La comunidad de osu! organiza regularmente diferentes concursos para promover la
 
 ### Artistas destacados
 
-*Pagina principal: [Artistas destacados](/wiki/Featured_Artists)*
+*Pagina principal: [Artistas destacados](/wiki/People/Featured_Artists)*
 
-Artistas destacados es un programa comunitario del [osu! team](/wiki/People/The_Team) que se enfoca en otorgar licencias de música de varios artistas para osu! y hacer que esté disponible para el mapeo. La [lista de artistas destacados](https://osu.ppy.sh/beatmaps/artists) del sitio web muestra a cada artista involucrado y proporciona plantillas preestablecidas para el mapeo.
+Artistas destacados es un programa comunitario del [osu! team](/wiki/People/osu!_team) que se enfoca en otorgar licencias de música de varios artistas para osu! y hacer que esté disponible para el mapeo. La [lista de artistas destacados](https://osu.ppy.sh/beatmaps/artists) del sitio web muestra a cada artista involucrado y proporciona plantillas preestablecidas para el mapeo.

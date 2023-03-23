@@ -10,7 +10,7 @@ outdated_since: 3517ec8a4fbeb3c11bb8199546d2b346d0ab3b90
 
 # peppy
 
-**peppy** (küçük bir "p" harfi ile stilize edilir) osu! projesinin yaratıcısı ve ana [geliştiricisi](/wiki/People/The_Team/Developers) olan Dean Herbert isimli kişinin çevrimiçi rumuzudur.
+**peppy** (küçük bir "p" harfi ile stilize edilir) osu! projesinin yaratıcısı ve ana [geliştiricisi](/wiki/People/Developers) olan Dean Herbert isimli kişinin çevrimiçi rumuzudur.
 
 ## Bağlantılar
 

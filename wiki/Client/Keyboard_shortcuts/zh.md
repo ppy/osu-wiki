@@ -68,7 +68,7 @@ osu! 中有许多快捷键可以在游戏中或闲置时使用。下面列出了
 
 | 快捷键 | 功能 |
 | :-- | :-- |
-| `F1` | 打开 [游戏模组](/wiki/Game_modifier) 菜单。 |
+| `F1` | 打开 [游戏模组](/wiki/Gameplay/Game_modifier) 菜单。 |
 | `F2` | 随机谱面。 |
 | `Shift` + `F2` | 返回随机前的谱面。 |
 | `F3` | 打开谱面选项。 |
@@ -78,8 +78,8 @@ osu! 中有许多快捷键可以在游戏中或闲置时使用。下面列出了
 | `Ctrl` + `2` | 将游戏模式切换为 [osu!taiko](/wiki/Game_mode/osu!taiko)。 |
 | `Ctrl` + `3` | 将游戏模式切换为 [osu!catch](/wiki/Game_mode/osu!catch)。 |
 | `Ctrl` + `4` | 将游戏模式切换为 [osu!mania](/wiki/Game_mode/osu!mania)。 |
-| `Ctrl` + `Enter` | 使用 [Auto 模组](/wiki/Game_modifier/Auto) 自动播放当前谱面。 |
-| `Ctrl` + `Shift` + `Enter` | 使用 [Cinema 模组](/wiki/Game_modifier/Cinema) 播放当前谱面. |
+| `Ctrl` + `Enter` | 使用 [Auto 模组](/wiki/Gameplay/Game_modifier/Auto) 自动播放当前谱面。 |
+| `Ctrl` + `Shift` + `Enter` | 使用 [Cinema 模组](/wiki/Gameplay/Game_modifier/Cinema) 播放当前谱面. |
 | `Ctrl` + `A` | 打开/关闭 Auto 模组。 |
 | `Ctrl` + `F3` 或者 `Ctrl` + `+` | 提高 osu!mania 下落速度（仅适用于 osu!mania）. |
 | `Ctrl` + `F4` 或者 `Ctrl` + `-` | 降低 osu!mania 下落速度（仅适用于 osu!mania）. |
@@ -93,7 +93,7 @@ osu! 中有许多快捷键可以在游戏中或闲置时使用。下面列出了
 
 ### 游戏模组
 
-*主页面：[游戏模组](/wiki/Game_modifier)*\
+*主页面：[游戏模组](/wiki/Gameplay/Game_modifier)*\
 *注：按下快捷键来打开或关闭 Mod。您必须进入 Mod 菜单才可以使用这些快捷键。*\
 *注：Target practice (osu!)，1K 和 2K (osu!mania)，Co-op (osu!mania)，还有 Mirror (osu!mania) 没有快捷键。*
 
@@ -282,7 +282,7 @@ osu! 中有许多快捷键可以在游戏中或闲置时使用。下面列出了
 | `Ctrl` + `C` | 复制所选素材。 |
 | `Ctrl` + `V` | 在当前位置粘贴所选素材。 *注：除非保存并重新加载谱面，否则粘贴的素材不会显示在图层列表中。* |
 | `Delete` | 从图层中删除选定的素材。 |
-| `W`，`A`，`S`，`D` | 按 [osu!pixel](/wiki/osupixel) 的标准微调所选素材。 |
+| `W`，`A`，`S`，`D` | 按 [osu!pixel](/wiki/Client/Beatmap_editor/osu!_pixel) 的标准微调所选素材。 |
 
 ### Timing
 

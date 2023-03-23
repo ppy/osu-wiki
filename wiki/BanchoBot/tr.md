@@ -141,7 +141,7 @@ Tüm BanchoBot komutlarının bir listesi aşağıda mevcuttur:
 !report <kullanıcı> <sebep>
 ```
 
-`!report` bir kullanıcının uygunsuz davranışları hakkında [Küresel Moderasyon Takımını](/wiki/People/The_Team/Global_Moderation_Team) bilgilendirir. Eğer bir kullanıcının kullanıcı isminde boşluklar varsa, onların yerine bir alt çizgi yerleştirin (örn. `really cool username` -> `really_cool_username`). Bir moderatörü bildirmek için, [hesap destek ekibiyle](/wiki/People/The_Team/Account_support_team#support@ppy.sh) iletişime geçin. Normal bir kullanıcıyı BanchoBot aracılığıyla bildirmenin bir örneği aşağıdadır:
+`!report` bir kullanıcının uygunsuz davranışları hakkında [Küresel Moderasyon Takımını](/wiki/People/Global_Moderation_Team) bilgilendirir. Eğer bir kullanıcının kullanıcı isminde boşluklar varsa, onların yerine bir alt çizgi yerleştirin (örn. `really cool username` -> `really_cool_username`). Bir moderatörü bildirmek için, [hesap destek ekibiyle](/wiki/People/Account_support_team#support@ppy.sh) iletişime geçin. Normal bir kullanıcıyı BanchoBot aracılığıyla bildirmenin bir örneği aşağıdadır:
 
 ```
 13:10 pippi: !report flyte spamming in #japanese

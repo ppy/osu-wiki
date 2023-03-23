@@ -8,7 +8,7 @@ tags:
 
 ![](img/mg-logo.png)
 
-The **Mappers' Guild** is a group of mappers responsible for creating [beatmaps](/wiki/Beatmap) for osu!'s [Featured Artists](/wiki/Featured_Artists). Utilising an MMO-style guild format, it allows mappers to earn rewards by participating in the ranking process for Featured Artist beatmaps and cooperating in mapping-related quests.
+The **Mappers' Guild** is a group of mappers responsible for creating [beatmaps](/wiki/Beatmap) for osu!'s [Featured Artists](/wiki/People/Featured_Artists). Utilising an MMO-style guild format, it allows mappers to earn rewards by participating in the ranking process for Featured Artist beatmaps and cooperating in mapping-related quests.
 
 Guild organisation and discussion can be found in the `#mappers-guild` channel of the [osu!dev Discord server](https://discord.gg/ppy).
 
@@ -50,7 +50,7 @@ Difficulty creation tasks earn a user more points if the beatmap is associated w
 
 ### Showcase beatmaps
 
-*Main article: [Featured Artist showcase beatmaps](/wiki/Featured_Artists/Featured_Artist_showcase_beatmaps)*
+*Main article: [Featured Artist showcase beatmaps](/wiki/People/Featured_Artists/Featured_Artist_showcase_beatmaps)*
 
 Members of the Mappers' Guild may also participate in the creation of showcase beatmaps for future Featured Artist announcements. Upon the announcement of the corresponding Featured Artist, these beatmaps are highlighted in the [newspost](https://osu.ppy.sh/home/news) and are often promoted on the [@osugame Twitter](https://twitter.com/osugame) as well.
 

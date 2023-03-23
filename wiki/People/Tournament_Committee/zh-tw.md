@@ -9,7 +9,7 @@ no_native_review: true
 他們的任務包括：
 
 - 管理[賽事回報表單](https://pif.ephemeral.ink/tournament-reports)的回報
-- 對錦標賽進行觀察，並依個案向[帳號支援團隊](/wiki/People/The_Team/Account_support_team)提出建議
+- 對錦標賽進行觀察，並依個案向[帳號支援團隊](/wiki/People/Account_support_team)提出建議
 - 定期審查[官方賽事支援](/wiki/Tournaments/Official_support)頁面，在必要時進行修訂
 
 該小組在 2021 年 7 月 22 號時透過 [osu!dev Discord 伺服器](https://discord.com/invite/ppy)中的 `#tournaments` 頻道首次向大眾宣布，以應對 osu! 快速成長的社群賽事現況。

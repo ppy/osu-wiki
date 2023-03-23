@@ -2,7 +2,7 @@
 
 ![](img/logo.png "logo de la osu!academy")
 
-La **osu!academy** est une série de vidéos organisée par l'[équipe d'osu!](/wiki/People/The_Team) qui a pour but de donner un aperçu complet de tous les aspects d'osu!.
+La **osu!academy** est une série de vidéos organisée par l'[équipe d'osu!](/wiki/People/osu!_team) qui a pour but de donner un aperçu complet de tous les aspects d'osu!.
 
 Au fil des ans, l'osu!academy a été hébergée par plusieurs membres de la communauté, le plus connu étant [ztrot](https://osu.ppy.sh/users/6347), qui a maintenu la série pendant de nombreuses années et est le visage du projet.
 
