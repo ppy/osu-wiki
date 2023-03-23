@@ -6,7 +6,7 @@ tags:
 
 # Bancho (server)
 
-*Untuk penggunaan lainnya, lihat: [Bancho (disambiguasi)](/wiki/Disambiguation/Bancho)*
+*Untuk penggunaan lainnya, lihat [Bancho (disambiguasi)](/wiki/Disambiguation/Bancho)*
 
 **Bancho** (terkadang disebut *osu!Bancho*) merupakan sebuah kode nama dari komponen server yang menangani interaksi real-time antara pemain yang menggunakan versi stable klien permainan osu!:
 
