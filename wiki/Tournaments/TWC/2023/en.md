@@ -107,26 +107,26 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad
 | Team A | Team B | Match time |
 | --: | :-- | :-- |
 | Italy ::{ flag=IT }:: | ::{ flag=AU }:: Australia | [Mar 25 (Sat) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230325T090000&p1=1440&p2=215&p3=57) |
-| Philippines ::{ flag=PH }:: | ::{ flag=RU }:: Russian Federation | [Mar 25 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230325T100000&p1=1440&p2=145&p3=166) |
+| United Kingdom ::{ flag=GB }:: | ::{ flag=HK }:: Hong Kong | [Mar 25 (Sat) 09:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230325T093000&p1=1440&p2=136&p3=102) |
 | Japan ::{ flag=JP }:: | ::{ flag=DK }:: Denmark | [Mar 25 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230325T110000&p1=1440&p2=248&p3=69) |
-| China ::{ flag=CN }:: | ::{ flag=NL }:: Netherlands | [Mar 25 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230325T120000&p1=1440&p2=33&p3=16) |
-| Germany ::{ flag=DE }:: | ::{ flag=AR }:: Argentina | [Mar 25 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230325T130000&p1=1440&p2=37&p3=51) |
-| Finland ::{ flag=FI }:: | ::{ flag=MX }:: Mexico | [Mar 25 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230325T160000&p1=1440&p2=101&p3=155) |
-| Brazil ::{ flag=BR }:: | ::{ flag=NO }:: Norway | [Mar 25 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230325T170000&p1=1440&p2=45&p3=187) |
-| United States ::{ flag=US }:: | ::{ flag=PT }:: Portugal | [Mar 25 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230325T180000&p1=1440&p2=263&p3=133) |
+| Philippines ::{ flag=PH }:: | ::{ flag=RU }:: Russian Federation | [Mar 25 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230325T150000&p1=1440&p2=145&p3=166) |
+| United States ::{ flag=US }:: | ::{ flag=PT }:: Portugal | [Mar 25 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230325T160000&p1=1440&p2=263&p3=133) |
+| Finland ::{ flag=FI }:: | ::{ flag=MX }:: Mexico | [Mar 25 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230325T170000&p1=1440&p2=101&p3=155) |
 | Canada ::{ flag=CA }:: | ::{ flag=PL }:: Poland | [Mar 25 (Sat) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230325T190000&p1=1440&p2=188&p3=262) |
 
 ### Sunday, 26 March 2023
 
 | Team A | Team B | Match time |
 | --: | :-- | :-- |
-| South Korea ::{ flag=KR }:: | ::{ flag=SG }:: Singapore | [Mar 26 (Sun) 05:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230326T050000&p1=1440&p2=235&p3=236) |
 | Indonesia ::{ flag=ID }:: | ::{ flag=NZ }:: New Zealand | [Mar 26 (Sun) 07:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230326T070000&p1=1440&p2=108&p3=264) |
-| Taiwan ::{ flag=TW }:: | ::{ flag=VN }:: Vietnam | [Mar 26 (Sun) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230326T080000&p1=1440&p2=241&p3=95) |
-| United Kingdom ::{ flag=GB }:: | ::{ flag=HK }:: Hong Kong | [Mar 26 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230326T100000&p1=1440&p2=136&p3=102) |
+| China ::{ flag=CN }:: | ::{ flag=NL }:: Netherlands | [Mar 26 (Sun) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230326T090000&p1=1440&p2=33&p3=16) |
 | Malaysia ::{ flag=MY }:: | ::{ flag=ES }:: Spain | [Mar 26 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230326T110000&p1=1440&p2=122&p3=141) |
+| Germany ::{ flag=DE }:: | ::{ flag=AR }:: Argentina | [Mar 26 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230326T120000&p1=1440&p2=37&p3=51) |
+| South Korea ::{ flag=KR }:: | ::{ flag=SG }:: Singapore | [Mar 26 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230326T120000&p1=1440&p2=235&p3=236) |
 | France ::{ flag=FR }:: | ::{ flag=CH }:: Switzerland | [Mar 26 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230326T120000&p1=1440&p2=195&p3=270) |
-| Chile ::{ flag=CL }:: | ::{ flag=CZ }:: Czechia | [Mar 26 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230326T150000&p1=1440&p2=232&p3=204) |
+| Taiwan ::{ flag=TW }:: | ::{ flag=VN }:: Vietnam | [Mar 26 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230326T130000&p1=1440&p2=241&p3=95) |
+| Brazil ::{ flag=BR }:: | ::{ flag=NO }:: Norway | [Mar 26 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230326T170000&p1=1440&p2=45&p3=187) |
+| Chile ::{ flag=CL }:: | ::{ flag=CZ }:: Czechia | [Mar 26 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230326T170000&p1=1440&p2=232&p3=204) |
 
 ## Mappools
 
