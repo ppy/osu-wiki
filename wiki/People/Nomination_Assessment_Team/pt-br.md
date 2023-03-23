@@ -7,11 +7,11 @@ outdated_since: a04ec9bd266f59392ab0bbc214f699995c4da97c
 
 # Equipe de Avaliação de Nomeação
 
-A **Equipe de Avaliação de Nomeação** (***NAT***) são os moderadores dos [Nomeadores de Beatmap](/wiki/People/The_Team/Beatmap_Nominators) (*BN*) e garantem que o lado de beatmapping do osu! continue funcional.
+A **Equipe de Avaliação de Nomeação** (***NAT***) são os moderadores dos [Nomeadores de Beatmap](/wiki/People/Beatmap_Nominators) (*BN*) e garantem que o lado de beatmapping do osu! continue funcional.
 
-Os membros do NAT são reconhecidos pelo seus títulos e nomes de usuário vermelhos. Assim como a [Equipe de Moderação Global](/wiki/People/The_Team/Global_Moderation_Team) (*GMT*), eles possuem permissões de moderação pelo site e um nome vermelho escuro nos canais de chat do jogo.
+Os membros do NAT são reconhecidos pelo seus títulos e nomes de usuário vermelhos. Assim como a [Equipe de Moderação Global](/wiki/People/Global_Moderation_Team) (*GMT*), eles possuem permissões de moderação pelo site e um nome vermelho escuro nos canais de chat do jogo.
 
-**Todos os membros da Equipe de Avaliação de Nomeação estão em juramento a manter o [Código de Conduta do Contribuidor](/wiki/Contributor_Code_of_Conduct) junto das [Regras da Comunidade](/wiki/Rules).**
+**Todos os membros da Equipe de Avaliação de Nomeação estão em juramento a manter o [Código de Conduta do Contribuidor](/wiki/Rules/Contributor_Code_of_Conduct) junto das [Regras da Comunidade](/wiki/Rules).**
 
 Se você encontrar qualquer membro da Equipe de Avaliação de Nomeação agindo inapropriadamente (ou agindo em violação ao Código de Conduta do Contribuidor), por favor entre em contato conosco em [abuse@ppy.sh](mailto:abuse@ppy.sh) imediatamente com o máximo de informação o possível. Para mais detalhes, veja [Denunciando Abuso](/wiki/Reporting_bad_behaviour/Abuse).
 
@@ -26,7 +26,7 @@ Os NAT são responsáveis por uma variedade de tarefas relacionadas a mapping qu
 
 Um membro do NAT pode se envolver com quaisquer tarefas que eles escolherem, apesar de quais responsabilidades principais estiverem listadas. Por exemplo, se um membro do NAT prioriza a subcategoria Estrutural, ele não é responsável por todas as tarefas dentro da subcategoria e ainda pode ajudar com tarefas de qualquer outra subcategoria.
 
-Em adição as suas habilidades de moderação, os NAT também possuem a habilidade de [nomear](/wiki/Beatmap_ranking_procedure#nominations), [qualificar](/wiki/Beatmap_ranking_procedure#qualification), e [resetar nomeações](/wiki/Beatmap_ranking_procedure#nomination-resets) em beatmaps. Nessa área eles são considerados basicamente os mesmos que [BNs fixos](/wiki/People/The_Team/Beatmap_Nominators#nomeadores-de-beatmap-fixos), e todas as regras e expectatives de BNs exceto atividade aplicam aos membros do NAT. Membros do NAT não são esperados a nomear mapas regularmente do mesmo jeito que os BNs são por conta de possuírem responsabilidades adicionais na comunidade de mapping do osu! e na comunidade de modding.
+Em adição as suas habilidades de moderação, os NAT também possuem a habilidade de [nomear](/wiki/Beatmap_ranking_procedure#nominations), [qualificar](/wiki/Beatmap_ranking_procedure#qualification), e [resetar nomeações](/wiki/Beatmap_ranking_procedure#nomination-resets) em beatmaps. Nessa área eles são considerados basicamente os mesmos que [BNs fixos](/wiki/People/Beatmap_Nominators#nomeadores-de-beatmap-fixos), e todas as regras e expectatives de BNs exceto atividade aplicam aos membros do NAT. Membros do NAT não são esperados a nomear mapas regularmente do mesmo jeito que os BNs são por conta de possuírem responsabilidades adicionais na comunidade de mapping do osu! e na comunidade de modding.
 
 Membros do NAT primariamente contribuindo para a subcategoria de Avaliação também são responsável por fazer o modding de pelo menos 3 beatmaps por mês. Isso garante que os NAT estejam atualizados com a comunidade de modding quando estiverem avaliando os Nomeadores de Beatmap. Membros que falharem o requerimento de atividade de modding serão dados uma advertência. Se a atividade deles não melhorarem dentro do próximo mês, eles irão ser removidos do NAT. Membros do NAT trabalhando em outros projetos relacionados a mapping podem ser isentos dos requerimentos de modding em uma base de caso-por-caso.
 

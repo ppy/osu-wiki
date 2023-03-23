@@ -4,7 +4,7 @@ no_native_review: true
 
 # Екип поддръжка
 
-*За екип управляващ профили, виж [екипа за поддръжка на профили](/wiki/People/The_Team/Account_support_team).*
+*За екип управляващ профили, виж [екипа за поддръжка на профили](/wiki/People/Account_support_team).*
 
 **Екипът за поддръжка**, също известен като **поддържащ екип Redux**, са членове от osu! екип насочили вниманието си към модериране на форум и някои подфоруми: [Разработка](https://osu.ppy.sh/community/forums/2), [Игра & класиране](https://osu.ppy.sh/community/forums/13) (с изключение на [Турнири](https://osu.ppy.sh/community/forums/55) и [Техники за създаване](https://osu.ppy.sh/community/forums/61)), [Облици](https://osu.ppy.sh/community/forums/15), [Заявки за функции](https://osu.ppy.sh/community/forums/4) и [Помощ](https://osu.ppy.sh/community/forums/5).
 

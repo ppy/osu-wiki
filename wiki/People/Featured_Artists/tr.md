@@ -11,7 +11,7 @@ Web sayfasının [Featured Artist listesi](https://osu.ppy.sh/beatmaps/artists) 
 
 ## Seçme
 
-Featured Artist kütüphanesine son eklenenler osu! topluluğu tarafından dolaylı olarak seçilir. Eğer beatmapperlar bir sanatçı için mapler oluşturur ve derecelendirirse, [osu! team](/wiki/People/The_Team) Featured Artist programını tartışmak üzere sanatçıya erişebilir. Fakat, bazı sanatçılar kimi zaman başka faktörlere göre, onların osu!'nun beatmap oluşturma kitlesini cezbedici beklentileri gibi, Featured Artist olmaya davet edilebilirler.
+Featured Artist kütüphanesine son eklenenler osu! topluluğu tarafından dolaylı olarak seçilir. Eğer beatmapperlar bir sanatçı için mapler oluşturur ve derecelendirirse, [osu! team](/wiki/People/osu!_team) Featured Artist programını tartışmak üzere sanatçıya erişebilir. Fakat, bazı sanatçılar kimi zaman başka faktörlere göre, onların osu!'nun beatmap oluşturma kitlesini cezbedici beklentileri gibi, Featured Artist olmaya davet edilebilirler.
 
 Featured Artist programındaki çoğu şarkı osu!'ya özel olmayarak lisanslanmıştır. Nadir durumlarda bir sanatçı, bulundukları Featured Artistin listesinde *osu!'ya özel* olarak etiketlenmiş olan osu!'ya özel parçalar yaratabilir.
 

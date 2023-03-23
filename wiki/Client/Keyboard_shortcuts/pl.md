@@ -44,14 +44,14 @@ W osu! jest wiele różnych skrótów klawiszowych, które mogą być wykorzysta
 
 ## Wybór utworów
 
-- **F1**: [Modyfikacje](/wiki/Game_modifier)
+- **F1**: [Modyfikacje](/wiki/Gameplay/Game_modifier)
 - **F2**: Wybiera losową mapa
 - **Shift + F2**: Powraca do poprzedniej mapy po użyciu F2
 - **F3**: Opcje mapy.
 - **F5**: Odświeża listę (tryb naprawy)
 - **Shift + Delete**: Kasuje wybraną mapy
 - **Ctrl + (1/2/3/4)**:Zmienia na ![osu! Icon](/wiki/shared/mode/osu.png "osu! Icon") [osu! Standard](/wiki/Game_mode/osu!)/ ![osu!taiko Icon](/wiki/shared/mode/taiko.png "osu!taiko Icon") [Taiko](/wiki/Game_mode/osu!taiko) / ![osu!catch Icon](/wiki/shared/mode/catch.png "osu!catch Icon") [Catch the Beat](/wiki/Game_mode/osu!catch) / ![osu!mania Icon](/wiki/shared/mode/mania.png "osu!mania Icon") [osu!mania](/wiki/Game_mode/osu!mania) tryb gry odpowiednio.
-- **Ctrl + Enter**: Odtwarza mapę z modyfikacją [Auto](/wiki/Game_modifier/Auto)
+- **Ctrl + Enter**: Odtwarza mapę z modyfikacją [Auto](/wiki/Gameplay/Game_modifier/Auto)
 - **Ctrl + Shift + Enter**: Odtwarza wybraną mapę z modyfikacją Cinema
 - **Ctrl + A**: Włącza/Wyłącza modyfikację Auto
 - **Ctrl + (F3 / F4)** lub **Ctrl + (+ / -)**: Zwiększa/Zmiejsza szybkość (tylko w osu!manii)
@@ -65,25 +65,25 @@ W osu! jest wiele różnych skrótów klawiszowych, które mogą być wykorzysta
 
 ## Ekran modyfikacji
 
-Note: Specjalne mody takie jak [Perfect](/wiki/Game_modifier/Perfect) czy [Nightcore](/wiki/Game_modifier/Nightcore) potrzebują jeszcze jednego kliknięcia.
+Note: Specjalne mody takie jak [Perfect](/wiki/Gameplay/Game_modifier/Perfect) czy [Nightcore](/wiki/Gameplay/Game_modifier/Nightcore) potrzebują jeszcze jednego kliknięcia.
 
-- **Q**: [Easy](/wiki/Game_modifier/Easy)
-- **W**: [No Fail](/wiki/Game_modifier/No_Fail)
-- **E**: [Half-Time](/wiki/Game_modifier/Half_Time)
-
----
-
-- **A**: [Hard Rock](/wiki/Game_modifier/Hard_Rock)
-- **S**: [Sudden Death](/wiki/Game_modifier/Sudden_Death)
-- **D**: [Double Time](/wiki/Game_modifier/Double_Time)
-- **F**: [Hidden](/wiki/Game_modifier/Hidden)
-- **G**: [Flashlight](/wiki/Game_modifier/Flashlight)
+- **Q**: [Easy](/wiki/Gameplay/Game_modifier/Easy)
+- **W**: [No Fail](/wiki/Gameplay/Game_modifier/No_Fail)
+- **E**: [Half-Time](/wiki/Gameplay/Game_modifier/Half_Time)
 
 ---
 
-- **X**: [Relax](/wiki/Game_modifier/Relax) (Brak efektu przy trybach 4/5/6/7/8k w osu!manii)
-- **C**: [Auto-Pilot](/wiki/Game_modifier/Autopilot)
-- **V**: [Spun-Out](/wiki/Game_modifier/Spun_Out)
+- **A**: [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock)
+- **S**: [Sudden Death](/wiki/Gameplay/Game_modifier/Sudden_Death)
+- **D**: [Double Time](/wiki/Gameplay/Game_modifier/Double_Time)
+- **F**: [Hidden](/wiki/Gameplay/Game_modifier/Hidden)
+- **G**: [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight)
+
+---
+
+- **X**: [Relax](/wiki/Gameplay/Game_modifier/Relax) (Brak efektu przy trybach 4/5/6/7/8k w osu!manii)
+- **C**: [Auto-Pilot](/wiki/Gameplay/Game_modifier/Autopilot)
+- **V**: [Spun-Out](/wiki/Gameplay/Game_modifier/Spun_Out)
 - **B**: Auto
 
 ## Rozgrywka

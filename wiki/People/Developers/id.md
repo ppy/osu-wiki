@@ -9,7 +9,7 @@ tags:
 
 # Developer
 
-Developer merupakan orang-orang yang menjaga agar permainan dan situs web osu! dapat terus hidup dan berkembang dengan memperbaiki *bug-bug* yang ada serta menambah fitur-fitur baru. Kebanyakan dari mereka merupakan karyawan ppy Pty Ltd, yang merupakan badan hukum resmi tempat osu! bernaung. Mereka juga pada umumnya merupakan bagian dari [tim inti osu!](/wiki/People/The_Team).
+Developer merupakan orang-orang yang menjaga agar permainan dan situs web osu! dapat terus hidup dan berkembang dengan memperbaiki *bug-bug* yang ada serta menambah fitur-fitur baru. Kebanyakan dari mereka merupakan karyawan ppy Pty Ltd, yang merupakan badan hukum resmi tempat osu! bernaung. Mereka juga pada umumnya merupakan bagian dari [tim inti osu!](/wiki/People/osu!_team).
 
 Dalam osu!, para developer dapat dikenali dari nama pengguna mereka yang berwarna pink dan gelar "osu!dev" atau "osu!team" yang mereka sandang.
 

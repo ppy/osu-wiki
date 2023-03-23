@@ -54,5 +54,5 @@ O resto da equipe ajuda com controle de qualidade, manutenção, e organização
 
 ## Trivia
 
-- ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) criou a equipe de capitães original em Setembro 2017 junto do sistema de [Captain's Pick](/wiki/Beatmap/History_of_Loved#captain's-pick-and-project-loved-(sep-2017-–-present)) que posteriormente foi renomeado para o Project Loved. Até o fim de 2019, ele supervisionou e gerenciou o projeto inteiro.
+- ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) criou a equipe de capitães original em Setembro 2017 junto do sistema de [Captain's Pick](/wiki/History_of_osu!/History_of_Loved#captain's-pick-and-project-loved-(sep-2017-–-present)) que posteriormente foi renomeado para o Project Loved. Até o fim de 2019, ele supervisionou e gerenciou o projeto inteiro.
 - Há um grupo de usuário do Project Loved no site com o ID de grupo 31, mas a listagem não é pública. É utilizado para permissões para moderar o [Fórum Project Loved](https://osu.ppy.sh/community/forums/120) e promover beatmaps para a categoria Loved, e os únicos membros são ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350), ::{ flag=LT }:: [huu](https://osu.ppy.sh/users/6044237), e ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689).

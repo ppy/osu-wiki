@@ -1,6 +1,6 @@
 # Benutzer mit einzigartigen Titeln
 
-Nutzertitel sind in der Regel mit [Benutzergruppen](/wiki/People/The_Team#benutzergruppen) verbunden, aber die unten aufgelisteten Benutzer haben ihre Titel aus anderen Gründen erhalten. Die meisten Titel waren Auszeichnungen für Beiträge oder Errungenschaften, wobei die übrigen Titel Symbole der kultigen oder lustigen osu!-Geschichte sind.
+Nutzertitel sind in der Regel mit [Benutzergruppen](/wiki/People/osu!_team#benutzergruppen) verbunden, aber die unten aufgelisteten Benutzer haben ihre Titel aus anderen Gründen erhalten. Die meisten Titel waren Auszeichnungen für Beiträge oder Errungenschaften, wobei die übrigen Titel Symbole der kultigen oder lustigen osu!-Geschichte sind.
 
 ## Aktuelle Titelverteidiger des World Cups
 
@@ -174,7 +174,7 @@ Die meisten offiziellen Mapping-Wettbewerbe bieten den Titel **Elite Mapper** al
 
 ## Elite Nominators
 
-Seit 2020 werden Mitglieder der [Beatmap-Nominators](/wiki/People/The_Team/Beatmap_Nominators) und des [Nomination-Assessment-Teams](/wiki/People/The_Team/Nomination_Assessment_Team) mit einer außergewöhnlichen Leistung zur Unterstützung des Ranglistensystems in einem bestimmten Jahr mit dem Titel **Elite Nominator** ausgezeichnet. Dieser Titel wird zu Beginn jedes Jahres für Beiträge vergeben, die während dem vergangen Jahr gemacht wurden, und halten etwa ein Jahr lang oder bis der Benutzer das Team verlässt.
+Seit 2020 werden Mitglieder der [Beatmap-Nominators](/wiki/People/Beatmap_Nominators) und des [Nomination-Assessment-Teams](/wiki/People/Nomination_Assessment_Team) mit einer außergewöhnlichen Leistung zur Unterstützung des Ranglistensystems in einem bestimmten Jahr mit dem Titel **Elite Nominator** ausgezeichnet. Dieser Titel wird zu Beginn jedes Jahres für Beiträge vergeben, die während dem vergangen Jahr gemacht wurden, und halten etwa ein Jahr lang oder bis der Benutzer das Team verlässt.
 
 - ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306)
 - ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958)
@@ -221,7 +221,7 @@ Die Wettbewerbe [osu!trivium Quiz](/wiki/Contests/osu!trivium_Quiz) vergeben ihr
 
 ## Featured Artists
 
-[Featured Artists](/wiki/Featured_Artists) mit osu!-Accounts bekommen den Titel **Featured Artist**, um ihr Engagement zu zeigen.
+[Featured Artists](/wiki/People/Featured_Artists) mit osu!-Accounts bekommen den Titel **Featured Artist**, um ihr Engagement zu zeigen.
 
 ::{ flag=NO }:: [cYsmix](https://osu.ppy.sh/users/272870) und ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) haben den Titel **osu!musician** für frühere Beiträge zum Sound-Design von osu! und den offiziellen Titelsongs erhalten. ::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471) entschied sich dafür, den Titel **osu!mixer** zu behalten (welcher inzwischen zu osu!mixer II umgewandelt wurde), als er ein Featured Artist wurde.
 

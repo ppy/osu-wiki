@@ -1,8 +1,8 @@
 # BN 考试
 
-**BN 考试** 能帮助[审核评估团队 (*NAT*)](/wiki/People/The_Team/Nomination_Assessment_Team) 成员评估想要申请加入[谱面审核团队 (*BN*)](/wiki/People/The_Team/Beatmap_Nominators) 的玩家。
+**BN 考试** 能帮助[审核评估团队 (*NAT*)](/wiki/People/Nomination_Assessment_Team) 成员评估想要申请加入[谱面审核团队 (*BN*)](/wiki/People/Beatmap_Nominators) 的玩家。
 
-申请者需要通过 [BN 网站](https://bn.mappersguild.com/)的考试。[审核评估团队 (*NAT*)](/wiki/People/The_Team/Nomination_Assessment_Team) 成员能根据考试结果评估申请者的能力，并决定申请者是否能加入 BN 团队。
+申请者需要通过 [BN 网站](https://bn.mappersguild.com/)的考试。[审核评估团队 (*NAT*)](/wiki/People/Nomination_Assessment_Team) 成员能根据考试结果评估申请者的能力，并决定申请者是否能加入 BN 团队。
 
 ## 题目类型
 
@@ -10,7 +10,7 @@
 
 考试题目是从对应项目的题库内抽取得到。考试项目如下：
 
-- [BN 规章制度](/wiki/People/The_Team/Beatmap_Nominators/Rules)：5 道题目
+- [BN 规章制度](/wiki/People/Beatmap_Nominators/Rules)：5 道题目
 - [摸图和作图的行为规范](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)：1 道题目
 - [谱面上架标准 (*RC*)](/wiki/Ranking_Criteria#常规)：1 道题目
 - [难度分布标准 (Spread)](/wiki/Ranking_Criteria#谱面)：1 道题目
@@ -28,10 +28,10 @@ BN 考试没有分数线，但可以大概地根据得分把申请者分为三�
 
 ## 历史
 
-[Echo](https://osu.ppy.sh/users/431) 于 2008 年进行了一项小测试，这也是摸图考试的雏形，但它并不用于选拔新 BN（旧称为 [谱面评估团队 (*BAT*)](/wiki/Modding/Beatmap_Appreciation_Team)）。测试要求玩家指出谱面 （[Arashi - Kitto Daijoubu](http://up.ppy.sh/files/Arashi%20-%20Kitto%20Daijoubu.rar)）的瑕疵或错误。
+[Echo](https://osu.ppy.sh/users/431) 于 2008 年进行了一项小测试，这也是摸图考试的雏形，但它并不用于选拔新 BN（旧称为 [谱面评估团队 (*BAT*)](/wiki/People/Beatmap_Appreciation_Team)）。测试要求玩家指出谱面 （[Arashi - Kitto Daijoubu](http://up.ppy.sh/files/Arashi%20-%20Kitto%20Daijoubu.rar)）的瑕疵或错误。
 
 直到 2015 年之前，类似的摸图小测试还只是为了娱乐而设立。这一年，BN 考试开始实行。考试包含了一些与现在的考试题很相似的多选题，以及由 [Charles445](https://osu.ppy.sh/users/85000) 制作的第一版用于评估摸图能力的考试谱面。这张谱面内包含了 10 个难度，每个难度内仅有一小段物件，而每段物件都对应了一个精心设计的[难度等级](/wiki/Beatmap/Difficulty)，考生需要指出其中存在的问题。
 
 第二版考试谱面（由 [Irreversible](https://osu.ppy.sh/users/1287964) 和 [Mao](https://osu.ppy.sh/users/2204515) 制作）、第三版考试谱面（由 Irreversible、Mao、[Myxo](https://osu.ppy.sh/users/2202645) 制作）、第四版考试谱面（由 Irreversible 和 Mao 制作）均设计为完整谱面，以模拟真实情况下的摸图。
 
-直到 2017 年之前，这些考试仍用于挑选新 BN，之后因作弊方面的担忧，考试取消。取而代之的是[质量保障团队 (QAT)](/wiki/Modding/Quality_Assurance_Team)（现改名为审核评估团队 (NAT)）的主观评判，来决定申请者是否能通过评估并加入 BN 团队。
+直到 2017 年之前，这些考试仍用于挑选新 BN，之后因作弊方面的担忧，考试取消。取而代之的是[质量保障团队 (QAT)](/wiki/People/Quality_Assurance_Team)（现改名为审核评估团队 (NAT)）的主观评判，来决定申请者是否能通过评估并加入 BN 团队。

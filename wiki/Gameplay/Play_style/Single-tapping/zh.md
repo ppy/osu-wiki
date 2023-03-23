@@ -19,7 +19,7 @@ tags:
 
 **单戳 (Single-tapping)** 是 [osu!](/wiki/Game_mode/osu!) 模式中的一种指法。在这种指法中，玩家只用一个键（默认是 `Z` 或者 `X`）点击圆圈、拖动滑条和旋转转盘。这种指法在各种水准的玩家中都很常用，而且也是最容易学习和适应的。
 
-不过，名虽如此，但大多数使用单戳指法的玩家，并不总是只用“一个按键”打图。许多玩家会选择单戳来击打大多数物件，但对于[连打](/wiki/Beatmap/Pattern/Stream)以及[堆叠](/wiki/Mapping_techniques/Stack)物件时，他们通常会改变指法，采取[切指](/wiki/Play_style/Alternating)或者[双按](/wiki/Play_style/Double_tapping)来处理。
+不过，名虽如此，但大多数使用单戳指法的玩家，并不总是只用“一个按键”打图。许多玩家会选择单戳来击打大多数物件，但对于[连打](/wiki/Beatmap/Pattern/osu!/Stream)以及[堆叠](/wiki/Beatmapping/Mapping_techniques/Stack)物件时，他们通常会改变指法，采取[切指](/wiki/Gameplay/Play_style/Alternating)或者[双按](/wiki/Gameplay/Play_style/Double_tapping)来处理。
 
 ## 争议
 

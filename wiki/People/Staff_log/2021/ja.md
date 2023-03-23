@@ -7,9 +7,9 @@ outdated_since: 3fe983b3a55970aed91a0bcdca028253d918ae5d
 
 このログでは、ユーザーグループの略語を使用しています:
 
-- **BN:** [ビートマップノミネーター](/wiki/People/The_Team/Beatmap_Nominators)
-- **GMT:** [グローバルモデレーションチーム](/wiki/People/The_Team/Global_Moderation_Team)
-- **NAT:** [ノミネーションアセスメントチーム](/wiki/People/The_Team/Nomination_Assessment_Team)
+- **BN:** [ビートマップノミネーター](/wiki/People/Beatmap_Nominators)
+- **GMT:** [グローバルモデレーションチーム](/wiki/People/Global_Moderation_Team)
+- **NAT:** [ノミネーションアセスメントチーム](/wiki/People/Nomination_Assessment_Team)
 
 ## 1月
 

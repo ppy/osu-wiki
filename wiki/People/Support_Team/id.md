@@ -1,6 +1,6 @@
 # Support Team
 
-*Untuk tim yang mengelola akun, kunjungi: [Account support team](/wiki/People/The_Team/Account_support_team)*
+*Untuk tim yang mengelola akun, kunjungi: [Account support team](/wiki/People/Account_support_team)*
 
 **Support Team**, juga dikenal sebagai **Support Team Redux**, adalah anggota staf osu! yang berfokus pada moderasi forum atau pada sub-forum: [Development](https://osu.ppy.sh/community/forums/2), [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13) (tidak termasuk [Tournaments](https://osu.ppy.sh/community/forums/55) dan [Mapping Techniques](https://osu.ppy.sh/community/forums/61)), [Skinning](https://osu.ppy.sh/community/forums/15), [Feature Requests](https://osu.ppy.sh/community/forums/4), dan [Help](https://osu.ppy.sh/community/forums/5).
 

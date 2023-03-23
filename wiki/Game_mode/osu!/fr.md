@@ -76,11 +76,11 @@ Le cercle blanc extérieur indique le temps restant pour compléter le spinner. 
 
 La petite case située sous le spinner indique le nombre de tours par minute. Le chiffre à l'intérieur de cette case correspond au nombre de rotations possibles, si l'on continue à faire tourner le spinner à cette vitesse pendant une minute. Si le bouton de la souris ou du clavier a été relâché (ou si le stylet ne touche pas la tablette) au début de la rotation, le compteur s'arrête de lire la rotation.
 
-Sur la *DS*, c'est un bon moyen de rayer l'écran tactile (ou la protection d'écran), surtout dans les difficultés les plus élevées. Dans osu!, le nombre de tours a été réduit afin de ne pas être aussi pénible à terminer. Le nombre maximal de tours par minute est de 477, ce qui correspond à la vitesse à laquelle le modificateur de jeu [Auto](/wiki/Game_modifier/Auto) tourne, tandis que le modificateur de jeu [Spun Out](/wiki/Game_modifier/Spun_Out) tourne plus lentement, à 287 tours par minute.
+Sur la *DS*, c'est un bon moyen de rayer l'écran tactile (ou la protection d'écran), surtout dans les difficultés les plus élevées. Dans osu!, le nombre de tours a été réduit afin de ne pas être aussi pénible à terminer. Le nombre maximal de tours par minute est de 477, ce qui correspond à la vitesse à laquelle le modificateur de jeu [Auto](/wiki/Gameplay/Game_modifier/Auto) tourne, tandis que le modificateur de jeu [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out) tourne plus lentement, à 287 tours par minute.
 
 ## Styles de jeu
 
-*Voir la page [Style de jeu](/wiki/Play_style).*
+*Voir la page [Style de jeu](/wiki/Gameplay/Play_style).*
 
 ## Contrôles
 
@@ -92,15 +92,15 @@ Les contrôles par défaut pour osu! sont :
 
 Les objets d'osu! acceptent n'importe quelle entrée du périphérique d'entrée, à condition que chaque objet ait été joué à temps.
 
-Si le modificateur de jeu [Relax](/wiki/Game_modifier/Relax) été utilisé, seul le curseur du jeu fonctionnera. Utilisez le curseur du jeu pour suivre les objets avec des clics automatiques. Les spinners doivent toujours être terminés.
+Si le modificateur de jeu [Relax](/wiki/Gameplay/Game_modifier/Relax) été utilisé, seul le curseur du jeu fonctionnera. Utilisez le curseur du jeu pour suivre les objets avec des clics automatiques. Les spinners doivent toujours être terminés.
 
-Si le modificateur de jeu [Auto Pilot](/wiki/Game_modifier/Autopilot) été utilisé, seule l'entrée du périphérique d'entrée fonctionnera. Ce mod placera automatiquement le curseur sur les objets, le joueur doit quant à lui cliquer au bon moment. Les spinners suivront la vitesse du mod [Spun Out](/wiki/Game_modifier/Spun_Out).
+Si le modificateur de jeu [Auto Pilot](/wiki/Gameplay/Game_modifier/Autopilot) été utilisé, seule l'entrée du périphérique d'entrée fonctionnera. Ce mod placera automatiquement le curseur sur les objets, le joueur doit quant à lui cliquer au bon moment. Les spinners suivront la vitesse du mod [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out).
 
 ## Calcul du score
 
-Le [score dans osu!](/wiki/Gameplay/Score/osu!) est une somme pondérée de plusieurs composantes du gameplay. Il dépend des éléments suivants :
+Le [score dans osu!](/wiki/Gameplay/Score/ScoreV1/osu!) est une somme pondérée de plusieurs composantes du gameplay. Il dépend des éléments suivants :
 
-- Le [jugement](/wiki/Gameplay/Judgement/osu!) détermine la valeur de base du score d'un objet (300, 100, 50 ou 0 en cas de miss). Pour les [cercles](/wiki/Hit_object/Hit_circle), les pressions de touches bien synchronisées sont plus valorisées, à la fois en termes de score et de précision. Les [sliders](/wiki/Hit_object/Slider) et les [spinners](/wiki/Hit_object/Spinner) n'ont pas de hit windows mais ils briseront le combo s'ils sont miss ou mal clear. Obtenir un jugement plus élevé permet également de regagner de la [vie](/wiki/Gameplay/Health).
+- Le [jugement](/wiki/Gameplay/Judgement/osu!) détermine la valeur de base du score d'un objet (300, 100, 50 ou 0 en cas de miss). Pour les [cercles](/wiki/Gameplay/Hit_object/Hit_circle), les pressions de touches bien synchronisées sont plus valorisées, à la fois en termes de score et de précision. Les [sliders](/wiki/Gameplay/Hit_object/Slider) et les [spinners](/wiki/Gameplay/Hit_object/Spinner) n'ont pas de hit windows mais ils briseront le combo s'ils sont miss ou mal clear. Obtenir un jugement plus élevé permet également de regagner de la [vie](/wiki/Gameplay/Health).
 - La [précision](/wiki/Gameplay/Accuracy#osu!) dépend du jugement et montre la précision des clics. Les clics trop tôt ou trop tard sur les touches, ainsi que les miss, diminuent la précision globale.
 - Le [combo](/wiki/Gameplay/Combo_(score_multiplier)) est un multiplicateur de score : jouer un objet contribue davantage au score total lorsque le combo est élevé et vice versa. Le combo peut être [cassé](/wiki/Gameplay/Judgement/Combobreak) par un miss ou un [slider break](/wiki/Gameplay/Judgement/Slider_break).
 
@@ -130,7 +130,7 @@ Après avoir terminé une beatmap, le score se voit attribuer une [note](/wiki/G
 - Une rotation qui ne tourne pas autour du noyau central du spinner ne sera **pas** considérée comme une rotation valide.
 - La smoke dure plus longtemps que le tracé du curseur par défaut dans le jeu. Appliquez les effets de smoke de manière éparse pour éviter que les anciens effets de smoke ne disparaissent trop rapidement.
 - La mascotte d'osu! est [pippi](/wiki/Mascots#pippi).
-- Lorsque le mod [Auto](/wiki/Game_modifier/Auto) est utilisé, le nom du joueur sera osu!
+- Lorsque le mod [Auto](/wiki/Gameplay/Game_modifier/Auto) est utilisé, le nom du joueur sera osu!
 
 ### Histoire
 

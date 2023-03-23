@@ -24,7 +24,7 @@ BN은 정식(Full)과 수습(Probation) 두 그룹으로 분류됩니다.
 
 Full BN은 일반적인 비트맵 모딩과 랭크 외에도 Qualified 상태인 비트맵에 문제가 발견될 경우 Disqualify할 수 있는 권한을 가지고 있습니다. 이후 노미네이션 심사 팀(NAT)이 될 의향이 있다면 신규 BN 신청 심사에 참여할 수 있습니다.
 
-Full BN은 대략 3개월마다 [NAT](/wiki/People/The_Team/Nomination_Assessment_Team)으로부터 행실과 지명 활동량/퀄리티를 평가받게 됩니다. 만약 지명한 맵들이 자주 중대한 이유로 리셋되거나 납득하기 어려운 행실을 보일 경우 Probation BN으로 강등당하게 됩니다.
+Full BN은 대략 3개월마다 [NAT](/wiki/People/Nomination_Assessment_Team)으로부터 행실과 지명 활동량/퀄리티를 평가받게 됩니다. 만약 지명한 맵들이 자주 중대한 이유로 리셋되거나 납득하기 어려운 행실을 보일 경우 Probation BN으로 강등당하게 됩니다.
 
 최소 지명 활동량 기준보다 적게 할 경우 강등되지 않지만, 이후에도 계속 활동량을 늘리지 않는다면 BN 그룹에서 제거당하게 됩니다.
 

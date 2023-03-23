@@ -1,6 +1,6 @@
 # SEV rating
 
-SEV is a measurement system used by the [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (*NAT*) to rate how relevant a [nomination reset](/wiki/Beatmap_ranking_procedure#nomination-resets) is to the evaluations of the nominating [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BN*), providing both transparency and consistency. This measurement is split up into two values and displayed as *Obviousness/Severity*. Both values range from 0 to 2, making it a simple to understand and a quick-to-use system.
+SEV is a measurement system used by the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (*NAT*) to rate how relevant a [nomination reset](/wiki/Beatmap_ranking_procedure#nomination-resets) is to the evaluations of the nominating [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*), providing both transparency and consistency. This measurement is split up into two values and displayed as *Obviousness/Severity*. Both values range from 0 to 2, making it a simple to understand and a quick-to-use system.
 
 ## Obviousness and severity
 
@@ -37,7 +37,7 @@ Below are examples of SEV ratings and how they are roughly interpreted by evalua
 
 ## Usage
 
-SEV ratings are used in the [evaluations of Beatmap Nominators](/wiki/People/The_Team/Nomination_Assessment_Team/Evaluations), weighed against how many nominations they have done.
+SEV ratings are used in the [evaluations of Beatmap Nominators](/wiki/People/Nomination_Assessment_Team/Evaluations), weighed against how many nominations they have done.
 
 Mistakes happen and a healthy amount will help with learning, but if they happen too frequently or the same mistakes repeat, then that is a problem. This is why evaluations do not focus on individual SEV ratings, but take the entire picture into account on a case-by-case basis.
 

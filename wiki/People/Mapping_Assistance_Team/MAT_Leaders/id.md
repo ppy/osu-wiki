@@ -6,7 +6,7 @@ tags:
 
 # MAT Leader
 
-**MAT Leader** mengawasi [Mapping Assistance Team](/wiki/Modding/Mapping_Assistance_Team) (*MAT*). Mereka bertanggung jawab untuk mengelola dan membimbing anggota tim, serta meningkatkan kesadaran akan pengumuman penting dan membentuk tujuan dan arah tim di masa mendatang. Hanya ada satu MAT Leader pada satu itu.
+**MAT Leader** mengawasi [Mapping Assistance Team](/wiki/People/Mapping_Assistance_Team) (*MAT*). Mereka bertanggung jawab untuk mengelola dan membimbing anggota tim, serta meningkatkan kesadaran akan pengumuman penting dan membentuk tujuan dan arah tim di masa mendatang. Hanya ada satu MAT Leader pada satu itu.
 
 ## Sejarah
 

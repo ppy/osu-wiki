@@ -12,7 +12,7 @@ outdated_since: 43f67096dc184164d6d4ec03e05a6da73eeac72f
 
 *Für die Unterstützung von Beatmapping-Wettbewerben, siehe: [Offizielle Wettbewerbsunterstützung](/wiki/Contests/Official_support).*
 
-Das [osu!-Team](/wiki/People/The_Team) betreibt ein Programm, bei dem es nach ihrem Ermessen von der Community veranstaltete Turniere, die bestimmte Kriterien und Erwartungen erfüllen, mit zusätzlicher Unterstützung ausstatten kann.
+Das [osu!-Team](/wiki/People/osu!_team) betreibt ein Programm, bei dem es nach ihrem Ermessen von der Community veranstaltete Turniere, die bestimmte Kriterien und Erwartungen erfüllen, mit zusätzlicher Unterstützung ausstatten kann.
 
 Dieser Artikel wurde zuletzt am 2. Februar 2023 aktualisiert. Bitte ziehe bei jeglichen Rückfragen und Klarstellungen den Kanal `#tournaments` auf dem [osu!dev Discord-Server](https://discord.com/invite/ppy) zurate oder sende eine E-Mail an [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 

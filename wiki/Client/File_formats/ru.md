@@ -61,8 +61,8 @@ outdated_since: fa5c5014bbc907515c84510d42e8354cb974ec37
    - После проверки нажмите "Экспортировать в .osk".
    - .osk будет создан и сохранён в папку "Exports" в папке osu!.
 
-[Osz Link]: /wiki/osu!_File_Formats/Osz_(file_format)
-[Osk Link]: /wiki/osu!_File_Formats/Osk_(file_format)
-[Osu Link]: /wiki/osu!_File_Formats/Osu_(file_format)
-[Osb Link]: /wiki/osu!_File_Formats/Osb_(file_format)
-[Osr Link]: /wiki/osu!_File_Formats/Osr_(file_format)
+[Osz Link]: /wiki/Client/File_formats/Osz_(file_format)
+[Osk Link]: /wiki/Client/File_formats/Osk_(file_format)
+[Osu Link]: /wiki/Client/File_formats/Osu_(file_format)
+[Osb Link]: /wiki/Client/File_formats/Osb_(file_format)
+[Osr Link]: /wiki/Client/File_formats/Osr_(file_format)

@@ -12,9 +12,9 @@ tags:
 
 **Global Moderation Team** (yang sebelumnya dikenal dengan nama Global Mod Team, Administrator, dan GreenBAT), atau yang sering disebut sebagai **GMT**, merupakan para anggota komunitas yang berfokus pada moderasi pemain serta berbagai isu yang berkaitan dengan jajaran staf dan komunitas secara umum. Mereka dapat dikenali dari jabatan dan nama pengguna mereka yang berwarna merah di dalam permainan dan hijau pada forum.
 
-**Seluruh anggota Global Moderator telah disumpah untuk menjunjung tinggi [Kode Etik Kontributor](/wiki/Contributor_Code_of_Conduct) di samping [Peraturan Komunitas](/wiki/Rules) yang berlaku.**
+**Seluruh anggota Global Moderator telah disumpah untuk menjunjung tinggi [Kode Etik Kontributor](/wiki/Rules/Contributor_Code_of_Conduct) di samping [Peraturan Komunitas](/wiki/Rules) yang berlaku.**
 
-***Catatan: Untuk melaporkan moderator yang berperilaku buruk atau melanggar Kode Etik Kontributor, silakan hubungi [account support team](/wiki/People/The_Team/Account_support_team#support@ppy.sh).***
+***Catatan: Untuk melaporkan moderator yang berperilaku buruk atau melanggar Kode Etik Kontributor, silakan hubungi [account support team](/wiki/People/Account_support_team#support@ppy.sh).***
 
 ## Peran dan tanggung jawab
 
