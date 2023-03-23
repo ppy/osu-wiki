@@ -2,7 +2,7 @@
 
 Users interested in joining the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) need to go through an application process overseen by the [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (NAT).
 
-Applications are conducted via the [NAT website](https://bn.mappersguild.com/bnapps).
+Applications are conducted via the [BN website](https://bn.mappersguild.com/bnapps).
 
 Applicants are required to meet a minimum [kudosu](/wiki/Modding/Kudosu) threshold, submit at least two [beatmaps](/wiki/Beatmap) they have recently [modded](/wiki/Modding), and complete a [Beatmap Nominator Test](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) on the [ranking criteria](/wiki/Ranking_Criteria) in order to submit their application. A message from the NAT will be sent once a verdict has been decided. More information on applying can be found [on the website](https://bn.mappersguild.com/bnapps).
 
@@ -42,11 +42,11 @@ The following are modding traits expected of Beatmap Nominators. Failure to disp
 
 ![Application flowchart](img/ApplicationFlowchart.png "Flowchart outlining the Beatmap Nominator application process")
 
-Every application submitted to the NAT website that passes the [Beatmap Nominator Test](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) will be reviewed by NAT members to determine whether or not the applicant can enter the Beatmap Nominator group.
+Every application submitted to the BN website that passes the [Beatmap Nominator Test](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) will be reviewed by evaluators to determine whether or not the applicant can enter the Beatmap Nominator group.
 
-When a user applies to become a BN, the NAT will be notified via the "bnsite" Discord bot in their respective Discord channel. The notification will include the applicant's name and test score, as well as which NAT members have been assigned to the application.
+When a user applies to become a BN, the NAT will be notified via the "bnsite" Discord bot in their respective Discord channel. The notification will include the applicant's name and test score, as well as which evaluators have been assigned to the application.
 
-Members of the NAT can then review the full application on the NAT website, which includes any information the applicant submitted, their test results, as well as a historical record of past evaluations if the user has applied to or has been a BN previously.
+Evaluators can then review the full application on the BN website, which includes any information the applicant submitted, their test results, as well as a historical record of past evaluations if the user has applied to or has been a BN previously.
 
 Evaluation is broken into two stages: *individual* and *group*.
 
