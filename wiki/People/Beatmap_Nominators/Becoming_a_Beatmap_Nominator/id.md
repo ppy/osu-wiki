@@ -5,11 +5,11 @@ outdated_since: fc7d528c2108d6af5ca7a70d53c62baa266fcfb6
 
 # Menjadi seorang Beatmap Nominator
 
-Para pengguna yang tertarik untuk bergabung dengan [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators) harus melalui proses lamaran yang diawasi oleh [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (NAT).
+Para pengguna yang tertarik untuk bergabung dengan [Beatmap Nominator](/wiki/People/Beatmap_Nominators) harus melalui proses lamaran yang diawasi oleh [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (NAT).
 
 Lamaran dilakukan di [situs NAT](http://bn.mappersguild.com/).
 
-Pelamar diwajibkan memenuhi persyaratan aktivitas modding, setidaknya mengirimkan dua map yang baru saja mereka mod, dan menyelesaikan [Tes Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) tentang [Ranking Criteria](/wiki/Ranking_Criteria) untuk mengirimkan lamaran mereka. Pesan dari NAT akan dikirim apabila keputusan telah ditentukan. Informasi lebih lanjut tentang melamar dapat ditemukan di situs web.
+Pelamar diwajibkan memenuhi persyaratan aktivitas modding, setidaknya mengirimkan dua map yang baru saja mereka mod, dan menyelesaikan [Tes Beatmap Nominator](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test) tentang [Ranking Criteria](/wiki/Ranking_Criteria) untuk mengirimkan lamaran mereka. Pesan dari NAT akan dikirim apabila keputusan telah ditentukan. Informasi lebih lanjut tentang melamar dapat ditemukan di situs web.
 
 ## Kriteria dasar
 
@@ -74,7 +74,7 @@ Anda memiliki persyaratan ini jika Anda gagal dalam melamar dan kembali mengajuk
 | :-- | :-- | :-- |
 | Standar | 90 hari | `Skor Mod` lebih dari 0 selama 90 hari |
 | Dikurangi | 60 hari | `Skor Mod` lebih dari 0 selama 90 hari |
-| Gagal [Tes Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test) | 30 hari | `Skor Mod` lebih dari 0 selama 90 hari |
+| Gagal [Tes Beatmap Nominator](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test) | 30 hari | `Skor Mod` lebih dari 0 selama 90 hari |
 
 ### Bergabung kembali setelah dikeluarkan dari Beatmap Nominator
 

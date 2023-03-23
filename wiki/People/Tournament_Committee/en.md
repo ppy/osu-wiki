@@ -5,7 +5,7 @@ The **Tournament Committee** is a panel of skilled and established organisers an
 Their responsibilities include:
 
 - Managing reports from the [tournament reports form](https://pif.ephemeral.ink/tournament-reports)
-- Observing the general tournament scene and advising the [account support team](/wiki/People/The_Team/Account_support_team) on a case-by-case basis
+- Observing the general tournament scene and advising the [account support team](/wiki/People/Account_support_team) on a case-by-case basis
 - Regularly reviewing the [Official tournament support](/wiki/Tournaments/Official_support) page for revisions where necessary
 
 The panel was first announced to the public on July 22, 2021 through the `#tournaments` channel in the [osu!dev Discord server](https://discord.com/invite/ppy) in response to the rapidly growing community tournament scene in osu!.

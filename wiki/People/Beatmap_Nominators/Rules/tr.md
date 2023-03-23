@@ -5,13 +5,13 @@ outdated_since: d2a93c7e0e135bbf0a1944230cab0a334b2ef58f
 
 # Beatmap Aday Göstericiler için Kurallar
 
-Burada listelenen kurallar [Beatmap Aday Göstericilerin](/wiki/People/The_Team/Beatmap_Nominators) beatmapleri aday gösterirken neler yapıp neler yapamayacağını etkiler, aynı zamanda onlardan beklenen genel davranış şeklini belirler. Bu kurallar [Aday Gösterme Denetleme Takımı](/wiki/People/The_Team/Nomination_Assessment_Team) içerisindeki müzakerelerin bir sonucudur ve Beatmap Aday Göstericilerin geri bildirimleri de göz önüne alınarak oluşturulmuştur.
+Burada listelenen kurallar [Beatmap Aday Göstericilerin](/wiki/People/Beatmap_Nominators) beatmapleri aday gösterirken neler yapıp neler yapamayacağını etkiler, aynı zamanda onlardan beklenen genel davranış şeklini belirler. Bu kurallar [Aday Gösterme Denetleme Takımı](/wiki/People/Nomination_Assessment_Team) içerisindeki müzakerelerin bir sonucudur ve Beatmap Aday Göstericilerin geri bildirimleri de göz önüne alınarak oluşturulmuştur.
 
 Beatmap Aday Göstericiler beatmapleri resmi listelere eklenmek üzere aday göstererek yeni içeriklerin oluşturulmasını destekleyerek osu!'nun dünyasını şekillendirme yetkisine sahiptirler, bu nedenle her zaman kurallara uymalıdırlar. Bu kurallardan herhangi birinin ihlali ilgili Beatmap Aday Göstericinin Beatmap Aday Göstericilerden kaldırılmasına neden olabilir. Bu kuralların ihlali Aday Gösterme Denetleme Takımının bir üyesine doğrudan bildirilebilir.
 
 ## Beklentiler
 
-Tüm Beatmap Aday Göstericilerin, [Beatmap Aday Göstericiler için Beklentiler](/wiki/People/The_Team/Beatmap_Nominators/Expectations) makalesinde belirtilen ilkelere uymak için ellerinden geleni yapması beklenir.
+Tüm Beatmap Aday Göstericilerin, [Beatmap Aday Göstericiler için Beklentiler](/wiki/People/Beatmap_Nominators/Expectations) makalesinde belirtilen ilkelere uymak için ellerinden geleni yapması beklenir.
 
 Bu beklentilerle ters düşen tekrarlı davranışlar Aday Gösterme Denetleme Takımının takdirince görevden alınma gerekçesi olarak görülebilir.
 
@@ -68,7 +68,7 @@ Her modun aylık aktivite için kendi asgari gereksinimleri aşağıdaki gibidir
 
 ### Veto
 
-Veto süreciyle ilgili tam bilgi için [beatmap vetosu](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto) sayfasına bakınız.
+Veto süreciyle ilgili tam bilgi için [beatmap vetosu](/wiki/People/Beatmap_Nominators/Beatmap_Veto) sayfasına bakınız.
 
 - **Resmi olarak yeterliliğinizin bulunmadığı oyun modlarındaki beatmapleri veto etmeyin.** Bunları aday göstermeniz yasaktır, ve yeniden aday göstermeniz mümkün olmayan bir beatmapi aday göstermeyi bloklamak mantıksızdır. Bu, beatmapin oyun moduyla doğrudan alakası olmayan ses, arkaplan, veya diğer içeriklerle ilgili vetolar için geçerli değildir.
 - **Alakalı modlama tartışmasında, hata formu biçiminde, Dereceli durumuna ulaşmadan önce ilgilenilmesi gerektiğini düşündüğünüz sorunları göndererek aday gösterilmiş/niteliklendirilmiş beatmap setini veto edebilirsiniz.** Bu beatmap setinin sahip olduğu tüm aday göstermeleri sıfılayacak ve böylece Dereceli durumuna ulaşmasını durduracaktır. Diğer aday göstericiler veto kalkana kadar yeniden aday gösteremezler. Veto gönderisi beatmap setinin derecelendirme sürecinin durdurulmasının ardındaki sorunu ve mantığı açıkça belirtmelidir. Neticelenen tartışma içerisinde katılım göstermeli ve karşılıklı anlaşmaya varmaya çalışmalısınız.

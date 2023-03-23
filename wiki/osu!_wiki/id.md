@@ -23,7 +23,7 @@ Terjemahan dalam bahasa yang berbeda tersedia untuk beberapa artikel. Terjemahah
 
 ## Model
 
-osu! wiki dibangun berdasarkan konsep aksesibilitas: pengeditan dan terjemahan dianjurkan dan dapat dilakukan oleh siapa saja yang mampu dan berpengetahuan. Data untuk artikel disimpan di [repositori GitHub](https://github.com/ppy/osu-wiki) dan diperbarui oleh kontributor melalui [*pull request*](/wiki/osu!_wiki/Contribution_guide), yang kemudian ditinjau dan di-*merge* oleh [pengelola wiki](/wiki/osu!_wiki/Maintenance/List_of_maintainers).
+osu! wiki dibangun berdasarkan konsep aksesibilitas: pengeditan dan terjemahan dianjurkan dan dapat dilakukan oleh siapa saja yang mampu dan berpengetahuan. Data untuk artikel disimpan di [repositori GitHub](https://github.com/ppy/osu-wiki) dan diperbarui oleh kontributor melalui [*pull request*](/wiki/osu!_wiki/Contribution_guide), yang kemudian ditinjau dan di-*merge* oleh [pengelola wiki](/wiki/People/osu!_wiki_maintainers).
 
 Artikel diformat menggunakan [*GitHub-flavoured Markdown*](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/). Selain itu, mesin situs web mengimplementasikan fitur khusus yang penting untuk wiki secara keseluruhan, seperti pengalihan, halaman pertama, atau perbaikan pemformatan.
 

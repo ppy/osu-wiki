@@ -1,8 +1,8 @@
 # Expectations for Beatmap Nominators
 
-*See also: [Beatmap Nominator Rules](/wiki/People/The_Team/Beatmap_Nominators/Rules)*
+*See also: [Beatmap Nominator Rules](/wiki/People/Beatmap_Nominators/Rules)*
 
-As central figures in their respective communities and osu! as a whole, [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) are held to a higher standard than other users. The expectations listed here are the result of discussion within the [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team). While it's unreasonable to perfectly align with these expectations, going far out of line can lead to warnings and/or removal from the Beatmap Nominators. All situations are judged on a case-by-case basis depending on frequency, severity, impact, and common sense.
+As central figures in their respective communities and osu! as a whole, [Beatmap Nominators](/wiki/People/Beatmap_Nominators) are held to a higher standard than other users. The expectations listed here are the result of discussion within the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team). While it's unreasonable to perfectly align with these expectations, going far out of line can lead to warnings and/or removal from the Beatmap Nominators. All situations are judged on a case-by-case basis depending on frequency, severity, impact, and common sense.
 
 As a reminder, Beatmap Nominators are expected to do their best to adhere to the [code of conduct for modding and mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping) at all times. They should also always act within the best interest of maintaining the ranked section's quality.
 
@@ -14,4 +14,4 @@ As a reminder, Beatmap Nominators are expected to do their best to adhere to the
 - **Promote variety.** As main contributors to the ranked section, Beatmap Nominators should aim to provide the community with content from different mappers. They can have preferences, but their nominations should not only consist of other BNs or the same mappers.
 - **Keep improving!** Becoming a Beatmap Nominator is only the start of one's journey. There's still much to discuss and learn about. Beatmap Nominators are not only expected to help others, but also to ask for help when they're unsure about something.
 
-Those wishing to become a Beatmap Nominator should understand these expectations before [seeking to join](/wiki/People/The_Team/Beatmap_Nominators/Becoming_a_Beatmap_Nominator).
+Those wishing to become a Beatmap Nominator should understand these expectations before [seeking to join](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator).

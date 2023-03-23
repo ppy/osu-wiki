@@ -4,7 +4,7 @@ no_native_review: true
 
 # Account-Support-Team
 
-*Für ein Team, welches bestimmte Subforen moderiert, siehe: [Support-Team](/wiki/People/The_Team/Support_Team)*
+*Für ein Team, welches bestimmte Subforen moderiert, siehe: [Support-Team](/wiki/People/Support_Team)*
 
 **Das Account-Support-Team** ist eine Gruppe an Menschen, die Benutzeraccounts verwalten sowie Stummschaltungen und Beschwerden zu Einschränkungen akzeptieren.
 
@@ -38,7 +38,7 @@ Du solltest das Team zu Account-bezogenen Themen kontaktieren, über die du kein
 *Anmerkung: Um einen extremen Fall von Fehlverhalten oder sexuellem Missbrauch von jeglichem Benutzer, ebenso Moderatoren, zu melden, siehe [Missbrauch melden](/wiki/Reporting_bad_behaviour/Abuse).*
 
 - Bedenken über das Fehlverhalten eines Moderators.
-- Bedenken über einen Moderator, der die [Richtlinien für Mitwirkende](/wiki/Contributor_Code_of_Conduct) bricht.
+- Bedenken über einen Moderator, der die [Richtlinien für Mitwirkende](/wiki/Rules/Contributor_Code_of_Conduct) bricht.
 - [Probleme beim Kauf](/wiki/Help_centre/Account#supporter) einer Bestellung vom [osu!store](https://osu.ppy.sh/store/listing).
 - Technische Probleme, die nicht im [Hilfe-Forum](https://osu.ppy.sh/community/forums/5) gelöst werden konnten, wie z. B. [Verbindungsprobleme](/wiki/Help_centre/Client#online-features).
 

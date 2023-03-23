@@ -530,7 +530,7 @@ JPG(혹은 JPEG) 파일 형식은 `.jpg`(혹은 `.jpeg`) 확장자를 가집니�
 다음은 2가지 인라인 스타일의 링크 예제입니다:
 
 ```markdown
-[Game modifier](/wiki/Game_modifier)
+[Game modifier](/wiki/Gameplay/Game_modifier)
 
 <https://osu.ppy.sh/home>
 ```
@@ -567,7 +567,7 @@ JPG(혹은 JPEG) 파일 형식은 `.jpg`(혹은 `.jpeg`) 확장자를 가집니�
 안 좋은 예로는 다음과 같은 항목이 있습니다:
 
 ```markdown
-[Article styling criteria](/wiki/ASC)
+[Article styling criteria](/wiki/Article_styling_criteria)
 [Developers](/wiki/Developers/)
 [Developers](/wiki/Developers/#game-client-developers)
 ```
@@ -576,8 +576,8 @@ JPG(혹은 JPEG) 파일 형식은 `.jpg`(혹은 `.jpeg`) 확장자를 가집니�
 
 ```markdown
 [Article styling criteria](/wiki/Article_styling_criteria)
-[Developers](/wiki/People/The_Team/Developers)
-[Developers](/wiki/People/The_Team/Developers#game-client-developers)
+[Developers](/wiki/People/Developers)
+[Developers](/wiki/People/Developers#game-client-developers)
 ```
 
 ##### 하위 문서 링크

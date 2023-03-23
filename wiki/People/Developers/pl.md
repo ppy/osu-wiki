@@ -12,7 +12,7 @@ outdated_since: b5ffad1bde58fd33ff05bc06bb2843bc8707275e
 
 # Programiści
 
-Programiści osu! rozwijają grę i stronę internetową poprzez naprawianie błędów i dodawanie nowych funkcji. Większość z nich jest zatrudniona w ppy Pty Ltd, firmie posiadającej osu!. Tworzą również znaczącą część [zespołu gry](/wiki/People/The_Team).
+Programiści osu! rozwijają grę i stronę internetową poprzez naprawianie błędów i dodawanie nowych funkcji. Większość z nich jest zatrudniona w ppy Pty Ltd, firmie posiadającej osu!. Tworzą również znaczącą część [zespołu gry](/wiki/People/osu!_team).
 
 Programiści posiadają różowy kolor nazwy użytkownika oraz tytuł "osu!dev" lub "osu!team".
 

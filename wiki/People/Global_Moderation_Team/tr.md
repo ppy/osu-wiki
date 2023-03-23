@@ -14,11 +14,11 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 
 **Küresel Moderasyon Takımı** *(Global Moderation Team)* (eski ismiyle Global Mod Takımı, Adminler, ya da GreenBAT), yaygın adıyla **GMT**, temel olarak oyuncu moderasyonu ve takım ile topluluğun bütününü etkileyen konular ile ilgilenen topluluk üyeleridir. Onlar, oyun içinde kırmızı ve forumlarda limon yeşili olan kullanıcı ünvanları ve isim renkleriyle ayırt edilirler.  
 
-**Tüm Küresel Moderatörler, normal [Topluluk Kurallarının](/wiki/Rules) yanısıra, [İştirakçi Etik Davranış Kurallarına](/wiki/Contributor_Code_of_Conduct) uyacaklarına dair ant içmişlerdir.**
+**Tüm Küresel Moderatörler, normal [Topluluk Kurallarının](/wiki/Rules) yanısıra, [İştirakçi Etik Davranış Kurallarına](/wiki/Rules/Contributor_Code_of_Conduct) uyacaklarına dair ant içmişlerdir.**
 
 ## Rol ve sorumluluklar
 
-***Not: Uygunsuz davranış sergileyen veya İştirakçi Etik Davranış Kurallarına uymayan bir moderatörü bildirmek için, [hesap destek ekibiyle](/wiki/People/The_Team/Account_support_team#support@ppy.sh) iletişime geçin.***\
+***Not: Uygunsuz davranış sergileyen veya İştirakçi Etik Davranış Kurallarına uymayan bir moderatörü bildirmek için, [hesap destek ekibiyle](/wiki/People/Account_support_team#support@ppy.sh) iletişime geçin.***\
 *Ayrıca bakınız: [Olumsuz Davranış Bildirme](/wiki/Reporting_bad_behaviour)*
 
 Küresel Moderasyon Takımı sohbetin ve forumun düzeninden sorumludurlar, ve topluluk içerisindeki etkileşimleri gözetirler. Oyunun moderasyon kısmıyla ilgili konularda onlara danışılmalıdır. Bu konular, aşağıdakilerle sınırlı olmaksızın, şunları içerir:

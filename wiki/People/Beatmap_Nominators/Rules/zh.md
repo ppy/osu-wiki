@@ -5,13 +5,13 @@ outdated_since: dff6d853bc18f995f36ad4c9d9c3d584ee9868bc
 
 # 谱面审核成员 (BN) 规章制度
 
-这里列出的规则阐述了[谱面审核成员 (BN)](/wiki/People/The_Team/Beatmap_Nominators) 在提名谱面时应该做和不应该做的行为，同时确立了 BN 大体的行为基调。这些规则是由[审核评估团队 (NAT)](/wiki/People/The_Team/Nomination_Assessment_Team) 讨论得出，并根据部分 BN 的反馈修改而成的结果。
+这里列出的规则阐述了[谱面审核成员 (BN)](/wiki/People/Beatmap_Nominators) 在提名谱面时应该做和不应该做的行为，同时确立了 BN 大体的行为基调。这些规则是由[审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) 讨论得出，并根据部分 BN 的反馈修改而成的结果。
 
 BN 能够改造 osu! 世界。他们能提名谱面，把这些新内容推送到已上架谱面列表内，从而为众人所知。因此，他们始终需要遵循以下这些规则。违反以下任意一条规则都可能获得从 BN 团队中除名的惩罚。若你发现了有 BN 违反规则，也可以直接向 NAT 报告。
 
 ## 期望
 
-所有 BN 都应该尽最大努力发扬[《对 BN 的期望》](/wiki/People/The_Team/Beatmap_Nominators/Expectations)这篇文章中所阐述的核心精神。
+所有 BN 都应该尽最大努力发扬[《对 BN 的期望》](/wiki/People/Beatmap_Nominators/Expectations)这篇文章中所阐述的核心精神。
 
 若 BN 的所作所为与这些核心精神背道而驰，NAT 能因此革职 BN。
 
@@ -70,7 +70,7 @@ BN 活跃度主要由提名谱面的数量决定。重置谱面（veto、DQ 其�
 
 ### 否决 (Veto)
 
-请参阅[谱面否决 (Veto)](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto) 页面获取关于谱面否决流程的全部信息。
+请参阅[谱面否决 (Veto)](/wiki/People/Beatmap_Nominators/Beatmap_Veto) 页面获取关于谱面否决流程的全部信息。
 
 - **若问题出现在谱面其他的不属于你负责的游戏模式内，则你不应否决这张谱面。** 若你不能提名某一游戏模式的谱面，则阻止该模式谱面的提名行为通常是没有意义的。但如果问题出在谱面歌曲、背景、与游戏模式不相关的内容里时，也可忽略此条。
 - **当你认为谱面含有需要解决的问题时，可以在谱面处于过审 (Qualified) 或被提名状态时，于问题所在的难度的摸图讨论页提出谱面否决帖子。** 这会重置谱面的提名，并将谱面从上架队列中移出。谱面否决后，其他提名者无法提名谱面，直到否决取消。否决帖必须清晰标明谱面出现的需要否决的问题，以及终止上架程序的原因。提出否决的玩家必须全程参与由此产生的讨论，并寻求达成一致的方案。

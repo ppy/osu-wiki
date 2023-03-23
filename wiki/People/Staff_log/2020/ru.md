@@ -2,9 +2,9 @@
 
 Сокращения, используемые в этой статье:
 
-- **BN:** [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators)
-- **GMT:** [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team)
-- **NAT:** [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team)
+- **BN:** [Beatmap Nominators](/wiki/People/Beatmap_Nominators)
+- **GMT:** [Global Moderation Team](/wiki/People/Global_Moderation_Team)
+- **NAT:** [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team)
 
 ## Январь
 

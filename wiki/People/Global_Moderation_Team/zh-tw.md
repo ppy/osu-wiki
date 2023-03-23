@@ -16,11 +16,11 @@ tags:
 
 **GMT (全域管理團隊)** (前身為 Global Mod Team、Administrators、或 GreenBAT)，由社群組成，主要管理其他玩家及處理與團隊和社群有關的問題。可以透過他們的玩家頭銜及名稱顏色 (遊戲中為紅色，論壇中為淺綠色) 辨認出管理員。
 
-**所有全域管理員宣誓維護[貢獻者行為準則](/wiki/Contributor_Code_of_Conduct)及[社群規範](/wiki/Rules)。**
+**所有全域管理員宣誓維護[貢獻者行為準則](/wiki/Rules/Contributor_Code_of_Conduct)及[社群規範](/wiki/Rules)。**
 
 ## 角色與責任
 
-***提醒：若要檢舉管理員的不當行為或違反貢獻者行為準則，請聯繫[帳號管理團隊](/wiki/People/The_Team/Account_support_team#support@ppy.sh)***\
+***提醒：若要檢舉管理員的不當行為或違反貢獻者行為準則，請聯繫[帳號管理團隊](/wiki/People/Account_support_team#support@ppy.sh)***\
 *另見：[檢舉不當行為](/wiki/Reporting_bad_behaviour)*
 
 GMT 負責聊天頻道和論壇的安危，和處理社群間的交流。可以詢問他們任何關於 osu! 管理層面的問題。包括但不限於：

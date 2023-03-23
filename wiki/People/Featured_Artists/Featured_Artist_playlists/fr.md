@@ -5,7 +5,7 @@ tags:
 
 # Playlists des Featured Artists
 
-Tous les mois, de nouvelles **playlists des Featured Artist** sont publiées sur [osu!(lazer)](/wiki/Client/Release_stream/Lazer) mettant en valeur les créations des [Featured Artist](/wiki/Featured_Artists) dans tous les [modes de jeu](/wiki/Game_mode). Les playlists ne sont pas soumises à un format strict, ainsi, les paramètres, les sélections des beatmaps et les critères d'attribution des prix varient chaque mois.
+Tous les mois, de nouvelles **playlists des Featured Artist** sont publiées sur [osu!(lazer)](/wiki/Client/Release_stream/Lazer) mettant en valeur les créations des [Featured Artist](/wiki/People/Featured_Artists) dans tous les [modes de jeu](/wiki/Game_mode). Les playlists ne sont pas soumises à un format strict, ainsi, les paramètres, les sélections des beatmaps et les critères d'attribution des prix varient chaque mois.
 
 ![Lobby de playlist des Featured Artists](img/playlist.jpg "Lobby de playlist des Featured Artists sur osu!(lazer)")
 

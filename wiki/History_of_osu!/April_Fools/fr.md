@@ -20,7 +20,7 @@ tags:
 
 *Pour l'histoire complète d'osu!, voir : [L'histoire d'osu!](/wiki/History_of_osu!)*
 
-Chaque année, l'[équipe osu!](/wiki/People/The_Team) aime faire des blagues à la communauté le jour du poisson d'avril. Cet article répertorie toutes les blagues du poisson d'avril qui ont été jouées sur la communauté d'osu! depuis 2009.
+Chaque année, l'[équipe osu!](/wiki/People/osu!_team) aime faire des blagues à la communauté le jour du poisson d'avril. Cet article répertorie toutes les blagues du poisson d'avril qui ont été jouées sur la communauté d'osu! depuis 2009.
 
 ## 2009
 
@@ -48,13 +48,13 @@ Il a également été rapporté à l'époque que [Ephemeral](https://osu.ppy.sh/
 
 ### osu!core
 
-"osu!core" est le nom donné à la blague du poisson d'avril 2011 d'osu!. Cette blague a eu pour effet d'accélérer le son de chaque beatmap dans le style des remixes de [Nightcore](https://fr.wikipedia.org/wiki/Nightcore). Bien qu'il ne s'agisse que d'un poisson d'avril, il est devenu réalité lorsque le mod [Nightcore](/wiki/Game_modifier/Nightcore) a été introduit en tant que [modificateur de jeu](/wiki/Game_modifier) jouable dans osu! plus tard.[^nightcore-yt][^nightcore-frontpage][^fl-forums]
+"osu!core" est le nom donné à la blague du poisson d'avril 2011 d'osu!. Cette blague a eu pour effet d'accélérer le son de chaque beatmap dans le style des remixes de [Nightcore](https://fr.wikipedia.org/wiki/Nightcore). Bien qu'il ne s'agisse que d'un poisson d'avril, il est devenu réalité lorsque le mod [Nightcore](/wiki/Gameplay/Game_modifier/Nightcore) a été introduit en tant que [modificateur de jeu](/wiki/Gameplay/Game_modifier) jouable dans osu! plus tard.[^nightcore-yt][^nightcore-frontpage][^fl-forums]
 
 ## 2012
 
 ### Les mods Flashlight/Hidden sur le site web
 
-Le 1er avril 2012, l'ensemble du site web d'osu! avait 50 % de chances que le mod [Flashlight (FL)](/wiki/Game_modifier/Flashlight) ou le mod [Hidden (HD)](/wiki/Game_modifier/Hidden) soit "activé" sur le site Web par chargement de page (3/10 pour HD ; 1/5 pour FL). Une reconstitution moderne de ce à quoi ressemblait la blague pour les utilisateurs de l'époque est présentée ci-dessous.[^fl-ontheweb][^fl-forums-2][^fl-forums-3][^fl-forums-4][^fl-osudev-2021-01-29]
+Le 1er avril 2012, l'ensemble du site web d'osu! avait 50 % de chances que le mod [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight) ou le mod [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden) soit "activé" sur le site Web par chargement de page (3/10 pour HD ; 1/5 pour FL). Une reconstitution moderne de ce à quoi ressemblait la blague pour les utilisateurs de l'époque est présentée ci-dessous.[^fl-ontheweb][^fl-forums-2][^fl-forums-3][^fl-forums-4][^fl-osudev-2021-01-29]
 
 ![](img/2012-flashlight.gif "Ce à quoi le site web aurait ressemblé avec le mod Flashlight d'activé.")
 
@@ -111,7 +111,7 @@ Le 1er avril 2014, l'écran du menu principal d'osu! a été temporairement modi
 
 ### osu!coins
 
-*Voir également : [osu!coin](/wiki/osu!coin)*
+*Voir également : [osu!coin](/wiki/History_of_osu!/April_Fools/osu!coin)*
 
 ![](img/2015-osucoins.png "Les osu!coins")
 
@@ -137,13 +137,13 @@ Le 1er avril 2016, [un newspost](https://osu.ppy.sh/home/news/2016-04-01-oculus-
 
 En ce qui concerne la façon dont les joueurs peuvent utiliser l'Oculus Rift comme méthode d'entrée, le newspost décrit que "le joueur aura un point de vue à la première personne du curseur qui se déplace vers et depuis les objets à l'écran..." et qu'il frappera les objets en "... demandant au joueur de produire des sons semblables à des voyelles avec sa bouche". Aucun changement réel n'a été apporté au jeu en ce qui concerne l'utilisation de l'Oculus Rift ou d'un dispositif similaire de [réalité virtuelle (VR)](https://fr.wikipedia.org/wiki/Réalité_virtuelle) pour contrôler osu!.[^osu-vr-news]
 
-Cependant, même si les développeurs officiels d'osu! n'ont pas eu l'intention d'ajouter un véritable support VR, l'idée d'osu! en VR a suscité l'intérêt de certains fans. Cet intérêt a fini par déboucher sur un projet de fans non officiel qui a été lancé peu après et qui visait à créer un client gratuit et open source pour pratiquer osu!. Le but était de créer un client libre et open source permettant de jouer à osu! avec plus de fonctionnalités et de [beatmaps](/wiki/Beatmap) et des [modificateurs de jeu](/wiki/Game_modifier), y compris la possibilité de jouer en VR. Nommé "[McOsu](https://store.steampowered.com/app/607260/McOsu)", le projet a été achevé et publié sur [Steam](https://fr.wikipedia.org/wiki/Steam) le 20 mars 2017.[^osu-vr-reddit][^osu-vr-yt][^osu-vr-gameskinny][^osu-vr-mcosu]
+Cependant, même si les développeurs officiels d'osu! n'ont pas eu l'intention d'ajouter un véritable support VR, l'idée d'osu! en VR a suscité l'intérêt de certains fans. Cet intérêt a fini par déboucher sur un projet de fans non officiel qui a été lancé peu après et qui visait à créer un client gratuit et open source pour pratiquer osu!. Le but était de créer un client libre et open source permettant de jouer à osu! avec plus de fonctionnalités et de [beatmaps](/wiki/Beatmap) et des [modificateurs de jeu](/wiki/Gameplay/Game_modifier), y compris la possibilité de jouer en VR. Nommé "[McOsu](https://store.steampowered.com/app/607260/McOsu)", le projet a été achevé et publié sur [Steam](https://fr.wikipedia.org/wiki/Steam) le 20 mars 2017.[^osu-vr-reddit][^osu-vr-yt][^osu-vr-gameskinny][^osu-vr-mcosu]
 
 *Avis : McOsu est développé séparément de et n'a aucune affiliation directe avec osu! ou ppy Pty Ltd.*
 
 ### Curseur du mod Auto dansant/dancing pippi
 
-"Dancing pippi" (également connu sous le nom de "dancing Auto mod cursor") est le surnom donné à l'une des blagues d'avril 2016 d'osu!. En 2016, une mise à jour a été publiée afin de faire en sorte que le curseur du mod [Auto](/wiki/Game_modifier/Auto) pendant les [replays](/wiki/Gameplay/Replay) tourne autour de l'[objet](/wiki/Hit_object) actuel à la perfection avant de finir par toucher l'objet juste au bon moment, contrairement aux mouvements robotiques et parfaitement droits habituels du mod Auto. La mise à jour a été annulée par une autre mise à jour le jour suivant.[^osu-auto-yt][^osu-auto-yt-2][^osu-auto-yt-3][^osu-auto-reddit]
+"Dancing pippi" (également connu sous le nom de "dancing Auto mod cursor") est le surnom donné à l'une des blagues d'avril 2016 d'osu!. En 2016, une mise à jour a été publiée afin de faire en sorte que le curseur du mod [Auto](/wiki/Gameplay/Game_modifier/Auto) pendant les [replays](/wiki/Gameplay/Replay) tourne autour de l'[objet](/wiki/Gameplay/Hit_object) actuel à la perfection avant de finir par toucher l'objet juste au bon moment, contrairement aux mouvements robotiques et parfaitement droits habituels du mod Auto. La mise à jour a été annulée par une autre mise à jour le jour suivant.[^osu-auto-yt][^osu-auto-yt-2][^osu-auto-yt-3][^osu-auto-reddit]
 
 ### Tags osu!supporter gratuit
 
@@ -173,7 +173,7 @@ Pour le poisson d'avril 2019, il y avait environ 1 chance sur 20 d'entendre l'ef
 
 ### MillhioreF rejoint les Featured Artists
 
-[MillhioreF](https://osu.ppy.sh/users/941094), un modérateur, développeur et joueur du mod [Easy](/wiki/Game_modifier/Easy) de longue date d'osu! - a été annoncé dans [un newspost](https://osu.ppy.sh/home/news/2020-04-01-new-featured-artist-millhioref) comme ayant "rejoint" la liste des [Featured Artists](/wiki/Featured_Artists) en tant que "Millhiore Firianno Biscotti" le 1er avril 2020 avec une sélection de cinq musiques pour commencer :[^irish-fa]
+[MillhioreF](https://osu.ppy.sh/users/941094), un modérateur, développeur et joueur du mod [Easy](/wiki/Gameplay/Game_modifier/Easy) de longue date d'osu! - a été annoncé dans [un newspost](https://osu.ppy.sh/home/news/2020-04-01-new-featured-artist-millhioref) comme ayant "rejoint" la liste des [Featured Artists](/wiki/People/Featured_Artists) en tant que "Millhiore Firianno Biscotti" le 1er avril 2020 avec une sélection de cinq musiques pour commencer :[^irish-fa]
 
 - Waltz o' the Irish
 - The Waltzing Irishman

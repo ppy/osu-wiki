@@ -43,7 +43,7 @@ Se hai ancora problemi o desideri avere più informazioni a riguardo, ti invitia
 
 ## Come elimino la mia beatmap? {#delete-beatmap}
 
-**Il [team di supporto](/wiki/People/The_Team/Account_support_team) non accettano richieste per eliminare manualmente le beatmap caricate.**
+**Il [team di supporto](/wiki/People/Account_support_team) non accettano richieste per eliminare manualmente le beatmap caricate.**
 
 Puoi cancellare la tua beatmap da solo aspettando un mese (28 giorni) senza aggiornarla, così che vada nelle mappe abbandonate.
 

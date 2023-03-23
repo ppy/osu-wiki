@@ -522,7 +522,7 @@ Hay dos tipos de enlaces: en línea y de referencia. En línea tiene dos estilos
 El siguiente es un ejemplo de ambos estilos en línea:
 
 ```markdown
-[Modificador del juego](/wiki/Game_modifier)
+[Modificador del juego](/wiki/Gameplay/Game_modifier)
 
 <https://osu.ppy.sh/home>
 ```
@@ -559,7 +559,7 @@ Los enlaces de la wiki no deben usar redireccionamientos y no deben tener una ba
 Entre los malos ejemplos se incluyen los siguientes:
 
 ```markdown
-[Criterios de estilo del artículo](/wiki/ASC)
+[Criterios de estilo del artículo](/wiki/Article_styling_criteria)
 [Desarrolladores](/wiki/Developers/)
 [Desarrolladores](/wiki/Developers/#desarrolladores-del-cliente del-juego)
 ```
@@ -568,8 +568,8 @@ Entre los buenos ejemplos se incluyen los siguientes:
 
 ```markdown
 [Criterios de estilo del artículo](/wiki/Article_styling_criteria)
-[Desarrolladores](/wiki/People/The_Team/Developers)
-[Desarrolladores](/wiki/People/The_Team/Developers#desarrolladores-del-cliente del-juego)
+[Desarrolladores](/wiki/People/Developers)
+[Desarrolladores](/wiki/People/Developers#desarrolladores-del-cliente del-juego)
 ```
 
 ##### Enlaces a subartículos

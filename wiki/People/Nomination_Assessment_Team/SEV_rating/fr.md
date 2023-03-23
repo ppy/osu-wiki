@@ -1,6 +1,6 @@
 # SEV rating
 
-Le SEV est un système de mesure utilisé par la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (*NAT*) pour évaluer la pertinence d'une [réinitialisation de nomination](/wiki/Beatmap_ranking_procedure#réinitialisation-de-la-nomination) par rapport aux évaluations des [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BN*), ce qui assure à la fois transparence et cohérence. Cette mesure est divisée en deux valeurs affichées sous le format *Évidence/Gravité*. Ces deux valeurs vont de 0 à 2, ce qui en fait un système simple à comprendre et rapide à utiliser.
+Le SEV est un système de mesure utilisé par la [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (*NAT*) pour évaluer la pertinence d'une [réinitialisation de nomination](/wiki/Beatmap_ranking_procedure#réinitialisation-de-la-nomination) par rapport aux évaluations des [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*), ce qui assure à la fois transparence et cohérence. Cette mesure est divisée en deux valeurs affichées sous le format *Évidence/Gravité*. Ces deux valeurs vont de 0 à 2, ce qui en fait un système simple à comprendre et rapide à utiliser.
 
 ## Évidence et gravité
 
@@ -37,7 +37,7 @@ Se trouvent ci-dessous des exemples de notes SEV et la manière dont elles sont 
 
 ## Utilisation
 
-Les notes SEV sont utilisées dans les [évaluations des Beatmaps Nominators](/wiki/People/The_Team/Nomination_Assessment_Team/Evaluations), pondérées par le nombre de nominations qu'ils ont effectuées.
+Les notes SEV sont utilisées dans les [évaluations des Beatmaps Nominators](/wiki/People/Nomination_Assessment_Team/Evaluations), pondérées par le nombre de nominations qu'ils ont effectuées.
 
 Les erreurs se produisent et une quantité saine d'erreurs aide à l'apprentissage, mais si elles se produisent trop fréquemment ou si les mêmes erreurs se répètent, alors il y a un problème. C'est pourquoi les évaluations ne se concentrent pas sur les notes SEV individuelles, mais prennent en compte l'ensemble du profil au cas par cas.
 

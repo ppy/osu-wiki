@@ -78,11 +78,11 @@ The outer white circle shows how much time left to complete the spinner. This ci
 
 The small box below the spinner shows spins per minute. The number inside that box translates to the number of spins possible, if to continue to spin the spinner at that speed for one minute. If mouse/keyboard-button was released (or pen did not touch the tablet) early during the spin, the spinner will stop reading the spin.
 
-On the *DS*, this is a good way to scratch the touchscreen (or screen protector), especially on the higher difficulties. In osu!, spinners have been toned down as to not be such a nuisance to complete. The maximum number of spins per minute achievable is 477 which is also the rate at which the [Auto](/wiki/Game_modifier/Auto) game modifier spins while the [Spun Out](/wiki/Game_modifier/Spun_Out) game modifier spins slower at 287 spins per minute.
+On the *DS*, this is a good way to scratch the touchscreen (or screen protector), especially on the higher difficulties. In osu!, spinners have been toned down as to not be such a nuisance to complete. The maximum number of spins per minute achievable is 477 which is also the rate at which the [Auto](/wiki/Gameplay/Game_modifier/Auto) game modifier spins while the [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out) game modifier spins slower at 287 spins per minute.
 
 ## Play Styles
 
-*Refer to [Play Styles page under osu!](/wiki/Play_style).*
+*Refer to [Play Styles page under osu!](/wiki/Gameplay/Play_style).*
 
 ## Controls
 
@@ -94,15 +94,15 @@ The default controls for osu! are:
 
 The hit objects in osu! will accept any input from the input device, as long as each hit objects was tapped in time.
 
-If [Relax](/wiki/Game_modifier/Relax) game modifier was used, only the in-game cursor will work. Use the in-game cursor to follow the hit objects with automated tap. Spinners must still be completed.
+If [Relax](/wiki/Gameplay/Game_modifier/Relax) game modifier was used, only the in-game cursor will work. Use the in-game cursor to follow the hit objects with automated tap. Spinners must still be completed.
 
-If [Auto Pilot](/wiki/Game_modifier/Autopilot) game modifier was used, only the input from the input device will work. Time the tap on the hit objects with automated cursor movement. Spinners will follow the [Spun Out](/wiki/Game_modifier/Spun_Out) mod speed.
+If [Auto Pilot](/wiki/Gameplay/Game_modifier/Autopilot) game modifier was used, only the input from the input device will work. Time the tap on the hit objects with automated cursor movement. Spinners will follow the [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out) mod speed.
 
 ## Scoring
 
-[Score in osu!](/wiki/Gameplay/Score/osu!) is a weighted sum of multiple components of gameplay. It depends on the following:
+[Score in osu!](/wiki/Gameplay/Score/ScoreV1/osu!) is a weighted sum of multiple components of gameplay. It depends on the following:
 
-- [Judgement](/wiki/Gameplay/Judgement/osu!) determines a hit object's base scoring value (300, 100, 50, or 0 in case of a miss). For [hit circles](/wiki/Hit_object/Hit_circle), well-timed key presses are valued more, both in terms of score and accuracy. [Sliders](/wiki/Hit_object/Slider) and [spinners](/wiki/Hit_object/Spinner) don't have hit windows, but will break combo when missed or not cleared properly. Getting a higher judgement also provides a higher [health](/wiki/Gameplay/Health) boost.
+- [Judgement](/wiki/Gameplay/Judgement/osu!) determines a hit object's base scoring value (300, 100, 50, or 0 in case of a miss). For [hit circles](/wiki/Gameplay/Hit_object/Hit_circle), well-timed key presses are valued more, both in terms of score and accuracy. [Sliders](/wiki/Gameplay/Hit_object/Slider) and [spinners](/wiki/Gameplay/Hit_object/Spinner) don't have hit windows, but will break combo when missed or not cleared properly. Getting a higher judgement also provides a higher [health](/wiki/Gameplay/Health) boost.
 - [Accuracy](/wiki/Gameplay/Accuracy#osu!) depends on judgement and shows how precise hits are. Late or early key presses, as well as misses, decrease overall accuracy.
 - [Combo](/wiki/Gameplay/Combo_(score_multiplier)) is a score multiplier: clearing a hit object contributes more to the total score when combo is high and vice versa. Combo may be [broken](/wiki/Gameplay/Judgement/Combobreak) by a miss or a [slider break](/wiki/Gameplay/Judgement/Slider_break).
 
@@ -132,7 +132,7 @@ After completing a beatmap, the score is assigned a [grade](/wiki/Gameplay/Grade
 - Not spinning around the centre core of the spinner will **not** be considered as a valid spin.
 - Smoke last longer than default in-game cursor trail. Apply smoke effects sparsely to prevent old smoke effects disappearing too quickly.
 - Mascot for osu! is [pippi](/wiki/Mascots#pippi).
-- When played by [Auto](/wiki/Game_modifier/Auto), the player name will be osu!.
+- When played by [Auto](/wiki/Gameplay/Game_modifier/Auto), the player name will be osu!.
 
 ### History
 

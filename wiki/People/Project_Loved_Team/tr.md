@@ -74,7 +74,7 @@ Metaveri denetçileri oylamaya sunulacak her bir mapi kontrol eder, ve mapperlar
 
 ## Beatmap içeriği moderatörleri
 
-İçerik moderatörleri, kendilerini oylamaya sürülecek olan beatmaplerde bulunan görsel ve işitsel içerikleri denetlemeye adamış [Küresel Moderasyon Takımı](/wiki/People/The_Team/Global_Moderation_Team) ve [Aday Gösterme Denetleme Takımı](/wiki/People/The_Team/Nomination_Assessment_Team) üyelerinden oluşur.
+İçerik moderatörleri, kendilerini oylamaya sürülecek olan beatmaplerde bulunan görsel ve işitsel içerikleri denetlemeye adamış [Küresel Moderasyon Takımı](/wiki/People/Global_Moderation_Team) ve [Aday Gösterme Denetleme Takımı](/wiki/People/Nomination_Assessment_Team) üyelerinden oluşur.
 
 - ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323)
 - ::{ flag=FR }:: [Panacotta](https://osu.ppy.sh/users/2850983)
@@ -147,6 +147,6 @@ Aşağıda listelenen kullanıcılar bir zamanlar Project Loved Takımının bir
 
 ## Ek bilgiler
 
-- ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) orijinal kaptanlar takımını Eylül 2017'de, daha sonra Project Loved ismini alacak olan [Captain's Pick](/wiki/Beatmap/History_of_Loved#captain's-pick-and-project-loved-(sep-2017-–-present)) sistemiyle birlikte oluşturdu. 2019'un sonlarına dek, tüm projeyi gözlemledi ve yönetti.
+- ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) orijinal kaptanlar takımını Eylül 2017'de, daha sonra Project Loved ismini alacak olan [Captain's Pick](/wiki/History_of_osu!/History_of_Loved#captain's-pick-and-project-loved-(sep-2017-–-present)) sistemiyle birlikte oluşturdu. 2019'un sonlarına dek, tüm projeyi gözlemledi ve yönetti.
 - 28 Nisan 2021 tarihinden önce, [Project Loved grup sayfası](https://osu.ppy.sh/groups/31) herkese açık değildi ve yalnızca yönetimsel amaçlar için kullanılmaktaydı. An itibariyle bu sayfa herkese açık bir şekilde mevcut.
   - 16 Nisan 2021 tarihine kadar bu grupta yalnızca ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350), ::{ flag=LT }:: [huu](https://osu.ppy.sh/users/6044237), ::{ flag=SG }:: [Shoegazer](https://osu.ppy.sh/users/2520707), ve ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) bulunmaktaydı. Artık Project Loved Takımının tamamı bu grubun birer üyesidir.

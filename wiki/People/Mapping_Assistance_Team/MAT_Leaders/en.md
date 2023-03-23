@@ -6,7 +6,7 @@ tags:
 
 # MAT Leaders
 
-**MAT Leaders** oversaw the [Mapping Assistance Team](/wiki/Modding/Mapping_Assistance_Team) (*MAT*). They were responsible for managing and mentoring team members, as well as raising awareness of important announcements and shaping the future goals and direction of the team. There was only one MAT leader at a time.
+**MAT Leaders** oversaw the [Mapping Assistance Team](/wiki/People/Mapping_Assistance_Team) (*MAT*). They were responsible for managing and mentoring team members, as well as raising awareness of important announcements and shaping the future goals and direction of the team. There was only one MAT leader at a time.
 
 ## History
 

@@ -525,7 +525,7 @@ Es gibt zwei Arten von Links: Inline und als Verweis. Inline hat zwei Stile.
 Das folgende ist ein Beispiel mit beiden Inline-Stilen:
 
 ```markdown
-[Spielmodifikation](/wiki/Game_modifier)
+[Spielmodifikation](/wiki/Gameplay/Game_modifier)
 
 <https://osu.ppy.sh/home>
 ```
@@ -562,7 +562,7 @@ Wiki-Links dürfen keine Umleitungen benutzen und dürfen keinen Schrägstrich (
 Schlechte Beispiele:
 
 ```markdown
-[Artikelgestaltungskriterien](/wiki/ASC)
+[Artikelgestaltungskriterien](/wiki/Article_styling_criteria)
 [Entwickler](/wiki/Developers/)
 [Entwickler](/wiki/Developers/#game-client-developers)
 ```
@@ -571,8 +571,8 @@ Gute Beispiele:
 
 ```markdown
 [Artikelgestaltungskriterien](/wiki/Article_styling_criteria)
-[Entwickler](/wiki/People/The_Team/Developers)
-[Entwickler](/wiki/People/The_Team/Developers#game-client-developers)
+[Entwickler](/wiki/People/Developers)
+[Entwickler](/wiki/People/Developers#game-client-developers)
 ```
 
 ##### Links zu Unterartikeln

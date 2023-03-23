@@ -19,9 +19,9 @@ outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
 
 ## 지명
 
-[Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BN*)들은 모딩에 숙련된 유저들이며 비트맵 랭킹을 위해 지명을 할 수 있습니다. 그들의 역할은 [Ranking Criteria](/wiki/Ranking_Criteria)에 부합하고, 본인이 생각하는 퀄리티를 충족하는 비트맵을 지명하는 것입니다.
+[Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*)들은 모딩에 숙련된 유저들이며 비트맵 랭킹을 위해 지명을 할 수 있습니다. 그들의 역할은 [Ranking Criteria](/wiki/Ranking_Criteria)에 부합하고, 본인이 생각하는 퀄리티를 충족하는 비트맵을 지명하는 것입니다.
 
-[Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (*NAT*)에 속한 멤버들도 비트맵 지명이 가능하지만, 그들의 주된 역할은 아닙니다.
+[Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (*NAT*)에 속한 멤버들도 비트맵 지명이 가능하지만, 그들의 주된 역할은 아닙니다.
 
 BN들에게 지명을 요청하기 전 다른 사람들에게 충분한 모딩을 받는 것이 권장되며, 5개의 하이프는 지명을 받기 위해 필수로 요구됩니다.
 
@@ -35,9 +35,9 @@ Qualified 카테고리는 비트맵을 좀 더 다양한 유저들이 비트맵�
 
 지명 초기화는 비트맵이 랭크 대기열에 들어가기 전에 모더, BN, NAT 멤버들이 비트맵의 가장 최신 버전을 확인할 수 있게 도와줍니다.
 
-비트맵이 지명받은 뒤, 비트맵 제작자가 맵을 업데이트 하거나 BN 또는 NAT 멤버가 해당 비트맵에서 문제를 발견했을 경우, 지명은 초기화될 수 있습니다. [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) 또한 해당 비트맵에서 부적절한 요소를 발견했을 경우 지명을 초기화시킬 수 있습니다. 비트맵이 Qualified된 상태에서 지명이 초기화 될 경우, 해당 비트맵은 Disqualified 처리되며 랭크 대기열에서 제외됩니다.
+비트맵이 지명받은 뒤, 비트맵 제작자가 맵을 업데이트 하거나 BN 또는 NAT 멤버가 해당 비트맵에서 문제를 발견했을 경우, 지명은 초기화될 수 있습니다. [Global Moderation Team](/wiki/People/Global_Moderation_Team) 또한 해당 비트맵에서 부적절한 요소를 발견했을 경우 지명을 초기화시킬 수 있습니다. 비트맵이 Qualified된 상태에서 지명이 초기화 될 경우, 해당 비트맵은 Disqualified 처리되며 랭크 대기열에서 제외됩니다.
 
-BN 또는 NAT는 어떤 비트맵이 ranking criteria와는 직접적인 연관이 없는 주관적인 문제가 있다고 판단할 때, 해당 비트맵을 [veto](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto)할 수도 있습니다.
+BN 또는 NAT는 어떤 비트맵이 ranking criteria와는 직접적인 연관이 없는 주관적인 문제가 있다고 판단할 때, 해당 비트맵을 [veto](/wiki/People/Beatmap_Nominators/Beatmap_Veto)할 수도 있습니다.
 
 ## 랭크
 

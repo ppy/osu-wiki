@@ -10,7 +10,7 @@ tags:
 
 ![MWC 7K 2016 logo](img/logo.jpg)
 
-The **osu!mania 7K World Cup 2016** (***MWC 7K 2016***) was a country-based osu!mania 7K tournament hosted by the [osu! team](/wiki/People/The_Team). It was the second instalment of the osu!mania 7K World Cup.
+The **osu!mania 7K World Cup 2016** (***MWC 7K 2016***) was a country-based osu!mania 7K tournament hosted by the [osu! team](/wiki/People/osu!_team). It was the second instalment of the osu!mania 7K World Cup.
 
 ## Tournament schedule
 
@@ -454,7 +454,7 @@ Sunday, 10 January 2016:
    - 16 FreeMod maps in Semifinals and Finals, respectively.
 3. Each mappool has one tiebreaker.
 4. All maps, including the tiebreaker, will be played on FreeMod condition.
-   - Every individual player can pick [Hidden](/wiki/Game_modifier/Hidden), [FadeIn](/wiki/Game_modifier/Fade_In) and [Flashlight](/wiki/Game_modifier/Flashlight) or no mode at all.
+   - Every individual player can pick [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [FadeIn](/wiki/Gameplay/Game_modifier/Fade_In) and [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight) or no mode at all.
 
 ### Scheduling instructions
 

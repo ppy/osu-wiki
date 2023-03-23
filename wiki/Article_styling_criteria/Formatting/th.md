@@ -486,7 +486,7 @@ osu! ได้รับการติดตั้งในโฟลเดอร
 ต่อไปนี้คือตัวอย่างของรูปแบบอินไลน์ทั้งสองแบบ:
 
 ```markdown
-[ตัวดัดแปลงเกม](/wiki/Game_modifier)
+[ตัวดัดแปลงเกม](/wiki/Gameplay/Game_modifier)
 
 <https://osu.ppy.sh/home>
 ```
@@ -523,7 +523,7 @@ osu! ได้รับการติดตั้งในโฟลเดอร
 ตัวอย่างที่ไม่ดี ได้แก่:
 
 ```markdown
-[เกณฑ์การจัดรูปแบบบทความ](/wiki/ASC)
+[เกณฑ์การจัดรูปแบบบทความ](/wiki/Article_styling_criteria)
 [ผู้พัฒนา](/wiki/Developers/)
 [ผู้พัฒนา](/wiki/Developers/#game-client-developers)
 ```

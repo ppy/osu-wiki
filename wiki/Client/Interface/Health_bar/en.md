@@ -19,6 +19,6 @@ In [osu!taiko](/wiki/Game_mode/osu!taiko), it is impossible to fail a beatmap *d
 
 In osu!, osu!catch, and osu!taiko, the health bar is displayed in the top-left corner of the screen. Whereas in osu!mania, it is rotated 90 degrees counterclockwise, and is placed to the right of the playfield.
 
-In osu! and osu!catch, the health bar will drain at a constant rate throughout the course of a beatmap, with the exception of breaks. This effect is known as [health drain](/wiki/Beatmapping/Health_drain).
+In osu! and osu!catch, the health bar will drain at a constant rate throughout the course of a beatmap, with the exception of breaks. This effect is known as [health drain](/wiki/Gameplay/Health).
 
 <!-- TODO: Add links and stuff -->

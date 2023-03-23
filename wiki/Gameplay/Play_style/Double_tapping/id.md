@@ -9,9 +9,9 @@ tags:
 
 # Double tapping
 
-*Berbeda konteks dengan [Alternating](/wiki/Play_style/Alternating).*
+*Berbeda konteks dengan [Alternating](/wiki/Gameplay/Play_style/Alternating).*
 
-**Double tapping** adalah sebuah gaya tapping untuk [osu!](/wiki/Game_mode/osu!) di mana pemain mengetuk circle, menggeser slider, dan memutar spinner dengan menekan kedua tombol pada keyboard mereka (secara umum `Z` dan `X`). Gaya ini paling sering digunakan sebagai pengganti sementara gaya tapping [stack](/wiki/Mapping_techniques/Stack) dan [stream](/wiki/Beatmap/Pattern/Stream) yang cepat dan terlalu sulit untuk sebagian pemain. Gaya ini dikenal paling tidak akurat.
+**Double tapping** adalah sebuah gaya tapping untuk [osu!](/wiki/Game_mode/osu!) di mana pemain mengetuk circle, menggeser slider, dan memutar spinner dengan menekan kedua tombol pada keyboard mereka (secara umum `Z` dan `X`). Gaya ini paling sering digunakan sebagai pengganti sementara gaya tapping [stack](/wiki/Beatmapping/Mapping_techniques/Stack) dan [stream](/wiki/Beatmap/Pattern/osu!/Stream) yang cepat dan terlalu sulit untuk sebagian pemain. Gaya ini dikenal paling tidak akurat.
 
 ## Penggunaan
 

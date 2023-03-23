@@ -31,7 +31,7 @@ Los Beatmap Nominators completos que presenten una actividad menor a la mínima 
 
 La provisión es usada para monitorizar nuevos o relativos Beatmap Nominators más de cerca. El rol principal para los Beatmap Nominators provisionales es de establecer una fundación como Beatmap Nominator a exclusivamente a través de promover beatmaps en el proceso de clasificación. Por lo menos un nominador completo debe de estar envuelto en el proceso de clasificación para cada beatmap, así los miembros provisionales no pueden dar la nominación final a un beatmap que solo ha recibido nominaciones de otros miembros provisionales para su modo de juego.
 
-Los nuevos miembros de los Beatmap Nominators empiezan con un periodo largo de prueba de un mes. Si su comportamiento y nominaciones son satisfactorias, serán promovidos a los Beatmap Nominators completos después de una [evaluación](/wiki/People/The_Team/Nomination_Assessment_Team/Evaluations) positiva. De otra manera, seguirán en el periodo de prueba por otro mes o serán removidos de los Beatmap Nominators.
+Los nuevos miembros de los Beatmap Nominators empiezan con un periodo largo de prueba de un mes. Si su comportamiento y nominaciones son satisfactorias, serán promovidos a los Beatmap Nominators completos después de una [evaluación](/wiki/People/Nomination_Assessment_Team/Evaluations) positiva. De otra manera, seguirán en el periodo de prueba por otro mes o serán removidos de los Beatmap Nominators.
 
 Cuando un Beatmap Nominator es puesto a prueba, no puede ser puesto a prueba de nuevo por la misma razón durante aproximadamente un año. Por ejemplo, si un Beatmap Nominator es puesto a prueba por mal comportamiento, será eliminado de los Beatmap Nominators si vuelve a mostrar el mismo mal comportamiento recientemente, incluso si es un Beatmap Nominator completo durante la segunda infracción.
 
@@ -232,6 +232,6 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 
 ## Historia
 
-- Los Beatmap Nominators fueron previamente llamados los [Beatmap Appreciation Team](/wiki/Modding/Beatmap_Appreciation_Team) (BAT).
+- Los Beatmap Nominators fueron previamente llamados los [Beatmap Appreciation Team](/wiki/People/Beatmap_Appreciation_Team) (BAT).
 - El 22 de Agosto, 2014, el BAT dejó de ser considerado parte del personal del equipo. Esto revocó su habilidad para poder moderar el chat y su nombre rojo de los foros y dentro del juego.
 - El 1ro de Febrero, 2015, el equipo cambió de ser *Beatmap Appreciation Team* a *Beatmap Nomination Group*, luego fue ajustado a los Beatmap Nominators que conocemos hoy en día.

@@ -1,8 +1,8 @@
 # Ekspektasi bagi Beatmap Nominator
 
-*Lihat juga: [Peraturan Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators/Rules)*
+*Lihat juga: [Peraturan Beatmap Nominator](/wiki/People/Beatmap_Nominators/Rules)*
 
-Sebagai tokoh sentral di masing-masing komunitas dan osu! secara keseluruhan, [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators) memiliki standar yang lebih tinggi daripada pengguna lain. Harapan yang tercantum di sini adalah hasil diskusi [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team). Meskipun itu tidak masuk akal untuk menyelaraskan dengan harapan ini, pelanggaran batas tersebut dapat menyebabkan peringatan dan/atau penghapusan dari Beatmap Nominator. Semua situasi dinilai berdasarkan kasus per kasus tergantung pada frekuensi, tingkat keparahan, dampak, dan akal sehat.
+Sebagai tokoh sentral di masing-masing komunitas dan osu! secara keseluruhan, [Beatmap Nominator](/wiki/People/Beatmap_Nominators) memiliki standar yang lebih tinggi daripada pengguna lain. Harapan yang tercantum di sini adalah hasil diskusi [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team). Meskipun itu tidak masuk akal untuk menyelaraskan dengan harapan ini, pelanggaran batas tersebut dapat menyebabkan peringatan dan/atau penghapusan dari Beatmap Nominator. Semua situasi dinilai berdasarkan kasus per kasus tergantung pada frekuensi, tingkat keparahan, dampak, dan akal sehat.
 
 Sebagai pengingat, Beatmap Nominator diharapkan melakukan yang terbaik dengan selalu mematuhi [kode etik modding dan mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping) setiap saat. Mereka juga harus selalu bertindak demi kepentingan terbaik untuk menjaga kualitas dari bagian ranked.
 
@@ -14,4 +14,4 @@ Sebagai pengingat, Beatmap Nominator diharapkan melakukan yang terbaik dengan se
 - **Mempromosikan variasi.** Sebagai kontributor utama di bagian Ranked, Beatmap Nominator harus mempunyai tujuan yaitu menyajikan konten yang berbeda dari mapper lain kepada komunitas. Mereka bisa memiliki preferensi, tetapi nominasi mereka tidak diperbolehkan hanya terdiri dari BN lain atau pembuat map yang sama.
 - **Terus meningkatkan diri!** Menjadi Beatmap Nominator hanyalah awal dari perjalanan seseorang. Masih banyak yang harus didiskusikan dan dipelajari. Beatmap Nominator tidak hanya diharapkan untuk membantu orang lain saja, tetapi juga untuk meminta bantuan ketika mereka tidak yakin tentang sesuatu.
 
-Mereka yang ingin menjadi Beatmap Nominator harus memahami ekspektasi ini sebelum [bergabung](/wiki/People/The_Team/Beatmap_Nominators/Becoming_a_Beatmap_Nominator).
+Mereka yang ingin menjadi Beatmap Nominator harus memahami ekspektasi ini sebelum [bergabung](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator).

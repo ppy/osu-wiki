@@ -515,7 +515,7 @@ HTML-комментарии<!-- TODO: написать объяснение по
 Примеры встроенных ссылок:
 
 ```markdown
-[Игровые модификаторы](/wiki/Game_modifier)
+[Игровые модификаторы](/wiki/Gameplay/Game_modifier)
 
 <https://osu.ppy.sh/home>
 ```
@@ -550,7 +550,7 @@ HTML-комментарии<!-- TODO: написать объяснение по
 Неправильно:
 
 ```markdown
-[Критерии оформления статей](/wiki/ASC)
+[Критерии оформления статей](/wiki/Article_styling_criteria)
 [Разработчики](/wiki/Developers/)
 [Разработчики](/wiki/Developers/#game-client-developers)
 ```
@@ -559,8 +559,8 @@ HTML-комментарии<!-- TODO: написать объяснение по
 
 ```markdown
 [Критерии оформления статей](/wiki/Article_styling_criteria)
-[Разработчики](/wiki/People/The_Team/Developers)
-[Разработчики](/wiki/People/The_Team/Developers#game-client-developers)
+[Разработчики](/wiki/People/Developers)
+[Разработчики](/wiki/People/Developers#game-client-developers)
 ```
 
 ##### Ссылки на вложенные статьи

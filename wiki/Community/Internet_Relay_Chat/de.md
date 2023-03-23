@@ -78,7 +78,7 @@ Tippe die ersten paar Buchstaben des Benutzernamens ein und drücke dann `Tab`, 
 Der IRC-Standard hat ein Channelmoduskonzept oder Aktionen, die jeder Nutzer ausführen kann. In osu!Bancho werden zwei Modi für spezielle Gruppen von Benutzern verwendet:
 
 - `+` oder "voice status": der Benutzer ist via einem externen IRC-Client verbunden
-- `@` oder "chat operator status": der Benutzer ist ein Chatmoderator ([GMT](/wiki/People/The_Team/Global_Moderation_Team) oder [NAT](/wiki/People/The_Team/Nomination_Assessment_Team))
+- `@` oder "chat operator status": der Benutzer ist ein Chatmoderator ([GMT](/wiki/People/Global_Moderation_Team) oder [NAT](/wiki/People/Nomination_Assessment_Team))
 
 Benutzer, die über den osu!-Client oder die Website verbunden sind, haben kein Präfix.
 

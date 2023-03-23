@@ -9,13 +9,13 @@ tags:
 
 *Voir également : [Évaluations des Beatmap Nominators](Evaluations), [SEV rating](SEV_rating)*
 
-La **Nomination Assessment Team** (***NAT***) est une équipe qui modère les [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BN*) et s'assure que le côté beatmapping d'osu! reste fonctionnel.
+La **Nomination Assessment Team** (***NAT***) est une équipe qui modère les [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*) et s'assure que le côté beatmapping d'osu! reste fonctionnel.
 
-Les membres de la NAT se distinguent par leur nom d'utilisateur rouge et leur titre d'utilisateur. Ils disposent de droits de modération sur le site web tout comme la [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) (*GMT*), et peuvent également [nominer](/wiki/Beatmap_ranking_procedure#nominations) et [réinitialiser les nominations](/wiki/Beatmap_ranking_procedure#réinitialisation-de-la-nomination) sur les beatmaps tout comme les [membres confirmés](/wiki/People/The_Team/Beatmap_Nominators#beatmap-nominators-confirmés) des [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BN*). Dans la plupart des cas, les membres de la NAT sont des BN avec des responsabilités différentes. Par conséquent, toutes les [règles des BN](/wiki/People/The_Team/Beatmap_Nominators/Rules) et les [attentes](/wiki/People/The_Team/Beatmap_Nominators/Expectations) s'appliquent aux membres de la NAT, avec quelques exceptions pour l'activité.
+Les membres de la NAT se distinguent par leur nom d'utilisateur rouge et leur titre d'utilisateur. Ils disposent de droits de modération sur le site web tout comme la [Global Moderation Team](/wiki/People/Global_Moderation_Team) (*GMT*), et peuvent également [nominer](/wiki/Beatmap_ranking_procedure#nominations) et [réinitialiser les nominations](/wiki/Beatmap_ranking_procedure#réinitialisation-de-la-nomination) sur les beatmaps tout comme les [membres confirmés](/wiki/People/Beatmap_Nominators#beatmap-nominators-confirmés) des [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*). Dans la plupart des cas, les membres de la NAT sont des BN avec des responsabilités différentes. Par conséquent, toutes les [règles des BN](/wiki/People/Beatmap_Nominators/Rules) et les [attentes](/wiki/People/Beatmap_Nominators/Expectations) s'appliquent aux membres de la NAT, avec quelques exceptions pour l'activité.
 
-**Tous les membres de la Nomination Assessment Team sont tenus de respecter le [Code de conduite Contributor Covenant](/wiki/Contributor_Code_of_Conduct) en plus des [règles de la communauté](/wiki/Rules) normales.**
+**Tous les membres de la Nomination Assessment Team sont tenus de respecter le [Code de conduite Contributor Covenant](/wiki/Rules/Contributor_Code_of_Conduct) en plus des [règles de la communauté](/wiki/Rules) normales.**
 
-***Remarque : Pour signaler une infraction au code de conduite du contributeur ou un mauvais comportement d'un membre de la NAT, veuillez contacter l'[équipe de support aux comptes](/wiki/People/The_Team/Account_support_team#support@ppy.sh).***
+***Remarque : Pour signaler une infraction au code de conduite du contributeur ou un mauvais comportement d'un membre de la NAT, veuillez contacter l'[équipe de support aux comptes](/wiki/People/Account_support_team#support@ppy.sh).***
 
 ## Responsabilités
 
@@ -25,10 +25,10 @@ Les NAT sont responsables d'une variété de tâches liées au mapping qui peuve
 
 Les membres du sous-groupe des **évaluateurs** sont principalement responsables de :
 
-- **L'évaluation** : Évaluer les compétences et l'activité des Beatmap Nominators actuels et des candidats. *Voir [Évaluations](/wiki/People/The_Team/Nomination_Assessment_Team/Evaluations) pour plus de détails.*
+- **L'évaluation** : Évaluer les compétences et l'activité des Beatmap Nominators actuels et des candidats. *Voir [Évaluations](/wiki/People/Nomination_Assessment_Team/Evaluations) pour plus de détails.*
 - **Le modding** : Modder au moins 3 beatmaps par mois. Cela aide les évaluateurs à se tenir au courant de l'évolution de la communauté de mapping/modding lors de l'évaluation des Beatmap Nominators actuels et des candidats.
 
-Les évaluateurs sont très demandés en raison du grand nombre de [candidatures BN](/wiki/People/The_Team/Beatmap_Nominators/Becoming_a_Beatmap_Nominator). Contrairement aux conseillers, ils recherchent donc occasionnellement de nouveaux membres pour les rejoindre et les aider à alléger la charge de travail. C'est pourquoi les BN qui souhaitent rejoindre la NAT sont principalement jugés en fonction de leur capacité à évaluer, et la plupart des membres de la NAT rejoignent et restent en tant qu'évaluateurs.
+Les évaluateurs sont très demandés en raison du grand nombre de [candidatures BN](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator). Contrairement aux conseillers, ils recherchent donc occasionnellement de nouveaux membres pour les rejoindre et les aider à alléger la charge de travail. C'est pourquoi les BN qui souhaitent rejoindre la NAT sont principalement jugés en fonction de leur capacité à évaluer, et la plupart des membres de la NAT rejoignent et restent en tant qu'évaluateurs.
 
 ### Conseillers
 
@@ -39,7 +39,7 @@ En tant que groupe, les **conseillers** sont chargés de maintenir :
 - **La modération** : Traiter les signalements des utilisateurs et évaluer les comportements inappropriés des Beatmap Nominators, tout en traitant les passages en revue du contenu des beatmaps. Cette sous-catégorie est un effort conjoint entre la NAT et la GMT.
 - **L'entretien divers** : Inclut sans s'y limiter :
   - La gestion des veto.
-  - La maintenance du [Test des BN](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Nominator_Test).
+  - La maintenance du [Test des BN](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test).
   - Le jugement de la gravité des réinitialisations de nominations.
 
 Les conseillers s'assurent que les BN et les autres membres de la communauté de mapping/modding restent informés et se sentent entendus, en plus de maintenir les composantes nécessaires au bon fonctionnement de la scène de mapping/modding. Les conseillers sont généralement composés d'évaluateurs expérimentés qui préfèrent se concentrer sur les questions de gestion concernant la scène de mapping/modding.
@@ -60,7 +60,7 @@ Les membres qui s'avèrent inactifs seront confrontés par d'autres membres de l
 
 Avant de rejoindre la NAT, un utilisateur doit soit être un membre confirmé des Beatmap Nominators, soit un ancien membre de la NAT toujours impliqué dans la communauté. La plupart des candidats à la NAT sont initialement considérés en fonction de leur engagement à aider la communauté de mapping/modding, avec davantage de démonstration de leur capacité à contribuer à une multitude de responsabilités de NAT. Il s'agit généralement de la base de la promotion.
 
-Puisque tous les nouveaux membres de la NAT commencent en tant qu'évaluateurs, il est important que les candidats soient exceptionnels dans l'évaluation des compétences des autres. Les BN confirmés peuvent avoir la possibilité de participer à des [évaluations fictives](/wiki/People/The_Team/Nomination_Assessment_Team/Evaluations#évaluations-fictives) ou de rejoindre temporairement l'équipe d'évaluation, ce qui leur donne l'occasion de s'entraîner. Les candidats à la NAT ont de bien meilleures chances d'être promus si leurs évaluations sont approfondies et qu'elles arrivent à des conclusions similaires à celle de la NAT (ou un bon raisonnement dans le cas contraire)
+Puisque tous les nouveaux membres de la NAT commencent en tant qu'évaluateurs, il est important que les candidats soient exceptionnels dans l'évaluation des compétences des autres. Les BN confirmés peuvent avoir la possibilité de participer à des [évaluations fictives](/wiki/People/Nomination_Assessment_Team/Evaluations#évaluations-fictives) ou de rejoindre temporairement l'équipe d'évaluation, ce qui leur donne l'occasion de s'entraîner. Les candidats à la NAT ont de bien meilleures chances d'être promus si leurs évaluations sont approfondies et qu'elles arrivent à des conclusions similaires à celle de la NAT (ou un bon raisonnement dans le cas contraire)
 
 Le NAT garde un œil sur les candidats potentiels à la NAT sur de longues périodes et se réunit occasionnellement pour décider si un candidat doit être promu, de la même manière que les évaluations de BN. Les BN sont également autorisés à demander à rejoindre la NAT s'ils souhaitent recevoir un retour et s'assurer qu'ils sont pris en compte. Cependant, selon l'activité et les compétences des membres actuels de la NAT, il se peut qu'il n'y ait pas besoin de nouveaux membres. Des nouveaux membres ne seront probablement promus que lorsque l'un des membres actuels réduit son activité ou s'il y a de nouvelles charges de travail nécessitant plus de membres, etc.
 

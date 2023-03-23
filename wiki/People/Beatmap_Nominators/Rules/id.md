@@ -5,13 +5,13 @@ outdated_since: d2a93c7e0e135bbf0a1944230cab0a334b2ef58f
 
 # Aturan bagi Beatmap Nominator
 
-Aturan yang tercantum di sini mempengaruhi apa yang [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) bisa dan tidak bisa lakukan saat menominasi beatmap, juga untuk mengatur pola perilaku umum yang diharapkan dari mereka. Aturan-aturan ini adalah hasil diskusi dari [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) dan telah memperhitungkan umpan balik dari Beatmap Nominator berdasarkan proposal mereka.
+Aturan yang tercantum di sini mempengaruhi apa yang [Beatmap Nominators](/wiki/People/Beatmap_Nominators) bisa dan tidak bisa lakukan saat menominasi beatmap, juga untuk mengatur pola perilaku umum yang diharapkan dari mereka. Aturan-aturan ini adalah hasil diskusi dari [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) dan telah memperhitungkan umpan balik dari Beatmap Nominator berdasarkan proposal mereka.
 
 Beatmap Nominator memiliki alat untuk menominasi beatmap dan membentuk dunia osu! dengan cara mempromosikan konten baru agar dimasukkan ke dalam daftar resmi, dan dengan alasan ini mereka harus selalu mematuhi aturan. Melanggar salah satu dari ini dapat membuat Beatmap Nominator tersebut dihapus dari Beatmap Nominator. Pelanggaran aturan tersebut dapat dilaporkan ke anggota Nomination Assessment Team secara langsung.
 
 ## Ekspektasi
 
-Semua Beatmap Nominator diharapkan melakukan yang terbaik untuk mematuhi etos yang ditetapkan dalam artikel [Ekspektasi bagi Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators/Expectations).
+Semua Beatmap Nominator diharapkan melakukan yang terbaik untuk mematuhi etos yang ditetapkan dalam artikel [Ekspektasi bagi Beatmap Nominator](/wiki/People/Beatmap_Nominators/Expectations).
 
 Perilaku bertentangan yang berkelanjutan dengan ekspektasi ini akan menjadi alasan pemberhentian atas kebijakan Nomination Assessment Team.
 
@@ -68,7 +68,7 @@ Setiap mode memiliki kebutuhan minimum tersendiri untuk aktivitas bulanan.
 
 ### Veto
 
-Silahkan lihat halaman [beatmap veto](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto) untuk informasi lengkap tentang proses veto.
+Silahkan lihat halaman [beatmap veto](/wiki/People/Beatmap_Nominators/Beatmap_Veto) untuk informasi lengkap tentang proses veto.
 
 - **Jangan memveto beatmap dari mode permainan yang tidak sesuai dengan spesialisasi Anda.** Anda tidak diizinkan untuk menominasinya, jadi menghalangi nominasi tanpa kemampuan untuk menominasi kembali beatmap tersebut tidak masuk akal. Hal ini tidak berlaku untuk veto yang terkait dengan audio, background, atau konten lain yang tidak secara langsung berhubungan dengan mode permainan dari beatmap tersebut.
 - **Anda dapat memveto beatmap yang sudah dinominasi/dikualifikasi dengan memposting masalah yang menurut Anda perlu diselesaikan sebelum mencapai status Ranked dalam bentuk masalah di diskusi modding terkait.** Ini akan mereset semua nominasi yang telah diterima oleh beatmap dan menghentikannya dari proses menuju Ranked. Nominator lain tidak akan dapat menominasinya lagi sampai veto dicabut. Postingan veto harus disertai masalah dan alasan yang jelas untuk menghentikan proses ranking beatmap tersebut. Anda harus berpartisipasi dalam diskusi dan berusaha mencapai kesepakatan bersama.

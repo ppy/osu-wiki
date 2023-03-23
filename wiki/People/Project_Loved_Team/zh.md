@@ -53,5 +53,5 @@ The Project Loved 主要由每个[游戏模式](/wiki/Game_mode)的**队长**组
 
 ### 其他
 
-- ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) 最初在 2017 年 9 月创建了 [Captain's Pick](/wiki/Beatmap/History_of_Loved#captain's-pick-and-project-loved-(sep-2017-–-present)) 系统，后来改名为 Project Loved。直到 2019 年末，他一直负责着整个项目的管理。
+- ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) 最初在 2017 年 9 月创建了 [Captain's Pick](/wiki/History_of_osu!/History_of_Loved#captain's-pick-and-project-loved-(sep-2017-–-present)) 系统，后来改名为 Project Loved。直到 2019 年末，他一直负责着整个项目的管理。
 - 在官方网站上拥有一个 Project Loved 团队成员页面，ID 为 31，但列表并不公开。这仅用于管理 [Project Loved 论坛](https://osu.ppy.sh/community/forums/120) 用，其成员只有 ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350) 和 ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689)。
