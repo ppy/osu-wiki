@@ -303,11 +303,13 @@ Ces joueurs ont obtenu leur titre respectif soit en réalisant un exploit de jeu
 
 | Utilisateur | Titre | Réalisation |
 | :-- | :-- | :-- |
-| ::{ flag=NO }:: [-GN](https://osu.ppy.sh/users/895581) | Champion Above Champions | A réalisé le premier FC NoMod sur [Shotgun Symphony+ [Impossibly Intense]](https://osu.ppy.sh/beatmapsets/7671#osu/32570) |
+| ::{ flag=NO }:: [-GN](https://osu.ppy.sh/users/895581) | Champion Above Champions | A réalisé le premier FC NoMod sur [Shotgun Symphony+ [Impossibly Intense]](https://osu.ppy.sh/beatmapsets/7671#osu/32570). |
+| ::{ flag=US }:: [EEEEEEEEEEEEEEE](https://osu.ppy.sh/users/2927048) | osu!completionist | A réalisé un score sur toutes les beatmaps classées du mode osu! le 15 mars 2023. |
 | ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) | Drum Decimator | A réalisé un FC sur toutes les beatmaps classées du mode osu!taiko le 3 novembre 2019. |
+| ::{ flag=PL }:: [Przegrany](https://osu.ppy.sh/users/7635621) | osu!completionist | A réalisé un score sur toutes les beatmaps classées du mode osu! le 11 août 2021. |
 | ::{ flag=NL }:: [Shirotora_old](https://osu.ppy.sh/users/11820) | Bested the Reaper's Game | Décerné par ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) à la fin de l'année 2008 pour avoir atteint le rang #104 en une semaine, en tant que référence à [*The World Ends with You*](https://fr.wikipedia.org/wiki/The_World_Ends_with_You) |
 | ::{ flag=US }:: [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist | A réalisé un score sur toutes les beatmaps classées du mode osu! le 27 avril 2019. |
-| ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter | A gagné [The Hunt for the Girl in the Forest](https://osu.ppy.sh/community/forums/topics/662279) |
+| ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter | A gagné [The Hunt for the Girl in the Forest](https://osu.ppy.sh/community/forums/topics/662279). |
 
 ## Contributeurs
 

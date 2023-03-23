@@ -112,10 +112,11 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | ::{ flag=TR }:: [Burak](https://osu.ppy.sh/users/13213075) | ตุรกี |
 | ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | จีน, กวางตุ้ง |
 | ::{ flag=MX }:: [DakeDekaane](https://osu.ppy.sh/users/1425253) | สเปน |
-| ::{ flag=VN }:: [davidminh0111](https://osu.ppy.sh/users/9623142) | เวียดนาม |
 | ::{ flag=BR }:: [D0UG](https://osu.ppy.sh/users/13806900) | โปรตุเกส |
+| ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733) | กวางตุ้ง, จีน |
 | ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851) | เยอรมัน |
 | ::{ flag=US }:: [hac](https://osu.ppy.sh/users/17853754) |  |
+| ::{ flag=IE }:: [HEAVENLY MOON](https://osu.ppy.sh/users/6751666) |  |
 | ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | โปรตุเกส |
 | ::{ flag=NL }:: [ikin5050](https://osu.ppy.sh/users/4007649) | ดัตช์ |
 | ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230) | จีน, กวางตุ้ง |
@@ -158,6 +159,7 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 | ::{ flag=KR }:: [ArtZone](https://osu.ppy.sh/users/15548034) | เกาหลี |
 | ::{ flag=KR }:: [Aruel](https://osu.ppy.sh/users/3984370) | เกาหลี |
 | ::{ flag=GB }:: [Asherz007](https://osu.ppy.sh/users/9014047) |  |
+| ::{ flag=CN }:: [AWMRone](https://osu.ppy.sh/users/10351684) | จีน |
 | ::{ flag=US }:: [Crisper](https://osu.ppy.sh/users/16482505) |  |
 | ::{ flag=MY }:: [Critical_Star](https://osu.ppy.sh/users/3793196) | มาเลย์ |
 | ::{ flag=KR }:: [DenYi](https://osu.ppy.sh/users/14998645) | เกาหลี |
@@ -224,10 +226,10 @@ outdated_since: dc02d48ab01194487cf7bb5633c2982206fa8f53
 
 | ชื่อ | ภาษาเพิ่มเติม |
 | :-- | :-- |
-| ::{ flag=CN }:: [AWMRone](https://osu.ppy.sh/users/10351684) | จีน |
 | ::{ flag=GB }:: [Hydria](https://osu.ppy.sh/users/808176) |  |
 | ::{ flag=US }:: [Monoseul](https://osu.ppy.sh/users/16010604) |  |
 | ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) |  |
+| ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) | ภาษาดัตช์ |
 
 ## ประวัติ
 
