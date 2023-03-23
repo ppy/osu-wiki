@@ -22,7 +22,7 @@ For full Beatmap Nominators without recent warnings, their evaluations will be s
 
 The duration between evaluations is automatically scheduled by the [BN website](https://bn.mappersguild.com/). However, if there is a substantial cause for concern about a BN's performance at a sooner date, NAT members can also manually schedule an evaluation to happen sooner than normal.
 
-Just like applications, current BN evaluations are randomly assigned to 2-3 evaluators and will be announced in the respective mode's NAT Discord channels.
+Just like applications, current BN evaluations are randomly assigned to 2–3 evaluators and will be announced in the respective mode's NAT Discord channels.
 
 ### Individual phase
 
