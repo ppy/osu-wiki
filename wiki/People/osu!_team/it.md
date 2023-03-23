@@ -20,6 +20,7 @@ tags:
 | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | Organizzatore e amministratore della World Cup |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | Manutentore del progetto e della community, presenza per gli Artisti in Primo Piano |
 | ::{ flag=JP }:: [flyte](https://osu.ppy.sh/users/3103765) | Capo del Design, osservatore residente di Creative Cloud |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Consigliere della scena Modding e mapping |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | Organizzatore e amministratore della World Cup |
 | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | Supporto nei Tornei, presenza per gli Artisti in Primo Piano |
 | ::{ flag=JP }:: [nanaya](https://osu.ppy.sh/users/2387883) | Sviluppatore osu!web |
@@ -28,12 +29,12 @@ tags:
 | ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) | Sviluppatore osu!web, [Artista in Primo Piano di osu! ufficiale](https://osu.ppy.sh/beatmaps/artists/1) |
 | ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | Sviluppatore osu!web |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Consigliere della scena Modding e mapping, organizzatore della Mappers' Guild, presenza per gli Artisti in Primo Piano |
+| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Consigliere della scena Modding e mapping |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | Governante Generale, manutentore della wiki |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | Governante Generale |
 | ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) | Sviluppatore di osu!, amante di osu!mania, compagno di bug |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Governante Generale, assistente ai tornei |
 | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | Consigliere della moderazione e della comunità |
-| ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) | Consigliere della scena Modding e mapping |
 | ::{ flag=AU }:: [Zallius](https://osu.ppy.sh/users/55) | Specie in via di estinzione |
 
 Oltre a quanto sopra , il [team di supporto per account](Account_support_team) è lì per aiutarti con quello che è oltre alla loro portata.
@@ -67,6 +68,7 @@ Oltre a quanto sopra , il [team di supporto per account](Account_support_team) �
 | ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | Primo community manager e leader, meeting minutes e collaboratore delle FAQ |
 | ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | Sviluppatore di osu! e dei pp |
 | ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) | Manager del Project Loved, consigliere della comunità, presenza per gli Artisti in Primo Piano |
+| ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) | Consigliere della scena Modding e mapping |
 | ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | Governante Generale, organizzatore e amministrazione della World Cup, manutentore della wiki |
 | ::{ flag=CN }:: [woc2006](https://osu.ppy.sh/users/1105845) | Sviluppatore di osu!, sviluppatore della modalità osu!mania |
 | ::{ flag=JP }:: [yelle](https://osu.ppy.sh/users/4916903) | Gestore del [osu!store](https://osu.ppy.sh/store/listing) |
