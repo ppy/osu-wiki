@@ -1,6 +1,6 @@
 ---
 stub: true
-태그:
+tags:
   - cinema
   - CM
   - mod
