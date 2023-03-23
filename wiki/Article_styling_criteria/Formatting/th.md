@@ -523,7 +523,7 @@ osu! ได้รับการติดตั้งในโฟลเดอร
 ตัวอย่างที่ไม่ดี ได้แก่:
 
 ```markdown
-[เกณฑ์การจัดรูปแบบบทความ](/wiki/Article_styling_criteria)
+[เกณฑ์การจัดรูปแบบบทความ](/wiki/ASC)
 [ผู้พัฒนา](/wiki/Developers/)
 [ผู้พัฒนา](/wiki/Developers/#game-client-developers)
 ```

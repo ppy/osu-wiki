@@ -550,7 +550,7 @@ HTML-комментарии<!-- TODO: написать объяснение по
 Неправильно:
 
 ```markdown
-[Критерии оформления статей](/wiki/Article_styling_criteria)
+[Критерии оформления статей](/wiki/ASC)
 [Разработчики](/wiki/Developers/)
 [Разработчики](/wiki/Developers/#game-client-developers)
 ```

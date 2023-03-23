@@ -562,7 +562,7 @@ Wiki-Links dürfen keine Umleitungen benutzen und dürfen keinen Schrägstrich (
 Schlechte Beispiele:
 
 ```markdown
-[Artikelgestaltungskriterien](/wiki/Article_styling_criteria)
+[Artikelgestaltungskriterien](/wiki/ASC)
 [Entwickler](/wiki/Developers/)
 [Entwickler](/wiki/Developers/#game-client-developers)
 ```

@@ -567,7 +567,7 @@ JPG(혹은 JPEG) 파일 형식은 `.jpg`(혹은 `.jpeg`) 확장자를 가집니�
 안 좋은 예로는 다음과 같은 항목이 있습니다:
 
 ```markdown
-[Article styling criteria](/wiki/Article_styling_criteria)
+[Article styling criteria](/wiki/ASC)
 [Developers](/wiki/Developers/)
 [Developers](/wiki/Developers/#game-client-developers)
 ```

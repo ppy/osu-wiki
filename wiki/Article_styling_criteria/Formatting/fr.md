@@ -562,7 +562,7 @@ Les liens wiki ne doivent pas utiliser de redirections et ne doivent pas comport
 Les mauvais exemples sont les suivants :
 
 ```markdown
-[Critères de style des articles](/wiki/Article_styling_criteria)
+[Critères de style des articles](/wiki/ASC)
 [Developers](/wiki/Developers/)
 [Developers](/wiki/Developers/#game-client-developers)
 ```

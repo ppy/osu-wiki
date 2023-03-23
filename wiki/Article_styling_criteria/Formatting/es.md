@@ -559,7 +559,7 @@ Los enlaces de la wiki no deben usar redireccionamientos y no deben tener una ba
 Entre los malos ejemplos se incluyen los siguientes:
 
 ```markdown
-[Criterios de estilo del artículo](/wiki/Article_styling_criteria)
+[Criterios de estilo del artículo](/wiki/ASC)
 [Desarrolladores](/wiki/Developers/)
 [Desarrolladores](/wiki/Developers/#desarrolladores-del-cliente del-juego)
 ```
