@@ -21,7 +21,7 @@ Gunakan instalasi osu! terbaru.
 
 ## Latar belakang dari osu!tourney tidak ditampilkan!
 
-Pastikan file latar belakang anda terletak dengan benar di `/osu!/Skins/User/tournament/background.png`.
+Pastikan file latar belakang anda terletak dengan benar di `/osu!/tournament/Skins/User/background.png`.
 Lihat [panduan skinning](/wiki/osu!tourney/Skinning) untuk lebih jelasnya.
 
 ## Bagaimana cara membuat osu! dijalankan sebagai klien normal lagi?

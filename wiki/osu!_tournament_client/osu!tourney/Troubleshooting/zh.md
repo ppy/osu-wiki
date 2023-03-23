@@ -19,7 +19,7 @@
 
 ## osu!tourney 的背景没有显示！
 
-确保你的背景正确放置在路径 `/osu!/Skins/User/tournament/background.png` 下。*关于皮肤的应用，请参见：[osu!tourney 皮肤教程](/wiki/osu!tourney/Skinning)。*
+确保你的背景正确放置在路径 `/osu!/tournament/Skins/User/background.png` 下。*关于皮肤的应用，请参见：[osu!tourney 皮肤教程](/wiki/osu!tourney/Skinning)。*
 
 ## 如何使 osu! 再次以普通模式运行？
 

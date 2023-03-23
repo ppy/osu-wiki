@@ -25,7 +25,7 @@ Use a fresh osu! installation.
 
 ## The background of the osu!tourney is not shown!
 
-Make sure your background file is properly located at `/osu!/Skins/User/tournament/background.png`.
+Make sure your background file is properly located at `/osu!/tournament/Skins/User/background.png`.
 See the [skinning guide](/wiki/osu!tourney/Skinning) for more details.
 
 ## How do I make osu! run as a normal client again?

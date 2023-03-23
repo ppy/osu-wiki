@@ -19,7 +19,7 @@ Benutze eine frische osu!-Installation.
 
 ## Der Hintergrund wird bei osu!tourney nicht angezeigt!
 
-Stelle sicher, dass die Hintergrunddatei ordnungsgemäß in `/osu!/Skins/User/tournament/background.png` vorhanden ist.
+Stelle sicher, dass die Hintergrunddatei ordnungsgemäß in `/osu!/tournament/Skins/User/background.png` vorhanden ist.
 Siehe den [Skinning-Ratgeber](/wiki/osu!tourney/Skinning) für mehr Details.
 
 ## Wie kann ich osu! wieder als normalen Client benutzen?

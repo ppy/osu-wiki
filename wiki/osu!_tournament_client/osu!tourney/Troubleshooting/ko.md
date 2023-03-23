@@ -19,7 +19,7 @@
 
 ## osu!tourney 의 배경이 보이지 않습니다!
 
-배경 파일이 `/osu!/Skins/User/tournament/background.png` 위치해있는지 확인하세요.
+배경 파일이 `/osu!/tournament/Skins/User/background.png` 위치해있는지 확인하세요.
 자세한 내용은 [스키닝 가이드](/wiki/osu!tourney/Skinning) 을 참조하세요.
 
 ## 어떻게 다시 원래 클라이언트로 돌아오나요?

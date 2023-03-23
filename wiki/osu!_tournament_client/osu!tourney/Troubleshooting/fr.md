@@ -21,7 +21,7 @@ Utilisez une nouvelle installation d'osu!
 
 ## L'image de fond d'osu!tourney n'est pas affichée !
 
-Assurez-vous que le fichier d'image est `/osu!/Skins/User/tournament/background.png`.
+Assurez-vous que le fichier d'image est `/osu!/tournament/Skins/User/background.png`.
 Voir le [guide de skinning](/wiki/osu!tourney/Skinning) pour plus de détails.
 
 ## Comment retrouver osu! normal ?

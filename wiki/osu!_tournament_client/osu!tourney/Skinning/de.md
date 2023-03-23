@@ -2,7 +2,7 @@
 
 ![Der Client kann auf vielfältige Weise angepasst werden](img/Osutourneycustom.png)
 
-Der Client unterstützt verschiedene Veränderungen, damit du ihn für das Turnier anpassen kannst. Dazu musst du die Ordnerstruktur `/Skins/User/tournament` im Installationsverzeichnis des Clients anlegen. Die Skinelemente können in diesen Ordner platziert werden und unterstützen die Dateierweiterungen `.jpg` und `.png`.
+Der Client unterstützt verschiedene Veränderungen, damit du ihn für das Turnier anpassen kannst. Dazu musst du die Ordnerstruktur `/tournament/Skins/User` im Installationsverzeichnis des Clients anlegen. Die Skinelemente können in diesen Ordner platziert werden und unterstützen die Dateierweiterungen `.jpg` und `.png`.
 
 Die folgenden Elemente sind anpassbar:
 
@@ -14,7 +14,7 @@ Die folgenden Elemente sind anpassbar:
 
 ![Teamsymbole können neben den Teamnamen angezeigt werden](img/Osutourneyicons.png)
 
-Der Client zeigt Symbole unter dem Pfad `/Skins/User/tournament/icons` neben den Teamnamen an. Diese können verwendet werden, um z. B. Länderflaggen oder Avatare darzustellen.
+Der Client zeigt Symbole unter dem Pfad `/tournament/Skins/User/icons` neben den Teamnamen an. Diese können verwendet werden, um z. B. Länderflaggen oder Avatare darzustellen.
 
 Symbolnamen müssen dem Teamnamen entsprechen. Wenn der Raum beispielsweise `Test Tourney: (Team 1) vs (Team 2)` genannt wird, müssen die Symbole mit `Team 1.jpg` und `Team 2.jpg` benannt werden. Symbole können in den Formaten `.jpg` oder `.png` sein und haben eine optimale Auflösung von `50 x 50 px`.
 

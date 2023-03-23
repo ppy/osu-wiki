@@ -23,7 +23,7 @@ needs_cleanup: true
 
 ## В osu!tourney не видно фон
 
-Проверьте, что файл с фоном находится по пути `/osu!/Skins/User/tournament/background.png`. Подробнее см. [Скиннинг osu!tourney](/wiki/osu!tourney/Skinning).
+Проверьте, что файл с фоном находится по пути `/osu!/tournament/Skins/User/background.png`. Подробнее см. [Скиннинг osu!tourney](/wiki/osu!tourney/Skinning).
 
 ## Как снова запустить osu! в обычном режиме?
 

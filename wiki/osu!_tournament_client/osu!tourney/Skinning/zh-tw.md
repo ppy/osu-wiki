@@ -6,7 +6,7 @@ no_native_review: true
 
 ![可以用各種方式自訂客戶端](img/Osutourneycustom.png)
 
-osu!tourney 支援各種修改，讓你可以為你的比賽自定義客戶端。為此，你必須在 osu!tourney 的安裝路徑下建立 `/Skins/User/tournament` 資料夾。而所有要修改的物件圖片都要放在這個資料夾中，支援 `.jpg` 或 `.png` 格式。
+osu!tourney 支援各種修改，讓你可以為你的比賽自定義客戶端。為此，你必須在 osu!tourney 的安裝路徑下建立 `/tournament/Skins/User` 資料夾。而所有要修改的物件圖片都要放在這個資料夾中，支援 `.jpg` 或 `.png` 格式。
 
 以下的物件可被替換：
 
@@ -18,7 +18,7 @@ osu!tourney 支援各種修改，讓你可以為你的比賽自定義客戶端�
 
 ![隊徽可以在隊伍名稱旁顯示](img/Osutourneyicons.png)
 
-客戶端會在隊伍名稱旁邊顯示 `/Skins/User/tournament/icons` 資料夾中的圖示。可以用來顯示國家旗幟、隊徽、玩家頭像...等。
+客戶端會在隊伍名稱旁邊顯示 `/tournament/Skins/User/icons` 資料夾中的圖示。可以用來顯示國家旗幟、隊徽、玩家頭像...等。
 
 圖示名稱必須與隊伍名稱相同。例如，如果房間名稱為 `Test Tourney: (Team 1) vs (Team 2)`，那麼圖示名稱必須為 `Team 1.jpg` 和 `Team 2.jpg`。圖示可以是 `.jpg` 或 `.png` 格式，最佳解析度為 `50x50px`。
 

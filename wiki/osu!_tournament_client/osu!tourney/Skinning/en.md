@@ -2,7 +2,7 @@
 
 ![The client can be customised in various ways](img/Osutourneycustom.png)
 
-The client supports various modifications so you can customise it for the tournament. To do so, you will need to create the folder structure `/Skins/User/tournament` in the client's installation directory. The skin elements can be placed in this folder and support `.jpg` and `.png` file extensions.
+The client supports various modifications so you can customise it for the tournament. To do so, you will need to create the folder structure `/tournament/Skins/User` in the client's installation directory. The skin elements can be placed in this folder and support `.jpg` and `.png` file extensions.
 
 The following elements are skinnable:
 
@@ -14,7 +14,7 @@ The following elements are skinnable:
 
 ![Team icons can be displayed beside the team names](img/Osutourneyicons.png)
 
-The client will display icons located in the path `/Skins/User/tournament/icons` beside the team names. These may be used to show e.g. country flags or avatars.
+The client will display icons located in the path `/tournament/Skins/User/icons` beside the team names. These may be used to show e.g. country flags or avatars.
 
 Icon names must correspond to the team name. For example, if the room is called `Test Tourney: (Team 1) vs (Team 2)`, the icons must be named `Team 1.jpg` and `Team 2.jpg`. Icons can be in either `.jpg` or `.png` format and have an optimal resolution of `50x50px`.
 
