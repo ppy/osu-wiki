@@ -1,24 +1,24 @@
 # osu!monthly
 
-**osu!monthly** adalah artikel berita bulanan yang dikelola oleh [tim osu!monthly](/wiki/People/osu!monthly_team), dengan tujuan untuk menyajikan ringkasan dari berbagai peristiwa yang terjadi, seperti, hal yang terjadi di komunitas osu!, event resmi, berita, pengumuman, dll. yang terjadi setiap bulannya. Projek ini sebelumnya dipimpin oleh berbagai anggota grup komunitas dulunya, dengan tujuan yang selalu sama: memberikan dan menerangkan informasi tentang apa yang sedang terjadi di osu! pada para pemain
+**osu!monthly** merupakan buletin berita bulanan yang dikelola oleh [tim osu!monthly](/wiki/People/osu!monthly_team). Buletin ini bertujuan untuk membahas berbagai peristiwa, acara, berita, pengumuman, dan berbagai hal terkini lainnya yang terjadi di sekitar komunitas osu! setiap bulannya. Walaupun dalam sejarahnya osu!monthly telah beberapa kali berganti redaksi dan mengalami perubahan versi, setiap edisi osu!monthly selalu menjunjung tujuan yang sama, yaitu untuk menerangkan segala sesuatunya yang sedang terjadi di osu! kepada para pemain.
 
-## Berkontribusi
+## Memberikan kontribusi
 
-osu!monthly adalah hasil kerja sama komunitas, jadi siapapun yang ingin menolong ataupun berkontribusi dipersikahkan jika ingin. Semua diskusi dan perencanaan proyek terjadi di kanal `#osu-news` di [server Discord osu!dev](/wiki/Community/osu!dev_Discord_server).
+osu!monthly merupakan proyek komunitas yang terbuka bagi siapa pun yang ingin memberikan kontribusi. Segala diskusi dan perencanaan osu!monthly dilangsungkan pada kanal `#osu-news` di [server Discord osu!dev](/wiki/Community/osu!dev_Discord_server) secara terbuka dan dapat diikuti oleh siapa saja.
 
 ## Sejarah
 
-Terbitan osu!monthly yang pertama dan paling awalnya dibuat oleh [jjrocks](https://osu.ppy.sh/users/30985), [Corin](https://osu.ppy.sh/users/639270), dan temannya dari Maret 2011 sampai Oktober 2011. Artikelnya juga dirilis dalam format PDF dengan informasi yang penting tentang komunitas osu!.
+Pada awal penerbitannya, osu!monthly dikelola dan diorganisir oleh [jjrocks](https://osu.ppy.sh/users/30985), [Corin](https://osu.ppy.sh/users/639270), dan para rekanan lainnya dari bulan Maret 2011 hingga bulan Oktober 2011. Selama masa terbitnya, osu!monthly versi ini dirilis dalam format PDF dengan berbagai informasi penting seputar komunitas osu! di dalamnya.
 
-Terinspirasi oleh versi osu!monthly yang pertama, tim baru telah dibentuk berkat karena [mangomizer](https://osu.ppy.sh/users/1893718) dan [clayton](https://osu.ppy.sh/users/3666350), dan iterasi osu!monthly yang baru pun dapat dipublikasikan lagi dari Oktober 2017 sampai Februari 2018. Formatnya juga masih PDF, sama seperti dulu, tetapi dengan desain indah yang lebih konsisten dan menyegarkan.
+Terinspirasi oleh osu!monthly yang pernah ada, [mangomizer](https://osu.ppy.sh/users/1893718) dan [clayton](https://osu.ppy.sh/users/3666350) kemudian berinisiatif untuk membentuk tim osu!monthly baru yang aktif dari bulan Oktober 2017 hingga bulan Februari 2018. Pada musim keduanya ini, osu!monthly tetap dirilis dalam format PDF namun dengan desain yang lebih indah dan menyegarkan.
 
-Dengan keinginan untuk menghidupkan kembali proyek ini, para [tim osu!monthly](/wiki/People/osu!monthly_team) akhirnya dibentuk oleh [0x84f](https://osu.ppy.sh/users/7944724), menghidupkan kembali proyek tersebut dan sekaligus juga memimpinnya, kali ini, langsung sebagai artikel berita di laman osu!. Proyek ini saat ini sedang berlangsung.
+Dengan keinginan untuk menghidupkan kembali proyek ini, [tim osu!monthly](/wiki/People/osu!monthly_team) akhirnya dibentuk kembali oleh [0x84f](https://osu.ppy.sh/users/7944724) yang juga bertindak selaku pemimpin proyek. Berbeda dengan edisi sebelumnya, osu!monthly kali ini dipublikasikan dalam bentuk artikel berita pada laman beranda osu!. Versi osu!monthly ini merupakan versi osu!monthly yang saat ini rutin diterbitkan setiap bulannya.
 
 ## Arsip
 
-### Season 1 (2011)
+### Versi pertama (2011)
 
-| Nama | Tanggal publikasi |
+| Judul publikasi | Tanggal rilis |
 | :-- | :-- |
 | [osu!monthly #1](https://osumonthly.com/pdf/osu!monthly-1.pdf) | 2011-03-05 |
 | [osu!monthly #2](https://osumonthly.com/pdf/osu!monthly-2.pdf) | 2011-05-06 |
@@ -27,21 +27,21 @@ Dengan keinginan untuk menghidupkan kembali proyek ini, para [tim osu!monthly](/
 | [osu!monthly #5](https://osumonthly.com/pdf/osu!monthly-5.pdf) | 2011-08-15 |
 | [osu!monthly #6](https://osumonthly.com/pdf/osu!monthly-6.pdf) | 2011-10-27 |
 
-Informasi lebih banyak tentang versi osu!monthly yang pertama dapat ditemukan di [website JJ](https://web.archive.org/web/20201112030400/http://jjwanda.com/projects/osumonthly.html).
+Informasi lebih lanjut mengenai osu!monthly versi pertama dapat dilihat pada [situs web berikut](https://web.archive.org/web/20201112030400/http://jjwanda.com/projects/osumonthly.html).
 
-### Season 2 (2017–2018)
+### Versi kedua (2017–2018)
 
-| Nama | Tanggal publikasi |
+| Judul publikasi | Tanggal rilis |
 | :-- | :-- |
 | [osu!monthly #1](https://osumonthly.com/pdf/osu!monthly-2017-10.pdf) | 2017-11-04 |
 | [osu!monthly #2](https://osumonthly.com/pdf/osu!monthly-2017-11.pdf) | 2017-12-26 |
 | [osu!monthly #3](https://osumonthly.com/pdf/osu!monthly-2018-02.pdf) | 2018-02-17 |
 
-Informasi lebih banyak tentang versi osu!monthly yang kedua dapat ditemukan di [website resmi](https://osumonthly.com/), yang mana juga mengandung daftar tim dan arsip-arsip artikel.
+Informasi lebih lanjut mengenai osu!monthly versi kedua dapat dilihat pada [situs web resmi osu!monthly](https://osumonthly.com/), yang juga mengandung informasi seputar tim liputan yang bertugas dan arsip edisi terdahulu di dalamnya.
 
-### Season 3 (2022–kini)
+### Versi ketiga (2022–sekarang)
 
-| Nama | Tanggal publikasi |
+| Judul publikasi | Tanggal rilis |
 | :-- | :-- |
 | [osu!monthly returns, July 2022](https://osu.ppy.sh/home/news/2022-08-01-osumonthly-1) | 2022-08-01 |
 | [osu!monthly, August 2022](https://osu.ppy.sh/home/news/2022-09-01-osumonthly-2) | 2022-09-01 |
