@@ -8,8 +8,6 @@ tags:
   - чарт
   - чарты
   - ранкинг-чарты
-outdated_translation: true
-outdated_since: da3216feaf6915db11c618166c606f06c41345d6
 ---
 
 # Beatmap Spotlights
@@ -24,7 +22,7 @@ outdated_since: da3216feaf6915db11c618166c606f06c41345d6
 
 ## Участие
 
-Чтобы состязаться с другими игроками, скачайте последнюю версию клиента [osu!(lazer)](/wiki/Client/Release_stream/Lazer) со [страницы релизов на GitHub](https://github.com/ppy/osu/releases/latest).
+Чтобы состязаться с другими игроками, [скачайте](https://osu.ppy.sh/home/download) клиент [osu!(lazer)](/wiki/Client/Release_stream/Lazer).
 
 После установки игры и входа в аккаунт выберите вкладку с плейлистами, чтобы попасть в лобби. Комнаты, посвящённые Beatmap Spotlights, можно найти либо по характерному розовому ярлыку над названием, либо с помощью фильтра в правом верхнем углу.
 
