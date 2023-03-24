@@ -1,16 +1,14 @@
 ---
 layout: post
-title: "Mascot in a Beatmap Art Contest"
-date: 2023-03-23 16:00:00 +0000
+title: "Journey into a Beatmap World Art Contest"
+date: 2023-03-24 08:00:00 +0000
 ---
 
 Swap out your pen nibs and prepare your eyeballs — it's time for 2023's first art contest!
 
 ![](https://assets.ppy.sh/contests/175/header.jpg)
 
-Our much-beloved art contests are back again for 2023, and we're starting things off with one of the themes of all time. So much of a theme in fact, that it is the least creatively named but most creative art contest we've ever held: the *Mascot in a Beatmap Art Contest*.
-
-Despite the similarities in naming theme, this contest involves neither snakes nor planes. Unless you can find a beatmap with snakes and planes in it. Which is possible, potentially.
+Our much-beloved art contests are back again for 2023, and we're starting things off with one of the themes of all time. So much of a theme in fact, that it might just be the most creative one yet: the *Journey into a Beatmap World Art Contest*!
 
 Ahem, anyway, the theme is simple, if you haven't figured it out yet:
 
@@ -38,7 +36,7 @@ Naturally, this is a very broad and exciting theme, and we're very curious to se
 
 ## Rules
 
-- **By submitting your artwork to this contest, you grant us permission to use your artwork in the main menu client should it win, and to use it in promotional material for both the game (osu!) and the contest (Mascot in a Beatmap Art Contest).** You retain all rights to your creation and you can sell it and distribute it however you like — it is your work, after all. We're just saying here that if you submit your piece to this contest, you should be okay with us using it.
+- **By submitting your artwork to this contest, you grant us permission to use your artwork in the main menu client should it win, and to use it in promotional material for both the game (osu!) and the contest (Journey into a Beatmap World Art Contest).** You retain all rights to your creation and you can sell it and distribute it however you like — it is your work, after all. We're just saying here that if you submit your piece to this contest, you should be okay with us using it.
 - **All entries MUST follow the contest theme ("mascots inside a beatmap") and contain AT LEAST one of the osu! official or community mascots.** Double-check and make sure your piece can be related back to at least one Ranked or Loved beatmap and be prepared to justify this if you're asked by the contest organisers!
 - **All entries MUST be suitable for all-ages viewing.** We're not entirely sure how people could get weird with this particular theme, but we also know that where there's a will, there's a way. So just don't. Graphic depictions of Truck-kun will be upgraded to garbage truck-kun (and thrown into the disqualified bin) instead.
 - **SUBMIT ONLY YOUR OWN WORK. REDRAWING AND COMPOSITE WORKS ARE NOT ALLOWED.** Plagiarism sucks. Don't do it. Someone in the comments will call you out for it as has happened every other time someone's tried and they're going to do more damage to your reputation than us removing your entry from the voting will do. Use only your own work — brushes and the like are fine, but that's it! Don't redraw someone else's work.
@@ -49,7 +47,7 @@ Naturally, this is a very broad and exciting theme, and we're very curious to se
 - **Do not leave the dotted osu! cookie template visible in your submission.** The osu! cookie template is not featured in any known beatmaps and it should also not be featured in your works. That's just how the cookie crumbles.
 - **Treat copyrighted characters from other intellectual properties with respect, and use them sparingly in your work.** Remember that every character, mascots included, are someone else's treasured creation, so please wield them with the same love and adoration you'd give your own OCs and work. Egregious or otherwise excessive use of other copyrighted characters (to the point where they're very much the main focus over our mascots) may disqualify your entry.
 
-Once you've nestled all that into your noggin, head on over to the [Mascot in a Beatmap Art Contest listing](https://osu.ppy.sh/community/contests/175) to submit your entry!
+Once you've nestled all that into your noggin, head on over to the [Journey into a Beatmap World Art Contest listing](https://osu.ppy.sh/community/contests/175) to submit your entry!
 
 Until then, the rest of us are just going to have to wait to behold the forthcoming majesty.
 
