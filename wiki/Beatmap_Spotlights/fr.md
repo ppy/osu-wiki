@@ -6,8 +6,6 @@ tags:
   - tableaux
   - Tableaux de classement
   - Spotlights saisonnier
-outdated_translation: true
-outdated_since: da3216feaf6915db11c618166c606f06c41345d6
 ---
 
 # Beatmap Spotlights
@@ -22,7 +20,7 @@ La [page de groupe des Beatmap Spotlight Curators](https://osu.ppy.sh/groups/48)
 
 ## Participation
 
-Pour participer aux Beatmap Spotlights, téléchargez la dernière version du client [osu!(lazer)](/wiki/Client/Release_stream/Lazer) depuis sa [page de versions GitHub](https://github.com/ppy/osu/releases/latest).
+Pour participer aux Beatmap Spotlights, [téléchargez](https://osu.ppy.sh/home/download) le client [osu!(lazer)](/wiki/Client/Release_stream/Lazer).
 
 Après l'installation et la connexion à votre compte, rendez-vous dans l'onglet des playlists de l'onglet play et trouvez les lobbies Spotlights comme indiqué par une petite barre rose, ou filtrez par eux dans le coin supérieur droit.
 
