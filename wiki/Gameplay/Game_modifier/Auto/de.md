@@ -15,8 +15,8 @@ tags:
 
 ![AT Modsymbol](/wiki/shared/mods/AT.png "Auto (AT) Modsymbol")
 
-*Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Game_modifier)*\
-*Nicht zu verwechseln mit [Autopilot (Mod)](/wiki/Game_modifier/Autopilot).*
+*Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Gameplay/Game_modifier)*\
+*Nicht zu verwechseln mit [Autopilot (Mod)](/wiki/Gameplay/Game_modifier/Autopilot).*
 
 ## Übersicht
 
@@ -31,7 +31,7 @@ tags:
 
 *Hinweis: Das Aktivieren der Mod Auto sorgt dafür, dass das Spiel nicht gerankt wird und nicht in der lokalen Rangliste gespeichert wird.*
 
-Die Mod **Auto** (auch *Autoplay* genannt) ist eine [Spielmodifikation](/wiki/Game_modifier), die es Spielern ermöglicht, einen perfekten Durchlauf der ausgewählten Beatmap zu sehen.
+Die Mod **Auto** (auch *Autoplay* genannt) ist eine [Spielmodifikation](/wiki/Gameplay/Game_modifier), die es Spielern ermöglicht, einen perfekten Durchlauf der ausgewählten Beatmap zu sehen.
 
 Die Mod funktioniert genau wie ein [Replay](/wiki/Gameplay/Replay), bei dem die Optionen für die 0,5-fache/1-fache/2-fache Wiedergabegeschwindigkeit zur Verfügung stehen und Kommentare auf der Beatmap eingesehen sowie erstellt werden können. Bis auf ein paar Ausnahmen wird immer die Note SS erlangt.
 

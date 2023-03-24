@@ -65,7 +65,7 @@ Las reglas y pautas generales se aplican a todo tipo de dificultad de osu!mania.
 - **No puede haber más de 6 notas presionadas en ningún momento dado en dificultades Insane o más bajas.** El uso de más de 6 notas también debe seguir una extensión razonable a la siguiente dificultad más baja. Esta regla no se aplica a los finales de las notas largas, ya que se sueltan, no se presionan.
 - **Los beatmaps solo pueden tener de 4 a 10 teclas.** Cualquier otra cosa no es compatible con la sección Clasificado.
 - **Si más de un modo de teclas es presente en un solo beatmap, las teclas deben ser denominadas en todos los nombres de dificultades. En caso de que no, no se deben de nombrar.**
-- **Si el [tiempo de drenaje](/wiki/Gameplay/Drain_time) de cada dificultad es...**
+- **Si el [tiempo de drenaje](/wiki/Beatmap/Drain_time) de cada dificultad es...**
   - **...menos de 2:30**, la dificultad más baja de cada modo de tecla incluido no puede ser más difícil que un Normal, **O** cada modo de tecla debe proporcionar una distribución que comience al menos 3 niveles de dificultad por debajo de la dificultad más alta.
   - **...entre 2:30 y 3:15**, la dificultad más baja de cada modo de tecla incluido no puede ser más difícil que un Hard, **O** cada modo de tecla debe proporcionar una distribución que comience al menos 2 niveles de dificultad por debajo de la dificultad más alta.
   - **...entre 3:15 y 4:00**, la dificultad más baja de cada modo de tecla incluido no puede ser más difícil que un Insane, **O** cada modo de tecla debe proporcionar una distribución que comience al menos 1 nivel de dificultad por debajo de la dificultad más alta.

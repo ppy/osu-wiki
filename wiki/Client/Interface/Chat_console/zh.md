@@ -15,7 +15,7 @@ outdated_translation: true
 | **白色** | 你自己 |
 | **淡黄色** | 非 supporter 玩家 |
 | **黄色** | [osu!supporter](/wiki/osu!supporter) 玩家 |
-| **红色** | [社区管理团队](/wiki/People/The_Team/Global_Moderation_Team) 或 [质量保障团队](/wiki/Modding/Quality_Assurance_Team) 的成员 |
+| **红色** | [社区管理团队](/wiki/People/Global_Moderation_Team) 或 [质量保障团队](/wiki/People/Quality_Assurance_Team) 的成员 |
 | **绿色** | 如果一行消息中出现你的用户名或者或者某个你添加的可触发高亮标记的关键字词，你的用户名就会被绿色的高亮标记。该高亮消息的副本也会以出现在 `#highlight` 频道的形式单独发送给你。 |
 | **蓝色** | 私信你的玩家 |
 | **蓝绿色** | osu! 的创造者 [peppy](https://osu.ppy.sh/users/2) |
@@ -88,7 +88,7 @@ outdated_translation: true
 | `/unignore [玩家]` | 取消屏蔽在此次登录时所屏蔽的玩家。 | `/unignore Amigo` | You may now hear Amigo. （ 你的聊天窗口将重新显示 Amigo 所发的消息 ） |
 | `/me [动作]` | 以第三人称发送消息。 | `/me is at home` | * John is at home |
 | `/msg [玩家] [消息文字]` | 给 `[玩家]` 发送私信。 | `/msg Amigo I am sick at home.` | （ 在 Amigo 的聊天窗口中 ） John: I am sick at home. |
-| `/np` | 发送你正在听的 / 玩的歌曲。 | `/np` | （ 游戏时 ） \* John is playing [Peter Lambert - osu! tutorial\[Gameplay Basics\]](https://osu.ppy.sh/beatmapsets/3756#osu/22538) [Game Modes](/wiki/FAQ#其他特殊游戏模式) \~[Relax/Autopilot](/wiki/Game_modifier#special)\~ +[Difficulty increasing mod](/wiki/Game_modifier#difficulty-increase) -[Difficulty decreasing mod](/wiki/Game_modifier#difficulty-reduction)/[SpunOut](/wiki/Game_modifier/Spun_Out) [xK](/wiki/Game_modifier/xK) （不做任何事情时，取决于玩家卡片显示的状态 ） \* John is listening to [Peter Lambert - osu! tutorial](https://osu.ppy.sh/beatmapsets/3756#osu/22538) （ 旁观或使用 Auto 机器人时 ） \* John is watching [Peter Lambert - osu! tutorial\[Gameplay basics\]](https://osu.ppy.sh/beatmapsets/3756#osu/22538) [Game Modes](/wiki/FAQ#其他特殊游戏模式) \~[Relax/Autopilot](/wiki/Game_modifier#special)\~ +[Difficulty increasing mod](/wiki/Game_modifier#difficulty-increase) -[Difficulty decreasing mod](/wiki/Game_modifier#difficulty-reduction)/[SpunOut](/wiki/Game_modifier/Spun_Out) [xK](/wiki/Game_modifier/xK) [Autoplay](/wiki/Game_modifier/Auto) |
+| `/np` | 发送你正在听的 / 玩的歌曲。 | `/np` | （ 游戏时 ） \* John is playing [Peter Lambert - osu! tutorial\[Gameplay Basics\]](https://osu.ppy.sh/beatmapsets/3756#osu/22538) [Game Modes](/wiki/FAQ#其他特殊游戏模式) \~[Relax/Autopilot](/wiki/Gameplay/Game_modifier#special)\~ +[Difficulty increasing mod](/wiki/Gameplay/Game_modifier#difficulty-increase) -[Difficulty decreasing mod](/wiki/Gameplay/Game_modifier#difficulty-reduction)/[SpunOut](/wiki/Gameplay/Game_modifier/Spun_Out) [xK](/wiki/Gameplay/Game_modifier/xK) （不做任何事情时，取决于玩家卡片显示的状态 ） \* John is listening to [Peter Lambert - osu! tutorial](https://osu.ppy.sh/beatmapsets/3756#osu/22538) （ 旁观或使用 Auto 机器人时 ） \* John is watching [Peter Lambert - osu! tutorial\[Gameplay basics\]](https://osu.ppy.sh/beatmapsets/3756#osu/22538) [Game Modes](/wiki/FAQ#其他特殊游戏模式) \~[Relax/Autopilot](/wiki/Gameplay/Game_modifier#special)\~ +[Difficulty increasing mod](/wiki/Gameplay/Game_modifier#difficulty-increase) -[Difficulty decreasing mod](/wiki/Gameplay/Game_modifier#difficulty-reduction)/[SpunOut](/wiki/Gameplay/Game_modifier/Spun_Out) [xK](/wiki/Gameplay/Game_modifier/xK) [Autoplay](/wiki/Gameplay/Game_modifier/Auto) |
 | `/reply` or `/r` | 回复最后一个发送的私信。 | `/r Do you know any good doctor?` | （ 在 Amigo 的聊天窗口中 ） \[Previous comments\] John: I am sick at home. Amigo: Really? John: Do you know any good doctor? |
 | `/savelog` | 将当前窗口中的聊天记录存储为文件。 | `/savelog` | （ 在 osu! 目录下将创建一个名为 Chat 的文件夹，里面包含在该聊天窗口下的所有聊天记录 ） |
 | `/watch [玩家]` | 开始旁观 `[玩家]`。 | `/watch Amigo` | \* Started spectating Amigo. （ 当 Amigo 玩你也拥有的谱面时，经过一段时间的缓冲之后你将可以旁观。Amigo 的屏幕左边也会出现你的名字。） |

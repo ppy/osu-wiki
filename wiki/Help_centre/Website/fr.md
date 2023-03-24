@@ -86,7 +86,7 @@ Même si votre [tag supporter](https://osu.ppy.sh/home/support) est épuisée, v
 
 Dans ce cas, vous pouvez ouvrir un ticket avec l'équipe d'assistance en envoyant un e-mail à [accounts@ppy.sh](mailto:accounts@ppy.sh) et discuter de votre situation avec eux.
 
-Si, à un moment donné, vous avez des doutes quant à la pertinence d'un élément pour une page moi!, vous pouvez envoyer un message à l'un des membres de la [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) avec ce que vous envisagez de mettre en ligne et ils vous feront savoir si c'est acceptable.
+Si, à un moment donné, vous avez des doutes quant à la pertinence d'un élément pour une page moi!, vous pouvez envoyer un message à l'un des membres de la [Global Moderation Team](/wiki/People/Global_Moderation_Team) avec ce que vous envisagez de mettre en ligne et ils vous feront savoir si c'est acceptable.
 
 ### Dois-je utiliser mon adresse e-mail pour m'inscrire ? {#email-purpose}
 

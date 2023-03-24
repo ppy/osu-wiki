@@ -8,7 +8,7 @@ tags:
 
 # peppy
 
-**peppy** (geschrieben mit einem kleinen "p") ist das Online-Kürzel von Dean Herbert, der der Ersteller des osu!-Projekts und sein primärer [Entwickler](/wiki/People/The_Team/Developers) ist.
+**peppy** (geschrieben mit einem kleinen "p") ist das Online-Kürzel von Dean Herbert, der der Ersteller des osu!-Projekts und sein primärer [Entwickler](/wiki/People/Developers) ist.
 
 ## Links
 

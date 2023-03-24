@@ -14,7 +14,7 @@ From most screens in osu! you can press `F8` or click the `Show Chat` button on 
 | **White** | You |
 | **Pale** | Non-supporters |
 | **Yellow** | [osu!supporter](/wiki/osu!supporter) |
-| **Red** | [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) or [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team ) member |
+| **Red** | [Global Moderation Team](/wiki/People/Global_Moderation_Team) or [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team ) member |
 | **Green** | Line contains your name or certain keywords that you have added to trigger a [highlight](Highlight). A copy of the message will also appear in a dedicated channel, `#highlight`, which contains all of these lines. |
 | **Blue** | Private Message |
 | **Cyan** | [peppy](https://osu.ppy.sh/users/2), the creator of osu! |

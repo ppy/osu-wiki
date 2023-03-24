@@ -525,7 +525,7 @@ There are two types of links: inline and reference. Inline has two styles.
 The following is an example of both inline styles:
 
 ```markdown
-[Game modifier](/wiki/Game_modifier)
+[Game modifier](/wiki/Gameplay/Game_modifier)
 
 <https://osu.ppy.sh/home>
 ```
@@ -571,8 +571,8 @@ Good examples include the following:
 
 ```markdown
 [Article styling criteria](/wiki/Article_styling_criteria)
-[Developers](/wiki/People/The_Team/Developers)
-[Developers](/wiki/People/The_Team/Developers#game-client-developers)
+[Developers](/wiki/People/Developers)
+[Developers](/wiki/People/Developers#game-client-developers)
 ```
 
 ##### Sub-article links

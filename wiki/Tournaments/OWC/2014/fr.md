@@ -8,7 +8,7 @@ tags:
 
 ![Logo de l'OWC 2014](img/logo.png)
 
-L'**osu! World Cup 2014** (***OWC 2014***) est un tournoi d'osu! par pays organisé par [l'équipe osu!](/wiki/People/The_Team). Il s'agit de la cinquième édition de l'osu! World Cup.
+L'**osu! World Cup 2014** (***OWC 2014***) est un tournoi d'osu! par pays organisé par [l'équipe osu!](/wiki/People/osu!_team). Il s'agit de la cinquième édition de l'osu! World Cup.
 
 ## Calendrier du tournoi
 

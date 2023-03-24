@@ -10,7 +10,7 @@ tags:
 
 ![MWC 7K 2019 logo](img/logo.jpg)
 
-The **osu!mania 7K World Cup 2019** (***MWC 7K 2019***) was a country-based osu!mania 7K tournament hosted by the [osu! team](/wiki/People/The_Team). It was the fifth instalment of the osu!mania 7K World Cup.
+The **osu!mania 7K World Cup 2019** (***MWC 7K 2019***) was a country-based osu!mania 7K tournament hosted by the [osu! team](/wiki/People/osu!_team). It was the fifth instalment of the osu!mania 7K World Cup.
 
 ## Tournament schedule
 
@@ -432,7 +432,7 @@ Sunday, 10 February 2019:
 2. Each mappool consists of a fixed amount of maps each stage (see below) which will all be played under FreeMod conditions. This means that there is a unique FreeMod bracket.
 3. The Group Stage mappool will consist of 10 maps, Round of 16 and Quarterfinals will consist of 12 maps, SemiFinals will consist of 14 maps and the Finals mappool will consist of 16 maps.
 4. Each mappool has one tiebreaker.
-5. Possible mod choices for all maps are [Hidden](/wiki/Game_modifier/Hidden), [FadeIn](/wiki/Game_modifier/Fade_In) and [Flashlight](/wiki/Game_modifier/Flashlight).
+5. Possible mod choices for all maps are [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [FadeIn](/wiki/Gameplay/Game_modifier/Fade_In) and [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight).
 6. The tiebreaker will be played under FreeMod conditions.
 
 ### Scheduling instructions
