@@ -42,7 +42,7 @@ osu! 有一个全天候监控着论坛和在线聊天的管理团队，他们致
 
 ## 帮助检查或摸图！
 
-osu! 有专注于检查新提交[谱面](/wiki/Beatmap)是否能够 Rank 并被所有人游玩的团队，[谱面审核成员 (BN)](/wiki/People/The_Team/Beatmap_Nominators)。但这不意味着你不能在这一领域发光发热：
+osu! 有专注于检查新提交[谱面](/wiki/Beatmap)是否能够 Rank 并被所有人游玩的团队，[谱面审核成员 (BN)](/wiki/People/Beatmap_Nominators)。但这不意味着你不能在这一领域发光发热：
 
 - 找一找，或者在 [Pending 谱面列表](https://osu.ppy.sh/beatmapsets?s=pending)当中搜索你喜欢或愿意贡献的歌曲。
 - 玩一玩 [*Pending* 或 *Work-in-progress*](/wiki/Beatmap/Category#制作中和待定-(work-in-progress-and-pending)) 的谱面，并且在讨论页面给出你的反馈。
@@ -69,7 +69,7 @@ osu! 茁壮成长的社区也不乏技术力高超或竞技心火热的人，无
 
 ## 为 osu! 的未来添砖加瓦
 
-从 2017 年开始，[osu! 团队](/wiki/People/The_Team)的主要精力就转移到了 [osu!(lazer)](/wiki/Client/Release_stream/Lazer) 项目和新网站上，就是你现在看到的网站！你可以用很多方式让这些项目变得越来越好，让 osu! 逐渐靠近未来，以下是一部分建议：
+从 2017 年开始，[osu! 团队](/wiki/People/osu!_team)的主要精力就转移到了 [osu!(lazer)](/wiki/Client/Release_stream/Lazer) 项目和新网站上，就是你现在看到的网站！你可以用很多方式让这些项目变得越来越好，让 osu! 逐渐靠近未来，以下是一部分建议：
 
 - 为 [osu!(lazer)](https://github.com/ppy/osu) 项目作出贡献。新版本的 osu! 有很多新东西需要加入，而你可以帮助实现这个目标！
 - 让[网站](https://github.com/ppy/osu-web)越来越好。

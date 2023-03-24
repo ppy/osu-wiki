@@ -2,5 +2,5 @@
 
 **NC** dapat mempunyai beberapa arti:
 
-- [Mod Nightcore](/wiki/Game_modifier/Nightcore)
+- [Mod Nightcore](/wiki/Gameplay/Game_modifier/Nightcore)
 - [Kombo baru](/wiki/Beatmapping/New_combo)

@@ -19,7 +19,7 @@
 
 ## osu!tourney 的背景没有显示！
 
-确保你的背景正确放置在路径 `/osu!/Skins/User/tournament/background.png` 下。*关于皮肤的应用，请参见：[osu!tourney 皮肤教程](/wiki/osu!tourney/Skinning)。*
+确保你的背景正确放置在路径 `/osu!/Skins/User/tournament/background.png` 下。*关于皮肤的应用，请参见：[osu!tourney 皮肤教程](/wiki/osu!_tournament_client/osu!tourney/Skinning)。*
 
 ## 如何使 osu! 再次以普通模式运行？
 
@@ -33,7 +33,7 @@
 
 ## 房间没有出现！
 
-这可能是因为你的多人房间名称不正确或者你在 `tournament.cfg` 填入了错误的缩写。确保你使用了正确的多人房间名称，请遵循：[多人游戏房间管理](/wiki/osu!tourney/Multiplayer_usage)。
+这可能是因为你的多人房间名称不正确或者你在 `tournament.cfg` 填入了错误的缩写。确保你使用了正确的多人房间名称，请遵循：[多人游戏房间管理](/wiki/osu!_tournament_client/osu!tourney/Multiplayer_usage)。
 
 ## 队伍名称没有出现！
 
@@ -43,7 +43,7 @@
 
 要开始直播，我们推荐使用 [Open Broadcaster Software(OBS)](https://obsproject.com/)，但你也可以使用你喜欢的直播软件。
 
-osu!tourney 顶部的分辨率可以在 `tournament.cfg` 中修改，默认是 `1280x720`，请确保你的显示器分辨率大于此值。*关于如何更改分辨率的信息，请参见：[设置](/wiki/osu!tourney/Setup)。*
+osu!tourney 顶部的分辨率可以在 `tournament.cfg` 中修改，默认是 `1280x720`，请确保你的显示器分辨率大于此值。*关于如何更改分辨率的信息，请参见：[设置](/wiki/osu!_tournament_client/osu!tourney/Setup)。*
 
 不要忘记裁剪移除黑色控制面板！
 

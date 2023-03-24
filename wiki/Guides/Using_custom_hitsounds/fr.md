@@ -39,7 +39,7 @@ Où `<sampleset>` est soit "normal", "soft" ou "drum", et `<sound>` est un des a
 
 ![](img/beatmap-folder-resources.png "Un dossier typique d'une beatmap contenant des hitsounds personnalisés")
 
-Dans l'image ci-dessus, le premier son listé est nommé `soft-hitclap.wav`, et remplacera le hitsound par défaut qui joue lorsqu'un [objet](/wiki/Hit_object) avec le jeu d'échantillon Soft et l'ajout "hitclap" est frappée avec succès. Notez que cela ne sera joué que sur le *jeu d'échantillon sélectionné*. Si votre beatmap utilise d'autres jeu d'échantillons, ils nécessiteront des fichiers hitsound supplémentaires (même si vous avez l'intention d'utiliser exactement le même échantillon sonore), par exemple en ajoutant un `normal-hitclap.wav` tout en utilisant le jeu d'échantillon Normal.
+Dans l'image ci-dessus, le premier son listé est nommé `soft-hitclap.wav`, et remplacera le hitsound par défaut qui joue lorsqu'un [objet](/wiki/Gameplay/Hit_object) avec le jeu d'échantillon Soft et l'ajout "hitclap" est frappée avec succès. Notez que cela ne sera joué que sur le *jeu d'échantillon sélectionné*. Si votre beatmap utilise d'autres jeu d'échantillons, ils nécessiteront des fichiers hitsound supplémentaires (même si vous avez l'intention d'utiliser exactement le même échantillon sonore), par exemple en ajoutant un `normal-hitclap.wav` tout en utilisant le jeu d'échantillon Normal.
 
 ## Appliquer des hitsounds
 

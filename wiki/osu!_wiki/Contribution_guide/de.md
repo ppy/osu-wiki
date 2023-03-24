@@ -2,7 +2,7 @@
 
 Danke für dein Interesse, das osu!-Wiki besser zu machen! Dieser Artikel beschäftigt sich Schritt für Schritt mit dem Beteiligungsprozess. Solltest du mit GitHub vertraut sein, folge gerne dem üblichen Feature-Branch-Workflow, um Änderungen vorzuschlagen und springe zum Abschnitt [Selbstüberprüfung](#selbstüberprüfung).
 
-Von neuen Mitwirkenden wird nicht erwartet, dass sie sich mit GitHub oder [git](https://git-scm.com/) auskennen, da diese Werkzeuge hauptsächlich für Entwickler gedacht sind. Mache dir keine Sorgen, wenn du es beim ersten Mal nicht hinbekommst — ein [Wiki-Betreuer](/wiki/osu!_wiki/Maintenance/List_of_maintainers) wird dich entweder in die richtige Richtung weisen oder es für dich beheben.
+Von neuen Mitwirkenden wird nicht erwartet, dass sie sich mit GitHub oder [git](https://git-scm.com/) auskennen, da diese Werkzeuge hauptsächlich für Entwickler gedacht sind. Mache dir keine Sorgen, wenn du es beim ersten Mal nicht hinbekommst — ein [Wiki-Betreuer](/wiki/People/osu!_wiki_maintainers) wird dich entweder in die richtige Richtung weisen oder es für dich beheben.
 
 Falls du irgendwann Tipps oder Hilfe benötigst, zögere nicht, im Kanal `#osu-wiki` des [osu!dev Discord-Servers](/wiki/Community/osu!dev_Discord_server) zu fragen.
 
@@ -61,6 +61,6 @@ Zusätzlich zu einem manuellen Bewertungsprozess hat das Repository des osu!-Wik
 
 ## Zusammenführung
 
-Deine Änderungen werden irgendwann von einem der [Wiki-Verantwortlichen](/wiki/osu!_wiki/Maintenance/List_of_maintainers) überprüft, normalerweise nach Bewertungen von anderen Mitwirkenden. Sollte nach einer angemessenen Zeitspanne nichts passiert sein, frage in den Kommentaren der Änderungsanfrage oder im Kanal `#osu-wiki` des [osu!dev Discord-Servers](/wiki/Community/osu!dev_Discord_server) nach. Deine Änderungen werden im osu!-Wiki kurz nach der Zusammenführung (Merge) erscheinen (in seltenen Fällen kann dies bis zu fünf Stunden dauern).
+Deine Änderungen werden irgendwann von einem der [Wiki-Verantwortlichen](/wiki/People/osu!_wiki_maintainers) überprüft, normalerweise nach Bewertungen von anderen Mitwirkenden. Sollte nach einer angemessenen Zeitspanne nichts passiert sein, frage in den Kommentaren der Änderungsanfrage oder im Kanal `#osu-wiki` des [osu!dev Discord-Servers](/wiki/Community/osu!dev_Discord_server) nach. Deine Änderungen werden im osu!-Wiki kurz nach der Zusammenführung (Merge) erscheinen (in seltenen Fällen kann dies bis zu fünf Stunden dauern).
 
 [osu_wiki]: https://github.com/ppy/osu-wiki

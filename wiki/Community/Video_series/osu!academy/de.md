@@ -2,7 +2,7 @@
 
 ![](img/logo.png "Logo von osu!academy")
 
-Die **osu!academy** ist eine englische Videoreihe, die vom [osu!-Team](/wiki/People/The_Team) betrieben wird und das Ziel hat, allen möglichen Aspekten in osu! einen umfassenden Einblick zu geben, vom Spielen bis zum Mapping und allem dazwischen.
+Die **osu!academy** ist eine englische Videoreihe, die vom [osu!-Team](/wiki/People/osu!_team) betrieben wird und das Ziel hat, allen möglichen Aspekten in osu! einen umfassenden Einblick zu geben, vom Spielen bis zum Mapping und allem dazwischen.
 
 Im Laufe der Jahre wurde osu!academy von mehreren Mitgliedern der Community ausgerichtet, wobei [ztrot](https://osu.ppy.sh/users/6347) der prominenteste war, der die Reihe über viele Jahre hinweg weiterentwickelt hat und die Leitfigur des Projekts ist.
 

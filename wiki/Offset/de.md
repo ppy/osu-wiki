@@ -1,6 +1,6 @@
 # Offset
 
-Ein **Offset** ist eine Einstellung, die verschiedene Elemente einer [Beatmap](/wiki/Beatmap) zeitlich verschiebt und ausrichtet, wie beispielsweise die Audiospur, die [Hitsounds](/wiki/Hitsound), die [Hit-Objekte](/wiki/Gameplay/Hit_object) oder das Hintergrundvideo. Es gibt unterschiedliche Arten von Offsets im Spiel, die sich auf verschiedene Elemente auswirken.
+Ein **Offset** ist eine Einstellung, die verschiedene Elemente einer [Beatmap](/wiki/Beatmap) zeitlich verschiebt und ausrichtet, wie beispielsweise die Audiospur, die [Hitsounds](/wiki/Beatmapping/Hitsound), die [Hit-Objekte](/wiki/Gameplay/Hit_object) oder das Hintergrundvideo. Es gibt unterschiedliche Arten von Offsets im Spiel, die sich auf verschiedene Elemente auswirken.
 
 Je nach Offset wird dieser entweder vom Ersteller der Beatmap eingestellt, vom Spieler individuell angepasst oder von einem der Administratoren der Website konfiguriert. Die meisten Offsets werden pro Beatmap angewandt, mit Ausnahme des [universalen Offsets](#gameplay).
 
@@ -8,9 +8,9 @@ Je nach Offset wird dieser entweder vom Ersteller der Beatmap eingestellt, vom S
 
 ### Gameplay
 
-- [Lokaler Versatz](/wiki/Glossary/Local_song_offset), eine Einstellung, die die Audiospur einer Beatmap relativ zu allen Spielelementen verschiebt.
-- [Online-Versatz](/wiki/Beatmap/Online_offset), ein Wechsel im Timing, der vom [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) eingestellt wird, um [gerankte](/wiki/Beatmap/Category#ranked) Beatmaps mit inkorrektem Versatz zu korrigieren.
-- [Universaler Versatz](/wiki/Client/Options/Universal_offset), eine Einstellung, die das Timing aller Beatmaps global beeinflusst, indem die Audiospur relativ zu allen anderen Spielelementen verschoben wird.
+- [Lokaler Versatz](/wiki/Offset/Local_offset), eine Einstellung, die die Audiospur einer Beatmap relativ zu allen Spielelementen verschiebt.
+- [Online-Versatz](/wiki/Offset/Online_offset), ein Wechsel im Timing, der vom [NAT](/wiki/People/Nomination_Assessment_Team) eingestellt wird, um [gerankte](/wiki/Beatmap/Category#ranked) Beatmaps mit inkorrektem Versatz zu korrigieren.
+- [Universaler Versatz](/wiki/Offset/Universal_offset), eine Einstellung, die das Timing aller Beatmaps global beeinflusst, indem die Audiospur relativ zu allen anderen Spielelementen verschoben wird.
 
 ### Mapping
 
@@ -22,6 +22,6 @@ Je nach Offset wird dieser entweder vom Ersteller der Beatmap eingestellt, vom S
 
 *Anmerkung: Die Einleitung des Audios und Video-Offsets können nur durch die [Editierung der Beatmapdatei](/wiki/Client/File_formats/Osu_(file_format)) eingestellt werden.*
 
-- Countdown-Versatz, eine Einstellung, die das Erscheinen des [Countdowns](/wiki/Beatmapping/Countdown) vor dem ersten Hit-Objekt verändert. Dies wird in [Takten](/wiki/Music_theory/Beat) gemessen.
-- Audio-Versatz oder [Einleitung des Audios](/wiki/Beatmapping/Lead-in), eine zusätzliche Verzögerung, bevor die Beatmap beginnt.
+- Countdown-Versatz, eine Einstellung, die das Erscheinen des [Countdowns](/wiki/Beatmap/Countdown) vor dem ersten Hit-Objekt verändert. Dies wird in [Takten](/wiki/Music_theory/Beat) gemessen.
+- Audio-Versatz oder [Einleitung des Audios](/wiki/Beatmap/Lead-in_time), eine zusätzliche Verzögerung, bevor die Beatmap beginnt.
 - Video-Versatz, eine Einstellung, die anzeigt, wann ein Hintergrundvideo relativ zur Audiospur laufen sollte.

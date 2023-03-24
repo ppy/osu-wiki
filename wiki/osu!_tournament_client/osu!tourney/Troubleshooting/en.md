@@ -26,7 +26,7 @@ Use a fresh osu! installation.
 ## The background of the osu!tourney is not shown!
 
 Make sure your background file is properly located at `/osu!/Skins/User/tournament/background.png`.
-See the [skinning guide](/wiki/osu!tourney/Skinning) for more details.
+See the [skinning guide](/wiki/osu!_tournament_client/osu!tourney/Skinning) for more details.
 
 ## How do I make osu! run as a normal client again?
 
@@ -40,7 +40,7 @@ If the client is still not spectating, click the `Panic` button.
 ## The rooms are not showing up!
 
 It is possible that your room is named incorrectly or you used the wrong acronym in the `tournament.cfg` file.
-Make sure that the room is named correctly by following the [multiplayer usage guide](/wiki/osu!tourney/Multiplayer_usage) closely.
+Make sure that the room is named correctly by following the [multiplayer usage guide](/wiki/osu!_tournament_client/osu!tourney/Multiplayer_usage) closely.
 
 ## The team names are not showing!
 
@@ -50,7 +50,7 @@ See previous answer.
 
 We recommend using [Open Broadcaster Software](https://obsproject.com/), but any other streaming program that can capture the screen may also be used.
 
-The resolution of the top part of osu!tourney can be customised in the `tournament.cfg` file but by default it is `1280x720`. Make sure that the resolution of your monitor is larger than this value. See the [setup guide](/wiki/osu!tourney/Setup) for information on how to change the resolution.
+The resolution of the top part of osu!tourney can be customised in the `tournament.cfg` file but by default it is `1280x720`. Make sure that the resolution of your monitor is larger than this value. See the [setup guide](/wiki/osu!_tournament_client/osu!tourney/Setup) for information on how to change the resolution.
 
 Don't forget to adjust the cropping to remove the black control panel from the stream!
 

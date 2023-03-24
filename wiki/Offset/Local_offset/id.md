@@ -7,7 +7,7 @@ outdated_since: 0529dd5b3a87b4708c0f80355fa3610c34629973
 
 *Untuk penggunaan lainnya, lihat [Offset](/wiki/Offset).*
 
-**Offset lokal** adalah offset yang memindahkan tampilan [hit object](/wiki/Hit_object) dalam kaitannya dengan audio individu dari sebuah [beatmap](/wiki/Beatmap). Ini dapat membantu pemain yang mengalami penundaan pendengaran maupun visual. Offset lokal bekerja bersama offset global untuk menghitung [offset total](/wiki/Client/Options/Universal_offset).
+**Offset lokal** adalah offset yang memindahkan tampilan [hit object](/wiki/Gameplay/Hit_object) dalam kaitannya dengan audio individu dari sebuah [beatmap](/wiki/Beatmap). Ini dapat membantu pemain yang mengalami penundaan pendengaran maupun visual. Offset lokal bekerja bersama offset global untuk menghitung [offset total](/wiki/Offset/Universal_offset).
 
 Di awal permainan, Offset lokal dapat diubah dengan menekan:
 
