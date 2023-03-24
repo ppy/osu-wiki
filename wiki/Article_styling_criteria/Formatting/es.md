@@ -1,8 +1,3 @@
----
-outdated_since: bde05ed46e23ad1261d8e3560887232249266aa7
-outdated_translation: true
----
-
 # Formato
 
 *Para los estándares de escritura, véase: [Criterios de estilo para artículos/Redacción](../Writing)*\
@@ -364,18 +359,16 @@ Los encabezamientos de sección no deben saltarse un nivel de encabezamiento (es
 Es posible redefinir el identificador de una sección, que se utiliza para enlazar directamente con ella. Los identificadores personalizados deben utilizarse en caso de que los generados automáticamente sean demasiado largos o contengan signos de puntuación complicados o imágenes:
 
 ```markdown
-## Ya ha pasado el tiempo de espera. ¿Cómo puedo apelar? {#apelación}
+## Ya ha pasado el tiempo de espera. ¿Cómo puedo apelar? {id=apelación}
 
-## Motivos comunes de restricción y tiempos de espera {#razones-comunes}
-
-## Ideas para una partida multijugador {id=идеи-для-мультиплеера} <!-- sintaxis alternativa para identificadores Unicode -->
+## Motivos comunes de restricción y tiempos de espera {id=razones-comunes}
 ```
 
 Esta función también puede utilizarse para etiquetar una parte específica del artículo que no tiene encabezamiento. Utilícela con moderación:
 
 ```markdown
 > Eso es todo! ¡Estás en camino de convertirte en un campeón del ritmo!
-{#frase-del-tutorial}
+{id=frase-del-tutorial}
 ```
 
 ## Listas

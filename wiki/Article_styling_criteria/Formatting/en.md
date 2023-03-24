@@ -358,9 +358,8 @@ Section headings must not skip a heading level (i.e. do not go from a level 2 he
 It is possible to redefine a section's identifier, which is used for linking to it directly. Custom identifiers should be used in case the automatically generated ones are too long or contain tricky punctuation marks or images:
 
 ```markdown
-## My cooldown has passed. How do I appeal? {#appeal}
+## My cooldown has passed. How do I appeal? {id=appeal}
 
-<!-- Alternative form, in case the identifier contains anything except letters, numbers, underscores, and dashes -->
 ## Various examples of osu! gameplay {id=osu!-gameplay}
 ```
 
@@ -368,8 +367,7 @@ This feature can also be used for tagging a specific part of the article which d
 
 ```markdown
 > That's it! You're well on your way to becoming an osu! rhythm champion!
-
-::{#tutorial-quote}::
+{id=tutorial-quote}
 ```
 
 ## Lists
