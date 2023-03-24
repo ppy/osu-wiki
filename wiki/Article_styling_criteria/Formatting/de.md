@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_since: bde05ed46e23ad1261d8e3560887232249266aa7
+outdated_translation: true
 ---
 
 # Formatierung
