@@ -49,7 +49,7 @@ The storyboarding phase schedule will be revealed after the beatmapping phase en
 | dönerbuden bande | ::{ flag=DE }:: [Slifer](https://osu.ppy.sh/users/15084122), ::{ flag=DE }:: [PaRaDogi](https://osu.ppy.sh/users/2054596) | *TBD* |
 | Double Trouble | ::{ flag=DZ }:: [IssaFR](https://osu.ppy.sh/users/23234320), ::{ flag=DE }:: [SiriusOnly](https://osu.ppy.sh/users/22287370) | *TBD* |
 | Eye of Aeon | ::{ flag=UA }:: [allein](https://osu.ppy.sh/users/6221637), ::{ flag=RU }:: [Mirash](https://osu.ppy.sh/users/2841009) | *TBD* |
-| FUMO 20 GRAMMI IN 10 SEC CAR  | ::{ flag=IT }:: [Shiraya Sayuki](https://osu.ppy.sh/users/19077461), ::{ flag=KR }:: [Kaguya_Sama](https://osu.ppy.sh/users/9326064) | *TBD* |
+| FUMO 20 GRAMMI IN 10 SEC CAR | ::{ flag=IT }:: [Shiraya Sayuki](https://osu.ppy.sh/users/19077461), ::{ flag=KR }:: [Kaguya_Sama](https://osu.ppy.sh/users/9326064) | *TBD* |
 | Harvard Dropouts™ | ::{ flag=BE }:: [Sylas](https://osu.ppy.sh/users/3906405), ::{ flag=US }:: [Mimari](https://osu.ppy.sh/users/14339830) | *TBD* |
 | Imperishable Night | ::{ flag=KR }:: [Down](https://osu.ppy.sh/users/4694602), ::{ flag=KR }:: [Dailycare](https://osu.ppy.sh/users/1634445) | *TBD* |
 | Nightcord at Various Times | ::{ flag=US }:: [Local Hero](https://osu.ppy.sh/users/16134122), ::{ flag=IT }:: [Kuroise](https://osu.ppy.sh/users/14547127) | *TBD* |
