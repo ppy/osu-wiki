@@ -126,8 +126,7 @@ Due to the large number of players, the match results will be displayed in the [
 
 ### Win conditions
 
-1. In the Regular stage, players need to rank high enough to get points.
-   - The points that can be earned for the player's ranking in each round are as follows:
+1. In the Regular stage, players need to rank high enough to get points. The points that can be earned are determined by the average rank for all individual beatmaps:
 
 | Placement | Points |
 | :-: | --: |
@@ -146,9 +145,7 @@ Due to the large number of players, the match results will be displayed in the [
 | Top 90% | 4 |
 | Top 100% | 2 |
 
-   - Decimal rank values are rounded up.
-   - The ranking of each round is calculated by summing the rankings of all individual beatmaps.
-2. In the playoff stage, players need to win a specific number of beatmaps to win, depending on the actual situation.
+2. In the playoff stage, players need to win a specific number of beatmaps to win, depending on the situation.
 
 ### Match procedures
 
