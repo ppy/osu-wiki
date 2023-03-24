@@ -6,7 +6,7 @@ outdated_since: 203a715b0188784607756ebee4cd0a3daa7ddf3d
 
 # 禁言
 
-**禁言**是一种剥夺用户与osu!社区互动权利的惩罚。[Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team)，[Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team)有权对违反了[规章制度](/wiki/Rules)的用户进行禁言。
+**禁言**是一种剥夺用户与osu!社区互动权利的惩罚。[Global Moderation Team](/wiki/People/Global_Moderation_Team)，[Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team)有权对违反了[规章制度](/wiki/Rules)的用户进行禁言。
 
 ## 限制
 
@@ -34,7 +34,7 @@ outdated_since: 203a715b0188784607756ebee4cd0a3daa7ddf3d
 
 ## 对禁言申诉
 
-如果你确信你被误禁言，请通过[accounts@ppy.sh](mailto:accounts@ppy.sh)联系我们的[账号支持团队](/wiki/People/The_Team/Account_support_team#accounts@ppy.sh)来对禁言申诉。请确保使用你的osu!账号所绑定的邮箱来信，并在信中写明你的用户名和被禁言的大概时间点。
+如果你确信你被误禁言，请通过[accounts@ppy.sh](mailto:accounts@ppy.sh)联系我们的[账号支持团队](/wiki/People/Account_support_team#accounts@ppy.sh)来对禁言申诉。请确保使用你的osu!账号所绑定的邮箱来信，并在信中写明你的用户名和被禁言的大概时间点。
 
 ## 被禁言的常见原因
 

@@ -17,7 +17,7 @@ tags:
 
 *У этого термина существуют и другие значения, см. [Комбо (значения)](/wiki/Disambiguation/Combo).*
 
-**Комбо** (англ. *combo*, *comboset*) — группа из [нот](/wiki/Gameplay/Hit_object/Hit_circle) и [слайдеров](/wiki/Gameplay/Hit_object/Slider) в [картах](/wiki/Beatmap) режимов [osu!](/wiki/Game_mode/osu!) и [osu!catch](/wiki/Game_mode/osu!catch). [Игровые объекты](/wiki/Hit_object) в одном комбо имеют одинаковый [цвет](/wiki/Glossary/Combo_colour) и соединены метками, показывающими, где находится следующий объект. Успешное завершение комбо даёт небольшую прибавку к [здоровью](/wiki/Gameplay/Health). Начало каждого комбо вручную помечается в редакторе при создании карты.
+**Комбо** (англ. *combo*, *comboset*) — группа из [нот](/wiki/Gameplay/Hit_object/Hit_circle) и [слайдеров](/wiki/Gameplay/Hit_object/Slider) в [картах](/wiki/Beatmap) режимов [osu!](/wiki/Game_mode/osu!) и [osu!catch](/wiki/Game_mode/osu!catch). [Игровые объекты](/wiki/Gameplay/Hit_object) в одном комбо имеют одинаковый [цвет](/wiki/Beatmapping/Combo_colour) и соединены метками, показывающими, где находится следующий объект. Успешное завершение комбо даёт небольшую прибавку к [здоровью](/wiki/Gameplay/Health). Начало каждого комбо вручную помечается в редакторе при создании карты.
 
 В [osu!taiko](/wiki/Game_mode/osu!taiko) и [osu!mania](/wiki/Game_mode/osu!mania) комбо нет в принципе.
 

@@ -5,7 +5,7 @@ outdated_since: 203a715b0188784607756ebee4cd0a3daa7ddf3d
 
 # サイレンス
 
-**サイレンス**はユーザーのコミュニケーション手段を制限することを表す用語です。サイレンスは[Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team)(GMT)と[Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team)(NAT)が行うことができ、[コミュニティルール](/wiki/Rules)に従わないユーザーのみ行われます。
+**サイレンス**はユーザーのコミュニケーション手段を制限することを表す用語です。サイレンスは[Global Moderation Team](/wiki/People/Global_Moderation_Team)(GMT)と[Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team)(NAT)が行うことができ、[コミュニティルール](/wiki/Rules)に従わないユーザーのみ行われます。
 
 ## 制限の内容
 
@@ -33,7 +33,7 @@ outdated_since: 203a715b0188784607756ebee4cd0a3daa7ddf3d
 
 ## サイレンスの異議申し立て
 
-もしあなたが不当にサイレンスを受けたと思うのであれば、異議申し立てを[アカウントサポートチーム](/wiki/People/The_Team/Account_support_team#accounts@ppy.sh)の[accounts@ppy.sh](mailto:accounts@ppy.sh)まで連絡してください。その際、あなたのosu!アカウントに紐づくメールアドレスから、ユーザー名とサイレンスを受けた大体の時間を明記してください。
+もしあなたが不当にサイレンスを受けたと思うのであれば、異議申し立てを[アカウントサポートチーム](/wiki/People/Account_support_team#accounts@ppy.sh)の[accounts@ppy.sh](mailto:accounts@ppy.sh)まで連絡してください。その際、あなたのosu!アカウントに紐づくメールアドレスから、ユーザー名とサイレンスを受けた大体の時間を明記してください。
 
 ## サイレンスの一般的な理由
 

@@ -1,7 +1,5 @@
 ---
 stub: true
-outdated_translation: true
-outdated_since: 896609cada0adeea7ea6bc83689487af01e722fb
 ---
 
 # Updatequelle
@@ -13,4 +11,4 @@ osu! hat einige **Updatequellen** (auch als Version des Spiel-Clients bezeichnet
 | Stable | Aktuelle und populärste Version; [Code-Freeze](https://de.wikipedia.org/wiki/Code-Freeze); erhält Updates nach Beta |
 | Beta | Erhält Updates nach Cutting Edge; Code-Freeze |
 | Cutting Edge | Erhält die neuesten Updates; Code-Freeze |
-| [Lazer](Lazer) | Neugeschriebener Spiel-Client; am aktivsten in der Entwicklung |
+| [Lazer](Lazer) | Neugeschriebener Spiel-Client; am aktivsten in der Entwicklung mit [vielen Unterschieden und neuen Funktionen](/wiki/Client/Release_stream/Lazer/Feature_comparison). |

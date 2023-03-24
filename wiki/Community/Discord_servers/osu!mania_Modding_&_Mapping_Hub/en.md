@@ -21,7 +21,7 @@ The server mainly consists of:
 - Channels to request mods, guest difficulties, nominations, or other mapping related requests.
 - Channels where users can ask any mapping related questions, fit with experienced mappers to answer said questions.
 - A place to share modding queues in order to gain more experience.
-- A centralized place to find the status of [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators).
+- A centralized place to find the status of [Beatmap Nominators](/wiki/People/Beatmap_Nominators).
 - A list of useful references such as tools, RC proposals and other Discord servers.
 
 ## Staff

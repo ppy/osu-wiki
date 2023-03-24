@@ -26,7 +26,7 @@ Le 31 mars 2015, les [osu!coins](/wiki/History_of_osu!/April_Fools#osu!coins) on
 
 Le canal `#balkan` a été réintroduite dans le jeu suite à une [demande de fonctionnalité](https://osu.ppy.sh/community/forums/topics/152009&start=0) le 2 avril 2015.[^balkan-channel][^osu-weekly-4]
 
-Le mod [Co-op](/wiki/Game_modifier/Co-op) est devenu un mod non classable le 6 avril 2015.[^osu-weekly-5]
+Le mod [Co-op](/wiki/Gameplay/Game_modifier/Co-op) est devenu un mod non classable le 6 avril 2015.[^osu-weekly-5]
 
 Le mod 9K a été rendu classable après avoir reçu un support d'utilisation approprié dans l'éditeur le 30 avril 2015.[^osu-weekly-8]
 
@@ -48,11 +48,11 @@ L'osu!keyboard (également connu sous le nom de "osu! 'nono' keyboard") a été 
 
 La mise en œuvre du système de changement de nom d'utilisateur dans l'osu!store a été mise en ligne le 16 juin 2015, bien que la fonctionnalité complète du système n'ait pas été disponible avant le 18 juin 2015. Les changements ont fait en sorte que les joueurs devaient payer 4 dollars américains pour leur premier changement de nom, après quoi le prix doublerait à chaque achat successif avec un plafond à 100 dollars américains ; cependant, si un utilisateur achetait un tag [osu!supporter](https://osu.ppy.sh/home/support), alors son premier changement serait gratuit.[^ppy-blog-june-04][^ppy-blog-june-16][^ppy-blog-june-17][^ppy-blog-june-18]
 
-La possibilité de voir à quoi ressemblerait un replay sans [mods](/wiki/Game_modifier) a été ajoutée le 23 juin 2015 suite à une [demande de fonctionnalité](https://osu.ppy.sh/community/forums/topics/97560), bien que le changement n'ait rendu les mods [Double Time](/wiki/Game_modifier/Double_Time), [Half Time](/wiki/Game_modifier/Half_Time) et [Flashlight](/wiki/Game_modifier/Flashlight) modifiables.[^ppy-blog-june-23]
+La possibilité de voir à quoi ressemblerait un replay sans [mods](/wiki/Gameplay/Game_modifier) a été ajoutée le 23 juin 2015 suite à une [demande de fonctionnalité](https://osu.ppy.sh/community/forums/topics/97560), bien que le changement n'ait rendu les mods [Double Time](/wiki/Gameplay/Game_modifier/Double_Time), [Half Time](/wiki/Gameplay/Game_modifier/Half_Time) et [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight) modifiables.[^ppy-blog-june-23]
 
 ## Juillet
 
-Le 15 juillet 2015, il a été annoncé qu'une nouvelle équipe publique [Slack](https://slack.com/) a été créée dans le but de mieux communiquer avec les contributeurs publics. [peppy](https://osu.ppy.sh/users/2) avait initialement fait l'annonce sur son blog et avait expliqué que toute personne désireuse d'aider à tester des fonctionnalités futures, de contribuer à des ressources graphiques/sonores ou d'obtenir de l'aide pour travailler avec les services d'osu! pouvait venir rejoindre l'équipe et parler directement aux personnes des différentes [équipes d'osu!](/wiki/People/The_Team).[^ppy-blog-july-15]
+Le 15 juillet 2015, il a été annoncé qu'une nouvelle équipe publique [Slack](https://slack.com/) a été créée dans le but de mieux communiquer avec les contributeurs publics. [peppy](https://osu.ppy.sh/users/2) avait initialement fait l'annonce sur son blog et avait expliqué que toute personne désireuse d'aider à tester des fonctionnalités futures, de contribuer à des ressources graphiques/sonores ou d'obtenir de l'aide pour travailler avec les services d'osu! pouvait venir rejoindre l'équipe et parler directement aux personnes des différentes [équipes d'osu!](/wiki/People/osu!_team).[^ppy-blog-july-15]
 
 *Note : Il y avait toujours une équipe Slack privée que l'équipe d'osu! utilisait pour les communications internes, qui n'était pas accessible ou visualisable par les utilisateurs extérieurs ; ces deux équipes étaient indépendantes l'une de l'autre.*
 
@@ -74,7 +74,7 @@ Le 26 septembre 2015, [cYsmix](http://cysmix.com/) est devenu l'un des premiers 
 
 ![](img/cysmix-album-cover-1.jpg "La couverture de l'album de cYsmix, la première publication de musiques officielles d'osu!")
 
-Chaque morceau avait son propre fichier [`.osz`](/wiki/osu!_File_Formats/Osz_(file_format)) pré-timé inclus avec lui et ont été publiés sur [cYsmix's SoundCloud](https://soundcloud.com/olemlanglie) le 28 septembre 2015.
+Chaque morceau avait son propre fichier [`.osz`](/wiki/Client/File_formats/Osz_(file_format)) pré-timé inclus avec lui et ont été publiés sur [cYsmix's SoundCloud](https://soundcloud.com/olemlanglie) le 28 septembre 2015.
 
 En plus de cela, un "open bounty" nommé "Mapping With Rewards" a été créé pour cet événement, qui permettait à quiconque de mapper l'une des musiques mentionnés ci-dessus, de la faire classée, et si c'était assez impressionnant, cette personne recevrait un bounty pour cela. La récompense offerte à l'époque était la suivante : une musique avec le client (pour une période limitée), 50 $ de crédit osu!store, 6 mois de tag supporter et un badge de profil unique. Ce bounty ouvert a été créé pour récompenser les joueurs pour la qualité de leurs beatmaps et pour célébrer les nouvelles musiques sans avoir à subir les inconvénients des concours de mapping traditionnels.[^ppy-blog-sep-mwr]
 

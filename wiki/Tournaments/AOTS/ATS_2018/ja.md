@@ -461,7 +461,7 @@ ATS 2018は様々なosu!taikoコミュニティﾒﾝﾊﾞｰにより運営し
 ### ビートマッププールに関して
 
 1. グループステージ、1回戦、2回戦、準々決勝、準決勝、決勝ではそれぞれのmappoolがあります。
-2. それぞれのビートマッププールは６つのブラケットから成り立ちます：NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time), Special,そして FreeModです。
+2. それぞれのビートマッププールは６つのブラケットから成り立ちます：NoMod, [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time), Special,そして FreeModです。
 3. それぞれのビートマッププールには合計16のビートマップがあります。
 4. それぞれのビートマッププールには１つのtiebreakerのビートマップがあります。
 5. NoModブラケットは no modeでプレイされます。

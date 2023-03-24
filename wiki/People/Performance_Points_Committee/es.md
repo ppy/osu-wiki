@@ -6,7 +6,7 @@ tags:
 
 # Comité de puntos de rendimiento
 
-El **comité de puntos de rendimiento** es un panel de jugadores y desarrolladores expertos que facilitan y aprueban las actualizaciones de los [puntos de rendimiento](/wiki/Performance_points) y algoritmos de [clasificación por estrellas](/wiki/Beatmapping/Star_rating). Su objetivo es ayudar a los [desarrolladores de osu!](/wiki/People/The_Team/Developers) a impulsar los cambios más rápido y con más coordinación comunitaria.
+El **comité de puntos de rendimiento** es un panel de jugadores y desarrolladores expertos que facilitan y aprueban las actualizaciones de los [puntos de rendimiento](/wiki/Performance_points) y algoritmos de [clasificación por estrellas](/wiki/Beatmap/Star_rating). Su objetivo es ayudar a los [desarrolladores de osu!](/wiki/People/Developers) a impulsar los cambios más rápido y con más coordinación comunitaria.
 
 El panel de osu! se anunció por primera vez al público a través de la [publicación de noticias *Performance Points & Star Rating Updates* de noviembre de 2021](https://osu.ppy.sh/home/news/2021-11-09-performance-points-star-rating-updates) en respuesta a una [encuesta comunitaria](https://osu.ppy.sh/home/news/2021-08-17-pp-sr-survey) realizada a principios de ese año.
 
