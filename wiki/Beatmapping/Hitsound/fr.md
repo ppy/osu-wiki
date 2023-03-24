@@ -15,13 +15,13 @@ tags:
 
 *Voir aussi : [Ajouter des hitsounds personnalisés](/wiki/Guides/Using_custom_hitsounds)*.
 
-Les **hitsounds** sont les sons qu'osu! joue en réponse aux frappes de l'utilisateur lorsqu'il interagit avec les [objets](/wiki/Hit_object). Les hitsounds sont généralement utilisés pour donner un retour auditif au joueur afin de l'aider à évaluer sa [précision](/wiki/Gameplay/Accuracy) par rapport à la beatmap.
+Les **hitsounds** sont les sons qu'osu! joue en réponse aux frappes de l'utilisateur lorsqu'il interagit avec les [objets](/wiki/Gameplay/Hit_object). Les hitsounds sont généralement utilisés pour donner un retour auditif au joueur afin de l'aider à évaluer sa [précision](/wiki/Gameplay/Accuracy) par rapport à la beatmap.
 
 Le feedback hitsound se compose d'un échantillon par défaut appelé *hitnormal*, et de n'importe quelle combinaison *additions* d'échantillons de whistle, de finish ou de clap. Chaque échantillon fait partie d'un des trois *ensembles d'échantillons* qui dénotent des styles différents : `Normal`, `Soft`, ou `Drum`.
 
 Les mappeurs peuvent remplacer tous les échantillons sonores par défaut par des échantillons personnalisés en utilisant le dossier d'une [beatmap](/wiki/Beatmap). Le [skin](/wiki/Skinning) d'un joueur peut également remplacer les hitsounds par défaut sur toutes les beatmaps. Vous trouverez des détails sur les échantillons des hitsounds dans l'article [hitsound skinning](/wiki/Skinning/Sounds#hitsounds).
 
-Les [spinners](/wiki/Hit_object/Spinner) et les [sliders](/wiki/Hit_object/Slider) ont des hitsounds supplémentaires : `spinner`, `bonus spinner`, `slider slide` et `slider tick`.
+Les [spinners](/wiki/Gameplay/Hit_object/Spinner) et les [sliders](/wiki/Gameplay/Hit_object/Slider) ont des hitsounds supplémentaires : `spinner`, `bonus spinner`, `slider slide` et `slider tick`.
 
 ## Hitsound actif
 

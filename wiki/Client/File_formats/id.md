@@ -4,11 +4,11 @@
 
 | Format berkas | Tipe MIME | Penggunaan |
 | :-- | :-- | :-- |
-| [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) | `x-osu-beatmap-archive` | Arsip beatmap osu! |
-| [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) | `x-osu-skin-archive` | Arsip skin osu! |
-| [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) | `x-osu-beatmap` | [Tingkat kesulitan](/wiki/Beatmap/Difficulty) osu! |
-| [.osb](/wiki/osu!_File_Formats/Osb_(file_format)) | `x-osu-storyboard` | [Storyboard](/wiki/Storyboard/Scripting) osu! |
-| [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) | `x-osu-replay` | [Tayangan ulang](/wiki/Gameplay/Replay) osu! |
+| [.osz](/wiki/Client/File_formats/Osz_(file_format)) | `x-osu-beatmap-archive` | Arsip beatmap osu! |
+| [.osk](/wiki/Client/File_formats/Osk_(file_format)) | `x-osu-skin-archive` | Arsip skin osu! |
+| [.osu](/wiki/Client/File_formats/Osu_(file_format)) | `x-osu-beatmap` | [Tingkat kesulitan](/wiki/Beatmap/Difficulty) osu! |
+| [.osb](/wiki/Client/File_formats/Osb_(file_format)) | `x-osu-storyboard` | [Storyboard](/wiki/Storyboard/Scripting) osu! |
+| [.osr](/wiki/Client/File_formats/Osr_(file_format)) | `x-osu-replay` | [Tayangan ulang](/wiki/Gameplay/Replay) osu! |
 
 ## Membuat berkas .osz dan .osk
 
@@ -21,7 +21,7 @@ Agar hasil karyamu dapat disebarluaskan kepada pengguna lain, penting bagimu unt
 
 ### Menggunakan aplikasi pengarsip
 
-1. Instal aplikasi pengarsip berkas yang dapat menghasilkan berkas `.zip`, seperti [7-Zip](https://www.7-zip.org) atau [WinRAR](https://www.win-rar.com).
+1. Instal aplikasi pengarsip berkas yang dapat menghasilkan berkas `.zip`, seperti [7-Zip](https://www.7-zip.org/) atau [WinRAR](https://www.rarlab.com/).
 2. Letakkan seluruh berkas yang ingin kamu arsipkan ke dalam satu folder terpisah.
 3. Klik kanan folder tersebut dan pilih `Add to archive...` (atau lakukan hal yang sama dari aplikasi pengarsip yang kamu gunakan secara langsung).
 4. Pilih format arsip ZIP.

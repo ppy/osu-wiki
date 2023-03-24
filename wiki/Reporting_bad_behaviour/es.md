@@ -1,6 +1,6 @@
 # Reportar mal comportamiento
 
-osu! tiene [un equipo de moderadores](/wiki/People/The_Team/Global_Moderation_Team) que se adhieren a mantener el juego y su ecosistema limpios y seguros. Si observa un comportamiento que infringe las reglas o contenido inapropiado, repórtelo utilizando uno de los métodos que se describen a continuación. Alternativamente, puede comunicarse directamente con cualquiera de los moderadores en línea si su reporte no se manejó correctamente dentro de un período de tiempo razonable, hágalo solo como último recurso.
+osu! tiene [un equipo de moderadores](/wiki/People/Global_Moderation_Team) que se adhieren a mantener el juego y su ecosistema limpios y seguros. Si observa un comportamiento que infringe las reglas o contenido inapropiado, repórtelo utilizando uno de los métodos que se describen a continuación. Alternativamente, puede comunicarse directamente con cualquiera de los moderadores en línea si su reporte no se manejó correctamente dentro de un período de tiempo razonable, hágalo solo como último recurso.
 
 Los reportes accidentales se ignoran. Los usuarios que envían deliberadamente reportes no válidos pueden correr el riesgo de ser [silenciados](/wiki/Silence).
 
@@ -10,8 +10,8 @@ Los reportes accidentales se ignoran. Los usuarios que envían deliberadamente r
 | :-- | :-- |
 | Estafas/Phishing en mensajes privados | Enviar un reporte regular |
 | Otros mensajes privados ofensivos/inapropiados | **Ninguno**: [ignorar al usuario](/wiki/Client/Interface/Chat_console#lista-de-comandos) en su lugar. Para un efecto permanente, use la lista de ignorados en el juego ubicada en las [opciones](/wiki/Client/Options) o bloquéelos en el sitio web con el botón ubicado en su perfil de usuario. |
-| Conducta inapropiada de un [BN](/wiki/People/The_Team/Beatmap_Nominators) | [NAT](/wiki/People/The_Team/Nomination_Assessment_Team), a través del sitio web de [gestión del NAT/BN](https://bn.mappersguild.com/reports) |
-| Conducta inapropiada de un miembro del [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) o del [GMT](/wiki/People/The_Team/Global_Moderation_Team) | [Equipo de soporte de cuentas](/wiki/People/The_Team/Account_support_team) en [support@ppy.sh](mailto:support@ppy.sh) |
+| Conducta inapropiada de un [BN](/wiki/People/Beatmap_Nominators) | [NAT](/wiki/People/Nomination_Assessment_Team), a través del sitio web de [gestión del NAT/BN](https://bn.mappersguild.com/reports) |
+| Conducta inapropiada de un miembro del [NAT](/wiki/People/Nomination_Assessment_Team) o del [GMT](/wiki/People/Global_Moderation_Team) | [Equipo de soporte de cuentas](/wiki/People/Account_support_team) en [support@ppy.sh](mailto:support@ppy.sh) |
 | Abuso sexual o mala conducta extrema | Consulte [Reportar abuso](/wiki/Reporting_bad_behaviour/Abuse) |
 
 Para cualquier otra cosa, véase las instrucciones a continuación.

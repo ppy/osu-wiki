@@ -59,7 +59,7 @@ no_native_review: true
 - 测定准确的时间轴很重要！如果谱面的时间轴有问题，作图、打图都将变得极其困难。如果你需要别人帮助你测定，请在[摸图队列论坛](https://osu.ppy.sh/community/forums/60)内的[时间轴帮助讨论串](https://osu.ppy.sh/community/forums/topics/13795)内帖出自己的谱面，或是在 `#modreqs` 频道内发出时间轴检查请求。
 - 你能在 `时间轴设定 (Timing Setup)` 窗口 (`F6`) 内修改滑条速度。点击绿色的加号按钮，并调整左侧的[`滑条速率因数`](/wiki/Gameplay/Hit_object/Slider/Slider_velocity)吧！
 - 可以使用反选工具 (`Ctrl` + `G`) 来交换滑条头尾，或是将选择的一系列物件在时间轴上反转过来。
-- 可以使用[跳](/wiki/Beatmap/Pattern/Jump)这种排列来强调歌曲中比较重要明显的声音！
+- 可以使用[跳](/wiki/Beatmap/Pattern/osu!/Jump)这种排列来强调歌曲中比较重要明显的声音！
 - [间距锁定](/wiki/Client/Beatmap_editor/Distance_snap)工具可用于精确计算控制物件之间的距离。可以按住 `Alt` 键来临时启用或禁用它。
 - 尝试在作图，特别是在确定滑条的可击打[节奏](/wiki/Music_theory/Rhythm)时，去跟歌曲中最重要的声音。
 - 屏幕右上角的[`节拍细分`](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor)选项，展示了物件将会以何种节奏形式来贴合歌曲。对于大多数歌曲，使用默认的  `1/4` 就可以贴合得很好了。
@@ -72,7 +72,7 @@ no_native_review: true
 - 当你的谱面制作完毕，可以求摸，就可以在[谱面提交系统](/wiki/Beatmapping/Beatmap_submission)中上传了！`上传谱面`的按钮能在`文件`选项卡的下拉菜单里找到。
 - 编辑器左上角的音效组和附加音效选项，能为你的物件提供更多的[音效](/wiki/Beatmapping/Hitsound)组合。
 - 如果你想[上架](/wiki/Beatmap_ranking_procedure)自己的谱面，就先阅读 wiki 上的[谱面上架标准 (RC)](/wiki/Ranking_Criteria) 吧！
-- 将滑条转换成[连打](/wiki/Beatmap/Pattern/Stream) (`Ctrl` + `Shift` + `F`) 能够轻松获得一条平滑的连打串。
+- 将滑条转换成[连打](/wiki/Beatmap/Pattern/osu!/Stream) (`Ctrl` + `Shift` + `F`) 能够轻松获得一条平滑的连打串。
 - 如果你在转盘后放了物件，确保它们之间有足够的时间间隔，让玩家能辨认并准确击打后面的物件。
 - 能使用[创建多边形圆圈](/wiki/Client/Beatmap_editor/Menu#special-commands.2)工具 (`Ctrl` + `Shift` + `D`) 来获得几何排布的一组物件。
 - 相互覆盖的物件（滑条头尾，圆圈），将会在游玩时[堆叠](/wiki/Beatmapping/Mapping_techniques/Stack)起来。若想看它们在游玩时的显示效果，在`查看`选项卡的下拉菜单里勾选`堆叠效果`即可。
@@ -84,7 +84,7 @@ no_native_review: true
 - 把哨、镲和拍手音效放在节奏对应的位置上来润色你的谱面！可以在 `时间轴设定 (Timing Setup)` 窗口 (`F6`) 内的音频 (Audio) 标签页下来修改不同段落的音效组。
 - 将光标悬停在时间轴上，并按住 `Alt`，滚动鼠标滚轮或者按 `+`/`-` 按钮来缩放时间轴。
 - 如果你在作图期间调整时间轴，切记要使用[`重新对齐所有物件`](/wiki/Client/Beatmap_editor/Menu#special-commands.3)功能，重新将所有物件对齐在时间轴上。这个功能位于 `测定时间轴 (Timing)` 选项卡的下拉菜单里。注意未对齐的[继承时间点（绿线）](/wiki/Client/Beatmap_editor/Timing#继承时间点（绿线）)——它们不受这个功能影响！
-- 任何[待定 (Pending)](/wiki/Beatmap/Category#work-in-progress-和-pending) 状态的谱面，30 天之内不更新，都会被[扔进坟场](/wiki/Beatmap/Category#graveyard)。坟图能在你的用户页内复活到待定状态。
+- 任何[待定 (Pending)](/wiki/Beatmap/Category#制作中和待定-(work-in-progress-and-pending)) 状态的谱面，30 天之内不更新，都会被[扔进坟场](/wiki/Beatmap/Category#坟场-(graveyard))。坟图能在你的用户页内复活到待定状态。
 - 当复制 (`Ctrl` + `C`) 物件时，你的剪贴板将会写入这些物件的时间位置和连击数字。这些文字对[摸图](/wiki/Modding)极有帮助！
 - 在时间线上滑条尾处点击并拖拽，能给滑条添加[折返箭头](/wiki/Gameplay/Hit_object/Slider/Reverse_slider)。
 
@@ -92,7 +92,7 @@ no_native_review: true
 
 <!-- Source: https://github.com/ppy/osu/blob/master/osu.Game/Screens/Menu/Disclaimer.cs -->
 
-这些提示出现在 [Lazer 版本客户端](https://github.com/ppy/osu-lazer)，导航页前的启动页下方。
+这些提示出现在 [osu!(lazer)](/wiki/Client/Release_stream/Lazer)，导航页前的启动页下方。
 
 - 你能在游戏里随时按下 `Ctrl` + `T`，来唤出工具栏！
 - 你能在游戏里随时按下 `Ctrl` + `O`，来唤出选项栏！

@@ -42,10 +42,10 @@ A continuación se describe cómo puedes empezar a ayudar a los demás en el for
 
 ## Ayuda a revisar/modear beatmaps!
 
-osu! cuenta con un equipo de revisores dedicado, los [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators), para comprobar si los [beatmaps](/wiki/Beatmap) enviados están listos para ser clasificados y jugados por todos. Sin embargo, eso no significa que no puedas contribuir a este sector:
+osu! cuenta con un equipo de revisores dedicado, los [Beatmap Nominators](/wiki/People/Beatmap_Nominators), para comprobar si los [beatmaps](/wiki/Beatmap) enviados están listos para ser clasificados y jugados por todos. Sin embargo, eso no significa que no puedas contribuir a este sector:
 
 - Busca en la página web o en el [Pending Beatmaps](https://osu.ppy.sh/beatmapsets?s=pending) una lista de los artistas o canciones que te gusten y/o quieras contribuir.
-- Juega beatmaps en estados de [*Pending* o *Work-in-progress*](/wiki/Beatmap/Category#work-in-progress-and-pending) y deja tus comentarios en la página de discusión del beatmap.
+- Juega beatmaps en estados de [*Pending* o *Work-in-progress*](/wiki/Beatmap/Category#trabajos-en-progreso-y-pendientes) y deja tus comentarios en la página de discusión del beatmap.
 - Lee la [Modding Guide](/wiki/Modding) y el [Ranking Criteria](/wiki/Ranking_Criteria) para conocer los fundamentos del modding técnico y lo que hace que un beatmap sea clasificable.
 - [Únete a los canales de `#mapping` y `#modreqs` en el chat del juego y únete a la conversación o simplemente siguela.
 - Si tienes tiempo y dedicación, haz un [Modding Queue](https://osu.ppy.sh/community/forums/60) para que los creadores de beatmaps tengan un lugar donde solicitarte mods.
@@ -69,7 +69,7 @@ A continuación se indican algunas de las formas en que puede contribuir:
 
 ## Contribuye al futuro de osu!
 
-Empezado en 2017, El proyecto osu!(lazer) es el objetivo principal de [the osu! team](/wiki/People/The_Team), junto con el nuevo sitio web, ¡que es lo que ves hoy! Si quieres ayudar a que estos proyectos sean aún mejores y nos acerquen al futuro de osu!, hay varias cosas que puedes hacer, pero a continuación te damos algunos ejemplos:
+Empezado en 2017, El proyecto [osu!(lazer)](/wiki/Client/Release_stream/Lazer) es el objetivo principal de [the osu! team](/wiki/People/osu!_team), junto con el nuevo sitio web, ¡que es lo que ves hoy! Si quieres ayudar a que estos proyectos sean aún mejores y nos acerquen al futuro de osu!, hay varias cosas que puedes hacer, pero a continuación te damos algunos ejemplos:
 
 - Ayudando con el proyecto [osu!(lazer)](https://github.com/ppy/osu). ¡Hay mucho que implementar en la nueva versión de osu!, ¡y tú puedes ayudar a hacerlo realidad!
 - Haz el [sitio web](https://github.com/ppy/osu-web) aún mejor.

@@ -10,7 +10,7 @@ tags:
 
 ![MWC 7K 2023 banner](img/mwc7k-2023-banner.jpg)
 
-The **osu!mania 7K World Cup 2023** (***MWC 7K 2023***) is a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/The_Team). It is the seventh instalment of the osu!mania 7K World Cup.
+The **osu!mania 7K World Cup 2023** (***MWC 7K 2023***) was a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/osu!_team). It was the seventh instalment of the osu!mania 7K World Cup.
 
 ## Tournament schedule
 
@@ -27,7 +27,7 @@ The **osu!mania 7K World Cup 2023** (***MWC 7K 2023***) is a country-based osu!m
 
 ## Prizes
 
-The osu!mania 7K World Cup 2023 offers a minimum $1,200 cash prize pool and limited edition merch. The prize pool can be further increased from **[community donations](https://opencollective.com/osu-tournaments/events/osu-mania-7k-world-cup-2023-502fec83)!**
+The osu!mania 7K World Cup 2023 offered a minimum $1,200 cash prize pool and limited edition merch. The prize pool was further increased to $1,320 from **[community donations](https://opencollective.com/osu-tournaments/events/osu-mania-7k-world-cup-2023-502fec83).**
 
 | Placing | Prizes |
 | :-: | :-- |
@@ -35,9 +35,11 @@ The osu!mania 7K World Cup 2023 offers a minimum $1,200 cash prize pool and limi
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the prize pool, single-run merch, profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool, single-run merch, profile badge |
 
+![](img/badge-1st.png "MWC 7K 2023 winner badge") ![](img/badge-2nd.png "MWC 7K 2023 2nd place badge") ![](img/badge-3rd.png "MWC 7K 2023 3rd place badge")
+
 ## Organisation
 
-The osu!mania 7K World Cup 2023 is run by the osu! team and various community members.
+The osu!mania 7K World Cup 2023 was run by the osu! team and various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -54,7 +56,6 @@ The osu!mania 7K World Cup 2023 is run by the osu! team and various community me
 - [Challonge bracket](https://challonge.com/MWC7K_2023)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/106) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
 - [Information spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRQVIOCI9kotrvH-FWrip3BlS37lVN9AacPfTlDDXbW-zTfOxqKFtuKZw7yodW6UBSSzijuKJag0biI/pubhtml)
-- [Donate to the prize pool](https://opencollective.com/osu-tournaments/events/osu-mania-7k-world-cup-2023-502fec83)
 
 ## Participants
 
@@ -100,27 +101,36 @@ The osu!mania 7K World Cup 2023 is run by the osu! team and various community me
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/c9e572884f0e731ba47fed1c11be3b88#file-mwc7k-2023-player-list-csv). 
 
-## Match schedule: Finals
+## Podium
 
-### Saturday, 11 February 2023
-
-| Team A | Team B | Match time |  |
-| --: | :-- | :-- | :-: |
-| South Korea ::{ flag=KR }:: | ::{ flag=PH }:: Philippines | [Feb 11 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230211T120000&p1=1440&p2=235&p3=145) | [^winners-bracket] |
-| Malaysia ::{ flag=MY }:: | ::{ flag=CN }:: China | [Feb 11 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230211T130000&p1=1440&p2=122&p3=33) | [^losers-bracket] |
-| Eliminated | Players | [Feb 11 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230211T150000&p1=1440) | [^showmatch] |
-
-### Sunday, 12 February 2023
-
-| Team A | Team B | Match time |  |
-| --: | :-- | :-- | :-: |
-| United States ::{ flag=US }:: | ::{ flag=JP }:: Japan | [Feb 12 (Sun) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230212T080000&p1=1440&p2=263&p3=248) | [^losers-bracket] |
-| China ::{ flag=CN }:: | ::{ flag=JP }:: Japan | [Feb 12 (Sun) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230212T090000&p1=1440&p2=33&p3=248) | [^potential-match] |
-| Malaysia ::{ flag=MY }:: | ::{ flag=US }:: United States | [Feb 12 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230212T100000&p1=1440&p2=122&p3=263) | [^potential-match] |
-| China ::{ flag=CN }:: | ::{ flag=US }:: United States | [Feb 12 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230212T100000&p1=1440&p2=33&p3=263) | [^potential-match] |
-| Malaysia ::{ flag=MY }:: | ::{ flag=JP }:: Japan | [Feb 12 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230212T110000&p1=1440&p2=122&p3=248) | [^potential-match] |
+![](img/podium.jpg?1 "MWC7K 2023 podium")
 
 ## Mappools
+
+### Grand Finals
+
+**[Download the mappack here (105 MB)](https://drive.google.com/uc?id=1o3K_OQdOW6VpaVEqI0tX6TXO1upOo3sl)**
+
+- Rice
+  1. [ROKINA - Schwerkraft (Jinjin) \[Event Horizon\]](https://osu.ppy.sh/beatmapsets/1939270#mania/4009399)
+  2. [BACO (Flonne / Rasperyl) - Love & Justice (Jinjin) \[GOD+\]](https://osu.ppy.sh/beatmapsets/1939269#mania/4009398)
+  3. [aaaa - For All (Level 51) \[Lifeweaver\]](https://osu.ppy.sh/beatmapsets/1939268#mania/4009397)
+  4. [syzfonics - The Azure Box (pwhk) \[the Sky is the Limit\]](https://osu.ppy.sh/beatmapsets/1939263#mania/4009392)
+  5. [Hylen - Minerva (paulkappa) \[Death's Gaze\]](https://osu.ppy.sh/beatmapsets/1939250#mania/4009321)
+  6. [MisomyL - Mukishitsu Sekai ni Irudori o (Evening) \[Iroshizuku st1 1.2x (186bpm)\]](https://osu.ppy.sh/beatmapsets/1714977#mania/3504148)
+  7. [Frums - ultra-blazures (Wonki) \[Blazing inferno\]](https://osu.ppy.sh/beatmapsets/1939259#mania/4009367)
+- Long Note
+  1. [Camellia - Never Gonna Give You Up (Camellia Remix) (Leeju) \[rickrollab\]](https://osu.ppy.sh/beatmapsets/1939327#mania/4009578)
+  2. [Wolpis Carter - Batsubyou (Kim\_GodSSI) \[Love You (Cut Ver.)\]](https://osu.ppy.sh/beatmapsets/1657994#mania/4009444)
+  3. [SAMString - Ataraxia (Remuring) \[REMUJinjin's Tranquility\]](https://osu.ppy.sh/beatmapsets/1939418#mania/4009794)
+  4. [polysha - Ultimate Weapon -the Last Ruling- (Cut Ver.) (ruka) \[Majestic\]](https://osu.ppy.sh/beatmapsets/1939252#mania/4009324)
+  5. [wotoha - Digital Life Hacker (LostCool) \[Digital Friend Request (MWC Edit)\]](https://osu.ppy.sh/beatmapsets/1710778#mania/4009429)
+- Hybrid
+  1. [Rabbit House & Evin a'k - optimal solution (Maxus) \[parallel world\]](https://osu.ppy.sh/beatmapsets/1939282#mania/4009453)
+  2. [seatrus - MONONOKE (Remuring) \[SPIRIT\]](https://osu.ppy.sh/beatmapsets/1668945#mania/4009804)
+  3. [SDMNE - Beyond The Aexis (Leeju) \[Leeju's 7K Celestia\]](https://osu.ppy.sh/beatmapsets/1939330#mania/4009587)
+- Tiebreaker
+  1. **[katagiri - Kyuukou (\_underjoy) \[Overflow\]](https://osu.ppy.sh/beatmapsets/1939261#mania/4009375)**
 
 ### Finals
 
@@ -228,6 +238,35 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/c9e
 8. [yumemidoll - Lyrith -Meikyuu Lyrith- (Leeju) \[Stage 8: Awakening\]](https://osu.ppy.sh/beatmapsets/1919014#mania/3960063)
 
 ## Match results
+
+### Grand Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1yUga7xaDiXO7a0vRAmG7F8VNF3Jkvl_CMSiwBKPx47o).
+
+Saturday, 18 February 2023:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **South Korea** ::{ flag=KR }:: | **7** | 3 | ::{ flag=MY }:: Malaysia | [#1](https://osu.ppy.sh/community/matches/106910375) |
+| **Philippines** ::{ flag=PH }:: | **7** | 2 | ::{ flag=KR }:: South Korea | [#1](https://osu.ppy.sh/community/matches/106911235) |
+
+### Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1J0ARNkYDcIBxwff76Q02uBjOsSsp9e7b-DyZqzdPhZg).
+
+Saturday, 11 February 2023:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| South Korea ::{ flag=KR }:: | 4 | **7** | ::{ flag=PH }:: **Philippines** | [#1](https://osu.ppy.sh/community/matches/106783100) |
+| **Malaysia** ::{ flag=MY }:: | **7** | 5 | ::{ flag=CN }:: China | [#1](https://osu.ppy.sh/community/matches/106784356) |
+
+Sunday, 12 February 2023:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| United States ::{ flag=US }:: | 2 | **7** | ::{ flag=JP }:: **Japan** | [#1](https://osu.ppy.sh/community/matches/106803907) |
+| **Malaysia** ::{ flag=MY }:: | **7** | 0 | ::{ flag=JP }:: Japan | [#1](https://osu.ppy.sh/community/matches/106805914) |
 
 ### Semifinals
 
@@ -394,7 +433,7 @@ The final standings for the Qualifier stage can be found at the following [sprea
    - Captains are allowed to conduct and coordinate "tryouts", tests to gauge player aptitude, on their own terms.
    - Captains are allowed, at any time, to transfer their role to other prospective team members. Once given, only the new captain may assign the captaincy to another player.
    - **Teams that do not not send their team list by January 6, 23:59 UTC will be disqualified from the competition.**
-3. To ensure valid registrations, every prospective participant will be manually checked by the [account support team](/wiki/People/The_Team/Account_support_team), in a manner similar to the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) that is offered to community tournaments.
+3. To ensure valid registrations, every prospective participant will be manually checked by the [account support team](/wiki/People/Account_support_team), in a manner similar to the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) that is offered to community tournaments.
    - Every registered user will be assigned to their respective country's candidate list.
    - To be successfully accepted on the list, players are required to be placed #5000 or higher on the osu!mania 7K global ranking, and not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
 4. All successfully formed teams will be published after the registration phase on this page.
@@ -457,8 +496,8 @@ The final standings for the Qualifier stage can be found at the following [sprea
    - Quarterfinals and Semifinals: 14 beatmaps
    - Finals and Grand Finals: 16 beatmaps
 4. Each mappool has one tiebreaker, except for the Qualifiers.
-5. Possible mod choices for all beatmaps are [Hidden](/wiki/Game_modifier/Hidden), [Fade In](/wiki/Game_modifier/Fade_In), [Flashlight](/wiki/Game_modifier/Flashlight), and [Mirror](/wiki/Game_modifier/Mirror).
-6. Failed scores will be counted in their integrity. To that end, the [No Fail](/wiki/Game_modifier/No_Fail) mod will be enforced on every beatmap.
+5. Possible mod choices for all beatmaps are [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Fade In](/wiki/Gameplay/Game_modifier/Fade_In), [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight), and [Mirror](/wiki/Gameplay/Game_modifier/Mirror).
+6. Failed scores will be counted in their integrity. To that end, the [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) mod will be enforced on every beatmap.
 7. The tiebreaker will be played under Free Mod conditions.
 
 ### Scheduling instructions
@@ -477,9 +516,5 @@ The final standings for the Qualifier stage can be found at the following [sprea
 
 ## Notes
 
-[^winners-bracket]: Winners bracket match
-[^losers-bracket]: Losers bracket match
-[^potential-match]: Potential match – final matchup depends on the results of the preceding Losers Bracket matches
-[^showmatch]: Finals stage showmatch – players from eliminated countries team up
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same average rank

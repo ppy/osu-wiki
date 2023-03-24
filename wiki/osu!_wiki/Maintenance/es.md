@@ -46,7 +46,7 @@ El repositorio de la osu! wiki usa [integración continua](https://docs.github.c
 
 El archivo [`package.json`](https://github.com/ppy/osu-wiki/blob/master/package.json) enumera todos los complementos ([remark](https://github.com/remarkjs/remark)) utilizados por la IC, de los cuales algunos fueron escritos por los mantenedores de la osu! wiki.
 
-Las comprobaciones de IC se ejecutan automáticamente en cada commit de un colaborador recurrente. Para fusionar sus solicitudes de cambios, se espera que los contribuyentes corrijan los errores informados por la IC. Para ver el [estado de verificación](img/ci-status.png), haga lo siguiente:
+Las comprobaciones de IC se ejecutan automáticamente en cada commit de un colaborador recurrente. Para fusionar sus solicitudes de cambios, se espera que los contribuidores corrijan los errores informados por la IC. Para ver el [estado de verificación](img/ci-status.png), haga lo siguiente:
 
 1. Desplácese hacia abajo en la página de la solicitud de cambios, encuentra en la barra de estado `osu-wiki continuous integration` y haga clic en el enlace `Details`.
 2. En la nueva página, expanda el paso `run remark on changed files`. Cada hallazgo va acompañado de su ubicación exacta en un archivo y una breve descripción de por qué es un error.
@@ -55,7 +55,7 @@ Si necesita ayuda para descifrar los mensajes de error de verificación de la IC
 
 #### Omitir comprobaciones de IC
 
-Las comprobaciones de IC normalmente evitan que se fusionen las solicitudes de cambios con errores. Sin embargo, en el caso de errores falsos o fallos descubiertos en las comprobaciones, aún se pueden omitir como a prueba de fallas. Hay algunas situaciones en las que es aceptable omitir intencionalmente una verificación de IC, como se describe a continuación. Comuníquese con un [mantenedor](/wiki/osu!_wiki/Maintenance/List_of_maintainers) si necesita omitir una verificación por un motivo que no se menciona aquí.
+Las comprobaciones de IC normalmente evitan que se fusionen las solicitudes de cambios con errores. Sin embargo, en el caso de errores falsos o fallos descubiertos en las comprobaciones, aún se pueden omitir como a prueba de fallas. Hay algunas situaciones en las que es aceptable omitir intencionalmente una verificación de IC, como se describe a continuación. Comuníquese con un [mantenedor](/wiki/People/osu!_wiki_maintainers) si necesita omitir una verificación por un motivo que no se menciona aquí.
 
 A modo de referencia, a continuación se muestra una tabla de todas las comprobaciones de IC en orden:
 

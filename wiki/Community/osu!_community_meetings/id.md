@@ -1,6 +1,11 @@
+---
+outdated_translation: true
+outdated_since: ad534f83689a154769c4d49210cc3efe0386c2c1
+---
+
 # Pertemuan komunitas osu!
 
-**Pertemuan komunitas osu!** merupakan sebuah panel diskusi yang diadakan oleh [tim inti osu!](/wiki/People/The_Team) setiap dua minggu sekali. Tujuan utama dari pertemuan ini adalah untuk memberikan kesempatan kepada seluruh pihak untuk dapat berbicara secara langsung dengan para pengembang serta orang-orang yang bertanggung jawab dalam mengatur komunitas mengenai berbagai hal yang dirasa perlu untuk dibahas dan dipertimbangkan lebih lanjut.
+**Pertemuan komunitas osu!** merupakan sebuah panel diskusi yang diadakan oleh [tim inti osu!](/wiki/People/osu!_team) setiap dua minggu sekali. Tujuan utama dari pertemuan ini adalah untuk memberikan kesempatan kepada seluruh pihak untuk dapat berbicara secara langsung dengan para pengembang serta orang-orang yang bertanggung jawab dalam mengatur komunitas mengenai berbagai hal yang dirasa perlu untuk dibahas dan dipertimbangkan lebih lanjut.
 
 [Dahulu kala](https://twitter.com/ppy/status/1169256824052170755), tim inti osu! rutin mengadakan pertemuan komunitas yang memungkinkan seluruh anggota komunitas untuk dapat menyuarakan pendapatnya. Meskipun demikian, seiring dengan semakin besarnya komunitas osu!, hal ini tidak lagi memungkinkan. Oleh karenanya, pertemuan komunitas kini diselenggarakan dengan menggunakan sistem antrian Discord yang dapat mengurutkan berbagai pertanyaan yang masuk secara satu per satu.
 
@@ -28,7 +33,7 @@ Pertemuan komunitas osu! pertama diadakan pada tanggal 19 September 2021. Adapun
 
 | Pertemuan ke # | Tautan | Ringkasan | Topik diskusi |
 | :-: | :-- | :-- | :-- |
-| 0 | [19 September 2021](https://youtu.be/-LjNll8VYTM) | [Notulen pertemuan](https://gist.github.com/peppy/08b38cbac56a8b1e88133853a6a8d2fb) | Pengenalan awal, kondisi ranking criteria, hubungan antara tingkat kesulitan dan *performance point*, serta berbagai hal yang menyangkut osu!(lazer) secara umum |
+| 0 | [19 September 2021](https://youtu.be/-LjNll8VYTM) | [Notulen pertemuan](https://gist.github.com/peppy/08b38cbac56a8b1e88133853a6a8d2fb) | Pengenalan awal, kondisi ranking criteria, hubungan antara tingkat kesulitan dan *performance point*, serta berbagai hal yang menyangkut [osu!(lazer)](/wiki/Client/Release_stream/Lazer) secara umum |
 | 1 | [3 Oktober 2021](https://youtu.be/D3OZCm6szVE) | [Notulen pertemuan](https://docs.google.com/document/d/1-miPFZySYlYbtPW4G0828taycO1gh7dZ4icfSJCr4uA) | Berbagai pertanyaan dari para anggota komunitas serta berita-berita terkini seputar pengembangan osu! |
 | 2 | [17 Oktober 2021](https://youtu.be/nLT-fLeogrw) | [Notulen pertemuan](https://docs.google.com/document/d/1wEQjzku_4IzvcWRanu0GkvWiPvb-IB7WzwU7Eyojj2E) | Berbagai pertanyaan dari para anggota komunitas |
 | 3 | [31 Oktober 2021](https://youtu.be/omvZbC7zJUI) | [Notulen pertemuan](https://docs.google.com/document/d/1bhaMx--chdys8AbzSDOItbv710SVhsww2BYPzQg2rvw) | Berbagai pertanyaan dari para anggota komunitas |

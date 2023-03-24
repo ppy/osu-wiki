@@ -21,7 +21,7 @@ Der Server besteht hauptsächlich aus:
 - Kanälen, um Anfragen nach Mods, Gastschwierigkeitsgraden, Nominierungen oder andere auf Mapping bezogene Anfragen zu stellen.
 - Kanälen, in denen Nutzer auf Mapping bezogene Fragen stellen können, die von erfahrenen Mappern beantwortet werden können.
 - einem Platz für das Teilen von Modding-Queues, um mehr Erfahrung zu sammeln.
-- einem zentralen Ort, um den Status der [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) zu erfahren.
+- einem zentralen Ort, um den Status der [Beatmap Nominators](/wiki/People/Beatmap_Nominators) zu erfahren.
 - einer Liste an nützlichen Ressourcen wie Tools, RC-Vorschlägen und anderen Discord-Servern.
 
 ## Personal
