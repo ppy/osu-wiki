@@ -8,26 +8,26 @@
 
 谱面编辑器被分为4个主要部分，可以在编辑器左上角看到：
 
-- Compose
-- Design
-- Timing
-- Song setup
+- 作曲 (Compose)
+- 设计 (Design)
+- 测定时间轴 (Timing)
+- 歌曲设定 (Song setup)
 
-## Compose
+## 作曲 (Compose)
 
-[Compose（作曲）](/wiki/Client/Beatmap_editor/Compose)是编辑器中放置[打击物件](/wiki/Hit_object)与其他游戏相关元素的部分。谱师因此会在这里花最多时间。
+[作曲 (Compose)](/wiki/Client/Beatmap_editor/Compose) 是编辑器中放置[打击物件](/wiki/Hit_object)与其他游戏相关元素的部分。谱师因此会在这里花最多时间。
 
-## Design
+## 设计 (Design)
 
-[Design（设计）](/wiki/Client/Beatmap_editor/Design)提供制作[故事板](/wiki/Storyboard)（随谱面出现的视觉效果）的一种方式。由于故事板常带有复杂效果，需要使用许多故事板命令，作图者也会[利用脚本制作故事板](/wiki/Storyboard/Scripting)取而代之。
+[设计 (Design)](/wiki/Client/Beatmap_editor/Design) 提供制作[故事板](/wiki/Storyboard)（随谱面出现的视觉效果）的一种方式。由于故事板常带有复杂效果，需要使用许多故事板命令，作图者也会[利用脚本制作故事板](/wiki/Storyboard/Scripting)取而代之。
 
-## Timing
+## 测定时间轴 (Timing)
 
-[Timing（测定时间轴）](/wiki/Client/Beatmap_editor/Timing)负责管理歌曲的时间轴区间、控制谱面打击音效。由于谱面需要正确的时间轴测定与恰当反馈，来让游玩体验与歌曲节奏相符，这部分就很必要了。
+[测定时间轴 (Timing)](/wiki/Client/Beatmap_editor/Timing) 负责管理歌曲的时间轴区间、控制谱面打击音效。由于谱面需要正确的时间轴测定与恰当反馈，来让游玩体验与歌曲节奏相符，这部分就很必要了。
 
-## Song setup
+## 歌曲设定 (Song setup)
 
-[Song setup（歌曲设定）](/wiki/Client/Beatmap_editor/Song_Setup)设置谱面的[元数据](/wiki/Client/Beatmap_editor/Song_Setup#song-and-map-metadata)，以及对谱面普遍存在的其他东西。这包括歌曲名、艺术家、难度名、连击颜色等等。
+[歌曲设定 (Song setup)](/wiki/Client/Beatmap_editor/Song_Setup) 设置谱面的[元数据](/wiki/Client/Beatmap_editor/Song_Setup#song-and-map-metadata)，以及对谱面普遍存在的其他东西。这包括歌曲名、艺术家、难度名、连击颜色等等。
 
 ## 其他
 
