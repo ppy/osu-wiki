@@ -5,7 +5,7 @@ Das **Turnierkomitee** ist ein Gremium an erfahrenen sowie etablierten Organisat
 Zu ihren Aufgaben gehören:
 
 - das Verwalten von Meldungen aus dem [Meldeformular für Turniere](https://pif.ephemeral.ink/tournament-reports)
-- Beobachtung der allgemeinen Turnierszene und das [Account-Support-Team](/wiki/People/The_Team/Account_support_team) auf Basis einer Einzelfallbetrachtung zu beraten
+- Beobachtung der allgemeinen Turnierszene und das [Account-Support-Team](/wiki/People/Account_support_team) auf Basis einer Einzelfallbetrachtung zu beraten
 - regelmäßige Überprüfung der Seite [Offizielle Turnierunterstützung](/wiki/Tournaments/Official_support) für etwaige Überarbeitungen
 
 Das Gremium wurde als Reaktion auf die schnell wachsende Community-Turnierszene in osu! am 22. Juli 2021 zum ersten Mal über den Kanal `#tournaments` im [osu!dev Discord-Server](https://discord.com/invite/ppy) öffentlich bekannt gegeben.

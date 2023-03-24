@@ -8,7 +8,7 @@ tags:
 
 ![OWC 2018 logo](img/logo.jpg)
 
-The **osu! World Cup 2018** (***OWC 2018***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It was the ninth instalment of the osu! World Cup.
+The **osu! World Cup 2018** (***OWC 2018***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/osu!_team). It was the ninth instalment of the osu! World Cup.
 
 ## Tournament schedule
 
@@ -519,7 +519,7 @@ Sunday, 11 November 2018:
 ### Mappool instructions
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for Round 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals, 1 mappool for the Finals **and 1 mappool for the Grand Finals**.
-2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) and FreeMod.
+2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time) and FreeMod.
 3. Each mappool has a specific size depending on the stage.
    - **The group stage mappool will have 4 Nomod maps and 2 maps for each of the brackets.**
    - **The round of 16 and quarterfinals mappool will have 4 Nomod maps and 3 maps for each of the brackets.**

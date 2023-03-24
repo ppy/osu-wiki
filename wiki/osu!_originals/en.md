@@ -1,6 +1,6 @@
 # osu! originals
 
-**osu! originals** are songs that are specifically made for (or otherwise first premiered in) osu! or other osu!-related events such as tournaments, contests, and [Featured Artist](/wiki/Featured_Artists) announcements. While not all osu! originals are officially licensed and included in the [Featured Artist library](https://osu.ppy.sh/beatmaps/artists), the songs that do are commonly distinguished by the `ORIGINAL` label on their respective artists' pages.
+**osu! originals** are songs that are specifically made for (or otherwise first premiered in) osu! or other osu!-related events such as tournaments, contests, and [Featured Artist](/wiki/People/Featured_Artists) announcements. While not all osu! originals are officially licensed and included in the [Featured Artist library](https://osu.ppy.sh/beatmaps/artists), the songs that do are commonly distinguished by the `ORIGINAL` label on their respective artists' pages.
 
 All osu! originals that have been licensed by the game are cleared for use in osu! under non-exclusive terms as per the [osu! music licensing policy](/wiki/Legal/Music_licensing). Conversely, non-licensed osu! originals may require permission for use. See the [Content Usage Guidelines](/wiki/Rules/Content_Usage_Guidelines) for more information.
 
@@ -148,7 +148,7 @@ These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-
 | Song | Beatmap | Notes |
 | :-: | :-: | :-- |
 | [DJ Raisei - T.R.A.P.](https://soundcloud.com/raisei/traptrap)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1889105) | Grand Finals NM4 |
-| [Down - Down](https://open.spotify.com/album/4pMakhbTjq8kwg679WxBuf) | [#1](https://osu.ppy.sh/beatmapsets/1880545) | Semifinals FM4 |
+| [Down - Down](https://open.spotify.com/album/4pMakhbTjq8kwg679WxBuf)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1880545) | Semifinals FM4 |
 | [II-L ft. amelie xoxo - THE EARTH](https://soundcloud.com/ii-l/the-earth)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1889101) | Grand Finals NM5 |
 | [Kurokotei feat. Sennzai - escape (the looking-glass, and what alice found there)](https://www.youtube.com/watch?v=rYmTItO3caw)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1880652) | Semifinals tiebreaker |
 | [NIWASHI - Harder Than Diamond](https://www.youtube.com/watch?v=PCc2tM3YWs0)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1884920) | Finals FM4 |
@@ -282,7 +282,7 @@ These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-
 
 | Song | Beatmap | Notes |
 | :-: | :-: | :-- |
-| [Down - ddm](https://open.spotify.com/album/5ygle8UZPbAqJ8XuMAKgnl) | [#1](https://osu.ppy.sh/beatmapsets/1764656) | Quarterfinals NM6 |
+| [Down - ddm](https://open.spotify.com/album/5ygle8UZPbAqJ8XuMAKgnl)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1764656) | Quarterfinals NM6 |
 | [Kyutatsuki - \_alc.yone](https://www.youtube.com/watch?v=_LkXGLHR6Tg) | [#1](https://osu.ppy.sh/beatmapsets/1781161) | Grand Finals NM4 |
 | [VINXIS - Commencement](https://www.youtube.com/watch?v=5W2xUCevUUQ)[^fa] |  | Livestream BGM |
 
@@ -299,8 +299,8 @@ These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-
 | :-: | :-: | :-- |
 | [Acylica - yoshicorsace](https://www.youtube.com/watch?v=PwxRJUPhYAo) | [#1](https://osu.ppy.sh/beatmapsets/1842665) | Semifinals NM4 |
 | [Aoi - King Atlantis](https://www.youtube.com/watch?v=TLJkMNmDed4)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1850986) | Grand Finals tiebreaker |
-| [Down - Halfslashed](https://www.youtube.com/watch?v=r2RH3_a7ld4) | [#1](https://osu.ppy.sh/beatmapsets/1837962) | Quarterfinals FM1 |
-| [Down - UberFazz](https://www.youtube.com/watch?v=S3E9D1d48Nc) | [#1](https://osu.ppy.sh/beatmapsets/1846742) | Finals FM2 |
+| [Down - Halfslashed](https://www.youtube.com/watch?v=r2RH3_a7ld4)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1837962) | Quarterfinals FM1 |
+| [Down - UberFazz](https://www.youtube.com/watch?v=S3E9D1d48Nc)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1846742) | Finals FM2 |
 | [Fuyuki Seana - OVERFLOW SKIES](https://soundcloud.com/sylp-hide/overflow-skies) | [#1](https://osu.ppy.sh/beatmapsets/1846756) | Finals tiebreaker |
 | [ikaruga\_nex - SICK ROCK CRAZY](https://soundcloud.com/ikaruga_nex/corsace-open-2022-sick-rock-crazy) | [#1](https://osu.ppy.sh/beatmapsets/1838305) | Quarterfinals tiebreaker |
 | [Kara - AGAVEiL](https://soundcloud.com/karalineavu/agaveill) | [#1](https://osu.ppy.sh/beatmapsets/1842694) | Semifinals tiebreaker |
@@ -325,9 +325,9 @@ These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-
 
 | Song | Beatmap | Notes |
 | :-: | :-: | :-- |
-| [Down - Solo Cup](https://open.spotify.com/album/4qMVTbgHvQThqza3pOgvag) | [#1](https://osu.ppy.sh/beatmapsets/1760520) | Semifinals FM1 |
-| [Down - Duo Cup](https://open.spotify.com/album/4osLwBbvDI7DnWfdujXbGM) | [#1](https://osu.ppy.sh/beatmapsets/1765192) | Finals FM1 |
-| [Down - Trio Cup](https://open.spotify.com/album/7cWOHX315psZpXDp5jC0at) | [#1](https://osu.ppy.sh/beatmapsets/1769914) | Grand Finals DT2 |
+| [Down - Solo Cup](https://open.spotify.com/album/4qMVTbgHvQThqza3pOgvag)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1760520) | Semifinals FM1 |
+| [Down - Duo Cup](https://open.spotify.com/album/4osLwBbvDI7DnWfdujXbGM)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1765192) | Finals FM1 |
+| [Down - Trio Cup](https://open.spotify.com/album/7cWOHX315psZpXDp5jC0at)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1769914) | Grand Finals DT2 |
 
 #### ![](/wiki/shared/mode/taiko.png) [Expert Global Taiko Showdown 2021](/wiki/Tournaments/GTS/EGTS_2021)
 
@@ -400,6 +400,12 @@ These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-
 | Song | Beatmap | Notes |
 | :-: | :-: | :-- |
 | [BilliumMoto & Dictate - 1KARUGA](https://soundcloud.com/billiummoto/1karuga)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1649302) | Grand Finals tiebreaker |
+
+#### ![](/wiki/shared/mode/taiko.png) Korean Rising Taiko Tournament #2
+
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [Down - Chronoportation](https://soundcloud.com/down-910707220/chronoportation)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1955279) | Grand Finals tiebreaker |
 
 #### ![](/wiki/shared/mode/taiko.png) LordEnder Global Taiko Showdown 2021
 
@@ -499,11 +505,17 @@ These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-
 | :-: | :-: | :-- |
 | [Ice vs Yukino - R4incarnation](https://soundcloud.com/iceloki/r4incarnation-vs-yukino) | [#1](https://osu.ppy.sh/beatmapsets/1698384) | Grand Finals tiebreaker |
 
+#### ![](/wiki/shared/mode/taiko.png) Squad Global Taiko Showdown 2023
+
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [Null Specification - Crevasse Hoar](https://soundcloud.com/uchphppii24c/crevasse-hoar) | [#1](https://osu.ppy.sh/beatmapsets/1952276) | Finals tiebreaker |
+
 #### ![](/wiki/shared/mode/osu.png) The Perennial 2022
 
 | Song | Beatmap | Notes |
 | :-: | :-: | :-- |
-| [Down - DeviousPanda](https://open.spotify.com/album/7o7flUNX2MptKfLVL4Y2bz) | [#1](https://osu.ppy.sh/beatmapsets/1789325) | Grand Finals NM6 |
+| [Down - DeviousPanda](https://open.spotify.com/album/7o7flUNX2MptKfLVL4Y2bz)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1789325) | Grand Finals NM6 |
 | [UNDEAD CORPORATION - The Throne](https://www.youtube.com/watch?v=PCVtU9kWo1w)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1789376) | Grand Finals tiebreaker |
 
 ### Official song remix contest releases
@@ -538,7 +550,7 @@ These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-
 
 | Song | Beatmap |
 | :-: | :-: |
-| Down - My Love Remix | [#1](https://osu.ppy.sh/beatmapsets/1348553) |
+| Down - My Love Remix[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1348553) |
 | [Kuba Oms - My Love (0 K Remix) feat. Thievley](https://soundcloud.com/zero-kelvin-0k/my-love-remix) | [#1](https://osu.ppy.sh/beatmapsets/1389031) |
 | Kuba Oms - My Love (DestoppeD Remix) | [#1](https://osu.ppy.sh/beatmapsets/1388552) |
 | Kuba Oms - My Love (Maemi no Yume's Remix) | [#1](https://osu.ppy.sh/beatmapsets/1389127) |
@@ -590,11 +602,12 @@ These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-
 | [Dictate - IMITATE](https://soundcloud.com/dictate/imitate)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1201530) |
 | dksslqj - Oriental Creation | [#1](https://osu.ppy.sh/beatmapsets/1678494) |
 | dksslqj - osu! Fan Cafe Logosong | [#1](https://osu.ppy.sh/beatmapsets/148421) |
-| Down - AJT | [#1](https://osu.ppy.sh/beatmapsets/1705780#osu/3485484) |
-| [Down - Chosun](https://open.spotify.com/album/24NP8pha5J7pWXJeeay8eR) | [#1](https://osu.ppy.sh/beatmapsets/1833547) |
-| [Down - Ekoro](https://open.spotify.com/album/5nbet60aPK4tJCK3GVXhL2) | [#1](https://osu.ppy.sh/beatmapsets/1683876) |
-| [Down - Luscent](https://open.spotify.com/album/05WPXYcvcDfAp91stvhpiz) | [#1](https://osu.ppy.sh/beatmapsets/1641533) |
-| [Down - Yamangomcpro6th](https://open.spotify.com/album/7pJAbAElVYKbJ0L3dJGjPz) | [#1](https://osu.ppy.sh/beatmapsets/1715340) |
+| [Doomsday - Length of Location](http://soundcloud.com/user-598209031/length-of-location) | [#1](https://osu.ppy.sh/beatmapsets/1767661) |
+| Down - AJT[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1705780#osu/3485484) |
+| [Down - Chosun](https://open.spotify.com/album/24NP8pha5J7pWXJeeay8eR)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1833547) |
+| [Down - Ekoro](https://open.spotify.com/album/5nbet60aPK4tJCK3GVXhL2)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1683876) |
+| [Down - Luscent](https://open.spotify.com/album/05WPXYcvcDfAp91stvhpiz)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1641533) |
+| [Down - Yamangomcpro6th](https://open.spotify.com/album/7pJAbAElVYKbJ0L3dJGjPz)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1715340) |
 | handsome muscle - Lost in nightmare | [#1](https://osu.ppy.sh/beatmapsets/552125) |
 | [happy30 - As the wind blows](https://www.youtube.com/watch?v=XFZGRVIji9w)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/355073) |
 | happy30 - wob wob[^fa] | [#1](https://osu.ppy.sh/beatmapsets/115621) |

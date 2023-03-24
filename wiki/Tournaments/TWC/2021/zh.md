@@ -11,7 +11,7 @@ outdated_since: fd12864fe0d9d5c4e43f09e681be0c1ad040e200
 
 ![TWC 2021 标志](/wiki/shared/news/banners/TWC_2021.jpg)
 
-**osu!taiko 2021 世界杯**（***TWC 2021***）是由 [osu!团队](/wiki/People/The_Team)举办的基于国家/地区间的官方锦标赛。这是 osu!taiko 世界杯的第 11 届。
+**osu!taiko 2021 世界杯**（***TWC 2021***）是由 [osu!团队](/wiki/People/osu!_team)举办的基于国家/地区间的官方锦标赛。这是 osu!taiko 世界杯的第 11 届。
 
 *注意：比赛正在进行中，该翻译版本最后更新日期为 2021 年 3 月 12 日 21:00 UTC+08，最新赛程安排及图池更新请按[英文原文](/wiki/Tournaments/TWC/2021?locale=en)为准。*
 
@@ -239,7 +239,7 @@ osu!taiko 2021 世界杯由 osu! team 和多位社区成员举办。
 2. 分数计算基于 Score V2。
 3. 每轮比赛的图池将由图池管理在实际比赛开始之前的周日公布。选手在比赛过程中只能选择其中的谱面。
    - 一张谱面会被选为 Tiebreaker(TB)，TB 仅能在加时赛中被强制选择。
-   - 图池包含 [Hidden](/wiki/Game_modifier/Hidden)，[HardRock](/wiki/Game_modifier/Hard_Rock)，[DoubleTime](/wiki/Game_modifier/Double_Time) 以及 Freemod
+   - 图池包含 [Hidden](/wiki/Gameplay/Game_modifier/Hidden)，[HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock)，[DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time) 以及 Freemod
 4. 时间表将由比赛管理部门确定（请参见[排程说明](#排程说明)）
 5. 如果没有空闲的工作人员或裁判，比赛将被推迟。
 6. Failed 的分数不会算入队伍得分中。
@@ -335,7 +335,7 @@ osu!taiko 2021 世界杯由 osu! team 和多位社区成员举办。
 
 1. 小组赛，十六强赛，四分之一决赛，半决赛以及决赛都会使用他们各自的图池。
    - 其中总决赛和决赛使用相同图池。
-2. 图池包含五组: NoMod，[Hidden](/wiki/Game_modifier/Hidden)，[HardRock](/wiki/Game_modifier/Hard_Rock)，[DoubleTime](/wiki/Game_modifier/Double_Time) 和 FreeMod。
+2. 图池包含五组: NoMod，[Hidden](/wiki/Gameplay/Game_modifier/Hidden)，[HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock)，[DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time) 和 FreeMod。
 3. 小组赛图池为 14 张，十六强赛和四分之一决赛图池为 15 张，半决赛和决赛图池为 16 张。
 4. 每个图池都包含一张 TB（Tiebreaker）。
 5. NoMod 图池不能使用任何 Mod。
@@ -346,7 +346,7 @@ osu!taiko 2021 世界杯由 osu! team 和多位社区成员举办。
 8. TB 为 Freemod。
    - 在 Tiebreaker 时，没有 Mod 要求。
 9. 在小组赛图池中 NoMod 谱面的数量为 4，十六强赛图池中为 5，半决赛、决赛以及总决赛则为 6.
-10. 所有阶段图池中都包含[Hidden](/wiki/Game_modifier/Hidden)，[HardRock](/wiki/Game_modifier/Hard_Rock) 以及 [DoubleTime](/wiki/Game_modifier/Double_Time) 谱面各两张。
+10. 所有阶段图池中都包含[Hidden](/wiki/Gameplay/Game_modifier/Hidden)，[HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock) 以及 [DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time) 谱面各两张。
 11. 所有阶段图池中都包含三张 Freemod 谱面。
 
 ### 排程说明

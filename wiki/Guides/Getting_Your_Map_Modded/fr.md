@@ -6,7 +6,7 @@ Le [modding](/wiki/Modding) de votre beatmap est une étape essentielle du [proc
 
 Avant de rechercher des mods, vous devez d'abord comprendre les différents types de demandes de mods que vous pouvez faire. Les deux plus couramment utilisés sont les [demandes de mod normal](/wiki/Modding/Normal_mod) (NM) et les [demandes de mod pour mod](/wiki/Modding/Mod_for_mod) (M4M). Ce ne sont cependant pas les seuls types de demandes. Il existe quelques autres types de demandes de mods qui sont principalement utilisés dans le canal `#modreqs` :
 
-- **Beatmap Nominator request (BN req) :** Utilisée uniquement dans les files d'attente des Beatmap Nominator ou dans `#modreqs`. Une demande BN est utilisée lorsque vous pensez que votre beatmap ne peut plus être amélioré par des mods normaux, et qu'il nécessite une vérification plus expérimentée par un [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators).
+- **Beatmap Nominator request (BN req) :** Utilisée uniquement dans les files d'attente des Beatmap Nominator ou dans `#modreqs`. Une demande BN est utilisée lorsque vous pensez que votre beatmap ne peut plus être amélioré par des mods normaux, et qu'il nécessite une vérification plus expérimentée par un [Beatmap Nominator](/wiki/People/Beatmap_Nominators).
 - **Metadata check (Meta check) :** Assez explicite, le [moddeur](/wiki/Modding/Modder) vérifiera si les métadonnées de votre beatmap sont correctes. Les métadonnées sont souvent vérifiées dans les mods normaux également.
 - **Hitsound check :** Le moddeur vérifiera votre beatmap afin de s'assurer que vos hitsounds représentent correctement la musique, qu'ils soient cohérents et qu'ils répondent aux normes de classement.
 

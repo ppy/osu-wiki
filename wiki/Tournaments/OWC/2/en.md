@@ -10,7 +10,7 @@ tags:
 
 ![OWC #2 logo](img/logo.png)
 
-The **osu! World Cup #2** (***OWC #2***), also commonly known as **osu! World Cup 2011** (***OWC 2011***), was a single elimination country-based osu! tournament organized by various osu! community members under the provision of the [osu! team](/wiki/People/The_Team). It was the second instalment of the osu! World Cup.
+The **osu! World Cup #2** (***OWC #2***), also commonly known as **osu! World Cup 2011** (***OWC 2011***), was a single elimination country-based osu! tournament organized by various osu! community members under the provision of the [osu! team](/wiki/People/osu!_team). It was the second instalment of the osu! World Cup.
 
 ## Tournament schedule
 

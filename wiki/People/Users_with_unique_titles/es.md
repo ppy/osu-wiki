@@ -1,6 +1,6 @@
 # Usuarios con títulos únicos
 
-Los títulos de usuario normalmente se asocian con [grupos de usuarios](/wiki/People/The_Team#grupos-de-usuarios), pero los usuarios que se enumeran a continuación recibieron sus títulos por otras razones.La mayoría de los títulos eran recompensas por contribuciones o logros, y el resto eran muestras de la historia icónica o divertida de osu!.
+Los títulos de usuario normalmente se asocian con [grupos de usuarios](/wiki/People/osu!_team#grupos-de-usuarios), pero los usuarios que se enumeran a continuación recibieron sus títulos por otras razones.La mayoría de los títulos eran recompensas por contribuciones o logros, y el resto eran muestras de la historia icónica o divertida de osu!.
 
 ## Campeones actuales de la World Cup
 
@@ -173,7 +173,7 @@ La mayoría de los concursos oficiales de mapping ofrecen el título **Elite Map
 
 ## Elite Nominators
 
-Desde 2020, los miembros de [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) y [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) con una exhibición excepcional para apoyar el sistema de clasificación en un año determinado son recompensados con el título **Elite Nominator**. Este título se otorga al inicio de cada año por las contribuciones realizadas durante el último, y dura aproximadamente un año o hasta que el usuario deja el equipo.
+Desde 2020, los miembros de [Beatmap Nominators](/wiki/People/Beatmap_Nominators) y [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) con una exhibición excepcional para apoyar el sistema de clasificación en un año determinado son recompensados con el título **Elite Nominator**. Este título se otorga al inicio de cada año por las contribuciones realizadas durante el último, y dura aproximadamente un año o hasta que el usuario deja el equipo.
 
 - ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306)
 - ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958)
@@ -220,7 +220,7 @@ Los concursos [osu!trivium Quiz](/wiki/Contests/osu!trivium_Quiz) otorgan a su e
 
 ## Artistas destacados
 
-Son [Artistas destacados](/wiki/Featured_Artists) con osu! y sus cuentas son premiadas con el título **Featured Artist** para mostrar su participacion.
+Son [Artistas destacados](/wiki/People/Featured_Artists) con osu! y sus cuentas son premiadas con el título **Featured Artist** para mostrar su participacion.
 
 ::{ flag=NO }:: [cYsmix](https://osu.ppy.sh/users/272870) y ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) tienen el título de **osu!musician** por contribuciones anteriores al diseño de sonido y los temas oficiales de osu!, y ::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471) optó por mantener el título de **osu!mixer** (que desde entonces se actualizó a osu!mixer II) cuando se convirtió en
 
@@ -303,9 +303,11 @@ Estos jugadores recibieron sus respectivos títulos a través de un logro de jue
 | Usuario | Título | Logro |
 | :-- | :-- | :-- |
 | ::{ flag=NO }:: [-GN](https://osu.ppy.sh/users/895581) | Champion Above Champions | Consiguió el primer NoMod FC en [Shotgun Symphony+ [Impossibly Intense]](https://osu.ppy.sh/beatmapsets/7671#osu/32570) |
+| ::{ flag=US }:: [EEEEEEEEEEEEEEE](https://osu.ppy.sh/users/2927048) | osu!completionist | Jugó todos los mapas clasificados de osu! hasta el 15 de marzo de 2023 |
 | ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) | Drum Decimator | Consiguió FC en todos los mapas clasificados de osu!taiko a partir del 3 de noviembre de 2019 |
+| ::{ flag=PL }:: [Przegrany](https://osu.ppy.sh/users/7635621) | osu!completionist | Jugó todos los mapas clasificados de osu! hasta el 11 de agosto de 2021 |
 | ::{ flag=NL }:: [Shirotora_old](https://osu.ppy.sh/users/11820) | Bested the Reaper's Game | Otorgado por ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) a finales de 2008 por alcanzar el puesto 104 en 1 semana, como referencia a [*The World Ends with You*](https://es.wikipedia.org/wiki/The_World_Ends_with_You) |
-| ::{ flag=US }:: [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist | Jugó todos los mapas clasificados de osu! a partir del 27 de abril de 2019 |
+| ::{ flag=US }:: [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist | Jugó todos los mapas clasificados de osu! hasta el 27 de abril de 2019 |
 | ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter | Ganó [The Hunt for the Girl in the Forest](https://osu.ppy.sh/community/forums/topics/662279) |
 
 ## Contribuidores

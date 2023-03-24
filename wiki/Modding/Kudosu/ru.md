@@ -10,6 +10,6 @@ stub: true
 
 Во времена [моддинга на форуме](/wiki/Modding/Forum_modding) полученные кудосу можно было обменивать на повышение [приоритета](/wiki/Modding/Star_priority) карты.
 
-Сегодня кудосу используются при рассмотрении [заявок от моддеров](/wiki/People/The_Team/Beatmap_Nominators/Becoming_a_Beatmap_Nominator) на то, чтобы стать [номинатором](/wiki/People/The_Team/Beatmap_Nominators). Для этого моддеру нужно иметь минимум 200 кудосу, набранных на моддинге карт режима osu!, либо минимум 150 кудосу в случае режимов osu!taiko, osu!catch или osu!mania.
+Сегодня кудосу используются при рассмотрении [заявок от моддеров](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator) на то, чтобы стать [номинатором](/wiki/People/Beatmap_Nominators). Для этого моддеру нужно иметь минимум 200 кудосу, набранных на моддинге карт режима osu!, либо минимум 150 кудосу в случае режимов osu!taiko, osu!catch или osu!mania.
 
 Слово *kudosu*, иногда стилизуемое как *kudosu!*, образовалось путём [слияния слов](https://ru.wikipedia.org/wiki/Словослияние) *kudos* и *osu!*.

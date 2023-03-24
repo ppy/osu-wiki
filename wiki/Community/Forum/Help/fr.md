@@ -6,4 +6,4 @@ stub: true
 
 *Voir également : [Centre d'aide](/wiki/Help_centre)*
 
-[**Help**](https://osu.ppy.sh/community/forums/5) est un forum où les joueurs peuvent recevoir une assistance technique de la part des membres de l'[Équipe du support](/wiki/People/The_Team/Support_Team) ou des autres utilisateurs.
+[**Help**](https://osu.ppy.sh/community/forums/5) est un forum où les joueurs peuvent recevoir une assistance technique de la part des membres de l'[Équipe du support](/wiki/People/Support_Team) ou des autres utilisateurs.

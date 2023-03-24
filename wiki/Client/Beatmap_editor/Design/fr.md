@@ -148,7 +148,7 @@ Joue la beatmap. Le storyboarding de l'outro nécessite un script de storyboardi
 
 ## Limites
 
-- Pas de support pour les effets sonores, ce n'est pas un gros problème car les effets sonores peuvent distraire les joueurs, surtout s'ils sont près des [objets](/wiki/Hit_object). L'utilisation d'effets sonores doit être réservée aux mappeurs expérimentés, avec l'aide d'un BN.
+- Pas de support pour les effets sonores, ce n'est pas un gros problème car les effets sonores peuvent distraire les joueurs, surtout s'ils sont près des [objets](/wiki/Gameplay/Hit_object). L'utilisation d'effets sonores doit être réservée aux mappeurs expérimentés, avec l'aide d'un BN.
 - Aucun support pour les [loop](/wiki/Storyboard/Scripting/Compound_Commands) et les [trigger](/wiki/Storyboard/Scripting/Compound_Commands).
 - Aucune commande pour [Move-X](/wiki/Storyboard/Scripting/Commands)/[Move-Y](/wiki/Storyboard/Scripting/Commands).
 - Les coordonnées du sprite sont *toujours* 320,240. Vous devrez utiliser la commande Move une fois pour définir l'emplacement (le point final n'est pas nécessaire).

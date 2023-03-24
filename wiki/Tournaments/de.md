@@ -214,6 +214,12 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Old Map Fantasy World Cup](OMF/WC) | 14.08.2021 | 03.10.2021 | ::{ flag=US }:: Vereinigte Staaten | ::{ flag=KR }:: Südkorea | ::{ flag=PL }:: Polen |
 
+#### osu! Amateur Solo Indonesia Showdown
+
+| Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [osu! Amateur Solo Indonesia Showdown](oASIS/1) | 06.02.2023 | 21.03.2023 | ::{ flag=ID }:: [im a cute bunny](https://osu.ppy.sh/users/12578000) | ::{ flag=ID }:: [SDKO](https://osu.ppy.sh/users/4858555) | ::{ flag=ID }:: [akebono](https://osu.ppy.sh/users/1815316) |
+
 #### osu! Asia Oceania Tournament
 
 | Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
@@ -809,7 +815,7 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 ## Siehe auch
 
 - [Liste der Länder, die an osu!-Turnieren teilgenommen haben](Countries_that_participated_in_osu!_tournaments)
-- [osu!tourney](/wiki/osu!tourney) (Client, der für Turnier-Streaming verwendet wird)
+- [osu!tourney](/wiki/osu!_tournament_client/osu!tourney) (Client, der für Turnier-Streaming verwendet wird)
 
 [GCrown]: /wiki/shared/crown-gold.png "1. Platz"
 [SCrown]: /wiki/shared/crown-silver.png "2. Platz"

@@ -12,7 +12,7 @@
 | **Белый** | Вы |
 | **Бледно-жёлтый** | Обычные игроки |
 | **Жёлтый** | Игроки, поддержавшие osu! ([саппортеры](/wiki/osu!supporter)) |
-| **Красный** | [Модератор](/wiki/People/The_Team/Global_Moderation_Team) или член [команды оценки номинаций](/wiki/People/The_Team/Nomination_Assessment_Team) |
+| **Красный** | [Модератор](/wiki/People/Global_Moderation_Team) или член [команды оценки номинаций](/wiki/People/Nomination_Assessment_Team) |
 | **Зелёный** | Автор сообщения с вашим ником или словом, которое вы добавили в список [упоминаний (хайлайтов)](Highlight). Копия такого сообщения появится во вкладке `#highlight`. |
 | **Синий** | Собеседник в личной переписке |
 | **Голубой** | [peppy](https://osu.ppy.sh/users/2), создатель osu! |
