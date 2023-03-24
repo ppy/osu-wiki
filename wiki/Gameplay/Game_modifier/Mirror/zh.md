@@ -8,9 +8,6 @@ tags:
   - 游戏模组
 ---
 
-<!-- TODO:
-- [ ] add images -->
-
 # Mirror （模组）
 
 ![MR 模组图标](/wiki/shared/mods/MR.png "Mirror (MR) 模组图标")
