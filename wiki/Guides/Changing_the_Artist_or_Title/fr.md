@@ -26,4 +26,4 @@ Pour résoudre ce problème de duplication, procédez comme suit :
   7. Naviguez dans les menus `Fichier` > `Ouvrir...` afin de changer l'artiste/le titre dans d'autres difficultés.
   8. Publiez la beatmap.
 
-Si vous avez toujours des beatmaps dupliquées, contactez la [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) pour résoudre le problème.
+Si vous avez toujours des beatmaps dupliquées, contactez la [NAT](/wiki/People/Nomination_Assessment_Team) pour résoudre le problème.

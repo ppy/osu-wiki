@@ -136,7 +136,7 @@ BanchoBot 可通过玩家在聊天中发送的特殊信息来回应指令。所�
 !report <用户名> <原因（最好用英文）>
 ```
 
-`!report` 会通知 [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) 关于指定用户的不当行为。如果用户名中有空格，请用下划线替换（比如 `really cool username` 需替换为 `really_cool_username`）。要举报管理员，请发送电子邮件至 [support@ppy.sh](mailto:support@ppy.sh)。通过 BanchoBot 举报用户的示例如下所示：
+`!report` 会通知 [Global Moderation Team](/wiki/People/Global_Moderation_Team) 关于指定用户的不当行为。如果用户名中有空格，请用下划线替换（比如 `really cool username` 需替换为 `really_cool_username`）。要举报管理员，请发送电子邮件至 [support@ppy.sh](mailto:support@ppy.sh)。通过 BanchoBot 举报用户的示例如下所示：
 
 ```
 13:10 pippi: !report flyte spamming in #chinese

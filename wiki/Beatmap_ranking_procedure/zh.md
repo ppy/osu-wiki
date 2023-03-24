@@ -21,9 +21,9 @@ outdated_since: eba261b5bbbc70e338a61e8658c8040470402d3b
 
 ## 提名
 
-[谱面审核成员 (BN)](/wiki/People/The_Team/Beatmap_Nominators) 的摸图经验丰富，并且能提名谱面。他们的职责是确保谱面的质量既能达到[上架标准 (Ranking Criteria)](/wiki/Ranking_Criteria)，也能达到他们个人的质量标准。
+[谱面审核成员 (BN)](/wiki/People/Beatmap_Nominators) 的摸图经验丰富，并且能提名谱面。他们的职责是确保谱面的质量既能达到[上架标准 (Ranking Criteria)](/wiki/Ranking_Criteria)，也能达到他们个人的质量标准。
 
-[审核评估团队 (NAT)](/wiki/People/The_Team/Nomination_Assessment_Team) 成员也能提名谱面。但这不是他们的主要职责。
+[审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) 成员也能提名谱面。但这不是他们的主要职责。
 
 建议在谱面已获得足够的摸和过审前必需的 5 个推荐后，再去请求 BN 提名谱面（俗称点图）。
 
@@ -37,9 +37,9 @@ outdated_since: eba261b5bbbc70e338a61e8658c8040470402d3b
 
 提名重置能确保摸图员、BN 和 NAT 成员在谱面进入上架队列前，能检查到已排除问题、最新版本的谱面。
 
-当谱师提交更新了过审状态的谱面时，系统会立即重置谱面的提名。当 BN 或 NAT 发现过审谱面内的问题，或是[全局管理团队 (GMT)](/wiki/People/The_Team/Global_Moderation_Team) 成员发现谱面内存在不适当的内容时，也可以重置提名。谱面一旦重置提名就会立即下架 (Disqualified，或 DQ)，同时从上架队列内移除。
+当谱师提交更新了过审状态的谱面时，系统会立即重置谱面的提名。当 BN 或 NAT 发现过审谱面内的问题，或是[全局管理团队 (GMT)](/wiki/People/Global_Moderation_Team) 成员发现谱面内存在不适当的内容时，也可以重置提名。谱面一旦重置提名就会立即下架 (Disqualified，或 DQ)，同时从上架队列内移除。
 
-当 BN 或者 NAT 成员认为谱面含有某些与上架标准 (Ranking Criteria) 无关的质量问题时，偶尔也会[否决 (veto)](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto) 谱面。
+当 BN 或者 NAT 成员认为谱面含有某些与上架标准 (Ranking Criteria) 无关的质量问题时，偶尔也会[否决 (veto)](/wiki/People/Beatmap_Nominators/Beatmap_Veto) 谱面。
 
 ## 上架
 

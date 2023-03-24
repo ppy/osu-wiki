@@ -7,7 +7,7 @@ tags:
 
 *For other uses, see [Offset](/wiki/Offset).*
 
-**Local offset** (or less commonly *offline offset*) is a setting which moves the appearance of [hit objects](/wiki/Hit_object) in relation to the audio of individual [beatmaps](/wiki/Beatmap). This can be helpful for players who experience auditory or visual delays. Local song offset works alongside the [global offset](/wiki/Client/Options/Universal_offset) to calculate a total offset.
+**Local offset** (or less commonly *offline offset*) is a setting which moves the appearance of [hit objects](/wiki/Gameplay/Hit_object) in relation to the audio of individual [beatmaps](/wiki/Beatmap). This can be helpful for players who experience auditory or visual delays. Local song offset works alongside the [global offset](/wiki/Offset/Universal_offset) to calculate a total offset.
 
 ## Behaviour
 
@@ -16,9 +16,9 @@ Local offset is customised on a per-beatmap basis. It works by shifting all game
 - **Negative** values will move gameplay elements **earlier**.
 - **Positive** values will move gameplay elements **later**.
 
-Note that the [universal offset](/wiki/Client/Options/Universal_offset) shifts elements in the opposite direction.
+Note that the [universal offset](/wiki/Offset/Universal_offset) shifts elements in the opposite direction.
 
-Most of the time, the local offset is best kept at 0 (provided that beatmaps have their timing set up correctly), unless individual hardware issues get in the way. In case of several players getting the same hit difference[^hit-difference], it is worth contacting a member of the [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team), who can confirm the issue and apply an [online offset](/wiki/Offset/Online_offset).
+Most of the time, the local offset is best kept at 0 (provided that beatmaps have their timing set up correctly), unless individual hardware issues get in the way. In case of several players getting the same hit difference[^hit-difference], it is worth contacting a member of the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team), who can confirm the issue and apply an [online offset](/wiki/Offset/Online_offset).
 
 ## Controls
 

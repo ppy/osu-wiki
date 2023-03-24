@@ -13,7 +13,7 @@ no_native_review: true
 
 ![SV2 Modsymbol](/wiki/shared/mods/SV2.png "ScoreV2 (SV2) Modsymbol")
 
-*Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Game_modifier)*\
+*Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Gameplay/Game_modifier)*\
 *Nicht zu verwechseln mit [Score](/wiki/Gameplay/Score) oder [ScoreV1](/wiki/Gameplay/Score/ScoreV1).*
 
 ## Übersicht
@@ -29,7 +29,7 @@ no_native_review: true
 *Hinweis: Das Aktivieren der Mod ScoreV2 sorgt dafür, dass das Spiel nicht gerankt wird.*\
 *Für Informationen über das ScoreV2-Bewertungssystem, siehe: [ScoreV2](/wiki/Gameplay/Score#scorev2)*
 
-Die Mod **ScoreV2** ist eine Mod, die das prototypische ScoreV2-Bewertungssystem anstatt des aktuellen Bewertungssystems entsprechend für jeden [Spielmodus](/wiki/Game_mode) nutzt. Kurz gesagt versucht das ScoreV2-System die Scoring-Werte aller [Hit-Objekte](/wiki/Hit_object) auf einen maximalen Wert von 1 Million bei einem 1,00-fachen Score-Multiplikator zu setzen (ohne Bonus-Werte bei Spinnern in [osu!](/wiki/Game_mode/osu!), Dendens in [osu!taiko](/wiki/Game_mode/osu!taiko) und gesammelte Bananen in [osu!catch](/wiki/Game_mode/osu!catch)).
+Die Mod **ScoreV2** ist eine Mod, die das prototypische ScoreV2-Bewertungssystem anstatt des aktuellen Bewertungssystems entsprechend für jeden [Spielmodus](/wiki/Game_mode) nutzt. Kurz gesagt versucht das ScoreV2-System die Scoring-Werte aller [Hit-Objekte](/wiki/Gameplay/Hit_object) auf einen maximalen Wert von 1 Million bei einem 1,00-fachen Score-Multiplikator zu setzen (ohne Bonus-Werte bei Spinnern in [osu!](/wiki/Game_mode/osu!), Dendens in [osu!taiko](/wiki/Game_mode/osu!taiko) und gesammelte Bananen in [osu!catch](/wiki/Game_mode/osu!catch)).
 
 Diese Mod hat denselben Effekt in allen Spielmodi.
 

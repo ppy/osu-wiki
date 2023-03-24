@@ -14,7 +14,7 @@ Jika pembuat map menggunakannya dengan benar, judul teks dapat ditambahkan denga
 
 ## Mengganti judul teks
 
-Hanya anggota dari [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) dan situs admin dapat merubah judul teks dari sebuah beatmap;  ini adalah pengaturan online yang tidak dapat ditemukan di dalam file lokal beatmap. Jika kamu ingin merubah judul map kamu, kamu dapat menghubungi orang diatas untuk merubahnya.
+Hanya anggota dari [NAT](/wiki/People/Nomination_Assessment_Team) dan situs admin dapat merubah judul teks dari sebuah beatmap;  ini adalah pengaturan online yang tidak dapat ditemukan di dalam file lokal beatmap. Jika kamu ingin merubah judul map kamu, kamu dapat menghubungi orang diatas untuk merubahnya.
 
 Ketika kamu menghubungi orang diatas, kamu harus memberikan string untuk mendeskripsikan konten dan format judul teks. osu! membutuhkan string ini agar bisa dituliskan dengan cara tertentu, seperti yang ditentukan di bagian berikut.
 

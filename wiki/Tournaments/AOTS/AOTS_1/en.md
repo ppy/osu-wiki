@@ -420,7 +420,7 @@ Monday, 12 August 2019:
 
 ### Mappool instructions
 
-1. Each mappool consists of 6 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time), FreeMod, and Tiebreaker.
+1. Each mappool consists of 6 brackets: NoMod, [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time), FreeMod, and Tiebreaker.
 2. Mappool consists of 12 maps at start of the stage and will increase by 2 maps by each stage.
 3. The NoMod bracket will be played with no mods activated.
 4. The FreeMod bracket will have FreeMod activated. Every individual player can pick Hidden, HardRock, both, or NoMod.

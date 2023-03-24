@@ -79,11 +79,11 @@ Spinner merupakan objek permainan yang mengharuskan kamu untuk menahan tombol mo
 
 Lingkaran berwarna putih yang berada pada sisi luar spinner mengindikasikan berapa banyak waktu yang tersisa untuk dapat menyelesaikan spinner yang bersangkutan. Lingkaran ini akan berubah warna menjadi merah apabila waktu yang kamu miliki hampir habis. Pada beatmap-beatmap tertentu yang menggunakan *skin versi 1.0*, alih-alih sebuah lingkaran kamu akan diberikan sebuah garis meteran pada sisi kanan layar sebagai indikator sisa waktu yang kamu miliki.
 
-Pada kotak kecil yang terdapat pada bagian bawah layar, kamu dapat melihat seberapa cepat spinner tersebut berputar yang diukur dalam satuan perputaran per menit (*spins per minute/SPM*) dengan rentang nilai dari 0 SPM hingga 477 SPM (yang merupakan kecepatan perputaran maksimum dari mod [Auto](/wiki/Game_modifier/Auto)). Adapun mod [SpunOut](/wiki/Game_modifier/Spun_Out) akan membuat spinner diselesaikan secara otomatis oleh komputer dengan kecepatan perputaran 287 SPM.
+Pada kotak kecil yang terdapat pada bagian bawah layar, kamu dapat melihat seberapa cepat spinner tersebut berputar yang diukur dalam satuan perputaran per menit (*spins per minute/SPM*) dengan rentang nilai dari 0 SPM hingga 477 SPM (yang merupakan kecepatan perputaran maksimum dari mod [Auto](/wiki/Gameplay/Game_modifier/Auto)). Adapun mod [SpunOut](/wiki/Gameplay/Game_modifier/Spun_Out) akan membuat spinner diselesaikan secara otomatis oleh komputer dengan kecepatan perputaran 287 SPM.
 
 ## Play style
 
-*Mohon lihat laman [Gaya permainan](/wiki/Play_style) untuk informasi lebih lanjut seputar gaya-gaya permainan yang umum digunakan di osu!.*
+*Mohon lihat laman [Gaya permainan](/wiki/Gameplay/Play_style) untuk informasi lebih lanjut seputar gaya-gaya permainan yang umum digunakan di osu!.*
 
 ## Kontrol
 
@@ -95,11 +95,11 @@ Secara *default*, input-input yang terdaftar pada osu! adalah sebagai berikut:
 
 Pada umumnya, osu! dapat menerima input dalam bentuk apapun dari peranti apapun selama kamu memberikan input yang bersangkutan pada waktu dan lokasi yang tepat.
 
-Apabila kamu bermain menggunakan mod [Relax](/wiki/Game_modifier/Relax), kamu hanya perlu menggerakkan kursormu tanpa harus memberikan input apapun ke dalam osu!. Sebaliknya, apabila kamu bermain dengan menggunakan mod [Auto Pilot](/wiki/Game_modifier/Autopilot), kamu hanya perlu memberikan input ke dalam osu! tanpa perlu menggerakkan kursormu. Kecepatan spinner pada mod AutoPilot memiliki kecepatan yang sama dengan mod [Spun Out](/wiki/Game_modifier/Spun_Out).
+Apabila kamu bermain menggunakan mod [Relax](/wiki/Gameplay/Game_modifier/Relax), kamu hanya perlu menggerakkan kursormu tanpa harus memberikan input apapun ke dalam osu!. Sebaliknya, apabila kamu bermain dengan menggunakan mod [Auto Pilot](/wiki/Gameplay/Game_modifier/Autopilot), kamu hanya perlu memberikan input ke dalam osu! tanpa perlu menggerakkan kursormu. Kecepatan spinner pada mod AutoPilot memiliki kecepatan yang sama dengan mod [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out).
 
 ## Penilaian
 
-*Mohon lihat laman [Sistem skor pada mode osu!](/wiki/Gameplay/Score/osu!) untuk informasi lebih lanjut seputar penilaian skor yang dipakai oleh osu!.*
+*Mohon lihat laman [Sistem skor pada mode osu!](/wiki/Gameplay/Score/ScoreV1/osu!) untuk informasi lebih lanjut seputar penilaian skor yang dipakai oleh osu!.*
 
 Berikut ini adalah penjelasan mengenai penilaian skor yang digunakan dipakai oleh osu! untuk menentukan skor kamu.
 
@@ -114,7 +114,7 @@ Berikut ini adalah penjelasan mengenai penilaian skor yang digunakan dipakai ole
 | C | Persentase perolehan 300 di atas 60% |
 | D | Lainnya |
 
-Peringkat S atau SS yang berwarna perak dapat diperoleh dengan memasang mod *[Hidden](/wiki/Game_modifier/Hidden)* dan/atau mod *[Flashlight](/wiki/Game_modifier/Flashlight)*.
+Peringkat S atau SS yang berwarna perak dapat diperoleh dengan memasang mod *[Hidden](/wiki/Gameplay/Game_modifier/Hidden)* dan/atau mod *[Flashlight](/wiki/Gameplay/Game_modifier/Flashlight)*.
 
 ### Akurasi
 
@@ -264,7 +264,7 @@ Sistem yang digunakan untuk menghitung *health drain* dan *health gain* per obje
 - Putaran spinner **tidak** akan dianggap valid jika kamu tidak melakukan putaran di sekitar inti tengah dari spinner.
 - Efek asap akan bertahan lebih lama daripada jejak kursor dalam game. Oleh karena itu, terapkan efek asap sesekali untuk mencegah efek asap sebelumnya menghilang terlalu cepat.
 - Maskot untuk osu! adalah [pippi](/wiki/Mascots#pippi).
-- Ketika kamu menggunakan mod [Auto](/wiki/Game_modifier/Auto), nama pemain akan ditampilkan sebagai osu!.
+- Ketika kamu menggunakan mod [Auto](/wiki/Gameplay/Game_modifier/Auto), nama pemain akan ditampilkan sebagai osu!.
 
 ### Sejarah
 

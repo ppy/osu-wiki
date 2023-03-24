@@ -79,11 +79,11 @@ El círculo blanco exterior muestra cuánto tiempo falta para completar la rulet
 
 El pequeño recuadro debajo de la ruleta muestra los giros por minuto. El número dentro de ese recuadro se traduce en la cantidad de giros posibles, si continúas girando el ruleta a esa velocidad durante un minuto. Si se soltó el botón del mouse/teclado (o el lápiz no tocó la tableta) al principio del giro, la ruleta dejará de leer el giro.
 
-En la *DS*, esta es una buena manera de rayar la pantalla táctil (o protector de pantalla), especialmente en las dificultades más altas. En osu!, las ruletas se han atenuado para no ser una molestia de completar. La cantidad máxima de vueltas por minuto alcanzable es 477, que también es la velocidad con la que el modificador del juego [Auto](/wiki/Game_modifier/Auto) gira mientras que el modificador del juego [Spun Out](/wiki/Game_modifier/Spun_Out) gira más lento, a 287 giros por minuto.
+En la *DS*, esta es una buena manera de rayar la pantalla táctil (o protector de pantalla), especialmente en las dificultades más altas. En osu!, las ruletas se han atenuado para no ser una molestia de completar. La cantidad máxima de vueltas por minuto alcanzable es 477, que también es la velocidad con la que el modificador del juego [Auto](/wiki/Gameplay/Game_modifier/Auto) gira mientras que el modificador del juego [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out) gira más lento, a 287 giros por minuto.
 
 ## Estilos de juego
 
-*[Consulte la página de estilos de juego bajo el nombre de osu!](/wiki/Play_style).*
+*[Consulte la página de estilos de juego bajo el nombre de osu!](/wiki/Gameplay/Play_style).*
 
 ## Controles
 
@@ -95,13 +95,13 @@ Los controles predeterminados para osu! son:
 
 Los objetos golpeables en osu! aceptarán cualquier entrada del dispositivo de entrada, siempre que cada objeto golpeable se toque a tiempo.
 
-Si se usó el modificador de juego [Relax](/wiki/Game_modifier/Relax), solo funcionará el cursor en el juego. Usa el cursor en el juego para seguir los objetos golpeables con un toque automático. Las ruletas aún deben completarse.
+Si se usó el modificador de juego [Relax](/wiki/Gameplay/Game_modifier/Relax), solo funcionará el cursor en el juego. Usa el cursor en el juego para seguir los objetos golpeables con un toque automático. Las ruletas aún deben completarse.
 
-Si se usó el modificador de juego [Auto Pilot](/wiki/Game_modifier/Autopilot), solo funcionará la entrada del dispositivo de entrada. Mide el tiempo sobre los objetos golpeables con movimiento automático del cursor. Las ruletas seguirán la velocidad del mod [Spun Out](/wiki/Game_modifier/Spun_Out).
+Si se usó el modificador de juego [Auto Pilot](/wiki/Gameplay/Game_modifier/Autopilot), solo funcionará la entrada del dispositivo de entrada. Mide el tiempo sobre los objetos golpeables con movimiento automático del cursor. Las ruletas seguirán la velocidad del mod [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out).
 
 ## Puntuación
 
-*[¡Los valores de puntuación se pueden encontrar en Score bajo el nombre de Sección de valores de puntuación de osu!](/wiki/Gameplay/Score/osu!).*
+*[¡Los valores de puntuación se pueden encontrar en Score bajo el nombre de Sección de valores de puntuación de osu!](/wiki/Gameplay/Score/ScoreV1/osu!).*
 
 La sección de puntuación detalla todas las complejidades de la puntuación, incluida la fórmula matemática.
 
@@ -116,7 +116,7 @@ La sección de puntuación detalla todas las complejidades de la puntuación, in
 | C | Más del 60% de 300 |
 | D | Todo lo demas |
 
-Se puede obtener una S o SS plateada usando el modificador *[Hidden](/wiki/Game_modifier/Hidden)* y/o *[Flashlight](/wiki/Game_modifier/Flashlight)*.
+Se puede obtener una S o SS plateada usando el modificador *[Hidden](/wiki/Gameplay/Game_modifier/Hidden)* y/o *[Flashlight](/wiki/Gameplay/Game_modifier/Flashlight)*.
 
 ### Precisión
 
@@ -268,7 +268,7 @@ El sistema utilizado para calcular el drenaje de la salud y la ganancia de salud
 - No girar alrededor del centro de la ruleta **no** se considerará un giro válido.
 - El humo dura más que el rastro del cursor predeterminado en el juego. Aplica esparcidamente los efectos del humo para evitar que los efectos de humo mas viejos desaparezcan demasiado rápido.
 - La mascota de osu! es [pippi](/wiki/Mascots#pippi).
-- Cuando se juega con [Auto](/wiki/Game_modifier/Auto), el nombre del jugador será osu!.
+- Cuando se juega con [Auto](/wiki/Gameplay/Game_modifier/Auto), el nombre del jugador será osu!.
 
 ### Historia
 

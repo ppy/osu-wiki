@@ -11,8 +11,8 @@ tags:
 
 ![FL mod icon](/wiki/shared/mods/FL.png "Flashlight (FL) mod icon")
 
-*For the full list of all mods, see: [Game Modifiers](/wiki/Game_modifier)*\
-*Not to be confused with [Hidden (mod)](/wiki/Game_modifier/Hidden).*
+*For the full list of all mods, see: [Game Modifiers](/wiki/Gameplay/Game_modifier)*\
+*Not to be confused with [Hidden (mod)](/wiki/Gameplay/Game_modifier/Hidden).*
 
 ## About
 
@@ -27,13 +27,13 @@ tags:
 
 ## Description
 
-The **Flashlight** mod is a [game modifier](/wiki/Game_modifier) that aims to artificially increase the difficulty of a [beatmap](/wiki/Beatmap) by limiting the visible area of the screen.
+The **Flashlight** mod is a [game modifier](/wiki/Gameplay/Game_modifier) that aims to artificially increase the difficulty of a [beatmap](/wiki/Beatmap) by limiting the visible area of the screen.
 
 ### osu!
 
 In [osu!](/wiki/Game_mode/osu!), only a small, illuminated circle (i.e., the visible area) surrounding the cursor is shown which will display the parts of the playfield that are contained within that circle. The size of this circle will change depending on the player's current combo.
 
-The visible area will become smaller at 100x combo and again at 200x combo. If the player's combo is broken at any point, the visible area will return to its original size. Additionally, when sliding a [slider](/wiki/Hit_object/Slider), the visible area will partially darken until the slider is completed.
+The visible area will become smaller at 100x combo and again at 200x combo. If the player's combo is broken at any point, the visible area will return to its original size. Additionally, when sliding a [slider](/wiki/Gameplay/Hit_object/Slider), the visible area will partially darken until the slider is completed.
 
 All of this adds up to an effect that looks like a virtual flashlight is being shone on the player's cursor:
 
@@ -61,7 +61,7 @@ When paired with the Hidden mod, the fruits are momentarily visible if the catch
 
 ### osu!mania
 
-In [osu!mania](/wiki/Game_mode/osu!mania), the visible area is restricted to a relatively thin horizontal bar at the centre of the track whilst everything else is obstructed from view. In that sense, the Flashlight mod could be thought of as the Hidden mod and [Fade In](/wiki/Game_modifier/Fade_In) mod combined. (That is, without the changing sizes of the visible area.)
+In [osu!mania](/wiki/Game_mode/osu!mania), the visible area is restricted to a relatively thin horizontal bar at the centre of the track whilst everything else is obstructed from view. In that sense, the Flashlight mod could be thought of as the Hidden mod and [Fade In](/wiki/Gameplay/Game_modifier/Fade_In) mod combined. (That is, without the changing sizes of the visible area.)
 
 ![FL gameplay mania](img/FL-mania.jpg "Gameplay of osu!mania with the Flashlight mod enabled")
 
