@@ -340,16 +340,16 @@ HTML-комментарии<!-- TODO: написать объяснение по
 ```markdown
 ## Время кулдауна прошло. Как подать апелляцию? {#appeal}
 
-## Частые причины рестрикта и связанные с ними кулдауны {common-reasons}
-
-## Идеи для матча в мультиплеере {id=идеи-для-мультиплеера} <!-- alternative syntax for Unicode identifiers -->
+<!-- Синтаксис для случаев, когда идентификатор содержит не только латинские буквы, цифры, подчёркивания и дефисы -->
+## Various examples of osu! gameplay {id=osu!-gameplay}
 ```
 
 Идентификатор можно вставить в произвольное место статьи, чтобы на неё можно было дать ссылку:
 
 ```markdown
 > That's it! You're well on your way to becoming an osu! rhythm champion!
-{#tutorial-quote}
+
+::{#tutorial-quote}::
 ```
 
 ## Списки
