@@ -6,6 +6,8 @@ tags:
   - tableaux
   - Tableaux de classement
   - Spotlights saisonnier
+outdated_translation: true
+outdated_since: da3216feaf6915db11c618166c606f06c41345d6
 ---
 
 # Beatmap Spotlights
