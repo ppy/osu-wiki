@@ -17,7 +17,7 @@ The [Beatmap Spotlight Curators group page](https://osu.ppy.sh/groups/48) lists 
 
 ## Participation
 
-To participate in the Beatmap Spotlights, download the latest version of the [osu!(lazer)](/wiki/Client/Release_stream/Lazer) client from its [GitHub releases page](https://github.com/ppy/osu/releases/latest).
+To participate in the Beatmap Spotlights, download the latest version of the [osu!(lazer)](/wiki/Client/Release_stream/Lazer) client from its [GitHub releases page](https://github.com/ppy/osu/releases/latest)or the [osu! download page](https://osu.ppy.sh/home/download).
 
 After installing and logging into your account, head on over to the playlists tab in the play section and find the Spotlights lobbies as denoted by a little pink bar, or filter by them from the top-right corner.
 
