@@ -2,7 +2,7 @@
 
 **EZ** может означать:
 
-- [Игровой мод Easy](/wiki/Game_modifier/Easy).
+- [Игровой мод Easy](/wiki/Gameplay/Game_modifier/Easy).
 - [Сложность](/wiki/Beatmap/Difficulty) карты:
   - ![](/wiki/shared/diff/easy-m.png?20211215) EZ, для osu!mania.
   - ![](/wiki/shared/diff/easy-o.png?20211215) Easy, для osu!.

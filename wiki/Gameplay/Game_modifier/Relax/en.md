@@ -12,7 +12,7 @@ tags:
 
 ![RL mod icon](/wiki/shared/mods/RL.png "Relax (RL) mod icon")
 
-*For the full list of all mods, see: [Game Modifier](/wiki/Game_modifier)*
+*For the full list of all mods, see: [Game Modifier](/wiki/Gameplay/Game_modifier)*
 
 ## About
 
@@ -30,11 +30,11 @@ tags:
 
 *Notice: Enabling the Relax mod will cause the play to be unranked and will not be saved to the local leaderboards.*
 
-The **Relax** mod is a [game modifier](/wiki/Game_modifier) that aims to allow a relaxing experience to players. Due to its nature, the mod is typically utilised to analyse/practice difficult [patterns](/wiki/Beatmap/Pattern) on [beatmaps](/wiki/Beatmap), or for when players want to give their tapping hands a rest.
+The **Relax** mod is a [game modifier](/wiki/Gameplay/Game_modifier) that aims to allow a relaxing experience to players. Due to its nature, the mod is typically utilised to analyse/practice difficult [patterns](/wiki/Beatmap/Pattern) on [beatmaps](/wiki/Beatmap), or for when players want to give their tapping hands a rest.
 
 ### osu!
 
-In [osu!](/wiki/Game_mode/osu!), enabling the Relax mod only requires the player to hover their cursor over [hit objects](/wiki/Hit_object); all hit objects will be automatically tapped by osu!. The mod makes it impossible to fail the beatmap in all game modes.
+In [osu!](/wiki/Game_mode/osu!), enabling the Relax mod only requires the player to hover their cursor over [hit objects](/wiki/Gameplay/Hit_object); all hit objects will be automatically tapped by osu!. The mod makes it impossible to fail the beatmap in all game modes.
 
 The Relax mod also disables the in-game interface, thus hiding the [score](/wiki/Gameplay/Score), [combo](/wiki/Beatmapping/Combo), and misses, although this can be re-enabled by pressing `Shift`+`Tab`. Additionally, the spins per minute (SPM) value will be doubled, allowing the player to spin much faster and thus obtain a higher score than would in a regular play.
 

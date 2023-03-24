@@ -94,7 +94,7 @@ Dans osu! et osu!catch, cela affecte également les [HP passifs](/wiki/Client/In
 
 Le **circle size**, communément abrégée en CS, n'existe que dans osu! et osu!catch. CS détermine la taille des objets ou, plus précisément dans osu!catch, détermine la taille de l'attrapeur et du fruit. Les valeurs vont de 2 à 7 ; plus les valeurs CS sont élevées, plus les objets sont petits. En utilisant la valeur la plus élevée, les objets seront aussi grands que le curseur.
 
-La plupart des beatmaps utilisent une valeur de 3 ou 4, tandis qu'une valeur de 5 ou 6 est parfois utilisée et une valeur de 7 n'est presque jamais utilisée. Une valeur de 7 et plus est susceptible d'être vue lors de l'utilisation du mod [Hard Rock](/wiki/Game_modifier/Hard_Rock).
+La plupart des beatmaps utilisent une valeur de 3 ou 4, tandis qu'une valeur de 5 ou 6 est parfois utilisée et une valeur de 7 n'est presque jamais utilisée. Une valeur de 7 et plus est susceptible d'être vue lors de l'utilisation du mod [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock).
 
 Le réglage de la valeur CS à une valeur inférieure à 2 ou supérieure à 7 peut être fait en modifiant manuellement le fichier `.osu`.
 
@@ -106,7 +106,7 @@ En cochant la case "Co-op mode", le montant sélectionné sera doublé (à parti
 
 ### Approach rate
 
-*Page principale : [Approach rate](/wiki/Beatmapping/Approach_rate)*
+*Page principale : [Approach rate](/wiki/Beatmap/Approach_rate)*
 
 ![Tableau détaillé de l'AR](/wiki/shared/ARTable.jpg "Tableau détaillé de l'AR")
 
@@ -122,16 +122,16 @@ La durée d'un objet qui reste visible à l'écran (sans mods) varie de 1800ms (
 
 Il existe quatre mods qui modifient le timing de l'approach rate lorsqu'ils sont activés :
 
-- [Easy](/wiki/Game_modifier/Easy) : Divise par deux la valeur AR. (par exemple, AR10→AR5)
-- [Hard Rock](/wiki/Game_modifier/Hard_Rock) :  Multiplie la valeur d'AR par 1,40, jusqu'à AR10 au maximum. (par exemple, on passe de AR3 à AR4.2 ou de AR9 à AR10)
-- [Double Time](/wiki/Game_modifier/Double_Time) : La valeur d'AR n'est pas affectée, mais en raison de l'augmentation de 50% de la vitesse de lecture, les cercles restent à l'écran 33% de millisecondes en moins.
-- [Half Time](/wiki/Game_modifier/Half_Time) : La valeur d'AR n'est pas affectée, mais en raison de la diminution de 25 % de la vitesse de lecture, les cercles restent à l'écran 33 % de millisecondes de plus.
+- [Easy](/wiki/Gameplay/Game_modifier/Easy) : Divise par deux la valeur AR. (par exemple, AR10→AR5)
+- [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock) :  Multiplie la valeur d'AR par 1,40, jusqu'à AR10 au maximum. (par exemple, on passe de AR3 à AR4.2 ou de AR9 à AR10)
+- [Double Time](/wiki/Gameplay/Game_modifier/Double_Time) : La valeur d'AR n'est pas affectée, mais en raison de l'augmentation de 50% de la vitesse de lecture, les cercles restent à l'écran 33% de millisecondes en moins.
+- [Half Time](/wiki/Gameplay/Game_modifier/Half_Time) : La valeur d'AR n'est pas affectée, mais en raison de la diminution de 25 % de la vitesse de lecture, les cercles restent à l'écran 33 % de millisecondes de plus.
 
 Alors que les mods Half Time *(HT)* et Double Time *(DT)* ne modifient pas la valeur réelle de l'AR, la différence de vitesse entraîne un changement d'AR apparent, aussi bas que AR-5 ou aussi élevé que AR11. Dans le tableau d'AR fourni, ces valeurs apparentes sont données pour permettre une comparaison facile entre les vitesses d'approche avec et sans mods. L'AR réel, cependant, est toujours un nombre compris entre 0 et 10. Notez que les niveaux d'AR s'échelonnent de 120 ms pour une valeur inférieure à l'AR5 et de 150 ms pour une valeur supérieure à l'AR5.
 
 ### Overall difficulty
 
-*Page principale : [overall difficulty](/wiki/Beatmapping/Overall_difficulty)*
+*Page principale : [overall difficulty](/wiki/Beatmap/Overall_difficulty)*
 
 ![](/wiki/shared/ODTable.png "Comparaison des fenêtres de timing pour différentes combinaisons d'OD et de modificateurs de jeu. Pour les mods Half Time et Double Time, les valeurs d'OD indiquées ne sont valables que pour les 300, et seraient différentes pour les 100 et 50.")
 
@@ -148,7 +148,7 @@ Effets supplémentaires de l'augmentation de l'OD dans chaque mode de jeu :
 - osu!taiko : Le denden (spinner) nécessite plus de coups pour être éliminé.
 - osu!mania et osu!catch ne sont pas affectés par l'OD.
 
-Pour calculer les fenêtres de hits, voir les formules de l'[article sur l'overall difficulty](/wiki/Beatmapping/Overall_difficulty).
+Pour calculer les fenêtres de hits, voir les formules de l'[article sur l'overall difficulty](/wiki/Beatmap/Overall_difficulty).
 
 ---
 
@@ -156,10 +156,10 @@ Pour calculer les fenêtres de hits, voir les formules de l'[article sur l'overa
 
 Il existe quatre mods qui modifient le timing de l'overall difficulty lorsqu'ils sont activés :
 
-- [Easy](/wiki/Game_modifier/Easy): Divise par deux la valeur de l'OD.
-- [Hard Rock](/wiki/Game_modifier/Hard_Rock): Multiplie la valeur de l'OD par 1,4, jusqu'à OD10 au maximum.
-- [Double Time](/wiki/Game_modifier/Double_Time): La valeur de l'OD n'est pas affectée, mais en raison de l'augmentation de 50 % de la vitesse, les fenêtres de hits sont effectivement 33 % plus courtes.
-- [Half Time](/wiki/Game_modifier/Half_Time): La valeur de l'OD n'est pas affectée, mais en raison de la diminution de 25 % de la vitesse, les fenêtres de hits sont effectivement 33 % plus longues.
+- [Easy](/wiki/Gameplay/Game_modifier/Easy): Divise par deux la valeur de l'OD.
+- [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock): Multiplie la valeur de l'OD par 1,4, jusqu'à OD10 au maximum.
+- [Double Time](/wiki/Gameplay/Game_modifier/Double_Time): La valeur de l'OD n'est pas affectée, mais en raison de l'augmentation de 50 % de la vitesse, les fenêtres de hits sont effectivement 33 % plus courtes.
+- [Half Time](/wiki/Gameplay/Game_modifier/Half_Time): La valeur de l'OD n'est pas affectée, mais en raison de la diminution de 25 % de la vitesse, les fenêtres de hits sont effectivement 33 % plus longues.
 
 Alors que les mods Half Time *(HT)* et Double Time *(DT)* ne changent pas la valeur réelle de l'OD, l'effet de la vitesse sur les hit windows fera que les objets sembleront avoir une OD apparente inférieure ou supérieure, respectivement. Dans le tableau de l'OD fourni, les valeurs d'OD apparentes sont indiquées pour permettre la comparaison entre les temps avec et sans ces mods. Notez que ces valeurs d'OD apparentes ne s'appliquent qu'aux 300 sur les cercles. Les fenêtres pour les 100, les 50 et les sliders (qui utilisent la hit windows 50) sont plus sévères avec le Double Time que ne le suggère cette OD apparente et plus clémentes avec le Half Time. Encore une fois, en dehors du NoMod, Hard Rock *(HR)* et Easy *(EZ)* (sur le côté gauche), les valeurs de l'OD fournies ne servent qu'à des fins de comparaison : la valeur réelle de l'OD est toujours un nombre compris entre 0 et 10.
 

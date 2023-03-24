@@ -147,7 +147,7 @@ Plays the beatmap. Outro storyboarding requires storyboard scripting. Playback S
 
 ## Limitations
 
-- No sound effect support, this is not a big problem as sound effects can distract players, especially if they are near [hit objects](/wiki/Hit_object). Use of sound effects should be done by advanced mappers only and with the guidance of a BAT.
+- No sound effect support, this is not a big problem as sound effects can distract players, especially if they are near [hit objects](/wiki/Gameplay/Hit_object). Use of sound effects should be done by advanced mappers only and with the guidance of a BAT.
 - No [loop](/wiki/Storyboard/Scripting/Compound_Commands) or [trigger](/wiki/Storyboard/Scripting/Compound_Commands) support.
 - No [Move-X](/wiki/Storyboard/Scripting/Commands)/[Move-Y](/wiki/Storyboard/Scripting/Commands) commands.
 - Sprite coordinate is *always* 320,240. You will need to use Move command once to set the location (endpoint not required).

@@ -1,6 +1,6 @@
 # Diagnostic
 
-*Page principale: [osu!tourney](/wiki/osu!tourney)*
+*Page principale: [osu!tourney](/wiki/osu!_tournament_client/osu!tourney)*
 
 ## Comment créer un nouvelle installation d'osu! sans désinstaller le jeu actuel ?
 
@@ -22,7 +22,7 @@ Utilisez une nouvelle installation d'osu!
 ## L'image de fond d'osu!tourney n'est pas affichée !
 
 Assurez-vous que le fichier d'image est `/osu!/Skins/User/tournament/background.png`.
-Voir le [guide de skinning](/wiki/osu!tourney/Skinning) pour plus de détails.
+Voir le [guide de skinning](/wiki/osu!_tournament_client/osu!tourney/Skinning) pour plus de détails.
 
 ## Comment retrouver osu! normal ?
 
@@ -36,7 +36,7 @@ Si le client n'observe toujours pas, cliquez sur le bouton `Panic`.
 ## La salle ne se montre pas !
 
 Il est possible que votre salle soit mal nommée ou que vous utilisez le mauvais acronyme dans le fichier `tournament.cfg`.
-Assurez-vous que la salle soit bien nommée en suivant le [guide d'utilisation du multijoueur](/wiki/osu!tourney/Multiplayer_usage).
+Assurez-vous que la salle soit bien nommée en suivant le [guide d'utilisation du multijoueur](/wiki/osu!_tournament_client/osu!tourney/Multiplayer_usage).
 
 ## Les noms des équipes ne sont pas montrés !
 
@@ -46,7 +46,7 @@ Voir la réponse précédente.
 
 Nous vous recommandons d'utiliser [Open Broadcaster Software](https://obsproject.com/), mais n'importe quel programme de streaming qui peut capturer un écran peut aussi être utilisé.
 
-La résolution de la partie supérieure d'osu!tourney peut aussi être personnalisée dans le fichier `tournament.cfg`, par défaut, c'est du `1280x720`. Asssurez-vous que la résolution de votre écran est plus grande que cette valeur. Voir le [guide de mise en place](/wiki/osu!tourney/Setup) pour savoir comment changer la résolution.
+La résolution de la partie supérieure d'osu!tourney peut aussi être personnalisée dans le fichier `tournament.cfg`, par défaut, c'est du `1280x720`. Asssurez-vous que la résolution de votre écran est plus grande que cette valeur. Voir le [guide de mise en place](/wiki/osu!_tournament_client/osu!tourney/Setup) pour savoir comment changer la résolution.
 
 N'oubliez pas d'ajuster le découpage pour supprimer le panneau de contrôle noir du stream !
 

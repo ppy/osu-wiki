@@ -9,7 +9,7 @@ Also check if the article matches with ASC. See #5729 for more informations -->
 
 # Slider mapping techniques
 
-*See also: [Making Good Sliders](/wiki/Mapping_techniques/Making_good_sliders)*
+*See also: [Making Good Sliders](/wiki/Beatmapping/Mapping_techniques/Making_good_sliders)*
 
 <!-- please place all mapping techniques in alphabetical order -->
 
@@ -33,8 +33,8 @@ Nominator: [Lizzy](https://osu.ppy.sh/users/1394757)
 **Introverted flow** is (literally translated from Latin) "pointing towards inside".
 This can be seen as:
 
-- a sharp flow dropoff from an arc to another that sometimes [blankets](/wiki/Mapping_techniques/Formations#blanket-combos) the start of the previous one.
-- a not-so sharp dropoff making the first arc [blanket](/wiki/Mapping_techniques/Formations#blanket-combos) the end of the second one, with or without hit circle between.
+- a sharp flow dropoff from an arc to another that sometimes [blankets](/wiki/Beatmapping/Mapping_techniques/Formations#blanket-combos) the start of the previous one.
+- a not-so sharp dropoff making the first arc [blanket](/wiki/Beatmapping/Mapping_techniques/Formations#blanket-combos) the end of the second one, with or without hit circle between.
 
 ### Mirrored Sliders
 
@@ -60,7 +60,7 @@ They are usually done with [Etna sliders](#etna-sliders), but can also be used w
 
 *Also known as: **Kick Slider***
 
-*Not to be confused with [Hold Sliders](/wiki/Mapping_techniques/Unrankable#hold-sliders).*
+*Not to be confused with [Hold Sliders](/wiki/Beatmapping/Mapping_techniques/Unrankable#hold-sliders).*
 
 Nominator: [kingcobra52](https://osu.ppy.sh/users/9934)
 
