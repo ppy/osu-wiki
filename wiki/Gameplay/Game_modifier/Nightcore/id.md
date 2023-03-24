@@ -12,8 +12,8 @@ tags:
 ![Ikon mod NC](/wiki/shared/mods/NC.png "Ikon mod Nightcore (NC)")
 
 *Berbeda konteks dengan [Nightcore (genre)](https://en.wikipedia.org/wiki/Nightcore).*\
-*Kunjungi juga: [NC (disambiguasi)](/wiki/Disambiguation/NC), [Double Time (mod)](/wiki/Game_modifier/Double_Time)*\
-*Untuk melihat daftar keseluruhan dari semua mod, kunjungi: [Game Modifier](/wiki/Game_modifier)*
+*Kunjungi juga: [NC (disambiguasi)](/wiki/Disambiguation/NC), [Double Time (mod)](/wiki/Gameplay/Game_modifier/Double_Time)*\
+*Untuk melihat daftar keseluruhan dari semua mod, kunjungi: [Game Modifier](/wiki/Gameplay/Game_modifier)*
 
 ## Tentang
 
@@ -27,13 +27,13 @@ tags:
 - Tombol shortcut default: `D` `D` atau `Shift`+`D`
 - Caption: `uguuuuuuuu`
 - Mode-mode permainan yang cocok: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- Variasi: [Double Time](/wiki/Game_modifier/Double_Time)
+- Variasi: [Double Time](/wiki/Gameplay/Game_modifier/Double_Time)
 
 ## Deskripsi
 
-Mod **Nightcore** adalah sebuah [game modifier](/wiki/Game_modifier) yang berfungsi sama seperti variasinya (Double Time), yang membedakan dengan variannya adalah mod ini meningkatkan nada dan menambahkan sebuah suara drum di latar belakang—dalam timing 4/4—dengan mengikuti urutan beat 1 dan 3 pada drum bass, beat 2 dan 4 pada clap, dan beat 1 setiap 4 measure pada crash.
+Mod **Nightcore** adalah sebuah [game modifier](/wiki/Gameplay/Game_modifier) yang berfungsi sama seperti variasinya (Double Time), yang membedakan dengan variannya adalah mod ini meningkatkan nada dan menambahkan sebuah suara drum di latar belakang—dalam timing 4/4—dengan mengikuti urutan beat 1 dan 3 pada drum bass, beat 2 dan 4 pada clap, dan beat 1 setiap 4 measure pada crash.
 
-[Pengali skor](/wiki/Game_modifier/Score_multiplier) untuk mod Nightcore tetaplah sama seperti mod Double Time, dan beatmap tidak akan terpengaruhi selain dari pengaruh yang sudah ada pada mod Double Time.
+[Pengali skor](/wiki/Gameplay/Game_modifier/Score_multiplier) untuk mod Nightcore tetaplah sama seperti mod Double Time, dan beatmap tidak akan terpengaruhi selain dari pengaruh yang sudah ada pada mod Double Time.
 
 Mod ini mempunyai fungsi yang sama untuk semua mode-mode permainan.
 

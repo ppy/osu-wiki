@@ -26,7 +26,7 @@ tags:
 
 ## Salas multijugador semanales
 
-A partir de ahora, unirse a las salas multijugador semanales requiere que los participantes descarguen e instalen [osu!(lazer)](https://github.com/ppy/osu/releases).
+A partir de ahora, unirse a las salas multijugador semanales requiere que los participantes descarguen e instalen [osu!(lazer)](/wiki/Client/Release_stream/Lazer).
 
 1. Cada 2 semanas de una temporada, se abre una sola sala de lista de juego. Todos pueden participar durante las dos semanas.
    - Después de la primera ola de salas, las listas de juego se abrirán nuevamente semanalmente.

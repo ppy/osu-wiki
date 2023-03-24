@@ -14,7 +14,6 @@ Un article ordinaire, s'il a un titre similaire, doit utiliser la hatnote ["Pour
 - [Mod](Mod)
 - [NC](NC)
 - [NM](NM)
-- [Offset](Offset)
 - [osu!](osu!)
 - [Ouendan](Ouendan)
 - [Rank](Rank)

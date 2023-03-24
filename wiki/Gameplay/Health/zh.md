@@ -11,11 +11,11 @@ tags:
 
 # 血量
 
-**血量**（HP）是用来判定玩家有没有通过一张[谱面](/wiki/Beatmap)的数值。血量以[血条](/wiki/Client/Interface/Health_bar)的形式显示，并且会在游戏时不断变化。[掉血速度](/wiki/Beatmapping/HP_drain_rate)决定了保持较高血量的难易程度。
+**血量**（HP）是用来判定玩家有没有通过一张[谱面](/wiki/Beatmap)的数值。血量以[血条](/wiki/Client/Interface/Health_bar)的形式显示，并且会在游戏时不断变化。[掉血速度](/wiki/Beatmap/HP_drain_rate)决定了保持较高血量的难易程度。
 
 ## osu!
 
-在 [osu!](/wiki/Game_mode/osu!) 模式下，血量会以一个固定的速度流失，这叫做[掉血](/wiki/Beatmapping/Health_drain)。通过准确地击打物件或旋转转盘可以回复血量。
+在 [osu!](/wiki/Game_mode/osu!) 模式下，血量会以一个固定的速度流失，这叫做掉血。通过准确地击打物件或旋转转盘可以回复血量。
 
 每成功击打一个物件时，相应的评分（Score burst）会显示出来，根据这个评分，总分和血量也会相应变化。准确击打（得分 300）会比糟糕击打（得分 50）回复更多的血量。在一串连击（Combo）的末尾打出 **激** 或者 **喝** 也会一下回复许多血量。反过来，漏掉物件会扣血。如果玩家提前完成了转盘，继续旋转它也可以额外回复血量。
 
@@ -68,7 +68,7 @@ tags:
 
 ## osu!catch
 
-在 [osu!catch](/wiki/Game_mode/osu!catch) 模式下，血量会以一个固定的速度流失，这叫做[掉血](/wiki/Beatmapping/Health_drain)。通过接住水果（Fruits）和水果串（Juice Drops）可以回复血量。
+在 [osu!catch](/wiki/Game_mode/osu!catch) 模式下，血量会以一个固定的速度流失，这叫做掉血。通过接住水果（Fruits）和水果串（Juice Drops）可以回复血量。
 
 每成功接住一个水果时，相应的评分会显示出来，根据这个评分，总分和血量也会相应变化。在一串连击的末尾获得 **激** 也会一下回复许多血量。反过来，漏掉水果会扣血。漏掉香蕉（Bananas）不会影响血量。
 
@@ -89,7 +89,7 @@ tags:
 
 ## osu!mania
 
-在 [osu!mania](/wiki/Game_mode/osu!mania) 模式下，只有音符（Hit Objects）会影响血量，没有[掉血](/wiki/Beatmapping/Health_drain)机制。
+在 [osu!mania](/wiki/Game_mode/osu!mania) 模式下，只有音符（Hit Objects）会影响血量，没有掉血机制。
 
 每成功击打一个音符时，相应的评分会显示出来，根据这个评分，总分和血量也会相应变化。准确击打（得分 300）会比糟糕击打（得分 50）回复更多的血量。反过来，漏掉音符会扣血。当按住长条（Hold Notes）时，血量会缓慢回复。
 

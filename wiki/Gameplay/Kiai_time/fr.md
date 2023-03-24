@@ -4,6 +4,8 @@ tags:
   - timing section
   - kiai mode
   - section de timing
+outdated_since: 6ba070987dcb26a0db6d9758aec6ad510c6a1b50
+outdated_translation: true
 ---
 
 # Kiai time
@@ -12,7 +14,7 @@ tags:
 
 Le **Kiai Time** (ou *kiai*) est un terme utilisé pour désigner une section de timing "spéciale" permettant de mettre en valeur une partie d'une [beatmap](/wiki/Beatmap). Les joueurs peuvent savoir si une partie d'une beatmap comporte une section de timing kiai s'ils voient des effets visuels ajoutés en arrière-plan (par exemple, des beats clignotants, des étoiles volantes et des fontaines).
 
-Lorsque le kiai est actif, tous les [objets](/wiki/Hit_object) clignoteront au rythme du [rythme principal](/wiki/Client/Beatmap_editor/Timing) et des étoiles exploseront du curseur lorsqu'un [cercle](/wiki/Hit_object/Hit_circle) sera frappé. Sinon, elles tomberont du curseur lorsqu'un [slider](/wiki/Hit_object/Slider) ou [spinner](/wiki/Hit_object/Spinner) sera suivi.
+Lorsque le kiai est actif, tous les [objets](/wiki/Gameplay/Hit_object) clignoteront au rythme du [rythme principal](/wiki/Client/Beatmap_editor/Timing) et des étoiles exploseront du curseur lorsqu'un [cercle](/wiki/Gameplay/Hit_object/Hit_circle) sera frappé. Sinon, elles tomberont du curseur lorsqu'un [slider](/wiki/Gameplay/Hit_object/Slider) ou [spinner](/wiki/Gameplay/Hit_object/Spinner) sera suivi.
 
 ## Beatmapping
 

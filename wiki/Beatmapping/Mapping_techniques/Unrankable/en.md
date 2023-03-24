@@ -26,7 +26,7 @@ This technique was named after the creator's former name, buraimaster1234 (now k
 
 ## Hold Sliders
 
-*Not to be confused with [Short Repeating Sliders](/wiki/Mapping_techniques/Sliders#short-repeating-sliders).*
+*Not to be confused with [Short Repeating Sliders](/wiki/Beatmapping/Mapping_techniques/Sliders#short-repeating-sliders).*
 
 Nominator: [Shinxyn](https://osu.ppy.sh/users/13996)
 
@@ -40,7 +40,7 @@ These sliders usually match the music, rather than being placed anywhere for no 
 
 ## Ninja Spinners
 
-*Not to be confused with [Short Spinners](/wiki/Mapping_techniques/Spinners#short-spinners).*
+*Not to be confused with [Short Spinners](/wiki/Beatmapping/Mapping_techniques/Spinners#short-spinners).*
 
 **Ninja spinners** are extremely short spinners that are usually placed in locations where the player has no time to prepare themselves for them.
 In addition to this, the community has decided to ban these spinners due to their abuse.

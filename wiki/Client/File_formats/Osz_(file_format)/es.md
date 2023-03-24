@@ -1,3 +1,3 @@
-# .osz (Tipo de archivo)
+# .osz (formato de archivo)
 
-Los archivos **.osz** contienen beatmaps y recursos adicionales como skins o hitsounds.
+**.osz** es un archivo general que contiene beatmaps y cualquier recurso adicional, como skins o hitsounds.

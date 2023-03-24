@@ -123,7 +123,7 @@ Hay un total de 7 estados que se pueden mostrar con el comando `!stats`: Editing
 !faq list
 ```
 
-`!faq` muestra el contenido de una entrada. Alternativamente, el argumento `list` se puede usar para mostrar todas las entradas disponibles. Por defecto, BanchoBot responderá en Ingles,  pero es posible recibir una respuesta en otro idioma anteponiendo la entrada con el [código de dos letras](/wiki/Article_styling_criteria/Formatting#locales). A continuación se muestran ejemplos de envío de este comando:
+`!faq` muestra el contenido de una entrada. Alternativamente, el argumento `list` se puede usar para mostrar todas las entradas disponibles. Por defecto, BanchoBot responderá en Ingles,  pero es posible recibir una respuesta en otro idioma anteponiendo la entrada con el [código de dos letras](/wiki/Article_styling_criteria/Formatting#configuraciones-regionales). A continuación se muestran ejemplos de envío de este comando:
 
 ```
 13:03 pippi: !faq peppy
@@ -143,7 +143,7 @@ Hay un total de 7 estados que se pueden mostrar con el comando `!stats`: Editing
 !report <usuario> <motivo>
 ```
 
-`!report` notifica al [Equipo de Moderación Global](/wiki/People/The_Team/Global_Moderation_Team) sobre el comportamiento inapropiado de un usuario. Si un usuario tiene espacios en su nombre de usuario, reemplácelos con guiones bajos (por ejemplo, `really cool username` se convierte en `really_cool_username`). Para reportar un moderador, contacte al [equipo de apoyo de cuentas](/wiki/People/The_Team/Account_support_team#support@ppy.sh). A continuación se muestra un ejemplo de reporte de un usuario normal a través de BanchoBot:
+`!report` notifica al [Equipo de Moderación Global](/wiki/People/Global_Moderation_Team) sobre el comportamiento inapropiado de un usuario. Si un usuario tiene espacios en su nombre de usuario, reemplácelos con guiones bajos (por ejemplo, `really cool username` se convierte en `really_cool_username`). Para reportar un moderador, contacte al [equipo de apoyo de cuentas](/wiki/People/Account_support_team#support@ppy.sh). A continuación se muestra un ejemplo de reporte de un usuario normal a través de BanchoBot:
 
 ```
 13:10 pippi: !report flyte spamming in #japanese

@@ -6,7 +6,7 @@ outdated_since: 4a75f667505af5dc619a81b7326eac73d6483a3e
 
 # osu! 社群會議 (osu! community meetings)
 
-**osu! 社群會議**是由 [osu! 團隊](/wiki/People/The_Team)隔周舉行的討論會談。主要目的為讓任何人都有機會與開發與社群管理團隊直接對話，並提出問題供討論或進一步考慮。
+**osu! 社群會議**是由 [osu! 團隊](/wiki/People/osu!_team)隔周舉行的討論會談。主要目的為讓任何人都有機會與開發與社群管理團隊直接對話，並提出問題供討論或進一步考慮。
 
 [很久以前](https://twitter.com/ppy/status/1169256824052170755)，osu! 團隊曾經定期舉辦每個人都可以發言的社群會議，但隨著遊戲規模擴大，此方案不再可行。取而代之的是透過 Discord 實現的隊列系統，將問題個個解決。
 
@@ -34,7 +34,7 @@ outdated_since: 4a75f667505af5dc619a81b7326eac73d6483a3e
 
 | 會議編號 | 連結 | 摘要 | 議程 |
 | :-: | :-- | :-- | :-- |
-| 0 | [2021 年 9 月 19 號](https://youtu.be/-LjNll8VYTM) | [筆記](https://gist.github.com/peppy/08b38cbac56a8b1e88133853a6a8d2fb) | 大致介紹此會議、審核標準、難度及 pp、osu!(lazer) |
+| 0 | [2021 年 9 月 19 號](https://youtu.be/-LjNll8VYTM) | [筆記](https://gist.github.com/peppy/08b38cbac56a8b1e88133853a6a8d2fb) | 大致介紹此會議、審核標準、難度及 pp、[osu!(lazer)](/wiki/Client/Release_stream/Lazer) |
 | 1 | [2021 年 10 月 3 號](https://youtu.be/D3OZCm6szVE) | [筆記](https://docs.google.com/document/d/1-miPFZySYlYbtPW4G0828taycO1gh7dZ4icfSJCr4uA) | 各類由社群提出的問題、開發最新進度 |
 | 2 | [2021 年 10 月 17 號](https://youtu.be/nLT-fLeogrw) | [筆記](https://docs.google.com/document/d/1wEQjzku_4IzvcWRanu0GkvWiPvb-IB7WzwU7Eyojj2E) | 各類由社群提出的問題 |
 | 3 | [2021 年 10 月 31 號](https://youtu.be/omvZbC7zJUI) | [筆記](https://docs.google.com/document/d/1bhaMx--chdys8AbzSDOItbv710SVhsww2BYPzQg2rvw) | 各類由社群提出的問題 |

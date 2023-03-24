@@ -50,3 +50,4 @@ More information about the second version of the osu!monthly may be found on [th
 | [osu!monthly, November 2022](https://osu.ppy.sh/home/news/2022-12-01-osumonthly-5) | 2022-12-05 |
 | [osu!monthly, December 2022](https://osu.ppy.sh/home/news/2023-01-06-osumonthly-6) | 2023-01-06 |
 | [osu!monthly, January 2023](https://osu.ppy.sh/home/news/2023-02-10-osumonthly-7) | 2023-02-10 |
+| [osu!monthly, February 2023](https://osu.ppy.sh/home/news/2023-03-02-osumonthly-8) | 2023-03-02 |

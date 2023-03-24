@@ -12,7 +12,7 @@ tags:
 
 ## osu!
 
-In [osu!](/wiki/Game_mode/osu!), each [hit object](/wiki/Hit_object) has its own combo number and [combo colour](/wiki/Beatmapping/Combo_colour). When a new combo is started, the combo colour changes and the combo number resets to one. This counts up for each following object.
+In [osu!](/wiki/Game_mode/osu!), each [hit object](/wiki/Gameplay/Hit_object) has its own combo number and [combo colour](/wiki/Beatmapping/Combo_colour). When a new combo is started, the combo colour changes and the combo number resets to one. This counts up for each following object.
 
 *Note: [Spinners](/wiki/Gameplay/Hit_object/Spinner) force the next hit object to start a new combo.*
 

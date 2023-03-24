@@ -7,11 +7,11 @@
 
 ![根据玩家在房间中的格子位置将其分配给窗口](img/Osutourneywindows.png)
 
-为了使客户端能正常工作，请确保玩家在多人房间里占据适当的格子。*关于格子的占用与分配，请参见：[osu!tourney/多人游戏房间管理](/wiki/osu!tourney/Multiplayer_usage)。*
+为了使客户端能正常工作，请确保玩家在多人房间里占据适当的格子。*关于格子的占用与分配，请参见：[osu!tourney/多人游戏房间管理](/wiki/osu!_tournament_client/osu!tourney/Multiplayer_usage)。*
 
 ![osu!tourney 控制面板](img/Osutourneypanel.png)
 
-在客户端的底部，你将看到控制面板。默认情况下，它将显示你需要遵循的多人房间命名模板。*关于命名模板，请参见：[osu!tourney/多人游戏房间管理](/wiki/osu!tourney/Multiplayer_usage)。*
+在客户端的底部，你将看到控制面板。默认情况下，它将显示你需要遵循的多人房间命名模板。*关于命名模板，请参见：[osu!tourney/多人游戏房间管理](/wiki/osu!_tournament_client/osu!tourney/Multiplayer_usage)。*
 
 底部按钮的功能描述：
 

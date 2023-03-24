@@ -38,7 +38,7 @@ no_native_review: true
 - [\[Album\] Anamanaguchi - Scott Pilgrim vs The World (the game)](https://osu.ppy.sh/community/forums/topics/37908)
 - [\[Album\] Daft Punk - Random Access Memories](https://osu.ppy.sh/community/forums/topics/132592)
 
-**Collab:** Создание [группового проекта](/wiki/Beatmap/Beatmap_collaborations) для определенной песни. Карта со [сторибордом](/wiki/Storyboard) которые делали другие люди и [карта марафона](/wiki/Beatmap/Marathon) также считаются коллабом. Если есть желание создать подобную карту, обязательно прочтите [специальное руководство по коллабам](/wiki/Guides/Collab_Information).
+**Collab:** Создание [группового проекта](/wiki/Beatmap/Beatmap_collaborations) для определенной песни. Карта со [сторибордом](/wiki/Storyboard) которые делали другие люди и [карта марафона](/wiki/Beatmap/Marathon) также считаются коллабом.
 
 Пример:
 

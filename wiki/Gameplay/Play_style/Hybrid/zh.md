@@ -13,15 +13,15 @@ tags:
 
 # 单双
 
-**单双** 在英文交流圈称为混合指法 (Hybrid)，是 [osu!](/wiki/Game_mode/osu!) 模式中的一种指法。在这种指法中，玩家混合使用[单戳](/wiki/Play_style/Single-tapping)和[切指](/wiki/Play_style/Alternating)来点击圆圈、拖动滑条和旋转转盘。这种指法在各种水准的玩家中都有应用。此外，使用这种指法所需要的技巧和经验也因谱面风格而异。
+**单双** 在英文交流圈称为混合指法 (Hybrid)，是 [osu!](/wiki/Game_mode/osu!) 模式中的一种指法。在这种指法中，玩家混合使用[单戳](/wiki/Gameplay/Play_style/Single-tapping)和[切指](/wiki/Gameplay/Play_style/Alternating)来点击圆圈、拖动滑条和旋转转盘。这种指法在各种水准的玩家中都有应用。此外，使用这种指法所需要的技巧和经验也因谱面风格而异。
 
 ## 用法和技巧
 
 单双有几种不同的用法：
 
-- 有些玩家打图时，每隔一定的时间，切换用于单戳的按键（俗称切换主指，默认按键是 `Z` 和 `X`）来点击[物件](/wiki/Hit_object)。同时尽量在[堆叠](/wiki/Mapping_techniques/Stack)排列出现时使用切指。
+- 有些玩家打图时，每隔一定的时间，切换用于单戳的按键（俗称切换主指，默认按键是 `Z` 和 `X`）来点击[物件](/wiki/Gameplay/Hit_object)。同时尽量在[堆叠](/wiki/Beatmapping/Mapping_techniques/Stack)排列出现时使用切指。
 - 有些玩家会根据谱面物件出现的速度，来混合使用单戳和切指：某些速度更适合切指，某些则更适合单戳。许多单双玩家都能在二者中切换自如，但至于在哪个速度用哪种指法，则看个人习惯。
-- 其他玩家会将[双按](/wiki/Play_style/Double_tapping)、单戳、切指混合使用，随机应变，灵活打图。当然，这些都只是个人喜好问题。
+- 其他玩家会将[双按](/wiki/Gameplay/Play_style/Double_tapping)、单戳、切指混合使用，随机应变，灵活打图。当然，这些都只是个人喜好问题。
 
 ## 争议
 

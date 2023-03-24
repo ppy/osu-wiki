@@ -166,8 +166,6 @@ Le développement d'AiMod est généralement en retard par rapport aux normes de
 
 ## Défauts
 
-<!-- TODO: I'm sure there are more flaws, just can't think of any more off the top of my head -->
-
 - **AiMod ne peut pas détecter un grand nombre de problèmes** qui sont considérés comme non classables par les [critères de classement](/wiki/Ranking_Criteria), tels que les objets potentiellement mal rythmés, les hitsounds retardés, les fichiers d'arrière-plan de plus de 2,5 Mo, etc.
 - **AiMod peut vous avertir de l'absence de problèmes**, comme le fait que les beatmaps nécessitent deux difficultés du mode osu! sur une beatmap [marathon](/wiki/Beatmap/Marathon) et que l'option [kiai time](/wiki/Gameplay/Kiai_time) soit activée pendant moins de 15 secondes.
 - **Si `Check distance snap` est activé, AiMod ne vérifiera pas la distance snap entre les combos.**

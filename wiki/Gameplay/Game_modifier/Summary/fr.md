@@ -1,6 +1,6 @@
 # Résumé des modificateurs de jeu
 
-*Page principale : [Modificateurs de jeu](/wiki/Game_modifier)*\
+*Page principale : [Modificateurs de jeu](/wiki/Gameplay/Game_modifier)*\
 *Note : Tous les mods utilisés dans osu!mania n'augmenteront jamais le multiplicateur de score.*
 
 | Mod | Nom (Abréviation) | Multiplicateur | Légende |
