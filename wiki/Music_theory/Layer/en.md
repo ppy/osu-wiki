@@ -6,7 +6,7 @@ tags:
 
 # Layer
 
-A **musical layer** is a part of the song which contains features with a common aspect between them. A significant part of [mapping](/wiki/Beatmapping) in every [game mode](/wiki/Game_mode) revolves around following different kinds of layers (percussion, vocals, sound patterns) consistently, and switching between them for the purpose of emphasis and contrast.
+A **musical layer** is a part of the song which contains features with a common aspect between them. A significant part of [beatmapping](/wiki/Beatmapping) in every [game mode](/wiki/Game_mode) revolves around consistently following different kinds of layers (percussion, vocals, and sound patterns), and switching between them for the purpose of emphasis and contrast.
 
 ## Description
 
