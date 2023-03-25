@@ -16,7 +16,7 @@ Typically, a single layer in a musical piece represents a group of instruments o
 
 While picking a layer to follow is usually up to a beatmap author's discretion, the choices are usually the most obvious and recognisable ones:
 
-- Percussion, such as drums, hi-hats, or other similar instruments providing the [beat pattern](/wiki/Music_theory/Beat)
+- Percussion, such as drums, hi-hats, or other similar instruments
 - Instruments forming the main melody pattern(s)
 - Vocal party
 
