@@ -61,7 +61,7 @@ Il n'incrémente pas le compteur de combo, et ne redonne pas de vie de quelque m
 
 ## Styles de jeu
 
-*Voir [Styles de jeu sous osu!taiko](/wiki/Play_style).*
+*Voir [Styles de jeu sous osu!taiko](/wiki/Gameplay/Play_style).*
 
 ## Contrôles
 
@@ -74,13 +74,13 @@ Les contrôles par défaut pour osu!taiko sont :
 
 La position du curseur n'a pas d'importance dans ce mode de jeu.
 
-Si le mod [Relax](/wiki/Game_modifier/Relax) été utilisé, le jugement du score ne tient compte que du timing des coups (il rectifie automatiquement les coups de mauvaise couleur avec la bonne couleur).
+Si le mod [Relax](/wiki/Gameplay/Game_modifier/Relax) été utilisé, le jugement du score ne tient compte que du timing des coups (il rectifie automatiquement les coups de mauvaise couleur avec la bonne couleur).
 
 Le contrôleur de batterie *TaTaCon* a été conçu principalement pour les portages domestiques de *Taiko no Tatsujin* et *Taiko : Drum Master*.
 
 ## Scoring
 
-Le [score dans osu!taiko](/wiki/Gameplay/Score/osu!taiko) est une somme pondérée de plusieurs composantes de la jouabilité. Il dépend des éléments suivants :
+Le [score dans osu!taiko](/wiki/Gameplay/Score/ScoreV1/osu!taiko) est une somme pondérée de plusieurs composantes de la jouabilité. Il dépend des éléments suivants :
 
 - Le [jugement](/wiki/Gameplay/Judgement/osu!taiko) détermine la valeur de base du score d'un objet (300, 100, ou 0 en cas de miss). La valeur des notes normales et des grandes notes dépend du timing du coup, tandis que la valeur de base de tous les autres objets est constante.
 - La [précision](/wiki/Gameplay/Accuracy#osu!taiko) dépend du jugement et montre la précision des coups. Les pressions de touche trop tôt ou trop tard, ainsi que les notes normales, diminuent la précision globale.
@@ -127,7 +127,7 @@ Notez également que des drumrolls 1/6 sont donnés si le slider tick rate de **
 - Contrairement aux autres modes de jeu, *Kiai Time* a un effet sur les scores car il fait référence au *"Go-Go Time "* de *Taiko no Tatsujin*. Lorsque le mode *Kiai Time* est actif, le tambour en haut à gauche change d'animation (il s'appelle *pippidon* ou *Don*/*Katsu* dans *Taiko no Tatsujin*), le terrain de jeu présente un dégradé d'arrière-plan et la zone touchée est entourée d'un graphique de feu.
   - En outre, toutes les notes frappées bénéficient d'un multiplicateur de score de 1,2x, y compris les longues notes jaunes, à l'exception des frappes sur un shaker (la dernière frappe est toujours multipliée).
 - La mascotte d'osu!taiko est [pippidon](/wiki/Mascots#pippi).
-- Lorsque le mod [Auto](/wiki/Game_modifier/Auto) est utilisé, le nom du joueur sera *mekkadosu!*.
+- Lorsque le mod [Auto](/wiki/Gameplay/Game_modifier/Auto) est utilisé, le nom du joueur sera *mekkadosu!*.
 
 ### Histoire
 

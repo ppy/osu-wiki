@@ -11,7 +11,7 @@ tags:
 
 *Para conocer los valores sugeridos de AR, véase: [Criterios de clasificación](/wiki/Ranking_Criteria)*
 
-La **velocidad de aproximación** (***AR***) es una configuración de dificultad del [beatmap](/wiki/Beatmap) que define cuándo los [objetos](/wiki/Hit_object) empiezan a desvanecerse en relación con cuándo deben ser golpeados o recolectados. Existe solo en [osu!](/wiki/Game_mode/osu!) y [osu!catch](/wiki/Game_mode/osu!catch).
+La **velocidad de aproximación** (***AR***) es una configuración de dificultad del [beatmap](/wiki/Beatmap) que define cuándo los [objetos](/wiki/Gameplay/Hit_object) empiezan a desvanecerse en relación con cuándo deben ser golpeados o recolectados. Existe solo en [osu!](/wiki/Game_mode/osu!) y [osu!catch](/wiki/Game_mode/osu!catch).
 
 Los valores de AR varían de 0 a 10. Las tasas de aproximación más altas significan que los objetos se mostrarán durante un período de tiempo más corto, lo que le dará menos tiempo al jugador para reaccionar. Por otro lado, las tasas de aproximación más bajas permiten más tiempo de reacción, pero pueden resultar en una cantidad abrumadora de objetos golpeados que aparecen en la pantalla a la vez.
 
@@ -50,9 +50,9 @@ La cantidad de tiempo que tarda para que el objeto desaparezca por completo, tam
 
 Hay cuatro mods que alteran la velocidad de aproximación cuando se activan:
 
-- [Easy](/wiki/Game_modifier/Easy): Reduce a la mitad el valor de AR.
-- [Hard Rock](/wiki/Game_modifier/Hard_Rock): Multiplica el valor de AR por 1.4, hasta un máximo de 10.
-- [Double Time](/wiki/Game_modifier/Double_Time): El valor de AR no se ve afectado, pero debido al aumento del 50 % en la velocidad del juego, los objetos permanecen en la pantalla durante un 33 % menos de tiempo.
-- [Half Time](/wiki/Game_modifier/Half_Time): El valor de AR no se ve afectado, pero debido a la disminución del 25 % en la velocidad del juego, los objetos permanecen en la pantalla durante un 33 % más de tiempo.
+- [Easy](/wiki/Gameplay/Game_modifier/Easy): Reduce a la mitad el valor de AR.
+- [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock): Multiplica el valor de AR por 1.4, hasta un máximo de 10.
+- [Double Time](/wiki/Gameplay/Game_modifier/Double_Time): El valor de AR no se ve afectado, pero debido al aumento del 50 % en la velocidad del juego, los objetos permanecen en la pantalla durante un 33 % menos de tiempo.
+- [Half Time](/wiki/Gameplay/Game_modifier/Half_Time): El valor de AR no se ve afectado, pero debido a la disminución del 25 % en la velocidad del juego, los objetos permanecen en la pantalla durante un 33 % más de tiempo.
 
 Si bien Half Time y Double Time no cambian el valor de AR, la diferencia de velocidad conduce a un cambio aparente de AR. Los AR de HT/DT se denominan comúnmente en términos de su valor percibido. Por ejemplo, "AR 8 + DT" también se puede escribir como "AR 9.6".
