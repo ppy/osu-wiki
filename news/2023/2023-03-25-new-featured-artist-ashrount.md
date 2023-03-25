@@ -74,11 +74,11 @@ We've been releasing new Featured Artists **twice per week** since September 202
 
 With this massive library (which we'd like to remind people is very possibly *the* biggest collection of licensed rhythm gaming music on the planet), the Featured Artist program has already met and gone far beyond its initial goal of providing osu! mappers with a wide variety of songs to choose from.
 
-That library will continue to grow of course, but given its current size, we aim to take less of a *"spam as many artists as possible"* approach, and shift towards **involving the broader osu! community in Featured Artists.**
+That library will continue to grow of course, but going forward we'll be taking on the approach of **involving the broader osu! community as much as possible in Featured Artist releases**. The past two and a half years have been fantastic for getting the ball rolling, and we now want to focus on helping people engage with our vast array of super talented artists, both old and new. If we're honest, releasing two amazing artists a week can get a bit overwhelming for people who want to really get involved, and cutting things back helps us figure out ways to make this happen.
 
-*Experimentation* is how we'll handle this going forward. We want to avoid complacency with cookie-cutter releases (...like how it's been recently), and instead make Featured Artists more fun by pairing releases with extra projects/events!
+*Experimentation* is how we're going to start this all off, particularly by pairing new releases with similarly new and exciting projects and events, such as beatmapping contests, streams and more.
 
-So to kick things off, next week's Featured Artist announcement will also have an accompanying livestream on the [osulive Twitch channel](https://www.twitch.tv/osulive) where [pishifat](https://osu.ppy.sh/users/3178418) (a.k.a. the dude writing this) creates a beatmap from start to finish using the new artist's music. If you make a map too, it'll be reviewed on the stream as well!
+So to really get things started, next week's Featured Artist announcement will also have an accompanying livestream on the [osulive Twitch channel](https://www.twitch.tv/osulive) where [pishifat](https://osu.ppy.sh/users/3178418) (a.k.a. the dude writing this) creates a beatmap from start to finish using the new artist's music. If you make a map too, it'll be reviewed on the stream as well!
 
 ...and that's all for now! To hear about what we'll be doing for releases *after that*, stay tuned. :)
 
