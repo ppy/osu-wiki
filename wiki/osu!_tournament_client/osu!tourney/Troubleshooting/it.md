@@ -53,4 +53,3 @@ Non ti dimenticate di regolare il ritaglio per rimuovere il pannello di controll
 Assicurati che osu! non sia eseguito come amministratore, a meno che non lo richieda da solo, e che sia aggiornato alla versione più recente di CuttingEdge.
 
 Invia un'e-mail a [tournaments@ppy.sh](mailto:tournaments@ppy.sh) se hai un problema che non è elencato qui. Assicurati di essere descrittivo e di fornire schermate, se possibile.
-
