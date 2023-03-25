@@ -50,8 +50,10 @@ The osu!taiko World Cup 2023 is run by various community members.
 
 ## Links
 
+- [Information spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQVZQZCgZ1cw1N6w0CGsnSGT2-ILaWMYo88bRDXQycx03Rw0yawJikrOGB_rsx1k0LVY7UaO1DVU_5J/pubhtml)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1722224)
 - [Livestream](https://www.twitch.tv/osulive)
+- [Challonge bracket](https://challonge.com/TWC_2023)
 - [Donate to the prize pool](https://opencollective.com/osu-tournaments/events/osu-taiko-world-cup-2023-13130e56)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/110) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
 
