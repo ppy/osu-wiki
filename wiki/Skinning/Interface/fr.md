@@ -188,7 +188,7 @@ Notes :
 
 ## Icônes des mods
 
-*Page principale : [Modificateurs de jeu](/wiki/Game_modifier)*
+*Page principale : [Modificateurs de jeu](/wiki/Gameplay/Game_modifier)*
 
 ---
 

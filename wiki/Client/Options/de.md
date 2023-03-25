@@ -393,7 +393,7 @@ Dieser Abschnitt ist über Beatmaps und Aktualisierungen.
 | `Alle Maps als "Gespielt" markieren` | Markiert alle Maps als "Gespielt". | Button |
 | `osu!-Updater starten` | Schließt den Spiel-Client und öffnet den Updater, um nach Aktualisierungen zu suchen und herunterzuladen, sofern verfügbar. | Button |
 
-Weiter unten wird die Versionsnummer angezeigt. Bei einem Klick wird das [Änderungsprotokoll](/wiki/Glossary/Changelog) für diese Version in deinem Webbrowser geöffnet.
+Weiter unten wird die Versionsnummer angezeigt. Bei einem Klick wird das [Änderungsprotokoll](/wiki/Changelog) für diese Version in deinem Webbrowser geöffnet.
 
 ### Debug
 

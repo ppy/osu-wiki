@@ -14,7 +14,7 @@ Jeder schwerwiegende Verstoß der [Community-Regeln](/wiki/Rules), der während 
 
 Solches Verhalten beinhaltet als Beispiel aus der Praxis das Zeichnen von Hasssymbolen/Beleidigungen (Hakenkreuz etc.) durch die Verwendung des Cursor-Rauchs in gestreamten Matches.
 
-Alle Nutzer, die nach einer Einschränkung im Rahmen der üblichen Beschwerdebedingungen zum Spiel zurückkehren, unterliegen auch [dem minimalen temporären Turnierverbot von 1 Jahr](/wiki/Help_centre/Account_restrictions#reasons), welches anhand des Ermessens des [Account-Support-Teams](/wiki/People/The_Team/Account_support_team) verlängert werden kann.
+Alle Nutzer, die nach einer Einschränkung im Rahmen der üblichen Beschwerdebedingungen zum Spiel zurückkehren, unterliegen auch [dem minimalen temporären Turnierverbot von 1 Jahr](/wiki/Help_centre/Account_restrictions#reasons), welches anhand des Ermessens des [Account-Support-Teams](/wiki/People/Account_support_team) verlängert werden kann.
 
 ## Was führt dazu, dass jemand eine permanente Turniersperre erhält? {#why-permanent}
 
@@ -34,7 +34,7 @@ Das beinhaltet Situationen wie:
 
 Gegen Turniersperren können egal ob temporär oder permanent **keine Beschwerden eingereicht werden**.
 
-In seltenen Situationen kann das [Account-Support-Team](/wiki/People/The_Team/Account_support_team) einzelne Fälle nach ihrem Ermessen bewerten und entsprechende Strafen entfernen oder erneut anwenden, um sicherzustellen, dass sie mit ähnlichen Fällen in der Vergangenheit übereinstimmen.
+In seltenen Situationen kann das [Account-Support-Team](/wiki/People/Account_support_team) einzelne Fälle nach ihrem Ermessen bewerten und entsprechende Strafen entfernen oder erneut anwenden, um sicherzustellen, dass sie mit ähnlichen Fällen in der Vergangenheit übereinstimmen.
 
 ## Was kann ich tun, während ich von Turnieren gesperrt bin? {#while-banned}
 

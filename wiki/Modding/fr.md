@@ -29,7 +29,7 @@ Lorsque vous rencontrez un problème, sélectionnez tous les objets pertinents, 
 
 Tous les messages de mods doivent traiter de la nature du problème, de sa raison d'être et de la manière de le résoudre. Voir le [Code de conduite pour le modding et le mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping#créer-un-mod-post) pour plus de détails sur la mise en forme des messages de mod.
 
-Les mappeurs fournissent régulièrement des [kudosu](/wiki/Modding/Kudosu) aux messages des moddeurs qu'ils considèrent comme utiles en cliquant sur le bouton de vote "like". Cette statistique est enregistrée sur le profil de l'utilisateur et est référencée lors de la demande d'adhésion aux [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators).
+Les mappeurs fournissent régulièrement des [kudosu](/wiki/Modding/Kudosu) aux messages des moddeurs qu'ils considèrent comme utiles en cliquant sur le bouton de vote "like". Cette statistique est enregistrée sur le profil de l'utilisateur et est référencée lors de la demande d'adhésion aux [Beatmap Nominators](/wiki/People/Beatmap_Nominators).
 
 ## Types de postes des moddeurs
 

@@ -11,7 +11,7 @@ tags:
 
 ![Ikon mod NF](/wiki/shared/mods/NF.png "Ikon mod No Fail (NF)")
 
-*Untuk melihat daftar keseluruhan dari semua mod, kunjungi: [Game modifier](/wiki/Game_modifier)*
+*Untuk melihat daftar keseluruhan dari semua mod, kunjungi: [Game modifier](/wiki/Gameplay/Game_modifier)*
 
 ## Tentang
 
@@ -24,7 +24,7 @@ tags:
 
 ## Deskripsi
 
-Mod **No Fail** adalah sebuah [game modifier](/wiki/Game_modifier) yang mencegah pemain untuk gagal dalam suatu [beatmap](/wiki/Beatmap). Menggunakan mod No Fail akan menyebabkan pemain mustahil untuk gagal dalam sebuah [beatmap](/wiki/Beatmap), bahkan jika [life bar](/wiki/Client/Interface/Health_bar) sudah kosong. Tetapi, jika pemain tidak mendapatkan skor apapun pada beatmap tersebut, play tersebut yang *akan* gagal, sebagai gantinya.
+Mod **No Fail** adalah sebuah [game modifier](/wiki/Gameplay/Game_modifier) yang mencegah pemain untuk gagal dalam suatu [beatmap](/wiki/Beatmap). Menggunakan mod No Fail akan menyebabkan pemain mustahil untuk gagal dalam sebuah [beatmap](/wiki/Beatmap), bahkan jika [life bar](/wiki/Client/Interface/Health_bar) sudah kosong. Tetapi, jika pemain tidak mendapatkan skor apapun pada beatmap tersebut, play tersebut yang *akan* gagal, sebagai gantinya.
 
 Sejak 16 Januari 2021, penggunaan mod No Fail dapat menyebabkan pemain mendapatkan penalti pada jumlah [performance points](/wiki/Performance_points) yang diraih berdasarkan miss yang didapatkan. Dimulai dari nilai dasar 1.0x (100%), setiap miss akan mengurangi pengali performance point sebesar -0.02x (0.5%) hingga pengali performance point mencapai 0.9x (90%). <!-- pp change newspost: https://osu.ppy.sh/home/news/2021-01-14-performance-points-updates --> 
 

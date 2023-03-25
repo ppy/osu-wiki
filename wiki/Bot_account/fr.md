@@ -52,7 +52,7 @@ Le mail doit contenir :
 - Un lien vers le code source et la documentation
 - Un résumé rapide de ce que fait votre bot
 
-L'[équipe de support aux comptes](/wiki/People/The_Team/Account_support_team) examinera votre demande. Si votre demande est refusée, ils vous expliqueront pourquoi. Si votre requête est approuvée, ils vous créeront votre compte bot et vous expliqueront comment l'utiliser.
+L'[équipe de support aux comptes](/wiki/People/Account_support_team) examinera votre demande. Si votre demande est refusée, ils vous expliqueront pourquoi. Si votre requête est approuvée, ils vous créeront votre compte bot et vous expliqueront comment l'utiliser.
 
 <!-- TODO: history section would be nice, talking about LogBot, BanchoBot, the phpbb crawler accounts, the first user-run bots, Quality Assurance Team, osu!team, ... -->
 

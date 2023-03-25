@@ -21,58 +21,58 @@ tags:
 
 Para pemain dapat mengakses `Layar Pemilihan Mod` pada layar pemilihan lagu dengan mengklik tombol `Mods` yang terletak pada pojok kiri bawah atau dengan menekan `F1`. Suatu mod dapat diaktifkan secara cepat dengan menekan tombol *shortcut* yang sesuai dengan yang ada pada `Layar Pemilihan Mod`, di mana tombol *shortcut* ini dapat diatur pada menu Options apabila dikehendaki.
 
-Mod-mod yang ada di dalam permainan osu! dibagi menjadi tiga kategori: `Pengurang Kesulitan`, `Peningkat Kesulitan`, dan `Spesial` yang dapat mengurangi, menambah, atau bahkan menonaktifkan [`Pengali Skor`](/wiki/Game_modifier/Score_multiplier) sepenuhnya. Pada saat dua atau lebih mod diaktifkan secara bersamaan, efek-efek pengali skor yang aktif juga akan ikut dikalikan bersama (misalnya, `1.06x * 1.12x = 1.1872x`).
+Mod-mod yang ada di dalam permainan osu! dibagi menjadi tiga kategori: `Pengurang Kesulitan`, `Peningkat Kesulitan`, dan `Spesial` yang dapat mengurangi, menambah, atau bahkan menonaktifkan [`Pengali Skor`](/wiki/Gameplay/Game_modifier/Score_multiplier) sepenuhnya. Pada saat dua atau lebih mod diaktifkan secara bersamaan, efek-efek pengali skor yang aktif juga akan ikut dikalikan bersama (misalnya, `1.06x * 1.12x = 1.1872x`).
 
 ## Daftar mod
 
-*Lihat juga: [Ringkasan game modifier](/wiki/Game_modifier/Summary)*
+*Lihat juga: [Ringkasan game modifier](/wiki/Gameplay/Game_modifier/Summary)*
 
 Tidak semua mod dapat digunakan pada seluruh mode permainan yang ada. Ikon-ikon mode permainan berikut (![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]) menandakan pada mode-mode permainan apa saja mod-mod berikut ini dapat digunakan.
 
 ### Pengurang kesulitan
 
-- [Easy (EZ)](/wiki/Game_modifier/Easy) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- [No Fail (NF)](/wiki/Game_modifier/No_Fail) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- [Half Time (HT)](/wiki/Game_modifier/Half_Time) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [Easy (EZ)](/wiki/Gameplay/Game_modifier/Easy) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [No Fail (NF)](/wiki/Gameplay/Game_modifier/No_Fail) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
 ### Peningkat kesulitan
 
-- [Hard Rock (HR)](/wiki/Game_modifier/Hard_Rock) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- [Sudden Death (SD)](/wiki/Game_modifier/Sudden_Death) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-  - [Perfect (PF)](/wiki/Game_modifier/Perfect) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- [Double Time (DT)](/wiki/Game_modifier/Double_Time) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-  - [Nightcore (NC)](/wiki/Game_modifier/Nightcore) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- [Hidden (HD)](/wiki/Game_modifier/Hidden) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-  - [Fade In (FI)](/wiki/Game_modifier/Fade_In) ![][osu!mania]
-- [Flashlight (FL)](/wiki/Game_modifier/Flashlight) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [Hard Rock (HR)](/wiki/Gameplay/Game_modifier/Hard_Rock) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+  - [Perfect (PF)](/wiki/Gameplay/Game_modifier/Perfect) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [Double Time (DT)](/wiki/Gameplay/Game_modifier/Double_Time) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+  - [Nightcore (NC)](/wiki/Gameplay/Game_modifier/Nightcore) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [Hidden (HD)](/wiki/Gameplay/Game_modifier/Hidden) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+  - [Fade In (FI)](/wiki/Gameplay/Game_modifier/Fade_In) ![][osu!mania]
+- [Flashlight (FL)](/wiki/Gameplay/Game_modifier/Flashlight) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
 ### Spesial
 
-- [Relax (RL)](/wiki/Game_modifier/Relax) ![][osu!] ![][osu!taiko] ![][osu!catch]
-- [Autopilot (AP)](/wiki/Game_modifier/Autopilot) ![][osu!]
-- [Spun Out (SO)](/wiki/Game_modifier/Spun_Out) ![][osu!]
-- [1K, 2K, 3K, 4K, 5K, 6K, 7K, 8K, 9K (xK)](/wiki/Game_modifier/xK) ![][osu!mania]
-- [Co-op (CP)](/wiki/Game_modifier/Co-op) ![][osu!mania]
-- [Mirror (MR)](/wiki/Game_modifier/Mirror) ![][osu!mania]
-- [Random (RD)](/wiki/Game_modifier/Random) ![][osu!mania]
-- [Auto (AT)](/wiki/Game_modifier/Auto) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-  - [Cinema (CM)](/wiki/Game_modifier/Cinema) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- [ScoreV2 (SV2)](/wiki/Game_modifier/ScoreV2) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- [Target Practice (TP)](/wiki/Game_modifier/Target_Practice) ![][osu!] **Hanya tersedia pada osu! versi Cutting Edge (Experimental)**
+- [Relax (RL)](/wiki/Gameplay/Game_modifier/Relax) ![][osu!] ![][osu!taiko] ![][osu!catch]
+- [Autopilot (AP)](/wiki/Gameplay/Game_modifier/Autopilot) ![][osu!]
+- [Spun Out (SO)](/wiki/Gameplay/Game_modifier/Spun_Out) ![][osu!]
+- [1K, 2K, 3K, 4K, 5K, 6K, 7K, 8K, 9K (xK)](/wiki/Gameplay/Game_modifier/xK) ![][osu!mania]
+- [Co-op (CP)](/wiki/Gameplay/Game_modifier/Co-op) ![][osu!mania]
+- [Mirror (MR)](/wiki/Gameplay/Game_modifier/Mirror) ![][osu!mania]
+- [Random (RD)](/wiki/Gameplay/Game_modifier/Random) ![][osu!mania]
+- [Auto (AT)](/wiki/Gameplay/Game_modifier/Auto) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+  - [Cinema (CM)](/wiki/Gameplay/Game_modifier/Cinema) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [ScoreV2 (SV2)](/wiki/Gameplay/Game_modifier/ScoreV2) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [Target Practice (TP)](/wiki/Gameplay/Game_modifier/Target_Practice) ![][osu!] **Hanya tersedia pada osu! versi Cutting Edge (Experimental)**
 
 ### Lain-lain
 
 *Catatan: Mod-mod berikut saat ini sudah tidak lagi tersedia.*
 
-- [10K](/wiki/Game_modifier/10K) ![][osu!mania]
-- [Fade Out](/wiki/Game_modifier/Fade_Out) ![][osu!mania]
-- [No Video](/wiki/Game_modifier/No_Video) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
+- [10K](/wiki/Gameplay/Game_modifier/10K) ![][osu!mania]
+- [Fade Out](/wiki/Gameplay/Game_modifier/Fade_Out) ![][osu!mania]
+- [No Video](/wiki/Gameplay/Game_modifier/No_Video) ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
 
 ### Istilah-istilah yang terkait dengan mod
 
 #### NoMod
 
-Dalam lingkungan [turnamen](/wiki/Tournaments), istilah **NoMod** (***NM***) mengacu pada beatmap-beatmap yang harus dimainkan tanpa menggunakan mod apapun di samping mod-mod seperti [No Fail](/wiki/Game_modifier/No_Fail) dan [ScoreV2](/wiki/Game_modifier/ScoreV2) yang pada umumnya merupakan syarat wajib turnamen.
+Dalam lingkungan [turnamen](/wiki/Tournaments), istilah **NoMod** (***NM***) mengacu pada beatmap-beatmap yang harus dimainkan tanpa menggunakan mod apapun di samping mod-mod seperti [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) dan [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) yang pada umumnya merupakan syarat wajib turnamen.
 
 #### FreeMod
 

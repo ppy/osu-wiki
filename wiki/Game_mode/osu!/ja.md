@@ -76,11 +76,11 @@ osu!は以下に重点を置いたゲーム性です。
 
 スピナーの下の数字は1分あたりのスピン数を表しています。その速度で1分間回し続けた場合のスピン数です。スピン中にボタンを離すと、スピナーは止まります。
 
-DSの場合、これはタッチスクリーンに傷がつくので注意が必要です。osu!では、スピナーの完了までの量を緩和しており、完了するのにそれほど苦労はしません。1分間に回せる最大回転数は477回で、これは[Auto](/wiki/Game_modifier/Auto)の回転数であり、[Spun Out](/wiki/Game_modifier/Spun_Out)は1分間に287回となります。
+DSの場合、これはタッチスクリーンに傷がつくので注意が必要です。osu!では、スピナーの完了までの量を緩和しており、完了するのにそれほど苦労はしません。1分間に回せる最大回転数は477回で、これは[Auto](/wiki/Gameplay/Game_modifier/Auto)の回転数であり、[Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out)は1分間に287回となります。
 
 ## プレイスタイル
 
-*[osu!のプレイスタイル](/wiki/Play_style)も参照してください。*
+*[osu!のプレイスタイル](/wiki/Gameplay/Play_style)も参照してください。*
 
 ## コントロール
 
@@ -92,15 +92,15 @@ DSの場合、これはタッチスクリーンに傷がつくので注意が必
 
 osu!のヒットオブジェクトは、各ヒットオブジェクトが時間内にタップされた限り、入力デバイスからの任意の入力を受け付けます。
 
-[Relax](/wiki/Game_modifier/Relax)を使用した場合、カーソルのみが機能します。オブジェクトにカーソルを合わせると自動でクリックされます。スピナーは回す必要があります。
+[Relax](/wiki/Gameplay/Game_modifier/Relax)を使用した場合、カーソルのみが機能します。オブジェクトにカーソルを合わせると自動でクリックされます。スピナーは回す必要があります。
 
-[Auto Pilot](/wiki/Game_modifier/Autopilot)を使用した場合、キーのみ機能します。自動でオブジェクトにカーソルが合わさりますが、クリックする必要があります。
+[Auto Pilot](/wiki/Gameplay/Game_modifier/Autopilot)を使用した場合、キーのみ機能します。自動でオブジェクトにカーソルが合わさりますが、クリックする必要があります。
 
 ## スコア
 
-[osu!のスコア](/wiki/Gameplay/Score/osu!)は、ゲームプレイの複数の要素の合計です。
+[osu!のスコア](/wiki/Gameplay/Score/ScoreV1/osu!)は、ゲームプレイの複数の要素の合計です。
 
-- [ジャッジメント](/wiki/Gameplay/Judgement/osu!)はヒットオブジェクトの基本スコアの値 (300、100、50、0) を決定します。[ヒットサークル](/wiki/Hit_object/Hit_circle)の場合、タイミングのいいヒットはスコアと精度の両面で高く評価されます。[スライダー](/wiki/Hit_object/Slider)と[スピナー](/wiki/Hit_object/Spinner)はヒットした表示がありませんが、見逃したり、終点まで繋げられなかった場合はコンボが途切れます。高い評価にすることは[体力ゲージ](/wiki/Gameplay/Health)の増加にもつながります。
+- [ジャッジメント](/wiki/Gameplay/Judgement/osu!)はヒットオブジェクトの基本スコアの値 (300、100、50、0) を決定します。[ヒットサークル](/wiki/Gameplay/Hit_object/Hit_circle)の場合、タイミングのいいヒットはスコアと精度の両面で高く評価されます。[スライダー](/wiki/Gameplay/Hit_object/Slider)と[スピナー](/wiki/Gameplay/Hit_object/Spinner)はヒットした表示がありませんが、見逃したり、終点まで繋げられなかった場合はコンボが途切れます。高い評価にすることは[体力ゲージ](/wiki/Gameplay/Health)の増加にもつながります。
 - [精度](/wiki/Gameplay/Accuracy#osu!)はどれだけ正確にヒットできているかを表します。ヒットするタイミングが早かったり、遅かったり、またはミスをすると精度が下がります。
 - [コンボ](/wiki/Gameplay/Combo_(score_multiplier))はスコア乗数で、コンボが高いほどスコアが伸びやすく、逆にコンボが低いほどスコアは伸びにくくなります。コンボは[ミス](/wiki/Gameplay/Judgement/Combobreak)や[スライダーブレイク](/wiki/Gameplay/Judgement/Slider_break)で切れることがあります。
 
@@ -130,7 +130,7 @@ osu!のヒットオブジェクトは、各ヒットオブジェクトが時間�
 - スピナーの中心を基準に回転していない場合は、有効なスピンとはみなされません。
 - スモークはデフォルトのカーソルの軌跡よりも長く持続します。スモークがすぐに消えてしまわないように、スモークの効果をまばらに適用しています。
 - osu!のマスコットは[pippi](/wiki/Mascots#pippi)と呼ばれます。
-- [Auto](/wiki/Game_modifier/Auto)でプレイするとプレイヤー名はosu!になります。
+- [Auto](/wiki/Gameplay/Game_modifier/Auto)でプレイするとプレイヤー名はosu!になります。
 
 ### 歴史
 

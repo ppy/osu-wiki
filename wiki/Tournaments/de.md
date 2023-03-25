@@ -815,7 +815,7 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 ## Siehe auch
 
 - [Liste der Länder, die an osu!-Turnieren teilgenommen haben](Countries_that_participated_in_osu!_tournaments)
-- [osu!tourney](/wiki/osu!tourney) (Client, der für Turnier-Streaming verwendet wird)
+- [osu!tourney](/wiki/osu!_tournament_client/osu!tourney) (Client, der für Turnier-Streaming verwendet wird)
 
 [GCrown]: /wiki/shared/crown-gold.png "1. Platz"
 [SCrown]: /wiki/shared/crown-silver.png "2. Platz"

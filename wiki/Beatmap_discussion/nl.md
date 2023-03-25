@@ -10,7 +10,7 @@ outdated_since: 5f24e4b2df25bd38f386bd2cd48e541ebc2e1095
 
 # Beatmapdiscussie
 
-**Beatmapdiscussie** (ook bekend als *Modden v2*) is een systeem om het [mod](/wiki/Modding)proces te beheren en te vereenvoudigen. Het doel is om een duidelijke en begrijpelijke interface te bieden, waar het verbeteren van een beatmap centraal staat. Wanneer een beatmap wordt [ingezonden](/wiki/Submission) wordt er automatisch een discussiepagina gecreëerd samen met de informatiepagina van de beatmap. Wanneer de beatmap wordt geupdatet zal ook de discussiepagina bijgewerkt worden. De discussiepagina kan bezocht worden door op de `Discussie`-knop aan de onderkant van de informatiepagina te klikken. De beatmap-discussiepagina bestaat uit een paar elementen (van boven naar beneden):
+**Beatmapdiscussie** (ook bekend als *Modden v2*) is een systeem om het [mod](/wiki/Modding)proces te beheren en te vereenvoudigen. Het doel is om een duidelijke en begrijpelijke interface te bieden, waar het verbeteren van een beatmap centraal staat. Wanneer een beatmap wordt [ingezonden](/wiki/Beatmapping/Beatmap_submission) wordt er automatisch een discussiepagina gecreëerd samen met de informatiepagina van de beatmap. Wanneer de beatmap wordt geupdatet zal ook de discussiepagina bijgewerkt worden. De discussiepagina kan bezocht worden door op de `Discussie`-knop aan de onderkant van de informatiepagina te klikken. De beatmap-discussiepagina bestaat uit een paar elementen (van boven naar beneden):
 
 - Modusselectie
 - Beatmaphoofding
@@ -61,7 +61,7 @@ Je kan de verschillende [moeilijkheidsgraden](/wiki/Beatmap/Difficulty) selecter
 Sorteeropties veranderen de manier waarop de beatmapdiscussies worden bekeken. Wanneer er een optie is geselecteerd, verandert deze zowel de mod-tijdlijn als de moddingsectie zodat enkel het geselecteerde type posts wordt weergegeven. Dit is vooral nuttig om posts in afwachting te zien op een discussiepagina. Deze verschillende opties omvatten:
 
 - `Mine` toont jouw eigen berichten
-- `Notes` toont alle aantekeningen van de mapper of de [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators)
+- `Notes` toont alle aantekeningen van de mapper of de [Beatmap Nominators](/wiki/People/Beatmap_Nominators)
 - `Resolved` toont de opgeloste posts
 - `Pending` toont de posts in afwachting
 - `Praises` toont lovende en hype-berichten
@@ -86,7 +86,7 @@ De beatmapstatusbalk toont alle relevante info over de plek van een beatmap in d
 
 ### Hype train
 
-De hype trein volgt hoeveel [hypes](/wiki/Beatmap/Hype) een beatmap ontvangen heeft. Zodra 5 hypes bereikt zijn kan de beatmap genomineerd worden door de [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators). Hypes kunnen enkel gegeven worden door naar het `Algemeen (Alle Moeilijkheidgraden)`-tabblad te gaan, je kan dit niet doen via de `Algemeen`- of de `Tijdlijn`-tabbladen. Als je op de `Hype`-knop klikt zal je automatisch naar het juiste tabblad gaan.
+De hype trein volgt hoeveel [hypes](/wiki/Beatmap/Hype) een beatmap ontvangen heeft. Zodra 5 hypes bereikt zijn kan de beatmap genomineerd worden door de [Beatmap Nominators](/wiki/People/Beatmap_Nominators). Hypes kunnen enkel gegeven worden door naar het `Algemeen (Alle Moeilijkheidgraden)`-tabblad te gaan, je kan dit niet doen via de `Algemeen`- of de `Tijdlijn`-tabbladen. Als je op de `Hype`-knop klikt zal je automatisch naar het juiste tabblad gaan.
 
 ### Nominatiestatus
 
@@ -116,7 +116,7 @@ Modden gebeurt via drie tabbladen, die de verschillende types van posts opsplits
 
 De `Tijdlijn` toont posts op een specifiek moment in een moeilijkheidsgraad volgens de eerst geplaatste tijdsmarkering. Elke post in dit tabblad moet een tijdsmarkering bevatten om gepost te kunnen worden. Eventuele latere tijdsmarkeringen hebben geen invloed op de volgorde van de posts.
 
-`Geschiedenis` registreert alle veranderingen aan een beatmapdiscussiepagina in chronologische volgerde. Alle veranderingen krijgen een kleurencode; groen staat voor opgeloste posts en statusveranderingen, rood voor nieuwe problemen na nominatie, en blauw voor de rest. Door te klikken op eenderwelk referentienummer spring je naar die specifieke post. Dit tabblad wordt niet gebruikt tijdens het modden, maar het is wel nuttig voor [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) en andere medewerkers om problemen te bekijken.
+`Geschiedenis` registreert alle veranderingen aan een beatmapdiscussiepagina in chronologische volgerde. Alle veranderingen krijgen een kleurencode; groen staat voor opgeloste posts en statusveranderingen, rood voor nieuwe problemen na nominatie, en blauw voor de rest. Door te klikken op eenderwelk referentienummer spring je naar die specifieke post. Dit tabblad wordt niet gebruikt tijdens het modden, maar het is wel nuttig voor [Beatmap Nominators](/wiki/People/Beatmap_Nominators) en andere medewerkers om problemen te bekijken.
 
 ## Inzendingsveld
 
@@ -142,7 +142,7 @@ Discussies kunnen gesorteerd worden met de knoppen onder de `Discussions` titel.
 
 ### Duim omhoog/omlaag
 
-Als een modpost nuttig was kan [Kudosu!](/wiki/Modding/Kudosu) gegeven worden. Dit kan door iedereen behalve de auteur van de post door de post een duim omhoog te geven. Dit is nuttig voor modders aangezien Kudosu! nodig is om tot de [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) toe te treden. Als deze functie misbruikt wordt kunnen [BN](/wiki/People/The_Team/Beatmap_Nominators)-, [NAT](/wiki/People/The_Team/Nomination_Assessment_Team)-, en [GMT](/wiki/People/The_Team/Global_Moderation_Team)-leden een duim omlaag geven om Kudosu! van speleres te ontzeggen. Als dit kwaadwillig misbruik betreft kan er ook een sanctie worden opgelegd aan de daders.
+Als een modpost nuttig was kan [Kudosu!](/wiki/Modding/Kudosu) gegeven worden. Dit kan door iedereen behalve de auteur van de post door de post een duim omhoog te geven. Dit is nuttig voor modders aangezien Kudosu! nodig is om tot de [Beatmap Nominators](/wiki/People/Beatmap_Nominators) toe te treden. Als deze functie misbruikt wordt kunnen [BN](/wiki/People/Beatmap_Nominators)-, [NAT](/wiki/People/Nomination_Assessment_Team)-, en [GMT](/wiki/People/Global_Moderation_Team)-leden een duim omlaag geven om Kudosu! van speleres te ontzeggen. Als dit kwaadwillig misbruik betreft kan er ook een sanctie worden opgelegd aan de daders.
 
 ### Discussietijdlijn
 
@@ -150,7 +150,7 @@ De tijdlijn aan de linkerkant van een discussie toont de tijdsmarkering die de p
 
 ### Tags
 
-Tags geven [belangrijke functies](/wiki/People/The_Team) onder de naam van een gebruiker weer. Enkel functies die relevant zijn voor de beatmapdiscussie worden getoond. Deze zijn `MAPPER`, `BN`-, `NAT`-, `GMT`-, en `DEV`-leden die dus meer opties hebben dan gewone gebruikers die een discussiepagina bekijken.
+Tags geven [belangrijke functies](/wiki/People/osu!_team) onder de naam van een gebruiker weer. Enkel functies die relevant zijn voor de beatmapdiscussie worden getoond. Deze zijn `MAPPER`, `BN`-, `NAT`-, `GMT`-, en `DEV`-leden die dus meer opties hebben dan gewone gebruikers die een discussiepagina bekijken.
 
 ### Formatteringshulpmiddelen
 

@@ -28,7 +28,7 @@ By the end of July, the menu system was changed to add a bit of style to the gam
 
 ## August
 
-The main menu was updated with a new look and the editor received a lot of new functionalities including copy-and-paste support. The menu tab and context menu were added, making editor features more accessible than before; sliders were more extensively supported with [slider ticks](/wiki/Beatmapping/Slider_tick) present; [stacking](/wiki/Mapping_techniques/Stack) of [hit circles](/wiki/Hit_object/Hit_circle) were present; local high scores were better supported; and the `.osu` file format was revised and completely revamped, but included conversion of older files to the new format.
+The main menu was updated with a new look and the editor received a lot of new functionalities including copy-and-paste support. The menu tab and context menu were added, making editor features more accessible than before; sliders were more extensively supported with [slider ticks](/wiki/Gameplay/Hit_object/Slider/Slider_tick) present; [stacking](/wiki/Beatmapping/Mapping_techniques/Stack) of [hit circles](/wiki/Gameplay/Hit_object/Hit_circle) were present; local high scores were better supported; and the `.osu` file format was revised and completely revamped, but included conversion of older files to the new format.
 
 ![](img/2007-08_01.jpg "Song Selection screen for Play Mode")
 
@@ -56,7 +56,7 @@ September 17, 2007 was the "birth" of osu! as far as the public was concerned. T
 
 ![](img/2007-09_05.jpg "News announcement on a gaming website")
 
-Quickly after the public release, the first play [mods](/wiki/Game_modifier), [Easy](/wiki/Game_modifier/Easy) (EZ) and [No Fail](/wiki/Game_modifier/No_Fail) (NF), were added, as well as break sections (which up until now had been ignored and missing). A large number of changes quickly made osu! look more and more like a legitimate rhythm game.
+Quickly after the public release, the first play [mods](/wiki/Gameplay/Game_modifier), [Easy](/wiki/Gameplay/Game_modifier/Easy) (EZ) and [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) (NF), were added, as well as break sections (which up until now had been ignored and missing). A large number of changes quickly made osu! look more and more like a legitimate rhythm game.
 
 ![](img/easy.png "Easy (v1)") ![](img/no_fail.png "No Fail (v1)")
 
@@ -76,7 +76,7 @@ The song selection screen saw improvements with grouping of difficulties and mor
 
 ## November
 
-A new SS rank was added to the ranking system, replacing S rank in cases where perfection was achieved. The [No Video](/wiki/Game_modifier/No_Video) and [Hidden](/wiki/Game_modifier/Hidden) (HD) mods were introduced, and the SH (silver S) and SSH (silver SS) ranks to go with it. For the first time, players could skin and assign normal and soft sample sets per timing section. `.osz` files could now be loaded by double-clicking them, or dragging them onto the osu! icon or window.
+A new SS rank was added to the ranking system, replacing S rank in cases where perfection was achieved. The [No Video](/wiki/Gameplay/Game_modifier/No_Video) and [Hidden](/wiki/Gameplay/Game_modifier/Hidden) (HD) mods were introduced, and the SH (silver S) and SSH (silver SS) ranks to go with it. For the first time, players could skin and assign normal and soft sample sets per timing section. `.osz` files could now be loaded by double-clicking them, or dragging them onto the osu! icon or window.
 
 ![](img/no_video.png "No Video \(v1\)") ![](img/hidden.png "Hidden \(v1\)")
 
@@ -88,7 +88,7 @@ A new SS rank was added to the ranking system, replacing S rank in cases where p
 
 ![](img/2007-11_03.jpg "Testing IRC usage")
 
-The [Beatmap Submission System](/wiki/Submission) (BSS) was made public, allowing users to easily upload and share their creations. This introduced the status of [Pending](/wiki/Beatmap/Category#work-in-progress-and-pending) and [Ranked](/wiki/Beatmap/Category#ranked) maps helped organise the rapidly growing collection of user-submitted beatmaps. In-game chat was added as an [IRC](/wiki/Community/Internet_Relay_Chat) (Internet Relay Chat) client built from scratch and connected to a standard IRC server (with no [Bancho](/wiki/Bancho_(server)); extended chat was visible; avatars and basic stats were displayed in-game using an http-based communication; audio controls were also added to the main menu, which played a random song on startup; [replays](/wiki/Gameplay/Replay) could be watched for both local scores and online plays. Players could spectate other players (spectator data was sent raw over IRC).
+The [Beatmap Submission System](/wiki/Beatmapping/Beatmap_submission) (BSS) was made public, allowing users to easily upload and share their creations. This introduced the status of [Pending](/wiki/Beatmap/Category#work-in-progress-and-pending) and [Ranked](/wiki/Beatmap/Category#ranked) maps helped organise the rapidly growing collection of user-submitted beatmaps. In-game chat was added as an [IRC](/wiki/Community/Internet_Relay_Chat) (Internet Relay Chat) client built from scratch and connected to a standard IRC server (with no [Bancho](/wiki/Bancho_(server)); extended chat was visible; avatars and basic stats were displayed in-game using an http-based communication; audio controls were also added to the main menu, which played a random song on startup; [replays](/wiki/Gameplay/Replay) could be watched for both local scores and online plays. Players could spectate other players (spectator data was sent raw over IRC).
 
 ## December
 

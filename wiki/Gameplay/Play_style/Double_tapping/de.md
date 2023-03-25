@@ -11,9 +11,9 @@ tags:
 
 # Double-Tapping
 
-*Nicht zu verwechseln mit [Alternating](/wiki/Play_style/Alternating).*
+*Nicht zu verwechseln mit [Alternating](/wiki/Gameplay/Play_style/Alternating).*
 
-**Double-Tapping** (auf Deutsch *Doppeltippen*) ist ein Tippstil für [osu!](/wiki/Game_mode/osu!), bei dem Spieler durch das gleichzeitige Drücken der zwei eingestellten Tasten auf ihrer Tastatur (standardmäßig `Z` und `X`) Circles klicken, Slider verschieben und Spinner spinnen. Diese Spielweise wird meistens als ein temporärer Ersatzstil für extrem schnelle [Stacks](/wiki/Mapping_techniques/Stack) und [Streams](/wiki/Beatmap/Pattern/Stream) benutzt, die ansonsten zu schwierig für einige Spieler wären. Dieser Stil ist dafür bekannt, dass er der am wenigsten genaue ist.
+**Double-Tapping** (auf Deutsch *Doppeltippen*) ist ein Tippstil für [osu!](/wiki/Game_mode/osu!), bei dem Spieler durch das gleichzeitige Drücken der zwei eingestellten Tasten auf ihrer Tastatur (standardmäßig `Z` und `X`) Circles klicken, Slider verschieben und Spinner spinnen. Diese Spielweise wird meistens als ein temporärer Ersatzstil für extrem schnelle [Stacks](/wiki/Beatmapping/Mapping_techniques/Stack) und [Streams](/wiki/Beatmap/Pattern/osu!/Stream) benutzt, die ansonsten zu schwierig für einige Spieler wären. Dieser Stil ist dafür bekannt, dass er der am wenigsten genaue ist.
 
 ## Verwendung
 
