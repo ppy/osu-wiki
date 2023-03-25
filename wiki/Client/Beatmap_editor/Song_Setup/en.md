@@ -244,7 +244,7 @@ You can, however, include the skin elements inside the beatmap folder. As most c
 
 In osu!, [sliders](/wiki/Gameplay/Hit_object/Slider) and [circles](/wiki/Gameplay/Hit_object/Hit_circle) that are close in time will automatically [stack](/wiki/Beatmapping/Mapping_techniques/Stack) and slightly shift if placed in the same spot. This is done to help players better see [overlapping](/wiki/Beatmapping/Mapping_techniques/Overlap) objects.
 
-The stack leniency value controls the maximum amount of time between objects, after which they won't be stacked. It is best left as is to its default value of `7`.
+The stack leniency value controls the maximum amount of time between objects, after which they will not be stacked. It is best left at its default value of `7`.
 
 ### Mode Specific
 
