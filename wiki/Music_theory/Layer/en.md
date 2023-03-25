@@ -8,8 +8,6 @@ tags:
 
 A **musical layer** is a part of the song which contains features with a common aspect between them. A significant part of [beatmapping](/wiki/Beatmapping) in every [game mode](/wiki/Game_mode) revolves around consistently following different kinds of layers (such as percussion, vocals, and sound patterns), and switching between them for the purpose of emphasis and contrast.
 
-## Description
-
 Typically, a single layer in a musical piece represents a group of instruments of the same family or [range](https://en.wikipedia.org/wiki/Range_(music)), or — alternatively — voices of the [same type](https://en.wikipedia.org/wiki/Voice_type). Since layers are abstract, they can be limited to just a single instrument or kind of sound, depending on the context they are discussed in. Other criteria for layer subdivision include [rhythm](https://en.wikipedia.org/wiki/Rhythm) patterns, [melody](https://en.wikipedia.org/wiki/Polyphony), [harmony](https://en.wikipedia.org/wiki/Harmony), or [pitch](https://en.wikipedia.org/wiki/Pitch_(music)).
 
 ## Mapping
