@@ -5,7 +5,7 @@ outdated_since: 9cfb562a5fe6a20f992ba572bdc34366b95c3107
 
 # Eşsiz ünvanlara sahip kullanıcılar
 
-Kullanıcı ünvanları genellikle ait oldukları [kullanıcı gruplarına](/wiki/People/The_Team#kullanıcı-grupları) göre ilişkilendirilir, ancak aşağıda listelenen kullanıcılar başka nedenlerden dolayı sahip oldukları ünvanlar verilmiştir. Ünvanların çoğu bulundukları katkılar veya kazandıkları başarımlar sonucu verilmiştir, geriye kalanlar ise osu! tarihinin ikonik veya komik kısımlarının birer hatırasıdır.
+Kullanıcı ünvanları genellikle ait oldukları [kullanıcı gruplarına](/wiki/People/osu!_team#kullanıcı-grupları) göre ilişkilendirilir, ancak aşağıda listelenen kullanıcılar başka nedenlerden dolayı sahip oldukları ünvanlar verilmiştir. Ünvanların çoğu bulundukları katkılar veya kazandıkları başarımlar sonucu verilmiştir, geriye kalanlar ise osu! tarihinin ikonik veya komik kısımlarının birer hatırasıdır.
 
 ## Kategorilere göre, nedenleriyle birlikte
 
@@ -93,7 +93,7 @@ Kullanıcı ünvanları genellikle ait oldukları [kullanıcı gruplarına](/wik
 
 ### Seçkin Aday Göstericiler
 
-2020 itibariyle, [Beatmap Aday Göstericilerin](/wiki/People/The_Team/Beatmap_Nominators) ve [Aday Gösterme Denetleme Takımı](/wiki/People/The_Team/Nomination_Assessment_Team) üyelerinin derecelendirme sistemini destekleyici faaliyetleri **Elite Nominator** ünvanıyla ödüllendirilmeye başlandı. Bu ünvan her yılın başında önceki yıl için yapılan katkılar sonucu verilir, ve kullanıcının takımdan ayrılması sonucu profillerinden kaldırılır.
+2020 itibariyle, [Beatmap Aday Göstericilerin](/wiki/People/Beatmap_Nominators) ve [Aday Gösterme Denetleme Takımı](/wiki/People/Nomination_Assessment_Team) üyelerinin derecelendirme sistemini destekleyici faaliyetleri **Elite Nominator** ünvanıyla ödüllendirilmeye başlandı. Bu ünvan her yılın başında önceki yıl için yapılan katkılar sonucu verilir, ve kullanıcının takımdan ayrılması sonucu profillerinden kaldırılır.
 
 - ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871)
 - ::{ flag=US }:: [eiri-](https://osu.ppy.sh/users/3388410)
@@ -125,7 +125,7 @@ osu!remix yarışmaları birincilik ödülü olarak **osu!mixer** ünvanını ö
 
 ### Featured Artist'ler
 
-osu! hesabına sahip [Featured Artist](/wiki/Featured_Artists)'lere ilişkilerini göstermek adına **Featured Artist** ünvanı verilir.
+osu! hesabına sahip [Featured Artist](/wiki/People/Featured_Artists)'lere ilişkilerini göstermek adına **Featured Artist** ünvanı verilir.
 
 ::{ flag=NO }:: [cYsmix](https://osu.ppy.sh/users/272870) ve ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) osu!'nun ses dizaynına ve resmi temalarına bulundukları önceki katkılarından dolayı **osu!musician** ünvanına sahiptirler, ::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471) ise Featured Artist olduğunda **osu!mixer** ünvanını bulundurmayı tercih etti.
 

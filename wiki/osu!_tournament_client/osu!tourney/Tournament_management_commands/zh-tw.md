@@ -41,7 +41,7 @@ outdated_since: a4e45cf0738ff0ce2327cba8b9efe89d53e1ef9f
 - `!mp addref <玩家名稱> [<玩家名稱>] …` - 指定玩家為裁判。最多能有八位裁判。只有房間的建立者可以指定裁判。
   - 裁判必須在遊戲中加入房間，或在 IRC 使用 `/join #mp_<房間 ID>` 加入房間的聊天頻道。
   - 裁判可以像建立者一樣管理房間，但是無法移除或邀請其他裁判。
-  - [osu!tourney 客戶端](/wiki/osu!tourney) 會為裁判顯示聊天頻道。
+  - [osu!tourney 客戶端](/wiki/osu!_tournament_client/osu!tourney) 會為裁判顯示聊天頻道。
 - `!mp removeref <玩家名稱> [<玩家名稱>] …` - 移除玩家的裁判身分。只有房間的建立者可以移除裁判。
 - `!mp listrefs` - 顯示裁判列表。
 - `!mp close` - 關閉房間。

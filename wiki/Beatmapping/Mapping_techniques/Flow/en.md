@@ -27,7 +27,7 @@ Linear movement may also be considered another form of smooth flow, albeit less 
 
 ### Repetition
 
-Another form of natural movement is repetition. Patterns with similar repeated movements that only differ slightly, such as back-and-forth [jumps](/wiki/Beatmap/Pattern/Jump) or a series of slider pairs, are comfortable to play due to subsequent movements following already familiar paths, making them easy to predict. Repeated patterns may become more and more comfortable throughout a map for the same reason.
+Another form of natural movement is repetition. Patterns with similar repeated movements that only differ slightly, such as back-and-forth [jumps](/wiki/Beatmap/Pattern/osu!/Jump) or a series of slider pairs, are comfortable to play due to subsequent movements following already familiar paths, making them easy to predict. Repeated patterns may become more and more comfortable throughout a map for the same reason.
 
 ### Visual implications
 

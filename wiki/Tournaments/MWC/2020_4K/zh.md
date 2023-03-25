@@ -10,7 +10,7 @@ tags:
 
 ![MWC 2020 4K 标志](/wiki/shared/news/banners/MWC4k2020.jpg)
 
-**osu!mania 2020 4K 世界杯**（***MWC 4K 2020***）是由 [osu! team](/wiki/People/The_Team) 举办的基于国家/地区间的官方锦标赛。这是 osu!mania 4K 世界杯的第 7 届。
+**osu!mania 2020 4K 世界杯**（***MWC 4K 2020***）是由 [osu! team](/wiki/People/osu!_team) 举办的基于国家/地区间的官方锦标赛。这是 osu!mania 4K 世界杯的第 7 届。
 
 *注意：除非特殊说明，本文所提到的时区均以* **UTC（协调世界时）** *为准。*
 
@@ -41,7 +41,7 @@ tags:
 
 ## 工作人员
 
-osu!mania 2020 4K 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社区成员举办。
+osu!mania 2020 4K 世界杯由 [osu! team](/wiki/People/osu!_team) 和多位社区成员举办。
 
 | 职位 | 成员 |
 | :-- | :-- |

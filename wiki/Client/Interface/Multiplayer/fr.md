@@ -109,7 +109,7 @@ Un joueur peut avoir quatres couleurs différentes dans cette liste, qui ont dif
 | Couleur | Description |
 | :-: | :-- |
 | **Rouge (n'a pas la map)** | Le joueur n'a pas la beatmap, indiqué par un indicateur `[n'a pas la map]` jusqu'à ce qu'il ait téléchargé la beatmap. |
-| **Blanc (pas prêt)** | Le joueur a la beatmap mais n'est pas encore prêt. Les [modificateurs de jeu](/wiki/Game_modifier) peuvent être modifiés dans cet état. |
+| **Blanc (pas prêt)** | Le joueur a la beatmap mais n'est pas encore prêt. Les [modificateurs de jeu](/wiki/Gameplay/Game_modifier) peuvent être modifiés dans cet état. |
 | **Vert (prêt)** | Le joueur est prêt. Les modificateurs de jeu ne peuvent pas être modifiés dans cet état. L'hôte pourra démarrer la partie après avoir cliqué sur "prêt", tous les joueurs prêts vont alors commencer la partie. |
 | **Bleu clair (en jeu)** | Le joueur est en train de jouer, l'indicateur `[en jeu]` est affiché jusqu'à la fin de la partie. |
 
@@ -166,9 +166,9 @@ Si le joueur ne possède pas la beatmap, un des statuts suivants sera affiché :
 ![](img/multi-player-free-mods-fr.jpg "L'écran de sélection de mods en multijoueur, lorsque l'hôte a activé les Mods libres")
 :::
 
-Cette section affichera les [modes de jeu](/wiki/Game_modifier) utilisés pour cette partie.
+Cette section affichera les [modes de jeu](/wiki/Gameplay/Game_modifier) utilisés pour cette partie.
 
-L'hôte peut activer les `Mods Libres` pour permettre aux joueurs de choisir librement toute combinaison de mods, exceptés ceux qui changent la vitesse de gameplay tel que ([Double Time (DT)](/wiki/Game_modifier/Double_Time), [Nightcore (NC)](/wiki/Game_modifier/Nightcore) et [Half Time (HT)](/wiki/Game_modifier/Half_Time)).
+L'hôte peut activer les `Mods Libres` pour permettre aux joueurs de choisir librement toute combinaison de mods, exceptés ceux qui changent la vitesse de gameplay tel que ([Double Time (DT)](/wiki/Gameplay/Game_modifier/Double_Time), [Nightcore (NC)](/wiki/Gameplay/Game_modifier/Nightcore) et [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time)).
 
 #### Mode par équipe {#team-mode-match-setup}
 
@@ -239,7 +239,7 @@ Lorsque que la partie est en train de démarrer, déplacer le curseur vers le ba
 
 #### Santé
 
-Quand la barre de santé d'un joueur s'est entièrement vidée, il peut continuer à jouer, mais le score sera considéré comme un échec et n’apparaîtra pas sur les classements. Le joueur peut revivre s'il remplit entièrement la barre de vie, à moins qu'il n'utilise [Sudden Death (SD)](/wiki/Game_modifier/Sudden_Death) ou [Perfect (PF)](/wiki/Game_modifier/Perfect).
+Quand la barre de santé d'un joueur s'est entièrement vidée, il peut continuer à jouer, mais le score sera considéré comme un échec et n’apparaîtra pas sur les classements. Le joueur peut revivre s'il remplit entièrement la barre de vie, à moins qu'il n'utilise [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death) ou [Perfect (PF)](/wiki/Gameplay/Game_modifier/Perfect).
 
 En partie Team VS, avoir échoué à la fin de la beatmap ne permettra pas au score réalisé de contribuer au score total de l'équipe.
 
@@ -362,7 +362,7 @@ Si un joueur quitte pendant la beatmap, le jeu jouera automatiquement sa partie 
 
 Tous les joueurs partagent la même barre de vie. Si elle se vide entièrement, la partie se termine. En Tag-team VS, chaque équipe possède sa propre barre de vie, et perdre toute sa vie entraînera la défaite de cette équipe.
 
-Les joueurs utilisant les modificateurs de jeu [Sudden Death (SD)](/wiki/Game_modifier/Sudden_Death) ou [Perfect (PF)](/wiki/Game_modifier/Perfect) causeront la défaite de l'équipe entière s'ils échouent.
+Les joueurs utilisant les modificateurs de jeu [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death) ou [Perfect (PF)](/wiki/Gameplay/Game_modifier/Perfect) causeront la défaite de l'équipe entière s'ils échouent.
 
 ##### Résultats
 

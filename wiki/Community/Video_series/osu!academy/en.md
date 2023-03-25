@@ -2,7 +2,7 @@
 
 ![](img/logo.png "osu!academy logo")
 
-The **osu!academy** is a video series hosted by the [osu! team](/wiki/People/The_Team) that aims to give a comprehensive look at all aspects of osu!, from playing to mapping and everything in between.
+The **osu!academy** is a video series hosted by the [osu! team](/wiki/People/osu!_team) that aims to give a comprehensive look at all aspects of osu!, from playing to mapping and everything in between.
 
 Throughout the years, osu!academy has been hosted by multiple members of the community, the most prominent of which being [ztrot](https://osu.ppy.sh/users/6347), who has maintained the series for many years and is the face of the project.
 

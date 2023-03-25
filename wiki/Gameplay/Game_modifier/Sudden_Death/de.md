@@ -13,8 +13,8 @@ no_native_review: true
 
 ![SD Modsymbol](/wiki/shared/mods/SD.png "Sudden Death (SD) Modsymbol")
 
-*Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Game_modifier)*\
-*Siehe auch: [Perfect (Mod)](/wiki/Game_modifier/Perfect)*
+*Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Gameplay/Game_modifier)*\
+*Siehe auch: [Perfect (Mod)](/wiki/Gameplay/Game_modifier/Perfect)*
 
 ## Übersicht
 
@@ -24,11 +24,11 @@ no_native_review: true
 - Standard-Tastenkürzel: `S`
 - Untertitel: `Verfehle eine Note und du verlierst.`
 - Kompatible Spielmodi: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- Variante: [Perfect](/wiki/Game_modifier/Perfect)
+- Variante: [Perfect](/wiki/Gameplay/Game_modifier/Perfect)
 
 ## Beschreibung
 
-Die Mod **Sudden Death** ist eine [Spielmodifikation](/wiki/Game_modifier), die dafür sorgt, dass Spieler eine [Beatmap](/wiki/Beatmap) nicht bestehen, sobald sie ein [Hit-Objekt](/wiki/Hit_object) verfehlen oder es versäumen, einen Slidertick einzusammeln. Das ist für Spieler nützlich, die eine [Full Combo (FC)](/wiki/Full_combo) erreichen wollen. Es existiert jedoch eine Diskussion darüber, ob die Verwendung der Mod Sudden Death oder die Wiederholung des Versuchs beim ersten [Combobreak](/wiki/Gameplay/Judgement/Combobreak) sinnvoll ist oder ob es Spieler hemmt, die sich schnell verbessern wollen.
+Die Mod **Sudden Death** ist eine [Spielmodifikation](/wiki/Gameplay/Game_modifier), die dafür sorgt, dass Spieler eine [Beatmap](/wiki/Beatmap) nicht bestehen, sobald sie ein [Hit-Objekt](/wiki/Gameplay/Hit_object) verfehlen oder es versäumen, einen Slidertick einzusammeln. Das ist für Spieler nützlich, die eine [Full Combo (FC)](/wiki/Gameplay/Full_combo) erreichen wollen. Es existiert jedoch eine Diskussion darüber, ob die Verwendung der Mod Sudden Death oder die Wiederholung des Versuchs beim ersten [Combobreak](/wiki/Gameplay/Judgement/Combobreak) sinnvoll ist oder ob es Spieler hemmt, die sich schnell verbessern wollen.
 
 Genauer gesagt wird die Beatmap nur in den folgenden Fällen durch die Mod Sudden Death beendet:
 
@@ -38,10 +38,10 @@ Genauer gesagt wird die Beatmap nur in den folgenden Fällen durch die Mod Sudde
 
 Die Beatmap wird in den folgenden Fällen **nicht** durch die Mod Sudden Death beendet:
 
-- ein [Slidertail](/wiki/Hit_object/Slidertail) verfehlen (also ein Sliderbreak)
+- ein [Slidertail](/wiki/Gameplay/Hit_object/Slider/Slidertail) verfehlen (also ein Sliderbreak)
 - nicht auf dem leeren Sliderpath halten/sammeln
 
-Im Gegensatz zur Variante [Perfect](/wiki/Game_modifier/Perfect) der Mod Sudden Death wird die Beatmap nicht automatisch neugestartet. Stattdessen werden Spieler beim Verfehlen zum Niederlagenbildschirm weitergeleitet.
+Im Gegensatz zur Variante [Perfect](/wiki/Gameplay/Game_modifier/Perfect) der Mod Sudden Death wird die Beatmap nicht automatisch neugestartet. Stattdessen werden Spieler beim Verfehlen zum Niederlagenbildschirm weitergeleitet.
 
 Diese Mod hat denselben Effekt in allen [Spielmodi](/wiki/Game_mode).
 

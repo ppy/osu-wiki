@@ -140,7 +140,7 @@ outdated_translation: true
 - C = 300 มากกว่า 60%
 - D = นอกเหนือจากข้างต้น
 
-S และ SS สีเงินหมายถึงการเล่นผ่านด้วยโหมดเสริม '[Hidden](/wiki/Game_modifier/Hidden)' หรือ '[Flashlight](/wiki/Game_modifier/Flashlight)'
+S และ SS สีเงินหมายถึงการเล่นผ่านด้วยโหมดเสริม '[Hidden](/wiki/Gameplay/Game_modifier/Hidden)' หรือ '[Flashlight](/wiki/Gameplay/Game_modifier/Flashlight)'
 
 #### แถบพลังชีวิต
 

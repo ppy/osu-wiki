@@ -24,5 +24,5 @@ Les archives de l'histoire d'osu!, tout dans l'osu! wiki.
 - [Histoire de l'osu! wiki](osu!_wiki)
 - [L'histoire d'osu! concernant les April Fools' day jokes](April_Fools)
 - [Historique des classements en ligne](Online_rankings)
-- [Registre du personnel](/wiki/People/The_Team/Staff_Log)
+- [Registre du personnel](/wiki/People/Staff_log)
 - [Histoire des tournois d'osu!](/wiki/Tournaments)
