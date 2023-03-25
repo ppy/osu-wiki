@@ -22,4 +22,4 @@ While picking a layer to follow is usually up to a beatmap author's discretion, 
 
 ### Improvisation
 
-In addition to existing layers, mappers may arrange [hit objects](/wiki/Gameplay/Hit_object) in such a way that creates a new layer. This approach is called [overmapping](/wiki/Beatmapping/Overmapping) and used for the purpose of making the beatmap more interesting due to new rhythmic opportunities, usually not present in the song. However, inconsistent or excessive note placement may make it hard for players to follow the mapper's intent, and ruin the beatmap's relation to the song or its key features.
+In addition to existing layers, mappers may arrange [hit objects](/wiki/Gameplay/Hit_object) in such a way that creates a new layer. This approach is often called [overmapping](/wiki/Beatmapping/Overmapping) and is used for the purpose of making the beatmap more interesting due to new rhythmic opportunities, usually not present in the song. However, inconsistent or excessive note placement may make it hard for players to follow the mapper's intent, and ruin the beatmap's relation to the song or its key features.
