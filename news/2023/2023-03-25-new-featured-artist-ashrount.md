@@ -40,7 +40,7 @@ Anyone who followed [Corsace Open 2020](https://osu.ppy.sh/community/forums/topi
 
 ### Ashrount - Bleary Vagary
 
-...or potentially [this map](https://osu.ppy.sh/beatmapsets/1296231) created by [NyarkoO](https://osu.ppy.sh/users/6622567)!
+...or potentially [this map](https://osu.ppy.sh/beatmapsets/1296231) created by [NyarkoO](https://osu.ppy.sh/users/6622567)! If catching fruit is more your thing, perhaps [this osu!catch set](https://osu.ppy.sh/beatmapsets/1958376) hosted by [Jemzuu](https://osu.ppy.sh/users/7890134) might do the trick.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/352/Songs/Ashrount%20-%20Bleary%20Vagary.mp3">
