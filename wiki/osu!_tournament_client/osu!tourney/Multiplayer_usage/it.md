@@ -27,9 +27,9 @@ Come spiegato nella [guida uso spettatore](/wiki/osu!tourney/Spectator_usage), o
 
 Ad esempio, con `TeamSize = 4`, il 1°, il 2°, il 3° e il 4° slot apparterranno alla squadra blu, mentre il 5°, il 6°, il 7° e l'8° slot apparterranno alla squadra rossa. Con `TeamSize = 3`, il 1°, il 2° e il 3° slot apparterranno alla squadra blu e il 4°, il 5° e il 6° slot alla squadra rossa.
 
-![The correspondence of the windows in osu!tourney to the respective multiplayer room slots](img/Osutourneyassignment.png "Assegnazione dei giocatori di osu!tourney")
+![La corrispondenza tra la finestra di osu!tourney e i rispettivi slot della stanza multigiocatore](img/Osutourneyassignment.png "Assegnazione dei giocatori di osu!tourney")
 
-**osu!tourney ignora i colori delle squadre nell'assegnazione degli slot** - considera solo gli slot occupati dai giocatori nella stanza multigiocatore. Di seguito sono riportati alcuni esempi di osu!tourney con squadre di dimensioni diverse. I numeri sullo schermo indicano lo slot assegnato nella lobby multigiocatore. I numeri non sono visibili durante il normale funzionamento e sono riportati solo a scopo descrittivo:
+**osu!tourney ignora i colori delle squadre nell'assegnazione degli slot** - considera solo gli slot occupati dai giocatori nella stanza multigiocatore. Di seguito sono riportati alcuni esempi di osu!tourney con squadre di dimensioni diverse. I numeri sullo schermo indicano lo slot assegnato nella lobby multigiocatore. I numeri non sono visibili durante il normale funzionamento e sono riportati solo a titolo illustrativo:
 
 ![TeamSize = 4](img/Osutourneywindows.png)
 
