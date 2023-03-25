@@ -22,6 +22,10 @@ Stack leniency may be changed from the `Advanced` tab of the [Song Setup](/wiki/
 
 ## Behaviour
 
+![Stacking hit objects while editing may make them overlap to be on top of each other.](img/stacking-editor.jpg "Stacking hit objects while editing")
+
+![However, while playing, the game will slope them for the player.](img/stacking-playtest.jpg "Stacked hit objects while playing")
+
 The stack leniency multiplier, together with the [approach rate](/wiki/Beatmap/Approach_rate) value, controls which circles and slider parts are considered for stacking.[^stacking-algorithm] The stack is composed of the objects which are no longer than `preempt * StackLeniency` milliseconds apart, where `preempt` is the [approach window width](/wiki/Beatmap/Approach_rate#animation-timing), and `StackLeniency` is the value taken from the beatmap's `.osu` file.
 
 The minimal stack leniency value, `0`, disables automatic stacks completely, while at its maximal value, `1`, objects are considered stacked from the moment they start becoming visible.

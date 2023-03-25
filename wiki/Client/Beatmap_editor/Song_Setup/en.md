@@ -238,19 +238,13 @@ You can, however, include the skin elements inside the beatmap folder. As most c
 
 ![Screenshot of the Advanced tab](img/SS_Advanced.jpg "Advanced tab")
 
-### Stacking
+### Stack leniency
 
-![Stacking hit objects while editing may make them overlap to be on top of each other.](img/stacking-editor.jpg "Stacking hit objects while editing")
+*Main article: [Stack leniency](/wiki/Beatmap/Stack_leniency)*
 
-![However, while playing, the game will slope them for the player.](img/stacking-playtest.jpg "Stacked hit objects while playing")
+In osu!, [sliders](/wiki/Gameplay/Hit_object/Slider) and [circles](/wiki/Gameplay/Hit_object/Hit_circle) that are close in time will automatically [stack](/wiki/Beatmapping/Mapping_techniques/Stack) and slightly shift if placed in the same spot. This is done to help players better see [overlapping](/wiki/Beatmapping/Mapping_techniques/Overlap) objects.
 
-In osu!, hit objects will automatically stack if they are both placed in the same spot while being close in-time. This is to help players see hit objects that overlap each other.
-
-Moving the slider towards the right will space out the "closeness" of hit objects in-time before stacking will occur. This option is best left as is to its default value of `7`.
-
-*Notice: Stacked hit circles in osu! will move towards the point where the stacking occurs.*
-
-Objects are considered to belong to same stack if they are at the same coordinate and no further in-time than `[(Approach Window) * (Stack Leniency) / 10]`, where `Approach Window` is the duration for which objects stay on screen (see [the section on approach rate](#approach-rate) above).
+The stack leniency value controls the maximum amount of time between objects, after which they won't be stacked. It is best left as is to its default value of `7`.
 
 ### Mode Specific
 

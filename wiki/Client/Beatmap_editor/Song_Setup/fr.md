@@ -242,10 +242,6 @@ Vous pouvez toutefois inclure les éléments du skin dans le dossier de la beatm
 
 ### Stacking
 
-![L'empilement des objets lors de l'édition peut les faire se chevaucher et se retrouver les uns sur les autres.](img/stacking-editor.jpg "Empiler les objets pendant l'édition")
-
-![Cependant, pendant la partie, le jeu les inclinera pour le joueur.](img/stacking-playtest.jpg "Objets empilés frappés pendant le jeu")
-
 Dans osu!, les objets s'empilent automatiquement s'ils sont placés au même endroit tout en étant proches dans le temps. Ceci afin d'aider les joueurs à voir les objets qui se chevauchent.
 
 En déplaçant le slider vers la droite, vous espacerez la "proximité" des objets dans le temps avant que l'empilement ne se produise. Il est préférable de laisser cette option telle quelle, à sa valeur par défaut de `7`.

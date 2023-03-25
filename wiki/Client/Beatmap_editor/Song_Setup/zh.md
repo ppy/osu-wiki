@@ -187,8 +187,6 @@ Approach Rate 通常缩写为"**AR**"。
 
 堆叠将会自左上往堆叠的重心靠近。
 
-![示例](img/stacking-editor.jpg)
-
 ### 谱面适用模式指定(Mode Specific)
 
 通常情况下，谱面对于四个模式(osu!, osu!taiko, osu!catch, osu!mania)来说都是通用的。如果你将此项设定设置为“osu!taiko（太鼓专谱）”，“CTB（接水果专谱）” 或 “osu!mania（下落式专谱）” 时谱面将只会对应设定的模式。
