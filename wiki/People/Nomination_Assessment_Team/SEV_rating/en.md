@@ -87,7 +87,7 @@ Resets due to mapping issues rarely have 2 in obviousness, as they require good 
     - Unwarranted difficulty spikes (as in not fitting the song)
     - Dense rhythms/high spacing in calm sections
     - Overmapping in a way that is introduced/executed poorly
-    - Mapping a big stream over multiple distinct layers and sounds
+    - Mapping a big stream over multiple distinct [layers](/wiki/Music_theory/Layer) and sounds
 - **1/2:** (14%)
   - Same reasons as for 1/1, but more severe; typically a combination
 
