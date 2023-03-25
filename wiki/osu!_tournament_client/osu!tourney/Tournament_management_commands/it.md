@@ -3,7 +3,7 @@
 I seguenti comandi di chat sono forniti per la gestione remota delle sale da torneo multigiocatore:
 
 - `!mp make <nome>` - Crea una stanza da torneo con il nome specificato. Possono essere create al massimo 4 stanze di questo tipo.
-  - Questa stanza è speciale in quanto non viene chiusa quando tutti i giocatori hanno lasciato la stanza ed è protetta da una password che impedisce ai giocatori di entrare nella stanza stessa.
+  - Questa stanza è speciale in quanto non viene chiusa quando tutti i giocatori hanno lasciato la stanza ed è protetta da una password che impedisce ai giocatori di entrarci autonomamente.
   - Quando la stanza è terminata, usare `!mp close` per chiuderla.
 - `!mp makeprivate <nome>` - Crea una stanza da torneo privata con il nome specificato. Questo comando funziona come `!mp make`, ma la cronologia delle partite è visibile solo al creatore della stanza e ai suoi partecipanti.
 - `!mp name <titolo>` - Aggiorna il nome della stanza.
@@ -12,12 +12,12 @@ I seguenti comandi di chat sono forniti per la gestione remota delle sale da tor
 - `!mp lock` - Blocca la stanza in modo che i giocatori non possano cambiare squadra e slot.
 - `!mp unlock` - Annulla l'operazione sovrastante.
 - `!mp size <dimensione>` - Imposta la quantità di slot disponibili (1-16) nella stanza.
-- `!mp set <modalità_squadre> [<Condizione_di_vittoria>] [<dimensione>]` - Imposta varie proprietà della stanza.
+- `!mp set <modalità_squadre> [<condizione_di_vittoria>] [<dimensione>]` - Imposta varie proprietà della stanza.
   - `modalità_squadre` - 0: Head To Head, 1: Tag Coop, 2: Team Vs, 3: Tag Team Vs
-  - `Condizione_di_vittoria` - 0: Score, 1: Accuracy, 2: Combo, 3: Score V2
-- `!mp move <nomeutente> <slot>` - Sposta un giocatore all'interno della stanza nello slot con indice 1 specificato.
+  - `condizione_di_vittoria` - 0: Score, 1: Accuracy, 2: Combo, 3: Score V2
+- `!mp move <nomeutente> <slot>` - Sposta un giocatore all'interno della stanza nello slot specificato.
 - `!mp host <nomeutente>` - Trasferisce l'host al giocatore.
-- `!mp clearhost` - Cancella l'host della stanza.
+- `!mp clearhost` - Rimuove l'host della stanza.
 - `!mp settings` - Visualizza i dettagli completi della stanza.
 - `!mp start [<tempo>]` - Avvia la partita dopo un tempo prestabilito (in secondi) o istantaneamente se il tempo non è presente.
 - `!mp abort` - Interrompe la partita.
@@ -29,7 +29,7 @@ I seguenti comandi di chat sono forniti per la gestione remota delle sale da tor
   - È possibile inserire qualsiasi quantità di mod.
   - `mod` - HR, DT, FL, HD, FI, Freemod, None
 - `!mp timer [<tempo>]` - Inizia un conto alla rovescia.
-  - `time` è 30s di default.
+  - `tempo` è 30s di default.
   - Gli annunci del timer avvengono ogni minuto, 30s, 10s, 5s e prima.
 - `!mp aborttimer` - Ferma il timer corrente (sia quello normale che quello di inizio partita).
 - `!mp kick <nomeutente>` - Caccia il giocatore dalla stanza.
