@@ -4,13 +4,13 @@ title: "New Featured Artist: Ashrount"
 date: 2023-03-25 11:00:00 +0000
 ---
 
-**Ashrount** pounds through the doors to our Featured Artist library.
+**Ashrount** pounds through the doors into our Featured Artist library.
 
 ![](https://assets.ppy.sh/artists/352/header.jpg)
 
-You're more familiar with **Ashrount** than you may think. While their newest productions are under the alias **Ashrount**, they also produced [Emptiness](https://osu.ppy.sh/beatmapsets/1210804) under the name *Xect.* for BOFU2017, and a heap of older songs under the moniker *Maverick*, like the multi-mode marathon set [Maverick - Shironaga Star Jet -aquamarine mix-](https://osu.ppy.sh/beatmapsets/1012634).
+You're more familiar with **Ashrount** than you may think. While their newest productions are under the alias **Ashrount**, they also produced [Emptiness](https://osu.ppy.sh/beatmapsets/1210804) under the name *Xect.* for BOFU2017, and a heap of older songs under the moniker *Maverick*, like the multi-mode marathon set [Shironaga Star Jet -aquamarine mix-](https://osu.ppy.sh/beatmapsets/1012634).
 
-Regardless of how you know **Ashrount**, it's clear that their songs are in a league of their own. 
+Regardless of how you may know **Ashrount**, it's clear that their songs are in a league of their own. 
 
 Pick your favourite from the **10** listed on [**Ashrount**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/352) whenever you're ready to begin your mapping journey!
 
@@ -32,7 +32,7 @@ Try out [the map from the video above](https://osu.ppy.sh/beatmapsets/1955283) h
 
 ### Ashrount - Cataraxir
 
-Anyone who followed Corsace 2020 would recognize [this map](https://osu.ppy.sh/beatmapsets/1276331) created by [Realazy](https://osu.ppy.sh/users/918297)!
+Anyone who followed [Corsace Open 2020](https://osu.ppy.sh/community/forums/topics/1117976) would recognise [this map](https://osu.ppy.sh/beatmapsets/1276331) created by [Realazy](https://osu.ppy.sh/users/918297)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/352/Songs/Ashrount%20-%20Cataraxir.mp3">
@@ -66,7 +66,7 @@ Explore [this map](https://osu.ppy.sh/beatmapsets/1210804) hosted by [cotton\_\_
 
 **Ashrount** has even more top-tier songs to choose from. Take a peek at [**Ashrount**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/352) for the full list, all of which are available as pre-timed beatmap templates!
 
-## Featured Artist release schedule
+## Featured Artist release schedule update
 
 **We're returning to *one artist announcement* per week.**
 
@@ -78,7 +78,7 @@ That library will continue to grow of course, but given its current size, we aim
 
 *Experimentation* is how we'll handle this going forward. We want to avoid complacency with cookie-cutter releases (...like how it's been recently), and instead make Featured Artists more fun by pairing releases with extra projects/events!
 
-So to kick things off, next week's Featured Artist announcement will also have an accompanying livestream on [the osulive Twitch channel](https://www.twitch.tv/osulive) where [pishifat](https://osu.ppy.sh/users/3178418) (a.k.a. the dude writing this) creates a mapset from start to finish using the new artist's music. If you make a map too, it'll be reviewed on the stream as well!
+So to kick things off, next week's Featured Artist announcement will also have an accompanying livestream on the [osulive Twitch channel](https://www.twitch.tv/osulive) where [pishifat](https://osu.ppy.sh/users/3178418) (a.k.a. the dude writing this) creates a beatmap from start to finish using the new artist's music. If you make a map too, it'll be reviewed on the stream as well!
 
 ...and that's all for now! To hear about what we'll be doing for releases *after that*, stay tuned. :)
 
