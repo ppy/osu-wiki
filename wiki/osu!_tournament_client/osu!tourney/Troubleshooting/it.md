@@ -1,4 +1,4 @@
-# osu!tourney Risoluzione dei problemi
+# Risoluzione dei problemi di osu!tourney 
 
 ## Come posso creare una nuova installazione di osu! senza disinstallare il gioco attuale?
 
@@ -17,7 +17,7 @@ Disattiva i monitor secondari! osu!tourney funziona solo sul monitor principale.
 
 Utilizza una nuova installazione di osu!.
 
-## Lo sfondo di osu!tourney non viene mostrato!
+## Lo sfondo di osu!tourney non si vede!
 
 Assicurati che il file di sfondo si trovi correttamente in `/osu!/Skins/User/tournament/background.png`.
 Vedi la [guida allo skinning](/wiki/osu!tourney/Skinning) per maggiori dettagli.
@@ -29,18 +29,18 @@ Rinomina o cancella il file `tournament.cfg`.
 ## Il mio client non inizia a guardare!
 
 Fai clic sul nome della stanza nel pannello nero inferiore in modo che appaia in **grassetto**.
-Se il client continua a non guardare, fai clic sul pulsante "Panico".
+Se il client continua a non guardare, fai clic sul pulsante "Panic".
 
 ## Le stanze non vengono visualizzate!
 
 È possibile che la stanza abbia un nome errato o che sia stata usata una sigla sbagliata nel file `tournament.cfg`.
-Assicurati che la stanza sia nominata correttamente seguendo attentamente la [guida uso multiplayer](/wiki/osu!tourney/Multiplayer_usage).
+Assicurati che la stanza stia utilizzando un nome corretto, seguendo attentamente la [guida uso multiplayer](/wiki/osu!tourney/Multiplayer_usage).
 
 ## I nomi delle squadre non vengono visualizzati!
 
 Vedi la risposta precedente.
 
-## How do I stream my tournament to streaming services like Twitch?
+## Come posso trasmettere il mio torneo sui servizi di streaming come Twitch?
 
 Noi consigliamo di usare [Open Broadcaster Software](https://obsproject.com/), ma è possibile utilizzare qualsiasi altro programma di streaming in grado di catturare lo schermo.
 
@@ -53,3 +53,4 @@ Non ti dimenticate di regolare il ritaglio per rimuovere il pannello di controll
 Assicurati che osu! non sia eseguito come amministratore, a meno che non lo richieda da solo, e che sia aggiornato alla versione più recente di CuttingEdge.
 
 Invia un'e-mail a [tournaments@ppy.sh](mailto:tournaments@ppy.sh) se hai un problema che non è elencato qui. Assicurati di essere descrittivo e di fornire schermate, se possibile.
+
