@@ -3,8 +3,8 @@
 *Vedi anche: [osu! tournament client](/wiki/osu!_tournament_client)*\
 *Nota: Un [supporter tag](/wiki/osu!supporter) attivo è necessario per usare il client osu!tourney.*
 
-Si raccomanda di utilizzare una **nuova installazione di osu!** Questo perché il database dei Songs potrebbe corrompersi. È possibile avere più installazioni di osu!, basta tenerle in cartelle separate.
-Per farlo, copia `osu!.exe` in una cartella vuota ed eseguilo. Verrà creata una nuova installazione di osu! Questa è l'unica installazione che deve essere modificata da qui in poi.
+Si consiglia di utilizzare una **nuova installazione di osu!**. Questo perché il database delle canzoni potrebbe corrompersi. È possibile avere più installazioni di osu!, basta tenerle in cartelle separate.
+Per farlo, copia `osu!.exe` in una cartella vuota ed eseguilo. Verrà creata una nuova installazione di osu!. Questa è l'unica installazione che deve essere modificata da qui in poi.
 
 Apri osu! e accedi, selezionando le caselle "Ricorda nome utente" e "Ricorda password".
 
@@ -12,7 +12,7 @@ Chiudi osu! e crea un file `tournament.cfg` nel percorso di installazione. Avvia
 
 Aggiungi le canzoni del map pool nella cartella `/Songs/` prima di avviare il client. Tutte le beatmap inviate che il client non possiede verranno scaricate automaticamente.
 
-Alla chiusura del client, il file `tournament.cfg` sarà riempito come segue:
+Alla chiusura del client, il file `tournament.cfg` sarà composto come segue:
 
 ```
 TeamSize = 4
@@ -33,8 +33,8 @@ Non modificare il file `tournament.cfg` mentre osu! è in esecuzione. Chiudi osu
   - Non è consigliato modificare questo valore.
 - `RankingChatDelay`: Ritardo (in millisecondi) prima che i punteggi vengono nascosti e venga mostrata nuovamente la chat nella schermata della classifica.
 - `Height`: Altezza dell'area di streaming del client.
-  - Il client calcola automaticamente la larghezza in un rapporto di 16:9.
-  - L'"area di streaming" del client non include il pannello di controllo. In generale, il pannello di controllo è più grande di 200px rispetto all'altezza del client, quindi, ad esempio, uno schermo a 1440p sarebbe sicuro per lo streaming di un torneo a 1080p.
+  - Il client calcola automaticamente la larghezza, assumendo un rapporto d'aspetto di 16:9.
+  - L'"area di streaming" del client non include il pannello di controllo. In generale, il pannello di controllo è più grande di 200px rispetto all'altezza del client, quindi, ad esempio, una risoluzione di 1440p sarebbe consigliabile per lo streaming di un torneo a 1080p.
   - Default: 720, intervallo consentito: 568-2160
 - `Aspect`: Il rapporto di aspetto delle visualizzazioni del campo di gioco.
   - Nota che questo si applica solo ai layout 2v2.
