@@ -10,6 +10,6 @@ Kudosu diberikan kepada para pengguna yang memberikan *mod post* yang dirasa ber
 
 Pada saat sistem [forum modding](/wiki/Modding/Forum_modding) masih digunakan, kudosu dapat ditukar dengan [star priority](/wiki/Modding/Star_priority).
 
-Saat ini, kudosu hanya digunakan sebagai patokan bagi pengguna untuk dapat [menjadi](/wiki/People/The_Team/Beatmap_Nominators/Becoming_a_Beatmap_Nominator) seorang [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators). Para pengguna yang ingin melamar menjadi Beatmap Nominator harus memiliki sekurang-kurangnya 200 kudosu untuk mode permainan osu! atau 150 kudosu pada mode permainan osu!taiko, osu!catch, dan osu!mania.
+Saat ini, kudosu hanya digunakan sebagai patokan bagi pengguna untuk dapat [menjadi](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator) seorang [Beatmap Nominator](/wiki/People/Beatmap_Nominators). Para pengguna yang ingin melamar menjadi Beatmap Nominator harus memiliki sekurang-kurangnya 200 kudosu untuk mode permainan osu! atau 150 kudosu pada mode permainan osu!taiko, osu!catch, dan osu!mania.
 
 Kata *kudosu* sendiri, yang terkadang ditulis dengan *kudosu!*, merupakan sebuah [kata baru yang lahir dari hasil penggabungan dua kata](https://id.wikipedia.org/wiki/Portmanteau) yakni *kudos* dan *osu!*.

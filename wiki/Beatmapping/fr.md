@@ -1,7 +1,7 @@
 # Beatmapping
 
 Le **Beatmapping** est le processus de création de [beatmaps](/wiki/Beatmap) par le biais du client osu!
-Cela implique de choisir une musique, [timing](/wiki/Client/Beatmap_editor/Timing), le placement de [objects](/wiki/Hit_object), et (éventuellement) le [skinning](/wiki/Skinning) et le [storyboarding](/wiki/Storyboard#storyboarding).
+Cela implique de choisir une musique, [timing](/wiki/Client/Beatmap_editor/Timing), le placement de [objects](/wiki/Gameplay/Hit_object), et (éventuellement) le [skinning](/wiki/Skinning) et le [storyboarding](/wiki/Storyboard#storyboarding).
 
 Les mappeurs veulent généralement que leurs beatmaps obtiennent le statut [classé](/wiki/Beatmap). Pour en savoir plus à propos de ceci, vous pouvez jeter un aperçu à la [procédure de classement d'une beatmap](/wiki/Beatmap_ranking_procedure).
 
@@ -43,7 +43,7 @@ L'étape suivante consiste à ajouter un timing à votre beatmap.
 
 **Le timing est vital!**
 Les beatmaps mal synchronisées ne seront pas prises en compte pour le classement.
-Vous devez vous assurer que votre timing est parfait avant d’ajouter des [hit objects](/wiki/Hit_object).
+Vous devez vous assurer que votre timing est parfait avant d’ajouter des [hit objects](/wiki/Gameplay/Hit_object).
 
 Si vous avez des doutes sur le timing, contactez d'abord un mod pour obtenir de l'aide, ou soumettez votre musique au [Forum d'aide sur les Beatmap](https://osu.ppy.sh/community/forums/10).
 

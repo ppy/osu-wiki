@@ -56,11 +56,11 @@ osu!mania의 정확도는 [osu!](#-osu!)와 유사하게 계산됩니다.
 
 게임 내 커서를 그래프 위에 놓으면 *에러*와 *불안정한 정도*가 툴팁으로 표시됩니다.
 
-[더블 타임](/wiki/Game_modifier/Double_Time)이나 [하프 타임](/wiki/Game_modifier/Half_Time) 모드를 사용한 경우 정확한 값을 나타내지 않습니다. 더블 타임으로 플레이 할 때 정확한 값을 얻으려면 측정된 값에 1.5를 나누어야 합니다. 마찬가지로 하프 타임를 플레이할 때에는 측정된 값에 1.33을 곱하셔야 합니다.
+[더블 타임](/wiki/Gameplay/Game_modifier/Double_Time)이나 [하프 타임](/wiki/Gameplay/Game_modifier/Half_Time) 모드를 사용한 경우 정확한 값을 나타내지 않습니다. 더블 타임으로 플레이 할 때 정확한 값을 얻으려면 측정된 값에 1.5를 나누어야 합니다. 마찬가지로 하프 타임를 플레이할 때에는 측정된 값에 1.33을 곱하셔야 합니다.
 
 #### 에러 (Error)
 
-에러는 자신의 평균 판정 값에서 제일 느린 값과 제일 빠른 값을 표시해줍니다. 비트맵의 [Overall Difficulty](/wiki/Beatmapping/Overall_difficulty) 값이 높을수록, 판정이 더 엄격해지기 때문에 이 에러 값을 좁힐 수 있도록 플레이해야 할 것입니다.
+에러는 자신의 평균 판정 값에서 제일 느린 값과 제일 빠른 값을 표시해줍니다. 비트맵의 [Overall Difficulty](/wiki/Beatmap/Overall_difficulty) 값이 높을수록, 판정이 더 엄격해지기 때문에 이 에러 값을 좁힐 수 있도록 플레이해야 할 것입니다.
 
 #### 불안정한 정도 (Unstable rate)
 

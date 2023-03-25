@@ -54,8 +54,8 @@ Jika Anda tidak yakin terhadap gambar yang akan dimasukkan ke dalam beatmap, **s
 
 **Hasil pemungutan suara adalah final**, kecuali gambar diubah secara signifikan dalam upaya untuk menyelesaikan setiap elemen yang berpotensi bermasalah yang diangkat selama diskusi.
 
-Setiap saat, [tim inti osu!](/wiki/People/The_Team) berhak untuk menyatakan valid atau tidak terhadap konten apapun secara sepihak atas kebijakan mereka, terlepas dari pemungutan suara yang sebelumnya telah diadakan terkait masalah tersebut.
+Setiap saat, [tim inti osu!](/wiki/People/osu!_team) berhak untuk menyatakan valid atau tidak terhadap konten apapun secara sepihak atas kebijakan mereka, terlepas dari pemungutan suara yang sebelumnya telah diadakan terkait masalah tersebut.
 
 ## Catatan
 
-[^drug-nature]: Ini merupakan dapat menjadi pengecualian tergantung oleh asal obat-obatan terlarang, penggunaannya, dan subkulturnya, khususnya obat-obatan terlarang yang mengalami dekriminalisasi dan diregulasi seperti ganja. Permohonan pengecualian spesifik terhadap aturan ini dapat ditempuh dengan mengontak [tim support](/wiki/People/The_Team/Account_support_team) di [support@ppy.sh](mailto:support@ppy.sh).
+[^drug-nature]: Ini merupakan dapat menjadi pengecualian tergantung oleh asal obat-obatan terlarang, penggunaannya, dan subkulturnya, khususnya obat-obatan terlarang yang mengalami dekriminalisasi dan diregulasi seperti ganja. Permohonan pengecualian spesifik terhadap aturan ini dapat ditempuh dengan mengontak [tim support](/wiki/People/Account_support_team) di [support@ppy.sh](mailto:support@ppy.sh).

@@ -1,6 +1,6 @@
 # osu! tournament client
 
-The **osu! tournament client** is the official client that overlays [osu!tourney](/wiki/osu!tourney) with supplementary scenes and information relevant to an osu! tournament during a live stream.
+The **osu! tournament client** is the official client that overlays [osu!tourney](/wiki/osu!_tournament_client/osu!tourney) with supplementary scenes and information relevant to an osu! tournament during a live stream.
 
 Users encountering problems with the client may [create an issue on GitHub](https://github.com/ppy/osu/issues) or send an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
@@ -8,7 +8,7 @@ Users encountering problems with the client may [create an issue on GitHub](http
 
 To start the osu! tournament client, you need to specify a launch argument to the [osu!(lazer)](/wiki/Client/Release_stream/Lazer) executable. To do this, create a new shortcut on the desktop and set the location for it to `%LOCALAPPDATA%/osulazer/osu!.exe --tournament`. This will make that specific shortcut start up osu!(lazer) in the tournament client mode.
 
-Because the osu! tournament client is only an overlay for osu!tourney, that will need to be set up as well. Set the Release stream in osu!tourney to `Cutting Edge (Experimental)` and create an empty file called `ipc.txt` inside the installation folder of osu!tourney. After that, follow the [osu!tourney setup guide](/wiki/osu!tourney/Setup).
+Because the osu! tournament client is only an overlay for osu!tourney, that will need to be set up as well. Set the Release stream in osu!tourney to `Cutting Edge (Experimental)` and create an empty file called `ipc.txt` inside the installation folder of osu!tourney. After that, follow the [osu!tourney setup guide](/wiki/osu!_tournament_client/osu!tourney/Setup).
 
 Open the osu! tournament client and you will see this setup screen:
 

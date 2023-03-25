@@ -12,7 +12,7 @@ Les **Nouveaux combos** (abrégé en *NCs*) signalent le début d'un nouveau [co
 
 ## osu!
 
-Dans [osu!](/wiki/Game_mode/osu!), chaque [objet](/wiki/Hit_object) a son propre numéro de combo et sa propre [couleur de combo](/wiki/Beatmapping/Combo_colour). Lorsqu'un nouveau combo est lancé, la couleur du combo change et le numéro du combo est remis à un. Cela compte pour chaque objet suivant.
+Dans [osu!](/wiki/Game_mode/osu!), chaque [objet](/wiki/Gameplay/Hit_object) a son propre numéro de combo et sa propre [couleur de combo](/wiki/Beatmapping/Combo_colour). Lorsqu'un nouveau combo est lancé, la couleur du combo change et le numéro du combo est remis à un. Cela compte pour chaque objet suivant.
 
 *Note : Les [spinners](/wiki/Gameplay/Hit_object/Spinner) forcent le prochain objet à commencer un nouveau combo.*
 

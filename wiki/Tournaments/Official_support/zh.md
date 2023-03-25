@@ -17,7 +17,7 @@ outdated_since: 936ee8446406b7b2340514ada4970f608c31908a
 
 *关于作图比赛支持，请参见：[官方竞赛支持](/wiki/Contests/Official_support)。*
 
-[osu! 团队](/wiki/People/The_Team)正在推行一个项目，如果基于社区的锦标赛各项标准均符合官方团队的要求，他们可以向这些锦标赛酌情提供额外的支持。
+[osu! 团队](/wiki/People/osu!_team)正在推行一个项目，如果基于社区的锦标赛各项标准均符合官方团队的要求，他们可以向这些锦标赛酌情提供额外的支持。
 
 文章最后于 2023年1月8日 更新。如果有任何疑问或需要问题解答，请在 [osu!dev Discord 服务器](https://discord.com/invite/ppy)的 `#tournaments` 咨询，或是发送邮件至 [tournaments@ppy.sh](mailto:tournaments@ppy.sh)。
 

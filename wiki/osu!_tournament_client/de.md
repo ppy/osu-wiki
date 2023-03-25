@@ -1,6 +1,6 @@
 # osu!-Turnier-Client
 
-Der **osu!-Turnier-Client** ist der offizielle Client, der [osu!tourney](/wiki/osu!tourney) mit zusätzlichen Szenen und Informationen ummantelt, die für ein osu!-Turnier während eines Livestreams relevant sind.
+Der **osu!-Turnier-Client** ist der offizielle Client, der [osu!tourney](/wiki/osu!_tournament_client/osu!tourney) mit zusätzlichen Szenen und Informationen ummantelt, die für ein osu!-Turnier während eines Livestreams relevant sind.
 
 Nutzer, die Probleme mit dem Client haben, können [auf GitHub ein Issue erstellen](https://github.com/ppy/osu/issues) oder eine E-Mail an [tournaments@ppy.sh](mailto:tournaments@ppy.sh) senden.
 
@@ -8,7 +8,7 @@ Nutzer, die Probleme mit dem Client haben, können [auf GitHub ein Issue erstell
 
 Um den osu!-Turnier-Client zu starten, musst du ein Startargument zur ausführbaren Datei von [osu!(lazer)](/wiki/Client/Release_stream/Lazer) spezifizieren. Kreiere zu diesem Zweck eine Desktop-Verknüpfung und setze den Speicherort auf `%LOCALAPPDATA%/osulazer/osu!.exe --tournament`. Durch die spezielle Verknüpfung wird osu!(lazer) im Turnier-Client-Modus gestartet.
 
-Da der osu!-Turnier-Client nur ein Overlay für osu!tourney ist, muss das ebenfalls eingerichtet werden. Setze die Updatequelle in osu!tourney zu `Cutting Edge (Experimentell)` und erstelle eine leere Datei namens `ipc.txt` innerhalb des Installationsordners von osu!tourney. Folge danach der [osu!tourney-Einrichtungsanleitung](/wiki/osu!tourney/Setup).
+Da der osu!-Turnier-Client nur ein Overlay für osu!tourney ist, muss das ebenfalls eingerichtet werden. Setze die Updatequelle in osu!tourney zu `Cutting Edge (Experimentell)` und erstelle eine leere Datei namens `ipc.txt` innerhalb des Installationsordners von osu!tourney. Folge danach der [osu!tourney-Einrichtungsanleitung](/wiki/osu!_tournament_client/osu!tourney/Setup).
 
 Öffne den osu!-Turnier-Client und du wirst diesen Konfigurationsbildschirm sehen:
 

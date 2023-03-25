@@ -8,7 +8,7 @@ tags:
 
 # 表現分數 (PP) 委員會
 
-**表現分數 (PP) 委員會**是一個由精熟 osu! 的玩家及開發者組成的小組，負責促成並批准 [PP](/wiki/Performance_points) 和[星級](/wiki/Beatmapping/Star_rating)演算法的更新。他們的目標是協助 [osu! 開發者](/wiki/People/The_Team/Developers)更快速地推出改動，並增進與社群的協調。
+**表現分數 (PP) 委員會**是一個由精熟 osu! 的玩家及開發者組成的小組，負責促成並批准 [PP](/wiki/Performance_points) 和[星級](/wiki/Beatmap/Star_rating)演算法的更新。他們的目標是協助 [osu! 開發者](/wiki/People/Developers)更快速地推出改動，並增進與社群的協調。
 
 小組在 [2021 年 11 月 *PP & 星級改動* 新聞稿](https://osu.ppy.sh/home/news/2021-11-09-performance-points-star-rating-updates)中首次對外公開，以回應該年稍早舉辦的[社群問卷調查](https://osu.ppy.sh/home/news/2021-08-17-pp-sr-survey)。
 

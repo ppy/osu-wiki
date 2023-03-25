@@ -12,7 +12,7 @@ Vous pouvez afficher la console de tchat d'osu! sur la plupart des écrans en ap
 | **Blanc** | Vous |
 | **Jaune pâle** | Les autres utilisateurs |
 | **Jaune** | [osu!supporter](/wiki/osu!supporter) |
-| **Rouge** | Un membre de la [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) ou de la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team ) |
+| **Rouge** | Un membre de la [Global Moderation Team](/wiki/People/Global_Moderation_Team) ou de la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team ) |
 | **Vert** | La ligne contient votre nom ou certains mots-clés que vous avez ajoutés pour déclencher une [mise en évidence](Highlight). Une copie du message apparaîtra également dans un canal dédié, `#highlight`, qui contient toutes ces lignes. |
 | **Bleu** | Un message privé |
 | **Cyan** | [peppy](https://osu.ppy.sh/users/2), le créateur d'osu! |
