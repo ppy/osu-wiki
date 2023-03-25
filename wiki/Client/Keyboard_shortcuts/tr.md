@@ -66,7 +66,7 @@ Bu kısayollar her yerde çalışır:
 
 | Kısayol | Eylem |
 | :-- | :-- |
-| `F1` | [Oyun modu](/wiki/Game_modifier) seçim menüsünü aç. |
+| `F1` | [Oyun modu](/wiki/Gameplay/Game_modifier) seçim menüsünü aç. |
 | `F2` | Rastgele bir beatmap seç. |
 | `Shift` + `F2` | Önceki rastgele seçilmiş beatmape geri dön. |
 | `F3` | Beatmap seçeneklerini aç. |
@@ -76,8 +76,8 @@ Bu kısayollar her yerde çalışır:
 | `Ctrl` + `2` | Oyun modunu [osu!taiko](/wiki/Game_mode/osu!taiko) olarak değiştir. |
 | `Ctrl` + `3` | Oyun modunu [osu!catch](/wiki/Game_mode/osu!catch) olarak değiştir. |
 | `Ctrl` + `4` | Oyun modunu [osu!mania](/wiki/Game_mode/osu!mania) olarak değiştir. |
-| `Ctrl` + `Enter` | Seçilen beatmapi [Auto modda](/wiki/Game_modifier/Auto) oynat. |
-| `Ctrl` + `Shift` + `Enter` | Seçilen beatmapi [Cinema modunda](/wiki/Game_modifier/Cinema) oynat. |
+| `Ctrl` + `Enter` | Seçilen beatmapi [Auto modda](/wiki/Gameplay/Game_modifier/Auto) oynat. |
+| `Ctrl` + `Shift` + `Enter` | Seçilen beatmapi [Cinema modunda](/wiki/Gameplay/Game_modifier/Cinema) oynat. |
 | `Ctrl` + `A` | Auto modu aç/kapa. |
 | `Ctrl` + `F3` veya `Ctrl` + `+` | osu!mania kaydırma hızını arttır (osu!mania modundayken). |
 | `Ctrl` + `F4` veya `Ctrl` + `-` | osu!mania kaydırma hızını azalt (osu!mania modundayken). |
@@ -91,7 +91,7 @@ Bu kısayollar her yerde çalışır:
 
 ### Oyun modifikasyonları
 
-*Ana sayfa: [Oyun Modifikasyonları](/wiki/Game_modifier)*\
+*Ana sayfa: [Oyun Modifikasyonları](/wiki/Gameplay/Game_modifier)*\
 *Not: Kısayol tuşuna basmak onu açar/kapatır. Bu kısayolları kullanabilmeniz için oyun modifikasyonları menüsünde bulunmanız gerekir.*\
 *Not: Target practice (osu!), 1K ve 2K (osu!mania), Co-op (osu!mania), ve Mirror (osu!mania) modlarının kısayolu yoktur.*
 
@@ -280,7 +280,7 @@ Bu kısayollar beatmap düzenleyicinin her yerinde çalışır:
 | `Ctrl` + `C` | Seçilen sprite'ı kopyala. |
 | `Ctrl` + `V` | Sprite'ı mevcut zamana yapıştır. *Not: Yapıştırılan sprite'lar beatmap kaydedilene ve yeniden yüklenene kadar katman listesinde gösterilmeyecektir.* |
 | `Delete` | Katman üzerinden seçilen sprite'ı kaldır. |
-| `W`, `A`, `S`, `D` | Seçilen sprite'ı bir [osu!pixel](/wiki/osupixel) kadar sırasıyla yukarı, sola, aşağı ya da sola ötele. |
+| `W`, `A`, `S`, `D` | Seçilen sprite'ı bir [osu!pixel](/wiki/Client/Beatmap_editor/osu!_pixel) kadar sırasıyla yukarı, sola, aşağı ya da sola ötele. |
 
 ### Zamanlama
 

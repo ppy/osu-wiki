@@ -35,7 +35,7 @@ tags:
 
 你随时可以在尚未解决的支持案例邮件里发送一封回复，询问你案例的处理进度，但是请不要一周询问一到两次以上。你也可以在推特上联系 [@osusupport](https://twitter.com/osusupport) 来询问你案例的处理进度。
 
-在极少数情况下，多次、重复触犯规则的用户的支持请求可能会被刻意忽略。但[支持团队](/wiki/People/The_Team/Account_support_team)在这么做之前**一定**会先告知你：他们不会再对你进行任何回复。如果你没有收到这样的通知，就无须担心！
+在极少数情况下，多次、重复触犯规则的用户的支持请求可能会被刻意忽略。但[支持团队](/wiki/People/Account_support_team)在这么做之前**一定**会先告知你：他们不会再对你进行任何回复。如果你没有收到这样的通知，就无须担心！
 
 ### 我能完全阻止另一位用户联系我吗？ {#ignore-user}
 
@@ -93,7 +93,7 @@ tags:
 
 在这种情况下，你可以发邮件给 [accounts@ppy.sh](mailto:accounts@ppy.sh)，并与支持团队进一步讨论。
 
-在任何情况下，如果你不确定内容是不是适合放进个人介绍里，则你随时可以发私信给 [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) 的任何一位成员，他们会解答你的问题。
+在任何情况下，如果你不确定内容是不是适合放进个人介绍里，则你随时可以发私信给 [Global Moderation Team](/wiki/People/Global_Moderation_Team) 的任何一位成员，他们会解答你的问题。
 
 ### 我需要用电子邮箱地址来注册吗？ {#email-purpose}
 

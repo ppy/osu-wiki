@@ -6,7 +6,7 @@ tags:
 
 # Beatmap
 
-**Beatmap** (atau yang terkadang disebut sebagai *beatmapset*) merupakan kumpulan level permainan ([tingkat kesulitan](#tingkat-kesulitan)) untuk suatu lagu yang di dalamnya tersusun atas berbagai [objek permainan](/wiki/Hit_object). Di samping data seputar level permainan itu sendiri, beatmap juga mengandung berbagai komponen lainnya yang terkemas dalam [arsip .osz](/wiki/osu!_File_Formats/Osz_(file_format)) sebagai berikut:
+**Beatmap** (atau yang terkadang disebut sebagai *beatmapset*) merupakan kumpulan level permainan ([tingkat kesulitan](#tingkat-kesulitan)) untuk suatu lagu yang di dalamnya tersusun atas berbagai [objek permainan](/wiki/Gameplay/Hit_object). Di samping data seputar level permainan itu sendiri, beatmap juga mengandung berbagai komponen lainnya yang terkemas dalam [arsip .osz](/wiki/Client/File_formats/Osz_(file_format)) sebagai berikut:
 
 - berkas lagu yang bersangkutan, yang tersimpan dalam format MP3 atau Ogg.
 - [gambar latar](/wiki/Beatmap/Background) atau video, yang akan muncul dalam area permainan (*playfield*).
@@ -20,17 +20,17 @@ tags:
 
 *Artikel utama: [Tingkat kesulitan](/wiki/Beatmap/Difficulty)*
 
-*Tingkat kesulitan* merupakan [berkas `.osu`](/wiki/osu!_File_Formats/Osu_(file_format)) yang menerakan penempatan objek permainan, hitsound, dan efek spesial lainnya seperti [kiai time](/wiki/Gameplay/Kiai_time). Berkas ini juga mengandung informasi seputar [pengaturan tingkat kesulitan](/wiki/Client/Beatmap_editor/Song_Setup#difficulty) dan parameter lainnya yang memengaruhi permainan. Masing-masing tingkat kesulitan yang terdapat pada beatmap mempunyai strukturnya tersendiri dan terkadang hanya dapat dimainkan pada satu [mode permainan](/wiki/Game_mode). Adapun seberapa sulit suatu tingkat kesulitan ditentukan berdasarkan sistem [star rating](/wiki/Beatmapping/Star_rating).
+*Tingkat kesulitan* merupakan [berkas `.osu`](/wiki/Client/File_formats/Osu_(file_format)) yang menerakan penempatan objek permainan, hitsound, dan efek spesial lainnya seperti [kiai time](/wiki/Gameplay/Kiai_time). Berkas ini juga mengandung informasi seputar [pengaturan tingkat kesulitan](/wiki/Client/Beatmap_editor/Song_Setup#difficulty) dan parameter lainnya yang memengaruhi permainan. Masing-masing tingkat kesulitan yang terdapat pada beatmap mempunyai strukturnya tersendiri dan terkadang hanya dapat dimainkan pada satu [mode permainan](/wiki/Game_mode). Adapun seberapa sulit suatu tingkat kesulitan ditentukan berdasarkan sistem [star rating](/wiki/Beatmap/Star_rating).
 
 ## Submisi
 
-*Artikel utama: [Submisi beatmap](/wiki/Submission)*
+*Artikel utama: [Submisi beatmap](/wiki/Beatmapping/Beatmap_submission)*
 
-Pembuat beatmap dapat [mengunggah](/wiki/Submission) beatmap yang mereka buat untuk dimunculkan pada [daftar beatmap](https://osu.ppy.sh/beatmapsets) yang tersedia secara publik. Walaupun status kepemilikan beatmap hanya dapat dipegang oleh [satu orang](/wiki/Beatmap/Beatmap_host), beatmap dapat tercipta atas hasil kerja sama antar beberapa pengguna: sering kali, sebagian tingkat kesulitan yang terdapat pada beatmap merupakan hasil karya mapper lain baik itu dalam bentuk [kolaborasi](/wiki/Beatmap/Beatmap_collaborations) ataupun [tingkat kesulitan tamu (*guest difficulty*)](/wiki/Beatmap/Guest_difficulty).
+Pembuat beatmap dapat [mengunggah](/wiki/Beatmapping/Beatmap_submission) beatmap yang mereka buat untuk dimunculkan pada [daftar beatmap](https://osu.ppy.sh/beatmapsets) yang tersedia secara publik. Walaupun status kepemilikan beatmap hanya dapat dipegang oleh [satu orang](/wiki/Beatmap/Beatmap_host), beatmap dapat tercipta atas hasil kerja sama antar beberapa pengguna: sering kali, sebagian tingkat kesulitan yang terdapat pada beatmap merupakan hasil karya mapper lain baik itu dalam bentuk [kolaborasi](/wiki/Beatmap/Beatmap_collaborations) ataupun [tingkat kesulitan tamu (*guest difficulty*)](/wiki/Beatmap/Guest_difficulty).
 
 <!-- TODO: after https://github.com/ppy/osu-web/issues/5852 is resolved, this section will need an update -->
 
-Setelah diunggah, beatmap akan memperoleh kolom metadata tambahan yang mencakup deskripsi, bahasa, aliran, dan penanda konten eksplisit yang dapat diubah oleh pembuat beatmap pada situs web osu!. Beatmap yang diunggah juga akan memperoleh [judul teks](/wiki/Beatmap/Title_text) khusus, yang tampilannya dapat diubah dengan bantuan [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team).
+Setelah diunggah, beatmap akan memperoleh kolom metadata tambahan yang mencakup deskripsi, bahasa, aliran, dan penanda konten eksplisit yang dapat diubah oleh pembuat beatmap pada situs web osu!. Beatmap yang diunggah juga akan memperoleh [judul teks](/wiki/Beatmap/Title_text) khusus, yang tampilannya dapat diubah dengan bantuan [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team).
 
 ### Identifikasi
 
@@ -87,7 +87,7 @@ Beatmap juga dapat diperoleh melalui berbagai sumber eksternal yang **tidak diaw
 Terlepas dari mode permainan yang dimainkan, pemain osu! di seluruh dunia memanfaatkan beatmap untuk [menaikkan peringkat mereka secara global](/wiki/Performance_points) dan [saling bersaing antar satu sama lain](/wiki/Ranking) setiap harinya. osu! memiliki berbagai jenis papan peringkat yang keseluruhannya (kecuali yang pertama) hanya tersedia bagi pemilik [osu!supporter](/wiki/osu!supporter) sebagai berikut:
 
 - Peringkat global, yang mengurut peringkat seluruh pemain yang aktif;
-- Peringkat global untuk setiap kombinasi [mod](/wiki/Game_modifier) yang memungkinkan;
+- Peringkat global untuk setiap kombinasi [mod](/wiki/Gameplay/Game_modifier) yang memungkinkan;
 - Peringkat negara, yang mengurut peringkat pemain yang memiliki bendera yang sama;
 - Peringkat teman, yang mengurut peringkat pemain pada suatu map terhadap pengguna lainnya yang telah ditambahkan sebagai teman.
 
@@ -113,6 +113,6 @@ Komunitas osu! secara rutin mengadakan berbagai kontes untuk mendorong kreativit
 
 ### Featured Artist
 
-*Artikel utama: [Featured Artist](/wiki/Featured_Artists)*
+*Artikel utama: [Featured Artist](/wiki/People/Featured_Artists)*
 
-Featured Artist merupakan program dari [tim osu!](/wiki/People/The_Team) yang berfokus pada pembelian lisensi lagu dari berbagai musisi untuk keperluan mapping. Daftar Featured Artist selengkapnya beserta *template* beatmap dari masing-masing lagu yang telah dilisensi dapat dilihat pada [laman Featured Artist](https://osu.ppy.sh/beatmaps/artists).
+Featured Artist merupakan program dari [tim osu!](/wiki/People/osu!_team) yang berfokus pada pembelian lisensi lagu dari berbagai musisi untuk keperluan mapping. Daftar Featured Artist selengkapnya beserta *template* beatmap dari masing-masing lagu yang telah dilisensi dapat dilihat pada [laman Featured Artist](https://osu.ppy.sh/beatmaps/artists).

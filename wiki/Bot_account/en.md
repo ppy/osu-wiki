@@ -52,7 +52,7 @@ The body of the email should contain the following:
 - A link to the source code and documentation
 - A short summary of what your bot does
 
-The [account support team](/wiki/People/The_Team/Account_support_team) will review your request. If your request is denied, they will let you know why. If your request is approved, they will create the bot account for you and give you follow-up instructions about how to use it.
+The [account support team](/wiki/People/Account_support_team) will review your request. If your request is denied, they will let you know why. If your request is approved, they will create the bot account for you and give you follow-up instructions about how to use it.
 
 <!-- TODO: history section would be nice, talking about LogBot, BanchoBot, the phpbb crawler accounts, the first user-run bots, Quality Assurance Team, osu!team, ... -->
 

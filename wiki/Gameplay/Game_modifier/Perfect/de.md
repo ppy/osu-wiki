@@ -13,8 +13,8 @@ no_native_review: true
 
 ![PF Modsymbol](/wiki/shared/mods/PF.png "Perfect (PF) Modsymbol")
 
-*Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Game_modifier)*\
-*Siehe auch: [Sudden Death (Mod)](/wiki/Game_modifier/Sudden_Death)*
+*Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Gameplay/Game_modifier)*\
+*Siehe auch: [Sudden Death (Mod)](/wiki/Gameplay/Game_modifier/Sudden_Death)*
 
 ## Übersicht
 
@@ -24,11 +24,11 @@ no_native_review: true
 - Standard-Tastenkürzel: `S` `S` oder `Shift` + `S`
 - Untertitel: `SS oder verschwinde!`
 - Kompatible Spielmodi: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- Variante: [Sudden Death](/wiki/Game_modifier/Sudden_Death)
+- Variante: [Sudden Death](/wiki/Gameplay/Game_modifier/Sudden_Death)
 
 ## Beschreibung
 
-Die Mod **Perfect** ist eine [Spielmodifikation](/wiki/Game_modifier), die versucht, Spielern zu helfen, die die Note SS erreichen wollen. [Beatmaps](/wiki/Beatmap) gelten automatisch als nicht bestanden und werden neugestartet, sobald eine Note verfehlt wurde oder wenn bei einem [Hit-Objekt](/wiki/Hit_object) eine andere Punktzahl als 300 erzielt wurde.
+Die Mod **Perfect** ist eine [Spielmodifikation](/wiki/Gameplay/Game_modifier), die versucht, Spielern zu helfen, die die Note SS erreichen wollen. [Beatmaps](/wiki/Beatmap) gelten automatisch als nicht bestanden und werden neugestartet, sobald eine Note verfehlt wurde oder wenn bei einem [Hit-Objekt](/wiki/Gameplay/Hit_object) eine andere Punktzahl als 300 erzielt wurde.
 
 Eine der folgenden Handlungen **wird dafür sorgen**, dass die Mod Perfect die Beatmap neustartet:
 
@@ -49,7 +49,7 @@ Diese Mod hat denselben Effekt in allen [Spielmodi](/wiki/Game_mode).
 ## Trivia
 
 - Wenn es einen überspringbaren Prolog gibt, dann wird die Mod Perfect diesen nicht automatisch überspringen, da sie die Neustartfunktion anstatt Quick-Retry verwendet.
-- Die Mod Perfect ist eine Variante der Mod [Sudden Death](/wiki/Game_modifier/Sudden_Death).
+- Die Mod Perfect ist eine Variante der Mod [Sudden Death](/wiki/Gameplay/Game_modifier/Sudden_Death).
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

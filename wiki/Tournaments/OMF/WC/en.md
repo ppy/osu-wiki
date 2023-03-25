@@ -667,7 +667,7 @@ See the [Qualifiers results spreadsheet](https://docs.google.com/spreadsheets/d/
 ### Stage instructions
 
 1. In the Qualifier stage, all teams will play a specific pool designed by the map selectors.
-2. The pool will contain 7 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time), DoubleTime Hardrock, [Easy](/wiki/Game_modifier/Easy), [Flashlight](/wiki/Game_modifier/Flashlight). There will not be a tiebreaker for this stage.
+2. The pool will contain 7 brackets: NoMod, [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time), DoubleTime Hardrock, [Easy](/wiki/Gameplay/Game_modifier/Easy), [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight). There will not be a tiebreaker for this stage.
 3. Teams will have to play the map pool once  at a designated time. Their combined score will be used for seeding.
 4. The mappool will be played in the order listed above.
 5. Each team must have 4 players for each map. They can be exchanged freely after a map is concluded.
@@ -698,7 +698,7 @@ See the [Qualifiers results spreadsheet](https://docs.google.com/spreadsheets/d/
 ### Mappool instructions
 
 1. There will be a new mappool for every stage.
-2. Each mappool consists of 7 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time), DoubleTime Hardrock, [Easy](/wiki/Game_modifier/Easy), [Flashlight](/wiki/Game_modifier/Flashlight).
+2. Each mappool consists of 7 brackets: NoMod, [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time), DoubleTime Hardrock, [Easy](/wiki/Gameplay/Game_modifier/Easy), [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight).
 3. Each mappool has a specific size depending on the stage.
 4. Each mappool has one tiebreaker.
 5. **The NoFail mod will be forced on every map.**
