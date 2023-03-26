@@ -13,8 +13,8 @@ tags:
 
 ![FI Modsymbol](/wiki/shared/mods/FI.png "Fade In (FI) Modsymbol")
 
-*Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Game_modifier)*\
-*Nicht zu verwechseln mit [Hidden (Mod)](/wiki/Game_modifier/Hidden) oder [Flashlight (Mod)](/wiki/Game_modifier/Flashlight).*
+*Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Gameplay/Game_modifier)*\
+*Nicht zu verwechseln mit [Hidden (Mod)](/wiki/Gameplay/Game_modifier/Hidden) oder [Flashlight (Mod)](/wiki/Gameplay/Game_modifier/Flashlight).*
 
 ## Übersicht
 
@@ -23,11 +23,11 @@ tags:
 - Score-Multiplikator: 1,00x
 - Standard-Tastenkürzel: `F`
 - Kompatible Spielmodi: ![][osu!mania]
-- Variante: [Hidden](/wiki/Game_modifier/Hidden)
+- Variante: [Hidden](/wiki/Gameplay/Game_modifier/Hidden)
 
 ## Beschreibung
 
-Die Mod **Fade In** ist eine [Spielmodifikation](/wiki/Game_modifier) für [osu!mania](/wiki/Game_mode/osu!mania), die die Schwierigkeit von [Beatmaps](/wiki/Beatmap) erhöht, indem die Notes verschwinden und dann beim Erreichen der [Beurteilungsleiste](/wiki/Gameplay/Judgement) erscheinen. Daher der Name.
+Die Mod **Fade In** ist eine [Spielmodifikation](/wiki/Gameplay/Game_modifier) für [osu!mania](/wiki/Game_mode/osu!mania), die die Schwierigkeit von [Beatmaps](/wiki/Beatmap) erhöht, indem die Notes verschwinden und dann beim Erreichen der [Beurteilungsleiste](/wiki/Gameplay/Judgement) erscheinen. Daher der Name.
 
 Die Geschwindigkeit, bei der die Notes erscheinen, hängt von der Combo ab. Bei höherer Combo erscheinen die Notes später und bleiben länger unsichtbar. Das bedeutet, je höher die Combo eines Spielers wird, desto später erscheinen die Notes.
 

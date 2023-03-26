@@ -17,7 +17,7 @@ Beatmap düzenleyici 4 ana kısma ayrılmıştır (sol üstte görebilirsiniz):
 
 ## Compose (Oluştur)
 
-[Compose (Oluştur)](/wiki/Client/Beatmap_editor/Compose) sekmesi tüm [vuruş objelerinin](/wiki/Hit_object) ve oynayış ile alakalı diğer elementlerin oluşturulduğu yerdir. Bundan ötürü pek çok mapper zamanlarının pek çoğunu bu sekmede geçirir.
+[Compose (Oluştur)](/wiki/Client/Beatmap_editor/Compose) sekmesi tüm [vuruş objelerinin](/wiki/Gameplay/Hit_object) ve oynayış ile alakalı diğer elementlerin oluşturulduğu yerdir. Bundan ötürü pek çok mapper zamanlarının pek çoğunu bu sekmede geçirir.
 
 ## Design (Dizayn)
 

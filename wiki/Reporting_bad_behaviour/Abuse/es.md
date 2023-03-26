@@ -29,7 +29,7 @@ Si sientes que los comentarios/avances fueron altamente inapropiados o si eres u
 
 ### En una publicación dentro de los foros de osu!
 
-Reporta la publicación a cualquier miembro de nuestro [Equipo de moderación global](/wiki/People/The_Team/Global_Moderation_Team) lo más pronto posible.
+Reporta la publicación a cualquier miembro de nuestro [Equipo de moderación global](/wiki/People/Global_Moderation_Team) lo más pronto posible.
 
 Para hacerlo, haz click en el usuario de cualquier miembro del equipo de moderadores en la lista de esa página. Esto te llevara a su perfil. Si estas inseguro/a de quien clickear, simplemente usa [este enlace](https://osu.ppy.sh/users/102335).
 

@@ -14,7 +14,7 @@ tags:
 
 ![Ikon mod NV](/wiki/shared/mods/NV.png "Ikon mod No Video (NV)")
 
-*Untuk melihat daftar keseluruhan dari semua mod, kunjungi: [Game Modifier](/wiki/Game_modifier)*
+*Untuk melihat daftar keseluruhan dari semua mod, kunjungi: [Game Modifier](/wiki/Gameplay/Game_modifier)*
 
 ## Tentang
 
@@ -26,7 +26,7 @@ tags:
 
 *Catatan: Mod ini tidak tersedia lagi untuk digunakan.*
 
-Mod **No Video** dahulunya adalah sebuah [game modifier](/wiki/Game_modifier) yang mengizinkan pemain untuk mematikan latar belakang video pada [beatmap](/wiki/Beatmap). Mod ini digunakan untuk meningkatkan framerate dan performa permainan.
+Mod **No Video** dahulunya adalah sebuah [game modifier](/wiki/Gameplay/Game_modifier) yang mengizinkan pemain untuk mematikan latar belakang video pada [beatmap](/wiki/Beatmap). Mod ini digunakan untuk meningkatkan framerate dan performa permainan.
 
 Fungsi mod ini telah digantikan dengan sebuah pengaturan pada bagian [Visual Settings](/wiki/Client/Interface/Visual_settings). Oleh sebab itu, ikon dan mod ini tidak digunakan lagi.
 

@@ -28,7 +28,7 @@ Não modifique o arquivo `tournament.cfg` enquanto o osu! estiver aberto. Feche 
 - `TeamSize`: O número de jogadores por time. O cliente abrirá 1-8 janelas por time dependendo desse valor. O valor máximo é 8.
 - `ClientNameSize`: O tamanho dos nomes dos jogadores amarelos.
 - `privateserver`: Deixe isso como está.
-- `acronym`: Uma abreviação para o torneio. Isso afeta a nomenclatura necessária para as salas de torneio, veja o [guia de utilização do multiplyer](/wiki/osu!tourney/Multiplayer_usage) para mais informações.
+- `acronym`: Uma abreviação para o torneio. Isso afeta a nomenclatura necessária para as salas de torneio, veja o [guia de utilização do multiplyer](/wiki/osu!_tournament_client/osu!tourney/Multiplayer_usage) para mais informações.
 - `BufferTimeoutTime`: Quanto tempo o cliente irá esperar um jogador carregar antes de continuar sem ele.
   - Não é recomendado mudar isso.
 - `BufferTotalTime`: Quanto tempo o cliente carrega para reduzir a frequência de pauses de carregamento. Isso produz um delay entre o cliente e os jogadores.

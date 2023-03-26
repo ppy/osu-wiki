@@ -78,7 +78,7 @@ Tapez les premières lettres du nom d'utilisateur, puis utilisez le touche `Tab`
 La norme IRC a un concept de modes de canal, ou des ensembles d'actions que chaque utilisateur peut effectuer. Dans osu!Bancho, deux modes sont utilisés pour des groupes spéciaux d'utilisateurs du tchat :
 
 - `+`, ou "statut vocal" : l'utilisateur est connecté via un client IRC externe
-- `@`, ou "statut d'opérateur de tchat" : l'utilisateur est un modérateur de tchat, ([GMT](/wiki/People/The_Team/Global_Moderation_Team) ou [NAT](/wiki/People/The_Team/Nomination_Assessment_Team))
+- `@`, ou "statut d'opérateur de tchat" : l'utilisateur est un modérateur de tchat, ([GMT](/wiki/People/Global_Moderation_Team) ou [NAT](/wiki/People/Nomination_Assessment_Team))
 
 Les utilisateurs connectés via le client osu! ou le site web n'ont pas de préfixe.
 

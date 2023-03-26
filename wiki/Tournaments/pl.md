@@ -330,4 +330,4 @@ Nieoficjalne turnieje lub zawody organizowane przez społeczność gry.
 ## Zobacz także
 
 - [Lista państw uczestniczących w turniejach osu!](/wiki/Tournaments/Countries_that_participated_in_osu!_tournaments)
-- [osu!tourney](/wiki/osu!tourney) (klient używany do transmitowania turniejów)
+- [osu!tourney](/wiki/osu!_tournament_client/osu!tourney) (klient używany do transmitowania turniejów)

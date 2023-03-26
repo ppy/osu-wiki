@@ -10,7 +10,7 @@ no_native_review: true
 
 La **pestaña de tempo** del [editor de beatmap](/wiki/Client/Beatmap_editor) permite que los mapers cambien las configuraciones del tempo de un [beatmap](/wiki/Beatmap). El tempo es usualmente el primer paso al momento de crear un nuevo beatmap.
 
-El tempo consiste en la [compensación](/wiki/Beatmapping/Offset) de una canción, los [beats por minuto(BPM)](/wiki/Beatmapping/Beats_per_minute) y la [métrica](https://es.wikipedia.org/wiki/M%C3%A9trica_(m%C3%BAsica)). El correcto tempo en los beatmaps es necesario para que los jugadores mantengan su [precisión](/wiki/Gameplay/Accuracy) mientras juegan. Beatmaps con tiempos incorrectos no pueden pasar por el [proceso de ranking de beatmaps](/wiki/Beatmap_ranking_procedure).
+El tempo consiste en la [compensación](/wiki/Offset) de una canción, los [beats por minuto(BPM)](/wiki/Music_theory/Tempo) y la [métrica](https://es.wikipedia.org/wiki/M%C3%A9trica_(m%C3%BAsica)). El correcto tempo en los beatmaps es necesario para que los jugadores mantengan su [precisión](/wiki/Gameplay/Accuracy) mientras juegan. Beatmaps con tiempos incorrectos no pueden pasar por el [proceso de ranking de beatmaps](/wiki/Beatmap_ranking_procedure).
 
 ## Ventana de Tempo y de Punto de Control
 
@@ -24,6 +24,6 @@ Un punto de tempo no heredado, desplegado como una línea roja, es la base para 
 
 ### Punto de tempo heredado
 
-Un punto de tempo heredado, desplegado como una línea verde, hereda la configuración del BPM, de la compensación y de la métrica de la previa línea roja. Las líneas verdes son usadas para ajustar configuración de la [velocidad del deslizador](/wiki/Hit_object/Slider_velocity) y de los [sonidos de golpe](/wiki/Beatmapping/Hitsound).
+Un punto de tempo heredado, desplegado como una línea verde, hereda la configuración del BPM, de la compensación y de la métrica de la previa línea roja. Las líneas verdes son usadas para ajustar configuración de la [velocidad del deslizador](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) y de los [sonidos de golpe](/wiki/Beatmapping/Hitsound).
 
 Un punto de tempo heredado no puede ser posicionado antes de uno no heredado, porque no heredaría ninguna configuración.

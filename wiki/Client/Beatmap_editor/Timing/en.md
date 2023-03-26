@@ -6,7 +6,7 @@
 
 The **timing tab** of the [beatmap editor](/wiki/Client/Beatmap_editor) lets mappers change the timing settings of a [beatmap](/wiki/Beatmap). Timing is usually the first step in creating a new beatmap.
 
-Timing consists of a song's [offset](/wiki/Beatmapping/Offset), [beats per minute (BPM)](/wiki/Beatmapping/Beats_per_minute), and [meter](https://en.wikipedia.org/wiki/Metre_(music)). Correct timing on beatmaps is necessary for players to maintain [accuracy](/wiki/Gameplay/Accuracy) while playing. Incorrectly timed beatmaps cannot pass through the [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure).
+Timing consists of a song's [offset](/wiki/Offset), [beats per minute (BPM)](/wiki/Music_theory/Tempo), and [meter](https://en.wikipedia.org/wiki/Metre_(music)). Correct timing on beatmaps is necessary for players to maintain [accuracy](/wiki/Gameplay/Accuracy) while playing. Incorrectly timed beatmaps cannot pass through the [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure).
 
 ## Timing and Control Points window
 
@@ -20,6 +20,6 @@ An uninherited timing point, displayed as a red line, is the base for a timing s
 
 ### Inherited timing point
 
-An inherited timing point, displayed as a green line, inherits BPM, offset, and meter settings from the previous red line. Green lines are used to adjust [slider velocity](/wiki/Hit_object/Slider_velocity) and [hitsound](/wiki/Beatmapping/Hitsound) settings.
+An inherited timing point, displayed as a green line, inherits BPM, offset, and meter settings from the previous red line. Green lines are used to adjust [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) and [hitsound](/wiki/Beatmapping/Hitsound) settings.
 
 An inherited timing point cannot be placed before an uninherited one, because it would not inherit any settings.
