@@ -29,7 +29,7 @@ Le contenu suivant est séparé en sections, indiquées par des titres de sectio
 | `PreviewTime` | Entier (Integer) | Temps en millisecondes où la prévisualisation audio doit commencer. | -1 |
 | `Countdown` | Entier (Integer) | Vitesse du compte à rebours avant le premier objet (`0` = pas de compte à rebours, `1` = normal, `2` = moitié, `3` = double). | 1 |
 | `SampleSet` | Chaîne de caractère (String) | Sampleset qui sera utilisé si les timing points ne le remplacent pas. (`Normal`, `Soft`, `Drum`) | Normal |
-| `StackLeniency` | Décimal (Decimal) | Multiplicateur pour le seuil dans le temps où les objets placés à proximité les uns des autres s'empilent (0-1). | 0.7 |
+| `StackLeniency` | Décimal (Decimal) | [Multiplicateur](/wiki/Beatmap/Stack_leniency) pour le seuil dans le temps où les objets placés à proximité les uns des autres s'empilent (0-1). | 0.7 |
 | `Mode` | Entier (Integer) | Mode de jeu (`0` = osu!, `1` = osu!taiko, `2` = osu!catch, `3` = osu!mania) | 0 |
 | `LetterboxInBreaks` | 0 ou 1 | Si les pauses ont ou non un effet letterboxing | 0 |
 | `StoryFireInFront` | 0 ou 1 | *Déprécié* | 1 |

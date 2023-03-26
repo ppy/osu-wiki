@@ -50,8 +50,10 @@ The osu!taiko World Cup 2023 is run by various community members.
 
 ## Links
 
+- [Information spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQVZQZCgZ1cw1N6w0CGsnSGT2-ILaWMYo88bRDXQycx03Rw0yawJikrOGB_rsx1k0LVY7UaO1DVU_5J/pubhtml)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1722224)
 - [Livestream](https://www.twitch.tv/osulive)
+- [Challonge bracket](https://challonge.com/TWC_2023)
 - [Donate to the prize pool](https://opencollective.com/osu-tournaments/events/osu-taiko-world-cup-2023-13130e56)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/110) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
 
@@ -112,7 +114,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad
 | Philippines ::{ flag=PH }:: | ::{ flag=RU }:: Russian Federation | [Mar 25 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230325T150000&p1=1440&p2=145&p3=166) |
 | United States ::{ flag=US }:: | ::{ flag=PT }:: Portugal | [Mar 25 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230325T160000&p1=1440&p2=263&p3=133) |
 | Finland ::{ flag=FI }:: | ::{ flag=MX }:: Mexico | [Mar 25 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230325T170000&p1=1440&p2=101&p3=155) |
-| Canada ::{ flag=CA }:: | ::{ flag=PL }:: Poland | [Mar 25 (Sat) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230325T190000&p1=1440&p2=188&p3=262) |
 
 ### Sunday, 26 March 2023
 
@@ -127,6 +128,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad
 | Taiwan ::{ flag=TW }:: | ::{ flag=VN }:: Vietnam | [Mar 26 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230326T130000&p1=1440&p2=241&p3=95) |
 | Brazil ::{ flag=BR }:: | ::{ flag=NO }:: Norway | [Mar 26 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230326T170000&p1=1440&p2=45&p3=187) |
 | Chile ::{ flag=CL }:: | ::{ flag=CZ }:: Czechia | [Mar 26 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230326T170000&p1=1440&p2=232&p3=204) |
+| Canada ::{ flag=CA }:: | ::{ flag=PL }:: Poland | [Mar 26 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230326T180000&p1=1440&p2=188&p3=262) |
 
 ## Mappools
 
