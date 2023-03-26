@@ -44,5 +44,5 @@ Ces spinners sont interdits car ils peuvent faire perdre au joueur son combo et/
 
 Nominateur :
 
-Le **Stack zero** nécessite que le mappeur modifie la valeur de `Stack Leniency` à `0` en utilisant Notepad.
+Le **Stack zero** nécessite que le mappeur modifie la valeur de [stack Leniency](/wiki/Beatmap/Stack_leniency) à `0` en utilisant Notepad.
 En faisant cela, osu! n'empilera plus les objets (cela signifie que tous les objets seront placés les uns sur les autres au lieu d'être placés légèrement en haut à gauche).

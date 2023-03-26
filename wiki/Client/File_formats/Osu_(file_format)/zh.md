@@ -29,7 +29,7 @@
 | `PreviewTime` | Integer（整型） | 在选中谱面时的歌曲预览点位置（毫秒） | -1 |
 | `Countdown` | Integer（整型） | 在第一个物件之前出现的倒计时速度 (`0` = 无倒计时, `1` = 正常速度, `2` = 一半速度, `3` = 二倍速度) | 1 |
 | `SampleSet` | String（字符串） | 当时间点（红线、绿线）未覆盖设置时的默认音效组（`Normal`、`Soft`、`Drum`） | Normal |
-| `StackLeniency` | Decimal（精准小数） | 当物件重叠在同一个位置时，决定物件之间是否出现堆叠效果的阈值（0-1） | 0.7 |
+| `StackLeniency` | Decimal（精准小数） | 当物件重叠在同一个位置时，决定物件之间是否出现堆叠效果[的阈](/wiki/Beatmap/Stack_leniency)值（0-1） | 0.7 |
 | `Mode` | Integer（整型） | 游戏模式（`0` = osu!、`1` = osu!taiko、`2` = osu!catch、`3` = osu!mania） | 0 |
 | `LetterboxInBreaks` | Boolean（布尔值） | 是否开启谱面休息段使用黑边填充设置 | 0 |
 | `StoryFireInFront` | Boolean（布尔值） | *已弃用* | 1 |
