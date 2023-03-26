@@ -8,7 +8,7 @@ outdated_translation: true
 
 # Pattern
 
-Un **pattern** est un petit ensemble d'[objets](/wiki/Hit_object) dans une [beatmap](/wiki/Beatmap) arrangés d'une manière significative.
+Un **pattern** est un petit ensemble d'[objets](/wiki/Gameplay/Hit_object) dans une [beatmap](/wiki/Beatmap) arrangés d'une manière significative.
 
 ## Types de patterns courants
 

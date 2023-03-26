@@ -46,7 +46,7 @@ The osu! Loved candidates were chosen by [Mismagius](https://osu.ppy.sh/users/19
 Before we delve into this month's picks, here's a preview video made by the talented [megumic](https://osu.ppy.sh/users/7537133)!
 
 <div align="center">
-    <video width="100%" controls>
+    <video width="95%" controls>
         <source src="https://assets.ppy.sh/project-loved/2023/march23-osu.mp4" type="video/mp4" preload="none">
     </video>
 </div>

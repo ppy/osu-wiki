@@ -362,16 +362,16 @@ Abschnittstitel dürfen kein Titellevel überspringen (also gehe nicht von einem
 Es ist möglich, eine Abschnittskennung neu zu definieren, welche genutzt wird, um darauf direkt zu verweisen. Benutzerdefinierte Kennungen sollten genutzt werden, wenn automatisch generierte zu lang sind, knifflige Zeichensetzung oder Bilder enthalten:
 
 ```markdown
-## Meine Abklingzeit ist vorüber. Wie lege ich Berufung ein? {#berufung}
+## Meine Abklingzeit ist vorüber. Wie lege ich Berufung ein? {id=berufung}
 
-## Übliche Gründe für Sperrungen oder Abklingzeiten {#übliche-gründe}
+## Übliche Gründe für Sperrungen oder Abklingzeiten {id=übliche-gründe}
 ```
 
 Dieses Feature kann auch verwendet werden, um einen spezifischen Teil eines Artikels zu markieren, der keine Überschrift trägt. Nutze es sparsam:
 
 ```markdown
 > Das ist es! Du bist auf dem richtigen Weg, ein osu! Rhythmus-Meister zu werden!
-{#tutorial-zitat}
+{id=tutorial-zitat}
 ```
 
 ## Listen
@@ -525,7 +525,7 @@ Es gibt zwei Arten von Links: Inline und als Verweis. Inline hat zwei Stile.
 Das folgende ist ein Beispiel mit beiden Inline-Stilen:
 
 ```markdown
-[Spielmodifikation](/wiki/Game_modifier)
+[Spielmodifikation](/wiki/Gameplay/Game_modifier)
 
 <https://osu.ppy.sh/home>
 ```
@@ -571,8 +571,8 @@ Gute Beispiele:
 
 ```markdown
 [Artikelgestaltungskriterien](/wiki/Article_styling_criteria)
-[Entwickler](/wiki/People/The_Team/Developers)
-[Entwickler](/wiki/People/The_Team/Developers#game-client-developers)
+[Entwickler](/wiki/People/Developers)
+[Entwickler](/wiki/People/Developers#game-client-developers)
 ```
 
 ##### Links zu Unterartikeln

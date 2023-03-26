@@ -2,7 +2,7 @@
 
 ¡Gracias por tu interés en hacer la osu! wiki mejor! Este artículo cubre el proceso de contribución paso a paso. Si ya tienes experiencia usando GitHub, puedes omitir esta guía y seguir el flujo de trabajo normal de feature-branch para proponer cambios y salta a la sección de [Autocomprobación](#autocomprobación).
 
-No esperamos que los nuevos contribuidores estén familiarizados con GitHub o [Git](https://git-scm.com/), debido a que son herramientas mayormente enfocadas para desarrolladores. No te preocupes si haces algo mal tu primera vez, un [administrador de la wiki](/wiki/osu!_wiki/Maintenance/List_of_maintainers) te guiará en la dirección correcta, o lo arreglará por ti.
+No esperamos que los nuevos contribuidores estén familiarizados con GitHub o [Git](https://git-scm.com/), debido a que son herramientas mayormente enfocadas para desarrolladores. No te preocupes si haces algo mal tu primera vez, un [administrador de la wiki](/wiki/People/osu!_wiki_maintainers) te guiará en la dirección correcta, o lo arreglará por ti.
 
 Si, durante cualquier parte, estás confundido y/o necesitas ayuda adicional, siéntete libre de enviar un mensaje al canal `#osu-wiki` en el [servidor de Discord de osu!dev](/wiki/Community/osu!dev_Discord_server).
 
@@ -61,6 +61,6 @@ En adición al procedimiento manual de revisión, el repositorio de la osu! wiki
 
 ## Uniendo
 
-Tus cambios eventualmente serán revisados por uno de nuestros [administradores de la wiki](/wiki/osu!_wiki/Maintenance/List_of_maintainers), usualmente después de ser revisado por otros contribuidores. Si no sucede nada después de un tiempo razonable, pregunta en los comentarios de la pull request, o en el chat de `#osu-wiki` en el [servidor de Discord de osu!dev](/wiki/Community/osu!dev_Discord_server). Tus cambios aparecerán en la osu! wiki poco después de que sean unidos (en algunos casos esto puede llegar a tardar hasta 5 horas).
+Tus cambios eventualmente serán revisados por uno de nuestros [administradores de la wiki](/wiki/People/osu!_wiki_maintainers), usualmente después de ser revisado por otros contribuidores. Si no sucede nada después de un tiempo razonable, pregunta en los comentarios de la pull request, o en el chat de `#osu-wiki` en el [servidor de Discord de osu!dev](/wiki/Community/osu!dev_Discord_server). Tus cambios aparecerán en la osu! wiki poco después de que sean unidos (en algunos casos esto puede llegar a tardar hasta 5 horas).
 
 [osu_wiki]: https://github.com/ppy/osu-wiki

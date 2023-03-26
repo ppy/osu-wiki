@@ -198,8 +198,8 @@ Vous trouverez d'autres options de mise en page osu!mania dans le fichier [skin.
 
 | Option | Type de valeur | Description |
 | :-- | :-- | :-- |
-| `EditorGridSize` | Entier | Taille de la grille en [osu! pixels](/wiki/osupixel) |
-| `EditorGridSizeDesign` | Entier | Taille de la grille de conception en [osu! pixels](/wiki/osupixel) |
+| `EditorGridSize` | Entier | Taille de la grille en [osu! pixels](/wiki/Client/Beatmap_editor/osu!_pixel) |
+| `EditorGridSizeDesign` | Entier | Taille de la grille de conception en [osu! pixels](/wiki/Client/Beatmap_editor/osu!_pixel) |
 | `EditorDim` | 0 ou 1 | Si l'arrière-plan est atténué ou non pendant le test. |
 | `EditorGrid` | 0 ou 1 | Si grid snap est activé ou non |
 | `EditorBeatDivisor` | Entier | Dernier beat snap divisor utilisé |

@@ -10,7 +10,7 @@ tags:
 
 ![MWC 7K 2023 banner](img/mwc7k-2023-banner.jpg)
 
-The **osu!mania 7K World Cup 2023** (***MWC 7K 2023***) was a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/The_Team). It was the seventh instalment of the osu!mania 7K World Cup.
+The **osu!mania 7K World Cup 2023** (***MWC 7K 2023***) was a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/osu!_team). It was the seventh instalment of the osu!mania 7K World Cup.
 
 ## Tournament schedule
 
@@ -433,7 +433,7 @@ The final standings for the Qualifier stage can be found at the following [sprea
    - Captains are allowed to conduct and coordinate "tryouts", tests to gauge player aptitude, on their own terms.
    - Captains are allowed, at any time, to transfer their role to other prospective team members. Once given, only the new captain may assign the captaincy to another player.
    - **Teams that do not not send their team list by January 6, 23:59 UTC will be disqualified from the competition.**
-3. To ensure valid registrations, every prospective participant will be manually checked by the [account support team](/wiki/People/The_Team/Account_support_team), in a manner similar to the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) that is offered to community tournaments.
+3. To ensure valid registrations, every prospective participant will be manually checked by the [account support team](/wiki/People/Account_support_team), in a manner similar to the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) that is offered to community tournaments.
    - Every registered user will be assigned to their respective country's candidate list.
    - To be successfully accepted on the list, players are required to be placed #5000 or higher on the osu!mania 7K global ranking, and not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
 4. All successfully formed teams will be published after the registration phase on this page.
@@ -496,8 +496,8 @@ The final standings for the Qualifier stage can be found at the following [sprea
    - Quarterfinals and Semifinals: 14 beatmaps
    - Finals and Grand Finals: 16 beatmaps
 4. Each mappool has one tiebreaker, except for the Qualifiers.
-5. Possible mod choices for all beatmaps are [Hidden](/wiki/Game_modifier/Hidden), [Fade In](/wiki/Game_modifier/Fade_In), [Flashlight](/wiki/Game_modifier/Flashlight), and [Mirror](/wiki/Game_modifier/Mirror).
-6. Failed scores will be counted in their integrity. To that end, the [No Fail](/wiki/Game_modifier/No_Fail) mod will be enforced on every beatmap.
+5. Possible mod choices for all beatmaps are [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Fade In](/wiki/Gameplay/Game_modifier/Fade_In), [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight), and [Mirror](/wiki/Gameplay/Game_modifier/Mirror).
+6. Failed scores will be counted in their integrity. To that end, the [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) mod will be enforced on every beatmap.
 7. The tiebreaker will be played under Free Mod conditions.
 
 ### Scheduling instructions

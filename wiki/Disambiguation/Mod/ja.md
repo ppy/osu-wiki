@@ -2,6 +2,6 @@
 
 **Mod**には複数の意味があります:
 
-- [NAT](/wiki/People/The_Team/Nomination_Assessment_Team)や[GMT](/wiki/People/The_Team/Global_Moderation_Team)のメンバーのようなモデレーター
+- [NAT](/wiki/People/Nomination_Assessment_Team)や[GMT](/wiki/People/Global_Moderation_Team)のメンバーのようなモデレーター
 - ビートマップに目を通した人が与える[フィードバック](/wiki/Modding)
-- [ゲームモディファイア](/wiki/Game_modifier)
+- [ゲームモディファイア](/wiki/Gameplay/Game_modifier)

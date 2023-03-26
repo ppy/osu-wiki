@@ -13,7 +13,7 @@ no_native_review: true
 
 ![NV Mod 圖示](/wiki/shared/mods/NV.png "No Video (NV) Mod 圖示")
 
-*若要查看 Mod 列表，請見：[遊戲 Mod](/wiki/Game_modifier)*
+*若要查看 Mod 列表，請見：[遊戲 Mod](/wiki/Gameplay/Game_modifier)*
 
 ## 關於
 

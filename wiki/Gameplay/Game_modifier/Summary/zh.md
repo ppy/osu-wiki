@@ -1,6 +1,6 @@
 # 模组概要
 
-*主页面：[模组（Game modifiers）](/wiki/Game_modifier)*
+*主页面：[模组（Game modifiers）](/wiki/Gameplay/Game_modifier)*
 
 *注意：所有的模组在 osu!mania 模式都不会增加分数加成。*
 

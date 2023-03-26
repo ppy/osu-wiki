@@ -12,8 +12,8 @@ tags:
 
 ![DT Modsymbol](/wiki/shared/mods/DT.png "Double Time (DT) Modsymbol")
 
-*Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Game_modifier)*\
-*Siehe auch: [Nightcore (Mod)](/wiki/Game_modifier/Nightcore)*
+*Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Gameplay/Game_modifier)*\
+*Siehe auch: [Nightcore (Mod)](/wiki/Gameplay/Game_modifier/Nightcore)*
 
 ## Übersicht
 
@@ -27,13 +27,13 @@ tags:
 - Standard-Tastenkürzel: `D`
 - Untertitel: `Brumm brumm`
 - Kompatible Spielmodi: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- Variante: [Nightcore](/wiki/Game_modifier/Nightcore)
+- Variante: [Nightcore](/wiki/Gameplay/Game_modifier/Nightcore)
 
 ## Beschreibung
 
 *Anmerkung: Die Methode zur Erhöhung der Geschwindigkeit führt nicht zu einer Erhöhung der Tonhöhe des Songs.*
 
-Die Mod **Double Time** ist eine [Spielmodifikation](/wiki/Game_modifier), die versucht, die Schwierigkeit einer [Beatmap](/wiki/Beatmap) zu erhöhen, indem die allgemeine Geschwindigkeit (BPM) um 150 % (1,5x) erhöht wird, die Länge des Songs um 33 % reduziert wird und die [Approach-Rate (AR)](/wiki/Beatmapping/Approach_rate), [allgemeine Schwierigkeit (OD)](/wiki/Beatmapping/Overall_difficulty) sowie die [Gesundheit (HP)](/wiki/Gameplay/Health) erhöht werden.
+Die Mod **Double Time** ist eine [Spielmodifikation](/wiki/Gameplay/Game_modifier), die versucht, die Schwierigkeit einer [Beatmap](/wiki/Beatmap) zu erhöhen, indem die allgemeine Geschwindigkeit (BPM) um 150 % (1,5x) erhöht wird, die Länge des Songs um 33 % reduziert wird und die [Approach-Rate (AR)](/wiki/Beatmap/Approach_rate), [allgemeine Schwierigkeit (OD)](/wiki/Beatmap/Overall_difficulty) sowie die [Gesundheit (HP)](/wiki/Gameplay/Health) erhöht werden.
 
 Die Mod Double Time wird weithin als eine der besten Mods beim Erlangen großer Mengen von [Performance-Punkten](/wiki/Performance_points) auf einfacheren Schwierigkeitsgraden in [osu!](/wiki/Game_mode/osu!) angesehen.
 

@@ -39,11 +39,11 @@ Se hai ancora problemi o desideri avere più informazioni a riguardo, ti invitia
 
 ## Sono un osu!supporter, ma non ho 20 slot per le mappe in attesa! {#upload-slots}
 
-**Il numero di slot disponibili dipende dal tuo numero di mappe classificate. Per maggiori dettagli, leggi [osu!supporter § Limiti aumentati](/wiki/osu!supporter#increased-limits).**
+**Il numero di slot disponibili dipende dal tuo numero di mappe classificate. Per maggiori dettagli, leggi [osu!supporter § Limiti aumentati](/wiki/osu!supporter#limiti-aumentati).**
 
 ## Come elimino la mia beatmap? {#delete-beatmap}
 
-**Il [team di supporto](/wiki/People/The_Team/Account_support_team) non accettano richieste per eliminare manualmente le beatmap caricate.**
+**Il [team di supporto](/wiki/People/Account_support_team) non accettano richieste per eliminare manualmente le beatmap caricate.**
 
 Puoi cancellare la tua beatmap da solo aspettando un mese (28 giorni) senza aggiornarla, così che vada nelle mappe abbandonate.
 

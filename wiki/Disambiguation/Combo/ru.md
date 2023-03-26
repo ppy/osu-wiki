@@ -3,4 +3,4 @@
 **Комбо** может означать:
 
 - [Множитель очков](/wiki/Gameplay/Combo_(score_multiplier)), видимый во время игры (число попаданий подряд по игровым объектам).
-- [Последовательность игровых объектов](/wiki/Beatmapping/Combo), которые имеют один и тот же [цвет](/wiki/Glossary/Combo_colour).
+- [Последовательность игровых объектов](/wiki/Beatmapping/Combo), которые имеют один и тот же [цвет](/wiki/Beatmapping/Combo_colour).
