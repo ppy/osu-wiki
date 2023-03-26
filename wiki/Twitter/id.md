@@ -16,7 +16,7 @@ osu! memiliki beberapa akun Twitter, masing-masing akun melayani untuk tujuan te
 | ![Avatar osu!](img/osugame.jpg) | [@osugame](https://twitter.com/osugame) | Sumber resmi berita dan pengumuman seputar osu!. |
 | ![Avatar BanchoBoat](img/banchoboat.jpg) | [@banchoboat](https://twitter.com/banchoboat) | Bantuan komedi ketika ada yang salah. |
 | ![Avatar NAT](img/osu_nat.png) | [@osu_nat](https://twitter.com/osu_nat) | Berita, pengumuman, dan survey kecil-kecilan yang dikelola oleh [NAT](/wiki/People/Nomination_Assessment_Team) (tidak dikelola oleh [tim inti osu!](/wiki/People/osu!_team)). |
-| ![pp committee avatar](img/ppcommittee.png) | [@pp_committee](https://twitter.com/pp_committee) | Pengumuman penghitungan kesulitan untuk semua mode permainan, dikelola oleh [Performance Points Committee](/wiki/People/Performance_Points_Committee). |
+| ![Avatar pp committee](img/ppcommittee.png) | [@pp_committee](https://twitter.com/pp_committee) | Pengumuman perhitungan tingkat kesulitan untuk seluruh mode permainan, dikelola oleh [Performance Points Committee](/wiki/People/Performance_Points_Committee). |
 
 ## Pribadi
 

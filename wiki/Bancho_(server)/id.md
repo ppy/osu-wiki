@@ -8,19 +8,19 @@ tags:
 
 *Untuk penggunaan lainnya, lihat [Bancho (disambiguasi)](/wiki/Disambiguation/Bancho)*
 
-**Bancho** (terkadang disebut *osu!Bancho*) adalah sebuah kode nama dari komponen server yang menangani interaksi real-time antara pemain yang menggunakan versi stable klien permainan osu!:
+**Bancho** (atau yang terkadang disebut sebagai *osu!Bancho*) merupakan nama umum dari komponen server osu! yang menangani berbagai jenis interaksi antar para pemain yang online dengan osu! versi stable secara *real-time*. Jenis interaksi ini meliputi antara lain:
 
-- Sistem chat, [online presence](/wiki/Client/Interface/Chat_console#konsol-chat-yang-diperluas), dan [gateway IRC](/wiki/Community/Internet_Relay_Chat)
+- Sistem chat, [sistem online presence](/wiki/Client/Interface/Chat_console#konsol-chat-yang-diperluas), dan [gateway IRC](/wiki/Community/Internet_Relay_Chat)
 - Mode [spectator](/wiki/Gameplay/Spectating)
-- [Sistem multiplayer](/wiki/Client/Interface/Multiplayer) dan [managemen turnamen](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands)
+- [Sistem multiplayer](/wiki/Client/Interface/Multiplayer) dan [manajemen turnamen](/wiki/osu!_tournament_client/osu!tourney/Tournament_management_commands)
 
 ::: Infobox
-![](img/connection-warning.png "Tangkapan layar dari menu utama dengan simbol koneksi buruk (bawah kanan, pertama)")
+![](img/connection-warning.png "Tangkapan layar menu utama yang menampilkan simbol koneksi yang bermasalah (pojok kanan bawah, simbol pertama)")
 :::
 
-Jika terjadinya koneksi yang buruk dengan Bancho, osu! akan memperingatkan pemain dengan menampilkan ikon rantai putus di ujung bawah kiri layar.
+Pada saat koneksi antara Bancho dan klien permainan terganggu, osu! akan menampilkan peringatan berupa ikon rantai putus pada pojok kanan bawah layar.
 
-Dalam periode pemeliharaan, Bancho terkadang akan dinyalakan ulang. Informasi tersebut akan disampaikan ke semua pemain yang online melalui sistem pengumuman in-game, serta pesan peringatan berkala di dalam chat dengan hitungan mundur waktu. Penyalaan ulang Bancho hanya mempengaruhi fitur chat dan multiplayer, atas fungsionalitas lain sudah ditangani melalui API yang berbeda-beda.[^score-upload-ref]
+Terkadang, dalam masa pemeliharaannya, server Bancho akan perlu untuk dinyalakan ulang. Sebelum Bancho dinyalakan ulang, sistem osu! akan menampilkan pengumuman kepada para pemain yang online yang disertai dengan pesan peringatan berkala dan hitungan mundur di dalam chat. Penyalaan ulang ini sendiri hanya akan memengaruhi fitur chat dan multiplayer yang ada, karena fungsionalitas osu! lainnya ditangani oleh API selain Bancho.[^score-upload-ref]
 
 ## Referensi
 

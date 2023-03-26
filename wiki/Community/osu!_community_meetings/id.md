@@ -12,7 +12,7 @@ Saat ini, pertemuan komunitas osu! diketuai oleh [peppy](https://osu.ppy.sh/user
 
 Pertemuan komunitas osu! saat ini diselenggarakan pada Discord Stage yang ada di [server Discord osu!dev](https://discord.gg/ppy) dan disiarkan secara langsung pada [kanal Twitch peppy](https://www.twitch.tv/ppy). Seluruh sesi pertemuan biasanya berlangsung selama satu jam.
 
-Pertemuan diumumkan dengan pengingat pada [akun Twitter peppy](https://twitter.com/ppy). Untuk mendapat pemberitahuan mengenai pertemuan yang akan berlangsung, kamu dapat menandai dirimu sebagai "tertarik" (*"interested"*) pada *event* yang di-*post* pada [server Discord osu!dev](https://discord.gg/ppy).
+Setiap pertemuan akan diumumkan pada [server Discord osu!dev](https://discord.gg/ppy) yang disertai dengan tweet pengingat pada [akun Twitter peppy](https://twitter.com/ppy). Untuk mendapat notifikasi seputar pertemuan yang akan berlangsung, kamu dapat menandai dirimu sebagai "tertarik" (*"interested"*) pada event yang bersangkutan.
 
 Semua orang diperkenankan untuk berpartisipasi! Jika kamu punya pertanyaan atau sesuatu untuk disampaikan pada diskusi, kamu dapat mengangkat tanganmu di Discord Stage untuk masuk dalam antrian atau menuliskan pesan pada utas Discord di *channel* `#community-meetings` jika kamu tidak nyaman berbicara, yang akan dibacakan dan dijawab. Sebagai tambahan, sebelum bertanya, perhatikan pedoman berikut ini:
 
@@ -22,7 +22,7 @@ Semua orang diperkenankan untuk berpartisipasi! Jika kamu punya pertanyaan atau 
 
 Tujuan dari pedoman di atas adalah agar masing-masing pertanyaan tidak memakan waktu lebih dari 5 menit untuk dibahas. Oleh karenanya, mohon dipahami bahwa pertanyaan yang sudah pernah dijawab atau yang terlalu umum tidak akan ditanggapi lebih lanjut.
 
-**Mohon dicatat bahwa tidak semua pertemuan akan mengadakan sesi tanya-jawab.**
+**Mohon dicatat bahwa sesi tanya jawab tidak akan selalu diadakan pada setiap pertemuan.**
 
 ## Arsip
 

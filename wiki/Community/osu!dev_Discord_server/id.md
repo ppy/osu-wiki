@@ -9,7 +9,7 @@ tags:
 
 Tautan undangan permanen untuk masuk ke dalam server bisa diakses dengan <https://discord.gg/ppy>.
 
-Anggota yang baru pada server tersebut dapat dengan bebas mengumumkan dirinya di saluran `#introductions`, tetapi melakukannya bukanlah suatu persyaratan untuk berinteraksi dengan keseluruhan server tersebut.
+Walaupun tidak diwajibkan, para anggota yang baru masuk dapat memperkenalkan dirinya masing-masing pada saluran `#introductions` yang tersedia.
 
 ## Proyek
 
