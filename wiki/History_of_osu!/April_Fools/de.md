@@ -30,7 +30,7 @@ Nach einiger Zeit wurde die ursprüngliche Beatmap auf Wunsch ihres Erstellers e
 
 ### touhosu!
 
-Für den Aprilscherz 2010 wurden die osu!-Webseite und das Hauptmenü im Spiel mit Charakteren und Referenzen aus dem [Touhou Project](https://de.wikipedia.org/wiki/Touhou_Project) versehen. Zu den Änderungen gehörte die Hinzufügung des Charakters Marisa Kirisame und eine Anzeige mit unterschiedlich gefärbten Schmetterlingen in einem kreisförmigen Muster im Hauptmenü und auf der Website. Der Name "osu!" wurde in bestimmten Bereichen der Webseite mit "touhosu!" getauscht.[^touhousu-ontheweb][^touhousu-osudev-2021-01-27][^touhousu-forums]
+Für den Aprilscherz 2010 wurden die osu!-Webseite und das Hauptmenü im Spiel mit Charakteren und Referenzen aus dem [Touhou Project](https://de.wikipedia.org/wiki/Touhou_Project) versehen. Zu den Änderungen gehörte die Hinzufügung des Charakters Marisa Kirisame und eine Anzeige mit unterschiedlich gefärbten Schmetterlingen in einem kreisförmigen Muster im Hauptmenü und auf der Website. Der Name "osu!" wurde in bestimmten Bereichen der Webseite durch "touhosu!" ersetzt.[^touhousu-ontheweb][^touhousu-osudev-2021-01-27][^touhousu-forums]
 
 ![](img/2010-touhosu-main-screen.jpg "Das Hauptmenü in osu! am 1. April 2010")
 
