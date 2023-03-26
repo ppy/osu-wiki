@@ -64,8 +64,8 @@ jobs:
       - name: run remark on changed files
         run: |
           readarray -t REMARK_TARGET_FILES <<< $(
-            # ppy/osu-wiki#8867 -- disable style checks for regular Markdown files, such as README.md
-            echo "${{ env.INTERESTING_FILES }}" | grep -e .md$ | grep -E -v '^[[:upper:]]+\.md$' || true
+            # ppy/osu-wiki#8867 -- disable style checks for non-article Markdown files, such as README.md
+            echo "${{ env.INTERESTING_FILES }}" | grep -e .md$ | grep -E -v '^[A-Z-]+\.md$' || true
           )
           bash scripts/ci/run_remark.sh --target "${REMARK_TARGET_FILES[@]}"
 
