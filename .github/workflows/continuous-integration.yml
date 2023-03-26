@@ -76,7 +76,7 @@ jobs:
           cache-dependency-path: scripts/requirements.txt
           python-version: 3.x
 
-      - name: set up CI dependencies
+      - name: set up Python CI dependencies
         run: pip install -r scripts/requirements.txt
 
       - name: run yamllint on .yaml and .md files
