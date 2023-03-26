@@ -4,7 +4,7 @@ stub: true
 
 # 繪圖板
 
-*另見: [玩法](/wiki/Play_style)*
+*另見: [玩法](/wiki/Gameplay/Play_style)*
 
 ![](img/tablet.jpg "繪圖板")
 

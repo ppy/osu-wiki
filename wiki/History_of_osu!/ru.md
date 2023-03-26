@@ -24,5 +24,5 @@ outdated: true
 - [История osu! wiki](osu!_wiki)
 - [История первоапрельских шуток osu!](April_Fools)
 - [История онлайн-ранкингов](Online_rankings)
-- [История команд osu!](/wiki/People/The_Team/Staff_Log)
+- [История команд osu!](/wiki/People/Staff_log)
 - [История турниров osu!](/wiki/Tournaments)

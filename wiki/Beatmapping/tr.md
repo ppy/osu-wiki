@@ -3,7 +3,7 @@
 # Beatmap oluşturma
 
 **Beatmap oluşturma** oyuncuların oynaması için gerekli [beatmaplerin](/wiki/Beatmap) oluşturulma sürecidir.
-Bu şarkı seçmeyi, [zamanlamayı](/wiki/Client/Beatmap_editor/Timing), [objeler](/wiki/Hit_object) yerleştirmeyi, ve (opsiyonel olarak) [tema](/wiki/Skinning) ve [storyboard](/wiki/Storyboard#storyboarding) oluşturmayı da içerir.
+Bu şarkı seçmeyi, [zamanlamayı](/wiki/Client/Beatmap_editor/Timing), [objeler](/wiki/Gameplay/Hit_object) yerleştirmeyi, ve (opsiyonel olarak) [tema](/wiki/Skinning) ve [storyboard](/wiki/Storyboard#storyboarding) oluşturmayı da içerir.
 
 Mapperlar genellikle [beatmap derecelendirme prosedürünü](/wiki/Beatmap_ranking_procedure) takip ederek beatmaplerini [dereceli](/wiki/Beatmap) yapmak isterler.
 
@@ -38,7 +38,7 @@ Sonraki adım beatmapinize zamanlama eklemek olacak.
 
 **Zamanlama çok önemlidir!**
 Hatalı zamanlanan mapler derecelendirme için dikkate alınmayacaktır.
-Herhangi bir [vuruş objesi](/wiki/Hit_object) eklemeden önce zamanlamanızın mükemmel olduğundan emin olmalısınız.
+Herhangi bir [vuruş objesi](/wiki/Gameplay/Hit_object) eklemeden önce zamanlamanızın mükemmel olduğundan emin olmalısınız.
 
 Eğer zamanlamanızdan şüpheliyseniz, önce yardım için bir mod ile iletişime geçin, ya da şarkınızı [Beatmap Yardım forumuna](https://osu.ppy.sh/community/forums/10) gönderin.
 Bu ilerleyen vakitlerde sizi (ve modding topluluğunu) büyük güçlüklerden kurtaracaktır.

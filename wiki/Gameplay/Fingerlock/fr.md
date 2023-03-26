@@ -12,7 +12,7 @@ tags:
 
 *À ne pas confondre avec [Notelock](/wiki/Gameplay/Judgement/Notelock) ou [Mind block](/wiki/Gameplay/Mind_block).*
 
-Le terme **Fingerlock** (alternativement orthographié comme `finger-lock` ou `finger lock`) est utilisé pour décrire la sensation de perdre momentanément le contrôle de ses doigts en jouant à osu!, bien qu'il ne s'agisse pas d'un terme spécifique à osu!. Il est largement utilisé par les joueurs pour exprimer leur frustration lorsqu'ils savent quand et où appuyer sur un [objet](/wiki/Hit_object), mais qu'ils n'appuient pas sur la touche de manière inexplicable, créant ainsi une sensation où le doigt est comme "bloqué". D'où le nom de "fingerlock".
+Le terme **Fingerlock** (alternativement orthographié comme `finger-lock` ou `finger lock`) est utilisé pour décrire la sensation de perdre momentanément le contrôle de ses doigts en jouant à osu!, bien qu'il ne s'agisse pas d'un terme spécifique à osu!. Il est largement utilisé par les joueurs pour exprimer leur frustration lorsqu'ils savent quand et où appuyer sur un [objet](/wiki/Gameplay/Hit_object), mais qu'ils n'appuient pas sur la touche de manière inexplicable, créant ainsi une sensation où le doigt est comme "bloqué". D'où le nom de "fingerlock".
 
 Le "Fingerlock" peut occasionnellement être appelé `wrist lock`, `wristlock`, ou encore `wrist-lock`.
 

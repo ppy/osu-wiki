@@ -7,11 +7,11 @@ Cada tela do osu! é atribuída a um *slot* na sala.
 
 ![Jogadores têm suas janelas atribuídas baseado no seu slot na sala](img/Osutourneywindows.png)
 
-Os jogadores devem ocupar os *slots* apropriados na sala para o cliente funcionar corretamente. Mais detalhes podem ser encontrados no [guia de utilização do multiplayer](/wiki/osu!tourney/Multiplayer_usage).
+Os jogadores devem ocupar os *slots* apropriados na sala para o cliente funcionar corretamente. Mais detalhes podem ser encontrados no [guia de utilização do multiplayer](/wiki/osu!_tournament_client/osu!tourney/Multiplayer_usage).
 
 ![Painel de controle do osu!tourney](img/Osutourneypanel.png)
 
-O painel de controle é exibido na parte inferior do cliente. Por padrão, ele mostra a nomenclatura necessária para as salas aparecerem no painel de controle. Mais informações podem ser encontradas no [guia de utilização do multiplayer](/wiki/osu!tourney/Multiplayer_usage).
+O painel de controle é exibido na parte inferior do cliente. Por padrão, ele mostra a nomenclatura necessária para as salas aparecerem no painel de controle. Mais informações podem ser encontradas no [guia de utilização do multiplayer](/wiki/osu!_tournament_client/osu!tourney/Multiplayer_usage).
 
 A funcionalidade de cada botão é descrita abaixo:
 

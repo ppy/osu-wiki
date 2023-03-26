@@ -12,7 +12,7 @@ osu!의 대부분의 화면에서 `F8` 혹은 오른쪽 아래의 `Show Chat` �
 | **흰색** | 당신 |
 | **옅은 노랑** | 서포터가 아닌 유저 |
 | **노랑** | [osu! 서포터](/wiki/osu!supporter) |
-| **빨강** | [GMT](/wiki/People/The_Team/Global_Moderation_Team) 혹은 [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) 유저 |
+| **빨강** | [GMT](/wiki/People/Global_Moderation_Team) 혹은 [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) 유저 |
 | **녹색** | 당신이 ["호출"](Highlight) 하도록 지정한 키워드를 포함한 줄. 당신을 호출한 메시지의 내용은 `#highlight` 채널에도 나타납니다. |
 | **파랑** | 비공개 메시지 |
 | **청록** | 오스를 만든 [peppy](https://osu.ppy.sh/users/2)! |

@@ -17,7 +17,7 @@ outdated_since: e41f859079680fcfa5a56db92d53ecad540fad4b
 
 ## 红线（时间点）
 
-创建[谱面](/wiki/Beatmap)时，可以使用[红线（时间点）](/wiki/Beatmapping/Timing_section)，通过 BPM 和 offset （偏移值）来确定一条时间轴，即可让所有[击打物件](/wiki/Hit_object)能准确无误地对齐到歌曲的节拍上。
+创建[谱面](/wiki/Beatmap)时，可以使用[红线（时间点）](/wiki/Beatmapping/Timing_section)，通过 BPM 和 offset （偏移值）来确定一条时间轴，即可让所有[击打物件](/wiki/Gameplay/Hit_object)能准确无误地对齐到歌曲的节拍上。
 
 在[谱面编辑器](/wiki/Client/Beatmap_editor)的[时间轴测定界面](/wiki/Client/Beatmap_editor/Timing)内能找到 BPM 调试工具。谱师只需要跟着歌曲敲击按键，即可近似测量歌曲的 BPM 和 offset。由于敲击法测定时间轴只能得出近似的结果，通常还需要更进一步的调整，来使得时间轴完全贴合歌曲的节拍。
 
@@ -25,6 +25,6 @@ outdated_since: e41f859079680fcfa5a56db92d53ecad540fad4b
 
 ## 游玩
 
-BPM 也能影响游戏元素，即 [osu!](/wiki/Game_mode/osu!) 内的[滑条速度](/wiki/Hit_object/Slider_velocity)和 [osu!mania](/wiki/Game_mode/osu!mania) 内的下落速度。
+BPM 也能影响游戏元素，即 [osu!](/wiki/Game_mode/osu!) 内的[滑条速度](/wiki/Gameplay/Hit_object/Slider/Slider_velocity)和 [osu!mania](/wiki/Game_mode/osu!mania) 内的下落速度。
 
 <!-- TODO: Insert links -->

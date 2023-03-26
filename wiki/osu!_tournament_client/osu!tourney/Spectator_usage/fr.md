@@ -7,11 +7,11 @@ Chaque fenêtre d'osu! est assignée à une position de la salle.
 
 ![Les joueurs sont assignés à leur fenêtre se basant sur leur position dans la salle](img/Osutourneywindows.png)
 
-Le joueur doit occuper la position approprié dans la salle pour que le client fonctionne proprement. Pour plus de détails, référez-vous à l'[utilisation d'osu!tourney en multijoueur](/wiki/osu!tourney/Multiplayer_usage).
+Le joueur doit occuper la position approprié dans la salle pour que le client fonctionne proprement. Pour plus de détails, référez-vous à l'[utilisation d'osu!tourney en multijoueur](/wiki/osu!_tournament_client/osu!tourney/Multiplayer_usage).
 
 ![Panneau de contrôle d'osu!tourney](img/Osutourneypanel.png)
 
-Le panneau de contrôle se trouve en bas du client. Par défaut, il montre le nom requis de la salle pour apparaître dans le panneau de contrôle. Pour plus de détails, référez-vous à l'[utilisation d'osu!tourney en multijoueur](/wiki/osu!tourney/Multiplayer_usage).
+Le panneau de contrôle se trouve en bas du client. Par défaut, il montre le nom requis de la salle pour apparaître dans le panneau de contrôle. Pour plus de détails, référez-vous à l'[utilisation d'osu!tourney en multijoueur](/wiki/osu!_tournament_client/osu!tourney/Multiplayer_usage).
 
 La fonction de chaque bouton est décrite ci-dessous :
 
