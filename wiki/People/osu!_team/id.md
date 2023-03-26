@@ -39,7 +39,7 @@ Nama-nama yang tercantum di bawah ini merupakan anggota **tim inti osu!** yang b
 | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | Penasihat bidang pengembangan dan moderasi komunitas |
 | ::{ flag=AU }:: [Zallius](https://osu.ppy.sh/users/55) | Spesies yang terancam punah |
 
-Di samping nama-nama di atas, osu! juga memiliki [tim dukungan akun](Account_support_team) (*account support team*) yang bergerak secara terpisah untuk menangani berbagai permasalahan yang bersifat pribadi.
+Di samping nama-nama di atas, osu! juga memiliki [tim dukungan akun](/wiki/People/Account_support_team) (*account support team*) yang bergerak secara terpisah untuk menangani berbagai permasalahan yang bersifat pribadi.
 
 ## Anggota tim inti osu! yang kini sudah tidak lagi aktif
 
