@@ -87,7 +87,7 @@ Les réinitialisations dues à des problèmes de mapping ont rarement 2 d'évide
     - Des pics de difficulté injustifiés (ils ne correspondent pas à la musique).
     - Rythmes denses/spacing élevés dans des sections calmes
     - Mapper trop d'éléments d'une manière qui est mal introduite/exécutée
-    - Mapping d'un grand stream sur plusieurs plans sonores et plusieurs sons distincts
+    - Mapping d'un grand stream sur plusieurs [plans sonores](/wiki/Music_theory/Layer) et plusieurs sons distincts
 - **1/2 :** (14%)
   - Mêmes raisons que pour le 1/1, mais plus sévères ; généralement une combinaison
 
