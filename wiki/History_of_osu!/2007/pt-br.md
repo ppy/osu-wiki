@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: f2c89f5c250e64121a2a94aab12046306fa6147d
 ---
 
 # História do osu! 2007
@@ -10,9 +12,9 @@ O seguinte é um dos maiores eventos da história do osu! desde o começo. Agrad
 
 ## Julho
 
-O osu! começa como uma prova de seu conceito nomeado "ouentest"[[1]][r]. A primeira versão foi lançada em 1 de julho, 2007 para um grupo pequeno de amigos próximos do [peppy](https://osu.ppy.sh/users/2) onde se destacava um [editor de beatmap](/wiki/Client/Beatmap_editor) e um modo de bem básico.
+O osu! começa como uma prova de seu conceito nomeado "ouentest".[^ouentest] A primeira versão foi lançada em 1 de julho, 2007 para um grupo pequeno de amigos próximos do [peppy](https://osu.ppy.sh/users/2) onde se destacava um [editor de beatmap](/wiki/Client/Beatmap_editor) e um modo de bem básico.
 
-O editor poderia somente fazer [beatmaps](/wiki/Beatmap) *muito* simples, sem as funções de seeking ou [snapping](/wiki/Beatmapping/Snapping) disponíveis e sem sliders nem spinners, somente círculos e contador de pontuação básico. O primeiro lançamento demorou aproximadamente 16 horas de programação e foi feito em uma *única noite*. O `pUpdater` foi introduzido (posteriormente conhecido como `osume`)[[2]][r] com a função de atualizar para a última versão.
+O editor poderia somente fazer [beatmaps](/wiki/Beatmap) *muito* simples, sem as funções de seeking ou [snapping](/wiki/Beatmapping/Snapping) disponíveis e sem sliders nem spinners, somente círculos e contador de pontuação básico. O primeiro lançamento demorou aproximadamente 16 horas de programação e foi feito em uma *única noite*. O `pUpdater` foi introduzido (posteriormente conhecido como `osume`) [^osume] com a função de atualizar para a última versão.
 
 ![](img/2007-07_01.jpg "Song Selection")
 
@@ -34,7 +36,7 @@ Pelo fim de julho, o sistema de menu foi atualizado para adicionar um pouco de e
 
 ## Agosto
 
-O menu principal foi atualizado com um novo visual e o editor recebeu muitas funcionalidades novas incluindo o suporte de copiar e colar. A aba menu e contexto foram adicionadas, fazendo as funções de editor mais acessíveis que antes; sliders eram mais amplamente suportados com [slider ticks](/wiki/Beatmapping/Slider_tick) presentes; [stacking](/wiki/Mapping_techniques/Stack) de [hit circles](/wiki/Hit_object/Hit_circle) estavam presentes; as altas pontuações locais foram melhor suportadas; e o formato de arquivo `.osu` foi revisado e completamente renovado, mas incluiu uma conversão de arquivos antigos para o novo formato.
+O menu principal foi atualizado com um novo visual e o editor recebeu muitas funcionalidades novas incluindo o suporte de copiar e colar. A aba menu e contexto foram adicionadas, fazendo as funções de editor mais acessíveis que antes; sliders eram mais amplamente suportados com [slider ticks](/wiki/Gameplay/Hit_object/Slider/Slider_tick) presentes; [stacking](/wiki/Beatmapping/Mapping_techniques/Stack) de [hit circles](/wiki/Gameplay/Hit_object/Hit_circle) estavam presentes; as altas pontuações locais foram melhor suportadas; e o formato de arquivo `.osu` foi revisado e completamente renovado, mas incluiu uma conversão de arquivos antigos para o novo formato.
 
 ![](img/2007-08_01.jpg "Song Selection screen for Play Mode")
 
@@ -62,7 +64,7 @@ Em 17 de setembro de 2007 foi o "nascimento" do osu! no que diz respeito ao púb
 
 ![](img/2007-09_05.jpg "News announcement on a gaming website")
 
-Rapidamente após o lançamento ao público, os primeiros [mods](/wiki/Game_modifier), [Easy](/wiki/Game_modifier/Easy) (EZ) e o [No Fail](/wiki/Game_modifier/No_Fail) (NF), foram adicionados, assim como as sessões de pausa (no qual até agora tem sido ignorado e faltando). Um grande número de mudanças rapidamente fez o osu! parecer mais como um jogo de ritmo legítimo.
+Rapidamente após o lançamento ao público, os primeiros [mods](/wiki/Gameplay/Game_modifier), [Easy](/wiki/Gameplay/Game_modifier/Easy) (EZ) e o [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) (NF), foram adicionados, assim como as sessões de pausa (no qual até agora tem sido ignorado e faltando). Um grande número de mudanças rapidamente fez o osu! parecer mais como um jogo de ritmo legítimo.
 
 ![](img/easy.png "Easy (v1)") ![](img/no_fail.png "No Fail (v1)")
 
@@ -82,7 +84,7 @@ A versão 2 do `pUpdater` (`osume`) foi lançada, suportando download de pacotes
 
 ## Novembro
 
-Uma nova classificação SS foi adicionada ao sistema, sustituindo a classificação S em casos onde a perfeição é obtida. Os mods [No Video](/wiki/Game_modifier/No_Video) e o [Hidden](/wiki/Game_modifier/Hidden) (HD) foram introduzidos, e as classificações (silver S) e SSH (silver SS) com eles. Pela primeira vez, jogadores poderiam fazer skins e atribuír soft sample sets por sessão de timing. Arquivos`.osz` podem agora ser carregados dando um clique duplo neles, ou arrastando eles no ícone do osu! ou em sua janela.
+Uma nova classificação SS foi adicionada ao sistema, sustituindo a classificação S em casos onde a perfeição é obtida. Os mods [No Video](/wiki/Gameplay/Game_modifier/No_Video) e o [Hidden](/wiki/Gameplay/Game_modifier/Hidden) (HD) foram introduzidos, e as classificações (silver S) e SSH (silver SS) com eles. Pela primeira vez, jogadores poderiam fazer skins e atribuír soft sample sets por sessão de timing. Arquivos`.osz` podem agora ser carregados dando um clique duplo neles, ou arrastando eles no ícone do osu! ou em sua janela.
 
 ![](img/no_video.png "No Video \(v1\)") ![](img/hidden.png "Hidden \(v1\)")
 
@@ -94,7 +96,7 @@ Uma nova classificação SS foi adicionada ao sistema, sustituindo a classifica�
 
 ![](img/2007-11_03.jpg "Testing IRC usage")
 
-O [Sistema de Envio de Beatmap](/wiki/Submission) (BSS) se tornou público, permitindo usuários para facilmente enviar e compartilhar suas criações. Foi introduzido o estado de mapas [Pendente](/wiki/Beatmap/Category#pendente) e [Ranqueado](/wiki/Beatmap/Category#ranqueados) para ajudar a organizar rapidamente a coleção crescente de beatmaps enviados por usuários. Chat dentro do jogo foi adicionado como um cliente [IRC](/wiki/Community/Internet_Relay_Chat) (Internet Relay Chat) criado a partir do zero e conectado com um servidor IRC padrão (sem o [Bancho](/wiki/Bancho_(server)); chat estendido foi visível; avatares e status básicos foram exibidos dentro do jogo usando uma comunicação baseado em http; controle de áudio foram também adicionados ao menu principal, que tocava uma música aleatória ao iniciar; [replays](/wiki/Gameplay/Replay) podem ser vistos por ambos as classificações locais e online. Jogadores podem expectar outros jogadores (dados de espectadores eram enviados via IRC).
+O [Sistema de Envio de Beatmap](/wiki/Beatmapping/Beatmap_submission) (BSS) se tornou público, permitindo usuários para facilmente enviar e compartilhar suas criações. Foi introduzido o estado de mapas [Pendente](/wiki/Beatmap/Category#pendente) e [Ranqueado](/wiki/Beatmap/Category#ranqueados) para ajudar a organizar rapidamente a coleção crescente de beatmaps enviados por usuários. Chat dentro do jogo foi adicionado como um cliente [IRC](/wiki/Community/Internet_Relay_Chat) (Internet Relay Chat) criado a partir do zero e conectado com um servidor IRC padrão (sem o [Bancho](/wiki/Bancho_(server)); chat estendido foi visível; avatares e status básicos foram exibidos dentro do jogo usando uma comunicação baseado em http; controle de áudio foram também adicionados ao menu principal, que tocava uma música aleatória ao iniciar; [replays](/wiki/Gameplay/Replay) podem ser vistos por ambos as classificações locais e online. Jogadores podem expectar outros jogadores (dados de espectadores eram enviados via IRC).
 
 ## Dezembro
 
@@ -104,7 +106,5 @@ Músicas podem ser editadas por arrastar elas para a janela do osu!; dicas de fe
 
 ## Referências
 
-1. [post do peppy sobre o início do osu!](https://twitter.com/ppy/status/1141394137637249025?s=20)
-2. [post no fórum do pUpdater (também conhecido como osume)](https://osu.ppy.sh/community/forums/topics/4?n=1)
-
-[r]: #referências
+[^ouentest]: [post do peppy sobre o início do osu!](https://twitter.com/ppy/status/1141394137637249025?s=20)
+[^osume]: [pUpdater (aka osume)](https://osu.ppy.sh/community/forums/topics/4?n=1)

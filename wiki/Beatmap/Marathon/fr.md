@@ -4,7 +4,7 @@ stub: true
 
 # Marathon
 
-Le terme **Marathon** est utilisé pour décrire les [beatmaps](/wiki/Beatmap) d'une durée de cinq minutes ou plus. Il s'agit souvent d'efforts collaboratifs, car le mapping de morceaux plus longs peut être fatigante lorsque réalisé seul.
+Le terme **Marathon** est utilisé pour décrire les [beatmaps](/wiki/Beatmap) d'une durée de cinq minutes ou plus. Il s'agit souvent [d'efforts collaboratifs](/wiki/Beatmap/Beatmap_collaborations), car le mapping de morceaux plus longs peut être fatigante lorsque réalisé seul.
 
 ## Histoire
 
@@ -12,6 +12,6 @@ Lors de l'introduction des beatmaps marathons, elles devaient à l'origine durer
 
 Les beatmaps marathon devaient également avoir leur difficulté unique nommée "Marathon" pour contourner le système de soumission des beatmaps marathon de l'époque et empêcher les beatmaps marathon d'entrer dans la catégorie [en attente](/wiki/Beatmap/Category#work-in-progress-et-en-attente). Lors du classement, les beatmaps marathon entrent dans la catégorie [approuvée](/wiki/Beatmap/Category#approuvée) au lieu de la catégorie [classée](/wiki/Beatmap/Category#classée) pour signaler qu'il s'agit d'une beatmap marathon. Cette catégorie a ensuite été abandonnée au profit de la catégorie classée.
 
-Les beatmaps marathon ont ensuite été modifiées pour inclure des beatmaps avec [des drains de vie](/wiki/Gameplay/Drain_time) de cinq minutes et permettant [de nommer des difficultés personnalisées](/wiki/Ranking_Criteria/Difficulty_naming). Cela a duré jusqu'à ce que des règles de propagation plus indulgentes soient introduites en 2019.
+Les beatmaps marathon ont ensuite été modifiées pour inclure des beatmaps avec [des drains de vie](/wiki/Beatmap/Drain_time) de cinq minutes et permettant [de nommer des difficultés personnalisées](/wiki/Ranking_Criteria/Difficulty_naming). Cela a duré jusqu'à ce que des règles de propagation plus indulgentes soient introduites en 2019.
 
 <!-- TODO: Add links and stuff -->

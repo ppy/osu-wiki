@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 6ad4fe3d4e5b620cfeb663af478a908a6220f9ba
+---
+
 # Diretrizes de identidade da marca
 
 As diretrizes de identidade da marca são um conjunto de padrões para branding de projetos relacionados ao osu!. Todo uso não requer aprovação.

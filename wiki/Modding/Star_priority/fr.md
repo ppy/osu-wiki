@@ -2,7 +2,7 @@
 stub: true
 ---
 
-### Star priority
+# Star priority
 
 Le terme **star priority** a deux sens :
 

@@ -1,6 +1,6 @@
 ---
 stub: true
-태그:
+tags:
   - auto
   - autoplay
   - auto play
@@ -9,14 +9,16 @@ stub: true
   - mod
   - game modifier
 no_native_review: true
+outdated_translation: true
+outdated_since: b4b151efd01d5d964baf3e101672b4a41a24ec4b
 ---
 
 # 오토 (모드)
 
 ![AT 모드 아이콘](/wiki/shared/mods/AT.png "오토 (AT) 모드 아이콘")
 
-*모든 모드의 목록을 확인하려면 [여기](/wiki/Game_modifier)를 눌러주세요.*\
-*[오토 파일럿 (모드)](/wiki/Game_modifier/Autopilot)와 혼동하지 말아주세요.*
+*모든 모드의 목록을 확인하려면 [여기](/wiki/Gameplay/Game_modifier)를 눌러주세요.*\
+*[오토 파일럿 (모드)](/wiki/Gameplay/Game_modifier/Autopilot)와 혼동하지 말아주세요.*
 
 ## 오토 모드
 
@@ -31,7 +33,7 @@ no_native_review: true
 
 *중요: 오토 모드를 사용하는 것은 글로벌 랭킹에도 남지 않을 뿐만 아니라 로컬 랭킹에도 남지 않습니다.*
 
-**오토** 모드는 플레이어가 선택한 비트맵의 완벽한 플레이를 감상할 수 있는 [모드](/wiki/Game_modifier)입니다.
+**오토** 모드는 플레이어가 선택한 비트맵의 완벽한 플레이를 감상할 수 있는 [모드](/wiki/Gameplay/Game_modifier)입니다.
 
 이 모드는 [리플레이](/wiki/Gameplay/Replay)와 동일하게 작동합니다. 0.5배/1.0배/2.0배의 리플레이 옵션을 제공하며, 비트맵 플레이 후 결과를 정상적으로 표시합니다. 이 모드는 몇 가지 특별한 경우를 제외하면 항상 SS 등급을 받습니다.
 

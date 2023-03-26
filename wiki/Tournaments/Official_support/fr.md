@@ -3,13 +3,17 @@ tags:
   - badge
   - badges
   - badged
+outdated_translation: true
+outdated_since: 43f67096dc184164d6d4ec03e05a6da73eeac72f
 ---
 
 # Support officiel aux tournois
 
-L'[équipe d'osu!](/wiki/People/The_Team) gère un programme dans le cadre duquel elle peut choisir de fournir un support supplémentaire aux tournois gérés par la communauté qui respectent un certain nombre de critères et d'attentes, à sa discrétion.
+*Pour le support des concours de beatmapping, voir : [Support officiel aux concours](/wiki/Contests/Official_support).*
 
-Cet article a été mis à jour le 9 janvier 2022. Pour toute question ou clarification, veuillez consulter le salon textuel `#tournaments` sur le serveur Discord [osu!dev](https://discord.com/invite/ppy) ou envoyer un e-mail à [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+L'[équipe d'osu!](/wiki/People/osu!_team) gère un programme dans le cadre duquel elle peut choisir de fournir un support supplémentaire aux tournois gérés par la communauté qui respectent un certain nombre de critères et d'attentes, à sa discrétion.
+
+Cet article a été mis à jour le 2 février 2023. Pour toute question ou clarification, veuillez consulter le salon textuel `#tournaments` sur le serveur Discord [osu!dev](https://discord.com/invite/ppy) ou envoyer un e-mail à [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Avantages
 
@@ -25,11 +29,11 @@ Les tournois gérés par la communauté qui respectent les critères stricts sui
 
 - La série de tournois ne doit pas se dérouler plus de quatre fois par an.
 - Le tournoi doit se dérouler au minimum sous la forme de huitièmes de finale à double élimination, **OU**, avoir au moins 64 joueurs (ou 16 équipes) participants. Des échelles et des formats plus importants sont autorisés.
-- Le tournoi est organisé et géré par une *équipe expérimentée composée de membres de staff accomplis et réputés*,[^experience] **OU**, le tournoi *a été organisé au moins une fois auparavant sans recevoir de récompenses*.
 - Les membres du staff ne doivent en aucun cas participer eux-mêmes au tournoi, et les joueurs ne peuvent pas non plus assister ultérieurement en tant que staff. Pour notre définition du terme "staff", veuillez consulter la [FAQ](#ce-qui-est-considéré-staff).
 - Le fil de discussion du forum pour le tournoi **DOIT** contenir un lien clairement visible dans une police de taille normale vers le [formulaire de rapport de tournoi](https://pif.ephemeral.ink/tournament-reports) comme tout dernier contenu du message original.
   - `https://pif.ephemeral.ink/tournament-reports`
-  - Ce formulaire de rapport est supervisé par le [Comité des tournois](/wiki/People/Tournament_Committee). Nous encourageons tous les utilisateurs, qu'ils soient joueurs ou membres du staff, à utiliser ce formulaire si nécessaire.
+  - Ce formulaire de rapport est supervisé par le [Comité des tournois](/wiki/People/Tournament_Committee). Nous encourageons tous les utilisateurs, qu'ils soient joueurs ou membres du staff, à utiliser ce formulaire si nécessaire. Tout manquement aux [attentes](#attentes), aux [autres procédures](#autres-procédures) ou aux conditions d'[éligibilité](#éligibilité) doit faire l'objet d'un rapport.
+- Le tournoi doit se conformer à toutes les [attentes](#attentes) des tournois bénéficiant de support officiel.
 
 ## Demande de support
 
@@ -70,7 +74,9 @@ En outre, tout matériel promotionnel ou tout service associé à un tournoi bé
 - Si un utilisateur répond aux critères d'inscription (s'il y en a), le tournoi ne doit pas empêcher ceux qui passent le screening de participer sans que de nombreuses preuves soient présentées publiquement contre eux et sans l'approbation de l'équipe de support aux comptes.
   - Il s'agit notamment d'empêcher de jouer les utilisateurs qui sont suspectés de "sandbag" leur performance. Si un organisateur a des raisons valables de penser que la présence de tels joueurs affecte l'intégrité compétitive de son tournoi, il peut soumettre le problème au [Comité des tournois](/wiki/People/Tournament_Committee) pour un examen au cas par cas en utilisant le [formulaire de report de tournoi](https://pif.ephemeral.ink/tournament-reports).
 - Un arbitre dédié doit être présent lors de chaque match. Les joueurs ne peuvent pas s'auto-arbitrer.
-- Tous les matchs multijoueur relatifs au tournoi doivent être créés avec la commande `!mp make`, afin qu'ils n'expirent pas. Les résultats doivent être enregistrés et rendus publics sur le post original du forum du tournoi dans un format clair et accessible.
+  - L'utilisation de bots est autorisée lors des matchs de la phase de qualification, à condition qu'ils soient supervisés par un membre du staff.
+- Les matchs asynchrones ne sont en aucun cas autorisés. Toutes les équipes participantes doivent être présentes à l'heure prévue du match.
+- Tous les matchs multijoueur relatifs au tournoi doivent être créés avec la commande `!mp make`, afin qu'ils n'expirent pas. Les résultats doivent être enregistrés et rendus publics sur le post original du forum du tournoi ou sur une source extérieure dans le post du forum dans un format clair et accessible.
 
 Une fois le tournoi terminé, les organisateurs du tournoi devront envoyer les éléments suivants à l'équipe de support aux comptes :
 
@@ -116,6 +122,8 @@ Utilisateur4,Équipe2,1234567
 ```
 
 Une fois le screening terminé, l'équipe de support aux comptes fournira une liste de tous les utilisateurs qui n'ont pas passé le screening et qui ne sont pas considérés comme éligibles pour le tournoi, sans fournir de raison spécifique. Les utilisateurs qui ne sont pas satisfaits du résultat du screening doivent être invités à consulter [accounts@ppy.sh](mailto:accounts@ppy.sh) par e-mail.
+
+Seuls les joueurs qui participent au tournoi **ou** qui seraient de potentiels remplaçants pour une équipe constituée au cours du tournoi devraient être envoyés pour passer le screening. Par exemple, dans le cas d'un tournoi national utilisant un système de tryouts, les organisateurs sont encouragés à n'envoyer que les joueurs dont la participation au tournoi a été déterminée suite aux tryouts, ainsi que plusieurs remplaçants pour chaque équipe au cas où ils devraient participer. Pour savoir quels joueurs sont inscrits au screening à un tournoi, contactez le [Comité des tournois](/wiki/People/Tournament_Committee).
 
 **Le fait d'autoriser des utilisateurs qui n'ont pas réussi à passer le screening à participer à votre tournoi entraînera le retrait immédiat du support et le refus de toute demande de support ultérieure.**
 
@@ -171,12 +179,6 @@ Veuillez ne pas soumettre une bannière de menu principal avec votre demande ini
 
 ## Questions fréquemment posées
 
-### Pourquoi un tournoi doit-il se dérouler au moins deux fois ou plus pour pouvoir obtenir des badges de profil sans la présence d'un staff expérimenté ? {#deux-fois-ou-plus}
-
-La deuxième itération d'un tournoi est souvent libérée de beaucoup de problèmes d'organisation du premier tournoi, et a établi un flux de travail et un staff solide impliqués dans sa production. Ils sont beaucoup moins susceptibles de s'essouffler ou d'être soumis à des choix discutables. Le tournoi est également beaucoup plus identifiable s'il se déroule plus d'une fois.
-
-Pour toutes ces raisons (et bien d'autres encore), nous demandons que les prix des badges de profil ne soient attribués qu'aux tournois qui ont été organisés avec succès au moins une fois auparavant, à moins qu'une grande majorité de l'équipe soit expérimentée et ait déjà organisé des tournois par le passé.
-
 ### Qu'est-ce qui est considéré comme du "staff" en ce qui concerne la gestion des tournois ? {#ce-qui-est-considéré-staff}
 
 Si un utilisateur a accès à des informations qui pourraient influencer le résultat du tournoi/concours, il est considéré comme faisant partie du staff. Pour clarifier, nous considérons que les organisateurs, les arbitres, les sélectionneurs de mappools, les testeurs de mappools, les créateurs de beatmaps sur mesure, les juges, ou toute autre forme de poste de direction directement impliqué dans la maintenance et le fonctionnement du tournoi/concours font partie de son staff. Cette liste n'est pas exhaustive - si vous avez des doutes, veuillez contacter [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
@@ -187,7 +189,7 @@ Nous avons connu des cas où des organisateurs peu scrupuleux ont organisé des 
 
 ### Un joueur qui a été éliminé de mon tournoi peut-il rejoindre le staff après coup et ne pas causer de problèmes ? {#joueur-membre-du-staff}
 
-Non. Les joueurs qui ont été éliminés du tournoi/concours ne peuvent pas être recrutés en tant que staff ou aider à l'organisation, à la seule exception de la mise en place de replays pour les showcases de mappool. Ils peuvent toutefois être recrutés en tant qu'assistants.
+Non. Les joueurs qui ont été éliminés du tournoi/concours ne peuvent pas être recrutés en tant que staff ou aider à l'organisation, à l'exception de l'arbitrage, du test des mappools et de la mise en place de replays pour les showcases de mappool. Ils peuvent toutefois être recrutés en tant qu'assistants.
 
 ### Si un utilisateur n'a pas encore joué de match, peut-il rejoindre le staff ? {#pas-de-participation-staff}
 
@@ -203,11 +205,8 @@ Inonder le jeu de badges de profil dilue le prestige du prix pour tous les autre
 
 ### Puis-je demander un badge pour un concours de beatmaps ou un autre type de concours ? {#concours-support}
 
-Pour les concours de beatmaps, oui, il suffit de suivre les mêmes règles que ci-dessus. Nous vous recommandons vivement d'utiliser les musiques des [Featured Artists](https://osu.ppy.sh/beatmaps/artists) pour ces concours et nous accorderons de manière flagrante un traitement préférentiel à ceux qui le font.
-
-Pour les autres concours, envoyez-nous un e-mail et demandez personnellement. Nous essaierons de trouver une solution.
+Oui ! Voir le [Support officiel des concours](/wiki/Contests/Official_support) pour plus de détails.
 
 ## Notes
 
-[^experience]: Un membre du staff "expérimenté" est vaguement défini comme quelqu'un qui a contribué de manière significative au bon déroulement d'au moins **trois** tournois ayant reçu des badges au préalable, ou qui a fait partie d'une équipe de bénévoles officielle de la World Cup pour n'importe quel mode de jeu. Cette définition peut varier à la discrétion de l'équipe de support aux comptes.
 [^play-commence]: Le tournoi "commence" une fois que le seeding ou les brackets ont été déterminés. Par conséquent, les phases de qualifications peuvent être exemptées de cette règle.

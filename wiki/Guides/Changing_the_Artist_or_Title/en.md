@@ -26,4 +26,4 @@ To fix a duplicating map, do the following:
   7. Use `File` > `Open...` to change the Artist/Title in other difficulties.
   8. Full Submit.
 
-If you have any duplicated maps, please contact a member of the [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) for resolution.
+If you have any duplicated maps, please contact a member of the [NAT](/wiki/People/Nomination_Assessment_Team) for resolution.

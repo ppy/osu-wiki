@@ -8,6 +8,7 @@ Cette page répertorie les moyens par lesquels les utilisateurs de tout le site 
 - [Internet Relay Chat](/wiki/Community/Internet_Relay_Chat) (IRC)
 - [Organisations hors ligne](/wiki/Community/Organisations)
 - [Serveur Discord osu!dev](/wiki/Community/osu!dev_Discord_server)
+- [Serveurs Discord communautaires](/wiki/Community/Discord_servers)
 
 ## Projets
 
@@ -16,6 +17,7 @@ Cette page répertorie les moyens par lesquels les utilisateurs de tout le site 
 - [Community mentorship program](/wiki/Community/Community_Mentorship_Program)
 - [Mappers' Guild](/wiki/Community/Mappers_Guild)
 - [osu! wiki](/wiki/osu!_wiki)
+- [osu!monthly](/wiki/Community/osu!monthly)
 - [Project Loved](/wiki/Community/Project_Loved)
 
 ## Initiatives

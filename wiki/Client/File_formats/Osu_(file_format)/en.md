@@ -31,7 +31,7 @@ The following content is separated into sections, indicated by section titles in
 | `PreviewTime` | Integer | Time in milliseconds when the audio preview should start | -1 |
 | `Countdown` | Integer | Speed of the countdown before the first hit object (`0` = no countdown, `1` = normal, `2` = half, `3` = double) | 1 |
 | `SampleSet` | String | Sample set that will be used if timing points do not override it (`Normal`, `Soft`, `Drum`) | Normal |
-| `StackLeniency` | Decimal | Multiplier for the threshold in time where hit objects placed close together stack (0–1) | 0.7 |
+| `StackLeniency` | Decimal | [Multiplier](/wiki/Beatmap/Stack_leniency) for the threshold in time where hit objects placed close together stack (0–1) | 0.7 |
 | `Mode` | Integer | Game mode (`0` = osu!, `1` = osu!taiko, `2` = osu!catch, `3` = osu!mania) | 0 |
 | `LetterboxInBreaks` | 0 or 1 | Whether or not breaks have a letterboxing effect | 0 |
 | `StoryFireInFront` | 0 or 1 | *Deprecated* | 1 |
@@ -53,8 +53,8 @@ These options are only relevant when opening maps in the [beatmap editor](/wiki/
 | :-- | :-- | :-- |
 | `Bookmarks` | Comma-separated list of integers | Time in milliseconds of [bookmarks](/wiki/Client/Beatmap_editor/Compose#bottom-(song's-timeline)) |
 | `DistanceSpacing` | Decimal | [Distance snap](/wiki/Client/Beatmap_editor/Distance_snap) multiplier |
-| `BeatDivisor` | Decimal | [Beat snap divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) |
-| `GridSize` | Integer | [Grid size](/wiki/Grid_snapping) |
+| `BeatDivisor` | Integer | [Beat snap divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) |
+| `GridSize` | Integer | [Grid size](/wiki/Beatmapping/Grid_snapping) |
 | `TimelineZoom` | Decimal | Scale factor for the [object timeline](/wiki/Client/Beatmap_editor/Compose#top-left-(hit-objects-timeline)) |
 
 ## Metadata
@@ -80,7 +80,7 @@ These options are only relevant when opening maps in the [beatmap editor](/wiki/
 | `CircleSize` | Decimal | CS setting (0–10) |
 | `OverallDifficulty` | Decimal | OD setting (0–10) |
 | `ApproachRate` | Decimal | AR setting (0–10) |
-| `SliderMultiplier` | Decimal | Base slider velocity in hundreds of [osu! pixels](/wiki/osupixel) per beat |
+| `SliderMultiplier` | Decimal | Base slider velocity in hundreds of [osu! pixels](/wiki/Client/Beatmap_editor/osu!_pixel) per beat |
 | `SliderTickRate` | Decimal | Amount of slider ticks per beat |
 
 ## Events
@@ -96,7 +96,7 @@ These options are only relevant when opening maps in the [beatmap editor](/wiki/
 *Background syntax:* `0,0,filename,xOffset,yOffset`
 
 - **`filename` (String):** Location of the background image relative to the beatmap directory. Double quotes are usually included surrounding the filename, but they are not required.
-- **`xOffset` (Integer)** and **`yOffset` (Integer):** Offset in [osu! pixels](/wiki/osupixel) from the centre of the screen. For example, an offset of `50,100` would have the background shown 50 osu! pixels to the right and 100 osu! pixels down from the centre of the screen. If the offset is `0,0`, writing it is optional.
+- **`xOffset` (Integer)** and **`yOffset` (Integer):** Offset in [osu! pixels](/wiki/Client/Beatmap_editor/osu!_pixel) from the centre of the screen. For example, an offset of `50,100` would have the background shown 50 osu! pixels to the right and 100 osu! pixels down from the centre of the screen. If the offset is `0,0`, writing it is optional.
 
 ### Videos
 
@@ -180,7 +180,7 @@ All options in this section represent colours. They are comma-separated triplets
 
 *Hit object syntax:* `x,y,time,type,hitSound,objectParams,hitSample`
 
-- **`x` (Integer)** and **`y` (Integer):** Position in [osu! pixels](/wiki/osupixel) of the object.
+- **`x` (Integer)** and **`y` (Integer):** Position in [osu! pixels](/wiki/Client/Beatmap_editor/osu!_pixel) of the object.
 - **`time` (Integer):** Time when the object is to be hit, in milliseconds from the beginning of the beatmap's audio.
 - **`type` (Integer):** Bit flags indicating the type of the object. See [the type section](#type).
 - **`hitSound` (Integer):** Bit flags indicating the hitsound applied to the object. See [the hitsounds section](#hitsounds).
@@ -260,7 +260,7 @@ Hit circles do not have additional `objectParams`.
 - **`curveType` (Character):** Type of curve used to construct this slider (`B` = bézier, `C` = centripetal catmull-rom, `L` = linear, `P` = perfect circle)
 - **`curvePoints` (Pipe-separated list of strings):** Anchor points used to construct the slider. Each point is in the format `x:y`.
 - **`slides` (Integer):** Amount of times the player has to follow the slider's curve back-and-forth before the slider is complete. It can also be interpreted as the repeat count plus one.
-- **`length` (Decimal):** Visual length in [osu! pixels](/wiki/osupixel) of the slider.
+- **`length` (Decimal):** Visual length in [osu! pixels](/wiki/Client/Beatmap_editor/osu!_pixel) of the slider.
 - **`edgeSounds` (Pipe-separated list of integers):** Hitsounds that play when hitting edges of the slider's curve. The first sound is the one that plays when the slider is first clicked, and the last sound is the one that plays when the slider's end is hit.
 - **`edgeSets` (Pipe-separated list of strings):** Sample sets used for the `edgeSounds`. Each set is in the format `normalSet:additionSet`, with the same meaning as in [the hitsounds section](#hitsounds).
 
@@ -330,7 +330,7 @@ The third object is a slider:
 - At the position (100,100)
 - At 12.6 seconds
 - Starting a new combo
-- With a compound bézier curve slider body, where the first curve's control points are (100,100), (200,200), and (250,200), and the second curve's control points are (250,200), and (300,150). The duplicated control points denote a [red anchor point](/wiki/Hit_object/Slider_anchor). 
+- With a compound bézier curve slider body, where the first curve's control points are (100,100), (200,200), and (250,200), and the second curve's control points are (250,200), and (300,150). The duplicated control points denote a [red anchor point](/wiki/Gameplay/Hit_object/Slider/Slider_anchor).
 - Repeating once
 - 310.123 osu! pixels long
 - With a whistle hitsound at the beginning, and a whistle hitsound playing with the soft set at the end

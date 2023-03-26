@@ -66,7 +66,7 @@ outdated_translation: true
 
 - `Alt` + `Стрелка вверх`: Увеличить громкость
 - `Alt` + `Стрелка вниз`: Уменьшить громкость
-- `F1`: Меню выбора [модов](/wiki/Game_modifier)
+- `F1`: Меню выбора [модов](/wiki/Gameplay/Game_modifier)
 - `F2`: Случайно выбрать карту
 - `Shift` + `F2`: Отменить случайный выбор карты
 - `F3`: Настройки карты
@@ -76,8 +76,8 @@ outdated_translation: true
 - `Ctrl` + `2`: Переключиться в [osu!taiko](/wiki/Game_mode/osu!taiko)
 - `Ctrl` + `3`: Переключиться в [osu!catch](/wiki/Game_mode/osu!catch)
 - `Ctrl` + `4`: Переключиться в [osu!mania](/wiki/Game_mode/osu!mania)
-- `Ctrl` + `Enter`: Сыграть выбранную карту с модом [Auto](/wiki/Game_modifier/Auto)
-- `Ctrl` + `Shift` + `Enter`: Сыграть выбранную карту с модом [Cinema](/wiki/Game_modifier/Cinema)
+- `Ctrl` + `Enter`: Сыграть выбранную карту с модом [Auto](/wiki/Gameplay/Game_modifier/Auto)
+- `Ctrl` + `Shift` + `Enter`: Сыграть выбранную карту с модом [Cinema](/wiki/Gameplay/Game_modifier/Cinema)
 - `Ctrl` + `A`: Включить/выключить мод Auto
 - `Ctrl` + `F3`: Увеличить скорость osu!mania (работает только в режиме osu!mania)
   - или: `Ctrl` + `+`
@@ -97,45 +97,45 @@ outdated_translation: true
 
 ### Выбор модов
 
-*Главная страница: [Модификаторы игры](/wiki/Game_modifier)*
+*Главная страница: [Модификаторы игры](/wiki/Gameplay/Game_modifier)*
 
 **Заметки:**
 
 - Справка снизу предполагает, что никакие моды не выбраны в данный момент.
 - Некоторые моды требуют двойного нажатия на кнопку.
-- `Q`: [Easy](/wiki/Game_modifier/Easy)
-- `W`: [No Fail](/wiki/Game_modifier/No_Fail)
-- `E`: [Half Time](/wiki/Game_modifier/Half_Time)
+- `Q`: [Easy](/wiki/Gameplay/Game_modifier/Easy)
+- `W`: [No Fail](/wiki/Gameplay/Game_modifier/No_Fail)
+- `E`: [Half Time](/wiki/Gameplay/Game_modifier/Half_Time)
 
 ---
 
-- `A`: [Hard Rock](/wiki/Game_modifier/Hard_Rock)
-- `S`: [Sudden Death](/wiki/Game_modifier/Sudden_Death)
-- `S`, затем `S`: [Perfect](/wiki/Game_modifier/Perfect)
-- `D`: [Double Time](/wiki/Game_modifier/Double_Time)
-- `D`, затем `D`: [Nightcore](/wiki/Game_modifier/Nightcore)
-- `F`: [Hidden](/wiki/Game_modifier/Hidden) (osu!, osu!taiko, и osu!catch)
-  - эта кнопка будет включать/выключать [Fade In](/wiki/Game_modifier/Fade_In) для osu!mania
-- `F`, затем `F`: [Hidden](/wiki/Game_modifier/Hidden) (только в osu!mania)
-- `G`: [Flashlight](/wiki/Game_modifier/Flashlight)
+- `A`: [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock)
+- `S`: [Sudden Death](/wiki/Gameplay/Game_modifier/Sudden_Death)
+- `S`, затем `S`: [Perfect](/wiki/Gameplay/Game_modifier/Perfect)
+- `D`: [Double Time](/wiki/Gameplay/Game_modifier/Double_Time)
+- `D`, затем `D`: [Nightcore](/wiki/Gameplay/Game_modifier/Nightcore)
+- `F`: [Hidden](/wiki/Gameplay/Game_modifier/Hidden) (osu!, osu!taiko, и osu!catch)
+  - эта кнопка будет включать/выключать [Fade In](/wiki/Gameplay/Game_modifier/Fade_In) для osu!mania
+- `F`, затем `F`: [Hidden](/wiki/Gameplay/Game_modifier/Hidden) (только в osu!mania)
+- `G`: [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight)
 
 ---
 
-- `X`: [Relax](/wiki/Game_modifier/Relax)
-- `C`: [Auto Pilot](/wiki/Game_modifier/Autopilot)
-- `V`: [Spun Out](/wiki/Game_modifier/Spun_Out)
+- `X`: [Relax](/wiki/Gameplay/Game_modifier/Relax)
+- `C`: [Auto Pilot](/wiki/Gameplay/Game_modifier/Autopilot)
+- `V`: [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out)
 - `B`: Auto
 - `B`, затем `B`: Cinema
 
 ---
 
-- `3`: [3K](/wiki/Game_modifier/xK) (только в osu!mania)
-- `4`: [4K](/wiki/Game_modifier/xK) (только в osu!mania)
-- `5`: [5K](/wiki/Game_modifier/xK) (только в osu!mania)
-- `6`: [6K](/wiki/Game_modifier/xK) (только в osu!mania)
-- `7`: [7K](/wiki/Game_modifier/xK) (только в osu!mania)
-- `8`: [8K](/wiki/Game_modifier/xK) (только в osu!mania)
-- `9`: [9K](/wiki/Game_modifier/xK) (только в osu!mania)
+- `3`: [3K](/wiki/Gameplay/Game_modifier/xK) (только в osu!mania)
+- `4`: [4K](/wiki/Gameplay/Game_modifier/xK) (только в osu!mania)
+- `5`: [5K](/wiki/Gameplay/Game_modifier/xK) (только в osu!mania)
+- `6`: [6K](/wiki/Gameplay/Game_modifier/xK) (только в osu!mania)
+- `7`: [7K](/wiki/Gameplay/Game_modifier/xK) (только в osu!mania)
+- `8`: [8K](/wiki/Gameplay/Game_modifier/xK) (только в osu!mania)
+- `9`: [9K](/wiki/Gameplay/Game_modifier/xK) (только в osu!mania)
 
 ## Режим игры
 
@@ -265,7 +265,7 @@ outdated_translation: true
 
 ### Тайминг
 
-- `T`: Отбить [BPM](/wiki/Beatmapping/Beats_per_minute)/оффсет
+- `T`: Отбить [BPM](/wiki/Music_theory/Tempo)/оффсет
   - Вы должны нажимать на кнопку с постоянной скоростью.
 - `Shift`, настраивая BPM/offset: 4x-кратная скорость
 - `Ctrl` + `B`: Сбросить текущую точку тайминга

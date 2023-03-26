@@ -62,132 +62,132 @@ Les règles et directives spécifiques à une difficulté ne s'appliquent qu'au 
 
 #### Règles
 
-- **Les objets séparés de 1 temps ou moins ne doivent pas se [chevaucher](/wiki/Mapping_techniques/Overlap) complètement.**
+- **Les objets séparés de 1 temps ou moins ne doivent pas se [chevaucher](/wiki/Beatmapping/Mapping_techniques/Overlap) complètement.**
 - **N'utilisez pas de [flèches d'inversion du slider qui ne suivent pas le chemin visible du slider](/wiki/Ranking_Criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** Cela déforme la direction d'un slider.
 - **Chaque slider doit avoir une trajectoire claire et visible à suivre du début à la fin.** Les sliders qui se chevauchent sans bordures de sliders claires et les sliders dont les sections individuelles sont illisibles ne peuvent pas être utilisés. La position finale d'un slider doit être claire en supposant que le joueur possède un skin qui rend les cercles de sliderend totalement transparents.
 
 #### Directives
 
-- **Le [Time-distance equality](/wiki/Mapping_techniques/Time-distance_equality) doit être utilisée.** Les variations sont acceptables si elles sont clairement différentes de l'espacement utilisé pour les différents rythmes. Lorsque les objets sont espacés de plus de 2 temps et que l'espacement sur le playfield est relativement élevé, le time-distance equality n'a pas besoin d'être aussi précis.
-- **Lorsque le [distance snap](/wiki/Client/Beatmap_editor/Distance_snap) est utilisé, essayez de le maintenir entre 0,8x et 1,2x.** Des valeurs trop élevées ou trop faibles peuvent rendre la différence entre le [slider velocity](/wiki/Hit_object/Slider_velocity) et l'espacement contre-intuitif. Un distance snap plus élevé peut être utilisé pour éviter l'[overlapping](/wiki/Mapping_techniques/Overlap), mais la vitesse du slider devrait être augmentée si vous vous retrouvez à le faire souvent.
-- **Évitez d'utiliser un [slider velocity](/wiki/Hit_object/Slider_velocity) au-dessus de 1,3.**
+- **Le [Time-distance equality](/wiki/Beatmapping/Mapping_techniques/Time-distance_equality) doit être utilisée.** Les variations sont acceptables si elles sont clairement différentes de l'espacement utilisé pour les différents rythmes. Lorsque les objets sont espacés de plus de 2 temps et que l'espacement sur le playfield est relativement élevé, le time-distance equality n'a pas besoin d'être aussi précis.
+- **Lorsque le [distance snap](/wiki/Client/Beatmap_editor/Distance_snap) est utilisé, essayez de le maintenir entre 0,8x et 1,2x.** Des valeurs trop élevées ou trop faibles peuvent rendre la différence entre le [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) et l'espacement contre-intuitif. Un distance snap plus élevé peut être utilisé pour éviter l'[overlapping](/wiki/Beatmapping/Mapping_techniques/Overlap), mais la vitesse du slider devrait être augmentée si vous vous retrouvez à le faire souvent.
+- **Évitez d'utiliser un [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) au-dessus de 1,3.**
 - **La densité des notes doit consister principalement en des rythmes 1/1, 2/1 ou plus lents.**
 - **Évitez d'utiliser des sliders plus courts que 1/2 d'un temps.** Ceux-ci sont trop rapides pour être compris par les nouveaux joueurs.
-- **Évitez l'[overlapping](/wiki/Mapping_techniques/Overlap) des cercles, des slider heads et des slider tails.** Cela peut être perturbant pour les nouveaux joueurs. Les overlapping 1/1 dus à au [distance snapping](/wiki/Client/Beatmap_editor/Distance_snap) doivent être évités avec un espacement plus important ou du [slider velocity](/wiki/Hit_object/Slider_velocity).
+- **Évitez l'[overlapping](/wiki/Beatmapping/Mapping_techniques/Overlap) des cercles, des slider heads et des slider tails.** Cela peut être perturbant pour les nouveaux joueurs. Les overlapping 1/1 dus à au [distance snapping](/wiki/Client/Beatmap_editor/Distance_snap) doivent être évités avec un espacement plus important ou du [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity).
 - **Évitez les sliders 1/1 avec plusieurs reverses.** Les nouveaux joueurs sont incapables de lire les reverses supplémentaires car ils sont visibles pendant un temps très court.
 - **Évitez les sections où il n'y a que des sliders.** Viser et suivre un grand nombre de sliders à la suite peut être fatigant pour les nouveaux joueurs. Dans ce cas, il convient d'utiliser des cercles et des moments de repos sans objets à cliquer ou à suivre.
-- **Il est déconseillé de manipuler fréquemment le [slider velocity](/wiki/Hit_object/Slider_velocity).** Le slider velocity ne doit être modifié que pour les sections de musique avec des rythmes différents et ne doit pas être radicalement variable.
+- **Il est déconseillé de manipuler fréquemment le [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity).** Le slider velocity ne doit être modifié que pour les sections de musique avec des rythmes différents et ne doit pas être radicalement variable.
 - **Utilisez des formes de sliders simples et facilement compréhensibles.** Les nouveaux joueurs peuvent ne pas comprendre comment suivre des formes plus complexes.
 - **Il doit y avoir au moins 4 temps entre la fin d'un spinner et l'objet suivant.** Cela permet de garantir un temps suffisant pour cliquer sur un objet qui suit un spinner.
 - **Évitez les spinners de moins de 4 temps.** Les joueurs ont besoin de temps pour reconnaître qu'ils doivent commencer à tourner.
 - **Évitez de recouvrir entièrement les flèches inversées des sliders avec des objets dans les 4 temps où la flèche inversée est atteinte.** Cela donne aux joueurs suffisamment de temps pour reconnaître la flèche.
-- **Évitez l'[overlapping](/wiki/Mapping_techniques/Overlap) complet des slider bodies à moins de 4 temps l'un de l'autre.** En procédant ainsi, les sliders peuvent être mal considérés comme un cercle en raison de l'obscurcissement du slider body.
+- **Évitez l'[overlapping](/wiki/Beatmapping/Mapping_techniques/Overlap) complet des slider bodies à moins de 4 temps l'un de l'autre.** En procédant ainsi, les sliders peuvent être mal considérés comme un cercle en raison de l'obscurcissement du slider body.
 - **Assurez-vous que vos combos ne sont pas déraisonnablement courts ou longs.** Les combos doivent refléter des motifs exprimés dans la musique, tels que des mesures de musique ou des phrases vocales/instrumentales.
-- **Évitez l'[overlapping](/wiki/Mapping_techniques/Overlap) des objets avec d'autres éléments des skins par défaut et spécifiques à la beatmap.** Il s'agit de tous les éléments qui font partie de l'interface et qui peuvent être skinnée.
+- **Évitez l'[overlapping](/wiki/Beatmapping/Mapping_techniques/Overlap) des objets avec d'autres éléments des skins par défaut et spécifiques à la beatmap.** Il s'agit de tous les éléments qui font partie de l'interface et qui peuvent être skinnée.
 
 #### Directives sur les paramètres de difficultés
 
-- L'[Approach rate](/wiki/Beatmapping/Approach_rate) doit être de 5 ou moins.
-- L'[Overall difficulty](/wiki/Beatmapping/Overall_difficulty) / L'[HP drain rate](/wiki/Beatmapping/HP_drain_rate) doit être compris entre 1 et 3.
-- Le [Circle size](/wiki/Beatmapping/Circle_size) doit être de 4 ou moins.
+- L'[Approach rate](/wiki/Beatmap/Approach_rate) doit être de 5 ou moins.
+- L'[Overall difficulty](/wiki/Beatmap/Overall_difficulty) / L'[HP drain rate](/wiki/Beatmap/HP_drain_rate) doit être compris entre 1 et 3.
+- Le [Circle size](/wiki/Beatmap/Circle_size) doit être de 4 ou moins.
 
 ### ![](/wiki/shared/diff/normal-o.png?20211215) Normal
 
 #### Règles
 
-- **Les objets séparés de 1 temps ou moins ne doivent pas se [chevaucher](/wiki/Mapping_techniques/Overlap) complètement.**
+- **Les objets séparés de 1 temps ou moins ne doivent pas se [chevaucher](/wiki/Beatmapping/Mapping_techniques/Overlap) complètement.**
 - **N'utilisez pas de [flèches d'inversion de slider qui ne suivent pas le chemin du slider](/wiki/Ranking_Criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** Cela déforme la direction d'un slider.
 - **Chaque slider doit avoir une trajectoire claire et visible à suivre du début à la fin.** Les sliders qui se chevauchent sans bordures de slider claires et les sliders dont les sections individuelles sont illisibles ne peuvent pas être utilisés. La position finale d'un slider doit être claire en supposant que le joueur possède un skin qui rend les cercles de fin de slider totalement transparents.
 
 #### Directives
 
-- **Le [time-distance equality](/wiki/Mapping_techniques/Time-distance_equality) doit être utilisé.** Les variations sont acceptables si elles sont clairement différentes de l'espacement utilisé pour les différents rythmes. Lorsque les objets sont espacés de plus d'un temps et que l'espacement est relativement important sur le playfield, le time-distance equality n'a pas besoin d'être aussi précis.
-- **Lorsque [distance snap](/wiki/Client/Beatmap_editor/Distance_snap) est utilisé, essayez de le maintenir entre 0,8x et 1,3x.** Des valeurs trop élevées ou trop faibles peuvent rendre la différence entre le [slider velocity](/wiki/Hit_object/Slider_velocity) et l'espacement contre-intuitif. Un distance snap plus élevé peut être utilisée pour éviter l'[overlapping](/wiki/Mapping_techniques/Overlap), mais le slider velocity devrait être augmenté si vous êtes retrouvez à le faire souvent.
+- **Le [time-distance equality](/wiki/Beatmapping/Mapping_techniques/Time-distance_equality) doit être utilisé.** Les variations sont acceptables si elles sont clairement différentes de l'espacement utilisé pour les différents rythmes. Lorsque les objets sont espacés de plus d'un temps et que l'espacement est relativement important sur le playfield, le time-distance equality n'a pas besoin d'être aussi précis.
+- **Lorsque [distance snap](/wiki/Client/Beatmap_editor/Distance_snap) est utilisé, essayez de le maintenir entre 0,8x et 1,3x.** Des valeurs trop élevées ou trop faibles peuvent rendre la différence entre le [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) et l'espacement contre-intuitif. Un distance snap plus élevé peut être utilisée pour éviter l'[overlapping](/wiki/Beatmapping/Mapping_techniques/Overlap), mais le slider velocity devrait être augmenté si vous êtes retrouvez à le faire souvent.
 - **La densité des notes doit consister principalement en 1/1, occasionnellement 1/2, ou des rythmes plus lents.**
-- **Évitez l'[overlapping](/wiki/Mapping_techniques/Overlap) des cercles, des slider heads et des slider tails.** Ceux-ci peuvent être perturbants pour les nouveaux joueurs. Les overlaps 1/2 dus au [distance snapping](/wiki/Client/Beatmap_editor/Distance_snap) sont une exception.
-- **Évitez les longues chaînes d'objets avec des écarts de 1/2.** Un trop grand nombre d'objets consécutifs [chevauchés](/wiki/Mapping_techniques/Overlap) peut être source de confusion pour les nouveaux joueurs.
+- **Évitez l'[overlapping](/wiki/Beatmapping/Mapping_techniques/Overlap) des cercles, des slider heads et des slider tails.** Ceux-ci peuvent être perturbants pour les nouveaux joueurs. Les overlaps 1/2 dus au [distance snapping](/wiki/Client/Beatmap_editor/Distance_snap) sont une exception.
+- **Évitez les longues chaînes d'objets avec des écarts de 1/2.** Un trop grand nombre d'objets consécutifs [chevauchés](/wiki/Beatmapping/Mapping_techniques/Overlap) peut être source de confusion pour les nouveaux joueurs.
 - **Évitez les sliders 1/2 avec des reverses multiples.** Les nouveaux joueurs sont incapables de lire les reverses supplémentaires car ils sont visibles pendant un temps très court.
 - **Évitez les sections où il n'y a que des sliders.** Viser et suivre un grand nombre de sliders à la suite peut être fatigant pour les nouveaux joueurs. Dans ce cas, il convient d'utiliser des cercles et des moments de repos sans objets à cliquer ou à suivre.
-- **Les [stacks](/wiki/Mapping_techniques/Stack) sont acceptables, mais évitez d'alterner entre les stacks 1/1 et 1/2 de manière répétée.** Cela peut poser des problèmes de compréhension aux nouveaux joueurs, puisque deux rythmes différents sont visuellement identiques.
-- **La manipulation fréquente du [slider velocity](/wiki/Hit_object/Slider_velocity) est déconseillée.** Le slider velocity ne doit être modifié que pour les sections de musique avec des rythmes différents et ne doit pas être radicalement variable.
+- **Les [stacks](/wiki/Beatmapping/Mapping_techniques/Stack) sont acceptables, mais évitez d'alterner entre les stacks 1/1 et 1/2 de manière répétée.** Cela peut poser des problèmes de compréhension aux nouveaux joueurs, puisque deux rythmes différents sont visuellement identiques.
+- **La manipulation fréquente du [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) est déconseillée.** Le slider velocity ne doit être modifié que pour les sections de musique avec des rythmes différents et ne doit pas être radicalement variable.
 - **Utilisez des formes de sliders simples et facilement compréhensibles.** Les nouveaux joueurs peuvent ne pas comprendre comment suivre des formes plus complexes.
 - **Il doit y avoir au moins 2 temps entre l'extrémité d'un spinner et l'objet suivant.** Ceci permet de garantir un temps suffisant pour cliquer sur un objet qui suit un spinner.
 - **Évitez les spinners de moins de 3 temps.** Les joueurs ont besoin de temps pour reconnaître qu'ils doivent commencer à tourner.
 - **Évitez de recouvrir entièrement les flèches inversées des sliders avec des objets dans les 3 temps où la flèche inversée est atteinte.** Cela donne aux joueurs suffisamment de temps pour reconnaître la flèche.
-- **Évitez l'[overlapping](/wiki/Mapping_techniques/Overlap) complet des slider bodies à moins de 3 temps l'un de l'autre.** En procédant ainsi, les sliders peuvent être mal considérés comme un cercle en raison de l'obscurcissement du slider body.
+- **Évitez l'[overlapping](/wiki/Beatmapping/Mapping_techniques/Overlap) complet des slider bodies à moins de 3 temps l'un de l'autre.** En procédant ainsi, les sliders peuvent être mal considérés comme un cercle en raison de l'obscurcissement du slider body.
 - **Assurez-vous que vos combos ne sont pas déraisonnablement courts ou longs.** Les combos doivent refléter des motifs exprimés dans la musique, tels que des mesures de musique ou des phrases vocales/instrumentales.
-- **Évitez l'[overlapping](/wiki/Mapping_techniques/Overlap) des objets avec d'autres éléments des skins par défaut et spécifiques à la beatmap.** Il s'agit de tous les éléments qui font partie de l'interface et qui peuvent être skinnée.
+- **Évitez l'[overlapping](/wiki/Beatmapping/Mapping_techniques/Overlap) des objets avec d'autres éléments des skins par défaut et spécifiques à la beatmap.** Il s'agit de tous les éléments qui font partie de l'interface et qui peuvent être skinnée.
 
 Si un niveau de difficulté Normal est requis et utilisé comme le niveau de difficulté le plus bas d'une beatmap, il doit également suivre ces directives :
 
 - **Évitez d'avoir plus de trois rythmes de 1/2 clics actifs à la suite.**
 - **Incluez un écart de rythme de 1/1 ou plus pour chaque deux mesures de jeu.** L'indulgence est autorisée pour les sections de beatmaps comportant des sliders extrêmement longs, tels que des sliders de plus de 2 mesures.
 - **Évitez plus de quatre tranches de 1/2 consécutives.** Cela inclut les sliders d'inversion 1/2.
-- **Les objets composant les 1/2 rythmes cliqués activement doivent se [chevaucher](/wiki/Mapping_techniques/Overlap) les uns les autres sur le playfield.** Les rythmes 1/2 joués passivement qui ne se chevauchent pas, comme un sliderend suivi d'un cercle, sont acceptables.
-- **Évitez un [slider velocity](/wiki/Hit_object/Slider_velocity) au-dessus de 1,3.**
+- **Les objets composant les 1/2 rythmes cliqués activement doivent se [chevaucher](/wiki/Beatmapping/Mapping_techniques/Overlap) les uns les autres sur le playfield.** Les rythmes 1/2 joués passivement qui ne se chevauchent pas, comme un sliderend suivi d'un cercle, sont acceptables.
+- **Évitez un [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) au-dessus de 1,3.**
 
 #### Directives sur les paramètres de difficultés
 
-- L'[Approach rate](/wiki/Beatmapping/Approach_rate) doit être entre 4 et 6.
-- L'[Overall difficulty](/wiki/Beatmapping/Overall_difficulty) / L'[HP drain rate](/wiki/Beatmapping/HP_drain_rate) doit être entre 3 et 5.
-- Le [Circle size](/wiki/Beatmapping/Circle_size) doit être de 5 ou moins.
+- L'[Approach rate](/wiki/Beatmap/Approach_rate) doit être entre 4 et 6.
+- L'[Overall difficulty](/wiki/Beatmap/Overall_difficulty) / L'[HP drain rate](/wiki/Beatmap/HP_drain_rate) doit être entre 3 et 5.
+- Le [Circle size](/wiki/Beatmap/Circle_size) doit être de 5 ou moins.
 
 ### ![](/wiki/shared/diff/hard-o.png?20211215) Hard
 
 #### Règles
 
-- **Les objets séparés de 1/2 ou moins ne doivent pas se [chevaucher](/wiki/Mapping_techniques/Overlap) complètement.** Les slider heads ou tails entièrement recouvertes par des slider tails sont exemptées, pour autant que leurs slider bodies soient visibles.
+- **Les objets séparés de 1/2 ou moins ne doivent pas se [chevaucher](/wiki/Beatmapping/Mapping_techniques/Overlap) complètement.** Les slider heads ou tails entièrement recouvertes par des slider tails sont exemptées, pour autant que leurs slider bodies soient visibles.
 - **N'utilisez pas de [flèches inversées de slider qui ne suivent pas le chemin visible du slider](/wiki/Ranking_Criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** Cela déforme la direction d'un slider.
 - **Chaque slider doit avoir une trajectoire claire et visible à suivre du début à la fin.** Les sliders qui se chevauchent sans bordures de sliders claires et les sliders dont les sections individuelles sont illisibles ne peuvent pas être utilisés. La position finale d'un slider doit être claire en supposant que le joueur possède un skin qui rend les cercles de fin de slider totalement transparents. 
-  - Les sliders ambigus avec des cercles de suivi qui couvrent la totalité de la trajectoire du slider sont autorisés, à condition que les limites du slider soient simples.
+  - Les sliders ambigus avec des follow circles qui couvrent la totalité de la trajectoire du slider sont autorisés, à condition que les limites du slider soient simples.
 
 #### Directives
 
 - **Il doit y avoir au moins un temps entre la fin d'un spinner et l'objet suivant.** Ceci permet de garantir un temps suffisant pour cliquer sur un objet qui suit un spinner.
 - **La densité des notes devrait consister principalement en des rythmes de 1/2, occasionnellement de 1/4, ou plus lents.**
-- **Évitez les [streams](/wiki/Beatmap/Pattern/Stream) composés de plus de 5 notes.** Des reverse sliders courts peuvent être utilisés à la place de ceux-ci lorsque la musique le permet.
-- **Évitez un espacement visuellement similaire pour des rythmes différents.** Les variations d'espacement par le biais de [jumps](/wiki/Beatmap/Pattern/Jump) sur les points d'emphase sont encouragées, mais seulement si ces jumps sont reconnaissables et différents des autres écarts rythmiques.
+- **Évitez les [streams](/wiki/Beatmap/Pattern/osu!/Stream) composés de plus de 5 notes.** Des reverse sliders courts peuvent être utilisés à la place de ceux-ci lorsque la musique le permet.
+- **Évitez un espacement visuellement similaire pour des rythmes différents.** Les variations d'espacement par le biais de [jumps](/wiki/Beatmap/Pattern/osu!/Jump) sur les points d'emphase sont encouragées, mais seulement si ces jumps sont reconnaissables et différents des autres écarts rythmiques.
 - **Les slider tick hitsounds sont déconseillés.** Si vous souhaitez les utiliser, veillez à ce que leur volume soit équilibré (c'est-à-dire nettement plus faible que celui des hitsounds ordinaires). Un tick très fort du slider, surtout s'il n'est utilisé qu'une ou deux fois, peut être extrêmement déstabilisant.
 - **Évitez les spinners de moins de 2 temps.** Les joueurs ont besoin de temps pour reconnaître qu'ils doivent commencer à tourner.
 - **Évitez de recouvrir entièrement les flèches inversées des sliders avec des objets dans les 2 temps où la flèche inversée est atteinte.** Cela donne aux joueurs suffisamment de temps pour reconnaître la flèche.
-- **Évitez l'[overlapping](/wiki/Mapping_techniques/Overlap) complet des slider bodies à moins de 2 temps l'un de l'autre.** En procédant ainsi, les sliders peuvent être mal considérés comme un cercle en raison de l'obscurcissement du slider body.
+- **Évitez l'[overlapping](/wiki/Beatmapping/Mapping_techniques/Overlap) complet des slider bodies à moins de 2 temps l'un de l'autre.** En procédant ainsi, les sliders peuvent être mal considérés comme un cercle en raison de l'obscurcissement du slider body.
 
 #### Directives sur les paramètres de difficultés
 
-- L'[Approach rate](/wiki/Beatmapping/Approach_rate) doit être entre 6 et 8.
-- L'[Overall difficulty](/wiki/Beatmapping/Overall_difficulty) doit être entre 5 et 7.
-- L'[HP drain rate](/wiki/Beatmapping/HP_drain_rate) doit être entre 4 et 6.
-- Le [Circle size](/wiki/Beatmapping/Circle_size) doit être de 6 ou moins.
+- L'[Approach rate](/wiki/Beatmap/Approach_rate) doit être entre 6 et 8.
+- L'[Overall difficulty](/wiki/Beatmap/Overall_difficulty) doit être entre 5 et 7.
+- L'[HP drain rate](/wiki/Beatmap/HP_drain_rate) doit être entre 4 et 6.
+- Le [Circle size](/wiki/Beatmap/Circle_size) doit être de 6 ou moins.
 
 ### ![](/wiki/shared/diff/insane-o.png?20211215) Insane
 
 #### Règles
 
 - **Chaque slider doit avoir une trajectoire claire et visible à suivre du début à la fin.** Les sliders qui se chevauchent sans bordures de slider claires et les sliders dont les sections individuelles sont illisibles ne peuvent pas être utilisés. La position finale d'un slider doit être claire en supposant qu'un joueur possède un skin qui rend les cercles de fin de slider totalement transparents. 
-  - Les sliders ambigus avec des cercles de suivi qui couvrent la totalité de la trajectoire du slider sont autorisés, à condition que les limites du slider soient simples.
+  - Les sliders ambigus avec des follow circles qui couvrent la totalité de la trajectoire du slider sont autorisés, à condition que les limites du slider soient simples.
 
 #### Directives
 
-- **Les objets séparés de 1/4 ou moins ne doivent pas se [chevaucher](/wiki/Mapping_techniques/Overlap) complètement,** surtout sur les difficultés Insane plus simples.
+- **Les objets séparés de 1/4 ou moins ne doivent pas se [chevaucher](/wiki/Beatmapping/Mapping_techniques/Overlap) complètement,** surtout sur les difficultés Insane plus simples.
 - **Évitez les [flèches inversées de slider qui ne suivent pas le chemin visible du slider](/wiki/Ranking_Criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** Cela déforme la direction d'un slider.
-- **Évitez les [jumps](/wiki/Beatmap/Pattern/Jump) et les [streams](/wiki/Beatmap/Pattern/Stream) dont les cercles ne se [chevauchent](/wiki/Mapping_techniques/Overlap) pas.** Il s'agit de techniques de beatmapping principalement réservées aux difficultés Expert.
+- **Évitez les [jumps](/wiki/Beatmap/Pattern/osu!/Jump) cross-screen et les [streams](/wiki/Beatmap/Pattern/osu!/Stream) dont les cercles ne se [chevauchent](/wiki/Beatmapping/Mapping_techniques/Overlap) pas.** Il s'agit de techniques de beatmapping principalement réservées aux difficultés Expert.
 - **Les slider tick hitsounds sont déconseillés.** Si vous souhaitez les utiliser, veillez à ce que leur volume soit équilibré (c'est-à-dire nettement plus faible que celui des hitsounds ordinaires). Un tick très fort du slider, surtout s'il n'est utilisé qu'une ou deux fois, peut être extrêmement déstabilisant.
 - **Évitez de recouvrir entièrement les flèches inversées des sliders avec des cercles, des sliders heads ou des sliders tails dans un délai de 1/2 avant que la flèche inversée ne soit atteinte.** Cela donne aux joueurs suffisamment de temps pour reconnaître la flèche.
-- **Évitez l'[overlapping](/wiki/Mapping_techniques/Overlap) complet des slider bodies à 1/2 l'un de l'autre.** En procédant ainsi, les sliders peuvent être mal considérés comme un cercle en raison de l'obscurcissement du slider body.
+- **Évitez l'[overlapping](/wiki/Beatmapping/Mapping_techniques/Overlap) complet des slider bodies à 1/2 l'un de l'autre.** En procédant ainsi, les sliders peuvent être mal considérés comme un cercle en raison de l'obscurcissement du slider body.
 
 #### Directives sur les paramètres de difficultés
 
-- L'[Approach rate](/wiki/Beatmapping/Approach_rate) doit être entre 7 et 9.3.
-- L'[Overall difficulty](/wiki/Beatmapping/Overall_difficulty) doit être entre 7 et 9.
-- L'[HP drain rate](/wiki/Beatmapping/HP_drain_rate) doit être entre 5 et 8.
-- Le [Circle size](/wiki/Beatmapping/Circle_size) doit être de 7 ou moins.
+- L'[Approach rate](/wiki/Beatmap/Approach_rate) doit être entre 7 et 9.3.
+- L'[Overall difficulty](/wiki/Beatmap/Overall_difficulty) doit être entre 7 et 9.
+- L'[HP drain rate](/wiki/Beatmap/HP_drain_rate) doit être entre 5 et 8.
+- Le [Circle size](/wiki/Beatmap/Circle_size) doit être de 7 ou moins.
 
 ### ![](/wiki/shared/diff/expert-o.png?20211215) Expert
 
 #### Règles
 
 - **Chaque slider doit avoir une trajectoire claire et visible à suivre du début à la fin.** Les sliders qui se chevauchent sans bordures de slider claires et les sliders dont les sections individuelles sont illisibles ne peuvent pas être utilisés. La position finale d'un slider doit être claire en supposant qu'un joueur possède un skin qui rend les cercles de fin de slider totalement transparents. 
-  - Si le follow circle d'un slider couvre l'ensemble de la trajectoire du slider, le mouvement de la slider ball peut être ambigu.
+  - La trajectoire du slider peut être ambiguë si le curseur peut rester à l'intérieur du follow circle sans avoir à faire de mouvement après avoir cliqué sur la slider head.
 
 #### Directives
 
@@ -196,6 +196,6 @@ Si un niveau de difficulté Normal est requis et utilisé comme le niveau de dif
 
 #### Directives sur les paramètres de difficultés
 
-- L'[Approach rate](/wiki/Beatmapping/Approach_rate) / L'[Overall difficulty](/wiki/Beatmapping/Overall_difficulty) doit être de 8 ou plus.
-- L'[HP drain rate](/wiki/Beatmapping/HP_drain_rate) doit être de 5 ou plus.
-- Le [Circle size](/wiki/Beatmapping/Circle_size) doit être de 7 ou moins.
+- L'[Approach rate](/wiki/Beatmap/Approach_rate) / L'[Overall difficulty](/wiki/Beatmap/Overall_difficulty) doit être de 8 ou plus.
+- L'[HP drain rate](/wiki/Beatmap/HP_drain_rate) doit être de 5 ou plus.
+- Le [Circle size](/wiki/Beatmap/Circle_size) doit être de 7 ou moins.

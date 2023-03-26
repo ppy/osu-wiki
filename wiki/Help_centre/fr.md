@@ -26,6 +26,7 @@ Choisissez la section qui correspond le plus à votre problème pour trouver une
 | [Client](/wiki/Help_centre/Client) | Bugs et crashs, gameplay, connexion, performances |
 | [Compte](/wiki/Help_centre/Account) | osu!supporter, connexion et récupération de l'accès, changements de pseudo, données de profil |
 | [Installation et inscription](/wiki/Help_centre/Installation_and_registration) | Télécharger le jeu, créer un compte |
+| [Mise à jour vers lazer](/wiki/Help_centre/Upgrading_to_lazer) | Migration vers la [prochaine version majeure](/wiki/Client/Release_stream/Lazer) d'osu! |
 | [Restrictions de compte](/wiki/Help_centre/Account_restrictions) | Tout sur les restrictions : aperçu, processus d'appel, raisons courantes et cooldowns |
 | [Site web](/wiki/Help_centre/Website) | Blocage des utilisateurs, contacter le support, apparence du site |
 

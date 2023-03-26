@@ -10,7 +10,7 @@ Changes to the rules and guidelines in this document are proposed and discussed 
 
 ## Tools
 
-It is highly recommended that you use [Mapset Verifier (MV)](https://github.com/Naxesss/MapsetVerifier) to aid in checking these criteria. [AiMod](/wiki/Client/Beatmap_editor/AiMod) from the old client (stable) is outdated and unmaintained, and beatmap verification in the new client (lazer) is [work in progress](https://github.com/ppy/osu/issues/12091#issuecomment-878760791).
+It is highly recommended that you use [Mapset Verifier (MV)](https://github.com/Naxesss/MapsetVerifier) to aid in checking these criteria. [AiMod](/wiki/Client/Beatmap_editor/AiMod) from the old client (stable) is outdated and unmaintained, and beatmap verification in [osu!(lazer)](/wiki/Client/Release_stream/Lazer) is [work in progress](https://github.com/ppy/osu/issues/12091#issuecomment-878760791).
 
 Important to understand before using:
 
@@ -60,7 +60,7 @@ Important to understand before using:
   - **...lower than 3:30**, the lowest difficulty of each included game mode cannot be harder than a Normal.
   - **...between 3:30 and 4:15**, the lowest difficulty of each included game mode cannot be harder than a Hard.
   - **...between 4:15 and 5:00**, the lowest difficulty of each included game mode cannot be harder than an Insane.
-  - **Difficulties below the highest difficulty can combine break times with drain time to meet the above thresholds.** This does not apply to difficulties with less than 30 seconds of drain time. If the lowest difficulty of the beatmap is a Hard or Insane, judgement regarding the suitability of its gameplay elements is up to the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) and [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) members for the corresponding game modes.
+  - **Difficulties below the highest difficulty can combine break times with drain time to meet the above thresholds.** This does not apply to difficulties with less than 30 seconds of drain time. If the lowest difficulty of the beatmap is a Hard or Insane, judgement regarding the suitability of its gameplay elements is up to the [Beatmap Nominators](/wiki/People/Beatmap_Nominators) and [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) members for the corresponding game modes.
   - **osu!mania beatmaps are bound by a different set of drain time thresholds and other spread rules defined in the [osu!mania ranking criteria](/wiki/Ranking_Criteria/osu!mania).**
 - **Difficulty names in a beatmap must be clearly progressive and accurately indicating of their respective difficulties, excluding:**
   - The highest difficulty of each game mode.
@@ -97,8 +97,9 @@ Important to understand before using:
   - `osu!` itself should never be used in the source field except in cases where the track was specifically created for osu! (also known as an osu! original), such as commissioned tournament tiebreaker tracks.
 - **Metadata that exceeds the field's limits (81 characters) must be shortened.** Start by dropping additional markers and if this still is not sufficient, indicate that the title has been shortened using `...` in a sensible place.
 - **If the artist or title fields were shortened to fit in field limits, the omitted information must be added to the tags.**
-- **If the song mapped is a licensed one in the [Featured Artist](/wiki/Featured_Artists) library, `featured artist` must be added to tags.**
+- **If the song mapped is a licensed one in the [Featured Artist](/wiki/People/Featured_Artists) library, `featured artist` must be added to tags.**
 - **Tags must be related to the beatmap and not misleading for search results.** Tags describing the beatmap's style, song, storyboard, video, or background content are considered to be related to the beatmap.
+- **Song [genre and language](/wiki/Beatmap/Genre_and_language) must be added to the tags of a beatmap.** This is to enable users to search using these terms in-game like they do on the website. For instrumental tracks, "instrumental" is considered the language tag. Exceptions would be when language and/or genre are not clear, or multiple apply. In case of the latter, one fitting tag for each may be applied.
 
 #### Standardisation
 
@@ -147,7 +148,6 @@ Important to understand before using:
 - **In the case of compilations or remixes, the original song title(s) and artist(s) should be included in tags.** This is to ensure that players can find all beatmaps of one song by searching the same thing without getting vastly different results.
 - **Any metadata that contains ambiguous or hard-to-write unicode characters should be accompanied by easily searchable variations or romanisations of these words in the beatmap's tags.**
 - **If the source of the song is available in both unicode and romanised formats, the option not used in the source field should be added to tags.**
-- **Song [genre and language](/wiki/Beatmap/Genre_and_language) should be added to the tags of a beatmap.** This is to enable users to search using these terms in-game like they do on the website. For instrumental tracks, "instrumental" is considered the language tag. Exceptions would be when language and/or genre are not clear, or multiple apply. In case of the latter, one fitting tag for each may be applied.
 - **Tags should be added for related artists, alternate names for the artist, title, or source, contractions in any part of the metadata with the apostrophe removed, and whatever else may aid a player in finding the beatmap.**
 
 #### Standardisation
@@ -176,8 +176,8 @@ This category contains explicit allowance statements of concepts and rules that 
 ### Rules
 
 - **[Uninherited timing points](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) must be used to accurately beatmap the song's time signatures.** If an incorrect time signature lasts for more than one bar, an uninherited timing point must be added on the next downbeat to reset the time signature. For #/4-signatures unsupported by the editor, metronome resets or editing of the `.osu` file are acceptable. For other unsupported time signatures, refer to this [exemplary chart](/wiki/shared/timing/Timing_signature_reference_chart.png), and see the [Timing songs with #/8-signatures](/wiki/Guides/Timing_Songs_With_8-Signatures) guide for further information.
-- **Beatmaps must be perfectly timed.** This means [BPM](/wiki/Beatmapping/Beats_per_minute) and [offset](/wiki/Beatmapping/Offset) are exactly synchronised with the song. Beatmaps with constantly changing BPM may be impossible to perfectly time and should instead be as accurate as possible without negatively affecting gameplay. Complex timing during breaks or spinners is optional.
-- **[Uninherited timing points](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) must be the same in every difficulty of a beatmap.** Each point must have the same [BPM](/wiki/Beatmapping/Beats_per_minute) and [offset](/wiki/Beatmapping/Offset) in each difficulty.
+- **Beatmaps must be perfectly timed.** This means [BPM](/wiki/Music_theory/Tempo) and offset of each [uninherited timing point](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) are exactly synchronised with the song. Beatmaps with constantly changing BPM may be impossible to perfectly time and should instead be as accurate as possible without negatively affecting gameplay. Complex timing during breaks or spinners is optional.
+- **[Uninherited timing points](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) must be the same in every difficulty of a beatmap.** Each point must have the same [BPM](/wiki/Music_theory/Tempo) and offset in each difficulty.
 - **[Uninherited timing points](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) should only be used when required for timing purposes.** Unnecessary timing points may unintentionally affect main-menu pulsing, add unwanted sounds to the [Nightcore mod](/wiki/Gameplay/Game_modifier/Nightcore), or cause timing to shift. Acceptable uses include:
   - Aligning beats of the Nightcore mod with the start of musical sections.
   - Accommodating for objects in musical sections requiring unsupported beat snap divisors (e.g. 1/11).
@@ -186,7 +186,7 @@ This category contains explicit allowance statements of concepts and rules that 
 - **A beatmap's first [uninherited timing point](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) cannot be used to toggle [kiai](/wiki/Gameplay/Kiai_time).** Doing this will cause the kiai to flash before objects appear. An [inherited point](/wiki/Client/Beatmap_editor/Timing#inherited-timing-point) in the same position as the first uninherited point must be used to toggle kiai instead.
 - **Hit objects must be snapped within less than 2 ms of any timeline tick.** [AiMod](/wiki/Client/Beatmap_editor/AiMod) will report these issues, as well as rare false positives. False positives mainly occur on slider ends and reverses, and should be verified manually or with other tools. Objects in a musical section requiring unsupported beat snap divisors (e.g. 1/11) can either:
   - Remain unsnapped, as long as they align with the intended beat snap divisor.
-  - Be snapped through a temporary change in [BPM](/wiki/Beatmapping/Beats_per_minute).
+  - Be snapped through a temporary change in [BPM](/wiki/Music_theory/Tempo).
 - **An object which is wrongly snapped due to passing through or ending slightly before a new [uninherited timing point](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) must have its tail snapped within the new timing section.** For spinners and osu!mania long notes, this can be achieved through dragging the end of the object in the timeline. For sliders, this can be achieved through slider velocity manipulation or editing of the `.osu` file.
 
 ## Audio
@@ -214,7 +214,7 @@ This category contains explicit allowance statements of concepts and rules that 
 ### Guidelines
 
 - **The audio file and hitsound files of a beatmap should not feature any audible and unwarranted sound distortions**, like clipping, muffling, or crackling that is clearly not intended by the artist or part of the song's identity. This is best determined by listening to the audio, rather than using software on its own.
-- **The audio file of a song should not be artificially extended in order to meet a time limitation in the beatmap section of this criteria.** This can include (but is not limited to) looping sections of the audio file, lowering the [BPM](/wiki/Beatmapping/Beats_per_minute) of the song or section of the song, or adding small amounts of music to the song without incorporating it throughout the entire song. This does not apply to [song compilations](/wiki/Beatmap/Song_compilation) or audio files less than the minimum rankable beatmap length.
+- **The audio file of a song should not be artificially extended in order to meet a time limitation in the beatmap section of this criteria.** This can include (but is not limited to) looping sections of the audio file, lowering the [BPM](/wiki/Music_theory/Tempo) of the song or section of the song, or adding small amounts of music to the song without incorporating it throughout the entire song. This does not apply to [song compilations](/wiki/Beatmap/Song_compilation) or audio files less than the minimum rankable beatmap length.
 - **If you do not beatmap the last 20% of your beatmap's audio file, it should be cut.** The intro time is not included. This does not apply if more than 20% of the outro is occupied by a storyboard/video, or if more than 20% of the song's audio is not able to be mapped due to fade-out or timing issues.
 - **[Song compilations](/wiki/Beatmap/Song_compilation) should incorporate 3 or more songs.** Using only 2 songs in a compilation is a lacklustre experience for players, and should be broken up into separate beatmaps. Exceptions can be made for songs that were exclusively released together.
 - **[Song compilations](/wiki/Beatmap/Song_compilation) or other medley-style tracks should aim to be cleanly mixed with proper transitions, and should not include abrupt breaks or long fades between different songs.** The songs used for the compilation should be similar in audio quality, volume and length. This is to ensure compilations achieve the same cohesive gameplay experience as other beatmaps. Cross-faded transitions are acceptable, but should be used sparingly and generally be no longer than 5 seconds. Beat-matched and well-planned transitions are always a better option than cross-fading.
@@ -235,8 +235,8 @@ This category contains explicit allowance statements of concepts and rules that 
   - **Maximum file size:** 2.5MB
 - **A video's dimensions must not exceed a width of 1280 and a height of 720 pixels.** Additionally, upscaling lower resolution video to a higher resolution should be avoided. This ensures video files do not become excessively large or resource intensive.
 - **A video must be encoded in H.264.**
-- **A video's [offset](/wiki/Beatmapping/Offset) must be correct if it synchronizes with the song.** An incorrect offset can result in a misleading visual representation of the song. If the same video appears in multiple difficulties, it must always have the same offset(s).
-- **A video's audio track must be removed from the video file.** The audio track in video is not used in osu!, so removing it reduces that file size of the beatmap. This includes videos with muted audio tracks.
+- **A video's offset must be correct if it synchronizes with the song.** An incorrect offset can result in a misleading visual representation of the song. If the same video appears in multiple difficulties, it must always have the same offset(s).
+- **A video's audio track must be removed from the video file.** The audio track in a video is not used in osu!, and removing it reduces the file size of the beatmap. This includes videos with muted audio tracks.
   - *See [Compressing files § Video](/wiki/Guides/Compressing_files#video) for guidance.*
 
 ### Guidelines

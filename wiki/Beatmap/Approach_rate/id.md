@@ -3,13 +3,15 @@ tags:
   - approach time
   - AR
   - reading
+outdated_translation: true
+outdated_since: d45afabf155d19c4b9d8bd0f7b68e73bc1f4af16
 ---
 
 # Approach rate
 
 *Untuk nilai AR yang disarankan, silakan lihat: [Ranking criteria](/wiki/Ranking_Criteria)*
 
-**Approach rate** (***AR***) pengaturan kesulitan [beatmap](/wiki/Beatmap) yang ditentukan ketika [hit objects](/wiki/Hit_object) mulai memudar sehubungan dengan kapan mereka harus ditekan atau diklik. Pengaturan ini hanya ada di jenis permainan [osu!](/wiki/Game_mode/osu!) dan [osu!catch](/wiki/Game_mode/osu!catch).
+**Approach rate** (***AR***) pengaturan kesulitan [beatmap](/wiki/Beatmap) yang ditentukan ketika [hit objects](/wiki/Gameplay/Hit_object) mulai memudar sehubungan dengan kapan mereka harus ditekan atau diklik. Pengaturan ini hanya ada di jenis permainan [osu!](/wiki/Game_mode/osu!) dan [osu!catch](/wiki/Game_mode/osu!catch).
 
 Nilai AR memiliki jarak antara 0 sampai 10. AR yang tinggi mempunyai arti bahwa hit object akan ditampilkan dalam waktu yang lebih singkat, sehingga pemain hanya mempunyai sedikit waktu untuk bereaksi. Di sisi lain, AR yang rendah memberikan banyak waktu bagi pemain untuk bereaksi. Tetapi, hasilnya akan memberikan sejumlah hit object yang besar ketika muncul dilayar dalam sekaligus. Akan tetapi, hal ini dapat menyebabkan munculnya jumlah hit object yang banyak di layar pemain dalam waktu sekaligus.
 
@@ -42,10 +44,10 @@ Total waktu yang dibutuhkan untuk hit object hingga benar-benar memudar juga ber
 
 Ada empat mod yang dapat mengubah tingkat AR ketika diaktifkan:
 
-- [Easy](/wiki/Game_modifier/Easy): Setengah dari nilai AR.
-- [Hard Rock](/wiki/Game_modifier/Hard_Rock): Melipatgandakan nilai AR 1.4 kali lipat, maksimal hanya sampai AR10.
-- [Double Time](/wiki/Game_modifier/Double_Time): Tidak mempengaruhi nilai AR, tetapi kecepatan bermain meningkat 50%, hit object akan tampil 33% lebih sedikit.
-- [Half Time](/wiki/Game_modifier/Half_Time): Tidak mempengaruhi nilai AR, tetapi kecepatan bermain menurun 25%, hit object akan tampil 33% lebih banyak.
+- [Easy](/wiki/Gameplay/Game_modifier/Easy): Setengah dari nilai AR.
+- [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock): Melipatgandakan nilai AR 1.4 kali lipat, maksimal hanya sampai AR10.
+- [Double Time](/wiki/Gameplay/Game_modifier/Double_Time): Tidak mempengaruhi nilai AR, tetapi kecepatan bermain meningkat 50%, hit object akan tampil 33% lebih sedikit.
+- [Half Time](/wiki/Gameplay/Game_modifier/Half_Time): Tidak mempengaruhi nilai AR, tetapi kecepatan bermain menurun 25%, hit object akan tampil 33% lebih banyak.
 
 Sementara Half Time (HT) dan Double Time (DT) tidak mempengaruhi nilai AR, tetapi perbedaan kecepatan dari kedua mod tersebut yang mempengaruhi nilai AR. AR dari HT/DT biasanya disebut di dalam hal nilai yang dirasakan. Untuk contoh, "AR8+DT" juga dapat diartikan sebagai "AR9.6".
 

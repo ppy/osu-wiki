@@ -26,4 +26,4 @@ Kopyalanan bir mapi düzeltmek için, aşağıdakileri yapın:
   7. `Dosya` > `Zorluk Derecesini Aç...` aracılığı ile diğer zorluklarda da Sanatçı/Başlık bilgisini değiştirin.
   8. Karşıya yükleyin.
 
-Eğer kopyalanmış herhangi bir mapiniz varsa, lütfen bu sorunun çözülmesi için [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) üyelerinden biri ile iletişime geçin.
+Eğer kopyalanmış herhangi bir mapiniz varsa, lütfen bu sorunun çözülmesi için [NAT](/wiki/People/Nomination_Assessment_Team) üyelerinden biri ile iletişime geçin.

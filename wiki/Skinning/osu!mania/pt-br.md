@@ -506,7 +506,7 @@ Observações:
 
 | Versões | Pode ser animado | Modificável em beatmap | Blend Mode | Origem | Tamanho SD sugerido |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| Todas | ![Yes][true] | ![No][false] | Normal | Centro | - |
+| Todas | ![No][false] | ![No][false] | Normal | Centro | - |
 
 Observações:
 
@@ -518,6 +518,8 @@ Observações:
 ---
 
 `mania-warningarrow.png`
+
+![](img/mania-warningarrow.png)
 
 | Versões | Pode ser animado | Modificável em beatmap | Blend Mode | Origem | Tamanho SD sugerido |
 |:-:|:-:|:-:|:-:|:-:|:-:|

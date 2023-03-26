@@ -14,19 +14,17 @@ Known thereafter as "pp" (an abbreviation for "performance points"), this new sy
 
 Several months after its reveal, the 20120722-24 osu! release officially implemented the system to fully replace the old [Ranked](/wiki/Beatmap/Category#ranked) score system, with new scores being calculated every 30 minutes. Later on in August of the same year, the system was improved to update in real-time.
 
-*Note: ppv1, the original build of the Performance Points system, also had a changelog, which can be viewed from its [forum topic](https://osu.ppy.sh/community/forums/topics/92185).*
-
-It continued to exist in this capacity for more than a year of service until [Tom94](https://osu.ppy.sh/users/1857058), the creator of the *osu!tp* scoring metric, joined the [osu! team](/wiki/People/The_Team) and implemented his design into the system. The resulting system was titled *ppv2*, and became live on January 27, 2014, therefore renaming the old system to *[ppv1](/wiki/Performance_points/ppv1)*
+It continued to exist in this capacity for more than a year of service until [Tom94](https://osu.ppy.sh/users/1857058), the creator of the *osu!tp* scoring metric, joined the [osu! team](/wiki/People/osu!_team) and implemented his design into the system. The resulting system was titled *ppv2*, and became live on January 27, 2014, therefore renaming the old system to *[ppv1](/wiki/Performance_points/ppv1)*
 
 On January 16, 2021, changes were made to the ppv2 system that aimed to more accurately award pp to more difficult aspects of maps. These changes were made in large part by the help of various individual members of the community such as [Xexxar](https://osu.ppy.sh/users/2773526) and [StanR](https://osu.ppy.sh/users/7217455). The specifics of the changes made are detailed in the [corresponding newspost](https://osu.ppy.sh/home/news/2021-01-14-performance-points-updates). Very briefly, the main points of interest in the update were as follows:
 
 - Introduce a scaling factor to the additional pp gain from approach rate 11 maps based on the length of a beatmap
-- Introduce a scaling factor to the pp loss affected by the [No Fail](/wiki/Game_modifier/No_Fail) mod based on the number of misses in a play
-- Introduce a scaling factor to the pp loss affected by the [Spun Out](/wiki/Game_modifier/Spun_Out) mod based on the number of spinners in a beatmap
+- Introduce a scaling factor to the pp loss affected by the [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) mod based on the number of misses in a play
+- Introduce a scaling factor to the pp loss affected by the [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out) mod based on the number of spinners in a beatmap
 - Adjust the rate of pp loss from misses to be more forgiving on longer maps with higher combo
 - Punish lower [accuracy](/wiki/Gameplay/Accuracy) plays with less pp gain
 
-ppv2 is currently in active service, with live updates published to its [changelog](https://osu.ppy.sh/p/changelog?category=pp).
+ppv2 is currently in active service, with updates in the form of news posts published by the [Performance Points Committee](/wiki/People/Performance_Points_Committee) whenever new changes are deployed.
 
 ## Calculation
 
@@ -50,9 +48,9 @@ Regarding the formula above, *p* represents each score's full pp value (pre-weig
 
 *Aim* is a core value that considers how difficult it is to consistently hit consecutive notes in a beatmap.
 
-Elements like [approach rate](/wiki/Beatmapping/Approach_rate) and certain [mods](/wiki/Game_modifier) (namely [Flashlight](/wiki/Game_modifier/Flashlight), [Hidden](/wiki/Game_modifier/Hidden) and [Hard Rock](/wiki/Game_modifier/Hard_Rock)) make navigating the cursor quickly and accurately significantly more difficult, and thus influence the amount of pp a score gives.
+Elements like [approach rate](/wiki/Beatmap/Approach_rate) and certain [mods](/wiki/Gameplay/Game_modifier) (namely [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight), [Hidden](/wiki/Gameplay/Game_modifier/Hidden) and [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock)) make navigating the cursor quickly and accurately significantly more difficult, and thus influence the amount of pp a score gives.
 
-In case of [osu!](/wiki/Game_mode/osu!), beatmaps with very large [jumps](/wiki/Beatmap/Pattern/Jump) are considered to be "high aim" beatmaps, and are thus often given very high pp scores. Likewise, beatmaps with more hyperdashing in [osu!catch](/wiki/Game_mode/osu!catch) will be considered similarly. Aim is not considered in gamemodes like [osu!taiko](/wiki/Game_mode/osu!taiko) and [osu!mania](/wiki/Game_mode/osu!mania).
+In case of [osu!](/wiki/Game_mode/osu!), beatmaps with very large [jumps](/wiki/Beatmap/Pattern/osu!/Jump) are considered to be "high aim" beatmaps, and are thus often given very high pp scores. Likewise, beatmaps with more hyperdashing in [osu!catch](/wiki/Game_mode/osu!catch) will be considered similarly. Aim is not considered in gamemodes like [osu!taiko](/wiki/Game_mode/osu!taiko) and [osu!mania](/wiki/Game_mode/osu!mania).
 
 ### Speed
 
@@ -60,21 +58,21 @@ In case of [osu!](/wiki/Game_mode/osu!), beatmaps with very large [jumps](/wiki/
 
 Beatmaps with high numbers of hit objects in a short period of time are considered to have very high speed values. In this specific aspect, the faster a beatmap's speed is, the more difficult said beatmap is, therefore granting larger gains of pp.
 
-As a result of this, mods like [Double Time](/wiki/Game_modifier/Double_Time) and [Half Time](/wiki/Game_modifier/Half_Time) significantly affect the speed of a beatmap considered by the performance points algorithm. Likewise, these mods also significantly affect pp gains when used.
+As a result of this, mods like [Double Time](/wiki/Gameplay/Game_modifier/Double_Time) and [Half Time](/wiki/Gameplay/Game_modifier/Half_Time) significantly affect the speed of a beatmap considered by the performance points algorithm. Likewise, these mods also significantly affect pp gains when used.
 
 ### Accuracy
 
 *See also: [Accuracy](/wiki/Gameplay/Accuracy)*
 
-*Accuracy* is a percent measure of a player's ability to hit [hit objects](/wiki/Hit_object) on-time; in regards to the pp algorithm, it is also a core value that is used to evaluate a player's individual performance on a beatmap.
+*Accuracy* is a percent measure of a player's ability to hit [hit objects](/wiki/Gameplay/Hit_object) on-time; in regards to the pp algorithm, it is also a core value that is used to evaluate a player's individual performance on a beatmap.
 
-Scores with high accuracy values are considered by the algorithm to be highly impressive, and will award very large scores because of this. A [full combo](/wiki/Full_combo) play that obtained 80% accuracy can sometimes be worth 2/3 of a score set with 95% accuracy. Due to the algorithm's heavy reliance on accuracy, mods like Hidden, Hard Rock and Flashlight are considered to significantly increase the pp gain for plays with high accuracy.
+Scores with high accuracy values are considered by the algorithm to be highly impressive, and will award very large scores because of this. A [full combo](/wiki/Gameplay/Full_combo) play that obtained 80% accuracy can sometimes be worth 2/3 of a score set with 95% accuracy. Due to the algorithm's heavy reliance on accuracy, mods like Hidden, Hard Rock and Flashlight are considered to significantly increase the pp gain for plays with high accuracy.
 
 ### Strain
 
 *Strain* is a core value that considers how many times, and for how long, a player is subjected to high intensity sections within a particular beatmap.
 
-Sections or  of extremely high speed or difficulty [patterning](/wiki/Beatmap/Pattern) in a beatmap will significantly increase its considered strain values. E.g., beatmaps with more [streams](/wiki/Beatmap/Pattern/Stream) or fast jump waves will have high strain values, and thus increase the pp gain for that beatmap.
+Sections or  of extremely high speed or difficulty [patterning](/wiki/Beatmap/Pattern) in a beatmap will significantly increase its considered strain values. E.g., beatmaps with more [streams](/wiki/Beatmap/Pattern/osu!/Stream) or fast jump waves will have high strain values, and thus increase the pp gain for that beatmap.
 
 <!-- consult reg contributors before moving FAQ to a new location-->
 

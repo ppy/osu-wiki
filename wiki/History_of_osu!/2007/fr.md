@@ -6,7 +6,7 @@ Ce qui suit contient certains des évènements majeurs de l'histoire d'osu! en 2
 
 ## Juillet
 
-osu! a débuté en tant que preuve de concept nommée "ouentest"[[1]][r]. La première version a été publiée le 1er juillet 2007 à un petit groupe d'amis proches de [peppy](https://osu.ppy.sh/users/2) et contenait un [éditeur de beatmaps](/wiki/Client/Beatmap_editor) très basique ainsi qu'un seul mode de jeu. L'éditeur pouvait seulement permettre la création de [beatmaps](/wiki/Beatmap) *très* simplistes sans fonction de recherche ou de [snapping](/wiki/Beatmapping/Snapping) disponibles, et il n'y avait ni sliders, ni spinners, seulement des cercles et des compteurs basiques de score/combo. La première version a pris environ 16 heures de programmation, et a été réalisée en *une seule nuit blanche*. `pUpdater` a été introduit (connu peu après sous le nom d'`osume`)[[2]][r] pour prendre en charge les mises à jour à la dernière version.
+osu! a débuté en tant que preuve de concept nommée "ouentest".[^ouentest] La première version a été publiée le 1er juillet 2007 à un petit groupe d'amis proches de [peppy](https://osu.ppy.sh/users/2) et contenait un [éditeur de beatmaps](/wiki/Client/Beatmap_editor) très basique ainsi qu'un seul mode de jeu. L'éditeur pouvait seulement permettre la création de [beatmaps](/wiki/Beatmap) *très* simplistes sans fonction de recherche ou de [snapping](/wiki/Beatmapping/Snapping) disponibles, et il n'y avait ni sliders, ni spinners, seulement des cercles et des compteurs basiques de score/combo. La première version a pris environ 16 heures de programmation, et a été réalisée en *une seule nuit blanche*. `pUpdater` a été introduit (connu peu après sous le nom d'`osume`) [^osume] pour prendre en charge les mises à jour à la dernière version.
 
 ![](img/2007-07_01.jpg "Sélection de musiques")
 
@@ -28,7 +28,7 @@ osu! a débuté en tant que preuve de concept nommée "ouentest"[[1]][r]. La pre
 
 ## Août
 
-Le menu principal a été mis à jour avec un nouveau look, et beaucoup de fonctionnalités ont été ajoutées à l'éditeur, incluant le support du copier-coller. L'onglet menu et le menu contextuel ont été ajoutés, rendant les fonctionnalités de l'éditeur plus accessibles qu'avant ; les sliders ont été améliorés avec la présence des [sliders ticks](/wiki/Beatmapping/Slider_tick) ; l'[empilement](/wiki/Mapping_techniques/Stack) de [cercles](/wiki/Hit_object/Hit_circle) était présent ; les scores locaux étaient mieux pris en charge ; et le format `.osu` a été revu et complètement refait, tout en incluant une conversion des anciens fichiers à ce nouveau format.
+Le menu principal a été mis à jour avec un nouveau look, et beaucoup de fonctionnalités ont été ajoutées à l'éditeur, incluant le support du copier-coller. L'onglet menu et le menu contextuel ont été ajoutés, rendant les fonctionnalités de l'éditeur plus accessibles qu'avant ; les sliders ont été améliorés avec la présence des [sliders ticks](/wiki/Gameplay/Hit_object/Slider/Slider_tick) ; l'[empilement](/wiki/Beatmapping/Mapping_techniques/Stack) de [cercles](/wiki/Gameplay/Hit_object/Hit_circle) était présent ; les scores locaux étaient mieux pris en charge ; et le format `.osu` a été revu et complètement refait, tout en incluant une conversion des anciens fichiers à ce nouveau format.
 
 ![](img/2007-08_01.jpg "Menu de sélection de musiques")
 
@@ -56,7 +56,7 @@ Le 17 septembre 2007 marque la "naissance" d'osu! pour le grand public. Les foru
 
 ![](img/2007-09_05.jpg "Annonce sur un site de jeux-vidéo")
 
-Peu après la sortie publique, les premiers [mods](/wiki/Game_modifier), [Easy](/wiki/Game_modifier/Easy) *(EZ)* et [No Fail](/wiki/Game_modifier/No_Fail) *(NF)*, ainsi que les pauses (qui jusque-là étaient ignorées et manquaient) ont été ajoutés. Un grand nombre de changements ont rapidement fait qu'osu! ressemblait de plus en plus à un jeu de rythme légitime.
+Peu après la sortie publique, les premiers [mods](/wiki/Gameplay/Game_modifier), [Easy](/wiki/Gameplay/Game_modifier/Easy) *(EZ)* et [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) *(NF)*, ainsi que les pauses (qui jusque-là étaient ignorées et manquaient) ont été ajoutés. Un grand nombre de changements ont rapidement fait qu'osu! ressemblait de plus en plus à un jeu de rythme légitime.
 
 ![](img/easy.png "Easy (v1)") ![](img/no_fail.png "No Fail (v1)")
 
@@ -76,7 +76,7 @@ La version 2 de `pUpdater`(`osume`) a été publiée, prenant en charge des tél
 
 ## Novembre
 
-Un nouvelle note, le *SS*, a été ajoutée au système de ranking, remplaçant les *S* dans les cas où la perfection était atteinte. Les mods [No Video](/wiki/Game_modifier/No_Video) et [Hidden](/wiki/Game_modifier/Hidden) *(HD)* ont été introduits, les notes *S* argenté et *SS* argenté également. Pour la première fois, les joueurs pouvaient modifier et assigner les sets d'échantillons normal et soft suivant les sections. Les fichiers `.osz` pouvaient maintenant être chargés avec un double-clic, ou en les glissant sur l'icône ou la fenêtre d'osu!.
+Un nouvelle note, le *SS*, a été ajoutée au système de ranking, remplaçant les *S* dans les cas où la perfection était atteinte. Les mods [No Video](/wiki/Gameplay/Game_modifier/No_Video) et [Hidden](/wiki/Gameplay/Game_modifier/Hidden) *(HD)* ont été introduits, les notes *S* argenté et *SS* argenté également. Pour la première fois, les joueurs pouvaient modifier et assigner les sets d'échantillons normal et soft suivant les sections. Les fichiers `.osz` pouvaient maintenant être chargés avec un double-clic, ou en les glissant sur l'icône ou la fenêtre d'osu!.
 
 ![](img/no_video.png "No Video \(v1\)") ![](img/hidden.png "Hidden \(v1\)")
 
@@ -88,7 +88,7 @@ Un nouvelle note, le *SS*, a été ajoutée au système de ranking, remplaçant 
 
 ![](img/2007-11_03.jpg "Test de l'utilisation d'IRC")
 
-Le [système de publication de beatmaps](/wiki/Submission) *(BSS)* a été rendu public, autorisant les utilisateurs à facilement envoyer et partager leurs créations. Cela a introduit le statut des beatmaps [En attente](/wiki/Beatmap/Category#work-in-progress-et-en-attente) et [Classée](/wiki/Beatmap/Category#classée) pour aider à l'organisation de la collection grandissante des beatmaps publiées. Le tchat en jeu a été ajouté grâce a un client [IRC](/wiki/Community/Internet_Relay_Chat) *(Internet Relay Chat)* réalisé a partir de rien, et connecté a un serveur IRC standard (sans [Bancho](/wiki/Bancho_(server))) ; le tchat étendu était visible ; les avatars et statistiques simples étaient affichés en jeu en utilisant une communication `http` ; les contrôles audios ont aussi été ajoutés au menu principal, qui jouait une musique aléatoire au démarrage ; les [replays](/wiki/Gameplay/Replay) pouvaient être regardés pour les score locaux et en ligne. Les joueurs pouvaient regarder d'autres joueurs (les données spectateurs étaient envoyées en brut via IRC).
+Le [système de publication de beatmaps](/wiki/Beatmapping/Beatmap_submission) *(BSS)* a été rendu public, autorisant les utilisateurs à facilement envoyer et partager leurs créations. Cela a introduit le statut des beatmaps [En attente](/wiki/Beatmap/Category#work-in-progress-et-en-attente) et [Classée](/wiki/Beatmap/Category#classée) pour aider à l'organisation de la collection grandissante des beatmaps publiées. Le tchat en jeu a été ajouté grâce a un client [IRC](/wiki/Community/Internet_Relay_Chat) *(Internet Relay Chat)* réalisé a partir de rien, et connecté a un serveur IRC standard (sans [Bancho](/wiki/Bancho_(server))) ; le tchat étendu était visible ; les avatars et statistiques simples étaient affichés en jeu en utilisant une communication `http` ; les contrôles audios ont aussi été ajoutés au menu principal, qui jouait une musique aléatoire au démarrage ; les [replays](/wiki/Gameplay/Replay) pouvaient être regardés pour les score locaux et en ligne. Les joueurs pouvaient regarder d'autres joueurs (les données spectateurs étaient envoyées en brut via IRC).
 
 ## Décembre
 
@@ -98,7 +98,5 @@ Les musiques peuvent être éditées en les glissant dans la fenêtre d'osu! ; l
 
 ## Références
 
-1. [post Twitter de peppy sur le début d'osu!](https://twitter.com/ppy/status/1141394137637249025?s=20)
-2. [pUpdater  (alias osume) post forum](https://osu.ppy.sh/community/forums/topics/4?n=1)
-
-[r]: #références
+[^ouentest]: [Tweet par @ppy (10/06/2019)](https://twitter.com/ppy/status/1141394137637249025?s=20)
+[^osume]: [Fil de discussion par peppy (28/08/2007) "pUpdater (aka osume)"](https://osu.ppy.sh/community/forums/topics/4?n=1)

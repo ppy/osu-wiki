@@ -47,7 +47,7 @@ Overall rules and guidelines apply to every kind of osu!taiko difficulty. Rhythm
 All rules are exactly that: **rules**. They are **not** guidelines and must **not** be broken under **any** circumstances.
 
 - **Each note must have its colour clearly distinguishable from the previous and upcoming notes.**
-- **Every note must be clearly assignable to a musical layer or layer unit it tries to represent, be it to enhance a layer the song provides, or be it an additional layer improvised by the mapper.** Do not improvise in a fashion that shifts the pace, contradicts the general music movement or misinterprets the song's current intensity. Improvising must either enhance a current layer of the song or add a new one. Otherwise, relation to the song is given up and this contradicts the main purpose of a rhythm game.
+- **Every note must be clearly assignable to a [musical layer](/wiki/Music_theory/Layer) or layer unit it tries to represent, be it to enhance a layer the song provides, or be it an additional layer improvised by the mapper.** Do not improvise in a fashion that shifts the pace, contradicts the general music movement or misinterprets the song's current intensity. Improvising must either enhance a current layer of the song or add a new one. Otherwise, relation to the song is given up and this contradicts the main purpose of a rhythm game.
 - **The `Omit first bar line` feature of an uninherited timing point must be used when a BPM change/metronome reset would hinder gameplay experience aesthetically by adding unnecessary bar lines.**
 - **Taiko template backgrounds must not be used.** Due to various screen resolutions being common they do not work as they were originally intended to.
 - **Slider tails must not be wrongly snapped to correct missing slider ticks.** This behaviour is unintended and will be corrected in the future.
@@ -65,7 +65,7 @@ Guidelines may be ignored under **exceptional** circumstances. These exceptional
 - **Kiai time should only be used for the chorus or emphasised parts of a song.** Kiai flashes/short kiais are discouraged for several reasons: they disturb the gameplay experience especially on low-end PC users, and can cause trouble for epileptic users.
 - **The base slider velocity should be 1.40 throughout all difficulties of a beatmap.** This is to ensure optimal quantity of notes on the playfield, as well as the optimal distance of separation between different notes.
 - **Slider tick rate should be set according to the song.** In most cases, it should be set to 1. If the song uses 1/3 as its main snapping, use tick rate 3 to snap the drumroll ticks to 1/3.
-- **Avoid following multiple layers of the song if it is unclear which rhythm is being prioritised.** Players should be able to discern what part of the song is being followed.
+- **Avoid following multiple [layers](/wiki/Music_theory/Layer) of the song if it is unclear which rhythm is being prioritised.** Players should be able to discern what part of the song is being followed.
 - **Use low volume or silent spinners only when it suits a low volume section of the song.** In most other scenarios, having audible hitsound feedback on spinners is highly recommended.
 - **Songs with variable BPM may use frequent slider velocity changes in order to keep the scrolling speed at which notes move approximately constant.** Doing this will make the timeline gaps between notes easily predictable and enhance gameplay experience by avoiding overlaps due to BPM changes.
 - **Avoid visually obstructing notes on the playfield with active spinners.** Spinners cover the majority of the screen, so ending them too close towards the upcoming notes can result in reading spikes. Usually having 1/2 distance between a spinner and the following note solves this.
@@ -79,7 +79,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 #### Rules
 
-- **If a 1/2 pattern is used, the patterns must stay simplistic and be followed by a rest moment.** Finisher notes must not be used in patterns as such. For songs that follow a swing beat, this limit is 1/3.
+- **If a 1/2 pattern is used, the patterns must stay simplistic and be followed by a rest moment.** Colour changes or finisher notes must not be used in patterns as such. For songs that follow a swing beat, this limit is 1/3.
 - **Notes must be at least 1/2 of a beat apart.** Anything faster is too complex for beginner players. For songs which follow a swing beat, this limit is 1/3 instead.
 
 #### Guidelines
@@ -99,7 +99,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 #### Rules
 
-- **If a 1/3 pattern is used, the patterns must stay simplistic.** Finisher notes must not be used in patterns as such.
+- **If a 1/3 pattern is used, the patterns must stay simplistic.** Colour changes or finisher notes must not be used in patterns as such.
 - **Notes must be at least 1/3 of a beat apart.** Anything faster is too complex for beginner players.
 
 If a Futsuu difficulty is required and used as the *lowest difficulty* of a beatmap, it must also abide by these rules:

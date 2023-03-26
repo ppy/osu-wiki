@@ -1,14 +1,23 @@
----
-outdated_translation: true
-no_native_review: true
----
+# Redacción
 
-# Escritura
-
-*Para los estándares de formato, ver: [Criterios para el estilo del artículo/formato](../Formatting)*\
+*Para los estándares de formato, véase: [Criterios de estilo para artículos/Formato](../Formatting)*\
 *Aviso: Este artículo utiliza [RFC 2119](https://tools.ietf.org/html/rfc2119) para describir los niveles de exigencia.*
 
-Todos los artículos en inglés deben usar un inglés sencillo.
+Este artículo se refiere a los estándares de escritura del español. Consulte la versión en inglés de esta página para conocer los estándares de escritura de los artículos en inglés.
+
+Todos los artículos en español deben usar español simple.
+
+## Paridad de contenido
+
+Las traducciones están sujetas a una estricta paridad de contenido con su artículo en inglés, en el sentido de que deben tener el mismo mensaje, independientemente de la gramática y la sintaxis. Cualquier cambio en los significados de las traducciones debe ir acompañado de cambios equivalentes en el artículo en inglés.
+
+Hay algunos casos en los que se permite que el contenido difiera:
+
+- Artículos escritos originalmente en un idioma que no sea el inglés (en este caso, el inglés debe actuar como traducción)
+- Traducciones y explicaciones de palabras en inglés que son términos comunes en la comunidad de osu!
+- Enlaces externos
+- Etiquetas
+- Información específica de una subcomunidad o de un determinado idioma (como las traducciones de este artículo)
 
 ## Registro del lenguaje
 
@@ -20,28 +29,19 @@ El registro informal es especial y se da a un pequeño puñado de artículos. Al
 
 Para ambos registros, se deben seguir todas las reglas de esta parte del criterio para el estilo de los artículos. Las excepciones para cualquiera de los dos registros serán anotadas.
 
-## Inglés británico
-
-Las variantes de ortografía del inglés británico deben ser utilizadas cuando hay conflictos de ortografía en las palabras inglesas. Por ejemplo, use:
-
-- `colour` en lugar de `color`
-- `centre` en lugar de `center`
-- `skilful` en vez de `skillful`
-- `analyse` en vez de `analyze`
-
 ## Capitalización
 
 ### Nombres de los artículos
 
-Los nombres de los artículos, cuando se escriben en un párrafo, no deben escribirse en mayúsculas, a menos que se trate de un vínculo que apunte al artículo o sea un sustantivo propio (por ejemplo, BanchoBot). El siguiente es un ejemplo:
+Los nombres de los artículos, cuando están escritos en un párrafo, no deben escribirse con mayúscula, a menos que sea un enlace que apunta al artículo o sea un nombre propio (por ejemplo, BanchoBot). Lo siguiente es un ejemplo:
 
 ```markdown
-Si quieres saber más sobre el chat, consulta [Consola de chat](/wiki/Client/Interface/Chat_console).
+Si desea obtener más información sobre el chat, consulte [Consola de chat](/wiki/Client/Interface/Chat_console).
 ```
 
 ### Modificadores del juego
 
-Los modificadores del juego deben tener la palabra `mod` después del nombre del mod para reducir la ambigüedad. Deben escribirse como se ve a continuación (la caja de la letra y el espacio deben coincidir):
+Los modificadores del juego deben tener la palabra `mod` después del nombre del mod para reducir la ambigüedad. Deben escribirse como se muestra a continuación (las mayúsculas y minúsculas y el espaciado deben coincidir):
 
 - `Easy` o `EZ`
 - `No Fail` o `NF`
@@ -71,7 +71,7 @@ Los modificadores del juego deben tener la palabra `mod` después del nombre del
 
 ---
 
-Estos modificadores de juego ya no son utilizados por osu!; sin embargo, si es necesario, deben ser deletreados como se ve a continuación (la letra y el espacio deben coincidir):
+Estos modificadores de juego ya no están siendo utilizados por osu!; sin embargo, si es necesario, deben escribirse como se muestra a continuación (las mayúsculas y minúsculas y el espaciado deben coincidir):
 
 - `Fade Out`
 - `No Video`
@@ -80,37 +80,37 @@ Estos modificadores de juego ya no son utilizados por osu!; sin embargo, si es n
 
 ---
 
-Al escribir los modificadores de juego para los artículos de los torneos, deben usar en su lugar la letra de caja camello (omitir el espacio y mantener la minúscula de la letra como se ve arriba).
+Al escribir modificadores del juego para artículos de torneos, deben usar mayúsculas (omita el espacio y mantenga las mayúsculas como se ve arriba).
 
-### Elementos de juego
+### Elementos del juego
 
-Los elementos de juego no deben ser puestos en minúsculas, a menos que actúen como un título para un enlace que apunte al artículo. El siguiente es un ejemplo:
+Los elementos del juego no deben escribirse con mayúscula, a menos que actúen como título de un enlace que apunta al artículo. Lo siguiente es un ejemplo:
 
 ```markdown
-En el osu!, los beatmaps se componen de tres elementos de juego diferentes: hit circles, sliders y spinners.
+En el modo de juego de osu!, los beatmaps se componen de tres elementos de juego diferentes: círculos, sliders y spinners.
 ```
 
-### Nombres de los idiomas
+### Nombres de idiomas
 
-Los nombres de los idiomas deben ser en minúsculas. El siguiente es un ejemplo:
+Los nombres de los idiomas deben ser en minúsculas. Lo siguiente es un ejemplo:
 
 ```markdown
-El canal de chat `#spanish` es para los que hablan español.
+El canal de chat `#french` es para aquellos que hablan francés.
 ```
 
 ### Nombres propios
 
-Los nombres propios deben escribirse con mayúsculas. El siguiente es un ejemplo:
+Los nombres propios deben escribirse con mayúscula. Lo siguiente es un ejemplo:
 
 ```markdown
-Dean Herbert (también conocido como Peppy) creó osu! en 2007.
+Dean Herbert (también conocido como peppy) creó osu! en 2007.
 ```
 
 ### Marcas registradas
 
-*Para las normas relativas a osu!, ver: [osu!](#osu!)*
+*Para las reglas con respecto a osu!, véase: [osu!](#osu!)*
 
-Las siguientes marcas deben ser deletreadas como sigue (la escritura debe coincidir):
+Las siguientes marcas comerciales deben escribirse de la siguiente manera (las mayúsculas y minúsculas deben coincidir):
 
 - `Discord`
 - `Facebook`
@@ -122,25 +122,31 @@ Las siguientes marcas deben ser deletreadas como sigue (la escritura debe coinci
 - `Twitter`
 - `YouTube`
 
-Las marcas comerciales no deben ir seguidas de la marca comercial o de los símbolos de la marca registrada.
+Las marcas comerciales no deben ir seguidas de los símbolos de marca comercial o marca comercial registrada.
 
 ## Fecha y hora
 
-### Formato de la fecha
+### Formato de fecha
 
-Los formatos que se encuentran en [Wikipedia:Manual de Estilo/Fechas y números & Formatos](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Formats) son todos formatos de fecha aceptados. El formato de la fecha debe ser consistente en todo el artículo.
+La fecha debe escribirse en orden `día, mes, año`. El día y el año deben escribirse en números, mientras que el mes debe escribirse completo y no debe escribirse con mayúscula.
 
-El formato de fecha "AAAA-MM-DD" sólo debe ser usado en tablas.
+Ejemplo:
+
+```markdown
+17 de septiembre de 2007
+```
+
+El formato de fecha `DD/MM/AAAA` solo debe usarse en tablas.
 
 ### Formato de hora
 
-El formato de la hora debe hacerse con el siguiente formato:
+El formato de hora se debe hacer usando el siguiente formato:
 
 ```markdown
 HH:MM ZONA HORARIA
 ```
 
-La hora se escribe en formato de 24 horas y cualquier dígito debe ir precedido de un cero. La zona horaria debe escribirse inmediatamente después de la hora y debe estar en UTC+0 para eventos globales o en la zona horaria del evento para eventos más pequeños. Use "UTC" en lugar de "GMT".
+La hora se escribe en formato de 24 horas y cualquier dígito individual debe tener un prefijo cero. La zona horaria debe escribirse inmediatamente después de la hora y debe estar en UTC+0 para eventos globales o en la zona horaria del evento para eventos más pequeños. Utilice `UTC` en lugar de `GMT`.
 
 Malos ejemplos:
 
@@ -158,11 +164,11 @@ Buenos ejemplos:
 11:30 UTC-4
 ```
 
-"UTC" (sin compensación) está implícito que es "UTC+0". Se puede usar cualquiera de los dos, pero el uso debe ser consistente. El UTC con un offset explícito de 0 debe usar un símbolo de más (`+`).
+Se supone que `UTC` (sin desplazamiento) es `UTC+0`. Se puede usar cualquiera de los dos, pero el uso debe ser consistente. UTC con un desplazamiento 0 explícito debe usar un símbolo más (`+`).
 
 ### Formato de fecha y hora
 
-Cuando se usan la fecha y la hora juntas, la fecha debe escribirse primero, seguida de la hora. La hora debe estar entre paréntesis (`(` y `)`).
+Cuando la fecha y la hora se usan juntas, la fecha debe escribirse primero, seguida de la hora. La hora debe estar entre paréntesis (`(` y `)`).
 
 Malos ejemplos:
 
@@ -171,107 +177,71 @@ Malos ejemplos:
 25 de octubre de 2016 11:45 UTC
 ```
 
-Un buen ejemplo:
+Buen ejemplo:
 
 ```markdown
-25 de Octubre de 2016 (11:45 UTC)
+25 de octubre de 2016 (11:45 UTC)
 ```
-
-## Modos de juego
-
-Los modos de juego deben escribirse como sigue:
-
-- `osu!`
-- `osu!taiko`
-- `osu!catch`
-- `osu!mania`
-
-Referirse a los nombres de la antigua modalidad de juego (es decir, `Catch the Beat`, `Taiko` y `Mania`) puede hacerse si se discute el nombre anterior de dicha modalidad de juego.
 
 ## osu!
 
-El nombre del juego, osu!, no debe escribirse con mayúsculas ni con cursiva. La marca oficial de osu! no debe usar ningún espacio. Los ejemplos incluyen:
+Al mencionar el juego en sí o cualquiera de los proyectos o términos relacionados, siga las [pautas de identidad de la marca](/wiki/Brand_identity_guidelines#osu!). Usa nombres propios de los modos de juego, como `osu!taiko`, excepto cuando se encuentre en un contexto histórico.
 
-- `osu!academy`
-- `osu!api`
-- `osu!catch`
-- `osu!direct`
-- `osu!keyboard`
-- `osu!mania`
-- `osu!store`
-- `osu!stream`
-- `osu!supporter`
-- `osu!tablet`
-- `osu!taiko`
-- `osu!talk`
-- `osu!tourney`
+### Títulos de usuario
 
-Los títulos de usuario que incluyan `osu!` como parte del nombre del título deben estar en mayúsculas. Los ejemplos incluyen:
+Los títulos de usuario que incluyen `osu!` como parte del nombre del título deben escribirse en mayúsculas. Ejemplos incluyen:
 
 - `osu! Alumni`
 - `osu! Champion`
 
-Para todos los demás términos, osu! debe ser tratado como un [sustantivo calificativo](https://en.wikipedia.org/wiki/Noun_adjunct). Esto significa añadir un espacio entre osu! y el sustantivo que modifica. Los ejemplos incluyen:
+### osu! en una frase
 
-- `osu! tournaments`
-- `osu! community`
-- `osu! chat`
-- `osu! client`
-- `osu! wiki`
-
----
-
-`osu!` no debería terminar una frase. Si lo hace, usa un punto (`.`) o un signo de interrogación para obtener `osu!.` o `osu!?`.
-
-`osu!` no debe ir seguido de un signo de exclamación (es decir, `osu!!`). La frase debe ser reescrita para asegurar que esto no ocurra.
+- `osu!` no debe terminar una oración. Si es así, use un punto (`.`) o un signo de interrogación para obtener `osu!.` o `osu!?`.
+- `osu!` no debe ir seguido de un signo de exclamación (es decir, `osu!!`), reescribe la oración si es necesario.
 
 ## Terminología
 
-Estas palabras deben escribirse de la siguiente manera (el espacio debe coincidir):
+Estas palabras deben escribirse de la siguiente manera (los espacios deben coincidir):
 
-- `approach circle`
-- `game mode` (o `mode`)
-- `game mod` (o `mod`)
-- `gameplay`
+- `círculo de aproximación`
+- `modo de juego` (o `modo`)
+- `modificador de juego` (o `mod`)
+- `juego`
 - `hit burst`
-- `hit circle`
+- `círculo`
 - `hitsound`
-- `in-game`
-- `playstyle`
-- `slider tick`
-- `slider ball`
+- `en juego`
+- `estilo de juego`
+- `marca del slider`
+- `bola del slider`
 - `slider path`
 - `Kudosu` (para ser tratado como un nombre propio)
 
 ---
 
-Algunas palabras tienen variantes. Su ortografía preferida debe ser usada y es la siguiente:
+Algunas palabras tienen variantes. Se debe usar su ortografía preferida y es la siguiente:
 
-- `beatmap` en lugar de `map`.
-- `creator` en lugar de `beatmapper` o `mapper`.
-- `mapped`en lugar de `beatmapped`.
-- `BN` o `Beatmap Nominators` cuando se refiere a los *Beatmap Nominators*.
-- `sign in` en lugar de `log in`, a menos que el nombre de un botón o un enlace diga lo contrario.
-- `sign out` en lugar de `log out`, a menos que el nombre de un botón o un enlace diga lo contrario.
-- `register` en lugar de `sign up`, a menos que el nombre de un botón o un enlace diga lo contrario.
+- `creador` o `mapper` en lugar de `beatmapper`.
+- `mapped` en lugar de `beatmapped`.
+- `BN` o `Beatmap Nominators` al referirse a los *Beatmap Nominators*.
 
 ### Artículos de torneos
 
-Estas palabras deben escribirse de la siguiente manera (el espacio debe coincidir):
+Estas palabras deben escribirse de la siguiente manera (los espacios deben coincidir):
 
 - `NoMods`, `NoMod`, o `NM`
 - `FreeMods`, `FreeMod`, o `FM`
 - `Tiebreaker`
 
-## Abreviaturas, acrónimos e inicialismos
+## Abreviaturas, acrónimos e iniciales
 
-Las abreviaturas, acrónimos e inicialismos deben tener su significado escrito en su primera aparición. Las demás ocurrencias son opcionales, pero se hacen sólo cuando son necesarias. El siguiente es un ejemplo:
+Las abreviaturas, acrónimos e iniciales deben tener su significado escrito en su primera aparición. Otras ocurrencias son opcionales, pero se realizan solo cuando es necesario. Lo siguiente es un ejemplo:
 
 ```markdown
-El mod NC (Nightcore) es similar al mod DT (Double Time) porque tanto el NC como el DT aumentan la velocidad de la música en un 50%. Sin embargo, NC cambiará el tono de la música y añadirá una palmada y un final al ritmo.
+El mod NC (Nightcore) es similar al mod DT (Double Time) porque tanto NC como DT aumentan la velocidad de la música en un 50%. Sin embargo, NC cambiará el tono de la música y agregará un clap y un finish al ritmo.
 ```
 
-Las abreviaturas, acrónimos e inicialismos deben ir en mayúsculas, con excepción. Los siguientes son ejemplos:
+Las abreviaturas, acrónimos e iniciales deben escribirse con mayúscula, salvo excepción. Los siguientes son ejemplos:
 
 - `CS` para `Circle Size`
 - `AR` para `Approach Rate`
@@ -280,60 +250,74 @@ Las abreviaturas, acrónimos e inicialismos deben ir en mayúsculas, con excepci
 
 ---
 
-Usa `e.g.` para "por ejemplo" y `i.e.` para "eso es".
-
----
-
-Las abreviaturas, acrónimos e inicialismos no deben ser pluralizados. El siguiente es un ejemplo:
+Las abreviaturas, acrónimos e inicialismos no deben ser pluralizados. Lo siguiente es un ejemplo:
 
 ```markdown
-Evita:  Los BNs pueden nominar tu beatmap.
+Evite:  Los BNs pueden nominar tu beatmap.
 
-Preferir: Los Beatmap Nominators pueden nominar tu beatmap.
+Prefiere: Los Beatmap Nominators pueden nominar tu beatmap.
 ```
 
 ## Perspectiva
 
-`player`, `user`, `skinner`, `storyboarder` y `creator` deben ser usados cuando se refieran al lector o a otra persona. `ellos` pueden ser usados cuando sea necesario.
+`jugador`, `usuario`, `skinner`, `storyboarder` y `creador` deben usarse cuando se hace referencia al lector u otra persona. `ellos`, `su` y `sus` pueden usarse cuando sea necesario.
 
-`Tu` debe ser evitado. `Yo` no debe ser usado. `Nosotros`, `El` o `Usted` y `Ella` no deben ser usados (ver arriba para otros términos).
+`tu` debe ser evitado. No se debe usar `yo`. `nosotros`, `él` y `ella` no deben usarse (ver arriba para otros términos).
 
 ---
 
-[Artículos con registros informales](#registro-del-lenguaje) pueden ignorar esta sección; sin embargo, `Yo` en los párrafos debe ser evitado.
+Los [artículos con registros informales](#registro-del-lenguaje) pueden ignorar esta sección; sin embargo, debe evitarse `yo` en los párrafos.
 
 ## Gramática y sintaxis
 
-Los artículos deben preferir el uso de una [gramática y sintaxis más simple](https://www.thepunctuationguide.com/british-versus-american-style.html).
+Los artículos deben preferir usar una gramática y sintaxis española más simple.
 
 ### Contracciones
 
-No se deben usar contracciones.
+No se deben utilizar las contracciones.
 
-[Los artículos con registros informales](#registro-del-lenguaje) pueden usar contracciones; sin embargo, el uso debe mantenerse consistente a lo largo de todo el artículo.
+Los [artículos con registros informales](#registro-del-lenguaje) pueden usar contracciones; sin embargo, el uso debe ser constante a lo largo de todo el artículo.
 
 ### Números
 
-*Para el formato de los números, ver [Manual de Estilo de Wikipedia sobre el formato de los números](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Numbers)*
+*Para el formato de los números, véase el [manual de estilo de Wikipedia sobre el formato de números](https://es.wikipedia.org/wiki/Wikipedia:Manual_de_estilo#Números)*
 
-[Los artículos con registros informales](#registro-del-lenguaje) pueden ignorar esta sección; sin embargo, el uso debe mantenerse consistente a lo largo de todo el artículo.
+Los [artículos con registros informales](#registro-del-lenguaje) pueden ignorar esta sección; sin embargo, el uso debe mantenerse consistente a lo largo de todo el artículo.
 
 ### Punto y coma
 
-[Artículos con registros informales](#registro-del-lenguaje) deben evitar el uso de punto y coma (`;`).
+Los [artículos con registros informales](#registro-del-lenguaje) deben evitar el uso de punto y coma (`;`).
 
 ### Coma en serie
 
-Se debe usar la coma en serie, también conocida como la coma de Oxford o Harvard.
+Se debe usar la coma en serie, también conocida como coma de Oxford o Harvard.
 
-### Citas lógicas
+### Raya
 
-Consulte [el Manual de Estilo de Wikipedia para citas lógicas](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Punctuation_inside_or_outside).
+Consulte el [artículo sobre las rayas del «Diccionario panhispánico de dudas»](https://www.rae.es/dpd/raya). Al puntuar una oración, use rayas (`—`), no signos menos (`−`). No se deben usar guiones (`‑`) en lugar de rayas.
 
-Del Manual de Estilo de Wikipedia:
+### Citas
 
-> Incluir la puntuación terminal entre las comillas sólo si estaba presente en el material original, en caso contrario, colocarla después de la comilla de cierre. En la mayoría de los casos, esto significa tratar los puntos y las comas de la misma manera que los signos de interrogación: mantenerlos dentro de las comillas si se aplican sólo al material citado y fuera si se aplican a toda la frase.
+Consulte el [artículo sobre las comillas del «Diccionario panhispánico de dudas»](https://www.rae.es/dpd/comillas#3):
+
+Del «Diccionario panhispánico de dudas»:
+
+> El texto que va dentro de las comillas tiene una puntuación independiente y lleva sus propios signos ortográficos. Por eso, si el enunciado entre comillas es interrogativo o exclamativo, los signos de interrogación y exclamación se escriben dentro de las comillas.
+
+Por extensión, el [énfasis](/wiki/Article_styling_criteria/Formatting#enfatizando), los [enlaces](/wiki/Article_styling_criteria/Formatting#enlaces) y los paréntesis deben seguir las mismas reglas con respecto a la puntuación (es decir, si encierran una oración completa o solo parte de una).
+
+### Cita en bloque
+
+Al citar texto de alguien, especifique la persona que se cita después de la [cita en bloque](/wiki/Article_styling_criteria/Formatting#citas-en-bloque) con una raya (`—`). Si la cita original es de una fuente que no está en español, especifíquela entre paréntesis.
+
+```markdown
+> pls disfrutar juego
+
+—rrtyui (traducido del {idioma})
+```
+
+En general, la fuente de la cita debe especificarse por encima de ella. Consulte la [sección anterior](#citas) para ver un ejemplo. Cuando se cita un artículo escrito o de otro tipo, y no necesariamente a una persona específica, no es necesario especificar el autor debajo de la cita.
 
 ## Pronunciación
 
-La pronunciación escrita debe utilizar el [Alfabeto Fonético Internacional](https://en.wikipedia.org/wiki/Help:IPA/English).
+La pronunciación escrita debe utilizar el [Alfabeto Fonético Internacional](https://es.wikipedia.org/wiki/Transcripción_fonética_del_español_con_el_Alfabeto_Fonético_Internacional).

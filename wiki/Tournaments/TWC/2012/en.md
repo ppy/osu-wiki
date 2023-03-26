@@ -8,7 +8,7 @@ tags:
 
 ![TWC 2012 logo](img/logo.png)
 
-The **Taiko World Cup 2012** (***TWC 2012***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It was the second instalment of the osu!taiko World Cup.
+The **Taiko World Cup 2012** (***TWC 2012***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/osu!_team). It was the second instalment of the osu!taiko World Cup.
 
 ## Tournament schedule
 

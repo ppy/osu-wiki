@@ -92,7 +92,7 @@ In osu! and osu!catch, this also affects the [Passive HP](/wiki/Client/Interface
 
 Circle size, commonly abbreviated as CS, exists only in osu! and osu!catch. CS determines the size of hit objects or, more specifically in osu!catch, determines the size of the catcher and fruit. The values range from 2 to 7; higher CS values will make hit objects smaller. Using the highest value will make the hit objects as big as the cursor.
 
-Most beatmaps use a value of 3 or 4, while a value of 5 or 6 is sometimes used and a value of 7 is almost never used. A value of 7 onwards is likely to be seen when using the [Hard Rock](/wiki/Game_modifier/Hard_Rock) mod.
+Most beatmaps use a value of 3 or 4, while a value of 5 or 6 is sometimes used and a value of 7 is almost never used. A value of 7 onwards is likely to be seen when using the [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock) mod.
 
 Setting the CS value to something less than 2 or greater than 7 can be done by manually editing the `.osu` file.
 
@@ -104,7 +104,7 @@ Checking the `Co-op mode` checkbox will double the currently selected amount (fr
 
 ### Approach rate
 
-*Main page: [Approach rate](/wiki/Beatmapping/Approach_rate)*
+*Main page: [Approach rate](/wiki/Beatmap/Approach_rate)*
 
 ![Detailed AR chart](/wiki/shared/ARTable.jpg "Detailed AR chart")
 
@@ -120,18 +120,18 @@ The duration of a hit object that stays visible on the screen (without mods) ran
 
 There are four mods that alters the approach rate timing when activated:
 
-- [Easy](/wiki/Game_modifier/Easy): Halves the AR value. (e.g. AR10→AR5)
-- [Hard Rock](/wiki/Game_modifier/Hard_Rock): Multiplies the AR value by 1.40, up to a maximum of AR10. (e.g. AR3→AR4.2 or AR9→AR10)
-- [Double Time](/wiki/Game_modifier/Double_Time): The AR value is not affected, but due to the 50% play speed increase, this causes circles to stay on screen 33% milliseconds shorter.
-- [Half Time](/wiki/Game_modifier/Half_Time): The AR value is not affected, but due to the 25% play speed decrease, this causes circles to stay on screen 33% milliseconds longer.
+- [Easy](/wiki/Gameplay/Game_modifier/Easy): Halves the AR value. (e.g. AR10→AR5)
+- [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock): Multiplies the AR value by 1.40, up to a maximum of AR10. (e.g. AR3→AR4.2 or AR9→AR10)
+- [Double Time](/wiki/Gameplay/Game_modifier/Double_Time): The AR value is not affected, but due to the 50% play speed increase, this causes circles to stay on screen 33% milliseconds shorter.
+- [Half Time](/wiki/Gameplay/Game_modifier/Half_Time): The AR value is not affected, but due to the 25% play speed decrease, this causes circles to stay on screen 33% milliseconds longer.
 
 While Half Time and Double Time does not change the actual given AR value, the speed difference leads to an apparent AR change, as low as AR-5 or as high as AR11. In the AR chart provided, those apparent values are given to allow easy comparison between approach speeds with and without mods. Actual AR, however, is always a number between 0 and 10. Note that AR levels scale by 120ms for below AR5 and 150ms for above AR5.
 
 ### Overall difficulty
 
-*Main page: [Overall difficulty](/wiki/Beatmapping/Overall_difficulty)*
+*Main page: [Overall difficulty](/wiki/Beatmap/Overall_difficulty)*
 
-![Detailed OD chart](img/ODTable.png "Detailed OD chart")
+![](/wiki/shared/ODTable.png "Comparison of hit windows for different combinations of OD and game modifiers. For Half Time and Double Time combinations, the shown OD values are only valid for the hit windows of 300s, and would be different for 100s and 50s.")
 
 *Note: The above table applies for the osu! game mode only.*\
 *Notice: On the beatmap page, Overall Difficulty is listed as Accuracy.*
@@ -146,7 +146,7 @@ Additional effects of increasing OD in each game mode:
 - osu!taiko: The denden (spinner) requires more hits to clear.
 - osu!mania and osu!catch are not affected by OD.
 
-To calculate hit windows, see the formulas from the [article on overall difficulty](/wiki/Beatmapping/Overall_difficulty).
+To calculate hit windows, see the formulas from the [article on overall difficulty](/wiki/Beatmap/Overall_difficulty).
 
 ---
 
@@ -154,10 +154,10 @@ At OD 0, a player can get a hit score of 300 at less than 79.5ms away from exact
 
 There are four mods which alter overall difficulty timing when activated:
 
-- [Easy](/wiki/Game_modifier/Easy): Halves the OD value.
-- [Hard Rock](/wiki/Game_modifier/Hard_Rock): Multiplies the OD value by 1.4, up to a maximum of OD10.
-- [Double Time](/wiki/Game_modifier/Double_Time): The OD value is not affected, but due to the 50% speed increase this effectively causes hit windows to be 33% shorter.
-- [Half Time](/wiki/Game_modifier/Half_Time): The OD value is not affected, but due to the 25% speed decrease, this effectively causes hit windows to be 33% longer.
+- [Easy](/wiki/Gameplay/Game_modifier/Easy): Halves the OD value.
+- [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock): Multiplies the OD value by 1.4, up to a maximum of OD10.
+- [Double Time](/wiki/Gameplay/Game_modifier/Double_Time): The OD value is not affected, but due to the 50% speed increase this effectively causes hit windows to be 33% shorter.
+- [Half Time](/wiki/Gameplay/Game_modifier/Half_Time): The OD value is not affected, but due to the 25% speed decrease, this effectively causes hit windows to be 33% longer.
 
 While Half Time and Double Time do not change the actual OD value, the speed's effect on hit windows will make the hit objects seem to have a lower or higher apparent OD, respectively. In the OD chart provided, apparent OD values are provided to allow comparison between timings with and without these mods. Note that these apparent OD values only apply to 300s on circles. Windows for 100s, 50s, and sliders (which use the 50 hit window) scale more harshly with Double Time than this apparent OD suggests and more leniently with Half Time. Again, outside of NoMod, HR, and EZ (on the left side); the OD values provided are only for comparison: the actual OD value is always a number from 0 to 10.
 
@@ -238,19 +238,13 @@ You can, however, include the skin elements inside the beatmap folder. As most c
 
 ![Screenshot of the Advanced tab](img/SS_Advanced.jpg "Advanced tab")
 
-### Stacking
+### Stack leniency
 
-![Stacking hit objects while editing may make them overlap to be on top of each other.](img/stacking-editor.jpg "Stacking hit objects while editing")
+*Main article: [Stack leniency](/wiki/Beatmap/Stack_leniency)*
 
-![However, while playing, the game will slope them for the player.](img/stacking-playtest.jpg "Stacked hit objects while playing")
+In osu!, [sliders](/wiki/Gameplay/Hit_object/Slider) and [circles](/wiki/Gameplay/Hit_object/Hit_circle) that are close in time will automatically [stack](/wiki/Beatmapping/Mapping_techniques/Stack) and slightly shift if placed in the same spot. This is done to help players better see [overlapping](/wiki/Beatmapping/Mapping_techniques/Overlap) objects.
 
-In osu!, hit objects will automatically stack if they are both placed in the same spot while being close in-time. This is to help players see hit objects that overlap each other.
-
-Moving the slider towards the right will space out the "closeness" of hit objects in-time before stacking will occur. This option is best left as is to its default value of `7`.
-
-*Notice: Stacked hit circles in osu! will move towards the point where the stacking occurs.*
-
-Objects are considered to belong to same stack if they are at the same coordinate and no further in-time than `[(Approach Window) * (Stack Leniency) / 10]`, where `Approach Window` is the duration for which objects stay on screen (see [the section on approach rate](#approach-rate) above).
+The stack leniency value controls the maximum amount of time between objects, after which they will not be stacked. It is best left at its default value of `7`.
 
 ### Mode Specific
 

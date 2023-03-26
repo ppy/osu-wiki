@@ -4,7 +4,7 @@ stub: true
 
 # Marathon
 
-**Marathon** is a term used to describe [beatmaps](/wiki/Beatmap) that are five minutes in length or longer. They are often collaborative efforts, as mapping longer songs can be tiring when done alone.
+**Marathon** is a term used to describe [beatmaps](/wiki/Beatmap) that are five minutes in length or longer. They are often [collaborative efforts](/wiki/Beatmap/Beatmap_collaborations), as mapping longer songs can be tiring when done alone.
 
 ## History
 
@@ -12,6 +12,6 @@ When marathon beatmaps were first introduced, they were originally defined to be
 
 Marathon beatmaps also had to have their single difficulty be named "Marathon" to bypass the Beatmap Submission System at the time and prevent the beatmap from entering the [Pending](/wiki/Beatmap/Category#work-in-progress-and-pending) category. Upon ranking, marathon beatmaps would enter the [Approved](/wiki/Beatmap/Category#approved) category instead of the [Ranked](/wiki/Beatmap/Category#ranked) category to signal that these were marathon maps. The category was later abandoned in favour of the Ranked category.
 
-Marathon maps were later changed to include maps with five minute [drain times](/wiki/Gameplay/Drain_time) and allowing [custom difficulty naming](/wiki/Ranking_Criteria/Difficulty_naming). This lasted up until the more lenient spread rules were introduced in 2019.
+Marathon maps were later changed to include maps with five minute [drain times](/wiki/Beatmap/Drain_time) and allowing [custom difficulty naming](/wiki/Ranking_Criteria/Difficulty_naming). This lasted up until the more lenient spread rules were introduced in 2019.
 
 <!-- TODO: Add links and stuff -->

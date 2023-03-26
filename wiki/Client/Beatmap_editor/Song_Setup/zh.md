@@ -50,7 +50,7 @@ outdated_translation: true
 
 这一项决定圆圈和滑条的大小，取值从3到7，越小表示圆圈越大。小圈通过要求更精确的移动使得谱面难度增加。
 
-大部分的谱面使用 CS3、4、5。但 6 有时会用到，而 7 基本上不会被用到（大小基本上与光标大小相当）。CS7 可能通过打开[Hard Rock](/wiki/Game_modifier/Hard_Rock) mod 见到。这里有[使用 CS3, 5, 6, 7](https://osu.ppy.sh/beatmapsets/2008) 和 [使用 0, 1, 3, 4](https://osu.ppy.sh/beatmapsets/1208)的例子。
+大部分的谱面使用 CS3、4、5。但 6 有时会用到，而 7 基本上不会被用到（大小基本上与光标大小相当）。CS7 可能通过打开[Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock) mod 见到。这里有[使用 CS3, 5, 6, 7](https://osu.ppy.sh/beatmapsets/2008) 和 [使用 0, 1, 3, 4](https://osu.ppy.sh/beatmapsets/1208)的例子。
 
 可以通过手动编辑 `.osu` 文件更改 CS 为 0-10 之间的数值，但使用 3-7 之外的值的图被认为是 unrankable 的。
 
@@ -68,10 +68,10 @@ Approach Rate 通常缩写为"**AR**"。
 
 每张谱面的 AR 设定范围是 AR0 到 AR10。有四个 mod 可以更改 AR，它们是：
 
-- [Hard Rock](/wiki/Game_modifier/Hard_Rock)：AR 增加40%，最多增加到 AR10。
-- [Double Time](/wiki/Game_modifier/Double_Time)：AR 变快50%，与 HR 的 AR 增长不同，它是以毫秒计时增长的，最多增加到 AR11。
-- [Easy](/wiki/Game_modifier/Easy)：AR 减半。
-- [Half Time](/wiki/Game_modifier/Half_Time)：AR 降低33%，以毫秒计时，可以低于0。
+- [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock)：AR 增加40%，最多增加到 AR10。
+- [Double Time](/wiki/Gameplay/Game_modifier/Double_Time)：AR 变快50%，与 HR 的 AR 增长不同，它是以毫秒计时增长的，最多增加到 AR11。
+- [Easy](/wiki/Gameplay/Game_modifier/Easy)：AR 减半。
+- [Half Time](/wiki/Gameplay/Game_modifier/Half_Time)：AR 降低33%，以毫秒计时，可以低于0。
 
 #### 技术细节(Technical)
 
@@ -95,14 +95,14 @@ Approach Rate 通常缩写为"**AR**"。
 
 与 AR 类似，同样是下列四个 mod 会对 OD 产生影响：
 
-- [Easy](/wiki/Game_modifier/Easy)：OD 折半。
-- [Hard Rock](/wiki/Game_modifier/Hard_Rock)：OD 值乘1.4，最大增长到 OD10。
-- [Double Time](/wiki/Game_modifier/Double_Time)：增长 OD 值使得判定区间缩短33%。
-- [Half Time](/wiki/Game_modifier/Half_Time)：降低 OD 值使得判定区间增长50%。
+- [Easy](/wiki/Gameplay/Game_modifier/Easy)：OD 折半。
+- [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock)：OD 值乘1.4，最大增长到 OD10。
+- [Double Time](/wiki/Gameplay/Game_modifier/Double_Time)：增长 OD 值使得判定区间缩短33%。
+- [Half Time](/wiki/Gameplay/Game_modifier/Half_Time)：降低 OD 值使得判定区间增长50%。
 
-![OD 细节总表](img/ODTable.png "OD 细节总表")
+![OD 细节总表](/wiki/shared/ODTable.png "OD 细节总表")
 
-**注意：** osu! 的判定系统不允许[圆圈在其前一个物件被击打前或其判定时间结束](/wiki/Hit_object)（即 miss 该物件）前被击中。在低 OD 的情况下，一个圆圈的判定时间可能与其他物件重叠，因此你可能在完全正确的时间击打某个物件而由于其前面的物件判定时间未结束而导致 miss。
+**注意：** osu! 的判定系统不允许[圆圈在其前一个物件被击打前或其判定时间结束](/wiki/Gameplay/Hit_object)（即 miss 该物件）前被击中。在低 OD 的情况下，一个圆圈的判定时间可能与其他物件重叠，因此你可能在完全正确的时间击打某个物件而由于其前面的物件判定时间未结束而导致 miss。
 
 ### 星数评价(Approximate Difficulty Rating)
 
@@ -136,7 +136,7 @@ Approach Rate 通常缩写为"**AR**"。
 
 ### 物件颜色(Hitcircle/Slider Combos)
 
-这些选项可以直接规定某一串 combo 的颜色。对于一个谱面来说，combo 的颜色是很重要的，一个铺面由很多滑条和圆圈组成，合适的颜色配置能提升谱面的视觉效果。在页面上点击一个 Combo 将会打开你电脑上的取色板，然后你就可以选择对应的颜色了，记住这个颜色要适合和你的背景图像。你最多可以选择8个自定义颜色。点击 “Remove Combo Color” 会移除最后一个自定义颜色。
+这些选项可以直接规定某一串 combo 的颜色。对于一个谱面来说，combo 的颜色是很重要的，一个谱面由很多滑条和圆圈组成，合适的颜色配置能提升谱面的视觉效果。在页面上点击一个 Combo 将会打开你电脑上的取色板，然后你就可以选择对应的颜色了，记住这个颜色要适合和你的背景图像。你最多可以选择8个自定义颜色。点击 “Remove Combo Color” 会移除最后一个自定义颜色。
 
 ### 谱面背景色(Playfield Background)
 
@@ -186,8 +186,6 @@ Approach Rate 通常缩写为"**AR**"。
 注意：**在不知道你在做什么的情况下，不要随意修改这个选项**
 
 堆叠将会自左上往堆叠的重心靠近。
-
-![示例](img/stacking-editor.jpg)
 
 ### 谱面适用模式指定(Mode Specific)
 

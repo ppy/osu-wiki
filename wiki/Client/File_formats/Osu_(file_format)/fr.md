@@ -29,7 +29,7 @@ Le contenu suivant est séparé en sections, indiquées par des titres de sectio
 | `PreviewTime` | Entier (Integer) | Temps en millisecondes où la prévisualisation audio doit commencer. | -1 |
 | `Countdown` | Entier (Integer) | Vitesse du compte à rebours avant le premier objet (`0` = pas de compte à rebours, `1` = normal, `2` = moitié, `3` = double). | 1 |
 | `SampleSet` | Chaîne de caractère (String) | Sampleset qui sera utilisé si les timing points ne le remplacent pas. (`Normal`, `Soft`, `Drum`) | Normal |
-| `StackLeniency` | Décimal (Decimal) | Multiplicateur pour le seuil dans le temps où les objets placés à proximité les uns des autres s'empilent (0-1). | 0.7 |
+| `StackLeniency` | Décimal (Decimal) | [Multiplicateur](/wiki/Beatmap/Stack_leniency) pour le seuil dans le temps où les objets placés à proximité les uns des autres s'empilent (0-1). | 0.7 |
 | `Mode` | Entier (Integer) | Mode de jeu (`0` = osu!, `1` = osu!taiko, `2` = osu!catch, `3` = osu!mania) | 0 |
 | `LetterboxInBreaks` | 0 ou 1 | Si les pauses ont ou non un effet letterboxing | 0 |
 | `StoryFireInFront` | 0 ou 1 | *Déprécié* | 1 |
@@ -51,8 +51,8 @@ Ces options ne concernent que l'ouverture des beatmaps dans l'[éditeur de beatm
 | :-- | :-- | :-- |
 | `Bookmarks` | Liste d'entiers séparés par des virgules | Temps en millisecondes de [bookmarks](/wiki/Client/Beatmap_editor/Compose#en-bas-(timeline-de-la-musique)) |
 | `DistanceSpacing` | Décimal (Decimal) | Multiplicateur [Distance snap](/wiki/Client/Beatmap_editor/Distance_snap) |
-| `BeatDivisor` | Décimal (Decimal) | [Beat snap divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) |
-| `GridSize` | Entier (Integer) | [Grid size](/wiki/Grid_snapping) |
+| `BeatDivisor` | Entier (Integer) | [Beat snap divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) |
+| `GridSize` | Entier (Integer) | [Grid size](/wiki/Beatmapping/Grid_snapping) |
 | `TimelineZoom` | Décimal (Decimal) | Facteur d'échelle pour la [timeline des objets](/wiki/Client/Beatmap_editor/Compose#en-haut-à-gauche-(la-timeline-des-objets)) |
 
 ## Metadata
@@ -78,7 +78,7 @@ Ces options ne concernent que l'ouverture des beatmaps dans l'[éditeur de beatm
 | `CircleSize` | Décimal (Decimal) | Paramètre CS (0–10) |
 | `OverallDifficulty` | Décimal (Decimal) | Paramètre OD (0–10) |
 | `ApproachRate` | Décimal (Decimal) | Paramètre AR (0–10) |
-| `SliderMultiplier` | Décimal (Decimal) | Vitesse de base du slider en hecto-[osu! pixels](/wiki/osupixel) par battement |
+| `SliderMultiplier` | Décimal (Decimal) | Vitesse de base du slider en hecto-[osu! pixels](/wiki/Client/Beatmap_editor/osu!_pixel) par battement |
 | `SliderTickRate` | Décimal (Decimal) | Nombre de sliderticks par battement |
 
 ## Events
@@ -94,7 +94,7 @@ Ces options ne concernent que l'ouverture des beatmaps dans l'[éditeur de beatm
 *Syntaxe de base :* `0,0,filename,xOffset,yOffset`
 
 - **`filename` (Chaîne de caractère) :** Emplacement de l'arrière plan par rapport au répertoire beatmap. Des guillemets doubles entourent généralement le nom du fichier, mais ils ne sont pas obligatoires.
-- **`xOffset` (Entier)** et **`yOffset` (Entier) :** Décalage en [osu! pixels](/wiki/osupixel) par rapport au centre de l'écran. Par exemple, avec un décalage de `50,100`, l'arrière-plan sera affiché à 50 osu! pixels vers la droite et à 100 osu! pixels vers le bas par rapport au centre de l'écran. Si le décalage est `0,0`, l'écrire est facultatif.
+- **`xOffset` (Entier)** et **`yOffset` (Entier) :** Décalage en [osu! pixels](/wiki/Client/Beatmap_editor/osu!_pixel) par rapport au centre de l'écran. Par exemple, avec un décalage de `50,100`, l'arrière-plan sera affiché à 50 osu! pixels vers la droite et à 100 osu! pixels vers le bas par rapport au centre de l'écran. Si le décalage est `0,0`, l'écrire est facultatif.
 
 ### Vidéos
 
@@ -178,7 +178,7 @@ Toutes les options de cette section représentent des couleurs. Il s'agit de tri
 
 *Syntaxe d'un objet :* `x,y,time,type,hitSound,objectParams,hitSample`
 
-- **`x` (Entier)** et **`y` (Entier) :** Position en [osu! pixels](/wiki/osupixel) de l'objet.
+- **`x` (Entier)** et **`y` (Entier) :** Position en [osu! pixels](/wiki/Client/Beatmap_editor/osu!_pixel) de l'objet.
 - **`time` (Entier) :** Moment où l'objet doit être touché, en millisecondes à partir du début de l'audio de la beatmap.
 - **`type` (Entier) :** Drapeaux binaires indiquant le type de l'objet. Voir [la section sur le type](#type).
 - **`hitSound` (Entier) :** Indicateurs binaires indiquant le hitsound appliqué à l'objet. Voir [la section hitsounds](#hitsounds).
@@ -258,7 +258,7 @@ Les cercles n'ont pas de `objectParams`.
 - **`curveType` (Caractère) :** Type de courbe utilisé pour construire ce slider (`B` = bézier, `C` = catmull-rom centripète, `L` = linéaire, `P` = cercle parfait)
 - **`curvePoints` (Liste de chaînes de caractères séparées par un tube) :** Points d'ancrage utilisés pour construire le slider. Chaque point est au format `x:y`.
 - **`slides` (Entier) :** Nombre de fois que le joueur doit suivre la courbe du slider dans les deux sens avant que le slider ne soit terminé. On peut aussi l'interpréter comme le nombre de répétitions plus un.
-- **`length` (Décimale) :** Longueur visuelle en [osu! pixels](/wiki/osupixel) du slider.
+- **`length` (Décimale) :** Longueur visuelle en [osu! pixels](/wiki/Client/Beatmap_editor/osu!_pixel) du slider.
 - **`edgeSounds` (Liste d'entiers séparés par un tube) :** Des sons qui sont joués lorsque l'on touche les bords de la courbe du slider. Le premier son est celui qui est joué lorsque le slider est cliqué pour la première fois, et le dernier son est celui qui est joué lorsque l'extrémité du slider est atteinte.
 - **`edgeSets` (Liste de chaînes de caractères séparées par un tube) :** Exemples de jeux utilisés pour les `edgeSounds`. Chaque ensemble est au format `normalSet:additionSet`, avec la même signification que dans [la section hitsounds](#hitsounds).
 
@@ -328,7 +328,7 @@ Le troisième objet est un slider :
 - A la position (100,100)
 - A 12,6 secondes
 - Démarre un nouveau combo
-- Avec un sliderbody à courbe de bézier composée, où les control points de la première courbe sont (100,100), (200,200) et (250,200), et les points de contrôle de la seconde courbe sont (250,200) et (300,150). Les control points dupliqués indiquent un [point d'ancrage rouge](/wiki/Hit_object/Slider_anchor). 
+- Avec un sliderbody à courbe de bézier composée, où les control points de la première courbe sont (100,100), (200,200) et (250,200), et les points de contrôle de la seconde courbe sont (250,200) et (300,150). Les control points dupliqués indiquent un [point d'ancrage rouge](/wiki/Gameplay/Hit_object/Slider/Slider_anchor). 
 - Répète une fois
 - 310.123 osu! pixels de long
 - Avec un whistle au début, et un whistle joué avec un soft à la fin.

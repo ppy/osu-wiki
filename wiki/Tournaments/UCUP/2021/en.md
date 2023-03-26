@@ -78,7 +78,7 @@ Listed below are the teams who managed to qualify into the Round of 32 (along wi
 | 10 | oogey rrrratt | ::{ flag=ID }:: [Misaki - Rhythm](https://osu.ppy.sh/users/7128826) | ::{ flag=RU }:: [Skrowell](https://osu.ppy.sh/users/9694263) | 11.7 |
 | 11 | Venception | ::{ flag=ID }:: [Venta](https://osu.ppy.sh/users/11320627) | ::{ flag=US }:: [Venpris](https://osu.ppy.sh/users/8861593) | 11.8 |
 | 12 | i love tateyama | ::{ flag=ID }:: [akebono](https://osu.ppy.sh/users/1815316) | ::{ flag=US }:: [-Arko](https://osu.ppy.sh/users/8802914) | 11.9 |
-| 13 | having fun | ::{ flag=ID }:: [D E L O N](https://osu.ppy.sh/users/11983229/) | ::{ flag=IL }:: [MrPotato](https://osu.ppy.sh/users/2787415) | 12.8 |
+| 13 | having fun | ::{ flag=ID }:: [D E L O N](https://osu.ppy.sh/users/11983229) | ::{ flag=ID }:: [MrPotato](https://osu.ppy.sh/users/2787415) | 12.8 |
 | 14 | nama tim | ::{ flag=ID }:: [Suikami](https://osu.ppy.sh/users/1929336) | ::{ flag=SG }:: [GSBlank](https://osu.ppy.sh/users/2312106) | 14.8 |
 | 15 | momoteaStans | ::{ flag=ID }:: [Kirinagi](https://osu.ppy.sh/users/5937545) | ::{ flag=US }:: [NekomataOkayu](https://osu.ppy.sh/users/9474976) | 15.9 |
 | 16 | yo | ::{ flag=ID }:: [Caruma](https://osu.ppy.sh/users/13187450) | ::{ flag=US }:: [xpliq](https://osu.ppy.sh/users/8699529) | 16.5 |

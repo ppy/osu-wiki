@@ -4,7 +4,7 @@
 
 Les **contributeurs de la communauté** sont les utilisateurs ayant fourni des services à la communauté d'osu! à grands frais pour eux-mêmes - des outils et des fonctionnalités que beaucoup d'entre nous prennent pour acquis aujourd'hui. Ces utilisateurs reçoivent un badge pour indiquer qu'ils ont fait quelque chose de remarquable pour l'ensemble de la communauté.
 
-À ne pas confondre avec les [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), qui sont d'anciens membres de l'équipe d'osu! qui ont pris leur retraite, les badges Contributor sont attribués à des indépendants publics qui ont fait plus que leur devoir pour améliorer osu! et l'environnement communautaire.
+À ne pas confondre avec les [osu! Alumni](/wiki/People/osu!_Alumni), qui sont d'anciens membres de l'équipe d'osu! qui ont pris leur retraite, les badges Contributor sont attribués à des indépendants publics qui ont fait plus que leur devoir pour améliorer osu! et l'environnement communautaire.
 
 ## 2013
 
@@ -27,7 +27,7 @@ Les **contributeurs de la communauté** sont les utilisateurs ayant fourni des s
 | ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) | Plus de 3 ans de travail silencieux à s'occuper inlassablement du [beatmap packing](https://osu.ppy.sh/beatmaps/packs) et plusieurs années de gestion des beatmap charts. |
 | ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | Des années et des années de service, y compris la conception du skin original, l'avancement du [storyboarding](/wiki/Storyboard) en tant qu'art et motivation. |
 | ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) | Gestion et modération de la communauté au début et énormes contributions au cours de son temps. |
-| ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | Premier gérant de communauté et modérateur global, qui a placé la barre très haut pour les [GMT](/wiki/People/The_Team/Global_Moderation_Team) à suivre. |
+| ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | Premier gérant de communauté et modérateur global, qui a placé la barre très haut pour les [GMT](/wiki/People/Global_Moderation_Team) à suivre. |
 | ::{ flag=US }:: [Ivalset](https://osu.ppy.sh/users/827) | Premier staff manager et BAT manager et a formé à lui seul une équipe de modération de beatmaps d'élite à partir de rien. |
 
 ## 2015
@@ -198,7 +198,7 @@ Les **contributeurs de la communauté** sont les utilisateurs ayant fourni des s
 | :-- | :-- |
 | ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263) | Contribution exceptionnelle aux tournois de la communauté osu!taiko |
 | ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502) | Contribution exceptionnelle au développement d'osu!(lazer) |
-| ::{ flag=HR }:: [Susuko3](https://osu.ppy.sh/users/18945305) | Contribution exceptionnelle au développement d'osu!(lazer) et d'osu!framework |
+| ::{ flag=HR }:: [Susko3](https://osu.ppy.sh/users/18945305) | Contribution exceptionnelle au développement d'osu!(lazer) et d'osu!framework |
 | ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455) | Contribution exceptionnelle au développement et à la maintenance des points de performance d'osu! |
 | ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549) | Contribution exceptionnelle au développement des points de performance d'osu! |
 | ::{ flag=AU }:: [MBmasher](https://osu.ppy.sh/users/4498616) | Contribution exceptionnelle au développement des points de performance d'osu! et à la revitalisation du mod Flashlight |

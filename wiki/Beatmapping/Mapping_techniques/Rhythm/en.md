@@ -84,12 +84,12 @@ This will create a straight line.
 
 ### Hub and Spoke
 
-Nominator(s): Beuchi-chan
+Nominator(s): [Beuchi](https://osu.ppy.sh/users/67192)
 
 The **hub and spoke** formation is literally a hub with spokes peaking out.
 This technique requires at least 8 to 9 hit objects that are half a beat apart from another.
 Using this will force the player to not only move in a circular direction but also require them to return back to the centre after an object was hit.
-In general, this is basically the [QQ diamonds](/wiki/Mapping_techniques/Formations#qq-diamonds) technique with a centre for every other hit object.
+In general, this is basically the [QQ diamonds](/wiki/Beatmapping/Mapping_techniques/Formations#qq-diamonds) technique with a centre for every other hit object.
 
 First, place the odd numbered combos in the centre of where the hub and spoke is to be mapped (this part is the "hub").
 The following, even, hit objects are to then be placed 0 degrees, 90 degrees, 180 degrees, 270 degrees (or vice versa) surrounding the "hub" (these are the "spokes").
@@ -139,7 +139,7 @@ Nominator(s): [123MegaApple123](https://osu.ppy.sh/users/2148208)
 
 ## Streams
 
-*See [Mapping techniques/Basics](/wiki/Mapping_techniques/Basics#streams) for a description on streams.*
+*See [Mapping techniques/Basics](/wiki/Beatmapping/Mapping_techniques/Basics#streams) for a description on streams.*
 
 ### Compressed Streams
 
@@ -165,8 +165,7 @@ These consist of sliders (with or without repeats), hit circles or a combination
 
 The job of a deathstream is to practically fail players that cannot handle ordinary streams.
 
-The use of deathstreams will make your map **unrankable**!
-However, it may go through as one of the *approved* beatmaps.
+During the [score ranking](/wiki/Ranking#score-ranking) era, the use of deathstreams was strictly limited as the [Ranking Criteria](/wiki/Ranking_Criteria) would only allow for a Ranked beatmap to have a maximum score of 20 million. However, with the introduction of the [pp system](/wiki/en/Performance_points), the score cap rule was soon rendered moot and deathstreams saw a tick up in its usage as a result.
 
 ### Slider Stream Jumps
 

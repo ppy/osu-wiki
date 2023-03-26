@@ -143,7 +143,21 @@ Long quotations are typically used in more formal writings in place of in-line q
 
 ![Quote reply button](img/quotereply.png)
 
+### Inline code
+
+*Not to be confused with [Code block](#code-block).*
+
+```
+[c]text[/c]
+```
+
+The `[c]` tag allows for highlighting inline text in a monospace font. On the osu! website, the text will be formatted with a grey box around it. In contrary to [code blocks](#code-block), the tag may only be placed in single lines.
+
+Within the osu! forums, this is useful for emphasising e.g. keyboard shortcuts or button descriptions.
+
 ### Code block
+
+*Not to be confused with [Inline code](#inline-code).*
 
 ```
 [code]
@@ -187,7 +201,7 @@ The `[profile]` tag is used to link to a user's osu! profile page by using their
 
 *Note: The user ID is a string of numbers that directly follow the `/users/` in the URL of an osu! profile page.*
 
-If specified through their user ID, the text between the open and closed tags will not be parsed and will instead display as the user's current username. However, if the profile page is specified only through a username, and said user changes their username, the link will cease to function.
+When specifying users only by their user IDs, a placeholder text is required between the open and closed tags. Doing so will display the username on the actual page, not the placeholder text. When specifying users only by their username, the link will not function once they change their username.
 
 ### Formatted lists
 
@@ -199,13 +213,23 @@ If specified through their user ID, the text between the open and closed tags wi
 [/list]
 ```
 
-The `[list]` tag is used to automatically format numerous types of lists throughout the osu! forums by using an asterisk enclosed in brackets (`[*]`) to indicate a new item in the list (shown above). By default, this will create a plain, bulleted list.
+The `[list]` tag is used to automatically format two different types of lists throughout the osu! forums by using an asterisk enclosed in brackets (`[*]`) to indicate a new item in the list (shown above). By default, this will create a plain, bulleted list.
 
-Other list styles can be formatted by specifying the `TYPE` argument as `1`, `a`, `A`, `i`, or `I`, which will format lists as numbered, lettered (lowercase), lettered (uppercase), roman numeral (lowercase), and roman numeral (uppercase) respectively.
+If the `TYPE` argument is specified (the actual value doesn't matter), it will create a numbered list.
 
 *Notice: BBCode-formatted lists can be stacked on top of each other and placed inside one another, although this has been known to cause issues with formatting.*
 
 Toolbar buttons: ![List button](img/list.png "List") ![Numbered list button](img/list-numbered.png "Numbered list")
+
+### Email
+
+```
+[email=ADDRESS]text[/email]
+```
+
+The `[email]` tag creates a clickable hyperlink, which opens a new email in the default mail program with the address field pre-populated.
+
+In order to create a link, two arguments need to be specified: the `ADDRESS` argument needs to be a valid email address, while `text` is the displayed text that serves as a hyperlink. If the `text` argument is not defined, the hyperlink will not be created correctly.
 
 ### Images
 

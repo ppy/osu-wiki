@@ -2,15 +2,13 @@
 tags:
   - Mapper's Guild
   - MG
-outdated_translation: true
-outdated_since: 3cf46b29330f1d208f1b5390649747054db8a5a4
 ---
 
 # Mappers' Guild
 
 ![](img/mg-logo.png "Logo Mappers' Guild")
 
-**Mappers' Guild** merupakan organisasi yang mewadahi para mapper dalam pembuatan [beatmap-beatmap](/wiki/Beatmap) [Featured Artist](/wiki/Featured_Artists). Dengan menerapkan sistem *guild* dan *quest* sebagaimana yang ada pada permainan-permainan MMO pada umumnya, Mappers' Guild memungkinkan para anggotanya untuk dapat memperoleh imbalan-imbalan tertentu dengan membuat dan me-*rank* beatmap-beatmap Featured Artist.
+**Mappers' Guild** merupakan organisasi yang mewadahi para mapper dalam pembuatan [beatmap-beatmap](/wiki/Beatmap) [Featured Artist](/wiki/People/Featured_Artists). Dengan menerapkan sistem *guild* dan *quest* sebagaimana yang ada pada permainan-permainan MMO pada umumnya, Mappers' Guild memungkinkan para anggotanya untuk dapat memperoleh imbalan-imbalan tertentu dengan membuat dan me-*rank* beatmap-beatmap Featured Artist.
 
 Para anggota Mappers' Guild saling berdiskusi dan berinteraksi satu sama lain pada kanal `#mappers-guild` yang ada di [server Discord osu!dev](https://discord.gg/ppy).
 
@@ -54,7 +52,7 @@ Para anggota Mappers' Guild juga dapat memperoleh poin tambahan dengan mendaftar
 
 ### Beatmap-beatmap showcase
 
-*Artikel utama: [Kumpulan beatmap-beatmap showcase Featured Artist](/wiki/Featured_Artists/Featured_Artist_showcase_beatmaps)*
+*Artikel utama: [Kumpulan beatmap-beatmap showcase Featured Artist](/wiki/People/Featured_Artists/Featured_Artist_showcase_beatmaps)*
 
 Anggota-anggota Mappers' Guild tertentu terkadang diberikan kesempatan untuk membuat "beatmap-beatmap showcase" eksklusif yang diperuntukkan bagi pengumuman-pengumuman Featured Artist di masa mendatang. Setelah Featured Artist yang bersangkutan diumumkan, beatmap-beatmap tersebut akan diberikan sorotan khusus pada [postingan berita yang terkait](https://osu.ppy.sh/home/news) dan sering kali juga dipromosikan di Twitter [@osugame](https://twitter.com/osugame).
 

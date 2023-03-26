@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: b0dbd398396a49d6f8e793dfa279b0c0e65937f1
+---
+
 # Performans puanları
 
 **Performans puanları** (ya da kısaca **pp**) bir oyuncunun osu!'daki kaydettiği ilerlemeyle nispeten doğru orantılı olmayı amaçlayan bir sıralama ölçütüdür.
@@ -14,7 +19,7 @@ Piyasaya çıkmasından birkaç ay sonra, 20120722-24 osu! sürümünde, eski [D
 
 *Not: Performans Puanları sisteminin orijinal yapımı olan ppv1 sisteminin de bir değişiklik kaydı vardır. Bunu, ilgili [forum konusundan](https://osu.ppy.sh/community/forums/topics/92185) görüntüleyebilirsiniz.*
 
-Bir yılı aşkın bir süre boyunca bu kapasitede devam etti, ta ki *osu!tp* puanlama ölçütünün yaratıcısı [Tom94](https://osu.ppy.sh/users/1857058) [osu! team](/wiki/People/The_Team)'e katılana ve kendi dizaynını mevcut sisteme uygulayana kadar. Sonucunda ortaya çıkan sistem *ppv2* olarak adlandırıldı, ve 27 Ocak 2014 tarihinde güncel sürüme eklendi. Böylece eski sistem de *[ppv1](/wiki/Performance_points/ppv1)* olarak yeniden adlandırıldı.
+Bir yılı aşkın bir süre boyunca bu kapasitede devam etti, ta ki *osu!tp* puanlama ölçütünün yaratıcısı [Tom94](https://osu.ppy.sh/users/1857058) [osu! team](/wiki/People/osu!_team)'e katılana ve kendi dizaynını mevcut sisteme uygulayana kadar. Sonucunda ortaya çıkan sistem *ppv2* olarak adlandırıldı, ve 27 Ocak 2014 tarihinde güncel sürüme eklendi. Böylece eski sistem de *[ppv1](/wiki/Performance_points/ppv1)* olarak yeniden adlandırıldı.
 
 ppv2 şu anda aktif olarak, kendi [değişiklik kaydına](https://osu.ppy.sh/p/changelog?category=pp) zamanla eklenen güncellemelerle hizmet vermeye devam etmektedir.
 
@@ -40,9 +45,9 @@ Ağırlık sistemi, bir oyundan elde edilen toplam performans puanının hesapla
 
 *Hedefleme*, bir beatmapteki ardışık notaları tutarlı bir şekilde vurmanın zorluğunu hesaba katan bir çekirdek değerdir.
 
-[Yaklaşma oranı](/wiki/Beatmapping/Approach_rate) gibi elemanlar ve birtakım [modlar](/wiki/Game_modifier) (özellikle [Flashlight](/wiki/Game_modifier/Flashlight), [Hidden](/wiki/Game_modifier/Hidden) ve [Hard Rock](/wiki/Game_modifier/Hard_Rock)) imleci çabuk ve isabetli bir şekilde yönlendirmeyi büyük ölçüde zorlaştırır, dolayısıyla skorun verdiği pp miktarını etkiler. 
+[Yaklaşma oranı](/wiki/Beatmap/Approach_rate) gibi elemanlar ve birtakım [modlar](/wiki/Gameplay/Game_modifier) (özellikle [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight), [Hidden](/wiki/Gameplay/Game_modifier/Hidden) ve [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock)) imleci çabuk ve isabetli bir şekilde yönlendirmeyi büyük ölçüde zorlaştırır, dolayısıyla skorun verdiği pp miktarını etkiler. 
 
-[osu!](/wiki/Game_mode/osu!)'daki durumda, arası çok açık [jumpların](/wiki/Beatmap/Pattern/Jump) olduğu beatmapler "nokta atışı" beatmapleri olarak bilinir, ve çoğunlukla yüksek pp skorları verir. Aynı şekilde, [osu!catch](/wiki/Game_mode/osu!catch)'teki daha çok hyperdash bulunan beatmapler de benzer şekilde değerlendirilir. [osu!taiko](/wiki/Game_mode/osu!taiko) ve [osu!mania](/wiki/Game_mode/osu!mania) gibi oyun modlarında hedefleme mekaniği bulunmaz.
+[osu!](/wiki/Game_mode/osu!)'daki durumda, arası çok açık [jumpların](/wiki/Beatmap/Pattern/osu!/Jump) olduğu beatmapler "nokta atışı" beatmapleri olarak bilinir, ve çoğunlukla yüksek pp skorları verir. Aynı şekilde, [osu!catch](/wiki/Game_mode/osu!catch)'teki daha çok hyperdash bulunan beatmapler de benzer şekilde değerlendirilir. [osu!taiko](/wiki/Game_mode/osu!taiko) ve [osu!mania](/wiki/Game_mode/osu!mania) gibi oyun modlarında hedefleme mekaniği bulunmaz.
 
 ### Hız
 
@@ -50,21 +55,21 @@ Ağırlık sistemi, bir oyundan elde edilen toplam performans puanının hesapla
 
 Kısa bir zaman dilimi içinde çok fazla sayıda vuruş objesi beliren beatmapler oldukça yüksek hız değerlerine sahiptir. Bu doğrultuda beatmapin hızı ne kadar yüksekse bir o kadar da zordur, bu nedenle daha yüksek pp kazandırır.
 
-Bunun sonucu olarak [Double Time](/wiki/Game_modifier/Double_Time) ve [Half Time](/wiki/Game_modifier/Half_Time) gibi modların performans puanı algoritması tarafından beatmapin hızını önemli derecede etkilediği bilinir. Aynı şekilde bu modlar kullanıldığında kazanılan pp miktarını da büyük ölçüde etkiler.
+Bunun sonucu olarak [Double Time](/wiki/Gameplay/Game_modifier/Double_Time) ve [Half Time](/wiki/Gameplay/Game_modifier/Half_Time) gibi modların performans puanı algoritması tarafından beatmapin hızını önemli derecede etkilediği bilinir. Aynı şekilde bu modlar kullanıldığında kazanılan pp miktarını da büyük ölçüde etkiler.
 
 ### İsabetlilik
 
 *Ayrıca bakınız: [İsabet oranı](/wiki/Gameplay/Accuracy)*
 
-*İsabetlilik*, oyuncunun [vuruş objelerini](/wiki/Hit_object) zamanında vurma becerisini ölçen bir yüzdelik değerdir, pp algoritmasına göre ise oyuncunun bir beatmapteki bireysel performansını ölçmek için kullanılan bir çekirdek değerdir.
+*İsabetlilik*, oyuncunun [vuruş objelerini](/wiki/Gameplay/Hit_object) zamanında vurma becerisini ölçen bir yüzdelik değerdir, pp algoritmasına göre ise oyuncunun bir beatmapteki bireysel performansını ölçmek için kullanılan bir çekirdek değerdir.
 
-Yüksek isabet oranına sahip skorlar algoritma tarafından oldukça etkileyici olarak algılanır, ve bu yüzden epey yüksek skorlar kazandırır. %80 isabet oranına sahip bir [full combo](/wiki/Full_combo) skor kimi zaman %95 isabet oranına sahip bir skorun 2/3'üne denk olabiliyor. Algoritma isabetliliği büyük ölçüde esas aldığından, Hidden, Hard Rock ve Flashlight gibi modların yüksek isabet oranına sahip skorlardan kazanılan pp miktarını büyük ölçüde arttırdığı bilinir.
+Yüksek isabet oranına sahip skorlar algoritma tarafından oldukça etkileyici olarak algılanır, ve bu yüzden epey yüksek skorlar kazandırır. %80 isabet oranına sahip bir [full combo](/wiki/Gameplay/Full_combo) skor kimi zaman %95 isabet oranına sahip bir skorun 2/3'üne denk olabiliyor. Algoritma isabetliliği büyük ölçüde esas aldığından, Hidden, Hard Rock ve Flashlight gibi modların yüksek isabet oranına sahip skorlardan kazanılan pp miktarını büyük ölçüde arttırdığı bilinir.
 
 ### Zorlanma
 
 *Zorlanma*, bir oyuncunun kaç kez ve ne kadar süre boyunca belirli bir beatmapin yoğun zorluklu kısımlarına maruz kaldığını hesaba katan bir çekirdek değerdir.
 
-Beatmap içerisinde oldukça yüksek bir hıza veya zor [patternlara](/wiki/Beatmap/Pattern) sahip kısımlar zorlanma değerlerini büyük ölçüde yükseltir. Örneğin, daha fazla [stream](/wiki/Beatmap/Pattern/Stream) veya hızlı jump dalgaları içeren beatmapler yüksek zorlanma değerlerine sahiptir, ve böylece o beatmap için kazanılan pp miktarını arttırır.
+Beatmap içerisinde oldukça yüksek bir hıza veya zor [patternlara](/wiki/Beatmap/Pattern) sahip kısımlar zorlanma değerlerini büyük ölçüde yükseltir. Örneğin, daha fazla [stream](/wiki/Beatmap/Pattern/osu!/Stream) veya hızlı jump dalgaları içeren beatmapler yüksek zorlanma değerlerine sahiptir, ve böylece o beatmap için kazanılan pp miktarını arttırır.
 
 ## SSS
 

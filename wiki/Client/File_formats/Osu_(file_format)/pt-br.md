@@ -34,7 +34,7 @@ O conteúdo seguinte é separado em seções, indicadas por títulos em colchete
 | `PreviewTime` | Inteiro | Tempo em milissegundos quando o áudio deve iniciar | -1 |
 | `Countdown` | Inteiro | Velocidade da contagem antes do primeiro hit object (`0` = sem contagem, `1` = normal, `2` = metade, `3` = dobro) | 1 |
 | `SampleSet` | String | Sample set que será utilizado se os timing points não o substituirem (`Normal`, `Soft`, `Drum`) | Normal |
-| `StackLeniency` | Decimal | Multiplicador para o limite no tempo em que os hit objects colocados juntos empilham (0-1) | 0.7 |
+| `StackLeniency` | Decimal | [Multiplicador](/wiki/Beatmap/Stack_leniency) para o limite no tempo em que os hit objects colocados juntos empilham (0-1) | 0.7 |
 | `Mode` | Inteiro | Modo de jogo (`0` = osu!, `1` = osu!taiko, `2` = osu!catch, `3` = osu!mania) | 0 |
 | `LetterboxInBreaks` | 0 ou 1 | Se breaks terão um efeito letterbox | 0 |
 | `StoryFireInFront` | 0 ou 1 | *Descontinuado* | 1 |
@@ -56,7 +56,7 @@ Estas opções são relevantes apenas ao abrir mapas no [editor de beatmap](/wik
 | :-- | :-- | :-- |
 | `Bookmarks` | Lista de inteiros separados por vírgulas | Tempo dos bookmarks em milissegundos |
 | `DistanceSpacing` | Decimal | Multiplicador de distância do snap |
-| `BeatDivisor` | Decimal | Divisor de beat snap |
+| `BeatDivisor` | Inteiro | Divisor de beat snap |
 | `GridSize` | Inteiro | Tamanho da grid |
 | `TimelineZoom` | Decimal | Fator de escala para a timeline de objetos |
 
@@ -83,7 +83,7 @@ Estas opções são relevantes apenas ao abrir mapas no [editor de beatmap](/wik
 | `CircleSize` | Decimal | Configuração do tamanho do círculo (0–10) |
 | `OverallDifficulty` | Decimal | Configuração da dificuldade geral (0–10) |
 | `ApproachRate` | Decimal | Configuração da taxa de aproximação (0–10) |
-| `SliderMultiplier` | Decimal | Velocidade base do slider em hecto-[osu! pixels](/wiki/osupixel) por beat |
+| `SliderMultiplier` | Decimal | Velocidade base do slider em hecto-[osu! pixels](/wiki/Client/Beatmap_editor/osu!_pixel) por beat |
 | `SliderTickRate` | Decimal | Quantidade de ticks por beat do slider |
 
 ## Events
@@ -99,7 +99,7 @@ Estas opções são relevantes apenas ao abrir mapas no [editor de beatmap](/wik
 *Sintaxe dos fundos:* `0,0,filename,xOffset,yOffset`
 
 - **`filename` (String):** Localização da imagem de fundo relativo ao diretório do beatmap. Aspas duplas geralmente são colocadas em volta do nome do arquivo, mas elas não são necessárias.
-- **`xOffset` (Inteiro)** e **`yOffset` (Inteiro):** Offset em [osu! pixels](/wiki/osupixel) do centro da tela. Por exemplo, um offset de `50,100` teria o fundo mostrando 50 osu! pixels para a direita e 100 osu! pixels para baixo do centro da tela. Se o offset é `0,0`, escrever isso é opcional.
+- **`xOffset` (Inteiro)** e **`yOffset` (Inteiro):** Offset em [osu! pixels](/wiki/Client/Beatmap_editor/osu!_pixel) do centro da tela. Por exemplo, um offset de `50,100` teria o fundo mostrando 50 osu! pixels para a direita e 100 osu! pixels para baixo do centro da tela. Se o offset é `0,0`, escrever isso é opcional.
 
 ### Videos
 
@@ -183,7 +183,7 @@ Todas as opções nessa seção representam cores. Elas são trios de inteiros 0
 
 *Sintaxe dos hit objects:* `x,y,time,type,hitSound,objectParams,hitSample`
 
-- **`x` (Inteiro)** e **`y` (Inteiro):** Posição do objeto em [osu! pixels](/wiki/osupixel).
+- **`x` (Inteiro)** e **`y` (Inteiro):** Posição do objeto em [osu! pixels](/wiki/Client/Beatmap_editor/osu!_pixel).
 - **`time` (Inteiro):** Tempo de acerto de um objeto, em milissegundos a partir do começo do áudio do beatmap.
 - **`type` (Inteiro):** Bit flags indicando o tipo do objeto. Veja a [seção tipos](#tipos).
 - **`hitSound` (Inteiro):** Bit flags indicando o hitsound aplicado ao objeto. Veja a [seção hitsounds](#hitsounds).
@@ -263,7 +263,7 @@ Hit circles não têm `objectParams` adicional.
 - **`curveType` (Caractere):** Tipo da curva utilizada para construir esse slider (`B` = bézier, `C` = centripetal catmull-rom, `L` = linear, `P` = círculo perfeito)
 - **`curvePoints` (Lista de strings separadas por barras verticais):** Pontos utilizados para construir o slider. Cada ponto está no formato `x:y`.
 - **`slides` (Inteiro):** Quantidade de vezes o jogador deve seguir o slider indo e voltando antes do slider estar completo. Isso também pode ser interpretado como o número de repetições mais um.
-- **`length` (Decimal):** Tamanho visual do slider em [osu! pixels](/wiki/osupixel).
+- **`length` (Decimal):** Tamanho visual do slider em [osu! pixels](/wiki/Client/Beatmap_editor/osu!_pixel).
 - **`edgeSounds` (Lista de strings separadas por barras verticais):** Hitsounds que tocam quando o canto do slider é tocado. O primeiro som é o que toca no início do slider, e o último som é o que toca quando o fim do slider é acertado.
 - **`edgeSets` (Lista de strings separadas por barras verticais):** Sample sets utilizados para o `edgeSounds`. Cada set está no formato `normalSet:additionSet`, com o mesmo significado que na [seção de hitsounds](#hitsounds).
 
@@ -273,7 +273,7 @@ Ao construir curvas para um slider, `x` e `y` são utilizados para o primeiro po
 
 Existem quatro tipos de curvas do slider no osu!:
 
-- **Bézier (B):** [Curvas de Bézier](https://pt.wikipedia.org/wiki/Curva_de_B%C3%A9zier) de grau arbitrário podem ser feitas. Múltiplas curvas de bézier podem ser conectadas em um único slider repetindo seus pontos de interseção.
+- **Bézier (B):** [Curvas de Bézier](https://pt.wikipedia.org/wiki/Curva_de_Bézier) de grau arbitrário podem ser feitas. Múltiplas curvas de bézier podem ser conectadas em um único slider repetindo seus pontos de interseção.
 - **Centripetal catmull-rom (C):** [Curvas de catmull](https://en.wikipedia.org/wiki/Centripetal_Catmull–Rom_spline) são uma alternativa de interpolação às curvas de bézier. Elas são raramente utilizadas hoje devido a sua falta de beleza.
 - **Linear (L):** Essas curvas formam um caminho reto entre todos seus pontos.
 - **Círculo perfeito (P):** Círculos perfeitos são limitados a três pontos (incluindo a posição do hit object) que definem o limite de um círculo. Utilizar mais que três pontos resultará na troca do tipo de curva para bézier.

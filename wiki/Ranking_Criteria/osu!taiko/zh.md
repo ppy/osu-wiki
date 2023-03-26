@@ -1,8 +1,14 @@
-# osu!taiko ranking criteria
+---
+no_native_review: true
+outdated_translation: true
+outdated_since: c4cb59021d4e076aea3aa13c257a8b0a7fb70a6c
+---
 
-***注意: 这个文件是[通用 Ranking Criteria](/wiki/Ranking_Criteria)的扩展。***
+# osu!taiko 上架标准
 
-为了使 [osu!taiko](/wiki/Game_mode/osu!taiko) 特定模式的[谱面](/wiki/Beatmap)通过[谱面 Ranking 程序](/wiki/Beatmap_ranking_procedure)，则必须遵守 **osu!taiko ranking criteria** 内列出的[规定和准则](/wiki/Ranking_Criteria#一般术语)。
+***注意: 此页面是[通用上架标准 (RC)](/wiki/Ranking_Criteria)的扩展。***
+
+若要将 [osu!taiko](/wiki/Game_mode/osu!taiko) 特定模式的[谱面](/wiki/Beatmap)，通过[谱面上架程序](/wiki/Beatmap_ranking_procedure)上架，则必须遵守 **osu!taiko 上架标准 (osu!taiko Ranking Criteria)** 内所陈列的[规定和准则](/wiki/Ranking_Criteria#一般术语)。
 
 ## 术语
 

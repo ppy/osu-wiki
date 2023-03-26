@@ -9,7 +9,7 @@ no_native_review: true
 
 # Beatmap
 
-Um *beatmap* (às vezes chamado de *beatmapset*) é um conjunto de níveis de jogo ([dificuldades](#dificuldade)) que são compostos por vários [*hit objects*](/wiki/Hit_object) e quase sempre apresentam uma única música. Ele também inclui outros componentes, todos compactados em um arquivo com a [extensão `.osz`](/wiki/osu!_File_Formats/Osz_(file_format)):
+Um *beatmap* (às vezes chamado de *beatmapset*) é um conjunto de níveis de jogo ([dificuldades](#dificuldade)) que são compostos por vários [*hit objects*](/wiki/Gameplay/Hit_object) e quase sempre apresentam uma única música. Ele também inclui outros componentes, todos compactados em um arquivo com a [extensão `.osz`](/wiki/Client/File_formats/Osz_(file_format)):
 
 - a própria música, armazenada em formato MP3 ou Ogg.
 - [imagens de fundo](/wiki/Beatmap/Background), ou um vídeo, agindo como um campo de jogo.
@@ -23,15 +23,15 @@ Um *beatmap* (às vezes chamado de *beatmapset*) é um conjunto de níveis de jo
 
 *Artigo principal: [Dificuldade](/wiki/Beatmap/Difficulty)*
 
-Uma *dificuldade* é um arquivo com a [extensão `.osu`](/wiki/osu!_File_Formats/Osu_(file_format)) que descreve a localização de *hit objects*, *hitsounds*, e efeitos especiais como [kiai time](/wiki/Gameplay/Kiai_time). Ele também contém [configurações de dificuldade](/wiki/Client/Beatmap_editor/Song_Setup#difficulty) e outros parâmetros que afetam a *gameplay* diretamente. Dificuldades de um *beatmap* têm estruturas diferentes e às vezes pode ser jogado em apenas um [modo de jogo](/wiki/Game_mode). O sistema de [classificação de estrelas](/wiki/Beatmapping/Star_rating) é usado para visualizar o nível de habilidade necessária para cada dificuldade.
+Uma *dificuldade* é um arquivo com a [extensão `.osu`](/wiki/Client/File_formats/Osu_(file_format)) que descreve a localização de *hit objects*, *hitsounds*, e efeitos especiais como [kiai time](/wiki/Gameplay/Kiai_time). Ele também contém [configurações de dificuldade](/wiki/Client/Beatmap_editor/Song_Setup#difficulty) e outros parâmetros que afetam a *gameplay* diretamente. Dificuldades de um *beatmap* têm estruturas diferentes e às vezes pode ser jogado em apenas um [modo de jogo](/wiki/Game_mode). O sistema de [classificação de estrelas](/wiki/Beatmap/Star_rating) é usado para visualizar o nível de habilidade necessária para cada dificuldade.
 
 ## Envio
 
-*Artigo principal: [Envio](/wiki/Submission)*
+*Artigo principal: [Envio](/wiki/Beatmapping/Beatmap_submission)*
 
 Autores de *beatmap* podem enviar suas criações para a [lista pública de *beatmap*](https://osu.ppy.sh/beatmapsets). Mesmo que cada beatmap seja atribuído para [uma única pessoa](/wiki/Beatmap/Beatmap_host), é frequentemente um trabalho em conjunto: algumas dificuldades podem ser mapeadas por outras pessoas trabalhando [em colaboração](/wiki/Beatmap/Beatmap_collaborations) ou [separadamente](/wiki/Beatmap/Guest_difficulty).
 
-Depois do envio, um *beatmap* ganha campos de metadados adicionais, como descrição, idioma, gênero e o marcador de conteúdo explícito, que podem ser mudados pelo autor do beatmap no *website*. O *beatmap* também adquire [texto de título](Title_text), aparência que pode ser alterada com ajuda da [Equipe de Avaliação de Nomeação](/wiki/People/The_Team/Nomination_Assessment_Team).
+Depois do envio, um *beatmap* ganha campos de metadados adicionais, como descrição, idioma, gênero e o marcador de conteúdo explícito, que podem ser mudados pelo autor do beatmap no *website*. O *beatmap* também adquire [texto de título](Title_text), aparência que pode ser alterada com ajuda da [Equipe de Avaliação de Nomeação](/wiki/People/Nomination_Assessment_Team).
 
 ### Identificação
 
@@ -89,7 +89,7 @@ Essas fontes incluem:
 Jogadores de osu! entre todos os modos de jogo usam beatmaps para [subir de rank globalmente](/wiki/Performance_points) e [competir um contra o outro](/wiki/Ranking). O osu! tem diferentes tipos de tableas de classificação de acordo com cada beatmap, no quais, em exceção do primeiro, estão disponíveis apenas para [osu!supporters](/wiki/osu!supporter):
 
 - Ranking global, que funciona entre toda base de jogadores ativos;
-- Ranking global para cada combinação de [modificadores de jogo](/wiki/Game_modifier);
+- Ranking global para cada combinação de [modificadores de jogo](/wiki/Gameplay/Game_modifier);
 - Ranking por país composto por jogadores de uma mesma bandeira;
 - Ranking de amigos que mostra a posição de um jogador em relação a seus amigos.
 
@@ -101,16 +101,16 @@ O top 500 em cada dificuldade tem [replays](/wiki/Gameplay/Replay), que podem se
 
 Desde seus primeiros dias, a comunidade teve várias formas de exibir mapas excelentes e únicos. Uma das primeiras formas documentadas foram *charts* mensais e sazonais consistindo de um pequeno conjunto de *beatmaps* ranqueados, em que jogadores do topo da tabela de classificação exibiam pontuações totais entre os mapas e seriam premiados com [osu!supporter](/wiki/osu!supporter).
 
-O sistema de *chart* mais tarde evoluiu no projeto [Beatmap Spotlights](/wiki/Beatmap_Spotlights), que agora opera em condições similares, mas ocorre nas *playlists* do osu!(lazer).
+O sistema de *chart* mais tarde evoluiu no projeto [Beatmap Spotlights](/wiki/Beatmap_Spotlights), que agora opera em condições similares, mas ocorre nas *playlists* do [osu!(lazer)](/wiki/Client/Release_stream/Lazer).
 
 ### Concursos de beatmap
 
 *Artigo principal: [Concursos](/wiki/Contests)*
 
-A comunidade do osu! regularmente realiza diferentes concursos em prol de promover criatividade e premiar *mappers* que dão seu melhor. Concursos vão de pequenas competições, que são feitas dentro das comunidades locais, até maiores que são condizidos em escala global e têm prêmios de tirar o fôlego. Ganhadores frequentemente recebem prêmios em forma de [osu!supporter tags](/wiki/osu!supporter) e uma insígnia temática no perfil.
+A comunidade do osu! regularmente realiza diferentes concursos em prol de promover criatividade e premiar *mappers* que dão seu melhor. Concursos vão de pequenas competições, que são feitas dentro das comunidades locais, até maiores que são condizidos em escala global e têm prêmios de tirar o fôlego. Ganhadores frequentemente recebem prêmios em forma de [osu!supporter tags](/wiki/osu!supporter) e uma [insígnia temática no perfil](/wiki/Community/Profile_badge).
 
 ### Artistas em destaque
 
-*Artigo principal: [Artistas em destaque](/wiki/Featured_Artists)*
+*Artigo principal: [Artistas em destaque](/wiki/People/Featured_Artists)*
 
-Artistas em destque é um programa da comunidade feito pela [nossa equipe](/wiki/People/The_Team) que foca em licenciar música de vários artistas para o osu! e colocá-las disponíveis para *mapping*. A [listagem de artistas em destaque](https://osu.ppy.sh/beatmaps/artists) do *website* exibe cada artista envolvido e fornece *pre-timed templates* para *mapping*.
+Artistas em destque é um programa da comunidade feito pela [nossa equipe](/wiki/People/osu!_team) que foca em licenciar música de vários artistas para o osu! e colocá-las disponíveis para *mapping*. A [listagem de artistas em destaque](https://osu.ppy.sh/beatmaps/artists) do *website* exibe cada artista envolvido e fornece *pre-timed templates* para *mapping*.

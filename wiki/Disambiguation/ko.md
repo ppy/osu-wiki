@@ -2,13 +2,13 @@
 no_native_review: true
 ---
 
-# 중의적인 표현
+# 동음이의어
 
-[osu!wiki](/wiki/Main_Page)에 있는 다양한 **중의적인 표현**들을 다루는 문서입니다.
+[osu!wiki](/wiki/Main_Page)에 있는 다양한 **동음이의어**를 다루는 문서입니다.
 
-일반적인 문서에서 제목이 유사한 경우, 반드시 ["For other uses" 햇노트"](/wiki/Article_styling_criteria/Formatting#for-other-uses)에 '중의적인 표현' 페이지 링크를 첨부해야 합니다.
+일반적인 문서에서 제목이 유사한 경우, 반드시 ["다르게도 사용할 수 있습니다" 햇노트](/wiki/Article_styling_criteria/Formatting#다르게도-사용할-수-있습니다)에 동음이의어 페이지 링크를 첨부해야 합니다.
 
-## 중의적인 표현 문서들
+## 동음이의어 문서
 
 - [반쵸](Bancho)
 - [콤보](Combo)
@@ -18,11 +18,11 @@ no_native_review: true
 - [모드](Mod)
 - [NC](NC)
 - [NM](NM)
-- [오프셋](Offset)
-- [Ouendan](Ouendan)
 - [osu!](osu!)
+- [Ouendan](Ouendan)
 - [랭크](Rank)
 - [Score](Score)
 - [Snapping](Snapping)
 - [Star](Star)
+- [Timing](Timing)
 - [버전](Version)

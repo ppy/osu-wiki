@@ -1,5 +1,7 @@
 ---
 layout: main_page
+outdated_translation: true
+outdated_since: 7a4a1c34e5696e7c170bf1399c6b1921bb3272ee
 ---
 
 <div class="wiki-main-page__blurb">
@@ -15,7 +17,7 @@ layout: main_page
 
 [规章制度](/wiki/Rules) • [游戏安装](/wiki/Client/Installation) • [注册账号](/wiki/Registration) • [帮助中心](/wiki/Help_centre)
 
-[聊天面板](/wiki/Client/Interface/Chat_console) • [BanchoBot](/wiki/BanchoBot) • [常见问题](/wiki/FAQ) • [教程指南](/wiki/Guides) • [专用术语](/wiki/Glossary)
+[聊天面板](/wiki/Client/Interface/Chat_console) • [BanchoBot](/wiki/BanchoBot) • [常见问题](/wiki/FAQ) • [教程指南](/wiki/Guides) • [专用术语](/wiki/Sitemap)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -26,7 +28,7 @@ layout: main_page
 
 [游戏界面](/wiki/Client/Interface) • [游戏设置](/wiki/Client/Options) • [视觉设置](/wiki/Client/Interface/Visual_settings) • [快捷键](/wiki/Client/Keyboard_shortcuts) • [配置文件](/wiki/Client/Program_files/User_configuration_file) • [目录文件](/wiki/Client/Program_files)
 
-[文件格式](/wiki/Client/File_formats)：[.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format))
+[文件格式](/wiki/Client/File_formats)：[.osz](/wiki/Client/File_formats/Osz_(file_format)) • [.osk](/wiki/Client/File_formats/Osk_(file_format)) • [.osr](/wiki/Client/File_formats/Osr_(file_format)) • [.osu](/wiki/Client/File_formats/Osu_(file_format)) • [.osb](/wiki/Client/File_formats/Osb_(file_format))
 
 </div>
 <div class="wiki-main-page-panel">
@@ -37,7 +39,7 @@ layout: main_page
 
 [游戏模式](/wiki/Game_mode)：[osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[谱面](/wiki/Beatmap) • [难度](/wiki/Beatmap/Difficulty) • [物件](/wiki/Hit_object) • [模组 (Mods)](/wiki/Game_modifier) • [分数](/wiki/Gameplay/Score) • [回放](/wiki/Gameplay/Replay) • [奖章](/wiki/Medals) • [多人游戏](/wiki/Client/Interface/Multiplayer)
+[谱面](/wiki/Beatmap) • [难度](/wiki/Beatmap/Difficulty) • [物件](/wiki/Gameplay/Hit_object) • [模组 (Mods)](/wiki/Gameplay/Game_modifier) • [分数](/wiki/Gameplay/Score) • [回放](/wiki/Gameplay/Replay) • [奖章](/wiki/Medals) • [多人游戏](/wiki/Client/Interface/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -50,7 +52,7 @@ osu! 的谱面都是充满活力的社区内玩家们的智慧结晶，想与大
 
 组件：[AiMod](/wiki/Client/Beatmap_editor/AiMod) • [节拍细分](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) • [间距锁定 (DS)](/wiki/Client/Beatmap_editor/Distance_snap) • [编辑器菜单](/wiki/Client/Beatmap_editor/Menu) • [故事板负载](/wiki/Client/Beatmap_editor/SB_Load) • [编辑器时间轴](/wiki/Client/Beatmap_editor/Timelines)
 
-活动：[作图](/wiki/Beatmapping) • [排列](/wiki/Mapping_techniques) • [故事板](/wiki/Storyboard) • [皮肤](/wiki/Skinning)
+活动：[作图](/wiki/Beatmapping) • [排列](/wiki/Beatmapping/Mapping_techniques) • [故事板](/wiki/Storyboard) • [皮肤](/wiki/Skinning)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -59,9 +61,9 @@ osu! 的谱面都是充满活力的社区内玩家们的智慧结晶，想与大
 
 谱面上架 (Ranking) 指的是让谱面获得排行榜功能，从而为众人所知的过程。下面的文章将指导你如何通过谱面审核流程，并介绍谱面质量控制与谱面上架的全过程。
 
-[提交](/wiki/Submission) • [摸图](/wiki/Modding) • [上架流程](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
+[提交谱面](/wiki/Beatmapping/Beatmap_submission) • [摸图](/wiki/Modding) • [谱面上架流程](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
 
-[Ranking 准则](/wiki/Ranking_Criteria)：[osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania)
+[谱面上架标准 (RC)](/wiki/Ranking_Criteria)：[osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -70,7 +72,7 @@ osu! 的谱面都是充满活力的社区内玩家们的智慧结晶，想与大
 
 了解这些让 osu! 社区安全运营的准则，包括歌曲、媒体内容的授权与规范、聊天与论坛规章制度。
 
-[规章制度](/wiki/Rules) • [贡献者公约](/wiki/Contributor_Code_of_Conduct) • [行为准则：摸图和作图](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)
+[规章制度](/wiki/Rules) • [贡献者公约](/wiki/Rules/Contributor_Code_of_Conduct) • [行为准则：摸图和作图](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)
 
 媒体内容规范：[内容使用规范](/wiki/Rules/Content_Usage_Guidelines) • [内容投票流程](/wiki/Rules/Content_Voting_Process) • [少儿不宜内容](/wiki/Rules/Explicit_Content) • [歌曲内容规范](/wiki/Rules/Song_Content_Rules) • [视觉内容注意事项](/wiki/Rules/Visual_Content_Considerations)
 
@@ -83,7 +85,7 @@ osu! 的谱面都是充满活力的社区内玩家们的智慧结晶，想与大
 
 这里能找到一些常见问题的解决方案。
 
-[帮助中心](/wiki/Help_centre) • [性能问题检查](/wiki/Performance_troubleshooting) • [账号支持团队](/wiki/People/The_Team/Account_support_team) • [帮助论坛](https://osu.ppy.sh/forum/5)
+[帮助中心](/wiki/Help_centre) • [性能问题检查](/wiki/Performance_troubleshooting) • [账号支持团队](/wiki/People/Account_support_team) • [帮助论坛](https://osu.ppy.sh/forum/5)
 
 账号受限：[禁言](/wiki/Silence) • [账号受限](/wiki/Help_centre/Account_restrictions)
 
@@ -96,9 +98,10 @@ osu! 的谱面都是充满活力的社区内玩家们的智慧结晶，想与大
 
 社交能把世界各地的 osu! 玩家连结起来。了解这些活动与竞赛，结识新朋友，或帮忙组织一个更好的活动！
 
+讨论区: [论坛](/wiki/Community/Forum) • [闲聊](/wiki/Community/Internet_Relay_Chat)
 [锦标赛](/wiki/Tournaments) • [聚光灯](/wiki/Beatmap_Spotlights) • [竞赛](/wiki/Contests) • [社区导师计划](/wiki/Community/Community_Mentorship_Program)
 
-[社区项目](/wiki/Community/Projects)：[精选艺术家](/wiki/Featured_Artists) • [osu! 社区会议](/wiki/Community/osu!_community_meetings) • [osu! 学院](/wiki/Community/Video_series/osu!academy) • [osu! 作图教程](/wiki/Community/Video_series/osu!mapping) • [osu! 讨论](/wiki/Community/Video_series/osu!talk)
+[社区项目](/wiki/Community/Projects) • [精选艺术家](/wiki/People/Featured_Artists) • [喜爱计划](/wiki/Community/Project_Loved) • [osu! 社区会议](/wiki/Community/osu!_community_meetings) • [osu! 学院](/wiki/Community/Video_series/osu!academy) • [osu! 作图教程](/wiki/Community/Video_series/osu!mapping) • [osu! 讨论](/wiki/Community/Video_series/osu!talk)
 
 组织：[osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
@@ -109,9 +112,9 @@ osu! 的谱面都是充满活力的社区内玩家们的智慧结晶，想与大
 
 没有众多成员帮助开发、维护、管理社区，osu! 很难走到今天，正是他们的辛劳付出让 osu! 生机蓬勃。
 
-[核心团队](/wiki/People/The_Team)：[开发团队](/wiki/People/The_Team/Developers) • [全局管理团队 (GMT)](/wiki/People/The_Team/Global_Moderation_Team) • [援助团队](/wiki/People/The_Team/Support_Team) • [审核评估团队 (NAT)](/wiki/People/The_Team/Nomination_Assessment_Team) • [谱面审核成员 (BN)](/wiki/People/The_Team/Beatmap_Nominators) • [名人堂](/wiki/People/The_Team/osu!_Alumni) • [社区喜爱计划团队 (LVD)](/wiki/People/The_Team/Project_Loved_Team)
+[核心团队](/wiki/People/osu!_team)：[开发团队](/wiki/People/Developers) • [全局管理团队 (GMT)](/wiki/People/Global_Moderation_Team) • [援助团队](/wiki/People/Support_Team) • [审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) • [谱面审核成员 (BN)](/wiki/People/Beatmap_Nominators) • [名人堂](/wiki/People/osu!_Alumni) • [社区喜爱计划团队 (LVD)](/wiki/People/Project_Loved_Team) • [聚光灯策展人 (BSC)](/wiki/People/Beatmap_Spotlight_Curators)
 
-[社区贡献者](/wiki/People/Community_Contributors) • [拥有特殊头衔的玩家](/wiki/People/Users_with_unique_titles) • [锦标赛委员会](/wiki/People/Tournament_Committee) • [Performance Points 委员会](/wiki/People/Performance_Points_Committee)
+[社区贡献者](/wiki/People/Community_Contributors) • [拥有特殊头衔的玩家](/wiki/People/Users_with_unique_titles) • [锦标赛委员会](/wiki/People/Tournament_Committee) • [表现分 (pp) 委员会](/wiki/People/Performance_Points_Committee) • [osu! wiki 维护者](/wiki/People/osu!_wiki_maintainers)
 
 </div>
 <div class="wiki-main-page-panel">

@@ -4,13 +4,17 @@ tags:
   - badges
   - badged
   - Abzeichen
+outdated_translation: true
+outdated_since: 43f67096dc184164d6d4ec03e05a6da73eeac72f
 ---
 
 # Offizielle Turnierunterstützung
 
-Das [osu!-Team](/wiki/People/The_Team) betreibt ein Programm, bei dem es nach ihrem Ermessen von der Community veranstaltete Turniere, die bestimmte Kriterien und Erwartungen erfüllen, mit zusätzlicher Unterstützung ausstatten kann.
+*Für die Unterstützung von Beatmapping-Wettbewerben, siehe: [Offizielle Wettbewerbsunterstützung](/wiki/Contests/Official_support).*
 
-Dieser Artikel wurde zuletzt am 9. Januar 2022 aktualisiert. Bitte ziehe bei jeglichen Rückfragen und Klarstellungen den Kanal `#tournaments` auf dem [osu!dev Discord-Server](https://discord.com/invite/ppy) zurate oder sende eine E-Mail an [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+Das [osu!-Team](/wiki/People/osu!_team) betreibt ein Programm, bei dem es nach ihrem Ermessen von der Community veranstaltete Turniere, die bestimmte Kriterien und Erwartungen erfüllen, mit zusätzlicher Unterstützung ausstatten kann.
+
+Dieser Artikel wurde zuletzt am 2. Februar 2023 aktualisiert. Bitte ziehe bei jeglichen Rückfragen und Klarstellungen den Kanal `#tournaments` auf dem [osu!dev Discord-Server](https://discord.com/invite/ppy) zurate oder sende eine E-Mail an [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Vorteile
 
@@ -22,21 +26,21 @@ Offiziell unterstützte Turniere haben Zugang zu:
 
 ## Anspruchsberechtigung
 
-Von der Community betriebene Turniere, die sich an die folgenden strengen Regeln halten, sind für Unterstützung berechtigt:
+Gefördert werden von der Community betriebene Turniere, die sich an die folgenden strengen Regeln halten:
 
 - Die Turnierserie darf nicht mehr als viermal pro Jahr stattfinden.
-- Das Turnier muss zumindest als Achtelfinale mit Doppeleleminierungsverfahren betrieben werden **ODER** es müssen mindestens 64 Spieler (oder 16 Teams) teilnehmen. Größere Maßstäbe und Formate sind erlaubt.
-- Das Turnier wird von einem *erfahrenem Team an seriösem Personal*[^experience] organisiert und betrieben **ODER** das Turnier *wurde mindestens einmal ohne den Erhalt einer Belohnung geleitet*.
+- Das Turnier muss zumindest als Achtelfinale mit Doppeleliminierungsverfahren betrieben werden **ODER** es müssen mindestens 64 Spieler (oder 16 Teams) teilnehmen. Größere Maßstäbe und Formate sind erlaubt.
 - Mitarbeiter dürfen selbst zu keinem Zeitpunkt am Turnier teilnehmen und Spielern ist es ebenso nicht erlaubt als Mitarbeiter zu assistieren. Bitte beachte die [FAQ](#what-is-considered-staff) für unsere Definition von "Personal".
 - Der Forumsbeitrag für das Turnier **MUSS** einen klar sichtbaren Link in einer normal großen Schriftart zum [Meldeformular für Turniere](https://pif.ephemeral.ink/tournament-reports) als letzten Inhalt des originalen Beitrags haben.
   - `https://pif.ephemeral.ink/tournament-reports`
-  - Dieses Meldeformular wird vom [Turnierkomitee](/wiki/People/Tournament_Committee) angesehen. Wir ermutigen alle Nutzer — Spieler wie Mitarbeiter gleichermaßen — dazu, das Formular bei Bedarf zu verwenden.
+  - Dieses Meldeformular wird vom [Turnierkomitee](/wiki/People/Tournament_Committee) angesehen. Wir ermutigen alle Nutzer — Spieler wie Mitarbeiter gleichermaßen — dazu, das Formular bei Bedarf zu verwenden. Jegliche Verstöße gegen die [Erwartungen](#erwartungen), die [weiteren Prozeduren](#weitere-prozeduren) oder die [Zulassungsvoraussetzungen](#anspruchsberechtigung) sollten gemeldet werden.
+- Das Turnier muss alle [Erwartungen](#erwartungen) von offiziell unterstützten Turnieren erfüllen.
 
 ## Unterstützung anfragen
 
 Zunächst muss der Antrag auf Unterstützung **lange bevor das Turnier tatsächlich anfängt eingereicht werden.** Dafür gibt es keine genauen Fristen, aber wir empfehlen mindestens zwei bis drei Wochen vor Spielbeginn, um Verzögerungen im Screening-Verfahren zu berücksichtigen.
 
-Wenn dein Turnier die [Kriterien für die Anspruchsberechtigung](#anspruchsberechtigung) erfüllt, kannst du mit einer E-Mail an [tournaments@ppy.sh](mailto:tournaments@ppy.sh) einen Antrag auf Unterstützung stellen, der folgende Informationen enthalten sollte:
+Wenn dein Turnier die [Zulassungsvoraussetzungen](#anspruchsberechtigung) erfüllt, kannst du mit einer E-Mail an [tournaments@ppy.sh](mailto:tournaments@ppy.sh) einen Antrag auf Unterstützung stellen, der folgende Informationen enthalten sollte:
 
 - Eine kurze Beschreibung deines Turniers, einschließlich aller geltenden Termine, Spielmodi und anderer geeigneter Merkmale.
 - Jegliche Links zu:
@@ -71,7 +75,9 @@ Zusätzlich sollten alle Werbematerialien oder andere Dienstleistungen, die im Z
 - Wenn ein Nutzer die Kriterien zum Registrieren erfüllt (falls vorhanden), darf das Turnier keinen an der Teilnahme hindern, der das Screening-Verfahren besteht, außer es werden zahlreiche Beweise gegen den Teilnehmer öffentlich vorgelegt und das Account-Support-Team stimmt zu.
   - Dazu gehört, dass Spieler, die als absichtliche Verlierer wahrgenommen werden (*Sandbagging*), vom Spiel ausgeschlossen werden. Sollten Veranstalter berechtigte Bedenken über die Anwesenheit solcher Spieler haben, die die Wettbewerbsintegrität des Turniers beeinflussen, können sie das Problem mit Hilfe des [Meldeformulars für Turniere](https://pif.ephemeral.ink/tournament-reports) an das [Turnierkomitee](/wiki/People/Tournament_Committee) für eine Einzelfallüberprüfung melden.
 - Ein engagierter Schiedsrichter muss bei jedem Match präsent sein. Spieler können nicht selbst Schiedsrichter sein.
-- Alle Mehrspieler-Spiele, die für das Turnier relevant sind, müssen mit dem Befehl `!mp make` erstellt werden, damit sie nicht verfallen. Die Ergebnisse müssen aufgenommen und im originalen Forumsbeitrag in einem klaren Format öffentlich zugänglich gemacht werden.
+  - Der Einsatz von Bots ist für die Qualifizierungsphase gestattet, sofern dies von einem Mitarbeiter beaufsichtigt wird.
+- Asynchrone Spiele sind unter keinen Umständen erlaubt. Alle teilnehmenden Teams müssen zur geplanten Spielzeit anwesend sein.
+- Alle Mehrspieler-Spiele, die für das Turnier relevant sind, müssen mit dem Befehl `!mp make` erstellt werden, damit sie nicht verfallen. Die Ergebnisse müssen aufgenommen und im originalen Forumsbeitrag (oder auf einer externen Quelle, die im Forumsbeitrag verlinkt wird) in einem klaren Format öffentlich zugänglich gemacht werden.
 
 Sobald das Turnier beendet ist, müssen die Turnierveranstalter die folgenden Informationen an das Account-Support-Team überreichen:
 
@@ -117,6 +123,8 @@ Benutzer4,Team2,1234567
 ```
 
 Nach Abschluss des Screening-Verfahrens stellt das Account-Support-Team eine Liste mit allen Nutzern bereit, die das Verfahren nicht bestanden haben und als ungeeignet für Turnierspiele gelten, ohne die Nennung einer besonderen Begründung. Individuelle Benutzer, die mit dem Ergebnis ihres Screenings unzufrieden sind, sollten aufgefordert werden, sich via E-Mail bei [accounts@ppy.sh](mailto:accounts@ppy.sh) beraten zu lassen.
+
+Nur Spieler, die am Turnier teilnehmen **oder** die im Laufe des Turniers als Ersatzspieler für eine Mannschaft in Frage kämen, sollten zum Screening geschickt werden. Bei einem länderspezifischen Turnier mit einem Auswahlverfahren werden die Organisatoren beispielsweise dazu angehalten, nur die Spieler zu entsenden, die nach Abschluss des Auswahlverfahrens für die Teilnahme feststehen, sowie mehrere Ersatzspieler für jede Mannschaft, falls diese teilnehmen müssen. Wenn Du wissen möchtest, welche Teilnehmer für das Screening eines bestimmten Turniers relevant sind, kontaktiere das [Turnierkomitee](/wiki/People/Tournament_Committee).
 
 **Wenn du Benutzern, die das Screening nicht bestanden haben, die Teilnahme an deinem Turnier gestattest, führt dies zu einem sofortigen Widerruf der Unterstützung und bewirkt, dass zukünftige Anfragen auf Unterstützung abgelehnt werden.**
 
@@ -172,12 +180,6 @@ Bitte reiche kein Hauptmenübanner zusammen mit deinem originalen Antrag ein —
 
 ## Häufig gestellte Fragen
 
-### Warum muss ein Turnier mindestens zweimal oder öfter betrieben werden, um sich ohne die Anwesenheit von erfahrenem Personal für Profilabzeichen zu qualifizieren? {#twice-or-more}
-
-Der zweite Durchlauf eines Turniers ist oft frei von vielen organisatorischen Problemen des ersten Turniers und hat eine solide Arbeitsweise etabliert sowie Personal geschaffen, das in die Produktion involviert ist. Das Personal ist weitaus weniger gefährdet, sich zu verzetteln oder fragwürdige Entscheidungen zu treffen. Das Turnier ist außerdem bekannter, wenn es mehr als einmal betrieben wird.
-
-Aus all diesen Gründen (und weiteren) bitten wir darum, dass Profilabzeichenpreise nur bei Turnieren verliehen werden, die mindestens einmal erfolgreich zuvor betrieben wurden, es sei denn, eine große Mehrheit des Teams ist erfahren und veranstaltete Turniere in der Vergangenheit.
-
 ### Was wird als "Personal" angesehen, soweit Turniermanagement reicht? {#what-is-considered-staff}
 
 Wenn ein Benutzer Zugriff auf Informationen hat, die möglicherweise das Ergebnis des Turniers/Wettbewerbs beeinflussen könnten, wird die Person als Mitarbeiter betrachtet. Zur Klarstellung: wir betrachten Veranstalter, Schiedsrichter, Mappool-Auswähler, Mappool-Spieletester, individuelle Mapper, Kampfrichter oder jede andere Form einer leitenden Position, die direkt in die Wartung und den Betrieb des Turniers/Wettbewerbs involviert ist, als Teil des Personals. Diese Liste ist nicht vollständig — kontaktiere bitte [tournaments@ppy.sh](mailto:tournaments@ppy.sh), wenn du irgendwelche Zweifel hast.
@@ -188,7 +190,7 @@ In der Vergangenheit hatten wir Probleme mit skrupellosen Veranstaltern, die die
 
 ### Kann ein Spieler, der in meinem Turnier vom Spiel ausgeschieden ist, nachträglich zum Personal stoßen und keine Probleme verursachen? {#player-join-staff}
 
-Nein. Spieler, die von Turnieren/Wettbewerben ausgeschlossen wurden, können dem Personal nicht beitreten oder in irgendeiner organisatorischen Funktion mitwirken. Die einzige Ausnahme davon ist das Einstellen von Replays für Mappool-Vorstellungen. Sie können jedoch als Helfer angeworben werden.
+Nein. Spieler, die von Turnieren/Wettbewerben ausgeschlossen wurden, können dem Personal nicht beitreten oder in irgendeiner organisatorischen Funktion mitwirken. Die einzigen Ausnahmen davon sind die Beteiligung als Schiedsrichter, das Testen von Mappools sowie das Einstellen von Replays für Mappool-Vorstellungen. Sie können jedoch als Helfer angeworben werden.
 
 ### Kann ein Nutzer dem Personal beitreten, wenn er noch keine Matches gespielt hat? {#no-play-join-staff}
 
@@ -204,11 +206,8 @@ Das Spiel mit Abzeichen zu überfluten verwischt das Ansehen des Preises für al
 
 ### Kann ich ein Abzeichen für einen Beatmap-Wettbewerb oder andere Arten von Wettbewerben anfordern? {#contest-support}
 
-Ja, für Beatmap-Wettbewerbe gilt das. Folge einfach denselben Regeln wie oben. Wir empfehlen dringend [Featured Artists](https://osu.ppy.sh/beatmaps/artists) für solche Wettbewerbe zu benutzen und werden diejenigen, die dies tun, in eklatanter Weise bevorzugt behandeln.
-
-Sende uns eine E-Mail für andere Wettbewerbe und frage uns persönlich. Wir werden versuchen, eine Lösung zu finden.
+Ja! Siehe [Offizielle Wettbewerbsunterstützung](/wiki/Contests/Official_support) für mehr Details.
 
 ## Anmerkungen
 
-[^experience]: Ein "erfahrener" Mitarbeiter ist grob definiert als jemand, der signifikant zum erfolgreichen Betreiben von mindestens **drei** Turnieren mit Abzeichen zuvor beigetragen hat oder Teil eines offiziellen World Cup Freiwilligenteams für irgendeinen Spielmodus war. Das kann sich nach dem Ermessen des Account-Support-Teams unterscheiden.
 [^play-commence]: Das Spiel "beginnt", sobald die Platzierungen feststehen. Daher können Qualifikationsspiele von dieser Regelung ausgenommen werden.

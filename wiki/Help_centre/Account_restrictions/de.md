@@ -8,6 +8,8 @@ Wenn ein Account eingeschränkt wird, dann kann dieser nicht mit der Community i
 
 Die folgenden Features sind für eingeschränkte Accounts deaktiviert:
 
+- Möglichkeit zur Teilnahme an offiziellen Wettbewerben
+- Beitritt von Mehrspieler-Räumen
 - Chat im Spiel
 - Private Nachrichten
 - Beiträge in Foren oder Kommentarsektionen
@@ -20,7 +22,7 @@ Die folgenden Features sind für eingeschränkte Accounts deaktiviert:
 Wenn dein Account eingeschränkt wurde, verfalle nicht in Panik. Folge bitte diesen Schritten:
 
 - **Warte 24 Stunden.** Einige Einschränkungen sind das Ergebnis automatischer Prozesse. Bitte warte 24 Stunden, da wir täglich jede neue Einschränkung überprüfen - wenn deine Einschränkung ein Irrtum war, wird sie hoffentlich innerhalb dieses Zeitrahmens aufgehoben.
-- **Kontaktiere unser [Account-Support-Team](/wiki/People/The_Team/Account_support_team).** Wenn dein Account nach dieser Dauer immer noch eingeschränkt ist, sende bitte eine E-Mail an [accounts@ppy.sh](mailto:accounts@ppy.sh) **von der E-Mail-Adresse, die mit deinem Account verknüpft ist,** um nach Details zu deiner Einschränkung zu fragen. Stelle sicher, dass du deinen Benutzernamen sowie jedes Detail, warum du glaubst, dass dein Account eingeschränkt wurde, der E-Mail hinzufügst. Je mehr du uns erzählst, desto leichter ist es für uns, das Problem zu lösen.
+- **Kontaktiere unser [Account-Support-Team](/wiki/People/Account_support_team).** Wenn dein Account nach dieser Dauer immer noch eingeschränkt ist, sende bitte eine E-Mail an [accounts@ppy.sh](mailto:accounts@ppy.sh) **von der E-Mail-Adresse, die mit deinem Account verknüpft ist,** um nach Details zu deiner Einschränkung zu fragen. Stelle sicher, dass du deinen Benutzernamen sowie jedes Detail, warum du glaubst, dass dein Account eingeschränkt wurde, der E-Mail hinzufügst. Je mehr du uns erzählst, desto leichter ist es für uns, das Problem zu lösen.
 - Wenn du der festen Überzeugung bist, dass deine Einschränkung ein Irrtum ist, dann kontaktiere uns bitte sofort, damit wir deinen Fall besprechen können.
 
 Wenn dein Account aufgrund von [Regelbruch](/wiki/Rules) eingeschränkt wurde, musst du mindestens **drei Monate** warten, bis du wieder eine Beschwerde einlegen darfst. Diese Zeitspanne wird von uns als *Auszeit* bezeichnet, und wenn du geschummelt hast, beträgt sie stattdessen sechs Monate.
@@ -34,7 +36,7 @@ Wenn deine Beschwerde zugelassen wurde und dein Account nach dem Spielen erneut 
 Es gibt mehrere Gründe, warum dein Account eingeschränkt werden kann.
 
 - **Es ist nicht dein erster Account.** Multi-Accounting ist gegen die Regeln. Jeder andere Account neben dem ersten des Spielers wird dauerhaft gesperrt, aber der originale Account wird in den meisten Fällen unberührt bleiben und der Spieler wird dazu ermutigt, auf diesem weiter zu spielen. Wenn das Multi-Accounting häufig auftritt, wird der originale Account als Warnung stumm geschaltet und der Hauptaccount wird eingeschränkt, sollte das Verhalten dennoch anhalten. Wenn dein Account eingeschränkt ist und du andere besitzt, greife bitte nicht auf diese zu, sondern nutze ausschließlich den originalen Account. Wenn du Probleme beim Zugriff oder Verifizieren deines Accounts hast, sende uns bitte eine E-Mail an [accounts@ppy.sh](mailto:accounts@ppy.sh), damit wir dir helfen können, wieder Zugriff auf deinen Account zu bekommen.
-- **Du hast jemandem erlaubt, auf deinem Account zu spielen.** Das Teilen von Accounts ist ebenso gegen die Regeln. Wenn du jemandem Zugriff auf dein Account gibst, dann wird dieser eingeschränkt. Der Account des Spielers, der deinen Account benutzt hat, wird wahrscheinlich stumm geschaltet oder gesperrt. Wenn das aus Versehen passiert ist, lass uns das bitte sobald wie möglich durch eine E-Mail an [accounts@ppy.sh](mailto:accounts@ppy.sh) wissen.
+- **Du hast jemandem erlaubt, auf deinem Account zu spielen.** Das Teilen von Accounts ist ebenso gegen die Regeln. Wenn du jemandem Zugriff auf deinen Account gibst, dann wird dieser eingeschränkt. Der Account des Spielers, der deinen Account benutzt hat, wird wahrscheinlich stumm geschaltet oder gesperrt. Wenn das aus Versehen passiert ist, lass uns das bitte sobald wie möglich durch eine E-Mail an [accounts@ppy.sh](mailto:accounts@ppy.sh) wissen.
 - **Du schummelst.** Die Benutzung eines Drittanbieter-Programms, Makros oder jeglicher anderer Form von unfairem Vorteil wird in einer sofortigen Einschränkung enden.
 - **Andere Gründe.** Das Account-Team behält sich das Recht vor, Accounts auch aus anderen Gründen einzuschränken.
 
@@ -45,7 +47,7 @@ Wir bitten Spieler von zu Recht eingeschränkten Accounts einige Zeit zu warten,
 - **Habe Spaß am Spiel!** Während dein Account eingeschränkt ist und du eine Auszeit hast, kannst du immer noch das Spiel spielen (solange du auf deinem originalen Account spielst!). Die Scores, die du erreichst, werden eingereicht und bleiben dir erhalten nachdem die Einschränkung aufgehoben wurde, sofern dein Account nicht zurückgesetzt wird.
 - **Behalte gutes Verhalten bei.** Wir verstehen, dass ein eingeschränkter Account frustrierend sein kann, aber siehe es als Chance, um etwas Auszeit zu nehmen - weg von der Community. Versuche Interaktionen mit der Community für zumindest ein paar Tage zu vermeiden (egal, ob es über Discord, Social Media oder andere Formen von Kontakten ist), um die Aktionen zu reflektieren, die gegebenenfalls zu einer Einschränkung deines Accounts geführt haben.
 - **Versichere dich, dass du die Regeln respektierst.** Langfristige Einschränkungen sind Bestrafungen für das Brechen der Regeln. Wenn du während der Einschränkung weitermachst, dann wird die Auszeit für das Einreichen einer Beschwerde auf mindestens **drei Monate** zurückgesetzt. Das beinhaltet beispielsweise weiteres Schummeln (in diesem Fall sechs Monate), auf den Account anderer Spieler zugreifen oder neue Accounts erstellen, um der Einschränkung zu entgehen.
-- **Folge den Anweisungen des Support-Teams.** Die dreimonatige Auszeit ist eine Chance, um deine eigenen Aktionen zu reflektieren. Wenn du versucht Beschwerde vor dem Ablaufen der Auszeit einzureichen, werden deine E-Mails ignoriert. Wenn du unsicher bist, wann deine Auszeit ausläuft, und du Beschwerde einlegen darfst oder auf welchem Account du spielen solltest (und die Beschwerde aus einreichen), darfst du uns gerne eine E-Mail senden, um zu fragen.
+- **Folge den Anweisungen des Support-Teams.** Die Auszeit ist eine Chance, um deine eigenen Aktionen zu reflektieren. Wenn du versucht Beschwerde vor dem Ablaufen der Auszeit einzureichen, werden deine E-Mails ignoriert. Wenn du unsicher bist, wann deine Auszeit ausläuft, und du Beschwerde einlegen darfst oder auf welchem Account du spielen solltest (und die Beschwerde aus einreichen), darfst du uns gerne eine E-Mail senden, um zu fragen.
 - **Zögere nicht uns zu kontaktieren, wenn du irgendwelche Fragen hast.** Solange du nicht versuchst, die Strafe zu umgehen, werden wir dir gerne jede Frage über die Einschränkung deines Accounts beantworten!
 
 ## Meine Auszeit ist vorbei. Wie lege ich Beschwerde ein? {#appeal}
@@ -61,14 +63,14 @@ Beim Einreichen einer Beschwerde erwarten wir die folgenden Punkte:
 
 ## Was, wenn meiner Beschwerde Recht gegeben wird? {#appeal-granted}
 
-Wenn wir uns entscheiden, dich wieder zuzulassen, werden wir verlangen, dass du einigen Bedingungen zustimmst, bevor wir dein Konto wieder freigeben.
+Wenn wir uns entscheiden, dich wieder zuzulassen, musst du einigen Bedingungen zustimmen, bevor wir dein Konto wieder freigeben.
 
 - **Du wirst keine Verstöße mehr begehen.** Das beinhaltet Cheaten und das Teilen von Accounts.
 - **Du wirst keine weiteren Accounts erstellen, sei es für dich selbst oder jemand anderen.**
-- **Du solltest dein Account nicht mit anderen Konten verknüpfen**, einschließlich das Spielen auf gemeinsam genutzten Computern.
+- **Du solltest deinen Account nicht mit anderen Konten verknüpfen**, einschließlich das Spielen auf gemeinsam genutzten Computern.
 - **Jedes Fehlverhalten wird in einer sofortigen Einschränkung enden**. Dies beinhaltet schwerwiegende Stummschaltungen.
 
-In einigen Fällen kann ein wieder zugelassener Spieler von offiziellen und mit einem Abzeichen versehenen Turnieren ausgeschlossen werden, sowohl als Teilnehmer als auch als Mitglied des Organisationsteams. Die Dauer der Sperrung ist 1 Jahr pro Verstoß (wenn der Nutzer zum zweiten Mal Beschwerde eingelegt hat, dauert die Sperrung 2 Jahre). Die E-Mail zur Entsperrung wird die Dauer der Sperrung darlegen.
+Wieder zugelassene Spieler im Sinne der oben genannten Standardbedingungen sind ebenfalls von offiziellen und mit einem Abzeichen versehenen Turnieren ausgeschlossen, sowohl als Teilnehmer als auch als Mitglied des Organisationsteams. Die Dauer der Sperrung ist 1 Jahr pro Verstoß (wenn der Nutzer zum zweiten Mal Beschwerde eingelegt hat, dauert die Sperrung 2 Jahre). Die E-Mail zur Entsperrung wird die Dauer der Sperrung darlegen.
 
 **Das Cheaten oder Teilen von Accounts während eines offiziellen Turniers oder eines Turniers mit Abzeichen wird zu einer dauerhaften Sperrung des Nutzers zu zukünftigen Turnieren führen.** Für diese Sperrung kann keine Beschwerde eingelegt werden (deine E-Mail wird ignoriert, solltest du es versuchen) und die Sperrung wird unter allen Umständen nicht entfernt, gemildert oder aufgegeben.
 

@@ -6,9 +6,9 @@ This article describes technical or administrative aspects of the osu! wiki. It 
 
 ## Administrators
 
-*Main page: [List of the osu! wiki maintainers](/wiki/osu!_wiki/Maintenance/List_of_maintainers)*
+*Main page: [List of the osu! wiki maintainers](/wiki/People/osu!_wiki_maintainers)*
 
-The administrators are people with [collaborator access](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-user-account-settings/permission-levels-for-a-user-account-repository#collaborator-access-for-a-repository-owned-by-a-user-account) to the [`ppy/osu-wiki` repository](https://github.com/ppy/osu-wiki/), where all articles and news posts are stored. They can triage and label issues, manage open pull requests, and make decisions regarding the osu! wiki's present and future.
+The administrators are people with [collaborator access](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-personal-account-settings/permission-levels-for-a-personal-account-repository#collaborator-access-for-a-repository-owned-by-a-personal-account) to the [`ppy/osu-wiki` repository](https://github.com/ppy/osu-wiki/), where all articles and news posts are stored. They can triage and label issues, manage open pull requests, and make decisions regarding the osu! wiki's present and future.
 
 Maintainers perform the final review of pull requests and merge them. If you have a contribution in need of attention, ask one of them in the `#osu-wiki` channel.
 
@@ -28,7 +28,6 @@ On GitHub, pull requests and issues may be tagged and classified by using [label
 
 - `rule change`: the change affects an existing set of rules, such as the [ranking criteria](/wiki/Ranking_Criteria), and needs to be reviewed by the area's owner
 - `blocked`: the change has issues which must be resolved before proceeding, or depends on another issue which must be resolved first
-- `needs native review`: the translation needs to be checked by a person fluent in the respective language; alternatively, during the merge process it means that no such review took place
 - `needs rebase`: the pull request has too many small unstructured commits, which need to be rebased and worded in a better way; this is usually done by the maintainers right before the merge
 
 ### Links and redirects
@@ -45,16 +44,74 @@ When adding redirects for a new or existing article, keep in mind that they shou
 
 ### CI checks
 
-The osu! wiki repository uses [continuous integration](https://docs.github.com/en/actions/guides/about-continuous-integration) (CI) to automatically check incoming pull requests for various common errors. The list of checks is configured in the [`continuous-integration.yml`](https://github.com/ppy/osu-wiki/blob/master/.github/workflows/continuous-integration.yml) file. 
+The osu! wiki repository uses [continuous integration](https://docs.github.com/en/actions/automating-builds-and-tests/about-continuous-integration) (CI) to automatically check incoming pull requests for various common errors. The list of checks is configured in the [`continuous-integration.yml`](https://github.com/ppy/osu-wiki/blob/master/.github/workflows/continuous-integration.yml) file.
 
-The [`package.json`](https://github.com/ppy/osu-wiki/blob/master/package.json) file lists all plugins used by the CI, from which some were written by the osu! wiki maintainers.
+The [`package.json`](https://github.com/ppy/osu-wiki/blob/master/package.json) file lists all ([remark](https://github.com/remarkjs/remark)) plugins used by the CI, of which some were written by the osu! wiki maintainers.
 
 The CI checks are run automatically on every commit of a recurring contributor. In order to have their pull requests merged, contributors are expected to fix errors reported by the CI. To see the [status of checks](img/ci-status.png), do the following:
 
 1. Scroll down the pull request's page, find the `osu-wiki continuous integration` status row, and click the `Details` link.
 2. On the new page, expand the `run remark on changed files` step. Each finding is accompanied by its exact location in a file and a short description of why it is an error.
 
-If you need help with decrypting CI check errors, or fixing issues, ask in the `#osu-wiki` channel on Discord.
+Some errors also appear as annotations on the `Files changed` tab below the line where the issue was found.
+
+If you need help with decrypting CI check error messages, or fixing issues, ask in the `#osu-wiki` channel on Discord.
+
+#### Bypassing CI checks
+
+CI checks normally prevent pull requests with errors from getting merged. However, in the event of false errors or discovered bugs in the checks, they can still be bypassed as a fail safe. There are a few situations where intentionally bypassing a CI check is acceptable, as outlined below. Contact a [maintainer](/wiki/People/osu!_wiki_maintainers) if you need to bypass a check for a reason not mentioned here.
+
+For reference, below is a table of all CI checks in order:
+
+| # | Check | Tool | Explanation | Bypass |
+| :-: | :-- | :-- | :-- | :-- |
+| 1 | File sizes | [`scripts/ci/inspect_file_sizes.sh`](https://github.com/ppy/osu-wiki/blob/master/scripts/ci/inspect_file_sizes.sh) | Whether an image file is below the [news post and wiki article image file size limit](/wiki/Article_styling_criteria/Formatting#file-size) (1 MB). Gives a warning for files above 0.5 MB. | None. |
+| 2 | Markdown | [remark](https://github.com/remarkjs/remark) via [`scripts/ci/run_remark.sh`](https://github.com/ppy/osu-wiki/blob/master/scripts/ci/run_remark.sh) | Whether Markdown syntax is correct and consistent in wiki articles and news posts. | Add `<!-- lint ignore rule-name -->` above the offending line, where `rule-name` is the rule to ignore. |
+| 3 | YAML | `check-yaml` command of [`osu-wiki-tools`](https://github.com/Walavouchey/osu-wiki-tools) | Whether YAML syntax is correct and consistent in the [`redirect.yaml`](https://github.com/ppy/osu-wiki/blob/master/wiki/redirect.yaml) file and in [front matter](/wiki/Article_styling_criteria/Formatting#front-matter) | None. |
+| 4 | Broken wiki links | `check-links` command of [`osu-wiki-tools`](https://github.com/Walavouchey/osu-wiki-tools) | Whether internal [wiki links](/wiki/Article_styling_criteria/Formatting#wiki-links) point to an actual article, news post (for news post links), or section thereof. | Add `SKIP_WIKILINK_CHECK` anywhere in the pull request description. |
+| 5 | Outdated translations | `check-outdated-articles` command of [`osu-wiki-tools`](https://github.com/Walavouchey/osu-wiki-tools) | Whether translations are properly [marked as outdated](/wiki/Article_styling_criteria/Formatting#outdated-translations) when updating an English article. | Add `SKIP_OUTDATED_CHECK` anywhere in the pull request description. |
+
+##### Markdown [`no-heading-punctuation`](https://github.com/remarkjs/remark-lint/tree/main/packages/remark-lint-no-heading-punctuation) remark lint rule
+
+Trailing periods in headings normally do not occur because headings are generally not sentences, and are therefore disallowed. However, sometimes trailing punctuation may be needed because e.g. a song title or artist name contains it.
+
+```markdown
+<!-- lint ignore no-heading-punctuation -->
+
+### Amusing Reflection Rag.
+```
+
+##### Markdown [`heading-increment`](https://github.com/remarkjs/remark-lint/tree/main/packages/remark-lint-heading-increment) remark lint rule
+
+Normally, heading levels must only ever increase by one at a time. For [infoboxes](/wiki/Article_styling_criteria/Formatting#infoboxes) however, only heading levels of 4 and 5 are allowed, which may conflict with this rule.
+
+```markdown
+# List of peppy's favourite mappers
+
+::: Infobox
+<!-- lint ignore heading-increment -->
+
+#### peppy
+
+Creator of osu!.
+:::
+```
+
+##### Wiki link check
+
+*See also: [Article styling criteria/Formatting § Wiki links](/wiki/Article_styling_criteria/Formatting#wiki-links)*
+
+Contributors are encouraged to fix broken links while updating articles. That said, for some situations, that may require more work than is relevant for the pull request:
+
+- Small individual fixes to articles (that are not meant to generally clean them up)
+- Section links to a translation where the section does not exist
+- Moving files around (for links already broken not as a result from this)
+
+##### Outdated translation check
+
+*See also: [Article styling criteria/Formatting § Outdated translations](/wiki/Article_styling_criteria/Formatting#outdated-translations) and [Article styling criteria/Writing § Content parity](/wiki/Article_styling_criteria/Writing#content-parity)*
+
+Skipping the outdated translation check (and not marking translations as outdated) may be done for minor rewording, grammatical adjustments, and the like, that do not affect the meaning of the article.
 
 ### Development
 
@@ -64,12 +121,14 @@ The osu! wiki is integrated into the osu! website, which means all technical fea
 
 Some features are not directly related to the osu! website, but may be useful for contributing or general housekeeping. In this case, they are implemented by people capable of it and are **not** added to the website directly:
 
-- [osu-wiki status](https://clayton.cc/osu-wiki-status/en): list of articles per language, and the category of maintenance they require (translation, update, stub expansion). See [ppy/osu-wiki#2486](https://github.com/ppy/osu-wiki/issues/2486) for functionality requests.
+- [osu-wiki status](https://osu.wiki/status/en): list of articles per language, and the category of maintenance they require (translation, update, stub expansion). See [ppy/osu-wiki#2486](https://github.com/ppy/osu-wiki/issues/2486) for functionality requests.
 - [osu-wiki-bin](https://github.com/cl8n/osu-wiki-bin): a Node.js utility for automated checks and edits (broken links, usergroup updates, wiki-wide text replacements, among other things)
+- [osu-wiki-tools](https://github.com/Walavouchey/osu-wiki-tools): a Python utility for automated checks (broken links, outdated articles) used in CI
+- [scissors](https://github.com/TicClick/scissors): a Rust utility for checking username and country flag mismatches in user links
 
 ## Routines
 
-*Note: the [osu-wiki status](https://clayton.cc/osu-wiki-status/en) website shows a list of all articles in need of maintenance, broken down by category.*
+*Note: the [osu-wiki status](https://osu.wiki/status/en) website shows a list of all articles in need of maintenance, broken down by category.*
 
 The wiki relies on input from the osu! community. You can help the maintainers and other contributors by doing your part. For information on how to do that, read the [contribution guide](/wiki/osu!_wiki/Contribution_guide). If at any point you feel stuck, ask for help in the `#osu-wiki` channel of the [osu!dev Discord server](/wiki/Community/osu!dev_Discord_server).
 
@@ -77,11 +136,11 @@ The wiki relies on input from the osu! community. You can help the maintainers a
 
 <!-- note: the GitHub links are intentional here, because they expose many articles of a category at once -->
 
-*For a list of translations and their completeness, see: [osu-wiki status](https://clayton.cc/osu-wiki-status/en)*
+*For a list of translations and their completeness, see: [osu-wiki status](https://osu.wiki/status/en)*
 
 The osu! wiki is read by people from all around the world. To help your local community and attract new awesome players, mappers, modders, and developers into the game, you can translate English articles, or update existing translations that have fallen behind. Check the [list of languages](/wiki/Article_styling_criteria/Formatting#locales) supported by the osu! wiki, and ensure your translation follows the [content parity](/wiki/Article_styling_criteria/Writing#content-parity) principle. If you are a fluent speaker and experienced writer, take on key topics such as articles on [rules](https://github.com/ppy/osu-wiki/tree/master/wiki/Rules) or the [ranking criteria](https://github.com/ppy/osu-wiki/tree/master/wiki/Ranking_Criteria). In case you are only beginning your writing career, pick a small article to receive help and guidance from native reviewers.
 
-A translation may be merged without a native review if it has been more than two weeks since its creation date.
+A translation may be merged without a native review if it has been more than one week since its creation date.
 
 ### Stub expansion
 

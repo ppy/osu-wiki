@@ -1,72 +1,67 @@
----
-outdated_translation: true
----
+# Medallas
 
-# Logros
-
-Los **Logros** ***(Achievements)*** son pequeñas insignias en el perfil de alguien que indican que alguien ha llevado a cabo un objetivo excepcional. Actualmente, están divididos en 5 grupos.
+Las **medallas**, anteriormente conocidas como *logros*, son insignias en el perfil de un usuario que indican ciertos objetivos que ha alcanzado el usuario. Actualmente, hay 280 medallas disponibles para desbloquear en ocho categorías diferentes en total: [Beatmap Packs](#beatmap-packs), [Skill](#skill), [Dedication](#dedication), [Mod Introduction](#mod-introduction), [Hush-Hush](#hush-hush), [Beatmap Spotlights](#beatmap-spotlights), [Seasonal Spotlights](#seasonal-spotlights) y [Beatmap Challenge Packs](#beatmap-challenge-packs).
 
 ## Beatmap Packs
 
-**Los Beatmap Packs** son logros pueden ser obtenidos por **Jugar cada beatmap a al menos una vez en cualquier dificultad** Dentro de un [Theme Beatmap Pack](https://osu.ppy.sh/p/packlist?t=t). Deberá jugar en Modo [osu! Standard](/wiki/Game_mode/osu!) para calificar a **CLEARED (Completado)** en el [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=t) y ganar la insignia.
+Las **medallas Beatmap Packs** son medallas que se otorgan al completar determinados [paquetes de beatmaps temáticos](https://osu.ppy.sh/beatmaps/packs?type=theme) o [paquetes de beatmaps de artistas/álbumes](https://osu.ppy.sh/beatmaps/packs?type=artist). Estas medallas se pueden obtener completando todos los beatmaps al menos una vez en cualquier dificultad dentro del paquete de beatmaps correspondiente.
 
-Actualmente hay 16 logros de este grupo, que se dividen en 4 secciones:-
+Todos los beatmaps deben completarse en el modo de juego [osu!](/wiki/Game_mode/osu!) para calificar para la insignia a menos que se especifique lo contrario. Se permite el uso de [mods de reducción de dificultad](/wiki/Gameplay/Game_modifier#reducción-de-dificultad) o [mods de aumento de dificultad](/wiki/Gameplay/Game_modifier#aumento-de-dificultad), así como [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out).
 
-- Video Game Pack
-- Anime Pack
-- Internet! Pack
-- Rhythm Game Pack
+Sin embargo, vale la pena señalar que el contenido de todos los paquetes de videojuegos, paquetes de anime, paquetes de Internet! y paquetes de juegos de ritmo se ha modificado drásticamente desde [su primera presentación en 2008](https://osu.ppy.sh/community/forums/topics/1853). Para ver la lista de estos paquetes de beatmaps en su estado heredado/original, véase [Paquetes de beatmaps heredados](/wiki/Medals/Legacy_beatmap_packs).
 
-Cada una de estas secciones tiene actualmente 4 volúmenes a ellos.
+## Skill
 
-### Requisitos y notas sobre la obtención de la insignia
+Las **medallas Skill** son medallas que se otorgan al completar varios logros basados en habilidades, ya sea al alcanzar ciertos objetivos de [combo](/wiki/Beatmapping/Combo), al alcanzar ciertos rangos en la [tabla de clasificación de puntos de rendimiento global](https://osu.ppy.sh/rankings/osu/performance) o al lograr un pasar o [completar un combo](/wiki/Gameplay/Full_combo) en cualquier beatmap [calificado](/wiki/Beatmap/Category#calificados), [clasificado](/wiki/Beatmap/Category#clasificados) o [aprobado](/wiki/Beatmap/Category#aprobados), dentro de ciertos rangos de [calificación por estrellas](/wiki/Beatmap/Star_rating).
 
-#### Requisitos
+## Dedication
 
-- Jugar cada beatmap una vez en cualquier dificultad dentro de una [Theme Beatmap Pack](https://osu.ppy.sh/p/packlist?t=t) es suficiente.
-- El modo debe ser [osu! Standard](/wiki/Game_mode/osu!).
-- Extraer el Theme pack, Coloque todos los beatmaps del .zip en osu.! Ejecutar tu osu! y comenzar a jugar. Eso es todo.
-  - Si el beatmap se encuentra en .zip, debe extraerlo como .zip y no ir a hacer carpetas para ellos. Si se hacen las carpetas para ellos, es posible que no obtenga el logro y el estado "**CLEARED (Completado)**" en su [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=t)
-  - Alternativamente, usted puede descargar las canciones manualmente de uno en uno, sigue siendo valido.
-- Cualquier variación (como creador diferentes) De la canción no es contado. Debe ser esa canción específica y el creador específico en ese Beatmap.
-- Su cuenta en cuestión debe estar logeado en osu!. Tener Sección iniciada en el Sitio web de osu! pero no el juego, no cuentan.
-- Los Mods pueden utilizarse pero no mods que pueden jugar sin clasificar (como Auto-Piloto). Use los mods sabiamente a su favor.
+Las **medallas Dedication** son medallas otorgadas al alcanzar ciertos objetivos de número de jugadas en el modo de juego osu!, o al alcanzar objetivos de número total de golpes en osu!taiko, osu!catch y osu!mania.
 
-#### Notas
+## Mod Introduction
 
-- Después de completar su logro, usted puede borrar las canciones del tema. Su achievement (Logro), ranked score y accuracy (Precisión) Se guardaran. Si lo que quieres es mejorar tu ranked score (Puntuación) y la accuracy (Precisión) de los beatmap, puede hacerlo personalmente y jugar el beatmap de nuevo.
-- Si usted se pregunta ¿por qué usted no tiene la insignia? y se siente como si no fuera una canción, usted puede comprobar el [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=t) aqui. La canción que se haya terminado, se marcará **CLEARED** en negrita.
-- la insignia se le dará después de completar todas las canciones de ese tema en cuestión.
-  - Sea paciente y asegúrese de que su puntuación se presenta y se clasifican correctamente primero. ¿No querrá repetir que la canción beatmap otra vez sobre todo si es difícil para usted?
-- Como los beatmaps son bastante antiguos puede ser posible que deba hacer uso del "Off-set Wizard", ya que los Hit-Circles pueden aparecer mal sincronizados. (Antes/Después, del tiempo correcto)
+*Véase también: [Modificador de juego](/wiki/Gameplay/Game_modifier)*
 
-#### Trivia
+Las **medallas Mod Introduction** son medallas que se otorgan al completar cualquier beatmap [calificado](/wiki/Beatmap/Category#calificados), [clasificado](/wiki/Beatmap/Category#clasificados) o [aprobado](/wiki/Beatmap/Category#aprobados) con su correspondiente [modificador de juego (mod)](/wiki/Gameplay/Game_modifier). Estas medallas están destinadas a alentar a los jugadores más nuevos a probar cada mod y explorar lo que el juego tiene para ofrecer. Tenga en cuenta, sin embargo, que si los jugadores juegan con múltiples modificadores de juego a la vez, el jugador **no** es elegible para ganar *ninguna* de las medallas de modificador de juego para esa jugada.
 
-- 16 packs. (4 temas x 4 volumenes)
-  - 1 hora 20 minutos = 1 pack (Estimación del tiempo requerido para completar un beatmap pack)
-- 211 canciones (206 + 3 ![Ranked](/wiki/shared/icon/heart.gif "Ranked") rankeadas, 1 ![Approved](/wiki/shared/icon/flame.gif "Approved") aprobadas y 1 pendiente)
-- 662 dificultades (660 ![Ranked](/wiki/shared/icon/heart.gif "Ranked") rankeadas, 1 ![Approved](/wiki/shared/icon/flame.gif "Approved") aprobadas y 1 pendiente)
-- 1.39 GB (zipped), 1.47 GB (importado)
-- 3 minutos 33 segundos. (Estimación de tiempo de importación de todos los 16 packs)
-
-## Combo
-
-Los Logros de **Combo** Se puede obtener al adquirir un determinado [Combo](/wiki/Beatmapping/Combo) en el modo osu! Standard y se puede completar con cualquier canción.
-Lograr el mismo combo en Taiko, Catch the Beat u osu!mania NO es valido para conseguir el logro.
-
-Para el logro de 1,000 y 2,000 combo, Debe ser un beatmap en estado "Aprobado". No busque beatmaps sin Aprobar o de otra forma no podra conseguir el logro.
-
-## Dedicación (Dedication)
-
-Los logros por **Dedicación (Dedication)** pueden ser obtenidos por (Jugando continuamente en modo Standard / Recoger muchas frutas en modo [Catch the Beat (CTB)](/wiki/Game_mode/osu!catch) / golpear un montón de golpes los tambores en modo [Taiko](/wiki/Game_mode/osu!taiko) / presionando muchas teclas en [osu!mania](/wiki/Game_mode/osu!mania)).
+Todas las medallas de introducción a mods se pueden desbloquear en cualquier [modo de juego](/wiki/Game_mode), a menos que se especifique lo contrario.
 
 ## Hush-Hush
 
-Los logros de este tipo tienen una forma clara de llegar a ellos. El propio jugador debe descubrir lo que tiene que hacer para desbloquear el logro.
-Spoilear El método para desbloquear estos logros concretos "tendrá como resultado el Baneo de tu cuenta. " (Era la regla antes del 16 de Agosto 2017. Esto ya es permitido)
+Las **medallas Hush-Hush** son medallas «secretas» otorgadas por realizar hazañas muy específicas, que no se le dicen explícitamente al jugador (de ahí el nombre). Estas hazañas pueden ir desde completar un beatmap en circunstancias peculiares hasta establecer una puntuación con una combinación de mods inusual. A pesar de su naturaleza reservada, hay pistas para ayudar a todos los curiosos cazadores de medallas en su detective de la siguiente manera:
 
-`El propio título es una pista sobre como obtener estos logros.`
+- Los nombres de las medallas en sí,
+- Las breves descripciones de las medallas, y
+- Los *flair texts* de las medallas (si las hay), que se pueden ver al pasar el cursor sobre sus tarjetas correspondientes.
 
-## Link Externo
+Como las medallas Hush-Hush están destinadas a ser logros secretos de algún tipo, los requisitos de desbloqueo no se especifican directamente; sin embargo, los jugadores son [bienvenidos a trabajar juntos para descubrir cómo obtener todas las medallas Hush-Hush que existen](https://osu.ppy.sh/home/news/2016-08-17-new-hush-hush-medals).
 
-- peppy's Achievement Graphics [1](https://osu.ppy.sh/community/forums/topics/80448)
+## Beatmap Spotlights
+
+Las **medallas Beatmap Spotlights** son medallas otorgadas al completar ciertos paquetes de beatmaps lanzados como parte de los [beatmaps destacados mensuales](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights). Para desbloquear las medallas en esta categoría, un jugador debe jugar en todos los mapas *en cualquiera de los cuatro paquetes de modo de juego* que se disputan en la tabla de clasificación de beatmaps destacados correspondiente. Los siguientes mods están permitidos para su uso:
+
+- [Mods de reducción de dificultad](/wiki/Gameplay/Game_modifier#reducción-de-dificultad)
+- [Mods de aumento de dificultad](/wiki/Gameplay/Game_modifier#aumento-de-dificultad)
+- [xK](/wiki/Gameplay/Game_modifier/xK), [Mirror](/wiki/Gameplay/Game_modifier/Mirror), y [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out)
+
+Aunque los beatmaps destacados mensuales se suspendieron a partir de abril de 2018 a favor de los [destacados de temporada](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018), todas las medallas pertinentes aún se pueden obtener hasta el día de hoy.
+
+## Seasonal Spotlights
+
+Las **medallas Seasonal Spotlights** son medallas que se otorgan al completar ciertos paquetes de beatmaps lanzados como parte de [destacados de temporada](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018). Para desbloquear las medallas en esta categoría, un jugador debe jugar en todos los mapas *en cualquiera de los cuatro paquetes de modo de juego* que se disputan en la tabla de clasificación de destacados de temporada correspondiente. Los siguientes mods están permitidos para su uso:
+
+- [Mods de reducción de dificultad](/wiki/Gameplay/Game_modifier#reducción-de-dificultad)
+- [Mods de aumento de dificultad](/wiki/Gameplay/Game_modifier#aumento-de-dificultad)
+- [xK](/wiki/Gameplay/Game_modifier/xK), [Mirror](/wiki/Gameplay/Game_modifier/Mirror), y [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out)
+
+Aunque los destacados de temporada se suspendió a principios de 2020 a favor del [actual sistema de beatmaps destacados](/wiki/Beatmap_Spotlights), todas las medallas pertinentes aún se pueden obtener hasta el día de hoy.
+
+## Beatmap Challenge Packs
+
+Las **medallas Beatmap Challenge Packs**, o también conocidas como [*medallas de paquetes de habilidad*](https://osu.ppy.sh/home/news/2020-11-20-featured-artist-beatmap-updates-from-the-mappers-guild#skill-packs), son medallas que se otorgan al superar la dificultad más difícil presente en todos los beatmaps que aparecen en ciertos [paquetes de beatmaps temáticos](https://osu.ppy.sh/beatmaps/packs?type=theme) o [paquetes de beatmaps de artistas/álbumes](https://osu.ppy.sh/beatmaps/packs?type=artist) *sin ninguna [reducción de dificultad](/wiki/Gameplay/Game_modifier#reducción-de-dificultad) o mods [especiales](/wiki/Gameplay/Game_modifier#especiales) habilitados*. Estos beatmaps están seleccionados específicamente para probar la comprensión de cada jugador de varios aspectos del juego en torno a un nivel de habilidad específico, por ejemplo dentro de una [calificación por estrellas](/wiki/Beatmap/Star_rating) particular o rango de límite de dificultad.
+
+Todos los beatmaps del paquete deben completarse en el modo de juego [osu!](/wiki/Game_mode/osu!) para calificar para la insignia, a menos que se especifique lo contrario.
+
+## Véase también
+
+- [Requisitos para desbloquear medallas](Unlock_requirements)

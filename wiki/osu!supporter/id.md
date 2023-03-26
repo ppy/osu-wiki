@@ -1,8 +1,12 @@
 ---
+outdated_translation: true
+outdated_since: aa750946913bfd81cd3ede0b23dbf925b56d7bdd
 tags:
   - supporter tag
   - osu!supporter tag
 ---
+
+<!--The strings on the website on line 150 have been updated as of https://github.com/ppy/osu-web/pull/9820. To update this page, also check if the corresponding strings on crowdin need to be updated.-->
 
 # osu!supporter
 

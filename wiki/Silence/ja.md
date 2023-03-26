@@ -1,6 +1,11 @@
+---
+outdated_translation: true
+outdated_since: 203a715b0188784607756ebee4cd0a3daa7ddf3d
+---
+
 # サイレンス
 
-**サイレンス**はユーザーのコミュニケーション手段を制限することを表す用語です。サイレンスは[Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team)(GMT)と[Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team)(NAT)が行うことができ、[コミュニティルール](/wiki/Rules)に従わないユーザーのみ行われます。
+**サイレンス**はユーザーのコミュニケーション手段を制限することを表す用語です。サイレンスは[Global Moderation Team](/wiki/People/Global_Moderation_Team)(GMT)と[Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team)(NAT)が行うことができ、[コミュニティルール](/wiki/Rules)に従わないユーザーのみ行われます。
 
 ## 制限の内容
 
@@ -18,7 +23,7 @@
 - ビートマップを作成・更新する
 - [マルチプレイヤ－](/wiki/Client/Interface/Multiplayer)ゲームに参加する
 
-上記に加えて、サイレンスされたユーザーの発言はすべてのパブリックチャンネルとプライベートチャンネルから削除されます[[1]](https://blog.ppy.sh/post/38114063519/this-week-in-osu-5)。
+上記に加えて、サイレンスされたユーザーの発言はすべてのパブリックチャンネルとプライベートチャンネルから削除されます。[^chat-cleanup]
 
 ::: Infobox
 ![](img/silence-ingame.png "チャット画面でのサイレンスの警告")
@@ -28,7 +33,7 @@
 
 ## サイレンスの異議申し立て
 
-もしあなたが不当にサイレンスを受けたと思うのであれば、異議申し立てを[アカウントサポートチーム](/wiki/People/The_Team/Account_support_team#accounts@ppy.sh)の[accounts@ppy.sh](mailto:accounts@ppy.sh)まで連絡してください。その際、あなたのosu!アカウントに紐づくメールアドレスから、ユーザー名とサイレンスを受けた大体の時間を明記してください。
+もしあなたが不当にサイレンスを受けたと思うのであれば、異議申し立てを[アカウントサポートチーム](/wiki/People/Account_support_team#accounts@ppy.sh)の[accounts@ppy.sh](mailto:accounts@ppy.sh)まで連絡してください。その際、あなたのosu!アカウントに紐づくメールアドレスから、ユーザー名とサイレンスを受けた大体の時間を明記してください。
 
 ## サイレンスの一般的な理由
 
@@ -38,3 +43,7 @@
 - 他の手段で不適切なコンテンツをアップロードまたは投稿すること(例：プロフィール画像、ビートマップ、プロフィールの詳細、ユーザーページのbio、バナーなど）
 
 サイレンスの長さは、違反の深刻さによって異なる場合があります。また、違反するごとに長さが増加します。違反の度合いが大きい場合、または違反が繰り返される場合、サイレンスの代わりに[アカウント制限](/wiki/Help_centre/Account_restrictions)の対象となることがありますのでご注意ください。
+
+## 出典
+
+[^chat-cleanup]: [Blog post by ppy (2012-12-17) "This Week in osu!"](https://blog.ppy.sh/post/38114063519/this-week-in-osu-5)

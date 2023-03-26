@@ -18,6 +18,7 @@ Global Taiko Showdown シリーズの一覧。
 
 - [Expert Global Taiko Showdown 2020](EGTS_2020)
 - [Expert Global Taiko Showdown 2021](EGTS_2021)
+- [Expert Global Taiko Showdown 2022](EGTS_2022)
 
 ## Intermediate Global Taiko Showdown
 
@@ -27,9 +28,13 @@ Global Taiko Showdown シリーズの一覧。
 - [Intermediate Global Taiko Showdown 2021](IGTS_2021)
 - [Intermediate Global Taiko Showdown 2022](IGTS_2022)
 
+## Rising Global Taiko Showdown
+
+- [Rising Global Taiko Showdown 2021](RGTS_2021)
+- [Rising Global Taiko Showdown 2022](RGTS_2022)
+
 ## その他
 
 - [Katacheh Global Taiko Showdown 2019](KGTS_2019)
 - [Beginner Global Taiko Showdown 2020](BGTS_2020)
-- [Rising Global Taiko Showdown 2021](RGTS_2021)
 - [Squad Global Taiko Showdown 2021](SGTS_2021)

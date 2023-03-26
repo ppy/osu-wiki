@@ -11,11 +11,13 @@ Indexseite für Artikel über den Spiel-Client von osu! und seine Hauptabschnitt
 
 ## Übersicht
 
-- [Installation](Installation)
-- [Tastenkürzel](Keyboard_shortcuts)
-- [Benutzeroberfläche](Interface)
-- [Optionen](Options)
 - [Beatmap-Editor](Beatmap_editor)
+- [Installation](Installation)
+- [Benutzeroberfläche](Interface)
+- [Menütipps](Menu_tips)
+- [Optionen](Options)
+- [Updatequelle](Release_stream)
+- [Tastenkürzel](Keyboard_shortcuts)
 
 ## Technische Details
 

@@ -2,6 +2,7 @@
 tags:
   - forums
   - subforum
+  - sub-forum
 ---
 
 # Forum
@@ -14,27 +15,27 @@ The osu! forums provide features similar to most internet forums: [BBCode](/wiki
 
 ## Structure
 
-Each of the osu! forums contains a variety of **topics**, sometimes called threads, as well as smaller categories, or **subforums**. Most of the forums are English only, but there also exists a number of [language-specific](https://osu.ppy.sh/community/forums#forum-23) forums for local communities that are large enough.
+Each of the osu! forums contains a variety of **topics**, sometimes called threads, as well as smaller categories, or **subforums**. Most of the forums are English only, but there also exists a number of [language-specific](https://osu.ppy.sh/community/forums/23) forums for local communities that are large enough.
 
 While some forums, such as [Mapping Discussion](https://osu.ppy.sh/community/forums/56), have specific requirements or guidelines, all of them follow [the community rules](/wiki/Rules).
 
 ## Roles and user groups
 
-Some users may belong to one or several custom groups, based on their community tasks, access rights, or past activity. A full list of user groups can be found at [The Team § User groups](/wiki/People/The_Team#user-groups).
+Some users may belong to one or several custom groups, based on their community tasks, access rights, or past activity. A full list of user groups can be found at [The Team § User groups](/wiki/People/osu!_team#user-groups).
 
-In addition to user group badges provided by group membership, users may have [custom user titles](/wiki/User_title) displayed under the avatar in each of their posts.
+In addition to user group badges provided by group membership, users may have [custom user titles](/wiki/Community/User_title) displayed under the avatar in each of their posts.
 
 ### Moderation
 
 *See also: [Reporting bad behaviour § Forum](/wiki/Reporting_bad_behaviour#forum)*
 
-[Moderators](/wiki/People/The_Team/Global_Moderation_Team) are users who keep the forums clean and appropriate, and answer concerns related to that. Moderators can edit or delete inappropriate posts or topics, pin topics and move them between different forums, and temporarily prevent offenders from posting by [silencing](/wiki/Silence) them.
+[Moderators](/wiki/People/Global_Moderation_Team) are users who keep the forums clean and appropriate, and answer concerns related to that. Moderators can edit or delete inappropriate posts or topics, pin topics and move them between different forums, and temporarily prevent offenders from posting by [silencing](/wiki/Silence) them.
 
 ## Special forums
 
 Some of the forums have different purposes that are not limited to discussion. As a result, they have extra rules and/or technical capabilities.
 
-- [Help](/wiki/Community/Forum/Help): technical support from the [Support Team](/wiki/People/The_Team/Support_Team) and regular users.
+- [Help](/wiki/Community/Forum/Help): technical support from the [Support Team](/wiki/People/Support_Team) and regular users.
 - [Feature Requests](/wiki/Community/Forum/Feature_Requests): suggestions for osu! development.
 - [Modding Queues](/wiki/Community/Forum/Modding_Queues): beatmap reviews done by other mappers and modders.
 - [Off-Topic](/wiki/Community/Forum/Off-Topic): the place for the not-so-logical discussions.
@@ -44,9 +45,9 @@ Additionally, there are other forums similar to Abandoned Wasteland, which serve
 
 ## History
 
-[The first public forum post](https://osu.ppy.sh/community/forums/topics/2) is dated August 28, 2007, and belongs to [peppy](/wiki/People/peppy). During that time, the osu! website used [phpBB](https://en.wikipedia.org/wiki/PhpBB) as its forum engine, which over the years has been significantly expanded to suit the game and community's needs. Some of its customisations included:
+[The first public forum post](https://osu.ppy.sh/community/forums/topics/2) is dated August 28, 2007, and belongs to ::{ flag=AU }:: [peppy](/wiki/People/peppy). During that time, the osu! website used [phpBB](https://en.wikipedia.org/wiki/PhpBB) as its forum engine, which over the years has been significantly expanded to suit the game and community's needs. Some of its customisations included:
 
-- Integration with the [beatmap submission system](/wiki/Submission)
+- Integration with the [beatmap submission system](/wiki/Beatmapping/Beatmap_submission)
 - The [kudosu](/wiki/Modding/Kudosu) and [beatmap ranking](/wiki/Beatmap_ranking_procedure) systems
 - [Help](/wiki/Community/Forum/Help) and [Feature Requests](/wiki/Community/Forum/Feature_Requests) forums
 - [osu!supporter](/wiki/osu!supporter) and user pages

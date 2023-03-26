@@ -7,9 +7,11 @@ tags:
 
 # Official tournament support
 
-The [osu! team](/wiki/People/The_Team) runs a program where they may opt to provide community-run tournaments that abide by a certain set of criteria and expectations with extra support, at their discretion.
+*For beatmapping contest support, see: [Official contest support](/wiki/Contests/Official_support).*
 
-This article was last updated on January 9, 2022. For any queries and clarifications, please consult the `#tournaments` channel on the [osu!dev Discord server](https://discord.com/invite/ppy) or send an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+The [osu! team](/wiki/People/osu!_team) runs a program where they may opt to provide community-run tournaments that abide by a certain set of criteria and expectations with extra support, at their discretion.
+
+This article was last updated on March 22, 2023. For any queries and clarifications, please consult the `#tournaments` channel on the [osu!dev Discord server](https://discord.com/invite/ppy) or send an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 
 ## Benefits
 
@@ -23,13 +25,18 @@ Officially supported tournaments have access to:
 
 Community-run tournaments which abide by the following hard criteria are eligible for support:
 
-- The tournament series must run no more than four times per year.
-- The tournament must operate on a Round of 16 double-elimination format at a minimum, **OR**, have at least 64 players (or 16 teams) participating. Larger scales and formats are permitted.
-- The tournament is organised and run by an *experienced team of accomplished and reputable staff*,[^experience] **OR**, the tournament *has been run at least once before without receiving rewards*.
-- Staff members must not participate in the tournament themselves at any point, and players are unable to later assist as staff either. For our definition on "staff", please refer to the [FAQ](#what-is-considered-staff).
+- The tournament series must run no more than two times per year.
+- The tournament must operate on a Round of 16 double-elimination format at a minimum — alternative scales and formats may be permitted at the sole discretion of the osu! team. Hosts should contact [tournaments@ppy.sh](mailto:tournaments@ppy.sh) if they are seeking to receive tournament support for a non-traditional tournament format or size.
 - The forum thread for the tournament **MUST** contain a clearly visible link in a normal-sized font to the [tournament reports form](https://pif.ephemeral.ink/tournament-reports) as the very last content of the original post.
   - `https://pif.ephemeral.ink/tournament-reports`
-  - This report form is overseen by the [Tournament Committee](/wiki/People/Tournament_Committee). We encourage all users — players and staff alike — to make use of this form where necessary.
+  - This report form is overseen by the [Tournament Committee](/wiki/People/Tournament_Committee). We encourage all users — players and staff alike — to make use of this form where necessary. Any breaches of [expectations](#expectations), [other procedures](#other-procedures), or [eligibility](#eligibility) requirements should prompt a report.
+- The tournament only allows players of exceptional skill to participate, disallowing players lower than the following ranks in each game mode:
+  - osu!: 100,000
+  - osu!taiko: 10,000
+  - osu!catch: 5,000
+  - osu!mania: 40,000
+  - This does not apply to open rank tournaments.
+- The tournament must adhere to all [expectations](#expectations) of officially supported tournaments.
 
 ## Requesting Support
 
@@ -44,7 +51,7 @@ If your tournament satisfies the [eligibility criteria](#eligibility), you can m
   - Public Discord servers or any other off-site chatrooms used for the event.
   - Previous iterations of the same tournament series (only where applicable).
 - Separate lists for:
-  - The staff and helpers involved in running the tournament (see [FAQ](#what-is-considered-staff)).
+  - The staff involved in running the tournament.
   - The users who have registered to participate in the tournament (see [tournament screening](#tournament-screening)).
 
 Once we receive your request, the account support team will return a list of users who are ineligible to participate in tournaments. Please allow ample time for a response. We will try our best to handle all requests within a week, but we occasionally have large spikes in workload that can make this impossible.
@@ -70,7 +77,10 @@ In addition, all promotional material or any services associated with a tourname
 - If a user satisfies the sign-up criteria (if any), the tournament must not prevent those who pass the screening from participating without both ample evidence presented publicly against them and the approval of the account support team.
   - This includes preventing users who are perceived to be "sandbagging" from play. Should an organiser have valid concerns about the presence of such players affecting the competitive integrity of their tournament, they may raise the issue to the [Tournament Committee](/wiki/People/Tournament_Committee) for a case-by-case review using the [tournament reports form](https://pif.ephemeral.ink/tournament-reports).
 - A dedicated referee must be present during every match. Players cannot "self-ref".
-- All multiplayer matches relevant to the tournament must be created with the `!mp make` command, so that they do not expire. The results must be recorded and made publicly available on the original tournament forum post in a clear and accessible format.
+  - The use of bots is allowed on qualifier stage matches, provided that it is supervised by a staff member.
+- Asynchronous matches are not allowed under any circumstances. All participating teams must be present at the scheduled match time.
+- All multiplayer matches relevant to the tournament must be created with the `!mp make` command, so that they do not expire. The results must be recorded and made publicly available on the original tournament forum post or an outside source linked on the forum post in a clear and accessible format.
+- All rule changes should be communicated clearly to all participants. Those should keep the expectations noted [above](#tournaments).
 
 Once the tournament has concluded, the tournament organisers will need to submit the following to the account support team:
 
@@ -82,7 +92,15 @@ Once the tournament has concluded, the tournament organisers will need to submit
 
 Tournament organisers are expected to ensure that their tournaments run smoothly and with minimal disruption where possible.
 
-Users under an active tournament ban are expected to disclose their tournament ban status to any officially supported tournament they intend to help with. They may be enlisted as [helpers](#what-is-considered-staff) at the host's discretion, but we encourage careful consideration of such choices as said individuals have already infringed upon the rules once (or more). They may not act as [staff](#what-is-considered-staff) UNLESS the host requests an exemption for them when sending in their initial request for support. The account support team will then assess these on a case-by-case basis with the user's history in mind.
+With regards to staff roles, the following rules apply:
+
+- Streamers, commentators, and graphic designers may play in the tournament.
+- Eliminated players may be enlisted as referees, mappool playtesters, and/or replay creators.
+- Staff with any role not listed here, may not play in a badged tournament — if you have any doubts, please contact [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+
+Users under an active tournament ban are expected to disclose their tournament ban status to any officially supported tournament they intend to help with. They may be enlisted as streamers, commentators, or graphic designers at the host's discretion, but we encourage careful consideration of such choices as said individuals have already infringed upon the rules once (or more). They may not act as any other staff role UNLESS the host requests an exemption for them when sending in their initial request for support. The account support team will then assess these on a case-by-case basis with the user's history in mind.
+
+Anyone whose conduct results in a tournament losing its official support may not fulfill the same roles in, nor be the host or admin of, another badged tournament for at least 4 months.
 
 ### Players
 
@@ -117,11 +135,13 @@ User4,Team2,1234567
 
 Once screening concludes, the account support team will provide a list of any users who failed screening and are not considered eligible for tournament play, without providing specific reasoning. Individual users who are unhappy with their screening outcome should be told to consult [accounts@ppy.sh](mailto:accounts@ppy.sh) via email.
 
+Only players who are participating in the tournament **or** would be likely substitutes for a team made during the course of the tournament should be sent for screening. For example, in a country-based tournament using a tryouts system, organisers are encouraged to send only the players determined to be participating after the tryouts conclude, along with several substitutes for each team in the event they need to participate. For clarifications on which registrants are relevant for screening for a particular tournament, contact the [Tournament Committee](/wiki/People/Tournament_Committee).
+
 **Allowing users that have failed screening to play in your tournament will result in an immediate withdrawal of support and will result in future requests for support to be denied.**
 
 ### Profile Badges
 
-Officially supported tournaments that satisfy the [expectations above](#expectations) are eligible to request profile badge prizes following completion. **Badges will never be approved until after the conclusion of the tournament.**
+Officially supported tournaments that satisfy the [expectations above](#expectations) are eligible to request profile badge prizes following completion. Profile badge prizes must be requested at most two weeks after tournament completion. **Badges will never be approved until after the conclusion of the tournament.**
 
 Profile badge images must adhere to the following standards:
 
@@ -137,7 +157,13 @@ Please consult the following examples of approved badge designs:
 
 Badge images that do not meet these standards will be refused with given reasoning, and you may be asked to completely redesign your badge in some cases. This is fairly uncommon, but should be accounted for.
 
-In exceptionally rare cases, a tournament may be granted the privilege of awarding badges to its top three finalists. A tournament that has received this distinction is recognised for attaining the highest level of production quality and organisation possible — this is given exclusively at the discretion of the osu! team. Hosts will be contacted directly if applicable.
+In exceptionally rare cases, a tournament may be granted the privilege of awarding badges to its top three finalists. A tournament that has received this distinction is recognised for attaining the highest level of production quality and organisation possible — this is given exclusively at the discretion of the osu! team. If you believe your tournament meets the expectations to receive this distinction, you may request it when submitting your initial badge request.
+
+Examples of exceptional tournaments that have met these expectations:
+
+- [Corsace Open](https://osu.ppy.sh/community/forums/topics/1607468)
+- [Expert Global Taiko Showdown](/wiki/Tournaments/GTS/EGTS_2022)
+- [Springtime osu!mania Free-for-all Tournament](/wiki/Tournaments/SOFT/6)
 
 ### Requesting main-menu banner support
 
@@ -171,24 +197,6 @@ Please do not submit a main menu banner with your original request — you will 
 
 ## Frequently Asked Questions
 
-### Why does a tournament have to run at least twice or more in order to qualify for profile badges without experienced staff present? {#twice-or-more}
-
-The second iteration of a tournament is often free of a lot of the organisational issues of the first tournament, and has established a solid workflow and staff involved in its production. They are far less likely to peter out or be subject to questionable choices. The tournament is also far more identifiable if it runs more than just once.
-
-For all of these reasons (and more), we ask that profile badge prizes are only awarded to tournaments that have successfully run at least once before, unless a sizeable majority of the team is experienced and accomplished at running tournaments in the past.
-
-### What is considered "staff" as far as tournament management goes? {#what-is-considered-staff}
-
-If a user has access to information that could conceivably influence the outcome of the tournament/contest, they are considered staff. To clarify, we consider organisers, referees, mappool selectors, mappool playtesters, custom mappers, judges, or any other form of managerial position directly involved in the maintenance and operation of the tournament/contest to be a part of its staff. This list is not exhaustive — if you have any doubts, please contact [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
-
-Commentators, streamers, and graphic designers are designated as **helpers**, and may participate in tournaments/contests freely so long as they are not directly involved in any organisational aspect of the tournament/contest.
-
-We have historically had issues where unscrupulous organisers have geared tournaments specifically (i.e. picked maps they're familiar with, adjusted seeds/brackets, etc.) to farm profile badges for themselves and their friends. While we understand that most groups will not do this, we must enforce this restriction to keep things fair for everyone.
-
-### Can a player who has been eliminated from play in my tournament join the staff after the fact and not cause problems? {#player-join-staff}
-
-No. Players who have been eliminated from the tournament/contest may not be enlisted as staff or assist in any organisational capacity with the sole exception of setting replays for mappool showcases. They can, however, be enlisted as a helper.
-
 ### If a user has not yet played any matches, can they join the staff? {#no-play-join-staff}
 
 A registrant who has passed screening but has not been scheduled for any matches **AND** has not participated in any gameplay (including qualifiers) is not yet considered a player/participant of the tournament, and may therefore still be enlisted as staff.
@@ -203,11 +211,8 @@ Flooding the game with profile badges dilutes the prestige of the prize for ever
 
 ### Can I request a badge for a beatmap contest or other type of competition? {#contest-support}
 
-For beatmap contests, yes, just follow the same rules as above. We highly recommend using [Featured Artists](https://osu.ppy.sh/beatmaps/artists) for such contests and will flagrantly give preferential treatment to those who do.
-
-For other contests, email us and ask personally. We'll try to work something out.
+Yes! See [Official contest support](/wiki/Contests/Official_support) for details.
 
 ## Notes
 
-[^experience]: An "experienced" staff member is loosely defined as someone who has contributed significantly to the successful running of at least **three** badge-receiving tournaments beforehand, or has been a part of an official World Cup volunteer team for any game mode. This may vary at the discretion of the account support team.
 [^play-commence]: Play "commences" once any seedings or brackets have been determined. Therefore, qualifiers may be exempt from this.

@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Schrift
 
 *Für die Formatierungsstandards, siehe: [Artikelgestaltungskriterien/Formatierung](../Formatting)*
@@ -20,13 +24,15 @@ Es gibt einige Ausnahmen, in denen sich der Inhalt unterscheiden darf:
 
 ## Sprachregister
 
-Es gibt zwei Sprachregister im Wiki: neutral und informell.
+Es gibt drei Sprachregister im Wiki: formell, neutral und informell.
 
 Standardmäßig wird das neutrale Register verwendet.
 
 Das informelle Register wird speziell für eine kleine Handvoll von Artikeln benutzt. Einige Beispiele mit diesem Register sind das [FAQ](/wiki/FAQ) und das [Hilfecenter](/wiki/Help_centre).
 
-Alle Regeln der Artikelgestaltungskriterien müssen für beide Register befolgt werden. Ausnahmen für jedes Register werden dokumentiert.
+Für rechtliche Artikel (z. B. die [Datenschutzerklärung](/wiki/Legal/Privacy)) wird das formelle Register verwendet.
+
+Alle Regeln der Artikelgestaltungskriterien müssen für jedes Register befolgt werden. Ausnahmen der Register werden dokumentiert.
 
 ## Großschreibung
 
@@ -168,53 +174,21 @@ Gutes Beispiel:
 25. Oktober 2016 (11:45 UTC)
 ```
 
-## Spielmodi
-
-Spielmodi müssen wie folgt geschrieben werden:
-
-- `osu!`
-- `osu!taiko`
-- `osu!catch`
-- `osu!mania`
-
-Verweise auf die alten Namen der Spielmodi (also `Catch the Beat`, `Taiko` und `Mania`) dürfen auch in ihrer eigenen Schreibweise benutzt werden, sofern es thematisch um die alten Namen geht.
-
 ## osu!
 
-Der Name des Spiels, osu!, darf nicht großgeschrieben werden oder kursiv sein. Offizielle osu!-Marken dürfen keine Leerzeichen enthalten. Beispiele sind:
+Wenn das Spiel selbst oder eines der damit verbundenen Projekte oder Begriffe genannt wird, dann folge den [Richtlinien zur Markenidentität](/wiki/Brand_identity_guidelines#osu!). Verwende die Eigennamen der Spielmodi, wie beispielsweise `osu!taiko`, außer es ist in einem historischen Kontext.
 
-- `osu!academy`
-- `osu!api`
-- `osu!catch`
-- `osu!direct`
-- `osu!keyboard`
-- `osu!mania`
-- `osu!store`
-- `osu!stream`
-- `osu!supporter`
-- `osu!tablet`
-- `osu!taiko`
-- `osu!talk`
-- `osu!tourney`
+### Benutzertitel
 
 Benutzertitel, die `osu!` als Teil des Titels enthalten, müssen großgeschrieben werden. Beispiele sind:
 
 - `osu! Alumni`
 - `osu! Champion`
 
-Für alle anderen Begriffe muss osu! als einzelnes Nomen behandelt werden. Das bedeutet, es wird ein Bindestrich zwischen osu! und dem Namen, welcher modifiziert wird, gesetzt. Beispiele sind:
+### osu! in einem Satz
 
-- `osu!-Turniere`
-- `osu!-Community`
-- `osu!-Chat`
-- `osu!-Client`
-- `osu!-Wiki`
-
----
-
-`osu!` sollte nicht an einem Satzende stehen. Sofern das der Fall ist, sollte ein Punkt (`.`) oder Fragezeichen hinten angehängt werden, also `osu!.` oder `osu!?`.
-
-Hinter `osu!` darf kein Ausrufezeichen folgen (also `osu!!`). Der Satz muss umformuliert werden, damit das nicht vorkommt.
+- `osu!` sollte nicht an einem Satzende stehen. Sofern das der Fall ist, sollte ein Punkt (`.`) oder Fragezeichen hinten angehängt werden, also `osu!.` oder `osu!?`.
+- Hinter `osu!` darf kein Ausrufezeichen folgen (also `osu!!`). Der Satz muss umformuliert werden, damit das nicht vorkommt.
 
 ## Terminologie
 

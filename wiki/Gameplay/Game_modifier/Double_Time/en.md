@@ -11,8 +11,8 @@ tags:
 
 ![DT mod icon](/wiki/shared/mods/DT.png "Double Time (DT) mod icon")
 
-*For the full list of all mods, see: [Game Modifier](/wiki/Game_modifier)*\
-*See also: [Nightcore (mod)](/wiki/Game_modifier/Nightcore)*
+*For the full list of all mods, see: [Game Modifier](/wiki/Gameplay/Game_modifier)*\
+*See also: [Nightcore (mod)](/wiki/Gameplay/Game_modifier/Nightcore)*
 
 ## About
 
@@ -26,13 +26,13 @@ tags:
 - Default shortcut key: `D`
 - Caption: `Zoooooooooom.`
 - Compatible game modes: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- Variant: [Nightcore](/wiki/Game_modifier/Nightcore)
+- Variant: [Nightcore](/wiki/Gameplay/Game_modifier/Nightcore)
 
 ## Description
 
 *Note: The method used to increase the speed does not increase the pitch of the song.*
 
-The **Double Time** mod is a [game modifier](/wiki/Game_modifier) that attempts to increase the difficulty of a [beatmap](/wiki/Beatmap) by increasing their overall speed (BPM) by 150% (1.5x), reducing the length of the song by 33%, and increasing the [approach rate (AR)](/wiki/Beatmapping/Approach_rate), [overall difficulty (OD)](/wiki/Beatmapping/Overall_difficulty), and [health (HP)](/wiki/Gameplay/Health).
+The **Double Time** mod is a [game modifier](/wiki/Gameplay/Game_modifier) that attempts to increase the difficulty of a [beatmap](/wiki/Beatmap) by increasing their overall speed (BPM) by 150% (1.5x), reducing the length of the song by 33%, and increasing the [approach rate (AR)](/wiki/Beatmap/Approach_rate), [overall difficulty (OD)](/wiki/Beatmap/Overall_difficulty), and [health (HP)](/wiki/Gameplay/Health).
 
 The Double Time mod is widely regarded as one of the best mods used for gaining large amounts of [performance points](/wiki/Performance_points) on easier difficulties in [osu!](/wiki/Game_mode/osu!).
 
@@ -50,7 +50,7 @@ Although this mod does greatly increase the hyperdash leniency, making fruits re
 
 - When the Double Time mod is enabled, the `Length`, `BPM`, and `Objects` values are coloured in a light red with the new values. (Pictured below.)
   - The `Objects` value is coloured a light red even though no change in value is actually made.
-- The `CS`, `AR`, and `HP` values will have a superscript triangle next to their values indicate a small increase in their values. (Pictured below.)
+- The `AR`, `OD`, and `HP` values will have a superscript triangle next to their values indicate a small increase in their values. (Pictured below.)
 - The name "Double Time" could be labelled as a misnomer, as the DT mod does not actually increase the speed of a beatmap by two times (200%); it speeds up beatmaps by 1.5x (150%).
 
 ![Changed values](img/GM_DT.jpg "Screenshot of beatmap values being changed by the Double Time mod")

@@ -12,7 +12,7 @@ tags:
 ![EZ mod icon](/wiki/shared/mods/EZ.png "Easy (EZ) mod icon")
 
 *For other uses, see [Easy (disambiguation)](/wiki/Disambiguation/Easy).*\
-*For the full list of all mods, see: [Game modifier](/wiki/Game_modifier)*
+*For the full list of all mods, see: [Game modifier](/wiki/Gameplay/Game_modifier)*
 
 ## About
 
@@ -29,7 +29,7 @@ tags:
 
 ## Description
 
-The **Easy** mod is a [game modifier](/wiki/Game_modifier) that attempts to ease the difficulty of a [beatmap](/wiki/Beatmap). It sets out to do this by halving all of the difficulty settings of a selected beatmap.
+The **Easy** mod is a [game modifier](/wiki/Gameplay/Game_modifier) that attempts to ease the difficulty of a [beatmap](/wiki/Beatmap). It sets out to do this by halving all of the difficulty settings of a selected beatmap.
 
 In all [game modes](/wiki/Game_mode) except [osu!taiko](/wiki/Game_mode/osu!taiko), the Easy mod will grant the player two additional "lives" during a play if the [life bar](/wiki/Client/Interface/Health_bar) drops to zero. In the case that this does happen, the game will pause to slowly refill the life bar to about 80% and remove one "life" from the player's life count. No sound will be played during this effect.
 
@@ -37,7 +37,7 @@ This refill event will be signalled to the player with the ready sound (`readyso
 
 ### osu!
 
-In [osu!](/wiki/Game_mode/osu!), the Easy mod decreases [circle size (CS)](/wiki/Client/Beatmap_editor/Song_Setup#circle-size), [approach rate (AR)](/wiki/Beatmapping/Approach_rate), [overall difficulty (OD)](/wiki/Client/Beatmap_editor/Song_Setup#overall-difficulty), and [HP drain](/wiki/Client/Beatmap_editor/Song_Setup#hp-drain-rate) (HP) by half.
+In [osu!](/wiki/Game_mode/osu!), the Easy mod decreases [circle size (CS)](/wiki/Client/Beatmap_editor/Song_Setup#circle-size), [approach rate (AR)](/wiki/Beatmap/Approach_rate), [overall difficulty (OD)](/wiki/Client/Beatmap_editor/Song_Setup#overall-difficulty), and [HP drain](/wiki/Client/Beatmap_editor/Song_Setup#hp-drain-rate) (HP) by half.
 
 ![EZ gameplay osu!](img/EZ-comparison-osu.jpg "Comparison between a regular play (left) vs a play with the Easy mod enabled (right) in osu!")
 
@@ -47,11 +47,11 @@ Although, it is worth mentioning that many players do not find the use of the Ea
 
 ### osu!taiko
 
-In [osu!taiko](/wiki/Game_mode/osu!taiko), the Easy mod decreases the [slider velocity](/wiki/Hit_object/Slider_velocity), overall difficulty (OD) and HP drain by half.
+In [osu!taiko](/wiki/Game_mode/osu!taiko), the Easy mod decreases the [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity), overall difficulty (OD) and HP drain by half.
 
-*Note: The amount of hits that are required to finish a [spinner](/wiki/Hit_object/Spinner) is reduced to the value of the OD.*
+*Note: The amount of hits that are required to finish a [spinner](/wiki/Gameplay/Hit_object/Spinner) is reduced to the value of the OD.*
 
-Unlike the other game modes, using the Easy mod in osu!taiko reduces note score requirement to gain health in osu!taiko makes the life bar fill up much more quickly to replace the two additional "lives" as it impossible to fail in the middle of a song in taiko.
+Unlike in other game modes, using the Easy mod in osu!taiko reduces note score requirement to gain health, making the life bar fill up much more quickly instead of adding two additional "lives", as it is impossible to fail in the middle of a song in taiko.
 
 ### osu!catch
 
@@ -67,9 +67,9 @@ In [osu!mania](/wiki/Game_mode/osu!mania), the effects are the same as in osu!ta
 
 ## Trivia
 
-- When watching a replay where an extra life is used, the health refill animation will be ignored and the replay will continue as if the player was playing with the [No Fail](/wiki/Game_modifier/No_Fail) mod on.
+- When watching a replay where an extra life is used, the health refill animation will be ignored and the replay will continue as if the player was playing with the [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) mod on.
 - In [Multi](/wiki/Client/Interface/Multiplayer) mode, the effect of "lives" will not work in [Tag Co-op or Tag Team Vs.](/wiki/Client/Interface/Multiplayer#tag-co-op-/-tag-team-vs) team mode.
-- The Easy mod will cancel out the [Hard Rock](/wiki/Game_modifier/Hard_Rock) mod, and vice-versa.
+- The Easy mod will cancel out the [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock) mod, and vice-versa.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

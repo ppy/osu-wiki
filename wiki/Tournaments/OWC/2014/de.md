@@ -8,7 +8,7 @@ tags:
 
 ![OWC 2014 logo](img/logo.png)
 
-Der **osu! World Cup 2014** (***OWC 2014***) war ein länderbasiertes osu!-Turnier, das vom [osu!-Team](/wiki/People/The_Team) ausgerichtet wurde. Es war die fünfte Austragung des osu! World Cup.
+Der **osu! World Cup 2014** (***OWC 2014***) war ein länderbasiertes osu!-Turnier, das vom [osu!-Team](/wiki/People/osu!_team) ausgerichtet wurde. Es war die fünfte Austragung des osu! World Cup.
 
 ## Turnierzeitplan
 
@@ -40,7 +40,7 @@ Der osu! World Cup 2014 wurde von verschiedenen Mitgliedern der Community organi
 | Tätigkeit | Person(en) |
 | :-- | :-- |
 | Manager | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565), ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366), ::{ flag=DE }:: [p3n](https://osu.ppy.sh/users/123703) |
-| Mappool-Auswahl | ::{ flag=NL }:: [GladiOol](https://osu.ppy.sh/users/23326a), ::{ flag=KR }:: [ToGlette](https://osu.ppy.sh/users/1076236) |
+| Mappool-Auswahl | ::{ flag=NL }:: [GladiOol](https://osu.ppy.sh/users/23326), ::{ flag=KR }:: [ToGlette](https://osu.ppy.sh/users/1076236) |
 | Streamer | ::{ flag=PL }:: [Marcin](https://osu.ppy.sh/users/722665), ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2), ::{ flag=FR }:: [shARPII](https://osu.ppy.sh/users/776257) |
 | Kommentatoren | ::{ flag=GB }:: [jesus1412](https://osu.ppy.sh/users/230116), ::{ flag=FR }::[Mr Color](https://osu.ppy.s6078), ::{ flag=GB }:: [Raiku](https://osu.ppy.sh/users/1525538), ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) |
 | Statistiker | ::{ flag=PL }:: [Marcin](https://osu.ppy.sh/users/722665) |
@@ -451,8 +451,8 @@ Sonntag, 9. November 2014:
 6. Am meisten gewonnene Maps.
 7. Hat ein größeres `∑{(gesamte Ergebnisdifferenz) / (maximales Ergebnis)}`.
 8. Gewinner von Rückspielen.
-9. Die besten 2 Teams in der Gruppe kommen in die Doppeleleminierungsetappen.
-10. Die folgenden Etappen sind Doppeleleminierungsetappen. Dies bedeutet, dass der Gewinner normal in die nächste Etappe kommt und das andere Team in die Verliereretappe absteigt.
+9. Die besten 2 Teams in der Gruppe kommen in die Doppeleliminierungsetappen.
+10. Die folgenden Etappen sind Doppeleliminierungsetappen. Dies bedeutet, dass der Gewinner normal in die nächste Etappe kommt und das andere Team in die Verliereretappe absteigt.
 11. Basierend auf [dieser Grafik](/wiki/shared/stages-visual.png) teilen sich die Etappen wie folgt auf:
 
 | Etappe | Partie-ID |
@@ -503,6 +503,6 @@ Sonntag, 9. November 2014:
 
 1. Jede Etappe wird **einzeln am Wochenende** abgehalten.
 2. Die Partien können sich in der Gruppenphase überlappen.
-3. Alle Doppeleleminierungsetappen finden entweder am Samstag oder am Sonntag statt.
+3. Alle Doppeleliminierungsetappen finden entweder am Samstag oder am Sonntag statt.
 4. Die Zeiten der Partien werden vom Turnier-Management festgelegt. Die Termine werden am Sonntag angekündigt, bevor die eigentliche Etappe stattfindet. Das Turnier-Management bemüht sich, die Zeiten so gut wie möglich an den Zeitzonen der teilnehmenden Spieler anzupassen.
 5. Die Kapitäne sind für die Anwesenheit ihrer Teams zuständig. Eine größere Teamgröße stellt sicher, dass jedes Team mindestens 4 Spieler in jeder Partie zur Verfügung hat. Wenn vom Team keine 4 Spieler anwesend sein sollten, zählt die Partie als aufgegeben.

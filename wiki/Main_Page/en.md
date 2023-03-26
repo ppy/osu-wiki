@@ -17,7 +17,7 @@ Important articles and guides that will help you dive into osu!. In case anythin
 
 [Rules](/wiki/Rules) • [Installation](/wiki/Client/Installation) • [Registration](/wiki/Registration) • [Help Centre](/wiki/Help_centre)
 
-[Chat console](/wiki/Client/Interface/Chat_console) • [BanchoBot](/wiki/BanchoBot) • [FAQ](/wiki/FAQ) • [Guides](/wiki/Guides) • [Glossary](/wiki/Glossary)
+[Chat console](/wiki/Client/Interface/Chat_console) • [BanchoBot](/wiki/BanchoBot) • [FAQ](/wiki/FAQ) • [Guides](/wiki/Guides) • [Glossary](/wiki/Sitemap)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -28,7 +28,7 @@ Being the guide to the world of rhythm, beats, and flashes, osu! has a lot to pr
 
 [Interface](/wiki/Client/Interface) • [Options](/wiki/Client/Options) • [Visual settings](/wiki/Client/Interface/Visual_settings) • [Shortcut key reference](/wiki/Client/Keyboard_shortcuts) • [Configuration file](/wiki/Client/Program_files/User_configuration_file) • [Program files](/wiki/Client/Program_files)
 
-[File formats](/wiki/Client/File_formats): [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format))
+[File formats](/wiki/Client/File_formats): [.osz](/wiki/Client/File_formats/Osz_(file_format)) • [.osk](/wiki/Client/File_formats/Osk_(file_format)) • [.osr](/wiki/Client/File_formats/Osr_(file_format)) • [.osu](/wiki/Client/File_formats/Osu_(file_format)) • [.osb](/wiki/Client/File_formats/Osb_(file_format))
 
 </div>
 <div class="wiki-main-page-panel">
@@ -39,7 +39,7 @@ Everything about clicking circles, striking drums, catching fruits, and playing 
 
 [Game modes](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Beatmap](/wiki/Beatmap) • [Difficulty](/wiki/Beatmap/Difficulty) • [Hit object](/wiki/Hit_object) • [Mods](/wiki/Game_modifier) • [Score](/wiki/Gameplay/Score) • [Replay](/wiki/Gameplay/Replay) • [Medals](/wiki/Medals) • [Multi](/wiki/Client/Interface/Multiplayer)
+[Beatmap](/wiki/Beatmap) • [Difficulty](/wiki/Beatmap/Difficulty) • [Hit object](/wiki/Gameplay/Hit_object) • [Mods](/wiki/Gameplay/Game_modifier) • [Score](/wiki/Gameplay/Score) • [Replay](/wiki/Gameplay/Replay) • [Medals](/wiki/Medals) • [Multi](/wiki/Client/Interface/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -52,7 +52,7 @@ Sections: [Compose](/wiki/Client/Beatmap_editor/Compose) • [Design](/wiki/Clie
 
 Components: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Beat snap divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) • [Distance snap](/wiki/Client/Beatmap_editor/Distance_snap) • [Menu](/wiki/Client/Beatmap_editor/Menu) • [SB load](/wiki/Client/Beatmap_editor/SB_Load) • [Timelines](/wiki/Client/Beatmap_editor/Timelines)
 
-Activities: [Beatmapping](/wiki/Beatmapping) • [Mapping techniques](/wiki/Mapping_techniques) • [Storyboarding](/wiki/Storyboard#storyboarding) • [Skinning](/wiki/Skinning)
+Activities: [Beatmapping](/wiki/Beatmapping) • [Mapping techniques](/wiki/Beatmapping/Mapping_techniques) • [Storyboarding](/wiki/Storyboard#storyboarding) • [Skinning](/wiki/Skinning)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -61,7 +61,7 @@ Activities: [Beatmapping](/wiki/Beatmapping) • [Mapping techniques](/wiki/Mapp
 
 Ranking is the process of obtaining a leaderboard for a beatmap, which makes it more popular and well-recognised. Discover what it takes to walk this path and how to increase your chances to succeed through beatmap reviews, as well as the procedures for quality control and the ranking process.
 
-[Submission](/wiki/Submission) • [Modding](/wiki/Modding) • [Ranking procedure](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
+[Submission](/wiki/Beatmapping/Beatmap_submission) • [Modding](/wiki/Modding) • [Ranking procedure](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
 
 [Ranking criteria](/wiki/Ranking_Criteria): [osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania)
 
@@ -72,7 +72,7 @@ Ranking is the process of obtaining a leaderboard for a beatmap, which makes it 
 
 Read about procedures and regulations that keep osu! and its community safe, from music licensing and media guidelines to chat and forum rules.
 
-[Rules](/wiki/Rules) • [Contributor Code of Conduct](/wiki/Contributor_Code_of_Conduct) • [Code of Conduct for modding and mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)
+[Rules](/wiki/Rules) • [Contributor Code of Conduct](/wiki/Rules/Contributor_Code_of_Conduct) • [Code of Conduct for modding and mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)
 
 Media regulations: [Content usage guidelines](/wiki/Rules/Content_Usage_Guidelines) • [Content voting process](/wiki/Rules/Content_Voting_Process) • [Explicit content](/wiki/Rules/Explicit_Content) • [Song content rules](/wiki/Rules/Song_Content_Rules) • [Visual content considerations](/wiki/Rules/Visual_Content_Considerations)
 
@@ -85,7 +85,7 @@ Media regulations: [Content usage guidelines](/wiki/Rules/Content_Usage_Guidelin
 
 Answers to frequent questions and solutions to common issues live here.
 
-[Help centre](/wiki/Help_centre) • [Performance troubleshooting](/wiki/Performance_troubleshooting) • [Account support team](/wiki/People/The_Team/Account_support_team) • [Help forum](https://osu.ppy.sh/forum/5)
+[Help centre](/wiki/Help_centre) • [Performance troubleshooting](/wiki/Performance_troubleshooting) • [Account support team](/wiki/People/Account_support_team) • [Help forum](https://osu.ppy.sh/forum/5)
 
 Profile restrictions: [Silence](/wiki/Silence) • [Account restrictions](/wiki/Help_centre/Account_restrictions)
 
@@ -98,9 +98,11 @@ Do your part: [How and what to help with](/wiki/Community/How_you_can_help!) •
 
 Social interaction is one of main things that fuel osu! players all around the world. Explore the activities and contests, get in touch with others, or help organise the next big event!
 
+Places: [Forum](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_Chat)
+
 [Tournaments](/wiki/Tournaments) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Contests](/wiki/Contests) • [Community mentorship program](/wiki/Community/Community_Mentorship_Program)
 
-[Projects](/wiki/Community/Projects): [Featured Artists](/wiki/Featured_Artists) • [osu! community meetings](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk)
+[Projects](/wiki/Community/Projects) • [Featured Artists](/wiki/People/Featured_Artists) • [Project Loved](/wiki/Community/Project_Loved) • [osu! community meetings](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk)
 
 Organisations: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
@@ -111,9 +113,9 @@ Organisations: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
 osu! wouldn't have been possible without many users helping with development, maintenance, and community management: their efforts, time, and dedication make the game live and prosper.
 
-[The Team](/wiki/People/The_Team): [Developers](/wiki/People/The_Team/Developers) • [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) • [Support Team](/wiki/People/The_Team/Support_Team) • [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team)
+[osu! team](/wiki/People/osu!_team) • [Developers](/wiki/People/Developers) • [Global Moderation Team](/wiki/People/Global_Moderation_Team) • [Support Team](/wiki/People/Support_Team) • [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Project Loved Team](/wiki/People/Project_Loved_Team) • [Beatmap Spotlight Curators](/wiki/People/Beatmap_Spotlight_Curators)
 
-[Community Contributors](/wiki/People/Community_Contributors) • [Users with unique titles](/wiki/People/Users_with_unique_titles) • [Tournament Committee](/wiki/People/Tournament_Committee) • [Performance Points Committee](/wiki/People/Performance_Points_Committee)
+[Community Contributors](/wiki/People/Community_Contributors) • [User group](/wiki/People/User_group) • [Users with unique titles](/wiki/People/Users_with_unique_titles) • [Tournament Committee](/wiki/People/Tournament_Committee) • [Performance Points Committee](/wiki/People/Performance_Points_Committee) • [osu! wiki maintainers](/wiki/People/osu!_wiki_maintainers)
 
 </div>
 <div class="wiki-main-page-panel">

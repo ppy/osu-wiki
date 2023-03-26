@@ -7,7 +7,7 @@ tags:
 
 ![osu! Talk Event: Overcoming Obstacles banner](/wiki/shared/news/2022-05-19-osu-talk-event-overcoming-obstacles/ote-newspost-banner.png)
 
-The **osu! Talk Event** is an event organised by osu! University where different people held talks about various topics. This was the first iteration of the event with the theme of "overcoming obstacles".
+The **osu! Talk Event** is an event organised by [osu! University](/wiki/Community/Discord_servers/osu!_University) where different people held talks about various topics. This was the first iteration of the event with the theme of "overcoming obstacles".
 
 Speakers held their talks in a Stage channel on the [osu!dev Discord server](/wiki/Community/osu!dev_Discord_server). During the event, thread channels were opened in the `#community-meetings` channel for discussion.
 

@@ -11,13 +11,13 @@ outdated_since: 8c58252899939eadafbdbf266f62a75aeb247bff
 
 ![](img/main-menu.jpg "Ana Menü")
 
-[osu!cookie](/wiki/Client/Interface/Cookie) \[1\] ana menü üzerinde o anda çalan şarkının [BPM](/wiki/Beatmapping/Beats_per_minute)'ine göre titreşir. Ek olarak, şarkının ses seviyesine göre osu!cookie'nin dışına doğru çubuklar çıkar. Eğer hiç bir şarkı çalmıyorsa, 60 BPM hızında titreşir. Ana menüyü oluşturan elemanlar aşağıdaki gibidir:
+[osu!cookie](/wiki/Client/Interface/Cookie) \[1\] ana menü üzerinde o anda çalan şarkının [BPM](/wiki/Music_theory/Tempo)'ine göre titreşir. Ek olarak, şarkının ses seviyesine göre osu!cookie'nin dışına doğru çubuklar çıkar. Eğer hiç bir şarkı çalmıyorsa, 60 BPM hızında titreşir. Ana menüyü oluşturan elemanlar aşağıdaki gibidir:
 
 - \[2\] Solo modu şarkı seçim ekranına geçmek için Play'e (`P`) veya logoya tıklayın.
 - \[3\] Düzenleyici modu şarkı seçim ekranına geçmek için Edit'e (`E`) tıklayın.
 - \[4\] Ayarlar ekranına gitmek için Options'a (`O`) tıklayın.
 - \[5\] osu!'dan çıkmak için Exit'e (`Esc`) tıklayın.
-- \[6\] Menünün alt kısmında işe yarar rastgele bir tavsiye görüntülenir.
+- \[6\] Menünün alt kısmında işe yarar rastgele bir [tavsiye](/wiki/Client/Menu_tips) görüntülenir.
 - \[7\] Sol-alt kısımda osu! web sayfasına bir link, aynı zamanda telif hakkı bilgisi bulunur.
 - \[8\] [Bancho](/wiki/Bancho_(server))'ya bağlantı sonucu! Bu resimde gösterilmiyor, ama bağlantı sonucu bir dizi linke benziyor.
 - \[9\] Sağ-alt kısımda genişletilmiş [sohbet penceresi](/wiki/Client/Interface/Chat_console) (burada "Player List" olarak geçiyor) ve sıradan sohbet penceresi (sırasıyla `F9` & `F8`) için sohbet kontrolleri bulunur.
@@ -92,9 +92,9 @@ Devam etmeden önce, bu ekranda kolayca anlaşılabilen numaralarla not edilebil
 
 Bu bölüm **seçilen beatmap zorluğunun bilgisini** görüntüler. Varsayılan olarak, osu! müzik kutusunda çalan müziğin beatmapi şarkı seçme ekranına girerken seçili olarak açılır. Sol üstte beatmapin derecelendirme durumu bulunur. Hemen yanında başlık bulunur. Normalde, latin alfabeye çevirilmiş başlık gösterilir, ancak eğer [Ayarlarda](/wiki/Client/Options) `Kendi dilindeki metaveriyi tercih et` seçiliyse, Unicode başlığı görüntüler; bu ise bir üstteki resimde mevcuttur. Beatmapper da görüntülenir, ve beatmap bilgisi ise aşağıda görüntülenir. Soldan sağa, veriler aşağıdaki gibidir:
 
-- **Uzunluk**: Beatmapin toplam uzunluğudur, molalar dahil baştan sona. [Akış süresi (drain time)](/wiki/Gameplay/Drain_time) ile karıştırılmamalıdır.
+- **Uzunluk**: Beatmapin toplam uzunluğudur, molalar dahil baştan sona. [Akış süresi (drain time)](/wiki/Beatmap/Drain_time) ile karıştırılmamalıdır.
 - **BPM**: Beatmapin BPM'idir (dakika başı vuruş sayısı). Eğer (bir alttaki resimde olduğu gibi) biri parantez içinde iki BPM varsa, bu şarkı boyunca BPM'in değiştiğini gösterir. Bunlar en yavaş ve en hızlı BPM'leri gösterir, ve parantez içindeki değer ise beatmapin başlangıcındaki BPM'dir.
-- **Objeler**: Beatmap içerisindeki toplam [vuruş objesi](/wiki/Hit_object) sayısı.
+- **Objeler**: Beatmap içerisindeki toplam [vuruş objesi](/wiki/Gameplay/Hit_object) sayısı.
 - **Circle sayısı**: Beatmap içerisindeki toplam vuruş çemberi sayısı.
 - **Slider sayısı**: Beatmap içerisindeki toplam slider sayısı.
 - **Spinner sayısı**: Beatmap içerisindeki toplam spinner sayısı.
@@ -242,9 +242,9 @@ osu!'daki mevcut oyun modlarının bir listesini açmak için `Mode` butonuna t�
 
 ![](img/game-modifiers.jpg "Oyun modifikasyonları")
 
-**[Mod Seçme Ekranını](/wiki/Game_modifier)** açmak için `Mods` butonuna veya `F1` tuşuna basın.
+**[Mod Seçme Ekranını](/wiki/Gameplay/Game_modifier)** açmak için `Mods` butonuna veya `F1` tuşuna basın.
 
-Bu ekranda, oyununuza modifikasyonlar (kısaca "modlar") ekleyebilirsiniz. Bazı modlar zorluğu düşürür ve elde ettiğiniz skoru düşüren bir katsayı uygular. Diğer yandan, bazı modlar zorluğu arttırır, ancak aynı zamanda elde ettiğiniz skoru arttıran bir katsayı da uygular. Son olarak, bazı modlar oyunu farklı bir yönde etkiler. [Relax](/wiki/Game_modifier/Relax) ve [Auto Pilot](/wiki/Game_modifier/Autopilot) bu kategoriye girer.
+Bu ekranda, oyununuza modifikasyonlar (kısaca "modlar") ekleyebilirsiniz. Bazı modlar zorluğu düşürür ve elde ettiğiniz skoru düşüren bir katsayı uygular. Diğer yandan, bazı modlar zorluğu arttırır, ancak aynı zamanda elde ettiğiniz skoru arttıran bir katsayı da uygular. Son olarak, bazı modlar oyunu farklı bir yönde etkiler. [Relax](/wiki/Gameplay/Game_modifier/Relax) ve [Auto Pilot](/wiki/Gameplay/Game_modifier/Autopilot) bu kategoriye girer.
 
 Efektinin kısa bir açıklamasını görüntülemek için farenizi bir modun ikonu üzerine yerleştirin. Bir mod seçmek veya seçimini kaldırmak için o modun ikonuna tıklayın. Bazı modlar, Double Time gibi, birden fazla varyasyona sahiptir; sırayla görüntülemek için modun üzerine tekrar tıklayın. Skor katsayı değeri seçtiğiniz modların katsayı değerlerinin skorunuz üzerindeki efekti görüntüler. Seçilen tüm modlardaki seçimi kaldırmak için `Tüm modları sıfırla` butonuna veya `1`'e basın. Şarkı Seçme Ekranına dönmek için `Kapat` butonuna veya `2`'ye basın.
 

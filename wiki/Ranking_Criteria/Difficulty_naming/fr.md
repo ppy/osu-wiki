@@ -152,7 +152,7 @@ Les beatmaps de musiques provenant d'autres jeux de rythme empruntent souvent le
 
 #### CHUNITHM
 
-- ![](/wiki/shared/diff/expertplus-o.png) WORLD'S END
+- ![](/wiki/shared/diff/expertplus-o.png) ULTIMA / WORLD'S END
 
 #### Ongeki
 

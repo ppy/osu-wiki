@@ -16,7 +16,7 @@ tags:
 
 ![Icône du mod CO](/wiki/shared/mods/CP.png "Icône du mod Co-op (CO)")
 
-*Pour la liste complète de tous les mods, voir : [modificateurs de jeu](/wiki/Game_modifier)*\
+*Pour la liste complète de tous les mods, voir : [modificateurs de jeu](/wiki/Gameplay/Game_modifier)*\
 *À ne pas confondre avec [Multiplayer](/wiki/Client/Interface/Multiplayer).*
 
 ## À propos
@@ -31,7 +31,7 @@ tags:
 
 *Attention : L'activation du mod Co-op entraînera un jeu non classé*.
 
-Le mod **Co-op** est un [modificateur de jeu](/wiki/Game_modifier) pour le mode [osu!mania](/wiki/Game_mode/osu!mania) qui introduit un deuxième champ de jeu avec un deuxième ensemble de contrôles basés sur le compte *x*K actuel (par exemple, 7K -> 7K + 7K = 14K). Pour les [beatmaps](/wiki/Beatmap) spécifiques à osu!mania, le *x*K est divisé en deux (par exemple 7K -> 4K + 3K = 7K).
+Le mod **Co-op** est un [modificateur de jeu](/wiki/Gameplay/Game_modifier) pour le mode [osu!mania](/wiki/Game_mode/osu!mania) qui introduit un deuxième champ de jeu avec un deuxième ensemble de contrôles basés sur le compte *x*K actuel (par exemple, 7K -> 7K + 7K = 14K). Pour les [beatmaps](/wiki/Beatmap) spécifiques à osu!mania, le *x*K est divisé en deux (par exemple 7K -> 4K + 3K = 7K).
 
 ![Comparaison du gameplay spécifique d'osu!mania avec le mod Co-op](img/CP-comparison-mania-specific-beatmap.jpg "Comparaison entre un jeu normal (à gauche) et un jeu avec le mod Co-op activé (à droite) sur une beatmap spécifique à osu!mania")
 
@@ -50,7 +50,7 @@ Le tableau suivant ne concerne que les beatmaps convertis du mode [osu!](/wiki/G
 
 *Note : Le mod Co-op ne donne aucune pénalité sur les beatmaps spécifiques à osu!mania.*
 
-Une explication détaillée du deuxième champ de jeu se trouve dans la page [osu!mania avec "Co-op"](/wiki/Game_mode/osu!mania#co-op).
+Une explication détaillée du deuxième champ de jeu se trouve sous [Modes de jeu / osu!mania § Co-op](/wiki/Game_mode/osu!mania#co-op).
 
 ### Le saviez-vous ?
 

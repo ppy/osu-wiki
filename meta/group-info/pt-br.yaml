@@ -1,4 +1,3 @@
-# need to update alumni.roles.tournaments and gmt.areas.tournaments
 separator: ", "
 alumni:
   roles:
@@ -19,14 +18,12 @@ gmt:
     dev: desenvolvimento do osu!
     player: suporte ao jogador
     support: suporte técnico
-    tournaments: torneios
+    tournaments: administração de torneios
     wiki: administração da wiki
     mapping: moderação da comunidade de mapping/modding
 nat:
-  areas:
-    communication: comunicação
-    evaluation: avaliação
-    moderation: moderação
-    structural: estrutural
+  subgroups:
+    advisor: orientador
+    evaluator: avaliador
 languages:
   partial: um pouco de <language>

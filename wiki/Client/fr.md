@@ -10,11 +10,13 @@ Page d'index pour les articles concernant le client d'osu! et ses principales se
 
 ## Introduction
 
+- [Astuces du menu](Menu_tips)
+- [Canal de mise à jour](Release_stream)
+- [Éditeur de beatmap](Beatmap_editor)
 - [Installation](Installation)
 - [Interface](Interface)
-- [L'éditeur de beatmap](Beatmap_editor)
-- [Liste des raccourcis claviers](Keyboard_shortcuts)
 - [Options](Options)
+- [Références des raccourcis claviers](Keyboard_shortcuts)
 
 ## Détails techniques
 

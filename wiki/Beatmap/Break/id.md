@@ -8,6 +8,6 @@ tags:
 
 # Break
 
-**Break** adalah sesi dari sebuah [beatmap](/wiki/Beatmap) yang dimana tidak memiliki [hit objects](/wiki/Hit_object) di dalamnya. Pada waktu ini, drain dari sebuah health bar sementara dihentikan. Break biasanya mengijinkan sebuah player untuk beristirahat sejenak dalam kurun waktu yang pendek dan mengatur kembali posisi input device mereka.
+**Break** merupakan bagian dari [beatmap](/wiki/Beatmap) yang tidak terisi oleh [hit object](/wiki/Gameplay/Hit_object). Pada rentang waktu ini, [health drain](/wiki/Gameplay/Health) pemain akan sementara dihentikan. Break pada umumnya memungkinkan pemain untuk dapat beristirahat dan mengatur kembali posisi [perangkat input](/wiki/Gameplay/Input_device) yang mereka gunakan.
 
-Tergantung pada pengaturan mereka, letterboxes mungkin muncul ketika break dimulai. Selain itu, peringatan passing atau failing dan suara mungkin muncul untuk mengindentifikasi sebuah player ketika mereka melakukannya dengan benar atau tidak. Ini akan muncul jika terdapat waktu yang cukup untuk memunculkannya.
+Tergantung pada [pengaturan](/wiki/Client/Beatmap_editor/Song_Setup) yang aktif, kotak hitam (*letterbox*) dapat muncul ketika waktu break dimulai. Selain itu, indikator pass atau fail dalam bentuk grafis dan audio dapat muncul untuk memberitahu pemain apakah mereka bermain dengan baik atau tidak. Fitur ini hanya akan muncul apabila terdapat cukup waktu.

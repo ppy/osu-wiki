@@ -20,8 +20,8 @@ Wenn du ein Gast bist, stehen dir diese Optionen zur Verfügung:
 
 | Name | Beschreibung | Typ | Standardwert |
 | :-- | :-- | :-- | :-- |
-| `Benutzername` | Gebe deinen Benutzernamen an. | Text | *(leer)* |
-| `Passwort` | Gebe dein Passwort an. | Passwort | *(leer)* |
+| `Benutzername` | Gib deinen Benutzernamen an. | Text | *(leer)* |
+| `Passwort` | Gib dein Passwort an. | Passwort | *(leer)* |
 | `Benutzername speichern` | Sofern angekreuzt, wird der Spiel-Client den eingegebenen Benutzernamen speichern. | Checkbox | `Aktiviert` |
 | `Passwort speichern` | Sofern angekreuzt, wird der Spiel-Client das eingegebene Passwort speichern. Dadurch bleibst du eingeloggt. | Checkbox | `Deaktiviert` |
 | `Einloggen` | Logge dich mit den angegebenen Anmeldedaten bei osu! ein. Das Drücken von `Enter` im Benutzernamen- oder Passwortfeld funktioniert ebenfalls. | Button |  |
@@ -393,7 +393,7 @@ Dieser Abschnitt ist über Beatmaps und Aktualisierungen.
 | `Alle Maps als "Gespielt" markieren` | Markiert alle Maps als "Gespielt". | Button |
 | `osu!-Updater starten` | Schließt den Spiel-Client und öffnet den Updater, um nach Aktualisierungen zu suchen und herunterzuladen, sofern verfügbar. | Button |
 
-Weiter unten wird die Versionsnummer angezeigt. Bei einem Klick wird das [Änderungsprotokoll](/wiki/Glossary/Changelog) für diese Version in deinem Webbrowser geöffnet.
+Weiter unten wird die Versionsnummer angezeigt. Bei einem Klick wird das [Änderungsprotokoll](/wiki/Changelog) für diese Version in deinem Webbrowser geöffnet.
 
 ### Debug
 

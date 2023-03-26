@@ -1,13 +1,64 @@
 ---
-outdated_translation: true
 tags:
+  - letter grade
+  - rank
+  - silver s
+  - silver ss
+  - sh
+  - xh
   - ランク
+  - シルバーS
+  - シルバーSS
 ---
 
 # グレード
 
 *その他の用途については、[ランク（曖昧さ回避）](/wiki/Disambiguation/Rank)を参照してください。*
 
-osu!の**グレード**とは、[ビートマップ](/wiki/Beatmap)でプレイヤーのパフォーマンスを表す一連の文字のことです。成績はリザルト画面のトータル[スコア](/wiki/Gameplay/Score)とイッショニ表示され、すべてのリストでスコアと一緒に表示されます。
+osu!の**グレード**とは、[ビートマップ](/wiki/Beatmap)でプレイヤーのパフォーマンスを表す一連の文字のことです。成績はリザルト画面のトータル[スコア](/wiki/Gameplay/Score)と一緒に表示され、すべてのリストでスコアと一緒に表示されます。
 
-グレードは低いものから順にD、C、B、A、S、シルバーS、SS、シルバーSSとなります。シルバーグレードは、[Hidden](/wiki/Game_modifier/Hidden)、[Flashlight](/wiki/Game_modifier/Flashlight)、[Fade In](/wiki/Game_modifier/Fade_In) [ゲームモディファイア](/wiki/Game_modifier)を使用した場合のみ達成できます。
+グレードは低いものから順にD、C、B、A、S、シルバーS、SS、シルバーSSとなります。シルバーグレードは、[Hidden](/wiki/Gameplay/Game_modifier/Hidden)、[Flashlight](/wiki/Gameplay/Game_modifier/Flashlight)、[Fade In](/wiki/Gameplay/Game_modifier/Fade_In) [ゲームモディファイア](/wiki/Gameplay/Game_modifier)を使用した場合のみ達成できます。
+
+## osu!
+
+| グレード | 精度 |
+| :-: | :-- |
+| SS | 100% |
+| S | 300が90.01%以上、50が1%以内でミスがない |
+| A | 300が80.01%以上でミスがない**もしくは**300が90.01%以上 |
+| B | 300が70.01%以上でミスがない**もしくは**300が80.01%以上 |
+| C | 300が60.01%以上 |
+| D | 上記以外 |
+
+## osu!taiko
+
+| グレード | 精度 |
+| :-: | :-- |
+| SS | 100% |
+| S | GREATが90.01%以上でミスがない |
+| A | GREATが80.01%以上でミスがない**もしくは**GREATが90.01%以上 |
+| B | GREATが70.01%以上でミスがない**もしくは**GREATが80.01%以上 |
+| C | GREATが60.01%以上 |
+| D | 上記以外のクリアスコア |
+
+## osu!catch
+
+| グレード | 精度 |
+| :-: | :-- |
+| SS | 100% |
+| S | 98.01%から99.99%(osu!mania同様いくつかミスしてもよい) |
+| A | 94.01%から98.00% |
+| B | 90.01%から94.00% |
+| C | 85.01%から90.00% |
+| D | 85.00%以下 |
+
+## osu!mania
+
+| グレード | 精度 |
+| :-: | :-- |
+| SS | 100% |
+| S | 95.01%以上(osu!catch同様いくつかミスしてもよい) |
+| A | 90.01%以上 |
+| B | 80.01%以上 |
+| C | 70.01%以上 |
+| D | 上記以外 |

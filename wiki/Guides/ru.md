@@ -16,7 +16,6 @@ outdated_since: acdcb1efbd3ac94eef628b095b78cbacfcdac000
 - [Руководство по редактированию аудио](Audio_Editing)
 - [Как изменить исполнителя или название карты](Changing_the_Artist_or_Title)
 - [Изменение текста заголовка](/wiki/Beatmap/Title_text#changing-title-text)
-- [Информация о коллабах](Collab_Information)
 - [Сжатие файлов](Compressing_files)
 - [Пользовательская библиотека хитсаундов](Custom_Hitsound_Library)
 - [Список нестандартных хитсаундов](Custom_Sample_Overrides)

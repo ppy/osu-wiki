@@ -11,13 +11,13 @@ outdated_since: fd0451ee3c5f57bafae83570739d9dc9f09906a5
 
 ![](img/main-menu.jpg "主菜单")
 
-[osu!粉饼](/wiki/Client/Interface/Cookie) \[1\]随着 [BPM](/wiki/Beatmapping/Beats_per_minute) 跳动，此外，从osu!粉饼延伸出来的条的长度与歌曲的音量一致。如果没有在播放歌曲或者暂停播放，osu!粉饼就会以60BPM的速度跳动。主菜单的元素如下：
+[osu!粉饼](/wiki/Client/Interface/Cookie) \[1\]随着 [BPM](/wiki/Music_theory/Tempo) 跳动，此外，从osu!粉饼延伸出来的条的长度与歌曲的音量一致。如果没有在播放歌曲或者暂停播放，osu!粉饼就会以60BPM的速度跳动。主菜单的元素如下：
 
 - \[2\] 点击 Play （`P`） 或者 osu! 标志进入次级选择界面。
 - \[3\] 点击 Edit （`E`） 进入地图编辑器的歌曲选择界面。
 - \[4\] 点击 Option （`O`） 进入设置界面。
 - \[5\] 点击 Exit （`Esc`） 退出 osu!
-- \[6\] 在主菜单下方会有随机的游戏提示。
+- \[6\] 在主菜单下方会有随机的游戏[提示](/wiki/Client/Menu_tips)。
 - \[7\] 左下角是 osu! 官网的链接，以及版权信息。
 - \[8\] 与[Bancho](/wiki/Bancho_(server))的连接状态，在这张图总没有显示，但是连接的结果应该像一个链条。
 - \[9\] 右下角的是扩展[聊天窗口](/wiki/Client/Interface/Chat_console)的控制开关 (叫做"玩家列表") 和常规聊天窗口 （分别对应 `F9` 和 `F8`）。
@@ -61,10 +61,10 @@ outdated_since: fd0451ee3c5f57bafae83570739d9dc9f09906a5
 1. 你在房间中的身份。这也会显示在你名字前面。
 2. 你的个人信息
 3. 音乐控制器
-4. 玩家列表 - 显示玩家的名字，他们的身份（房主或玩家），他们选择的[mods](/wiki/Game_modifier) （参见 #7），他们的osu!排名和他们的队伍（如果可用）。
+4. 玩家列表 - 显示玩家的名字，他们的身份（房主或玩家），他们选择的[mods](/wiki/Gameplay/Game_modifier) （参见 #7），他们的osu!排名和他们的队伍（如果可用）。
 5. 房间的名字和密码设定。
 6. 选中的谱面。应与在单人模式中相同的样式显示。
-7. 选中的[mods](/wiki/Game_modifier) （参见 #12），以及设置，叫做“Free Mods”的选项决定玩家是否能选择自己想使用的mods。如果启用，他们可以选择任意组合的mods*除了影响速度的模组，如[Double Time](/wiki/Game_modifier/Double_Time)。如果禁用，则由房主来决定使用什么模组，房主可以使用影响速度的mods不论Free Mods是否开启。
+7. 选中的[mods](/wiki/Gameplay/Game_modifier) （参见 #12），以及设置，叫做“Free Mods”的选项决定玩家是否能选择自己想使用的mods。如果启用，他们可以选择任意组合的mods*除了影响速度的模组，如[Double Time](/wiki/Gameplay/Game_modifier/Double_Time)。如果禁用，则由房主来决定使用什么模组，房主可以使用影响速度的mods不论Free Mods是否开启。
 8. 分组方式和胜利条件，
 9. 准备按钮
 10. [聊天窗口](/wiki/Client/Interface/Chat_console)。
@@ -92,9 +92,9 @@ outdated_since: fd0451ee3c5f57bafae83570739d9dc9f09906a5
 
 这里显示**你所选的谱面难度信息**。默认情况下，进入选个界面时选中的谱面是你在主界面的音乐播放器中听到的歌。左上角会显示谱面的Rank状态。旁边是歌曲标题。正常情况下，会显示罗马化标题，但是如果在[设置](/wiki/Client/Options)中选择了`以原语言显示歌曲信息`时，会显示Unicode标题；这在上面的图片中进行了表示，然后谱面信息会显示在下方。从左到右依次如下：
 
-- **长度**：谱面的总长度，从开始到结束包括休息时间。不要与[掉血时间](/wiki/Gameplay/Drain_time)混淆。
+- **长度**：谱面的总长度，从开始到结束包括休息时间。不要与[掉血时间](/wiki/Beatmap/Drain_time)混淆。
 - **BPM**：谱面的BPM。如果谱面有两个BPM （如下图所示） 而一个在括号里，这意味着BPM在歌曲中有变化。它显示这个谱面最快和最慢的BPM，而括号里的BPM时谱面开始时歌曲的BPM。
-- **物件数**：在谱面中所有[击打物件](/wiki/Hit_object)的数量。
+- **物件数**：在谱面中所有[击打物件](/wiki/Gameplay/Hit_object)的数量。
 - **圈数**：谱面中所有圈的数量。
 - **滑条数**：谱面中所有滑条的数量。
 - **转盘数**：谱面中所有转盘的数量。
@@ -184,7 +184,7 @@ outdated_since: fd0451ee3c5f57bafae83570739d9dc9f09906a5
 
 各种各样的东西可以出现在这里：
 
-- “Not Submiited” 意味着这张谱面没有通过铺面提交系统提交至osu!网站或被谱面制作者删除。
+- “Not Submiited” 意味着这张谱面没有通过谱面提交系统提交至osu!网站或被谱面制作者删除。
 - “Update to latest version”意味着这张谱面有更新的版本可以下载，点击这个按钮以更新。
   - **注意：**一旦你更新了谱面，将无法还原。如果您出于某种原因（比如为了保存分数）希望保留较旧的版本，那么就不要更新。
 - “Latest pending version”意味着这张谱面被上传到了osu!网站但还没Ranked。
@@ -238,9 +238,9 @@ outdated_since: fd0451ee3c5f57bafae83570739d9dc9f09906a5
 
 ![](img/game-modifiers-ZH.jpg "Mod选择界面")
 
-点击`Mods`按钮或者按下`F1`来打开 **[Mod选择界面](/wiki/Game_modifier)**。
+点击`Mods`按钮或者按下`F1`来打开 **[Mod选择界面](/wiki/Gameplay/Game_modifier)**。
 
-在这个界面，你可以进行游戏修改（“mods”是它的缩写）。一些mods可以降低难度并且会应用分数倍增器降低你获得的分数。相反的，一些mods可以增加难度，但是会应用分数倍增器增加你获得的分数。最后，一些mods会更改你的游戏方式。例如[Relax](/wiki/Game_modifier/Relax)和[Auto Pilot](/wiki/Game_modifier/Autopilot)都属于这一类。
+在这个界面，你可以进行游戏修改（“mods”是它的缩写）。一些mods可以降低难度并且会应用分数倍增器降低你获得的分数。相反的，一些mods可以增加难度，但是会应用分数倍增器增加你获得的分数。最后，一些mods会更改你的游戏方式。例如[Relax](/wiki/Gameplay/Game_modifier/Relax)和[Auto Pilot](/wiki/Gameplay/Game_modifier/Autopilot)都属于这一类。
 
 把你的鼠标放在一个mod的图标上，可以看到它的效果的简短描述。点击一个图标来选择或取消选择那个mod。有些mod，比如Double Time，有多种变体;再次点击mod循环通过。分数乘数值显示你所选择的mod的乘数，对你的分数有综合影响。点击“重置所有mod”或按`1`取消当前选择的所有mod。点击`关闭`或按`2`或“`Esc`返回到歌曲选择界面。
 
@@ -295,7 +295,7 @@ outdated_since: fd0451ee3c5f57bafae83570739d9dc9f09906a5
 3. `设置为线上最爱`：添加谱面到线上收藏，它位于你osu!个人资料界面的谱面下。
 4. 本地排行榜：你所有的分数都会保存在你的电脑上。要查看他们，转到[选歌界面](#选歌界面)，然后在左侧下拉栏点击`本地排行`。
 5. `Beatmap Ranking`部分。仅当谱面拥有在线排行榜([qualified](/wiki/Beatmap/Category#qualified)，[ranked](/wiki/Beatmap/Category#ranked)，或者[loved](/wiki/Beatmap/Category#loved))时可用。
-   1. `整体`：你在这个谱面排行榜的位置，你可以与使用了[mods](/wiki/Game_modifier)的人竞争尽管你没有使用[mods](/wiki/Game_modifier)。
+   1. `整体`：你在这个谱面排行榜的位置，你可以与使用了[mods](/wiki/Gameplay/Game_modifier)的人竞争尽管你没有使用[mods](/wiki/Gameplay/Game_modifier)。
    2. `准确度`：你这次游玩的[精确度](/wiki/Gameplay/Accuracy#准确度)，只有新分数超过旧分数时才会计算。
    3. `Max Combo`：你这次游玩时达到的最高Combo。
    4. `Ranked图分数`：你在这张谱面的[最好成绩](/wiki/Gameplay/Score/Ranked_score)。

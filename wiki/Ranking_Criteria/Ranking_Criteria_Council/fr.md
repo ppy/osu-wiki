@@ -2,13 +2,13 @@
 
 Le **Ranking Criteria Council** était un groupe d'utilisateurs chargé de retravailler les [Critères de classement](/wiki/Ranking_Criteria) en 2016.
 
-La plupart des règles appliquées par la [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) (*QAT*) lors de l'évaluation des beatmaps n'étaient pas écrites et il n'existait pas de critères spécifiques aux modes à l'époque. Cela a conduit à des disqualifications répétées que la communauté de mapping considérait comme injustifiées, de sorte que le Ranking Criteria Council visait à amener tout le monde sur un terrain d'entente.
+La plupart des règles appliquées par la [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) (*QAT*) lors de l'évaluation des beatmaps n'étaient pas écrites et il n'existait pas de critères spécifiques aux modes à l'époque. Cela a conduit à des disqualifications répétées que la communauté de mapping considérait comme injustifiées, de sorte que le Ranking Criteria Council visait à amener tout le monde sur un terrain d'entente.
 
 Ce projet a mis fin à l'utilisation du [sous-forum Ranking Criteria](https://osu.ppy.sh/community/forums/87) par le public, n'autorisant que les messages des membres du conseil. Les membres du conseil ont prévu de discuter de tous les aspects du mapping et de formuler leurs propres propositions de critères de classement en conséquence.
 
 ## Membres initiaux
 
-Les membres du Ranking Criteria Council ont été triés sur le volet pour représenter différentes régions de joueurs et de mappeurs, imitant ainsi les membres du [Triumvir Conglomerate](/wiki/Modding/BAT_Managers#triumvir-conglomerate).
+Les membres du Ranking Criteria Council ont été triés sur le volet pour représenter différentes régions de joueurs et de mappeurs, imitant ainsi les membres du [Triumvir Conglomerate](/wiki/People/Beatmap_Appreciation_Team/BAT_Managers#triumvir-conglomerate).
 
 ### Membres d'osu!
 
@@ -125,7 +125,7 @@ Entre 2016 et 2018, l'UBKRC a réformé toutes les sections des critères de cla
 
 - ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) (Organisateur)
 - ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) (Organisateur)
-- ::{ flag=DE }:: [Damnae](https://osu.ppy.sh/users/989377)
+- ::{ flag=FR }:: [Damnae](https://osu.ppy.sh/users/989377)
 - ::{ flag=CA }:: [Sidetail](https://osu.ppy.sh/users/2036217)
 - ::{ flag=US }:: [Starrodkirby86](https://osu.ppy.sh/users/410)
 - ::{ flag=CZ }:: [Wafu](https://osu.ppy.sh/users/888955)

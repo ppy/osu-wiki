@@ -26,25 +26,22 @@ The ASC is fairly verbose and encompasses many minute details, that are not nece
 
 All pull requests are automatically run through a series of continuous integration checks (CI) in order to catch various common errors.
 
-For people familiar with the command line, these CI checks can also be run locally.
+For people familiar with the command line, these checks can also be run locally.
 
 ### Requirements
 
-- [Python](https://www.python.org/) 3.x
-- [Node.js](https://nodejs.org/) 16+ (installing via [nvm](https://github.com/nvm-sh/nvm) is recommended)
-
-### Setup
-
-```sh
-python3 -m venv ./.venv
-.venv/bin/pip3 install -r scripts/requirements.txt
-npm install
-```
+- [Docker Engine](https://docs.docker.com/engine/) (part of Docker Desktop). Tip: on Linux, use [convenience installation scripts](https://docs.docker.com/engine/install/ubuntu/#install-using-the-convenience-script) to save time.
 
 ### Running
 
-Using `git add`, stage or commit files you want to have checked, then run from the repository root on your feature branch:
+Run from the repository root on your feature branch:
 
 ```sh
-bash run-ci.sh
+./run-checks.sh
+```
+
+To reclaim space occupied by the osu-wiki Docker image and its dependencies, run:
+
+```sh
+docker image rm osu-wiki -f && docker system prune --filter label=osu-wiki
 ```

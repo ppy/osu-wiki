@@ -4,7 +4,7 @@
 
 Die **Community-Mitwirkenden** sind eine handvoll Leute, die aufgrund ihrer besonderen Arbeit - sei es Features, Tools oder Organisatorisches - eine bedeutende Auswirkung auf die Community haben und diese zu der gemacht haben, was sie heute ist. Diese Personen haben dafür ein Abzeichen auf ihrem Profil bekommen, das zeigt, dass sie etwas Bemerkenswertes für die gesamte Community getan haben.
 
-Nicht zu verwechseln mit [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), die frühere Mitglieder verschiedener osu!-Teams waren und nun zurückgetreten sind. Community-Contributor-Abzeichen werden an freiwillige Helfer vergeben, die sich über ihre Pflicht hinaus für die Verbesserung von osu! und der Community-Umgebung eingesetzt haben.
+Nicht zu verwechseln mit [osu! Alumni](/wiki/People/osu!_Alumni), die frühere Mitglieder verschiedener osu!-Teams waren und nun zurückgetreten sind. Community-Contributor-Abzeichen werden an freiwillige Helfer vergeben, die sich über ihre Pflicht hinaus für die Verbesserung von osu! und der Community-Umgebung eingesetzt haben.
 
 ## 2013
 
@@ -27,7 +27,7 @@ Nicht zu verwechseln mit [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), die f
 | ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) | Mehr als drei Jahre lang für die Aufrechthaltung der [Beatmap-Pakete](https://osu.ppy.sh/p/packlist) verantwortlich und mehrere Jahre hindurch der Manager der Beatmap-Charts. |
 | ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | Jahrelanger Dienst und Mithilfe, insbesondere des Skinning und fortgeschrittenem [Storyboarding](/wiki/Storyboard) und Designer des originalen Skins. |
 | ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) | Frühes Mitglied und für das damalige Community-Management verantwortlich. Außerdem sehr stark mitwirkend innerhalb der Community. |
-| ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | Der erste Community-Manager und globaler Moderator, der die Messlatte und Qualifikation für das [GMT](/wiki/People/The_Team/Global_Moderation_Team) sehr hoch gesetzt hat und dadurch für ausgezeichnete Moderatoren verantwortlich ist. |
+| ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | Der erste Community-Manager und globaler Moderator, der die Messlatte und Qualifikation für das [GMT](/wiki/People/Global_Moderation_Team) sehr hoch gesetzt hat und dadurch für ausgezeichnete Moderatoren verantwortlich ist. |
 | ::{ flag=US }:: [Ivalset](https://osu.ppy.sh/users/827) | Der erste Team-Manager sowie BAT-Manager, der damals alleine ein elitäres Moderationsteam für Beatmaps aus dem Nichts gegründet hat. |
 
 ## 2015
@@ -198,7 +198,7 @@ Nicht zu verwechseln mit [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), die f
 | :-- | :-- |
 | ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263) | Herausragende Beiträge zu der Community-Turnierszene von osu!taiko |
 | ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502) | Herausragende Beiträge zur Entwicklung von osu!(lazer) |
-| ::{ flag=HR }:: [Susuko3](https://osu.ppy.sh/users/18945305) | Herausragende Beiträge zur Entwicklung von osu!(lazer) und osu!framework |
+| ::{ flag=HR }:: [Susko3](https://osu.ppy.sh/users/18945305) | Herausragende Beiträge zur Entwicklung von osu!(lazer) und osu!framework |
 | ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455) | Herausragende Beiträge zur Entwicklung und Wartung der osu!-Performance-Punkte |
 | ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549) | Herausragende Beiträge zur Entwicklung der osu!-Performance-Punkte |
 | ::{ flag=AU }:: [MBmasher](https://osu.ppy.sh/users/4498616) | Herausragende Beiträge zur Entwicklung der osu!-Performance-Punkte und zur Wiederbelebung der Mod Flashlight |

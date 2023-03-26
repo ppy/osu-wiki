@@ -2,13 +2,13 @@
 
 The **Ranking Criteria Council** was a group of users tasked with reworking the [Ranking Criteria](/wiki/Ranking_Criteria) in 2016.
 
-Many of the rules that the [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) (*QAT*) operated by when evaluating maps were unwritten and there were no mode-specific criteria at the time. This led to repeated disqualifications that the mapping community viewed as unjustified, so the Ranking Criteria Council aimed to bring everyone to common ground.
+Many of the rules that the [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) (*QAT*) operated by when evaluating maps were unwritten and there were no mode-specific criteria at the time. This led to repeated disqualifications that the mapping community viewed as unjustified, so the Ranking Criteria Council aimed to bring everyone to common ground.
 
 This project discontinued use of the [Ranking Criteria subforum](https://osu.ppy.sh/community/forums/87) from the public, only allowing posts from members of the council. Members of the council planned on discussing all aspects of mapping and forming their own Ranking Criteria proposals accordingly.
 
 ## Initial members
 
-Members of the Ranking Criteria Council were hand-picked to represent different regions of players and mappers, mimicking membership of the [Triumvir Conglomerate](/wiki/Modding/BAT_Managers#triumvir-conglomerate).
+Members of the Ranking Criteria Council were hand-picked to represent different regions of players and mappers, mimicking membership of the [Triumvir Conglomerate](/wiki/People/Beatmap_Appreciation_Team/BAT_Managers#triumvir-conglomerate).
 
 ### osu! members
 
@@ -125,7 +125,7 @@ Between 2016 and 2018, the UBKRC reformed all sections of the Ranking Criteria t
 
 - ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) (Organizer)
 - ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) (Organizer)
-- ::{ flag=DE }:: [Damnae](https://osu.ppy.sh/users/989377)
+- ::{ flag=FR }:: [Damnae](https://osu.ppy.sh/users/989377)
 - ::{ flag=CA }:: [Sidetail](https://osu.ppy.sh/users/2036217)
 - ::{ flag=US }:: [Starrodkirby86](https://osu.ppy.sh/users/410)
 - ::{ flag=CZ }:: [Wafu](https://osu.ppy.sh/users/888955)

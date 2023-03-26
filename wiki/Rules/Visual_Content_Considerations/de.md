@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Empfehlungen für visuelle Inhalte
 
 Nach [Community-Regel #5](/wiki/Rules#community-regeln) müssen alle zu osu! eingereichten oder hochgeladenen visuellen Inhalte als für ein Spiel für alle Altersgruppen angemessen betrachtet werden.
@@ -29,6 +33,7 @@ Bilder oder visuelle Elemente, die eines der folgenden Dinge enthalten, sind **n
 - **erotischer Inhalt oder grafische Abbildungen von Sexualität**
 - **Beispiele von Drogenkonsum, Vorbereitung oder Identifikation mit illegaler Drogensubkultur**[^drug-nature]
 - **Darstellungen von absichtlich hetzerischen politischen, kulturellen, religiösen oder sozialen Inhalten**
+- **Bilder, die suizidales oder selbstverletzendes Verhalten darstellen, einschließlich der Vorbereitung oder bevorstehende Versuche**
 
 Zusätzlich sollten Bilder oder visuelle Elemente, die vernünftig bewertet als in schlechter Qualität eingestuft werden könnten (entweder in objektiver Bildqualität oder subjektiver Komposition/Gestaltung) und in Fällen, in denen sie in keinem direkten Zusammenhang mit einem relevanten Thema stehen, ebenso nicht in Beatmaps verwendet werden.
 
@@ -53,8 +58,8 @@ Wenn du dir über ein Bild unsicher bist, das in einer Beatmap vorhanden sein so
 
 **Das Ergebnis einer Wahl ist final**, es sei denn, das Bild wird signifikant verändert im Versuch, alle potenziell problematischen Elemente, die während der Diskussion angesprochen wurden, zu lösen.
 
-Zu jeder Zeit behält sich [das osu!-Team](/wiki/People/The_Team) in ihrem Ermessen das Recht vor, einseitig jeden Inhalt als entweder zugelassen oder nicht zugelassen zu deklarieren, unabhängig von vorherigen Wahlen bezogen auf das Thema.
+Zu jeder Zeit behält sich [das osu!-Team](/wiki/People/osu!_team) in ihrem Ermessen das Recht vor, einseitig jeden Inhalt als entweder zugelassen oder nicht zugelassen zu deklarieren, unabhängig von vorherigen Wahlen bezogen auf das Thema.
 
 ## Anmerkungen
 
-[^drug-nature]: Hiervon können Ausnahmen gemacht werden, abhängig von der Art der Droge, ihre Verwendung und ihre Subkultur, insbesondere im Falle von Drogen, die weltweit rasch entkriminalisiert und reguliert werden, wie Marihuana. Beantragungen spezifischer Ausnahmen für diese Regel sollten durch eine Kontaktaufnahme mit dem [Support-Team](/wiki/People/The_Team/Account_support_team) unter [support@ppy.sh](mailto:support@ppy.sh) erfolgen.
+[^drug-nature]: Hiervon können Ausnahmen gemacht werden, abhängig von der Art der Droge, ihre Verwendung und ihre Subkultur, insbesondere im Falle von Drogen, die weltweit rasch entkriminalisiert und reguliert werden, wie Marihuana. Beantragungen spezifischer Ausnahmen für diese Regel sollten durch eine Kontaktaufnahme mit dem [Support-Team](/wiki/People/Account_support_team) unter [support@ppy.sh](mailto:support@ppy.sh) erfolgen.

@@ -1,7 +1,7 @@
 ---
 layout: main_page
 outdated_translation: true
-outdated_since: 7ef47d8797f027d541e55beec0cb43e184a44fed
+outdated_since: 7a4a1c34e5696e7c170bf1399c6b1921bb3272ee
 ---
 
 <div class="wiki-main-page__blurb">
@@ -13,11 +13,11 @@ outdated_since: 7ef47d8797f027d541e55beec0cb43e184a44fed
 
 # Знакомство с игрой
 
-Важные статьи и руководства, которые помогут погрузиться в osu!. В случае проблем или недопонимания загляните на [форум техподдержки](https://osu.ppy.sh/forum/5), или в тему «[Вопросы и проблемы](https://osu.ppy.sh/community/forums/topics/9668)».
+Важные статьи и руководства, которые помогут погрузиться в osu!. В случае проблем или недопонимания загляните на [форум техподдержки](https://osu.ppy.sh/forum/5) или в тему «[Вопросы и проблемы](https://osu.ppy.sh/community/forums/topics/9668)».
 
 [Правила](/wiki/Rules) • [Установка](/wiki/Client/Installation) • [Регистрация](/wiki/Registration) • [Справочный центр](/wiki/Help_centre)
 
-[Внутриигровой чат](/wiki/Client/Interface/Chat_console) • [BanchoBot](/wiki/BanchoBot) • [FAQ](/wiki/FAQ) • [Руководства](/wiki/Guides) • [Словарь](/wiki/Glossary)
+[Внутриигровой чат](/wiki/Client/Interface/Chat_console) • [BanchoBot](/wiki/BanchoBot) • [FAQ](/wiki/FAQ) • [Руководства](/wiki/Guides) • [Словарь](/wiki/Sitemap)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -28,7 +28,7 @@ osu! — это ваш проводник в мир ритма, музыки и 
 
 [Интерфейс](/wiki/Client/Interface) • [Настройки](/wiki/Client/Options) • [Визуальные настройки](/wiki/Client/Interface/Visual_settings) • [Горячие клавиши](/wiki/Client/Keyboard_shortcuts) • [Файл конфигурации](/wiki/Client/Program_files/User_configuration_file) • [Программные файлы](/wiki/Client/Program_files)
 
-[Форматы файлов](/wiki/Client/File_formats): [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format))
+[Форматы файлов](/wiki/Client/File_formats): [.osz](/wiki/Client/File_formats/Osz_(file_format)) • [.osk](/wiki/Client/File_formats/Osk_(file_format)) • [.osr](/wiki/Client/File_formats/Osr_(file_format)) • [.osu](/wiki/Client/File_formats/Osu_(file_format)) • [.osb](/wiki/Client/File_formats/Osb_(file_format))
 
 </div>
 <div class="wiki-main-page-panel">
@@ -39,7 +39,7 @@ osu! — это ваш проводник в мир ритма, музыки и 
 
 [Режимы игры](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Карта](/wiki/Beatmap) • [Сложность](/wiki/Beatmap/Difficulty) • [Игровые объекты](/wiki/Hit_object) • [Модификаторы](/wiki/Game_modifier) • [Очки](/wiki/Gameplay/Score) • [Реплей](/wiki/Gameplay/Replay) • [Медали](/wiki/Medals) • [Мультиплеер](/wiki/Client/Interface/Multiplayer)
+[Карта](/wiki/Beatmap) • [Сложность](/wiki/Beatmap/Difficulty) • [Игровые объекты](/wiki/Gameplay/Hit_object) • [Модификаторы](/wiki/Gameplay/Game_modifier) • [Очки](/wiki/Gameplay/Score) • [Реплей](/wiki/Gameplay/Replay) • [Медали](/wiki/Medals) • [Мультиплеер](/wiki/Client/Interface/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -52,7 +52,7 @@ osu! — это ваш проводник в мир ритма, музыки и 
 
 Компоненты: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Beat snap divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) • [Distance snap](/wiki/Client/Beatmap_editor/Distance_snap) • [Menu](/wiki/Client/Beatmap_editor/Menu) • [SB load](/wiki/Client/Beatmap_editor/SB_Load) • [Timelines](/wiki/Client/Beatmap_editor/Timelines)
 
-Занятия: [Маппинг](/wiki/Beatmapping) • [Техники маппинга](/wiki/Mapping_techniques) • [Сторибординг](/wiki/Storyboard) • [Скиннинг](/wiki/Skinning)
+Занятия: [Маппинг](/wiki/Beatmapping) • [Техники маппинга](/wiki/Beatmapping/Mapping_techniques) • [Сторибординг](/wiki/Storyboard) • [Скиннинг](/wiki/Skinning)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -61,7 +61,7 @@ osu! — это ваш проводник в мир ритма, музыки и 
 
 Ранкинг — это процесс добавления таблицы рекордов для карты, что делает её более популярной и узнаваемой. Здесь вы узнаете, как пройти этот тернистый путь и как повысить свои шансы на успех, а также о процедурах контроля качества и ранкинга карт в целом.
 
-[Публикация карт](/wiki/Submission) • [Моддинг](/wiki/Modding) • [Процедура ранкинга](/wiki/Beatmap_ranking_procedure) • [Гильдия мапперов](/wiki/Community/Mappers_Guild) • [Проект Loved](/wiki/Community/Project_Loved)
+[Публикация карт](/wiki/Beatmapping/Beatmap_submission) • [Моддинг](/wiki/Modding) • [Процедура ранкинга](/wiki/Beatmap_ranking_procedure) • [Гильдия мапперов](/wiki/Community/Mappers_Guild) • [Проект Loved](/wiki/Community/Project_Loved)
 
 [Критерии ранкинга](/wiki/Ranking_Criteria): [osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania)
 
@@ -72,7 +72,7 @@ osu! — это ваш проводник в мир ритма, музыки и 
 
 Прочитайте о процедурах и правилах, которые обеспечивают безопасность osu! и его сообщества, начиная с лицензирования музыки и рекомендаций для медиа и заканчивая правилами чата и форума.
 
-[Правила](/wiki/Rules) • [Нормы поведения](/wiki/Contributor_Code_of_Conduct) • [Кодекс поведения при моддинге и маппинге](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)
+[Правила](/wiki/Rules) • [Нормы поведения](/wiki/Rules/Contributor_Code_of_Conduct) • [Кодекс поведения при моддинге и маппинге](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)
 
 Медиа: [Рекомендации для медиа](/wiki/Rules/Content_Usage_Guidelines) • [Процедура оценки медиа](/wiki/Rules/Content_Voting_Process) • [Откровенное содержимое](/wiki/Rules/Explicit_Content) • [Правила для песен](/wiki/Rules/Song_Content_Rules) • [Критерии визуального содержания](/wiki/Rules/Visual_Content_Considerations)
 
@@ -85,9 +85,9 @@ osu! — это ваш проводник в мир ритма, музыки и 
 
 Ответы на часто задаваемые вопросы и решения распространённых проблем.
 
-[Справочный центр](/wiki/Help_centre) • [Проблемы с производительностью](/wiki/Performance_troubleshooting) • [Служба поддержки](/wiki/People/The_Team/Account_support_team) • Тема «[Вопросы и проблемы](https://osu.ppy.sh/community/forums/topics/9668)» • [Форум техподдержки](https://osu.ppy.sh/forum/5)
+[Справочный центр](/wiki/Help_centre) • [Проблемы с производительностью](/wiki/Performance_troubleshooting) • [Служба поддержки](/wiki/People/Account_support_team) • Тема «[Вопросы и проблемы](https://osu.ppy.sh/community/forums/topics/9668)» • [Форум техподдержки](https://osu.ppy.sh/forum/5)
 
-Ограничения: [Сайленс](/wiki/Silence) • [Рестрикт аккаунта](/wiki/Help_centre/Account_restrictions)
+Ограничения: [Сайленс](/wiki/Silence) • [Ограничение аккаунта](/wiki/Help_centre/Account_restrictions)
 
 Поддержание порядка: [Как и где помочь osu!](/wiki/Community/How_you_can_help!) • [Жалобы на чужое поведение](/wiki/Reporting_bad_behaviour) • [Жалобы на домогательства](/wiki/Reporting_bad_behaviour/Abuse) • [Жалобы на читеров](/wiki/Reporting_bad_behaviour/Handling_foul_play)
 
@@ -98,11 +98,13 @@ osu! — это ваш проводник в мир ритма, музыки и 
 
 Социальное взаимодействие — одна из самых сильных сторон osu!, вдохновляющая игроков по всему миру. Изучите программы и конкурсы, наладьте контакт с другими людьми или помогите организовать новое масштабное событие!
 
+Места для общения: [Форум](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_Chat)
+
 [Турниры](/wiki/Tournaments) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Конкурсы](/wiki/Contests) • [Программа менторства](/wiki/Community/Community_Mentorship_Program)
 
-[Проекты](/wiki/Community/Projects): [Featured Artists](/wiki/Featured_Artists) • [Собрания сообщества osu!](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk)
+[Проекты](/wiki/Community/Projects) • [Featured Artists](/wiki/People/Featured_Artists) • [Собрания сообщества osu!](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk)
 
-Организаторы: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
+Организации: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -111,9 +113,9 @@ osu! — это ваш проводник в мир ритма, музыки и 
 
 osu! бы не было без многих пользователей, участвующих в разработке, поддержке и управлении сообществом: игра живёт и процветает лишь благодаря их усилиям, времени и преданности делу.
 
-[Команда osu!](/wiki/People/The_Team): [Разработчики](/wiki/People/The_Team/Developers) • [Команда глобальной модерации](/wiki/People/The_Team/Global_Moderation_Team) • [Команда поддержки](/wiki/People/The_Team/Support_Team) • [Команда оценки номинаций](/wiki/People/The_Team/Nomination_Assessment_Team) • [Номинаторы карт](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Команда проекта Loved](/wiki/People/The_Team/Project_Loved_Team)
+[Команда osu!](/wiki/People/osu!_team): [Разработчики](/wiki/People/Developers) • [Команда глобальной модерации](/wiki/People/Global_Moderation_Team) • [Команда поддержки](/wiki/People/Support_Team) • [Команда оценки номинаций](/wiki/People/Nomination_Assessment_Team) • [Номинаторы карт](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Команда проекта Loved](/wiki/People/Project_Loved_Team)
 
-[Выдающиеся участники сообщества](/wiki/People/Community_Contributors) • [Пользователи с уникальными титулами](/wiki/People/Users_with_unique_titles) • [Комитет по турнирам](/wiki/People/Tournament_Committee) • [Комитет PP](/wiki/People/Performance_Points_Committee)
+[Выдающиеся участники сообщества](/wiki/People/Community_Contributors) • [Пользователи с уникальными титулами](/wiki/People/Users_with_unique_titles) • [Комитет по турнирам](/wiki/People/Tournament_Committee) • [Комитет PP](/wiki/People/Performance_Points_Committee) • [Администраторы osu! wiki](/wiki/People/osu!_wiki_maintainers)
 
 </div>
 <div class="wiki-main-page-panel">

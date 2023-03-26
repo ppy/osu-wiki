@@ -10,7 +10,7 @@ tags:
 
 ![OWC #1 logo](img/logo.png)
 
-The **osu! World Cup #1** (***OWC #1***) was a single elimination country-based osu! tournament run by various osu! community members under the provision of the [osu! team](/wiki/People/The_Team). It was the first instalment of the osu! World Cup.
+The **osu! World Cup #1** (***OWC #1***) was a single elimination country-based osu! tournament run by various osu! community members under the provision of the [osu! team](/wiki/People/osu!_team). It was the first instalment of the osu! World Cup.
 
 ## Tournament schedule
 
@@ -208,7 +208,7 @@ Friday, 9 April 2011 (Grand Final):
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| ::{ flag=NL }:: Netherlands | 1 | **4** | ::{ flag=TW }:: **Taiwan** | [#1](https://osu.ppy.sh/community/matches/494834) |
+| ::{ flag=NL }:: Netherlands | 1 | **4** | ::{ flag=TW }:: **Taiwan** | [#1](https://osu.ppy.sh/community/matches/494834) [#2](https://web.archive.org/web/20110412015449/https://osu.ppy.sh/mp/494834) |
 
 Friday, 9 April 2011 (3rd Place Playoff):
 
@@ -231,7 +231,7 @@ Friday, 19 March 2011:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| ::{ flag=PL }:: Poland | 0 | **3** | ::{ flag=NL }:: **Netherlands** | [#1](https://osu.ppy.sh/community/matches/354944) |
+| ::{ flag=PL }:: Poland | 0 | **3** | ::{ flag=NL }:: **Netherlands** | [#1](https://osu.ppy.sh/community/matches/354944) [#2](https://web.archive.org/web/20110322035734/https://osu.ppy.sh/mp/354944) |
 
 Saturday, 20 March 2011:
 
@@ -280,7 +280,7 @@ Friday, 26 February 2011:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| ::{ flag=KR }:: **South Korea** | **2** | 1 | ::{ flag=CN }:: China | [#1](https://osu.ppy.sh/community/matches/236416) |
+| ::{ flag=KR }:: **South Korea** | **2** | 1 | ::{ flag=CN }:: China | [#1](https://osu.ppy.sh/community/matches/236416) [#2](https://web.archive.org/web/20110717224653/https://osu.ppy.sh/mp/236416) |
 | ::{ flag=DE }:: **Germany** | **2** | 0 | ::{ flag=RU }:: Russia | [#1](https://osu.ppy.sh/community/matches/237905) |
 | ::{ flag=PT }:: Portugal | 0 | **2** | ::{ flag=PL }:: **Poland** | [#1](https://osu.ppy.sh/community/matches/238693) |
 

@@ -1,5 +1,7 @@
 ---
 layout: main_page
+outdated_translation: true
+outdated_since: 7a4a1c34e5696e7c170bf1399c6b1921bb3272ee
 ---
 
 <!-- Do not add any empty lines inside this div. -->
@@ -17,7 +19,7 @@ osu!を始めるための重要なガイドです。何か問題が発生した�
 
 [ルール](/wiki/Rules) • [インストール](/wiki/Client/Installation) • [登録](/wiki/Registration) • [ヘルプセンター](/wiki/Help_centre)
 
-[チャットコンソール](/wiki/Client/Interface/Chat_console) • [BanchoBot](/wiki/BanchoBot) • [FAQ](/wiki/FAQ) • [ガイド](/wiki/Guides) • [用語集](/wiki/Glossary)
+[チャットコンソール](/wiki/Client/Interface/Chat_console) • [BanchoBot](/wiki/BanchoBot) • [FAQ](/wiki/FAQ) • [ガイド](/wiki/Guides) • [用語集](/wiki/Sitemap)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -28,7 +30,7 @@ osu!を始めるための重要なガイドです。何か問題が発生した�
 
 [インターフェイス](/wiki/Client/Interface) • [オプション](/wiki/Client/Options) • [ビジュアル設定](/wiki/Client/Interface/Visual_settings) • [ショートカットキー](/wiki/Client/Keyboard_shortcuts) • [設定ファイル](/wiki/Client/Program_files/User_configuration_file) • [プログラムファイル](/wiki/Client/Program_files)
 
-[ファイルフォーマット](/wiki/Client/File_formats): [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format))
+[ファイルフォーマット](/wiki/Client/File_formats): [.osz](/wiki/Client/File_formats/Osz_(file_format)) • [.osk](/wiki/Client/File_formats/Osk_(file_format)) • [.osr](/wiki/Client/File_formats/Osr_(file_format)) • [.osu](/wiki/Client/File_formats/Osu_(file_format)) • [.osb](/wiki/Client/File_formats/Osb_(file_format))
 
 </div>
 <div class="wiki-main-page-panel">
@@ -39,7 +41,7 @@ osu!を始めるための重要なガイドです。何か問題が発生した�
 
 [ゲームモード](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[ビートマップ](/wiki/Beatmap) • [難易度](/wiki/Beatmap/Difficulty) • [ヒットオブジェクト](/wiki/Hit_object) • [Mods](/wiki/Game_modifier) • [スコア](/wiki/Gameplay/Score) • [リプレイ](/wiki/Gameplay/Replay) • [メダル](/wiki/Medals) • [マルチプレイ](/wiki/Client/Interface/Multiplayer)
+[ビートマップ](/wiki/Beatmap) • [難易度](/wiki/Beatmap/Difficulty) • [ヒットオブジェクト](/wiki/Gameplay/Hit_object) • [Mods](/wiki/Gameplay/Game_modifier) • [スコア](/wiki/Gameplay/Score) • [リプレイ](/wiki/Gameplay/Replay) • [メダル](/wiki/Medals) • [マルチプレイ](/wiki/Client/Interface/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -52,7 +54,7 @@ osu!のビートマップはすべて、ユーザーの手によって作られ�
 
 コンポーネント: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [ビートスナップ間隔](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) • [Distance snap](/wiki/Client/Beatmap_editor/Distance_snap) • [メニュー](/wiki/Client/Beatmap_editor/Menu) • [SB load](/wiki/Client/Beatmap_editor/SB_Load) • [タイムライン](/wiki/Client/Beatmap_editor/Timelines)
 
-技術: [ビートマッピング](/wiki/Beatmapping) • [マッピング技術](/wiki/Mapping_techniques) • [ストーリーボード技術](/wiki/Storyboard#storyboarding) • [スキニング](/wiki/Skinning)
+技術: [ビートマッピング](/wiki/Beatmapping) • [マッピング技術](/wiki/Beatmapping/Mapping_techniques) • [ストーリーボード技術](/wiki/Storyboard#storyboarding) • [スキニング](/wiki/Skinning)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -61,7 +63,7 @@ osu!のビートマップはすべて、ユーザーの手によって作られ�
   
 あなたのビートマップがRankedになると、あなたのことをもっと知ってもらえたり、人気が出たりします。Rankedにするために必要なこと、そしてビートマップのレビューを通じて成功のチャンスをつかむ方法やクオリティを管理する方法についてのガイドです。
 
-[投稿](/wiki/Submission) • [Modding](/wiki/Modding) • [Rankedまでの手順](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
+[投稿](/wiki/Beatmapping/Beatmap_submission) • [Modding](/wiki/Modding) • [Rankedまでの手順](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
 
 [ランキング基準](/wiki/Ranking_Criteria): [osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania)
 
@@ -72,7 +74,7 @@ osu!のビートマップはすべて、ユーザーの手によって作られ�
 
 音楽ライセンスやメディアのガイドライン、チャットやフォーラムのルールなど、osu!のコミュニティを守るためのルールや規制についてお読みください。
 
-[ルール](/wiki/Rules) • [コントリビュータ行動規範](/wiki/Contributor_Code_of_Conduct) • [MappingとModdingの行動規範](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)
+[ルール](/wiki/Rules) • [コントリビュータ行動規範](/wiki/Rules/Contributor_Code_of_Conduct) • [MappingとModdingの行動規範](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)
 
 メディアガイドライン: [コンテンツ使用ガイドライン](/wiki/Rules/Content_Usage_Guidelines) • [コンテンツ投票プロセス](/wiki/Rules/Content_Voting_Process) • [露骨なコンテンツ](/wiki/Rules/Explicit_Content) • [曲コンテンツのルール](/wiki/Rules/Song_Content_Rules) • [ビジュアルコンテンツに関する考慮事項](/wiki/Rules/Visual_Content_Considerations)
 
@@ -85,7 +87,7 @@ osu!のビートマップはすべて、ユーザーの手によって作られ�
 
 よく寄せられる質問と、一般的な問題に対する解決策です。
 
-[ヘルプセンター](/wiki/Help_centre) • [パフォーマンスのトラブルシューティング](/wiki/Performance_troubleshooting) • [アカウントサポートチーム](/wiki/People/The_Team/Account_support_team) • [ヘルプフォーラム](https://osu.ppy.sh/forum/5)
+[ヘルプセンター](/wiki/Help_centre) • [パフォーマンスのトラブルシューティング](/wiki/Performance_troubleshooting) • [アカウントサポートチーム](/wiki/People/Account_support_team) • [ヘルプフォーラム](https://osu.ppy.sh/forum/5)
 
 アカウントの状態: [サイレンス](/wiki/Silence) • [アカウントの制限](/wiki/Help_centre/Account_restrictions)
 
@@ -97,10 +99,12 @@ osu!のビートマップはすべて、ユーザーの手によって作られ�
 # コミュニティとプロジェクト
 
 イベントは、世界中のosu!プレイヤーを熱狂させる主なものの1つです。トーナメントやコンテストに参加したり、次のイベントの企画を手伝ってください。
+  
+会話: [フォーラム](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_Chat)
 
 [トーナメント](/wiki/Tournaments) • [ビートマップスポットライト](/wiki/Beatmap_Spotlights) • [コンテスト](/wiki/Contests) • [コミュニティ メンターシップ プログラム](/wiki/Community/Community_Mentorship_Program)
 
-[プロジェクト](/wiki/Community/Projects): [注目のアーティスト](/wiki/Featured_Artists) • [osu!コミュニティミーティング](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk)
+[プロジェクト](/wiki/Community/Projects) • [注目のアーティスト](/wiki/People/Featured_Artists) • [Project Loved](/wiki/Community/Project_Loved) • [osu!コミュニティミーティング](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk)
 
 組織: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
@@ -111,9 +115,9 @@ osu!のビートマップはすべて、ユーザーの手によって作られ�
 
 osu!は、開発、メンテナンス、コミュニティ管理に協力する多くのユーザーなしでは成り立ちませんでした。
 
-[チーム](/wiki/People/The_Team): [開発者](/wiki/People/The_Team/Developers) • [グローバル モデレーション チーム(GMT)](/wiki/People/The_Team/Global_Moderation_Team) • [サポートチーム](/wiki/People/The_Team/Support_Team) • [ノミネーション アシスタント チーム(NAT)](/wiki/People/The_Team/Nomination_Assessment_Team) • [ビートマップ ノミネーター(BN)](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Project Loved](/wiki/People/The_Team/Project_Loved_Team)
+[チーム](/wiki/People/osu!_team): [開発者](/wiki/People/Developers) • [グローバル モデレーション チーム(GMT)](/wiki/People/Global_Moderation_Team) • [サポートチーム](/wiki/People/Support_Team) • [ノミネーション アシスタント チーム(NAT)](/wiki/People/Nomination_Assessment_Team) • [ビートマップ ノミネーター(BN)](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Project Loved](/wiki/People/Project_Loved_Team) • [ビートマップ スポットライト キュレーター(BSC)](/wiki/People/Beatmap_Spotlight_Curators)
 
-[コミュニティへの貢献](/wiki/People/Community_Contributors) • [ユニークなタイトルを持つユーザー](/wiki/People/Users_with_unique_titles) • [トーナメント委員会](/wiki/People/Tournament_Committee) • [パフォーマンスポイント委員会](/wiki/People/Performance_Points_Committee)
+[コミュニティへの貢献](/wiki/People/Community_Contributors) • [ユニークなタイトルを持つユーザー](/wiki/People/Users_with_unique_titles) • [トーナメント委員会](/wiki/People/Tournament_Committee) • [パフォーマンスポイント委員会](/wiki/People/Performance_Points_Committee) • [osu! wikiのモデレーター](/wiki/People/osu!_wiki_maintainers)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -122,14 +126,14 @@ osu!は、開発、メンテナンス、コミュニティ管理に協力する�
 
 他のアプリケーションやサイトを通してosu!と交流しましょう。
 
-[API](/wiki/osu!api) • [Bot account](/wiki/Bot_account) • [ブランド アイデンティティ ガイドライン](/wiki/Brand_identity_guidelines) • [osu!devディスコードサーバー](/wiki/Community/osu!dev_Discord_server)
+[API](/wiki/osu!api) • [ボットアカウント](/wiki/Bot_account) • [ブランド アイデンティティ ガイドライン](/wiki/Brand_identity_guidelines) • [osu!dev開発者向けディスコードサーバー](/wiki/Community/osu!dev_Discord_server)
 
 </div>
 <div class="wiki-main-page-panel">
 
 # wikiについて
 
-ここにあるほとんどのwikiは、ボランティアによって執筆・翻訳されています。改善を提案したり、問題を報告したり、独自の記事を書いたりすることもできます。
+ここにあるほとんどのwikiは、ボランティアによって執筆・翻訳されています。[GitHubのリポジトリ](https://github.com/ppy/osu-wiki)から、改善を提案したり、問題を報告したり、独自の記事を書いたりすることもできます。
 
 [osu!の歴史](/wiki/History_of_osu!) • [osu! wikiの歴史](/wiki/History_of_osu!/osu!_wiki) • [MappingとModdingの変更履歴](/wiki/History_of_osu!/Mapping_and_Modding_Timeline) • [エイプリルフール](/wiki/History_of_osu!/April_Fools)
 

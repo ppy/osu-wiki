@@ -4,7 +4,7 @@
 
 The **Community Contributors** are the people who have taken it upon themselves to provide service to the osu! community at great cost to themselves — tools and features that many of us take for granted today. These users are given a badge to denote that they did something notable for the entire community.
 
-Not to be mistaken as [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), which are previous members of various osu! teams that retired, Community Contributor badges are given to public freelancers who had go beyond the call of duty to improve osu! and the community environment.
+Not to be mistaken as [osu! Alumni](/wiki/People/osu!_Alumni), which are previous members of various osu! teams that retired, Community Contributor badges are given to public freelancers who had go beyond the call of duty to improve osu! and the community environment.
 
 <!-- The "Contributions" column of recent years comes from text in the linked news posts. Don't use the text on the badge itself, and don't edit any wording (besides links, etc.) -clayton -->
 
@@ -29,7 +29,7 @@ Not to be mistaken as [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), which ar
 | ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) | 3+ years of silent work tirelessly handling [beatmap packing](https://osu.ppy.sh/beatmaps/packs) and several years of managing the beatmap charts. |
 | ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | Years upon years of service, including designing the original beatmap skin, advancing [storyboarding](/wiki/Storyboard) as an art and motivation. |
 | ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) | Early community management and moderation and huge contributions over the course of his time. |
-| ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | Being the first community manager and global moderator, who set the bar extremely high for the [GMT](/wiki/People/The_Team/Global_Moderation_Team) to follow. |
+| ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | Being the first community manager and global moderator, who set the bar extremely high for the [GMT](/wiki/People/Global_Moderation_Team) to follow. |
 | ::{ flag=US }:: [Ivalset](https://osu.ppy.sh/users/827) | Being the first staff manager and BATmanager and single-handedly forming an elite beatmap moderation team from nothing. |
 
 ## 2015
@@ -200,7 +200,7 @@ Not to be mistaken as [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), which ar
 | :-- | :-- |
 | ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263) | Outstanding contribution to the osu!taiko community tournament scene |
 | ::{ flag=SA }:: [frenzibyte](https://osu.ppy.sh/users/14210502) | Outstanding contribution to the development of osu!(lazer) |
-| ::{ flag=HR }:: [Susuko3](https://osu.ppy.sh/users/18945305) | Outstanding contribution to the development of osu!(lazer) and osu!framework |
+| ::{ flag=HR }:: [Susko3](https://osu.ppy.sh/users/18945305) | Outstanding contribution to the development of osu!(lazer) and osu!framework |
 | ::{ flag=RU }:: [StanR](https://osu.ppy.sh/users/7217455) | Outstanding contribution to osu! performance points development and maintenance |
 | ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549) | Outstanding contribution to osu! performance points development |
 | ::{ flag=AU }:: [MBmasher](https://osu.ppy.sh/users/4498616) | Outstanding contribution to osu! performance points development and revitalizing the Flashlight mod |

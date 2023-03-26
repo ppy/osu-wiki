@@ -20,7 +20,7 @@ outdated_translation: true
 
 [規範](/wiki/Rules) • [安裝](/wiki/Client/Installation) • [註冊](/wiki/Registration) • [幫助中心](/wiki/Help_centre)
 
-[聊天控制台](/wiki/Client/Interface/Chat_console) • [BanchoBot](/wiki/BanchoBot) • [常見問題](/wiki/FAQ) • [指南](/wiki/Guides) • [術語表](/wiki/Glossary)
+[聊天控制台](/wiki/Client/Interface/Chat_console) • [BanchoBot](/wiki/BanchoBot) • [常見問題](/wiki/FAQ) • [指南](/wiki/Guides) • [術語表](/wiki/Sitemap)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -31,7 +31,7 @@ outdated_translation: true
 
 [介面](/wiki/Client/Interface) • [選項](/wiki/Client/Options) • [畫面設定](/wiki/Client/Interface/Visual_settings) • [快捷鍵參考](/wiki/Client/Keyboard_shortcuts) • [設定檔](/wiki/Client/Program_files/User_configuration_file) • [osu! 目錄檔案](/wiki/Client/Program_files)
 
-[檔案格式](/wiki/Client/File_formats)：[.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format))
+[檔案格式](/wiki/Client/File_formats)：[.osz](/wiki/Client/File_formats/Osz_(file_format)) • [.osk](/wiki/Client/File_formats/Osk_(file_format)) • [.osr](/wiki/Client/File_formats/Osr_(file_format)) • [.osu](/wiki/Client/File_formats/Osu_(file_format)) • [.osb](/wiki/Client/File_formats/Osb_(file_format))
 
 </div>
 <div class="wiki-main-page-panel">
@@ -42,7 +42,7 @@ outdated_translation: true
 
 [遊戲模式](/wiki/Game_mode)：[osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[圖譜](/wiki/Beatmap) • [難度](/wiki/Beatmap/Difficulty) • [打擊物件](/wiki/Hit_object) • [Mod](/wiki/Game_modifier) • [分數](/wiki/Gameplay/Score) • [重播](/wiki/Gameplay/Replay) • [成就](/wiki/Medals) • [多人遊戲](/wiki/Client/Interface/Multiplayer)
+[圖譜](/wiki/Beatmap) • [難度](/wiki/Beatmap/Difficulty) • [打擊物件](/wiki/Gameplay/Hit_object) • [Mod](/wiki/Gameplay/Game_modifier) • [分數](/wiki/Gameplay/Score) • [重播](/wiki/Gameplay/Replay) • [成就](/wiki/Medals) • [多人遊戲](/wiki/Client/Interface/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -55,7 +55,7 @@ outdated_translation: true
 
 元件：[AiMod](/wiki/Client/Beatmap_editor/AiMod) • [節拍劃分](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) • [間隔控制](/wiki/Client/Beatmap_editor/Distance_snap) • [選單](/wiki/Client/Beatmap_editor/Menu) • [Storyboard 負載](/wiki/Client/Beatmap_editor/SB_Load) • [時間軸](/wiki/Client/Beatmap_editor/Timelines)
 
-操作：[製譜](/wiki/Beatmapping) • [製譜技巧](/wiki/Mapping_techniques) • [製作 Storyboard](/wiki/Storyboard#storyboarding) • [製作 Skin](/wiki/Skinning)
+操作：[製譜](/wiki/Beatmapping) • [製譜技巧](/wiki/Beatmapping/Mapping_techniques) • [製作 Storyboard](/wiki/Storyboard#storyboarding) • [製作 Skin](/wiki/Skinning)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -64,7 +64,7 @@ outdated_translation: true
 
 審核是指圖譜取得排行榜的過程，可使圖譜更受歡迎並獲得認可。了解所需條件以及如何提高您通過的機率，還有品質控管及審核流程的程序。
 
-[提交](/wiki/Submission) • [Modding](/wiki/Modding) • [審核流程](/wiki/Beatmap_ranking_procedure) • [製譜者公會 (Mappers' Guild)](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
+[提交](/wiki/Beatmapping/Beatmap_submission) • [Modding](/wiki/Modding) • [審核流程](/wiki/Beatmap_ranking_procedure) • [製譜者公會 (Mappers' Guild)](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
 
 [審核標準](/wiki/Ranking_Criteria)：[osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania)
 
@@ -75,7 +75,7 @@ outdated_translation: true
 
 閱讀有關維護 osu! 及其社群的安全的程序及規定。從音樂授權和媒體規章，到聊天和論壇規則。
 
-[規則](/wiki/Rules) • [貢獻者行為準則](/wiki/Contributor_Code_of_Conduct) • [Modding 及製譜的行為準則](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)
+[規則](/wiki/Rules) • [貢獻者行為準則](/wiki/Rules/Contributor_Code_of_Conduct) • [Modding 及製譜的行為準則](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)
 
 媒體規章：[內容使用準則](/wiki/Rules/Content_Usage_Guidelines) • [兒少不宜內容](/wiki/Rules/Explicit_Content) • [歌曲內容規範](/wiki/Rules/Song_Content_Rules) • [視覺內容考量](/wiki/Rules/Visual_Content_Considerations)
 
@@ -88,7 +88,7 @@ outdated_translation: true
 
 這裡存放著常見問題的解答。
 
-[幫助中心](/wiki/Help_centre) • [效能問題排解](/wiki/Performance_troubleshooting) • [帳號支援團隊](/wiki/People/The_Team/Account_support_team) • [幫助論壇](https://osu.ppy.sh/forum/5)
+[幫助中心](/wiki/Help_centre) • [效能問題排解](/wiki/Performance_troubleshooting) • [帳號支援團隊](/wiki/People/Account_support_team) • [幫助論壇](https://osu.ppy.sh/forum/5)
 
 個人檔案限制：[禁言](/wiki/Silence) • [帳號限制](/wiki/Help_centre/Account_restrictions)
 
@@ -103,7 +103,7 @@ outdated_translation: true
 
 [錦標賽](/wiki/Tournaments) • [圖譜聚光燈](/wiki/Beatmap_Spotlights) • [製譜競賽](/wiki/Contests) • [社群師徒計畫](/wiki/Community/Community_Mentorship_Program)
 
-[專案](/wiki/Community/Projects): [精選藝術家](/wiki/Featured_Artists) • [osu! 社群會議](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk)
+[專案](/wiki/Community/Projects): [精選藝術家](/wiki/People/Featured_Artists) • [osu! 社群會議](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk)
 
 組織：[osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
@@ -114,7 +114,7 @@ outdated_translation: true
 
 有了許多玩家協助開發、維護、及社群管理，osu! 才得以實現，他們的努力、時間及貢獻使遊戲能夠成長茁壯。
     
-[團隊](/wiki/People/The_Team)：[開發團隊](/wiki/People/The_Team/Developers) • [管理團隊 (Global Moderation Team)](/wiki/People/The_Team/Global_Moderation_Team) • [支援團隊](/wiki/People/The_Team/Support_Team) • [提名評估團隊 (Nomination Assessment Team)](/wiki/People/The_Team/Nomination_Assessment_Team) • [圖譜提名者](/wiki/People/The_Team/Beatmap_Nominators) • [osu! 名人堂](/wiki/People/The_Team/osu!_Alumni) • [Project Loved 團隊](/wiki/People/The_Team/Project_Loved_Team)
+[團隊](/wiki/People/osu!_team)：[開發團隊](/wiki/People/Developers) • [管理團隊 (Global Moderation Team)](/wiki/People/Global_Moderation_Team) • [支援團隊](/wiki/People/Support_Team) • [提名評估團隊 (Nomination Assessment Team)](/wiki/People/Nomination_Assessment_Team) • [圖譜提名者](/wiki/People/Beatmap_Nominators) • [osu! 名人堂](/wiki/People/osu!_Alumni) • [Project Loved 團隊](/wiki/People/Project_Loved_Team)
 
 [社群貢獻者](/wiki/People/Community_Contributors) • [有專屬頭銜的玩家](/wiki/People/Users_with_unique_titles)• [錦標賽委員會](/wiki/People/Tournament_Committee) • [表現分數 (PP) 委員會](/wiki/People/Performance_Points_Committee)
 

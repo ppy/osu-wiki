@@ -8,7 +8,7 @@ tags:
   - raccourcis
 ---
 
-# Liste des raccourcis claviers
+# Références des raccourcis claviers
 
 Il existe de nombreux raccourcis dans osu! qui peuvent être utilisés en jeu ou depuis n'importe quel menu. Ils sont listés ci-dessous avec leurs fonctions.
 
@@ -68,7 +68,7 @@ Ces raccourcis fonctionnent partout :
 
 | Raccourci | Action |
 | :-- | :-- |
-| `F1` | Ouvre le menu de sélection des [modificateurs de jeu](/wiki/Game_modifier). |
+| `F1` | Ouvre le menu de sélection des [modificateurs de jeu](/wiki/Gameplay/Game_modifier). |
 | `F2` | Sélectionne aléatoirement une beatmap. |
 | `Shift` + `F2` | Retourne à la beatmap précédemment sélectionnée de manière aléatoire. |
 | `F3` | Ouvre les options de la beatmap. |
@@ -78,8 +78,8 @@ Ces raccourcis fonctionnent partout :
 | `Ctrl` + `2` | Passe en mode de jeu [osu!taiko](/wiki/Game_mode/osu!taiko). |
 | `Ctrl` + `3` | Passe en mode de jeu [osu!catch](/wiki/Game_mode/osu!catch). |
 | `Ctrl` + `4` | Passe en mode de jeu [osu!mania](/wiki/Game_mode/osu!mania). |
-| `Ctrl` + `Enter` | Joue la beatmap sélectionnée avec le mod [Auto](/wiki/Game_modifier/Auto). |
-| `Ctrl` + `Shift` + `Enter` | Joue la beatmap sélectionnée avec le mod [Cinema](/wiki/Game_modifier/Cinema). |
+| `Ctrl` + `Enter` | Joue la beatmap sélectionnée avec le mod [Auto](/wiki/Gameplay/Game_modifier/Auto). |
+| `Ctrl` + `Shift` + `Enter` | Joue la beatmap sélectionnée avec le mod [Cinema](/wiki/Gameplay/Game_modifier/Cinema). |
 | `Ctrl` + `A` | Active le mod Auto. |
 | `Ctrl` + `F3` ou `Ctrl` + `+` | Augmente la vitesse de défilement d'osu!mania (en mode osu!mania). |
 | `Ctrl` + `F4` ou `Ctrl` + `-` | Diminue la vitesse de défilement d'osu!mania (en mode osu!mania). |
@@ -93,7 +93,7 @@ Ces raccourcis fonctionnent partout :
 
 ### Modificateurs de jeu
 
-*Page principale : [Modificateurs de jeu](/wiki/Game_modifier)*\
+*Page principale : [Modificateurs de jeu](/wiki/Gameplay/Game_modifier)*\
 *Note : Appuyer sur la touche de raccourci la fera Activer/Désactiver. Vous devez être dans le menu des modificateurs du jeu pour utiliser ces raccourcis.*\
 *Remarque : Target practice (osu!), 1K et 2K (osu!mania), Co-op (osu!mania), et Mirror (osu!mania) n'ont pas de raccourcis.*
 
@@ -282,7 +282,7 @@ Ces raccourcis fonctionnent partout dans l'éditeur de beatmaps :
 | `Ctrl` + `C` | Copie le sprite sélectionné. |
 | `Ctrl` + `V` | Colle le sprite à l'horodatage actuel. *Remarque : les sprites collés n'apparaîtront pas dans la liste des calques tant que la beatmap n'aura pas été sauvegardé et rechargé. |
 | `Delete` | Supprime le sprite sélectionné du calque. |
-| `W`, `A`, `S`, `D` | Déplace le sprite sélectionné vers le haut, la gauche, le bas ou la droite, respectivement d'un [osu!pixel](/wiki/osupixel). |
+| `W`, `A`, `S`, `D` | Déplace le sprite sélectionné vers le haut, la gauche, le bas ou la droite, respectivement d'un [osu!pixel](/wiki/Client/Beatmap_editor/osu!_pixel). |
 
 ### Timing
 

@@ -25,6 +25,7 @@ Seleziona la sezione che corrisponde maggiormente al problema per trovare una so
 | [Installazione e registrazione](/wiki/Help_centre/Installation_and_registration) | Scaricare il gioco, creare un account |
 | [Negozio](/wiki/Help_centre/Store) | Merchandise, osu!go, osu!keyboard, osu!tablet |
 | [Ban dai Tornei](/wiki/Help_centre/Tournament_bans) | Tutto sui Ban dai Tornei: panoramica, motivi comuni, e cooldown |
+| [Aggiornare a Lazer](/wiki/Help_centre/Upgrading_to_lazer) | Migrare alla [nuova versione principale](/wiki/Client/Release_stream/Lazer) di osu! |
 | [Sito Web](/wiki/Help_centre/Website) | Bloccare utenti, contattare il supporto, aspetto del sito |
 
 ## Aiutaci ad Aiutarti {#diagnostics}

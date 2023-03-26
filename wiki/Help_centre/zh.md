@@ -26,6 +26,7 @@ tags:
 | [安装与注册](/wiki/Help_centre/Installation_and_registration) | 下载游戏，注册帐号 |
 | [商店](/wiki/Help_centre/Store) | 周边产品如 osu!go, osu!keyboard, osu!tablet |
 | [禁赛](/wiki/Help_centre/Tournament_bans) | 禁赛相关：概述，常见原因和冷静期 |
+| [升级到激光版 (lazer)](/wiki/Help_centre/Upgrading_to_lazer) | 迁移到 osu! [的下一个主要版本](/wiki/Client/Release_stream/Lazer) |
 | [网站](/wiki/Help_centre/Website) | 屏蔽用户，获得支持，网站外观 |
 
 ## 让我们帮助你 {#diagnostics}

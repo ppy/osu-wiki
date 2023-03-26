@@ -68,7 +68,7 @@ The Taiko LMS: Shift Cup was run by various osu!taiko community members.
 | **Illness liLin** | ::{ flag=MY }:: **[ZethZ161](https://osu.ppy.sh/users/9912966)**, ::{ flag=MY }:: [cdhsausageboy](https://osu.ppy.sh/users/2403621), ::{ flag=MY }:: [CrabCow](https://osu.ppy.sh/users/9755504), ::{ flag=MY }:: [delibrium](https://osu.ppy.sh/users/9445913) |
 | **Kong Donkey Donkey Kong** | ::{ flag=IT }:: **[Ikkun](https://osu.ppy.sh/users/1059945)**, ::{ flag=IT }:: [D3kuu](https://osu.ppy.sh/users/7807444), ::{ flag=SE }:: [Eiuh](https://osu.ppy.sh/users/4653213), ::{ flag=DE }:: [Ak1o](https://osu.ppy.sh/users/1600041) |
 | **logic is half ＢＬＡＣＫ!** | ::{ flag=GB }:: **[Lain Iwakura](https://osu.ppy.sh/users/4761739)**, ::{ flag=US }:: [\_knots](https://osu.ppy.sh/users/4407678), ::{ flag=GB }:: [Polfy](https://osu.ppy.sh/users/4623263), ::{ flag=GB }:: [Sona lessthan3](https://osu.ppy.sh/users/6928305) |
-| **Loss.jpg** | ::{ flag=ID }:: **[Lightning Wyvern](https://osu.ppy.sh/users/6506484)**, ::{ flag=ID }:: [Guardistack-](https://osu.ppy.sh/users/7930622), ::{ flag=ID }:: [\]\[ -GH- \]\[](https://osu.ppy.sh/users/6278008) |
+| **Loss.jpg** | ::{ flag=ID }:: **[Lightning Wyvern](https://osu.ppy.sh/users/6506484)**, ::{ flag=ID }:: [Guardistack-](https://osu.ppy.sh/users/1602428), ::{ flag=ID }:: [\]\[ -GH- \]\[](https://osu.ppy.sh/users/1538223) |
 | **Mujuuryoku** | ::{ flag=HK }:: **[Akali393394](https://osu.ppy.sh/users/9686628)**, ::{ flag=PH }:: [yuki\_momoiro722](https://osu.ppy.sh/users/7186791), ::{ flag=AU }:: [Tsubasa2](https://osu.ppy.sh/users/6835183), ::{ flag=AU }:: [cactusthegreat](https://osu.ppy.sh/users/5592409) |
 | **Needs Some Nosso Samba 1212** | ::{ flag=VE }:: **[Colorojo12](https://osu.ppy.sh/users/5136821)**, ::{ flag=BR }:: [HiroK](https://osu.ppy.sh/users/4050738), ::{ flag=US }:: [yea](https://osu.ppy.sh/users/6874332), ::{ flag=US }:: [JDrago14](https://osu.ppy.sh/users/7690078) |
 | **Noko Pan Pan** | ::{ flag=JP }:: **[Noko_BSF](https://osu.ppy.sh/users/3811831)**, ::{ flag=JP }:: [hoku-4625](https://osu.ppy.sh/users/9503098), ::{ flag=JP }:: [kitafuma](https://osu.ppy.sh/users/8987606), ::{ flag=JP }:: [nyanmi-1828](https://osu.ppy.sh/users/6866480) |
@@ -524,7 +524,7 @@ Saturday, 8 June 2018 and Sunday, 9 June 2018:
 ### Mappool instructions
 
 1. Each stage will receive its own mappool.
-2. Each map-pool consists of 7 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time), FreeMod, Extra, and Tiebreaker.
+2. Each map-pool consists of 7 brackets: NoMod, [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time), FreeMod, Extra, and Tiebreaker.
 3. Each mappool consists of 18 maps in total.
 4. Each map-pool has one tiebreaker.
    - Each map-pool has one tiebreaker.
