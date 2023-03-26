@@ -15,7 +15,7 @@ Beatmap Editor memiliki empat komponen utama sebagaimana yang dapat dilihat pada
 
 ## Compose
 
-Tab [Compose](/wiki/Client/Beatmap_editor/Compose) merupakan bagian dari editor yang dipergunakan untuk menempatkan [hit object](/wiki/Hit_object) dan elemen-elemen permainan lainnya. Pada umumnya, para mapper akan meluangkan sebagian besar waktunya pada tab ini.
+Tab [Compose](/wiki/Client/Beatmap_editor/Compose) merupakan bagian dari editor yang dipergunakan untuk menempatkan [hit object](/wiki/Gameplay/Hit_object) dan elemen-elemen permainan lainnya. Pada umumnya, para mapper akan meluangkan sebagian besar waktunya pada tab ini.
 
 ## Design
 

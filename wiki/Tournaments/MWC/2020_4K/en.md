@@ -10,7 +10,7 @@ tags:
 
 ![MWC 4K 2020 logo](/wiki/shared/news/banners/MWC4k2020.jpg)
 
-The **osu!mania 4K World Cup 2020** (***MWC 4K 2020***) was a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/The_Team). It was the seventh instalment of the osu!mania 4K World Cup.
+The **osu!mania 4K World Cup 2020** (***MWC 4K 2020***) was a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/osu!_team). It was the seventh instalment of the osu!mania 4K World Cup.
 
 ## Tournament schedule
 
@@ -37,7 +37,7 @@ The **osu!mania 4K World Cup 2020** (***MWC 4K 2020***) was a country-based osu!
 
 ## Organisation
 
-The osu!mania 4K World Cup 2020 was run by the [osu! team](/wiki/People/The_Team) and various community members.
+The osu!mania 4K World Cup 2020 was run by the [osu! team](/wiki/People/osu!_team) and various community members.
 
 | Position | Member(s) |
 | :-- | :-- |

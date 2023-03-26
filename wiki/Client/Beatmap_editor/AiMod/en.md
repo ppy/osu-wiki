@@ -126,7 +126,7 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 
 | Message | Explanation | Solution |
 | :-- | :-- | :-- |
-| Stack leniency is larger than 0.9 or smaller than 0.3. | The Stack Leniency slider in the Advanced tab of Song Setup is set to either 2 or 10. | Set the slider so that it is between 3 and 9. |
+| [Stack leniency](/wiki/Beatmap/Stack_leniency) is larger than 0.9 or smaller than 0.3. | The Stack Leniency slider in the Advanced tab of Song Setup is set to either 2 or 10. | Set the slider so that it is between 3 and 9. |
 | <!-- editor removes any unicode automatically, but this warning probably still exists -->Romanised artist contains unicode. |  |  |
 | <!-- editor removes any unicode automatically, but this warning probably still exists -->Romanised title contains unicode. |  |  |
 | Countdown is not allowed in mania mode. | osu!mania maps only! | Uncheck `Enable countdown` in the "Design" tab in Song Setup. |

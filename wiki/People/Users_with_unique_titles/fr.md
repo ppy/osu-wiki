@@ -5,7 +5,7 @@ outdated_since: 442efe1ddbcbc90c52993ae5117c9abfb191125e
 
 # Utilisateurs avec des titres uniques
 
-Les titres d'utilisateurs sont généralement associés aux [groupes d'utilisateurs](/wiki/People/The_Team#groupes-d'utilisateurs), mais les utilisateurs listés ci-dessous ont reçu leur titre pour d'autres raisons. La plupart des titres étaient des récompenses pour des contributions ou des exploits, les autres étant des symboles de l'histoire emblématique ou amusante d'osu!.
+Les titres d'utilisateurs sont généralement associés aux [groupes d'utilisateurs](/wiki/People/osu!_team#groupes-d'utilisateurs), mais les utilisateurs listés ci-dessous ont reçu leur titre pour d'autres raisons. La plupart des titres étaient des récompenses pour des contributions ou des exploits, les autres étant des symboles de l'histoire emblématique ou amusante d'osu!.
 
 ## Titulaires actuels de la World Cup
 
@@ -177,7 +177,7 @@ La plupart des concours officiels de mapping offrent le titre de **Elite Mapper*
 
 ## Elite Nominators
 
-Depuis 2020, l'activité des [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) et des membres de la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) en faveur du système de classement est récompensée par le titre **Elite Nominator**. Ce titre est attribué au début de chaque année pour les contributions apportées au cours de la précédente, et est retiré lorsque l'utilisateur quitte l'équipe.
+Depuis 2020, l'activité des [Beatmap Nominators](/wiki/People/Beatmap_Nominators) et des membres de la [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) en faveur du système de classement est récompensée par le titre **Elite Nominator**. Ce titre est attribué au début de chaque année pour les contributions apportées au cours de la précédente, et est retiré lorsque l'utilisateur quitte l'équipe.
 
 - ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229)
 - ::{ flag=CA }:: [guden](https://osu.ppy.sh/users/11626065)
@@ -221,7 +221,7 @@ Les [osu!trivium Quiz contests](/wiki/Contests/osu!trivium_Quiz) décernent à l
 
 ## Featured Artists
 
-Les [Featured Artists](/wiki/Featured_Artists) possédant un compte osu! reçoivent le titre **Featured Artist** pour montrer leur implication.
+Les [Featured Artists](/wiki/People/Featured_Artists) possédant un compte osu! reçoivent le titre **Featured Artist** pour montrer leur implication.
 
 ::{ flag=NO }:: [cYsmix](https://osu.ppy.sh/users/272870) et ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) ont le titre **osu!musician** pour leurs contributions antérieures à la conception sonore et aux thèmes officiels d'osu! et ::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471) a choisi de garder le titre **osu!mixer** (qui a depuis été mis à jour en osu!mixer II) lorsqu'il est devenu un Featured Artist.
 
@@ -303,11 +303,13 @@ Ces joueurs ont obtenu leur titre respectif soit en réalisant un exploit de jeu
 
 | Utilisateur | Titre | Réalisation |
 | :-- | :-- | :-- |
-| ::{ flag=NO }:: [-GN](https://osu.ppy.sh/users/895581) | Champion Above Champions | A réalisé le premier FC NoMod sur [Shotgun Symphony+ [Impossibly Intense]](https://osu.ppy.sh/beatmapsets/7671#osu/32570) |
+| ::{ flag=NO }:: [-GN](https://osu.ppy.sh/users/895581) | Champion Above Champions | A réalisé le premier FC NoMod sur [Shotgun Symphony+ [Impossibly Intense]](https://osu.ppy.sh/beatmapsets/7671#osu/32570). |
+| ::{ flag=US }:: [EEEEEEEEEEEEEEE](https://osu.ppy.sh/users/2927048) | osu!completionist | A réalisé un score sur toutes les beatmaps classées du mode osu! le 15 mars 2023. |
 | ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) | Drum Decimator | A réalisé un FC sur toutes les beatmaps classées du mode osu!taiko le 3 novembre 2019. |
+| ::{ flag=PL }:: [Przegrany](https://osu.ppy.sh/users/7635621) | osu!completionist | A réalisé un score sur toutes les beatmaps classées du mode osu! le 11 août 2021. |
 | ::{ flag=NL }:: [Shirotora_old](https://osu.ppy.sh/users/11820) | Bested the Reaper's Game | Décerné par ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) à la fin de l'année 2008 pour avoir atteint le rang #104 en une semaine, en tant que référence à [*The World Ends with You*](https://fr.wikipedia.org/wiki/The_World_Ends_with_You) |
 | ::{ flag=US }:: [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist | A réalisé un score sur toutes les beatmaps classées du mode osu! le 27 avril 2019. |
-| ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter | A gagné [The Hunt for the Girl in the Forest](https://osu.ppy.sh/community/forums/topics/662279) |
+| ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter | A gagné [The Hunt for the Girl in the Forest](https://osu.ppy.sh/community/forums/topics/662279). |
 
 ## Contributeurs
 
