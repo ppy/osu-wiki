@@ -126,7 +126,7 @@ Le développement d'AiMod est généralement en retard par rapport aux normes de
 
 | Message | Explication | Solution |
 | :-- | :-- | :-- |
-| Le stack leniency est supérieure à 0,9 ou inférieure à 0,3. | Le stack leniency dans l'onglet Advanced de Song Setup est réglé sur 2 ou 10. | Réglez le slider de manière à ce qu'il se situe entre 3 et 9. |
+| Le [stack leniency](/wiki/Beatmap/Stack_leniency) est supérieure à 0,9 ou inférieure à 0,3. | Le stack leniency dans l'onglet Advanced de Song Setup est réglé sur 2 ou 10. | Réglez le slider de manière à ce qu'il se situe entre 3 et 9. |
 | <!-- editor removes any unicode automatically, but this warning probably still exists -->L'artiste romanisé contient de l'unicode. |  |  |
 | <!-- editor removes any unicode automatically, but this warning probably still exists -->Le titre romanisé contient de l'unicode. |  |  |
 | Le compte à rebours n'est pas autorisé en mode osu!mania. | beatmaps osu!mania uniquement ! | Décochez la case `Enable countdown` dans l'onglet `Design` de l'onglet Song Setup. |
@@ -165,8 +165,6 @@ Le développement d'AiMod est généralement en retard par rapport aux normes de
 | Les timing points non hérités entrent en conflit avec la difficulté {0}. |  |  |
 
 ## Défauts
-
-<!-- TODO: I'm sure there are more flaws, just can't think of any more off the top of my head -->
 
 - **AiMod ne peut pas détecter un grand nombre de problèmes** qui sont considérés comme non classables par les [critères de classement](/wiki/Ranking_Criteria), tels que les objets potentiellement mal rythmés, les hitsounds retardés, les fichiers d'arrière-plan de plus de 2,5 Mo, etc.
 - **AiMod peut vous avertir de l'absence de problèmes**, comme le fait que les beatmaps nécessitent deux difficultés du mode osu! sur une beatmap [marathon](/wiki/Beatmap/Marathon) et que l'option [kiai time](/wiki/Gameplay/Kiai_time) soit activée pendant moins de 15 secondes.

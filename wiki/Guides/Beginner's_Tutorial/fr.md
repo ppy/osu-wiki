@@ -4,7 +4,7 @@ Bienvenue dans le tutoriel pour débutants d'osu! Le monde d'osu! peut parfois �
 
 ## Types d'entrées
 
-*Page principale : [Styles de jeu](/wiki/Play_style)*
+*Page principale : [Styles de jeu](/wiki/Gameplay/Play_style)*
 
 Par défaut, beaucoup de joueurs commenceront par utiliser la souris, car c'est de loin l'outil de visée le plus rapide. Mais il existe en fait plusieurs moyens d'entrée pour contrôler le curseur et faire apparaître les cercles :
 

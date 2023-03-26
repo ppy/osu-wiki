@@ -4,7 +4,7 @@
 
 **摸图 (Modding)** 指测试其他玩家的[谱面](/wiki/Beatmap)，并提供反馈的行为。提供反馈的玩家叫做*摸图员 (modder)*，同时，他们发表于谱面讨论页，用于提供反馈的帖子就叫做*摸 (mod)*。
 
-摸的核心作用是提升谱面质量，并能够帮助谱面[上架 (Ranked)](/wiki/Beatmap/Category#ranked)。因为摸图时，玩家通常需要细致地分析谱面，因此摸图也是一种帮助玩家提升作图技术和理解的流行方法。
+摸的核心作用是提升谱面质量，并能够帮助谱面[上架 (Ranked)](/wiki/Beatmap/Category#上架-(ranked))。因为摸图时，玩家通常需要细致地分析谱面，因此摸图也是一种帮助玩家提升作图技术和理解的流行方法。
 
 ## 寻找能摸的谱面
 
@@ -29,7 +29,7 @@
 
 所有的摸图贴都应指出问题是什么，为什么它会成为问题，以及问题的解决方法。参见：[行为准则：摸图与作图](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping#摸图和留言)。
 
-发出请求的谱师通常需要给已参考并应用至谱面的摸图帖*点赞*，此时，摸图员就能得到 [kudosu](/wiki/Modding/Kudosu)。kudosu 会在主页统计数量、追踪来源，并作为申请加入[谱面审核员 (BN)](/wiki/People/The_Team/Beatmap_Nominators) 的一个重要参考指标。
+发出请求的谱师通常需要给已参考并应用至谱面的摸图帖*点赞*，此时，摸图员就能得到 [kudosu](/wiki/Modding/Kudosu)。kudosu 会在主页统计数量、追踪来源，并作为申请加入[谱面审核员 (BN)](/wiki/People/Beatmap_Nominators) 的一个重要参考指标。
 
 ## 摸图帖种类
 

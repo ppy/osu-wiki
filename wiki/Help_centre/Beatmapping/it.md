@@ -25,7 +25,7 @@ Per caricare la tua beatmap, vai nell'editor e clicca `File` > `Carica Beatmap`.
 
 Questo renderà la tua beatmap disponibile da scaricare agli altri giocatori sul sito web. La stessa procedura vale nel caso si voglia aggiornare una mappa già caricata.
 
-Ogni utente ha un numero limitato di mappe che possono caricare. Lasciare la mappa inattiva per un mese (28 giorni), senza aggiornarla, verrà mandata nelle [Beatmap Abbandonate](/wiki/Beatmap/Category#graveyard). Per risvegliare una beatmap da quelle abbandonate a quelle in attesa o WIP, basta aggiornarla.
+Ogni utente ha un numero limitato di mappe che possono caricare. Lasciare la mappa inattiva per un mese (28 giorni), senza aggiornarla, verrà mandata nelle [Beatmap Abbandonate](/wiki/Beatmap/Category#mappe-abbandonate). Per risvegliare una beatmap da quelle abbandonate a quelle in attesa o WIP, basta aggiornarla.
 
 ## L'editor dice che "la beatmap che stai cercando di caricare non è tua!" {#wrong-author}
 
@@ -39,11 +39,11 @@ Se hai ancora problemi o desideri avere più informazioni a riguardo, ti invitia
 
 ## Sono un osu!supporter, ma non ho 20 slot per le mappe in attesa! {#upload-slots}
 
-**Il numero di slot disponibili dipende dal tuo numero di mappe classificate. Per maggiori dettagli, leggi [osu!supporter § Limiti aumentati](/wiki/osu!supporter#increased-limits).**
+**Il numero di slot disponibili dipende dal tuo numero di mappe classificate. Per maggiori dettagli, leggi [osu!supporter § Limiti aumentati](/wiki/osu!supporter#limiti-aumentati).**
 
 ## Come elimino la mia beatmap? {#delete-beatmap}
 
-**Il [team di supporto](/wiki/People/The_Team/Account_support_team) non accettano richieste per eliminare manualmente le beatmap caricate.**
+**Il [team di supporto](/wiki/People/Account_support_team) non accettano richieste per eliminare manualmente le beatmap caricate.**
 
 Puoi cancellare la tua beatmap da solo aspettando un mese (28 giorni) senza aggiornarla, così che vada nelle mappe abbandonate.
 

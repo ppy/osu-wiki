@@ -8,24 +8,24 @@ tags:
 
 The **bubble** (![Bubble icon](/wiki/shared/icon/bubble.gif)) was a forum post icon used by the members of the following modding teams involved in the [beatmap ranking process](/wiki/Beatmap_ranking_procedure):
 
-- [Beatmap Appreciation Team](/wiki/Modding/Beatmap_Appreciation_Team) (*BAT*)
-- [Mapping Assistance Team](/wiki/Modding/Mapping_Assistance_Team) (*MAT*)
-- [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BN*)
-- [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) (*QAT*)
+- [Beatmap Appreciation Team](/wiki/People/Beatmap_Appreciation_Team) (*BAT*)
+- [Mapping Assistance Team](/wiki/People/Mapping_Assistance_Team) (*MAT*)
+- [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*)
+- [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) (*QAT*)
 
 Being the next step of the [old ranking system](/wiki/Modding/Forum_modding) after a [proto-bubble](/wiki/Modding/Proto-bubble), a regular bubble meant that a [beatmap](/wiki/Beatmap) was ready to be ranked from the modder's point of view. Bubbled beatmaps would be eventually checked by another member of the BAT or BN and [ranked](/wiki/Beatmap/Category#ranked) or [approved](/wiki/Beatmap/Category#approved) as long as only minor changes to the map were required.
 
-In the modern [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure), the equivalent of a bubble is the first nomination<!-- TODO: nomination article link --> given by a [beatmap nominator](/wiki/People/The_Team/Beatmap_Nominators).
+In the modern [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure), the equivalent of a bubble is the first [nomination](/wiki/Beatmap_ranking_procedure#nominations) given by a [beatmap nominator](/wiki/People/Beatmap_Nominators).
 
 ## History
 
-*See also: [Mapping and modding timeline](/wiki/Mapping_and_Modding_Timeline)*
+*See also: [Mapping and modding timeline](/wiki/History_of_osu!/Mapping_and_Modding_Timeline)*
 
 Bubbles were introduced by ::{ flag=AU }:: [peppy](/wiki/People/peppy) on October 29, 2007, for "beatmaps that are being considered for ranked play (pending further moderator's feedback)". Setting a beatmap thread's icon to a bubble was a way for BAT members to indicate that the beatmap was of good quality and had followed the [ranking criteria](/wiki/Ranking_Criteria)<!-- internal reference: https://osu.ppy.sh/community/forums/topics/619 -->.
 
 On October 3, 2010, the MAT received the permissions to use the bubble icon, alongside the BAT<!-- internal reference: https://osu.ppy.sh/community/forums/topics/38403 -->. This essentially deprecated the [proto-bubbles](/wiki/Modding/Proto-bubble), and both teams had been primarily using regular bubbles since.
 
-After the [beatmap discussion system](/wiki/Beatmap_discussion) was fully implemented and became the main interface for modding in November 2017, the forum-based beatmap management controls were phased out, with bubbles being naturally replaced by nominations<!-- TODO: nomination article link -->.
+After the [beatmap discussion system](/wiki/Beatmap_discussion) was fully implemented and became the main interface for modding in November 2017, the forum-based beatmap management controls were phased out, with bubbles being naturally replaced by nominations.
 
 ## Mechanics
 
