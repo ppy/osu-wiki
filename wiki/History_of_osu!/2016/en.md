@@ -36,7 +36,7 @@ Additionally, in response to the backlash from the community, Ephemeral promised
 
 **The modding panel on the new osu! website (new.ppy.sh) was set live for public testing on 11 April 2016**. However, the testing was only available for [Ice - L2 - Ascension : Act 2 (Liberation) (LordRaika)](https://osu.ppy.sh/beatmapsets/123760) and [Camellia - overcomplexification (ProfessionalBox)](https://osu.ppy.sh/beatmapsets/351408). According to [Loctav](https://osu.ppy.sh/users/71366), the main idea of the panel was to split problems into separate posts and then discuss them individually for easier tracking of issues and such as part of the steps towards implementing the long-awaited "Modding V2".[^mv2-feedback-thread]<!--wayback snapshot broken-->
 
-**New medal designs were added to osu! on 14 April 2016.**[^medals-showcase-yt] They meant to be more in-line with the "[osu!next](https://osunext.tumblr.com/about)" design philosophy that was used in the new osu! client (codenamed "lazer") and on the new website.[^osu-weekly-57][^apr-15-changelog]
+**New medal designs were added to osu! on 14 April 2016.**[^medals-showcase-yt] They meant to be more in-line with the "[osu!next](https://osunext.tumblr.com/about)" design philosophy that was used in the [new osu! client](/wiki/Client/Release_stream/Lazer) (codenamed "lazer") and on the new website.[^osu-weekly-57][^apr-15-changelog]
 
 ![](img/new-medal-design-2016.jpg "Medal unlock graphic showcasing the new design that would appear in-game")
 

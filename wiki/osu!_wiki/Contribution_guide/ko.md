@@ -2,7 +2,7 @@
 
 osu! wiki 개선에 관심을 가져주셔서 감사합니다! 이 문서에서는 기여를 하는 방법을 단계별로 알아볼 수 있습니다. Github 사용에 익숙하신 분의 경우, feature-branch 워크플로우 방식으로 콘텐츠를 업데이트하고 [검토](#검토) 과정으로 넘어가시면 됩니다.
 
-GitHub 혹은 [git](https://git-scm.com/)은 개발자를 대상으로 하는 도구기 때문에 처음 기여하시는 분들은 익숙하지 않을 수 있습니다. 그러니 처음에 제대로 이해를 하지 못했다고 해도 걱정하지 마세요. [위키 관리자](/wiki/osu!_wiki/Maintenance/List_of_maintainers)가 올바른 방법을 알려드리거나 수정해 드릴 겁니다.
+GitHub 혹은 [git](https://git-scm.com/)은 개발자를 대상으로 하는 도구기 때문에 처음 기여하시는 분들은 익숙하지 않을 수 있습니다. 그러니 처음에 제대로 이해를 하지 못했다고 해도 걱정하지 마세요. [위키 관리자](/wiki/People/osu!_wiki_maintainers)가 올바른 방법을 알려드리거나 수정해 드릴 겁니다.
 
 작업 중 궁금한 것이 생기거나 지원이 필요하시다면, 주저하지 말고 [osu!dev 디스코드 서버](/wiki/Community/osu!dev_Discord_server)의 `#osu-wiki` 채널에 물어보시면 답변해 드리겠습니다.
 
@@ -61,6 +61,6 @@ osu! wiki의 모든 변경 사항은 관리됩니다. 이 단계에서 다른 �
 
 ## 병합
 
-변경한 내용은 일반적으로 다른 리뷰어들에게 검토된 뒤, [위키 관리자](/wiki/osu!_wiki/Maintenance/List_of_maintainers) 중 한 명이 최종적으로 확인을 합니다. 시간이 지나도 아무것도 일어나지 않는다면 Pull Request의 댓글이나 [osu!dev 디스코드 서버](/wiki/Community/osu!dev_Discord_server)의 `#osu-wiki` 채널에 질문하세요. 변경된 사항은 병합 후 짧은 시간 내에 반영됩니다 (드물게 최대 5시간까지 소요될 수 있습니다).
+변경한 내용은 일반적으로 다른 리뷰어들에게 검토된 뒤, [위키 관리자](/wiki/People/osu!_wiki_maintainers) 중 한 명이 최종적으로 확인을 합니다. 시간이 지나도 아무것도 일어나지 않는다면 Pull Request의 댓글이나 [osu!dev 디스코드 서버](/wiki/Community/osu!dev_Discord_server)의 `#osu-wiki` 채널에 질문하세요. 변경된 사항은 병합 후 짧은 시간 내에 반영됩니다 (드물게 최대 5시간까지 소요될 수 있습니다).
 
 [osu_wiki]: https://github.com/ppy/osu-wiki

@@ -3,11 +3,13 @@ no_native_review: true
 tags:
   - development
   - 開發
+outdated_translation: true
+outdated_since: 7ca332517b46ef83f80a09c1b9082b437bacd39a
 ---
 
 # osu!dev Discord 伺服器
 
-**osu!dev** 是官方的 [Discord](https://discordapp.com) 伺服器，用於 osu! 的開源及社群專案。也是為 osu! 貢獻及聯繫 [osu! 團隊](/wiki/People/The_Team)的主要場所。
+**osu!dev** 是官方的 [Discord](https://discordapp.com) 伺服器，用於 osu! 的開源及社群專案。也是為 osu! 貢獻及聯繫 [osu! 團隊](/wiki/People/osu!_team)的主要場所。
 
 永久邀請網址為 <https://discord.gg/ppy>。
 
@@ -21,10 +23,10 @@ tags:
 
 | 專案 | 頻道 |
 | :-- | :-- |
-| [osu!(lazer)](https://github.com/ppy/osu) | `#osu-lazer` |
+| [osu!(lazer)](/wiki/Client/Release_stream/Lazer) | `#osu-lazer` |
 | [osu!framework](https://github.com/ppy/osu-framework) | `#osu-framework` |
 | [osu!web](https://github.com/ppy/osu-web) | `#osu-web` |
-| [osu!](/wiki/Game_mode/osu!) [star rating](/wiki/Beatmapping/Star_rating) 和 [pp](/wiki/Performance_points) | `#difficulty-osu` |
+| [osu!](/wiki/Game_mode/osu!) [star rating](/wiki/Beatmap/Star_rating) 和 [pp](/wiki/Performance_points) | `#difficulty-osu` |
 | [osu!taiko](/wiki/Game_mode/osu!taiko) 星級和 pp | `#difficulty-taiko` |
 | [osu!catch](/wiki/Game_mode/osu!catch) 星級和 pp | `#difficulty-catch` |
 | [osu!mania](/wiki/Game_mode/osu!mania) 星級和 pp | `#difficulty-mania` |
@@ -33,5 +35,5 @@ tags:
 | [Project Loved](/wiki/Community/Project_Loved) | `#osu-loved` |
 | [Official tournament support](/wiki/Tournaments/Official_support) | `#tournaments` |
 | [osu! 社群會議](/wiki/Community/osu!_community_meetings) | `#community-meetings` |
-| [審圖](/wiki/Modding)討論 及 [NAT 會議](/wiki/Modding/NAT_meetings) | `#modding` |
+| [審圖](/wiki/Modding)討論 及 [NAT 會議](/wiki/People/Nomination_Assessment_Team/NAT_meetings) | `#modding` |
 | [製圖者公會 (Mappers' Guild)](/wiki/Community/Mappers_Guild) | `#mappers-guild` |

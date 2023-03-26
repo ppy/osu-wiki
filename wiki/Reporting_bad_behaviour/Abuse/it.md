@@ -33,7 +33,7 @@ Se senti che queste osservazioni/avance erano altamente inappropriate o sei un u
 
 ### In un post pubblico sui forum di osu!
 
-Segnala il post ad un qualsiasi membro del nostro [Team di Moderazione Globale](/wiki/People/The_Team/Global_Moderation_Team) il prima possibile.
+Segnala il post ad un qualsiasi membro del nostro [Team di Moderazione Globale](/wiki/People/Global_Moderation_Team) il prima possibile.
 
 Per farlo, clicca il nome utente di un qualsiasi utente GMT nella lista su quella pagina. Questo ti portera al suo profilo. Se non sei sicuro di chi cliccare, usa [invece questo link](https://osu.ppy.sh/users/102335).
 

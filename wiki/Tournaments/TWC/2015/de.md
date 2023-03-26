@@ -8,7 +8,7 @@ tags:
 
 ![TWC 2015 logo](img/logo.png)
 
-Der **osu! Taiko World Cup 2015** (***TWC 2015***) war ein länderbasiertes Taiko-Turnier, das vom [osu!-Team](/wiki/People/The_Team) ausgerichtet wurde. Es war die 5. Austragung des osu! Taiko World Cup.
+Der **osu! Taiko World Cup 2015** (***TWC 2015***) war ein länderbasiertes Taiko-Turnier, das vom [osu!-Team](/wiki/People/osu!_team) ausgerichtet wurde. Es war die 5. Austragung des osu! Taiko World Cup.
 
 ## Turnierzeitplan
 
@@ -422,7 +422,7 @@ Sonntag, 8. März 2015:
 1. Der osu! Taiko World Cup ist ein länderbasiertes Team-Turnier.
 2. Die Beatmaps werden von der Mappool-Auswahl für jede Runde im Vorhinein am Sonntag angekündigt, bevor die eigentliche Partie stattfindet. Nur diese werden dann während den entsprechenden Partien zur Verfügung stehen.
    - Eine Beatmap wird als Tiebreaker-Map angegeben. Diese Beatmap wird nur bei einem Punktegleichstand gespielt.
-   - Es wird auch eine [Hidden-](/wiki/Game_modifier/Hidden), [HardRock-](/wiki/Game_modifier/Hard_Rock), [DoubleTime-](/wiki/Game_modifier/Double_Time) und FreeMod-Klasse geben.
+   - Es wird auch eine [Hidden-](/wiki/Gameplay/Game_modifier/Hidden), [HardRock-](/wiki/Gameplay/Game_modifier/Hard_Rock), [DoubleTime-](/wiki/Gameplay/Game_modifier/Double_Time) und FreeMod-Klasse geben.
 3. Der Turnierzeitplan wird vom Turniermanagement festgelegt (siehe unten).
 4. Ergebnisse von Spielern, die gescheitert sind, werden zum Teamergebnis hinzugerechnet.
 5. Wenn kein Schiedsrichter oder Personal vorhanden sein sollte, wird die Partie verschoben.

@@ -5,7 +5,7 @@ outdated_since: 19b927981cd3ce7dc92de5ef7b72f84ce33b7d7e
 
 # Uciszenie
 
-**Uciszenie** (ang. *silence*), to rodzaj kary, która ogranicza komunikację użytkownika ze społecznością osu!. Uciszenia są nakładane na użytkowników, którzy złamali [zasady społeczności](/wiki/Rules), przez [moderatorów globalnych](/wiki/People/The_Team/Global_Moderation_Team) i członków [zespołu zapewniania jakości](/wiki/People/The_Team/Nomination_Assessment_Team).
+**Uciszenie** (ang. *silence*), to rodzaj kary, która ogranicza komunikację użytkownika ze społecznością osu!. Uciszenia są nakładane na użytkowników, którzy złamali [zasady społeczności](/wiki/Rules), przez [moderatorów globalnych](/wiki/People/Global_Moderation_Team) i członków [zespołu zapewniania jakości](/wiki/People/Nomination_Assessment_Team).
 
 ## Ograniczenia
 

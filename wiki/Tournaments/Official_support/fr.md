@@ -3,13 +3,15 @@ tags:
   - badge
   - badges
   - badged
+outdated_translation: true
+outdated_since: 43f67096dc184164d6d4ec03e05a6da73eeac72f
 ---
 
 # Support officiel aux tournois
 
 *Pour le support des concours de beatmapping, voir : [Support officiel aux concours](/wiki/Contests/Official_support).*
 
-L'[équipe d'osu!](/wiki/People/The_Team) gère un programme dans le cadre duquel elle peut choisir de fournir un support supplémentaire aux tournois gérés par la communauté qui respectent un certain nombre de critères et d'attentes, à sa discrétion.
+L'[équipe d'osu!](/wiki/People/osu!_team) gère un programme dans le cadre duquel elle peut choisir de fournir un support supplémentaire aux tournois gérés par la communauté qui respectent un certain nombre de critères et d'attentes, à sa discrétion.
 
 Cet article a été mis à jour le 2 février 2023. Pour toute question ou clarification, veuillez consulter le salon textuel `#tournaments` sur le serveur Discord [osu!dev](https://discord.com/invite/ppy) ou envoyer un e-mail à [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 

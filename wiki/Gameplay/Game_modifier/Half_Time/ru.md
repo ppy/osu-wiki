@@ -18,7 +18,7 @@ tags:
 
 ![Значок мода HT](/wiki/shared/mods/HT.png "Значок мода Half Time (HT)")
 
-*Полный список модов: см. [Игровой модификатор](/wiki/Game_modifier)*
+*Полный список модов: см. [Игровой модификатор](/wiki/Gameplay/Game_modifier)*
 
 ## Краткая информация
 
@@ -35,17 +35,17 @@ tags:
 
 *Примечание: метод, с помощью которого Half Time изменяет скорость аудио, может добавлять шумное или роботизированное звучание.*
 
-**Half Time** (рус. *половинное время*, жарг. *халфтайм, ХТ*) — [игровой модификатор](/wiki/Game_modifier) замедляющий скорость [карты](/wiki/Beatmap) (BPM) до 75% от первоначальной. В результате песня становится на 33% дольше, а у карты слегка снижаются [скорость появления нот (AR)](/wiki/Beatmapping/Approach_rate), [общая сложность (OD)](/wiki/Beatmapping/Overall_difficulty) и [потеря здоровья (HP)](/wiki/Gameplay/Health).
+**Half Time** (рус. *половинное время*, жарг. *халфтайм, ХТ*) — [игровой модификатор](/wiki/Gameplay/Game_modifier) замедляющий скорость [карты](/wiki/Beatmap) (BPM) до 75% от первоначальной. В результате песня становится на 33% дольше, а у карты слегка снижаются [скорость появления нот (AR)](/wiki/Beatmap/Approach_rate), [общая сложность (OD)](/wiki/Beatmap/Overall_difficulty) и [потеря здоровья (HP)](/wiki/Gameplay/Health).
 
 ### osu!taiko
 
-В [osu!taiko](/wiki/Game_mode/osu!taiko) замедление карты приводит к тому, что за счёт пониженных BPM и AR ноты накладываются друг на друга. Из-за особенностей спиннеров в тайко число нажатий, требуемое для их прохождения, увеличивается, и спиннеры начинают приносить **больше очков, чем без Half Time**, поскольку на них не действует [множитель очков](/wiki/Game_modifier/Score_multiplier).
+В [osu!taiko](/wiki/Game_mode/osu!taiko) замедление карты приводит к тому, что за счёт пониженных BPM и AR ноты накладываются друг на друга. Из-за особенностей спиннеров в тайко число нажатий, требуемое для их прохождения, увеличивается, и спиннеры начинают приносить **больше очков, чем без Half Time**, поскольку на них не действует [множитель очков](/wiki/Gameplay/Game_modifier/Score_multiplier).
 
-Таким образом, Half Time позволяет набрать больше очков на картах с низким комбо, где много длинных спиннеров. Эффект усиливается при добавлении мода [Hard Rock](/wiki/Game_modifier/Hard_Rock).
+Таким образом, Half Time позволяет набрать больше очков на картах с низким комбо, где много длинных спиннеров. Эффект усиливается при добавлении мода [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock).
 
 ### osu!catch
 
-В [osu!catch](/wiki/Game_mode/osu!catch) BPM песни и скорость ловца фруктов снижаются так же, как в других режимах. Half Time не влияет на [фрукты](/wiki/Hit_object/Fruit), [дропы](/wiki/Hit_object/Juice_stream#drop), [дроплеты](/wiki/Hit_object/Juice_stream#droplet) и [бананы](/wiki/Hit_object/Banana).
+В [osu!catch](/wiki/Game_mode/osu!catch) BPM песни и скорость ловца фруктов снижаются так же, как в других режимах. Half Time не влияет на [фрукты](/wiki/Gameplay/Hit_object/Fruit), [дропы](/wiki/Gameplay/Hit_object/Juice_stream#drop), [дроплеты](/wiki/Gameplay/Hit_object/Juice_stream#droplet) и [бананы](/wiki/Gameplay/Hit_object/Banana).
 
 ## Факты
 

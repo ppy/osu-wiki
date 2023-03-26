@@ -1,6 +1,6 @@
 # Project Loved
 
-Le **Project Loved** est la plateforme de vote qui promeut les beatmaps dans la catégorie [loved](/wiki/Beatmap/Category#loved). Il est géré principalement par la [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team).
+Le **Project Loved** est la plateforme de vote qui promeut les beatmaps dans la catégorie [loved](/wiki/Beatmap/Category#loved). Il est géré principalement par la [Project Loved Team](/wiki/People/Project_Loved_Team).
 
 ## Déplacer une beatmap vers la catégorie loved
 
@@ -15,7 +15,14 @@ Pour soumettre une beatmap pour la catégorie loved, veuillez visiter la [page d
 - [Proposition pour le mode osu!catch](https://loved.sh/submissions/fruits)
 - [Proposition pour le mode osu!mania](https://loved.sh/submissions/mania)
 
-Les beatmaps nominées sont ensuite publiées sur le forum [Project Loved](https://osu.ppy.sh/community/forums/120), où les membres de la communauté peuvent voter s'ils souhaitent que la beatmap soit "loved" ou non. Les beatmaps qui atteignent un certain pourcentage de votes positifs à la fin du scrutin sont transférées dans la catégorie Loved.
+Les beatmaps nominées sont ensuite publiées sur le forum [Project Loved](https://osu.ppy.sh/community/forums/120), où les membres de la communauté peuvent voter s'ils souhaitent que la beatmap soit "Loved" ou non. Les beatmaps qui atteignent un certain pourcentage de votes positifs à la fin du scrutin sont transférées dans la catégorie Loved :
+
+| Mode de jeu | Pourcentage requit |
+| :-- | :-- |
+| osu! | 85% |
+| osu!taiko | 80% |
+| osu!catch | 80% |
+| osu!mania | 80% |
 
 ## Éligibilité
 

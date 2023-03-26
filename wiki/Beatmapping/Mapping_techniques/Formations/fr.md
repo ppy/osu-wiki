@@ -98,7 +98,7 @@ Une fois le "cercle" terminé, quelques autres cercles sont placés pour le trav
 
 ## Symmetrical Shapes
 
-*Voir [Techniques de mapping/Basique](/wiki/Mapping_techniques/Basics#symétrie) pour une description de la symétrie.*
+*Voir [Techniques de mapping/Basique](/wiki/Beatmapping/Mapping_techniques/Basics#symétrie) pour une description de la symétrie.*
 
 ### Formation en cercles
 

@@ -8,7 +8,7 @@ tags:
 
 ![OWC 2015 logo](img/logo.jpg)
 
-**osu! World Cup 2015**(***OWC 2015*** ) は、[osu! チーム](/wiki/People/The_Team)が主催する国別のosu!トーナメントである。第6回目となるosu! ワールドカップである。
+**osu! World Cup 2015**(***OWC 2015*** ) は、[osu! チーム](/wiki/People/osu!_team)が主催する国別のosu!トーナメントである。第6回目となるosu! ワールドカップである。
 
 ## トーナメント日程
 

@@ -8,18 +8,18 @@ tags:
 
 **Bubble** (![Ikon bubble](/wiki/shared/icon/bubble.gif)) adalah sebuah ikon forum yang digunakan oleh para anggota tim yang terlibat dalam [proses ranking beatmap](/wiki/Beatmap_ranking_procedure) sebagai berikut:
 
-- [Beatmap Appreciation Team](/wiki/Modding/Beatmap_Appreciation_Team) (*BAT*)
-- [Mapping Assistance Team](/wiki/Modding/Mapping_Assistance_Team) (*MAT*)
-- [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BN*)
-- [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) (*QAT*)
+- [Beatmap Appreciation Team](/wiki/People/Beatmap_Appreciation_Team) (*BAT*)
+- [Mapping Assistance Team](/wiki/People/Mapping_Assistance_Team) (*MAT*)
+- [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*)
+- [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) (*QAT*)
 
 Sebagai langkah selanjutnya dari [sistem ranking lama](/wiki/Modding/Forum_modding) setelah [proto-bubble](/wiki/Modding/Proto-bubble), sebuah bubble berarti sebuah [beatmap](/wiki/Beatmap) telah siap untuk di-ranked menurut modder. Beatmap yang di-bubble akan dicek oleh anggota BAT atau BN lainnya dan diberikan status [ranked](/wiki/Beatmap/Category#ranked) atau [approved](/wiki/Beatmap/Category#approved) selama map hanya memerlukan perubahan yang kecil saja.
 
-Pada [prosedur ranking beatmap](/wiki/Beatmap_ranking_procedure) modern, ekuivalen dari sebuah bubble adalah nominasi pertama yang diberikan oleh seorang [beatmap nominator](/wiki/People/The_Team/Beatmap_Nominators).
+Pada [prosedur ranking beatmap](/wiki/Beatmap_ranking_procedure) modern, ekuivalen dari sebuah bubble adalah [nominasi](/wiki/Beatmap_ranking_procedure#nominasi) pertama yang diberikan oleh seorang [beatmap nominator](/wiki/People/Beatmap_Nominators).
 
 ## Sejarah
 
-*Lihat juga: [Sejarah mapping dan modding](/wiki/Mapping_and_Modding_Timeline)*
+*Lihat juga: [Sejarah mapping dan modding](/wiki/History_of_osu!/Mapping_and_Modding_Timeline)*
 
 Bubble pada awalnya diperkenalkan oleh ::{ flag=AU }:: peppy pada 29 Oktober 2007 untuk menandai "beatmap-beatmap yang dianggap sudah layak untuk di-rank (walaupun masih perlu untuk dikaji lebih lanjut oleh para moderator lainnya)". Memberikan ikon bubble pada utas beatmap adalah cara anggota BAT untuk menunjukkan bahwa beatmap memiliki kualitas yang baik dan telah mengikuti [ranking criteria](/wiki/Ranking_Criteria).
 

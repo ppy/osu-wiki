@@ -4,7 +4,7 @@ no_native_review: true
 
 # Beatmapping
 
-Beatmapping is het proces van het maken van [beatmaps](/wiki/Beatmap) in osu! voor spelers om te spelen. Dit proces bestaat uit het kiezen van een song, [timing](/wiki/Client/Beatmap_editor/Timing), het plaatsen van [objecten](/wiki/Hit_object) en (optioneel) [skinnen](/wiki/Skinning) en [storyboarden](/wiki/Storyboard).
+Beatmapping is het proces van het maken van [beatmaps](/wiki/Beatmap) in osu! voor spelers om te spelen. Dit proces bestaat uit het kiezen van een song, [timing](/wiki/Client/Beatmap_editor/Timing), het plaatsen van [objecten](/wiki/Gameplay/Hit_object) en (optioneel) [skinnen](/wiki/Skinning) en [storyboarden](/wiki/Storyboard).
 
 Mappers hebben vaak als doel om hun beatmaps [ranked](/wiki/Beatmap) te krijgen. Wat betekent dat ze door de [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure) moeten.
 
@@ -29,7 +29,7 @@ Je kunt gelijk de instellingen in de andere tabbladen aanpassen als je wilt, maa
 *Hoofdpagina: [Timing](/wiki/Client/Beatmap_editor/Timing)*
 
 **Timing is essentieel!** 
-Incorrect getimede mappen kunnen niet geranked worden. Zorg er dus goed voor dat je timing perfect is voordat je [hitobjecten](/wiki/Hit_object) toevoegt.
+Incorrect getimede mappen kunnen niet geranked worden. Zorg er dus goed voor dat je timing perfect is voordat je [hitobjecten](/wiki/Gameplay/Hit_object) toevoegt.
 
 Als je twijfelt over timing, vraag dan eerst een mod om hulp of dien je nummer bij de [Beatmap Help forum](https://osu.ppy.sh/community/forums/10) in. Dit bespaart jou (en de modding community) een hoop tijd later in het proces.
 

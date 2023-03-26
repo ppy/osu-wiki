@@ -10,7 +10,7 @@
 | 06/12/2011 | [osu! wiki est maintenant en ligne !](https://osu.ppy.sh/community/forums/topics/68525) |
 | 11/2012 | osu! wiki a maintenant 3 administrateurs (Dellirium, Repflez). Précédemment, peppy était le seul admin. |
 | 27/01/2013 T06:12Z | peppy a intégré l'osu! wiki dans le design du site principal. [Lien vers le post de peppy](https://osu.ppy.sh/community/forums/posts/2082803). |
-| 2014 | L'osu! wiki est devenu la source d'information principale d'osu!, remplaçant la plupart des copies web, telles que [L'équipe](/wiki/People/The_Team) ainsi que les [Règles](/wiki/Rules). Par ailleurs, l'osu! wiki possède maintenant 5 administrateurs (Loctav, deadbeat). |
+| 2014 | L'osu! wiki est devenu la source d'information principale d'osu!, remplaçant la plupart des copies web, telles que [L'équipe](/wiki/People/osu!_team) ainsi que les [Règles](/wiki/Rules). Par ailleurs, l'osu! wiki possède maintenant 5 administrateurs (Loctav, deadbeat). |
 | 2015 | L'osu! wiki a reçu une traduction majeure des autres langues. Dellirium a été remplacé par Shiro en tant qu'un des administrateurs de l'osu! wiki. |
 | 22/02/2016 | L'osu! wiki a maintenant 8 administrateurs (Ukami et Galkan). |
 | 01/04/2016 | Un autre administrateur a rejoint l'osu! wiki (Nathanael). |
@@ -32,6 +32,6 @@
 | 07/02/2018 | [La prise en charge de mots clés d'articles a été implémentée](https://github.com/ppy/osu-web/pull/2331) pour permettre de meilleurs résultats de recherche pour les articles du wiki. |
 | De 2018 à 2021 | *Aucune documentation* |
 | 12/05/2021 | Première implémentation des [infoboxes](https://github.com/ppy/osu-web/pull/7546) qui peuvent ajouter des informations supplémentaires aux articles. |
-| 01/06/2021 | [Une implémentation de base](https://github.com/ppy/osu/pull/12950) de l'osu! wiki sur osu!(lazer) a été ajoutée (seulement en anglais). |
+| 01/06/2021 | [Une implémentation de base](https://github.com/ppy/osu/pull/12950) de l'osu! wiki sur [osu!(lazer)](/wiki/Client/Release_stream/Lazer) a été ajoutée (seulement en anglais). |
 | 08/08/2021 | [La prise en charge de la galerie](https://github.com/ppy/osu-web/pull/8126) a été implémentée. Désormais, les images d'un article peuvent être visualisées simultanément dans une galerie. |
 | 12/08/2021 | La prise en charge des [notes de bas de page](https://github.com/ppy/osu-web/pull/8125) a été intégrée. Cela permet d'ajouter des liens vers des notes et des références pour les placer dans une section spécifique à la fin de chaque article. |

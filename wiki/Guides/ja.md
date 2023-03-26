@@ -16,7 +16,6 @@ outdated_since: acdcb1efbd3ac94eef628b095b78cbacfcdac000
 - [オーディオ編集](Audio_Editing)
 - [アーティストまたはタイトルの変更](Changing_the_Artist_or_Title)
 - [タイトルテキストの変更](/wiki/Beatmap/Title_text#changing-title-text)
-- [コラボ情報](Collab_Information)
 - [ファイルを圧縮する](Compressing_files)
 - [カスタムヒットサウンドライブラリ](Custom_Hitsound_Library)
 - [カスタムサンプルオーバーライド](Custom_Sample_Overrides)

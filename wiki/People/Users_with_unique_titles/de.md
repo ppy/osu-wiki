@@ -1,6 +1,6 @@
 # Benutzer mit einzigartigen Titeln
 
-Nutzertitel sind in der Regel mit [Benutzergruppen](/wiki/People/The_Team#benutzergruppen) verbunden, aber die unten aufgelisteten Benutzer haben ihre Titel aus anderen Gründen erhalten. Die meisten Titel waren Auszeichnungen für Beiträge oder Errungenschaften, wobei die übrigen Titel Symbole der kultigen oder lustigen osu!-Geschichte sind.
+Nutzertitel sind in der Regel mit [Benutzergruppen](/wiki/People/osu!_team#benutzergruppen) verbunden, aber die unten aufgelisteten Benutzer haben ihre Titel aus anderen Gründen erhalten. Die meisten Titel waren Auszeichnungen für Beiträge oder Errungenschaften, wobei die übrigen Titel Symbole der kultigen oder lustigen osu!-Geschichte sind.
 
 ## Aktuelle Titelverteidiger des World Cups
 
@@ -174,7 +174,7 @@ Die meisten offiziellen Mapping-Wettbewerbe bieten den Titel **Elite Mapper** al
 
 ## Elite Nominators
 
-Seit 2020 werden Mitglieder der [Beatmap-Nominators](/wiki/People/The_Team/Beatmap_Nominators) und des [Nomination-Assessment-Teams](/wiki/People/The_Team/Nomination_Assessment_Team) mit einer außergewöhnlichen Leistung zur Unterstützung des Ranglistensystems in einem bestimmten Jahr mit dem Titel **Elite Nominator** ausgezeichnet. Dieser Titel wird zu Beginn jedes Jahres für Beiträge vergeben, die während dem vergangen Jahr gemacht wurden, und halten etwa ein Jahr lang oder bis der Benutzer das Team verlässt.
+Seit 2020 werden Mitglieder der [Beatmap-Nominators](/wiki/People/Beatmap_Nominators) und des [Nomination-Assessment-Teams](/wiki/People/Nomination_Assessment_Team) mit einer außergewöhnlichen Leistung zur Unterstützung des Ranglistensystems in einem bestimmten Jahr mit dem Titel **Elite Nominator** ausgezeichnet. Dieser Titel wird zu Beginn jedes Jahres für Beiträge vergeben, die während dem vergangen Jahr gemacht wurden, und halten etwa ein Jahr lang oder bis der Benutzer das Team verlässt.
 
 - ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306)
 - ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958)
@@ -221,7 +221,7 @@ Die Wettbewerbe [osu!trivium Quiz](/wiki/Contests/osu!trivium_Quiz) vergeben ihr
 
 ## Featured Artists
 
-[Featured Artists](/wiki/Featured_Artists) mit osu!-Accounts bekommen den Titel **Featured Artist**, um ihr Engagement zu zeigen.
+[Featured Artists](/wiki/People/Featured_Artists) mit osu!-Accounts bekommen den Titel **Featured Artist**, um ihr Engagement zu zeigen.
 
 ::{ flag=NO }:: [cYsmix](https://osu.ppy.sh/users/272870) und ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) haben den Titel **osu!musician** für frühere Beiträge zum Sound-Design von osu! und den offiziellen Titelsongs erhalten. ::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471) entschied sich dafür, den Titel **osu!mixer** zu behalten (welcher inzwischen zu osu!mixer II umgewandelt wurde), als er ein Featured Artist wurde.
 
@@ -306,7 +306,9 @@ Diesen Spielern wurden ihre entsprechenden Titel entweder durch eine verrückte 
 | Benutzer | Titel | Errungenschaft |
 | :-- | :-- | :-- |
 | ::{ flag=NO }:: [-GN](https://osu.ppy.sh/users/895581) | Champion Above Champions | Hat die erste NoMod FC auf [Shotgun Symphony+ [Impossibly Intense]](https://osu.ppy.sh/beatmapsets/7671#osu/32570) erreicht |
+| ::{ flag=US }:: [EEEEEEEEEEEEEEE](https://osu.ppy.sh/users/2927048) | osu!completionist | Spielte alle gerankten osu!-Beatmaps ab dem 15. März 2023 |
 | ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) | Drum Decimator | Erreichte FCs auf allen gerankten osu!taiko-Beatmaps ab dem 3. November 2019 |
+| ::{ flag=PL }:: [Przegrany](https://osu.ppy.sh/users/7635621) | osu!completionist | Spielte alle gerankten osu!-Beatmaps ab dem 11. August 2021 |
 | ::{ flag=NL }:: [Shirotora_old](https://osu.ppy.sh/users/11820) | Bested the Reaper's Game | Wurde durch ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) Ende 2008 überreicht für das Erreichen des Rangs #104 in einer Woche, als eine Referenz auf [*The World Ends with You*](https://de.wikipedia.org/wiki/The_World_Ends_with_You) <!-- source: https://osu.ppy.sh/community/forums/posts/60664 (Shirotora_old's forum signature) --> |
 | ::{ flag=US }:: [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist | Spielte alle gerankten osu!-Beatmaps ab dem 27. April 2019 |
 | ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter | Gewann [The Hunt for the Girl in the Forest](https://osu.ppy.sh/community/forums/topics/662279) |
@@ -351,7 +353,7 @@ Diese Nutzer bekamen ihre entsprechenden Titel aus verschiedenen Gründen.
 ## Anmerkungen
 
 [^mao-note]: ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515) wurde stattdessen mit dem Titel **Elite Mapper II** ausgezeichnet, da er den den Titel "Elite Mapper" auf zwei verschiedene Arten erfolgreich erworben hat: Das Gewinnen des Wettbewerbs [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) und das Überschreiten der 6-Punkte-Schwelle im neuen [monatlichen Beatmapping-Wettbewerbs](/wiki/Contests/Monthly_Beatmapping_Contest)-System.
+[^elite-note]: ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) und ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) wurden stattdessen mit dem Titel **Elite Nominator II** ausgezeichnet, da sie zwei Jahre in Folge als Elite Nominators betitelt wurden.
 [^charles445-note]: ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000) wurde stattdessen mit dem Titel **Elite Mapper II: Aspirant** ausgezeichnet, da er sowohl den [Monthly Beatmapping Contest #1](https://osu.ppy.sh/home/news/2013-10-20-monthly-beatmapping-contest-1-results) als auch den [Monthly Beatmapping Contest: Aspire (2014)](https://osu.ppy.sh/home/news/2014-11-13-monthly-beatmapping-contest-aspire-results) gwonnen hatte.
 [^billiummoto-note]: ::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471) wurde stattdessen mit dem Titel **osu!mixer II** ausgezeichnet, da er sowohl den [osu!remix contest #1](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results) und den Wettbwerb [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) gewonnen hatte.
 [^yf-note]: ::{ flag=CN }:: [yf_bmp](https://osu.ppy.sh/users/1243669) wurde stattdessen mit dem Titel **Elite Storyboarder II** ausgezeichnet, da er [den Titel bereits erworben hatte](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020) aufgrund von herausragenden Beiträgen zur Storyboarding-Szene und da er den Wettbewerb [triangles Beatmapping Contest](/wiki/Contests/triangles_Beatmapping_Contest) gewann.
-[^elite-note]: ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) und ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) wurden stattdessen mit dem Titel **Elite Nominator II** ausgezeichnet, da sie zwei Jahre in Folge als Elite Nominators betitelt wurden.

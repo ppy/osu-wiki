@@ -66,7 +66,7 @@ These shortcuts work anywhere:
 
 | Shortcut | Action |
 | :-- | :-- |
-| `F1` | Open the [game modifiers](/wiki/Game_modifier) selection menu. |
+| `F1` | Open the [game modifiers](/wiki/Gameplay/Game_modifier) selection menu. |
 | `F2` | Randomly select a beatmap. |
 | `Shift` + `F2` | Go back to the previously random-selected beatmap. |
 | `F3` | Open the beatmap options. |
@@ -76,8 +76,8 @@ These shortcuts work anywhere:
 | `Ctrl` + `2` | Switch the game mode to [osu!taiko](/wiki/Game_mode/osu!taiko). |
 | `Ctrl` + `3` | Switch the game mode to [osu!catch](/wiki/Game_mode/osu!catch). |
 | `Ctrl` + `4` | Switch the game mode to [osu!mania](/wiki/Game_mode/osu!mania). |
-| `Ctrl` + `Enter` | Play the selected beatmap with the [Auto mod](/wiki/Game_modifier/Auto). |
-| `Ctrl` + `Shift` + `Enter` | Play the selected beatmap with the [Cinema mod](/wiki/Game_modifier/Cinema). |
+| `Ctrl` + `Enter` | Play the selected beatmap with the [Auto mod](/wiki/Gameplay/Game_modifier/Auto). |
+| `Ctrl` + `Shift` + `Enter` | Play the selected beatmap with the [Cinema mod](/wiki/Gameplay/Game_modifier/Cinema). |
 | `Ctrl` + `A` | Toggle the Auto mod. |
 | `Ctrl` + `F3` or `Ctrl` + `+` | Increase the osu!mania scroll speed (while in osu!mania mode). |
 | `Ctrl` + `F4` or `Ctrl` + `-` | Decrease the osu!mania scroll speed (while in osu!mania mode). |
@@ -91,7 +91,7 @@ These shortcuts work anywhere:
 
 ### Game modifiers
 
-*Main page: [Game modifiers](/wiki/Game_modifier)*\
+*Main page: [Game modifiers](/wiki/Gameplay/Game_modifier)*\
 *Note: Pressing the shortcut key will toggle it. You need to be in the game modifiers menu to use these shortcuts.*\
 *Note: Target practice (osu!), 1K and 2K (osu!mania), Co-op (osu!mania), and Mirror (osu!mania) do not have shortcuts.*
 
@@ -280,7 +280,7 @@ These shortcuts work anywhere within the beatmap editor:
 | `Ctrl` + `C` | Copy the selected sprite. |
 | `Ctrl` + `V` | Paste the sprite at the current time. *Note: Pasted sprites will not be shown on the layer list until the beatmap is saved and reloaded.* |
 | `Delete` | Remove the selected sprite from the layer. |
-| `W`, `A`, `S`, `D` | Nudge the selected sprite up, left, down, or right respectively one [osu!pixel](/wiki/osupixel). |
+| `W`, `A`, `S`, `D` | Nudge the selected sprite up, left, down, or right respectively one [osu!pixel](/wiki/Client/Beatmap_editor/osu!_pixel). |
 
 ### Timing
 

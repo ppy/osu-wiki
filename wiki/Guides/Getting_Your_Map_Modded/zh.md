@@ -6,7 +6,7 @@
 
 找摸之前，你必须了解这些摸图请求的区别。通常情况下，摸图请求一般分为两种：[单向摸 (NM)](/wiki/Modding/Normal_mod)和[双向摸 (M4M)](/wiki/Modding/Mod_for_mod)。除了这两种摸之外，在 `#modreq` 频道里，还有这几种常用的摸图类型：
 
-- **BN 请求 (BN req)：** 仅在[谱面审核成员 (BN)](/wiki/People/The_Team/Beatmap_Nominators) 开设的队列帖子或 `#modreqs` 频道里使用。当你认为普通的摸已经不足以帮助提升你的谱面，想要来自 BN 的更专业全面的摸时，可以向 BN 发出这类请求。
+- **BN 请求 (BN req)：** 仅在[谱面审核成员 (BN)](/wiki/People/Beatmap_Nominators) 开设的队列帖子或 `#modreqs` 频道里使用。当你认为普通的摸已经不足以帮助提升你的谱面，想要来自 BN 的更专业全面的摸时，可以向 BN 发出这类请求。
 - **歌曲元数据检查 (Meta check)：** 不言而喻，[摸图员](/wiki/Modding/Modder)也会检查谱面内的歌曲元数据是否正确。这也是常规摸的一部分流程内容。
 - **音效检查：** 摸图员会检查你的音效是否合曲。亦或是能否达到上架标准。
 

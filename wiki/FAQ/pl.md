@@ -18,7 +18,7 @@ Na dolnym ekranie mamy wspomniane wcześniej kółka, na górnym zaś przedstawi
 
 *Pełny artykuł: [osu!](/wiki/Game_mode/osu!)*
 
-Z racji że większość użytkowników komputera nie ma żadnego tabletu do dyspozycji, komputerowa wersja osu! została stworzona do gry myszką, jak również innymi kontrolerami o których można pomyśleć. Różne style gry są opisane [w tym artykule](/wiki/Play_style). Są piosenki które są praktycznie niemożliwe do przejścia dla grających na myszce, ale wszystkie rankingowe mapy (tzw. ***ranked*** i ***approved***) zostały dogłębnie sprawdzone i są do przejścia na myszce.
+Z racji że większość użytkowników komputera nie ma żadnego tabletu do dyspozycji, komputerowa wersja osu! została stworzona do gry myszką, jak również innymi kontrolerami o których można pomyśleć. Różne style gry są opisane [w tym artykule](/wiki/Gameplay/Play_style). Są piosenki które są praktycznie niemożliwe do przejścia dla grających na myszce, ale wszystkie rankingowe mapy (tzw. ***ranked*** i ***approved***) zostały dogłębnie sprawdzone i są do przejścia na myszce.
 
 ### Mechanika gry
 
@@ -219,8 +219,8 @@ There two different binding-styles, *Symmetrical* and *Left to Right*.
 
 **Specjalne oceny:**
 
-- Srebrne SS (SSH) = 100% celności z modem '[Hidden](/wiki/Game_modifier/Hidden)' i/lub '[Flashlight](/wiki/Game_modifier/Flashlight)'.
-- Srebrne S (SH) = Ponad 90% 300s, mniej niż 1% 50s oraz żadnych utrat kombo z modem '[Hidden](/wiki/Game_modifier/Hidden)' i/lub '[Flashlight](/wiki/Game_modifier/Flashlight)'.
+- Srebrne SS (SSH) = 100% celności z modem '[Hidden](/wiki/Gameplay/Game_modifier/Hidden)' i/lub '[Flashlight](/wiki/Gameplay/Game_modifier/Flashlight)'.
+- Srebrne S (SH) = Ponad 90% 300s, mniej niż 1% 50s oraz żadnych utrat kombo z modem '[Hidden](/wiki/Gameplay/Game_modifier/Hidden)' i/lub '[Flashlight](/wiki/Gameplay/Game_modifier/Flashlight)'.
 
 **Odnośnie „ocen” na profilu:**
 

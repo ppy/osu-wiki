@@ -10,7 +10,7 @@ Setiap [pending](/wiki/Beatmap/Category#work-in-progress-dan-pending) [beatmap](
 
 ## Kebutuhan ranking
 
-Beatmap membutuhkan setidaknya 5 hype (satu set penuh hype train bar) agar bisa mendapatkan nominasi, dan langkah agar menjadi ranked.
+Beatmap membutuhkan setidaknya 5 hype (satu set penuh hype train bar) agar bisa mendapatkan [nominasi](/wiki/Beatmap_ranking_procedure#nominasi), dan langkah agar menjadi ranked.
 
 ## Limit
 

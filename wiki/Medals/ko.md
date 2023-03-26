@@ -23,7 +23,7 @@ outdated_translation: true
 
 ### Notes
 
-- 모드는 Unranked 모드를 제외하고 자유롭게 사용할 수 있습니다. (예시) [Auto Pilot](/wiki/Game_modifier/Autopilot)).
+- 모드는 Unranked 모드를 제외하고 자유롭게 사용할 수 있습니다. (예시) [Auto Pilot](/wiki/Gameplay/Game_modifier/Autopilot)).
 - 맵을 플레이한 뒤, [비트맵 팩 목록](https://osu.ppy.sh/beatmaps/packs?type=theme)에서 **`클리어한 맵`** 상태가 되었다면 로컬에서 해당 맵을 삭제해도 상관없습니다.
 
 ## Skill
@@ -50,7 +50,7 @@ outdated_translation: true
 
 ## Mod Introduction
 
-*참고: [Game Modifiers](/wiki/Game_modifier)*
+*참고: [Game Modifiers](/wiki/Gameplay/Game_modifier)*
 
 **Mod Introduction** 메달은 지정된 게임 난이도 변화 모드를 사용해 맵을 클리어하면 얻을 수 있습니다. 이 메달은 신규 플레이어들이 각각의 모드를 사용해보고 게임에 쉽게 적응할 수 있도록 하기 위해서 만들어졌습니다.
 
