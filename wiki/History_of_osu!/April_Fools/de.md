@@ -30,7 +30,7 @@ Nach einiger Zeit wurde die ursprüngliche Beatmap auf Wunsch ihres Erstellers e
 
 ### touhosu!
 
-Für den Aprilscherz 2010 wurden die osu!-Webseite und das Hauptmenü im Spiel mit Charakteren und Referenzen aus dem [Touhou Project](https://de.wikipedia.org/wiki/Touhou_Project) versehen. Zu den Änderungen gehörte die Hinzufügung des Charakters Marisa Kirisame und eine Anzeige mit  unterschiedlich gefärbten Schmetterlingen in einem kreisförmigen Muster im Hauptmenü und auf der Website. Der Name "osu!" wurde in bestimmten Bereichen der Webseite mit "touhosu!" getauscht.[^touhousu-ontheweb][^touhousu-osudev-2021-01-27][^touhousu-forums]
+Für den Aprilscherz 2010 wurden die osu!-Webseite und das Hauptmenü im Spiel mit Charakteren und Referenzen aus dem [Touhou Project](https://de.wikipedia.org/wiki/Touhou_Project) versehen. Zu den Änderungen gehörte die Hinzufügung des Charakters Marisa Kirisame und eine Anzeige mit unterschiedlich gefärbten Schmetterlingen in einem kreisförmigen Muster im Hauptmenü und auf der Website. Der Name "osu!" wurde in bestimmten Bereichen der Webseite mit "touhosu!" getauscht.[^touhousu-ontheweb][^touhousu-osudev-2021-01-27][^touhousu-forums]
 
 ![](img/2010-touhosu-main-screen.jpg "Das Hauptmenü in osu! am 1. April 2010")
 
@@ -135,7 +135,7 @@ In Bezug auf die Art und Weise, wie Spieler die Oculus Rift als Eingabemethode n
 
 *Hinweis: McOsu wird getrennt entwickelt und steht in keiner direkten Verbindung mit osu! oder ppy Pty Ltd.*
 
-Obwohl die offiziellen osu!-Entwickler keine Intention haben/hatten, VR-Unterstützung anzubieten, hat die Idee von osu! in VR bei einigen Fans Interesse geweckt. Aus diesem Interesse wurde schließlich ein inoffizielles Fanprojekt, das kurz darauf gestartet wurde und das Ziel hatte, einen kostenlosen und quelloffenen Client zu kreieren, um [osu!-Beatmaps](/wiki/Beatmap) üben zu können, mit weiteren Funktionen und [Spielmodifikationen](/wiki/Game_modifier), einschließlich der Möglichkeit, in VR zu spielen. Unter dem Namen [McOsu](https://store.steampowered.com/app/607260/McOsu) wurde das Projekt am 20. März 2017 fertiggestellt und auf [Steam](https://de.wikipedia.org/wiki/Steam) veröffentlicht.[^osu-vr-reddit][^osu-vr-yt][^osu-vr-gameskinny][^osu-vr-mcosu]
+Obwohl die offiziellen osu!-Entwickler keine Intention haben/hatten, VR-Unterstützung anzubieten, hat die Idee von osu! in VR bei einigen Fans Interesse geweckt. Aus diesem Interesse entstand schließlich ein inoffizielles Fanprojekt, das kurz darauf gestartet wurde und das Ziel hatte, einen kostenlosen und quelloffenen Client zu kreieren, um [osu!-Beatmaps](/wiki/Beatmap) üben zu können, mit weiteren Funktionen und [Spielmodifikationen](/wiki/Game_modifier), einschließlich der Möglichkeit, in VR zu spielen. Unter dem Namen [McOsu](https://store.steampowered.com/app/607260/McOsu) wurde das Projekt am 20. März 2017 fertiggestellt und auf [Steam](https://de.wikipedia.org/wiki/Steam) veröffentlicht.[^osu-vr-reddit][^osu-vr-yt][^osu-vr-gameskinny][^osu-vr-mcosu]
 
 ### Tanzender Auto-Mod-Cursor/tanzende pippi
 
