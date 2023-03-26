@@ -9,7 +9,7 @@ tags:
 
 ![TWC 2023 banner](img/twc2023-banner.jpg)
 
-The **osu!taiko World Cup 2023** (***TWC 2023***) is a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It is the thirteenth instalment of the osu!taiko World Cup.
+The **osu!taiko World Cup 2023** (***TWC 2023***) is a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/osu!_team). It is the thirteenth instalment of the osu!taiko World Cup.
 
 ## Tournament schedule
 
@@ -50,8 +50,10 @@ The osu!taiko World Cup 2023 is run by various community members.
 
 ## Links
 
+- [Information spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQVZQZCgZ1cw1N6w0CGsnSGT2-ILaWMYo88bRDXQycx03Rw0yawJikrOGB_rsx1k0LVY7UaO1DVU_5J/pubhtml)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1722224)
 - [Livestream](https://www.twitch.tv/osulive)
+- [Challonge bracket](https://challonge.com/TWC_2023)
 - [Donate to the prize pool](https://opencollective.com/osu-tournaments/events/osu-taiko-world-cup-2023-13130e56)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/110) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
 
@@ -107,26 +109,26 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad
 | Team A | Team B | Match time |
 | --: | :-- | :-- |
 | Italy ::{ flag=IT }:: | ::{ flag=AU }:: Australia | [Mar 25 (Sat) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230325T090000&p1=1440&p2=215&p3=57) |
-| Philippines ::{ flag=PH }:: | ::{ flag=RU }:: Russian Federation | [Mar 25 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230325T100000&p1=1440&p2=145&p3=166) |
+| United Kingdom ::{ flag=GB }:: | ::{ flag=HK }:: Hong Kong | [Mar 25 (Sat) 09:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230325T093000&p1=1440&p2=136&p3=102) |
 | Japan ::{ flag=JP }:: | ::{ flag=DK }:: Denmark | [Mar 25 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230325T110000&p1=1440&p2=248&p3=69) |
-| China ::{ flag=CN }:: | ::{ flag=NL }:: Netherlands | [Mar 25 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230325T120000&p1=1440&p2=33&p3=16) |
-| Germany ::{ flag=DE }:: | ::{ flag=AR }:: Argentina | [Mar 25 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230325T130000&p1=1440&p2=37&p3=51) |
-| Finland ::{ flag=FI }:: | ::{ flag=MX }:: Mexico | [Mar 25 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230325T160000&p1=1440&p2=101&p3=155) |
-| Brazil ::{ flag=BR }:: | ::{ flag=NO }:: Norway | [Mar 25 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230325T170000&p1=1440&p2=45&p3=187) |
-| United States ::{ flag=US }:: | ::{ flag=PT }:: Portugal | [Mar 25 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230325T180000&p1=1440&p2=263&p3=133) |
-| Canada ::{ flag=CA }:: | ::{ flag=PL }:: Poland | [Mar 25 (Sat) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230325T190000&p1=1440&p2=188&p3=262) |
+| Philippines ::{ flag=PH }:: | ::{ flag=RU }:: Russian Federation | [Mar 25 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230325T150000&p1=1440&p2=145&p3=166) |
+| United States ::{ flag=US }:: | ::{ flag=PT }:: Portugal | [Mar 25 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230325T160000&p1=1440&p2=263&p3=133) |
+| Finland ::{ flag=FI }:: | ::{ flag=MX }:: Mexico | [Mar 25 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230325T170000&p1=1440&p2=101&p3=155) |
 
 ### Sunday, 26 March 2023
 
 | Team A | Team B | Match time |
 | --: | :-- | :-- |
-| South Korea ::{ flag=KR }:: | ::{ flag=SG }:: Singapore | [Mar 26 (Sun) 05:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230326T050000&p1=1440&p2=235&p3=236) |
 | Indonesia ::{ flag=ID }:: | ::{ flag=NZ }:: New Zealand | [Mar 26 (Sun) 07:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230326T070000&p1=1440&p2=108&p3=264) |
-| Taiwan ::{ flag=TW }:: | ::{ flag=VN }:: Vietnam | [Mar 26 (Sun) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230326T080000&p1=1440&p2=241&p3=95) |
-| United Kingdom ::{ flag=GB }:: | ::{ flag=HK }:: Hong Kong | [Mar 26 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230326T100000&p1=1440&p2=136&p3=102) |
+| China ::{ flag=CN }:: | ::{ flag=NL }:: Netherlands | [Mar 26 (Sun) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230326T090000&p1=1440&p2=33&p3=16) |
 | Malaysia ::{ flag=MY }:: | ::{ flag=ES }:: Spain | [Mar 26 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230326T110000&p1=1440&p2=122&p3=141) |
+| Germany ::{ flag=DE }:: | ::{ flag=AR }:: Argentina | [Mar 26 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230326T120000&p1=1440&p2=37&p3=51) |
+| South Korea ::{ flag=KR }:: | ::{ flag=SG }:: Singapore | [Mar 26 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230326T120000&p1=1440&p2=235&p3=236) |
 | France ::{ flag=FR }:: | ::{ flag=CH }:: Switzerland | [Mar 26 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230326T120000&p1=1440&p2=195&p3=270) |
-| Chile ::{ flag=CL }:: | ::{ flag=CZ }:: Czechia | [Mar 26 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230326T150000&p1=1440&p2=232&p3=204) |
+| Taiwan ::{ flag=TW }:: | ::{ flag=VN }:: Vietnam | [Mar 26 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230326T130000&p1=1440&p2=241&p3=95) |
+| Brazil ::{ flag=BR }:: | ::{ flag=NO }:: Norway | [Mar 26 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230326T170000&p1=1440&p2=45&p3=187) |
+| Chile ::{ flag=CL }:: | ::{ flag=CZ }:: Czechia | [Mar 26 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230326T170000&p1=1440&p2=232&p3=204) |
+| Canada ::{ flag=CA }:: | ::{ flag=PL }:: Poland | [Mar 26 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230326T180000&p1=1440&p2=188&p3=262) |
 
 ## Mappools
 
@@ -277,7 +279,7 @@ The final standings for the Qualifier stage can be found at the following [sprea
    - Captains are allowed to conduct and coordinate "tryouts", tests to gauge player aptitude, on their own terms.
    - Captains are allowed, at any time, to transfer their role to other prospective team members. Once given, only the new captain may assign the captaincy to another player.
    - **Teams that do not not send their team list by March 9, 2023 (23:59 UTC) will be disqualified from the competition.**
-3. To ensure valid registrations, every prospective participant will be manually checked by the [account support team](/wiki/People/The_Team/Account_support_team), in a manner similar to the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) that is offered to community tournaments.
+3. To ensure valid registrations, every prospective participant will be manually checked by the [account support team](/wiki/People/Account_support_team), in a manner similar to the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) that is offered to community tournaments.
    - Every registered user will be assigned to their respective country's candidate list.
    - To be successfully accepted on the list, players are required to be placed #5000 or higher on the osu!taiko global ranking, and not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
 4. All successfully formed teams will be published after the registration phase on this page.
@@ -287,7 +289,7 @@ The final standings for the Qualifier stage can be found at the following [sprea
 ### Qualifier instructions
 
 1. In the Qualifier stage, all teams will play a specific pool designed by the mappool selectors.
-2. The mappool will contain 5 brackets: [NoMod](/wiki/Game_modifier#nomod), [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock), [Double Time](/wiki/Game_modifier/Double_Time), and [FreeMod](/wiki/Game_modifier#freemod). There will be no tiebreakers for this stage.
+2. The mappool will contain 5 brackets: [NoMod](/wiki/Gameplay/Game_modifier#nomod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time), and [FreeMod](/wiki/Gameplay/Game_modifier#freemod). There will be no tiebreakers for this stage.
 3. The Qualifier pool will consist of 10 maps. There will be 3 maps under the No Mod bracket, 2 maps for the Hidden, Hard Rock, and Double Time brackets, and 1 map for the FreeMod bracket.
 4. Teams will be asked to play the mappool twice at a designated time. The team's best playthrough will be used for seeding.
 5. The mappool is to be played according to the order listed on this page.
@@ -334,22 +336,22 @@ The final standings for the Qualifier stage can be found at the following [sprea
 ### Mappool instructions
 
 1. Every stage will have its own mappool.
-2. Each mappool consists of 5 brackets: [NoMod](/wiki/Game_modifier#nomod), [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock), [Double Time](/wiki/Game_modifier/Double_Time) and [FreeMod](/wiki/Game_modifier#freemod).
+2. Each mappool consists of 5 brackets: [NoMod](/wiki/Gameplay/Game_modifier#nomod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time) and [FreeMod](/wiki/Gameplay/Game_modifier#freemod).
 3. The mappool sizes are as follows:
    - Qualifiers: 10 beatmaps
    - Round of 32 and Round of 16: 14 beatmaps
    - Quarterfinals and Semifinals: 15 beatmaps
    - Finals and Grand Finals: 16 beatmaps
 4. Each mappool has one tiebreaker, except for the Qualifiers.
-5. The NoMod bracket will be played with the [No Fail](/wiki/Game_modifier/No_Fail) mod activated.
-6. The [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock) and [Double Time](/wiki/Game_modifier/Double_Time) brackets will be played with the respective mods activated along with the No Fail mod.
-7. The [FreeMod](/wiki/Game_modifier#freemod) bracket will have Free Mods activated. The valid mod combinations for each player are:
-   - [NoMod](/wiki/Game_modifier#nomod) – no mods selected
+5. The NoMod bracket will be played with the [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) mod activated.
+6. The [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock) and [Double Time](/wiki/Gameplay/Game_modifier/Double_Time) brackets will be played with the respective mods activated along with the No Fail mod.
+7. The [FreeMod](/wiki/Gameplay/Game_modifier#freemod) bracket will have Free Mods activated. The valid mod combinations for each player are:
+   - [NoMod](/wiki/Gameplay/Game_modifier#nomod) – no mods selected
    - Hidden
    - Hard Rock
    - Hidden + Hard Rock
 8. For FreeMod, each team is **required** to have both Hidden **and** Hard Rock selected among its players. A player may shoulder all the mods for their team (e.g. one player selects Hidden + Hard Rock, and the remaining players select no mods (NoMod)), or it may be split among all members (e.g. the first player selects Hidden, the second selects Hard Rock, and the third selects no mods (No Mod)). Teams may "overmod", that is, select more mods than what is required.
-9. Failed scores will be counted. To that end, the [No Fail](/wiki/Game_modifier/No_Fail) mod will be enforced on every beatmap.
+9. Failed scores will be counted. To that end, the [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) mod will be enforced on every beatmap.
    - Teams that purposefully disregard this instruction and team fail as a result will lose said game.
 10. The tiebreaker will be played under FreeMod conditions, but players will be exempt from the mod requirement.
 

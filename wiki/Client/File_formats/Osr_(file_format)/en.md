@@ -39,7 +39,7 @@ Byte offsets are not included in this table due to variable length values.
 | Integer | Length in bytes of compressed replay data |
 | Byte Array | Compressed replay data |
 | Long | Online Score ID |
-| Double | Additional mod information. Only present if [Target Practice](/wiki/Game_modifier/Target_Practice) is enabled. |
+| Double | Additional mod information. Only present if [Target Practice](/wiki/Gameplay/Game_modifier/Target_Practice) is enabled. |
 
 **Additional mod information:**
 

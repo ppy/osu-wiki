@@ -10,7 +10,7 @@ tags:
 
 ![MWC 4K 2016 logo](img/logo.jpg)
 
-The **osu!mania 4K World Cup 2016** (***MWC 4K 2016***) was a country-based osu!mania 4K tournament hosted by the [osu! team](/wiki/People/The_Team). It was the third instalment of the osu!mania 4K World Cup.
+The **osu!mania 4K World Cup 2016** (***MWC 4K 2016***) was a country-based osu!mania 4K tournament hosted by the [osu! team](/wiki/People/osu!_team). It was the third instalment of the osu!mania 4K World Cup.
 
 ## Tournament schedule
 
@@ -477,11 +477,11 @@ Sunday, 7 August 2016:
 3. Each mappool consists of 15 maps in total.
 4. Each mappool has one tiebreaker.
 5. The NoMod bracket will be played with no forced mods activated.
-6. The FreeMod bracket will have FreeMod activated. Every individual player can pick [Flashlight](/wiki/Game_modifier/Flashlight) or [HardRock](/wiki/Game_modifier/Hard_Rock).
+6. The FreeMod bracket will have FreeMod activated. Every individual player can pick [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight) or [HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock).
    - Players can select both mods.
    - When playing a FreeMod map, at least 1 players of each team must have one mod activated.
-7. Optionally, every player can activate either [Hidden](/wiki/Game_modifier/Hidden) or [FadeIn](/wiki/Game_modifier/Fade_In) at any beatmap in all mappool brackets.
-   - [Hidden](/wiki/Game_modifier/Hidden) and [FadeIn](/wiki/Game_modifier/Fade_In) do not count into the "activated mod" requirement in the FreeMod bracket.
+7. Optionally, every player can activate either [Hidden](/wiki/Gameplay/Game_modifier/Hidden) or [FadeIn](/wiki/Gameplay/Game_modifier/Fade_In) at any beatmap in all mappool brackets.
+   - [Hidden](/wiki/Gameplay/Game_modifier/Hidden) and [FadeIn](/wiki/Gameplay/Game_modifier/Fade_In) do not count into the "activated mod" requirement in the FreeMod bracket.
 8. The tiebreaker will be played under FreeMod conditions.
    - When playing the tiebreaker, no one needs to have a mod activated.
 9. The size of the NoMod bracket will be 10 in all stages.

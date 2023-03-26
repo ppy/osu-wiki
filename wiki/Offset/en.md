@@ -1,6 +1,6 @@
 # Offset
 
-An **offset** is a setting that shifts and aligns different elements of a [beatmap](/wiki/Beatmap) temporally, such as the audio track, [hitsounds](/wiki/Hitsound), [hit objects](/wiki/Gameplay/Hit_object), or background video. There are different types of offsets in the game that affect different elements.
+An **offset** is a setting that shifts and aligns different elements of a [beatmap](/wiki/Beatmap) temporally, such as the audio track, [hitsounds](/wiki/Beatmapping/Hitsound), [hit objects](/wiki/Gameplay/Hit_object), or background video. There are different types of offsets in the game that affect different elements.
 
 Depending on the type of an offset, they are either set by the beatmap creator, customised by the player, or adjusted by one of the website's administrators. Most offsets are applied on a per-beatmap basis, with the exception of the [universal offset](#gameplay).
 
@@ -8,9 +8,9 @@ Depending on the type of an offset, they are either set by the beatmap creator, 
 
 ### Gameplay
 
-- [Local offset](/wiki/Glossary/Local_song_offset), a per-beatmap setting that shifts all gameplay elements relative to the audio track.
-- [Online offset](/wiki/Beatmap/Online_offset), a timing change applied by the [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) to [Ranked](/wiki/Beatmap/Category#ranked) beatmaps with incorrect beatmap offset in order to adjust it.
-- [Universal offset](/wiki/Client/Options/Universal_offset), a setting that globally affects the timing of beatmaps by shifting the audio track relative to all other gameplay elements.
+- [Local offset](/wiki/Offset/Local_offset), a per-beatmap setting that shifts all gameplay elements relative to the audio track.
+- [Online offset](/wiki/Offset/Online_offset), a timing change applied by the [NAT](/wiki/People/Nomination_Assessment_Team) to [Ranked](/wiki/Beatmap/Category#ranked) beatmaps with incorrect beatmap offset in order to adjust it.
+- [Universal offset](/wiki/Offset/Universal_offset), a setting that globally affects the timing of beatmaps by shifting the audio track relative to all other gameplay elements.
 
 ### Mapping
 
@@ -22,6 +22,6 @@ Depending on the type of an offset, they are either set by the beatmap creator, 
 
 *Note: Lead-in and video offsets are only editable through [beatmap file editing](/wiki/Client/File_formats/Osu_(file_format)).*
 
-- Countdown offset, a setting which affects the time of appearance of the [countdown](/wiki/Beatmapping/Countdown) before the first hit object, measured in [beats](/wiki/Music_theory/Beat).
-- [Lead-in](/wiki/Beatmapping/Lead-in), an additional period of delay before the beatmap starts.
+- Countdown offset, a setting which affects the time of appearance of the [countdown](/wiki/Beatmap/Countdown) before the first hit object, measured in [beats](/wiki/Music_theory/Beat).
+- [Lead-in](/wiki/Beatmap/Lead-in_time), an additional period of delay before the beatmap starts.
 - Video offset, a setting that determines when a background video should play relatively to the audio track.

@@ -2,7 +2,7 @@
 
 **Easy** может означать:
 
-- [Игровой мод](/wiki/Game_modifier/Easy).
+- [Игровой мод](/wiki/Gameplay/Game_modifier/Easy).
 - [Сложность](/wiki/Beatmap/Difficulty) карты:
   - ![](/wiki/shared/diff/easy-o.png?20211215) Easy, для osu!.
   - ![](/wiki/shared/diff/easy-t.png?20211215) Kantan, для osu!taiko.

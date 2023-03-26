@@ -58,7 +58,7 @@ outdated_translation: true
 1. osu! Taiko World Cup — турнир между странами.
 2. Сетка карт для каждого этапа будет оглашена заранее в последнее воскресенье перед этапом.
    - Одна из карт будет оставлена для разрешения ничьей.
-   - В наличии также будут сетки для игры с [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) и произвольными модами.
+   - В наличии также будут сетки для игры с [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time) и произвольными модами.
 3. Расписание матчей будет установлено менеджерами турнира (см. ниже).
 4. При отсутствии менеджеров или судей матч может быть перенесён.
 5. Счёт игроков, проваливших карту, не идёт в общий счёт команды.
@@ -144,7 +144,7 @@ outdated_translation: true
 ### Набор карт (маппул)
 
 1. Для каждого из этапов будет сформирован отдельный пул, за исключением двух финалов, пулы которых будут совпадать.
-2. Каждый пул состоит из пяти сеток: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) и FreeMod.
+2. Каждый пул состоит из пяти сеток: NoMod, [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time) и FreeMod.
 3. Каждый пул состоит из 19 карт.
 4. В каждом пуле есть карта для разрешения ничей.
 5. Карты из сетки NoMod будут играться без модов.

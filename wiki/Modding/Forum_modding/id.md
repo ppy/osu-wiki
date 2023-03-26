@@ -17,12 +17,12 @@ Pada sistem forum modding, setiap beatmap memiliki utas forum untuk komunikasi d
 
 ## Utas beatmap
 
-Pada saat suatu beatmap [diunggah](/wiki/Submission) untuk pertama kalinya, sistem osu! akan secara otomatis membuat sebuah utas beatmap yang dapat digunakan oleh para pengguna untuk saling berkomentar, bertukar *guest difficulty*, serta berbagi saran dan kritik. Utas tersebut berfungsi sebagai pusat diskusi antara semua pengguna yang tertarik dengan beatmap tersebut: pemain biasa, [beatmap host](/wiki/Beatmap/Beatmap_host), [guest mapper](/wiki/Beatmap/Guest_difficulty), [modder](/wiki/Modding/Modder), dan anggota tim ranking beatmap berikut ini:
+Pada saat suatu beatmap [diunggah](/wiki/Beatmapping/Beatmap_submission) untuk pertama kalinya, sistem osu! akan secara otomatis membuat sebuah utas beatmap yang dapat digunakan oleh para pengguna untuk saling berkomentar, bertukar *guest difficulty*, serta berbagi saran dan kritik. Utas tersebut berfungsi sebagai pusat diskusi antara semua pengguna yang tertarik dengan beatmap tersebut: pemain biasa, [beatmap host](/wiki/Beatmap/Beatmap_host), [guest mapper](/wiki/Beatmap/Guest_difficulty), [modder](/wiki/Modding/Modder), dan anggota tim ranking beatmap berikut ini:
 
-- [Beatmap Appreciation Team](/wiki/Modding/Beatmap_Appreciation_Team) (*BAT*)
-- [Mapping Assistance Team](/wiki/Modding/Mapping_Assistance_Team) (*MAT*)
-- [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) (*QAT*)
-- [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BN*)
+- [Beatmap Appreciation Team](/wiki/People/Beatmap_Appreciation_Team) (*BAT*)
+- [Mapping Assistance Team](/wiki/People/Mapping_Assistance_Team) (*MAT*)
+- [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) (*QAT*)
+- [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*)
 
 Sebuah utas forum dapat dipindahkan secara otomatis antara bagian forum terkait [kategori beatmap](/wiki/Beatmap/Category):
 
@@ -66,7 +66,7 @@ Perkembangan sebuah beatmap dalam prosedur ranking ditampilkan melalui post yang
 Tidak seperti [diskusi beatmap](/wiki/Beatmap_discussion), sebuah forum mod post seringkali mencakup seluruh beatmap dan dapat berisi konten yang sangat banyak. Ketika pengguna dapat bebas mengekspresikan pendapatnya dalam bentuk apa saja, secara umum modder mengikuti sebuah struktur spesifik untuk membuat postnya menjadi lebih mudah dibaca:
 
 - Mod dibagi menjadi beberapa bagian yang terdiri dari tingkat kesulitan dan setting umum beatmap.
-- Setiap bagian berisi daftar [timestamp](/wiki/Modding/Timestamp) yang sering menunjuk [hit object](/wiki/Hit_object) secara spesifik.
+- Setiap bagian berisi daftar [timestamp](/wiki/Modding/Timestamp) yang sering menunjuk [hit object](/wiki/Gameplay/Hit_object) secara spesifik.
 - Setiap timestamp diikuti deskripsi singkat masalah pada timestamp tersebut dan terkadang diikuti oleh tangkapan layar untuk memperjelas hal tersebut.
 - Berdasarkan tingkat keparahan masalah, beberapa modder menggunakan [colour coding](/wiki/BBCode#colour) pada postnya untuk menekankan masalah unrankable atau poin penting.
 
@@ -99,7 +99,7 @@ Dalam praktiknya, sistem modding berbasis forum cenderung rawan terhadap berbaga
 - Mod dapat diabaikan secara sebagian atau keseluruhan, baik secara disengaja maupun tidak.
 - Suatu map tetap dapat di-rank walaupun terdapat hal-hal yang tidak selayaknya ada di beatmap Ranked (*unrankables*) baik dengan atau tanpa seizin nominator yang bertanggung jawab
 
-Perubahan-perubahan dibutuhkan untuk menyelesaikan masalah-masalah umum dimulai pada [26 April 2013](https://osu.ppy.sh/community/forums/topics/129625), saat [peppy](/wiki/People/peppy) mempresentasikan ide mengenai [sistem modding baru](/wiki/Beatmap_discussion) (yang nanti dikenal sebagai *Modding v2*). Pada [21 Agustus 2014](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat), kategori beatmap [Qualified](/wiki/Beatmap/Category#qualified) ditambahkan. Qualified menjadi penyangga antara beatmap pending dan ranked untuk membuat proses unrank menjadi lebih halus. Sebagai tambahan, tim [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) (*QAT*) dibentuk untuk mengecek beatmap yang qualified dan mengontrol proses ranking.
+Perubahan-perubahan dibutuhkan untuk menyelesaikan masalah-masalah umum dimulai pada [26 April 2013](https://osu.ppy.sh/community/forums/topics/129625), saat [peppy](/wiki/People/peppy) mempresentasikan ide mengenai [sistem modding baru](/wiki/Beatmap_discussion) (yang nanti dikenal sebagai *Modding v2*). Pada [21 Agustus 2014](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat), kategori beatmap [Qualified](/wiki/Beatmap/Category#qualified) ditambahkan. Qualified menjadi penyangga antara beatmap pending dan ranked untuk membuat proses unrank menjadi lebih halus. Sebagai tambahan, tim [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) (*QAT*) dibentuk untuk mengecek beatmap yang qualified dan mengontrol proses ranking.
 
 Setelah itu, sistem diskusi beatmap dan [kode etik dalam modding dan mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping#membuat-postingan-mod) dikembangkan dan dirilis untuk merestrukturisasi modding dan menjadikan modding lebih menyenangkan untuk semua yang terlibat:
 

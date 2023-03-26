@@ -1,6 +1,6 @@
 # Summary of game modifiers
 
-*Main page: [Game modifiers](/wiki/Game_modifier)*
+*Main page: [Game modifiers](/wiki/Gameplay/Game_modifier)*
 
 <!-- READ BEFORE EDITING:
 - Mods are listed in order of appearance on the Mod Selection screen.

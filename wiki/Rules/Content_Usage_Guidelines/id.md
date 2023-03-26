@@ -10,7 +10,7 @@ Untuk memastikan akunmu tetap dalam keadaan baik, kamu disarankan untuk membuat 
 
 ## Audio
 
-Kami menyediakan banyak daftar lagu berlisensi yang dapat mapper gunakan, lagu-lagu ini tersedia melalui program [Artis Unggulan](/wiki/Featured_Artists). Setiap lagu dalam [daftar ini](https://osu.ppy.sh/beatmaps/artists) gratis untuk digunakan dalam osu! tanpa berisiko dihapus di masa yang akan datang.
+Kami menyediakan banyak daftar lagu berlisensi yang dapat mapper gunakan, lagu-lagu ini tersedia melalui program [Artis Unggulan](/wiki/People/Featured_Artists). Setiap lagu dalam [daftar ini](https://osu.ppy.sh/beatmaps/artists) gratis untuk digunakan dalam osu! tanpa berisiko dihapus di masa yang akan datang.
 
 Saat mencari lagu di luar katalog artis unggulan osu!, periksa terlebih dahulu apakah pembuat lagu telah menyatakan secara eksplisit mengenai syarat penggunaan aset atau tidak. Informasi ini sering kali dapat ditemukan di bagian deskripsi dari platform yang digunakan untuk perilisan musik mereka (misalnya BandCamp, Soundcloud, YouTube) atau situs web pribadi mereka. Jika sebuah lagu dilisensikan menggunakan [Creative Commons License](https://creativecommons.org/about/cclicenses/) atau tersedia untuk digunakan secara non-komersial, maka lagu tersebut aman untuk digunakan dalam pembuatan beatmap.
 
