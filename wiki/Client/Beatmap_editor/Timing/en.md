@@ -18,38 +18,38 @@ tags:
 *For a timing setup guide, see: [How to time songs](/wiki/Guides/How_to_Time_Songs)*\
 *See also: [Beatmapping/Timing](/wiki/Beatmapping/Timing)*
 
-**Timing** is the [beatmap editor](/wiki/Client/Beatmap_editor) tab for changing and setting up timing of a [beatmap](/wiki/Beatmap), which is essential for correct song representation. It contains related settings and helpers, and also a [dedicated window](#timing-setup-panel) for working with multiple [offsets](/wiki/Offset#mapping), both for timing and beatmap design purposes.
+**Timing** is the [beatmap editor](/wiki/Client/Beatmap_editor)'s tab for changing and setting up timing of a [beatmap](/wiki/Beatmap), which is essential for correct song representation. It contains related settings and helpers, and also a [dedicated window](#timing-setup-panel) for working with multiple [timing points](#timing-points), both for musical structure description and beatmap design purposes.
 
-## Offsets
+## Timing points
 
 *See also: [Offset](/wiki/Offset)*
 
-In [mapping](/wiki/Beatmapping), an *offset* is a way to apply common settings, such as [timing](/wiki/Beatmapping/Timing), [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) multiplier, or [hitsounds](/wiki/Beatmapping/Hitsound)' volume, to a whole section of the beatmap. In osu!, there are two offset types.
+In [mapping](/wiki/Beatmapping), a *timing point*, colloquially called an *offset*, is a way to apply common settings, such as [timing](/wiki/Beatmapping/Timing), [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) multiplier, or [hitsounds](/wiki/Beatmapping/Hitsound)' volume, to a whole section of the beatmap. In osu!, there are two types of timing points.
 
 ### Uninherited timing point
 
 ::: Infobox
-![](img/uninherited-offsets.png "Several uninherited offsets located in the timing setup panel")
+![](img/uninherited-offsets.png "Several uninherited timing points located in the timing setup panel")
 :::
 
-An **uninherited** offset has its own timing settings. Several such offsets are used to describe timing changes in the song, such as [tempo](/wiki/Music_theory/Tempo) or beat irregularities, or different size of the [time signature](/wiki/Music_theory/Time_signature). Adding a new uninherited offset resets the metronome, and makes it count beats from the position of the offset, specified in milliseconds.
+An **uninherited** timing point has its own timing settings. Several such points are used to describe timing changes in the song, such as [tempo](/wiki/Music_theory/Tempo) or beat irregularities, or different size of the [time signature](/wiki/Music_theory/Time_signature). Adding a new uninherited timing point resets the metronome, and makes it count beats from the timing point's offset, specified in milliseconds.
 
-Uninherited offsets have red colour on the bottom timeline and in the [timing setup panel](#timing-setup-panel). Due to this, they are often called "red offsets", or "red lines".
+Uninherited timing points have red colour on the bottom timeline and in the [timing setup panel](#timing-setup-panel). Due to this, they are often called "red offsets", or "red lines".
 
 ### Inherited timing point
 
 ::: Infobox
-![](img/inherited-offsets.png "Several inherited offsets with different slider velocity multiplier, volume, and kiai settings")
+![](img/inherited-offsets.png "Several inherited timing points with different slider velocity multiplier, volume, and kiai settings")
 :::
 
-An **inherited** offset uses currently active timing settings, *inheriting* them from the previous timing point. Inherited offsets are used for the following purposes:
+An **inherited** offset uses currently active timing settings, *inheriting* them from the previous timing point. Inherited timing points are used for the following purposes:
 
-- [Slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) change on a certain section of the beatmap
-- [Hitsounds](/wiki/Beatmapping/Hitsound)' volume control
+- Changing [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) on a certain section of the beatmap
+- Controlling the volume of [hitsounds](/wiki/Beatmapping/Hitsound)
 - Switching between active hitsounds' [samplesets](/wiki/Beatmapping/Sampleset)
 - Enabling or disabling [kiai time](/wiki/Gameplay/Kiai_time)
 
-Uninherited offsets have green colour on the bottom timeline and in the [timing setup panel](#timing-setup-panel). Due to this, they are often called "green offsets", or "green lines".
+Inherited timing points have green colour on the bottom timeline and in the [timing setup panel](#timing-setup-panel). Due to this, they are often called "green offsets", or "green lines".
 
 ## Main view
 
@@ -79,7 +79,7 @@ To quickly make larger or smaller changes, use the below modifiers:
 
 The metronome, which is located in the upper right corner of the timing tab, helps quickly find approximate timing settings. The initial BPM and offset values of the song can be found by repeatedly tapping `T`, or clicking the `Tap Here!` button, while following the song's rhythm.
 
-The visual part of the metronome is tailored to the most popular [time signature](/wiki/Music_theory/Time_signature), 4/4. The first section denotes the [downbeat](/wiki/Music_theory/Downbeat) and flashes green, while remaining sections flash white to every beat of the song's [measures](/wiki/Music_theory/Measure). Non-default signatures, such as 7/4, add extra flashes, but the size of the metronome doesn't change.
+The visual part of the metronome is tailored to the most popular [time signature](/wiki/Music_theory/Time_signature), 4/4. The first section denotes the [downbeat](/wiki/Music_theory/Downbeat) and flashes green, while remaining sections flash white to every beat of the song's [measures](/wiki/Music_theory/Measure). Uncommon signatures, such as 7/4, add extra flashes, but the size of the metronome doesn't change.
 
 ## Timing setup panel
 
@@ -89,8 +89,8 @@ The timing setup panel, also called `Timing and Control Points`, is a pop-up win
 
 ### Selection and sharing
 
-All changes in the timing panel are only applied to selected offsets.
+All changes in the timing panel are only applied to selected timing points.
 
-- To select multiple arbitrary offsets, hold `Ctrl` while clicking them
-- To select several offsets in a row, click the first one, and then click the last one while holding `Shift`
-- To **copy or paste offsets from and into the timing panel**, use your OS' default shortcuts, such as `Ctrl` + `C` and `Ctrl` + `V`
+- To select multiple arbitrary timing points, hold `Ctrl` while clicking them
+- To select several timing points in a row, click the first one, and then click the last one, while holding `Shift`
+- To **copy or paste timing points from and into the timing panel**, use your OS' default shortcuts, such as `Ctrl` + `C` and `Ctrl` + `V`
