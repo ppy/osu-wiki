@@ -7,13 +7,11 @@ Secara default, osu!(lazer) akan menyimpan berkas-berkas beatmap, skin, dan repl
 - `~/Library/Application Support/osu/files` (macOS),
 - `Android/data/sh.ppy.osulazer/files/files` (Android).
 
-Pada platform desktop, direktori penyimpanan file dapat juga dipindahkan secara sepenuhnya ke lokasi yang lain, menggunakan tombol `Ubah lokasi folder...` di pengaturan klien.
+Pada platform desktop, direktori penyimpanan file dapat juga dipindahkan secara sepenuhnya ke lokasi yang lain, menggunakan tombol `Ubah lokasi folder...` di pengaturan klien lazer.
 
 ## Struktur penyimpanan
 
-Struktur penyimpanan osu!(stable), yang dimana data dapat diakses secara langsung oleh pengguna seperti berkas-berkas standar, telah menyebabkan banyak masalah karena mengharuskan penanganan secara eksplisit modifikasi-modifikasi yang tak diinginkan terhadap berkas-berkas penting.
-
-Untuk menghindari hal tersebut, osu!(lazer) menggunakan metode penyimpanan berkas yang lebih ketat. Sehingga, tidak ada ekuivalen folder `Songs` dan `Skins`. Semua berkas yang diimpor ke klien lazer akan disimpan dengan nama berkas yang menunjukkan [hash SHA-256](https://id.wikipedia.org/wiki/SHA-2) dari berkas tersebut.
+Struktur penyimpanan osu!(stable), yang dimana data dapat diakses secara langsung oleh pengguna seperti berkas-berkas standar, telah menyebabkan banyak masalah karena mengharuskan penanganan secara eksplisit modifikasi-modifikasi yang tak diinginkan terhadap berkas-berkas penting. Untuk menghindari hal tersebut, osu!(lazer) menggunakan metode penyimpanan berkas yang lebih ketat. Sehingga, tidak ada ekuivalen folder `Songs` dan `Skins`. Semua berkas yang diimpor ke klien lazer akan disimpan dengan nama berkas yang menunjukkan [hash SHA-256](https://id.wikipedia.org/wiki/SHA-2) dari berkas tersebut.
 
 Sebagai contoh, sebuah berkas dengan hash SHA-256 berikut
 ```
@@ -45,11 +43,10 @@ Tetapi sebaiknya diketahui bahwa jika penggunaan ruang media penyimpanan dicek m
 
 Sebagai suatu fitur yang ada pada level sistem berkas, berkas yang ter-*hard link* harus berada di media penyimpanan yang sama.
 
-- Windows: Media penyimpanan harus berformat NTFS
-- macOS: Sistem berkas harus mendukung *hard link*
-- Linux: Sistem berkas harus mendukung *hard link*
+- **Windows**: Media penyimpanan harus berformat NTFS
+- **macOS**: Sistem berkas harus mendukung *hard link*
+- **Linux**: Sistem berkas harus mendukung *hard link*
 
 ### Dengan menyalin berkas
 
 Pada sistem operasi dan sistem berkas lain yang dimana fitur *hard link* tidak tersedia (atau fungsionalitas untuk menciptakannya belum diimplementasikan), migrasi dari stable ke lazer dapat dilakukan dengan menyalin semua berkas-berkas dari instalasi lama ke yang baru. Kedua instalasi akan sepenuhnya terpisah, tetapi akan memakan sampai dua kali lipat ruang penyimpanan data.
-
