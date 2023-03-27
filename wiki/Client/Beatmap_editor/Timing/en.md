@@ -13,12 +13,12 @@ tags:
   - paste timing
 ---
 
-# Timing
+# Timing tab
 
 *For a timing setup guide, see: [How to time songs](/wiki/Guides/How_to_Time_Songs)*\
 *See also: [Beatmapping/Timing](/wiki/Beatmapping/Timing)*
 
-**Timing** is the [beatmap editor](/wiki/Client/Beatmap_editor)'s tab for changing and setting up timing of a [beatmap](/wiki/Beatmap), which is essential for correct song representation. It contains related settings and helpers, and also a [dedicated window](#timing-setup-panel) for working with multiple [timing points](#timing-points), both for musical structure description and beatmap design purposes.
+**Timing** is the [beatmap editor](/wiki/Client/Beatmap_editor)'s tab for changing and setting up the timing of a [beatmap](/wiki/Beatmap), which is essential for correct song representation. It contains timing-related settings and tools, and also a [dedicated window](#timing-setup-panel) for working with multiple [timing points](#timing-points), both for musical structure representation and beatmap design purposes.
 
 ## Timing points
 
@@ -32,7 +32,9 @@ In [mapping](/wiki/Beatmapping), a *timing point*, colloquially called an *offse
 ![](img/uninherited-points.png "Several uninherited timing points located in the timing setup panel")
 :::
 
-An **uninherited** timing point has its own timing settings. Several such points are used to describe timing changes in the song, such as [tempo](/wiki/Music_theory/Tempo) or beat irregularities, or different size of the [time signature](/wiki/Music_theory/Time_signature). Adding a new uninherited timing point resets the metronome, and makes it count beats from the timing point's offset, specified in milliseconds.
+An **uninherited** timing point has its own timing settings. Several of such points are used to represent timing changes in the song, such as [tempo](/wiki/Music_theory/Tempo), beat irregularities, or a different size of [time signature](/wiki/Music_theory/Time_signature). Adding a new uninherited timing point resets the metronome, making it count beats from the timing point's offset, specified in milliseconds.
+
+In addition to that, uninherited timing points can be used for omitting bar lines in [osu!taiko](/wiki/Game_mode/osu!taiko) or [osu!mania](/wiki/Game_mode/osu!mania).
 
 Uninherited timing points have red colour on the bottom timeline and in the [timing setup panel](#timing-setup-panel). Due to this, they are often called "red offsets" or "red lines".
 
@@ -85,7 +87,7 @@ The visual part of the metronome is tailored to the most common [time signature]
 
 ![Screenshot of the timing setup panel](/wiki/shared/timing/TimingSetup.png)
 
-The timing setup panel, also called `Timing and Control Points`, is a pop-up window that can be opened by pressing `F6`. It contains several tabs for working with different options of the timing points, such as timing, [hitsounds](/wiki/Beatmapping/Hitsound) volume and [sampleset](/wiki/Beatmapping/Sampleset), or special effects.
+The timing setup panel, also called `Timing and Control Points`, is a pop-up window that can be opened by pressing `F6`. It contains several tabs for working with different options of the timing points, such as timing, [hitsounds](/wiki/Beatmapping/Hitsound), volumes, [samplesets](/wiki/Beatmapping/Sampleset), or special effects.
 
 ### Selection and sharing
 
