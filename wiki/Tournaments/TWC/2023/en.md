@@ -148,7 +148,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad
   1. [Cinamoro - Another (Hivie) \[Illusion\]](https://osu.ppy.sh/beatmapsets/1963582#taiko/4069722)
   2. [Lime - Chronomia (Nwolf) \[Oni\]](https://osu.ppy.sh/beatmapsets/1963559#taiko/4069646)
 - Double Time
-  1. [BlackY - Howling Moon (komasy) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1963854#taiko/4070768)
+  1. [BlackY - Howling Moon (komasy) \[TWC ver.\]](https://osu.ppy.sh/beatmapsets/1963854#taiko/4070769)
   2. [Zekk - SUMMER (\_Rise) \[Oni\]](https://osu.ppy.sh/beatmapsets/1963718#taiko/4070069)
 - FreeMod
   1. [Zekk - Duplication (eiri-) \[Facsimile\]](https://osu.ppy.sh/beatmapsets/1963847#taiko/4070755)
