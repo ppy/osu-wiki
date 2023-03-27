@@ -134,7 +134,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad
 
 ### Round of 16
 
-**[Download the mappack here (67 MB)](https://drive.google.com/uc?id=1m75THvxZQ_d9adBFBg7_6X-6hMWAgApf)**
+**[Download the mappack here (66 MB)](https://drive.google.com/uc?id=1m75THvxZQ_d9adBFBg7_6X-6hMWAgApf)**
 
 - No Mod
   1. [Plum - Tempest (Capu) \[X\]](https://osu.ppy.sh/beatmapsets/1963578#taiko/4069679)
@@ -148,10 +148,10 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad
   1. [Cinamoro - Another (Hivie) \[Illusion\]](https://osu.ppy.sh/beatmapsets/1963582#taiko/4069722)
   2. [Lime - Chronomia (Nwolf) \[Oni\]](https://osu.ppy.sh/beatmapsets/1963559#taiko/4069646)
 - Double Time
-  1. [BlackY - Howling Moon (komasy) \[twc ver.\] *(temporary link)*](https://leoflt.com/s/f5Vj)
-  2. [Zekk - SUMMER (\_Rise) \[Oni\] *(temporary link)*](https://leoflt.com/s/D9g9)
+  1. [BlackY - Howling Moon (komasy) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1963854#taiko/4070768)
+  2. [Zekk - SUMMER (\_Rise) \[Oni\]](https://osu.ppy.sh/beatmapsets/1963718#taiko/4070069)
 - FreeMod
-  1. [Zekk - Duplication (eiri-) \[a\] *(temporary link)*](https://leoflt.com/s/GUoa)
+  1. [Zekk - Duplication (eiri-) \[Facsimile\]](https://osu.ppy.sh/beatmapsets/1963847#taiko/4070755)
   2. [Zenpaku - Blast+ feat. DEMONDICE (Burak) \[Odyssey\]](https://osu.ppy.sh/beatmapsets/1963586#taiko/4069758)
   3. [Morimori Atsushi - PUPA (uma Remix) (Lumenite-) \[Inner Oni (Edit)\]](https://osu.ppy.sh/beatmapsets/1591364#taiko/4069678)
 - Tiebreaker
