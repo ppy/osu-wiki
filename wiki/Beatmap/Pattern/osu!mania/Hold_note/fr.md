@@ -4,7 +4,7 @@ stub: true
 
 # Hold note
 
-Les **hold notes** (aussi connues sous le nom de **long notes**) sont des notes qui doivent être tenues puis relâchées. Elles sont souvent appelés "noodles" ou "LNs" et sont utilisées pour représenter des sons prolongés dans la musique.
+Les **hold notes** (aussi connues sous le nom de **long notes**) sont des notes qu'il faut maintenir puis relâcher. Elles sont souvent appelés "noodles" ou "LNs" (pour Long Notes) et sont utilisées pour représenter des sons prolongés dans la musique.
 
 ![](img/ln.png)
 

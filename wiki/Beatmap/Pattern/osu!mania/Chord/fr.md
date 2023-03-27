@@ -10,7 +10,7 @@ Un **chord** est un groupe de deux notes ou plus à jouer en même temps. Ils so
 
 Aussi connus sous le nom de doubles, les **jumps** sont deux notes jouées en même temps. C'est le type de chord le plus courant en osu!mania 4K.
 
-Ce terme vient de *Dance Dance Revolution* et autres jeux similaires où effectuer les doubles nécessite que le joueur saute littéralement entre les flèches sur le tapis de danse.
+Ce terme vient de *Dance Dance Revolution* et d'autres jeux similaires dans lesquels les doubles nécessitent que le joueur saute littéralement entre les flèches sur le tapis de danse.
 
 ![](img/jump.png)
 
