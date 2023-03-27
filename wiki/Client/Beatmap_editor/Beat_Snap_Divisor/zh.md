@@ -1,127 +1,118 @@
----
-outdated_translation: true
----
-
 # 音符时值
 
-音符时值是用来限制物件摆放的位置使得它们能准确地落在节拍上，减小音符时值可以在一个全音符内放置更多的物件
+![](img/beat_snap_divisor.png "谱面编辑器中的音符时值设置")
 
-不同的音符时值会在[时间轴上以不同颜色的线条来表现](/wiki/Client/Beatmap_editor/Timelines)，具体如下：
+**音符时值**是一项编辑器设置，用来决定编辑器行为在量化[打击物件](/wiki/Hit_object)
+限制物件摆放的位置使得它们能准确地落在节拍上，减小音符时值可以在一个全音符内放置更多的物件
+at determines the editor's behaviour in quantising  based on the [Beat Snap](/wiki/Client/Beatmap_editor/Beat_Snap) principles. It can be found in the upper-right portion of the editor screen, where it corresponds to the granularity of the objects on the [timeline](/wiki/Client/Beatmap_editor/Timelines); that is, a denser Beat Snap Divisor setting allows for more notes to be placed in the same measure of time and vice versa. 
 
-## osu!，osu!taiko，osu!catch
 
-### 时值 1/1
+不同的音符时值会在[时间轴上以不同颜色的线条来表现](/wiki/Client/Beatmap_editor/Timelines)
 
-![Divisor 1/1](/wiki/shared/BSD_1_1b.jpg "Divisor 1/1")
+谱面编辑器支持下列 11 种不同音符时值设置：
 
-- 四分音符
-- 只有白色线条
-- 在简单难度中经常使用
+## 1/1 snap divisor
 
-### 时值 1/2
+![](/wiki/shared/BSD_1_1b.jpg "1/1 snap divisor in the osu!/osu!taiko/osu!catch editor")
 
-![Divisor 1/2](/wiki/shared/BSD_1_2.jpg "Divisor 1/2")
+![](/wiki/shared/1_1_m.jpg "1/1 snap divisor in the osu!mania editor")
 
-- 八分音符
-- 在两根白色线条中间多了一根红色线条
+The 1/1 snap divisor allows for hit objects to be placed on every *full beat*. It is represented by white-coloured ticks on the editor timeline.
 
-### 时值 1/3
+Due to its simplicity and ease of use, this snap divisor is most commonly used for Easy difficulties.
 
-![Divisor 1/3](/wiki/shared/BSD_1_3.jpg "Divisor 1/3")
+## 1/2 snap divisor
 
-- 十二分音符*
-- 在两根白色线条中间多了两根紫色线条
-- 复合节奏
+![](/wiki/shared/BSD_1_2.jpg "1/2 snap divisor in the osu!/osu!taiko/osu!catch editor")
 
-### 时值 1/4
+![](/wiki/shared/1_2_m.jpg "1/2 snap divisor in the osu!mania editor")
 
-![Divisor 1/4](/wiki/shared/BSD_1_4.jpg "Divisor 1/4")
+The 1/2 snap divisor allows for hit objects to be placed on *half beats* and their multiples (e.g. 1/2). It is represented by red-coloured ticks on the editor timeline.
 
-- 十六分音符
-- 在两根红色线条中间多了一根蓝色线条
-- 普遍用于作图
+## 1/3 snap divisor
 
-### 时值 1/6
+![](/wiki/shared/BSD_1_3.jpg "1/3 snap divisor in the osu!/osu!taiko/osu!catch editor")
 
-![Divisor 1/6](/wiki/shared/BSD_1_6.jpg "Divisor 1/6")
+![](/wiki/shared/1_3_m.jpg "1/3 snap divisor in the osu!mania editor")
 
-- 二十四分音符*
-- 在两根红色线条中间多了两根紫色线条
-- 复合节奏
+The 1/3 snap divisor allows for hit objects to be placed on *triplets*, which is the third fraction of a beat, and their multiples (e.g. 1/3 and 2/3). It is represented by purple-coloured ticks on the editor timeline.
 
-### 时值 1/8
+Although relatively rare, there are some songs and music genres (e.g. swing jazz) that primarily utilise this snap divisor throughout.
 
-![Divisor 1/8](/wiki/shared/BSD_1_8.jpg "Divisor 1/8")
+## 1/4 snap divisor
 
-- 三十二分音符
-- 在红和蓝色线条中间多了一根黄色线条
+![](/wiki/shared/BSD_1_4.jpg "1/4 snap divisor in the osu!/osu!taiko/osu!catch editor")
 
-1/3 和 1/6 时值比较特殊，因为这意味着你的 BPM 可以被3整除，但这是比较“少见”的
+![](/wiki/shared/1_4_m.jpg "1/4 snap divisor in the osu!mania editor")
 
-在滑条上按下 `Alt` 按钮可以将它转换成[固定间距的滑条](/wiki/Client/Beatmap_editor/Distance_snap)
+The 1/4 snap divisor allows for hit objects to be placed on *quarter beats*, which is the fourth fraction of a beat, and their multiples (e.g. 1/4 and 3/4). It is represented by blue-coloured ticks on the editor timeline.
 
-## osu!mania
+Due to its versatility, this snap divisor is extremely popular among mappers and is frequently used in all sorts of beatmaps. It is also the default setting that is designated by the editor upon importing a new audio file.
 
-双白线：全音符
+## 1/5 snap divisor
 
-白线：四分音符
+![](img/1_5_snap_divisor.png "1/5 snap divisor in the osu!/osu!taiko/osu!catch editor")
 
-绿线：当前播放点
+![](img/1_5_snap_divisor_m.png "1/5 snap divisor in the osu!mania editor")
 
-### 时值 1/1
+The 1/5 snap divisor allows for hit objects to be placed on the fifth fraction of a beat and its multiples (e.g. 1/5, 2/5, 3/5, and 4/5). It is represented by yellow-coloured ticks on the editor timeline.
 
-![Divisor 1/1](/wiki/shared/1_1_m.jpg "Divisor 1/1")
+This snap divisor is extremely uncommon and should be used with care. If you find yourself resorting to the 1/5 snap divisor out of the blue, it is recommended that you seek further advice from experienced mappers.
 
-- 四分音符
-- 只有白色线条
-- 在简单难度中经常使用
+## 1/6 snap divisor
 
-### 时值 1/2
+![](/wiki/shared/BSD_1_6.jpg "1/6 snap divisor in the osu!/osu!taiko/osu!catch editor")
 
-![Divisor 1/2](/wiki/shared/1_2_m.jpg "Divisor 1/2")
+![](/wiki/shared/1_6_m.jpg "1/6 snap divisor in the osu!mania editor")
 
-- 八分音符
-- 在两根白色线条中间多了一根红色线条
+The 1/6 snap divisor allows for hit objects to be placed on *double triplets*, which is the sixth fraction of a beat, and their multiples (e.g. 1/6 and 5/6). It is represented by purple-coloured ticks on the editor timeline.
 
-### 时值 1/3
+Although relatively rare, there are some songs and music genres (e.g. swing jazz) that primarily utilise this snap divisor throughout.
 
-![Divisor 1/3](/wiki/shared/1_3_m.jpg "Divisor 1/3")
+## 1/7 snap divisor
 
-- 十二分音符
-- 在两根白色线条中间多了两根紫色线条
-- 复合节奏
+![](img/1_7_snap_divisor.png "1/7 snap divisor in the osu!/osu!taiko/osu!catch editor")
 
-### 时值 1/4
+![](img/1_7_snap_divisor_m.png "1/7 snap divisor in the osu!mania editor")
 
-![Divisor 1/4](/wiki/shared/1_4_m.jpg "Divisor 1/4")
+The 1/7 snap divisor allows for hit objects to be placed on the seventh fraction of a beat and its multiples (e.g. 1/7, 2/7, 3/7, and so on). It is represented by yellow-coloured ticks on the editor timeline.
 
-- 十六分音符
-- 在两根红色线条中间多了一根蓝色线条
-- 普遍用于作图
+This snap divisor is extremely uncommon and should be used with care. If you find yourself resorting to the 1/7 snap divisor out of the blue, it is recommended that you seek further advice from experienced mappers.
 
-### 时值 1/6
+## 1/8 snap divisor
 
-![Divisor 1/6](/wiki/shared/1_6_m.jpg "Divisor 1/6")
+![](/wiki/shared/BSD_1_8.jpg "1/8 snap divisor in the osu!/osu!taiko/osu!catch editor")
 
-- 二十四分音符
-- 在两根红色线条中间多了两根紫色线条
-- 复合节奏
+![](/wiki/shared/1_8_m.jpg "1/8 snap divisor in the osu!mania editor")
 
-### 时值 1/8
+The 1/8 snap divisor allows for hit objects to be placed on the eighth fraction of a beat and its multiples (e.g. 1/8, 3/8, 5/8, and 7/8). It is represented by yellow-coloured ticks on the editor timeline.
 
-![Divisor 1/8](/wiki/shared/1_8_m.jpg "Divisor 1/8")
+## 1/9 snap divisor
 
-- 三十二分音符
-- 在红和蓝色线条中间多了一根黄色线条
+![](img/1_9_snap_divisor.png "1/9 snap divisor in the osu!/osu!taiko/osu!catch editor")
 
-### 时值 1/12
+![](img/1_9_snap_divisor_m.png "1/9 snap divisor in the osu!mania editor")
 
-![Divisor 1/12](/wiki/shared/1_12_m.jpg "Divisor 1/12")
+The 1/9 snap divisor allows for hit objects to be placed on the ninth fraction of a beat and its multiples (e.g. 1/9, 2/9, 3/9, and so on). It is represented by yellow-coloured ticks on the editor timeline.
 
-- 四十八分音符
+This snap divisor is extremely uncommon and should be used with care. If you find yourself resorting to the 1/9 snap divisor out of the blue, it is recommended that you seek further advice from experienced mappers.
 
-### 时值 1/16
+## 1/12 snap divisor
 
-![Divisor 1/16](/wiki/shared/1_16_m.jpg "Divisor 1/16")
+![](img/1_12_snap_divisor.png "1/12 snap divisor in the osu!/osu!taiko/osu!catch editor")
 
-- 六十四分音符
+![](/wiki/shared/1_12_m.jpg "1/12 snap divisor in the osu!mania editor")
+
+The 1/12 snap divisor allows for hit objects to be placed on the twelfth fraction of a beat and its multiples (e.g. 1/12, 5/12, 7/12, and so on). It is represented by grey-coloured ticks on the editor timeline.
+
+This snap divisor is extremely uncommon and should be used with care. If you find yourself resorting to the 1/12 snap divisor out of the blue, it is recommended that you seek further advice from experienced mappers.
+
+## 1/16 snap divisor
+
+![](img/1_16_snap_divisor.png "1/16 snap divisor in the osu!/osu!taiko/osu!catch editor")
+
+![](/wiki/shared/1_16_m.jpg "1/16 snap divisor in the osu!mania editor")
+
+The 1/16 snap divisor allows for hit objects to be placed on the sixteenth fraction of a beat and its multiples (e.g. 1/16, 3/16, 5/16, and so on). It is represented by grey-coloured ticks on the editor timeline.
+
+This snap divisor is extremely uncommon and should be used with care. If you find yourself resorting to the 1/16 snap divisor out of the blue, it is recommended that you seek further advice from experienced mappers.
