@@ -8,7 +8,7 @@ Un **trill** est composé de 3 notes consécutives ou plus qui alternent entre d
 
 ![](img/trill.png)
 
-Les trills sont souvent caractérisés selon la nécessité d'utiliser une ou deux mains pour les exécuter. Ces trills sont connus sous le nom de **one-handed trills** et **two-handed trills**.
+Les trills sont souvent caractérisés par la nécessité d'utiliser une ou deux mains pour les exécuter. On parle alors de **one-handed trills** et de **two-handed trills**.
 
 ## Chordtrill, jumptrill et split trill
 
@@ -16,7 +16,7 @@ Les **chordtrills** utilisent deux chords qui s'alternent au lieu d'utiliser des
 
 ![](img/chordtrill.png)
 
-Il y a deux principaux types de chordtrills. L'un de ces types, le **jumptrill**, demande de jouer chaque chord d'une seule main.
+Il y a deux principaux types de chordtrills. Le premier type, le **jumptrill**, demande de jouer chaque chord d'une seule main.
 
 ![](img/jumptrill.png)
 

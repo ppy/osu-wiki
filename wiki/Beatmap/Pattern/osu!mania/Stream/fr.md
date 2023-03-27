@@ -6,7 +6,7 @@ stub: true
 
 ## Single-note stream
 
-Un **stream** est un ensemble constant de notes avec le même intervalle de snapping. Il existe de nombreux types de streams qui imposent différents niveaux de difficulté au joueur. Les **single-note streams** sont le type de stream le plus basique et sont composés exclusivement de notes simples consécutives.
+Un **stream** est un ensemble constant de notes ayant le même intervalle de snapping. Il existe de nombreux types de streams qui imposent différents niveaux de difficulté au joueur. Les **single-note streams** sont le type de stream le plus basique et sont composés exclusivement de notes simples consécutives.
 
 ![](img/stream.png "Cette image montre un type de stream spécifique connu sous le nom de roll.")
 
@@ -26,31 +26,31 @@ Les **jumpstreams** sont des streams qui impliquent des [jumps](/wiki/Beatmap/Pa
 
 ## Handstream
 
-Les **handstreams** sont des streams qui impliquent des [hands](/wiki/Beatmap/Pattern/osu!mania/Chord#hand), et parfois également des jumps. Tout comme les jumpstreams, le stream est sur des snaps 1/4 tandis que les jumps sont sur des snaps plus élevés.
+Les **handstreams** sont des streams qui impliquent des [hands](/wiki/Beatmap/Pattern/osu!mania/Chord#hand), et qui peuvent aussi impliquer des jumps. Tout comme les jumpstreams, le stream est sur des snaps 1/4 tandis que les jumps sont sur des snaps plus élevés.
 
 ![](img/handstream.png)
 
-Ce terme est aussi principalement utilisé en osu!mania 4K.
+Ce terme est principalement utilisé en osu!mania 4K.
 
 ## Quadstream
 
-Le **quadstream** est un terme exclusivement utilisé en osu!mania 4K. Semblable aux deux types de streams précédents, c'est un stream qui implique l'utilisation de quads ainsi que d'autres chords plus petits. Dans le mode osu!mania 4K, les quads dans les quadstreams créent des [minijacks](/wiki/Beatmap/Pattern/osu!mania/Jack#minijack) avec la note avant ou après le quad.
+**Quadstream** est un terme exclusivement utilisé en osu!mania 4K. Semblable aux deux types de streams précédents, c'est un stream qui implique l'utilisation de quads ainsi que d'autres chords plus petits. Dans le mode osu!mania 4K, les quads dans les quadstreams créent des [minijacks](/wiki/Beatmap/Pattern/osu!mania/Jack#minijack) avec la note qui précède ou qui suit le quad.
 
 ![](img/quadstream.png)
 
 ## Chordstream
 
-Les **chordstreams** sont un type de stream qui implique différentes tailles de chords. Ce stream est généralement en 1/4, tandis que les chords sont placés tous les 1/1 ou 1/2 d'intervalle de snapping. Dans les modes en dehors du 4K, le "chordstream" fait généralement référence aux streams impliquant 3 notes ou plus dans les chords. Ainsi, le terme est presque exclusivement utilisé dans les modes en dehors du 4K. 
+Les **chordstreams** sont un type de stream qui implique différentes tailles de chords. Ce stream est généralement en 1/4, avec des chords placés tous les 1/1 ou 1/2 d'intervalle de snapping. Dans les modes en dehors du 4K, le "chordstream" fait généralement référence aux streams impliquant 3 notes ou plus dans les chords. Ainsi, le terme est presque exclusivement utilisé dans les modes en dehors du 4K. 
 
 ![](img/chordstream.png)
 
-Les **chordstreams** peuvent également inclure des **double streams**, qui sont deux streams qui se jouent simultanément. Ceux-ci sont plus courants dans les modes 7K ou plus d'osu!mania.
+Les **chordstreams** peuvent également inclure des **double streams**, c'est-à-dire deux streams qui se jouent simultanément. Ceux-ci sont plus courants dans les modes 7K et plus d'osu!mania.
 
 ![](img/chordstream2.png)
 
 ## Bracket
 
-Les **brackets** sont un type spécifique de chordstream impliquant 2 [trills](/wiki/Beatmap/Pattern/osu!mania/Trill) ou plus se produisant en même temps, bien que les trills puissent changer de colonne. Ils se produisent généralement lorsque les chordstreams sont assez denses avec l'utilisation des chords et mélangent généralement les one-handed trills et les two-handed trills.
+Les **brackets** sont un type spécifique de chordstream impliquant l'utilisation de 2 ou plusieurs [trills](/wiki/Beatmap/Pattern/osu!mania/Trill) en même temps, bien que les trills puissent changer de colonne. Ils se produisent généralement lorsque les chordstreams sont assez denses avec l'utilisation de chords et mélangent généralement les one-handed trills et les two-handed trills.
 
 ![](img/bracket.png)
 
