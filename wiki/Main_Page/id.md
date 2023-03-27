@@ -98,7 +98,7 @@ Lakukan bagianmu: [Bagaimana kamu dapat membantu](/wiki/Community/How_you_can_he
 
 Para pemain osu! di seluruh dunia saling terhubung dan berinteraksi antar satu sama lain setiap waktunya. Jadilah bagian dalam segala rupa aktivitas yang terjadi di sekitar komunitas, mulai dari obrolan, kontes, hingga berbagai *event* besar!
   
-Ruang publik: [Forum](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_Chat)  • [Server Discord](/wiki/Community/Discord_servers)
+Ruang publik: [Forum](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_Chat) • [Server Discord](/wiki/Community/Discord_servers)
 
 [Turnamen](/wiki/Tournaments) • [Beatmap Spotlight](/wiki/Beatmap_Spotlights) • [Kontes](/wiki/Contests) • [Program Community Mentorship](/wiki/Community/Community_Mentorship_Program)
   
@@ -133,7 +133,7 @@ Berbagai hal yang sekiranya dapat berguna bagi mereka yang ingin turut serta dal
   
 Sama seperti berbagai hal lainnya yang terdapat di osu!, osu! wiki juga dikembangkan dan dikelola oleh para sukarelawan. Apabila kamu memiliki saran, kritikan, atau bahkan ide seputar artikel baru untuk ditambahkan ke wiki ini, silakan kunjungi [repositori osu-wiki di GitHub](https://github.com/ppy/osu-wiki).
 
-[Sejarah osu!](/wiki/History_of_osu!) • [Sejarah osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [Sejarah peringkat online](/wiki/History_of_osu!/Online_rankings) • [Sejarah mapping dan modding](/wiki/History_of_osu!/Mapping_and_Modding_Timeline) • [April Fools](/wiki/History_of_osu!/April_Fools)
+[Sejarah osu!](/wiki/History_of_osu!) • [Sejarah peringkat online](/wiki/History_of_osu!/Online_rankings) • [Sejarah osu! wiki](/wiki/History_of_osu!/osu!_wiki • [Sejarah mapping dan modding](/wiki/History_of_osu!/Mapping_and_Modding_Timeline) • [April Fools](/wiki/History_of_osu!/April_Fools)
 
 [Peta situs](/wiki/Sitemap) • [Panduan kontribusi](/wiki/osu!_wiki/Contribution_guide) • [Kriteria penulisan artikel](/wiki/Article_styling_criteria) • [Kriteria penulisan berita](/wiki/News_styling_criteria)
 
