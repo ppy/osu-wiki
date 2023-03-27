@@ -25,7 +25,7 @@ On 31 March 2015, [osu!coins](/wiki/History_of_osu!/April_Fools#osu!coins) were 
 
 The `#balkan` channel was re-added to the game as per a [feature request](https://osu.ppy.sh/community/forums/topics/152009&start=0) on 2 April 2015.[^balkan-channel][^osu-weekly-4]
 
-The [Co-op mod](/wiki/Game_modifier/Co-op) became an unranked mod on 6 April 2015.[^osu-weekly-5]
+The [Co-op mod](/wiki/Gameplay/Game_modifier/Co-op) became an unranked mod on 6 April 2015.[^osu-weekly-5]
 
 9K was made rankable after being given proper use support in the editor on 30 April 2015.[^osu-weekly-8]
 
@@ -47,11 +47,11 @@ The osu!keyboard (also known as the "osu! 'nono' keyboard") was added to the osu
 
 Implementation of the username change system in the osu!store was set live on 16 June 2015, although full functionality of the system was not available until 18 June 2015. The changes made it so that players had to pay $4 USD for their first name change, after which the price would double with each succeeding purchase with a cap at $100 USD; however, if a user bought an [osu!supporter tag](https://osu.ppy.sh/home/support), then their first change would be free. [^ppy-blog-june-04][^ppy-blog-june-16][^ppy-blog-june-17][^ppy-blog-june-18]
 
-The ability to see what a replay would look like without [mods](/wiki/Game_modifier) was added on 23 June 2015 as per a [feature request](https://osu.ppy.sh/community/forums/topics/97560), although the change only made the mods [Double Time](/wiki/Game_modifier/Double_Time), [Half Time](/wiki/Game_modifier/Half_Time), and [Flashlight](/wiki/Game_modifier/Flashlight) togglable.[^ppy-blog-june-23]
+The ability to see what a replay would look like without [mods](/wiki/Gameplay/Game_modifier) was added on 23 June 2015 as per a [feature request](https://osu.ppy.sh/community/forums/topics/97560), although the change only made the mods [Double Time](/wiki/Gameplay/Game_modifier/Double_Time), [Half Time](/wiki/Gameplay/Game_modifier/Half_Time), and [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight) togglable.[^ppy-blog-june-23]
 
 ## July
 
-On 15 July 2015, it was announced that a new public [Slack](https://slack.com/) team was created for the purpose of better communicating with public contributors. [peppy](https://osu.ppy.sh/users/2) initially made the announcement on his blog and had explained that anyone who was willing to help test cutting-edge features, contribute graphical/sound resources, or get help working with osu! services could come and join the team and talk to the people from different [osu! teams](/wiki/People/The_Team) directly.[^ppy-blog-july-15]
+On 15 July 2015, it was announced that a new public [Slack](https://slack.com/) team was created for the purpose of better communicating with public contributors. [peppy](https://osu.ppy.sh/users/2) initially made the announcement on his blog and had explained that anyone who was willing to help test cutting-edge features, contribute graphical/sound resources, or get help working with osu! services could come and join the team and talk to the people from different [osu! teams](/wiki/People/osu!_team) directly.[^ppy-blog-july-15]
 
 *Note: There was still a private Slack team that the osu! team used for internal communications, which was not accessible or viewable to outside users; these two teams were independent of each other.*
 
@@ -73,7 +73,7 @@ On 26 September 2015, [cYsmix](http://cysmix.com/) became one of the first offic
 
 ![](img/cysmix-album-cover-1.jpg "The album cover for cYsmix's first release of official osu! songs")
 
-Each track had its own pre-timed [`.osz`](/wiki/osu!_File_Formats/Osz_(file_format)) file included with it and were released on [cYsmix's SoundCloud](https://soundcloud.com/olemlanglie) on 28 September 2015.
+Each track had its own pre-timed [`.osz`](/wiki/Client/File_formats/Osz_(file_format)) file included with it and were released on [cYsmix's SoundCloud](https://soundcloud.com/olemlanglie) on 28 September 2015.
 
 In addition to this, an "open bounty" named "Mapping With Rewards" was created for this event, that allowed anyone to map one of the aforementioned tracks, get it into a rankable state, and if it was impressive enough, that person would receive a bounty for it. The bounty reward offered at the time was as follows: one song bundled with client (for a limited period of time), $50 osu!store credit, 6 months supporter tag, and a unique profile badge. This open bounty was reportedly created due to a need to reward players for quality beatmaps and to celebrate the new tracks without having to go through the hassle that comes with running traditional mapping contests.[^ppy-blog-sep-mwr]
 

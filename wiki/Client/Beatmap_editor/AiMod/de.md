@@ -124,7 +124,7 @@ AiMod hilft neuen Mappern ihre Beatmaps zu modden, indem es grundlegende Problem
 
 | Nachricht | Erklärung | Lösung |
 | :-- | :-- | :-- |
-| Stack leniency is larger than 0.9 or smaller than 0.3. |  |  |
+| [Stack leniency](/wiki/Beatmap/Stack_leniency) is larger than 0.9 or smaller than 0.3. |  |  |
 | Romanised artist contains unicode. |  |  |
 | Romanised title contains unicode. |  |  |
 | Countdown is not allowed in mania mode. | Nur bei osu!mania Maps | Geh in die **Song Einstellungen** und schalte den Countdown im **"Design" tab** aus. |

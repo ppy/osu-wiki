@@ -23,7 +23,7 @@ Traduções em diferentes línguas estão disponíveis para alguns artigos. Elas
 
 ## Modelo
 
-O osu! wiki é construído em torno de um conceito de acessibilidade: edições e traduções são encorajadas e podem ser feitas por qualquer pessoa capaz e conhecedora. Os dados dos artigos estão armazenados em um [repositório GitHub](https://github.com/ppy/osu-wiki) e atualizados pelos colaboradores através de [pull requests](/wiki/osu!_wiki/Contribution_guide), que são posteriormente revistos e fundidos pelos [mantedores da wiki](/wiki/osu!_wiki/Maintenance/List_of_maintainers).
+O osu! wiki é construído em torno de um conceito de acessibilidade: edições e traduções são encorajadas e podem ser feitas por qualquer pessoa capaz e conhecedora. Os dados dos artigos estão armazenados em um [repositório GitHub](https://github.com/ppy/osu-wiki) e atualizados pelos colaboradores através de [pull requests](/wiki/osu!_wiki/Contribution_guide), que são posteriormente revistos e fundidos pelos [mantedores da wiki](/wiki/People/osu!_wiki_maintainers).
 
 Os artigos são editados usando [GitHub-flavoured Markdown](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/). Adicionalmente, o motor do website implementa características personalizadas cruciais para o wiki como um todo, tais como redirecionamentos, elementos principais, ou melhorias de formatação.<!-- TODO: article on custom features of the wiki? it could help us ease the ASC a bit as well -->
 
@@ -36,6 +36,6 @@ Apesar de ter o sufixo *wiki* em seu nome, o osu! wiki não satisfaz plenamente 
 
 ## Licença
 
-A maioria do conteúdo do osu! wiki é fornecida sob o [CC-BY-NC 4.0](https://github.com/ppy/osu-wiki/blob/master/LICENCE.md). Isso em geral, significa que, os materiais do wiki podem ser usados de forma não comercial (olhe o [resumo rápido](https://tldrlegal.com/license/creative-commons-attribution-noncommercial-4.0-international-(cc-by-nc-4.0))). Alguns conteúdos podem ser cobertos por diferentes licenças de terceiros, que lhe serão então citadas a nível local e será anulada a licença global.
+A maioria do conteúdo do osu! wiki é fornecida sob o [CC-BY-NC 4.0](https://github.com/ppy/osu-wiki/blob/master/LICENCE.md). Isso em geral, significa que, os materiais do wiki podem ser usados de forma não comercial (olhe o [resumo rápido](https://creativecommons.org/licenses/by-nc/4.0/deed.pt_BR)). Alguns conteúdos podem ser cobertos por diferentes licenças de terceiros, que lhe serão então citadas a nível local e será anulada a licença global.
 
 Note-se que isto não cobre o uso da marca "osu!" ou "ppy" em qualquer software, recursos, publicidade ou promoção, uma vez que esta é protegida pela lei de marcas registradas. Se necessitar de autorização para a utilização destes termos, por favor [contacte-nos](mailto:contact@ppy.sh).

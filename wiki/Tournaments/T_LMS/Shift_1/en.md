@@ -524,7 +524,7 @@ Saturday, 8 June 2018 and Sunday, 9 June 2018:
 ### Mappool instructions
 
 1. Each stage will receive its own mappool.
-2. Each map-pool consists of 7 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time), FreeMod, Extra, and Tiebreaker.
+2. Each map-pool consists of 7 brackets: NoMod, [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time), FreeMod, Extra, and Tiebreaker.
 3. Each mappool consists of 18 maps in total.
 4. Each map-pool has one tiebreaker.
    - Each map-pool has one tiebreaker.

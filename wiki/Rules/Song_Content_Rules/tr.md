@@ -26,7 +26,7 @@ Bu ilke katı bir kural değildir, lakin büyük olasılıkla tercihlerinizde ne
 
 Pek çok müzik tarzı veya türü sanatsal veya biçimsel amaçlardan ötürü sansürsüz sözler kullanırlar, ancak küfür ile sansürsüz içerik doğrudan yasaklı değilken, aşırı derecede argo dil barındıran veya diğerlerini kasıtlı olarak şoke etmek veya kışkırtmak için tasarlanmış parçalar yasaktır.
 
-Eğer bu yönergeleri göz önünde bulundurarak parçanızla nasıl yol almanız gerektiğinden emin değilseniz, map setinizi karşıya yüklemeden *önce* [Aday Gösterme Denetleme Takımı](/wiki/People/The_Team/Nomination_Assessment_Team) veya [Küresel Moderasyon Takımı](/wiki/People/The_Team/Global_Moderation_Team) üyelerinin herhangi birine sorun!
+Eğer bu yönergeleri göz önünde bulundurarak parçanızla nasıl yol almanız gerektiğinden emin değilseniz, map setinizi karşıya yüklemeden *önce* [Aday Gösterme Denetleme Takımı](/wiki/People/Nomination_Assessment_Team) veya [Küresel Moderasyon Takımı](/wiki/People/Global_Moderation_Team) üyelerinin herhangi birine sorun!
 
 ## "Ciddi ölçüde politik" içerik olarak neler sınıflandırılabilir?
 
@@ -38,7 +38,7 @@ Biz politik spektrumun herhangi bir "uç noktasına" bağlı değiliz-osu! tamam
 
 Yasaklı parçaları içeren herhangi bir beatmap web sayfasından kaldırılır.
 
-Gönderinizin kaldırıldığı her seferde, kaldırılma gerekçesinin dayanağıyla birlikte kaldırmadan sorumlu [Aday Gösterme Denetleme Takımı](/wiki/People/The_Team/Nomination_Assessment_Team) veya [Küresel Moderasyon Takımı](/wiki/People/The_Team/Global_Moderation_Team) yönetici üyeleri tarafından size bir açıklama iletilecek.
+Gönderinizin kaldırıldığı her seferde, kaldırılma gerekçesinin dayanağıyla birlikte kaldırmadan sorumlu [Aday Gösterme Denetleme Takımı](/wiki/People/Nomination_Assessment_Team) veya [Küresel Moderasyon Takımı](/wiki/People/Global_Moderation_Team) yönetici üyeleri tarafından size bir açıklama iletilecek.
 
 İsterseniz bunu onlarla özel mesaj yoluyla tartışabilirsiniz, veya parçanın uygun olduğu iddianızı tasdik etmek için diğerlerinin görüşlerini edinebilirsiniz. Eğer halen daha bu cephede ortak bir zemin bulamıyorsanız, iddianız, parçanızın uygun olup olmadığına ortaklaşa bir karar verecek olan, şu anki NAT üyelerine bir fikir birliği oluşturulması için bildirilebilir.
 

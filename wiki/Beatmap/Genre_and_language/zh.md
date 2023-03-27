@@ -14,9 +14,9 @@ tags:
 
 ![谱面展示页上歌曲风格、语言、标签的一张截图](img/beatmap-info.png "歌曲风格与语言都在谱面展示页上列出。")
 
-在官网上发布的[谱面](/wiki/Beatmap)都拥有一块用于帮助分类歌曲，名为**歌曲风格**和**语言**的区域。它们也是谱面[元数据](/wiki/Beatmap_Editor/Song_Setup#歌曲信息设定与相关信息设定(song-and-map-meta-data))的一部分。
+在官网上发布的[谱面](/wiki/Beatmap)都拥有一块用于帮助分类歌曲，名为**歌曲风格**和**语言**的区域。它们也是谱面[元数据](/wiki/Client/Beatmap_editor/Song_Setup#歌曲信息设定与相关信息设定(song-and-map-meta-data))的一部分。
 
-除了能在新版客户端 (lazer 版)内用于搜索以外，歌曲风格与语言在客户端中没有任何实际功能。
+除了能在新版客户端 [(lazer 版)](/wiki/Client/Release_stream/Lazer)内用于搜索以外，歌曲风格与语言在客户端中没有任何实际功能。
 
 ## 谱面列表
 
@@ -26,14 +26,14 @@ tags:
 
 ## 修改
 
-谱面的歌曲风格与语言能通过在谱面详情处悬停光标，并点击铅笔按钮来修改。修改权限取决于玩家所在的[用户组](/wiki/People/The_Team#用户组)和[谱面状态](/wiki/Beatmap/Category#谱面类别)：
+谱面的歌曲风格与语言能通过在谱面详情处悬停光标，并点击铅笔按钮来修改。修改权限取决于玩家所在的[用户组](/wiki/People/osu!_team#用户组)和[谱面状态](/wiki/Beatmap/Category#现有分类)：
 
-- 谱师可以在谱面处于[制作中 (WIP)](/wiki/Beatmap/Category#work-in-progress-和-pending)、[待定 (Pending)](/wiki/Beatmap/Category#work-in-progress-和-pending)、[坟场 (Graveyard)](/wiki/Beatmap/Category#graveyard) 状态，且并没有被提名<!-- TODO: link -->时修改。
-- [谱面审核成员 (BN)](/wiki/People/The_Team/Beatmap_Nominators) 可以在谱面处于[过审 (Qualified)](/wiki/Beatmap/Category#qualified)、制作中 (WIP)、待定 (Pending) 状态时修改。
-- [社区喜爱计划团队 (LVD)](/wiki/People/The_Team/Project_Loved_Team) 成员可以在谱面处于[社区喜爱 (Loved)](/wiki/Beatmap/Category#loved) 状态时修改。
-- [审核评估团队 (NAT)](/wiki/People/The_Team/Nomination_Assessment_Team) 和[全局管理团队 (GMT)](/wiki/People/The_Team/Global_Moderation_Team) 成员能在谱面处于任何状态时修改。
+- 谱师可以在谱面处于[制作中 (WIP)](/wiki/Beatmap/Category#制作中和待定-(work-in-progress-and-pending))、[待定 (Pending)](/wiki/Beatmap/Category#制作中和待定-(work-in-progress-and-pending))、[坟场 (Graveyard)](/wiki/Beatmap/Category#坟场-(graveyard)) 状态，且并没有被[提名](/wiki/Beatmap_ranking_procedure#nominations)时修改。
+- [谱面审核成员 (BN)](/wiki/People/Beatmap_Nominators) 可以在谱面处于[过审 (Qualified)](/wiki/Beatmap/Category#过审-(qualified))、制作中 (WIP)、待定 (Pending) 状态时修改。
+- [社区喜爱计划团队 (LVD)](/wiki/People/Project_Loved_Team) 成员可以在谱面处于[社区喜爱 (Loved)](/wiki/Beatmap/Category#社区喜爱-(loved)) 状态时修改。
+- [审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) 和[全局管理团队 (GMT)](/wiki/People/Global_Moderation_Team) 成员能在谱面处于任何状态时修改。
 
-歌曲风格或语言标注为`未指定 (Unspecified)` 的谱面无法被提名<!-- TODO: link -->。
+歌曲风格或语言标注为`未指定 (Unspecified)` 的谱面无法被[提名](/wiki/Beatmap_ranking_procedure#nominations)。
 
 ## 歌曲风格列表
 

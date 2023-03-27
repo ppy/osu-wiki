@@ -198,8 +198,8 @@ Opsi tata letak pada osu!mania lebih lanjut dapat ditemukan di berkas [skin.ini]
 
 | Opsi | Tipe nilai | Deskripsi |
 | :-- | :-- | :-- |
-| `EditorGridSize` | Bilangan Bulat | Ukuran grid di [osu! pixels](/wiki/osupixel) |
-| `EditorGridSizeDesign` | Bilangan Bulat | Ukuran grid tab Design di [osu! pixels](/wiki/osupixel) |
+| `EditorGridSize` | Bilangan Bulat | Ukuran grid di [osu! pixels](/wiki/Client/Beatmap_editor/osu!_pixel) |
+| `EditorGridSizeDesign` | Bilangan Bulat | Ukuran grid tab Design di [osu! pixels](/wiki/Client/Beatmap_editor/osu!_pixel) |
 | `EditorDim` | 0 atau 1 | Mengaktifkan atau menonaktifkan opsi latar belakang akan diredupkan selama pengujian map |
 | `EditorGrid` | 0 atau 1 | Mengaktifkan atau menonaktifkan grid snap |
 | `EditorBeatDivisor` | Bilangan Bulat | Beat snap divisor terakhir yang digunakan |

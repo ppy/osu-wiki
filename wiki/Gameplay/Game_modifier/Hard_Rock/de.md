@@ -13,7 +13,7 @@ no_native_review: true
 
 ![HR Modysmbol](/wiki/shared/mods/HR.png "Hard Rock (HR) Modsymbol")
 
-*Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Game_modifier)*
+*Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Gameplay/Game_modifier)*
 
 ## Übersicht
 
@@ -29,7 +29,7 @@ no_native_review: true
 
 ## Beschreibung
 
-Die Mod **Hard Rock** ist eine [Spielmodifikation](/wiki/Game_modifier), die das Ziel hat, die Schwierigkeit anhand der meisten Aspekte einer [Beatmap](/wiki/Beatmap) zu erhöhen. Allgemein wird dies dadurch erreicht, dass die [Circle-Size (CS)](/wiki/Beatmap_Editor/Song_Setup#circle-size) um 30 %, die [Approach-Rate (AR)](/wiki/Beatmapping/Approach_rate) um 40 %, der [Gesundheitsverlust (HP)](/wiki/Beatmapping/Health_drain) um 40 % und die [allgemeine Schwierigkeit (OD)](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty) um 40 % angehoben werden, allerdings variieren die Einzelheiten für jeden Spielmodus.
+Die Mod **Hard Rock** ist eine [Spielmodifikation](/wiki/Gameplay/Game_modifier), die das Ziel hat, die Schwierigkeit anhand der meisten Aspekte einer [Beatmap](/wiki/Beatmap) zu erhöhen. Allgemein wird dies dadurch erreicht, dass die [Circle-Size (CS)](/wiki/Client/Beatmap_editor/Song_Setup#circle-size) um 30 %, die [Approach-Rate (AR)](/wiki/Beatmap/Approach_rate) um 40 %, der [Gesundheitsverlust (HP)](/wiki/Gameplay/Health) um 40 % und die [allgemeine Schwierigkeit (OD)](/wiki/Client/Beatmap_editor/Song_Setup#overall-difficulty) um 40 % angehoben werden, allerdings variieren die Einzelheiten für jeden Spielmodus.
 
 ### osu!
 
@@ -41,9 +41,9 @@ Wenn ein Spieler sich mit den Patterns einer Beatmap vertraut macht oder sie aus
 
 ### osu!taiko
 
-In [osu!taiko](/wiki/Game_mode/osu!taiko) erhöht die Mod Hard Rock die [Slider-Geschwindigkeit](/wiki/Hit_object/Slider_velocity) sowie die [allgemeine Schwierigkeit (OD)](/wiki/Beatmapping/Overall_difficulty). Diese Mod wird weithin als die am meist verwendete Mod in osu!taiko angesehen, da sie die einzige Mod zur Erhöhung der Schwierigkeit ist, die kein Auswendiglernen oder extrem schnelles Tippen auf höheren Schwierigkeitsstufen erfordert.
+In [osu!taiko](/wiki/Game_mode/osu!taiko) erhöht die Mod Hard Rock die [Slider-Geschwindigkeit](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) sowie die [allgemeine Schwierigkeit (OD)](/wiki/Beatmap/Overall_difficulty). Diese Mod wird weithin als die am meist verwendete Mod in osu!taiko angesehen, da sie die einzige Mod zur Erhöhung der Schwierigkeit ist, die kein Auswendiglernen oder extrem schnelles Tippen auf höheren Schwierigkeitsstufen erfordert.
 
-Die benötigte Trefferanzahl zum Abschließen eines Dendens ist durch die größere OD erhöht. Darum ist der maximal mögliche Score für osu!taiko-Schwierigkeitsgrade mit der Mod Hard Rock größer als bei Schwierigkeitsgraden mit der Mod [Hidden](/wiki/Game_modifier/Hidden).
+Die benötigte Trefferanzahl zum Abschließen eines Dendens ist durch die größere OD erhöht. Darum ist der maximal mögliche Score für osu!taiko-Schwierigkeitsgrade mit der Mod Hard Rock größer als bei Schwierigkeitsgraden mit der Mod [Hidden](/wiki/Gameplay/Game_modifier/Hidden).
 
 Jedoch ist dieser Effekt in den meisten Fällen unbedeutend, da jeder Treffer in einem Denden einen statischen Score von 300 vergibt. Das ist sogar weniger als eine typische Score-Differenz zwischen einem `GREAT`- und einem `GOOD`-Treffer (550 Punkte bei einer 100er Combo oder darüber).
 
@@ -61,14 +61,14 @@ Aufgrund des steilen Anstiegs der Schwierigkeit im Vergleich zu anderen [Spielmo
 
 In [osu!mania](/wiki/Game_mode/osu!mania) ist der HP-Drain um 40 % erhöht und die Timing-Fenster sind etwa 29 % kleiner. Obwohl der AR-Wert als erhöht angezeigt wird, beeinflusst es das Gameplay nicht.
 
-Um die Timing-Fenster zu berechnen, nachdem HR angewendet wurde, muss das [originale Timing-Fenster](/wiki/Beatmapping/Overall_difficulty) durch 1,4 geteilt werden. Das Timing-Fenster von Rainbow 300 (MAX) ist unabhängig von der OD festgelegt, was bedeutet, dass das Timing-Fenster eines MAX mit HR immer ±11,43 ms sein wird.
+Um die Timing-Fenster zu berechnen, nachdem HR angewendet wurde, muss das [originale Timing-Fenster](/wiki/Beatmap/Overall_difficulty) durch 1,4 geteilt werden. Das Timing-Fenster von Rainbow 300 (MAX) ist unabhängig von der OD festgelegt, was bedeutet, dass das Timing-Fenster eines MAX mit HR immer ±11,43 ms sein wird.
 
-Bedenke, dass sich die Berechnungsmethode in [ScoreV2](/wiki/Game_modifier/ScoreV2) unterscheidet.
+Bedenke, dass sich die Berechnungsmethode in [ScoreV2](/wiki/Gameplay/Game_modifier/ScoreV2) unterscheidet.
 
 ## Trivia
 
 - Die Mod Hard Rock ist nach der höchsten Schwierigkeitsstufe des Spiels "[Elite Beat Agents](/wiki/iNiS_games)" für den [Nintendo DS](https://de.wikipedia.org/wiki/Nintendo_DS) benannt.
-- Die Mod Hard Rock hebt die Mod [Easy](/wiki/Game_modifier/Easy) auf und umgekehrt.
+- Die Mod Hard Rock hebt die Mod [Easy](/wiki/Gameplay/Game_modifier/Easy) auf und umgekehrt.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

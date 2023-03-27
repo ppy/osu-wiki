@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 6b942793ddfc0faba6b2fb4cf6849e24fc0a3fc5
+---
+
 # Compression des fichiers
 
 Chaque beatmap a une limite de taille de fichier dictée par sa longueur totale. Ce guide vous aidera à ramener votre beatmap sous cette limite.

@@ -42,7 +42,7 @@ The following outlines how you can get started helping others on the forum:
 
 ## Help check/mod beatmaps!
 
-osu! has a dedicated team of reviewers, the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators), to check if submitted [beatmaps](/wiki/Beatmap) are ready to be ranked and played by everyone. However, that doesn't mean you cannot contribute to this sector:
+osu! has a dedicated team of reviewers, the [Beatmap Nominators](/wiki/People/Beatmap_Nominators), to check if submitted [beatmaps](/wiki/Beatmap) are ready to be ranked and played by everyone. However, that doesn't mean you cannot contribute to this sector:
 
 - Look through or search the [Pending Beatmaps](https://osu.ppy.sh/beatmapsets?s=pending) listing for any artists or songs you like and/or want to contribute to.
 - Play beatmaps in the [*Pending* or *Work-in-progress*](/wiki/Beatmap/Category#work-in-progress-and-pending) stages and leave feedback in the beatmap's discussion page.
@@ -69,7 +69,7 @@ Below are just a few of the ways you can contribute:
 
 ## Contribute to the future of osu!
 
-Started in 2017, the osu!(lazer) project is the current focus of [the osu! team](/wiki/People/The_Team), along with the new website, which is what you see today! If you would like to help make these projects even better and bring us closer to the future of osu!, there are a number of things you can do, but below are just a few examples:
+Started in 2017, the [osu!(lazer)](/wiki/Client/Release_stream/Lazer) project is the current focus of [the osu! team](/wiki/People/osu!_team), along with the new website, which is what you see today! If you would like to help make these projects even better and bring us closer to the future of osu!, there are a number of things you can do, but below are just a few examples:
 
 - Helping with the [osu!(lazer)](https://github.com/ppy/osu) project. There is so much to implement on the new version of osu!, and you can help make it happen!
 - Make the [website](https://github.com/ppy/osu-web) even better.

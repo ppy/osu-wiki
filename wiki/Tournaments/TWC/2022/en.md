@@ -9,7 +9,7 @@ tags:
 
 ![TWC 2022 logo](/wiki/shared/news/2022-02-10-osu-taiko-world-cup-2022-registrations-now-open/twc-2022-banner.jpg)
 
-The **osu!taiko World Cup 2022** (***TWC 2022***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It was the twelfth instalment of the osu!taiko World Cup.
+The **osu!taiko World Cup 2022** (***TWC 2022***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/osu!_team). It was the twelfth instalment of the osu!taiko World Cup.
 
 ## Tournament schedule
 
@@ -530,7 +530,7 @@ Qualifier results:
    - Captains are allowed to exclude themselves from the team list.
    - Captains are allowed to conduct and coordinate "tryouts", tests to gauge player aptitude, on their own terms.
    - Captains may choose, with the approval of the Tournament Management, at any time, to transfer their role to other prospective team members. Once given, only the new captain may assign the captaincy to another player.
-3. To ensure valid registrations, every prospective participant will be manually checked by the [account support team](/wiki/People/The_Team/Account_support_team), in a manner similar to the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) that is offered to community tournaments.
+3. To ensure valid registrations, every prospective participant will be manually checked by the [account support team](/wiki/People/Account_support_team), in a manner similar to the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) that is offered to community tournaments.
    - Every registered user will be assigned to their respective country's candidate list.
    - To be successfully accepted on the list, players are required to be placed #5000 or higher on the osu!taiko global ranking, and not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
 4. All successfully formed teams will be published after the Registration Phase.
@@ -541,7 +541,7 @@ Qualifier results:
 ### Qualifier instructions
 
 1. In the Qualifier stage, all teams will play a specific pool designed by the mappool selectors.
-2. The mappool will contain 5 brackets: [NoMod](/wiki/Game_modifier#nomod), [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock), [Double Time](/wiki/Game_modifier/Double_Time), and [FreeMod](/wiki/Game_modifier#freemod). There will be no tiebreakers for this stage.
+2. The mappool will contain 5 brackets: [NoMod](/wiki/Gameplay/Game_modifier#nomod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time), and [FreeMod](/wiki/Gameplay/Game_modifier#freemod). There will be no tiebreakers for this stage.
 3. The Qualifier pool will contain 10 maps. There will be 3 maps under the NoMod bracket, 2 maps for the Hidden, Hard Rock, and Double Time brackets, and 1 map for the FreeMod bracket.
 4. Teams will have to play the mappool twice at a designated time.
    - Teams may skip individual maps or the second run altogether if they so desire.
@@ -588,10 +588,10 @@ Qualifier results:
 ### Mappool instructions
 
 1. There will be 1 mappool for every stage of the tournament
-2. Each mappool consists of 5 brackets: [NoMod](/wiki/Game_modifier#nomod), [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock), [Double Time](/wiki/Game_modifier/Double_Time) and [FreeMod](/wiki/Game_modifier#freemod).
+2. Each mappool consists of 5 brackets: [NoMod](/wiki/Gameplay/Game_modifier#nomod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time) and [FreeMod](/wiki/Gameplay/Game_modifier#freemod).
 3. The Qualifiers Stage mappool will consist of 10 maps, Round of 32 and Round of 16 will consist of 14 maps, Quarterfinals and Semifinals will consist of 15 maps, and the Finals and Grand Finals mappools will consist of 16 maps.
 4. Every mappool, except for the Qualifier stage, will contain a tiebreaker beatmap. It will only be played in case of a tie in the scoreline in the best of system, e.g. the scoreline is 4-4 and the match is best of 9, the tiebreaker shall be played.
-5. The NoMod bracket will be played with the [No Fail](/wiki/Game_modifier/No_Fail) mod activated.
+5. The NoMod bracket will be played with the [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) mod activated.
 6. The Hidden, Hard Rock and Double Time brackets will be played with the respective mods activated along with the No Fail mod.
 7. The FreeMod bracket will have FreeMod activated, and the No Fail mod will be enforced. Each player may pick Hidden, Hard Rock or Hidden + Hard Rock.
    - When playing a FreeMod map, at least one player of each team must use a mod.
@@ -599,7 +599,7 @@ Qualifier results:
    - Players must select different mod combinations. Using only Hidden, Hard Rock, or Hidden + Hard Rock for both players at the same time is not allowed. No Fail will not be counted as a mod (e.g. two players using No Fail + Hidden and Hidden will be considered as using the same mod combination).
 8. The tiebreaker will be played with FreeMod activated, but will not follow the FreeMod bracket rules: players do not need to have a mod activated and are allowed to select the same mod combination. Both teams must select the No Fail mod.
 9. The size of the NoMod bracket will be 3 for the Qualifiers, 4 for the Round of 32 and Round of 16, 5 for the Quarterfinals and Semifinals, and 6 for the Finals and Grand Finals.
-10. The size of the [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock) and [Double Time](/wiki/Game_modifier/Double_Time) brackets will be 2 for all stages.
+10. The size of the [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock) and [Double Time](/wiki/Gameplay/Game_modifier/Double_Time) brackets will be 2 for all stages.
 11. The size of the FreeMod brackets will be 3 for all stages minus the Qualifiers, which will have 1 FreeMod map.
 
 ### Scheduling instructions
