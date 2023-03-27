@@ -24,7 +24,7 @@ tags:
 
 *See also: [Offset](/wiki/Offset)*
 
-In [mapping](/wiki/Beatmapping), a *timing point*, colloquially called an *offset*, is a way to apply common settings, such as [timing](/wiki/Beatmapping/Timing), [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) multiplier, or [hitsounds](/wiki/Beatmapping/Hitsound)' volume, to a whole section of the beatmap. In osu!, there are two types of timing points.
+In [mapping](/wiki/Beatmapping), a *timing point*, colloquially called an *offset*, is a way to apply common settings, such as [timing](/wiki/Beatmapping/Timing), [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) multipliers, or [hitsounds](/wiki/Beatmapping/Hitsound) and their respective volumes, to a specific section of a beatmap. In osu!, there are two types of timing points.
 
 ### Uninherited timing point
 
@@ -34,7 +34,7 @@ In [mapping](/wiki/Beatmapping), a *timing point*, colloquially called an *offse
 
 An **uninherited** timing point has its own timing settings. Several such points are used to describe timing changes in the song, such as [tempo](/wiki/Music_theory/Tempo) or beat irregularities, or different size of the [time signature](/wiki/Music_theory/Time_signature). Adding a new uninherited timing point resets the metronome, and makes it count beats from the timing point's offset, specified in milliseconds.
 
-Uninherited timing points have red colour on the bottom timeline and in the [timing setup panel](#timing-setup-panel). Due to this, they are often called "red offsets", or "red lines".
+Uninherited timing points have red colour on the bottom timeline and in the [timing setup panel](#timing-setup-panel). Due to this, they are often called "red offsets" or "red lines".
 
 ### Inherited timing point
 
@@ -44,7 +44,7 @@ Uninherited timing points have red colour on the bottom timeline and in the [tim
 
 An **inherited** timing point uses currently active timing settings, *inheriting* them from the previous timing point. Inherited timing points are used for the following purposes:
 
-- Changing [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) on a certain section of the beatmap
+- Changing [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity)
 - Controlling the volume of [hitsounds](/wiki/Beatmapping/Hitsound)
 - Switching between active hitsounds' [samplesets](/wiki/Beatmapping/Sampleset)
 - Enabling or disabling [kiai time](/wiki/Gameplay/Kiai_time)
@@ -77,9 +77,9 @@ To quickly make larger or smaller changes, use the below modifiers:
 
 ![](img/metronome.png "The osu! metronome from the timing tab")
 
-The metronome, which is located in the upper right corner of the timing tab, helps quickly find approximate timing settings. The initial BPM and offset values of the song can be found by repeatedly tapping `T`, or clicking the `Tap Here!` button, while following the song's rhythm.
+The metronome, which is located in the upper right corner of the timing tab, helps to quickly find approximate timing settings. The initial BPM and offset values of the song can be found by repeatedly tapping `T`, or clicking the `Tap Here!` button whilst following the song's rhythm.
 
-The visual part of the metronome is tailored to the most popular [time signature](/wiki/Music_theory/Time_signature), 4/4. The first section denotes the [downbeat](/wiki/Music_theory/Downbeat) and flashes green, while remaining sections flash white to every beat of the song's [measures](/wiki/Music_theory/Measure). Uncommon signatures, such as 7/4, add extra flashes, but the size of the metronome doesn't change.
+The visual part of the metronome is tailored to the most common [time signature](/wiki/Music_theory/Time_signature), 4/4. The first section denotes the [downbeat](/wiki/Music_theory/Downbeat) and flashes green, while remaining sections flash white to every beat of the song's [measures](/wiki/Music_theory/Measure). Uncommon signatures, such as 7/4, add extra flashes, but the size of the metronome doesn't change.
 
 ## Timing setup panel
 
