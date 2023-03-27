@@ -6,10 +6,10 @@ tags:
 
 # Difficulty spread
 
-A **difficulty spread** is a set of [difficulties](/wiki/Beatmap/Difficulty) sorted by [star rating](/wiki/Beatmap/Star_rating) in ascending order, such that:
+A **difficulty spread** is a set of [difficulties](/wiki/Beatmap/Difficulty) in a [beatmap](/wiki/Beatmap) within some range of [star rating](/wiki/Beatmap/Star_rating) values.
 
-- There are no missing [difficulty levels](/wiki/Beatmap/Difficulty#difficulty-levels) — every required difficulty between the easiest and the hardest ones from the spread's range is present.
-  - Difficulties lower than the lowest difficulty level required, as determined by [spread rules](/wiki/Ranking_Criteria#rules.1), can be considered as optional and excluded from spread requirements.
-- There are no significant difficulty gaps between two adjacent difficulties.
+[Ranked](/wiki/Beatmap/Category#ranked) beatmaps have several requirements regarding difficulty spreads as per the [ranking criteria](/wiki/Ranking_Criteria):
 
-The difficulty spread is a [ranking criteria](/wiki/Ranking_Criteria) requirement.
+- All required [difficulty levels](/wiki/Beatmap/Difficulty#difficulty-levels) within the spread's range must be present.
+- Difficulties lower than the lowest difficulty level required, as determined by the [spread rules](/wiki/Ranking_Criteria#rules.1), are optional.
+- No two adjacent beatmap difficulties may have a significant gap in difficulty.
