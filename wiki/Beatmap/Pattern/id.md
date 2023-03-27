@@ -24,4 +24,3 @@ tags:
 - [Anchor](osu!mania/Anchor)
 - [Trill](osu!mania/Trill)
 - [Hold note](osu!mania/Hold_note)
-
