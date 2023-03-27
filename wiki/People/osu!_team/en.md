@@ -19,6 +19,7 @@ The people listed below are the core of the **osu! team** and are chiefly respon
 | ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251) | World Cup organiser and administrator |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) | Project and community maintainer, Featured Artist outreach |
 | ::{ flag=JP }:: [flyte](https://osu.ppy.sh/users/3103765) | Design lead, resident Creative Cloud watcher |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Modding and mapping scene advisor |
 | ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) | World Cup organiser and administrator |
 | ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) | Tournament support, Featured Artist outreach |
 | ::{ flag=JP }:: [nanaya](https://osu.ppy.sh/users/2387883) | osu!web developer |
@@ -27,12 +28,12 @@ The people listed below are the core of the **osu! team** and are chiefly respon
 | ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) | osu!web developer, [official osu! Featured Artist](https://osu.ppy.sh/beatmaps/artists/1) |
 | ::{ flag=JP }:: [notbakaneko](https://osu.ppy.sh/users/10751776) | osu!web developer |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | Modding and mapping scene advisor, Mappers' Guild organiser, Featured Artist outreach |
+| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | Modding and mapping scene advisor |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | General housekeeper, wiki maintainer |
 | ::{ flag=FR }:: [Shiro](https://osu.ppy.sh/users/113005) | General housekeeper |
 | ::{ flag=AU }:: [smoogipoo](https://osu.ppy.sh/users/1040328) | osu! developer, osu!mania lover, bug buster |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | General housekeeper, tournament assistant |
 | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | Moderation and community advisor |
-| ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) | Modding and mapping scene advisor |
 | ::{ flag=AU }:: [Zallius](https://osu.ppy.sh/users/55) | Endangered species |
 
 In addition to the above, the [account support team](/wiki/People/Account_support_team) is there to help with what is beyond the reach.
@@ -66,6 +67,7 @@ In addition to the above, the [account support team](/wiki/People/Account_suppor
 | ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | Early community manager and leader, meeting minutes and FAQ contributor |
 | ::{ flag=DE }:: [Tom94](https://osu.ppy.sh/users/1857058) | osu! and pp developer |
 | ::{ flag=US }:: [Toy](https://osu.ppy.sh/users/2757689) | Project Loved manager, community advisor, Featured Artist outreach |
+| ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) | Modding and mapping scene advisor |
 | ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | General housekeeper, World Cup organiser and administrator, wiki maintainer |
 | ::{ flag=CN }:: [woc2006](https://osu.ppy.sh/users/1105845) | osu! developer, osu!mania mode developer |
 | ::{ flag=JP }:: [yelle](https://osu.ppy.sh/users/4916903) | [osu!store](https://osu.ppy.sh/store/listing) manager |

@@ -31,7 +31,7 @@ The following content is separated into sections, indicated by section titles in
 | `PreviewTime` | Integer | Time in milliseconds when the audio preview should start | -1 |
 | `Countdown` | Integer | Speed of the countdown before the first hit object (`0` = no countdown, `1` = normal, `2` = half, `3` = double) | 1 |
 | `SampleSet` | String | Sample set that will be used if timing points do not override it (`Normal`, `Soft`, `Drum`) | Normal |
-| `StackLeniency` | Decimal | Multiplier for the threshold in time where hit objects placed close together stack (0–1) | 0.7 |
+| `StackLeniency` | Decimal | [Multiplier](/wiki/Beatmap/Stack_leniency) for the threshold in time where hit objects placed close together stack (0–1) | 0.7 |
 | `Mode` | Integer | Game mode (`0` = osu!, `1` = osu!taiko, `2` = osu!catch, `3` = osu!mania) | 0 |
 | `LetterboxInBreaks` | 0 or 1 | Whether or not breaks have a letterboxing effect | 0 |
 | `StoryFireInFront` | 0 or 1 | *Deprecated* | 1 |

@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: e9c9c6b6ff34b7c576172aa7df5ca581d6d7d632
+---
+
 # Fenêtre Song Setup
 
 Song Setup est la quatrième section de [l'éditeur de beatmap](/wiki/Client/Beatmap_editor). Elle contient les métadonnées et les paramètres généraux de configuration de la beatmap.
@@ -241,10 +246,6 @@ Vous pouvez toutefois inclure les éléments du skin dans le dossier de la beatm
 ![Capture d'écran de l'onglet Advanced](img/SS_Advanced.jpg "Onglet Advanced")
 
 ### Stacking
-
-![L'empilement des objets lors de l'édition peut les faire se chevaucher et se retrouver les uns sur les autres.](img/stacking-editor.jpg "Empiler les objets pendant l'édition")
-
-![Cependant, pendant la partie, le jeu les inclinera pour le joueur.](img/stacking-playtest.jpg "Objets empilés frappés pendant le jeu")
 
 Dans osu!, les objets s'empilent automatiquement s'ils sont placés au même endroit tout en étant proches dans le temps. Ceci afin d'aider les joueurs à voir les objets qui se chevauchent.
 

@@ -22,7 +22,7 @@ Puoi premere `F8` o cliccare il pulsante `Show Chat` situato in basso a destra p
 - Clicca su `Auto-Hide` per nascondere automaticamente la chat console mentre giochi (escludendo le intro, le outro e le pause della beatmap).
 - Clicca su `Hide Chat` o premi di nuovo F8 per nascondere la chat console.
 
-## Chat Console estes
+## Chat Console estesa
 
 *La [osu!academy](/wiki/Community/Video_series/osu!academy) ha trattato questo argomento ne [Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII), assieme al [Multiplayer](/wiki/Client/Interface/Multiplayer).*
 

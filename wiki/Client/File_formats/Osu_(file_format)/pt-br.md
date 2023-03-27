@@ -34,7 +34,7 @@ O conteúdo seguinte é separado em seções, indicadas por títulos em colchete
 | `PreviewTime` | Inteiro | Tempo em milissegundos quando o áudio deve iniciar | -1 |
 | `Countdown` | Inteiro | Velocidade da contagem antes do primeiro hit object (`0` = sem contagem, `1` = normal, `2` = metade, `3` = dobro) | 1 |
 | `SampleSet` | String | Sample set que será utilizado se os timing points não o substituirem (`Normal`, `Soft`, `Drum`) | Normal |
-| `StackLeniency` | Decimal | Multiplicador para o limite no tempo em que os hit objects colocados juntos empilham (0-1) | 0.7 |
+| `StackLeniency` | Decimal | [Multiplicador](/wiki/Beatmap/Stack_leniency) para o limite no tempo em que os hit objects colocados juntos empilham (0-1) | 0.7 |
 | `Mode` | Inteiro | Modo de jogo (`0` = osu!, `1` = osu!taiko, `2` = osu!catch, `3` = osu!mania) | 0 |
 | `LetterboxInBreaks` | 0 ou 1 | Se breaks terão um efeito letterbox | 0 |
 | `StoryFireInFront` | 0 ou 1 | *Descontinuado* | 1 |
