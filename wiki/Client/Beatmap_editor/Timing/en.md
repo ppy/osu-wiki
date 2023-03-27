@@ -29,7 +29,7 @@ In [mapping](/wiki/Beatmapping), a *timing point*, colloquially called an *offse
 ### Uninherited timing point
 
 ::: Infobox
-![](img/uninherited-offsets.png "Several uninherited timing points located in the timing setup panel")
+![](img/uninherited-points.png "Several uninherited timing points located in the timing setup panel")
 :::
 
 An **uninherited** timing point has its own timing settings. Several such points are used to describe timing changes in the song, such as [tempo](/wiki/Music_theory/Tempo) or beat irregularities, or different size of the [time signature](/wiki/Music_theory/Time_signature). Adding a new uninherited timing point resets the metronome, and makes it count beats from the timing point's offset, specified in milliseconds.
@@ -39,10 +39,10 @@ Uninherited timing points have red colour on the bottom timeline and in the [tim
 ### Inherited timing point
 
 ::: Infobox
-![](img/inherited-offsets.png "Several inherited timing points with different slider velocity multiplier, volume, and kiai settings")
+![](img/inherited-points.png "Several inherited timing points with different slider velocity multiplier, volume, and kiai settings")
 :::
 
-An **inherited** offset uses currently active timing settings, *inheriting* them from the previous timing point. Inherited timing points are used for the following purposes:
+An **inherited** timing point uses currently active timing settings, *inheriting* them from the previous timing point. Inherited timing points are used for the following purposes:
 
 - Changing [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) on a certain section of the beatmap
 - Controlling the volume of [hitsounds](/wiki/Beatmapping/Hitsound)
