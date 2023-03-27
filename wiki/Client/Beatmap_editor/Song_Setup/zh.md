@@ -1,14 +1,12 @@
----
-outdated_translation: true
----
+# 歌曲设置 (Song setup) 窗口
 
-# Song Setup
+歌曲设置是[谱面编辑器](/wiki/Client/Beatmap_editor)中的第四部分。它包含了元数据与谱面基本配置项的设置。
 
-歌曲设置是制图中很重要的一个界面，它包含了制作规范谱面的诸多重要信息的设定。
+## 基本设定 (General)
 
-## 基本设定(General)
+### 歌曲与谱面元数据设定 (Song and Map Metadata)
 
-### 歌曲信息设定与相关信息设定(Song and Map Meta Data)
+*另见： [\[Guide\] Metadata](https://osu.ppy.sh/community/forums/topics/249288 "osu! 论坛")*
 
 ![完整的元数据样例](img/SS_General.jpg "完整的元数据样例")
 
