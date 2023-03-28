@@ -1,8 +1,6 @@
 ---
 tags:
   - development
-outdated_translation: true
-outdated_since: 7ca332517b46ef83f80a09c1b9082b437bacd39a
 ---
 
 # Server Discord osu!dev
@@ -11,9 +9,7 @@ outdated_since: 7ca332517b46ef83f80a09c1b9082b437bacd39a
 
 Tautan undangan permanen untuk masuk ke dalam server bisa diakses dengan <https://discord.gg/ppy>.
 
-## Tahap verifikasi
-
-Anggota baru dalam server tidak dapat secara langsung mengirim pesan. Jika mereka ingin mendapat akses untuk mengirim pesan, mereka dapat memposting di *channel* `#arrival` disertai dengan maksud dan tujuan memasuki server dan salah satu anggota tim inti osu! akan memberi hak akses dan mengangkat keterbatasan kamu dan akhirnya kamu dapat mengirim pesan.
+Walaupun tidak diwajibkan, para anggota yang baru masuk dapat memperkenalkan dirinya masing-masing pada saluran `#introductions` yang tersedia.
 
 ## Proyek
 
