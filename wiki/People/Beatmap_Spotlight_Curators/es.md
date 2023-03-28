@@ -6,7 +6,7 @@ tags:
 
 # Beatmap Spotlight Curators
 
-**Beatmap Spotlight Curators** (***BSC***) es un grupo que ayuda a seleccionar mapas de alta calidad para cada temporada de [Beatmaps Destacados](/wiki/Beatmap_Spotlights).
+**Beatmap Spotlight Curators** (***BSC***) es un grupo que ayuda a seleccionar mapas de alta calidad para cada temporada de [Beatmap Spotlights](/wiki/Beatmap_Spotlights).
 
 ## Convertirse en curador
 
@@ -18,7 +18,7 @@ Todos los solicitantes son evaluados en función de su competencia como jugador,
 
 ## Curadores
 
-El proyecto Beatmaps Destacados está a cargo de varios miembros de la comunidad en todos los modos de juego, dirigidos por un líder de proyecto dedicado. La [página del grupo Beatmap Spotlight Curators](https://osu.ppy.sh/groups/48) enumera a todos los miembros.
+El proyecto Beatmap Spotlights está a cargo de varios miembros de la comunidad en todos los modos de juego, dirigidos por un líder de proyecto dedicado. La [página del grupo Beatmap Spotlight Curators](https://osu.ppy.sh/groups/48) enumera a todos los miembros.
 
 | Rol | Miembros |
 | :-- | :-- |

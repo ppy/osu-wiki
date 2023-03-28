@@ -205,7 +205,7 @@ Las notas de navegación deben estar en cursiva y colocarse inmediatamente despu
 
 ### Página principal
 
-Las notas de navegación *Página principal* dirigen al lector al artículo principal de un tema. Cuando se utiliza esta nota de navegación, implica que la sección en la que se encuentra es un resumen de lo que trata la página enlazada. Esta nota de navegación sólo debe tener un enlace. Deben tener el siguiente formato:
+Las notas de navegación *Página principal* dirigen al lector al artículo principal de un tema. Cuando se utiliza esta nota de navegación, implica que la sección en la que se encuentra es un resumen de lo que trata la página enlazada. Esta nota de navegación solo debe tener un enlace. Deben tener el siguiente formato:
 
 ```markdown
 *Página principal: {artículo}*
@@ -245,7 +245,7 @@ Las notas de navegación *No debe confundirse con* ayudan a distinguir títulos 
 
 ### Para otros usos
 
-Las notas de navegación *Para otros usos* son similares a las notas de navegación *No debe confundirse con*, pero enlazan directamente con el [artículo de desambiguación](#artículos-de-desambiguación). Esta nota de navegación sólo debe enlazar con el artículo de desambiguación. Deben tener el siguiente formato:
+Las notas de navegación *Para otros usos* son similares a las notas de navegación *No debe confundirse con*, pero enlazan directamente con el [artículo de desambiguación](#artículos-de-desambiguación). Esta nota de navegación solo debe enlazar con el artículo de desambiguación. Deben tener el siguiente formato:
 
 ```markdown
 *Para otros usos, véase {artículo de desambiguación}.*

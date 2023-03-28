@@ -2,7 +2,7 @@
 
 # How you can help!
 
-osu! has a very vibrant community composed of people from all around the world. And anyone can be a part of the community in their own way! 
+osu! has a very vibrant community composed of people from all around the world. And anyone can be a part of the community in their own way!
 
 Below are just a few of the ways you can help out in the community:
 
@@ -14,7 +14,7 @@ If you are a newcomer to the osu! wiki, you can read more about it in the [osu! 
 
 ## Help keep osu! friendly and safe
 
-In order to keep the official community hubs safe, osu! has a dedicated moderation team that monitors the forums and online chats around-the-clock. 
+In order to keep the official community hubs safe, osu! has a dedicated moderation team that monitors the forums and online chats around-the-clock.
 
 Fortunately, it is still easy for you to help keep everything safe here. The following are just a few of the many ways you can help:
 

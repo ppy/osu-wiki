@@ -1,5 +1,4 @@
 ---
-no_native_review: true
 tags:
   - BN
   - BNG
@@ -7,7 +6,7 @@ tags:
 
 # Beatmap Nominators
 
-*Véase también: [Reglas de los Beatmap Nominators](Rules), [Expectativas para los Beatmap Nominators](Expectations), [Información general para los Beatmap Nominators](General_Information), y [Convertirse en Beatmap Nominator](Becoming_a_Beatmap_Nominator)*
+*Véase también: [Reglas para los Beatmap Nominators](Rules), [Expectativas para los Beatmap Nominators](Expectations), [Información general para los Beatmap Nominators](General_Information), y [Convertirse en Beatmap Nominator](Becoming_a_Beatmap_Nominator)*
 
 Los **Beatmap Nominators** (***BN***) son un grupo a cargo de [nominar beatmaps](/wiki/Beatmap_ranking_procedure). Ellos tienen un nombre morado en los foros y en las [discusiones de beatmaps](/wiki/Beatmap_discussion).
 
@@ -29,9 +28,9 @@ Los Beatmap Nominators completos que presenten una actividad menor a la mínima 
 
 ## Beatmap Nominators provisionales
 
-La provisión es usada para monitorizar nuevos o relativos Beatmap Nominators más de cerca. El rol principal para los Beatmap Nominators provisionales es de establecer una fundación como Beatmap Nominator a exclusivamente a través de promover beatmaps en el proceso de clasificación. Por lo menos un nominador completo debe de estar envuelto en el proceso de clasificación para cada beatmap, así los miembros provisionales no pueden dar la nominación final a un beatmap que solo ha recibido nominaciones de otros miembros provisionales para su modo de juego.
+La provisión es usada para monitorizar nuevos o relativos Beatmap Nominators más de cerca. El rol principal para Beatmap Nominators provisionales es de establecer una fundación como Beatmap Nominator a exclusivamente a través de promover beatmaps en el proceso de clasificación. Por lo menos un nominador completo debe de estar envuelto en el proceso de clasificación para cada beatmap, así los miembros provisionales no pueden dar la nominación final a un beatmap que solo ha recibido nominaciones de otros miembros provisionales para su modo de juego.
 
-Los nuevos miembros de los Beatmap Nominators empiezan con un periodo largo de prueba de un mes. Si su conducta y nominaciones son satisfactorias, serán promovidos a los Beatmap Nominators completos después de una [evaluación](/wiki/People/Nomination_Assessment_Team/Evaluations) positiva. De otra manera, seguirán en el periodo de prueba por otro mes o serán removidos de los Beatmap Nominators.
+Los nuevos miembros de los Beatmap Nominators empiezan con un periodo largo de prueba de un mes. Si su conducta y nominaciones son satisfactorias, serán promovidos a Beatmap Nominators completos después de una [evaluación](/wiki/People/Nomination_Assessment_Team/Evaluations) positiva. De otra manera, seguirán en el periodo de prueba por otro mes o serán removidos de los Beatmap Nominators.
 
 Cuando un Beatmap Nominator es puesto a prueba, no puede ser puesto a prueba de nuevo por la misma razón durante aproximadamente un año. Por ejemplo, si un Beatmap Nominator es puesto a prueba por mal comportamiento, será eliminado de los Beatmap Nominators si vuelve a mostrar el mismo mal comportamiento recientemente, incluso si es un Beatmap Nominator completo durante la segunda infracción.
 
@@ -39,7 +38,7 @@ Cuando un Beatmap Nominator es puesto a prueba, no puede ser puesto a prueba de 
 
 Las páginas [Beatmap Nominators](https://osu.ppy.sh/groups/28) y [Beatmap Nominators (Probationary)](https://osu.ppy.sh/groups/32) listan a todos los miembros del equipo.
 
-Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatmap Nominator es formalmente calificado para nominar. *Nota: Todos los Beatmap Nominator hablan Inglés en adición al(a los) idioma(s) listado(s) debajo a menos que se especifique otra cosa.*
+Las tablas a continuación indican los modos de juego en donde cada Beatmap Nominator es formalmente calificado para nominar. *Nota: Todos los Beatmap Nominator hablan inglés en adición a los idiomas listados debajo a menos que se especifique otra cosa.*
 
 ### Beatmap Nominators completos
 

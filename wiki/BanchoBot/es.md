@@ -14,7 +14,7 @@ tags:
 
 ![Tarjeta de jugador de BanchoBot](img/BanchoBot.jpg "Tarjeta de jugador de BanchoBot")
 
-BanchoBot (algunas veces llamado *Bancho*) es un bot de chat online creado para osu! que ayuda a la gente en el chat mostrando determinada información (por ejemplo, jugadas totales, reintentos, etc.), y respondiendo a ciertos comandos. Fue programado por ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) y es el proveedor del [Bancho IRC](/wiki/Community/Internet_Relay_Chat) (Internet Relay Chat). 
+BanchoBot (algunas veces llamado *Bancho*) es un bot de chat online creado para osu! que ayuda a la gente en el chat mostrando determinada información (por ejemplo, jugadas totales, reintentos, etc.), y respondiendo a ciertos comandos. Fue programado por ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) y es el proveedor del [Bancho IRC](/wiki/Community/Internet_Relay_Chat) (Internet Relay Chat).
 
 BanchoBot también tiene su propio [perfil de osu!](https://osu.ppy.sh/users/3) y [cuenta de Twitter](https://twitter.com/banchoboat).
 
@@ -152,5 +152,5 @@ Hay un total de 7 estados que se pueden mostrar con el comando `!stats`: Editing
 
 ## Trivia
 
-- La página de usuario de BanchoBot contiene "Aquí desde el comienzo" abajo de su fecha de registro
+- La página de usuario de BanchoBot contiene «Aquí desde el comienzo» abajo de su fecha de registro
   - La fecha oficial de registro de BanchoBot es 22:09:14 UTC-5, 27 de Agosto de 2007
