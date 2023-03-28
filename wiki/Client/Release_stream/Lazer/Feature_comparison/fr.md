@@ -308,7 +308,7 @@ Son fonctionnement est similaire à celui de ScoreV2 dans stable.
 | Modifié intentionnellement | Oui |
 | Nécessité d'une réflexion plus approfondie | Non |
 
-#### Les ticks des hold notes donnent le score et peuvent causer des combo breaks.
+#### Les ticks des hold notes donnent le score et peuvent causer des combo breaks
 
 Sur stable, le fait de relâcher pendant le corps d'une hold note cassait immédiatement le combo, mais maintenant il ne se casse que si l'on manque un tick de la hold note.
 
@@ -400,7 +400,7 @@ Cette implémentation est prévu, mais aucun travail n'a encore été entamé à
 
 #### L'éditeur de storyboard n'est pas implémenté
 
-Il existe des [designs] (https://www.figma.com/file/ytnnne2TH8Z956Jxhiypqq/Beatmap-Editor-2) pour un futur éditeur de storyboard intégré similaire à celui de la version stable, mais aucun travail n'a encore été entamé à ce sujet.
+Il existe des [designs](https://www.figma.com/file/ytnnne2TH8Z956Jxhiypqq/Beatmap-Editor-2) pour un futur éditeur de storyboard intégré similaire à celui de la version stable, mais aucun travail n'a encore été entamé à ce sujet.
 
 #### Le système de trigger n'est pas implémenté
 
