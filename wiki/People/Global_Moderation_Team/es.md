@@ -108,7 +108,9 @@ La [página del grupo Global Moderation Team](https://osu.ppy.sh/groups/4) enume
 | ::{ flag=GB }:: [Pope Gadget](https://osu.ppy.sh/users/2288341) |  | Moderación de la comunidad de mapping/modding |
 | ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) |  | Moderación de la comunidad de mapping/modding |
 | ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) | Malayo | Moderación del chat |
+| ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) |  | Moderación del foro |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | Español | Moderación del chat |
+| ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) |  | Moderación del foro |
 | ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | Alemán | Moderación del foro |
 | ::{ flag=KR }:: [ruexia](https://osu.ppy.sh/users/385069) | Coreano | Moderación del chat |
 | ::{ flag=JP }:: [S o h](https://osu.ppy.sh/users/2234772) | Japonés | Moderación del chat |
@@ -122,9 +124,9 @@ La [página del grupo Global Moderation Team](https://osu.ppy.sh/groups/4) enume
 | ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927) | Filipino | Moderación del chat |
 | ::{ flag=TH }:: [Trigonoculus](https://osu.ppy.sh/users/7627013) | Tailandés | Moderación del chat |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Español | Soporte técnico |
-| ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | Polaco | Moderación del chat |
+| ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | Polaco | Moderación del chat, moderación de la comunidad de mapping/modding |
 | ::{ flag=PL }:: [Yason](https://osu.ppy.sh/users/2574392) | Polaco | Moderación del chat |
-| ::{ flag=HM }:: [Zallius](https://osu.ppy.sh/users/55) |  | Moderación del chat |
+| ::{ flag=HM }:: [Zallius](https://osu.ppy.sh/users/55) | | Chat moderation |
 
 ### Agrupados por idiomas moderados
 

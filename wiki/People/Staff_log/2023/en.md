@@ -65,8 +65,8 @@ Abbreviations for user groups are used throughout this log:
 ## February
 
 - 2023-02-02: Added [Blushing](https://osu.ppy.sh/users/5927823) to **Project Loved Team**
-- 2023-02-08: Moved [Dada](https://osu.ppy.sh/users/9119507) from **BN** to **NAT**
-- 2023-02-08: Moved [Yogurtt](https://osu.ppy.sh/users/2649717) from **BN** to **NAT**
+- 2023-02-08: Added [Dada](https://osu.ppy.sh/users/9119507) to **NAT**
+- 2023-02-08: Added [Yogurtt](https://osu.ppy.sh/users/2649717) to **NAT**
 - 2023-02-09: Removed [DeviousPanda](https://osu.ppy.sh/users/4966334) from **Project Loved Team**
 - 2023-02-19: Added [Civil oath](https://osu.ppy.sh/users/3216107) to **Project Loved Team**
 - 2023-02-21: Added [Phob](https://osu.ppy.sh/users/6069462) to **Beatmap Spotlight Curators**
@@ -135,6 +135,10 @@ Abbreviations for user groups are used throughout this log:
 - 2023-03-12: Added [Kingling](https://osu.ppy.sh/users/7010761) to **Project Loved Team**
 - 2023-03-12: Added [Aistre](https://osu.ppy.sh/users/4879380) to **Project Loved Team**
 - 2023-03-16: Moved [Faputa](https://osu.ppy.sh/users/845733) from **NAT** to **osu! Alumni**
+- 2023-03-18: Added [Ideal](https://osu.ppy.sh/users/3869519) to **NAT**
+- 2023-03-20: Removed [Irisu](https://osu.ppy.sh/users/8595858) from **Project Loved Team**
+- 2023-03-27: Added [Roan](https://osu.ppy.sh/users/8214639) to **GMT**
+- 2023-03-27: Added [Redo_](https://osu.ppy.sh/users/7122165) to **GMT**
 
 ### Beatmap Nominators
 
@@ -149,6 +153,11 @@ Abbreviations for user groups are used throughout this log:
 - 2023-03-14: Added [Tailsdk](https://osu.ppy.sh/users/6751666) to **Probationary BN**
 - 2023-03-14: Added [HEAVENLY MOON](https://osu.ppy.sh/users/13681283) to **BN**
 - 2023-03-16: Added [Faputa](https://osu.ppy.sh/users/845733) to **BN**
+- 2023-03-18: Added [fuhie](https://osu.ppy.sh/users/7620002) to **BN**
+- 2023-03-19: Added [Iceluin](https://osu.ppy.sh/users/3558897) to **BN**
+- 2023-03-19: Added [-Aqua](https://osu.ppy.sh/users/7150015) to **BN**
+- 2023-03-21: Added [Shad0wStar](https://osu.ppy.sh/users/16866460) to **Probationary BN**
+- 2023-03-27: Added [Alicenometry](https://osu.ppy.sh/users/29978316) to **Probationary BN**
 
 #### Moves
 
@@ -156,6 +165,9 @@ Abbreviations for user groups are used throughout this log:
 - 2023-03-10: Moved [Creamy Candy](https://osu.ppy.sh/users/9769199) from **Probationary BN** to **BN**
 - 2023-03-11: Moved [Sotarks](https://osu.ppy.sh/users/4452992) from **BN** to **Probationary BN**
 - 2023-03-14: Moved [AWMRone](https://osu.ppy.sh/users/10351684) from **Probationary BN** to **BN**
+- 2023-03-22: Moved [Enneya](https://osu.ppy.sh/users/10959501) from **Probationary BN** to **BN**
+- 2023-03-22: Moved [maxie](https://osu.ppy.sh/users/6447505) from **Probationary BN** to **BN**
+- 2023-03-24: Moved [-Rei](https://osu.ppy.sh/users/8200707) from **Probationary BN** to **BN**
 
 #### Removals
 
@@ -168,6 +180,9 @@ Abbreviations for user groups are used throughout this log:
 - 2023-03-09: Removed [Morrighan](https://osu.ppy.sh/users/12042090) from **BN**
 - 2023-03-10: Removed [riffy](https://osu.ppy.sh/users/597957) from **Probationary BN**
 - 2023-03-17: Removed [davidminh0111](https://osu.ppy.sh/users/9623142) from **BN**
+- 2023-03-18: Removed [Ideal](https://osu.ppy.sh/users/3869519) from **BN**
+- 2023-03-19: Removed [Lumenite-](https://osu.ppy.sh/users/6256027) from **BN**
+
 
 <!-- last updated with davidminh0111 removed from BN 17/03/2023 23:52 UTC>
 

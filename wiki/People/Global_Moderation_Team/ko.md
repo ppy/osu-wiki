@@ -72,7 +72,9 @@ Global Moderation Team은 채팅 채널과 포럼의 쾌적한 운용을 책임�
 | ::{ flag=GB }:: [Pope Gadget](https://osu.ppy.sh/users/2288341) |  | 매핑/모딩 커뮤니티 관리 |
 | ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) |  | 매핑/모딩 커뮤니티 관리 |
 | ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) | 말레이어 | 채팅 관리 |
+| ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) |  | 포럼 관리 |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | 스페인어 | 채팅 관리 |
+| ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) |  | 포럼 관리 |
 | ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | 독일어 | 포럼 관리 |
 | ::{ flag=KR }:: [ruexia](https://osu.ppy.sh/users/385069) | 한국어 | 채팅 관리 |
 | ::{ flag=JP }:: [S o h](https://osu.ppy.sh/users/2234772) | 일본어 | 채팅 관리 |
@@ -86,9 +88,9 @@ Global Moderation Team은 채팅 채널과 포럼의 쾌적한 운용을 책임�
 | ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927) | 필리핀어 | 채팅 관리 |
 | ::{ flag=TH }:: [Trigonoculus](https://osu.ppy.sh/users/7627013) | 태국어 | 채팅 관리 |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | 스페인어 | 기술 지원 |
-| ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | 폴란드어 | 채팅 관리 |
+| ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | 폴란드어 | 채팅 관리, 매핑/모딩 커뮤니티 관리 |
 | ::{ flag=PL }:: [Yason](https://osu.ppy.sh/users/2574392) | 폴란드어 | 채팅 관리 |
-| ::{ flag=HM }:: [Zallius](https://osu.ppy.sh/users/55) |  | 채팅 관리 |
+| ::{ flag=HM }:: [Zallius](https://osu.ppy.sh/users/55) | | Chat moderation |
 
 ### 언어별 관리자
 
