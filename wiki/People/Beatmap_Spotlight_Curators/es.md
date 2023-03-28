@@ -25,7 +25,7 @@ El proyecto Beatmaps Destacados está a cargo de varios miembros de la comunidad
 | Lider del proyecto | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) |
 | Gerente de proyecto | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) |
 
-Dedicated curator teams assemble each Beatmap Spotlights release. Team leaders are marked in bold.
+Los equipos de curadores dedicados organizan cada lanzamiento de Beatmap Spotlights. Los líderes de equipo están marcados en negrita.
 
 ### Curadores de osu!
 
