@@ -137,7 +137,7 @@ Hay un total de 7 estados que se pueden mostrar con el comando `!stats`: Editing
 
 ### Report
 
-*Para más información sobre que vale la pena reportar, vea [Reportando mal comportamiento](/wiki/Reporting_bad_behaviour)*
+*Para más información sobre que vale la pena reportar, vea [Reportar mala conducta](/wiki/Reporting_bad_behaviour)*
 
 ```
 !report <usuario> <motivo>

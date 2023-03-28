@@ -1,6 +1,6 @@
-# Reportar mal comportamiento
+# Reportar mala conducta
 
-osu! tiene [un equipo de moderadores](/wiki/People/Global_Moderation_Team) que se adhieren a mantener el juego y su ecosistema limpios y seguros. Si observa un comportamiento que infringe las reglas o contenido inapropiado, repórtelo utilizando uno de los métodos que se describen a continuación. Alternativamente, puede comunicarse directamente con cualquiera de los moderadores en línea si su reporte no se manejó correctamente dentro de un período de tiempo razonable, hágalo solo como último recurso.
+osu! tiene [un equipo de moderadores](/wiki/People/Global_Moderation_Team) que se adhieren a mantener el juego y su ecosistema limpios y seguros. Si observa una conducta que infringe las reglas o contenido inapropiado, repórtelo utilizando uno de los métodos que se describen a continuación. Alternativamente, puede comunicarse directamente con cualquiera de los moderadores en línea si su reporte no se manejó correctamente dentro de un período de tiempo razonable, hágalo solo como último recurso.
 
 Los reportes accidentales se ignoran. Los usuarios que envían deliberadamente reportes no válidos pueden correr el riesgo de ser [silenciados](/wiki/Silence).
 
@@ -22,7 +22,7 @@ Para cualquier otra cosa, véase las instrucciones a continuación.
 
 ![](img/report-command.jpg "Ejemplo de uso del comando !report")
 
-El mal comportamiento en el chat es la infracción más común. Para reportarlo, use el comando [`!report`](https://osu.ppy.sh/community/forums/topics/34843), preferiblemente en el canal donde ocurrió la infracción. No se sienta estresado: si su mensaje empieza con `!report` y un espacio, **solo será visible para los moderadores** y nadie más en el chat. También puede usar la función de informe a través de la [superposición en el juego](#superposición-en-el-juego) como se muestra a continuación si todavía está preocupado.
+La mala conducta en el chat es la infracción más común. Para reportarlo, use el comando [`!report`](https://osu.ppy.sh/community/forums/topics/34843), preferiblemente en el canal donde ocurrió la infracción. No se sienta estresado: si su mensaje empieza con `!report` y un espacio, **solo será visible para los moderadores** y nadie más en el chat. También puede usar la función de informe a través de la [superposición en el juego](#superposición-en-el-juego) como se muestra a continuación si todavía está preocupado.
 
 La sintaxis del comando tiene dos formas:
 
