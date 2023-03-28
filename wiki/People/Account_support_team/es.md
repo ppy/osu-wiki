@@ -1,6 +1,6 @@
 # Equipo de soporte de cuentas
 
-*Para un equipo que modera ciertos subforos, véase: [Equipo de soporte](/wiki/People/Support_Team)*
+*Para un equipo que modera ciertos subforos, véase: [Support Team](/wiki/People/Support_Team)*
 
 El **equipo de soporte de cuentas** es un grupo de personas que administran las cuentas de los usuarios, además de aceptar apelaciones de silencio y restricción.
 
