@@ -128,7 +128,7 @@ La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Espagnol | Support technique |
 | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | Polonais | Modération du tchat, modération de la communauté modding/mapping |
 | ::{ flag=PL }:: [Yason](https://osu.ppy.sh/users/2574392) | Polonais | Modération du tchat |
-| ::{ flag=HM }:: [Zallius](https://osu.ppy.sh/users/55) | | Chat moderation |
+| ::{ flag=HM }:: [Zallius](https://osu.ppy.sh/users/55) |  | Modération du tchat |
 
 ### Regroupés par langues modérées
 

@@ -128,7 +128,7 @@ tags:
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Испанский | Техподдержка |
 | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | Польский | Модерация чата, модерация маппинг-сообщества |
 | ::{ flag=PL }:: [Yason](https://osu.ppy.sh/users/2574392) | Польский | Модерация чата |
-| ::{ flag=HM }:: [Zallius](https://osu.ppy.sh/users/55) | | Chat moderation |
+| ::{ flag=HM }:: [Zallius](https://osu.ppy.sh/users/55) | | Модерация чата |
 
 ### Группировка по языкам
 
