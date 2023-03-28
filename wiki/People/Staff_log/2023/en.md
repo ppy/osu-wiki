@@ -183,8 +183,7 @@ Abbreviations for user groups are used throughout this log:
 - 2023-03-18: Removed [Ideal](https://osu.ppy.sh/users/3869519) from **BN**
 - 2023-03-19: Removed [Lumenite-](https://osu.ppy.sh/users/6256027) from **BN**
 
-
-<!-- last updated with davidminh0111 removed from BN 17/03/2023 23:52 UTC>
+<!-- last updated with Redo_ to GMT 29/03/2023>
 
 <!--
 To update this article:
