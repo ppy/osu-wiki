@@ -153,15 +153,15 @@ Jusqu'à lazer, les sliders ne nécessitaient que la précision d'un jugement 50
 | Modifié intentionnellement | Oui |
 | Nécessité d'une réflexion plus approfondie | Non |
 
-#### La sliderhead suit le corps du slider même si elle n'est pas touchée
+#### Le sliderhead suit le corps du slider même si elle n'est pas touchée
 
 ![](img/moving-slider-head.gif)
 
-Lorsqu'un slider atteint son moment de démarrage, la sliderhead commence à se déplacer le long du corps du slider, entraînant avec elle la cible à atteindre. En revanche, sur stable, la cible reste à son emplacement d'origine.
+Lorsqu'un slider atteint son moment de démarrage, le sliderhead commence à se déplacer le long du corps du slider, entraînant avec elle la cible à atteindre. En revanche, sur stable, la cible reste à son emplacement d'origine.
 
 C'est assez logique quand on y pense, mais cela ajoute de la complexité au calcul du gameplay (et potentiellement des erreurs de replays, surtout avec des valeurs élevées d'OD et de vélocité de slider).
 
-La raison de ce changement est simple : sans ce changement, l'activation de l'effet `Snaking out` des sliders devient très difficile à visualiser lorsqu'un joueur clique tardivement. Faut-il laisser le cercle d'origine en place et retarder l'effet ? Comment rattrape-t-il l'emplacement réel de la sliderball si c'est le cas ? Et au contraire, si vous ne retardez pas le snaking, laissez-vous la sliderhead détachée du slider (s'il vous plaît, non) ?
+La raison de ce changement est simple : sans ce changement, l'activation de l'effet `Snaking out` des sliders devient très difficile à visualiser lorsqu'un joueur clique tardivement. Faut-il laisser le cercle d'origine en place et retarder l'effet ? Comment rattrape-t-il l'emplacement réel du sliderball si c'est le cas ? Et au contraire, si vous ne retardez pas le snaking, laissez-vous le sliderhead détachée du slider (s'il vous plaît, non) ?
 
 |  |  |
 | :-- | :-: |
@@ -172,7 +172,7 @@ La raison de ce changement est simple : sans ce changement, l'activation de l'ef
 
 #### Les sliderends ne contribuent pas au combo et ne provoquent pas de miss
 
-Les sliderends avaient la particularité de ne pas casser le combo (et de ne pas causer de jugement MISS) si elles étaient manquées. Cela signifiait qu'un score avec une note S, qui entre autres choses ne nécessite aucun jugement MISS, ressemblerait à un full combo même si certaines sliderends étaient manquées. Il s'en est suivi divers débats sur la question de savoir si un tel score devait être appelé FC.
+Les sliderends avaient la particularité de ne pas casser le combo (et de ne pas causer de jugement MISS) si ils étaient manqués. Cela signifiait qu'un score avec une note S, qui entre autres choses ne nécessite aucun jugement MISS, ressemblerait à un full combo même si certains sliderends étaient manqués. Il s'en est suivi divers débats sur la question de savoir si un tel score devait être appelé FC.
 
 Dorénavant, les sliderends n'affecteront que le score et la précision, mais n'auront aucun effet sur le combo. Cela signifie qu'une note S signifie toujours un full combo.
 
@@ -183,11 +183,11 @@ Dorénavant, les sliderends n'affecteront que le score et la précision, mais n'
 | Modifié intentionnellement | Oui |
 | Nécessité d'une réflexion plus approfondie | Oui |
 
-#### Manquer une sliderhead entraîne un miss
+#### Manquer un sliderhead entraîne un miss
 
-Manquer la sliderhead (soit en ne la touchant pas, soit en la touchant pendant sa fenêtre de miss) brisait auparavant le combo mais n'entraînait pas de jugement de MISS, et un jugement pouvait toujours être reçu pour le slider manqué en terminant le reste du slider. Cela permettait aux joueurs de recevoir la note S tout en ayant un combo maximum faible.
+Manquer le sliderhead (soit en ne la touchant pas, soit en la touchant pendant sa fenêtre de miss) brisait auparavant le combo mais n'entraînait pas de jugement de MISS, et un jugement pouvait toujours être reçu pour le slider manqué en terminant le reste du slider. Cela permettait aux joueurs de recevoir la note S tout en ayant un combo maximum faible.
 
-Sur lazer, le fait de ne pas toucher la sliderhead donne un jugement MISS pour l'ensemble du slider. Après avoir manqué la tête d'un slider, le combo, le score et la précision peuvent encore être obtenus à partir des ticks et des reverses du slider, alors que seuls le score et la précision peuvent encore être obtenus grâce à la sliderend.
+Sur lazer, le fait de ne pas toucher le sliderhead donne un jugement MISS pour l'ensemble du slider. Après avoir manqué la tête d'un slider, le combo, le score et la précision peuvent encore être obtenus à partir des ticks et des reverses du slider, alors que seuls le score et la précision peuvent encore être obtenus grâce au sliderend.
 
 |  |  |
 | :-- | :-: |
@@ -196,9 +196,9 @@ Sur lazer, le fait de ne pas toucher la sliderhead donne un jugement MISS pour l
 | Modifié intentionnellement | Oui |
 | Nécessité d'une réflexion plus approfondie | Non |
 
-#### Les sliderends ne provoquent pas de hitsound lorsqu'elles ne sont pas touchées
+#### Les sliderends ne provoquent pas de hitsound lorsqu'ils ne sont pas touchés
 
-Dans la version stable, les sliderends jouaient leurs hitsounds même si elles étaient manquées, tant qu'une partie du slider était touchée. Cela a été modifié de manière à ce que les hitsounds correspondent aux entrées 1:1.
+Dans la version stable, les sliderends jouaient leurs hitsounds même si ils étaient manquées, tant qu'une partie du slider était touchée. Cela a été modifié de manière à ce que les hitsounds correspondent aux entrées 1:1.
 
 |  |  |
 | :-- | :-: |
