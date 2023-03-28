@@ -7,15 +7,9 @@ tags:
   - mod multiplier
 ---
 
-<!--This was originally named "Score Multiplier".-->
-
 # Mod multiplier
 
 *See also: [Game modifier](/wiki/Game_modifier)*
-
-*For details about other types of score multipliers, see: [Score Multiplier](/wiki/Gameplay/Score/Score_multiplier)*
-
-*For other uses, see: [Score Multiplier (disambiguation)](/wiki/Disambiguation/Score_multiplier)*
 
 *Not to be confused with: [Combo](/wiki/Gameplay/Combo_(score_multiplier))*
 

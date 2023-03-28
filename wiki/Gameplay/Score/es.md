@@ -15,7 +15,7 @@ El ScoreV1 es el nombre coloquial para la puntuación original, siendo el sistem
 
 - osu! y osu!catch usan un multiplicador de puntaje estrictamente basado en combo, aplicado en los valores de puntaje para cada objeto de golpeo.
 - osu!taiko sigue aproximadamente el sistema de puntuación de *Taiko no Tatsujin* con una pequeña puntuación contante afectada por la bonificación del combo.
-- osu!mania es el único modo de juego con un límite de puntaje (bajo ScoreV1), que se establece en un 1,000,000 de puntos con un [multiplicador de puntuación](/wiki/Gameplay/Game_modifier/Score_multiplier(mod_multiplier)) de 1.00x.
+- osu!mania es el único modo de juego con un límite de puntaje (bajo ScoreV1), que se establece en un 1,000,000 de puntos con un [multiplicador de puntuación](/wiki/Gameplay/Game_modifier/Mod_multiplier) de 1.00x.
 
 Para más detalles de cómo funciona el ScoreV1 en cada modo de juego, consulte:
 
