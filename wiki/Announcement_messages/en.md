@@ -11,10 +11,10 @@ tags:
 
 An **announcement message** is a special type of message that's intended for sending longer and formatted messages to multiple users at once. The key differences between announcement messages and regular chat messages are:
 
-- Announcement messages have a 1024 character limit instead of 450.
-- Announcement messages support Markdown[^note-images] syntax for text formatting.
-- Announcement messages are sent to all users in the specified channel.
-- Announcement messages bypass the `block private messages from people not on your friends list` setting.
+- The 1024 character limit instead of 450
+- Markdown syntax support[^note-images] for text formatting
+- Delivery to all users in the specified channel
+- Ability to bypass the `block private messages from people not on your friends list` setting.
 - Normal users cannot reply to announcement messages.
 
 ## Eligibility
@@ -30,19 +30,19 @@ The body of the email should contain the following:
 - Your osu! username
 - An explanation outlining your reason for needing announcement messages, and how frequently you will be using them.
 
-The [account support team](/wiki/People/Account_support_team) will review your request. If your request is denied, they will let you know why. If your request is approved, they will add you to the announce user group and inform you of this.
+The [account support team](/wiki/People/Account_support_team) will review the request and inform you of their decision.
 
 ## Sending announcement messages
 
-In order to send a chat announcement, open the [chat page](https://osu.ppy.sh/community/chat) from your chat notifications tab. Then, click the `create announcement` button. this will open a dedicated page for creating announcements. Input the channel name, description, list of users to message, then your message. Finally, click the `create` button to send the announcement.
+In order to send a chat announcement, open the [chat page](https://osu.ppy.sh/community/chat) from your chat notifications and click the `create announcement` button. Input the channel name, description, list of recipients, and your message. Finally, click the `create` button to send the announcement.
 
 ![Announcement creation page](img/page.jpg "The announcement creation page")
 
 ## Trivia
 
-- Announcement messages are intended to be a direct replacement for old forum messages.
-- [Basic implementation](https://github.com/ppy/osu-web/pull/8418) of the announcement system was added to the website January 26th, 2022. This included the announce user group and the ability to send announcement messages through the API. The user interface for sending chat announcements, alongside allowing moderators to send them, was [added](https://github.com/ppy/osu-web/pull/8747) on June 1st, 2022.
-- The announce user group's ID is 47, it has no group badge nor a colour, and its user listing is not public.
+- Announcement messages are intended to be a direct replacement for old [forum](/wiki/Community/Forum) messages.
+- [Basic implementation](https://github.com/ppy/osu-web/pull/8418) of the announcement system was added to the website on January 26th, 2022. This included the announce user group and the ability to send announcement messages through the API. The user interface for sending chat announcements, alongside allowing moderators to send them, was [added](https://github.com/ppy/osu-web/pull/8747) on June 1st, 2022.
+- The announce user group's ID is 47, it has neither a group badge nor a dedicated colour, and its user listing is private.
 
 ## Notes
 
