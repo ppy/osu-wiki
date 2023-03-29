@@ -110,9 +110,9 @@ La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la
 | ::{ flag=GB }:: [Pope Gadget](https://osu.ppy.sh/users/2288341) |  | Modération de la communauté modding/mapping |
 | ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) |  | Modération de la communauté modding/mapping |
 | ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) | Malais | Modération du tchat |
-| ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) |  | Modération du forum |
+| ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | Polonais | Modération du forum |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | Espagnol | Modération du tchat |
-| ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) |  | Modération du forum |
+| ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | Néerlandais, japonais | Modération du forum |
 | ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | Allemand | Modération du forum |
 | ::{ flag=KR }:: [ruexia](https://osu.ppy.sh/users/385069) | Coréen | Modération du tchat |
 | ::{ flag=JP }:: [S o h](https://osu.ppy.sh/users/2234772) | Japonais | Modération du tchat |

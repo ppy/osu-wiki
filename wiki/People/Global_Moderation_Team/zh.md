@@ -110,9 +110,9 @@ tags:
 | ::{ flag=GB }:: [Pope Gadget](https://osu.ppy.sh/users/2288341) |  | 作图、摸图社群管理员 |
 | ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) |  | 作图、摸图社群管理员 |
 | ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) | 马来语 | 聊天管理员 |
-| ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) |  | 论坛管理员 |
+| ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | 波兰语 | 论坛管理员 |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | 西班牙语 | 聊天管理员 |
-| ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) |  | 论坛管理员 |
+| ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | 荷兰语，日语 | 论坛管理员 |
 | ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | 德语 | 论坛管理员 |
 | ::{ flag=KR }:: [ruexia](https://osu.ppy.sh/users/385069) | 韩语 | 聊天管理员 |
 | ::{ flag=JP }:: [S o h](https://osu.ppy.sh/users/2234772) | 日语 | 聊天管理员 |

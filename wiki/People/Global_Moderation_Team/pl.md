@@ -99,9 +99,9 @@ Lista wszystkich moderatorów globalnych jest dostępna na [stronie grupy](https
 | ::{ flag=GB }:: [Pope Gadget](https://osu.ppy.sh/users/2288341) |  | Moderowanie społeczności twórców i moderów beatmap |
 | ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) |  | Moderowanie społeczności twórców i moderów beatmap |
 | ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) | Malajski | Moderowanie czatu |
-| ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) |  | Moderowanie forum |
+| ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | Polski | Moderowanie forum |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | Hiszpański | Moderowanie czatu |
-| ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) |  | Moderowanie forum |
+| ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | Niderlandzki, japoński | Moderowanie forum |
 | ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | Niemiecki | Moderowanie forum |
 | ::{ flag=KR }:: [ruexia](https://osu.ppy.sh/users/385069) | Koreański | Moderowanie czatu |
 | ::{ flag=JP }:: [S o h](https://osu.ppy.sh/users/2234772) | Japoński | Moderowanie czatu |

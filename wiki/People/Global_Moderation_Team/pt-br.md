@@ -98,9 +98,9 @@ A [página de grupo da Equipe de Moderação Global](https://osu.ppy.sh/groups/4
 | ::{ flag=GB }:: [Pope Gadget](https://osu.ppy.sh/users/2288341) |  | Moderação da comunidade de mapping/modding |
 | ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) |  | Moderação da comunidade de mapping/modding |
 | ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) | Malaio | Moderação de chat |
-| ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) |  | Moderação de fórum |
+| ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | Polonês | Moderação de fórum |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | Espanhol | Moderação de chat |
-| ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) |  | Moderação de fórum |
+| ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | Holandês, japonês | Moderação de fórum |
 | ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | Alemão | Moderação de fórum |
 | ::{ flag=KR }:: [ruexia](https://osu.ppy.sh/users/385069) | Coreano | Moderação de chat |
 | ::{ flag=JP }:: [S o h](https://osu.ppy.sh/users/2234772) | Japonês | Moderação de chat |

@@ -106,9 +106,9 @@ Daftar anggota GMT selengkapnya dapat dilihat pada laman grup [Global Moderation
 | ::{ flag=GB }:: [Pope Gadget](https://osu.ppy.sh/users/2288341) |  | Moderasi komunitas mapping/modding |
 | ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) |  | Moderasi komunitas mapping/modding |
 | ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) | Melayu | Moderasi chat |
-| ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) |  | Moderasi forum |
+| ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | Polski | Moderasi forum |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | Spanyol | Moderasi chat |
-| ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) |  | Moderasi forum |
+| ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | Belanda, Jepang | Moderasi forum |
 | ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | Jerman | Moderasi forum |
 | ::{ flag=KR }:: [ruexia](https://osu.ppy.sh/users/385069) | Korea | Moderasi chat |
 | ::{ flag=JP }:: [S o h](https://osu.ppy.sh/users/2234772) | Jepang | Moderasi chat |

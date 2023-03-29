@@ -72,9 +72,9 @@ Global Moderation Team은 채팅 채널과 포럼의 쾌적한 운용을 책임�
 | ::{ flag=GB }:: [Pope Gadget](https://osu.ppy.sh/users/2288341) |  | 매핑/모딩 커뮤니티 관리 |
 | ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) |  | 매핑/모딩 커뮤니티 관리 |
 | ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) | 말레이어 | 채팅 관리 |
-| ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) |  | 포럼 관리 |
+| ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | 폴란드어 | 포럼 관리 |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | 스페인어 | 채팅 관리 |
-| ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) |  | 포럼 관리 |
+| ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | 네덜란드어, 일본어 | 포럼 관리 |
 | ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | 독일어 | 포럼 관리 |
 | ::{ flag=KR }:: [ruexia](https://osu.ppy.sh/users/385069) | 한국어 | 채팅 관리 |
 | ::{ flag=JP }:: [S o h](https://osu.ppy.sh/users/2234772) | 일본어 | 채팅 관리 |

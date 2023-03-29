@@ -107,9 +107,9 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | ::{ flag=GB }:: [Pope Gadget](https://osu.ppy.sh/users/2288341) |  | Mapping/modding topluluk moderasyonu |
 | ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) |  | Mapping/modding topluluk moderasyonu |
 | ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) | Malayca | Sohbet moderasyonu |
-| ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) |  | Forum moderasyonu |
+| ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | Lehçe | Forum moderasyonu |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | İspanyolca | Sohbet moderasyonu |
-| ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) |  | Forum moderasyonu |
+| ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | Felemenkçe, Japonca | Forum moderasyonu |
 | ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | Almanca | Forum moderasyonu |
 | ::{ flag=KR }:: [ruexia](https://osu.ppy.sh/users/385069) | Korece | Sohbet moderasyonu |
 | ::{ flag=JP }:: [S o h](https://osu.ppy.sh/users/2234772) | Japonca | Sohbet moderasyonu |
