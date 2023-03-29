@@ -21,17 +21,17 @@ The NAT is responsible for a variety of mapping-related tasks, which are divided
 
 ### Evaluation
 
-NAT members who are assigned to the evaluation category (who are also referred as evaluators) are primarily responsible for:
+NAT members assigned to the evaluation category (also referred to as the evaluators) are primarily responsible for:
 
 - **Evaluation**: Evaluating the proficiency and activity of both current Beatmap Nominators and applicants. *See [Evaluations](/wiki/People/Nomination_Assessment_Team/Evaluations) for more details.*
 - **Nomination**: Nominating at least 2 beatmaps per month. This helps evaluators keep up to date with the mapping/modding community when evaluating current and aspiring Beatmap Nominators.
   - Modding activity and other contributions may be used as a backup metric when evaluating activity.
 
-NAT members who are responsible for this category are in high demand due to the sheer volume of [BN applications](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator). Therefore, they occasionally look for new members to join them and help ease the workload. This is why BNs who wish to join the NAT are primarily judged based on their ability to evaluate, and most NAT members join and stay responsible for the evaluation category.
+NAT members responsible for this category are in high demand due to the sheer volume of [BN applications](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator). Therefore, they occasionally look for new members to join them and help ease the workload. This is why BNs who wish to join the NAT are primarily judged based on their ability to evaluate, and most NAT members join and stay responsible for the evaluation category.
 
 ### Structural
 
-NAT members who are assigned to the structural category are required to maintain:
+NAT members assigned to the structural category are required to maintain:
 
 - **Communication**: Promoting transparency and maintaining good relations with not only the rest of the mapping/modding community, but also within the NAT itself. This includes, but not limited to, making announcements, participating in discussions about proposals, asking/answering questions through surveys, and updating the [ranking criteria](/wiki/Ranking_Criteria) as well as other documentation.
 - **Development**: Developing and maintaining tools and websites to help improve the ranking process (such as [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier), [Aiess](https://github.com/Naxesss/Aiess), or [the NAT/BN website](https://bn.mappersguild.com/home)).
@@ -47,13 +47,13 @@ NAT members who are primarily handling this category make sure that BNs and othe
 
 Dividing the NAT workload into two main categories is necessary for the overall organisation and productivity of the group, allowing for a more streamlined assignment of responsibilities. Delegating tasks keeps NAT members from being overwhelmed while simultaneously avoiding a diffusion of responsiblity.
 
-**A member of the NAT can engage with any tasks within any category that they choose, despite what their primary responsibilities may be listed as.** For example, an NAT member who is primarily responsible for evaluations may also help with structural-related tasks, or vice versa.
+**A member of the NAT can engage with any tasks within any category that they choose, despite their listed primary responsibilities.** For example, an NAT member primarily responsible for evaluations may also help with structural-related tasks, or vice versa.
 
 ## Activity
 
-Depending on their category, each NAT member has different activity requirements. Members who are responsible for evaluations are expected to consistently evaluate both applicants and current BNs, while also keeping up to date with the mapping/modding scene on their own through modding. Members who are assigned to the structural category are expected to uphold key parts of the ranking process on a case-by-case basis.
+Depending on their category, each NAT member has different activity requirements. Members responsible for evaluations are expected to consistently evaluate both applicants and current BNs, while also keeping up to date with the mapping/modding scene on their own through modding. Members assigned to the structural category are expected to uphold key parts of the ranking process on a case-by-case basis.
 
-NAT members who are found to be inactive will be confronted by the [team leaders](#nat-leadership). If a timely resolution to their inactivity is not feasible, they will be removed from the NAT. Members under the evaluation category working on other mapping-related projects may be moved to the structural category to better reflect their contribution.
+Inactive NAT members will be confronted by the [team leaders](#nat-leadership). If a timely resolution to their inactivity is not feasible, they will be removed from the NAT. Members under the evaluation category working on other mapping-related projects may be moved to the structural category to better reflect their contribution.
 
 ## Promotion to the NAT
 
