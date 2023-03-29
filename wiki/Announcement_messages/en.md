@@ -15,7 +15,7 @@ An **announcement message** is a special type of message that's intended for sen
 - Markdown syntax support[^note-images] for text formatting
 - Delivery to multiple users at once
 - Ability to bypass the `block private messages from people not on your friends list` setting
-- Normal users cannot reply to announcement messages
+- Only users that can send announcement messages are able to reply to them
 
 ## Eligibility
 
@@ -34,7 +34,7 @@ The [account support team](/wiki/People/Account_support_team) will review the re
 
 ## Sending announcement messages
 
-In order to send a chat announcement, open the [chat page](https://osu.ppy.sh/community/chat) from your chat notifications and click the `create announcement` button. Input the channel name, description, list of recipients, and your message. Finally, click the `create` button to send the announcement.
+In order to send a chat announcement, open the [chat page](https://osu.ppy.sh/community/chat) from your chat notifications and click the `create announcement` button. Input the channel name, description[^note-desc], list of recipients, and your message. Finally, click the `create` button to send the announcement.
 
 ![Announcement creation page](img/page.jpg "The announcement creation page")
 
@@ -47,3 +47,4 @@ In order to send a chat announcement, open the [chat page](https://osu.ppy.sh/co
 ## Notes
 
 [^note-images]: Images are not supported in announcement messages.
+[^note-desc]: Unlike other input fields, descriptions are optional.
