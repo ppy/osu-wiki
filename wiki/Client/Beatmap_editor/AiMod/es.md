@@ -130,7 +130,7 @@ El desarrollo de AiMod usualmente está por debajo de los estándares de la comu
 
 | Mensaje | Explicación | Solución |
 | :-- | :-- | :-- |
-| Stack leniency is larger than 0.9 or smaller than 0.3. |  |  |
+| [Stack leniency](/wiki/Beatmap/Stack_leniency) is larger than 0.9 or smaller than 0.3. |  |  |
 | Romanised artist contains unicode. |  |  |
 | Romanised title contains unicode. |  |  |
 | Countdown is not allowed in mania mode. | ¡Solo mapas de osu!mania! | Ve a las configuraciones de la cancióny desactiva la cuenta regresiva en la pestaña de "Design" (Diseño). |

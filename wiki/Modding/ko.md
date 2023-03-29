@@ -32,7 +32,7 @@ outdated_since: 2a73fa15eba9ab6f0c0fbe547d71933628aedc64
 
 모든 모딩 게시글은 문제점을 명시해야하며, 왜 그것이 문제인지, 해결법은 무엇인지 제시하여야 합니다. 올바른 모딩 게시글을 위한 더 자세한 정보를 확인하기 위해선 [Code of Conduct for Modding and Mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping#making-a-mod-post)을 참고해주세요.
 
-비트맵 제작자들은 모딩이 유용하다고 생각했을 경우 모딩 게시글 오른쪽 위의 *엄지척* 버튼을 통해 [쿠도스](/wiki/Modding/Kudosu)를 부여할 수 있습니다. 이 쿠도스 통계는 각 개인 유저 프로필에 기록되며 [비트맵 노미네이터](/wiki/People/The_Team/Beatmap_Nominators)에 지원할 시 일정 수준의 쿠도스가 요구됩니다.
+비트맵 제작자들은 모딩이 유용하다고 생각했을 경우 모딩 게시글 오른쪽 위의 *엄지척* 버튼을 통해 [쿠도스](/wiki/Modding/Kudosu)를 부여할 수 있습니다. 이 쿠도스 통계는 각 개인 유저 프로필에 기록되며 [비트맵 노미네이터](/wiki/People/Beatmap_Nominators)에 지원할 시 일정 수준의 쿠도스가 요구됩니다.
 
 ## 모딩 게시글의 종류
 

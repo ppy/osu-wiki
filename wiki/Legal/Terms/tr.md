@@ -84,8 +84,8 @@ osu!, İçerikleri ve Kullanıcı Gönderimlerini önceden haber vermeksizin kal
 
 osu!, herhangi bir zamanda doğrudan topluluktan seçilen bir dizi gönüllü ekip içerir. Bazı takımlar, oyunun topluluk odaklı yönünü kolaylaştırmak için ekstra izinlere ve erişime ihtiyaç duyar. Bu tür takımlar aşağıdaki gibidir:
 
-- [Küresel Moderasyon Takımı](/wiki/People/The_Team/Global_Moderation_Team)
-- [Aday Gösterme Denetleme Takımı](/wiki/People/The_Team/Nomination_Assessment_Team)
+- [Küresel Moderasyon Takımı](/wiki/People/Global_Moderation_Team)
+- [Aday Gösterme Denetleme Takımı](/wiki/People/Nomination_Assessment_Team)
 
 18 yaşından küçük kullanıcılar, yukarıda listelenen takımların hiçbirine üye olamaz.
 

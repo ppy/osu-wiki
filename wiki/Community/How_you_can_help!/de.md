@@ -38,7 +38,7 @@ Im Folgenden wird beschrieben, wie du anderen im Forum helfen kannst:
 
 ## Hilf bei der Bewertung von Beatmaps!
 
-osu! hat ein engagiertes Team an Rezensenten, die [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators), um zu prüfen, ob eingereichte [Beatmaps](/wiki/Beatmap) bereit sind, gerankt und von jedem gespielt zu werden. Jedoch bedeutet das nicht, dass du nicht auch einen Beitrag zu diesem Bereich leisten kannst:
+osu! hat ein engagiertes Team an Rezensenten, die [Beatmap Nominators](/wiki/People/Beatmap_Nominators), um zu prüfen, ob eingereichte [Beatmaps](/wiki/Beatmap) bereit sind, gerankt und von jedem gespielt zu werden. Jedoch bedeutet das nicht, dass du nicht auch einen Beitrag zu diesem Bereich leisten kannst:
 
 - Durchsuche die Auflistung der [ausstehenden Beatmaps](https://osu.ppy.sh/beatmapsets?s=pending) nach Künstlern oder Songs, die du magst und/oder zu denen du einen Beitrag leisten möchtest.
 - Spiele Beatmaps in den Kategorien [*Ausstehend* oder *Work-in-progress*](/wiki/Beatmap/Category#work-in-progress-und-ausstehend) und lasse Feedback in der Diskussionsseite der Beatmap da.

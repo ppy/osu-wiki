@@ -10,7 +10,7 @@ outdated_since: 299cc666553fbfc6d71cf11ac90a5d88f975d8e6
 
 **Grade (penilaian)**, di osu!, adalah sekumpulan huruf yang mewakili performa pemain dalam memainkan [beatmap](/wiki/Beatmap). Grade menyertai total [skor](/wiki/Gameplay/Score) yang diperoleh di layar hasil bermain (result screen) dan muncul di semua daftar beatmap di samping skor.
 
-Penilaian dari tingkat terendah hingga tertinggi, kemungkinan nilai yang bisa didapat antara lain D, C, B, A, S, S Silver, SS, dan SS Silver. Nilai silver hanya dapat dicapai jika menggunakan *[game modifier](/wiki/Game_modifier)* [Hidden](/wiki/Game_modifier/Hidden), [Flashlight](/wiki/Game_modifier/Flashlight), atau [Fade In](/wiki/Game_modifier/Fade_In).
+Penilaian dari tingkat terendah hingga tertinggi, kemungkinan nilai yang bisa didapat antara lain D, C, B, A, S, S Silver, SS, dan SS Silver. Nilai silver hanya dapat dicapai jika menggunakan *[game modifier](/wiki/Gameplay/Game_modifier)* [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight), atau [Fade In](/wiki/Gameplay/Game_modifier/Fade_In).
 
 ## osu!
 
@@ -23,7 +23,7 @@ Penilaian dari tingkat terendah hingga tertinggi, kemungkinan nilai yang bisa di
 | C | Persentase perolehan 300 di atas 60% |
 | D | Lainnya |
 
-Peringkat S atau SS yang berwarna perak dapat diperoleh dengan memasang mod *[Hidden](/wiki/Game_modifier/Hidden)* dan/atau mod *[Flashlight](/wiki/Game_modifier/Flashlight)*.
+Peringkat S atau SS yang berwarna perak dapat diperoleh dengan memasang mod *[Hidden](/wiki/Gameplay/Game_modifier/Hidden)* dan/atau mod *[Flashlight](/wiki/Gameplay/Game_modifier/Flashlight)*.
 
 ## osu!taiko
 
@@ -45,7 +45,7 @@ Peringkat S atau SS yang berwarna perak dapat diperoleh dengan memasang mod *[Hi
 | C | 85.01% to 90.00% Accuracy |
 | D | Any other accuracy under 85.00%. |
 
-A silver S or SS can be obtained by using the *[Hidden](/wiki/Game_modifier/Hidden)* and/or *[Flashlight](/wiki/Game_modifier/Flashlight)* mod.
+A silver S or SS can be obtained by using the *[Hidden](/wiki/Gameplay/Game_modifier/Hidden)* and/or *[Flashlight](/wiki/Gameplay/Game_modifier/Flashlight)* mod.
 
 ## osu!mania
 
@@ -58,4 +58,4 @@ A silver S or SS can be obtained by using the *[Hidden](/wiki/Game_modifier/Hidd
 | C | Over 70% Accuracy. |
 | D | Anything else. |
 
-It is possible to obtain SSH or SH ranks (silver S or SS) with [Hidden](/wiki/Game_modifier/Hidden)/[Fade In](/wiki/Game_modifier/Fade_In) or [Flashlight](/wiki/Game_modifier/Flashlight) mod.
+It is possible to obtain SSH or SH ranks (silver S or SS) with [Hidden](/wiki/Gameplay/Game_modifier/Hidden)/[Fade In](/wiki/Gameplay/Game_modifier/Fade_In) or [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight) mod.

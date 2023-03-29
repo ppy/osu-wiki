@@ -8,11 +8,11 @@ tags:
   - osu lazer
   - osu!(lazer)
   - Spiel-Client
-outdated_translation: true
-outdated_since: 896609cada0adeea7ea6bc83689487af01e722fb
 ---
 
 # Updatequelle lazer
+
+*Für eine vollständige Liste an neuen Funktionen und anderen Unterschieden im Vergleich zu osu!(stable), siehe: [Funktionsvergleich von osu!(lazer)](/wiki/Client/Release_stream/Lazer/Feature_comparison).*
 
 ::: Infobox
 

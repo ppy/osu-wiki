@@ -52,7 +52,7 @@ Der Text der E-Mail sollte das Folgende enthalten:
 - einen Link zum Quellcode und der Dokumentation
 - eine kurze Zusammenfassung, was dein Bot macht
 
-Das [Account-Support-Team](/wiki/People/The_Team/Account_support_team) wird deinen Antrag überprüfen. Falls dein Antrag abgelehnt wird, wird das Team dir sagen, warum. Wenn dein Antrag genehmigt wird, legt das Team den Bot-Account für dich an und gibt dir weiterführende Anweisungen, wie der Bot-Account zu benutzen ist.
+Das [Account-Support-Team](/wiki/People/Account_support_team) wird deinen Antrag überprüfen. Falls dein Antrag abgelehnt wird, wird das Team dir sagen, warum. Wenn dein Antrag genehmigt wird, legt das Team den Bot-Account für dich an und gibt dir weiterführende Anweisungen, wie der Bot-Account zu benutzen ist.
 
 ## Trivia
 

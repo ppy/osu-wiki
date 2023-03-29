@@ -18,7 +18,7 @@ Pudes ver los círculos en la pantalla inferior, y en la pantalla superior tiene
 
 *Explicación completa: [osu! Standard](/wiki/Game_mode/osu!)*
 
-Aunque la mayoría de los usuarios de PC no tiene una pantalla táctil a su disposición, este juego fue hecho para ser jugable con un ratón normal, así como cualquier número de dispositivos de entrada que puedas imaginar. Los diferentes estilos de juego pueden ser encontrados en [ésta](/wiki/Play_style) página. Existen algunas canciones que prolongan los límites del ratón normal (y de ti), pero todos los beatmaps ([rankeados](/wiki/Beatmap/Category#beatmaps-rankeados) y aprobados) han sido probados y (la mayoría) son posibles de pasar solo con un ratón.
+Aunque la mayoría de los usuarios de PC no tiene una pantalla táctil a su disposición, este juego fue hecho para ser jugable con un ratón normal, así como cualquier número de dispositivos de entrada que puedas imaginar. Los diferentes estilos de juego pueden ser encontrados en [ésta](/wiki/Gameplay/Play_style) página. Existen algunas canciones que prolongan los límites del ratón normal (y de ti), pero todos los beatmaps ([rankeados](/wiki/Beatmap/Category#beatmaps-rankeados) y aprobados) han sido probados y (la mayoría) son posibles de pasar solo con un ratón.
 
 #### Lo Básico del Juego
 
@@ -26,7 +26,7 @@ Aunque la mayoría de los usuarios de PC no tiene una pantalla táctil a su disp
 
 El juego pone énfasis en:
 
-- La capacidad de adaptación y reacción a los estímulos (así es, los ["Hit Objects"](/wiki/Hit_object) aparecen en pantalla a la velocidad de la luz)
+- La capacidad de adaptación y reacción a los estímulos (así es, los ["Hit Objects"](/wiki/Gameplay/Hit_object) aparecen en pantalla a la velocidad de la luz)
 - Entender el ritmo y diseño de la canción.
 - El control sobre tu ratón (o tus habilidades de dedos/uso de bolígrafo si estás usando una tablet en su lugar)
 - Sincronizar tus toques con el objeto que aparece en la pantalla.
@@ -71,7 +71,7 @@ Vamos a aprender cuáles son los objetos ¿De acuerdo?
     - Si no mantienes ningún botón antes de dar vueltas, no podrás llenar el medidor de SPM.
 - En el DS, esta es una buena manera de rayar tu pantalla táctil (o protector de pantalla), especialmente en las mayores dificultades.
 - En osu!, los spinners han sido atenuados para que no sean molestos de completar.
-  - El máximo número de spins por minuto posible es 477 que es también la velocidad con la que el mod [Auto](/wiki/Game_modifier/Auto) gira, mientras que el mod [Spun Out](/wiki/Game_modifier/Spun_Out) gira a menos de 287 spins por minuto.
+  - El máximo número de spins por minuto posible es 477 que es también la velocidad con la que el mod [Auto](/wiki/Gameplay/Game_modifier/Auto) gira, mientras que el mod [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out) gira a menos de 287 spins por minuto.
   - Practica y trata de girar en cículos muy pequeños (como hace el mod Auto, pero poniendo un esfuerzo en tu brazo si es que no estás acostumbrado.)
 - \[Ratón\]**Si tu cursor no gira en absoluto, o se mueve estáticamente a pesar de que giras muy rápido. O bien entiende que es el límite de tu ratón o consigue un mejor ratón/mousepad**.
   - Un ratón convencional puede sufrir este problema, y lo mejor es **empezar a girar lentamente en lugar de girar muy rápido repentinamente** de modo que el ratón pueda detectar lo que estás haciendo.
@@ -84,7 +84,7 @@ Esta es la interfaz del estilo de juego osu! Standard.
 
 - La barra superior izquierda muestra tu "salud".
   - Esta disminuirá a un ritmo constante \[dependiendo de la dificultad del beatmap establecida por el(los) [mapper(s)](/wiki/Beatmapping), pero puedes reponerlo presionando las notas en el momento correcto.
-  - Un "hit" (golpe) perfecto ([300](/wiki/Gameplay/Score/osu!) o Geki Beat) incrementará tu salud más que un hit mal hecho([50](/wiki/Gameplay/Score/osu!)).
+  - Un "hit" (golpe) perfecto ([300](/wiki/Gameplay/Score/ScoreV1/osu!) o Geki Beat) incrementará tu salud más que un hit mal hecho([50](/wiki/Gameplay/Score/ScoreV1/osu!)).
   - Muchos errores quitarán una buena parte de tu salud.
 - Al lado de la barra de salud (a la derecha) se muestra tu puntaje.
 - Debajo del puntaje está tu precisión.
@@ -154,7 +154,7 @@ Puedes configurar los botones del teclado como te parezca cómodo, desde la pest
 
 #### Controlando al catcher
 
-Si el mod [Relax](/wiki/Game_modifier/Relax) es usado, el catcher se controla moviendo el ratón.
+Si el mod [Relax](/wiki/Gameplay/Game_modifier/Relax) es usado, el catcher se controla moviendo el ratón.
 
 - Por defecto, las flechas izquierda \[<-\] y derecha \[->\] son usadas para mover al catcher.
 - Presionando la tecla SHIFT con alguna de las flechas, el catcher correrá en la dirección indicada a una velocidad de x1.5 (indicada por un brillante resplandor rodeando al catcher).
@@ -222,8 +222,8 @@ Disposición de teclas*de Izquierda a Derecha* (Para el estilo Beatmania IIDX)
 
 **Notas Especiales:**
 
-- SS de plata (SSH) = 100% de precisión con el(los) mod(s) '[Hidden](/wiki/Game_modifier/Hidden)' y/o '[Flashlight](/wiki/Game_modifier/Flashlight)'.
-- S de plata (SH) = Encima del 90% de 300s, menos del 1% de 50s y sin errores con el(los) mod(s) '[Hidden](/wiki/Game_modifier/Hidden)' y/o '[Flashlight](/wiki/Game_modifier/Flashlight)'.
+- SS de plata (SSH) = 100% de precisión con el(los) mod(s) '[Hidden](/wiki/Gameplay/Game_modifier/Hidden)' y/o '[Flashlight](/wiki/Gameplay/Game_modifier/Flashlight)'.
+- S de plata (SH) = Encima del 90% de 300s, menos del 1% de 50s y sin errores con el(los) mod(s) '[Hidden](/wiki/Gameplay/Game_modifier/Hidden)' y/o '[Flashlight](/wiki/Gameplay/Game_modifier/Flashlight)'.
 
 **En cuanto a los "Ranks" (rangos) en la página del perfil:**
 

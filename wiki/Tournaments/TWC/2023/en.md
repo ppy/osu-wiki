@@ -9,7 +9,7 @@ tags:
 
 ![TWC 2023 banner](img/twc2023-banner.jpg)
 
-The **osu!taiko World Cup 2023** (***TWC 2023***) is a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It is the thirteenth instalment of the osu!taiko World Cup.
+The **osu!taiko World Cup 2023** (***TWC 2023***) is a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/osu!_team). It is the thirteenth instalment of the osu!taiko World Cup.
 
 ## Tournament schedule
 
@@ -43,15 +43,17 @@ The osu!taiko World Cup 2023 is run by various community members.
 | :-- | :-- |
 | Manager | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) |
 | Mappool selector | ::{ flag=GB }:: **[mangomizer](https://osu.ppy.sh/users/1893718)**, ::{ flag=US }:: [Lumenite\-](https://osu.ppy.sh/users/6256027), ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910), ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097) |
-| Mappool playtester | ::{ flag=JP }:: [4sbet1](https://osu.ppy.sh/users/11563671), ::{ flag=BR }:: [HiroK](https://osu.ppy.sh/users/4050738), ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352), ::{ flag=SE }:: [Nurend](https://osu.ppy.sh/users/9905079), ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650) |
-| Commentator | *TBA* |
+| Mappool playtester | ::{ flag=JP }:: [4sbet1](https://osu.ppy.sh/users/11563671), ::{ flag=US }:: [Backfire](https://osu.ppy.sh/users/263110), ::{ flag=BR }:: [HiroK](https://osu.ppy.sh/users/4050738), ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352), ::{ flag=SE }:: [Nurend](https://osu.ppy.sh/users/9905079), ::{ flag=SE }:: [Raphalge](https://osu.ppy.sh/users/3918650) |
+| Commentator | ::{ flag=AU }:: [Beat43210](https://osu.ppy.sh/users/5664171), ::{ flag=US }:: [driodx](https://osu.ppy.sh/users/9709548), ::{ flag=US }:: [ETHN](https://osu.ppy.sh/users/9536977), ::{ flag=CA }:: [janitore](https://osu.ppy.sh/users/3307897), ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352), ::{ flag=DE }:: [Joogs](https://osu.ppy.sh/users/8844167), ::{ flag=US }:: [Lumenite\-](https://osu.ppy.sh/users/6256027), ::{ flag=DE }:: [Nwolf](https://osu.ppy.sh/users/1910766), ::{ flag=GB }:: [Teezel](https://osu.ppy.sh/users/7528639), ::{ flag=AR }:: [Vaf](https://osu.ppy.sh/users/12589048), ::{ flag=HK }:: [YonGin](https://osu.ppy.sh/users/7109317) |
 | Referee | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=IN }:: [Speshimen](https://osu.ppy.sh/users/7720204), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=US }:: [\[K\]](https://osu.ppy.sh/users/16551387) |
 | Statistician | ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899) |
 
 ## Links
 
+- [Information spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQVZQZCgZ1cw1N6w0CGsnSGT2-ILaWMYo88bRDXQycx03Rw0yawJikrOGB_rsx1k0LVY7UaO1DVU_5J/pubhtml)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1722224)
 - [Livestream](https://www.twitch.tv/osulive)
+- [Challonge bracket](https://challonge.com/TWC_2023)
 - [Donate to the prize pool](https://opencollective.com/osu-tournaments/events/osu-taiko-world-cup-2023-13130e56)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/110) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
 
@@ -67,7 +69,7 @@ The osu!taiko World Cup 2023 is run by various community members.
 | ::{ flag=CL }:: | **Chile** | **[Ulqui](https://osu.ppy.sh/users/1263669)**, [Necromancy-](https://osu.ppy.sh/users/1890084), [\[GS\]Myuka](https://osu.ppy.sh/users/10072733), [Escocyan](https://osu.ppy.sh/users/9057823), [iNeon](https://osu.ppy.sh/users/10907480), [Shiny Froakie](https://osu.ppy.sh/users/6194830) |
 | ::{ flag=CN }:: | **China** | **[superSSS](https://osu.ppy.sh/users/4315477)**, [szh134](https://osu.ppy.sh/users/6844521), [WLYMinato](https://osu.ppy.sh/users/12703319), [shoucan91](https://osu.ppy.sh/users/9383908), [Ookura Risona](https://osu.ppy.sh/users/2073644), [\[GB\]Edward\_Tsui](https://osu.ppy.sh/users/8609627) |
 | ::{ flag=CO }:: | **Colombia** | **[L1ght](https://osu.ppy.sh/users/9050875)**, [ParraCharlie](https://osu.ppy.sh/users/18425848), [Hermite](https://osu.ppy.sh/users/7945286), [sti](https://osu.ppy.sh/users/1271807) |
-| ::{ flag=CZ }:: | **Czech Republic** | **[Golden](https://osu.ppy.sh/users/12639462)**, [iTzzMar0](https://osu.ppy.sh/users/13108155), [FlipRop](https://osu.ppy.sh/users/10806437), [ToraThePotato](https://osu.ppy.sh/users/10742918), [nevqr](https://osu.ppy.sh/users/14269506), [Spinasson](https://osu.ppy.sh/users/21448085) |
+| ::{ flag=CZ }:: | **Czechia** | **[Golden](https://osu.ppy.sh/users/12639462)**, [iTzzMar0](https://osu.ppy.sh/users/13108155), [FlipRop](https://osu.ppy.sh/users/10806437), [ToraThePotato](https://osu.ppy.sh/users/10742918), [nevqr](https://osu.ppy.sh/users/14269506), [Spinasson](https://osu.ppy.sh/users/21448085) |
 | ::{ flag=DK }:: | **Denmark** | **[Captain](https://osu.ppy.sh/users/2563435)**, [Tsukani](https://osu.ppy.sh/users/5146144), [Leriola](https://osu.ppy.sh/users/18539549), [melon boy](https://osu.ppy.sh/users/3053382) |
 | ::{ flag=EE }:: | **Estonia** | **[PaskAcc](https://osu.ppy.sh/users/9040795)**, [a720863z](https://osu.ppy.sh/users/18535399), [TkonicRabid](https://osu.ppy.sh/users/10480961), [Definedd](https://osu.ppy.sh/users/22750981) |
 | ::{ flag=FI }:: | **Finland** | **[duski](https://osu.ppy.sh/users/6506484)**, [MEGAMELA](https://osu.ppy.sh/users/13613362), [vodnanen](https://osu.ppy.sh/users/10335557), [Antti](https://osu.ppy.sh/users/13281473), [Mazzuli500](https://osu.ppy.sh/users/10648818) |
@@ -100,7 +102,85 @@ The osu!taiko World Cup 2023 is run by various community members.
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad463970c6b5c22f623fcefd8d5e63d#file-twc-2023-player-list-csv). 
 
+## Match schedule: Round of 16
+
+### Saturday, 1 April 2023
+
+| Team A | Team B | Match time |
+| --: | :-- | :-- |
+| China ::{ flag=CN }:: | ::{ flag=DE }:: Germany | [Apr 1 (Sat) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230401T090000&p1=1440&p2=33&p3=37) |
+| Denmark ::{ flag=DK }:: | ::{ flag=RU }:: Russian Federation | [Apr 1 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230401T120000&p1=1440&p2=69&p3=166) |
+| Portugal ::{ flag=PT }:: | ::{ flag=ID }:: Indonesia | [Apr 1 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230401T130000&p1=1440&p2=133&p3=108) |
+| Netherlands ::{ flag=NL }:: | ::{ flag=AR }:: Argentina | [Apr 1 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230401T140000&p1=1440&p2=16&p3=51) |
+| Switzerland ::{ flag=CH }:: | ::{ flag=PL }:: Poland | [Apr 1 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230401T160000&p1=1440&p2=270&p3=262) |
+| United Kingdom ::{ flag=GB }:: | ::{ flag=CL }:: Chile | [Apr 1 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230401T180000&p1=1440&p2=136&p3=232) |
+| France ::{ flag=FR }:: | ::{ flag=CA }:: Canada | [Apr 1 (Sat) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230401T190000&p1=1440&p2=195&p3=188) |
+| United States ::{ flag=US }:: | ::{ flag=NZ }:: New Zealand | [Apr 1 (Sat) 23:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230401T230000&p1=1440&p2=263&p3=264) |
+
+### Sunday, 2 April 2023
+
+| Team A | Team B | Match time |
+| --: | :-- | :-- |
+| Australia ::{ flag=AU }:: | ::{ flag=MX }:: Mexico | [Apr 2 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230402T030000&p1=1440&p2=57&p3=155) |
+| Taiwan ::{ flag=TW }:: | ::{ flag=MY }:: Malaysia | [Apr 2 (Sun) 06:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230402T060000&p1=1440&p2=241&p3=122) |
+| Japan ::{ flag=JP }:: | ::{ flag=PH }:: Philippines | [Apr 2 (Sun) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230402T080000&p1=1440&p2=248&p3=145) |
+| Hong Kong ::{ flag=HK }:: | ::{ flag=CZ }:: Czechia | [Apr 2 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230402T100000&p1=1440&p2=102&p3=204) |
+| Vietnam ::{ flag=VN }:: | ::{ flag=ES }:: Spain | [Apr 2 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230402T110000&p1=1440&p2=95&p3=141) |
+| Singapore ::{ flag=SG }:: | ::{ flag=NO }:: Norway | [Apr 2 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230402T120000&p1=1440&p2=236&p3=187) |
+| South Korea ::{ flag=KR }:: | ::{ flag=BR }:: Brazil | [Apr 2 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230402T140000&p1=1440&p2=235&p3=45) |
+| Italy ::{ flag=IT }:: | ::{ flag=FI }:: Finland | [Apr 2 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230402T150000&p1=1440&p2=215&p3=101) |
+
 ## Mappools
+
+### Round of 16
+
+**[Download the mappack here (66 MB)](https://drive.google.com/uc?id=1m75THvxZQ_d9adBFBg7_6X-6hMWAgApf)**
+
+- No Mod
+  1. [Plum - Tempest (Capu) \[X\]](https://osu.ppy.sh/beatmapsets/1963578#taiko/4069679)
+  2. [Toromaru - Curiosity (Lumenite-) \[Killed the Cat\]](https://osu.ppy.sh/beatmapsets/1963577#taiko/4069677)
+  3. [LeaF - ATHAZA (Faputa) \[BLOOM\]](https://osu.ppy.sh/beatmapsets/1257077#taiko/2612133)
+  4. [Magnetude - Falling (Cut Ver.) (clockbite) \[Into The Deep\]](https://osu.ppy.sh/beatmapsets/1963585#taiko/4069755)
+- Hidden
+  1. [RiraN - Lose Control (Jonarwhal) \[Let's play a game\]](https://osu.ppy.sh/beatmapsets/1963693#taiko/4070008)
+  2. [Hino Isuka - Wonderful Paradise (uone) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1963694#taiko/4070010)
+- Hard Rock
+  1. [Cinamoro - Another (Hivie) \[Illusion\]](https://osu.ppy.sh/beatmapsets/1963582#taiko/4069722)
+  2. [Lime - Chronomia (Nwolf) \[Oni\]](https://osu.ppy.sh/beatmapsets/1963559#taiko/4069646)
+- Double Time
+  1. [BlackY - Howling Moon (komasy) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1963854#taiko/4070768)
+  2. [Zekk - SUMMER (\_Rise) \[Oni\]](https://osu.ppy.sh/beatmapsets/1963718#taiko/4070069)
+- FreeMod
+  1. [Zekk - Duplication (eiri-) \[Facsimile\]](https://osu.ppy.sh/beatmapsets/1963847#taiko/4070755)
+  2. [Zenpaku - Blast+ feat. DEMONDICE (Burak) \[Odyssey\]](https://osu.ppy.sh/beatmapsets/1963586#taiko/4069758)
+  3. [Morimori Atsushi - PUPA (uma Remix) (Lumenite-) \[Inner Oni (Edit)\]](https://osu.ppy.sh/beatmapsets/1591364#taiko/4069678)
+- Tiebreaker
+  1. **[Camellia - fastest crash (Camellia's "paroxysmal" Hitech Remix) (Alchyr) \[impact\]](https://osu.ppy.sh/beatmapsets/1963587#taiko/4069759)**
+
+### Round of 32
+
+**[Download the mappack here (83 MB)](https://drive.google.com/uc?id=1iRH0Yk6l-l3xGbR8R-DmYPYoLGCd-VnF)**
+
+- No Mod
+  1. [Kola Kid - spaceman (Gamelan4) \[freedom\]](https://osu.ppy.sh/beatmapsets/1108777#taiko/2317154)
+  2. [Sobrem x Silentroom - Random (rubies87) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1627748#taiko/3323050)
+  3. [Rabbit House - Randa no Hen feat. Mitchell (fieryrage) \[i am the taiko player now\]](https://osu.ppy.sh/beatmapsets/1959471#taiko/4060306)
+  4. [Waterflame - Time Machine (Cut Ver.) (Fynbi) \[Shift\]](https://osu.ppy.sh/beatmapsets/1959541#taiko/4060422)
+- Hidden
+  1. [Yuyoyuppe - Kami no Kotoba (Cut Ver.) (Hivie) \[Sorrow (TWC Edit)\]](https://osu.ppy.sh/beatmapsets/1959510#taiko/4060369)
+  2. [MisoilePunch - Overrrload!! (iloveyou4ever) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1837749#taiko/3773552)
+- Hard Rock
+  1. [m108 - Crescent Sakura (Antti) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1449942#taiko/2981326)
+  2. [Se-U-Ra - F-Rozenette (ikin5050) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1959488#taiko/4060333)
+- Double Time
+  1. [Blue Stahli - Blue Stahli (Jaltzu) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1576838#taiko/3221023)
+  2. [wotoha - Digital Life Hacker (BlackBN) \[Irone's Oni\]](https://osu.ppy.sh/beatmapsets/1522733#taiko/3119398)
+- FreeMod
+  1. [Redside - Sidequest (Maimaing) \[Taikoquest\]](https://osu.ppy.sh/beatmapsets/1959473#taiko/4060309)
+  2. [Tokyo Machine - OKAY (trollocat) \[INNER ONI\]](https://osu.ppy.sh/beatmapsets/1198443#taiko/2495986)
+  3. [antiPLUR - One Life Left to Live (Nwolf) \[Last Stand\]](https://osu.ppy.sh/beatmapsets/1198823#taiko/2496686)
+- Tiebreaker
+  1. **[FRASER EDWARDS - The Reckoning (Garpo) \[Oni\]](https://osu.ppy.sh/beatmapsets/1959475#taiko/4060311)**
 
 ### Qualifiers
 
@@ -121,6 +201,83 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad
   2. [kakichoco - Hakudou (Nardoxyribonucleic) \[Oni\]](https://osu.ppy.sh/beatmapsets/1955347#taiko/4049875)
 - FreeMod
   1. [Zekk - ReIMEI (cdh) \[AsHITA\]](https://osu.ppy.sh/beatmapsets/1955236#taiko/4049602)
+
+## Match results
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1apoAu1BXTcV2zpbXHSm_Z4p-v5xUmPEmPSpNDPCAVMA?rm=minimal).
+
+### Round of 32
+
+Saturday, 25 March 2023:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Italy** ::{ flag=IT }:: | **5** | 0 | ::{ flag=AU }:: Australia | [#1](https://osu.ppy.sh/community/matches/107568728) |
+| **United Kingdom** ::{ flag=GB }:: | **5** | 0 | ::{ flag=HK }:: Hong Kong | [#1](https://osu.ppy.sh/community/matches/107569076) |
+| **Japan** ::{ flag=JP }:: | **5** | 0 | ::{ flag=DK }:: Denmark | [#1](https://osu.ppy.sh/community/matches/107570201) |
+| **Philippines** ::{ flag=PH }:: | **5** | 2 | ::{ flag=RU }:: Russian Federation | [#1](https://osu.ppy.sh/community/matches/107574869) |
+| **United States** ::{ flag=US }:: | **5** | 1 | ::{ flag=PT }:: Portugal | [#1](https://osu.ppy.sh/community/matches/107576101) |
+| **Finland** ::{ flag=FI }:: | **5** | 0 | ::{ flag=MX }:: Mexico | [#1](https://osu.ppy.sh/community/matches/107577491) |
+
+Sunday, 26 March 2023:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Indonesia ::{ flag=ID }:: | 2 | **5** | ::{ flag=NZ }:: **New Zealand** | [#1](https://osu.ppy.sh/community/matches/107591638) |
+| **China** ::{ flag=CN }:: | **5** | 0 | ::{ flag=NL }:: Netherlands | [#1](https://osu.ppy.sh/community/matches/107592857) |
+| **Malaysia** ::{ flag=MY }:: | **5** | 1 | ::{ flag=ES }:: Spain | [#1](https://osu.ppy.sh/community/matches/107594416) |
+| **Germany** ::{ flag=DE }:: | **5** | 0 | ::{ flag=AR }:: Argentina | [#1](https://osu.ppy.sh/community/matches/107595218) |
+| **South Korea** ::{ flag=KR }:: | **5** | 0 | ::{ flag=SG }:: Singapore | [#1](https://osu.ppy.sh/community/matches/107595293) |
+| **France** ::{ flag=FR }:: | **5** | 0 | ::{ flag=CH }:: Switzerland | [#1](https://osu.ppy.sh/community/matches/107595258) |
+| **Taiwan** ::{ flag=TW }:: | **5** | 0 | ::{ flag=VN }:: Vietnam | [#1](https://osu.ppy.sh/community/matches/107596317) |
+| **Brazil** ::{ flag=BR }:: | **5** | 1 | ::{ flag=NO }:: Norway | [#1](https://osu.ppy.sh/community/matches/107601231) |
+| **Chile** ::{ flag=CL }:: | **5** | 0 | ::{ flag=CZ }:: Czechia | [#1](https://osu.ppy.sh/community/matches/107601381) |
+| **Canada** ::{ flag=CA }:: | **5** | 0 | ::{ flag=PL }:: Poland | [#1](https://osu.ppy.sh/community/matches/107602430) |
+
+### Qualifiers
+
+The final standings for the Qualifier stage can be found at the following [spreadsheet](https://docs.google.com/spreadsheets/d/1CbqJJuGEPjObjSS40BqfbZfi5On-osqtWECKq9BLGKE?rm=minimal).
+
+| Seed | Country | rank sum[^qualifiers-seeding] | avg. score[^qualifiers-tiebreaker] |
+| :-: | :-- | :-- | :-- |
+| #1 | ::{ flag=JP }:: Japan | 15 | 3,188,549 |
+| #2 | ::{ flag=US }:: United States | 38 | 3,150,243 |
+| #3 | ::{ flag=TW }:: Taiwan | 42 | 3,151,622 |
+| #4 | ::{ flag=IT }:: Italy | 64 | 3,108,182 |
+| #5 | ::{ flag=KR }:: South Korea | 65 | 3,133,854 |
+| #6 | ::{ flag=FR }:: France | 67 | 3,122,894 |
+| #7 | ::{ flag=GB }:: United Kingdom | 75 | 3,112,485 |
+| #8 | ::{ flag=CN }:: China | 78 | 3,106,324 |
+| #9 | ::{ flag=DE }:: Germany | 80 | 3,118,375 |
+| #10 | ::{ flag=CL }:: Chile | 90 | 3,102,489 |
+| #11 | ::{ flag=CA }:: Canada | 97 | 3,072,844 |
+| #12 | ::{ flag=BR }:: Brazil | 125 | 3,022,580 |
+| #13 | ::{ flag=FI }:: Finland | 127 | 3,048,516 |
+| #14 | ::{ flag=MY }:: Malaysia | 130 | 3,053,763 |
+| #15 | ::{ flag=ID }:: Indonesia | 162 | 2,948,985 |
+| #16 | ::{ flag=PH }:: Philippines | 166 | 2,909,632 |
+| #17 | ::{ flag=RU }:: Russian Federation | 169 | 2,890,699 |
+| #18 | ::{ flag=NZ }:: New Zealand | 184 | 2,923,327 |
+| #19 | ::{ flag=ES }:: Spain | 196 | 2,846,605 |
+| #20 | ::{ flag=MX }:: Mexico | 216 | 2,824,348 |
+| #21 | ::{ flag=NO }:: Norway | 217 | 2,778,873 |
+| #22 | ::{ flag=PL }:: Poland | 225 | 2,805,191 |
+| #23 | ::{ flag=CZ }:: Czechia | 237 | 2,747,543 |
+| #24 | ::{ flag=AR }:: Argentina | 237 | 2,712,566 |
+| #25 | ::{ flag=NL }:: Netherlands | 244 | 2,738,199 |
+| #26 | ::{ flag=HK }:: Hong Kong | 246 | 2,736,969 |
+| #27 | ::{ flag=CH }:: Switzerland | 247 | 2,692,935 |
+| #28 | ::{ flag=SG }:: Singapore | 271 | 2,626,553 |
+| #29 | ::{ flag=AU }:: Australia | 283 | 2,575,849 |
+| #30 | ::{ flag=VN }:: Vietnam | 295 | 2,498,277 |
+| #31 | ::{ flag=PT }:: Portugal | 297 | 2,513,787 |
+| #32 | ::{ flag=DK }:: Denmark | 312 | 2,309,432 |
+| #33 | ::{ flag=PE }:: Peru | 322 | 2,266,169 |
+| #34 | ::{ flag=CO }:: Colombia | 341 | 2,028,499 |
+| #35 | ::{ flag=EE }:: Estonia | 351 | 1,923,887 |
+| #36 | ::{ flag=LV }:: Latvia | 359 | 1,834,846 |
+| #37 | ::{ flag=AT }:: Austria | 360 | 1,771,295 |
+| #38 | ::{ flag=LT }:: Lithuania | 380 | 1,271,631 |
 
 ## Ruleset
 
@@ -177,7 +334,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad
    - Captains are allowed to conduct and coordinate "tryouts", tests to gauge player aptitude, on their own terms.
    - Captains are allowed, at any time, to transfer their role to other prospective team members. Once given, only the new captain may assign the captaincy to another player.
    - **Teams that do not not send their team list by March 9, 2023 (23:59 UTC) will be disqualified from the competition.**
-3. To ensure valid registrations, every prospective participant will be manually checked by the [account support team](/wiki/People/The_Team/Account_support_team), in a manner similar to the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) that is offered to community tournaments.
+3. To ensure valid registrations, every prospective participant will be manually checked by the [account support team](/wiki/People/Account_support_team), in a manner similar to the [tournament screening](/wiki/Tournaments/Official_support#tournament-screening) that is offered to community tournaments.
    - Every registered user will be assigned to their respective country's candidate list.
    - To be successfully accepted on the list, players are required to be placed #5000 or higher on the osu!taiko global ranking, and not have violated the [osu! community rules](/wiki/Rules) within the last 12 months.
 4. All successfully formed teams will be published after the registration phase on this page.
@@ -187,7 +344,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad
 ### Qualifier instructions
 
 1. In the Qualifier stage, all teams will play a specific pool designed by the mappool selectors.
-2. The mappool will contain 5 brackets: [NoMod](/wiki/Game_modifier#nomod), [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock), [Double Time](/wiki/Game_modifier/Double_Time), and [FreeMod](/wiki/Game_modifier#freemod). There will be no tiebreakers for this stage.
+2. The mappool will contain 5 brackets: [NoMod](/wiki/Gameplay/Game_modifier#nomod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time), and [FreeMod](/wiki/Gameplay/Game_modifier#freemod). There will be no tiebreakers for this stage.
 3. The Qualifier pool will consist of 10 maps. There will be 3 maps under the No Mod bracket, 2 maps for the Hidden, Hard Rock, and Double Time brackets, and 1 map for the FreeMod bracket.
 4. Teams will be asked to play the mappool twice at a designated time. The team's best playthrough will be used for seeding.
 5. The mappool is to be played according to the order listed on this page.
@@ -234,22 +391,22 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad
 ### Mappool instructions
 
 1. Every stage will have its own mappool.
-2. Each mappool consists of 5 brackets: [NoMod](/wiki/Game_modifier#nomod), [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock), [Double Time](/wiki/Game_modifier/Double_Time) and [FreeMod](/wiki/Game_modifier#freemod).
+2. Each mappool consists of 5 brackets: [NoMod](/wiki/Gameplay/Game_modifier#nomod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time) and [FreeMod](/wiki/Gameplay/Game_modifier#freemod).
 3. The mappool sizes are as follows:
    - Qualifiers: 10 beatmaps
    - Round of 32 and Round of 16: 14 beatmaps
    - Quarterfinals and Semifinals: 15 beatmaps
    - Finals and Grand Finals: 16 beatmaps
 4. Each mappool has one tiebreaker, except for the Qualifiers.
-5. The NoMod bracket will be played with the [No Fail](/wiki/Game_modifier/No_Fail) mod activated.
-6. The [Hidden](/wiki/Game_modifier/Hidden), [Hard Rock](/wiki/Game_modifier/Hard_Rock) and [Double Time](/wiki/Game_modifier/Double_Time) brackets will be played with the respective mods activated along with the No Fail mod.
-7. The [FreeMod](/wiki/Game_modifier#freemod) bracket will have Free Mods activated. The valid mod combinations for each player are:
-   - [NoMod](/wiki/Game_modifier#nomod) – no mods selected
+5. The NoMod bracket will be played with the [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) mod activated.
+6. The [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock) and [Double Time](/wiki/Gameplay/Game_modifier/Double_Time) brackets will be played with the respective mods activated along with the No Fail mod.
+7. The [FreeMod](/wiki/Gameplay/Game_modifier#freemod) bracket will have Free Mods activated. The valid mod combinations for each player are:
+   - [NoMod](/wiki/Gameplay/Game_modifier#nomod) – no mods selected
    - Hidden
    - Hard Rock
    - Hidden + Hard Rock
 8. For FreeMod, each team is **required** to have both Hidden **and** Hard Rock selected among its players. A player may shoulder all the mods for their team (e.g. one player selects Hidden + Hard Rock, and the remaining players select no mods (NoMod)), or it may be split among all members (e.g. the first player selects Hidden, the second selects Hard Rock, and the third selects no mods (No Mod)). Teams may "overmod", that is, select more mods than what is required.
-9. Failed scores will be counted. To that end, the [No Fail](/wiki/Game_modifier/No_Fail) mod will be enforced on every beatmap.
+9. Failed scores will be counted. To that end, the [No Fail](/wiki/Gameplay/Game_modifier/No_Fail) mod will be enforced on every beatmap.
    - Teams that purposefully disregard this instruction and team fail as a result will lose said game.
 10. The tiebreaker will be played under FreeMod conditions, but players will be exempt from the mod requirement.
 
@@ -266,3 +423,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad
    - **Do not ask for a reschedule unless it is absolutely necessary. The tournament managers reserve the right to deny any rescheduling request.**
    - Late reschedule requests will not be accepted under any circumstances.
 6. Captains are responsible for their team's availability.
+
+## Notes
+
+[^qualifiers-seeding]: Used as the main seeding method
+[^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rank sum

@@ -15,7 +15,7 @@ tags:
 
 **Single-Tapping** ist ein Tippstil für [osu!](/wiki/Game_mode/osu!), bei dem Spieler nur eine Taste auf ihrer Tastatur (standardmäßig `Z` oder `X`) benutzen, um Circles zu klicken, Slider zu verschieben und Spinner zu spinnen. Diese Spielweise ist bei Spielern aller Fähigkeitslevel zu finden und ist die einfachste zu Lernen.
 
-Trotz des Namens spielen viele Spieler mit Single-Tapping nicht immer mit einer Taste. Die meisten bevorzugen es, alles außer schnelle [Streams](/wiki/Beatmap/Pattern/Stream), [Stacks](/wiki/Mapping_techniques/Stack) und Burst-Streams mit Single-Tapping zu bewältigen. In diesem Fall wählen sie oft [Alternating](/wiki/Play_style/Alternating) und/oder [Double-Tapping](/wiki/Play_style/Double_tapping).
+Trotz des Namens spielen viele Spieler mit Single-Tapping nicht immer mit einer Taste. Die meisten bevorzugen es, alles außer schnelle [Streams](/wiki/Beatmap/Pattern/osu!/Stream), [Stacks](/wiki/Beatmapping/Mapping_techniques/Stack) und Burst-Streams mit Single-Tapping zu bewältigen. In diesem Fall wählen sie oft [Alternating](/wiki/Gameplay/Play_style/Alternating) und/oder [Double-Tapping](/wiki/Gameplay/Play_style/Double_tapping).
 
 ## Argumente
 
