@@ -257,6 +257,12 @@ Ces musiques ont été [annoncées](https://osu.ppy.sh/home/news/2023-02-01-twin
 | :-: | :-: | :-- |
 | [ptar124 - AmbidextrouS \~The Alchemist of The Left x The Sage of The Right\~](https://soundcloud.com/part-lerts/axs-7th-grand-finals-tiebreaker-ambidextrous-x) | [#1](https://osu.ppy.sh/beatmapsets/1698560) | Tiebreaker des Grandes Finales |
 
+#### ![](/wiki/shared/mode/osu.png) Badly Wood Cup
+
+| Musique | Beatmap | Notes |
+| :-: | :-: | :-- |
+| Daily197 - Sirius | [#1](https://osu.ppy.sh/beatmapsets/1964081) | Tiebreaker des Grandes Finales |
+
 #### ![](/wiki/shared/mode/osu.png) Charlie's Perfect Math Class
 
 | Musique | Beatmap | Notes |
