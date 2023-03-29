@@ -55,7 +55,7 @@ Actividades: [Beatmapping](/wiki/Beatmapping) • [Técnicas para mapping](/wiki
 </div>
 <div class="wiki-main-page-panel">
 
-# Envío y clasificación de Beatmap
+# Envío y clasificación de beatmaps
 
 La clasificación es el proceso de obtener una tabla de clasificación para un beatmap, lo que lo hace más popular y reconocido. Descubra lo que se necesita para recorrer este camino y cómo aumentar sus posibilidades de éxito a través de las revisiones de su beatmap, así como los procedimientos de control de calidad y el proceso de clasificación.
 
@@ -111,7 +111,7 @@ Organizaciones: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
 osu! no hubiera sido posible sin la ayuda de muchos usuarios con el desarrollo, mantenimiento y gestión de la comunidad: su esfuerzo, tiempo y dedicación hacen que el juego viva y prospere.
 
-[osu! team](/wiki/People/osu!_team) • [Desarrolladores](/wiki/People/Developers) • [Global Moderation Team](/wiki/People/Global_Moderation_Team) • [Artistas destacados](/wiki/People/Featured_Artists) • [Support Team](/wiki/People/Support_Team) • [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Equipo de Project Loved](/wiki/People/Project_Loved_Team) • [Beatmap Spotlight Curators](/wiki/People/Beatmap_Spotlight_Curators)
+[osu! team](/wiki/People/osu!_team) • [Desarrolladores](/wiki/People/Developers) • [Global Moderation Team](/wiki/People/Global_Moderation_Team) • [Artistas destacados](/wiki/People/Featured_Artists) • [Support Team](/wiki/People/Support_Team) • [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Project Loved Team](/wiki/People/Project_Loved_Team) • [Beatmap Spotlight Curators](/wiki/People/Beatmap_Spotlight_Curators)
 
 [Contribuidores de la comunidad](/wiki/People/Community_Contributors) • [Grupo de usuarios](/wiki/People/User_group) • [Usuarios con títulos únicos](/wiki/People/Users_with_unique_titles) • [Comité de torneos](/wiki/People/Tournament_Committee) • [Comité de puntos de rendimiento](/wiki/People/Performance_Points_Committee) • [Mantenedores de la osu! wiki](/wiki/People/osu!_wiki_maintainers)
 
