@@ -10,7 +10,7 @@ Le **collaborazioni di beatmap**, o ***collabs***, sono singole [difficoltà](/w
 
 ## Descrizione
 
-Le collaborazioni di beatmap di solito hanno la parola "Collab" o più nomi utente attaccati al loro nome della difficoltà o alla [descrizione della beatmap](/wiki/Beatmap/Beatmap_description), anche se non è un requisito per i [criteri di classificazione](/wiki/Ranking_Criteria). È anche comune che i collaboratori più assidui inventino amalgami dei loro nomi utente[^nome-esempio] e li usino in modo coerente per tutta la loro carriera di mapping.
+Le collaborazioni di beatmap di solito hanno la parola "Collab" o più nomi utente attaccati al loro nome della difficoltà o alla [descrizione della beatmap](/wiki/Beatmap/Beatmap_description), anche se non è un requisito per i [criteri di classificazione](/wiki/Ranking_Criteria). È anche comune che i collaboratori più assidui inventino amalgami dei loro nomi utente[^name-example] e li usino in modo coerente per tutta la loro carriera di mapping.
 
 Il processo di mapping di solito inizia con l'[host della beatmap](/wiki/Beatmap/Beatmap_host) che divide un modello di beatmap pre-[timed](/wiki/Beatmapping/Timing) in diverse parti, segnandole sulla [timeline](/wiki/Client/Beatmap_editor/Timelines) usando dei segnalibri in base alla struttura musicale della canzone. I segmenti relativamente lunghi, come le strofe, vengono solitamente suddivisi ogni 4 o 8 [battute](/wiki/Music_theory/Measure). Queste parti vengono poi assegnate a ciascun collaboratore secondo una distribuzione concordata, ad esempio per segmenti pari o dispari nel caso di due mappers.
 
