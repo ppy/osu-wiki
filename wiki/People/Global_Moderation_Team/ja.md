@@ -106,7 +106,9 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 | ::{ flag=GB }:: [Pope Gadget](https://osu.ppy.sh/users/2288341) |  | Mapping/modding コミュニティ モデレーション |
 | ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) |  | Mapping/modding コミュニティ モデレーション |
 | ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) | マレー語 | チャットモデレーション |
+| ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | ポーランド語 | フォーラムモデレーション |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | スペイン語 | チャットモデレーション |
+| ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | オランダ語、日本語 | フォーラムモデレーション |
 | ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | ドイツ語 | フォーラムモデレーション |
 | ::{ flag=KR }:: [ruexia](https://osu.ppy.sh/users/385069) | 韓国語 | チャットモデレーション |
 | ::{ flag=JP }:: [S o h](https://osu.ppy.sh/users/2234772) | 日本語 | チャットモデレーション |
@@ -120,7 +122,7 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 | ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927) | フィリピノ語 | チャットモデレーション |
 | ::{ flag=TH }:: [Trigonoculus](https://osu.ppy.sh/users/7627013) | タイ語 | チャットモデレーション |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | スペイン語 | テクニカルサポート |
-| ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | ポーランド語 | チャットモデレーション |
+| ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | ポーランド語 | チャットモデレーション、mapping/modding コミュニティ モデレーション |
 | ::{ flag=PL }:: [Yason](https://osu.ppy.sh/users/2574392) | ポーランド語 | チャットモデレーション |
 | ::{ flag=HM }:: [Zallius](https://osu.ppy.sh/users/55) |  | チャットモデレーション |
 

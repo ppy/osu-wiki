@@ -6,4 +6,6 @@ The vote for QAT leaders was handled through a vote of all [Beatmap Nominators](
 
 The QAT leaders were replaced with [-Mo-](https://osu.ppy.sh/users/2202163), [Mao](https://osu.ppy.sh/users/2204515), and [Ascendance](https://osu.ppy.sh/users/2931883) throughout the next two years.
 
-By 2020, there was no need for a formal QAT (eventually [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (*NAT*)) leader position. The group is self-moderated currently.
+By 2020, there was no need for a formal QAT (eventually [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (*NAT*)) leader position, which lead to it being discountinued.
+
+As of March 2023, the NAT has decided to re-adopt the concept of leadership; for more information, see [Nomination Assessment Team § NAT Leadership](/wiki/People/Nomination_Assessment_Team#nat-leadership).
