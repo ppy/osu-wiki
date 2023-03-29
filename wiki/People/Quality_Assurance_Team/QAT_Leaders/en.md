@@ -8,4 +8,4 @@ The QAT leaders were replaced with [-Mo-](https://osu.ppy.sh/users/2202163), [Ma
 
 By 2020, there was no need for a formal QAT (eventually [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) (*NAT*)) leader position, which lead to it being discountinued.
 
-As of March 2023, the NAT has decided to re-adopt the concept of leadership, further information can be found on the [NAT Leadership sublisting](wiki/People/Nomination_Assessment_Team#nat-leadership).
+As of March 2023, the NAT has decided to re-adopt the concept of leadership; for more information, see [Nomination Assessment Team § NAT Leadership](/wiki/People/Nomination_Assessment_Team#nat-leadership).
