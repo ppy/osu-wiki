@@ -84,7 +84,7 @@ Cela est principalement dû aux changements apportés au système de jugement. P
 |  |  |
 | :-- | :-: |
 | Casse la rétrocompatibilité | Oui |
-| Effet annulé par le mod Classic| Non |
+| Effet annulé par le mod Classic | Non |
 | Modifié intentionnellement | Oui |
 | Nécessité d'une réflexion plus approfondie | Oui |
 
