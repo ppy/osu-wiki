@@ -7,7 +7,7 @@ tags:
 
 *Nota: Las listas de los grupos de usuarios Chat Bots y Announce no son públicas.*
 
-![Ejemplo de insignia de grupo de usuarios](img/user-group-badge.png "Insignia de grupo de usuarios en la página de perfil de un usuario")
+![Ejemplo de insignias de grupos de usuarios](img/user-group-badge.png "Insignias de grupos de usuarios en la página de perfil de un usuario")
 
 A continuación se enumeran los grupos de usuarios, la mayoría de los cuales están compuestos por miembros de la comunidad de osu! que ayudan a mantener osu!. La mayoría de estos grupos de usuarios se pueden reconocer por los colores del [foro](/wiki/Community/Forum), los colores [del chat del juego](/wiki/Client/Interface/Chat_console), los [títulos de usuario](/wiki/Community/User_title) y/o las insignias de los grupos de usuarios.
 
