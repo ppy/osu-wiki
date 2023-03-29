@@ -14,8 +14,8 @@ An **announcement message** is a special type of message that's intended for sen
 - The 1024 character limit instead of 450
 - Markdown syntax support[^note-images] for text formatting
 - Delivery to multiple users at once
-- Ability to bypass the `block private messages from people not on your friends list` setting.
-- Normal users cannot reply to announcement messages.
+- Ability to bypass the `block private messages from people not on your friends list` setting
+- Normal users cannot reply to announcement messages
 
 ## Eligibility
 
