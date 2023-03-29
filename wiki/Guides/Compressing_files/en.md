@@ -52,7 +52,6 @@ To begin, download and install [Handbrake](https://handbrake.fr/) first then fol
    - `Framerate (FPS)` set to `Same as source` with `Constant Framerate` selected.
    - `Constant Quality` set to a value of between 20 to 25, with smaller values resulting in larger, higher quality files.
    - `Encoder Profile` set to `High` to use the H.264 High profile.
-
 5. Depending on how long you are willing to spend time encoding, change the `Encoder Preset` under `Encoder Options` to a preset from `Ultrafast` to `Placebo` with `Veryslow` being recommended. Slower presets results in better video quality and may also reduce video file size.
 
 **NOTE:** Do not use the `Placebo` preset as it takes much longer to encode than `Veryslow` for very little improvement in quality or file size.
@@ -118,12 +117,11 @@ To begin, download and install [Audacity](https://www.audacityteam.org/) first t
 3. Change the export options to help compress your file depending on which format you choose:
    - For MP3, use `Preset` and select the quality as `Medium, 145-185 kbps`. 
    - For OGG (Vorbis), keep the `Quality` slider at `5` which is the default value.
-
 4. Pick a file location and type a file name to save the file, then click `Save` and a new dialog will appear for you to enter metadata.
 
 ![Export settings](img/exportsettings-audacity.png "Export settings")
 
-6. Once done entering metadata, which can be left blank if desired, click `OK` to start re-encoding.
+5. Once done entering metadata, which can be left blank if desired, click `OK` to start re-encoding.
 
 **NOTE:** Clicking `Cancel` on the metadata dialog will result in your audio file not being re-encoded.
 
@@ -173,12 +171,14 @@ MediaInfo is very easy to use. After installing, open the file with MediaInfo an
 2. Change the view from `Basic` to either `Tree`, `Text`, or `HTML`. The default `Basic` view only displays a condensed series of information.
 
 For video, technical information that are most important will be the following:
+
 - `Format` and `Format/Info`, which must be `AVC` and `Advanced Video Codec`, respectively.
 - `Width`, which must be at or below `1280 pixels`.
 - `Height`, which must be at or below `720 pixels`.
 - `Frame rate mode`, which must be `Constant`.
 
 For audio, technical information that are most important will instead be the following:
+
 - `Overall bitrate`, which must be between `192kbps` and `128kbps` as specified in the ranking criteria.
 - For MP3, make sure to look for:
   - `Format`, which must be `MPEG Audio`.
@@ -188,4 +188,3 @@ For audio, technical information that are most important will instead be the fol
   - `Format`, which must be both `OGG` and `Vorbis`.
 
 If everything seems correct and the file size is small enough, then you can put either re-encoded audio or video file into your beatmap.
-
