@@ -1,7 +1,3 @@
----
-stub: true
----
-
 # Skin
 
 A **skin** is a set of graphics (images) and custom sample sets (audio clips) that replace the default ones used by osu!. Many players use skins to allow for a more customised user experience. Most of the important UI elements and sounds in osu! can be "skinned". 
