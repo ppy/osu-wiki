@@ -1,6 +1,6 @@
 # osu! Community Meetings
 
-Die **osu! Community Meetings** sind Diskussionsrunden, die vom [osu!-Team](/wiki/People/The_Team) veranstaltet werden. Das Hauptziel dieser Treffen ist es, jedem die Möglichkeit zu geben, direkt mit den Entwicklern und den für die Verwaltung der Community verantwortlichen Personen zu sprechen, um Probleme zur Diskussion zu stellen oder weitere Überlegungen einzubringen.
+Die **osu! Community Meetings** sind Diskussionsrunden, die vom [osu!-Team](/wiki/People/osu!_team) veranstaltet werden. Das Hauptziel dieser Treffen ist es, jedem die Möglichkeit zu geben, direkt mit den Entwicklern und den für die Verwaltung der Community verantwortlichen Personen zu sprechen, um Probleme zur Diskussion zu stellen oder weitere Überlegungen einzubringen.
 
 Vor langer Zeit, in der [fernen Vergangenheit des Spiels](https://twitter.com/ppy/status/1169256824052170755), veranstaltete das osu!-Team regelmäßig Community-Treffen, bei denen jeder willkommen war, um zu reden. Bei der heutigen Größe des Spiels ist dies nicht mehr möglich, aber über Discord wurde eine Art Warteschlangensystem eingeführt, in dem Fragen einzeln beantwortet werden können.
 
@@ -30,7 +30,7 @@ Das erste osu! Community Meeting fand am 19. September 2021 statt. Alle Treffen 
 
 | Meeting # | Link | Zusammenfassung | Agenda |
 | :-: | :-- | :-- | :-- |
-| 0 | [19. September 2021](https://youtu.be/-LjNll8VYTM) | [Sitzungsnotizen](https://gist.github.com/peppy/08b38cbac56a8b1e88133853a6a8d2fb) | Einführung in diese Meetings, Ranking-Kriterien, Schwierigkeitsgrade und Performance-Punkte, osu!(lazer) im Allgemeinen |
+| 0 | [19. September 2021](https://youtu.be/-LjNll8VYTM) | [Sitzungsnotizen](https://gist.github.com/peppy/08b38cbac56a8b1e88133853a6a8d2fb) | Einführung in diese Meetings, Ranking-Kriterien, Schwierigkeitsgrade und Performance-Punkte, [osu!(lazer)](/wiki/Client/Release_stream/Lazer) im Allgemeinen |
 | 1 | [3. Oktober 2021](https://youtu.be/D3OZCm6szVE) | [Sitzungsnotizen](https://docs.google.com/document/d/1-miPFZySYlYbtPW4G0828taycO1gh7dZ4icfSJCr4uA) | Diverse Fragen aus der Community, Entwicklungs-Update |
 | 2 | [17. Oktober 2021](https://youtu.be/nLT-fLeogrw) | [Sitzungsnotizen](https://docs.google.com/document/d/1wEQjzku_4IzvcWRanu0GkvWiPvb-IB7WzwU7Eyojj2E) | Verschiedene Fragen aus der Community |
 | 3 | [31. Oktober 2021](https://youtu.be/omvZbC7zJUI) | [Sitzungsnotizen](https://docs.google.com/document/d/1bhaMx--chdys8AbzSDOItbv710SVhsww2BYPzQg2rvw) | Verschiedene Fragen aus der Community |

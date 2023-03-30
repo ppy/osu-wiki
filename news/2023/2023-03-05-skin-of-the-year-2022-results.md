@@ -18,15 +18,15 @@ Starting this top 10 off strong, we have [Sagittarius A](https://osu.ppy.sh/comm
 
 ![](/wiki/shared/news/2023-03-05-skin-of-the-year-2022-results/Cosmos.jpg)
 
-Even though we have 2 space themed skins in a row, [RUDEKA](https://osu.ppy.sh/users/13015586)'s [Cosmos](https://osu.ppy.sh/community/forums/topics/1586852?n=1) stays unique with a simple, yet detailed style. With a soothing blue tone being present, along with depictions of the cosmos displayed across the skin, it is easy to how this entry gained **747** votes, which some might think is 20 too many.
+Even though we have 2 space themed skins in a row, [RUDEKA](https://osu.ppy.sh/users/13015586)'s [Cosmos](https://osu.ppy.sh/community/forums/topics/1586852?n=1) stays unique with a simple, yet detailed style. With a soothing blue tone being present, along with depictions of the cosmos displayed across the skin, it is easy to see how this entry gained **747** votes, which some might think is 20 too many.
 
 ![](/wiki/shared/news/2023-03-05-skin-of-the-year-2022-results/The-Memory-of-Mumei.jpg)
 
-A previous contest winner has made their way into the top 10 skins of 2022, so feel free to congratulate [thetasigma](https://osu.ppy.sh/users/6234482) on their 7th place! [The Memory of Mumei](https://osu.ppy.sh/community/forums/topics/1569498) gives off a brass, steampunk vibe with beautiful drawings by several artists, which is why **765** community members considered it worthy of their top 10.
+A previous contest winner has made their way into the top 10 skins of 2022, so feel free to congratulate [thetasigma](https://osu.ppy.sh/users/6234482) on their 7th place! [The Memory of Mumei](https://osu.ppy.sh/community/forums/topics/1569498) gives off a brass, steampunk vibe with beautiful drawings by several artists, which is why **753** community members considered it worthy of their top 10.
 
 ![](/wiki/shared/news/2023-03-05-skin-of-the-year-2022-results/Soumetsu.jpg)
 
-What, this guy again? Not only did [thetasigma](https://osu.ppy.sh/users/6234482) win 2 out of the top 10 places, they also managed to get their 2 entries voted right next to each other! [霜滅 SOUMETSU](https://osu.ppy.sh/community/forums/topics/1628514?n=1) features Ayaka from *Genshin Impact* while only using the Protanopia colour spectrum from the [Chromatic Alteration skinning contest](/wiki/Contests/Skinning_Contest/3), the result of which is a high quality skins worthy of **753** votes.
+What, this guy again? Not only did [thetasigma](https://osu.ppy.sh/users/6234482) win 2 out of the top 10 places, they also managed to get their 2 entries voted right next to each other! [霜滅 SOUMETSU](https://osu.ppy.sh/community/forums/topics/1628514?n=1) features Ayaka from *Genshin Impact* while only using the Protanopia colour spectrum from the [Chromatic Alteration skinning contest](/wiki/Contests/Skinning_Contest/3), the result of which is a high quality skins worthy of **765** votes.
 
 ![](/wiki/shared/news/2023-03-05-skin-of-the-year-2022-results/Whatsapp.jpg)
 
@@ -34,7 +34,7 @@ What, this guy again? Not only did [thetasigma](https://osu.ppy.sh/users/6234482
 
 ![](/wiki/shared/news/2023-03-05-skin-of-the-year-2022-results/Hitori-Gotou.jpg)
 
-Do you like Bocchi the Rock? Do you like the colour pink? Then [Hitori Gotou](https://osu.ppy.sh/community/forums/topics/1695565?n=1) is for you! [Hoshinomori](https://osu.ppy.sh/users/25025133) was able to secure themselves the 5th spot in this contest with **886** votes, all of them being from Bocchi the Rock enjoyers.
+Do you like Bocchi the Rock? Do you like the colour pink? Then [Hitori Gotou](https://osu.ppy.sh/community/forums/topics/1695565?n=1) is for you! [Ayayk](https://osu.ppy.sh/users/25025133) was able to secure themselves the 5th spot in this contest with **886** votes, all of them being from Bocchi the Rock enjoyers.
 
 ![](/wiki/shared/news/2023-03-05-skin-of-the-year-2022-results/Wintherest.jpg)
 

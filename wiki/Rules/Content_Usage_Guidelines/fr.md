@@ -10,7 +10,7 @@ Pour garantir le bon fonctionnement de votre compte, il est recommandé de crée
 
 ## Audio
 
-Nous fournissons aux mappeurs une bibliothèque de musiques sous licence via le programme [Featured Artist](/wiki/Featured_Artists). Chaque musique de [cette liste](https://osu.ppy.sh/beatmaps/artists) est libre d'utilisation dans osu! et ne risque pas d'être supprimée.
+Nous fournissons aux mappeurs une bibliothèque de musiques sous licence via le programme [Featured Artist](/wiki/People/Featured_Artists). Chaque musique de [cette liste](https://osu.ppy.sh/beatmaps/artists) est libre d'utilisation dans osu! et ne risque pas d'être supprimée.
 
 Lorsque vous recherchez des musiques en dehors du catalogue des Featured Artist d'osu!, vérifiez si leur créateur a explicitement indiqué les conditions d'utilisation. Ces informations se trouvent souvent dans les sections de description des plateformes de diffusion de musique d'un artiste (par exemple Bandcamp, Soundcloud, YouTube) ou sur son site web personnel. Si une musique est sous licence [Creative Commons License](https://creativecommons.org/about/cclicenses/) ou est disponible pour un usage non commercial, vous pouvez créer et mettre en ligne une beatmap pour elle en toute sécurité.
 

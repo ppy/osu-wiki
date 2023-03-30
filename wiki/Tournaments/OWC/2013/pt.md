@@ -283,7 +283,7 @@ A Copa do Mundo do osu! 2013 (em inglês, osu! World Cup 2013), também conhecid
 1. A Copa do Mundo do osu! é um torneio com confrontos 4 vs 4 jogadores, sendo um time de cada país.
 2. Os beatmaps para cada rodada serão anunciados pelos selecionadores de Beatmaps com uma semana de antecedência. Apenas esses beatmaps poderão ser utilizados durante as suas respectivas partidas.
    - Um beatmap será usado como tiebreaker, que será apenas jogado em caso de empate.
-   - Existirão subgrupos de mapas a serem jogados exclusivamente com [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) e FreeMod.
+   - Existirão subgrupos de mapas a serem jogados exclusivamente com [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time) e FreeMod.
 3. O agendamento das partidas será proposto pela Administração do Torneio (veja abaixo).
 4. Se não houver nenhum membro da administração ou algum árbitro disponível no momento, a partida será remarcada.
 5. A pontuação dos jogadores que falharam e reviveram será contada.
@@ -348,7 +348,7 @@ A Copa do Mundo do osu! 2013 (em inglês, osu! World Cup 2013), também conhecid
 ### Instruções dos Grupos de Beatmaps
 
 1. Existirá um grupo de beatmaps para a Fase de Grupos, um grupo para as Oitavas de Final, um grupo para as Quartas de final, um grupo para as Semi-finais e um grupo para as Finais.
-2. Cada grupo de beatmaps consiste de 5 subgrupos: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) e FreeMod
+2. Cada grupo de beatmaps consiste de 5 subgrupos: NoMod, [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time) e FreeMod
 3. Cada grupo de beatmaps consiste de 23 beatmaps no total.
 4. Cada grupo de beatmaps terá um tiebreaker.
 5. O subgrupo NoMod será jogado sem nenhum mod específico.

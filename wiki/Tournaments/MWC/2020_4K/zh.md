@@ -10,7 +10,7 @@ tags:
 
 ![MWC 2020 4K 标志](/wiki/shared/news/banners/MWC4k2020.jpg)
 
-**osu!mania 2020 4K 世界杯**（***MWC 4K 2020***）是由 [osu! team](/wiki/People/The_Team) 举办的基于国家/地区间的官方锦标赛。这是 osu!mania 4K 世界杯的第 7 届。
+**osu!mania 2020 4K 世界杯**（***MWC 4K 2020***）是由 [osu! team](/wiki/People/osu!_team) 举办的基于国家/地区间的官方锦标赛。这是 osu!mania 4K 世界杯的第 7 届。
 
 *注意：除非特殊说明，本文所提到的时区均以* **UTC（协调世界时）** *为准。*
 
@@ -41,7 +41,7 @@ tags:
 
 ## 工作人员
 
-osu!mania 2020 4K 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社区成员举办。
+osu!mania 2020 4K 世界杯由 [osu! team](/wiki/People/osu!_team) 和多位社区成员举办。
 
 | 职位 | 成员 |
 | :-- | :-- |
@@ -449,7 +449,7 @@ osu!mania 2020 4K 世界杯由 [osu! team](/wiki/People/The_Team) 和多位社�
 1. 裁判将提前 15 分钟建立多人游戏房间。选手必须在这段时间内聚集。
    - 多人游戏房间设置为 osu!mania，Team-Vs，获胜条件：ScoreV2。 房间名称必须为 “MWC4K2020: (TeamRed) vs (TeamBlue)”。
    - 房间名称中提到的第一个队伍必须是红队，第二个队伍必须是蓝队。
-2. 每个队伍可以在热身期间选择一张谱面。禁止选择带有可疑内容的谱面。所有铺面必须是 osu!mania 4K 模式谱面。
+2. 每个队伍可以在热身期间选择一张谱面。禁止选择带有可疑内容的谱面。所有谱面必须是 osu!mania 4K 模式谱面。
 3. 每队队长可以选择 Ban **一张图**。
 4. 谱面选择权将在两位队长之间交替。
 5. 两位队长必须在 `#multiplayer` 中使用 `!roll`。

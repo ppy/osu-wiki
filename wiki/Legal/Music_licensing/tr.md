@@ -8,7 +8,7 @@ osu!'daki içeriklerin %100'ü (çoğunlukla "[beatmapler](/wiki/Beatmap)" veya 
 
 osu! asla kâr amacı gütmedi – yüklenen içeriklerin reklamını yapmamak veya bunlardan doğrudan kâr elde etmemek için elimizden geleni yapıyoruz (bu türdeki içerikleri istismar etmemek için), ancak bunun genellikle yeterli görülmediğini de anlıyoruz.
 
-Bu oyunu oyun yapan sanatçıları desteklemek adına elimizden geleni yapmak için, kullanıcı bağışlarından elde edilen fazlalık kaynakları müzik lisanslama çalışmaları için harcıyoruz. [Featured Artist](/wiki/Featured_Artists) programımız kapsamında lisans almak ve farkındalığı yaymak için (mevcut içeriklerde ve yeni benzerlerinde yer alan) sanatçılara ulaşma sürecindeyiz.
+Bu oyunu oyun yapan sanatçıları desteklemek adına elimizden geleni yapmak için, kullanıcı bağışlarından elde edilen fazlalık kaynakları müzik lisanslama çalışmaları için harcıyoruz. [Featured Artist](/wiki/People/Featured_Artists) programımız kapsamında lisans almak ve farkındalığı yaymak için (mevcut içeriklerde ve yeni benzerlerinde yer alan) sanatçılara ulaşma sürecindeyiz.
 
 Featured Artist programımıza katılmak isteyen sanatçılar lisanslama müzakereleri için osu!'yla iletişime geçmeye teşvik edilir.
 

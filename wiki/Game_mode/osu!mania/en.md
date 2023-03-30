@@ -28,9 +28,9 @@ Do note that the judgement of a beatmap is determined automatically.
 
 When converting a non-specific beatmap, the default key range would be around 4 to 7 keys.
 
-With the [xK](/wiki/Game_modifier/xK) game modifier, the player can manually set the number of keys from 1 to a total of 9 keys with a score multiplier reduction. However, the game modifier will not work with osu!mania-specific beatmaps.
+With the [xK](/wiki/Gameplay/Game_modifier/xK) game modifier, the player can manually set the number of keys from 1 to a total of 9 keys with a score multiplier reduction. However, the game modifier will not work with osu!mania-specific beatmaps.
 
-With the [Co-Op](/wiki/Game_modifier/Co-op) game modifier, the stage will be split in two, use Co-Op's control scheme, and will allows the player to play from 2 to a total of 18 keys with a score multiplier reduction. Do note that while the preset number of keys will not be doubled on osu!mania-specific beatmaps, it will split the stage in two (left stage priority if odd-numbered), use Co-Op's control scheme, and no score multiplier reduction.
+With the [Co-Op](/wiki/Gameplay/Game_modifier/Co-op) game modifier, the stage will be split in two, use Co-Op's control scheme, and will allows the player to play from 2 to a total of 18 keys with a score multiplier reduction. Do note that while the preset number of keys will not be doubled on osu!mania-specific beatmaps, it will split the stage in two (left stage priority if odd-numbered), use Co-Op's control scheme, and no score multiplier reduction.
 
 #### Speed Change
 
@@ -82,7 +82,7 @@ Health bar regeneration occurs slowly while holding the hold note(s). Depending 
 
 ## Play Styles
 
-*Refer to [Play Styles page under osu!mania](/wiki/Play_style#osu!mania).*
+*Refer to [Play Styles page under osu!mania](/wiki/Gameplay/Play_style#osu!mania).*
 
 ## Controls
 
@@ -148,7 +148,7 @@ There *used to be* two different binding-styles, *Symmetrical* and *Left to Righ
 
 ![Default Key layouts of osu!mania (Co-Op)](/wiki/shared/Mania_key_layouts2.jpg "osu!mania key layout (Co-Op)")
 
-The **[05 March 2015 (2015-03-05) update](https://osu.ppy.sh/home/changelog)** gave osu!mania a new mod called [Co-Op](/wiki/Game_modifier/Co-op). With this mod enabled, a second different set of keys will be given along with the primary set of keys as above.
+The **[05 March 2015 (2015-03-05) update](https://osu.ppy.sh/home/changelog)** gave osu!mania a new mod called [Co-Op](/wiki/Gameplay/Game_modifier/Co-op). With this mod enabled, a second different set of keys will be given along with the primary set of keys as above.
 
 *Symmetrical* key binding for second set.
 
@@ -186,7 +186,7 @@ The **[05 March 2015 (2015-03-05) update](https://osu.ppy.sh/home/changelog)** g
 
 ## Scoring
 
-[Score in osu!mania](/wiki/Gameplay/Score/osu!mania) is capped at 1 million and consists of two parts, each contributing 50% of the total score:
+[Score in osu!mania](/wiki/Gameplay/Score/ScoreV1/osu!mania) is capped at 1 million and consists of two parts, each contributing 50% of the total score:
 
 1. Base score, which is [judgement](/wiki/Gameplay/Judgement/osu!mania)-centred. Judgement determines a hit object's base scoring value (MAX, 300, 200, 100, 50, or 0 in case of a miss).
 2. Bonus score, which is based on judgement and a floating bonus multiplier, which increases when getting a MAX or a 300, and decreases with a 200 or below.
@@ -225,7 +225,7 @@ Enable the `Co-op mode` button to force *Co-Op* game modifier when played, with 
   - Respectively, for a 5K beatmap, using 5K modifier will also not incur any score reduction.
   - Using xK or Co-Op modifier on osu!mania-specific beatmap will not incur any score reduction, too.
 - Mascots for osu!mania are [Mani & Mari](/wiki/Mascots#mani-&-mari).
-- When played by [Auto](/wiki/Game_modifier/Auto), the player name will be *osu!topus*.
+- When played by [Auto](/wiki/Gameplay/Game_modifier/Auto), the player name will be *osu!topus*.
 
 ### History
 

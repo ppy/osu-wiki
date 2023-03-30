@@ -12,7 +12,7 @@ tags:
 
 ![Logo de la MWC 2014](img/logo.jpg)
 
-L'**osu!mania World Cup 2014** (***MWC 2014*** ) est un tournoi d'osu!mania organisé par [l'équipe d'osu!](/wiki/People/The_Team). Il était séparé en un bracket 4K et un bracket 7K et était la première itération de l'osu!mania 4K World Cup et de l'osu!mania 7K World Cup.
+L'**osu!mania World Cup 2014** (***MWC 2014*** ) est un tournoi d'osu!mania organisé par [l'équipe d'osu!](/wiki/People/osu!_team). Il était séparé en un bracket 4K et un bracket 7K et était la première itération de l'osu!mania 4K World Cup et de l'osu!mania 7K World Cup.
 
 ## Calendrier
 
@@ -562,7 +562,7 @@ Cette compétition s'est conclue sur le podium suivant :
 3. Chaque mappool est composé d'une seule catégorie : FreeMod.
 4. Chaque mappool est composé de 10 à 14 beatmaps.
 5. Chaque mappool contient un tiebreaker
-6. La catégorie FreeMod sera jouée avec les mods libres activés. Chaque joueur pourra choisir [Hidden](/wiki/Game_modifier/Hidden), [Flashlight](/wiki/Game_modifier/Flashlight) ou [FadeIn](/wiki/Game_modifier/Fade_In) ou aucun mod.
+6. La catégorie FreeMod sera jouée avec les mods libres activés. Chaque joueur pourra choisir [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight) ou [FadeIn](/wiki/Gameplay/Game_modifier/Fade_In) ou aucun mod.
 7. Le tiebreaker sera joué sous la catégorie FreeMod.
 8. Le nombre de beatmaps FreeMod sera de :
    - 9 durant les phases de poules.

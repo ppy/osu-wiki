@@ -52,7 +52,7 @@ outdated_translation: true
 1. osu! Taiko World Cup 2014 是以国家作队伍单位的三对三比赛。
 2. 每回合比赛的地图，都会于相应的比赛阶段开始前的星期天由 比赛地图选择者 公布。只有被公布的地图才可以在相应的比赛中被选择。
    - 每回合的比赛地图中都会有一张决胜图，该图只有在平局的情况下才会被选择。
-   - 此外，比赛地图列表亦包含规定使用 [Hidden](/wiki/Game_modifier/Hidden)、[HardRock](/wiki/Game_modifier/Hard_Rock)、[DoubleTime](/wiki/Game_modifier/Double_Time) 或 FreeMod 的比赛地图。
+   - 此外，比赛地图列表亦包含规定使用 [Hidden](/wiki/Gameplay/Game_modifier/Hidden)、[HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock)、[DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time) 或 FreeMod 的比赛地图。
 3. 每回合比赛的时间编排都会由主办方决定。
 4. 若没有裁判或主办人员在场，比赛会被延期。
 5. 任何不及格的玩家的得分都不会计算到所属队伍的总分。
@@ -125,7 +125,7 @@ outdated_translation: true
 (翻译未完成)
 
 1. There will be a 1 mappool for the Group Stage, 1 mappool for Round 16, 1 mappool for the Quarter-finals, 1 mappool for the Semi-finals and 1 mappool for the Finals.
-2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) and FreeMod
+2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time) and FreeMod
 3. Each mappool consists of 23 maps in total.
 4. Each mappool has one tiebreaker
 5. The NoMod bracket will be played with no modes activated.

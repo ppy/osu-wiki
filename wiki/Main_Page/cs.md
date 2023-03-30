@@ -20,7 +20,7 @@ Důležité články a příručky, které vám pomohou ponořit se do osu!. Pok
 
 [Pravidla](/wiki/Rules) • [Instalace](/wiki/Client/Installation) • [Registrace](/wiki/Registration) • [Centrum nápovědy](/wiki/Help_centre)
 
-[Chat konzole](/wiki/Client/Interface/Chat_console) • [BanchoBot](/wiki/BanchoBot) • [FAQ](/wiki/FAQ) • [Návody](/wiki/Guides) • [Glosář](/wiki/Glossary)
+[Chat konzole](/wiki/Client/Interface/Chat_console) • [BanchoBot](/wiki/BanchoBot) • [FAQ](/wiki/FAQ) • [Návody](/wiki/Guides) • [Glosář](/wiki/Sitemap)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -31,7 +31,7 @@ Jako průvodce světem rytmu, beatu a komba, osu! má co prezentovat. Pochopte h
 
 [Rozhraní](/wiki/Client/Interface) • [Možnosti](/wiki/Client/Options) • [Vizuální nastavení](/wiki/Client/Interface/Visual_settings) • [Odkazy na klávesovou zkratku](/wiki/Client/Keyboard_shortcuts) • [Konfigurační soubor](/wiki/Client/Program_files/User_configuration_file) • [Program files](/wiki/Client/Program_files)
 
-[Formát souborů](/wiki/Client/File_formats): [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format))
+[Formát souborů](/wiki/Client/File_formats): [.osz](/wiki/Client/File_formats/Osz_(file_format)) • [.osk](/wiki/Client/File_formats/Osk_(file_format)) • [.osr](/wiki/Client/File_formats/Osr_(file_format)) • [.osu](/wiki/Client/File_formats/Osu_(file_format)) • [.osb](/wiki/Client/File_formats/Osb_(file_format))
 
 </div>
 <div class="wiki-main-page-panel">
@@ -42,7 +42,7 @@ Vše od klikání na kruhy, údery do bubnů, chytání ovoce až po hraní na s
 
 [Herní módy](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Beatmap](/wiki/Beatmap) • [Obtížnost](/wiki/Beatmap/Difficulty) • [Hit object](/wiki/Hit_object) • [Módy](/wiki/Game_modifier) • [Skóre](/wiki/Gameplay/Score) • [Replay](/wiki/Gameplay/Replay) • [Medajle](/wiki/Medals) • [Multi](/wiki/Client/Interface/Multiplayer)
+[Beatmap](/wiki/Beatmap) • [Obtížnost](/wiki/Beatmap/Difficulty) • [Hit object](/wiki/Gameplay/Hit_object) • [Módy](/wiki/Gameplay/Game_modifier) • [Skóre](/wiki/Gameplay/Score) • [Replay](/wiki/Gameplay/Replay) • [Medajle](/wiki/Medals) • [Multi](/wiki/Client/Interface/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -55,7 +55,7 @@ Sekce: [Složit](/wiki/Client/Beatmap_editor/Compose) • [Design](/wiki/Client/
 
 Komponenty: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Beat snap divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) • [Distance snap](/wiki/Client/Beatmap_editor/Distance_snap) • [Menu](/wiki/Client/Beatmap_editor/Menu) • [SB load](/wiki/Client/Beatmap_editor/SB_Load) • [Časové osy](/wiki/Client/Beatmap_editor/Timelines)
 
-Aktivity: [Beatmapping](/wiki/Beatmapping) • [Mapovací techniky](/wiki/Mapping_techniques) • [Storyboarding](/wiki/Storyboard#storyboarding) • [Skinning](/wiki/Skinning)
+Aktivity: [Beatmapping](/wiki/Beatmapping) • [Mapovací techniky](/wiki/Beatmapping/Mapping_techniques) • [Storyboarding](/wiki/Storyboard#storyboarding) • [Skinning](/wiki/Skinning)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -64,7 +64,7 @@ Aktivity: [Beatmapping](/wiki/Beatmapping) • [Mapovací techniky](/wiki/Mappin
 
 Hodnocení je proces získání žebříčku pro beatmapu, díky čemuž je populárnější a uznávanější. Zjistěte, co to znamená jít touto cestou a jak zvýšit své šance na úspěch prostřednictvím recenzí beatmap, stejně jako postupů pro kontrolu kvality a procesu hodnocení.
 
-[Submission](/wiki/Submission) • [Módování](/wiki/Modding) • [Postup hodnocení](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
+[Submission](/wiki/Beatmapping/Beatmap_submission) • [Módování](/wiki/Modding) • [Postup hodnocení](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
 
 [Kritéria hodnocení](/wiki/Ranking_Criteria): [osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania)
 
@@ -75,7 +75,7 @@ Hodnocení je proces získání žebříčku pro beatmapu, díky čemuž je popu
 
 Přečtěte si o postupech a předpisech, které udržují osu! a její komunitu v bezpečí, od licencování hudby a pokynů pro média až po pravidla chatu a fóra.
 
-[Pravidla](/wiki/Rules) • [Pravidla chování pro spolupracovníky](/wiki/Contributor_Code_of_Conduct) • [Pravidla chování při vytváření a úpravách map](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)
+[Pravidla](/wiki/Rules) • [Pravidla chování pro spolupracovníky](/wiki/Rules/Contributor_Code_of_Conduct) • [Pravidla chování při vytváření a úpravách map](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)
 
 Mediální předpisy: [Pokyny k použití médií](/wiki/Rules/Content_Usage_Guidelines) • [Explicitní obsah](/wiki/Rules/Explicit_Content) • [Pravidla obsahu písní](/wiki/Rules/Song_Content_Rules) • [Aspekty vizuálního obsahu](/wiki/Rules/Visual_Content_Considerations)
 
@@ -88,7 +88,7 @@ Mediální předpisy: [Pokyny k použití médií](/wiki/Rules/Content_Usage_Gui
 
 Zde najdete odpovědi na časté otázky a řešení běžných problémů.
 
-[Centrum nápovědy](/wiki/Help_centre) • [Odstraňování problémů s výkonem](/wiki/Performance_troubleshooting) • [Tým podpory účtu](/wiki/People/The_Team/Account_support_team) • [Fórum nápovědy](https://osu.ppy.sh/forum/5)
+[Centrum nápovědy](/wiki/Help_centre) • [Odstraňování problémů s výkonem](/wiki/Performance_troubleshooting) • [Tým podpory účtu](/wiki/People/Account_support_team) • [Fórum nápovědy](https://osu.ppy.sh/forum/5)
 
 Omezení profilu: [Silence](/wiki/Silence) • [Account restrictions](/wiki/Help_centre/Account_restrictions)
 
@@ -103,7 +103,7 @@ Sociální interakce je jednou z hlavních věcí, které pohánějí osu! hrá�
 
 [Turnaje](/wiki/Tournaments) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Soutěže](/wiki/Contests) • [Komunitní mentorský program](/wiki/Community/Community_Mentorship_Program)
 
-[Projekty](/wiki/Community/Projects): [Vybraní umělci](/wiki/Featured_Artists) • [osu! komunitní setkání](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk)
+[Projekty](/wiki/Community/Projects): [Vybraní umělci](/wiki/People/Featured_Artists) • [osu! komunitní setkání](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk)
 
 Organizace: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
@@ -114,7 +114,7 @@ Organizace: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
 osu! by nebylo možné bez mnoha uživatelů, kteří by pomáhali s vývojem, údržbou a správou komunity: díky jejich úsilí, času a odhodlání hra žije a prosperuje.
 
-[Team](/wiki/People/The_Team): [Vývojáři](/wiki/People/The_Team/Developers) • [Tým moderátorů](/wiki/People/The_Team/Global_Moderation_Team) • [Tým podpory](/wiki/People/The_Team/Support_Team) • [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) • [Beatmap nominátoři](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team)
+[Team](/wiki/People/osu!_team): [Vývojáři](/wiki/People/Developers) • [Tým moderátorů](/wiki/People/Global_Moderation_Team) • [Tým podpory](/wiki/People/Support_Team) • [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) • [Beatmap nominátoři](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Project Loved Team](/wiki/People/Project_Loved_Team)
 
 [Přispěvatelé z komunity](/wiki/People/Community_Contributors) • [Uživatelé s jedinečnými tituly](/wiki/People/Users_with_unique_titles)
 

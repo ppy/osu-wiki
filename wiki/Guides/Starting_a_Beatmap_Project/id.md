@@ -34,7 +34,7 @@ Contoh:
 - [\[Album\] Anamanaguchi - Scott Pilgrim vs The World (the game)](https://osu.ppy.sh/community/forums/topics/37908)
 - [\[Album\] Daft Punk - Random Access Memories](https://osu.ppy.sh/community/forums/topics/132592)
 
-**Collab:** Membuat [proyek *group-mapping*](/wiki/Beatmap/Beatmap_collaborations) pada lagu tertentu. Dapat berkisar dari permintaan pembuatan [storyboard](/wiki/Storyboard) hingga pembagian mapping dari sebuah [map marathon](/wiki/Beatmap/Marathon). Pastikan kamu telah membaca [panduan untuk collab](/wiki/Guides/Collab_Information) sebelum memulai proyek ini!
+**Collab:** Membuat [proyek *group-mapping*](/wiki/Beatmap/Beatmap_collaborations) pada lagu tertentu. Dapat berkisar dari permintaan pembuatan [storyboard](/wiki/Storyboard) hingga pembagian mapping dari sebuah [map marathon](/wiki/Beatmap/Marathon).
 
 Contoh:
 

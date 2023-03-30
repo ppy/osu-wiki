@@ -1,6 +1,6 @@
 # osu! community meetings
 
-Les **osu! community meetings** sont un groupe de discussion organisé par l'[équipe d'osu!](/wiki/People/The_Team). L'objectif principal de ces meetings est de donner à chacun une chance de parler directement avec les développeurs et les personnes responsables de la gestion de la communauté pour soulever des questions à discuter ou à approfondir.
+Les **osu! community meetings** sont un groupe de discussion organisé par l'[équipe d'osu!](/wiki/People/osu!_team). L'objectif principal de ces meetings est de donner à chacun une chance de parler directement avec les développeurs et les personnes responsables de la gestion de la communauté pour soulever des questions à discuter ou à approfondir.
 
 Il y a longtemps, dans le [passé du jeu](https://twitter.com/ppy/status/1169256824052170755), l'équipe d'osu! avait l'habitude d'organiser régulièrement des community meetings où tout le monde était invité à parler. Avec l'ampleur du jeu d'aujourd'hui, ce n'est plus possible. Mais grâce à Discord, une sorte de système de file d'attente a été mis en place où les questions peuvent être abordées une par une.
 
@@ -30,7 +30,7 @@ Le premier osu! community meeting a eu lieu le 19 septembre 2021. Tous les meeti
 
 | Meeting n° | Lien | Résumé | Agenda |
 | :-: | :-- | :-- | :-- |
-| 0 | [19 septembre 2021](https://youtu.be/-LjNll8VYTM) | [Document de synthèse](https://gist.github.com/peppy/08b38cbac56a8b1e88133853a6a8d2fb) | Introduction à ces meetings, critères de classement, points de performance et difficulté, osu!(lazer) en général |
+| 0 | [19 septembre 2021](https://youtu.be/-LjNll8VYTM) | [Document de synthèse](https://gist.github.com/peppy/08b38cbac56a8b1e88133853a6a8d2fb) | Introduction à ces meetings, critères de classement, points de performance et difficulté, [osu!(lazer)](/wiki/Client/Release_stream/Lazer) en général |
 | 1 | [3 octobre 2021](https://youtu.be/D3OZCm6szVE) | [Document de synthèse](https://docs.google.com/document/d/1-miPFZySYlYbtPW4G0828taycO1gh7dZ4icfSJCr4uA) | Questions diverses de la communauté, mise à jour concernant le développement |
 | 2 | [17 octobre 2021](https://youtu.be/nLT-fLeogrw) | [Document de synthèse](https://docs.google.com/document/d/1wEQjzku_4IzvcWRanu0GkvWiPvb-IB7WzwU7Eyojj2E) | Questions diverses de la communauté |
 | 3 | [31 octobre 2021](https://youtu.be/omvZbC7zJUI) | [Document de synthèse](https://docs.google.com/document/d/1bhaMx--chdys8AbzSDOItbv710SVhsww2BYPzQg2rvw) | Questions diverses de la communauté |
