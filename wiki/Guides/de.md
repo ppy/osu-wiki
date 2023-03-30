@@ -1,4 +1,7 @@
-<!-- TODO: change link as soon as German article is available (line 12) -->
+---
+outdated_translation: true
+outdated_since: 70eb12264cba8353999807d6ce370f7ab1359075
+---
 
 # Tutorials
 
@@ -9,7 +12,7 @@ Unten findet sich eine Liste an Tutorials, die von Mitgliedern der osu!-Communit
 *Hauptseite: [Beatmapping](/wiki/Beatmapping)*
 
 - [Ratgeber für das Bearbeiten von Audio](Audio_Editing)
-- [Den Titeltext ändern](/wiki/Beatmap/Title_text#changing-title-text)
+- [Den Titeltext ändern](/wiki/Beatmap/Title_text#changing-title-text)<!-- TODO: change link as soon as German article is available -->
 - [Dateien komprimieren](Compressing_files)
 - [Bibliothek für selbst erstellte Hitsounds](Custom_Hitsound_Library)
 - [Benutzerdefinierte Überschreibung von Audiosamples](Custom_Sample_Overrides)
