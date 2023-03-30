@@ -110,7 +110,9 @@ tags:
 | ::{ flag=GB }:: [Pope Gadget](https://osu.ppy.sh/users/2288341) |  | Модерация маппинг-сообщества |
 | ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) |  | Модерация маппинг-сообщества |
 | ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) | Малайский | Модерация чата |
+| ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | Польский | Модерация форума |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | Испанский | Модерация чата |
+| ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | Нидерландский, японский | Модерация форума |
 | ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | Немецкий | Модерация форума |
 | ::{ flag=KR }:: [ruexia](https://osu.ppy.sh/users/385069) | Корейский | Модерация чата |
 | ::{ flag=JP }:: [S o h](https://osu.ppy.sh/users/2234772) | Японский | Модерация чата |
@@ -124,7 +126,7 @@ tags:
 | ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927) | Филиппинский | Модерация чата |
 | ::{ flag=TH }:: [Trigonoculus](https://osu.ppy.sh/users/7627013) | Тайский | Модерация чата |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Испанский | Техподдержка |
-| ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | Польский | Модерация чата |
+| ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | Польский | Модерация чата, модерация маппинг-сообщества |
 | ::{ flag=PL }:: [Yason](https://osu.ppy.sh/users/2574392) | Польский | Модерация чата |
 | ::{ flag=HM }:: [Zallius](https://osu.ppy.sh/users/55) |  | Модерация чата |
 
