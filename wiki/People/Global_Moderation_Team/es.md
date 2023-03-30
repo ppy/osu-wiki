@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: de2a27f1930f8e353bf54104d8f588501bff7ee8
 tags:
   - GMT
   - moderator
@@ -108,10 +110,10 @@ La [página del grupo Global Moderation Team](https://osu.ppy.sh/groups/4) enume
 | ::{ flag=GB }:: [Pope Gadget](https://osu.ppy.sh/users/2288341) |  | Moderación de la comunidad de mapping/modding |
 | ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) |  | Moderación de la comunidad de mapping/modding |
 | ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) | Malayo | Moderación del chat |
-| ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | Polaco | Moderación del foro |
+| ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | Polaco | Skinning community moderation |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | Español | Moderación del chat |
-| ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | Neerlandés, japonés | Moderación del foro |
-| ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | Alemán | Moderación del foro |
+| ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | Neerlandés, japonés | Skinning community moderation |
+| ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | Alemán | Skinning community moderation, moderación del foro |
 | ::{ flag=KR }:: [ruexia](https://osu.ppy.sh/users/385069) | Coreano | Moderación del chat |
 | ::{ flag=JP }:: [S o h](https://osu.ppy.sh/users/2234772) | Japonés | Moderación del chat |
 | ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) | Sueco, español | Moderación del chat |
@@ -124,7 +126,7 @@ La [página del grupo Global Moderation Team](https://osu.ppy.sh/groups/4) enume
 | ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927) | Filipino | Moderación del chat |
 | ::{ flag=TH }:: [Trigonoculus](https://osu.ppy.sh/users/7627013) | Tailandés | Moderación del chat |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Español | Soporte técnico |
-| ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | Polaco | Moderación del chat, moderación de la comunidad de mapping/modding |
+| ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | Polaco | Team leadership, moderación del chat, moderación de la comunidad de mapping/modding |
 | ::{ flag=PL }:: [Yason](https://osu.ppy.sh/users/2574392) | Polaco | Moderación del chat |
 | ::{ flag=HM }:: [Zallius](https://osu.ppy.sh/users/55) |  | Moderación del chat |
 

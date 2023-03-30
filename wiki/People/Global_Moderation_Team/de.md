@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: de2a27f1930f8e353bf54104d8f588501bff7ee8
 tags:
   - GMT
   - moderator
