@@ -9,9 +9,9 @@ Calling all mappers! Come show off your mapping skills to the community with the
 
 ## Song
 
-- **Rostik - Liquid (Paul Rosenthal Remix)**  
-  [Download and enter here!](https://osu.ppy.sh/p/contest?c=7)  
-  Length: 2:40 - BPM 133  
+- **Rostik - Liquid (Paul Rosenthal Remix)**\
+  [Download and enter here!](https://osu.ppy.sh/p/contest?c=7)\
+  Length: 2:40 - BPM 133\
   Genre: Dubstep
 
 [Preview the song here! (Soundcloud)](https://soundcloud.com/rostik/liquid-paul-rosenthal-1st)
@@ -41,8 +41,8 @@ Calling all mappers! Come show off your mapping skills to the community with the
 
 ## Translations
 
-Jump to: [Italian](#italian), [French](#french), [Chinese](#chinese), [Indonesian](#indonesian), [Japanese](#japanese), [German](#german), [Russian](#russian), [Spanish](#spanish)  
-  
+Jump to: [Italian](#italian), [French](#french), [Chinese](#chinese), [Indonesian](#indonesian), [Japanese](#japanese), [German](#german), [Russian](#russian), [Spanish](#spanish)\
+\
 
 ---
 
@@ -52,9 +52,9 @@ Un richiamo per tutti i mapper! Venite e mostrate la vostra bravura nel mapping 
 
 ### Canzone
 
-- **Rostik - Liquid (Paul Rosenthal Remix)**  
-  [Scarica ed entra qui!](https://osu.ppy.sh/p/contest?c=7)  
-  Durata: 2:40 - BPM 133  
+- **Rostik - Liquid (Paul Rosenthal Remix)**\
+  [Scarica ed entra qui!](https://osu.ppy.sh/p/contest?c=7)\
+  Durata: 2:40 - BPM 133\
   Genere: Dubstep
 
 [Ascolta l'anteprima della canzone qui! (Soundcloud)](https://soundcloud.com/rostik/liquid-paul-rosenthal-1st)
@@ -90,9 +90,9 @@ Appel à tous les mappeurs ! Venez montrer à la communauté vos talents de mapp
 
 ### Chanson
 
-- **Rostik - Liquid (Paul Rosenthal Remix)**  
-  [Télécharger et entrer ici !](https://osu.ppy.sh/p/contest?c=7)  
-  Longueur: 2:40 - BPM 133  
+- **Rostik - Liquid (Paul Rosenthal Remix)**\
+  [Télécharger et entrer ici !](https://osu.ppy.sh/p/contest?c=7)\
+  Longueur: 2:40 - BPM 133\
   Genre: Dubstep
 
 [Pré-écouter la chanson ici ! (Soundcloud)](https://soundcloud.com/rostik/liquid-paul-rosenthal-1st)
@@ -128,9 +128,9 @@ Appel à tous les mappeurs ! Venez montrer à la communauté vos talents de mapp
 
 ### 歌曲
 
-- **Rostik - Liquid (Paul Rosenthal Remix)**  
-  [点击这里下载以及进入比赛！](https://osu.ppy.sh/p/contest?c=7)  
-  长度: 2:40 - BPM 133  
+- **Rostik - Liquid (Paul Rosenthal Remix)**\
+  [点击这里下载以及进入比赛！](https://osu.ppy.sh/p/contest?c=7)\
+  长度: 2:40 - BPM 133\
   流派: Dubstep
 
 [点击这里预览歌曲！(Soundcloud)](https://soundcloud.com/rostik/liquid-paul-rosenthal-1st)
@@ -166,9 +166,9 @@ Panggilan kepada seluruh mapper! Tunjukkan kepiawaian Anda kepada komunitas sert
 
 ### Lagu
 
-- **Rostik - Liquid (Paul Rosenthal Remix)**  
-  [Unduh lagu dan ikut serta dalam kontes di sini!](https://osu.ppy.sh/p/contest?c=7)  
-  Durasi: 2:40 - BPM 133  
+- **Rostik - Liquid (Paul Rosenthal Remix)**\
+  [Unduh lagu dan ikut serta dalam kontes di sini!](https://osu.ppy.sh/p/contest?c=7)\
+  Durasi: 2:40 - BPM 133\
   Genre: Dubstep
 
 [Pratinjau lagu di sini! (Soundcloud)](https://soundcloud.com/rostik/liquid-paul-rosenthal-1st)
@@ -204,9 +204,9 @@ mapperのみなさんへ！この度マッピングコンテストが開催さ�
 
 ### 曲
 
-- **Rostik - Liquid (Paul Rosenthal Remix)**  
-  [ダウンロード及び申込](https://osu.ppy.sh/p/contest?c=7)  
-  長さ: 2:40 - BPM 133  
+- **Rostik - Liquid (Paul Rosenthal Remix)**\
+  [ダウンロード及び申込](https://osu.ppy.sh/p/contest?c=7)\
+  長さ: 2:40 - BPM 133\
   ジャンル: Dubstep
 
 [ここで試聴してください！ (Soundcloud)](https://soundcloud.com/rostik/liquid-paul-rosenthal-1st)
@@ -242,9 +242,9 @@ Aufruf an alle Mapper! Zeig uns dein Können und erhalte die Chance, dass deine 
 
 ### Song
 
-- **Rostik - Liquid (Paul Rosenthal Remix)**  
-  [Lade das Lied hier herunter und nimm teil!](https://osu.ppy.sh/p/contest?c=7)  
-  Länge: 2:40 - BPM 133  
+- **Rostik - Liquid (Paul Rosenthal Remix)**\
+  [Lade das Lied hier herunter und nimm teil!](https://osu.ppy.sh/p/contest?c=7)\
+  Länge: 2:40 - BPM 133\
   Genre: Dubstep
 
 [Vorschau (Soundcloud)](https://soundcloud.com/rostik/liquid-paul-rosenthal-1st)
@@ -280,9 +280,9 @@ Aufruf an alle Mapper! Zeig uns dein Können und erhalte die Chance, dass deine 
 
 ### Песня
 
-- **Rostik - Liquid (Paul Rosenthal Remix)**  
-  [Скачать и принять участие!](https://osu.ppy.sh/p/contest?c=7)  
-  Длина: 2:40 (BPM: 133)  
+- **Rostik - Liquid (Paul Rosenthal Remix)**\
+  [Скачать и принять участие!](https://osu.ppy.sh/p/contest?c=7)\
+  Длина: 2:40 (BPM: 133)\
   Жанр: Dubstep
 
 [Прослушать трек (Soundcloud)](https://soundcloud.com/rostik/liquid-paul-rosenthal-1st)
@@ -318,9 +318,9 @@ Aufruf an alle Mapper! Zeig uns dein Können und erhalte die Chance, dass deine 
 
 ### Música
 
-- **Rostik - Liquid (Paul Rosenthal Remix)**  
-  [¡Descargarlo y haz la entrada haciendo click aquí!](https://osu.ppy.sh/p/contest?c=7)  
-  Duración: 2:40 - BPM 133  
+- **Rostik - Liquid (Paul Rosenthal Remix)**\
+  [¡Descargarlo y haz la entrada haciendo click aquí!](https://osu.ppy.sh/p/contest?c=7)\
+  Duración: 2:40 - BPM 133\
   Género: Dubstep
 
 [¡Escucha la música aquí! (Soundcloud)](https://soundcloud.com/rostik/liquid-paul-rosenthal-1st)
