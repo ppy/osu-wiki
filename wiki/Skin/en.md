@@ -17,4 +17,3 @@ Skins can either be [created from scratch](/wiki/Skinning), or downloaded as an 
 - [Circle People Pro Player Skin Collection](https://circle-people.com/skins/)
 
 In addition to the above, many players, including the high-ranking ones, post own personal skins on their [userpages](/wiki/osu!supporter#editable-profile-section), in YouTube video descriptions, or provide them via a Twitch chat command.
-
