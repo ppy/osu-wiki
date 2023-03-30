@@ -109,6 +109,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad
 | Team A | Team B | Match time |
 | --: | :-- | :-- |
 | Portugal ::{ flag=PT }:: | ::{ flag=ID }:: Indonesia | [Apr 1 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230401T140000&p1=1440&p2=133&p3=108) |
+| Hong Kong ::{ flag=HK }:: | ::{ flag=CZ }:: Czechia | [Apr 1 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230401T140000&p1=1440&p2=102&p3=204) |
 | Switzerland ::{ flag=CH }:: | ::{ flag=PL }:: Poland | [Apr 1 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230401T160000&p1=1440&p2=270&p3=262) |
 | France ::{ flag=FR }:: | ::{ flag=CA }:: Canada | [Apr 1 (Sat) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230401T190000&p1=1440&p2=195&p3=188) |
 
@@ -120,7 +121,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad
 | Australia ::{ flag=AU }:: | ::{ flag=MX }:: Mexico | [Apr 2 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230402T040000&p1=1440&p2=57&p3=155) |
 | Taiwan ::{ flag=TW }:: | ::{ flag=MY }:: Malaysia | [Apr 2 (Sun) 06:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230402T060000&p1=1440&p2=241&p3=122) |
 | Japan ::{ flag=JP }:: | ::{ flag=PH }:: Philippines | [Apr 2 (Sun) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230402T080000&p1=1440&p2=248&p3=145) |
-| Hong Kong ::{ flag=HK }:: | ::{ flag=CZ }:: Czechia | [Apr 2 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230402T100000&p1=1440&p2=102&p3=204) |
 | Vietnam ::{ flag=VN }:: | ::{ flag=ES }:: Spain | [Apr 2 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230402T110000&p1=1440&p2=95&p3=141) |
 | Netherlands ::{ flag=NL }:: | ::{ flag=AR }:: Argentina | [Apr 2 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230402T120000&p1=1440&p2=16&p3=51) |
 | China ::{ flag=CN }:: | ::{ flag=DE }:: Germany | [Apr 2 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230402T120000&p1=1440&p2=33&p3=37) |
