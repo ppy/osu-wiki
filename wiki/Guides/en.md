@@ -26,6 +26,7 @@ Below is a sorted list of guides created by members of the osu! community, most 
 
 *Main page: [Modding](/wiki/Modding)*
 
+- [Common modding mistakes](Common_modding_mistakes)
 - [How to get your map modded](Getting_Your_Map_Modded)
 - [osu!mania modding guide](osu!mania_modding_guide)
 

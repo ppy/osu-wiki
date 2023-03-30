@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 70eb12264cba8353999807d6ce370f7ab1359075
+---
+
 # 教程指南
 
 以下内容分类整理了 osu! 社区玩家们编写的教程和指南，大部分发源自 osu! 论坛，后被转移到 wiki。
