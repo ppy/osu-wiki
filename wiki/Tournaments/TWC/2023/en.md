@@ -100,7 +100,7 @@ The osu!taiko World Cup 2023 is run by various community members.
 | ::{ flag=US }:: | **United States** | **[cheese salad](https://osu.ppy.sh/users/6349821)**, [AuroraPhasmata](https://osu.ppy.sh/users/13664116), [ChurroChef](https://osu.ppy.sh/users/9258564), [FrootLoopy542](https://osu.ppy.sh/users/5468461), [pet](https://osu.ppy.sh/users/1656336), [R J](https://osu.ppy.sh/users/6490509) |
 | ::{ flag=VN }:: | **Vietnam** | **[davidminh0111](https://osu.ppy.sh/users/9623142)**, [-M\_A\_T\_C\_H\_A-](https://osu.ppy.sh/users/26012543), [crazynt\_ngu](https://osu.ppy.sh/users/7844013), [hi\_there\_osu](https://osu.ppy.sh/users/22698999), [njshift1](https://osu.ppy.sh/users/16688499), [Creeperbrine303](https://osu.ppy.sh/users/22515524) |
 
-The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad463970c6b5c22f623fcefd8d5e63d#file-twc-2023-player-list-csv). 
+The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad463970c6b5c22f623fcefd8d5e63d#file-twc-2023-player-list-csv).
 
 ## Match schedule: Round of 16
 
@@ -108,27 +108,27 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad
 
 | Team A | Team B | Match time |
 | --: | :-- | :-- |
-| China ::{ flag=CN }:: | ::{ flag=DE }:: Germany | [Apr 1 (Sat) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230401T090000&p1=1440&p2=33&p3=37) |
-| Denmark ::{ flag=DK }:: | ::{ flag=RU }:: Russian Federation | [Apr 1 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230401T120000&p1=1440&p2=69&p3=166) |
-| Portugal ::{ flag=PT }:: | ::{ flag=ID }:: Indonesia | [Apr 1 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230401T130000&p1=1440&p2=133&p3=108) |
-| Netherlands ::{ flag=NL }:: | ::{ flag=AR }:: Argentina | [Apr 1 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230401T140000&p1=1440&p2=16&p3=51) |
+| Portugal ::{ flag=PT }:: | ::{ flag=ID }:: Indonesia | [Apr 1 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230401T140000&p1=1440&p2=133&p3=108) |
 | Switzerland ::{ flag=CH }:: | ::{ flag=PL }:: Poland | [Apr 1 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230401T160000&p1=1440&p2=270&p3=262) |
-| United Kingdom ::{ flag=GB }:: | ::{ flag=CL }:: Chile | [Apr 1 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230401T180000&p1=1440&p2=136&p3=232) |
 | France ::{ flag=FR }:: | ::{ flag=CA }:: Canada | [Apr 1 (Sat) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230401T190000&p1=1440&p2=195&p3=188) |
-| United States ::{ flag=US }:: | ::{ flag=NZ }:: New Zealand | [Apr 1 (Sat) 23:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230401T230000&p1=1440&p2=263&p3=264) |
 
 ### Sunday, 2 April 2023
 
 | Team A | Team B | Match time |
 | --: | :-- | :-- |
-| Australia ::{ flag=AU }:: | ::{ flag=MX }:: Mexico | [Apr 2 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230402T030000&p1=1440&p2=57&p3=155) |
+| United States ::{ flag=US }:: | ::{ flag=NZ }:: New Zealand | [Apr 2 (Sun) 00:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230402T000000&p1=1440&p2=263&p3=264) |
+| Australia ::{ flag=AU }:: | ::{ flag=MX }:: Mexico | [Apr 2 (Sun) 04:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230402T040000&p1=1440&p2=57&p3=155) |
 | Taiwan ::{ flag=TW }:: | ::{ flag=MY }:: Malaysia | [Apr 2 (Sun) 06:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230402T060000&p1=1440&p2=241&p3=122) |
 | Japan ::{ flag=JP }:: | ::{ flag=PH }:: Philippines | [Apr 2 (Sun) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230402T080000&p1=1440&p2=248&p3=145) |
 | Hong Kong ::{ flag=HK }:: | ::{ flag=CZ }:: Czechia | [Apr 2 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230402T100000&p1=1440&p2=102&p3=204) |
 | Vietnam ::{ flag=VN }:: | ::{ flag=ES }:: Spain | [Apr 2 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230402T110000&p1=1440&p2=95&p3=141) |
-| Singapore ::{ flag=SG }:: | ::{ flag=NO }:: Norway | [Apr 2 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230402T120000&p1=1440&p2=236&p3=187) |
+| Netherlands ::{ flag=NL }:: | ::{ flag=AR }:: Argentina | [Apr 2 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230402T120000&p1=1440&p2=16&p3=51) |
+| China ::{ flag=CN }:: | ::{ flag=DE }:: Germany | [Apr 2 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230402T120000&p1=1440&p2=33&p3=37) |
+| Singapore ::{ flag=SG }:: | ::{ flag=NO }:: Norway | [Apr 2 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230402T140000&p1=1440&p2=236&p3=187) |
 | South Korea ::{ flag=KR }:: | ::{ flag=BR }:: Brazil | [Apr 2 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230402T140000&p1=1440&p2=235&p3=45) |
 | Italy ::{ flag=IT }:: | ::{ flag=FI }:: Finland | [Apr 2 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230402T150000&p1=1440&p2=215&p3=101) |
+| Denmark ::{ flag=DK }:: | ::{ flag=RU }:: Russian Federation | [Apr 2 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230402T160000&p1=1440&p2=69&p3=166) |
+| United Kingdom ::{ flag=GB }:: | ::{ flag=CL }:: Chile | [Apr 2 (Sun) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230402T180000&p1=1440&p2=136&p3=232) |
 
 ## Mappools
 
@@ -148,7 +148,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad
   1. [Cinamoro - Another (Hivie) \[Illusion\]](https://osu.ppy.sh/beatmapsets/1963582#taiko/4069722)
   2. [Lime - Chronomia (Nwolf) \[Oni\]](https://osu.ppy.sh/beatmapsets/1963559#taiko/4069646)
 - Double Time
-  1. [BlackY - Howling Moon (komasy) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1963854#taiko/4070768)
+  1. [BlackY - Howling Moon (komasy) \[TWC ver.\]](https://osu.ppy.sh/beatmapsets/1963854#taiko/4070769)
   2. [Zekk - SUMMER (\_Rise) \[Oni\]](https://osu.ppy.sh/beatmapsets/1963718#taiko/4070069)
 - FreeMod
   1. [Zekk - Duplication (eiri-) \[Facsimile\]](https://osu.ppy.sh/beatmapsets/1963847#taiko/4070755)
