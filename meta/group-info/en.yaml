@@ -22,6 +22,8 @@ gmt:
     tournaments: tournament management
     wiki: wiki administration
     mapping: mapping/modding community moderation
+    skinning: skinning community moderation
+    leadership: team leadership
 nat:
   subgroups:
     advisor: advisor
