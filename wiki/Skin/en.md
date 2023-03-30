@@ -4,29 +4,25 @@ stub: true
 
 # Skin
 
-A **skin** is a set of graphics (images) and custom sample sets (audio clips) that replace the default ones used by osu!. Many players regularly engage in the use of skins to allow for a more customised user experience, should they dislike the default skin. Almost all of what is visible or audible in osu! can be "skinned." 
+A **skin** is a set of graphics (images) and custom sample sets (audio clips) that replace the default ones used by osu!. Many players use skins to allow for a more customised user experience. Most of the important UI elements and sounds in osu! can be "skinned". 
 
 ## Reasons to Use Skins
 
-- Skins can be used to further optimize a player's gameplay, since most skins do away with showing that a player has hit a note perfectly (to only show the minimum amount of information to a player in-game). 
-- Another gameplay-improving feautre that skins provide (for osu! standrad) is chagning the cursor style and trail. This can be especially helpful if a player finds the default skin cursor intruding into the action.
+- Skins can be used to further optimize a player's gameplay, since many skins hide certain visual details or offer gameplay elements focused on a certain playstyle like specific mod combinations.
+- In addition to gameplay focused changes, skins can also offer custom menus which commonly feature characters from various anime and games, as well as being based around certain design styles, like minimalism or techno.
 
 ## How to Use Custom Skins
 
-Skins can either be created from scratch (see [Skinning](/wiki/Skinning) for creating your own skin), or downloaded as a ".osk" file and imported into the game. To download and use an osu! skin you have to:
-
-1. Pick one of the [Popular Skin Websites](#popular-skin-websites) and open the link.
-2. Choose a skin that suits your tastes by clicking on it's name or picture.
-3. Download the skin's ".osk" from the opened skin's page.
-4. Either double click the ".osk" file to automatically import and select it as default skin in osu! (the game may take a bit to re-open so just wait for a little for it to load the new skin).
+Skins can either be [created from scratch](/wiki/Skinning), or downloaded as a `.osk` file and imported into the game. To import an `.osk` file simply open it with osu!, or drag-and-drop it into osu!. If a skin you download is in `.zip` or `.rar` format unzip it and move it into the `Skins` folder of your osu! installation. Make sure that you are moving the folder containing the `skin.ini` and not a folder that contains the folder.
 
 ## Popular Skin Websites
 
-- [Circle People Skins](https://circle-people.com/skins/)
-- [osu! Skins](https://osuskins.net/)
-- [osu! Skins (beta)](https://skins.osuck.net/)
+- [Work In Progress Skins forum](https://osu.ppy.sh/community/forums/119)
+- [Remixed Skins forum](https://osu.ppy.sh/community/forums/124)
+- [Completed Skins forum](https://osu.ppy.sh/community/forums/109)
+- [Completed Skins Compendium](https://compendium.skinship.xyz/)<!-- TODO: explain how it expands upon completed -->
+- [Circle People Pro Player Skin Collection](https://circle-people.com/skins/)
 
-Side Note: Most osu! standard players these days use custom skins, and a healthy amount of them provide the skins they use with a Twitch chat command, or a Youtube video's description. So if there's a popular osu! player whose skin you like, chances are, they have linked/shared their skins with above-mentioned methods (unless their skin was a work-in-progress or wanted to be made private).
+Side Note: Most osu! players these days use custom skins, with many of the high-ranking ones either linking them on their userpage, in YouTube video descriptions or providing it via a Twitch chat command.
 
 - See also: [Skinning](/wiki/Skinning)
-- For the dedicated sub-forum for skins, see [Skinning - osu! Community](https://osu.ppy.sh/community/forums/15)
