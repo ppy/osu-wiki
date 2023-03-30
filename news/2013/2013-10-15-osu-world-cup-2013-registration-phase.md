@@ -39,7 +39,7 @@ For more details, refer to the [osu! World Cup wiki article](/wiki/Tournaments/O
 
 **To register, fill out [this form](https://docs.google.com/forms/d/1v27B1GxpapUgsI9dtBF8xLceJCKzdpBY8dW6HzxzacI/viewform).**\
 **Then, verify your registration by sending a PM to Loctav titled "OWC Registration".**\
-Your team will appear on the wiki page when your registration was successful. Also your team's captain will be notified. _Any registrations or team changes past the deadline can not be considered._\
+Your team will appear on the wiki page when your registration was successful. Also your team's captain will be notified. *Any registrations or team changes past the deadline can not be considered.*\
 \
 
 ## Links

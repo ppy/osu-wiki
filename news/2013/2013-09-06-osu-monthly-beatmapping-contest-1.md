@@ -29,7 +29,7 @@ Calling all mappers! Come show off your mapping skills to the community with the
 ## Rules
 
 - All beatmaps and their respective difficulties must fit [all current ranking standards.](/wiki/Ranking_Criteria)
-- All beatmaps must contain **4 difficulties (ENHI is _required_).**
+- All beatmaps must contain **4 difficulties (ENHI is *required*).**
 - All difficulties must be mapped for **osu! standard**.
 - Collaborations are allowed, but will only be registered under one person's name! (no "x's Hard" or anything of the sort)
 - Do not post, submit, or otherwise publicly share your map before the contest ends. This serves to maintain anonymity of the entries.
@@ -72,7 +72,7 @@ Un richiamo per tutti i mapper! Venite e mostrate la vostra bravura nel mapping 
 ### Regole
 
 - Tutti i mapset e le loro rispettive difficoltà devono seguire [tutti i criteri di ranking del giorno d'oggi.](/wiki/Ranking_Criteria)
-- Tutti i mapsets devono contenere **4 difficoltà (E'_necessario_ uno spread Easy/Normal/Hard/Insane).**
+- Tutti i mapsets devono contenere **4 difficoltà (E'*necessario* uno spread Easy/Normal/Hard/Insane).**
 - Tutte le difficoltà devono essere mappate per **osu! standard**.
 - Le collaborazioni sono accettate, ma verranno registrate solo sotto il nome di una persona! (niente "x's Hard" o cose del genere.)
 - Non postare, submittare, o mostrare la tua beatmap prima che il contest sia finito per mantenere l'anonimità della tua mappa.
@@ -110,7 +110,7 @@ Appel à tous les mappeurs ! Venez montrer à la communauté vos talents de mapp
 ### Règles
 
 - Tous les mapsets et leur difficultés respectives doivent être en accord avec les [règles de ranking.](/wiki/Ranking_Criteria)
-- Tous les mapsets doivent avoir **4 difficultés (ENHI _nécessaire_).**
+- Tous les mapsets doivent avoir **4 difficultés (ENHI *nécessaire*).**
 - Toutes les difficultés doivent être mappées pour du **osu! standard**.
 - Les collaborations sont autorisées, mais ne seront enregistrées que sous le nom d'un seul mappeur ! (pas de "x's Hard" ou similaire)
 - Ne pas poster, uploader via BSS, ou encore partager publiquement votre map avant que le tournoi soit terminé, afin de garder l'anonymat des entrées.
@@ -148,7 +148,7 @@ Appel à tous les mappeurs ! Venez montrer à la communauté vos talents de mapp
 ### 规则
 
 - 所有的谱面以及其中的难度必需符合 [现在的审核标准](/wiki/Ranking_Criteria)
-- 所有的铺面应拥有**四个难度（ENHI是_必须的_）.**
+- 所有的铺面应拥有**四个难度（ENHI是*必须的*）.**
 - 所有的难度必须是为**osu!标准模式**制作.
 - 可以和别人合作, 但是只能以一个人的名义参加比赛！（不能使用诸如"某某的Hard"之类的命名）
 - 为了保持参赛谱面以及制作者的匿名性，在比赛结束之前不可以上传或以任何渠道散播所制作的谱面！
@@ -186,7 +186,7 @@ Panggilan kepada seluruh mapper! Tunjukkan kepiawaian Anda kepada komunitas sert
 ### Peraturan
 
 - Mapset kreasi Anda dan seluruh tingkat kesulitan yang terkandung di dalamnya haruslah memenuhi [Ranking Criteria saat ini.](/wiki/Ranking_Criteria)
-- Semua mapset harus memiliki **4 tingkat kesulitan (Susunan tingkat kesulitan Easy, Normal, Hard, dan Insane _diperlukan_).**
+- Semua mapset harus memiliki **4 tingkat kesulitan (Susunan tingkat kesulitan Easy, Normal, Hard, dan Insane *diperlukan*).**
 - Semua tingkat kesulitan harus dibuat untuk **mode permainan osu! standard**.
 - Kolaborasi diperkenankan, namun hanya akan terdaftar atas nama 1 orang saja! (tidak ada "x's Hard" atau apapun.)
 - Jangan menempatkan, mengajukan, atau membagikan map anda kepada publik sebelum kontes berakhir untuk menjaga anonimitas peserta.
@@ -262,7 +262,7 @@ Aufruf an alle Mapper! Zeig uns dein Können und erhalte die Chance, dass deine 
 ### Regeln
 
 - Das Mapset und alle Difficulties müssen [allen aktuell gültigen Ranking Standards](/wiki/Ranking_Criteria) entsprechen
-- Das Mapset muss **4 Difficulties** enthalten. **(ENHI ist _Voraussetzung_)**
+- Das Mapset muss **4 Difficulties** enthalten. **(ENHI ist *Voraussetzung*)**
 - Alle Difficulties müssen für **osu! standard** erstellt werden.
 - Kollaborationen sind erlaubt, werden aber unter einem Namen registriert! (Kein "x's Hard" oder ähnliches.)
 - Teile und verbreite deine Beatmap nicht öffentlich, solange der Contest noch nicht beendet ist, um die Anonymität aller Beiträge zu wahren.
@@ -300,7 +300,7 @@ Aufruf an alle Mapper! Zeig uns dein Können und erhalte die Chance, dass deine 
 ### Правила
 
 - Все мапсеты и их сложности должны удовлетворять [критериям ранкинга](/wiki/Ranking_Criteria).
-- Все мапсеты должны содержать **4 сложности (набор ENHI _обязателен_).**
+- Все мапсеты должны содержать **4 сложности (набор ENHI *обязателен*).**
 - Все сложности должны быть замапаны для **стандартного режима игры**.
 - Коллабы и гостевые сложности разрешены, но имена участников не указываются (никаких "x's Hard" и тому подобных названий).
 - Не разрешается выгружать, постить на форумах или другим образом распространять свою карту до окончания контеста, чтобы сохранить анонимность публикаций.
@@ -338,7 +338,7 @@ Aufruf an alle Mapper! Zeig uns dein Können und erhalte die Chance, dass deine 
 ### Reglas
 
 - Todos los directorios de mapas y sus respectivas dificultades deben encajar con [todas las normas de clasificación actuales.](/wiki/Ranking_Criteria)
-- Todos los directorios de mapa tienen que tener **4 dificultades (ENHI es _requerido_).**
+- Todos los directorios de mapa tienen que tener **4 dificultades (ENHI es *requerido*).**
 - Todas las dificultades que creaste deben ser para **osu! standard**.
 - Se permite colaborar, ¡pero sólo se registrará a nombre de 1 persona! (no como "x's Hard", o algo por el estilo.)
 - No se debe publicar, enviar, ni compartir públicamente tu mapa antes de que el concurso termine a mantener el anonimato de las entradas.
