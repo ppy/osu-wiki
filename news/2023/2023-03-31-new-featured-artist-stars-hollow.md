@@ -36,6 +36,8 @@ Click circles to your heart's content on [the map from the video above](https://
     <source src="https://assets.ppy.sh/artists/353/Happy%20Again%20(Deluxe)%2FStars%20Hollow%20-%20It's%20Not%20That.mp3">
 </audio>
 
+<!-- lint ignore no-heading-punctuation -->
+
 ### Stars Hollow - as you were before.
 
 Or bash some drums to [this osu!taiko map](https://osu.ppy.sh/beatmapsets/1509638) hosted by [Yorshka](https://osu.ppy.sh/users/15312155)!
@@ -43,6 +45,8 @@ Or bash some drums to [this osu!taiko map](https://osu.ppy.sh/beatmapsets/150963
 <audio controls>
     <source src="https://assets.ppy.sh/artists/353/Happy%20Again%20(Deluxe)%2FStars%20Hollow%20-%20as%20you%20were%20before..mp3">
 </audio>
+
+<!-- lint ignore no-heading-punctuation -->
 
 ### Stars Hollow - Stuck to You.
 
