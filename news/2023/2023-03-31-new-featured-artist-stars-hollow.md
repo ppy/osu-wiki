@@ -18,7 +18,7 @@ If you've ever wondered how mappers *actually make maps*, today's the day to fin
 2. **Map comparison:** An amateur mapper creates a map for the same song with occassional feedback and analysis from pishifat
 3. **Viewer feedback:** [Send pishifat a message](https://osu.ppy.sh/community/chat?sendto=3178418) with your own **Stars Hollow** beatmap for instant feedback
 
-So if you want to learn how to map (or if you want to listen to **Stars Hollow** for a few hours straight), [check out the stream](https://www.twitch.tv/osulive)!
+So if you want to learn how to map (or if you want to listen to **Stars Hollow** for a few hours straight), [check out the stream](https://www.twitch.tv/osulive) which is **live NOW**!
 
 But before that, explore everything **Stars Hollow** has to offer:
 
