@@ -49,10 +49,9 @@ To begin, download and install [Handbrake](https://handbrake.fr/), then follow t
    - `Video Encoder` set to `H.264 (x264)` to encode in the H.264 format using the x264 encoder.
    - `Framerate (FPS)` set to `Same as source` with `Constant Framerate` selected.
    - `Constant Quality` set to a value between 20 to 25. Smaller value will result in larger, higher quality files.
-   - `Encoder Profile` set to `High` to use the H.264 High profile.
+   
 5. Depending on how long you are willing to spend time encoding, change the `Encoder Preset` under `Encoder Options` (`Veryslow` is recommended). Slower presets result in better video quality and may also reduce video file size.
-
-**NOTE:** Do not use the `Placebo` preset as it takes much longer to encode than `Veryslow` for very little improvement in quality or file size.
+   - Do not use the `Placebo` preset as it takes much longer to encode than `Veryslow` for very little improvement in quality or file size.
 
 ![Setting the video codec and quality in Handbrake](img/codecquality-handbrake.png "Setting the video codec and constant quality")
 
@@ -70,19 +69,18 @@ FFmpeg is a program used through a [command-line interface (CLI)](https://en.wik
 
 To install FFmpeg on Windows, [download FFmpeg](https://ffmpeg.org/download.html) and add its directory to your `PATH` environment variable. On macOS, you can alternatively install it using the [brew](https://brew.sh/) package manager.
 
-On Linux, most Linux distributions either already provide or pre-install FFmpeg by default but some may not provide it. Users of such distributions should research their respective distribution for more information.
+On Linux, most Linux distributions either already provide or pre-install FFmpeg by default. If not, research about the distribution you use for more information.
    
 To use FFmpeg to re-encode a video file, open a terminal and paste in the following command, changing the values as needed:
 
 ```
-ffmpeg -i input -c:v libx264 -crf 20 -preset veryslow -profile:v high -vf scale=-1:720 -an -sn -map_metadata -1 -map_chapters -1 output.mp4
+ffmpeg -i input -c:v libx264 -crf 20 -preset veryslow -vf scale=-1:720 -an -sn -map_metadata -1 -map_chapters -1 output.mp4
 ```
 
 - `-i input`: Your source file. If the file name contains spaces, wrap it in double quotes (`"`).
 - `-c:v libx264`: Specify that the video should be encoded using the x264 encoder, producing video in the H.264 format.
 - `-crf 20`: The compression quality, where lower values give better quality at the expense of larger files and vice versa. The recommended range is around 20-25.
 - `-preset veryslow`: Specify an encoding preset, with recommended values ranging from `ultrafast` to `veryslow`. Slower presets allow the encoder to give you higher quality for the same bit rate, or lower bit rate for the same quality. More information about available presets can be found on [FFmpeg's official website](https://trac.ffmpeg.org/wiki/Encode/H.264#Preset).
-- `profile:v high`: Specify that the video should be encoded with the H.264 High profile.
 - `-vf scale=-1:720`: Downscale the video to a height of 720 pixels. The `-1` lets FFmpeg automatically determine the width of the new video based on the aspect ratio of the source.
 - `-an -sn`: Remove audio and subtitles if present.
 - `-map_metadata -1 -map_chapters -1`: Remove metadata and chapters if present.
@@ -94,7 +92,7 @@ ffmpeg -i input -c:v libx264 -crf 20 -preset veryslow -profile:v high -vf scale=
 
 Generally, OGG (Vorbis) results in better quality than MP3 for a given bit rate.
 
-**The [ranking criteria](/wiki/Ranking_Criteria#audio) specifies that average bit rate must be below 192kbps and above 128kbps.** As a reference, [Featured Artists](/wiki/People/Featured_Artists) songs included in the beatmap templates are encoded with a constant bit rate of 192kbps.
+**The [ranking criteria](/wiki/Ranking_Criteria#audio) specifies that average bit rate must be between 192kbps and 128kbps.** As a reference, [Featured Artists](/wiki/People/Featured_Artists) songs included in the beatmap templates are encoded with a constant bit rate of 192kbps.
 
 ### Using Audacity
 
