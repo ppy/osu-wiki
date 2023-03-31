@@ -9,7 +9,7 @@ Der gesamte Inhalt von osu! (allgemein bekannt als "[Beatmaps](/wiki/Beatmap)" o
 
 osu! war niemals gewinnorientiert – wir tun unser Bestes, um hochgeladene Inhalte nicht zu bewerben oder davon direkt zu profitieren (um solche hochgeladenen Inhalte nicht auszunutzen). Wir verstehen allerdings, dass das oftmals nicht ausreichend ist.
 
-Um die Künstler optimal zu unterstützen, die dieses Spiel zu dem machen, was es ist, werden alle überschüssigen Geldmittel aus Nutzerspenden in Musiklizenzierungen reinvestiert. Wir bemühen uns immerzu um die Kontaktaufnahme mit Künstlern (die in bereits existierenden Nutzerinhalten genauso wie in neuen zu sehen sind), um Lizenzen zu erwerben und Aufmerksamkeit für unser Programm [Featured Artist](/wiki/Featured_Artists) zu schaffen.
+Um die Künstler optimal zu unterstützen, die dieses Spiel zu dem machen, was es ist, werden alle überschüssigen Geldmittel aus Nutzerspenden in Musiklizenzierungen reinvestiert. Wir bemühen uns immerzu um die Kontaktaufnahme mit Künstlern (die in bereits existierenden Nutzerinhalten genauso wie in neuen zu sehen sind), um Lizenzen zu erwerben und Aufmerksamkeit für unser Programm [Featured Artist](/wiki/People/Featured_Artists) zu schaffen.
 
 Künstler, die daran interessiert sind, dem Programm Featured Artist beizutreten, werden dazu ermutigt, osu! für Lizenzvereinbarungen zu kontaktieren.
 

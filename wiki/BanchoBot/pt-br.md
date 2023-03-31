@@ -146,7 +146,7 @@ Tem um total de 7 tipos de status que podem ser mostrados pelo comando: `!stats`
 !report <usuário> <motivo>
 ```
 
-`!report` notifica o [Time de Moderação Global](/wiki/People/The_Team/Global_Moderation_Team) sobre o comportamento inapropriado do usuário. Se um usuário tem espaços em seu nome, reponha-o com uma underline (e.x. `nome muito legal` se torna `nome_muito_legal`). Para reportar um moderador, contate a [conta de time do suporte](/wiki/People/The_Team/Account_support_team#support@ppy.sh). Um exemplo de reportar um usuário normal pelo BanchoBot é mostrado abaixo:
+`!report` notifica o [Time de Moderação Global](/wiki/People/Global_Moderation_Team) sobre o comportamento inapropriado do usuário. Se um usuário tem espaços em seu nome, reponha-o com uma underline (e.x. `nome muito legal` se torna `nome_muito_legal`). Para reportar um moderador, contate a [conta de time do suporte](/wiki/People/Account_support_team#support@ppy.sh). Um exemplo de reportar um usuário normal pelo BanchoBot é mostrado abaixo:
 
 ```
 13:10 pippi: !report flyte enviando spam no #japanese

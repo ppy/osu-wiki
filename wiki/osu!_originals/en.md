@@ -1,6 +1,6 @@
 # osu! originals
 
-**osu! originals** are songs that are specifically made for (or otherwise first premiered in) osu! or other osu!-related events such as tournaments, contests, and [Featured Artist](/wiki/Featured_Artists) announcements. While not all osu! originals are officially licensed and included in the [Featured Artist library](https://osu.ppy.sh/beatmaps/artists), the songs that do are commonly distinguished by the `ORIGINAL` label on their respective artists' pages.
+**osu! originals** are songs that are specifically made for (or otherwise first premiered in) osu! or other osu!-related events such as tournaments, contests, and [Featured Artist](/wiki/People/Featured_Artists) announcements. While not all osu! originals are officially licensed and included in the [Featured Artist library](https://osu.ppy.sh/beatmaps/artists), the songs that do are commonly distinguished by the `ORIGINAL` label on their respective artists' pages.
 
 All osu! originals that have been licensed by the game are cleared for use in osu! under non-exclusive terms as per the [osu! music licensing policy](/wiki/Legal/Music_licensing). Conversely, non-licensed osu! originals may require permission for use. See the [Content Usage Guidelines](/wiki/Rules/Content_Usage_Guidelines) for more information.
 
@@ -256,6 +256,12 @@ These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-
 | Song | Beatmap | Notes |
 | :-: | :-: | :-- |
 | [ptar124 - AmbidextrouS \~The Alchemist of The Left x The Sage of The Right\~](https://soundcloud.com/part-lerts/axs-7th-grand-finals-tiebreaker-ambidextrous-x) | [#1](https://osu.ppy.sh/beatmapsets/1698560) | Grand Finals tiebreaker |
+
+#### ![](/wiki/shared/mode/osu.png) Badly Wood Cup
+
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| Daily197 - Sirius | [#1](https://osu.ppy.sh/beatmapsets/1964081) | Grand Finals tiebreaker |
 
 #### ![](/wiki/shared/mode/osu.png) Charlie's Perfect Math Class
 
@@ -602,6 +608,7 @@ These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-
 | [Dictate - IMITATE](https://soundcloud.com/dictate/imitate)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1201530) |
 | dksslqj - Oriental Creation | [#1](https://osu.ppy.sh/beatmapsets/1678494) |
 | dksslqj - osu! Fan Cafe Logosong | [#1](https://osu.ppy.sh/beatmapsets/148421) |
+| [Doomsday - Length of Location](http://soundcloud.com/user-598209031/length-of-location) | [#1](https://osu.ppy.sh/beatmapsets/1767661) |
 | Down - AJT[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1705780#osu/3485484) |
 | [Down - Chosun](https://open.spotify.com/album/24NP8pha5J7pWXJeeay8eR)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1833547) |
 | [Down - Ekoro](https://open.spotify.com/album/5nbet60aPK4tJCK3GVXhL2)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1683876) |

@@ -91,4 +91,4 @@ Torneios e competições não-oficiais também são sediados pelas comunidades.
 
 - [Lista de países que participaram em torneios do osu!](/wiki/Tournaments/Countries_that_participated_in_osu!_tournaments)
 - [Cronograma de Temporada da World Cup 2013/14](https://osu.ppy.sh/community/forums/topics/148024)
-- [osu!tourney](/wiki/osu!tourney) (Cliente utilizado para streaming de torneios)
+- [osu!tourney](/wiki/osu!_tournament_client/osu!tourney) (Cliente utilizado para streaming de torneios)

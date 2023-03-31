@@ -1,6 +1,6 @@
 # osu! originals
 
-Los **osu! originals** son canciones que se hicieron específicamente para (o estrenadas por primera vez en) osu! u otros eventos relacionados con osu!, como torneos, concursos y anuncios de [artistas destacados](/wiki/Featured_Artists). Si bien no todos los osu! originals tienen licencia oficial y están incluidos en la [biblioteca de artistas destacados](https://osu.ppy.sh/beatmaps/artists), las canciones que sí lo tienen se distinguen comúnmente por la etiqueta `ORIGINAL` en las páginas de sus respectivos artistas.
+Los **osu! originals** son canciones que se hicieron específicamente para (o estrenadas por primera vez en) osu! u otros eventos relacionados con osu!, como torneos, concursos y anuncios de [artistas destacados](/wiki/People/Featured_Artists). Si bien no todos los osu! originals tienen licencia oficial y están incluidos en la [biblioteca de artistas destacados](https://osu.ppy.sh/beatmaps/artists), las canciones que sí lo tienen se distinguen comúnmente por la etiqueta `ORIGINAL` en las páginas de sus respectivos artistas.
 
 Todos los osu! originals que han sido licenciados por el juego están autorizados para su uso en osu! bajo términos no exclusivos según la [política de licencias de música de osu!](/wiki/Legal/Music_licensing). Por el contrario, osu! originals sin licencia pueden requerir permiso para su uso. Consulte las [directrices de uso de contenido](/wiki/Rules/Content_Usage_Guidelines) para obtener más información.
 
@@ -256,6 +256,12 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 | Canción | Beatmap | Notas |
 | :-: | :-: | :-- |
 | [ptar124 - AmbidextrouS \~The Alchemist of The Left x The Sage of The Right\~](https://soundcloud.com/part-lerts/axs-7th-grand-finals-tiebreaker-ambidextrous-x) | [#1](https://osu.ppy.sh/beatmapsets/1698560) | Desempate de la gran final |
+
+#### ![](/wiki/shared/mode/osu.png) Badly Wood Cup
+
+| Canción | Beatmap | Notas |
+| :-: | :-: | :-- |
+| Daily197 - Sirius | [#1](https://osu.ppy.sh/beatmapsets/1964081) | Desempate de la gran final |
 
 #### ![](/wiki/shared/mode/osu.png) Charlie's Perfect Math Class
 
@@ -601,6 +607,7 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 | [Dictate - IMITATE](https://soundcloud.com/dictate/imitate)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1201530) |
 | dksslqj - Oriental Creation | [#1](https://osu.ppy.sh/beatmapsets/1678494) |
 | dksslqj - osu! Fan Cafe Logosong | [#1](https://osu.ppy.sh/beatmapsets/148421) |
+| [Doomsday - Length of Location](http://soundcloud.com/user-598209031/length-of-location) | [#1](https://osu.ppy.sh/beatmapsets/1767661) |
 | Down - AJT[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1705780#osu/3485484) |
 | [Down - Chosun](https://open.spotify.com/album/24NP8pha5J7pWXJeeay8eR)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1833547) |
 | [Down - Ekoro](https://open.spotify.com/album/5nbet60aPK4tJCK3GVXhL2)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1683876) |

@@ -8,7 +8,7 @@ tags:
 
 ![OWC 2013 logo](img/logo.jpg)
 
-Der **osu! World Cup 2013** (***OWC 2013***) war ein länderbasiertes osu!-Turnier, das vom [osu!-Team](/wiki/People/The_Team) ausgerichtet wurde. Es war die vierte Austragung des osu! World Cup.
+Der **osu! World Cup 2013** (***OWC 2013***) war ein länderbasiertes osu!-Turnier, das vom [osu!-Team](/wiki/People/osu!_team) ausgerichtet wurde. Es war die vierte Austragung des osu! World Cup.
 
 ## Turnierzeitplan
 
@@ -409,7 +409,7 @@ Sonntag, 10. November 2013:
 1. Der osu! World Cup ist ein länderbezogenes 4 gegen 4 Team Turnier.
 2. Die Beatmaps werden von den Beatmap-Wählern für jede Runde im Vorhinein am Sonntag angekündigt, bevor die eigentliche Partie stattfindet. Nur diese werden dann während den eigentlichen Partien zur Verfügung stehen.
    - Eine Beatmap wird als Tiebreaker-Map mit angegeben. Diese Beatmap wird nur beim größtmöglichem Punktegleichstand gespielt.
-   - Es wird auch einen Stapel für [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) und FreeMod geben.
+   - Es wird auch einen Stapel für [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time) und FreeMod geben.
 3. Die Zeiten der Partien werden vom Turnier-Management festgelegt (siehe unten).
 4. Wenn kein Schiedsrichter oder Personal vorhanden sein sollte, wird die Partie verschoben.
 5. Die Ergebnisse von wiederbelebten Spielern werden zum Teamergebnis mit angerechnet.
@@ -475,7 +475,7 @@ Sonntag, 10. November 2013:
 ### Mappoolanweisungen
 
 1. Es wird ein Mappool für die Gruppenphase, ein Mappool für das Achtelfinale, ein Mappool für das Viertelfinale, ein Mappool für Halbfinale und ein Mappool für das Finale geben.
-2. Jeder Mappool besteht aus 5 Stapeln: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) und FreeMod
+2. Jeder Mappool besteht aus 5 Stapeln: NoMod, [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time) und FreeMod
 3. Jeder Mappool besteht aus 23 Maps.
 4. Jeder Mappool hat eine Tiebreaker-Beatmap.
 5. Der NoMod-Stapel wird ohne aktive Mods gespielt.

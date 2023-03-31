@@ -6,7 +6,7 @@ no_native_review: true
 
 # Utytułowani użytkownicy
 
-Tytuły są zazwyczaj związane z [grupami użytkowników](/wiki/People/The_Team#grupy-użytkowników), natomiast użytkownicy wymienieni poniżej otrzymali je z innych powodów. Większość z nich została przyznana za nadzwyczajne osiągnięcia lub wkład w grę, podczas gdy reszta upamiętnia ważne wydarzenia z historii gry.
+Tytuły są zazwyczaj związane z [grupami użytkowników](/wiki/People/osu!_team#grupy-użytkowników), natomiast użytkownicy wymienieni poniżej otrzymali je z innych powodów. Większość z nich została przyznana za nadzwyczajne osiągnięcia lub wkład w grę, podczas gdy reszta upamiętnia ważne wydarzenia z historii gry.
 
 ## Według kategorii
 
@@ -94,7 +94,7 @@ Jedną z nagród w większości oficjalnych konkursów w tworzeniu beatmap jest 
 
 ### Elitarni nominatorzy
 
-Od 2020 roku wkład [nominatorów beatmap](/wiki/People/The_Team/Beatmap_Nominators) i członków [zespołu zapewniania jakości](/wiki/People/The_Team/Nomination_Assessment_Team) w rozwój systemu rankingowego jest nagradzany tytułem **Elite Nominator**. Jest on przyznawany na początku każdego roku za całoroczne działania i odbierany przy odejściu użytkowników z wyżej wymienionych grup.
+Od 2020 roku wkład [nominatorów beatmap](/wiki/People/Beatmap_Nominators) i członków [zespołu zapewniania jakości](/wiki/People/Nomination_Assessment_Team) w rozwój systemu rankingowego jest nagradzany tytułem **Elite Nominator**. Jest on przyznawany na początku każdego roku za całoroczne działania i odbierany przy odejściu użytkowników z wyżej wymienionych grup.
 
 - ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871)
 - ::{ flag=US }:: [eiri-](https://osu.ppy.sh/users/3388410)
@@ -126,7 +126,7 @@ Nagrodą w konkursach osu!remix jest tytuł **osu!mixer** dla głównego zwycię
 
 ### Wyróżnieni artyści
 
-[Wyróżnieni artyści](/wiki/Featured_Artists) z kontami w osu! otrzymują tytuł **Featured Artist** za swój wkład w grę.
+[Wyróżnieni artyści](/wiki/People/Featured_Artists) z kontami w osu! otrzymują tytuł **Featured Artist** za swój wkład w grę.
 
 ::{ flag=NO }:: [cYsmix](https://osu.ppy.sh/users/272870) i ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) mają tytuł **osu!musician** za swój wcześniejszy wkład w oprawę muzyczną osu! i oficjalne motywy gry. Użytkownik ::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471) zdecydował po zostaniu wyróżnionym artystą o zatrzymaniu tytułu **osu!mixer**.
 

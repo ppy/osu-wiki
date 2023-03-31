@@ -29,7 +29,7 @@
 
 ### 在osu!社区的帖子中
 
-请尽快把帖子举报给我们的[全球管理团队](/wiki/People/The_Team/Global_Moderation_Team)，步骤如下：
+请尽快把帖子举报给我们的[全球管理团队](/wiki/People/Global_Moderation_Team)，步骤如下：
 
 点击上面页面里任何一个人的名字，这样你就来到了他们的个人主页。如果你不知道点谁，点[这儿](https://osu.ppy.sh/users/102335)就好。
 

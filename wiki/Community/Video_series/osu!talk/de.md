@@ -6,7 +6,7 @@ no_native_review: true
 
 ![](img/osu!talk.jpg "osu!talk-Logo")
 
-**osu!talk** ist eine englische Podcast-Serie, die von [ztrot](https://osu.ppy.sh/users/6347) geführt wird, mit [deadbeat](https://osu.ppy.sh/users/128370) als Co-Moderator. Dabei werden verschiedene Personen aus der osu!-Community interviewt. Des Weiteren gibt es einige Gruppendiskussionen über unterschiedliche Dinge, die sich in der Community ereignen, beispielsweise die Änderungen im [osu!-Team](/wiki/People/The_Team) oder häufig diskutierte, langwierige Probleme wie Overmapping.
+**osu!talk** ist eine englische Podcast-Serie, die von [ztrot](https://osu.ppy.sh/users/6347) geführt wird, mit [deadbeat](https://osu.ppy.sh/users/128370) als Co-Moderator. Dabei werden verschiedene Personen aus der osu!-Community interviewt. Des Weiteren gibt es einige Gruppendiskussionen über unterschiedliche Dinge, die sich in der Community ereignen, beispielsweise die Änderungen im [osu!-Team](/wiki/People/osu!_team) oder häufig diskutierte, langwierige Probleme wie Overmapping.
 
 Die Podcast-Serie ist so eingerichtet, dass jeder an der Live-Sitzung teilnehmen und Fragen während dem öffentlichen [Q&A-Teil](https://de.wikipedia.org/wiki/Liste_von_Abk%C3%BCrzungen_(Netzjargon)#Q) der Episode stellen kann. Diese werden nirgendwo live übertragen, da wir die Nutzer dazu ermutigen möchten, selbst teilzunehmen und mitzumachen.
 

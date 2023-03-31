@@ -9,6 +9,6 @@ tags:
 
 # Tapping style
 
-*Berbeda dengan [Play style](/wiki/Play_style).*
+*Berbeda dengan [Play style](/wiki/Gameplay/Play_style).*
 
-**Tapping style** adalah istilah yang digunakan untuk menggambarkan metode pemain yang menekan tombol/mengirim input pada sebuah perangkat input untuk menekan [*hit object*](/wiki/Hit_object) di osu!. Gaya ketukan yang umum untuk [osu!](/wiki/Game_mode/osu!) adalah [*alternating*](/wiki/Play_style/Alternating), [*single-tapping*](/wiki/Play_style/Single-tapping), [*double tap*](/wiki/Play_style/Double_tapping), [*Hybrid*](/wiki/Play_style/Hybrid), dan [*tapx*](/wiki/Play_style/Tapx).
+**Tapping style** adalah istilah yang digunakan untuk menggambarkan metode pemain yang menekan tombol/mengirim input pada sebuah perangkat input untuk menekan [*hit object*](/wiki/Gameplay/Hit_object) di osu!. Gaya ketukan yang umum untuk [osu!](/wiki/Game_mode/osu!) adalah [*alternating*](/wiki/Gameplay/Play_style/Alternating), [*single-tapping*](/wiki/Gameplay/Play_style/Single-tapping), [*double tap*](/wiki/Gameplay/Play_style/Double_tapping), [*Hybrid*](/wiki/Gameplay/Play_style/Hybrid), dan [*tapx*](/wiki/Gameplay/Play_style/Tapx).

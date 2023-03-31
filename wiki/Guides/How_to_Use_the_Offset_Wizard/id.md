@@ -1,8 +1,8 @@
 # Bagaimana cara menggunakan Offset Wizard
 
-*Kunjungi juga: [Offset Wizard](/wiki/Client/Options/Offset_Wizard) dan [Universal offset](/wiki/Client/Options/Universal_offset)*
+*Kunjungi juga: [Offset Wizard](/wiki/Client/Options/Offset_Wizard) dan [Universal offset](/wiki/Offset/Universal_offset)*
 
-Jika Kamu merasa [hitsound](/wiki/Beatmapping/Hitsound) tidak sinkron dengan musik di setiap beatmap yang dimainkan, kemungkinan besar Kamu perlu mengubah [Universal offset](/wiki/Client/Options/Universal_offset). Cara yang paling mudah untuk melakukan perubahan pada Universal offset adalah dengan menggunakan **Offset Wizard**.
+Jika Kamu merasa [hitsound](/wiki/Beatmapping/Hitsound) tidak sinkron dengan musik di setiap beatmap yang dimainkan, kemungkinan besar Kamu perlu mengubah [Universal offset](/wiki/Offset/Universal_offset). Cara yang paling mudah untuk melakukan perubahan pada Universal offset adalah dengan menggunakan **Offset Wizard**.
 
 Ikuti langkah-langkah berikut untuk menyesuaikan Universal offset menggunakan Offset Wizard.
 

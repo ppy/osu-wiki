@@ -8,7 +8,7 @@ tags:
 
 ![OWC 2015 logo](img/logo.jpg)
 
-The **osu! World Cup 2015** (***OWC 2015***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It was the sixth instalment of the osu! World Cup.
+The **osu! World Cup 2015** (***OWC 2015***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/osu!_team). It was the sixth instalment of the osu! World Cup.
 
 ## Tournament schedule
 

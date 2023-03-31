@@ -10,7 +10,7 @@ tags:
 
 *Untuk penggunaan lainnya, kunjungi [Combo (disambiguation)](/wiki/Disambiguation/Combo).*
 
-**Combo** mengacu pada jumlah [hit object](/wiki/Hit_object) yang telah berhasil dikenai oleh seorang pemain secara berurutan tanpa mendapatkan *miss* atau [*slider break*](/wiki/Gameplay/Judgement/Slider_break). Nomor ini ditampilkan di berbagai tempat selama bermain:
+**Combo** mengacu pada jumlah [hit object](/wiki/Gameplay/Hit_object) yang telah berhasil dikenai oleh seorang pemain secara berurutan tanpa mendapatkan *miss* atau [*slider break*](/wiki/Gameplay/Judgement/Slider_break). Nomor ini ditampilkan di berbagai tempat selama bermain:
 
 - Di kiri bawah pada [osu!](/wiki/Game_mode/osu!).
 - Di drum pada [osu!taiko](/wiki/Game_mode/osu!taiko).

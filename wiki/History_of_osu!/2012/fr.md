@@ -19,7 +19,7 @@ Liens :
 Le 08/10/2012, osu!mania a finalement été publié au public, build ([woc2006](https://osu.ppy.sh/users/1105845)) ! En plus de cela :
 
 - Des hitsounds par objet ont été ajoutés dans l'éditeur. ([mm201](https://osu.ppy.sh/users/30655))
-- La possibilité de se remettre d'un miss en [multijoueur](/wiki/Client/Interface/Multiplayer) en atteignant tous les HP. (Exception faite si le mod [Sudden Death](/wiki/Game_modifier/Sudden_Death) ou [Perfect](/wiki/Game_modifier/Perfect) sont activée).
+- La possibilité de se remettre d'un miss en [multijoueur](/wiki/Client/Interface/Multiplayer) en atteignant tous les HP. (Exception faite si le mod [Sudden Death](/wiki/Gameplay/Game_modifier/Sudden_Death) ou [Perfect](/wiki/Gameplay/Game_modifier/Perfect) sont activée).
 - Un support du défilement pour la liste de classement en ligne dans le jeu.
 - Des corrections sur le [sélecteur de skin](/wiki/Client/Options#skin) afin de rendre le jeu plus réaliste.
 

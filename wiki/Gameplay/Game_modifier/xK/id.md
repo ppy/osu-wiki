@@ -21,7 +21,7 @@ tags:
 
 ![Ikon mod 1K](/wiki/shared/mods/1K.png "Ikon mod 1K") ![Ikon mod 2K](/wiki/shared/mods/2K.png "Ikon mod 2K") ![Ikon mod 3K](/wiki/shared/mods/3K.png "Ikon mod 3K") ![Ikon mod 4K](/wiki/shared/mods/4K.png "Ikon mod 4K") ![Ikon mod 5K](/wiki/shared/mods/5K.png "Ikon mod 5K") ![Ikon mod 6K](/wiki/shared/mods/6K.png "Ikon mod 6K") ![Ikon mod 7K](/wiki/shared/mods/7K.png "Ikon mod 7K") ![Ikon mod 8K](/wiki/shared/mods/8K.png "Ikon mod 8K") ![Ikon mod 9K](/wiki/shared/mods/9K.png "Ikon mod 9K")
 
-*Untuk melihat daftar keseluruhan dari semua mod, kunjungi: [Game modifier](/wiki/Game_modifier)*
+*Untuk melihat daftar keseluruhan dari semua mod, kunjungi: [Game modifier](/wiki/Gameplay/Game_modifier)*
 
 ## Tentang
 
@@ -35,7 +35,7 @@ tags:
 
 *Catatan: Penggunaan dari semua mod xK akan diabaikan pada beatmap khusus untuk osu!mania. Menggunakan mod 1K, 2K, atau 3K akan menyebabkan sebuah unranked play.*
 
-xK adalah sebuah [game modifier](/wiki/Game_modifier) yang akan mengakibatkan semua [beatmap](/wiki/Beatmap) *converted* pada [osu!mania](/wiki/Game_mode/osu!mania) untuk menggunakan pengaturan K (key) yang dipilih. Mod ini akan mengabaikan jumlah key awal yang ditetapkan pada sebuah beatmap. Sebagai gantinya, mengurangi pengali skor tergantung dari perbedaan K tersebut. 
+xK adalah sebuah [game modifier](/wiki/Gameplay/Game_modifier) yang akan mengakibatkan semua [beatmap](/wiki/Beatmap) *converted* pada [osu!mania](/wiki/Game_mode/osu!mania) untuk menggunakan pengaturan K (key) yang dipilih. Mod ini akan mengabaikan jumlah key awal yang ditetapkan pada sebuah beatmap. Sebagai gantinya, mengurangi pengali skor tergantung dari perbedaan K tersebut. 
 
 Daftar di bawah menjelaskan bagaimana pengali skor akan ditetapkan pada semua mod xK:
 
