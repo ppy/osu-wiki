@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: Stars Hollow"
-date: 2023-03-31 18:30:00 +0000
+date: 2023-03-31 19:00:00 +0000
 ---
 
 While most rhythm game music leans towards electronic genres, there's always room for traditional bands too. That's where our **Stars Hollow** comes in!
