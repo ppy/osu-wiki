@@ -32,7 +32,7 @@ The **osu! Romania Summer Tournament 2021** (***o!RST 2021***) was a 1v1, double
 
 ![](img/badge.png "o!RST 2021 winner badge")
 
-**Note**: The tournament winner waived his Lotus Keypad prize, so one keypad was given to the 3rd place finish instead.
+**Note**: The tournament winner waived his Lotus Keypad prize, thusly one keypad was awarded to the 3rd place contestant instead.
 
 ## Organisation
 
