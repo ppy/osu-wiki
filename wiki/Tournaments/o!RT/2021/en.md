@@ -6,7 +6,7 @@ tags:
 
 # osu! Romania Summer Tournament 2021
 
-![{SHORT_TITLE} logo](img/logo.png) <!-- replace "logo" with "banner" if that suits the image better -->
+![{SHORT_TITLE} logo](img/logo.png)
 
 The **osu! Romania Summer Tournament 2021** (***o!RST 2021***) was a 1v1, double elimination, country-based osu! tournament for Romanian and Moldovan players hosted by ::{ flag=RO }:: [Nice Aesthetics](https://osu.ppy.sh/users/7782553), ::{ flag=RO }:: [FallenAngelD](https://osu.ppy.sh/users/5225626), and ::{ flag=RO }:: [Ahrinity](https://osu.ppy.sh/users/11587229). It was the 3rd instalment of the osu! Romania Tournament.
 
@@ -73,7 +73,7 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=RO }:: [L9 ELOVATOR](https://osu.ppy.sh/users/9578404) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=RO }:: [_AfterWind](https://osu.ppy.sh/users/2086138) |
 
-![](img/podium.png "{SHORT_TITLE} podium") <!-- remove image if not available -->
+![](img/podium.png "{SHORT_TITLE} podium")
 
 ## Mappools
 
@@ -439,7 +439,7 @@ Monday, 2 August 2021
 | --: | :-: | :-: | :-- | :-- |
 | **WhySoInsecure** ::{ flag=RO }:: | **5** | 1 | ::{ flag=RO }:: RareshRSN | [#1](https://osu.ppy.sh/community/matches/88522572) |
 
-**Note:** The #1-2 seeded players, **eternum** and **\_AfterWind**, recieved direct byes to the winners bracket Round of 16, due to the uneven number of players in the Round of 32 bracket,
+**Note:** The #1-2 seeded players, **eternum** and **\_AfterWind**, recieved direct byes to the winners bracket Round of 16, due to the uneven number of players in the Round of 32 bracket.
 
 ## Ruleset
 
@@ -498,7 +498,7 @@ Monday, 2 August 2021
 
 ### Scheduling
 
-1. The standard time used for scheduling purposes will be in **UTC+3** (Romania's timezone during Daylight Saving Time)
+1. The standard time used for scheduling purposes will be in **UTC+3** (Romania's timezone during Daylight Saving Time).
 2. Matches will be held by default during the weekend, with reschedules being allowed on other days of the week within some limits.
 3. Reschedules are expected to be done within a adequate timeframe before the previously established match time, ideally with at least 12 hours to go before the match is supposed to take place. Otherwise, it will be at the tournament staff's discretion whether the reschedule will be allowed or not.
 
