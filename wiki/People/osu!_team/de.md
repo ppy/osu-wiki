@@ -1,6 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: 7099cd48c3ad38ccf49bec40c04c9c505c297369
 no_native_review: true
 tags:
   - osu! staff
@@ -10,7 +8,7 @@ tags:
   - team osu!
 ---
 
-# Das Team
+# osu!-Team
 
 Die unten aufgeführten Personen bilden den Kern des **osu!-Teams** und sind hauptverantwortlich dafür, dass das Spiel für alle großartig ist.
 
