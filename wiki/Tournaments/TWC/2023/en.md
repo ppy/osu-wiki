@@ -240,7 +240,6 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad
 - FreeMod
   1. [Zekk - ReIMEI (cdh) \[AsHITA\]](https://osu.ppy.sh/beatmapsets/1955236#taiko/4049602)
 
-
 ## Match results
 
 ### Round of 16
