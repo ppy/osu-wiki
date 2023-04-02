@@ -1,7 +1,7 @@
 ---
 tags:
-  - {o!RST 2021}
-  - {o!RT}
+  - o!RST 2021
+  - o!RT
 ---
 
 # osu! Romania Summer Tournament 2021
@@ -45,7 +45,7 @@ The osu! Romania Summer Tournament 2021 was run by various community members:
 | Streamer | ::{ flag=RO }:: [FallenAngelD](https://osu.ppy.sh/users/5225626) |
 | Commentator | ::{ flag=RO }:: [Teetoos](https://osu.ppy.sh/users/7068973), ::{ flag=RO }:: [FallenAngelD](https://osu.ppy.sh/users/5225626), ::{ flag=RO }:: [Nice Aesthetics](https://osu.ppy.sh/users/7782553), ::{ flag=RO }:: [Ahrinity](https://osu.ppy.sh/users/11587229), ::{ flag=RO }:: [eternum](https://osu.ppy.sh/users/4581069), ::{ flag=RO }:: [My Angel vuru](https://osu.ppy.sh/users/8244518), ::{ flag=RO }:: [L9 ELOVATOR](https://osu.ppy.sh/users/9578404) |
 | Designer | ::{ flag=RO }:: [Nice Aesthetics](https://osu.ppy.sh/users/7782553), ::{ flag=RO }:: [FallenAngelD](https://osu.ppy.sh/users/5225626) |
-| Referee | ::{ flag=RO }:: [Nice Aesthetics](https://osu.ppy.sh/users/7782553), ::{ flag=RO }:: [LuchiBuchi](https://osu.ppy.sh/users/10897656), ::{ flag=RO }:: [Piggy Bank](https://osu.ppy.sh/users/8190224/), ::{ flag=RO }:: [STRYKEX](https://osu.ppy.sh/users/15799234), ::{ flag=RO }:: [basil simp](https://osu.ppy.sh/users/18515010), ::{ flag=RO }:: [Canonbomb18](https://osu.ppy.sh/users/9480076), ::{ flag=RO }:: [Taevas](https://osu.ppy.sh/users/7276846), ::{ flag=RO }:: [Ahrinity](https://osu.ppy.sh/users/11587229),  |
+| Referee | ::{ flag=RO }:: [Nice Aesthetics](https://osu.ppy.sh/users/7782553), ::{ flag=RO }:: [LuchiBuchi](https://osu.ppy.sh/users/10897656), ::{ flag=RO }:: [Piggy Bank](https://osu.ppy.sh/users/8190224/), ::{ flag=RO }:: [STRYKEX](https://osu.ppy.sh/users/15799234), ::{ flag=RO }:: [basil simp](https://osu.ppy.sh/users/18515010), ::{ flag=RO }:: [Canonbomb18](https://osu.ppy.sh/users/9480076), ::{ flag=RO }:: [Taevas](https://osu.ppy.sh/users/7276846), ::{ flag=RO }:: [Ahrinity](https://osu.ppy.sh/users/11587229) |
 
 ## Links
 
@@ -58,10 +58,10 @@ The osu! Romania Summer Tournament 2021 was run by various community members:
 
 | Seed | Players |
 | :-- | :-- |
-| Top | ::{ flag=RO }:: [eternum](https://osu.ppy.sh/users/4581069), ::{ flag=RO }:: [\_AfterWind](https://osu.ppy.sh/users/2086138), ::{ flag=RO }:: [Razei](https://osu.ppy.sh/users/10778261), ::{ flag=RO }:: [Lucrise](https://osu.ppy.sh/users/9719351), ::{ flag=RO }:: [L9 ELOVATOR](https://osu.ppy.sh/users/9578404), ::{ flag=RO }:: [cristi2708](https://osu.ppy.sh/users/7552300), ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071), ::{ flag=RO }:: [Rekkke](https://osu.ppy.sh/users/11133864)  |
-| High | ::{ flag=RO }:: [Gadzzaa](https://osu.ppy.sh/users/14367771), ::{ flag=RO }:: [RedGameBoy](https://osu.ppy.sh/users/8942234), ::{ flag=RO }:: [entsetzen](https://osu.ppy.sh/users/10261883), ::{ flag=RO }:: [WhySoInsecure](https://osu.ppy.sh/users/10198597), ::{ flag=RO }:: [Paato](https://osu.ppy.sh/users/9390417), ::{ flag=RO }:: [A-XLE](https://osu.ppy.sh/users/12487373), ::{ flag=RO }:: [Lernaeus](https://osu.ppy.sh/users/9703390), ::{ flag=RO }:: [GMTrooll](https://osu.ppy.sh/users/7593010)  | 
-| Low | ::{ flag=RO }:: [Dank Uta](https://osu.ppy.sh/users/6566362), ::{ flag=RO }:: [RatonGolzache](https://osu.ppy.sh/users/11649551), ::{ flag=RO }:: [SiKKr](https://osu.ppy.sh/users/10959013), ::{ flag=RO }:: [megalapin](https://osu.ppy.sh/users/21023217), ::{ flag=RO }:: [RareshRSN](https://osu.ppy.sh/users/9542018), ::{ flag=RO }:: [hroni](https://osu.ppy.sh/users/14414337), ::{ flag=RO }:: [sarpili](https://osu.ppy.sh/users/14381318), ::{ flag=RO }:: [Australia](https://osu.ppy.sh/users/16196079)  | 
-| Bottom | ::{ flag=RO }:: [MariusBDR](https://osu.ppy.sh/users/16334893), ::{ flag=RO }:: [Boticeli](https://osu.ppy.sh/users/13494470), ::{ flag=RO }:: [Dano Osu](https://osu.ppy.sh/users/11013717), ::{ flag=RO }:: [L9 MATEIUT](https://osu.ppy.sh/users/14774102), ::{ flag=RO }:: [rzvthePsycho](https://osu.ppy.sh/users/10310918), ::{ flag=RO }:: [VenTryXX](https://osu.ppy.sh/users/10808572) | 
+| Top | ::{ flag=RO }:: [eternum](https://osu.ppy.sh/users/4581069), ::{ flag=RO }:: [\_AfterWind](https://osu.ppy.sh/users/2086138), ::{ flag=RO }:: [Razei](https://osu.ppy.sh/users/10778261), ::{ flag=RO }:: [Lucrise](https://osu.ppy.sh/users/9719351), ::{ flag=RO }:: [L9 ELOVATOR](https://osu.ppy.sh/users/9578404), ::{ flag=RO }:: [cristi2708](https://osu.ppy.sh/users/7552300), ::{ flag=RO }:: [nanoya](https://osu.ppy.sh/users/12366071), ::{ flag=RO }:: [Rekkke](https://osu.ppy.sh/users/11133864) |
+| High | ::{ flag=RO }:: [Gadzzaa](https://osu.ppy.sh/users/14367771), ::{ flag=RO }:: [RedGameBoy](https://osu.ppy.sh/users/8942234), ::{ flag=RO }:: [entsetzen](https://osu.ppy.sh/users/10261883), ::{ flag=RO }:: [WhySoInsecure](https://osu.ppy.sh/users/10198597), ::{ flag=RO }:: [Paato](https://osu.ppy.sh/users/9390417), ::{ flag=RO }:: [A-XLE](https://osu.ppy.sh/users/12487373), ::{ flag=RO }:: [Lernaeus](https://osu.ppy.sh/users/9703390), ::{ flag=RO }:: [GMTrooll](https://osu.ppy.sh/users/7593010) |
+| Low | ::{ flag=RO }:: [Dank Uta](https://osu.ppy.sh/users/6566362), ::{ flag=RO }:: [RatonGolzache](https://osu.ppy.sh/users/11649551), ::{ flag=RO }:: [SiKKr](https://osu.ppy.sh/users/10959013), ::{ flag=RO }:: [megalapin](https://osu.ppy.sh/users/21023217), ::{ flag=RO }:: [RareshRSN](https://osu.ppy.sh/users/9542018), ::{ flag=RO }:: [hroni](https://osu.ppy.sh/users/14414337), ::{ flag=RO }:: [sarpili](https://osu.ppy.sh/users/14381318), ::{ flag=RO }:: [Australia](https://osu.ppy.sh/users/16196079) |
+| Bottom | ::{ flag=RO }:: [MariusBDR](https://osu.ppy.sh/users/16334893), ::{ flag=RO }:: [Boticeli](https://osu.ppy.sh/users/13494470), ::{ flag=RO }:: [Dano Osu](https://osu.ppy.sh/users/11013717), ::{ flag=RO }:: [L9 MATEIUT](https://osu.ppy.sh/users/14774102), ::{ flag=RO }:: [rzvthePsycho](https://osu.ppy.sh/users/10310918), ::{ flag=RO }:: [VenTryXX](https://osu.ppy.sh/users/10808572) |
 
 ## Podium
 
@@ -69,11 +69,11 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") |  ::{ flag=RO }:: [eternum](https://osu.ppy.sh/users/4581069) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") |  ::{ flag=RO }:: [L9 ELOVATOR](https://osu.ppy.sh/users/9578404) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") |  ::{ flag=RO }:: [_AfterWind](https://osu.ppy.sh/users/2086138) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ::{ flag=RO }:: [eternum](https://osu.ppy.sh/users/4581069) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=RO }:: [L9 ELOVATOR](https://osu.ppy.sh/users/9578404) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=RO }:: [_AfterWind](https://osu.ppy.sh/users/2086138) |
 
-![](img/podium.png "{SHORT_TITLE} podium") <!-- remove image if not available --> 
+![](img/podium.png "{SHORT_TITLE} podium") <!-- remove image if not available -->
 
 ## Mappools
 
@@ -82,125 +82,125 @@ This competition has come to an end and resulted in the following podium:
 **[Download the mappack here! (173 MB)](https://drive.google.com/file/d/1beuT6THIoqaIz3MiAIMssYIHc3P_RocL/view)**
 
 - NoMod
-  1. [nao - Toaru Shoukoku  (Nana Abe) [Hime Hime Collab]](https://osu.ppy.sh/b/2651915)
-  2. [LeaF - Paraclete (Kroytz) [Serendipity]](https://osu.ppy.sh/b/975588)
-  3. [Tia - Deal with the devil (Bazz B) [Gambling maniac]](https://osu.ppy.sh/b/1717644)
-  4. [Warak - Cosmic Invaders (Cassu2) [Budget Akali Style]](https://osu.ppy.sh/b/1544689)
-  5. [Camellia as "Bang Riot" - Blastix Riotz (xidorn) [the fifth]](https://osu.ppy.sh/b/3154742)
-  6. [meganeko - Feral (osu! edit) (Respirte) [Veracious]](https://osu.ppy.sh/b/2507884)
-  7. [Hagane - Event Horizon (yaspo) [Beyond Corsace]](https://osu.ppy.sh/b/2651787)
+  1. [nao - Toaru Shoukoku  (Nana Abe) [Hime Hime Collab]](https://osu.ppy.sh/beatmapsets/1276409#osu/2651915)
+  2. [LeaF - Paraclete (Kroytz) [Serendipity]](https://osu.ppy.sh/beatmapsets/455109#osu/975588)
+  3. [Tia - Deal with the devil (Bazz B) [Gambling maniac]](https://osu.ppy.sh/beatmapsets/819239#osu/1717644)
+  4. [Warak - Cosmic Invaders (Cassu2) [Budget Akali Style]](https://osu.ppy.sh/beatmapsets/732045#osu/1544689)
+  5. [Camellia as "Bang Riot" - Blastix Riotz (xidorn) [the fifth]](https://osu.ppy.sh/beatmapsets/732045#osu/1544689)
+  6. [meganeko - Feral (osu! edit) (Respirte) [Veracious]](https://osu.ppy.sh/beatmapsets/1204383#osu/2507884)
+  7. [Hagane - Event Horizon (yaspo) [Beyond Corsace]](https://osu.ppy.sh/beatmapsets/1276324#osu/2651787)
 - Hidden
-  1. [Yousei Teikoku - Kuusou Mesorogiwi (IsomirDiAngelo) [Prophecy]](https://osu.ppy.sh/b/2621030)
-  2. [Buta-Otome - towa no maigo (Natteke desu) [ar8 edit]](https://osu.ppy.sh/b/2900413)
-  3. [Camellia - B L A C K - R A Y (Mir) [Obtrusion]](https://osu.ppy.sh/b/2134989)
+  1. [Yousei Teikoku - Kuusou Mesorogiwi (IsomirDiAngelo) [Prophecy]](https://osu.ppy.sh/beatmapsets/1260852#osu/2621030)
+  2. [Buta-Otome - towa no maigo (Natteke desu) [ar8 edit]](https://osu.ppy.sh/beatmapsets/639108#osu/2900413)
+  3. [Camellia - B L A C K - R A Y (Mir) [Obtrusion]](https://osu.ppy.sh/beatmapsets/1020387#osu/2134989)
 - HardRock
-  1. [Wagakki Band - Roku Chounen to Ichiya Monogatari (Taeyang) [Taeyang's style]](https://osu.ppy.sh/b/1046293)
-  2. [ESTi - HELIX (Edit Ver.) (FreeSongs) [Helix]](https://osu.ppy.sh/b/734769)
-  3. [Polyphia - O.D. (Melwoine) [Overly Difficult]](https://osu.ppy.sh/b/2651794)
+  1. [Wagakki Band - Roku Chounen to Ichiya Monogatari (Taeyang) [Taeyang's style]](https://osu.ppy.sh/beatmapsets/490930#osu/1046293)
+  2. [ESTi - HELIX (Edit Ver.) (FreeSongs) [Helix]](https://osu.ppy.sh/beatmapsets/331732#osu/734769)
+  3. [Polyphia - O.D. (Melwoine) [Overly Difficult]](https://osu.ppy.sh/beatmapsets/1276327#osu/2651794)
 - DoubleTime
-  1. [ClariS - CLICK(Soleily Remix) (Kencho) [Niseclick]](https://osu.ppy.sh/b/875761)
-  2. [S.S.H. - Sorcerian ~ Major Demon (Elcheer) [Demon Slayer]](https://osu.ppy.sh/b/2643212)
-  3. [monet - Noborenai Sakamichi (Mirash) [Delis' Insane]](https://osu.ppy.sh/b/1419974)
-  4. [Receptor - Redstar (fergas) [Glory]](https://osu.ppy.sh/b/502414)
+  1. [ClariS - CLICK(Soleily Remix) (Kencho) [Niseclick]](https://osu.ppy.sh/beatmapsets/402741#osu/875761)
+  2. [S.S.H. - Sorcerian ~ Major Demon (Elcheer) [Demon Slayer]](https://osu.ppy.sh/beatmapsets/1272001#osu/2643212)
+  3. [monet - Noborenai Sakamichi (Mirash) [Delis' Insane]](https://osu.ppy.sh/beatmapsets/671607#osu/1419974)
+  4. [Receptor - Redstar (fergas) [Glory]](https://osu.ppy.sh/beatmapsets/184301#osu/502414)
 - ForceMod
-  1. [Shintani Ryoko - Wonderful World (squishi) [beautiful collab fuck do you want me to call it?]](https://osu.ppy.sh/b/1518426)
-  2. [ParagonX9 - Chaoz Japan (AJT) [VViliam5]](https://osu.ppy.sh/b/3157088)
-  3. [sakuraburst - Glacierfall (Park Remix) (ScubDomino) [get f**ked up]](https://osu.ppy.sh/b/2753127)
+  1. [Shintani Ryoko - Wonderful World (squishi) [beautiful collab fuck do you want me to call it?]](https://osu.ppy.sh/beatmapsets/719011#osu/1518426)
+  2. [ParagonX9 - Chaoz Japan (AJT) [VViliam5]](https://osu.ppy.sh/beatmapsets/1182086#osu/3157088)
+  3. [sakuraburst - Glacierfall (Park Remix) (ScubDomino) [get f**ked up]](https://osu.ppy.sh/beatmapsets/1329045#osu/2753127)
 - Tiebreaker
-  1. **[Vektor - Outer Isolation (FCL) [Segregated]](https://osu.ppy.sh/b/1574230)**
+  1. **[Vektor - Outer Isolation (FCL) [Segregated]](https://osu.ppy.sh/beatmapsets/469408#osu/1574230)**
 
 ### Finals
 
 **[Download the mappack here! (147 MB)](https://drive.google.com/file/d/1RRwLDwJYCUpvDbsg_8xOfgjz9KvuAsB1/view)**
 
 - NoMod
-  1. [BUTAOTOME - Osanadachi (BarkingMadDog) [Extreme]](https://osu.ppy.sh/b/2708955)
-  2. [xi - over the top (Kroytz) [beyond the heavens]](https://osu.ppy.sh/b/1023355)
-  3. [MANUEL - GAS GAS GAS (heroin_player67) [Step On It!]](https://osu.ppy.sh/b/1731978)
-  4. [Camellia - [BLEED BLOOD] (Mir) [Wildsense]](https://osu.ppy.sh/b/2136959)
-  5. [Imperial Circus - Shinbatsu o Tadori (Kite) [Extreme]](https://osu.ppy.sh/b/2039543)
+  1. [BUTAOTOME - Osanadachi (BarkingMadDog) [Extreme]](https://osu.ppy.sh/beatmapsets/1306569#osu/2708955)
+  2. [xi - over the top (Kroytz) [beyond the heavens]](https://osu.ppy.sh/beatmapsets/479215#osu/1023355)
+  3. [MANUEL - GAS GAS GAS (heroin_player67) [Step On It!]](https://osu.ppy.sh/beatmapsets/826430#osu/1731978)
+  4. [Camellia - [BLEED BLOOD] (Mir) [Wildsense]](https://osu.ppy.sh/beatmapsets/1021338#osu/2136959)
+  5. [Imperial Circus - Shinbatsu o Tadori (Kite) [Extreme]](https://osu.ppy.sh/beatmapsets/482382#osu/2039543)
 - Hidden
-  1. [Infected Mushroom - Guitarmass (Cut Ver.) (Ciyus Miapah) [Total Domination]](https://osu.ppy.sh/b/1977960)
-  2. [x0o0x_ - Big Brother (Luscent) [YOKES' EXTRA Mix]](https://osu.ppy.sh/b/2400783)
-  3. [Nekomata Master - Far east nightbird (HighTec) [yf's Expert]](https://osu.ppy.sh/b/1231299)
+  1. [Infected Mushroom - Guitarmass (Cut Ver.) (Ciyus Miapah) [Total Domination]](https://osu.ppy.sh/beatmapsets/947022#osu/1977960)
+  2. [x0o0x_ - Big Brother (Luscent) [YOKES' EXTRA Mix]](https://osu.ppy.sh/beatmapsets/1120687#osu/2400783)
+  3. [Nekomata Master - Far east nightbird (HighTec) [yf's Expert]](https://osu.ppy.sh/beatmapsets/576795#osu/1231299)
 - HardRock
-  1. [Reol - Asymmetry (Skystar) [cRyoSkystar's Farewell]](https://osu.ppy.sh/b/771496)
-  2. [Eisyo-kobu - Oriental Blossom (Crystal) [yf's Expert]](https://osu.ppy.sh/b/1242793)
-  3. [xi - Zauberkugel (pishifat) [Extra]](https://osu.ppy.sh/b/1174596)
+  1. [Reol - Asymmetry (Skystar) [cRyoSkystar's Farewell]](https://osu.ppy.sh/beatmapsets/310499#osu/771496)
+  2. [Eisyo-kobu - Oriental Blossom (Crystal) [yf's Expert]](https://osu.ppy.sh/beatmapsets/586889#osu/1242793)
+  3. [xi - Zauberkugel (pishifat) [Extra]](https://osu.ppy.sh/beatmapsets/554892#osu/1174596)
 - DoubleTime
-  1. [Toyosaki Aki - Diamond (Fycho) [Insane]](https://osu.ppy.sh/b/290581)
-  2. [KAMELOT - Kevlar Skin (LMT) [Insane]](https://osu.ppy.sh/b/2633777)
-  3. [Kalafina - Kyrie (Vell) [Genesis]](https://osu.ppy.sh/b/809513)
+  1. [Toyosaki Aki - Diamond (Fycho) [Insane]](https://osu.ppy.sh/beatmapsets/111760#osu/290581)
+  2. [KAMELOT - Kevlar Skin (LMT) [Insane]](https://osu.ppy.sh/beatmapsets/1267309#osu/2633777)
+  3. [Kalafina - Kyrie (Vell) [Genesis]](https://osu.ppy.sh/beatmapsets/369380#osu/809513)
 - ForceMod
-  1. [YOASOBI - Yoru ni Kakeru (ShirohaMyMommy) [Moonlight Shadow]](https://osu.ppy.sh/b/2371802)
-  2. [Sound Horizon - Raijin no Hidariude (Satellite) [ExtrA]](https://osu.ppy.sh/b/2895387)
+  1. [YOASOBI - Yoru ni Kakeru (ShirohaMyMommy) [Moonlight Shadow]](https://osu.ppy.sh/beatmapsets/1135665#osu/2371802)
+  2. [Sound Horizon - Raijin no Hidariude (Satellite) [ExtrA]](https://osu.ppy.sh/beatmapsets/1382134#osu/2895387)
 - Tiebreaker
-  1. **[Release Hallucination - Chronostasis (Painketsu) [Time Sakugo]](https://osu.ppy.sh/b/1171193)**
+  1. **[Release Hallucination - Chronostasis (Painketsu) [Time Sakugo]](https://osu.ppy.sh/beatmapsets/553085#osu/1171193)**
 
 ### Semi-Finals
 
 **[Download the mappack here! (120 MB)](https://drive.google.com/file/d/1tuSslkBr-RkFSZWXvqq6jjw-MAKIrGBG/view)**
 
 - NoMod
-  1. [Yousei Teikoku - Dea x Crisis (Lasse) [Despair]](https://osu.ppy.sh/b/2773398)
-  2. [cosMo@BousouP - Sekai no Owari ni Aimashou (Realazy) [Lasse's owo Dimensions]](https://osu.ppy.sh/b/1825921)
-  3. [POLKADOT STINGRAY - Otoshimae (moph) [Extreme]](https://osu.ppy.sh/b/2699135)
-  4. [Giga - BRING IT ON (Pho) [Let's Do This!]](https://osu.ppy.sh/b/1809677)
-  5. [Igorrr - Cicadidae (fergas) [Chirr 2]](https://osu.ppy.sh/b/862246)
+  1. [Yousei Teikoku - Dea x Crisis (Lasse) [Despair]](https://osu.ppy.sh/beatmapsets/1338846#osu/2773398)
+  2. [cosMo@BousouP - Sekai no Owari ni Aimashou (Realazy) [Lasse's owo Dimensions]](https://osu.ppy.sh/beatmapsets/872578#osu/1825921)
+  3. [POLKADOT STINGRAY - Otoshimae (moph) [Extreme]](https://osu.ppy.sh/beatmapsets/1301330#osu/2699135)
+  4. [Giga - BRING IT ON (Pho) [Let's Do This!]](https://osu.ppy.sh/beatmapsets/865490#osu/1809677)
+  5. [Igorrr - Cicadidae (fergas) [Chirr 2]](https://osu.ppy.sh/beatmapsets/301320#osu/862246)
 - Hidden
-  1. [Akita Neru - Gotya Gotya Uruse (Rachelles) [Hinarika's Style]](https://osu.ppy.sh/b/169329)
-  2. [Kelly Clarkson - Behind These Hazel Eyes (Nightcore Remix) (Raikozen) [raikoplayer111]](https://osu.ppy.sh/b/1356688)
-  3. [MYUKKE. - re[in]flaw (captin1) [in[co]rect]](https://osu.ppy.sh/b/2785316)
+  1. [Akita Neru - Gotya Gotya Uruse (Rachelles) [Hinarika's Style]](https://osu.ppy.sh/beatmapsets/55850#osu/169329)
+  2. [Kelly Clarkson - Behind These Hazel Eyes (Nightcore Remix) (Raikozen) [raikoplayer111]](https://osu.ppy.sh/beatmapsets/639701#osu/1356688)
+  3. [MYUKKE. - re[in]flaw (captin1) [in[co]rect]](https://osu.ppy.sh/beatmapsets/1344871#osu/2785316)
 - HardRock
-  1. [JIN feat. 96neko - Children Record (Lasse) [Expert]](https://osu.ppy.sh/b/1944231)
-  2. [Cait Sith - Schrodinger's Cat (Sushi) [EX]](https://osu.ppy.sh/b/117641)
-  3. [ChouchouP - Tsukimiyo Rabbit (Zero__wind) [Tsuki]](https://osu.ppy.sh/b/312959)
+  1. [JIN feat. 96neko - Children Record (Lasse) [Expert]](https://osu.ppy.sh/beatmapsets/931072#osu/1944231)
+  2. [Cait Sith - Schrodinger's Cat (Sushi) [EX]](https://osu.ppy.sh/beatmapsets/36409#osu/117641)
+  3. [ChouchouP - Tsukimiyo Rabbit (Zero__wind) [Tsuki]](https://osu.ppy.sh/beatmapsets/122342#osu/312959)
 - DoubleTime
-  1. [MUKKA - DEVOCHKA S KARE (DendyHere) [Collab Another]](https://osu.ppy.sh/b/2034967)
-  2. [Tatsh feat. Tsukiko - (Natteke) Floating Darkness [Collab]](https://osu.ppy.sh/b/76612)
-  3. [Halozy - Heart of Night (Chaoslitz) [Life of Loneliness]](https://osu.ppy.sh/b/991229)
+  1. [MUKKA - DEVOCHKA S KARE (DendyHere) [Collab Another]](https://osu.ppy.sh/beatmapsets/956109#osu/2034967)
+  2. [Tatsh feat. Tsukiko - (Natteke) Floating Darkness [Collab]](https://osu.ppy.sh/beatmapsets/22173#osu/76612)
+  3. [Halozy - Heart of Night (Chaoslitz) [Life of Loneliness]](https://osu.ppy.sh/beatmapsets/462878#osu/991229)
 - ForceMod
-  1. [Ranko - In the Black (Mirash) [raNko]](https://osu.ppy.sh/b/1958516)
-  2. [syatten remixed celas - Bird Sprite -Awakening of Light- (emu1337) [LMT's Extra]](https://osu.ppy.sh/b/2741605)
+  1. [Ranko - In the Black (Mirash) [raNko]](https://osu.ppy.sh/beatmapsets/937562#osu/1958516)
+  2. [syatten remixed celas - Bird Sprite -Awakening of Light- (emu1337) [LMT's Extra]](https://osu.ppy.sh/beatmapsets/1321314#osu/2741605)
 - Tiebreaker
-  1. **[Unlucky Morpheus - Angreifer (KwAIMSuckASFuk) [Inanity Wrath]](https://osu.ppy.sh/b/2322515)**
+  1. **[Unlucky Morpheus - Angreifer (KwAIMSuckASFuk) [Inanity Wrath]](https://osu.ppy.sh/beatmapsets/1111593#osu/2322515)**
 
 ### Quarter-Finals
 
 **[Download the mappack here! (117.7 MB)](https://drive.google.com/file/d/10-YOyKUKIA92Fb-znt6He2B-lDAt7lmy/view?usp=sharing)**
 
 - NoMod
-  1. [LiSA - Tsumibito (Rosiie) [Desire]](https://osu.ppy.sh/b/2834295)
-  2. [xi - Ascension to Heaven (Kroytz) [Extra]](https://osu.ppy.sh/b/2732587)
-  3. [YURRY CANON - Nadeshiko color Heart (kwk) [Saturnalize's Extra]](https://osu.ppy.sh/b/1463294)
-  4. [CELLON. - Labyrinth of Darkness (Mir) [Expert]](https://osu.ppy.sh/b/1634887)
-  5. [goreshit - Goreshit Compilation (\_LRJ_) [MATZcore 9.5]](https://cdn.discordapp.com/attachments/748885646294253598/874331005538959390/goreshit_-_Goreshit_Compilation.osz)
+  1. [LiSA - Tsumibito (Rosiie) [Desire]](https://osu.ppy.sh/beatmapsets/1370775#osu/2834295)
+  2. [xi - Ascension to Heaven (Kroytz) [Extra]](https://osu.ppy.sh/beatmapsets/1301360#osu/2732587)
+  3. [YURRY CANON - Nadeshiko color Heart (kwk) [Saturnalize's Extra]](https://osu.ppy.sh/beatmapsets/682996#osu/1463294)
+  4. [CELLON. - Labyrinth of Darkness (Mir) [Expert]](https://osu.ppy.sh/beatmapsets/778383#osu/1634887)
+  5. [goreshit - Goreshit Compilation (\_LRJ_) [MATZcore 9.5]](https://drive.google.com/file/d/1gKeP1HjocGCT7sPnzeM8rL2gmRJkvNcE/view?usp=sharing)
 - Hidden
-  1. [Suzumu - Kakumeisei ousama densenbyou (tutuhaha) [AngelHoney's Extra]](https://osu.ppy.sh/b/701528)
-  2. [SWAN K feat. Asuka M - LOVE B.B.B ([ Couch ] Lite) [cs4]](https://osu.ppy.sh/b/2531905)
+  1. [Suzumu - Kakumeisei ousama densenbyou (tutuhaha) [AngelHoney's Extra]](https://osu.ppy.sh/beatmapsets/307686#osu/701528)
+  2. [SWAN K feat. Asuka M - LOVE B.B.B ([ Couch ] Lite) [cs4]](https://osu.ppy.sh/beatmapsets/1100957#osu/2531905)
 - HardRock
-  1. [Primary - Awake (xChippy) [Goodbye]](https://osu.ppy.sh/b/689290)
-  2. [ZUN - Futatsuiwa From Sado (Spirit World) (Parachute) [Overdrive]](https://osu.ppy.sh/b/200536)
+  1. [Primary - Awake (xChippy) [Goodbye]](https://osu.ppy.sh/beatmapsets/308179#osu/689290)
+  2. [ZUN - Futatsuiwa From Sado (Spirit World) (Parachute) [Overdrive]](https://osu.ppy.sh/beatmapsets/69559#osu/200536)
 - DoubleTime
-  1. [AK X LYNX ft. Veela - Virtual Paradise (alacat) [thzz' Insane]](https://osu.ppy.sh/b/1093107)
-  2. [lasah - GHOST OF LORELEY (moph) [Ambient's Insane]](https://osu.ppy.sh/b/1058615)
-  3. [Kurahashi Yoeko - Tomodachi no Uta (tutuhaha) [Light Insane]](https://osu.ppy.sh/b/1659942)
+  1. [AK X LYNX ft. Veela - Virtual Paradise (alacat) [thzz' Insane]](https://osu.ppy.sh/beatmapsets/477725#osu/1093107)
+  2. [lasah - GHOST OF LORELEY (moph) [Ambient's Insane]](https://osu.ppy.sh/beatmapsets/486177#osu/1058615)
+  3. [Kurahashi Yoeko - Tomodachi no Uta (tutuhaha) [Light Insane]](https://osu.ppy.sh/beatmapsets/790979#osu/1659942)
 - ForceMod
-  1. [JUNNA - Here (Mirash) [Extra]](https://osu.ppy.sh/b/1555562)
-  2. [DJ YOSHITAKA - Evans (Jerrysr) [Insane]](https://osu.ppy.sh/b/50483)
+  1. [JUNNA - Here (Mirash) [Extra]](https://osu.ppy.sh/beatmapsets/737103#osu/1555562)
+  2. [DJ YOSHITAKA - Evans (Jerrysr) [Insane]](https://osu.ppy.sh/beatmapsets/13694#osu/50483)
 - Tiebreaker
-  1. **[sanj - last minute (sakuraburst remix) (Monarch) [burst]](https://osu.ppy.sh/b/1038193)**
+  1. **[sanj - last minute (sakuraburst remix) (Monarch) [burst]](https://osu.ppy.sh/beatmapsets/486920#osu/1038193)**
 
 ### Round of 16
 
 **[Download the mappack here! (91.1 MB)](https://drive.google.com/file/d/1BtemqmnoHWDaJbNsz1zSQlrrCi1Bwkm3/view?usp=sharing)**
 
 - NoMod
-  1. [KISIDA KYODAN & THE AKEBOSI ROCKETS - GATE\~Sore wa Akatsuki no you ni~ (Akitoshi) [Darkness]](https://osu.ppy.sh/b/1025551)
+  1. [KISIDA KYODAN & THE AKEBOSI ROCKETS - GATE\~Sore wa Akatsuki no you ni~ (Akitoshi) [Darkness]](https://osu.ppy.sh/beatmapsets/480386#osu/1025551)
   2. [BlackYooh vs. siromaru - BLACK or WHITE? (BluOxy) [MASTER]](https://osu.ppy.sh/beatmapsets/248876#osu/635679)
   3. [Ryokuoushoku Shakai - LADYBUG (RLC) [Rebirth]](https://osu.ppy.sh/beatmapsets/1441587#osu/2965623)
   4. [Function Phantom - Euclid (RikiH_) [-Tochi's Extra]](https://osu.ppy.sh/beatmapsets/427750#osu/923384)
-  5. [DragonForce - Ring of Fire (MashaSG) [Extra]](https://osu.ppy.sh/b/1518059)
+  5. [DragonForce - Ring of Fire (MashaSG) [Extra]](https://osu.ppy.sh/beatmapsets/717015#osu/1518059)
 - Hidden
   1. [paraoka - boot (rickyboi) [Shoe]](https://osu.ppy.sh/beatmapsets/50131#osu/154226)
   2. [SHK - Identity Part III (ktgster) [SHD]](https://osu.ppy.sh/beatmapsets/280329#osu/634351)
@@ -222,56 +222,58 @@ This competition has come to an end and resulted in the following podium:
 **[Download the mappack here! (94 MB)](https://drive.google.com/file/d/1mFJdBoACkqp_4sMufKcXxCYCDCwWvBVe/view)**
 
 - NoMod
-  1. [Imy - Fake (Bellicose) [Dored's Expert]](https://osu.ppy.sh/b/2637339)
-  2. [Porter Robinson - Sad Machine (Draper Remix) (Alonevpk) [mac n cheese]](https://osu.ppy.sh/b/797658)
-  3. [Nanahoshi Kangengakudan - anoko dokonoko (kwk) [Rizen's Extra]](https://osu.ppy.sh/b/1437419)
-  4. [Virtual Riot - Prove Them Wrong (C00L) [Zizou's Insane]](https://osu.ppy.sh/b/2610932)
-  5. [Nekrogoblikon - The Skin Thief (LMT) [Insane]](https://osu.ppy.sh/b/2223742)
+  1. [Imy - Fake (Bellicose) [Dored's Expert]](https://osu.ppy.sh/beatmapsets/1261105#osu/2637339)
+  2. [Porter Robinson - Sad Machine (Draper Remix) (Alonevpk) [mac n cheese]](https://osu.ppy.sh/beatmapsets/363257#osu/797658)
+  3. [Nanahoshi Kangengakudan - anoko dokonoko (kwk) [Rizen's Extra]](https://osu.ppy.sh/beatmapsets/654452#osu/1437419)
+  4. [Virtual Riot - Prove Them Wrong (C00L) [Zizou's Insane]](https://osu.ppy.sh/beatmapsets/1216594#osu/2610932)
+  5. [Nekrogoblikon - The Skin Thief (LMT) [Insane]](https://osu.ppy.sh/beatmapsets/1061535#osu/2223742)
 - Hidden
-  1. [Various Artists - Rolling Girl (Shidoni) [Nowa's Extra]](https://osu.ppy.sh/b/2056940)
+  1. [Various Artists - Rolling Girl (Shidoni) [Nowa's Extra]](https://osu.ppy.sh/beatmapsets/965620#osu/2056940)
   2. [SHIKI - Aqua Marine (soulfear) [Another]](https://osu.ppy.sh/beatmapsets/27049#osu/90961)
 - HardRock
-  1. [Feint & Boyinaband - Time Bomb (feat. Veela) (Naitsirk) [Time Freeze]](https://osu.ppy.sh/b/1384287)
-  2. [Aethoro - Woodfairies (verychill) [Knight's Insane]](https://osu.ppy.sh/b/2724745)
+  1. [Feint & Boyinaband - Time Bomb (feat. Veela) (Naitsirk) [Time Freeze]](https://osu.ppy.sh/beatmapsets/652909#osu/1384287)
+  2. [Aethoro - Woodfairies (verychill) [Knight's Insane]](https://osu.ppy.sh/beatmapsets/1309729#osu/2724745)
 - DoubleTime
-  1. [Suzuki Konomi - DAYS of DASH (Kalibe) [pkhg's Insane]](https://osu.ppy.sh/b/1113532)
-  2. [O-Life Japan - Yamanobori Kibun (qinche) [Lunatic]](https://osu.ppy.sh/b/99989)
-  3. [Chiyoko - Alice's Mad Tea Party (neonat) [Insane]](https://osu.ppy.sh/b/515359)
+  1. [Suzuki Konomi - DAYS of DASH (Kalibe) [pkhg's Insane]](https://osu.ppy.sh/beatmapsets/515921#osu/1113532)
+  2. [O-Life Japan - Yamanobori Kibun (qinche) [Lunatic]](https://osu.ppy.sh/beatmapsets/30256#osu/99989)
+  3. [Chiyoko - Alice's Mad Tea Party (neonat) [Insane]](https://osu.ppy.sh/beatmapsets/215151#osu/515359)
 - ForceMod
-  1. [Nomy - Cocaine (Nightcore Mix) (Aleks719) [Insane]](https://osu.ppy.sh/b/124993)
-  2. [IOSYS - Midnight Lightning Bolt (pieguy1372) [Lunatic]](https://osu.ppy.sh/b/58701)
+  1. [Nomy - Cocaine (Nightcore Mix) (Aleks719) [Insane]](https://osu.ppy.sh/beatmapsets/39153#osu/124993)
+  2. [IOSYS - Midnight Lightning Bolt (pieguy1372) [Lunatic]](https://osu.ppy.sh/beatmapsets/16371#osu/58701)
 - Tiebreaker
-  1. **[Inui Toko - Namae no Nai Kaibutsu (wiken) [Prismatic]](https://osu.ppy.sh/b/2679351)**
+  1. **[Inui Toko - Namae no Nai Kaibutsu (wiken) [Prismatic]](https://osu.ppy.sh/beatmapsets/1290765#osu/2679351)**
 
 ### Qualifiers
 
 **[Download the mappack here! (77.2 MB)](https://drive.google.com/file/d/1Pfyf0R7D47_AjDe6gz7z1OaxFvVEoX0R/view?usp=share_link)**
 
 - NoMod
-  1. [Higuchi Kaede - MARBLE (Amateurre) [Resonance]](https://osu.ppy.sh/b/2579124)
-  2. [Ice - Amber Wishes (JBHyperion) [toybot's Extreme]](https://osu.ppy.sh/b/902716)
-  3. [Nanahoshi Kangengakudan - No,39 (pkk) [No Sankyuu]](https://osu.ppy.sh/b/1126317)
-  4. [EmoCo. - This Club is Not 4 U (Ryuusei Aika) [#1: Ellyu's Expert]](https://osu.ppy.sh/b/2663016)
+  1. [Higuchi Kaede - MARBLE (Amateurre) [Resonance]](https://osu.ppy.sh/beatmapsets/1189212#osu/2579124)
+  2. [Ice - Amber Wishes (JBHyperion) [toybot's Extreme]](https://osu.ppy.sh/beatmapsets/412859#osu/902716)
+  3. [Nanahoshi Kangengakudan - No,39 (pkk) [No Sankyuu]](https://osu.ppy.sh/beatmapsets/531488#osu/1126317)
+  4. [EmoCo. - This Club is Not 4 U (Ryuusei Aika) [#1: Ellyu's Expert]](https://osu.ppy.sh/beatmapsets/1282123#osu/2663016)
 - Hidden
-  1. [jippusu - Mushikui Saikede Rhythm (Amamiya Yuko) [RLC]](https://osu.ppy.sh/b/240689)
-  2. [Aki - star river (ShirohaMyMommy) [Lunatic]](https://osu.ppy.sh/b/1896891)
+  1. [jippusu - Mushikui Saikede Rhythm (Amamiya Yuko) [RLC]](https://osu.ppy.sh/beatmapsets/87547#osu/240689)
+  2. [Aki - star river (ShirohaMyMommy) [Lunatic]](https://osu.ppy.sh/beatmapsets/908990#osu/1896891)
 - HardRock
-  1. [Omoi - Totsugeki Zenya no Dance (Yales) [Explosion]](https://osu.ppy.sh/b/756065)
-  2. [MYTK - Senkyou (Realazy) [Cubby's Insane]](https://osu.ppy.sh/b/2623949)
+  1. [Omoi - Totsugeki Zenya no Dance (Yales) [Explosion]](https://osu.ppy.sh/beatmapsets/342030#osu/756065)
+  2. [MYTK - Senkyou (Realazy) [Cubby's Insane]](https://osu.ppy.sh/beatmapsets/1262410#osu/2623949)
 - DoubleTime
-  1. [Sana - Byoumei Koiwazurai ([ Joey ]) [Insane]](https://osu.ppy.sh/b/609741)
-  2. [DJ Fresh (feat. Rita Ora) - Hot Right Now (Radio Edit) (Asphyxia) [Kysphyxia's Insane]](https://osu.ppy.sh/b/539090)
+  1. [Sana - Byoumei Koiwazurai ([ Joey ]) [Insane]](https://osu.ppy.sh/beatmapsets/220636#osu/609741)
+  2. [DJ Fresh (feat. Rita Ora) - Hot Right Now (Radio Edit) (Asphyxia) [Kysphyxia's Insane]](https://osu.ppy.sh/beatmapsets/231114#osu/539090)
 
 ## Match results
 
 ### Grand Finals
 
 Saturday, 11 September 2021
+
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | \_AfterWind ::{ flag=RO }:: | 4 | **9** | ::{ flag=RO }:: **L9 ELOVATOR** | [#1](https://osu.ppy.sh/community/matches/90747076) |
 
 Sunday, 12 September 2021
+
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **eternum** ::{ flag=RO }:: | **9** | 7 | ::{ flag=RO }:: L9 ELOVATOR | [#1](https://osu.ppy.sh/community/matches/90805530) |
@@ -279,17 +281,20 @@ Sunday, 12 September 2021
 ### Finals
 
 Saturday, 4 September 2021
+
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **eternum**  ::{ flag=RO }:: | **7** | 4 |  ::{ flag=RO }:: \_AfterWind | [#1](https://osu.ppy.sh/community/matches/90384246) |
 | cristi2708 ::{ flag=RO }:: | 1 | **7** | ::{ flag=RO }:: **L9 ELOVATOR** | [#1](https://osu.ppy.sh/community/matches/90391055) |
 
 Sunday, 5 September 2021
+
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-|  **Lucrise** ::{ flag=RO }:: | **7** | 5 | ::{ flag=RO }:: nanoya | [#1](https://osu.ppy.sh/community/matches/90433586) |
+| **Lucrise** ::{ flag=RO }:: | **7** | 5 | ::{ flag=RO }:: nanoya | [#1](https://osu.ppy.sh/community/matches/90433586) |
 
 Monday, 6 September 2021
+
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **L9 ELOVATOR** ::{ flag=RO }:: | **7** | 0 | ::{ flag=RO }:: Lucrise | [#1](https://osu.ppy.sh/community/matches/90482703) |
@@ -297,18 +302,21 @@ Monday, 6 September 2021
 ### Semi-Finals
 
 Friday, 20 August 2021
+
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | A-XLE ::{ flag=RO }:: | 1 | **7** | ::{ flag=RO }:: **WhySoInsecure** | [#1](https://osu.ppy.sh/community/matches/89550583) |
 | **Rekkke** ::{ flag=RO }:: | **7** | 2 | ::{ flag=RO }:: Lernaeus | [#1](https://osu.ppy.sh/community/matches/89561775) |
 
 Saturday, 21 August 2021
+
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **L9 ELOVATOR** ::{ flag=RO }:: | **7** | 0 | ::{ flag=RO }:: entsetzen | [#1](https://osu.ppy.sh/mp/89608041) |
+| **L9 ELOVATOR** ::{ flag=RO }:: | **7** | 0 | ::{ flag=RO }:: entsetzen | [#1](https://osu.ppy.sh/community/matches/89608041) |
 | **nanoya** ::{ flag=RO }:: | **7** | 0 | ::{ flag=RO }:: Gadzzaa | [#1](https://osu.ppy.sh/community/matches/89614613) |
 
 Sunday, 22 August 2021
+
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | WhySoInsecure ::{ flag=RO }:: | 1 | **7** | ::{ flag=RO }:: **nanoya** | [#1](https://osu.ppy.sh/community/matches/89671577) |
@@ -316,6 +324,7 @@ Sunday, 22 August 2021
 | **L9 ELOVATOR** ::{ flag=RO }:: | **7** | 0 | ::{ flag=RO }:: Rekkke | [#1](https://osu.ppy.sh/community/matches/89679253) |
 
 Monday, 23 August 2021
+
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **eternum** ::{ flag=RO }:: | **7** | 2 | ::{ flag=RO }:: Lucrise | [#1](https://osu.ppy.sh/community/matches/89730724) |
@@ -323,11 +332,13 @@ Monday, 23 August 2021
 ### Quarter-Finals
 
 Friday, 13 August 2021
+
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | WhySoInsecure ::{ flag=RO }:: | **6** | 1 | ::{ flag=RO }:: RatonGolzache | [#1](https://osu.ppy.sh/community/matches/89178817) |
 
 Saturday, 14 of August 2021
+
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | RedGameBoy ::{ flag=RO }:: | 5 | **6** | ::{ flag=RO }:: **Lernaeus** | [#1](https://osu.ppy.sh/community/matches/89220441) |
@@ -341,6 +352,7 @@ Saturday, 14 of August 2021
 | **GMTrooll** ::{ flag=RO }:: | **0** | -1 | ::{ flag=RO }:: Dano Osu | win by default |
 
 Sunday, 15 August 2021
+
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **entsetzen** ::{ flag=RO }:: | **6** | 2 | ::{ flag=RO }:: Dank Uta | [#1](https://osu.ppy.sh/community/matches/89276378) |
@@ -350,6 +362,7 @@ Sunday, 15 August 2021
 | **Gadzzaa** ::{ flag=RO }:: | **0** | -1 | ::{ flag=RO }:: GMTrooll | win by default |
 
 Monday, 16 August 2021
+
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **eternum** ::{ flag=RO }:: | **6** | 1 | ::{ flag=RO }:: Rekkke | [#1](https://osu.ppy.sh/community/matches/89332314) |
@@ -357,17 +370,20 @@ Monday, 16 August 2021
 ### Round of 16
 
 Tuesday, 3 August 2021
+
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Dano Osu** ::{ flag=RO }:: | **6** | 2 | ::{ flag=RO }:: hroni | [#1](https://osu.ppy.sh/community/matches/88588591) |
 
 Friday, 6 August 2021
+
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **\_AfterWind** ::{ flag=RO }:: | **6** | 2 | ::{ flag=RO }:: Lernaeus | [#1](https://osu.ppy.sh/community/matches/88766359) |
 | **L9 ELOVATOR** ::{ flag=RO }:: | **6** | 1 | ::{ flag=RO }:: WhySoInsecure | [#1](https://osu.ppy.sh/community/matches/88773001) |
 
 Saturday, 7 August 2021
+
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **eternum** ::{ flag=RO }:: | **6** | 0 | ::{ flag=RO }:: GMTrooll | [#1](https://osu.ppy.sh/community/matches/88816565) |
@@ -381,6 +397,7 @@ Saturday, 7 August 2021
 | **Lucrise** ::{ flag=RO }:: | **6** | 0 | ::{ flag=RO }:: Paato | [#1](https://osu.ppy.sh/community/matches/88836856) |
 
 Sunday, 8 August 2021
+
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Rekkke** ::{ flag=RO }:: | **6** | 0 | ::{ flag=RO }:: Gadzzaa | [#1](https://osu.ppy.sh/community/matches/88876876) |
@@ -389,40 +406,40 @@ Sunday, 8 August 2021
 ### Round of 32
 
 Friday, 30 July 2021
+
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Paato** ::{ flag=RO }:: | **5** | 0 | ::{ flag=RO }:: megalapin | [#1](https://osu.ppy.sh/community/matches/88335123) |
 
 Saturday, 31 July 2021
+
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Lernaeus** ::{ flag=RO }:: | **5** | 2 | ::{ flag=RO }:: RatonGolzache | [#1](https://osu.ppy.sh/community/matches/88388437) |
 | **GMTrooll** ::{ flag=RO }:: | **5** | 2 | ::{ flag=RO }:: Dank Uta | [#1](https://osu.ppy.sh/community/matches/88390115) |
 | **Rekkke** ::{ flag=RO }:: | **0** | -1 | ::{ flag=RO }:: MariusBDR | win by default |
 | **Gadzzaa** ::{ flag=RO }:: | **5** | 0 | ::{ flag=RO }:: Australia | [#1](https://osu.ppy.sh/community/matches/88394227) |
-| **Lucrise** ::{ flag=RO }:: | **0** | -1 | ::{ flag=RO }:: rzvthePsycho | [#1]() |
+| **Lucrise** ::{ flag=RO }:: | **0** | -1 | ::{ flag=RO }:: rzvthePsycho | win by default |
 | **L9 ELOVATOR** ::{ flag=RO }:: | **5** | 1 | ::{ flag=RO }:: L9 MATEIUT | [#1](https://osu.ppy.sh/community/matches/88402385) |
 | **entsetzen** ::{ flag=RO }:: | **5** | 0 | ::{ flag=RO }:: hroni | [#1](https://osu.ppy.sh/community/matches/88407808) |
 
 Sunday, 1 August 2021
+
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **nanoya** ::{ flag=RO }:: | **0** | -1 | ::{ flag=RO }:: Boticeli | win by default |
-| **RedGameBoy** ::{ flag=RO }:: | **0** | -1 | ::{ flag=RO }:: sarpili | win by default|
+| **RedGameBoy** ::{ flag=RO }:: | **0** | -1 | ::{ flag=RO }:: sarpili | win by default |
 | Razei ::{ flag=RO }:: | -1 | **0** | ::{ flag=RO }:: **VenTryXX** | win by default |
 | **A-XLE** ::{ flag=RO }:: | **5** | 0 | ::{ flag=RO }:: SiKKr | [#1](https://osu.ppy.sh/community/matches/88456798) |
 | **cristi2708** ::{ flag=RO }:: | **0** | -1 | ::{ flag=RO }:: Dano Osu | win by default |
 
 Monday, 2 August 2021
+
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **WhySoInsecure** ::{ flag=RO }:: | **5** | 1 | ::{ flag=RO }:: RareshRSN | [#1](https://osu.ppy.sh/community/matches/88522572) |
 
 **Note:** The #1-2 seeded players, **eternum** and **\_AfterWind**, recieved direct byes to the winners bracket Round of 16, due to the uneven number of players in the Round of 32 bracket,
-
-<!--| Sunday, 2019-04-28 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-- |
-| Player 1 ::{ flag=RO }:: |  |  | ::{ flag=RO }:: Player 2 | []() | -->
 
 ## Ruleset
 
@@ -431,20 +448,19 @@ Monday, 2 August 2021
 1. This is a 1v1 tournament featuring a knockout double-elimination format.
 2. A qualifier phase will determine the participants, and the seeding order for the knockout stage. There is no limit to how many players can play in the qualifiers.
 3. The knockout stage will feature a maximum of 64 players in a Round of 64 bracket. Depending on the sign ups and the number of players attending the qualifiers, if the minimum number of players for a bracket of that size is not reached, the bracket will be downsized to Round of 32.
-4. The system used for beatmap scoring will be [ScoreV2](https://osu.ppy.sh/wiki/en/Gameplay/Score#scorev2).
+4. The system used for beatmap scoring will be [ScoreV2](/wiki/Gameplay/Score#scorev2).
 5. It is required to be part of the tournament Discord server.
-8. It is expected from the players to be respectful to other competitors, to staff members, and in general to adhere to osu!'s rules, and to Discord's guidelines on the server. Exceedingly poor conduct will be punished with disqualification and even potential blacklisting from future editions of the tournament.
-
+6. It is expected from the players to be respectful to other competitors, to staff members, and in general to adhere to osu!'s rules, and to Discord's guidelines on the server. Exceedingly poor conduct will be punished with disqualification and even potential blacklisting from future editions of the tournament.
 
 ### Registration
 
 1. Prequisites for participating in the tournament are as following:
    - Having a romanian ::{ flag=RO }:: or moldovan ::{ flag=MD }:: flag on the profile. If a player does not have one of the two flags on his profile, being able to prove romanian identity by other means to the tournament organizers is also a valid way to fulfill this requirement.
    - Passing the screening phase to verify eligibility for playing in tournaments supported by the osu! staff. This will be done only after the sign-up period has ended, so a player must be registered to go through this process.
-2. Core staff members like hosts, referees, mappool selectors, or spreadsheet managers are not allowed simultaneously take part in the tournament as players. 
+2. Core staff members like hosts, referees, mappool selectors, or spreadsheet managers are not allowed simultaneously take part in the tournament as players.
 3. Staff members fulfilling only front-end roles as streamers, commentators or graphics designers are allowed to participate in the tournament as players.
 
-### Qualifiers 
+### Qualifiers
 
 1. The qualifiers will determine the participants, and the seeding order for the knockout stage.
 2. Each player will play in one of the "qualifier lobbies" held at various hours during the weekend. Extra lobbies may be made available on request for players during other hours or days.
@@ -491,12 +507,12 @@ Monday, 2 August 2021
 1. There will be separate mappools for each round. Their difficulty will increase with each week of the knockout stage, while the qualifiers mappool will have a balanced difficulty, relative to the overall difficulty of the bracket stage mappools.
 2. The number of maps for each mod, in each round, is as following:
 
-| **Round/Mod** | NoMod | Hidden | HardRock | DoubleTime | ForceMod | Tiebreaker
+| **Round/Mod** | NoMod | Hidden | HardRock | DoubleTime | ForceMod | Tiebreaker |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | Qualifiers | 4 | 2 | 2 | 2 | 0 | 0 |
 | Round of 32 | 5 | 2 | 2 | 3 | 2 | 1 |
-| Round of 16 | 5 | 2 | 2 | 3 | 2 | 1 | 
+| Round of 16 | 5 | 2 | 2 | 3 | 2 | 1 |
 | Quarter Finals | 5 | 2 | 2 | 3 | 2 | 1 |
 | Semi-Finals | 5 | 3 | 3 | 3 | 2 | 1 |
-| Finals | 5 | 3 | 3 | 3 | 2 | 1 | 
-| Grand Finals | 7 | 3 | 3 | 4 | 3 | 1 | 
+| Finals | 5 | 3 | 3 | 3 | 2 | 1 |
+| Grand Finals | 7 | 3 | 3 | 4 | 3 | 1 |
