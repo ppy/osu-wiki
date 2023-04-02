@@ -1,7 +1,4 @@
 ---
-outdated_translation: true
-outdated_since: 7099cd48c3ad38ccf49bec40c04c9c505c297369
-no_native_review: true
 tags:
   - osu! staff
   - osu!team
@@ -10,7 +7,7 @@ tags:
   - team osu!
 ---
 
-# Das Team
+# osu!-Team
 
 Die unten aufgeführten Personen bilden den Kern des **osu!-Teams** und sind hauptverantwortlich dafür, dass das Spiel für alle großartig ist.
 
@@ -39,7 +36,7 @@ Die unten aufgeführten Personen bilden den Kern des **osu!-Teams** und sind hau
 | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | Moderation und Community-Berater |
 | ::{ flag=AU }:: [Zallius](https://osu.ppy.sh/users/55) | Gefährdete Art |
 
-Darüber hinaus ist das [Account-Support-Team](Account_support_team) da, um bei den Dingen zu helfen, die außerhalb der Reichweite liegen.
+Darüber hinaus ist das [Account-Support-Team](/wiki/People/Account_support_team) da, um bei den Dingen zu helfen, die außerhalb der Reichweite liegen.
 
 ## Inaktive Mitglieder des Kernteams
 
