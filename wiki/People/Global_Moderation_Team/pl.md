@@ -99,8 +99,10 @@ Lista wszystkich moderatorów globalnych jest dostępna na [stronie grupy](https
 | ::{ flag=GB }:: [Pope Gadget](https://osu.ppy.sh/users/2288341) |  | Moderowanie społeczności twórców i moderów beatmap |
 | ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) |  | Moderowanie społeczności twórców i moderów beatmap |
 | ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) | Malajski | Moderowanie czatu |
+| ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | Polski | Skinning community moderation |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | Hiszpański | Moderowanie czatu |
-| ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | Niemiecki | Moderowanie forum |
+| ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | Niderlandzki, japoński | Skinning community moderation |
+| ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | Niemiecki | Skinning community moderation, moderowanie forum |
 | ::{ flag=KR }:: [ruexia](https://osu.ppy.sh/users/385069) | Koreański | Moderowanie czatu |
 | ::{ flag=JP }:: [S o h](https://osu.ppy.sh/users/2234772) | Japoński | Moderowanie czatu |
 | ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) | Szwedzki, hiszpański | Moderowanie czatu |
@@ -113,7 +115,7 @@ Lista wszystkich moderatorów globalnych jest dostępna na [stronie grupy](https
 | ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927) | Filipiński | Moderowanie czatu |
 | ::{ flag=TH }:: [Trigonoculus](https://osu.ppy.sh/users/7627013) | Tajski | Moderowanie czatu |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | Hiszpański | Pomoc techniczna |
-| ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | Polski | Moderowanie czatu |
+| ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | Polski | Team leadership, moderowanie czatu, moderowanie społeczności twórców i moderów beatmap |
 | ::{ flag=PL }:: [Yason](https://osu.ppy.sh/users/2574392) | Polski | Moderowanie czatu |
 | ::{ flag=HM }:: [Zallius](https://osu.ppy.sh/users/55) |  | Moderowanie czatu |
 

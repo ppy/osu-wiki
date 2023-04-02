@@ -73,8 +73,9 @@ A [página do grupo de usuário da Equipe de Avaliação de Nomeação](https://
 | :-- | :-- | :-- |
 | ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | Alemão | Avaliador |
 | ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | Urdu, um pouco de árabe | Avaliador |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Árabe, francês, um pouco de italiano | Avaliador |
-| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | Avaliador |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Árabe, francês, um pouco de italiano | Leader |
+| ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | Português | Avaliador |
+| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | Leader |
 
 ### osu!catch
 

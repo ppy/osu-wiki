@@ -77,8 +77,9 @@ NAT самостоятельно отслеживает появление но�
 | :-- | :-- | :-- |
 | ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | Немецкий | Evaluator |
 | ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | Урду, частично арабский | Evaluator |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Арабский, французский, частично итальянский | Evaluator |
-| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | Evaluator |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Арабский, французский, частично итальянский | Leader |
+| ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | Португальский | Evaluator |
+| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | Leader |
 
 ### osu!catch
 
