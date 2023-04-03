@@ -9,8 +9,8 @@ After overwhelmingly positive feedback, I am happy to announce that we will imme
 
 First of all, I would like to thank each and every one of you who submitted a storyboard for review. In less than 3 days, we've received over 200 submissions, many of which were phenomenal. We have a plethora of maps to pick from now, so making storyboard highlights a weekly thing has become a reality. Good job, everyone :)
 
-Without further ado, I present to you the first showcased map:  
-**[Kozato - 45nen no Yukizakura](https://osu.ppy.sh/beatmapsets/50771) by [Rewrite](https://osu.ppy.sh/users/1161361)**  
+Without further ado, I present to you the first showcased map:\
+**[Kozato - 45nen no Yukizakura](https://osu.ppy.sh/beatmapsets/50771) by [Rewrite](https://osu.ppy.sh/users/1161361)**\
 **Storyboard by [yukinohara](https://osu.ppy.sh/users/580107)**
 
 This map was lucky enough to have both a custom skin and storyboard created for it by yukinohara, a very skilled graphic designer. The pink, cherry blossom-themed images subtly move and transition to set a wonderful atmosphere for the music, and the very sleek custom skin ensures that this atmosphere is accented by the hit objects, rather than harmed.
