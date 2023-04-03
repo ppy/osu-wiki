@@ -25,7 +25,7 @@ Nama-nama di bawah ini merupakan para anggota tim inti osu!monthly yang bertangg
 
 ### Kontributor lainnya
 
-Nama-nama di bawah ini merupakan mereka yang tidak tergabung ke dalam tim inti osu!monthly, namun tetap berperan penting dalam penerbitan osu!monthly setiap bulannya. Walaupun mereka tidak menulis artikel, mereka menyediakan berbagai informasi penting kepada para kontributor utama dari waktu ke waktu.
+Nama-nama di bawah ini merupakan mereka yang tidak tergabung ke dalam tim inti di atas, namun tetap berperan penting dalam penerbitan osu!monthly. Walaupun mereka tidak menulis artikel, mereka menyediakan berbagai informasi penting kepada para kontributor utama setiap bulannya.
 
 | Nama | Rubrik yang dicakup |
 | :-- | :-- |
