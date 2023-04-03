@@ -8,7 +8,7 @@ tags:
 
 ![{SHORT_TITLE} logo](img/logo.png)
 
-The **osu! Romania Summer Tournament 2021** (***o!RST 2021***) was a 1v1, double elimination, country-based osu! tournament for Romanian and Moldovan players hosted by ::{ flag=RO }:: [Nice Aesthetics](https://osu.ppy.sh/users/7782553), ::{ flag=RO }:: [FallenAngelD](https://osu.ppy.sh/users/5225626), and ::{ flag=RO }:: [Ahrinity](https://osu.ppy.sh/users/11587229). It was the 3rd instalment of the osu! Romania Tournament.
+The **osu! Romania Summer Tournament 2021** (***o!RST 2021***) was a 1v1, double elimination osu! tournament for Romanian and Moldovan players hosted by ::{ flag=RO }:: [Nice Aesthetics](https://osu.ppy.sh/users/7782553), ::{ flag=RO }:: [FallenAngelD](https://osu.ppy.sh/users/5225626), and ::{ flag=RO }:: [Ahrinity](https://osu.ppy.sh/users/11587229). It was the 3rd instalment of the osu! Romania Tournament.
 
 ## Tournament schedule
 
@@ -32,7 +32,7 @@ The **osu! Romania Summer Tournament 2021** (***o!RST 2021***) was a 1v1, double
 
 ![](img/badge.png "o!RST 2021 winner badge")
 
-**Note**: The tournament winner waived his Lotus Keypad prize, thusly one keypad was awarded to the 3rd place contestant instead.
+**Note**: As the winner of the tournament waived his Lotus Keypad prize, the keypad was awarded to the 3rd place winner instead.
 
 ## Organisation
 
@@ -266,13 +266,13 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-Saturday, 11 September 2021
+Saturday, 11 September 2021:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | \_AfterWind ::{ flag=RO }:: | 4 | **9** | ::{ flag=RO }:: **L9 ELOVATOR** | [#1](https://osu.ppy.sh/community/matches/90747076) |
 
-Sunday, 12 September 2021
+Sunday, 12 September 2021:
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
