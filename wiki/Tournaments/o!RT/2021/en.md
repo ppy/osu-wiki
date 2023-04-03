@@ -454,10 +454,10 @@ Monday, 2 August 2021:
 
 ### Registration
 
-1. Prequisites for participating in the tournament are as following:
+1. Prerequisites for participating in the tournament are as following:
    - Having a romanian ::{ flag=RO }:: or moldovan ::{ flag=MD }:: flag on the profile. If a player does not have one of the two flags on his profile, being able to prove romanian identity by other means to the tournament organizers is also a valid way to fulfill this requirement.
    - Passing the screening phase to verify eligibility for playing in tournaments supported by the osu! staff. This will be done only after the sign-up period has ended, so a player must be registered to go through this process.
-2. Core staff members like hosts, referees, mappool selectors, or spreadsheet managers are not allowed simultaneously take part in the tournament as players.
+2. Core staff members like hosts, referees, mappool selectors, or spreadsheet managers are not allowed to simultaneously take part in the tournament as players.
 3. Staff members fulfilling only front-end roles as streamers, commentators or graphics designers are allowed to participate in the tournament as players.
 
 ### Qualifiers
@@ -469,7 +469,7 @@ Monday, 2 August 2021:
 
 ### Knockout stage
 
-1. The knockout stage will take place on a weekly basis, being split into multiple rounds, each round having a correspnding mappool.
+1. The knockout stage will take place on a weekly basis, being split into multiple rounds, each round having a corresponding mappool.
 2. For each round there will be allocated a weekend in the tournament's tentative schedule, however a round may be postponed at the discretion of the staff and with the approval of the remaining participants if the situation asks it.
 3. Winning conditions:
    - Round of 64/Round of 32: Best of 9 (first to 5 points)
@@ -493,14 +493,14 @@ Monday, 2 August 2021:
    - ForceMod: Both players must choose at least one of Hidden, HardRock, Flashlight or EZ mod, or any valid combination.
    - Tiebreaker: both players can, but are not forced to choose at least one of Hidden, HardRock, Flashlight or Easy mod, or any valid combination. This map cannot be picked by the players.
    - On ForceMod and the Tiebreaker, EZ mod has a multiplier of 1.06x
-10. Each map win is one point. The first player to reach the required amount of points wins. If the scored is tied with only one point left to play, the match will be decided on the Tiebreaker map.
+10. Each map win is one point. The first player to reach the required amount of points wins. If the score is tied with only one point left to play, the match will be decided on the Tiebreaker map.
 11. The referee cannot interfere with, or make decisions about the match that are not within his responsibility. For those kinds of situations, a host will have to be contacted.
 
 ### Scheduling
 
 1. The standard time used for scheduling purposes will be in **UTC+3** (Romania's timezone during Daylight Saving Time).
 2. Matches will be held by default during the weekend, with reschedules being allowed on other days of the week within some limits.
-3. Reschedules are expected to be done within a adequate timeframe before the previously established match time, ideally with at least 12 hours to go before the match is supposed to take place. Otherwise, it will be at the tournament staff's discretion whether the reschedule will be allowed or not.
+3. Reschedules are expected to be done within an adequate timeframe before the previously established match time, ideally with at least 12 hours to go before the match is supposed to take place. Otherwise, it will be at the tournament staff's discretion whether the reschedule will be allowed or not.
 
 ### Mappools
 
