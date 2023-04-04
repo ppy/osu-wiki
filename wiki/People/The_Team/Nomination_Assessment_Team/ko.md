@@ -53,13 +53,13 @@ NAT을 두 그룹으로 나누는 것은 그룹의 조직력과 생산성을 위
 
 맡은 하위 그룹에 따라, 각 NAT 멤버는 다른 활동 요구 사항이 있습니다. 평가위원들은 BN과 BN 지원자를 평가하는 동시에 모딩 활동을 계속해 스스로 매핑/모딩과 관련된 정세를 주시해야 합니다. 고문들은 상황에 따라 랭크 과정의 운영과 관련된 프로그램, 자원과 같은 요소를 유지하고 관리합니다.
 
-활동하지 않는 것으로 판결된 구성원은 다른 NAT와 대조하여 조만간 다시 활동할 수 없는 경우 권한을 박탈합니다. 다른 매핑 관련 프로젝트에서 작업하는 평가위원은 작업 중인 내용이 고문 하위 그룹에 더 적절할 경우 부서를 옮길 수 있습니다.
+비활동적인 구성원은 [팀 리더](#nat-leadership)와 대면하여 조만간 다시 활동할 수 없는 경우 권한을 박탈합니다. 다른 매핑 관련 프로젝트에서 작업하는 평가위원은 작업 중인 내용이 고문 하위 그룹에 더 적절할 경우 부서를 옮길 수 있습니다.
 
 ## NAT 승격
 
 NAT가 되려면 먼저 정식 비트맵 노미네이터가 됐거나, 커뮤니티에서 활동하던 예전 NAT 멤버여야 합니다. 초기 NAT 후보는 대부분 매핑/모딩 커뮤니티를 지원하기 위한 노력을 바탕으로 선발하고, 일반적으로 얼마나 다양한 NAT와 관련된 직무에 기여할 수 있는지를 평가하여 승격시킵니다.
 
-모든 신규 NAT는 평가위원으로 시작하기 때문에 NAT 후보들은 다른 구성원의 숙련도를 평가하는 데 탁월한 역량을 발휘하는 것이 중요합니다. Full BN은 [모의 평가](/wiki/People/The_Team/Nomination_Assessment_Team/Evaluations#mock-evaluations)에 참여하거나 임시로 평가팀에 합류하여 연습할 기회 기회가 주어질 수 있습니다. NAT 후보자의 평가가 철저하면서 NAT와 유사한 결론에 도달하는 경우(혹은 지원하는 다른 이유가 있는 경우) 승격의 가능성이 높습니다.
+모든 신규 NAT는 평가위원으로 시작하기 때문에 NAT 후보들은 다른 구성원의 숙련도를 평가하는 데 탁월한 역량을 발휘하는 것이 중요합니다. Full BN은 [모의 평가](/wiki/People/The_Team/Nomination_Assessment_Team/Evaluations#mock-evaluations)에 참여하거나 임시로 평가팀에 합류하여 연습할 기회가 주어질 수 있습니다. NAT 후보자의 평가가 철저하면서 NAT와 유사한 결론에 도달하는 경우(혹은 지원하는 다른 이유가 있는 경우) 승격의 가능성이 높습니다.
 
 NAT는 오랜 시간에 걸쳐서 잠재적 NAT 후보를 찾아보고 BN 평가 방식과 유사하게 NAT 후보 승격을 결정하기 위해 회의를 소집할 수 있습니다. 또한 BN이 직접 NAT 승격을 고려하여 자기 역량에 대해 질문하는 것도 가능합니다. 그러나 현재 NAT 구성원의 활동량 및 기술 역량에 따라 새 NAT가 필요하지 않을 수도 있습니다. 새 NAT 구성원은 현재 구성원 중 하나의 활동이 줄어들거나 더 많은 구성원이 필요할 만큼 작업량이 부담될 경우에만 승격될 수 있습니다.
 
@@ -69,32 +69,50 @@ NAT는 오랜 시간에 걸쳐서 잠재적 NAT 후보를 찾아보고 BN 평가
 
 새 고문을 추가하기 전에 이의가 제기될 경우를 대비해 나머지 NAT와 함께 추가 이의 제기가 온당한지 확인합니다. 문제가 없으면 새 고문은 특정 상황에 따라 업무를 받게 됩니다. 기여도가 부진하거나 이후 불필요하다고 판단되면 지정된 구성원이 다시 판단하여 평가위원으로 전환됩니다.
 
+## NAT 리더십
+
+2023년 3월 이후, NAT의 리더십을 [QAT](/wiki/People/Quality_Assurance_Team)에서 [적용됐던](/wiki/People/Quality_Assurance_Team/QAT_Leaders) 조항을 통해 다시 정의했습니다. NAT 리더는 평가위원과 고문 두 항목에 책임을 지며, NAT의 모든 측면에 지속해서 관여합니다.
+
+현재 NAT 리더는 ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)와 ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)입니다.
+
+### 책임
+
+NAT 리더가 관리하는 사항은 다음과 같습니다:
+
+- **활동 관리:** 다른 NAT 멤버들의 활동을 계속 주시하며, NAT 탈퇴 또는 기본적인 활동 체크 등을 고려하여 특정 멤버의 적은 활동량을 관리합니다.
+- **커뮤니케이션:**
+  - 지속적인 의사소통으로 osu!팀, NAT, 매핑 커뮤니티를 이어주는 입장에서, 새로 생긴 변화, 우려, 요구 사항을 전달합니다.
+  - 주제와 관련된 모든 멤버의 참여를 권장하고, 토론을 조직적으로 유지하며, 서로 다른 의견을 결합해서 실질적인 행동을 할 수 있도록 합니다.
+  - 토론/랭킹 크리테리아의 제안 중에 쉽게 무시될 수 있는 새로운 아이디어나 기존의 아이디어가 진행될 수 있도록 합니다.
+- **문제 해결:** 중요한 회의에 적극적으로 참여하고 팀이나 커뮤니티로부터 제기된 중요한 문제들을 처리합니다.
+
 ## 팀 멤버
 
 *참고: 언급되지 않는 한 모든 NAT은 아래 나열된 언어 외에 영어를 구사할 수 있습니다.*
 
 [Nomination Assessment Team 그룹 페이지](https://osu.ppy.sh/groups/7) 본 페이지에서 모든 팀 멤버를 열람할 수 있습니다. 아래에 배정된 NAT 멤버들의 그룹 역할 외에도 모든 구성원은 [비트맵의 오디오 및 시각적 콘텐츠](/wiki/Rules/Visual_Content_Considerations#getting-your-image-assessed)를 검토하는 데 참여합니다.
 
-<!-- NOTE FOR TRANSLATORS: Translating this section is different from other parts of the osu! wiki. See https://github.com/ppy/osu-wiki/blob/master/meta/group-info/TRANSLATING.md#group-articles. -->
-
 ### osu!
 
 | 닉네임 | 구사 언어 | 배정 그룹 |
 | :-- | :-- | :-- |
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) |  | 고문[^task-mo] |
-| ::{ flag=SG }:: [achyoo](https://osu.ppy.sh/users/7823498) | 중국어 | 평가 |
+| ::{ flag=SG }:: [achyoo](https://osu.ppy.sh/users/7823498) | 중국어 | 평가, 고문[^task-achyoo] |
 | ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) |  | 평가 |
 | ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | 벨라루스어, 러시아어 | 평가 |
 | ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | 광둥어, 중국어 | 평가 |
+| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | 포르투갈어 | 평가 |
 | ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | 평가 |
 | ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | 중국어 | 평가 |
-| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | 독일어 | 평가 |
+| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | 독일어 | 평가, 고문[^task-fuju] |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | 스웨덴어 | 고문[^task-naxess] |
+| ::{ flag=GB }:: [nexusqi](https://osu.ppy.sh/users/13822800) | | 평가 |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | 고문[^task-pishifat] |
-| ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | 평가 |
+| ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | 평가, 고문[^task-star] |
 | ::{ flag=AT }:: [Stixy](https://osu.ppy.sh/users/9000308) | 독일어, 세르비아어 | 평가 |
-| ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) |  | 고문[^task-uberfazz] |
+| ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) |  | 고문 |
 | ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | 네덜란드어 | 평가 |
+| ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) | | 평가 |
 | ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | 폴란드어 | 평가 |
 
 ### osu!taiko
@@ -104,7 +122,8 @@ NAT는 오랜 시간에 걸쳐서 잠재적 NAT 후보를 찾아보고 BN 평가
 | ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | 독일어 | 평가 |
 | ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | 우르두어, 일부 아랍어 | 평가 |
 | ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | 아랍어, 프랑스어, 일부 이탈리아어 | 평가 |
-| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | 평가 |
+| ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | 포르투갈어 | 평가 |
+| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | 리더 |
 
 ### osu!catch
 
@@ -112,7 +131,7 @@ NAT는 오랜 시간에 걸쳐서 잠재적 NAT 후보를 찾아보고 BN 평가
 | :-- | :-- | :-- |
 | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | 스페인어, 독일어 | 평가 |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | 네덜란드어 | 평가 |
-| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) |  | 평가 |
+
 
 ### osu!mania
 
@@ -125,7 +144,9 @@ NAT는 오랜 시간에 걸쳐서 잠재적 NAT 후보를 찾아보고 BN 평가
 
 ## 참고
 
+[^task-achyoo]: osu! 게임 모드의 veto를 주로 관리합니다.
+[^task-fuju]: 유저 신고와 osu! 게임 모드의 SEV 등급을 주로 관리합니다.
 [^task-mo]: 주된 내부 토론, 사무, 문서 담당
 [^task-naxess]: 주로 [Aiess](https://github.com/Naxesss/Aiess) 및 프로그램 [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier) 유지/보수 담당
 [^task-pishifat]: 주로 [NAT/BN 웹사이트](https://bn.mappersguild.com/home) 유지/보수 담당
-[^task-uberfazz]: 이외 업무 및 고문 관리 담당 
+[^task-star]: 랭킹 크리테리아 시험 관련 질문을 주로 담당합니다.
