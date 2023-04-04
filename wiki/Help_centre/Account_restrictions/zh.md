@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 5da77d5a1a4f3ca9f88000e232dbf7b005144764
----
-
 # 账号限制
 
 *主页面：[帮助中心](/wiki/Help_centre)*
@@ -13,6 +8,8 @@ outdated_since: 5da77d5a1a4f3ca9f88000e232dbf7b005144764
 
 被限制的账号无法使用以下功能：
 
+- 参加官方比赛
+- 进入多人游戏房间
 - 游戏内聊天
 - 私信
 - 发表帖子或评论
