@@ -9,7 +9,7 @@ tags:
 
 ![](img/mg-logo.png)
 
-**Mappers' Guild** es un grupo de mappers responsables de crear [beatmaps](/wiki/Beatmap) para los [artistas destacados](/wiki/Featured_Artists) de osu!. Utilizando un formato de gremios estilo MMO, permite a los mappers ganar recompensas por participar en el proceso de clasificación de beatmaps de artistas destacados y cooperar en misiones relacionadas con mapping.
+**Mappers' Guild** es un grupo de mappers responsables de crear [beatmaps](/wiki/Beatmap) para los [artistas destacados](/wiki/People/Featured_Artists) de osu!. Utilizando un formato de gremios estilo MMO, permite a los mappers ganar recompensas por participar en el proceso de clasificación de beatmaps de artistas destacados y cooperar en misiones relacionadas con mapping.
 
 La organización y la discusión del gremio se pueden encontrar en el canal `#mappers-guild` del [servidor de discord de osu!dev](https://discord.gg/ppy).
 
@@ -51,7 +51,7 @@ Las tareas de creación de dificultad otorgan al usuario más puntos si el beatm
 
 ### Beatmaps de exhibición
 
-*Artículo principal: [Beatmaps de exhibición de artistas destacados](/wiki/Featured_Artists/Featured_Artist_showcase_beatmaps)*
+*Artículo principal: [Beatmaps de exhibición de artistas destacados](/wiki/People/Featured_Artists/Featured_Artist_showcase_beatmaps)*
 
 Los miembros de Mappers' Guild también pueden participar en la creación de beatmaps de exhibición para futuros anuncios de artistas destacados. Tras el anuncio del artista destacado correspondiente, estos beatmaps se destacan en la [publicación de noticias](https://osu.ppy.sh/home/news) y, a menudo, también se promocionan en el [Twitter de @osugame](https://twitter.com/osugame).
 

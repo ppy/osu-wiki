@@ -10,7 +10,7 @@ Regardless of the nature of the audio, make sure it also complies with the [gene
 
 Explicit content refers primarily to the **audio content of a beatmap**, mostly in theme, subject matter, or *heavy* use of explicit language. It does **not** apply to visual elements of a beatmap — those **must** adhere to the [Visual Content Considerations](/wiki/Rules/Visual_Content_Considerations), or to any other user-alterable aspects of a beatmap (such as tags or beatmap difficulty names) which **must** abide by the [osu! community rules](/wiki/Rules) as normal. 
 
-As a general rule of thumb, the explicit content provision creates exceptions only for content that a user cannot reasonably edit with the tools provided to them by the game, and may also be revoked on a per-track basis at the discretion of the [osu! support team](/wiki/People/The_Team/Account_support_team).
+As a general rule of thumb, the explicit content provision creates exceptions only for content that a user cannot reasonably edit with the tools provided to them by the game, and may also be revoked on a per-track basis at the discretion of the [osu! support team](/wiki/People/Account_support_team).
 
 Generally speaking, most forms of music are acceptable to use in beatmaps with very few exceptions, so long as they are marked appropriately.
 

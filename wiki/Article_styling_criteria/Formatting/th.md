@@ -486,7 +486,7 @@ osu! ได้รับการติดตั้งในโฟลเดอร
 ต่อไปนี้คือตัวอย่างของรูปแบบอินไลน์ทั้งสองแบบ:
 
 ```markdown
-[ตัวดัดแปลงเกม](/wiki/Game_modifier)
+[ตัวดัดแปลงเกม](/wiki/Gameplay/Game_modifier)
 
 <https://osu.ppy.sh/home>
 ```

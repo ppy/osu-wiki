@@ -14,7 +14,7 @@ Kami menjatuhkan larangan turnamen kepada para pemain yang terbukti melakukan pe
 
 Sebagai contoh, kami tidak membenarkan tindakan para pemain yang menulis atau menggambar simbol/ujaran kebencian (seperti logo swastika) dalam bentuk apapun dengan *cursor smoke* mereka pada pertandingan yang disiarkan secara langsung.
 
-Di samping itu, para pengguna yang sebelumnya di-*restrict* baru akan dapat [kembali mengikuti turnamen setelah minimal 1 tahun](/wiki/Help_centre/Account_restrictions#reasons) terhitung dari tanggal pemulihan akun mereka (yang dapat berlaku lebih apabila dirasa perlu oleh [account support team](/wiki/People/The_Team/Account_support_team)).
+Di samping itu, para pengguna yang sebelumnya di-*restrict* baru akan dapat [kembali mengikuti turnamen setelah minimal 1 tahun](/wiki/Help_centre/Account_restrictions#reasons) terhitung dari tanggal pemulihan akun mereka (yang dapat berlaku lebih apabila dirasa perlu oleh [account support team](/wiki/People/Account_support_team)).
 
 ## Hal-hal apa saja yang dapat membuat seseorang dijatuhi larangan turnamen secara permanen? {#why-permanent}
 
@@ -34,7 +34,7 @@ Untuk lebih jelasnya, berikut merupakan berbagai hal yang dapat membuat seseoran
 
 Baik itu sementara ataupun permanen, **kamu tidak dapat mengajukan banding terhadap larangan turnamen yang kamu terima**.
 
-Dalam situasi khusus, [account support team](/wiki/People/The_Team/Account_support_team) kami dapat meninjau ulang kasus tertentu yang memang tim kami rasa perlu untuk diselidiki lebih lanjut dan menyesuaikan masa hukuman yang dijatuhkan.
+Dalam situasi khusus, [account support team](/wiki/People/Account_support_team) kami dapat meninjau ulang kasus tertentu yang memang tim kami rasa perlu untuk diselidiki lebih lanjut dan menyesuaikan masa hukuman yang dijatuhkan.
 
 ## Apa yang dapat saya lakukan selagi saya berada dalam masa larangan? {#while-banned}
 

@@ -10,7 +10,7 @@ ScoreV1 是默认使用的，旧分数系统的名称。虽然它只有这一种
 
 - osu! 和 osu!catch 会使用严格基于连击数的倍率对每个打击物件的分数赋值
 - osu!taiko 与*太鼓达人*的分数算法大致相似，基本分值会因连击加分而小幅波动
-- osu!mania 是 ScoreV1 下唯一有分数上限的游戏模式，在 1.00x 的[分数倍率](/wiki/Gameplay/Game_modifier/Score_multiplier)下，其值为 1,000,000
+- osu!mania 是 ScoreV1 下唯一有分数上限的游戏模式，在 1.00x 的[分数倍率](/wiki/Gameplay/Game_modifier/Mod_multiplier)下，其值为 1,000,000
 
 对于 ScoreV1 在每个模式下的具体工作方式，请参阅：
 

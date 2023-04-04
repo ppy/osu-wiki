@@ -8,7 +8,7 @@
 
 ## 一般的なosu!サポート
 
-アカウントに関する問題、支払いに関する問題、BANに関するフォローアップ、トーナメントに関する問い合わせなど、**osu!で助けを必要とするすべてのこと**については、[account support team](/wiki/People/The_Team/Account_support_team)に連絡してください。[accounts@ppy.sh](mailto:accounts@ppy.sh)（アカウントに関する問い合わせ）また[osu@ppy.sh](mailto:osu@ppy.sh)（その他）にメールを送ってください。
+アカウントに関する問題、支払いに関する問題、BANに関するフォローアップ、トーナメントに関する問い合わせなど、**osu!で助けを必要とするすべてのこと**については、[account support team](/wiki/People/Account_support_team)に連絡してください。[accounts@ppy.sh](mailto:accounts@ppy.sh)（アカウントに関する問い合わせ）また[osu@ppy.sh](mailto:osu@ppy.sh)（その他）にメールを送ってください。
 
 ## peppyへの連絡
 

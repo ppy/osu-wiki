@@ -6,7 +6,7 @@ Deine Beatmap [modden](/wiki/Modding) lassen ist ein essentieller Schritt im [Ra
 
 Vor der Suche nach Mods ist es wichtig, die verschiedenen Arten von Mod-Anfragen, die du machen kannst, zu verstehen. Die zwei am meisten genutzten sind [normale Mod-Anfragen](/wiki/Modding/Normal_mod) (NM req) und [Mod für Mod Anfragen](/wiki/Modding/Mod_for_mod) (M4M req). Dies sind jedoch nicht die einzigen Anfragetypen. Es gibt einige weitere Mod-Anfragearten, die hauptsächlich in `#modreqs` genutzt werden:
 
-- **Anfrage eines Beatmap-Nominators (BN req):** Wird nur in Warteschlangen von Beatmap-Nominatoren oder in `#modreqs` verwendet. Eine BN-Anfrage wird genutzt, wenn du glaubst, dass deine Beatmap durch reguläre Mods nicht weiter verbessert werden kann und eine gründlichere Prüfung durch einen [Beatmap-Nominator](/wiki/People/The_Team/Beatmap_Nominators) erfordert.
+- **Anfrage eines Beatmap-Nominators (BN req):** Wird nur in Warteschlangen von Beatmap-Nominatoren oder in `#modreqs` verwendet. Eine BN-Anfrage wird genutzt, wenn du glaubst, dass deine Beatmap durch reguläre Mods nicht weiter verbessert werden kann und eine gründlichere Prüfung durch einen [Beatmap-Nominator](/wiki/People/Beatmap_Nominators) erfordert.
 - **Metadaten-Überprüfung (Meta check):** Weitgehend selbsterklärend, der [Modder](/wiki/Modding/Modder) überprüft, ob die Metadaten deiner Beatmap korrekt sind. Die Metadaten werden oft auch in normalen Mods geprüft.
 - **Hitsound-Überprüfung:** Der Modder prüft deine Beatmap, um sicherzustellen, dass die Hitsounds den Song richtig abbilden, einheitlich sind und den Ranking-Standards entsprechen.
 

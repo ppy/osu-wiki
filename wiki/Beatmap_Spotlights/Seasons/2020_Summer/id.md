@@ -26,7 +26,7 @@ tags:
 
 ## Lobi multiplayer mingguan
 
-Untuk saat ini, bergabung dengan lobi multiplayer mingguan mengharuskan peserta untuk mengunduh dan menginstal [osu!(lazer)](https://github.com/ppy/osu/releases).
+Untuk saat ini, bergabung dengan lobi multiplayer mingguan mengharuskan peserta untuk mengunduh dan menginstal [osu!(lazer)](/wiki/Client/Release_stream/Lazer).
 
 1. Setiap Jumat pada suatu musim, timeshift multiplayer lobby tunggal dibuka. Setiap orang dapat berpartisipasi selama 3 hari.
    - Dalam 2 minggu terakhir pada suatu musim, timeshift multiplayer lobby untuk masing-masing dari 2 daftar putar akan dibuka.

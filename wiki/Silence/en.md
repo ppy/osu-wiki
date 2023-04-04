@@ -1,6 +1,6 @@
 # Silence
 
-**Silence** is a term used to describe the punishment of limiting a user's means of communication within the osu! community. Silences can be placed by members of the [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) and [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team), and are only placed on users that have broken the [Community Rules](/wiki/Rules).
+**Silence** is a term used to describe the punishment of limiting a user's means of communication within the osu! community. Silences can be placed by members of the [Global Moderation Team](/wiki/People/Global_Moderation_Team) and [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team), and are only placed on users that have broken the [Community Rules](/wiki/Rules).
 
 ## Limitations
 
@@ -28,7 +28,7 @@ After a user is silenced, an alert will be displayed in place of the chat input 
 
 ## Appealing a silence
 
-If you believe you were silenced unfairly, contact the [account support team](/wiki/People/The_Team/Account_support_team#accounts@ppy.sh) at [accounts@ppy.sh](mailto:accounts@ppy.sh) to contest the silence. Make sure to do it from the email linked to your osu! account; mention your osu! username, as well as the approximate date and time when the silence was handed out.
+If you believe you were silenced unfairly, contact the [account support team](/wiki/People/Account_support_team#accounts@ppy.sh) at [accounts@ppy.sh](mailto:accounts@ppy.sh) to contest the silence. Make sure to do it from the email linked to your osu! account; mention your osu! username, as well as the approximate date and time when the silence was handed out.
 
 ## Common reasons for silences
 

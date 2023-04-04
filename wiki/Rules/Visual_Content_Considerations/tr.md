@@ -47,10 +47,10 @@ Aşağıdaki örneklerden herhangi birini içeren resimler veya görsel içerikl
 
 Site içerisinde bir beatmap haricinde herhangi bir yerde kullanılan resimler (avatarlar, profil kapak resimleri, kullanıcı sayfaları, vb.) aşağıda belirtilen oylama prosedürüne dahil **değildir** ve Küresel Moderasyon Takımının takdirince herhangi bir vakit kaldırılabilir.
 
-Eğer bir beatmap içerisinde herhangi bir şekilde kullanılacak olan bir resmin uygunluğundan emin değilseniz, **lütfen herhangi bir [Beatmap Aday Göstericiye](/wiki/People/The_Team/Beatmap_Nominators), [Küresel Moderasyon Takımı](/wiki/People/The_Team/Global_Moderation_Team) veya [Aday Gösterme Denetleme Takımı](/wiki/People/The_Team/Nomination_Assessment_Team) üyesine resmi bir istekte bulunun.**
+Eğer bir beatmap içerisinde herhangi bir şekilde kullanılacak olan bir resmin uygunluğundan emin değilseniz, **lütfen herhangi bir [Beatmap Aday Göstericiye](/wiki/People/Beatmap_Nominators), [Küresel Moderasyon Takımı](/wiki/People/Global_Moderation_Team) veya [Aday Gösterme Denetleme Takımı](/wiki/People/Nomination_Assessment_Team) üyesine resmi bir istekte bulunun.**
 
 Daha sonrasında resim bir oylamaya alınarak, ya önemli bir çoğunluğun oyuyla onaylanacak, ya da otomatik olarak reddedilecek.
 
 Tartışma sırasında ortaya atılan problematik kısımların düzeltilmesi adına resim üzerinde önemli değişiklikler yapılmadıysa, **bütün oylamaların sonucu nihaidir**.
 
-[osu!team](/wiki/People/The_Team), her zaman için, konu üzerinde yapılan önceki oylamalara bakmaksızın, herhangi bir içeriği tek taraflı bir şekilde geçerli veya geçersiz ilan etme hakkını saklı tutar.
+[osu!team](/wiki/People/osu!_team), her zaman için, konu üzerinde yapılan önceki oylamalara bakmaksızın, herhangi bir içeriği tek taraflı bir şekilde geçerli veya geçersiz ilan etme hakkını saklı tutar.

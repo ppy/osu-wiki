@@ -1,8 +1,8 @@
 # Assistant de décalage
 
-*Voir également : [Comment utiliser l'assistant de décalage](/wiki/Guides/How_to_Use_the_Offset_Wizard) et [Décalage universel](/wiki/Client/Options/Universal_offset).*
+*Voir également : [Comment utiliser l'assistant de décalage](/wiki/Guides/How_to_Use_the_Offset_Wizard) et [Décalage universel](/wiki/Offset/Universal_offset).*
 
-L'**Assistant de décalage** est un outil intégré qui aide l'utilisateur à calibrer le [décalage universel](/wiki/Client/Options/Universal_offset) à la valeur correcte pour son appareil. Cela est nécessaire lorsque les [hitsounds](/wiki/Beatmapping/Hitsound) ne sont pas synchronisés avec la musique, et ce pour chaque beatmap que vous jouez. Pour plus d'informations sur la façon de procéder, voir [Comment utiliser l'assistant de décalage](/wiki/Guides/How_to_Use_the_Offset_Wizard).
+L'**Assistant de décalage** est un outil intégré qui aide l'utilisateur à calibrer le [décalage universel](/wiki/Offset/Universal_offset) à la valeur correcte pour son appareil. Cela est nécessaire lorsque les [hitsounds](/wiki/Beatmapping/Hitsound) ne sont pas synchronisés avec la musique, et ce pour chaque beatmap que vous jouez. Pour plus d'informations sur la façon de procéder, voir [Comment utiliser l'assistant de décalage](/wiki/Guides/How_to_Use_the_Offset_Wizard).
 
 Pour accéder à l'assistant de décalage, ouvrez le menu [Options](/wiki/Client/Options) et tapez `décalage` dans la barre de recherche rapide. Cliquez ensuite sur le bouton `Démarrer l'assistant`.
 

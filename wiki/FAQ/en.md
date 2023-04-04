@@ -24,7 +24,7 @@ The gameplay circles can be seen on the bottom screen, and the story on the top 
 
 *Full explanation: [osu!](/wiki/Game_mode/osu!)*
 
-While most players may not have a touchscreen at their disposal, the game was made to be playable with a normal mouse in mind, as well as any creative variations of input devices usage. Different play styles can be found in the [play styles](/wiki/Play_style) page. There are some songs which will push the limits of the normal mouse and the player, but all the (ranked and approved) beatmaps have been tested and (most can be) passable using only a mouse.
+While most players may not have a touchscreen at their disposal, the game was made to be playable with a normal mouse in mind, as well as any creative variations of input devices usage. Different play styles can be found in the [play styles](/wiki/Gameplay/Play_style) page. There are some songs which will push the limits of the normal mouse and the player, but all the (ranked and approved) beatmaps have been tested and (most can be) passable using only a mouse.
 
 #### Gameplay Basics
 
@@ -68,7 +68,7 @@ The outer white circle shows how much time left to complete the spinner. This ci
 
 The small box below the spinner shows spins per minute. The number inside that box translates to the number of spins possible, if to continue to spin the spinner at that speed for one minute. If mouse/keyboard-button was released (or pen did not touch the tablet) early during the spin, the spinner will stop reading the spin.
 
-On the *DS*, this is a good way to scratch the touchscreen (or screen protector), especially on the higher difficulties. In osu!, spinners have been toned down as to not be such a nuisance to complete. The maximum number of spins per minute achievable is 477 which is also the rate at which the [Auto](/wiki/Game_modifier/Auto) game modifier spins while the [Spun Out](/wiki/Game_modifier/Spun_Out) game modifier spins slower at 287 spins per minute.
+On the *DS*, this is a good way to scratch the touchscreen (or screen protector), especially on the higher difficulties. In osu!, spinners have been toned down as to not be such a nuisance to complete. The maximum number of spins per minute achievable is 477 which is also the rate at which the [Auto](/wiki/Gameplay/Game_modifier/Auto) game modifier spins while the [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out) game modifier spins slower at 287 spins per minute.
 
 #### In-Game Interface
 
@@ -88,9 +88,9 @@ The default controls for osu! are:
 
 The hit objects in osu! will accept any input from the input device, as long as each hit objects was tapped in time.
 
-If [Relax](/wiki/Game_modifier/Relax) game modifier was used, only the in-game cursor will work. Use the in-game cursor to follow the hit objects with automated tap. Spinners must still be completed.
+If [Relax](/wiki/Gameplay/Game_modifier/Relax) game modifier was used, only the in-game cursor will work. Use the in-game cursor to follow the hit objects with automated tap. Spinners must still be completed.
 
-If [Auto Pilot](/wiki/Game_modifier/Autopilot) game modifier was used, only the input from the input device will work. Time the tap on the hit objects with automated cursor movement. Spinners will follow the [Spun Out](/wiki/Game_modifier/Spun_Out) mod speed.
+If [Auto Pilot](/wiki/Gameplay/Game_modifier/Autopilot) game modifier was used, only the input from the input device will work. Time the tap on the hit objects with automated cursor movement. Spinners will follow the [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out) mod speed.
 
 ---
 
@@ -168,7 +168,7 @@ The default controls for osu!taiko are:
 
 The placement of in-game cursor does not matter when playing.
 
-If [Relax](/wiki/Game_modifier/Relax) mod was used, the score judgement only account for hit timing only (automatically rectify wrong colour hit with correct colour).
+If [Relax](/wiki/Gameplay/Game_modifier/Relax) mod was used, the score judgement only account for hit timing only (automatically rectify wrong colour hit with correct colour).
 
 *TaTaCon* drum controller were primarily made for the home ports of *Taiko no Tatsujin* and *Taiko: Drum Master*.
 
@@ -214,7 +214,7 @@ Missing the juice drop will break the combo (as it is a slider tick), but missin
 
 Here, large bananas will rain down and shrink down to catch size as it falls down to the plate (or not). Each collected bananas will give a static score of 1,100 regardless of mod and combo multiplier.
 
-The bananas can be ignored with no health penalty. However, it can cost the extra points and health recovery from collecting the bananas. Notably, [Auto](/wiki/Game_modifier/Auto) mod will go above and beyond to catch *all* of the bananas without fail.
+The bananas can be ignored with no health penalty. However, it can cost the extra points and health recovery from collecting the bananas. Notably, [Auto](/wiki/Gameplay/Game_modifier/Auto) mod will go above and beyond to catch *all* of the bananas without fail.
 
 ##### Hyperfruits
 
@@ -230,7 +230,7 @@ Collecting the hyperfruit will make the catcher's dash upgraded to *hyperdash* (
 - Press and hold the `leftShift`(D) key with one of the arrow keys will make the catcher *dash* in that direction at x2.0 speed (indicated with a **bright glow** from the catcher).
   - Alternatively, press and hold the Left Click(D) button on the mouse to trigger the dash.
 
-The placement of in-game cursor does not matter when playing normally. If [Relax](/wiki/Game_modifier/Relax) mod was enabled, the control of the catcher will be the in-game cursor instead. However, the play unrankable when Relax mod was enabled (as it defeats the only challenge of osu!catch; fixed catcher speed and catcher plate control).
+The placement of in-game cursor does not matter when playing normally. If [Relax](/wiki/Gameplay/Game_modifier/Relax) mod was enabled, the control of the catcher will be the in-game cursor instead. However, the play unrankable when Relax mod was enabled (as it defeats the only challenge of osu!catch; fixed catcher speed and catcher plate control).
 
 ### What is osu!mania?
 
@@ -244,9 +244,9 @@ The mode has been widely used in almost all of the major rhythm games. It requir
 
 When converting a non-specific beatmap, the default key range would be around 4 to 7 keys.
 
-With the [xK](/wiki/Game_modifier/xK) game modifier, the player can manually set the number of keys from 1 to a total of 9 keys with a score multiplier reduction. However, the game modifier will not work with osu!mania-specific beatmaps.
+With the [xK](/wiki/Gameplay/Game_modifier/xK) game modifier, the player can manually set the number of keys from 1 to a total of 9 keys with a score multiplier reduction. However, the game modifier will not work with osu!mania-specific beatmaps.
 
-With the [Co-Op](/wiki/Game_modifier/Co-op) game modifier, the stage will be split in two, use Co-Op's control scheme, and will allows the player to play from 2 to a total of 18 keys with a score multiplier reduction. Do note that while the preset number of keys will not be doubled on osu!mania-specific beatmaps, it will split the stage in two (left stage priority if odd-numbered), use Co-Op's control scheme, and no score multiplier reduction.
+With the [Co-Op](/wiki/Gameplay/Game_modifier/Co-op) game modifier, the stage will be split in two, use Co-Op's control scheme, and will allows the player to play from 2 to a total of 18 keys with a score multiplier reduction. Do note that while the preset number of keys will not be doubled on osu!mania-specific beatmaps, it will split the stage in two (left stage priority if odd-numbered), use Co-Op's control scheme, and no score multiplier reduction.
 
 #### Basic explanation
 
@@ -368,8 +368,8 @@ There two different binding-styles, *Symmetrical* and *Left to Right*.
 
 **Special grades:**
 
-- Silver SS (SSH) = Normal grade SS with *[Hidden](/wiki/Game_modifier/Hidden)* and/or *[Flashlight](/wiki/Game_modifier/Flashlight)* mod.
-- Silver S (SH) = Normal grade S with *[Hidden](/wiki/Game_modifier/Hidden)* and/or *[Flashlight](/wiki/Game_modifier/Flashlight)* mod.
+- Silver SS (SSH) = Normal grade SS with *[Hidden](/wiki/Gameplay/Game_modifier/Hidden)* and/or *[Flashlight](/wiki/Gameplay/Game_modifier/Flashlight)* mod.
+- Silver S (SH) = Normal grade S with *[Hidden](/wiki/Gameplay/Game_modifier/Hidden)* and/or *[Flashlight](/wiki/Gameplay/Game_modifier/Flashlight)* mod.
 
 **Regarding the *Ranks* in profile page:**
 
@@ -415,7 +415,7 @@ For osu!taiko, **OnosakiHito** has compiled a set of beatmaps for beginners to l
 
 For osu!catch, **Kingkevin30** has compiled a nice list of osu!catch beatmaps and basic explanation about osu!catch. It can be found [here](https://osu.ppy.sh/community/forums/topics/131067).
 
-For osu!mania, **Entozer** has compiled a decent list sorted by relative player's difficulties, with **Drace** providing an experienced gameplay insight for beginners starting out in osu!mania. Both of it can be found [here](https://osu.ppy.sh/community/forums/topics/147552) (**Entozer**'s beatmap guide), and [here](https://osu.ppy.sh/community/forums/topics/146615) (**Drace**'s improvement guide)
+For osu!mania, **Entozer** has compiled a decent list sorted by relative player's difficulties, with **Drace** providing an experienced gameplay insight for beginners starting out in osu!mania. Both of them can be found [here](https://osu.ppy.sh/community/forums/topics/147552) (**Entozer**'s beatmap guide), and [here](https://osu.ppy.sh/community/forums/topics/146615) (**Drace**'s improvement guide)
 
 Alternatively, the website's beatmap search bar has a feature to [sort the ranked beatmap list by difficulty](https://osu.ppy.sh/beatmapsets?sort=difficulty_asc). The easiest maps are at the top of the list.
 
@@ -500,7 +500,7 @@ A slider is composed of a starting circle point, spaced smaller circles known as
 
 Slider ticks only appears inside its own slider path; if the slider ticks are too close to the start or end circle as shown in the image above, it will be hidden inside the start or end circle. Hidden slider ticks still counts into combo and score, so it must be collected along with the visible slider ticks. If the slider has one or more reverse arrow points, then the slider ticks will reappear at the same place to be collected in reverse.
 
-If miss the timing to tap the starting circle point, miss the slider ticks, or miss the reverse arrow points, combo will break (it should trigger a combo break sound when the combo is high enough) but it is not considered a miss. However, if miss the ending circle point, combo does not break and does not increment by one. It is also not considered a miss; instead, a 100 (or katu for end of the combo) will be given for the entire slider, assuming at least the slider starting circle point done properly, and completed all the slider ticks/reverse arrow points when given. Notably, [Sudden Death](/wiki/Game_modifier/Sudden_Death) game mod will not trigger its effect of immediate game over when missing the ending circle point (since the combo did not break, the Sudden Death effect was not triggered).
+If miss the timing to tap the starting circle point, miss the slider ticks, or miss the reverse arrow points, combo will break (it should trigger a combo break sound when the combo is high enough) but it is not considered a miss. However, if miss the ending circle point, combo does not break and does not increment by one. It is also not considered a miss; instead, a 100 (or katu for end of the combo) will be given for the entire slider, assuming at least the slider starting circle point done properly, and completed all the slider ticks/reverse arrow points when given. Notably, [Sudden Death](/wiki/Gameplay/Game_modifier/Sudden_Death) game mod will not trigger its effect of immediate game over when missing the ending circle point (since the combo did not break, the Sudden Death effect was not triggered).
 
 These situations, caused by a slider, are collectively called **sliderbreak**. A max combo play can be known by checking the result screen for the *Perfect* notice on the performance graph; not having the *Perfect* notice, especially without any miss, usually means there is one or more sliderbreak occurred during play.
 

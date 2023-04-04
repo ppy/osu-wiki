@@ -6,7 +6,7 @@
 
 Régler le timing d'une musique n'est pas aussi compliqué que cela puisse paraître au premier abord. Vous avez seulement besoin de deux choses : le sens du rythme et un peu de dextérité. Une oreille musicale et de l'expérience dans les jeux de rythme ne sont pas requises, mais cela peut aider à améliorer votre beatmap.
 
-Vous êtes aussi supposé savoir ce qu'est le [BPM](/wiki/Beatmapping/Beats_per_minute) et l'[offset](/wiki/Disambiguation/Offset), ainsi que de savoir comment créer des sections non héritées (souvent appelés red offsets).
+Vous êtes aussi supposé savoir ce qu'est le [BPM](/wiki/Music_theory/Tempo) et l'[offset](/wiki/Offset), ainsi que de savoir comment créer des sections non héritées (souvent appelés red offsets).
 
 ## Préparer le fichier .mp3
 
@@ -141,7 +141,7 @@ Ces étapes doivent être répétées jusqu’à la fin de la musique. Au final,
 L'algorithme pour les accélérations/décélérations du timing est légèrement différent :
 
 1. Trouvez un endroit où le tempo de la musique change. Créez un nouvel offset (si possible, sur une ligne blanche). Ensuite, zoomez l’échelle de la chronologie de la beatmap (Alt + molette de la souris ou appuyez sur le bouton "+" juste à côté de la chronologie) ;
-2. Posez une note deux temps après le changement et appliquez-lui un hitsound (par exemple, un hitsound finish du [sampleset](/wiki/Beatmap_Editor/Compose) soft). Baissez la vitesse de lecture de la musique et écoutez-la quelques fois. Appuyez sur Maj et bougez minutieusement la note vers l'avant ou vers l'arrière dans la chronologie, puis réécoutez-là. Répétez cette étape jusqu'à ce que vous trouviez la meilleure position où la note est synchronisée avec la musique ;
+2. Posez une note deux temps après le changement et appliquez-lui un hitsound (par exemple, un hitsound finish du [sampleset](/wiki/Client/Beatmap_editor/Compose) soft). Baissez la vitesse de lecture de la musique et écoutez-la quelques fois. Appuyez sur Maj et bougez minutieusement la note vers l'avant ou vers l'arrière dans la chronologie, puis réécoutez-là. Répétez cette étape jusqu'à ce que vous trouviez la meilleure position où la note est synchronisée avec la musique ;
 3. Sélectionnez la note et double-cliquez dessus, tout en faisant en sorte de ne pas décaler la note par accident après que vous l'ayez cliquée. Créez un nouvel offset juste dessus ;
 4. Augmentez/Réduisez le BPM de l'offset juste avant, regardez la différence entre le tick juste avant le nouvel offset et l'offset lui-même. Votre but est d'enlever cette différence en changeant le BPM de la première section, pour que le début de la nouvelle section soit placé exactement lors d'un tick de l'ancien offset.
 5. Quand vous avez fini cela, retournez à l'étape 2.

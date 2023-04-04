@@ -89,7 +89,7 @@ Apabila kamu sebelumnya pernah membuat kolom “saya!” pada laman profil osu! 
 
 Apabila kamu berkeberatan dengan hal ini, kamu dapat membuka tiket layanan dukungan (*support ticket*) baru dengan mengirimkan email pada alamat [accounts@ppy.sh](mailto:accounts@ppy.sh).
 
-Apabila kamu tidak yakin apakah konten yang kamu miliki (atau yang hendak kamu letakkan) pada kolom “saya!” milikmu melanggar peraturan atau tidak, harap hubungi anggota-anggota [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) untuk mendapatkan arahan dan konfirmasi lebih lanjut.
+Apabila kamu tidak yakin apakah konten yang kamu miliki (atau yang hendak kamu letakkan) pada kolom “saya!” milikmu melanggar peraturan atau tidak, harap hubungi anggota-anggota [Global Moderation Team](/wiki/People/Global_Moderation_Team) untuk mendapatkan arahan dan konfirmasi lebih lanjut.
 
 ### Apakah saya harus memiliki alamat email yang terdaftar untuk dapat membuat akun osu!? {#email-purpose}
 
