@@ -2,7 +2,7 @@
 
 ![](img/beat_snap_divisor.png "Beat Snap Divisor in the editor")
 
-The **Beat Snap Divisor** is an editor setting that determines the editor's behaviour in quantising [hit objects](/wiki/Hit_object) based on the [Beat Snap](/wiki/Client/Beatmap_editor/Beat_Snap) principles. It can be found in the upper-right portion of the editor screen, where it corresponds to the granularity of the objects on the [timeline](/wiki/Client/Beatmap_editor/Timelines); that is, a denser Beat Snap Divisor setting allows for more notes to be placed in the same measure of time and vice versa. 
+The **Beat Snap Divisor** is an editor setting that determines the editor's behaviour in quantising [hit objects](/wiki/Gameplay/Hit_object) based on the [Beat Snap](/wiki/Client/Beatmap_editor/Beat_Snap) principles. It can be found in the upper-right portion of the editor screen, where it corresponds to the granularity of the objects on the [timeline](/wiki/Client/Beatmap_editor/Timelines); that is, a denser Beat Snap Divisor setting allows for more notes to be placed in the same measure of time and vice versa. 
 
 The beatmap editor supports eleven different Beat Snap Divisor settings as follows:
 

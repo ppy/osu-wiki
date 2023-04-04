@@ -9,7 +9,7 @@ tags:
 
 *For tournament support, see: [Official tournament support](/wiki/Tournaments/Official_support).*
 
-[Beatmapping contests](/wiki/Contests) are eligible to receive support from the [osu! team](/wiki/People/The_Team) provided they meet certain criteria.
+[Beatmapping contests](/wiki/Contests) are eligible to receive support from the [osu! team](/wiki/People/osu!_team) provided they meet certain criteria.
 
 For other contests, email us at [tournaments@ppy.sh](mailto:tournaments@ppy.sh). We'll try to work something out.
 

@@ -13,8 +13,8 @@ tags:
 
 ![PF 모드 아이콘](/wiki/shared/mods/PF.png "퍼펙트 (PF) 모드 아이콘")
 
-*모든 모드의 목록을 확인하려면 [여기](/wiki/Game_modifier)를 눌러주세요.*\
-*[서든 데스 (모드)](/wiki/Game_modifier/Sudden_Death)도 확인해 보세요.*
+*모든 모드의 목록을 확인하려면 [여기](/wiki/Gameplay/Game_modifier)를 눌러주세요.*\
+*[서든 데스 (모드)](/wiki/Gameplay/Game_modifier/Sudden_Death)도 확인해 보세요.*
 
 ## 퍼펙트
 
@@ -24,11 +24,11 @@ tags:
 - 기본 단축키: `S` `S` or `Shift`+`S`
 - 설명: `SS가 아니면 죽음을!`
 - PF를 사용할 수 있는 osu!의 장르: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- 같은 계열의 모드: [서든 데스](/wiki/Game_modifier/Sudden_Death)
+- 같은 계열의 모드: [서든 데스](/wiki/Gameplay/Game_modifier/Sudden_Death)
 
 ## 상세 설명
 
-**퍼펙트** 모드는 노트를 놓치거나 300점 미만의 점수를 받았을 때 자동으로 실패 처리되고 재시도 해주는 [모드](/wiki/Game_modifier)입니다. 이 모드는 [비트맵](/wiki/Beatmap)을 플레이할 때 SS 등급을 획득하고자 하는 유저에게 도움이 되는 모드입니다.
+**퍼펙트** 모드는 노트를 놓치거나 300점 미만의 점수를 받았을 때 자동으로 실패 처리되고 재시도 해주는 [모드](/wiki/Gameplay/Game_modifier)입니다. 이 모드는 [비트맵](/wiki/Beatmap)을 플레이할 때 SS 등급을 획득하고자 하는 유저에게 도움이 되는 모드입니다.
 
 아래와 같은 경우 **퍼펙트 모드가 작동하여** 비트맵을 다시 시작 합니다.
 
@@ -49,7 +49,7 @@ tags:
 ## 그 외
 
 - 비트맵에 프롤로그가 있는 경우, 퍼펙트 모드는 자동으로 그것을 건너뛰지 않습니다. 왜냐햐면 이 모드는 빠른 실행이 아닌 자동 재도전 기능을 사용하기 때문입니다.
-- 퍼펙트 모드는 [서든 데스](/wiki/Game_modifier/Sudden_Death)가 변형된 모드입니다.
+- 퍼펙트 모드는 [서든 데스](/wiki/Gameplay/Game_modifier/Sudden_Death)가 변형된 모드입니다.
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

@@ -6,7 +6,7 @@
 
 **Tab timing** di dalam [beatmap editor](/wiki/Client/Beatmap_editor) memungkinkan para mapper untuk mengubah pengaturan timing dari sebuah [beatmap](/wiki/Beatmap). Timing biasanya merupakan sebuah langkah pertama dalam membuat sebuah beatmap.
 
-Timing terdiri dari sebuah [offset](/wiki/Beatmapping/Offset) lagu, [beats per minute (BPM)](/wiki/Beatmapping/Beats_per_minute), dan [meter](https://en.wikipedia.org/wiki/Metre_(music)). Beatmap dituntut agar mempunyai timing yang akurat, supaya para pemain dapat menjaga akurasi saat bermain. Beatmap dengan timing yang tidak tepat, tidak dapat melewati [prosedur beatmap ranking](/wiki/Beatmap_ranking_procedure).
+Timing terdiri dari sebuah [offset](/wiki/Offset) lagu, [beats per minute (BPM)](/wiki/Music_theory/Tempo), dan [meter](https://en.wikipedia.org/wiki/Metre_(music)). Beatmap dituntut agar mempunyai timing yang akurat, supaya para pemain dapat menjaga akurasi saat bermain. Beatmap dengan timing yang tidak tepat, tidak dapat melewati [prosedur beatmap ranking](/wiki/Beatmap_ranking_procedure).
 
 ## Jendela Timing dan Control Point
 
@@ -20,6 +20,6 @@ Uninherited timing point ditampilkan sebagai sebuah garis merah (*red line*), se
 
 ### Inherited timing point
 
-Inherited timing point ditampilkan sebagai sebuah garis hijau (*green line*), inherits BPM, offset, dan pengaturan meter dari garis merah sebelumnya. Garis hijau digunakan untuk menyesuaikan pengaturan pada [slider velocity](/wiki/Hit_object/Slider_velocity) dan [hitsound](/wiki/Beatmapping/Hitsound).
+Inherited timing point ditampilkan sebagai sebuah garis hijau (*green line*), inherits BPM, offset, dan pengaturan meter dari garis merah sebelumnya. Garis hijau digunakan untuk menyesuaikan pengaturan pada [slider velocity](/wiki/Gameplay/Hit_object/Slider/Slider_velocity) dan [hitsound](/wiki/Beatmapping/Hitsound).
 
 Inherited timing point (*green line*) tidak bisa ditempatkan sebelum uninherited point pertama (*red line*), karena akan menyebabkan tidak dapat memasang pengaturan inherit apa pun.

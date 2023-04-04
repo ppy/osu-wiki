@@ -16,7 +16,7 @@ needs_cleanup: true
 | 2011-12-06 | [osu! wiki is now live!](https://osu.ppy.sh/community/forums/topics/68525). |
 | 2012-11 | The osu! wiki now has 3 admins (Dellirium, Repflez). Previously, only peppy was the admin. |
 | 2013-01-27T06:12Z | peppy integrated the osu! wiki with the main site design. [Link to peppy's post](https://osu.ppy.sh/community/forums/posts/2082803). |
-| 2014 | The osu! wiki becomes an actual information centre of osu!, replacing most of the web copies such as [The Team](/wiki/People/The_Team) and [Rules](/wiki/Rules). Also, the osu! wiki now has 5 admins (Loctav, deadbeat). |
+| 2014 | The osu! wiki becomes an actual information centre of osu!, replacing most of the web copies such as [The Team](/wiki/People/osu!_team) and [Rules](/wiki/Rules). Also, the osu! wiki now has 5 admins (Loctav, deadbeat). |
 | 2015 | The osu! wiki received major translation updates from other languages. Dellirium has been replaced by Shiro as one of the admins of the osu! wiki. |
 | 2016-02-22 | The osu! wiki now has 8 admins (Ukami and Galkan). |
 | 2016-04-01 | One more admin joined the osu! wiki (Nathanael). |
@@ -38,6 +38,6 @@ needs_cleanup: true
 | 2018-02-07 | [Article tagging support was implemented](https://github.com/ppy/osu-web/pull/2331) to allow better search results for wiki articles. |
 | 2018–2021 | *Undocumented* |
 | 2021-05-12 | First implementation of [infoboxes](https://github.com/ppy/osu-web/pull/7546) that may add additional information to articles. |
-| 2021-06-01 | [Basic implementation](https://github.com/ppy/osu/pull/12950) of the osu! wiki in osu!(lazer) was added (English only). |
+| 2021-06-01 | [Basic implementation](https://github.com/ppy/osu/pull/12950) of the osu! wiki in [osu!(lazer)](/wiki/Client/Release_stream/Lazer) was added (English only). |
 | 2021-08-08 | [Gallery support](https://github.com/ppy/osu-web/pull/8126) was implemented. Now, images from one article can be viewed at once in a gallery. |
 | 2021-08-12 | Support for [footnotes](https://github.com/ppy/osu-web/pull/8125) was integrated. This allows to add links to notes and references for placing them in a specific section at the end of each article. |

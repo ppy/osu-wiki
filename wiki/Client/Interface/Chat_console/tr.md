@@ -14,7 +14,7 @@ osu!'daki pek çok ekranda `F8` tuşuna ya da sağ alttaki `Show Chat` butonuna 
 | **Beyaz** | Siz |
 | **Soluk** | osu!supporter olmayanlar |
 | **Sarı** | [osu!supporter](/wiki/osu!supporter) |
-| **Kırmızı** | [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) ya da [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team ) üyesi |
+| **Kırmızı** | [Global Moderation Team](/wiki/People/Global_Moderation_Team) ya da [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team ) üyesi |
 | **Yeşil** | Satır, adınızı veya [highlight](Highlight) tetiklemek için eklediğiniz belirli anahtar kelimeleri içerir. İletinin bir kopyası, tüm bu satırları içeren özel bir kanal olan `#highlight` kanalında da görünür. |
 | **Mavi** | Özel Mesaj |
 | **Camgöbeği** | [peppy](https://osu.ppy.sh/users/2), osu!'nun yaratıcısı! |

@@ -20,7 +20,7 @@ Benutze eine frische osu!-Installation.
 ## Der Hintergrund wird bei osu!tourney nicht angezeigt!
 
 Stelle sicher, dass die Hintergrunddatei ordnungsgemäß in `/osu!/Skins/User/tournament/background.png` vorhanden ist.
-Siehe den [Skinning-Ratgeber](/wiki/osu!tourney/Skinning) für mehr Details.
+Siehe den [Skinning-Ratgeber](/wiki/osu!_tournament_client/osu!tourney/Skinning) für mehr Details.
 
 ## Wie kann ich osu! wieder als normalen Client benutzen?
 
@@ -34,7 +34,7 @@ Wenn der Client immer noch nicht zuschaut, klicke auf den Button `Panic`.
 ## Die Räume tauchen nicht auf!
 
 Es ist möglich, dass dein Raum inkorrekt benannt wurde oder du das falsche Akronym in der Datei `tournament.cfg` benutzt hast.
-Stelle sicher, dass der Raum richtig benannt ist, indem du den [Ratgeber für den Mehrspielerbetrieb](/wiki/osu!tourney/Multiplayer_usage) genau befolgst.
+Stelle sicher, dass der Raum richtig benannt ist, indem du den [Ratgeber für den Mehrspielerbetrieb](/wiki/osu!_tournament_client/osu!tourney/Multiplayer_usage) genau befolgst.
 
 ## Die Teamnamen werden nicht angezeigt!
 
@@ -44,7 +44,7 @@ Siehe die vorherige Antwort.
 
 Wir empfehlen die Verwendung von [Open Broadcaster Software](https://obsproject.com/), aber jedes andere Streaming-Programm, das den Bildschirm aufnimmt, kann ebenso benutzt werden.
 
-Die Auflösung des oberen Teils von osu!tourney kann in der Datei `tournament.cfg` angepasst werden, aber standardmäßig ist sie `1280 x 720`. Stelle sicher, dass die Auflösung deines Monitors größer als dieser Wert ist. Siehe die [Einrichtungsanleitung](/wiki/osu!tourney/Setup) für Informationen darüber, wie sich die Auflösung ändern lässt.
+Die Auflösung des oberen Teils von osu!tourney kann in der Datei `tournament.cfg` angepasst werden, aber standardmäßig ist sie `1280 x 720`. Stelle sicher, dass die Auflösung deines Monitors größer als dieser Wert ist. Siehe die [Einrichtungsanleitung](/wiki/osu!_tournament_client/osu!tourney/Setup) für Informationen darüber, wie sich die Auflösung ändern lässt.
 
 Vergiss nicht, den Ausschnitt einzustellen, um das schwarze Bedienfeld aus dem Stream zu entfernen!
 

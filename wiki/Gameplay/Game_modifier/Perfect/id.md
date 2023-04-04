@@ -11,8 +11,8 @@ tags:
 
 ![Ikon mod PF](/wiki/shared/mods/PF.png "Ikon mod Perfect (PF)")
 
-*Untuk melihat daftar keseluruhan dari semua mod, kunjungi: [Game modifier](/wiki/Game_modifier)*\
-*Kunjungi juga: [Sudden Death (mod)](/wiki/Game_modifier/Sudden_Death)*
+*Untuk melihat daftar keseluruhan dari semua mod, kunjungi: [Game modifier](/wiki/Gameplay/Game_modifier)*\
+*Kunjungi juga: [Sudden Death (mod)](/wiki/Gameplay/Game_modifier/Sudden_Death)*
 
 ## Tentang
 
@@ -22,11 +22,11 @@ tags:
 - Tombol shortcut default: `S` `S` atau `Shift`+`S`
 - Caption: `SS atau gagal.`
 - Mode-mode permainan yang cocok: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- Variasi: [Sudden Death](/wiki/Game_modifier/Sudden_Death)
+- Variasi: [Sudden Death](/wiki/Gameplay/Game_modifier/Sudden_Death)
 
 ## Deskripsi
 
-Mod **Perfect** adalah sebuah [game modifier](/wiki/Game_modifier) yang bertujuan untuk membantu pemain yang mengejar skor SS dengan secara otomatis menggagalkan dan mengulangi [beatmap](/wiki/Beatmap) ketika pemain meleset mengenai sebuah not atau mendapatkan skor yang bukan 300 di [hit object](/wiki/Hit_object).
+Mod **Perfect** adalah sebuah [game modifier](/wiki/Gameplay/Game_modifier) yang bertujuan untuk membantu pemain yang mengejar skor SS dengan secara otomatis menggagalkan dan mengulangi [beatmap](/wiki/Beatmap) ketika pemain meleset mengenai sebuah not atau mendapatkan skor yang bukan 300 di [hit object](/wiki/Gameplay/Hit_object).
 
 Hal-hal berikut akan **menyebabkan** mod Perfect untuk mengulangi betamap:
 
@@ -47,7 +47,7 @@ Mod ini mempunyai fungsi yang sama untuk semua [mode permainan](/wiki/Game_mode)
 ## Trivia
 
 - Jika ada bagian awal yang bisa di-skip, mod Perfect tidak akan melewatinya secara otomatis karena mod ini menggunakan fungsi restart daripada quick-restart.
-- Mod Perfect adalah variasi dari mod [Sudden Death](/wiki/Game_modifier/Sudden_Death).
+- Mod Perfect adalah variasi dari mod [Sudden Death](/wiki/Gameplay/Game_modifier/Sudden_Death).
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"

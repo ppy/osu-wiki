@@ -4,7 +4,7 @@ no_native_review: true
 
 # 测定时间轴 (Timing)
 
-**测定时间轴 (Timing)** 又称为计时、测轴、测时，是通过测定歌曲每段[计时部分](/wiki/Beatmapping/Timing_section)的位置、[每分钟节拍数 (BPM)](/wiki/Beatmapping/Beats_per_minute)、[拍子记号](/wiki/Music_theory/Time_signature)，来确定歌曲音乐结构的过程。
+**测定时间轴 (Timing)** 又称为计时、测轴、测时，是通过测定歌曲每段[计时部分](/wiki/Beatmapping/Timing_section)的位置、[每分钟节拍数 (BPM)](/wiki/Music_theory/Tempo)、[拍子记号](/wiki/Music_theory/Time_signature)，来确定歌曲音乐结构的过程。
 
 谱面编辑器提供了[时间轴 (Timing) 设定](/wiki/Client/Beatmap_editor/Timing)，用于放置[打击物件](/wiki/Gameplay/Hit_object)的时间轴也显示为一个[类似标尺的布局](/wiki/Client/Beatmap_editor/Timelines#timing)。当谱师放置物件时，它们会[对齐](/wiki/Beatmapping/Snapping)到时间轴的标线，即[小节](/wiki/Music_theory/Measure)细分线上。这保证物件能轻松地对齐歌曲里存在的音符。
 

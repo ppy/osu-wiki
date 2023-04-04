@@ -8,7 +8,7 @@ Artikel ini akan menjelaskan segalanya yang perlu kamu ketahui seputar tampilan 
 
 ![](img/main-menu.jpg "Menu utama")
 
-- \[1\] [osu! cookie](/wiki/Client/Interface/Cookie). Apabila diklik, menu utama akan terbuka. *Cookie* ini akan berdenyut sesuai dengan [BPM](/wiki/Beatmapping/Beats_per_minute) lagu yang sedang diputar, yang disertai dengan tampilan spektrum audio di lingkar luar *cookie*. Apabila kamu tidak sedang memutar lagu, *cookie* akan berdenyut dengan kecepatan 60 BPM.
+- \[1\] [osu! cookie](/wiki/Client/Interface/Cookie). Apabila diklik, menu utama akan terbuka. *Cookie* ini akan berdenyut sesuai dengan [BPM](/wiki/Music_theory/Tempo) lagu yang sedang diputar, yang disertai dengan tampilan spektrum audio di lingkar luar *cookie*. Apabila kamu tidak sedang memutar lagu, *cookie* akan berdenyut dengan kecepatan 60 BPM.
 - \[2\] Klik `Play` (atau tekan `P`) untuk memainkan osu! baik secara solo ataupun bersama pengguna lain (*multiplayer*).
 - \[3\] Klik `Edit` (atau tekan `E`) untuk menyunting [beatmap](/wiki/Beatmap).
 - \[4\] Klik `Options` (atau tekan `O`) untuk membuka [menu pengaturan](/wiki/Client/Options).
@@ -87,15 +87,15 @@ Area ini menampilkan **informasi seputar tingkat kesulitan beatmap yang sedang d
 
 Pada umumnya, judul lagu akan ditampilkan dengan huruf Latin (gambar bawah). Meskipun demikian, apabila kamu mengaktifkan pilihan `Utamakan aksara non-Latin untuk metadata` pada menu [Options](/wiki/Client/Options), judul lagu akan ditampilkan dengan huruf aslinya mengikuti format penulisan Unicode (gambar atas). Nama tingkat kesulitan beatmap akan tertera dalam kurung siku (`[]`). Nama pembuat beatmap akan dapat terlihat di bawah judul, yang disertai dengan berbagai informasi berikut setelahnya:
 
-- **Durasi**: Durasi total beatmap dari awal hingga akhir (termasuk *break*). Tidak untuk disamakan dengan [*drain time*](/wiki/Gameplay/Drain_time).
+- **Durasi**: Durasi total beatmap dari awal hingga akhir (termasuk *break*). Tidak untuk disamakan dengan [*drain time*](/wiki/Beatmap/Drain_time).
 - **BPM**: *Beats Per Minute*, atau yang umum disebut sebagai *tempo*. Apabila terdapat dua nilai BPM yang disertai dengan angka dalam kurung, hal ini berarti lagu tersebut memiliki pergantian tempo. Kedua angka tersebut masing-masing menandakan nilai BPM terlambat dan tercepat, dengan angka dalam kurung menandakan nilai BPM yang paling umum dijumpai.
-- **Objek**: Jumlah [objek permainan](/wiki/Hit_object) yang terdapat pada beatmap.
-- **Circle**: Jumlah [hit circle](/wiki/Hit_object/Hit_circle) (osu! dan osu!taiko), [fruit](/wiki/Hit_object/Fruit) (osu!catch), atau not (osu!mania) yang terdapat pada beatmap.
-- **Slider**: Jumlah [slider](/wiki/Hit_object/Slider) (osu!), drumroll (osu!taiko), [juice stream](/wiki/Hit_object/Juice_stream) (osu!catch), atau hold note (osu!mania) yang terdapat pada beatmap.
-- **Spinner**: Jumlah [spinner](/wiki/Hit_object/Spinner) (osu!), denden (osu!taiko), atau [banana shower](/wiki/Hit_object/Banana) (osu!catch) yang terdapat pada beatmap.
-- **OD**: Nilai pengaturan [overall difficulty](/wiki/Beatmapping/Overall_difficulty) beatmap.
-- **HP**: Nilai pengaturan [HP drain rate](/wiki/Beatmapping/HP_drain_rate) beatmap. Lihat artikel [Health](/wiki/Gameplay/Health) untuk penjelasan lebih lanjut.
-- **Star Rating**: Nilai [star rating](/wiki/Beatmapping/Star_rating) beatmap. The amount of stars is also easily visible on the beatmap carousel.
+- **Objek**: Jumlah [objek permainan](/wiki/Gameplay/Hit_object) yang terdapat pada beatmap.
+- **Circle**: Jumlah [hit circle](/wiki/Gameplay/Hit_object/Hit_circle) (osu! dan osu!taiko), [fruit](/wiki/Gameplay/Hit_object/Fruit) (osu!catch), atau not (osu!mania) yang terdapat pada beatmap.
+- **Slider**: Jumlah [slider](/wiki/Gameplay/Hit_object/Slider) (osu!), drumroll (osu!taiko), [juice stream](/wiki/Gameplay/Hit_object/Juice_stream) (osu!catch), atau hold note (osu!mania) yang terdapat pada beatmap.
+- **Spinner**: Jumlah [spinner](/wiki/Gameplay/Hit_object/Spinner) (osu!), denden (osu!taiko), atau [banana shower](/wiki/Gameplay/Hit_object/Banana) (osu!catch) yang terdapat pada beatmap.
+- **OD**: Nilai pengaturan [overall difficulty](/wiki/Beatmap/Overall_difficulty) beatmap.
+- **HP**: Nilai pengaturan [HP drain rate](/wiki/Beatmap/HP_drain_rate) beatmap. Lihat artikel [Health](/wiki/Gameplay/Health) untuk penjelasan lebih lanjut.
+- **Star Rating**: Nilai [star rating](/wiki/Beatmap/Star_rating) beatmap. The amount of stars is also easily visible on the beatmap carousel.
 
 ### Pengelompokan dan pengurutan
 
@@ -160,15 +160,15 @@ Berikut merupakan berbagai filter pencarian yang didukung:
 | `creator` | Nama pembuat beatmap |
 | `title` | Judul lagu |
 | `difficulty` | Nama tingkat kesulitan beatmap |
-| `ar` | [Approach Rate](/wiki/Beatmapping/Approach_rate) |
-| `cs` | [Circle Size](/wiki/Beatmapping/Circle_size) |
-| `od` | [Overall Difficulty](/wiki/Beatmapping/Overall_difficulty) |
-| `hp` | [HP drain rate](/wiki/Beatmapping/HP_drain_rate) |
+| `ar` | [Approach Rate](/wiki/Beatmap/Approach_rate) |
+| `cs` | [Circle Size](/wiki/Beatmap/Circle_size) |
+| `od` | [Overall Difficulty](/wiki/Beatmap/Overall_difficulty) |
+| `hp` | [HP drain rate](/wiki/Beatmap/HP_drain_rate) |
 | `key`, `keys` | Jumlah key (khusus osu!mania and beatmap convert) |
-| `star`, `stars` | [Star rating](/wiki/Beatmapping/Star_rating) |
+| `star`, `stars` | [Star rating](/wiki/Beatmap/Star_rating) |
 | `bpm` | Beats per minute |
 | `length` | Durasi dalam detik |
-| `drain` | [Drain time](/wiki/Gameplay/Drain_time) dalam detik |
+| `drain` | [Drain time](/wiki/Beatmap/Drain_time) dalam detik |
 | `mode` | Mode permainan. Kamu dapat mencari berdasarkan mode `osu`, `taiko`, `catch`, atau `mania`, atau `o`/`t`/`c`/`m`. |
 | `status` | Status beatmap. Kamu dapat mencari berdasarkan status `ranked`, `approved`, `pending`, `notsubmitted`, `unknown`, atau `loved`, atau `r`/`a`/`p`/`n`/`u`/`l`. |
 | `played` | Waktu permainan terakhir dalam hari |
@@ -194,7 +194,7 @@ Kamu juga dapat memasukkan nomor ID beatmap atau tingkat kesulitan untuk mempero
 
  Terdapat berbagai hal yang dapat muncul pada ruang ini:
 
-- Boks bertuliskan `Not Submitted` akan muncul apabila beatmap yang bersangkutan belum diunggah ke situs osu! melalui [Beatmap Submission System](/wiki/Submission) atau telah dihapus oleh pembuatnya.
+- Boks bertuliskan `Not Submitted` akan muncul apabila beatmap yang bersangkutan belum diunggah ke situs osu! melalui [Beatmap Submission System](/wiki/Beatmapping/Beatmap_submission) atau telah dihapus oleh pembuatnya.
 - Boks bertuliskan `Update to latest version` akan muncul apabila terdapat versi beatmap baru yang tersedia. Klik tombol ini untuk memperbarui beatmap.
   - *Catatan: Setelah kamu memperbarui beatmap, seluruh skor lokal yang ada akan dihapus. Pastikan kamu telah mengekspor seluruh tayangan ulang lokal yang hendak kamu simpan sebelum memperbarui beatmap.*
 - Boks bertuliskan `Latest pending version` akan muncul apabila beatmap telah diunggah ke situs osu! namun belum berstatus Ranked.
@@ -247,9 +247,9 @@ Klik tombol `Mode` untuk membuka daftar mode permainan yang tersedia. Kamu juga 
 
 ![](img/game-modifiers.jpg "Layar pemilihan mod")
 
-Klik tombol `Mods` atau tekan `F1` untuk membuka **[layar pemilihan mod](/wiki/Game_modifier)**.
+Klik tombol `Mods` atau tekan `F1` untuk membuka **[layar pemilihan mod](/wiki/Gameplay/Game_modifier)**.
 
-Pada layar ini, kamu dapat mengaktifkan berbagai pilihan modifikasi (atau yang umum disebut sebagai "mod") ke dalam permainan. Sebagian mod akan mempermudah permainan dan mengurangi skor yang dapat kamu raih, namun sebagian mod lainnya akan meningkatkan kesulitan dan perolehan skor. Di samping itu, terdapat juga beberapa mod khusus seperti [Relax](/wiki/Game_modifier/Relax) and [Auto Pilot](/wiki/Game_modifier/Autopilot) yang mengubah permainan dengan cara yang berbeda.
+Pada layar ini, kamu dapat mengaktifkan berbagai pilihan modifikasi (atau yang umum disebut sebagai "mod") ke dalam permainan. Sebagian mod akan mempermudah permainan dan mengurangi skor yang dapat kamu raih, namun sebagian mod lainnya akan meningkatkan kesulitan dan perolehan skor. Di samping itu, terdapat juga beberapa mod khusus seperti [Relax](/wiki/Gameplay/Game_modifier/Relax) and [Auto Pilot](/wiki/Gameplay/Game_modifier/Autopilot) yang mengubah permainan dengan cara yang berbeda.
 
 Layangkan kursormu di atas ikon mod untuk menampilkan penjelasan singkat seputar mod yang bersangkutan. Klik ikon tersebut untuk mengaktifkan atau menonaktifkan mod. Sebagian mod, seperti Double Time, memiliki beberapa variasi — klik ikon mod ini sekali lagi untuk mengaktifkan variasi yang tersedia. Nilai pengali skor yang muncul merupakan gabungan dari seluruh mod yang aktif. Klik `Atur ulang seluruh mod` atau tekan `1` untuk menonaktifkan seluruh mod yang terpilih. Klik `Tutup` atau tekan `2` atau `Esc` untuk kembali ke layar pemilihan lagu.
 
@@ -309,7 +309,7 @@ Berikut merupakan kategori yang terdapat pada kedua kolom *ranking* di atas:
 
 | Kategori | Beatmap Ranking | Overall Ranking |
 | :-: | :-- | :-- |
-| `Keseluruhan` | Posisimu pada papan peringkat beatmap. Harap diperhatikan bahwa skor dengan [mod](/wiki/Game_modifier) juga akan muncul pada papan peringkat yang sama. | [Peringkat globalmu](/wiki/Ranking#peringkat-performance-point) dari seluruh pemain di dunia. |
+| `Keseluruhan` | Posisimu pada papan peringkat beatmap. Harap diperhatikan bahwa skor dengan [mod](/wiki/Gameplay/Game_modifier) juga akan muncul pada papan peringkat yang sama. | [Peringkat globalmu](/wiki/Ranking#peringkat-performance-point) dari seluruh pemain di dunia. |
 | [`Akurasi`](/wiki/Gameplay/Accuracy) | Seberapa akurat kamu memainkan beatmap. Nilai ini hanya akan muncul apabila kamu mencetak rekor permainan baru pada beatmap. | Ratar-rata nilai akurasi yang dihitung dari seluruh skor terbaikmu. |
 | `Max Combo` | Jumlah kombo maksimal yang berhasil kamu raih pada beatmap. | Jumlah kombo maksimal yang pernah kamu raih sepanjang kamu bermain. |
 | [`Skor Ranked`](/wiki/Gameplay/Score/Ranked_score) | [Skor terbaik](/wiki/Gameplay/Score/Ranked_score) yang kamu miliki pada beatmap. | Total skor terbaik dari seluruh beatmap Ranked yang pernah kamu mainkan, dengan masing-masing map dihitung satu kali. |
