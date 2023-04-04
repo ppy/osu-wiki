@@ -132,7 +132,6 @@ NAT 리더가 관리하는 사항은 다음과 같습니다:
 | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | 스페인어, 독일어 | 평가 |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | 네덜란드어 | 평가 |
 
-
 ### osu!mania
 
 | 이름 | 구사 언어 | 배정 그룹 |
