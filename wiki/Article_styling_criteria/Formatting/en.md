@@ -5,7 +5,7 @@
 
 ## Locales
 
-Listed below are the properly-supported locales for the wiki:
+Listed below are the properly supported locales for the wiki:
 
 | File Name | Locale Name | Native Script |
 | :-- | :-- | :-- |
@@ -13,18 +13,22 @@ Listed below are the properly-supported locales for the wiki:
 | `ar.md` | Arabic | اَلْعَرَبِيَّةُ |
 | `be.md` | Belarusian | Беларуская мова |
 | `bg.md` | Bulgarian | Български |
+| `ca.md` | Catalan | Català |
 | `cs.md` | Czech | Česky |
 | `da.md` | Danish | Dansk |
 | `de.md` | German | Deutsch |
 | `el.md` | Greek | Ελληνικά |
 | `es.md` | Spanish | Español |
 | `fi.md` | Finnish | Suomi |
+| `fil.md` | Filipino | Wikang Filipino |
 | `fr.md` | French | Français |
+| `he.md` | Hebrew | עִבְרִית |
 | `hu.md` | Hungarian | Magyar |
 | `id.md` | Indonesian | Bahasa Indonesia |
 | `it.md` | Italian | Italiano |
 | `ja.md` | Japanese | 日本語 |
 | `ko.md` | Korean | 한국어 |
+| `lt.md` | Lithuanian | Lietuvių kalba |
 | `nl.md` | Dutch | Nederlands |
 | `no.md` | Norwegian | Norsk |
 | `pl.md` | Polish | Polski |
@@ -33,6 +37,8 @@ Listed below are the properly-supported locales for the wiki:
 | `ro.md` | Romanian | Română |
 | `ru.md` | Russian | Русский |
 | `sk.md` | Slovak | Slovenčina |
+| `sl.md` | Slovenian | Slovenščina |
+| `sr.md` | Serbian | Српски |
 | `sv.md` | Swedish | Svenska |
 | `th.md` | Thai | ไทย |
 | `tr.md` | Turkish | Türkçe |
