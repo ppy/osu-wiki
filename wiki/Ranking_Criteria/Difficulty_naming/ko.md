@@ -94,7 +94,7 @@
 
 ### SOUND VOLTEX
 
-*참고: SOUND VOLTEX 음악들은 종종 그 음악이 쓰이지 않은 다른 버전에서 사용해온 명명 방식을 적용하기도 합니다.*
+*참고: SOUND VOLTEX 음악은 종종 해당 음악이 들어가지 않은 다른 버전에서 사용한 작명 방식을 적용하기도 합니다.*
 
 - ![](/wiki/shared/diff/easy-o.png?20211215) BASIC / BSC
 - ![](/wiki/shared/diff/normal-o.png?20211215) NOVICE / NOV
@@ -190,10 +190,10 @@
 
 하단 난이도명들은 필요에 따라 추가적으로 일반적 난이도명에 속할 수 있습니다.
 
-- ![](/wiki/shared/diff/easy-o.png?20211215) Beginner: 일반 Easy-Normal-Hard-Insane-Expert 난이도 스프레드에서 Beginner는 Easy보다 쉬운 가장 낮은 난이도의 난이도 명으로 쓰입니다.
-- ![](/wiki/shared/diff/easy-t.png?20211215) Shokyuu: osu!taiko 모드의 일반 Kantan-Futsuu-Muzukashii-Oni-Inner Oni 난이도 스프레드에서 Shokyuu는 Kantan 보다 쉬운 가장 낮은 난이도의 난이도명으로 쓰입니다.
-- ![](/wiki/shared/diff/normal-o.png?20211215) Advanced: 일반 Easy-Normal-Hard-Insane-Expert 난이도 스프레드에서 Advanced는 Normal과 Hard 사이의 난이도 레벨을 가진것을 나타냅니다.
-- ![](/wiki/shared/diff/hard-o.png?20211215) Hyper: 일반 Easy-Normal-Hard-Insane-Expert 난이도 스프레드에서 Hyper는 Hard와 Insane 사이의 난이도 레벨을 가진것을 나타냅니다.
+- ![](/wiki/shared/diff/easy-o.png?20211215) 일반적인 Easy-Normal-Hard-Insane-Expert 난이도 분포에서 Beginner는 Easy보다 쉬운 가장 낮은 난이도의 이름으로 쓰입니다.
+- ![](/wiki/shared/diff/easy-t.png?20211215) osu!taiko 모드의 일반적인 Kantan-Futsuu-Muzukashii-Oni-Inner Oni 난이도 분포에서 Shokyuu는 Kantan 보다 쉬운 가장 낮은 난이도의 이름으로 쓰입니다.
+- ![](/wiki/shared/diff/normal-o.png?20211215) 일반적인 Easy-Normal-Hard-Insane-Expert 난이도 분포에서 Advanced는 Normal과 Hard 사이의 난이도 레벨을 나타냅니다.
+- ![](/wiki/shared/diff/hard-o.png?20211215) Hyper: 일반적인 Easy-Normal-Hard-Insane-Expert 난이도 분포에서 Hyper는 Hard와 Insane 사이의 난이도 레벨을 나타냅니다.
 - ![](/wiki/shared/diff/expert-o.png?20211215) Extra: Expert 대신에 쓸 수 있습니다.
 - ![](/wiki/shared/diff/expertplus-o.png?20211215) Extreme: Expert보다 어려운 난이도에 쓰입니다.
 - ![](/wiki/shared/diff/expertplus-t.png?20211215) Hell Oni: Inner Oni보다 어려운 난이도에 쓰입니다.
