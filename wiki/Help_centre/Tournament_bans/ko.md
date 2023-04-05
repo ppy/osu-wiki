@@ -1,4 +1,4 @@
-# Tournament bans
+# 토너먼트 밴
 
 *Main page: [Help centre](/wiki/Help_centre)*
 
