@@ -14,18 +14,22 @@
 | `ar.md` | Арабский | اَلْعَرَبِيَّةُ |
 | `be.md` | Белорусский | Беларуская мова |
 | `bg.md` | Болгарский | Български |
+| `ca.md` | Каталанский | Català |
 | `cs.md` | Чешский | Česky |
 | `da.md` | Датский | Dansk |
 | `de.md` | Немецкий | Deutsch |
 | `el.md` | Греческий | Ελληνικά |
 | `es.md` | Испанский | Español |
 | `fi.md` | Финский | Suomi |
+| `fil.md` | Филиппинский | Wikang Filipino |
 | `fr.md` | Французский | Français |
+| `he.md` | Иврит | עִבְרִית |
 | `hu.md` | Венгерский | Magyar |
 | `id.md` | Индонезийский | Bahasa Indonesia |
 | `it.md` | Итальянский | Italiano |
 | `ja.md` | Японский | 日本語 |
 | `ko.md` | Корейский | 한국어 |
+| `lt.md` | Литовский | Lietuvių kalba |
 | `nl.md` | Нидерландский | Nederlands |
 | `no.md` | Норвежский | Norsk |
 | `pl.md` | Польский | Polski |
@@ -34,6 +38,8 @@
 | `ro.md` | Румынский | Română |
 | `ru.md` | Русский | Русский |
 | `sk.md` | Словацкий | Slovenčina |
+| `sl.md` | Словенский | Slovenščina |
+| `sr.md` | Сербский | Српски |
 | `sv.md` | Шведский | Svenska |
 | `th.md` | Тайский | ไทย |
 | `tr.md` | Турецкий | Türkçe |
