@@ -56,6 +56,6 @@ If a beatmap veto is upheld, the mapper may request another mediation if they me
 
 To request a new mediation, the mapper must contact a member of the NAT corresponding to the game mode of the vetoed beatmap. Said request should include a link to the initial mediation conclusion post and the names of the 2 BNs who are willing to nominate the beatmap. The NAT will then contact the 2 BNs, and if there are no issues, the NAT will re-initiate the mediation with a new randomly selected jury.
 
-**If the beatmap veto is dismissed**, the 2 BNs mentioned above may nominate the beatmap. If said BNs are no longer willing to nominate, their position as Beatmap Nominators may be questioned as a result.
+**If the veto is dismissed**, the 2 BNs mentioned above may nominate the beatmap. If said BNs are no longer willing to nominate, their position as Beatmap Nominators may be questioned as a result.
 
-**If the beatmap veto is upheld**, the beatmap may not be re-nominated until appropriate changes are made that remedy the issues present, and the beatmap may not be eligible for another mediation, unless the criteria mentioned above is fulfilled again.
+**If the veto is upheld**, the beatmap may not be re-nominated until appropriate changes are made that remedy the issues present, and the beatmap may not be eligible for another mediation unless the above criteria are fulfilled again.
