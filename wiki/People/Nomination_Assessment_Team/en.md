@@ -53,9 +53,9 @@ Dividing the NAT workload into two main categories is necessary for the overall 
 
 Depending on their category, each NAT member has different activity requirements. Members responsible for evaluations are expected to consistently evaluate both applicants and current BNs, while also keeping up to date with the mapping/modding scene on their own through modding. Members assigned to the structural category are expected to uphold key parts of the ranking process on a case-by-case basis.
 
-Each month, the NAT members are required to submit a summary of their activity in the [BN/NAT website](https://bn.mappersguild.com/). This summary, alongside other metrics like nomination and evaluation activity, are used to evaluate whether a NAT member is still active and whether they should remain in the group. The [team leaders](#nat-leadership) will then discuss the activity of each member and decide whether they should remain in the NAT.
+Each month, the NAT members are required to submit a summary of their activity in the [BN/NAT website](https://bn.mappersguild.com/). This summary, alongside other metrics like nomination and evaluation activity, is used to determine whether a member is still active and whether they should remain in the group. The [team leaders](#nat-leadership) will then discuss the activity of each member and decide whether they should remain in the NAT.
 
-The team leaders will confront inactive NAT members, or members who fail to provide said summary in a timely manner. If an appropriate resolution to their inactivity is not feasible, they will be removed from the NAT. Members under the evaluation category working on other mapping-related projects may be moved to the structural category to better reflect their contribution.
+The team leaders will confront inactive NAT members, or members who fail to provide a summary in a timely manner. If an appropriate resolution to their inactivity is not feasible, they will be removed from the NAT. Members under the evaluation category working on other mapping-related projects may be moved to the structural category to better reflect their contribution.
 
 ## Promotion to the NAT
 
