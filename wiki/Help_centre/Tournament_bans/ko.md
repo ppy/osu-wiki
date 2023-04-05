@@ -8,46 +8,47 @@
 
 큰 상품이 걸려있는 토너먼트 특성상 토너먼트 밴은 매우 심각하게 다루며, 일반적인 계정 제한처럼 관대하게 받아들여지지 않습니다.
 
-## 토너먼트 밴을 받는 원인은 무엇인가요? {#why-temporary}
+## 일시적인 토너먼트 밴을 받는 원인은 무엇인가요? {#why-temporary}
 [공식적으로 지원받는 토너먼트](/wiki/Tournaments/Official_support)중에 발생하는 심각한 [커뮤니티 규칙](/wiki/Rules) 위반은 대회 플레이 중에 발생한 것이 아니여도 토너먼트 밴을 초래할 수 있습니다.
 
-As a real-world example, such behaviour would include drawing or writing hate symbols/slurs (swastika, etc.) using cursor smoke in streamed matches.
+실제 예를 들면 스트리밍 경기에서의 스모크를 이용한 증오/비방 표현(스와스티카 등)을 그리거나 쓰는 행위가 포함됩니다.
 
-All users returning to the game after a restriction under the standard appeal terms are also subject to a [minimum temporary tournament ban of 1 year](/wiki/Help_centre/Account_restrictions#reasons), which may be lengthened at the discretion of the [account support team](/wiki/People/The_Team/Account_support_team).
+일반 항소를 통해 제한이 해제되어 게임에 복귀하는 모든 사용자는 [계정 지원팀](/wiki/People/The_Team/Account_support_team).
+의 재량에 따라 연장이 가능한 [최소 1년의 기간제 토너먼트 밴](/wiki/Help_centre/Account_restrictions#reasons)이 적용됩니다.
 
-## What causes someone to receive a permanent tournament ban? {#why-permanent}
+## 영구 토너먼트 밴을 받는 원인은 무엇인가요? {#why-permanent}
 
-Any use of third-party cheating tools or other methods to gain an unfair advantage over other participants in an officially supported tournament will result in a permanent tournament ban. In some situations, especially excessive cases of abuse may also elicit such a punishment.
+공식적으로 지원받는 토너먼트에서 다른 참가자들보다 불공정한 이점을 얻기 위해 써드-파티 치트 프로그램 또는 기타 방법을 사용할려고 시도하는 경우 영구적인 토너먼트 밴이 적용됩니다. 일부 상황에서는 과도한 학대행위가 이런 처벌을 초래할 수 있습니다.
 
-This includes situations like:
+다음과 같은 상황이 포함됩니다:
 
-- As above, any use of third-party cheating tools or utilities to gain an advantage
-- Making use of multiple accounts to enter a tournament
-- Attempting to evade a silence or infringement by using another account
-- Account sharing within/during an officially supported tournament
-- Conspiring to obtain or otherwise using private information to gain or confer an advantage (such as accessing mappool information before other teams, etc.)
-- Abusing positions of trust to gain or confer an advantage (manipulating schedules, unfairly changing team compositions, or disqualifying participants without cause or reasoning)
-- Organising targeted abuse campaigns towards participants or organisers well outside the realm of criticism
+- 위와 같이 이득을 얻기 위해 치트 도구 또는 유틸리티(프로그램) 사용
+- 여러 계정을 이용한 토너먼트 참가
+- 다른 계정을 이용하여 침묵이나 위반 행위를 회피할려고 시도하는 경우
+- 공식적으로 지원되는 토너먼트에서의 계정 공유
+- 이득을 위해 비공개 정보에 접근하거나 이에 대해 음모를 꾸미는 행위 (다른 팀보다 먼저 맵풀 정보를 입수하는 경우 등)
+- 이득을 위해 신뢰관계를 남용하는 행위 (스케쥴 조작, 부당한 팀 변경, 이유없는 특정 플레이어의 참가자 자격 박탈 등)
+- 비판의 대상이 아닌 플레이어 혹은 주최자를 대상으로 하는 학대 관련 조직행위
 
-## Can I appeal a tournament ban? {#appeal}
+## 토너먼트 밴은 항소할 수 있나요? {#appeal}
 
-Whether temporary or permanent, **tournament bans cannot be appealed**.
+일시적이거나 영구적인 토너먼트 밴에 대해 **항소는 불가능합니다.**
 
-In rare situations, the [account support team](/wiki/People/The_Team/Account_support_team) may review individual cases at their discretion and remove or reapply appropriate punishments to ensure they remain consistent with similar instances in the past.
+매우 드문 경우이지만 [계정 지원팀](/wiki/People/The_Team/Account_support_team)은 개별 사례를 검토하고, 과거에 있던 유사한 사건과의 일관성을 유지하기 위해 제재를 없애거나 다시 적용할 수 있습니다.
 
-## What can I do while tournament-banned? {#while-banned}
+## 토너먼트 밴 기간동안 무엇을 할 수 있나요? {#while-banned}
 
-You may continue to play in community tournaments that do not request official support or require screening at the discretion of the individuals organising such events.
+공식적인 지원을 요청하지 않거나 해당 토너먼트 주최측의 재량에 따라 스크리닝이 필요한 토너먼트에서 계속 플레이할 수 있습니다.
 
-Information about your tournament ban status may be provided to tournament organisers upon request, whether they are benefitting from official support or not.
+토너먼트 밴에 관련된 정보는 공식 지원을 받는 여부와 무관하게 토너먼트 호스트에게 제공될 수 있습니다.
 
-## Common tournament ban reasons and durations {#reasons}
+## 일반적인 토너먼트 밴 이유와 기간 {#reasons}
 
-| Tournament ban reason | Duration | Notes |
+| 사유 | 기간 | 비고 |
 | :-- | :-- | :-- |
-| Player misconduct during an officially supported tournament | 1-2 years |  |
-| Returning under standard appeal terms | 1-2 years | May be longer at the account support team's discretion |
-| Multi-accounting or account sharing during an officially supported tournament | Permanent | Will also cause a restriction |
-| Using third-party utilities or other cheating tools during an officially supported tournament | Permanent | Will also cause a restriction |
-| Utilising private/confidential tournament information to gain or confer an unfair advantage | Permanent | May also cause a restriction |
-| Severe abuse towards or harassment of tournament organisers/staff/participants | Permanent | May also cause a restriction |
+| 공식적으로 지원되는 토너먼트에서의 부정행위 | 1-2 년 |  |
+| 표준 항소를 통해 게임에 복귀하는 사용자 | 1-2 년 | 계정 지원팀의 재량에 따라 더 연장될 수 있습니다 |
+| 공식적으로 지원되는 토너먼트에서의 계정 공유 | 영구 | 계정 제한이 적용될 수 있습니다 |
+| 공식적으로 지원되는 토너먼트에서의 부정한 써드 파티 프로그램 또는 치트 사용 | 영구 | 계정 제한이 적용될 수 있습니다 |
+| 비공개 정보를 이용하여 부당한 이득을 얻는 행위 | 영구 | 계정 제한이 적용될 수 있습니다 |
+| 토너먼트 주최측/스태프/참가자를 향한 심각한 학대 또는 괴롭힘 행위 | 영구 | 계정 제한이 적용될 수 있습니다 |
