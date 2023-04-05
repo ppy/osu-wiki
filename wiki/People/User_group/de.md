@@ -22,7 +22,7 @@ Ein Klick auf die Abzeichen führt zu den jeweiligen Gruppenlisten, während die
 | 22 | [![SPT](/wiki/shared/group/SPT.png)](https://osu.ppy.sh/groups/22) | [Support-Team](/wiki/People/Support_Team) | Hilfe und Unterstützung |
 | 28 | [![BN](/wiki/shared/group/BN.png)](https://osu.ppy.sh/groups/28) | [Beatmap Nominators](/wiki/People/Beatmap_Nominators) | Sorgen dafür, dass Beatmaps den Status "qualifiziert" erlangen |
 | 29 | ![BOT](/wiki/shared/group/BOT.png) | [Chat-Bots](/wiki/Bot_account) | Spezielle Accounts, die von automatisierten Diensten anstatt von echten Personen verwendet werden |
-| 31 | [![LVD](/wiki/shared/group/LVD.png)](https://osu.ppy.sh/groups/31) | [Project Loved](/wiki/People/Project_Loved_Team) | Erkennen der Beatmaps, die die Community am meisten liebt |
+| 31 | [![LVD](/wiki/shared/group/LVD.png)](https://osu.ppy.sh/groups/31) | [Project Loved](/wiki/People/Project_Loved_Team) | Anerkennen der Beatmaps, die die Community am meisten liebt |
 | 32 | [![BN](/wiki/shared/group/BN-prob.png)](https://osu.ppy.sh/groups/32) | [Beatmap Nominators (auf Probe)](/wiki/People/Beatmap_Nominators#probationary-beatmap-nominators) | BNs in der Probezeit, die auf eine positive Rückmeldung warten, dass sie als vollwertiges Mitglied im Team aufgenommen werden |
 | 33 | ![PPY](/wiki/shared/group/PPY.png) | ppy | Reserviert für [peppy](/wiki/People/peppy), dem Ersteller von osu! |
 | 35 | [![FA](/wiki/shared/group/FA.png)](https://osu.ppy.sh/groups/35) | [Featured Artist](/wiki/People/Featured_Artists) | Musikschaffende, die sich mit osu! zusammengetan haben |
