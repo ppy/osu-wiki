@@ -2,15 +2,14 @@
 
 *Main page: [Help centre](/wiki/Help_centre)*
 
-A tournament ban prevents a player from being involved in officially supported tournaments in any capacity. This includes playing and staffing or any other kind of assistance.
+토너먼트 밴은 플레이어가 어떤 자격으로든 공식적으로 지원되는 토너먼트에 참여하는 것을 금지시킵니다. 여기에는 플레이어 및 스태프와 기타 모든 대회 관련 지원이 포함됩니다.
 
-Tournament bans are very rarely handed out on their own, but generally speaking almost all players who return under a standard appeal for an [account restriction](/wiki/Help_centre/Account_restrictions) are subject to one of at least a year in length.
+토너먼트 밴은 직접 받는 경우가 매우 드물지만, 일반적으로 [계정 제한](/wiki/Help_centre/Account_restrictions)에 대한 항소로 제한이 풀린 대부분의 플레이어는 최소 1년의 토너먼트 밴이 적용됩니다.
 
-Due to the high-stakes nature of tournament play, tournament bans are treated very seriously and are not subject to the kind of leniency an account restriction might ordinarily receive.
+큰 상품이 걸려있는 토너먼트 특성상 토너먼트 밴은 매우 심각하게 다루며, 일반적인 계정 제한처럼 관대하게 받아들여지지 않습니다.
 
-## What causes someone to receive a temporary tournament ban? {#why-temporary}
-
-Any severe violation of the [community rules](/wiki/Rules) that takes place during an [officially supported tournament](/wiki/Tournaments/Official_support) is likely to cause a tournament ban, even if it would have typically only resulted in an infringement outside of the competitive play setting.
+## 토너먼트 밴을 받는 원인은 무엇인가요? {#why-temporary}
+[공식적으로 지원받는 토너먼트](/wiki/Tournaments/Official_support)중에 발생하는 심각한 [커뮤니티 규칙](/wiki/Rules) 위반은 대회 플레이 중에 발생한 것이 아니여도 토너먼트 밴을 초래할 수 있습니다.
 
 As a real-world example, such behaviour would include drawing or writing hate symbols/slurs (swastika, etc.) using cursor smoke in streamed matches.
 
