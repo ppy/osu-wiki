@@ -108,37 +108,37 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad
 
 | Team A | Team B | Match time |  |
 | --: | :-- | :-- | :-: |
+| Brazil ::{ flag=BR }:: | ::{ flag=ID }:: Indonesia | [Apr 8 (Sat) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230408T030000&p1=1440&p2=45&p3=108) | [^losers-bracket] |
+| Malaysia ::{ flag=MY }:: | ::{ flag=AR }:: Argentina | [Apr 8 (Sat) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230408T030000&p1=1440&p2=122&p3=51) | [^losers-bracket] |
 | New Zealand ::{ flag=NZ }:: | ::{ flag=NO }:: Norway | [Apr 8 (Sat) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230408T090000&p1=1440&p2=264&p3=187) | [^losers-bracket] |
-| Philippines ::{ flag=PH }:: | ::{ flag=PL }:: Poland | [Apr 8 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230408T100000&p1=1440&p2=145&p3=262) | [^losers-bracket] |
-| China ::{ flag=CN }:: | ::{ flag=ES }:: Spain | [Apr 8 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230408T110000&p1=1440&p2=33&p3=141) | [^losers-bracket] |
 | Finland ::{ flag=FI }:: | ::{ flag=CZ }:: Czechia | [Apr 8 (Sat) 12:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230408T123000&p1=1440&p2=101&p3=204) | [^losers-bracket] |
-| Malaysia ::{ flag=MY }:: | ::{ flag=AR }:: Argentina | [Apr 8 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230408T140000&p1=1440&p2=122&p3=51) | [^losers-bracket] |
-| Brazil ::{ flag=BR }:: | ::{ flag=ID }:: Indonesia | [Apr 8 (Sat) 15:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230408T153000&p1=1440&p2=45&p3=108) | [^losers-bracket] |
-| Canada ::{ flag=CA }:: | ::{ flag=RU }:: Russian Federation | [Apr 8 (Sat) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230408T170000&p1=1440&p2=188&p3=166) | [^losers-bracket] |
-| Chile ::{ flag=CL }:: | ::{ flag=MX }:: Mexico | [Apr 8 (Sat) 18:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230408T183000&p1=1440&p2=232&p3=155) | [^losers-bracket] |
-| United States ::{ flag=US }:: | ::{ flag=GB }:: United Kingdom | [Apr 8 (Sat) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230408T200000&p1=1440&p2=263&p3=136) | [^winners-bracket] |
+| China ::{ flag=CN }:: | ::{ flag=ES }:: Spain | [Apr 8 (Sat) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230408T140000&p1=1440&p2=33&p3=141) | [^losers-bracket] |
+| Canada ::{ flag=CA }:: | ::{ flag=RU }:: Russian Federation | [Apr 8 (Sat) 15:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230408T153000&p1=1440&p2=188&p3=166) | [^losers-bracket] |
+| United States ::{ flag=US }:: | ::{ flag=GB }:: United Kingdom | [Apr 8 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230408T180000&p1=1440&p2=263&p3=136) | [^winners-bracket] |
+| Chile ::{ flag=CL }:: | ::{ flag=MX }:: Mexico | [Apr 8 (Sat) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230408T190000&p1=1440&p2=232&p3=155) | [^losers-bracket] |
+| Brazil ::{ flag=BR }:: | ::{ flag=CZ }:: Czechia | [Apr 8 (Sat) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230408T190000&p1=1440&p2=45&p3=204) | [^potential-match] |
 
 ### Sunday, 9 April 2023
 
 | Team A | Team B | Match time |  |
 | --: | :-- | :-- | :-: |
+| Chile ::{ flag=CL }:: | ::{ flag=NZ }:: New Zealand | [Apr 9 (Sun) 00:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230409T000000&p1=1440&p2=232&p3=264) | [^potential-match] |
 | Canada ::{ flag=CA }:: | ::{ flag=AR }:: Argentina | [Apr 9 (Sun) 01:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230409T010000&p1=1440&p2=188&p3=51) | [^potential-match] |
-| Chile ::{ flag=CL }:: | ::{ flag=NZ }:: New Zealand | [Apr 9 (Sun) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230409T020000&p1=1440&p2=232&p3=264) | [^potential-match] |
 | Mexico ::{ flag=MX }:: | ::{ flag=NZ }:: New Zealand | [Apr 9 (Sun) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230409T020000&p1=1440&p2=155&p3=264) | [^potential-match] |
-| Canada ::{ flag=CA }:: | ::{ flag=MY }:: Malaysia | [Apr 9 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230409T030000&p1=1440&p2=188&p3=122) | [^potential-match] |
-| China ::{ flag=CN }:: | ::{ flag=PH }:: Philippines | [Apr 9 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230409T100000&p1=1440&p2=33&p3=145) | [^potential-match] |
+| Philippines ::{ flag=PH }:: | ::{ flag=PL }:: Poland | [Apr 9 (Sun) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230409T090000&p1=1440&p2=145&p3=262) | [^losers-bracket] |
 | China ::{ flag=CN }:: | ::{ flag=PL }:: Poland | [Apr 9 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230409T100000&p1=1440&p2=33&p3=262) | [^potential-match] |
 | Spain ::{ flag=ES }:: | ::{ flag=PH }:: Philippines | [Apr 9 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230409T100000&p1=1440&p2=141&p3=145) | [^potential-match] |
 | Spain ::{ flag=ES }:: | ::{ flag=PL }:: Poland | [Apr 9 (Sun) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230409T100000&p1=1440&p2=141&p3=262) | [^potential-match] |
-| Indonesia ::{ flag=ID }:: | ::{ flag=FI }:: Finland | [Apr 9 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230409T110000&p1=1440&p2=108&p3=101) | [^potential-match] |
 | Indonesia ::{ flag=ID }:: | ::{ flag=CZ }:: Czechia | [Apr 9 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230409T110000&p1=1440&p2=108&p3=204) | [^potential-match] |
-| Japan ::{ flag=JP }:: | ::{ flag=DE }:: Germany | [Apr 9 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230409T120000&p1=1440&p2=248&p3=37) | [^winners-bracket] |
+| Japan ::{ flag=JP }:: | ::{ flag=DE }:: Germany | [Apr 9 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230409T130000&p1=1440&p2=248&p3=37) | [^winners-bracket] |
 | Italy ::{ flag=IT }:: | ::{ flag=KR }:: South Korea | [Apr 9 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230409T130000&p1=1440&p2=215&p3=235) | [^winners-bracket] |
+| China ::{ flag=CN }:: | ::{ flag=PH }:: Philippines | [Apr 9 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230409T140000&p1=1440&p2=33&p3=145) | [^potential-match] |
+| Indonesia ::{ flag=ID }:: | ::{ flag=FI }:: Finland | [Apr 9 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230409T140000&p1=1440&p2=108&p3=101) | [^potential-match] |
 | Taiwan ::{ flag=TW }:: | ::{ flag=FR }:: France | [Apr 9 (Sun) 14:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230409T140000&p1=1440&p2=241&p3=195) | [^winners-bracket] |
 | Russian Federation ::{ flag=RU }:: | ::{ flag=MY }:: Malaysia | [Apr 9 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230409T150000&p1=1440&p2=166&p3=122) | [^potential-match] |
 | Russian Federation ::{ flag=RU }:: | ::{ flag=AR }:: Argentina | [Apr 9 (Sun) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230409T150000&p1=1440&p2=166&p3=51) | [^potential-match] |
 | Brazil ::{ flag=BR }:: | ::{ flag=FI }:: Finland | [Apr 9 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230409T160000&p1=1440&p2=45&p3=101) | [^potential-match] |
-| Brazil ::{ flag=BR }:: | ::{ flag=CZ }:: Czechia | [Apr 9 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230409T160000&p1=1440&p2=45&p3=204) | [^potential-match] |
+| Canada ::{ flag=CA }:: | ::{ flag=MY }:: Malaysia | [Apr 9 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230409T160000&p1=1440&p2=188&p3=122) | [^potential-match] |
 | Chile ::{ flag=CL }:: | ::{ flag=NO }:: Norway | [Apr 9 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230409T170000&p1=1440&p2=232&p3=187) | [^potential-match] |
 | Mexico ::{ flag=MX }:: | ::{ flag=NO }:: Norway | [Apr 9 (Sun) 17:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230409T170000&p1=1440&p2=155&p3=187) | [^potential-match] |
 
@@ -146,27 +146,27 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad
 
 ### Quarterfinals
 
-**[Download the mappack here (83 MB)](https://drive.google.com/uc?id=13RGv-KkXBSL-QAmmO_gmmfCRRxntFHsI)**
+**[Download the mappack here (82 MB)](https://drive.google.com/uc?id=13RGv-KkXBSL-QAmmO_gmmfCRRxntFHsI)**
 
 - No Mod
   1. [Zekk - Sugary Daydream (TKS) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/578489#taiko/1224835)
   2. [Billain & Vegas - Shinde (Arrival) \[Oni\]](https://osu.ppy.sh/beatmapsets/1362405#taiko/2818836)
   3. [Se-U-Ra - Tsui no Maihime (sendol) \[10^13.5\]](https://osu.ppy.sh/beatmapsets/1967789#taiko/4081022)
   4. [Camellia - Blackmagik Blazing (\_yu68) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1087782#taiko/2274690)
-  5. [METAROOM - WORM RAVE (woosungko) \[JUMBLE\] *(temporary link)*](https://leoflt.com/s/UMoh)
+  5. [METAROOM - WORM RAVE (woosungko) \[JUMBLE\]](https://osu.ppy.sh/beatmapsets/1968269#taiko/4082434)
 - Hidden
   1. [Toromaru - Uncharted Sky (Faputa) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1967930#taiko/4081437)
   2. [NIWASHI - T\_ritama Breaker (Irone OSU) \[Eradicate (Edit)\]](https://osu.ppy.sh/beatmapsets/1634455#taiko/4081202)
 - Hard Rock
-  1. [Umeboshi Chazuke - Midnight Trickster (HiroK) \[seal\] *(temporary link)*](https://leoflt.com/s/ezwm)
+  1. [Umeboshi Chazuke - Midnight Trickster (HiroK) \[:seal:\]](https://osu.ppy.sh/beatmapsets/1968104#taiko/4082108)
   2. [Imy - Countdown (Raphalge) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1967985#taiko/4081872)
 - Double Time
   1. [Grant - Weapon (feat. Baum) (rubies87) \[Lethality\]](https://osu.ppy.sh/beatmapsets/1967931#taiko/4081439)
   2. [SECONDWALL - Natsu no Owari (Hivie) \[Rainy Summer\]](https://osu.ppy.sh/beatmapsets/1404425#taiko/2896554)
 - FreeMod
-  1. [LeaF - Calamity Fortune (DakeDekaane) \[Inner Oni (TWC Edit)\] *(temporary link)*](https://leoflt.com/s/Roo8)
-  2. [Zekk - Falling Down feat. Renko x TRIANGLE (SKSalt) \[OOni\]](https://osu.ppy.sh/beatmapsets/1373993#taiko/2840422)
-  3. [Plum - Mad Piano Party II (tasuke912) \[FM3\] *(temporary link)*](https://leoflt.com/s/HepD)
+  1. [LeaF - Calamity Fortune (DakeDekaane) \[Inner Oni (TWC Edit)\]](https://osu.ppy.sh/beatmapsets/1968850#taiko/4083711)
+  2. [Zekk - Falling Down feat. Renko x TRIANGLE (Backfire) \[OOni\]](https://osu.ppy.sh/beatmapsets/1969845#taiko/4086680)
+  3. [Plum - Mad Piano Party II (tasuke912) \[FM3\]](https://osu.ppy.sh/beatmapsets/1968116#taiko/4082132)
 - Tiebreaker
   1. **[Kurokotei feat. Sennzai - escape (the looking-glass, and what alice found there) (Megafan) \[Bandersnatch\]](https://osu.ppy.sh/beatmapsets/1908229#taiko/3935137)**
 
