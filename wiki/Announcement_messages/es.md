@@ -5,46 +5,46 @@ tags:
   - announce user group
 ---
 
-# Announcement messages
+# Mensajes de anuncio
 
-![Announcement notification](img/notification.jpg "An announcement message notification")
+![Notificación de anuncio](img/notification.jpg "Una notificación de un mensaje de anuncio")
 
-An **announcement message** is a special type of message that's intended for sending longer and formatted messages to multiple users at once. The key differences between announcement messages and regular chat messages are:
+Un **mensaje de anuncio** es un tipo especial de mensaje destinado a enviar mensajes más largos y formateados a varios usuarios a la vez. Las diferencias clave entre los mensajes de anuncio y los mensajes de chat regulares son:
 
-- The 1024 character limit instead of 450
-- Markdown syntax support[^note-images] for text formatting
-- Delivery to multiple users at once
-- Ability to bypass the `block private messages from people not on your friends list` setting
-- Only users that can send announcement messages are able to reply to them
+- El límite de 1024 caracteres en lugar de 450
+- Soporte de sintaxis Markdown[^note-images] para formato de texto
+- Entrega a varios usuarios a la vez
+- Posibilidad de omitir la configuración de `bloquear los mensajes privados de personas que no están en la lista de amigos`
+- Solo los usuarios que pueden enviar mensajes de anuncio pueden responderlos
 
-## Eligibility
+## Elegibilidad
 
-In order to send and reply to announcement messages through the website, you must be a member of the [Global Moderation Team](/wiki/People/Global_Moderation_Team), the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team), or the announce [user group](/wiki/People/User_group). However, only members of the announce user group are allowed to send chat announcements through the [osu! API v2](https://docs.ppy.sh).
+Para enviar y responder mensajes de anuncios a través del sitio web, debes ser miembro del [Global Moderation Team](/wiki/People/Global_Moderation_Team), el [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team), o del [grupo de usuarios](/wiki/People/User_group) de anuncios. Sin embargo, solo los miembros del grupo de usuarios de anuncios pueden enviar anuncios de chat a través de la [osu! API v2](https://docs.ppy.sh).
 
-### Filing a request
+### Presentar una solicitud
 
-You can file a request to join the announce user group by sending an email to [accounts@ppy.sh](mailto:accounts@ppy.sh) with the subject `Announce Usergroup Request`. This must be sent from the email address attached to your osu! account.
+Puede presentar una solicitud para unirse al grupo de usuarios de anuncios enviando un correo electrónico a [accounts@ppy.sh](mailto:accounts@ppy.sh) con el asunto `Announce Usergroup Request`. Esto debe enviarse desde la dirección de correo electrónico adjunta a su cuenta de osu!.
 
-The body of the email should contain the following:
+El cuerpo del correo electrónico debe contener lo siguiente:
 
-- Your osu! username
-- An explanation outlining your reason for needing announcement messages, and how frequently you will be using them.
+- Tu nombre de usuario de osu!
+- Una explicación que describa la razón por la que necesita mensajes de anuncio, y con qué frecuencia los usará.
 
-The [account support team](/wiki/People/Account_support_team) will review the request and inform you of their decision.
+El [equipo de soporte de cuentas](/wiki/People/Account_support_team) revisará la solicitud y le informará su decisión.
 
-## Sending announcement messages
+## Envío de mensajes de anuncio
 
-In order to send a chat announcement, open the [chat page](https://osu.ppy.sh/community/chat) from your chat notifications and click the `create announcement` button. Input the channel name, description[^note-desc], list of recipients, and your message. Finally, click the `create` button to send the announcement.
+Para enviar un anuncio de chat, abra la [página de chat](https://osu.ppy.sh/community/chat) desde sus notificaciones de chat y haga clic en el botón `create announcement`. Ingrese el nombre del canal, descripción[^note-desc], lista de destinatarios, y tu mensaje. Finalmente, haga clic en el botón `create` para enviar el anuncio.
 
-![Announcement creation page](img/page.jpg "The announcement creation page")
+![Página de creación de anuncios](img/page.jpg "La página de creación de anuncios")
 
-## Trivia
+## Trivialidades
 
-- Announcement messages are intended to be a direct replacement for old [forum](/wiki/Community/Forum) messages.
-- [Basic implementation](https://github.com/ppy/osu-web/pull/8418) of the announcement system was added to the website on January 26th, 2022. This included the announce user group and the ability to send announcement messages through the API. The user interface for sending chat announcements, alongside allowing moderators to send them, was [added](https://github.com/ppy/osu-web/pull/8747) on June 1st, 2022.
-- The announce user group's ID is 47, it has neither a group badge nor a dedicated colour, and its user listing is private.
+- Los mensajes de anuncio pretenden ser un reemplazo directo de los mensajes antiguos del [foro](/wiki/Community/Forum).
+- [Implementación básica](https://github.com/ppy/osu-web/pull/8418) del sistema de anuncios se agregó al sitio web el 26 de enero de 2022. Esto incluía el grupo de usuarios de anuncios y la capacidad de enviar mensajes de anuncios a través de la API. La interfaz de usuario para enviar anuncios de chat, además de permitir que los moderadores los envíen, se [agregó](https://github.com/ppy/osu-web/pull/8747) el 1 de junio de 2022.
+- El ID del grupo de usuarios de anuncios es 47, no tiene una insignia de grupo ni un color exclusivo, y su lista de usuarios es privada.
 
-## Notes
+## Notas
 
-[^note-images]: Images are not supported in announcement messages.
-[^note-desc]: Unlike other input fields, descriptions are optional.
+[^note-images]: Las imágenes no son compatibles con los mensajes de anuncio.
+[^note-desc]: A diferencia de otros campos de entrada, las descripciones son opcionales.
