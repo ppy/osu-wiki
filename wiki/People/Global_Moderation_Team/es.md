@@ -57,7 +57,7 @@ Por lo general, el equipo observará a las personas durante varias semanas o mes
 
 *Nota: Todos los miembros del GMT hablan inglés además de los idiomas que se enumeran a continuación, a menos que se indique lo contrario.*
 
-La [página del grupo Global Moderation Team](https://osu.ppy.sh/groups/4) enumera todos los miembros del equipo. Además de las áreas mencionadas a continuación, todos los miembros del GMT participan en la [revisión del contenido visual y auditivo incluido en los beatmaps](/wiki/Rules/Visual_Content_Considerations#getting-your-image-assessed).
+La [página del grupo Global Moderation Team](https://osu.ppy.sh/groups/4) enumera todos los miembros del equipo. Además de las áreas mencionadas a continuación, todos los miembros del GMT participan en la [revisión del contenido visual y auditivo incluido en los mapas](/wiki/Rules/Visual_Content_Considerations#getting-your-image-assessed).
 
 | Nombre | Idiomas adicionales | Área principal |
 | :-- | :-- | :-- |
