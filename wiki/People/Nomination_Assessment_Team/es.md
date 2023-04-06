@@ -19,11 +19,11 @@ Los miembros del NAT se distinguen por su nombre de usuario y título de usuario
 
 ## Responsabilidades
 
-El NAT es responsable de una variedad de tareas relacionadas con mapping, y cada miembro del NAT se divide en uno de dos subgrupos: **evaluadores** y **asesores**. Cada subgrupo describe las responsabilidades de sus miembros.
+El NAT es responsable de una variedad de tareas relacionadas con el mapping, que se dividen en dos categorías: **evaluación** y **estructura**. Cada categoría describe las responsabilidades de un miembro de NAT, así como los requisitos y expectativas para cada tipo de tarea.
 
-### Evaluadores
+### Evaluación
 
-Los miembros del subgrupo **evaluador** son los principales responsables de:
+Los miembros de NAT asignados a la categoría de evaluación (también conocidos como evaluadores) son los principales responsables de:
 
 - **Evaluación**: Evaluar la competencia y la actividad de los actuales Beatmap Nominators y solicitantes. *Véase [Evaluaciones](/wiki/People/Nomination_Assessment_Team/Evaluations) para obtener más detalles.*
 - **Nominación**: Nominar al menos 2 mapas por mes. Esto ayuda a los evaluadores a mantenerse actualizados con la comunidad de mapping/modding cuando evalúan a los Beatmap Nominators actuales y aspirantes.
@@ -31,9 +31,9 @@ Los miembros del subgrupo **evaluador** son los principales responsables de:
 
 Los evaluadores tienen una gran demanda debido al gran volumen de [solicitudes de BN](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator). Ellos, a diferencia de los asesores, buscan ocasionalmente nuevos miembros para unirse a ellos y ayudar a aliviar la carga de trabajo. Esta es la razón por la cual los BN que desean unirse al NAT son juzgados principalmente en función de su capacidad para evaluar, y la mayoría de los miembros del NAT se unen y permanecen como evaluadores.
 
-### Asesores
+### Estructural
 
-Como grupo, los **asesores** deben mantener:
+Los miembros de NAT asignados a la categoría estructural deben mantener:
 
 - **Comunicación**: Promover la transparencia y mantener buenas relaciones no solo con el resto de la comunidad de mapping/modding, sino también dentro del propio NAT. Esto incluye, entre otros, hacer anuncios, participar en debates sobre propuestas, hacer/responder preguntas a través de encuestas y actualizar los [criterios de clasificación](/wiki/Ranking_Criteria), así como otra documentación.
 - **Desarrollo**: Desarrollar y mantener herramientas y sitios web para ayudar a mejorar el proceso de clasificación (como [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier), [Aiess](https://github.com/Naxesss/Aiess), o [el sitio web del NAT/BN](https://bn.mappersguild.com/home)).
@@ -55,6 +55,8 @@ Dividir el NAT en dos grupos es necesario para la organización general y la pro
 
 Dependiendo de su subgrupo, cada miembro del NAT tiene diferentes requisitos de actividad. Se espera que los evaluadores evalúen constantemente tanto a los solicitantes como a los BN actuales, al mismo tiempo que se mantienen actualizados con la escena de mapping/modding por su cuenta a través del modding. Se espera que los asesores mantengan partes clave del proceso de clasificación caso por caso.
 
+Cada mes, los miembros de NAT deben enviar un resumen de su actividad en el [sitio web de BN/NAT](https://bn.mappersguild.com/). Este resumen, junto con otras métricas como la actividad de nominación y evaluación, se usa para determinar si un miembro aún está activo y si debe permanecer en el grupo. Los [líderes de equipo](#nat-leadership) luego discutirán la actividad de cada miembro y decidirá si deben permanecer en el NAT.
+
 Los miembros que se encuentren inactivos serán confrontados por otros miembros del NAT. De no ser factible una resolución oportuna a su inactividad, serán dados de baja del NAT. Los miembros del subgrupo de evaluadores que trabajan en otros proyectos relacionados con el mapping pueden pasar al subgrupo de asesores para reflejar mejor su contribución.
 
 ## Promoción al NAT
@@ -71,6 +73,23 @@ Los evaluadores que demuestren competencia en las tareas de asesoramiento descri
 
 Antes de agregar un nuevo asesor, se verifica la cordura de la adición con el resto del NAT en caso de objeciones. Si no surgen problemas, el nuevo asesor estará sujeto a las expectativas de actividad según su situación específica. Si la contribución de un asesor se considera mediocre o innecesaria en algún momento posterior, nuevamente a juicio del miembro designado, entonces volverá a ser un evaluador.
 
+## Liderazgo NAT
+
+A partir de marzo de 2023, el NAT ha decidido retomar el concepto de liderazgo, que [anteriormente se usaba](/wiki/People/Quality_Assurance_Team/QAT_Leaders) en el [QAT](/wiki/People/Quality_Assurance_Team). Los líderes de NAT tienen la responsabilidad combinada de las categorías de evaluador y asesor para que puedan vigilar y mantenerse involucrados en todos los aspectos de NAT.
+
+Los actuales líderes de NAT son ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) y ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099).
+
+### Responsabilidades
+
+Los líderes de NAT tienen como objetivo cubrir las siguientes tareas:
+
+- **Gestión de actividades:** Monitoreo constante de la actividad de otros miembros de NAT y manejo de casos de baja actividad, ya sea a través de chequeos regulares o mediante entrevistas de salida, en caso de problemas de actividad con respecto a ciertos miembros.
+- **Comunicación:**
+  - Actuar como un puente entre el equipo de osu!, el NAT y la comunidad de mapeo, comunicando constantemente cualquier cambio, inquietud o demanda planteada.
+  - Fomentar la participación en discusiones internas y externas involucrando de manera proactiva a todas las partes, manteniendo las discusiones organizadas y facilitando la combinación de diferentes puntos de vista para formar un curso de acción práctico.
+  - Promover ideas nuevas o existentes que puedan perderse fácilmente en medio de discusiones/propuestas de criterios de clasificación.
+- **Resolución de problemas:** Tomar la iniciativa para participar en la toma de decisiones críticas y manejar las inquietudes delicadas planteadas por el equipo o la comunidad.
+
 ## Miembros del equipo
 
 *Nota: Todos los miembros del NAT hablan inglés además de los idiomas que se enumeran a continuación, a menos que se indique lo contrario.*
@@ -82,53 +101,55 @@ La [página del grupo Nomination Assessment Team](https://osu.ppy.sh/groups/7) e
 | Nombre | Idiomas adicionales | Subgrupo asignado |
 | :-- | :-- | :-- |
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) |  | Asesor[^task-mo] |
-| ::{ flag=SG }:: [achyoo](https://osu.ppy.sh/users/7823498) | Chino | Evaluador |
-| ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) |  | Evaluador |
-| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | Bielorruso, ruso | Evaluador |
-| ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonés, chino | Evaluador |
-| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Portugués | Evaluador |
-| ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | Evaluador |
-| ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Chino | Evaluador |
-| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Alemán | Evaluador |
-| ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Sueco | Asesor[^task-naxess] |
-| ::{ flag=GB }:: [nexusqi](https://osu.ppy.sh/users/13822800) |  | Evaluador |
-| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | Asesor[^task-pishifat] |
-| ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | Evaluador |
-| ::{ flag=AT }:: [Stixy](https://osu.ppy.sh/users/9000308) | Alemán, serbio | Evaluador |
-| ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) |  | Asesor[^task-uberfazz] |
-| ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | Neerlandés | Evaluador |
-| ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  | Evaluador |
-| ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | Polaco | Evaluador |
+| ::{ flag=SG }:: [achyoo](https://osu.ppy.sh/users/7823498) | Chino | Evaluation |
+| ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) |  | Evaluation |
+| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | Bielorruso, ruso | Evaluation |
+| ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonés, chino | Evaluation |
+| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | Portugués | Evaluation |
+| ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | Evaluation |
+| ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | Chino | Evaluation |
+| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | Alemán | Evaluation, Structural[^task-fuju] |
+| ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | Sueco | Structural[^task-naxess] |
+| ::{ flag=GB }:: [nexusqi](https://osu.ppy.sh/users/13822800) |  | Evaluation |
+| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | Structural[^task-pishifat] |
+| ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | Evaluation, Structural[^task-star] |
+| ::{ flag=AT }:: [Stixy](https://osu.ppy.sh/users/9000308) | Alemán, serbio | Evaluation |
+| ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) |  | Evaluation |
+| ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | Neerlandés | Evaluation |
+| ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  | Evaluation |
+| ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | Polaco | Evaluation |
 
 ### osu!taiko
 
 | Nombre | Idiomas adicionales | Subgrupo asignado |
 | :-- | :-- | :-- |
-| ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | Alemán | Evaluador |
-| ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | Urdu, algo de árabe | Evaluador |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Árabe, francés, algo de italiano | Leader |
-| ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | Portugués | Evaluador |
-| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | Leader |
+| ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | Alemán | Evaluation |
+| ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | Urdu, algo de árabe | Evaluation |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Árabe, francés, algo de italiano | Leadership |
+| ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | Portugués | Evaluation |
+| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | Leadership |
 
 ### osu!catch
 
 | Nombre | Idiomas adicionales | Subgrupo asignado |
 | :-- | :-- | :-- |
-| ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | Español, alemán | Evaluador |
-| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Neerlandés | Evaluador |
+| ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | Español, alemán | Evaluation |
+| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Neerlandés | Evaluation |
 
 ### osu!mania
 
 | Nombre | Idiomas adicionales | Subgrupo asignado |
 | :-- | :-- | :-- |
-| ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229) | Chino | Evaluador |
-| ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | Vietnamita | Evaluador |
-| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Indonesio | Evaluador |
-| ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Evaluador |
+| ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229) | Chino | Evaluation |
+| ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | Vietnamita | Evaluation |
+| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Indonesio | Evaluation |
+| ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Evaluation |
 
 ## Notas
 
+[^task-achyoo]: Maneja principalmente la gestión del veto para el modo de juego osu!
+[^task-fuju]: Maneja principalmente informes de usuarios y administra calificaciones SEV para el modo de juego osu!
 [^task-mo]: Maneja principalmente discusiones internas, asuntos y documentación
 [^task-naxess]: Mantiene principalmente [Aiess](https://github.com/Naxesss/Aiess) y [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier)
 [^task-pishifat]: Principalmente mantiene [el sitio web del NAT/BN](https://bn.mappersguild.com/home)
-[^task-uberfazz]: Entre otras cosas, gestiona asesores
+[^task-star]: Principalmente mantiene las preguntas de la prueba de criterios de clasificación
