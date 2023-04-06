@@ -98,9 +98,9 @@ La [página del grupo Nomination Assessment Team](https://osu.ppy.sh/groups/7) e
 
 ### osu!
 
-| Nombre | Idiomas adicionales | Subgrupo asignado |
+| Nombre | Idiomas adicionales | Categoría asignada |
 | :-- | :-- | :-- |
-| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) |  | Asesor[^task-mo] |
+| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) |  | Structural[^task-mo] |
 | ::{ flag=SG }:: [achyoo](https://osu.ppy.sh/users/7823498) | Chino | Evaluation |
 | ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) |  | Evaluation |
 | ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | Bielorruso, ruso | Evaluation |
@@ -121,7 +121,7 @@ La [página del grupo Nomination Assessment Team](https://osu.ppy.sh/groups/7) e
 
 ### osu!taiko
 
-| Nombre | Idiomas adicionales | Subgrupo asignado |
+| Nombre | Idiomas adicionales | Categoría asignada |
 | :-- | :-- | :-- |
 | ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | Alemán | Evaluation |
 | ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | Urdu, algo de árabe | Evaluation |
@@ -131,14 +131,14 @@ La [página del grupo Nomination Assessment Team](https://osu.ppy.sh/groups/7) e
 
 ### osu!catch
 
-| Nombre | Idiomas adicionales | Subgrupo asignado |
+| Nombre | Idiomas adicionales | Categoría asignada |
 | :-- | :-- | :-- |
 | ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | Español, alemán | Evaluation |
 | ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | Neerlandés | Evaluation |
 
 ### osu!mania
 
-| Nombre | Idiomas adicionales | Subgrupo asignado |
+| Nombre | Idiomas adicionales | Categoría asignada |
 | :-- | :-- | :-- |
 | ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229) | Chino | Evaluation |
 | ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | Vietnamita | Evaluation |
