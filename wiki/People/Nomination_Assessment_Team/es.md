@@ -1,5 +1,5 @@
 ---
-outdated_translation: true
+outdated_translation: false
 outdated_since: 686e804bdc97d569f7e06c72fd8b73a03b5d5235
 tags:
   - NAT
@@ -11,7 +11,7 @@ tags:
 
 El **Nomination Assessment Team** (***NAT***) es un equipo que modera a los [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*) y garantiza el lado del beatmapping de osu! se mantenga funcional.
 
-Los miembros del NAT se distinguen por su nombre de usuario y título de usuario en rojo. Tienen permisos de moderación en todo el sitio, como el [Global Moderation Team](/wiki/People/Global_Moderation_Team) (*GMT*), y también poseen la capacidad de [nominar](/wiki/Beatmap_ranking_procedure#nominations) y [restablecer nominaciones](/wiki/Beatmap_ranking_procedure#restablecimientos-de-nominaciones) en beatmaps, como [miembros completos](/wiki/People/Beatmap_Nominators#beatmap-nominators-completos) de [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*). Para la mayoría de los propósitos, los miembros del NAT son BN con diferentes responsabilidades. Por lo tanto, todas las [reglas para los BN](/wiki/People/Beatmap_Nominators/Rules) y [expectativas](/wiki/People/Beatmap_Nominators/Expectations) se aplican a los miembros del NAT, con algunas excepciones para la actividad.
+Los miembros del NAT se distinguen por su nombre de usuario y título de usuario en rojo. Tienen permisos de moderación en todo el sitio, como el [Global Moderation Team](/wiki/People/Global_Moderation_Team) (*GMT*), y también poseen la capacidad de [nominar](/wiki/Beatmap_ranking_procedure#nominations) y [restablecer nominaciones](/wiki/Beatmap_ranking_procedure#restablecimientos-de-nominaciones) en mapas, como [miembros completos](/wiki/People/Beatmap_Nominators#beatmap-nominators-completos) de [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*). Para la mayoría de los propósitos, los miembros del NAT son BN con diferentes responsabilidades. Por lo tanto, todas las [reglas para los BN](/wiki/People/Beatmap_Nominators/Rules) y [expectativas](/wiki/People/Beatmap_Nominators/Expectations) se aplican a los miembros del NAT, con algunas excepciones para la actividad.
 
 **Todos los miembros del Nomination Assessment Team juran respetar [el código de conducta del contribuidor](/wiki/Rules/Contributor_Code_of_Conduct) además de las [reglas de la comunidad](/wiki/Rules) normales.**
 
@@ -25,8 +25,8 @@ El NAT es responsable de una variedad de tareas relacionadas con mapping, y cada
 
 Los miembros del subgrupo **evaluador** son los principales responsables de:
 
-- **Evaluación**: Evaluar la competencia y la actividad de los actuales Beatmap Nominators y solicitantes. *Véase [Evaluations](/wiki/People/Nomination_Assessment_Team/Evaluations) para obtener más detalles.*
-- **Nominación**: Nominar al menos 2 beatmaps por mes. Esto ayuda a los evaluadores a mantenerse actualizados con la comunidad de mapping/modding cuando evalúan a los Beatmap Nominators actuales y aspirantes.
+- **Evaluación**: Evaluar la competencia y la actividad de los actuales Beatmap Nominators y solicitantes. *Véase [Evaluaciones](/wiki/People/Nomination_Assessment_Team/Evaluations) para obtener más detalles.*
+- **Nominación**: Nominar al menos 2 mapas por mes. Esto ayuda a los evaluadores a mantenerse actualizados con la comunidad de mapping/modding cuando evalúan a los Beatmap Nominators actuales y aspirantes.
   - La actividad de modding y otras contribuciones se pueden usar como métrica de respaldo al evaluar la actividad.
 
 Los evaluadores tienen una gran demanda debido al gran volumen de [solicitudes de BN](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator). Ellos, a diferencia de los asesores, buscan ocasionalmente nuevos miembros para unirse a ellos y ayudar a aliviar la carga de trabajo. Esta es la razón por la cual los BN que desean unirse al NAT son juzgados principalmente en función de su capacidad para evaluar, y la mayoría de los miembros del NAT se unen y permanecen como evaluadores.
@@ -37,7 +37,7 @@ Como grupo, los **asesores** deben mantener:
 
 - **Comunicación**: Promover la transparencia y mantener buenas relaciones no solo con el resto de la comunidad de mapping/modding, sino también dentro del propio NAT. Esto incluye, entre otros, hacer anuncios, participar en debates sobre propuestas, hacer/responder preguntas a través de encuestas y actualizar los [criterios de clasificación](/wiki/Ranking_Criteria), así como otra documentación.
 - **Desarrollo**: Desarrollar y mantener herramientas y sitios web para ayudar a mejorar el proceso de clasificación (como [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier), [Aiess](https://github.com/Naxesss/Aiess), o [el sitio web del NAT/BN](https://bn.mappersguild.com/home)).
-- **Moderación**: Manejar los informes de los usuarios y evaluar el comportamiento inapropiado de los Beatmap Nominators, así como procesar las revisiones de contenido de Beatmap. Esta subcategoría es un esfuerzo conjunto entre el NAT y el GMT.
+- **Moderación**: Manejar los informes de los usuarios y evaluar el comportamiento inapropiado de los Beatmap Nominators, así como procesar las revisiones de contenido de Mapas. Esta subcategoría es un esfuerzo conjunto entre el NAT y el GMT.
 - **Mantenimiento misceláneo**: Incluido pero no limitado a:
   - Manejo de [vetos](/wiki/People/Beatmap_Nominators/Beatmap_Veto).
   - Mantener la [prueba del RC](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test).
@@ -75,7 +75,7 @@ Antes de agregar un nuevo asesor, se verifica la cordura de la adición con el r
 
 *Nota: Todos los miembros del NAT hablan inglés además de los idiomas que se enumeran a continuación, a menos que se indique lo contrario.*
 
-La [página del grupo Nomination Assessment Team](https://osu.ppy.sh/groups/7) enumera todos los miembros del equipo. Además de las áreas mencionadas a continuación, todos los miembros del NAT participan en la [revisión del contenido visual y de audio incluido en los beatmaps](/wiki/Rules/Visual_Content_Considerations#getting-your-image-assessed).
+La [página del grupo Nomination Assessment Team](https://osu.ppy.sh/groups/7) enumera todos los miembros del equipo. Además de las áreas mencionadas a continuación, todos los miembros del NAT participan en la [revisión del contenido visual y de audio incluido en los mapas](/wiki/Rules/Visual_Content_Considerations#getting-your-image-assessed).
 
 ### osu!
 
