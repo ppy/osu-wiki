@@ -89,7 +89,6 @@ Due to the large number of players, the match results will be displayed in the [
 8. Use of the Visual Settings to alter background dim or disable beatmap elements like storyboards and skins is allowed.
    - Custom skin elements **must not** be used to alter core gameplay mechanics.
 
-
 ### Registration
 
 1. Please **fill [this form](https://wj.qq.com/s2/11825634/aba7/)** to register.
@@ -152,9 +151,9 @@ Due to the large number of players, the match results will be displayed in the [
    - The room settings are `Game mode: osu!mania`, `Team mode: Head-to-Head`, and `Score mode: ScoreV2`. The room name must follow the pattern of `GBC 2023 Spr`.
 2. Possible mod choices for the FreeMod bracket are **No Fail, **Hidden**, **Fade In**, **Flashlight**, and **Mirror**.
 3. The referees will select the beatmaps in order to play the match. If a player encounters a technical problem during a match, players may request a rematch from the referee after all the beatmaps have been selected.
-    - "Lag spikes" will not be considered as a valid reason to rematch a beatmap.
-    - The rematch should happen after completing scores for the other beatmaps in the mappool.
-    - This rule should not to be abused. Referees may veto a rematch request if they find that this is the case.
+   - "Lag spikes" will not be considered as a valid reason to rematch a beatmap.
+   - The rematch should happen after completing scores for the other beatmaps in the mappool.
+   - This rule should not to be abused. Referees may veto a rematch request if they find that this is the case.
 4. Unless there are special reasons, the organiser will only record each player's first score of the beatmap in the match room.
 5. The default rest time is **120 seconds**. If all players in the room agree to start early and get ready, the referee may start the match early.
 6. Players are expected to keep the match running fluently and without delays. Excessive delays from the players' side may result in penalties being applied at the referee's discretion. Disrupting the match by foul play, insulting or provoking other players or staff, delaying the match, or other deliberate inappropriate misbehaviour are strictly prohibited, and will be punished accordingly.
