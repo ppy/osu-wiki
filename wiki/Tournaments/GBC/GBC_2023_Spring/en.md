@@ -81,29 +81,14 @@ Due to the large number of players, the match results will be displayed in the [
    - The total ranking of the mappool is based on the sum of the rankings of each player in each map.
 2. Beatmap scoring is based on Score V2.
 3. The GB Cup 2023 Spring consists of **4 groups (EX, S, A, and B)**, with only **2 groups** playing each week.
-   - Each group has an overrun buffer of *100 pp*.
-   - If a player upgrades after the start of the tournament, 50% of the points will be kept.
-4. The maps for each round will be announced by the mappool selectors on the official stream, on the Sunday before the actual matches take place.
-5. Players schedule their match time before the start of the week's match.
-   - Players with special time requirements need to contact the organiser in advance. The organiser does not guarantee that anyone's request will be met, and players need to properly communicate with the organizer in advance.
-6. Every week, the referee creates a multiplayer room at a fixed time, and the players who need to play a match will enter the room.
+4. The maps for each round will be announced by the mappool selectors on the official stream, on the Saturday before the actual matches take place.
+5. Players need to schedule their match time before the start of the match every week.
+   - Players with special time requirements need to contact the organiser in advance. The organiser does not guarantee that anyone's request will be met, and players need to properly communicate with the referees.
+6. Every week, the referee creates a multiplayer room at the fixed times, and the players who need to play a match could enter the room.
 7. There is **no warm-up phase** for the match.
 8. Use of the Visual Settings to alter background dim or disable beatmap elements like storyboards and skins is allowed.
    - Custom skin elements **must not** be used to alter core gameplay mechanics.
-9. Possible mod choices for the FreeMod bracket are **No Fail, **Hidden**, **Fade In**, **Flashlight**, and **Mirror**.
-10. The referees will select the beatmaps in order to play the match. If a player encounters a technical problem during a match, players may request a rematch from the referee after all the beatmaps have been selected.
-    - "Lag spikes" will not be considered as a valid reason to rematch a beatmap.
-    - The rematch should happen after completing scores for the other beatmaps in the mappool.
-    - This rule should not to be abused. Referees may veto a rematch request if they find that this is the case.
-11. Unless there are special reasons, the organiser will only record each player's first score of the beatmap in the match room.
-12. The default rest time is **120 seconds**. If all players in the room agree to start early and get ready, the referee may start the match early.
-13. Players are expected to keep the match running fluently and without delays. Excessive delays from the players' side may result in penalties being applied at the referee's discretion. Disrupting the match by foul play, insulting or provoking other players or staff, delaying the match, or other deliberate inappropriate misbehaviour are strictly prohibited, and will be punished accordingly.
-14. All players and staff must be treated with respect. Instructions from referees and the host are to be followed. Decisions labelled as final are not to be objected.
-15. The multiplayer chat rooms underlie the [osu! community rules](/wiki/Rules).
-16. Disrupting the match by foul play or seed manipulation will result in disqualification, and any such players will be announced.
-17. Unexpected incidents will be handled by the host. Referees may allow higher tolerance depending on the given circumstances. This is up to their discretion.
-18. The host may request liveplays or recordings of individual players at any point.
-19. The host reserves the right to modify these rules at any moment. Any such changes will be announced in advance.
+
 
 ### Registration
 
@@ -117,27 +102,31 @@ Due to the large number of players, the match results will be displayed in the [
 3. A list of all successfully registered players will be published after the registration phase.
 4. All successfully registered players will be grouped as follows:
 
-| Group | Player's PP |
+| Group | Player's 4k PP |
 | EX | 8500 and above |
 | S | 6500 ~ 8499 |
 | A | 4500 ~ 6499 |
 | B | 0 ~ 4499 |
 
-5. [Tournament staff members](/wiki/Tournaments/Official_support#what-is-considered-staff) must not participate as players in the tournament.
-6. Organisers reserve the right to decline restricted players from participating in the tournament.
+5. If the 4kpp of a player is much higher than the upper limitation of his level, he will be forced to promote into next level. The buffer is *100 pp*.
+6. [Tournament staff members](/wiki/Tournaments/Official_support#what-is-considered-staff) must not participate as players in the tournament.
+7. Organisers may force to promote some players that are considered too strong in their levels.
+8. Organisers reserve the right to decline restricted players from participating in the tournament.
+9. It is allowed for players to request to promote their level. They need to send some result screenshotsof next level to the organiser for getting premission.
 
 ### Win conditions
 
-1. In the Regular stage, players need to rank high enough to get points. The points that can be earned are determined by the average rank for all individual beatmaps:
+1. In the Regular stage, players need to get higher placement in higher level for higher points. The points that can be earned are determined by the placement in every round. The placement according to the average rank for all individual beatmaps in a round.
+2. We have a base points that depends on the placement per round, and a multiplier that depends on the level of players. Here is the calculation method of points.
 
-| Placement | Points |
+| Placement | Base Points |
 | :-: | --: |
 | 1st place | 20 |
 | 2nd place | 19 |
 | 3rd place | 18 |
 | 4th place | 17 |
-| Top 10% | 16 |
-| Top 20% | 15 |
+| Top 15% | 16 |
+| Top 22% | 15 |
 | Top 30% | 14 |
 | Top 40% | 13 |
 | Top 50% | 12 |
@@ -147,13 +136,34 @@ Due to the large number of players, the match results will be displayed in the [
 | Top 90% | 4 |
 | Top 100% | 2 |
 
-2. In the playoff stage, players need to win a specific number of beatmaps to win, depending on the situation.
+| Level | Multiplier(x is base points) |
+| :-: | --: |
+| Level B | x |
+| Level A | 1.5x+12 |
+| Level S | 2.3x+30 |
+| Level EX | 3.4x+57 |
+
+3. The final ranking of qualifier depends on the total points of all the 4 rounds. The top 16 players will be able to join playoff stage.
+4. In the playoff stage, players need to win a specific number of beatmaps to win, depending on the situation.
 
 ### Match procedures
 
 1. A referee will create a multiplayer room 5 minutes before the scheduled match time. Players must join the lobby in that period.
    - The room settings are `Game mode: osu!mania`, `Team mode: Head-to-Head`, and `Score mode: ScoreV2`. The room name must follow the pattern of `GBC 2023 Spr`.
-2. Players will have a 120-second break between playing two beatmaps.
+2. Possible mod choices for the FreeMod bracket are **No Fail, **Hidden**, **Fade In**, **Flashlight**, and **Mirror**.
+3. The referees will select the beatmaps in order to play the match. If a player encounters a technical problem during a match, players may request a rematch from the referee after all the beatmaps have been selected.
+    - "Lag spikes" will not be considered as a valid reason to rematch a beatmap.
+    - The rematch should happen after completing scores for the other beatmaps in the mappool.
+    - This rule should not to be abused. Referees may veto a rematch request if they find that this is the case.
+4. Unless there are special reasons, the organiser will only record each player's first score of the beatmap in the match room.
+5. The default rest time is **120 seconds**. If all players in the room agree to start early and get ready, the referee may start the match early.
+6. Players are expected to keep the match running fluently and without delays. Excessive delays from the players' side may result in penalties being applied at the referee's discretion. Disrupting the match by foul play, insulting or provoking other players or staff, delaying the match, or other deliberate inappropriate misbehaviour are strictly prohibited, and will be punished accordingly.
+7. All players and staff must be treated with respect. Instructions from referees and the host are to be followed. Decisions labelled as final are not to be objected.
+8. The multiplayer chat rooms underlie the [osu! community rules](/wiki/Rules).
+9. Disrupting the match by foul play or seed manipulation will result in disqualification, and any such players will be announced.
+10. Unexpected incidents will be handled by the host. Referees may allow higher tolerance depending on the given circumstances. This is up to their discretion.
+11. The host may request liveplays or recordings of individual players at any point.
+12. The host reserves the right to modify these rules at any moment. Any such changes will be announced in advance.
 
 ### Mappool information
 
