@@ -1,19 +1,19 @@
-# Penyimpanan berkas dalam osu!(lazer)
+# Penyimpanan berkas osu!(lazer)
 
-Secara default, osu!(lazer) akan menyimpan berkas-berkas beatmap, skin, dan replay skor di direktori berikut ini:
+Secara *default*, osu!(lazer) menyimpan seluruh berkas beatmap, skin, dan tayangan ulang/skor pada direktori berikut:
 
 - `%appdata%/osu/files` (Windows),
 - `~/.local/share/osu/files` (Linux),
 - `~/Library/Application Support/osu/files` (macOS),
 - `Android/data/sh.ppy.osulazer/files/files` (Android).
 
-Pada platform desktop, direktori penyimpanan file dapat juga dipindahkan secara sepenuhnya ke lokasi yang lain, menggunakan tombol `Ubah lokasi folder...` di pengaturan klien lazer.
+Pada platform desktop, direktori penyimpanan berkas ini dapat diubah melalui pilihan `Ubah lokasi folder...` yang terdapat pada pengaturan klien lazer.
 
 ## Struktur penyimpanan
 
-Struktur penyimpanan osu!(stable), yang dimana data dapat diakses secara langsung oleh pengguna seperti berkas-berkas pada umumnya, telah menyebabkan banyak masalah karena mengharuskan penanganan secara eksplisit modifikasi-modifikasi yang tak diinginkan terhadap berkas-berkas penting. Untuk menghindari hal tersebut, osu!(lazer) menggunakan metode penyimpanan berkas yang lebih ketat. Dengan itu, tidak ada ekuivalen folder `Songs` dan `Skins`. Semua berkas yang diimpor ke klien lazer akan disimpan dengan nama berkas yang menunjukkan [hash SHA-256](https://id.wikipedia.org/wiki/SHA-2) dari berkas tersebut. Pemetaan terhadap berkas-berkas tersebut akan disimpan di sebuah database klien.
+psu!(stable) menganut sistem penyimpanan berkas konvensional di mana data yang ada dapat diakses secara langsung oleh pengguna. Dalam prakteknya, sistem ini telah menyebabkan banyak masalah karena berkas-berkas penting milik osu! yang seharusnya tidak disentuh dapat dengan mudah dimodifikasi. Untuk menghindari hal ini, osu!(lazer) menggunakan metode penyimpanan berkas berbasis *hard link* yang lebih ketat. Pada sistem ini, osu! tidak lagi memiliki folder `Songs` dan `Skins`. Seluruh berkas yang diimpor ke dalam klien lazer akan disimpan dengan nama [hash SHA-256](https://id.wikipedia.org/wiki/SHA-2)-nya masing-masing, di mana lokasi setiap berkas akan disimpan pada database klien.
 
-Sebagai contoh, sebuah berkas dengan hash SHA-256 berikut
+Sebagai contoh, berkas dengan hash SHA-256 berikut
 
 ```
 1a47929b6056d34d25a95eeb2012395ceed66af6f40cc37c898a08482d6325d2
@@ -25,25 +25,25 @@ akan disimpan di lokasi berikut
 files/1/1a/1a47929b6056d34d25a95eeb2012395ceed66af6f40cc37c898a08482d6325d2
 ```
 
-Menggunakan metode ini dapat menghemat ruang penyimpanan dengan mencegah berkas-berkas duplikat untuk tetap berada pada media penyimpanan, dan mencegah pengguna (atau aplikasi lain) untuk dapat mudah memodifikasi berkas yang seharusnya tidak dimodifikasi.
+Metode ini dapat menghemat ruang penyimpanan karena metode ini tidak meninggalkan berkas duplikat. Di samping itu, metode ini juga mencegah pengguna (atau aplikasi lain) untuk dapat memodifikasi berkas yang seharusnya tidak dimodifikasi dengan mudah.
 
-Untuk saat ini, prosedur yang tepat untuk memodifikasi skin dan beatmap diluar fasilitas yang sudah disediakan didalam klien permainan ialah untuk mengekspor item tersebut, memperbaruinya, dan lalu mengimpor kembali item tersebut dengan perubahan yang telah dibuat.
+Bagi pemain yang ingin memodifikasi skin dan beatmap untuk lazer di luar fasilitas yang telah disediakan, proses ini dapat dilakukan dengan cara mengekspor item tersebut, memperbaruinya, dan mengimpor kembali item yang telah diubah.
 
 ## Migrasi dari osu!(stable)
 
 ### Dengan *hard link*
 
-Pada kebanyakan sistem, osu!(lazer) akan dapat mengimpor data dari klien permainan versi stable tanpa harus membuat salinan kedua dari data tersebut pada media penyimpanan. Ini dimungkinkan karena adanya suatu fitur sistem operasi yang disebut *hard link* (sambungan keras).
+Pada kebanyakan sistem, osu!(lazer) akan dapat mengimpor data dari klien versi stable tanpa harus menyalin data yang telah ada. Hal ini dimungkinkan karena adanya suatu fitur bawaan sistem operasi yang dikenal dengan nama *hard link*.
 
-Sebuah *hard link* sebagai konsep adalah mirip dengan sebuah *shortcut* yang dimana itu merupakan suatu metode yang memperbolehkan pengguna untuk dapat mengakses suatu berkas yang sama dari tempat-tempat yang berbeda didalam suatu sistem berkas. Tetapi, sedangkan shortcut adalah suatu berkas umum yang dapat mengarah ke berkas yang berbeda, *hard link* bekerja di dalam sistem berkas itu sendiri.
+Secara konsep, *hard link* cukup serupa dengan *shortcut*. Metode ini memungkinkan berbagai aplikasi untuk mengakses berkas yang sama dari berbagai tempat di dalam sistem. Perbedaannya, pada saat *shortcut* bekerja di tingkatan berkas, *hard link* bekerja di dalam sistem itu sendiri.
 
-Secara singkatnya, dua berkas yang ter-*hard link* adalah dua berkas berbeda yang mengarah pada satu bagian data yang sama tersimpan pada sebuah media penyimpanan. Berarti, setelah migrasi terselesaikan menggunakan *hard link*, folder `Songs` di klien stable dan folder `files` di klien lazer akan berisi berkas yang mengarah pada data yang terbagi pada sebuah media penyimpanan. Menghapus berkas dari salah satu instalasi tidak akan mempengaruhi yang lain, dan memperbarui berkas tersebut akan menyebabkan isi berkas tersebut untuk disimpan secara terpisah, dan sehingga juga tidak akan mempengaruhi instalasi yang lain, selama osu! digunakan untuk membuat perubahan tersebut.
+Berkas yang saling ter-*hard link* akan mengarah kepada data yang sama. Dengan kata lain, setelah stable dan lazer saling terhubung melalui *hard link*, folder `Songs` pada klien stable dan folder `files` pada klien lazer juga akan terikat antar satu sama lain. Meskipun demikian, teknologi *hard link* memungkinkan berkas yang ada untuk dapat dihapus dan diperbarui di salah satu versi osu! tanpa memengaruhi berkas tersebut pada instalasi osu! lainnya. Selama berkas ini tidak diubah secara manual dari luar osu!, masing-masing versi osu! akan dapat memuat berkas yang bersangkutan secara terpisah.
 
-Tetapi sebaiknya diketahui bahwa jika penggunaan ruang media penyimpanan dicek melalui jendela `Properties` di Explorer atau metode-metode yang serupa, akan terlihat bahwa folder `Songs` dan `files` masing-masing memakan ruang penyimpanan, berpotensi menyesatkan pengguna untuk meyakini bahwa data tersebut disimpan dua kali. Ini adalah suatu artifak dari cara bagaimana penggunaan ruang penyimpanan diperhitungkan, dan data tersebut sebenarnya tidak terduplikasi, yang dapat diverifikasi dengan membandingkan jumlah total ruang bebas dalam keseluruhan media penyimpanan sebelum dan setelah melakukan migrasi.
+Terkadang, apabila diperiksa melalui menu `Properties` di Explorer, folder `Songs` dan `files` milik osu! yang ter-*hard link* dapat terlihat seperti memiliki ruang penyimpanannya masing-masing. Hal ini dapat mengecoh pengguna untuk meyakini bahwa kedua folder tersebut tersimpan dua kali. Fenomena ini disebabkan oleh kesalahan perhitungan dari sistem, di mana data yang ada sebenarnya tidak tergandakan. Apabila kamu tidak yakin, kamu dapat membandingkan sendiri jumlah total ruang yang tersisa pada media penyimpananmu antara sebelum dan setelah proses migrasi.
 
 #### Sistem yang didukung
 
-Sebagai suatu fitur yang ada pada level sistem berkas, berkas yang ter-*hard link* harus berada di media penyimpanan yang sama.
+Berhubung *hard link* merupakan fitur yang terhubung dengan ruang pada media penyimpanan, berkas yang akan dihubungkan melalui *hard link* harus berada pada media penyimpanan yang sama.
 
 - **Windows**: Media penyimpanan harus berformat NTFS
 - **macOS**: Sistem berkas harus mendukung *hard link*
@@ -51,4 +51,4 @@ Sebagai suatu fitur yang ada pada level sistem berkas, berkas yang ter-*hard lin
 
 ### Dengan menyalin berkas
 
-Pada sistem operasi dan sistem berkas lain yang dimana fitur *hard link* tidak tersedia (atau fungsionalitas untuk menciptakannya belum diimplementasikan), migrasi dari stable ke lazer dapat dilakukan dengan menyalin semua berkas-berkas dari instalasi lama ke yang baru. Kedua instalasi akan sepenuhnya terpisah, tetapi akan memakan sampai dua kali lipat ruang penyimpanan data.
+Pada sistem operasi lainnya yang tidak mendukung *hard link*, migrasi dari stable ke lazer dapat dilakukan dengan cara menyalin seluruh berkas dari lokasi osu! lama ke yang baru. Pada kasus ini, kedua versi osu! akan tetap berjalan secara terpisah, namun ruang penyimpanan yang digunakan akan berlipat ganda.

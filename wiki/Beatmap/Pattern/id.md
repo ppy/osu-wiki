@@ -7,7 +7,7 @@ tags:
 
 # Pattern
 
-**Pattern** (pola) adalah sebagian set kecil dari [hit object](/wiki/Gameplay/Hit_object) dalam sebuah [beatmap](/wiki/Beatmap) yang diatur dengan cara yang berarti.
+**Pattern** (pola) merupakan serangkaian [hit object](/wiki/Gameplay/Hit_object) pada [beatmap](/wiki/Beatmap) yang diatur dalam susunan tertentu.
 
 ## Jenis pattern umum
 
