@@ -107,8 +107,10 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 | ::{ flag=GB }:: [Pope Gadget](https://osu.ppy.sh/users/2288341) |  | ผู้ดูแลชุมชนการแมป/การ mod |
 | ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) |  | ผู้ดูแลชุมชนการแมป/การ mod |
 | ::{ flag=MY }:: [QHideaki13](https://osu.ppy.sh/users/733998) | มาเลย์ | ผู้ดูแลแชท |
+| ::{ flag=PL }:: [Redo_](https://osu.ppy.sh/users/7122165) | โปแลนด์ | Skinning community moderation |
 | ::{ flag=MX }:: [Repflez](https://osu.ppy.sh/users/201392) | สเปน | ผู้ดูแลแชท |
-| ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | เยอรมัน | ผู้ดูแลฟอรั่ม |
+| ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | ดัตช์, ญี่ปุ่น | Skinning community moderation |
+| ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | เยอรมัน | Skinning community moderation, ผู้ดูแลฟอรั่ม |
 | ::{ flag=KR }:: [ruexia](https://osu.ppy.sh/users/385069) | เกาหลี | ผู้ดูแลแชท |
 | ::{ flag=JP }:: [S o h](https://osu.ppy.sh/users/2234772) | ญี่ปุ่น | ผู้ดูแลแชท |
 | ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) | สวีเดน, สเปน | ผู้ดูแลแชท |
@@ -121,7 +123,7 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 | ::{ flag=PH }:: [topecnz](https://osu.ppy.sh/users/2103927) | ฟิลิปปินส์ | ผู้ดูแลแชท |
 | ::{ flag=TH }:: [Trigonoculus](https://osu.ppy.sh/users/7627013) | ไทย | ผู้ดูแลแชท |
 | ::{ flag=ES }:: [Trosk-](https://osu.ppy.sh/users/3469385) | สเปน | ผู้สนับสนุนทางเทคนิค |
-| ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | โปแลนด์ | ผู้ดูแลแชท |
+| ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | โปแลนด์ | Team leadership, ผู้ดูแลแชท, ผู้ดูแลชุมชนการแมป/การ mod |
 | ::{ flag=PL }:: [Yason](https://osu.ppy.sh/users/2574392) | โปแลนด์ | ผู้ดูแลแชท |
 | ::{ flag=HM }:: [Zallius](https://osu.ppy.sh/users/55) |  | ผู้ดูแลแชท |
 
