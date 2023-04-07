@@ -11,7 +11,7 @@ Pada platform desktop, direktori penyimpanan berkas ini dapat diubah melalui pil
 
 ## Struktur penyimpanan
 
-psu!(stable) menganut sistem penyimpanan berkas konvensional di mana data yang ada dapat diakses secara langsung oleh pengguna. Dalam prakteknya, sistem ini telah menyebabkan banyak masalah karena berkas-berkas penting milik osu! yang seharusnya tidak disentuh dapat dengan mudah dimodifikasi. Untuk menghindari hal ini, osu!(lazer) menggunakan metode penyimpanan berkas berbasis *hard link* yang lebih ketat. Pada sistem ini, osu! tidak lagi memiliki folder `Songs` dan `Skins`. Seluruh berkas yang diimpor ke dalam klien lazer akan disimpan dengan nama [hash SHA-256](https://id.wikipedia.org/wiki/SHA-2)-nya masing-masing, di mana lokasi setiap berkas akan disimpan pada database klien.
+osu!(stable) menganut sistem penyimpanan berkas konvensional di mana data yang ada dapat diakses secara langsung oleh pengguna. Dalam prakteknya, sistem ini telah menyebabkan banyak masalah karena berkas-berkas penting milik osu! yang seharusnya tidak disentuh dapat dengan mudah dimodifikasi. Untuk menghindari hal ini, osu!(lazer) menggunakan metode penyimpanan berkas berbasis *hard link* yang lebih ketat. Pada sistem ini, osu! tidak lagi memiliki folder `Songs` dan `Skins`. Seluruh berkas yang diimpor ke dalam klien lazer akan disimpan dengan nama [hash SHA-256](https://id.wikipedia.org/wiki/SHA-2)-nya masing-masing, di mana lokasi setiap berkas akan disimpan pada database klien.
 
 Sebagai contoh, berkas dengan hash SHA-256 berikut
 
