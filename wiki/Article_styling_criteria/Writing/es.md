@@ -136,7 +136,7 @@ Ejemplo:
 17 de septiembre de 2007
 ```
 
-El formato de fecha `DD/MM/AAAA` solo debe usarse en tablas.
+El formato de fecha `D/M/AAAA` solo debe usarse en tablas.
 
 ### Formato de hora
 
