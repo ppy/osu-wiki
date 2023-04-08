@@ -27,14 +27,14 @@ El mal comportamiento en el chat es la infracción más común. Para reportarlo,
 La sintaxis del comando tiene dos formas:
 
 ```
-!report username
-!report username (descripción de forma libre sigue)
+!report nombre de usuario
+!report nombre de usuario (a continuación se incluye una descripción de formato libre)
 ```
 
 Si hay espacios en el nombre de usuario, reemplácelos con guiones bajos:
 
 ```
-!report bad_user spamming in #osu
+!report bad_user spam en #osu
 ```
 
 ### Superposición en el juego
@@ -74,14 +74,14 @@ Esta opción funciona si el usuario infractor está a la vista:
 1. Debajo del comentario, haga clic en el enlace `reportar`.
 2. Seleccione la categoría y agregue detalles (opcional).
 
-### Beatmap
+### Mapa
 
 ![](img/report-beatmap.png "El botón de reporte en una página de beatmap")
 
 1. Pulse el botón con tres puntos verticales y seleccione `Reportar`.
 2. Seleccione la categoría y agregue detalles (opcional).
 
-### Discusión del beatmap
+### Discusión del mapa
 
 ![](img/report-user-discussion.png "El botón de reporte en una publicación de discusión")
 
@@ -98,7 +98,7 @@ Esta opción funciona si el usuario infractor está a la vista:
 2. En el lado derecho de la puntuación, presione el botón con tres puntos verticales y seleccione `Reportar puntuación`.
 3. Seleccione la categoría y agregue detalles (opcional).
 
-#### Listado de puntuaciones de beatmap
+#### Listado de puntuaciones de mapa
 
 ![](img/report-score-beatmap.png "El botón de reporte en una puntuación máxima en una lista de puntuaciones de un beatmap")
 
