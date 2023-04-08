@@ -7,7 +7,7 @@ tags:
   - osu! devs
 ---
 
-# Developers
+# Desarrolladores
 
 Los desarrolladores de osu! mantienen el juego y el sitio web funcionando corrigiendo errores y agregando nuevas funcionalidades. La mayoría de ellos son empleados de ppy Pty Ltd, la empresa propietaria de osu!. Forman la mayor parte del [osu! team](/wiki/People/osu!_team).
 
