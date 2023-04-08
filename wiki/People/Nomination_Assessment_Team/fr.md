@@ -105,8 +105,9 @@ La [page du groupe de la Nomination Assessment Team](https://osu.ppy.sh/groups/7
 | :-- | :-- | :-- |
 | ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | Allemand | Évaluateur |
 | ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | Ourdou, un peu d'arabe | Évaluateur |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Arabe, français, un peu d'italien | Évaluateur |
-| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | Évaluateur |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Arabe, français, un peu d'italien | Leader |
+| ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | Portugais | Évaluateur |
+| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | Leader |
 
 ### osu!catch
 

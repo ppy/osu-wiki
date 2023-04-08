@@ -1,4 +1,6 @@
 ---
+outdated_translation: true
+outdated_since: 686e804bdc97d569f7e06c72fd8b73a03b5d5235
 tags:
   - NAT
 ---
@@ -104,8 +106,9 @@ La [página del grupo Nomination Assessment Team](https://osu.ppy.sh/groups/7) e
 | :-- | :-- | :-- |
 | ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | Alemán | Evaluador |
 | ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | Urdu, algo de árabe | Evaluador |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Árabe, francés, algo de italiano | Evaluador |
-| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | Evaluador |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Árabe, francés, algo de italiano | Leader |
+| ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | Portugués | Evaluador |
+| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | Leader |
 
 ### osu!catch
 
