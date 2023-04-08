@@ -69,7 +69,7 @@ Si cualquier cosa que incluyas te hace sentir avergonzado, por favor déjalo en 
 
 Lo investigaremos tan pronto como podamos.
 
-## ¡Alguien que conozco está siendo abusado por un miembro de los equipos voluntarios (NAT, GMT), pero esta muy asustado para hablar al respecto!
+## ¡Alguien que conozco está siendo abusado por un miembro de los equipos voluntarios (NAT, GMT), pero está muy asustado para hablar al respecto!
 
 Envía un correo a [abuse@ppy.sh](mailto:abuse@ppy.sh) conteniendo todo lo que sabes con la mayor cantidad de evidencia que puedas obtener.
 
