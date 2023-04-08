@@ -1,44 +1,44 @@
-# Silence
+# Silencio
 
-**Silence** is a term used to describe the punishment of limiting a user's means of communication within the osu! community. Silences can be placed by members of the [Global Moderation Team](/wiki/People/Global_Moderation_Team) and [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team), and are only placed on users that have broken the [Community Rules](/wiki/Rules).
+**Silencio** es un término usado para describir el castigo de limitar los medios de comunicación de un usuario dentro de la comunidad de osu!. Los silencios pueden ser colocados por miembros del [Global Moderation Team](/wiki/People/Global_Moderation_Team) y el [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team), y solo se colocan en usuarios que han infringido las [Reglas de la comunidad](/wiki/Rules).
 
-## Limitations
-
-::: Infobox
-![](img/silence-profile.png "Silence record in the profile page")
-:::
-
-Users who are silenced by moderators cannot do the following:
-
-- Use [chat](/wiki/Client/Interface/Chat_console) (public and private), both in-game and on the website
-- Post on any of the osu! forums
-- Leave comments anywhere on the website (news, changelog, beatmaps)
-- Take part in [beatmap discussions](/wiki/Beatmap_discussion)
-- Edit profile details (e.g. avatar, "me!" section)
-- Submit and update beatmaps
-- Partake in [multiplayer](/wiki/Client/Interface/Multiplayer) games
-
-In addition to that, all messages of a silenced user are removed from all chat channels and private conversations.[^chat-cleanup]
+## Limitaciones
 
 ::: Infobox
-![](img/silence-ingame.png "Silence warning in the chat")
+![](img/silence-profile-ES.png "Registro del silencio en la página de perfil")
 :::
 
-After a user is silenced, an alert will be displayed in place of the chat input field, saying when the silence wears off. The silence record can also be observed at the bottom of the profile on the website, from which it will disappear after 28 days.
+Los usuarios silenciados por los moderadores no pueden hacer lo siguiente:
 
-## Appealing a silence
+- Usar el [chat](/wiki/Client/Interface/Chat_console) (público y privado), tanto en el juego como en el sitio web
+- Publicar en cualquiera de los foros de osu!
+- Dejar comentarios en cualquier lugar del sitio web (noticias, registro de cambios, beatmaps)
+- Participar en [discusiones de beatmap](/wiki/Beatmap_discussion)
+- Editar los detalles del perfil (por ejemplo, avatar, sección "¡yo!")
+- Enviar y actualizar beatmaps
+- Participar en juegos [multijugador](/wiki/Client/Interface/Multiplayer)
 
-If you believe you were silenced unfairly, contact the [account support team](/wiki/People/Account_support_team#accounts@ppy.sh) at [accounts@ppy.sh](mailto:accounts@ppy.sh) to contest the silence. Make sure to do it from the email linked to your osu! account; mention your osu! username, as well as the approximate date and time when the silence was handed out.
+Además de eso, todos los mensajes de un usuario silenciado se eliminan de todos los canales de chat y conversaciones privadas.[^chat-cleanup]
 
-## Common reasons for silences
+::: Infobox
+![](img/silence-ingame.png "Advertencia de silencio en el chat")
+:::
 
-*Caution: Engaging in "inappropriate behaviour" in private messages is not against the rules, unless said inappropriate behaviour is being delivered to unwilling or unconsenting recipients. If reported, appropriate punishments will be placed.*
+Después de silenciar a un usuario, se mostrará una alerta en lugar del campo de entrada de chat, que indicará cuándo desaparece el silencio. El registro del silencio también se puede observar en la parte inferior del perfil de la web, del que desaparecerá a los 28 días.
 
-- Inappropriate behaviour in public chats or forums (e.g, `#multiplayer`, beatmap discussions, comments, etc.), including — but not limited to — spamming, nonsense chat, racism, etc.
-- Uploading or posting inappropriate content via other means. (E.g., profile avatars, beatmap submissions, profile details, user page bio, banner, etc.).
+## Apelando un silencio
 
-The length of a silence may vary based on the severity of the infringement. Silences can stack on top of each other, adding more time for each one. Please note that if an offence is heavy enough, or if a player is a repeat offender, it may result in an [account restriction](/wiki/Help_centre/Account_restrictions) instead of a silence.
+Si cree que lo silenciaron injustamente, comuníquese con el [equipo de soporte de cuentas](/wiki/People/Account_support_team#accounts@ppy.sh) en [accounts@ppy.sh](mailto:accounts@ppy.sh) para impugnar el silencio. Asegúrate de hacerlo desde el correo electrónico vinculado a tu cuenta de osu!; menciona tu nombre de usuario de osu!, así como la fecha y hora aproximada en que se procedió al silencio.
 
-## References
+## Razones comunes para los silencios
 
-[^chat-cleanup]: [Blog post by ppy (2012-12-17) "This Week in osu!"](https://blog.ppy.sh/post/38114063519/this-week-in-osu-5)
+*Precaución: Participar en un "comportamiento inapropiado" en mensajes privados no está en contra de las reglas, a menos que dicho comportamiento inapropiado se entregue a destinatarios que no quieran o no consientan. Si se reporta, se impondrán las sanciones correspondientes.*
+
+- Comportamiento inapropiado en chats o foros públicos (por ejemplo, `#multiplayer`, discusiones de beatmap, comentarios, etc.), incluyendo  — pero no limitado a — spam, chat sin sentido, racismo, etc.
+- Subir o publicar contenido inapropiado a través de otros medios. (Por ejemplo, avatares de perfil, envío de beatmaps, detalles de perfil, biografía de la página de usuario, banner, etc.).
+
+La duración de un silencio puede variar según la gravedad de la infracción. Los silencios se pueden acumular uno encima del otro, agregando más tiempo para cada uno. Tenga en cuenta que si una ofensa es lo suficientemente grave, o si un jugador es reincidente, puede resultar en una [restricción de cuenta](/wiki/Help_centre/Account_restrictions) en lugar de un silencio.
+
+## Referencias
+
+[^chat-cleanup]: [Publicación de blog de ppy (2012-12-17) "This Week in osu!"](https://blog.ppy.sh/post/38114063519/this-week-in-osu-5)
