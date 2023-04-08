@@ -139,7 +139,7 @@ El **Concurso de mapeo comunitario** es un concurso de mapeo en el que los mapea
 
 El concurso **Lo mejor de/Elección de la comunidad** es un concurso de votación pública que se lleva a cabo anualmente para determinar los mapas más populares <!-- https://osu.ppy.sh/home/news/2021-02-05-community-choice-2020-results --> a los ojos de la comunidad de osu! en cada año dado.
 
-En su lanzamiento, el concurso fue nombrado "Mejor de", ya que la premisa inicial y la expectativa del concurso era animar a los miembros de la comunidad a votar por los que consideran "los mejores beatmaps del año"; sin embargo, a medida que la base de jugadores del juego siguió creciendo en número con el tiempo, el concurso inevitablemente se convirtió cada vez más en un concurso de popularidad cada año, lo que provocó que el concurso se relanzara como "Elección de la comunidad" en 2017.
+En su lanzamiento, el concurso fue nombrado "Mejor de", ya que la premisa inicial y la expectativa del concurso era animar a los miembros de la comunidad a votar por los que consideran "los mejores mapas del año"; sin embargo, a medida que la base de jugadores del juego siguió creciendo en número con el tiempo, el concurso inevitablemente se convirtió cada vez más en un concurso de popularidad cada año, lo que provocó que el concurso se relanzara como "Elección de la comunidad" en 2017.
 
 | Año | Modo | ![Gold crown][GCrown] (osu!) | ![Gold crown][GCrown] (osu!taiko) | ![Gold crown][GCrown] (osu!catch) | ![Gold crown][GCrown] (osu!mania) | Resultados |
 | :-: | :-: | :-- | :-- | :-- | :-- | :-- |
@@ -158,7 +158,7 @@ En su lanzamiento, el concurso fue nombrado "Mejor de", ya que la premisa inicia
 
 ### Concurso de Fan Art
 
-El **Concurso de Fan Art** es un concurso de dibujo donde los artistas participantes de la comunidad son desafiados a crear el mejor fan art para osu! involucrando [las mascotas de osu!](/wiki/Mascots) a través de varios temas y conceptos artísticos.
+El **Concurso de Fan Art** es un concurso de dibujo donde los artistas participantes de la comunidad son desafiados a crear el mejor fan art para osu! involucrando a [las mascotas de osu!](/wiki/Mascots) a través de varios temas y conceptos artísticos.
 
 | Concurso No. | Tema | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Resultados |
 | :-: | :-- | :-- | :-- | :-- | :-- |
@@ -193,7 +193,7 @@ El **Concurso de Fan Art** es un concurso de dibujo donde los artistas participa
 | [#29 (Halloween 2021)](https://osu.ppy.sh/home/news/2021-10-04-halloween-fanart-contest) | Halloween | ::{ flag=ID }:: [Dreamxiety](https://osu.ppy.sh/users/13103233) | ::{ flag=CA }:: [nyab](https://osu.ppy.sh/users/5738663) | ::{ flag=CZ }:: [eulorie](https://osu.ppy.sh/users/20349380) | [#1](https://osu.ppy.sh/home/news/2021-10-27-halloween-2021-fanart-results) | [#1](https://osu.ppy.sh/community/contests/135) |
 | [#30 (Invierno 2021)](https://osu.ppy.sh/home/news/2021-11-23-winter-fanart-contest) | Invierno | ::{ flag=RU }:: [Dem4eg-](https://osu.ppy.sh/users/7206818) | ::{ flag=ID }:: [Nimiru](https://osu.ppy.sh/users/11041959) | ::{ flag=CZ }:: [eulorie](https://osu.ppy.sh/users/20349380) | [#1](https://osu.ppy.sh/home/news/2021-12-17-winter-fanart-contest-results) | [#1](https://osu.ppy.sh/community/contests/136) |
 | [#31 (Primavera 2022)](https://osu.ppy.sh/home/news/2022-04-11-place-to-belong-fanart-contest) | Un lugar para pertenecer | ::{ flag=ID }:: [Dreamxiety](https://osu.ppy.sh/users/13103233) | ::{ flag=NL }:: [utaaa](https://osu.ppy.sh/users/9315038) | ::{ flag=US }:: [Llamartist](https://osu.ppy.sh/users/14697690) | [#1](https://osu.ppy.sh/home/news/2022-05-08-aptb-fanart-results) | [#1](https://osu.ppy.sh/community/contests/142) |
-| [#32 (Concurso de Arte del 15º Aniversario)](https://osu.ppy.sh/home/news/2022-08-15-15-anniversary-art-contest) | mascotas de osu! explorando parte de la historia de osu! | ::{ flag=ID }:: [Dreamxiety](https://osu.ppy.sh/users/13103233) | ::{ flag=HK }:: [illuminae2005](https://osu.ppy.sh/users/29866964) | ::{ flag=GB }:: [urgutz](https://osu.ppy.sh/users/11731553) | [#1](https://osu.ppy.sh/home/news/2022-09-15-anniversary-art-contest-results) | [#1](https://osu.ppy.sh/community/contests/153) |
+| [#32 (Concurso de Arte del 15º Aniversario)](https://osu.ppy.sh/home/news/2022-08-15-15-anniversary-art-contest) | Mascotas de osu! explorando parte de la historia de osu! | ::{ flag=ID }:: [Dreamxiety](https://osu.ppy.sh/users/13103233) | ::{ flag=HK }:: [illuminae2005](https://osu.ppy.sh/users/29866964) | ::{ flag=GB }:: [urgutz](https://osu.ppy.sh/users/11731553) | [#1](https://osu.ppy.sh/home/news/2022-09-15-anniversary-art-contest-results) | [#1](https://osu.ppy.sh/community/contests/153) |
 
 ### Concurso de Planos de Mapas de osu!
 
