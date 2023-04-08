@@ -27,7 +27,7 @@ El Global Moderation Team es responsable del bienestar del chat y del foro, y se
 - problemas con el chat (por ejemplo, silencios o acoso)
 - conducta inapropiada en el foro (por ejemplo, comentarios inapropiados)
 - la sección de comentarios y discusiones de beatmaps
-- moderación del perfil de usuario (contenido NSFW o ofensivo en avatares, portada de perfil o detalles, ...)
+- moderación del perfil de usuario (contenido NSFW u ofensivo en avatares, portada de perfil o detalles, ...)
 
 ## Convertirse en moderador
 
