@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: CHON"
-date: 2023-04-09 19:00:00 +0000
+date: 2023-04-09 18:00:00 +0000
 ---
 
 Learn a thing or two from legendary math rock band **CHON**, our latest Featured Artist!
