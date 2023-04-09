@@ -6,13 +6,13 @@ no_native_review: true
 
 **Ranking Criteria Council** 是在 2016 年由玩家組成的群組，目標為重新修訂[審核標準](/wiki/Ranking_Criteria)。
 
-許多 [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) (*QAT*) 審譜的規定在當時都是不成文的，且沒有模式專屬的標準，導致圖譜一直無法過審，使社群感到不合理。故 Ranking Criteria Council 盼能平息這一切。
+許多 [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) (*QAT*) 審譜的規定在當時都是不成文的，且沒有模式專屬的標準，導致圖譜一直無法過審，使社群感到不合理。故 Ranking Criteria Council 盼能平息這一切。
 
 這項計畫使[審核標準子版](https://osu.ppy.sh/community/forums/87)停止對外開放，只有委員會中的成員能夠貼文。委員會的成員計畫討論製譜的各個部分，並發起他們自己的審核標準提案。
 
 ## 起始成員
 
-Ranking Criteria Council 的成員都經過篩選，需代表不同地區的玩家和譜師。與 [Triumvir Conglomerate](/wiki/Modding/BAT_Managers#triumvir-conglomerate) 的成員組成類似。
+Ranking Criteria Council 的成員都經過篩選，需代表不同地區的玩家和譜師。與 [Triumvir Conglomerate](/wiki/People/Beatmap_Appreciation_Team/BAT_Managers#triumvir-conglomerate) 的成員組成類似。
 
 ### osu! 成員
 

@@ -44,7 +44,7 @@ Si vous manquez un juice drop, le combo sera réinitialisé (car il s'agit d'un 
 
 Ici, de grandes bananes vont pleuvoir et rétrécir jusqu'à ce qu'elles tombent dans l'assiette (ou pas). Chaque banane collectée donne un score fixe de 1100 points, indépendamment du mod et du multiplicateur de combo.
 
-Les bananes peuvent être ignorées sans perdre de vie. Cependant, cela peut coûter les points et la récupération de santé bonus que peuvent donner les bananes. En particulier, le mod [Auto](/wiki/Game_modifier/Auto) se surpasse pour attraper *toutes* les bananes sans faute.
+Les bananes peuvent être ignorées sans perdre de vie. Cependant, cela peut coûter les points et la récupération de santé bonus que peuvent donner les bananes. En particulier, le mod [Auto](/wiki/Gameplay/Game_modifier/Auto) se surpasse pour attraper *toutes* les bananes sans faute.
 
 #### Hyperfruits
 
@@ -56,7 +56,7 @@ En ramassant l'hyperfruit, le catcher verra sa vitesse passer à *hyperdash* (ju
 
 ## Styles de jeu
 
-*Voir la page [styles de jeu sous osu!catch](/wiki/Play_style#osu!catch).*
+*Voir la page [styles de jeu sous osu!catch](/wiki/Gameplay/Play_style#osu!catch).*
 
 ## Contrôles
 
@@ -68,11 +68,11 @@ En ramassant l'hyperfruit, le catcher verra sa vitesse passer à *hyperdash* (ju
 - Appuyez et maintenez la touche `leftShift`(D) avec l'une des touches fléchées pour que le catcher *dash* dans cette direction à une vitesse de x2.0 (indiqué par une **lueur vive** du catcher).
   - Vous pouvez également appuyer sur le bouton Left Click(D) de la souris et le maintenir enfoncé pour déclencher le dash.
 
-Le placement du curseur dans le jeu n'a pas d'importance lorsque vous jouez normalement. Si le mod [Relax](/wiki/Game_modifier/Relax) a été activé, le contrôle du catcher sera le curseur du jeu à la place. Cependant, le score ne sera pas ajouté aux classements lorsque le mod Relax est activé (car cela va à l'encontre du seul défi d'osu!catch : la vitesse fixe du catcher et le contrôle du plateau du catcher).
+Le placement du curseur dans le jeu n'a pas d'importance lorsque vous jouez normalement. Si le mod [Relax](/wiki/Gameplay/Game_modifier/Relax) a été activé, le contrôle du catcher sera le curseur du jeu à la place. Cependant, le score ne sera pas ajouté aux classements lorsque le mod Relax est activé (car cela va à l'encontre du seul défi d'osu!catch : la vitesse fixe du catcher et le contrôle du plateau du catcher).
 
 ## Notation
 
-Le [score dans osu!catch](/wiki/Gameplay/Score/osu!catch) est une somme pondérée de plusieurs composantes du gameplay. Il dépend des éléments suivants :
+Le [score dans osu!catch](/wiki/Gameplay/Score/ScoreV1/osu!catch) est une somme pondérée de plusieurs composantes du gameplay. Il dépend des éléments suivants :
 
 - Le [jugement](/wiki/Gameplay/Judgement/osu!catch) ne fournit que des valeurs de score fixes pour chaque objet attrapé et ne dépend pas de la précision.
 - Le [combo](/wiki/Gameplay/Combo_(score_multiplier)) est un multiplicateur de score : attraper un objet contribue davantage au score total lorsque le combo est élevé et vice versa. Dans osu!catch, le combo peut être [cassé](/wiki/Gameplay/Judgement/Combobreak) en réalisant un miss sur un large fruit ou un drop, ce qui diminue également la [vie](/wiki/Gameplay/Health).
@@ -99,12 +99,12 @@ Après avoir terminé une beatmap, le score se voit attribuer une [note](/wiki/G
 
 ### Gameplay
 
-- [Auto](/wiki/Game_modifier/Auto) collectera *toujours* toutes les bananes.
+- [Auto](/wiki/Gameplay/Game_modifier/Auto) collectera *toujours* toutes les bananes.
 - Si `Hit-error` a été activé, il utilisera toujours `Colour`.
 - Le catcher peut être déplacé pendant les breaks.
 - L'attrapeur a une animation Miss, un peu comme l'animation Miss de pippidon dans osu!taiko.
 - Le premier catcher par défaut était une version chibifiée de Ryuuta Ippongi (de la série [Ouendan](https://fr.wikipedia.org/wiki/Osu!_Tatakae!_%C5%8Cendan)) jusqu'en 2014, qui a été remplacé par le catcher et la mascotte actuels, [Yuzu](/wiki/Mascots#yuzu).
-- Lorsque le mod [Auto](/wiki/Game_modifier/Auto) est activé, le nom du joueur sera *salad!*.
+- Lorsque le mod [Auto](/wiki/Gameplay/Game_modifier/Auto) est activé, le nom du joueur sera *salad!*.
 
 ### Histoire
 

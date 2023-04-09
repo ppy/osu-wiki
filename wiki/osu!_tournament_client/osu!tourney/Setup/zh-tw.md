@@ -31,7 +31,7 @@ acronym = OWC
 - `TeamSize`：每隊的玩家數。osu!tourney 將依此數值為兩隊開啟窗口。最大值為 8。
 - `ClientNameSize`：玩家名稱大小。
 - `privateserver`：請勿更動。
-- `acronym`：比賽的縮寫。將影響比賽房間的命名方式。查看[多人遊戲使用指南](/wiki/osu!tourney/Multiplayer_usage)以了解更多資訊。
+- `acronym`：比賽的縮寫。將影響比賽房間的命名方式。查看[多人遊戲使用指南](/wiki/osu!_tournament_client/osu!tourney/Multiplayer_usage)以了解更多資訊。
 - `BufferTimeoutTime`：客戶端願意等待玩家緩衝的時間，若超過時間，將跳過該玩家，繼續播放。
   - 不建議更動。
 - `BufferTotalTime`：客戶端緩衝的時間，以降低暫停等待緩衝的頻率。將產生 osu!tourney 與玩家間的延遲。

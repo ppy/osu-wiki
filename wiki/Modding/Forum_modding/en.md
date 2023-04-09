@@ -15,12 +15,12 @@ In the forum modding system, every beatmap had a forum thread for communication 
 
 ## Beatmap thread
 
-A forum thread was created for a beatmap during its initial [submission](/wiki/Submission) and contained free-form comments, guest difficulty interactions, and structured feedback in form of mod posts. It served as the main hub for discussion between all users interested in the beatmap: regular players, the [beatmap host](/wiki/Beatmap/Beatmap_host), [guest mappers](/wiki/Beatmap/Guest_difficulty), [modders](/wiki/Modding/Modder), and members of these beatmap ranking teams:
+A forum thread was created for a beatmap during its initial [submission](/wiki/Beatmapping/Beatmap_submission) and contained free-form comments, guest difficulty interactions, and structured feedback in form of mod posts. It served as the main hub for discussion between all users interested in the beatmap: regular players, the [beatmap host](/wiki/Beatmap/Beatmap_host), [guest mappers](/wiki/Beatmap/Guest_difficulty), [modders](/wiki/Modding/Modder), and members of these beatmap ranking teams:
 
-- [Beatmap Appreciation Team](/wiki/Modding/Beatmap_Appreciation_Team) (*BAT*)
-- [Mapping Assistance Team](/wiki/Modding/Mapping_Assistance_Team) (*MAT*)
-- [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) (*QAT*)
-- [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BN*)
+- [Beatmap Appreciation Team](/wiki/People/Beatmap_Appreciation_Team) (*BAT*)
+- [Mapping Assistance Team](/wiki/People/Mapping_Assistance_Team) (*MAT*)
+- [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) (*QAT*)
+- [Beatmap Nominators](/wiki/People/Beatmap_Nominators) (*BN*)
 
 A forum thread was automatically moved between different forum sections loosely tied to the [beatmap categories](/wiki/Beatmap/Category):
 
@@ -64,7 +64,7 @@ The beatmap's progress in the ranking procedure was shown through posts made by 
 Unlike in [beatmap discussions](/wiki/Beatmap_discussion), a typical forum mod post covered the whole beatmap and could contain a lot of content. While users were free to express their thoughts in any form they wished, the majority of modders adhered to a specific structure to make their posts more readable:
 
 - There were several sections corresponding to single difficulties and a list of beatmap-wide settings/issues.
-- Each section contained a list of [timestamps](/wiki/Modding/Timestamp), often pointing to specific [hit objects](/wiki/Hit_object).
+- Each section contained a list of [timestamps](/wiki/Modding/Timestamp), often pointing to specific [hit objects](/wiki/Gameplay/Hit_object).
 - Each timestamp was followed by a short description of the issue, sometimes with screenshots to further clarify a concern.
 - Based on the severity of the issue, some modders used [colour coding](/wiki/BBCode#colour) in their post to highlight unrankable issues or key points.
 
@@ -97,7 +97,7 @@ In the forum-based modding system, a lot of actions were manual, which often led
 - Mods could be partially or completely ignored, intentionally or not.
 - Maps could be ranked with unrankable issues, or without the approval of mode-specific nominator(s).
 
-The changes required to address most common issues were initiated on [April 26, 2013](https://osu.ppy.sh/community/forums/topics/129625), when [peppy](/wiki/People/peppy) presented the idea of the [new modding system](/wiki/Beatmap_discussion) (later known as *Modding v2*). On [August 21, 2014](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat), a new category, [Qualified](/wiki/Beatmap/Category#qualified), was added. Qualified would serve as a buffer between pending and ranked beatmaps and allow for more smooth unranks. In addition to that, a new team, [Quality Assurance Team](/wiki/Modding/Quality_Assurance_Team) (*QAT*), was assembled to check qualified beatmaps and control the ranking process.
+The changes required to address most common issues were initiated on [April 26, 2013](https://osu.ppy.sh/community/forums/topics/129625), when [peppy](/wiki/People/peppy) presented the idea of the [new modding system](/wiki/Beatmap_discussion) (later known as *Modding v2*). On [August 21, 2014](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat), a new category, [Qualified](/wiki/Beatmap/Category#qualified), was added. Qualified would serve as a buffer between pending and ranked beatmaps and allow for more smooth unranks. In addition to that, a new team, [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) (*QAT*), was assembled to check qualified beatmaps and control the ranking process.
 
 Afterwards, the beatmap discussion system and the [code of conduct for modding and mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping#making-a-mod-post) were developed and made available to restructure modding and make it a more enjoyable experience for everyone involved:
 

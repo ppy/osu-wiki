@@ -19,7 +19,7 @@ Links:
 On 2012-10-08, osu!mania was finally released to the public build ([woc2006](https://osu.ppy.sh/users/1105845))! In addition to this:
 
 - Per-object hitsounds were added in the editor. ([mm201](https://osu.ppy.sh/users/30655))
-- Allow recovery from failing in [multiplayer](/wiki/Client/Interface/Multiplayer) by reaching full HP. (Exception if [Sudden Death](/wiki/Game_modifier/Sudden_Death) or [Perfect](/wiki/Game_modifier/Perfect) mod was enabled)
+- Allow recovery from failing in [multiplayer](/wiki/Client/Interface/Multiplayer) by reaching full HP. (Exception if [Sudden Death](/wiki/Gameplay/Game_modifier/Sudden_Death) or [Perfect](/wiki/Gameplay/Game_modifier/Perfect) mod was enabled)
 - Scrolling support to in-game online ranking list.
 - Fixes on [skin selector](/wiki/Client/Options#skin) to make it play more realistically.
 

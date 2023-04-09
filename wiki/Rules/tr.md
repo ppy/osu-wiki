@@ -26,7 +26,7 @@ Aşağıdaki kurallar osu!’nun herkes için eğlenceli bir ortam olarak kalmas
 6. **İnsanlarla neler paylaştığınızın farkında olun, özellikle içerik rahatsız edici/mide bulandırıcıysa.** Eğer paylaşacağınız içeriğin uygun olup olmadığı hakkında iki defa düşünmeniz gerektiyse muhtemelen içeriğiniz paylaşmaya uygun değildir. Çok hızlı yanıp sönen ışık, şiddet, istismar gibi rahatsız edici veya mide bulandıran içerikleri paylaşmaktan kaçının.
 7. **Konuyla alakalı ve yasal linkler paylaşın.** Kaçak dizi/anime paylaşım siteleri (Crunchyroll ve Animelab gibi lisanslı olanlar uygun) veya her türlü korsan yazılımla alakalı siteleri sohbetimizde görmek istemiyoruz. osu! dışında oyunlar için Twitch linklerini YALNIZCA `#videogames` kanalında paylaşabilirsiniz.
 8. **Discord, Teamspeak, Skype gibi üçüncü parti sohbet uygulamalarındaki sunucularınızın veya gruplarınızın reklamını yapmayın.** osu! sohbeti kişisel sunucularınız değil osu! ile ilgilidir. Eğer mecbursanız özel mesaj atın.
-9. **Eğer dile özel kanallarda sohbete katılacaksanız baskın dili (`#english` için İngilizce, `#thai` için Tay dili, vs.) konuşmak zorundasınız.** Kanalın dili açık bir şekilde belirtilmemişse dominant dil İngilizcedir. Diğer kanalların aksine, `#lobby` ve `#help` kanallarında her dil konuşulabilir. *[Moderasyon yetkilileri](/wiki/People/The_Team/Global_Moderation_Team) işlerini yaparken bu kurala uymak zorunda değillerdir.*
+9. **Eğer dile özel kanallarda sohbete katılacaksanız baskın dili (`#english` için İngilizce, `#thai` için Tay dili, vs.) konuşmak zorundasınız.** Kanalın dili açık bir şekilde belirtilmemişse dominant dil İngilizcedir. Diğer kanalların aksine, `#lobby` ve `#help` kanallarında her dil konuşulabilir. *[Moderasyon yetkilileri](/wiki/People/Global_Moderation_Team) işlerini yaparken bu kurala uymak zorunda değillerdir.*
 
 ## Forum kuralları
 
@@ -42,7 +42,7 @@ Aşağıdaki kurallar osu!’nun herkes için eğlenceli bir ortam olarak kalmas
 
 *Not: Bu kurallar yalnızca Dereceli olanlar için değil, **gönderilen bütün mapler** için geçerlidir. Dereceli beatmapler için geçerli olan daha spesifik kurallar için, [Derecelendirme Kriterlerine](/wiki/Ranking_Criteria) bakınız.*
 
-Yalnızca oyun içerisinde bulunan [Beatmap Gönderme Sistemi](/wiki/Submission) üzerinden gönderilen beatmapler bu kurala tabiidir. Bu konu başlıkları/tartışmalar [düzenleyici](/wiki/Client/Beatmap_editor) üzerinden gönderildiğinde osu! istemcisi tarafından oluşturulur.
+Yalnızca oyun içerisinde bulunan [Beatmap Gönderme Sistemi](/wiki/Beatmapping/Beatmap_submission) üzerinden gönderilen beatmapler bu kurala tabiidir. Bu konu başlıkları/tartışmalar [düzenleyici](/wiki/Client/Beatmap_editor) üzerinden gönderildiğinde osu! istemcisi tarafından oluşturulur.
 
 1. **Beatmapinizde bulunan her türlü içeriği kullanmak için izniniz olduğuna emin olun.** Bu, müzik, video, vuruş sesleri, grafikler ve sizin yaratmadığınız her türlü içeriği de kapsar. Eğer kullanımı serbest bir içeriği nereden bulacağınızdan emin değilseniz, %100 osu!'da kullanım için lisanslı olan müzikler için gittikçe büyüyen [Featured Artist](https://osu.ppy.sh/beatmaps/artists) kütüphanemize ve daha fazla bilgi için [İçerik Kullanım Yönergelerine](Content_Usage_Guidelines) göz atabilirsiniz.
 2. **Beatmap tartışmalarında konu dışına çıkmayın.** Bu konu başlıklarının ilgili beatmap haricinde herhangi bir konuyla ilişiği yoktur. Eğer ilgili beatmap ile doğrudan bir probleminiz yoksa, uygun bir forumda bunu paylaşarak sorununuzu dile getirin.

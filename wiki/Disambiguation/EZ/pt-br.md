@@ -2,7 +2,7 @@
 
 **EZ** pode ter vários significados:
 
-- O [modificador de jogo Easy](/wiki/Game_modifier/Easy).
+- O [modificador de jogo Easy](/wiki/Gameplay/Game_modifier/Easy).
 - A dificuldade de um beatmap:
   - ![](/wiki/shared/diff/easy-m.png?20211215) EZ, para osu!mania.
   - ![](/wiki/shared/diff/easy-o.png?20211215) Easy, para osu!.

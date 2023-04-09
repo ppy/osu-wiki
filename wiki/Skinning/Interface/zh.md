@@ -188,7 +188,7 @@
 
 ## 模组图标
 
-*主页面： [游戏模组](/wiki/Game_modifier)*
+*主页面： [游戏模组](/wiki/Gameplay/Game_modifier)*
 
 ---
 

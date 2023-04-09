@@ -82,7 +82,7 @@ osu!Bancho는 일반적인 텍스트 인증을 사용합니다 — IRC 클라이
 IRC 표준에는 모든 사용자가 할 수 있는 작업 또는 채널 모드라는 개념이 있습니다. osu!Bancho에서는, 채팅 유저들을 대상으로 2개의 특별 그룹이 존재합니다:
 
 - `+`, 또는 "음성채팅 상태": 외부 IRC 클라이언트를 통해 접속한 유저
-- `@`, 또는 "채팅 운영자 상태": 챗 모더레이터 ([GMT](/wiki/People/The_Team/Global_Moderation_Team) 또는 [NAT](/wiki/People/The_Team/Nomination_Assessment_Team))
+- `@`, 또는 "채팅 운영자 상태": 챗 모더레이터 ([GMT](/wiki/People/Global_Moderation_Team) 또는 [NAT](/wiki/People/Nomination_Assessment_Team))
 
 osu! 게임 클라이언트 또는 웹사이트를 통해 접속한 유저는 닉네임 앞에 아무것도 붙지 않습니다.
 

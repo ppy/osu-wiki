@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 3e747e2c31e5baabc871781b9987251ebc6da964
----
-
 # osu! wiki
 
 **osu! wiki** adalah basis pengetahuan sumber terbuka yang ditulis dan dikelola oleh [kontributor sukarelawan](https://github.com/ppy/osu-wiki/graphs/contributors). osu! wiki berisi berbagai informasi tentang topik yang terkait dengan osu!, komunitasnya, dan aktivitas serta konsep terkait. Wiki berfungsi sebagai sumber informasi resmi dan sebagai dokumentasi sejarah osu!.
@@ -28,7 +23,7 @@ Terjemahan dalam bahasa yang berbeda tersedia untuk beberapa artikel. Terjemahah
 
 ## Model
 
-osu! wiki dibangun berdasarkan konsep aksesibilitas: pengeditan dan terjemahan dianjurkan dan dapat dilakukan oleh siapa saja yang mampu dan berpengetahuan. Data untuk artikel disimpan di [repositori GitHub](https://github.com/ppy/osu-wiki) dan diperbarui oleh kontributor melalui [*pull request*](/wiki/osu!_wiki/Contribution_guide), yang kemudian ditinjau dan di-*merge* oleh [pengelola wiki](/wiki/osu!_wiki/Maintenance/List_of_maintainers).
+osu! wiki dibangun berdasarkan konsep aksesibilitas: pengeditan dan terjemahan dianjurkan dan dapat dilakukan oleh siapa saja yang mampu dan berpengetahuan. Data untuk artikel disimpan di [repositori GitHub](https://github.com/ppy/osu-wiki) dan diperbarui oleh kontributor melalui [*pull request*](/wiki/osu!_wiki/Contribution_guide), yang kemudian ditinjau dan di-*merge* oleh [pengelola wiki](/wiki/People/osu!_wiki_maintainers).
 
 Artikel diformat menggunakan [*GitHub-flavoured Markdown*](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/). Selain itu, mesin situs web mengimplementasikan fitur khusus yang penting untuk wiki secara keseluruhan, seperti pengalihan, halaman pertama, atau perbaikan pemformatan.
 
@@ -36,11 +31,11 @@ Artikel disusun menurut [kriteria gaya artikel](/wiki/Article_styling_criteria) 
 
 Meskipun memiliki akhiran *wiki* dalam namanya, osu! wiki tidak sepenuhnya memenuhi [konsep Wiki](https://id.wikipedia.org/wiki/Wiki):
 
-- Pengguna didorong untuk meningkatkan artikel yang ada dan membuat yang baru, tetapi pengguna diharapkan memiliki pengetahuan dasar tentang [GitHub](https://github.com), yang meningkatkan ambang batas yang diperlukan untuk masuk.
+- Peningkatan artikel yang ada dan pembuatan yang baru adalah dianjurkan, tetapi pengetahuan dasar tentang [GitHub](https://github.com) dibutuhkan untuk dapat berkontribusi, yang meningkatkan ambang batas yang diperlukan untuk masuk. osu! wiki tetapi telah menyediakan sebuah [panduan kontribusi](/wiki/osu!_wiki/Contribution_guide) untuk membantu kontributor baru agar dapat mulai berkontribusi.
 - Semua perubahan pada osu! wiki telah dimoderasi sebelumnya dan menjalani proses peninjauan, di mana seorang kontributor diharapkan untuk berkolaborasi dengan pengelola wiki dan menanggapi umpan balik.
 
 ## Lisensi
 
-Sebagian besar konten di osu! wiki dilisensikan di bawah [CC-BY-NC 4.0](https://github.com/ppy/osu-wiki/blob/master/LICENCE.md). Ini berarti bahwa secara umum, materi wiki dapat digunakan secara non-komersial (lihat [ringkasan lisensi](https://tldrlegal.com/license/creative-commons-attribution-noncommercial-4.0-international-(cc-by-nc-4.0))). Beberapa konten mungkin dicakup oleh lisensi pihak ketiga yang berbeda, yang kemudian akan dikutip secara lokal dan menggantikan lisensi global.
+Sebagian besar konten di osu! wiki dilisensikan di bawah [CC-BY-NC 4.0](https://github.com/ppy/osu-wiki/blob/master/LICENCE.md). Ini berarti bahwa secara umum, materi wiki dapat digunakan secara non-komersial (lihat [ringkasan lisensi](https://creativecommons.org/licenses/by-nc/4.0/deed.id)). Beberapa konten mungkin dicakup oleh lisensi pihak ketiga yang berbeda, yang kemudian akan dikutip secara lokal dan menggantikan lisensi global.
 
 Harap dicatat bahwa ini tidak mencakup penggunaan "osu!" atau merek "ppy" dalam perangkat lunak, sumber daya, iklan, atau promosi apa pun, karena hal ini dilindungi oleh undang-undang merek dagang. Jika kamu memerlukan izin untuk penggunaan persyaratan ini, silakan [hubungi kami](mailto:contact@ppy.sh).

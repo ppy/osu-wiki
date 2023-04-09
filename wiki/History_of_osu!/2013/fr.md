@@ -19,7 +19,7 @@ La commande `!faq` de BanchoBot est ouverte au public depuis [traduction](https:
 
 osu!mania supporte désormais le retournement vertical (à l'envers), ce qui rend le gameplay similaire à celui de DDR/o2jam. Le skinning prend désormais en charge les sprites à double résolution lorsque la largeur de la fenêtre est supérieure à 1600 pixels. Pour ajouter le support à un skin, ajoutez des images avec le double de la largeur/hauteur contenant le suffixe `@2x` devant l'extension du fichier (ex : `cursor@2x.png`).
 
-Un support de classement pour les mods [Hidden](/wiki/Game_modifier/Hidden) et [FadeIn](/wiki/Game_modifier/Fade_In) dans osu!mania et enfin, moins de limitations d'écran large dans l'éditeur quand il s'agit du placement et de la sélection.
+Un support de classement pour les mods [Hidden](/wiki/Gameplay/Game_modifier/Hidden) et [FadeIn](/wiki/Gameplay/Game_modifier/Fade_In) dans osu!mania et enfin, moins de limitations d'écran large dans l'éditeur quand il s'agit du placement et de la sélection.
 
 Liens :
 
@@ -30,7 +30,7 @@ Liens :
 
 ## Mars
 
-osu! a bénéficié d'une refonte complète de l'IU (interface utilisateur) ! Le mode de jeu osu! a reçu un nouveau symbole leitmotiv (auparavant, c'était un cercle avec "osu!", c'est maintenant un cercle avec un "1"). Les boutons de l'éditeur ont été mis à jour. Le mode spécial a été combiné avec le menu de sélection des beatmaps (nommé sous "Mods"), permettant aux joueurs de changer de mode plus rapidement et sans problème. Tous les boutons des [modificateurs de jeu](/wiki/Game_modifier) ont reçu leurs images respectives. L'écran des résultats affiche désormais l'image d'arrière-plan de la beatmap plutôt que celle du skin de l'utilisateur.
+osu! a bénéficié d'une refonte complète de l'IU (interface utilisateur) ! Le mode de jeu osu! a reçu un nouveau symbole leitmotiv (auparavant, c'était un cercle avec "osu!", c'est maintenant un cercle avec un "1"). Les boutons de l'éditeur ont été mis à jour. Le mode spécial a été combiné avec le menu de sélection des beatmaps (nommé sous "Mods"), permettant aux joueurs de changer de mode plus rapidement et sans problème. Tous les boutons des [modificateurs de jeu](/wiki/Gameplay/Game_modifier) ont reçu leurs images respectives. L'écran des résultats affiche désormais l'image d'arrière-plan de la beatmap plutôt que celle du skin de l'utilisateur.
 
 Le Hit-Offset peut maintenant être connu en survolant la précision à partir de l'écran des résultats. Notez qu'il disparaîtra et ne pourra pas être sauvegardé. Les résultats en ligne sont maintenant cachés sous l'écran des résultats plutôt que de vous forcer à les voir. Vous pouvez faire défiler l'écran pour le voir ou vous pouvez simplement cliquer sur le bouton et vous serez dirigé vers l'écran des résultats en ligne.
 
@@ -51,7 +51,7 @@ Liens :
 
 Les mises à jour de ce mois-ci consistaient principalement à corriger la mise à jour majeure précédente, mais cela ne signifie pas que c'était la fin ! Tout d'abord, l'implémentation initiale de la prise en charge des "Collections" qui remplaceront les "Favoris A/B" de longue date, ce qui permettra aux joueurs de regrouper leurs beatmaps préférés dans une "Collection" et de les partager avec d'autres en transférant les "Collections" plutôt que les "Favoris A/B".
 
-Les modes de jeu peuvent maintenant être facilement changés lors de la sélection des beatmaps en utilisant `Ctrl` + `1`, `2`, `3`, ou `4`. Un nouveau modificateur de jeu a été ajouté spécialement pour osu!mania, [Random](/wiki/Game_modifier/Random). Des ajustements ont été apportés au comportement du bouton `Quick Join` du multijoueur pour vous diriger vers une salle en fonction de votre moyenne de pp par rapport à l'écart de pp de la salle.
+Les modes de jeu peuvent maintenant être facilement changés lors de la sélection des beatmaps en utilisant `Ctrl` + `1`, `2`, `3`, ou `4`. Un nouveau modificateur de jeu a été ajouté spécialement pour osu!mania, [Random](/wiki/Gameplay/Game_modifier/Random). Des ajustements ont été apportés au comportement du bouton `Quick Join` du multijoueur pour vous diriger vers une salle en fonction de votre moyenne de pp par rapport à l'écart de pp de la salle.
 
 Pour les replays des beatmaps, le commentaire stale-standing a été remplacé par le style de commentaire mobile [nico-style](https://fr.wikipedia.org/wiki/Niconico) et la couleur du commentaire peut maintenant être personnalisée (pour les osu!supporter uniquement).
 
