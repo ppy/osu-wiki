@@ -22,7 +22,7 @@ See what's in store below, including [a new way to share your Featured Artist ma
 
 ### CHON - Dew
 
-Try [the map that debuted **CHON** as a Featured Artist](LINK) in [TWC 2023](/wiki/Tournaments/TWC/2023) hosted by [Jaye](https://osu.ppy.sh/users/4841352)!
+Try [the map that debuted **CHON** as a Featured Artist](https://osu.ppy.sh/beatmapsets/1972526#taiko/4093096) in [TWC 2023](/wiki/Tournaments/TWC/2023) hosted by [Jaye](https://osu.ppy.sh/users/4841352)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/354/Newborn%20Sun%2FCHON%20-%20Dew.mp3">
