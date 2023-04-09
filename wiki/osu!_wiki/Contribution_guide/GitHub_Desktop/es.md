@@ -23,7 +23,7 @@
 
 5. Continua a [Ramifición](#ramifición).
 
-## Ramifición
+## Ramificación
 
 Si bien la ramificación es técnicamente opcional, es [muy recomendable por un par de razones](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow). Por nombrar algunas:
 
