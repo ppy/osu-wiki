@@ -1,46 +1,44 @@
 ---
-outdated_since: e6d2ac5ef1b2877f5cddc5dd041f7b9c4511ed82
-outdated_translation: true
 tags:
   - BN
   - BNG
 ---
 
-# Beatmap Nominators
+# Beatmap Nominator
 
 *Lihat juga: [Peraturan Beatmap Nominator](Rules), [Ekspektasi bagi Beatmap Nominator](Expectations), [Informasi umum seputar Beatmap Nominator](General_Information), dan [Menjadi seorang Beatmap Nominator](Becoming_a_Beatmap_Nominator)*
 
-**Beatmap Nominator** (***BN***) merupakan kelompok pengguna (*user group*) yang bertanggung jawab untuk [menominasikan beatmap](/wiki/Beatmap_ranking_procedure). Para anggota Beatmap Nominator dapat dikenali melalui nama pengguna mereka yang berwarna ungu pada laman forum dan [diskusi beatmap](/wiki/Beatmap_discussion).
+**Beatmap Nominator** (***BN***) merupakan kelompok pengguna yang bertanggung jawab untuk [menominasikan beatmap](/wiki/Beatmap_ranking_procedure). Para anggota Beatmap Nominator dapat dikenali melalui nama pengguna mereka yang berwarna ungu pada forum dan [laman diskusi beatmap](/wiki/Beatmap_discussion).
 
 ## Peran dan tanggung jawab
 
-Para anggota Beatmap Nominator bertanggung jawab untuk mengecek kelayakan [beatmap yang berstatus Pending](/wiki/Beatmap/Category#work-in-progress-dan-pending) melalui proses [modding](/wiki/Modding). Mereka juga merupakan tempat bertanya bagi para mapper yang membutuhkan arahan seputar segala hal yang berhubungan dengan mapping atau modding. Masing-masing Beatmap Nominator dapat menempatkan [veto](Beatmap_Veto) pada beatmap yang telah dinominasikan sebelumnya apabila mereka merasa bahwa beatmap tersebut memiliki masalah di luar Ranking Criteria yang harus diperbaiki.
+Para anggota Beatmap Nominator bertanggung jawab untuk menguji kelayakan [beatmap yang berstatus Pending](/wiki/Beatmap/Category#work-in-progress-dan-pending) melalui proses [modding](/wiki/Modding). Mereka juga merupakan tempat bertanya bagi mereka yang membutuhkan arahan seputar mapping atau modding. Masing-masing Beatmap Nominator dapat menempatkan [veto](Beatmap_Veto) pada beatmap yang telah dinominasikan sebelumnya apabila mereka merasa bahwa beatmap tersebut memiliki masalah di luar Ranking Criteria yang harus diperbaiki.
 
-Di samping itu, seluruh anggota Beatmap Nominator diharapkan untuk dapat selalu melayani komunitas secara bijak dalam berbagai situasi, antara lain dengan mengecek berbagai beatmap yang ada tanpa mengesampingkan mapper atau jenis beatmap tertentu serta terus berusaha untuk meningkatkan keahlian mereka sebagaimana yang diuraikan dalam [artikel Ekspektasi bagi Beatmap Nominator](Expectations).
+Di balik peran yang mereka miliki, para anggota Beatmap Nominator dituntut untuk dapat selalu melayani komunitas secara bijak dalam berbagai situasi. Mereka juga diharapkan untuk dapat memeriksa berbagai beatmap yang ada tanpa mengesampingkan mapper atau jenis beatmap tertentu serta untuk terus meningkatkan keahlian mereka sebagaimana yang tertera pada [artikel Ekspektasi bagi Beatmap Nominator](Expectations).
 
-Berdasarkan status keanggotaannya, para anggota Beatmap Nominator dibagi menjadi dua kelompok yakni Full Beatmap Nominator (Full BN) dan Probationary Beatmap Nominator (Probationary BN).
+Berdasarkan status keanggotaannya, para anggota Beatmap Nominator dibagi menjadi dua kelompok, yakni Full Beatmap Nominator (Full BN, *anggota penuh*) dan Probationary Beatmap Nominator (Probationary BN, *anggota percobaan*).
 
 ### Full Beatmap Nominator
 
-Full Beatmap Nominator (Full BN) merupakan para anggota Beatmap Nominator yang memiliki kuasa penuh akan seluruh hak BN. Di samping mengecek dan menominasikan beatmap, para anggota Full BN juga dapat mendiskualifikasi beatmap Qualified yang dipandang bermasalah. Mereka juga dapat  berpartisipasi dalam proses evaluasi calon anggota Beatmap Nominator baru apabila mereka tertarik untuk bergabung ke Nomination Assessment Team ke depannya.
+Full Beatmap Nominator (Full BN) merupakan para anggota Beatmap Nominator yang memiliki kuasa penuh akan seluruh hak BN. Di samping memeriksa dan menominasikan beatmap, Full BN juga dapat mendiskualifikasi beatmap Qualified yang bermasalah. Mereka juga dapat berpartisipasi dalam proses perekrutan calon anggota Beatmap Nominator baru apabila mereka tertarik untuk bergabung ke Nomination Assessment Team ke depannya.
 
-Setiap kurang lebihnya tiga bulan sekali, perilaku dan aktivitas/kualitas nominasi para anggota Full Beatmap Nominator akan dinilai oleh [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team). Apabila nominasi mereka sering dianulir karena alasan yang fatal atau mereka melakukan sesuatu yang tidak dapat diterima, status keanggotaan mereka dapat diturunkan menjadi Probationary Beatmap Nominator.
+Setiap kurang lebihnya tiga bulan sekali, perilaku dan aktivitas/kualitas nominasi masing-masing Full BN akan dievaluasi oleh [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team). Apabila nominasi mereka sering dianulir karena alasan yang fatal atau perilaku mereka dinilai kurang baik, status keanggotaan mereka dapat diturunkan menjadi Probationary BN.
 
-Para anggota Full Beatmap Nominator yang tidak memenuhi persyaratan jumlah nominasi minimum per bulannya tidak akan langsung ditempatkan sebagai Probationary Beatmap Nominator, namun mereka beresiko untuk dikeluarkan dari Beatmap Nominator apabila aktivitas mereka tidak kunjung meningkat.
+Para Full BN yang tidak memenuhi persyaratan jumlah nominasi minimum per bulannya tidak akan langsung ditempatkan ke dalam masa percobaan. Meskipun demikian, status Beatmap Nominator mereka dapat dicabut apabila aktivitas mereka tidak kunjung meningkat.
 
 ### Probationary Beatmap Nominator
 
-Probationary Beatmap Nominator (Probationary BN) merupakan para anggota Beatmap Nominator yang berada dalam masa percobaan dan tidak memiliki kuasa penuh akan seluruh hak BN. Tujuan utama dari posisi ini adalah untuk mengukuhkan nilai dasar Beatmap Nominator kepada para anggotanya, di mana satu-satunya tugas dan kuasa yang mereka miliki adalah untuk menominasikan beatmap. Di samping itu, berhubung proses ranking harus melibatkan setidaknya satu Full Beatmap Nominator, para anggota Probationary Beatmap Nominator tidak dapat memberikan nominasi kedua pada beatmap yang sebelumnya telah dinominasikan oleh anggota Probationary Beatmap Nominator lainnya.
+Probationary Beatmap Nominator (Probationary BN) merupakan para anggota Beatmap Nominator yang berada dalam masa percobaan dan tidak memiliki kuasa penuh akan seluruh hak BN. Tujuan utama dari posisi ini adalah untuk mengukuhkan nilai dasar Beatmap Nominator kepada para anggotanya, di mana satu-satunya tugas dan kuasa yang mereka miliki adalah untuk menominasikan beatmap. Di samping itu, berhubung proses ranking harus melibatkan setidaknya satu Full BN, anggota Probationary BN tidak dapat memberikan nominasi kedua pada beatmap yang sebelumnya telah dinominasikan oleh Probationary BN lainnya.
 
-Seluruh anggota Beatmap Nominator baru akan ditempatkan dalam masa percobaan selama satu bulan. Apabila rekam jejak nominasi dan perilaku mereka memuaskan, mereka akan dipromosikan menjadi Full Beatmap Nominator. Apabila tidak, mereka akan kembali ditempatkan pada masa percobaan tambahan selama satu bulan atau dikeluarkan dari Beatmap Nominator secara langsung.
+Anggota Beatmap Nominator baru akan ditempatkan dalam masa percobaan selama satu bulan. Apabila berdasarkan hasil [evaluasi](wiki/People/Nomination_Assessment_Team/Evaluations) rekam jejak mereka dinilai memuaskan, mereka akan dipromosikan menjadi Full BN. Apabila tidak, mereka akan kembali ditempatkan dalam masa percobaan tambahan selama satu bulan atau dikeluarkan dari Beatmap Nominator secara langsung.
 
-Pada saat seorang Beatmap Nominator telah ditempatkan dalam masa percobaan, mereka tidak lagi dapat ditempatkan dalam masa percobaan dengan alasan yang sama. Sebagai contoh, apabila seorang Beatmap Nominator sebelumnya pernah ditempatkan dalam masa percobaan karena perilaku mereka yang buruk, mereka akan dikeluarkan dari Beatmap Nominator apabila mereka kembali menunjukkan perilaku buruk yang sama meskipun saat itu mereka berposisi sebagai Full Beatmap Nominator.
+Apabila seorang Full BN pernah diturunkan menjadi Probationary BN sebelumnya, mereka tidak akan lagi dapat ditempatkan dalam masa percobaan dengan alasan yang sama. Sebagai contoh, apabila seorang Beatmap Nominator sebelumnya pernah berperilaku buruk, mereka akan dikeluarkan dari Beatmap Nominator secara langsung apabila mereka kembali berulah meskipun saat itu mereka berposisi sebagai Full BN.
 
 ## Anggota tim
 
-Daftar anggota Beatmap Nominator selengkapnya dapat dilihat pada laman grup [Beatmap Nominator](https://osu.ppy.sh/groups/28) dan [Beatmap Nominator (Probationary)](https://osu.ppy.sh/groups/32).
+Berikut merupakan daftar seluruh anggota Beatmap Nominator beserta dengan mode permainanmya masing-masing. Selain pada tabel di bawah ini, daftar anggota Beatmap Nominator selengkapnya juga dapat dilihat pada laman grup [Beatmap Nominator](https://osu.ppy.sh/groups/28) dan [Beatmap Nominator (Probationary)](https://osu.ppy.sh/groups/32).
 
-Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masing anggota Beatmap Nominator. *Catatan: Kecuali disebutkan secara khusus, seluruh anggota Beatmap Nominator dapat berkomunikasi secara fasih dalam Bahasa Inggris di samping bahasa tambahan mereka.*
+*Catatan: Kecuali disebutkan secara khusus, seluruh anggota Beatmap Nominator dapat berkomunikasi secara fasih dalam Bahasa Inggris di samping bahasa tambahan mereka.*
 
 ### Full Beatmap Nominator
 
@@ -48,7 +46,7 @@ Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masin
 
 | Nama | Bahasa tambahan |
 | :-- | :-- |
-| ::{ flag=PH }:: [-Aqua](https://osu.ppy.sh/users/7150015) | Filipino |
+| ::{ flag=PH }:: [-Aqua](https://osu.ppy.sh/users/7150015) | Tagalog |
 | ::{ flag=ID }:: [-Keitaro](https://osu.ppy.sh/users/3378391) | Indonesia |
 | ::{ flag=BY }:: [-Mikan](https://osu.ppy.sh/users/9063995) | Rusia, Belarusia |
 | ::{ flag=JP }:: [-Rei](https://osu.ppy.sh/users/8200707) | Jepang |
@@ -56,7 +54,7 @@ Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masin
 | ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599) | Italia |
 | ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549) |  |
 | ::{ flag=KR }:: [Beomsan](https://osu.ppy.sh/users/3626063) | Korea |
-| ::{ flag=PL }:: [browiec](https://osu.ppy.sh/users/9426712) | Polski |
+| ::{ flag=PL }:: [browiec](https://osu.ppy.sh/users/9426712) | Polandia |
 | ::{ flag=KR }:: [Cellina](https://osu.ppy.sh/users/2490770) | Korea |
 | ::{ flag=GB }:: [ckharv](https://osu.ppy.sh/users/9967026) |  |
 | ::{ flag=ID }:: [Creamy Candy](https://osu.ppy.sh/users/9769199) | Indonesia |
@@ -97,7 +95,7 @@ Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masin
 | ::{ flag=CA }:: [Sparhten](https://osu.ppy.sh/users/7601720) |  |
 | ::{ flag=BE }:: [Stack](https://osu.ppy.sh/users/6122935) | Belanda |
 | ::{ flag=TH }:: [timemon](https://osu.ppy.sh/users/2072005) | Thai |
-| ::{ flag=LT }:: [tomatas95](https://osu.ppy.sh/users/11403815) | Lituavi |
+| ::{ flag=LT }:: [tomatas95](https://osu.ppy.sh/users/11403815) | Lithuania |
 | ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) |  |
 | ::{ flag=CA }:: [Vararaup](https://osu.ppy.sh/users/8257675) |  |
 | ::{ flag=US }:: [wafer](https://osu.ppy.sh/users/9416836) |  |
@@ -109,7 +107,7 @@ Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masin
 | Nama | Bahasa tambahan |
 | :-- | :-- |
 | ::{ flag=GB }:: [aceticke](https://osu.ppy.sh/users/8838763) |  |
-| ::{ flag=FI }:: [Antti](https://osu.ppy.sh/users/13281473) | Suomi, sedikit Swedia |
+| ::{ flag=FI }:: [Antti](https://osu.ppy.sh/users/13281473) | Finlandia, sedikit Swedia |
 | ::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392) | Tionghoa |
 | ::{ flag=HK }:: [BlackBN](https://osu.ppy.sh/users/6291741) | Tionghoa, Kanton |
 | ::{ flag=TR }:: [Burak](https://osu.ppy.sh/users/13213075) | Turki |
@@ -133,7 +131,7 @@ Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masin
 | ::{ flag=JP }:: [Roxy-](https://osu.ppy.sh/users/11931563) | Jepang |
 | ::{ flag=TH }:: [Tyistiana](https://osu.ppy.sh/users/1421452) | Thai |
 | ::{ flag=AT }:: [Yasuho](https://osu.ppy.sh/users/8458835) | Jerman, sedikit Perancis |
-| ::{ flag=PL }:: [yurishe](https://osu.ppy.sh/users/14890963) | Polski |
+| ::{ flag=PL }:: [yurishe](https://osu.ppy.sh/users/14890963) | Polandia |
 
 #### osu!catch
 
@@ -141,7 +139,7 @@ Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masin
 | :-- | :-- |
 | ::{ flag=HK }:: [autofanboy](https://osu.ppy.sh/users/636114) | Kanton |
 | ::{ flag=CA }:: [fuhie](https://osu.ppy.sh/users/7620002) |  |
-| ::{ flag=PL }:: [Mniam](https://osu.ppy.sh/users/6050530) | Polski |
+| ::{ flag=PL }:: [Mniam](https://osu.ppy.sh/users/6050530) | Polandia |
 | ::{ flag=ZA }:: [Pieter](https://osu.ppy.sh/users/29282944) | Afrikaans, Belanda |
 | ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276) | Korea |
 | ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) |  |
@@ -179,7 +177,7 @@ Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masin
 | ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230) | Tionghoa, Kanton |
 | ::{ flag=KR }:: [Kim_GodSSI](https://osu.ppy.sh/users/2218047) | Korea |
 | ::{ flag=KR }:: [Lami-](https://osu.ppy.sh/users/16505281) | Korea |
-| ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573) | Filipino |
+| ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573) | Tagalog |
 | ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/4790958) | Tionghoa |
 | ::{ flag=KR }:: [Murumoo](https://osu.ppy.sh/users/8001433) | Korea |
 | ::{ flag=NL }:: [Muse Dash](https://osu.ppy.sh/users/13695676) | Belanda |
@@ -232,10 +230,10 @@ Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masin
 | ::{ flag=US }:: [Monoseul](https://osu.ppy.sh/users/16010604) |  |
 | ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747) |  |
 | ::{ flag=CA }:: [Shad0wStar](https://osu.ppy.sh/users/16866460) |  |
-| ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) | Dansk |
+| ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) | Denmark |
 
 ## Sejarah
 
 - Beatmap Nominator pada awalnya dikenal dengan nama *Beatmap Appreciation Team* (BAT).
-- Pada tanggal 22 Agustus 2014, BAT tidak lagi menjadi bagian dari tim staf. Seiring dengan perubahan ini, kemampuan moderasi dan warna pengguna khusus yang mereka miliki di dalam permainan dan forum ikut dicabut.
-- Pada tanggal 1 Januari 2015, nama *Beatmap Appreciation Team* diubah menjadi *Beatmap Nomination Group* yang kemudian menjelma menjadi Beatmap Nominator sebagaimana yang kita kenal saat ini.
+- Pada tanggal 22 Agustus 2014, BAT tidak lagi menjadi bagian dari staf. Seiring dengan perubahan ini, kemampuan moderasi dan warna pengguna khusus yang mereka miliki di dalam permainan dan forum ikut dicabut.
+- Pada tanggal 1 Januari 2015, nama *Beatmap Appreciation Team* diubah menjadi *Beatmap Nomination Group* yang kemudian menjelma menjadi Beatmap Nominator sebagaimana yang kita kenal sekarang ini.
