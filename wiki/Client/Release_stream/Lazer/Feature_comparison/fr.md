@@ -1,8 +1,8 @@
-# Comparaison des foncionnalités de osu!(lazer)
+# Comparaison des fonctionnalités de osu!(lazer)
 
 *Pour une liste plus condensée des fonctionnalités, voir [Centre d'aide/Mise à jour vers lazer § Comparaison des fonctionnalités](/wiki/Help_centre/Upgrading_to_lazer#comparaison-des-fonctionnalités)*.
 
-Cette page présente toutes les nouvelles fonctionnalités et les fonctionnalités manquantes par rapport à osu!(stable), ainsi que les différences affectant le gameplay.
+Cette page présente toutes les fonctionnalités nouvelles ou manquantes par rapport à osu!(stable), ainsi que les différences affectant le gameplay.
 
 ## Nouvelles fonctionnalités
 
