@@ -55,7 +55,7 @@ We've opened the new `#featured-artists` channel in the [osu!dev Discord server]
 To start, this hub will be used for two things:
 
   1. **Quick map feedback:** Anyone who posts new Featured Artist maps in the server will receive quick feedback from *pishifat* (that's me) or anyone else who wants to contribute!
-  2. **Usage in [osu!(lazer) Featured Artist playlists](/wiki/People/Featured_Artists/Featured_Artist_playlists):** Link your maps from recently announced Featured Artists to be considered for playlists in osu!(lazer) next month. Once the playlists are published, the top scoring players on the playlist leaderboards can potentially **earn a profile badge**!
+  2. **Usage in [osu!(lazer) Featured Artist playlists](/wiki/People/Featured_Artists/Featured_Artist_playlists):** Link your maps from recently announced Featured Artists to be considered for playlists in osu!(lazer) next month. Once the playlists are published, the top-scoring players on the playlist leaderboards can potentially **earn a profile badge**!
 
 More details about all of this can be found on the [osu!dev Discord server](https://discord.gg/ppy), so give that a visit if you're at all interested (or if you just want another osu! server in your never-ending server list).
 
