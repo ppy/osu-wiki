@@ -48,7 +48,7 @@ Después de que los cambios se verifiquen dos veces, se confirmen y se envíen a
 
 ## Revisión
 
-Todos los cambios en la osu! wiki son moderados. Durante esa etapa, otros colaboradores señalan posibles errores y formas de solucionarlos, ya sea de forma gratuita o sugiriendo ediciones directas a la solicitud de cambios. Al igual que con cualquier otra revisión por pares, debe abordar los comentarios [aplicando las sugerencias](/wiki/osu!_wiki/Contribution_guide/Best_practices#aplicar-sugerencias) o explicando por qué prefiere mantener las cosas como están.
+Todos los cambios en la osu! wiki son moderados. Durante esa etapa, otros colaboradores señalan posibles errores y formas de solucionarlos, ya sea de forma gratuita o sugiriendo ediciones directas a la solicitud de cambios. Al igual que con cualquier otra revisión por pares, debe abordar los comentarios [aplicando las revisiones](/wiki/osu!_wiki/Contribution_guide/Best_practices#aplicar-revisiones) o explicando por qué prefiere mantener las cosas como están.
 
 Si nadie lo ha revisado al cabo de un par de días, intente lo siguiente:
 
