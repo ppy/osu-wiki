@@ -53,7 +53,7 @@ Todos los cambios en la osu! wiki son moderados. Durante esa etapa, otros colabo
 Si nadie lo ha revisado al cabo de un par de días, intente lo siguiente:
 
 - Asegúrese de haber resuelto todas las sugerencias, es posible que las personas estén esperando sus respuestas.
-- Pregunta a otros editores de la osu! wiki en el [servidor Discord osu!dev](/wiki/Community/osu!dev_Discord_server) (canal `#osu-wiki`) o en los comentarios de GitHub.
+- Pregunta a otros editores de la osu! wiki en el [servidor de Discord osu!dev](/wiki/Community/osu!dev_Discord_server) (canal `#osu-wiki`) o en los comentarios de GitHub.
 - Para obtener ayuda con la traducción, consulte un par de solicitudes de cambios fusionadas para su idioma y póngase en contacto con sus revisores y/o autores ([ejemplo de consulta de GitHub](https://github.com/ppy/osu-wiki/pulls?q=is:pr+is:merged+[ES])).
 - ¡Pide a tus amigos un vistazo rápido!
 
@@ -61,6 +61,6 @@ Además de un proceso de revisión manual, el repositorio de la osu! wiki tiene 
 
 ## Fusión
 
-Eventualmente, uno de los [mantenedores de la wiki](/wiki/People/osu!_wiki_maintainers) verificará sus cambios, generalmente después de las revisiones de otros colaboradores. Si no sucede nada después de un tiempo razonable, pregunte en los comentarios de la solicitud de cambios o en el canal `#osu-wiki` del [servidor Discord osu!dev](/wiki/Community/osu!dev_Discord_server). Tus cambios aparecerán en la osu! wiki poco después de la fusión (en casos excepcionales, esto puede demorar hasta cinco horas).
+Eventualmente, uno de los [mantenedores de la wiki](/wiki/People/osu!_wiki_maintainers) verificará sus cambios, generalmente después de las revisiones de otros colaboradores. Si no sucede nada después de un tiempo razonable, pregunte en los comentarios de la solicitud de cambios o en el canal `#osu-wiki` del [servidor de Discord osu!dev](/wiki/Community/osu!dev_Discord_server). Tus cambios aparecerán en la osu! wiki poco después de la fusión (en casos excepcionales, esto puede demorar hasta cinco horas).
 
 [osu_wiki]: https://github.com/ppy/osu-wiki
