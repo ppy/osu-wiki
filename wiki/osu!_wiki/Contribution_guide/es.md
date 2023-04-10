@@ -12,7 +12,7 @@ Si quieres ayudar, pero no sabes por dónde empezar, véase [Mantenimiento de la
 
 ## Editar la wiki
 
-*Para un proceso de contribución generalizado, véase [Flujo de GitHub - GitHub Docs](https://docs.github.com/es/get-started/quickstart/github-flow)*
+*Para un proceso de contribución generalizado, véase [Flujo de GitHub - Documentación de GitHub](https://docs.github.com/es/get-started/quickstart/github-flow)*
 
 Los artículos de la osu! wiki se almacenan en [GitHub][osu_wiki]. Para contribuir, haz lo siguiente:
 
