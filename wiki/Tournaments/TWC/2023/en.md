@@ -142,7 +142,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad
   5. [ZxNX as "Delaina" - End Me (dtn) \[End Game\]](https://osu.ppy.sh/beatmapsets/1972399#taiko/4092843)
 - Hidden
   1. [CHON - Dew (Jaye) \[Elements of Life\]](https://osu.ppy.sh/beatmapsets/1972526#taiko/4093096)
-  2. [Morimori Atsushi vs. uma - ETERNALDREAMER (Naryuga) \[Hell Oni\] *(temporary link)*](https://leoflt.com/s/Y3Rn)
+  2. [Morimori Atsushi vs. uma - ETERNAL:DREAMER (Naryuga) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1972781#taiko/4093577)
 - Hard Rock
   1. [w\_tre - Shannon's Theorem (Raphalge) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1972531#taiko/4093122)
   2. [SWORD OF JUSTICE - Sword of Justice (\_mtk) \[Hikari yo\]](https://osu.ppy.sh/beatmapsets/1972458#taiko/4092947)
