@@ -37,7 +37,6 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 | HP rate for Hard and up is suggested to be at least 7. | osu!mania maps only! | Go to Song Settings and set HP rate to 7 or higher. |
 | OD rate is suggested to be at least 5. | osu!mania maps only! | Set `Overall Difficulty` in the "Difficulty" tab in Song Setup to 5 or higher. |
 | OD rate for maps with few sliders is suggested to be at least 7. | osu!mania maps only! | Go to Song Settings and set OD rate to 7 or higher. |
-| OD rate for maps with very few sliders is suggested to be at least 7. | osu!mania maps only! |  |
 | <!-- Both seem to occur, not sure what changes the value -->OD rate for maps with very few sliders is suggested to be at least 8. | osu!mania maps only! |  |
 | The Slider Velocity should be 1.40 or 1.60. | osu!taiko maps only! | Go to Timing tab and change Slider Velocity to 1.40 or 1.60. |
 
@@ -132,6 +131,7 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 | <!-- unicode characters won't be shown in the editor -->Romanised title contains unicode. |  |  |
 | Countdown is not allowed in mania mode. | osu!mania maps only! | Uncheck `Enable countdown` in the "Design" tab in Song Setup. |
 | Letterboxing is not allowed in mania mode. | osu!mania maps only! | Uncheck `Letterbox during breaks` in the "Design" tab in Song Setup. |
+| Letterboxing is not allowed in taiko mode. | osu!taiko maps only! |  |
 
 #### Mapset
 
