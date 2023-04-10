@@ -42,7 +42,7 @@ Es importante tener en cuenta algunas cosas para usar las páginas de discusión
 
 ## Selección de modo
 
-![](img/mode-selection.png "Selección de modo")
+![](img/mode-selection-ES.png "Selección de modo")
 
 La selección de modo cambia el [modo de juego](/wiki/Game_mode) que estás modeando. Solo es posible seleccionar un modo de juego si el mapa tiene una dificultad de ese modo de juego. Esto solo se usa con mapas que contienen múltiples modos de juego; de lo contrario, se establecerá de forma predeterminada en el modo de juego mapeado.
 
@@ -56,13 +56,13 @@ El encabezado del mapa muestra el título y el artista proporcionados en el [edi
 
 ## Menú de dificultad
 
-![](img/difficulty-menu.png "Menú de dificultad")
+![](img/difficulty-menu-ES.png "Menú de dificultad")
 
 Puedes seleccionar diferentes [dificultades](/wiki/Beatmap/Difficulty) a través del menú desplegable. Esto mostrará todas las dificultades disponibles actualmente, junto con las más antiguas, eliminadas que han tenido sugerencias/problemas. El número que aparece junto al nombre de una dificultad es el número de publicaciones no resueltas en esa dificultad específica. Es importante verificar dos veces este menú antes de enviar cualquier modeo.
 
 ## Opciones de clasificación
 
-![](img/sorting-options.jpg "Para sus necesidades de clasificación")
+![](img/sorting-options-ES.png "Para sus necesidades de clasificación")
 
 Las opciones de clasificación cambian la forma en que se ven las discusiones del mapa. Cuando se elige una opción, cambia tanto la línea de tiempo de modeo como la sección de modeo para incluir solo el tipo de publicación seleccionado. Esto es especialmente útil para ver publicaciones pendientes en una página de discusión. Las diferentes opciones incluyen:
 
@@ -75,13 +75,13 @@ Las opciones de clasificación cambian la forma en que se ven las discusiones de
 
 ## Línea de tiempo visual
 
-![](img/visual-timeline.jpg "Publicaciones de modeo repartidas en la línea de tiempo")
+![](img/visual-timeline-ES.png "Publicaciones de modeo repartidas en la línea de tiempo")
 
 La línea de tiempo visual muestra todos los modeos creados para una dificultad que usan una marca de tiempo. Al hacer clic en cualquiera de estos, se desplazará hacia abajo hasta el modeo publicado en esa marca de tiempo. Tenga en cuenta que cualquier opción de filtrado cambiará lo que se muestra aquí. La línea de tiempo visual es una herramienta útil para ver cuánto se ha modificado un mapa de un vistazo. Una línea de tiempo apretada significaría que un mapa ya ha recibido mucha atención. La configuración de la dificultad seleccionada también se muestra en la parte superior derecha de la línea de tiempo visual. De izquierda a derecha, describen la `Duración`, `BPM`, `Número de círculos` y `Número de deslizadores` de una dificultad.
 
 ## Estado del mapa
 
-![](img/beatmap-status.jpg "¡Contiene información importante!")
+![](img/beatmap-status-ES.png "¡Contiene información importante!")
 
 La barra de estado del mapa muestra todo lo relevante para el lugar de un mapa en el [Procedimiento de clasificación del mapa](/wiki/Beatmap_ranking_procedure). Esto incluye:
 
@@ -112,7 +112,7 @@ El botón `Página del mapa` navegará a la página de información de un mapa. 
 
 ## Pestañas de modeo
 
-![](img/modding-tabs.jpg "Pestañas de modeo.")
+![](img/modding-tabs-ES.png "Pestañas de modeo.")
 
 El modeo se realiza a través de tres pestañas, que separan las publicaciones de diferentes tipos y las dividen en formatos legibles. Además, una cuarta pestaña registra todos los cambios. El número al lado de cada pestaña describe la cantidad de publicaciones que contiene.
 
@@ -126,7 +126,7 @@ El modeo se realiza a través de tres pestañas, que separan las publicaciones d
 
 ## Campo de envío
 
-![](img/submission-field.jpg "Donde se escribe el modeo.")
+![](img/submission-field-ES.png "Donde se escribe el modeo.")
 
 El campo de envío es donde se escriben los [modeos](/wiki/Modding). Una vez escrito, el modeo debe enviarse a la página de discusión. Esto se puede hacer presionando uno de los tres botones de tipo; `Elogio`, `Sugerencia` o `Problema`.
 
@@ -136,7 +136,7 @@ Si publica en la pestaña `Línea de tiempo`, debe incluir una marca de tiempo e
 
 ## Discusiones
 
-![](img/discussions.jpg "¡Donde se lleva a cabo la discusión!")
+![](img/discussions-ES.png "¡Donde se lleva a cabo la discusión!")
 
 Las discusiones son donde se colocan las publicaciones del [campo de envío](#campo-de-envío) una vez enviadas. Los usuarios que visiten una página de discusión pueden ver las publicaciones realizadas por todos los demás usuarios y podrán participar en la discusión sobre las publicaciones. Esto se hace haciendo clic en los botones `Responder` o `Contestar` debajo de una publicación y escriba una respuesta. Después de terminar una respuesta, al presionar `Enter` o hacer clic en `Responder` se enviará a la discusión.
 
