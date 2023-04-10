@@ -16,7 +16,7 @@ Si quieres ayudar, pero no sabes por dónde empezar, véase [Mantenimiento de la
 
 Los artículos de la osu! wiki se almacenan en [GitHub][osu_wiki]. Para contribuir, haz lo siguiente:
 
-0. [Cree] una cuenta de GitHub.
+0. [Cree](https://github.com/signup) una cuenta de GitHub.
 1. Abra el repositorio [`ppy/osu-wiki`][osu_wiki] y haga clic en `Fork` en la esquina superior derecha para hacer una copia controlada del wiki. Para volver a tu bifurcación, ve a [`ppy/osu-wiki`][osu_wiki] y presiona `Fork` nuevamente.
 
   - Si creó una bifurcación hace algún tiempo, sincronícela de acuerdo con [Buenas prácticas § Sincronizar la bifurcación](/wiki/osu!_wiki/Contribution_guide/Best_practices#sincronizar-la-bifurcación).
