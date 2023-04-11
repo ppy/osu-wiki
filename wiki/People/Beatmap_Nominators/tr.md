@@ -180,7 +180,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ::{ flag=KR }:: [Kim_GodSSI](https://osu.ppy.sh/users/2218047) | Korece |
 | ::{ flag=KR }:: [Lami-](https://osu.ppy.sh/users/16505281) | Korece |
 | ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573) | Filipince |
-| ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/4790958) | Çince |
+| ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/4790958) | Korece |
 | ::{ flag=KR }:: [Murumoo](https://osu.ppy.sh/users/8001433) | Korece |
 | ::{ flag=NL }:: [Muse Dash](https://osu.ppy.sh/users/13695676) | Felemenkçe |
 | ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | İspanyolca, Portekizce, Galiçyaca, İtalyanca, Japonca |

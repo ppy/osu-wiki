@@ -179,7 +179,7 @@ BN 分为两类：正式 (Full) 成员和见习 (prob) 成员。
 | ::{ flag=KR }:: [Kim_GodSSI](https://osu.ppy.sh/users/2218047) | 韩语 |
 | ::{ flag=KR }:: [Lami-](https://osu.ppy.sh/users/16505281) | 韩语 |
 | ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573) | 菲律宾语 |
-| ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/4790958) | 汉语 |
+| ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/4790958) | 韩语 |
 | ::{ flag=KR }:: [Murumoo](https://osu.ppy.sh/users/8001433) | 韩语 |
 | ::{ flag=NL }:: [Muse Dash](https://osu.ppy.sh/users/13695676) | 荷兰语 |
 | ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | 西班牙语，葡萄牙语，加利西亚语，意大利语，日语 |

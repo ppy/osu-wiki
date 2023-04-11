@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 70eb12264cba8353999807d6ce370f7ab1359075
----
-
 # Tutorials
 
 Unten findet sich eine Liste an Tutorials, die von Mitgliedern der osu!-Community erstellt wurden. Die meisten Tutorials entstanden in den osu!-Foren und wurden in das osu!-Wiki integriert.
@@ -31,6 +26,7 @@ Unten findet sich eine Liste an Tutorials, die von Mitgliedern der osu!-Communit
 
 *Hauptseite: [Modding](/wiki/Modding)*
 
+- [Häufige Modding-Fehler](Common_modding_mistakes)
 - [Wie du deine Map gemoddet bekommst](Getting_Your_Map_Modded)
 - [Modding-Tutorial für osu!mania](osu!mania_modding_guide)
 
