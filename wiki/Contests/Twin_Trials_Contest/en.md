@@ -149,7 +149,7 @@ Just like prizes, judges for this contest are separated by mode:
 
 A player must play all difficulties of a **Twin Trials** lazer playlist in their respective mode in order to vote.
 
-See the [Twin Trials - Voting phase news post](LINK) for more details.
+See the [Twin Trials - Voting phase news post](https://osu.ppy.sh/home/news/2023-04-11-twin-trials-beatmap-voting-phase) for more details.
 
 | Placing | Prize(s) |
 | :-: | :-- |
