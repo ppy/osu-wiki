@@ -39,7 +39,7 @@ The **osu! Romania Summer Tournament 2021** (***o!RST 2021***) was a 1v1 double 
 The osu! Romania Summer Tournament 2021 was run by various community members:
 
 | Position | Member(s) |
-| --: | :-- |
+| :-- | :-- |
 | Host | ::{ flag=RO }:: [Nice Aesthetics](https://osu.ppy.sh/users/7782553),::{ flag=RO }:: [FallenAngelD](https://osu.ppy.sh/users/5225626), ::{ flag=RO }:: [Ahrinity](https://osu.ppy.sh/users/11587229) |
 | Mappool selector | ::{ flag=RO }:: [badeu](https://osu.ppy.sh/users/1473890), ::{ flag=GR }:: [JackPaX](https://osu.ppy.sh/users/11226645), ::{ flag=RO }:: [Ahrinity](https://osu.ppy.sh/users/11587229), ::{ flag=PL }:: [Najmsb](https://osu.ppy.sh/users/13742685) |
 | Streamer | ::{ flag=RO }:: [FallenAngelD](https://osu.ppy.sh/users/5225626) |
