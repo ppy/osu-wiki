@@ -207,7 +207,7 @@ La etiqueta `[profile]` se utiliza para enlazar la página de perfil de osu! de 
 
 Al especificar usuarios solo por sus ID de usuario, se requiere un texto de marcador de posición entre las etiquetas abiertas y cerradas. Al hacerlo, se mostrará el nombre de usuario en la página real, no el texto del marcador de posición. Al especificar usuarios solo por su nombre de usuario, el enlace no funcionará una vez que cambien su nombre de usuario.
 
-### Formatted lists
+### Listas formateadas
 
 ```
 [list=TYPE]
@@ -217,39 +217,39 @@ Al especificar usuarios solo por sus ID de usuario, se requiere un texto de marc
 [/list]
 ```
 
-The `[list]` tag is used to automatically format two different types of lists throughout the osu! forums by using an asterisk enclosed in brackets (`[*]`) to indicate a new item in the list (shown above). By default, this will create a plain, bulleted list.
+La etiqueta `[list]` se usa para formatear automáticamente dos tipos diferentes de listas en todos los foros de el osu! usando un asterisco entre corchetes (`[*]`) para indicar un nuevo elemento en la lista (que se muestra arriba). De forma predeterminada, esto creará una lista simple con viñetas.
 
-If the `TYPE` argument is specified (the actual value doesn't matter), it will create a numbered list.
+Si se especifica el argumento `TYPE` (el valor real no importa), creará una lista numerada.
 
-*Notice: BBCode-formatted lists can be stacked on top of each other and placed inside one another, although this has been known to cause issues with formatting.*
+*Aviso: las listas con formato de BBCode se pueden apilar una encima de otra y colocarse una dentro de otra, aunque se sabe que esto causa problemas con el formato.*
 
-Toolbar buttons: ![List button](img/list.png "List") ![Numbered list button](img/list-numbered.png "Numbered list")
+Botón de la barra de herramientas: ![List button](img/list.png "Lista") ![Numbered list button](img/list-numbered.png "Lista numerada")
 
-### Email
+### Correo electrónico
 
 ```
-[email=ADDRESS]text[/email]
+[email=ADDRESS]texto[/email]
 ```
 
-The `[email]` tag creates a clickable hyperlink, which opens a new email in the default mail program with the address field pre-populated.
+La etiqueta `[email]` crea un hipervínculo en el que se puede hacer clic, que abre un nuevo correo electrónico en el programa de correo predeterminado con el campo de dirección rellenado previamente.
 
-In order to create a link, two arguments need to be specified: the `ADDRESS` argument needs to be a valid email address, while `text` is the displayed text that serves as a hyperlink. If the `text` argument is not defined, the hyperlink will not be created correctly.
+Para crear un enlace, se deben especificar dos argumentos: el argumento `ADDRESS` debe ser una dirección de correo electrónico válida, mientras que `texto` es el texto que se muestra y sirve como hipervínculo. Si el argumento `texto` no está definido, el hipervínculo no se creará correctamente.
 
-### Images
+### Imágenes
 
 ```
 [img]ADDRESS[/img]
 ```
 
-The `[img]` tag is used to include online images into osu! forum posts. To use the tag, users must paste in the direct image address (represented by the `ADDRESS` argument above) sourced from a website. Local file paths (e.g. `C:\Users\Name\Pictures\image.jpg`) **will not work**.
+La etiqueta `[img]` se usa para incluir imágenes en línea en las publicaciones de foro de osu!. Para usar la etiqueta, los usuarios deben pegar la dirección de la imagen directa (representada por el argumento `ADDRESS` anterior) procedente de un sitio web. Las rutas de archivos locales (por ejemplo, `C:\Users\Name\Pictures\image.jpg`) **no funcionarán**.
 
-*Notice: A website URL is **not** the same as an image address.*
+*Aviso: la URL de un sitio web **no** es lo mismo que la dirección de una imagen.*
 
-In order to obtain an image address, one must navigate to the website it is sourced on, hover their mouse over the image, right-click on the image, and select `Copy image address`. Then, the address should be copied and pasted in between the tags.
+Para obtener una dirección de imagen, uno debe navegar al sitio web en el que se encuentra, pasar el mouse sobre la imagen, hacer clic con el botón derecho en la imagen y seleccionar `Copiar dirección de la imagen`. Luego, la dirección debe copiarse y pegarse entre las etiquetas.
 
-Although images can be sourced from anywhere, osu! recommends that users upload images to reputable image sharing sites like [Imgur](https://imgur.com), as some websites do not appreciate direct links to their images (otherwise known as "hotlinks").
+Aunque las imágenes se pueden obtener desde cualquier lugar, osu! recomienda que los usuarios carguen imágenes en sitios de intercambio de imágenes acreditados como [Imgur](https://imgur.com), ya que algunos sitios web no aprecian los enlaces directos a sus imágenes (también conocidos como "hotlinks").
 
-Toolbar button: ![Image button](img/image.png "Image")
+Botón de la barra de herramientas: ![Image button](img/image.png "Imagen")
 
 ### YouTube
 
@@ -257,9 +257,9 @@ Toolbar button: ![Image button](img/image.png "Image")
 [youtube]VIDEO_ID[/youtube]
 ```
 
-The `[youtube]` tag is used to embed a [YouTube](https://youtube.com) video on the website. The tag requires the user to input only the video ID  (**not** the entire URL) between the two tags (represented by the `VIDEO_ID` argument above).
+La etiqueta `[youtube]` se usa para incrustar un video de [YouTube](https://youtube.com) en el sitio web. La etiqueta requiere que el usuario ingrese solo el ID del video (**no** la URL completa) entre las dos etiquetas (representadas por el argumento `VIDEO_ID` anterior).
 
-A YouTube video's ID is located in the URL of the video, and is the string of 11 characters *directly after* the `v=`.
+El ID de un video de YouTube se encuentra en la URL del video y es la cadena de 11 caracteres *directamente después* de `v=`.
 
 ### Audio
 
@@ -267,66 +267,66 @@ A YouTube video's ID is located in the URL of the video, and is the string of 11
 [audio]URL[/audio]
 ```
 
-The `[audio]` tag is used to embed an [HTML5](https://en.wikipedia.org/wiki/HTML5) audio player from an online audio source. Audio files can be sourced from anywhere, as long as the file exists from a given URL. Local file paths (e.g., `C:\Users\Name\Music\audio.mp3`) **will not work**.
+La etiqueta `[audio]` se usa para incrustar un reproductor de audio [HTML5](https://en.wikipedia.org/wiki/HTML5) desde una fuente de audio en línea. Los archivos de audio se pueden obtener desde cualquier lugar, siempre que el archivo exista desde una URL determinada. Las rutas de archivos locales (por ejemplo, `C:\Users\Name\Music\audio.mp3`) **no funcionarán**.
 
-*Caution: Please beware that not all file-sharing services appreciate the ripping of their audio files, due to the music piracy concerns. osu! is not responsible for any copyright issues that users may encounter in that regard.*
+*Precaución: tenga en cuenta que no todos los servicios de intercambio de archivos aprecian la copia de sus archivos de audio debido a las preocupaciones sobre la piratería de música. osu! no es responsable de ningún problema de derechos de autor que los usuarios puedan encontrar en ese sentido.*
 
-To embed audio files through this method, users must paste its source URL (e.g. `https://www.example.com/example.mp3`) between the two `[audio]` tags.
+Para incrustar archivos de audio a través de este método, los usuarios deben pegar su URL de origen (por ejemplo, `https://www.example.com/example.mp3`) entre las dos etiquetas `[audio]`.
 
 <!-- Example online audio file URL for wiki editors: https://actions.google.com/sounds/v1/alarms/digital_watch_alarm_long.ogg -->
 
-### Heading (v1)
+### Encabezado (v1)
 
 ```
-[heading]text[/heading]
+[heading]texto[/heading]
 ```
 
-The `[heading]` tag is used to format text into big, pink headers. The tag does not support multi-leveled headers, and cannot be specifically linked to.
+La etiqueta `[heading]` se utiliza para dar formato al texto en grandes encabezados de color rosa. La etiqueta no admite encabezados de varios niveles y no se puede vincular específicamente.
 
-Toolbar button: ![Heading button](img/heading.png "Heading")
+Botón de la barra de herramientas: ![Heading button](img/heading.png "Encabezado")
 
-### Notice
+### Anuncio
 
 ```
 [notice]
-text
+texto
 [/notice]
 ```
 
-The `[notice]` tag is used to place paragraphs into a large, outlined box with a dark body colour. The button is primarily used to denote notices or warnings regarding a certain subject on the website.
+La etiqueta `[notice]` se usa para colocar párrafos en un cuadro grande y delineado con un cuerpo de color oscuro. El botón se utiliza principalmente para indicar anuncios o advertencias sobre un determinado tema en el sitio web.
 
-## Legacy
+## Legado
 
-The following are BBCode tags that were once used in various places across the osu! website, but are now unavailable for use. Their usages and syntax are described below for historical purposes.
+Las siguientes son etiquetas de BBCode que alguna vez se usaron en varios lugares del sitio web de osu!, pero ahora no están disponibles para su uso. Sus usos y sintaxis se describen a continuación con fines históricos.
 
 ### Google
 
 ```
-[google]search query[/google]
+[google]consulta de búsqueda[/google]
 ```
 
-The `[google]` tag is an outdated tag that was once used in the osu! forums to link to a Google search query using the provided text between two tags.
+La etiqueta `[google]` es una etiqueta obsoleta que alguna vez se usó en los foros de osu! para vincular a una consulta de búsqueda de Google utilizando el texto proporcionado entre dos etiquetas.
 
-The tag would redirect users to a Google search through their account, meaning that the exact same results would not be given to everyone, as Google personalises users' results. Likewise, this also means that some search results would be hidden to certain users due to language or country restrictions.
+La etiqueta redirigiría a los usuarios a una búsqueda de Google a través de su cuenta, lo que significa que no se darían exactamente los mismos resultados a todos, ya que Google personaliza los resultados de los usuarios. Asimismo, esto también significa que algunos resultados de búsqueda estarían ocultos para ciertos usuarios debido a restricciones de idioma o país.
 
-### Lucky
-
-```
-[lucky]search query[/lucky]
-```
-
-The `[lucky]` tag is an outdated tag that was once used in the osu! forums to link to a website directed from Google's `I'm Feeling Lucky` button using the provided text. The website linked through this tag would not be the same for everyone due to the nature of the button itself.
-
-### Heading (v2)
+### Suerte
 
 ```
-[text]
+[lucky]consulta de búsqueda[/lucky]
 ```
 
-The *Heading (v2)* tag is an outdated tag that was once used in the osu! forums to format text into a fancier-looking, purple heading with a horizontal line. The tag only worked in the Beatmaps forum, and only appeared after posting (not in preview). It had no button when it was in service, and was denoted by an open and closed bracket (no opening and closing tags).
+La etiqueta `[lucky]` es una etiqueta obsoleta que alguna vez se usó en los foros de osu! para vincular a un sitio web dirigido desde el botón `Voy a tener suerte` de Google utilizando el texto proporcionado. El sitio web vinculado a través de esta etiqueta no sería el mismo para todos debido a la naturaleza del botón en sí.
 
-## Trivia
+### Encabezado (v2)
 
-- This wiki article was adapted from the ["HOW TO: Forum BBCodes"](https://osu.ppy.sh/community/forums/topics/445599) forum thread by [Stefan](https://osu.ppy.sh/users/626907).
-- There used to be a bug which allowed users to make the text transparent by using the [colour tag](#colour) and typing "transparent" after the equals sign (`=`).
-  - As of now, the text will revert back to the default colour (white) when this happens.
+```
+[texto]
+```
+
+La etiqueta *Encabezado (v2)* es una etiqueta desactualizada que alguna vez se usó en los foros de osu! para dar formato al texto en un encabezado púrpura de apariencia más elegante con una línea horizontal. La etiqueta solo funcionó en el foro de Mapas, y solo aparecia después de la publicación (no en la vista previa). No tenía botón cuando estaba en servicio y se indicaba con un corchete abierto y cerrado (sin etiquetas de apertura y cierre).
+
+## Trivialidades
+
+- Este artículo de la wiki fue adaptado del hilo del foro ["HOW TO: Forum BBCodes"](https://osu.ppy.sh/community/forums/topics/445599) por [Stefan](https://osu.ppy.sh/users/626907).
+- Solía haber un error que permitía a los usuarios hacer que el texto fuera transparente usando la [etiqueta de color](#color) y escribiendo "transparente" después del signo igual (`=`).
+  - A partir de ahora, el texto volverá al color predeterminado (blanco) cuando esto suceda.
