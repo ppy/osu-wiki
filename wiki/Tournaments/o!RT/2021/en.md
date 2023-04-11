@@ -6,7 +6,7 @@ tags:
 
 # osu! Romania Summer Tournament 2021
 
-![{SHORT_TITLE} logo](img/logo.png)
+![o!RST 2021 logo](img/logo.png)
 
 The **osu! Romania Summer Tournament 2021** (***o!RST 2021***) was a 1v1 double elimination osu! tournament for Romanian and Moldovan players hosted by ::{ flag=RO }:: [Nice Aesthetics](https://osu.ppy.sh/users/7782553), ::{ flag=RO }:: [FallenAngelD](https://osu.ppy.sh/users/5225626), and ::{ flag=RO }:: [Ahrinity](https://osu.ppy.sh/users/11587229). It was the third instalment of the osu! Romania Tournament.
 
@@ -39,13 +39,13 @@ The **osu! Romania Summer Tournament 2021** (***o!RST 2021***) was a 1v1 double 
 The osu! Romania Summer Tournament 2021 was run by various community members:
 
 | Position | Member(s) |
-| --: | :-- |
+| :-- | :-- |
 | Host | ::{ flag=RO }:: [Nice Aesthetics](https://osu.ppy.sh/users/7782553),::{ flag=RO }:: [FallenAngelD](https://osu.ppy.sh/users/5225626), ::{ flag=RO }:: [Ahrinity](https://osu.ppy.sh/users/11587229) |
 | Mappool selector | ::{ flag=RO }:: [badeu](https://osu.ppy.sh/users/1473890), ::{ flag=GR }:: [JackPaX](https://osu.ppy.sh/users/11226645), ::{ flag=RO }:: [Ahrinity](https://osu.ppy.sh/users/11587229), ::{ flag=PL }:: [Najmsb](https://osu.ppy.sh/users/13742685) |
 | Streamer | ::{ flag=RO }:: [FallenAngelD](https://osu.ppy.sh/users/5225626) |
 | Commentator | ::{ flag=RO }:: [Teetoos](https://osu.ppy.sh/users/10065874), ::{ flag=RO }:: [FallenAngelD](https://osu.ppy.sh/users/5225626), ::{ flag=RO }:: [Nice Aesthetics](https://osu.ppy.sh/users/7782553), ::{ flag=RO }:: [Ahrinity](https://osu.ppy.sh/users/11587229), ::{ flag=RO }:: [eternum](https://osu.ppy.sh/users/4581069), ::{ flag=RO }:: [My Angel vuru](https://osu.ppy.sh/users/8244518), ::{ flag=RO }:: [L9 ELOVATOR](https://osu.ppy.sh/users/9578404) |
 | Designer | ::{ flag=RO }:: [Nice Aesthetics](https://osu.ppy.sh/users/7782553), ::{ flag=RO }:: [FallenAngelD](https://osu.ppy.sh/users/5225626) |
-| Referee | ::{ flag=RO }:: [Nice Aesthetics](https://osu.ppy.sh/users/7782553), ::{ flag=RO }:: [LuchiBuchi](https://osu.ppy.sh/users/10897656), ::{ flag=RO }:: [Piggy Bank](https://osu.ppy.sh/users/8190224/), ::{ flag=RO }:: [STRYKEX](https://osu.ppy.sh/users/15799234), ::{ flag=RO }:: [basil simp](https://osu.ppy.sh/users/18515010), ::{ flag=RO }:: [Canonbomb18](https://osu.ppy.sh/users/9480076), ::{ flag=RO }:: [Taevas](https://osu.ppy.sh/users/7276846), ::{ flag=RO }:: [Ahrinity](https://osu.ppy.sh/users/11587229) |
+| Referee | ::{ flag=RO }:: [Nice Aesthetics](https://osu.ppy.sh/users/7782553), ::{ flag=RO }:: [LuchiBuchi](https://osu.ppy.sh/users/10897656), ::{ flag=RO }:: [Piggy Bank](https://osu.ppy.sh/users/8190224/), ::{ flag=RO }:: [STRYKEX](https://osu.ppy.sh/users/15799234), ::{ flag=RO }:: [basil simp](https://osu.ppy.sh/users/18515010), ::{ flag=RO }:: [Canonbomb18](https://osu.ppy.sh/users/9480076), ::{ flag=FR }:: [Taevas](https://osu.ppy.sh/users/7276846), ::{ flag=RO }:: [Ahrinity](https://osu.ppy.sh/users/11587229) |
 
 ## Links
 
@@ -73,7 +73,7 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ::{ flag=RO }:: [L9 ELOVATOR](https://osu.ppy.sh/users/9578404) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ::{ flag=RO }:: [_AfterWind](https://osu.ppy.sh/users/2086138) |
 
-![](img/podium.png "{SHORT_TITLE} podium")
+![o!RST 2021 podium](img/podium.png)
 
 ## Mappools
 
