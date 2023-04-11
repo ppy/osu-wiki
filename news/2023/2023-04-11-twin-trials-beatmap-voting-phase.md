@@ -11,7 +11,7 @@ Mapping duos are finally ready to debut their masterpieces. Find your favourites
 The story so far:
 
 - [A few months ago](https://osu.ppy.sh/home/news/2023-02-01-twin-trials-contest-beatmapping-phase), we began the beatmapping phase of [**Twin Trials**](/wiki/Contests/Twin_Trials_Contest), a beatmapping + storyboarding contest where teams of 2 mappers created full difficulty spreads for some new [James Landino](https://osu.ppy.sh/beatmaps/artists/39) tunes across **all game modes**.
-- After submissions closed, [our mapping panels](/wiki/Contests/Twin_Trials_Contest#mapping-judge-panel) hyperanalyzed every hitobject on all **165 difficulties** to decide the best of the best beatmaps (which will be revealed after the voting phase ends!).
+- After submissions closed, [our mapping panels](/wiki/Contests/Twin_Trials_Contest#mapping-judge-panel) hyperanalysed every hit object on all **165 difficulties** to decide the best of the best beatmaps (which will be revealed after the voting phase ends!).
 
 ## Community Vote
 
