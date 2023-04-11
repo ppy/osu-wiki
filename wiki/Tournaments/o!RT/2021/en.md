@@ -8,7 +8,7 @@ tags:
 
 ![{SHORT_TITLE} logo](img/logo.png)
 
-The **osu! Romania Summer Tournament 2021** (***o!RST 2021***) was a 1v1, double elimination osu! tournament for Romanian and Moldovan players hosted by ::{ flag=RO }:: [Nice Aesthetics](https://osu.ppy.sh/users/7782553), ::{ flag=RO }:: [FallenAngelD](https://osu.ppy.sh/users/5225626), and ::{ flag=RO }:: [Ahrinity](https://osu.ppy.sh/users/11587229). It was the 3rd instalment of the osu! Romania Tournament.
+The **osu! Romania Summer Tournament 2021** (***o!RST 2021***) was a 1v1 double elimination osu! tournament for Romanian and Moldovan players hosted by ::{ flag=RO }:: [Nice Aesthetics](https://osu.ppy.sh/users/7782553), ::{ flag=RO }:: [FallenAngelD](https://osu.ppy.sh/users/5225626), and ::{ flag=RO }:: [Ahrinity](https://osu.ppy.sh/users/11587229). It was the third instalment of the osu! Romania Tournament.
 
 ## Tournament schedule
 
@@ -32,7 +32,7 @@ The **osu! Romania Summer Tournament 2021** (***o!RST 2021***) was a 1v1, double
 
 ![](img/badge.png "o!RST 2021 winner badge")
 
-**Note**: As the winner of the tournament waived his Lotus Keypad prize, the keypad was awarded to the 3rd place winner instead.
+**Note**: As the winner of the tournament waived his Lotus Keypad prize, the keypad was awarded to the player who finished 3rd instead.
 
 ## Organisation
 
@@ -41,7 +41,7 @@ The osu! Romania Summer Tournament 2021 was run by various community members:
 | Position | Member(s) |
 | --: | :-- |
 | Host | ::{ flag=RO }:: [Nice Aesthetics](https://osu.ppy.sh/users/7782553),::{ flag=RO }:: [FallenAngelD](https://osu.ppy.sh/users/5225626), ::{ flag=RO }:: [Ahrinity](https://osu.ppy.sh/users/11587229) |
-| Mappool selector | ::{ flag=RO }:: [badeu](https://osu.ppy.sh/users/1473890/), ::{ flag=GR }:: [JackPaX](https://osu.ppy.sh/users/11226645), ::{ flag=RO }:: [Ahrinity](https://osu.ppy.sh/users/11587229), ::{ flag=PL }:: [Najmsb](https://osu.ppy.sh/users/13742685) |
+| Mappool selector | ::{ flag=RO }:: [badeu](https://osu.ppy.sh/users/1473890), ::{ flag=GR }:: [JackPaX](https://osu.ppy.sh/users/11226645), ::{ flag=RO }:: [Ahrinity](https://osu.ppy.sh/users/11587229), ::{ flag=PL }:: [Najmsb](https://osu.ppy.sh/users/13742685) |
 | Streamer | ::{ flag=RO }:: [FallenAngelD](https://osu.ppy.sh/users/5225626) |
 | Commentator | ::{ flag=RO }:: [Teetoos](https://osu.ppy.sh/users/10065874), ::{ flag=RO }:: [FallenAngelD](https://osu.ppy.sh/users/5225626), ::{ flag=RO }:: [Nice Aesthetics](https://osu.ppy.sh/users/7782553), ::{ flag=RO }:: [Ahrinity](https://osu.ppy.sh/users/11587229), ::{ flag=RO }:: [eternum](https://osu.ppy.sh/users/4581069), ::{ flag=RO }:: [My Angel vuru](https://osu.ppy.sh/users/8244518), ::{ flag=RO }:: [L9 ELOVATOR](https://osu.ppy.sh/users/9578404) |
 | Designer | ::{ flag=RO }:: [Nice Aesthetics](https://osu.ppy.sh/users/7782553), ::{ flag=RO }:: [FallenAngelD](https://osu.ppy.sh/users/5225626) |
@@ -445,67 +445,67 @@ Monday, 2 August 2021:
 
 ### General rules
 
-1. This is a 1v1 tournament featuring a knockout double-elimination format.
-2. A qualifier phase will determine the participants, and the seeding order for the knockout stage. There is no limit to how many players can play in the qualifiers.
-3. The knockout stage will feature a maximum of 64 players in a Round of 64 bracket. Depending on the sign ups and the number of players attending the qualifiers, if the minimum number of players for a bracket of that size is not reached, the bracket will be downsized to Round of 32.
-4. The system used for beatmap scoring will be [ScoreV2](/wiki/Gameplay/Score#scorev2).
-5. It is required to be part of the tournament Discord server.
-6. It is expected from the players to be respectful to other competitors, to staff members, and in general to adhere to osu!'s rules, and to Discord's guidelines on the server. Exceedingly poor conduct will be punished with disqualification and even potential blacklisting from future editions of the tournament.
+1. This is a 1v1 tournament featuring a knockout double-elimination format, with a preceding qualifier stage.
+2. The system used for beatmap scoring will be [ScoreV2](/wiki/Gameplay/Score#scorev2).
+3. It is required to be part of the tournament Discord server.
+4. It is expected from the players to be respectful to other competitors, to staff members, and overall to follow the [osu! community rules](/wiki/Rules). Exceedingly poor conduct will be punished with disqualification and even potential blacklisting from future editions of the tournament.
 
 ### Registration
 
-1. Prerequisites for participating in the tournament are as following:
+1. Prerequisites for participating in the tournament are as follows:
    - Having a romanian ::{ flag=RO }:: or moldovan ::{ flag=MD }:: flag on the profile. If a player does not have one of the two flags on his profile, being able to prove romanian identity by other means to the tournament organizers is also a valid way to fulfill this requirement.
-   - Passing the screening phase to verify eligibility for playing in tournaments supported by the osu! staff. This will be done only after the sign-up period has ended, so a player must be registered to go through this process.
+   - Passing the [screening](/wiki/Tournaments/Official_support#tournament-screening) phase to verify eligibility for playing in tournaments supported by the osu! staff. This will be done only after the sign-up period has ended, so a player must be registered to go through this process.
 2. Core staff members like hosts, referees, mappool selectors, or spreadsheet managers are not allowed to simultaneously take part in the tournament as players.
-3. Staff members fulfilling only front-end roles as streamers, commentators or graphics designers are allowed to participate in the tournament as players.
+3. Staff members fulfilling only front-end roles as streamers, commentators or graphics designers are permitted to participate in the tournament as players.
 
 ### Qualifiers
 
-1. The qualifiers will determine the participants, and the seeding order for the knockout stage.
-2. Each player will play in one of the "qualifier lobbies" held at various hours during the weekend. Extra lobbies may be made available on request for players during other hours or days.
-3. A qualifier mappool will be played in the lobby, going through the maps once, in the order from the mappool spreadsheet.
-4. The results will be sorted by the **total score** each player achieved in his playthrough.
+1. The qualifiers will determine the participants and the seeding order for the knockout stage.
+2. Each player will play in one of the qualifier lobbies held during the weekend. 
+3. Whilst in the lobby, the players will do one playthrough of the qualifiers mappool, in the order from the mappool spreadsheet.
+4. The results will be sorted by the **total score** each player achieved in their respective playthrough.
 
 ### Knockout stage
 
-1. The knockout stage will take place on a weekly basis, being split into multiple rounds, each round having a corresponding mappool.
-2. For each round there will be allocated a weekend in the tournament's tentative schedule, however a round may be postponed at the discretion of the staff and with the approval of the remaining participants if the situation asks it.
-3. Winning conditions:
+1. The knockout stage will be split into multiple rounds taking place on a weekly basis, with each round's matches being played on a corresponding mappool.
+2. It will feature a maximum of 64 players in a Round of 64 bracket. If the minimum number of players for a bracket of that size is not reached, the bracket will be downsized to Round of 32.
+3. For each round a weekend will be allocated in the tournament's tentative schedule, however a round may be postponed at the discretion of the staff and with the approval of the remaining participants if the situation calls for it.
+4. The winning conditions for matches in each round are as follows:
    - Round of 64/Round of 32: Best of 9 (first to 5 points)
    - Round of 16/Quarter-Finals: Best of 11 (first to 6 points)
    - Semi-Finals/Finals: Best of 13 (first to 7 points)
-   - Grand Finals: Best of 17 (first to 9 points), with "bracket reset" rules applying in the following way:
+   - Grand Finals: Best of 17 (first to 9 points), with "bracket reset" rules in the Grand Final applying as follows:
      - The finalist coming from the Losers Bracket has to win 2 consecutive games.
-     - The finalist coming from the Winners Bracket has to win 1 game, either the first set, or the decisive set right after in case he loses the first one.
+     - The finalist coming from the Winners Bracket has to win 1 game. That means winning either the first set, or the decisive set right after in case he loses the first one.
 
 ### Match procedure
 
 1. 10 minutes before match time, the referee will create a lobby with the name o!RST: (Player 1) vs (Player 2). Shortly after, he will give the invites to the players.
 2. If a player is more than 5 minutes late to the lobby, he will lose a point. Failure to be present in the lobby 10 minutes after match time will be considered a forfeit.
-3. Players are allowed one warm-up map each, but it must not exceed 4 minutes of drain time.
+3. Players are allowed to choose one warm-up map each, but the maps must not exceed 4 minutes of drain time.
 4. Both players will type the `!roll` command to draw a random number. The player with the lower number will have the first ban, and the player with the higher number will have the first pick.
-5. After the pick and ban order is decided, the players will give their first set of bans. Before the second set of bans, each player will be able to choose one map each as their first pick of the match, with those maps being protected from the second round of bans. After playing each first map in the pick order, the match will continue with the maps being played sequentially right after they are picked by the player.
+5. After the pick and ban order is decided, the players will give their first set of bans. Before the second set of bans, each player will be able to choose one map each as their first pick of the match, with those maps being protected from the second round of bans. After the second round of bans, the two protected maps will be played in pick order, and then the match will continue with the rest of the maps being played sequentially right after they are picked by the player, following the pick order which was established after the rolls.
 6. Players have 90 seconds to pick or ban a map and 120 seconds to prepare before a map starts. If a player does not pick a map in time, that player's pick will be surrendered to the opponent, and if the same happens for a ban, that player's ban will be considered unused.
 7. For each map, after both players are ready, the referee will start a 10 second countdown with `!mp start 10` which will automatically start gameplay.
 8. If a player disconnects within the first 15 seconds of play, the map will be replayed, but this is only allowed once per game.
-9. Mod rules:
-   - ForceMod: Both players must choose at least one of Hidden, HardRock, Flashlight or EZ mod, or any valid combination.
-   - Tiebreaker: both players can, but are not forced to choose at least one of Hidden, HardRock, Flashlight or Easy mod, or any valid combination. This map cannot be picked by the players.
-   - On ForceMod and the Tiebreaker, EZ mod has a multiplier of 1.06x
-10. Each map win is one point. The first player to reach the required amount of points wins. If the score is tied with only one point left to play, the match will be decided on the Tiebreaker map.
-11. The referee cannot interfere with, or make decisions about the match that are not within his responsibility. For those kinds of situations, a host will have to be contacted.
+9. Each map win is one point. The first player to reach the required amount of points wins. If the score is tied with only one point left to play, the match will be decided on the Tiebreaker map.
+10. The referee cannot interfere with, or make decisions about the match that are not within his responsibility. For those kinds of situations, a host will have to be contacted.
 
 ### Scheduling
 
-1. The standard time used for scheduling purposes will be in **UTC+3** (Romania's timezone during Daylight Saving Time).
+1. The standard time used for scheduling purposes will be in **UTC+3** (Romania's time zone during Daylight Saving Time).
 2. Matches will be held by default during the weekend, with reschedules being allowed on other days of the week within some limits.
-3. Reschedules are expected to be done within an adequate timeframe before the previously established match time, ideally with at least 12 hours to go before the match is supposed to take place. Otherwise, it will be at the tournament staff's discretion whether the reschedule will be allowed or not.
+3. Reschedules are expected to be done within an adequate time frame before the previously established match time, ideally with at least 12 hours to go before the match is supposed to take place. Otherwise, it will be at the tournament staff's discretion whether the reschedule will be allowed or not.
 
 ### Mappools
 
-1. There will be separate mappools for each round. Their difficulty will increase with each week of the knockout stage, while the qualifiers mappool will have a balanced difficulty, relative to the overall difficulty of the bracket stage mappools.
-2. The number of maps for each mod, in each round, is as following:
+1. There will be separate mappools for each round. Their difficulty will increase after each week of the knockout stage, while the qualifiers mappool will have a balanced difficulty, relative to the overall difficulty of the bracket stage mappools.
+2. The mappools will consist of the following mod brackets: [No Mod](/wiki/Gameplay/Game_modifier#nomod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time), ForceMod, and a Tiebreaker. Only exception is the qualifier stage which will not feature ForceMod or Tiebreaker maps.
+3. Mod rules:
+   - ForceMod: Both players must choose at least one of the Hidden, HardRock, Flashlight or EZ mods, or any of their valid combinations.
+   - Tiebreaker: both players can, but are not forced to choose at least one of the Hidden, HardRock, Flashlight, EZ mods, or any of their valid combinations. This map cannot be picked by the players and will only be used as the decisive map whenever in a knockout stage match two players are tied with one point left to play.
+   - On ForceMod and the Tiebreaker, EZ mod has a multiplier of 1.06x
+4. The number of maps in each round for each mod bracket is as follows:
 
 | **Round/Mod** | NoMod | Hidden | HardRock | DoubleTime | ForceMod | Tiebreaker |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
