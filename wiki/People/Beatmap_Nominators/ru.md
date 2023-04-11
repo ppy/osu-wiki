@@ -178,7 +178,7 @@ tags:
 | ::{ flag=KR }:: [Kim_GodSSI](https://osu.ppy.sh/users/2218047) | Корейский |
 | ::{ flag=KR }:: [Lami-](https://osu.ppy.sh/users/16505281) | Корейский |
 | ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573) | Филиппинский |
-| ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/4790958) | Китайский |
+| ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/4790958) | Корейский |
 | ::{ flag=KR }:: [Murumoo](https://osu.ppy.sh/users/8001433) | Корейский |
 | ::{ flag=NL }:: [Muse Dash](https://osu.ppy.sh/users/13695676) | Нидерландский |
 | ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | Испанский, португальский, галисийский, итальянский, японский |
