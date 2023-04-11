@@ -27,8 +27,8 @@ The **osu! Romania Summer Tournament 2021** (***o!RST 2021***) was a 1v1 double 
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown "1st Place"](/wiki/shared/crown-gold.png "1st place") | 70€, 1x Lotus Keypad, Profile Badge |
-| ![Silver crown "2nd Place](/wiki/shared/crown-silver.png "2nd place") | 30€, 1x Lotus Keypad |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 70€, 1x Lotus Keypad, Profile Badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30€, 1x Lotus Keypad |
 
 ![](img/badge.png "o!RST 2021 winner badge")
 
@@ -439,7 +439,7 @@ Monday, 2 August 2021:
 | --: | :-: | :-: | :-- | :-- |
 | **WhySoInsecure** ::{ flag=RO }:: | **5** | 1 | ::{ flag=RO }:: RareshRSN | [#1](https://osu.ppy.sh/community/matches/88522572) |
 
-**Note:** The #1-2 seeded players, **eternum** and **\_AfterWind**, recieved direct byes to the winners bracket Round of 16, due to the uneven number of players in the Round of 32 bracket.
+**Note:** The #1-2 seeded players, **eternum** and **\_AfterWind**, received direct byes to the winners bracket Round of 16, due to the uneven number of players in the Round of 32 bracket.
 
 ## Ruleset
 
@@ -453,7 +453,7 @@ Monday, 2 August 2021:
 ### Registration
 
 1. Prerequisites for participating in the tournament are as follows:
-   - Having a romanian ::{ flag=RO }:: or moldovan ::{ flag=MD }:: flag on the profile. If a player does not have one of the two flags on his profile, being able to prove romanian identity by other means to the tournament organizers is also a valid way to fulfill this requirement.
+   - Having a Romanian ::{ flag=RO }:: or Moldovan ::{ flag=MD }:: flag on the profile. If a player does not have one of the two flags on his profile, being able to prove Romanian identity by other means to the tournament organizers is also a valid way to fulfill this requirement.
    - Passing the [screening](/wiki/Tournaments/Official_support#tournament-screening) phase to verify eligibility for playing in tournaments supported by the osu! staff. This will be done only after the sign-up period has ended, so a player must be registered to go through this process.
 2. Core staff members like hosts, referees, mappool selectors, or spreadsheet managers are not allowed to simultaneously take part in the tournament as players.
 3. Staff members fulfilling only front-end roles as streamers, commentators or graphics designers are permitted to participate in the tournament as players.
