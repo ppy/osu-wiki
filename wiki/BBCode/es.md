@@ -93,7 +93,7 @@ Botón de la barra de herramientas: ![Font size options](img/font-size.png "Tama
 
 ### Spoiler
 
-*No debe confundirse con la [Caja de spoiler](#spoilerbox).*
+*No debe confundirse con [Caja de spoiler](#spoilerbox).*
 
 ```
 [spoiler]texto[/spoiler]
@@ -105,7 +105,7 @@ La etiqueta se usa más comúnmente para evitar estropear información crítica/
 
 ### Caja
 
-*No debe confundirse con la [Caja de spoiler](#Caja-de-spoiler).*
+*No debe confundirse con [Caja de spoiler](#Caja-de-spoiler).*
 
 ```
 [box=NAME]
@@ -119,7 +119,7 @@ El texto del hipervínculo personalizado se indica mediante el argumento `NAME`.
 
 La etiqueta se usa más comúnmente para ocultar grandes paredes de texto e imágenes que pueden aumentar el tamaño de una publicación en el foro. Más notablemente en las publicaciones de preguntas frecuentes o [skins](/wiki/Skinning).
 
-*Nota: el botón de la barra de herramientas de la caja se llama "caja de spoiler", pero no crea una etiqueta de una `[caja de spoiler]`.*
+*Nota: el botón de la barra de herramientas de la caja se llama "caja de spoiler", pero no crea una etiqueta de `[spoilerbox]`.*
 
 Botón de la barra de herramientas: ![Box button](img/spoilerbox.png "Caja")
 
@@ -143,69 +143,69 @@ La etiqueta `[quote]` se utiliza para dar formato estilístico a citas largas (t
 
 *Aviso: el argumento `NAME` debe estar entre comillas (`"`).*
 
-Long quotations are typically used in more formal writings in place of in-line quotations when said quotation is three or more lines long. Within the osu! forums, however, they are most commonly used to reply to another user's comment, which can be done automatically through the `Quote reply` button located in the top-right of the desired comment (shown below). However, this button will **only appear if the cursor is nearby**.
+Las citas largas generalmente se usan en escritos más formales en lugar de citas en línea cuando dicha cita tiene tres o más líneas. Sin embargo, dentro de los foros de osu!, se usan más comúnmente para responder al comentario de otro usuario, lo que se puede hacer automáticamente a través del botón `Citar y responder` ubicado en la parte superior derecha del comentario deseado (que se muestra a continuación). Sin embargo, este botón **solo aparecerá si el cursor está cerca**.
 
 ![Quote reply button](img/quotereply.png)
 
-### Inline code
+### Código en línea
 
-*Not to be confused with [Code block](#code-block).*
+*No debe confundirse con [Bloque de código](#bloque-de-código).*
 
 ```
-[c]text[/c]
+[c]texto[/c]
 ```
 
-The `[c]` tag allows for highlighting inline text in a monospace font. On the osu! website, the text will be formatted with a grey box around it. In contrary to [code blocks](#code-block), the tag may only be placed in single lines.
+La etiqueta `[c]` permite resaltar texto en línea en una fuente monoespaciada. En el sitio web de osu!, el texto se formateará con un cuadro gris a su alrededor. A diferencia de los [bloques de código](#bloque-de-código), la etiqueta solo se puede colocar en líneas individuales.
 
-Within the osu! forums, this is useful for emphasising e.g. keyboard shortcuts or button descriptions.
+Dentro de los foros de osu!, esto es útil para enfatizar, por ejemplo, atajos de teclado o descripciones de botones.
 
-### Code block
+### Bloque de código
 
-*Not to be confused with [Inline code](#inline-code).*
+*No debe confundirse con [Código en línea](#código-en-línea).*
 
 ```
 [code]
-text
+texto
 [/code]
 ```
 
-The `[code]` tag is used to create *preformatted code blocks* (a.k.a. *preformatted text*). On the osu! website, the `[code]` tag will format text in a monospace font inside of a semi-transparent grey box. Formatting text inside of a code block will tell the editor to treat the text between those tags literally, thus preventing the conversion of any tags or source code into something else.
+La etiqueta `[code]` se usa para crear *bloques de código preformateados* (también conocido como *texto preformateado*). En el sitio web de osu!, la etiqueta `[code]` formateará el texto en una fuente monoespaciada dentro de un cuadro gris semitransparente. Dar formato al texto dentro de un bloque de código le indicará al editor que trate el texto entre esas etiquetas literalmente, evitando así la conversión de cualquier etiqueta o código fuente en otra cosa.
 
-Within the osu! forums, code blocks are most often used to post source code for a [storyboard](/wiki/Storyboard), or in tutorials that require showing the syntax for tags, commands, or source code.
+Dentro de los foros de osu!, los bloques de código se utilizan con mayor frecuencia para publicar el código fuente de una [storyboard](/wiki/Guión gráfico), o en tutoriales que requieren mostrar la sintaxis de las etiquetas, los comandos o el código fuente.
 
-### Centre
+### Centrar
 
 ```
-[centre]text[/centre]
+[centre]texto[/centre]
 ```
 
-The `[centre]` tag is used to align text to the centre of a box. This is most often used for stylistic effect in titles, headers, or poems. If placed inside of or surrounding a `[quote]` tag, the text inside the quote block will be centred, but the stylistic lines and such will not.
+La etiqueta `[centre]` se usa para alinear el texto al centro de una caja. Esto se usa con mayor frecuencia para efectos estilísticos en títulos, encabezados o poemas. Si se coloca dentro o alrededor de una etiqueta `[quote]`, el texto dentro del bloque de citas estará centrado, pero las líneas estilísticas y demás no.
 
 ### URL
 
 ```
-[url=LINK]text[/url]
+[url=LINK]texto[/url]
 ```
 
-The `[url]` tag is used to turn regular text into clickable hyperlinks.
+La etiqueta `[url]` se usa para convertir texto regular en hipervínculos en los que se puede hacer clic.
 
-*Note: Using this tag is not necessary should one wish not to use custom hyperlink text, as the forum editor parses proper URLs into links automatically.*
+*Nota: El uso de esta etiqueta no es necesario si no se desea utilizar texto de hipervínculo personalizado, ya que el editor del foro analiza las URL adecuadas en enlaces automáticamente.*
 
-To create hyperlinks with the `[url]` tag, users must specify two arguments: the linked text to be displayed, and the specific URL of the website to navigate to. The former must be specified between the open and closed tags, and the latter must be specified as the `LINK` argument, without quotation marks (`"`). If no text is specified, the text will default to the name of the URL.
+Para crear hipervínculos con la etiqueta `[url]`, los usuarios deben especificar dos argumentos: el texto vinculado que se mostrará, y la URL específica del sitio web para navegar. El primero debe especificarse entre las etiquetas abiertas y cerradas, y el último debe especificarse como el argumento `LINK`, sin comillas (`"`). Si no se especifica ningún texto, el texto predeterminado será el nombre de la URL.
 
-Toolbar button: ![URL button](img/url.png "URL")
+Botón de la barra de herramientas: ![URL button](img/url.png "URL")
 
-### Profile
+### Perfil
 
 ```
-[profile=userid]username[/profile]
+[profile=userid]nombre de usuario[/profile]
 ```
 
-The `[profile]` tag is used to link to a user's osu! profile page by using their username or user ID. Usage of the `[profile]` tag differs from the use of `[url]` tag in that the `[profile]` tag displays a user card when hovering over the link that is created by the tag.
+La etiqueta `[profile]` se utiliza para enlazar la página de perfil de osu! de un usuario usando su nombre de usuario o ID de usuario. El uso de la etiqueta `[profile]` difiere del uso de la etiqueta `[url]` en que la etiqueta `[profile]` muestra una tarjeta de usuario al pasar el cursor sobre el enlace creado por la etiqueta.
 
-*Note: The user ID is a string of numbers that directly follow the `/users/` in the URL of an osu! profile page.*
+*Nota: El ID de usuario es una cadena de números que siguen directamente a `/users/` en la URL de una página de perfil de osu!.*
 
-When specifying users only by their user IDs, a placeholder text is required between the open and closed tags. Doing so will display the username on the actual page, not the placeholder text. When specifying users only by their username, the link will not function once they change their username.
+Al especificar usuarios solo por sus ID de usuario, se requiere un texto de marcador de posición entre las etiquetas abiertas y cerradas. Al hacerlo, se mostrará el nombre de usuario en la página real, no el texto del marcador de posición. Al especificar usuarios solo por su nombre de usuario, el enlace no funcionará una vez que cambien su nombre de usuario.
 
 ### Formatted lists
 
