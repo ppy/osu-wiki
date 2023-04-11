@@ -155,6 +155,7 @@ Les citations longues sont généralement utilisées dans des écrits plus forme
 ```
 [c]text[/c]
 ```
+
 La balise `[c]` permet de mettre en évidence du texte en ligne dans une police monospace. Sur le site d'osu!, le texte sera formaté avec une boîte grise autour de lui. contrairement aux [blocs de codes](#bloc-de-codes), la balise ne peut être placée que sur une seule ligne.
 
 Dans les forums d'osu!, il est utilisé afin de pouvoir mettre des accents, par exemple sur les raccourcis clavier ou les descriptions de boutons.
