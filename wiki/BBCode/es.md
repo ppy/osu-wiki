@@ -6,7 +6,7 @@ outdated_translation: true
 
 **BBCode** es un [lenguaje de marcado](https://en.wikipedia.org/wiki/Markup_language) que se usa en los foros de osu! y, en mayor medida, la gran mayoría de foros en Internet. Se utiliza para habilitar el formato de texto enriquecido, se compone de etiquetas que rodean el texto para indicar formato, atributos, incrustaciones y más. Se usa en varios lugares del sitio web de osu!, como publicaciones en foros, firmas, páginas de usuarios y descripciones de mapas.
 
-![The forum post editor with its buttons](img/editor.jpg?1 "El cuadro de edición en los foros")
+![The forum post editor with its buttons](img/editor-ES.png "El cuadro de edición en los foros")
 
 ## Comportamiento
 
@@ -89,7 +89,7 @@ La etiqueta `[size]` se usa para estilizar el texto mediante el uso de diferente
 
 El argumento `NUMBER` no acepta comillas y solo acepta uno de los cuatro tamaños admitidos. Si se ingresa un número que no es uno de los cuatro admitidos, el texto volverá al tamaño predeterminado.
 
-Botón de la barra de herramientas: ![Font size options](img/font-size.png "Tamaño de fuente")
+Botón de la barra de herramientas: ![Font size options](img/font-size-ES.png "Tamaño de fuente")
 
 ### Spoiler
 
