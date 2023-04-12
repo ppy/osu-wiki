@@ -54,7 +54,7 @@ osu! wiki의 모든 변경 사항은 관리됩니다. 이 단계에서 다른 �
 
 - 모든 제안을 해결했는지 확인하세요. 사람들이 리뷰에 대한 응답을 기다리고 있을 수 있습니다.
 - [osu!dev 디스코드 서버](/wiki/Community/osu!dev_Discord_server) (`#osu-wiki` 채널) 혹은 GitHub 코멘트에 있는 osu! wiki 편집자들에게 물어보세요.
-- 사용하는 언어의 Pull Request 중, 이미 병합된 항목의 리뷰어 혹은 작성자에게 연락해 보세요. ([검색 예](https://github.com/ppy/osu-wiki/pulls?q=is%3Apr+is%3Amerged+%5BKO%5D)) 
+- 사용하는 언어의 Pull Request 중, 이미 병합된 항목의 리뷰어 혹은 작성자에게 연락해 보세요. ([검색 예](https://github.com/ppy/osu-wiki/pulls?q=is:pr+is:merged+[KO]))
 - 주변에 친구에게 한번 확인해달라고 해보세요!
 
 직접적인 리뷰 외에도, osu! wiki 저장소에는 [자동 검사를 위한 시스템](/wiki/osu!_wiki/Maintenance#ci-checks)이 있어 변경 사항이 위키의 일반적인 스타일을 따르는지, 형식에 오류가 없는지 확인합니다. 상태를 확인하시려면 Pull Request의 `Actions` 탭을 열고 확인하시면 됩니다. 만약 오류가 있다면 오류 아래에 적힌 메시지에 따라 해결하세요.
