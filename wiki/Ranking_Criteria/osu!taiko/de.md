@@ -27,7 +27,7 @@ Die **Ranking-Kriterien für osu!taiko** legen die [Regeln und Richtlinien](/wik
 - **Spinner:** Ein rundes Element, bei dem Spieler zwischen dem Treffen von Don/Kat für eine bestimmte Anzahl von Malen hin- und herwechseln müssen, was in der Mitte des Spinners angezeigt wird. Dieser Wert hängt von der allgemeinen Schwierigkeit (OD) der Beatmap sowie von der Länge des Spinners ab.
 - **Taktstrich:** Eine Linie, die auf dem Spielfeld erscheint und den Start eines Taktes bestimmt.
 - **Überlappung:** Eine Note, die teilweise oder vollständig andere Noten im Spielfeld überdeckt.
-- **Pause:** Ein Zeitabschnitt ohne Noten, damit Spieler ihre Hand ausruhen und sich auf die bevorstehende Sektion vorbereiten können.
+- **Pause:** Ein Zeitabschnitt ohne Noten, damit Spieler ihre Hände ausruhen und sich auf die bevorstehende Sektion vorbereiten können.
 - **Stream:** Gruppierung aufeinanderfolgender Circles. Normalerweise auf 1/4-Takte geteilt.
 - **Taktteilung:** Ein Strich auf der Zeitleiste, bei dem ein Objekt platziert wird.
 - **Variable Taktteilung:** Eine Kombination mehrerer verschiedener Wege, Noten aufgrund des schwankenden Charakters des Songs innerhalb einer kurzen Zeitspanne zu platzieren.
@@ -50,7 +50,7 @@ Alle Regeln sind genau das: **Regeln**. Sie sind **keine** Richtlinien und dürf
 - **Jede Note muss eindeutig einer [musikalischen Ebene](/wiki/Music_theory/Layer) oder Ebeneneinheit zugeordnet werden können, die sie repräsentieren soll, sei es, um eine vom Song vorgegebene Ebene zu erweitern, oder sei es eine zusätzliche, vom Mapper improvisierte Ebene.** Improvisiere nicht in einer Weise, die das Tempo verschiebt, der allgemeinen Musikrichtung widerspricht oder die aktuelle Intensität des Songs falsch interpretiert. Die Improvisation muss entweder eine bestehende Ebene des Songs verbessern oder eine neue hinzufügen. Andernfalls geht der Bezug zum Song verloren, was dem Hauptzweck eines Rhythmusspiels widerspricht.
 - **Die Funktion `Omit first bar line` eines nicht vererbten Timing-Punkts muss verwendet werden, wenn eine Änderung der BPM bzw. eine Rücksetzung des Metronoms das Spielerlebnis durch das Hinzufügen überflüssiger Taktstriche in ästhetischer Hinsicht beeinträchtigen würde.**
 - **Taiko-Hintergrundvorlagen dürfen nicht benutzt werden.** Aufgrund der verschiedenen gängigen Bildschirmauflösungen funktionieren sie nicht so, wie sie ursprünglich gedacht waren.
-- **Slider tails must not be wrongly snapped to correct missing slider ticks.** Dieses Verhalten ist unbeabsichtigt und wird in Zukunft korrigiert.
+- **Slidertails dürfen nicht fehlenden Sliderticks im Takt zugeteilt werden.** Dieses Verhalten ist unbeabsichtigt und wird in Zukunft korrigiert.
 
 #### Richtlinien
 
@@ -71,7 +71,7 @@ In **Ausnahmefällen** dürfen die Richtlinien ignoriert werden. Diese außergew
 - **Vermeide visuell störende Noten auf dem Spielfeld mit aktiven Spinnern.** Spinner decken den Großteil des Bildschirms ab, so dass die Beatmap massiv schwieriger zum Lesen wird, wenn die Spinner zu nah an den nachfolgenden Noten enden. Einen 1/2-Takt Abstand zwischen einem Spinner und der folgenden Note löst dieses Problem in der Regel.
 - **Wenn eigene Hitsounds verwendet werden, sollten diese mit Trommeln zu tun haben.** Tiefere Töne sollten als Don und höhere Töne als Kat eingestellt werden.
 
-## Schwierigkeitsgradabhängig
+## Abhängig vom Schwierigkeitsgrad
 
 Schwierigkeitsspezifische Regeln und Richtlinien gelten nur für die Schwierigkeitsstufe, bei der sie aufgeführt werden und *betreffen somit nicht **jeden** osu!taiko-Schwierigkeitsgrad*. Rhythmusbezogene Regeln und Leitlinien gelten für Beatmaps mit ungefähr 180 BPM. Wenn dein Song drastisch schneller oder langsamer ist, können einige Variablen anders sein, wie in [Skalierung der BPM anhand der Ranking-Kriterien](/wiki/Ranking_Criteria/Scaling_BPM) ausführlich beschrieben.
 
@@ -130,7 +130,7 @@ Wenn eine Futsuu-Schwierigkeit erforderlich ist und als *niedrigste Schwierigkei
 #### Regeln
 
 - **Finisher-Notes dürfen nicht in 1/4 oder schnelleren Patterns in dieser Schwierigkeitsstufe platziert werden.** Die Verwendung von Finisher-Notes ist für das Zielpublikum zu kompliziert.
-- **Noten müssen mindestens einen 1/6-Takt auseinander liegen.** Alles, was länger ist, ist für das Zielpublikum dieses Schwierigkeitsgrades zu komplex.
+- **Noten müssen mindestens einen 1/6-Takt auseinander liegen.** Alles, was schneller ist, ist für das Zielpublikum dieses Schwierigkeitsgrades zu komplex.
 
 #### Richtlinien
 
@@ -154,20 +154,20 @@ Wenn eine Futsuu-Schwierigkeit erforderlich ist und als *niedrigste Schwierigkei
 
 - **Finisher-Notes dürfen nicht in 1/6 oder schnelleren Patterns in dieser Schwierigkeitsstufe platziert werden.** Die Verwendung von Finisher-Notes ist für das Zielpublikum zu kompliziert.
 - **Finisher-Notes für 1/4-Patterns in dieser Schwierigkeitsstufe dürfen nur am Ende des Patterns platziert werden.** Andere Platzierungen können die Lesbarkeit für das Zielpublikum zu stark beeinträchtigen.
-- **Noten müssen mindestens einen 1/8-Takt auseinander liegen.** Alles, was länger ist, ist für das Zielpublikum dieses Schwierigkeitsgrades zu komplex.
+- **Noten müssen mindestens einen 1/8-Takt auseinander liegen.** Alles, was schneller ist, ist für das Zielpublikum dieses Schwierigkeitsgrades zu komplex.
 
 #### Richtlinien
 
 - **1/8-Patterns sollten nicht länger als 2 Noten sein.** Alles, was länger ist, ist sehr situationsabhängig und normalerweise zu komplex. Auf solche Patterns sollte eine Pause folgen.
 - **1/4-Patterns sollten nicht länger als 9 Noten sein.** Alles, was länger ist, ist vermutlich zu anstrengend für das Zielpublikum dieses Schwierigkeitsgrades.
-- **Die allgemeine Taktteilung sollte hauptsächlich aus 1/2 und gelegentlich 1/1-Rhythmen bestehen.** 1/4-Rhythmen dürfen in diesem Schwierigkeitsgrad sehr häufig verwendet werden.
+- **Die allgemeine Taktteilung sollte hauptsächlich aus 1/2 und gelegentlich 1/1-Rhythmen bestehen.** 1/4-Rhythmen dürfen in diesem Schwierigkeitsgrad häufiger verwendet werden.
 - **Zwischen einem Spinner und der vorhergehenden Note sollte mindestens 1/4 Abstand sein.** Auf diese Weise wird sichergestellt, dass sie nicht übermäßig überlappen und dass die Lesbarkeit gewährleistet ist.
 - **Nach 16/1 bis 20/1 kontinuierlichem Mapping sollte mindestens eine Pause eingefügt werden, die 1/1 oder länger ist.** Spieler könnten überfordert sein, wenn es nicht genug Pausen gibt oder diese zu kurz sind.
 - **1/4-Patterns, die länger als 5 Noten sind, sollten komplizierte Farbwechsel vermeiden.** Längere Patterns mit solcher Komplexität sind für das Zielpublikum dieser Schwierigkeitsstufe zu anstrengend.
 
 #### Richtlinien für die Schwierigkeitseinstellungen
 
-- Allgemeine Schwierigkeit sollte 5 oder weniger sein.
+- Allgemeine Schwierigkeit sollte 5 oder mehr sein.
 - HP-Drain-Rate sollte 5 oder mehr sein. Wenn die Notenanzahl höher ist, darf die HP-Drain-Rate geringfügig auf unter 5 angepasst werden.
 
 ### ![](/wiki/shared/diff/expert-t.png?20211215) Inner/Ura Oni
@@ -179,5 +179,5 @@ Wenn eine Futsuu-Schwierigkeit erforderlich ist und als *niedrigste Schwierigkei
 
 #### Richtlinien für die Schwierigkeitseinstellungen
 
-- Allgemeine Schwierigkeit sollte 5 oder weniger sein.
+- Allgemeine Schwierigkeit sollte 5 oder mehr sein.
 - HP-Drain-Rate sollte 5 oder mehr sein. Wenn die Notenanzahl höher ist, darf die HP-Drain-Rate geringfügig auf unter 5 angepasst werden.
