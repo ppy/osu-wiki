@@ -5,14 +5,6 @@ tags:
   - CWC 2023
 ---
 
-<!--
-ADD:
-    {OC_LINK}
-    {SIGNUP_LINK}
-    {CHALLONGE_LINK}
-    {FORUM_LINK}
--->
-
 # osu!catch World Cup 2023
 
 ![CWC 2023 banner](img/cwc2023-banner.jpg)
@@ -35,7 +27,7 @@ The **osu!catch World Cup 2023** (***CWC 2023***) is an upcoming country-based o
 
 ## Prizes
 
-The osu!catch World Cup 2023 offers a minimum $2,000 cash prize pool and limited-edition merch. The prize pool can be further increased from [community donations]({OC-LINK}).
+The osu!catch World Cup 2023 offers a minimum $2,000 cash prize pool and limited-edition merch. The prize pool can be further increased from [community donations](https://opencollective.com/osu-tournaments/events/osu-catch-world-cup-2023-3aaa5a51).
 
 | Placing | Prizes |
 | :-: | :-- |
@@ -58,11 +50,10 @@ The osu!catch World Cup 2023 is run by various community members.
 
 ## Links
 
-- **[Sign up here]({SIGNUP_LINK})**
-- [Discussion thread]({FORUM_LINK})
+- **[Sign up here](https://osu.ppy.sh/community/tournaments/38)**
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1749802)
 - [Livestream](https://www.twitch.tv/osulive)
-- [Challonge bracket]({CHALLONGE_LINK})
-- [Donate to the prize pool]({OC_LINK})
+- [Donate to the prize pool](https://opencollective.com/osu-tournaments/events/osu-catch-world-cup-2023-3aaa5a51)
 
 ## Ruleset
 
