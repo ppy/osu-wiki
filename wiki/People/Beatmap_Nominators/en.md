@@ -180,7 +180,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ::{ flag=KR }:: [Kim_GodSSI](https://osu.ppy.sh/users/2218047) | Korean |
 | ::{ flag=KR }:: [Lami-](https://osu.ppy.sh/users/16505281) | Korean |
 | ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573) | Filipino |
-| ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/4790958) | Chinese |
+| ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/4790958) | Korean |
 | ::{ flag=KR }:: [Murumoo](https://osu.ppy.sh/users/8001433) | Korean |
 | ::{ flag=NL }:: [Muse Dash](https://osu.ppy.sh/users/13695676) | Dutch |
 | ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | Spanish, Portuguese, Galician, Italian, Japanese |

@@ -180,7 +180,7 @@ Probation은 신규 BN이나 관련된 BN을 면밀하게 모니터링하기 위
 | ::{ flag=KR }:: [Kim_GodSSI](https://osu.ppy.sh/users/2218047) | 한국어 |
 | ::{ flag=KR }:: [Lami-](https://osu.ppy.sh/users/16505281) | 한국어 |
 | ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573) | 필리핀어 |
-| ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/4790958) | 중국어 |
+| ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/4790958) | 한국어 |
 | ::{ flag=KR }:: [Murumoo](https://osu.ppy.sh/users/8001433) | 한국어 |
 | ::{ flag=NL }:: [Muse Dash](https://osu.ppy.sh/users/13695676) | 네덜란드어 |
 | ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | 스페인어, 포르투갈어, 갈리시아어, 이탈리아어, 일본어 |
