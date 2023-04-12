@@ -101,13 +101,13 @@ Due to the large number of players, the match results will be displayed in the [
 3. A list of all successfully registered players will be published after the registration phase.
 4. All successfully registered players will be grouped as follows:
 
-| Group | Player's 4k PP |
+| Group | Player's 4K pp |
 | EX | 8500 and above |
-| S | 6500 ~ 8499 |
-| A | 4500 ~ 6499 |
-| B | 0 ~ 4499 |
+| S | 6500 – 8499 |
+| A | 4500 – 6499 |
+| B | 0 – 4499 |
 
-5. If the 4kpp of a player is much higher than the upper limitation of his level, he will be forced to promote into next level. The buffer is *100 pp*.
+5. If the 4K pp of a player is much higher than the upper limitation of his level, he will be forced to promote into next level. The buffer is *100 pp*.
 6. [Tournament staff members](/wiki/Tournaments/Official_support#what-is-considered-staff) must not participate as players in the tournament.
 7. Organisers may force to promote some players that are considered too strong in their levels.
 8. Organisers reserve the right to decline restricted players from participating in the tournament.
@@ -135,12 +135,12 @@ Due to the large number of players, the match results will be displayed in the [
 | Top 90% | 4 |
 | Top 100% | 2 |
 
-| Level | Multiplier(x is base points) |
+| Level | Multiplier (x is base points) |
 | :-: | --: |
 | Level B | x |
-| Level A | 1.5x+12 |
-| Level S | 2.3x+30 |
-| Level EX | 3.4x+57 |
+| Level A | 1.5x + 12 |
+| Level S | 2.3x + 30 |
+| Level EX | 3.4x + 57 |
 
 3. The final ranking of qualifier depends on the total points of all the 4 rounds. The top 16 players will be able to join playoff stage.
 4. In the playoff stage, players need to win a specific number of beatmaps to win, depending on the situation.
