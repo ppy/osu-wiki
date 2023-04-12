@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!catch World Cup 2023: Registrations Now Open!"
-date: 2023-04-13 03:00:00 +0000
+date: 2023-04-13 00:00:00 +0000
 ---
 
 Get ready to catch the beat and dodge the competition, as the osu!catch World Cup is back for its 12th instalment!
