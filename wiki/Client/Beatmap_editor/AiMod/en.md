@@ -38,7 +38,7 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 | OD rate is suggested to be at least 5. | *Self-explanatory* | Set the `Overall Difficulty` in the Difficulty tab of [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup) to 5 or higher. | ![](/wiki/shared/mode/mania.png) osu!mania maps only. This warning can safely be ignored if the usage of the low Overall Difficulty in question is intended. |
 | OD rate for maps with very few sliders is suggested to be at least 7. | *Self-explanatory* | Set the `Overall Difficulty` in the Difficulty tab of [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup) to 7 or higher. | ![](/wiki/shared/mode/mania.png) osu!mania maps only. This warning can safely be ignored if the usage of the low Overall Difficulty in question is intended. |
 | <!-- Both seem to occur, not sure what changes the value -->OD rate for maps with very few sliders is suggested to be at least 8. | *Self-explanatory* | Set the `Overall Difficulty` in the Difficulty tab of [Song Setup](/wiki/Client/Beatmap_editor/Song_Setup) to 8 or higher. | ![](/wiki/shared/mode/mania.png) osu!mania maps only. This warning can safely be ignored if the usage of the low Overall Difficulty in question is intended. |
-| The Slider Velocity should be 1.40 or 1.60. | *Self-explanatory* | Go to Timing tab and set the `Slider Velocity:` to either 1.40 or 1.60. | ![](/wiki/shared/mode/mania.png) osu!mania maps only |
+| The Slider Velocity should be 1.40 or 1.60. | *Self-explanatory* | Go to Timing tab and set the `Slider Velocity:` to either 1.40 or 1.60. | ![](/wiki/shared/mode/taiko.png) osu!taiko maps only |
 
 ### Errors
 
