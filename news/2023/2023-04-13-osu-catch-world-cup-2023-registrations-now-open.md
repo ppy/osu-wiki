@@ -8,7 +8,7 @@ Get ready to catch the beat and dodge the competition, as the osu!catch World Cu
 
 ![](/wiki/Tournaments/CWC/2023/img/cwc2023-banner.jpg)
 
-Following the trend set by our very own [osu!taiko World Cup](/wiki/Tournaments/TWC/2023), we're making a few changes to the format, more specifically on the mappooling department. In previous years, mappools had a considerable amount of convert beatmaps (at least one per mod bracket). For this iteration, every round will have only one convert so that the overall difficulty of the maps can be more accurately represented.
+Following the trend set by our very own [osu!taiko World Cup](/wiki/Tournaments/TWC/2023), we're making a few changes to the format, more specifically on the mappooling department. In previous years, mappools had a considerable amount of convert beatmaps (at least one per mod bracket). For this iteration, every round will have only one convert, placed on the NoMod bracket, so that the overall difficulty of the maps can be more accurately represented.
 
 Continuing our ongoing efforts towards diversifying the ways the community can contribute to the World Cups, we have created an **[Open Collective](https://opencollective.com/osu-tournaments/events/osu-catch-world-cup-2023-3aaa5a51)** to allow for donations, which will be added to the prize pool at the end of the competition.
 
