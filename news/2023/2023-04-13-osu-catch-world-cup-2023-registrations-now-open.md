@@ -24,7 +24,7 @@ For more details, refer to the [osu!catch World Cup 2023 wiki article](/wiki/Tou
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | Apr 13 – Apr 27 |
+| Registration phase | Apr 13 – Apr 26 |
 | Qualifier showcase | May 07 (14:00 UTC) |
 | Qualifier stage | May 13 & May 14 |
 | Round of 32 | May 20 & May 21 |
@@ -46,7 +46,7 @@ The osu!catch World Cup 2023 offers a $2,000 prize pool, along with limited-edit
 
 - **[Click here!](https://osu.ppy.sh/community/tournaments/38)**
 - Teams will be formed by each country's captain *after* the registration phase has concluded.
-- **The deadline for registering is March , 23:59 UTC. Make sure to get yours in before then!**
+- **The deadline for registering is April 26, 23:59 UTC. Make sure to get yours in before then!**
 
 *Notice: you may only participate if your position in the osu!catch global ranking is #5000 or higher, and you have not violated the [osu! community rules](/wiki/Rules) in the past 12 months.*
 
