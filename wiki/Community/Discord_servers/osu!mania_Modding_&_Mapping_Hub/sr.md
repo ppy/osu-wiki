@@ -1,0 +1,38 @@
+# osu!mania Modding & Mapping Hub Discord сервер
+
+::: Infobox
+
+<!-- lint ignore heading-increment -->
+
+#### osu!mania Modding & Mapping Hub
+
+![Server banner](img/banner.jpg "osu!mania Modding & Mapping Hub server banner, дизајнирано од стране Leniane")
+
+|  |  |
+| :-- | :-- |
+| Линк позивнице | <https://discord.gg/FqbDdYN> |
+
+:::
+
+**osu!mania Modding & Mapping Hub** је [Discord](https://discord.com) сервер заједнице намењено за све актуелне и амбициозне [osu!mania](/wiki/Game_mode/osu!mania) мапере и модере. Корисници су у могућности да пронађу многе канале који им помажу да се развијају као мапери или да ступе у интеракцију са општом osu!mania заједницом мапирања.
+
+Сервер се углавном састоји од:
+
+- Канали за тражење модификација, гост потешкоћа, номинације или других захтева у вези са мапирањем.
+- Канали на којима корисници могу поставити било која питања у вези са мапирањем, одговарају искусним маперима да одговоре на наведена питања.
+- Место за дељење редова за модификовање како бисте стекли више искуства.
+- Централизовано место за проналажење статуса [Мапа Номинатора](/wiki/People/Beatmap_Nominators).
+- Листа корисних референци као што су алати, RC предлози и други Discord сервери.
+
+## Особља
+
+| Role | Корисник (Discord ID) |
+| :-- | :-- |
+| Власник Сервера | ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) (FAMoss#8805) |
+| Модератори Сервера | ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) (FAMoss#8805), ::{ flag=DE }:: [Feerum](https://osu.ppy.sh/users/4815717) (Feerum#4291), ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) (Maxus#9040), ::{ flag=GB }:: [Pope Gadget](https://osu.ppy.sh/users/2288341) (Pope Gadget#7080), ::{ flag=CN }:: [Shima Rin](https://osu.ppy.sh/users/6089608) (Shima Rin#7859) |
+
+## Верификација
+
+Да би добили приступ каналима, корисници морају да верификују свој идентитет са својим osu! налогом користећи [Axerbot](https://osu.ppy.sh/community/forums/topics/1604925).
+
+![Порука за аутентификацију од AxerBot-а](img/auth.jpg "Када се придружите серверу, AxerBot ће затражити од корисника да потврди свој идентитет са својим osu! профилом користећи OAuth2.")
