@@ -6,7 +6,7 @@
 
 #### osu!catch Modding & Mapping Hub
 
-![Server banner](img/banner.jpg "osu!catch Modding & Mapping Hub server banner, designed by Greaper")
+![Server banner](img/banner.jpg "osu!catch Modding & Mapping Hub server banner, дизајнирано од стране by Greaper")
 
 |  |  |
 | :-- | :-- |
@@ -32,7 +32,6 @@
 | Администратори | ::{ flag=PH }:: [-Rustyy](https://osu.ppy.sh/users/16355636) (Rustyy#2330), ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) (ascendance#7599), ::{ flag=CL }:: [Bastian](https://osu.ppy.sh/users/6345176) (Bastian#9611), ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565)(Deif#1111), ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) (Greaper#0001), ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) (JBHyperion#9178), ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134) (Jemzuu#2751), ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) (Andrew#2539), ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) (Guille#1111) |
 
 ## Верификација
-
 
 Да би добили приступ каналима, корисници морају да верификују свој идентитет објављивањем osu! профила на каналу `#arrival` и наводећи за коју role су заинтересовани.
 
