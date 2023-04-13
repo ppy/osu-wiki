@@ -1,7 +1,7 @@
 ---
 tags:
   - RoCup 2022
-  - RoCup
+  - o!RT
 ---
 
 # Romanian osu! Cup 2022
@@ -93,7 +93,7 @@ This competition has come to an end and resulted in the following podium:
 ### Registration
 
 1. Prerequisites for participating in the tournament are as follows:
-   - Having a Romanian ::{ flag=RO }:: or Moldovan ::{ flag=MD }:: flag on the profile. If a player does not have one of the two flags on his profile, being able to prove Romanian identity by other means to the tournament organizers is also a valid way to fulfill this requirement.
+   - Having a Romanian ::{ flag=RO }:: or Moldovan ::{ flag=MD }:: flag on the profile.
    - Passing the [screening](/wiki/Tournaments/Official_support#tournament-screening) phase to verify eligibility for playing in tournaments supported by the osu! staff. This will be done only after the sign-up period has ended, so a player must be registered to go through this process.
 2. Core staff members like hosts, referees, mappool selectors, or spreadsheet managers are not allowed to simultaneously take part in the tournament as players.
 3. Staff members fulfilling only front-end roles as streamers, commentators or graphics designers are permitted to participate in the tournament as players.
@@ -101,33 +101,32 @@ This competition has come to an end and resulted in the following podium:
 ### Qualifiers
 
 1. The qualifiers will determine the participants and the seeding order for the knockout stage.
-2. Each player will play in one of the qualifier lobbies held during the weekend. 
+2. Each player will play in one of the qualifier lobbies held during the weekend. Players may ask for extra lobbies to pe scheduled on other days of the week, but not later than Monday, July 7 2022, 20:00 UTC+3.
 3. Whilst in the lobby, the players will do one playthrough of the qualifiers mappool, in the order from the mappool spreadsheet.
-4. The results will be sorted by the **total score** each player achieved in their respective playthrough.
+4. The results will be sorted by **total rank**, which is the sum of a player's placings by score when compared to other players on every map in the pool. The lower the total rank, the higher placing in the qualifiers ranking. In case of a tie between multiple players on total rank, normalised average score will be used as a tiebreaker.
 
 ### Knockout stage
 
 1. The knockout stage will be split into multiple rounds taking place on a weekly basis, with each round's matches being played on a corresponding mappool.
-2. It will feature a maximum of 64 players in a Round of 64 bracket. If the minimum number of players for a bracket of that size is not reached, the bracket will be downsized to Round of 32.
+2. It will feature a maximum of 32 players in a Round of 32 bracket. If the minimum number of players for a bracket of that size is not reached, the bracket will be downsized to Round of 16.
 3. For each round a weekend will be allocated in the tournament's tentative schedule, however a round may be postponed at the discretion of the staff and with the approval of the remaining participants if the situation calls for it.
 4. The winning conditions for matches in each round are as follows:
-   - Round of 64/Round of 32: Best of 9 (first to 5 points)
-   - Round of 16/Quarter-Finals: Best of 11 (first to 6 points)
-   - Semi-Finals/Finals: Best of 13 (first to 7 points)
-   - Grand Finals: Best of 17 (first to 9 points), with "bracket reset" rules in the Grand Final applying as follows:
+   - Round of 32/Round of 16: Best of 9 (first to 5 points)
+   - Quarter-Finals/Semi-Finals: Best of 11 (first to 6 points)
+   - Finals/Grand Finals: Best of 13 (first to 7 points), with "bracket reset" rules in the Grand Final applying as follows:
      - The finalist coming from the Losers Bracket has to win 2 consecutive games.
      - The finalist coming from the Winners Bracket has to win 1 game. That means winning either the first set, or the decisive set right after in case he loses the first one.
 
 ### Match procedure
 
-1. 10 minutes before match time, the referee will create a lobby with the name o!RST: (Player 1) vs (Player 2). Shortly after, he will give the invites to the players.
-2. If a player is more than 5 minutes late to the lobby, he will lose a point. Failure to be present in the lobby 10 minutes after match time will be considered a forfeit.
+1. 10 minutes before match time, the referee will create a lobby with the name ROC: (Player 1) vs (Player 2). Shortly after, he will give the invites to the players.
+2. If a player fails to be present in the lobby 10 minutes after match time, whilst not responding to any method of contact, it will be considered a forfeit and a loss by default for that player.
 3. Players are allowed to choose one warm-up map each, but the maps must not exceed 4 minutes of drain time.
 4. Both players will type the `!roll` command to draw a random number. The player with the lower number will have the first ban, and the player with the higher number will have the first pick.
 5. After the pick and ban order is decided, the players will give their first set of bans. Before the second set of bans, each player will be able to choose one map each as their first pick of the match, with those maps being protected from the second round of bans. After the second round of bans, the two protected maps will be played in pick order, and then the match will continue with the rest of the maps being played sequentially right after they are picked by the player, following the pick order which was established after the rolls.
-6. Players have 90 seconds to pick or ban a map and 120 seconds to prepare before a map starts. If a player does not pick a map in time, that player's pick will be surrendered to the opponent, and if the same happens for a ban, that player's ban will be considered unused.
+6. Players have 120 seconds to pick or ban a map and 120 seconds to prepare before a map starts. If a player does not pick a map in due time, the referee will pick the next map at random, and if the same happens for a ban, that player's ban will be considered unused.
 7. For each map, after both players are ready, the referee will start a 10 second countdown with `!mp start 10` which will automatically start gameplay.
-8. If a player disconnects within the first 15 seconds of play, the map will be replayed, but this is only allowed once per game.
+8. If a player disconnects within the first 30 seconds of play, the map will be replayed, but this is only allowed once per game.
 9. Each map win is one point. The first player to reach the required amount of points wins. If the score is tied with only one point left to play, the match will be decided on the Tiebreaker map.
 10. The referee cannot interfere with, or make decisions about the match that are not within his responsibility. For those kinds of situations, a host will have to be contacted.
 
@@ -135,24 +134,22 @@ This competition has come to an end and resulted in the following podium:
 
 1. The standard time used for scheduling purposes will be in **UTC+3** (Romania's time zone during Daylight Saving Time).
 2. Matches will be held by default during the weekend, with reschedules being allowed on other days of the week within some limits.
-3. Reschedules are expected to be done within an adequate time frame before the previously established match time, ideally with at least 12 hours to go before the match is supposed to take place. Otherwise, it will be at the tournament staff's discretion whether the reschedule will be allowed or not.
+3. Reschedules are expected to be done within an adequate time frame before the previously established match time, ideally with at least 8 hours to go before the match is supposed to take place. Otherwise, it will be at the tournament staff's discretion whether the reschedule will be allowed or not.
 
 ### Mappools
 
-1. There will be separate mappools for each round. Their difficulty will increase after each week of the knockout stage, while the qualifiers mappool will have a balanced difficulty, relative to the overall difficulty of the bracket stage mappools.
-2. The mappools will consist of the following mod brackets: [No Mod](/wiki/Gameplay/Game_modifier#nomod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time), ForceMod, and a Tiebreaker. Only exception is the qualifier stage which will not feature ForceMod or Tiebreaker maps.
-3. Mod rules:
-   - ForceMod: Both players must choose at least one of the Hidden, HardRock, Flashlight or EZ mods, or any of their valid combinations.
-   - Tiebreaker: both players can, but are not forced to choose at least one of the Hidden, HardRock, Flashlight, EZ mods, or any of their valid combinations. This map cannot be picked by the players and will only be used as the decisive map whenever in a knockout stage match two players are tied with one point left to play.
-   - On ForceMod and the Tiebreaker, EZ mod has a multiplier of 1.06x
-4. The number of maps in each round for each mod bracket is as follows:
+1. There will be separate mappools for each round. Their difficulty will increase after each week of the knockout stage, while the qualifiers mappool will have about the same difficulty as the Round of 16 mappool.
+2. The mappools will consist of the following mod brackets: [No Mod](/wiki/Gameplay/Game_modifier#nomod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), [Double Time](/wiki/Gameplay/Game_modifier/Double_Time), and a Tiebreaker on which [FreeMod]() rules will apply. The only exception is the qualifier stage which will not feature a Tiebreaker map.
+3. On the Tiebreaker both players can, but are not forced to choose at least one of the Hidden, HardRock, Flashlight, EZ mods, or any of their valid combinations. This map cannot be picked by the players and will only be used as the decisive map whenever in a knockout stage match two players are tied with one point left to play.
+4. EZ mod will have a multiplier of 1x.
+5. The number of maps in each round for each mod bracket will be as follows:
 
-| **Round/Mod** | NoMod | Hidden | HardRock | DoubleTime | ForceMod | Tiebreaker |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Qualifiers | 4 | 2 | 2 | 2 | 0 | 0 |
-| Round of 32 | 5 | 2 | 2 | 3 | 2 | 1 |
-| Round of 16 | 5 | 2 | 2 | 3 | 2 | 1 |
-| Quarter Finals | 5 | 2 | 2 | 3 | 2 | 1 |
-| Semi-Finals | 5 | 3 | 3 | 3 | 2 | 1 |
-| Finals | 5 | 3 | 3 | 3 | 2 | 1 |
-| Grand Finals | 7 | 3 | 3 | 4 | 3 | 1 |
+| **Round/Mod** | NoMod | Hidden | HardRock | DoubleTime | Tiebreaker |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| Qualifiers | 4 | 2 | 2 | 2 | 0 |
+| Round of 32 | 6 | 3 | 3 | 3 | 1 |
+| Round of 16 | 6 | 3 | 3 | 3 | 1 |
+| Quarter Finals | 6 | 4 | 4 | 4 | 1 |
+| Semi-Finals | 6 | 4 | 4 | 4 | 1 |
+| Finals | 6 | 4 | 4 | 4 | 1 |
+| Grand Finals | 6 | 4 | 4 | 4 | 1 |
