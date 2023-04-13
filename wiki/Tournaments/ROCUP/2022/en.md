@@ -8,7 +8,7 @@ tags:
 
 ![RoCup 2022 logo](img/logo.png)
 
-The **Romanian osu! Cup 2022** (***RoCup 2022***) was a 1v1 double elimination osu! tournament for Romanian and Moldovan players hosted by ::{ flag=RO }:: [RatonGolzache](https://osu.ppy.sh/users/11649551), ::{ flag=RO }:: [Teetoos](https://osu.ppy.sh/users/10065874), and ::{ flag=RO }:: [FallenAngelD](https://osu.ppy.sh/users/5225626). It was the first instalment of the Romanian osu! Cup.
+The **Romanian osu! Cup 2022** (***RoCup 2022***) was a 1v1 double elimination osu! tournament for Romanian and Moldovan players hosted by ::{ flag=RO }:: [RatonGolzache](https://osu.ppy.sh/users/11649551), ::{ flag=RO }:: [Teetoos](https://osu.ppy.sh/users/10065874), and ::{ flag=RO }:: [FallenAngelD](https://osu.ppy.sh/users/5225626). Initially considered a standalone tournament, it has been since retroactively recognized as the 4th instalment of the [osu! Romania Tournament](/wiki/Tournaments/o!RT).
 
 ## Tournament schedule
 
