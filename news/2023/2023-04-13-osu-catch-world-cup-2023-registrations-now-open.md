@@ -26,7 +26,7 @@ For more details, refer to the [osu!catch World Cup 2023 wiki article](/wiki/Tou
 | --: | :-- |
 | Registration phase | Apr 13 – Apr 27 |
 | Qualifier showcase | May 07 (14:00 UTC) |
-| Qualifier stage | May 13 & May 19 |
+| Qualifier stage | May 13 & May 14 |
 | Round of 32 | May 20 & May 21 |
 | Round of 16 | May 27 & May 28 |
 | Quarterfinals | Jun 03 & Jun 04 |
