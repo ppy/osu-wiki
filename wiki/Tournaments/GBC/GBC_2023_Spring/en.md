@@ -102,6 +102,7 @@ Due to the large number of players, the match results will be displayed in the [
 4. All successfully registered players will be grouped as follows:
 
 | Group | Player's 4K pp |
+| :-: | :-- |
 | EX | 8500 and above |
 | S | 6500 – 8499 |
 | A | 4500 – 6499 |
