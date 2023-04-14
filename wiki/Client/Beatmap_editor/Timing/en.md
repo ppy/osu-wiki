@@ -32,11 +32,11 @@ In [mapping](/wiki/Beatmapping), a *timing point*, colloquially called an *offse
 ![](img/uninherited-points.png "Several uninherited timing points located in the timing setup panel")
 :::
 
-An **uninherited** timing point has its own timing settings. Several of such points are used to represent timing changes in the song, such as [tempo](/wiki/Music_theory/Tempo), beat irregularities, or a different size of [time signature](/wiki/Music_theory/Time_signature). Adding a new uninherited timing point resets the metronome, making it count beats from the timing point's offset, specified in milliseconds.
+An **uninherited** timing point has its own timing settings. Several of such points are used to represent timing changes in the song, such as [tempo](/wiki/Music_theory/Tempo), beat irregularities, or different [time signatures](/wiki/Music_theory/Time_signature). Adding a new uninherited timing point resets the metronome, making it count beats from the timing point's offset, specified in milliseconds.
 
 In addition to that, uninherited timing points can be used for omitting bar lines in [osu!taiko](/wiki/Game_mode/osu!taiko) or [osu!mania](/wiki/Game_mode/osu!mania).
 
-Uninherited timing points have red colour on the bottom timeline and in the [timing setup panel](#timing-setup-panel). Due to this, they are often called "red offsets" or "red lines".
+Uninherited timing points have a red colour on the bottom timeline and in the [timing setup panel](#timing-setup-panel). Due to this, they are often called "red offsets" or "red lines".
 
 ### Inherited timing point
 
@@ -51,7 +51,7 @@ An **inherited** timing point uses currently active timing settings, *inheriting
 - Switching between active hitsounds' [samplesets](/wiki/Beatmapping/Sampleset)
 - Enabling or disabling [kiai time](/wiki/Gameplay/Kiai_time)
 
-Inherited timing points have green colour on the bottom timeline and in the [timing setup panel](#timing-setup-panel). Due to this, they are often called "green offsets", or "green lines".
+Inherited timing points have a green colour on the bottom timeline and in the [timing setup panel](#timing-setup-panel). Due to this, they are often called "green offsets" or "green lines".
 
 ## Main view
 
@@ -79,7 +79,7 @@ To quickly make larger or smaller changes, use the below modifiers:
 
 ![](img/metronome.png "The osu! metronome from the timing tab")
 
-The metronome, which is located in the upper right corner of the timing tab, helps to quickly find approximate timing settings. The initial BPM and offset values of the song can be found by repeatedly tapping `T`, or clicking the `Tap Here!` button whilst following the song's rhythm.
+The metronome, which is located in the upper right corner of the timing tab, helps in quickly finding approximate timing settings. The initial BPM and offset values of the song can be found by repeatedly tapping `T`, or clicking the `Tap Here!`, to the beat of the song.
 
 The visual part of the metronome is tailored to the most common [time signature](/wiki/Music_theory/Time_signature), 4/4. The first section denotes the [downbeat](/wiki/Music_theory/Downbeat) and flashes green, while remaining sections flash white to every beat of the song's [measures](/wiki/Music_theory/Measure). Uncommon signatures, such as 7/4, add extra flashes, but the size of the metronome doesn't change.
 
