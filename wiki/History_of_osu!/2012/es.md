@@ -27,7 +27,7 @@ El evento principal de esta actualización fue osu!mania. Muchos jugadores se in
 
 Curiosidad: para los jugadores que ingresaron a la sala de Multijugador antes de actualizar a la compilación b20121008, es posible que vean una apariencia cómica de osu!mania llamada "3" sin el ícono de modo de juego (como se ve a continuación). Sin embargo, no puede ingresar a la sala sin aplicar la actualización, y mucho menos jugarla.
 
-![](img/2012-10_03.jpg "Ingresar a Multi sin la compilación b20121008 rompió osu!mania")
+![](img/2012-10_03.jpg "Ingresar a Multijugador sin la compilación b20121008 rompió osu!mania")
 
 Links:
 
@@ -43,7 +43,7 @@ El 29 de octubre de 2012, se podía cambiar el fondo del menú principal si el u
 - Superposición de estado del botón. Button status overlay.
 - Mejora del rendimiento.
 
-Algunos cambios notables para corregir la actualización anterior (osu! mania) y para dar lo que los jugadores realmente querían, la clasificación de osu! mania. Como el sistema de clasificación de osu!mania aún no se había probado por completo en varios aspectos, la clasificación se restablecería cada semana o antes para garantizar que no se cargaran puntajes pirateados. La prueba duró bastante tiempo hasta la actualización del 13-11-2012 (20121113b).
+Algunos cambios notables para corregir la actualización anterior (osu! mania) y para dar lo que los jugadores realmente querían, la clasificación de osu! mania. Como el sistema de clasificación de osu!mania aún no se había probado por completo en varios aspectos, la clasificación se restablecería cada semana o antes para garantizar que no se cargaran puntajes pirateados. La prueba duró bastante tiempo hasta la actualización del 13 de noviembre de 2012 (20121113b).
 
 Para los supporters, se les dio el lujo de establecer su imagen como osu! fondo en lugar del color de fondo habitual. En términos prácticos, esto no afecta a nadie y fue más un truco en todo caso. Sin embargo, el cambio de fondo requiere que estés en línea para *realmente funcionar*, ya que osu! necesita verificar su tag de osu!supporter para poder funcionar. La jugabilidad no se vio afectada de ninguna manera.
 
@@ -67,7 +67,7 @@ El 22 de noviembre de 2012:
 
 - Localización actualizada. Se agregaron más idiomas.
 - Hacer clic derecho en el mapa no actual puede permitir la opción de mostrar el mapa en la selección de la canción sin abrirlo antes con el clic izquierdo.
-- Mejora DirectX.
+- Mejora de DirectX.
 - Se agregó el botón de "Partida aleatoria" en ([multijugador](/wiki/Client/Interface/Multiplayer)).
 - La configuración de Spoiler Divertido estaba disponible durante la repetición/espectación de un jugador.
 
