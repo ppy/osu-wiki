@@ -73,8 +73,9 @@ Halaman daftar [Nomination Assessment Team](https://osu.ppy.sh/groups/7). Sebaga
 | :-- | :-- | :-- |
 | ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | Jerman | Evaluator |
 | ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | Urdu, sedikit Arab | Evaluator |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Arab, Perancis, sedikit Italia | Evaluator |
-| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | Evaluator |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | Arab, Perancis, sedikit Italia | Leader |
+| ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | Portugis | Evaluator |
+| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | Leader |
 
 ### osu!catch
 

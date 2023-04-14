@@ -77,7 +77,7 @@ tags:
 | ::{ flag=AR }:: [Extor](https://osu.ppy.sh/users/555) | BAT |
 | ::{ flag=AU }:: [eyup](https://osu.ppy.sh/users/88) | BAT |
 | ::{ flag=DE }:: [Ezoda](https://osu.ppy.sh/users/1231180) | 支持团队 |
-| ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733) | QAT, NAT |
+| ::{ flag=HK }:: [Faputa](https://osu.ppy.sh/users/845733) | QAT，NAT |
 | ::{ flag=SG }:: [Faust](https://osu.ppy.sh/users/65152) | BAT |
 | ::{ flag=DE }:: [Feerum](https://osu.ppy.sh/users/4815717) | QAT，NAT |
 | ::{ flag=US }:: [foulcoon](https://osu.ppy.sh/users/19883) | BAT |
