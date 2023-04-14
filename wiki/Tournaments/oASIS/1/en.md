@@ -1,14 +1,16 @@
 ---
 tags:
   - oASIS
+  - o!ASIS
   - oASIS 2023
+  - o!ASIS 2023
 ---
 
 # osu! Amateur Solo Indonesia Showdown
 
 ![osu! Amateur Solo Indonesia Showdown logo](img/logo.jpg)
 
-The **osu! Amateur Solo Indonesia Showdown** (***oASIS***) is a double-elimination 1v1 osu! tournament hosted by ::{ flag=ID }:: [Millie](https://osu.ppy.sh/users/3484548). The tournament is open to all players from Indonesia with a global rank of #10,000 or lower. It is the first instalment of the osu! Amateur Solo Indonesia Showdown tournament series.
+The **osu! Amateur Solo Indonesia Showdown** (***oASIS*** or ***o!ASIS***) was a double-elimination 1v1 osu! tournament hosted by ::{ flag=ID }:: [Millie](https://osu.ppy.sh/users/3484548). The tournament was open to all players from Indonesia with a global rank of #10,000 or lower. It was the first instalment of the osu! Amateur Solo Indonesia Showdown tournament series.
 
 ## Tournament schedule
 
@@ -32,7 +34,7 @@ The **osu! Amateur Solo Indonesia Showdown** (***oASIS***) is a double-eliminati
 
 ## Organisation
 
-oASIS is run by various osu! community members from Indonesia and beyond.
+oASIS was run by various osu! community members from Indonesia and beyond.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -77,6 +79,10 @@ Listed below are the players who managed to qualify into the Round of 16 (along 
 | 14 | ::{ flag=ID }:: [ArchieA7](https://osu.ppy.sh/users/7087699) | 7.710 |
 | 15 | ::{ flag=ID }:: [HyuugaDesuka](https://osu.ppy.sh/users/22684871) | 7.705 |
 | 16 | ::{ flag=ID }:: [-Lunix](https://osu.ppy.sh/users/12964890) | 7.550 |
+
+## Podium
+
+![](img/podium.jpg "oASIS podium")
 
 ## Mappools
 
@@ -251,6 +257,20 @@ Listed below are the players who managed to qualify into the Round of 16 (along 
   3. [HyuN - Illusion of Inflict (Icekalt) \[Light Insane\]](https://osu.ppy.sh/beatmapsets/968923#osu/2041171)
 
 ## Match results
+
+### Finals (week 2)
+
+Friday, 17 March 2023:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [akebono](https://osu.ppy.sh/users/1815316) ::{ flag=ID }:: | 5 | **7** | ::{ flag=ID }:: **[SDKO](https://osu.ppy.sh/users/4858555)** | [#1](https://osu.ppy.sh/community/matches/107421064) |
+
+Monday, 21 March 2023, Grand Final:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Grand Final | **[im a cute bunny](https://osu.ppy.sh/users/12578000)** ::{ flag=ID }:: | **7** | 4 | ::{ flag=ID }:: [SDKO](https://osu.ppy.sh/users/4858555) | [#1](https://osu.ppy.sh/community/matches/107484474) |
 
 ### Finals (week 1)
 

@@ -696,7 +696,7 @@ Turnamen/Kompetisi tidak resmi yang diselenggarakan oleh komunitas.
 ## Lihat juga
 
 - [Daftar negara yang berpartisipasi dalam turnamen osu!](Countries_that_participated_in_osu!_tournaments)
-- [osu!tourney](/wiki/osu!tourney) (Klien yang digunakan untuk menyiarkan turnamen)
+- [osu!tourney](/wiki/osu!_tournament_client/osu!tourney) (Klien yang digunakan untuk menyiarkan turnamen)
 - Persyaratan untuk mendapatkan [dukungan resmi](/wiki/Tournaments/Official_support) untuk turnamen (badges, proses *screening*, dll.)
 
 [GCrown]: /wiki/shared/crown-gold.png "Juara satu"

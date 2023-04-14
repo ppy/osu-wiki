@@ -8,7 +8,7 @@ tags:
 
 # 如何解决谱面提交系统的问题
 
-如果**[谱面提交系统](/wiki/Submission)** （***BSS***） 无法提交你的谱面并提示谱面不属于你，你可以这样做：
+如果**[谱面提交系统](/wiki/Beatmapping/Beatmap_submission)** （***BSS***） 无法提交你的谱面并提示谱面不属于你，你可以这样做：
 
 1. 前往谱面目录。
    - 你可以在[编辑器](/wiki/Client/Beatmap_editor)中点击`文件`然后点击`打开歌曲文件夹`。

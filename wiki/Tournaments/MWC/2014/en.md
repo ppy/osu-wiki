@@ -12,7 +12,7 @@ tags:
 
 ![MWC 2014 logo](img/logo.jpg)
 
-The **osu!mania World Cup 2014** (***MWC 2014***) was a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/The_Team). It was separated in a 4-keys and 7-keys bracket and was the first instalment of the osu!mania 4K World Cup and the osu!mania 7K World Cup.
+The **osu!mania World Cup 2014** (***MWC 2014***) was a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/osu!_team). It was separated in a 4-keys and 7-keys bracket and was the first instalment of the osu!mania 4K World Cup and the osu!mania 7K World Cup.
 
 ## Tournament schedule
 
@@ -562,7 +562,7 @@ This competition has come to an end and resulted in the following podium:
 3. Each mappool consists of 1 bracket: FreeMod
 4. Each mappool consists of 10-14 maps in total.
 5. Each mappool has one tiebreaker
-6. The FreeMod bracket will have FreeMod activated. Every individual player can pick [Hidden](/wiki/Game_modifier/Hidden), [FadeIn](/wiki/Game_modifier/Fade_In) and [Flashlight](/wiki/Game_modifier/Flashlight) or no mode at all.
+6. The FreeMod bracket will have FreeMod activated. Every individual player can pick [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [FadeIn](/wiki/Gameplay/Game_modifier/Fade_In) and [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight) or no mode at all.
 7. The tiebreaker will be played under FreeMod conditions.
 8. The size of the FreeMod bracket will be:
    - 9 in Group Stage

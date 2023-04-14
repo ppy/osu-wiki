@@ -1,8 +1,8 @@
 # Offset-Assistent
 
-*Siehe auch: [Wie man den Offset-Assistenten benutzt](/wiki/Guides/How_to_Use_the_Offset_Wizard) und [Universales Offset](/wiki/Client/Options/Universal_offset)*
+*Siehe auch: [Wie man den Offset-Assistenten benutzt](/wiki/Guides/How_to_Use_the_Offset_Wizard) und [Universales Offset](/wiki/Offset/Universal_offset)*
 
-Der **Offset-Assistent** ist ein eingebautes Tool, welches den Nutzer dabei unterstützt, das [universale Offset](/wiki/Client/Options/Universal_offset) für sein Gerät auf den korrekten Wert zu kalibrieren. Das ist nötig, wenn die [Hitsounds](/wiki/Beatmapping/Hitsound) in allen gespielten Beatmaps nicht mit der Musik synchron sind. Für mehr Informationen, wie man das macht, siehe [Wie man den Offset-Assistenten benutzt](/wiki/Guides/How_to_Use_the_Offset_Wizard).
+Der **Offset-Assistent** ist ein eingebautes Tool, welches den Nutzer dabei unterstützt, das [universale Offset](/wiki/Offset/Universal_offset) für sein Gerät auf den korrekten Wert zu kalibrieren. Das ist nötig, wenn die [Hitsounds](/wiki/Beatmapping/Hitsound) in allen gespielten Beatmaps nicht mit der Musik synchron sind. Für mehr Informationen, wie man das macht, siehe [Wie man den Offset-Assistenten benutzt](/wiki/Guides/How_to_Use_the_Offset_Wizard).
 
 Um den Offset-Assistenten aufzurufen, öffne das [Optionsmenü](/wiki/Client/Options) und tippe `offset` in die Schnellsuche ein. Klicke danach auf den Button `Offset-Assistent starten`.
 

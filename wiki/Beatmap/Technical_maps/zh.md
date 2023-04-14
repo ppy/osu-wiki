@@ -23,7 +23,7 @@ tags:
 
 *注意：在本文中，“科技谱”是包含以下所有定义的总括术语。*
 
-**科技谱**（常简称为 “tech map”） 这个专有名词目前并未被 osu! 社区明确而统一地定义。在玩家群体中，“科技谱”可用于概括一类仅仅包含特殊[排列](/wiki/Beatmap/Pattern)的[谱面](/wiki/Beatmap)，或是一类[物件](/wiki/Hit_object)密集，包含多种特殊的[滑条形状](/wiki/Hit_object/Slider)且滑条速度经常大幅度变化的谱面。
+**科技谱**（常简称为 “tech map”） 这个专有名词目前并未被 osu! 社区明确而统一地定义。在玩家群体中，“科技谱”可用于概括一类仅仅包含特殊[排列](/wiki/Beatmap/Pattern)的[谱面](/wiki/Beatmap)，或是一类[物件](/wiki/Gameplay/Hit_object)密集，包含多种特殊的[滑条形状](/wiki/Gameplay/Hit_object/Slider)且滑条速度经常大幅度变化的谱面。
 
 科技谱往往与结构复杂、节奏丰富的歌曲（如：DnB、Dubstep、Drumstep 风格）密切相关。因为这种歌曲让谱师能够捕捉歌曲内每一个声音，从而制作更复杂、花样繁多的科技谱。当然，科技谱的歌曲也不一定是这种风格。
 
@@ -44,7 +44,7 @@ tags:
 - 特殊滑条形状
 - 滑条速度突变
 - 高密度的物件
-  - 谱面大部分时间都被高密度物件所覆盖（但不是[连打](/wiki/Beatmap/Pattern/Stream)）
+  - 谱面大部分时间都被高密度物件所覆盖（但不是[连打](/wiki/Beatmap/Pattern/osu!/Stream)）
 
 ![非常规谱面排列 (Nhelv)](img/nongeneric_beatmap_pattern.jpg "非常规谱面排列")
 

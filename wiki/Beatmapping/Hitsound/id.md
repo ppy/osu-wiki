@@ -11,13 +11,13 @@ tags:
 
 *Lihat juga: [Menggunakan hitsound khusus](/wiki/Guides/Using_custom_hitsounds)*
 
-**Hitsound** merupakan efek suara yang diputar ketika pemain berinteraksi dengan suatu *[hit object](/wiki/Hit_object)*. Hitsound pada umumnya digunakan sebagai suatu bentuk umpan balik bagi para pemain untuk dapat menilai [akurasi](/wiki/Gameplay/Accuracy) mereka dalam mengenai *hit object* yang bersangkutan.
+**Hitsound** merupakan efek suara yang diputar ketika pemain berinteraksi dengan suatu *[hit object](/wiki/Gameplay/Hit_object)*. Hitsound pada umumnya digunakan sebagai suatu bentuk umpan balik bagi para pemain untuk dapat menilai [akurasi](/wiki/Gameplay/Accuracy) mereka dalam mengenai *hit object* yang bersangkutan.
 
 Hitsound tersusun atas sampel utama yang disebut "hitnormal" dan sampel-sampel tambahan berupa whistle, finish, atau clap yang dapat dikombinasikan. Setiap sampel yang ada merupakan bagian dari suatu set sampel ("*sampleset*") yang masing-masing memiliki karakteristiknya tersendiri, yakni `Normal`,` Soft`, dan `Drum`.
 
 Para beatmapper dapat mengganti sampel-sampel *default* milik osu! dengan sampel-sampel lainnya dengan meletakkan sampel-sampel tersebut di dalam folder [beatmap](/wiki/Beatmap) yang bersangkutan. [Skin](/wiki/Skinning) pemain juga dapat mengganti hitsound *default* untuk seluruh beatmap yang ada. Penjelasan lebih lanjut seputar sampel hitsound dapat ditemukan pada artikel [skinning hitsound](/wiki/Skinning/Sounds#hitsounds).
 
-[Spinner](/wiki/Hit_object/Spinner) dan [slider](/wiki/Hit_object/Slider) memiliki tambahan hitsound spinner spin, spinner bonus, slider slide, dan slider tick.
+[Spinner](/wiki/Gameplay/Hit_object/Spinner) dan [slider](/wiki/Gameplay/Hit_object/Slider) memiliki tambahan hitsound spinner spin, spinner bonus, slider slide, dan slider tick.
 
 ## Hitsound aktif
 

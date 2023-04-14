@@ -5,7 +5,7 @@ tags:
 
 # Catch the Beat World Cup
 
-The **Catch the Beat World Cup** (***CWC***) was a single elimination team-based osu!catch tournament organized by various osu! community members. Despite not being hosted by (or being run under the direct provision of) the [osu! team](/wiki/People/The_Team), it was formally considered as the first instalment of the osu!catch World Cup tournament series.
+The **Catch the Beat World Cup** (***CWC***) was a single elimination team-based osu!catch tournament organized by various osu! community members. Despite not being hosted by (or being run under the direct provision of) the [osu! team](/wiki/People/osu!_team), it was formally considered as the first instalment of the osu!catch World Cup tournament series.
 
 ## Tournament schedule
 

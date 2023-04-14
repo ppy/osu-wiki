@@ -6,7 +6,7 @@ tags:
 
 # Comité des points de performance
 
-Le **Comité des points de performance** (*Performance Points Committee* en anglais) est un groupe de joueurs et de développeurs expérimentés qui facilite et approuve les mises à jour des algorithmes des [points de performance](/wiki/Performance_points) et du [star rating](/wiki/Beatmapping/Star_rating). Leur objectif est d'aider les [développeurs d'osu!](/wiki/People/The_Team/Developers) à apporter des changements plus rapidement et avec une meilleure coordination de la communauté.
+Le **Comité des points de performance** (*Performance Points Committee* en anglais) est un groupe de joueurs et de développeurs expérimentés qui facilite et approuve les mises à jour des algorithmes des [points de performance](/wiki/Performance_points) et du [star rating](/wiki/Beatmap/Star_rating). Leur objectif est d'aider les [développeurs d'osu!](/wiki/People/Developers) à apporter des changements plus rapidement et avec une meilleure coordination de la communauté.
 
 Le panel du mode osu! a été annoncé pour la première fois au public par le biais du [news post *Performance Points & Star Rating Updates* de novembre 2021](https://osu.ppy.sh/home/news/2021-11-09-performance-points-star-rating-updates), en réponse à un [sondage communautaire](https://osu.ppy.sh/home/news/2021-08-17-pp-sr-survey) réalisé plus tôt dans l'année.
 
