@@ -119,7 +119,7 @@ Due to the large number of players, the match results will be displayed in the [
 1. In the Regular stage, players need to get higher placement in higher level for higher points. The points that can be earned are determined by the placement in every round. The placement according to the average rank for all individual beatmaps in a round.
 2. We have a base points that depends on the placement per round, and a multiplier that depends on the level of players. Here is the calculation method of points.
 
-| Placement | Base Points |
+| Placement | Base points |
 | :-: | --: |
 | 1st place | 20 |
 | 2nd place | 19 |
