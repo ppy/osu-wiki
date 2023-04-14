@@ -79,7 +79,7 @@ To quickly make larger or smaller changes, use the below modifiers:
 
 ![](img/metronome.png "The osu! metronome from the timing tab")
 
-The metronome, which is located in the upper right corner of the timing tab, helps in quickly finding approximate timing settings. The initial BPM and offset values of the song can be found by repeatedly tapping `T`, or clicking the `Tap Here!`, to the beat of the song.
+The metronome, which is located in the upper right corner of the timing tab, helps in quickly finding approximate timing settings. The initial BPM and offset values of the song can be found by repeatedly tapping `T` or clicking the `Tap Here!` button to the beat of the song.
 
 The visual part of the metronome is tailored to the most common [time signature](/wiki/Music_theory/Time_signature), 4/4. The first section denotes the [downbeat](/wiki/Music_theory/Downbeat) and flashes green, while remaining sections flash white to every beat of the song's [measures](/wiki/Music_theory/Measure). Uncommon signatures, such as 7/4, add extra flashes, but the size of the metronome doesn't change.
 
