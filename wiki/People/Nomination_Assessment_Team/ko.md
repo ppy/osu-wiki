@@ -53,7 +53,9 @@ NAT을 두 그룹으로 나누는 것은 그룹의 조직력과 생산성을 위
 
 맡은 하위 그룹에 따라, 각 NAT 멤버는 다른 활동 요구 사항이 있습니다. 평가위원들은 BN과 BN 지원자를 평가하는 동시에 모딩 활동을 계속해 스스로 매핑/모딩과 관련된 정세를 주시해야 합니다. 고문들은 상황에 따라 랭크 과정의 운영과 관련된 프로그램, 자원과 같은 요소를 유지하고 관리합니다.
 
-비활동적인 구성원은 [팀 리더](#nat-leadership)와 대면하여 조만간 다시 활동할 수 없는 경우 권한을 박탈합니다. 다른 매핑 관련 프로젝트에서 작업하는 평가위원은 작업 중인 내용이 고문 하위 그룹에 더 적절할 경우 부서를 옮길 수 있습니다.
+매달 NAT 멤버는 [BN/NAT 웹사이트](https://bn.mappersguild.com/)에서 멤버들의 활동 요약을 제출해야 합니다. 비트맵 지명, BN 평가 활동과 같은 다른 지표와 함께 해당 요약은 팀 구성원이 여전히 활동적이고 팀에 남을 가치가 있는지의 여부를 결정하는 데 사용됩니다. 또한 [팀 리더](#nat-리더십)는 각자의 NAT 멤버들의 활동을 논의하고 그들이 남아 있어야 하는지 결정합니다.
+
+활동하지 않거나 제때 요약을 제출하지 못하는 NAT 멤버는 그들의 팀 리더와 대면하여, 활동량이 적을 수밖에 없었던 합당한 이유가 없는 경우 NAT에서 떠나게 됩니다. 평가위원 중에서 다른 매핑관련 프로젝트에도 참여하고 있는 멤버의 경우, 활동량 평가에 착오가 생기지 않도록 평가위원에서 고문의 자리로 옮길 수 있습니다. 
 
 ## NAT 승격
 
@@ -71,7 +73,7 @@ NAT는 오랜 시간에 걸쳐서 잠재적 NAT 후보를 찾아보고 BN 평가
 
 ## NAT 리더십
 
-2023년 3월 이후, NAT의 리더십을 [QAT](/wiki/People/Quality_Assurance_Team)에서 [적용됐던](/wiki/People/Quality_Assurance_Team/QAT_Leaders) 조항을 통해 다시 정의했습니다. NAT 리더는 평가위원과 고문 두 항목에 책임을 지며, NAT의 모든 측면에 지속해서 관여합니다.
+2023년 3월 이후, NAT의 리더십을 [QAT](/wiki/People/Quality_Assurance_Team)에서 [적용됐던](/wiki/People/Quality_Assurance_Team/QAT_Leaders) 조항을 통해 다시 정의했습니다. NAT 리더는 평가위원 및 고문의 두 역할을 모두 담당하므로, NAT의 모든 측면을 감시하고 지속해서 관여할 수 있습니다.
 
 현재 NAT 리더는 ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976)와 ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)입니다.
 
@@ -79,11 +81,11 @@ NAT는 오랜 시간에 걸쳐서 잠재적 NAT 후보를 찾아보고 BN 평가
 
 NAT 리더가 관리하는 사항은 다음과 같습니다:
 
-- **활동 관리:** 다른 NAT 멤버들의 활동을 계속 주시하며, NAT 탈퇴 또는 기본적인 활동 체크 등을 고려하여 특정 멤버의 적은 활동량을 관리합니다.
+- **활동 관리:** 다른 NAT 멤버들의 활동을 주시하여 특정 멤버와 관련된 활동 문제가 발생한 경우, 정기적인 확인 작업이나 탈퇴 인터뷰를 통해 활동량이 적은 멤버를 관리합니다.
 - **커뮤니케이션:**
-  - 지속적인 의사소통으로 osu!팀, NAT, 매핑 커뮤니티를 이어주는 입장에서, 새로 생긴 변화, 우려, 요구 사항을 전달합니다.
-  - 주제와 관련된 모든 멤버의 참여를 권장하고, 토론을 조직적으로 유지하며, 서로 다른 의견을 결합해서 실질적인 행동을 할 수 있도록 합니다.
-  - 토론/랭킹 크리테리아의 제안 중에 쉽게 무시될 수 있는 새로운 아이디어나 기존의 아이디어가 진행될 수 있도록 합니다.
+  - osu! 팀, NAT, 매핑 커뮤니티를 이어주는 역할로써, 속해서 새로 생긴 변화나 우려, 요구사항을 전달합니다.
+  - 주제와 관련된 모든 당사자를 초대하고, 토론을 조직적으로 유지하고, 다양한 관점의 의견들을 모으고, 실질적인 행동 방침을 수립함으로써 내부 및 외부 토론에 참여하도록 권장합니다.
+  - 토론/랭킹 크리테리아의 제안 중, 쉽게 잊힐 수 있는 기존 혹은 새로운 아이디어의 이야기가 진행될 수 있도록 합니다.
 - **문제 해결:** 중요한 회의에 적극적으로 참여하고 팀이나 커뮤니티로부터 제기된 중요한 문제들을 처리합니다.
 
 ## 팀 멤버
@@ -97,55 +99,55 @@ NAT 리더가 관리하는 사항은 다음과 같습니다:
 | 닉네임 | 구사 언어 | 배정 그룹 |
 | :-- | :-- | :-- |
 | ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) |  | 고문[^task-mo] |
-| ::{ flag=SG }:: [achyoo](https://osu.ppy.sh/users/7823498) | 중국어 | 평가, 고문[^task-achyoo] |
-| ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) |  | 평가 |
-| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | 벨라루스어, 러시아어 | 평가 |
-| ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | 광둥어, 중국어 | 평가 |
-| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | 포르투갈어 | 평가 |
-| ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | 평가 |
-| ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | 중국어 | 평가 |
-| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | 독일어 | 평가, 고문[^task-fuju] |
+| ::{ flag=SG }:: [achyoo](https://osu.ppy.sh/users/7823498) | 중국어 | 평가위원, 고문[^task-achyoo] |
+| ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) |  | 평가위원 |
+| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | 벨라루스어, 러시아어 | 평가위원 |
+| ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | 광둥어, 중국어 | 평가위원 |
+| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | 포르투갈어 | 평가위원 |
+| ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | 평가위원 |
+| ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | 중국어 | 평가위원 |
+| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | 독일어 | 평가위원, 고문[^task-fuju] |
 | ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | 스웨덴어 | 고문[^task-naxess] |
-| ::{ flag=GB }:: [nexusqi](https://osu.ppy.sh/users/13822800) | | 평가 |
+| ::{ flag=GB }:: [nexusqi](https://osu.ppy.sh/users/13822800) | | 평가위원 |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | 고문[^task-pishifat] |
-| ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | 평가, 고문[^task-star] |
-| ::{ flag=AT }:: [Stixy](https://osu.ppy.sh/users/9000308) | 독일어, 세르비아어 | 평가 |
+| ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | 평가위원, 고문[^task-star] |
+| ::{ flag=AT }:: [Stixy](https://osu.ppy.sh/users/9000308) | 독일어, 세르비아어 | 평가위원 |
 | ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) |  | 고문 |
-| ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | 네덜란드어 | 평가 |
-| ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) | | 평가 |
-| ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | 폴란드어 | 평가 |
+| ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | 네덜란드어 | 평가위원 |
+| ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) | | 평가위원 |
+| ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | 폴란드어 | 평가위원 |
 
 ### osu!taiko
 
 | 이름 | 구사 언어 | 배정 그룹 |
 | :-- | :-- | :-- |
-| ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | 독일어 | 평가 |
-| ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | 우르두어, 일부 아랍어 | 평가 |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | 아랍어, 프랑스어, 일부 이탈리아어 | 평가 |
-| ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | 포르투갈어 | 평가 |
+| ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | 독일어 | 평가위원 |
+| ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | 우르두어, 일부 아랍어 | 평가위원 |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | 아랍어, 프랑스어, 일부 이탈리아어 | 평가위원 |
+| ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | 포르투갈어 | 평가위원 |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | 리더 |
 
 ### osu!catch
 
 | 이름 | 구사 언어 | 배정 그룹 |
 | :-- | :-- | :-- |
-| ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | 스페인어, 독일어 | 평가 |
-| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | 네덜란드어 | 평가 |
+| ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | 스페인어, 독일어 | 평가위원 |
+| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | 네덜란드어 | 평가위원 |
 
 ### osu!mania
 
 | 이름 | 구사 언어 | 배정 그룹 |
 | :-- | :-- | :-- |
-| ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229) | 중국어 | 평가 |
-| ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | 베트남어 | 평가 |
-| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | 인도네시아어 | 평가 |
-| ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872) |  | 평가 |
+| ::{ flag=CN }:: [_Stan](https://osu.ppy.sh/users/1653229) | 중국어 | 평가위원 |
+| ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | 베트남어 | 평가위원 |
+| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | 인도네시아어 | 평가위원 |
+| ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872) |  | 평가위원 |
 
 ## 참고
 
 [^task-achyoo]: osu! 게임 모드의 veto를 주로 관리합니다.
 [^task-fuju]: 유저 신고와 osu! 게임 모드의 SEV 등급을 주로 관리합니다.
-[^task-mo]: 주된 내부 토론, 사무, 문서 담당
-[^task-naxess]: 주로 [Aiess](https://github.com/Naxesss/Aiess) 및 프로그램 [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier) 유지/보수 담당
-[^task-pishifat]: 주로 [NAT/BN 웹사이트](https://bn.mappersguild.com/home) 유지/보수 담당
+[^task-mo]: 내부 토론, 사무 및 문서의 처리를 주로 담당합니다.
+[^task-naxess]: [Aiess](https://github.com/Naxesss/Aiess) 및 [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier)의 유지/보수를 주로 담당합니다.
+[^task-pishifat]: [NAT/BN 웹사이트](https://bn.mappersguild.com/home)의 유지/보수를 주로 담당합니다.
 [^task-star]: 랭킹 크리테리아 시험 관련 질문을 주로 담당합니다.
