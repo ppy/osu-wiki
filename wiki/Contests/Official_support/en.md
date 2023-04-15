@@ -29,7 +29,7 @@ Contests which abide by the following criteria are eligible for official support
   - The contest has successfully run for one iteration without official support.
 - **The contest must have a clearly defined set of rules.**
 - **The contest must accept submissions for only one game mode.** Most users specialise in one game mode, so it is not reliable to evaluate mapping quality across multiple game modes.
-- **The contest must have at least 10 submissions that adhere to the contest's rules.** Contests with fewer valid submissions are not deemed competitive enough.
+- **For solo osu! contests, there must be at least 15 valid submissions.**
 - **For solo osu!taiko, osu!catch, or osu!mania contests, there must be at least 10 valid submissions.**
 - **For team contests, participation will be evaluated on a case-by-case basis depending on team sizes, creative requirements, and total valid submissions.** As a rule of thumb, aim for at least 20 participants and 10 valid submissions.
 - **The contest must have a clearly defined judging criteria based on mapping merit.** These ensure a contest follows an understandable quality standard in line with other mapping contests.
