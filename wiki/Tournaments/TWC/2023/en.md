@@ -108,20 +108,20 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad
 
 | Team A | Team B | Match time |  |
 | --: | :-- | :-- | :-: |
-| United Kingdom ::{ flag=GB }:: | ::{ flag=CN }:: China | [Apr 15 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230415T100000&p1=1440&p2=136&p3=33) | [^losers-bracket] |
-| Italy ::{ flag=IT }:: | ::{ flag=MY }:: Malaysia | [Apr 15 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230415T120000&p1=1440&p2=215&p3=122) | [^losers-bracket] |
+| Italy ::{ flag=IT }:: | ::{ flag=MY }:: Malaysia | [Apr 15 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230415T100000&p1=1440&p2=215&p3=122) | [^losers-bracket] |
 | France ::{ flag=FR }:: | ::{ flag=BR }:: Brazil | [Apr 15 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230415T160000&p1=1440&p2=195&p3=45) | [^losers-bracket] |
-| Germany ::{ flag=DE }:: | ::{ flag=CL }:: Chile | [Apr 15 (Sat) 18:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230415T180000&p1=1440&p2=37&p3=232) | [^losers-bracket] |
+| Germany ::{ flag=DE }:: | ::{ flag=CL }:: Chile | [Apr 15 (Sat) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230415T200000&p1=1440&p2=37&p3=232) | [^losers-bracket] |
 
 ### Sunday, 16 April 2023
 
 | Team A | Team B | Match time |  |
 | --: | :-- | :-- | :-: |
 | United States ::{ flag=US }:: | ::{ flag=TW }:: Taiwan | [Apr 16 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230416T030000&p1=1440&p2=263&p3=241) | [^winners-bracket] |
-| Japan ::{ flag=JP }:: | ::{ flag=KR }:: South Korea | [Apr 16 (Sun) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230416T080000&p1=1440&p2=248&p3=235) | [^winners-bracket] |
+| United Kingdom ::{ flag=GB }:: | ::{ flag=CN }:: China | [Apr 16 (Sun) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230416T090000&p1=1440&p2=136&p3=33) | [^losers-bracket] |
+| Italy ::{ flag=IT }:: | ::{ flag=DE }:: Germany | [Apr 16 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230416T110000&p1=1440&p2=215&p3=37) | [^potential-match] |
 | France ::{ flag=FR }:: | ::{ flag=CN }:: China | [Apr 16 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230416T120000&p1=1440&p2=195&p3=33) | [^potential-match] |
 | Brazil ::{ flag=BR }:: | ::{ flag=CN }:: China | [Apr 16 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230416T120000&p1=1440&p2=45&p3=33) | [^potential-match] |
-| Italy ::{ flag=IT }:: | ::{ flag=DE }:: Germany | [Apr 16 (Sun) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230416T133000&p1=1440&p2=215&p3=37) | [^potential-match] |
+| Japan ::{ flag=JP }:: | ::{ flag=KR }:: South Korea | [Apr 16 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230416T130000&p1=1440&p2=248&p3=235) | [^winners-bracket] |
 | Italy ::{ flag=IT }:: | ::{ flag=CL }:: Chile | [Apr 16 (Sun) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230416T133000&p1=1440&p2=215&p3=232) | [^potential-match] |
 | Malaysia ::{ flag=MY }:: | ::{ flag=DE }:: Germany | [Apr 16 (Sun) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230416T133000&p1=1440&p2=122&p3=37) | [^potential-match] |
 | Malaysia ::{ flag=MY }:: | ::{ flag=CL }:: Chile | [Apr 16 (Sun) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230416T133000&p1=1440&p2=122&p3=232) | [^potential-match] |
