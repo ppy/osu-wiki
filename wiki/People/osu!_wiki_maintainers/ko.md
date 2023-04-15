@@ -1,10 +1,10 @@
 # osu! 위키 관리자
 
-**오스 위키 관리자**는 GitHub에 있는 [osu! 위키](/wiki/osu!_wiki)의 [프로젝트](https://github.com/ppy/osu-wiki)를 관리하시는 분들입니다.
+**osu! 위키 관리자**는 GitHub에 있는 [osu! 위키](/wiki/osu!_wiki)의 [프로젝트](https://github.com/ppy/osu-wiki)를 관리하시는 분들입니다.
 
-관리자는 보통 github의 [문제 보고](https://github.com/ppy/osu-wiki/issues)를 확인하며, 기여자가 신청한 Pull Request(수정 요청)를 검토합니다. 다른 기여자들과는 다르게 그들은 Pull Request를 수정할 수 있으며, 문서를 해당 위키 문서의 `master` 부분에 추가시키고, 변화된 부분을 공개하는 역할을 담당합니다.
+관리자는 보통 GitHub의 [문제 보고](https://github.com/ppy/osu-wiki/issues)를 확인하며, 기여자가 신청한 Pull Request를 검토합니다. 다른 기여자들과는 다르게 관리자는 Pull Request를 수정할 수 있으며, 문서를 해당 위키 문서의 `master` 브랜치에 추가시키고, 변화된 부분을 공개하는 역할을 담당합니다.
 
-만약 당신이 위키에 기여하시는 데 도움이 필요하거나 검토가 필요하시다면, [osu!dev Discord Server](/wiki/Community/osu!dev_Discord_server)에 있는 `#osu-wiki` 채널에 메시지를 보내주세요. 그러면 관리자, 또는 다른 기여자분들께서 답변해드리실 거예요. (모든 기여자분은 영어를 사용합니다. 그러니 되도록 영어를 사용해 주세요.)
+만약 당신이 위키에 기여하시는 데 도움이 필요하거나 검토가 필요하시다면, [osu!dev 디스코드 서버](/wiki/Community/osu!dev_Discord_server)에 있는 `#osu-wiki` 채널에 메시지를 보내주세요. 그러면 관리자, 또는 다른 기여자분들께서 답변해드리실 거예요. (모든 기여자분은 영어를 사용합니다. 그러니 되도록 영어를 사용해 주세요.)
 
 ## Wiki 관리자
 
@@ -30,7 +30,7 @@
 
 ## 뉴스 관리자
 
-웹사이트에서 표시되는 책임자, 수정자, 그리고 모든 [뉴스 포럼](https://osu.ppy.sh/home/news)의 게시자입니다.
+웹사이트에서 표시되는 큐레이터, 에디터, 그리고 모든 [뉴스 포스트](https://osu.ppy.sh/home/news)의 게시자입니다.
 
 | osu! 계정 | GitHub 계정 |
 | :-- | :-- |
@@ -38,7 +38,7 @@
 | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) | [peppy](https://github.com/peppy) |
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) | [pishifat](https://github.com/pishifat) |
 
-## 과거 관리직을 수행하셨던 분들
+## 전 관리자
 
 여기에 계신 분들은 [MediaWiki](/wiki/History_of_osu!/osu!_wiki) 시절에 도움을 주신 분들이십니다.
 
