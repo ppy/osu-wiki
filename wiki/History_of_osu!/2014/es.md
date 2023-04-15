@@ -32,13 +32,13 @@ Además, [peppy](https://osu.ppy.sh/users/2) también lanzó la compilación "os
 
 ## Referencias
 
-[^ranking-maintenance]: [publicación de noticia de osu! por peppy (20-01-2014) "Mantenimiento de clasificación de rendimiento"](https://osu.ppy.sh/home/news/2014-01-20-performance-ranking-maintenance)
-[^new-perf-ranking]: [publicación de noticia de osu! por Tom94 (26-01-2014) "Nueva clasificación de rendimiento"](https://osu.ppy.sh/home/news/2014-01-26-new-performance-ranking)
-[^pp-article]: [artículo de la osu! wiki "Puntos de rendimiento"](/wiki/Performance_points)
-[^all-game-modes]: [publicación de noticia de osu! por Tom94 (01-03-2014) "Clasificación de rendimiento para todos los modos de juego"](https://osu.ppy.sh/home/news/2014-03-01-performance-ranking-for-all-gamemodes)
-[^change-background]: [comentario del foro de osu! (problemas resueltos) por Pawsu (20-12-2015) "[resuelto] Cómo cambiar todos los fondos de mapa"](https://osu.ppy.sh/community/forums/topics/397827?start=4749640)
-[^skinning]: [artículo de la osu! wiki "Historia del Skinning"](/wiki/Skinning/History)
-[^fanart]: [publicación de noticia de osu! por LuigiHann (03-04-2014) "¡El primer concurso mensual de fanart de osu! finaliza esta semana!"](https://osu.ppy.sh/home/news/2014-04-03-osu-monthly-fanart-contest-1-ends-this-week)
-[^fanart-results]: [publicación de noticia de osu! por LuigiHann (21-05-2014) "¡Resultados del primer concurso oficial de fanarts de osu!"](https://osu.ppy.sh/home/news/2014-05-21-first-official-osu-fanart-contest-results)
-[^download]: [publicación de noticia de osu! por peppy (18-06-2014) "Restricciones de descarga eliminadas"](https://osu.ppy.sh/home/news/2014-06-18-download-restrictions-removed)
-[^bat]: [publicación de noticia de osu! por Ephemeral (21-08-2014) "Reestructuración del BAT"](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat)
+[^ranking-maintenance]: [Publicación de noticia de osu! por peppy (20-01-2014) "Mantenimiento de clasificación de rendimiento"](https://osu.ppy.sh/home/news/2014-01-20-performance-ranking-maintenance)
+[^new-perf-ranking]: [Publicación de noticia de osu! por Tom94 (26-01-2014) "Nueva clasificación de rendimiento"](https://osu.ppy.sh/home/news/2014-01-26-new-performance-ranking)
+[^pp-article]: [Artículo de la osu! wiki "Puntos de rendimiento"](/wiki/Performance_points)
+[^all-game-modes]: [Publicación de noticia de osu! por Tom94 (01-03-2014) "Clasificación de rendimiento para todos los modos de juego"](https://osu.ppy.sh/home/news/2014-03-01-performance-ranking-for-all-gamemodes)
+[^change-background]: [Comentario del foro de osu! (problemas resueltos) por Pawsu (20-12-2015) "[resuelto] Cómo cambiar todos los fondos de mapa"](https://osu.ppy.sh/community/forums/topics/397827?start=4749640)
+[^skinning]: [Artículo de la osu! wiki "Historia del Skinning"](/wiki/Skinning/History)
+[^fanart]: [Publicación de noticia de osu! por LuigiHann (03-04-2014) "¡El primer concurso mensual de fanart de osu! finaliza esta semana!"](https://osu.ppy.sh/home/news/2014-04-03-osu-monthly-fanart-contest-1-ends-this-week)
+[^fanart-results]: [Publicación de noticia de osu! por LuigiHann (21-05-2014) "¡Resultados del primer concurso oficial de fanarts de osu!"](https://osu.ppy.sh/home/news/2014-05-21-first-official-osu-fanart-contest-results)
+[^download]: [Publicación de noticia de osu! por peppy (18-06-2014) "Restricciones de descarga eliminadas"](https://osu.ppy.sh/home/news/2014-06-18-download-restrictions-removed)
+[^bat]: [Publicación de noticia de osu! por Ephemeral (21-08-2014) "Reestructuración del BAT"](https://osu.ppy.sh/home/news/2014-08-21-restructuring-of-the-bat)
