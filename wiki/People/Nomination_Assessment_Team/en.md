@@ -142,8 +142,8 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | :-- | :-- | :-- |
 | ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229) | Chinese | Evaluation |
 | ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | Vietnamese | Evaluation |
+| ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | Spanish | Evaluation |
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Indonesian | Evaluation |
-| ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Evaluation |
 
 ## Notes
 

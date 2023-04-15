@@ -35,6 +35,7 @@ A [página de grupo dos osu! Alumni](https://osu.ppy.sh/groups/16) listam todos 
 | ::{ flag=IT }:: [Card N'FoRcE](https://osu.ppy.sh/users/3936) | BAT |
 | ::{ flag=US }:: [Cecilthemos](https://osu.ppy.sh/users/2233) | BAT |
 | ::{ flag=AU }:: [chan](https://osu.ppy.sh/users/94) | BAT |
+| ::{ flag=US }:: [Chaos](https://osu.ppy.sh/users/2628870) | GMT |
 | ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000) | GMT, QAT |
 | ::{ flag=CA }:: [CheeseWarlock](https://osu.ppy.sh/users/9072) | BAT |
 | ::{ flag=IT }:: [Chewin](https://osu.ppy.sh/users/617323) | BAT |
@@ -174,11 +175,13 @@ A [página de grupo dos osu! Alumni](https://osu.ppy.sh/groups/16) listam todos 
 | ::{ flag=AU }:: [Oinari-sama](https://osu.ppy.sh/users/405508) | Moderador de chat, equipe de suporte |
 | ::{ flag=TH }:: [orioncomet](https://osu.ppy.sh/users/104827) | BAT |
 | ::{ flag=FI }:: [Orkel](https://osu.ppy.sh/users/39385) | Moderador de chat |
+| ::{ flag=FR }:: [Pachiru](https://osu.ppy.sh/users/2850983) | GMT |
 | ::{ flag=SG }:: [Pasonia](https://osu.ppy.sh/users/43345) | BAT |
 | ::{ flag=CA }:: [Pawsu](https://osu.ppy.sh/users/2371454) | GMT, equipe de suporte |
 | ::{ flag=PT }:: [Pereira006](https://osu.ppy.sh/users/537344) | BAT, moderador de chat, GMT |
 | ::{ flag=NL }:: [Pittigbaasje](https://osu.ppy.sh/users/2167433) | GMT |
 | ::{ flag=HK }:: [Pokie](https://osu.ppy.sh/users/207340) | BAT |
+| ::{ flag=GB }:: [Pope Gadget](https://osu.ppy.sh/users/2288341) | GMT |
 | ::{ flag=CN }:: [popner](https://osu.ppy.sh/users/759860) | BAT |
 | ::{ flag=MY }:: [PROGUY](https://osu.ppy.sh/users/528181) | QAT |
 | ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | NAT |
@@ -225,7 +228,6 @@ A [página de grupo dos osu! Alumni](https://osu.ppy.sh/groups/16) listam todos 
 | ::{ flag=SE }:: [theowest](https://osu.ppy.sh/users/60604) | GMT |
 | ::{ flag=US }:: [TheVileOne](https://osu.ppy.sh/users/278862) | osu!dev |
 | ::{ flag=RU }:: [tieff](https://osu.ppy.sh/users/89619) | BAT |
-| ::{ flag=JP }:: [TKS](https://osu.ppy.sh/users/940878) | BAT |
 | ::{ flag=FR }:: [Tommay](https://osu.ppy.sh/users/3132818) | GMT |
 | ::{ flag=AU }:: [tsububu](https://osu.ppy.sh/users/61) | BAT |
 | ::{ flag=TH }:: [Tyistiana](https://osu.ppy.sh/users/1421452) | NAT |
@@ -233,6 +235,7 @@ A [página de grupo dos osu! Alumni](https://osu.ppy.sh/groups/16) listam todos 
 | ::{ flag=PL }:: [Ukami](https://osu.ppy.sh/users/820865) | Moderador de chat, GMT |
 | ::{ flag=TR }:: [UnderminE](https://osu.ppy.sh/users/444223) | Moderador de chat |
 | ::{ flag=NL }:: [Uni](https://osu.ppy.sh/users/617106) | GMT |
+| ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872) | NAT |
 | ::{ flag=BE }:: [VeilStar](https://osu.ppy.sh/users/4255720) | GMT, equipe de suporte |
 | ::{ flag=PH }:: [vytalibus](https://osu.ppy.sh/users/10028) | BAT |
 | ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | GMT, torneios |
