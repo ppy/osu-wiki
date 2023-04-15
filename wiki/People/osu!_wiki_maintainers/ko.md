@@ -6,7 +6,7 @@
 
 만약 당신이 위키에 기여하시는 데 도움이 필요하거나 검토가 필요하시다면, [osu!dev 디스코드 서버](/wiki/Community/osu!dev_Discord_server)에 있는 `#osu-wiki` 채널에 메시지를 보내주세요. 그러면 관리자, 또는 다른 기여자분들께서 답변해드리실 거예요. (모든 기여자분은 영어를 사용합니다. 그러니 되도록 영어를 사용해 주세요.)
 
-## Wiki 관리자
+## 위키 관리자
 
 <!-- internal reference: https://github.com/orgs/ppy/teams/wiki/members -->
 
