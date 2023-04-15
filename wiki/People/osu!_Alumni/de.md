@@ -197,6 +197,7 @@ Die [osu! Alumni Gruppenseite](https://osu.ppy.sh/groups/16) listet alle Mitglie
 | ::{ flag=US }:: [SapphireGhost](https://osu.ppy.sh/users/388602) | BAT |
 | ::{ flag=US }:: [Saturos](https://osu.ppy.sh/users/3781) | BAT |
 | ::{ flag=DZ }:: [Scotty](https://osu.ppy.sh/users/11085809) | NAT |
+| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) | NAT |
 | ::{ flag=US }:: [Seibei4211](https://osu.ppy.sh/users/31537) | BAT |
 | ::{ flag=IT }:: [Seijiro](https://osu.ppy.sh/users/2581696) | GMT |
 | ::{ flag=MD }:: [senaya](https://osu.ppy.sh/users/304103) | Chat-Moderator |
