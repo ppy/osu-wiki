@@ -9,7 +9,7 @@ Página de índice para artículos sobre personas o grupos.
 - [Beatmap Spotlight Curators](Beatmap_Spotlight_Curators)
 - [Contribuidores de la comunidad](Community_Contributors)
 - [Desarrolladores](Developers)
-- [Artistas destacados](Featured_Artists)
+- [Featured Artists](Featured_Artists)
 - [Global Moderation Team](Global_Moderation_Team)
 - [Nomination Assessment Team](Nomination_Assessment_Team)
 - [Comité de puntos de rendimiento](Performance_Points_Committee)
