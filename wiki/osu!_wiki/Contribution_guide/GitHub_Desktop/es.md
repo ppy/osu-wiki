@@ -21,7 +21,7 @@
 
 4. Haga clic en `Clone`. Esto puede tomar un tiempo dependiendo de su entorno de red.
 
-5. Continua a [Ramifición](#ramifición).
+5. Continua a [Ramificación](#ramificación).
 
 ## Ramificación
 
