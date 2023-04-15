@@ -1,6 +1,6 @@
 # osu! 위키 관리자
 
-**osu! 위키 관리자**는 GitHub에 있는 [osu! 위키](/wiki/osu!_wiki)의 [프로젝트](https://github.com/ppy/osu-wiki)를 관리하시는 분들입니다.
+**osu! 위키 관리자**는 [GitHub 프로젝트 저장소](https://github.com/ppy/osu-wiki)를 통해 [osu! 위키](/wiki/osu!_wiki)를 관리합니다.
 
 관리자는 보통 GitHub의 [문제 보고](https://github.com/ppy/osu-wiki/issues)를 확인하며, 기여자가 신청한 Pull Request를 검토합니다. 다른 기여자들과는 다르게 관리자는 Pull Request를 수정할 수 있으며, 문서를 해당 위키 문서의 `master` 브랜치에 추가시키고, 변화된 부분을 공개하는 역할을 담당합니다.
 
