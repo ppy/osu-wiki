@@ -22,6 +22,7 @@ Daftar anggota osu! Alumni selengkapnya juga dapat dilihat pada [laman grup osu!
 | ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) | QAT, NAT |
 | ::{ flag=FI }:: [Asphyxia](https://osu.ppy.sh/users/1715720) | BAT, GMT, QAT |
 | ::{ flag=CN }:: [Atrue](https://osu.ppy.sh/users/1758523) | GMT |
+| ::{ flag=CA }:: [Aurele](https://osu.ppy.sh/users/654108) | BAT, GMT, QAT |
 | ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) | GMT |
 | ::{ flag=AU }:: [Azure_Kite](https://osu.ppy.sh/users/66296) | MAT |
 | ::{ flag=CN }:: [Ballance](https://osu.ppy.sh/users/165946) | Chat Moderator |
@@ -78,7 +79,6 @@ Daftar anggota osu! Alumni selengkapnya juga dapat dilihat pada [laman grup osu!
 | ::{ flag=FI }:: [Fraeon](https://osu.ppy.sh/users/2271) | BAT |
 | ::{ flag=TH }:: [Frostmourne](https://osu.ppy.sh/users/199669) | GMT, QAT |
 | ::{ flag=CN }:: [Fycho](https://osu.ppy.sh/users/1876867) | BAT, Chat Moderator, GMT, QAT |
-| ::{ flag=CA }:: [Gabe](https://osu.ppy.sh/users/654108) | BAT, GMT, QAT |
 | ::{ flag=JP }:: [Gamu](https://osu.ppy.sh/users/611174) | QAT |
 | ::{ flag=US }:: [Garven](https://osu.ppy.sh/users/244216) | QAT |
 | ::{ flag=FI }:: [Gemi](https://osu.ppy.sh/users/7365) | BAT |
@@ -184,8 +184,8 @@ Daftar anggota osu! Alumni selengkapnya juga dapat dilihat pada [laman grup osu!
 | ::{ flag=GB }:: [Pope Gadget](https://osu.ppy.sh/users/2288341) | GMT |
 | ::{ flag=CN }:: [popner](https://osu.ppy.sh/users/759860) | BAT |
 | ::{ flag=MY }:: [PROGUY](https://osu.ppy.sh/users/528181) | QAT |
-| ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | NAT |
 | ::{ flag=SE }:: [PuffBuck](https://osu.ppy.sh/users/4234525) | Manajemen turnamen |
+| ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | NAT |
 | ::{ flag=ES }:: [Raiden](https://osu.ppy.sh/users/2239480) | GMT, QAT |
 | ::{ flag=GB }:: [RandomJibberish](https://osu.ppy.sh/users/157879) | BAT |
 | ::{ flag=US }:: [RemmyX25](https://osu.ppy.sh/users/612) | BAT |
