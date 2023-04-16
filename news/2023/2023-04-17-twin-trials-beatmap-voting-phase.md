@@ -32,7 +32,7 @@ If osu!(lazer) is too *fancy* to navigate, this should help:
 
 <div align="center">
     <video width="95%" controls>
-        <source src="LINK" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/contests/166/how2vote.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
