@@ -112,7 +112,6 @@ NAT 리더가 관리하는 사항은 다음과 같습니다:
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | 고문[^task-pishifat] |
 | ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | 평가위원, 고문[^task-star] |
 | ::{ flag=AT }:: [Stixy](https://osu.ppy.sh/users/9000308) | 독일어, 세르비아어 | 평가위원 |
-| ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) |  | 고문 |
 | ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | 네덜란드어 | 평가위원 |
 | ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) | | 평가위원 |
 | ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | 폴란드어 | 평가위원 |
@@ -123,7 +122,7 @@ NAT 리더가 관리하는 사항은 다음과 같습니다:
 | :-- | :-- | :-- |
 | ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | 독일어 | 평가위원 |
 | ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | 우르두어, 일부 아랍어 | 평가위원 |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | 아랍어, 프랑스어, 일부 이탈리아어 | 평가위원 |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | 아랍어, 프랑스어, 일부 이탈리아어 | 리더 |
 | ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | 포르투갈어 | 평가위원 |
 | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | 리더 |
 
