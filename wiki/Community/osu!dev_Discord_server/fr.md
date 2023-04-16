@@ -2,8 +2,6 @@
 tags:
   - development
   - développement
-outdated_translation: true
-outdated_since: 7ca332517b46ef83f80a09c1b9082b437bacd39a
 ---
 
 # Serveur Discord osu!dev
@@ -12,9 +10,7 @@ outdated_since: 7ca332517b46ef83f80a09c1b9082b437bacd39a
 
 Le lien d'invitation permanent est <https://discord.gg/ppy>.
 
-## Vérification
-
-Par défaut, seuls les utilisateurs vérifiés ont l'autorisation de discuter dans le reste du serveur Discord. Si un utilisateur non-vérifié souhaite le devenir, celui-ci doit poster un message dans le canal `#arrival` du serveur Discord accompagné de ses motivations et intentions. Une fois ceci fait, un membre de l'équipe d'osu! s'occupera de vérifier l'utilisateur. *Prenez note que la vérification n'est pas immédiate et qu'elle peut prendre un certain temps.*
+Les nouveaux venus sur le serveur peuvent se présenter dans le canal `#introductions`, mais ce n'est pas une obligation pour pouvoir intéragir avec le reste du serveur.
 
 ## Projets
 
