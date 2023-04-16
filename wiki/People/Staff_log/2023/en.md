@@ -224,18 +224,21 @@ Abbreviations for user groups are used throughout this log:
 - 2023-04-14: Added [Corne2Plume3](https://osu.ppy.sh/users/15646039) to **GMT**
 - 2023-04-14: Added [THAT_otaku](https://osu.ppy.sh/users/11798717) to **GMT**
 - 2023-04-15: Added [D I O](https://osu.ppy.sh/users/3958619) to **GMT**
+- 2023-04-16: Moved [UberFazz](https://osu.ppy.sh/users/8646059) from **NAT** to **osu! Alumni**
 
 ### Beatmap Nominators
 
 #### Additions
 
 - 2023-04-02: Added [Garden](https://osu.ppy.sh/users/2849992) to **Probationary BN**
+- 2023-04-16: Added [UberFazz](https://osu.ppy.sh/users/8646059) to **BN**
 
 #### Moves
 
 - 2023-04-13: Moved [Stompy_](https://osu.ppy.sh/users/16429579) from **Probationary BN** to **BN**
 - 2023-04-14: Moved [Natsuko](https://osu.ppy.sh/users/8266817) from **Probationary BN** to **BN**
 - 2023-04-14: Moved [fuhie](https://osu.ppy.sh/users/7620002) from **BN** to **Probationary BN**
+- 2023-04-15: Moved [Hydria](https://osu.ppy.sh/users/808176) from **Probationary BN** to **BN**
 
 #### Removals
 
@@ -243,6 +246,7 @@ Abbreviations for user groups are used throughout this log:
 - 2023-04-06: Removed [Pieter](https://osu.ppy.sh/users/29282944) from **BN**
 - 2023-04-08: Removed [Quenlla](https://osu.ppy.sh/users/4725379) from **BN**
 - 2023-04-14: Removed [wwwww](https://osu.ppy.sh/users/8434466) from **Probationary BN**
+- 2023-04-15: Removed [moonpoint](https://osu.ppy.sh/users/9558549) from **BN**
 
 <!-- last updated with D I O to GMT 15/04/2023 02:25 UTC+1>
 

@@ -53,7 +53,6 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | ::{ flag=JP }:: [-Rei](https://osu.ppy.sh/users/8200707) | Japonés |
 | ::{ flag=GB }:: [Aistre](https://osu.ppy.sh/users/4879380) |  |
 | ::{ flag=IT }:: [Andrea](https://osu.ppy.sh/users/33599) | Italiano |
-| ::{ flag=GB }:: [Apo11o](https://osu.ppy.sh/users/9558549) |  |
 | ::{ flag=KR }:: [Beomsan](https://osu.ppy.sh/users/3626063) | Coreano |
 | ::{ flag=PL }:: [browiec](https://osu.ppy.sh/users/9426712) | Polaco |
 | ::{ flag=KR }:: [Cellina](https://osu.ppy.sh/users/2490770) | Coreano |
@@ -98,6 +97,7 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | ::{ flag=BA }:: [Stompy_](https://osu.ppy.sh/users/16429579) | Bosnio |
 | ::{ flag=TH }:: [timemon](https://osu.ppy.sh/users/2072005) | Tailandés |
 | ::{ flag=LT }:: [tomatas95](https://osu.ppy.sh/users/11403815) | Lituano |
+| ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) |  |
 | ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) |  |
 | ::{ flag=CA }:: [Vararaup](https://osu.ppy.sh/users/8257675) |  |
 | ::{ flag=US }:: [wafer](https://osu.ppy.sh/users/9416836) |  |
@@ -172,6 +172,7 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 | ::{ flag=AU }:: [fvrex](https://osu.ppy.sh/users/11863699) |  |
 | ::{ flag=CA }:: [guden](https://osu.ppy.sh/users/11626065) |  |
 | ::{ flag=CN }:: [gzdongsheng](https://osu.ppy.sh/users/8660315) | Chino |
+| ::{ flag=GB }:: [Hydria](https://osu.ppy.sh/users/808176) |  |
 | ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154) | Indonesio |
 | ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230) | Chino, cantonés |
 | ::{ flag=KR }:: [Kim_GodSSI](https://osu.ppy.sh/users/2218047) | Coreano |
@@ -224,7 +225,6 @@ Las tablas a continuación indican el(los) modo(s) de juego en donde cada Beatma
 
 | Nombre | Idiomas adicionales |
 | :-- | :-- |
-| ::{ flag=GB }:: [Hydria](https://osu.ppy.sh/users/808176) |  |
 | ::{ flag=US }:: [Monoseul](https://osu.ppy.sh/users/16010604) |  |
 | ::{ flag=CA }:: [Shad0wStar](https://osu.ppy.sh/users/16866460) |  |
 | ::{ flag=DK }:: [Tailsdk](https://osu.ppy.sh/users/6751666) | Danés |

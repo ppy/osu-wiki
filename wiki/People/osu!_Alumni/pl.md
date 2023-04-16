@@ -236,6 +236,7 @@ Lista wszystkich członków Alumni osu! znajduje się na [stronie grupy](https:/
 | ::{ flag=FR }:: [Tommay](https://osu.ppy.sh/users/3132818) | GMT |
 | ::{ flag=AU }:: [tsububu](https://osu.ppy.sh/users/61) | BAT |
 | ::{ flag=TH }:: [Tyistiana](https://osu.ppy.sh/users/1421452) | NAT |
+| ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) | NAT |
 | ::{ flag=CL }:: [Uberzolik](https://osu.ppy.sh/users/1314547) | NAT |
 | ::{ flag=PL }:: [Ukami](https://osu.ppy.sh/users/820865) | Moderator czatu, GMT |
 | ::{ flag=TR }:: [UnderminE](https://osu.ppy.sh/users/444223) | Moderator czatu |
