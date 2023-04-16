@@ -72,6 +72,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ::{ flag=CL }:: [Krisom](https://osu.ppy.sh/users/99269) | İspanyolca |
 | ::{ flag=FR }:: [Kudosu](https://osu.ppy.sh/users/11038155) | Fransızca |
 | ::{ flag=HK }:: [Kyle Y](https://osu.ppy.sh/users/3565813) | Çince, Kantonca |
+| ::{ flag=CA }:: [Lafayla](https://osu.ppy.sh/users/5312547) |  |
 | ::{ flag=KR }:: [Len](https://osu.ppy.sh/users/1686145) | Korece |
 | ::{ flag=GB }:: [Log Off Now](https://osu.ppy.sh/users/4378277) |  |
 | ::{ flag=KR }:: [Luscent](https://osu.ppy.sh/users/2688581) | Korece |
@@ -102,7 +103,6 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) |  |
 | ::{ flag=CA }:: [Vararaup](https://osu.ppy.sh/users/8257675) |  |
 | ::{ flag=US }:: [wafer](https://osu.ppy.sh/users/9416836) |  |
-| ::{ flag=CN }:: [Yugu](https://osu.ppy.sh/users/3161834) | Çince, Japonca |
 | ::{ flag=IT }:: [Zekk](https://osu.ppy.sh/users/9704802) | İtalyanca |
 
 #### osu!taiko
@@ -202,7 +202,6 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | İsim | Ek diller |
 | :-- | :-- |
 | ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Çince |
-| ::{ flag=CA }:: [Lafayla](https://osu.ppy.sh/users/5312547) |  |
 | ::{ flag=CA }:: [Nijika Ijichi](https://osu.ppy.sh/users/10964252) |  |
 | ::{ flag=FR }:: [Sotarks](https://osu.ppy.sh/users/4452992) | Fransızca |
 | ::{ flag=SE }:: [Zer0-](https://osu.ppy.sh/users/4260033) | İsveççe |

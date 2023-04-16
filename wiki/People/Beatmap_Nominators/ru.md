@@ -70,6 +70,7 @@ tags:
 | ::{ flag=CL }:: [Krisom](https://osu.ppy.sh/users/99269) | Испанский |
 | ::{ flag=FR }:: [Kudosu](https://osu.ppy.sh/users/11038155) | Французский |
 | ::{ flag=HK }:: [Kyle Y](https://osu.ppy.sh/users/3565813) | Китайский, кантонский |
+| ::{ flag=CA }:: [Lafayla](https://osu.ppy.sh/users/5312547) |  |
 | ::{ flag=KR }:: [Len](https://osu.ppy.sh/users/1686145) | Корейский |
 | ::{ flag=GB }:: [Log Off Now](https://osu.ppy.sh/users/4378277) |  |
 | ::{ flag=KR }:: [Luscent](https://osu.ppy.sh/users/2688581) | Корейский |
@@ -100,7 +101,6 @@ tags:
 | ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) |  |
 | ::{ flag=CA }:: [Vararaup](https://osu.ppy.sh/users/8257675) |  |
 | ::{ flag=US }:: [wafer](https://osu.ppy.sh/users/9416836) |  |
-| ::{ flag=CN }:: [Yugu](https://osu.ppy.sh/users/3161834) | Китайский, японский |
 | ::{ flag=IT }:: [Zekk](https://osu.ppy.sh/users/9704802) | Итальянский |
 
 #### osu!taiko
@@ -200,7 +200,6 @@ tags:
 | Имя | Языки |
 | :-- | :-- |
 | ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Китайский |
-| ::{ flag=CA }:: [Lafayla](https://osu.ppy.sh/users/5312547) |  |
 | ::{ flag=CA }:: [Nijika Ijichi](https://osu.ppy.sh/users/10964252) |  |
 | ::{ flag=FR }:: [Sotarks](https://osu.ppy.sh/users/4452992) | Французский |
 | ::{ flag=SE }:: [Zer0-](https://osu.ppy.sh/users/4260033) | Шведский |
