@@ -131,4 +131,3 @@ La [página del grupo Nomination Assessment Team](https://osu.ppy.sh/groups/7) e
 [^task-mo]: Maneja principalmente discusiones internas, asuntos y documentación
 [^task-naxess]: Mantiene principalmente [Aiess](https://github.com/Naxesss/Aiess) y [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier)
 [^task-pishifat]: Principalmente mantiene [el sitio web del NAT/BN](https://bn.mappersguild.com/home)
-[^task-uberfazz]: Entre otras cosas, gestiona asesores

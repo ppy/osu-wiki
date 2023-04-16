@@ -134,4 +134,3 @@ tags:
 [^task-mo]: 主要处理内部讨论、事务和文档
 [^task-naxess]: 主要负责维护 [Aiess](https://github.com/Naxesss/Aiess) 和 [Mapset Verifier (MV)](https://github.com/Naxesss/MapsetVerifier)
 [^task-pishifat]: 主要负责维护 [NAT/BN 网站](https://bn.mappersguild.com/home)
-[^task-uberfazz]: 除了其他事务外，还管理顾问小组
