@@ -54,7 +54,7 @@ If no one has checked in after a couple of days, try the following:
 
 - Make sure you have resolved all suggestions — people may be waiting on your responses.
 - Ask other osu! wiki editors in the [osu!dev Discord server](/wiki/Community/osu!dev_Discord_server) (`#osu-wiki` channel) or in the GitHub comments.
-- To get help with the translation, check a couple of merged pull requests for your language and get in touch with their reviewers and/or authors ([example GitHub query](https://github.com/ppy/osu-wiki/pulls?q=is%3Apr+is%3Amerged+%5BID%5D)).
+- To get help with the translation, check a couple of merged pull requests for your language and get in touch with their reviewers and/or authors ([example GitHub query](https://github.com/ppy/osu-wiki/pulls?q=is:pr+is:merged+[ID])).
 - Ask your friends for a quick look!
 
 In addition to a manual review process, the osu! wiki repository has [a set of automated checks](/wiki/osu!_wiki/Maintenance#ci-checks), which ensure that your changes follow the common style of the wiki and are free from formatting errors. To see their status, open the `Actions` tab of your pull request and follow the diagnostic messages under the errors, if there are any.
