@@ -122,7 +122,6 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851) | Almanca |
 | ::{ flag=US }:: [hac](https://osu.ppy.sh/users/17853754) |  |
 | ::{ flag=IE }:: [HEAVENLY MOON](https://osu.ppy.sh/users/6751666) |  |
-| ::{ flag=NL }:: [ikin5050](https://osu.ppy.sh/users/4007649) | Felemenkçe |
 | ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230) | Çince, Kantonca |
 | ::{ flag=US }:: [Jonarwhal](https://osu.ppy.sh/users/3653035) |  |
 | ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326) | Japonca, Kantonca, Çince |

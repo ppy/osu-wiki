@@ -122,7 +122,6 @@ Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masin
 | ::{ flag=DE }:: [Greenshell](https://osu.ppy.sh/users/8693851) | Jerman |
 | ::{ flag=US }:: [hac](https://osu.ppy.sh/users/17853754) |  |
 | ::{ flag=IE }:: [HEAVENLY MOON](https://osu.ppy.sh/users/6751666) |  |
-| ::{ flag=NL }:: [ikin5050](https://osu.ppy.sh/users/4007649) | Belanda |
 | ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230) | Tionghoa, Kanton |
 | ::{ flag=US }:: [Jonarwhal](https://osu.ppy.sh/users/3653035) |  |
 | ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326) | Jepang, Kanton, Tionghoa |
