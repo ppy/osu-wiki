@@ -143,7 +143,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad
 - Double Time
   1. [technoplanet - Megastructure \[Extended Mix\] (duski) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1499443#taiko/3113038)
   2. [rejection - Aimai Attitude (feat. Nakamura Sanso) (KTYN) \[Behind the Mind\]](https://osu.ppy.sh/beatmapsets/1261099#taiko/2621461)
-- FreeMod
+- Free Mod
   1. [Masahiro "Godspeed" Aoki - Blaze (roufou) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1976839#taiko/4103593)
   2. [II-L - SPUTNIK-3 (Horiiizon) \[OUTER SPACE\]](https://osu.ppy.sh/beatmapsets/1596423#taiko/3260555)
   3. [SOOOO - iiillluuuvvvUUU (4sbet1) \[hhheeellllllOOO\]](https://osu.ppy.sh/beatmapsets/1976827#taiko/4103565)
