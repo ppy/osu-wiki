@@ -1,8 +1,3 @@
----
-outdated_since: 2d4959ec9ad9cb438363d7bf8e8220687a899602
-outdated_translation: true
----
-
 # Critères de classement
 
 *Pour les critères de classement spécifiques aux [modes de jeu](/wiki/Game_mode), voir : [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch), et [osu!mania](osu!mania).*
@@ -15,7 +10,7 @@ Les modifications des règles et des directives de ce document sont proposées e
 
 ## Outils
 
-Il est fortement recommandé d'utiliser [Mapset Verifier (MV)](https://github.com/Naxesss/MapsetVerifier) pour aider à vérifier ces critères. [AiMod](/wiki/Client/Beatmap_editor/AiMod) qui se trouve sur l'ancien client (stable) est une version non maintenue et donc pas à jour. La vérification des beatmaps sur le nouveau client (lazer) est au stade [work in progress](https://github.com/ppy/osu/issues/12091#issuecomment-878760791).
+Il est fortement recommandé d'utiliser [Mapset Verifier (MV)](https://github.com/Naxesss/MapsetVerifier) pour aider à vérifier ces critères. [AiMod](/wiki/Client/Beatmap_editor/AiMod) qui se trouve sur l'ancien client (stable) est une version non maintenue et donc pas à jour. La vérification des beatmaps sur [osu!(lazer)](/wiki/Client/Release_stream/Lazer) est au stade [work in progress](https://github.com/ppy/osu/issues/12091#issuecomment-878760791).
 
 Il est important de noter avant de les utiliser :
 
