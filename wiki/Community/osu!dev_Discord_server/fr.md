@@ -10,7 +10,7 @@ tags:
 
 Le lien d'invitation permanent est <https://discord.gg/ppy>.
 
-Les nouveaux venus sur le serveur peuvent se présenter dans le canal `#introductions`, mais ce n'est pas une obligation pour pouvoir intéragir avec le reste du serveur.
+Les nouveaux venus sur le serveur peuvent se présenter dans le salon `#introductions`, mais ce n'est pas une obligation pour pouvoir interagir avec le reste du serveur.
 
 ## Projets
 
