@@ -102,33 +102,53 @@ The osu!taiko World Cup 2023 is run by various community members.
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad463970c6b5c22f623fcefd8d5e63d#file-twc-2023-player-list-csv).
 
-## Match schedule: Semifinals
+## Match schedule: Finals
 
-### Saturday, 15 April 2023
-
-| Team A | Team B | Match time |  |
-| --: | :-- | :-- | :-: |
-| Italy ::{ flag=IT }:: | ::{ flag=MY }:: Malaysia | [Apr 15 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230415T100000&p1=1440&p2=215&p3=122) | [^losers-bracket] |
-| France ::{ flag=FR }:: | ::{ flag=BR }:: Brazil | [Apr 15 (Sat) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230415T160000&p1=1440&p2=195&p3=45) | [^losers-bracket] |
-| Germany ::{ flag=DE }:: | ::{ flag=CL }:: Chile | [Apr 15 (Sat) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230415T200000&p1=1440&p2=37&p3=232) | [^losers-bracket] |
-
-### Sunday, 16 April 2023
+### Saturday, 22 April 2023
 
 | Team A | Team B | Match time |  |
 | --: | :-- | :-- | :-: |
-| United States ::{ flag=US }:: | ::{ flag=TW }:: Taiwan | [Apr 16 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230416T030000&p1=1440&p2=263&p3=241) | [^winners-bracket] |
-| United Kingdom ::{ flag=GB }:: | ::{ flag=CN }:: China | [Apr 16 (Sun) 09:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230416T090000&p1=1440&p2=136&p3=33) | [^losers-bracket] |
-| Italy ::{ flag=IT }:: | ::{ flag=DE }:: Germany | [Apr 16 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230416T110000&p1=1440&p2=215&p3=37) | [^potential-match] |
-| France ::{ flag=FR }:: | ::{ flag=CN }:: China | [Apr 16 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230416T120000&p1=1440&p2=195&p3=33) | [^potential-match] |
-| Brazil ::{ flag=BR }:: | ::{ flag=CN }:: China | [Apr 16 (Sun) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230416T120000&p1=1440&p2=45&p3=33) | [^potential-match] |
-| Japan ::{ flag=JP }:: | ::{ flag=KR }:: South Korea | [Apr 16 (Sun) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230416T130000&p1=1440&p2=248&p3=235) | [^winners-bracket] |
-| Italy ::{ flag=IT }:: | ::{ flag=CL }:: Chile | [Apr 16 (Sun) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230416T133000&p1=1440&p2=215&p3=232) | [^potential-match] |
-| Malaysia ::{ flag=MY }:: | ::{ flag=DE }:: Germany | [Apr 16 (Sun) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230416T133000&p1=1440&p2=122&p3=37) | [^potential-match] |
-| Malaysia ::{ flag=MY }:: | ::{ flag=CL }:: Chile | [Apr 16 (Sun) 13:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230416T133000&p1=1440&p2=122&p3=232) | [^potential-match] |
-| France ::{ flag=FR }:: | ::{ flag=GB }:: United Kingdom | [Apr 16 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230416T160000&p1=1440&p2=195&p3=136) | [^potential-match] |
-| Brazil ::{ flag=BR }:: | ::{ flag=GB }:: United Kingdom | [Apr 16 (Sun) 16:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230416T160000&p1=1440&p2=45&p3=136) | [^potential-match] |
+| South Korea ::{ flag=KR }:: | ::{ flag=CN }:: China | [Apr 22 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230422T100000&p1=1440&p2=235&p3=33) | [^losers-bracket] |
+| United States ::{ flag=US }:: | ::{ flag=DE }:: Germany | [Apr 22 (Sat) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230422T190000&p1=1440&p2=263&p3=37) | [^losers-bracket] |
+
+### Sunday, 23 April 2023
+
+| Team A | Team B | Match time |  |
+| --: | :-- | :-- | :-: |
+| United States ::{ flag=US }:: | ::{ flag=KR }:: South Korea | [Apr 23 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230423T030000&p1=1440&p2=263&p3=235) | [^potential-match] |
+| United States ::{ flag=US }:: | ::{ flag=CN }:: China | [Apr 23 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230423T030000&p1=1440&p2=263&p3=33) | [^potential-match] |
+| Japan ::{ flag=JP }:: | ::{ flag=TW }:: Taiwan | [Apr 23 (Sun) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230423T080000&p1=1440&p2=248&p3=241) | [^winners-bracket] |
+| Germany ::{ flag=DE }:: | ::{ flag=KR }:: South Korea | [Apr 23 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230423T110000&p1=1440&p2=37&p3=235) | [^potential-match] |
+| Germany ::{ flag=DE }:: | ::{ flag=CN }:: China | [Apr 23 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230423T110000&p1=1440&p2=37&p3=33) | [^potential-match] |
 
 ## Mappools
+
+### Finals
+
+**[Download the mappack here (76 MB)](https://drive.google.com/uc?id=1sI6l9kokhpOYrkLqdsliW0j9lhh-6ySd)**
+
+- No Mod
+  1. [rN - onostrapha (Cynplytholowazy) \[calamity\]](https://osu.ppy.sh/beatmapsets/1976633#taiko/4103021)
+  2. [Masahiro "Godspeed" Aoki - Twister (tasuke912) \[TAIKO-HOLIC\]](https://osu.ppy.sh/beatmapsets/1441606#taiko/2965671)
+  3. [Aquestion - Umami Blaze (youtune3) \[Infernal Oni\]](https://osu.ppy.sh/beatmapsets/1976814#taiko/4103528)
+  4. [linear ring - Can you hear me? (DEtermination21) \[Waltz of White Noise\]](https://osu.ppy.sh/beatmapsets/1713296#taiko/3500751)
+  5. [BLANKFIELD - The Red and White (Ak1o) \[The Red and Blue\]](https://osu.ppy.sh/beatmapsets/1976559#taiko/4102855)
+  6. [Mono. - ROCKET START (Shamirin\_mzk) \[Kinpatsu Loni\]](https://osu.ppy.sh/beatmapsets/1976801#taiko/4103485)
+- Hidden
+  1. [Marmalade butcher - Mirage Age (Eyenine) \[Image\]](https://osu.ppy.sh/beatmapsets/1520484#taiko/3141358)
+  2. [Rish feat. Choko - Punai Punai Gensou \~Punai Punai in Wonderland\~ (ler1211) \[Punai World Cup\] *(temporary link)*](https://leoflt.com/s/hCwS)
+- Hard Rock
+  1. [Ata - Fucking Machine (Zetera) \[Lust\]](https://osu.ppy.sh/beatmapsets/1863684#taiko/3832609)
+  2. [technoplanet feat. Haruno - End of Fairytale (Maimaing) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1976819#taiko/4103534)
+- Double Time
+  1. [technoplanet - Megastructure \[Extended Mix\] (duski) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1499443#taiko/3113038)
+  2. [rejection - Aimai Attitude (feat. Nakamura Sanso) (KTYN) \[Behind the Mind\]](https://osu.ppy.sh/beatmapsets/1261099#taiko/2621461)
+- Free Mod
+  1. [Masahiro "Godspeed" Aoki - Blaze (roufou) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1976839#taiko/4103593)
+  2. [II-L - SPUTNIK-3 (Horiiizon) \[OUTER SPACE\]](https://osu.ppy.sh/beatmapsets/1596423#taiko/3260555)
+  3. [SOOOO - iiillluuuvvvUUU (4sbet1) \[hhheeellllllOOO\]](https://osu.ppy.sh/beatmapsets/1976827#taiko/4103565)
+- Tiebreaker
+  1. **[BilliumMoto & Dictate - 1KARUGA (HiroK) \[H1roK & u1's 1nner On1\]](https://osu.ppy.sh/beatmapsets/1976834#taiko/4103575)**
 
 ### Semifinals
 
@@ -253,6 +273,28 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad
   1. [Zekk - ReIMEI (cdh) \[AsHITA\]](https://osu.ppy.sh/beatmapsets/1955236#taiko/4049602)
 
 ## Match results
+
+### Semifinals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1-53w_zGOQqp4CvIG4mtgxriyRsbW2OibNKxmVVMRH4s/edit?rm=minimal).
+
+Saturday, 15 April 2023:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Italy** ::{ flag=IT }:: | **6** | 3 | ::{ flag=MY }:: Malaysia | [#1](https://osu.ppy.sh/community/matches/107968912) |
+| **France** ::{ flag=FR }:: | **6** | 4 | ::{ flag=BR }:: Brazil | [#1](https://osu.ppy.sh/community/matches/107975514) |
+| **Germany** ::{ flag=DE }:: | **6** | 3 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/107980596) |
+
+Sunday, 16 April 2023:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| United States ::{ flag=US }:: | 4 | **6** | ::{ flag=TW }:: **Taiwan** | [#1](https://osu.ppy.sh/community/matches/107987149) |
+| United Kingdom ::{ flag=GB }:: | 5 | **6** | ::{ flag=CN }:: **China** | [#1](https://osu.ppy.sh/community/matches/107991537) |
+| Italy ::{ flag=IT }:: | 0 | **6** | ::{ flag=DE }:: **Germany** | [#1](https://osu.ppy.sh/community/matches/107993087) |
+| France ::{ flag=FR }:: | 5 | **6** | ::{ flag=CN }:: **China** | [#1](https://osu.ppy.sh/community/matches/107994018) |
+| **Japan** ::{ flag=JP }:: | **6** | 0 | ::{ flag=KR }:: South Korea | [#1](https://osu.ppy.sh/community/matches/107994971) |
 
 ### Quarterfinals
 
