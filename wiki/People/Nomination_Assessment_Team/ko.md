@@ -98,49 +98,49 @@ NAT 리더가 관리하는 사항은 다음과 같습니다:
 
 | 닉네임 | 구사 언어 | 배정 그룹 |
 | :-- | :-- | :-- |
-| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) |  | Structural[^task-mo] |
-| ::{ flag=SG }:: [achyoo](https://osu.ppy.sh/users/7823498) | 중국어 | Evaluation, structural[^task-achyoo] |
-| ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) |  | Evaluation |
-| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | 벨라루스어, 러시아어 | Evaluation |
-| ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | 광둥어, 중국어 | Evaluation |
-| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | 포르투갈어 | Evaluation |
-| ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | Evaluation |
-| ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | 중국어 | Evaluation |
-| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | 독일어 | Evaluation, structural[^task-fuju] |
-| ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | 스웨덴어 | Structural[^task-naxess] |
-| ::{ flag=GB }:: [nexusqi](https://osu.ppy.sh/users/13822800) |  | Evaluation |
-| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | Structural[^task-pishifat] |
-| ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | Evaluation, structural[^task-star] |
-| ::{ flag=AT }:: [Stixy](https://osu.ppy.sh/users/9000308) | 독일어, 세르비아어 | Evaluation |
-| ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | 네덜란드어 | Evaluation |
-| ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  | Evaluation |
-| ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | 폴란드어 | Evaluation |
+| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) |  | 고문[^task-mo] |
+| ::{ flag=SG }:: [achyoo](https://osu.ppy.sh/users/7823498) | 중국어 | 평가위원, 고문[^task-achyoo] |
+| ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) |  | 평가위원 |
+| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | 벨라루스어, 러시아어 | 평가위원 |
+| ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | 광둥어, 중국어 | 평가위원 |
+| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | 포르투갈어 | 평가위원 |
+| ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | 평가위원 |
+| ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | 중국어 | 평가위원 |
+| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | 독일어 | 평가위원, 고문[^task-fuju] |
+| ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | 스웨덴어 | 고문[^task-naxess] |
+| ::{ flag=GB }:: [nexusqi](https://osu.ppy.sh/users/13822800) | | 평가위원 |
+| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | 고문[^task-pishifat] |
+| ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | 평가위원, 고문[^task-star] |
+| ::{ flag=AT }:: [Stixy](https://osu.ppy.sh/users/9000308) | 독일어, 세르비아어 | 평가위원 |
+| ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | 네덜란드어 | 평가위원 |
+| ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) | | 평가위원 |
+| ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | 폴란드어 | 평가위원 |
 
 ### osu!taiko
 
 | 이름 | 구사 언어 | 배정 그룹 |
 | :-- | :-- | :-- |
-| ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | 독일어 | Evaluation |
-| ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | 우르두어, 일부 아랍어 | Evaluation |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | 아랍어, 프랑스어, 일부 이탈리아어 | Leadership |
-| ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | 포르투갈어 | Evaluation |
-| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | Leadership |
+| ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | 독일어 | 평가위원 |
+| ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | 우르두어, 일부 아랍어 | 평가위원 |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | 아랍어, 프랑스어, 일부 이탈리아어 | 리더 |
+| ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | 포르투갈어 | 평가위원 |
+| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | 리더 |
 
 ### osu!catch
 
 | 이름 | 구사 언어 | 배정 그룹 |
 | :-- | :-- | :-- |
-| ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | 스페인어, 독일어 | Evaluation |
-| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | 네덜란드어 | Evaluation |
+| ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | 스페인어, 독일어 | 평가위원 |
+| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | 네덜란드어 | 평가위원 |
 
 ### osu!mania
 
 | 이름 | 구사 언어 | 배정 그룹 |
 | :-- | :-- | :-- |
-| ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229) | 중국어 | Evaluation |
-| ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | 베트남어 | Evaluation |
-| ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | 스페인어 | Evaluation |
-| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | 인도네시아어 | Evaluation |
+| ::{ flag=CN }:: [_Stan](https://osu.ppy.sh/users/1653229) | 중국어 | 평가위원 |
+| ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | 베트남어 | 평가위원 |
+| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | 인도네시아어 | 평가위원 |
+| ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872) |  | 평가위원 |
 
 ## 참고
 

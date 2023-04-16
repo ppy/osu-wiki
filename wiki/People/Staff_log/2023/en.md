@@ -239,6 +239,7 @@ Abbreviations for user groups are used throughout this log:
 - 2023-04-14: Moved [Natsuko](https://osu.ppy.sh/users/8266817) from **Probationary BN** to **BN**
 - 2023-04-14: Moved [fuhie](https://osu.ppy.sh/users/7620002) from **BN** to **Probationary BN**
 - 2023-04-15: Moved [Hydria](https://osu.ppy.sh/users/808176) from **Probationary BN** to **BN**
+- 2023-04-16: Moved [Lafayla](https://osu.ppy.sh/users/5312547) from **Probationary BN** to **BN**
 
 #### Removals
 
@@ -247,6 +248,7 @@ Abbreviations for user groups are used throughout this log:
 - 2023-04-08: Removed [Quenlla](https://osu.ppy.sh/users/4725379) from **BN**
 - 2023-04-14: Removed [wwwww](https://osu.ppy.sh/users/8434466) from **Probationary BN**
 - 2023-04-15: Removed [moonpoint](https://osu.ppy.sh/users/9558549) from **BN**
+- 2023-04-16: Removed [Yugu](https://osu.ppy.sh/users/3161834) from **BN**
 
 <!-- last updated with D I O to GMT 15/04/2023 02:25 UTC+1>
 
