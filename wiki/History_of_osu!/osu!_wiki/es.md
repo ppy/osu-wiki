@@ -6,10 +6,10 @@
 
 | Fecha, Hora | Descripción |
 | :-- | :-- |
-| 5/12/2011 T08:13Z | Primera edición de la osu! wiki por Ephemeral. |
+| 5/12/2011 | Primera edición de la osu! wiki por Ephemeral. |
 | 16/12/2011 | [La osu! wiki ya está abierta al público](https://osu.ppy.sh/community/forums/topics/68525). |
 | 11/2012 | La osu! wiki ahora tiene 3 administradores (Dellirium, Repflez). Antes, solo peppy era administrador. |
-| 27/1/2013 T06:12Z | peppy integró la osu! wiki con el diseño del sitio web oficial. [Enlace a la publicación de peppy](https://osu.ppy.sh/community/forums/posts/2082803). |
+| 27/1/2013 (06:12 UTC) | peppy integró la osu! wiki con el diseño del sitio web oficial. [Enlace a la publicación de peppy](https://osu.ppy.sh/community/forums/posts/2082803). |
 | 2014 | La osu! wiki se convierte oficialmente en un centro de información, reemplazando las versiones web de [Equipo](/wiki/People/osu!_team) y [Reglas](/wiki/Rules). También, ahora la osu! wiki tiene 5 administradores (Loctav, deadbeat). |
 | 2015 | La osu! wiki fue traducida a otros idiomas. Shiro reemplazó a Dellirium como uno de los administradores de la wiki. |
 | 22/2/2016 | La osu! wiki ahora tiene 8 administradores (Ukami y Galkan). |
