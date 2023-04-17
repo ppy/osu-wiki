@@ -180,7 +180,7 @@ Tabel di bawah ini menunjukkan mode permainan yang terhubung dengan masing-masin
 | ::{ flag=KR }:: [Kim_GodSSI](https://osu.ppy.sh/users/2218047) | Korea |
 | ::{ flag=KR }:: [Lami-](https://osu.ppy.sh/users/16505281) | Korea |
 | ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573) | Filipino |
-| ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/4790958) | Tionghoa |
+| ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/4790958) | Korea |
 | ::{ flag=KR }:: [Murumoo](https://osu.ppy.sh/users/8001433) | Korea |
 | ::{ flag=NL }:: [Muse Dash](https://osu.ppy.sh/users/13695676) | Belanda |
 | ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | Spanyol, Portugis, Galisia, Italia, Jepang |
