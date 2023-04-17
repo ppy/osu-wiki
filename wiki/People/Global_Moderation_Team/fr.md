@@ -90,7 +90,7 @@ La page du groupe [Global Moderation Team](https://osu.ppy.sh/groups/4) donne la
 | ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | Modération de la communauté modding/mapping |
 | ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837) | Français, espagnol | Modération du tchat |
 | ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) |  | Modération du tchat, modération de la communauté modding/mapping |
-| ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) |  | Modération de la communauté modding/mapping |
+| ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | Malais, un peu de chinois | Modération de la communauté modding/mapping |
 | ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326) | Cantonais, chinois, japonais | Modération du tchat |
 | ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) | Russe | Modération du tchat |
 | ::{ flag=JP }:: [KSHR](https://osu.ppy.sh/users/409957) | Japonais | Modération du tchat |

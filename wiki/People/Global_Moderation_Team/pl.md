@@ -77,7 +77,7 @@ Lista wszystkich moderatorów globalnych jest dostępna na [stronie grupy](https
 | ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | Moderowanie społeczności twórców i moderów beatmap |
 | ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837) | Francuski, hiszpański | Moderowanie czatu |
 | ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) |  | Moderowanie czatu, moderowanie społeczności twórców i moderów beatmap |
-| ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) |  | Moderowanie społeczności twórców i moderów beatmap |
+| ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | Malajski, chiński (częściowo) | Moderowanie społeczności twórców i moderów beatmap |
 | ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326) | Kantoński, chiński, japoński | Moderowanie czatu |
 | ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) | Rosyjski | Moderowanie czatu |
 | ::{ flag=JP }:: [KSHR](https://osu.ppy.sh/users/409957) | Japoński | Moderowanie czatu |

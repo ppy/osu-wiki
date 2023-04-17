@@ -90,7 +90,7 @@ tags:
 | ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | Модерация маппинг-сообщества |
 | ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837) | Французский, испанский | Модерация чата |
 | ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) |  | Модерация чата, модерация маппинг-сообщества |
-| ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) |  | Модерация маппинг-сообщества |
+| ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | Малайский, частично китайский | Модерация маппинг-сообщества |
 | ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326) | Кантонский, китайский, японский | Модерация чата |
 | ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) | Русский | Модерация чата |
 | ::{ flag=JP }:: [KSHR](https://osu.ppy.sh/users/409957) | Японский | Модерация чата |

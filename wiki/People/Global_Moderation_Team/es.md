@@ -88,7 +88,7 @@ La [página del grupo Global Moderation Team](https://osu.ppy.sh/groups/4) enume
 | ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | Moderación de la comunidad de mapping/modding |
 | ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837) | Francés, español | Moderación del chat |
 | ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) |  | Moderación del chat, moderación de la comunidad de mapping/modding |
-| ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) |  | Moderación de la comunidad de mapping/modding |
+| ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | Malayo, algo de chino | Moderación de la comunidad de mapping/modding |
 | ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326) | Cantonés, chino, japonés | Moderación del chat |
 | ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) | Ruso | Moderación del chat |
 | ::{ flag=JP }:: [KSHR](https://osu.ppy.sh/users/409957) | Japonés | Moderación del chat |

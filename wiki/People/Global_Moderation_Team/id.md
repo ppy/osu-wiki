@@ -86,7 +86,7 @@ Daftar anggota GMT selengkapnya dapat dilihat pada laman grup [Global Moderation
 | ::{ flag=US }:: [Halfslashed](https://osu.ppy.sh/users/4598899) |  | Moderasi komunitas mapping/modding |
 | ::{ flag=FR }:: [Imakuri](https://osu.ppy.sh/users/6100837) | Perancis, Spanyol | Moderasi chat |
 | ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) |  | Moderasi chat, moderasi komunitas mapping/modding |
-| ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) |  | Moderasi komunitas mapping/modding |
+| ::{ flag=MY }:: [Jerry](https://osu.ppy.sh/users/605973) | Melayu, sedikit Tionghoa | Moderasi komunitas mapping/modding |
 | ::{ flag=HK }:: [kanpakyin](https://osu.ppy.sh/users/394326) | Kanton, Tionghoa, Jepang | Moderasi chat |
 | ::{ flag=RU }:: [Kobold84](https://osu.ppy.sh/users/3227533) | Rusia | Moderasi chat |
 | ::{ flag=JP }:: [KSHR](https://osu.ppy.sh/users/409957) | Jepang | Moderasi chat |
