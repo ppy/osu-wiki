@@ -1,9 +1,3 @@
----
-outdated_since: 2d4959ec9ad9cb438363d7bf8e8220687a899602
-outdated_translation: true
-no_native_review: true
----
-
 # 谱面上架标准 (RC)
 
 *若想查阅特定[游戏模式](/wiki/Game_mode)的谱面上架标准，请参阅 [osu!](osu!)、[osu!taiko](osu!taiko)、[osu!catch](osu!catch)、[osu!mania](osu!mania)。*
@@ -16,7 +10,7 @@ no_native_review: true
 
 ## 工具
 
-非常推荐您使用 [Mapset Verifier (MV)](https://github.com/Naxesss/MapsetVerifier) 来辅助检查谱面是否符合上架标准。传统客户端 (stable 版) 内的 [AiMod](/wiki/Client/Beatmap_editor/AiMod) 工具已经过时且不再维护。同时，新版客户端 (lazer 版) 内的谱面检查工具仍在[开发中](https://github.com/ppy/osu/issues/12091#issuecomment-878760791)。
+非常推荐您使用 [Mapset Verifier (MV)](https://github.com/Naxesss/MapsetVerifier) 来辅助检查谱面是否符合上架标准。传统客户端 (stable 版) 内的 [AiMod](/wiki/Client/Beatmap_editor/AiMod) 工具已经过时且不再维护。同时，[osu!(lazer)](/wiki/Client/Release_stream/Lazer)客户端内的谱面检查工具仍在[开发中](https://github.com/ppy/osu/issues/12091#issuecomment-878760791)。
 
 使用前需注意：
 
