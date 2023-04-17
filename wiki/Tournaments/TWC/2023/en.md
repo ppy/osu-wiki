@@ -136,7 +136,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad
   6. [Mono. - ROCKET START (Shamirin\_mzk) \[Kinpatsu Loni\]](https://osu.ppy.sh/beatmapsets/1976801#taiko/4103485)
 - Hidden
   1. [Marmalade butcher - Mirage Age (Eyenine) \[Image\]](https://osu.ppy.sh/beatmapsets/1520484#taiko/3141358)
-  2. [Rish feat. Choko - Punai Punai Gensou \~Punai Punai in Wonderland\~ (ler1211) \[Punai World Cup\] *(temporary link)*](https://leoflt.com/s/hCwS)
+  2. [Rish feat. Choko - Punai Punai Gensou \~Punai Punai in Wonderland\~ (ler1211) \[Punai World Cup\]](https://osu.ppy.sh/beatmapsets/1977053#taiko/4104127)
 - Hard Rock
   1. [Ata - Fucking Machine (Zetera) \[Lust\]](https://osu.ppy.sh/beatmapsets/1863684#taiko/3832609)
   2. [technoplanet feat. Haruno - End of Fairytale (Maimaing) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1976819#taiko/4103534)
@@ -169,7 +169,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad
 - Double Time
   1. [MuryokuP - Frozen World (ikin5050) \[Northern Lights\]](https://osu.ppy.sh/beatmapsets/1972541#taiko/4093146)
   2. [Imy - Over the limit (Nardoxyribonucleic) \[Limitless Oni\]](https://osu.ppy.sh/beatmapsets/1972545#taiko/4093155)
-- FreeMod
+- Free Mod
   1. [SAMString - Ataraxia (MTNTWarz) \[Serenity\]](https://osu.ppy.sh/beatmapsets/1972547#taiko/4093157)
   2. [Hino Isuka vs. s-don - Glooorious!! (ZTH) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1972551#taiko/4093161)
   3. [LV.4 - Sentimental Surge (Hana Hayashi) \[Serotonin Syndrome\]](https://osu.ppy.sh/beatmapsets/1972728#taiko/4093466)
@@ -195,7 +195,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad
 - Double Time
   1. [Grant - Weapon (feat. Baum) (rubies87) \[Lethality\]](https://osu.ppy.sh/beatmapsets/1967931#taiko/4081439)
   2. [SECONDWALL - Natsu no Owari (Hivie) \[Rainy Summer\]](https://osu.ppy.sh/beatmapsets/1404425#taiko/2896554)
-- FreeMod
+- Free Mod
   1. [LeaF - Calamity Fortune (DakeDekaane) \[Inner Oni (TWC Edit)\]](https://osu.ppy.sh/beatmapsets/1968850#taiko/4083711)
   2. [Zekk - Falling Down feat. Renko x TRIANGLE (Backfire) \[OOni\]](https://osu.ppy.sh/beatmapsets/1969845#taiko/4086680)
   3. [Plum - Mad Piano Party II (tasuke912) \[FM3\]](https://osu.ppy.sh/beatmapsets/1968116#taiko/4082132)
@@ -220,7 +220,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad
 - Double Time
   1. [BlackY - Howling Moon (komasy) \[TWC ver.\]](https://osu.ppy.sh/beatmapsets/1963854#taiko/4070769)
   2. [Zekk - SUMMER (\_Rise) \[Oni\]](https://osu.ppy.sh/beatmapsets/1963718#taiko/4070069)
-- FreeMod
+- Free Mod
   1. [Zekk - Duplication (eiri-) \[Facsimile\]](https://osu.ppy.sh/beatmapsets/1963847#taiko/4070755)
   2. [Zenpaku - Blast+ feat. DEMONDICE (Burak) \[Odyssey\]](https://osu.ppy.sh/beatmapsets/1963586#taiko/4069758)
   3. [Morimori Atsushi - PUPA (uma Remix) (Lumenite-) \[Inner Oni (Edit)\]](https://osu.ppy.sh/beatmapsets/1591364#taiko/4069678)
@@ -245,7 +245,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad
 - Double Time
   1. [Blue Stahli - Blue Stahli (Jaltzu) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1576838#taiko/3221023)
   2. [wotoha - Digital Life Hacker (BlackBN) \[Irone's Oni\]](https://osu.ppy.sh/beatmapsets/1522733#taiko/3119398)
-- FreeMod
+- Free Mod
   1. [Redside - Sidequest (Maimaing) \[Taikoquest\]](https://osu.ppy.sh/beatmapsets/1959473#taiko/4060309)
   2. [Tokyo Machine - OKAY (trollocat) \[INNER ONI\]](https://osu.ppy.sh/beatmapsets/1198443#taiko/2495986)
   3. [antiPLUR - One Life Left to Live (Nwolf) \[Last Stand\]](https://osu.ppy.sh/beatmapsets/1198823#taiko/2496686)
@@ -269,7 +269,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad
 - Double Time
   1. [meganeko - Ninox (osu! edit) (Nao Tomori) \[Oni\]](https://osu.ppy.sh/beatmapsets/1955324#taiko/4049807)
   2. [kakichoco - Hakudou (Nardoxyribonucleic) \[Oni\]](https://osu.ppy.sh/beatmapsets/1955347#taiko/4049875)
-- FreeMod
+- Free Mod
   1. [Zekk - ReIMEI (cdh) \[AsHITA\]](https://osu.ppy.sh/beatmapsets/1955236#taiko/4049602)
 
 ## Match results
