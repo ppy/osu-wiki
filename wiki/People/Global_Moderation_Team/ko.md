@@ -38,12 +38,12 @@ Global Moderation Team은 채팅 채널과 포럼의 쾌적한 운용을 책임�
 | ::{ flag=FR }:: [Corne2Plum3](https://osu.ppy.sh/users/15646039) |  | 포럼 관리 |
 | ::{ flag=AR }:: [Darksonic](https://osu.ppy.sh/users/570042) | 스페인어 | 채팅 관리, 포럼 관리 |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  | 포럼 관리, 기술 지원 |
-| ::{ flag=US }:: [D I O](https://osu.ppy.sh/users/3958619) |  |  |
+| ::{ flag=US }:: [D I O](https://osu.ppy.sh/users/3958619) | 일부 스페인어 |  |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | 기술 지원 |
 | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109) | 포르투갈어, 일본어 | 채팅 관리 |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) |  | 플레이어 지원, 위키 관리 |
 | ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | 인도네시아어 | 매핑/모딩 커뮤니티 관리 |
-| ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507) |  | 채팅 관리 |
+| ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507) | 핀란드어, 일부 스웨덴어 | 채팅 관리 |
 | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) | 폴란드어 | 채팅 관리 |
 | ::{ flag=FR }:: [Ganondorf](https://osu.ppy.sh/users/10660738) | 프랑스어 | 채팅 관리 |
 | ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | 중국어 | 매핑/모딩 커뮤니티 관리 |

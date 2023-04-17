@@ -78,12 +78,12 @@ tags:
 | ::{ flag=FR }:: [Corne2Plum3](https://osu.ppy.sh/users/15646039) |  | 论坛管理员 |
 | ::{ flag=AR }:: [Darksonic](https://osu.ppy.sh/users/570042) | 西班牙语 | 聊天管理员，论坛管理员 |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  | 论坛管理员，技术支持团队 |
-| ::{ flag=US }:: [D I O](https://osu.ppy.sh/users/3958619) |  |  |
+| ::{ flag=US }:: [D I O](https://osu.ppy.sh/users/3958619) | 一部分西班牙语 |  |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | 技术支持团队 |
 | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109) | 葡萄牙语，日语 | 聊天管理员 |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) |  | 玩家支持团队，wiki 管理员 |
 | ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | 印度尼西亚语 | 作图、摸图社群管理员 |
-| ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507) |  | 聊天管理员 |
+| ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507) | 芬兰语，一部分瑞典语 | 聊天管理员 |
 | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) | 波兰语 | 聊天管理员 |
 | ::{ flag=FR }:: [Ganondorf](https://osu.ppy.sh/users/10660738) | 法语 | 聊天管理员 |
 | ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | 汉语 | 作图、摸图社群管理员 |

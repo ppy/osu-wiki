@@ -64,12 +64,12 @@ A [página de grupo da Equipe de Moderação Global](https://osu.ppy.sh/groups/4
 | ::{ flag=FR }:: [Corne2Plum3](https://osu.ppy.sh/users/15646039) |  | Moderação de fórum |
 | ::{ flag=AR }:: [Darksonic](https://osu.ppy.sh/users/570042) | Espanhol | Moderação de chat, moderação de fórum |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  | Moderação de fórum, suporte técnico |
-| ::{ flag=US }:: [D I O](https://osu.ppy.sh/users/3958619) |  |  |
+| ::{ flag=US }:: [D I O](https://osu.ppy.sh/users/3958619) | Um pouco de espanhol |  |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | Suporte técnico |
 | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109) | Português, japonês | Moderação de chat |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) |  | Suporte ao jogador, administração da wiki |
 | ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | Indonésio | Moderação da comunidade de mapping/modding |
-| ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507) |  | Moderação de chat |
+| ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507) | Finlandês, um pouco de sueco | Moderação de chat |
 | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) | Polonês | Moderação de chat |
 | ::{ flag=FR }:: [Ganondorf](https://osu.ppy.sh/users/10660738) | Francês | Moderação de chat |
 | ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Chinês | Moderação da comunidade de mapping/modding |

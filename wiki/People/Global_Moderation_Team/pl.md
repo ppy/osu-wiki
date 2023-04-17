@@ -65,12 +65,12 @@ Lista wszystkich moderatorów globalnych jest dostępna na [stronie grupy](https
 | ::{ flag=FR }:: [Corne2Plum3](https://osu.ppy.sh/users/15646039) |  | Moderowanie forum |
 | ::{ flag=AR }:: [Darksonic](https://osu.ppy.sh/users/570042) | Hiszpański | Moderowanie czatu, moderowanie forum |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  | Moderowanie forum, pomoc techniczna |
-| ::{ flag=US }:: [D I O](https://osu.ppy.sh/users/3958619) |  |  |
+| ::{ flag=US }:: [D I O](https://osu.ppy.sh/users/3958619) | Hiszpański (częściowo) |  |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | Pomoc techniczna |
 | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109) | Portugalski, japoński | Moderowanie czatu |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) |  | Zarządzanie społecznością, zarządzanie wiki osu! |
 | ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | Indonezyjski | Moderowanie społeczności twórców i moderów beatmap |
-| ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507) |  | Moderowanie czatu |
+| ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507) | Fiński, szwedzki (częściowo) | Moderowanie czatu |
 | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) | Polski | Moderowanie czatu |
 | ::{ flag=FR }:: [Ganondorf](https://osu.ppy.sh/users/10660738) | Francuski | Moderowanie czatu |
 | ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Chiński | Moderowanie społeczności twórców i moderów beatmap |

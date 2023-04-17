@@ -74,12 +74,12 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 | ::{ flag=FR }:: [Corne2Plum3](https://osu.ppy.sh/users/15646039) | <!-- TODO --> | Forum moderation |
 | ::{ flag=AR }:: [Darksonic](https://osu.ppy.sh/users/570042) | Spanish | Chat moderation, forum moderation |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  | Forum moderation, technical support |
-| ::{ flag=US }:: [D I O](https://osu.ppy.sh/users/3958619) | <!-- TODO --> | <!-- Pending article rework --> |
+| ::{ flag=US }:: [D I O](https://osu.ppy.sh/users/3958619) | Some Spanish | <!-- Pending article rework --> |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | Technical support |
 | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109) | Portuguese, Japanese | Chat moderation |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) |  | Player support, wiki administration |
 | ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | Indonesian | Mapping/modding community moderation |
-| ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507) | <!-- TODO --> | Chat moderation |
+| ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507) | Finnish, some Swedish | Chat moderation |
 | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) | Polish | Chat moderation |
 | ::{ flag=FR }:: [Ganondorf](https://osu.ppy.sh/users/10660738) | French | Chat moderation |
 | ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Chinese | Mapping/modding community moderation |

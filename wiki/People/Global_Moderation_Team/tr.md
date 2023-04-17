@@ -73,12 +73,12 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | ::{ flag=FR }:: [Corne2Plum3](https://osu.ppy.sh/users/15646039) |  | Forum moderasyonu |
 | ::{ flag=AR }:: [Darksonic](https://osu.ppy.sh/users/570042) | İspanyolca | Sohbet moderasyonu, forum moderasyonu |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  | Forum moderasyonu, teknik destek |
-| ::{ flag=US }:: [D I O](https://osu.ppy.sh/users/3958619) |  |  |
+| ::{ flag=US }:: [D I O](https://osu.ppy.sh/users/3958619) | Biraz İspanyolca |  |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | Teknik destek |
 | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109) | Portekizce, Japonca | Sohbet moderasyonu |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) |  | Oyuncu desteği, wiki yönetimi |
 | ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | Endonezce | Mapping/modding topluluk moderasyonu |
-| ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507) |  | Sohbet moderasyonu |
+| ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507) | Fince, biraz İsveççe | Sohbet moderasyonu |
 | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) | Lehçe | Sohbet moderasyonu |
 | ::{ flag=FR }:: [Ganondorf](https://osu.ppy.sh/users/10660738) | Fransızca | Sohbet moderasyonu |
 | ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Çince | Mapping/modding topluluk moderasyonu |

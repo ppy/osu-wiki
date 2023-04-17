@@ -73,12 +73,12 @@ Die [Seite für das globale Moderationsteam](https://osu.ppy.sh/groups/4) listet
 | ::{ flag=FR }:: [Corne2Plum3](https://osu.ppy.sh/users/15646039) |  | Forum-Moderation |
 | ::{ flag=AR }:: [Darksonic](https://osu.ppy.sh/users/570042) | Spanisch | Chat-Moderation, Forum-Moderation |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  | Forum-Moderation, Technischer Support |
-| ::{ flag=US }:: [D I O](https://osu.ppy.sh/users/3958619) |  |  |
+| ::{ flag=US }:: [D I O](https://osu.ppy.sh/users/3958619) | Etwas Spanisch |  |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | Technischer Support |
 | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109) | Portugiesisch, Japanisch | Chat-Moderation |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) |  | Spieler-Support, Wiki-Administration |
 | ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | Indonesisch | Moderation der Mapping-/Modding-Community |
-| ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507) |  | Chat-Moderation |
+| ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507) | Finnisch, etwas Schwedisch | Chat-Moderation |
 | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) | Polnisch | Chat-Moderation |
 | ::{ flag=FR }:: [Ganondorf](https://osu.ppy.sh/users/10660738) | Französisch | Chat-Moderation |
 | ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Chinesisch | Moderation der Mapping-/Modding-Community |

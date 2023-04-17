@@ -74,12 +74,12 @@ Daftar anggota GMT selengkapnya dapat dilihat pada laman grup [Global Moderation
 | ::{ flag=FR }:: [Corne2Plum3](https://osu.ppy.sh/users/15646039) |  | Moderasi forum |
 | ::{ flag=AR }:: [Darksonic](https://osu.ppy.sh/users/570042) | Spanyol | Moderasi chat, moderasi forum |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  | Moderasi forum, dukungan teknis |
-| ::{ flag=US }:: [D I O](https://osu.ppy.sh/users/3958619) |  |  |
+| ::{ flag=US }:: [D I O](https://osu.ppy.sh/users/3958619) | Sedikit Spanyol |  |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | Dukungan teknis |
 | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109) | Portugis, Jepang | Moderasi chat |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) |  | Dukungan pengguna, administrasi osu!wiki |
 | ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | Indonesia | Moderasi komunitas mapping/modding |
-| ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507) |  | Moderasi chat |
+| ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507) | Suomi, sedikit Swedia | Moderasi chat |
 | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) | Polski | Moderasi chat |
 | ::{ flag=FR }:: [Ganondorf](https://osu.ppy.sh/users/10660738) | Perancis | Moderasi chat |
 | ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | Tionghoa | Moderasi komunitas mapping/modding |

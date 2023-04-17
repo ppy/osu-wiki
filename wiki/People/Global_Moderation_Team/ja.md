@@ -72,12 +72,12 @@ outdated_since: a768615e11677c6b5f243e0f4cd389bfff894be3
 | ::{ flag=FR }:: [Corne2Plum3](https://osu.ppy.sh/users/15646039) |  | フォーラムモデレーション |
 | ::{ flag=AR }:: [Darksonic](https://osu.ppy.sh/users/570042) | スペイン語 | チャットモデレーション、フォーラムモデレーション |
 | ::{ flag=US }:: [Death](https://osu.ppy.sh/users/3242450) |  | フォーラムモデレーション、テクニカルサポート |
-| ::{ flag=US }:: [D I O](https://osu.ppy.sh/users/3958619) |  |  |
+| ::{ flag=US }:: [D I O](https://osu.ppy.sh/users/3958619) | 部分的なスペイン語 |  |
 | ::{ flag=US }:: [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | テクニカルサポート |
 | ::{ flag=BR }:: [Edward](https://osu.ppy.sh/users/5618109) | ポルトガル語、日本語 | チャットモデレーション |
 | ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) |  | プレーヤーサポート、wiki管理者 |
 | ::{ flag=ID }:: [FAMoss](https://osu.ppy.sh/users/7707789) | インドネシア語 | Mapping/modding コミュニティ モデレーション |
-| ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507) |  | チャットモデレーション |
+| ::{ flag=FI }:: [Flutteh](https://osu.ppy.sh/users/5042507) | フィンランド語、部分的なスウェーデン語 | チャットモデレーション |
 | ::{ flag=PL }:: [Galkan](https://osu.ppy.sh/users/169570) | ポーランド語 | チャットモデレーション |
 | ::{ flag=FR }:: [Ganondorf](https://osu.ppy.sh/users/10660738) | フランス語 | チャットモデレーション |
 | ::{ flag=CN }:: [Garden](https://osu.ppy.sh/users/2849992) | 中国語 | Mapping/modding コミュニティ モデレーション |
