@@ -40,7 +40,7 @@ BN 申请者必须达到以下标准：
 
 ## BN 申请流程
 
-![申请流程图](img/ApplicationFlowchart_ZH.png "BN 申请流程图")
+![申请流程图](img/ApplicationFlowchart-ZH.png "BN 申请流程图")
 
 评估员将会审查通过 [BN 考试](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test)，并提交到 BN 官网的申请，来确定申请者是否可以进入 BN 候选组。
 
