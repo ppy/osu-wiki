@@ -96,7 +96,7 @@ osu! 的谱面都是充满活力的社区内玩家们的智慧结晶，想与大
 
 社交能把世界各地的 osu! 玩家连结起来。了解这些活动与竞赛，结识新朋友，或帮忙组织一个更好的活动！
 
-讨论区: [论坛](/wiki/Community/Forum) • [闲聊](/wiki/Community/Internet_Relay_Chat) • [Discord 服务器](/wiki/Community/Discord_servers)
+讨论区: [论坛](/wiki/Community/Forum) • [IRC 闲聊](/wiki/Community/Internet_Relay_Chat) • [Discord 服务器](/wiki/Community/Discord_servers)
   
 [锦标赛](/wiki/Tournaments) • [聚光灯](/wiki/Beatmap_Spotlights) • [竞赛](/wiki/Contests) • [社区导师计划](/wiki/Community/Community_Mentorship_Program)
 
@@ -113,7 +113,7 @@ osu! 的谱面都是充满活力的社区内玩家们的智慧结晶，想与大
 
 [osu! 团队](/wiki/People/osu!_team) • [开发团队](/wiki/People/Developers) • [精选艺术家](/wiki/People/Featured_Artists) • [全局管理团队 (GMT)](/wiki/People/Global_Moderation_Team) • [援助团队](/wiki/People/Support_Team) • [审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) • [谱面审核成员 (BN)](/wiki/People/Beatmap_Nominators) • [名人堂](/wiki/People/osu!_Alumni) • [社区喜爱计划团队 (LVD)](/wiki/People/Project_Loved_Team) • [聚光灯策展人 (BSC)](/wiki/People/Beatmap_Spotlight_Curators)
 
-[社区贡献者](/wiki/People/Community_Contributors) • [拥有特殊头衔的玩家](/wiki/People/Users_with_unique_titles) • [锦标赛委员会](/wiki/People/Tournament_Committee) • [表现分 (pp) 委员会](/wiki/People/Performance_Points_Committee) • [osu! wiki 维护者](/wiki/People/osu!_wiki_maintainers)
+[社区贡献者](/wiki/People/Community_Contributors) • [用户组](/wiki/People/User_group) • [拥有特殊头衔的玩家](/wiki/People/Users_with_unique_titles) • [锦标赛委员会](/wiki/People/Tournament_Committee) • [表现分 (pp) 委员会](/wiki/People/Performance_Points_Committee) • [osu! wiki 维护者](/wiki/People/osu!_wiki_maintainers)
 
 </div>
 <div class="wiki-main-page-panel">
