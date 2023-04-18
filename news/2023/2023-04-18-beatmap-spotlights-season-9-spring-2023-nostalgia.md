@@ -304,3 +304,4 @@ Join us over at the [osu! community Discord server](https://discord.gg/0Vxo9Asej
 You can find out more about the Beatmap Spotlights [on the osu! wiki](/wiki/Beatmap_Spotlights).
 
 —Venix
+
