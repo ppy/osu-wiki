@@ -1,203 +1,13 @@
 ---
-layout: post
-title: "Beatmap Spotlights Season 9: Spring 2023 - Nostalgia"
-date: 2023-04-18 18:00:00 +0000
+tags:
+  - charts
+  - Ranking Charts
+  - Seasonal Spotlights
 ---
 
-Spotlights enthusiasts and competetors, wake up for a brand new Spring 2023 season! This time, we will take you to a travel throughout the history of most revolutionary and breaking beatmaps of the past! 
+# Beatmap Spotlights Season 9 (Spring 2023)
 
-![](/wiki/shared/news/banners/beatmap-spotlights.jpg)
-
-Are you tired of the fast-paced, high-tech world we live in today? Do you long for the days of simpler pleasures, when life moved a little slower and everything was just a bit more nostalgic? Wish to take a trip back in time to the era of shiny graphics, catchy pop songs, and endless forum discussions – all displayed on your trusty 720p screen? Wait no more, this is brand *new* nostalgia-themed Beatmap Spotlights, open osu!(lazer) and enjoy a set of most groundbreaking beatmaps of the past!
-
-We are also introducing new Beatmap Spotlights website listing. Interested? Be sure to take a peek at *Updates* section.
-
-If you just can't wait to try out the new playlists, **the Beatmap Spotlights lobbies are now open for play on the osu!(lazer) client**, so go get involved and start setting scores.
-
-If you're wondering what Beatmap Spotlights are and how to get involved in them, simply read on below:
-
-## How do I participate in the Beatmap Spotlights?
-
-To participate in the Beatmap Spotlights, download the latest version of the lazer client from its [GitHub releases page](https://github.com/ppy/osu/releases/latest).
-
-Once you're done installing and logging into your account, head on over to the playlists tab in the play section and find the Spotlights lobbies as denoted by a little pink bar. You can also filter the lobbies to show only the Spotlights playlists in the top-right corner. Changing game modes is as simple as clicking one of the four mode icons at the top left of your screen — it'll be whatever game mode you played last by default.
-
-## Updates
-
-### New seasons website listing
-
-Have you found it hard to look for leaderboards or informations on currently ongoing Spotlights seasons? Say no more with the brand new (Seasons listing)[https://osu.ppy.sh/seasons/latest], where you can access all this info, directly from *rankings* tab in the website header.
-
-While rather barebones at the very moment, we plan on expanding the section further, eventually moving the seasonal leaderboards to be displayed there, so stay tuned for the future of it!
-
-## Beatmap of the Season: Results
-
-With this season launch, we're going back to basics with how we review the Beatmap of The Season competition. This time, both the [Spotlights Curators](/wiki/People/The_Team/Beatmap_Spotlight_Curators#curators) and the Spotlights League players got to vote on their favourite beatmap from the Winter Season 2023 beatmap pool in each game mode.
-
-The creator of each winning entry will be awarded with **3 months of osu!supporter** for their hard efforts.
-
-A big thank you to everyone who voted!
-
-### osu!
-
-#### Players' Pick
-
-![](/wiki/shared/news/2023-04-18-beatmap-spotlights-season-9-spring-2023-nostalgia/1659645.jpg)
-
-**[GONE.Fludd - TRAXXXMANIA [XXXTR]](https://osu.ppy.sh/beatmapsets/1659645#osu/3387976)**, mapped by [jamesjan3](https://osu.ppy.sh/users/6260705)\
-*primarily suggested and described by [DeviousPanda](https://osu.ppy.sh/users/4966334)*
-
-TRAXXXMANIA is another classic banger by jamesjan3, pairing a catchy song with even more addicting mapping, this map was voted the best spotlights map by players for a reason.
-
-The many different stylistic changes throughout the map fits perfectly with the different sections within the song. Note and rhythm density is extremely well thought through to show the many different facets the song has, this paired with unique compressed slidershapes to represent changes in vocal pitches between sections highlights how this map goes above and beyond showcasing the song in every way.
-
-When you do play this, make sure to turn the storyboard on to see the duck spin alongside the map's own rotation!!
-
-#### Curators' Pick
-
-![](/wiki/shared/news/2023-04-18-beatmap-spotlights-season-9-spring-2023-nostalgia/1638064.jpg)
-
-**[Early Eyes - Marigolds [Sunbathing]](https://osu.ppy.sh/beatmapsets/1638064#osu/3343502)**, mapped by [wafer](https://osu.ppy.sh/users/9416836)\
-*primarily suggested by [Omgforz](https://osu.ppy.sh/users/578943)*\
-*described by [enri](https://osu.ppy.sh/users/8640970) and [Nowaie](https://osu.ppy.sh/users/5428909)*
-
-If you wanna sunbathe in the dreamy atmosphere of indie pop, we've got just the thing for you! 
-
-wafer, as most may already know, is one of many mappers known for bringing his fantastic song choice to the osu! community, and his latest offering is absolutely nothing to sleep on.
-
-Take a stroll down a field of flowers and enjoy a masterclass piece - just like a nice, sunny spring evening over some beautiful natural landscapes, Marigolds is a beautiful sight to see for everyone who chooses to fully embrace it, but not only is the song itself something worth appreciating - the accompanying map also makes for a unique and enjoyable gameplay experience. 
-
-While most maps challenge people to push their limits, or some specific numbers, this map challenges one to relax, have some fun, and just watch things go by. Featuring a blend of aim control and kicksliders at varying speeds, it's clear that Marigolds offers something for players of all subcommunities and skill levels. Regardless of whether you have years of experience or are just starting out, you're sure to find something to love in this map! High quality mapping, as well as endorsement from the band, just fulfill the whole package as a clear classic.
-
-Care to join and see the marigolds bloom?
-
-### osu!taiko
-
-#### Players' Pick
-
-![](/wiki/shared/news/2023-04-18-beatmap-spotlights-season-9-spring-2023-nostalgia/1215016.jpg)
-
-**[The Flashbulb - The Bridgeport Run [Oni]](https://osu.ppy.sh/beatmapsets/1215016#taiko/3302085)**, mapped by [Faputa](https://osu.ppy.sh/users/845733)\
-*primarily suggested by [[Zeth]](https://osu.ppy.sh/users/9912966)*\
-*described by [Nifty](https://osu.ppy.sh/users/4956097)*
-
-The players kept it simple, nominating Faputa’s interpretation of The Flashbulb’s *The Bridgeport Run* [Oni] as their map of the season. 
-
-Known primarily for the variety present in the top difficulties, this map also includes a solid spread, with the oni simplifying things to a level appropriate for the audience. Consistent with the set, this oni plays no tricks, offering a smooth and predictable playing experience through a chaotic track, and that was enough for it to be nominated as the players’ map of the season.
-
-#### Curators' Pick
-
-![](/wiki/shared/news/2023-04-18-beatmap-spotlights-season-9-spring-2023-nostalgia/1828466.jpg)
-
-**[KAF x Hakushi Hasegawa - TSUBOMI ni KAMINARI [withered petals, blooming ink]](https://osu.ppy.sh/beatmapsets/1828466#taiko/3752713)**, mapped by [[Zeth]](https://osu.ppy.sh/users/9912966), [cdh](https://osu.ppy.sh/users/2403621), and [MTNTWarz](https://osu.ppy.sh/users/14036825)\
-*primarily suggested by [Hivie](https://osu.ppy.sh/users/14102976)*\
-*described by [Nifty](https://osu.ppy.sh/users/4956097)*
-
-*withered petals, blooming in*\
-*new life from faded dreams*\
-*words that paint hope's spring*
-
-The curators this season went with the complete opposite pick. This winter, we were graced with the rare occasion of osu!trivium Champion cdh ranking a map, firmly earning the curator’s choice for the season. The combination of Hakushi Hasegawa’s phenomenal production and KAF’s eerie vocals are brought to life using many new-age mapping tactics in an artistic and intentional manner, including dramatic speedups, “Simon Says”, and a bunch of detached barlines.
-
-But all that glitters is not gold, as this high-star piece introduces plenty of challenge, particularly from the inclusion of [Zeth] bringing it hard and fast exactly where it needs to be, along with many sections of complex snapping and quick velocity changes. While the top difficulty is the one we found to be the most impressive, the ranking of this map was encouraged by Ulqui and woosungko, who can be found on the lower difficulties. If you haven’t already played this map, give it a try.
-
-### osu!catch
-
-#### Players' Pick
-
-![](/wiki/shared/news/2023-04-18-beatmap-spotlights-season-9-spring-2023-nostalgia/1769575.jpg)
-
-**[cYsmix - Peer Gynt (Mniam) [oVerdose]](https://osu.ppy.sh/beatmapsets/1769575#fruits/3622391)**, mapped by [Mniam](https://osu.ppy.sh/users/6050530)\
-*primarily suggested by [wwwww](https://osu.ppy.sh/users/8434466)*\
-*described by [WadBot](https://osu.ppy.sh/users/14571181)*
-
-Are you a fan of long sliders, tap dashes, and wiggles? Of low-approach rate, low-bpm Overdoses? If you answered yes to either of those questions, Peer Gynt, mapped by multi-MCA winner Mniam, might just be the map for you! Also featured in the 2022 osu!catch World Cup Round of 32 NoMod pool, this is our player's pick this season. 
-
-Personally, I would recommend playing this map with Double Time, if you're looking for a bit of an extra challenge. 
-
-#### Curators' Pick
-
-![](/wiki/shared/news/2023-04-18-beatmap-spotlights-season-9-spring-2023-nostalgia/1774562.jpg)
-
-**[kanemiko - Electrolytes (Unlucky_w) [Deluge]](https://osu.ppy.sh/beatmapsets/1774562#fruits/3633671)**, mapped by [Unlucky_w](https://osu.ppy.sh/users/4820793)\
-*primarily suggested by [WadBot](https://osu.ppy.sh/users/14571181)*\
-*described by [wwwww](https://osu.ppy.sh/users/8434466)*
-
-This spotlights season I have been told that we have a tie. Despite this fact I would like to talk a bit about THE ACTUAL WINNER for this spotlights season. 
-
-I consider electrolytes to be an absolute phenomenal display of Unlucky_w's best efforts as a mapper. You can see clear inspiation from Rocma/Jemzuu style of mapping yet a very different type of movement signature. One of the ways he emphasizes things is in an extremely creative manner by adding lots of straining patterns to the sounds he finds very distinct. Requiring extremely fast inputs for a very minimal amount of time is something that isn't done as often in other maps compared to this one.
-
-![](/wiki/shared/news/2023-04-18-beatmap-spotlights-season-9-spring-2023-nostalgia/1810556.jpg)
-
-**[Camellia - Ryuuseigun [Byeol]](https://osu.ppy.sh/beatmapsets/1810556#fruits/3713590)**, mapped by [Rocma](https://osu.ppy.sh/users/566276)\
-*primarily suggested by [WadBot](https://osu.ppy.sh/users/14571181)*\
-*described by [Phob](https://osu.ppy.sh/users/6069462)*
-
-I deeply apologize for the misinformation-spreading troll above, they're really getting out of control lately. Jokes aside, let's move on to the REAL, INDISPUTABLE winner of this season.
-
-One of the most creative and well known osu!catch mappers, Rocma, has blessed us with one of his best creations yet. Ryuuseigun is a four minute masterpiece with a lot of innovative patterns and challenging, yet fun and engaging gameplay. The biggest highlight of this map is definitely its usage of subtle edgedashes in the chorus to create patterns that have never been seen before in the ranked section. The idea is executed very well, its introduction does not create any imbalances in the map (trust me, edgedashes are very hard to get right) and leaves the player with a great impression.
-
-There is, however, one big flaw about Ryuuseigun, which is its criminally low playcount (only 3000 at the time of writing this post!). I highly encourage you to ditch whatever you are doing right now and experience this map for yourself.
-
-### osu!mania
-
-#### Players' Pick
-
-![](/wiki/shared/news/2023-04-18-beatmap-spotlights-season-9-spring-2023-nostalgia/1721944.jpg)
-
-**[ReeK - Multigenre Smackdown [[4K] TESTESTESTESTESTESTESTESTEST]](https://osu.ppy.sh/beatmapsets/1721944#mania/3519359)**, mapped by [[Crz]hinako1804](https://osu.ppy.sh/users/13747903)\
-*primarily suggested by [Kibitz](https://osu.ppy.sh/users/7418493)*\
-*described by [Maxus](https://osu.ppy.sh/users/4335785)*
-
-
-Hinako has come into the fray with one of the most dynamic and versatile marathon chart to entering the spotlight! His ability to conceptualize his ideas and also abundant amount of variation within each section has been the main selling point that making this the player's popular choice of the season.
-
-Starting with the song itself already offer a lot of different instruments and also the build up of the BPM that's changing and slowly becoming faster at the second half of the map. Not only Hinako manage to actually nailing the progression of the song with his layering, but also the varying level amount of concept and patterning that he utilized within each parts also heighten the expression of the song even further. Starting from the astoundingly amount of unorthodox LN layering which has been variated to enhance the experience of playing the pattern, the usage of creative and fun burst pattern that's ever changing constantly, and also the implementation of dense chordstream and also jumpjack with some of the uncommon snap that's being mixed together skillfully essentially giving a lot of mixture that makes it really fun to actually play through the chart until the end.
-
-Certainly this chart is one of the pinnacle example of how a challenging and fun chart should be which utilize a well experienced made pattern that surely becoming one of the leading example for others to take a note of.
-
-#### Curators' Pick
-
-**[[REDACTED]](https://osu.ppy.sh/beatmapsets/1756972#mania/3595522)**, mapped by [Ryax](https://osu.ppy.sh/users/8949769)\
-*primarily suggested and described by [Crumpey](https://osu.ppy.sh/users/3518705)*
-
-Ryax’s debut to the ranked scene sure won't be forgotten soon with his ranked map.
-
-While this map might be written off by most people as a meme in regards to both the title and the maps hitsounds, in reality, in terms of the mapping quality, it’s far from just a meme. The mapping throughout the song is very cohesive and compliments the hitsounds well to make a great experience, especially for first time players of the map. All of this builds up towards the kiai in the latter half of the map which consists of difficult LN and jack patterning that feels rewarding to hit.
-
-This chart is one that has cemented itself in history and is one that absolutely deserves to be played if you had previously overlooked it.
-
-### Full Players' Pick voting results
-
-Check out each respective game mode's player voting results:
-
-- [osu!](https://osu.ppy.sh/community/contests/171)
-- [osu!taiko](https://osu.ppy.sh/community/contests/172)
-- [osu!catch](https://osu.ppy.sh/community/contests/173)
-- [osu!mania](https://osu.ppy.sh/community/contests/174)
-
-## Inside the Spotlights Team
-
-Following the recent Spotlights Team applications, we've got a lot of new faces to welcome abroad! Those will help making Beatmap Spotlights better by helping out with selection of fresh beatmap material for next seasons.
-
-We will also say farawell to some, let's thank them for their long-lasting efforts towards the team.
-
-**Curator additions:**
-
-- **osu!**: [enri](https://osu.ppy.sh/users/8640970), [Kingling](https://osu.ppy.sh/users/7010761), [KnightC0re](https://osu.ppy.sh/users/7894340), [piroshki](https://osu.ppy.sh/users/7645522), [rHO](https://osu.ppy.sh/users/1629553)
-- **osu!taiko**: [Boaz](https://osu.ppy.sh/users/13302996), [Maimaing](https://osu.ppy.sh/users/14520910), [meiqth](https://osu.ppy.sh/users/12565402)
-- **osu!catch**: [M0RU](https://osu.ppy.sh/users/13681464), [Phob](https://osu.ppy.sh/users/6069462)
-- **osu!mania**: [AWMRone](https://osu.ppy.sh/users/10351684), [Ilham](https://osu.ppy.sh/users/3057154), [Seulgi](https://osu.ppy.sh/users/4918394), [YuEast 2018](https://osu.ppy.sh/users/13953619)
-
-**Curator resignments:**
-
-- **osu!taiko**: [[Zeth]](https://osu.ppy.sh/users/9912966)
-- **osu!mania**: [Kibitz](https://osu.ppy.sh/users/7418493), [lenpai](https://osu.ppy.sh/users/5314573)
-
-
-For the full Spotlights Team members list, check out the [Beatmap Spotlight Curators wiki article](/wiki/People/The_Team/Beatmap_Spotlight_Curators).
-
-## Season schedule and leaderboards
+## Schedule
 
 | Event | Time |
 | :-- | :-- |
@@ -210,26 +20,22 @@ For the full Spotlights Team members list, check out the [Beatmap Spotlight Cura
 | Playlist lobby: Playlist C | Jun 13 - Jun 20, 2023 |
 | Season conclusion | Jun 20, 2023 |
 
-The Spring Season 2023 leaderboard will be available over at the [Beatmap Spotlights Spring 2023 wiki article](/wiki/Beatmap_Spotlights/Seasons/2023_Spring) once the first batch of lobbies conclude in the coming weeks.
+## Weekly multiplayer lobbies
 
-## Rewards
+As of now, joining the weekly multiplayer lobbies requires participants to download and install [osu!(lazer)](/wiki/Client/Release_stream/Lazer).
 
-| Badges | Bracket tier | Placement |
-| :--: | :--: | :--: |
-| ![](/wiki/Beatmap_Spotlights/img/badges/spring_2023/osu/ri_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/spring_2023/osu/ri_2.png) | Rhythm Incarnate | The best of the best |
-| ![](/wiki/Beatmap_Spotlights/img/badges/spring_2023/osu/diamond_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/spring_2023/osu/diamond_2.png) | Diamond | 3% |
-| ![](/wiki/Beatmap_Spotlights/img/badges/spring_2023/osu/platinum_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/spring_2023/osu/platinum_2.png) | Platinum | 3% - 10% |
-| ![](/wiki/Beatmap_Spotlights/img/badges/spring_2023/osu/gold_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/spring_2023/osu/gold_2.png) | Gold | 10% - 25% |
-| ![](/wiki/Beatmap_Spotlights/img/badges/spring_2023/osu/silver_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/spring_2023/osu/silver_2.png) | Silver | 25% - 50% |
-| ![](/wiki/Beatmap_Spotlights/img/badges/spring_2023/osu/bronze_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/spring_2023/osu/bronze_2.png) | Bronze | 50% - 70% |
-| ![](/wiki/Beatmap_Spotlights/img/badges/spring_2023/osu/copper_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/spring_2023/osu/copper_2.png) | Copper | 70% - 95% |
-| ![](/wiki/Beatmap_Spotlights/img/badges/spring_2023/osu/iron_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/spring_2023/osu/iron_2.png) | Iron | 95% - 100% |
+1. Every 2 weeks of a season, a single playlist lobby is opened. Everyone can participate for the entire week.
+   - After the first wave of lobbies, playlists will be opened again on a weekly basis.
+2. Each playlist lobby provides a pre-defined playlist of beatmaps.
+   - Each playlist contains an even distribution of Hard, Insane and Expert beatmaps.
+   - Each playlist corresponds with the letter assigned to each 2 weeks. Therefore, each playlist gets replayed once during a season.
+3. Within a playlist lobby, everyone competes towards a room-specific leaderboard.
+   - Only the best score results on each beatmap within the playlist are summed up to create a weekly ranked score for each player.
+   - Each beatmap of a playlist counts equally to the leaderboard score.
+   - The individual beatmap score is based on osu!(lazer)'s scoring system.
+4. Once a playlist lobby concludes, the weekly ranked score of each participant of the room is added to the seasonal leaderboard.
 
-The percentage values may vary a little depending on the game mode and/or participant counts.
-
-The Rhythm Incarnate tier threshold is picked manually based on the season's participant count and general size of other tiers, though it is an absolute number that ranges between top 2 and top 50 in most cases.
-
-## Spring Season 2023 first playlists
+## Playlists
 
 ### osu!
 
@@ -286,21 +92,3 @@ The Rhythm Incarnate tier threshold is picked manually based on the season's par
 - [Yooh - Ice Angel (pporse) \[\[7K\] Euphoria\]](https://osu.ppy.sh/beatmapsets/379365#mania/830448), suggested by [Maxus](https://osu.ppy.sh/users/4335785)
 - [Camellia as "Bang Riot" - Blastix Riotz (Jinjin) \[\[4K\] Jinjin's INFINITE\]](https://osu.ppy.sh/beatmapsets/349208#mania/789784), suggested by [Kibitz](https://osu.ppy.sh/users/7418493)
 - [DragonForce - The Warrior Inside (\_underjoy) \[6K Collab Guardian\]](https://osu.ppy.sh/beatmapsets/330405#mania/1038663), suggested by [Antalf](https://osu.ppy.sh/users/8793773)
-
-## The future
-
-The new Beatmap Spotlights is still a project in its early development stage and depends a lot on community feedback and engagement to improve. Many things can (and will) change for future seasons, and it all depends on *your* feedback!
-
-What do you want for the next season? What needs to be fixed? What are your opinions on the current system? You can voice out all your opinions in the [osu! community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H) (`#beatmap-spotlights` channel) and we will keep note of every suggestion, so please let us know how you feel about things.
-
-We do hope you enjoyed the Summer Season 2022 Spotlights, and, of course, we do hope that you'll enjoy the Winter Season even more!
-
-See you in the upcoming lobbies!
-
----
-
-Join us over at the [osu! community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H) and assign yourself a role to keep up with Spotlights changes and announcements, or visit the [osu!dev Discord server](https://discord.gg/ppy) to help us push this project even further!
-
-You can find out more about the Beatmap Spotlights [on the osu! wiki](/wiki/Beatmap_Spotlights).
-
-—Venix
