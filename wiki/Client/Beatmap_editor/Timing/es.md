@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: d132f80edb22c7fe2d1e47046d9ca448b161ea5e
 ---
 
 # Pestaña de Tempo
