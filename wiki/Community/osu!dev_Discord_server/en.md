@@ -59,4 +59,4 @@ The osu!dev Discord server features a number of channels, many of which are cent
 
 | Channel | Project |
 | :-- | :-- |
-| `#modding` | [Modding v2](/wiki/Beatmap_discussion) and the [beatmap ranking system](Beatmap_ranking_procedure) |
+| `#modding` | [Modding v2](/wiki/Beatmap_discussion) and the [beatmap ranking system](/wiki/Beatmap_ranking_procedure) |
