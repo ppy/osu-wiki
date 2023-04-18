@@ -4,7 +4,7 @@
 
 BN 申请程序于 [BN 官网](http://bn.mappersguild.com/bnapps)进行。
 
-想要通过 BN 申请，玩家需要达到 [kudosu](/wiki/Modding/Kudosu) 最低数量要求；提交两张自己[摸](/wiki/Modding)过的谱面的链接；并完成基于[谱面上架标准 (RC)](/wiki/Ranking_Criteria) 而设立的 [BN 考试](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test)。一旦结果确定，NAT 会给你发送一条信息。关于申请的更多信息已在[ BN 官网](https://bn.mappersguild.com/bnapps)内列出。
+想要通过 BN 申请，玩家需要达到 [kudosu](/wiki/Modding/Kudosu) 最低数量要求；提交两张自己[摸](/wiki/Modding)过的谱面的链接；并完成基于[谱面上架标准 (RC)](/wiki/Ranking_Criteria) 而设立的 [BN 考试](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test)。一旦结果确定，NAT 会给你发送一条信息。关于申请的更多信息已在 [BN 官网](https://bn.mappersguild.com/bnapps)内列出。
 
 ## 基础标准
 
