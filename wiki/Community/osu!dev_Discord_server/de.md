@@ -2,6 +2,8 @@
 tags:
   - development
   - Softwareentwicklung
+outdated_translation: true
+outdated_since: ab2ef808dac39e172a7f370857bf9a3d8084be44
 ---
 
 # osu!dev Discord-Server
