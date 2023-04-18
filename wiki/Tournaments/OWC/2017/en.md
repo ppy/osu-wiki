@@ -8,7 +8,7 @@ tags:
 
 ![OWC 2017 logo](img/logo.png)
 
-The **osu! World Cup 2017** (***OWC 2017***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It was the eighth instalment of the osu! World Cup.
+The **osu! World Cup 2017** (***OWC 2017***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/osu!_team). It was the eighth instalment of the osu! World Cup.
 
 ## Tournament schedule
 
@@ -474,7 +474,7 @@ Sunday, 19 November 2017:
 ### Mappool instructions
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for Round 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals and 1 mappool for the Finals.
-2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_modifier/Hidden), [HardRock](/wiki/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Game_modifier/Double_Time) and FreeMod.
+2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time) and FreeMod.
 3. Each mappool consists of 16 maps in total.
 4. Each mappool has one tiebreaker.
 5. The NoMod bracket will be played with no mods activated at all.

@@ -9,13 +9,13 @@ outdated_since: e94e24c7ece448f53534306951591330c8d06378
 
 ## タイミング設定
 
-- [継承されていない("赤い")オフセット](/wiki/Beatmapping/Offset)は、曲の最初のダウンビート、または新しいタイミングセクションの開始を示す
-- [オンラインオフセット](/wiki/Beatmap/Online_offset)、正しくなく継承されていないオフセットを持つRankedビートマップを調整するために、[NAT](/wiki/People/The_Team/Nomination_Assessment_Team)によって適用されるタイミングの変更のこと
-- [ローカル("オフライン")オフセット](/wiki/Glossary/Local_song_offset)、ビートマップごとの設定で、ゲームプレイ中にオブジェクトのタイミングをずらすもの
-- [ユニバーサルオフセット](/wiki/Client/Options/Universal_offset)、ビートマップのタイミングにグローバルに影響するクライアント設定
+- [継承されていない("赤い")オフセット](/wiki/Offset)は、曲の最初のダウンビート、または新しいタイミングセクションの開始を示す
+- [オンラインオフセット](/wiki/Offset/Online_offset)、正しくなく継承されていないオフセットを持つRankedビートマップを調整するために、[NAT](/wiki/People/Nomination_Assessment_Team)によって適用されるタイミングの変更のこと
+- [ローカル("オフライン")オフセット](/wiki/Offset/Local_offset)、ビートマップごとの設定で、ゲームプレイ中にオブジェクトのタイミングをずらすもの
+- [ユニバーサルオフセット](/wiki/Offset/Universal_offset)、ビートマップのタイミングにグローバルに影響するクライアント設定
 
 ## ビートマップ設定
 
-- カウントダウンオフセット、最初のヒットオブジェクトの前の[カウントダウン](/wiki/Beatmapping/Countdown)表示に影響する設定
-- オーディオオフセット、または[オーディオリードイン](/wiki/Glossary/Lead-in)
+- カウントダウンオフセット、最初のヒットオブジェクトの前の[カウントダウン](/wiki/Beatmap/Countdown)表示に影響する設定
+- オーディオオフセット、または[オーディオリードイン](/wiki/Beatmap/Lead-in_time)
 - ビデオオフセット、オーディオトラックに対してバックグラウンドビデオがどのくらいの間隔で再生されるかを示す設定

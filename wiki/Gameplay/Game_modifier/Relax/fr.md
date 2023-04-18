@@ -13,7 +13,7 @@ tags:
 
 ![Icône du mod RL](/wiki/shared/mods/RL.png "Icône du mod Relax (RL)")
 
-*Pour la liste complète de tous les mods, voir : [modificateurs de jeu](/wiki/Game_modifier)*
+*Pour la liste complète de tous les mods, voir : [modificateurs de jeu](/wiki/Gameplay/Game_modifier)*
 
 ## À propos
 
@@ -31,11 +31,11 @@ tags:
 
 *Attention : Si vous activez le mod Relax, le jeu ne sera pas classé et ne sera pas enregistré dans les classements locaux.*
 
-Le mod **Relax** est un [modificateur de jeu](/wiki/Game_modifier) qui vise à permettre une expérience relaxante aux joueurs. En raison de sa nature, le mod est généralement utilisé pour analyser/pratiquer des [patterns](/wiki/Beatmap/Pattern) difficiles sur des [beatmaps](/wiki/Beatmap), ou lorsque les joueurs veulent laisser leurs mains se reposer.
+Le mod **Relax** est un [modificateur de jeu](/wiki/Gameplay/Game_modifier) qui vise à permettre une expérience relaxante aux joueurs. En raison de sa nature, le mod est généralement utilisé pour analyser/pratiquer des [patterns](/wiki/Beatmap/Pattern) difficiles sur des [beatmaps](/wiki/Beatmap), ou lorsque les joueurs veulent laisser leurs mains se reposer.
 
 ### osu!
 
-Dans le mode [osu!](/wiki/Game_mode/osu!), l'activation du mod Relax nécessite seulement que le joueur place son curseur sur un [objet](/wiki/Hit_object) ; tous les objets seront automatiquement tapés par osu!. Le mod rend impossible l'échec de la beatmap dans tous les modes de jeu.
+Dans le mode [osu!](/wiki/Game_mode/osu!), l'activation du mod Relax nécessite seulement que le joueur place son curseur sur un [objet](/wiki/Gameplay/Hit_object) ; tous les objets seront automatiquement tapés par osu!. Le mod rend impossible l'échec de la beatmap dans tous les modes de jeu.
 
 Le mod Relax désactive également l'interface du jeu, cachant ainsi le [score](/wiki/Gameplay/Score), le [combo](/wiki/Beatmapping/Combo), et les ratés, bien que cela puisse être réactivé en appuyant sur `Shift`+`Tab`. De plus, la valeur des tours par minute (SPM) sera doublée, permettant au joueur de tourner beaucoup plus vite et donc d'obtenir un score plus élevé que lors d'une partie normale.
 

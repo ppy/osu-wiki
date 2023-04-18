@@ -18,7 +18,7 @@ no_native_review: true
 
 [Правила](/wiki/Rules) • [Инсталиране](/wiki/Client/Installation) • [Регистрация](/wiki/Registration) • [Помощен център](/wiki/Help_centre)
 
-[Чат конзола](/wiki/Client/Interface/Chat_console) • [BanchoBot](/wiki/BanchoBot) • [ЧЗВ](/wiki/FAQ) • [Ръководства](/wiki/Guides) • [Тълковен речник](/wiki/Glossary)
+[Чат конзола](/wiki/Client/Interface/Chat_console) • [BanchoBot](/wiki/BanchoBot) • [ЧЗВ](/wiki/FAQ) • [Ръководства](/wiki/Guides) • [Тълковен речник](/wiki/Sitemap)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -29,7 +29,7 @@ no_native_review: true
 
 [Интерфейс](/wiki/Client/Interface) • [Опции](/wiki/Client/Options) • [Визуални настройки](/wiki/Client/Interface/Visual_settings) • [Клавишни комбинации](/wiki/Client/Keyboard_shortcuts) • [Конфигурационен файл](/wiki/Client/Program_files/User_configuration_file) • [Програмни файлове](/wiki/Client/Program_files)
 
-[Файлов формат](/wiki/Client/File_formats): [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format))
+[Файлов формат](/wiki/Client/File_formats): [.osz](/wiki/Client/File_formats/Osz_(file_format)) • [.osk](/wiki/Client/File_formats/Osk_(file_format)) • [.osr](/wiki/Client/File_formats/Osr_(file_format)) • [.osu](/wiki/Client/File_formats/Osu_(file_format)) • [.osb](/wiki/Client/File_formats/Osb_(file_format))
 
 </div>
 <div class="wiki-main-page-panel">
@@ -40,7 +40,7 @@ no_native_review: true
 
 [Видове игра](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Бийтмап](/wiki/Beatmap) • [Трудност](/wiki/Beatmap/Difficulty) • [Уцели обект](/wiki/Hit_object) • [Модове](/wiki/Game_modifier) • [Резултат](/wiki/Gameplay/Score) • [Повторение](/wiki/Gameplay/Replay) • [Медали](/wiki/Medals) • [Мултиплеър](/wiki/Client/Interface/Multiplayer)
+[Бийтмап](/wiki/Beatmap) • [Трудност](/wiki/Beatmap/Difficulty) • [Уцели обект](/wiki/Gameplay/Hit_object) • [Модове](/wiki/Gameplay/Game_modifier) • [Резултат](/wiki/Gameplay/Score) • [Повторение](/wiki/Gameplay/Replay) • [Медали](/wiki/Medals) • [Мултиплеър](/wiki/Client/Interface/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -53,7 +53,7 @@ no_native_review: true
 
 Компоненти: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Такт делител](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) • [Съкратена дистанция](/wiki/Client/Beatmap_editor/Distance_snap) • [Меню](/wiki/Client/Beatmap_editor/Menu) • [АИ товар](/wiki/Client/Beatmap_editor/SB_Load) • [Времева линия](/wiki/Client/Beatmap_editor/Timelines)
 
-Дейности: [Създаване на бийтмап](/wiki/Beatmapping) • [Техники за създаване](/wiki/Mapping_techniques) • [Анимирана история](/wiki/Storyboard) • [Облик](/wiki/Skinning)
+Дейности: [Създаване на бийтмап](/wiki/Beatmapping) • [Техники за създаване](/wiki/Beatmapping/Mapping_techniques) • [Анимирана история](/wiki/Storyboard) • [Облик](/wiki/Skinning)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -62,7 +62,7 @@ no_native_review: true
 
 Класирането е процес за получаване на потребителска класация, която повишава популярността на бийтмап и го прави отличим. Разкрийте какво е да се върви по стъпките на този процес, как се увеличават шансовете за успешно преминатo ревю, контрол на качеството и процес по класиране.
 
-[Изпращане](/wiki/Submission) • [Редактиране](/wiki/Modding) • [Процедура за класиране](/wiki/Beatmap_ranking_procedure) • [Съюз на създателите](/wiki/Community/Mappers_Guild) • [Проект обичани](/wiki/Community/Project_Loved)
+[Изпращане](/wiki/Beatmapping/Beatmap_submission) • [Редактиране](/wiki/Modding) • [Процедура за класиране](/wiki/Beatmap_ranking_procedure) • [Съюз на създателите](/wiki/Community/Mappers_Guild) • [Проект обичани](/wiki/Community/Project_Loved)
 
 [Критерии за класиране](/wiki/Ranking_Criteria): [osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania)
 
@@ -73,7 +73,7 @@ no_native_review: true
 
 Прочетете политиката и правилата, които пазят osu! и неговата общност от лицензирани песни, мултимедийно съдържание до правила в чат и форум.
 
-[Правила](/wiki/Rules) • [Правила на поведение за сътрудници](/wiki/Contributor_Code_of_Conduct) • [Правила на поведение при създаване и редактиране](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)
+[Правила](/wiki/Rules) • [Правила на поведение за сътрудници](/wiki/Rules/Contributor_Code_of_Conduct) • [Правила на поведение при създаване и редактиране](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)
 
 Медийни регламенти: [Указания за употреба на медия](/wiki/Rules/Content_Usage_Guidelines) • [Explicit съдържание](/wiki/Rules/Explicit_Content) • [Правила за музикално съдържание](/wiki/Rules/Song_Content_Rules) • [Съображения за визуално съдържание](/wiki/Rules/Visual_Content_Considerations)
 
@@ -86,7 +86,7 @@ no_native_review: true
 
 Отговори за чести въпроси и решения на общи проблеми се намират тук.
 
-[Помощен център](/wiki/Help_centre) • [Производителност](/wiki/Performance_troubleshooting) • [Поддръжка на профили](/wiki/People/The_Team/Account_support_team) • [Помощен форум](https://osu.ppy.sh/forum/5)
+[Помощен център](/wiki/Help_centre) • [Производителност](/wiki/Performance_troubleshooting) • [Поддръжка на профили](/wiki/People/Account_support_team) • [Помощен форум](https://osu.ppy.sh/forum/5)
 
 Профилни ограничения: [Заглушен](/wiki/Silence) • [Профилни ограничения](/wiki/Help_centre/Account_restrictions)
 
@@ -101,7 +101,7 @@ no_native_review: true
 
 [Турнири](/wiki/Tournaments) • [Бийтмап под прожекторите](/wiki/Beatmap_Spotlights) • [Състезания](/wiki/Contests) • [Възпитателна програма](/wiki/Community/Community_Mentorship_Program)
 
-[Проекти](/wiki/Community/Projects): [Представени автори](/wiki/Featured_Artists) • [osu! community meetings](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk)
+[Проекти](/wiki/Community/Projects): [Представени автори](/wiki/People/Featured_Artists) • [osu! community meetings](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk)
 
 Организатори: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
@@ -112,7 +112,7 @@ no_native_review: true
 
 osu! нямаше да съществува без всички потребители помагащи с разработка, поддръжка и управление на общност: техните усилия, време и решения поддържащи играта жива и просперираща.
 
-[Екип](/wiki/People/The_Team): [Разработчици](/wiki/People/The_Team/Developers) • [Глобален модераторси екип](/wiki/People/The_Team/Global_Moderation_Team) • [Екип поддръжка](/wiki/People/The_Team/Support_Team) • [Екип оценяващ номинатори](/wiki/People/The_Team/Nomination_Assessment_Team) • [Бийтмап номинатори](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Екип на проект обичани](/wiki/People/The_Team/Project_Loved_Team)
+[Екип](/wiki/People/osu!_team): [Разработчици](/wiki/People/Developers) • [Глобален модераторси екип](/wiki/People/Global_Moderation_Team) • [Екип поддръжка](/wiki/People/Support_Team) • [Екип оценяващ номинатори](/wiki/People/Nomination_Assessment_Team) • [Бийтмап номинатори](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Екип на проект обичани](/wiki/People/Project_Loved_Team)
 
 [Сътрудници на общност](/wiki/People/Community_Contributors) • [Потребители със специални титли](/wiki/People/Users_with_unique_titles)
 

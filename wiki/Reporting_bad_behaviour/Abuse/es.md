@@ -2,7 +2,7 @@
 
 ## No sé si debería reportar esto o no
 
-Por favor hazlo.
+Por favor, hazlo.
 
 Si te sientes lo suficientemente incómodo para estar leyendo esta página, por favor contáctanos de inmediato a [abuse@ppy.sh](mailto:abuse@ppy.sh) con la mayor cantidad posible de detalle acerca del problema.
 
@@ -17,7 +17,7 @@ Nada de lo que envíes a [abuse@ppy.sh](mailto:abuse@ppy.sh) será compartido co
 
 ## ¡Alguien hizo avances sexuales o comentarios inapropiados hacia mí!
 
-Desplázate a través de los subtítulos para averiguar qué hacer, dependiendo de en donde paso todo esto.
+Desplázate a través de los subtítulos para averiguar qué hacer, dependiendo de en donde pasó todo esto.
 
 ### En el chat dentro del juego
 
@@ -29,13 +29,13 @@ Si sientes que los comentarios/avances fueron altamente inapropiados o si eres u
 
 ### En una publicación dentro de los foros de osu!
 
-Reporta la publicación a cualquier miembro de nuestro [Equipo de moderación global](/wiki/People/The_Team/Global_Moderation_Team) lo más pronto posible.
+Reporta la publicación a cualquier miembro de nuestro [Equipo de moderación global](/wiki/People/Global_Moderation_Team) lo más pronto posible.
 
-Para hacerlo, haz click en el usuario de cualquier miembro del equipo de moderadores en la lista de esa página. Esto te llevara a su perfil. Si estas inseguro/a de quien clickear, simplemente usa [este enlace](https://osu.ppy.sh/users/102335).
+Para hacerlo, haz click en el usuario de cualquier miembro del equipo de moderadores en la lista de esa página. Esto te llevara a su perfil. Si estás inseguro/a de quien clickear, simplemente usa [este enlace](https://osu.ppy.sh/users/102335).
 
-Haz click en el botón con una carta en el bajo la bandera del país del usuario. Esto te llevara a la pantalla del chat.
+Haz click en el botón con una carta en el bajo la bandera del país del usuario. Esto te llevará a la pantalla del chat.
 
-Pega el enlace a la publicación del foro que contiene contenido problemático y cuéntale un poco al equipo de moderación global acerca de que está ocurriendo. Ellos quitaran la publicación para ti lo más pronto posible.
+Pega el enlace a la publicación del foro que contiene contenido problemático y cuéntale un poco al equipo de moderación global acerca de que está ocurriendo. Ellos quitarán la publicación para ti lo más pronto posible.
 
 También puedes reportar la publicación al abrir tu juego y escribir `!report <persona> <problema>`, en donde `<persona>` es el nombre de usuario de la persona causándote problemas, y `<problema>` es el enlace a la publicación seguido de una explicación breve. Si hay espacios en el nombre de usuario de la persona, por favor reemplázalos con guiones bajos (`_`).
 
@@ -55,13 +55,13 @@ Adicionalmente, si conoces el nombre de usuario de osu! de la persona que está 
 
 Haz click en los tres puntos en la parte superior del tweet conteniendo el problema y haz click en 'Reportar Tweet'. Asegúrate de seguir los formularios y de leerlos cuidadosamente. Quizás también quieras leer [La guía de Twitter acerca de cómo reportar comportamiento abusivo](https://help.twitter.com/es/safety-and-security/report-abusive-behavior) para más información acerca del proceso.
 
-Después, puedes ya sea bloquear o silenciar al usuario en cuestión haciendo click en los tres puntos en la parte superior derecha del su tweet (si estas usando la página web o el cliente móvil). Consulta [La guía de Twitter acerca de cómo bloquear cuentas](https://help.twitter.com/es/using-twitter/blocking-and-unblocking-accounts) para más información.
+Después, puedes ya sea bloquear o silenciar al usuario en cuestión haciendo click en los tres puntos en la parte superior derecha del su tweet (si estás usando la página web o el cliente móvil). Consulta [La guía de Twitter acerca de cómo bloquear cuentas](https://help.twitter.com/es/using-twitter/blocking-and-unblocking-accounts) para más información.
 
-Por favor ten en mente que la persona será capaz de ver que la has bloqueado si es que ellos revisan su perfil te Twitter. Si estas preocupado de que esto hará que el problema sea peor en otra parte, siléncialo en vez de bloquearla. Esto quitara sus tweets de tu línea de tiempo y evitara que vea más contenido de ellos, pero ellos aun serán capaces de ver y comentar en todos los tweets que hagas.
+Por favor, ten en mente que la persona será capaz de ver que la has bloqueado si es que ellos revisan tu perfil de Twitter. Si estás preocupado de que esto hará que el problema sea peor en otra parte, silénciala en vez de bloquearla. Esto quitará sus tweets de tu línea de tiempo y evitará que vea más contenido de ellos, pero ellos aún serán capaces de ver y comentar en todos los tweets que hagas.
 
-Si el tweet proviene de una cuenta que esta enlazada al perfil de osu! a través de nuestra página (aparecerá debajo de su avatar y fecha de unión al lado de un icono con estilo de un pájaro), por favor envía un correo a [abuse@ppy.sh](mailto:abuse@ppy.sh) conteniendo una copia del tweet en forma de imagen donde sea posible y cualquier otra información en la que puedas pensar.
+Si el tweet proviene de una cuenta que está enlazada al perfil de osu! a través de nuestra página (aparecerá debajo de su avatar y fecha de unión al lado de un ícono con estilo de un pájaro), por favor envía un correo a [abuse@ppy.sh](mailto:abuse@ppy.sh) conteniendo una copia del tweet en forma de imagen donde sea posible y cualquier otra información en la que puedas pensar.
 
-## Un miembro de uno de los equipos voluntarios (NAT, GMT) está acercándose/hablándome/actuando de manera inapropiada hacia mí!
+## ¡Un miembro de uno de los equipos voluntarios (NAT, GMT) está acercándose/hablándome/actuando de manera inapropiada hacia mí!
 
 Envía un correo a [abuse@ppy.sh](mailto:abuse@ppy.sh) conteniendo la mayor cantidad posible de información **inmediatamente**.
 
@@ -69,7 +69,7 @@ Si cualquier cosa que incluyas te hace sentir avergonzado, por favor déjalo en 
 
 Lo investigaremos tan pronto como podamos.
 
-## Alguien que conozco está siendo abusado por un miembro de los equipos voluntarios (NAT, GMT) pero esta muy asustado para hablar al respecto!
+## ¡Alguien que conozco está siendo abusado por un miembro de los equipos voluntarios (NAT, GMT), pero está muy asustado para hablar al respecto!
 
 Envía un correo a [abuse@ppy.sh](mailto:abuse@ppy.sh) conteniendo todo lo que sabes con la mayor cantidad de evidencia que puedas obtener.
 

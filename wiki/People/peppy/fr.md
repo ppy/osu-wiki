@@ -7,7 +7,7 @@ tags:
 
 # peppy
 
-**peppy** (stylisé avec un "p" minuscule) est le pseudonyme en ligne de Dean Herbert, créateur du projet osu! et son principal [développeur](/wiki/People/The_Team/Developers).
+**peppy** (stylisé avec un "p" minuscule) est le pseudonyme en ligne de Dean Herbert, créateur du projet osu! et son principal [développeur](/wiki/People/Developers).
 
 ## Liens
 

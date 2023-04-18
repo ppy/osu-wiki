@@ -115,7 +115,7 @@ A player can have four different colours in this list, which also mean different
 | Colour | Description |
 | :-: | :-- |
 | **Red (no map)** | The player does not have the beatmap, indicated by a `[no map]` notice until they have downloaded the beatmap. |
-| **White (not ready)** | The player has the beatmap but is not ready yet. [Game modifiers](/wiki/Game_modifier) can be changed in this state. |
+| **White (not ready)** | The player has the beatmap but is not ready yet. [Game modifiers](/wiki/Gameplay/Game_modifier) can be changed in this state. |
 | **Green (ready)** | The player is ready. Game modifiers cannot be changed in this state. The host will be able to start the game after readying, and any ready players will begin the match. |
 | **Light Blue (playing)** | The player is playing, indicated by a `[playing]` notice until the match ends. |
 
@@ -139,7 +139,7 @@ The `Game Name` is the name of the lobby that is visible in match listings in-ga
 
 The beatmap section shows the beatmap to be played in the match. Changing the beatmap using the button above it opens the song selection screen.
 
-The beatmap card will show the background image, game mode icon, title and artist of the song, creator of the beatmap, the selected [difficulty](/wiki/Beatmap/Difficulty), and the [star rating](/wiki/Beatmapping/Star_rating) for the selected beatmap.
+The beatmap card will show the background image, game mode icon, title and artist of the song, creator of the beatmap, the selected [difficulty](/wiki/Beatmap/Difficulty), and the [star rating](/wiki/Beatmap/Star_rating) for the selected beatmap.
 
 ::: Infobox
 ![](img/multi-beatmap-info.jpg "Hovering over the beatmap card")
@@ -172,9 +172,9 @@ If the player does not have the beatmap, one of these statuses will be shown:
 ![](img/multi-player-free-mods.jpg "The multiplayer mod selection screen, where the host has enabled Free Mods")
 :::
 
-This section will show the [game mods](/wiki/Game_modifier) used for this match.
+This section will show the [game mods](/wiki/Gameplay/Game_modifier) used for this match.
 
-The host can enable `Free Mods` to allow players to freely choose any mod combination, except ones that change gameplay speed ([Double Time (DT)](/wiki/Game_modifier/Double_Time), [Nightcore (NC)](/wiki/Game_modifier/Nightcore) and [Half Time (HT)](/wiki/Game_modifier/Half_Time)).
+The host can enable `Free Mods` to allow players to freely choose any mod combination, except ones that change gameplay speed ([Double Time (DT)](/wiki/Gameplay/Game_modifier/Double_Time), [Nightcore (NC)](/wiki/Gameplay/Game_modifier/Nightcore) and [Half Time (HT)](/wiki/Gameplay/Game_modifier/Half_Time)).
 
 #### Team mode {#team-mode-match-setup}
 
@@ -245,7 +245,7 @@ While the match is starting, moving the cursor to the bottom of the screen will 
 
 #### Health
 
-When a player's health bar has been depleted completely, they can still continue playing, but the score will be considered as failed and will not appear on leaderboards. The player can be revived if they reach full health again, unless they use [Sudden Death (SD)](/wiki/Game_modifier/Sudden_Death) or [Perfect (PF)](/wiki/Game_modifier/Perfect).
+When a player's health bar has been depleted completely, they can still continue playing, but the score will be considered as failed and will not appear on leaderboards. The player can be revived if they reach full health again, unless they use [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death) or [Perfect (PF)](/wiki/Gameplay/Game_modifier/Perfect).
 
 In Team VS matches, being in the failed state at the end of the match will make the score not contribute to the team score.
 
@@ -368,7 +368,7 @@ If a player quits during the match, the game will play their part for them.
 
 All players share the same health bar. If it depletes completely, the match ends. In Tag-team VS, each team has their own health bars, and losing all health will cause that team to lose.
 
-Players using the [Sudden Death (SD)](/wiki/Game_modifier/Sudden_Death) or [Perfect (PF)](/wiki/Game_modifier/Perfect) game modifier will cause the whole team to fail if they fail due to it.<!-- TODO: check how SD and EZ work in Tag co-op and Tag-team VS -->
+Players using the [Sudden Death (SD)](/wiki/Gameplay/Game_modifier/Sudden_Death) or [Perfect (PF)](/wiki/Gameplay/Game_modifier/Perfect) game modifier will cause the whole team to fail if they fail due to it.<!-- TODO: check how SD and EZ work in Tag co-op and Tag-team VS -->
 
 ##### Results
 

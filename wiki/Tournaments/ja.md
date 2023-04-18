@@ -511,7 +511,7 @@ osu! World Cupは、国別に行われる4対4のチーム対抗トーナメン�
 ## 参照
 
 - [osu!トーナメントに参加した国のリスト](Countries_that_participated_in_osu!_tournaments)
-- [osu!tourney](/wiki/osu!tourney) (トーナメント配信に使用されるクライアント)
+- [osu!tourney](/wiki/osu!_tournament_client/osu!tourney) (トーナメント配信に使用されるクライアント)
 
 [GCrown]: /wiki/shared/crown-gold.png "1位"
 [SCrown]: /wiki/shared/crown-silver.png "2位"

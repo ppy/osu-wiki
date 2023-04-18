@@ -12,7 +12,7 @@ needs_cleanup: true
 
 Timing a song is, in fact, not as complicated as it may seem at first glance. You only need two things: a sense of rhythm and some dexterity. An ear for music and experience playing rhythm games are not required, but can help improve the outcome of your map.
 
-You are also supposed to know what [BPM](/wiki/Beatmapping/Beats_per_minute) and [offset](/wiki/Disambiguation/Offset) are, and how to set uninherited timing points (often called red offsets).
+You are also supposed to know what [BPM](/wiki/Music_theory/Tempo) and [offset](/wiki/Offset) are, and how to set uninherited timing points (often called red offsets).
 
 ## Preparing the .mp3 file
 
