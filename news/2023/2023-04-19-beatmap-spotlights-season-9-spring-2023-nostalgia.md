@@ -298,7 +298,7 @@ The new Beatmap Spotlights is still a project in its early development stage and
 
 What do you want for the next season? What needs to be fixed? What are your opinions on the current system? You can voice out all your opinions in the [osu! community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H) (`#beatmap-spotlights` channel) and we will keep note of every suggestion, so please let us know how you feel about things.
 
-We do hope you enjoyed the Summer Season 2022 Spotlights, and, of course, we do hope that you'll enjoy the Winter Season even more!
+We do hope you enjoyed the Winter Season 2023 Spotlights, and, of course, we do hope that you'll enjoy the Spring Season even more!
 
 See you in the upcoming lobbies!
 
