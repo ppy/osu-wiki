@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Beatmap Spotlights Season 9: Spring 2023 - Nostalgia"
-date: 2023-04-18 18:00:00 +0000
+date: 2023-04-19 19:00:00 +0000
 ---
 
 Spotlights enthusiasts and competitors, wake up for a brand new Spring 2023 season! This time, we will take you through a winding path covering the history of some of the most revolutionary and breaking beatmaps of the past!
@@ -44,7 +44,7 @@ A big thank you to everyone who voted!
 
 #### Players' Pick
 
-![](/wiki/shared/news/2023-04-18-beatmap-spotlights-season-9-spring-2023-nostalgia/1659645.jpg)
+![](/wiki/shared/news/2023-04-19-beatmap-spotlights-season-9-spring-2023-nostalgia/1659645.jpg)
 
 **[GONE.Fludd - TRAXXXMANIA [XXXTR]](https://osu.ppy.sh/beatmapsets/1659645#osu/3387976)**, mapped by [jamesjan3](https://osu.ppy.sh/users/6260705)\
 *primarily suggested and described by [DeviousPanda](https://osu.ppy.sh/users/4966334)*
@@ -57,7 +57,7 @@ When you do play this, make sure to turn the storyboard on to see the duck spin 
 
 #### Curators' Pick
 
-![](/wiki/shared/news/2023-04-18-beatmap-spotlights-season-9-spring-2023-nostalgia/1638064.jpg)
+![](/wiki/shared/news/2023-04-19-beatmap-spotlights-season-9-spring-2023-nostalgia/1638064.jpg)
 
 **[Early Eyes - Marigolds [Sunbathing]](https://osu.ppy.sh/beatmapsets/1638064#osu/3343502)**, mapped by [wafer](https://osu.ppy.sh/users/9416836)\
 *primarily suggested by [Omgforz](https://osu.ppy.sh/users/578943)*\
@@ -77,7 +77,7 @@ Regardless of whether you have years of experience or are just starting out, you
 
 #### Players' Pick
 
-![](/wiki/shared/news/2023-04-18-beatmap-spotlights-season-9-spring-2023-nostalgia/1215016.jpg)
+![](/wiki/shared/news/2023-04-19-beatmap-spotlights-season-9-spring-2023-nostalgia/1215016.jpg)
 
 **[The Flashbulb - The Bridgeport Run [Oni]](https://osu.ppy.sh/beatmapsets/1215016#taiko/3302085)**, mapped by [Faputa](https://osu.ppy.sh/users/845733)\
 *primarily suggested by [[Zeth]](https://osu.ppy.sh/users/9912966)*\
@@ -89,7 +89,7 @@ Known primarily for the variety present in the top difficulties, this map also i
 
 #### Curators' Pick
 
-![](/wiki/shared/news/2023-04-18-beatmap-spotlights-season-9-spring-2023-nostalgia/1828466.jpg)
+![](/wiki/shared/news/2023-04-19-beatmap-spotlights-season-9-spring-2023-nostalgia/1828466.jpg)
 
 **[KAF x Hakushi Hasegawa - TSUBOMI ni KAMINARI [withered petals, blooming ink]](https://osu.ppy.sh/beatmapsets/1828466#taiko/3752713)**, mapped by [[Zeth]](https://osu.ppy.sh/users/9912966), [cdh](https://osu.ppy.sh/users/2403621), and [MTNTWarz](https://osu.ppy.sh/users/14036825)\
 *primarily suggested by [Hivie](https://osu.ppy.sh/users/14102976)*\
@@ -109,7 +109,7 @@ If you haven’t already played this map, give it a try!
 
 #### Players' Pick
 
-![](/wiki/shared/news/2023-04-18-beatmap-spotlights-season-9-spring-2023-nostalgia/1769575.jpg)
+![](/wiki/shared/news/2023-04-19-beatmap-spotlights-season-9-spring-2023-nostalgia/1769575.jpg)
 
 **[cYsmix - Peer Gynt (Mniam) [oVerdose]](https://osu.ppy.sh/beatmapsets/1769575#fruits/3622391)**, mapped by [Mniam](https://osu.ppy.sh/users/6050530)\
 *primarily suggested by [wwwww](https://osu.ppy.sh/users/8434466)*\
@@ -121,7 +121,7 @@ Personally, we'd recommend playing this map with Double Time, if you're looking 
 
 #### Curators' Pick
 
-![](/wiki/shared/news/2023-04-18-beatmap-spotlights-season-9-spring-2023-nostalgia/1774562.jpg)
+![](/wiki/shared/news/2023-04-19-beatmap-spotlights-season-9-spring-2023-nostalgia/1774562.jpg)
 
 **[kanemiko - Electrolytes (Unlucky_w) [Deluge]](https://osu.ppy.sh/beatmapsets/1774562#fruits/3633671)**, mapped by [Unlucky_w](https://osu.ppy.sh/users/4820793)\
 *primarily suggested by [WadBot](https://osu.ppy.sh/users/14571181)*\
@@ -131,7 +131,7 @@ This spotlights season, we have been told that we have a *tie*. Despite this fac
 
 We consider electrolytes to be an absolute phenomenal display of Unlucky_w's best efforts as a mapper. You can see clear inspiation from Rocma/Jemzuu style of mapping yet a very different type of movement signature. One of the ways he emphasizes things is in an extremely creative manner by adding lots of straining patterns to the sounds he finds very distinct. Requiring extremely fast inputs for a very minimal amount of time is something that isn't done as often in other maps compared to this one.
 
-![](/wiki/shared/news/2023-04-18-beatmap-spotlights-season-9-spring-2023-nostalgia/1810556.jpg)
+![](/wiki/shared/news/2023-04-19-beatmap-spotlights-season-9-spring-2023-nostalgia/1810556.jpg)
 
 **[Camellia - Ryuuseigun [Byeol]](https://osu.ppy.sh/beatmapsets/1810556#fruits/3713590)**, mapped by [Rocma](https://osu.ppy.sh/users/566276)\
 *primarily suggested by [WadBot](https://osu.ppy.sh/users/14571181)*\
@@ -147,7 +147,7 @@ There is, however, one big flaw about Ryuuseigun, which is its criminally low pl
 
 #### Players' Pick
 
-![](/wiki/shared/news/2023-04-18-beatmap-spotlights-season-9-spring-2023-nostalgia/1721944.jpg)
+![](/wiki/shared/news/2023-04-19-beatmap-spotlights-season-9-spring-2023-nostalgia/1721944.jpg)
 
 **[ReeK - Multigenre Smackdown [[4K] TESTESTESTESTESTESTESTESTEST]](https://osu.ppy.sh/beatmapsets/1721944#mania/3519359)**, mapped by [[Crz]hinako1804](https://osu.ppy.sh/users/13747903)\
 *primarily suggested by [Kibitz](https://osu.ppy.sh/users/7418493)*\
@@ -196,6 +196,7 @@ We will also say farewell to some, so let's thank them for their long-lasting ef
 
 **Curator resignations:**
 
+- **osu!**: [Omgforz](https://osu.ppy.sh/users/578943)
 - **osu!taiko**: [[Zeth]](https://osu.ppy.sh/users/9912966)
 - **osu!mania**: [Kibitz](https://osu.ppy.sh/users/7418493), [lenpai](https://osu.ppy.sh/users/5314573)
 
@@ -205,14 +206,14 @@ For the full Spotlights Team members list, check out the [Beatmap Spotlight Cura
 
 | Event | Time |
 | :-- | :-- |
-| Season start | Apr 18, 2023 |
-| Playlist lobby: Playlist A | Apr 18 - May 2, 2022 |
-| Playlist lobby: Playlist B | May 2 - May 16, 2023 |
-| Playlist lobby: Playlist C | May 16 - May 30, 2023 |
-| Playlist lobby: Playlist A | May 30 - Jun 6, 2023 |
-| Playlist lobby: Playlist B | Jun 6 - Jun 13, 2023 |
-| Playlist lobby: Playlist C | Jun 13 - Jun 20, 2023 |
-| Season conclusion | Jun 20, 2023 |
+| Season start | Apr 19, 2023 |
+| Playlist lobby: Playlist A | Apr 19 - May 3, 2022 |
+| Playlist lobby: Playlist B | May 3 - May 17, 2023 |
+| Playlist lobby: Playlist C | May 17 - May 31, 2023 |
+| Playlist lobby: Playlist A | May 31 - Jun 7, 2023 |
+| Playlist lobby: Playlist B | Jun 7 - Jun 14, 2023 |
+| Playlist lobby: Playlist C | Jun 14 - Jun 21, 2023 |
+| Season conclusion | Jun 21, 2023 |
 
 The Spring Season 2023 leaderboard will be available over at the [Beatmap Spotlights Spring 2023 wiki article](/wiki/Beatmap_Spotlights/Seasons/2023_Spring) once the first batch of lobbies conclude in the coming weeks.
 
