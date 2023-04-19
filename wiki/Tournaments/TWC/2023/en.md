@@ -138,7 +138,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad
   1. [Marmalade butcher - Mirage Age (Eyenine) \[Image\]](https://osu.ppy.sh/beatmapsets/1520484#taiko/3141358)
   2. [Rish feat. Choko - Punai Punai Gensou \~Punai Punai in Wonderland\~ (ler1211) \[Punai World Cup\]](https://osu.ppy.sh/beatmapsets/1977053#taiko/4104127)
 - Hard Rock
-  1. [Ata - Fucking Machine (Zetera) \[Lust\]](https://osu.ppy.sh/beatmapsets/1863684#taiko/3832609)
+  1. [ISOMERZ (DJ Raisei + seatrus) - Symmetric (sendol) \[Self-Similarity\]](https://osu.ppy.sh/beatmapsets/1612240#taiko/3292583)
   2. [technoplanet feat. Haruno - End of Fairytale (Maimaing) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1976819#taiko/4103534)
 - Double Time
   1. [technoplanet - Megastructure \[Extended Mix\] (duski) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1499443#taiko/3113038)
