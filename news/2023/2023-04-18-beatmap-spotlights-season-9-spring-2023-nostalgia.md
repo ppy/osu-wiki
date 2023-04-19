@@ -4,31 +4,33 @@ title: "Beatmap Spotlights Season 9: Spring 2023 - Nostalgia"
 date: 2023-04-18 18:00:00 +0000
 ---
 
-Spotlights enthusiasts and competetors, wake up for a brand new Spring 2023 season! This time, we will take you to a travel throughout the history of most revolutionary and breaking beatmaps of the past! 
+Spotlights enthusiasts and competitors, wake up for a brand new Spring 2023 season! This time, we will take you through a winding path covering the history of some of the most revolutionary and breaking beatmaps of the past!
 
 ![](/wiki/shared/news/banners/beatmap-spotlights.jpg)
 
-Are you tired of the fast-paced, high-tech world we live in today? Do you long for the days of simpler pleasures, when life moved a little slower and everything was just a bit more nostalgic? Wish to take a trip back in time to the era of shiny graphics, catchy pop songs, and endless forum discussions – all displayed on your trusty 720p screen? Wait no more, this is brand *new* nostalgia-themed Beatmap Spotlights, open osu!(lazer) and enjoy a set of most groundbreaking beatmaps of the past!
+Are you tired of the fast-paced, high-tech world we live in today? Do you long for the days of simpler pleasures, when life moved a little slower and everything was just a bit more nostalgic? Want to take a trip back in time to the era of shiny graphics, catchy pop songs, and endless forum discussions – all displayed on your trusty 720p screen? 
 
-We are also introducing new Beatmap Spotlights website listing. Interested? Be sure to take a peek at *Updates* section.
+Yearn no more, this *brand new* nostalgia-themed Beatmap Spotlights is finally here, so just open osu!(lazer) and enjoy some of the most groundbreaking beatmaps of yesteryear!
 
-If you just can't wait to try out the new playlists, **the Beatmap Spotlights lobbies are now open for play on the osu!(lazer) client**, so go get involved and start setting scores.
+If you just can't wait to try everything out, **the Beatmap Spotlights lobbies are now open for play NOW on osu!(lazer)**, so go get involved and start setting scores.
 
 If you're wondering what Beatmap Spotlights are and how to get involved in them, simply read on below:
 
 ## How do I participate in the Beatmap Spotlights?
 
-To participate in the Beatmap Spotlights, download the latest version of the lazer client from its [GitHub releases page](https://github.com/ppy/osu/releases/latest).
+To participate in the Beatmap Spotlights, download the latest version of the osu!(lazer) client from its [GitHub releases page](https://github.com/ppy/osu/releases/latest).
 
-Once you're done installing and logging into your account, head on over to the playlists tab in the play section and find the Spotlights lobbies as denoted by a little pink bar. You can also filter the lobbies to show only the Spotlights playlists in the top-right corner. Changing game modes is as simple as clicking one of the four mode icons at the top left of your screen — it'll be whatever game mode you played last by default.
+Once you're done installing and logging into your account, head on over to the playlists tab in the play section and find the Spotlights lobbies as denoted by a little pink bar. You can also toggle the filter to show only the Spotlights playlists in the top-right corner. 
+
+Changing game modes is as simple as clicking one of the four mode icons at the top left of your screen — and it'll be whatever game mode you played last on osu!(lazer) by default.
 
 ## Updates
 
 ### New seasons website listing
 
-Have you found it hard to look for leaderboards or informations on currently ongoing Spotlights seasons? Say no more with the brand new (Seasons listing)[https://osu.ppy.sh/seasons/latest], where you can access all this info, directly from *rankings* tab in the website header.
+Have you ever found it hard to look for leaderboards or details on the current Spotlights season? With the brand-new [Seasons listing on the website](https://osu.ppy.sh/seasons/latest) you can access all this info, directly from the *rankings* tab whenever you like!
 
-While rather barebones at the very moment, we plan on expanding the section further, eventually moving the seasonal leaderboards to be displayed there, so stay tuned for the future of it!
+While somewhat barebones at the very moment, we plan on expanding the section further, namely by eventually moving the seasonal leaderboards to be displayed there, so stay tuned for the future of it!
 
 ## Beatmap of the Season: Results
 
@@ -49,9 +51,9 @@ A big thank you to everyone who voted!
 
 TRAXXXMANIA is another classic banger by jamesjan3, pairing a catchy song with even more addicting mapping, this map was voted the best spotlights map by players for a reason.
 
-The many different stylistic changes throughout the map fits perfectly with the different sections within the song. Note and rhythm density is extremely well thought through to show the many different facets the song has, this paired with unique compressed slidershapes to represent changes in vocal pitches between sections highlights how this map goes above and beyond showcasing the song in every way.
+The many stylistic changes made throughout the map fit perfectly with the different sections within the song. Note and rhythm density is meticulously wielded to highlight the various facets the song portrays, all paired with unique compressed slider-shapes to represent changes in vocal pitches between sections to produce a piece that goes simply above and beyond in every way.
 
-When you do play this, make sure to turn the storyboard on to see the duck spin alongside the map's own rotation!!
+When you do play this, make sure to turn the storyboard on to see the duck spin alongside the map's own rotation!
 
 #### Curators' Pick
 
@@ -65,11 +67,11 @@ If you wanna sunbathe in the dreamy atmosphere of indie pop, we've got just the 
 
 wafer, as most may already know, is one of many mappers known for bringing his fantastic song choice to the osu! community, and his latest offering is absolutely nothing to sleep on.
 
-Take a stroll down a field of flowers and enjoy a masterclass piece - just like a nice, sunny spring evening over some beautiful natural landscapes, Marigolds is a beautiful sight to see for everyone who chooses to fully embrace it, but not only is the song itself something worth appreciating - the accompanying map also makes for a unique and enjoyable gameplay experience. 
+Take a stroll down a field of flowers and enjoy a masterclass piece - just like a nice, sunny spring evening over some beautiful natural landscapes, Marigolds is a beautiful sight to see for everyone who chooses to fully embrace it, but not only is the song itself something worth appreciating — the accompanying map also makes for a unique and enjoyable gameplay experience. 
 
-While most maps challenge people to push their limits, or some specific numbers, this map challenges one to relax, have some fun, and just watch things go by. Featuring a blend of aim control and kicksliders at varying speeds, it's clear that Marigolds offers something for players of all subcommunities and skill levels. Regardless of whether you have years of experience or are just starting out, you're sure to find something to love in this map! High quality mapping, as well as endorsement from the band, just fulfill the whole package as a clear classic.
+While most maps challenge people to push their limits, or some specific numbers, this map challenges one to relax, have some fun, and just watch things go by. Featuring a blend of aim control and kick-sliders at varying speeds, it's clear that Marigolds offers something for players of all sub-communities and skill levels. 
 
-Care to join and see the marigolds bloom?
+Regardless of whether you have years of experience or are just starting out, you're sure to find something to love in this map! High quality mapping, as well as endorsement from the band, just fulfill the whole package as a clear classic. So why not check it out, and see the marigolds bloom?
 
 ### osu!taiko
 
@@ -97,9 +99,11 @@ Known primarily for the variety present in the top difficulties, this map also i
 *new life from faded dreams*\
 *words that paint hope's spring*
 
-The curators this season went with the complete opposite pick. This winter, we were graced with the rare occasion of osu!trivium Champion cdh ranking a map, firmly earning the curator’s choice for the season. The combination of Hakushi Hasegawa’s phenomenal production and KAF’s eerie vocals are brought to life using many new-age mapping tactics in an artistic and intentional manner, including dramatic speedups, “Simon Says”, and a bunch of detached barlines.
+The curators this season went with the complete opposite pick. This winter, we were graced with the rare occasion of osu!trivium Champion cdh ranking a map, firmly earning the curator's choice for the season. The combination of Hakushi Hasegawa's phenomenal production and KAF's eerie vocals are brought to life using many new-age mapping tactics in an artistic and intentional manner, including dramatic speedups, "Simon Says", and a bunch of detached barlines.
 
-But all that glitters is not gold, as this high-star piece introduces plenty of challenge, particularly from the inclusion of [Zeth] bringing it hard and fast exactly where it needs to be, along with many sections of complex snapping and quick velocity changes. While the top difficulty is the one we found to be the most impressive, the ranking of this map was encouraged by Ulqui and woosungko, who can be found on the lower difficulties. If you haven’t already played this map, give it a try.
+But all that glitters is not gold, as this high-star piece introduces plenty of challenge, particularly from the inclusion of \[Zeth\] bringing it hard and fast exactly where it needs to be, along with many sections of complex snapping and quick velocity changes. While the top difficulty is the one we found to be the most impressive, the work of Ulqui and woosungko pulled some serious weight in the lower difficulties as well. 
+
+If you haven’t already played this map, give it a try!
 
 ### osu!catch
 
@@ -111,9 +115,9 @@ But all that glitters is not gold, as this high-star piece introduces plenty of 
 *primarily suggested by [wwwww](https://osu.ppy.sh/users/8434466)*\
 *described by [WadBot](https://osu.ppy.sh/users/14571181)*
 
-Are you a fan of long sliders, tap dashes, and wiggles? Of low-approach rate, low-bpm Overdoses? If you answered yes to either of those questions, Peer Gynt, mapped by multi-MCA winner Mniam, might just be the map for you! Also featured in the 2022 osu!catch World Cup Round of 32 NoMod pool, this is our player's pick this season. 
+Are you a fan of long sliders, tap dashes, and wiggles? Of low-approach rate, low-bpm Overdoses? If you answered yes to either of those, Peer Gynt (as mapped by multi-MCA winner Mniam) might just be the map for you! Also featured in the 2022 osu!catch World Cup Round of 32 NoMod pool, this is our player's pick this season. 
 
-Personally, I would recommend playing this map with Double Time, if you're looking for a bit of an extra challenge. 
+Personally, we'd recommend playing this map with Double Time, if you're looking for a bit of an extra challenge. 
 
 #### Curators' Pick
 
@@ -123,9 +127,9 @@ Personally, I would recommend playing this map with Double Time, if you're looki
 *primarily suggested by [WadBot](https://osu.ppy.sh/users/14571181)*\
 *described by [wwwww](https://osu.ppy.sh/users/8434466)*
 
-This spotlights season I have been told that we have a tie. Despite this fact I would like to talk a bit about THE ACTUAL WINNER for this spotlights season. 
+This spotlights season, we have been told that we have a *tie*. Despite this fact, we'd like to talk a bit about THE ACTUAL WINNER for this season. 
 
-I consider electrolytes to be an absolute phenomenal display of Unlucky_w's best efforts as a mapper. You can see clear inspiation from Rocma/Jemzuu style of mapping yet a very different type of movement signature. One of the ways he emphasizes things is in an extremely creative manner by adding lots of straining patterns to the sounds he finds very distinct. Requiring extremely fast inputs for a very minimal amount of time is something that isn't done as often in other maps compared to this one.
+We consider electrolytes to be an absolute phenomenal display of Unlucky_w's best efforts as a mapper. You can see clear inspiation from Rocma/Jemzuu style of mapping yet a very different type of movement signature. One of the ways he emphasizes things is in an extremely creative manner by adding lots of straining patterns to the sounds he finds very distinct. Requiring extremely fast inputs for a very minimal amount of time is something that isn't done as often in other maps compared to this one.
 
 ![](/wiki/shared/news/2023-04-18-beatmap-spotlights-season-9-spring-2023-nostalgia/1810556.jpg)
 
@@ -133,11 +137,11 @@ I consider electrolytes to be an absolute phenomenal display of Unlucky_w's best
 *primarily suggested by [WadBot](https://osu.ppy.sh/users/14571181)*\
 *described by [Phob](https://osu.ppy.sh/users/6069462)*
 
-I deeply apologize for the misinformation-spreading troll above, they're really getting out of control lately. Jokes aside, let's move on to the REAL, INDISPUTABLE winner of this season.
+We deeply apologize for the misinformation-spreading troll above, they're really getting out of control lately. Jokes aside, let's move on to the REAL, INDISPUTABLE winner of this season.
 
-One of the most creative and well known osu!catch mappers, Rocma, has blessed us with one of his best creations yet. Ryuuseigun is a four minute masterpiece with a lot of innovative patterns and challenging, yet fun and engaging gameplay. The biggest highlight of this map is definitely its usage of subtle edgedashes in the chorus to create patterns that have never been seen before in the ranked section. The idea is executed very well, its introduction does not create any imbalances in the map (trust me, edgedashes are very hard to get right) and leaves the player with a great impression.
+One of the most creative and well known osu!catch mappers, Rocma, has blessed us with one of his best creations yet. Ryuuseigun is a four-minute masterpiece with a lot of innovative patterns and challenging, yet fun and engaging gameplay. The biggest highlight of this map is definitely its usage of subtle edgedashes in the chorus to create patterns that have never been seen before in the ranked section. The idea executes very well, its introduction does not create any imbalances in the map (trust me, edgedashes are very hard to get right) and leaves the player with a great impression.
 
-There is, however, one big flaw about Ryuuseigun, which is its criminally low playcount (only 3000 at the time of writing this post!). I highly encourage you to ditch whatever you are doing right now and experience this map for yourself.
+There is, however, one big flaw about Ryuuseigun, which is its criminally low playcount (only 3000 at the time of writing this post!). We highly encourage you to ditch whatever you are doing right now and experience this map for yourself.
 
 ### osu!mania
 
@@ -149,21 +153,22 @@ There is, however, one big flaw about Ryuuseigun, which is its criminally low pl
 *primarily suggested by [Kibitz](https://osu.ppy.sh/users/7418493)*\
 *described by [Maxus](https://osu.ppy.sh/users/4335785)*
 
+Hinako has come into the fray with one of the most dynamic and versatile marathon chart to enter the Spotlights! His ability to conceptualize his ideas and also the abundant amount of variation within each section is the main selling point that makes it the player's popular choice of the season.
 
-Hinako has come into the fray with one of the most dynamic and versatile marathon chart to entering the spotlight! His ability to conceptualize his ideas and also abundant amount of variation within each section has been the main selling point that making this the player's popular choice of the season.
+The song itself already offers a lot of different instrumentation to follow, accentuated by the build up of the BPM that slowly quickens during second half of the map. We mention this not only because Hinako manages to nail this progression of the song with his skilful layering, but also the varied use of concept and patterning to heighten his expression of the song even further. 
 
-Starting with the song itself already offer a lot of different instruments and also the build up of the BPM that's changing and slowly becoming faster at the second half of the map. Not only Hinako manage to actually nailing the progression of the song with his layering, but also the varying level amount of concept and patterning that he utilized within each parts also heighten the expression of the song even further. Starting from the astoundingly amount of unorthodox LN layering which has been variated to enhance the experience of playing the pattern, the usage of creative and fun burst pattern that's ever changing constantly, and also the implementation of dense chordstream and also jumpjack with some of the uncommon snap that's being mixed together skillfully essentially giving a lot of mixture that makes it really fun to actually play through the chart until the end.
+Starting from the astounding quantity of unorthodox LN layering, the usage of creative and fun burst patterning that constantly evolves, plus the implementation of dense chordstreams and uncommonly-snapped jumpjacks introduces some compelling variety that makes the map an absolute joy to play until the end.
 
-Certainly this chart is one of the pinnacle example of how a challenging and fun chart should be which utilize a well experienced made pattern that surely becoming one of the leading example for others to take a note of.
+Certainly, this pick is one of the pinnacle examples of how a challenging and fun chart could be.
 
 #### Curators' Pick
 
-**[[REDACTED]](https://osu.ppy.sh/beatmapsets/1756972#mania/3595522)**, mapped by [Ryax](https://osu.ppy.sh/users/8949769)\
+**[\[REDACTED\]](https://osu.ppy.sh/beatmapsets/1756972#mania/3595522)**, mapped by [Ryax](https://osu.ppy.sh/users/8949769)\
 *primarily suggested and described by [Crumpey](https://osu.ppy.sh/users/3518705)*
 
-Ryax’s debut to the ranked scene sure won't be forgotten soon with his ranked map.
+Ryax's debut to the ranked scene sure won't be forgotten soon with his ranked map.
 
-While this map might be written off by most people as a meme in regards to both the title and the maps hitsounds, in reality, in terms of the mapping quality, it’s far from just a meme. The mapping throughout the song is very cohesive and compliments the hitsounds well to make a great experience, especially for first time players of the map. All of this builds up towards the kiai in the latter half of the map which consists of difficult LN and jack patterning that feels rewarding to hit.
+While this map might be written off by most people as a meme regarding both the title and the maps hitsounding, in reality, it's far from just a meme. The mapping throughout the song is very cohesive and compliments the hitsounding well to produce a great experience, especially for first time players of the map. All of this builds up towards the kiai in the latter half of the map which consists of difficult LN and jack patterning that feels rewarding to hit.
 
 This chart is one that has cemented itself in history and is one that absolutely deserves to be played if you had previously overlooked it.
 
@@ -178,9 +183,9 @@ Check out each respective game mode's player voting results:
 
 ## Inside the Spotlights Team
 
-Following the recent Spotlights Team applications, we've got a lot of new faces to welcome abroad! Those will help making Beatmap Spotlights better by helping out with selection of fresh beatmap material for next seasons.
+Following the finalization of the recent Spotlights Team application cycle, we've got a lot of new faces to welcome aboard! These intrepid individuals have stepped forward to help make the Beatmap Spotlights better by curating new picks.
 
-We will also say farawell to some, let's thank them for their long-lasting efforts towards the team.
+We will also say farewell to some, so let's thank them for their long-lasting efforts towards the project!
 
 **Curator additions:**
 
@@ -189,7 +194,7 @@ We will also say farawell to some, let's thank them for their long-lasting effor
 - **osu!catch**: [M0RU](https://osu.ppy.sh/users/13681464), [Phob](https://osu.ppy.sh/users/6069462)
 - **osu!mania**: [AWMRone](https://osu.ppy.sh/users/10351684), [Ilham](https://osu.ppy.sh/users/3057154), [Seulgi](https://osu.ppy.sh/users/4918394), [YuEast 2018](https://osu.ppy.sh/users/13953619)
 
-**Curator resignments:**
+**Curator resignations:**
 
 - **osu!taiko**: [[Zeth]](https://osu.ppy.sh/users/9912966)
 - **osu!mania**: [Kibitz](https://osu.ppy.sh/users/7418493), [lenpai](https://osu.ppy.sh/users/5314573)
