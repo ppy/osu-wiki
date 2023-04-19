@@ -108,8 +108,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad
 
 | Team A | Team B | Match time |  |
 | --: | :-- | :-- | :-: |
-| South Korea ::{ flag=KR }:: | ::{ flag=CN }:: China | [Apr 22 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230422T100000&p1=1440&p2=235&p3=33) | [^losers-bracket] |
-| United States ::{ flag=US }:: | ::{ flag=DE }:: Germany | [Apr 22 (Sat) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230422T190000&p1=1440&p2=263&p3=37) | [^losers-bracket] |
+| South Korea ::{ flag=KR }:: | ::{ flag=CN }:: China | [Apr 22 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230422T130000&p1=1440&p2=235&p3=33) | [^losers-bracket] |
+| United States ::{ flag=US }:: | ::{ flag=DE }:: Germany | [Apr 22 (Sat) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230422T200000&p1=1440&p2=263&p3=37) | [^losers-bracket] |
 
 ### Sunday, 23 April 2023
 
@@ -117,8 +117,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad
 | --: | :-- | :-- | :-: |
 | United States ::{ flag=US }:: | ::{ flag=KR }:: South Korea | [Apr 23 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230423T030000&p1=1440&p2=263&p3=235) | [^potential-match] |
 | United States ::{ flag=US }:: | ::{ flag=CN }:: China | [Apr 23 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230423T030000&p1=1440&p2=263&p3=33) | [^potential-match] |
-| Japan ::{ flag=JP }:: | ::{ flag=TW }:: Taiwan | [Apr 23 (Sun) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230423T080000&p1=1440&p2=248&p3=241) | [^winners-bracket] |
-| Germany ::{ flag=DE }:: | ::{ flag=KR }:: South Korea | [Apr 23 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230423T110000&p1=1440&p2=37&p3=235) | [^potential-match] |
+| Japan ::{ flag=JP }:: | ::{ flag=TW }:: Taiwan | [Apr 23 (Sun) 05:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230423T050000&p1=1440&p2=248&p3=241) | [^winners-bracket] |
+| Germany ::{ flag=DE }:: | ::{ flag=KR }:: South Korea | [Apr 23 (Sun) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230423T080000&p1=1440&p2=37&p3=235) | [^potential-match] |
 | Germany ::{ flag=DE }:: | ::{ flag=CN }:: China | [Apr 23 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230423T110000&p1=1440&p2=37&p3=33) | [^potential-match] |
 
 ## Mappools
