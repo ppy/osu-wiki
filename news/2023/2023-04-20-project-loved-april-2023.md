@@ -385,7 +385,7 @@ The votes are not going to come from the heavens, *you* are the ones who will de
 
 Among creative geniuses across many key modes, [Nivrad00](https://osu.ppy.sh/users/1984634) stands as one of such legends, with many contributions ranging from conventional but intelligent mapping to [Aspire finalist-worthy entries](https://osu.ppy.sh/beatmapsets/1236952#mania/2571106). Today's special, *chiltonWALK.temp*, stands as a rare 4K contribution from Nivrad00.
 
-So what do you do when your usual canvas consists of 7 or more keys, but you have to confine your creativity into just 4 of them? Easy, just spread your patterning vertically instead of horizontally! Well, that's the essence of *chiltonWALK.temp* anyways: a very unintuitive and mind boggling SV memorization and deciphering experience that will leave you scratching your head in the map editor for hours. At least that's what I assume the lucky Polish grand finalists had to deal with in their [2019 nationals](/wiki/en/Tournaments/MP/2019_4K).
+So what do you do when your usual canvas consists of 7 or more keys, but you have to confine your creativity into just 4 of them? Easy, just spread your patterning vertically instead of horizontally! Well, that's the essence of *chiltonWALK.temp* anyways: a very unintuitive and mind boggling SV memorization and deciphering experience that will leave you scratching your head in the map editor for hours. At least that's what I assume the lucky Polish grand finalists had to deal with in their [2019 nationals](/wiki/Tournaments/MP/2019_4K).
 
 And now you get to feel their experience today for free! Go ahead and showcase your 200 IQ strategies on the leaderboard... but only if you come and cast your vote in the thread!
 
@@ -474,7 +474,7 @@ We introduce \[[Crz\]Emperor-](https://osu.ppy.sh/users/14384681) and [aaaabaaaa
 
 aaaabaaaa's 4K guest difficulty of this has release patterning designed to keep you on your toes. The overall patterning is indeed quite simple, but if you want to score very high on this, you cannot play this on autopilot.
 
-\[Crz\]Emperor-'s 7K chart takes release patterning quite a bit further. Having seen use as the LN Release pick in the Finals map pool for [osu!mania 7K World Cup 2022](/wiki/en/Tournaments/MWC/2022_7K), it is quite a challenge to score high on. Even though this does not require insane physicality or coordination like some of our other LN picks for Loved, you will still find yourself dropping plenty of accuracy-reducing judgments if you are not careful about the release timings.
+\[Crz\]Emperor-'s 7K chart takes release patterning quite a bit further. Having seen use as the LN Release pick in the Finals map pool for [osu!mania 7K World Cup 2022](/wiki/Tournaments/MWC/2022_7K), it is quite a challenge to score high on. Even though this does not require insane physicality or coordination like some of our other LN picks for Loved, you will still find yourself dropping plenty of accuracy-reducing judgments if you are not careful about the release timings.
 
 With regards to the 7K difficulties, we are skipping the \[=w=\] difficulty because it is identical to the \[Blue\] difficulty for the vast majority of the chart. We believe there is more value in nominating the MWC difficulty in this case.
 
