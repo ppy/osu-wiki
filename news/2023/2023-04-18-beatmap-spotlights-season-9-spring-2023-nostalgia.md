@@ -83,7 +83,7 @@ Regardless of whether you have years of experience or are just starting out, you
 *primarily suggested by [[Zeth]](https://osu.ppy.sh/users/9912966)*\
 *described by [Nifty](https://osu.ppy.sh/users/4956097)*
 
-The players kept it simple, nominating Faputa’s interpretation of The Flashbulb’s *The Bridgeport Run* [Oni] as their map of the season. 
+The players kept it simple, nominating Faputa’s interpretation of The Flashbulb’s *The Bridgeport Run* \[Oni\] as their map of the season. 
 
 Known primarily for the variety present in the top difficulties, this map also includes a solid spread, with the oni simplifying things to a level appropriate for the audience. Consistent with the set, this oni plays no tricks, offering a smooth and predictable playing experience through a chaotic track, and that was enough for it to be nominated as the players’ map of the season.
 
@@ -198,7 +198,6 @@ We will also say farewell to some, so let's thank them for their long-lasting ef
 
 - **osu!taiko**: [[Zeth]](https://osu.ppy.sh/users/9912966)
 - **osu!mania**: [Kibitz](https://osu.ppy.sh/users/7418493), [lenpai](https://osu.ppy.sh/users/5314573)
-
 
 For the full Spotlights Team members list, check out the [Beatmap Spotlight Curators wiki article](/wiki/People/The_Team/Beatmap_Spotlight_Curators).
 
