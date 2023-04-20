@@ -7,7 +7,7 @@ tags:
 
 # 공식적인 토너먼트 지원
 
-*비트맵 매핑 콘테스트의 경우, [Official contest support](/wiki/Contests/Official_support)를 참조하세요.*
+*비트맵 매핑 콘테스트의 경우, [Official beatmapping contest support](/wiki/Contests/Official_support)를 참조하세요.*
 
 [osu! 팀](/wiki/People/osu!_team)은 특정 기대치를 준수하여 추가적인 지원을 주는 프로그램을 운영합니다.
 
