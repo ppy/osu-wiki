@@ -2,11 +2,11 @@
 
 *Véase también: [Convertirse en Beatmap Nominator § Expectativas de modding](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator)*
 
-Esta guía enseñará varios ejemplos de errores que [modders](/wiki/Modding/Modder) principiantes suelen cometer cuando [modean](/wiki/Modding) un [beatmap](/wiki/Beatmap).
+Esta guía enseñará varios ejemplos de errores que los [modders](/wiki/Modding/Modder) principiantes suelen cometer cuando [modean](/wiki/Modding) un [beatmap](/wiki/Beatmap).
 
 Los siguientes puntos están presentados de manera que un mal ejemplo de modding se muestra arriba, y una explicación de por qué es un error abajo.
 
-Aunque los ejemplos enseñados són modelados a partir de contexto de mapping específico a [osu!](/wiki/Game_mode/osu!), también se pueden aplicar a otros [modos de juego](/wiki/Game_mode).
+Aunque los ejemplos enseñados son modelados a partir de contexto de mapping específico a [osu!](/wiki/Game_mode/osu!), también se pueden aplicar a otros [modos de juego](/wiki/Game_mode).
 
 ---
 
@@ -74,10 +74,10 @@ En general, las notas deberían estar mapeadas a distintos sonidos de la canció
 ---
 
 ```md
-El soporte para la resolución panorámica es inconsistente y tu mapa no tiene guin gráfico, por lo tanto desactívalo para todas las dificultades.
-00:00:000 - La manta está desalineada por 2 píxeles.
+El soporte para la resolución panorámica es inconsistente y tu mapa no tiene storyboard, por lo tanto desactívalo para todas las dificultades.
+00:00:000 - El blanket está desalineada por 2 píxeles.
 00:01:000 - El punto de vista previa no está sobrelapado con el divisor de ritmo.
-00:02:000 - Mueve 1px arriba.
+00:02:000 - Muévelo hacia arriba por 1 px.
 ```
 
 **Modear sirve para mejorar un mapa, no cambiarlo porque puede ser cambiado.** Si el cambio que estás sugeriendo es extremadamente pequeño, da un paso atrás y pregúntate si va a mejorar el mapa de manera significativa. Si no, a lo mejor no sea necesario mencionarlo.
@@ -94,7 +94,7 @@ El soporte para la resolución panorámica es inconsistente y tu mapa no tiene g
 
 ```md
 Este mod me ha llevado 10 horas de completar, ya puedes estar aplicando mis sugerencias.
-Tu estilo de mapping es muy malo; limítate a mappear como todos los otros.
+Tu estilo de mapping es muy malo; limítate a mapear como todos los otros.
 00:00:000 - ¿Por qué hay sliders gigantes por todas partes? Colócalos como es debido.
 ```
 
@@ -126,7 +126,7 @@ Mi mod es de mejor calidad porque tengo más experiencia que tú, debes aplicarl
 No sabes lo que es un mapa de calidad, aplica mi mod porque yo sí que lo sé.
 ```
 
-**Que un mod sea de calidad o no depende del mapper.** Sólo mirando el mod no se puede saber. Para saberlo, debes de ponerte desde la perspectiva del mapper. ¿Aplicarían estas sugerencias? ¿De verdad que són útiles? ¿Se entenderá el razonamiento?
+**Que un mod sea de calidad o no depende del mapper.** Solo mirando el mod no se puede saber. Para saberlo, debes de ponerte desde la perspectiva del mapper. ¿Aplicarían estas sugerencias? ¿De verdad que són útiles? ¿Se entenderá el razonamiento?
 
 ---
 
@@ -137,7 +137,7 @@ No sabes lo que es un mapa de calidad, aplica mi mod porque yo sí que lo sé.
 00:03:000 - ritmo está mal
 ```
 
-**Cuando escribes una sugerencia, evita palabras ambiguas como "bien" y "mal".** No todo el mundo está de acuerdo con lo que está bien o no, especialmente en términos tan situacionales y subjetivos como es el [flujo](/wiki/Beatmapping/Mapping_techniques/Flow). Intenta usar términos más objetivos como "cómodo/incómodo", "tranquilo/intenso", etc. Acuérdate de añadir ejemplos a tus mods dentro de la medida de lo posible.
+**Cuando escribes una sugerencia, evita palabras ambiguas como «bien» y «mal».** No todo el mundo está de acuerdo con lo que está bien o no, especialmente en términos tan situacionales y subjetivos como es el [flow](/wiki/Beatmapping/Mapping_techniques/Flow). Intenta usar términos más objetivos como «cómodo/incómodo», «tranquilo/intenso», etc. Acuérdate de añadir ejemplos a tus mods dentro de la medida de lo posible.
 
 ---
 
@@ -161,11 +161,11 @@ La estética es subjetiva asi que voy a ignorar eso.
 
 ```md
 00:00:000 - tio, ¿siempre mapeas así de mal?
-aprende a mappear y entonces podré modearlo correctamente
+aprende a mapear y entonces podré modearlo correctamente
 este mapa se vería increible en la basura
 ```
 
-**Evita ser grosero o sarcástico cuando modeas.** Esta conducta acabará dejándote [silenciado](/wiki/Silence), y no es algo que a otras personas les guste leer. Asegúrate de seguir el [Código de Conducta](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping#making-a-mod-post) cuando modeas para mantener un ambiente de modding positivo para todos.
+**Evita ser grosero o sarcástico cuando modeas.** Esta conducta acabará dejándote [silenciado](/wiki/Silence), y no es algo que a otras personas les guste leer. Asegúrate de seguir el [código de conducta](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping#making-a-mod-post) cuando modeas para mantener un ambiente de modding positivo para todos.
 
 ---
 
