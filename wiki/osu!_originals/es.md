@@ -456,7 +456,7 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 | :-: | :-: | :-- |
 | [NicDroid as "NicDono" - TAMBOL2022](https://www.youtube.com/watch?v=zhecFreHC94) | [#1](https://osu.ppy.sh/beatmapsets/1838613) | Desempate de la gran final |
 
-#### ![](/wiki/shared/mode/mania.png) osu!mania 4k Chinese National Cup 2022
+#### ![](/wiki/shared/mode/mania.png) osu!mania 4K Chinese National Cup 2022
 
 | Song | Beatmap | Notes |
 | :-: | :-: | :-- |
