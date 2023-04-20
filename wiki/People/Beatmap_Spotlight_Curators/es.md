@@ -33,17 +33,24 @@ Dedicated curator teams assemble each Beatmap Spotlights release. Team leaders a
 - ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
 - ::{ flag=GB }:: [DeviousPanda](https://osu.ppy.sh/users/4966334)
 - ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207)
+- ::{ flag=PH }:: [enri](https://osu.ppy.sh/users/8640970)
+- ::{ flag=GB }:: [Kingling](https://osu.ppy.sh/users/7010761)
+- ::{ flag=GB }:: [KnightC0re](https://osu.ppy.sh/users/7894340)
 - ::{ flag=FI }:: [Lefafel](https://osu.ppy.sh/users/2295850)
 - ::{ flag=AT }:: [Omgforz](https://osu.ppy.sh/users/578943)
+- ::{ flag=RU }:: [piroshki](https://osu.ppy.sh/users/7645522)
+- ::{ flag=ID }:: [rHO](https://osu.ppy.sh/users/1629553)
 - ::{ flag=MX }:: [Riot](https://osu.ppy.sh/users/4256461)
 - ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955)
 
 ### Curadores de osu!taiko
 
 - ::{ flag=TN }:: **[Hivie](https://osu.ppy.sh/users/14102976)**
-- ::{ flag=MY }:: [[Zeth]](https://osu.ppy.sh/users/9912966)
 - ::{ flag=AR }:: [Axer](https://osu.ppy.sh/users/7299864)
+- ::{ flag=NL }:: [Boaz](https://osu.ppy.sh/users/13302996)
 - ::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438)
+- ::{ flag=JP }:: [Maimaing](https://osu.ppy.sh/users/14520910)
+- ::{ flag=US }:: [meiqth](https://osu.ppy.sh/users/12565402)
 - ::{ flag=US }:: [Nifty](https://osu.ppy.sh/users/4956097)
 - ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099)
 - ::{ flag=JP }:: [uone](https://osu.ppy.sh/users/5321719)
@@ -63,9 +70,11 @@ Dedicated curator teams assemble each Beatmap Spotlights release. Team leaders a
 
 - ::{ flag=AU }:: **[Crumpey](https://osu.ppy.sh/users/3518705)**
 - ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773)
+- ::{ flag=CN }:: [AWMRone](https://osu.ppy.sh/users/10351684)
 - ::{ flag=GB }:: [Hydria](https://osu.ppy.sh/users/808176)
-- ::{ flag=MY }:: [Kibitz](https://osu.ppy.sh/users/7418493)
-- ::{ flag=PH }:: [lenpai](https://osu.ppy.sh/users/5314573)
+- ::{ flag=ID }:: [Ilham](https://osu.ppy.sh/users/3057154)
 - ::{ flag=CN }:: [MadBricktree](https://osu.ppy.sh/users/4790958)
 - ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785)
 - ::{ flag=US }:: [Protastic101](https://osu.ppy.sh/users/6712747)
+- ::{ flag=KR }:: [Seulgi](https://osu.ppy.sh/users/4918394)
+- ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619)
