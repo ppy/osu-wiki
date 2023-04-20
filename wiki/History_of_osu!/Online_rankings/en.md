@@ -36,7 +36,7 @@ As of June 7, 2021, on the [osu!catch performance rankings](https://osu.ppy.sh/r
 
 *Main page: [osu!mania](osu!mania)*
 
-As of April 13, 2021, on the [osu!mania performance rankings](https://osu.ppy.sh/rankings/mania/performance) the rank #1 player is ::{ flag=KR }:: [Dressurf](https://osu.ppy.sh/users/758406/mania).
+As of April 13, 2023, on the [osu!mania performance rankings](https://osu.ppy.sh/rankings/mania/performance) the rank #1 player is ::{ flag=KR }:: [Dressurf](https://osu.ppy.sh/users/758406/mania).
 
 [osu!]: /wiki/shared/mode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
