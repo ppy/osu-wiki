@@ -19,6 +19,7 @@ Aunque los ejemplos enseñados són modelados a partir de contexto de mapping es
 00:05:000 - Mueve a (100:200)
 00:06:000 - NC
 ```
+
 **A menos que el contexto sea claro, indica siempre por qué crees que se deberian de hacer cambios.** Dejar al mapper pensando podría llevar a malentendidos, y por tanto impedir que el mapa pueda mejorarse.
 
 ---
