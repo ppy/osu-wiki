@@ -197,7 +197,7 @@ Does this mapset deserve to enter Loved and finally have a leaderboard? It's up 
 
 Yup, that's right — this month, I'm bringing you *the* cult classic beatmap by none other than [tatemae](https://osu.ppy.sh/users/5223028) himself, [Ningen tte Sonna Mono ne](https://osu.ppy.sh/beatmapsets/1051092#osu/2196700)!
 
-Believed to be many of your favorite mappers, tatemae conceived a wonderfully evocative beatmap. Riffing and dancing with the beautiful guitars and vocals, *Ningen tte Sonna Mono ne* is brimming full of various beautiful styles a beatmap can offer; because of course, what is a tatemae beatmap without all of them at once? Sprinkling the circles and sliders on the infamous background of flower beds, tatemae successfully made a striking feat of raw beauty with this beatmap. In short; *he was cooking, fr*.
+Believed to be many of your favorite mappers' favorite mapper, tatemae conceived a wonderfully evocative beatmap. Riffing and dancing with the beautiful guitars and vocals, *Ningen tte Sonna Mono ne* is brimming full of various beautiful styles a beatmap can offer; because of course, what is a tatemae beatmap without all of them at once? Sprinkling the circles and sliders on the infamous background of flower beds, tatemae successfully made a striking feat of raw beauty with this beatmap. In short; *he was cooking, fr*.
 
 [![](/wiki/shared/news/2023-04-20-project-loved-april-2023/1341303.jpg)](https://osu.ppy.sh/community/forums/topics/1753555)
 
