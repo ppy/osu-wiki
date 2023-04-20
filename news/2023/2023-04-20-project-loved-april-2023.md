@@ -478,7 +478,7 @@ If you enjoy Evening charts like this, be sure to give him your vote!
 The \[=w=\] difficulty is *not* being nominated for Loved.\
 *description written by [-NoName-](https://osu.ppy.sh/users/10400730)*
 
-We introduce \[[Crz\]Emperor-](https://osu.ppy.sh/users/14384681) and [aaaabaaaa](https://osu.ppy.sh/users/15277626/mania) to the Loved voting stage with their charts of YOASOBI's *Gunjou*!
+We introduce [\[Crz\]Emperor-](https://osu.ppy.sh/users/14384681) and [aaaabaaaa](https://osu.ppy.sh/users/15277626/mania) to the Loved voting stage with their charts of YOASOBI's *Gunjou*!
 
 aaaabaaaa's 4K guest difficulty of this has release patterning designed to keep you on your toes. The overall patterning is indeed quite simple, but if you want to score very high on this, you cannot play this on autopilot.
 
