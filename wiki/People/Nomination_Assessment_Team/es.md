@@ -47,7 +47,7 @@ Los miembros del NAT que manejan principalmente esta categoría se aseguran de q
 
 Es necesario dividir la carga de trabajo del NAT en dos categorías principales para la organización general y la productividad del grupo, lo que permite una asignación de responsabilidades más simplificada. Delegar tareas evita que los miembros del NAT se sientan abrumados y, al mismo tiempo, evita la difusión de la responsabilidad.
 
-**Un miembro del NAT puede participar en cualquier tarea dentro de cualquier categoría que elija, a pesar de las responsabilidades principales enumeradas.** Por ejemplo, un miembro del NAT que sea el principal responsable de las evaluaciones también puede ayudar con tareas relacionadas con la estructura, o viceversa.
+**Un miembro del NAT puede participar en cualquier tarea dentro de cualquier categoría que elija, a pesar de las responsabilidades principales enumeradas.** Por ejemplo, un miembro del NAT que sea principalmente responsable de las evaluaciones también puede ayudar con tareas relacionadas con la estructura, o viceversa.
 
 ## Actividad
 
@@ -75,13 +75,13 @@ Antes de realizar un cambio de categoría, se verifica la cordura de la adición
 
 A partir de marzo de 2023, el NAT decidió volver a adoptar el concepto de liderazgo, que [se usaba anteriormente](/wiki/People/Quality_Assurance_Team/QAT_Leaders) en el [QAT](/wiki/People/Quality_Assurance_Team). Los líderes del NAT tienen la responsabilidad combinada de las categorías de evaluación y estructura para que puedan vigilar y mantenerse involucrados en todos los aspectos del NAT.
 
-Los líderes NAT actuales son ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) y ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099).
+Los líderes del NAT actuales son ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) y ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099).
 
 ### Responsabilidades
 
 Los líderes del NAT tienen como objetivo cubrir las siguientes tareas:
 
-- **Gestión de actividad:** Monitorear constante la actividad de otros miembros del NAT y manejar casos de baja actividad, ya sea a través de controles regulares o mediante entrevistas de salida, en caso de problemas de actividad con respecto a ciertos miembros.
+- **Gestión de actividad:** Monitorear constantemente la actividad de otros miembros del NAT y manejar casos de baja actividad, ya sea a través de controles regulares o mediante entrevistas de salida, en caso de problemas de actividad con respecto a ciertos miembros.
 - **Comunicación:**
   - Actuar como puente entre el osu! team, el NAT y la comunidad de mapping, comunicando constantemente cualquier cambio, inquietud o demanda planteada.
   - Fomentar la participación en discusiones internas y externas involucrando de manera proactiva a todas las partes, manteniendo las discusiones organizadas y facilitando la combinación de diferentes puntos de vista para formar un curso de acción práctico.
