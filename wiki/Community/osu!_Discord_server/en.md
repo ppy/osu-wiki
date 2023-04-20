@@ -6,7 +6,7 @@ tags:
 
 # osu! Discord server
 
-The **osu! Discord server**, previously known as **osu!dev**, is osu!'s official [Discord](https://discord.com/) server for development-related purposes. The server functions as a hub for people to discuss and work on osu!'s open source and community projects. This is the main place to contribute to osu!'s development and get in touch with the [osu! team](/wiki/People/osu!_team).
+The **osu!** Discord server, previously known as **osu!dev**, is osu!'s official [Discord](https://discord.com/) server for development-related purposes. The server functions as a hub for people to discuss and work on osu!'s open source and community projects. This is the main place to contribute to osu!'s development and get in touch with the [osu! team](/wiki/People/osu!_team).
 
 The permanent invite link for the server is <https://discord.gg/ppy>.
 
@@ -20,9 +20,9 @@ The osu! Discord server features a number of channels, many of which are centere
 
 | Channel | Project |
 | :-- | :-- |
-| `#welcome` | *N/A* |
-| `#introduction` | *N/A* |
-| `#general` | *N/A* |
+| `#welcome` | Server information |
+| `#introduction` | Self-introductions |
+| `#general` | General discussion and troubleshooting related to osu! |
 
 ### Client / Web
 
@@ -31,8 +31,8 @@ The osu! Discord server features a number of channels, many of which are centere
 | `#osu` | [osu!(lazer)](/wiki/Client/Release_stream/Lazer) |
 | `#osu-framework` | [osu!framework](https://github.com/ppy/osu-framework) |
 | `#osu-web` | [osu!web](https://github.com/ppy/osu-web) |
-| `#github-feed` | *N/A* |
-| `Meetings` (Stage channel) | [osu! community meetings](/wiki/Community/osu!_community_meetings) |
+| `#github-feed` | Event feed for various [ppy GitHub repositories](https://github.com/ppy) |
+| `Meetings` (stage channel) | [osu! community meetings](/wiki/Community/osu!_community_meetings) and developer progress meetings |
 
 ### Diffcalc
 
