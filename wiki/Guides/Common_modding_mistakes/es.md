@@ -69,7 +69,7 @@ Aunque los ejemplos enseñados son modelados a partir de contexto de mapping esp
 En general, las notas deberían estar mapeadas a distintos sonidos de la canción para poder reflejarla con exactitud. Mantener la densidad del ritmo con la intensidad de la canción es /.../
 ```
 
-**Siempre incluye al menos un ejemplo y una línea de tiempo como mínimo.** Sin dar ejemplos en el mapa que estás modeando, el mapper seguramente esté confundido de dónde y qué problemas estás hablando. Como modder a veces puedes acabar iendo por las ramas, olvidándote de mejorar el mapa en el proceso.
+**Siempre incluye al menos un ejemplo y una línea de tiempo como mínimo.** Sin dar ejemplos en el mapa que estás modeando, el mapper seguramente esté confundido de dónde y qué problemas estás hablando. Como modder a veces puedes acabar yendo por las ramas, olvidándote de mejorar el mapa en el proceso.
 
 ---
 
