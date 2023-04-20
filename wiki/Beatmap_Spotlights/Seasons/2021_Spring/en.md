@@ -25,7 +25,7 @@ tags:
 
 ## Weekly multiplayer lobbies
 
-As of now, joining the weekly multiplayer lobbies requires participants to download and install [osu!(lazer)](https://github.com/ppy/osu/releases).
+As of now, joining the weekly multiplayer lobbies requires participants to download and install [osu!(lazer)](/wiki/Client/Release_stream/Lazer).
 
 1. Every week of a season, a single timeshift multiplayer lobby is opened. Everyone can participate for the entire week.
    - There will be a week long intermission after which lobbies for each playlists will be opened again on a weekly basis.

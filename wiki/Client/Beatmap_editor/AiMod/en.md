@@ -35,7 +35,9 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 | :-- | :-- | :-- |
 | HP rate for Easy/Normal is suggested to be at least 4. | osu!mania maps only! | Go to Song Settings and set HP rate to 4 or higher. |
 | HP rate for Hard and up is suggested to be at least 7. | osu!mania maps only! | Go to Song Settings and set HP rate to 7 or higher. |
+| OD rate is suggested to be at least 5. | osu!mania maps only! | Set `Overall Difficulty` in the "Difficulty" tab in Song Setup to 5 or higher. |
 | OD rate for maps with few sliders is suggested to be at least 7. | osu!mania maps only! | Go to Song Settings and set OD rate to 7 or higher. |
+| <!-- Both seem to occur, not sure what changes the value -->OD rate for maps with very few sliders is suggested to be at least 8. | osu!mania maps only! |  |
 | The Slider Velocity should be 1.40 or 1.60. | osu!taiko maps only! | Go to Timing tab and change Slider Velocity to 1.40 or 1.60. |
 
 ### Errors
@@ -87,7 +89,7 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 | This object is too far from the previous object. | "Check distance snap" must be checked. | Move the object closer to the previous one. |
 | This spinner is too short. Auto must achieve at least 1000 bonus points on spinners. | The specified spinner is too short; this will make it impossible to obtain a SS. | Find the spinner and remove it or make the spinner a bit longer about 3 whole beats. Length can vary depending on the BPM of the song. |
 | Spinners must have a new combo. |  |  |
-| <!-- Potential removal? Wasn't able to make an actual object (not including slider ends) go offscreen as editor forced it back in again -->Object isn't snapped! | The specified object isn't snapped onto the timeline. | Check the timing, if you made a change to it, you may need to resnap all the notes (you can do this manually or click Timing » Resnap all notes (if you do this, you will need to check to see if any notes were placed in the wrong spot!)). |
+| Object isn't snapped! | The specified object isn't snapped onto the timeline. | Check the timing, if you made a change to it, you may need to resnap all the notes (you can do this manually or click Timing » Resnap all notes (if you do this, you will need to check to see if any notes were placed in the wrong spot!)). |
 | Object's end is not snapped! | The specified object's end isn't snapped onto the timeline. | Check the timing, if you made a change to it, you may need to resnap all the notes (you can do this manually or click Timing » Resnap all notes (if you do this, you will need to check to see if any notes were placed in the wrong spot!)). |
 
 #### Design
@@ -106,8 +108,6 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 | :-- | :-- | :-- |
 | This beatmap is over 6 minutes long. Consider shortening it if it's not a marathon-style map. |  |  |
 | Your beatmap is shorter than 45 seconds. Consider making it longer. |  |  |
-| <!-- Potential removal? Not sure if this is broken, but AiMod doesn't seem to detect an issue when I use a 320Kbps audio file -->Audio bitrate is higher than 192kbps. Consider recompressing to CBR 192kbps or VBR ~1.0. |  |  |
-| <!-- Same as above -->Audio bitrate is lower than 128kbps. Consider finding a better quality source. |  |  |
 | Kiai time is toggled on for less than 15 seconds. | *Self-explanatory* | Extend the duration of Kiai time to longer than 15 seconds. |
 | The mp3 you are using is a lot longer than the part which is mapped. Consider cropping it to reduce filesize. | *Self-explanatory* | Extend the beatmap or cut the song. |
 | Kiai needs an end time point. |  |  |
@@ -120,22 +120,17 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 | Kiai's end isn't snapped! |  |  |
 | Breaktime is not suggested for mania maps. | osu!mania maps only! | Insert notes where the break time occurs. |
 | <!-- Can't confirm -->Easy/Normal diff contains too many speed changes. |  |  |
-| <!-- Can't confirm -->Kiai is toggled very frequently! |  |  |
+| Kiai is toggled very frequently! |  |  |
 
 #### Meta
 
 | Message | Explanation | Solution |
 | :-- | :-- | :-- |
-| Stack leniency is larger than 0.9 or smaller than 0.3. | The Stack Leniency slider in the Advanced tab of Song Setup is set to either 2 or 10. | Set the slider so that it is between 3 and 9. |
-| <!-- editor removes any unicode automatically, but this warning probably still exists -->Romanised artist contains unicode. |  |  |
-| <!-- editor removes any unicode automatically, but this warning probably still exists -->Romanised title contains unicode. |  |  |
+| [Stack leniency](/wiki/Beatmap/Stack_leniency) is larger than 0.9 or smaller than 0.3. | The Stack Leniency slider in the Advanced tab of Song Setup is set to either 2 or 10. | Set the slider so that it is between 3 and 9. |
+| <!-- unicode characters won't be shown in the editor -->Romanised artist contains unicode. |  |  |
+| <!-- unicode characters won't be shown in the editor -->Romanised title contains unicode. |  |  |
 | Countdown is not allowed in mania mode. | osu!mania maps only! | Uncheck `Enable countdown` in the "Design" tab in Song Setup. |
 | Letterboxing is not allowed in mania mode. | osu!mania maps only! | Uncheck `Letterbox during breaks` in the "Design" tab in Song Setup. |
-| OD rate is suggested to be at least 5. | osu!mania maps only! | Set `Overall Difficulty` in the "Difficulty" tab in Song Setup to 5 or higher. |
-| OD rate for maps with very few sliders is suggested to be at least 7. | osu!mania maps only! |  |
-| <!-- Both seem to occur, not sure what changes the value -->OD rate for maps with very few sliders is suggested to be at least 8. | osu!mania maps only! |  |
-| <!-- potential removal? tried using countdown on taiko maps, and aimod does not complain -->Countdown is not allowed in taiko mode. | osu!taiko maps only! |  |
-| <!-- same as above -->Epilepsy warning is not allowed in taiko mode. | osu!taiko maps only! |  |
 | Letterboxing is not allowed in taiko mode. | osu!taiko maps only! |  |
 
 #### Mapset
@@ -165,8 +160,6 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 | Uninherited timing points conflict with {0} diff. |  |  |
 
 ## Flaws
-
-<!-- TODO: I'm sure there are more flaws, just can't think of any more off the top of my head -->
 
 - **AiMod cannot detect a large number of issues** that are considered unrankable by the [ranking criteria](/wiki/Ranking_Criteria), such as potentially missnapped objects, delayed hitsounds, background filesize above 2.5MB, etc.
 - **AiMod may warn you of non-issues**, such as the mapset needing two standard difficulties on a [marathon](/wiki/Beatmap/Marathon) map and [kiai time](/wiki/Gameplay/Kiai_time) being toggled on for less than 15 seconds.

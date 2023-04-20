@@ -393,7 +393,7 @@ Cette section concerne les beatmaps et les mises à jour.
 | `Marquer toutes les beatmaps comme étant jouées` | Marque toutes les beatmaps comme étant "jouées". | Bouton |
 | `Lancer le logiciel de mise à jour` | Ferme le client et ouvre le dispositif de mise à jour pour rechercher les mises à jour et les télécharger le cas échéant. | Bouton |
 
-En bas, le numéro de la version s'affiche. En cliquant dessus, vous ouvrirez [le journal des modifications](/wiki/Glossary/Changelog) de cette version dans votre navigateur internet.
+En bas, le numéro de la version s'affiche. En cliquant dessus, vous ouvrirez [le journal des modifications](/wiki/Changelog) de cette version dans votre navigateur internet.
 
 ### Debug
 

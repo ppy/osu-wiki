@@ -76,10 +76,10 @@
 В стандарте IRC приводится такая концепция, как режим канала (если кратко — какие действия разрешены различным пользователям). osu!Bancho использует два режима для обозначения статусов:
 
 - Префикс `+` (статус «voice») даётся пользователю, подключившемуся через внешний IRC-клиент;
-- Префикс `@` (статус «chat operator») даётся модератору чата ([GMT](/wiki/People/The_Team/Global_Moderation_Team) или [NAT](/wiki/People/The_Team/Nomination_Assessment_Team)).
+- Префикс `@` (статус «chat operator») даётся модератору чата ([GMT](/wiki/People/Global_Moderation_Team) или [NAT](/wiki/People/Nomination_Assessment_Team)).
 
 Если обычный пользователь пользуется клиентом osu! или веб-чатом, у его ника нет префикса.
 
 ### Человек пишет в чат, но я не вижу его ник в списке пользователей на канале
 
-Он отправляет сообщения через [веб-чат](https://osu.ppy.sh/community/chat) или [osu!(lazer)](https://github.com/ppy/osu).
+Он отправляет сообщения через [веб-чат](https://osu.ppy.sh/community/chat) или [osu!(lazer)](/wiki/Client/Release_stream/Lazer).

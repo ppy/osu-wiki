@@ -68,7 +68,7 @@ Diese Kürzel können überall verwendet werden:
 
 | Kürzel | Aktion |
 | :-- | :-- |
-| `F1` | Öffne das Auswahlmenü für die [Spielmodifikationen](/wiki/Game_modifier). |
+| `F1` | Öffne das Auswahlmenü für die [Spielmodifikationen](/wiki/Gameplay/Game_modifier). |
 | `F2` | Wählt zufällig eine Beatmap aus. |
 | `Shift` + `F2` | Gehe zur letzten, zufällig gewählten Beatmap zurück. |
 | `F3` | Öffne die Beatmap-Einstellungen. |
@@ -78,8 +78,8 @@ Diese Kürzel können überall verwendet werden:
 | `Strg` + `2` | Wechsle zum [osu!taiko](/wiki/Game_mode/osu!taiko)-Spielmodus. |
 | `Strg` + `3` | Wechsle zum [osu!catch](/wiki/Game_mode/osu!catch)-Spielmodus. |
 | `Strg` + `4` | Wechsle zum [osu!mania](/wiki/Game_mode/osu!mania)-Spielmodus. |
-| `Strg` + `Enter` | Spielt die ausgewählte Beatmap mit der [Auto-Mod](/wiki/Game_modifier/Auto). |
-| `Strg` + `Shift` + `Enter` | Spielt die ausgewählte Beatmap mit der [Cinema-Mod](/wiki/Game_modifier/Cinema). |
+| `Strg` + `Enter` | Spielt die ausgewählte Beatmap mit der [Auto-Mod](/wiki/Gameplay/Game_modifier/Auto). |
+| `Strg` + `Shift` + `Enter` | Spielt die ausgewählte Beatmap mit der [Cinema-Mod](/wiki/Gameplay/Game_modifier/Cinema). |
 | `Strg` + `A` | Auto Mod ein-/ausschalten. |
 | `Strg` + `F3` oder `Strg` + `+` | Erhöhe die osu!mania-Scrollgeschwindigkeit (funktioniert nur im osu!mania-Spielmodus). |
 | `Strg` + `F4` or `Strg` + `-` | Verringere die osu!mania-Scrollgeschwindigkeit (funktioniert nur im osu!mania-Spielmodus). |
@@ -93,7 +93,7 @@ Diese Kürzel können überall verwendet werden:
 
 ### Spielmodifikationen
 
-*Hauptseite: [Spielmodifikationen](/wiki/Game_modifier)*
+*Hauptseite: [Spielmodifikationen](/wiki/Gameplay/Game_modifier)*
 *Anmerkung: Das Drücken des Tastenkürzels wird die Mod an-/ausschalten. Du musst im Spielmodifikationsmenü sein, um diese Tastenkürzel verwenden zu können.*\
 *Anmerkung: Die Mods Target Practice (osu!), 1K und 2K (osu!mania), Co-op (osu!mania) und Mirror (osu!mania) haben keine Tastenkürzel.*
 
@@ -282,7 +282,7 @@ Diese Kürzel funktionieren überall im Beatmap-Editor:
 | `Strg` + `C` | Kopiere die ausgewählte Ebene. |
 | `Strg` + `V` | Füge die ausgewählte Ebene an der aktuellen Stelle ein. *Anmerkung: Eingefügte Ebenen werden erst nach Speichern und Neuladen der Beatmap in der Liste angezeigt.* |
 | `Entf` | Lösche die ausgewählte Ebene. |
-| `W`, `A`, `S`, `D` | Schiebe die ausgewählte Ebene um einen [osu!pixel](/wiki/osupixel) nach oben, unten, links bzw. rechts. |
+| `W`, `A`, `S`, `D` | Schiebe die ausgewählte Ebene um einen [osu!pixel](/wiki/Client/Beatmap_editor/osu!_pixel) nach oben, unten, links bzw. rechts. |
 
 ### Timing
 

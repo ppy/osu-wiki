@@ -8,11 +8,11 @@ L'osu!monthly est un effort communautaire, donc toute personne qui veut aider ou
 
 ## Histoire
 
-La version originale de l'osu!monthly, créée par [jjrocks](https://osu.ppy.sh/users/30985), [Corin](https://osu.ppy.sh/users/639270) et leurs amis, a été publiée de mars 2011 à octobre 2011. Le magazine a alors été publié au format PDF avec toutes les informations les plus importantes sur la communauté d'osu!.
+La version originale de l'osu!monthly, créée par ::{ flag=US }:: [jjrocks](https://osu.ppy.sh/users/30985), ::{ flag=GB }:: [Corin](https://osu.ppy.sh/users/639270) et leurs amis, a été publiée de mars 2011 à octobre 2011. Le magazine a alors été publié au format PDF avec toutes les informations les plus importantes sur la communauté d'osu!.
 
-Inspirée par la première version de l'osu!monthly, une nouvelle équipe s'est formée, grâce à [mangomizer](https://osu.ppy.sh/users/1893718) et [clayton](https://osu.ppy.sh/users/3666350), et de nouvelles itérations de l'osu!monthly ont pu être publiées d'octobre 2017 à février 2018. Le format était encore en PDF à l'époque, mais avec un design plus cohérent et agréable.
+Inspirée par la première version de l'osu!monthly, une nouvelle équipe s'est formée, grâce à ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) et ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350), et de nouvelles itérations de l'osu!monthly ont pu être publiées d'octobre 2017 à février 2018. Le format était encore en PDF à l'époque, mais avec un design plus cohérent et agréable.
 
-Dans le but de relancer ce projet, l'[équipe de l'osu!monthly](/wiki/People/osu!monthly_team) a été formée avec [0x84f](https://osu.ppy.sh/users/7944724) à sa tête, relançant le projet, cette fois-ci directement sous forme d'articles de news. Le projet est actuellement en cours.
+Dans le but de relancer ce projet, l'[équipe de l'osu!monthly](/wiki/People/osu!monthly_team) a été formée avec ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) à sa tête, relançant le projet, cette fois-ci directement sous forme d'articles de news. Le projet est actuellement en cours.
 
 ## Archives
 
@@ -50,3 +50,4 @@ Plus d'informations sur la seconde version de l'osu!monthly sont disponibles sur
 | [osu!monthly, November 2022](https://osu.ppy.sh/home/news/2022-12-01-osumonthly-5) | 05/12/2022 |
 | [osu!monthly, December 2022](https://osu.ppy.sh/home/news/2023-01-06-osumonthly-6) | 06/01/2023 |
 | [osu!monthly, January 2023](https://osu.ppy.sh/home/news/2023-02-10-osumonthly-7) | 10/02/2023 |
+| [osu!monthly, February 2023](https://osu.ppy.sh/home/news/2023-03-02-osumonthly-8) | 02/03/2023 |

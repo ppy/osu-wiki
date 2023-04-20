@@ -18,7 +18,7 @@ Chaque utilisateur ne peut utiliser qu'un **un** compte. La création de nouveau
 
 Les [règles](/wiki/Rules) stipulent que toute forme de manipulation du client, comme le piratage du score, les séquences de combo complètes activées par macro, la visée automatique et tout ce qui donne des avantages de ce type est considéré comme de la triche.
 
-Il s'agit d'une règle "à un coup". Dès leur première infraction, les tricheurs seront restreints pour une durée indéterminée. L'[Équipe de support aux comptes](/wiki/People/The_Team/Account_support_team) peut décider de lever la restriction si l'appel est accepté.
+Il s'agit d'une règle "à un coup". Dès leur première infraction, les tricheurs seront restreints pour une durée indéterminée. L'[Équipe de support aux comptes](/wiki/People/Account_support_team) peut décider de lever la restriction si l'appel est accepté.
 
 ## J'ai été restreint pour avoir triché, mais je n'ai pas triché !
 

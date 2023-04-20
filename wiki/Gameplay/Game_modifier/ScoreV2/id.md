@@ -11,7 +11,7 @@ tags:
 
 ![Mod ikon SV2](/wiki/shared/mods/SV2.png "Mod ikon ScoreV2 (SV2)")
 
-*Untuk melihat daftar keseluruhan dari semua mod, kunjungi: [Game modifier](/wiki/Game_modifier)*\
+*Untuk melihat daftar keseluruhan dari semua mod, kunjungi: [Game modifier](/wiki/Gameplay/Game_modifier)*\
 *Berbeda konteks dengan [Score](/wiki/Gameplay/Score) atau [ScoreV1](/wiki/Gameplay/Score/ScoreV1).*
 
 ## Tentang
@@ -27,7 +27,7 @@ tags:
 *Peringatan: Menggunakan mod ScoreV2 akan membuat unranked play.*\
 *Untuk informasi mengenai sistem skoring ScoreV2, kunjungi: [ScoreV2](/wiki/Gameplay/Score#scorev2)*
 
-Mod **ScoreV2** adalah sebuah [game modifier](/wiki/Game_modifier) yang menggunakan sistem nilai prototipe ScoreV2 sebagai gantinya dari sistem skoring yang digunakan sekarang pada setiap [mode permainan](/wiki/Game_mode). Singkatnya, sistem ScoreV2 mengukur semua nilai skor [hit object](/wiki/Hit_object) ke batas total skor 1 juta pada pengali skor 1.00x (dikecualikan untuk nilai bonus spinner pada [osu!](/wiki/Game_mode/osu!), denden pada [osu!taiko](/wiki/Game_mode/osu!taiko), dan banana yang dikumpulkan pada [osu!catch](/wiki/Game_mode/osu!catch).
+Mod **ScoreV2** adalah sebuah [game modifier](/wiki/Gameplay/Game_modifier) yang menggunakan sistem nilai prototipe ScoreV2 sebagai gantinya dari sistem skoring yang digunakan sekarang pada setiap [mode permainan](/wiki/Game_mode). Singkatnya, sistem ScoreV2 mengukur semua nilai skor [hit object](/wiki/Gameplay/Hit_object) ke batas total skor 1 juta pada pengali skor 1.00x (dikecualikan untuk nilai bonus spinner pada [osu!](/wiki/Game_mode/osu!), denden pada [osu!taiko](/wiki/Game_mode/osu!taiko), dan banana yang dikumpulkan pada [osu!catch](/wiki/Game_mode/osu!catch).
 
 Mod ini mempunyai fungsi yang sama untuk semua mode-mode permainan.
 

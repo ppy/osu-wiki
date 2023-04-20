@@ -6,7 +6,7 @@ no_native_review: true
 
 ![](https://assets.ppy.sh/contests/147/header.jpg)
 
-**三角作图比赛**是以激光版主题曲 *[cYsmix](https://osu.ppy.sh/beatmaps/artists/2) - triangles* 为焦点的作图和故事板设计比赛。
+**三角作图比赛**[osu!(lazer)](/wiki/Client/Release_stream/Lazer)主题曲 *[cYsmix](https://osu.ppy.sh/beatmaps/artists/2) - triangles* 为焦点的作图和故事板设计比赛。
 
 参赛的作品需要包括：
 

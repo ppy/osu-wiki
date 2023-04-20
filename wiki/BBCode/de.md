@@ -1,6 +1,6 @@
 ---
-outdated_since: 2c129e5211a4caee7f4b7f2b189c6644b435fbbe
 outdated_translation: true
+outdated_since: 7076ff93d53765e07a3cfe9ff53bd92582ff540b
 ---
 
 # BBCode
@@ -146,7 +146,21 @@ Lange Zitate werden typischerweise in formalen Schreiben bei Texten verwendet, d
 
 ![Zitat-Button](img/quotereply.png)
 
+### Inline-Code
+
+*Nicht zu verwechseln mit [Codeblock](#codeblock).*
+
+```
+[c]Text[/c]
+```
+
+Das Tag `[c]` ermöglicht die Hervorhebung von Inline-Text in einer Monospace-Schriftart. Auf der osu!-Webseite wird der Text mit einem grauen Rahmen formatiert. Im Gegensatz zu [Codeblöcken](#codeblock) kann das Tag nur in einzelnen Zeilen platziert werden.
+
+In den osu!-Foren ist dies nützlich, um zum Beispiel Tastenkürzel oder Buttonbeschreibungen zu betonen.
+
 ### Codeblock
+
+*Nicht zu verwechseln mit [Inline-Code](#inline-code).*
 
 ```
 [code]

@@ -13,8 +13,8 @@ tags:
 ![Icône du mod NC](/wiki/shared/mods/NC.png "Icône du mod Nightcore (NC)")
 
 *À ne pas confondre avec [Nightcore (genre)](https://fr.wikipedia.org/wiki/Nightcore).*\
-*Voir aussi : [NC (désambiguïsation)](/wiki/Disambiguation/NC), [Double Time (mod)](/wiki/Game_modifier/Double_Time)*\
-*Pour la liste complète de tous les mods, voir : [modificateurs de jeu](/wiki/Game_modifier)*
+*Voir aussi : [NC (désambiguïsation)](/wiki/Disambiguation/NC), [Double Time (mod)](/wiki/Gameplay/Game_modifier/Double_Time)*\
+*Pour la liste complète de tous les mods, voir : [modificateurs de jeu](/wiki/Gameplay/Game_modifier)*
 
 ## À propos
 
@@ -28,13 +28,13 @@ tags:
 - Touche de raccourci par défaut : `D` `D` ou `Shift`+`D`
 - Légende : `uguuuu~`
 - Modes de jeu compatibles : ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- Variante : [Double Time](/wiki/Game_modifier/Double_Time)
+- Variante : [Double Time](/wiki/Gameplay/Game_modifier/Double_Time)
 
 ## Description
 
-Le mod **Nightcore** est un [modificateur de jeu](/wiki/Game_modifier) qui fonctionne exactement de la même manière que sa variante, Double Time, mais qui augmente également la hauteur du son et ajoute une note de batterie en arrière-plan qui, en 4/4, se déroule dans l'ordre suivant : grosse caisse sur les temps 1 et 3, clap sur les temps 2 et 4, et crash sur le temps 1 toutes les 4 mesures.
+Le mod **Nightcore** est un [modificateur de jeu](/wiki/Gameplay/Game_modifier) qui fonctionne exactement de la même manière que sa variante, Double Time, mais qui augmente également la hauteur du son et ajoute une note de batterie en arrière-plan qui, en 4/4, se déroule dans l'ordre suivant : grosse caisse sur les temps 1 et 3, clap sur les temps 2 et 4, et crash sur le temps 1 toutes les 4 mesures.
 
-Le [multiplicateur de score](/wiki/Game_modifier/Score_multiplier) reste le même qu'avec le mod Double Time activé, et la beatmap lui-même n'est pas affecté au-delà de ce que fait le mod Double Time.
+Le [multiplicateur de score](/wiki/Gameplay/Game_modifier/Score_multiplier) reste le même qu'avec le mod Double Time activé, et la beatmap lui-même n'est pas affecté au-delà de ce que fait le mod Double Time.
 
 Ce mod a le même effet dans tous les modes de jeu.
 

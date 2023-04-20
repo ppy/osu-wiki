@@ -7,7 +7,7 @@ osu! hat mehrere Twitter-Konten, die alle eine bestimmte Funktion erfüllen. Auf
 | Avatar | Kürzel | Beschreibung |
 | :-: | :-: | :-- |
 | ![osu!status Avatar](img/osustatus.jpg) | [@osustatus](https://twitter.com/osustatus) | Benachrichtigungen von Fehlern auf der Website und von [Bancho](/wiki/Bancho_(server)). |
-| ![osu! Supportavatar](img/osusupport.jpg) | [@osusupport](https://twitter.com/osusupport) | Hilfe bei Fragen über den Account und/oder Problemen in der Community. Wird von dem [Account Supportteam](/wiki/People/The_Team/Account_support_team) betrieben. |
+| ![osu! Supportavatar](img/osusupport.jpg) | [@osusupport](https://twitter.com/osusupport) | Hilfe bei Fragen über den Account und/oder Problemen in der Community. Wird von dem [Account Supportteam](/wiki/People/Account_support_team) betrieben. |
 
 ## Community
 
@@ -15,7 +15,7 @@ osu! hat mehrere Twitter-Konten, die alle eine bestimmte Funktion erfüllen. Auf
 | :-: | :-: | :-- |
 | ![osu! Avatar](img/osugame.jpg) | [@osugame](https://twitter.com/osugame) | Die offizielle Quelle für Nachrichten und Ankündigungen. |
 | ![BanchoBoat Avatar](img/banchoboat.jpg) | [@banchoboat](https://twitter.com/banchoboat) | Gedacht für einen spaßigen Austausch, wenn Dinge schief laufen. |
-| ![NAT Avatar](img/osu_nat.png) | [@osu_nat](https://twitter.com/osu_nat) | Nachrichten, Ankündigungen und kleine Umfragen in der Community durch das [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) (Das [osu!-Team](/wiki/People/The_Team) ist dafür nicht zuständig). |
+| ![NAT Avatar](img/osu_nat.png) | [@osu_nat](https://twitter.com/osu_nat) | Nachrichten, Ankündigungen und kleine Umfragen in der Community durch das [NAT](/wiki/People/Nomination_Assessment_Team) (Das [osu!-Team](/wiki/People/osu!_team) ist dafür nicht zuständig). |
 | ![Avatar des pp-Komitees](img/ppcommittee.png) | [@pp_committee](https://twitter.com/pp_committee) | Ankündigungen für Berechnungen der Schwierigkeiten in allen Spielmodi, betrieben vom [Performance-Punkte-Komitee](/wiki/People/Performance_Points_Committee). |
 
 ## Persönlich

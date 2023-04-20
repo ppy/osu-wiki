@@ -1,24 +1,33 @@
 ---
-stub: true
 tags:
-  - timing section
   - kiai mode
+  - kiai section
 ---
 
 # Kiai time
 
-*For regulations surrounding kiai time, see: [Ranking Criteria](/wiki/Ranking_Criteria)*
+*For regulations surrounding kiai time, see: [Ranking criteria](/wiki/Ranking_Criteria)*
 
-**Kiai Time** (or *kiai*) is a term given for a "special" timing section to help emphasise a part of a [beatmap](/wiki/Beatmap). Players can tell if a part of a beatmap has a kiai timing section if they see added visual effects in the background (e.g., flashing beats, flying stars, and fountains).
+::: Infobox
+![](img/kiai-time-osu-gameplay.png "Fountains at the start of a kiai section of an osu! beatmap")
+:::
 
-While kiai is active, all [hit objects](/wiki/Hit_object) will flash at the rhythm of the [main beat](/wiki/Client/Beatmap_editor/Timing) and stars will explode from the cursor when a [hit circle](/wiki/Hit_object/Hit_circle) is hit. Otherwise, they will fall from the cursor when a [slider](/wiki/Hit_object/Slider) or [spinner](/wiki/Hit_object/Spinner) is followed.
+::: Infobox
+![](img/kiai-time-taiko-gameplay.png "Kiai time in osu!taiko: ecstatic pippidon and violet-tinted conveyor belt")
+:::
+
+**Kiai time**, or *kiai*, is a set of distinctive visual effects emphasising a part of a [beatmap](/wiki/Beatmap), which is inspired[^taiko-roots] by Go-Go Time from the [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin) series. Kiai sections are indicated by spraying star fountains, stars falling from under the cursor, and [hit objects](/wiki/Gameplay/Hit_object) flashing to the beat with the frequency of [BPM](/wiki/Music_theory/Tempo). Similar effects, such as frequent sideways flashes and star fountains, are also visible in the [main menu](/wiki/Client/Interface#main-menu).
+
+While kiai time doesn't affect gameplay mechanics in osu!, osu!catch, or osu!mania, it provides a 20% [score](/wiki/Gameplay/Score) gain in [osu!taiko](/wiki/Game_mode/osu!taiko).
 
 ## Beatmapping
 
-Kiai time is most commonly used for the "strongest part of a song" which is usually the chorus. Since kiai sections are the strongest part of a song, they are typically slightly more challenging than the rest of the [beatmap](/wiki/Beatmap) to follow the song.
+::: Infobox
+![](img/kiai-time-editor.png "Kiai time indicator in the beatmap editor. The kiai section has orange colour on the bottom timeline")
+:::
 
-## osu!taiko
+Kiai time is most commonly used for the strongest part of a song, which is usually the chorus; such sections are typically more challenging than the rest of the beatmap. Kiai time may be enabled for certain [timing sections](/wiki/Beatmapping/Timing_section) by a mapper from the `Style` tab of the `Timing and Control Points` panel, and cannot be deactivated by the player.
 
-On [osu!taiko](/wiki/Game_mode/osu!taiko) beatmaps, kiai sections give 20% more [score](/wiki/Gameplay/Score).
+## References
 
-<!-- TODO: Add links -->
+[^taiko-roots]: [YouTube video by Dean Herbert "osu! "Kiai Time" preview"](https://www.youtube.com/watch?v=1iFHftUNMrE)

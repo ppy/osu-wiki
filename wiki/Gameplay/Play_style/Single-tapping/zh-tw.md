@@ -13,7 +13,7 @@ tags:
 
 # 單雙
 
-**單雙** 是遊玩 [osu!](/wiki/Game_mode/osu!) 的點擊方式，玩家固定使用同一鍵 (手指) 來點擊圈圈、滑條、和轉轉盤，只有在遇到[串燒](/wiki/Beatmap/Pattern/Stream)或是[堆疊](/wiki/Mapping_techniques/Stack) (也就是連打) 才會換成[假強雙](/wiki/Play_style/Double_tapping)或是[強雙](/wiki/Play_style/Alternating)。此為在玩家群中最常見，也是最容易上手的遊玩方式。
+**單雙** 是遊玩 [osu!](/wiki/Game_mode/osu!) 的點擊方式，玩家固定使用同一鍵 (手指) 來點擊圈圈、滑條、和轉轉盤，只有在遇到[串燒](/wiki/Beatmap/Pattern/osu!/Stream)或是[堆疊](/wiki/Beatmapping/Mapping_techniques/Stack) (也就是連打) 才會換成[假強雙](/wiki/Gameplay/Play_style/Double_tapping)或是[強雙](/wiki/Gameplay/Play_style/Alternating)。此為在玩家群中最常見，也是最容易上手的遊玩方式。
 
 ## 論點
 

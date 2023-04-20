@@ -1,6 +1,6 @@
 # Ringkasan game modifier
 
-*Halaman utama: [Game modifier](/wiki/Game_modifier)*
+*Halaman utama: [Game modifier](/wiki/Gameplay/Game_modifier)*
 
 <!-- READ BEFORE EDITING:
 - Mods are listed in order of appearance on the Mod Selection screen.

@@ -22,10 +22,13 @@ gmt:
     tournaments: tournament management
     wiki: wiki administration
     mapping: mapping/modding community moderation
+    skinning: skinning community moderation
+    leadership: team leadership
 nat:
   subgroups:
-    advisor: advisor
-    evaluator: evaluator
+    structural: structural
+    evaluation: evaluation
+    leadership: leadership
 languages:
   partial: some <language>
   # Note for translators: The following language names do *not* need to be included in your translation of group-info. The program will use language names from CLDR. However, you may include languages as you see fit if you want to override what the program normally does.
@@ -34,6 +37,7 @@ languages:
   be: Belarusian
   bg: Bulgarian
   bn: Bengali
+  bs: Bosnian
   ca: Catalan
   da: Danish
   de: German
