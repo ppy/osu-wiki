@@ -12,11 +12,11 @@ Aunque los ejemplos enseñados son modelados a partir de contexto de mapping esp
 
 ```md
 00:00:000 - Borra este slider
-00:01:000 - Añade círculo.
+00:01:000 - Añade un círculo.
 00:02:000 - Reduce el espacio aquí.
-00:02:000 - Haz que fluya mejor.
+00:02:000 - Haz que este flow sea más agudo.
 00:04:000 - Ctrl+G
-00:05:000 - Mueve a (100:200)
+00:05:000 - Muévelo a (100:200)
 00:06:000 - NC
 ```
 
@@ -75,8 +75,8 @@ En general, las notas deberían estar mapeadas a distintos sonidos de la canció
 
 ```md
 El soporte para la resolución panorámica es inconsistente y tu mapa no tiene storyboard, por lo tanto desactívalo para todas las dificultades.
-00:00:000 - El blanket está desalineada por 2 píxeles.
-00:01:000 - El punto de vista previa no está sobrelapado con el divisor de ritmo.
+00:00:000 - El blanket está desalineado por 2 píxeles.
+00:01:000 - El punto de vista previa no está ajustado, podría ajustarse.
 00:02:000 - Muévelo hacia arriba por 1 px.
 ```
 
@@ -102,9 +102,9 @@ Tu estilo de mapping es muy malo; limítate a mapear como todos los otros.
 
 ```md
 00:00:000 - Este ritmo está mal.
-00:01:000 - Pienso que puedes mejorar este arte de sliders un poco, intenta usar una figura más estética.
+00:01:000 - Pienso que puedes mejorar este arte de los sliders un poco, intenta usar una figura más estética.
 00:02:000 - Deberías de probar con algo más complejo aquí, esto se siente muy simple para lo que la canción sugiere.
-00:03:000 - El flujo está mal aquí.
+00:03:000 - El flow está mal aquí.
 ```
 
 **Aunque mencionar un problema es importante, también lo es ofrecer sugerencias y alternativas.** De esta manera, el mapper verá lo que tienes en mente y aplicarlo directamente en el mapa. Esto es especialmente útil cuando el mapper sabe del problema, pero no sabe solucionarlo por ellos mismos.
@@ -122,7 +122,7 @@ Deberías de remapear esto tbh.
 ---
 
 ```md
-Mi mod es de mejor calidad porque tengo más experiencia que tú, debes aplicarlo de cualquier modo!
+Mi mod es de mejor calidad porque tengo más experiencia que tú, ¡debes aplicarlo de cualquier modo!
 No sabes lo que es un mapa de calidad, aplica mi mod porque yo sí que lo sé.
 ```
 
@@ -131,10 +131,10 @@ No sabes lo que es un mapa de calidad, aplica mi mod porque yo sí que lo sé.
 ---
 
 ```md
-00:00:000 - has que esto fluya bien
+00:00:000 - haz de esto un buen flow
 00:01:000 - esto puede mejorar
 00:02:000 - mala estructura
-00:03:000 - ritmo está mal
+00:03:000 - el ritmo está mal
 ```
 
 **Cuando escribes una sugerencia, evita palabras ambiguas como «bien» y «mal».** No todo el mundo está de acuerdo con lo que está bien o no, especialmente en términos tan situacionales y subjetivos como es el [flow](/wiki/Beatmapping/Mapping_techniques/Flow). Intenta usar términos más objetivos como «cómodo/incómodo», «tranquilo/intenso», etc. Acuérdate de añadir ejemplos a tus mods dentro de la medida de lo posible.
@@ -160,7 +160,7 @@ La estética es subjetiva asi que voy a ignorar eso.
 ---
 
 ```md
-00:00:000 - tio, ¿siempre mapeas así de mal?
+00:00:000 - tío, ¿siempre mapeas así de mal?
 aprende a mapear y entonces podré modearlo correctamente
 este mapa se vería increible en la basura
 ```
