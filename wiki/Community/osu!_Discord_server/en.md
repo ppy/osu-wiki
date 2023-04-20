@@ -14,7 +14,7 @@ People new to the server are encouraged to introduce themselves in the `#introdu
 
 ## Channels
 
-The osu! Discord server features a number of channels, many of which are centered around the development of a specific project or two.
+The osu! Discord server features a number of channels, many of which are centred around the development of a specific project or two.
 
 ### General
 
