@@ -18,7 +18,7 @@ The osu! Discord server features a number of channels, many of which are centere
 
 ### General
 
-| Channel | Project |
+| Channel | Description |
 | :-- | :-- |
 | `#welcome` | Server information |
 | `#introduction` | Self-introductions |
@@ -26,17 +26,17 @@ The osu! Discord server features a number of channels, many of which are centere
 
 ### Client / Web
 
-| Channel | Project |
+| Channel | Description |
 | :-- | :-- |
 | `#osu` | [osu!(lazer)](/wiki/Client/Release_stream/Lazer) |
 | `#osu-framework` | [osu!framework](https://github.com/ppy/osu-framework) |
 | `#osu-web` | [osu!web](https://github.com/ppy/osu-web) |
 | `#github-feed` | Event feed for various [ppy GitHub repositories](https://github.com/ppy) |
-| `Meetings` (stage channel) | [osu! community meetings](/wiki/Community/osu!_community_meetings) and developer progress meetings |
+| `Meetings` (Stage channel) | [osu! community meetings](/wiki/Community/osu!_community_meetings) and developer progress meetings |
 
 ### Diffcalc
 
-| Channel | Project |
+| Channel | Description |
 | :-- | :-- |
 | `#difficulty-osu` | [osu!](/wiki/Game_mode/osu!) [star rating](/wiki/Beatmap/Star_rating) and [performance points](/wiki/Performance_points) calculation |
 | `#difficulty-taiko` | [osu!taiko](/wiki/Game_mode/osu!taiko) star rating and performance points calculation |
@@ -45,7 +45,7 @@ The osu! Discord server features a number of channels, many of which are centere
 
 ### Community
 
-| Channel | Project |
+| Channel | Description |
 | :-- | :-- |
 | `#featured-artists` | [Featured Artist](/wiki/People/Featured_Artists) beatmap creations, projects, and playlists |
 | `#mappers-guild` | The [Mappers' Guild](/wiki/Community/Mappers_Guild) |
@@ -58,6 +58,6 @@ The osu! Discord server features a number of channels, many of which are centere
 
 ### Archived
 
-| Channel | Project |
+| Channel | Description |
 | :-- | :-- |
 | `#modding` | [Modding v2](/wiki/Beatmap_discussion) and the [beatmap ranking system](/wiki/Beatmap_ranking_procedure) |
