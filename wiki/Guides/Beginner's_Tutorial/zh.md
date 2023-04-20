@@ -4,149 +4,149 @@
 
 ## 输入方式
 
-*主页面： [Play Styles](/wiki/Gameplay/Play_style)*
+*主页面： [玩法](/wiki/Gameplay/Play_style)*
 
-By default, a lot of players will start out with the mouse, since it's often the quickest available aiming tool by far. But there are actually multiple means of input to control the cursor and pop the circles:
+由于鼠标通常是目前为止可使用的最快瞄准工具，很多玩家会自然地从使用鼠标游玩开始。但实际上也有多种用于控制光标和点击圈圈的输入方式：
 
-- Mouse
-- Tablet
-- Touch Screen
-- Keyboard Clicking
+- 鼠标
+- 数位板
+- 触摸屏
+- 键盘点击
 
-There are other ways you can control the cursor (Wiimote, motion sensor, etc.) but for the purpose of the guide, we will focus on the four bulleted points.
+你也可以用其他方法控制光标（比如 Wiimote、动作传感器等等），但出于这篇教程的主要目的，我们只会着重介绍上述四个方法。
 
 ### 使用鼠标游玩
 
-If you are going to stick to use the mouse, it's suggested to get a mouse with a cord for stability, as wireless mice can disconnect or stutter. Any mouse can work just fine, though; some people use mice from a dollar store! It also helps to continue using the same mouse for a long time, so try and get one that will last you a good while! Mouse play tends to excel at:
+如果你坚持使用鼠标，建议你用有线鼠标以确保稳定性，因为无线鼠标会断连、卡顿。尽管如此，任何鼠标都可能正常工作；有人甚至用的是一元店里的鼠标！长时间使用同一个鼠标也有利于进步，因此试试买一个能让你用很长时间的鼠标吧！使用鼠标游玩往往擅长：
 
-- Jumping, especially in right angles or straight angles.
-- Stability and aim, making it easier to click "smaller" circles.
+- 大跳，尤其是直角跳。
+- 稳定性与瞄准，点击“小”圆圈会较为容易。
 
-Mouse play tends to struggle with:
+使用鼠标游玩往往会遇到如下困难：
 
-- Jumping back and forth in succession.
+- 连续前后大跳。
 
 ### 使用数位板游玩
 
-If you are going to use a tablet, you should try and pick an area on the tablet that you can comfortably play with. If you are going to buy a tablet to play osu! with, you should check out the [Tablet purchase](/wiki/Guides/Tablet_Purchase) guide. Additionally, buy some spare nibs, as you never know when you will need another one since they tend to wear out quickly, especially in highly active play. While you can use the tablet itself to tap the circles, most players prefer using a keyboard which we'll cover a bit later on. Tablet play tends to excel at:
+如果你想要使用数位板，你应该尝试在数位板上圈定一个你能舒适游玩的区域。如果想要买一个用来玩 osu! 的数位板，你应该浏览一下[数位板购买](/wiki/Guides/Tablet_Purchase)指南。除此之外，多买些笔吧，因为你不会知道什么时候需要换笔。笔往往很快会磨损，尤其在高强度游玩期间。尽管你可以直接使用数位板点击圆圈，大多数玩家更倾向于使用键盘点击，这种方法我们稍后会提及。使用数位板游玩往往擅长：
 
-- No cursor drift.
+- 光标不会漂移。
 - 移动与速度都很精准。
 
-Tablet play tends to struggle with:
+使用数位板游玩往往会遇到如下困难：
 
-- Jumping in right angles.
+- 直角跳。
 
 ### 使用触摸屏游玩
 
-Although rare, quite a few users play on a touchscreen. You should try not to press too hard on the touchscreen or find one that is quite sensitive to your tapping on the fingers, and better yet one that has a low latency. This should help increase the longevity of the screen you are using. Touchscreen tends to excel at:
+尽管这种方式很少见，也有相当一部分玩家使用。按触摸屏的力度不应过大，也不要用灵敏度太高的触摸屏，最好用延迟比较低的。这应该会延长屏幕的寿命。使用触摸屏游玩往往擅长：
 
-- Streaming long periods of notes and stamina.
-- Jumping long distances, especially corner to corner.
+- 长时间连打，即耐力。
+- 长距离大跳，尤其是角落间大跳。
 
-Touchscreen tends to struggle with:
+使用触摸屏游玩往往会遇到如下困难：
 
-- Aim, especially with smaller notes.
+- 瞄准，尤其是小圆圈。
 
-### 使用键盘打击
+### 使用键盘点击
 
-For mouse and tablet or any other input device, you may also use your keyboard (`Z` and `X` by default) to hit the circles instead. The benefit of doing so is spreading the physical movement across two hands, rather than doing the clicking with your aiming device, thus allowing you to more easily hit faster sections of notes. This takes some time to get used to, but if you decide on using your keyboard to tap circles, it's a good idea to get used to it early on.
+对于鼠标、数位板或任何其他输入设备，你也可以用键盘（默认是 `Z` 和 `X`）打击圆圈。这样做的好处是可以把物理动作分散到两只手上，而不是用瞄准设备点击，从而让你更容易打击更快部分的音符。需要一段时间来适应这种方式，但如果你已经决定使用键盘打击圆圈，还是尽早习惯为好。
 
 ## 游玩技能
 
 ### 准确度与计时
 
-One of the most important factors when playing osu! is your timing, much like other rhythm games! In this sense, if you've listened to a lot of music, it should be fairly easy to pick up on. The goal of accuracy and timing is to tap the notes at the correct time as precisely as possible.
+游玩 osu! 时，像其他音游中一样，计时是最重要的因素之一。从这种意义上来讲，如果你听过很多音乐，注意到这点应该相当容易。准确度与计时的目标是尽可能准确地在正确的时间打击音符。
 
-Each object in the game has an approach circle; a large ring that slowly approaches the hit circle itself. When the ring reaches the circle, it's time to tap it! If you pay attention to them carefully, it will help you recognise whether some notes are on half-beats or full beats, or whether you need to wait for the next note.
+游戏中的每个物件都有一个缩圈，是一个慢慢靠近打击圈的圆环。当这个圆环碰到圈时，是时候点击了！仔细注意它们会帮助你辨别出音符在整拍上还是半拍上，以及是否需要等待下一个音符。
 
-Music works in beats and rhythms. When you start a map (or even before you play) pay attention to the how the song sounds, and you can get a pretty good idea on the melody that you will be hitting circles to. Getting along with the music more closely will help you out in achieving better timing and coordination over it.
+音乐有节拍和节奏。当你开始打一张图（或是游玩之前），可以注意歌曲听起来的感觉，这样就可以很好地了解打击圆圈时跟随的韵律。与音乐紧密相处会帮助你获时间把控更加，协调度更好。
 
 ### 瞄准
 
-In a point-and-click game like osu!, aiming is also another important factor. Being able to get the notes at the right time is pretty pointless without being able to get your cursor to the right location. In this case, the most effective way to improve in this sector is to simply play the game. It also helps to play harder and harder maps, since the spacing between notes will likely get bigger, making you move around more and tap the notes from wider distances.
+在像 osu! 这样的“指向+点击”游戏中，瞄准也是一个重要因素。如果光标没有移动到正确位置，在正确时间打击音符是没有意义的。在这种情况下，提升这项技能最有效的方式就是玩游戏。这项技能也有助于玩更难的图，因为在这些图中，音符间的间距很可能会变得越来越大，让你要移动的距离更大，从更远的距离处点击音符。
 
-The best way you can practice for aiming without playing osu! is using your computer with input device of your own choice. Don't be afraid to practice by clicking around files on your computer if you're a mouse user, or to draw some art with your tablet. The added coordination will help you wonders later on!
+一种不玩 osu! 的情况下练习瞄准的最佳方法是用你选择的输入设备使用电脑。不要害怕练习。如果你使用鼠标，就试试点击电脑上的文件图标；也可以用你的数位板画些什么。由此获得的协调度会助你在未来创造奇迹！
 
 ### 速度
 
-Eventually, when you get to harder difficulties, you will need to click the notes more rapidly. Improving in speed is actually quite simple; all you need to do is push yourself into clicking or tapping the keyboard faster. You can play games that require you to input as fast as possible, like Cookie Clicker or other button pushing games (they are very easy to find online if you just Google it).
+最后，当你玩更难的难度时，你需要更快点击音符。速度上的提升实际上极为简单；你只需要胁迫自己更快地点击或按键盘。你可以玩玩需要你尽可能快输入的游戏，比如 Cookie Clicker 或其他按按钮的游戏（如果百度一下，还是很容易在网上找到的）。
 
 ### 练习
 
-Another heavy topic is the fact that osu! is a game with an infinitely rising difficulty curve, meaning there is no "winning" the game. Instead, you'll be focused on improving yourself constantly. Instead of playing one map over and over, you will need to eventually move onto other maps once you start outclassing their difficulty.
+另一个重要的话题：osu! 是一款拥有无限上升难度曲线的游戏，意味着没有“赢得”游戏一说。相应地，你会专注于持续提升自我。不要反复玩一张图，当你的能力远远超出目前谱面难度所需时，你最终需要游玩别的谱面。
 
-The best way to improve is to challenge yourself. The only way you will get used to more and more tenacious difficulties is by exploring past your boundaries. Playing a map that makes you miss quite a few times grants ultimately more gameplay experience than playing many that you can get a full combo on or even get an SS rank on. This works much like an MMORPG, the harder the enemy, the more experience you will get for it.
+提升的最佳方法是挑战自己。超越自己的边界去探索是适应更顽固难度的唯一方式。与玩许多可以 FC 甚至得 SS 的图相比，玩玩让你多次 miss 的图最终会让你获得更多的游玩经验。MMORPG 中也是如此，敌人越难打，你获得的经验就会更多。
 
-Don't be afraid to practise something that always makes you miss for one reason or another. You will need to find the challenge, and see what you need to do to meet that challenge. Do you need to hit the buttons faster? Do you need better timing? Do you need to be more precise when moving to notes? These are all questions that you can ask yourself. This will help you find your answer a lot more quickly and make your experience all the more worth it.
+不要害怕练习总会让你由于一个或另一个原因 miss 的东西。你需要寻找挑战，看看需要怎么做才能达成挑战目标。你需要更快按按钮吗？你的需要更好的计时吗？你需要更准确地移向音符吗？这些都是你可以问自己的问题。这会帮助你更快找到答案，让你的经历都更加值得。
 
-## Getting more out of Gameplay
+## 从游玩中学到更多
 
 ### 全局偏移量
 
-*主页面： [How to use the Offset Wizard](/wiki/Guides/How_to_Use_the_Offset_Wizard)*
+*主页面： [如何使用偏移量设置向导](/wiki/Guides/How_to_Use_the_Offset_Wizard)*
 
-Depending on the devices you use to play osu! with, you may find that the hit circles aren't quite on beat with the music. To correct this, you can change the global offset value in the [Settings](/wiki/Client/Options) menu. Global offset will change when the first note appears on beatmaps (either earlier or later than default), which in turn delays the rest of the notes by the same amount. A negative offset value will make notes appear slightly later, and a positive value will make them appear earlier.
+依赖于游玩 osu! 使用的设备，你可能会发现打击圈并不与音乐合拍。如果想要纠正，你可以在[设置](/wiki/Client/Options)菜单中改变全局偏移量。全局偏移量会改变谱面中第一个音符出现的时间（比默认时间更早或更晚），相应地按同样的值调整剩下的音符。负的偏移量会让音符稍晚出现，正值则会使之更早出现。
 
-In the [Offset Wizard](/wiki/Client/Options/Offset_Wizard), which you can access from the [Settings](/wiki/Client/Options) menu, a sample song will play with a metronome beat on top. Adjust the offset gradually using the up/down arrow keys or your mouse wheel until the beats of the metronome match when the bars cross the centre line.
+在[偏移量设置向导](/wiki/Client/Options/Offset_Wizard)中（可以从[设置](/wiki/Client/Options)中打开），会播放一首加上节拍器声音的示例歌曲。你可以使用上下箭头键或鼠标滚轮逐渐调整偏移量，直到节拍器声音与长条穿过中心线的时间相配为止。
 
-When you are playing a beatmap you will notice the Hit Error graph at the bottom of the screen. Hitting a note causes a white line to appear somewhere along it depending on how accurate you were. If all of your hits are to the left of the centre, try increasing your global offset slightly. If they are all on the right side, try decreasing it.
+当游玩谱面时，你会注意到屏幕底部的打击偏差图。基于准确度，打击音符会使一条白线在某处出现。如果所有的打击都在中心偏左侧，可以试试小幅增加全局偏移量。如果都在偏右侧，可以试试减小偏移量。
 
-Adjust your global offset until you are happy with it. Getting the right value will help to increase your overall accuracy!
+请调整全局偏移量，直到你感到满意为止。设置正确的偏移量值会帮助你提高整体准确度！
 
 ### 原始输入
 
-*See also: [Options](/wiki/Client/Options#mouse)*
+*另见： [选项](/wiki/Client/Options#mouse)*
 
-A commonly overlooked feature of the game is the Raw Input function. This allows for direct reading of your input device into osu! itself. You may use this too if you don't like how Windows handles your mouse cursor, or especially recommended if you use a tablet. Give it a try and play a few maps with it, you might find yourself a lot more comfortable with it!
+游戏中一个常被忽视的功能是原始输入功能。这项功能允许将输入设备的信息直接传入到 osu! 中。如果你使用数位板，推荐你使用此功能。如果你不喜欢 Windows 处理光标的方式，也可以使用此功能。试试它，用它打几张图，你也许会觉得舒适得多！
 
 ### 皮肤
 
-*See also: [Skinning](/wiki/Skinning)*
+*另见： [皮肤](/wiki/Skinning)*
 
-There are many, many skins to pick from; you can find them on the forums, linked in chat, or even by asking the other users! While these will not improve your gameplay, they can help motivate you, or make playing osu! easier on the eyes. Or, if you prefer to not have a lot of the osu! HUD blocking the screen, you could find a skin with a minimal approach. You can even find skins formed by [the pros](https://osu.ppy.sh/community/forums/topics/87675) and see what makes those skins more successful. Some skins have been built for ease of sight, while some are quirky and just for fun. Alas, it's another way you can get more enjoyment out of osu! and make your experience while climbing up the ranks a little nicer. ;)
+有许多许多的皮肤可供选择；你可以在论坛上、聊天消息的链接中找到它们，甚至也可以问问其他玩家！尽管皮肤不会提升游玩水平，但它们可以激励你，或者让 osu! 在视觉方面玩起来更简单。或者，如果你不想让很多 osu! 的 HUD 元素障眼，你也可以找找最小化皮肤。你甚至可以找到[专业人士](https://osu.ppy.sh/community/forums/topics/87675)制作的皮肤，看看是什么让它们更成功。一些皮肤出于可见性而制作，而另一些很奇特，只是为了取乐。哎，这是你可以在 osu! 中获得更多乐趣，让你在排行榜中攀升时的体验好一些的另一种方式。😉
 
 ## 推荐谱面
 
-试试这些谱面吧。They are ordered from the easiest to the most difficult, so try working your way down the list at your own pace!
+玩玩这些谱面吧。它们是从易到难排序的，试试按自己的节奏完成！
 
 ### 入门
 
-You can begin your adventure with these maps!
+从这里开始你的冒险吧！
 
-- [GReeeeN - Ai Uta (Taiko Cut) (arken1015) \[Kantan\]](https://osu.ppy.sh/beatmapsets/15901#osu/57281)(0.83 Stars)
-- [TOKINE - Soko ni Aru Mono (xierbaliti) \[Easy\]](https://osu.ppy.sh/beatmapsets/16789#osu/67008)(0.99 Stars)
-- [Rammstein - Mein Herz brennt (Piano Instrumental) (Sieg) \[Easy\]](https://osu.ppy.sh/beatmapsets/92617#osu/250553)(1.00 Stars)
-- [fripSide - a little christmas time (Darksonic) \[Easy\]](https://osu.ppy.sh/beatmapsets/64549#osu/191008)(1.03 Stars)
-- [Yoko Shimomura - A Twinkle in the Sky (MoodyRPG) \[Easy\]](https://osu.ppy.sh/beatmapsets/78896#osu/220650)(1.05 Stars)
-- [Sean Paul - She Doesn't Mind (Daniel Ngo Remix) (BounceBabe) \[Easy\]](https://osu.ppy.sh/beatmapsets/51859#osu/158917)(1.08 Stars)
-- [Anamanaguchi - This is the End (Kurai) \[Average Joe\]](https://osu.ppy.sh/beatmapsets/21525#osu/74686)(1.09 Stars)
-- [Infected Mushroom - The Pretender (Nemis) \[Easy\]](https://osu.ppy.sh/beatmapsets/82912#osu/240979)(1.10 Stars)
-- [Do As Infinity - Fukai Mori (Andrea) \[Easy Dan\]](https://osu.ppy.sh/beatmapsets/7065#osu/49478)(1.11 Stars)
-- [Nishiura Tomohito - Shop (samplefish) \[Easy\]](https://osu.ppy.sh/beatmapsets/166239#osu/404645)(1.13 Stars)
-- [Angela Chang - Aurora (Pasha_Khvan97) \[Easy\]](https://osu.ppy.sh/beatmapsets/162578#osu/397975)(1.14 Stars)
+- [GReeeeN - Ai Uta (Taiko Cut) (arken1015) \[Kantan\]](https://osu.ppy.sh/beatmapsets/15901#osu/57281)(0.83 星)
+- [TOKINE - Soko ni Aru Mono (xierbaliti) \[Easy\]](https://osu.ppy.sh/beatmapsets/16789#osu/67008)(0.99 星)
+- [Rammstein - Mein Herz brennt (Piano Instrumental) (Sieg) \[Easy\]](https://osu.ppy.sh/beatmapsets/92617#osu/250553)(1.00 星)
+- [fripSide - a little christmas time (Darksonic) \[Easy\]](https://osu.ppy.sh/beatmapsets/64549#osu/191008)(1.03 星)
+- [Yoko Shimomura - A Twinkle in the Sky (MoodyRPG) \[Easy\]](https://osu.ppy.sh/beatmapsets/78896#osu/220650)(1.05 星)
+- [Sean Paul - She Doesn't Mind (Daniel Ngo Remix) (BounceBabe) \[Easy\]](https://osu.ppy.sh/beatmapsets/51859#osu/158917)(1.08 星)
+- [Anamanaguchi - This is the End (Kurai) \[Average Joe\]](https://osu.ppy.sh/beatmapsets/21525#osu/74686)(1.09 星)
+- [Infected Mushroom - The Pretender (Nemis) \[Easy\]](https://osu.ppy.sh/beatmapsets/82912#osu/240979)(1.10 星)
+- [Do As Infinity - Fukai Mori (Andrea) \[Easy Dan\]](https://osu.ppy.sh/beatmapsets/7065#osu/49478)(1.11 星)
+- [Nishiura Tomohito - Shop (samplefish) \[Easy\]](https://osu.ppy.sh/beatmapsets/166239#osu/404645)(1.13 星)
+- [Angela Chang - Aurora (Pasha_Khvan97) \[Easy\]](https://osu.ppy.sh/beatmapsets/162578#osu/397975)(1.14 星)
 
 ### 新手
 
-After you play a bit, try these maps out.
+在小试牛刀之后，来试试这些谱面。
 
-- [Mutsuhiko Izumi - Russian Snowy Dance (Chocopikel) \[Easy\]](https://osu.ppy.sh/beatmapsets/38872#osu/124348)(1.21 Stars)
-- [goreshit - o'er the flood (grumd) \[Easy\]](https://osu.ppy.sh/beatmapsets/51972#osu/177139)(1.22 Stars)
-- [Hatsune Miku - Electric Love (Short Ver.) (KayeSara) \[Easy\]](https://osu.ppy.sh/beatmapsets/44591#osu/141749)(1.25 Stars)
-- [DJ YOSHITAKA feat. Hoshino Kanako - MAX LOVE (Mythol) \[Easy\]](https://osu.ppy.sh/beatmapsets/61846#osu/186601)(1.28 Stars)
-- [Akcent feat. Edward Maya - That's My Name (Barney Stinson) \[Easy\]](https://osu.ppy.sh/beatmapsets/41857#osu/132838)(1.28 Stars)
-- [Hatsune Miku - Do-re-mi-fa Rondo (Sylphi) \[Easy\]](https://osu.ppy.sh/beatmapsets/46800#osu/163457)(1.28 Stars)
+- [Mutsuhiko Izumi - Russian Snowy Dance (Chocopikel) \[Easy\]](https://osu.ppy.sh/beatmapsets/38872#osu/124348)(1.21 星)
+- [goreshit - o'er the flood (grumd) \[Easy\]](https://osu.ppy.sh/beatmapsets/51972#osu/177139)(1.22 星)
+- [Hatsune Miku - Electric Love (Short Ver.) (KayeSara) \[Easy\]](https://osu.ppy.sh/beatmapsets/44591#osu/141749)(1.25 星)
+- [DJ YOSHITAKA feat. Hoshino Kanako - MAX LOVE (Mythol) \[Easy\]](https://osu.ppy.sh/beatmapsets/61846#osu/186601)(1.28 星)
+- [Akcent feat. Edward Maya - That's My Name (Barney Stinson) \[Easy\]](https://osu.ppy.sh/beatmapsets/41857#osu/132838)(1.28 星)
+- [Hatsune Miku - Do-re-mi-fa Rondo (Sylphi) \[Easy\]](https://osu.ppy.sh/beatmapsets/46800#osu/163457)(1.28 星)
 
 ### 挑战
 
-Want to push yourself and take on a challenge? Try these!
+想要逼自己一把，来挑战一下？试试这些谱面！
 
-- [DJ Fresh - Gold Dust (galvenize) \[Easy\]](https://osu.ppy.sh/beatmapsets/28107#osu/96042)(1.32 Stars)
-- [Kyary Pamyu Pamyu - Ninjya Re Bang Bang (IchiGUN) \[Easy\]](https://osu.ppy.sh/beatmapsets/83333#osu/230174)(1.36 Stars)
-- [Carly Rae Jepsen - Call Me Maybe (Nightcore Mix) (Bakari) \[Easy\]](https://osu.ppy.sh/beatmapsets/56071#osu/172736)(1.36 Stars)
-- [Kicks N Licks Feat. Nicole Millar - Own The Night (MitiS DnB Remix) (Ami) \[Easy\]](https://osu.ppy.sh/beatmapsets/149045#osu/368307)(1.45 Stars)
-- [Gentle Stick X M2U - Hades in the Heaven (AngelHoney) \[Easy\]](https://osu.ppy.sh/beatmapsets/114488#osu/318994)(1.46 Stars)
+- [DJ Fresh - Gold Dust (galvenize) \[Easy\]](https://osu.ppy.sh/beatmapsets/28107#osu/96042)(1.32 星)
+- [Kyary Pamyu Pamyu - Ninjya Re Bang Bang (IchiGUN) \[Easy\]](https://osu.ppy.sh/beatmapsets/83333#osu/230174)(1.36 星)
+- [Carly Rae Jepsen - Call Me Maybe (Nightcore Mix) (Bakari) \[Easy\]](https://osu.ppy.sh/beatmapsets/56071#osu/172736)(1.36 星)
+- [Kicks N Licks Feat. Nicole Millar - Own The Night (MitiS DnB Remix) (Ami) \[Easy\]](https://osu.ppy.sh/beatmapsets/149045#osu/368307)(1.45 星)
+- [Gentle Stick X M2U - Hades in the Heaven (AngelHoney) \[Easy\]](https://osu.ppy.sh/beatmapsets/114488#osu/318994)(1.46 星)
 
 ## 继续前进
 
-Once you have exhausted the difficulty of the beatmaps listed here, don't stop there. Keep on going, and find some maps of a higher difficulty rating. Try even searching for beatmaps based on [difficulty suggestion](https://osu.ppy.sh/beatmapsets?c=recommended), as it will help you get an idea of where you need to go next. Don't be afraid to ask other users about improving, as mostly they will be nice and share you a pretty fun map to play that they also enjoyed, where their osu! world adventure begun. Lastly, but most importantly, have fun!
+在厌倦上述谱面的难度后，不要止步于此。请继续前进，找些难度较高的图。你也可以基于[推荐难度](https://osu.ppy.sh/beatmapsets?c=recommended)搜索谱面，因为它可以让你清楚下一步该怎么做。不要害怕问别的玩家如何提高，大多数情况下他们态度会很好，会给你发一张他们入门时也很喜欢的有趣的图。最后一件事，也是最重要的，玩得开心！
