@@ -66,10 +66,10 @@ Las reglas y pautas generales se aplican a todo tipo de dificultad de osu!mania.
 - **Los beatmaps solo pueden tener de 4 a 10 teclas.** Cualquier otra cosa no es compatible con la sección Clasificado.
 - **Si más de un modo de teclas es presente en un solo beatmap, las teclas deben ser denominadas en todos los nombres de dificultades. En caso de que no, no se deben de nombrar.**
 - **Si el [tiempo de drenaje](/wiki/Beatmap/Drain_time) de cada dificultad es...**
-  - **...menos de 2:30**, la dificultad más baja de cada modo de tecla incluido no puede ser más difícil que un Normal, **O** cada modo de tecla debe proporcionar una distribución adequada que contenga un mínimo de 4 dificultades en total.
-  - **...entre 2:30 y 3:15**, la dificultad más baja de cada modo de tecla incluido no puede ser más difícil que un Hard, **O** cada modo de tecla debe proporcionar una distribución adequada que contenga un mínimo de 3 dificultades en total.
-  - **...entre 3:15 y 4:00**, la dificultad más baja de cada modo de tecla incluido no puede ser más difícil que un Insane, **O** cada modo de tecla debe proporcionar una distribución adequada que contenga un mínimo de 2 dificultades en total.
-Una distribución de dificultades "adequada" *para dificultades Insane y más difíciles* es definida como una distribución con espacios de dificultad similares a los [niveles de dificultad](/wiki/Beatmap/Difficulty#difficulty-levels) más bajos como se especifica en los [criterios de dificultades específicas](#difficulty-specific).
+  - **...menos de 2:30**, la dificultad más baja de cada modo de tecla incluido no puede ser más difícil que un Normal, **O** cada modo de tecla debe proporcionar una distribución que comience al menos 3 niveles de dificultad por debajo de la dificultad más alta.
+  - **...entre 2:30 y 3:15**, la dificultad más baja de cada modo de tecla incluido no puede ser más difícil que un Hard, **O** cada modo de tecla debe proporcionar una distribución que comience al menos 2 niveles de dificultad por debajo de la dificultad más alta.
+  - **...entre 3:15 y 4:00**, la dificultad más baja de cada modo de tecla incluido no puede ser más difícil que un Insane, **O** cada modo de tecla debe proporcionar una distribución que comience al menos 1 nivel de dificultad por debajo de la dificultad más alta.
+- Sobre las dificultades Insane y más difícil, una distribución adecuada se define por brechas de dificultad relativa similares a las definidas formalmente entre dificultades más bajas.
 
 ### Pautas
 
