@@ -87,7 +87,7 @@ This article lists countries that have participated in official [osu!](/wiki/Gam
 | 3 | ::{ flag=US }:: United States | 1 | 3 | 2 |
 | 4 | ::{ flag=CN }:: China | 1 | 2 | 2 |
 | 5 | ::{ flag=JP }:: Japan |  | 2 |  |
-| 5 | ::{ flag=PH }:: Philippines |  | 2 |  |
+| 5 | ::{ flag=PH }:: Philippines | 1 | 2 |  |
 | 6 | ::{ flag=MY }:: Malaysia |  | 1 | 5 |
 | 7 | ::{ flag=TH }:: Thailand |  | 1 |  |
 | 8 | ::{ flag=ID }:: Indonesia |  |  | 1 |
