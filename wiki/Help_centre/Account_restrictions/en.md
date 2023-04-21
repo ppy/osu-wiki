@@ -16,6 +16,7 @@ The following features are disabled for restricted accounts:
 - uploading or updating beatmaps
 - updating profile details
 - store purchases
+- participating in or staffing for officially supported tournaments
 
 ## My account has been restricted! What do I do? {#what}
 

@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since:
+---
+
 # Einschränkungen des Accounts
 
 *Hauptseite: [Hilfecenter](/wiki/Help_centre)*
