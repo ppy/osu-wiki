@@ -272,7 +272,7 @@ The Rhythm Incarnate tier threshold is picked manually based on the season's par
 - [Rita - Hajimari no Toki (Deif) \[Platter\]](https://osu.ppy.sh/beatmapsets/91485#fruits/247642), suggested by [wwwww](https://osu.ppy.sh/users/8434466)
 - [Mili - Utopiosphere (Spectator) \[Ecstasia\]](https://osu.ppy.sh/beatmapsets/187177#fruits/446769), suggested by [Kimitakari](https://osu.ppy.sh/users/4741164)
 - [Persona - Area184 (autofanboy) \[Rain184\]](https://osu.ppy.sh/beatmapsets/160955#fruits/393051), suggested by [SadEgg](https://osu.ppy.sh/users/10278243)
-- [Hylian Lemon - Foresight Is for Losers (ZiRoX) \[Collab Rain\]](https://osu.ppy.sh/beatmapsets/342751#fruits/757539), suggested by [wonjae](https://osu.ppy.sh/users/5032045)
+- [Hylian Lemon - Foresight Is for Losers (ZiRoX & Deif) \[Collab Rain\]](https://osu.ppy.sh/beatmapsets/342751#fruits/757539), suggested by [wonjae](https://osu.ppy.sh/users/5032045)
 - [void feat. Komatsuna - Akatsuki no Tsuki (Spectator) \[Oriental\]](https://osu.ppy.sh/beatmapsets/297668#fruits/668162), suggested by [wonjae](https://osu.ppy.sh/users/5032045)
 - [Halozy - Genryuu Kaiko (CLSW) \[Distorted Scythe\]](https://osu.ppy.sh/beatmapsets/253969#fruits/582801), suggested by [SadEgg](https://osu.ppy.sh/users/10278243)
 - [Camellia - dreamless wanderer (CLSW) \[Crystal's Overdose\]](https://osu.ppy.sh/beatmapsets/286414#fruits/686374), suggested by [SadEgg](https://osu.ppy.sh/users/10278243)
