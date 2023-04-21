@@ -24,4 +24,4 @@ Durante los períodos de mantenimiento, Bancho a veces se reinicia. Esto se tran
 
 ## Referencias
 
-[^score-upload-ref]: [Tuit de @osustatus (30/07/2019)](https://twitter.com/osustatus/status/1156092746685243392)
+[^score-upload-ref]: [Tuit de @osustatus (30/7/2019)](https://twitter.com/osustatus/status/1156092746685243392)
