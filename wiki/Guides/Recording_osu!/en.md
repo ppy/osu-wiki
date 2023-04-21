@@ -15,6 +15,7 @@ Always wanted to make a video for YouTube about osu!, but never figured a good w
   - [Sony Vegas](https://www.vegascreativesoftware.com/us/vegas-pro/)
   - [Adobe Premier](https://www.adobe.com/products/premiere.html)
   - [AVS Video Editor](https://www.avs4you.com/avs-video-editor.aspx)
+  - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
   
 ### Configuring Fraps
 
