@@ -9,6 +9,7 @@ When an account is restricted, it is unable to interact with the community until
 The following features are disabled for restricted accounts:
 
 - ability to enter official contests
+- ability to participate in and staff for officially supported tournaments
 - ability to participate in multiplayer rooms
 - in-game chat
 - private messaging
@@ -16,7 +17,6 @@ The following features are disabled for restricted accounts:
 - uploading or updating beatmaps
 - updating profile details
 - store purchases
-- participating in or staffing for officially supported tournaments
 
 ## My account has been restricted! What do I do? {#what}
 
