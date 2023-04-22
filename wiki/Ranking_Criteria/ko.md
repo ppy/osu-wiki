@@ -299,5 +299,5 @@
 ## 참조
 
 [^character-voice-actor]: `CV` (Character Voice)는 캐릭터의 성우가 캐릭터로써 노래를 부를 때 사용합니다. `VO` (Voice Over)는 캐릭터의 성우가 아닌 다른 사람이 캐릭터로써 노래를 부를 때 사용합니다.
-[^maximum-dimensions]: 스토리보드 이미지로도 사용하는 배경의 최대 크기는 [스토리보드의 이미지 규칙](/wiki/Ranking_Criteria#rules.7)을 따를 수 있습니다.
+[^maximum-dimensions]: 스토리보드 이미지로도 사용하는 배경의 최대 크기는 [스토리보드의 이미지 규칙](/wiki/Ranking_Criteria#규칙.7)을 따를 수 있습니다.
 [^normal-vs-addition]: [히트 사운드](/wiki/Beatmapping/Hitsound)는 항상 표현되는 *hitnormal* 샘플과 휘슬, 피니시, 클랩 샘플의 조합인 *additions*로 구성됩니다.
