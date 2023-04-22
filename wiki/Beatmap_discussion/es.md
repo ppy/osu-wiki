@@ -1,16 +1,10 @@
 ---
-outdated_translation: true
-outdated_since: 2da3d3ec26261552cc7ae67298d375b939addbf3
----
-
----
 tags:
   - beatmap discussions
   - modding V2
   - MV2
+no_native_review: true
 ---
-
-<!-- TODO: the interface has changed quite a bit. this whole article should be rechecked to make sure it all makes sense still -->
 
 # Discusión del mapa
 
@@ -167,5 +161,3 @@ Los propietarios de una publicación en una página de discusión pueden usar he
 `Editar` permite a un usuario editar su envío en caso de errores. Esto no está destinado a ser utilizado para responder a los mensajes. Crea una nueva respuesta en su lugar.
 
 `Eliminar` permite al remitente eliminar su envío en caso de errores graves. Esta característica está deshabilitada para las publicaciones con discusión para impedir las eliminaciones causadas por discusiones acaloradas.
-
-<!--TODO: insert lots of links-->
