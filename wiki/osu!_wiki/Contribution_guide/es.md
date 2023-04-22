@@ -8,7 +8,7 @@ no_native_review: true
 
 No se espera que los nuevos colaboradores estén familiarizados con GitHub o [git](https://git-scm.com/), ya que son herramientas diseñadas principalmente para desarrolladores. No se preocupe si no hace algo bien la primera vez, un [mantenedor de la wiki](/wiki/People/osu!_wiki_maintainers) lo guiará en la dirección correcta o lo arreglará por usted.
 
-En caso de necesitar consejos durante alguna etapa, no dudes en preguntar en el canal `#osu-wiki` del [servidor de Discord osu!dev](/wiki/Community/osu!dev_Discord_server).
+En caso de necesitar consejos durante alguna etapa, no dudes en preguntar en el canal `#osu-wiki` del [servidor de Discord osu!](/wiki/Community/osu!_Discord_server).
 
 ## Áreas de interés
 
@@ -38,7 +38,7 @@ Cuando haya terminado de editar, tómese un tiempo para revisar su trabajo. Revi
 - **Estilo y gramática**: los artículos deben ser claros, comprensibles y no requerir un esfuerzo mental significativo por parte del lector. Sea consistente y evite oraciones demasiado complicadas o abruptas. Use editores con correctores ortográficos incorporados, como [Documentos de Google](https://docs.google.com), para exponer errores tipográficos y gramaticales o de sintaxis.
 - **[Paridad de contenido](/wiki/Article_styling_criteria/Writing#paridad-de-contenido)**: las traducciones deben contener la misma información que los artículos originales (obviamente se esperan diferencias en la puntuación, redacción o formato). En lugar de cambiar el contenido de la traducción, [abre una propuesta](https://github.com/ppy/osu-wiki/issues/new) o una solicitud de cambios adicional para el original si crees que está incompleto, inexacto o desactualizado.
 - **Estructura y formato**: obtenga una vista previa de su artículo con una herramienta como [Markdown Editor de jbt](https://jbt.github.io/markdown-editor/) para asegurarse de que se ve exactamente como usted quería que fuera.
-- **Todas las imágenes y otros archivos** que no sean de texto deben tener [menos de 1 megabyte](/wiki/Article_styling_criteria/Formatting#tamaño-de-los-archivos). Las **capturas de pantalla** deben usar la skin de osu! predeterminada y las [configuraciones específicas](/wiki/Article_styling_criteria/Formatting#capturas-de-pantalla-del-juego), incluyendo las dimensiones máximas de 1280×720.
+- **Todas las imágenes y otros archivos** que no sean de texto deben tener [menos de 1 megabyte](/wiki/Article_styling_criteria/Formatting#tamaño-del-archivo). Las **capturas de pantalla** deben usar la skin de osu! predeterminada y las [configuraciones específicas](/wiki/Article_styling_criteria/Formatting#capturas-de-pantalla-del-juego), incluyendo las dimensiones máximas de 1280×720.
 
 Para estándares de escritura y formato más específicos, consulte los [criterios de estilo para artículos](/wiki/Article_styling_criteria). No se recomienda leerlo todo de una vez, un revisor probablemente señalará si es necesario corregir algo de cualquier manera.
 
@@ -57,7 +57,7 @@ Todos los cambios en la osu! wiki son moderados. Durante esa etapa, otros colabo
 Si nadie lo ha revisado al cabo de un par de días, intente lo siguiente:
 
 - Asegúrese de haber resuelto todas las sugerencias, es posible que las personas estén esperando sus respuestas.
-- Pregunta a otros editores de la osu! wiki en el [servidor de Discord osu!dev](/wiki/Community/osu!dev_Discord_server) (canal `#osu-wiki`) o en los comentarios de GitHub.
+- Pregunta a otros editores de la osu! wiki en el [servidor de Discord osu!](/wiki/Community/osu!_Discord_server) (canal `#osu-wiki`) o en los comentarios de GitHub.
 - Para obtener ayuda con la traducción, consulte un par de solicitudes de cambios fusionadas para su idioma y póngase en contacto con sus revisores y/o autores ([ejemplo de consulta de GitHub](https://github.com/ppy/osu-wiki/pulls?q=is:pr+is:merged+[ES])).
 - ¡Pide a tus amigos un vistazo rápido!
 
@@ -65,6 +65,6 @@ Además de un proceso de revisión manual, el repositorio de la osu! wiki tiene 
 
 ## Fusión
 
-Eventualmente, uno de los [mantenedores de la wiki](/wiki/People/osu!_wiki_maintainers) verificará sus cambios, generalmente después de las revisiones de otros colaboradores. Si no sucede nada después de un tiempo razonable, pregunte en los comentarios de la solicitud de cambios o en el canal `#osu-wiki` del [servidor de Discord osu!dev](/wiki/Community/osu!dev_Discord_server). Tus cambios aparecerán en la osu! wiki poco después de la fusión (en casos excepcionales, esto puede demorar hasta cinco horas).
+Eventualmente, uno de los [mantenedores de la wiki](/wiki/People/osu!_wiki_maintainers) verificará sus cambios, generalmente después de las revisiones de otros colaboradores. Si no sucede nada después de un tiempo razonable, pregunte en los comentarios de la solicitud de cambios o en el canal `#osu-wiki` del [servidor de Discord osu!](/wiki/Community/osu!_Discord_server). Tus cambios aparecerán en la osu! wiki poco después de la fusión (en casos excepcionales, esto puede demorar hasta cinco horas).
 
 [osu_wiki]: https://github.com/ppy/osu-wiki
