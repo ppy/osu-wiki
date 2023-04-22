@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Personas
 
 Página de índice para artículos sobre personas o grupos.
