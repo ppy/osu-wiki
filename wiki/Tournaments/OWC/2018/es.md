@@ -2,6 +2,7 @@
 tags:
   - OWC 2018
   - OWC2018
+no_native_review: true
 ---
 
 # osu! World Cup 2018
@@ -27,7 +28,7 @@ La **osu! World Cup 2018** (***OWC 2018***) fue un torneo por países organizado
 
 | Posición | Premio(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1er lugar") |  $300 por miembro del equipo, mercancía exclusiva de una sola tira, insignia única para el perfil, título de usuario "osu! Champion" por un año |
+| ![Gold crown](/wiki/shared/crown-gold.png "1er lugar") | $300 por miembro del equipo, mercancía exclusiva de una sola tira, insignia única para el perfil, título de usuario "osu! Champion" por un año |
 | ![Silver crown](/wiki/shared/crown-silver.png "2do lugar") | US$160 por miembro del equipo, mercancía exclusiva de una sola tira, insignia única para el perfil |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3er lugar") | US$80 por miembro del equipo, mercancía exclusiva de una sola tira, insignia única para el perfil |
 
@@ -486,7 +487,7 @@ Domingo, 11 de noviembre de 2018:
 4. Los dos mejores equipos de cada grupo pasarán a las Fases de eliminación.
    - Esto puede cambiar con la configuración real de la fase de grupos.
 5. Las siguientes fases son Fases de doble eliminación. Esto significa que el ganador pasa a la siguiente fase y el equipo perdedor pasa al bracket perdedor.
-6.  Según [esta](/wiki/shared/stages-visual.png) imagen, las fases se dividen de la siguiente manera:
+6. Según [esta](/wiki/shared/stages-visual.png) imagen, las fases se dividen de la siguiente manera:
 
 | Fase | ID de la partida |
 | --: | :-- |
