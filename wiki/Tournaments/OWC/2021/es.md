@@ -581,7 +581,7 @@ La clasificación final para la fase de clasificación se puede encontrar en la 
 ### Instrucciones del Mappool
 
 1. Habrá un nuevo mappool para cada fase.
-2. Cada mappool consiste de 5 brackets: NoMod, [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time) y FreeMod. Cada pool también tendrá un mapa de "Desempate" (puede encontrar una explicación más detallada sobre este bracket especial [aquí](/wiki/Tournaments/OWC/2021#tournament-rules)).
+2. Cada mappool consiste de 5 brackets: NoMod, [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock), [DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time) y FreeMod. Cada pool también tendrá un mapa de "Desempate" (puede encontrar una explicación más detallada sobre este bracket especial [aquí](/wiki/Tournaments/OWC/2021#reglas-del-torneo)).
    - La fase de Clasificación no tendrá un bracket de FreeMod, ni tendrá un Desempate.
 3. Cada mappool tiene un tamaño específico dependiendo de la fase.
    - **Los mappools de dieciseisavos de final y octavos de final tendrán 5 mapas NoMod, 3 mapas DoubleTime y 2 mapas para cada uno de los brackets de mods restantes.**
