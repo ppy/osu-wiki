@@ -84,54 +84,52 @@ tags:
 
 | 名字 | 语言 | 小组 |
 | :-- | :-- | :-- |
-| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) |  | 顾问[^task-mo] |
-| ::{ flag=SG }:: [achyoo](https://osu.ppy.sh/users/7823498) | 汉语 | 评估者 |
-| ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) |  | 评估者 |
-| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | 白俄罗斯语，俄语 | 评估者 |
-| ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | 粤语，汉语 | 评估者 |
-| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | 葡萄牙语 | 评估者 |
-| ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | 评估者 |
-| ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | 汉语 | 评估者 |
-| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | 德语 | 评估者 |
-| ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | 瑞典语 | 顾问[^task-naxess] |
-| ::{ flag=GB }:: [nexusqi](https://osu.ppy.sh/users/13822800) |  | 评估者 |
-| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | 顾问[^task-pishifat] |
-| ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | 评估者 |
-| ::{ flag=AT }:: [Stixy](https://osu.ppy.sh/users/9000308) | 德语，塞尔维亚语 | 评估者 |
-| ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) |  | 顾问[^task-uberfazz] |
-| ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | 荷兰语 | 评估者 |
-| ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  | 评估者 |
-| ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | 波兰语 | 评估者 |
+| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) |  | Structural[^task-mo] |
+| ::{ flag=SG }:: [achyoo](https://osu.ppy.sh/users/7823498) | 汉语 | Evaluation，structural |
+| ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) |  | Evaluation |
+| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | 白俄罗斯语，俄语 | Evaluation |
+| ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | 粤语，汉语 | Evaluation |
+| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | 葡萄牙语 | Evaluation |
+| ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | Evaluation |
+| ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | 汉语 | Evaluation |
+| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | 德语 | Evaluation，structural |
+| ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | 瑞典语 | Structural[^task-naxess] |
+| ::{ flag=GB }:: [nexusqi](https://osu.ppy.sh/users/13822800) |  | Evaluation |
+| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | Structural[^task-pishifat] |
+| ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | Evaluation，structural |
+| ::{ flag=AT }:: [Stixy](https://osu.ppy.sh/users/9000308) | 德语，塞尔维亚语 | Evaluation |
+| ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | 荷兰语 | Evaluation |
+| ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  | Evaluation |
+| ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | 波兰语 | Evaluation |
 
 ### osu!taiko
 
 | 名字 | 语言 | 小组 |
 | :-- | :-- | :-- |
-| ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | 德语 | 评估者 |
-| ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | 乌尔都语，一部分阿拉伯语 | 评估者 |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | 阿拉伯语，法语，一部分意大利语 | Leader |
-| ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | 葡萄牙语 | 评估者 |
-| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | Leader |
+| ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | 德语 | Evaluation |
+| ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | 乌尔都语，一部分阿拉伯语 | Evaluation |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | 阿拉伯语，法语，一部分意大利语 | Leadership |
+| ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | 葡萄牙语 | Evaluation |
+| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | Leadership |
 
 ### osu!catch
 
 | 名字 | 语言 | 小组 |
 | :-- | :-- | :-- |
-| ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | 西班牙语，德语 | 评估者 |
-| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | 荷兰语 | 评估者 |
+| ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | 西班牙语，德语 | Evaluation |
+| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | 荷兰语 | Evaluation |
 
 ### osu!mania
 
 | 名字 | 语言 | 小组 |
 | :-- | :-- | :-- |
-| ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229) | 汉语 | 评估者 |
-| ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | 越南语 | 评估者 |
-| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | 印度尼西亚语 | 评估者 |
-| ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872) |  | 评估者 |
+| ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229) | 汉语 | Evaluation |
+| ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | 越南语 | Evaluation |
+| ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | 西班牙语 | Evaluation |
+| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | 印度尼西亚语 | Evaluation |
 
 ## 备注
 
 [^task-mo]: 主要处理内部讨论、事务和文档
 [^task-naxess]: 主要负责维护 [Aiess](https://github.com/Naxesss/Aiess) 和 [Mapset Verifier (MV)](https://github.com/Naxesss/MapsetVerifier)
 [^task-pishifat]: 主要负责维护 [NAT/BN 网站](https://bn.mappersguild.com/home)
-[^task-uberfazz]: 除了其他事务外，还管理顾问小组
