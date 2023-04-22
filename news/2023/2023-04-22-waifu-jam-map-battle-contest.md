@@ -35,21 +35,21 @@ Entries can be submitted for about 2 weeks from this announcement, so get mappin
 
 ### Ironmouse & Camellia - Waifu Jam
 
-[Download the beatmap template here!](LINK)
+[Download the beatmap template here!](https://assets.ppy.sh/artists/31/Songs/Ironmouse%20and%20Camellia%20-%20Waifu%20Jam%20(osu!%20edit).osz)
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/31/Songs/Ironmouse%20and%20Camellia%20-%20Waifu%20Jam%20(osu!%20edit).mp3">
 </audio>
 
 Be sure to use this exact version of the song, since it's formatted specifically for this contest!
 
-And once your map is ready, [submit it here!](https://forms.gle/eofd7fqfk5Hp8ap76)
+And once your map is ready, [submit it here!](https://osu.ppy.sh/community/contests/176)
 
 ## Rules
 
 The rules for this contest are as follows:
 
-- **Submission must be in `.osz` format with only ONE difficulty.**
+- **Submission must be in `.osz` format with only ONE difficulty for the song "*Ironmouse & Camellia - Waifu Jam*".**
 - **Beatmap must be in *osu!* game mode only.**
 - **Beatmap must be passable without using game breaking techniques.** However, the Ranking Criteria does NOT apply.
 - **Collaborations are not allowed.**
@@ -67,8 +67,8 @@ The winners of the contest will be awarded with:
 
 ---
 
-If you're looking for more info about this new spin on a mapping contest, you can read all the most up-to-date info on [the contest's forum thread](LINK)!
+If you're looking for more info about this new spin on a mapping contest, you can read all the most up-to-date info on [the contest's forum thread](https://osu.ppy.sh/community/forums/topics/1754310)!
 
-And of course, [**submit your map here**](https://forms.gle/eofd7fqfk5Hp8ap76) by May 7th!
+And of course, [**submit your map here**](https://osu.ppy.sh/community/contests/176) by May 7th!
 
 —Kroytz
