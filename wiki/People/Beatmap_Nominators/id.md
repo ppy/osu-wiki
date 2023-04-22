@@ -96,7 +96,7 @@ Berikut merupakan daftar seluruh anggota Beatmap Nominator beserta dengan mode p
 | ::{ flag=BE }:: [Stack](https://osu.ppy.sh/users/6122935) | Belanda |
 | ::{ flag=BA }:: [Stompy\_](https://osu.ppy.sh/users/16429579) | Bosnia |
 | ::{ flag=TH }:: [timemon](https://osu.ppy.sh/users/2072005) | Thai |
-| ::{ flag=LT }:: [tomatas95](https://osu.ppy.sh/users/11403815) | Lithuania |
+| ::{ flag=LT }:: [tomatas95](https://osu.ppy.sh/users/11403815) | Lituavi |
 | ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) |  |
 | ::{ flag=US }:: [Usaha](https://osu.ppy.sh/users/6443117) |  |
 | ::{ flag=CA }:: [Vararaup](https://osu.ppy.sh/users/8257675) |  |
