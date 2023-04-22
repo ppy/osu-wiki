@@ -1,5 +1,5 @@
 ---
-tag:
+tags:
   - sejarah
   - papan peringkat
   - peringkat 1
