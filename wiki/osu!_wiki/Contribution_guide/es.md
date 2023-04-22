@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Guía de contribución a la osu! wiki
 
 ¡Gracias por su interés en hacer la osu! wiki mejor! Este artículo cubre el proceso de contribución paso a paso. En caso de que esté familiarizado con GitHub, siéntase libre de seguir el flujo de trabajo de rama de función común para proponer cambios y salte a la sección de [autocomprobación](#autocomprobación).
