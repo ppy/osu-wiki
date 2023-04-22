@@ -2,6 +2,7 @@
 tags:
   - OWC 2015
   - OWC2015
+no_native_review: true
 ---
 
 # osu! World Cup 2015
@@ -90,7 +91,7 @@ La osu! World Cup 2015 estuvo a cargo de varios miembros de la comunidad.
 
 ## Grupos
 
-| Grupo| Semilla superior | Semilla alta | Semilla media | Semilla baja |
+| Grupo | Semilla superior | Semilla alta | Semilla media | Semilla baja |
 | :-: | :-- | :-- | :-- | :-- |
 | **A** | ::{ flag=US }:: Estados Unidos | ::{ flag=AU }:: Australia | ::{ flag=MY }:: Malasia | ::{ flag=MX }:: México |
 | **B** | ::{ flag=FR }:: Francia | ::{ flag=HK }:: Hong Kong | ::{ flag=LT }:: Lituania | ::{ flag=IT }:: Italia |
