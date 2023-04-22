@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 4c1bc46ae8d3a5de7318f21a2c9024ee5098c944
+---
+
 # QAT Leaders
 
 Après le départ de [Loctav](https://osu.ppy.sh/users/71366) de la direction d'osu! à la fin de l'année 2017, la [Quality Assurance Team](/wiki/People/Quality_Assurance_Team) (*QAT*) a élu des **chefs d'équipe** pour prendre le contrôle du groupe. Cette décision a été prise car les membres de la QAT pensaient que Loctav et [Ephemeral](https://osu.ppy.sh/users/102335) avaient trop de contrôle sur le groupe, et que la QAT serait mieux dirigée par ses propres membres.

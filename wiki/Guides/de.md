@@ -1,5 +1,3 @@
-<!-- TODO: change link as soon as German article is available (line 12) -->
-
 # Tutorials
 
 Unten findet sich eine Liste an Tutorials, die von Mitgliedern der osu!-Community erstellt wurden. Die meisten Tutorials entstanden in den osu!-Foren und wurden in das osu!-Wiki integriert.
@@ -9,7 +7,7 @@ Unten findet sich eine Liste an Tutorials, die von Mitgliedern der osu!-Communit
 *Hauptseite: [Beatmapping](/wiki/Beatmapping)*
 
 - [Ratgeber für das Bearbeiten von Audio](Audio_Editing)
-- [Den Titeltext ändern](/wiki/Beatmap/Title_text#changing-title-text)
+- [Den Titeltext ändern](/wiki/Beatmap/Title_text#changing-title-text)<!-- TODO: change link as soon as German article is available -->
 - [Dateien komprimieren](Compressing_files)
 - [Bibliothek für selbst erstellte Hitsounds](Custom_Hitsound_Library)
 - [Benutzerdefinierte Überschreibung von Audiosamples](Custom_Sample_Overrides)
@@ -28,6 +26,7 @@ Unten findet sich eine Liste an Tutorials, die von Mitgliedern der osu!-Communit
 
 *Hauptseite: [Modding](/wiki/Modding)*
 
+- [Häufige Modding-Fehler](Common_modding_mistakes)
 - [Wie du deine Map gemoddet bekommst](Getting_Your_Map_Modded)
 - [Modding-Tutorial für osu!mania](osu!mania_modding_guide)
 
