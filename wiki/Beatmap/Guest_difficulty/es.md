@@ -25,4 +25,4 @@ Las dificultades de invitados no deben confundirse con las dificultades que pres
 
 En la [página de discusión del mapa](/wiki/Beatmap_discussion), el anfitrión del mapa puede transferir la propiedad de las dificultades de invitados a sus respectivos mapeadores a través del botón "Propietario de la dificultad". Esto permite que los propietarios de las dificultades de invitados resuelvan los problemas pendientes en sus dificultades por su cuenta.
 
-La propiedad de una dificultad de invitado no se puede cambiar si el mapa de ritmos está [Calificado](/wiki/Beatmap/Category#qualified), [Clasificado](/wiki/Beatmap/Category#ranked), o [Amado](/wiki/Beatmap/Category#loved).
+La propiedad de una dificultad de invitado no se puede cambiar si el mapa de ritmos está [Calificado](/wiki/Beatmap/Category#calificados), [Clasificado](/wiki/Beatmap/Category#clasificados), o [Amado](/wiki/Beatmap/Category#amados).
