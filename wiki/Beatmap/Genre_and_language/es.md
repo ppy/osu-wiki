@@ -25,7 +25,7 @@ El género y el idioma se pueden cambiar en el sitio web haciendo clic en el íc
 
 - Los propietarios de los conjuntos de mapas están permitidos cuando el mapa está en la categoría [Trabajo en progreso](/wiki/Beatmap/Category#trabajos-en-progreso-y-pendientes), [Pendiente](/wiki/Beatmap/Category#trabajos-en-progreso-y-pendientes), o [Abandonado](/wiki/Beatmap/Category#abandonados), y no tiene ninguna [nominación](/wiki/Beatmap_ranking_procedure#nominations).
 - Los [Beatmap Nominators](/wiki/People/Beatmap_Nominators) están permitidos cuando el mapa está en la categoría [Calificado](/wiki/Beatmap/Category#calificados), Trabajo en progreso, o Pendiente.
-- Los miembros del [Project Loved Team](/wiki/People/Project_Loved_Team) están permitidos cuando el mapa está en la categoría [Amado](/wiki/Beatmap/Category#amadoss).
+- Los miembros del [Project Loved Team](/wiki/People/Project_Loved_Team) están permitidos cuando el mapa está en la categoría [Amado](/wiki/Beatmap/Category#amados).
 - Los miembros del [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) y del [Global Moderation Team](/wiki/People/Global_Moderation_Team) están permitidos en todas las categorías.
 
 Un mapa no puede ser [nominado](/wiki/Beatmap_ranking_procedure#nominations) si tiene el género o idioma `No especificado`.
