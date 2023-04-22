@@ -108,8 +108,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad
 
 | Team A | Team B | Match time |  |
 | --: | :-- | :-- | :-: |
-| South Korea ::{ flag=KR }:: | ::{ flag=CN }:: China | [Apr 22 (Sat) 10:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230422T100000&p1=1440&p2=235&p3=33) | [^losers-bracket] |
-| United States ::{ flag=US }:: | ::{ flag=DE }:: Germany | [Apr 22 (Sat) 19:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230422T190000&p1=1440&p2=263&p3=37) | [^losers-bracket] |
+| South Korea ::{ flag=KR }:: | ::{ flag=CN }:: China | [Apr 22 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230422T130000&p1=1440&p2=235&p3=33) | [^losers-bracket] |
+| United States ::{ flag=US }:: | ::{ flag=DE }:: Germany | [Apr 22 (Sat) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230422T200000&p1=1440&p2=263&p3=37) | [^losers-bracket] |
 
 ### Sunday, 23 April 2023
 
@@ -117,8 +117,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad
 | --: | :-- | :-- | :-: |
 | United States ::{ flag=US }:: | ::{ flag=KR }:: South Korea | [Apr 23 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230423T030000&p1=1440&p2=263&p3=235) | [^potential-match] |
 | United States ::{ flag=US }:: | ::{ flag=CN }:: China | [Apr 23 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230423T030000&p1=1440&p2=263&p3=33) | [^potential-match] |
-| Japan ::{ flag=JP }:: | ::{ flag=TW }:: Taiwan | [Apr 23 (Sun) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230423T080000&p1=1440&p2=248&p3=241) | [^winners-bracket] |
-| Germany ::{ flag=DE }:: | ::{ flag=KR }:: South Korea | [Apr 23 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230423T110000&p1=1440&p2=37&p3=235) | [^potential-match] |
+| Japan ::{ flag=JP }:: | ::{ flag=TW }:: Taiwan | [Apr 23 (Sun) 05:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230423T050000&p1=1440&p2=248&p3=241) | [^winners-bracket] |
+| Germany ::{ flag=DE }:: | ::{ flag=KR }:: South Korea | [Apr 23 (Sun) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230423T080000&p1=1440&p2=37&p3=235) | [^potential-match] |
 | Germany ::{ flag=DE }:: | ::{ flag=CN }:: China | [Apr 23 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230423T110000&p1=1440&p2=37&p3=33) | [^potential-match] |
 
 ## Mappools
@@ -138,7 +138,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad
   1. [Marmalade butcher - Mirage Age (Eyenine) \[Image\]](https://osu.ppy.sh/beatmapsets/1520484#taiko/3141358)
   2. [Rish feat. Choko - Punai Punai Gensou \~Punai Punai in Wonderland\~ (ler1211) \[Punai World Cup\]](https://osu.ppy.sh/beatmapsets/1977053#taiko/4104127)
 - Hard Rock
-  1. [Ata - Fucking Machine (Zetera) \[Lust\]](https://osu.ppy.sh/beatmapsets/1863684#taiko/3832609)
+  1. [ISOMERZ (DJ Raisei + seatrus) - Symmetric (sendol) \[Self-Similarity\]](https://osu.ppy.sh/beatmapsets/1612240#taiko/3292583)
   2. [technoplanet feat. Haruno - End of Fairytale (Maimaing) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1976819#taiko/4103534)
 - Double Time
   1. [technoplanet - Megastructure \[Extended Mix\] (duski) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1499443#taiko/3113038)
