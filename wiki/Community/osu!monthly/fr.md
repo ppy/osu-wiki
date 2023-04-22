@@ -8,11 +8,11 @@ L'osu!monthly est un effort communautaire, donc toute personne qui veut aider ou
 
 ## Histoire
 
-La version originale de l'osu!monthly, créée par [jjrocks](https://osu.ppy.sh/users/30985), [Corin](https://osu.ppy.sh/users/639270) et leurs amis, a été publiée de mars 2011 à octobre 2011. Le magazine a alors été publié au format PDF avec toutes les informations les plus importantes sur la communauté d'osu!.
+La version originale de l'osu!monthly, créée par ::{ flag=US }:: [jjrocks](https://osu.ppy.sh/users/30985), ::{ flag=GB }:: [Corin](https://osu.ppy.sh/users/639270) et leurs amis, a été publiée de mars 2011 à octobre 2011. Le magazine a alors été publié au format PDF avec toutes les informations les plus importantes sur la communauté d'osu!.
 
-Inspirée par la première version de l'osu!monthly, une nouvelle équipe s'est formée, grâce à [mangomizer](https://osu.ppy.sh/users/1893718) et [clayton](https://osu.ppy.sh/users/3666350), et de nouvelles itérations de l'osu!monthly ont pu être publiées d'octobre 2017 à février 2018. Le format était encore en PDF à l'époque, mais avec un design plus cohérent et agréable.
+Inspirée par la première version de l'osu!monthly, une nouvelle équipe s'est formée, grâce à ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) et ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350), et de nouvelles itérations de l'osu!monthly ont pu être publiées d'octobre 2017 à février 2018. Le format était encore en PDF à l'époque, mais avec un design plus cohérent et agréable.
 
-Dans le but de relancer ce projet, l'[équipe de l'osu!monthly](/wiki/People/osu!monthly_team) a été formée avec [0x84f](https://osu.ppy.sh/users/7944724) à sa tête, relançant le projet, cette fois-ci directement sous forme d'articles de news. Le projet est actuellement en cours.
+Dans le but de relancer ce projet, l'[équipe de l'osu!monthly](/wiki/People/osu!monthly_team) a été formée avec ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) à sa tête, relançant le projet, cette fois-ci directement sous forme d'articles de news. Le projet est actuellement en cours.
 
 ## Archives
 
