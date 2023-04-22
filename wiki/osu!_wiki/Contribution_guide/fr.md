@@ -54,7 +54,7 @@ Si personne ne s'est manifesté après quelques jours, essayez ce qui suit :
 
 - Assurez-vous d'avoir résolu toutes les suggestions - les gens peuvent attendre vos réponses.
 - Demandez aux autres rédacteurs de l'osu! wiki sur le [serveur Discord osu!dev](/wiki/Community/osu!dev_Discord_server) (canal `#osu-wiki`) ou dans les commentaires de GitHub.
-- Pour obtenir de l'aide pour la traduction, consultez quelques pull requests fusionnées pour votre langue et contactez leurs réviseurs et/ou auteurs ([exemple de requête GitHub](https://github.com/ppy/osu-wiki/pulls?q=is%3Apr+is%3Amerged+%5BFR%5D+)).
+- Pour obtenir de l'aide pour la traduction, consultez quelques pull requests fusionnées pour votre langue et contactez leurs réviseurs et/ou auteurs ([exemple de requête GitHub](https://github.com/ppy/osu-wiki/pulls?q=is:pr+is:merged+[FR])).
 - Demandez à vos amis d'y jeter un coup d'œil !
 
 En plus d'un processus de révision manuelle, le dépôt osu! wiki possède [un ensemble de vérifications automatisées](/wiki/osu!_wiki/Maintenance#ci-checks), qui garantissent que vos modifications respectent le style commun du wiki et sont exemptes d'erreurs de formatage. Pour voir leur statut, ouvrez l'onglet `Actions` de votre pull request et suivez les messages de diagnostic sous les erreurs, s'il y en a.

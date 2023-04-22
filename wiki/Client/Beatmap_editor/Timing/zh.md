@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: d132f80edb22c7fe2d1e47046d9ca448b161ea5e
+---
+
 # 测定时间轴标签页
 
 *参见：[如何测定歌曲时间轴](/wiki/Guides/How_to_Time_Songs)*

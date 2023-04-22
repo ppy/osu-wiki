@@ -48,46 +48,46 @@ NAT มีการเฝ้ามองผู้สมัคร NAT ที่�
 
 | ชื่อ | ภาษาเพิ่มเติม | หน้าที่หลัก |
 | :-- | :-- | :-- |
-| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) |  | Advisor |
-| ::{ flag=SG }:: [achyoo](https://osu.ppy.sh/users/7823498) | จีน | Evaluator |
-| ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) |  | Evaluator |
-| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | เบลารุส, รัสเซีย | Evaluator |
-| ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | กวางตุ้ง, จีน | Evaluator |
-| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | โปรตุเกส | Evaluator |
-| ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | Evaluator |
-| ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | จีน | Evaluator |
-| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | เยอรมัน | Evaluator |
-| ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | สวีเดน | Advisor |
-| ::{ flag=GB }:: [nexusqi](https://osu.ppy.sh/users/13822800) |  | Evaluator |
-| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | Advisor |
-| ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | Evaluator |
-| ::{ flag=AT }:: [Stixy](https://osu.ppy.sh/users/9000308) | เยอรมัน, เซอร์เบีย | Evaluator |
-| ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) |  | Advisor |
-| ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | ดัตช์ | Evaluator |
-| ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  | Evaluator |
-| ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | โปแลนด์ | Evaluator |
+| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) |  | Structural |
+| ::{ flag=SG }:: [achyoo](https://osu.ppy.sh/users/7823498) | จีน | Evaluation, structural |
+| ::{ flag=CA }:: [Agatsu](https://osu.ppy.sh/users/5579871) |  | Evaluation |
+| ::{ flag=BY }:: [AirinCat](https://osu.ppy.sh/users/11119539) | เบลารุส, รัสเซีย | Evaluation |
+| ::{ flag=HK }:: [Chaoslitz](https://osu.ppy.sh/users/3621552) | กวางตุ้ง, จีน | Evaluation |
+| ::{ flag=BR }:: [Dada](https://osu.ppy.sh/users/9119507) | โปรตุเกส | Evaluation |
+| ::{ flag=AU }:: [elicz1](https://osu.ppy.sh/users/8039342) |  | Evaluation |
+| ::{ flag=CN }:: [Firika](https://osu.ppy.sh/users/9590557) | จีน | Evaluation |
+| ::{ flag=DE }:: [FuJu](https://osu.ppy.sh/users/10773882) | เยอรมัน | Evaluation, structural |
+| ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817) | สวีเดน | Structural |
+| ::{ flag=GB }:: [nexusqi](https://osu.ppy.sh/users/13822800) |  | Evaluation |
+| ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | Structural |
+| ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | Evaluation, structural |
+| ::{ flag=AT }:: [Stixy](https://osu.ppy.sh/users/9000308) | เยอรมัน, เซอร์เบีย | Evaluation |
+| ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | ดัตช์ | Evaluation |
+| ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  | Evaluation |
+| ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | โปแลนด์ | Evaluation |
 
 ### osu!taiko
 
 | ชื่อ | ภาษาเพิ่มเติม | หน้าที่หลัก |
 | :-- | :-- | :-- |
-| ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | เยอรมัน | Evaluator |
-| ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | อูรดู, อาหรับ บ้าง | Evaluator |
-| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | อาหรับ, ฝรั่งเศส, อิตาลี บ้าง | Evaluator |
-| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | Evaluator |
+| ::{ flag=DE }:: [Capu](https://osu.ppy.sh/users/2474015) | เยอรมัน | Evaluation |
+| ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | อูรดู, อาหรับ บ้าง | Evaluation |
+| ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) | อาหรับ, ฝรั่งเศส, อิตาลี บ้าง | Leadership |
+| ::{ flag=BR }:: [Ideal](https://osu.ppy.sh/users/3869519) | โปรตุเกส | Evaluation |
+| ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) |  | Leadership |
 
 ### osu!catch
 
 | ชื่อ | ภาษาเพิ่มเติม | หน้าที่หลัก |
 | :-- | :-- | :-- |
-| ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | สเปน, เยอรมัน | Evaluator |
-| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | ดัตช์ | Evaluator |
+| ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) | สเปน, เยอรมัน | Evaluation |
+| ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) | ดัตช์ | Evaluation |
 
 ### osu!mania
 
 | ชื่อ | ภาษาเพิ่มเติม | หน้าที่หลัก |
 | :-- | :-- | :-- |
-| ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229) | จีน | Evaluator |
-| ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | เวียดนาม | Evaluator |
-| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | อินโดนีเซีย | Evaluator |
-| ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Evaluator |
+| ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229) | จีน | Evaluation |
+| ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | เวียดนาม | Evaluation |
+| ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | สเปน | Evaluation |
+| ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | อินโดนีเซีย | Evaluation |
