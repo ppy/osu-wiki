@@ -8,11 +8,11 @@ The osu!monthly is a community effort, so anyone who wants to help or contribute
 
 ## History
 
-The original run of osu!monthly created by [jjrocks](https://osu.ppy.sh/users/30985), [Corin](https://osu.ppy.sh/users/639270), and friends ran from March 2011 to October 2011. The magazine was then released in a PDF format with all the most important information about the osu! community.
+The original run of osu!monthly created by ::{ flag=US }:: [jjrocks](https://osu.ppy.sh/users/30985), ::{ flag=GB }:: [Corin](https://osu.ppy.sh/users/639270), and friends ran from March 2011 to October 2011. The magazine was then released in a PDF format with all the most important information about the osu! community.
 
-Inspired by the first version of the osu!monthly, a new team was formed, thanks to [mangomizer](https://osu.ppy.sh/users/1893718) and [clayton](https://osu.ppy.sh/users/3666350), and new iterations of the monthly could be published from October 2017 to February 2018. The format was still PDF at the time, but with more consistent and pleasing design.
+Inspired by the first version of the osu!monthly, a new team was formed, thanks to ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718) and ::{ flag=US }:: [clayton](https://osu.ppy.sh/users/3666350), and new iterations of the monthly could be published from October 2017 to February 2018. The format was still PDF at the time, but with more consistent and pleasing design.
 
-With a desire to once again revive this project, the [osu!monthly team](/wiki/People/osu!monthly_team) was formed with [0x84f](https://osu.ppy.sh/users/7944724) at the helm, reviving the project, this time directly as news posts. The project is currently ongoing.
+With a desire to once again revive this project, the [osu!monthly team](/wiki/People/osu!monthly_team) was formed with ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) at the helm, reviving the project, this time directly as news posts. The project is currently ongoing.
 
 ## Archives
 
