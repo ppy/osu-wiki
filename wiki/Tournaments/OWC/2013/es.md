@@ -1,5 +1,5 @@
 ---
-outdated_translation: false
+no_native_review: true
 ---
 
 # osu! World Cup 2013
