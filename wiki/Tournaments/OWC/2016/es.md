@@ -2,6 +2,7 @@
 tags:
   - OWC 2016
   - OWC2016
+no_native_review: true
 ---
 
 # osu! World Cup 2016
@@ -90,7 +91,7 @@ La osu! World Cup 2016 estuvo a cargo de varios miembros de la comunidad.
 
 ## Grupos
 
-| Grupo| Semilla superior | Semilla alta | Semilla media | Semilla baja |
+| Grupo | Semilla superior | Semilla alta | Semilla media | Semilla baja |
 | :-: | :-- | :-- | :-- | :-- |
 | **A** | ::{ flag=FR }:: Francia | ::{ flag=FI }:: Finlandia | ::{ flag=NZ }:: Nueva Zelanda | ::{ flag=SG }:: Singapur |
 | **B** | ::{ flag=PL }:: Polonia | ::{ flag=IT }:: Italia | ::{ flag=PH }:: Filipinas | ::{ flag=UA }:: Ucrania |
