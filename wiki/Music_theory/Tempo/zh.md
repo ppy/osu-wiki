@@ -13,7 +13,7 @@ tags:
 *参见：[测定时间轴](/wiki/Beatmapping/Timing)*
 
 ::: Infobox
-![谱面信息页上 BPM 指示信息的截图](img/beatmap-info.png "可以在谱面信息页的角落看到，歌曲的曲速等于 160")
+![谱面信息页上 BPM 指示信息的截图](img/beatmap-info-ZH.png "可以在谱面信息页的角落看到，歌曲的曲速等于 160")
 :::
 
 **曲速** 即歌曲的速度。通常用**每分钟节拍数** (***BPM***)——即一分钟内，歌曲所含的[乐理上一整拍](/wiki/Music_theory/Beat)的数量来衡量它。例如，每分钟 60 拍的曲速代表了每秒一拍，每分钟 120 拍的曲速是之前的两倍之快，即每秒两拍。曲速会直接影响很多游戏元素，比如[滑条速度 (SV)](/wiki/Gameplay/Hit_object/Slider/Slider_velocity)、[Kiai 时间](/wiki/Gameplay/Kiai_time)闪光等。在谱面信息页上，曲速展示在一个[节拍器](https://zh.wikipedia.org/wiki/%E7%AF%80%E6%8B%8D%E5%99%A8)（有助于音乐家按照固定的节奏演奏的设备）标识旁边。
