@@ -11,7 +11,7 @@
 - `normal-hitfinish`
 - `normal-hitclap`
 
-以上靠下的三个音效会附加到最上面的默认音效上，也就是说，当你击打一个添加了 whistle 音效的物件时，将会听到 hitnormal + hitwhistle 同时播放。
+以上靠下的三个音效会附加到最上面的默认音效上。也就是说，当你击打一个添加了 whistle 音效的物件时，将会听到 hitnormal + hitwhistle 同时播放。
 
 - normal-sliderslide (循环播放)
 - normal-sliderwhistle (循环播放)
@@ -24,7 +24,7 @@
 - soft-hitfinish
 - soft-hitclap
 
-以上靠下的三个音效会附加到最上面的默认音效上，也就是说，当你击打一个添加了 whistle 音效的物件时，将会听到 hitnormal + hitwhistle 同时播放。
+以上靠下的三个音效会附加到最上面的默认音效上。也就是说，当你击打一个添加了 whistle 音效的物件时，将会听到 hitnormal + hitwhistle 同时播放。
 
 - soft-sliderslide (循环播放)
 - soft-sliderwhistle (循环播放)
@@ -37,7 +37,7 @@
 - `drum-hitfinish`
 - `drum-hitclap`
 
-以上靠下的三个音效会附加到最上面的默认音效上，也就是说，当你击打一个添加了 whistle 音效的物件时，将会听到 hitnormal + hitwhistle 同时播放。
+以上靠下的三个音效会附加到最上面的默认音效上。也就是说，当你击打一个添加了 whistle 音效的物件时，将会听到 hitnormal + hitwhistle 同时播放。
 
 - `drum-sliderslide` (循环播放)
 - `drum-sliderwhistle` (循环播放)
@@ -45,7 +45,7 @@
 
 ## 通用音效
 
-- spinnerspin (随着转盘旋转，这个音效的音调会逐渐增加。若音效文件的采样率是 44100Hz，那么它会在大约 500Hz 逐渐递增到 80000Hz。)
+- spinnerspin (随着转盘旋转，这个音效的音调会逐渐增加。若音效文件的采样率是 44100Hz，那么它会从大约 500Hz，随着转盘旋转逐渐递增到 80000Hz。)
 - spinnerbonus (叮叮声)
 
 ## 音效的格式
