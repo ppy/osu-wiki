@@ -42,11 +42,11 @@ Prima di considerare una richiesta, il team di supporto richiede che il bot sodd
 
 Se il tuo bot soddisfa i criteri di cui sopra, puoi presentare una richiesta per creare un account bot per esso.
 
-Invia un'e-mail a [accounts@ppy.sh](mailto:accounts@ppy.sh) con oggetto `Bot Account Request`. La mail deve essere    inviato dall'indirizzo email collegato al tuo account di osu!.
+Invia un'e-mail a [accounts@ppy.sh](mailto:accounts@ppy.sh) con oggetto `Bot Account Request`. La mail deve essere inviato dall'indirizzo email collegato al tuo account di osu!.
 
 Il corpo dell'e-mail deve contenere quanto segue:
 
-- Il tuo  nome utente su osu! (dove hai eseguito il bot)
+- Il tuo nome utente su osu! (dove hai eseguito il bot)
 - Il nome utente che vuoi assegnare all'account del bot
 - La data in cui hai iniziato a eseguire il bot
 - Un link al codice sorgente e alla documentazione
@@ -54,9 +54,7 @@ Il corpo dell'e-mail deve contenere quanto segue:
 
 Il [team di assistenza account](/wiki/People/Account_support_team) esaminerà la tua richiesta. Se la tua richiesta viene respinta, ti faranno sapere il motivo. Se la tua richiesta viene approvata, creeranno l'account bot per te e ti forniranno istruzioni su come usarlo.
 
-<!-- TODO: la sezione della storia sarebbe carina, parlando di LogBot, BanchoBot, gli account del crawler phpbb, i primi bot gestiti dagli utenti, il Quality Assurance Team, osu!team, ... -->
-
 ## Curiosità
 
 - Il badge del gruppo `BOT` viene visualizzato sugli account con un gruppo principale di `Chat Bot` (gruppo n. 29). L'elenco del gruppo non è pubblico.
-- Alcuni account personali sono nel gruppo dei bot di chat perché i proprietari non volevano o non richiedevano di avere un account bot separato per il loro servizio, ad esempio ::{ flag=DE }:: [Tillerino](https://osu.ppy .sh/users/2070907) e ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454). Questa configurazione non è più offerta e ai nuovi bot che entrano nel gruppo verrà sempre assegnato un account esclusivo.
+- Alcuni account personali sono nel gruppo dei bot di chat perché i proprietari non volevano o non richiedevano di avere un account bot separato per il loro servizio, ad esempio ::{ flag=DE }:: [Tillerino](https://osu.ppy.sh/users/2070907) e ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454). Questa configurazione non è più offerta e ai nuovi bot che entrano nel gruppo verrà sempre assegnato un account esclusivo.
