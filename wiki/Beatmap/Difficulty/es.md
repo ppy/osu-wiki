@@ -5,28 +5,27 @@ tags:
   - SR
   - star rating
   - stars
+  - dificultades
+  - nombre de la dificultad
+  - calificación por estrellas
+  - estrellas
 ---
 
 # Dificultad
 
 *No debe confundirse con [Mapa](/wiki/Beatmap).*
 
-La **dificultad** de un mapa es un nivel de juego, que se almacena como un archivo de texto con [la extensión `.osu`](/wiki/Client/File_formats/Osu_(file_format)). Consiste en [objetos de golpeo](/wiki/Gameplay/Hit_object) de un cierto [modo de juego](/wiki/Game_mode), que se configuran de acuerdo con el [tiempo](/wiki/Beatmapping/Timing_section) adaptado a un canción específica. Las dificultades tienen diferentes aspectos, que afectan directamente a la experiencia del usuario.  El nombre de la dificultad y la [clasificación de estrellas](/wiki/Beatmap/Star_rating) generalmente brindan suficiente información para saber qué tan desafiante es.
+La **dificultad** de un mapa es un nivel de juego, que se almacena como un archivo de texto con [la extensión `.osu`](/wiki/Client/File_formats/Osu_(file_format)). Consiste en [objetos](/wiki/Gameplay/Hit_object) de un cierto [modo de juego](/wiki/Game_mode), que se configuran de acuerdo con el [tiempo](/wiki/Beatmapping/Timing_section) adaptado a un canción específica. Las dificultades tienen diferentes aspectos, que afectan directamente a la experiencia del usuario.  El nombre de la dificultad y la [clasificación por estrellas](/wiki/Beatmap/Star_rating) generalmente brindan suficiente información para saber qué tan desafiante es.
 
-Los objetos de golpeo de una dificultad componen [patrones](/wiki/Beatmap/Pattern), que también varían según el modo de juego y establecen el tono para la apariencia general de cómo se debe jugar una dificultad. La jugabilidad de las dificultades del mapa también se puede modificar mediante varias [configuraciones de dificultad](/wiki/Client/Beatmap_editor/Song_Setup#difficulty) establecidas por el autor del mapa o alternadas por [modificadores de juego](/wiki/Gameplay/Game_modifier).
+Los objetos de una dificultad componen [patrones](/wiki/Beatmap/Pattern), que también varían según el modo de juego y establecen el tono para la apariencia general de cómo se debe jugar una dificultad. La jugabilidad de las dificultades del mapa también se puede modificar mediante varias [configuraciones de dificultad](/wiki/Client/Beatmap_editor/Song_Setup#difficulty) establecidas por el autor del mapa o alternadas por [modificadores del juego](/wiki/Gameplay/Game_modifier).
 
-Desde la perspectiva auditiva, una dificultad puede aumentar la canción proporcionando uno o varios conjuntos de muestras de audio, o [hitsounds](/wiki/Beatmapping/Hitsound), que sirven como una capa adicional de retroalimentación.
-
-<!-- TODO: this description of visuals needs to be improved:
-  - a separate section;
-  - a very small paragraph on every key component, including those from Beatmap#overview;
--->
+Desde la perspectiva auditiva, una dificultad puede aumentar la canción proporcionando uno o varios conjuntos de muestras de audio o [hitsounds](/wiki/Beatmapping/Hitsound), que sirven como una capa adicional de comentarios.
 
 Los [componentes visuales](/wiki/Beatmap) de una dificultad, contrario a sus patrones, brindan una experiencia auxiliar durante el juego y se pueden desactivar en la superposición de la [configuración visual](/wiki/Client/Interface/Visual_settings) en su mayor parte. Si bien algunos de ellos, como [storyboards](/wiki/Storyboard) o [skins personalizadas](/wiki/Skinning), pertenecen al mapa como un todo, la mayoría de los componentes visuales pueden variar según la dificultad (por ejemplo, secciones de [kiai time](/wiki/Gameplay/Kiai_time) y [colores de combo](/wiki/Beatmapping/Combo_colour)).
 
 ## Niveles de dificultad
 
-*Vea también: [Nombrado de dificultad](/wiki/Ranking_Criteria/Difficulty_naming)*
+*Véase también: [Nombramiento de dificultad](/wiki/Ranking_Criteria/Difficulty_naming)*
 
 Estos son los niveles típicos de dificultad en los que puede caer un mapa. Las definiciones específicas y los requisitos de cada uno se pueden encontrar en sus [criterios de clasificación](/wiki/Ranking_Criteria) de los respectivos modos.
 
@@ -66,13 +65,13 @@ Estos son los niveles típicos de dificultad en los que puede caer un mapa. Las 
 - ![](/wiki/shared/diff/expert-m.png?20211215) Expert
 - ![](/wiki/shared/diff/expertplus-m.png?20211215) Expert+
 
-## Dificultad y clasificación de estrellas
+## Dificultad y clasificación por estrellas
 
-A partir del 27 de julio de 2021, el sitio web de osu! asigna automáticamente el color de clasificación de dificultad de un mapa en función de su clasificación de estrellas de acuerdo con el siguiente espectro:
+A partir de 27 de julio de 2021, el sitio web de osu! asigna automáticamente el color de clasificación de dificultad de un mapa en función de su clasificación por estrellas de acuerdo con el siguiente espectro:
 
-![osu! difficulty rating colour spectrum](/wiki/shared/star-rating/spectrum.png)
+![Espectro de color de clasificación de dificultad de osu!](/wiki/shared/star-rating/spectrum.png)
 
-En algunos casos, como [AIMod](/wiki/Client/Beatmap_editor/AiMod), la dificultad se clasifica en seis rangos de nivel según la calificación de estrellas de la siguiente manera:
+En algunos casos, como [AIMod](/wiki/Client/Beatmap_editor/AiMod), la dificultad se clasifica en seis rangos de nivel según la calificación por estrellas de la siguiente manera:
 
 - ![](/wiki/shared/diff/easy-o.png?20211215) Easy: 0.0★–1.99★
 - ![](/wiki/shared/diff/normal-o.png?20211215) Normal: 2.0★–2.69★
@@ -81,4 +80,4 @@ En algunos casos, como [AIMod](/wiki/Client/Beatmap_editor/AiMod), la dificultad
 - ![](/wiki/shared/diff/expert-o.png?20211215) Expert: 5.3★–6.49★
 - ![](/wiki/shared/diff/expertplus-o.png?20211215) Expert+: 6.5★ y superior
 
-Tenga en cuenta que, si bien los niveles de dificultad previstos de la mayoría de los mapas coinciden con los colores o rangos de niveles que se les otorgan, algunos pueden desviarse significativamente debido a ciertos factores. Esta es la razón por la que los [criterios de clasificación](/wiki/Ranking_Criteria) ofrecen reglas básicas más decisivas para determinar el nivel de dificultad real de un mapa y la distribución, independientemente de su calificación de estrellas.
+Tenga en cuenta que, si bien los niveles de dificultad previstos de la mayoría de los mapas coinciden con los colores o rangos de niveles que se les otorgan, algunos pueden desviarse significativamente debido a ciertos factores. Esta es la razón por la que los [criterios de clasificación](/wiki/Ranking_Criteria) ofrecen reglas básicas más decisivas para determinar el nivel de dificultad real de un mapa y la distribución, independientemente de su calificación por estrellas.
