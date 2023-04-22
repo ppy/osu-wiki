@@ -80,7 +80,7 @@ La osu! World Cup 2013 estuvo a cargo de varios miembros de la comunidad.
 | ::{ flag=KR }:: | Corea del Sur | **[Dungeon](https://osu.ppy.sh/users/461720)**, [- Hakurei Reimu-](https://osu.ppy.sh/users/948713), [CheEZ](https://osu.ppy.sh/users/272117), [dragonhuman](https://osu.ppy.sh/users/713266), [ffury](https://osu.ppy.sh/users/2056071), [K i R i K a R u](https://osu.ppy.sh/users/139670), [Shizuru-](https://osu.ppy.sh/users/1341421), [Tengu](https://osu.ppy.sh/users/380836) |
 | ::{ flag=SE }:: | Suecia | **[Xytox](https://osu.ppy.sh/users/2229274)**, [Blandar](https://osu.ppy.sh/users/1410445), [Gnuu](https://osu.ppy.sh/users/914004), [Gyuunyu](https://osu.ppy.sh/users/799102), [Mayis](https://osu.ppy.sh/users/2003792), [Shilkey](https://osu.ppy.sh/users/2001716), [Shimox](https://osu.ppy.sh/users/1192387), [Slizzer](https://osu.ppy.sh/users/809983) |
 | ::{ flag=TW }:: | Taiwán | **[Uan](https://osu.ppy.sh/users/147623)**, [dabanlong](https://osu.ppy.sh/users/624254), [I will be back](https://osu.ppy.sh/users/477704), [onlyforyou](https://osu.ppy.sh/users/597858), [Rucker](https://osu.ppy.sh/users/147515), [Small K](https://osu.ppy.sh/users/952751), [SnowWhite](https://osu.ppy.sh/users/50265), [YuyuKo sama](https://osu.ppy.sh/users/234788) |
-| ::{ flag=TH }:: | Tailandia| **[NonxE](https://osu.ppy.sh/users/319312)**, [0OoMickeyoO0](https://osu.ppy.sh/users/317494), [Cint](https://osu.ppy.sh/users/889331), [Frostmourne](https://osu.ppy.sh/users/199669), [Neolution](https://osu.ppy.sh/users/1592782), [Popo\[Mikoto\]](https://osu.ppy.sh/users/445236) |
+| ::{ flag=TH }:: | Tailandia | **[NonxE](https://osu.ppy.sh/users/319312)**, [0OoMickeyoO0](https://osu.ppy.sh/users/317494), [Cint](https://osu.ppy.sh/users/889331), [Frostmourne](https://osu.ppy.sh/users/199669), [Neolution](https://osu.ppy.sh/users/1592782), [Popo\[Mikoto\]](https://osu.ppy.sh/users/445236) |
 | ::{ flag=GB }:: | Reino Unido | **[jesus1412](https://osu.ppy.sh/users/230116)**, [bubby963](https://osu.ppy.sh/users/1050426), [Charleyzard](https://osu.ppy.sh/users/1062584), [Doomsday](https://osu.ppy.sh/users/18983), [iLikeMudkipz](https://osu.ppy.sh/users/552515), [Navi](https://osu.ppy.sh/users/926304), [R a h a r u](https://osu.ppy.sh/users/785193), [Starry-](https://osu.ppy.sh/users/2166199) |
 | ::{ flag=US }:: | Estados Unidos | **[Kaoru](https://osu.ppy.sh/users/492699)**, [Floks](https://osu.ppy.sh/users/1146469), [Kyou-kun](https://osu.ppy.sh/users/285711), [pielak213](https://osu.ppy.sh/users/310455), [pooptartsonas](https://osu.ppy.sh/users/1334453), [SapphireGhost](https://osu.ppy.sh/users/388602), [Silynn](https://osu.ppy.sh/users/1171628), [Thatgooey](https://osu.ppy.sh/users/1200113) |
 | ::{ flag=VE }:: | Venezuela | **[MeowinTurtle](https://osu.ppy.sh/users/2026980)**, Baozis <!-- missing -->, [CrymynaL](https://osu.ppy.sh/users/1158908), [Livean](https://osu.ppy.sh/users/674036), [Roli](https://osu.ppy.sh/users/1797688), [S4suk3](https://osu.ppy.sh/users/401955) |
@@ -96,7 +96,7 @@ La osu! World Cup 2013 estuvo a cargo de varios miembros de la comunidad.
 | ::{ flag=PL }:: Polonia | ::{ flag=NO }:: Noruega | ::{ flag=FR }:: Francia | ::{ flag=NZ }:: Nueva Zelanda |
 | ::{ flag=TW }:: Taiwán | ::{ flag=RU }:: Rusia | ::{ flag=ID }:: Indonesia | ::{ flag=PH }:: Filipinas |
 | ::{ flag=TH }:: Tailandia | ::{ flag=SE }:: Suecia | ::{ flag=IT }:: Italia | ::{ flag=SG }:: Singapur |
-| ::{ flag=US }:: Estados Unidos | ::{ flag=GB }:: Reino Unido | ::{ flag=NL }:: Países Bajos| ::{ flag=VE }:: Venezuela |
+| ::{ flag=US }:: Estados Unidos | ::{ flag=GB }:: Reino Unido | ::{ flag=NL }:: Países Bajos | ::{ flag=VE }:: Venezuela |
 
 ![](img/bracket.jpg "OWC 2013 bracket")
 
@@ -326,7 +326,7 @@ Sábado, 16 de noviembre de 2013:
 | --: | :-: | :-: | :-- | :-- |
 | **Corea del Sur** ::{ flag=KR }:: | **5** | 0 | ::{ flag=RU }:: Rusia | [#1](https://osu.ppy.sh/community/matches/2778204) |
 | Hong Kong ::{ flag=HK }:: | 3 | **5** | ::{ flag=DE }:: **Alemania** | [#1](https://osu.ppy.sh/community/matches/2780657) |
-| **Reino Unido** ::{ flag=GB }:: | **5** | 1 | ::{ flag=TH }:: Tailandia| [#1](https://osu.ppy.sh/community/matches/2783657) |
+| **Reino Unido** ::{ flag=GB }:: | **5** | 1 | ::{ flag=TH }:: Tailandia | [#1](https://osu.ppy.sh/community/matches/2783657) |
 
 Domingo, 17 de noviembre de 2013:
 
