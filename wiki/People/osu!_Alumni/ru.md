@@ -22,6 +22,7 @@
 | ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) | QAT, NAT |
 | ::{ flag=FI }:: [Asphyxia](https://osu.ppy.sh/users/1715720) | BAT, GMT, QAT |
 | ::{ flag=CN }:: [Atrue](https://osu.ppy.sh/users/1758523) | GMT |
+| ::{ flag=CA }:: [Aurele](https://osu.ppy.sh/users/654108) | BAT, GMT, QAT |
 | ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) | GMT |
 | ::{ flag=AU }:: [Azure_Kite](https://osu.ppy.sh/users/66296) | MAT |
 | ::{ flag=CN }:: [Ballance](https://osu.ppy.sh/users/165946) | Модератор чата |
@@ -35,6 +36,7 @@
 | ::{ flag=IT }:: [Card N'FoRcE](https://osu.ppy.sh/users/3936) | BAT |
 | ::{ flag=US }:: [Cecilthemos](https://osu.ppy.sh/users/2233) | BAT |
 | ::{ flag=AU }:: [chan](https://osu.ppy.sh/users/94) | BAT |
+| ::{ flag=US }:: [Chaos](https://osu.ppy.sh/users/2628870) | GMT |
 | ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000) | GMT, QAT |
 | ::{ flag=CA }:: [CheeseWarlock](https://osu.ppy.sh/users/9072) | BAT |
 | ::{ flag=IT }:: [Chewin](https://osu.ppy.sh/users/617323) | BAT |
@@ -77,7 +79,6 @@
 | ::{ flag=FI }:: [Fraeon](https://osu.ppy.sh/users/2271) | BAT |
 | ::{ flag=TH }:: [Frostmourne](https://osu.ppy.sh/users/199669) | GMT, QAT |
 | ::{ flag=CN }:: [Fycho](https://osu.ppy.sh/users/1876867) | BAT, модератор чата, GMT, QAT |
-| ::{ flag=CA }:: [Gabe](https://osu.ppy.sh/users/654108) | BAT, GMT, QAT |
 | ::{ flag=JP }:: [Gamu](https://osu.ppy.sh/users/611174) | QAT |
 | ::{ flag=US }:: [Garven](https://osu.ppy.sh/users/244216) | QAT |
 | ::{ flag=FI }:: [Gemi](https://osu.ppy.sh/users/7365) | BAT |
@@ -174,15 +175,17 @@
 | ::{ flag=AU }:: [Oinari-sama](https://osu.ppy.sh/users/405508) | Модератор чата, сотрудник техподдержки |
 | ::{ flag=TH }:: [orioncomet](https://osu.ppy.sh/users/104827) | BAT |
 | ::{ flag=FI }:: [Orkel](https://osu.ppy.sh/users/39385) | Модератор чата |
+| ::{ flag=FR }:: [Pachiru](https://osu.ppy.sh/users/2850983) | GMT |
 | ::{ flag=SG }:: [Pasonia](https://osu.ppy.sh/users/43345) | BAT |
 | ::{ flag=CA }:: [Pawsu](https://osu.ppy.sh/users/2371454) | GMT, сотрудник техподдержки |
 | ::{ flag=PT }:: [Pereira006](https://osu.ppy.sh/users/537344) | BAT, модератор чата, GMT |
 | ::{ flag=NL }:: [Pittigbaasje](https://osu.ppy.sh/users/2167433) | GMT |
 | ::{ flag=HK }:: [Pokie](https://osu.ppy.sh/users/207340) | BAT |
+| ::{ flag=GB }:: [Pope Gadget](https://osu.ppy.sh/users/2288341) | GMT |
 | ::{ flag=CN }:: [popner](https://osu.ppy.sh/users/759860) | BAT |
 | ::{ flag=MY }:: [PROGUY](https://osu.ppy.sh/users/528181) | QAT |
-| ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | NAT |
 | ::{ flag=SE }:: [PuffBuck](https://osu.ppy.sh/users/4234525) | Организатор турниров |
+| ::{ flag=ES }:: [Quenlla](https://osu.ppy.sh/users/4725379) | NAT |
 | ::{ flag=ES }:: [Raiden](https://osu.ppy.sh/users/2239480) | GMT, QAT |
 | ::{ flag=GB }:: [RandomJibberish](https://osu.ppy.sh/users/157879) | BAT |
 | ::{ flag=US }:: [RemmyX25](https://osu.ppy.sh/users/612) | BAT |
@@ -194,6 +197,7 @@
 | ::{ flag=US }:: [SapphireGhost](https://osu.ppy.sh/users/388602) | BAT |
 | ::{ flag=US }:: [Saturos](https://osu.ppy.sh/users/3781) | BAT |
 | ::{ flag=DZ }:: [Scotty](https://osu.ppy.sh/users/11085809) | NAT |
+| ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) | NAT |
 | ::{ flag=US }:: [Seibei4211](https://osu.ppy.sh/users/31537) | BAT |
 | ::{ flag=IT }:: [Seijiro](https://osu.ppy.sh/users/2581696) | GMT |
 | ::{ flag=MD }:: [senaya](https://osu.ppy.sh/users/304103) | Модератор чата |
@@ -225,14 +229,15 @@
 | ::{ flag=SE }:: [theowest](https://osu.ppy.sh/users/60604) | GMT |
 | ::{ flag=US }:: [TheVileOne](https://osu.ppy.sh/users/278862) | Разработчик osu! |
 | ::{ flag=RU }:: [tieff](https://osu.ppy.sh/users/89619) | BAT |
-| ::{ flag=JP }:: [TKS](https://osu.ppy.sh/users/940878) | BAT |
 | ::{ flag=FR }:: [Tommay](https://osu.ppy.sh/users/3132818) | GMT |
 | ::{ flag=AU }:: [tsububu](https://osu.ppy.sh/users/61) | BAT |
 | ::{ flag=TH }:: [Tyistiana](https://osu.ppy.sh/users/1421452) | NAT |
+| ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) | NAT |
 | ::{ flag=CL }:: [Uberzolik](https://osu.ppy.sh/users/1314547) | NAT |
 | ::{ flag=PL }:: [Ukami](https://osu.ppy.sh/users/820865) | Модератор чата, GMT |
 | ::{ flag=TR }:: [UnderminE](https://osu.ppy.sh/users/444223) | Модератор чата |
 | ::{ flag=NL }:: [Uni](https://osu.ppy.sh/users/617106) | GMT |
+| ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872) | NAT |
 | ::{ flag=BE }:: [VeilStar](https://osu.ppy.sh/users/4255720) | GMT, сотрудник техподдержки |
 | ::{ flag=PH }:: [vytalibus](https://osu.ppy.sh/users/10028) | BAT |
 | ::{ flag=CL }:: [WalterToro](https://osu.ppy.sh/users/5281416) | GMT, организатор турниров |
