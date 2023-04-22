@@ -2,6 +2,7 @@
 tags:
   - OWC 2017
   - OWC2017
+no_native_review: true
 ---
 
 # osu! World Cup 2017
@@ -380,7 +381,8 @@ Domingo, 19 de noviembre de 2017:
 ### Reglas del torneo
 
 1. La osu! World Cup es un torneo por países, jugado en el modo de juego osu!.
-   - Si bien esta competencia está planificada como una configuración de 4 contra 4, esto podría cambiar según la cantidad de registros entrantes.                      2. La puntuación del mapa se basa en Score V2.
+   - Si bien esta competencia está planificada como una configuración de 4 contra 4, esto podría cambiar según la cantidad de registros entrantes.
+2. La puntuación del mapa se basa en Score V2.
 3. Los mapas para cada ronda serán anunciados por los selectores de mapas por anticipado el domingo antes de que tengan lugar las partidas reales. Solo estos se utilizarán durante las respectivas partidas.
    - El mappool de la fase de grupos se anunciará después de los sorteos.
    - Un mapa será asignado como mapa de desempate. Este mapa solo podrá ser jugado en caso de empate.
