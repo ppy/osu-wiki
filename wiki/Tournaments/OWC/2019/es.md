@@ -2,6 +2,7 @@
 tags:
   - OWC 2019
   - OWC2019
+no_native_review: true
 ---
 
 # osu! World Cup 2019
@@ -418,7 +419,7 @@ Domingo, 17 de noviembre de 2019:
 | --: | :-: | :-: | :-- | :-- |
 | **China** ::{ flag=CN }:: | **5** | 2 | ::{ flag=MX }:: México | [#1](https://osu.ppy.sh/community/matches/56323868) |
 | **Corea del Sur** ::{ flag=KR }:: | **5** | 0 | ::{ flag=NZ }:: Nueva Zelanda | [#1](https://osu.ppy.sh/community/matches/56324669) |
-| **Taiwán** ::{ flag=TW }:: | **5** | 1 | ::{ flag=DK }:: Dinamarca| [#1](https://osu.ppy.sh/community/matches/56331948) |
+| **Taiwán** ::{ flag=TW }:: | **5** | 1 | ::{ flag=DK }:: Dinamarca | [#1](https://osu.ppy.sh/community/matches/56331948) |
 | **Rumania** ::{ flag=RO }:: | **5** | 3 | ::{ flag=JP }:: Japón | [#1](https://osu.ppy.sh/community/matches/56333153) |
 | **Suecia** ::{ flag=SE }:: | 3 | **5** | ::{ flag=FR }:: **Francia** | [#1](https://osu.ppy.sh/community/matches/56334525) |
 | **Reino Unido** ::{ flag=GB }:: | **5** | 0 | ::{ flag=LV }:: Letonia | [#1](https://osu.ppy.sh/community/matches/56337461) |
