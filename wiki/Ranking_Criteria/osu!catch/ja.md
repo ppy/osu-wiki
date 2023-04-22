@@ -1,13 +1,10 @@
-English is being included in the article for now for reference so they can be checked. Some lines do not have English included, as they are lifted directly from the Mania/Taiko Japanese RC and don't need to be checked.
+English is being included in the article for now for reference so accuracy can be easily checked. Some lines do not have English included, as they are lifted directly from the Mania/Taiko Japanese RC and don't need to be checked.
 
 # osu!catchのランキング基準
 
 Osu!catchのランキング基準は、osu!catch固有の難易度を作成する際に適用されるルールとガイドラインです。
 
 ## 用語集 (Glossary)
-
-
-### ゲームプレイにおいて(Gameplay)
 フルーツ：Fruit
 Drop
 Droplet
@@ -16,9 +13,11 @@ Droplet
 Hitnormal
 Combo colour
 Plate
-Dash
-Hyperdash
+ダッシ：：Dash
+ハイパーダッシュ：Hyperdash
+エッジダッシュ: Edge Dash
 
+### ゲームプレイにおいて(Gameplay)
 
 ## 共通 (Overall)
 共通のルールとガイドラインは、あらゆる種類のosu!catchの難易度に適用されます。リズムに関するルールとガイドラインは、4/4ビートの約180BPMのビートマップに適用されます。楽曲が急激に早くなったり遅くなったりした場合、ランキング基準のBPMスケーリングにあるように、いくつかの変数が異なる可能性があります。
@@ -61,7 +60,7 @@ Hyperdash
 - **スライダーTick Rateは楽曲に合わせて設定してください。** 例えば、楽曲で1/3のsnapが使われているだけの場合、Tick rate 2や4を使うのは適切ではありません。
 
 - **Use the same slider tick rate on every difficulty** as it is a property of the music rather than the mapping. However, lower difficulties may use lower tick rates to reduce accuracy requirements for newer players, providing they still follow the rhythm of the song. Using high tick rates purely to increase score/combo/difficulty is senseless.
-I'm not translating this because it is outdated and needs to be removed from the RC
+- I'm not translating this because it is outdated and needs to be removed from the RC
 
 - **Avoid using [combo colours](/wiki/Beatmapping/Combo_colour) with ~50 luminosity or lower.** Dark colours impact the readability of [fruits](/wiki/Gameplay/Hit_object/Fruit) with low background dim.
 - **大体50ルミナンス以下のcombo colourを使わないでください。** 暗い色は、背景画の暗さが低い場合、フルーツの見るやすさに影響を与えます。
@@ -69,19 +68,6 @@ I'm not translating this because it is outdated and needs to be removed from the
 - **Avoid using [combo colours](/wiki/Beatmapping/Combo_colour) with ~220 luminosity or higher if Kiai time is used.** Light colours create bright pulses during Kiai time, which can be unpleasant to the eyes.
 - **キアイタイムを使ったら、大体220ルミナンス以上のcombo colourは使わないでください。** 明るいcombo colourはキアイタイム中に明るい脈動を作り出し、目に不快感を与えられる。
 
-
-
-### Skinning
-
-#### Rules
-
-- **Custom catchers must be included in v2 skin format.** This is to ensure correct display on all skins. The required filenames are `fruit-catcher-idle.png`, `fruit-catcher-kiai.png` and `fruit-catcher-fail.png`.
-- **Custom objects must include all necessary elements and be coloured in a scale of grey colours.** This is to ensure that your images are clearly defined and of acceptable quality. The needed elements can be found at [Skinning/osu!catch](/wiki/Skinning/osu!catch). Additionally, it is recommendable to use transparent elements for the overlays.
-- **Skinned elements must be the same size as their default skin counterparts.** This is so they represent the hitbox properly and don't alter gameplay. The current dimensions used in the default skin are 128x128 pixels for the [fruits](/wiki/Gameplay/Hit_object/Fruit), 82x103 for the [drops](/wiki/Gameplay/Hit_object/Juice_stream#drop) and 306x320 for the catcher.
-
-#### Guidelines
-
-- **Custom catchers should additionally include the element `lighting.png` to complete the skin set.** This element is however optional to add and has default dimensions of 184x184 pixels, though it may vary depending on the desired visibility of the element.
 
 
 ## 難易度別(Difficulty-specific)
@@ -95,5 +81,84 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - ![](/wiki/shared/diff/easy-c.png?20211215) Cup
 - ![](/wiki/shared/diff/normal-c.png?20211215) Salad
 - ![](/wiki/shared/diff/hard-c.png?20211215) Platter
-- ![](/wiki/shared/diff/insane-c.png?20211215) Rain
+- ![](/wiki/shared/diff/insane-c.png?20211215)  Rain
 - ![](/wiki/shared/diff/expert-c.png?20211215) Overdose
+- ![](/wiki/shared/diff/expertplus-c.png?20211215) Deluge
+
+### スナップ基準表 (Snapping Reference Table)
+
+// msとミリ秒どちらの方ががいいわかりません。
+
+| 難易度 | イージー ダッシュ | ハード ダッシュ | イージー プハイパーダッシュ | ハード プハイパーダッシュ |
+| :-- | :-- | :-- | :-- | :-- |
+| **Salad** | 250ミリ秒以上 | 125-249ミリ秒 | - | - |
+| **Platter** | 125ミリ秒以上 | 62-124ミリ秒 | 250ミリ秒以上 | 125-249ミリ秒 |
+| **Rain** | 125ミリ秒以上 | 62-124ミリ秒 | 125ミリ秒以上 | 62-124ミリ秒 |
+
+### ![](/wiki/shared/diff/easy-c.png?20211215) Cup
+
+#### ルール
+
+- **[Dashes](/wiki/Gameplay/Dash) and [hyperdashes](/wiki/Gameplay/Hyperdash) of any kind are disallowed.** This is to ensure an easy starting experience to beginner players. In order to test that out, it must be possible to achieve an SS rank on the difficulty without making use of the dash key.
+- **ダッシュとハイパーダッシュは禁止されています。** 初心者プレイヤーに簡単な経験を提供するためです。確認するために、ダッシュを使わずにその難易度でSSランクを達成できる必要があります。
+
+
+- **At least 250 ms must be left between circles/sliders and the start and end of [spinners](/wiki/Gameplay/Hit_object/Spinner).** This is to ensure readability.
+- **スピナーの開始および終了とフルーツの間に少なくとも250ミリ秒を残す必要があります。** これは、見るやすさのためです。
+
+#### ガイドライン
+
+- **[Combos](/wiki/Beatmapping/Combo) should not exceed 8 objects including slider tails and repeats.** [Spinners](/wiki/Gameplay/Hit_object/Spinner) are an exception.
+- **Note density should follow a mostly 1/1 pattern.** 1/2 and/or 1/3 patterns should be used sparingly.
+
+- **コンボは8つのフルーツを超えないようにしてください。** スライダーのリピートとスライダーの末端もフルーツです。スピナーは例外です。
+- **ノーツの密度は、ほとんどが1/1ビート、** 場合によってと1/2ビートと1/3ビート。
+
+
+#### 難易度設定のガイドライン
+
+- [Approach Rate](/wiki/Beatmap/Approach_rate) / [Overall Difficulty](/wiki/Beatmap/Overall_difficulty) should be between 4 and 6.
+- [HP Drain Rate](/wiki/Beatmap/HP_drain_rate) should be between 2 and 3.
+- [Circle Size](/wiki/Beatmap/Circle_size) should be between 2 and 3.
+- 
+- ARとODは、4から6の間にしてください。
+- HPは、2から3の間にしてください。
+- CSは、2から3の間にしてください。
+
+
+### ![](/wiki/shared/diff/normal-c.png?20211215) Salad
+
+#### ルール
+
+- **[Hyperdashes](/wiki/Gameplay/Hyperdash) of any kind are disallowed.** This is to ensure a manageable step in difficulty for novice players.
+- **[Dashes](/wiki/Gameplay/Dash) must have at least a 125 ms gap between their two objects.**
+- **[Dashes](/wiki/Gameplay/Dash) that are [basic-snapped](/wiki/Gameplay/Dash_snapping#basic-snapped) must not be used more than two times between consecutive [fruits](/wiki/Gameplay/Hit_object/Fruit).**
+- **[Dashes](/wiki/Gameplay/Dash) that are [higher-snapped](/wiki/Gameplay/Dash_snapping#higher-snapped) must always be followed by a [walk](/wiki/Gameplay/Walk).**
+- **[Edge dashes](/wiki/Gameplay/Edge_dash) must not be used.** They require extremely precise timing which cannot be expected of less-experienced players.
+- **At least 250 ms must be left between circles/sliders and the start and end of [spinners](/wiki/Gameplay/Hit_object/Spinner).** This is to ensure readability.
+
+- **ハイパーダッシュとハイパーダッシュは禁止されています。** 初心者プレイヤーに簡単な経験を提供するためです。
+- **ダッシュは、2つのフルーツ間に少なくとも125ミリ秒の間隔を持たなければなりません。**
+- **イージーなダッシュは、連続するフルーツの間で2回以上使用してはいけません。**
+- **ハードダッシュの後にはダッシュを続けてはいけません。**
+- **エッジダッシュは禁止されています。**
+- **スピナーの開始および終了とフルーツの間に少なくとも250ミリ秒を残す必要があります。** これは、見るやすさのためです。
+
+
+#### ガイドライン
+
+- **All distances should be clear on whether they require the player to [walk](/wiki/Gameplay/Walk) or [dash](/wiki/Gameplay/Dash).** This is to ensure that players can easily recognise patterns that require dashing.
+- **[Dashes](/wiki/Gameplay/Dash) that are [basic-snapped](/wiki/Gameplay/Dash_snapping#basic-snapped) should not be used consecutively when different beat snaps are used.** For example, a 1/1 dash followed by a 1/2 dash.
+- **[Dashes](/wiki/Gameplay/Dash) that are [higher-snapped](/wiki/Gameplay/Dash_snapping#higher-snapped) should not be followed by [antiflow](/wiki/Beatmapping/Mapping_techniques/Antiflow) patterns.**
+- **[Combos](/wiki/Beatmapping/Combo) should not exceed 10 objects including slider tails and repeats.** [Spinners](/wiki/Gameplay/Hit_object/Spinner) are an exception.
+- **Note density should follow a mostly 1/1 and 1/2 pattern.** 1/3 and/or 1/4 patterns should be used sparingly.
+
+
+- **コンボはつのフルーツを超えないようにしてください。** スライダーのリピートとスライダーの末端もフルーツです。スピナーは例外です。
+
+#### 難易度設定のガイドライン
+
+- ARとODは、6から7の間にしてください。
+- HPは、3から4の間にしてください。
+- CSは、2.5から3.5の間にしてください。
+
