@@ -12,7 +12,7 @@ Before even touching music production, [**7\_7**](https://osu.ppy.sh/users/74911
 
 Peaking at **global rank #5** in osu!taiko, **7\_7** has encountered and endless slew of insane songs through his drum bashing journey, leading him to produce a highly specific style of music that's perfect for rhythm games: *ultra-dense breakcore tracks with intensity that no other songs dare to match.*
 
-**25** of those songs are ready for mapping from [**7\_7**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/356), including the [osu!original](/wiki/osu%21_originals) *7\_7 feat. kasane vavzed - 7D* that debuted in the Grand Finals pool of [TWC 2023](/wiki/Tournaments/TWC/2023) (which happened a few minutes ago, by the way).
+**25** of those songs are ready for mapping from [**7\_7**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/356), including the [osu!original](/wiki/osu!_originals) *7\_7 feat. kasane vavzed - 7D* that debuted in the Grand Finals pool of [TWC 2023](/wiki/Tournaments/TWC/2023) (which happened a few minutes ago, by the way).
 
 If you're struggling to map something by **7\_7** (or any of our other Featured Artists), check out the `#featured-artists` channel in the [osu!dev Discord Server](https://discord.gg/ppy).
 
