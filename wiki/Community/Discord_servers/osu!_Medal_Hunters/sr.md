@@ -1,7 +1,7 @@
 ---
 tags:
-  - медаље
-  - лов на медаље
+  - medals
+  - medal hunting
 ---
 
 # osu! Medal Hunters Discord сервер
