@@ -54,7 +54,7 @@ Wenn sich nach einigen Tagen niemand gemeldet hat, versuche folgendes:
 
 - Stelle sicher, dass du auf alle Vorschläge eingegangen bist — es könnten Personen auf deine Antwort warten.
 - Frage andere Beteiligte im [osu!dev Discord-Server](/wiki/Community/osu!dev_Discord_server) (Kanal `#osu-wiki`) oder in den GitHub-Kommentaren.
-- Schaue dir einige genehmigte Änderungsanfragen für deine Sprache an und kontaktiere ihre Gutachter und/oder Autoren, um Hilfe für die Übersetzung zu bekommen ([beispielhafte GitHub-Abfrage](https://github.com/ppy/osu-wiki/pulls?q=is%3Apr+is%3Amerged+%5BID%5D)).
+- Schaue dir einige genehmigte Änderungsanfragen für deine Sprache an und kontaktiere ihre Gutachter und/oder Autoren, um Hilfe für die Übersetzung zu bekommen ([beispielhafte GitHub-Abfrage](https://github.com/ppy/osu-wiki/pulls?q=is:pr+is:merged+[ID])).
 - Frage deine Freunde nach einem kurzen Blick!
 
 Zusätzlich zu einem manuellen Bewertungsprozess hat das Repository des osu!-Wikis eine [Reihe von automatisierten Überprüfungen](/wiki/osu!_wiki/Maintenance#ci-checks), die sicherstellen, dass deine Änderungen dem allgemeinen Stil des Wikis folgen und frei von Formatierungsfehlern sind. Um ihren Status zu sehen, öffne den Tab `Actions` deiner Änderungsanfrage und folge den Diagnosemeldungen unter den Fehlern, sofern vorhanden.
