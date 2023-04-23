@@ -122,7 +122,7 @@ osu! 的谱面都是充满活力的社区内玩家们的智慧结晶，想与大
 
 通过其他应用与 osu! 交互。
 
-[API](/wiki/osu!api) • [Bot 账户](/wiki/Bot_account) • [标识使用准则](/wiki/Brand_identity_guidelines) • [osu!dev Discord 服务器](/wiki/Community/osu!dev_Discord_server)
+[API](/wiki/osu!api) • [Bot 账户](/wiki/Bot_account) • [标识使用准则](/wiki/Brand_identity_guidelines) • [osu! Discord 服务器](/wiki/Community/osu!_Discord_server)
 
 </div>
 <div class="wiki-main-page-panel">
