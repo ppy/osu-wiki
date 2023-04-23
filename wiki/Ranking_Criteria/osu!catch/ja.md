@@ -51,7 +51,6 @@ Osu!catchのランキング基準は、osu!catch固有の難易度を作成す�
 - The following rule is planned to be removed from the RC and doesn't need to be translated, just making a note of it in case something happens and it stays.
 - **Use the same slider tick rate on every difficulty** as it is a property of the music rather than the mapping. However, lower difficulties may use lower tick rates to reduce accuracy requirements for newer players, providing they still follow the rhythm of the song. Using high tick rates purely to increase score/combo/difficulty is senseless.
 
-
 ## 難易度別 (Difficulty-specific)
 
 全体的なルール、ガイドラインは全ての難易度のCatch譜面に適用されます。リズムに関するルール、ガイドラインは「4/4拍子、BPM180程度の譜面」を基準に適用されますが、楽曲が極端に遅い、速い場合には[Ranking CriteriaのScaling BPM](/wiki/Ranking_Criteria/Scaling_BPM)にあるように、許容範囲が一部異なる場合があります。
@@ -69,7 +68,6 @@ Osu!catchのランキング基準は、osu!catch固有の難易度を作成す�
 ### スナップ基準表 (Snapping Reference Table)
 
 // msとミリ秒どちらの方ががいいわかりません。
-
 
 | 難易度 | イージー ダッシュ | ハード ダッシュ | イージー プハイパーダッシュ | ハード プハイパーダッシュ |
 | :-- | :-- | :-- | :-- | :-- |
@@ -91,13 +89,11 @@ Osu!catchのランキング基準は、osu!catch固有の難易度を作成す�
 - **コンボは8つのフルーツを超えないようにしてください。** スライダーのリピートとスライダーの末端もフルーツです。スピナーは例外です。
 - **ノーツの密度は、ほとんどが1/1ビート、** 場合によってと1/2ビートと1/3ビート。
 
-
 #### 難易度設定のガイドライン (Difficulty setting guidelines)
 
 - [AR](/wiki/Beatmap/Approach_rate)と[OD](/wiki/Beatmap/Overall_difficulty)は、4から6の間にしてください。
 - [HP](/wiki/Beatmap/HP_drain_rate)は、2から3の間にしてください。
 - [CS](/wiki/Beatmap/Circle_size)は、2から3の間にしてください。
-
 
 ### ![](/wiki/shared/diff/normal-c.png?20211215) Salad
 
@@ -110,7 +106,6 @@ Osu!catchのランキング基準は、osu!catch固有の難易度を作成す�
 - **エッジダッシュは禁止されています。**
 - **スピナーの開始および終了とフルーツの間に少なくとも250ミリ秒を残す必要があります。** これは、見るやすさのためです。
 
-
 #### ガイドライン (Guidelines)
 
 - **すべてのフルーツの距離は、プレイヤーがダッシュする必要があるかどうかが明確であるべきです。** これは、プレイヤーがダッシュが必要を簡単に見えるためです。
@@ -119,13 +114,11 @@ Osu!catchのランキング基準は、osu!catch固有の難易度を作成す�
 - **コンボは１０つのフルーツを超えないようにしてください。** スライダーのリピートとスライダーの末端もフルーツです。スピナーは例外です。
 - **ノーツの密度は、ほとんどが1/1と1/2ビート、** 場合によってと1/3と1/4ビート。
 
-
 #### 難易度設定のガイドライン (Difficulty setting guidelines)
 
 - ARとODは、6から7の間にしてください。
 - HPは、3から4の間にしてください。
 - CSは、2.5から3.5の間にしてください。
-
 
 ### ![](/wiki/shared/diff/hard-c.png?20211215) Platter
 
@@ -143,7 +136,6 @@ Osu!catchのランキング基準は、osu!catch固有の難易度を作成す�
 - **スピナーの開始とフルーツの間に少なくとも125ミリ秒を残す必要があります。** これは、見るやすさのためです。
 - **スピナーの終了とフルーツの間に少なくとも250ミリ秒を残す必要があります。** これは、見るやすさのためです。
 
-
 #### ガイドライン (Guidelines)
 
 - **ハードハイパーダッシュは使用しないでください。** イージーハイパーダッシュなら、トリガー距離の1.5倍の制限が推奨されます。
@@ -152,13 +144,11 @@ Osu!catchのランキング基準は、osu!catch固有の難易度を作成す�
 - **コンボは12つのフルーツを超えないようにしてください。** スライダーのリピートとスライダーの末端もフルーツです。スピナーは例外です。
 - **ノーツの密度は、ほとんどが1/2ビートおよび/または1/3ビートの組み合わせ、** 場合によってと1/4と1/6ビート。
 
-
 #### 難易度設定のガイドライン (Difficulty setting guidelines)
 
 - ARとODは、7から8.2の間にしてください。
 - HPは、4から5の間にしてください。
 - CSは、3から4の間にしてください。
-
 
 ### ![](/wiki/shared/diff/insane-c.png?20211215) Rain
 
@@ -181,7 +171,6 @@ Osu!catchのランキング基準は、osu!catch固有の難易度を作成す�
 - **エッジダッシュは、単独で使用することができます**　（他のダッシュやハイパーダッシュと併用しないでください）。
 - **コンボは16つのフルーツを超えないようにしてください。** スライダーのリピートとスライダーの末端もフルーツです。スピナーは例外です。
 - **ノーツの密度は、ほとんどが1/2 + 1/4ビートおよび/または1/3 + 1/6ビートの組み合わせ、** 場合によってと1/8ビート。
-
 
 #### 難易度設定のガイドライン (Difficulty setting guidelines)
 
@@ -213,7 +202,6 @@ Osu!catchのランキング基準は、osu!catch固有の難易度を作成す�
 - // the one above might also be wrong
 - **コンボは16つのフルーツを超えないようにしてください。** スライダーのリピートとスライダーの末端もフルーツです。スピナーは例外です。
 - **ノーツの密度は、ほとんどが1/2 + 1/4ビートおよび/または1/3 + 1/6ビートの組み合わせ、** 場合によってと1/8ビート。
-
 
 #### 難易度設定のガイドライン (Difficulty setting guidelines)
 
