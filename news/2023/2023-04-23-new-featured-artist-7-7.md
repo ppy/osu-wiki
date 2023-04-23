@@ -26,8 +26,6 @@ If all you need is some inspiration though, check out [the map from TWC](LINK) i
 
 ### 7\_7 feat. kasane vavzed - 7D
 
-Play through [this brand osu!taiko map](LINK) mapped by the artist!
-
 <audio controls>
     <source src="https://assets.ppy.sh/artists/356/Songs/7_7%20feat.%20kasane%20vavzed%20-%207D.mp3">
 </audio>
