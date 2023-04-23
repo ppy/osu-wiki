@@ -16,7 +16,7 @@ Peaking at **global rank #5** in osu!taiko, **7\_7** has encountered and endless
 
 If you're struggling to map something by **7\_7** (or any of our other Featured Artists), check out the `#featured-artists` channel in the [osu!dev Discord Server](https://discord.gg/ppy).
 
-If all you need is some inspiration though, check out [the map from TWC](LINK) in the video below, along with the rest of these previews:
+If all you need is some inspiration though, check out the map from TWC in the video below, along with the rest of these previews:
 
 <div align="center">
     <video width="95%" controls>
