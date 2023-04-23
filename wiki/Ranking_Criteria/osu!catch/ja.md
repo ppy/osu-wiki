@@ -24,15 +24,14 @@ Osu!catchのランキング基準は、osu!catch固有の難易度を作成す�
 ### ゲームプレイにおいて(Gameplay)
 
 ## 共通 (Overall)
+
 共通のルールとガイドラインは、あらゆる種類のosu!catchの難易度に適用されます。リズムに関するルールとガイドラインは、4/4ビートの約180BPMのビートマップに適用されます。楽曲が急激に早くなったり遅くなったりした場合、ランキング基準のBPMスケーリングにあるように、いくつかの変数が異なる可能性があります。
 
 ### 一般 (General)
 
 #### ルール (Rules)
 - **すべての難易度でSSを達成できる必要があります。** つまり全てのフルーツ、 drops、dropletsをキャッチできる必要があります。
-
 - **難易度には、少なくとも2つの異なcombo coloursを使用する必要があります。** コンボカラーは、ビートマップの背景画、ストーリーボード、ビデオと絶対に混ざらないようにする必要があります。これにより、ヒットオブジェクトが常にプレイヤーに見えるようになり、combo colourが背景画と混ざらないようになります。
-
 - **キーサウンドを使う場合、ヒットノーマルも使う必要があります。** ヒットサウンドが曲と完全にマッチしている場合、フィードバックは最小限に抑えられます。
 
 #### ガイドライン (Guidelines)
@@ -47,7 +46,6 @@ Osu!catchのランキング基準は、osu!catch固有の難易度を作成す�
 - **スライダーTick Rateは楽曲に合わせて設定してください。** 例えば、楽曲で1/3のsnapが使われているだけの場合、Tick rate 2や4を使うのは適切ではありません。
 - **大体50ルミナンス以下のcombo colourを使わないでください。** 暗い色は、背景画の暗さが低い場合、フルーツの見るやすさに影響を与えます。
 - **キアイタイムを使ったら、大体220ルミナンス以上のcombo colourは使わないでください。** 明るいcombo colourはキアイタイム中に明るい脈動を作り出し、目に不快感を与えられる。
-
 - The following rule is planned to be removed from the RC and doesn't need to be translated, just making a note of it in case something happens and it stays.
 - **Use the same slider tick rate on every difficulty** as it is a property of the music rather than the mapping. However, lower difficulties may use lower tick rates to reduce accuracy requirements for newer players, providing they still follow the rhythm of the song. Using high tick rates purely to increase score/combo/difficulty is senseless.
 
@@ -194,7 +192,6 @@ Osu!catchのランキング基準は、osu!catch固有の難易度を作成す�
 - **[Edge dashes](/wiki/Gameplay/Edge_dash) may be used with caution for a maximum of three consecutive objects, and should not be used after [hyperdashes](/wiki/Gameplay/Hyperdash).**
 - **[Combos](/wiki/Beatmapping/Combo) should not exceed 16 objects including slider tails and repeats.** [Spinners](/wiki/Gameplay/Hit_object/Spinner) are an exception.
 - **Note density should follow a mostly 1/2 + 1/4 and/or 1/3 + 1/6 pattern.** 1/8 patterns and higher should be used sparingly.
-
 - **スライダーの中でハイパーダッシュのパターンを難しくしないでください。** 
 // please help i can't translate that jesus.
 - //also unsure of how to translate object pairs
