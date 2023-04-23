@@ -16,7 +16,7 @@ Peaking at **global rank #5** in osu!taiko, **7\_7** has encountered and endless
 
 If you're struggling to map something by **7\_7** (or any of our other Featured Artists), check out the `#featured-artists` channel in the [osu!dev Discord Server](https://discord.gg/ppy).
 
-If all you need is some inspiration though, check out the map from TWC in the video below, along with the rest of these previews:
+If all you need is some inspiration though, check out [the map from TWC in the video below](https://osu.ppy.sh/beatmapsets/1980743#taiko/4113017), along with the rest of these previews:
 
 <div align="center">
     <video width="95%" controls>
@@ -25,6 +25,8 @@ If all you need is some inspiration though, check out the map from TWC in the vi
 </div>
 
 ### 7\_7 feat. kasane vavzed - 7D
+
+Play through [this brand new osu!taiko map](https://osu.ppy.sh/beatmapsets/1980743#taiko/4113017) mapped by the artist!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/356/Songs/7_7%20feat.%20kasane%20vavzed%20-%207D.mp3">
