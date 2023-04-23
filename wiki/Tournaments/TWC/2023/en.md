@@ -127,7 +127,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad
 - No Mod
   1. [Sobrem - Super Macaron (4sbet1) \[super macaroni\] *(temporary link)*](https://leoflt.com/s/vhvQ)
   2. [katagiri - Angel's Salad (Nwolf) \[WereOni\]](https://osu.ppy.sh/beatmapsets/1980692#taiko/4112862)
-  3. [7\_7 feat. kasane vavzed - 7D (7\_7) \[7\_7\] *(temporary link)*](https://leoflt.com/s/WAVd)
+  3. [7\_7 feat. kasane vavzed - 7D (7\_7) \[7\_7\]](https://osu.ppy.sh/beatmapsets/1980743#taiko/4113017)
   4. [II-L - EXPLORER-4 (Miniature Lamp) \[Cosmic Cruise\]](https://osu.ppy.sh/beatmapsets/1664805#taiko/3398617)
   5. [Nile - Snake Pit Mating Frenzy (ikin5050) \[Snake Oni\]](https://osu.ppy.sh/beatmapsets/1980708#taiko/4112907)
   6. [Raimukun - Firmament Star (rubies87) \[Galactic Ascension\] *(temporary link)*](https://leoflt.com/s/dngk)
