@@ -31,7 +31,7 @@ osu! 디스코드 서버는 여러 채널이 있으며, 대부분 특정 프로�
 | `#osu` | [osu!(Lazer)](/wiki/Client/Release_stream/Lazer) |
 | `#osu-framework` | [osu!Framework](https://github.com/ppy/osu-framework) |
 | `#osu-web` | [osu!web](https://github.com/ppy/osu-web) |
-| `#github-feed` | 다양한 [ppy 깃헙 저장소들](https://github.com/ppy)의 이벤트 피드 |
+| `#github-feed` | 다양한 [ppy GitHub 저장소](https://github.com/ppy)의 이벤트 피드 |
 | `Meetings` (스테이지 채널) | [osu! 커뮤니티 미팅](/wiki/Community/osu!_community_meetings)과 개발자 진행 미팅 |
 
 ### 난이도 관련 (Diffcalc)
