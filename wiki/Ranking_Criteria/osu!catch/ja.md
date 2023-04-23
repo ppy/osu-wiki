@@ -48,7 +48,7 @@ Osu!catchのランキング基準は、osu!catch固有の難易度を作成す�
 - **大体50ルミナンス以下のcombo colourを使わないでください。** 暗い色は、背景画の暗さが低い場合、フルーツの見るやすさに影響を与えます。
 - **キアイタイムを使ったら、大体220ルミナンス以上のcombo colourは使わないでください。** 明るいcombo colourはキアイタイム中に明るい脈動を作り出し、目に不快感を与えられる。
 
-- This rule is planned to be removed from the RC and doesn't need to be translated
+- The following rule is planned to be removed from the RC and doesn't need to be translated, just making a note of it in case something happens and it stays.
 - **Use the same slider tick rate on every difficulty** as it is a property of the music rather than the mapping. However, lower difficulties may use lower tick rates to reduce accuracy requirements for newer players, providing they still follow the rhythm of the song. Using high tick rates purely to increase score/combo/difficulty is senseless.
 
 
