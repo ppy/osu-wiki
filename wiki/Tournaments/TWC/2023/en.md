@@ -102,26 +102,50 @@ The osu!taiko World Cup 2023 is run by various community members.
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad463970c6b5c22f623fcefd8d5e63d#file-twc-2023-player-list-csv).
 
-## Match schedule: Finals
+## Match schedule: Grand Finals
 
-### Saturday, 22 April 2023
-
-| Team A | Team B | Match time |  |
-| --: | :-- | :-- | :-: |
-| South Korea ::{ flag=KR }:: | ::{ flag=CN }:: China | [Apr 22 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230422T130000&p1=1440&p2=235&p3=33) | [^losers-bracket] |
-| United States ::{ flag=US }:: | ::{ flag=DE }:: Germany | [Apr 22 (Sat) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230422T200000&p1=1440&p2=263&p3=37) | [^losers-bracket] |
-
-### Sunday, 23 April 2023
+### Saturday, 29 April 2023
 
 | Team A | Team B | Match time |  |
 | --: | :-- | :-- | :-: |
-| United States ::{ flag=US }:: | ::{ flag=KR }:: South Korea | [Apr 23 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230423T030000&p1=1440&p2=263&p3=235) | [^potential-match] |
-| United States ::{ flag=US }:: | ::{ flag=CN }:: China | [Apr 23 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230423T030000&p1=1440&p2=263&p3=33) | [^potential-match] |
-| Japan ::{ flag=JP }:: | ::{ flag=TW }:: Taiwan | [Apr 23 (Sun) 05:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230423T050000&p1=1440&p2=248&p3=241) | [^winners-bracket] |
-| Germany ::{ flag=DE }:: | ::{ flag=KR }:: South Korea | [Apr 23 (Sun) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230423T080000&p1=1440&p2=37&p3=235) | [^potential-match] |
-| Germany ::{ flag=DE }:: | ::{ flag=CN }:: China | [Apr 23 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230423T110000&p1=1440&p2=37&p3=33) | [^potential-match] |
+| Taiwan ::{ flag=TW }:: | ::{ flag=DE }:: Germany | [Apr 29 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230429T110000&p1=1440&p2=241&p3=37) | [^losers-bracket] |
+
+### Sunday, 30 April 2023
+
+| Team A | Team B | Match time |  |
+| --: | :-- | :-- | :-: |
+| Japan ::{ flag=JP }:: | ::{ flag=TW }:: Taiwan | [Apr 30 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230430T110000&p1=1440&p2=248&p3=241) | [^potential-match] |
+| Japan ::{ flag=JP }:: | ::{ flag=DE }:: Germany | [Apr 30 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230430T110000&p1=1440&p2=248&p3=37) | [^potential-match] |
+| Winner of LBR Final | ::{ flag=JP }:: Japan | [Apr 30 (Sun) 12:30 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230430T123000&p1=1440&p2=248) | [^bracket-reset] |
 
 ## Mappools
+
+### Grand Finals
+
+**[Download the mappack here (98 MB)](https://drive.google.com/uc?id=1LFIn2kTwIXtRpeNeTuza0Kh21tNvYhMo)**
+
+- No Mod
+  1. [Sobrem - Super Macaron (4sbet1) \[Super Macaroni\]](https://osu.ppy.sh/beatmapsets/1980775#taiko/4113069)
+  2. [katagiri - Angel's Salad (Nwolf) \[WereOni\]](https://osu.ppy.sh/beatmapsets/1980692#taiko/4112862)
+  3. [7\_7 feat. kasane vavzed - 7D (7\_7) \[7\_7\]](https://osu.ppy.sh/beatmapsets/1980743#taiko/4113017)
+  4. [II-L - EXPLORER-4 (Miniature Lamp) \[Cosmic Cruise\]](https://osu.ppy.sh/beatmapsets/1664805#taiko/3398617)
+  5. [Nile - Snake Pit Mating Frenzy (ikin5050) \[Snake Oni\]](https://osu.ppy.sh/beatmapsets/1980708#taiko/4112907)
+  6. [Raimukun - Firmament Star (rubies87) \[Galactic Ascension\]](https://osu.ppy.sh/beatmapsets/1980788#taiko/4113087)
+- Hidden
+  1. [Riya - Laboratory-18 (woosungko) \[Synthesis (TWC Ver.)\]](https://osu.ppy.sh/beatmapsets/1814106#taiko/3721620)
+  2. [FRASER EDWARDS - The Harvest (nananass) \[Oni\]](https://osu.ppy.sh/beatmapsets/1878351#taiko/3866454)
+- Hard Rock
+  1. [Silentroom - Shuu no Hazama (HiroK) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1980705#taiko/4112897)
+  2. [Rabbit House - Gehenna (Raphalge) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1980698#taiko/4112875)
+- Double Time
+  1. [Camellia - PLANET//SHAPER (Genjuro) \[Fabrication of the Universe\]](https://osu.ppy.sh/beatmapsets/921130#taiko/1923544)
+  2. [MIMI - Toumeika (ler1211) \[Transparent\]](https://osu.ppy.sh/beatmapsets/1980700#taiko/4112881)
+- FreeMod
+  1. [Marmalade butcher - Amanita (sendol) \[X\]](https://osu.ppy.sh/beatmapsets/1720005#taiko/3515099)
+  2. [Thaehan - Overworld (Tasha) \[Muri\]](https://osu.ppy.sh/beatmapsets/545510#taiko/1155694)
+  3. [LV.4 feat. Mawata Spica - Vortex of Sorrow (uone) \[END\]](https://osu.ppy.sh/beatmapsets/1980701#taiko/4112884)
+- Tiebreaker
+  1. **[Gram - Sigrdrifa (Nifty) \[Prose Edda\]](https://osu.ppy.sh/beatmapsets/1981053#taiko/4113613)**
 
 ### Finals
 
@@ -273,6 +297,24 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad
   1. [Zekk - ReIMEI (cdh) \[AsHITA\]](https://osu.ppy.sh/beatmapsets/1955236#taiko/4049602)
 
 ## Match results
+
+### Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1ucXho5aHNBINl73zwoaSd7Lee2d1Bvr5d_DfwaKbfkE?rm=minimal).
+
+Saturday, 22 April 2023:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **South Korea** ::{ flag=KR }:: | **7** | 3 | ::{ flag=CN }:: China | [#1](https://osu.ppy.sh/community/matches/108099877) |
+| United States ::{ flag=US }:: | 0 | **7** | ::{ flag=DE }:: **Germany** | [#1](https://osu.ppy.sh/community/matches/108108909) |
+
+Sunday, 23 April 2023:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Japan** ::{ flag=JP }:: | **7** | 0 | ::{ flag=TW }:: Taiwan | [#1](https://osu.ppy.sh/community/matches/108116856) |
+| **Germany** ::{ flag=DE }:: | **7** | 3 | ::{ flag=KR }:: South Korea | [#1](https://osu.ppy.sh/community/matches/108118899) |
 
 ### Semifinals
 
@@ -578,8 +620,8 @@ The final standings for the Qualifier stage can be found at the following [sprea
 
 ## Notes
 
-[^winners-bracket]: Winners bracket match
 [^losers-bracket]: Losers bracket match
+[^bracket-reset]: Bracket reset match – will only take place if Japan loses the preceding match
 [^potential-match]: Potential match – final matchup depends on the results of the preceding Losers Bracket matches
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rank sum
