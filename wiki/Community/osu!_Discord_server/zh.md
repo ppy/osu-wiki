@@ -9,7 +9,7 @@ tags:
 
 **osu!** Discord 服务器，或者 **osu!dev**，是用于开发的 osu! 的官方 [Discord](https://discord.com/) 服务器。服务器可用于讨论和处理 osu! 的开源和社区项目，是方便玩家给 osu! 做出贡献，或者联系上 [osu! 团队](/wiki/People/osu!_team)的主要场所。
 
-服务器永久邀请码是：<https://discord.gg/ppy>
+服务器永久邀请链接是：<https://discord.gg/ppy>
 
 建议刚进入服务器的玩家在 `#introductions` 频道中自我介绍一下，但这并不是硬性需求，不介绍也不会影响你接触服务器的其他部分。
 
