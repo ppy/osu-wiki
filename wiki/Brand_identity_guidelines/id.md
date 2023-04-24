@@ -27,7 +27,7 @@ Untuk istilah lainnya yang merangkap sebagai kata benda, kata "osu!" harus ditul
 
 #### Warna tunggal
 
-![](img/usage-single-colour.png)
+![](img/usage-single-colour.png "Logo osu! warna tunggal")
 
 Versi ini merupakan versi warna tunggal (*single colour*) dari logo osu! cookie. Versi logo ini sangat fleksibel dan dapat dipadukan dengan berbagai gaya desain.
 
@@ -35,7 +35,7 @@ Mohon gunakan berkas asli yang disediakan pada perangkat di atas sebagai dasar d
 
 #### Warna penuh
 
-![](img/usage-full-colour.png)
+![](img/usage-full-colour.png "Logo osu! warna penuh")
 
 Versi ini merupakan versi warna penuh (*full colour*) dari logo osu! cookie. Efek bayangan (*drop shadow*) yang tertera merupakan bagian dari logo.
 
@@ -43,7 +43,7 @@ Mohon gunakan berkas asli yang disediakan pada perangkat di atas sebagai dasar d
 
 ### Area dan jarak antar logo
 
-![](img/clear-space-area.png)
+![](img/clear-space-area.png "Contoh penempatan ruang di sekitar logo osu!")
 
 Mohon beri cookie jarak yang memadai dengan elemen desain lainnya. Gunakan huruf "o" dalam kata "osu!" sebagai pedoman ukuran jarak.
 
@@ -51,7 +51,7 @@ Mohon beri cookie jarak yang memadai dengan elemen desain lainnya. Gunakan huruf
 
 Berhubung osu! merupakan permainan yang berorientasi pada komunitas, logo osu! cookie dirancang sedemikian rupa agar sederhana, serbaguna, dan dapat diterapkan ke dalam berbagai gaya desain dengan mudah. osu! tidak membatasi warna yang dapat digunakan untuk cookie.
 
-![](img/restrictions-good-single.png)
+![](img/restrictions-good-single.png "Berbagai contoh hasil modifikasi logo osu! warna tunggal yang diperkenankan")
 
 - Gambar cookie harus tetap terlihat tajam dalam situasi apapun.
 - Kamu dapat menggunakan warna apapun sebagai warna dasar cookie.
@@ -60,7 +60,7 @@ Berhubung osu! merupakan permainan yang berorientasi pada komunitas, logo osu! c
 
 ---
 
-![](img/restrictions-bad-single.png)
+![](img/restrictions-bad-single.png "Berbagai contoh hasil modifikasi logo osu! warna tunggal yang tidak diperkenankan")
 
 - **Jangan** mengubah rasio aspek cookie.
 - **Jangan** memutar cookie. Orientasi cookie harus sejajar dengan mata pembaca.
@@ -79,7 +79,7 @@ Berhubung osu! merupakan permainan yang berorientasi pada komunitas, logo osu! c
 
 Berhubung osu! merupakan permainan yang berorientasi pada komunitas, logo osu! cookie telah dirancang sedemikian rupa agar sederhana, serbaguna, dan raman untuk berbagai gaya desain. Mohon gunakan logo yang kami sediakan apa adanya tanpa modifikasi apa pun. Seluruh batasan yang berlaku pada versi warna tunggal juga berlaku pada versi warna penuh.
 
-![](img/restrictions-bad-full.png)
+![](img/restrictions-bad-full.png "Berbagai contoh hasil modifikasi logo osu! warna penuh yang tidak diperkenankan")
 
 - **Jangan** gunakan cookie versi lama.
 - **Jangan** gunakan warna pink yang berbeda pada cookie.
