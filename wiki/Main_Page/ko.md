@@ -39,7 +39,6 @@ layout: main_page
 
 [비트맵](/wiki/Beatmap) • [난이도](/wiki/Beatmap/Difficulty) • [히트 오브젝트](/wiki/Gameplay/Hit_object) • [모드](/wiki/Gameplay/Game_modifier) • [점수](/wiki/Gameplay/Score) • [다시 보기](/wiki/Gameplay/Replay) • [메달](/wiki/Medals) • [멀티 플레이](/wiki/Client/Interface/Multiplayer)
 
-
 </div>
 <div class="wiki-main-page-panel">
 
