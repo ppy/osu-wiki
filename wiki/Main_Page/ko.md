@@ -10,6 +10,7 @@ layout: main_page
 <div class="wiki-main-page-panel wiki-main-page-panel--full">
 
 # 시작하기
+
 하단에 나열된 문서들과 가이드들이 당신이 osu!에 적응하기 위해 최선의 도움을 줄 것입니다. 만약 문제가 발견하거나 도움이 필요한 경우가 발생하게 된다면, 주저하지 말고 [도움말 포럼](https://osu.ppy.sh/forum/5)에 방문하여 도움을 요청하세요!
     
 [규칙](/wiki/Rules) • [설치 방법](/wiki/Client/Installation) • [가입하기](/wiki/Registration) • [도움 센터](/wiki/Help_centre)
@@ -31,6 +32,7 @@ layout: main_page
 <div class="wiki-main-page-panel">
 
 # 게임 시작하기
+
 원을 클릭하고, 북을 두들기며, 과일을 받고, 키를 이용해 신시사이저를 연주하는 모든 것에 대한 정보가 여기 있습니다.
     
 [게임 모드](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
