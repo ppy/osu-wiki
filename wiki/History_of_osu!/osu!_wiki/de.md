@@ -1,3 +1,8 @@
+---
+outdated_since: 1c69bc17aec991fc7e7ab8443bc4a6e41da05925
+outdated_translation: true
+---
+
 # Geschichte des osu!-Wikis
 
 ## MediaWiki (2011 bis 2017)
@@ -10,7 +15,7 @@
 | 06.12.2011 | [Das osu!-Wiki ist jetzt live!](https://osu.ppy.sh/community/forums/topics/68525). |
 | November 2012 | Das osu!-Wiki hat jetzt 3 Admins (Dellirium, Repflez). Vorher war nur peppy der Admin. |
 | 27.01.2013 (06:12 UTC) | peppy integrierte das osu!-Wiki in die Hauptseite. [Link zu peppys Beitrag](https://osu.ppy.sh/community/forums/posts/2082803). |
-| 2014 | Das osu!-Wiki wird zu einem Informationszentrum für osu!, wobei die meisten der Webkopien wie [Das Team](/wiki/People/The_Team) und [Regeln](/wiki/Rules) ersetzt werden. Auch hat das osu!-Wiki jetzt 5 Admins (Loctav, deadbeat). |
+| 2014 | Das osu!-Wiki wird zu einem Informationszentrum für osu!, wobei die meisten der Webkopien wie [Das Team](/wiki/People/osu!_team) und [Regeln](/wiki/Rules) ersetzt werden. Auch hat das osu!-Wiki jetzt 5 Admins (Loctav, deadbeat). |
 | 2015 | Das osu!-Wiki erhielt wichtige Aktualisierungen der Übersetzungen in andere Sprachen. Dellirium wurde durch Shiro als einer der Admins des osu!-Wikis ersetzt. |
 | 22.02.2016 | Das osu!-Wiki hat jetzt 8 Admins (Ukami und Galkan). |
 | 01.04.2016 | Ein weiterer Admin trat dem osu!-Wiki bei (Nathanael). |

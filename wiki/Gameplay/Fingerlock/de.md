@@ -12,7 +12,7 @@ tags:
 
 *Nicht zu verwechseln mit [Notelock](/wiki/Gameplay/Judgement/Notelock) oder [Denkblockade](/wiki/Gameplay/Mind_block).*
 
-**Fingerlock** (auch `Finger-Lock` oder `Finger Lock` genannt) ist ein Begriff, der das Gefühl beschreibt, die Kontrolle über die Finger zu verlieren, während man osu! spielt. Obwohl der Begriff nicht spezifisch für osu! ist, wird er von Spielern häufig verwendet, um ihre Frustration über Situationen auszudrücken, in denen ein Spieler weiß, wann und wo er ein [Hit-Objekt](/wiki/Hit_object) treffen muss, aber unerklärlicherweise die Taste einfach nicht drückt, was zu einem Gefühl führt, als sei der Finger "gesperrt" (engl. "locked"). Daher auch der Name "Fingerlock".
+**Fingerlock** (auch `Finger-Lock` oder `Finger Lock` genannt) ist ein Begriff, der das Gefühl beschreibt, die Kontrolle über die Finger zu verlieren, während man osu! spielt. Obwohl der Begriff nicht spezifisch für osu! ist, wird er von Spielern häufig verwendet, um ihre Frustration über Situationen auszudrücken, in denen ein Spieler weiß, wann und wo er ein [Hit-Objekt](/wiki/Gameplay/Hit_object) treffen muss, aber unerklärlicherweise die Taste einfach nicht drückt, was zu einem Gefühl führt, als sei der Finger "gesperrt" (engl. "locked"). Daher auch der Name "Fingerlock".
 
 "Fingerlock" kann gelegentlich auch als `wrist lock`, `wristlock` oder `wrist-lock` bezeichnet werden.
 

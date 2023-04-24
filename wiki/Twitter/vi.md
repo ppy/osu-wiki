@@ -7,7 +7,7 @@ osu! có nhiều tài khoản Twitter khác nhau, mỗi tài khoản phục vụ
 | Ảnh đại diện | Tên tài khoản | Mô tả |
 | :-: | :-: | :-- |
 | ![Ảnh đại diện của osu!status](img/osustatus.jpg) | [@osustatus](https://twitter.com/osustatus) | Nơi thông báo về những trục trặc của website và [Bancho](/wiki/Bancho_(server)). |
-| ![Ảnh đại diện của osu! support](img/osusupport.jpg) | [@osusupport](https://twitter.com/osusupport) | Hỗ trợ bạn về tài khoản và/hoặc những vấn đề cộng đồng. Được vận hành bởi [đội hỗ trợ tài khoản](/wiki/People/The_Team/Account_support_team). |
+| ![Ảnh đại diện của osu! support](img/osusupport.jpg) | [@osusupport](https://twitter.com/osusupport) | Hỗ trợ bạn về tài khoản và/hoặc những vấn đề cộng đồng. Được vận hành bởi [đội hỗ trợ tài khoản](/wiki/People/Account_support_team). |
 
 ## Cộng đồng
 
@@ -15,7 +15,7 @@ osu! có nhiều tài khoản Twitter khác nhau, mỗi tài khoản phục vụ
 | :-: | :-: | :-- |
 | ![Ảnh đại diện của osu!](img/osugame.jpg) | [@osugame](https://twitter.com/osugame) | Kênh thông tin chính. |
 | ![Ảnh đại diện của BanchoBoat](img/banchoboat.jpg) | [@banchoboat](https://twitter.com/banchoboat) | Tấu hài cho cộng đồng khi có vấn đề xảy ra. |
-| ![Ảnh đại diện của NAT](img/osu_nat.png) | [@osu_nat](https://twitter.com/osu_nat) | Tin tức, thông báo và khảo sát cộng đồng bởi [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) (không được điều hành bởi [đội ngũ osu!](/wiki/People/The_Team)). |
+| ![Ảnh đại diện của NAT](img/osu_nat.png) | [@osu_nat](https://twitter.com/osu_nat) | Tin tức, thông báo và khảo sát cộng đồng bởi [NAT](/wiki/People/Nomination_Assessment_Team) (không được điều hành bởi [đội ngũ osu!](/wiki/People/osu!_team)). |
 | ![Ảnh đại diện của pp committee](img/ppcommittee.png) | [@pp_committee](https://twitter.com/pp_committee) | Thông báo về tính toán độ khó cho tất cả chế độ game, điều hành bởi [đội ngũ chuyên về pp](/wiki/People/Performance_Points_Committee). |
 
 ## Cá nhân

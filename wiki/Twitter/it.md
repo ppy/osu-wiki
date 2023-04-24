@@ -7,7 +7,7 @@ osu! ha diversi account Twitter, ognuno per scopi diversi. La maggior parte pubb
 | Avatar | Account | Descrizione |
 | :-: | :-: | :-- |
 | ![osu!status avatar](img/osustatus.jpg) | [@osustatus](https://twitter.com/osustatus) | Sporadiche notifiche per problemi riguardanti il sito e [Bancho](/wiki/Bancho_(server)). |
-| ![osu! support avatar](img/osusupport.jpg) | [@osusupport](https://twitter.com/osusupport) | Assistenza per problemi relativi all'account e/o alla community. Gestito dal [team del supporto account](/wiki/People/The_Team/Account_support_team). |
+| ![osu! support avatar](img/osusupport.jpg) | [@osusupport](https://twitter.com/osusupport) | Assistenza per problemi relativi all'account e/o alla community. Gestito dal [team del supporto account](/wiki/People/Account_support_team). |
 
 ## Comunità
 
@@ -15,7 +15,7 @@ osu! ha diversi account Twitter, ognuno per scopi diversi. La maggior parte pubb
 | :-: | :-: | :-- |
 | ![osu! avatar](img/osugame.jpg) | [@osugame](https://twitter.com/osugame) | Fonte primaria per notizie e annunci. |
 | ![BanchoBoat avatar](img/banchoboat.jpg) | [@banchoboat](https://twitter.com/banchoboat) | Per tirarti su il morale quando le cose vanno male. |
-| ![NAT avatar](img/osu_nat.png) | [@osu_nat](https://twitter.com/osu_nat) | Notizie, annunci, e veloci sondaggi dal [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) (non gestito dal [team di osu!](/wiki/People/The_Team)). |
+| ![NAT avatar](img/osu_nat.png) | [@osu_nat](https://twitter.com/osu_nat) | Notizie, annunci, e veloci sondaggi dal [NAT](/wiki/People/Nomination_Assessment_Team) (non gestito dal [team di osu!](/wiki/People/osu!_team)). |
 | ![pp committee avatar](img/ppcommittee.png) | [@pp_committee](https://twitter.com/pp_committee) | Annunci riguardanti il calcolo della difficoltà per ogni modalità di gioco, gestito dal [Comitato Punti Performance](/wiki/People/Performance_Points_Committee). |
 
 ## Personali

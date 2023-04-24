@@ -18,7 +18,7 @@ tags:
 
 **评价** 是一组字母，用来衡量玩家在一张[谱面](/wiki/Beatmap)中表现如何。它们会在结算界面上和[分数](/wiki/Gameplay/Score)一起显示。
 
-玩家能获得的所有评价是 **D**、 **C**、 **B**、 **A**、 **S** 和 **SS**，从最差到最好排序。**银 S** 和 **银 SS** 需要打开 [Hidden](/wiki/Game_modifier/Hidden)、 [Flashlight](/wiki/Game_modifier/Flashlight) 或 [Fade In](/wiki/Game_modifier/Fade_In) 模组才能获得。
+玩家能获得的所有评价是 **D**、 **C**、 **B**、 **A**、 **S** 和 **SS**，从最差到最好排序。**银 S** 和 **银 SS** 需要打开 [Hidden](/wiki/Gameplay/Game_modifier/Hidden)、 [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight) 或 [Fade In](/wiki/Gameplay/Game_modifier/Fade_In) 模组才能获得。
 
 ## osu!
 

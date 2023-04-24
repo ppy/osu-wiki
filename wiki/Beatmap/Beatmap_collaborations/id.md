@@ -1,10 +1,9 @@
 ---
-stub: true
+outdated_since: 988e208e02efa394d1cfb592ab72bf6c05af3f26
+outdated_translation: true
 ---
 
 # Kolaborasi beatmap
-
-*Untuk panduan cara memulai kolaborasi, lihat: [Bagaimana cara memulai kolaborasi beatmap](/wiki/Guides/Collab_Information)*
 
 **Kolaborasi beatmap**, atau ***kolab*** adalah [beatmap](/wiki/Beatmap) yang dibuat oleh beberapa orang. "Kolab" dapat merujuk pada satu [tingkat kesulitan](/wiki/Beatmap/Difficulty) atau [beatmap](/wiki/Beatmap) yang memiliki [guest difficulty](/wiki/Beatmap/Guest_difficulty) di dalamnya.
 

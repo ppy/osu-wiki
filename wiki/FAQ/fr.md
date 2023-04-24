@@ -14,7 +14,7 @@ Les cercles sont sur l'écran du bas, et l'histoire sur l'écran du haut. Chaque
 
 *Explication complète: [osu!](/wiki/Game_mode/osu!)*
 
-La majorité des joueurs n'ayant pas d'écran tactile, le jeu a été fait pour être joué avec une souris, ainsi que l'utilisation d'une variété d'appareils de pointage. Différents styles de jeu peuvent être trouvés sur la page des [styles de jeu](/wiki/Play_style). Il y a quelques musiques qui vont pousser la souris et le joueur à leurs limites, mais toutes les beatmaps (classées ou approuvées) ont été testées et (la plupart) sont passables en utilisant seulement la souris.
+La majorité des joueurs n'ayant pas d'écran tactile, le jeu a été fait pour être joué avec une souris, ainsi que l'utilisation d'une variété d'appareils de pointage. Différents styles de jeu peuvent être trouvés sur la page des [styles de jeu](/wiki/Gameplay/Play_style). Il y a quelques musiques qui vont pousser la souris et le joueur à leurs limites, mais toutes les beatmaps (classées ou approuvées) ont été testées et (la plupart) sont passables en utilisant seulement la souris.
 
 #### Bases du gameplay
 
@@ -58,7 +58,7 @@ Le cercle blanc montre combien de temps il reste avant que le spinner ne se term
 
 La petite boîte en bas montre le nombre de tours par minute. Le nombre dans cette boîte devient le nombre de tours possibles. Si la souris/touche a été relâchée (ou que le stylet ne touche pas la tablette) vers le début du tour, le spinner arrêtera de lire le tour.
 
-Sur *DS*, c'est un très bon moyen d'abîmer l'écran tactile (ou sa protection), surtout sur les plus grandes difficultés. Dans osu!, les spinners ont été faits de manière à ce qu'ils ne soient pas aussi embêtant à compléter. Le nombre maximum de tours par minute est 477, qui est également à la vitesse à laquelle le game modifier [Auto](/wiki/Game_modifier/Auto) et tourne, mais le game modifier [Spun Out](/wiki/Game_modifier/Spun_Out) tourne à 287 tours de minute.
+Sur *DS*, c'est un très bon moyen d'abîmer l'écran tactile (ou sa protection), surtout sur les plus grandes difficultés. Dans osu!, les spinners ont été faits de manière à ce qu'ils ne soient pas aussi embêtant à compléter. Le nombre maximum de tours par minute est 477, qui est également à la vitesse à laquelle le game modifier [Auto](/wiki/Gameplay/Game_modifier/Auto) et tourne, mais le game modifier [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out) tourne à 287 tours de minute.
 
 #### Interface du jeu
 
@@ -78,9 +78,9 @@ Les contrôles par défaut d'osu! sont:
 
 Les hit objects sur osu! acceptent n'importe quelle entrée de l'appareil, tant que chaque hit object est tapé à temps.
 
-Si le game modifier [Relax](/wiki/Game_modifier/Relax) est utilisé, seul le curseur fonctionnera. Utilisez le curseur pour suivre les hit objects, sans vous préoccuper de les taper. Les spinners doivent tout de même être faits.
+Si le game modifier [Relax](/wiki/Gameplay/Game_modifier/Relax) est utilisé, seul le curseur fonctionnera. Utilisez le curseur pour suivre les hit objects, sans vous préoccuper de les taper. Les spinners doivent tout de même être faits.
 
-Si le game modifier [Auto Pilot](/wiki/Game_modifier/Autopilot) est utilisé, seule l'entrée des appareils ne fonctionneront. Calculez le moment auquel taper les hit objects, sans vous occuper des mouvements du curseur. Les spinners iront à la vitesse du mod [Spun Out](/wiki/Game_modifier/Spun_Out).
+Si le game modifier [Auto Pilot](/wiki/Gameplay/Game_modifier/Autopilot) est utilisé, seule l'entrée des appareils ne fonctionneront. Calculez le moment auquel taper les hit objects, sans vous occuper des mouvements du curseur. Les spinners iront à la vitesse du mod [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out).
 
 ---
 
@@ -158,7 +158,7 @@ Les contrôles par défaut pour osu!taiko sont:
 
 La position du curseur n'est pas utilisée.
 
-Si le mod [Relax](/wiki/Game_modifier/Relax) est utilisé, le jugement ne prendra compte que du timing des hits (ne prend pas en compte une mauvaise couleur).
+Si le mod [Relax](/wiki/Gameplay/Game_modifier/Relax) est utilisé, le jugement ne prendra compte que du timing des hits (ne prend pas en compte une mauvaise couleur).
 
 Les contrôleurs *TaTaCon* ont d'abord été créés pour *Taiko no Tatsujin* et *Taiko: Drum Master*.
 
@@ -204,7 +204,7 @@ Rater une goutte de jus cassera le combo (comme un tick de slider), mais les gou
 
 De grandes bananes pleuveront, certaines rétréciront même, tout en tombant vers le plateau. Chaque banane collectée ajoutera 1,100 au score, indépendamment des mods ou du multiplicateur de combo.
 
-Les bananes peuvent être ignorées, elles ne donnent pas de pénalité de vie. Cependant, cela peut coûter des points supplémentaires et de la récupération de vie de ne pas les récupérer. Le mod [Auto](/wiki/Game_modifier/Auto) fera quelque chose d'impossible: récupérer *toutes* kes bananes, sans en rater une seule.
+Les bananes peuvent être ignorées, elles ne donnent pas de pénalité de vie. Cependant, cela peut coûter des points supplémentaires et de la récupération de vie de ne pas les récupérer. Le mod [Auto](/wiki/Gameplay/Game_modifier/Auto) fera quelque chose d'impossible: récupérer *toutes* kes bananes, sans en rater une seule.
 
 ##### Hyperfruits
 
@@ -220,7 +220,7 @@ Attraper un hyperfruit augmentera la vitesse du dash, qui est devenu un *hyperda
 - Appuyez et maintenez la touche `leftShift`(D) et une flèche afin que l'attrapeur *dash* dans la direction données à une vitesse x2.0 (indiqué avec une **surbrillance** de l'attrapeur).
   - Autrement, appuyez et maintenez le Click Gauche(D) pour déclencher le dash.
 
-La position du curseur n'est pas utilisée en jouant normalement. Si le mod [Relax](/wiki/Game_modifier/Relax) est activé, l'attrapeur est déplacé avec le curseur. Cependant, la partie n'est pas classable quand le mod Relax est activé (puisque cela gâcherait l'intérêt d'osu!catch; la vitesse fixée de l'attrapeur et le contrôle du plateau).
+La position du curseur n'est pas utilisée en jouant normalement. Si le mod [Relax](/wiki/Gameplay/Game_modifier/Relax) est activé, l'attrapeur est déplacé avec le curseur. Cependant, la partie n'est pas classable quand le mod Relax est activé (puisque cela gâcherait l'intérêt d'osu!catch; la vitesse fixée de l'attrapeur et le contrôle du plateau).
 
 ### Qu'est-ce qu'osu!mania?
 
@@ -234,9 +234,9 @@ Ce mode est très utilisé dans la plupart des jeux de rythme majeurs. Il demand
 
 Lorsque l'on convertit une beatmap qui n'est pas spécifique à osu!mania, le nombre de touches va de 4 à 7.
 
-Avec le modifieur [xK](/wiki/Game_modifier/xK), le joueur peut manuellement changer le nombre de touches, qui peut aller de 1 à 9, avec une réduction du multiplicateur de score. Cependant, le modifieur ne fonctionnera pas sur les beatmaps spécifiques à osu!mania.
+Avec le modifieur [xK](/wiki/Gameplay/Game_modifier/xK), le joueur peut manuellement changer le nombre de touches, qui peut aller de 1 à 9, avec une réduction du multiplicateur de score. Cependant, le modifieur ne fonctionnera pas sur les beatmaps spécifiques à osu!mania.
 
-Avec le modifieur [Co-Op](/wiki/Game_modifier/Co-op), l'écran sera divisé en deux, et les contrôles Co-Op seront utilisés. Il permet de jouer de 2 à 18 touches, avec une réduction du multiplicateur de score. Puisque le nombre de touches n'est pas doublé sur les beatmaps spécifiques à osu!mania, l'écran sera séparé en deux (la partie gauche aura une touche en plus si impair), utilisera les contrôles Co-Op, et n'aura pas de réduction du multiplicateur de score.
+Avec le modifieur [Co-Op](/wiki/Gameplay/Game_modifier/Co-op), l'écran sera divisé en deux, et les contrôles Co-Op seront utilisés. Il permet de jouer de 2 à 18 touches, avec une réduction du multiplicateur de score. Puisque le nombre de touches n'est pas doublé sur les beatmaps spécifiques à osu!mania, l'écran sera séparé en deux (la partie gauche aura une touche en plus si impair), utilisera les contrôles Co-Op, et n'aura pas de réduction du multiplicateur de score.
 
 #### Explication basique
 
@@ -358,8 +358,8 @@ Configuration des touches *De Gauche à Droite* (à la *Beatmania IIDX*)
 
 **Special grades:**
 
-- SS d'argent (SSH) = Grade SS normal avec le mod *[Hidden](/wiki/Game_modifier/Hidden)* et/ou *[Flashlight](/wiki/Game_modifier/Flashlight)*.
-- S d'argent (SH) = Grade S normal avec le mod *[Hidden](/wiki/Game_modifier/Hidden)* et/ou *[Flashlight](/wiki/Game_modifier/Flashlight)*.
+- SS d'argent (SSH) = Grade SS normal avec le mod *[Hidden](/wiki/Gameplay/Game_modifier/Hidden)* et/ou *[Flashlight](/wiki/Gameplay/Game_modifier/Flashlight)*.
+- S d'argent (SH) = Grade S normal avec le mod *[Hidden](/wiki/Gameplay/Game_modifier/Hidden)* et/ou *[Flashlight](/wiki/Gameplay/Game_modifier/Flashlight)*.
 
 **À propos des *Ranks* sur la pages de profil:**
 
@@ -486,7 +486,7 @@ Un slider est composé d'un cercle de départ, de petits cercles nommés ticks d
 
 Les ticks de slider n'apparaîssent que dans les chemins de slider; si les ticks de slider sont trop proches du départ ou de la fin comme montré sur l'image ci-dessus, il sera caché dans le cercle. Les ticks de slider cachés comptent quand même dans le combo et le score, il doit donc être collecté au même titre que les ticks de slider classiques. Si le slider possède des flèches de renversement, alors les ticks de slider réapparaîtront et pourront être collectés de nouveau dans le sens inverse.
 
-Si vous manquez le cercle de départ, un tick de slider, ou une flèche de renversement, le combo sera brisé (et devrait jouer un son si le combo est assez grand) mais n'est pas considéré comme un manqué. Cependant, si vous manquez le cercle de fin, le combo ne sera pas brisé et n'augmentera pas de 1. Ce n'est également pas compté comme un manqué; un 100 (ou katu pour une fin de combo) sera donné pour tout le slider, en partant du principe que le cercle de départ a été tapé correctement, et complété tous les ticks et les flèches de renversement. Surtout, le mod [Sudden Death](/wiki/Game_modifier/Sudden_Death) ne fera pas de game over si l'on manque le cercle de fin (puisque le combo ne casse pas, l'effet Sudden Death n'est pas activé).
+Si vous manquez le cercle de départ, un tick de slider, ou une flèche de renversement, le combo sera brisé (et devrait jouer un son si le combo est assez grand) mais n'est pas considéré comme un manqué. Cependant, si vous manquez le cercle de fin, le combo ne sera pas brisé et n'augmentera pas de 1. Ce n'est également pas compté comme un manqué; un 100 (ou katu pour une fin de combo) sera donné pour tout le slider, en partant du principe que le cercle de départ a été tapé correctement, et complété tous les ticks et les flèches de renversement. Surtout, le mod [Sudden Death](/wiki/Gameplay/Game_modifier/Sudden_Death) ne fera pas de game over si l'on manque le cercle de fin (puisque le combo ne casse pas, l'effet Sudden Death n'est pas activé).
 
 Ces situations, causées par un slider, sont nommés **sliderbreak**. Une partie ayant un combo maximal peut être remarqué en regardant la présence du mot *Perfect* sur le graphique des performances; ne pas avoir de *Perfect*, surtout sans manqués, indique généralement qu'il y a eu un sliderbreak durant la partie.
 

@@ -12,9 +12,9 @@ outdated_translation: true
 
 *[ビートマップ](/wiki/Beatmap)と混同しないでください。*
 
-ビートマップの**難易度**とは、ゲームレベルのことで[拡張子`.osu`](/wiki/osu!_File_Formats/Osu_(file_format))にテキストファイルとして保存されます。これは特定の[ゲームモード](/wiki/Game_mode)の[ヒットオブジェクト](/wiki/Hit_object)で構成されており、特定の曲の[タイミング](/wiki/Beatmapping/Timing_section)に合わせて設定されています。難易度には様々な側面があり、ユーザーの体験に直接影響します。難易度の名前と[星評価](/wiki/Beatmapping/Star_rating)を見れば、どの程度の難易度であるかが把握できるようになっています。
+ビートマップの**難易度**とは、ゲームレベルのことで[拡張子`.osu`](/wiki/Client/File_formats/Osu_(file_format))にテキストファイルとして保存されます。これは特定の[ゲームモード](/wiki/Game_mode)の[ヒットオブジェクト](/wiki/Gameplay/Hit_object)で構成されており、特定の曲の[タイミング](/wiki/Beatmapping/Timing_section)に合わせて設定されています。難易度には様々な側面があり、ユーザーの体験に直接影響します。難易度の名前と[星評価](/wiki/Beatmap/Star_rating)を見れば、どの程度の難易度であるかが把握できるようになっています。
 
-難易度のヒットオブジェクトは[パターン](/wiki/Beatmap/Pattern)を構成しますが、ゲームモードごとに異なり、難易度をプレイする際の全体的なルックアンドフィールのトーンを設定します。ビートマップのゲーム性は、ビートマップの作者が設定する様々な[難易度設定](/wiki/Client/Beatmap_editor/Song_Setup#difficulty)や、[ゲームモディファイア](/wiki/Game_modifier)によって変更されます。
+難易度のヒットオブジェクトは[パターン](/wiki/Beatmap/Pattern)を構成しますが、ゲームモードごとに異なり、難易度をプレイする際の全体的なルックアンドフィールのトーンを設定します。ビートマップのゲーム性は、ビートマップの作者が設定する様々な[難易度設定](/wiki/Client/Beatmap_editor/Song_Setup#difficulty)や、[ゲームモディファイア](/wiki/Gameplay/Game_modifier)によって変更されます。
 
 聴覚的な観点から難易度は、フィードバックの追加レイヤーとして機能する1つまたは複数のオーディオサンプル、もしくは[ヒットサウンド](/wiki/Beatmapping/Hitsound)のセットを提供することで、曲を補強することができます。
 

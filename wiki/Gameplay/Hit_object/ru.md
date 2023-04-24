@@ -9,11 +9,11 @@ tags:
 
 | [osu!](/wiki/Game_mode/osu!) | [osu!taiko](/wiki/Game_mode/osu!taiko) | [osu!catch](/wiki/Game_mode/osu!catch) | [osu!mania](/wiki/Game_mode/osu!mania) |
 | :-: | :-: | :-: | :-: |
-| [Ноты](/wiki/Hit_object/Hit_circle) (hit circles) | Ноты (hit circles) | Фрукты (fruits) | Ноты (notes) |
-| [Слайдеры](/wiki/Hit_object/Slider) (sliders) | Драмроллы (drumrolls) | Цепочки фруктов (fruit trails) | Холд-ноты (hold notes) |
-| [Спиннеры](/wiki/Hit_object/Spinner) (spinners) | dendens | Бананы (bananas) | x |
+| [Ноты](/wiki/Gameplay/Hit_object/Hit_circle) (hit circles) | Ноты (hit circles) | Фрукты (fruits) | Ноты (notes) |
+| [Слайдеры](/wiki/Gameplay/Hit_object/Slider) (sliders) | Драмроллы (drumrolls) | Цепочки фруктов (fruit trails) | Холд-ноты (hold notes) |
+| [Спиннеры](/wiki/Gameplay/Hit_object/Spinner) (spinners) | dendens | Бананы (bananas) | x |
 | x | x | Гиперфрукты (hyperfruits) | x |
 
 С точки зрения программирования, холд-ноты в osu!mania не эквивалентны слайдерам в osu!standart, хотя они и сопоставлены в этой таблице ради упрощения. Другие элементы, с которыми игрок не взаимодействует во время игры, такие как полоса здоровья или киай, считаются либо модификациями игрового процесса, либо частью пользовательского интерфейса.
 
-В osu! каждая следующая нота для нажатия или слайдер, который нужно сыграть, имеет чуть более яркий цвет по сравнению с остальными объектами на игровом поле. Этот эффект не проявляется, если [скорость появления нот](/wiki/Beatmapping/Approach_rate) достаточно высока.
+В osu! каждая следующая нота для нажатия или слайдер, который нужно сыграть, имеет чуть более яркий цвет по сравнению с остальными объектами на игровом поле. Этот эффект не проявляется, если [скорость появления нот](/wiki/Beatmap/Approach_rate) достаточно высока.
