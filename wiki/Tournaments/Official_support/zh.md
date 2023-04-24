@@ -165,7 +165,7 @@ tags:
 
 在极其罕见的情况下，锦标赛拥有向获得前三的选手们颁发主页奖牌的特权。这一类别的锦标赛通常因为质量达到了社区顶峰，组织水平好从而受到了 osu! 团队的认可——这完全由他们决定。如果锦标赛达到了这一附加指标，osu! 团队将直接联系锦标赛主办。
 
-满足以上标准的特殊锦标赛的主页奖牌设计案例：
+满足以上标准的特殊锦标赛案例：
 
 - [Corsace Open](https://osu.ppy.sh/community/forums/topics/1607468)
 - [Expert Global Taiko Showdown](/wiki/Tournaments/GTS/EGTS_2022)
