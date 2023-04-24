@@ -6,15 +6,15 @@ tags:
 
 # osu! 디스코드 서버
 
-**osu!dev**로도 알려져 있었던 **osu!** 디스코드 서버는 osu!의 개발 프로젝트들의 작업을 위한 공식 [디스코드](https://discordapp.com) 서버입니다. 이 서버는 osu!의 오픈소스 및 커뮤니티에 대해 토론하고 작업할 수 있는 허브 역할을 합니다. 또한 osu! 개발에 기여하고 [osu!팀](/wiki/People/osu!_team)에게 연락할 수 있는 주요 장소입니다.
+**osu!dev**로 알려져 있었던 **osu!** 디스코드 서버는 osu!의 개발 관련 작업을 위한 공식 [디스코드](https://discordapp.com) 서버입니다. 이 서버는 osu!의 오픈소스 및 커뮤니티 프로젝트를 토론하고 작업할 수 있는 허브 역할을 합니다. 또한 osu! 개발에 기여하고 [osu! 팀](/wiki/People/osu!_team)에게 연락할 수 있는 주요 장소입니다.
 
 서버의 공식 초대 링크는 <https://discord.gg/ppy>입니다.
 
-서버에 처음 오신 분들은 `#introductions` 채널에서 자신을 소개하는 글을 작성할 수 있습니다만, 서버의 다른 사람들과 교류하기 위해 반드시 필요한 것은 아닙니다.
+서버에 처음 오신 분들은 `#introductions` 채널에서 자신을 소개하는 글을 작성할 수 있습니다만, 서버의 다른 사람들과 교류하기 위해 꼭 필요한 것은 아닙니다.
 
 ## 채널
 
-osu! 디스코드 서버는 여러 채널이 있으며, 대부분 특정 프로젝트의 개발을 주제로 사용되고 있습니다.
+osu! 디스코드 서버는 여러 채널이 있으며, 대부분 특정 프로젝트나 두 가지 주요 개발을 주제로 사용되고 있습니다.
 
 ### 일반 (General)
 
@@ -47,16 +47,16 @@ osu! 디스코드 서버는 여러 채널이 있으며, 대부분 특정 프로�
 
 | 채널 | 설명 |
 | :-- | :-- |
-| `#featured-artists` | [피쳐드 아티스트](/wiki/People/Featured_Artists) 비트맵 제작, 프로젝트, 플레이리스트 |
-| `#mappers-guild` | The [Mappers' Guild](/wiki/Community/Mappers_Guild) |
+| `#featured-artists` | [공식 아티스트](/wiki/People/Featured_Artists) 비트맵 제작, 프로젝트, 플레이리스트 |
+| `#mappers-guild` | [Mappers' Guild](/wiki/Community/Mappers_Guild) |
 | `#osu-spotlights` | [비트맵 스포트라이트](/wiki/Beatmap_Spotlights) |
 | `#osu-wiki` | [osu! 위키](/wiki/osu!_wiki) |
-| `#osu-news` | [osu!월간지](/wiki/Community/osu!monthly)와 일반 뉴스 보도 |
+| `#osu-news` | [osu!monthly](/wiki/Community/osu!monthly)와 일반 뉴스 보도 |
 | `#osu-loved` | [Project Loved](/wiki/Community/Project_Loved) |
 | `#tournaments` | [토너먼트](/wiki/Tournaments)와 [공식 토너먼트 지원](/wiki/Tournaments/Official_support) |
 | `#community-meetings` | [osu! 커뮤니티 미팅](/wiki/Community/osu!_community_meetings) |
 
-### 보관됨
+### 보관된 채널
 
 | 채널 | 설명 |
 | :-- | :-- |
