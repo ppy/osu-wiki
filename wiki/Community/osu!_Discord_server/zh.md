@@ -48,7 +48,7 @@ osu! Discord 服务器有许多频道，多数频道都围绕着一两个特定�
 
 | 频道 | 描述 |
 | :-- | :-- |
-| `#featured-artists` | [精选艺术家](/wiki/People/Featured_Artists) beatmap creations, projects, and playlists |
+| `#featured-artists` | 与[精选艺术家](/wiki/People/Featured_Artists)相关的作图、工程、游玩列表 |
 | `#mappers-guild` | [谱师工会](/wiki/Community/Mappers_Guild) |
 | `#osu-spotlights` | [谱面聚光灯](/wiki/Beatmap_Spotlights) |
 | `#osu-wiki` | [osu! wiki](/wiki/osu!_wiki) |
