@@ -34,9 +34,9 @@ Este conjunto de **criterios de clasificación de osu!mania** establece [reglas 
 - **Chord**: Dos o más notas presionadas al mismo tiempo.
 - **Chordstream (Jumpstream, Handstream, Quadstream)**: Streams que mezclan diferentes tipos de chords.
 - **Grace**: Dos o más notas presionadas en sucesión rápida, generalmente usando snaps de 1/6 o más.
-- **Hand**: Tres notas presionadas al mismo tiempo. Ocasionalmente referida como una "triple".
+- **Hand**: Tres notas presionadas al mismo tiempo. Ocasionalmente referida como una «triple».
 - **Jack**: Tres o más notas consecutivas en la misma columna, usualmente presionada a un ritmo más rápido que las notas aledañas.
-- **Jump**: Dos notas presionadas al mismo tiempo. Ocasionalmente referida como una "doble".
+- **Jump**: Dos notas presionadas al mismo tiempo. Ocasionalmente referida como una «doble».
 - **Jumptrill**: Un trill consistiendo en dos jumps que alternan.
 - **Minijack**: Dos notas consecutivas en la misma columna, usualmente presionadas a un ritmo más rápido que las notas aledañas.
 - **Release**: El final de una nota larga el cual debe soltarse en una cierta ventana de tiempo para poder conseguir el puntaje completo apropiadamente.
