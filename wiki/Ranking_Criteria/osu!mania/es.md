@@ -64,7 +64,7 @@ Las reglas y pautas generales se aplican a todo tipo de dificultad de osu!mania.
   - **...menos de 2:30**, la dificultad más baja de cada modo de tecla incluido no puede ser más difícil que un Normal, **O** cada modo de tecla debe proporcionar una distribución adequada que contenga un mínimo de 4 dificultades en total.
   - **...entre 2:30 y 3:15**, la dificultad más baja de cada modo de tecla incluido no puede ser más difícil que un Hard, **O** cada modo de tecla debe proporcionar una distribución adequada que contenga un mínimo de 3 dificultades en total.
   - **...entre 3:15 y 4:00**, la dificultad más baja de cada modo de tecla incluido no puede ser más difícil que un Insane, **O** cada modo de tecla debe proporcionar una distribución adequada que contenga un mínimo de 2 dificultades en total.
-Una distribución de dificultades "adequada" *para dificultades Insane y más difíciles* es definida como una distribución con espacios de dificultad similares a los [niveles de dificultad](/wiki/Beatmap/Difficulty#difficulty-levels) más bajos como se especifica en los [criterios de dificultades específicas](#difficulty-specific).
+Una distribución de dificultades "adequada" *para dificultades Insane y más difíciles* se define como una distribución con espacios de dificultad similares a los [niveles de dificultad](/wiki/Beatmap/Difficulty#difficulty-levels) más bajos como se especifica en los [criterios de dificultades específicas](#difficulty-specific).
 
 ### Pautas
 
