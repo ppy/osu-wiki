@@ -39,6 +39,10 @@ The two mods Adaptive Speed and Strict Tracking were implemented in osu!(lazer).
 
 The survey that started in March is now done and discussed in an osu! community meeting. Many users voted for scores showing on beatmap leaderboards, performance points being awarded, and lazer's performance as the top priorities. The entire results can be viewed [here](https://docs.google.com/forms/d/1jAWlFkjECDftXJ7iZFgipH1sJuwYDvPtF0CuaciFiW8/viewanalytics).[^community-meeting-survey-1][^community-meeting-survey-2]
 
+It was not clear if r/place would make a return, but after 5 years, [Reddit](https://www.reddit.com/) hosted the remarkable pixel war once again. Running from 1 April to 4 April, users could place colourful pixels anywhere on a canvas. The osu! community successfully defended several artworks, as the illustrations were always in danger of being overdrawn by other users. Among these artworks are the osu! logo containing the 4 [game modes](/wiki/Game_mode) as well as a portrait of peppy.[^place-canvas]
+
+![osu! pixel artworks on r/place](img/reddit_place.jpg "Pixel artworks of the osu! logo on the left side and peppy on the right")
+
 ## May
 
 This month, [Ardolf](https://osu.ppy.sh/beatmaps/artists/263), [Allegaeon](https://osu.ppy.sh/beatmaps/artists/264), [Tenchio](https://osu.ppy.sh/beatmaps/artists/265), [Neko Hacker](https://osu.ppy.sh/beatmaps/artists/266), [JOYLESS](https://osu.ppy.sh/beatmaps/artists/267), [69 de 74](https://osu.ppy.sh/beatmaps/artists/268), [Origami Angel](https://osu.ppy.sh/beatmaps/artists/269), and [Rameses B](https://osu.ppy.sh/beatmaps/artists/270) joined osu! as featured artists.
@@ -156,6 +160,7 @@ In the last art contest of the year called [New Beginnings](https://osu.ppy.sh/h
 [^monstercat]: [News post by pishifat (2022-04-06) "New Featured Artist: Stonebank"](https://osu.ppy.sh/home/news/2022-04-06-new-featured-artist-stonebank)
 [^community-meeting-survey-1]: ["osu! community meeting notes 2022-04-03" on Google Docs](https://docs.google.com/document/d/1LzKpXwIKxcpYgEAK4zdEIVuMNJckoo9SWN-UoAvOto8/edit)
 [^community-meeting-survey-2]: [News post by osu! team (2022-04-17) "Scoring Survey Results"](https://osu.ppy.sh/home/news/2022-04-17-scoring-survey-results)
+[^place-canvas]: [Reddit post by u/Vavik (2022-04-05) "Actual Final Image of Place 2022 (High Res)"](https://www.reddit.com/r/place/comments/twkdw7/actual_final_image_of_place_2022_high_res/)
 
 [^aptb-results]: [News post by Ephemeral (2022-05-08) "A Place To Belong Fanart Contest Results"](https://osu.ppy.sh/home/news/2022-05-08-aptb-fanart-results)
 [^lazer-chat]: [Pull request by jai-x (2022-05-23) "Integrate new chat into game"](https://github.com/ppy/osu/pull/18377)
