@@ -56,6 +56,7 @@ layout: main_page
 <div class="wiki-main-page-panel">
 
 # 비트맵 제출 및 랭크
+
 랭크는 비트맵에 리더보드를 등록할 수 있도록 하는 프로세스입니다. 이는 맵을 더욱 유명하고 잘 알려질 수 있도록 합니다. 이를 위해 무엇이 필요한지, 비트맵 토론을 통해 맵의 퀄리티를 높이거나 랭크 프로세스를 진행하는 방법에 대해 알아보세요! 
     
 [비트맵 제출](/wiki/Beatmapping/Beatmap_submission) • [모딩](/wiki/Modding) • [랭크 과정](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
