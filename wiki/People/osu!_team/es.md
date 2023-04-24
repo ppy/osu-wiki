@@ -40,7 +40,7 @@ Las personas que se enumeran a continuación son el núcleo del **osu! team** y 
 | ::{ flag=PL }:: [Venix](https://osu.ppy.sh/users/5999631) | Moderación y asesor de la comunidad |
 | ::{ flag=AU }:: [Zallius](https://osu.ppy.sh/users/55) | Especie en peligro |
 
-Además de lo anterior, el [equipo de soporte de cuentas](Account_support_team) está ahí para ayudar con lo que está fuera del alcance.
+Además de lo anterior, el [equipo de soporte de cuentas](#Account_support_team) está ahí para ayudar con lo que está fuera del alcance.
 
 ## Miembros del equipo central inactivos
 
