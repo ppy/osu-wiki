@@ -108,7 +108,7 @@ osu! 为支持者们放宽各种在线功能的限额：
 | `welcome.wav` | 游戏启动时播放的 "welcome to osu!" 音效 |
 | `seeya.wav` | 游戏关闭时播放的 "see ya next time" 音效 |
 
-获取更多信息，请参见 [皮肤/外观界面 § 主菜单](/wiki/Skinning/Interface#main-menu) 和 [皮肤/皮肤音效 § 主菜单](/wiki/Skinning/Sounds#main-menu)。
+获取更多信息，请参见 [皮肤/外观界面 § 主菜单](/wiki/Skinning/Interface#主菜单) 和 [皮肤/皮肤音效 § 主菜单](/wiki/Skinning/Sounds#main-menu)。
 
 ### 额外搜索
 
