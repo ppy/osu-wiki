@@ -10,9 +10,9 @@ The premier mapping event for all vocaloid appreciators is here with the first i
 
 The [**Vocaloid Mapping Contest (VMC)**](/wiki/Contests/VMC) is all about finding and promoting vocaloid songs and artists that have fallen through the cracks. Our [prototype contest last year](https://osu.ppy.sh/community/forums/topics/1604262?n=1) was themed around Hatsune Miku for their 15th birthday, while this contest has expanded to a variety of fun vocaloid songs!
 
-Your goal for this contest: **use [one of these songs](#songs) to create the best vocaloid beatmap possible** (as determined by our [judging panel](LINK TO THIS ON THE WIKI)).
+Your goal for this contest: **use [one of these songs](#songs) to create the best vocaloid beatmap possible** (as determined by our [judging panel](osu.ppy.sh/wiki/contests/VMC/1#Staff_and_Judges)).
 
-To keep things interesting, a special guest judge has joined us: **legendary vocaloid mapper
+And to make things more interesting, a special guest judge has joined us: **legendary vocaloid mapper
 [*tutuhaha*](https://osu.ppy.sh/users/546991)**!
 
 Let's break everything down.
@@ -101,13 +101,13 @@ With 5 songs to choose from, we're confident that at least one will appeal to yo
 
 ## Submission
 
-Once your beatmap is ready, head to the [contest listing](https://osu.ppy.sh/community/contests/) to submit your map! After the submission period closes, judging will begin. Find out more details about the judges and the judging criteria on the [contest's wiki page](/wiki/Contests/).
+Once your beatmap is ready, head to the [contest listing](https://osu.ppy.sh/community/contests/) to submit your map! After the submission period closes, judging will begin. Find out more details about the judges and the judging criteria on the [contest's wiki page](osu.ppy.sh/wiki/contests/VMC/1).
 
 ---
 
 And that should be everything you need to know to get started!
 
-For the most up-to-date info about the contest, keep the [**Vocaloid Mapping Contest** contest wiki page](/wiki/Contests/) bookmarked. Feel free to also join the [VAT (Vocaloid Appreciation Team) Discord server](https://discord.gg/EruvDHaReY) to receive immediate updates on the VMC (as well as future vocaloid events), feedback on your maps, info on collaborative mapping projects, and more!
+For the most up-to-date info about the contest, keep the [**Vocaloid Mapping Contest** contest wiki page](osu.ppy.sh/wiki/contests/VMC/1) bookmarked. Feel free to also join the [VAT (Vocaloid Appreciation Team) Discord server](https://discord.gg/EruvDHaReY) to receive immediate updates on the VMC (as well as future vocaloid events), feedback on vocaloid maps, info on collaborative vocaloid mapping projects, and more!
 
 In future contests, we will choose songs based around a specific song theme, such as an artist, genre, vocaloid, etc, or even a map/limitation theme, such as "collaboration" or "circles only". Our goal is to avoid picking songs that have been ranked in osu! within the last ~10 years, and we try to pick songs that are particularly relevant and timeless.
 
