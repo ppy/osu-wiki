@@ -145,7 +145,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad
   2. [Thaehan - Overworld (Tasha) \[Muri\]](https://osu.ppy.sh/beatmapsets/545510#taiko/1155694)
   3. [LV.4 feat. Mawata Spica - Vortex of Sorrow (uone) \[END\]](https://osu.ppy.sh/beatmapsets/1980701#taiko/4112884)
 - Tiebreaker
-  1. **[Gram - Sigrdrifa (Nifty) \[Prose Edda\] *(temporary link)*](https://leoflt.com/s/3RdK)**
+  1. **[Gram - Sigrdrifa (Nifty) \[Prose Edda\]](https://osu.ppy.sh/beatmapsets/1981053#taiko/4113613)**
 
 ### Finals
 
@@ -299,6 +299,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad
 ## Match results
 
 ### Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1ucXho5aHNBINl73zwoaSd7Lee2d1Bvr5d_DfwaKbfkE?rm=minimal).
 
 Saturday, 22 April 2023:
 
