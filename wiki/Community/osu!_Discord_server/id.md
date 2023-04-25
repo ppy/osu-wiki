@@ -1,6 +1,8 @@
 ---
 tags:
   - development
+outdated_translation: true
+outdated_since: ab2ef808dac39e172a7f370857bf9a3d8084be44
 ---
 
 # Server Discord osu!dev
