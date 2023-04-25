@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Pedoman identitas merek
 
 Pedoman identitas merek (*brand identity guidelines*) merupakan serangkaian ketentuan yang mengatur tata cara penggunaan merek dagang osu! untuk berbagai keperluan. Selama pedoman ini dipatuhi, merek dagang osu! dapat digunakan secara bebas tanpa persetujuan apa pun.
