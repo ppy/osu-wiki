@@ -301,3 +301,50 @@ Los sistemas de mapeo y modeo están mejorando constantemente. La **línea de ti
 ## 2017
 
 ### Abril
+
+- **06-04-2017:** Se implementaron los [Niveles de Beatmap Nominator](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Tiers), dividiendo el BN en dos subgrupos llamados "niveles".
+  - Debido a que el QAT ya no actuaba como una puerta de control de calidad, este sistema se implementó para mejorar la calidad de los mapas que ingresan a Clasificado.
+  - Este sistema imitaba la etapa posterior del [Mapping Assistance Team](/wiki/People/Mapping_Assistance_Team).
+    - Los nominadores de nivel 1 podrían burbujear los mapas.
+    - Los nominadores de nivel 2 podrían burbujear y calificar mapas.
+  - Los niveles se decidieron mediante una prueba de BN diseñada en torno a la identificación de problemas generales en los mapas. Los resultados de la prueba fueron terribles y revelaron que el diseño de la prueba tenía fallas.
+  - Contrariamente a sus objetivos, este sistema redujo la motivación de todos los nominadores de nivel 1 y exageró el trabajo de los pocos nominadores de nivel 2 motivados. Los mapeadores tenían menos recursos de BN y el total de mapas clasificados durante el período de niveles disminuyó.
+  - No se agregaron Beatmap Nominators al segundo nivel durante los 5 meses que este sistema estuvo activo, lo que redujo enormemente las velocidades de clasificación. <!-- https://osu.ppy.sh/community/forums/topics/578413 -->
+
+### Mayo
+
+- **22-05-2017:** El servidor de Discord de los Beatmap Nominators fue creado para las subdivisiones de BN.
+  - Las subdivisiones se diseñaron como grupos focales de nominadores seleccionados al azar de ambos niveles dirigidos por un miembro del QAT.
+  - La mayoría de los administradores del QAT cambiaron a este servidor a pesar de la resistencia de los superiores de osu!.
+- **23-05-2017:** El bot de Discord [Aiess](/wiki/Community/Projects#miscellaneous) fue creado por ::{ flag=SE }:: [Naxess](https://osu.ppy.sh/users/8129817).
+  - Esto proporcionó una fuente de eventos relacionados con el mapeo en servidores de Discord de osu!, comenzando con feeds de nominación y descalificación.
+
+### Junio
+
+- **02-06-2017:** Los mapas de maratón comenzaron a requerir 2 nominaciones en lugar de 3.
+  - Anteriormente requerían 3 nominaciones porque se esperaba que los maratones tuvieran más contenido para revisar que un conjunto de mapas normal, pero esto ya no era cierto.
+  - El ícono de la `llama` (![flame icon](/wiki/shared/icon/flame.gif)) dejó de usarse. <!-- https://osu.ppy.sh/community/forums/topics/631077?start=6050796 -->
+
+### Septiembre
+
+- **10-09-2017:** Se implementó el "[QAT Upheaval](https://osu.ppy.sh/community/forums/topics/635507)". Esta fue una serie de cambios en respuesta a la insatisfacción de la comunidad de mapeo bajo el liderazgo de los superiores del [equipo de osu!](/wiki/People/osu!_team). Después de este cambio, el QAT comenzó a autoliderarse sin intervención superior.
+  - Los [Niveles de BN](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Tiers) fueron reemplazados por los [Beatmap Nominators de Prueba](/wiki/People/Beatmap_Nominators#probationary-beatmap-nominators). Dos miembros de BN en período de prueba no podían nominar el mismo mapa y los usuarios no podían estar en período de prueba durante más de dos meses a la vez.
+  - Los Beatmap Nominators recibieron títulos morados en los foros.
+  - ::{ flag=DE }:: [Okoratu](https://osu.ppy.sh/users/1623405) y ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) fueron designados como [líderes del QAT](/wiki/People/Quality_Assurance_Team/QAT_Leaders) por votación de los miembros del BN/QAT. Su responsabilidad era trabajar con el equipo de osu! para mantener las comunidades de mapeo y modeo.
+  - Se crearon las insignias de perfil del Beatmap Nominator y del Quality Assurance Team basadas en la permanencia. Esta y otras recompensas de Beatmap Nominator se planearon para volver a motivar al equipo actualmente insatisfecho. <!-- https://osu.ppy.sh/community/forums/topics/635507 + https://osu.ppy.sh/community/forums/topics/640679 -->
+  - Con un liderazgo menos autoritario y más usuarios capaces de nominar mapas después de estos cambios, los estándares de mapeo dejaron de estar estrictamente controlados. Mapas controversiales que probablemente no habrían sido clasificados con el sistema anterior (por ejemplo, *[FELT - Rendezvous](https://osu.ppy.sh/beatmapsets/725171#osu/1541573)*) alcanzaron el estado clasificado.
+
+### Octubre
+
+- **01-10-2017:** [Las pruebas de BN](/wiki/People/Beatmap_Nominators/Beatmap_Nominator_Test) se reemplazaron con el QAT que revisa los mods anónimos de cada solicitante de BN.
+  - Este cambio se realizó porque el hacer trampa en la prueba de BN se había vuelto poco realista de evitar. <!-- date not exact, based on discord logs -->
+
+### Diciembre
+
+- **17-12-2017:** ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) renunció a su participación en el equipo de osu!, incluyendo su fuerte participación en el QAT. <!-- https://clips.twitch.tv/BrightFragilePepperoniAllenHuhu -->
+
+**1847 mapas** se clasificaron en 2017.
+
+## 2018
+
+### Febrero
