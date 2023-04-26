@@ -55,7 +55,7 @@ All participating mappers received constructive feedback from some of the most w
 - **Submissions must be in `.osz` format.**
 - **Beatmaps should abide by the [ranking criteria](/wiki/Ranking_Criteria).** While we can be forgiving for mistakes, submissions that could not be ranked without major changes will be disqualified.
 - **Submissions must not be publicly revealed until after the results are announced.**
-- **Excluding metadata, submissions must not include anything that could reveal your identi.** Metadata will be anonymised before submissions are relayed to judges.
+- **Excluding metadata, submissions must not include anything that could reveal your identity.** Metadata will be anonymised before submissions are relayed to judges.
 - **Collaborations are not allowed**. This is a solo contest.
 - **Submissions must not include storyboards or videos.**
 - **Do not edit any settings in the .osu that would not be possible through the editor itself.** You are permitted to change any difficulty settings, backgrounds, green lines, SV, hitsounds, etc.
@@ -77,8 +77,8 @@ Five (5) songs were selected from the Featured Artist library. These songs were 
 
 | Artist | Song | Length | BPM | Template |
 | :-- | :-- | :-- | :-- | :-- | 
-MIMI | Moment | 3:34 | 126 | [.osz](https://assets.ppy.sh/artists/77/osz/MIMI%20-%20Moment.osz) |
-Omoi | Ohne Herz | 3:26 | 210 | [.osz](https://assets.ppy.sh/artists/104/osz/Omoi%20-%20Ohne%20Herz.osz) |
-MuryokuP | My Savior | 2:49 | 190 | [.osz](https://assets.ppy.sh/artists/120/Unfinished%20Eden/MuryokuP%20-%20My%20Savior.osz) |
-Yunosuke | Ziqqurat | 3:52 | 163 | [.osz](https://assets.ppy.sh/artists/244/Ziqqurat/Yunosuke%20-%20Ziqqurat.osz) |
-Rohi | Hitotsu no Chikai | 2:35 | 130 | [.osz](https://assets.ppy.sh/artists/82/osz/Rohi%20-%20Hitotsu%20no%20Chikai%20yo,%20Eien%20no%20Uta%20to%20Nare.osz) |
+| MIMI | Moment | 3:34 | 126 | [.osz](https://assets.ppy.sh/artists/77/osz/MIMI%20-%20Moment.osz) |
+| Omoi | Ohne Herz | 3:26 | 210 | [.osz](https://assets.ppy.sh/artists/104/osz/Omoi%20-%20Ohne%20Herz.osz) |
+| MuryokuP | My Savior | 2:49 | 190 | [.osz](https://assets.ppy.sh/artists/120/Unfinished%20Eden/MuryokuP%20-%20My%20Savior.osz) |
+| Yunosuke | Ziqqurat | 3:52 | 163 | [.osz](https://assets.ppy.sh/artists/244/Ziqqurat/Yunosuke%20-%20Ziqqurat.osz) |
+| Rohi | Hitotsu no Chikai | 2:35 | 130 | [.osz](https://assets.ppy.sh/artists/82/osz/Rohi%20-%20Hitotsu%20no%20Chikai%20yo,%20Eien%20no%20Uta%20to%20Nare.osz) |
