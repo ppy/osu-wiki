@@ -14,7 +14,7 @@ In all subsequent VMC's there will be an associated theme. This could include so
 
 ## Contest schedule
 
-| Event | Timestamp|
+| Event | Timestamp |
 | --: | :-- |
 | Announcement | 2023-05-01 |
 | Submission | 2023-05-01 to 2023-05-31 |
@@ -28,7 +28,7 @@ The Vocaloid Mapping Contest is hosted and organised by the [Vocaloid Appreciati
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548) |
-| Staff | ::{ flag=IT }:: [Kuroise](https://osu.ppy.sh/users/14547127), ::{ flag=US }:: [Local Hero](https://osu.ppy.sh/users/16134122), ::{ flag=SG }::[Ixcors](https://osu.ppy.sh/users/11194087) | 
+| Staff | ::{ flag=IT }:: [Kuroise](https://osu.ppy.sh/users/14547127), ::{ flag=US }:: [Local Hero](https://osu.ppy.sh/users/16134122), ::{ flag=SG }:: [Ixcors](https://osu.ppy.sh/users/11194087) |
 | Judge | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323), ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548), ::{ flag=CA }:: [Shanipika](https://osu.ppy.sh/users/6336729), ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909), ::{ flag=SV }::[Natsu](https://osu.ppy.sh/users/1953876), ::{ flag=US }:: [tutuhaha](https://osu.ppy.sh/users/546991) |
 | Designer | ::{ flag=VE }:: [Mithia](https://osu.ppy.sh/users/9748438) |
 
@@ -49,6 +49,7 @@ All participating mappers received constructive feedback from some of the most w
 - [Discord server](https://discord.gg/EruvDHaReY)
 
 ## Ruleset
+
 - **Submissions must be for the osu! ruleset only.** Comparing beatmaps of different modes in a judging scenario is unfortunately not realistic.
 - **Submissions must use one of the [selected songs](#songs)**
 - **Submissions must be in `.osz` format.**
@@ -61,13 +62,14 @@ All participating mappers received constructive feedback from some of the most w
 - **You must submit only one difficulty.** Only one entry is allowed.
 
 ## Judging criteria
-| Position | Points | Description
+
+| Position | Points | Description |
 | :-- | :-- | :-- |
-| Relevance | 30 |  How well does the map fit the song? Do the elements of the map match the elements of the song, and is the map fundamentally inseparable from the song it is paired with?
-| Creativity | 25 | How unique and outstanding is the map and the elements within it compared to the current mapping meta? How well does it stand out from the crowd? Did you make the judges say "wow!", "that's cool!", or "that's super interesting!"? Generic mapping that just copies the current mapping meta or concepts from other "famous" maps is discouraged.
-| Expertise | 20 | This refers to how well the map executes the elements it presents. This encompasses the technical skills of the mapper, and also the consistency, structure, and style of the map. Judges will score this entry considering the overarching picture of the map, and will avoid nitpicking small details.
-| Overall Impression | 20 | This contest is judged by some of the most prominent vocaloid mappers in the community, and you better bet that all of them have a personal bias with regard to how vocaloid songs are mapped. Judges will give comments regarding their scoring.
-| Hitsounding | 5 | Rankable hitsounds can get up to 2 points, but hitsounds that fundamentally add to the experience and compliment the map in a unique way can get the full 5 points.
+| Relevance | 30 |  How well does the map fit the song? Do the elements of the map match the elements of the song, and is the map fundamentally inseparable from the song it is paired with? |
+| Creativity | 25 | How unique and outstanding is the map and the elements within it compared to the current mapping meta? How well does it stand out from the crowd? Did you make the judges say "wow!", "that's cool!", or "that's super interesting!"? Generic mapping that just copies the current mapping meta or concepts from other "famous" maps is discouraged. |
+| Expertise | 20 | This refers to how well the map executes the elements it presents. This encompasses the technical skills of the mapper, and also the consistency, structure, and style of the map. Judges will score this entry considering the overarching picture of the map, and will avoid nitpicking small details. |
+| Overall Impression | 20 | This contest is judged by some of the most prominent vocaloid mappers in the community, and you better bet that all of them have a personal bias with regard to how vocaloid songs are mapped. Judges will give comments regarding their scoring. |
+| Hitsounding | 5 | Rankable hitsounds can get up to 2 points, but hitsounds that fundamentally add to the experience and compliment the map in a unique way can get the full 5 points. |
 
 ## Songs
 
