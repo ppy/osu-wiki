@@ -46,7 +46,7 @@
 
 建立好含有 osu! 窗口的场景是开始直播需要做的最后一件事。右击 OBS Studio 主窗口中的`场景`框，选择`添加`，会提示添加场景。把名字设置为 “osu!”，点击`确定`继续。
 
-现在 OBS Studio 需要一个needs a source to capture osu!. First, open osu!, then — in OBS Studio — right-click on the `Sources` box and select `Add` -> `Game Capture`. This will open the source selection dialog. You can name the source as "osu!", but it can be whatever you want, then click `OK`. Select `Capture specific window` from the `Mode` dropdown then select `[osu!.exe]: osu!` from the `Window` list.
+现在 OBS Studio 需要一个用于采集 osu! 的“来源”。首先打开 osu!，然后在 OBS Studio 中右击`来源`框，选择`添加` -> `游戏源`。这会打开来源选择对话框。你可以将来源命名为 “osu!”，但也可以是你想取的任何名字，然后点击`确定`。从`模式`下拉框中选择`采集特定窗口`，然后从`窗口`列表中选择 `[osu!.exe]: osu!`。
 
 ![](img/game-capture-ZH.png "在 OBS Studio 中采集 osu! 窗口")
 
@@ -56,9 +56,9 @@
 
 ## 接下来做什么？
 
-Now, after configuring OBS Studio and your Twitch account, click `开始推流` in OBS Studio to make a livestream. Your stream will appear on [Twitch](https://www.twitch.tv/directory/game/osu!) and [osu! website's livestream listing](https://osu.ppy.sh/community/livestreams) in a couple of minutes. That's all you need to know to start your journey with streaming. Of course, this guide only covers the basics of livestreaming; there are many ways to go beyond and improve your livestream. So, some important points to consider:
+现在，在配置好 OBS Studio 和你的 Twitch 账户后，在 OBS Studio 中点击`开始推流`来开始直播。几分钟后，你的直播就会出现在 [Twitch](https://www.twitch.tv/directory/game/osu!) 与 [osu! 网站的直播列表](https://osu.ppy.sh/community/livestreams)上。以上就是你开始直播之旅需要了解的所有事情了。当然，这篇教程只包括直播的基本流程；你还有很多方式继续进步、改善你的直播。因此，请考虑这些重要的事：
 
-- **找到最佳直播设置。** The automatically configured settings provided by OBS Studio might not be perfect for your device. So, check if your livestream is working fine and, if not, what needs to be improved to provide the best experience for your viewers.
-- **建立社群。** This is very challenging, as building your own community from scratch requires high levels of commitment, dedication, and time. However, it can result in the most reward for your effort.
-- **提高直播质量。** This can include adding new overlays, camera capture, scene transition effects, osu!-specific plugins, Twitch chat display, Twitch integrity, and many more. You can also improve your channel's appearance by setting an avatar, banner, and general info.
+- **找到最佳直播设置。**OBS Studio 提供的自动配置对你的设备来说可能并不完美。因此，请检查一下你的直播是否很好。如果不太好，就看看应该改善什么来为观看者提供最佳体验。
+- **建立社群。**这件事很有挑战性，因为从头开始建立你自己的社群需要很高程度的付出、投入和时间。然而，这可以为你的努力带来最丰厚的回报。
+- **提高直播质量。**你可以添加新的指示器、摄像头画面、转场效果、 osu! 特定的插件、 Twitch 聊天显示与集成，还有很多很多。你也可以设置头像】头图和基本信息来改善频道的外观。
 - ...最重要的是，玩得开心！
