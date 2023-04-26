@@ -10,7 +10,7 @@ tags:
 
 ![MWC 4K 2018 logo](img/logo.png)
 
-The **osu!mania 4K World Cup 2018** (***MWC 4K 2018***) was a country-based osu!mania 4K tournament hosted by the [osu! team](/wiki/People/The_Team). It was the fifth instalment of the osu!mania 4K World Cup.
+The **osu!mania 4K World Cup 2018** (***MWC 4K 2018***) was a country-based osu!mania 4K tournament hosted by the [osu! team](/wiki/People/osu!_team). It was the fifth instalment of the osu!mania 4K World Cup.
 
 ## Tournament schedule
 

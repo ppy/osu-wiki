@@ -14,13 +14,13 @@ tags:
 
 **聚光灯**（Beatmap Spotlights，或简称 Spotlights），也被称为*月赛*（*Ranking Charts*）。是一个定期举办的活动系统，用于推荐或突出玩家制作的拥有出色或独特玩法设计的[谱面](/wiki/Beatmap)。它有一个[赛季排行榜](#赛季)，并为所有参与的玩家提供奖励。
 
-当前赛季为 2023 冬。
+当前赛季为 2023 春。
 
-[聚光灯策展人页面](https://osu.ppy.sh/groups/48)列出了所有的团队成员。若要详细了解 BSC 内所有的角色，参见[聚光灯策展人](/wiki/People/The_Team/Beatmap_Spotlight_Curators)。
+[聚光灯策展人页面](https://osu.ppy.sh/groups/48)列出了所有的团队成员。若要详细了解 BSC 内所有的角色，参见[聚光灯策展人](/wiki/People/Beatmap_Spotlight_Curators)。
 
 ## 参加
 
-必须使用 [osu!(lazer)](/wiki/Client/Release_stream/Lazer) 客户端才能参加聚光灯，前往它的 [GitHub 发行页](https://github.com/ppy/osu/releases/latest)进行下载。
+想要参加谱面聚光灯活动，请[下载](https://osu.ppy.sh/home/download) [osu!(lazer)](/wiki/Client/Release_stream/Lazer) 客户端。
 
 安装并登入账号后，在游玩菜单中进入`歌单模式`，找到带有绿色标识的 `Spotlights` 大厅，或使用右上角的下拉框进行筛选。
 
@@ -67,14 +67,14 @@ tags:
 
 | 徽章 | 段位 | 排名 |
 | :-: | :-- | :-- |
-| ![](img/badges/winter_2023/osu/ri_1.png) ![](img/badges/winter_2023/osu/ri_2.png) | 人韵合一（Rhythm Incarnate） | 赛季最佳玩家 |
-| ![](img/badges/winter_2023/osu/diamond_1.png) ![](img/badges/winter_2023/osu/diamond_2.png) | 钻石（Diamond） | 3% |
-| ![](img/badges/winter_2023/osu/platinum_1.png) ![](img/badges/winter_2023/osu/platinum_2.png) | 铂金（Platinum） | 3% – 10% |
-| ![](img/badges/winter_2023/osu/gold_1.png) ![](img/badges/winter_2023/osu/gold_2.png) | 黄金（Gold） | 10% – 25% |
-| ![](img/badges/winter_2023/osu/silver_1.png) ![](img/badges/winter_2023/osu/silver_2.png) | 白银（Silver） | 25% – 50% |
-| ![](img/badges/winter_2023/osu/bronze_1.png) ![](img/badges/winter_2023/osu/bronze_2.png) | 青铜（Bronze） | 50% – 70% |
-| ![](img/badges/winter_2023/osu/copper_1.png) ![](img/badges/winter_2023/osu/copper_2.png) | 黄铜（Copper） | 70% – 95% |
-| ![](img/badges/winter_2023/osu/iron_1.png) ![](img/badges/winter_2023/osu/iron_2.png) | 黑铁（Iron） | 95% – 100% |
+| ![](img/badges/spring_2023/osu/ri_1.png) ![](img/badges/spring_2023/osu/ri_2.png) | 人韵合一（Rhythm Incarnate） | 赛季最佳玩家 |
+| ![](img/badges/spring_2023/osu/diamond_1.png) ![](img/badges/spring_2023/osu/diamond_2.png) | 钻石（Diamond） | 3% |
+| ![](img/badges/spring_2023/osu/platinum_1.png) ![](img/badges/spring_2023/osu/platinum_2.png) | 铂金（Platinum） | 3% – 10% |
+| ![](img/badges/spring_2023/osu/gold_1.png) ![](img/badges/spring_2023/osu/gold_2.png) | 黄金（Gold） | 10% – 25% |
+| ![](img/badges/spring_2023/osu/silver_1.png) ![](img/badges/spring_2023/osu/silver_2.png) | 白银（Silver） | 25% – 50% |
+| ![](img/badges/spring_2023/osu/bronze_1.png) ![](img/badges/spring_2023/osu/bronze_2.png) | 青铜（Bronze） | 50% – 70% |
+| ![](img/badges/spring_2023/osu/copper_1.png) ![](img/badges/spring_2023/osu/copper_2.png) | 黄铜（Copper） | 70% – 95% |
+| ![](img/badges/spring_2023/osu/iron_1.png) ![](img/badges/spring_2023/osu/iron_2.png) | 黑铁（Iron） | 95% – 100% |
 
 `人韵合一` 段位的玩家数量是根据该赛季的参与人数和其他段位的规模手动挑选的，在大多数情况下为前 2 - 50 名。
 
@@ -115,13 +115,13 @@ tags:
 
 ## 历史
 
-该项目最初由 ::{ flag=US }:: [Cyclone](https://osu.ppy.sh/users/18589) 和 ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) 在 2009 年 10 月[^charts-09-oct] [^charts-09-nov]提出，原名 “Ranking Charts”。该项目旨在让 [BAT](/wiki/Modding/Beatmap_Appreciation_Team) 和 [MAT](/wiki/Modding/Mapping_Assistance_Team) 提名并投票选出展示为期一个月或一年[^charts-10-jan]的最佳谱面。2011 年 9 月, osu!taiko 和 osu!catch 也启动了类似的项目[^charts-11-per-mode]。
+该项目最初由 ::{ flag=US }:: [Cyclone](https://osu.ppy.sh/users/18589) 和 ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) 在 2009 年 10 月[^charts-09-oct] [^charts-09-nov]提出，原名 “Ranking Charts”。该项目旨在让 [BAT](/wiki/People/Beatmap_Appreciation_Team) 和 [MAT](/wiki/People/Mapping_Assistance_Team) 提名并投票选出展示为期一个月或一年[^charts-10-jan]的最佳谱面。2011 年 9 月, osu!taiko 和 osu!catch 也启动了类似的项目[^charts-11-per-mode]。
 
 该项目进行了多次更改和补充，例如[主题月赛](https://osu.ppy.sh/rankings/osu/charts?spotlight=26)，[Mod 月赛](https://osu.ppy.sh/rankings/osu/charts?spotlight=19)或是[赛季排行榜](https://osu.ppy.sh/home/news/2014-07-18-june-2014-ranking-chart)等等。最初，只有月赛胜者才能获得 [osu! 支持者](/wiki/osu!supporter)标签。后来，添加了对谱面作者或赛季排行榜胜者的奖励。
 
 项目负责人在其历史上已经发生了数次变化。::{ flag=US }:: [SapphireGhost](https://osu.ppy.sh/users/388602) 于 2012 年 5 月接任项目负责人[^charts-manager-sg]，随后是 ::{ flag=US }:: [DeathXShinigami](https://osu.ppy.sh/users/49516) [^charts-manager-dxs] 和 ::{ flag=US }:: [Makar](https://osu.ppy.sh/users/686389) [^charts-manager-makar]。::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) 和 ::{ flag=DE }:: [OnosakiHito](https://osu.ppy.sh/users/290128) 于 2013 年 12 月接任项目负责人[^charts-manager-loctav]。
 
-2014 年 1 月，月赛浏览器被添加到 osu! 客户端当中[^charts-in-osu-14-jan]，同年 6 月，几位知名玩家被招募进入了 [CAT](/wiki/Beatmap_Spotlights/Chart_Assembly_Team)[^charts-cat-recruitment-14-jun]。从 2015 年 3 月开始，该项目从最初的提名和投票，转变为让[知名社区成员逐个选择他们推荐的谱面](https://osu.ppy.sh/home/news/2015-03-18-february-2015-monthly-ranking-charts-new-season)[^charts-curated-15-mar]。在 2016 年 9 月，提名系统已大体恢复[^charts-reverted-16-sep]。此时，[QAT](/wiki/Modding/Quality_Assurance_Team) 将负责选择最值得关注的谱面。
+2014 年 1 月，月赛浏览器被添加到 osu! 客户端当中[^charts-in-osu-14-jan]，同年 6 月，几位知名玩家被招募进入了 [CAT](/wiki/Beatmap_Spotlights/Chart_Assembly_Team)[^charts-cat-recruitment-14-jun]。从 2015 年 3 月开始，该项目从最初的提名和投票，转变为让[知名社区成员逐个选择他们推荐的谱面](https://osu.ppy.sh/home/news/2015-03-18-february-2015-monthly-ranking-charts-new-season)[^charts-curated-15-mar]。在 2016 年 9 月，提名系统已大体恢复[^charts-reverted-16-sep]。此时，[QAT](/wiki/People/Quality_Assurance_Team) 将负责选择最值得关注的谱面。
 
 在 2017 年 3 月改名为 [Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights)[^charts-renamed-into-spotlights]。该系统本身保持了基本的连贯性，同时增加了诸如成就之类的奖励，并进一步增强了 Beatmap Spotlights 的显示效果。在 QAT 休整期间，::{ flag=HU }:: [Kurokami](https://osu.ppy.sh/users/260933) 重新任职为该项目的负责人，并重组了一个基于社区的谱面选择团队。2018 年 11 月，月赛的频率更改为季节性[^spotlights-seasonal]。2020 年 3 月，::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) 和 Kurokami 重任项目负责人、重新设计项目结构、并新建了名为 osu! 策展人的团队[^spotlights-reworked-20-june]。
 

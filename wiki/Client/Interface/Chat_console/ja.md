@@ -12,7 +12,7 @@ osu!のほとんどの画面では`F8`を押すか、右下の`Show Chat`ボタ�
 | **White** | あなた |
 | **Pale** | 非サポーター |
 | **Yellow** | [osu!サポーター](/wiki/osu!supporter) |
-| **Red** | [グローバルモデレーションチーム](/wiki/People/The_Team/Global_Moderation_Team)または[ノミネーションアセスメントチーム](/wiki/People/The_Team/Nomination_Assessment_Team )のメンバー |
+| **Red** | [グローバルモデレーションチーム](/wiki/People/Global_Moderation_Team)または[ノミネーションアセスメントチーム](/wiki/People/The_Team/Nomination_Assessment_Team )のメンバー |
 | **Green** | 行には、あなたの名前や[「ハイライト」](Highlight)を引き起こすために付けた特定のキーワードが含まれています。メッセージのコピーは、これらの行をすべて含む専用のチャンネル、`#highlight`にも表示されます。 |
 | **Blue** | プライベートメッセージ |
 | **Cyan** | [peppy](https://osu.ppy.sh/users/2)、osu!の製作者 |

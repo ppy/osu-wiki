@@ -16,7 +16,7 @@ tags:
 ![](img/kiai-time-taiko-gameplay.png "Kiai time in osu!taiko: ecstatic pippidon and violet-tinted conveyor belt")
 :::
 
-**Kiai time**, or *kiai*, is a set of distinctive visual effects emphasising a part of a [beatmap](/wiki/Beatmap), which is inspired[^taiko-roots] by Go-Go Time from the [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin) series. Kiai sections are indicated by spraying star fountains, stars falling from under the cursor, and [hit objects](/wiki/Hit_object) flashing to the beat with the frequency of [BPM](/wiki/Beatmapping/Beats_per_minute). Similar effects, such as frequent sideways flashes and star fountains, are also visible in the [main menu](/wiki/Client/Interface#main-menu).
+**Kiai time**, or *kiai*, is a set of distinctive visual effects emphasising a part of a [beatmap](/wiki/Beatmap), which is inspired[^taiko-roots] by Go-Go Time from the [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin) series. Kiai sections are indicated by spraying star fountains, stars falling from under the cursor, and [hit objects](/wiki/Gameplay/Hit_object) flashing to the beat with the frequency of [BPM](/wiki/Music_theory/Tempo). Similar effects, such as frequent sideways flashes and star fountains, are also visible in the [main menu](/wiki/Client/Interface#main-menu).
 
 While kiai time doesn't affect gameplay mechanics in osu!, osu!catch, or osu!mania, it provides a 20% [score](/wiki/Gameplay/Score) gain in [osu!taiko](/wiki/Game_mode/osu!taiko).
 

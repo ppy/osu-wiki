@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: c564fa7fe8cba100544592a2f16e0056415ad663
+---
+
 # Restrictions de compte
 
 *Page principale : [Centre d'aide](/wiki/Help_centre)*
@@ -22,7 +27,7 @@ Les fonctionnalités suivantes sont désactivées pour les comptes restreints :
 Si votre compte a été restreint, ne paniquez pas. Veuillez suivre ces étapes :
 
 - **Attendez 24 heures.** Certaines restrictions sont le résultat d'un processus automatique. Puisque nous vérifions chaque nouvelle restriction quotidiennement, veuillez attendre 24 heures - si votre restriction était une erreur, elle devrait être levée durant cette période.
-- **Contactez notre [équipe de support aux comptes](/wiki/People/The_Team/Account_support_team).** Si votre compte est toujours restreint après ces 24 heures, veuillez envoyer un email à [accounts@ppy.sh](mailto:accounts@ppy.sh) **depuis l'adresse email attachée à votre compte** pour demander des détails sur votre restriction. Assurez-vous d'inclure votre pseudo en fournissant le plus d'informations possibles sur ce pourquoi vous pensez avoir été restreint. Plus vous nous en dites, plus il sera facile pour nous de résoudre le problème.
+- **Contactez notre [équipe de support aux comptes](/wiki/People/Account_support_team).** Si votre compte est toujours restreint après ces 24 heures, veuillez envoyer un email à [accounts@ppy.sh](mailto:accounts@ppy.sh) **depuis l'adresse email attachée à votre compte** pour demander des détails sur votre restriction. Assurez-vous d'inclure votre pseudo en fournissant le plus d'informations possibles sur ce pourquoi vous pensez avoir été restreint. Plus vous nous en dites, plus il sera facile pour nous de résoudre le problème.
 - Si vous pensez fermement que votre restriction est le résultat d'une erreur, veuillez nous contacter immédiatement pour que nous puissions discuter de votre cas.
 
 Si votre compte a été restreint pour avoir brisé les [règles](/wiki/Rules), vous ne serez autorisé à envoyer un appel qu'après un minimum de **trois mois**. Cette période de temps est appelée un *cooldown*, et si vous avez triché, elle sera de six mois.

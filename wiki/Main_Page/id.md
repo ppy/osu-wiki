@@ -1,6 +1,5 @@
 ---
 layout: main_page
-no_native_review: true
 ---
 
 <!-- Do not add any empty lines inside this div. -->
@@ -18,7 +17,7 @@ Berikut merupakan berbagai artikel pendahuluan yang akan memandu kamu untuk memu
 
 [Peraturan](/wiki/Rules) • [Instalasi](/wiki/Client/Installation) • [Pendaftaran](/wiki/Registration) • [Pusat Bantuan](/wiki/Help_centre)
   
-[Konsol chat](/wiki/Client/Interface/Chat_console) • [BanchoBot](/wiki/BanchoBot) • [FAQ](/wiki/FAQ) • [Panduan](/wiki/Guides) • [Glosarium](/wiki/Glossary)
+[Konsol chat](/wiki/Client/Interface/Chat_console) • [BanchoBot](/wiki/BanchoBot) • [FAQ](/wiki/FAQ) • [Panduan](/wiki/Guides) • [Glosarium](/wiki/Sitemap)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -29,7 +28,7 @@ osu! merupakan permainan yang kaya akan fitur. Kenali berbagai fitur yang osu! m
   
 [Tampilan antarmuka](/wiki/Client/Interface) • [Menu Options](/wiki/Client/Options) • [Menu Visual Settings](/wiki/Client/Interface/Visual_settings) • [Tombol shortcut](/wiki/Client/Keyboard_shortcuts) • [Berkas konfigurasi pengguna](/wiki/Client/Program_files/User_configuration_file) • [Berkas program osu!](/wiki/Client/Program_files)
 
-[Format berkas](/wiki/Client/File_formats): [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) • [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) • [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) • [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) • [.osb](/wiki/osu!_File_Formats/Osb_(file_format))
+[Format berkas](/wiki/Client/File_formats): [.osz](/wiki/Client/File_formats/Osz_(file_format)) • [.osk](/wiki/Client/File_formats/Osk_(file_format)) • [.osr](/wiki/Client/File_formats/Osr_(file_format)) • [.osu](/wiki/Client/File_formats/Osu_(file_format)) • [.osb](/wiki/Client/File_formats/Osb_(file_format))
 
 </div>
 <div class="wiki-main-page-panel">
@@ -40,7 +39,7 @@ Segalanya tentang lingkaran, drum, buah, dan keyboard: mulai dari aspek kunci, k
 
 [Mode permainan](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Beatmap](/wiki/Beatmap) • [Tingkat kesulitan](/wiki/Beatmap/Difficulty) • [Hit object](/wiki/Hit_object) • [Mod](/wiki/Game_modifier) • [Skor](/wiki/Gameplay/Score) • [Tayangan ulang](/wiki/Gameplay/Replay) • [Medali](/wiki/Medals) • [Multiplayer](/wiki/Client/Interface/Multiplayer)
+[Beatmap](/wiki/Beatmap) • [Tingkat kesulitan](/wiki/Beatmap/Difficulty) • [Hit object](/wiki/Gameplay/Hit_object) • [Mod](/wiki/Gameplay/Game_modifier) • [Skor](/wiki/Gameplay/Score) • [Tayangan ulang](/wiki/Gameplay/Replay) • [Medali](/wiki/Medals) • [Multiplayer](/wiki/Client/Interface/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -53,7 +52,7 @@ Bagian: [Compose](/wiki/Client/Beatmap_editor/Compose) • [Design](/wiki/Client
 
 Komponen: [AiMod](/wiki/Client/Beatmap_editor/AiMod) • [Beat snap divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) • [Distance snap](/wiki/Client/Beatmap_editor/Distance_snap) • [Menu](/wiki/Client/Beatmap_editor/Menu) • [SB load](/wiki/Client/Beatmap_editor/SB_Load) • [Timeline](/wiki/Client/Beatmap_editor/Timelines)
 
-Ragam kegiatan: [Beatmapping](/wiki/Beatmapping) • [Teknik mapping](/wiki/Mapping_techniques) • [Storyboarding](/wiki/Storyboard#storyboarding) • [Skinning](/wiki/Skinning)
+Ragam kegiatan: [Beatmapping](/wiki/Beatmapping) • [Teknik mapping](/wiki/Beatmapping/Mapping_techniques) • [Storyboarding](/wiki/Storyboard#storyboarding) • [Skinning](/wiki/Skinning)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -62,7 +61,7 @@ Ragam kegiatan: [Beatmapping](/wiki/Beatmapping) • [Teknik mapping](/wiki/Mapp
   
 Agar suatu beatmap dapat memiliki papan peringkatnya tersendiri, beatmap tersebut harus melewati proses ranking beatmap yang berlaku di osu!. Ketahui bagaimana proses ini berlangsung dan seperti apa prosedur kontrol kualitas beatmap (*quality control*) yang osu! terapkan.
 
-[Pengunggahan beatmap](/wiki/Submission) • [Modding](/wiki/Modding) • [Prosedur ranking beatmap](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
+[Pengunggahan beatmap](/wiki/Beatmapping/Beatmap_submission) • [Modding](/wiki/Modding) • [Prosedur ranking beatmap](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
 
 [Ranking criteria](/wiki/Ranking_Criteria): [osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania)
 
@@ -73,9 +72,9 @@ Agar suatu beatmap dapat memiliki papan peringkatnya tersendiri, beatmap tersebu
   
 Kenali berbagai ketentuan hukum dan peraturan komunitas yang berlaku di osu!, mulai dari proses lisensi musik, pedoman penggunaan konten, hingga etika penggunaan layanan forum dan *chat* yang osu! sediakan.
 
-[Peraturan](/wiki/Rules) • [Kode Etik Contributor Covenant](/wiki/Contributor_Code_of_Conduct) • [Kode etik dalam modding dan mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)
+[Peraturan](/wiki/Rules) • [Kode etik Contributor Covenant](/wiki/Rules/Contributor_Code_of_Conduct) • [Kode etik dalam modding dan mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)
 
-Peraturan media: [Pedoman Penggunaan Konten](/wiki/Rules/Content_Usage_Guidelines) • [Proses pengkajian konten](/wiki/Rules/Content_Voting_Process) • [Konten eksplisit](/wiki/Rules/Explicit_Content) • [Aturan konten musik](/wiki/Rules/Song_Content_Rules) • [Pertimbangan konten visual](/wiki/Rules/Visual_Content_Considerations)
+Peraturan media: [Pedoman penggunaan konten](/wiki/Rules/Content_Usage_Guidelines) • [Proses pengkajian konten](/wiki/Rules/Content_Voting_Process) • [Konten eksplisit](/wiki/Rules/Explicit_Content) • [Aturan konten musik](/wiki/Rules/Song_Content_Rules) • [Pertimbangan konten visual](/wiki/Rules/Visual_Content_Considerations)
 
 [Artikel legal](/wiki/Legal): [Ketentuan layanan](/wiki/Legal/Terms) • [Privasi](/wiki/Legal/Privacy) • [Hak cipta (DMCA)](/wiki/Legal/Copyright) • [Lisensi musik](/wiki/Legal/Music_licensing)
   
@@ -86,7 +85,7 @@ Peraturan media: [Pedoman Penggunaan Konten](/wiki/Rules/Content_Usage_Guideline
 
 Temukan jawaban atas berbagai pertanyaan yang umum diajukan di bawah ini.
 
-[Pusat bantuan](/wiki/Help_centre) • [Pemecahan masalah kinerja osu!](/wiki/Performance_troubleshooting) • [Tim dukungan akun](/wiki/People/The_Team/Account_support_team) • [Sub-forum Help](https://osu.ppy.sh/forum/5)
+[Pusat bantuan](/wiki/Help_centre) • [Pemecahan masalah kinerja](/wiki/Performance_troubleshooting) • [Tim dukungan akun](/wiki/People/Account_support_team) • [Sub-forum Help](https://osu.ppy.sh/forum/5)
 
 Pembatasan profil: [Silence](/wiki/Silence) • [Restriction](/wiki/Help_centre/Account_restrictions)
 
@@ -99,11 +98,11 @@ Lakukan bagianmu: [Bagaimana kamu dapat membantu](/wiki/Community/How_you_can_he
 
 Para pemain osu! di seluruh dunia saling terhubung dan berinteraksi antar satu sama lain setiap waktunya. Jadilah bagian dalam segala rupa aktivitas yang terjadi di sekitar komunitas, mulai dari obrolan, kontes, hingga berbagai *event* besar!
   
-Ruang publik: [Forum](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_Chat)
+Ruang publik: [Forum](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_Chat) • [Server Discord](/wiki/Community/Discord_servers)
 
-[Turnamen](/wiki/Tournaments) • [Beatmap Spotlight](/wiki/Beatmap_Spotlights) • [Kontes](/wiki/Contests) • [Community Mentorship Program](/wiki/Community/Community_Mentorship_Program)
+[Turnamen](/wiki/Tournaments) • [Beatmap Spotlight](/wiki/Beatmap_Spotlights) • [Kontes](/wiki/Contests) • [Program Community Mentorship](/wiki/Community/Community_Mentorship_Program)
   
-[Proyek](/wiki/Community/Projects): [Featured Artist](/wiki/Featured_Artists) • [Project Loved](/wiki/Community/Project_Loved) • [Pertemuan komunitas osu!](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk)
+[Proyek](/wiki/Community/Projects) • [Featured Artist](/wiki/People/Featured_Artists) • [Project Loved](/wiki/Community/Project_Loved) • [Pertemuan komunitas osu!](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!monthly](/wiki/Community/osu!monthly) • [osu!talk](/wiki/Community/Video_series/osu!talk)
 
 Organisasi: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
@@ -114,9 +113,9 @@ Organisasi: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
   
 osu! tidak akan dapat berada pada titik ini tanpa dukungan dari mereka yang telah banyak mendukung kami dalam berbagai hal: upaya, dedikasi, dan jerih payah mereka memungkinkan kami untuk terus tumbuh dan berkembang seiring waktu.
 
-[Tim inti](/wiki/People/The_Team): [Developer](/wiki/People/The_Team/Developers) • [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) • [Support Team](/wiki/People/The_Team/Support_Team) • [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) • [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators) • [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) • [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team) • [Beatmap Spotlight Curators](/wiki/People/The_Team/Beatmap_Spotlight_Curators)
+[Tim inti](/wiki/People/osu!_team) • [Developer](/wiki/People/Developers) • [Featured Artist](/wiki/People/Featured_Artists) • [Global Moderation Team](/wiki/People/Global_Moderation_Team) • [Support Team](/wiki/People/Support_Team) • [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) • [Beatmap Nominator](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Project Loved Team](/wiki/People/Project_Loved_Team) • [Beatmap Spotlight Curators](/wiki/People/Beatmap_Spotlight_Curators)
 
-[Kontributor komunitas](/wiki/People/Community_Contributors) • [Daftar pengguna dengan gelar khusus](/wiki/People/Users_with_unique_titles) • [Komite turnamen](/wiki/People/Tournament_Committee) • [Komite performance point](/wiki/People/Performance_Points_Committee) • [Pengelola osu!wiki](/wiki/People/osu!_wiki_maintainers)
+[Kontributor komunitas](/wiki/People/Community_Contributors) • [Kelompok pengguna](/wiki/People/User_group) • [Daftar pengguna dengan gelar khusus](/wiki/People/Users_with_unique_titles) • [Komite turnamen](/wiki/People/Tournament_Committee) • [Komite performance point](/wiki/People/Performance_Points_Committee) • [Pengelola osu!wiki](/wiki/People/osu!_wiki_maintainers)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -125,7 +124,7 @@ osu! tidak akan dapat berada pada titik ini tanpa dukungan dari mereka yang tela
   
 Berbagai hal yang sekiranya dapat berguna bagi mereka yang ingin turut serta dalam pengembangan osu!, baik dalam ruang lingkup pemrograman ataupun media.
 
-[API](/wiki/osu!api) • [Akun bot](/wiki/Bot_account) • [Pedoman identitas visual](/wiki/Brand_identity_guidelines) • [Server Discord osu!dev](/wiki/Community/osu!dev_Discord_server)
+[API](/wiki/osu!api) • [Akun bot](/wiki/Bot_account) • [Pedoman identitas merek](/wiki/Brand_identity_guidelines) • [Server Discord osu!](/wiki/Community/osu!_Discord_server)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -134,7 +133,7 @@ Berbagai hal yang sekiranya dapat berguna bagi mereka yang ingin turut serta dal
   
 Sama seperti berbagai hal lainnya yang terdapat di osu!, osu! wiki juga dikembangkan dan dikelola oleh para sukarelawan. Apabila kamu memiliki saran, kritikan, atau bahkan ide seputar artikel baru untuk ditambahkan ke wiki ini, silakan kunjungi [repositori osu-wiki di GitHub](https://github.com/ppy/osu-wiki).
 
-[Sejarah osu!](/wiki/History_of_osu!) • [Sejarah osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [Sejarah mapping dan modding](/wiki/History_of_osu!/Mapping_and_Modding_Timeline) • [April Fools](/wiki/History_of_osu!/April_Fools)
+[Sejarah osu!](/wiki/History_of_osu!) • [Sejarah peringkat online](/wiki/History_of_osu!/Online_rankings) • [Sejarah osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [Sejarah mapping dan modding](/wiki/History_of_osu!/Mapping_and_Modding_Timeline) • [April Fools](/wiki/History_of_osu!/April_Fools)
 
 [Peta situs](/wiki/Sitemap) • [Panduan kontribusi](/wiki/osu!_wiki/Contribution_guide) • [Kriteria penulisan artikel](/wiki/Article_styling_criteria) • [Kriteria penulisan berita](/wiki/News_styling_criteria)
 

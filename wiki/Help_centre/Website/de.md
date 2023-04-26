@@ -31,7 +31,7 @@ Diese Sektion befasst sich mit Problemen auf der osu!-Webseite.
 
 Du kannst immer eine einzelne Antwort auf dein aktuell offenes Ticket senden, um den Status deines Tickets anzufragen, aber stelle sicher, dass du dies nicht mehr als ein- oder zweimal pro Woche machst. Ebenfalls kannst du uns auf Twitter unter [@osusupport](https://twitter.com/osusupport) kontaktieren, um nach deinem Ticket zu fragen.
 
-In seltenen Umständen können Support-Tickets von chronisch straffälligen Nutzern absichtlich ignoriert werden, jedoch wird sich das [Support-Team](/wiki/People/The_Team/Account_support_team) vorher **immer** bei dir melden, wenn sie nicht mehr länger antworten werden. Falls du noch keine Benachrichtigung wie diese erhalten hast, brauchst du dir keine Sorgen machen!
+In seltenen Umständen können Support-Tickets von chronisch straffälligen Nutzern absichtlich ignoriert werden, jedoch wird sich das [Support-Team](/wiki/People/Account_support_team) vorher **immer** bei dir melden, wenn sie nicht mehr länger antworten werden. Falls du noch keine Benachrichtigung wie diese erhalten hast, brauchst du dir keine Sorgen machen!
 
 ### Kann ich einen anderen Nutzer komplett daran hindern, mich zu kontaktieren? {#ignore-user}
 
@@ -89,7 +89,7 @@ Auch wenn dein [Supporter-Tag](https://osu.ppy.sh/home/support) abläuft, wird d
 
 In solchen Fällen darfst du beim Support-Team ein Ticket öffnen, indem du eine E-Mail an [accounts@ppy.sh](mailto:accounts@ppy.sh) sendest und deine Situation mit dem Team diskutierst.
 
-Solltest du zu irgendeinem Zeitpunkt Zweifel haben, ob etwas angemessen für eine ich!-Seite ist, darfst du einem Mitglied des [globalen Moderationsteams](/wiki/People/The_Team/Global_Moderation_Team) eine Nachricht senden, mit dem was du aushängen möchtest, und sie werden dich wissen lassen, ob es in Ordnung ist.
+Solltest du zu irgendeinem Zeitpunkt Zweifel haben, ob etwas angemessen für eine ich!-Seite ist, darfst du einem Mitglied des [globalen Moderationsteams](/wiki/People/Global_Moderation_Team) eine Nachricht senden, mit dem was du aushängen möchtest, und sie werden dich wissen lassen, ob es in Ordnung ist.
 
 ### Muss ich meine E-Mail-Adresse für die Registrierung verwenden? {#email-purpose}
 

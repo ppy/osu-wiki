@@ -10,7 +10,7 @@ outdated_translation: true
 
 ![](img/main-menu.jpg "Menú principal")
 
-El \[1\] logo de osu! se mueve de acuerdo al [BPM](/wiki/Beatmapping/Beats_per_minute) de cualquier canción reproduciéndose actualmente en la pantalla de introducción. Si no se reproduce ninguna canción, se moverá a un ritmo lento por defecto. Los atajos del teclado en paréntesis.
+El \[1\] logo de osu! se mueve de acuerdo al [BPM](/wiki/Music_theory/Tempo) de cualquier canción reproduciéndose actualmente en la pantalla de introducción. Si no se reproduce ninguna canción, se moverá a un ritmo lento por defecto. Los atajos del teclado en paréntesis.
 
 - \[2\] Da clic a Play (P) o al logo para cambiar a la segunda pantalla de inicio.
 - \[3\] Da clic a Edit (E) para abrir la pantalla de selección de canciones para el [editor](/wiki/Client/Beatmap_editor).

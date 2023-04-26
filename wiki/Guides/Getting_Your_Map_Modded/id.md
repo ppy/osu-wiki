@@ -8,7 +8,7 @@ Agar mapmu bisa dimod agar bisa menjadi map dengan status [ranked](/wiki/Beatmap
 
 ## \#modreqs
 
-**\#modreqs** adalah channel di osu!chat, di mana pemain bisa meminta bantuan atau ([Mod](/wiki/Modding)) di map mereka dengan menampilkannya dengan perintah /np. Beberapa modder dan bahkan anggota [Beatmap Appreciation Team](/wiki/People/The_Team/Beatmap_Nominators) mungkin bisa mengecek beberapa map yang baik yang ditampilkan di channel ini.
+**\#modreqs** adalah channel di osu!chat, di mana pemain bisa meminta bantuan atau ([Mod](/wiki/Modding)) di map mereka dengan menampilkannya dengan perintah /np. Beberapa modder dan bahkan anggota [Beatmap Appreciation Team](/wiki/People/Beatmap_Nominators) mungkin bisa mengecek beberapa map yang baik yang ditampilkan di channel ini.
 
 [Bancho](/wiki/BanchoBot) mencatat 20 permintaan mod terbaru dan dapat memberitahu modder untuk mendapatkan mereka di beberapa cara, yaitu :
 
@@ -30,7 +30,7 @@ mod4mod, atau biasa disingkat M4M, adalah di mana kamu mengemod map orang lain, 
 
 ## Langsung Tanya ke Pemain Lain
 
-Langsung bertanya kepada pemain lain adalah cara yang bagus dalam mencari mod, kalau kamu bertanya pada orang yang tepat. Cari pemain normal dengan jumlah [kudosu](/wiki/Modding/Kudosu) yang banyak dan yang tidak punya modding queue; sering mereka akan menerima permintaanmu apabila mereka tidak sibuk. Selain itu, bertanya secara langsung kepada [BATs](/wiki/People/The_Team/Beatmap_Nominators) juga penting agar mapmu bisa dirank. Ini adalah beberapa tips :
+Langsung bertanya kepada pemain lain adalah cara yang bagus dalam mencari mod, kalau kamu bertanya pada orang yang tepat. Cari pemain normal dengan jumlah [kudosu](/wiki/Modding/Kudosu) yang banyak dan yang tidak punya modding queue; sering mereka akan menerima permintaanmu apabila mereka tidak sibuk. Selain itu, bertanya secara langsung kepada [BATs](/wiki/People/Beatmap_Nominators) juga penting agar mapmu bisa dirank. Ini adalah beberapa tips :
 
 - Jika di signature atau userpage seseorang terdapat "Aku tidak menerima request", jangan meminta mereka apabila mereka bukan temanmu.
 - Mulailah dengan percakapan yang biasa, dan secara normal masukkan permintaan requestnya saat keadaan sudah cair, atau percakapannya sedang seru. Ini lebih efektif daripada bertanya secara langsung atau frontal.

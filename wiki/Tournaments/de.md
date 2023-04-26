@@ -61,6 +61,7 @@ Der osu! World Cup ist ein länderbasiertes 4v4-Team-VS-Turnier mit Doppelaussch
 | [osu!catch World Cup 2020](CWC/2020) | 09.05.2020 | 14.06.2020 | ::{ flag=KR }:: Südkorea | ::{ flag=CN }:: China | ::{ flag=US }:: Vereinigte Staaten |
 | [osu!catch World Cup 2021](CWC/2021) | 01.05.2021 | 06.06.2021 | ::{ flag=KR }:: Südkorea | ::{ flag=HK }:: Hong Kong | ::{ flag=US }:: Vereinigte Staaten |
 | [osu!catch World Cup 2022](CWC/2022) | 21.05.2022 | 03.07.2022 | ::{ flag=KR }:: Südkorea | ::{ flag=US }:: Vereinigte Staaten | ::{ flag=CN }:: China |
+| [osu!catch World Cup 2023](CWC/2023) | 13.05.2023 | 25.06.2023 | *TBD* | *TBD* | *TBD* |
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania World Cup
 
@@ -214,6 +215,12 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Old Map Fantasy World Cup](OMF/WC) | 14.08.2021 | 03.10.2021 | ::{ flag=US }:: Vereinigte Staaten | ::{ flag=KR }:: Südkorea | ::{ flag=PL }:: Polen |
 
+#### osu! Amateur Solo Indonesia Showdown
+
+| Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [osu! Amateur Solo Indonesia Showdown](oASIS/1) | 06.02.2023 | 21.03.2023 | ::{ flag=ID }:: [im a cute bunny](https://osu.ppy.sh/users/12578000) | ::{ flag=ID }:: [SDKO](https://osu.ppy.sh/users/4858555) | ::{ flag=ID }:: [akebono](https://osu.ppy.sh/users/1815316) |
+
 #### osu! Asia Oceania Tournament
 
 | Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
@@ -244,6 +251,15 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 | [osu! Indonesia Tournament #10 (2020)](OIT/2020) | 03.02.2020 | 12.04.2020 | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | ::{ flag=ID }:: [Fuma](https://osu.ppy.sh/users/1501956) | ::{ flag=ID }:: [Rexeez](https://osu.ppy.sh/users/1987591) |
 | [osu! Indonesia Tournament #11 (2021)](OIT/2021) | 04.01.2021 | 28.03.2021 | ::{ flag=ID }:: [rho](https://osu.ppy.sh/users/1629553) | ::{ flag=ID }:: [Skydiver](https://osu.ppy.sh/users/4750008) | ::{ flag=ID }:: [Crezz](https://osu.ppy.sh/users/7108275) |
 | [osu! Indonesia Tournament #12 (2022)](OIT/2022) | 15.02.2022 | 03.04.2022 | ::{ flag=ID }:: [Lifeline](https://osu.ppy.sh/users/11367222) | ::{ flag=ID }:: [deeto](https://osu.ppy.sh/users/10069909) | ::{ flag=ID }:: [Thatnoobguy](https://osu.ppy.sh/users/11091594) |
+
+#### osu! Romania Tournament
+
+| Name | Start | Ende | ![Goldkrone][GCrown] | ![Silberkrone][SCrown] | ![Bronzekrone][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| osu! Romania Tournament 2018 (High Bracket) | 17.04.2018 | 18.08.2018 | ::{ flag=RO }:: [badeu](https://osu.ppy.sh/users/1473890/) | ::{ flag=RO }:: [Chamosiala](https://osu.ppy.sh/users/1469892) | ::{ flag=RO }:: [vali24dm](https://osu.ppy.sh/users/10398451/) |
+| osu! Romania Tournament 2018 (Low Bracket) | 17.04.2018 | 18.08.2018 | ::{ flag=RO }:: [FDunderlineGod](https://osu.ppy.sh/users/4854275) | ::{ flag=RO }:: [CataDesigns](https://osu.ppy.sh/users/10569381) | ::{ flag=RO }:: [Robi](https://osu.ppy.sh/users/9907606) |
+| osu! Romania Tournament 2019 | 24.05.2019 | 14.09.2019 | ::{ flag=RO }:: [badeu](https://osu.ppy.sh/users/1473890/) | ::{ flag=RO }:: [eternum](https://osu.ppy.sh/users/4581069) | ::{ flag=RO }:: [\_AfterWind](https://osu.ppy.sh/users/2086138) |
+| [osu! Romania Summer Tournament 2021](o!RT/2021) | 24.05.2021 | 12.09.2021 | ::{ flag=RO }:: [eternum](https://osu.ppy.sh/users/4581069) | ::{ flag=RO }:: [L9 ELOVATOR](https://osu.ppy.sh/users/9578404) | ::{ flag=RO }:: [\_AfterWind](https://osu.ppy.sh/users/2086138) |
 
 #### osu! Singapore-Indonesia-Malaysia Tournament
 
@@ -809,7 +825,7 @@ Nicht offizielle Turniere/Wettkämpfe, die von den Communities veranstaltet werd
 ## Siehe auch
 
 - [Liste der Länder, die an osu!-Turnieren teilgenommen haben](Countries_that_participated_in_osu!_tournaments)
-- [osu!tourney](/wiki/osu!tourney) (Client, der für Turnier-Streaming verwendet wird)
+- [osu!tourney](/wiki/osu!_tournament_client/osu!tourney) (Client, der für Turnier-Streaming verwendet wird)
 
 [GCrown]: /wiki/shared/crown-gold.png "1. Platz"
 [SCrown]: /wiki/shared/crown-silver.png "2. Platz"

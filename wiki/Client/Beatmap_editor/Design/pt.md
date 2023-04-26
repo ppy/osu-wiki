@@ -6,7 +6,7 @@ O **Editor de Storyboard** é uma seção do [Editor de Beatmap](/wiki/Client/Be
 
 - Mostra as coordenadas de onde o cursor esta e sua orientação na linha do tempo (em milissegundos).
 - Mostra o nivel de [SB Load](/wiki/Client/Beatmap_editor/SB_Load) de todas as imagens visíveis.
-- Diferentes camadas selecionáveis (background, failing, passing, foreground, e [Hit Objects](/wiki/Hit_object)).
+- Diferentes camadas selecionáveis (background, failing, passing, foreground, e [Hit Objects](/wiki/Gameplay/Hit_object)).
 - Efeitos de manipulação principais:
   - Movement (Movimento)
   - Scaling (Escala)
@@ -25,6 +25,6 @@ O **Editor de Storyboard** é uma seção do [Editor de Beatmap](/wiki/Client/Be
 
 ## Limitações
 
-- Não tem suporte a efeitos sonoros, isso não é um grande problema já que efeitos sonoros podem distrair jogadores, especialmente se eles estão próximos de [Hit Objects](/wiki/Hit_object). Uso de efeitos sonoros deve ser feitos apenas por mappers experientes e com a aprovação dos membros do BAT.
+- Não tem suporte a efeitos sonoros, isso não é um grande problema já que efeitos sonoros podem distrair jogadores, especialmente se eles estão próximos de [Hit Objects](/wiki/Gameplay/Hit_object). Uso de efeitos sonoros deve ser feitos apenas por mappers experientes e com a aprovação dos membros do BAT.
 - Sem suporte para loop ou trigger.
 - Sem comandos de cor ou Move-X/Move-Y.

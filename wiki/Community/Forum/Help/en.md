@@ -8,4 +8,4 @@ stub: true
 
 <!-- TODO: mention issue labels? -->
 
-[**Help**](https://osu.ppy.sh/community/forums/5) is a forum where players can receive technical support from [Support Team](/wiki/People/The_Team/Support_Team) members as well as regular users.
+[**Help**](https://osu.ppy.sh/community/forums/5) is a forum where players can receive technical support from [Support Team](/wiki/People/Support_Team) members as well as regular users.

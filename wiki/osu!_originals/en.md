@@ -1,6 +1,6 @@
 # osu! originals
 
-**osu! originals** are songs that are specifically made for (or otherwise first premiered in) osu! or other osu!-related events such as tournaments, contests, and [Featured Artist](/wiki/Featured_Artists) announcements. While not all osu! originals are officially licensed and included in the [Featured Artist library](https://osu.ppy.sh/beatmaps/artists), the songs that do are commonly distinguished by the `ORIGINAL` label on their respective artists' pages.
+**osu! originals** are songs that are specifically made for (or otherwise first premiered in) osu! or other osu!-related events such as tournaments, contests, and [Featured Artist](/wiki/People/Featured_Artists) announcements. While not all osu! originals are officially licensed and included in the [Featured Artist library](https://osu.ppy.sh/beatmaps/artists), the songs that do are commonly distinguished by the `ORIGINAL` label on their respective artists' pages.
 
 All osu! originals that have been licensed by the game are cleared for use in osu! under non-exclusive terms as per the [osu! music licensing policy](/wiki/Legal/Music_licensing). Conversely, non-licensed osu! originals may require permission for use. See the [Content Usage Guidelines](/wiki/Rules/Content_Usage_Guidelines) for more information.
 
@@ -257,6 +257,12 @@ These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-
 | :-: | :-: | :-- |
 | [ptar124 - AmbidextrouS \~The Alchemist of The Left x The Sage of The Right\~](https://soundcloud.com/part-lerts/axs-7th-grand-finals-tiebreaker-ambidextrous-x) | [#1](https://osu.ppy.sh/beatmapsets/1698560) | Grand Finals tiebreaker |
 
+#### ![](/wiki/shared/mode/osu.png) Badly Wood Cup
+
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| Daily197 - Sirius | [#1](https://osu.ppy.sh/beatmapsets/1964081) | Grand Finals tiebreaker |
+
 #### ![](/wiki/shared/mode/osu.png) Charlie's Perfect Math Class
 
 | Song | Beatmap | Notes |
@@ -449,6 +455,12 @@ These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-
 | Song | Beatmap | Notes |
 | :-: | :-: | :-- |
 | [NicDroid as "NicDono" - TAMBOL2022](https://www.youtube.com/watch?v=zhecFreHC94) | [#1](https://osu.ppy.sh/beatmapsets/1838613) | Grand Finals tiebreaker |
+
+#### ![](/wiki/shared/mode/mania.png) osu!mania 4K Chinese National Cup 2022
+
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [月見 静華 x LUNARiUM - Fight Against the Past](https://lunariumgk.bandcamp.com/track/fight-against-the-past) | [#1](https://osu.ppy.sh/beatmapsets/1828541) | Grand Finals tiebreaker |
 
 #### ![](/wiki/shared/mode/mania.png) [osu!mania LN Tournament 3](/wiki/Tournaments/o!mLN/3)
 

@@ -1,6 +1,6 @@
 # Users with unique titles
 
-User titles are typically associated with [user groups](/wiki/People/The_Team#user-groups), but the users listed below were given their titles for other reasons. Most of the titles were rewards for contributions or achievements, with the remaining being tokens of iconic or funny osu! history.
+User titles are typically associated with [user groups](/wiki/People/osu!_team#user-groups), but the users listed below were given their titles for other reasons. Most of the titles were rewards for contributions or achievements, with the remaining being tokens of iconic or funny osu! history.
 
 ## Current World Cup title holders
 
@@ -173,7 +173,7 @@ Most official mapping contests offer the **Elite Mapper** title as a first-place
 
 ## Elite Nominators
 
-Since 2020, members of the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) and [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) with an exceptional display towards supporting the ranking system in a given year are rewarded with the **Elite Nominator** title. This title is given at the beginning of each year for contributions made during the last, and lasts for roughly a year or until the user leaves the team.
+Since 2020, members of the [Beatmap Nominators](/wiki/People/Beatmap_Nominators) and [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) with an exceptional display towards supporting the ranking system in a given year are rewarded with the **Elite Nominator** title. This title is given at the beginning of each year for contributions made during the last, and lasts for roughly a year or until the user leaves the team.
 
 - ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306)
 - ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958)
@@ -220,7 +220,7 @@ The [osu!trivium Quiz contests](/wiki/Contests/osu!trivium_Quiz) award its winni
 
 ## Featured Artists
 
-[Featured Artists](/wiki/Featured_Artists) with osu! accounts are given the **Featured Artist** title to show their involvement.
+[Featured Artists](/wiki/People/Featured_Artists) with osu! accounts are given the **Featured Artist** title to show their involvement.
 
 ::{ flag=NO }:: [cYsmix](https://osu.ppy.sh/users/272870) and ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) have the **osu!musician** title for earlier contributions to osu!'s sound design and official themes, and ::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471) opted to keep the **osu!mixer** title (which has since been upgraded into osu!mixer II) when he became a Featured Artist.
 

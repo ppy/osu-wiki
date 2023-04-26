@@ -29,7 +29,7 @@ Saat kamu menemukan masalah, pilih objek hit tersebut, lalu gunakan pintasan sal
 
 Semua postingan mod harus membahas apa saja masalahnya, mengapa itu menjadi masalah, dan bagaimana cara memperbaikinya. Lihat [Kode Etik dalam Modding dan Mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping#membuat-postingan-mod) untuk detail lebih lanjut tentang cara membuat format postingan mod.
 
-Beatmapper biasanya memberikan [kudosu](/wiki/Modding/Kudosu) ke postingan mod yang mereka anggap berguna dengan mengeklik tombol *jempol*. Statistik ini dapat dilacak pada profil setiap pengguna dan menjadi rujukan saat melamar untuk bergabung dengan [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators).
+Beatmapper biasanya memberikan [kudosu](/wiki/Modding/Kudosu) ke postingan mod yang mereka anggap berguna dengan mengeklik tombol *jempol*. Statistik ini dapat dilacak pada profil setiap pengguna dan menjadi rujukan saat melamar untuk bergabung dengan [Beatmap Nominator](/wiki/People/Beatmap_Nominators).
 
 ## Jenis postingan mod
 

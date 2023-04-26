@@ -58,8 +58,8 @@ Wenn du dir über ein Bild unsicher bist, das in einer Beatmap vorhanden sein so
 
 **Das Ergebnis einer Wahl ist final**, es sei denn, das Bild wird signifikant verändert im Versuch, alle potenziell problematischen Elemente, die während der Diskussion angesprochen wurden, zu lösen.
 
-Zu jeder Zeit behält sich [das osu!-Team](/wiki/People/The_Team) in ihrem Ermessen das Recht vor, einseitig jeden Inhalt als entweder zugelassen oder nicht zugelassen zu deklarieren, unabhängig von vorherigen Wahlen bezogen auf das Thema.
+Zu jeder Zeit behält sich [das osu!-Team](/wiki/People/osu!_team) in ihrem Ermessen das Recht vor, einseitig jeden Inhalt als entweder zugelassen oder nicht zugelassen zu deklarieren, unabhängig von vorherigen Wahlen bezogen auf das Thema.
 
 ## Anmerkungen
 
-[^drug-nature]: Hiervon können Ausnahmen gemacht werden, abhängig von der Art der Droge, ihre Verwendung und ihre Subkultur, insbesondere im Falle von Drogen, die weltweit rasch entkriminalisiert und reguliert werden, wie Marihuana. Beantragungen spezifischer Ausnahmen für diese Regel sollten durch eine Kontaktaufnahme mit dem [Support-Team](/wiki/People/The_Team/Account_support_team) unter [support@ppy.sh](mailto:support@ppy.sh) erfolgen.
+[^drug-nature]: Hiervon können Ausnahmen gemacht werden, abhängig von der Art der Droge, ihre Verwendung und ihre Subkultur, insbesondere im Falle von Drogen, die weltweit rasch entkriminalisiert und reguliert werden, wie Marihuana. Beantragungen spezifischer Ausnahmen für diese Regel sollten durch eine Kontaktaufnahme mit dem [Support-Team](/wiki/People/Account_support_team) unter [support@ppy.sh](mailto:support@ppy.sh) erfolgen.
