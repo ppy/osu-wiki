@@ -108,7 +108,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad
 
 | Team A | Team B | Match time |  |
 | --: | :-- | :-- | :-: |
-| Taiwan ::{ flag=TW }:: | ::{ flag=DE }:: Germany | [Apr 29 (Sat) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230429T110000&p1=1440&p2=241&p3=37) | [^losers-bracket] |
+| Taiwan ::{ flag=TW }:: | ::{ flag=DE }:: Germany | [Apr 29 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230429T120000&p1=1440&p2=241&p3=37) | [^losers-bracket] |
 
 ### Sunday, 30 April 2023
 
