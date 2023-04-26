@@ -21,7 +21,7 @@
 除此之外，禁言还会删除被禁言玩家曾发表在所有聊天频道和私人对话中的消息。[^chat-cleanup]
 
 ::: Infobox
-![](img/silence-ingame.png "Silence warning in the chat")
+![](img/silence-ingame.png "聊天页面的禁言警告")
 :::
 
 当玩家被禁言后，玩家的聊天输入框将会展示一条警告，并说明禁言何时解除。也能在个人主页的底部看到玩家的被禁言记录，28 天后，记录才会消失。
