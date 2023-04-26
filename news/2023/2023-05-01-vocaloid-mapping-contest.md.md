@@ -4,16 +4,15 @@ title: "Vocaloid Mapping Contest"
 date: 2023-05-01 12:00:00 +0000
 ---
 
-The premier mapping event for all vocaloid appreciators is here with the first iteration of the **Vocaloid Mapping Contest!**
+The premier mapping event for all vocaloid appreciators is here with the first iteration of the Vocaloid Mapping Contest!
 
-![](https://cdn.discordapp.com/attachments/1092234806479298680/1096272980310495272/banner_e.png)
+![](Contests/VMC/1/img/banner.png)
 
-The [**Vocaloid Mapping Contest (VMC)**](/wiki/Contests/VMC) is all about finding and promoting vocaloid songs and artists that have fallen through the cracks. Our [prototype contest last year](https://osu.ppy.sh/community/forums/topics/1604262?n=1) was themed around Hatsune Miku for their 15th birthday, while this contest has expanded to a variety of fun vocaloid songs!
+The [**Vocaloid Mapping Contest (VMC)**](/wiki/Contests/VMC) is all about finding and promoting vocaloid songs and artists that have fallen through the cracks. Our [prototype contest last year](https://osu.ppy.sh/community/forums/topics/1604262?n=1) was themed around Hatsune Miku for her 15th birthday, while this contest has expanded to a variety of fun vocaloid songs!
 
 Your goal for this contest: **use [one of these songs](#songs) to create the best vocaloid beatmap possible** (as determined by our [judging panel](osu.ppy.sh/wiki/contests/VMC/1#Staff_and_Judges)).
 
-And to make things more interesting, a special guest judge has joined us: **legendary vocaloid mapper
-[*tutuhaha*](https://osu.ppy.sh/users/546991)**!
+And to make things more interesting, a special guest judge has joined us: **legendary vocaloid mapper [*tutuhaha*](https://osu.ppy.sh/users/546991)**!
 
 Let's break everything down.
 
@@ -47,7 +46,7 @@ Believe it or not, contests have rules to keep everything fair.
 - **Submissions must be in `.osz` format.**
 - **Beatmaps should abide by the [ranking criteria](/wiki/Ranking_Criteria).** While we can be forgiving for mistakes, submissions that could not be ranked without major changes will be disqualified.
 - **Submissions must not be publicly revealed until after the results are announced.**
-- **Excluding metadata, submissions must not include anything that could reveal your identi.** Metadata will be anonymized before submissions are relayed to judges.
+- **Excluding metadata, submissions must not include anything that could reveal your identity.** Metadata will be anonymised before submissions are relayed to judges.
 - **Collaborations are not allowed**. This is a solo contest.
 - **Submissions must not include storyboards or videos.**
 - **Do not edit any settings in the .osu that would not be possible through the editor itself.** You are permitted to change any difficulty settings, backgrounds, green lines, SV, hitsounds, etc.
@@ -113,4 +112,4 @@ In future contests, we will choose songs based around a specific song theme, suc
 
 We look forward to seeing your maps!
 
-—  [-White](https://osu.ppy.sh/users/16276548)
+—-White

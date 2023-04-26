@@ -6,7 +6,7 @@ tags:
 
 # Vocaloid Mapping Contest
 
-![VMC banner](https://cdn.discordapp.com/attachments/1092234806479298680/1096272980310495272/banner_e.png)
+![VMC banner](Contests/VMC/1/img/banner.png)
 
 The [**Vocaloid Mapping Contest (VMC)**](/wiki/Contests/VMC) is all about finding and promoting vocaloid songs and artists that have fallen through the cracks. Mappers were tasked with creating the best vocaloid beatmap possible, and then having them judged by some of the most prominent vocaloid mappers in the community. 
 
@@ -23,13 +23,13 @@ In all subsequent VMC's there will be an associated theme. This could include so
 
 ## Staff and Judges
 
-The Vocaloid Mapping Contest is hosted and organized by the [Vocaloid Appreciation Team (VAT)](https://discord.gg/EruvDHaReY), specifically:
+The Vocaloid Mapping Contest is hosted and organised by the [Vocaloid Appreciation Team (VAT)](https://discord.gg/EruvDHaReY), specifically:
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548) [^judge_note]|
+| Host | ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548) |
 | Staff | ::{ flag=IT }:: [Kuroise](https://osu.ppy.sh/users/14547127), ::{ flag=US }:: [Local Hero](https://osu.ppy.sh/users/16134122), ::{ flag=SG }::[Ixcors](https://osu.ppy.sh/users/11194087) | 
-| Judge | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323), ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548)[^judge_note], ::{ flag=CA }:: [Shanipika](https://osu.ppy.sh/users/6336729), ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909), ::{ flag=SV }::[Natsu](https://osu.ppy.sh/users/1953876), ::{ flag=US }:: [tutuhaha](https://osu.ppy.sh/users/546991) |
+| Judge | ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323), ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548), ::{ flag=CA }:: [Shanipika](https://osu.ppy.sh/users/6336729), ::{ flag=CN }:: [Mafumafu](https://osu.ppy.sh/users/3076909), ::{ flag=SV }::[Natsu](https://osu.ppy.sh/users/1953876), ::{ flag=US }:: [tutuhaha](https://osu.ppy.sh/users/546991) |
 | Designer | ::{ flag=VE }:: [Mithia](https://osu.ppy.sh/users/9748438) |
 
 ## Prizes
@@ -44,16 +44,9 @@ All participating mappers received constructive feedback from some of the most w
 
 ## Links
 
-- [Contest news article](https://osu.ppy.sh/home/news/)
-- [Contest listing](https://osu.ppy.sh/community/contests/)
-- [VAT Discord server](https://discord.gg/EruvDHaReY)
-- [Results news article](https://osu.ppy.sh/home/news/)
-- [Results]()
-- [Results stream VOD]()
-
-## Results
-
-TBD
+- [Announcement news post](https://osu.ppy.sh/home/news/2023-05-01-vocaloid-mapping-contest)
+- [Contest listing](https://osu.ppy.sh/community/contests/177)
+- [Discord server](https://discord.gg/EruvDHaReY)
 
 ## Ruleset
 - **Submissions must be for the osu! ruleset only.** Comparing beatmaps of different modes in a judging scenario is unfortunately not realistic.
@@ -61,13 +54,13 @@ TBD
 - **Submissions must be in `.osz` format.**
 - **Beatmaps should abide by the [ranking criteria](/wiki/Ranking_Criteria).** While we can be forgiving for mistakes, submissions that could not be ranked without major changes will be disqualified.
 - **Submissions must not be publicly revealed until after the results are announced.**
-- **Excluding metadata, submissions must not include anything that could reveal your identi.** Metadata will be anonymized before submissions are relayed to judges.
+- **Excluding metadata, submissions must not include anything that could reveal your identi.** Metadata will be anonymised before submissions are relayed to judges.
 - **Collaborations are not allowed**. This is a solo contest.
 - **Submissions must not include storyboards or videos.**
 - **Do not edit any settings in the .osu that would not be possible through the editor itself.** You are permitted to change any difficulty settings, backgrounds, green lines, SV, hitsounds, etc.
 - **You must submit only one difficulty.** Only one entry is allowed.
 
-## Judging Criteria
+## Judging criteria
 | Position | Points | Description
 | :-- | :-- | :-- |
 | Relevance | 30 |  How well does the map fit the song? Do the elements of the map match the elements of the song, and is the map fundamentally inseparable from the song it is paired with?
@@ -80,46 +73,10 @@ TBD
 
 Five (5) songs were selected from the Featured Artist library. These songs were selected based on several factors, including whether they had been ranked in the past, as well as providing a variety of genres and artists to choose from.
 
-### MIMI - Moment (3:34 / 126 BPM)
-
-[Download the beatmap template here!](https://assets.ppy.sh/artists/77/osz/MIMI%20-%20Moment.osz)
-
-<audio controls>
-    <source src="https://assets.ppy.sh/artists/77/osz/MIMI%20-%20Moment.mp3" type="audio/mpeg">
-</audio>
-
-### Omoi - Ohne Herz (3:26 / 210 BPM)
-
-[Download the beatmap template here!]https://assets.ppy.sh/artists/104/osz/Omoi%20-%20Ohne%20Herz.osz)
-
-<audio controls>
-    <source src="https://assets.ppy.sh/artists/104/osz/Omoi%20-%20Ohne%20Herz.mp3" type="audio/mpeg">
-</audio>
-
-### MuryokuP - My Savior (2:49 / 190 BPM)
-
-[Download the beatmap template here!](https://assets.ppy.sh/artists/120/Unfinished%20Eden/MuryokuP%20-%20My%20Savior.osz)
-
-<audio controls>
-    <source src="https://assets.ppy.sh/artists/120/Unfinished%20Eden/MuryokuP%20-%20My%20Savior.mp3" type="audio/mpeg">
-</audio>
-
-### Yunosuke - Ziqqurat (3:52 / 163 BPM)
-
-[Download the beatmap template here!](https://assets.ppy.sh/artists/244/Ziqqurat/Yunosuke%20-%20Ziqqurat.osz)
-
-<audio controls>
-    <source src="https://assets.ppy.sh/artists/244/Ziqqurat/Yunosuke%20-%20Ziqqurat.mp3" type="audio/mpeg">
-</audio>
-
-### Rohi - Hitotsu no Chikai yo (2:35 / 130 BPM)
-
-[Download the beatmap template here!](https://assets.ppy.sh/artists/82/osz/Rohi%20-%20Hitotsu%20no%20Chikai%20yo,%20Eien%20no%20Uta%20to%20Nare.osz)
-
-<audio controls>
-    <source src="https://assets.ppy.sh/artists/82/osz/Rohi%20-%20Hitotsu%20no%20Chikai%20yo,%20Eien%20no%20Uta%20to%20Nare.mp3" type="audio/mpeg">
-</audio>
-
-## Notes
-
-[^judge_note]: ::{ flag=US }:: [-White](https://osu.ppy.sh/users/16276548), while being the "host", did not have access to judging/screening information or un-anonymised submissions. The title refers to his capacity in creating and and starting the contest. The responsiblity of managing the contest while it was in operation was the responsiblity of the Staff.
+| Artist | Song | Length | BPM | Template |
+| :-- | :-- | :-- | :-- | :-- | 
+MIMI | Moment | 3:34 | 126 | [.osz](https://assets.ppy.sh/artists/77/osz/MIMI%20-%20Moment.osz) |
+Omoi | Ohne Herz | 3:26 | 210 | [.osz](https://assets.ppy.sh/artists/104/osz/Omoi%20-%20Ohne%20Herz.osz) |
+MuryokuP | My Savior | 2:49 | 190 | [.osz](https://assets.ppy.sh/artists/120/Unfinished%20Eden/MuryokuP%20-%20My%20Savior.osz) |
+Yunosuke | Ziqqurat | 3:52 | 163 | [.osz](https://assets.ppy.sh/artists/244/Ziqqurat/Yunosuke%20-%20Ziqqurat.osz) |
+Rohi | Hitotsu no Chikai | 2:35 | 130 | [.osz](https://assets.ppy.sh/artists/82/osz/Rohi%20-%20Hitotsu%20no%20Chikai%20yo,%20Eien%20no%20Uta%20to%20Nare.osz) |
