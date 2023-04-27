@@ -1,6 +1,6 @@
-# Beatmap editor menu
+# 谱面编辑器菜单
 
-## File
+## 文件
 
 ![File menu](img/M_File.jpg "File menu")
 
@@ -8,7 +8,7 @@
 
 ### File commands
 
-| Name | Description |
+| 名称 | 描述 |
 | :-- | :-- |
 | Clear All Notes (`Ctrl` + `N`) | Purge the current difficulty's hitnotes. |
 | Open Difficulty... | **For Editing:** Quickly switch between difficulties. **For Reference:** (osu!mania Only) Overlay the selected difficulty over the (currently) opened one. |
@@ -17,21 +17,21 @@
 
 ### Revert commands
 
-| Name | Description |
+| 名称 | 描述 |
 | :-- | :-- |
 | Revert to Saved (`Ctrl` + `L`) | Cancel current changes and return to the last saved state. For general mishaps (hitnotes). |
 | Revert to Saved (Full) (`Ctrl` + `Shift` + `L`) | Cancel current changes and return to the last saved state. For complicated mishaps (timing, storyboard). |
 
 ### Troubleshoot commands
 
-| Name | Description |
+| 名称 | 描述 |
 | :-- | :-- |
 | Test Beatmap (F5) | Test the Beatmap. Current changes will be saved in order to test. |
 | Open AiMod (`Ctrl` + `Shift` + `A`) | Open AiMod. |
 
 ### Beatmap Packaging commands
 
-| Name | Description |
+| 名称 | 描述 |
 | :-- | :-- |
 | Upload Beatmap... (`Ctrl` + `Shift` + `U`) | Upload the beatmap to the [WIP section](https://osu.ppy.sh/community/forums/10). Requires osu!account signed in to the website to view "Beatmaps" forum. |
 | Export Package... | Export the beatmap as `.osz`. The file will be sent to "Exports" folder and you will be directed to osu!/Exports from the Beatmap Editor. |
@@ -40,7 +40,7 @@
 
 ### Programmer's commands
 
-| Name | Description |
+| 名称 | 描述 |
 | :-- | :-- |
 | Open Song Folder | Open the song folder location inside osu!/Songs. |
 | Open `.osu` in Notepad | Open beatmap's difficulty file in MS Notepad. |
@@ -48,11 +48,11 @@
 
 ### Emergency Exit command
 
-| Name | Description |
+| 名称 | 描述 |
 | :-- | :-- |
 | Exit... (`Esc`) | Exit Beatmap Editor. May prompt you to save recent changes. Sometimes *ignores* Design tab changes. |
 
-## Edit
+## 编辑
 
 ![Edit menu](img/M_Edit.jpg "Edit menu")
 
@@ -62,30 +62,30 @@ Edit commands. Same as default MS shortcuts.
 
 Do note that these commands can be disabled at [Options](/wiki/Client/Options) sidebar to prevent crash when editing marathon songs.
 
-| Name | Description |
+| 名称 | 描述 |
 | :-- | :-- |
 | Undo (`Ctrl` + `Z`) | Undo one step. |
 | Redo (`Ctrl` + `Y`) | Redo one step. |
 
 ### Edit commands (Select a note before use)
 
-| Name | Description |
+| 名称 | 描述 |
 | :-- | :-- |
 | Cut (`Ctrl` + `X`) | Cut the note(s). |
 | Copy (`Ctrl` + `C`) | Copy the note(s) |
 | Paste (`Ctrl` + `V`) | Paste the note(s) |
 | Delete (`Delete`) | Delete the note(s) |
 
-### Special commands
+### 特殊命令
 
-| Name | Description |
+| 名称 | 描述 |
 | :-- | :-- |
 | Select All (`Ctrl` + `A`) | Select every single notes. |
 | Clone (`Ctrl` + `D`) | Copy + Paste. |
 
 ### Rotation commands
 
-| Name | Description |
+| 名称 | 描述 |
 | :-- | :-- |
 | Reverse selection (`Ctrl` + `G`) | **Slider:** Reverse the numbering placement. **Select All + this:** Your beatmap design goes the other way around. Example: A hit circle at 10 seconds will be moved to the last 10 seconds of the song and vice versa. |
 | Flip Horizontally (`Ctrl` + `H`) | Flip the note(s) from left to right (with respect to y-axis line of Playfield origin) and vice versa. |
@@ -97,7 +97,7 @@ Do note that these commands can be disabled at [Options](/wiki/Client/Options) s
 
 ### Reset Buttons
 
-| Name | Description |
+| 名称 | 描述 |
 | :-- | :-- |
 | Reset selected objects' samples | Remove hitsound of currently selected note. |
 | Reset all samples | Remove all hitsounds from all the notes in this difficulty. |
@@ -106,12 +106,12 @@ Do note that these commands can be disabled at [Options](/wiki/Client/Options) s
 
 ### Nudge commands
 
-| Name | Description |
+| 名称 | 描述 |
 | :-- | :-- |
 | Nudge Backward (`J`) | Move the note(s) one beat backward based on Beat Snap Divisor. |
 | Nudge Forward (`K`) | Move the note(s) one beat forward based on Beat Snap Divisor. |
 
-## View
+## 查看
 
 ![View menu](img/M_View.jpg "View menu")
 
@@ -119,7 +119,7 @@ Places of interest.
 
 ### Tabbing commands
 
-| Name | Description |
+| 名称 | 描述 |
 | :-- | :-- |
 | Compose (`F1`) | Direct to Compose tab. |
 | Design (`F2`) | Direct to Design tab. |
@@ -127,14 +127,14 @@ Places of interest.
 
 ### Setup commands
 
-| Name | Description |
+| 名称 | 描述 |
 | :-- | :-- |
 | Song Setup... (`F4`) | Direct to Song Setup window. |
 | Timing Setup... (`F6`) | Direct to Timing Setup window. |
 
 ### Special commands
 
-| Name | Description |
+| 名称 | 描述 |
 | :-- | :-- |
 | Volume | Adjust two volumes (Music / Sample). |
 | Grid Level | Size of grid square. 1(most sparse)/2/3/4 (most precise) which is Large/Medium/Small/Tiny each named respectively. |
@@ -146,7 +146,7 @@ Places of interest.
 | Stacking | Stack the overlaid hit circles as if in-game (dependent on difficulty settings) |
 | Disable Undo States | Give up the ability to *undo* for osu! to be faster during editing (this comes in handy for long marathon maps) |
 
-## Compose
+## 作图
 
 *Main page: [Compose](/wiki/Client/Beatmap_editor/Compose)*
 
@@ -154,28 +154,28 @@ Places of interest.
 
 ### Rulers commands
 
-| Name | Description |
+| 名称 | 描述 |
 | :-- | :-- |
 | Snap Divisor | [Beat Snap Divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) |
 | Audio Rate | Same as Playback Rate. |
 | Grid Snapping (T) | Allow snapping of the notes with respect to current grid line. |
 
-### Special commands
+### 特殊命令
 
-| Name | Description |
+| 名称 | 描述 |
 | :-- | :-- |
 | Create Polygon Circles (`Ctrl` + `Shift` + `D`) | Create a circular flow of hit circles. You can adjust the Distance Snap (0.1x - 2.0x) {Spacing between notes}, Offset angle (0° - 180°) {Rotation angle}, Repeat and Points (3 - 14/282) {Number of hit circle}. |
 | Convert slider to stream... | (Select a slider) Change the slider to streams of hit circles. You can select between two options: By object count or By distance snap. **By object count:** Adjust the slider flow with the given amount of hit circles (1 - 17/100). **By distance snap:** Adjust the slider flow with a set distance between two notes (0.10x - 5.00x). Can result in absurd amount of hit circles, since it relies on Beat Snap Divisor (one beat = one note). **Beat Snap Divisor:** Note timing adjuster. |
 | Enable live mapping mode (`Ctrl` + Tab) | osu!/osu!catch/osu!taiko maps: use osu!taiko keys to input hit circles, fruits, or taiko hit objects, while playing the song in editor. Placed via cursor location. Different hitsounds based on what osu!taiko key you pressed. osu!mania maps: use osu!mania keys to input hit objects, while playing song in editor. Placed via the key you pressed. Does not work for sliders/holds. |
 | Sample import | [Keysound and Sound Sampling.](/wiki/Client/Beatmap_editor/Compose) |
 
-## Design
+## 设计
 
 *Main page: [Design](/wiki/Client/Beatmap_editor/Design)*
 
 ![Design menu](img/M_Design.jpg "Design menu")
 
-| Name | Description |
+| 名称 | 描述 |
 | :-- | :-- |
 | Move all elements on time... | Move *everything* by #ms value. Useful if you changed the .mp3 or offset. |
 
@@ -187,14 +187,14 @@ Places of interest.
 
 ### Metronome commands
 
-| Name | Description |
+| 名称 | 描述 |
 | :-- | :-- |
 | Time Signature | Waltz (3/4) or Standard (4/4) timing. For exotic timing, use Timing Setup. |
 | Metronome Clicks | Allow/Deny the signature metronome's "tic, tic , (tic) , toc" sound. |
 
 ### Markers commands
 
-| Name | Description |
+| 名称 | 描述 |
 | :-- | :-- |
 | Add Timing Section (`Ctrl` + `P`) | Add red offset (New BPM) |
 | Add Inheriting Section (`Ctrl` + `Shift` + `P`) | Add green offset (New adjuster) |
@@ -204,13 +204,13 @@ Places of interest.
 
 ### Timing Setup
 
-| Name | Description |
+| 名称 | 描述 |
 | :-- | :-- |
 | Timing Setup... (F6) | [Timing Setup.](/wiki/Client/Beatmap_editor/Timing) |
 
 ### Special commands
 
-| Name | Description |
+| 名称 | 描述 |
 | :-- | :-- |
 | Resnap All Notes | Resnap all the notes to their respective sections |
 | Move all notes in time.. | Move all the notes by #ms |
@@ -219,27 +219,27 @@ Places of interest.
 
 ### Preview command
 
-| Name | Description |
+| 名称 | 描述 |
 | :-- | :-- |
 | Set Current Position as Preview Point | Set this timestamp as yellow mark (demo excerpt for Song Selection). |
 
-## Web
+## 网络相关
 
 ![Web menu](img/M_Web.jpg "Web menu")
 
 Opens your browser. Mainly send you to the beatmap's thread (requires sign-in to the website.)
 
-| Name | Description |
+| 名称 | 描述 |
 | :-- | :-- |
 | This Beatmap's Information Page | Go to this beatmap's information page. Link is `https://osu.ppy.sh/beatmaps/###` where "###" is the beatmap's ID. |
 | This Beatmap's Thread | Go to this beatmap thread. |
 | Quick Reply | Post a reply to the beatmap thread. |
 
-## Help
+## 帮助
 
 ![Help menu](img/M_Help.jpg "Help menu")
 
-| Name | Description |
+| 名称 | 描述 |
 | :-- | :-- |
 | Show in-game help (H) | Opens the in-game help reference. |
 | View FAQ | Links to [Beatmapping](/wiki/Beatmapping). |
