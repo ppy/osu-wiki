@@ -15,7 +15,7 @@ The **osu!catch World Cup 2023** (***CWC 2023***) is an upcoming country-based o
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2023-04-13/2023-04-27 |
+| Registration phase | 2023-04-13/2023-04-26 (23:59 UTC) |
 | Qualifier showcase | 2023-05-07 (14:00 UTC) |
 | Qualifier stage | 2023-05-13/2023-05-14 |
 | Round of 32 | 2023-05-20/2023-05-21 |
@@ -120,7 +120,7 @@ The osu!catch World Cup 2023 is run by various community members.
 ### Qualifier instructions
 
 1. In the Qualifier stage, all teams will play a specific pool designed by the mappool selectors.
-2. The mappool will contain 5 brackets: [NoMod](/wiki/Gameplay/Game_modifier#nomod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), and [Double Time](/wiki/Gameplay/Game_modifier/Double_Time). There will be no tiebreakers for this stage.
+2. The mappool will contain 4 brackets: [NoMod](/wiki/Gameplay/Game_modifier#nomod), [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock), and [Double Time](/wiki/Gameplay/Game_modifier/Double_Time). There will be no tiebreakers for this stage.
 3. The Qualifier pool will consist of 9 maps. There will be 3 maps under the No Mod bracket, and 2 maps for the Hidden, Hard Rock, and Double Time brackets.
 4. Teams will be asked to play the mappool twice at a designated time. The team's best playthrough will be used for seeding.
 5. The mappool is to be played according to the order listed on this page.
