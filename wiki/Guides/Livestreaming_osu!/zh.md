@@ -4,7 +4,7 @@
 
 ## Twitch
 
-如果你还没有注册[Twitch 账户](https://www.twitch.tv/signup)，可以先注册一个。
+如果你还没有注册 [Twitch 账户](https://www.twitch.tv/signup)，可以先注册一个。
 
 现在你需要将你的账户设置成直播 osu!。在主页中点击右上方的头像，从列表中选择 `Creator Dashboard`。
 
@@ -24,7 +24,7 @@
 
 ## OBS Studio
 
-在创建并配置好你的 Twitch 账户后，下一步是获取直播软件。本教程只会介绍使用 OBS Studio 直播的方法，但你也可以考虑用别的软件（比如[XSplit Broadcaster](https://www.xsplit.com/broadcaster)）。
+在创建并配置好你的 Twitch 账户后，下一步是获取直播软件。本教程只会介绍使用 OBS Studio 直播的方法，但你也可以考虑用别的软件（比如 [XSplit Broadcaster](https://www.xsplit.com/broadcaster)）。
 
 登陆 [OBS Studio 网站](https://obsproject.com/)，下载对应操作系统的安装程序。启动安装程序，按照指示步骤进行安装。
 
