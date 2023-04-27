@@ -2,7 +2,7 @@
 
 Laman ini diperuntukkan untuk turnamen-turnamen yang ada di osu!. Turnamen memiliki forum khusus yang dapat kamu temukan [pada tautan berikut](https://osu.ppy.sh/community/forums/55).
 
-Silahkan kunjungi halaman [dukungan resmi turnamen] untuk informasi mengenai cara mengajukan permintaan dukungan resmi untuk turnamenmu (lencana, *screening process*, dll.).
+Silahkan kunjungi halaman [dukungan resmi turnamen](/wiki/Tournaments/Official_support) untuk informasi mengenai cara mengajukan permintaan dukungan resmi untuk turnamenmu (lencana, *screening process*, dll.).
 
 ## Turnamen Resmi
 
