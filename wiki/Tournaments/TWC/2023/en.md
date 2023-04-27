@@ -109,6 +109,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad
 | Team A | Team B | Match time |  |
 | --: | :-- | :-- | :-: |
 | Taiwan ::{ flag=TW }:: | ::{ flag=DE }:: Germany | [Apr 29 (Sat) 12:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230429T120000&p1=1440&p2=241&p3=37) | [^losers-bracket] |
+| All-stars | Mappoolers | [Apr 29 (Sat) 15:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230429T150000&p1=1440) | [^showmatch] |
 
 ### Sunday, 30 April 2023
 
@@ -620,8 +621,9 @@ The final standings for the Qualifier stage can be found at the following [sprea
 
 ## Notes
 
-[^losers-bracket]: Losers bracket match
 [^bracket-reset]: Bracket reset match – will only take place if Japan loses the preceding match
+[^losers-bracket]: Losers bracket match
 [^potential-match]: Potential match – final matchup depends on the results of the preceding Losers Bracket matches
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rank sum
+[^showmatch]: Showmatch – All-star players from eliminated teams vs the mappooling team
