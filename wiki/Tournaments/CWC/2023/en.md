@@ -15,7 +15,7 @@ The **osu!catch World Cup 2023** (***CWC 2023***) is an upcoming country-based o
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2023-04-13/2023-04-27 |
+| Registration phase | 2023-04-13/2023-04-26 (23:59 UTC) |
 | Qualifier showcase | 2023-05-07 (14:00 UTC) |
 | Qualifier stage | 2023-05-13/2023-05-14 |
 | Round of 32 | 2023-05-20/2023-05-21 |
