@@ -250,7 +250,7 @@ Ces musiques ont été [annoncées](https://osu.ppy.sh/home/news/2023-02-01-twin
 
 #### ![](/wiki/shared/mode/osu.png) 5 Digit World Cup 2023
 
-| Canción | Beatmap | Notas |
+| Musique | Beatmap | Notes |
 | :-: | :-: | :-- |
 | [Sydosys - MALEVOLENT VORTEX](https://www.youtube.com/watch?v=IiRuU6X0d14) | [#1](https://osu.ppy.sh/beatmapsets/1968202) | Tiebreaker des Grandes Finales |
 
