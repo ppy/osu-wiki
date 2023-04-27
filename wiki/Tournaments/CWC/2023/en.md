@@ -106,7 +106,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2
 ### Tournament rules
 
 1. The osu!catch World Cup is a country-based 3 versus 3 double-elimination team tournament, played on the osu!catch game mode.
-   - Players from countries or territories (as seen on their profile flag) that are under a protectorate, sovereign state, or otherwise closely related to another country may choose to play for that country **if** the country listed on their profile is unable to field enough players to form a valid team.
+   - Players from countries or territories (as seen on their profile flag) that are under a protectorate or sovereign state may choose to play for that country **if** the country listed on their profile is unable to field enough players to form a valid team. Refer to this [article](https://wikipedia.org/wiki/Dependent_territory#Lists_of_dependent_territories) for an overview of the criteria that is adopted.
    - *Notice: While this competition is slated to have a double-elimination Round of 32 bracket, it may be scaled down to a Round of 16 format if the player pool is insufficient.*
 2. Beatmap scoring is based on ScoreV2.
 3. The minimum size for a team is 4 players, and the maximum is 6.
