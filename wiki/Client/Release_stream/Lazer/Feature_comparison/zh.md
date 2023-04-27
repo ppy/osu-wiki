@@ -1,19 +1,19 @@
-# osu!(lazer) feature comparison
+# osu!(lazer) 功能比较
 
-*For a more condensed list of features, see [Help centre/Upgrading to lazer § Feature comparison](/wiki/Help_centre/Upgrading_to_lazer#feature-comparison)*
+*对于更简略的功能列表，参见： [帮助中心/升级到 lazer § 功能对比](/wiki/Help_centre/Upgrading_to_lazer#功能对比)*
 
-This page documents all new and missing features compared to osu!(stable), as well as differences affecting gameplay.
+此页记录了与 osu!(稳定版) 相比所有的新增与缺失的功能，以及影响游玩的差异之处。
 
-## New features
+## 新功能
 
-- Cross-platform support
-  - Native Windows 8.1+, macOS, Linux, iOS, and Android support, 
-  - Mobile input methods for all game modes
-- Input
+- 跨平台支持
+  - 对 Windows 8.1+、 macOS、 Linux、 iOS 与 Android 的本地支持
+  - 所有游戏模式的移动设备输入方式
+- 输入
   - Built-in tablet driver
   - Midi controller support
   - Gamepad support
-- Redesigned interface
+- 重新设计界面
   - First-run setup wizard
   - Storyboards in the main menu
   - Rewind F2
@@ -23,22 +23,22 @@ This page documents all new and missing features compared to osu!(stable), as we
   - Settings can be changed everywhere and they'll take effect immediately
   - New statistics in the results and song select screens
 - Website integration for leaderboards, news, wiki, changelog, beatmap listing, beatmap info, and profile pages
-- Lots of new mods
-- Mod customisation options
-- New multiplayer features
+- 大量新模组
+- 模组自定义设置
+- 新的多人游戏功能
   - New "playlist" feature
   - Unlimited lobby sizes
   - Automatic beatmap queues
-- New editor features
+- 新的编辑器功能
   - Per-segment curve types for sliders
   - Slider splitting and merging
   - New "verify" tab
-- Support for custom game modes
-- Gameplay
+- 自定义游戏模式支持
+- 游玩
   - Two new built-in skins
   - Replay seeking
   - Beatmap (local) offset auto-calibration
-- Built-in skin editor with customisable skinning components 
+- Built-in skin editor with customisable skinning components
   - Song density graph
   - Performance points counter
   - Unstable rate counter
@@ -47,13 +47,13 @@ This page documents all new and missing features compared to osu!(stable), as we
   - Custom static sprites
   - Judgement counter
   - Clicks per second counter
-- Snaking out sliders in the osu! mode
-- No black bar behind the playfield in osu!taiko
-- Timing-based note colouring in osu!mania
+- osu! 模式中的渐出滑条
+- osu!taiko 中的游玩区域后不再出现黑条
+- osu!mania 中基于时间轴测定的音符颜色
 
-## Gameplay differences 
+## 游玩差异
 
-### General
+### 常规
 
 #### Song playback ramps up and down when pausing and unpausing
 
@@ -377,7 +377,7 @@ In stable, osu!mania reverts changes to hit windows resulting from applications 
 | Intentionally changed | No |
 | Needs further consideration | Yes |
 
-### Scoring, performance points and leaderboards
+### 分数、表现分和排行榜
 
 Scoring in lazer has been simplified with the main benefit of not requiring a replay to recompute. Two interchangeable systems have been added: *standardised* and *classic*. Standardised scoring limits score to a maximum of 1,000,000 points + bonus and score multipliers, while classic scoring is similar to standardised, but scaled quadratically with the amount of hit objects in a beatmap. These can be selected from the settings, with all places were score is displayed in-game changing accordingly.
 
@@ -389,13 +389,13 @@ Medals do not get awarded. This is a feature that will be enabled after anti-che
 
 Performance points are not integrated into global or beatmap-specific leaderboards, but are instead integrated in a separate version of the website for now: <https://lazer.ppy.sh/>.
 
-### Multiplayer
+### 多人游戏
 
 #### TAG co-op mode is not implemented
 
 This is planned, but no work has been started on this yet.
 
-### Storyboarding
+### 故事板
 
 #### The storyboard editor is not implemented
 
@@ -419,26 +419,26 @@ This discrepancy causes inconsistent fill modes when a storyboard is overlayed o
 
 Some storyboards are not designed to support anything other than a 4:3 aspect ratio, but storyboards in lazer always render at 16:9.
 
-## Some cosmetic features are missing
+## 缺失的外观功能
 
-These are features that are planned to come back at some point, but have not due to low priority.
+计划在某个时候重新加入下列功能，但由于优先级较低暂未实现。
 
-- [Niconico](https://en.wikipedia.org/wiki/Niconico)-style scrolling replay comments
+- [Niconico](https://en.wikipedia.org/wiki/Niconico) 式的滚动回放评论
 - Combo bursts and their associated sounds
-- Countdowns
-- Cursor ripples
-- Non-skinnable components
-  - Gameplay leaderboard
+- 倒计时
+- 光标点击波纹
+- 无法通过皮肤自定义的组件
+  - 游玩排行榜
   - Cutscene skip button
-  - Section fail/pass
+  - 部分的失败/通过场景
   - Results screen
-  - Song select
-  - Pause menu
+  - 歌曲选择界面
+  - 暂停菜单
 
-## Technical differences
+## 技术差异
 
-- Open source
-- New user file storage structure
-- `Unlimited` refresh rate setting is renamed to `Basically unlimited` and is limited to 1000 Hz
-- The mouse cursor is always confined in fullscreen mode
-- Support for wider range of aspect ratios
+- 开源
+- 新的用户文件存储结构
+- `无限制`刷新率现已重命名为`基本上无限制 (Basically unlimited)`，最高为 1000 Hz
+- 鼠标光标总在全屏模式中受限
+- 宽高比支持范围更广
