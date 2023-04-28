@@ -59,7 +59,7 @@ The osu!catch World Cup 2023 is run by various community members.
 
 *Notice: Captains are listed in **bold**.*
 
-The final team composition for each country is subject to change. If you have been selected as a captain, [check your inbox](https://osu.ppy.sh/community/chat) for more information. Countries not listed did not have enough players to form a team.*
+The final team composition for each country is subject to change. If you have been selected as a captain, [check your inbox](https://osu.ppy.sh/community/chat) for more information. Countries not listed did not have enough players to form a team.
 
 |  | Country | Members |
 | :-: | :-: | :-- |
