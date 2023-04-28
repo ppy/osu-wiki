@@ -7,7 +7,7 @@ tags:
 
 *对于主管账号的团队，请参见：[账号支持团队](/wiki/People/Account_support_team)*
 
-**支持团队** ，也称为**支持重置团队**，是专注于审核论坛的几个子板块的 osu! 工作人员：[开发](https://osu.ppy.sh/community/forums/2)、[游玩 & 排行](https://osu.ppy.sh/community/forums/13)（不包括[锦标赛](https://osu.ppy.sh/community/forums/55)和[作图技巧](https://osu.ppy.sh/community/forums/61)）、[自定义皮肤](https://osu.ppy.sh/community/forums/15)、[功能请求](https://osu.ppy.sh/community/forums/4)、[帮助](https://osu.ppy.sh/community/forums/5)。
+**支持团队** ，也称为**重组支持团队**，是专注于审核论坛的几个子板块的 osu! 工作人员：[开发](https://osu.ppy.sh/community/forums/2)、[游玩 & 排行](https://osu.ppy.sh/community/forums/13)（不包括[锦标赛](https://osu.ppy.sh/community/forums/55)和[作图技巧](https://osu.ppy.sh/community/forums/61)）、[自定义皮肤](https://osu.ppy.sh/community/forums/15)、[功能请求](https://osu.ppy.sh/community/forums/4)、[帮助](https://osu.ppy.sh/community/forums/5)。
 
 ## 角色与职责
 
