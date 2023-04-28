@@ -11,9 +11,9 @@ tags:
 
 NAT 멤버들은 빨간색 닉네임으로 표시되며 [글로벌 모더레이션 팀](/wiki/People/The_Team/Global_Moderation_Team)(*GMT*)과 같이 웹의 전반적인 권한이 있습니다. 또한 [비트맵 노미네이터](https://github.com/ppy/osu-wiki/blob/master/wiki/People/The_Team/Beatmap_Nominators)(BNs)의 [정식 멤버](https://github.com/ppy/osu-wiki/blob/master/wiki/People/The_Team/Beatmap_Nominators#full-beatmap-nominators)와 같이 비트맵 [노미네이트](/wiki/Beatmap_ranking_procedure#nominations)와 [노미네이션 초기화](/wiki/Beatmap_ranking_procedure#nomination-resets)의 권한을 갖고 있습니다. NAT 멤버들은 BN과 같지만 다른 업무 책임을 지기 때문에, 모든 [BN 규칙](/wiki/People/The_Team/Beatmap_Nominators/Rules)과 활동량을 제외한 [요구사항](/wiki/People/The_Team/Beatmap_Nominators/Expectations)을 따라야 합니다.
 
-**모든 Nomination Assessment Team 멤버들은 [커뮤니티 행동규범](/wiki/Contributor_Code_of_Conduct)과 [커뮤니티 규칙](/wiki/Rules)을 준수해야 합니다.**
+**모든 Nomination Assessment Team 멤버들은 [커뮤니티 Code of Conduct](/wiki/Contributor_Code_of_Conduct)과 [커뮤니티 규칙](/wiki/Rules)을 준수해야 합니다.**
 
-***참고: NAT가 커뮤니티 행동규범을 어겼거나 다른 신고 받을만한 행위를 저질렀을 경우, [계정 지원팀](/wiki/People/The_Team/Account_support_team#support@ppy.sh)으로 문의하십시오.***
+***참고: NAT가 커뮤니티 Code of Conduct을 어겼거나 다른 신고 받을만한 행위를 저질렀을 경우, [계정 지원팀](/wiki/People/The_Team/Account_support_team#support@ppy.sh)으로 문의하십시오.***
 
 ## 책임
 
