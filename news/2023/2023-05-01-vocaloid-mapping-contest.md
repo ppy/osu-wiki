@@ -100,13 +100,13 @@ With 5 songs to choose from, we're confident that at least one will appeal to yo
 
 ## Submission
 
-Once your beatmap is ready, head to the [contest listing](https://osu.ppy.sh/community/contests/177) to submit your map! After the submission period closes, judging will begin. Find out more details about the judges and the judging criteria on the [contest's wiki page](/wiki/contests/VMC/1).
+Once your beatmap is ready, head to the [contest listing](https://osu.ppy.sh/community/contests/177) to submit your map! After the submission period closes, judging will begin. Find out more details about the judges and the judging criteria on the [contest's wiki page](/wiki/Contests/VMC/1).
 
 ---
 
 And that should be everything you need to know to get started!
 
-For the most up-to-date info about the contest, keep the [**Vocaloid Mapping Contest** contest wiki page](/wiki/contests/VMC/1) bookmarked. Feel free to also join the [VAT (Vocaloid Appreciation Team) Discord server](https://discord.gg/EruvDHaReY) to receive immediate updates on the VMC (as well as future events), map feedback, info on collaborative VOCALOID mapping projects, and more!
+For the most up-to-date info about the contest, keep the [**Vocaloid Mapping Contest** contest wiki page](/wiki/Contests/VMC/1) bookmarked. Feel free to also join the [VAT (Vocaloid Appreciation Team) Discord server](https://discord.gg/EruvDHaReY) to receive immediate updates on the VMC (as well as future events), map feedback, info on collaborative VOCALOID mapping projects, and more!
 
 We look forward to seeing your maps!
 
