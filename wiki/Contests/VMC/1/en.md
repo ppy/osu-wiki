@@ -8,9 +8,9 @@ tags:
 
 ![VMC banner](Contests/VMC/1/img/banner.png)
 
-The [**Vocaloid Mapping Contest (VMC)**](/wiki/Contests/VMC) is all about finding and promoting vocaloid songs and artists that have fallen through the cracks. Mappers were tasked with creating the best vocaloid beatmap possible, and then having them judged by some of the most prominent vocaloid mappers in the community. 
+The [**Vocaloid Mapping Contest (VMC)**](/wiki/Contests/VMC) is all about finding and promoting VOCALOID, UTAU, and other vocal synth songs and artists that have fallen through the cracks. Mappers were tasked with creating the best beatmap possible, and then having them judged by some of the most prominent VOCALOID mappers in the community. 
 
-In all subsequent VMC's there will be an associated theme. This could include songs based around a specific song theme, such as an artist, genre, vocaloid, etc, or even a map/limitation theme, such as "collaboration" or "circles only". We will never pick a song that has been ranked in osu! within the last ~10 years, and we always try to pick songs that are particularly relevant and timeless.
+In all subsequent VMC's there will be an associated theme. This could include songs based around a song theme, such as an artist, genre, voicebank, or a map theme/limitation. We will never pick a song that has been ranked in osu! within the last ~10 years, and we always try to pick songs that are particularly relevant and timeless.
 
 ## Contest schedule
 
@@ -40,7 +40,7 @@ The Vocaloid Mapping Contest is hosted and organised by the [Vocaloid Appreciati
 | 2nd place | 2 months of osu!supporter, [*Elite Mapper* contest points](/wiki/Contests/Contest_points) |
 | 3rd place | 1 month of osu!supporter, [*Elite Mapper* contest points](/wiki/Contests/Contest_points) |
 
-All participating mappers received constructive feedback from some of the most well-known vocaloid mappers in the community.
+All participating mappers received constructive feedback from some of the most well-known vocal synth mappers in the community.
 
 ## Links
 
@@ -68,7 +68,7 @@ All participating mappers received constructive feedback from some of the most w
 | Relevance | 30 |  How well does the map fit the song? Do the elements of the map match the elements of the song, and is the map fundamentally inseparable from the song it is paired with? |
 | Creativity | 25 | How unique and outstanding is the map and the elements within it compared to the current mapping meta? How well does it stand out from the crowd? Did you make the judges say "wow!", "that's cool!", or "that's super interesting!"? Generic mapping that just copies the current mapping meta or concepts from other "famous" maps is discouraged. |
 | Expertise | 20 | This refers to how well the map executes the elements it presents. This encompasses the technical skills of the mapper, and also the consistency, structure, and style of the map. Judges will score this entry considering the overarching picture of the map, and will avoid nitpicking small details. |
-| Overall Impression | 20 | This contest is judged by some of the most prominent vocaloid mappers in the community, and you better bet that all of them have a personal bias with regard to how vocaloid songs are mapped. Judges will give comments regarding their scoring. |
+| Overall Impression | 20 | This contest is judged by some of the most prominent VOCALOID mappers in the community, and you better bet that all of them have a personal bias with regard to how these songs are mapped. Judges will give comments regarding their scoring. |
 | Hitsounding | 5 | Rankable hitsounds can get up to 2 points, but hitsounds that fundamentally add to the experience and compliment the map in a unique way can get the full 5 points. |
 
 ## Songs
