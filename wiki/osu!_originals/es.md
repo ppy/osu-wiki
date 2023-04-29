@@ -460,7 +460,7 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 
 | Song | Beatmap | Notes |
 | :-: | :-: | :-- |
-| [月見 静華 x LUNARiUM - Fight Against the Past](https://lunariumgk.bandcamp.com/track/fight-against-the-past) | [#1](https://osu.ppy.sh/beatmapsets/1828541) | Desempate de la gran final |
+| [Tsukimi Shizuka x LUNARiUM - Fight Against the Past](https://lunariumgk.bandcamp.com/track/fight-against-the-past) | [#1](https://osu.ppy.sh/beatmapsets/1828541) | Desempate de la gran final |
 
 #### ![](/wiki/shared/mode/mania.png) [osu!mania LN Tournament 3](/wiki/Tournaments/o!mLN/3)
 
