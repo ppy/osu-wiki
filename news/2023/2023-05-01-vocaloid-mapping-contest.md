@@ -61,7 +61,7 @@ With 5 songs to choose from, we're confident that at least one will appeal to yo
 [Download the beatmap template here!](https://assets.ppy.sh/artists/77/osz/MIMI%20-%20Moment.osz)
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/77/osz/MIMI%20-%20Moment.mp3" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/77/previews/2082.mp3" type="audio/mpeg">
 </audio>
 
 ### Omoi - Ohne Herz (3:26 / 210 BPM)
@@ -69,7 +69,7 @@ With 5 songs to choose from, we're confident that at least one will appeal to yo
 [Download the beatmap template here!](https://assets.ppy.sh/artists/104/osz/Omoi%20-%20Ohne%20Herz.osz)
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/104/osz/Omoi%20-%20Ohne%20Herz.mp3" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/104/previews/2762.mp3" type="audio/mpeg">
 </audio>
 
 ### MuryokuP - My Savior (2:49 / 190 BPM)
@@ -93,7 +93,7 @@ With 5 songs to choose from, we're confident that at least one will appeal to yo
 [Download the beatmap template here!](https://assets.ppy.sh/artists/82/osz/Rohi%20-%20Hitotsu%20no%20Chikai%20yo,%20Eien%20no%20Uta%20to%20Nare.osz)
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/82/osz/Rohi%20-%20Hitotsu%20no%20Chikai%20yo,%20Eien%20no%20Uta%20to%20Nare.mp3" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/82/previews/2163.mp3" type="audio/mpeg">
 </audio>
 
 ## Submission
