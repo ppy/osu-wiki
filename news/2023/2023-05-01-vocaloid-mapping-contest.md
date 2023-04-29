@@ -10,7 +10,7 @@ The premier mapping event for all vocal synth appreciators is here with the firs
 
 The [**Vocaloid Mapping Contest (VMC)**](/wiki/Contests/VMC) is all about finding and promoting VOCALOID, UTAU, and other vocal synth songs and artists that have fallen through the cracks. Our [prototype contest last year](https://osu.ppy.sh/community/forums/topics/1604262?n=1) was themed around Hatsune Miku for her 15th birthday, while this contest has expanded to a variety of fun VOCALOID songs!
 
-Your goal for this contest: **use [one of these songs](#songs) to create the best VOCALOID beatmap possible** (as determined by our [judging panel](/wiki/Contests/VMC/1#Staff_and_Judges)).
+Your goal for this contest: **use [one of the songs below](#songs) to create the best VOCALOID beatmap possible** (as determined by our [judging panel](/wiki/Contests/VMC/1#organisation)).
 
 And to make things more interesting, a special guest judge has joined us: **legendary VOCALOID mapper [*tutuhaha*](https://osu.ppy.sh/users/546991)**!
 
@@ -47,9 +47,9 @@ Believe it or not, contests have rules to keep everything fair.
 - **Beatmaps should abide by the [ranking criteria](/wiki/Ranking_Criteria).** While we can be forgiving for mistakes, submissions that could not be ranked without major changes will be disqualified.
 - **Submissions must not be publicly revealed until after the results are announced.**
 - **Excluding metadata, submissions must not include anything that could reveal your identity.** Metadata will be anonymised before submissions are relayed to judges.
-- **Collaborations are not allowed**. This is a solo contest.
+- **Collaborations are not allowed.** This is a solo contest.
 - **Submissions must not include storyboards or videos.**
-- **Your submission must not have any edits to the .osu that would not be possible through the editor.** You are permitted to change any difficulty settings, backgrounds, green lines, SV, hitsounds, etc.
+- **Your submission must not have any edits to the `.osu` file that would not be possible through the editor.** You are permitted to change any difficulty settings, backgrounds, green lines, SV, hitsounds, etc.
 - **Your submission must have only one difficulty.**
 
 ## Songs
@@ -95,8 +95,6 @@ With 5 songs to choose from, we're confident that at least one will appeal to yo
 <audio controls>
     <source src="https://assets.ppy.sh/artists/82/osz/Rohi%20-%20Hitotsu%20no%20Chikai%20yo,%20Eien%20no%20Uta%20to%20Nare.mp3" type="audio/mpeg">
 </audio>
-
----
 
 ## Submission
 
