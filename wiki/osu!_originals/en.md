@@ -625,6 +625,7 @@ These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-
 | happy30 - wob wob[^fa] | [#1](https://osu.ppy.sh/beatmapsets/115621) |
 | [happy30 - You spin my world](https://open.spotify.com/track/6B0mNLZUnFetKLANIngdHj)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/485205) |
 | Jar - ztrout's Visit to The Proctologist | [#1](https://osu.ppy.sh/beatmapsets/21145) |
+| Jinjin - Midnight Musing | [#1](https://osu.ppy.sh/beatmapsets/1980200) |
 | Ketchup - ProjectUnreality | [#1](https://osu.ppy.sh/beatmapsets/9077) |
 | [Natteke ft. tieff - Endless Tower](https://www.youtube.com/watch?v=TNAGrCBfQKc)[^fa-feature] | [#1](https://osu.ppy.sh/beatmapsets/17076) |
 | [Natteke ft. tieff - The Dream](https://www.youtube.com/watch?v=vtVT3A-ALUQ)[^fa-feature] | [#1](https://osu.ppy.sh/beatmapsets/16599#osu/59406) |
