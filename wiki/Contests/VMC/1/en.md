@@ -73,8 +73,8 @@ All participating mappers received constructive feedback from some of the most w
 
 Five (5) songs were selected from the Featured Artist library. These songs were selected based on several factors, such as whether they have been ranked in the past, or whether their inclusion would provide a variety of genres and artists to choose from.
 
-| Artist | Song | Length | BPM | Template |
-| :-: | --: | --: | :-- | 
+| Song | Length | BPM | Template |
+| :-: | --: | --: | :-- |
 | [MIMI](https://osu.ppy.sh/beatmaps/artists/77) - Moment | 3:34 | 126 | [.osz](https://assets.ppy.sh/artists/77/osz/MIMI%20-%20Moment.osz) |
 | [Omoi](https://osu.ppy.sh/beatmaps/artists/104) - Ohne Herz | 3:26 | 210 | [.osz](https://assets.ppy.sh/artists/104/osz/Omoi%20-%20Ohne%20Herz.osz) |
 | [MuryokuP](https://osu.ppy.sh/beatmaps/artists/120) - My Savior | 2:49 | 190 | [.osz](https://assets.ppy.sh/artists/120/Unfinished%20Eden/MuryokuP%20-%20My%20Savior.osz) |
