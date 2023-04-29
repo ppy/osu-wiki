@@ -32,7 +32,7 @@ tags:
 ## 提名 {#nominations}
 
 ::: Infobox
-![](img/nomination-progress-beatmapset1857663.png "Beatmap ranking status displayed on the discussion page, with hype and nomination progress bars partially filled.")
+![](img/nomination-progress-beatmapset1857663.png "谱面的审核流程显示在谱面讨论页上，旁边推荐和提名的进度条还未完全填满。")
 :::
 
 **提名** 是一种认可投票，代表了谱面准备进入[上架](/wiki/Beatmap/Category#ranked)状态。通常来说，提名的玩家认为谱面已经完成，并且质量足够，就会给出提名。作为最低要求，谱面必须符合[上架标准 (RC)](/wiki/Ranking_Criteria)并且已获得大于等于 5 个[推荐](/wiki/Beatmap/Hype)。
