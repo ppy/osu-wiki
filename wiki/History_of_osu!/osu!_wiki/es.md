@@ -23,8 +23,8 @@
 | :-- | :-- |
 | 26/8/2016 | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) [creó el repositorio osu-wiki](https://github.com/ppy/osu-wiki/tree/3433cbeeda9303a470647cad1c338d43f4272a2e). ::{ flag=US }:: [craftu](https://osu.ppy.sh/users/16468119) y ::{ flag=US }:: [XYLOO](https://osu.ppy.sh/users/27809907) portaron el contenido de MediaWiki al repositorio en una semana. |
 | 9/2016 | La mayoría de las páginas, excepto las imágenes se movieron al repositorio, con errores de sintaxis sin resolver, debido a las diferencias entre Markdown y MediaWiki. |
-| 1/2017 | Soporte de la osu! wiki en osu!web desarrollado por nanaya. |
 | 5/1/2017 | El [proyecto osu! wiki](https://github.com/ppy/osu-wiki/projects/1) es sugerido por ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335). |
+| 1/2017 | Soporte de la osu! wiki en osu!web hecho por ::{ flag=JP }:: [nanaya](https://osu.ppy.sh/users/2387883). |
 | 26/1/2017 | La osu! wiki es mencionada en el blog de ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2). |
 | 22/5/2017 | El [archivo de osu!news ahora es almacenado en la osu! wiki (solo en formato de texto)](https://github.com/ppy/osu-wiki/pull/252). |
 | 30/5/2017 | [La función de redirección es añadida a la osu! wiki](https://github.com/ppy/osu-web/pull/1144). |

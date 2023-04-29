@@ -23,7 +23,7 @@
 | :-- | :-- |
 | 26.08.2016 | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) [erstellte das Repository osu-wiki](https://github.com/ppy/osu-wiki/tree/3433cbeeda9303a470647cad1c338d43f4272a2e). ::{ flag=US }:: [craftu](https://osu.ppy.sh/users/16468119) und ::{ flag=US }:: [XYLOO](https://osu.ppy.sh/users/27809907) portierten den Inhalt innerhalb einer Woche aus MediaWiki in das Repository. |
 | September 2016 | Die meisten der Seiten, außer den Bildern, werden in das Repository verschoben, wobei ungelöste Syntax-Übersetzungsfehler aufgrund von Sprachunterschieden zwischen Markdown und MediaWiki auftreten. |
-| Januar 2017 | osu!web-Unterstützung des osu!-Wikis geschehen durch nanaya. |
+| Januar 2017 | osu!web-Unterstützung des osu!-Wikis geschehen durch ::{ flag=JP }:: [nanaya](https://osu.ppy.sh/users/2387883). |
 | 05.01.2017 | Das osu!-Wiki-Projekt wird von ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335) vorgeschlagen. |
 | 26.01.2017 | Das osu!-Wiki wird auf peppys Blog erwähnt. |
 | 22.05.2017 | Das [osu!news-Archiv wird jetzt im osu!-Wiki gespeichert (nur in Textform)](https://github.com/ppy/osu-wiki/pull/252). |
