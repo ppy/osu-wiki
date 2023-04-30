@@ -301,4 +301,4 @@ This category contains explicit allowance statements of concepts and rules that 
 [^character-voice-actor]: `CV` (Character Voice) is used when song is sung in character by the character's voice actor. `VO` (Voice Over) is used when a song is sung in character by someone other than the character's voice actor.
 [^maximum-dimensions]: Backgrounds which are also used as storyboard images may follow [the storyboard images rule for maximum dimensions](/wiki/Ranking_Criteria#rules.7) instead.
 [^normal-vs-addition]: [Hitsounds](/wiki/Beatmapping/Hitsound) consist of an always-present *hitnormal* sample, and any combination of whistle, finish, or clap sample *additions*.
-[^songs-comp-note]: The following guideline does not apply to [song compilations](/wiki/Beatmap/Song_compilation).
+[^songs-comp-note]: The following rule does not apply to [song compilations](/wiki/Beatmap/Song_compilation).
