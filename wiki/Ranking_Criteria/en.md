@@ -195,7 +195,7 @@ This category contains explicit allowance statements of concepts and rules that 
 
 - **The audio file of a beatmap must...**
   - **...use the `.mp3` or `.ogg` file format.**
-  - **...have an average bit rate no greater than 192 kbps.**
+  - **...have an average bit rate no greater than 192 kbps for `.mp3` files, or 208 kbps for `.ogg` files.**
   - **...have an average bit rate no lower than 128 kbps**, if such a source exists. Otherwise, use the highest quality available.
   - **...not be encoded upwards from a lower bitrate.**
 - **A beatmap may only contain one song file used by all difficulties.** Multiple song files within a single beatmap are unsupported and result in unexpected behaviour with preview times, metadata, etc.
