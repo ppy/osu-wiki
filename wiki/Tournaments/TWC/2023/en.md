@@ -35,7 +35,7 @@ The osu!taiko World Cup 2023 offered a minimum $2,000 cash prize pool and limite
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the prize pool, single-run merch, profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool, single-run merch, profile badge |
 
-![](img/twc-2023-badge-1st.png "TWC 2023 winner badge") ![](img/twc-2023-badge-2nd.png "TWC 2023 2nd place badge") ![](img/twc-2023-badge-3rd.png "TWC 2023. 3rd place badge")
+![](img/twc-2023-badge-1st.png "TWC 2023 winner badge") ![](img/twc-2023-badge-2nd.png "TWC 2023 2nd-place badge") ![](img/twc-2023-badge-3rd.png "TWC 2023 3rd-place badge")
 
 ## Organisation
 
