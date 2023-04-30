@@ -623,9 +623,5 @@ The final standings for the Qualifier stage can be found at the following [sprea
 
 ## Notes
 
-[^bracket-reset]: Bracket reset match – will only take place if Japan loses the preceding match
-[^losers-bracket]: Losers bracket match
-[^potential-match]: Potential match – final matchup depends on the results of the preceding Losers Bracket matches
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rank sum
-[^showmatch]: Showmatch – All-star players from eliminated teams vs the mappooling team
