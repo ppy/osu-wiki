@@ -1,6 +1,6 @@
 # Storyboard scripting variables
 
-You can have strings of text in a line acting as **variables** for use elsewhere in an `.osb` file (note that the value cannot be changed during gameplay, so for those with programming experience, think of it more like a constant). `.osu` files *do not* support this.
+**Variables** are abstract containers holding custom values that can be used elsewhere in an `.osb` file (note that the value cannot be changed during gameplay, so for those with programming experience, think of it more like a constant). `.osu` files *do not* support this.
 
 ## Usage
 
@@ -8,15 +8,15 @@ The declaration of variables occurs in the separate \[Variables\] section locate
 
 ```
 [Variables]
-$color_link=0,255,0
+$colour_link=0,255,0
 $sample_path="Sample.png"
 ```
 
-You can use the variable in your code by typing the name (left hand side of the declaration, including the $) in your code. For instance, with the above declarations, this:
+Variables are used in the code by typing their name (left hand side of the declaration, including the $). For instance, with the above declarations, this:
 
 ```
 Sprite,Pass,Centre,$sample_path,320,240
-_C,0,58810,59810,$color_link
+_C,0,58810,59810,$colour_link
 ```
 
 is treated as this:
@@ -28,7 +28,7 @@ _C,0,58810,59810,0,CC,0
 
 ## Warning
 
-Note that variables are carried over when saving in the [beatmap editor](/wiki/Client/Beatmap_editor), but *all* instances of the variable's value will be replaced with the variable. Therefore, you should not make variable names too short or general, e.g.:
+Note that variables are carried over when saving in the [beatmap editor](/wiki/Client/Beatmap_editor), but *all* instances of the variable's value will be replaced with the variable. Therefore, variable names should not be too short or general, e.g.:
 
 ```
 [Variables]
