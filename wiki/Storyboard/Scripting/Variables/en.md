@@ -1,10 +1,10 @@
 # Storyboard scripting variables
 
-You can strings of text, up to a whole line, as **variables** for use elsewhere in an .osb file (note that the value can't change during the gameplay, so for those with software experience, think of it more like a constant). *.osu files do not support this.*
+You can have strings of text in a line acting as **variables** for use elsewhere in an `.osb` file (note that the value cannot be changed during gameplay, so for those with programming experience, think of it more like a constant). `.osu` files *do not* support this.
 
 ## Usage
 
-The declaration of variables occurs in the separate \[Variables\] section of the .osb, located at the top of the file:
+The declaration of variables occurs in the separate \[Variables\] section located at the top of the `.osb` file:
 
 ```
 [Variables]
@@ -28,7 +28,7 @@ _C,0,58810,59810,0,CC,0
 
 ## Warning
 
-Note that variables are carried over when saving in the Beatmap Editor, but *all* instances of the variable's value will be replaced with the variable. Therefore, you shouldn't make variable too short or general, e.g.:
+Note that variables are carried over when saving in the [beatmap editor](/wiki/Client/Beatmap_editor), but *all* instances of the variable's value will be replaced with the variable. Therefore, you should not make variable names too short or general, e.g.:
 
 ```
 [Variables]
@@ -41,4 +41,4 @@ Sprite,Pass,Centre,"Sample.png",320,240
 _C,0,6000,7000,12,12,12
 ```
 
-Saving will replace the "12"s in colour specification with "$number_of_loops".
+Saving will replace the "12"s in colour specification with `$number_of_loops`.
