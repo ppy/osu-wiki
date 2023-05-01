@@ -62,6 +62,7 @@ Important to understand before using:
   - **...between 4:15 and 5:00**, the lowest difficulty of each included game mode cannot be harder than an Insane.
   - **[Break times](/wiki/Beatmap/Break) may be combined with [drain time](/wiki/Beatmap/Drain_time) to meet the above thresholds.** For the highest difficulty, this is limited to at most 30 seconds of break time. This does not apply to difficulties with less than 30 seconds of drain time.
   - **osu!mania beatmaps are bound by a different set of drain time thresholds and other spread rules defined in the [osu!mania ranking criteria](/wiki/Ranking_Criteria/osu!mania).**
+- **A beatmap of 2 songs combined together must follow the minimum spread requirements corresponding to the length of the longer song.**[^songs-comp-note] This is to avoid artificial extension of songs as an evasion of time limitations in the beatmap section of these criteria. Exceptions can be made for songs that were exclusively released together.
 - **Difficulty names in a beatmap must be clearly progressive and accurately indicating of their respective difficulties, excluding:**
   - The highest difficulty of each game mode.
   - The highest difficulties of each game mode with a similar level of difficulty, applying only to Insane and Extra difficulties (e.g. the Insane difficulties of a ENHIIII set or the Extra difficulties of a ENHIIXXX set).
@@ -199,7 +200,6 @@ This category contains explicit allowance statements of concepts and rules that 
   - **...have an average bit rate no lower than 128 kbps**, if such a source exists. Otherwise, use the highest quality available.
   - **...not be encoded upwards from a lower bitrate.**
 - **A beatmap may only contain one song file used by all difficulties.** Multiple song files within a single beatmap are unsupported and result in unexpected behaviour with preview times, metadata, etc.
-- **A beatmap of 2 songs combined together must follow the minimum spread requirements corresponding to the length of the longer song.**[^songs-comp-note] This is to avoid artificial extension of songs as an evasion of time limitations in the beatmap section of these criteria. Exceptions can be made for songs that were exclusively released together.
 - **Beatmaps must be [hitsounded](/wiki/Beatmapping/Hitsound).** Hitnormals give feedback to the player, and additions (whistles, claps, and finishes) accent the most important parts of the music.[^normal-vs-addition]
   - **osu!mania beatmaps do not require hitsound additions.**[^normal-vs-addition] This is to allow for easier approachability to osu!mania mappers of different upbringings. It is still highly recommended to use hitsound additions to improve the feel of your beatmaps.
 - **All clicked parts of objects must have at least one hitsound which both...**
