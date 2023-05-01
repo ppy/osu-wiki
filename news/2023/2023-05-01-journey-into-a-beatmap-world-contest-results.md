@@ -26,7 +26,7 @@ Congratulations to \]w\[, who takes their first top spot on their third overall 
 
 A fool moon night rises over **1201** voters who did not walk away from [**rxys**](https://osu.ppy.sh/users/22185836)'s rendition of [one of osu!'s most iconic beatmaps](https://osu.ppy.sh/beatmapsets/524026#osu/1186901), joined by a most monochrome pippi and a score-surfing WhiteCat.
 
-Some say that if you look hard enough, you can see two visitors from beyond among the stars...
+Some say that if you look hard enough, you can see two visitors from beyond, among the stars...
 
 [![](https://assets.ppy.sh/contests/175/banners/Phoebe%20Yu.jpg)](https://assets.ppy.sh/contests/175/winners/Phoebe%20Yu.png)
 
