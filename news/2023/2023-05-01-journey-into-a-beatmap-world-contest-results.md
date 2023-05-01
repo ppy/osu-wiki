@@ -8,7 +8,7 @@ We've travelled across the (beatmapping) world to get you these results, now sho
 
 ![](https://assets.ppy.sh/contests/175/banners/w.jpg)
 
-2944 intrepid explorers joined us in this great trek across the expanded osu! universe, from [ostenatious openings](https://assets.ppy.sh/contests/175/entries/Trembling%20Cheetah.jpg), [programs most strange](https://assets.ppy.sh/contests/175/entries/Jolly%20Chipmunk.jpg) and even [disjointed backroom photo shoots](https://assets.ppy.sh/contests/175/entries/Stern%20Magpie.jpg), we've seen it all.
+2944 intrepid explorers joined us in this great trek across the expanded osu! universe, from [ostentatious openings](https://assets.ppy.sh/contests/175/entries/Trembling%20Cheetah.jpg), [programs most strange](https://assets.ppy.sh/contests/175/entries/Jolly%20Chipmunk.jpg) and even [disjointed backroom photo shoots](https://assets.ppy.sh/contests/175/entries/Stern%20Magpie.jpg), we've seen it all.
 
 But the architects of this terrible journey decreed that you shall only have fifteen votes to spend across such a huge collection of insanely talented works. And so, you have chosen.
 
@@ -20,7 +20,7 @@ Let us witness where your travels have taken us:
 
 And the abyss stares back.
 
-Congratulations to \]w\[, who takes their first top spot on their third overall entry into one of our art contests! Well-earned and super deserved, playing to the contest's theme masterfully.
+Congratulations to \]w\[, who takes their first top spot on their third overall entry into one of our art contests! Well earned and super deserved, playing to the contest's theme masterfully.
 
 [![](https://assets.ppy.sh/contests/175/banners/rxys.jpg)](https://assets.ppy.sh/contests/175/winners/rxys.png)
 
@@ -40,19 +40,19 @@ Destiny drew **1079** voters towards [**RedcXca**](https://osu.ppy.sh/users/1405
 
 [**xootynator**](https://osu.ppy.sh/users/3717598) exploded **1063** minds in an overwhelming deluge of creative colour with her [Euphoria-inspired](https://osu.ppy.sh/beatmapsets/890438#osu/1861487) entry.  
 
-She now holds the unique position of being potentially the only art contest entrant in history to possess both a first place score on an iconic beatmap and a finalist-qualifying artwork inspired by the very same map. Never thought I'd be including *that* in one of these blurbs. Save some talent for the rest of us!
+She now holds the unique position of being potentially the only art contest entrant in history to possess both a first-place score on an iconic beatmap and a finalist-qualifying artwork inspired by the very same map. Never thought I'd be including *that* in one of these blurbs. Save some talent for the rest of us!
 
 [![](https://assets.ppy.sh/contests/175/banners/ksenikust.jpg)](https://assets.ppy.sh/contests/175/winners/ksenikust.png)
 
-**951** voters joined in on [**ksenikust**](https://osu.ppy.sh/users/8938068)'s internal monologue referencing the ever-popular Hitorigoto. There's enough sets of this particular track to black out the sun, so we're not going to reference any particular ones, but we *are* going to reference the gorgeous art style and the cameo appearance from our makeship collab pippi plushie.
+**951** voters joined in on [**ksenikust**](https://osu.ppy.sh/users/8938068)'s internal monologue referencing the ever-popular *Hitorigoto*. There are enough sets of this particular track to black out the sun, so we're not going to reference any particular ones, but we *are* going to reference the gorgeous art style and the cameo appearance from our [Makeship collab](https://osu.ppy.sh/home/news/2022-12-10-makeship-x-osu-plushies) pippi plushie.
 
 [![](https://assets.ppy.sh/contests/175/banners/Sjao.jpg)](https://assets.ppy.sh/contests/175/winners/Sjao.png)
 
-**940** spectators chose bravery in beholding [**Sjao**](https://osu.ppy.sh/users/7295733)'s weaving of an insanely stylish pippi inspired by the undeniable osu! titan that is [The Big Black](https://osu.ppy.sh/beatmapsets/41823#osu/131891). Legendary utilization of the contest's theme, and it shows for days!
+**940** spectators chose bravery in beholding [**Sjao**](https://osu.ppy.sh/users/7295733)'s weaving of an insanely stylish pippi inspired by the undeniable osu! titan that is [The Big Black](https://osu.ppy.sh/beatmapsets/41823#osu/131891). Legendary utilisation of the contest's theme, and it shows for days!
 
 [![](https://assets.ppy.sh/contests/175/banners/caetrn.jpg)](https://assets.ppy.sh/contests/175/winners/caetrn.png)
 
-**913** kindred tears were shed for [**caetrn**](https://osu.ppy.sh/users/18425276)'s sombre creation referencing the great emotional tribulation of [Kakushigoto](https://osu.ppy.sh/beatmapsets/208095). Despite the nature of the piece, it is superbly actualized, complete with a weepy don for extra oomph.
+**913** kindred tears were shed for [**caetrn**](https://osu.ppy.sh/users/18425276)'s sombre creation referencing the great emotional tribulation of [Kakushigoto](https://osu.ppy.sh/beatmapsets/208095). Despite the nature of the piece, it is superbly actualised, complete with a weepy Don for extra oomph.
 
 [![](https://assets.ppy.sh/contests/175/banners/Kleinne%20Lui.jpg)](https://assets.ppy.sh/contests/175/winners/Kleinne%20Lui.png)
 
@@ -60,15 +60,15 @@ She now holds the unique position of being potentially the only art contest entr
 
 [![](https://assets.ppy.sh/contests/175/banners/Saeka.jpg)](https://assets.ppy.sh/contests/175/winners/Saeka.png)
 
-**776** voters also split into an alternate dimension with [**Saeka**](https://osu.ppy.sh/users/18025047)'s artwork, also featuring the world of [Cold Green Eyes](https://osu.ppy.sh/beatmapsets/371128#osu/814293), except this time with quite a few more guests in two pippi's from opposing timelines, Mocha, Chirou and a delighted don finally happy to exist in a world where people might not belt him with sticks for fun.
+**776** voters also split into an alternate dimension with [**Saeka**](https://osu.ppy.sh/users/18025047)'s artwork, also featuring the world of [Cold Green Eyes](https://osu.ppy.sh/beatmapsets/371128#osu/814293), except this time with quite a few more guests: two pippis from opposing timelines, Mocha, Chirou and a delighted Don finally happy to exist in a world where people might not belt him with sticks for fun.
 
 [![](https://assets.ppy.sh/contests/175/banners/feelareN.jpg)](https://assets.ppy.sh/contests/175/winners/feelareN.png)
 
-**749** passengers took the connecting line joining [**feelareN**](https://osu.ppy.sh/users/14893375)'s artistic wiles to the wistful world of inabakumori's Lagtrain. Simple, but stupendously well executed. Much like the original track itself!
+**749** passengers took the connecting line joining [**feelareN**](https://osu.ppy.sh/users/14893375)'s artistic wiles to the wistful world of inabakumori's *Lagtrain*. Simple, but stupendously well executed. Much like the original track itself!
 
 [![](https://assets.ppy.sh/contests/175/banners/Khize.jpg)](https://assets.ppy.sh/contests/175/winners/Khize.png)
 
-**749** voters found themselves waiting in the rain among [**Khize**](https://osu.ppy.sh/users/12736392)'s re-imagining of the background from [color](https://osu.ppy.sh/beatmapsets/373114#osu/817174). The stylistic attention paid to this piece cannot be adequately conveyed in words, so we're just going to encourage you to look at it, then look at it some more.
+**749** voters found themselves waiting in the rain among [**Khize**](https://osu.ppy.sh/users/12736392)'s reimagining of the background from [color](https://osu.ppy.sh/beatmapsets/373114#osu/817174). The stylistic attention paid to this piece cannot be adequately conveyed in words, so we're just going to encourage you to look at it, then look at it some more.
 
 [![](https://assets.ppy.sh/contests/175/banners/DGen.jpg)](https://assets.ppy.sh/contests/175/winners/DGen.png)
 
@@ -88,11 +88,11 @@ The Kemomimi Art Squad rocked up and commandeered **679** votes at [**Dika312**]
 
 The top 3 finalists as voted by you should now find themselves the proud new owner of a bespoke profile badge derived from their winning creations, and every finalist also goes home with 3 months of osu!supporter for their efforts. 
 
-You can also check out the full scope of the voting results over at the [Journey into a Beatmap World Art Contest listing](https://osu.ppy.sh/community/contests/175). Remember, if you see something you like, check out the artist's profile for links, or maybe slide into their DM's and let them know you appreciated their work!
+You can also check out the full scope of the voting results over at the [Journey into a Beatmap World Art Contest listing](https://osu.ppy.sh/community/contests/175). Remember, if you see something you like, check out the artist's profile for links, or maybe slide into their DMs and let them know you appreciated their work!
 
 Astute observers may note the absence of peppy's picks this time around. Don't fret, they'll be back for the next contest!
 
-A huge thank you to everyone who submitted and entry and participated in voting! Despite the lower turnout overall (mostly a product of the time of year), this art contest was one of the most exciting I think we've had yet. 
+A huge thank you to everyone who submitted and entry and participated in the voting! Despite the lower turnout overall (mostly a product of the time of year), this art contest was one of the most exciting I think we've had yet. 
 
 There's just something so satisfying about trying to link back a given piece of art to its source inspiration, especially when it involves scraping through over fifteen years of beatmapping history. We had several moments in our secret team Discord re-enacting the Spiderman points at Spiderman meme, except with fanart entries and beatmaps. *It turns out that maybe some of us are better at it than others.*
 
