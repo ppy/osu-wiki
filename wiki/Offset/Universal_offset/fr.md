@@ -4,27 +4,27 @@
   - offset global
 ---
 
-# Décalage universel
+# Universal offset
 
 *Pour d'autres utilisations, voir [Offset](/wiki/Offset).*\
-*Pour des instructions étape par étape sur la façon de régler le décalage universel à la valeur correcte, voir : [Comment utiliser l'assistant de décalage](/wiki/Guides/How_to_Use_the_Offset_Wizard).*
+*Pour des instructions étape par étape sur la façon de régler l'universal offset à la valeur correcte, voir : [Comment utiliser l'assistant de décalage](/wiki/Guides/How_to_Use_the_Offset_Wizard).*
 
-**Le décalage universel** (ou **offset global**) est une [option](/wiki/Client/Options) qui déplace l'apparence des [objets](/wiki/Gameplay/Hit_object) par rapport à l'audio dans toutes les [beatmaps](/wiki/Beatmap). Cela peut s'avérer utile pour les joueurs qui souffrent de retards auditifs ou visuels. Le décalage universel fonctionne avec le [décalage de musique local](/wiki/Offset/Local_offset) pour calculer l'offset total.
+**L'universal offset** (ou **offset global** souvent appelé décalage universel) est une [option](/wiki/Client/Options) qui déplace l'apparence des [objets](/wiki/Gameplay/Hit_object) par rapport à l'audio dans toutes les [beatmaps](/wiki/Beatmap). Cela peut s'avérer utile pour les joueurs qui souffrent de retards auditifs ou visuels. L'universal offset fonctionne avec le [décalage de musique local](/wiki/Offset/Local_offset) pour calculer l'offset total.
 
 ## Comportement
 
-Le décalage universel fonctionne en ajoutant un délai spécifié entre la chanson de chaque beatmap et les autres sons et graphiques associés. Contrairement à l'offset [local](/wiki/Offset/Local_offset) ou [en ligne](/wiki/Offset/Online_offset), il est appliqué à l'audio plutôt qu'aux éléments de gameplay, produisant l'effet inverse :
+L'universal offset fonctionne en ajoutant un délai spécifié entre la chanson de chaque beatmap et les autres sons et graphiques associés. Contrairement à l'offset [local](/wiki/Offset/Local_offset) ou [en ligne](/wiki/Offset/Online_offset), il est appliqué à l'audio plutôt qu'aux éléments de gameplay, produisant l'effet inverse :
 
 - Les valeurs **Positives** déplacent les éléments de gameplay **plus tôt**.
 - Les valeurs **Négatives** déplacent les éléments de gameplay **plus tard**.
 
-Il est généralement intéressant de garder le décalage universel à sa valeur par défaut `0`, puisqu'un décalage universel mal déterminé causera des problèmes de timing significatifs sur toutes les beatmaps. Cependant si **toutes les beatmaps** ont des problèmes de timing constants et perceptibles, l'utilisation d'une valeur différente peut être bénéfique.[^local-offset] La valeur optimale de l'offset universel de chaque joueur diffère en raison des variations de leurs systèmes.
+Il est généralement intéressant de garder le décalage universel à sa valeur par défaut `0`, puisqu'un universal offset mal déterminé causera des problèmes de timing significatifs sur toutes les beatmaps. Cependant si **toutes les beatmaps** ont des problèmes de timing constants et perceptibles, l'utilisation d'une valeur différente peut être bénéfique.[^local-offset] La valeur optimale de l'universal offset de chaque joueur diffère en raison des variations de leurs systèmes.
 
 ## Contrôles
 
-![](img/uo-settings-button.png "Les contrôles de décalage universels, contenant un curseur et le bouton de l'assistant de décalage")
+![](img/uo-settings-button.png "Les contrôles de l'universal offset, contenant un curseur et le bouton de l'assistant de décalage")
 
-La valeur du décalage universel peut être modifiée directement dans les [options](/wiki/Client/Options). Il est également possible de l'adapter à la configuration actuelle à l'aide de l'[Assistant de décalage](/wiki/Client/Options/Offset_Wizard).
+La valeur du universal offset peut être modifiée directement dans les [options](/wiki/Client/Options). Il est également possible de l'adapter à la configuration actuelle à l'aide de l'[Assistant de décalage](/wiki/Client/Options/Offset_Wizard).
 
 ## Notes et références
 
