@@ -1,4 +1,5 @@
 ---
+tags:
   - UO
   - global offset
   - offset global
