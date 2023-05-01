@@ -16,7 +16,7 @@ Cette page présente toutes les fonctionnalités nouvelles ou manquantes par rap
 - Interface remaniée
   - Assistant de configuration à la première exécution
   - Storyboards dans le menu principal
-  - Rewind F2
+  - Retour en arrière pour la touche F2
   - Possibilité de cacher des difficultés
   - Suppression progressive
   - Plus d'options de mise à l'echelle
