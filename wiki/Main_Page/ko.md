@@ -72,7 +72,7 @@ osu!와 커뮤니티가 음악 라이센싱과 미디어 사용 가이드라인�
 
 [규칙](/wiki/Rules) • [기여자 Code of Conduct](/wiki/Rules/Contributor_Code_of_Conduct) • [모딩 및 매핑을 위한 Code of Conduct](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping)
 
-미디어 규정: [콘텐츠 사용 지침](/wiki/Rules/Content_Usage_Guidelines) • [콘텐츠 투표 과정](/wiki/Rules/Content_Voting_Process) • [노골적인 (19금) 콘텐츠](/wiki/Rules/Explicit_Content) • [곡 콘텐츠 규칙](/wiki/Rules/Song_Content_Rules) • [시각적 콘텐츠 고려 사항](/wiki/Rules/Visual_Content_Considerations)
+미디어 규정: [콘텐츠 사용 지침](/wiki/Rules/Content_Usage_Guidelines) • [콘텐츠 투표 과정](/wiki/Rules/Content_Voting_Process) • [부적절한 콘텐츠](/wiki/Rules/Explicit_Content) • [곡 콘텐츠 규칙](/wiki/Rules/Song_Content_Rules) • [시각적 콘텐츠 고려 사항](/wiki/Rules/Visual_Content_Considerations)
 
 [법률 페이지](/wiki/Legal): [서비스 약관](/wiki/Legal/Terms) • [개인정보](/wiki/Legal/Privacy) • [저작권 (DMCA)](/wiki/Legal/Copyright) • [음악 라이센싱](/wiki/Legal/Music_licensing)
 
