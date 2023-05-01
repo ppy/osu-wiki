@@ -40,4 +40,4 @@ osu! vous informera également du local offset avant de commencer le jeu.
 
 ## Notes et références
 
-[^hit-difference]: le décalage requis pouvant être déduit soit des temps sur le compteur de score atterrissant principalement au même endroit non centré, soit des valeurs cohérentes de [hit error](/wiki/Gameplay/Accuracy#error) sur l'[écran des résultats](/wiki/Client/Interface#results-screen).
+[^hit-difference]: le décalage requis pouvant être déduit soit des temps sur le compteur de score atterrissant principalement au même endroit non centré, soit des valeurs cohérentes de [hit error](/wiki/Gameplay/Accuracy#error) sur l'[écran des résultats](/wiki/Client/Interface#écran-des-résultats).
