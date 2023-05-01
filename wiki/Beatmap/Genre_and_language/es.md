@@ -7,28 +7,28 @@ tags:
 
 # Género e idioma
 
-![Una captura de pantalla del género, el idioma y las etiquetas en una página de beatmap](img/beatmap-info-ES.png "El género y el idioma se indican en la página del mapa.")
+![Una captura de pantalla del género, el idioma y las etiquetas en una página de beatmap](img/beatmap-info-ES.png "El género y el idioma se indican en la página del beatmap.")
 
-Los [mapas](/wiki/Beatmap) enviados al sitio web tienen campos de **género** e **idioma** para ayudar a clasificar las canciones. Se consideran parte de los [metadatos](/wiki/Client/Beatmap_editor/Song_Setup#song-and-map-metadata) de un mapa.
+Los [beatmaps](/wiki/Beatmap) enviados al sitio web tienen campos de **género** e **idioma** para ayudar a clasificar las canciones. Se consideran parte de los [metadatos](/wiki/Client/Beatmap_editor/Song_Setup#song-and-map-metadata) de un beatmap.
 
 El género y el idioma no tienen ninguna función en el juego, pero estarán disponibles como opciones de búsqueda en [osu!(lazer)](/wiki/Client/Release_stream/Lazer).
 
-## Listado de mapas
+## Listado de beatmaps
 
-![Los filtros disponibles en el listado de mapas](img/beatmap-listing-ES.png)
+![Los filtros disponibles en el listado de beatmaps](img/beatmap-listing-ES.png)
 
-El [listado de mapas](https://osu.ppy.sh/beatmapsets) tiene filtros disponibles para el género y el idioma en el menú desplegable `Más opciones de búsqueda`.
+El [listado de beatmaps](https://osu.ppy.sh/beatmapsets) tiene filtros disponibles para el género y el idioma en el menú desplegable `Más opciones de búsqueda`.
 
-## Cambiar el género y el idioma de un mapa
+## Cambiar el género y el idioma de un beatmap
 
-El género y el idioma se pueden cambiar en el sitio web haciendo clic en el ícono del lápiz al pasar el ratón sobre los detalles de un mapa. La capacidad para hacerlo está determinada por el [grupo del usuarios](/wiki/People/osu!_team#user-groups) y la [categoría](/wiki/Beatmap/Category#categorias-presentes) del mapa:
+El género y el idioma se pueden cambiar en el sitio web haciendo clic en el ícono del lápiz al pasar el ratón sobre los detalles de un beatmap. La capacidad para hacerlo está determinada por el [grupo de usuario](/wiki/People/osu!_team#user-groups) y la [categoría](/wiki/Beatmap/Category#categorias-presentes) del beatmap:
 
-- Los propietarios de los conjuntos de mapas están permitidos cuando el mapa está en la categoría [Trabajo en progreso](/wiki/Beatmap/Category#trabajos-en-progreso-y-pendientes), [Pendiente](/wiki/Beatmap/Category#trabajos-en-progreso-y-pendientes), o [Abandonado](/wiki/Beatmap/Category#abandonados), y no tiene ninguna [nominación](/wiki/Beatmap_ranking_procedure#nominations).
-- Los [Beatmap Nominators](/wiki/People/Beatmap_Nominators) están permitidos cuando el mapa está en la categoría [Calificado](/wiki/Beatmap/Category#calificados), Trabajo en progreso, o Pendiente.
-- Los miembros del [Project Loved Team](/wiki/People/Project_Loved_Team) están permitidos cuando el mapa está en la categoría [Amado](/wiki/Beatmap/Category#amados).
+- Los propietarios de los conjuntos de beatmaps están permitidos cuando el beatmap está en la categoría [Trabajo en progreso](/wiki/Beatmap/Category#trabajos-en-progreso-y-pendientes), [Pendiente](/wiki/Beatmap/Category#trabajos-en-progreso-y-pendientes), o [Abandonado](/wiki/Beatmap/Category#abandonados), y no tiene ninguna [nominación](/wiki/Beatmap_ranking_procedure#nominations).
+- Los [Beatmap Nominators](/wiki/People/Beatmap_Nominators) están permitidos cuando el beatmap está en la categoría [Calificado](/wiki/Beatmap/Category#calificados), Trabajo en progreso, o Pendiente.
+- Los miembros del [Project Loved Team](/wiki/People/Project_Loved_Team) están permitidos cuando el beatmap está en la categoría [Amado](/wiki/Beatmap/Category#amados).
 - Los miembros del [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) y del [Global Moderation Team](/wiki/People/Global_Moderation_Team) están permitidos en todas las categorías.
 
-Un mapa no puede ser [nominado](/wiki/Beatmap_ranking_procedure#nominations) si tiene el género o idioma `No especificado`.
+Un beatmap no puede ser [nominado](/wiki/Beatmap_ranking_procedure#nominations) si tiene el género o idioma `No especificado`.
 
 ## Lista de géneros
 
