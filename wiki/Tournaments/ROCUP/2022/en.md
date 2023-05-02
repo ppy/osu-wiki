@@ -59,7 +59,10 @@ The Romanian osu! Cup 2022 was run by various community members:
 
 | Seed | Players |
 | :-- | :-- |
-| Top | |
+| 1-8 | ::{ flag=RO }:: [Lucrise](https://osu.ppy.sh/users/9719351), ::{ flag=RO }:: [SatonoDiamond](https://osu.ppy.sh/users/12366071), ::{ flag=RO }:: [eternum](https://osu.ppy.sh/users/4581069), ::{ flag=RO }:: [badeu](https://osu.ppy.sh/users/1473890), ::{ flag=RO }:: [Lalisa](https://osu.ppy.sh/users/10778261), ::{ flag=RO }:: [cristi2708](https://osu.ppy.sh/users/7552300), ::{ flag=RO }:: [Chiu](https://osu.ppy.sh/users/3148900), ::{ flag=RO }:: [Kehest](https://osu.ppy.sh/users/6145000) |
+| 9-16 | ::{ flag=RO }:: [HowlPleb](https://osu.ppy.sh/users/15995105), ::{ flag=RO }:: [Ninja Fail](https://osu.ppy.sh/users/9517058), ::{ flag=RO }:: [LuchiBuchi](https://osu.ppy.sh/users/10897656), ::{ flag=RO }:: [Nature angel](https://osu.ppy.sh/users/16555513), ::{ flag=RO }:: [ent](https://osu.ppy.sh/users/10261883), ::{ flag=RO }:: [KoleciAlexandru](https://osu.ppy.sh/users/7352365), ::{ flag=RO }:: [L9 MATEIUT](https://osu.ppy.sh/users/14774102), ::{ flag=RO }:: [Paato](https://osu.ppy.sh/users/9390417) |
+| 17-24 | ::{ flag=RO }:: [gadzzaa](https://osu.ppy.sh/users/14367771), ::{ flag=RO }:: [\_Silvian](https://osu.ppy.sh/users/8511882), ::{ flag=RO }:: [Shrikyun](https://osu.ppy.sh/users/21644645), ::{ flag=RO }:: [[dUwUb]](https://osu.ppy.sh/users/13132294), ::{ flag=RO }:: [Slato](https://osu.ppy.sh/users/6275784), ::{ flag=RO }:: [A-XLE](https://osu.ppy.sh/users/12487373), ::{ flag=RO }:: [Mely06](https://osu.ppy.sh/users/23629406), ::{ flag=RO }:: [zhuqing](https://osu.ppy.sh/users/14575641) |
+| 25-32 | ::{ flag=RO }:: [Teikem](https://osu.ppy.sh/users/16357854), ::{ flag=RO }:: [My Angel vuru](https://osu.ppy.sh/users/8244518), ::{ flag=RO }:: [AlexBelea](https://osu.ppy.sh/users/19430137), ::{ flag=RO }:: [IIANTONIOII](https://osu.ppy.sh/users/12274213), ::{ flag=RO }:: [bossuromaniei](https://osu.ppy.sh/users/19994316), ::{ flag=RO }:: [Acey Pacey](https://osu.ppy.sh/users/13590474), ::{ flag=RO }:: [Florin_Kon](https://osu.ppy.sh/users/10144817), ::{ flag=RO }:: [Deephjk](https://osu.ppy.sh/users/14299935) |
 
 ## Podium
 
