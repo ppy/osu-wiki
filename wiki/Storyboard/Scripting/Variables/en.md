@@ -8,7 +8,7 @@ The declaration of variables occurs in a separate \[Variables\] section typicall
 
 ```
 [Variables]
-$colour_link=0,255,0
+$colour_green=0,255,0
 $sample_path="Sample.png"
 ```
 
@@ -16,7 +16,7 @@ Variables are used in the code by typing their name (left-hand side of the decla
 
 ```
 Sprite,Pass,Centre,$sample_path,320,240
-_C,0,58810,59810,$colour_link
+_C,0,58810,59810,$colour_green
 ```
 
 is treated as this:
@@ -41,4 +41,4 @@ Sprite,Pass,Centre,"Sample.png",320,240
 _C,0,6000,7000,12,12,12
 ```
 
-Saving will replace the "12"s in the colour specification with `$number_of_loops`.
+Saving will replace the 12s in the colour specification with `$number_of_loops`.
