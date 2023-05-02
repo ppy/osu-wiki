@@ -15,7 +15,7 @@ layout: main_page
     
 [규칙](/wiki/Rules) • [설치 방법](/wiki/Client/Installation) • [계정 만들기](/wiki/Registration) • [고객 센터](/wiki/Help_centre)
 
-[채팅 콘솔](/wiki/Client/Interface/Chat_console) • [반쵸봇 (BanchoBot)](/wiki/BanchoBot) • [자주 묻는 질문](/wiki/FAQ) • [가이드](/wiki/Guides) • [사이트맵](/wiki/Sitemap)
+[채팅 콘솔](/wiki/Client/Interface/Chat_console) • [BanchoBot](/wiki/BanchoBot) • [자주 묻는 질문](/wiki/FAQ) • [가이드](/wiki/Guides) • [사이트맵](/wiki/Sitemap)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -24,7 +24,7 @@ layout: main_page
 
 리듬과 비트, 그리고 반짝임의 세계로 안내하는 게임인 osu!는 여러분께 많은 것을 제시합니다. 게임의 다양한 설정과 사용자 지정 기능에서 사용하는 설정 세부 정보, 파일 형식에 이르기까지, osu!라는 게임에 대해 깊게 알아봅시다.
     
-[인터페이스](/wiki/Client/Interface) • [옵션](/wiki/Client/Options) • [시각적 설정](/wiki/Client/Interface/Visual_settings) • [단축키 참조](/wiki/Client/Keyboard_shortcuts) • [유지 설정 파일](/wiki/Client/Program_files/User_configuration_file) • [프로그램 파일](/wiki/Client/Program_files)
+[인터페이스](/wiki/Client/Interface) • [옵션](/wiki/Client/Options) • [시각적 설정](/wiki/Client/Interface/Visual_settings) • [단축키 참조](/wiki/Client/Keyboard_shortcuts) • [유저 설정 파일](/wiki/Client/Program_files/User_configuration_file) • [프로그램 파일](/wiki/Client/Program_files)
 
 [파일 확장자](/wiki/Client/File_formats): [.osz](/wiki/Client/File_formats/Osz_(file_format)) • [.osk](/wiki/Client/File_formats/Osk_(file_format)) • [.osr](/wiki/Client/File_formats/Osr_(file_format)) • [.osu](/wiki/Client/File_formats/Osu_(file_format)) • [.osb](/wiki/Client/File_formats/Osb_(file_format))
 
@@ -37,7 +37,7 @@ layout: main_page
     
 [게임 모드](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[비트맵](/wiki/Beatmap) • [난이도](/wiki/Beatmap/Difficulty) • [히트 오브젝트](/wiki/Gameplay/Hit_object) • [모드](/wiki/Gameplay/Game_modifier) • [점수](/wiki/Gameplay/Score) • [다시 보기](/wiki/Gameplay/Replay) • [메달](/wiki/Medals) • [멀티 플레이](/wiki/Client/Interface/Multiplayer)
+[비트맵](/wiki/Beatmap) • [난이도](/wiki/Beatmap/Difficulty) • [히트 오브젝트](/wiki/Gameplay/Hit_object) • [모드](/wiki/Gameplay/Game_modifier) • [점수](/wiki/Gameplay/Score) • [리플레이](/wiki/Gameplay/Replay) • [메달](/wiki/Medals) • [멀티 플레이](/wiki/Client/Interface/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -61,7 +61,7 @@ layout: main_page
     
 [비트맵 제출](/wiki/Beatmapping/Beatmap_submission) • [모딩](/wiki/Modding) • [랭크 과정](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
 
-[Ranking Criteria](/wiki/Ranking_Criteria): [osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania)
+[랭킹 크리테리아](/wiki/Ranking_Criteria): [osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -94,8 +94,8 @@ osu!와 커뮤니티가 음악 라이센싱과 미디어 사용 가이드라인�
 
 # 커뮤니티와 프로젝트
 
-사회적 상호작용은 전 세계 osu! 플레이어들에게 활력소를 공급해주는 주요 요소 중 하나입니다. 활동 및 콘테스트 등을 찾아보고, 다른 사람과 소통하거나, 다음 큰 이벤트를 개최하는데 도움을 주세요!
-    
+사회적 상호작용은 전 세계 osu! 플레이어들에게 활력소를 공급해 주는 주요 요소 중 하나입니다. 활동 및 콘테스트 등을 찾아보고, 다른 사람과 소통하거나, 다음 큰 이벤트를 개최하는 데 도움을 주세요!
+     
 장소: [포럼](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_Chat) • [디스코드 서버](/wiki/Community/Discord_servers)
 
 [토너먼트](/wiki/Tournaments) • [비트맵 스포트라이트](/wiki/Beatmap_Spotlights) • [콘테스트](/wiki/Contests) • [커뮤니티 멘토십 프로그램](/wiki/Community/Community_Mentorship_Program)
@@ -109,7 +109,7 @@ osu!와 커뮤니티가 음악 라이센싱과 미디어 사용 가이드라인�
 
 # [구성원](/wiki/People)
 
-많은 유저들이 개발, 유지보수 및 커뮤니티 관리에 도움을 주지 않았더라면 osu!는 불가능했을 것입니다. 그들의 노력, 시간, 그리고 헌신이 osu!를 더욱 더 활기차고 발전시킬 수 있게 만들어줍니다.
+많은 유저들이 개발, 유지보수 및 커뮤니티 관리에 도움을 주지 않았더라면 osu!는 불가능했을 것입니다. 그들의 노력, 시간, 그리고 헌신이 osu!를 더욱더 활기차고 발전시킬 수 있게 만들어줍니다.
 
 [osu! 팀](/wiki/People/osu!_team) • [개발자](/wiki/People/Developers) • [공식 아티스트](/wiki/People/Featured_Artists) • [Global Moderation Team](/wiki/People/Global_Moderation_Team) • [지원 팀](/wiki/People/Support_Team) • [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) • [비트맵 노미네이터](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Project Loved Team](/wiki/People/Project_Loved_Team) • [비트맵 스포트라이트 큐레이터](/wiki/People/Beatmap_Spotlight_Curators)
 
@@ -120,7 +120,7 @@ osu!와 커뮤니티가 음악 라이센싱과 미디어 사용 가이드라인�
 
 # 개발자 전용
 
-다른 응용 프로그램과 미디어를 통해 osu!와 상호작용 하거나, 성장할 수 있도록 지원해주세요.
+다른 응용 프로그램과 미디어를 통해 osu!와 상호작용하거나, 성장할 수 있도록 지원해 주세요.
 
 [API](/wiki/osu!api) • [봇 계정](/wiki/Bot_account) • [브랜드 아이덴티티 가이드라인](/wiki/Brand_identity_guidelines) • [osu! 디스코드 서버](/wiki/Community/osu!_Discord_server)
 
