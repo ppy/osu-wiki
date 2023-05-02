@@ -23,7 +23,7 @@ is treated as this:
 
 ```
 Sprite,Pass,Centre,"Sample.png",320,240
-_C,0,58810,59810,0,CC,0
+_C,0,58810,59810,0,255,0
 ```
 
 ## Warning
