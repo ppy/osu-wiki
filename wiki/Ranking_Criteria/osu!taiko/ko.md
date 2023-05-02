@@ -1,8 +1,8 @@
-# osu!taiko ranking criteria
+# osu!taiko 랭킹 크리테리아
 
-***참고: 이 문서는 [일반 랭크 기준](/wiki/Ranking_Criteria)의 연장입니다.***
+***참고: 이 문서는 [일반 랭킹 크리테리아](/wiki/Ranking_Criteria)의 연장입니다.***
 
-이 **osu!taiko 랭크 기준** 문서는 [osu!taiko 스탠다드](/wiki/Game_mode/osu!taiko) [비트맵](/wiki/Beatmap)이 [비트맵 랭킹 절차](/wiki/Beatmap_ranking_procedure)를 밟기 위해 따라야 하는 [규칙과 가이드라인](/wiki/Ranking_Criteria#일반-용어)을 제시합니다.
+이 **osu!taiko 랭킹 크리테리아** 문서는 [osu!taiko](/wiki/Game_mode/osu!taiko) [비트맵](/wiki/Beatmap)이 [비트맵 랭크 절차](/wiki/Beatmap_ranking_procedure)를 밟기 위해 따라야 하는 [규칙과 가이드라인](/wiki/Ranking_Criteria#일반-용어)을 제시합니다.
 
 ## 용어
 
@@ -36,7 +36,7 @@
 - **즉흥 매핑:** 본래 가지고 있는 소리보다 더 많은 노트를 두는 것.
 - **태고 템플릿 배경:** 본래 태고의 달인과 비슷한 느낌이 되도록 하는 배경 이미지. 보통 검은색 라인과 함께 흰색 글씨로 아티스트, 타이틀을 표기합니다.
 
-## 공통(Overall)
+## 공통
 
 공통 규칙과 가이드라인은 모든 종류의 osu!taiko 난이도에 적용됩니다. 리듬과 연관된 룰과 가이드라인은 180 BPM을 기준으로 작성되었으며, 노래가 기준보다 많이 느리거나 빠른 경우 [Scaling BPM on the Ranking Criteria](/wiki/Ranking_Criteria/Scaling_BPM)를 기준으로 다르게 적용될 수 있습니다.
 
