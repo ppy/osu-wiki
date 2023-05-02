@@ -14,10 +14,10 @@ The **Vocaloid Mapping Contest** (***VMC***) is a beatmapping contest all about 
 
 | Event | Timestamp |
 | --: | :-- |
-| Announcement | 2023-05-01 |
-| Submission | 2023-05-01/2023-05-31 |
-| Judging | 2023-06-01/2023-06-24 |
-| Results | 2023-07-01 |
+| Announcement | 2023-05-03 |
+| Submission | 2023-05-03/2023-06-02 |
+| Judging | 2023-06-03/2023-06-26 |
+| Results | 2023-07-03 |
 
 ## Organisation
 
@@ -42,7 +42,7 @@ All participating mappers received constructive feedback from some of the most w
 
 ## Links
 
-- [Announcement news post](https://osu.ppy.sh/home/news/2023-05-01-vocaloid-mapping-contest)
+- [Announcement news post](https://osu.ppy.sh/home/news/2023-05-03-vocaloid-mapping-contest)
 - [Contest listing](https://osu.ppy.sh/community/contests/177)
 - [Discord server](https://discord.gg/EruvDHaReY)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vocaloid Mapping Contest"
-date: 2023-05-01 12:00:00 +0000
+date: 2023-05-03 12:00:00 +0000
 ---
 
 The premier mapping event for all vocal synth appreciators is here with the first iteration of the Vocaloid Mapping Contest!
@@ -20,10 +20,10 @@ Let's break everything down.
 
 | Event | Timestamp |
 | --: | :-- |
-| Announcement | 2023-05-01 |
-| Submission | 2023-05-01 to 2023-05-31 |
-| Judging | 2023-06-01 to 2023-06-24 |
-| Results | 2023-07-01 |
+| Announcement | 2023-05-03 |
+| Submission | 2023-05-03 to 2023-06-02 |
+| Judging | 2023-06-03 to 2023-06-26 |
+| Results | 2023-07-03 |
 
 ## Prizes
 
