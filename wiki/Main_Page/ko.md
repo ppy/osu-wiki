@@ -129,7 +129,7 @@ osu!와 커뮤니티가 음악 라이센싱과 미디어 사용 가이드라인�
 
 # 위키 및 메타 페이지
 
-이 페이지에 있는 거의 모든 문서들과 마찬가지로 osu! 위키는 여러분들에 의해 관리됩니다. 만약 당신이 개선 사항을 제안하거나, 문제를 보고하거나, 직접 문서를 작성하려면 [osu!-wiki GitHub 저장소](https://github.com/ppy/osu-wiki)를 방문해 주세요.
+이 페이지에 있는 거의 모든 문서들과 마찬가지로 osu! 위키는 여러분들에 의해 관리됩니다. 개선 사항을 제안하거나, 문제를 보고하거나, 직접 문서를 작성하려면 [osu-wiki GitHub 저장소](https://github.com/ppy/osu-wiki)를 방문해 주세요.
 
 [osu!의 역사](/wiki/History_of_osu!) • [온라인 랭킹 역사](/wiki/History_of_osu!/Online_rankings) • [osu! 위키의 역사](/wiki/History_of_osu!/osu!_wiki) • [매핑과 모딩의 역사](/wiki/History_of_osu!/Mapping_and_Modding_Timeline) • [만우절](/wiki/History_of_osu!/April_Fools)
 
