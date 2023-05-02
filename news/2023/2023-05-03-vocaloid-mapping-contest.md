@@ -6,7 +6,7 @@ date: 2023-05-03 12:00:00 +0000
 
 The premier mapping event for all vocal synth appreciators is here with the first iteration of the Vocaloid Mapping Contest!
 
-![](/wiki/Contests/VMC/1/img/banner.png)
+![](/wiki/Contests/VMC/1/img/banner.jpg)
 
 The [**Vocaloid Mapping Contest (VMC)**](/wiki/Contests/VMC) is all about finding and promoting VOCALOID, UTAU, and other vocal synth songs and artists that have fallen through the cracks. Our [prototype contest last year](https://osu.ppy.sh/community/forums/topics/1604262?n=1) was themed around Hatsune Miku for her 15th birthday, while this contest has expanded to a variety of fun VOCALOID songs!
 

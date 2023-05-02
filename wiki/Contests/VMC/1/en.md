@@ -6,7 +6,7 @@ tags:
 
 # Vocaloid Mapping Contest
 
-![VMC banner](/wiki/Contests/VMC/1/img/banner.png)
+![VMC banner](/wiki/Contests/VMC/1/img/banner.jpg)
 
 The **Vocaloid Mapping Contest** (***VMC***) is a beatmapping contest all about promoting VOCALOID, UTAU, and other vocal synth songs and artists that have fallen through the cracks. Mappers were tasked with creating the best beatmap possible, and then having them judged by some of the most prominent VOCALOID mappers in the community. 
 
