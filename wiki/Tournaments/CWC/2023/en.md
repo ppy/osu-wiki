@@ -15,7 +15,7 @@ The **osu!catch World Cup 2023** (***CWC 2023***) is an upcoming country-based o
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2023-04-13/2023-04-27 |
+| Registration phase | 2023-04-13/2023-04-26 (23:59 UTC) |
 | Qualifier showcase | 2023-05-07 (14:00 UTC) |
 | Qualifier stage | 2023-05-13/2023-05-14 |
 | Round of 32 | 2023-05-20/2023-05-21 |
@@ -50,17 +50,66 @@ The osu!catch World Cup 2023 is run by various community members.
 
 ## Links
 
-- **[Sign up here](https://osu.ppy.sh/community/tournaments/38)**
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1749802)
 - [Livestream](https://www.twitch.tv/osulive)
 - [Donate to the prize pool](https://opencollective.com/osu-tournaments/events/osu-catch-world-cup-2023-3aaa5a51)
+
+## Participants
+
+*Notice: Captains are listed in **bold**.*
+
+The final team composition for each country is subject to change. If you have been selected as a captain, [check your inbox](https://osu.ppy.sh/community/chat) for more information. Countries not listed did not have enough players to form a team.
+
+|  | Country | Members |
+| :-: | :-: | :-- |
+| ::{ flag=AR }:: | **Argentina** | **[Saikai](https://osu.ppy.sh/users/8172283)**, [SirGonzaxz](https://osu.ppy.sh/users/17309439), [GamerYt500](https://osu.ppy.sh/users/19851602), [arxwaa](https://osu.ppy.sh/users/13916330), [wlfgrl](https://osu.ppy.sh/users/24598839), [Ambition-](https://osu.ppy.sh/users/6960376) |
+| ::{ flag=AU }:: | **Australia** | **[KWYJIBO](https://osu.ppy.sh/users/7178386)** |
+| ::{ flag=BE }:: | **Belgium** | **[\[ Quinten \]](https://osu.ppy.sh/users/6283136)**, [\[ Zhiend \]](https://osu.ppy.sh/users/7474404), [autolsfanboy](https://osu.ppy.sh/users/10742890), [Jezse](https://osu.ppy.sh/users/11390632), [\[ Ajia \]](https://osu.ppy.sh/users/17578266), [Cakenoob](https://osu.ppy.sh/users/6045522) |
+| ::{ flag=BR }:: | **Brazil** | **[Hanikawa Kurose](https://osu.ppy.sh/users/4533507)**, [Acooler](https://osu.ppy.sh/users/5235352), [ExNando](https://osu.ppy.sh/users/5960935), [Konohana Lucia](https://osu.ppy.sh/users/8642224), [Predominador](https://osu.ppy.sh/users/4568537), [-Overdose-](https://osu.ppy.sh/users/7749445) |
+| ::{ flag=BG }:: | **Bulgaria** | **[iSuck](https://osu.ppy.sh/users/5951283)**, [Dekyoura](https://osu.ppy.sh/users/11156215), [ss033](https://osu.ppy.sh/users/14584167), [Azakriel](https://osu.ppy.sh/users/30653081), [- SkyRain -](https://osu.ppy.sh/users/2122520), [Makou](https://osu.ppy.sh/users/901896) |
+| ::{ flag=CA }:: | **Canada** | **[Katsuragi](https://osu.ppy.sh/users/3616480)** |
+| ::{ flag=CL }:: | **Chile** | **[Aryssiel](https://osu.ppy.sh/users/2389481)** |
+| ::{ flag=CN }:: | **China** | **[\[Kaffu Chile\]](https://osu.ppy.sh/users/10681880)**, [-Yui](https://osu.ppy.sh/users/6649605), [Shiina Minatsu](https://osu.ppy.sh/users/3515458), [timezzzz](https://osu.ppy.sh/users/23006180), [\[Paw\]FIood](https://osu.ppy.sh/users/6336721), [Eta UMa](https://osu.ppy.sh/users/9740698) |
+| ::{ flag=CO }:: | **Colombia** | **[HelpMePleasee](https://osu.ppy.sh/users/10835397)**, [Zyonii](https://osu.ppy.sh/users/9519851), [Juansy-](https://osu.ppy.sh/users/12588215), [Titan-](https://osu.ppy.sh/users/7855767), [Deley-](https://osu.ppy.sh/users/8291465), [Dakary-](https://osu.ppy.sh/users/18076539) |
+| ::{ flag=DK }:: | **Denmark** | **[SharpN](https://osu.ppy.sh/users/4382076)** |
+| ::{ flag=FI }:: | **Finland** | **[Nikolai](https://osu.ppy.sh/users/5302804)**, [Bot\_Burger](https://osu.ppy.sh/users/6109660), [JonZku](https://osu.ppy.sh/users/12740132), [VenenoG](https://osu.ppy.sh/users/12863098), [0115](https://osu.ppy.sh/users/4278969) |
+| ::{ flag=FR }:: | **France** | **[Kasumi-sama](https://osu.ppy.sh/users/6177263)** |
+| ::{ flag=DE }:: | **Germany** | **[NoteKuroi](https://osu.ppy.sh/users/186642)**, [Marvmallow](https://osu.ppy.sh/users/8403032), [Lume](https://osu.ppy.sh/users/4691991), [-Nirfu-](https://osu.ppy.sh/users/7332050), [Inryuka](https://osu.ppy.sh/users/11635773), [Ginoshi](https://osu.ppy.sh/users/5398106) |
+| ::{ flag=HK }:: | **Hong Kong** | **[my angel auto](https://osu.ppy.sh/users/29503627)**, [Eu4ria](https://osu.ppy.sh/users/26695963), [fua](https://osu.ppy.sh/users/21138904), [I CAN FC](https://osu.ppy.sh/users/2086828), [littlepiggod](https://osu.ppy.sh/users/12331683), [SakaNaz](https://osu.ppy.sh/users/1784164) |
+| ::{ flag=ID }:: | **Indonesia** | **[Chroneko](https://osu.ppy.sh/users/5472877)**, [Netamaru](https://osu.ppy.sh/users/1830361), [Urabe Mikoto](https://osu.ppy.sh/users/1272422), [Galaxi](https://osu.ppy.sh/users/2552435), [EpanPan](https://osu.ppy.sh/users/13194580), [Madoka Ayukawa](https://osu.ppy.sh/users/1595221) |
+| ::{ flag=IT }:: | **Italy** | **[Camme79](https://osu.ppy.sh/users/5220794)**, [ArMa79](https://osu.ppy.sh/users/4982799), [SirWaffle79](https://osu.ppy.sh/users/11754842), [Sakhalin79](https://osu.ppy.sh/users/11158870), [Vito79](https://osu.ppy.sh/users/4039895), [Gnozza79](https://osu.ppy.sh/users/6438262) |
+| ::{ flag=JP }:: | **Japan** | **[Molqus](https://osu.ppy.sh/users/1927193)**, [-Rindou-](https://osu.ppy.sh/users/7941971), [eisuke0530](https://osu.ppy.sh/users/9814770), [hiroshiki](https://osu.ppy.sh/users/2667256), [Snowwind](https://osu.ppy.sh/users/2163585), [yukinya](https://osu.ppy.sh/users/22136262) |
+| ::{ flag=LV }:: | **Latvia** | **[AnApple7](https://osu.ppy.sh/users/12567935)** |
+| ::{ flag=MY }:: | **Malaysia** | **[AstralLoki](https://osu.ppy.sh/users/14100384)** |
+| ::{ flag=MX }:: | **Mexico** | **[Firu](https://osu.ppy.sh/users/10516547)** |
+| ::{ flag=NL }:: | **Netherlands** | **[Chatie](https://osu.ppy.sh/users/6524765)**, [Dutchman](https://osu.ppy.sh/users/10552580), [woodpamp](https://osu.ppy.sh/users/3809967), [K 3 V R A L](https://osu.ppy.sh/users/9852829), [Roasted Chicken](https://osu.ppy.sh/users/9461160), [Wesley](https://osu.ppy.sh/users/2407265) |
+| ::{ flag=NZ }:: | **New Zealand** | **[Lay](https://osu.ppy.sh/users/3768185)** |
+| ::{ flag=NO }:: | **Norway** | **[Mile](https://osu.ppy.sh/users/2760954)** |
+| ::{ flag=PE }:: | **Peru** | **[islux](https://osu.ppy.sh/users/5477873)** |
+| ::{ flag=PH }:: | **Philippines** | **[Roido](https://osu.ppy.sh/users/6829103)**, [Bunnrei](https://osu.ppy.sh/users/829284), [Crowley](https://osu.ppy.sh/users/6341006), [Maririn](https://osu.ppy.sh/users/1626093), [-Rustyy](https://osu.ppy.sh/users/16355636), [- Kielzu -](https://osu.ppy.sh/users/6221114) |
+| ::{ flag=PL }:: | **Poland** | **[BoberOfDarkness](https://osu.ppy.sh/users/3427748)**, [-Filow-](https://osu.ppy.sh/users/3157472), [Jakkubon](https://osu.ppy.sh/users/3396013), [Phob](https://osu.ppy.sh/users/6069462), [Skyleia](https://osu.ppy.sh/users/2958293), [trig0n](https://osu.ppy.sh/users/3704228) |
+| ::{ flag=RU }:: | **Russian Federation** | **[KitsunIvy](https://osu.ppy.sh/users/7055384)** |
+| ::{ flag=SG }:: | **Singapore** | **[Nazuna Amemiya](https://osu.ppy.sh/users/13966422)**, [Setsuen](https://osu.ppy.sh/users/2673742), [BINGBANGBONG](https://osu.ppy.sh/users/26637518), [uniqly](https://osu.ppy.sh/users/8876527), [wwPP2020](https://osu.ppy.sh/users/28498328) |
+| ::{ flag=KR }:: | **South Korea** | **[YesMyDarknesss](https://osu.ppy.sh/users/4158549)** |
+| ::{ flag=ES }:: | **Spain** | **[Patatitta](https://osu.ppy.sh/users/16294034)**, [Sprint-](https://osu.ppy.sh/users/13845399), [Alepe](https://osu.ppy.sh/users/15273403), [Emoadae](https://osu.ppy.sh/users/22598202), [MusicDropZ](https://osu.ppy.sh/users/12759554), [skyres00](https://osu.ppy.sh/users/10158490) |
+| ::{ flag=SE }:: | **Sweden** | **[Aceon](https://osu.ppy.sh/users/4452911)**, [DataPata](https://osu.ppy.sh/users/985360), [XiX1XiX1XiX1Xi](https://osu.ppy.sh/users/2205929), [Yukiteru Amano](https://osu.ppy.sh/users/1894511), [EclipZ](https://osu.ppy.sh/users/4586549), [Shameimaru](https://osu.ppy.sh/users/20340480) |
+| ::{ flag=CH }:: | **Switzerland** | **[MC2BP](https://osu.ppy.sh/users/11296097)**, [Byjumbur](https://osu.ppy.sh/users/16568987), [xXMysteryXx](https://osu.ppy.sh/users/11475426), [JulivS7](https://osu.ppy.sh/users/26857159), [Aqoz](https://osu.ppy.sh/users/16579719) |
+| ::{ flag=TW }:: | **Taiwan** | **[Beepu](https://osu.ppy.sh/users/4958376)** |
+| ::{ flag=TH }:: | **Thailand** | **[RAISE MY SWORD](https://osu.ppy.sh/users/17385454)**, [EzyS](https://osu.ppy.sh/users/16271283), [N3Marry](https://osu.ppy.sh/users/13222425), [-TANAKITO-](https://osu.ppy.sh/users/6037121), [Char0n](https://osu.ppy.sh/users/17838855), [pattarachai\_12016](https://osu.ppy.sh/users/1465079) |
+| ::{ flag=TR }:: | **Turkey** | **[lorem ipsum](https://osu.ppy.sh/users/17130789)** |
+| ::{ flag=GB }:: | **United Kingdom** | **[Matt\_H](https://osu.ppy.sh/users/4067115)** |
+| ::{ flag=US }:: | **United States** | **[Secre](https://osu.ppy.sh/users/2306637)** |
+| ::{ flag=VE }:: | **Venezuela** | **[jxrri](https://osu.ppy.sh/users/12686699)** |
+| ::{ flag=VN }:: | **Vietnam** | **[Shu](https://osu.ppy.sh/users/4744615)**, [Stardust Prism](https://osu.ppy.sh/users/8525921), [S h i g u r e](https://osu.ppy.sh/users/4372552), [mothernature](https://osu.ppy.sh/users/6403418), [Shiya](https://osu.ppy.sh/users/10378635), [\[ Primakien \]](https://osu.ppy.sh/users/23941998) |
+
+The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2dcba0393cd177d4b9b97cb9ccc60a#file-cwc-2023-player-list-csv).
 
 ## Ruleset
 
 ### Tournament rules
 
 1. The osu!catch World Cup is a country-based 3 versus 3 double-elimination team tournament, played on the osu!catch game mode.
-   - Players from countries or territories (as seen on their profile flag) that are under a protectorate, sovereign state, or otherwise closely related to another country may choose to play for that country **if** the country listed on their profile is unable to field enough players to form a valid team.
+   - Players from countries or territories (as seen on their profile flag) that are under a protectorate or sovereign state may choose to play for that country **if** the country listed on their profile is unable to field enough players to form a valid team. Refer to [this article](https://wikipedia.org/wiki/Dependent_territory#Lists_of_dependent_territories) for an overview of the criteria that is adopted.
    - *Notice: While this competition is slated to have a double-elimination Round of 32 bracket, it may be scaled down to a Round of 16 format if the player pool is insufficient.*
 2. Beatmap scoring is based on ScoreV2.
 3. The minimum size for a team is 4 players, and the maximum is 6.

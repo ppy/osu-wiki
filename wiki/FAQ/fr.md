@@ -4,21 +4,21 @@
 
 ### Je n'ai jamais joué à ce "Ouendan" - Qu'est-ce que c'est ?
 
-*[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)* est un jeu de rythme pour *Nintendo DS*. Il y a trois éléments de jeu avec lesquels il faut interagir sur l'écran tacticle: des cercles à toucher, les balles à suivre sur un chemin tracé, et des spinners à faire tourner autour du centre. Tous ces éléments sont synchronisés à des musiques japonaises populaires. Le jeu ressemble à ça:
+*[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)* est un jeu de rythme pour *Nintendo DS*. Il y a trois éléments de jeu avec lesquels il faut interagir sur l'écran tactile : des cercles à toucher, des balles à suivre sur un chemin tracé, et des spinners à faire tourner autour du centre. Tous ces éléments sont synchronisés à des musiques japonaises populaires. Le jeu ressemble à ça :
 
 ![Exemple de gameplay d'Osu! Tatakae! Ouendan sur Nintendo DS](/wiki/shared/Ouendan.jpg "Exemple de gameplay d'Osu! Tatakae! Ouendan sur Nintendo DS")
 
-Les cercles sont sur l'écran du bas, et l'histoire sur l'écran du haut. Chaque étape est grossièrement l'histoire d'une personne ayant un problème. c'est là que l'équipe *Ouendan* (cheer squad) intervient. Grâce au pouvoir magique du cheerleading masculin, le joueur doit aider les gens qui ont des problèmes.
+Les cercles sont sur l'écran du bas, et l'histoire sur l'écran du haut. Chaque étape est grossièrement l'histoire d'une personne ayant un problème. C'est là que l'équipe *Ouendan* (cheer squad) intervient. Grâce au pouvoir magique du cheerleading masculin, le joueur doit aider les gens qui ont des problèmes.
 
 ### Comment jouer ?
 
-*Explication complète: [osu!](/wiki/Game_mode/osu!)*
+*Explication complète : [osu!](/wiki/Game_mode/osu!)*
 
 La majorité des joueurs n'ayant pas d'écran tactile, le jeu a été fait pour être joué avec une souris, ainsi que l'utilisation d'une variété d'appareils de pointage. Différents styles de jeu peuvent être trouvés sur la page des [styles de jeu](/wiki/Gameplay/Play_style). Il y a quelques musiques qui vont pousser la souris et le joueur à leurs limites, mais toutes les beatmaps (classées ou approuvées) ont été testées et (la plupart) sont passables en utilisant seulement la souris.
 
 #### Bases du gameplay
 
-*Tutoriel: [osu! tutorial (new beginnings)](https://osu.ppy.sh/beatmapsets/1011011)*
+*Tutoriel : [osu! tutorial (new beginnings)](https://osu.ppy.sh/beatmapsets/1011011)*
 
 Le gameplay met l'accent sur:
 
@@ -70,7 +70,7 @@ La barre en haut à gauche est celle de la vie, qui diminuera à un rythme soute
 
 #### Contrôles
 
-Les contrôles par défaut d'osu! sont:
+Les contrôles par défaut d'osu! sont :
 
 | Souris | Clavier | Tablette/Écran Tactile |
 | :-- | :-- | :-- |
@@ -78,9 +78,9 @@ Les contrôles par défaut d'osu! sont:
 
 Les hit objects sur osu! acceptent n'importe quelle entrée de l'appareil, tant que chaque hit object est tapé à temps.
 
-Si le game modifier [Relax](/wiki/Gameplay/Game_modifier/Relax) est utilisé, seul le curseur fonctionnera. Utilisez le curseur pour suivre les hit objects, sans vous préoccuper de les taper. Les spinners doivent tout de même être faits.
+Si le modificateur de jeu [Relax](/wiki/Gameplay/Game_modifier/Relax) est utilisé, seul le curseur fonctionnera. Utilisez le curseur pour suivre les hit objects, sans vous préoccuper de les taper. Les spinners doivent tout de même être faits.
 
-Si le game modifier [Auto Pilot](/wiki/Gameplay/Game_modifier/Autopilot) est utilisé, seule l'entrée des appareils ne fonctionneront. Calculez le moment auquel taper les hit objects, sans vous occuper des mouvements du curseur. Les spinners iront à la vitesse du mod [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out).
+Si le modificateur de jeu [Auto Pilot](/wiki/Gameplay/Game_modifier/Autopilot) est utilisé, seule l'entrée des appareils ne fonctionneront. Calculez le moment auquel taper les hit objects, sans vous occuper des mouvements du curseur. Les spinners iront à la vitesse du mod [Spun Out](/wiki/Gameplay/Game_modifier/Spun_Out).
 
 ---
 
@@ -106,7 +106,7 @@ Cliquez sur le bouton `Mode` pour **ouvrir une liste des modes de jeu disponible
 
 ![Champ de jeu de Taiko](/wiki/shared/Taiko_playfield.jpg "Terrain de jeu osu!taiko")
 
-Pour les joueurs ayant une expérience de *Taiko no Tatsujin*:
+Pour les joueurs ayant une expérience de *Taiko no Tatsujin* :
 
 - Pas de danseurs chibi en bas (possible avec un storyboard)
 - La barre de vie doit être remplie à au moins 50% pour réussir la partie (ce qui n'est pas évident en utilisant le skin par défaut; jetez un oeil au [Skin Compendium](https://osu.ppy.sh/community/forums/topics/180864) pour un skin osu!taiko décent)
@@ -143,7 +143,7 @@ Les drumrolls peuvent être ignorés sans pénalité de vie, puisqu'ils ne donne
 
 ![Spinner de Taiko](/wiki/shared/Taiko_spinner.jpg "Spinner osu!taiko (denden)")
 
-Frappez le tambour interne et externe **dans l'ordre** (comme rouge, bleu, rouge, bleu, rouge, bleu, ...) jusqu'à ce que le compteur denden atteigne 0. La couleur de départ ne compte pas (on peut commencer par bleu si on le veut). Ne pas le finir résultera en une pénalité de vie, mais n'implique pas de combo brisé. Frapper la même couleur plusieurs fois d'affilée ne comptera pas pour réduire le compteur: il faut frapper alternativement le rouge et le bleu.
+Frappez le tambour interne et externe **dans l'ordre** (comme rouge, bleu, rouge, bleu, rouge, bleu, ...) jusqu'à ce que le compteur denden atteigne 0. La couleur de départ ne compte pas (on peut commencer par bleu si on le veut). Ne pas le finir résultera en une pénalité de vie, mais n'implique pas de combo brisé. Frapper la même couleur plusieurs fois d'affilée ne comptera pas pour réduire le compteur : il faut frapper alternativement le rouge et le bleu.
 
 Il n'augmente pas le compteur de combo, et ne redonne pas de vie non plus. Chaque frappe denden ajoute 300 au score, et la complétion du denden vous donnera le score d'une note parfaite (GREAT).
 
