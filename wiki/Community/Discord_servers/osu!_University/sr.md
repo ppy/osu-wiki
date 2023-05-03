@@ -6,7 +6,7 @@
 
 #### osu! University
 
-![Ознака сервера](img/logo.png "osu! University Discord server logo, дизајнирано од стране корисника joiechii")
+![Ознака сервера](img/logo.png "osu! University Discord лого сервера, дизајниран од стране корисника joiechii")
 
 |  |  |
 | :-- | :-- |
@@ -18,9 +18,9 @@
 
 :::
 
-**osu! University** је [Discord](https://discord.com) сервер заједнице са фокусом на дискусију о напредовањем, углавном у [osu! стандардном моду](/wiki/Game_mode/osu!). Редовно је домаћин разних догађаја као што су интервјуи са врхунским играчима, [турнири](/wiki/Tournaments), и студије у вези са напредовањем, такође је добро познат по хостингу плаћених тренерских услуга.
+**osu! University** је [Discord](https://discord.com) сервер заједнице са фокусом на дискусију о напредовању, углавном у [osu! стандардном моду](/wiki/Game_mode/osu!). Редовно је домаћин разних догађаја као што су интервјуи са најбољим играчима, [турнири](/wiki/Tournaments), и студије у вези са напредовањем, такође је добро познат по хостингу плаћених тренинга.
 
-Сервер такође садржи основе за развој, тестирање и подршку [Rewind](https://osu.ppy.sh/community/forums/topics/1451845) програма, који је алат за анализу [репризе](/wiki/Gameplay/Replay).
+Сервер такође има место за развој, тестирање и подршку [Rewind](https://osu.ppy.sh/community/forums/topics/1451845) програма, који је алат за анализу [снимака резултата](/wiki/Gameplay/Replay).
 
 ## Особље
 
@@ -40,6 +40,6 @@
 | 2022-02-01/2022-03-01 | Издржљивост Тапкања | [Документ информација](https://docs.google.com/document/d/14yY4_9E6q8kbOwPGtvWG7z5MCQsQGrX168hAOZFAK_M/edit), [документ резултата](https://docs.google.com/document/d/1aJmRXZTFCR2FirXQHC5f-TTYUCimpBPWGBg-bZPb_YE/edit), [видео за дискусију о резултатима](https://www.youtube.com/watch?v=BINGyy43T4U) |
 | 2022-02-20 | [osu! састанак заједнице](/wiki/Community/osu!_community_meetings) #11 | [YouTube VOD](https://www.youtube.com/watch?v=d66pU5lsHvE), [сажетак чланка](https://osu.ppy.sh/home/news/2022-03-07-community-meetings-recap) |
 | 2022-03-06 | [osu! састанак заједнице](/wiki/Community/osu!_community_meetings) #12 | [YouTube VOD](https://www.youtube.com/watch?v=HimCHAnPCCY), [сажетак чланка](https://osu.ppy.sh/home/news/2022-03-07-community-meetings-recap) |
-| 2022-05-20/2022-05-22 | [osu! Догађај разговора: Превазилажење препрека](/wiki/Community/osu!_Talk_Event/Overcoming_Obstacles) | [YouTube плејлиста](https://www.youtube.com/playlist?list=PL_QhgSQeB2zC5_Go2esnB7_64Egv5HmSL) |
+| 2022-05-20/2022-05-22 | [osu! Talk Event: Превазилажење препрека](/wiki/Community/osu!_Talk_Event/Overcoming_Obstacles) | [YouTube плејлиста](https://www.youtube.com/playlist?list=PL_QhgSQeB2zC5_Go2esnB7_64Egv5HmSL) |
 | 2022-10-01/2022-10-31 | osu! Месец напредовања | [Forum објава](https://osu.ppy.sh/community/forums/topics/1649135), [плејлиста интервјуа са најбољим играчима](https://www.youtube.com/playlist?list=PL_QhgSQeB2zDRSd-xm9lQrkmGY2wJTXvH) |
 | 2022-10-08/2022-10-30 | King of the Hill турнир | [Forum објава](https://osu.ppy.sh/community/forums/topics/1649138) |

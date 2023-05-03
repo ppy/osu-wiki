@@ -12,7 +12,7 @@ tags:
 
 #### osu! Medal Hunters
 
-![Ознака сервера](img/logo.png "The osu! Medal Hunter Discord ознака, дизајнирано од стране корисника Tanza3D")
+![Ознака сервера](img/logo.png "The osu! Medal Hunter Discord ознака, дизајнирана од стране корисника Tanza3D")
 
 |  |  |
 | :-- | :-- |
