@@ -22,7 +22,7 @@ Check out the new tunes for yourself:
 
 High-tempo jazz is [**Toromaru**](https://osu.ppy.sh/beatmaps/artists/279)'s specialty, and it perfectly suits the rhythmic complexity that osu!taiko needs.
 
-[Sleight of Hand](https://osu.ppy.sh/beatmapsets/1972518) mapped by [Nurend](https://osu.ppy.sh/users/9905079) slotted into the [Semifinals mappool](/wiki/Tournaments/TWC/2023#semifinals) as a *No Mod* pick, and led to *two* matches that were decided by less than 20,000 score difference!
+[Sleight of Hand](https://osu.ppy.sh/beatmapsets/1972518) mapped by [Nurend](https://osu.ppy.sh/users/9905079) slotted into the [Semifinals mappool](/wiki/Tournaments/TWC/2023#semifinals) as a *No Mod* pick, and led to *two* matches that were decided by less than 20,000 score!
 
 <audio controls>
     <source src="LINK" type="audio/mpeg">
