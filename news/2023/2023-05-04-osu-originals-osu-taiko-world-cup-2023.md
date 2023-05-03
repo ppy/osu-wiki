@@ -4,7 +4,7 @@ title: "osu! originals - osu!taiko World Cup 2023"
 date: 2023-05-04 11:00:00 +0000
 ---
 
-Japan won the [osu!taiko World Cup](/wiki/Tournaments/TWC) for the 10th year in a row, but this is the first TWC with **5 brand-new songs** created specifically for the tournament!
+Japan may have won the [osu!taiko World Cup](/wiki/Tournaments/TWC) for the 10th year in a row, but this is the first TWC with **5 brand-new songs** created specifically for the tournament!
 
 ![](/wiki/shared/news/banners/featured-artist.jpg)
 
@@ -62,7 +62,7 @@ For pure chaos, give your best attempt to [this map](https://osu.ppy.sh/beatmaps
 
 The **Grand Finals tiebreaker** has always been the climax of any tournament's map pool, so bringing [**DJ Genki / Gram**](https://osu.ppy.sh/beatmaps/artists/295) on board was a must.
 
-Prepare your hands for over 5 minutes of [this 8.5 star map](https://osu.ppy.sh/beatmapsets/1981053) created by [Nifty](https://osu.ppy.sh/users/4956097) and [rubies87](https://osu.ppy.sh/users/4949934). Try not to get any 100s on those last 4 notes too. :)
+Prepare your hands for over 5 minutes of [this 8.5-star map](https://osu.ppy.sh/beatmapsets/1981053) created by [Nifty](https://osu.ppy.sh/users/4956097) and [rubies87](https://osu.ppy.sh/users/4949934). Try not to get any 100s on those last 4 notes too. :)
 
 <audio controls>
     <source src="LINK" type="audio/mpeg">
@@ -82,6 +82,6 @@ We'd also like to give [mangomizer](https://osu.ppy.sh/users/1893718) a pat on t
 
 Keen ears may have also noticed something special about this year's osu!taiko World Cup map pool: **every song was part of our Featured Artist library!** This is the first time any world cup has used exclusively licensed music, showing just how much music we've licensed over the last few years. (Thanks for that too, mango.)
 
-That's all for now! A new Featured Artist arrives this weekend, so stay tuned for that.
+That's all for now! A new Featured Artist will be arriving this weekend, so stay tuned for that.
 
 —pishifat
