@@ -48,7 +48,7 @@ Considering [**A? / Aquestion**](https://osu.ppy.sh/beatmaps/artists/173) is [an
     <source src="LINK" type="audio/mpeg">
 </audio>
 
-### 7_7 feat. kanase vavzed - 7D
+### 7_7 feat. kasane vavzed - 7D
 
 [**7_7**](https://osu.ppy.sh/beatmaps/artists/356) was [revealed as a Featured Artist](https://osu.ppy.sh/home/news/2023-04-23-new-featured-artist-7-7) alongside the [Grand Finals map pool](/wiki/Tournaments/TWC/2023#grand-finals) showcase just a couple weeks ago, pulling yet another osu!taiko resident into our Featured Artist catalogue!
 
