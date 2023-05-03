@@ -8,7 +8,7 @@ Japan may have won the [osu!taiko World Cup](/wiki/Tournaments/TWC) for the 10th
 
 ![](/wiki/shared/news/banners/featured-artist.jpg)
 
-We call those songs [**osu! originals**](/wiki/osu!_originals) because... they're original songs made for osu!. While our names lack creativity, the creativity in new songs from [2023's osu!taiko World Cup](/wiki/Tournaments/TWC/2023) make up for it.
+We call those songs [**osu! originals**](/wiki/osu!_originals) because... they're original songs made for osu!. While our names lack creativity, the creativity in new songs from [2023's osu!taiko World Cup](/wiki/Tournaments/TWC/2023) makes up for it.
 
 Check out the new tunes for yourself:
 
