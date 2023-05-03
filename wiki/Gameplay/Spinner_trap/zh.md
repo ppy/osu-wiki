@@ -4,7 +4,7 @@ stub: true
 
 <!-- TODO: images -->
 
-# 滑条陷阱
+# 转盘陷阱
 
 滑条陷阱是 [osu!catch](/wiki/Game_mode/osu!catch) 游戏模式中的术语，意为在香蕉雨<!-- TODO: link -->（即 osu!catch 的[转盘](/wiki/Gameplay/Hit_object/Spinner)）后，紧接着放置了通常不容易接住的[水果](/wiki/Gameplay/Hit_object/Fruit)。有几种原因可能会导致这种情况出现：
 
