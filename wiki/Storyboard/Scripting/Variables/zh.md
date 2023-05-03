@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: c6e4ace59bf0c3be43617fda1a36a5c6dc0af3c3
+---
+
 # 变量
 
 在 .osb文件 里的其他地方，你可以把一整行字符串作为**变量**（注意这个变量在游戏过程中不可变，对于有程序编写基础的人来说，这个是常量而不是变量）*.osu文件 并不支持这个用法。*
