@@ -289,6 +289,8 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad
 
 ### Grand Finals
 
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1jdC5skkPBgeqOuasLkkihnxpDYbBPK7StmmtlL_TF7M/?rm=minimal).
+
 Saturday, 29 April 2023:
 
 | Team A |  |  | Team B | Match link |
