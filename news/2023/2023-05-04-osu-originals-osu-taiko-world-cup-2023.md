@@ -38,9 +38,9 @@ As a master of hardcore and trance, [**LV.4**](https://osu.ppy.sh/beatmaps/artis
     <source src="LINK" type="audio/mpeg">
 </audio>
 
-### A? - Umami Blaze
+### Aquestion - Umami Blaze
 
-Considering [**A?**](https://osu.ppy.sh/beatmaps/artists/173) is [an osu!taiko player](https://osu.ppy.sh/users/12011880), it's no surprise that they know exactly what it takes to create an engaging song for osu!taiko. 
+Considering [**A? / Aquestion**](https://osu.ppy.sh/beatmaps/artists/173) is [an osu!taiko player](https://osu.ppy.sh/users/12011880), it's no surprise that they know exactly what it takes to create an engaging song for osu!taiko. 
 
 [Umami Blaze](https://osu.ppy.sh/beatmapsets/1976814) mapped by [youtune3](https://osu.ppy.sh/users/6442010) was part of the [Finals map pool](/wiki/Tournaments/TWC/2023#finals) as a no-mod pick. Even if speed is your specialty, this **336 BPM** map might be a bit fast for you.
 
@@ -74,7 +74,7 @@ Of course, if you're interested in mapping any of these new tracks, they're avai
 
 - [**Toromaru**](https://osu.ppy.sh/beatmaps/artists/279)
 - [**LV.4**](https://osu.ppy.sh/beatmaps/artists/214)
-- [**A?**](https://osu.ppy.sh/beatmaps/artists/173)
+- [**A? / Aquestion**](https://osu.ppy.sh/beatmaps/artists/173)
 - [**7_7**](https://osu.ppy.sh/beatmaps/artists/356)
 - [**DJ Genki / Gram**](https://osu.ppy.sh/beatmaps/artists/295)
 
