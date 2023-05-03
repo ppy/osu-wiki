@@ -32,7 +32,7 @@
 
 ![](img/github-actions-workflow-dialog.png "GitHub 操作 工作流 - 运行工作流")
 
-- **你想要工作流操作的来源分支 (Use workflow from)**：你想要同步的来源分支名称。默认为 `master`。
+- **你想要工作流操作的分支 (Use workflow from)**：你想要与上游仓库同步的分支名称。默认为 `master`。
 - **是否覆盖目标仓库里的任何更改 (Overwrite any changes in the target repository)**：
   - `true`：覆盖你的分支内的所有内容，还你一个纯净的  `ppy/osu-wiki` 的 `master` 分支。
   - `false`（默认）：将你的更改与 `ppy/osu-wiki` 的更改合并。
