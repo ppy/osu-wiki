@@ -79,4 +79,4 @@ Five (5) songs were selected from the Featured Artist library. These songs were 
 | [Omoi](https://osu.ppy.sh/beatmaps/artists/104) - Ohne Herz | 3:26 | 210 | [.osz](https://assets.ppy.sh/artists/104/osz/Omoi%20-%20Ohne%20Herz.osz) |
 | [MuryokuP](https://osu.ppy.sh/beatmaps/artists/120) - My Savior | 2:49 | 190 | [.osz](https://assets.ppy.sh/artists/120/Unfinished%20Eden/MuryokuP%20-%20My%20Savior.osz) |
 | [Yunosuke](https://osu.ppy.sh/beatmaps/artists/244) - Ziqqurat | 3:52 | 163 | [.osz](https://assets.ppy.sh/artists/244/Ziqqurat/Yunosuke%20-%20Ziqqurat.osz) |
-| [Rohi](https://osu.ppy.sh/beatmaps/artists/82) - Hitotsu no Chikai yo, Eien no Uta to Nare | 2:35 | 130 | [.osz](https://assets.ppy.sh/artists/82/osz/Rohi%20-%20Hitotsu%20no%20Chikai%20yo,%20Eien%20no%20Uta%20to%20Nare.osz) |
+| [Rohi](https://osu.ppy.sh/beatmaps/artists/82) - Hitotsu no Chikai yo, Eien no Uta to Nare | 3:39 | 225 | [.osz](https://assets.ppy.sh/artists/82/osz/Rohi%20-%20Hitotsu%20no%20Chikai%20yo,%20Eien%20no%20Uta%20to%20Nare.osz) |
