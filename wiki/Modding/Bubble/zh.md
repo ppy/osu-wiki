@@ -16,7 +16,7 @@ tags:
 - [谱面审核成员 (BN)](/wiki/People/Beatmap_Nominators)
 - [质量保证团队 (QAT)](/wiki/People/Quality_Assurance_Team)
 
-在[旧版审核流程](/wiki/Modding/Forum_modding)中，[原型泡泡](/wiki/Modding/Proto-bubble)系统被取代后，如果摸图团队给予了一个普通泡泡，则表示他们认为谱面已经准备好上架了。最终，另一个BAT 或者 BN 会检查被泡过的谱面。如果需要的话，他们会稍微修改谱面，即可将谱面推至[上架](/wiki/Beatmap/Category#上架-(ranked))或者[达标](/wiki/Beatmap/Category#达标-(approved))状态。
+在[旧版审核流程](/wiki/Modding/Forum_modding)中，[原型泡泡](/wiki/Modding/Proto-bubble)系统被取代后，如果摸图团队给予了一个普通泡泡，则表示他们认为谱面已经准备好上架了。最终，另一个 BAT 或者 BN 会检查被泡过的谱面。如果需要的话，他们会稍微修改谱面，即可将谱面推至[上架](/wiki/Beatmap/Category#上架-(ranked))或者[达标](/wiki/Beatmap/Category#达标-(approved))状态。
 
 在当今的[谱面审核流程](/wiki/Beatmap_ranking_procedure)中，泡泡等于[谱面审核成员 (BN)](/wiki/People/Beatmap_Nominators) 给出的第一个[提名](/wiki/Beatmap_ranking_procedure#nominations)。
 
