@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: a704d0375b650c2b6e5ad45a4f30db88719500d4
 ---
 
 # osu!catch 上架标准
