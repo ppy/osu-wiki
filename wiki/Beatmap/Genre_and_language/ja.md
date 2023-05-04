@@ -21,7 +21,7 @@ tags:
 
 ## ビートマップのジャンルと言語の変更方法
 
-ジャンルと言語はビートマップが掲載されているページの鉛筆ボタンを押すことにより変更できる。これができるのはそのビートマップの[役割](/wiki/People/osu!_team#user-groups)とビートマップの[カテゴリー](/wiki/Beatmap/Category#present-categories)で異なる:
+ジャンルと言語はビートマップが掲載されているページの鉛筆ボタンを押すことにより変更できる。これができるのはそのビートマップの[役割](/wiki/People/User_group)とビートマップの[カテゴリー](/wiki/Beatmap/Category#present-categories)で異なる:
 
 - マップセット所有者はビートマップが[WIP](/wiki/Beatmap/Category#work-in-progress-and-pending)、[Pending](/wiki/Beatmap/Category#work-in-progress-and-pending)または[Graveyard](/wiki/Beatmap/Category#graveyard)で[ノミネーション](/wiki/Beatmap_ranking_procedure#nominations)が一つもないとき変更できる。
 - [ビートマップノミネーター](/wiki/People/Beatmap_Nominators)はビートマップが[Qualified](/wiki/Beatmap/Category#qualified)、WIPまたはPendingのとき変更できる。

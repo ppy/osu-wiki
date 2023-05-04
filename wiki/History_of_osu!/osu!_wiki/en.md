@@ -29,15 +29,15 @@ needs_cleanup: true
 | :-- | :-- |
 | 2016-08-26 | ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) [created the osu-wiki repository](https://github.com/ppy/osu-wiki/tree/3433cbeeda9303a470647cad1c338d43f4272a2e). ::{ flag=US }:: [craftu](https://osu.ppy.sh/users/16468119) and ::{ flag=US }:: [XYLOO](https://osu.ppy.sh/users/27809907) ported the MediaWiki content to the repository in a week. |
 | 2016-09 | Most of the pages except the images are moved to the repository, with unsolved syntax-translation errors stemming from language differences between Markdown and MediaWiki. |
-| 2017-01 | osu!web support of the osu! wiki done by nanaya. |
+| 2017-01 | osu!web support of the osu! wiki done by ::{ flag=JP }:: [nanaya](https://osu.ppy.sh/users/2387883). |
 | 2017-01-05 | The osu! wiki project suggested by ::{ flag=AU }:: [Ephemeral](https://osu.ppy.sh/users/102335). |
 | 2017-01-26 | The osu! wiki got mentioned on peppy's blog. |
-| 2017-05-22 | The [osu!news archive is now stored on the osu! wiki (in text form only)](https://github.com/ppy/osu-wiki/pull/252). |
-| 2017-05-30 | [Page redirection is finally implemented in the osu! wiki](https://github.com/ppy/osu-web/pull/1144). |
+| 2017-05-22 | The [osu!news archive is now stored on the osu! wiki](https://github.com/ppy/osu-wiki/pull/252) (in text form only). |
+| 2017-05-30 | Page redirection [is finally implemented](https://github.com/ppy/osu-web/pull/1144) in the osu! wiki. |
 | 2017-06 | ::{ flag=PL }:: [TPGPL](https://osu.ppy.sh/users/3944705) is promoted with write-access for the osu-wiki repository. Search service on osu!web for the osu! wiki is implemented. |
-| 2018-02-07 | [Article tagging support was implemented](https://github.com/ppy/osu-web/pull/2331) to allow better search results for wiki articles. |
+| 2018-02-07 | Article tagging support [was implemented](https://github.com/ppy/osu-web/pull/2331) to allow better search results for wiki articles. |
 | 2018–2021 | *Undocumented* |
-| 2021-05-12 | [First implementation of infoboxes](https://github.com/ppy/osu-web/pull/7546) that may add additional information to articles. |
-| 2021-06-01 | [Basic implementation](https://github.com/ppy/osu/pull/12950) of the osu! wiki in [osu!(lazer)](/wiki/Client/Release_stream/Lazer) was added (English only). |
-| 2021-08-08 | [Gallery support](https://github.com/ppy/osu-web/pull/8126) was implemented. Now, images from one article can be viewed at once in a gallery. |
-| 2021-08-12 | [Support for footnotes was integrated](https://github.com/ppy/osu-web/pull/8125). This allows to add links to notes and references for placing them in a specific section at the end of each article. |
+| 2021-05-12 | [First implementation](https://github.com/ppy/osu-web/pull/7546) of infoboxes that may add additional information to articles. |
+| 2021-06-01 | Basic implementation of the osu! wiki in [osu!(lazer)](/wiki/Client/Release_stream/Lazer) [was added](https://github.com/ppy/osu/pull/12950) (English only). |
+| 2021-08-08 | Gallery support [was implemented](https://github.com/ppy/osu-web/pull/8126). Now, images from one article can be viewed at once in a gallery. |
+| 2021-08-12 | Support for footnotes [was integrated](https://github.com/ppy/osu-web/pull/8125). This allows to add links to notes and references for placing them in a specific section at the end of each article. |

@@ -44,7 +44,7 @@ osu! World Cup merupakan turnamen antar negara yang menganut sistem pertandingan
 | [osu!taiko World Cup 2020](TWC/2020) | 2020-03-07 | 2020-04-12 | ::{ flag=JP }:: Jepang | ::{ flag=KR }:: Korea Selatan | ::{ flag=GB }:: Britania Raya |
 | [osu!taiko World Cup 2021](TWC/2021) | 2021-03-06 | 2021-04-11 | ::{ flag=JP }:: Jepang | ::{ flag=KR }:: Korea Selatan | ::{ flag=BR }:: Brazil |
 | [osu!taiko World Cup 2022](CWC/2022) | 2022-03-12 | 2022-04-24 | ::{ flag=JP }:: Jepang | ::{ flag=KR }:: Korea Selatan | ::{ flag=ID }:: Indonesia |
-| [osu!taiko World Cup 2023](CWC/2023) | 2023-03-18 | 2023-04-30 | *TBD* | *TBD* | *TBD* |
+| [osu!taiko World Cup 2023](CWC/2023) | 2023-03-18 | 2023-04-30 | ::{ flag=JP }:: Jepang | ::{ flag=TW }:: Taiwan | ::{ flag=DE }:: Jerman |
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch World Cup
 

@@ -170,6 +170,7 @@ These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-
 
 | Song | Beatmap | Notes |
 | :-: | :-: | :-- |
+| 7\_7 - Meriba[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1744973) | Grand Finals NM2 |
 | [agata - AMAIWTIWNKMS](https://soundcloud.com/user-493301624/vent) | [#1](https://osu.ppy.sh/beatmapsets/1744774) | Grand Finals NM6 |
 | [breakchild - NEUROTYPICALSYSTEM](https://breakbchild.bandcamp.com/track/neurotypicalsystem-twc-tiebreaker) | [#1](https://osu.ppy.sh/beatmapsets/1734223) | Semifinals tiebreaker |
 | [J-CORE SLi//CER - "Ongaku purode\~yusa" no heikin-tekina seishin jotai](https://soundcloud.com/jcoreslicer/average-mental-state-of-the-music-producer) | [#1](https://osu.ppy.sh/beatmapsets/1744775) | Grand Finals NM1 |
@@ -180,10 +181,10 @@ These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-
 | Song | Beatmap | Notes |
 | :-: | :-: | :-- |
 | 7\_7 feat. kasane vavzed - 7D[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1980743) | Grand Finals NM3 |
-| Aquestion - Umami Blaze[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1976814) | Finals NM3 |
-| Gram - Sigrdrifa[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1981053) | Grand Finals tiebreaker |
-| LV.4 feat. Mawata Spica - Vortex of Sorrow[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1980701) | Grand Finals FM3 |
-| Toromaru - Sleight of Hand[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1972518) | Semifinals NM2 |
+| Aquestion - Umami Blaze[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1976814) | Finals NM3 |
+| Gram - Sigrdrifa[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1981053) | Grand Finals tiebreaker |
+| LV.4 feat. Mawata Spica - Vortex of Sorrow[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1980701) | Grand Finals FM3 |
+| Toromaru - Sleight of Hand[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1972518) | Semifinals NM2 |
 
 #### ![](/wiki/shared/mode/catch.png) [osu!catch World Cup 2021](/wiki/Tournaments/CWC/2021)
 
@@ -476,7 +477,7 @@ These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-
 
 | Song | Beatmap | Notes |
 | :-: | :-: | :-- |
-| [月見 静華 x LUNARiUM - Fight Against the Past](https://lunariumgk.bandcamp.com/track/fight-against-the-past) | [#1](https://osu.ppy.sh/beatmapsets/1828541) | Grand Finals tiebreaker |
+| [Tsukimi Shizuka x LUNARiUM - Fight Against the Past](https://lunariumgk.bandcamp.com/track/fight-against-the-past) | [#1](https://osu.ppy.sh/beatmapsets/1828541) | Grand Finals tiebreaker |
 
 #### ![](/wiki/shared/mode/mania.png) [osu!mania LN Tournament 3](/wiki/Tournaments/o!mLN/3)
 
