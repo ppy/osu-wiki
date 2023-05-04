@@ -11,7 +11,7 @@ layout: main_page
 
 # 시작하기
 
-아래의 주요 문서들과 가이드가 osu!에 적응하는 데 도움을 줄 것입니다. 문제를 발견하거나 도움이 필요하다면 [Help 포럼](https://osu.ppy.sh/forum/5)에 방문하여 도움을 요청하세요,
+아래의 주요 문서들과 가이드가 osu!에 적응하는 데 도움을 줄 것입니다. 문제를 발견하거나 도움이 필요하다면 [Help 포럼](https://osu.ppy.sh/forum/5)에 방문하여 도움을 요청하세요.
     
 [규칙](/wiki/Rules) • [설치 방법](/wiki/Client/Installation) • [계정 만들기](/wiki/Registration) • [고객 센터](/wiki/Help_centre)
 
