@@ -10,43 +10,43 @@
   - 对 Windows 8.1+、 macOS、 Linux、 iOS 与 Android 的本地支持
   - 所有游戏模式的移动设备输入方式
 - 输入
-  - Built-in tablet driver
-  - Midi controller support
-  - Gamepad support
+  - 自带数位板驱动
+  - 支持 Midi 控制器
+  - 支持游戏控制器
 - 重新设计界面
-  - First-run setup wizard
-  - Storyboards in the main menu
-  - Rewind F2
-  - Hiding difficulties
-  - Soft deletion
-  - More screen scaling options
-  - Settings can be changed everywhere and they'll take effect immediately
-  - New statistics in the results and song select screens
-- Website integration for leaderboards, news, wiki, changelog, beatmap listing, beatmap info, and profile pages
+  - 首次启动设置向导
+  - 主菜单中的故事板
+  - F2 的倒带功能
+  - 隐藏难度
+  - 软删除
+  - 更多的屏幕缩放选项
+  - 可以随处改变设置，改动会立即生效
+  - 结果屏幕、歌曲选择屏幕中的新统计数据
+- 排行榜、新闻、 wiki、更新日志、谱面列表与信息、个人档案的网页集成
 - 大量新模组
 - 模组自定义设置
 - 新的多人游戏功能
-  - New "playlist" feature
-  - Unlimited lobby sizes
-  - Automatic beatmap queues
+  - 新的“歌单”功能
+  - 房间大小无限制
+  - 谱面自动排队
 - 新的编辑器功能
-  - Per-segment curve types for sliders
-  - Slider splitting and merging
-  - New "verify" tab
-- 自定义游戏模式支持
+  - 滑条的每段曲线类型设置
+  - 滑条拆分与合并
+  - 新的“检查”标签页
+- 支持自定义游戏模式
 - 游玩
-  - Two new built-in skins
-  - Replay seeking
-  - Beatmap (local) offset auto-calibration
-- Built-in skin editor with customisable skinning components
-  - Song density graph
-  - Performance points counter
-  - Unstable rate counter
-  - Longest combo counter
-  - Custom text components, beatmap information displays
-  - Custom static sprites
-  - Judgement counter
-  - Clicks per second counter
+  - 两个新的自带皮肤
+  - 回放定位
+  - 自动校准谱面（本地）偏移量
+- 内置皮肤编辑器，带有可自定义的皮肤组件
+  - 歌曲物件密度图
+  - 表现分 (pp) 计数器
+  - 不稳定率 (ur) 计数器
+  - 最大连击数计数器
+  - 自定义文字组件、谱面信息显示
+  - 自定义静态精灵图
+  - 判定计数器
+  - 每秒点击数计数器
 - osu! 模式中的渐出滑条
 - osu!taiko 中的游玩区域后不再出现黑条
 - osu!mania 中基于时间轴测定的音符颜色
@@ -55,383 +55,383 @@
 
 ### 常规
 
-#### Song playback ramps up and down when pausing and unpausing
+#### 暂停与取消暂停时，会加快/减慢歌曲播放
 
-This makes it harder to continue from a pause in the middle of active gameplay, preventing abuse of pausing to some extent.
+这样会使得游玩过程中暂停后更难继续游玩，从而在某种程度上避免滥用暂停功能。
 
 |  |  |
 | :-- | :-: |
-| Breaks backwards compatibility | No |
-| Classic mod revert support | No |
-| Intentionally changed | Yes |
-| Needs further consideration | Yes |
+| 破坏向后兼容性 | 否 |
+| Classic 模组的恢复支持 | 否 |
+| 有意更改 | 是 |
+| 需要进一步考虑 | 是 |
 
-#### The Easy mod no longer pauses gameplay when recovering from failure
+#### 使用 Easy 模组从失败中恢复时不再暂停
 
 <!-- paragraph? -->
 
 |  |  |
 | :-- | :-: |
-| Breaks backwards compatibility | No |
-| Classic mod revert support | No |
-| Intentionally changed | No |
-| Needs further consideration | Yes |
+| 破坏向后兼容性 | 否 |
+| Classic 模组的恢复支持 | 否 |
+| 有意更改 | 否 |
+| 需要进一步考虑 | 是 |
 
-#### The health system is different
+#### 血量系统不同
 
-This is mostly due to changes to the judgement system. For example, Geki and Katu judgements do not exist in lazer, which affected health on stable.
+这主要是由于判定系统的改动。在稳定版中影响血量的“激”与“喝”判定在 lazer 中已不存在。
 
 |  |  |
 | :-- | :-: |
-| Breaks backwards compatibility | Yes |
-| Classic mod revert support | No |
-| Intentionally changed | Yes |
-| Needs further consideration | Yes |
+| 破坏向后兼容性 | 是 |
+| Classic 模组的恢复支持 | 否 |
+| 有意更改 | 是 |
+| 需要进一步考虑 | 是 |
 
-#### All game modes use the same grading system
+#### 所有游戏模式共用一套评价系统
 
-All game modes use a grading system similar to the one in osu!mania on stable (c.f. [Grade](/wiki/Gameplay/Grade)).
+所有游戏模式使用类似于稳定版的 osu!mania 模式的评价系统（参见：[评价](/wiki/Gameplay/Grade)）。
 
-| Grade | Condition |
+| 评价 | 条件 |
 | :-: | :-- |
-| SS | 100% accuracy |
-| S | At least 95% accuracy |
-| A | At least 90% accuracy |
-| B | At least 80% accuracy |
-| C | At least 70% accuracy |
-| D | Anything else |
+| SS | 100% 准确度 |
+| S | 至少 95% 准确度 |
+| A | 至少 90% 准确度 |
+| B | 至少 80% 准确度 |
+| C | 至少 70% 准确度 |
+| D | 其他情况 |
 
 |  |  |
 | :-- | :-: |
-| Breaks backwards compatibility | Yes |
-| Classic mod revert support | No |
-| Intentionally changed | Yes |
-| Needs further consideration | Yes |
+| 破坏向后兼容性 | 是 |
+| Classic 模组的恢复支持 | 否 |
+| 有意更改 | 是 |
+| 需要进一步考虑 | 是 |
 
-#### Hit window edge calculations do not match stable
+#### 打击窗口临界值的计算方式不同
 
-When a hit lands right at the edge of the hit window, a different judgement may be given depending on the client version.
+取决于客户端版本，可能会对落在打击窗口临界值处的打击给出不同判定。
 
-| Game mode | Comparison (stable) | Comparison (lazer) | Comparison (lazer replay) |
+| 游戏模式 | 比较 （稳定版） | 比较 (lazer) | 比较 (lazer 回放模式) |
 | :-- | :-- | :-- | :-- |
 | osu! | `abs(round(hit error)) < floor(hit window)` | `abs(hit error) <= hit window` | `abs(round(hit error)) <= hit window` |
-| osu!taiko | `abs(round(hit error)) < floor(hit window)`, except for the miss window which uses `<=` | `abs(hit error) <= hit window` | `abs(round(hit error)) <= hit window` |
+| osu!taiko | `abs(round(hit error)) < floor(hit window)`，使用 `<=`的 miss 窗口除外 | `abs(hit error) <= hit window` | `abs(round(hit error)) <= hit window` |
 | osu!mania | `abs(round(hit error)) <= floor(hit window)` | `abs(hit error) <= hit window` | `abs(round(hit error)) <= hit window` |
 
 |  |  |
 | :-- | :-: |
-| Breaks backwards compatibility | Yes |
-| Classic mod revert support | No |
-| Intentionally changed | Yes |
-| Needs further consideration | Yes |
+| 破坏向后兼容性 | 是 |
+| Classic 模组的恢复支持 | 否 |
+| 有意更改 | 是 |
+| 需要进一步考虑 | 是 |
 
 ### osu!
 
-#### Notelock has been adjusted to be more lenient
+#### 音符锁调整得更宽松
 
 ![](img/notelock.gif)
 
-Recovering from a miss in dense patterns has been made easier.
+在密集排法中 miss 后更容易恢复。
 
 |  |  |
 | :-- | :-: |
-| Breaks backwards compatibility | Yes |
-| Classic mod revert support | Yes |
-| Intentionally changed | Yes |
-| Needs further consideration | No |
+| 破坏向后兼容性 | 是 |
+| Classic 模组的恢复支持 | 是 |
+| 有意更改 | 是 |
+| 需要进一步考虑 | 否 |
 
-#### Slider head circles require accuracy when hitting
+#### 点击滑条头时要求准确度
 
 ![](img/slideracc.gif)
 
-Until lazer, sliders have only required the accuracy of a 50/MEH judgement to reward a perfect score. This was done for historic reasons, but feels bad for a rhythm game. Going forward, sliders will require hit accuracy for their initial click.
+在 lazer 之前，滑条只需 50/MEH 准确度判定，即可获得 perfect 得分。这么做是出于历史原因，但对于音游来说觉得很不好。接下来，一开始点击滑条时也需要准确度。
 
 |  |  |
 | :-- | :-: |
-| Breaks backwards compatibility | Yes |
-| Classic mod revert support | Yes |
-| Intentionally changed | Yes |
-| Needs further consideration | No |
+| 破坏向后兼容性 | 是 |
+| Classic 模组的恢复支持 | 是 |
+| 有意更改 | 是 |
+| 需要进一步考虑 | 否 |
 
-#### Slider head circle follows track snaking when not hit
+#### 未点击时，滑条头沿路径移动
 
 ![](img/moving-slider-head.gif)
 
-When a slider reaches its start time, the slider head will begin to move along the slider track, moving the actual hit target with it. This compares to stable, where the hit target remains at the original location.
+当滑条达到开始时间时，滑条头会开始沿路径移动，同时会移动实际打击目标。与之相比，稳定版中的打击目标留在原位。
 
-This kind of makes sense when you look at it, but adds complexity to computing gameplay (and potentially adds replay errors, especially with higher OD values and slider velocity).
+当你看到滑条的时候，这很有道理。但这也增加了计算游玩的复杂度（也潜在地增加了回放中的错误，尤其是 OD 值与滑条速度较高时）。
 
-The rationale behind this change is simple: without it, having `Snaking out sliders` enabled becomes very awkward to visualise when a player hits late. Do you leave the original circle in place and delay the outward snaking? How does it catch up to the actual location of the slider ball if so? And on the contrary, if you do not delay the snaking, do you leave the head circle detached from the slider (please no)?
-
-|  |  |
-| :-- | :-: |
-| Breaks backwards compatibility | Yes |
-| Classic mod revert support | Yes |
-| Intentionally changed | Yes |
-| Needs further consideration | Yes |
-
-#### Slider ends do not contribute to combo nor cause misses
-
-Slider ends used to have the quirk of not breaking combo (and not causing a MISS judgement) if missed. This meant that an S play, which among other things requires zero MISS judgements, would look like a full combo even if some slider ends were missed. Various debates over whether such a play should be called an FC ensued.
-
-From now on slider ends will only affect score and accuracy, but have no effect on combo. This means that an S grade always signifies a full combo.
+此举背后的理由很简单：不这样做，启用`渐出滑条`时，如果玩家点击滑条头迟了，就会很难看出来。你会让圆圈停在原地，延迟渐出过程吗？如果这样做，圆圈该怎么跟上滑条球的实际位置呢？相反，如果不延迟渐出过程，你会让滑条头圆圈与滑条本身分开吗（请别这么做）？
 
 |  |  |
 | :-- | :-: |
-| Breaks backwards compatibility | Yes |
-| Classic mod revert support | Yes |
-| Intentionally changed | Yes |
-| Needs further consideration | Yes |
+| 破坏向后兼容性 | 是 |
+| Classic 模组的恢复支持 | 是 |
+| 有意更改 | 是 |
+| 需要进一步考虑 | 是 |
 
-#### Missing a slider head causes a miss
+#### 滑条尾不会增加连击数，也不会导致 miss
 
-Missing a slider head (either by not hitting it or hitting it during its miss window) would previously break combo but not cause a MISS judgement, and a judgement could still be received for the missed slider by completing the rest of it. This allowed players to receive the S grade while having a low max combo.
+滑条尾的行为一度很怪异，漏掉它不会导致断连（也不会导致 MISS 判定）。这意味着 S 评价的游玩（需要无 MISS 判定）尽管漏了几个滑条尾，也看起来像是全连了。关于是否应称此类游玩为全连的争论随之而来。
 
-In lazer, not hitting the slider head will give a MISS judgement for the whole slider. After missing a slider head, combo, score, and accuracy can still be gained from slider ticks and repeats, while only score and accuracy can still be gained from the slider end.
-
-|  |  |
-| :-- | :-: |
-| Breaks backwards compatibility | Yes |
-| Classic mod revert support | No |
-| Intentionally changed | Yes |
-| Needs further consideration | No |
-
-#### Slider ends do not cause hitsounds when not hit
-
-In stable, slider ends would play their hitsounds even if they were missed, as long as any part of the slider was hit. This has been changed such that hitsounds match inputs 1:1.
+从现在开始，滑条尾只会影响分数和准确度，但不会影响连击数。这意味着 S 评价总代表全连。
 
 |  |  |
 | :-- | :-: |
-| Breaks backwards compatibility | No |
-| Classic mod revert support | Yes |
-| Intentionally changed | Yes |
-| Needs further consideration | No |
+| 破坏向后兼容性 | 是 |
+| Classic 模组的恢复支持 | 是 |
+| 有意更改 | 是 |
+| 需要进一步考虑 | 是 |
 
-#### The spinner spin speed cap of 477 RPM has been removed
+#### 漏掉滑条头会导致 miss
 
-Instead of a speed cap, spinners now have a score cap. This was done as a simple initial implementation which may be revised in the future.
+之前，漏掉滑条头（没有点击，或是在 miss 窗口期内点击）会断连，但不会导致 MISS 判定。如果完成滑条剩下的部分，仍然可以获得判定。这让玩家在最大连击数较低的情况下仍可获得 S 评价。
+
+在 lazer 中，不点击滑条头会对整个滑条给出 MISS 判定。在此之后，仍然可以从滑条点与折返中获得连击数、分数与准确度，但从滑条尾只能获得分数与准确度。
 
 |  |  |
 | :-- | :-: |
-| Breaks backwards compatibility | Yes |
-| Classic mod revert support | No |
-| Intentionally changed | Yes |
-| Needs further consideration | Yes |
+| 破坏向后兼容性 | 是 |
+| Classic 模组的恢复支持 | 否 |
+| 有意更改 | 是 |
+| 需要进一步考虑 | 否 |
 
-#### Aspire-like glitched sliders are not supported
+#### 滑条尾未被打击时不播放音效
+
+在稳定版中，只要点击滑条任何部分，即使漏掉了滑条尾，也会播放音效。目前已经在 lazer 中修改，使音效与输入一对一匹配。
+
+|  |  |
+| :-- | :-: |
+| 破坏向后兼容性 | 否 |
+| Classic 模组的恢复支持 | 是 |
+| 有意更改 | 是 |
+| 需要进一步考虑 | 否 |
+
+#### 移除了转盘转速 477 RPM 的限制
+
+目前转盘有得分上限而非转速上限。这点是作为简单的初步实现完成的，未来可能会修改。
+
+|  |  |
+| :-- | :-: |
+| 破坏向后兼容性 | 是 |
+| Classic 模组的恢复支持 | 否 |
+| 有意更改 | 是 |
+| 需要进一步考虑 | 是 |
+
+#### 不支持 Aspire 样式的故障滑条
 
 ![](img/aspire-slider.gif)
 
-Some adventurous beatmaps exploit glitches in the stable client that allowed for very weird slider mechanics. These range from zero-length sliders acting as invisible circles, to cross-screen stretched and squished sliders.
+一些冒险性质的谱面利用了稳定版客户端中允许使用不寻常滑条机制的漏洞，小到作为不可见圆圈使用的零长度滑条，大到跨屏幕拉伸与压缩的滑条。
 
-More discussion and consideration will be needed for how much of Aspire beatmaps will be compatible going forward. For example, invisible circles might become a properly supported feature in the future.
+对于对 Aspire 谱面的兼容性，还需要进一步讨论与考虑。比如，不可见圆圈未来可能成为一个得到适当支持的特性。
 
 |  |  |
 | :-- | :-: |
-| Breaks backwards compatibility | Yes |
-| Classic mod revert support | No |
-| Intentionally changed | No |
-| Needs further consideration | Yes |
+| 破坏向后兼容性 | 是 |
+| Classic 模组的恢复支持 | 否 |
+| 有意更改 | 否 |
+| 需要进一步考虑 | 是 |
 
 ### osu!taiko
 
-#### Notes that overlap swells cannot be hit
+#### 无法击打与 swell 重叠的音符
 
-Some gimmick maps make use of notes that overlap swells.
-
-|  |  |
-| :-- | :-: |
-| Breaks backwards compatibility | Yes |
-| Classic mod revert support | No |
-| Intentionally changed | No |
-| Needs further consideration | Yes |
-
-#### Drumrolls do not prevent mashing
-
-In stable, drumrolls could not be hit too quickly or too slowly. This restriction has been lifted, just like in ScoreV2.
+一些机关图利用了与 swell 重叠的音符。
 
 |  |  |
 | :-- | :-: |
-| Breaks backwards compatibility | Yes |
-| Classic mod revert support | No |
-| Intentionally changed | Yes |
-| Needs further consideration | Yes |
+| 破坏向后兼容性 | 是 |
+| Classic 模组的恢复支持 | 否 |
+| 有意更改 | 否 |
+| 需要进一步考虑 | 是 |
 
-#### The Flashlight centre is aligned with the hit receptor
+#### 不会阻止乱打滑条
+
+在稳定版中，滑条不能击打得太快，也不能太慢。像在 ScoreV2 模组中一样，已经去除了这样的限制。
+
+|  |  |
+| :-- | :-: |
+| 破坏向后兼容性 | 是 |
+| Classic 模组的恢复支持 | 否 |
+| 有意更改 | 是 |
+| 需要进一步考虑 | 是 |
+
+#### Flashlight 中心与打击区对齐
 
 <!-- TODO: comparison image  -->
 
-In stable, the Flashlight centre is offset a bit down and to the right, making more hit objects visible.
+在稳定版中， Flashlight 的中心会向右下方偏移，从而让打击物件更容易被看到。
 
 |  |  |
 | :-- | :-: |
-| Breaks backwards compatibility | No |
-| Classic mod revert support | No |
-| Intentionally changed | No |
-| Needs further consideration | Yes |
+| 破坏向后兼容性 | 否 |
+| Classic 模组的恢复支持 | 否 |
+| 有意更改 | 否 |
+| 需要进一步考虑 | 是 |
 
 ### osu!catch
 
-#### Hyperdash generation can be different in some cases
+#### 某些情况下，红果跳生成方式可能不同
 
-This may lead to inaccurate judgements in replays and increased difficulty.
-
-|  |  |
-| :-- | :-: |
-| Breaks backwards compatibility | Yes |
-| Classic mod revert support | No |
-| Intentionally changed | No |
-| Needs further consideration | Yes |
-
-#### Juice stream generation can be different in some cases
-
-This may lead to inaccurate judgements in replays.
+这可能会导致回放中的判定不准与难度增加。
 
 |  |  |
 | :-- | :-: |
-| Breaks backwards compatibility | Yes |
-| Classic mod revert support | No |
-| Intentionally changed | No |
-| Needs further consideration | Yes |
+| 破坏向后兼容性 | 是 |
+| Classic 模组的恢复支持 | 否 |
+| 有意更改 | 否 |
+| 需要进一步考虑 | 是 |
+
+#### 某些情况下，水果串生成方式可能不同
+
+这可能会导致回放中的判定不准。
+
+|  |  |
+| :-- | :-: |
+| 破坏向后兼容性 | 是 |
+| Classic 模组的恢复支持 | 否 |
+| 有意更改 | 否 |
+| 需要进一步考虑 | 是 |
 
 ### osu!mania
 
-#### Hold note heads and tails give judgements
+#### 会对长按音符的头和尾进行判定
 
-This functions similarly to ScoreV2 in stable.
-
-|  |  |
-| :-- | :-: |
-| Breaks backwards compatibility | Yes |
-| Classic mod revert support | No |
-| Intentionally changed | Yes |
-| Needs further consideration | No |
-
-#### Hold note ticks give score and are responsible for combo breaks
-
-In stable, releasing during a hold note body would break combo immediately, but now it only breaks when missing a hold note tick.
-
-This does allow for cheesing (a.k.a. "manipulating") by allowing wrist-jacking when a finger-jack with another finger held would be required otherwise.
+这与稳定版中的 ScoreV2 模组功能相似。
 
 |  |  |
 | :-- | :-: |
-| Breaks backwards compatibility | Yes |
-| Classic mod revert support | No |
-| Intentionally changed | Yes |
-| Needs further consideration | Yes |
+| 破坏向后兼容性 | 是 |
+| Classic 模组的恢复支持 | 否 |
+| 有意更改 | 是 |
+| 需要进一步考虑 | 否 |
 
-#### Extreme scroll speeds are limited
+#### 长按音符点得分，也会导致断连
+
+在稳定版中，在长按音符体中松开按键会立刻导致断连，但现在只会在漏掉音符点时断连。
+
+当需要用另一个手指按住按键时，这点更改允许使用手腕，从而允许 cheesing （即 “manipulating”）。
+
+|  |  |
+| :-- | :-: |
+| 破坏向后兼容性 | 是 |
+| Classic 模组的恢复支持 | 否 |
+| 有意更改 | 是 |
+| 需要进一步考虑 | 是 |
+
+#### 限制极限滚动速度
 
 <!-- TODO: how exactly -->
 
-Some beatmaps with SV gimmicks like teleports or stops do not look as intended, but are otherwise playable.
+一些含有 SV 机关（比如物件传送与停滞）的谱面可能看起来与预期不符，但除此之外都是可玩的。
 
 |  |  |
 | :-- | :-: |
-| Breaks backwards compatibility | No |
-| Classic mod revert support | No |
-| Intentionally changed | Yes |
-| Needs further consideration | Yes |
+| 破坏向后兼容性 | 否 |
+| Classic 模组的恢复支持 | 否 |
+| 有意更改 | 是 |
+| 需要进一步考虑 | 是 |
 
-#### The PERFECT judgement hit window scales with OD
+#### PERFECT 判定窗口期与 OD 值成正比
 
-This used to be a constant ±16 ms regardless of overall difficulty.
-
-|  |  |
-| :-- | :-: |
-| Breaks backwards compatibility | Yes |
-| Classic mod revert support | No |
-| Intentionally changed | Yes |
-| Needs further consideration | No? |
-
-#### Converts no longer have different hit windows
-
-Beatmaps converted from the osu! game mode into osu!mania had a set of hit windows that were not affected by OD.
+无论整体难度如何，这个窗口期过去恒为 ±16 毫秒。
 
 |  |  |
 | :-- | :-: |
-| Breaks backwards compatibility | Yes |
-| Classic mod revert support | No |
-| Intentionally changed | Yes |
-| Needs further consideration | No? |
+| 破坏向后兼容性 | 是 |
+| Classic 模组的恢复支持 | 否 |
+| 有意更改 | 是 |
+| 需要进一步考虑 | 否？ |
 
-#### Audio rate adjustments affect hit windows in osu!mania
+#### 转谱的打击窗口不再不同
 
-In stable, osu!mania reverts changes to hit windows resulting from applications of DT/HT.
+由 osu! 模式转化到 osu!mania 的谱面的打击窗口不受 OD 值影响。
 
 |  |  |
 | :-- | :-: |
-| Breaks backwards compatibility | Yes |
-| Classic mod revert support | No |
-| Intentionally changed | No |
-| Needs further consideration | Yes |
+| 破坏向后兼容性 | 是 |
+| Classic 模组的恢复支持 | 否 |
+| 有意更改 | 是 |
+| 需要进一步考虑 | 否？ |
 
-#### The Flashlight mod does not have a gradient
+#### 在 osu!mania 中，音频速率的调整影响打击窗口
+
+在稳定版中， osu!mania 恢复了使用 DT/HT 模组对打击窗口的影响。
+
+|  |  |
+| :-- | :-: |
+| 破坏向后兼容性 | 是 |
+| Classic 模组的恢复支持 | 否 |
+| 有意更改 | 否 |
+| 需要进一步考虑 | 是 |
+
+#### Flashlight 模组没有梯度
 
 <!-- TODO: comparison image  -->
 
 |  |  |
 | :-- | :-: |
-| Breaks backwards compatibility | No |
-| Classic mod revert support | No |
-| Intentionally changed | No |
-| Needs further consideration | Yes |
+| 破坏向后兼容性 | 否 |
+| Classic 模组的恢复支持 | 否 |
+| 有意更改 | 否 |
+| 需要进一步考虑 | 是 |
 
 ### 分数、表现分和排行榜
 
-Scoring in lazer has been simplified with the main benefit of not requiring a replay to recompute. Two interchangeable systems have been added: *standardised* and *classic*. Standardised scoring limits score to a maximum of 1,000,000 points + bonus and score multipliers, while classic scoring is similar to standardised, but scaled quadratically with the amount of hit objects in a beatmap. These can be selected from the settings, with all places were score is displayed in-game changing accordingly.
+lazer 的计分系统被简化了，主要好在无需回放来重新计算得分。增加了两套可互换的系统：*标准化*和*经典*。标准化计分将得分限制为最高 1,000,000 分 + 附加分 + 得分乘数，而经典计分类似于标准化，但与谱面中的物件数平方成正比。可以在设置中进行选择，游戏内的分数显示区域也会相应改变。
 
-There are also some differences in how much score each hit object and each judgement is responsible for relative to each other.
+在每个打击物件与判定对应的分数上也存在一些差异。
 
-Features that depend on score such as [score ranking](/wiki/Ranking#score-ranking) and [levels](/wiki/Gameplay/Score/Total_score#level) need further discussion for how they will be affected.
+依赖于分数的功能，如[分数排名](/wiki/Ranking#score-ranking)和[等级](/wiki/Gameplay/Score/Total_score#level)受到的影响需要进一步讨论。
 
-Medals do not get awarded. This is a feature that will be enabled after anti-cheat measures have been implemented, and will need further consideration regarding the change in difficulty of some medals due to other gameplay changes.
+不会颁发奖牌。这个功能会在实现防作弊措施后被启用，也要进一步考虑由于其他游玩方面的改变导致的难度变化。
 
-Performance points are not integrated into global or beatmap-specific leaderboards, but are instead integrated in a separate version of the website for now: <https://lazer.ppy.sh/>.
+表现分现在还没整合到全球或特定谱面的排行榜中，而是整合到了单独版本的网站中： <https://lazer.ppy.sh/>。
 
 ### 多人游戏
 
-#### TAG co-op mode is not implemented
+#### 未实现 TAG co-op 模式
 
-This is planned, but no work has been started on this yet.
+已经计划加入此功能，但还没有开始在其上工作。
 
 ### 故事板
 
-#### The storyboard editor is not implemented
+#### 未实现故事板编辑器
 
-There are [designs](https://www.figma.com/file/ytnnne2TH8Z956Jxhiypqq/Beatmap-Editor-2) for an upcoming built-in storyboard editor similar to the one in stable, but no work on this has started yet.
+对于将要实现的内置故事板编辑器，已经有类似于稳定版中的[设计](https://www.figma.com/file/ytnnne2TH8Z956Jxhiypqq/Beatmap-Editor-2)了，但还没有开始在其上工作。
 
-#### The trigger system is not implemented
+#### 未实现触发器系统
 
 ![](img/sb-triggers.gif)
 
-#### Beatmap backgrounds do not have the correct fill mode for 4:3 storyboards
+#### 对于 4:3 的故事板，谱面背景的填充模式不正确
 
 ![](img/sb-bg-fill-mode.jpg)
 
-In stable, beatmap backgrounds and storyboards fill the height of the screen. In lazer, backgrounds fill the width of the screen, while storyboards still fill the height.
+在稳定版中，谱面背景与故事板按屏幕高度填充。在 lazer 中，背景图片按屏幕宽度填充，但故事板仍按高度填充。
 
-This discrepancy causes inconsistent fill modes when a storyboard is overlayed on top of an already existing beatmap background.
+当故事板覆盖在已存在的谱面背景上时，上述差异会导致填充模式的不一致。
 
-#### 4:3-only storyboards are not cropped to the intended aspect ratio
+#### 仅限 4:3 比例的故事板未被裁剪到预期宽高比
 
 ![](img/sb-crop.jpg)
 
-Some storyboards are not designed to support anything other than a 4:3 aspect ratio, but storyboards in lazer always render at 16:9.
+某些故事板被设计为只支持 4:3 宽高比，但在 lazer 中，总按 16:9 比例渲染故事板。
 
 ## 缺失的外观功能
 
 计划在某个时候重新加入下列功能，但由于优先级较低暂未实现。
 
 - [Niconico](https://en.wikipedia.org/wiki/Niconico) 式的滚动回放评论
-- Combo bursts and their associated sounds
+- 连击提示图和相关音效
 - 倒计时
 - 光标点击波纹
 - 无法通过皮肤自定义的组件
   - 游玩排行榜
-  - Cutscene skip button
+  - 转场跳过按钮
   - 部分的失败/通过场景
-  - Results screen
+  - 结果屏幕
   - 歌曲选择界面
   - 暂停菜单
 
