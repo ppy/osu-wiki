@@ -14,7 +14,7 @@ Check out the new tunes for yourself:
 
 <div align="center">
     <video width="95%" controls>
-        <source src="LINK" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/2023-twc-originals.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
@@ -25,7 +25,7 @@ High-tempo jazz is [**Toromaru**](https://osu.ppy.sh/beatmaps/artists/279)'s spe
 [Sleight of Hand](https://osu.ppy.sh/beatmapsets/1972518) mapped by [Nurend](https://osu.ppy.sh/users/9905079) slotted into the [Semifinals mappool](/wiki/Tournaments/TWC/2023#semifinals) as a *No Mod* pick, and led to *two* matches that were decided by less than 20,000 score!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/279/Songs/Toromaru%20-%20Sleight%20of%20Hand.mp3" type="audio/mpeg">
 </audio>
 
 ### LV.4 feat. Mawata Spica - Vortex of Sorrow
@@ -35,7 +35,7 @@ As a master of hardcore and trance, [**LV.4**](https://osu.ppy.sh/beatmaps/artis
 [This beatmap](https://osu.ppy.sh/beatmapsets/1980701) by [uone](https://osu.ppy.sh/users/5321719) acted as a *Free Mod* pick in the [Grand Finals mappool](/wiki/Tournaments/TWC/2023#grand-finals). If you think you can handle peak osu!taiko gameplay, give it a try.
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/214/Songs/LV.4%20feat.%20Mawata%20Spica%20-%20Vortex%20of%20Sorrow.mp3" type="audio/mpeg">
 </audio>
 
 ### Aquestion - Umami Blaze
@@ -45,7 +45,7 @@ Considering [**A? / Aquestion**](https://osu.ppy.sh/beatmaps/artists/173) is [an
 [Umami Blaze](https://osu.ppy.sh/beatmapsets/1976814) mapped by [youtune3](https://osu.ppy.sh/users/6442010) was part of the [Finals mappool](/wiki/Tournaments/TWC/2023#finals) as a *No Mod* pick. Even if speed is your specialty, this **336 BPM** map might be a bit fast for you.
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/173/Songs/Aquestion%20-%20Umami%20Blaze.mp3" type="audio/mpeg">
 </audio>
 
 ### 7_7 feat. kasane vavzed - 7D
@@ -55,7 +55,7 @@ Considering [**A? / Aquestion**](https://osu.ppy.sh/beatmaps/artists/173) is [an
 For pure chaos, give your best attempt to [this map](https://osu.ppy.sh/beatmapsets/1980743) created by multi-talented mapper/composer [7_7](https://osu.ppy.sh/users/7491106)!
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/356/Songs/7_7%20feat.%20kasane%20vavzed%20-%207D.mp3" type="audio/mpeg">
 </audio>
 
 ### Gram - Sigrdrifa
@@ -65,7 +65,7 @@ The **Grand Finals tiebreaker** has always been the climax of any tournament's m
 Prepare your hands for over 5 minutes of [this 8.5-star map](https://osu.ppy.sh/beatmapsets/1981053) created by [Nifty](https://osu.ppy.sh/users/4956097), [rubies87](https://osu.ppy.sh/users/4949934), and [_mtk](https://osu.ppy.sh/users/9468283). Try not to get any 100s on those last 4 notes too. :)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/295/Songs/Gram%20-%20Sigrdrifa.mp3" type="audio/mpeg">
 </audio>
 
 ---
