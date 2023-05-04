@@ -170,10 +170,21 @@ Ces musiques ont été [annoncées](https://osu.ppy.sh/home/news/2023-02-01-twin
 
 | Musique | Beatmap | Notes |
 | :-: | :-: | :-- |
+| 7\_7 - Meriba[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1744973) | NM2 des Grandes Finales |
 | [agata - AMAIWTIWNKMS](https://soundcloud.com/user-493301624/vent) | [#1](https://osu.ppy.sh/beatmapsets/1744774) | NM6 des Grandes Finales |
 | [breakchild - NEUROTYPICALSYSTEM](https://breakbchild.bandcamp.com/track/neurotypicalsystem-twc-tiebreaker) | [#1](https://osu.ppy.sh/beatmapsets/1734223) | Tiebreaker des demi-finales |
 | [J-CORE SLi//CER - "Ongaku purode\~yusa" no heikin-tekina seishin jotai](https://soundcloud.com/jcoreslicer/average-mental-state-of-the-music-producer) | [#1](https://osu.ppy.sh/beatmapsets/1744775) | NM1 des Grandes Finales |
 | [onumi & Akira Complex - Ethereal Cyber Angel XV](https://www.youtube.com/watch?v=tsMQJbRBTxc)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1744942) | Tiebreaker des Grandes Finales |
+
+#### ![](/wiki/shared/mode/taiko.png) [osu!taiko World Cup 2023](/wiki/Tournaments/TWC/2023)
+
+| Musique | Beatmap | Notes |
+| :-: | :-: | :-- |
+| 7\_7 feat. kasane vavzed - 7D[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1980743) | NM3 des Grandes Finales |
+| Aquestion - Umami Blaze[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1976814) | NM3 des finales |
+| Gram - Sigrdrifa[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1981053) | Tiebreaker des Grandes Finales |
+| LV.4 feat. Mawata Spica - Vortex of Sorrow[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1980701) | FM3 des Grandes Finales |
+| Toromaru - Sleight of Hand[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1972518) | NM2 des demi-finales |
 
 #### ![](/wiki/shared/mode/catch.png) [osu!catch World Cup 2021](/wiki/Tournaments/CWC/2021)
 
@@ -212,7 +223,7 @@ Ces musiques ont été [annoncées](https://osu.ppy.sh/home/news/2023-02-01-twin
 | [Hino Isuka vs. s-don - Glooorious!!](https://www.youtube.com/watch?v=qvf4Wm5t0wM)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1935691) | HB3 des finales |
 | [katagiri - Kyuukou](https://soundcloud.com/katagiri/kyuukou)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1939261) | Tiebreaker des Grandes Finales |
 | [LV.4 feat. Yuu Ikeba - Sentimental Surge](https://osu.ppy.sh/beatmaps/artists/tracks?artist=LV.4&query=Sentimental%20Surge)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1935688) | RC6 des finales |
-| [SAMString - Ataraxia](https://osu.ppy.sh/beatmaps/artists/tracks?artist=SAMString&query=Ataraxia)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1939418) | LN3 des Grandes Finales |
+| [SAMString - Ataraxia](https://soundcloud.com/samstring/ataraxia)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1939418) | LN3 des Grandes Finales |
 | [Toromaru - Uncharted Sky](https://osu.ppy.sh/beatmaps/artists/tracks?artist=Toromaru&query=Uncharted%20Sky)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/1931471) | RC6 des demi-finales |
 
 ### Sorties des tournois gérés par la communauté
@@ -238,6 +249,12 @@ Ces musiques ont été [annoncées](https://osu.ppy.sh/home/news/2023-02-01-twin
 | [takehirotei vs. HowToPlayLN - Essence](https://soundcloud.com/indekkusu/essence) | [#1](https://osu.ppy.sh/beatmapsets/1943786#mania/4021083) | Tiebreaker des Grandes Finales |
 | [takehirotei vs. HowToPlayLN - Essence \~among the constellations\~](https://soundcloud.com/indekkusu/essence-among-the-constellations) |  | Thème du générique de fin |
 
+#### ![](/wiki/shared/mode/osu.png) 5 Digit World Cup 2023
+
+| Musique | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [Sydosys - MALEVOLENT VORTEX](https://www.youtube.com/watch?v=IiRuU6X0d14) | [#1](https://osu.ppy.sh/beatmapsets/1968202) | Tiebreaker des Grandes Finales |
+
 #### ![](/wiki/shared/mode/taiko.png) [Advanced Global Taiko Showdown 2022](/wiki/Tournaments/GTS/AGTS_2022)
 
 | Musique | Beatmap | Notes |
@@ -256,6 +273,12 @@ Ces musiques ont été [annoncées](https://osu.ppy.sh/home/news/2023-02-01-twin
 | Musique | Beatmap | Notes |
 | :-: | :-: | :-- |
 | [ptar124 - AmbidextrouS \~The Alchemist of The Left x The Sage of The Right\~](https://soundcloud.com/part-lerts/axs-7th-grand-finals-tiebreaker-ambidextrous-x) | [#1](https://osu.ppy.sh/beatmapsets/1698560) | Tiebreaker des Grandes Finales |
+
+#### ![](/wiki/shared/mode/osu.png) Badly Wood Cup
+
+| Musique | Beatmap | Notes |
+| :-: | :-: | :-- |
+| Daily197 - Sirius | [#1](https://osu.ppy.sh/beatmapsets/1964081) | Tiebreaker des Grandes Finales |
 
 #### ![](/wiki/shared/mode/osu.png) Charlie's Perfect Math Class
 
@@ -450,6 +473,12 @@ Ces musiques ont été [annoncées](https://osu.ppy.sh/home/news/2023-02-01-twin
 | :-: | :-: | :-- |
 | [NicDroid as "NicDono" - TAMBOL2022](https://www.youtube.com/watch?v=zhecFreHC94) | [#1](https://osu.ppy.sh/beatmapsets/1838613) | Tiebreaker des Grandes Finales |
 
+#### ![](/wiki/shared/mode/mania.png) osu!mania 4K Chinese National Cup 2022
+
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [Tsukimi Shizuka x LUNARiUM - Fight Against the Past](https://lunariumgk.bandcamp.com/track/fight-against-the-past) | [#1](https://osu.ppy.sh/beatmapsets/1828541) | Tiebreaker des Grandes Finales |
+
 #### ![](/wiki/shared/mode/mania.png) [osu!mania LN Tournament 3](/wiki/Tournaments/o!mLN/3)
 
 | Musique | Beatmap | Notes |
@@ -613,6 +642,7 @@ Ces musiques ont été [annoncées](https://osu.ppy.sh/home/news/2023-02-01-twin
 | happy30 - wob wob[^fa] | [#1](https://osu.ppy.sh/beatmapsets/115621) |
 | [happy30 - You spin my world](https://open.spotify.com/track/6B0mNLZUnFetKLANIngdHj)[^fa-catalogue] | [#1](https://osu.ppy.sh/beatmapsets/485205) |
 | Jar - ztrout's Visit to The Proctologist | [#1](https://osu.ppy.sh/beatmapsets/21145) |
+| Jinjin - Midnight Musing | [#1](https://osu.ppy.sh/beatmapsets/1980200) |
 | Ketchup - ProjectUnreality | [#1](https://osu.ppy.sh/beatmapsets/9077) |
 | [Natteke ft. tieff - Endless Tower](https://www.youtube.com/watch?v=TNAGrCBfQKc)[^fa-feature] | [#1](https://osu.ppy.sh/beatmapsets/17076) |
 | [Natteke ft. tieff - The Dream](https://www.youtube.com/watch?v=vtVT3A-ALUQ)[^fa-feature] | [#1](https://osu.ppy.sh/beatmapsets/16599#osu/59406) |
