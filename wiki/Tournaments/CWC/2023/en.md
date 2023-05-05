@@ -58,8 +58,6 @@ The osu!catch World Cup 2023 is run by various community members.
 
 *Notice: Captains are listed in **bold**.*
 
-The final team composition for each country is subject to change. If you have been selected as a captain, [check your inbox](https://osu.ppy.sh/community/chat) for more information. Countries not listed did not have enough players to form a team.
-
 |  | Country | Members |
 | :-: | :-: | :-- |
 | ::{ flag=AR }:: | **Argentina** | **[Saikai](https://osu.ppy.sh/users/8172283)**, [SirGonzaxz](https://osu.ppy.sh/users/17309439), [GamerYt500](https://osu.ppy.sh/users/19851602), [arxwaa](https://osu.ppy.sh/users/13916330), [wlfgrl](https://osu.ppy.sh/users/24598839), [Ambition-](https://osu.ppy.sh/users/6960376) |
