@@ -1,7 +1,6 @@
 ---
-outdated_since: 2d4959ec9ad9cb438363d7bf8e8220687a899602
 outdated_translation: true
-no_native_review: true
+outdated_since: 2916c61b6d4a4fb2d3a7546fb8d8cb6f64934210
 ---
 
 # 谱面上架标准 (RC)
@@ -16,7 +15,7 @@ no_native_review: true
 
 ## 工具
 
-非常推荐您使用 [Mapset Verifier (MV)](https://github.com/Naxesss/MapsetVerifier) 来辅助检查谱面是否符合上架标准。传统客户端 (stable 版) 内的 [AiMod](/wiki/Client/Beatmap_editor/AiMod) 工具已经过时且不再维护。同时，新版客户端 (lazer 版) 内的谱面检查工具仍在[开发中](https://github.com/ppy/osu/issues/12091#issuecomment-878760791)。
+非常推荐您使用 [Mapset Verifier (MV)](https://github.com/Naxesss/MapsetVerifier) 来辅助检查谱面是否符合上架标准。传统客户端 (stable 版) 内的 [AiMod](/wiki/Client/Beatmap_editor/AiMod) 工具已经过时且不再维护。同时，[osu!(lazer)](/wiki/Client/Release_stream/Lazer)客户端内的谱面检查工具仍在[开发中](https://github.com/ppy/osu/issues/12091#issuecomment-878760791)。
 
 使用前需注意：
 
@@ -66,7 +65,7 @@ no_native_review: true
   - **...小于 3:30，则最低难度必须低于或等于 Normal。**
   - **...在 3:30 到 4:15 之间，则最低难度必须低于或等于 Hard。**
   - **...在 4:15 到 5:00 之间，则最低难度必须低于或等于 Insane。**
-  - **除最高难度以外的其他难度，可以使用谱面总时长代替以上规定中的掉血时间，作为度量标准而达到阈值。** 如果该难度的掉血时间低于 30 秒，则不能依据此规定来计算。如果谱面最低难度为 Hard 或 Insane，则一般由该游戏模式的 [谱面审核成员 (BN)](/wiki/People/Beatmap_Nominators) 和 [审核评估团队 (NAT)](/wiki/People/Nomination_Assessment_Team) 成员来判断它是否合适。
+  - **允许将谱面的[休息时间](/wiki/Beatmap/Break)和[掉血时间](/wiki/Beatmap/Drain_time)加起来，作为度量标准来满足以上要求。** 计算最高难度的时间时，最多只能计入 30 秒的休息时间。如果该难度的掉血时间短于 30 秒，则不能依据此规定来计算。
   - **osu!mania 的难度梯度规定和最低难度限制有所不同。参见：[osu!mania 谱面上架标准](/wiki/Ranking_Criteria/osu!mania).**
 - **谱面的难度名称必须清晰准确地表示出它所属的难度区间，除非该难度是：**
   - 各个游戏模式内的最高难度。

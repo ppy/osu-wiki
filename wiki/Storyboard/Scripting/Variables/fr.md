@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: c6e4ace59bf0c3be43617fda1a36a5c6dc0af3c3
+---
+
 # Variables de script d'un storyboard
 
 Vous pouvez utiliser des chaînes de texte, jusqu'à une ligne entière, comme **variables** pour les utiliser ailleurs dans un fichier .osb (notez que la valeur ne peut pas changer pendant le jeu, donc pour ceux qui ont de l'expérience dans les logiciels, voyez ça plutôt comme une constante). *Les fichiers .osu ne supportent pas cela*.

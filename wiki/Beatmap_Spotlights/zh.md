@@ -6,8 +6,6 @@ tags:
   - Seasonal Spotlights
   - 季赛
   - 月赛
-outdated_translation: true
-outdated_since: da3216feaf6915db11c618166c606f06c41345d6
 ---
 
 # 聚光灯
@@ -16,13 +14,13 @@ outdated_since: da3216feaf6915db11c618166c606f06c41345d6
 
 **聚光灯**（Beatmap Spotlights，或简称 Spotlights），也被称为*月赛*（*Ranking Charts*）。是一个定期举办的活动系统，用于推荐或突出玩家制作的拥有出色或独特玩法设计的[谱面](/wiki/Beatmap)。它有一个[赛季排行榜](#赛季)，并为所有参与的玩家提供奖励。
 
-当前赛季为 2023 冬。
+当前赛季为 2023 春。
 
 [聚光灯策展人页面](https://osu.ppy.sh/groups/48)列出了所有的团队成员。若要详细了解 BSC 内所有的角色，参见[聚光灯策展人](/wiki/People/Beatmap_Spotlight_Curators)。
 
 ## 参加
 
-必须使用 [osu!(lazer)](/wiki/Client/Release_stream/Lazer) 客户端才能参加聚光灯，前往它的 [GitHub 发行页](https://github.com/ppy/osu/releases/latest)进行下载。
+想要参加谱面聚光灯活动，请[下载](https://osu.ppy.sh/home/download) [osu!(lazer)](/wiki/Client/Release_stream/Lazer) 客户端。
 
 安装并登入账号后，在游玩菜单中进入`歌单模式`，找到带有绿色标识的 `Spotlights` 大厅，或使用右上角的下拉框进行筛选。
 
@@ -69,14 +67,14 @@ outdated_since: da3216feaf6915db11c618166c606f06c41345d6
 
 | 徽章 | 段位 | 排名 |
 | :-: | :-- | :-- |
-| ![](img/badges/winter_2023/osu/ri_1.png) ![](img/badges/winter_2023/osu/ri_2.png) | 人韵合一（Rhythm Incarnate） | 赛季最佳玩家 |
-| ![](img/badges/winter_2023/osu/diamond_1.png) ![](img/badges/winter_2023/osu/diamond_2.png) | 钻石（Diamond） | 3% |
-| ![](img/badges/winter_2023/osu/platinum_1.png) ![](img/badges/winter_2023/osu/platinum_2.png) | 铂金（Platinum） | 3% – 10% |
-| ![](img/badges/winter_2023/osu/gold_1.png) ![](img/badges/winter_2023/osu/gold_2.png) | 黄金（Gold） | 10% – 25% |
-| ![](img/badges/winter_2023/osu/silver_1.png) ![](img/badges/winter_2023/osu/silver_2.png) | 白银（Silver） | 25% – 50% |
-| ![](img/badges/winter_2023/osu/bronze_1.png) ![](img/badges/winter_2023/osu/bronze_2.png) | 青铜（Bronze） | 50% – 70% |
-| ![](img/badges/winter_2023/osu/copper_1.png) ![](img/badges/winter_2023/osu/copper_2.png) | 黄铜（Copper） | 70% – 95% |
-| ![](img/badges/winter_2023/osu/iron_1.png) ![](img/badges/winter_2023/osu/iron_2.png) | 黑铁（Iron） | 95% – 100% |
+| ![](img/badges/spring_2023/osu/ri_1.png) ![](img/badges/spring_2023/osu/ri_2.png) | 人韵合一（Rhythm Incarnate） | 赛季最佳玩家 |
+| ![](img/badges/spring_2023/osu/diamond_1.png) ![](img/badges/spring_2023/osu/diamond_2.png) | 钻石（Diamond） | 3% |
+| ![](img/badges/spring_2023/osu/platinum_1.png) ![](img/badges/spring_2023/osu/platinum_2.png) | 铂金（Platinum） | 3% – 10% |
+| ![](img/badges/spring_2023/osu/gold_1.png) ![](img/badges/spring_2023/osu/gold_2.png) | 黄金（Gold） | 10% – 25% |
+| ![](img/badges/spring_2023/osu/silver_1.png) ![](img/badges/spring_2023/osu/silver_2.png) | 白银（Silver） | 25% – 50% |
+| ![](img/badges/spring_2023/osu/bronze_1.png) ![](img/badges/spring_2023/osu/bronze_2.png) | 青铜（Bronze） | 50% – 70% |
+| ![](img/badges/spring_2023/osu/copper_1.png) ![](img/badges/spring_2023/osu/copper_2.png) | 黄铜（Copper） | 70% – 95% |
+| ![](img/badges/spring_2023/osu/iron_1.png) ![](img/badges/spring_2023/osu/iron_2.png) | 黑铁（Iron） | 95% – 100% |
 
 `人韵合一` 段位的玩家数量是根据该赛季的参与人数和其他段位的规模手动挑选的，在大多数情况下为前 2 - 50 名。
 

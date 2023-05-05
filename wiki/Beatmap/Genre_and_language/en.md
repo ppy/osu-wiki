@@ -21,7 +21,7 @@ The [beatmap listing](https://osu.ppy.sh/beatmapsets) has filters available for 
 
 ## Changing a beatmap's genre and language
 
-Genre and language can be changed on the website by clicking the pencil icon when hovering over a beatmap's details. The ability to do so is determined by the user's [user groups](/wiki/People/osu!_team#user-groups) and the beatmap's [category](/wiki/Beatmap/Category#present-categories):
+Genre and language can be changed on the website by clicking the pencil icon when hovering over a beatmap's details. The ability to do so is determined by the user's [user groups](/wiki/People/User_group) and the beatmap's [category](/wiki/Beatmap/Category#present-categories):
 
 - Mapset owners are allowed when the beatmap is in the [WIP](/wiki/Beatmap/Category#work-in-progress-and-pending), [Pending](/wiki/Beatmap/Category#work-in-progress-and-pending), or [Graveyard](/wiki/Beatmap/Category#graveyard) categories, and does not have any [nominations](/wiki/Beatmap_ranking_procedure#nominations).
 - [Beatmap Nominators](/wiki/People/Beatmap_Nominators) are allowed when the beatmap is in the [Qualified](/wiki/Beatmap/Category#qualified), WIP, or Pending categories.
