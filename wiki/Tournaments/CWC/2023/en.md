@@ -58,8 +58,6 @@ The osu!catch World Cup 2023 is run by various community members.
 
 *Notice: Captains are listed in **bold**.*
 
-The final team composition for each country is subject to change. If you have been selected as a captain, [check your inbox](https://osu.ppy.sh/community/chat) for more information. Countries not listed did not have enough players to form a team.
-
 |  | Country | Members |
 | :-: | :-: | :-- |
 | ::{ flag=AR }:: | **Argentina** | **[Saikai](https://osu.ppy.sh/users/8172283)**, [SirGonzaxz](https://osu.ppy.sh/users/17309439), [GamerYt500](https://osu.ppy.sh/users/19851602), [arxwaa](https://osu.ppy.sh/users/13916330), [wlfgrl](https://osu.ppy.sh/users/24598839), [Ambition-](https://osu.ppy.sh/users/6960376) |
@@ -83,7 +81,7 @@ The final team composition for each country is subject to change. If you have be
 | ::{ flag=MY }:: | **Malaysia** | **[AstralLoki](https://osu.ppy.sh/users/14100384)**, [Asteristia](https://osu.ppy.sh/users/9434933), [Future\_miku95](https://osu.ppy.sh/users/2351567), [DTNLRiki](https://osu.ppy.sh/users/12382410), [Kagari](https://osu.ppy.sh/users/3366264), [davidbeh\_97](https://osu.ppy.sh/users/4101818) |
 | ::{ flag=MX }:: | **Mexico** | **[Firu](https://osu.ppy.sh/users/10516547)**, [Cowboy](https://osu.ppy.sh/users/1237535), [Cxlucha](https://osu.ppy.sh/users/5063961), [colorcaldo](https://osu.ppy.sh/users/10886499), [Muragaki](https://osu.ppy.sh/users/13195815) |
 | ::{ flag=NL }:: | **Netherlands** | **[Chatie](https://osu.ppy.sh/users/6524765)**, [Dutchman](https://osu.ppy.sh/users/10552580), [woodpamp](https://osu.ppy.sh/users/3809967), [K 3 V R A L](https://osu.ppy.sh/users/9852829), [Roasted Chicken](https://osu.ppy.sh/users/9461160), [Wesley](https://osu.ppy.sh/users/2407265) |
-| ::{ flag=NZ }:: | **New Zealand** | **[Lay](https://osu.ppy.sh/users/3768185)** |
+| ::{ flag=NZ }:: | **New Zealand** | **[Kasumizawa-Miyu](https://osu.ppy.sh/users/24345309)**, [CTB Sakamata1](https://osu.ppy.sh/users/11735313), [Nashiro](https://osu.ppy.sh/users/9740073), [Wettham77](https://osu.ppy.sh/users/14476098), [Starwide](https://osu.ppy.sh/users/9926856), [Cipse](https://osu.ppy.sh/users/7928880) |
 | ::{ flag=NO }:: | **Norway** | **[Mile](https://osu.ppy.sh/users/2760954)**, [Cameragod](https://osu.ppy.sh/users/4974088), [CyCeph](https://osu.ppy.sh/users/4586304), [Azeidith](https://osu.ppy.sh/users/2819676), [Benita](https://osu.ppy.sh/users/4023183), [Vanilla-](https://osu.ppy.sh/users/3400701) |
 | ::{ flag=PE }:: | **Peru** | **[islux](https://osu.ppy.sh/users/5477873)**, [Lunati1kid](https://osu.ppy.sh/users/25723773), [-Kaeme](https://osu.ppy.sh/users/25029674), [CallingUp](https://osu.ppy.sh/users/18537045) |
 | ::{ flag=PH }:: | **Philippines** | **[Roido](https://osu.ppy.sh/users/6829103)**, [Bunnrei](https://osu.ppy.sh/users/829284), [Crowley](https://osu.ppy.sh/users/6341006), [Maririn](https://osu.ppy.sh/users/1626093), [-Rustyy](https://osu.ppy.sh/users/16355636), [- Kielzu -](https://osu.ppy.sh/users/6221114) |
@@ -96,10 +94,10 @@ The final team composition for each country is subject to change. If you have be
 | ::{ flag=CH }:: | **Switzerland** | **[MC2BP](https://osu.ppy.sh/users/11296097)**, [Byjumbur](https://osu.ppy.sh/users/16568987), [xXMysteryXx](https://osu.ppy.sh/users/11475426), [JulivS7](https://osu.ppy.sh/users/26857159), [Aqoz](https://osu.ppy.sh/users/16579719) |
 | ::{ flag=TW }:: | **Taiwan** | **[Beepu](https://osu.ppy.sh/users/4958376)**, [DoDoEbi](https://osu.ppy.sh/users/1177233), [ZX123456](https://osu.ppy.sh/users/489271), [Happiness Fish](https://osu.ppy.sh/users/4586766), [Nazrin on osu](https://osu.ppy.sh/users/2512267), [Pdog4ni](https://osu.ppy.sh/users/14581544) |
 | ::{ flag=TH }:: | **Thailand** | **[RAISE MY SWORD](https://osu.ppy.sh/users/17385454)**, [EzyS](https://osu.ppy.sh/users/16271283), [N3Marry](https://osu.ppy.sh/users/13222425), [-TANAKITO-](https://osu.ppy.sh/users/6037121), [Char0n](https://osu.ppy.sh/users/17838855), [pattarachai\_12016](https://osu.ppy.sh/users/1465079) |
-| ::{ flag=TR }:: | **Turkey** | **[lorem ipsum](https://osu.ppy.sh/users/17130789)** |
+| ::{ flag=TR }:: | **Turkey** | **[lorem ipsum](https://osu.ppy.sh/users/17130789)**, [Alerr](https://osu.ppy.sh/users/11159192), [shimu](https://osu.ppy.sh/users/14318796), [LightningStorm](https://osu.ppy.sh/users/24658537), [IRyS My Beloved](https://osu.ppy.sh/users/23895020), [gorkem\_xd](https://osu.ppy.sh/users/27415754) |
 | ::{ flag=GB }:: | **United Kingdom** | **[Withered Lotus](https://osu.ppy.sh/users/3546931)**, [Matt\_H](https://osu.ppy.sh/users/4067115), [Adisi](https://osu.ppy.sh/users/12182399), [Zoggoth](https://osu.ppy.sh/users/2799946), [Stats-Kun](https://osu.ppy.sh/users/8611935), [Tomato](https://osu.ppy.sh/users/9239206) |
 | ::{ flag=US }:: | **United States** | **[Secre](https://osu.ppy.sh/users/2306637)**, [Dahcreeper](https://osu.ppy.sh/users/6926006), [Lexii](https://osu.ppy.sh/users/7226149), [Colin](https://osu.ppy.sh/users/5502521), [rostld](https://osu.ppy.sh/users/4365562), [Trent](https://osu.ppy.sh/users/3438241) |
-| ::{ flag=VE }:: | **Venezuela** | **[jxrri](https://osu.ppy.sh/users/12686699)** |
+| ::{ flag=VE }:: | **Venezuela** | **[Pcxdd Pcmia](https://osu.ppy.sh/users/10094025)**, [fabricioxd17](https://osu.ppy.sh/users/31366358), [jxrri](https://osu.ppy.sh/users/12686699), [luis royett](https://osu.ppy.sh/users/11251731) |
 | ::{ flag=VN }:: | **Vietnam** | **[Shu](https://osu.ppy.sh/users/4744615)**, [Stardust Prism](https://osu.ppy.sh/users/8525921), [S h i g u r e](https://osu.ppy.sh/users/4372552), [mothernature](https://osu.ppy.sh/users/6403418), [Shiya](https://osu.ppy.sh/users/10378635), [\[ Primakien \]](https://osu.ppy.sh/users/23941998) |
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2dcba0393cd177d4b9b97cb9ccc60a#file-cwc-2023-player-list-csv).
