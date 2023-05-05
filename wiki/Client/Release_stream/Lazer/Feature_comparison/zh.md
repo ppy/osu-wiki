@@ -115,7 +115,7 @@
 | 游戏模式 | 与稳定版相比 | 与 lazer 相比 | 与 lazer 回放模式相比 |
 | :-- | :-- | :-- | :-- |
 | osu! | `abs(round(打击偏差)) < floor(判定窗口)` | `abs(打击偏差) <= 判定窗口` | `abs(round(打击偏差)) <= 判定窗口` |
-| osu!taiko | `abs(round(打击偏差)) < floor(判定窗口)`，miss 判定窗口是 `<=`  | `abs(打击偏差) <= 判定窗口` | `abs(round(打击偏差)) <= 判定窗口` |
+| osu!taiko | `abs(round(打击偏差)) < floor(判定窗口)`，miss 判定窗口是 `<=` | `abs(打击偏差) <= 判定窗口` | `abs(round(打击偏差)) <= 判定窗口` |
 | osu!mania | `abs(round(打击偏差)) <= floor(判定窗口)` | `abs(打击偏差) <= 判定窗口` | `abs(round(打击偏差)) <= 判定窗口` |
 
 |  |  |
