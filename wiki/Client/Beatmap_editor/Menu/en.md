@@ -197,7 +197,7 @@ Places of interest.
 | :-- | :-- |
 | Add Timing Section (`Ctrl` + `P`) | Add red offset (New BPM) |
 | Add Inheriting Section (`Ctrl` + `Shift` + `P`) | Add green offset (New adjuster) |
-| Reset Current Section | Reset the BPM setting of the red offset at the start of the section (will not affect other timing settings) |
+| Reset Current Section | Reset the BPM setting of the red offset at the start of the section. Saving the beatmap without setting a new BPM will delete the red offset.  |
 | Delete Timing Section (`Ctrl` + `I`) | Delete the red/green offset (delete one before the double line) |
 | Resnap Current Section | Resnap the current section with new current timing. |
 
