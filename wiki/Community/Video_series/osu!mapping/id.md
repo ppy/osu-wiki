@@ -11,25 +11,25 @@ tags:
 
 # osu!mapping
 
-*Berbeda konteks dengan [Beatmapping](/wiki/Beatmapping).*
+*Artikel ini mengusung konteks bahasan yang berbeda dengan [Beatmapping](/wiki/Beatmapping).*
 
-**osu!mapping** adalah seri video mingguan yang dibuat oleh ::{ flag=US }:: **[pishifat](https://osu.ppy.sh/users/3178418)** bertopik seputar mapping dan modding. Seri ini dirilis di [kanal YouTube pribadi pishifat](https://www.youtube.com/user/Pishifat), dan sebagian besar orang mengetahuinya hanya sebagai "pishifat videos" atau "pishi videos".
+**osu!mapping** merupakan serial video mingguan hasil rintisan ::{ flag=US }:: **[pishifat](https://osu.ppy.sh/users/3178418)** yang membahas berbagai topik seputar mapping dan modding. Serial ini dirilis pada [kanal YouTube pribadi pishifat](https://www.youtube.com/user/Pishifat), di mana serial ini umum dikenal dengan sebutan "pishifat videos" atau "pishi videos".
 
-Serial ini menjadi sangat terkenal di komunitas osu! dan menjadi sumber informasi umum yang direkomendasikan kepada para mapper baru. [osu! team](/wiki/People/osu!_team) bahkan memberikan pishifat lencana [Kontributor Komunitas](/wiki/People/Community_Contributors) atas "kontribusi teladan dalam pembuatan dan pengetahuan mengenai beatmap" sebagai bentuk apresiasi atas usaha dan kerja kerasnya dalam proyek ini.
+Serial ini merupakan serial yang populer dan banyak direkomendasikan kepada para mapper pemula. Berkat dampak positif yang ditimbulkan oleh serial ini, [osu! team](/wiki/People/osu!_team) menganugerahi pishifat lencana [kontributor komunitas](/wiki/People/Community_Contributors) atas "kontribusi teladan dalam pembuatan dan edukasi beatmap" atas usaha dan kerja kerasnya dalam proyek ini.
 
-Unggahan terjadwal osu!mapping berakhir pada bulan Januari tahun 2019, tetapi pishifat masih memiliki rencana untuk menambah topik lagi ke dalam serinya nanti.
+Episode baru osu!mapping tidak lagi dirilis secara rutin sejak bulan Januari 2019 lalu. Meskipun demikian, serial ini ke depannya masih direncanakan untuk tetap dilanjut dengan berbagai topik bahasan baru seiring waktunya.
 
 ## Tautan
 
 - **[Kanal Youtube](https://www.youtube.com/user/Pishifat)**
-- [Patreon](https://www.patreon.com/pishifat) (saat ini ditutup)
+- [Patreon](https://www.patreon.com/pishifat) (saat ini tidak aktif)
 - [Twitter](https://twitter.com/pishifat)
 
 ## Sejarah
 
-Proyek osu!mapping dimulai sebagai tanggapan dari sebuah [posting di reddit](https://www.reddit.com/r/osugame/comments/4upysl/request_for_mappers_of_this_sub/) yang meminta para mapper untuk membuat video ulasan bertopik mapping. Pada tanggal 31 Juli 2016, pishifat mengunggah video pertamanya: [osu!mapping: concepts](https://www.youtube.com/watch?v=oL3az8FhlB4). Dalam video itu, ia menjelaskan bagaimana ia akan membuat jenis video ulasan seperti yang disarankan *redditor*, tetapi pada akhirnya ia memutuskan untuk tidak melakukannya karena format video ulasan yang diminta tidak akan efektif untuk mengenalkan proses dan konsep mapping kepada mapper baru. Sebagai gantinya, ia memilih untuk memulai sebuah seri di mana dalam setiap episode, ia akan memilih topik untuk membahas konsep tertentu, menggali kegunaan dan kepentingan mereka dalam mapping secara terpisah.
+Proyek osu!mapping bermula sebagai bentuk tanggapan atas [postingan Reddit](https://www.reddit.com/r/osugame/comments/4upysl/request_for_mappers_of_this_sub/) yang menginginkan video ulasan mapping dari mapper yang berpengalaman. Pada tanggal 31 Juli 2016, pishifat mengunggah video pertamanya yang berjudul [osu!mapping: concepts](https://www.youtube.com/watch?v=oL3az8FhlB4). Dalam video tersebut, ia menjelaskan bahwa walaupun pada awalnya ia berniat untuk membuat video ulasan sebagaimana yang diminta, ia memutuskan untuk tidak melakukannya karena format ini dinilai kurang ramah bagi para mapper pemula. Sebagai gantinya, ia memutuskan untuk membuat serial baru yang mendalami berbagai topik bahasan pada masing-masing episodenya.
 
-Serial ini awalnya berfokus di format konten bergaya tutorial, tetapi dalam beberapa bulan telah mulai bercabang dan memasukkan format diskusi tentang keadaan mapping dan modding saat ini, ulasan pribadi/penyampaian pendapat, dan wawancana dengan mapper lain. Ada juga beberapa proyek penelitian yang disajikan ke dalam bentuk video seri osu!mapping, terutama [studi tentang pengaruh mapper (a study of mappers' influences)](https://www.youtube.com/watch?v=TigwDc5iOcw).
+Walaupun serial osu!mapping pada awalnya hanya berfokus pada konten tutorial, serial ini lambat laun mulai dikembangkan untuk turut mencakup berbagai konten lainnya seperti diskusi, ulasan/pendapat pribadi, serta wawancara dengan mapper lain. Di samping itu, serial ini juga pernah digunakan untuk melangsungkan proyek penelitian yang kemudian dirangkum dalam bentuk video, sebagaimana yang dapat disaksikan pada video [a study of mappers' influences](https://www.youtube.com/watch?v=TigwDc5iOcw).
 
 ## Episode
 
