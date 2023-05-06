@@ -6,7 +6,7 @@ date: 2023-05-06 11:00:00 +0000
 
 Looking for more doujin gothic rock? Of course you are. And **Genkaku Aria** is here to deliver!
 
-![](https://assets.ppy.sh/artists/357/header.jpg)
+![](https://assets.ppy.sh/artists/358/header.jpg)
 
 Exploring a hallucination story through the eyes of a girl named Aria, **Genkaku Aria**'s tunes feature themes of sorrow, intensity, and beauty, often accompanied by guest vocalists to match the mood of each track.
 
