@@ -12,7 +12,7 @@ Exploring a hallucination story through the eyes of a girl named Aria, **Genkaku
 
 [**Genkaku Aria**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/358) has **7** of those symphonic rock tunes, all pre-timed just for you, Kevin.
 
-Experience **Genkaku Aria**'sound and story for yourself:
+Experience **Genkaku Aria**'s sound and story for yourself:
 
 <div align="center">
     <video width="95%" controls>
