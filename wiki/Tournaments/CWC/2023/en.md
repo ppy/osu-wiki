@@ -111,7 +111,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2
 **[Download the mappack here (64 MB)](https://drive.google.com/u/0/uc?id=1fR6WWk_KFGTAMTCFNw2ZIOwB6g565qx1)**
 
 - No Mod
-  1. [cordelia - Setsuna \<= Imitation (F D Flourite) \[Final Whim\]](https://osu.ppy.sh/beatmapsets/1988677#fruits/4131242)
+  1. [cordelia - Setsuna <= Imitation (F D Flourite) \[Final Whim\]](https://osu.ppy.sh/beatmapsets/1988677#fruits/4131242)
   2. [USAO - Interstellar Travel (Jemzuu) \[Beyond Yoshi\]](https://osu.ppy.sh/beatmapsets/1988413#fruits/4130724)
   3. [Annabel - wormhole (Lince Cosmico) \[extra\]](https://osu.ppy.sh/beatmapsets/1884175#osu/4027941)
 - Hidden
