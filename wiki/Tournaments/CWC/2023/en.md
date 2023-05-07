@@ -197,10 +197,10 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2
 8. All teams will play their qualifiers in separate rooms. It is *suggested* that teams do not broadcast or share their results publicly to avoid seed manipulation.
    - Teams may be grouped into a singular room if there are not enough referees available at match time.
 9. The seeding method used for Qualifiers will be %MAX — the highest combined team score for each map will receive 100% of the points, and every other team will be awarded a percentage of that top score.
-- The exact formula that will be used for all teams (and for each map) is `Final Score = Team Score / MAX(Map Score)`, where:
-  - `Final Score` is the percentage awarded to the current team
-  - `Team Score` is the score the current team achieved on the current map
-  - `MAX(Map Score)` is the highest score achieved for the current map
+   - The exact formula that will be used for all teams (and for each map) is `Final Score = Team Score / MAX(Map Score)`, where:
+     - `Final Score` is the percentage awarded to the current team
+     - `Team Score` is the score the current team achieved on the current map
+     - `MAX(Map Score)` is the highest score achieved for the current map
 10. Only the top 32 seeded teams will advance to the Round of 32.
 11. The Qualifiers stage results will be published both on this page as well as a spreadsheet which will feature detailed information about every score submitted.
 
