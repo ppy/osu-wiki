@@ -9,7 +9,7 @@ tags:
 
 ![CWC 2023 banner](img/cwc2023-banner.jpg)
 
-The **osu!catch World Cup 2023** (***CWC 2023***) is an upcoming country-based osu!catch tournament hosted by the [osu! team](/wiki/People/osu!_team). It is the twelfth instalment of the osu!catch World Cup.
+The **osu!catch World Cup 2023** (***CWC 2023***) is a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/osu!_team). It is the twelfth instalment of the osu!catch World Cup.
 
 ## Tournament schedule
 
@@ -111,7 +111,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2
 **[Download the mappack here (64 MB)](https://drive.google.com/u/0/uc?id=1fR6WWk_KFGTAMTCFNw2ZIOwB6g565qx1)**
 
 - No Mod
-  1. [cordelia - Setsuna = Imitation (F D Flourite) (F D Flourite) \[Final Whim\] *(temporary link)*](https://leoflt.com/s/HjTr)
+  1. [cordelia - Setsuna <= Imitation (F D Flourite) \[Final Whim\]](https://osu.ppy.sh/beatmapsets/1988677#fruits/4131242)
   2. [USAO - Interstellar Travel (Jemzuu) \[Beyond Yoshi\]](https://osu.ppy.sh/beatmapsets/1988413#fruits/4130724)
   3. [Annabel - wormhole (Lince Cosmico) \[extra\]](https://osu.ppy.sh/beatmapsets/1884175#osu/4027941)
 - Hidden
