@@ -122,7 +122,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2
   2. [Hino Isuka - Mechanical Jager (Du5t) \[Automatic\]](https://osu.ppy.sh/beatmapsets/1988448#fruits/4130828)
 - Double Time
   1. [Feint - Laurence (Kimitakari) \[Rain (CWC Ver.)\]](https://osu.ppy.sh/beatmapsets/1988617#fruits/4131124)
-  2. [-45 - Rougoku STRIP (Deif) \[Cage\]](https://osu.ppy.sh/beatmapsets/1988438#fruits/4130793)q
+  2. [-45 - Rougoku STRIP (Deif) \[Cage\]](https://osu.ppy.sh/beatmapsets/1988438#fruits/4130793)
 
 ## Ruleset
 
