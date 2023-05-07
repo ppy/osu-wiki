@@ -9,7 +9,7 @@ tags:
 
 ![CWC 2023 banner](img/cwc2023-banner.jpg)
 
-The **osu!catch World Cup 2023** (***CWC 2023***) is an upcoming country-based osu!catch tournament hosted by the [osu! team](/wiki/People/osu!_team). It is the twelfth instalment of the osu!catch World Cup.
+The **osu!catch World Cup 2023** (***CWC 2023***) is a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/osu!_team). It is the twelfth instalment of the osu!catch World Cup.
 
 ## Tournament schedule
 
