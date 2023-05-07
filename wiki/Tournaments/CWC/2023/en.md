@@ -111,7 +111,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2
 **[Download the mappack here (64 MB)](https://drive.google.com/u/0/uc?id=1fR6WWk_KFGTAMTCFNw2ZIOwB6g565qx1)**
 
 - No Mod
-  1. [cordelia - Setsuna = Imitation (F D Flourite) (F D Flourite) \[Final Whim\] *(temporary link)*](https://leoflt.com/s/HjTr)
+  1. [cordelia - Setsuna \<= Imitation (F D Flourite) \[Final Whim\]](https://osu.ppy.sh/beatmapsets/1988677#fruits/4131242)
   2. [USAO - Interstellar Travel (Jemzuu) \[Beyond Yoshi\]](https://osu.ppy.sh/beatmapsets/1988413#fruits/4130724)
   3. [Annabel - wormhole (Lince Cosmico) \[extra\]](https://osu.ppy.sh/beatmapsets/1884175#osu/4027941)
 - Hidden
@@ -122,7 +122,7 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2
   2. [Hino Isuka - Mechanical Jager (Du5t) \[Automatic\]](https://osu.ppy.sh/beatmapsets/1988448#fruits/4130828)
 - Double Time
   1. [Feint - Laurence (Kimitakari) \[Rain (CWC Ver.)\]](https://osu.ppy.sh/beatmapsets/1988617#fruits/4131124)
-  2. [-45 - Rougoku STRIP (Deif) \[Cage\]](https://osu.ppy.sh/beatmapsets/1988438#fruits/4130793)
+  2. [-45 - Rougoku STRIP (Deif) \[Cage\]](https://osu.ppy.sh/beatmapsets/1988438#fruits/4130793)q
 
 ## Ruleset
 
