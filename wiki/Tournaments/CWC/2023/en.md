@@ -102,6 +102,26 @@ The osu!catch World Cup 2023 is run by various community members.
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2dcba0393cd177d4b9b97cb9ccc60a#file-cwc-2023-player-list-csv).
 
+## Mappools
+
+### Qualifiers
+
+**[Download the mappack here (64 MB)](https://drive.google.com/u/0/uc?id=1fR6WWk_KFGTAMTCFNw2ZIOwB6g565qx1)**
+
+- No Mod
+  1. [cordelia - Setsuna = Imitation (F D Flourite) (F D Flourite) \[Final Whim\] *(temporary link)*](https://leoflt.com/s/HjTr)
+  2. [USAO - Interstellar Travel (Jemzuu) \[Beyond Yoshi\]](https://osu.ppy.sh/beatmapsets/1988413#fruits/4130724)
+  3. [Annabel - wormhole (Lince Cosmico) \[extra\]](https://osu.ppy.sh/beatmapsets/1884175#osu/4027941)
+- Hidden
+  1. [Denzel Curry - Walkin (Cold Blooded Soul Version) (JierYagtama) \[Cold Blooded Eyez\]](https://osu.ppy.sh/beatmapsets/1988437#fruits/4130792)
+  2. [Aoi vs. siqlo - Hacktivism (autofanboy) \[Denial of Service\]](https://osu.ppy.sh/beatmapsets/1988423#fruits/4130753)
+- Hard Rock
+  1. [Rohi - Kodoku Egoism (Rocma) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1988421#fruits/4130743)
+  2. [Hino Isuka - Mechanical Jager (Du5t) \[Automatic\]](https://osu.ppy.sh/beatmapsets/1988448#fruits/4130828)
+- Double Time
+  1. [Feint - Laurence (Kimitakari) (Kimitakari) \[Rain (CWC Ver.)\] *(temporary link)*](https://leoflt.com/s/gS3q)
+  2. [-45 - Rougoku STRIP (Deif) \[Cage\]](https://osu.ppy.sh/beatmapsets/1988438#fruits/4130793)
+
 ## Ruleset
 
 ### Tournament rules
@@ -176,8 +196,13 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2
 7. An optional 3-minute break will be offered between the first and second playthrough of the mappool.
 8. All teams will play their qualifiers in separate rooms. It is *suggested* that teams do not broadcast or share their results publicly to avoid seed manipulation.
    - Teams may be grouped into a singular room if there are not enough referees available at match time.
-9. Only the top 32 seeded teams will advance to the Round of 32.
-10. The Qualifiers stage results will be published both on this page as well as a spreadsheet which will feature detailed information about every score submitted.
+9. The seeding method used for Qualifiers will be %MAX — the highest combined team score for each map will receive 100% of the points, and every other team will be awarded a percentage of that top score.
+- The exact formula that will be used for all teams (and for each map) is `Final Score = Team Score / MAX(Map Score)`, where:
+  - `Final Score` is the percentage awarded to the current team
+  - `Team Score` is the score the current team achieved on the current map
+  - `MAX(Map Score)` is the highest score achieved for the current map
+10. Only the top 32 seeded teams will advance to the Round of 32.
+11. The Qualifiers stage results will be published both on this page as well as a spreadsheet which will feature detailed information about every score submitted.
 
 ### Stage instructions
 
