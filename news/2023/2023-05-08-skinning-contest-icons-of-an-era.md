@@ -28,7 +28,14 @@ The voting will stay open for 14 days. Once that passes, the top 3 entries will 
 
 ## Schedule
 
-The countdown for the various stages can be followed via [the contest page](https://osu.ppy.sh/community/contests/178).
+| Event | Time |
+| :-- | :-- |
+| Announcement | TBD |
+| Submission phase | 5 weeks after publishing news post |
+| Voting phase | 2 weeks starting from a separate news post |
+| Results | TBD |
+
+The countdown for the various stages can also be followed via [the contest page](https://osu.ppy.sh/community/contests/178).
 
 ## Rules
 
