@@ -395,7 +395,7 @@ Estas canciones se [anunciaron](https://osu.ppy.sh/home/news/2023-02-01-twin-tri
 
 | Canción | Beatmap | Notas |
 | :-: | :-: | :-- |
-| GTS Orchestra Team - Akatsuki - Tokoyami no Yoru ga Aketa Toki - | [#1](https://osu.ppy.sh/beatmapsets/1988498) | Desempate del la gran final |
+| [GTS Orchestra Team - Akatsuki - Tokoyami no Yoru ga Aketa Toki -](https://soundcloud.com/rurinn/dawn)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1988498) | Desempate del la gran final |
 
 #### ![](/wiki/shared/mode/osu.png) [GST:LIVE 2022](/wiki/Tournaments/GSTLIVE/22)
 
