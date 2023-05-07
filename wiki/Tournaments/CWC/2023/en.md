@@ -50,6 +50,7 @@ The osu!catch World Cup 2023 is run by various community members.
 
 ## Links
 
+- [Information spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSBYHOykPfOx6doMljKcQfjyrXmdVjEflIV2hpHJpH1uoDhk7OpE84QHIYG0oO8MytJ4RtrME9qJ_JF/pubhtml)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1749802)
 - [Livestream](https://www.twitch.tv/osulive)
 - [Donate to the prize pool](https://opencollective.com/osu-tournaments/events/osu-catch-world-cup-2023-3aaa5a51)
