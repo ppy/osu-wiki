@@ -42,9 +42,9 @@ The osu!catch World Cup 2023 is run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578), ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779) |
-| Mappool selector | :: {flag=HK} :: [autofanboy](https://osu.ppy.sh/users/636114), ::{ flag=CN }:: [F D Flourite](https://osu.ppy.sh/users/2459589), ::{ flag=UA }:: [M0RU](https://osu.ppy.sh/users/13681464), ::{ flag=CA }:: [wwwww](https://osu.ppy.sh/users/8434466), ::{ flag=CA }:: [Yoshi\_green](https://osu.ppy.sh/users/1035891), ::{ flag=TN }:: [\-Ken](https://osu.ppy.sh/users/4430811) |
+| Mappool selector | :: { flag=HK } :: [autofanboy](https://osu.ppy.sh/users/636114), ::{ flag=CN }:: [F D Flourite](https://osu.ppy.sh/users/2459589), ::{ flag=UA }:: [M0RU](https://osu.ppy.sh/users/13681464), ::{ flag=CA }:: [wwwww](https://osu.ppy.sh/users/8434466), ::{ flag=CA }:: [Yoshi\_green](https://osu.ppy.sh/users/1035891), ::{ flag=TN }:: [\-Ken](https://osu.ppy.sh/users/4430811) |
 | Mappool playtester | ::{ flag=CN }:: [F D Flourite](https://osu.ppy.sh/users/2459589), ::{ flag=CN }:: [Coevir](https://osu.ppy.sh/users/3171965), ::{ flag=US }:: [GiGas](https://osu.ppy.sh/users/7300747), ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776), ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134), ::{ flag=PH }:: [JierYagtama](https://osu.ppy.sh/users/7483452), ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164), ::{ flag=UA }:: [M0RU](https://osu.ppy.sh/users/13681464), ::{ flag=PL }:: [Mniam](https://osu.ppy.sh/users/6050530), ::{ flag=KR }:: [Motion](https://osu.ppy.sh/users/3885626), ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276), ::{ flag=PL }:: [Verti](https://osu.ppy.sh/users/10674528), ::{ flag=CA }:: [wwwww](https://osu.ppy.sh/users/8434466), ::{ flag=CA }:: [Yoshi\_green](https://osu.ppy.sh/users/1035891), ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768),  ::{ flag=TN }:: [\-Ken](https://osu.ppy.sh/users/4430811) |
-| Commentator | :{ flag=AU }:: [Corrosion](https://osu.ppy.sh/users/16899553), ::{ flag=US }:: [Dohland](https://osu.ppy.sh/users/5220511), ::{ flag=US }:: [Elux](https://osu.ppy.sh/users/12004983), ::{ flag=AU }:: [ewong](https://osu.ppy.sh/users/16859546), ::{ flag=IS }:: [Huge Man](https://osu.ppy.sh/users/7297777), ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508), ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164), ::{ flag=AU }:: [KWYJIBO](https://osu.ppy.sh/users/7178386), ::{ flag=US }:: [Lumenite\-](https://osu.ppy.sh/users/6256027), ::{ flag=NL }:: [Sartan](https://osu.ppy.sh/users/4100941), ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637), ::{ flag=US }:: [Snowleopard](https://osu.ppy.sh/users/3790227), ::{ flag=US }:: [Zak](https://osu.ppy.sh/users/1375955), ::{ flag=BE }:: [\[ Quinten \]](https://osu.ppy.sh/users/6283136) |
+| Commentator | ::{ flag=AU }:: [Corrosion](https://osu.ppy.sh/users/16899553), ::{ flag=US }:: [Dohland](https://osu.ppy.sh/users/5220511), ::{ flag=US }:: [Elux](https://osu.ppy.sh/users/12004983), ::{ flag=AU }:: [ewong](https://osu.ppy.sh/users/16859546), ::{ flag=IS }:: [Huge Man](https://osu.ppy.sh/users/7297777), ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508), ::{ flag=RU }:: [Kimitakari](https://osu.ppy.sh/users/4741164), ::{ flag=AU }:: [KWYJIBO](https://osu.ppy.sh/users/7178386), ::{ flag=US }:: [Lumenite\-](https://osu.ppy.sh/users/6256027), ::{ flag=FR }:: [Realmas](https://osu.ppy.sh/users/6567640), ::{ flag=NL }:: [Sartan](https://osu.ppy.sh/users/4100941), ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637), ::{ flag=US }:: [Snowleopard](https://osu.ppy.sh/users/3790227), ::{ flag=US }:: [Zak](https://osu.ppy.sh/users/1375955), ::{ flag=BE }:: [\[ Quinten \]](https://osu.ppy.sh/users/6283136) |
 | Referee | ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595), ::{ flag=AU }:: [Fairy Bread](https://osu.ppy.sh/users/8306102), ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779), ::{ flag=NL }:: [nik](https://osu.ppy.sh/users/10077264), ::{ flag=IN }:: [Speshimen](https://osu.ppy.sh/users/7720204), ::{ flag=US }:: [tigereyes144](https://osu.ppy.sh/users/6499811), ::{ flag=GB }:: [Yazzehh](https://osu.ppy.sh/users/7068973), ::{ flag=US }:: [\[K\]](https://osu.ppy.sh/users/16551387) |
 | Statistician | ::{ flag=FI }:: [shdewz](https://osu.ppy.sh/users/10000899) |
 
@@ -53,6 +53,7 @@ The osu!catch World Cup 2023 is run by various community members.
 - [Information spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSBYHOykPfOx6doMljKcQfjyrXmdVjEflIV2hpHJpH1uoDhk7OpE84QHIYG0oO8MytJ4RtrME9qJ_JF/pubhtml)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1749802)
 - [Livestream](https://www.twitch.tv/osulive)
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/115) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
 - [Donate to the prize pool](https://opencollective.com/osu-tournaments/events/osu-catch-world-cup-2023-3aaa5a51)
 
 ## Participants
@@ -114,13 +115,13 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/1c2
   2. [USAO - Interstellar Travel (Jemzuu) \[Beyond Yoshi\]](https://osu.ppy.sh/beatmapsets/1988413#fruits/4130724)
   3. [Annabel - wormhole (Lince Cosmico) \[extra\]](https://osu.ppy.sh/beatmapsets/1884175#osu/4027941)
 - Hidden
-  1. [Denzel Curry - Walkin (Cold Blooded Soul Version) (JierYagtama) \[Cold Blooded Eyez\]](https://osu.ppy.sh/beatmapsets/1988437#fruits/4130792)
+  1. [Denzel Curry - Walkin (Cold Blooded Soul Version) (JierYagtama) \[Cold Blooded Eyez (CWC Version)\]](https://osu.ppy.sh/beatmapsets/1988437#fruits/4130792)
   2. [Aoi vs. siqlo - Hacktivism (autofanboy) \[Denial of Service\]](https://osu.ppy.sh/beatmapsets/1988423#fruits/4130753)
 - Hard Rock
   1. [Rohi - Kodoku Egoism (Rocma) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1988421#fruits/4130743)
   2. [Hino Isuka - Mechanical Jager (Du5t) \[Automatic\]](https://osu.ppy.sh/beatmapsets/1988448#fruits/4130828)
 - Double Time
-  1. [Feint - Laurence (Kimitakari) (Kimitakari) \[Rain (CWC Ver.)\] *(temporary link)*](https://leoflt.com/s/gS3q)
+  1. [Feint - Laurence (Kimitakari) \[Rain (CWC Ver.)\]](https://osu.ppy.sh/beatmapsets/1988617#fruits/4131124)
   2. [-45 - Rougoku STRIP (Deif) \[Cage\]](https://osu.ppy.sh/beatmapsets/1988438#fruits/4130793)
 
 ## Ruleset
