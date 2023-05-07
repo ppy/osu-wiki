@@ -8,7 +8,7 @@ tags:
 
 # Offizielle Turnierunterstützung
 
-*Für die Unterstützung von Beatmapping-Wettbewerben, siehe: [Offizielle Wettbewerbsunterstützung](/wiki/Contests/Official_support).*
+*Für die Unterstützung von Beatmapping-Wettbewerben, siehe: [Offizielle Beatmapping-Wettbewerbsunterstützung](/wiki/Contests/Official_support).*
 
 Das [osu!-Team](/wiki/People/osu!_team) betreibt ein Programm, bei dem es nach ihrem Ermessen von der Community veranstaltete Turniere, die bestimmte Kriterien und Erwartungen erfüllen, mit zusätzlicher Unterstützung ausstatten kann.
 
@@ -212,7 +212,7 @@ Das Spiel mit Abzeichen zu überfluten verwischt das Ansehen des Preises für al
 
 ### Kann ich ein Abzeichen für einen Beatmap-Wettbewerb oder andere Arten von Wettbewerben anfordern? {#contest-support}
 
-Ja! Siehe [Offizielle Wettbewerbsunterstützung](/wiki/Contests/Official_support) für mehr Details.
+Ja! Siehe [Offizielle Beatmapping-Wettbewerbsunterstützung](/wiki/Contests/Official_support) für mehr Details.
 
 ## Anmerkungen
 
