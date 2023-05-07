@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: e542028d7b6fa31e3eeaec706d309d328aa1ca8f
+---
+
 # 谱面上架标准 (RC)
 
 *若想查阅特定[游戏模式](/wiki/Game_mode)的谱面上架标准，请参阅 [osu!](osu!)、[osu!taiko](osu!taiko)、[osu!catch](osu!catch)、[osu!mania](osu!mania)。*
