@@ -4,11 +4,11 @@ tags:
   - 인프라
 ---
 
-# 반쵸 (서버)
+# Bancho (서버)
 
-*다른 의미로 사용되는 반쵸에 대해서는 [반쵸 (동음이의어)](/wiki/Disambiguation/Bancho) 문서를 참고하십시오.*
+*다른 의미로 사용되는 반쵸에 대해서는 [Bancho (동음이의어)](/wiki/Disambiguation/Bancho) 문서를 참고하십시오.*
 
-**반쵸** (때때로는 *osu!Bancho*)는 서버 컴포넌트의 코드 이름입니다. 반쵸는 osu! Stable 버전의 게임을 실행하는 유저 간의 실시간 상호작용을 처리합니다.
+**Bancho**(또는 *osu!Bancho*)는 서버 컴포넌트의 코드 이름입니다. Bancho는 osu! Stable 버전의 게임을 실행하는 유저 간의 실시간 상호작용을 처리합니다.
 
 - 채팅 시스템, [online presence](/wiki/Client/Interface/Chat_console#extended-chat-console), and the [IRC gateway](/wiki/Community/Internet_Relay_Chat)
 - [관전자](/wiki/Gameplay/Spectating) 모드
@@ -20,7 +20,7 @@ tags:
 
 만약 Bancho와의 연결 상태가 좋지 않을 경우, osu!는 화면 우측 하단 코너에 부서진 체인 연결고리 아이콘을 띄워 플레이어에게 경고합니다.
 
-유지 보수 시간동안, 반쵸는 몇 번씩 재시작될 수 있습니다. 게임 내 알림 시스템을 통해 카운트다운과 함께 채팅에 주기적인 경고 메세지를 모든 유저들에게 전달합니다. 다른 모든 기능은 [API](/wiki/osu!api)를 통해 처리되므로 서버 재시작은 채팅과 멀티플레이어에만 영향을 미칩니다.[^score-upload-ref]
+유지 보수 시간동안, Bancho는 몇 번씩 재시작될 수 있습니다. 게임 내 알림 시스템을 통해 카운트다운과 함께 채팅에 주기적인 경고 메세지를 모든 유저들에게 전달합니다. 다른 모든 기능은 [API](/wiki/osu!api)를 통해 처리되므로 서버 재시작은 채팅과 멀티플레이어에만 영향을 미칩니다.[^score-upload-ref]
 
 ## 참조
 
