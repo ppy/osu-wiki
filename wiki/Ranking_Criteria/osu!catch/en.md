@@ -19,6 +19,7 @@ Overall rules and guidelines apply to every kind of osu!catch difficulty. Rhythm
   - **...lower than 2:30**, the lowest difficulty cannot be harder than a Salad.
   - **...between 2:30 and 3:15**, the lowest difficulty cannot be harder than a Platter.
   - **...between 3:15 and 4:00**, the lowest difficulty cannot be harder than a Rain.
+  - **[Break times](/wiki/Beatmap/Break) may be combined with [drain time](/wiki/Beatmap/Drain_time) to meet the above thresholds.** For the highest difficulty, this is limited to at most 30 seconds of break time. This does not apply to difficulties with less than 30 seconds of drain time.
 
 #### Guidelines
 
