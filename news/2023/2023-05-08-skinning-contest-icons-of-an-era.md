@@ -8,7 +8,11 @@ Celebrate 15 years of osu! by expressing your creativity through osu! skinning!
 
 ![](/wiki/shared/news/2023-05-08-skinning-contest-icons-of-an-era/banner.jpg)
 
-A lot has happened in the 15 years since osu!'s inception — and every time the community thought that we have reached the top. Whether that'd be in mapping, skinning or gameplay, the boundaries of what is deemed possible kept getting pushed back further and further. This year's theme — "**Icons of an Era**", aims to spark the community's imagination by creating art around various iconic osu! beatmaps that were crafted and risen to glory throughout osu!'s lifetime, as well as the many official osu! mascots that have been introduced over the course of the past 15 years.
+A lot has happened in the 15 years since osu!'s inception — and every time the community thought that we have reached the top. Whether that'd be in mapping, skinning or gameplay, the boundaries of what is deemed possible kept getting pushed back further and further. So without further ado, let's go over the theme.
+
+## The theme
+
+This year's theme — "**Icons of an Era**", aims to spark the community's imagination by creating art around various iconic osu! beatmaps that were crafted and risen to glory throughout osu!'s lifetime, as well as the many official osu! mascots that have been introduced over the course of the past 15 years. Whether your entry is focused around Taikonator or The Big Black, you will need to make sure that their presence is prominent, as anyone should be able to open your entry and almost immediately recognize what the inspiration behind your entry was.
 
 Before you decide to take a journey through osu!'s history and come up with ideas, let's clear some ground rules, as well as the various schedules and prizes for the top entries!
 
@@ -30,8 +34,7 @@ The voting will stay open for 14 days. Once that passes, the top 3 entries will 
 
 | Event | Time |
 | :-- | :-- |
-| Announcement | TBD |
-| Submission phase | 5 weeks after publishing news post |
+| Submission phase | PLACEHOLDER |
 | Voting phase | 2 weeks starting from a separate news post |
 | Results | TBD |
 
