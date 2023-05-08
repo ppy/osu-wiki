@@ -21,21 +21,21 @@ Zwar haben einige Foren wie beispielsweise [Mapping Discussion](https://osu.ppy.
 
 ## Rollen und Nutzergruppen
 
-Manche Benutzer dürfen zu einer oder mehreren benutzerdefinierten Gruppen gehören, abhängig von ihren Community-Aufgaben, Zugriffsrechten oder ihrer früheren Tätigkeit. Eine vollständige Liste der Nutzergruppen kann unter [Das Team § Benutzergruppen](/wiki/People/The_Team#benutzergruppen) gefunden werden.
+Manche Benutzer dürfen zu einer oder mehreren benutzerdefinierten Gruppen gehören, abhängig von ihren Community-Aufgaben, Zugriffsrechten oder ihrer früheren Tätigkeit. Eine vollständige Liste der Nutzergruppen kann unter [Benutzergruppe](/wiki/People/User_group) gefunden werden.
 
-Zusätzlich zur Gruppenzugehörigkeit, die durch Gruppenabzeichen gekennzeichnet ist, dürfen Nutzer [eigene Nutzertitel](/wiki/User_title) haben, die in jedem Beitrag unter dem Avatar angezeigt werden.
+Zusätzlich zur Gruppenzugehörigkeit, die durch Gruppenabzeichen gekennzeichnet ist, dürfen Nutzer [eigene Nutzertitel](/wiki/Community/User_title) haben, die in jedem Beitrag unter dem Avatar angezeigt werden.
 
 ### Moderation
 
 *Siehe auch: [Melden von schlechtem Verhalten § Forum](/wiki/Reporting_bad_behaviour#forum)*
 
-[Moderatoren](/wiki/People/The_Team/Global_Moderation_Team) sind Benutzer, die die Foren sauber und angemessen halten und sich um diesbezügliche Bedenken kümmern. Moderatoren können unangebrachte Beiträge oder Themen bearbeiten bzw. löschen, Themen anpinnen und sie zwischen verschiedenen Foren verschieben. Des Weiteren können sie Missetäter durch eine [Stummschaltung](/wiki/Silence) temporär daran hindern, Beiträge zu teilen.
+[Moderatoren](/wiki/People/Global_Moderation_Team) sind Benutzer, die die Foren sauber und angemessen halten und sich um diesbezügliche Bedenken kümmern. Moderatoren können unangebrachte Beiträge oder Themen bearbeiten bzw. löschen, Themen anpinnen und sie zwischen verschiedenen Foren verschieben. Des Weiteren können sie Missetäter durch eine [Stummschaltung](/wiki/Silence) temporär daran hindern, Beiträge zu teilen.
 
 ## Spezielle Foren
 
 Einige der Foren haben unterschiedliche Zwecke, die nicht auf Diskussionen begrenzt sind. Deshalb haben sie zusätzliche Regeln und/oder technische Funktionen.
 
-- [Help](/wiki/Community/Forum/Help): technischer Support vom [Support-Team](/wiki/People/The_Team/Support_Team) und regulären Nutzern
+- [Help](/wiki/Community/Forum/Help): technischer Support vom [Support-Team](/wiki/People/Support_Team) und regulären Nutzern
 - [Feature Requests](/wiki/Community/Forum/Feature_Requests): Vorschläge für die Entwicklung von osu!
 - [Modding Queues](/wiki/Community/Forum/Modding_Queues): Beatmap-Bewertungen durch andere Mapper und Modder
 - [Off-Topic](/wiki/Community/Forum/Off-Topic): der Ort für sinnfreie Diskussionen
@@ -47,7 +47,7 @@ Darüber hinaus gibt es andere Foren, die ähnlich zu Abandoned Wasteland sind u
 
 [Der erste öffentliche Forenbeitrag](https://osu.ppy.sh/community/forums/topics/2) wird auf den 28. August 2007 datiert und ist von ::{ flag=AU }:: [peppy](/wiki/People/peppy). Während dieser Zeit hat die osu!-Webseite [phpBB](https://de.wikipedia.org/wiki/PhpBB) als Foren-Engine genutzt, die über die Jahre erheblich erweitert wurde, um den Bedürfnissen des Spiels und der Community gerecht zu werden. Einige dieser Anpassungen enthalten:
 
-- Einbindung des [Beatmap-Einreichungssystems](/wiki/Submission)
+- Einbindung des [Beatmap-Einreichungssystems](/wiki/Beatmapping/Beatmap_submission)
 - die [Kudosu](/wiki/Modding/Kudosu)- und [Beatmap-Ranking](/wiki/Beatmap_ranking_procedure)-Systeme
 - die Foren [Help](/wiki/Community/Forum/Help) und [Feature Requests](/wiki/Community/Forum/Feature_Requests)
 - [osu!supporter](/wiki/osu!supporter) und die Nutzerseiten

@@ -21,7 +21,7 @@ The server mainly consists of:
 - Channels to request mods, guest difficulties, nominations, or other mapping related requests.
 - Channels where users can ask any mapping related questions, fit with experienced mappers to answer said questions.
 - A place to share modding queues in order to gain more experience.
-- A centralized place to find the status of [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators).
+- A centralized place to find the status of [Beatmap Nominators](/wiki/People/Beatmap_Nominators).
 - A list of useful references such as tools, RC proposals and other Discord servers.
 
 ## Staff
@@ -35,4 +35,4 @@ The server mainly consists of:
 
 In order to gain access to the channels, users must verify their identity by posting their osu! profiles in the `#arrival` channel and stating what role(s) they are interested in.
 
-![Authentication process](img/auth.jpg "When joining the server, users will post their osu! profile and ask for a certain role, and an administrator will edit their profiles accordingly")
+![Authentication process](img/auth.jpg?1 "When joining the server, users will post their osu! profile and ask for a certain role, and an administrator will edit their profiles accordingly")

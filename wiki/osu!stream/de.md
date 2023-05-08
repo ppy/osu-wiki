@@ -1,14 +1,22 @@
 # osu!stream
 
+*Für die Liste der im Spiel enthaltenen Songs, siehe: [Songliste von osu!stream](/wiki/osu!stream/Song_List)*
+
 ![](img/Os-Logo.jpg "Logo von osu!stream")
 
-**osu!stream** ist eine Version von osu!, die von Grund auf neu entwickelt wurde und extra für touch-fähige Geräte ausgelegt ist. Aktuell ist sie nur für Apples [iOS](http://en.wikipedia.org/wiki/IOS)-Plattform verfügbar. Ein [Android](http://en.wikipedia.org/wiki/Android_%28operating_system%29)-Port war geplant und beinahe fertig, wurde aber noch nicht veröffentlicht, da es Probleme bei der Audiolatenz gab, die den Spielspaß massiv beeinträchtigten.
+**osu!stream** ist eine spezielle Version von osu!, die für tragbare Geräte mit [iOS](https://de.wikipedia.org/wiki/IOS_(Betriebssystem)) und [Android](https://de.wikipedia.org/wiki/Android_(Betriebssystem)) produziert wurde. Es kann kostenlos aus dem [App Store](https://apps.apple.com/us/app/osu-stream/id436952197) (iOS) und dem [Play Store](https://play.google.com/store/apps/details?id=sh.ppy.osustream&pli=1) (Android) heruntergeladen werden.
 
-Enthalten ist ein komplett überarbeitetes Spielsystem mit neuen Spielelementen wie den Hold-Circles und verbundenen Beats. Klassische osu! Beatmaps werden nicht ohne manuelle Umwandlung unterstützt. Stattdessen wurden neue Beatmaps explizit von einem besonderen Team an Mappern erstellt, um die Chance der neuen Spielelemente auszunutzen. Diese neuen Beatmaps haben einen [strikteren Standard](https://docs.google.com/document/d/1FYmHhRX-onR-osgTS6uHSOZuu_0JEbfRZePVySvvr9g).
+Im Gegensatz zum normalen osu! enthält osu!stream ein komplett überarbeitetes Spielsystem mit neuen Spielelementen wie den Hold-Circles und verbundenen Beats. Klassische osu! Beatmaps werden nicht ohne manuelle Umwandlung unterstützt. Stattdessen wurden neue Beatmaps explizit von einem besonderen Team an Mappern erstellt, um die Chance der neuen Spielelemente auszunutzen. Diese neuen Beatmaps haben einen [strikteren Standard](https://docs.google.com/document/d/1FYmHhRX-onR-osgTS6uHSOZuu_0JEbfRZePVySvvr9g).
 
-[osu!stream wurde in osu!monthly \#5 zusammen mit einem Interview vorgestellt.](https://osu.ppy.sh/community/forums/topics/59924)
+## Geschichte
 
-Die Entwicklung für diese Version endete in 2020. Für mehr Informationen lies den [Blog-Beitrag](https://blog.ppy.sh/osu-stream-2020-release/) über ihre letzte Veröffentlichung. Der Quellcode zusammen mit den Beatmap-Konvertierungs- und Test-Tools wurde im selben Jahr unter einer freien Lizenz auf [GitHub](https://github.com/ppy/osu-stream) zur Verfügung gestellt. Alle zuvor kostenpflichtigen Beatmaps sind jetzt kostenlos im in-game "Store" erhältlich.
+Die Entwicklung von osu!stream begann im Jahr 2011 als ein Versuch, eine Version von osu! zu veröffentlichen, die unterwegs gespielt werden konnte, in Anlehnung an das zuvor aufgegebene Projekt [osu! iPhone](https://github.com/ppy/osu-iPhone). Zu Anfang war es als eine iOS-exklusive App gedacht, da die Infrastruktur von Android zur damaligen Zeit bedeutete, dass Audio-Latenzprobleme auf der Plattform unvermeidlich waren.
+
+Das Spiel wurde erstmals in einem [kryptischen YouTube-Video](https://www.youtube.com/watch?v=6Jyzgm_-joM) im Juni 2011 angeteasert. Nach der Veröffentlichung ein paar Monate später wurden die Hintergründe des Spiels in [osu!monthly \#5](https://osu.ppy.sh/community/forums/topics/59924) zusammen mit einem Interview mit peppy erläutert.
+
+Die Hauptentwicklung für osu!stream wurde 2020 eingestellt. Weitere Informationen findest du im [Blogbeitrag](https://blog.ppy.sh/osu-stream-2020-release/) zur letzten Veröffentlichung. Der Quellcode zusammen mit den Beatmap-Konvertierungs- und Test-Tools wurde im selben Jahr unter einer freien Lizenz auf [GitHub](https://github.com/ppy/osu-stream) zur Verfügung gestellt. Alle zuvor kostenpflichtigen Beatmaps sind jetzt kostenlos im "In-Game-Store" erhältlich.
+
+Im Jahr 2023, zwölf Jahre nach seiner erstmaligen Veröffentlichung, wurde osu!stream dank der Bemühungen von ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454) und anderen Mitwirkenden schließlich [auf Android portiert](https://twitter.com/ppy/status/1613460209703456769).
 
 ## Installation
 
@@ -215,10 +223,6 @@ Die Hintergrundfarbe ist violett und die Lichter verdunkeln sich, abhängig von 
 ![](img/Os-O2.png "Optionsmenü 2")
 
 ---
-
-## Songliste
-
-***[Klicke hier für die gesamte Liste](Song_List)***
 
 ## Punktevergabe
 

@@ -463,7 +463,7 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
 
 1. 各個階段皆會使用各不相同的圖池。
    - 但決賽及總決賽使用相同的圖池
-2. 每個圖池皆由 NoMod、[Hidden](/wiki/Game_modifier/Hidden)、[HardRock](/wiki/Game_modifier/Hard_Rock)、[DoubleTime](/wiki/Game_modifier/Double_Time)、Special 以及 FreeMod 組成。
+2. 每個圖池皆由 NoMod、[Hidden](/wiki/Gameplay/Game_modifier/Hidden)、[HardRock](/wiki/Gameplay/Game_modifier/Hard_Rock)、[DoubleTime](/wiki/Gameplay/Game_modifier/Double_Time)、Special 以及 FreeMod 組成。
 3. 每個圖池皆有 16 張譜面。
 4. 每個圖池皆有 1 張 Tiebreaker。
 5. NoMod 將在不使用任何 Mod 的狀況下遊玩。

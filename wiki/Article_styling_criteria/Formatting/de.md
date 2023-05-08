@@ -1,6 +1,5 @@
 ---
-outdated_since: f5cbe6d8793eeb5aeec9376259b23bdbdbc1e84b
-outdated_translation: true
+no_native_review: true
 ---
 
 # Formatierung
@@ -363,16 +362,16 @@ Abschnittstitel dürfen kein Titellevel überspringen (also gehe nicht von einem
 Es ist möglich, eine Abschnittskennung neu zu definieren, welche genutzt wird, um darauf direkt zu verweisen. Benutzerdefinierte Kennungen sollten genutzt werden, wenn automatisch generierte zu lang sind, knifflige Zeichensetzung oder Bilder enthalten:
 
 ```markdown
-## Meine Abklingzeit ist vorüber. Wie lege ich Berufung ein? {#berufung}
+## Meine Abklingzeit ist vorüber. Wie lege ich Berufung ein? {id=berufung}
 
-## Übliche Gründe für Sperrungen oder Abklingzeiten {#übliche-gründe}
+## Übliche Gründe für Sperrungen oder Abklingzeiten {id=übliche-gründe}
 ```
 
 Dieses Feature kann auch verwendet werden, um einen spezifischen Teil eines Artikels zu markieren, der keine Überschrift trägt. Nutze es sparsam:
 
 ```markdown
 > Das ist es! Du bist auf dem richtigen Weg, ein osu! Rhythmus-Meister zu werden!
-{#tutorial-zitat}
+{id=tutorial-zitat}
 ```
 
 ## Listen
@@ -526,7 +525,7 @@ Es gibt zwei Arten von Links: Inline und als Verweis. Inline hat zwei Stile.
 Das folgende ist ein Beispiel mit beiden Inline-Stilen:
 
 ```markdown
-[Spielmodifikation](/wiki/Game_modifier)
+[Spielmodifikation](/wiki/Gameplay/Game_modifier)
 
 <https://osu.ppy.sh/home>
 ```
@@ -572,8 +571,8 @@ Gute Beispiele:
 
 ```markdown
 [Artikelgestaltungskriterien](/wiki/Article_styling_criteria)
-[Entwickler](/wiki/People/The_Team/Developers)
-[Entwickler](/wiki/People/The_Team/Developers#game-client-developers)
+[Entwickler](/wiki/People/Developers)
+[Entwickler](/wiki/People/Developers#game-client-developers)
 ```
 
 ##### Links zu Unterartikeln
@@ -602,7 +601,7 @@ Die URL aus der Adressleiste deines Webbrowsers sollte so kopiert werden, wie si
 
 Alle Benutzernamen müssen bei ihrer ersten Nennung verlinkt werden. Andere Nennungen sind optional, müssen aber im ganzen Artikel für alle Benutzernamen konsistent sein. Wenn es schwierig ist, die Benutzer-ID zu bestimmen, darf hier die Verlinkung übersprungen werden.
 
-Wenn zu anderen Benutzerprofilen verlinkt wird, muss die Benutzer-ID verwendet werden. Benutze die neue Webseite (`https://osu.ppy.sh/users/{Benutzername})`), um an die Benutzer-ID zu gelangen.
+Wenn zu anderen Benutzerprofilen verlinkt wird, muss die Benutzer-ID verwendet werden. Benutze die neue Webseite (`https://osu.ppy.sh/users/{Benutzername}`), um an die Benutzer-ID zu gelangen.
 
 Der Linktext des Benutzerlinks sollte den aktuellen Namen des Benutzers verwenden.
 
@@ -668,6 +667,8 @@ Es gibt zwei Arten von Bildlinks: Inline und als Verweis. Beispiele:
 
 Bilder sollten den Inline-Stil verwenden. Definitionen für Verweise müssen am Ende des Artikels platziert werden.
 
+Alle Blockbilder auf der Seite (die nichts anderes in der gleichen Zeile haben) werden in eine einzige Galerie kombiniert, die mit den beiden Pfeilen am Rand des Bildschirms, Tastenkürzeln oder Bildschirmwischen auf mobilen Geräten bedient werden kann<!-- https://github.com/ppy/osu-web/pull/8126 -->.
+
 ### Alternative und Titeltexte
 
 Der Text in den ersten eckigen Klammern (*alternativer Text*) sollte das Bild wörtlich beschreiben. Dies wird von Bildschirmlesegeräten benutzt und wird angezeigt, falls das Bild nicht geladen werden kann. Es kann weggelassen werden, wenn es identisch mit dem Titeltext ist oder wenn das Bild nur aus dekorativen Zwecken enthalten ist.
@@ -678,9 +679,9 @@ Der Text in Anführungszeichen (*Titeltext*) sollte zusätzlichen Kontext zum Bi
 
 Wenn ein Bild der einzige Inhalt eines Absatzes ist, dann wird dieses als zentrierter Block angezeigt. Ansonsten liegt es dynamisch im umgebenden Inline-Text.
 
-Blockbilder mit einem Titeltext zeigen den Titeltext als Bildunterschrift unter dem Bild an.
+Blockbilder mit einem Titeltext zeigen den Titeltext als Bildunterschrift unter dem Bild an. Vermeide das Hinzufügen von [HTML-Kommentaren](#kommentare) oder beliebig anderem Text auf derselben Linie wie das Bild, da da dies dazu führt, dass die Unterschrift nicht angezeigt wird.
 
-Blockbilder werden häufig mit einer Infobox<!-- TODO: link me! --> zusammen formatiert, um die anfängliche Größe zu reduzieren und sie neben anderen Inhalten zu platzieren:
+Blockbilder werden häufig mit einer [Infobox](#infoboxen) zusammen formatiert, um die anfängliche Größe zu reduzieren und sie neben anderen Inhalten zu platzieren:
 
 ```markdown
 ::: Infobox
@@ -762,25 +763,15 @@ Du musst diese Einstellungen im Spiel-Client haben, bevor du einen Screenshot er
 
 Bilder dürfen nicht Teil eines Linktextes sein.
 
-Flaggensymbole neben Links zu Benutzern müssen vom Linktext getrennt sein. Siehe folgendes Beispiel:
+## Flaggensymbole
+
+Die Flaggensymbole benutzen eine Zwei-Buchstaben-Kodierung (alle in Großschreibweise) und sind einem bestimmten Gebiet zugeordnet. Benutze beim Inline-Hinzufügen eines Symbols dieses Format:
 
 ```markdown
-![][flag_AU] [peppy](https://osu.ppy.sh/users/2)
+::{ flag=XX }::
 ```
 
-### Flaggensymbole
-
-*Für eine Liste der Flaggensymbole, siehe: [Issue \#328](https://github.com/ppy/osu-wiki/issues/328)*
-
-Die Flaggensymbole benutzen eine Zwei-Buchstaben-Kodierung (alle in Großschreibweise) und enden in `.gif`. Benutze beim Inline-Hinzufügen eines Symbols dieses Format:
-
-```markdown
-![](/wiki/shared/flag/xx.gif)
-```
-
-Wobei `xx` der [ISO 3166-2](https://de.wikipedia.org/wiki/ISO-3166-1-Kodierliste) zwei-Buchstaben Ländercode für die Flagge ist.
-
-Der volle Ländername sollte in den Titeltext eingefügt werden. Der Ländercode im alternativen Text ist optional, aber muss bei allen Flaggen im Artikel angewendet werden.
+Wobei `XX` der [ISO 3166-2](https://de.wikipedia.org/wiki/ISO-3166-1-Kodierliste) zwei-Buchstaben Ländercode für die Flagge ist.
 
 ## Tabellen
 
@@ -808,13 +799,40 @@ Das folgende ist ein Beispiel, wie eine Tabelle aussehen sollte:
 | Maria | Kein ausgetragenes Spiel | Mocha |  |
 ```
 
+## Infoboxen
+
+Eine Infobox ist ein Block mit fester Breite, der an der rechten Seite des Artikels ausgerichtet ist. Er kann ein relevantes Bild enthalten, das den umgebenden Text erklärt, oder einen Navigationsblock, der auf andere Artikel derselben Kategorie verweist.
+
+Beispielverwendung, auf der rechten Seite sichtbar (oder oben auf schmalen Bildschirmen):
+
+<!-- The real infobox is added for illustrative purposes, with Markdown syntax duplicated below for clarity. -->
+
+::: Infobox
+![](/wiki/shared/mods/SD.png "Symbol der Mod Sudden Death")
+:::
+
+```markdown
+::: Infobox
+![](/wiki/shared/mods/SD.png "Symbol der Mod Sudden Death")
+:::
+```
+
+Infoboxen sollten in den folgenden Fällen mit Vorsicht genutzt werden:
+
+- Kurze Abschnitte: Die Überschrift der nächsten Sektion erscheint unter jeder Infobox, wodurch eine große Lücke nach dem Text entsteht.
+- Mehrere Bilder auf einmal: Benutze stattdessen einzelne Infoboxen für ein besseres Design.
+
+Nur Überschriftenebene 4 und 5 sind innerhalb einer Infobox erlaubt. Diese erscheinen nicht im Inhaltsverzeichnis und alles darunter ist zu groß. Eventuelle [CI-Prüfungsfehler](/wiki/osu!_wiki/Maintenance#ci-checks) müssen deshalb umgangen werden.
+
 ## Fußnoten
 
 Fußnoten sind kurze Notizen am Ende einer Seite. Sie werden zum Zitieren von Quellen oder dem Bereitstellen von Hintergrundinformationen verwendet, die ansonsten den Lesefluss des Artikels beeinträchtigen würden. Fußnoten dürfen formatierten Text und Links enthalten.
 
-Im osu!-Wiki werden Fußnoten mit einer speziellen Syntax (`[^identifier]`) implementiert. Fußnoten können jede Kennung haben, werden aber automatisch als hochgestellte Zahlen mit steigendem Wert in der Reihenfolge ihres ersten Erscheinens erstellt. Die Fußnoten selbst müssen in einem separaten Abschnitt mit dem Überschriftenlevel 2 am Ende des Artikels platziert werden. Abhängig von Inhalt muss die Überschrift `Referenzen`, `Anmerkungen` oder `Anmerkungen und Referenzen` sein.
+Im osu!-Wiki werden Fußnoten mit einer speziellen Syntax (`[^identifier]`) implementiert. Fußnoten können jede Kennung haben, werden aber automatisch als hochgestellte Zahlen mit steigendem Wert in der Reihenfolge ihres ersten Erscheinens erstellt. Übersetzungen dürfen die Kennungen von Fußnoten nicht modifizieren.
 
 Verweise auf Fußnoten werden direkt nach den Wörtern oder Sätzen platziert, die sie erklären, ohne Leerzeichen dazwischen. Diese Verweise müssen nach der Interpunktion gesetzt werden, mit Ausnahme von Gedankenstrichen und Klammern, sofern sie sich auf den Inhalt darin beziehen.<!-- Translated from https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Punctuation_and_footnotes -->
+
+Die Fußnoten selbst müssen in einem separaten Abschnitt mit dem Überschriftenlevel 2 am Ende des Artikels platziert werden. Abhängig vom Inhalt muss die Überschrift `Referenzen`, `Anmerkungen` oder `Anmerkungen und Referenzen` sein.
 
 Beispiele der korrekten Benutzung:
 
@@ -832,15 +850,19 @@ Das osu!-Wiki ist ein Projekt, das das alte FAQ-System ersetzen sollte.[^wiki-fa
 
 Zitate oder Referenzen werden benutzt, um eine Informationsquelle zu identifizieren. Zitate in Fußnoten sollten gegenüber Inline-Links bevorzugt werden.
 
-Beispiel:
+Referenzen sollten, wann immer zutreffend, den Autor, das Datum, den Dienst/die Plattform und den Titel angeben. Das exakte Format darf abhängig vom referenzierten Material variieren, wobei Kürze präferiert wird.
+
+Beispiele:
 
 ```markdown
-Die erste Version der osu!api wurde am 2. Juli 2013 zur Verfügung gestellt.[^api-first-usage] Es wurde von den Nutzern gelobt.[^api-praise]
+Die erste Version der osu!api wurde am 2. Juli 2013 zur Verfügung gestellt.[^api-first-usage] Es wurde von den Nutzern gelobt.[^api-praise] Eine neue Version des API, mehrere Jahre später veröffentlicht, enthält viele weitere Funktionen.[^api-v2-2020] Endpunktversionierung ist bei Web-APIs üblich.[^web-api]
 
 ## Referenzen
 
-[^api-first-usage]: [osu!api open beta](https://osu.ppy.sh/community/forums/posts/2403913)
-[^api-praise]: [osu!api open beta](https://osu.ppy.sh/community/forums/posts/2662247)
+[^api-first-usage]: [Forumsbeitrag von peppy (02.07.2013) "osu!api open beta"](https://osu.ppy.sh/community/forums/posts/2403913)
+[^api-praise]: [Forumsbeitrag von Menchi (02.11.2013) in "osu!api open beta"](https://osu.ppy.sh/community/forums/posts/2662247)
+[^api-v2-2020]: [Tweet von @ppy (20.03.2020)](https://twitter.com/ppy/status/1263083636363948032)
+[^web-api]: ["Web API" auf Wikipedia (Englisch)](https://en.wikipedia.org/wiki/Web_API)
 ```
 
 ### Anmerkungen

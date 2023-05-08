@@ -10,8 +10,8 @@
 | Short（短整型） | 2 | 2 字节长的小端值。 |
 | Integer（整型） | 4 | 4 字节长的小端值。 |
 | Long（长整型） | 8 | 8 字节长的小端值。 |
-| ULEB128 | 可变 | 长度可变的整型值。参阅 [ULEB128](http://en.wikipedia.org/wiki/ULEB128)。 |
-| String（字符串） | 可变 | 拥有三部分： 第一字节如果是 0x00，表示后面两部分不存在。如果是 0x0b（十进制下的 11），表示后面两部分存在：第二部分是一个 ULEB128 数据，表示其后字符串长度。第三部分是字符串本身，使用 UTF-8 编码。参阅 [UTF-8](http://zh.wikipedia.org/wiki/UTF-8)。 |
+| ULEB128 | 可变 | 长度可变的整型值。参阅 [ULEB128](https://en.wikipedia.org/wiki/LEB128)。 |
+| String（字符串） | 可变 | 拥有三部分： 第一字节如果是 0x00，表示后面两部分不存在。如果是 0x0b（十进制下的 11），表示后面两部分存在：第二部分是一个 ULEB128 数据，表示其后字符串长度。第三部分是字符串本身，使用 UTF-8 编码。参阅 [UTF-8](https://zh.wikipedia.org/wiki/UTF-8)。 |
 
 ## 格式
 
@@ -35,11 +35,11 @@
 | Byte | 完美、全连（如果为 1，则代表了成绩没有失误，没有断滑条，没有提前松开滑条导致漏掉滑条尾） |
 | Integer | 使用的模组 (Mods)。参阅下方的模组值列表。 |
 | String | 生命值图像：逗号分隔，按组编排的 u/v 变量。u 代表时间（毫秒），v 是此时玩家生命值的一个浮点值（值域 0 - 1，0 即生命值空，1 即生命值满）。 |
-| Long | 成绩创建时的时间戳（[Windows ticks](http://msdn.microsoft.com/en-us/library/system.datetime.ticks%28v=vs.110%29.aspx)） |
+| Long | 成绩创建时的时间戳（[Windows ticks](https://learn.microsoft.com/zh-cn/dotnet/api/system.datetime.ticks)） |
 | Integer | 表示已压缩回放数据的字节长度 |
 | Byte 数组 | 已压缩的回放数据 |
 | Long | 在线成绩 ID |
-| Double | 只在 [Target Practice](/wiki/Game_modifier/Target_Practice) 模组开启时存在的附加模组信息。 |
+| Double | 只在 [Target Practice](/wiki/Gameplay/Game_modifier/Target_Practice) 模组开启时存在的附加模组信息。 |
 
 **附加模组信息:**
 
@@ -62,7 +62,7 @@
 
 ## 模组
 
-参见：[osu! API](https://github.com/peppy/osu-api/wiki#mods)。
+参见：[osu! API](https://github.com/ppy/osu-api/wiki#mods)。
 
 | Mod | 十进制值（比特偏移量） | 注释 |
 | :-- | :-- | :-- |

@@ -9,7 +9,7 @@ tags:
 
 ![RD mod icon](/wiki/shared/mods/RD.png "Random (RD) mod icon")
 
-*For the full list of all mods, see: [Game Modifier](/wiki/Game_modifier)*
+*For the full list of all mods, see: [Game Modifier](/wiki/Gameplay/Game_modifier)*
 
 ## About
 
@@ -22,7 +22,7 @@ tags:
 
 ## Description
 
-The **Random** mod is a [game modifier](/wiki/Game_modifier) for [osu!mania](/wiki/Game_mode/osu!mania) that aims to give players an interesting and fun experience by shuffling the note placement every time a beatmap is played. The Random mod will not change the length of the notes.
+The **Random** mod is a [game modifier](/wiki/Gameplay/Game_modifier) for [osu!mania](/wiki/Game_mode/osu!mania) that aims to give players an interesting and fun experience by shuffling the note placement every time a beatmap is played. The Random mod will not change the length of the notes.
 
 ![RD gameplay mania](img/RD-comparison-mania.jpg "Comparison between a regular play (left) vs. a play with the Random mod enabled (right) in osu!mania")
 

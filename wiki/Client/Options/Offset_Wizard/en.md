@@ -1,8 +1,8 @@
 # Offset Wizard
 
-*See also: [How to use the Offset Wizard](/wiki/Guides/How_to_Use_the_Offset_Wizard) and [Universal offset](/wiki/Client/Options/Universal_offset)*
+*See also: [How to use the Offset Wizard](/wiki/Guides/How_to_Use_the_Offset_Wizard) and [Universal offset](/wiki/Offset/Universal_offset)*
 
-The **Offset Wizard** is a built-in tool that assists the user in calibrating the [universal offset](/wiki/Client/Options/Universal_offset) to the correct value for their device. This is necessary when the [hitsounds](/wiki/Beatmapping/Hitsound) feel out of sync with the music, across every beatmap you play. For more information on how to do this, see [How to use the Offset Wizard](/wiki/Guides/How_to_Use_the_Offset_Wizard).
+The **Offset Wizard** is a built-in tool that assists the user in calibrating the [universal offset](/wiki/Offset/Universal_offset) to the correct value for their device. This is necessary when the [hitsounds](/wiki/Beatmapping/Hitsound) feel out of sync with the music, across every beatmap you play. For more information on how to do this, see [How to use the Offset Wizard](/wiki/Guides/How_to_Use_the_Offset_Wizard).
 
 To access the Offset Wizard, open the [Options](/wiki/Client/Options) menu and type `offset` into the quick-search. Then click on the `Offset wizard` button.
 

@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: c564fa7fe8cba100544592a2f16e0056415ad663
+---
+
 # Restrictions de compte
 
 *Page principale : [Centre d'aide](/wiki/Help_centre)*
@@ -8,6 +13,8 @@ Lorsqu'un compte est restreint, il ne peut pas intéragir avec la communauté ju
 
 Les fonctionnalités suivantes sont désactivées pour les comptes restreints :
 
+- La possibilité de participer à des concours officiels
+- La possibilité de participer à des salles multijoueurs
 - Le tchat en jeu
 - Les messages privés
 - Poster des messages sur le forum ou dans les sections commentaires
@@ -20,7 +27,7 @@ Les fonctionnalités suivantes sont désactivées pour les comptes restreints :
 Si votre compte a été restreint, ne paniquez pas. Veuillez suivre ces étapes :
 
 - **Attendez 24 heures.** Certaines restrictions sont le résultat d'un processus automatique. Puisque nous vérifions chaque nouvelle restriction quotidiennement, veuillez attendre 24 heures - si votre restriction était une erreur, elle devrait être levée durant cette période.
-- **Contactez notre [équipe de support aux comptes](/wiki/People/The_Team/Account_support_team).** Si votre compte est toujours restreint après ces 24 heures, veuillez envoyer un email à [accounts@ppy.sh](mailto:accounts@ppy.sh) **depuis l'adresse email attachée à votre compte** pour demander des détails sur votre restriction. Assurez-vous d'inclure votre pseudo en fournissant le plus d'informations possibles sur ce pourquoi vous pensez avoir été restreint. Plus vous nous en dites, plus il sera facile pour nous de résoudre le problème.
+- **Contactez notre [équipe de support aux comptes](/wiki/People/Account_support_team).** Si votre compte est toujours restreint après ces 24 heures, veuillez envoyer un email à [accounts@ppy.sh](mailto:accounts@ppy.sh) **depuis l'adresse email attachée à votre compte** pour demander des détails sur votre restriction. Assurez-vous d'inclure votre pseudo en fournissant le plus d'informations possibles sur ce pourquoi vous pensez avoir été restreint. Plus vous nous en dites, plus il sera facile pour nous de résoudre le problème.
 - Si vous pensez fermement que votre restriction est le résultat d'une erreur, veuillez nous contacter immédiatement pour que nous puissions discuter de votre cas.
 
 Si votre compte a été restreint pour avoir brisé les [règles](/wiki/Rules), vous ne serez autorisé à envoyer un appel qu'après un minimum de **trois mois**. Cette période de temps est appelée un *cooldown*, et si vous avez triché, elle sera de six mois.
@@ -45,8 +52,8 @@ Si un compte a été restreint à juste titre, nous demanderons à l'utilisateur
 - **Continuez à jouer !** Tant que votre compte est restreint et que vous avez un cooldown, vous êtes plus que bienvenu pour continuer à jouer (tant que vous jouez sur votre compte principal !). Les scores que vous réalisez pendant votre restriction seront bien pris en compte, et à moins que vos scores soient partiellement ou totalement supprimés, ils resteront lorsque la restriction sera levée.
 - **Maintenez un bon comportement.** Nous comprenons qu'être restreint peut être frustrant, mais voyez-le comme une chance de vous reposer, loin de la communauté. Essayez d'éviter d'intéragir avec la communauté pour au moins quelques jours (que ce soit par Discord, des réseaux sociaux, ou autres formes de contact) pour vous calmer et réfléchir aux actions qui peuvent avoir contribué à la restriction de votre compte.
 - **Assurez-vous de suivre les règles.** Les restrictions à long terme sont des sanctions pour avoir brisé les règles. Si vous continuez à briser les règles en étant restreint, le cooldown avant que vous puissiez faire appel sera remis à au moins **trois mois** depuis votre dernière infraction. Cela inclut, par exemple, de continuer à tricher (six mois dans ce cas), accéder aux comptes des autres, ou créer des nouveaux comptes pour échapper à la restriction.
-- **Suivez les instructions de l'équipe du support.** Le cooldown de trois mois est une chance pour vous reposer et réfléchir à vos actions. Si vous essayez d'envoyer un appel avant que le cooldown soit terminé, vos emails seront ignorés. Si vous n'êtes pas sûr de la date d'expiration de votre délai de réflexion, de la date à laquelle vous serez autorisé à faire appel, ou du compte sur lequel vous devriez jouer (et faire appel), n'hésitez pas à nous envoyer un e-mail pour nous le demander.
-- **N'hésitez pas à nous contacter si vous avez des questions.** Tant que vous n'essayer pas d'échapper à votre sanction, nous serons toujours ravis de répondre aux questions que vous avez concernant votre restriction !
+- **Suivez les instructions de l'équipe du support.** Le période de cooldown est une chance pour vous reposer et réfléchir à vos actions. Si vous essayez d'envoyer un appel avant que le cooldown soit terminé, vos emails seront ignorés. Si vous n'êtes pas sûr de la date d'expiration de votre cooldown, de la date à laquelle vous serez autorisé à faire appel, ou du compte sur lequel vous devriez jouer (et faire appel), n'hésitez pas à nous envoyer un e-mail pour nous le demander.
+- **N'hésitez pas à nous contacter si vous avez des questions.** Tant que vous n'essayez pas d'échapper à votre sanction, nous serons toujours ravis de répondre aux questions que vous avez concernant votre restriction !
 
 ## Mon cooldown est passé. Comment faire appel ? {#appeal}
 
@@ -68,9 +75,9 @@ Si nous décidons de vous laisser revenir, nous vous demanderons que vous accept
 - **Vous ne vous associerez pas avec d'autres comptes.** Cela inclut de jouer sur un ordinateur partagé.
 - **Le moindre mauvais comportement majeur aura pour résultat une restriction immédiate.** Cela inclut les silences majeurs.
 
-Dans certains cas, un utilisateur qui revient d'une restriction peut être banni des tournois officiels, à la fois en tant que joueur et membre de l'équipe du tournoi. La durée de ce bannissement est d'un an par restriction (si l'utilisateur en est à sa deuxième restriction, le bannissement durera 2 ans). L'équipe de support aux comptes clarifiera la durée de ce bannissement.
+Les utilisateurs qui sortent d'une restriction dans les conditions standard ci-dessus sont également interdits de participer aux tournois officiels et badgés, à la fois en tant que joueur et membre de l'équipe du tournoi. La durée de ce bannissement est d'un an par restriction (si l'utilisateur en est à sa deuxième restriction, le bannissement durera 2 ans). L'équipe de support aux comptes clarifiera la durée de ce bannissement.
 
-**Tricher ou partager son compte durant un tournoi officiel mènera à un bannissement permanent de l'utilisateur.** Vous ne pouvez pas faire appel quant à ce bannissement (votre mail sera ignoré si vous essayez) et ne sera pas supprimé, réduit ou levé dans n'importe quelles circonstances.
+**Tricher ou partager son compte durant un tournoi officiel mènera à un bannissement permanent de l'utilisateur.** Vous ne pouvez pas faire appel quant à ce bannissement (votre mail sera ignoré si vous essayez) et il ne sera en aucun cas supprimé, réduit ou levé.
 
 Certains joueurs peuvent être de nouveau restreints une fois qu'ils commencent à jouer après l'acceptation de leur appel. Il s'agit d'un processus automatique et sera généralement retiré sous 24 heures. N'hésitez pas à poser des questions sur Twitter à [@osusupport](https://twitter.com/osusupport) ou en envoyant un mail à [accounts@ppy.sh](mailto:accounts@ppy.sh) si cela vous arrive !
 

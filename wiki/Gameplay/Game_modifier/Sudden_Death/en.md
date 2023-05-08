@@ -11,8 +11,8 @@ tags:
 
 ![SD mod icon](/wiki/shared/mods/SD.png "Sudden Death (SD) mod icon")
 
-*For the full list of all mods, see: [Game Modifier](/wiki/Game_modifier)*\
-*See also: [Perfect (mod)](/wiki/Game_modifier/Perfect)*
+*For the full list of all mods, see: [Game Modifier](/wiki/Gameplay/Game_modifier)*\
+*See also: [Perfect (mod)](/wiki/Gameplay/Game_modifier/Perfect)*
 
 ## About
 
@@ -22,11 +22,11 @@ tags:
 - Default shortcut key: `S`
 - Caption: `Miss a note and fail.`
 - Compatible game modes: ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania]
-- Variant: [Perfect](/wiki/Game_modifier/Perfect)
+- Variant: [Perfect](/wiki/Gameplay/Game_modifier/Perfect)
 
 ## Description
 
-The **Sudden Death** mod is a [game modifier](/wiki/Game_modifier) that causes players to fail a [beatmap](/wiki/Beatmap) upon missing a [hit object](/wiki/Hit_object) or failing to collect a slider tick. This is useful for players who are going for an [full combo (FC)](/wiki/Full_combo). Although there is some debate as to whether the use of the Sudden Death mod or the act of retrying at the first [combo break](/wiki/Gameplay/Judgement/Combobreak) is helpful or harmful for players wanting to improve quickly,
+The **Sudden Death** mod is a [game modifier](/wiki/Gameplay/Game_modifier) that causes players to fail a [beatmap](/wiki/Beatmap) upon missing a [hit object](/wiki/Gameplay/Hit_object) or failing to collect a slider tick. This is useful for players who are going for a [full combo (FC)](/wiki/Gameplay/Full_combo). However, there is some debate as to whether the use of the Sudden Death mod or the act of retrying at the first [combo break](/wiki/Gameplay/Judgement/Combobreak) is helpful or harmful for players who want to improve quickly.
 
 To be more specific, the Sudden Death mod will only fail the beatmap if any of the following happen:
 
@@ -36,10 +36,10 @@ To be more specific, the Sudden Death mod will only fail the beatmap if any of t
 
 The Sudden Death mod **will not** fail the beatmap if any of the following happen:
 
-- Missing a [slidertail](/wiki/Hit_object/Slidertail) (i.e. a sliderbreak)
+- Missing a [slidertail](/wiki/Gameplay/Hit_object/Slider/Slidertail) (i.e. a sliderbreak)
 - Not holding/collecting on the empty slider path
 
-Unlike the Sudden Death mod's variant [Perfect](/wiki/Game_modifier/Perfect), the beatmap will not automatically retry the map. Instead, the player will be left with a normal failure screen upon missing.
+Unlike the Sudden Death mod's variant [Perfect](/wiki/Gameplay/Game_modifier/Perfect), the beatmap will not automatically retry the map. Instead, the player will be left with a normal failure screen upon missing.
 
 This mod has the same effect across all [game modes](/wiki/Game_mode).
 

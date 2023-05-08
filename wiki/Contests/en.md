@@ -6,7 +6,9 @@ This section is dedicated for contests held throughout the osu! community.
 
 ## Official contests
 
-Official contests are hosted (or otherwise recognised as official) by the [osu! team](/wiki/People/The_Team). Most official contests have their own pages on the [contests listing](https://osu.ppy.sh/community/contests).
+*See also: [Contest points](Contest_points), [Official beatmapping contest support](Official_support)*
+
+Official contests are hosted (or otherwise recognised as official) by the [osu! team](/wiki/People/osu!_team). Most official contests have their own pages on the [contests listing](https://osu.ppy.sh/community/contests).
 
 ### [Monthly Beatmapping Contest](Monthly_Beatmapping_Contest)
 
@@ -33,7 +35,7 @@ The **Monthly Beatmapping Contest**, in its initial concept, was a mapping conte
 
 After a long hiatus, the Monthly Beatmapping Contest was rebooted in January 2020 with a brand new schedule, ruleset, voting procedure, and reward scheme. Many aspects of the competition were dramatically altered to make the contests more engaging and attractive, in which some of them were as follows:
 
-- Instead of a single song, the contest now offers a selection of songs from different [Featured Artists](/wiki/Featured_Artists) each month, in which all participating mappers are free to map and submit their entries for.
+- Instead of a single song, the contest now offers a selection of songs from different [Featured Artists](/wiki/People/Featured_Artists) each month, in which all participating mappers are free to map and submit their entries for.
 - Participating mappers now only have to submit a single difficulty instead of a complete mapset.
 - Participating mappers now have to adhere to a certain mapping theme and/or limitation set in the ruleset, such as "Star rating may not exceed 4.00★" or "Every object should overlap another object".
 
@@ -67,6 +69,16 @@ After a long hiatus, the Monthly Beatmapping Contest was rebooted in January 202
 | [#3](https://osu.ppy.sh/home/news/2017-01-21-aspire-returns-for-2017) | [Helblinde - The Solace of Oblivion](https://osu.ppy.sh/beatmaps/artists/5) | ::{ flag=FI }:: [ProfessionalBox](https://osu.ppy.sh/users/3250792) | ::{ flag=HK }:: [MinG3012](https://osu.ppy.sh/users/1583218) | ::{ flag=SG }:: [emilia](https://osu.ppy.sh/users/2003326) | [#1](https://osu.ppy.sh/home/news/2017-04-03-aspire-2017-stage-one-concludes) |
 | [#4](https://osu.ppy.sh/home/news/2018-08-19-aspire-2018-begins) | [Culprate - Acid Rain](https://osu.ppy.sh/beatmaps/artists/29) | ::{ flag=TW }:: [SnowNiNo\_](https://osu.ppy.sh/users/2506267) | ::{ flag=FI }:: [DTM9 Nowa](https://osu.ppy.sh/users/5428909) | ::{ flag=LT }:: [seselis1](https://osu.ppy.sh/users/7321833) | [#1](https://osu.ppy.sh/home/news/2019-07-22-aspire-2018-results) |
 | [#5](https://osu.ppy.sh/home/news/2020-04-09-aspire-v-a-new-format) | Any song available in the [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists) as per April 2020 | ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619) *(community pick winner)*, ::{ flag=CN }:: [fanzhen0019](https://osu.ppy.sh/users/418699) *(mapper's pick winner)* | ::{ flag=CA }:: [Meow Mix](https://osu.ppy.sh/users/3021634) | ::{ flag=CN }:: [fanzhen0019](https://osu.ppy.sh/users/418699) | [#1](https://osu.ppy.sh/home/news/2020-08-23-aspire-v-results) |
+
+### [osu!taiko Featured Artist Cup](o!tFAC)
+
+The **osu!taiko Featured Artist Cup** is an osu!taiko mapping contest where contestants are simply asked to map a song from one of osu!'s Featured Artists. The contest sometimes features specific limitations/gimmicks in order to put the contestants' skills to the test.
+
+| Contest No. | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Results |
+| :-: | :-- | :-- | :-- | :-- |
+| [#1](/wiki/Contests/o!tFAC/1) | ::{ flag=KR }:: [woosungko](https://osu.ppy.sh/users/14184157) | ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) | ::{ flag=IT }:: [D3kuu](https://osu.ppy.sh/users/7807444) | [#1](https://osu.ppy.sh/community/forums/topics/1520800) |
+| [#2](/wiki/Contests/o!tFAC/2) | ::{ flag=AR }:: [KyeX](https://osu.ppy.sh/users/15118934) | ::{ flag=KR }:: [woosungko](https://osu.ppy.sh/users/14184157) | ::{ flag=FI }:: [duski](https://osu.ppy.sh/users/6506484) | [#1](https://osu.ppy.sh/community/forums/topics/1588200) |
+| [#3](/wiki/Contests/o!tFAC/3) | **Code:Red** (::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721), ::{ flag=TH }:: [Kusuhara Yui](https://osu.ppy.sh/users/9582525)) | **?XD** (::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392), ::{ flag=SG }:: [_gt](https://osu.ppy.sh/users/8301957)) | **:3** (::{ flag=KR }:: [woosungko](https://osu.ppy.sh/users/14184157), ::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438)) | [#1](https://osu.ppy.sh/home/news/2022-12-26-results-osu!taiko-featured-artist-cup-3) |
 
 ### [osu! Mapping Olympiad](A_Labour_of_Love_Contest)
 
@@ -241,9 +253,10 @@ The goal this contest is simple: contestants must create a map that panders best
 
 | Contest No. | Judge | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Results |
 | :-: | :-- | :-- | :-- | :-- | :-- |
-| [#1](https://osu.ppy.sh/community/forums/topics/1624880) | ::{ flag=NL }:: [Boaz](https://osu.ppy.sh/users/13302996) | ::{ flag=JP }:: [_Rise](https://osu.ppy.sh/users/5217107) | ::{ flag=CL }:: [Metsaller](https://osu.ppy.sh/users/4364791) | ::{ flag=FI }:: [Antti](https://osu.ppy.sh/users/13281473) | [Results](https://docs.google.com/spreadsheets/d/1aR1GjF8diyjFhK_k_uOkU40zIKjaQbXhVbGDGmq5pdg/edit?usp=sharing) |
-| [#2](https://osu.ppy.sh/community/forums/topics/1639586) | ::{ flag=AR }:: [Axer](https://osu.ppy.sh/users/7299864) | ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) | ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957) | ::{ flag=US }:: [Vixlowo](https://osu.ppy.sh/users/20295114) | [Results](https://docs.google.com/spreadsheets/d/1ps3bOL2JlzwPEh0gVTLHnp7E48stwqHMH6-ljDSBJQs/edit?usp=sharing) |
-| [#3](https://osu.ppy.sh/community/forums/topics/1652502) | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) | ::{ flag=FI }:: [Antti](https://osu.ppy.sh/users/13281473) | ::{ flag=NL }:: [Boaz](https://osu.ppy.sh/users/13302996), ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) | [Results](https://docs.google.com/spreadsheets/d/1UXvS2ZdlRHOj8mltCX8LtluQwXrcXZ_B8D02LIdcJoc/edit?usp=sharing) |
+| [#1](https://osu.ppy.sh/community/forums/topics/1624880) | ::{ flag=NL }:: [Boaz](https://osu.ppy.sh/users/13302996) | ::{ flag=JP }:: [_Rise](https://osu.ppy.sh/users/5217107) | ::{ flag=CL }:: [Metsaller](https://osu.ppy.sh/users/4364791) | ::{ flag=FI }:: [Antti](https://osu.ppy.sh/users/13281473) | [#1](https://docs.google.com/spreadsheets/d/1aR1GjF8diyjFhK_k_uOkU40zIKjaQbXhVbGDGmq5pdg/edit?usp=sharing) |
+| [#2](https://osu.ppy.sh/community/forums/topics/1639586) | ::{ flag=AR }:: [Axer](https://osu.ppy.sh/users/7299864) | ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) | ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957) | ::{ flag=US }:: [Vixlowo](https://osu.ppy.sh/users/20295114) | [#1](https://docs.google.com/spreadsheets/d/1ps3bOL2JlzwPEh0gVTLHnp7E48stwqHMH6-ljDSBJQs/edit?usp=sharing) |
+| [#3](https://osu.ppy.sh/community/forums/topics/1652502) | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) | ::{ flag=FI }:: [Antti](https://osu.ppy.sh/users/13281473) | ::{ flag=NL }:: [Boaz](https://osu.ppy.sh/users/13302996), ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) | [#1](https://docs.google.com/spreadsheets/d/1UXvS2ZdlRHOj8mltCX8LtluQwXrcXZ_B8D02LIdcJoc/edit?usp=sharing) |
+| [#4](https://osu.ppy.sh/community/forums/topics/1704114) | ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | ::{ flag=AR }:: [paz08](https://osu.ppy.sh/users/9964420) | ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230) | ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | [#1](https://docs.google.com/spreadsheets/d/1zywwZ1hTqM0ctSVbfixOX-5s4-ez8E2Hg82nmSznY80/edit?usp=sharing) |
 
 ### [osb! Storyboarding Contest](osb!_Storyboarding_Contest)
 
@@ -257,22 +270,12 @@ The **osb! Storyboarding Contest** is a storyboarding contest where participatin
 
 <!-- Yes, OBWC is not an official contest according to https://twitter.com/paichiru/status/1408900730149249025 -->
 
-**osu! Beatmapping World Championship** is a team-based mapping contest where participating teams consisting of mappers from the same country, region, or even continent (to some extent) battle their mapping skills out against each other across multiple songs and mapping stages. The contest is known for exclusively making use of songs available in the [Featured Artist](/wiki/Featured_Artists) library during its runs.
+**osu! Beatmapping World Championship** is a team-based mapping contest where participating teams consisting of mappers from the same country, region, or even continent (to some extent) battle their mapping skills out against each other across multiple songs and mapping stages. The contest is known for exclusively making use of songs available in the [Featured Artist](/wiki/People/Featured_Artists) library during its runs.
 
 | Contest No. | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Results |
 | :-: | :-- | :-- | :-- | :-- |
 | [#1 (2019)](/wiki/Contests/oBWC/1) | ::{ flag=FR }:: France ([Realazy](https://osu.ppy.sh/users/918297), [BOUYAAA](https://osu.ppy.sh/users/405449), [Irohas](https://osu.ppy.sh/users/4403937), [Linada](https://osu.ppy.sh/users/5239047), [PoNo](https://osu.ppy.sh/users/4610047), [Sotarks](https://osu.ppy.sh/users/4452992), and ::{ flag=CH }:: [Xenok](https://osu.ppy.sh/users/3256600)) | ::{ flag=SE }:: Sweden ([Liiraye](https://osu.ppy.sh/users/1280641), [Arbane](https://osu.ppy.sh/users/4150829), [bite you death](https://osu.ppy.sh/users/6398464), [Dilectus](https://osu.ppy.sh/users/4287454), [dqs01733](https://osu.ppy.sh/users/3372459), and [Zer0-](https://osu.ppy.sh/users/4260033)) | ::{ flag=HK }:: Hong Kong ([StarrStyx](https://osu.ppy.sh/users/4600383), [Chaoslitz](https://osu.ppy.sh/users/3621552), [how2miss](https://osu.ppy.sh/users/4477199), [Regou](https://osu.ppy.sh/users/419954), [Rizia](https://osu.ppy.sh/users/1367570), [Skystar](https://osu.ppy.sh/users/873961), and [Starfy](https://osu.ppy.sh/users/2045914)) | [#1](https://www.youtube.com/watch?v=_booyIRa5v8) |
 | [#2 (2020)](/wiki/Contests/oBWC/2) | ::{ flag=GB }:: United Kingdom ([hypercyte](https://osu.ppy.sh/users/9155377), [Aistre](https://osu.ppy.sh/users/4879380), [Altai](https://osu.ppy.sh/users/5745865), [Chugger](https://osu.ppy.sh/users/4491713), [DeviousPanda](https://osu.ppy.sh/users/4966334), [pocket-](https://osu.ppy.sh/users/6808091), and [Yusomi](https://osu.ppy.sh/users/4174940)) | ::{ flag=AR }:: Argentina ([MaestroSplinter](https://osu.ppy.sh/users/6707918), [chucentry](https://osu.ppy.sh/users/2498731), [Lince Cosmico](https://osu.ppy.sh/users/6070370), and [Megafan](https://osu.ppy.sh/users/6632605)) | ::{ flag=BR }:: Brazil ([Net0](https://osu.ppy.sh/users/5099768), [Enerugi](https://osu.ppy.sh/users/4475985), [Faito](https://osu.ppy.sh/users/9706291), [Kowari](https://osu.ppy.sh/users/5404892), [Maot](https://osu.ppy.sh/users/3914271), [Sakura Airi](https://osu.ppy.sh/users/8682057), and [Trynna](https://osu.ppy.sh/users/2652951)) | [#1](https://osu.ppy.sh/home/news/2020-10-22-beatmapping-world-championship-2020-concludes) |
-
-### [osu!taiko Featured Artist Cup](o!tFAC)
-
-The **osu!taiko Featured Artist Cup** is an osu!taiko mapping contest where contestants are simply asked to map a song from one of osu!'s Featured Artists. The contest sometimes features specific limitations/gimmicks in order to put the contestants' skills to the test.
-
-| Contest No. | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Results |
-| :-: | :-- | :-- | :-- | :-- |
-| [#1](/wiki/Contests/o!tFAC/1) | ::{ flag=KR }:: [woosungko](https://osu.ppy.sh/users/14184157) | ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) | ::{ flag=IT }:: [D3kuu](https://osu.ppy.sh/users/7807444) | [#1](https://osu.ppy.sh/community/forums/topics/1520800) |
-| [#2](/wiki/Contests/o!tFAC/2) | ::{ flag=AR }:: [KyeX](https://osu.ppy.sh/users/15118934) | ::{ flag=KR }:: [woosungko](https://osu.ppy.sh/users/14184157) | ::{ flag=FI }:: [duski](https://osu.ppy.sh/users/6506484) | [#1](https://osu.ppy.sh/community/forums/topics/1588200) |
-| [#3](/wiki/Contests/o!tFAC/3) | *TBD* | *TBD* | *TBD* | *TBD* |
 
 ### [Slider Velocity Showdown](SVS)
 

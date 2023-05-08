@@ -1,10 +1,17 @@
+---
+outdated_translation: true
+outdated_since: cd5b1d813c848ee19b2167b3edf8e8592e9ad19e
+---
+
 # Concours
 
 Cette section est dédiée aux concours organisés par la communauté d'osu!.
 
 ## Concours officiels
 
-Les concours officiels sont organisés (ou reconnus comme officiels) par l'[équipe d'osu!](/wiki/People/The_Team). La plupart des concours officiels ont leurs propres pages sur la [liste des concours](https://osu.ppy.sh/community/contests).
+*Voir également : [Points de concours](Contest_points), [Support officiel aux concours](Official_support)*
+
+Les concours officiels sont organisés (ou reconnus comme officiels) par l'[équipe d'osu!](/wiki/People/osu!_team). La plupart des concours officiels ont leurs propres pages sur la [liste des concours](https://osu.ppy.sh/community/contests).
 
 ### [Monthly Beatmapping Contest](Monthly_Beatmapping_Contest)
 
@@ -31,7 +38,7 @@ Le **Monthly Beatmapping Contest**, dans son concept initial, était un concours
 
 Après une longue interruption, le Monthly Beatmapping Contest a été relancé en janvier 2020 avec un tout nouveau calendrier, de nouvelles règles, une nouvelle procédure de vote et un nouveau système de récompense. De nombreux aspects du concours ont été radicalement modifiés afin de rendre le concours plus attrayant et plus intéressant, dont voici quelques exemples :
 
-- Au lieu d'une musique unique, le concours propose désormais une sélection de musiques de différents [Featured Artists](/wiki/Featured_Artists) chaque mois, pour lesquelles tous les mappeurs participants sont libres de mapper et de soumettre leurs entrées.
+- Au lieu d'une musique unique, le concours propose désormais une sélection de musiques de différents [Featured Artists](/wiki/People/Featured_Artists) chaque mois, pour lesquelles tous les mappeurs participants sont libres de mapper et de soumettre leurs entrées.
 - Les mappeurs participants ne doivent désormais soumettre qu'une seule difficulté au lieu d'une beatmap complète.
 - Les mappeurs participants doivent maintenant adhérer à un certain thème de mapping et/ou à une limitation définie dans les règles, telles que "Le classement par étoiles ne doit pas dépasser 4,00★" ou "Chaque objet doit chevaucher un autre objet".
 
@@ -65,6 +72,16 @@ Après une longue interruption, le Monthly Beatmapping Contest a été relancé 
 | [#3](https://osu.ppy.sh/home/news/2017-01-21-aspire-returns-for-2017) | [Helblinde - The Solace of Oblivion](https://osu.ppy.sh/beatmaps/artists/5) | ::{ flag=FI }:: [ProfessionalBox](https://osu.ppy.sh/users/3250792) | ::{ flag=HK }:: [MinG3012](https://osu.ppy.sh/users/1583218) | ::{ flag=SG }:: [emilia](https://osu.ppy.sh/users/2003326) | [#1](https://osu.ppy.sh/home/news/2017-04-03-aspire-2017-stage-one-concludes) |
 | [#4](https://osu.ppy.sh/home/news/2018-08-19-aspire-2018-begins) | [Culprate - Acid Rain](https://osu.ppy.sh/beatmaps/artists/29) | ::{ flag=TW }:: [SnowNiNo\_](https://osu.ppy.sh/users/2506267) | ::{ flag=FI }:: [DTM9 Nowa](https://osu.ppy.sh/users/5428909) | ::{ flag=LT }:: [seselis1](https://osu.ppy.sh/users/7321833) | [#1](https://osu.ppy.sh/home/news/2019-07-22-aspire-2018-results) |
 | [#5](https://osu.ppy.sh/home/news/2020-04-09-aspire-v-a-new-format) | N'importe quelle musique disponible sur la [liste des Featured Artists](https://osu.ppy.sh/beatmaps/artists) jusqu'en avril 2020 | ::{ flag=NL }:: [Mr HeliX](https://osu.ppy.sh/users/2330619) *(gagnant du choix de la communauté)*, ::{ flag=CN }:: [fanzhen0019](https://osu.ppy.sh/users/418699) *(gagnant du choix du mappeur)* | ::{ flag=CA }:: [Meow Mix](https://osu.ppy.sh/users/3021634) | ::{ flag=CN }:: [fanzhen0019](https://osu.ppy.sh/users/418699) | [#1](https://osu.ppy.sh/home/news/2020-08-23-aspire-v-results) |
+
+### [osu!taiko Featured Artist Cup](o!tFAC)
+
+L'**osu!taiko Featured Artist Cup** est un concours de mapping osu!taiko où il est demandé simplement aux concurrents de mapper une musique d'un Featured Artist d'osu!. Le concours a quelques fois des limitations/particularités spécifiques afin de tester le niveau des concurrents.
+
+| Numéro du concours | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] | Résultats |
+| :-: | :-- | :-- | :-- | :-- |
+| [#1](/wiki/Contests/o!tFAC/1) | ::{ flag=KR }:: [woosungko](https://osu.ppy.sh/users/14184157) | ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) | ::{ flag=IT }:: [D3kuu](https://osu.ppy.sh/users/7807444) | [#1](https://osu.ppy.sh/community/forums/topics/1520800) |
+| [#2](/wiki/Contests/o!tFAC/2) | ::{ flag=AR }:: [KyeX](https://osu.ppy.sh/users/15118934) | ::{ flag=KR }:: [woosungko](https://osu.ppy.sh/users/14184157) | ::{ flag=FI }:: [duski](https://osu.ppy.sh/users/6506484) | [#1](https://osu.ppy.sh/community/forums/topics/1588200) |
+| [#3](/wiki/Contests/o!tFAC/3) | **Code:Red** (::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721), ::{ flag=TH }:: [Kusuhara Yui](https://osu.ppy.sh/users/9582525)) | **?XD** (::{ flag=SG }:: [arcpotato](https://osu.ppy.sh/users/12842392), ::{ flag=SG }:: [_gt](https://osu.ppy.sh/users/8301957)) | **:3** (::{ flag=KR }:: [woosungko](https://osu.ppy.sh/users/14184157), ::{ flag=GB }:: [Horiiizon](https://osu.ppy.sh/users/8071438)) | [#1](https://osu.ppy.sh/home/news/2022-12-26-results-osu!taiko-featured-artist-cup-3) |
 
 ### [osu! Mapping Olympiad](A_Labour_of_Love_Contest)
 
@@ -242,6 +259,7 @@ Le but de ce concours est simple : les participants doivent créer une map qui p
 | [#1](https://osu.ppy.sh/community/forums/topics/1624880) | ::{ flag=NL }:: [Boaz](https://osu.ppy.sh/users/13302996) | ::{ flag=JP }:: [_Rise](https://osu.ppy.sh/users/5217107) | ::{ flag=CL }:: [Metsaller](https://osu.ppy.sh/users/4364791) | ::{ flag=FI }:: [Antti](https://osu.ppy.sh/users/13281473) | [#1](https://docs.google.com/spreadsheets/d/1aR1GjF8diyjFhK_k_uOkU40zIKjaQbXhVbGDGmq5pdg/edit?usp=sharing) |
 | [#2](https://osu.ppy.sh/community/forums/topics/1639586) | ::{ flag=AR }:: [Axer](https://osu.ppy.sh/users/7299864) | ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) | ::{ flag=SG }:: [\_gt](https://osu.ppy.sh/users/8301957) | ::{ flag=US }:: [Vixlowo](https://osu.ppy.sh/users/20295114) | [#1](https://docs.google.com/spreadsheets/d/1ps3bOL2JlzwPEh0gVTLHnp7E48stwqHMH6-ljDSBJQs/edit?usp=sharing) |
 | [#3](https://osu.ppy.sh/community/forums/topics/1652502) | ::{ flag=US }:: [radar](https://osu.ppy.sh/users/7131099) | ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) | ::{ flag=FI }:: [Antti](https://osu.ppy.sh/users/13281473) | ::{ flag=NL }:: [Boaz](https://osu.ppy.sh/users/13302996), ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) | [#1](https://docs.google.com/spreadsheets/d/1UXvS2ZdlRHOj8mltCX8LtluQwXrcXZ_B8D02LIdcJoc/edit?usp=sharing) |
+| [#4](https://osu.ppy.sh/community/forums/topics/1704114) | ::{ flag=HK }:: [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | ::{ flag=AR }:: [paz08](https://osu.ppy.sh/users/9964420) | ::{ flag=HK }:: [Irone OSU](https://osu.ppy.sh/users/10678230) | ::{ flag=GB }:: [Dusk-](https://osu.ppy.sh/users/6092181) | [#1](https://docs.google.com/spreadsheets/d/1zywwZ1hTqM0ctSVbfixOX-5s4-ez8E2Hg82nmSznY80/edit?usp=sharing) |
 
 ### [osb! Storyboarding Contest](osb!_Storyboarding_Contest)
 
@@ -253,22 +271,12 @@ L'**osb! Storyboarding Contest** est un concours de storyboarding où les storyb
 
 ### [osu! Beatmapping World Championship](oBWC)
 
-L'**osu! Beatmapping World Championship** est un concours de mapping par équipe dans lequel les équipes participantes, composées de mappeurs d'un même pays, d'une même région, voire d'un même continent (dans une certaine mesure), s'affrontent sur plusieurs musiques et étapes de mapping. Le concours est connu pour n'utiliser que des musiques disponibles dans la bibliothèque [Featured Artist](/wiki/Featured_Artists) pendant son déroulement.
+L'**osu! Beatmapping World Championship** est un concours de mapping par équipe dans lequel les équipes participantes, composées de mappeurs d'un même pays, d'une même région, voire d'un même continent (dans une certaine mesure), s'affrontent sur plusieurs musiques et étapes de mapping. Le concours est connu pour n'utiliser que des musiques disponibles dans la bibliothèque [Featured Artist](/wiki/People/Featured_Artists) pendant son déroulement.
 
 | Numéro du concours | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] | Résultats |
 | :-: | :-- | :-- | :-- | :-- |
 | [#1 (2019)](/wiki/Contests/oBWC/1) | ::{ flag=FR }:: France ([Realazy](https://osu.ppy.sh/users/918297), [BOUYAAA](https://osu.ppy.sh/users/405449), [Irohas](https://osu.ppy.sh/users/4403937), [Linada](https://osu.ppy.sh/users/5239047), [PoNo](https://osu.ppy.sh/users/4610047), [Sotarks](https://osu.ppy.sh/users/4452992), et ::{ flag=CH }:: [Xenok](https://osu.ppy.sh/users/3256600)) | ::{ flag=SE }:: Suède ([Liiraye](https://osu.ppy.sh/users/1280641), [Arbane](https://osu.ppy.sh/users/4150829), [bite you death](https://osu.ppy.sh/users/6398464), [Dilectus](https://osu.ppy.sh/users/4287454), [dqs01733](https://osu.ppy.sh/users/3372459), et [Zer0-](https://osu.ppy.sh/users/4260033)) | ::{ flag=HK }:: Hong Kong ([StarrStyx](https://osu.ppy.sh/users/4600383), [Chaoslitz](https://osu.ppy.sh/users/3621552), [how2miss](https://osu.ppy.sh/users/4477199), [Regou](https://osu.ppy.sh/users/419954), [Rizia](https://osu.ppy.sh/users/1367570), [Skystar](https://osu.ppy.sh/users/873961), et [Starfy](https://osu.ppy.sh/users/2045914)) | [#1](https://www.youtube.com/watch?v=_booyIRa5v8) |
 | [#2 (2020)](/wiki/Contests/oBWC/2) | ::{ flag=GB }:: Royaume-Uni ([hypercyte](https://osu.ppy.sh/users/9155377), [Aistre](https://osu.ppy.sh/users/4879380), [Altai](https://osu.ppy.sh/users/5745865), [Chugger](https://osu.ppy.sh/users/4491713), [DeviousPanda](https://osu.ppy.sh/users/4966334), [pocket-](https://osu.ppy.sh/users/6808091), et [Yusomi](https://osu.ppy.sh/users/4174940)) | ::{ flag=AR }:: Argentine ([MaestroSplinter](https://osu.ppy.sh/users/6707918), [chucentry](https://osu.ppy.sh/users/2498731), [Lince Cosmico](https://osu.ppy.sh/users/6070370), et [Megafan](https://osu.ppy.sh/users/6632605)) | ::{ flag=BR }:: Brésil ([Net0](https://osu.ppy.sh/users/5099768), [Enerugi](https://osu.ppy.sh/users/4475985), [Faito](https://osu.ppy.sh/users/9706291), [Kowari](https://osu.ppy.sh/users/5404892), [Maot](https://osu.ppy.sh/users/3914271), [Sakura Airi](https://osu.ppy.sh/users/8682057), et [Trynna](https://osu.ppy.sh/users/2652951)) | [#1](https://osu.ppy.sh/home/news/2020-10-22-beatmapping-world-championship-2020-concludes) |
-
-### [osu!taiko Featured Artist Cup](o!tFAC)
-
-La **osu!taiko Featured Artist Cup** est un concours de mapping osu!taiko où il est demandé simplement aux concurrents de mapper une musique d'un Featured Artist d'osu!. Le concours a quelques fois des limitations/particularités spécifiques afin de tester le niveau des concurrents.
-
-| Numéro du concours | ![Couronne en or][GCrown] | ![Couronne d'argent][SCrown] | ![Couronne de bronze][BCrown] | Résultats |
-| :-: | :-- | :-- | :-- | :-- |
-| [#1](/wiki/Contests/o!tFAC/1) | ::{ flag=KR }:: [woosungko](https://osu.ppy.sh/users/14184157) | ::{ flag=TH }:: [Ph0eNiiXZ](https://osu.ppy.sh/users/9463721) | ::{ flag=IT }:: [D3kuu](https://osu.ppy.sh/users/7807444) | [#1](https://osu.ppy.sh/community/forums/topics/1520800) |
-| [#2](/wiki/Contests/o!tFAC/2) | ::{ flag=AR }:: [KyeX](https://osu.ppy.sh/users/15118934) | ::{ flag=KR }:: [woosungko](https://osu.ppy.sh/users/14184157) | ::{ flag=FI }:: [duski](https://osu.ppy.sh/users/6506484) | [#1](https://osu.ppy.sh/community/forums/topics/1588200) |
-| [#3](/wiki/Contests/o!tFAC/3) | *à déterminer* | *à déterminer* | *à déterminer* | *à déterminer* |
 
 ### [Slider Velocity Showdown](SVS)
 

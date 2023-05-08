@@ -10,7 +10,7 @@ Un fichier **.osr** contient toutes les informations à propos d'un replay. Pour
 | Court (Short) | 2 | Une valeur petit-boutiste de 2 octets. |
 | Entier (Integer) | 4 | Une valeur petit-boutiste de 4 octets. |
 | Long (Long) | 8 | Une valeur petit-boutiste de 8 octets. |
-| ULEB128 (ULEB128) | Variable | nombre entier à taille variable ; en savoir plus : [ULEB128](http://en.wikipedia.org/wiki/ULEB128). |
+| ULEB128 (ULEB128) | Variable | nombre entier à taille variable ; en savoir plus : [ULEB128](https://en.wikipedia.org/wiki/LEB128). |
 | Chaîne de caractère (String) | Variable | Contient trois partie ; un octet qui est soit défini par 0x00, indiquant que les deux autres parties ne sont pas présentes, ou 0x0b (11 en décimal), indiquant que les deux autres parties sont présentes. Si la première partie est définie par 0x0b, alors, la deuxième partie est un ULEB128, définissant la longueur de la chaîne de caractère, et ensuite la chaîne de caractère elle-même, encodée en UTF-8. En savoir plus: [UTF-8](https://fr.wikipedia.org/wiki/UTF-8) |
 
 ## Format
@@ -35,11 +35,11 @@ Les Byte offsets ne sont pas inclus dans ce tableau à cause des valeurs à tail
 | Octet (Byte) | Combo parfait (1 = pas de miss, pas de sliderbreaks et pas de sliders lâchés trop tôt). |
 | Entier (Integer) | Mods utilisés (voir en dessous pour plus d'infos) |
 | Chaîne de caractère (String) | Graphique de la barre de vie : paires u/v séparées par des virgules, où u est le temps en millisecondes dans la musique et v est un float allant de 0 à 1 qui représente la quantité de vie du joueur à un temps donné (0 = barre de vie vide, 1 = barre de vie remplie) |
-| Long (Long) | Horodatage ([ticks Windows](https://docs.microsoft.com/fr-fr/dotnet/api/system.datetime.ticks?redirectedfrom=MSDN&view=net-5.0#System_DateTime_Ticks)) |
+| Long (Long) | Horodatage ([ticks Windows](https://learn.microsoft.com/fr-fr/dotnet/api/system.datetime.ticks)) |
 | Entier (Integer) | Taille en octets des données du replay compressé |
 | Tableau d'octets (Byte Array) | Données du replay compressées |
 | Long (Long) | ID du score en ligne |
-| Double (Double) | Informations supplémentaires sur le mod. Présent uniquement si [Target Practice](/wiki/Game_modifier/Target_Practice) est activé. |
+| Double (Double) | Informations supplémentaires sur le mod. Présent uniquement si [Target Practice](/wiki/Gameplay/Game_modifier/Target_Practice) est activé. |
 
 **Informations supplémentaires sur le mod :**
 
@@ -48,7 +48,7 @@ Les Byte offsets ne sont pas inclus dans ce tableau à cause des valeurs à tail
 | Target Practice | Précision totale de tous les hits. Divisez ce chiffre par le nombre de cibles sur la beatmap pour obtenir la précision affichée dans le jeu. |
 
 Il y a encore d'autres données comme le mouvement de la souris et des touches appuyées dans des données en [LZMA](https://fr.wikipedia.org/wiki/LZMA).
- 
+
 Une fois décompressé, le texte contient des données séparées par des virgules. Chacune présente des actions présentées par 4 nombres: `w | x | y | z`.
 
 | Variable | Type de donnée en français (en anglais) | Description |
@@ -62,7 +62,7 @@ Pour les replays effectuées à partir de la version `20130319`, la graine RNG d
 
 ## Mods
 
-Comme décrit dans l'[API osu!](https://github.com/peppy/osu-api/wiki#mods)
+Comme décrit dans l'[API osu!](https://github.com/ppy/osu-api/wiki#mods)
 
 | Mod | Valeur (BitOffset) | Commentaire |
 | :-- | :-- | :-- |
