@@ -35,7 +35,7 @@ tags:
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, physical medal, 12 months of osu!supporter |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Physical medal, 6 months of osu!supporter |
 
-![GST:LIVE 2022 badge 1](img/badge1.png) ![GST:LIVE 2022 badge 2](img/badge2.png)
+![GST:LIVE 2022 badge 1](img/badge1.png)
 
 ## Organisation
 
