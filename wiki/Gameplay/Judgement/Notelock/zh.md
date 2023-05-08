@@ -21,8 +21,6 @@ tags:
 
 当物件锁出现时，被击打的物件会抖动。但对于滑条和转盘不生效（只出现在圆圈上）。
 
-When notelock occurs, the clicked hit circle will shake. This does not happen for sliders and spinners.
-
 ## 原因
 
 物件锁是 osu! 时间轴系统的一部分，当两个物件的判定窗口相互重叠时就会发生。如果谱面的[判定严度 (OD)](/wiki/Beatmap/Overall_difficulty) 很低，[BPM](/wiki/Music_theory/Tempo) 很高，那么判定窗口会经常重叠，物件锁会更经常发生。
