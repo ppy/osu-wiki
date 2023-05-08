@@ -2,7 +2,7 @@
 
 ![](https://assets.ppy.sh/contests/147/header.jpg)
 
-**triangles** is a mapping and storyboarding contest focused on lazer's theme song *[cYsmix](https://osu.ppy.sh/beatmaps/artists/2) - triangles*.
+**triangles** is a mapping and storyboarding contest focused on [osu!(lazer)](/wiki/Client/Release_stream/Lazer)'s theme song *[cYsmix](https://osu.ppy.sh/beatmaps/artists/2) - triangles*.
 
 Submissions to this contest include:
 
@@ -11,7 +11,7 @@ Submissions to this contest include:
   - following the [ranking criteria](/wiki/Ranking_Criteria) 
   - with 5 difficulties total: Easy, Normal, Hard, Insane, and Expert
 - A triangle-themed storyboard with a `.osb` file under 1 MB.
-- A team of 2-5 participants
+- A team of 2-5 participants.
 - A full submission under 10 MB total.
 
 ## Contest schedule
@@ -143,8 +143,6 @@ Players are also eligible for prizes if they participate in the lazer playlists:
 
 ## Rules
 
-- **Submission must include the following:**
-  - A beatmap spread of *cYsmix - triangles* with 5 difficulties total: Easy, Normal, Hard, Insane, and Expert.
 - **Submission must include the following:**
   - A beatmap spread of *cYsmix - triangles* with **FIVE DIFFICULTIES TOTAL**: Easy, Normal, Hard, Insane, and Expert. [Download the beatmap template here!](https://assets.ppy.sh/artists/2/Songs/cYsmix%20-%20triangles.osz)
   - A storyboard with a `.osb` file no greater than **1 MB**. This is to ensure the storyboard is well optimised and doesn't take too long to parse and load into the game.

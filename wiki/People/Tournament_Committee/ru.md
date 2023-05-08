@@ -5,7 +5,7 @@
 Их обязанности включают в себя:
 
 - Проверка [турнирных репортов](https://pif.ephemeral.ink/tournament-reports);
-- Наблюдение за турнирной сценой и периодическое сотрудничество со [службой техподдержки](/wiki/People/The_Team/Account_support_team);
+- Наблюдение за турнирной сценой и периодическое сотрудничество со [службой техподдержки](/wiki/People/Account_support_team);
 - При необходимости — обновление статьи про [официальную поддержку турниров](/wiki/Tournaments/Official_support).
 
 Турнирный комитет был впервые представлен публике 22 июля 2021 г. в канале `#tournaments` [дискорд-сервера osu!dev](https://discord.com/invite/ppy). Его создание стало ответом на стремительный рост турнирной сцены сообщества.
@@ -18,8 +18,10 @@
 
 ## Участники
 
+- ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595)
 - ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578)
 - ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
+- ::{ flag=US }:: [D I O](https://osu.ppy.sh/users/3958619)
 - ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656)
 - ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263)
 - ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779)

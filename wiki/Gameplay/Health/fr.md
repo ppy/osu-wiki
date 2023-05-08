@@ -11,11 +11,11 @@ tags:
 
 # Les points de vie
 
-Les **points de vie** (abrégé en *PV*) est la valeur qui détermine si le joueur a réussi ou échoué une [beatmap](/wiki/Beatmap). La vie est visible dans la [barre de vie](/wiki/Client/Interface/Health_bar), qui s'actualise au fur et à mesure de la progression du jeu. Le paramètre de difficulté appelé [taux de drain de santé](/wiki/Beatmapping/HP_drain_rate) détermine à quel point il est difficile de garder une valeur de points de vie élevée.
+Les **points de vie** (abrégé en *PV*) est la valeur qui détermine si le joueur a réussi ou échoué une [beatmap](/wiki/Beatmap). La vie est visible dans la [barre de vie](/wiki/Client/Interface/Health_bar), qui s'actualise au fur et à mesure de la progression du jeu. Le paramètre de difficulté appelé [taux de drain de santé](/wiki/Beatmap/HP_drain_rate) détermine à quel point il est difficile de garder une valeur de points de vie élevée.
 
 ## osu!
 
-Dans le mode [osu!](/wiki/Game_mode/osu!), la vie diminue à un rythme régulier appelé [drain de vie](/wiki/Beatmapping/Health_drain), mais elle peut être récupérée en frappant les notes au bon moment ou en tournant les spinners.
+Dans le mode [osu!](/wiki/Game_mode/osu!), la vie diminue à un rythme régulier appelé drain de vie, mais elle peut être récupérée en frappant les notes au bon moment ou en tournant les spinners.
 
 Des bursts de score apparaissent après avoir frappé des cercles, modifiant les valeurs de score et de vie en fonction de la précision à laquelle la note est frappée. Une note frappé parfaitement en rythme (300) permettra de récupérer plus de vie qu'une note mal frappée en rythme (50). Les joueurs reçoivent également des boosts plus importants s'ils réalisent un Katu ou un Geki à la fin d'un combo. Un miss, à l'inverse, lui fera perdre de la vie. Si les spinners sont complétés en avance, continuer à tourner permet de récupérer des points de vie supplémentaires. Pour un aperçu de la récupération et de la perte de vie, voir ci-dessous :
 
@@ -66,7 +66,7 @@ Aucun effet :
 
 ## osu!catch
 
-Dans le mode [osu!catch](/wiki/Game_mode/osu!catch), la vie diminue à un rythme régulier appelé [drain de vie](/wiki/Beatmapping/Health_drain), mais peut être récupérée en attrapant des fruits et des drops.
+Dans le mode [osu!catch](/wiki/Game_mode/osu!catch), la vie diminue à un rythme régulier appelé drain de vie, mais peut être récupérée en attrapant des fruits et des drops.
 
 Des bursts de score apparaîtront après avoir attrapé des fruits, modifiant les valeurs de score et de vie en fonction de l'objet attrapé. Rater un fruit, à l'inverse, lui fera perdre de la vie. Les bananes peuvent être ignorés sans pénalité au niveau de la vie. Pour un aperçu de la récupération et de la perte de vie, voir ci-dessous :
 
@@ -85,7 +85,7 @@ Aucun effet :
 
 ## osu!mania
 
-Dans le mode [osu!mania](/wiki/Game_mode/osu!mania), seuls les objets affectent la barre de vie, puisque le [drain de vie](/wiki/Beatmapping/Health_drain) est désactivé.
+Dans le mode [osu!mania](/wiki/Game_mode/osu!mania), seuls les objets affectent la barre de vie, puisque le drain de vie est désactivé.
 
 Des bursts de score apparaîtront après avoir tapé des notes, modifiant les valeurs de score et de vie en fonction de la précision à laquelle la note est frappée. Une note frappée parfaitement en rythme (300) permettra de récupérer plus de vie qu'une note mal frappée en rythme (50). Un miss, à l'inverse, lui fera perdre de la vie. La barre de vie se régénère peu à peu pendant qu'une long note est maintenue. Pour un aperçu de la récupération et de la perte de vie, voir ci-dessous :
 

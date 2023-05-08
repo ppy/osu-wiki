@@ -4,11 +4,11 @@
 
 | 文件格式 | 媒体类型 (MIME type) | 用途 |
 | :-- | :-- | :-- |
-| [.osz](/wiki/osu!_File_Formats/Osz_(file_format)) | `x-osu-beatmap-archive` | osu! 谱面文件 |
-| [.osk](/wiki/osu!_File_Formats/Osk_(file_format)) | `x-osu-skin-archive` | osu! 皮肤文件 |
-| [.osu](/wiki/osu!_File_Formats/Osu_(file_format)) | `x-osu-beatmap` | osu! [难度](/wiki/Beatmap/Difficulty)文件 |
-| [.osb](/wiki/osu!_File_Formats/Osb_(file_format)) | `x-osu-storyboard` | osu! [故事板](/wiki/Storyboard/Scripting)文件 |
-| [.osr](/wiki/osu!_File_Formats/Osr_(file_format)) | `x-osu-replay` | osu! [回放](/wiki/Gameplay/Replay)文件 |
+| [.osz](/wiki/Client/File_formats/Osz_(file_format)) | `x-osu-beatmap-archive` | osu! 谱面文件 |
+| [.osk](/wiki/Client/File_formats/Osk_(file_format)) | `x-osu-skin-archive` | osu! 皮肤文件 |
+| [.osu](/wiki/Client/File_formats/Osu_(file_format)) | `x-osu-beatmap` | osu! [难度](/wiki/Beatmap/Difficulty)文件 |
+| [.osb](/wiki/Client/File_formats/Osb_(file_format)) | `x-osu-storyboard` | osu! [故事板](/wiki/Storyboard/Scripting)文件 |
+| [.osr](/wiki/Client/File_formats/Osr_(file_format)) | `x-osu-replay` | osu! [回放](/wiki/Gameplay/Replay)文件 |
 
 ## 创建 .osz 和 .osk 文件
 
@@ -21,7 +21,7 @@
 
 ### 使用压缩软件创建
 
-1. 安装一个可以创建 `.zip` 文件的压缩软件，如 [7-Zip](https://www.7-zip.org) 或者 [WinRAR](https://www.win-rar.com)。
+1. 安装一个可以创建 `.zip` 文件的压缩软件，如 [7-Zip](https://www.7-zip.org/) 或者 [WinRAR](https://www.rarlab.com/)。
 2. 将所有需压缩的文件集中在一个文件夹内。
 3. 右击文件夹，选择 `添加到压缩文件...` （或者，你也可以在压缩软件内选择并压缩它）
 4. 选择 ZIP 压缩文件格式。

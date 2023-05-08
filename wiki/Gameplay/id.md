@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: c1d5cd789af311f22298f85306f46780d685ff21
+---
+
 # Gameplay
 
 - [Akurasi](/wiki/Gameplay/Accuracy)
@@ -9,7 +14,7 @@
 - [Comboburst](/wiki/Gameplay/Comboburst)
 - [Dash](/wiki/Gameplay/Dash)
 - [Dash snapping](/wiki/Gameplay/Dash_snapping)
-- [Drain time](/wiki/Gameplay/Drain_time)
+- [Drain time](/wiki/Beatmap/Drain_time)
 - [Edge dash](/wiki/Gameplay/Edge_dash)
 - [Fingerlock](/wiki/Gameplay/Fingerlock)
 - [Grade](/wiki/Gameplay/Grade)
@@ -20,7 +25,7 @@
 - [Mind block](/wiki/Gameplay/Mind_block)
 - [Notelock](/wiki/Gameplay/Judgement/Notelock)
 - [Pass](/wiki/Gameplay/Pass)
-- [Play time](/wiki/Gameplay/Play_time)
+- [Play time](/wiki/Beatmap/Play_time)
 - [Replay](/wiki/Gameplay/Replay)
 - [Skor](/wiki/Gameplay/Score)
 - [Slider break](/wiki/Gameplay/Judgement/Slider_break)

@@ -533,7 +533,7 @@ The ruleset is mainly based on [osu!mania 4K World Cup 2021](/wiki/Tournaments/M
    - Semifinals, Finals, and Grand Finals: 15 beatmaps
      - Containing: 7 Rice maps, 2 SV maps, 3 LN maps, 2 Hybrid maps, 1 Tiebreaker.
 4. Each mappool has one tiebreaker, except for the Qualifiers.
-5. Possible mod choices for all maps are [Hidden](/wiki/Game_modifier/Hidden), [FadeIn](/wiki/Game_modifier/Fade_In), [Flashlight](/wiki/Game_modifier/Flashlight), and [Mirror](/wiki/Game_modifier/Mirror).
+5. Possible mod choices for all maps are [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [FadeIn](/wiki/Gameplay/Game_modifier/Fade_In), [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight), and [Mirror](/wiki/Gameplay/Game_modifier/Mirror).
 6. The tiebreaker will be played under FreeMod conditions.
 
 ### Scheduling instructions

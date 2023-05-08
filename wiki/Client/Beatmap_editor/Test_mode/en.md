@@ -22,9 +22,9 @@ Playing a beatmap in test mode differs from playing it normally, as it will not 
 - The total amount of 300s, 100s, 50s, and misses gained.
 - The percentage of hits that are mistimed.
 - The average delay (in milliseconds) that mistimed hits are late.
-- The beatmap's [star rating](/wiki/Beatmapping/Star_rating).
+- The beatmap's [star rating](/wiki/Beatmap/Star_rating).
 - The total play length of the beatmap (in seconds).
 - The maximum possible combo a player could achieve on the beatmap.
 - Various shortcut controls.
 
-Test mode also differs from a standard play of a beatmap as it requires users to save their beatmap before playing, and allows users to watch the beatmap in "autoplay", which plays the beatmap just as the [Auto](/wiki/Game_modifier/Auto) mod would.
+Test mode also differs from a standard play of a beatmap as it requires users to save their beatmap before playing, and allows users to watch the beatmap in "autoplay", which plays the beatmap just as the [Auto](/wiki/Gameplay/Game_modifier/Auto) mod would.

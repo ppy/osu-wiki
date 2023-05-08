@@ -14,7 +14,7 @@ no_native_review: true
 
 ![SO Modsymbol](/wiki/shared/mods/SO.png "Spun Out (SO) Modsymbol")
 
-*Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Game_modifier)*
+*Für die vollständige Liste aller Mods, siehe: [Spielmodifikationen](/wiki/Gameplay/Game_modifier)*
 
 ## Übersicht
 
@@ -27,7 +27,7 @@ no_native_review: true
 
 ## Beschreibung
 
-Die Mod **Spun Out** ist eine [Spielmodifikation](/wiki/Game_modifier), die [osu!](/wiki/Game_mode/osu!)-Spielern hilft, Spinner in einer [Beatmap](/wiki/Beatmap) erfolgreich zu drehen. Die Mod absolviert alle Spinner einer Beatmap bei genau 286,48 Spins pro Minute (SPM) im Uhrzeigersinn, was 3/5 von 477,26 SPM bei der Mod Auto sind.
+Die Mod **Spun Out** ist eine [Spielmodifikation](/wiki/Gameplay/Game_modifier), die [osu!](/wiki/Game_mode/osu!)-Spielern hilft, Spinner in einer [Beatmap](/wiki/Beatmap) erfolgreich zu drehen. Die Mod absolviert alle Spinner einer Beatmap bei genau 286,48 Spins pro Minute (SPM) im Uhrzeigersinn, was 3/5 von 477,26 SPM bei der Mod Auto sind.
 
 Die Spinner werden deaktiviert und Spieler können keine Drehungen machen, um die SPM zu erhöhen.
 

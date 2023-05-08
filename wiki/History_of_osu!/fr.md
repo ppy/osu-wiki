@@ -17,12 +17,12 @@ Les archives de l'histoire d'osu!, tout dans l'osu! wiki.
 - [2015](2015) - jizz (refonte d'osu!web), osu!weekly, et osu!coins
 - [2016](2016) - scorev2, annonce d'une nouvelle version open-source "lazer" d'osu! (précédemment connue sous le nom de "osu!lazer"), et une refonte de l'osu! wiki
 - [2017](2017) - sortie de la première version lazer d'osu!, et intégration de Discord sur le client stable
-- [2018](2018) - ?
+- [2018](2018)–présent - ?
 
 ## Autres dossiers
 
 - [Histoire de l'osu! wiki](osu!_wiki)
 - [L'histoire d'osu! concernant les April Fools' day jokes](April_Fools)
 - [Historique des classements en ligne](Online_rankings)
-- [Registre du personnel](/wiki/People/The_Team/Staff_Log)
+- [Registre du personnel](/wiki/People/Staff_log)
 - [Histoire des tournois d'osu!](/wiki/Tournaments)

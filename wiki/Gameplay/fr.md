@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: c1d5cd789af311f22298f85306f46780d685ff21
+---
+
 # Gameplay
 
 - [Choke](/wiki/Gameplay/Choke)
@@ -15,13 +20,13 @@
 - [Hyperdash](/wiki/Gameplay/Hyperdash)
 - [Jugement](/wiki/Gameplay/Judgement)
 - [Kiai time](/wiki/Gameplay/Kiai_time)
-- [Longueur de drain](/wiki/Gameplay/Drain_time)
+- [Longueur de drain](/wiki/Beatmap/Drain_time)
 - [Mind block](/wiki/Gameplay/Mind_block)
 - [Notelock](/wiki/Gameplay/Judgement/Notelock)
 - [Pass](/wiki/Gameplay/Pass)
 - [Protection pour tablette](/wiki/Gameplay/Tablet_cover)
 - [Précision](/wiki/Gameplay/Accuracy)
-- [Temps de jeu](/wiki/Gameplay/Play_time)
+- [Temps de jeu](/wiki/Beatmap/Play_time)
 - [Replay](/wiki/Gameplay/Replay)
 - [Score](/wiki/Gameplay/Score)
 - [Slider break](/wiki/Gameplay/Judgement/Slider_break)

@@ -13,16 +13,14 @@ tags:
   - кооп
   - совместная игра
   - игра с друзьями
-outdated_translation: true
-outdated_since: a1204aec65f4533d47725e5a423e288bc4a41a40
 ---
 
 # Co-op (мод)
 
 ![Значок мода Co-op](/wiki/shared/mods/CP.png "Значок мода Co-op (CO)")
 
-*Полный список модов: см. [Игровой модификатор](/wiki/Game_modifier)*\
-*Не следует путать с [мультиплеером](/wiki/Gameplay/Multiplayer).*
+*Полный список модов: см. [Игровой модификатор](/wiki/Gameplay/Game_modifier)*\
+*Не следует путать с [мультиплеером](/wiki/Client/Interface/Multiplayer).*
 
 ## Краткая информация
 
@@ -36,7 +34,7 @@ outdated_since: a1204aec65f4533d47725e5a423e288bc4a41a40
 
 *Примечание: при активации Co-op ваш рекорд не засчитается.*
 
-**Co-op** (совместная игра) — [игровой модификатор](/wiki/Game_modifier) в [osu!mania](/wiki/Game_mode/osu!mania), добавляющий второе игровое поле, ширина которого зависит от выбранного числа клавиш (напр., 7K -> 7K + 7K = 14K). Если [карта](/wiki/Beatmap) была сделана специально для osu!mania, число клавиш делится пополам (напр., 7K -> 4K + 3K = 7K).
+**Co-op** (совместная игра) — [игровой модификатор](/wiki/Gameplay/Game_modifier) в [osu!mania](/wiki/Game_mode/osu!mania), добавляющий второе игровое поле, ширина которого зависит от выбранного числа клавиш (напр., 7K -> 7K + 7K = 14K). Если [карта](/wiki/Beatmap) была сделана специально для osu!mania, число клавиш делится пополам (напр., 7K -> 4K + 3K = 7K).
 
 ![Механизм работы Co-op на картах для osu!mania](img/CP-comparison-mania-specific-beatmap.jpg "Сравнение игры без Co-op (слева) и игры с Co-op (справа) на карте для osu!mania")
 
@@ -55,7 +53,7 @@ outdated_since: a1204aec65f4533d47725e5a423e288bc4a41a40
 
 *Примечание: на картах для osu!mania Co-op не понижает множитель очков.*
 
-Подробнее о том, как работает второе игровое поле, см. [osu!mania § Co-op](/wiki/Game_mode/osu!mania#co-op).
+Подробнее о том, как работает второе игровое поле, см. [Game mode/osu!mania § Co-op](/wiki/Game_mode/osu!mania#co-op).
 
 ### Факты
 

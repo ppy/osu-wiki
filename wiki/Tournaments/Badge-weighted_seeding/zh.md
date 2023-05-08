@@ -56,12 +56,12 @@ tags:
 
 ## 参考
 
-[^badge-appeals]: :{ flag=US }:: [Kron05](https://osu.ppy.sh/users/10505107) 撰写的 ["主页奖牌上诉 (Badge Appeals)" 论坛帖](https://osu.ppy.sh/community/forums/topics/1066357)
-[^brtt-bws]: "BWS" 章节，出自于 :{ flag=DE }:: [Bakugo-](https://osu.ppy.sh/users/4990127) 撰写的 [*Baku's Random Team Tournament #3* forum post](https://osu.ppy.sh/community/forums/topics/973512)
+[^badge-appeals]: ::{ flag=US }:: [Kron05](https://osu.ppy.sh/users/10505107) 撰写的 ["主页奖牌上诉 (Badge Appeals)" 论坛帖](https://osu.ppy.sh/community/forums/topics/1066357)
+[^brtt-bws]: "BWS" 章节，出自于 ::{ flag=DE }:: [Bakugo-](https://osu.ppy.sh/users/4990127) 撰写的 [*Baku's Random Team Tournament #3* forum post](https://osu.ppy.sh/community/forums/topics/973512)
 [^digitalhypno-discord-1]: ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207) 在 [*osu! University* server](https://discord.gg/QubdHdnBVg) 发送的 [Discord 消息 (1)](https://discord.com/channels/841454370888351784/843627338839490560/987908575215120414)
 [^digitalhypno-discord-2]: ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207) 在 [*osu! University* server](https://discord.gg/QubdHdnBVg) 发送的 [Discord 消息 (2)](https://discord.com/channels/841454370888351784/843627338839490560/987908667833737227)
 [^digitalhypno-discord-3]: ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207) 在 [*osu! University* server](https://discord.gg/QubdHdnBVg) 发送的 [Discord 消息 (3)](https://discord.com/channels/841454370888351784/843627338839490560/987909537124204584)
 [^digitalhypno-discord-4]: ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207) 在 [*osu! University* server](https://discord.gg/QubdHdnBVg) 发送的 [Discord 消息 (4)](https://discord.com/channels/841454370888351784/843627338839490560/987909775851388948)
 [^digitalhypno-discord-5]: ::{ flag=US }:: [DigitalHypno](https://osu.ppy.sh/users/4384207) 在 [*osu! University* server](https://discord.gg/QubdHdnBVg) 发送的 [Discord 消息 (5)](https://discord.com/channels/841454370888351784/843627338839490560/987910347371458591)
-[^hippo-cup-bws]: "什么是 BWS" 章节，出自于::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189) 撰写的 [*Hippo Cup 2* 论坛帖](https://osu.ppy.sh/community/forums/topics/848153)
+[^hippo-cup-bws]: "什么是 BWS" 章节，出自于 ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189) 撰写的 [*Hippo Cup 2* 论坛帖](https://osu.ppy.sh/community/forums/topics/848153)
 [^oet-bws]: [osu! European Tournament 2021 § BWS 格式](/wiki/Tournaments/o!ET/2021#bws-format)

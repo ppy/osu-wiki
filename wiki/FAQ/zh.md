@@ -1,8 +1,9 @@
 ---
-outdated_translation: true
+needs_cleanup: true
+no_native_review: true
 ---
 
-# FAQ
+# FAQ（常见问题）
 
 下列为 osu! 的基本游戏玩法，以及游戏的得点系统与分界面。
 
@@ -32,13 +33,13 @@ outdated_translation: true
 
 首先看看有没有打开菜单栏。如果有，osu! 图标旁边将会有四个按钮。如果没有，那就在游戏主界面上面晃动鼠标或者点击 osu! 图标。
 
-出现的四个按钮分别为 **Play（玩）**, **Edit（编辑）**, **Options（设置/选项）**, 和 **Exit（退出）**
+出现的四个按钮分别为 **Play（游玩）**, **Edit（编辑）**, **Options（设置/选项）**, 和 **Exit（退出）**
 
 点击 **Play** 之后，四个按钮将变成 **Solo（单人）**, **Multi（多人）** 和 **Back（返回）**
 
 点击 **Solo** 按钮后可以选择模式(osu!标准模式、[太鼓模式(Taiko)](/wiki/Game_mode/osu!taiko)、[接水果模式(Catch the Beat)和](/wiki/Game_mode/osu!catch)[osu!mania模式](/wiki/Game_mode/osu!mania))、歌曲和难度，然后开始游戏。
 
-点击 **Multi** 按钮后将出现房间列表和聊天窗口。点击房间以加入多人游戏，或者点击 New Game 以建立房间。请参见 [Multi](/wiki/Client/Interface/Multiplayer) (English)。
+点击 **Multi** 按钮后将出现房间列表和聊天窗口。点击房间以加入多人游戏，或者点击 New Game （新建游戏）以建立房间。请参见 [Multi](/wiki/Client/Interface/Multiplayer) (English)。
 
 下面开始介绍 osu! 标准模式的游戏玩法。
 
@@ -78,7 +79,7 @@ outdated_translation: true
 
 右上角为总积分，详细说明清往下参详。
 
-左下角为 combo 值显示。
+左下角为 combo（连击） 值显示。
 
 欲知游戏的操作，不妨看一下玩家录像，或许对您帮得上忙呢！
 
@@ -141,7 +142,7 @@ outdated_translation: true
 
 ##### ![](/wiki/shared/mode/osu.png) osu!
 
-| Grade | Condition |
+| 等级 | 条件 |
 | :-: | :-- |
 | SS | 100% 准确度 |
 | S | 300 超过 90%，50 低于 1% 并且没有失误 |
@@ -217,7 +218,7 @@ outdated_translation: true
 
 某些谱面可能加入了在接水果模式里不能接到的大距离节奏，此时游戏程序会自动加快小人的移动速度，并且会在背景显示红色以作提示。
 
-### 什么是 “osu!mania”? (翻译未完成)
+### 什么是 “osu!mania”?
 
 ![](/wiki/shared/mania-gameplay.jpg)
 
@@ -233,22 +234,22 @@ osu!mania 是继太鼓和接水果模式后，第三个加入的特别模式
 
 ![](/wiki/shared/Mania_key_layouts.jpg)
 
-- *Symmetrical* style mimics the button placement of DJMAX, in which the center key is "spacebar", in which, created a feeling of "stepping" the pedal similar to the arcade version. Centre key matches the middle column (5K and 7K only) and the other column matches the keys in its corresponding place.
-- *Left to Right* style mimics the button placement of Beatmania IIDX, where the first column matches to the key1, then the second column matches the key2 and so on.
+- *对称* 风格模仿了 DJMAX 的键位，其中，中间的按键是"spacebar（空格）"，带来一种类似于游乐中心的"踩"踏板的感觉。中间的按键对应中间的一列（只有5K和7K模式是这样的），其它列对应相应位置上的按键。
+- *从左到右* 风格模仿了 Beatmania IIDX 的键位，第一列对应 按键1，第二列对应 按键2，以此类推。
 
-*Symmetrical* key binding (For DJMAX style)
+*对称* 按键绑定 (对于 DJMAX 风格)
 
-- For *left* hand buttons — (K1)**A**, (K2)**S**, (K3)**D**, (K4)**F**
-- For *right* hand buttons — (K6)**J**, (K7)**K**, (K8)**L**, (K9)**semicolon ";"**.
-- *Center* button — (K5)**spacebar**. \[On 5K and 7K only\]
-- The *Special* button — **left SHIFT** and **left control "Ctrl"**.
+- *左* 侧按键 — (K1)**A**, (K2)**S**, (K3)**D**, (K4)**F**
+- *右* 侧按键 — (K6)**J**, (K7)**K**, (K8)**L**, (K9)**分号 ";"**.
+- *中心* 按键 — (K5)**spacebar（空格）**. \[仅对于5K和7K\]
+- *特殊* 按键 — **左 SHIFT** 和 **左控制键 "Ctrl"**.
 
-*Left to Right* key binding (For Beatmania IIDX style)
+*从左到右* 案件绑定 (对于 Beatmania IIDX 风格)
 
-- From down to up then down to up again: (K1)**Z**, (K2)**S**, (K3)**X**, (K4)**D**, (K5)**C**, (K6)**F**, (K7)**V**, (K8)**G**, (K9)**B** \[K9 is not used\]
-- The *Special* button — **left SHIFT** and **left control "Ctrl"**.
+- 从下到上，再从下到上: (K1)**Z**, (K2)**S**, (K3)**X**, (K4)**D**, (K5)**C**, (K6)**F**, (K7)**V**, (K8)**G**, (K9)**B** \[K9不使用\]
+- *特殊* 按键 — **左 SHIFT** 和 **左控制键 "Ctrl"**.
 
-| Key | Symmetrical binding |
+| 键数 | 对称键位绑定 |
 | :-: | :-: |
 | 4K | K3, K4 |
 | 5K | K3, K4 |
@@ -256,7 +257,7 @@ osu!mania 是继太鼓和接水果模式后，第三个加入的特别模式
 | 7K | K2, K3, K4 |
 | 8K | K1, K2, K3, K4 |
 
-| Key | Left-To-Right binding |
+| 键数 | 从左到右键位绑定 |
 | :-: | :-: |
 | 4K | K1, K2 |
 | 5K | K1, K2, K3, K4, K5 |
@@ -264,7 +265,7 @@ osu!mania 是继太鼓和接水果模式后，第三个加入的特别模式
 | 7K | K1, K2, K3, K4, K5, K6, K7 |
 | 8K | K1, K2, K3, K4, K5, K6, K7, K8 |
 
-## Common Issues
+## 常见问题
 
 ### 我的上榜分数没有增加！这是个 bug 么？
 
@@ -289,7 +290,7 @@ osu!mania 是继太鼓和接水果模式后，第三个加入的特别模式
 
 我在每张谱面取得的总的最高分数是5,000,000 + 1,000,000 + 2,000,000 = 8,000,000，这同时也是我的上榜总分数。
 
-需要留意的是，您在 approved 的谱面里取得的分数不会算进您的上榜总分数(但是会计算准确度)。approved 的 map 会用“火焰”标志来标明，和以“爱心”标明的上榜谱面有所区别。另外，Pending 的铺面里取得的所有分数均不会算进您的上榜总分数，也不会计算准确度。Pending 的 map 会用“问号”标志来标明。最常见的 Pending 例子是内置的教程(Tutorial)。
+需要留意的是，您在 approved 的谱面里取得的分数不会算进您的上榜总分数(但是会计算准确度)。approved 的 map 会用“火焰”标志来标明，和以“爱心”标明的上榜谱面有所区别。另外，Pending 的谱面里取得的所有分数均不会算进您的上榜总分数，也不会计算准确度。Pending 的 map 会用“问号”标志来标明。最常见的 Pending 例子是内置的教程(Tutorial)。
 
 ### 我可以关掉一些影响我游戏的东西吗
 

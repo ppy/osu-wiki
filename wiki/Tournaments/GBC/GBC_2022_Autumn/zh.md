@@ -10,7 +10,7 @@ tags:
 
 ![GBC 2022 Autumn banner](img/GBC-2022-Autumn-banner.png)
 
-**GBC 2022 秋季赛** (***GB杯 2022 秋季赛***) 是由GB组织主办的3v3队长选秀制osu!mania4k项目赛事。本届比赛是GBC系列赛事的第二届正式比赛。
+**GBC 2022 秋季赛** (***GB 杯 2022 秋季赛***) 是由 GB 组织主办的 3v3 队长选秀制osu!mania4k 项目赛事。本届比赛是 GBC 系列赛事的第二届正式比赛。
 
 ## 比赛日程
 
@@ -44,6 +44,9 @@ tags:
 | *第 17-21 名* | ￥60 |
 | *第 22-24 名* | ￥30 |
 
+![](img/badge_official_small.png "GBC 2022 秋季赛冠军缎带")\
+![](img/badge_1st_small.png "GBC 2022 秋季赛冠军 KanonBot 缎带") ![](img/badge_2nd_small.png "GBC 2022 秋季赛亚军 KanonBot 缎带") ![](img/badge_3rd_small.png "GBC 2022 秋季赛季军 KanonBot 缎带")
+
 ## 组织
 
 GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
@@ -51,15 +54,16 @@ GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
 | Position | Member(s) |
 | :-- | :-- |
 | 主办方 | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
-| 工作人员 | ::{ flag=CN }:: [\[GB\]gluefly](https://osu.ppy.sh/users/8715409), ::{ flag=GB }:: [-Deepdive-](https://osu.ppy.sh/users/13338645), ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501) |
-| 图池管理 | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260), ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501) |
+| 工作人员 | ::{ flag=CN }:: [\[GB\]gluefly](https://osu.ppy.sh/users/8715409),  ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018) |
+| 图池管理 | ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501), ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
 | 变速图池管理 | ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561) |
-| 图池助手 | ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=GB }:: [-Deepdive-](https://osu.ppy.sh/users/13338645), ::{ flag=CN }:: [Lubei_01](https://osu.ppy.sh/users/11692528) |
-| 裁判 | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=CN }:: [\[GB\]Edward_Tsui](https://osu.ppy.sh/users/8609627), ::{ flag=CN }:: [\[GB\]gluefly](https://osu.ppy.sh/users/8715409), ::{ flag=CN }:: [\[GB\]Rush_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501), ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [\[GB\]Thaumiel](https://osu.ppy.sh/users/15017771), ::{ flag=CN }:: [\[GB\]Natro](https://osu.ppy.sh/users/27233308), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619), ::{ flag=CN }:: [\[GB\]Yuria](https://osu.ppy.sh/users/13092888), ::{ flag=CN }:: [\[GB\]Tyris](https://osu.ppy.sh/users/10497659) |
-| 解说 | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
-| 转播 | ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617) |
-| 设计 | ::{ flag=CN }:: [\[GB\]PlayandyoU](https://osu.ppy.sh/users/14759634), ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561)  |
-| 数据统计&wiki编写 | ::{ flag=CN }:: [\[GB\]Rush\_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=CN }:: [\[GB\]Yuria](https://osu.ppy.sh/users/13092888), ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407), ::{ flag=CN }:: [\[GB\]Natro](https://osu.ppy.sh/users/27233308) |
+| 图池助手 | ::{ flag=GB }:: [-Deepdive-](https://osu.ppy.sh/users/13338645), ::{ flag=CN }:: [Blue_Potion](https://osu.ppy.sh/users/13094831), ::{ flag=CN }:: [Lubei_01](https://osu.ppy.sh/users/11692528), ::{ flag=VN }:: [Lott](https://osu.ppy.sh/users/13821222) |
+| 裁判 | ::{ flag=CN }:: [\[GB\]Edward_Tsui](https://osu.ppy.sh/users/8609627), ::{ flag=CN }:: [\[GB\]gluefly](https://osu.ppy.sh/users/8715409), ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=CN }:: [\[GB\]Rush_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=CN }:: [\[GB\]Sanae](https://osu.ppy.sh/users/11238501), ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
+| 解说 | ::{ flag=CN }:: [Tachibana Gekka](https://osu.ppy.sh/users/4363530), ::{ flag=CN }:: [\[GB\]Luoxuan0327](https://osu.ppy.sh/users/8586018), ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
+| 客座解说 | ::{ flag=GB }:: [-Deepdive-](https://osu.ppy.sh/users/13338645), ::{ flag=CN }:: [Hylotl](https://osu.ppy.sh/users/18270260), ::{ flag=CN }:: [YuEast 2018](https://osu.ppy.sh/users/13953619), |
+| 转播 | ::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617), ::{ flag=CN }:: [crazybrother](https://osu.ppy.sh/users/8045083), ::{ flag=CN }:: [MadSamurai](https://osu.ppy.sh/users/8646045), ::{ flag=CN }:: [\[GB\]Tyris](https://osu.ppy.sh/users/10497659), ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
+| 设计 | ::{ flag=CN }:: [\[GB\]Mafufu](https://osu.ppy.sh/users/10884561), ::{ flag=CN }:: [\[GB\]PlayandyoU](https://osu.ppy.sh/users/14759634), ::{ flag=CN }:: [\[GB\]Voidmoyu](https://osu.ppy.sh/users/16573996) |
+| 数据统计 & wiki 编写 | ::{ flag=CN }:: [\[GB\]Natro](https://osu.ppy.sh/users/27233308), ::{ flag=CN }:: [\[GB\]Rush\_FTK](https://osu.ppy.sh/users/3046856), ::{ flag=CN }:: [\[GB\]Yuria](https://osu.ppy.sh/users/13092888), ::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407) |
 
 ## 链接
 
@@ -68,7 +72,7 @@ GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
   - [主舞台](https://live.bilibili.com/22545296) (::{ flag=CN }:: [\[GB\]yobrevelc](https://osu.ppy.sh/users/14128407))
   - [副舞台](https://live.bilibili.com/10183) (::{ flag=CN }:: [aiyulu](https://osu.ppy.sh/users/189617))
 - [淘汰赛赛程](https://challonge.com/GBC2022Autumn)
-- [比赛QQ群](https://jq.qq.com/?_wv=1027&k=zqBeTqMW)
+- [比赛 QQ 群](https://jq.qq.com/?_wv=1027&k=zqBeTqMW)
 - [赛事信息表格](https://docs.qq.com/sheet/DZUVwTnF1aEVmdlVX)
 
 ## 参赛选手
@@ -105,14 +109,15 @@ GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
 | 23 | **近月少女的礼仪** | ::{ flag=CN }:: **[Zyuuu](https://osu.ppy.sh/users/15389275)**, ::{ flag=CN }:: [tito31158](https://osu.ppy.sh/users/16436669), ::{ flag=CN }:: [Koishi-0514](https://osu.ppy.sh/users/7546593), ::{ flag=CN }:: [yem sky](https://osu.ppy.sh/users/10588209), ::{ flag=CN }:: [FALSEFAST](https://osu.ppy.sh/users/25508274) |
 | 24 | **又一个倒霉蛋** | ::{ flag=CN }:: **[fishbone2445](https://osu.ppy.sh/users/17640814)**, ::{ flag=CN }:: [chana](https://osu.ppy.sh/users/18375016), ::{ flag=CN }:: [ALWW](https://osu.ppy.sh/users/18786195), ::{ flag=CN }:: [KafuChino](https://osu.ppy.sh/users/14826575), ::{ flag=CN }:: [spensll](https://osu.ppy.sh/users/4547744) |
 
-## 赛程: 半决赛
+## 领奖台
 
-### 2022 年 12 月 10 日，星期六
+比赛已经结束，领奖台名次如下：
 
-| A 队 | B 队 | 比赛时间 (UTC+8) |
-| --: | :-- | :-- |
-| 黎曼猜想 | ban位先ban行李箱 | Dec 10 (Sat) 20:00 |
-| 猫猫面馆 | 均衡教派 | Dec 10 (Sat) 21:30 |
+| 名次 | 队伍 |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "冠军") | 猫猫面馆 |
+| ![Silver crown](/wiki/shared/crown-silver.png "亚军") | 黎曼猜想 |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "季军") | 均衡教派 |
 
 ## 图池
 
@@ -239,20 +244,42 @@ GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
 
 ## 赛果
 
+### 决赛
+
+可在[此处](https://docs.qq.com/sheet/DWnNnTnNMUW9zTnVE)查询本轮详细数据。
+
+2022 年 12 月 17 日，星期六：
+
+| A 队 |  |  | B 队 | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| ban位先ban行李箱 | 3 | **7** | **均衡教派** | [#1](https://osu.ppy.sh/community/matches/105689730) |
+| **猫猫面馆** | **7** | 1 | 黎曼猜想 | [#1](https://osu.ppy.sh/community/matches/105691127) |
+
+### 半决赛
+
+可在[此处](https://docs.qq.com/sheet/DWnNnTnNMUW9zTnVE)查询本轮详细数据。
+
+2022 年 12 月 10 日，星期六：
+
+| A 队 |  |  | B 队 | 比赛链接 |
+| --: | :-: | :-: | :-- | :-- |
+| **黎曼猜想** | **7** | 5 | ban位先ban行李箱 | [#1](https://osu.ppy.sh/community/matches/105556220) |
+| **猫猫面馆** | **7** | 5 | 均衡教派 | [#1](https://osu.ppy.sh/community/matches/105557675) |
+
 ### 八强赛
 
 可在[此处](https://docs.qq.com/sheet/DWnNib25NSVhLT1No?tab=BB08J2)查询本轮详细数据。
 
 2022 年 12 月 3 日，星期六：
 
-| Team A |  |  | Team B | Match link |
+| A 队 |  |  | B 队 | 比赛链接 |
 | --: | :-: | :-: | :-- | :-- |
 | **黎曼猜想** | **7** | 5 | 奖励一把大天空 | [#1](https://osu.ppy.sh/community/matches/105422717) |
 | 经典米托镂空鱼香鸡肉丸 | 6 | **7** | **ban位先ban行李箱** | [#1](https://osu.ppy.sh/community/matches/105424329) |
 
 2022 年 12 月 4 日，星期日：
 
-| Team A |  |  | Team B | Match link |
+| A 队 |  |  | B 队 | 比赛链接 |
 | --: | :-: | :-: | :-- | :-- |
 | 铁戈金马 | 3 | **7** | **猫猫面馆** | [#1](https://osu.ppy.sh/community/matches/105440006) |
 | **均衡教派** | **7** | 5 | DAMWONGaming | [#1](https://osu.ppy.sh/community/matches/105447980) |
@@ -568,11 +595,11 @@ GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
 
 下列规则和 `MWC 4k 2022` 保持一致 : 
 
-11. ro点获胜队伍可以自行选择先选图还是先禁用图。
+11. ro 点获胜队伍可以自行选择先选图还是先禁用图。
 12. 比赛中失败的选手成绩也会被加入最后的总分。
 13. 如果选手在比赛中过早掉线，队伍可以申请重开这一局。
 14. 裁判有权调整 timer 的时间。
-15. 在TB决胜图要求技术暂停需要双方队长的同意。
+15. 在 TB 决胜图要求技术暂停需要双方队长的同意。
 16. NoFail 可以作为正常 mod 在比赛中使用。
 
 ### 比赛规则
@@ -598,14 +625,15 @@ GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
      - 掉线时，截取的游戏内截图也可接受。此方法仅认定截图内显示的分数。不鼓励使用这种方法，如果提供的信息不足以识别选手得分，裁判有权否决分数认定。
      - 所有的截图**必须**使用 `Shift+F12` 在游戏内截取，并提交到 `https://osu.ppy.sh/` 域名下获得，其他方式的截图均会被拒绝。
      - 如果比赛是官方流转播的，作为最后手段，选手分数可以从官方流的转播处获得。
-10. 如果比赛时一方凑不齐最少的比赛人数，比赛可以被推迟最多10分钟。如果10分钟后还是缺人，那么在场选手最多的队伍会被判胜。
+10. 如果比赛时一方凑不齐最少的比赛人数，比赛可以被推迟最多 10 分钟。如果 10 分钟后还是缺人，那么在场选手最多的队伍会被判胜。
 11. 比赛中可以自由上下选手，除了触发特定规则的情况下。
-12. 如果比赛期间一方选手掉线且没有替补，比赛可以推迟最多10分钟，每队每场仅限一次。
+12. 如果比赛期间一方选手掉线且没有替补，比赛可以推迟最多 10 分钟，每队每场仅限一次。
 13. **每队人数为 5 人**。
     - 可能会随报名人数产生变动。
 14. 选手应该保持比赛流畅，严禁故意拖延。如选手过度的拖延时间，裁判可自行决定是否判罚。严禁通过犯规、侮辱或挑衅其他选手或工作人员、拖延时间或其他故意不当行为来扰乱比赛，如有违反将受到相应的惩罚。
 15. 比赛期间，必须尊重所有选手和工作人员，遵循裁判和主办方的指示，不得反对裁判和主办方最终决定。
-16. 多人聊天是[osu的基础规则](/wiki/Rules)，所有聊天规则也适用于多人聊天。
+16. 比赛房间中的聊天室也受到 [规章制度](/wiki/Rules)的约束，玩家在比赛房间中所有聊天信息均需遵守相应规则。
+    - 违法规则将会被判罚禁言。选手被禁言期间不能参赛，在规定时间内必须被换下。
 17. 违反比赛规则的处罚包括但不限于：
     - 禁止选手在某张图上场
     - 禁止选手在整场比赛上场
@@ -620,9 +648,9 @@ GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
 ### 比赛报名
 
 1. 请私信告知主办方并填写[报名表](https://wj.qq.com/s2/10842634/1ffa/)来进行报名。
-   - 报名后的选手**必须**加入[此QQ群](https://jq.qq.com/?_wv=1027&k=zqBeTqMW)。
+   - 报名后的选手**必须**加入[此 QQ 群](https://jq.qq.com/?_wv=1027&k=zqBeTqMW)。
 2. 主办方会手动审核所有报名选手来确保可行性和严肃性。
-   - 选手不得在 12 个月内有违反[osu!社区规则](/wiki/Rules)的记录。
+   - 选手不得在 12 个月内有违反 [osu! 社区规则](/wiki/Rules)的记录。
    - **本届赛事没有排名限制**，如果报名人数过多，主办方可能会邀请部分高水平玩家转去打表演赛。
 3. 报名结束后，主办方会公布所有成功报名玩家的名单，随后开始进行资格赛阶段。
 4. [比赛工作人员](/wiki/Tournaments/Official_support#what-is-considered-staff)不能作为选手参加本次比赛。
@@ -631,7 +659,7 @@ GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
 ### 资格赛介绍
 
 1. 资格赛阶段中，每个选手需要游玩 8 张由图池管理员定制的谱面组成的图池。
-2. 资格赛图池包含8张谱面，均应用 [FreeMod](/wiki/Game_modifier#自由选择模组-(freemod)) 规则，谱面类型分别为:
+2. 资格赛图池包含8张谱面，均应用 [FreeMod](/wiki/Gameplay/Game_modifier#自由选择模组-(freemod)) 规则，谱面类型分别为:
    - Rice: 3 张
    - LN: 2 张
    - Hybrid: 2 张
@@ -723,7 +751,7 @@ GBC 2022 秋季赛由 GB 成员和多位社区成员举办。
    - 常规赛第三轮和第四轮使用图池 2 
    - 十六强赛和四分之一决赛使用图池 3 
    - 半决赛和决赛使用图池 4 
-2. 每轮图池的所有谱面都是在[FreeMod](/wiki/Game_modifier#自由选择模组-(freemod))条件下游玩。
+2. 每轮图池的所有谱面都是在[FreeMod](/wiki/Gameplay/Game_modifier#自由选择模组-(freemod))条件下游玩。
 3. 每轮图池的数量如下:
    - 资格赛: 8 张
    - 图池 1 & 图池 2: 15 张

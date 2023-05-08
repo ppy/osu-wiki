@@ -6,6 +6,8 @@ tags:
   - sh
   - xh
   - 評價
+  - 銀 s
+  - 銀 ss
 no_native_review: true
 ---
 
@@ -15,7 +17,7 @@ no_native_review: true
 
 **評價**為一組字母，表示玩家在該[圖譜](/wiki/Beatmap)的表現。在結算畫面和列表中會與[分數](/wiki/Gameplay/Score)一同顯示。
 
-評價分為 D、C、B、A、S，和 SS，由低至高排序。銀 S 和 SS 評價僅能在使用 [Hidden](/wiki/Game_modifier/Hidden)、[Flashlight](/wiki/Game_modifier/Flashlight)，或 [Fade In](/wiki/Game_modifier/Fade_In) Mod 時取得。
+評價分為 D、C、B、A、S，和 SS，由低至高排序。銀 S 和 SS 評價僅能在使用 [Hidden](/wiki/Gameplay/Game_modifier/Hidden)、[Flashlight](/wiki/Gameplay/Game_modifier/Flashlight)，或 [Fade In](/wiki/Gameplay/Game_modifier/Fade_In) Mod 時取得。
 
 ## osu!
 

@@ -10,7 +10,7 @@ Chaque [beatmap](/wiki/Beatmap) dans le statut [en attente](/wiki/Beatmap/Catego
 
 ## Exigences de classement
 
-Les beatmaps doivent avoir au moins 5 hype (une mesure complète du train de la hype) pour être éligibles à la nomination, un pas de plus vers le classement de la beatmap.
+Les beatmaps doivent avoir au moins 5 hype (une mesure complète du train de la hype) pour être éligibles à la [nomination](/wiki/Beatmap_ranking_procedure#nominations), un pas de plus vers le classement de la beatmap.
 
 ## Limite
 

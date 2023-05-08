@@ -38,7 +38,7 @@ Les commandes de tchat suivantes sont fournies pour la gestion à distance des s
 - `!mp addref <username> [<username>] …` - Ajoute un arbitre à la salle. Un maximum de 8 arbitres peut être ajouté. Seul le créateur de la salle peut ajouter un arbitre.
   - Les arbitres doivent rejoindre la salle en jeu, ou en entrant dans le canal de discussion de la salle via `/join #mp_<room_id>` en IRC.
   - Les arbitres peuvent gérer la salle comme le créateur, mais ils ne peuvent pas ajouter ou supprimer eux-mêmes d'autres arbitres.
-  - Le [client osu!tourney](/wiki/osu!tourney) affichera le tchat de la salle pour les arbitres.
+  - Le [client osu!tourney](/wiki/osu!_tournament_client/osu!tourney) affichera le tchat de la salle pour les arbitres.
 - `!mp removeref <username> [<username>] …` - Supprime un arbitre de la salle. Seul le créateur de la salle peut retirer un arbitre.
 - `!mp listrefs` - Répertorie tous les arbitres présents dans la salle.
 - `!mp close` - Ferme la salle.

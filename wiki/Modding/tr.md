@@ -29,7 +29,7 @@ Bir sorun ile karşı karşıya geldiğinizde, ilgili vuruş objelerini seçin, 
 
 Tüm mod gönderileri sorunun ne olduğunu, bunun neden bir sorun yarattığını, ve nasıl çözülmesi gerektiğini ele almalıdır. Mod gönderilerinin nasıl düzenlendiği hakkında daha fazla detay için [Modlama ve Mapleme Etik Çalışma Kurallarına](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping#making-a-mod-post) bakınız.
 
-Beatmapperlar yardımcı olduğunu düşündükleri mod gönderilerine *yukarı baş parmak* oy butonuna tıklayarak sık sık [kudosu](/wiki/Modding/Kudosu) sağlarlar. Bu istatistik her bir bireyin profilinde tutulur ve [Beatmap Aday Göstericilere](/wiki/People/The_Team/Beatmap_Nominators) katılmak için başvururken referans alınır.
+Beatmapperlar yardımcı olduğunu düşündükleri mod gönderilerine *yukarı baş parmak* oy butonuna tıklayarak sık sık [kudosu](/wiki/Modding/Kudosu) sağlarlar. Bu istatistik her bir bireyin profilinde tutulur ve [Beatmap Aday Göstericilere](/wiki/People/Beatmap_Nominators) katılmak için başvururken referans alınır.
 
 ## Mod gönderilerinin türleri
 

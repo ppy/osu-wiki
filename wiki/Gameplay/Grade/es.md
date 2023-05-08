@@ -1,55 +1,64 @@
 ---
-no_native_review: true
-outdated_translation: true
-outdated_since: 299cc666553fbfc6d71cf11ac90a5d88f975d8e6
+tags:
+  - letter grade
+  - rank
+  - silver s
+  - silver ss
+  - sh
+  - xh
+  - rango
+  - s plateada
+  - ss plateada
 ---
 
-# Rangos
+# Grado
+
+*Para otros usos, véase [Rango (desambiguación)](/wiki/Disambiguation/Rank).*
+
+Las **grados** son un conjunto de letras que representan el rendimiento de un jugador en un [beatmap](/wiki/Beatmap) dado. Acompañan a la [puntuación](/wiki/Gameplay/Score) total en la pantalla de resultados y aparecen en todas las listas junto a las puntuaciones.
+
+De menor a mayor, los grados posibles son D, C, B, A, S y SS. Los grados Silver S y SS solo se pueden lograr cuando se usan los modificadores de juego [Hidden](/wiki/Gameplay/Game_modifier/Hidden), [Flashlight](/wiki/Gameplay/Game_modifier/Flashlight) o [Fade In](/wiki/Gameplay/Game_modifier/Fade_In).
 
 ## osu!
 
-| Rango | Condición |
+| Grado | Condición |
 | :-: | :-- |
-| SS | 100% de precisión |
-| S | Más del 90% de 300, menos del 1% de 50 y sin fallas |
-| A | Más del 80% de 300 y sin errores **O** más de 90% de 300 |
-| B | Más del 70% de 300 y sin errores **O** más de 80% de 300 |
-| C | Más del 60% de 300 |
-| D | Todo lo demas |
-
-Se puede obtener una S o SS plateada usando el modificador *[Hidden](/wiki/Game_modifier/Hidden)* y/o *[Flashlight](/wiki/Game_modifier/Flashlight)*.
+| SS | 100 % de precisión |
+| S | Más del 90 % de 300s, como máximo un 1 % de 50 y sin fallos |
+| A | Más del 80 % de 300s y sin fallos **O** más del 90 % de 300s |
+| B | Más del 70 % de 300s y sin fallos **O** más del 80 % de 300s |
+| C | Más del 70 % de 300s |
+| D | Cualquier otra cosa |
 
 ## osu!taiko
 
-| Grade | Condition |
+| Grado | Condición |
 | :-: | :-- |
-| SS | 100% Accuracy. |
-| S | Over 95% Accuracy (90+% GREATs, or less than 1 GOOD for every 10 notes). |
-| A | Over 90% Accuracy (80+% GREATs, or less than 1 GOOD for every 5 notes). |
-| B | Over 80% Accuracy (70+% GREATs, or less than 1 GOOD for every 3.33 notes). |
+| SS | 100 % de precisión |
+| S | Más del 90 % de GREATs y ningún fallo |
+| A | Más del 80 % de GREATs y sin fallos **O** más del 90 % de GREATs |
+| B | Más del 70 % de GREATs y sin fallos **O** más del 80 % de GREATs |
+| C | Más del 70 % de GREATs |
+| D | Cualquier otra puntuación completada con éxito |
 
 ## osu!catch
 
-| Grade | Condition |
+| Grado | Condición |
 | :-: | :-- |
-| SS | 100.00% Accuracy |
-| S | 98.01% to 99.99% Accuracy (an 'S' rank is possible even with several misses, like in *osu!mania*). |
-| A | 94.01% to 98.00% Accuracy |
-| B | 90.01% to 94.00% Accuracy |
-| C | 85.01% to 90.00% Accuracy |
-| D | Any other accuracy under 85.00%. |
-
-A silver S or SS can be obtained by using the *[Hidden](/wiki/Game_modifier/Hidden)* and/or *[Flashlight](/wiki/Game_modifier/Flashlight)* mod.
+| SS | 100 % de precisión |
+| S | Precisión del 98.01%  al 99.99 % (es posible obtener un rango S incluso con varios fallos, como en osu!mania) |
+| A | Precisión del 94.01 % al 98.00 % |
+| B | Precisión del 90.01 % al 94.00 % |
+| C | Precisión del 85.01 % al 90.00 % |
+| D | Cualquier otra precisión por debajo del 85,00% |
 
 ## osu!mania
 
 | Grado | Condición |
 | :-: | :-- |
-| SS | 100% de presición (solo MAX y/o 300). |
-| S | Sobre 95% de presición (un rango 'S' es posible aun con varios errores, como en *osu!catch*). |
-| A | Sobre 90% de presición. |
-| B | Sobre 85% de presición. |
-| C | Sobre 70% de presición. |
-| D | Cualquier otra cosa. |
-
-Es posible obtener un rango SSH o SH (S o SS plateada) con el mod [Hidden](/wiki/Game_modifier/Hidden)/[Fade In](/wiki/Game_modifier/Fade_In) o [Flashlight](/wiki/Game_modifier/Flashlight).
+| SS | 100 % de precisión |
+| S | Más del 95 % de precisión (es posible obtener un rango S incluso con varios fallos, como en osu!catch) |
+| A | Más del 90 % de precisión |
+| B | Más del 85 % de precisión |
+| C | Más del 70 % de precisión |
+| D | Cualquier otra cosa |

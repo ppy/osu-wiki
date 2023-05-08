@@ -14,7 +14,7 @@ osu! มีบัญชีทวิตเตอร์หลายบัญชี
 | รูปโปรไฟล์ | ชื่อ | คำบรรยาย |
 | :-: | :-: | :-- |
 | ![รูปโปรไฟล์ osu!status](img/osustatus.jpg) | [@osustatus](https://twitter.com/osustatus) | แจ้งเตือนเรื่องปัญหาเกี่ยวกับเว็ปไซต์และ [Bancho](/wiki/Bancho_(server)) |
-| ![รูปโปรไฟล์ osu! support](img/osusupport.jpg) | [@osusupport](https://twitter.com/osusupport) | ช่วยเหลือเรื่องปัญหาเกี่ยวกับบัญชีหรือชุมชน ดูแลโดย [ทีมช่วยเหลือเรื่องบัญชี](/wiki/People/The_Team/Account_support_team) |
+| ![รูปโปรไฟล์ osu! support](img/osusupport.jpg) | [@osusupport](https://twitter.com/osusupport) | ช่วยเหลือเรื่องปัญหาเกี่ยวกับบัญชีหรือชุมชน ดูแลโดย [ทีมช่วยเหลือเรื่องบัญชี](/wiki/People/Account_support_team) |
 
 ## ชุมชน
 
@@ -22,7 +22,7 @@ osu! มีบัญชีทวิตเตอร์หลายบัญชี
 | :-: | :-: | :-- |
 | ![รูปโปรไฟล์ osu!](img/osugame.jpg) | [@osugame](https://twitter.com/osugame) | แหล่งข่าวและประกาศอย่างเป็นทางการของ osu! |
 | ![รูปโปรไฟล์ BanchoBoat](img/banchoboat.jpg) | [@banchoboat](https://twitter.com/banchoboat) | มุกตลกคลายเครียดเมื่อมีอะไรผิดพลาดไป |
-| ![รูปโปรไฟล์ NAT](img/osu_nat.png) | [@osu_nat](https://twitter.com/osu_nat) | ข่าวสาร, ประกาศ และแบบสำรวจชุมชนสั้นๆโดย [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) (ไม่ได้ดูแลโดย [ทีมงาน osu!](/wiki/People/The_Team)) |
+| ![รูปโปรไฟล์ NAT](img/osu_nat.png) | [@osu_nat](https://twitter.com/osu_nat) | ข่าวสาร, ประกาศ และแบบสำรวจชุมชนสั้นๆโดย [NAT](/wiki/People/Nomination_Assessment_Team) (ไม่ได้ดูแลโดย [ทีมงาน osu!](/wiki/People/osu!_team)) |
 
 ## ส่วนตัว
 

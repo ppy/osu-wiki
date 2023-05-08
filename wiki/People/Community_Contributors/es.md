@@ -1,14 +1,10 @@
----
-no_native_review: true
----
+# Contribuidores de la comunidad
 
-# Colaboradores de la comunidad
+![Medalla de contribuidor](/wiki/shared/contributor.jpg "Medalla de contribuidor")
 
-![Medalla de colaborador](/wiki/shared/contributor.jpg "Medalla de colaborador")
+Los **contribuidores de la comunidad** son aquellas personas que, a un gran coste para sí mismas, se han encargado de proporcionar servicios a la comunidad de osu!, creando herramientas y funcionalidades que muchos de nosotros damos por sentado hoy. Estos usuarios reciben una insignia para indicar que hicieron algo notable para toda la comunidad.
 
-Los **Colaboradores de la comunidad** son las personas que se han encargado de proporcionar servicios a la comunidad de osu! aun por gran costo para ellos mismos, herramientas y funciones que muchos de nosotros damos por sentado hoy. Estos usuarios reciben una insignia para indicar que hicieron algo notable para toda la comunidad.
-
-No debe confundirse con [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), que son miembros anteriores del equipo de osu! que se retiraron, las insignias de Colaboradores de la comunidad se otorgan al público que ha ido más allá de su deber para mejorar osu! y el entorno de la comunidad.
+No debe confundirse con [osu! Alumni](/wiki/People/osu!_Alumni), que son antiguos miembros de varios equipos de osu! que se retiraron, las insignias de contribuidor de la comunidad se conceden a los contribuidores públicos que han ido más allá de la llamada del deber para mejorar osu! y el entorno de la comunidad.
 
 ## 2013
 
@@ -21,7 +17,7 @@ No debe confundirse con [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), que so
 | ::{ flag=GB }:: [Darkimmortal](https://osu.ppy.sh/users/10886) | Desarrollo y manteneniendo el [servicio de osu!record](https://osu.ppy.sh/community/forums/topics/108092) (reproducir `.osr` a archivo de video). |
 | ::{ flag=DE }:: [nanashiRei](https://osu.ppy.sh/users/807630) | Hospedaje y mantenimiento de uno de los [espejos de beatmaps](https://osu.yas-online.net/) de más larga duración de osu!. |
 | ::{ flag=US }:: [RBRat3](https://osu.ppy.sh/users/307202) | Numerosas contribuciones gráficas (más allá del recuento) para el cliente del juego y todo lo demás. |
-| ::{ flag=CN }:: [Ballance](https://osu.ppy.sh/users/165946) | Arte de las [Medallas](/wiki/Medals), |
+| ::{ flag=CN }:: [Ballance](https://osu.ppy.sh/users/165946) | Arte de las [Medallas](/wiki/Medals). |
 | ::{ flag=US }:: [akrolsmir](https://osu.ppy.sh/users/576800) | Desarrollo y mantenimiento de [AIBat](https://osu.ppy.sh/community/forums/topics/55305), la herramienta de modding de beatmap de terceros más popular que haya producido la mayoría de las personas en la comunidad. |
 | ::{ flag=NL }:: [statementreply](https://osu.ppy.sh/users/126198) | Rendimiento excepcional en la corrección de errores/prueba de funciones y haciendo código de numerosas funciones para mappers y modders. |
 | ::{ flag=DE }:: [Loctav](https://osu.ppy.sh/users/71366) | Organización varios torneos oficiales importantes (incluido el OWC). |
@@ -31,7 +27,7 @@ No debe confundirse con [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), que so
 | ::{ flag=US }:: [DeathxShinigami](https://osu.ppy.sh/users/49516) | Más de 3 años de trabajo silencioso manejando incansablemente el [beatmap packing](https://osu.ppy.sh/p/packlist) y varios años de administración de gráficos de beatmaps. |
 | ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users/1079) | Años tras años de servicio, incluido el diseño del skin del beatmap original, [storyboarding](/wiki/Storyboard) avanzando como arte y motivación. |
 | ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) | Temprana gestión y moderación de la comunidad y enormes contribuciones en el transcurso de su tiempo. |
-| ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | Ser el primer administrador de la comunidad y moderador global, que estableció el listón extremadamente alto a seguir para el [GMT](/wiki/People/The_Team/Global_Moderation_Team). |
+| ::{ flag=GR }:: [Sinistro](https://osu.ppy.sh/users/5530) | Ser el primer administrador de la comunidad y moderador global, que estableció el listón extremadamente alto a seguir para el [GMT](/wiki/People/Global_Moderation_Team). |
 | ::{ flag=US }:: [Ivalset](https://osu.ppy.sh/users/827) | Ser el primer gerente de personal y BATmanager, y formar por sí solo un equipo de moderación de élite de beatmaps de la nada. |
 
 ## 2015
@@ -53,10 +49,10 @@ No debe confundirse con [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), que so
 | Usuario | Contribuciones |
 | :-- | :-- |
 | ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) | Fundación de la [osu!academy](/wiki/Community/Video_series/osu!academy) |
-| ::{ flag=CA }:: [karterfreak](https://osu.ppy.sh/users/1031958) | osu!weekly + Colaborador de noticias |
-| ::{ flag=BG }:: [Flanster](https://osu.ppy.sh/users/447818) | Presencia excepcional de moderación (+10k asesinatos). |
-| ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Presencia excepcional de moderación  (+10k asesinatos). |
-| ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) | Presencia excepcional y compromiso de moderación (+30k asesinatos). |
+| ::{ flag=CA }:: [karterfreak](https://osu.ppy.sh/users/1031958) | osu!weekly + Contribuidor de noticias |
+| ::{ flag=BG }:: [Flanster](https://osu.ppy.sh/users/447818) | Presencia excepcional de moderación (+10k asesinatos) |
+| ::{ flag=PH }:: [Nathanael](https://osu.ppy.sh/users/2295078) | Presencia excepcional de moderación (+10k asesinatos) |
+| ::{ flag=SE }:: [Saten](https://osu.ppy.sh/users/444506) | Presencia excepcional y compromiso de moderación (+30k asesinatos) |
 | ::{ flag=DE }:: [MoonShade](https://osu.ppy.sh/users/273649) | Desarrollo de revolucionarias utilidades de storyboarding (SGL) |
 | ::{ flag=PL }:: [iys](https://osu.ppy.sh/users/322480) | Mikuia.tv - Desarrollo del kit de herramientas de bots de osu! en Twitch |
 | ::{ flag=DE }:: [Tillerino](https://osu.ppy.sh/users/2070907) | Desarrollo del bot de recomendación de beatmaps |
@@ -156,10 +152,10 @@ No debe confundirse con [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), que so
 | :-- | :-- |
 | ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) | Excelente contribución a los asuntos de la comunidad, eventos y torneos |
 | ::{ flag=SG }:: [hehe](https://osu.ppy.sh/users/2123087) | Excelente contribución a la escena de mapping, eventos y torneos |
-| ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) | Excelente contribución a las escenas de mapping, modding y metadatos. |
+| ::{ flag=US }:: [Noffy](https://osu.ppy.sh/users/1541323) | Excelente contribución a las escenas de mapping, modding y metadatos |
 | ::{ flag=SG }:: [Shoegazer](https://osu.ppy.sh/users/2520707) | Excelente contribución al modo de juego osu!mania |
 | ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) | Excelente contribución al modo de juego osu!catch y a la gestión |
-| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | Excelente contribución a los asuntos de gestión y liderazgo. |
+| ::{ flag=GB }:: [-Mo-](https://osu.ppy.sh/users/2202163) | Excelente contribución a los asuntos de gestión y liderazgo |
 | ::{ flag=US }:: [Chaos](https://osu.ppy.sh/users/2628870) | Excelente contribución al Equipo de Moderación Global |
 | ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | Excelente contribución al proyecto Mentorship |
 | ::{ flag=CL }:: [Uberzolik](https://osu.ppy.sh/users/1314547) | Excelente contribución al proyecto Mentorship |
