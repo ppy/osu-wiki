@@ -10,7 +10,7 @@
 
 ## 도구
 
-[Mapset Verifier (MV)](https://github.com/Naxesss/MapsetVerifier)를 사용하여 이 기준들을 확인하는 것을 권장합니다. 오래된 클라이언트 (Stable)의 [AiMod](/wiki/Client/Beatmap_editor/AiMod)는 더 이상 관리되지 않고 있고, 새로운 클라이언트에서의 비트맵 검사 기능은 [개발 중](https://github.com/ppy/osu/issues/12091#issuecomment-878760791)에 있습니다.
+[Mapset Verifier (MV)](https://github.com/Naxesss/MapsetVerifier)를 사용하여 이 기준들을 확인하는 것을 적극 권장합니다. 오래된 클라이언트 (Stable)의 [AiMod](/wiki/Client/Beatmap_editor/AiMod)는 더 이상 관리되지 않고 있고, [osu!(lazer)](/wiki/Client/Release_stream/Lazer)에서의 비트맵 검사 기능은 [개발 중](https://github.com/ppy/osu/issues/12091#issuecomment-878760791)에 있습니다.
 
 사용하기 전 알아두어야 할 중요한 사항:
 
