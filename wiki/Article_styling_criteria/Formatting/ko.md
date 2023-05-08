@@ -1,8 +1,3 @@
----
-outdated_translation: true
-outdated_since: 88d0725244a8214079c1dddabcb434d39ee850fd
----
-
 # 서식
 
 *작성 표준에 대한 내용은 [Article style criteria/Writing](../Writing)를 참조하세요.*\
@@ -77,7 +72,7 @@ outdated: true
 
 ### 오래된 번역
 
-영어 문서에 변경점이 있을 경우 번역된 문서들에는 `outdated_translation` 태그를 사용해야 합니다. 문서에 사소한 단어나 문법 변경과 같이 문서에 영향을 주지 않는 경우에는 제외합니다.
+영어 문서에 변경점이 있을 경우 번역된 문서들에는 `outdated_translation` 태그를 사용해야 합니다. 문서에 사소한 단어 변경이나 문법 조정과 같이 문서에 영향을 주지 않는 경우에는 제외합니다.
 
 ```yaml
 outdated_translation: true
@@ -361,21 +356,17 @@ xi의 *Blue Zenith*는 특정 난이도에서 탑 플레이어가 받은 유명�
 
 직접 링크하는 데 사용하는 섹션의 식별자를 재정의 할 수 있습니다. 자동으로 생성된 식별자가 너무 길거나 까다로운 구두점이나 이미지를 포함하는 경우 커스텀 식별자를 사용해야 합니다.
 
-<!-- TODO: remove the {id=...} example when https://github.com/ppy/osu-web/issues/8057 is closed -->
-
 ```markdown
-## My cooldown has passed. How do I appeal? {#appeal}
+## My cooldown has passed. How do I appeal? {id=appeal}
 
-## Common restriction reasons and cooldowns {#common-reasons}
-
-## Ideas for a multiplayer match {id=идеи-для-мультиплеера} <!-- alternative syntax for Unicode identifiers -->
+## Various examples of osu! gameplay {id=osu!-gameplay}
 ```
 
 이 기능은 제목이 없는 문서의 특정 부분을 태그하는 데에도 사용할 수 있습니다. 드물게 사용해 주세요:
 
 ```markdown
 > That's it! You're well on your way to becoming an osu! rhythm champion!
-{#tutorial-quote}
+{id=tutorial-quote}
 ```
 
 ## 목록
@@ -808,7 +799,7 @@ jpeg-recompress -am smallfry <input> <output>
 
 Infobox는 문서의 오른쪽에 정렬되는 고정폭 블록입니다. 주변 텍스트와 관련된 이미지, 혹은 동일한 카테고리의 다른 문서로 연결되는 탐색 블록을 포함할 수 있습니다.
 
-사용 예, 오른쪽에 렌더링 됨:
+사용 예, 오른쪽에 렌더링 됨 (좁은 디스플레이에서는 위쪽):
 
 <!-- The real infobox is added for illustrative purposes, with Markdown syntax duplicated below for clarity. -->
 
@@ -826,6 +817,8 @@ Infobox는 문서의 오른쪽에 정렬되는 고정폭 블록입니다. 주변
 
 - 짧은 섹션의 경우: 다음 섹션의 헤더가 Infobox 아래에 표시되며, 텍스트 뒤쪽으로 큰 간격이 남게 됩니다.
 - 한번에 여러 이미지가 있는 경우: 더 나은 디자인을 위해 각각의 이미지에 Infobox를 사용하세요.
+
+Infobox 안에서는 4, 5단계의 헤더만 허용됩니다. 이 항목은 목차에는 나타나지 않으며, 이보다 낮은 단계의 헤더는 너무 큽니다. 이로 인해 모든 [CI 검사 에러](/wiki/osu!_wiki/Maintenance#ci-checks)를 무시해야 할 수 있습니다. 
 
 ## 각주
 
