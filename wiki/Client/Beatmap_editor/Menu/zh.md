@@ -92,8 +92,8 @@
 | 上下翻转 (`Ctrl` + `J`) | （关于过游玩区域原点的 X 轴）上下翻转物件，反之亦然。 |
 | 顺时针旋转 90° (`Ctrl` + `>`) | 将物件向右旋转 90°。 |
 | 逆时针旋转 90° (`Ctrl` + `<`) | 将物件向左旋转 90°。 |
-| 旋转... (`Ctrl` + `Shift` + `R`) | Set your rotation angle (+/- 180°) for the poor note(s). You can adjust the rotation Direction \[(Anti-)Clockwise\] and Origin \[(Playfield/Selection) Centre\]. |
-| 缩放... (`Ctrl` + `Shift` + `S`) | Set your enlargement size (0.500x - 1.200x) for the poor note(s). You can adjust the Origin \[(Playfield/Selection) Centre\] and "Apply to" (the enlargement scale to) either or both x-axis and/or y-axis. |
+| 旋转... (`Ctrl` + `Shift` + `R`) | 设置没放好的物件的旋转角度 (+/- 180°)。可以调整旋转方向 \[顺/逆时针\] 和原点 \[（游玩区域/选区）中心\]。 |
+| 缩放... (`Ctrl` + `Shift` + `S`) | 设置没放好的物件的放大倍数 (0.500x - 1.200x)。可以调整原点 \[（游玩区域/选区）中心\]，也可以选择（将放大倍数）“应用到” X 轴 和/或 Y 轴。 |
 
 ### 重置命令
 
@@ -108,8 +108,8 @@
 
 | 名称 | 描述 |
 | :-- | :-- |
-| 前移 (`J`) | Move the note(s) one beat backward based on Beat Snap Divisor. |
-| 后移 (`K`) | Move the note(s) one beat forward based on Beat Snap Divisor. |
+| 前移 (`J`) | 基于节拍细分设置，将物件向后移一拍。 |
+| 后移 (`K`) | 基于节拍细分设置，将物件向前移一拍。 |
 
 ## 查看
 
@@ -137,14 +137,13 @@
 | 名称 | 描述 |
 | :-- | :-- |
 | 音量 | 调整音乐与音效的音量。 |
-| 网格大小 | Size of grid square. 1(most sparse)/2/3/4 (most precise) which is Large/Medium/Small/Tiny each named respectively. |
+| 网格大小 | 设置网格大小。1（最疏）/2/3/4（最密）分别对应大/中/小/极小网格。 |
 | 显示视频 | 显示视频。由于视频会使人分散注意力，通常禁用此选项。 |
 | 显示音效名 | 显示物件附加的音效。在 osu!mania 中非常有用。 |
-| 渐出滑条 | Animate the sliders as if playing in-game. |
-| 击打动画 | Animate the hit circles as if being clicked (when the timestamp passes the hit circle) in-game. |
-| Follow points （物件间轨迹） | Display (and animate) the follow points as if in-game. |
-| 堆叠效果 | Stack the overlaid hit circles as if in-game (dependent on difficulty settings) |
-| 禁用撤消状态 | Give up the ability to *undo* for osu! to be faster during editing (this comes in handy for long marathon maps) |
+| 渐出滑条 | 像在游玩时一样给滑条添加动画。 |
+| 击打动画 | 像在游玩时一样添加击打圆圈时的动画（当到达圆圈时间戳时）。 |
+| Follow points （物件间轨迹） | 像在游玩时一样显示轨迹点（并显示动画）。 |
+| 堆叠效果 | 像在游玩时一样堆叠重合的圆圈（取决于难度设置）。 |
 
 ## 作图
 
@@ -156,18 +155,18 @@
 
 | 名称 | 描述 |
 | :-- | :-- |
-| 节拍细分 | [Beat Snap Divisor](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) |
-| 播放速度 | Same as Playback Rate. |
-| 对齐到网格 (T) | Allow snapping of the notes with respect to current grid line. |
+| 节拍细分 | [节拍细分](/wiki/Client/Beatmap_editor/Beat_Snap_Divisor) |
+| 播放速度 | 与回放速度 (Playback Rate) 相同。 |
+| 对齐到网格 (T) | 允许物件与当前网格线对齐。 |
 
 ### 特殊命令
 
 | 名称 | 描述 |
 | :-- | :-- |
-| 添加多边形圆圈 (`Ctrl` + `Shift` + `D`) | Create a circular flow of hit circles. You can adjust the Distance Snap (0.1x - 2.0x) {Spacing between notes}, Offset angle (0° - 180°) {Rotation angle}, Repeat and Points (3 - 14/282) {Number of hit circle}. |
-| 把滑条转成连打... | （先选择滑条）将滑条变成连打串。有两个选项可供选择：By object count or By distance snap. **By object count:** Adjust the slider flow with the given amount of hit circles (1 - 17/100). **By distance snap:** Adjust the slider flow with a set distance between two notes (0.10x - 5.00x). Can result in absurd amount of hit circles, since it relies on Beat Snap Divisor (one beat = one note). **Beat Snap Divisor:** Note timing adjuster. |
-| 启动实时做图模式 (`Ctrl` + Tab) | osu!/osu!catch/osu!taiko maps: use osu!taiko keys to input hit circles, fruits, or taiko hit objects, while playing the song in editor. Placed via cursor location. Different hitsounds based on what osu!taiko key you pressed. osu!mania maps: use osu!mania keys to input hit objects, while playing song in editor. Placed via the key you pressed. Does not work for sliders/holds. |
-| Sample import | [Keysound and Sound Sampling.](/wiki/Client/Beatmap_editor/Compose) |
+| 添加多边形圆圈 (`Ctrl` + `Shift` + `D`) | 创建圆圈的环形 flow。可以调整间距 (0.1x - 2.0x){物件之间的间距}、偏移角度 (0° - 180°){旋转角度}、重复数和物件数 (3 - 14/282){圆圈的数目}。 |
+| 把滑条转成连打... | （先选择滑条）将滑条变成连打串。有两个选项可供选择：按物件数、按物件间距。**按物件数：**用给定的圆圈数 (1 - 17/100) 调整滑条 flow。**按物件间距：**用给定的物件间间距 (0.10x - 5.00x) 调整滑条 flow。由于这依赖于节拍细分设置（一拍 = 一个物件），可能会放置大量圆圈。**节拍细分：**物件的时轴调节器。 |
+| 启动实时做图模式 (`Ctrl` + Tab) | 对 osu!/osu!catch/osu!taiko 谱面：在编辑器中播放歌曲时，用 osu!taiko 按键在光标位置放置圆圈、大果或太鼓打击物件。物件的音效取决于按下的按键。对 osu!mania 谱面：在编辑器中播放歌曲时，用 osu!mania 按键在对应位置放置打击物件，但无法放置滑条（长按音符）。 |
+| 导入音效 | [导入自定义音效。](/wiki/Client/Beatmap_editor/Compose) |
 
 ## 设计
 
@@ -189,18 +188,18 @@
 
 | 名称 | 描述 |
 | :-- | :-- |
-| 节拍类型 | Waltz (3/4) or Standard (4/4) timing. For exotic timing, use Timing Setup. |
-| 节拍器 | Allow/Deny the signature metronome's "tic, tic , (tic) , toc" sound. |
+| 节拍类型 | 华尔兹 (3/4) 或标准 (4/4) 的节拍类型。对于另类的节拍类型，请使用 Timing 设置页面。 |
+| 节拍器 | 启用/禁用节拍器“嘀，嘀，（嘀），嗒”的声音。 |
 
 ### 标记命令
 
 | 名称 | 描述 |
 | :-- | :-- |
-| 添加 Timing 区间（即红线） (`Ctrl` + `P`) | Add red offset (New BPM) |
-| 添加继承区间（即绿线） (`Ctrl` + `Shift` + `P`) | Add green offset (New adjuster) |
+| 添加 Timing 区间（即红线） (`Ctrl` + `P`) | 添加红线（新的 BPM） |
+| 添加继承区间（即绿线） (`Ctrl` + `Shift` + `P`) | 添加绿线（新的调节设置） |
 | 重置当前区间 | ? |
-| 删除 Timing 区间 (`Ctrl` + `I`) | Delete the red/green offset (delete one before the double line) |
-| 重新对齐当前 Timing 区间 | Resnap the current section with new current timing. |
+| 删除 Timing 区间 (`Ctrl` + `I`) | 删除红线或绿线（两条线中的前一条） |
+| 重新对齐当前 Timing 区间 | 依照当前新的测定时间轴设置重新对齐当前区间。 |
 
 ### 测定时间轴设置
 
@@ -212,16 +211,16 @@
 
 | 名称 | 描述 |
 | :-- | :-- |
-| 全部重新对齐 | Resnap all the notes to their respective sections |
+| 全部重新对齐 | 将所有物件与对应的区间对齐。 |
 | 整体平移所有物件的时间... | 以毫秒为单位移动所有物件。 |
-| 重新计算滑条长度 | Let osu! recalculate the length of sliders. (Best to use if bpm/slider velocity/slider velocity multiplier had changed.) **Caution:** Doing so can shorten none to all slider lengths! Check your map after use! |
+| 重新计算滑条长度 | 让 osu! 重新计算滑条长度。（改变 BPM、滑条速度、滑条速度因子后使用，效果最佳）**注意：**这么做会缩短所有滑条的长度，无一例外！请在使用后检查你的谱面！ |
 | 删除所有 Timing 区间 | 清除所有测定时间轴 (Timing) 设置。 |
 
 ### 预览命令
 
 | 名称 | 描述 |
 | :-- | :-- |
-| 把当前位置设为预览点 | Set this timestamp as yellow mark (demo excerpt for Song Selection). |
+| 把当前位置设为预览点 | 将当前时间戳设为黄线（歌曲选择页面的节选展示）。 |
 
 ## 网络相关
 
