@@ -14,7 +14,7 @@ A lot has happened in the 15 years since osu!'s inception — and every time the
 
 This year's theme — "**Icons of an Era**", aims to spark the community's imagination by creating art around various iconic osu! beatmaps that were crafted and risen to glory throughout osu!'s lifetime, as well as the many either retired, official or community-made osu! mascots that have been introduced over the course of the past 15 years.
 
-Whether your entry is focused around Taikonator or The Big Black, you will need to make sure that their presence is prominent, as anyone should be able to open your entry and almost immediately recognize what the inspiration behind your entry was.
+Whether your entry is focused around pippi singing into the microphone from "[The Big Black](https://osu.ppy.sh/beatmapsets/41823#osu/131891)", a group of beatmap backgrounds from a specific era in osu! history, or just a skin focused around objectively the best mascot that has ever grazed osu! (Taikonator 4000), you will need to make sure that the theme is prominent as anyone should be able to open your entry and almost immediately recognize what the inspiration behind your entry was.
 
 Before you decide to take a journey through osu!'s history and come up with ideas, let's clear some ground rules, as well as the various schedules and prizes for the top entries!
 
@@ -22,7 +22,7 @@ Before you decide to take a journey through osu!'s history and come up with idea
 
 As is tradition by this point, all skins have to be created from scratch and be aligned with the rules listed below!
 
-Valid skin submissions must include a link to their forum thread in their [submission post](TBD). Said forum thread must be located in the [Work In Progress Skins](https://osu.ppy.sh/community/forums/119) subforum.
+Valid skin submissions must include a link to their forum thread in their [submission post](https://osu.ppy.sh/community/forums/topics/1762287). Said forum thread must be located in the [Work In Progress Skins](https://osu.ppy.sh/community/forums/119) subforum.
 
 Since all entries will have their respective forum threads publicly available, contestants and their submissions will not be anonymised. In fact, we encourage you to show off your work as much as you want!
 
@@ -83,6 +83,6 @@ Now that all the rules are out of the way, let's unveil the prizes that will be 
 
 Special thanks to [Kleinne Lui](https://osu.ppy.sh/users/27725651) for allowing us to use their artwork for the contest banners!
 
-If you have any questions, or don't know where to start, feel free to drop a post under the [discussion thread](https://osu.ppy.sh/community/forums/topics/1612258), check out the [skinning tutorial](https://skinship.xyz/tutorial/introduction) or ask away on our [Discord server](https://discord.skinship.xyz)!
+If you have any questions, or don't know where to start, feel free to drop a post under the [discussion thread](https://osu.ppy.sh/community/forums/topics/1762288), check out the [skinning tutorial](https://skinship.xyz/tutorial/introduction) or ask away on our [Discord server](https://discord.skinship.xyz)!
 
 — RockRoller
