@@ -8,7 +8,9 @@ Celebrate 15 years of osu! by expressing your creativity through osu! skinning!
 
 ![](https://assets.ppy.sh/contests/178/header.jpg)
 
-A lot has happened in the 15 years since osu!'s inception — and every time the community thought that we have reached the top, whether that'd be in mapping, skinning or gameplay, the boundaries of what is deemed possible kept getting pushed back further and further. So without further ado, let's go over the theme.
+Over the course of osu!'s history there have been many memories made, whether that'd be related to maps that would become legendary within the community, plays that to this day remain unbeaten and are considered the best of all time, or the various community-made creations that have been popularised throughout the years.
+
+We wanted this contest's theme to not only centre around some of those memories, but also provide plenty of material that could inspire the skinning community to take part and provide us with some amazing skins!
 
 ## Theme: Icons of an Era
 
