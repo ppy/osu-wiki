@@ -6,13 +6,15 @@ date: 2023-05-08 10:00:00 +0000
 
 Celebrate 15 years of osu! by expressing your creativity through osu! skinning!
 
-![](/wiki/shared/news/2023-05-08-skinning-contest-icons-of-an-era/banner.jpg)
+![](https://assets.ppy.sh/contests/178/header.jpg)
 
 A lot has happened in the 15 years since osu!'s inception — and every time the community thought that we have reached the top. Whether that'd be in mapping, skinning or gameplay, the boundaries of what is deemed possible kept getting pushed back further and further. So without further ado, let's go over the theme.
 
-## The theme
+## Theme: Icons of an Era
 
-This year's theme — "**Icons of an Era**", aims to spark the community's imagination by creating art around various iconic osu! beatmaps that were crafted and risen to glory throughout osu!'s lifetime, as well as the many official osu! mascots that have been introduced over the course of the past 15 years. Whether your entry is focused around Taikonator or The Big Black, you will need to make sure that their presence is prominent, as anyone should be able to open your entry and almost immediately recognize what the inspiration behind your entry was.
+This year's theme — "**Icons of an Era**", aims to spark the community's imagination by creating art around various iconic osu! beatmaps that were crafted and risen to glory throughout osu!'s lifetime, as well as the many either retired, official or community-made osu! mascots that have been introduced over the course of the past 15 years.
+
+Whether your entry is focused around Taikonator or The Big Black, you will need to make sure that their presence is prominent, as anyone should be able to open your entry and almost immediately recognize what the inspiration behind your entry was.
 
 Before you decide to take a journey through osu!'s history and come up with ideas, let's clear some ground rules, as well as the various schedules and prizes for the top entries!
 
@@ -78,6 +80,8 @@ Now that all the rules are out of the way, let's unveil the prizes that will be 
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | Profile badge themed around their submission, 2 months of osu!supporter |
 
 ---
+
+Special thanks to [Kleinne Lui](https://osu.ppy.sh/users/27725651) for allowing us to use their artwork for the contest banners!
 
 If you have any questions, or don't know where to start, feel free to drop a post under the [discussion thread](https://osu.ppy.sh/community/forums/topics/1612258), check out the [skinning tutorial](https://skinship.xyz/tutorial/introduction) or ask away on our [Discord server](https://discord.skinship.xyz)!
 
