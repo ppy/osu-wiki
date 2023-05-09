@@ -50,7 +50,7 @@
 
 ### 设置画布尺寸
 
-最后，你可以在转盘中间进行设计，也可以给转盘边缘上色。确保你通过Finally, you can add a design in the middle, or recolour the edges. Make sure you reset the canvas size to 666x666 by going to Image -> Canvas Size, and centre the image so you have a 1 pixel border around the image.
+最后，你可以在转盘中间进行设计，也可以给转盘边缘着色。确保你通过图像 -> 画布大小将画布大小重设为了 666x666，并且将图像置于画布中央，这样图像四周就有 1 像素的边界了。
 
 ![教程图 7](img/MPCS_07-zh.png "教程图 7")
 
@@ -58,44 +58,44 @@
 
 ![教程图 8](img/MPCS_08.png "教程图 8")
 
-In this guide there won't be information how to make the edges pretty, or give it depth, that's something entirely different. I chose a very simple image and process. If you want to do that, there are guides everywhere, or you probably already know how to do that. However it seems that symmetry has escaped most of the people who make skins.
+在本教程中不会提及让转盘边缘好看、设置深度这样的事情，这是完全不同的东西。我选了张很简单的图像与过程。如果你想那么做，这样的教程到处都是，亦或你可能已经知道怎么做了。然而，大多数制作皮肤的人似乎都忽略了对称性。
 
-## How to make spinner backgrounds which match the beatmap background
+## 如何制作契合谱面背景的转盘背景
 
-If you want your spinner to have the same background as the actual map, it can be difficult because of a bug in osu! introduced by a gameplay change which was never fixed. First, we need to match up the background *in the game* and not *in the beatmap editor*. The beatmap puts storyboarded elements (background and video) 5 pixels higher on 1024x768 than the rest of the map.
+由于 osu! 通过游玩改变引入的一个从未被修复的 bug，让转盘的背景与实际谱面一致会是很困难的。首先，我们需要让转盘*在游玩过程中*而非在*谱面编辑器中*契合背景。在 1024x768 的区域中，与谱面其他元素相比，谱面将故事板元素（背景图像和视频）向上移动了 5 像素。
 
-### Don't worry if the spinner looks wrong in the editor
+### 如果转盘在编辑器里看起来不对，别担心
 
 ![教程图 9](img/MPCS_09.jpg "教程图 9")
 
-### Cropping the background
+### 剪裁背景
 
-First, take the background at 1024x768 and crop out the top 46 pixels and bottom 30 pixels, giving you a 1024x692 image. The template image is 1023x692, but this doesn't matter; the right side is just pure black due to the nature of how spinners work.
+首先，将背景图像大小设置为 1024x768，剪裁下顶部的 46 像素与底部的 30 像素，这样就剪出了大小为 1024x692 的图像。模板图像大小是 1023x692，但是没关系；出于转盘的工作原理，图像右边缘就是纯黑色的。
 
 ![教程图 10](img/MPCS_10-zh.png "教程图 10")
 
-### Use the channels tab to turn off editing the alpha channel
+### 用通道标签页避免编辑 alpha 通道
 
-Technically, you are done, but if you want to make the background "fill in" with a background spinner meter, then you can use the template skin, or make it yourself. Bring in the template spinner-meter. To recolour it, turn off the alpha channel by selecting it, so you don't modify the transparency at all. Then use the bucket fill and fill the entire area with a grey colour or whatever colour you want (I used black).
+从技术上来说已经完成了，但如果你想要让背景图片“填入”转盘指示器中，那就可以使用模板皮肤，也可以自己做一个。导入转盘指示器的模板文件，选中并关闭 alpha 通道来给它重新着色，这样就完全不会修改透明度。然后使用填充桶工具，用灰色或任何你想要的颜色填充整个区域（我用的是黑色）。
 
 ![教程图 11](img/MPCS_11.png "教程图 11")
 
-### Copy/Paste into new layer, then save your spinner meter
+### 复制/粘贴到新图层，然后保存转盘指示器图像
 
-Once you have the colour, select the entire alpha channel again (right click on the alpha channel -> channel to selection) copy and paste the spinner background so you have something to fill in for your spinner meter.
+在你上好颜色后，再次选择整个 alpha 通道（右击 alpha 通道 -> 通道到选区）。复制并粘贴转盘背景，这样就可以用它填充你的转盘指示器了。
 
 ![教程图 12](img/MPCS_12.png "教程图 12")
 
-### Turn down the opacity until you get a colour your like
+### 调低透明度，直到得到喜爱的颜色
 
-To add some more detail, you can turn down the opacity on the black image.
+如果想多加点细节，你可以调低黑色图像的透明度。
 
 ![教程图 13](img/MPCS_13.png "教程图 13")
 
-### The fully spun spinner background and meter
+### 转完的转盘背景和指示器图像
 
-Then you can see how it looks filled in by turning on the old layer. Note it has a little bit of an outline. If you want to change the size of that outline, you can use the `Select` -> `Grow` or `Shrink` tool before you copy/paste to make the spinner meter.
+在此之后，你就可以通过打开旧图层，看看背景是如何契合进去的。请注意，可能会出现一点点轮廓线。如果想要改变其大小，可以在复制/粘贴之前使用`选择` -> `扩大`或`缩小`工具来制作转盘指示器。
 
 ![教程图 14](img/MPCS_14.png "教程图 14")
 
-If you do this, the transition from background to spinner will be seamless, and you won't have the background move up a few pixels.
+如果你这样做了，背景图像到转盘就会实现无缝过渡，背景图像也不会向上移动几个像素了。
