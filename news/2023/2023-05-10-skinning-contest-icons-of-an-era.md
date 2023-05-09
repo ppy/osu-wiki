@@ -8,13 +8,13 @@ Celebrate 15 years of osu! by expressing your creativity through osu! skinning!
 
 ![](https://assets.ppy.sh/contests/178/header.jpg)
 
-A lot has happened in the 15 years since osu!'s inception — and every time the community thought that we have reached the top. Whether that'd be in mapping, skinning or gameplay, the boundaries of what is deemed possible kept getting pushed back further and further. So without further ado, let's go over the theme.
+A lot has happened in the 15 years since osu!'s inception — and every time the community thought that we have reached the top, whether that'd be in mapping, skinning or gameplay, the boundaries of what is deemed possible kept getting pushed back further and further. So without further ado, let's go over the theme.
 
 ## Theme: Icons of an Era
 
-This year's theme — **Icons of an Era**, aims to spark the community's imagination by creating art around various iconic osu! beatmaps that were crafted and risen to glory throughout osu!'s lifetime, as well as the many either retired, official or community-made osu! mascots that have been introduced over the course of the past 15 years.
+This year's theme, **Icons of an Era**, aims to spark the community's imagination by creating art around various iconic osu! beatmaps that were crafted and risen to glory throughout osu!'s lifetime, as well as the many either retired, official or community-made osu! mascots that have been introduced over the course of the past 15 years.
 
-Whether your entry is focused around pippi singing into the microphone from *[The Big Black](https://osu.ppy.sh/beatmapsets/41823#osu/131891)*, a group of beatmap backgrounds from a specific era in osu! history, or just a skin focused around objectively the best mascot that has ever grazed osu! (Taikonator 4000), you will need to make sure that the theme is prominent as anyone should be able to open your entry and almost immediately recognize what the inspiration behind your entry was.
+Whether your entry is focused around pippi singing into the microphone from [The Big Black](https://osu.ppy.sh/beatmapsets/41823#osu/131891), a group of beatmap backgrounds from a specific era in osu! history, or just a skin focused around objectively the best mascot that has ever grazed osu! (Taikonator 4000), you will need to make sure that the theme is prominent as anyone should be able to open your entry and almost immediately recognise what the inspiration behind your entry was.
 
 Before you decide to take a journey through osu!'s history and come up with ideas, let's clear some ground rules, as well as the various schedules and prizes for the top entries!
 
@@ -28,7 +28,7 @@ Since all entries will have their respective forum threads publicly available, c
 
 ## Voting
 
-After the submission phase is over in roughly 35 days time (from the date of posting this article), the entries will be made available for community voting. Make sure to get involved when the time comes!
+After the submission phase is over in roughly 35 days' time (from the date of posting this article), the entries will be made available for community voting. Make sure to get involved when the time comes!
 
 The voting will stay open for 14 days. Once that passes, the top 3 entries will become eligible for prizes as described below.
 
@@ -52,19 +52,19 @@ The countdown for the various stages can also be followed via [the contest page]
   - artworks (e.g. stock images or anime artwork)
   - sounds
 - The majority of the in-game menu interface and at least two game modes have to be skinned. In other words, in addition to the gameplay elements, the following segments shouldn't be left default:
-  - Ranking Panel
-  - Song Selection
-  - Mode Selection
-  - Mod Icons
-  - Pause and Fail Menu
-  - Main Menu is optional, but highly encouraged
+  - ranking panel
+  - song selection
+  - mode selection
+  - mod icons
+  - pause and fail menu
+  - main menu (optional, but highly encouraged)
 - Submissions must be new creations — only skins posted within the submission period will be accepted.
 - Each submission must be accompanied by a forum thread in order to participate in the contest.
 - Submissions must be made in time. Latecomers will not be accepted.
 - Submissions must not be created as a part of, or be involved in a paid commission of any sort.
 - Submissions must be created individually. Teams/collaborations are not allowed.
 - Submissions must be in line with the given theme: "Icons of an Era".
-- The file size for your .osk submission must be below 100 MB.
+- The file size for your `.osk` submission must be below 100 MB.
 - Please submit a 16:9 image representing your skin, since this will be used as a cover on the contest page. This image must be at least 1280x720.
 
 **Failure to comply with the contest rules may lead to disqualification, or, in severe cases, exclusion from future contests.**
@@ -85,4 +85,4 @@ Special thanks to [Kleinne Lui](https://osu.ppy.sh/users/27725651) for allowing 
 
 If you have any questions, or don't know where to start, feel free to drop a post under the [discussion thread](https://osu.ppy.sh/community/forums/topics/1762288), check out the [skinning tutorial](https://skinship.xyz/tutorial/introduction) or ask away on our [Discord server](https://discord.skinship.xyz)!
 
-— RockRoller
+—RockRoller
