@@ -66,7 +66,8 @@ The GB Cup 2023 Spring is run by the Team GB and various community members.
 
 ## Participants
 
-Due to the large number of players, the player list will be displayed in the [information spreadsheet](https://docs.qq.com/sheet/DTXNmQXJ2VG9qbWhY?tab=faxh8i)
+| Group | PLayers |
+| :-: | :-- |
 
 ## Match results
 
