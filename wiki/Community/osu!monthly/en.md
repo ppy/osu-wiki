@@ -4,7 +4,7 @@
 
 ## Contributing
 
-The osu!monthly is a community effort, so anyone who wants to help or contribute is always welcome to do so. All discussion and project organisation takes place in the `#osu-news` channel of the [osu!dev Discord server](/wiki/Community/osu!dev_Discord_server).
+The osu!monthly is a community effort, so anyone who wants to help or contribute is always welcome to do so. All discussion and project organisation takes place in the `#osu-news` channel of the [osu! Discord server](/wiki/Community/osu!_Discord_server).
 
 ## History
 

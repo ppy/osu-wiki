@@ -1,6 +1,6 @@
 # Users with unique titles
 
-User titles are typically associated with [user groups](/wiki/People/osu!_team#user-groups), but the users listed below were given their titles for other reasons. Most of the titles were rewards for contributions or achievements, with the remaining being tokens of iconic or funny osu! history.
+User titles are typically associated with [user groups](/wiki/People/User_group), but the users listed below were given their titles for other reasons. Most of the titles were rewards for contributions or achievements, with the remaining being tokens of iconic or funny osu! history.
 
 ## Current World Cup title holders
 
