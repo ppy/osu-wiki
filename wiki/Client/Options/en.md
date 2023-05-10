@@ -349,7 +349,7 @@ This section is about chat, spectators, multi, and osu!direct.
 | :-- | :-- | :-- | :-- |
 | `Chat ticker` | Display the most recent chat message at the bottom of the screen. The message that displays is from the current channel you are viewing. | Checkbox | `Disabled` |
 | `Automatically hide chat during gameplay` | If chat is open during breaks or in-game menus, the game client will automatically hide it when gameplay starts again. | Checkbox | `Enabled` |
-| `Show a notification pop-up when someone says your name` | When someone [mentions your username](/wiki/Client/Interface/Chat_console/Highlight) in chat, a notification will appear. | Checkbox | `Enabled` |
+| `Show a notification popup when someone says your name` | When someone [mentions your username](/wiki/Client/Interface/Chat_console/Highlight) in chat, a notification will appear. | Checkbox | `Enabled` |
 | `Show chat message notifications` | Display a notification, when new chat messages arrive. | Checkbox | `Enabled` |
 | `Play a sound when someone says your name` | When someone [mentions your username](/wiki/Client/Interface/Chat_console/Highlight) in chat, a sound will play. | Checkbox | `Enabled` |
 | `Share your city location with others` | Share your city location in your user card (note that your country is already shared). | Checkbox | `Disabled` |
