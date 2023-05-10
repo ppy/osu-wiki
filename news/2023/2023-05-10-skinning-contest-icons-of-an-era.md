@@ -14,7 +14,7 @@ We wanted this contest's theme to not only centre around some of those memories,
 
 ## Theme: Icons of an Era
 
-The theme for this contest is **Icons of an Era**. We aim to spark the community's imagination by encouraging creators to make beautiful skins centered around various iconic osu! beatmaps that have risen to glory throughout osu!'s lifetime, as well as paying homage to the many official or community-made osu! mascots that have been introduced over the course of the past 15 years.
+The theme for this contest is **Icons of an Era**. We aim to spark the community's imagination by encouraging creators to make beautiful skins centred around various iconic osu! beatmaps that have risen to glory throughout osu!'s lifetime, as well as paying homage to the many official or community-made osu! mascots that have been introduced over the course of the past 15 years.
 
 Whether your entry is focused around pippi singing into the microphone from [The Big Black](https://osu.ppy.sh/beatmapsets/41823#osu/131891), a group of beatmap backgrounds from a specific era in osu! history, or just a skin focused around objectively the best mascot that has ever grazed osu! (Taikonator 3000), you will need to make sure that the theme is prominent as anyone should be able to open your entry and almost immediately recognise what the inspiration behind your entry was.
 
