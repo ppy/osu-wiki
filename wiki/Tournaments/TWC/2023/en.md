@@ -9,7 +9,7 @@ tags:
 
 ![TWC 2023 banner](img/twc2023-banner.jpg)
 
-The **osu!taiko World Cup 2023** (***TWC 2023***) is a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/osu!_team). It is the thirteenth instalment of the osu!taiko World Cup.
+The **osu!taiko World Cup 2023** (***TWC 2023***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/osu!_team). It was the thirteenth instalment of the osu!taiko World Cup.
 
 ## Tournament schedule
 
@@ -27,7 +27,7 @@ The **osu!taiko World Cup 2023** (***TWC 2023***) is a country-based osu!taiko t
 
 ## Prizes
 
-The osu!taiko World Cup 2023 offers a minimum $2,000 cash prize pool and limited-edition merch. The prize pool can be further increased from [community donations](https://opencollective.com/osu-tournaments/events/osu-taiko-world-cup-2023-13130e56).
+The osu!taiko World Cup 2023 offered a minimum $2,000 cash prize pool and limited-edition merch. The prize pool was further increased to $2,185 from [community donations](https://opencollective.com/osu-tournaments/events/osu-taiko-world-cup-2023-13130e56).
 
 | Placing | Prizes |
 | :-: | :-- |
@@ -35,9 +35,11 @@ The osu!taiko World Cup 2023 offers a minimum $2,000 cash prize pool and limited
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the prize pool, single-run merch, profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool, single-run merch, profile badge |
 
+![](img/twc-2023-badge-1st.png "TWC 2023 winner badge") ![](img/twc-2023-badge-2nd.png "TWC 2023 2nd-place badge") ![](img/twc-2023-badge-3rd.png "TWC 2023 3rd-place badge")
+
 ## Organisation
 
-The osu!taiko World Cup 2023 is run by various community members.
+The osu!taiko World Cup 2023 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -54,7 +56,6 @@ The osu!taiko World Cup 2023 is run by various community members.
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1722224)
 - [Livestream](https://www.twitch.tv/osulive)
 - [Challonge bracket](https://challonge.com/TWC_2023)
-- [Donate to the prize pool](https://opencollective.com/osu-tournaments/events/osu-taiko-world-cup-2023-13130e56)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/110) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
 
 ## Participants
@@ -77,7 +78,7 @@ The osu!taiko World Cup 2023 is run by various community members.
 | ::{ flag=DE }:: | **Germany** | **[frz](https://osu.ppy.sh/users/6956922)**, [mob w](https://osu.ppy.sh/users/6851789), [Minekuchi](https://osu.ppy.sh/users/9584873), [Xay](https://osu.ppy.sh/users/961417), [Mew](https://osu.ppy.sh/users/2345156), [xMrtn-](https://osu.ppy.sh/users/866297) |
 | ::{ flag=HK }:: | **Hong Kong** | **[YonGin](https://osu.ppy.sh/users/7109317)**, [Shing\_](https://osu.ppy.sh/users/2211364), [Irone OSU](https://osu.ppy.sh/users/10678230), [Henry\_03](https://osu.ppy.sh/users/17413733), [Iwvi](https://osu.ppy.sh/users/702611), [Takuto271](https://osu.ppy.sh/users/2226395) |
 | ::{ flag=ID }:: | **Indonesia** | **[Joltzzz](https://osu.ppy.sh/users/15436568)**, [Naverlyn](https://osu.ppy.sh/users/14324722), [ImChro](https://osu.ppy.sh/users/7280717), [Lightning Wyvern](https://osu.ppy.sh/users/1533122), [Volta](https://osu.ppy.sh/users/4154071), [Veltlion](https://osu.ppy.sh/users/10999079) |
-| ::{ flag=IT }:: | **Italy** | **[Ikkun](https://osu.ppy.sh/users/1059945)**, [ndrrr](https://osu.ppy.sh/users/4609767), [A-40](https://osu.ppy.sh/users/14510301), [D3kuu](https://osu.ppy.sh/users/7807444), [partyboy95](https://osu.ppy.sh/users/3716665), [Nara Bocchi](https://osu.ppy.sh/users/7722827) |
+| ::{ flag=IT }:: | **Italy** | **[Ikkun](https://osu.ppy.sh/users/1059945)**, [ndrrr](https://osu.ppy.sh/users/4609767), [A-40](https://osu.ppy.sh/users/14510301), [D3kuu](https://osu.ppy.sh/users/7807444), [partyboy95](https://osu.ppy.sh/users/3716665) |
 | ::{ flag=JP }:: | **Japan** | **[ekumea1123](https://osu.ppy.sh/users/9119501)**, [Seren58](https://osu.ppy.sh/users/15252950), [Grape\_Tea](https://osu.ppy.sh/users/9540073), [kotohira\_06](https://osu.ppy.sh/users/22444525), [Nanas3](https://osu.ppy.sh/users/17015562), [kanten\_07](https://osu.ppy.sh/users/11680357) |
 | ::{ flag=LV }:: | **Latvia** | **[waywern2012](https://osu.ppy.sh/users/5870453)**, [Huntey](https://osu.ppy.sh/users/14451706), [Piparkuucinsh](https://osu.ppy.sh/users/7453024), [Bezmozglij123](https://osu.ppy.sh/users/20489038), [- k1ryaa](https://osu.ppy.sh/users/17609405) |
 | ::{ flag=LT }:: | **Lithuania** | **[ramojusd](https://osu.ppy.sh/users/14400817)**, [Atago](https://osu.ppy.sh/users/7011843), [Beesu](https://osu.ppy.sh/users/9117835), [wwww](https://osu.ppy.sh/users/3997162) |
@@ -102,26 +103,38 @@ The osu!taiko World Cup 2023 is run by various community members.
 
 The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad463970c6b5c22f623fcefd8d5e63d#file-twc-2023-player-list-csv).
 
-## Match schedule: Finals
+## Podium
 
-### Saturday, 22 April 2023
-
-| Team A | Team B | Match time |  |
-| --: | :-- | :-- | :-: |
-| South Korea ::{ flag=KR }:: | ::{ flag=CN }:: China | [Apr 22 (Sat) 13:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230422T130000&p1=1440&p2=235&p3=33) | [^losers-bracket] |
-| United States ::{ flag=US }:: | ::{ flag=DE }:: Germany | [Apr 22 (Sat) 20:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230422T200000&p1=1440&p2=263&p3=37) | [^losers-bracket] |
-
-### Sunday, 23 April 2023
-
-| Team A | Team B | Match time |  |
-| --: | :-- | :-- | :-: |
-| United States ::{ flag=US }:: | ::{ flag=KR }:: South Korea | [Apr 23 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230423T030000&p1=1440&p2=263&p3=235) | [^potential-match] |
-| United States ::{ flag=US }:: | ::{ flag=CN }:: China | [Apr 23 (Sun) 03:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230423T030000&p1=1440&p2=263&p3=33) | [^potential-match] |
-| Japan ::{ flag=JP }:: | ::{ flag=TW }:: Taiwan | [Apr 23 (Sun) 05:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230423T050000&p1=1440&p2=248&p3=241) | [^winners-bracket] |
-| Germany ::{ flag=DE }:: | ::{ flag=KR }:: South Korea | [Apr 23 (Sun) 08:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230423T080000&p1=1440&p2=37&p3=235) | [^potential-match] |
-| Germany ::{ flag=DE }:: | ::{ flag=CN }:: China | [Apr 23 (Sun) 11:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230423T110000&p1=1440&p2=37&p3=33) | [^potential-match] |
+![](img/podium.jpg "TWC 2023 podium")
 
 ## Mappools
+
+### Grand Finals
+
+**[Download the mappack here (98 MB)](https://drive.google.com/uc?id=1LFIn2kTwIXtRpeNeTuza0Kh21tNvYhMo)**
+
+- No Mod
+  1. [Sobrem - Super Macaron (4sbet1) \[Super Macaroni\]](https://osu.ppy.sh/beatmapsets/1980775#taiko/4113069)
+  2. [katagiri - Angel's Salad (Nwolf) \[WereOni\]](https://osu.ppy.sh/beatmapsets/1980692#taiko/4112862)
+  3. [7\_7 feat. kasane vavzed - 7D (7\_7) \[7\_7\]](https://osu.ppy.sh/beatmapsets/1980743#taiko/4113017)
+  4. [II-L - EXPLORER-4 (Miniature Lamp) \[Cosmic Cruise\]](https://osu.ppy.sh/beatmapsets/1664805#taiko/3398617)
+  5. [Nile - Snake Pit Mating Frenzy (ikin5050) \[Snake Oni\]](https://osu.ppy.sh/beatmapsets/1980708#taiko/4112907)
+  6. [Raimukun - Firmament Star (rubies87) \[Galactic Ascension\]](https://osu.ppy.sh/beatmapsets/1980788#taiko/4113087)
+- Hidden
+  1. [Riya - Laboratory-18 (woosungko) \[Synthesis (TWC Ver.)\]](https://osu.ppy.sh/beatmapsets/1814106#taiko/3721620)
+  2. [FRASER EDWARDS - The Harvest (nananass) \[Oni\]](https://osu.ppy.sh/beatmapsets/1878351#taiko/3866454)
+- Hard Rock
+  1. [Silentroom - Shuu no Hazama (HiroK) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1980705#taiko/4112897)
+  2. [Rabbit House - Gehenna (Raphalge) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1980698#taiko/4112875)
+- Double Time
+  1. [Camellia - PLANET//SHAPER (Genjuro) \[Fabrication of the Universe\]](https://osu.ppy.sh/beatmapsets/921130#taiko/1923544)
+  2. [MIMI - Toumeika (ler1211) \[Transparent\]](https://osu.ppy.sh/beatmapsets/1980700#taiko/4112881)
+- FreeMod
+  1. [Marmalade butcher - Amanita (sendol) \[X\]](https://osu.ppy.sh/beatmapsets/1720005#taiko/3515099)
+  2. [Thaehan - Overworld (Tasha) \[Muri\]](https://osu.ppy.sh/beatmapsets/545510#taiko/1155694)
+  3. [LV.4 feat. Mawata Spica - Vortex of Sorrow (uone) \[END\]](https://osu.ppy.sh/beatmapsets/1980701#taiko/4112884)
+- Tiebreaker
+  1. **[Gram - Sigrdrifa (Nifty) \[Prose Edda\]](https://osu.ppy.sh/beatmapsets/1981053#taiko/4113613)**
 
 ### Finals
 
@@ -273,6 +286,40 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/0ad
   1. [Zekk - ReIMEI (cdh) \[AsHITA\]](https://osu.ppy.sh/beatmapsets/1955236#taiko/4049602)
 
 ## Match results
+
+### Grand Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1jdC5skkPBgeqOuasLkkihnxpDYbBPK7StmmtlL_TF7M/?rm=minimal).
+
+Saturday, 29 April 2023:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Taiwan** ::{ flag=TW }:: | **7** | 6 | ::{ flag=DE }:: Germany | [#1](https://osu.ppy.sh/community/matches/108221558) |
+
+Sunday, 30 April 2023:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Japan** ::{ flag=JP }:: | **7** | 0 | ::{ flag=TW }:: Taiwan | [#1](https://osu.ppy.sh/community/matches/108242105) |
+
+### Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1ucXho5aHNBINl73zwoaSd7Lee2d1Bvr5d_DfwaKbfkE?rm=minimal).
+
+Saturday, 22 April 2023:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **South Korea** ::{ flag=KR }:: | **7** | 3 | ::{ flag=CN }:: China | [#1](https://osu.ppy.sh/community/matches/108099877) |
+| United States ::{ flag=US }:: | 0 | **7** | ::{ flag=DE }:: **Germany** | [#1](https://osu.ppy.sh/community/matches/108108909) |
+
+Sunday, 23 April 2023:
+
+| Team A |  |  | Team B | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Japan** ::{ flag=JP }:: | **7** | 0 | ::{ flag=TW }:: Taiwan | [#1](https://osu.ppy.sh/community/matches/108116856) |
+| **Germany** ::{ flag=DE }:: | **7** | 3 | ::{ flag=KR }:: South Korea | [#1](https://osu.ppy.sh/community/matches/108118899) |
 
 ### Semifinals
 
@@ -578,8 +625,5 @@ The final standings for the Qualifier stage can be found at the following [sprea
 
 ## Notes
 
-[^winners-bracket]: Winners bracket match
-[^losers-bracket]: Losers bracket match
-[^potential-match]: Potential match – final matchup depends on the results of the preceding Losers Bracket matches
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rank sum

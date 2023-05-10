@@ -355,7 +355,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 - **2018-03-01:** QAT separated its tasks into branches: BN evaluation, disqualifications, metadata, spotlights, blog, Ranking Criteria, and general leadership.
   - QAT members could be involved in multiple branches.
   - This aimed to give purpose to some QAT members who felt that they had no specific roles in the mapping/modding community. This feeling was largely relevant because the QAT had little involvement with Quality Assurance anymore. <!-- source is discord logs -->
-- **2018-03-03:** `#modding` channel was created in the [osu!dev Discord server](/wiki/Community/osu!dev_Discord_server).
+- **2018-03-03:** `#modding` channel was created in the [osu! Discord server](/wiki/Community/osu!_Discord_server).
   - While its goal was to shift mapping discussion away from the BN Discord server, this discussion centre was rarely used apart from scheduled QAT meetings. <!-- source is discord logs -->
 - **2018-03-24:** Ranking Criteria subforum was re-opened for public proposal discussions and the UBKRC was discontinued.
   - The UBKRC was discontinued at this time because all subsections of the general and game mode Ranking Criteria were finalised. <!-- https://osu.ppy.sh/community/forums/topics/720532 -->
@@ -365,7 +365,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 - **2018-04-01:** The QAT began evaluating BN applications by reviewing non-anonymous mods, as opposed to previously anonymous mods.
   - This change was made because the QAT believed out of context anonymous mods could not effectively determine a modder's capabilities.
   - Through this change, the QAT determined that bias could not be avoided when evaluating Beatmap Nominators. <!-- source is discord logs -->
-- **2018-04-22:** The QAT held its first meeting on the osu!dev server in an attempt to increase transparency of QAT affairs and migrate internal discussions away from the BN Discord server.
+- **2018-04-22:** The QAT held its first meeting on the osu! server in an attempt to increase transparency of QAT affairs and migrate internal discussions away from the BN Discord server.
   - Despite this attempt, most internal discussion was still handled on the BN Discord server. <!-- https://osu.ppy.sh/community/forums/topics/735472 -->
 
 ### May
@@ -412,7 +412,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 - **2019-03-01:** The [Mappers' Guild](/wiki/Community/Mappers_Guild) transitioned from application-based entry to automatic entry for anyone with 3 ranked maps.
   - [Featured Artist](/wiki/People/Featured_Artists) beatmaps became more frequently created and ranked.
-  - `#mappers-guild` channel was created in the [osu!dev Discord server](/wiki/Community/osu!dev_Discord_server).
+  - `#mappers-guild` channel was created in the [osu! Discord server](/wiki/Community/osu!_Discord_server).
 - **2019-03-13:** Rule requiring consecutive nominations to be set at least 24 hours apart from each other was removed.
   - This rule was a major complaint from mappers and Beatmap Nominators because it felt like it was unnecessarily wasting everyone's time. If an issue was found after the first nomination, the second nominator would often avoid pointing it out to avoid an extra 24 hour wait.
   - Along with this change, Beatmap Nominators could veto qualified beatmaps. The rule originally existed because Beatmap Nominators needed 24 hours to potentially apply vetoes to maps with one nomination.<!-- https://osu.ppy.sh/community/forums/posts/6885033 -->
@@ -521,7 +521,7 @@ Mapping and modding systems are constantly improving. The **Mapping and modding 
 
 - **2021-09-11:** ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) changed Ranking Criteria rule about the Source field. <!-- https://github.com/ppy/osu-wiki/commit/02dee3fff09c3e890dc408271bb3d2d93c3c5b2d -->
   - Mapping community members were unhappy with the lack of public discussion behind this change and later made adaptations to close new loopholes. <!-- https://osu.ppy.sh/community/forums/topics/1417764?n=1 -->
-- **2021-09-18:** After a decade-long hiatus, the osu! community meetings returned in the form of stage voice chats on the osu!dev Discord. The first primary topic addressed was [concerns with osu!mania's Ranking Criteria](https://osu.ppy.sh/community/forums/topics/1388182?n=1), along with other issues like general Ranking Criteria complexity, engaging with newer mappers, and more.
+- **2021-09-18:** After a decade-long hiatus, the osu! community meetings returned in the form of stage voice chats on the osu! Discord. The first primary topic addressed was [concerns with osu!mania's Ranking Criteria](https://osu.ppy.sh/community/forums/topics/1388182?n=1), along with other issues like general Ranking Criteria complexity, engaging with newer mappers, and more.
   - osu!mania Ranking Criteria changes were put up for discussion and, if agreed upon, may take effect soon. <!-- document effects of this with next update https://osu.ppy.sh/community/forums/topics/1418542?n=1 / https://osu.ppy.sh/community/forums/topics/1418560?n=1 -->
 - **2021-09-24:** [Quality Assurance checks](/wiki/People/Beatmap_Nominators/General_Information#quality-assurance) no longer counted towards Beatmap Nominator activity. <!-- https://osu.ppy.sh/community/forums/topics/1423554?n=1 -->
   - This was implemented because it seemed like some users were using this as a loophole to avoid actively contributing as a Beatmap Nominator.

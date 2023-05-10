@@ -22,7 +22,7 @@ Bien que certains forums, tels que [Mapping Discussion](https://osu.ppy.sh/commu
 
 ## Rôles et groupes d'utilisateurs
 
-Certains utilisateurs peuvent appartenir à un ou plusieurs groupes personnalisés, en fonction de leurs tâches communautaires, de leurs droits d'accès ou de leur activité passée. Une liste complète des groupes d'utilisateurs se trouve sur la page [L'équipe § Groupes d'utilisateurs](/wiki/People/osu!_team#groupes-d'utilisateurs).
+Certains utilisateurs peuvent appartenir à un ou plusieurs groupes personnalisés, en fonction de leurs tâches communautaires, de leurs droits d'accès ou de leur activité passée. Une liste complète des groupes d'utilisateurs se trouve sur la page [Groupe d'utilisateurs](/wiki/People/User_group).
 
 En plus des badges de groupes d'utilisateurs fournis par l'appartenance à un groupe, les utilisateurs peuvent avoir des [titres d'utilisateur personnalisés](/wiki/Community/User_title) affichés sous l'avatar dans chacun de leurs messages.
 
