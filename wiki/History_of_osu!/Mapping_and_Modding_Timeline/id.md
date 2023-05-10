@@ -359,7 +359,7 @@ Secara keseluruhan, terdapat **1847 beatmap** yang di-rank sepanjang tahun 2017.
 - **2018-03-01:** QAT memperkenalkan sistem divisi tugas bagi para anggotanya: evaluasi BN, diskualifikasi, metadata, spotlights, blog, Ranking Criteria, dan kepemimpinan umum.
   - Anggota QAT dapat menjabat pada lebih dari satu divisi tugas.
   - Perubahan ini diberlakukan agar QAT lebih memiliki tujuan dan alur kerja yang nyata. Sebelumnya, banyak anggota QAT yang mengeluhkan kurang jelasnya arahan yang mereka terima. <!-- source is discord logs -->
-- **2018-03-03:** Kanal `#modding` pada [server Discord osu!dev](/wiki/Community/osu!dev_Discord_server) dibuka.
+- **2018-03-03:** Kanal `#modding` pada [server Discord osu!](/wiki/Community/osu!_Discord_server) dibuka.
   - Kanal ini dibentuk sebagai ruang diskusi yang terbuka bagi seluruh kalangan untuk membahas berbagai hal yang berkaitan dengan mapping dan modding serta sebagai tempat untuk menggelar rapat publik QAT. <!-- source is discord logs -->
 - **2018-03-24:** Sub-forum Ranking Criteria kembali dibuka untuk umum setelah UBKRC dibubarkan.
   - Pembubaran UBKRC berkaitan dengan telah disahkannya Ranking Criteria versi baru yang diusung oleh UBKRC. <!-- https://osu.ppy.sh/community/forums/topics/720532 -->
@@ -369,7 +369,7 @@ Secara keseluruhan, terdapat **1847 beatmap** yang di-rank sepanjang tahun 2017.
 - **2018-04-01:** *Mod post* yang diajukan oleh masing-masing pelamar pada proses penerimaan BN tidak lagi dianonimkan.
   - Perubahan ini diberlakukan karena pihak QAT merasa penganoniman *mod post* yang ada tidak membantu para anggotanya untuk dapat menilai kemampuan masing-masing pelamar secara objektif.
   - Secara tidak langsung, QAT mengakui bahwa bias opini dalam proses perekrutan kandidat tidak dapat sepenuhnya dielakkan. <!-- source is discord logs -->
-- **2018-04-22:** QAT menggelar rapat publik pertamanya di server Discord osu!dev. Rapat ini digelar dalam rangka meningkatkan transparansi QAT dalam mengambil keputusan setelah seluruh rapat QAT terdahulu selalu diselenggarakan secara tertutup pada server Discord BN.
+- **2018-04-22:** QAT menggelar rapat publik pertamanya di server Discord osu!. Rapat ini digelar dalam rangka meningkatkan transparansi QAT dalam mengambil keputusan setelah seluruh rapat QAT terdahulu selalu diselenggarakan secara tertutup pada server Discord BN.
   - Terlepas dari rapat publik yang digelar, QAT tetap sesekali menggelar rapat tertutup untuk membahas berbagai isu yang lebih sensitif. <!-- https://osu.ppy.sh/community/forums/topics/735472 -->
 
 ### Mei
@@ -416,7 +416,7 @@ Secara keseluruhan, terdapat **2749 beatmap** yang di-rank sepanjang tahun 2018.
 
 - **2019-03-01:** [Mappers' Guild](/wiki/Community/Mappers_Guild) mulai menerima siapapun yang memiliki setidaknya 3 beatmap Ranked untuk dapat menjadi anggota tanpa terkecuali.
   - Sistem penerimaan anggota Mappers' Guild yang lebih terbuka ini mengakibatkan jumlah beatmap dari lagu [Featured Artist](/wiki/People/Featured_Artists) yang ada meningkat tajam.
-  - Kanal `#mappers-guild` dibuat secara khusus pada [server Discord osu!dev](/wiki/Community/osu!dev_Discord_server) untuk mendukung perubahan ini.
+  - Kanal `#mappers-guild` dibuat secara khusus pada [server Discord osu!](/wiki/Community/osu!_Discord_server) untuk mendukung perubahan ini.
 - **2019-03-13:** Peraturan yang mempersyaratkan selang waktu antar nominasi pertama dan nominasi kedua pada suatu beatmap harus lebih dari 24 jam dihapus.
   - Peraturan tersebut dihapus karena para mapper merasa bahwa peraturan ini tidak efektif dan hanya membuang-buang waktu.
   - Anggota Beatmap Nominator diberikan kuasa untuk menempatkan veto pada beatmap yang berstatus Qualified. Sebelumnya, veto hanya bisa ditempatkan pada beatmap yang telah dinominasikan namun belum mencapai status Qualified.<!-- https://osu.ppy.sh/community/forums/posts/6885033 -->
@@ -521,7 +521,7 @@ Secara keseluruhan, terdapat **3580 beatmap** yang di-rank sepanjang tahun 2020.
 
 - **2021-09-11:** ::{ flag=AU }:: [peppy](https://osu.ppy.sh/users/2) mengubah peraturan Ranking Criteria yang terkait dengan penggunaan kolom Source. <!-- https://github.com/ppy/osu-wiki/commit/02dee3fff09c3e890dc408271bb3d2d93c3c5b2d -->
   - Perubahan yang diberlakukan secara sepihak ini mengagetkan para mapper dan modder, yang lebih memilih untuk mengambil solusinya masing-masing demi menanggulangi dampak yang tidak diinginkan. <!-- https://osu.ppy.sh/community/forums/topics/1417764?n=1 -->
-- **2021-09-18:** Setelah tidak dilaksanakan selama lebih dari satu dekade, pertemuan komunitas osu! (*osu! community meetings*) kembali diadakan pada ruang *voice chat* khusus di server Discord osu!dev. Dalam pertemuan pertamanya, para pembicara yang terlibat membahas berbagai topik yang menyangkut antara lain [masalah yang dihadapi oleh Ranking Criteria mode osu!mania di kala itu](https://osu.ppy.sh/community/forums/topics/1388182?n=1), kondisi Ranking Criteria yang dinilai terlalu kompleks, cara agar mapper baru dapat lebih aktif berperan di komunitas, dan lain sebagainya.
+- **2021-09-18:** Setelah tidak dilaksanakan selama lebih dari satu dekade, pertemuan komunitas osu! (*osu! community meetings*) kembali diadakan pada ruang *voice chat* khusus di server Discord osu!. Dalam pertemuan pertamanya, para pembicara yang terlibat membahas berbagai topik yang menyangkut antara lain [masalah yang dihadapi oleh Ranking Criteria mode osu!mania di kala itu](https://osu.ppy.sh/community/forums/topics/1388182?n=1), kondisi Ranking Criteria yang dinilai terlalu kompleks, cara agar mapper baru dapat lebih aktif berperan di komunitas, dan lain sebagainya.
   - Setelah pertemuan ini, berbagai perubahan yang diusulkan untuk Ranking Criteria mode osu!mania langsung didiskusikan lebih lanjut dan, apabila disetujui, akan diberlakukan dengan segera. <!-- document effects of this with next update https://osu.ppy.sh/community/forums/topics/1418542?n=1 / https://osu.ppy.sh/community/forums/topics/1418560?n=1 -->
 - **2021-09-24:** [Proses penjaminan mutu (*quality assurance*) beatmap](/wiki/People/Beatmap_Nominators/General_Information#quality-assurance) tidak lagi diikutsertakan ke dalam riwayat aktivitas para anggota Beatmap Nominator. <!-- https://osu.ppy.sh/community/forums/topics/1423554?n=1 -->
   - Perubahan ini diberlakukan karena terdapat beberapa anggota Beatmap Nominator yang memanfaatkan proses ini untuk melalaikan tugas utama mereka selaku Beatmap Nominator.

@@ -7,7 +7,7 @@ outdated_since: 1b5403b0be44652b95ae8edbab1f76b09bfb8b38
 
 *Lihat juga: [panduan kontribusi osu! wiki](/wiki/osu!_wiki/Contribution_guide)*
 
-Artikel ini menjelaskan aspek teknis atau administratif dari osu! wiki. Artikel ini juga mencakup prosedur pemeliharaan yang diperlukan agar tetap mutakhir—yang mungkin kamu dapat [berkontribusi pada salah satu rutinitas](#rutinitas). Untuk semua diskusi yang terkait dengan wiki, gunakan channel `#osu-wiki` di [server Discord osu!dev](/wiki/Community/osu!dev_Discord_server).
+Artikel ini menjelaskan aspek teknis atau administratif dari osu! wiki. Artikel ini juga mencakup prosedur pemeliharaan yang diperlukan agar tetap mutakhir—yang mungkin kamu dapat [berkontribusi pada salah satu rutinitas](#rutinitas). Untuk semua diskusi yang terkait dengan wiki, gunakan channel `#osu-wiki` di [server Discord osu!](/wiki/Community/osu!_Discord_server).
 
 ## Administrator
 
@@ -74,7 +74,7 @@ Beberapa fitur mungkin tidak berhubungan langsung dengan situs web osu!, tetapi 
 
 *Catatan: situs web [status osu-wiki](https://osu.wiki/status/id) menampilkan daftar semua artikel yang membutuhkan pemeliharaan, dikelompokkan berdasarkan kategori.*
 
-Wiki bergantung pada masukan dari komunitas osu!. Kamu dapat membantu pengelola dan kontributor lain dengan melakukan apa yang kamu bisa lakukan. Untuk informasi tentang cara melakukannya, baca [panduan kontribusi](/wiki/osu!_wiki/Contribution_guide). Jika suatu saat kamu merasa perlu bantuan, mintalah bantuan di channel `#osu-wiki` di [server Discord osu!dev](/wiki/Community/osu!dev_Discord_server).
+Wiki bergantung pada masukan dari komunitas osu!. Kamu dapat membantu pengelola dan kontributor lain dengan melakukan apa yang kamu bisa lakukan. Untuk informasi tentang cara melakukannya, baca [panduan kontribusi](/wiki/osu!_wiki/Contribution_guide). Jika suatu saat kamu merasa perlu bantuan, mintalah bantuan di channel `#osu-wiki` di [server Discord osu!](/wiki/Community/osu!_Discord_server).
 
 ### Terjemahan
 
