@@ -1,6 +1,4 @@
 ---
-outdated_translation: false
-outdated_since: 7099cd48c3ad38ccf49bec40c04c9c505c297369
 tags:
   - osu! staff
   - osu!team
@@ -13,9 +11,9 @@ tags:
   - equipo osu!
 ---
 
-# El Equipo
+# osu! team
 
-Las personas que se enumeran a continuación son el núcleo del **equipo de osu!** y son los principales responsables de ayudar a que el juego sea increíble para todos.
+Las personas que se enumeran a continuación son el núcleo del **osu! team!** y son los principales responsables de ayudar a que el juego sea increíble para todos.
 
 | Nombre | Rol |
 | :-- | :-- |
