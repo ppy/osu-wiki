@@ -18,7 +18,7 @@ The **Skinning Contest #4: Chromatic Alteration** is a free-for-all osu! skinnin
 | Announcement | 2023-05-10 |
 | Submission phase | 2023-05-10/2023-07-14 |
 | Voting phase | 2 weeks starting from a separate news post |
-| Results | TBD |
+| Results | *TBD* |
 
 ## Prizes
 
@@ -34,24 +34,24 @@ The Skinning Contest #4 is run by various community members.
 
 | User | Responsibility |
 | :-- | :-- |
-| ::{ flag="RS" }:: [0x84f](https://osu.ppy.sh/users/7944724) | Newspost writer |
-| ::{ flag="DE" }:: [Master-TigerKun](https://osu.ppy.sh/users/10688456) | Contest planning |
-| ::{ flag="RO" }:: [Matt2e2](https://osu.ppy.sh/users/12144912) | Contest planning |
-| ::{ flag="NL" }:: [Roan](https://osu.ppy.sh/users/8214639) | Contest planning, internal tool development |
-| ::{ flag="DE" }:: [RockRoller](https://osu.ppy.sh/users/8388854) | Contest planning, submission screening |
-| ::{ flag="GB" }:: [tetsui](https://osu.ppy.sh/users/10974678) | Contest planning |
-| ::{ flag="NL" }:: [vvivi](https://osu.ppy.sh/users/10432755) | Contest planning |
-| ::{ flag="PL" }:: [watterino](https://osu.ppy.sh/users/3512261) | Video editor |
-| ::{ flag="TR" }:: [Zeus-](https://osu.ppy.sh/users/5464437) | Contest planning |
+| ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | News post writing |
+| ::{ flag=DE }:: [Master-TigerKun](https://osu.ppy.sh/users/10688456) | Contest planning |
+| ::{ flag=RO }:: [Matt2e2](https://osu.ppy.sh/users/12144912) | Contest planning |
+| ::{ flag=NL }:: [Roan](https://osu.ppy.sh/users/8214639) | Contest planning, internal tool development |
+| ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | Contest planning, submission screening |
+| ::{ flag=GB }:: [tetsui](https://osu.ppy.sh/users/10974678) | Contest planning |
+| ::{ flag=NL }:: [vvivi](https://osu.ppy.sh/users/10432755) | Contest planning |
+| ::{ flag=PL }:: [watterino](https://osu.ppy.sh/users/3512261) | Video editing |
+| ::{ flag=TR }:: [Zeus-](https://osu.ppy.sh/users/5464437) | Contest planning |
 
 ## Links
 
-- **[Contest Page](https://osu.ppy.sh/community/contests/178)**
-- [Announcement newspost](https://osu.ppy.sh/home/news/2023-05-08-skinning-contest-icons-of-an-era)
-- [Discussion Thread](https://osu.ppy.sh/community/forums/topics/1762288)
-- [Submission Thread](https://osu.ppy.sh/community/forums/topics/1762287)
+- **[Contest page](https://osu.ppy.sh/community/contests/178)**
+- [Announcement news post](https://osu.ppy.sh/home/news/2023-05-08-skinning-contest-icons-of-an-era)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1762288)
+- [Submission thread](https://osu.ppy.sh/community/forums/topics/1762287)
 - [Discord server](https://discord.skinship.xyz)
-- [Official website](https://skinship.xyz)
+- [Website](https://skinship.xyz)
 
 ## Ruleset
 
