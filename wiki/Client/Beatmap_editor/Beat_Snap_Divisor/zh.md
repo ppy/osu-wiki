@@ -1,4 +1,4 @@
-# 音符时值 (Beat Snap Devisor)
+# 音符时值 (Beat Snap Divisor)
 
 ![](img/beat_snap_divisor.png "谱面编辑器中的节拍细分设置")
 

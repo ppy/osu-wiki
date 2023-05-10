@@ -4,7 +4,7 @@
 
 ## 基本设定 (General)
 
-### 歌曲及谱面元数据(Song and Map Metadata)
+### 歌曲及谱面元数据 (Song and Map Metadata)
 
 *另见： [\[Guide\] Metadata](https://osu.ppy.sh/community/forums/topics/249288 "osu! 论坛")*
 
