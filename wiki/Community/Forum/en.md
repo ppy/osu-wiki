@@ -21,7 +21,7 @@ While some forums, such as [Mapping Discussion](https://osu.ppy.sh/community/for
 
 ## Roles and user groups
 
-Some users may belong to one or several custom groups, based on their community tasks, access rights, or past activity. A full list of user groups can be found at [The Team § User groups](/wiki/People/osu!_team#user-groups).
+Some users may belong to one or several custom groups, based on their community tasks, access rights, or past activity. A full list of user groups can be found at [User group](/wiki/People/User_group).
 
 In addition to user group badges provided by group membership, users may have [custom user titles](/wiki/Community/User_title) displayed under the avatar in each of their posts.
 

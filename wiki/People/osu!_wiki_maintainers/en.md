@@ -4,7 +4,7 @@ The **osu! wiki maintainers** maintain the [osu! wiki](/wiki/osu!_wiki) via its 
 
 The maintainers regularly look after the [issue tracker](https://github.com/ppy/osu-wiki/issues) and review pull requests (edit requests) from contributors. Contrary to other contributors, they can edit pull requests and merge them into the `master` branch of the repository, effectively making the changes public.
 
-If you need help with making a contribution or want a review on your pull request, send a message in the `#osu-wiki` channel of the [osu!dev Discord server](/wiki/Community/osu!dev_Discord_server) and a maintainer or another contributor will reply back (all maintainers know English).
+If you need help with making a contribution or want a review on your pull request, send a message in the `#osu-wiki` channel of the [osu! Discord server](/wiki/Community/osu!_Discord_server) and a maintainer or another contributor will reply back (all maintainers know English).
 
 ## Wiki maintainers
 
