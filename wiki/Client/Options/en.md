@@ -176,7 +176,8 @@ This section is about settings that affect gameplay.
 | Name | Description | Type | Default |
 | :-- | :-- | :-- | :-- |
 | `Background dim` | Adjust the level of dimming applied to the background and storyboard while playing (can be set per-beatmap). | Slider | `80%` |
-| `Don't change dim level during breaks` | Disable brightening the dim level during breaks, making the background never visible. | Checkbox | `Disabled` |
+| `Don't change dim level during breaks` | Disable brightening the dim level during breaks. | Checkbox | `Disabled` |
+| `Show leaderboard during gameplay` | Show leaderboard on the left side during gameplay, both in solo and multi mode. | Checkbox | `Enabled` |
 | `Progress display` | Configure where and how the song progress bar is displayed. See below for details. | Dropdown | `Top-Right (Pie)` |
 | `Score meter type` | Configure accuracy meter appearing below the beatmap. Note that osu!catch will always use `Colour`. | Dropdown | `Hit error` |
 | `Score meter size` | Configure size of score meter. | Slider | `1x` |
