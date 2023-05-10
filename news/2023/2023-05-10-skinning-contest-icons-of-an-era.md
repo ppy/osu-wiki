@@ -40,7 +40,7 @@ The voting will stay open for 14 days. Once that passes, the top 3 entries will 
 | :-- | :-- |
 | Submission phase | 2023-05-10 |
 | Voting phase | 2 weeks starting from a separate news post |
-| Results | 2023-06-14 |
+| Results | TBD |
 
 The countdown for the various stages can also be followed via [the contest page](https://osu.ppy.sh/community/contests/178).
 
