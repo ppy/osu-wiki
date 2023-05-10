@@ -47,7 +47,7 @@ The Skinning Contest #4 is run by various community members.
 ## Links
 
 - **[Contest page](https://osu.ppy.sh/community/contests/178)**
-- [Announcement news post](https://osu.ppy.sh/home/news/2023-05-08-skinning-contest-icons-of-an-era)
+- [Announcement news post](https://osu.ppy.sh/home/news/2023-05-10-skinning-contest-icons-of-an-era)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1762288)
 - [Submission thread](https://osu.ppy.sh/community/forums/topics/1762287)
 - [Discord server](https://discord.skinship.xyz)
