@@ -114,7 +114,6 @@ La [página del grupo Nomination Assessment Team](https://osu.ppy.sh/groups/7) e
 | ::{ flag=US }:: [pishifat](https://osu.ppy.sh/users/3178418) |  | Structural[^task-pishifat] |
 | ::{ flag=US }:: [StarCastler](https://osu.ppy.sh/users/12402453) |  | Evaluation, Structural[^task-star] |
 | ::{ flag=AT }:: [Stixy](https://osu.ppy.sh/users/9000308) | Alemán, serbio | Evaluation |
-| ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) |  | Evaluation |
 | ::{ flag=BE }:: [yaspo](https://osu.ppy.sh/users/4945926) | Neerlandés | Evaluation |
 | ::{ flag=US }:: [Yogurtt](https://osu.ppy.sh/users/2649717) |  | Evaluation |
 | ::{ flag=PL }:: [Zelq](https://osu.ppy.sh/users/8953955) | Polaco | Evaluation |
@@ -142,8 +141,8 @@ La [página del grupo Nomination Assessment Team](https://osu.ppy.sh/groups/7) e
 | :-- | :-- | :-- |
 | ::{ flag=CN }:: [\_Stan](https://osu.ppy.sh/users/1653229) | Chino | Evaluation |
 | ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306) | Vietnamita | Evaluation |
+| ::{ flag=DO }:: [Antalf](https://osu.ppy.sh/users/8793773) | Español | Evaluation |
 | ::{ flag=ID }:: [Maxus](https://osu.ppy.sh/users/4335785) | Indonesio | Evaluation |
-| ::{ flag=US }:: [Unpredictable](https://osu.ppy.sh/users/7560872) |  | Evaluation |
 
 ## Notas
 
