@@ -145,7 +145,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Match results
 
-### Saturday, 17 December 2022:
+### Saturday, 17 December 2022
 
 #### Finals
 
@@ -160,7 +160,6 @@ This competition has come to an end and resulted in the following podium:
 | ClassicForUrSoul | 4 | **5** | Among the Sus | [#1](https://osu.ppy.sh/community/matches/105688450) |
 | we go jim | **5** | 4 | we have 3 badges | [#1](https://osu.ppy.sh/community/matches/105689135) |
 
-
 #### Quarterfinals
 
 | Team 1 |  |  | Team 2 | Match link |
@@ -169,7 +168,6 @@ This competition has come to an end and resulted in the following podium:
 | we go jim | **4** | 0 | stuckat180 | [#1](https://osu.ppy.sh/community/matches/105687088) |
 | Among the Sus | **4** | 0 | :nerd: | [#1](https://osu.ppy.sh/community/matches/105687597) |
 | we have 3 badges | **4** | 0 | :wheelchair: | [#1](https://osu.ppy.sh/community/matches/105687968) |
-
 
 ## Ruleset
 
