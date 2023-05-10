@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: c6e4ace59bf0c3be43617fda1a36a5c6dc0af3c3
+---
+
 # Variáveis de Storyboard
 
 Você pode por sequencias de texto, até uma linha inteira, como **variáveis** para uso em outro lugar em um arquivo .osb (observe que o valor não pode mudar durante a jogabilidade, portanto, para aqueles com experiência em software, pense nisso mais como uma constante). *Arquivos .osu não suportam isso.*
