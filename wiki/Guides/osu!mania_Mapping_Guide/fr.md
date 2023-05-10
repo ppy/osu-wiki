@@ -94,7 +94,7 @@ Très bien ! Faisons glisser le `.mp3` de la musique que nous voulons mapper dan
 | :-- | :-- |
 | Stacking : | Cette option n'a pas d'effet pour osu!mania donc pas besoin de changer quoi que ce soit ici. |
 | Allowed Modes : | Avec cette option, vous changez le mode de l'éditeur à celui que vous voulez utiliser pour votre beatmap. Ce guide est consacré à l'osu!mania, nous utilisons donc "osu!mania" bien sûr. Si vous choisissez "All", votre éditeur sera réglé sur osu!mania. **Si vous changez cette option alors que vous êtes dans une beatmap osu!mania existante, celle-ci sera écrasée**. |
-| Use special Style (N+1 style) for osu!mania : | Si vous mappez dans un keymode qui utilise une touche spéciale (5K et 8K), vous pouvez activer ce point. Cela permet au joueur d'échanger la **colonne spéciale** à sa gauche ou à sa droite selon ses réglages. Connue dans "BMS" sous le nom de "Scratch Column", elle est couramment utilisée dans 7+1K (8K) osu!mania. Le mapping en 7+1K est similaire au mapping d'une beatmap 7K, mais une **colonne spéciale** supplémentaire est générée à la discrétion du mappeur. |
+| Use special Style (N+1 style) for osu!mania : | Si vous mappez dans un keymode qui utilise une touche spéciale (6K et 8K), vous pouvez activer ce point. Cela permet au joueur d'échanger la **colonne spéciale** à sa gauche ou à sa droite selon ses réglages. Connue dans "BMS" sous le nom de "Scratch Column", elle est couramment utilisée dans 7+1K (8K) osu!mania. Le mapping en 7+1K est similaire au mapping d'une beatmap 7K, mais une **colonne spéciale** supplémentaire est générée à la discrétion du mappeur. |
 
 L'option **Colours** n'est pas utilisée dans osu!mania donc nous n'avons pas besoin de changer quoi que ce soit ici.
 
