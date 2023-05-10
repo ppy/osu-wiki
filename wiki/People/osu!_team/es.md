@@ -52,7 +52,7 @@ Además de lo anterior, el [equipo de soporte de cuentas](Account_support_team) 
 | ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370) | Organizador y administrador de la World Cup |
 | ::{ flag=US }:: [Derekku](https://osu.ppy.sh/users/91341) | Encargado general, administrador de la comunidad |
 | ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | Desarrollador de osu!, proveedor de integración de IRC para chat en el juego, mantenedor del sitio. [Blog](http://blog.echo.sh/) |
-| ::{ flag=US }:: [HappyStick](https://osu.ppy.sh/users/256802) | Anfitrión del osu! Coffee Hour, transmisor de la World Cup, organizador de torneos |
+| ::{ flag=US }:: [HappyStick](https://osu.ppy.sh/users/256802) | Anfitrión de la osu! Coffee Hour, transmisor de la World Cup, organizador de torneos |
 | ::{ flag=NL }:: [Intermezzo](https://osu.ppy.sh/users/136842) | Desarrollador de osu!, proveedor de backend osz2 y p2p |
 | ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) | Asesor de la escena de modding y mapping |
 | ::{ flag=US }:: [Datawalke](https://osu.ppy.sh/users/142) | Diseñador del sitio original, proveedor de alojamiento en los primeros días. [Brave New Games](http://www.bravegamer.com/) |
