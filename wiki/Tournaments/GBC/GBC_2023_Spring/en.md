@@ -24,6 +24,8 @@ The **GB Cup 2023 Spring** (***GBC 2023 Spring***) is an osu!mania 4K point-base
 | Regular match result showcase | 2023-05-15 (20:00) |
 | Playoff stage week 1 | 2023-05-20/2023-05-21 |
 | Playoff stage week 2 | 2023-05-27/2023-05-28 |
+| Playoff stage Finals | 2023-06-03/2023-06-04 |
+| Playoff stage Grand Finals | 2023-06-10/2023-06-11 |
 
 ## Prizes
 
@@ -144,8 +146,10 @@ Due to the large number of players, the match results will be displayed in the [
 | Level S | 2.3x + 30 |
 | Level EX | 3.4x + 57 |
 
-3. The final ranking of qualifier depends on the total points of all the 4 rounds. The top 16 players will be able to join playoff stage.
-4. In the playoff stage, players need to win a specific number of beatmaps to win, depending on the situation.
+3. The final ranking of qualifier depends on the total points of all the 4 rounds. The top 24 players will be able to join playoff stage.
+4. Top 8 players of final ranking will get into the winner bracket, top 9-24 players will get into the loser bracket.
+5. If there is a tie in final ranking, the player that have lower sum of ranks in every round will get higher final ranking.
+6. In the playoff stage, players need to win 6 beatmaps in QuarterFinals and SemiFinals to win, 7 beatmaps in Finals and Grand Finals to win.
 
 ### Match procedures
 
@@ -189,6 +193,8 @@ The rules are largely the same as in the regular season.
 
 1. The organiser will invite some players from the EX group to participate in the playoffs.
 2. There will be four separate mappools for each playoff round, with a varying number of beatmaps of different types.
+   - QuarterFinals and SemiFinals have 13 maps with 6RC, 3HB, 3LN and 1TB, winner of 11.
+   - Finals and Grand Finals have 15 maps with 7RC, 3HB, 4LN and 1TB, winner of 13.
    - Each mappool has one tiebreaker.
 3. Players will have 2 minutes to pick and ban a beatmap, and 2 minutes to get ready. If a player takes more time than allowed, the procedures adopted will be as follows:
    - For map bans, the player forfeits the ban.
