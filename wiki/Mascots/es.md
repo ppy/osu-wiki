@@ -74,7 +74,7 @@ Agent J también fue presentado en la skin de [LuigiHann](https://osu.ppy.sh/use
 
 ![Aiko](img/Aiko.png "Aiko")
 
-Diseñada por [JMC](https://osu.ppy.sh/users/774010), Aiko fue una de las participantes en el concurso de diseño de mascotas para osu!taiko. Es una chica energética con pasión para osu!taiko, ¡incluso si ella no es la mejor! Luciendo un par de zapatos «Tabi» elegantes y un séquito de accesorios de pippidon, la mascota de tiempos pasados vive en esta chica valiente. Ella es bastante pequeña con solo 154 cm de altura, y nació en 1999-04-06.
+Diseñada por [JMC](https://osu.ppy.sh/users/774010), Aiko fue una de las participantes en el concurso de diseño de mascotas para osu!taiko. Es una chica energética con pasión para osu!taiko, ¡incluso si ella no es la mejor! Luciendo un par de zapatos «Tabi» elegantes y un séquito de accesorios de pippidon, la mascota de tiempos pasados vive en esta chica valiente. Ella es bastante pequeña con solo 154 cm de altura, y nació en 6/4/1999.
 
 ### Alisa
 
