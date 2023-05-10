@@ -46,12 +46,12 @@ tags:
 
 | 이름 | 역할 |
 | :-- | :-- |
-| ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) | 총괄 관리자 및 도우미, Chibi 창시자. [Barrel Roll Weekly](http://brw.twinkfish.com/) |
+| ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) | 총괄 관리자 및 도우미, Chibi 아티스트. [Barrel Roll Weekly](http://brw.twinkfish.com/) |
 | ::{ flag=US }:: [Chaos](https://osu.ppy.sh/users/2628870) | 중재 및 커뮤니티 자문가 |
 | ::{ flag=NO }:: [cYsmix](https://osu.ppy.sh/users/272870) | 오디오 디자이너, [공식 osu! 아티스트](https://osu.ppy.sh/beatmaps/artists/2) |
 | ::{ flag=NZ }:: [deadbeat](https://osu.ppy.sh/users/128370) | 월드컵 주최자 및 관리자 |
 | ::{ flag=US }:: [Derekku](https://osu.ppy.sh/users/91341) | 총괄 관리자, 커뮤니티 매니저 |
-| ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | osu! 개발자, 인게임 채팅과 동기화시키는 IRC 제공자, 사이트 관리자. [블로그](http://blog.echo.sh/) |
+| ::{ flag=NZ }:: [Echo](https://osu.ppy.sh/users/431) | osu! 개발자, 인게임 채팅의 IRC  제공자, 사이트 관리자. [블로그](http://blog.echo.sh/) |
 | ::{ flag=US }:: [HappyStick](https://osu.ppy.sh/users/256802) | osu! Coffee Hour 호스트, 월드컵 스트리머, 토너먼트 위원 |
 | ::{ flag=NL }:: [Intermezzo](https://osu.ppy.sh/users/136842) | osu! 개발자, .osz2 확장자와 p2p 백앤드 제공자 |
 | ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) | 모딩 및 매핑 자문가 |
