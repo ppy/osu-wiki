@@ -24,4 +24,4 @@ Selon le type de décalage, il est défini par le créateur de la beatmap, perso
 
 - Countdown offset, un paramètre qui affecte le temps d'apparition du [compte à rebours](/wiki/Beatmap/Countdown) avant le premier objet, mesuré en [beats](/wiki/Music_theory/Beat).
 - [Lead-in](/wiki/Beatmap/Lead-in_time), une période de délai supplémentaire avant que la beatmap ne commence.
-- Décalage vidéo, un paramètre qui détermine quand une vidéo d'arrière plan doit être lue par rapport à la piste audio.
+- Video offset, un paramètre qui détermine quand une vidéo d'arrière plan doit être lue par rapport à la piste audio.
