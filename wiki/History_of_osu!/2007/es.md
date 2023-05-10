@@ -1,6 +1,5 @@
 ---
 no_native_review: true
-outdated_translation: true
 ---
 
 # Historia de osu! 2007
