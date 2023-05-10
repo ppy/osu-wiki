@@ -13,7 +13,7 @@ tags:
 
 # osu! team
 
-Las personas que se enumeran a continuación son el núcleo del **osu! team!** y son los principales responsables de ayudar a que el juego sea increíble para todos.
+Las personas que se enumeran a continuación son el núcleo del **osu! team** y son los principales responsables de ayudar a que el juego sea increíble para todos.
 
 | Nombre | Rol |
 | :-- | :-- |
