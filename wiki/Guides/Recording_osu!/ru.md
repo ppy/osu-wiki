@@ -11,14 +11,15 @@ no_native_review: true
 ## Требования
 
 - Софт для записи
-  - OBS
-  - Fraps
-  - Action!
-  - Bandicam
+  - [OBS](https://obsproject.com/)
+  - [Fraps](https://fraps.com/)
+  - [Action!](https://actionrecorder.com/)
+  - [Bandicam](https://www.bandicam.com/)
 - Софт для редактирования / рендеринга (Никогда не используйте Windows Moviemaker, оно резко портит качество видео!) 
-  - Sony Vegas
-  - Adobe Premiere
-  - AVS Video Editor
+  - [Sony Vegas](https://www.vegascreativesoftware.com/us/vegas-pro/)
+  - [Adobe Premier](https://www.adobe.com/products/premiere.html)
+  - [AVS Video Editor](https://www.avs4you.com/avs-video-editor.aspx)
+  - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
 
 ### Настройка Fraps
 

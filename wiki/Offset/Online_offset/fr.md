@@ -1,15 +1,21 @@
 ---
 tags:
   - online song offset
-outdated_translation: true
-outdated_since: c982b3d23c9577d6d0353a006ca6528771511319
+  - décalage en ligne
 ---
 
 # Online offset
 
 *Pour d'autres utilisations, voir [Offset](/wiki/Offset).*
 
-L'**online offset** est un décalage qui peut être appliqué à une [beatmap](/wiki/Beatmap) après son [classement](/wiki/Beatmap/Category#classée) initial. C'est généralement le cas lorsqu'une beatmap a besoin de petits changements de timing pour s'aligner correctement avec la musique. Les valeurs d'online offset sont appliquées en plus des valeurs de l'[offset universel](/wiki/Offset/Universal_offset) et de l'[offset local](/wiki/Offset/Local_offset) d'un joueur.
+L'**online offset** (ou décalage en ligne) est un décalage qui peut être appliqué à une [beatmap](/wiki/Beatmap) après son [classement](/wiki/Beatmap/Category#classée) initial. C'est généralement le cas lorsqu'une beatmap a besoin de petits changements de [timing](/wiki/Beatmapping/Timing) pour s'aligner correctement avec la musique. Les valeurs d'online offset sont appliquées en plus des valeurs de l'[offset universel](/wiki/Offset/Universal_offset) et de l'[offset local](/wiki/Offset/Local_offset) du joueur.
+
+## Comportement
+
+L'online offset est personnalisé par un administrateur du site web ou par un membre de la [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) pour chaque beatmap mal synchronisée, et est récupéré de manière automatisée par osu! en même temps que les [classements](/wiki/Ranking). De la même manière que le décalage local, il fonctionne en décalant tous les éléments de gameplay par rapport à la piste audio d'une quantité spécifiée de millisecondes :
+
+- Les valeurs **négatives** déplacent les éléments de gameplay **plus tôt**.
+- Les valeurs **positives** déplacent les éléments de gameplay **plus tard**.
 
 Toutes les valeurs d'online offset sont stockées localement pour une utilisation ultérieure. Cela permet d'appliquer les valeurs même si un joueur joue hors ligne, à condition qu'il ait été connecté à Internet avant d'importer ou de jouer la beatmap.
 

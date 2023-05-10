@@ -7,14 +7,15 @@ Vous avez toujours voulu faire une vidéo pour YouTube, mais vous n'avez jamais 
 ## Prérequis
 
 - Un logiciel d'enregistrement
-  - OBS
-  - Fraps
-  - Action!
-  - Bandicam
+  - [OBS](https://obsproject.com/)
+  - [Fraps](https://fraps.com/)
+  - [Action!](https://actionrecorder.com/)
+  - [Bandicam](https://www.bandicam.com/)
 - Un logiciel de montage/rendu (n'utilisez jamais Windows Moviemaker, la qualité de la vidéo s'en trouverait considérablement diminuée !)
-  - Sony Vegas
-  - Adobe Premier
-  - AVS Video Editor
+  - [Sony Vegas](https://www.vegascreativesoftware.com/us/vegas-pro/)
+  - [Adobe Premier](https://www.adobe.com/products/premiere.html)
+  - [AVS Video Editor](https://www.avs4you.com/avs-video-editor.aspx)
+  - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
 
 ### Configuration de Fraps
 
