@@ -14,7 +14,7 @@ tags:
 
 ## Description
 
-The **mod multiplier** is one of the multipliers which affects the [score](/wiki/Gameplay/Score) value of a single [hit object](/wiki/Gameplay/Hit_object) throughout the gameplay.
+The **mod multiplier** is one of the multipliers which affects the [score](/wiki/Gameplay/Score) value of a single [hit object](/wiki/Gameplay/Hit_object) throughout gameplay.
 
 By default, the mod multiplier equals to 1.00x, however, if several [mods](/wiki/Gameplay/Game_modifier) are enabled, the final value is a product of respective mod multipliers. For example, if [Hard Rock](/wiki/Gameplay/Game_modifier/Hard_Rock) and [Half Time](/wiki/Gameplay/Game_modifier/Half_Time) are enabled simultaneously in osu!, the final value would be 0.318x.
 
