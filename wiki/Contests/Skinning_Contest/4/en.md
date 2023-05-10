@@ -9,7 +9,7 @@ tags:
 
 ![Skinning Contest #4 banner](img/banner.jpg)
 
-The **Skinning Contest #4: Chromatic Alteration** is a free-for-all osu! skinning contest hosted by [skinship](https://skinship.xyz), one of the largest skinning communities on osu!. It is the third official osu! skinning contest.
+The **Skinning Contest #4: Icons of an Era** is a free-for-all osu! skinning contest hosted by [skinship](https://skinship.xyz), one of the largest skinning communities on osu!. It is the fourth official osu! skinning contest.
 
 ## Contest schedule
 
@@ -47,7 +47,7 @@ The Skinning Contest #4 is run by various community members.
 ## Links
 
 - **[Contest page](https://osu.ppy.sh/community/contests/178)**
-- [Announcement news post](https://osu.ppy.sh/home/news/2023-05-08-skinning-contest-icons-of-an-era)
+- [Announcement news post](https://osu.ppy.sh/home/news/2023-05-10-skinning-contest-icons-of-an-era)
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1762288)
 - [Submission thread](https://osu.ppy.sh/community/forums/topics/1762287)
 - [Discord server](https://discord.skinship.xyz)
