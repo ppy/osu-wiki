@@ -161,7 +161,7 @@ Sofern dieser Spieler **tatsächlich** Plays in einem der Spielmodi hat, bestimm
 
 Des Weiteren können Nutzernamen von Spielern mit [gerankten Beatmaps](/wiki/Beatmap/Category#ranked) oder [Profilabzeichen](/wiki/Community/Profile_badge) nicht genommen werden.
 
-### Ist es möglich meinen Namen auf meinen alten Namen zurückzusetzen? {#revert-username}
+### Ist es möglich, meinen Namen auf meinen alten Namen zurückzusetzen? {#revert-username}
 
 **Ja, aber nur unter bestimmten Umständen.**
 
@@ -250,4 +250,4 @@ Solltest du an einem öffentlichen Ort spielen, achte auf die Sicherheit deines 
 
 **Wenn du ein aktives Supporter-Tag besitzt**, kannst du alle Beatmaps sehen, auf denen du einen Score erzielt hast. Dazu musst du auf die [beatmap-auflistung](https://osu.ppy.sh/beatmapsets) gehen, auf `Mehr Suchoptionen` klicken und dann den Filter `Gespielt` aktivieren. Alternativ kannst du auch [die gefilterte Liste an Beatmaps](https://osu.ppy.sh/beatmapsets?played=played) direkt abrufen.
 
-Leider speichern wir nicht, welche Beatmaps ein Spieler heruntergeladen hat. Das heißt, es ist unmöglich davon eine Auflistung zu erhalten. Das nächste, wie du an das rankommen würdest, wäre die Benutzung des zuvor erwähnten Filters, um zumindest an die vorher gespielten Beatmaps zu gelangen.
+Leider speichern wir nicht, welche Beatmaps ein Spieler heruntergeladen hat. Das heißt, es ist unmöglich, davon eine Auflistung zu erhalten. Das nächste, wie du an das rankommen würdest, wäre die Benutzung des zuvor erwähnten Filters, um zumindest an die vorher gespielten Beatmaps zu gelangen.
