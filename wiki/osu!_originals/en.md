@@ -391,6 +391,12 @@ These songs were later [announced](https://osu.ppy.sh/home/news/2023-02-01-twin-
 | [stoops & breakchild - blue noah 2022](https://soundcloud.com/breakchildaltuwu/blue-noah-2022) | [#1](https://osu.ppy.sh/beatmapsets/1837866) | Round of 32 FM2 |
 | [takehirotei as "Infinite Limit" - Rules of the Chaos Dilemma](https://soundcloud.com/takehirotei/egts-sf-tb-takehirotei-as-infinite-limit-rules-of-the-chaos-dilemma) | [#1](https://osu.ppy.sh/beatmapsets/1850782) | Semifinals tiebreaker |
 
+#### ![](/wiki/shared/mode/taiko.png) Global Taiko Malaysian Showdown
+
+| Song | Beatmap | Notes |
+| :-: | :-: | :-- |
+| [GTS Orchestra Team - Akatsuki - Tokoyami no Yoru ga Aketa Toki -](https://soundcloud.com/rurinn/dawn)[^fa] | [#1](https://osu.ppy.sh/beatmapsets/1988498) | Grand Finals tiebreaker |
+
 #### ![](/wiki/shared/mode/osu.png) [GST:LIVE 2022](/wiki/Tournaments/GSTLIVE/22)
 
 | Song | Beatmap | Notes |
