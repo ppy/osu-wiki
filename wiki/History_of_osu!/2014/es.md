@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Historia de osu! 2014
 
 ## Enero
