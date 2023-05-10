@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Historia de osu! 2008
 
 ![](img/2008.jpg)
