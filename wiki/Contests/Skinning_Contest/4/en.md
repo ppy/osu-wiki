@@ -9,7 +9,7 @@ tags:
 
 ![Skinning Contest #4 banner](img/banner.jpg)
 
-The **Skinning Contest #4: Icons of an Era** is a free-for-all osu! skinning contest hosted by [skinship](https://skinship.xyz), one of the largest skinning communities on osu!. It is the third official osu! skinning contest.
+The **Skinning Contest #4: Icons of an Era** is a free-for-all osu! skinning contest hosted by [skinship](https://skinship.xyz), one of the largest skinning communities on osu!. It is the fourth official osu! skinning contest.
 
 ## Contest schedule
 
