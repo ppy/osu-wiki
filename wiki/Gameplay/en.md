@@ -25,6 +25,7 @@
 - [Score](/wiki/Gameplay/Score)
 - [Slider break](/wiki/Gameplay/Judgement/Slider_break)
 - [Spectating](/wiki/Gameplay/Spectating)
+- [Spinner trap](/wiki/Gameplay/Spinner_trap)
 - [Tablet cover](/wiki/Gameplay/Tablet_cover)
 - [Walk](/wiki/Gameplay/Walk)
 
